@@ -51,8 +51,8 @@
     },
     {
       "slug": "chumphon",
-      "status": "pending",
-      "notes": ""
+      "status": "done",
+      "notes": "English city cluster rebuilt with source-backed coast-and-ferry framing, rewritten attraction detail layer, curated food and hotel picks, and validated with jq, tsc, and localhost render checks."
     },
     {
       "slug": "hat-yai",

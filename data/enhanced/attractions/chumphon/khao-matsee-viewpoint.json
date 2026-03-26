@@ -1,0 +1,82 @@
+{
+  "id": 7,
+  "slug": "khao-matsee-viewpoint",
+  "name": {
+    "en": "Khao Matsee Viewpoint",
+    "nl": "Khao Matsee Uitzichtpunt"
+  },
+  "type": "nature",
+  "city_slug": "chumphon",
+  "address": "Pak Nam, Mueang Chumphon, Chumphon 86120",
+  "location": {
+    "lat": 10.45,
+    "lng": 99.21
+  },
+  "opening_hours": "Daily",
+  "entrance_fee": {
+    "thb": 0,
+    "usd": 0
+  },
+  "description": {
+    "en": "A 360-degree Chumphon coast viewpoint overlooking the estuary, piers, fishing community, and sea.",
+    "nl": "Een 360-graden uitzichtpunt over de kust van Chumphon met zicht op de riviermonding, pieren, vissersgemeenschap en zee."
+  },
+  "highlights": [
+    "Best quick coast overview",
+    "Fishing-pier and estuary views",
+    "Strong late-day stop"
+  ],
+  "image": "/images/cities/generated/chumphon.webp",
+  "official_website": null,
+  "seo": {
+    "metaTitle": {
+      "en": "Khao Matsee Viewpoint | Go2Thailand",
+      "nl": "Khao Matsee Uitzichtpunt | Go2Thailand"
+    },
+    "metaDescription": {
+      "en": "Why Khao Matsee is one of the most useful short stops on Chumphon's coast.",
+      "nl": "Waarom Khao Matsee een van de nuttigste korte stops aan de kust van Chumphon is."
+    }
+  },
+  "tags": [
+    "viewpoint",
+    "chumphon",
+    "coast",
+    "thailand",
+    "attraction"
+  ],
+  "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=Khao%20Matsee%20Viewpoint%20Chumphon%20Thailand",
+  "best_time": "late afternoon",
+  "duration_hours": 1,
+  "enhanced_description": "Khao Matsee is one of Chumphon's most useful short stops because it explains the coast instead of just decorating it. TAT's Chumphon attraction write-up focuses on the 360-degree view over the estuary, piers, Hat Pharadonphap side, and the sea, and that is exactly why this viewpoint belongs in a good itinerary. You can see how the fishing and pier zones connect to the wider coastline in one pass.\n\nThat matters because Chumphon is easy to misread from ground level. The province can feel scattered until you see the estuary and shore from above. Khao Matsee fixes that quickly. It works best as part of a Hat Sai Ri or Pak Nam coast loop, ideally with a coffee stop or seafood meal rather than as a standalone long drive.",
+  "detailed_history": "Tourism Authority of Thailand identifies Khao Matsee as a mountaintop viewpoint with a 360-degree outlook over the estuary, fishing piers, and Chumphon Sea. That description is still the most useful planning summary because the stop is about orientation and coast-reading more than about monuments.",
+  "visitor_experience": "Expect a short stop with a big visual payoff rather than a half-day attraction. This is the kind of place that improves an itinerary by giving the coast shape before you head back down to beaches, piers, or food stops.",
+  "best_time_to_visit": {
+    "time_of_day": "Late afternoon or sunset window",
+    "duration": "30 to 60 minutes",
+    "crowd_level": "Usually light outside holiday peaks"
+  },
+  "practical_info": {
+    "how_to_get_there": "Reached by road on the Pak Nam side of Chumphon.",
+    "nearby_attractions": "Pak Nam Chumphon, Hat Sai Ri, Prince of Chumphon Shrine, and Tham Sing Cafe.",
+    "food_options": "Best paired with a coffee stop or coast-side seafood meal.",
+    "shopping": "Very limited."
+  },
+  "insider_tips": [
+    "Do Khao Matsee after the pier or estuary side so the view reads more clearly.",
+    "This is one of the best quick photo stops in Chumphon, but its real value is trip orientation.",
+    "Late-day light usually gives the coast more shape than midday."
+  ],
+  "verified_note": "Source-backed summary based on Tourism Authority of Thailand attraction coverage. On-site vendor mix and exact operating patterns can vary.",
+  "cultural_significance": "Khao Matsee helps connect Chumphon's fishing, transport, and coastline identity into one legible view, which is why it works so well in a first visit.",
+  "contentSources": [
+    {
+      "name": "10 Things to Do in Chumphon",
+      "url": "https://www.tourismthailand.org/Articles/10-things-to-do-in-chumphon"
+    },
+    {
+      "name": "6 Best Restaurants in Chumphon",
+      "url": "https://www.tourismthailand.org/Articles/https-www-tourismthailand-org-articles-6-best-restaurants-in-chumphon"
+    }
+  ]
+}

@@ -1,0 +1,82 @@
+{
+  "id": 1,
+  "slug": "thung-wua-laen-beach",
+  "name": {
+    "en": "Thung Wua Laen Beach",
+    "nl": "Thung Wua Laen Beach"
+  },
+  "type": "beach",
+  "city_slug": "chumphon",
+  "address": "Thung Wua Laen, Saphli, Pathio, Chumphon 86160",
+  "location": {
+    "lat": 10.56,
+    "lng": 99.25
+  },
+  "opening_hours": "Open beach access",
+  "entrance_fee": {
+    "thb": 0,
+    "usd": 0
+  },
+  "description": {
+    "en": "Chumphon's strongest public beach base, with a long shoreline, simple resorts, diving operators, and a calmer mainland feel than the islands.",
+    "nl": "De sterkste openbare strandbasis van Chumphon, met een lange kustlijn, simpele resorts, duikaanbieders en een rustiger vastelandgevoel dan op de eilanden."
+  },
+  "highlights": [
+    "Best beach base in Chumphon",
+    "Long accessible shoreline",
+    "Useful for dive and snorkel departures"
+  ],
+  "image": "/images/cities/generated/chumphon.webp",
+  "official_website": null,
+  "seo": {
+    "metaTitle": {
+      "en": "Thung Wua Laen Beach, Chumphon | Go2Thailand",
+      "nl": "Thung Wua Laen Beach, Chumphon | Go2Thailand"
+    },
+    "metaDescription": {
+      "en": "Why Thung Wua Laen Beach is Chumphon's best mainland beach base for a calm Gulf-coast stay.",
+      "nl": "Waarom Thung Wua Laen Beach de beste strandbasis van Chumphon op het vasteland is."
+    }
+  },
+  "tags": [
+    "beach",
+    "chumphon",
+    "thailand",
+    "attraction",
+    "travel"
+  ],
+  "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=Thung%20Wua%20Laen%20Beach%20Chumphon%20Thailand",
+  "best_time": "morning or late afternoon",
+  "duration_hours": 3,
+  "enhanced_description": "Thung Wua Laen is the beach that makes a Chumphon stop make sense. TAT still treats Hat Thung Wua Laen as one of the province's core attractions, and the official Chumphon Cabana positioning confirms why: this is the coast strip where simple resorts, food, beach time, and marine operators actually come together in one workable place. It is not trying to be a party beach or a luxury enclave. That is the point.\n\nThe beach works best for travelers who want the mainland version of a Gulf-coast stay. You can spend the morning on the sand, use nearby operators for diving or snorkeling plans, then stay for a slow seafood dinner without feeling trapped in a resort compound. That makes Thung Wua Laen stronger than a quick photo stop or rushed pre-ferry detour. If you only have one real sea-facing night in Chumphon, this is usually where it should go.",
+  "detailed_history": "TAT's 2020 Chumphon article describes Hat Thung Wua Laen as a long white-sand beach with accommodation, restaurants, scuba schools, and rental shops along the shoreline. That description still gives the most useful planning frame: the beach matters because it remains practical, not because it has been overbuilt into a resort spectacle.",
+  "visitor_experience": "Expect a public beach with a simple local-resort strip rather than a tightly curated destination. The reward is flexibility. You can come for a few hours, but the place is much stronger if you stay through sunset or overnight and let the coast settle into the trip.",
+  "best_time_to_visit": {
+    "time_of_day": "Early morning or late afternoon",
+    "duration": "Half day to full day",
+    "crowd_level": "Usually light to moderate"
+  },
+  "practical_info": {
+    "how_to_get_there": "Best reached by road from Chumphon town or as part of a coastal stay.",
+    "nearby_attractions": "Dive operators, the broader Pathio coast, and road links toward Chumphon city or Hat Sai Ri.",
+    "food_options": "Beach-strip seafood restaurants and casual local meals.",
+    "shopping": "Minimal; this is a beach stop, not a shopping area."
+  },
+  "insider_tips": [
+    "Use Thung Wua Laen for a real overnight if the beach matters to you at all.",
+    "It is the best place in Chumphon to combine beach time with easy marine planning.",
+    "A simple room here is often a better use of budget than a town hotel plus repeated beach transfers."
+  ],
+  "verified_note": "Source-backed summary based on Tourism Authority of Thailand attraction material and an official beachfront resort reference for the Thung Wua Laen strip.",
+  "cultural_significance": "Thung Wua Laen matters because it shows Chumphon's coast in its most usable form: public beach, practical hospitality, and sea access without heavy resort overdevelopment.",
+  "contentSources": [
+    {
+      "name": "10 Things to Do in Chumphon",
+      "url": "https://www.tourismthailand.org/Articles/10-things-to-do-in-chumphon"
+    },
+    {
+      "name": "Chumphon Cabana Resort",
+      "url": "https://www.chumphoncabana.net/"
+    }
+  ]
+}

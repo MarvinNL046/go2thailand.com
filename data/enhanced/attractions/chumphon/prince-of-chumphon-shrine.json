@@ -1,0 +1,82 @@
+{
+  "id": 5,
+  "slug": "prince-of-chumphon-shrine",
+  "name": {
+    "en": "Prince of Chumphon Shrine",
+    "nl": "Heiligdom van de Prins van Chumphon"
+  },
+  "type": "cultural",
+  "city_slug": "chumphon",
+  "address": "Hat Sai Ri, Mueang Chumphon, Chumphon 86000",
+  "location": {
+    "lat": 10.518,
+    "lng": 99.205
+  },
+  "opening_hours": "Daily",
+  "entrance_fee": {
+    "thb": 0,
+    "usd": 0
+  },
+  "description": {
+    "en": "A key Hat Sai Ri landmark dedicated to Admiral Prince Abhakara Kiartivongse, one of Chumphon's most important historical and devotional sites.",
+    "nl": "Een belangrijke landmark bij Hat Sai Ri, gewijd aan admiraal prins Abhakara Kiartivongse, een van Chumphons belangrijkste historische en devotionele plekken."
+  },
+  "highlights": [
+    "One of Chumphon's defining landmarks",
+    "Historic and devotional stop",
+    "Easy Hat Sai Ri coast pairing"
+  ],
+  "image": "/images/cities/generated/chumphon.webp",
+  "official_website": null,
+  "seo": {
+    "metaTitle": {
+      "en": "Prince of Chumphon Shrine | Go2Thailand",
+      "nl": "Heiligdom van de Prins van Chumphon | Go2Thailand"
+    },
+    "metaDescription": {
+      "en": "Why the Prince of Chumphon Shrine matters on a Chumphon coast itinerary.",
+      "nl": "Waarom het heiligdom van de Prins van Chumphon belangrijk is in een kustroute door Chumphon."
+    }
+  },
+  "tags": [
+    "cultural",
+    "shrine",
+    "hat sai ri",
+    "chumphon",
+    "thailand"
+  ],
+  "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=Prince%20of%20Chumphon%20Shrine%20Thailand",
+  "best_time": "morning or late afternoon",
+  "duration_hours": 1,
+  "enhanced_description": "The Prince of Chumphon Shrine matters because it gives Chumphon more weight than a pure beach-and-pier stop. TAT's Chumphon articles still describe it as one of the province's spiritual anchors, and that is the useful way to understand it. This is not a huge complex that demands half a day, but it is one of the places that makes the Hat Sai Ri side feel rooted in local history rather than only in scenery.\n\nIf you are already driving the coast, the shrine is easy to add. That is exactly why it belongs in a short itinerary. It gives historical context, devotional atmosphere, and a stronger sense of place without forcing a complicated detour. Chumphon works better when one stop like this breaks up the beach rhythm.",
+  "detailed_history": "Tourism Authority of Thailand material identifies the shrine with Admiral Prince Abhakara Kiartivongse, the Prince of Chumphon and Father of the Royal Thai Navy. That naval-historical role is why the site carries local significance beyond ordinary sightseeing value.",
+  "visitor_experience": "Expect a respectful local landmark rather than a heavily interpreted museum attraction. The stop is short, but it works best when you approach it as part of a Hat Sai Ri and coast-road loop instead of only chasing sea views.",
+  "best_time_to_visit": {
+    "time_of_day": "Morning or late afternoon",
+    "duration": "30 to 60 minutes",
+    "crowd_level": "Can be busier on weekends and local holidays"
+  },
+  "practical_info": {
+    "how_to_get_there": "Reached by road on the Hat Sai Ri side of Chumphon.",
+    "nearby_attractions": "Hat Sai Ri, Khao Matsee, Ao Thung Makham, and Thung Makham Noi Pier.",
+    "food_options": "Combine with seafood stops on the coast side.",
+    "shopping": "Minimal; the value here is historical and local context."
+  },
+  "insider_tips": [
+    "Dress and act as you would at an active local shrine, not a purely scenic viewpoint.",
+    "Combine the stop with the wider Hat Sai Ri coast loop for better trip flow.",
+    "It is a stronger stop for context than for spending a long time on-site."
+  ],
+  "verified_note": "Source-backed summary based on Tourism Authority of Thailand Chumphon attraction articles. Local schedules and event-day activity can vary.",
+  "cultural_significance": "The shrine remains one of the clearest expressions of Chumphon's local identity, tying the province to naval history and ongoing public reverence.",
+  "contentSources": [
+    {
+      "name": "10 Things to Do in Chumphon",
+      "url": "https://www.tourismthailand.org/Articles/10-things-to-do-in-chumphon"
+    },
+    {
+      "name": "Experience the 4 aspects of Chumphon",
+      "url": "https://www.tourismthailand.org/Articles/https-www-tourismthailand-org-articlesexperience-the-4-aspects-of-chumphon-view-the-sea-of-mist-on-top-of-the-mountain-pay-respect-to-the-province-s-spiritual-anchor-and-be-a-part-of-a-local-fishing-community"
+    }
+  ]
+}

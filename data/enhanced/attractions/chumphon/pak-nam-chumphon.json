@@ -1,0 +1,82 @@
+{
+  "id": 3,
+  "slug": "pak-nam-chumphon",
+  "name": {
+    "en": "Pak Nam Chumphon",
+    "nl": "Pak Nam Chumphon"
+  },
+  "type": "coastal",
+  "city_slug": "chumphon",
+  "address": "Pak Nam, Mueang Chumphon, Chumphon 86120",
+  "location": {
+    "lat": 10.44,
+    "lng": 99.22
+  },
+  "opening_hours": "Daily",
+  "entrance_fee": {
+    "thb": 0,
+    "usd": 0
+  },
+  "description": {
+    "en": "The estuary-and-pier side of Chumphon, useful for understanding how fishing, seafood, and island transfers connect on the ground.",
+    "nl": "De riviermonding- en pierkant van Chumphon, nuttig om te begrijpen hoe visserij, seafood en eilandtransfers op de grond samenkomen."
+  },
+  "highlights": [
+    "Estuary and fishing context",
+    "Useful pier-side orientation",
+    "Best as part of a coast loop"
+  ],
+  "image": "/images/cities/generated/chumphon.webp",
+  "official_website": null,
+  "seo": {
+    "metaTitle": {
+      "en": "Pak Nam Chumphon | Go2Thailand",
+      "nl": "Pak Nam Chumphon | Go2Thailand"
+    },
+    "metaDescription": {
+      "en": "How Pak Nam Chumphon fits into the province's fishing-coast and ferry logic.",
+      "nl": "Hoe Pak Nam Chumphon past in de visserij- en ferrylogica van de provincie."
+    }
+  },
+  "tags": [
+    "coastal",
+    "pier",
+    "estuary",
+    "chumphon",
+    "thailand"
+  ],
+  "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=Pak%20Nam%20Chumphon%20Thailand",
+  "best_time": "morning or late afternoon",
+  "duration_hours": 1,
+  "enhanced_description": "Pak Nam Chumphon is useful because it makes the province's working-coast identity visible very quickly. This is the estuary side where fishing activity, pier movement, and seafood logic still sit close together. It is not a classic sightseeing district, and that is why it matters. Chumphon makes more sense once you have seen how the coast actually functions.\n\nFor most travelers, Pak Nam is not a place to spend half a day. It is a coast-reading stop. Pair it with Khao Matsee, Hat Sai Ri, or Ao Thung Makham, then move on. If you are coordinating a ferry, this side also helps you understand the geography before departure instead of treating Chumphon as one anonymous transfer point.",
+  "detailed_history": "The wider Pak Nam and Hat Sai Ri side has long anchored Chumphon's sea access, and official transport references still position the province's island-ferry logic around this coastline rather than around the town center.",
+  "visitor_experience": "Expect a practical coast and estuary zone rather than a heavily designed attraction area. The reward is understanding: boats, seafood, approach roads, and the sea all read together here in a way they do not from the town center.",
+  "best_time_to_visit": {
+    "time_of_day": "Morning or late afternoon",
+    "duration": "30 to 60 minutes",
+    "crowd_level": "Light to moderate"
+  },
+  "practical_info": {
+    "how_to_get_there": "Reached by road from central Chumphon or the Hat Sai Ri side.",
+    "nearby_attractions": "Khao Matsee, Prince of Chumphon Shrine, Ao Thung Makham, and Thung Makham Noi Pier.",
+    "food_options": "Best combined with seafood stops on the same coastal side.",
+    "shopping": "Minimal."
+  },
+  "insider_tips": [
+    "Use Pak Nam for orientation and atmosphere, not as an all-day attraction.",
+    "The stop is best before or after Khao Matsee, not instead of it.",
+    "If your Chumphon plan feels abstract, this is the place that makes the coast feel real."
+  ],
+  "verified_note": "Source-backed summary using official Chumphon transport and coast references. Exact operator activity can vary by day and season.",
+  "cultural_significance": "Pak Nam Chumphon represents the province's practical sea life more clearly than its beaches do: fishing, transfers, and coast-use remain visibly connected here.",
+  "contentSources": [
+    {
+      "name": "Year-round trips to the beautiful seas around Thailand",
+      "url": "https://www.tourismthailand.org/Articles/year-round-trips-to-the-beautiful-seas-around-thailand"
+    },
+    {
+      "name": "Lomprayah Contact Us",
+      "url": "https://www.lomprayah.com/contact-us"
+    }
+  ]
+}

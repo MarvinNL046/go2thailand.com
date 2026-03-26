@@ -1,237 +1,140 @@
 {
   "title": "Best Hotels in Chumphon Thailand (2026)",
-  "meta_description": "The 10 best hotels in Chumphon, Thailand with real prices, ratings and guest reviews from tripadvisor. Updated 2026-03-08.",
-  "intro": "Discover the best hotels in Chumphon, Thailand. These recommendations are based on real guest reviews and current pricing from tripadvisor.",
+  "meta_description": "The Chumphon hotels that actually match the trip: real beach stays at Thung Wua Laen, boutique coast options near the airport side, and practical town hotels for rail and ferry connections.",
+  "intro": "Chumphon hotels are all about function. Stay on the coast if beach time is the point, near the pier if ferry timing matters most, or in town if you need transport efficiency. These are the properties that make sense for the province's real travel patterns.",
   "items": [
     {
       "rank": 1,
-      "name": "Nana Beach Resort",
-      "description": "Nana Beach Resort is a 3.6-rated hotel in Chumphon. Features include pool, beach bar. Guests say: \"The pool is huge and very nice - across the road is a beach bar right on the beach drinks and food were all good and very reasonable prices.\".",
-      "location": "Chumphon",
-      "current_price": "$37",
+      "name": "Chumphon Cabana Resort",
+      "description": "A strong beachfront base at Thung Wua Laen if the trip is meant to feel like a real mainland beach stay rather than a night before the ferry.",
+      "location": "Thung Wua Laen Beach",
+      "current_price": "Mid-range beachfront",
       "highlights": [
-        "pool",
-        "beach bar"
+        "Official beachfront positioning",
+        "Best for staying on the sand",
+        "Good for beach-and-dive pacing"
       ],
-      "insider_tips": [
-        "The pool is huge and very nice - across the road is a beach bar right on the beach drinks and food were all good and very reasonable prices."
-      ],
-      "current_info": "Price: $37 • Rating: 3.6/5 • 230 reviews",
-      "scraped": {
-        "source": "tripadvisor",
-        "price_per_night": "$37",
-        "rating": 3.6,
-        "review_count": 230,
-        "facilities": [
-          "pool",
-          "beach bar"
-        ],
-        "review_snippets": [
-          "The pool is huge and very nice - across the road is a beach bar right on the beach drinks and food were all good and very reasonable prices."
-        ],
-        "scraped_at": "2026-03-08T15:47:40.038Z"
-      },
-      "affiliate_url": "https://tp.media/r?marker=602467&trs=421888&p=4114&u=https%3A%2F%2Fwww.booking.com%2Fsearchresults.html%3Fss%3DNana%2520Beach%2520Resort%252C%2520Chumphon%252C%2520Thailand%26nflt%3Dht_id%253D204",
-      "trip_affiliate_url": "https://tp.media/r?marker=602467&trs=421888&p=7631&u=https%3A%2F%2Fwww.trip.com%2Fhotels%2Flist%3Fkeyword%3DNana%2520Beach%2520Resort%2520Chumphon"
+      "current_info": "A better fit for leisure nights than for a pure transit stop."
     },
     {
       "rank": 2,
-      "name": "The Nest Private Beach Resort",
-      "description": "The Nest Private Beach Resort is a 4.2-rated hotel in Chumphon. Guests say: \"What a beautiful spot on earth! If you've always wanted to have your own beach and relax in peace and quiet, this is the place for you.\".",
-      "location": "Chumphon",
-      "highlights": [],
-      "insider_tips": [
-        "What a beautiful spot on earth! If you've always wanted to have your own beach and relax in peace and quiet, this is the place for you."
+      "name": "SARA Beachfront Boutique Resort",
+      "description": "One of Chumphon's clearest upscale coastal stays if you want a quieter boutique feel and are willing to center the trip around the resort side of the coast.",
+      "location": "Banathap / Pathio coast",
+      "current_price": "Upscale boutique beachfront",
+      "highlights": [
+        "Official boutique beachfront resort",
+        "Strong for couples",
+        "Useful if hotel comfort is part of the trip"
       ],
-      "current_info": "Rating: 4.2/5 • 35 reviews",
-      "scraped": {
-        "source": "tripadvisor",
-        "rating": 4.2,
-        "review_count": 35,
-        "review_snippets": [
-          "What a beautiful spot on earth! If you've always wanted to have your own beach and relax in peace and quiet, this is the place for you."
-        ],
-        "scraped_at": "2026-03-08T15:47:40.038Z"
-      },
-      "affiliate_url": "https://tp.media/r?marker=602467&trs=421888&p=4114&u=https%3A%2F%2Fwww.booking.com%2Fsearchresults.html%3Fss%3DThe%2520Nest%2520Private%2520Beach%2520Resort%252C%2520Chumphon%252C%2520Thailand%26nflt%3Dht_id%253D204",
-      "trip_affiliate_url": "https://tp.media/r?marker=602467&trs=421888&p=7631&u=https%3A%2F%2Fwww.trip.com%2Fhotels%2Flist%3Fkeyword%3DThe%2520Nest%2520Private%2520Beach%2520Resort%2520Chumphon"
+      "current_info": "Best when the beach stay itself matters as much as the sightseeing."
     },
     {
       "rank": 3,
-      "name": "The Beach Resort & Residence",
-      "description": "The Beach Resort & Residence is a 3.8-rated hotel in Chumphon.",
-      "location": "Chumphon",
-      "highlights": [],
-      "insider_tips": [],
-      "current_info": "Rating: 3.8/5 • 25 reviews",
-      "scraped": {
-        "source": "tripadvisor",
-        "rating": 3.8,
-        "review_count": 25,
-        "scraped_at": "2026-03-08T15:47:40.038Z"
-      },
-      "affiliate_url": "https://tp.media/r?marker=602467&trs=421888&p=4114&u=https%3A%2F%2Fwww.booking.com%2Fsearchresults.html%3Fss%3DThe%2520Beach%2520Resort%2520%2526%2520Residence%252C%2520Chumphon%252C%2520Thailand%26nflt%3Dht_id%253D204",
-      "trip_affiliate_url": "https://tp.media/r?marker=602467&trs=421888&p=7631&u=https%3A%2F%2Fwww.trip.com%2Fhotels%2Flist%3Fkeyword%3DThe%2520Beach%2520Resort%2520%2526%2520Residence%2520Chumphon"
+      "name": "Novotel Chumphon Beach Resort and Golf",
+      "description": "A full-facility resort format on the Pak Nam side for travelers who prefer a larger international-style property to small beach resorts.",
+      "location": "Hat Pharadonphap / Pak Nam side",
+      "current_price": "Upscale resort",
+      "highlights": [
+        "Official TAT brochure listing",
+        "Large resort layout",
+        "Good for comfort-led mainland stays"
+      ],
+      "current_info": "A practical fit when you want resort structure more than local-style intimacy."
     },
     {
       "rank": 4,
-      "name": "Chumphon Cabana",
-      "description": "Chumphon Cabana is a 3.2-rated hotel in Chumphon. Guests say: \"As there are no sun loungers on the hotel's own beach either, we have to lie on the ground if we want to relax. A great pity and quite astonishing for a 4-star beach hotel!\".",
-      "location": "Chumphon",
-      "highlights": [],
-      "insider_tips": [
-        "As there are no sun loungers on the hotel's own beach either, we have to lie on the ground if we want to relax. A great pity and quite astonishing for a 4-star beach hotel!"
+      "name": "Retro Box Hotel",
+      "description": "A practical city-center hotel with clear value if station access, market access, and one-night transfer convenience matter most.",
+      "location": "Chumphon town center",
+      "current_price": "Budget to mid-range",
+      "highlights": [
+        "Official city-center positioning",
+        "Useful for rail and market access",
+        "Strong transit-night option"
       ],
-      "current_info": "Rating: 3.2/5 • 111 reviews",
-      "scraped": {
-        "source": "tripadvisor",
-        "rating": 3.2,
-        "review_count": 111,
-        "review_snippets": [
-          "As there are no sun loungers on the hotel's own beach either, we have to lie on the ground if we want to relax. A great pity and quite astonishing for a 4-star beach hotel!"
-        ],
-        "scraped_at": "2026-03-08T15:47:40.038Z"
-      },
-      "affiliate_url": "https://tp.media/r?marker=602467&trs=421888&p=4114&u=https%3A%2F%2Fwww.booking.com%2Fsearchresults.html%3Fss%3DChumphon%2520Cabana%252C%2520Chumphon%252C%2520Thailand%26nflt%3Dht_id%253D204",
-      "trip_affiliate_url": "https://tp.media/r?marker=602467&trs=421888&p=7631&u=https%3A%2F%2Fwww.trip.com%2Fhotels%2Flist%3Fkeyword%3DChumphon%2520Cabana%2520Chumphon"
+      "current_info": "Best for transport-led stays rather than for sea views."
     },
     {
       "rank": 5,
-      "name": "Magic House",
-      "description": "Magic House is a 4.6-rated hotel in Chumphon. Guests say: \"Perhaps as it's close to the Lom Prayoh ferry pier to Koh Samui and maybe guests forget to return the key?) Anyway a pleasant stay that did not include breakfast but a nice place to stay as it's quiet and clean...\".",
-      "location": "Chumphon",
-      "highlights": [],
-      "insider_tips": [
-        "Perhaps as it's close to the Lom Prayoh ferry pier to Koh Samui and maybe guests forget to return the key?) Anyway a pleasant stay that did not include breakfast but a nice place to stay as it's quiet and clean..."
+      "name": "Palm Sweet Resort",
+      "description": "A sensible resort-style stay on the town side when you want parking, road access, and easier value without needing the beach outside the room.",
+      "location": "Bang Luek / outer city",
+      "current_price": "Budget to mid-range",
+      "highlights": [
+        "Official hotel website",
+        "Useful road-trip base",
+        "Value alternative to beachfront stays"
       ],
-      "current_info": "Rating: 4.6/5 • 60 reviews",
-      "scraped": {
-        "source": "tripadvisor",
-        "rating": 4.6,
-        "review_count": 60,
-        "review_snippets": [
-          "Perhaps as it's close to the Lom Prayoh ferry pier to Koh Samui and maybe guests forget to return the key?) Anyway a pleasant stay that did not include breakfast but a nice place to stay as it's quiet and clean..."
-        ],
-        "scraped_at": "2026-03-08T15:47:40.038Z"
-      },
-      "affiliate_url": "https://tp.media/r?marker=602467&trs=421888&p=4114&u=https%3A%2F%2Fwww.booking.com%2Fsearchresults.html%3Fss%3DMagic%2520House%252C%2520Chumphon%252C%2520Thailand%26nflt%3Dht_id%253D204",
-      "trip_affiliate_url": "https://tp.media/r?marker=602467&trs=421888&p=7631&u=https%3A%2F%2Fwww.trip.com%2Fhotels%2Flist%3Fkeyword%3DMagic%2520House%2520Chumphon"
+      "current_info": "A better fit for drivers and mainland stopovers than for beach-focused trips."
     },
     {
       "rank": 6,
-      "name": "Sara Beachfront Boutique Resort",
-      "description": "Sara Beachfront Boutique Resort is a 4.5-rated hotel in Chumphon.",
-      "location": "Chumphon",
-      "highlights": [],
-      "insider_tips": [],
-      "current_info": "Rating: 4.5/5 • 126 reviews",
-      "scraped": {
-        "source": "tripadvisor",
-        "rating": 4.5,
-        "review_count": 126,
-        "scraped_at": "2026-03-08T15:47:40.038Z"
-      },
-      "affiliate_url": "https://tp.media/r?marker=602467&trs=421888&p=4114&u=https%3A%2F%2Fwww.booking.com%2Fsearchresults.html%3Fss%3DSara%2520Beachfront%2520Boutique%2520Resort%252C%2520Chumphon%252C%2520Thailand%26nflt%3Dht_id%253D204",
-      "trip_affiliate_url": "https://tp.media/r?marker=602467&trs=421888&p=7631&u=https%3A%2F%2Fwww.trip.com%2Fhotels%2Flist%3Fkeyword%3DSara%2520Beachfront%2520Boutique%2520Resort%2520Chumphon"
+      "name": "Clean Wave Resort",
+      "description": "A practical Thung Wua Laen stay when you want to sleep on the same strip as the beach and restaurants without paying for a larger resort format.",
+      "location": "Hat Thung Wua Laen",
+      "current_price": "Budget to mid-range beachfront",
+      "highlights": [
+        "Official TAT brochure listing",
+        "Good simple seaside option",
+        "Useful value beach stay"
+      ],
+      "current_info": "Best for travelers who want beach positioning more than resort facilities."
     },
     {
       "rank": 7,
-      "name": "De Sea Almond",
-      "description": "De Sea Almond is a 4-rated hotel in Chumphon. Guests say: \"The hotel is very quiet and literally 10 meters away from the beach with many comfy tables sheltered from the sun.\".",
-      "location": "Chumphon",
-      "highlights": [],
-      "insider_tips": [
-        "The hotel is very quiet and literally 10 meters away from the beach with many comfy tables sheltered from the sun."
+      "name": "Nana Buri Hotel",
+      "description": "A dependable town option from the official TAT brochure if you need Chumphon as a practical overnight base first and a coastal province second.",
+      "location": "Tha Taphao / town center",
+      "current_price": "Mid-range",
+      "highlights": [
+        "Official TAT brochure listing",
+        "Useful town location",
+        "Good for transfer nights"
       ],
-      "current_info": "Rating: 4/5 • 92 reviews",
-      "scraped": {
-        "source": "tripadvisor",
-        "rating": 4,
-        "review_count": 92,
-        "review_snippets": [
-          "The hotel is very quiet and literally 10 meters away from the beach with many comfy tables sheltered from the sun."
-        ],
-        "scraped_at": "2026-03-08T15:47:40.038Z"
-      },
-      "affiliate_url": "https://tp.media/r?marker=602467&trs=421888&p=4114&u=https%3A%2F%2Fwww.booking.com%2Fsearchresults.html%3Fss%3DDe%2520Sea%2520Almond%252C%2520Chumphon%252C%2520Thailand%26nflt%3Dht_id%253D204",
-      "trip_affiliate_url": "https://tp.media/r?marker=602467&trs=421888&p=7631&u=https%3A%2F%2Fwww.trip.com%2Fhotels%2Flist%3Fkeyword%3DDe%2520Sea%2520Almond%2520Chumphon"
-    },
-    {
-      "rank": 8,
-      "name": "Cleanwave Resort Chumphon",
-      "description": "Cleanwave Resort Chumphon is a 4.2-rated hotel in Chumphon. Guests say: \"Conveniently located a stone's throw from a lovely beach, one of the things I particularly liked about the Cleanwave Resort was the generous spacing between the bungalows in a pleasant garden setting, guaranteeing...\".",
-      "location": "Chumphon",
-      "highlights": [],
-      "insider_tips": [
-        "Conveniently located a stone's throw from a lovely beach, one of the things I particularly liked about the Cleanwave Resort was the generous spacing between the bungalows in a pleasant garden setting, guaranteeing..."
-      ],
-      "current_info": "Rating: 4.2/5 • 44 reviews",
-      "scraped": {
-        "source": "tripadvisor",
-        "rating": 4.2,
-        "review_count": 44,
-        "review_snippets": [
-          "Conveniently located a stone's throw from a lovely beach, one of the things I particularly liked about the Cleanwave Resort was the generous spacing between the bungalows in a pleasant garden setting, guaranteeing..."
-        ],
-        "scraped_at": "2026-03-08T15:47:40.038Z"
-      },
-      "affiliate_url": "https://tp.media/r?marker=602467&trs=421888&p=4114&u=https%3A%2F%2Fwww.booking.com%2Fsearchresults.html%3Fss%3DCleanwave%2520Resort%2520Chumphon%252C%2520Chumphon%252C%2520Thailand%26nflt%3Dht_id%253D204",
-      "trip_affiliate_url": "https://tp.media/r?marker=602467&trs=421888&p=7631&u=https%3A%2F%2Fwww.trip.com%2Fhotels%2Flist%3Fkeyword%3DCleanwave%2520Resort%2520Chumphon%2520Chumphon"
-    },
-    {
-      "rank": 9,
-      "name": "Moonrise Villa",
-      "description": "Moonrise Villa is a 4.3-rated hotel in Chumphon. Guests say: \"Room is very clean with daily housekeep...\".",
-      "location": "Chumphon",
-      "highlights": [],
-      "insider_tips": [
-        "Room is very clean with daily housekeep..."
-      ],
-      "current_info": "Rating: 4.3/5 • 7 reviews",
-      "scraped": {
-        "source": "tripadvisor",
-        "rating": 4.3,
-        "review_count": 7,
-        "review_snippets": [
-          "Room is very clean with daily housekeep..."
-        ],
-        "scraped_at": "2026-03-08T15:47:40.038Z"
-      },
-      "affiliate_url": "https://tp.media/r?marker=602467&trs=421888&p=4114&u=https%3A%2F%2Fwww.booking.com%2Fsearchresults.html%3Fss%3DMoonrise%2520Villa%252C%2520Chumphon%252C%2520Thailand%26nflt%3Dht_id%253D204",
-      "trip_affiliate_url": "https://tp.media/r?marker=602467&trs=421888&p=7631&u=https%3A%2F%2Fwww.trip.com%2Fhotels%2Flist%3Fkeyword%3DMoonrise%2520Villa%2520Chumphon"
-    },
-    {
-      "rank": 10,
-      "name": "Baan I Talay @ Chumphon",
-      "description": "Baan I Talay @ Chumphon is a 3.5-rated hotel in Chumphon. Guests say: \"Very close to the boat pier to koh tao so...\".",
-      "location": "Chumphon",
-      "highlights": [],
-      "insider_tips": [
-        "Very close to the boat pier to koh tao so..."
-      ],
-      "current_info": "Rating: 3.5/5 • 24 reviews",
-      "scraped": {
-        "source": "tripadvisor",
-        "rating": 3.5,
-        "review_count": 24,
-        "review_snippets": [
-          "Very close to the boat pier to koh tao so..."
-        ],
-        "scraped_at": "2026-03-08T15:47:40.038Z"
-      },
-      "affiliate_url": "https://tp.media/r?marker=602467&trs=421888&p=4114&u=https%3A%2F%2Fwww.booking.com%2Fsearchresults.html%3Fss%3DBaan%2520I%2520Talay%2520%2540%2520Chumphon%252C%2520Chumphon%252C%2520Thailand%26nflt%3Dht_id%253D204",
-      "trip_affiliate_url": "https://tp.media/r?marker=602467&trs=421888&p=7631&u=https%3A%2F%2Fwww.trip.com%2Fhotels%2Flist%3Fkeyword%3DBaan%2520I%2520Talay%2520%2540%2520Chumphon%2520Chumphon"
+      "current_info": "A straightforward pick for rail, bus, and early-departure logistics."
     }
   ],
   "city_slug": "chumphon",
   "city_name": "Chumphon",
   "category": "hotels",
-  "data_sources": [
-    "tripadvisor",
-    "scraped"
+  "content_sources": [
+    {
+      "title": "Chumphon Cabana Resort",
+      "creator": "Chumphon Cabana Resort",
+      "url": "https://www.chumphoncabana.net/",
+      "description": "Used for official Thung Wua Laen beachfront positioning and room-style context."
+    },
+    {
+      "title": "SARA Beachfront Boutique Resort",
+      "creator": "SARA Beachfront Boutique Resort",
+      "url": "https://sara-resort-chumphon.com/",
+      "description": "Used for official boutique beachfront positioning, suite count, and airport-side context."
+    },
+    {
+      "title": "Retro Box Hotel",
+      "creator": "Retro Box Hotel",
+      "url": "https://retroboxhotel.com/?lang=en",
+      "description": "Used for city-center location and transport-side positioning."
+    },
+    {
+      "title": "Palm Sweet Resort",
+      "creator": "Palm Sweet Resort",
+      "url": "https://www.palmsweetresort.com/",
+      "description": "Used for official outer-city resort reference and contact confirmation."
+    },
+    {
+      "title": "Provincial Brochure Chumphon",
+      "creator": "Tourism Authority of Thailand",
+      "url": "https://www.turismotailandes.org.pt/WebRoot/Store/Shops/1032-180719/MediaGallery/Nova_pasta1/Nova_pasta/Provincial_Brochure_A5_Chumphon_En.pdf",
+      "description": "Used for official listings covering Novotel Chumphon Beach Resort and Golf, Nana Buri Hotel, and Clean Wave Resort."
+    }
   ],
-  "last_scraped": "2026-03-08T15:47:40.038Z",
-  "generated_at": "2026-03-08T15:47:40.038Z",
-  "hybrid": false,
-  "scraped": true
+  "data_sources": [
+    "Official hotel websites",
+    "Tourism Authority of Thailand"
+  ],
+  "generated_at": "2026-03-26T00:00:00.000Z",
+  "factchecked_at": "2026-03-26T00:00:00.000Z",
+  "hybrid": false
 }

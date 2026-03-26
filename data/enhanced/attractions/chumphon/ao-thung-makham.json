@@ -1,0 +1,86 @@
+{
+  "id": 6,
+  "slug": "ao-thung-makham",
+  "name": {
+    "en": "Ao Thung Makham",
+    "nl": "Ao Thung Makham"
+  },
+  "type": "coastal",
+  "city_slug": "chumphon",
+  "address": "Thung Makham, Mueang Chumphon, Chumphon 86000",
+  "location": {
+    "lat": 10.41,
+    "lng": 99.23
+  },
+  "opening_hours": "Daily",
+  "entrance_fee": {
+    "thb": 0,
+    "usd": 0
+  },
+  "description": {
+    "en": "A working-coast stop near the ferry side of Chumphon, useful for seafood, pier context, and a less polished shoreline atmosphere.",
+    "nl": "Een werkende kuststop aan de ferrykant van Chumphon, nuttig voor seafood, piercontext en een minder gepolijste kustsfeer."
+  },
+  "highlights": [
+    "Seafood and coast in one stop",
+    "Near the ferry side",
+    "Better for atmosphere than for a full beach day"
+  ],
+  "image": "/images/cities/generated/chumphon.webp",
+  "official_website": null,
+  "seo": {
+    "metaTitle": {
+      "en": "Ao Thung Makham, Chumphon | Go2Thailand",
+      "nl": "Ao Thung Makham, Chumphon | Go2Thailand"
+    },
+    "metaDescription": {
+      "en": "Why Ao Thung Makham works as a seafood-and-coast stop in Chumphon.",
+      "nl": "Waarom Ao Thung Makham werkt als seafood- en kuststop in Chumphon."
+    }
+  },
+  "tags": [
+    "coastal",
+    "seafood",
+    "chumphon",
+    "thailand",
+    "attraction"
+  ],
+  "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=Ao%20Thung%20Makham%20Chumphon%20Thailand",
+  "best_time": "late morning to sunset",
+  "duration_hours": 1.5,
+  "enhanced_description": "Ao Thung Makham is not the kind of place you visit for a perfect postcard beach. It is better than that for Chumphon planning. This stretch is useful because it keeps the sea, seafood, and ferry-side atmosphere close together. If you want to understand Chumphon as a working coast rather than a resort strip, this is one of the more useful stops.\n\nIt works especially well when paired with Hat Sai Ri, the Prince of Chumphon Shrine, or ferry logistics around Thung Makham Noi. Come here for a coast-side meal, a slower look at the shoreline, or a practical stop before or after the pier. That combination of food and transport context is what makes Ao Thung Makham more valuable than a generic scenic detour.",
+  "detailed_history": "Ao Thung Makham sits in the same wider Hat Sai Ri and Thung Makham coastal zone that supports Chumphon's ferry movement and seafood culture. That makes it more meaningful as a coast-use area than as a stand-alone attraction with a single headline sight.",
+  "visitor_experience": "Expect a working coastal atmosphere with food and sea access rather than a highly managed beach destination. The stop is most rewarding when you let lunch, pier context, and a short shoreline look happen together.",
+  "best_time_to_visit": {
+    "time_of_day": "Late morning, lunch, or late afternoon",
+    "duration": "60 to 90 minutes",
+    "crowd_level": "Usually light to moderate"
+  },
+  "practical_info": {
+    "how_to_get_there": "Reached by road from the Hat Sai Ri and Pak Nam side of Chumphon.",
+    "nearby_attractions": "Prince of Chumphon Shrine, Khao Matsee, Pak Nam, and Thung Makham Noi Pier.",
+    "food_options": "Seafood restaurants and coast-side casual stops are the main reason to come.",
+    "shopping": "Very limited."
+  },
+  "insider_tips": [
+    "Come for seafood and coast atmosphere, not for a full swim-day plan.",
+    "This stop works especially well on the same loop as the shrine and Khao Matsee.",
+    "If your ferry timing allows it, Ao Thung Makham is a much better pre-departure stop than waiting inland."
+  ],
+  "verified_note": "Source-backed summary using official Chumphon coastal context and transport-side planning references. Venue mix can change over time.",
+  "cultural_significance": "Ao Thung Makham helps show why Chumphon still feels like a living coast: food, sea access, and ferry-side movement are still visibly connected.",
+  "contentSources": [
+    {
+      "name": "Year-round trips to the beautiful seas around Thailand",
+      "url": "https://www.tourismthailand.org/Articles/year-round-trips-to-the-beautiful-seas-around-thailand"
+    },
+    {
+      "name": "Lomprayah Contact Us",
+      "url": "https://www.lomprayah.com/contact-us"
+    },
+    {
+      "name": "Provincial Brochure Chumphon",
+      "url": "https://www.turismotailandes.org.pt/WebRoot/Store/Shops/1032-180719/MediaGallery/Nova_pasta1/Nova_pasta/Provincial_Brochure_A5_Chumphon_En.pdf"
+    }
+  ]
+}

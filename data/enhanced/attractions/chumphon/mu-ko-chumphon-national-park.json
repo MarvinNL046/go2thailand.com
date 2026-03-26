@@ -1,0 +1,82 @@
+{
+  "id": 2,
+  "slug": "mu-ko-chumphon-national-park",
+  "name": {
+    "en": "Mu Ko Chumphon National Park",
+    "nl": "Mu Ko Chumphon Nationaal Park"
+  },
+  "type": "nature",
+  "city_slug": "chumphon",
+  "address": "Mu Ko Chumphon National Park, Chumphon, Thailand",
+  "location": {
+    "lat": 10.5,
+    "lng": 99.3
+  },
+  "opening_hours": "Varies by boat operator and sea conditions",
+  "entrance_fee": {
+    "thb": 200,
+    "usd": 6
+  },
+  "description": {
+    "en": "The marine-park archipelago off Chumphon's coast, known for island day trips, reefs, snorkeling, and diving.",
+    "nl": "De mariene archipel voor de kust van Chumphon, bekend om eiland-dagtrips, riffen, snorkelen en duiken."
+  },
+  "highlights": [
+    "Marine park island network",
+    "Snorkel and dive planning",
+    "Best as a full-day sea outing"
+  ],
+  "image": "/images/cities/generated/chumphon.webp",
+  "official_website": null,
+  "seo": {
+    "metaTitle": {
+      "en": "Mu Ko Chumphon National Park | Go2Thailand",
+      "nl": "Mu Ko Chumphon Nationaal Park | Go2Thailand"
+    },
+    "metaDescription": {
+      "en": "How to think about Mu Ko Chumphon National Park as Chumphon's main reef-and-island day.",
+      "nl": "Hoe je Mu Ko Chumphon Nationaal Park ziet als de belangrijkste rif- en eilanddag van Chumphon."
+    }
+  },
+  "tags": [
+    "nature",
+    "marine park",
+    "chumphon",
+    "thailand",
+    "attraction"
+  ],
+  "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=Mu%20Ko%20Chumphon%20National%20Park%20Thailand",
+  "best_time": "full-day outing",
+  "duration_hours": 7,
+  "enhanced_description": "Mu Ko Chumphon is the attraction that gives Chumphon real depth beyond the ferry route. TAT's Chumphon guide describes the marine zone as a broad archipelago of islands and dive spots, and that is the useful way to read it. This is not a quick roadside landmark. It is the province's full sea day: reefs, islands, boat logistics, and the feeling that Chumphon belongs to a larger marine landscape rather than only to the mainland beaches.\n\nThe main planning mistake is trying to treat the park like a minor add-on between arrival and departure. Reserve the time properly or skip it. When the sea is cooperative, Mu Ko Chumphon is one of the clearest reasons to choose Chumphon over a pure transfer stop. When conditions are poor, switch to land-based coast plans instead of forcing it.",
+  "detailed_history": "TAT's '10 Things to Do in Chumphon' article describes Mu Ko Chumphon through its spread of islands and diving spots, including the broader reef-and-island system off the province's coast. That framing is more durable than trying to reduce the park to one single island name or one operator route.",
+  "visitor_experience": "Expect a transport-led marine day rather than a walk-up attraction. Most visitors experience the park through snorkel or dive trips arranged from the coast, which is why weather, operator quality, and realistic timing matter more here than on land attractions.",
+  "best_time_to_visit": {
+    "time_of_day": "Morning departure",
+    "duration": "Full day",
+    "crowd_level": "Varies by season and operator"
+  },
+  "practical_info": {
+    "how_to_get_there": "Usually reached by boat from Chumphon's coast through local operators.",
+    "nearby_attractions": "Thung Wua Laen, Pak Nam, and other coastal bases that support marine departures.",
+    "food_options": "Most food depends on the operator or your departure base.",
+    "shopping": "Not a shopping stop."
+  },
+  "insider_tips": [
+    "Reserve one full day instead of trying to squeeze the park around ferry timing.",
+    "Confirm current sea conditions and operator routing before you commit.",
+    "If the weather turns, switch to mainland coast plans rather than forcing a poor marine day."
+  ],
+  "verified_note": "TAT attraction material confirms the marine-park and island character of Mu Ko Chumphon. Entrance and operator arrangements can change, so verify current pricing and routing before departure.",
+  "cultural_significance": "Mu Ko Chumphon is what keeps the province connected to Thailand's broader Gulf marine identity rather than being only a transport stop for Koh Tao.",
+  "contentSources": [
+    {
+      "name": "10 Things to Do in Chumphon",
+      "url": "https://www.tourismthailand.org/Articles/10-things-to-do-in-chumphon"
+    },
+    {
+      "name": "Year-round trips to the beautiful seas around Thailand",
+      "url": "https://www.tourismthailand.org/Articles/year-round-trips-to-the-beautiful-seas-around-thailand"
+    }
+  ]
+}

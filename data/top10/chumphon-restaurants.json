@@ -1,206 +1,121 @@
 {
   "title": "Best Restaurants in Chumphon Thailand (2026)",
-  "meta_description": "The 10 best restaurants in Chumphon, Thailand with real ratings and guest reviews from tripadvisor. Updated 2026-03-08.",
-  "intro": "Discover the best restaurants in Chumphon, Thailand. These recommendations are based on real guest reviews and ratings from tripadvisor.",
+  "meta_description": "Where to eat in Chumphon for 2026: seafood worth the coast detour, local kaeng som noodles, dim sum, roti, coffee stops, and the night-market food that suits a mainland Gulf stay.",
+  "intro": "Chumphon food is stronger when you do not force it into one category. Seafood matters, but so do kaeng som noodles, dim sum, roti, coffee, and night-market grazing. These are the restaurants and food zones that actually fit how Chumphon works on the ground.",
   "items": [
     {
       "rank": 1,
-      "name": "Le Betole",
-      "description": "Le Betole is a 4.7-rated Italian, Pizza restaurant in Chumphon.",
-      "location": "Chumphon",
-      "current_price": "$$ - $$$",
-      "highlights": [],
-      "insider_tips": [],
-      "current_info": "Cuisine: Italian, Pizza • Price: $$ - $$$ • Rating: 4.7/5 • 80 reviews",
-      "scraped": {
-        "source": "tripadvisor",
-        "cuisine": "Italian, Pizza",
-        "price_range": "$$ - $$$",
-        "rating": 4.7,
-        "review_count": 80,
-        "scraped_at": "2026-03-08T17:18:42.479Z"
-      },
-      "trip_affiliate_url": "https://tp.media/r?marker=602467&trs=421888&p=7631&u=https%3A%2F%2Fwww.trip.com%2Fhotels%2Flist%3Fkeyword%3DLe%2520Betole%2520Chumphon"
+      "name": "San Sai Seafood Restaurant",
+      "description": "One of TAT's clearest Chumphon food recommendations if you want the meal to feel tied to the sea rather than to a generic town restaurant.",
+      "location": "Coastal Lang Suan side",
+      "current_price": "Mid-range",
+      "highlights": [
+        "Official TAT restaurant pick",
+        "Seafood-first meal",
+        "Best when the coast is part of the stop"
+      ],
+      "current_info": "A smarter choice for one proper seafood meal than trying to eat every dinner in town."
     },
     {
       "rank": 2,
-      "name": "Mae Mai Seafood",
-      "description": "Mae Mai Seafood is a 4.2-rated Seafood, Asian restaurant in Chumphon.",
-      "location": "Chumphon",
-      "highlights": [],
-      "insider_tips": [],
-      "current_info": "Cuisine: Seafood, Asian • Rating: 4.2/5 • 22 reviews",
-      "scraped": {
-        "source": "tripadvisor",
-        "cuisine": "Seafood, Asian",
-        "rating": 4.2,
-        "review_count": 22,
-        "scraped_at": "2026-03-08T17:18:42.479Z"
-      },
-      "trip_affiliate_url": "https://tp.media/r?marker=602467&trs=421888&p=7631&u=https%3A%2F%2Fwww.trip.com%2Fhotels%2Flist%3Fkeyword%3DMae%2520Mai%2520Seafood%2520Chumphon"
+      "name": "Jae Muai Kaeng Som Noodles",
+      "description": "The best official reference for Chumphon's everyday southern-food side, especially if you want a city meal that is not just another seafood table.",
+      "location": "Chumphon town",
+      "current_price": "Budget",
+      "highlights": [
+        "Official TAT restaurant pick",
+        "Strong local noodle identity",
+        "Useful lunch or early dinner stop"
+      ],
+      "current_info": "A very good fit for a city meal before returning to the coast."
     },
     {
       "rank": 3,
-      "name": "Season Cafe Chumphon",
-      "description": "Season Cafe Chumphon is a 4.9-rated American, Thai restaurant in Chumphon.",
-      "location": "Chumphon",
-      "current_price": "$$ - $$$",
-      "highlights": [],
-      "insider_tips": [],
-      "current_info": "Cuisine: American, Thai • Price: $$ - $$$ • Rating: 4.9/5 • 8 reviews",
-      "scraped": {
-        "source": "tripadvisor",
-        "cuisine": "American, Thai",
-        "price_range": "$$ - $$$",
-        "rating": 4.9,
-        "review_count": 8,
-        "scraped_at": "2026-03-08T17:18:42.479Z"
-      },
-      "trip_affiliate_url": "https://tp.media/r?marker=602467&trs=421888&p=7631&u=https%3A%2F%2Fwww.trip.com%2Fhotels%2Flist%3Fkeyword%3DSeason%2520Cafe%2520Chumphon%2520Chumphon"
+      "name": "Hor Jiah Dim Sum",
+      "description": "A practical Thai-Chinese breakfast or brunch move that suits Chumphon's transit-town rhythm far better than another generic cafe.",
+      "location": "Chumphon town",
+      "current_price": "Budget",
+      "highlights": [
+        "Official TAT restaurant pick",
+        "Good morning meal",
+        "Makes short Chumphon stays feel more local"
+      ],
+      "current_info": "Best used earlier in the day rather than saved as a dinner option."
     },
     {
       "rank": 4,
-      "name": "Take A Seat Cafe",
-      "description": "Take A Seat Cafe is a 4.9-rated Cafe, Thai restaurant in Chumphon.",
-      "location": "Chumphon",
-      "current_price": "$",
-      "highlights": [],
-      "insider_tips": [],
-      "current_info": "Cuisine: Cafe, Thai • Price: $ • Rating: 4.9/5 • 27 reviews",
-      "scraped": {
-        "source": "tripadvisor",
-        "cuisine": "Cafe, Thai",
-        "price_range": "$",
-        "rating": 4.9,
-        "review_count": 27,
-        "scraped_at": "2026-03-08T17:18:42.479Z"
-      },
-      "trip_affiliate_url": "https://tp.media/r?marker=602467&trs=421888&p=7631&u=https%3A%2F%2Fwww.trip.com%2Fhotels%2Flist%3Fkeyword%3DTake%2520A%2520Seat%2520Cafe%2520Chumphon"
+      "name": "Roti Faridah",
+      "description": "One of the simplest reliable market-side eats if you want roti, tea, and a lighter local stop close to the night-market rhythm.",
+      "location": "Near the Chumphon Night Market",
+      "current_price": "Budget",
+      "highlights": [
+        "Official TAT restaurant pick",
+        "Great for snack-to-light-meal timing",
+        "Useful non-seafood stop"
+      ],
+      "current_info": "Fits well before or after a night-market pass rather than as a formal meal destination."
     },
     {
       "rank": 5,
-      "name": "Green Kitchen",
-      "description": "Green Kitchen is a 3.9-rated Asian, Thai restaurant in Chumphon.",
-      "location": "Chumphon",
-      "current_price": "$$ - $$$",
-      "highlights": [],
-      "insider_tips": [],
-      "current_info": "Cuisine: Asian, Thai • Price: $$ - $$$ • Rating: 3.9/5 • 50 reviews",
-      "scraped": {
-        "source": "tripadvisor",
-        "cuisine": "Asian, Thai",
-        "price_range": "$$ - $$$",
-        "rating": 3.9,
-        "review_count": 50,
-        "scraped_at": "2026-03-08T17:18:42.479Z"
-      },
-      "trip_affiliate_url": "https://tp.media/r?marker=602467&trs=421888&p=7631&u=https%3A%2F%2Fwww.trip.com%2Fhotels%2Flist%3Fkeyword%3DGreen%2520Kitchen%2520Chumphon"
+      "name": "Tham Sing Cafe at Khao Mutsea",
+      "description": "A viewpoint cafe that works because it combines a coffee break with one of the province's better scenic detours.",
+      "location": "Khao Mutsea / Khao Matsee side",
+      "current_price": "Budget to mid-range",
+      "highlights": [
+        "Official TAT restaurant pick",
+        "Best scenic coffee stop",
+        "Good pacing reset on the coast loop"
+      ],
+      "current_info": "More useful as a scenic pause than as the day's main meal."
     },
     {
       "rank": 6,
-      "name": "Yong Hong Huad",
-      "description": "Yong Hong Huad is a 5-rated Chinese, Fast Food restaurant in Chumphon.",
-      "location": "Chumphon",
-      "current_price": "$",
-      "highlights": [],
-      "insider_tips": [],
-      "current_info": "Cuisine: Chinese, Fast Food • Price: $ • Rating: 5/5 • 4 reviews",
-      "scraped": {
-        "source": "tripadvisor",
-        "cuisine": "Chinese, Fast Food",
-        "price_range": "$",
-        "rating": 5,
-        "review_count": 4,
-        "scraped_at": "2026-03-08T17:18:42.479Z"
-      },
-      "trip_affiliate_url": "https://tp.media/r?marker=602467&trs=421888&p=7631&u=https%3A%2F%2Fwww.trip.com%2Fhotels%2Flist%3Fkeyword%3DYong%2520Hong%2520Huad%2520Chumphon"
+      "name": "Chumphon Night Market",
+      "description": "The town's easiest flexible eating area if you want variety, local pace, and the option to build a meal from several stops.",
+      "location": "Chumphon town center",
+      "current_price": "Budget",
+      "highlights": [
+        "Official TAT restaurant pick",
+        "Best for grazing and variety",
+        "Strong easiest-evening option"
+      ],
+      "current_info": "Treat it as a real dinner plan, not only as a backup if you arrive late."
     },
     {
       "rank": 7,
-      "name": "Old Time Cafe",
-      "description": "Old Time Cafe is a 3.9-rated Southwestern, Bar restaurant in Chumphon.",
-      "location": "Chumphon",
-      "current_price": "$$ - $$$",
-      "highlights": [],
-      "insider_tips": [],
-      "current_info": "Cuisine: Southwestern, Bar • Price: $$ - $$$ • Rating: 3.9/5 • 48 reviews",
-      "scraped": {
-        "source": "tripadvisor",
-        "cuisine": "Southwestern, Bar",
-        "price_range": "$$ - $$$",
-        "rating": 3.9,
-        "review_count": 48,
-        "scraped_at": "2026-03-08T17:18:42.479Z"
-      },
-      "trip_affiliate_url": "https://tp.media/r?marker=602467&trs=421888&p=7631&u=https%3A%2F%2Fwww.trip.com%2Fhotels%2Flist%3Fkeyword%3DOld%2520Time%2520Cafe%2520Chumphon"
-    },
-    {
-      "rank": 8,
-      "name": "Aqua viva",
-      "description": "Aqua viva is a 4.8-rated Italian restaurant in Chumphon.",
-      "location": "Chumphon",
-      "current_price": "$$ - $$$",
-      "highlights": [],
-      "insider_tips": [],
-      "current_info": "Cuisine: Italian • Price: $$ - $$$ • Rating: 4.8/5 • 16 reviews",
-      "scraped": {
-        "source": "tripadvisor",
-        "cuisine": "Italian",
-        "price_range": "$$ - $$$",
-        "rating": 4.8,
-        "review_count": 16,
-        "scraped_at": "2026-03-08T17:18:42.479Z"
-      },
-      "trip_affiliate_url": "https://tp.media/r?marker=602467&trs=421888&p=7631&u=https%3A%2F%2Fwww.trip.com%2Fhotels%2Flist%3Fkeyword%3DAqua%2520viva%2520Chumphon"
-    },
-    {
-      "rank": 9,
-      "name": "Lui Seafood",
-      "description": "Lui Seafood is a 4.1-rated Seafood, Asian restaurant in Chumphon.",
-      "location": "Chumphon",
-      "current_price": "$$ - $$$",
-      "highlights": [],
-      "insider_tips": [],
-      "current_info": "Cuisine: Seafood, Asian • Price: $$ - $$$ • Rating: 4.1/5 • 27 reviews",
-      "scraped": {
-        "source": "tripadvisor",
-        "cuisine": "Seafood, Asian",
-        "price_range": "$$ - $$$",
-        "rating": 4.1,
-        "review_count": 27,
-        "scraped_at": "2026-03-08T17:18:42.479Z"
-      },
-      "trip_affiliate_url": "https://tp.media/r?marker=602467&trs=421888&p=7631&u=https%3A%2F%2Fwww.trip.com%2Fhotels%2Flist%3Fkeyword%3DLui%2520Seafood%2520Chumphon"
-    },
-    {
-      "rank": 10,
-      "name": "Yim Podchana Seafood",
-      "description": "Yim Podchana Seafood is a 4.8-rated Seafood restaurant in Chumphon.",
-      "location": "Chumphon",
-      "current_price": "$$ - $$$",
-      "highlights": [],
-      "insider_tips": [],
-      "current_info": "Cuisine: Seafood • Price: $$ - $$$ • Rating: 4.8/5 • 4 reviews",
-      "scraped": {
-        "source": "tripadvisor",
-        "cuisine": "Seafood",
-        "price_range": "$$ - $$$",
-        "rating": 4.8,
-        "review_count": 4,
-        "scraped_at": "2026-03-08T17:18:42.479Z"
-      },
-      "trip_affiliate_url": "https://tp.media/r?marker=602467&trs=421888&p=7631&u=https%3A%2F%2Fwww.trip.com%2Fhotels%2Flist%3Fkeyword%3DYim%2520Podchana%2520Seafood%2520Chumphon"
+      "name": "Clean Wave",
+      "description": "A brochure-listed Thung Wua Laen restaurant that makes sense when you want lunch or dinner on the beach strip without driving back inland.",
+      "location": "Hat Thung Wua Laen",
+      "current_price": "Budget to mid-range",
+      "highlights": [
+        "Official TAT brochure listing",
+        "Useful beachfront meal",
+        "Fits a Thung Wua Laen overnight"
+      ],
+      "current_info": "A practical choice when your day is already centered on the beach."
     }
   ],
   "city_slug": "chumphon",
   "city_name": "Chumphon",
   "category": "restaurants",
-  "data_sources": [
-    "tripadvisor",
-    "scraped"
+  "content_sources": [
+    {
+      "title": "6 Best Restaurants in Chumphon",
+      "creator": "Tourism Authority of Thailand",
+      "url": "https://www.tourismthailand.org/Articles/https-www-tourismthailand-org-articles-6-best-restaurants-in-chumphon",
+      "description": "Used for San Sai Seafood, Jae Muai Kaeng Som Noodles, Hor Jiah Dim Sum, Roti Faridah, Tham Sing Cafe, and Chumphon Night Market."
+    },
+    {
+      "title": "Provincial Brochure Chumphon",
+      "creator": "Tourism Authority of Thailand",
+      "url": "https://www.turismotailandes.org.pt/WebRoot/Store/Shops/1032-180719/MediaGallery/Nova_pasta1/Nova_pasta/Provincial_Brochure_A5_Chumphon_En.pdf",
+      "description": "Used for official brochure-listed restaurants including Clean Wave and other coast-side seafood references."
+    }
   ],
-  "last_scraped": "2026-03-08T17:18:42.479Z",
-  "generated_at": "2026-03-08T17:18:42.488Z",
-  "hybrid": false,
-  "scraped": true
+  "data_sources": [
+    "Tourism Authority of Thailand"
+  ],
+  "generated_at": "2026-03-26T00:00:00.000Z",
+  "factchecked_at": "2026-03-26T00:00:00.000Z",
+  "hybrid": false
 }
