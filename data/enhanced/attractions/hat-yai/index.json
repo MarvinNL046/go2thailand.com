@@ -1,7 +1,7 @@
 {
   "city_slug": "hat-yai",
   "city_name": "Hat Yai",
-  "total_attractions": 10,
+  "total_attractions": 6,
   "attractions": [
     {
       "id": 1,
@@ -13,17 +13,17 @@
       "type": "market",
       "image": "/images/cities/hat yai/attractions/Kim Yong Market.webp",
       "description": {
-        "en": "Historic covered market famous for local products dried seafood and traditional goods",
-        "nl": "Historische overdekte markt beroemd om lokale producten gedroogde zeevruchten en traditionele goederen"
+        "en": "Hat Yai's symbol market for morning food, inexpensive goods, dry goods, and everyday downtown trade.",
+        "nl": "De symbolische markt van Hat Yai voor ochtendeten, goedkope goederen, droge waren en dagelijkse handel in het centrum."
       },
       "entrance_fee": {
         "thb": 0,
         "usd": 0
       },
       "highlights": [
-        "Historic market",
-        "Dried seafood",
-        "Local products"
+        "Best morning city stop",
+        "Food and trade together",
+        "Easy walk from downtown hotels"
       ],
       "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=Kim%20Yong%20Market%20Hat%20Yai%20Thailand"
     },
@@ -31,25 +31,25 @@
       "id": 2,
       "slug": "hat-yai-floating-market",
       "name": {
-        "en": "Hat Yai Floating Market",
-        "nl": "Hat Yai Drijvende Markt"
+        "en": "Khlong Hae Floating Market",
+        "nl": "Khlong Hae Drijvende Markt"
       },
       "type": "market",
       "image": "/images/cities/hat yai/attractions/floating market.webp",
       "description": {
-        "en": "Evening floating market with local food boat rides and cultural performances",
-        "nl": "Avond drijvende markt met lokaal eten boottochten en culturele optredens"
+        "en": "Weekend-only cultural floating market with food sold from boats and on land.",
+        "nl": "Alleen in het weekend geopende culturele drijvende markt met eten vanuit boten en kraampjes op het land."
       },
       "entrance_fee": {
         "thb": 0,
         "usd": 0
       },
       "highlights": [
-        "Evening market",
-        "Boat rides",
-        "Local food"
+        "Friday to Sunday only",
+        "Food in natural containers",
+        "Best late-afternoon market"
       ],
-      "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=Hat%20Yai%20Floating%20Market%20Hat%20Yai%20Thailand"
+      "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=Khlong%20Hae%20Floating%20Market%20Hat%20Yai%20Thailand"
     },
     {
       "id": 3,
@@ -61,17 +61,17 @@
       "type": "park",
       "image": "/images/cities/hat yai/attractions/Hat Yai Municipal Park.webp",
       "description": {
-        "en": "City park with cable car golden Buddha statue and panoramic city views",
-        "nl": "Stadspark met kabelbaan gouden Boeddhabeeld en panoramisch uitzicht over de stad"
+        "en": "Hat Yai's main public park for views, civic landmarks, and a break from the downtown trading core.",
+        "nl": "Het belangrijkste openbare park van Hat Yai voor uitzicht, stadslandmarks en een pauze van de drukke handelswijk."
       },
       "entrance_fee": {
         "thb": 0,
         "usd": 0
       },
       "highlights": [
-        "Cable car",
-        "Golden Buddha",
-        "City views"
+        "Useful city orientation",
+        "Hilltop landmarks",
+        "Good supporting stop"
       ],
       "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=Hat%20Yai%20Municipal%20Park%20Hat%20Yai%20Thailand"
     },
@@ -85,17 +85,17 @@
       "type": "market",
       "image": "/images/extra images/Young man tourist on Walking street Asian food market.webp",
       "description": {
-        "en": "Large night market with shopping dining and entertainment for locals and tourists",
-        "nl": "Grote nachtmarkt met winkelen dineren en entertainment voor locals en toeristen"
+        "en": "A practical night market for food, shopping, and after-dark city energy.",
+        "nl": "Een praktische avondmarkt voor eten, shoppen en stedelijke avondsfeer."
       },
       "entrance_fee": {
         "thb": 0,
         "usd": 0
       },
       "highlights": [
-        "Night shopping",
-        "Local dining",
-        "Entertainment"
+        "Strong after-dark option",
+        "Food plus shopping",
+        "Useful central evening plan"
       ],
       "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=ASEAN%20Night%20Bazaar%20Hat%20Yai%20Thailand"
     },
@@ -109,46 +109,22 @@
       "type": "temple",
       "image": "/images/cities/hat yai/attractions/Wat Hat Yai Nai.webp",
       "description": {
-        "en": "Temple famous for massive 35-meter long reclining Buddha statue",
-        "nl": "Tempel beroemd om massaal 35 meter lang liggend Boeddhabeeld"
+        "en": "Hat Yai's best-known temple stop, anchored by the giant reclining Buddha.",
+        "nl": "De bekendste tempelstop van Hat Yai, met als middelpunt de grote liggende Boeddha."
       },
       "entrance_fee": {
         "thb": 0,
         "usd": 0
       },
       "highlights": [
-        "35m reclining Buddha",
-        "Massive statue",
-        "Buddhist temple"
+        "Large reclining Buddha",
+        "Strong local landmark",
+        "Easy temple stop"
       ],
       "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=Wat%20Hat%20Yai%20Nai%20Hat%20Yai%20Thailand"
     },
     {
       "id": 6,
-      "slug": "central-festival-hat-yai",
-      "name": {
-        "en": "Central Festival Hat Yai",
-        "nl": "Central Festival Hat Yai"
-      },
-      "type": "shopping",
-      "image": "/images/cities/hat yai/attractions/Central Festival Hat Yai.webp",
-      "description": {
-        "en": "Modern shopping mall with international brands restaurants and entertainment",
-        "nl": "Modern winkelcentrum met internationale merken restaurants en entertainment"
-      },
-      "entrance_fee": {
-        "thb": 0,
-        "usd": 0
-      },
-      "highlights": [
-        "Modern shopping",
-        "International brands",
-        "Dining"
-      ],
-      "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=Central%20Festival%20Hat%20Yai%20Hat%20Yai%20Thailand"
-    },
-    {
-      "id": 7,
       "slug": "songkhla-old-town",
       "name": {
         "en": "Songkhla Old Town",
@@ -157,93 +133,21 @@
       "type": "historic",
       "image": "/images/cities/hat yai/attractions/Songkhla Old Town.webp",
       "description": {
-        "en": "Historic town with Sino-Portuguese architecture museums and cultural sites",
-        "nl": "Historische stad met Sino-Portugese architectuur musea en culturele locaties"
+        "en": "The best cultural side trip from Hat Yai, with heritage streets, museums, and old-port character.",
+        "nl": "De beste culturele side trip vanuit Hat Yai, met erfgoedstraten, musea en oud-havenkarakter."
       },
       "entrance_fee": {
         "thb": 0,
         "usd": 0
       },
       "highlights": [
-        "Sino-Portuguese architecture",
-        "Historic buildings",
-        "Museums"
+        "Best Hat Yai side trip",
+        "Historic streets and museums",
+        "Adds heritage depth"
       ],
-      "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=Songkhla%20Old%20Town%20Hat%20Yai%20Thailand"
-    },
-    {
-      "id": 8,
-      "slug": "lee-garden-plaza",
-      "name": {
-        "en": "Lee Garden Plaza",
-        "nl": "Lee Garden Plaza"
-      },
-      "type": "shopping",
-      "image": "/images/extra images/Popular market in bangkok of Thailand.webp",
-      "description": {
-        "en": "Popular shopping center with local and international brands and food court",
-        "nl": "Populair winkelcentrum met lokale en internationale merken en food court"
-      },
-      "entrance_fee": {
-        "thb": 0,
-        "usd": 0
-      },
-      "highlights": [
-        "Shopping center",
-        "Local brands",
-        "Food court"
-      ],
-      "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=Lee%20Garden%20Plaza%20Hat%20Yai%20Thailand"
-    },
-    {
-      "id": 9,
-      "slug": "ton-nga-chang-waterfall",
-      "name": {
-        "en": "Ton Nga Chang Waterfall",
-        "nl": "Ton Nga Chang Waterval"
-      },
-      "type": "nature",
-      "image": "/images/cities/hat yai/attractions/Ton Nga Chang Waterfall.webp",
-      "description": {
-        "en": "Seven-tiered waterfall in wildlife sanctuary perfect for nature lovers",
-        "nl": "Zeven-traps waterval in wildreservaat perfect voor natuurliefhebbers"
-      },
-      "entrance_fee": {
-        "thb": 200,
-        "usd": 6
-      },
-      "highlights": [
-        "Seven-tiered waterfall",
-        "Wildlife sanctuary",
-        "Nature hiking"
-      ],
-      "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=Ton%20Nga%20Chang%20Waterfall%20Hat%20Yai%20Thailand"
-    },
-    {
-      "id": 10,
-      "slug": "hat-yai-ice-dome",
-      "name": {
-        "en": "Hat Yai Ice Dome",
-        "nl": "Hat Yai IJs Dome"
-      },
-      "type": "attraction",
-      "image": "/images/extra images/View of the business area in Bangkok at night, Bangkok is the capital of Thailand and is a popular tourist destination..webp",
-      "description": {
-        "en": "Indoor ice attraction with sculptures slides and sub-zero temperatures",
-        "nl": "Indoor ijs attractie met sculpturen glijbanen en temperaturen onder nul"
-      },
-      "entrance_fee": {
-        "thb": 200,
-        "usd": 6
-      },
-      "highlights": [
-        "Ice sculptures",
-        "Indoor attraction",
-        "Sub-zero experience"
-      ],
-      "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=Hat%20Yai%20Ice%20Dome%20Hat%20Yai%20Thailand"
+      "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=Songkhla%20Old%20Town%20Songkhla%20Thailand"
     }
   ],
-  "enhanced_at": "2025-05-25T22:48:44.099Z",
-  "enhanced_count": 10
+  "enhanced_at": "2026-03-26T00:00:00.000Z",
+  "enhanced_count": 6
 }

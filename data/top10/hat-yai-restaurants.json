@@ -1,208 +1,148 @@
 {
   "title": "Best Restaurants in Hat Yai Thailand (2026)",
-  "meta_description": "The 10 best restaurants in Hat Yai, Thailand with real ratings and guest reviews from tripadvisor. Updated 2026-03-08.",
-  "intro": "Discover the best restaurants in Hat Yai, Thailand. These recommendations are based on real guest reviews and ratings from tripadvisor.",
+  "meta_description": "Where to eat in Hat Yai for 2026: TAT-backed fried chicken, dim sum, halal-friendly kitchens, Kim Yong morning food, Khlong Hae weekends, and strong hotel dining when convenience matters.",
+  "intro": "Hat Yai food is better when you stop forcing it into one lane. The city's real strength is the mix: Thai-Chinese breakfast culture, Malay-Muslim and halal-friendly references, market grazing, fried chicken, and a few useful hotel restaurants for comfort and convenience. These are the Hat Yai food stops that actually fit the city.",
   "items": [
     {
       "rank": 1,
-      "name": "The Fish Kitchen",
-      "description": "The Fish Kitchen is a 4.7-rated Seafood, Asian restaurant in Hat Yai.",
-      "location": "Hat Yai",
-      "current_price": "$",
-      "highlights": [],
-      "insider_tips": [],
-      "current_info": "Cuisine: Seafood, Asian • Price: $ • Rating: 4.7/5 • 75 reviews",
-      "scraped": {
-        "source": "tripadvisor",
-        "cuisine": "Seafood, Asian",
-        "price_range": "$",
-        "rating": 4.7,
-        "review_count": 75,
-        "scraped_at": "2026-03-08T16:57:44.997Z"
-      },
-      "trip_affiliate_url": "https://tp.media/r?marker=602467&trs=421888&p=7631&u=https%3A%2F%2Fwww.trip.com%2Fhotels%2Flist%3Fkeyword%3DThe%2520Fish%2520Kitchen%2520Hat%2520Yai"
+      "name": "Decha Fried Chicken & Seafood",
+      "description": "One of the clearest TAT-backed Hat Yai food references, and a much stronger anchor than review-scraped 'best restaurant' lists.",
+      "location": "Supphasan Rangsan Road",
+      "current_price": "Budget to mid-range",
+      "highlights": [
+        "Official TAT halal guide pick",
+        "Good first serious meal in Hat Yai",
+        "Fits the city's southern border-food identity"
+      ],
+      "current_info": "Best used as a real meal rather than as a token fried-chicken stop."
     },
     {
       "rank": 2,
-      "name": "Kai Tod Decha",
-      "description": "Kai Tod Decha is a 4-rated Asian, Thai restaurant in Hat Yai.",
-      "location": "Hat Yai",
-      "current_price": "$",
-      "highlights": [],
-      "insider_tips": [],
-      "current_info": "Cuisine: Asian, Thai • Price: $ • Rating: 4/5 • 156 reviews",
-      "scraped": {
-        "source": "tripadvisor",
-        "cuisine": "Asian, Thai",
-        "price_range": "$",
-        "rating": 4,
-        "review_count": 156,
-        "scraped_at": "2026-03-08T16:57:44.997Z"
-      },
-      "trip_affiliate_url": "https://tp.media/r?marker=602467&trs=421888&p=7631&u=https%3A%2F%2Fwww.trip.com%2Fhotels%2Flist%3Fkeyword%3DKai%2520Tod%2520Decha%2520Hat%2520Yai"
+      "name": "Kim Yong Market food lanes",
+      "description": "The market-side answer to Hat Yai breakfast and snack culture if you want the city to feel local from the first hour.",
+      "location": "Central Hat Yai",
+      "current_price": "Budget",
+      "highlights": [
+        "Best morning food walk",
+        "Works with shopping and market browsing",
+        "Useful for snacks, tea, and takeaways"
+      ],
+      "current_info": "Go early and keep this as part of a broader market morning, not as your only food plan of the day."
     },
     {
       "rank": 3,
-      "name": "Chokdee Dim Sum",
-      "description": "Chokdee Dim Sum is a 4.1-rated Chinese, Asian restaurant in Hat Yai.",
-      "location": "Hat Yai",
-      "current_price": "$",
-      "highlights": [],
-      "insider_tips": [],
-      "current_info": "Cuisine: Chinese, Asian • Price: $ • Rating: 4.1/5 • 546 reviews",
-      "scraped": {
-        "source": "tripadvisor",
-        "cuisine": "Chinese, Asian",
-        "price_range": "$",
-        "rating": 4.1,
-        "review_count": 546,
-        "scraped_at": "2026-03-08T16:57:44.997Z"
-      },
-      "trip_affiliate_url": "https://tp.media/r?marker=602467&trs=421888&p=7631&u=https%3A%2F%2Fwww.trip.com%2Fhotels%2Flist%3Fkeyword%3DChokdee%2520Dim%2520Sum%2520Hat%2520Yai"
+      "name": "Khlong Hae Floating Market",
+      "description": "A worthwhile late-afternoon and evening food run when the official Friday-to-Sunday schedule lines up with your stay.",
+      "location": "Khlong Hae",
+      "current_price": "Budget",
+      "highlights": [
+        "Official Songkhla city reference",
+        "Weekend-only market timing",
+        "Food from boats and land stalls"
+      ],
+      "current_info": "This is a food-and-atmosphere stop, not a weekday fallback."
     },
     {
       "rank": 4,
-      "name": "Ban Khun Bhu",
-      "description": "Ban Khun Bhu is a 4.5-rated Asian, Thai restaurant in Hat Yai.",
-      "location": "Hat Yai",
-      "current_price": "$$ - $$$",
-      "highlights": [],
-      "insider_tips": [],
-      "current_info": "Cuisine: Asian, Thai • Price: $$ - $$$ • Rating: 4.5/5 • 42 reviews",
-      "scraped": {
-        "source": "tripadvisor",
-        "cuisine": "Asian, Thai",
-        "price_range": "$$ - $$$",
-        "rating": 4.5,
-        "review_count": 42,
-        "scraped_at": "2026-03-08T16:57:44.997Z"
-      },
-      "trip_affiliate_url": "https://tp.media/r?marker=602467&trs=421888&p=7631&u=https%3A%2F%2Fwww.trip.com%2Fhotels%2Flist%3Fkeyword%3DBan%2520Khun%2520Bhu%2520Hat%2520Yai"
+      "name": "Rafa Dimsum Halal",
+      "description": "A practical breakfast move from TAT's halal guide, useful if you want Hat Yai's dim sum side without generic cafe filler.",
+      "location": "Thammanoonvithi Road area",
+      "current_price": "Budget",
+      "highlights": [
+        "Official TAT halal guide pick",
+        "Dim sum breakfast focus",
+        "Strong Thai-Chinese and Muslim crossover"
+      ],
+      "current_info": "Works best early in the day before downtown walking or a Songkhla side trip."
     },
     {
       "rank": 5,
-      "name": "Homeless House",
-      "description": "Homeless House is a 4.6-rated American restaurant in Hat Yai.",
-      "location": "Hat Yai",
-      "current_price": "$$ - $$$",
-      "highlights": [],
-      "insider_tips": [],
-      "current_info": "Cuisine: American • Price: $$ - $$$ • Rating: 4.6/5 • 82 reviews",
-      "scraped": {
-        "source": "tripadvisor",
-        "cuisine": "American",
-        "price_range": "$$ - $$$",
-        "rating": 4.6,
-        "review_count": 82,
-        "scraped_at": "2026-03-08T16:57:44.997Z"
-      },
-      "trip_affiliate_url": "https://tp.media/r?marker=602467&trs=421888&p=7631&u=https%3A%2F%2Fwww.trip.com%2Fhotels%2Flist%3Fkeyword%3DHomeless%2520House%2520Hat%2520Yai"
+      "name": "Sami Kitchen",
+      "description": "A useful TAT-listed local restaurant if you want a sit-down meal beyond markets and better-known downtown names.",
+      "location": "Khlong Hae side",
+      "current_price": "Budget to mid-range",
+      "highlights": [
+        "Official TAT halal guide pick",
+        "Good Khlong Hae-area meal",
+        "Useful as a proper lunch or dinner stop"
+      ],
+      "current_info": "Best used when you are already in the Khlong Hae side of the city."
     },
     {
       "rank": 6,
-      "name": "Chen Long Boat Noodle",
-      "description": "Chen Long Boat Noodle is a 4.3-rated Thai restaurant in Hat Yai.",
-      "location": "Hat Yai",
-      "current_price": "$",
-      "highlights": [],
-      "insider_tips": [],
-      "current_info": "Cuisine: Thai • Price: $ • Rating: 4.3/5 • 96 reviews",
-      "scraped": {
-        "source": "tripadvisor",
-        "cuisine": "Thai",
-        "price_range": "$",
-        "rating": 4.3,
-        "review_count": 96,
-        "scraped_at": "2026-03-08T16:57:44.997Z"
-      },
-      "trip_affiliate_url": "https://tp.media/r?marker=602467&trs=421888&p=7631&u=https%3A%2F%2Fwww.trip.com%2Fhotels%2Flist%3Fkeyword%3DChen%2520Long%2520Boat%2520Noodle%2520Hat%2520Yai"
+      "name": "Salma Restaurant",
+      "description": "A dependable city-center meal when you want local-food practicality more than atmosphere or branding.",
+      "location": "Prachathipat Road area",
+      "current_price": "Budget to mid-range",
+      "highlights": [
+        "Official TAT halal guide pick",
+        "Central Hat Yai location",
+        "Useful reliable meal stop"
+      ],
+      "current_info": "A strong choice for a straightforward city-center lunch or dinner."
     },
     {
       "rank": 7,
-      "name": "Kan Eng Restaurant",
-      "description": "Kan Eng Restaurant is a 3.7-rated Chinese, Seafood restaurant in Hat Yai.",
-      "location": "Hat Yai",
-      "current_price": "$$ - $$$",
-      "highlights": [],
-      "insider_tips": [],
-      "current_info": "Cuisine: Chinese, Seafood • Price: $$ - $$$ • Rating: 3.7/5 • 258 reviews",
-      "scraped": {
-        "source": "tripadvisor",
-        "cuisine": "Chinese, Seafood",
-        "price_range": "$$ - $$$",
-        "rating": 3.7,
-        "review_count": 258,
-        "scraped_at": "2026-03-08T16:57:44.997Z"
-      },
-      "trip_affiliate_url": "https://tp.media/r?marker=602467&trs=421888&p=7631&u=https%3A%2F%2Fwww.trip.com%2Fhotels%2Flist%3Fkeyword%3DKan%2520Eng%2520Restaurant%2520Hat%2520Yai"
+      "name": "Ginger Restaurant at Centara Hotel Hat Yai",
+      "description": "The right hotel-dining option when weather, timing, or city-center convenience matters more than chasing one more street-food lane.",
+      "location": "Centara Hotel Hat Yai",
+      "current_price": "Mid-range to upscale",
+      "highlights": [
+        "Official Centara restaurant listing",
+        "Useful in bad weather or after a long travel day",
+        "Strong downtown comfort option"
+      ],
+      "current_info": "Better as a convenience-led meal than as the whole reason to choose Hat Yai."
     },
     {
       "rank": 8,
-      "name": "Rim Rua Kratha Ron Restaurant",
-      "description": "Rim Rua Kratha Ron Restaurant is a 4.2-rated Seafood, Barbecue restaurant in Hat Yai.",
-      "location": "Hat Yai",
-      "current_price": "$",
-      "highlights": [],
-      "insider_tips": [],
-      "current_info": "Cuisine: Seafood, Barbecue • Price: $ • Rating: 4.2/5 • 40 reviews",
-      "scraped": {
-        "source": "tripadvisor",
-        "cuisine": "Seafood, Barbecue",
-        "price_range": "$",
-        "rating": 4.2,
-        "review_count": 40,
-        "scraped_at": "2026-03-08T16:57:44.997Z"
-      },
-      "trip_affiliate_url": "https://tp.media/r?marker=602467&trs=421888&p=7631&u=https%3A%2F%2Fwww.trip.com%2Fhotels%2Flist%3Fkeyword%3DRim%2520Rua%2520Kratha%2520Ron%2520Restaurant%2520Hat%2520Yai"
-    },
-    {
-      "rank": 9,
-      "name": "The Sky Lounge, Centara Hotel",
-      "description": "The Sky Lounge, Centara Hotel is a 4-rated Bar, Pub restaurant in Hat Yai.",
-      "location": "Hat Yai",
-      "current_price": "$$ - $$$",
-      "highlights": [],
-      "insider_tips": [],
-      "current_info": "Cuisine: Bar, Pub • Price: $$ - $$$ • Rating: 4/5 • 61 reviews",
-      "scraped": {
-        "source": "tripadvisor",
-        "cuisine": "Bar, Pub",
-        "price_range": "$$ - $$$",
-        "rating": 4,
-        "review_count": 61,
-        "scraped_at": "2026-03-08T16:57:44.997Z"
-      },
-      "trip_affiliate_url": "https://tp.media/r?marker=602467&trs=421888&p=7631&u=https%3A%2F%2Fwww.trip.com%2Fhotels%2Flist%3Fkeyword%3DThe%2520Sky%2520Lounge%252C%2520Centara%2520Hotel%2520Hat%2520Yai"
-    },
-    {
-      "rank": 10,
-      "name": "Khlonghae Seafood",
-      "description": "Khlonghae Seafood is a 4.5-rated Seafood, Barbecue restaurant in Hat Yai.",
-      "location": "Hat Yai",
-      "current_price": "$",
-      "highlights": [],
-      "insider_tips": [],
-      "current_info": "Cuisine: Seafood, Barbecue • Price: $ • Rating: 4.5/5 • 13 reviews",
-      "scraped": {
-        "source": "tripadvisor",
-        "cuisine": "Seafood, Barbecue",
-        "price_range": "$",
-        "rating": 4.5,
-        "review_count": 13,
-        "scraped_at": "2026-03-08T16:57:44.997Z"
-      },
-      "trip_affiliate_url": "https://tp.media/r?marker=602467&trs=421888&p=7631&u=https%3A%2F%2Fwww.trip.com%2Fhotels%2Flist%3Fkeyword%3DKhlonghae%2520Seafood%2520Hat%2520Yai"
+      "name": "Signature Cafe & Restaurant",
+      "description": "A solid official in-house option if your stay is on the outer-center or airport side and you want one easy meal at the hotel.",
+      "location": "Hatyai Signature Hotel",
+      "current_price": "Mid-range",
+      "highlights": [
+        "Official hotel restaurant",
+        "Breakfast, lunch, and dinner",
+        "Good for airport-side stays"
+      ],
+      "current_info": "Most useful when hotel convenience is part of the plan, not when you are deep in the downtown market zone."
     }
   ],
   "city_slug": "hat-yai",
   "city_name": "Hat Yai",
   "category": "restaurants",
-  "data_sources": [
-    "tripadvisor",
-    "scraped"
+  "content_sources": [
+    {
+      "title": "Halal Check-in Thailand",
+      "creator": "Tourism Authority of Thailand Malaysia",
+      "url": "https://www.tourismthailand.my/doc/2015/Halal%20check-in%20Thailand.pdf",
+      "description": "Used for Decha Fried Chicken & Seafood, Rafa Dimsum Halal, Sami Kitchen, and Salma Restaurant."
+    },
+    {
+      "title": "Songkhla Province Ebook",
+      "creator": "Songkhla Municipality",
+      "url": "https://www.songkhlacity.go.th/2020/ebook/download/?file=files%2Fcom_ebook%2F2019-04_7b213de368592f5.pdf&id=2457&name=57.pdf",
+      "description": "Used for Kim Yong Market and Khlong Hae Floating Market as food-and-market references."
+    },
+    {
+      "title": "Centara Hotel Hat Yai",
+      "creator": "Centara Hotels & Resorts",
+      "url": "https://www.centarahotelsresorts.com/centara/chy",
+      "description": "Used for Ginger Restaurant at Centara Hotel Hat Yai."
+    },
+    {
+      "title": "Hatyai Signature Hotel",
+      "creator": "Hatyai Signature Hotel",
+      "url": "https://www.hatyaisignaturehotel.com/",
+      "description": "Used for Signature Cafe & Restaurant and its breakfast-to-dinner positioning."
+    }
   ],
-  "last_scraped": "2026-03-08T16:57:44.997Z",
-  "generated_at": "2026-03-08T16:57:44.997Z",
-  "hybrid": false,
-  "scraped": true
+  "data_sources": [
+    "Tourism Authority of Thailand",
+    "Songkhla Municipality",
+    "Official hotel websites"
+  ],
+  "generated_at": "2026-03-26T00:00:00.000Z",
+  "factchecked_at": "2026-03-26T00:00:00.000Z",
+  "hybrid": false
 }

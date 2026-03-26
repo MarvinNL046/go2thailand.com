@@ -1,188 +1,171 @@
 {
   "title": "Best Hotels in Hat Yai Thailand (2026)",
-  "meta_description": "The 10 best hotels in Hat Yai, Thailand with real prices, ratings and guest reviews from tripadvisor. Updated 2026-03-08.",
-  "intro": "Discover the best hotels in Hat Yai, Thailand. These recommendations are based on real guest reviews and current pricing from tripadvisor.",
+  "meta_description": "The Hat Yai hotels that actually fit the trip: strong downtown stays for Kim Yong and Lee Gardens, smarter outer-center options for parking and airport access, and one or two comfort-led city hotels.",
+  "intro": "Hat Yai hotels are all about location logic. Stay downtown if Kim Yong, central markets, and evening food are the point. Stay on the Rajyindee, Kanchanawanit, or airport side if you want quieter nights, parking, or easier airport runs. These are the hotels that make sense for how Hat Yai actually works.",
   "items": [
     {
       "rank": 1,
-      "name": "Seree Grand Resort",
-      "description": "Seree Grand Resort is a 3.6-rated hotel in Hat Yai.",
-      "location": "Hat Yai",
-      "highlights": [],
-      "insider_tips": [],
-      "current_info": "Rating: 3.6/5 • 13 reviews",
-      "scraped": {
-        "source": "tripadvisor",
-        "rating": 3.6,
-        "review_count": 13,
-        "scraped_at": "2026-03-08T15:23:39.636Z"
-      },
-      "affiliate_url": "https://tp.media/r?marker=602467&trs=421888&p=4114&u=https%3A%2F%2Fwww.booking.com%2Fsearchresults.html%3Fss%3DSeree%2520Grand%2520Resort%252C%2520Hat%2520Yai%252C%2520Thailand%26nflt%3Dht_id%253D204",
-      "trip_affiliate_url": "https://tp.media/r?marker=602467&trs=421888&p=7631&u=https%3A%2F%2Fwww.trip.com%2Fhotels%2Flist%3Fkeyword%3DSeree%2520Grand%2520Resort%2520Hat%2520Yai"
+      "name": "Lee Gardens Plaza Hotel",
+      "description": "Still one of the strongest first-time Hat Yai bases because it sits directly in the downtown commercial core.",
+      "location": "Downtown Hat Yai",
+      "highlights": [
+        "Official heart-of-downtown positioning",
+        "Walking distance to Kim Yong Market",
+        "Best for market-led city stays"
+      ],
+      "insider_tips": [
+        "Choose this if walkability matters more than a quieter room location."
+      ],
+      "current_info": "Best for first-timers who want to move through central Hat Yai on foot."
     },
     {
       "rank": 2,
-      "name": "The Weenee City Resort and Spa",
-      "description": "The Weenee City Resort and Spa is a 4.5-rated hotel in Hat Yai.",
-      "location": "Hat Yai",
-      "highlights": [],
-      "insider_tips": [],
-      "current_info": "Rating: 4.5/5 • 6 reviews",
-      "scraped": {
-        "source": "tripadvisor",
-        "rating": 4.5,
-        "review_count": 6,
-        "scraped_at": "2026-03-08T15:23:39.636Z"
-      },
-      "affiliate_url": "https://tp.media/r?marker=602467&trs=421888&p=4114&u=https%3A%2F%2Fwww.booking.com%2Fsearchresults.html%3Fss%3DThe%2520Weenee%2520City%2520Resort%2520and%2520Spa%252C%2520Hat%2520Yai%252C%2520Thailand%26nflt%3Dht_id%253D204",
-      "trip_affiliate_url": "https://tp.media/r?marker=602467&trs=421888&p=7631&u=https%3A%2F%2Fwww.trip.com%2Fhotels%2Flist%3Fkeyword%3DThe%2520Weenee%2520City%2520Resort%2520and%2520Spa%2520Hat%2520Yai"
+      "name": "Centara Hotel Hat Yai",
+      "description": "A well-located full-service city hotel that still works if comfort, meetings, and central convenience matter most.",
+      "location": "Central Hat Yai",
+      "highlights": [
+        "Official city-center landmark",
+        "Linked to the shopping core",
+        "Good for business and comfort-led stays"
+      ],
+      "insider_tips": [
+        "A stronger fit for travelers who want a known full-service brand in the center."
+      ],
+      "current_info": "Centara's official material places the airport around 30 minutes away."
     },
     {
       "rank": 3,
-      "name": "Pang Mai Resort",
-      "description": "Pang Mai Resort is a 3.5-rated hotel in Hat Yai.",
-      "location": "Hat Yai",
-      "highlights": [],
-      "insider_tips": [],
-      "current_info": "Rating: 3.5/5 • 6 reviews",
-      "scraped": {
-        "source": "tripadvisor",
-        "rating": 3.5,
-        "review_count": 6,
-        "scraped_at": "2026-03-08T15:23:39.636Z"
-      },
-      "affiliate_url": "https://tp.media/r?marker=602467&trs=421888&p=4114&u=https%3A%2F%2Fwww.booking.com%2Fsearchresults.html%3Fss%3DPang%2520Mai%2520Resort%252C%2520Hat%2520Yai%252C%2520Thailand%26nflt%3Dht_id%253D204",
-      "trip_affiliate_url": "https://tp.media/r?marker=602467&trs=421888&p=7631&u=https%3A%2F%2Fwww.trip.com%2Fhotels%2Flist%3Fkeyword%3DPang%2520Mai%2520Resort%2520Hat%2520Yai"
+      "name": "New Season Square Hotel",
+      "description": "A useful newer downtown option with the right balance of central location and modern city-hotel functionality.",
+      "location": "Downtown Hat Yai",
+      "highlights": [
+        "Official downtown positioning",
+        "Good for shopping and night activity",
+        "Useful alternative to older central towers"
+      ],
+      "insider_tips": [
+        "A good choice if you want central Hat Yai without defaulting to the oldest landmark hotels."
+      ],
+      "current_info": "Works well for travelers who want to stay inside the city center's practical zone."
     },
     {
       "rank": 4,
-      "name": "Banhomdin Bungalows",
-      "description": "Banhomdin Bungalows is a 4.5-rated hotel in Hat Yai.",
-      "location": "Hat Yai",
-      "highlights": [],
-      "insider_tips": [],
-      "current_info": "Rating: 4.5/5 • 2 reviews",
-      "scraped": {
-        "source": "tripadvisor",
-        "rating": 4.5,
-        "review_count": 2,
-        "scraped_at": "2026-03-08T15:23:39.636Z"
-      },
-      "affiliate_url": "https://tp.media/r?marker=602467&trs=421888&p=4114&u=https%3A%2F%2Fwww.booking.com%2Fsearchresults.html%3Fss%3DBanhomdin%2520Bungalows%252C%2520Hat%2520Yai%252C%2520Thailand%26nflt%3Dht_id%253D204",
-      "trip_affiliate_url": "https://tp.media/r?marker=602467&trs=421888&p=7631&u=https%3A%2F%2Fwww.trip.com%2Fhotels%2Flist%3Fkeyword%3DBanhomdin%2520Bungalows%2520Hat%2520Yai"
+      "name": "Crystal Hotel Hat Yai",
+      "description": "A practical modern hotel if you prefer road access, shopping proximity, and a less old-center-centric stay.",
+      "location": "Kanchanawanit / Central Festival side",
+      "highlights": [
+        "Official Central Festival proximity",
+        "Pool, fitness, and dining",
+        "Good for drivers and business stays"
+      ],
+      "insider_tips": [
+        "Stronger for car-based arrivals and airport convenience than for downtown walking."
+      ],
+      "current_info": "Crystal presents itself as close to shopping spots and the airport side of Hat Yai."
     },
     {
       "rank": 5,
-      "name": "Boom Forest Resort",
-      "description": "Boom Forest Resort is a 3-rated hotel in Hat Yai.",
-      "location": "Hat Yai",
-      "highlights": [],
-      "insider_tips": [],
-      "current_info": "Rating: 3/5 • 1 reviews",
-      "scraped": {
-        "source": "tripadvisor",
-        "rating": 3,
-        "review_count": 1,
-        "scraped_at": "2026-03-08T15:23:39.636Z"
-      },
-      "affiliate_url": "https://tp.media/r?marker=602467&trs=421888&p=4114&u=https%3A%2F%2Fwww.booking.com%2Fsearchresults.html%3Fss%3DBoom%2520Forest%2520Resort%252C%2520Hat%2520Yai%252C%2520Thailand%26nflt%3Dht_id%253D204",
-      "trip_affiliate_url": "https://tp.media/r?marker=602467&trs=421888&p=7631&u=https%3A%2F%2Fwww.trip.com%2Fhotels%2Flist%3Fkeyword%3DBoom%2520Forest%2520Resort%2520Hat%2520Yai"
+      "name": "Monkham Village Hat Yai",
+      "description": "A quieter boutique-style option on the Rajyindee side if you want a more relaxed stay without going fully remote.",
+      "location": "Rajyindee Road",
+      "highlights": [
+        "Official Rajyindee Road address",
+        "Dining on site",
+        "Better for quieter nights than the market core"
+      ],
+      "insider_tips": [
+        "A sensible pick when you want Hat Yai access without sleeping inside the busiest commercial streets."
+      ],
+      "current_info": "Best for travelers who still want the city, but not necessarily the downtown noise."
     },
     {
       "rank": 6,
-      "name": "Tipparika Riverview Hotel",
-      "description": "Tipparika Riverview Hotel is a 4.5-rated hotel in Hat Yai.",
-      "location": "Hat Yai",
-      "highlights": [],
-      "insider_tips": [],
-      "current_info": "Rating: 4.5/5 • 11 reviews",
-      "scraped": {
-        "source": "tripadvisor",
-        "rating": 4.5,
-        "review_count": 11,
-        "scraped_at": "2026-03-08T15:23:39.636Z"
-      },
-      "affiliate_url": "https://tp.media/r?marker=602467&trs=421888&p=4114&u=https%3A%2F%2Fwww.booking.com%2Fsearchresults.html%3Fss%3DTipparika%2520Riverview%2520Hotel%252C%2520Hat%2520Yai%252C%2520Thailand%26nflt%3Dht_id%253D204",
-      "trip_affiliate_url": "https://tp.media/r?marker=602467&trs=421888&p=7631&u=https%3A%2F%2Fwww.trip.com%2Fhotels%2Flist%3Fkeyword%3DTipparika%2520Riverview%2520Hotel%2520Hat%2520Yai"
+      "name": "W3 Hotel Hatyai",
+      "description": "A useful outer-center hotel in a quieter setting that still claims quick access back into downtown.",
+      "location": "Rajyindee / outer-center",
+      "highlights": [
+        "Officially around five minutes from downtown",
+        "Pool-oriented room mix",
+        "Good value outer-center option"
+      ],
+      "insider_tips": [
+        "Useful if you want parking and easier road movement without feeling fully detached from town."
+      ],
+      "current_info": "Best when the city center matters, but not enough to require sleeping directly in it."
     },
     {
       "rank": 7,
-      "name": "Dusita Grand Resort",
-      "description": "Dusita Grand Resort is a 4.3-rated hotel in Hat Yai.",
-      "location": "Hat Yai",
-      "highlights": [],
-      "insider_tips": [],
-      "current_info": "Rating: 4.3/5 • 4 reviews",
-      "scraped": {
-        "source": "tripadvisor",
-        "rating": 4.3,
-        "review_count": 4,
-        "scraped_at": "2026-03-08T15:23:39.636Z"
-      },
-      "affiliate_url": "https://tp.media/r?marker=602467&trs=421888&p=4114&u=https%3A%2F%2Fwww.booking.com%2Fsearchresults.html%3Fss%3DDusita%2520Grand%2520Resort%252C%2520Hat%2520Yai%252C%2520Thailand%26nflt%3Dht_id%253D204",
-      "trip_affiliate_url": "https://tp.media/r?marker=602467&trs=421888&p=7631&u=https%3A%2F%2Fwww.trip.com%2Fhotels%2Flist%3Fkeyword%3DDusita%2520Grand%2520Resort%2520Hat%2520Yai"
-    },
-    {
-      "rank": 8,
-      "name": "Baanwaan Resort",
-      "description": "Baanwaan Resort is a 4.5-rated hotel in Hat Yai.",
-      "location": "Hat Yai",
-      "highlights": [],
-      "insider_tips": [],
-      "current_info": "Rating: 4.5/5 • 8 reviews",
-      "scraped": {
-        "source": "tripadvisor",
-        "rating": 4.5,
-        "review_count": 8,
-        "scraped_at": "2026-03-08T15:23:39.636Z"
-      },
-      "affiliate_url": "https://tp.media/r?marker=602467&trs=421888&p=4114&u=https%3A%2F%2Fwww.booking.com%2Fsearchresults.html%3Fss%3DBaanwaan%2520Resort%252C%2520Hat%2520Yai%252C%2520Thailand%26nflt%3Dht_id%253D204",
-      "trip_affiliate_url": "https://tp.media/r?marker=602467&trs=421888&p=7631&u=https%3A%2F%2Fwww.trip.com%2Fhotels%2Flist%3Fkeyword%3DBaanwaan%2520Resort%2520Hat%2520Yai"
-    },
-    {
-      "rank": 9,
-      "name": "Chestnut Hill Eco Resort",
-      "description": "Chestnut Hill Eco Resort is a 4.7-rated hotel in Hat Yai.",
-      "location": "Hat Yai",
-      "highlights": [],
-      "insider_tips": [],
-      "current_info": "Rating: 4.7/5 • 32 reviews",
-      "scraped": {
-        "source": "tripadvisor",
-        "rating": 4.7,
-        "review_count": 32,
-        "scraped_at": "2026-03-08T15:23:39.636Z"
-      },
-      "affiliate_url": "https://tp.media/r?marker=602467&trs=421888&p=4114&u=https%3A%2F%2Fwww.booking.com%2Fsearchresults.html%3Fss%3DChestnut%2520Hill%2520Eco%2520Resort%252C%2520Hat%2520Yai%252C%2520Thailand%26nflt%3Dht_id%253D204",
-      "trip_affiliate_url": "https://tp.media/r?marker=602467&trs=421888&p=7631&u=https%3A%2F%2Fwww.trip.com%2Fhotels%2Flist%3Fkeyword%3DChestnut%2520Hill%2520Eco%2520Resort%2520Hat%2520Yai"
-    },
-    {
-      "rank": 10,
-      "name": "The Terrace Khlongtoei",
-      "description": "The Terrace Khlongtoei is a 3-rated hotel in Hat Yai.",
-      "location": "Hat Yai",
-      "highlights": [],
-      "insider_tips": [],
-      "current_info": "Rating: 3/5 • 1 reviews",
-      "scraped": {
-        "source": "tripadvisor",
-        "rating": 3,
-        "review_count": 1,
-        "scraped_at": "2026-03-08T15:23:39.636Z"
-      },
-      "affiliate_url": "https://tp.media/r?marker=602467&trs=421888&p=4114&u=https%3A%2F%2Fwww.booking.com%2Fsearchresults.html%3Fss%3DThe%2520Terrace%2520Khlongtoei%252C%2520Hat%2520Yai%252C%2520Thailand%26nflt%3Dht_id%253D204",
-      "trip_affiliate_url": "https://tp.media/r?marker=602467&trs=421888&p=7631&u=https%3A%2F%2Fwww.trip.com%2Fhotels%2Flist%3Fkeyword%3DThe%2520Terrace%2520Khlongtoei%2520Hat%2520Yai"
+      "name": "Hatyai Signature Hotel",
+      "description": "A solid choice when airport access, a larger self-contained property, and road convenience matter more than walkable downtown time.",
+      "location": "Outer Hat Yai / airport side",
+      "highlights": [
+        "Officially three kilometers from downtown",
+        "Around 20 minutes from the airport",
+        "Pool, restaurant, and fitness on site"
+      ],
+      "insider_tips": [
+        "Most useful for early flights, drivers, and travelers who do not need to be in the center all day."
+      ],
+      "current_info": "A better airport-side or outer-city base than a downtown immersion stay."
     }
   ],
   "city_slug": "hat-yai",
   "city_name": "Hat Yai",
   "category": "hotels",
-  "data_sources": [
-    "tripadvisor",
-    "scraped"
+  "content_sources": [
+    {
+      "title": "Lee Gardens Plaza Hotel",
+      "creator": "Lee Gardens Plaza Hotel",
+      "url": "https://www.leegardensplaza.com/",
+      "description": "Used for official downtown positioning and Kim Yong / market-walkability context."
+    },
+    {
+      "title": "Centara Hotel Hat Yai",
+      "creator": "Centara Hotels & Resorts",
+      "url": "https://www.centarahotelsresorts.com/centara/chy",
+      "description": "Used for official address, city-center positioning, and hotel context."
+    },
+    {
+      "title": "Centara Hotel Hat Yai Brochure",
+      "creator": "Centara Hotels & Resorts",
+      "url": "https://www.centarahotelsresorts.com/centara/sites/centara-centara/files/2022-01/centara-hotel-hat-yai-brochure.pdf",
+      "description": "Used for airport timing and meeting-room context."
+    },
+    {
+      "title": "New Season Square Hotel",
+      "creator": "New Season Square Hotel",
+      "url": "https://www.newseasonhotel.com/new-season-square-hotel",
+      "description": "Used for official downtown positioning and hotel facilities."
+    },
+    {
+      "title": "Crystal Hotel Hat Yai",
+      "creator": "Crystal Hotel Hat Yai",
+      "url": "https://www.crystalhotelhatyai.com/",
+      "description": "Used for official shopping-side and airport-side positioning."
+    },
+    {
+      "title": "Monkham Village Hat Yai",
+      "creator": "Monkham Village Hat Yai",
+      "url": "https://www.monkhamhatyai.com/",
+      "description": "Used for official Rajyindee Road address and boutique-hotel context."
+    },
+    {
+      "title": "W3 Hotel Hatyai",
+      "creator": "W3 Hotel Hatyai",
+      "url": "https://www.w3hatyai.com/",
+      "description": "Used for official outer-center positioning and stated five-minute downtown access."
+    },
+    {
+      "title": "Hatyai Signature Hotel",
+      "creator": "Hatyai Signature Hotel",
+      "url": "https://www.hatyaisignaturehotel.com/",
+      "description": "Used for official distance from downtown, airport timing, and on-site facilities."
+    }
   ],
-  "last_scraped": "2026-03-08T15:23:39.636Z",
-  "generated_at": "2026-03-08T15:23:39.636Z",
-  "hybrid": false,
-  "scraped": true
+  "data_sources": [
+    "Official hotel websites"
+  ],
+  "generated_at": "2026-03-26T00:00:00.000Z",
+  "factchecked_at": "2026-03-26T00:00:00.000Z",
+  "hybrid": false
 }

@@ -7,79 +7,98 @@
   },
   "type": "park",
   "city_slug": "hat-yai",
-  "address": "Hat Yai Park Road, Hat Yai District",
+  "address": "Kanchanawanit Road, Hat Yai District, Songkhla",
   "location": {
-    "lat": 7.0167,
-    "lng": 100.4833
+    "lat": 7.0237,
+    "lng": 100.5063
   },
-  "opening_hours": "06:00-18:00",
+  "opening_hours": "Daytime; park and hilltop areas operate on local schedules",
   "entrance_fee": {
     "thb": 0,
     "usd": 0
   },
   "description": {
-    "en": "City park with cable car golden Buddha statue and panoramic city views",
-    "nl": "Stadspark met kabelbaan gouden Boeddhabeeld en panoramisch uitzicht over de stad"
+    "en": "Hat Yai's main public park for views, civic landmarks, and a break from the downtown trading core.",
+    "nl": "Het belangrijkste openbare park van Hat Yai voor uitzicht, stadslandmarks en een pauze van de drukke handelswijk."
   },
   "highlights": [
-    "Cable car",
-    "Golden Buddha",
-    "City views",
-    "Recreation area"
+    "Useful city orientation",
+    "Hilltop landmarks",
+    "Public recreation space",
+    "Good supporting city stop"
   ],
   "image": "/images/cities/hat yai/attractions/Hat Yai Municipal Park.webp",
   "official_website": null,
   "seo": {
     "metaTitle": {
-      "en": "Hat Yai Municipal Park - Top Attraction in Hat Yai | Go2Thailand",
-      "nl": "Hat Yai Gemeentelijk Park - Top Attractie in Hat Yai | Go2Thailand"
+      "en": "Hat Yai Municipal Park Guide 2026 | Views and Landmarks",
+      "nl": "Hat Yai Gemeentelijk Park Gids 2026 | Uitzichten en Landmarks"
     },
     "metaDescription": {
-      "en": "Discover Hat Yai Municipal Park in Hat Yai. City park with cable car golden Buddha statue and panoramic city views...",
-      "nl": "Ontdek Hat Yai Gemeentelijk Park in Hat Yai. Stadspark met kabelbaan gouden Boeddhabeeld en panoramisch uitzicht over de stad..."
+      "en": "Why Hat Yai Municipal Park is still worth a stop, what to expect there, and how to fit it into a realistic Hat Yai day.",
+      "nl": "Waarom Hat Yai Municipal Park nog steeds de moeite waard is, wat je er kunt verwachten en hoe je het in een realistische dag in Hat Yai past."
     }
   },
   "tags": [
     "park",
     "hat-yai",
-    "thailand",
-    "attraction",
-    "travel",
-    "tourism"
+    "songkhla",
+    "viewpoint",
+    "public-space",
+    "attraction"
   ],
-  "enhanced_description": "Hat Yai Municipal Park is a vibrant oasis in the heart of Hat Yai, blending natural beauty with cultural significance. Spanning over 240 acres, the park is a beloved retreat for both locals and tourists. Visitors can enjoy a scenic cable car ride that offers breathtaking panoramic views of the city and its surrounding landscapes. At the pinnacle of the park stands a majestic Golden Buddha statue, an iconic symbol of peace and spirituality in Thai culture. The park is not only a place for recreation, with sprawling green spaces, walking trails, and picnic areas, but also serves as a cultural hub, hosting various events and festivals throughout the year. Whether you're seeking tranquility, adventure, or a deeper connection to Thai heritage, Hat Yai Municipal Park promises an enriching experience that captivates the senses and provides an escape from the urban hustle.",
-  "detailed_history": "Established in the late 20th century, Hat Yai Municipal Park was developed as part of the city’s initiative to enhance green spaces and promote community well-being. The park is home to the impressive Golden Buddha, which stands at 20 meters tall and was constructed to symbolize prosperity and good fortune for the city and its residents. The park's design reflects the traditional Thai landscape, emphasizing harmony with nature. Over the years, it has become a significant cultural landmark, attracting visitors who come not only for leisure but also for spiritual reflection. The park's continued development and the addition of modern facilities have made it a key attraction in Hat Yai.",
-  "visitor_experience": "Visitors to Hat Yai Municipal Park can expect a well-organized layout that includes a cable car station, picnic areas, and walking paths that meander through lush greenery. The main highlight is the cable car ride leading to the Golden Buddha statue, where guests can take in stunning vistas of Hat Yai. The typical visit duration ranges from 1.5 to 3 hours, allowing ample time to explore the recreation areas and enjoy a leisurely stroll. Families will find playgrounds and open spaces for children, while adults can relax in the serene environment or capture beautiful photographs of the landscape.",
+  "enhanced_description": "Hat Yai Municipal Park matters because it gives the city shape. Official Songkhla and TAT references still describe it as a major recreation park for Hat Yai and surrounding areas, and that is the right way to think about it. This is not a destination that competes with Thailand's national parks or temple complexes. It is a public hill-and-park zone that helps you understand the city beyond its market lanes.\n\nThat is why the park works so well as a supporting stop. It adds views, public-space context, and the hilltop landmark layer that downtown Hat Yai does not naturally provide. The best version of a visit is selective: come for city orientation, a short look at the hilltop areas, and the wider sense of Hat Yai as more than a shopping grid. It works especially well when paired with Wat Hat Yai Nai or one evening market later in the day.",
+  "detailed_history": "Provincial tourism material has long treated the municipal park as one of Hat Yai's core public attractions. Its long-term value comes from that civic function: leisure, viewpoints, and public recreation rather than one single monument or event-driven reason to visit.",
+  "visitor_experience": "Expect a broader hill-and-park area rather than a tightly scripted attraction. A comfortable visit usually takes 1 to 2 hours, depending on how much you want to see of the viewpoint and landmark areas. It is a better stop for context and pacing than for aggressive sightseeing.",
+  "hidden_gem_reason": "The park is easy to underrate because it looks generic on weak itineraries. In reality, it is one of the best quick orientation tools in Hat Yai.",
+  "who_should_visit": [
+    "First-time visitors who want city context",
+    "Travelers pairing market time with one outdoor stop",
+    "Visitors who like viewpoint-and-public-space stops"
+  ],
+  "who_can_skip": [
+    "Travelers on very short downtown-only stays",
+    "Visitors who only want heritage or food-focused plans"
+  ],
   "best_time_to_visit": {
-    "time_of_day": "Morning is the best time to visit, as the weather is cooler and the light is perfect for photography.",
-    "duration": "A recommended visit duration is between 2 to 3 hours.",
-    "crowd_level": "Crowd levels are moderate during weekdays, but weekends can be busy; visiting early in the morning helps avoid large crowds."
+    "time_of_day": "Morning or late afternoon.",
+    "duration": "Plan 1 to 2 hours.",
+    "crowd_level": "Usually moderate, with a more relaxed feel than the downtown core."
   },
   "photography_tips": [
-    "The best photo spots include the cable car station, the Golden Buddha, and the lookout points offering city views.",
-    "Early morning or late afternoon provides the best lighting conditions for photography.",
-    "The area around the Golden Buddha is particularly Instagram-worthy for its stunning backdrops.",
-    "Be mindful of photography restrictions during religious ceremonies or at certain sacred sites within the park."
+    "Use higher ground for wider city views rather than only close landmark shots.",
+    "Late afternoon often gives softer light and more legible skyline photos.",
+    "Treat the space as a park first; avoid blocking active public areas."
   ],
   "practical_info": {
-    "how_to_get_there": "Visitors can reach Hat Yai Municipal Park via public songthaews (shared taxis) or by taking a private taxi from Hat Yai city center, which is about 5 kilometers away.",
-    "nearby_attractions": "Nearby attractions include the Hat Yai Zoo, the Magic Eye 3D Museum, and the Khlong Hae Floating Market.",
-    "food_options": "There are numerous food stalls and small restaurants within the park offering local Thai dishes, as well as cafes nearby.",
-    "shopping": "Souvenir shops are available near the park entrance, offering local crafts and memorabilia."
+    "how_to_get_there": "Take a taxi, tuk-tuk, or hotel-arranged car from central Hat Yai. It is around six kilometres from the center in official TAT material.",
+    "nearby_attractions": "Wat Hat Yai Nai and the wider city market zone combine well with the park in the same day.",
+    "food_options": "Use the park as a supporting stop and keep the stronger meal plans back in downtown Hat Yai or toward the evening market layer.",
+    "shopping": "Shopping is not the reason to come; this is a park-and-viewpoint stop."
   },
   "insider_tips": [
-    "Look for the less-traveled paths in the park for a quieter experience away from the crowds.",
-    "Plan your visit around one of the park's cultural events or festivals to immerse yourself in local traditions.",
-    "Many tourists miss the hidden trails that lead to serene viewpoints; these spots are perfect for a peaceful retreat.",
-    "Respect local customs, especially near the Buddha statue, such as dressing modestly and maintaining a quiet demeanor."
+    "Do not overbuild the park into a half-day unless slow pacing is the point.",
+    "Use it to break up a market-heavy city day.",
+    "Pair it with another Hat Yai stop instead of making it the only reason to leave downtown."
   ],
-  "seasonal_considerations": "Throughout the year, the park experiences a variety of events, with the rainy season (May to October) bringing lush greenery but also potential flooding in low areas. The dry season (November to April) offers comfortable temperatures and is ideal for outdoor activities.",
-  "accessibility": "The park is wheelchair accessible, with paved paths and ramps leading to major attractions, though some areas may have steep inclines.",
-  "cultural_significance": "Hat Yai Municipal Park is important to Thai culture as it promotes community gathering and spirituality, with the Golden Buddha symbolizing hope and prosperity for the region. It's a place where locals celebrate festivals and religious events.",
+  "seasonal_considerations": "Dry and cooler months make the park more comfortable, but even in hotter months it still works if you avoid the middle of the day.",
+  "accessibility": "Road access is simple, but some hill and viewpoint areas may involve uneven surfaces or additional walking.",
+  "verified_note": "TAT's Songkhla brochure identifies the park as about six kilometres from the city center and as a major recreation space. That is the durable planning value worth keeping.",
+  "cultural_significance": "The municipal park shows Hat Yai as a lived-in southern city with real public space, not only as a commercial transit hub. That civic role is what makes it useful inside a short itinerary.",
   "fun_facts": [
-    "The Golden Buddha statue is one of the tallest in southern Thailand, attracting visitors from across the region.",
-    "The park hosts an annual flower festival that showcases local horticulture and culture.",
-    "Visitors can often spot local wildlife, including various bird species and butterflies, enhancing the park's natural charm."
+    "The park appears in both TAT and local Songkhla references as one of Hat Yai's core public attractions.",
+    "It is more useful for orientation than many travelers expect.",
+    "The city feels easier to read after seeing it from the park side."
   ],
-  "enhanced_at": "2025-05-25T22:46:28.083Z"
+  "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=Hat%20Yai%20Municipal%20Park%20Hat%20Yai%20Thailand",
+  "contentSources": [
+    {
+      "name": "Songkhla Province Ebook",
+      "url": "https://www.songkhlacity.go.th/2020/ebook/download/?file=files%2Fcom_ebook%2F2019-04_7b213de368592f5.pdf&id=2457&name=57.pdf"
+    },
+    {
+      "name": "Songkhla E-Brochure",
+      "url": "https://api.tat.or.th/upload/multimedia/ebrochure/file/live/Songkhla-Eng-58-1535366530.pdf"
+    }
+  ]
 }
