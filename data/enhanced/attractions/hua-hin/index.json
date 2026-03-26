@@ -1,7 +1,7 @@
 {
   "city_slug": "hua-hin",
   "city_name": "Hua Hin",
-  "total_attractions": 10,
+  "total_attractions": 5,
   "attractions": [
     {
       "id": 1,
@@ -11,19 +11,19 @@
         "nl": "Hua Hin Strand"
       },
       "type": "beach",
-      "image": "/images/cities/phuket/phuket-old-town.webp",
+      "image": "/images/cities/generated/hua-hin.webp",
       "description": {
-        "en": "Hua Hin's main beach stretching several kilometers with white sand, horse rides, and beachfront dining",
-        "nl": "Hua Hin's hoofdstrand dat zich kilometers uitstrekt met wit zand, paardritten en dineren aan het strand"
+        "en": "Hua Hin's main urban beach, best used for early walks, practical swims, and easy access from both central hotels and the Khao Takiab side.",
+        "nl": "Het belangrijkste stadsstrand van Hua Hin, het best voor vroege wandelingen, praktische zwemmomenten en makkelijke toegang vanaf zowel centrale hotels als de kant van Khao Takiab."
       },
       "entrance_fee": {
         "thb": 0,
         "usd": 0
       },
       "highlights": [
-        "Long sandy beach",
-        "Horse riding",
-        "Beachfront restaurants"
+        "Best early-day beach stop",
+        "Easy to combine with town plans",
+        "Useful for both central and south-side stays"
       ],
       "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=Hua%20Hin%20Beach%20Hua%20Hin%20Thailand"
     },
@@ -35,69 +35,45 @@
         "nl": "Cicada Markt"
       },
       "type": "market",
-      "image": "/images/cities/phuket/phuket-old-town.webp",
+      "image": "/images/extra images/Young man tourist on Walking street Asian food market.webp",
       "description": {
-        "en": "Weekend art and creative market with handmade goods, live music, and artisan food stalls",
-        "nl": "Weekend kunst- en creatieve markt met handgemaakte producten, livemuziek en ambachtelijke eetkramen"
+        "en": "Hua Hin's weekend art market, known for live performance, design stalls, and a more curated atmosphere than a standard night market.",
+        "nl": "De weekendkunstmarkt van Hua Hin, bekend om liveoptredens, designkraampjes en een meer gecureerde sfeer dan een standaard nachtmarkt."
       },
       "entrance_fee": {
         "thb": 0,
         "usd": 0
       },
       "highlights": [
-        "Local art",
-        "Live music",
-        "Artisan food"
+        "Weekend-only art market",
+        "Best paired with Tamarind food zone",
+        "Strong evening atmosphere"
       ],
       "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=Cicada%20Market%20Hua%20Hin%20Thailand"
-    },
-    {
-      "id": 3,
-      "slug": "maruekhathaiyawan-palace",
-      "name": {
-        "en": "Maruekhathaiyawan Palace",
-        "nl": "Maruekhathaiyawan Paleis"
-      },
-      "type": "palace",
-      "image": "/images/cities/phuket/phuket-old-town.webp",
-      "description": {
-        "en": "Exquisite teak summer palace of King Rama VI, elevated on stilts amid a coastal casuarina grove",
-        "nl": "Prachtig teakhouten zomerpaleis van Koning Rama VI, verhoogd op palen in een kustbos van casuarina's"
-      },
-      "entrance_fee": {
-        "thb": 30,
-        "usd": 1
-      },
-      "highlights": [
-        "Royal teak palace",
-        "Beachfront location",
-        "Historical architecture"
-      ],
-      "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=Maruekhathaiyawan%20Palace%20Hua%20Hin%20Thailand"
     },
     {
       "id": 4,
       "slug": "khao-takiab",
       "name": {
-        "en": "Khao Takiab (Chopstick Hill)",
-        "nl": "Khao Takiab (Eetstokjesheuvel)"
+        "en": "Khao Takiab",
+        "nl": "Khao Takiab"
       },
-      "type": "nature",
-      "image": "/images/cities/phuket/phuket-old-town.webp",
+      "type": "temple-viewpoint",
+      "image": "/images/cities/generated/hua-hin.webp",
       "description": {
-        "en": "Rocky headland with hilltop temple, resident monkeys, and panoramic views of Hua Hin coastline",
-        "nl": "Rotsachtige kaap met heuveltempel, makaken en panoramisch uitzicht op de kustlijn van Hua Hin"
+        "en": "A hilltop temple-and-viewpoint stop on the south side of Hua Hin, with strong coastline views and a clear sense of the town's geography.",
+        "nl": "Een tempel- en uitzichtpunt op een heuvel aan de zuidkant van Hua Hin, met sterk uitzicht over de kust en een duidelijk gevoel voor de geografie van de stad."
       },
       "entrance_fee": {
         "thb": 0,
         "usd": 0
       },
       "highlights": [
-        "Panoramic views",
-        "Hilltop temple",
-        "Monkey colony"
+        "Panoramic coastline views",
+        "Useful temple stop",
+        "Best short viewpoint in Hua Hin"
       ],
-      "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=Khao%20Takiab%20(Chopstick%20Hill)%20Hua%20Hin%20Thailand"
+      "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=Khao%20Takiab%20Hua%20Hin%20Thailand"
     },
     {
       "id": 5,
@@ -107,45 +83,21 @@
         "nl": "Hua Hin Nachtmarkt"
       },
       "type": "market",
-      "image": "/images/cities/phuket/phuket-old-town.webp",
+      "image": "/images/extra images/Young man tourist on Walking street Asian food market.webp",
       "description": {
-        "en": "Bustling nightly market on Dechanuchit Road famous for fresh seafood, Thai street food, and souvenir shopping",
-        "nl": "Bruisende nachtmarkt op Dechanuchit Road beroemd om verse zeevruchten, Thaise streetfood en souvenirs"
+        "en": "The old-center evening market that still anchors Hua Hin's seafood, snack, and shopping routine after dark.",
+        "nl": "De avondmarkt in het oude centrum die nog steeds het anker vormt van Hua Hins routine van zeevruchten, snacks en shoppen na donker."
       },
       "entrance_fee": {
         "thb": 0,
         "usd": 0
       },
       "highlights": [
-        "Fresh seafood",
-        "Street food",
-        "Souvenir shopping"
+        "Best first-night market stop",
+        "Seafood and street-food focus",
+        "Easy older-center evening plan"
       ],
       "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=Hua%20Hin%20Night%20Market%20Hua%20Hin%20Thailand"
-    },
-    {
-      "id": 6,
-      "slug": "hua-hin-railway-station",
-      "name": {
-        "en": "Hua Hin Railway Station",
-        "nl": "Hua Hin Treinstation"
-      },
-      "type": "cultural",
-      "image": "/images/cities/phuket/phuket-old-town.webp",
-      "description": {
-        "en": "One of Thailand's most beautiful train stations with vintage red-and-cream wooden Royal Waiting Room",
-        "nl": "Een van Thailands mooiste treinstations met een vintage rood-en-creme houten Koninklijke Wachtkamer"
-      },
-      "entrance_fee": {
-        "thb": 0,
-        "usd": 0
-      },
-      "highlights": [
-        "Royal Waiting Room",
-        "Vintage architecture",
-        "Photo opportunity"
-      ],
-      "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=Hua%20Hin%20Railway%20Station%20Hua%20Hin%20Thailand"
     },
     {
       "id": 7,
@@ -154,94 +106,24 @@
         "en": "Khao Sam Roi Yot National Park",
         "nl": "Khao Sam Roi Yot Nationaal Park"
       },
-      "type": "nature",
-      "image": "/images/cities/phuket/phuket-old-town.webp",
+      "type": "national-park",
+      "image": "/images/cities/generated/hua-hin.webp",
       "description": {
-        "en": "Coastal national park with the famous Phraya Nakhon Cave, mangroves, and limestone peaks",
-        "nl": "Kust nationaal park met de beroemde Phraya Nakhon-grot, mangroven en kalksteenpieken"
+        "en": "Hua Hin's most worthwhile nature day, with limestone peaks, cave drama, and a coastal landscape that feels far bigger than the town itself.",
+        "nl": "De meest waardevolle natuurdagtrip vanuit Hua Hin, met kalksteenpieken, grotten en een kustlandschap dat veel groter aanvoelt dan de stad zelf."
       },
       "entrance_fee": {
         "thb": 200,
         "usd": 6
       },
       "highlights": [
+        "Best Hua Hin nature day",
         "Phraya Nakhon Cave",
-        "Limestone peaks",
-        "Mangrove forests"
+        "Worth a full outing"
       ],
-      "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=Khao%20Sam%20Roi%20Yot%20National%20Park%20Hua%20Hin%20Thailand"
-    },
-    {
-      "id": 8,
-      "slug": "plearn-wan",
-      "name": {
-        "en": "Plearn Wan Vintage Village",
-        "nl": "Plearn Wan Vintage Dorp"
-      },
-      "type": "shopping",
-      "image": "/images/cities/phuket/phuket-old-town.webp",
-      "description": {
-        "en": "Retro-themed vintage village recreating 1950s-60s Thailand with nostalgic shops, candy stalls, and games",
-        "nl": "Retro-thema vintage dorp dat het Thailand van de jaren 50-60 nabootst met nostalgische winkels, snoepkramen en spelletjes"
-      },
-      "entrance_fee": {
-        "thb": 0,
-        "usd": 0
-      },
-      "highlights": [
-        "1950s nostalgia",
-        "Vintage shops",
-        "Thai candy stalls"
-      ],
-      "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=Plearn%20Wan%20Vintage%20Village%20Hua%20Hin%20Thailand"
-    },
-    {
-      "id": 9,
-      "slug": "black-mountain-water-park",
-      "name": {
-        "en": "Black Mountain Water Park",
-        "nl": "Black Mountain Waterpark"
-      },
-      "type": "attraction",
-      "image": "/images/cities/phuket/phuket-old-town.webp",
-      "description": {
-        "en": "Popular water park with slides, wave pool, and lazy river set against a mountain backdrop",
-        "nl": "Populair waterpark met glijbanen, golfzwembad en luie rivier tegen een bergachtergrond"
-      },
-      "entrance_fee": {
-        "thb": 600,
-        "usd": 17
-      },
-      "highlights": [
-        "Water slides",
-        "Wave pool",
-        "Mountain views"
-      ],
-      "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=Black%20Mountain%20Water%20Park%20Hua%20Hin%20Thailand"
-    },
-    {
-      "id": 10,
-      "slug": "hua-hin-fishing-pier",
-      "name": {
-        "en": "Hua Hin Fishing Pier",
-        "nl": "Hua Hin Vissteiger"
-      },
-      "type": "cultural",
-      "image": "/images/cities/phuket/phuket-old-town.webp",
-      "description": {
-        "en": "Historic wooden fishing pier in the center of town, a scenic landmark and popular spot for sunset photos",
-        "nl": "Historische houten vissteiger in het centrum van de stad, een schilderachtig herkenningspunt en populaire plek voor zonsondergangfoto's"
-      },
-      "entrance_fee": {
-        "thb": 0,
-        "usd": 0
-      },
-      "highlights": [
-        "Sunset views",
-        "Fishing boats",
-        "Historic landmark"
-      ],
-      "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=Hua%20Hin%20Fishing%20Pier%20Hua%20Hin%20Thailand"
+      "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=Khao%20Sam%20Roi%20Yot%20National%20Park%20Thailand"
     }
-  ]
+  ],
+  "enhanced_at": "2026-03-26T00:00:00.000Z",
+  "enhanced_count": 5
 }
