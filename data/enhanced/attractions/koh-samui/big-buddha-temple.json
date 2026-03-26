@@ -1,0 +1,82 @@
+{
+  "id": 1,
+  "slug": "big-buddha-temple",
+  "name": {
+    "en": "Big Buddha Temple (Wat Phra Yai)",
+    "nl": "Big Buddha Tempel (Wat Phra Yai)"
+  },
+  "type": "temple",
+  "city_slug": "koh-samui",
+  "address": "Bo Put, Ko Samui District, Surat Thani 84320",
+  "location": {
+    "lat": 9.5708299,
+    "lng": 100.0598016
+  },
+  "opening_hours": "Active temple site; visit during daylight hours",
+  "entrance_fee": {
+    "thb": 0,
+    "usd": 0
+  },
+  "description": {
+    "en": "Samui's clearest landmark and the best first temple stop for understanding the island beyond its resort layer.",
+    "nl": "Het duidelijkste herkenningspunt van Samui en de beste eerste tempelstop om het eiland buiten de resortlaag te begrijpen."
+  },
+  "highlights": [
+    "Best-known Samui landmark",
+    "Useful northeast temple anchor",
+    "Easy to pair with Wat Plai Laem"
+  ],
+  "image": "/images/cities/generated/koh-samui.webp",
+  "official_website": null,
+  "seo": {
+    "metaTitle": {
+      "en": "Big Buddha Temple Koh Samui | Go2Thailand",
+      "nl": "Big Buddha Tempel Koh Samui | Go2Thailand"
+    },
+    "metaDescription": {
+      "en": "Why Big Buddha is still the right first temple stop on Koh Samui and how to pair it with Wat Plai Laem.",
+      "nl": "Waarom de Big Buddha nog steeds de juiste eerste tempelstop op Koh Samui is en hoe je die combineert met Wat Plai Laem."
+    }
+  },
+  "tags": [
+    "temple",
+    "koh samui",
+    "bophut",
+    "big buddha",
+    "thailand"
+  ],
+  "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=Big%20Buddha%20Temple%20Koh%20Samui%20Thailand",
+  "best_time": "early morning or late afternoon",
+  "duration_hours": 1.5,
+  "enhanced_description": "Big Buddha matters because it gives Koh Samui one clear landmark that is not dependent on beach clubs, boat tours, or resort branding. The temple is straightforward to understand and easy to fit into a short stay, which is exactly why it still belongs high on the island's list. It is the cleanest first religious stop for travelers who want Samui to feel like more than interchangeable tropical hotel zones.\n\nThe better way to use it is as part of a compact northeast circuit. Visit Big Buddha first, then continue to Wat Plai Laem rather than turning both temples into separate taxi rides on different days. That keeps the outing coherent and gives the northeastern side of the island a proper role in the trip.",
+  "detailed_history": "Anantara Bophut's official experiences guide still uses Big Buddha as one of Samui's defining temple-and-spirituality stops, which matches how most visitors actually encounter the island. Tourism Authority of Thailand planning material also continues to treat Phra Yai as one of the core landmarks that sits alongside Lamai, Hin Ta Hin Yai, and Ang Thong in a first Samui itinerary.",
+  "visitor_experience": "Expect a visible, active temple area rather than an isolated heritage ruin. The main value is orientation, atmosphere, and the contrast it brings to a resort-led island schedule. This is strongest when you arrive with enough time to walk the grounds, take in the sea-facing setting, and then continue calmly to the next northeast stop.",
+  "best_time_to_visit": {
+    "time_of_day": "Early morning or late afternoon",
+    "duration": "About 1 to 1.5 hours",
+    "crowd_level": "Moderate, with more heat and exposure around midday"
+  },
+  "practical_info": {
+    "how_to_get_there": "Reach it by taxi or ride-hailing from Chaweng, Bophut, or Choeng Mon, or combine it with nearby northeast temple stops in one short route.",
+    "nearby_attractions": "Wat Plai Laem, the northeast coast, and airport-side parts of Samui.",
+    "food_options": "Better used before or after a meal elsewhere rather than as a food stop in itself.",
+    "shopping": "Small stalls and simple souvenir options are nearby, but this is primarily a religious and viewpoint stop."
+  },
+  "insider_tips": [
+    "Pair it with Wat Plai Laem so the northeast temple route stays compact.",
+    "Dress respectfully because this remains an active religious site.",
+    "Do not judge it by a rushed midday stop; cooler hours make the visit feel calmer and more deliberate."
+  ],
+  "verified_note": "Source-backed summary based on Tourism Authority of Thailand itinerary material and Anantara Bophut's official Samui experiences guide. On-site activity and any temporary worship-area restrictions can vary locally.",
+  "cultural_significance": "Big Buddha is one of the clearest non-beach symbols of Koh Samui and still gives the island a visible religious anchor beyond its resort identity.",
+  "contentSources": [
+    {
+      "name": "Ko Samui - Surat Thani 4 Days",
+      "url": "https://www.tourismthailand.org/Trip-Planner/Suggestion-Detail/ko-samui-surat-thani-4-days"
+    },
+    {
+      "name": "Anantara Bophut Koh Samui Experiences Guide 2025",
+      "url": "https://www.anantara.com/uploads/minor/anantara/documents/anantara-bophut-koh-samui-resort/leisure/2025/anantara_bophut_koh_samui_experiences_guide_2025.pdf"
+    }
+  ]
+}

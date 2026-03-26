@@ -1,257 +1,137 @@
 {
   "city_slug": "koh-samui",
   "city_name": "Koh Samui",
-  "total_attractions": 10,
+  "total_attractions": 5,
   "attractions": [
     {
       "id": 1,
-      "slug": "chaweng-beach",
-      "name": {
-        "en": "Chaweng Beach",
-        "nl": "Chaweng Beach"
-      },
-      "type": "beach",
-      "image": "/images/cities/phuket/phuket-old-town.webp",
-      "description": {
-        "en": "Koh Samui's longest and most popular beach with powdery white sand, crystal-clear water, and vibrant nightlife",
-        "nl": "Het langste en populairste strand van Koh Samui met poederachtig wit zand, kristalhelder water en bruisend nachtleven"
-      },
-      "entrance_fee": {
-        "thb": 0,
-        "usd": 0
-      },
-      "highlights": [
-        "3 km white sand beach",
-        "Nightlife and bars",
-        "Water sports"
-      ],
-      "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=Chaweng%20Beach%20Koh%20Samui%20Thailand"
-    },
-    {
-      "id": 2,
       "slug": "big-buddha-temple",
       "name": {
         "en": "Big Buddha Temple (Wat Phra Yai)",
-        "nl": "Grote Boeddha Tempel (Wat Phra Yai)"
+        "nl": "Big Buddha Tempel (Wat Phra Yai)"
       },
       "type": "temple",
-      "image": "/images/cities/phuket/phuket-old-town.webp",
+      "image": "/images/cities/generated/koh-samui.webp",
       "description": {
-        "en": "Iconic 12-meter golden Buddha statue on a small islet connected to the northeast coast of Koh Samui",
-        "nl": "Iconisch 12 meter hoog gouden Boeddhabeeld op een klein eilandje verbonden met de noordoostkust van Koh Samui"
+        "en": "Samui's clearest landmark and the strongest first temple stop on the island.",
+        "nl": "Het duidelijkste herkenningspunt van Samui en de sterkste eerste tempelstop op het eiland."
       },
       "entrance_fee": {
         "thb": 0,
         "usd": 0
       },
       "highlights": [
-        "12-meter golden Buddha",
-        "Panoramic sea views",
-        "Naga staircase"
+        "Best-known Samui landmark",
+        "Useful with Wat Plai Laem",
+        "Easy first-time stop"
       ],
-      "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=Big%20Buddha%20Temple%20(Wat%20Phra%20Yai)%20Koh%20Samui%20Thailand"
+      "best_time": "early morning or late afternoon",
+      "duration_hours": 1.5,
+      "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=Big%20Buddha%20Temple%20Koh%20Samui%20Thailand"
     },
     {
-      "id": 3,
+      "id": 2,
       "slug": "ang-thong-marine-park",
       "name": {
-        "en": "Ang Thong National Marine Park",
-        "nl": "Ang Thong Nationaal Marien Park"
+        "en": "Mu Ko Ang Thong Marine National Park",
+        "nl": "Mu Ko Ang Thong Marine National Park"
       },
       "type": "nature",
-      "image": "/images/cities/phuket/phuket-old-town.webp",
+      "image": "/images/cities/generated/koh-samui.webp",
       "description": {
-        "en": "Stunning archipelago of 42 limestone islands with emerald lagoons, hidden caves, and pristine beaches",
-        "nl": "Prachtige archipel van 42 kalksteeneilanden met smaragdgroene lagunes, verborgen grotten en ongerepte stranden"
+        "en": "The strongest full-day excursion from Samui, built around protected islands, viewpoints, and open-water scenery.",
+        "nl": "De sterkste dagexcursie vanaf Samui, gebouwd rond beschermde eilanden, uitzichtpunten en open zeegezichten."
       },
       "entrance_fee": {
         "thb": 300,
         "usd": 9
       },
       "highlights": [
-        "42 islands",
-        "Emerald lake viewpoint",
-        "Kayaking and snorkeling"
+        "Best Samui day trip",
+        "Protected marine park",
+        "Worth a dedicated outing"
       ],
-      "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=Ang%20Thong%20National%20Marine%20Park%20Koh%20Samui%20Thailand"
+      "best_time": "calmer-weather mornings",
+      "duration_hours": 8,
+      "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=Mu%20Ko%20Ang%20Thong%20Marine%20National%20Park%20Thailand"
     },
     {
-      "id": 4,
+      "id": 3,
       "slug": "fishermans-village-bophut",
       "name": {
         "en": "Fisherman's Village Bophut",
         "nl": "Fisherman's Village Bophut"
       },
       "type": "market",
-      "image": "/images/cities/phuket/phuket-old-town.webp",
+      "image": "/images/cities/generated/koh-samui.webp",
       "description": {
-        "en": "Charming old fishing village with Chinese shophouses hosting a famous Friday Night Market with food and crafts",
-        "nl": "Charmant oud vissersdorp met Chinese winkelpanden met een beroemde vrijdagavondmarkt met eten en ambachten"
+        "en": "Samui's most useful evening zone for walking, dining, and market atmosphere outside Chaweng.",
+        "nl": "De bruikbaarste avondzone van Samui voor wandelen, eten en marktsfeer buiten Chaweng."
       },
       "entrance_fee": {
         "thb": 0,
         "usd": 0
       },
       "highlights": [
-        "Friday Night Market",
-        "Old Chinese shophouses",
-        "Beachfront dining"
+        "Best evening stop",
+        "Walking-street feel",
+        "Good food-and-market mix"
       ],
-      "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=Fisherman's%20Village%20Bophut%20Koh%20Samui%20Thailand"
+      "best_time": "late afternoon into the evening",
+      "duration_hours": 2.5,
+      "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=Fisherman%27s%20Village%20Bophut%20Koh%20Samui%20Thailand"
     },
     {
-      "id": 5,
+      "id": 4,
       "slug": "lamai-beach",
       "name": {
         "en": "Lamai Beach",
         "nl": "Lamai Beach"
       },
       "type": "beach",
-      "image": "/images/cities/phuket/phuket-old-town.webp",
+      "image": "/images/cities/generated/koh-samui.webp",
       "description": {
-        "en": "Samui's second-largest beach offering a more relaxed atmosphere than Chaweng with the famous Hin Ta Hin Yai rocks",
-        "nl": "Het op een na grootste strand van Samui met een meer ontspannen sfeer dan Chaweng en de beroemde Hin Ta Hin Yai rotsen"
+        "en": "A better middle-ground beach zone than many first-timers expect, with room for both beach time and nearby coastal stops.",
+        "nl": "Een beter middenweg-strandgebied dan veel eerste bezoekers verwachten, met ruimte voor strandtijd en nabijgelegen kuststops."
       },
       "entrance_fee": {
         "thb": 0,
         "usd": 0
       },
       "highlights": [
-        "Hin Ta Hin Yai rocks",
-        "Relaxed atmosphere",
-        "Beach restaurants"
+        "Useful south-island anchor",
+        "Good balance of beach and town",
+        "Hin Ta Hin Yai nearby"
       ],
+      "best_time": "morning or late afternoon",
+      "duration_hours": 3,
       "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=Lamai%20Beach%20Koh%20Samui%20Thailand"
     },
     {
-      "id": 6,
-      "slug": "na-muang-waterfall",
-      "name": {
-        "en": "Na Muang Waterfall",
-        "nl": "Na Muang Waterval"
-      },
-      "type": "nature",
-      "image": "/images/cities/phuket/phuket-old-town.webp",
-      "description": {
-        "en": "Two-tiered waterfall in the island interior cascading into natural swimming pools surrounded by lush jungle",
-        "nl": "Waterval met twee niveaus in het binnenland van het eiland die in natuurlijke zwembaden stroomt omringd door weelderig oerwoud"
-      },
-      "entrance_fee": {
-        "thb": 0,
-        "usd": 0
-      },
-      "highlights": [
-        "Natural swimming pool",
-        "Jungle hike",
-        "Two waterfall levels"
-      ],
-      "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=Na%20Muang%20Waterfall%20Koh%20Samui%20Thailand"
-    },
-    {
-      "id": 7,
+      "id": 5,
       "slug": "wat-plai-laem",
       "name": {
         "en": "Wat Plai Laem",
         "nl": "Wat Plai Laem"
       },
       "type": "temple",
-      "image": "/images/cities/phuket/phuket-old-town.webp",
+      "image": "/images/cities/generated/koh-samui.webp",
       "description": {
-        "en": "Colorful lakeside temple featuring a large multi-armed Guanyin statue and ornate Chinese-Thai architecture",
-        "nl": "Kleurrijke tempel aan het meer met een groot meerarmig Guanyin-beeld en sierlijke Chinees-Thaise architectuur"
+        "en": "A colorful lakeside temple that works best as the second stop in Samui's compact northeast temple loop.",
+        "nl": "Een kleurrijke tempel aan het water die het best werkt als tweede stop in Samui's compacte tempelroute in het noordoosten."
       },
       "entrance_fee": {
         "thb": 0,
         "usd": 0
       },
       "highlights": [
-        "18-armed Guanyin statue",
-        "Lakeside setting",
-        "Fish feeding"
+        "Photogenic lakeside setting",
+        "Best paired with Big Buddha",
+        "Short easy detour"
       ],
+      "best_time": "morning or late afternoon",
+      "duration_hours": 1.25,
       "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=Wat%20Plai%20Laem%20Koh%20Samui%20Thailand"
-    },
-    {
-      "id": 8,
-      "slug": "secret-buddha-garden",
-      "name": {
-        "en": "Secret Buddha Garden (Magic Garden)",
-        "nl": "Geheime Boeddha Tuin (Magische Tuin)"
-      },
-      "type": "cultural",
-      "image": "/images/cities/phuket/phuket-old-town.webp",
-      "description": {
-        "en": "Mystical hilltop garden hidden in the jungle with stone statues and figures scattered among moss-covered rocks",
-        "nl": "Mystieke heuveltuin verborgen in het oerwoud met stenen beelden en figuren verspreid over mosbegroeid gesteente"
-      },
-      "entrance_fee": {
-        "thb": 80,
-        "usd": 2
-      },
-      "highlights": [
-        "Stone statues in jungle",
-        "Hilltop views",
-        "4WD access recommended"
-      ],
-      "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=Secret%20Buddha%20Garden%20(Magic%20Garden)%20Koh%20Samui%20Thailand"
-    },
-    {
-      "id": 9,
-      "slug": "maenam-beach",
-      "name": {
-        "en": "Maenam Beach",
-        "nl": "Maenam Beach"
-      },
-      "type": "beach",
-      "image": "/images/cities/phuket/phuket-old-town.webp",
-      "description": {
-        "en": "Quiet north-coast beach popular with long-stay visitors and families seeking a peaceful escape from the busier beaches",
-        "nl": "Rustig strand aan de noordkust populair bij langverblijvers en families die een vredige ontsnapping zoeken van de drukkere stranden"
-      },
-      "entrance_fee": {
-        "thb": 0,
-        "usd": 0
-      },
-      "highlights": [
-        "Quiet atmosphere",
-        "Traditional fishing village",
-        "Koh Phangan views"
-      ],
-      "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=Maenam%20Beach%20Koh%20Samui%20Thailand"
-    },
-    {
-      "id": 10,
-      "slug": "samui-elephant-sanctuary",
-      "name": {
-        "en": "Samui Elephant Sanctuary",
-        "nl": "Samui Olifanten Opvangcentrum"
-      },
-      "type": "nature",
-      "image": "/images/cities/phuket/phuket-old-town.webp",
-      "description": {
-        "en": "Ethical elephant sanctuary where rescued elephants roam freely in natural surroundings with observation-only visits",
-        "nl": "Ethisch olifantenopvangcentrum waar geredde olifanten vrij rondlopen in een natuurlijke omgeving met alleen observatiebezoeken"
-      },
-      "entrance_fee": {
-        "thb": 2500,
-        "usd": 72
-      },
-      "highlights": [
-        "Ethical elephant care",
-        "Observation walks",
-        "Educational tours"
-      ],
-      "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=Samui%20Elephant%20Sanctuary%20Koh%20Samui%20Thailand",
-      "seo": {
-        "metaTitle": {
-          "en": "Samui Elephant Sanctuary — Ethical Experience",
-          "nl": "Samui Olifanten Opvangcentrum — Ethische Olifant Ervaring Koh Samui"
-        },
-        "metaDescription": {
-          "en": "Visit Samui Elephant Sanctuary for an ethical elephant experience in Koh Samui. Feed, bathe & walk with rescued elephants. Prices, booking tips & reviews.",
-          "nl": "Bezoek het Samui Olifanten Opvangcentrum voor een ethische olifant ervaring op Koh Samui."
-        }
-      }
     }
   ]
 }

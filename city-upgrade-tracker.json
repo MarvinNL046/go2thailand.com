@@ -76,8 +76,8 @@
     },
     {
       "slug": "koh-samui",
-      "status": "pending",
-      "notes": ""
+      "status": "done",
+      "notes": "English city cluster rebuilt around zone-based island planning, source-backed attraction detail pages, curated MICHELIN and official hotel picks, and validated with jq, tsc, and localhost render checks."
     },
     {
       "slug": "krabi",

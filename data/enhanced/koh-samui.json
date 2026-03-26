@@ -15,22 +15,24 @@
   "region": "Southern",
   "province": "Surat Thani",
   "description": {
-    "en": "Thailand's second-largest island, Koh Samui is a tropical paradise famous for palm-fringed beaches, luxury resorts, and the iconic Big Buddha Temple. A gateway to the Gulf islands with vibrant nightlife and pristine nature.",
-    "nl": "Het op een na grootste eiland van Thailand, Koh Samui is een tropisch paradijs beroemd om zijn palmbomen-omzoomde stranden, luxe resorts en de iconische Grote Boeddha Tempel. Een toegangspoort tot de Golfeilanden met bruisend nachtleven en ongerepte natuur.",
-    "ja": "タイで2番目に大きな島。ヤシの木が並ぶビーチ、豪華リゾート、アイランドホッピングで有名な熱帯の楽園。",
-    "ko": "태국에서 두 번째로 큰 섬인 코사무이는 야자수가 늘어선 해변, 럭셔리 리조트, 상징적인 빅 부다 사원으로 유명한 열대 낙원입니다. 활기찬 나이트라이프와 천혜의 자연을 갖춘 걸프만 섬들의 관문입니다.",
-    "th": "เกาะสวรรค์ในอ่าวไทย มีชายหาดทรายขาว รีสอร์ทหรู และชีวิตยามค่ำคืนที่คึกคัก",
-    "de": "Thailands zweitgrößte Insel, Koh Samui, ist ein tropisches Paradies, berühmt für palmengesäumte Strände, luxuriöse Resorts und den ikonischen Big Buddha-Tempel. Ein Tor zu den Inseln im Golf von Thailand mit pulsierendem Nachtleben und unberührter Natur.",
-    "fr": "La deuxième plus grande île de Thaïlande, Koh Samui est un paradis tropical célèbre pour ses plages bordées de palmiers, ses complexes de luxe et le temple emblématique du Grand Bouddha. Porte d’entrée vers les îles du Golfe, avec une vie nocturne animée et une nature préservée.",
-    "ru": "Вторая по величине остров Таиланда, Ко Самуи — тропический рай, известный своими пальмовыми пляжами, роскошными курортами и культовым храмом Большого Будды. Входной порт к островам залива с яркой ночной жизнью и девственной природой.",
-    "zh": "泰国第二大岛，苏梅岛以椰树点缀的海滩、豪华度假村和标志性的大佛寺而闻名，是前往湾区群岛的门户，夜生活丰富且自然景观原始。"
+    "en": "A Gulf island that works best when you choose the right coast and hotel zone first: Chaweng for energy, Bophut and Choeng Mon for calmer resort comfort, and Ang Thong or the south coast for the day that breaks up beach time properly.",
+    "nl": "Een golfeiland dat het best werkt als je eerst de juiste kust en hotelzone kiest: Chaweng voor energie, Bophut en Choeng Mon voor rustiger resortcomfort, en Ang Thong of de zuidkust voor de dagtrip die strandtijd echt goed afwisselt.",
+    "ja": "サムイ島は、まずどの海岸と滞在エリアを選ぶかで旅の質が決まる島です。チャウエンは賑やかさ、ボープットとチョンモンは落ち着いたリゾート感、そしてアントン海洋公園や南側はビーチ以外の一日を作るための軸になります。",
+    "ko": "사무이는 먼저 어느 해안과 숙소 구역을 잡느냐에 따라 여행의 성격이 달라지는 섬이다. 차웽은 활기, 보풋과 청몬은 더 차분한 리조트 무드, 앙통과 남부 해안은 해변 일정에 변화를 주는 핵심이다.",
+    "th": "สมุยเป็นเกาะที่เที่ยวได้ดีมากเมื่อเลือกโซนพักให้ถูกก่อน ชายหาดอย่างเฉวงเหมาะกับความคึกคัก ส่วนบ่อผุดและเชิงมนเหมาะกับรีสอร์ตที่สงบกว่า และทริปอย่างอ่างทองหรือฝั่งใต้ช่วยให้เกาะนี้ไม่กลายเป็นทริปนอนหาดอย่างเดียว",
+    "de": "Koh Samui funktioniert am besten, wenn Sie zuerst die richtige Kuste und Hotelzone wahlen: Chaweng fur Energie, Bophut und Choeng Mon fur ruhigeren Resort-Komfort und Ang Thong oder die Sudkuste fur den passenden Tagesausflug.",
+    "fr": "Koh Samui fonctionne surtout lorsqu'on choisit d'abord la bonne cote et la bonne zone d'hotel: Chaweng pour l'energie, Bophut et Choeng Mon pour un confort plus calme, et Ang Thong ou la cote sud pour une vraie journee hors plage.",
+    "ru": "Самуи лучше всего работает, когда вы сначала выбираете правильную часть острова и отельную зону: Чавенг для энергии, Бопхут и Чонг Мон для более спокойного курортного ритма, а Анг Тхонг или южное побережье для осмысленной вылазки за пределы пляжа.",
+    "zh": "苏梅岛最适合先选对海岸与住宿区：查汶适合热闹，波普和崇蒙更适合安静的度假节奏，而安通海洋公园或南海岸则是打破纯海滩行程的关键一天。"
   },
   "population": 63000,
   "highlights": [
-    "Chaweng Beach",
-    "Big Buddha Temple",
-    "Ang Thong Marine Park",
-    "Fisherman's Village"
+    "Wat Phra Yai",
+    "Mu Ko Ang Thong Marine National Park",
+    "Fisherman's Village Bophut",
+    "Lamai Beach and Hin Ta Hin Yai",
+    "Wat Plai Laem",
+    "Choeng Mon and Bophut resort stays"
   ],
   "location": {
     "lat": 9.512,
@@ -39,26 +41,26 @@
   "image": "/images/cities/generated/koh-samui.webp",
   "seo": {
     "metaTitle": {
-      "en": "Discover Koh Samui | What to do in Koh Samui?",
-      "nl": "Ontdek Koh Samui | Wat te doen op Koh Samui?",
-      "ja": "サムイ島 タイ — ビーチ＆観光ガイド 2026",
-      "ko": "코사무이 태국 — 해변, 리조트 & 여행 가이드 2026",
-      "th": "เกาะสมุย ประเทศไทย — คู่มือท่องเที่ยวฉบับสมบูรณ์ 2026",
-      "de": "Entdecken Sie Koh Samui | Was tun in Koh Samui?",
-      "fr": "Découvrez Koh Samui | Que faire à Koh Samui ?",
-      "ru": "Откройте для себя Ко Самуи | Что можно сделать на Ко Самуи?",
-      "zh": "发现苏梅岛 | 在苏梅岛做什么？"
+      "en": "Koh Samui Thailand Guide 2026 | Beaches, Hotels, Day Trips",
+      "nl": "Koh Samui Thailand Gids 2026 | Stranden, hotels, dagtrips",
+      "ja": "サムイ島旅行ガイド 2026 | ビーチ、ホテル、日帰りプラン",
+      "ko": "코사무이 여행 가이드 2026 | 해변, 호텔, 데이트립",
+      "th": "เกาะสมุย 2026 | ชายหาด ที่พัก และเดย์ทริป",
+      "de": "Koh Samui Thailand Guide 2026 | Strande, Hotels, Ausfluge",
+      "fr": "Guide Koh Samui 2026 | plages, hotels et excursions",
+      "ru": "Самуи 2026 | пляжи, отели и выезды",
+      "zh": "苏梅岛旅行指南 2026 | 海滩、酒店与一日游"
     },
     "metaDescription": {
-      "en": "Your guide to Koh Samui, Thailand – beaches, temples, island hopping, food and hotels.",
-      "nl": "Jouw gids voor Koh Samui, Thailand – stranden, tempels, eilandhoppen, eten en hotels.",
-      "ja": "サムイ島（タイ）旅行ガイド — ビーチ、寺院、アイランドホッピング、グルメ、ホテル情報。2026年更新。",
-      "ko": "코사무이 완벽 여행 가이드: 최고의 해변, 럭셔리 리조트, 빅 부다 사원 & 아일랜드 호핑. 가격, 팁, 가는 법.",
-      "th": "คู่มือท่องเที่ยวเกาะสมุย ประเทศไทย — สถานที่ท่องเที่ยว อาหาร ที่พัก และเคล็ดลับ อัปเดต 2026",
-      "de": "Ihr Leitfaden zu Koh Samui, Thailand – Strände, Tempel, Inselhüpfen, Essen und Hotels.",
-      "fr": "Votre guide pour Koh Samui, Thaïlande – plages, temples, excursions entre les îles, gastronomie et hôtels.",
-      "ru": "Ваш гид по Ко Самуи, Таиланд — пляжи, храмы, переезды между островами, еда и отели.",
-      "zh": "您的苏梅岛指南，泰国——海滩、寺庙、岛屿跳跃、美食与酒店。"
+      "en": "Plan Koh Samui around the right beach zone, stronger hotel picks, Fisherman's Village, Big Buddha, and the day trips that actually add range beyond resort time.",
+      "nl": "Plan Koh Samui rond de juiste strandzone, sterkere hotelkeuzes, Fisherman's Village, de Big Buddha en de dagtrips die echt iets toevoegen naast resorttijd.",
+      "ja": "どのビーチエリアに泊まるか、どのホテルを選ぶか、フィッシャーマンズ・ビレッジやビッグブッダ、そして本当に価値のある日帰りプランまで整理したサムイ島実用ガイドです。",
+      "ko": "어느 해변 구역에 머물지, 어떤 호텔을 고를지, 피셔맨스 빌리지와 빅 부다, 그리고 진짜로 가치 있는 데이트립까지 정리한 코사무이 실전 가이드다.",
+      "th": "วางแผนเที่ยวสมุยให้ดีขึ้นด้วยการเลือกโซนหาดให้ถูก ที่พักที่เหมาะกว่า ฟิชเชอร์แมนส์ วิลเลจ บิ๊กบุดดา และเดย์ทริปที่ช่วยให้ทริปไม่จบแค่รีสอร์ต",
+      "de": "Planen Sie Koh Samui uber die richtige Strandzone, bessere Hotels, Fisherman's Village, Big Buddha und die Ausfluge, die wirklich Abwechslung bringen.",
+      "fr": "Planifiez Koh Samui autour de la bonne zone de plage, de meilleurs hotels, de Fisherman's Village, du Big Buddha et des excursions qui ajoutent une vraie profondeur au sejour.",
+      "ru": "Планируйте Самуи через правильную пляжную зону, более сильные отельные варианты, Fisherman's Village, Big Buddha и те выезды, которые действительно расширяют поездку за пределы резорта.",
+      "zh": "从正确的海滩区域、较强的酒店选择，到渔人村、大佛寺与真正值得安排的出海日，这份指南帮你更合理地规划苏梅岛。"
     }
   },
   "categories": {
@@ -72,794 +74,704 @@
     "hotels": {
       "en": "Top hotels in Koh Samui | Tips & deals",
       "nl": "Beste hotels op Koh Samui | Tips & aanbiedingen",
-      "ja": "サムイ島のおすすめホテル | ヒント＆お得情報",
-      "ko": "코사무이 추천 호텔 | 팁 & 특가",
+      "ja": "サムイ島のおすすめホテル | 実用ガイド",
+      "ko": "코사무이 추천 호텔 | 실전 팁",
       "th": "โรงแรมแนะนำในเกาะสมุย | เคล็ดลับและดีล"
     },
     "attractions": {
       "en": "Top attractions in Koh Samui",
       "nl": "Top bezienswaardigheden op Koh Samui",
-      "ja": "サムイ島の人気観光スポット",
-      "ko": "코사무이 인기 관광 명소",
+      "ja": "サムイ島の見どころ",
+      "ko": "코사무이 핵심 명소",
       "th": "สถานที่ท่องเที่ยวยอดนิยมในเกาะสมุย"
     }
   },
   "tags": [
     "southern",
-    "koh-samui",
-    "thailand",
-    "travel",
-    "tourism",
-    "guide"
+    "koh samui",
+    "gulf islands",
+    "beaches",
+    "resorts",
+    "thailand"
   ],
-  "enhanced_description": "The moment the plane dips low over the Gulf of Thailand and Koh Samui appears below — a lush green jewel fringed by white sand and turquoise water — you know this island is something special. I landed at the charming open-air Samui Airport, where the terminal is essentially a collection of thatched-roof pavilions surrounded by tropical gardens, and immediately felt the pace of life shift. A songthaew rattled me along the coastal road to Chaweng, past swaying coconut palms and roadside stalls selling fresh coconut ice cream for 40 baht. The warm, salt-tinged breeze through the open windows felt like a welcome home.\n\nChaweng Beach is where most visitors begin, and for good reason. The three-kilometer stretch of powder-fine sand slopes gently into the Gulf, and on calm days the water is so clear you can see your feet at waist depth. I spent mornings walking the northern end of Chaweng, where the crowds thin out near Chaweng Noi, stopping at a small Thai-run coffee stand called Jungle Club viewpoint for an iced Americano with a panoramic view that felt stolen from a postcard. In the evenings, Chaweng's Soi Green Mango pulses with music from the bars, but I preferred the quieter stretch near Ark Bar, where you can sit with your toes in the sand and watch fire dancers perform against the sunset.\n\nThe spiritual heart of the island is Wat Phra Yai, known to everyone as the Big Buddha Temple. I arrived early one morning before the tour buses, climbing the wide staircase flanked by naga serpents as monks in saffron robes swept the temple grounds. The 12-meter golden Buddha sits serenely on a small islet connected to the northeast coast, and from the platform you can see across to Koh Phangan. A elderly monk gestured for me to sit, and we shared a few minutes of silence looking out over the water — no words, just presence. Down at the base, a circle of market stalls sells amulets, handmade soaps, and the best roti mataba I found on the island, stuffed with chicken curry and served by a smiling woman who told me she had been there for twenty years.\n\nOne day I hired a longtail from the fishing village of Bophut to explore Ang Thong Marine National Park. The archipelago of 42 limestone islands rising from the emerald sea is staggering — sheer cliffs draped in jungle, hidden saltwater lagoons, and beaches accessible only by kayak. We anchored at Koh Mae Ko and I hiked the steep trail to the emerald lake viewpoint, arriving breathless and drenched in sweat, but the sight of the jade-green lagoon encircled by jungle-covered karst towers was worth every step. Back on the boat, the captain cracked open a cooler of fresh pineapple and we ate in silence, the only sound the water lapping against the hull.\n\nFisherman's Village in Bophut became my favorite evening ritual. Every Friday night the narrow street transforms into a walking market where local families set up stalls selling grilled prawns, som tam, and coconut pancakes. I befriended a vendor named Khun Noi who made extraordinary pad kra pao — holy basil stir-fry with a fiery kick that cleared my sinuses and made me order a second plate immediately. Between the market stalls, boutique shops sell handmade jewelry and Thai silk, and live bands play on small stages. The atmosphere is worlds apart from the thumping clubs of Chaweng — it is relaxed, familial, and genuinely local.\n\nKoh Samui rewards those who venture beyond the main beaches. I rented a scooter and traced the island's ring road south to Lamai Beach, where the bizarre Hin Ta and Hin Yai rock formations jut from the shore, then continued to the quiet Lipa Noi coast where I had an entire beach to myself for an afternoon. In the hilly interior, the Na Muang waterfalls cascade into natural swimming pools surrounded by jungle, and the Secret Buddha Garden on the island's highest peak hides dozens of stone sculptures among the moss and ferns. At sunset I parked at Laem Sor Pagoda, a golden chedi on the island's southern tip, and watched the sky turn from gold to violet with nothing but the sound of cicadas for company. Koh Samui is an island that gives you exactly the experience you seek — wild or luxurious, raucous or serene — and always, always beautiful.",
+  "enhanced_description": "Koh Samui gets sold too often as one interchangeable tropical island where every beach, resort, and day trip can be mixed without consequence. In practice, the island is much more about choosing the right zone. Chaweng is still the easiest first-timer beach if you want walkable energy, nightlife, and a wide range of hotels. Bophut and nearby Choeng Mon make more sense if the trip is about calmer water, stronger upscale stays, and easier evenings that do not revolve around clubs. Lamai sits between those two versions of Samui and often suits travelers who want a beach town without Chaweng's full intensity.\n\nThat area choice matters because Samui is one of Thailand's most comfortable island bases, not one of its rawest. The island has real infrastructure, a proper airport, strong resort inventory, and a polished service layer that makes it easy for families, couples, and short-stay travelers to land and settle quickly. That comfort is part of the appeal, but it also means the trip improves when you deliberately add one day that is not only beach-and-hotel time. For most visitors, the best answer is Mu Ko Ang Thong Marine National Park. After that, the strongest island-side anchors are Wat Phra Yai, Wat Plai Laem, Fisherman's Village, and one southern or inland detour such as Lamai with Hin Ta Hin Yai or the Secret Buddha Garden.",
+  "overview": "Koh Samui works best when you plan it as a polished Gulf island with distinct stay zones rather than as a pure backpack beach circuit or a supposedly hidden tropical escape. Tourism Authority of Thailand material still frames the island through Mu Ko Ang Thong Marine National Park, Phra Yai, Lamai, Hin Ta Hin Yai, and Laem Sor, which is useful because it keeps Samui anchored in a mix of beaches, temples, and one or two selective excursions instead of flattening the island into resort marketing.\n\nThe right first trip is usually simple. Choose your hotel area carefully, keep one full boat or park day, and use Bophut, Lamai, or the northeastern temple cluster to give the island some range beyond pool time. Samui does not need a bloated attraction list. It needs better sequencing: hotel zone first, one serious day trip second, then a few smart island stops that fit the coast you already chose.",
   "hidden_gems": [
     {
-      "name": {
-        "en": "Secret Buddha Garden",
-        "nl": "Geheime Boeddha Tuin",
-        "ja": "シークレット・ブッダガーデン",
-        "ko": "시크릿 부다 가든"
-      },
-      "description": {
-        "en": "Hidden in the jungle-covered hills of Samui's interior, this mystical garden features dozens of stone statues and figures scattered among moss-covered rocks and towering trees. Built by a local farmer in 1976, it offers a magical escape from the beaches below.",
-        "nl": "Verborgen in de jungle-bedekte heuvels van Samui's binnenland, heeft deze mystieke tuin tientallen stenen beelden en figuren verspreid tussen mosbegroeid gesteente en hoge bomen. Gebouwd door een lokale boer in 1976, biedt het een magische ontsnapping van de stranden beneden.",
-        "ja": "サムイ島内陸のジャングルに覆われた丘に隠された神秘的な庭園。数十体の石像が点在。",
-        "ko": "섬 중앙 정글 깊숙이 숨겨진 신비로운 조각 정원으로, 4WD로만 접근 가능한 숨겨진 명소입니다."
-      },
-      "type": "nature"
+      "name": "Laem Sor side at sunset",
+      "story": "The south of Koh Samui is still the easiest way to make the island feel less polished and less repetitive. Laem Sor and the quieter southern coast work well when you want one stretch of Samui that feels less shaped around beach clubs and resort density.",
+      "how_to_find": "Use it as part of a southern loop rather than as a stand-alone long mission.",
+      "best_time": "Late afternoon into sunset.",
+      "local_insights": [
+        "The south side is more useful for atmosphere than for stacked must-see landmarks.",
+        "This is the best break from Chaweng or Bophut resort rhythm."
+      ]
     },
     {
-      "name": {
-        "en": "Lipa Noi Beach",
-        "nl": "Lipa Noi Strand",
-        "ja": "リパノイビーチ",
-        "ko": "리파노이 해변"
-      },
-      "description": {
-        "en": "A tranquil west-coast beach largely untouched by tourism, perfect for watching spectacular sunsets over the Gulf of Thailand. Local fishing boats dot the shoreline and the shallow water stretches far out, making it ideal for families.",
-        "nl": "Een rustig strand aan de westkust, grotendeels ongeraakt door toerisme, perfect om spectaculaire zonsondergangen boven de Golf van Thailand te bekijken. Lokale vissersboten staan langs de kustlijn en het ondiepe water strekt zich ver uit, ideaal voor families.",
-        "ja": "観光開発がほとんど入っていない西海岸の静かなビーチ。壮大な夕日を眺めるのに最適。",
-        "ko": "관광객이 적은 조용한 서쪽 해변으로, 아름다운 일몰을 감상하기에 최적인 곳입니다."
-      },
-      "type": "nature"
+      "name": "Secret Buddha Garden",
+      "story": "The interior matters when Samui starts feeling too coastal and too polished. Secret Buddha Garden is strongest as a hill-country detour that changes the island's mood rather than as a marquee attraction by itself.",
+      "how_to_find": "Use it with a driver or as part of a deliberate inland loop in dry weather.",
+      "best_time": "Morning or late afternoon.",
+      "local_insights": [
+        "This is better for variety than for first-timer icon status.",
+        "Only add it if you want Samui to feel broader than beaches and resorts."
+      ]
     },
     {
-      "name": {
-        "en": "Hin Lad Waterfall Temple",
-        "nl": "Hin Lad Waterval Tempel",
-        "ja": "ヒンラッド滝寺院",
-        "ko": "힌랏 폭포 사원"
-      },
-      "description": {
-        "en": "A peaceful forest monastery at the base of a waterfall in the island's interior. Monks meditate here among the rocks and flowing water. The short jungle trail is lined with mindfulness signs and natural beauty.",
-        "nl": "Een vredig bosklooster aan de voet van een waterval in het binnenland van het eiland. Monniken mediteren hier tussen de rotsen en stromend water. Het korte jungle-pad is omzoomd met mindfulness-borden en natuurlijke schoonheid.",
-        "ja": "島の内陸部、滝のふもとにある平和な森の僧院。僧侶がここで瞑想しています。",
-        "ko": "정글 속 폭포와 사원이 어우러진 명상적인 공간으로, 짧은 트레킹으로 도달할 수 있습니다."
-      },
-      "type": "temple"
+      "name": "One Bophut evening outside Friday market peak",
+      "story": "Fisherman's Village is known for Friday night, but Bophut is also useful on quieter evenings when the dining strip, boutique layer, and beach road are easier to read without market density.",
+      "how_to_find": "Use it for one slower dinner night if you are staying on the north coast.",
+      "best_time": "Weekday evening or earlier on Friday before the market fully fills.",
+      "local_insights": [
+        "Bophut is stronger when you use it as an evening zone, not as a daytime sightseeing mission.",
+        "This is the cleaner alternative to spending every evening in Chaweng."
+      ]
     },
     {
-      "name": {
-        "en": "Bophut Old Street Cafes",
-        "nl": "Bophut Oude Straat Cafes",
-        "ja": "ボープット旧市街のカフェ",
-        "ko": "보풋 올드 스트리트 카페"
-      },
-      "description": {
-        "en": "The charming old Chinese shophouses along Bophut's main street house independent cafes and galleries that most tourists overlook during non-market days. Try Karma Sutra restaurant for fusion Thai tapas with a sea view.",
-        "nl": "De charmante oude Chinese winkelpanden langs de hoofdstraat van Bophut herbergen onafhankelijke cafes en galerieën die de meeste toeristen overslaan op niet-marktdagen. Probeer het Karma Sutra restaurant voor fusion Thaise tapas met zeezicht.",
-        "ja": "ボープットのメインストリートに並ぶ趣のある中国風ショップハウスに個性的なカフェやギャラリーが入居。",
-        "ko": "보풋 피셔맨스 빌리지의 아기자기한 골목 카페들로, 현지 분위기를 즐기기에 완벽합니다."
-      },
-      "type": "restaurant"
+      "name": "One inland or south-island half-day only",
+      "story": "The underrated Samui move is restraint. The interior and south coast can add real range, but the day gets weaker if you try to cram waterfalls, pagodas, overlap stones, and viewpoints into one long taxi loop.",
+      "how_to_find": "Choose one inland focus or one south-coast focus, not both in the same short outing.",
+      "best_time": "Dry-season morning or late afternoon.",
+      "local_insights": [
+        "Samui improves when you stop treating every road-stop as mandatory.",
+        "One selective half-day is usually enough outside the main beach-and-boat structure."
+      ]
+    }
+  ],
+  "authentic_experiences": [
+    {
+      "activity": "Choose the right coast before you choose the hotel brand",
+      "story": "Koh Samui's biggest planning mistake happens before anyone even lands. Travelers compare resorts without deciding whether the trip should feel like Chaweng, Bophut, Choeng Mon, or Lamai. On Samui, the area choice shapes the whole island more than the name on the booking page.",
+      "cultural_significance": "This reflects how Samui is actually experienced on the ground: through beach zones and evening rhythm, not just through a generic island label.",
+      "how_to_participate": "Choose Chaweng for energy, Bophut or Choeng Mon for calmer upscale stays, or Lamai for a middle ground with more breathing room.",
+      "insights": [
+        "This is the most important first-timer correction on the island.",
+        "Samui hotel geography matters more than many travelers expect."
+      ],
+      "href": "/city/koh-samui/top-10-hotels/",
+      "cta_label": "See the hotel guide"
     },
     {
-      "name": {
-        "en": "Laem Sor Pagoda",
-        "nl": "Laem Sor Pagode",
-        "ja": "レームソー・パゴダ",
-        "ko": "램소르 파고다"
-      },
-      "description": {
-        "en": "A striking golden pagoda perched on the quiet southern tip of the island, overlooking pristine coastline. Rarely visited by tourists, it offers some of the most peaceful sunset views on Samui with no crowds in sight.",
-        "nl": "Een opvallende gouden pagode gelegen op de rustige zuidpunt van het eiland, met uitzicht over de ongerepte kustlijn. Zelden bezocht door toeristen, biedt het een van de meest vredige zonsondergangen op Samui zonder drukte in zicht.",
-        "ja": "島の静かな南端に建つ印象的な黄金のパゴダ。手つかずの海岸線を見渡せます。",
-        "ko": "섬 남쪽 끝에 위치한 황금 파고다로, 관광객이 거의 없는 평화로운 사원입니다."
-      },
-      "type": "temple"
+      "activity": "Use Ang Thong as the one full day that breaks the island open",
+      "story": "Mu Ko Ang Thong Marine National Park is the day trip that gives Samui real range. It replaces one more pool day with limestone islands, viewpoints, boats, and a wider sense of the Gulf.",
+      "cultural_significance": "The park remains the strongest protected-landscape counterweight to Samui's resort identity.",
+      "how_to_participate": "Keep one proper boat day in the itinerary rather than trying to visit multiple smaller Samui inland stops in the same span.",
+      "insights": [
+        "This is the best single excursion for most first visits.",
+        "One real day trip does more for Samui than stacking minor roadside stops."
+      ],
+      "href": "/city/koh-samui/attractions/ang-thong-marine-park/",
+      "cta_label": "See the Ang Thong guide"
+    },
+    {
+      "activity": "Let Bophut carry one evening of the trip",
+      "story": "Fisherman's Village works because it gives Samui one evening zone that feels less club-led and more layered. Dining, walking, markets, and boutique storefronts all sit close enough together to make the night feel easy instead of staged.",
+      "cultural_significance": "Bophut is one of the clearest reminders that Samui is not only beachfront resorts and nightlife strips.",
+      "how_to_participate": "Use it for one market or dinner evening, especially if you are staying on the north or northeast side.",
+      "insights": [
+        "This is the easiest way to diversify Samui's night rhythm.",
+        "Bophut is usually stronger for evenings than for midday sightseeing."
+      ],
+      "href": "/city/koh-samui/attractions/fishermans-village-bophut/",
+      "cta_label": "See the Bophut guide"
+    },
+    {
+      "activity": "Handle the temple cluster as a short northeastern circuit",
+      "story": "Wat Phra Yai and Wat Plai Laem are most useful when they are treated as one compact northeastern temple block rather than as separate cross-island errands.",
+      "cultural_significance": "Together they give Samui's best-known temple and its most photogenic complementary stop in one coherent loop.",
+      "how_to_participate": "Do both in the same outing, ideally outside the hottest middle hours.",
+      "insights": [
+        "This is a better use of time than a scattered temple checklist.",
+        "The pair works because the contrast is visual and geographic, not because there are many temples."
+      ],
+      "href": "/city/koh-samui/attractions/big-buddha-temple/",
+      "cta_label": "See the Big Buddha guide"
+    }
+  ],
+  "foodie_adventures": [
+    {
+      "dish": "One serious Michelin-led dinner above beach-strip convenience",
+      "location": "Koh Thai Kitchen, Saffron, Long Dtai",
+      "story": "Samui has enough resort inventory to make dinner feel interchangeable. The island gets better when at least one meal is chosen because the restaurant itself matters, not only because it is close to the room.",
+      "where_to_find": "Use one Michelin-recognized restaurant or a stronger hotel dining room for your planned dinner.",
+      "price_range": "Mid-range to upscale",
+      "ordering_tips": [
+        "Treat one dinner as the island's food anchor rather than eating every night by convenience.",
+        "Samui's better dining layer often sits inside its stronger resorts."
+      ],
+      "href": "/city/koh-samui/top-10-restaurants/",
+      "cta_label": "See the food guide"
+    },
+    {
+      "dish": "Friday market grazing in Fisherman's Village",
+      "location": "Fisherman's Village Bophut",
+      "story": "The easiest way to keep Samui from turning into pure resort dining is one evening of market and street-side grazing in Bophut. It adds movement, variety, and a less insulated version of the island's evening food culture.",
+      "where_to_find": "Best on Friday night, or use Bophut more generally for a looser north-coast dinner night.",
+      "price_range": "Budget to mid-range",
+      "ordering_tips": [
+        "Walk first and eat in rounds instead of locking into the first table you see.",
+        "This works better as one evening zone than as a daytime food mission."
+      ],
+      "href": "/city/koh-samui/attractions/fishermans-village-bophut/",
+      "cta_label": "See the Bophut guide"
+    },
+    {
+      "dish": "One southern or local-seafood lunch beyond resort rows",
+      "location": "Baan Suan Lung Khai or Jun Hom",
+      "story": "Samui's better local food layer often sits outside the most obvious beach-strip dining rows. That is why a Michelin-backed lunch away from generic beachfront menus can shift the whole quality of the trip.",
+      "where_to_find": "Use one of the island's stronger current Michelin-recognized local restaurants for lunch.",
+      "price_range": "Budget to mid-range",
+      "ordering_tips": [
+        "Lunch is often the best slot for Samui's more local food side.",
+        "Do not expect every strong meal to be on the most touristed beach road."
+      ],
+      "href": "/city/koh-samui/top-10-restaurants/",
+      "cta_label": "See more food picks"
+    },
+    {
+      "dish": "One treetop or view-led dinner if the setting is part of the trip",
+      "location": "Tree Tops Signature Dining or hillside resort dining",
+      "story": "Samui is one of the few Thai islands where a view-led dinner can still make sense if the setting is genuinely part of the point. The mistake is doing that every night and ending up with style but no range.",
+      "where_to_find": "Use one elevated, setting-led restaurant and then go back to simpler meals the next day.",
+      "price_range": "Upscale",
+      "ordering_tips": [
+        "Keep this as the exception, not the whole food plan.",
+        "One memorable setting is enough for a short Samui stay."
+      ],
+      "href": "/city/koh-samui/top-10-restaurants/",
+      "cta_label": "See more food picks"
+    }
+  ],
+  "local_insights": [
+    "Samui is easier to enjoy when you commit to one coast instead of trying to sample every beach in one short stay.",
+    "Chaweng, Bophut, Choeng Mon, and Lamai are not interchangeable; each changes the mood of the trip.",
+    "Ang Thong is usually the strongest full excursion, stronger than stacking multiple smaller inland stops.",
+    "Bophut works better as an evening zone than as a daytime sightseeing stop.",
+    "The island's polished infrastructure is a feature, but the trip still needs one or two non-resort anchors to feel complete."
+  ],
+  "seasonal_secrets": "Koh Samui's weather logic is different from Thailand's Andaman side, which is one reason it stays useful when other islands are less attractive. That does not mean every month is interchangeable, but it does mean Samui can be a practical Gulf option when travelers want easier island access outside the west-coast peak. Boat conditions and sea quality still matter for Ang Thong and island excursions, so the cleanest move is using calmer weather windows for the full-day marine outing and saving inland or Bophut time for less stable days.",
+  "budget_reality": "Koh Samui can still be done moderately, but it is no longer a naturally cheap island unless you deliberately keep the hotel tier down and avoid turning every meal and transfer into a resort-priced decision. The airport and stronger hotel inventory push the baseline up faster than on many mainland beach destinations. The best use of budget is usually one better hotel area choice, one stronger day trip, and selective restaurant spending rather than trying to make every dinner, transfer, and beach club feel premium.",
+  "top_attractions": [
+    {
+      "rank": 1,
+      "name": "Wat Phra Yai (Big Buddha Temple)",
+      "description": "Samui's best-known temple and the clearest northeastern landmark, strongest when paired with Wat Plai Laem rather than visited in isolation.",
+      "location": "Northeast coast",
+      "entrance_fee": "Free",
+      "highlights": [
+        "Iconic temple stop",
+        "Best-known Samui landmark",
+        "Works as part of a short temple circuit"
+      ],
+      "href": "/city/koh-samui/attractions/big-buddha-temple/",
+      "cta_label": "See the Big Buddha guide"
+    },
+    {
+      "rank": 2,
+      "name": "Mu Ko Ang Thong Marine National Park",
+      "description": "The strongest day trip from Samui and the clearest way to give the island real range beyond beach time.",
+      "location": "West of Samui in the Gulf",
+      "entrance_fee": "Park fee applies",
+      "highlights": [
+        "Best Samui day trip",
+        "Limestone-island scenery",
+        "Boat-day anchor"
+      ],
+      "href": "/city/koh-samui/attractions/ang-thong-marine-park/",
+      "cta_label": "See the Ang Thong guide"
+    },
+    {
+      "rank": 3,
+      "name": "Fisherman's Village Bophut",
+      "description": "The island's most useful evening zone if you want Samui to feel broader than resorts and Chaweng nightlife.",
+      "location": "Bophut north coast",
+      "entrance_fee": "Free",
+      "highlights": [
+        "Best for one evening",
+        "Friday market and dining strip",
+        "Useful north-coast counterweight to Chaweng"
+      ],
+      "href": "/city/koh-samui/attractions/fishermans-village-bophut/",
+      "cta_label": "See the Bophut guide"
+    },
+    {
+      "rank": 4,
+      "name": "Lamai Beach and Hin Ta Hin Yai",
+      "description": "A better mid-intensity beach zone than many first-timers expect, especially if you want one south-island day with beach time and a recognizable rock stop.",
+      "location": "Southeast coast",
+      "entrance_fee": "Free",
+      "highlights": [
+        "Useful south-island beach base",
+        "Hin Ta Hin Yai nearby",
+        "Good middle ground between quiet and busy"
+      ],
+      "href": "/city/koh-samui/attractions/lamai-beach/",
+      "cta_label": "See the Lamai guide"
+    },
+    {
+      "rank": 5,
+      "name": "Wat Plai Laem",
+      "description": "The visual complement to Big Buddha and a smart short stop in the same northeastern circuit.",
+      "location": "Northeast coast",
+      "entrance_fee": "Free",
+      "highlights": [
+        "Best paired with Big Buddha",
+        "Photogenic temple setting",
+        "Short easy detour"
+      ],
+      "href": "/city/koh-samui/attractions/wat-plai-laem/",
+      "cta_label": "See the Wat Plai Laem guide"
+    },
+    {
+      "rank": 6,
+      "name": "Secret Buddha Garden",
+      "description": "An inland contrast stop that works only if you want the island to feel broader than its beaches and resorts.",
+      "location": "Island interior",
+      "entrance_fee": "Local fee applies",
+      "highlights": [
+        "Hill-country detour",
+        "Inland mood change",
+        "Best for a selective half-day"
+      ],
+      "href": "/city/koh-samui/top-10-attractions/",
+      "cta_label": "See the attraction guide"
     }
   ],
   "top_restaurants": [
     {
       "rank": 1,
-      "name": "Nahm Restaurant & Bar - Koh Samui",
-      "description": "Seafood and Asian cuisine restaurant with 4.9 TripAdvisor rating, specializing in fresh coastal preparations and regional Thai dishes.",
-      "cuisine_type": "Seafood, Asian",
-      "price_range": "400-800 THB ($12-24 USD)",
+      "name": "Koh Thai Kitchen",
+      "description": "One of the strongest destination meals on Samui if you want a serious restaurant rather than another generic resort dinner.",
+      "price_range": "Upscale",
+      "category": "upscale",
+      "area": "Northwest hillside",
       "highlights": [
-        "4.9 TripAdvisor rating",
-        "Fresh seafood",
-        "Asian cuisine"
-      ]
+        "Current MICHELIN-recognized restaurant",
+        "Four Seasons setting",
+        "Good planned dinner anchor"
+      ],
+      "href": "/city/koh-samui/top-10-restaurants/",
+      "cta_label": "See more food picks"
     },
     {
       "rank": 2,
-      "name": "Treehouse Silent Beach Restaurant",
-      "description": "Unique beachfront dining venue with 4.9 TripAdvisor rating offering Asian cuisine and bar service in a distinctive treehouse setting overlooking the beach.",
-      "cuisine_type": "Bar, Asian",
-      "price_range": "350-700 THB ($10-20 USD)",
+      "name": "Baan Suan Lung Khai",
+      "description": "A stronger local-food move if you want Samui to feel less insulated by resort dining.",
+      "price_range": "Budget to mid-range",
+      "category": "local favorite",
+      "area": "Southwest side",
       "highlights": [
-        "4.9 TripAdvisor rating",
-        "Unique treehouse setting",
-        "Beach views"
-      ]
+        "Current MICHELIN Bib Gourmand",
+        "Better for lunch or a local-led meal",
+        "Good counterweight to resort food"
+      ],
+      "href": "/city/koh-samui/top-10-restaurants/",
+      "cta_label": "See more food picks"
     },
     {
       "rank": 3,
-      "name": "Dara Serene Restaurant",
-      "description": "Seafood and international cuisine restaurant with 4.8 TripAdvisor rating offering high-quality dining with diverse menu options.",
-      "cuisine_type": "Seafood, International",
-      "price_range": "450-900 THB ($13-27 USD)",
+      "name": "Jun Hom",
+      "description": "One of the better current Michelin-backed local choices when you want a meal with real island specificity.",
+      "price_range": "Budget to mid-range",
+      "category": "local favorite",
+      "area": "North coast",
       "highlights": [
-        "4.8 TripAdvisor rating",
-        "Fresh seafood",
-        "International options"
-      ]
+        "Current MICHELIN Bib Gourmand",
+        "Useful local-food stop",
+        "Good away from generic beach menus"
+      ],
+      "href": "/city/koh-samui/top-10-restaurants/",
+      "cta_label": "See more food picks"
     },
     {
       "rank": 4,
-      "name": "Khaw Glong Thai Cuisine",
-      "description": "Traditional Thai seafood restaurant with 4.7 TripAdvisor rating specializing in authentic regional dishes and fresh catches from daily markets.",
-      "cuisine_type": "Seafood, Asian",
-      "price_range": "250-600 THB ($7-18 USD)",
+      "name": "Long Dtai",
+      "description": "A higher-end island dinner when the setting and kitchen both matter and you want one polished Samui night out done properly.",
+      "price_range": "Upscale",
+      "category": "upscale",
+      "area": "Northeast coast",
       "highlights": [
-        "4.7 TripAdvisor rating",
-        "Authentic Thai",
-        "Daily fresh seafood"
-      ]
+        "Current MICHELIN-recognized restaurant",
+        "Good for one special dinner",
+        "Strong modern Thai option"
+      ],
+      "href": "/city/koh-samui/top-10-restaurants/",
+      "cta_label": "See more food picks"
     },
     {
       "rank": 5,
-      "name": "Cocoon Viewpoint Koh Samui",
-      "description": "European-influenced bar and restaurant with 4.8 TripAdvisor rating offering elevated views and refined cocktails with coastal panoramas.",
-      "cuisine_type": "Bar, European",
-      "price_range": "500-1000 THB ($15-30 USD)",
+      "name": "Saffron",
+      "description": "A reliable upscale Thai dining answer if you want one classic resort restaurant executed at a high level.",
+      "price_range": "Upscale",
+      "category": "upscale",
+      "area": "South or southeast resort zone",
       "highlights": [
-        "4.8 TripAdvisor rating",
-        "Panoramic views",
-        "Craft cocktails"
-      ]
+        "Current MICHELIN-recognized restaurant",
+        "Classic upscale Thai resort dinner",
+        "Best as one planned evening"
+      ],
+      "href": "/city/koh-samui/top-10-restaurants/",
+      "cta_label": "See more food picks"
     },
     {
       "rank": 6,
-      "name": "Barracuda Restaurant",
-      "description": "Mediterranean-Thai fusion restaurant in Lamai Beach combining European flavors with Thai spices, known for excellent wine selection and romantic atmosphere.",
-      "cuisine_type": "Mediterranean, Thai",
-      "price_range": "600-1200 THB ($18-36 USD)",
+      "name": "Tree Tops Signature Dining",
+      "description": "The Samui view-led splurge that makes sense if you want one memorable setting and accept that the atmosphere is part of the point.",
+      "price_range": "Upscale",
+      "category": "special occasion",
+      "area": "Chaweng north side",
       "highlights": [
-        "Wine selection",
-        "Fresh oysters",
-        "Duck massaman curry",
-        "Romantic setting"
-      ]
+        "Treetop setting",
+        "Strong special-occasion slot",
+        "Useful one-night exception to simpler meals"
+      ],
+      "href": "/city/koh-samui/top-10-restaurants/",
+      "cta_label": "See more food picks"
+    },
+    {
+      "rank": 7,
+      "name": "Fisherman's Village Friday market",
+      "description": "A better food-and-evening zone than many of Samui's generic beach-strip dinner rows if you want variety and movement in one place.",
+      "price_range": "Budget to mid-range",
+      "category": "market dining",
+      "area": "Bophut",
+      "highlights": [
+        "Best market evening",
+        "Good mix of snacks and sit-down stops",
+        "Easy social night without Chaweng clubs"
+      ],
+      "href": "/city/koh-samui/attractions/fishermans-village-bophut/",
+      "cta_label": "See the Bophut guide"
     }
   ],
   "top_hotels": [
     {
       "rank": 1,
-      "name": "Centara Reserve Samui",
-      "description": "Luxury beachfront resort with 4.8 TripAdvisor rating offering premium accommodations and world-class amenities in an exclusive setting.",
-      "price_range": "$180-350/night",
+      "name": "Four Seasons Resort Koh Samui",
+      "description": "Still one of the clearest top-end Samui answers if the trip is built around a true resort stay rather than beach-town walkability.",
+      "price_range": "Luxury",
       "category": "luxury",
+      "area": "Northwest hillside coast",
       "highlights": [
-        "4.8 TripAdvisor rating",
-        "Beachfront location",
-        "Premium amenities"
-      ]
+        "Official hotel website",
+        "Strong resort-led stay",
+        "Best when the property itself is the trip"
+      ],
+      "href": "/city/koh-samui/top-10-hotels/",
+      "cta_label": "See the hotel guide"
     },
     {
       "rank": 2,
-      "name": "Bo Phut Resort & Spa",
-      "description": "High-end beachfront resort with 4.8 TripAdvisor rating located in Fisherman's Village area, featuring spa services and direct beach access.",
-      "price_range": "$160-300/night",
+      "name": "Centara Reserve Samui",
+      "description": "A smart Chaweng luxury answer if you want a polished beach resort without giving up easy access to the island's busiest first-timer zone.",
+      "price_range": "Luxury",
       "category": "luxury",
+      "area": "Chaweng",
       "highlights": [
-        "4.8 TripAdvisor rating",
-        "Fisherman's Village location",
-        "Full-service spa"
-      ]
+        "Official hotel website",
+        "Best high-end Chaweng option",
+        "Useful mix of polish and location"
+      ],
+      "href": "/city/koh-samui/top-10-hotels/",
+      "cta_label": "See the hotel guide"
     },
     {
       "rank": 3,
-      "name": "Nora Buri Resort & Spa - Sha Extra Plus",
-      "description": "Luxury resort with 4.5 TripAdvisor rating featuring comprehensive spa facilities and upscale accommodations with wellness focus.",
-      "price_range": "$150-280/night",
-      "category": "luxury",
+      "name": "Bo Phut Resort & Spa",
+      "description": "One of the cleanest Bophut stays if you want a softer north-coast mood without losing resort quality.",
+      "price_range": "Upscale",
+      "category": "upscale",
+      "area": "Bophut",
       "highlights": [
-        "4.5 TripAdvisor rating",
-        "Spa services",
-        "Wellness programs"
-      ]
+        "Official hotel website",
+        "Strong Bophut positioning",
+        "Good for calmer resort comfort"
+      ],
+      "href": "/city/koh-samui/top-10-hotels/",
+      "cta_label": "See the hotel guide"
     },
     {
       "rank": 4,
-      "name": "Bandara Spa Resort & Pool Villas, Samui",
-      "description": "Upper mid-range resort with 4.6 TripAdvisor rating offering pool villas and spa amenities at a more accessible luxury price point.",
-      "price_range": "$100-180/night",
-      "category": "luxury",
+      "name": "Kimpton Kitalay Samui",
+      "description": "A strong Choeng Mon option when you want a more design-led, family-and-couples-friendly northeast stay.",
+      "price_range": "Upscale to luxury",
+      "category": "upscale",
+      "area": "Choeng Mon",
       "highlights": [
-        "4.6 TripAdvisor rating",
-        "Private pool villas",
-        "Spa facilities"
-      ]
+        "Official hotel website",
+        "Good northeast-coast base",
+        "Design-led resort feel"
+      ],
+      "href": "/city/koh-samui/top-10-hotels/",
+      "cta_label": "See the hotel guide"
     },
     {
       "rank": 5,
-      "name": "Dara Samui Beach Resort",
-      "description": "Beachfront mid-range resort with 4.3 TripAdvisor rating offering comfortable rooms and beach access at reasonable rates.",
-      "price_range": "$70-120/night",
-      "category": "midrange",
+      "name": "Hansar Samui",
+      "description": "A practical upscale Bophut base when you want easy access to Fisherman's Village without sliding into party-strip hotel logic.",
+      "price_range": "Upscale",
+      "category": "upscale",
+      "area": "Bophut",
       "highlights": [
-        "4.3 TripAdvisor rating",
-        "Beachfront access",
-        "Value pricing"
-      ]
+        "Official hotel website",
+        "Good Bophut evening access",
+        "Useful for shorter stays"
+      ],
+      "href": "/city/koh-samui/top-10-hotels/",
+      "cta_label": "See the hotel guide"
+    },
+    {
+      "rank": 6,
+      "name": "Bandara Resort & Spa Samui",
+      "description": "One of the easier family-friendly or mid-upscale Bophut answers if you want a beach resort without going fully ultra-luxury.",
+      "price_range": "Mid-range to upscale",
+      "category": "mid-range",
+      "area": "Bophut",
+      "highlights": [
+        "Official hotel website",
+        "Good family-friendly positioning",
+        "More balanced budget than the island's highest tier"
+      ],
+      "href": "/city/koh-samui/top-10-hotels/",
+      "cta_label": "See the hotel guide"
     }
   ],
   "travel_tips": [
-    {
-      "title": {
-        "en": "Getting Around the Island",
-        "nl": "Vervoer op het Eiland",
-        "ja": "島内の移動手段"
-      },
-      "content": {
-        "en": "Rent a scooter (200-300 THB/day) to explore Samui's ring road at your own pace. Songthaews (shared pickup trucks) run along the coast for 50-100 THB per ride. Avoid taxi touts at the airport — book transfers in advance or use the Grab app.",
-        "nl": "Huur een scooter (200-300 THB/dag) om de ringweg van Samui op eigen tempo te verkennen. Songthaews (gedeelde pick-up trucks) rijden langs de kust voor 50-100 THB per rit. Vermijd taxichauffeurs op het vliegveld — boek transfers van tevoren of gebruik de Grab app.",
-        "ja": "スクーターレンタル（1日200〜300バーツ）でサムイ島の環状道路を自分のペースで探索。ソンテウも利用可能。"
-      }
-    },
-    {
-      "title": {
-        "en": "Best Beaches for Every Mood",
-        "nl": "Beste Stranden voor Elke Stemming",
-        "ja": "気分別ベストビーチ"
-      },
-      "content": {
-        "en": "Chaweng is for action and nightlife, Lamai for a balance of buzz and relaxation, Bophut for culture and dining, Maenam for quiet seclusion, and Lipa Noi for the best sunsets. Match your beach to your vibe.",
-        "nl": "Chaweng is voor actie en nachtleven, Lamai voor een balans van drukte en ontspanning, Bophut voor cultuur en uit eten, Maenam voor rustige afzondering en Lipa Noi voor de mooiste zonsondergangen. Kies je strand op basis van je stemming.",
-        "ja": "チャウエンはアクション＆ナイトライフ、ラマイは賑わいとリラックスのバランス、ボープットは文化的な雰囲気。"
-      }
-    },
-    {
-      "title": {
-        "en": "Island Hopping from Samui",
-        "nl": "Eilandhoppen vanuit Samui",
-        "ja": "サムイ島からのアイランドホッピング"
-      },
-      "content": {
-        "en": "Book day trips to Ang Thong Marine Park (1,500-2,500 THB) or ferries to Koh Phangan (300-600 THB, 30 min) and Koh Tao (600-1,000 THB, 2 hours). Full Moon Party ferries to Phangan run monthly with late-night return boats.",
-        "nl": "Boek dagtochten naar Ang Thong Marine Park (1.500-2.500 THB) of veerboten naar Koh Phangan (300-600 THB, 30 min) en Koh Tao (600-1.000 THB, 2 uur). Full Moon Party veerboten naar Phangan varen maandelijks met laat terugkeer boten.",
-        "ja": "アントン海洋国立公園への日帰りツアー（1,500〜2,500バーツ）やパンガン島へのフェリー（300〜600バーツ、30分）。"
-      }
-    },
-    {
-      "title": {
-        "en": "Rainy Season Reality",
-        "nl": "Regenseizoen Realiteit",
-        "ja": "雨季の実態"
-      },
-      "content": {
-        "en": "Samui's Gulf coast means its rainy season (October-December) differs from the Andaman coast. Expect afternoon showers, not all-day rain. Prices drop significantly and beaches are less crowded. November can be very wet with occasional flooding.",
-        "nl": "Samui's ligging aan de Golf betekent dat het regenseizoen (oktober-december) verschilt van de Andamankust. Verwacht middagbuien, geen hele dag regen. Prijzen dalen aanzienlijk en stranden zijn rustiger. November kan erg nat zijn met af en toe overstromingen.",
-        "ja": "サムイ島はタイ湾岸のため雨季（10月〜12月）がアンダマン海岸と異なります。短時間のスコールが多いです。"
-      }
-    },
-    {
-      "title": {
-        "en": "Avoiding Tourist Traps",
-        "nl": "Toeristenvallen Vermijden",
-        "ja": "観光客の罠を避ける"
-      },
-      "content": {
-        "en": "Skip overpriced restaurants on Chaweng Beach Road and eat at Laem Din market stalls instead. Negotiate longtail boat prices before boarding. The 'elephant trekking' operations should be avoided — visit ethical sanctuaries instead.",
-        "nl": "Sla te dure restaurants aan Chaweng Beach Road over en eet bij de marktkramen van Laem Din. Onderhandel over de prijzen van longtailboten voordat je instapt. De 'olifantentrekking' operaties kun je beter vermijden — bezoek in plaats daarvan ethische opvangcentra.",
-        "ja": "チャウエンビーチ通りの割高なレストランは避けて、レームディン市場の屋台で食事を。値段交渉も忘れずに。"
-      }
-    }
+    "Choose your hotel zone before you compare hotel brands; on Samui the area decision shapes the trip more than the logo.",
+    "Keep one full-day Ang Thong or boat excursion if you want the island to feel broader than resort time.",
+    "Do the northeastern temple pair together: Big Buddha and Wat Plai Laem in one short outing.",
+    "Use Bophut for at least one evening if Chaweng is your main base.",
+    "Do not overbuild inland and south-island loops; one selective half-day is usually enough."
   ],
   "best_time_to_visit": {
-    "en": "December to April offers the best weather with sunny skies and calm seas, ideal for beach activities and island hopping. January to March is peak season with higher prices. The Gulf coast rainy season runs October to December, with November typically the wettest month.",
-    "nl": "December tot april biedt het beste weer met zonnige luchten en kalme zeeën, ideaal voor strandactiviteiten en eilandhoppen. Januari tot maart is het hoogseizoen met hogere prijzen. Het regenseizoen aan de Golfkust loopt van oktober tot december, met november als doorgaans de natste maand.",
-    "ja": "12月〜4月が晴天と穏やかな海のベストシーズン。ビーチアクティビティやアイランドホッピングに最適。"
+    "season": "Drier Gulf-island windows",
+    "months": "January - September",
+    "weather": "Usually the easiest stretch for beach days, temple stops, and Ang Thong boat outings, though sea conditions still vary.",
+    "reasons": "Best for first-time visitors who want resort comfort plus one or two reliable outdoor days."
   },
   "budget_info": {
-    "budget_per_day": {
-      "en": "$25-40",
-      "nl": "$25-40",
-      "ja": "¥3,700〜5,900"
-    },
-    "midrange_per_day": {
-      "en": "$60-120",
-      "nl": "$60-120",
-      "ja": "¥8,900〜17,800"
-    },
-    "luxury_per_day": {
-      "en": "$200+",
-      "nl": "$200+",
-      "ja": "¥29,800〜"
-    }
+    "budget": "$45-80 per day",
+    "mid_range": "$120-260 per day",
+    "luxury": "$350-900 per day",
+    "notes": "Flights, transfers, and hotel tier move Samui budgets much faster than food does."
   },
-  "overview": "Koh Samui, Thailand's second-largest island, is a tropical paradise located in the Gulf of Thailand within Surat Thani Province. With a population of around 63,000, this island has evolved into a sophisticated blend of natural beauty and luxury tourism, famous for its palm-fringed beaches, world-class resorts, and iconic landmarks like the Big Buddha Temple. From the vibrant 3km stretch of Chaweng Beach with its thriving nightlife to the serene Fisherman's Village in Bophut, Koh Samui offers diverse experiences for every type of traveler. The island serves as a gateway to the Ang Thong Marine Park, featuring 42 islands perfect for kayaking and snorkeling, while maintaining pristine natural attractions like Na Muang Waterfall and the unique Secret Buddha Garden.",
-  "thingsToDo": "Koh Samui's attractions span cultural landmarks, natural wonders, and water activities. The iconic Big Buddha Temple (Wat Phra Yai) features a stunning 12-meter golden Buddha statue with panoramic sea views and an ornate Naga staircase—free to visit and best explored early morning. Chaweng Beach remains the island's most popular destination with 3km of white sand, offering water sports, beachside dining, and evening entertainment. For nature lovers, Ang Thong National Marine Park (300 THB/$9 USD entrance) showcases 42 islands with the famous emerald lake viewpoint and excellent kayaking opportunities. Cultural exploration continues at Wat Plai Laem with its distinctive 18-armed Guanyin statue set against a lakeside backdrop, while adventure seekers can hike to Na Muang Waterfall's natural swimming pools (100 THB/$3 USD) or visit the Samui Elephant Sanctuary (2,500 THB/$72 USD) for ethical wildlife encounters. Don't miss Fisherman's Village Bophut's Friday Night Market featuring old Chinese shophouses and beachfront dining, or the hidden Secret Buddha Garden (80 THB/$2 USD) accessible by 4WD through jungle terrain.",
-  "whereToStay": "Koh Samui accommodates all budgets with diverse neighborhoods offering distinct experiences. The beachfront areas command premium prices—Chaweng offers proximity to nightlife and restaurants (2,500-6,000 THB/$75-180 per night for mid-range to boutique hotels), while quieter Lamai Beach provides relaxation near the distinctive Hin Ta Hin Yai rock formations. Bophut's Fisherman's Village blends cultural charm with upscale amenities, appealing to travelers seeking authentic experiences with modern comfort. Maenam Beach offers the island's most affordable options with traditional fishing village atmosphere and Koh Phangan views across the water. For long-term stays and digital nomads, monthly house rentals provide exceptional value: basic Thai houses start at 12,000-18,000 THB/month, mid-range modern homes rent for 20,000-30,000 THB/month with air-conditioning and Wi-Fi, and luxury pool villas reach 35,000-40,000+ THB/month. Hostels and budget guesthouses run 250-500 THB for shared beds and 600-1,200 THB for basic double rooms, making Samui accessible for backpackers while offering luxury villa experiences for those seeking indulgence.",
+  "thingsToDo": "The strongest first Samui trip starts by deciding what kind of island stay you actually want. If the answer is walkable energy, beach clubs, and a wide hotel range, use Chaweng. If the answer is calmer upscale resort time with easier evenings, use Bophut or Choeng Mon. Lamai is the middle-ground beach if you want some life without Chaweng's full intensity. Once that is clear, keep one full day for Mu Ko Ang Thong Marine National Park and use the rest of the island selectively.\n\nOn-island sightseeing should stay compact. Big Buddha and Wat Plai Laem belong together as one northeastern temple loop. Fisherman's Village is strongest for one evening. Lamai and Hin Ta Hin Yai work if you want a south-side beach day that is not only resort time. After that, only add inland or south-coast extras if you actually want Samui to feel broader than its beaches. That is when places like Secret Buddha Garden or Laem Sor become worthwhile instead of random filler.",
+  "whereToStay": "Koh Samui hotels only make sense once the island's zones are clear. Chaweng is for energy, easier nightlife, and first-time convenience. Bophut and nearby Choeng Mon are for calmer resort comfort, better north-coast evenings, and a more polished version of the island. Lamai can work as a compromise if you want a livelier beach but do not need Chaweng at full volume.\n\nFor many travelers, Samui gets better when you stop trying to optimize every coast at once. Pick one zone and let the rest of the island become day trips. The biggest mistake is staying in the wrong area for your evenings and then blaming the whole island for it.",
   "whereToEat": [
     {
-      "name": "Nahm Restaurant & Bar - Koh Samui",
-      "cuisine": "Seafood, Asian",
-      "priceRange": "$$",
-      "description": "Highly-rated seafood and Asian cuisine restaurant with 4.9 TripAdvisor rating, specializing in fresh coastal preparations and regional Thai dishes with quality ingredients."
-    },
-    {
-      "name": "Treehouse Silent Beach Restaurant",
-      "cuisine": "Bar, Asian",
-      "priceRange": "$$",
-      "description": "Unique beachfront dining venue with 4.9 TripAdvisor rating featuring Asian cuisine in a distinctive treehouse setting with stunning beach views and relaxed atmosphere."
-    },
-    {
-      "name": "Dara Serene Restaurant",
-      "cuisine": "Seafood, International",
-      "priceRange": "$$",
-      "description": "Quality seafood and international restaurant with 4.8 TripAdvisor rating offering diverse menu options and fresh daily catches prepared with refined techniques."
-    },
-    {
-      "name": "Khaw Glong Thai Cuisine",
-      "cuisine": "Seafood, Asian",
-      "priceRange": "$",
-      "description": "Authentic Thai seafood restaurant with 4.7 TripAdvisor rating specializing in traditional regional dishes using fresh catches and local market ingredients."
-    },
-    {
-      "name": "Cocoon Viewpoint Koh Samui",
-      "cuisine": "Bar, European",
+      "name": "Koh Thai Kitchen",
+      "cuisine": "Thai and upscale resort dining",
       "priceRange": "$$$",
-      "description": "Sophisticated viewpoint bar and restaurant with 4.8 TripAdvisor rating offering craft cocktails, refined European cuisine, and panoramic coastal vistas."
+      "description": "A stronger planned dinner than the average Samui resort meal."
     },
     {
-      "name": "Barracuda Restaurant",
-      "cuisine": "Mediterranean, Thai",
-      "priceRange": "$$",
-      "description": "Stylish Lamai Beach restaurant blending Mediterranean and Thai flavors, known for excellent wine list, fresh oysters, and superb duck massaman curry with romantic candlelit atmosphere."
+      "name": "Baan Suan Lung Khai",
+      "cuisine": "Local Thai cooking",
+      "priceRange": "$-$$",
+      "description": "A better local-food move if you want Samui to feel less insulated."
+    },
+    {
+      "name": "Jun Hom",
+      "cuisine": "Thai and island cooking",
+      "priceRange": "$-$$",
+      "description": "A Michelin-backed lunch or dinner away from generic beachfront menus."
+    },
+    {
+      "name": "Long Dtai",
+      "cuisine": "Modern Thai",
+      "priceRange": "$$$",
+      "description": "A polished special-occasion dinner when the restaurant itself matters."
+    },
+    {
+      "name": "Tree Tops Signature Dining",
+      "cuisine": "View-led fine dining",
+      "priceRange": "$$$",
+      "description": "A good one-night splurge if the setting is part of the reason."
+    },
+    {
+      "name": "Fisherman's Village Friday market",
+      "cuisine": "Market food and casual dining",
+      "priceRange": "$-$$",
+      "description": "The easiest Samui food zone for one varied evening."
     }
   ],
-  "topHotels": [
-    {
-      "name": "Centara Reserve Samui",
-      "category": "luxury",
-      "priceRange": "$180-350/night",
-      "area": "Beachfront",
-      "description": "Luxury beachfront resort with 4.8 TripAdvisor rating offering premium accommodations, world-class service, and comprehensive amenities in an exclusive setting."
-    },
-    {
-      "name": "Bo Phut Resort & Spa",
-      "category": "luxury",
-      "priceRange": "$160-300/night",
-      "area": "Fisherman's Village",
-      "description": "High-end beachfront resort with 4.8 TripAdvisor rating located in Bophut featuring full-service spa, direct beach access, and upscale dining."
-    },
-    {
-      "name": "Nora Buri Resort & Spa - Sha Extra Plus",
-      "category": "luxury",
-      "priceRange": "$150-280/night",
-      "area": "Beachfront",
-      "description": "Luxury wellness resort with 4.5 TripAdvisor rating featuring comprehensive spa facilities, yoga programs, and health-focused amenities."
-    },
-    {
-      "name": "Bandara Spa Resort & Pool Villas, Samui",
-      "category": "luxury",
-      "priceRange": "$100-180/night",
-      "area": "Beachfront",
-      "description": "Upscale resort with 4.6 TripAdvisor rating offering private pool villas, spa treatments, and premium amenities at more accessible luxury pricing."
-    },
-    {
-      "name": "Dara Samui Beach Resort",
-      "category": "midrange",
-      "priceRange": "$70-120/night",
-      "area": "Chaweng Beach",
-      "description": "Comfortable beachfront mid-range resort with 4.3 TripAdvisor rating, offering direct beach access, pool facilities, and good value accommodation."
-    },
-    {
-      "name": "Four Seasons Resort Koh Samui",
-      "category": "luxury",
-      "priceRange": "$250-450/night",
-      "area": "Beachfront, Private hillside location",
-      "description": "Prestigious ultra-luxury resort with private pool villas, white-glove service, world-class dining, and pristine beachfront setting. Featured in HBO's The White Lotus season 3."
-    },
-    {
-      "name": "Anantara Bophut Koh Samui Resort",
-      "category": "luxury",
-      "priceRange": "$200-350/night",
-      "area": "Fisherman's Village",
-      "description": "Beachfront luxury resort in Bophut featuring Thai-inspired architecture, infinity pool with sea views, and walking distance to restaurants and Friday Night Market."
-    },
-    {
-      "name": "Centara Grand Beach Resort Samui",
-      "category": "midrange",
-      "priceRange": "$90-160/night",
-      "area": "Chaweng Beach",
-      "description": "Well-established beachfront hotel on Koh Samui's most popular beach with comfortable rooms, sea views, multiple restaurants, and water sports facilities."
-    },
-    {
-      "name": "Ibis Samui Bophut",
-      "category": "midrange",
-      "priceRange": "$60-120/night",
-      "area": "Fisherman's Village",
-      "description": "Modern reliable hotel near Fisherman's Village offering clean rooms, pool access, solid amenities, and excellent value as a base for exploring the north coast."
-    },
-    {
-      "name": "Samui Hostel",
-      "category": "budget",
-      "priceRange": "$15-35/night",
-      "area": "Chaweng Beach",
-      "description": "Clean and sociable hostel near Chaweng Beach popular with backpackers and solo travelers. Features air-conditioned dorms, small pool, and communal kitchen for budget travelers."
-    }
-  ],
-  "gettingAround": "Koh Samui offers multiple transportation options for exploring the island's attractions. Tuk-tuks remain the most iconic choice for short distances within beaches and towns, though prices should be negotiated beforehand (typically 100-300 THB for short trips). Songthaews (shared red trucks) operate fixed routes between major areas like Chaweng, Lamai, and Bophut at 20-50 THB per person, making them ideal for budget travelers. For greater independence, motorbike rentals cost 150-300 THB daily and provide flexibility to explore beaches and inland attractions, though international driving permits are recommended. The mobile app Grab operates on Koh Samui offering metered motorcycle and car rides with transparent pricing, eliminating haggling and providing safety through GPS tracking. Renting a car or ATV ranges from 500-1,000 THB daily and suits travelers planning multi-beach itineraries, particularly for visiting the Secret Buddha Garden which requires 4WD access.",
-  "bestTimeToVisit": "Koh Samui's ideal travel window is November through February, when dry weather, gentle breezes, and calm seas create perfect conditions for beach activities and island-hopping excursions to Ang Thong Marine Park. December and January represent peak season with abundant sunshine, temperatures around 28-30°C (82-86°F), and minimal rainfall, though accommodations book quickly and prices increase. February extends this excellent weather window with slightly fewer crowds while maintaining dry conditions. March through May brings hot, humid conditions with temperatures exceeding 33°C (91°F) and occasional afternoon showers, making beach days less comfortable but reducing tourist numbers significantly. The southwest monsoon season from May through October brings heavy rainfall, choppy seas, and increased humidity; while some rain-resistant travelers visit during these months for lower prices and fewer crowds, water sports become risky and visibility for snorkeling diminishes considerably. Avoid September and October entirely when rainfall peaks and typhoon risks increase, making island visits treacherous.",
+  "gettingAround": "Koh Samui is simple in theory and wasteful in practice if you keep bouncing between coasts. The ring road makes the island look compact, but hotel-area choice still matters because Chaweng, Bophut, Choeng Mon, and Lamai create very different evening patterns. Short island stays are usually better when you keep one main base and use cars, hotel transfers, or organized tours for Ang Thong, temple loops, or southern detours.\n\nThe practical rule is simple. Walk inside your hotel zone, not across the island. Use local transport for short movements within the same side of Samui, and use organized transfers or planned drivers for anything that crosses the island or involves boat departures.",
+  "bestTimeToVisit": "Koh Samui often works best in drier Gulf-island windows, especially from January through September, when beach time and Ang Thong boat days are easier to coordinate. That does not make every day interchangeable, and sea conditions still matter, but it does mean Samui remains a practical island choice when travelers want a more comfortable weather window than Thailand's west coast often offers. For most first visits, the cleanest plan is choosing a season that supports both beach time and one dependable excursion day.",
   "budgetGuide": {
     "budget": {
-      "min": 20,
-      "max": 40,
-      "description": "Budget travelers can subsist on 20-40 USD daily: sleep in hostels or basic guesthouses (250-500 THB/$7-15), eat street food and local restaurants (50-100 THB per meal/$1.50-3), use songthaews and tuk-tuks for transport (50-100 THB/$1.50-3 daily), and visit free attractions like beaches and Big Buddha Temple. This allows occasional paid activities like Ang Thong Marine Park (300 THB/$9)."
+      "min": 45,
+      "max": 80,
+      "description": "Budget Samui usually means a simpler hotel outside the highest resort tier, casual local meals, and carefully chosen transport rather than impulsive island-hopping."
     },
     "midrange": {
-      "min": 50,
-      "max": 100,
-      "description": "Mid-range travelers spending 50-100 USD daily can stay in 3-star hotels (1,500-3,000 THB/$45-90), dine at quality restaurants (200-400 THB per meal/$6-12), enjoy organized tours and activities (800-2,000 THB/$24-60), and use convenient transport like Grab rides. This budget accommodates comfort without luxury indulgences."
+      "min": 120,
+      "max": 260,
+      "description": "Mid-range budgets buy the version of Samui most travelers actually want: a better beach area, one organized boat day, and a few stronger restaurant choices without going full luxury."
     },
     "luxury": {
-      "min": 150,
-      "max": 400,
-      "description": "Luxury travelers spending 150-400 USD daily stay in 5-star resorts (4,000-15,000+ THB/$120-450), dine at fine restaurants and beachclubs (1,000-3,000 THB per meal/$30-90), book private tours and water activities (3,000-8,000 THB/$90-240), and enjoy spa treatments and exclusive experiences. This includes premium accommodations at Four Seasons and similar properties."
+      "min": 350,
+      "max": 900,
+      "description": "Higher budgets on Samui are mostly about resort tier, private transfers, and special-dinner or boat-day comfort rather than about unlocking more attractions."
     }
   },
-  "safetyTips": "Koh Samui is generally safe for tourists, though standard precautions apply: avoid walking alone late night in Chaweng's nightlife areas where theft and drink-spiking occasionally occur, keep valuables secure in hotel safes rather than on beaches, and be cautious with motorbike rentals—wear helmets (legally required), drive defensively on narrow island roads, and avoid riding under influence. Water safety requires attention during monsoon months (May-October) when strong currents and rough seas make swimming dangerous, particularly on exposed beaches. Use designated swimming areas at busy beaches where lifeguards operate. Petty theft occurs in crowded areas and beaches; secure bags while swimming and avoid displaying expensive jewelry, cameras, or large cash amounts. Traffic accidents represent the primary danger; Thai drivers may ignore traffic rules, so exercise extreme caution when crossing roads or riding motorbikes. Respect local customs by avoiding disrespect to the Thai royal family and being mindful at temples—dress modestly and remove shoes when entering religious spaces.",
+  "safetyTips": "Koh Samui is generally straightforward, but the real risk is treating island transport casually. Plan boat days around conditions, be realistic about cross-island travel times, and do not assume every inland or southern stop belongs on the same day. Around temples, dress respectfully. Around nightlife areas, use normal resort-town awareness rather than overthinking the island as unusually risky. If you rent a scooter, remember that Samui's road confidence varies sharply once you leave the easiest coastal stretches.",
   "faq": [
     {
-      "question": "What is the best time to visit Koh Samui?",
-      "answer": "November through February offers the best weather with dry conditions, calm seas, and temperatures around 28-30°C (82-86°F). December and January are peak season with highest prices, while February provides similar weather with fewer crowds. Avoid September and October during peak monsoon season when heavy rainfall and typhoon risks make island activities treacherous."
+      "question": "Which part of Koh Samui is best for a first stay?",
+      "answer": "For many first-timers, Chaweng is the easiest base if you want energy and beach convenience. Bophut or Choeng Mon are better if you want a calmer, more upscale stay."
     },
     {
-      "question": "How much does it cost to visit Koh Samui per day?",
-      "answer": "Budget travelers can visit on 20-40 USD daily with hostel stays (250-500 THB) and street food (50-100 THB per meal). Mid-range travelers spend 50-100 USD daily staying in 3-star hotels (1,500-3,000 THB) and mid-range restaurants (200-400 THB per meal). Luxury travelers should budget 150-400 USD daily for 5-star resorts (4,000-15,000+ THB) and fine dining (1,000-3,000 THB per meal). Paid attractions like Ang Thong Marine Park cost 300 THB ($9) and the Samui Elephant Sanctuary costs 2,500 THB ($72)."
+      "question": "Is Ang Thong worth doing from Koh Samui?",
+      "answer": "Yes. It is the strongest full-day excursion for most first visits and does more for the trip than piling up minor inland stops."
     },
     {
-      "question": "How do I get around Koh Samui?",
-      "answer": "Tuk-tuks (100-300 THB for short trips), songthaews/shared trucks (20-50 THB per person), and Grab app rides provide convenient transport. Motorbike rentals (150-300 THB daily) offer independence, while car/ATV rentals (500-1,000 THB daily) suit multi-destination exploration. All methods are widely available and affordable for tourists."
+      "question": "Should I stay in Chaweng or Bophut?",
+      "answer": "Stay in Chaweng for walkable energy and nightlife. Stay in Bophut for calmer evenings, stronger north-coast resort comfort, and easier Fisherman's Village access."
     },
     {
-      "question": "What are the top attractions on Koh Samui?",
-      "answer": "Top attractions include the iconic Big Buddha Temple/Wat Phra Yai (free entry), Chaweng Beach for swimming and water sports, Ang Thong National Marine Park (300 THB/$9) for island-hopping and kayaking, Fisherman's Village in Bophut for dining and Friday Night Market, Na Muang Waterfall (100 THB/$3) for natural swimming pools, Wat Plai Laem for its distinctive 18-armed Guanyin statue, Secret Buddha Garden (80 THB/$2) for jungle exploration, and Samui Elephant Sanctuary (2,500 THB/$72) for ethical wildlife encounters."
+      "question": "Do I need a scooter on Koh Samui?",
+      "answer": "No. For short stays, one main base plus organized transfers, taxis, or drivers is often the cleaner option."
     },
     {
-      "question": "Is Koh Samui safe for tourists?",
-      "answer": "Koh Samui is generally safe for tourists, though standard precautions apply: avoid walking alone late night in Chaweng's nightlife areas, keep valuables secure in hotel safes, be cautious with motorbike rentals—wear helmets (legally required), drive defensively on narrow roads, and avoid riding under influence. Water safety requires attention during monsoon months (May-October) when strong currents make swimming dangerous. Petty theft occurs in crowded areas; secure bags while swimming. Traffic accidents represent the primary danger, so exercise extreme caution when crossing roads or riding motorbikes."
+      "question": "What are the most important non-beach stops on Samui?",
+      "answer": "Wat Phra Yai, Wat Plai Laem, Fisherman's Village, and Mu Ko Ang Thong Marine National Park are the most useful first priorities beyond beach time."
+    },
+    {
+      "question": "Is Koh Samui a good island for families or couples?",
+      "answer": "Yes. Samui's strength is comfort, infrastructure, and hotel variety, which is why it often works especially well for couples and families who still want a polished island stay."
     }
   ],
   "practicalInfo": {
     "bestMonths": [
-      "Nov",
-      "Dec",
       "Jan",
-      "Feb"
+      "Feb",
+      "Mar",
+      "Apr",
+      "May",
+      "Jun",
+      "Jul",
+      "Aug",
+      "Sep"
     ],
-    "nearestAirport": "Samui International Airport (USM)",
-    "travelTimeFromAirport": "20-30 minutes by car/tuk-tuk to major beaches",
+    "nearestAirport": "Samui Airport",
+    "travelTimeFromAirport": "Usually around 10 to 20 minutes to Bophut or Choeng Mon, and roughly 15 to 30 minutes to Chaweng or Lamai depending on traffic and hotel location.",
     "localTransport": [
-      "Tuk-tuk (100-300 THB per short trip)",
-      "Songthaew/shared red truck (20-50 THB per person)",
-      "Motorbike rental (150-300 THB daily)",
-      "Car/ATV rental (500-1,000 THB daily)",
-      "Grab app (motorcycle and car rides with metered pricing)"
+      "Airport transfers and hotel cars",
+      "Short taxi or songthaew hops within the same coast zone",
+      "Organized boat transfers for Ang Thong and nearby island trips",
+      "Private drivers for south-island or inland loops",
+      "Walking only within your immediate beach or village base"
     ]
   },
-  "enrichedAt": "2026-02-22T13:04:44.219Z",
-  "seasonal_secrets": {
-    "best_times": {
-      "November-February (Best)": "Koh Samui's ideal travel window is November through February, when dry weather, gentle breezes, and calm seas create perfect conditions for beach activities and island-hopping excursions to Ang Thong Marine Park. December and January represent peak season with abundant sunshine, temperatures around 28-30°C (82-86°F), and minimal rainfall, though accommodations book quickly and prices increase.",
-      "March-May (Hot Season)": "Hot and humid, 28-35°C. Still good for beach activities — fewer crowds and lower prices.",
-      "June-October (Monsoon)": "Southwest monsoon, heavy rains. Some boat services may be reduced, but dramatic skies and empty beaches reward adventurous travelers."
-    },
-    "local_festivals": [
-      "Buffalo Fighting Festival (seasonal, check locally)",
-      "Full Moon Party boats to Koh Phangan (monthly)",
-      "Loy Krathong Festival",
-      "King's Birthday (Father's Day - Dec 5)",
-      "New Year celebrations",
-      "Makha Bucha Day",
-      "Chinese New Year (varies)",
-      "Songkran Water Festival (April 13-15) - celebrated nationwide"
-    ],
-    "seasonal_foods": {
-      "cool": "Fresh seafood is at its best during dry season — try beach BBQ restaurants. Local favorites include The Hut Cafe and Laem Din Market Stalls.",
-      "hot": "Cool off with fresh coconut water and tropical fruit shakes from beachside vendors. Local favorites include The Hut Cafe and Laem Din Market Stalls.",
-      "rainy": "Cozy up with Thai curries and hot soups at local restaurants — fewer crowds mean better service. Local favorites include The Hut Cafe and Laem Din Market Stalls."
-    },
-    "insider_tips": {
-      "Getting there": "Book ferry tickets in advance during peak season (December-March). Rough seas during monsoon season may cancel ferry services.",
-      "Best beaches": "Visit popular beaches early morning (before 9am) for the best experience. In peak season, explore quieter beaches away from the main strip.",
-      "Peak season": "December-March is peak season — book accommodation 2-4 weeks ahead for the best prices and availability.",
-      "Rainy season": "Rain usually falls in short afternoon bursts — mornings are often sunny and great for exploring Koh Samui.",
-      "Chaweng Beach": "Visit Chaweng Beach during the cool season for the most comfortable experience. Early morning visits beat the heat and the crowds."
-    }
-  },
-  "top_attractions": [
+  "contentSources": [
     {
-      "rank": 1,
-      "name": "Wat Phra Yai (Big Buddha Temple)",
-      "description": "Iconic 12-meter golden Buddha statue perched on Koh Samui's highest point with panoramic Gulf views. Features an ornate Naga staircase and serves as the island's most recognizable landmark.",
-      "location": "Big Buddha Beach, northeastern coast",
-      "entrance_fee": "Free",
-      "highlights": [
-        "Golden Buddha statue",
-        "Sea views",
-        "Best visited early morning"
-      ]
+      "type": "tourism-office",
+      "title": "Ko Samui - Surat Thani 4 Days",
+      "creator": "Tourism Authority of Thailand",
+      "url": "https://www.tourismthailand.org/Trip-Planner/Suggestion-Detail/ko-samui-surat-thani-4-days",
+      "description": "Used for official attraction sequencing around Mu Ko Ang Thong, Phra Yai, Hin Ta Hin Yai, Laem So, and Lamai."
     },
     {
-      "rank": 2,
-      "name": "Ang Thong National Marine Park",
-      "description": "Protected marine park featuring 42 islands with emerald lagoon, white sand beaches, and excellent snorkeling and kayaking opportunities. Accessible by speedboat tour from Koh Samui.",
-      "location": "Gulf of Thailand, 30km northwest of Koh Samui",
-      "entrance_fee": "300 THB ($9 USD)",
-      "highlights": [
-        "Emerald lagoon viewpoint",
-        "Kayaking",
-        "Snorkeling",
-        "Island hopping"
-      ]
+      "type": "transport",
+      "title": "Passenger Service Center",
+      "creator": "Samui International Airport",
+      "url": "https://www.samuiairport.com/en/passengerservicecenter",
+      "description": "Used for official airport positioning, passenger-service context, and transport framing."
     },
     {
-      "rank": 3,
-      "name": "Chaweng Beach",
-      "description": "Koh Samui's longest and most popular beach stretching 3km with white sand, water sports facilities, beachfront restaurants, and vibrant nightlife. Main tourist hub on the island.",
-      "location": "Eastern coast, central Koh Samui",
-      "entrance_fee": "Free",
-      "highlights": [
-        "White sand",
-        "Water sports",
-        "Dining and nightlife",
-        "Swimming"
-      ]
+      "type": "attraction",
+      "title": "Mu Ko Ang Thong National Park",
+      "creator": "Department of National Parks, Wildlife and Plant Conservation",
+      "url": "https://www.dnp.go.th/parkreserve/asp/style1/default.asp?npid=201&lg=2",
+      "description": "Used for official park authority reference for Ang Thong."
     },
     {
-      "rank": 4,
-      "name": "Wat Plai Laem",
-      "description": "Scenic beachside temple known for its distinctive 18-armed Guanyin statue set against a lakeside backdrop. Peaceful location ideal for cultural exploration and photography.",
-      "location": "Northern coast near Big Buddha Beach",
-      "entrance_fee": "Free",
-      "highlights": [
-        "18-armed Guanyin statue",
-        "Lakeside setting",
-        "Photography",
-        "Cultural site"
-      ]
+      "type": "restaurant",
+      "title": "Koh Thai Kitchen",
+      "creator": "MICHELIN Guide",
+      "url": "https://guide.michelin.com/us/en/cchanghwad-suraasdrthaanii/koh-samui_7770005/restaurant/koh-thai-kitchen",
+      "description": "Used for current MICHELIN status and Samui fine-dining context."
     },
     {
-      "rank": 5,
-      "name": "Fisherman's Village (Bophut)",
-      "description": "Historic beachfront village featuring restored Chinese shophouses, galleries, and restaurants. Friday Night Market showcases local cuisine and traditional wooden architecture.",
-      "location": "Bophut Beach, northern coast",
-      "entrance_fee": "Free",
-      "highlights": [
-        "Friday Night Market",
-        "Chinese architecture",
-        "Beachfront dining",
-        "Local shopping"
-      ]
+      "type": "restaurant",
+      "title": "Baan Suan Lung Khai",
+      "creator": "MICHELIN Guide",
+      "url": "https://guide.michelin.com/us/en/cchanghwad-suraasdrthaanii/koh-samui_7770005/restaurant/baan-suan-lung-khai",
+      "description": "Used for current MICHELIN Bib Gourmand status and local-food curation."
     },
     {
-      "rank": 6,
-      "name": "Na Muang Waterfall",
-      "description": "Two-tiered natural waterfall with swimming pools accessible by hiking through jungle terrain. Popular for cooling off and experiencing island's natural interior.",
-      "location": "Central island, south of Chaweng",
-      "entrance_fee": "100 THB ($3 USD)",
-      "highlights": [
-        "Natural pools",
-        "Hiking trail",
-        "Jungle scenery",
-        "Waterfall swimming"
-      ]
+      "type": "restaurant",
+      "title": "Jun Hom",
+      "creator": "MICHELIN Guide",
+      "url": "https://guide.michelin.com/us/en/cchanghwad-suraasdrthaanii/koh-samui_7770005/restaurant/jun-hom",
+      "description": "Used for current MICHELIN Bib Gourmand status and north-coast local-food curation."
     },
     {
-      "rank": 7,
-      "name": "Secret Buddha Garden",
-      "description": "Hidden garden sanctuary featuring Buddha statues and spiritual sculptures nestled in lush jungle. Requires 4WD vehicle and offers scenic hiking paths with valley views.",
-      "location": "Central island, requires 4WD access",
-      "entrance_fee": "80 THB ($2 USD)",
-      "highlights": [
-        "Buddha statues",
-        "Jungle hiking",
-        "Valley views",
-        "Off-beaten path"
-      ]
+      "type": "restaurant",
+      "title": "Long Dtai",
+      "creator": "MICHELIN Guide",
+      "url": "https://guide.michelin.com/us/en/cchanghwad-suraasdrthaanii/koh-samui_7770005/restaurant/long-dtai",
+      "description": "Used for current MICHELIN-recognized upscale Thai dining context."
     },
     {
-      "rank": 8,
-      "name": "Samui Elephant Sanctuary",
-      "description": "Ethical elephant interaction facility offering guided tours where visitors can observe rescued elephants in natural settings. Includes feeding and bathing experiences without riding.",
-      "location": "Interior, north-central island",
-      "entrance_fee": "2500 THB ($72 USD)",
-      "highlights": [
-        "Ethical elephant encounters",
-        "Guided tours",
-        "Feeding experience",
-        "Wildlife education"
-      ]
+      "type": "restaurant",
+      "title": "Saffron",
+      "creator": "MICHELIN Guide",
+      "url": "https://guide.michelin.com/us/en/cchanghwad-suraasdrthaanii/koh-samui_7770005/restaurant/saffron-1204714",
+      "description": "Used for current MICHELIN-recognized upscale Thai dining context."
+    },
+    {
+      "type": "restaurant",
+      "title": "ANANTARA LAWANA KOH SAMUI RESORT fact sheet",
+      "creator": "Anantara Lawana Koh Samui Resort",
+      "url": "https://www.anantara.com/uploads/minor/anantara/documents/anantara-lawana-koh-samui-resort/hotel-info/als-sm_factsheetmay2024.pdf",
+      "description": "Used for official Tree Tops Signature Dining context."
+    },
+    {
+      "type": "hotel",
+      "title": "Luxury Resort Thailand | Koh Samui Beach Resort | Four Seasons",
+      "creator": "Four Seasons",
+      "url": "https://www.fourseasons.com/kohsamui/",
+      "description": "Used for official resort positioning on the northwest coast."
+    },
+    {
+      "type": "hotel",
+      "title": "Centara Reserve Samui - Luxury Beach Resort In Koh Samui",
+      "creator": "Centara Hotels & Resorts",
+      "url": "https://www.centarahotelsresorts.com/centarareserve/crs",
+      "description": "Used for official Chaweng luxury-resort positioning."
+    },
+    {
+      "type": "hotel",
+      "title": "Bo Phut Resort & Spa Koh Samui-Thailand hotel samui",
+      "creator": "Bo Phut Resort & Spa",
+      "url": "https://www.bophutresort.com/",
+      "description": "Used for official Bophut resort positioning."
+    },
+    {
+      "type": "hotel",
+      "title": "Best Luxury Resorts and Spa - 5 Star Hotel in Koh Samui - Hansar Samui",
+      "creator": "Hansar Samui",
+      "url": "https://www.hansarsamui.com/",
+      "description": "Used for official Bophut resort positioning."
+    },
+    {
+      "type": "hotel",
+      "title": "Kimpton Kitalay Samui | Oceanfront Resort in Koh Samui",
+      "creator": "Kimpton Kitalay Samui",
+      "url": "https://www.kimptonkitalaysamui.com/",
+      "description": "Used for official Choeng Mon resort positioning."
+    },
+    {
+      "type": "hotel",
+      "title": "Home - Bandara Spa Resort & Pool Villas, Samui",
+      "creator": "Bandara Group",
+      "url": "https://www.bandaragroup.com/bandara-samui-resort/",
+      "description": "Used for official Bophut resort positioning."
     }
   ],
-  "factchecked_at": "2026-03-08T18:44:58.321Z",
-  "translations": {
-    "nl": {
-      "enhanced_description": "Het moment dat het vliegtuig laag over de Golf van Thailand duikt en Koh Samui beneden verschijnt — een weelderig groen juweel omzoomd door wit zand en turquoise water — weet je dat dit eiland iets bijzonders is. Ik landde op het charmante openlucht Samui Airport, waar de terminal in feite een verzameling paviljoens met rieten daken is omringd door tropische tuinen, en voelde onmiddellijk het levenstempo verschuiven. Een songthaew ratelde me langs de kustweg naar Chaweng, langs wuivende kokospalmen en kraampjes langs de weg die verse kokosijsjes verkochten voor 40 baht. De warme, zoutige bries door de open ramen voelde als een welkom thuis.\n\nChaweng Beach is waar de meeste bezoekers beginnen, en met goede reden. De drie kilometer lange strook poederfijn zand loopt geleidelijk af de Golf in, en op kalme dagen is het water zo helder dat je je voeten kunt zien op heuphoogte. Ik bracht ochtenden door met wandelen langs het noordelijke uiteinde van Chaweng, waar de drukte afneemt bij Chaweng Noi, en stopte bij een klein Thais koffiekraampje genaamd Jungle Club viewpoint voor een ijskoude Americano met een panoramisch uitzicht dat uit een ansichtkaart leek gestolen. 's Avonds pulseert Chaweng's Soi Green Mango met muziek uit de bars, maar ik gaf de voorkeur aan het rustigere stuk nabij Ark Bar, waar je met je tenen in het zand kunt zitten en vuurdansers kunt bekijken tegen de zonsondergang.\n\nHet spirituele hart van het eiland is Wat Phra Yai, bij iedereen bekend als de Big Buddha Temple. Ik arriveerde vroeg op een ochtend voordat de tourbussen kwamen, de brede trap beklimmend geflankeerd door naga-slangen terwijl monniken in saffraankleurige gewaden het tempelterrein veegden. De 12 meter hoge gouden Boeddha zit sereen op een klein eilandje verbonden met de noordoostkust, en vanaf het platform kun je uitkijken naar Koh Phangan. Een bejaarde monnik gebaarde dat ik moest gaan zitten, en we deelden een paar minuten stilte uitkijkend over het water — geen woorden, alleen aanwezigheid. Onderaan verkoopt een kring marktkramen amuletten, handgemaakte zeepjes, en de beste roti mataba die ik op het eiland vond, gevuld met kipkerrie en geserveerd door een glimlachende vrouw die me vertelde dat ze er al twintig jaar stond.\n\nOp een dag huurde ik een longtail vanuit het vissersdorp Bophut om Ang Thong Marine National Park te verkennen. De archipel van 42 kalksteeneilanden die oprijzen uit de smaragdgroene zee is overweldigend — steile kliffen bedekt met jungle, verborgen zoutwaterlagunes en stranden die alleen per kajak bereikbaar zijn. We ankerden bij Koh Mae Ko en ik beklom het steile pad naar het uitkijkpunt bij het smaragdgroene meer, buiten adem en doorweekt van het zweet, maar het zicht van de jadegroen lagune omcirkeld door junglebegroide karsttorens was elke stap waard. Terug op de boot opende de kapitein een koelbox met verse ananas en we aten in stilte, het enige geluid het water dat tegen de romp klotste.\n\nFisherman's Village in Bophut werd mijn favoriete avondritueel. Elke vrijdagavond transformeert de smalle straat in een wandelmarkt waar lokale families kraampjes opzetten die gegrilde garnalen, som tum en kokospannenkoeken verkopen. Ik raakte bevriend met een verkoopster genaamd Khun Noi die buitengewone pad kra pao maakte — heilige basilicum-roerbak met een vurige pit die mijn sinussen opende en me onmiddellijk een tweede bord deed bestellen. Tussen de marktkramen verkopen boetiekwinkels handgemaakte sieraden en Thaise zijde, en livebands spelen op kleine podia. De sfeer is een wereld van verschil met de bonkende clubs van Chaweng — het is ontspannen, familiaal en oprecht lokaal.\n\nKoh Samui beloont wie verder gaat dan de hoofdstranden. Ik huurde een scooter en volgde de ringweg van het eiland zuidwaarts naar Lamai Beach, waar de bizarre Hin Ta en Hin Yai rotsformaties uit de kust steken, en vervolgde naar de rustige Lipa Noi-kust waar ik een heel strand voor mezelf had voor een middag. In het heuvelachtige binnenland storten de Na Muang-watervallen in natuurlijke zwembaden omgeven door jungle, en de Secret Buddha Garden op de hoogste piek van het eiland verbergt tientallen stenen beelden tussen het mos en de varens. Bij zonsondergang parkeerde ik bij Laem Sor Pagoda, een gouden chedi op de zuidpunt van het eiland, en keek hoe de lucht van goud naar violet kleurde met niets anders dan het geluid van krekels als gezelschap. Koh Samui is een eiland dat je precies de ervaring geeft die je zoekt — wild of luxueus, rumoerig of sereen — en altijd, altijd prachtig.",
-      "overview": "Koh Samui, het op een na grootste eiland van Thailand, is een tropisch paradijs gelegen in de Golf van Thailand in de provincie Surat Thani. Met een bevolking van ongeveer 63.000 is dit eiland uitgegroeid tot een verfijnde mix van natuurlijke schoonheid en luxetoerisme, beroemd om zijn palmbomen-omzoomde stranden, resorts van wereldklasse en iconische bezienswaardigheden zoals de Big Buddha Temple. Van de levendige 3 km lange strook Chaweng Beach met zijn bruisende nachtleven tot het serene Fisherman's Village in Bophut, Koh Samui biedt diverse ervaringen voor elk type reiziger. Het eiland dient als poort naar het Ang Thong Marine Park met 42 eilanden perfect voor kajakken en snorkelen, terwijl het ongerepte natuurattracties als de Na Muang Waterval en de unieke Secret Buddha Garden behoudt.",
-      "thingsToDo": "De attracties van Koh Samui bestrijken culturele bezienswaardigheden, natuurwonderen en wateractiviteiten. De iconische Big Buddha Temple (Wat Phra Yai) heeft een prachtig 12 meter hoog gouden Boeddhabeeld met panoramisch zeezicht en een sierlijke Naga-trap — gratis te bezoeken en het best vroeg in de ochtend te verkennen. Chaweng Beach blijft de populairste bestemming van het eiland met 3 km wit zand, watersport, eten aan het strand en avondvermaak. Voor natuurliefhebbers toont Ang Thong National Marine Park (300 THB/$9 USD entree) 42 eilanden met het beroemde smaragdgroene meer-uitkijkpunt en uitstekende kajakmogelijkheden. Culturele verkenning gaat verder bij Wat Plai Laem met zijn kenmerkende 18-armige Guanyin-beeld tegen een achtergrond aan het meer, terwijl avonturiers kunnen wandelen naar de natuurlijke zwembaden van Na Muang Waterfall (100 THB/$3 USD) of het Samui Elephant Sanctuary bezoeken (2.500 THB/$72 USD) voor ethische wildlife-ontmoetingen. Mis niet de vrijdagavondmarkt van Fisherman's Village Bophut met oude Chinese winkelpanden en eten aan het strand, of de verborgen Secret Buddha Garden (80 THB/$2 USD) bereikbaar per 4WD door jungleterrein.",
-      "whereToStay": "Koh Samui biedt accommodatie voor elk budget met diverse wijken die elk een eigen ervaring bieden. De strandgebieden vragen premiumprijzen — Chaweng biedt nabijheid tot nachtleven en restaurants (2.500-6.000 THB/$75-180 per nacht voor middenklasse tot boetiekhotels), terwijl het rustigere Lamai Beach ontspanning biedt nabij de kenmerkende Hin Ta Hin Yai rotsformaties. Bophut's Fisherman's Village combineert culturele charme met upscale voorzieningen, aantrekkelijk voor reizigers die authentieke ervaringen met modern comfort zoeken. Maenam Beach biedt de meest betaalbare opties van het eiland met een traditionele vissersdorpsfeer en uitzicht op Koh Phangan aan de overkant. Voor langere verblijven en digitale nomaden bieden maandelijkse huishuren uitzonderlijke waarde: basis Thaise huizen beginnen bij 12.000-18.000 THB/maand, middenklasse moderne woningen kosten 20.000-30.000 THB/maand met airco en wifi, en luxe poolville's gaan tot 35.000-40.000+ THB/maand. Hostels en budgetguesthouses kosten 250-500 THB voor gedeelde bedden en 600-1.200 THB voor eenvoudige tweepersoonskamers, waardoor Samui toegankelijk is voor backpackers terwijl het luxe villa-ervaringen biedt voor wie zich wil verwennen.",
-      "gettingAround": "Koh Samui biedt meerdere vervoersopties om de attracties van het eiland te verkennen. Tuk-tuks blijven de meest iconische keuze voor korte afstanden binnen stranden en dorpen, hoewel prijzen van tevoren onderhandeld moeten worden (doorgaans 100-300 THB voor korte ritten). Songthaews (gedeelde rode trucks) rijden vaste routes tussen grote gebieden als Chaweng, Lamai en Bophut voor 20-50 THB per persoon, ideaal voor budgetreizigers. Voor meer onafhankelijkheid kost motorverhuur 150-300 THB per dag en biedt flexibiliteit om stranden en binnenlandse attracties te verkennen, hoewel een internationaal rijbewijs wordt aanbevolen. De Grab-app werkt op Koh Samui en biedt motor- en autoritten met transparante prijzen, wat onderhandelen overbodig maakt en veiligheid biedt via GPS-tracking. Het huren van een auto of ATV kost 500-1.000 THB per dag en is geschikt voor reizigers die meerdere stranden willen bezoeken, met name voor de Secret Buddha Garden waarvoor 4WD-toegang nodig is.",
-      "bestTimeToVisit": "Het ideale reisvenster voor Koh Samui is november tot en met februari, wanneer droog weer, zachte bries en kalme zeeën perfecte omstandigheden creëren voor strandactiviteiten en eilandhop-excursies naar Ang Thong Marine Park. December en januari zijn het hoogseizoen met volop zon, temperaturen rond 28-30°C en minimale neerslag, hoewel accommodaties snel volboeken en de prijzen stijgen. Februari verlengt dit uitstekende weervenster met iets minder drukte terwijl droge omstandigheden aanhouden. Maart tot mei brengt hete, vochtige omstandigheden met temperaturen boven 33°C en af en toe middagbuien, waardoor stranddagen minder comfortabel zijn maar het aantal toeristen aanzienlijk daalt. Het zuidwestmoesson-seizoen van mei tot oktober brengt zware regenval, woelige zeeën en verhoogde luchtvochtigheid; hoewel sommige regenbestendige reizigers deze maanden bezoeken voor lagere prijzen en minder drukte, worden watersporten riskant en vermindert het zicht voor snorkelen aanzienlijk. Vermijd september en oktober volledig wanneer de regenval piekt en het risico op tyfoons toeneemt, waardoor eilandbezoeken gevaarlijk worden.",
-      "safetyTips": "Koh Samui is over het algemeen veilig voor toeristen, hoewel standaard voorzorgsmaatregelen gelden: vermijd laat op de avond alleen lopen in de uitgaansgebieden van Chaweng waar diefstal en het drogeren van drankjes af en toe voorkomen, bewaar waardevolle spullen in hotelkluizen in plaats van op het strand, en wees voorzichtig met motorverhuur — draag helmen (wettelijk verplicht), rij defensief op de smalle eilandwegen en vermijd rijden onder invloed. Waterveiligheid vereist aandacht tijdens de moessonmaanden (mei-oktober) wanneer sterke stromingen en ruwe zeeën zwemmen gevaarlijk maken, met name op onbeschutte stranden. Gebruik aangewezen zwemgebieden bij drukke stranden waar strandwachten actief zijn. Kleine diefstal komt voor op drukke plekken en stranden; beveilig tassen tijdens het zwemmen en vermijd het tonen van dure sieraden, camera's of grote bedragen contant geld. Verkeersongevallen vormen het belangrijkste gevaar; Thaise bestuurders negeren soms verkeersregels, dus wees uiterst voorzichtig bij het oversteken van wegen of motorrijden. Respecteer lokale gebruiken door geen disrespect te tonen jegens de Thaise koninklijke familie en bewust te zijn bij tempels — kleed je bescheiden en trek schoenen uit bij het betreden van religieuze ruimtes.",
-      "translated_at": "2026-03-09T00:00:00.000Z"
-    },
-    "fr": {
-      "enhanced_description": "Au moment où l'avion plonge au-dessus du golfe de Thaïlande et que Koh Samui apparaît en contrebas — un joyau d'un vert luxuriant bordé de sable blanc et d'eau turquoise — on sait que cette île a quelque chose de spécial. J'ai atterri au charmant aéroport en plein air de Samui, où le terminal est en fait un ensemble de pavillons aux toits de chaume entourés de jardins tropicaux, et j'ai immédiatement senti le rythme de vie changer. Un songthaew m'a emmené en cahotant le long de la route côtière vers Chaweng, passant devant des cocotiers ondulant au vent et des étals au bord de la route vendant des glaces à la noix de coco fraîche pour 40 bahts. La brise chaude et salée par les fenêtres ouvertes ressemblait à un accueil chaleureux.\n\nChaweng Beach est l'endroit où la plupart des visiteurs commencent, et pour cause. Les trois kilomètres de sable poudreux descendent en pente douce dans le golfe, et les jours calmes, l'eau est si claire qu'on peut voir ses pieds à hauteur de hanches. J'ai passé mes matinées à me promener à l'extrémité nord de Chaweng, où la foule diminue vers Chaweng Noi, m'arrêtant dans un petit café thaïlandais appelé Jungle Club viewpoint pour un Americano glacé avec une vue panoramique qui semblait sortie d'une carte postale. Le soir, le Soi Green Mango de Chaweng pulse de musique venant des bars, mais j'ai préféré le coin plus calme près d'Ark Bar, où l'on peut s'asseoir les orteils dans le sable et regarder les danseurs de feu se produire au coucher du soleil.\n\nLe cœur spirituel de l'île est Wat Phra Yai, connu de tous sous le nom de Big Buddha Temple. J'y suis arrivé tôt un matin avant les bus de touristes, gravissant le large escalier flanqué de serpents naga tandis que des moines en robes safran balayaient l'enceinte du temple. Le Bouddha doré de 12 mètres de haut est assis sereinement sur un petit îlot relié à la côte nord-est, et depuis la plateforme, on peut contempler Koh Phangan. Un moine âgé m'a fait signe de m'asseoir, et nous avons partagé quelques minutes de silence contemplant l'eau — pas de mots, juste de la présence. En bas, un cercle d'échoppes vend des amulettes, des savons artisanaux et le meilleur roti mataba que j'ai trouvé sur l'île, fourré au curry de poulet et servi par une femme souriante qui m'a dit qu'elle était là depuis vingt ans.\n\nUn jour, j'ai loué un longtail depuis le village de pêcheurs de Bophut pour explorer le parc national marin d'Ang Thong. L'archipel de 42 îles calcaires se dressant hors de la mer émeraude est saisissant — des falaises abruptes couvertes de jungle, des lagons d'eau salée cachés et des plages accessibles uniquement en kayak. Nous avons jeté l'ancre à Koh Mae Ko et j'ai gravi le sentier escarpé jusqu'au point de vue du lac émeraude, essoufflé et trempé de sueur, mais la vue du lagon vert jade cerclé de tours karstiques couvertes de jungle valait chaque pas. De retour sur le bateau, le capitaine a ouvert une glacière d'ananas frais et nous avons mangé en silence, le seul son étant l'eau clapotant contre la coque.\n\nFisherman's Village à Bophut est devenu mon rituel du soir préféré. Chaque vendredi soir, la rue étroite se transforme en marché ambulant où des familles locales installent des étals vendant des crevettes grillées, du som tum et des crêpes à la noix de coco. Je me suis lié d'amitié avec une vendeuse nommée Khun Noi qui préparait un extraordinaire pad kra pao — un sauté au basilic sacré avec une chaleur ardente qui m'a dégagé les sinus et m'a fait immédiatement commander un deuxième plat. Parmi les échoppes du marché, des boutiques vendent des bijoux artisanaux et de la soie thaïlandaise, et des groupes jouent en live sur de petites scènes. L'atmosphère est à des années-lumière des clubs tonitruants de Chaweng — c'est détendu, familial et authentiquement local.\n\nKoh Samui récompense ceux qui s'aventurent au-delà des plages principales. J'ai loué un scooter et suivi la route circulaire de l'île vers le sud jusqu'à Lamai Beach, où les bizarres formations rocheuses Hin Ta et Hin Yai émergent de la côte, puis j'ai continué jusqu'à la paisible côte de Lipa Noi où j'ai eu une plage entière pour moi seul tout un après-midi. Dans l'intérieur vallonné, les cascades de Na Muang se déversent dans des bassins naturels entourés de jungle, et le Secret Buddha Garden au sommet du plus haut pic de l'île cache des dizaines de statues de pierre parmi la mousse et les fougères. Au coucher du soleil, je me suis garé près de Laem Sor Pagoda, un chedi doré à la pointe sud de l'île, et j'ai regardé le ciel passer de l'or au violet avec pour seule compagnie le chant des grillons. Koh Samui est une île qui vous offre exactement l'expérience que vous cherchez — sauvage ou luxueuse, animée ou sereine — et toujours, toujours magnifique.",
-      "overview": "Koh Samui, la deuxième plus grande île de Thaïlande, est un paradis tropical situé dans le golfe de Thaïlande, dans la province de Surat Thani. Avec une population d'environ 63 000 habitants, cette île est devenue un mélange raffiné de beauté naturelle et de tourisme de luxe, célèbre pour ses plages bordées de palmiers, ses resorts de classe mondiale et ses sites emblématiques comme le Big Buddha Temple. De l'animée bande de 3 km de Chaweng Beach avec sa vie nocturne trépidante au serein Fisherman's Village de Bophut, Koh Samui offre des expériences variées pour tous les types de voyageurs. L'île sert de porte d'entrée vers le parc marin d'Ang Thong avec ses 42 îles parfaites pour le kayak et la plongée avec tuba, tout en préservant des attractions naturelles intactes comme la cascade de Na Muang et l'unique Secret Buddha Garden.",
-      "thingsToDo": "Les attractions de Koh Samui couvrent sites culturels, merveilles naturelles et activités nautiques. L'emblématique Big Buddha Temple (Wat Phra Yai) abrite une magnifique statue de Bouddha dorée de 12 mètres de haut avec vue panoramique sur la mer et un élégant escalier Naga — gratuit et à visiter de préférence tôt le matin. Chaweng Beach reste la destination la plus populaire de l'île avec ses 3 km de sable blanc, sports nautiques, restauration sur la plage et divertissements nocturnes. Pour les amoureux de la nature, le parc national marin d'Ang Thong (entrée 300 THB/9 $ USD) présente 42 îles avec le célèbre point de vue du lac émeraude et d'excellentes possibilités de kayak. L'exploration culturelle se poursuit à Wat Plai Laem avec sa distinctive statue de Guanyin à 18 bras sur fond de lac, tandis que les aventuriers peuvent randonner jusqu'aux bassins naturels de la cascade de Na Muang (100 THB/3 $ USD) ou visiter le Samui Elephant Sanctuary (2 500 THB/72 $ USD) pour des rencontres éthiques avec la faune. Ne manquez pas le marché du vendredi soir du Fisherman's Village de Bophut avec ses anciennes maisons de commerce chinoises et sa restauration en bord de mer, ni le Secret Buddha Garden (80 THB/2 $ USD) accessible en 4x4 à travers la jungle.",
-      "whereToStay": "Koh Samui offre des hébergements pour tous les budgets avec des quartiers variés proposant chacun une expérience unique. Les zones de plage affichent des prix premium — Chaweng offre la proximité de la vie nocturne et des restaurants (2 500-6 000 THB/75-180 $ par nuit pour les hôtels de gamme moyenne à boutique), tandis que la plus tranquille Lamai Beach offre la détente près des emblématiques formations rocheuses Hin Ta Hin Yai. Le Fisherman's Village de Bophut combine charme culturel et prestations haut de gamme, attirant les voyageurs en quête d'expériences authentiques avec un confort moderne. Maenam Beach propose les options les plus abordables de l'île avec une atmosphère de village de pêcheurs traditionnel et vue sur Koh Phangan. Pour les séjours prolongés et les nomades numériques, les locations mensuelles offrent un rapport qualité-prix exceptionnel : les maisons thaïlandaises de base commencent à 12 000-18 000 THB/mois, les logements modernes de gamme moyenne coûtent 20 000-30 000 THB/mois avec climatisation et wifi, et les villas de luxe avec piscine atteignent 35 000-40 000+ THB/mois. Les auberges et pensions économiques coûtent 250-500 THB pour les dortoirs et 600-1 200 THB pour les chambres doubles simples, rendant Samui accessible aux routards tout en offrant des expériences de villas de luxe pour ceux qui souhaitent se faire plaisir.",
-      "gettingAround": "Koh Samui offre plusieurs options de transport pour explorer les attractions de l'île. Les tuk-tuks restent le choix le plus emblématique pour les courtes distances au sein des plages et villages, bien que les prix doivent être négociés à l'avance (généralement 100-300 THB pour les trajets courts). Les songthaews (camionnettes rouges partagées) circulent sur des itinéraires fixes entre les grandes zones comme Chaweng, Lamai et Bophut pour 20-50 THB par personne, idéal pour les voyageurs à petit budget. Pour plus d'indépendance, la location de scooter coûte 150-300 THB par jour et offre la flexibilité d'explorer les plages et les attractions de l'intérieur, bien qu'un permis de conduire international soit recommandé. L'application Grab fonctionne à Koh Samui et propose des trajets en moto et en voiture avec tarification transparente, éliminant le besoin de négocier et offrant la sécurité du suivi GPS. La location de voiture ou de quad coûte 500-1 000 THB par jour et convient aux voyageurs souhaitant visiter plusieurs plages, notamment pour le Secret Buddha Garden qui nécessite un accès en 4x4.",
-      "bestTimeToVisit": "La période idéale pour visiter Koh Samui est de novembre à février, lorsque le temps sec, la brise douce et les mers calmes créent des conditions parfaites pour les activités de plage et les excursions d'île en île vers le parc marin d'Ang Thong. Décembre et janvier sont la haute saison avec un ensoleillement abondant, des températures autour de 28-30°C et des précipitations minimales, bien que les hébergements se remplissent rapidement et les prix augmentent. Février prolonge cette excellente fenêtre météo avec un peu moins d'affluence tandis que les conditions sèches persistent. Mars à mai apporte des conditions chaudes et humides avec des températures dépassant 33°C et des averses occasionnelles l'après-midi, rendant les journées de plage moins confortables mais le nombre de touristes diminue considérablement. La mousson du sud-ouest de mai à octobre amène de fortes pluies, des mers agitées et une humidité accrue ; bien que certains voyageurs résistants à la pluie visitent ces mois pour les prix réduits et moins de foule, les sports nautiques deviennent risqués et la visibilité pour la plongée avec tuba diminue considérablement. Évitez complètement septembre et octobre lorsque les précipitations atteignent leur pic et le risque de typhon augmente, rendant les excursions en île dangereuses.",
-      "safetyTips": "Koh Samui est généralement sûre pour les touristes, bien que les précautions standard s'appliquent : évitez de marcher seul tard le soir dans les zones de vie nocturne de Chaweng où les vols et les boissons droguées surviennent occasionnellement, gardez vos objets de valeur dans les coffres-forts de l'hôtel plutôt que sur la plage, et soyez prudent avec la location de scooter — portez un casque (obligatoire par la loi), conduisez de manière défensive sur les routes étroites de l'île et évitez de conduire sous l'influence de l'alcool. La sécurité aquatique nécessite une attention particulière pendant les mois de mousson (mai-octobre) lorsque les courants forts et les mers agitées rendent la baignade dangereuse, notamment sur les plages non protégées. Utilisez les zones de baignade désignées sur les plages fréquentées où des sauveteurs sont en service. Les petits vols surviennent dans les endroits bondés et sur les plages ; sécurisez vos affaires pendant la baignade et évitez d'exhiber des bijoux coûteux, appareils photo ou grosses sommes d'argent. Les accidents de la route représentent le principal danger ; les conducteurs thaïlandais ignorent parfois le code de la route, soyez donc extrêmement prudent en traversant les rues ou en conduisant un scooter. Respectez les coutumes locales en ne manquant pas de respect envers la famille royale thaïlandaise et en étant conscient dans les temples — habillez-vous modestement et retirez vos chaussures en entrant dans les espaces religieux.",
-      "translated_at": "2026-03-10T00:00:00.000Z"
-    },
-    "de": {
-      "enhanced_description": "In dem Moment, als das Flugzeug tief über den Golf von Thailand sinkt und Koh Samui unter einem erscheint — ein üppig grünes Juwel, gesäumt von weißem Sand und türkisfarbenem Wasser — weiß man, dass diese Insel etwas Besonderes ist. Ich landete am charmanten Open-Air-Flughafen Samui, wo das Terminal im Wesentlichen eine Ansammlung von Pavillons mit Strohdächern umgeben von tropischen Gärten ist, und spürte sofort, wie sich das Lebenstempo veränderte. Ein Songthaew rüttelte mich die Küstenstraße entlang nach Chaweng, vorbei an wiegenden Kokospalmen und Straßenständen, die frisches Kokoseis für 40 Baht verkauften. Die warme, salzige Brise durch die offenen Fenster fühlte sich an wie ein Willkommen zu Hause.\n\nChaweng Beach ist der Ausgangspunkt für die meisten Besucher, und das aus gutem Grund. Der drei Kilometer lange Streifen puderfeinen Sands fällt sanft in den Golf ab, und an ruhigen Tagen ist das Wasser so klar, dass man seine Füße auf Hüfthöhe sehen kann. Ich verbrachte Vormittage mit Spaziergängen am nördlichen Ende von Chaweng, wo die Menschenmengen bei Chaweng Noi abnehmen, und hielt an einem kleinen thailändischen Kaffeestand namens Jungle Club Viewpoint für einen Eiskaffee mit einem Panoramablick, der wie von einer Postkarte gestohlen wirkte. Abends pulsiert Chawengs Soi Green Mango mit Musik aus den Bars, aber ich bevorzugte den ruhigeren Abschnitt nahe der Ark Bar, wo man mit den Zehen im Sand sitzen und Feuertänzern gegen den Sonnenuntergang zusehen kann.\n\nDas spirituelle Herz der Insel ist Wat Phra Yai, von allen als Big Buddha Temple bekannt. Ich kam an einem frühen Morgen an, bevor die Reisebusse kamen, erklomm die breite Treppe, flankiert von Naga-Schlangen, während Mönche in safranfarbenen Roben das Tempelgelände fegten. Der 12 Meter hohe goldene Buddha sitzt gelassen auf einer kleinen Insel, verbunden mit der Nordostküste, und von der Plattform aus kann man hinüber nach Koh Phangan blicken. Ein älterer Mönch winkte mich zum Sitzen, und wir teilten einige Minuten der Stille mit Blick aufs Wasser — keine Worte, nur Gegenwart. Unten verkauft ein Kreis von Marktständen Amulette, handgemachte Seifen und das beste Roti Mataba, das ich auf der Insel fand, gefüllt mit Hühnchencurry und serviert von einer lächelnden Frau, die mir erzählte, sie sei seit zwanzig Jahren dort.\n\nEines Tages mietete ich ein Longtail-Boot vom Fischerdorf Bophut, um den Ang Thong Marine Nationalpark zu erkunden. Der Archipel aus 42 Kalksteininseln, die aus der smaragdgrünen See aufragen, ist überwältigend — steile, dschungelbedeckte Klippen, versteckte Salzwasserlagunen und Strände, die nur per Kajak erreichbar sind. Wir ankerten bei Koh Mae Ko, und ich wanderte den steilen Pfad zum Aussichtspunkt des Smaragdsees hinauf, atemlos und schweißdurchnässt, aber der Anblick der jadegrünen Lagune, umringt von dschungelbedeckten Karsttürmen, war jeden Schritt wert. Zurück auf dem Boot öffnete der Kapitän eine Kühlbox mit frischer Ananas, und wir aßen in Stille, das einzige Geräusch war das Wasser, das gegen den Rumpf plätscherte.\n\nFisherman's Village in Bophut wurde zu meinem liebsten Abendritual. Jeden Freitagabend verwandelt sich die schmale Straße in einen Wandermarkt, wo einheimische Familien Stände aufbauen, die gegrillte Garnelen, Som Tum und Kokosnusspfannkuchen verkaufen. Ich freundete mich mit einer Verkäuferin namens Khun Noi an, die außergewöhnliches Pad Kra Pao zubereitete — heiliges Basilikum-Pfannenrühren mit einer feurigen Schärfe, die meine Nebenhöhlen befreite und mich sofort einen zweiten Teller bestellen ließ. Zwischen den Marktständen verkaufen Boutiquen handgefertigten Schmuck und thailändische Seide, und Live-Bands spielen auf kleinen Bühnen. Die Atmosphäre ist eine Welt entfernt von den dröhnenden Clubs Chawengs — sie ist entspannt, familiär und aufrichtig lokal.\n\nKoh Samui belohnt diejenigen, die über die Hauptstrände hinausgehen. Ich mietete einen Roller und folgte der Ringstraße der Insel südwärts nach Lamai Beach, wo die bizarren Hin Ta und Hin Yai Felsformationen aus der Küste ragen, und fuhr weiter zur ruhigen Lipa Noi-Küste, wo ich einen ganzen Nachmittag einen Strand für mich allein hatte. Im hügeligen Inselinneren stürzen die Na Muang-Wasserfälle in natürliche Schwimmbecken umgeben von Dschungel, und der Secret Buddha Garden auf dem höchsten Gipfel der Insel verbirgt Dutzende Steinskulpturen zwischen Moos und Farnen. Bei Sonnenuntergang parkte ich an der Laem Sor Pagoda, einem goldenen Chedi an der Südspitze der Insel, und sah zu, wie der Himmel von Gold zu Violett wechselte, mit nichts als dem Zirpen der Zikaden als Gesellschaft. Koh Samui ist eine Insel, die einem genau das Erlebnis bietet, das man sucht — wild oder luxuriös, ausgelassen oder ruhig — und immer, immer wunderschön.",
-      "overview": "Koh Samui, Thailands zweitgrößte Insel, ist ein tropisches Paradies im Golf von Thailand in der Provinz Surat Thani. Mit einer Bevölkerung von rund 63.000 hat sich diese Insel zu einer raffinierten Mischung aus natürlicher Schönheit und Luxustourismus entwickelt, berühmt für ihre palmengesäumten Strände, Weltklasse-Resorts und ikonische Wahrzeichen wie den Big Buddha Temple. Vom lebhaften 3-Kilometer-Streifen des Chaweng Beach mit seinem pulsierenden Nachtleben bis zum ruhigen Fisherman's Village in Bophut bietet Koh Samui vielfältige Erlebnisse für jeden Reisetyp. Die Insel dient als Tor zum Ang Thong Marine Park mit 42 Inseln, perfekt zum Kajakfahren und Schnorcheln, und bewahrt dabei unberührte Naturattraktionen wie den Na Muang-Wasserfall und den einzigartigen Secret Buddha Garden.",
-      "thingsToDo": "Koh Samuis Attraktionen umfassen kulturelle Wahrzeichen, Naturwunder und Wasseraktivitäten. Der ikonische Big Buddha Temple (Wat Phra Yai) beherbergt eine atemberaubende 12 Meter hohe goldene Buddhastatue mit Panorama-Meerblick und einer kunstvollen Naga-Treppe — kostenlos zu besichtigen und am besten früh morgens zu erkunden. Chaweng Beach bleibt die beliebteste Destination der Insel mit 3 km weißem Sand, Wassersport, Strandrestaurants und Abendunterhaltung. Für Naturliebhaber zeigt der Ang Thong National Marine Park (300 THB/$9 USD Eintritt) 42 Inseln mit dem berühmten Smaragdsee-Aussichtspunkt und ausgezeichneten Kajakmöglichkeiten. Die kulturelle Erkundung geht weiter bei Wat Plai Laem mit seiner markanten 18-armigen Guanyin-Statue vor Seekulisse, während Abenteurer zu den natürlichen Schwimmbecken des Na Muang-Wasserfalls wandern (100 THB/$3 USD) oder das Samui Elephant Sanctuary besuchen können (2.500 THB/$72 USD) für ethische Wildtierbegegnungen. Verpassen Sie nicht den Freitagabendmarkt im Fisherman's Village Bophut mit alten chinesischen Handelshäusern und Strandrestaurants, oder den versteckten Secret Buddha Garden (80 THB/$2 USD), erreichbar per Geländewagen durch Dschungelgelände.",
-      "whereToStay": "Koh Samui bietet Unterkünfte für jedes Budget mit vielfältigen Vierteln, die jeweils eigene Erlebnisse bieten. Die Strandgebiete verlangen Premiumpreise — Chaweng bietet Nähe zum Nachtleben und Restaurants (2.500-6.000 THB/$75-180 pro Nacht für Mittelklasse- bis Boutique-Hotels), während der ruhigere Lamai Beach Entspannung nahe den markanten Hin Ta und Hin Yai Felsformationen bietet. Bophuts Fisherman's Village verbindet kulturellen Charme mit gehobenen Annehmlichkeiten und spricht Reisende an, die authentische Erlebnisse mit modernem Komfort suchen. Maenam Beach bietet die erschwinglichsten Optionen der Insel mit traditioneller Fischerdorf-Atmosphäre und Blick auf Koh Phangan. Für Langzeitaufenthalte und digitale Nomaden bieten monatliche Hausvermietungen außergewöhnliches Preis-Leistungs-Verhältnis: einfache thailändische Häuser beginnen bei 12.000-18.000 THB/Monat, moderne Mittelklassehäuser kosten 20.000-30.000 THB/Monat mit Klimaanlage und WLAN, und luxuriöse Poolvillen erreichen 35.000-40.000+ THB/Monat. Hostels und Budget-Gästehäuser kosten 250-500 THB für Schlafsäle und 600-1.200 THB für einfache Doppelzimmer, was Samui für Rucksackreisende zugänglich macht und gleichzeitig luxuriöse Villaerlebnisse für Genießer bietet.",
-      "gettingAround": "Koh Samui bietet mehrere Transportmöglichkeiten zur Erkundung der Inselattraktionen. Tuk-Tuks bleiben die ikonischste Wahl für kurze Strecken innerhalb von Stränden und Ortschaften, wobei die Preise vorher ausgehandelt werden sollten (typischerweise 100-300 THB für Kurzfahrten). Songthaews (geteilte rote Trucks) fahren feste Routen zwischen Hauptgebieten wie Chaweng, Lamai und Bophut für 20-50 THB pro Person, ideal für Budgetreisende. Für mehr Unabhängigkeit kostet Motorrollerverleih 150-300 THB täglich und bietet Flexibilität, Strände und Attraktionen im Inselinneren zu erkunden, wobei ein internationaler Führerschein empfohlen wird. Die Grab-App funktioniert auf Koh Samui und bietet Motorrad- und Autofahrten mit transparenter Preisgestaltung, was Feilschen überflüssig macht und Sicherheit durch GPS-Tracking bietet. Auto- oder ATV-Verleih kostet 500-1.000 THB täglich und eignet sich für Reisende, die mehrere Strände besuchen möchten, insbesondere für den Secret Buddha Garden, der Geländewagen-Zugang erfordert.",
-      "bestTimeToVisit": "Das ideale Reisefenster für Koh Samui ist November bis Februar, wenn trockenes Wetter, sanfte Brisen und ruhige See perfekte Bedingungen für Strandaktivitäten und Inselhopping-Ausflüge zum Ang Thong Marine Park schaffen. Dezember und Januar sind Hochsaison mit reichlich Sonnenschein, Temperaturen um 28-30°C und minimalem Niederschlag, wobei Unterkünfte schnell ausgebucht sind und die Preise steigen. Februar verlängert dieses ausgezeichnete Wetterfenster mit etwas weniger Andrang bei anhaltend trockenen Bedingungen. März bis Mai bringt heiße, feuchte Bedingungen mit Temperaturen über 33°C und gelegentlichen Nachmittagsschauern, was Strandtage weniger angenehm macht, aber die Touristenzahlen deutlich reduziert. Der Südwestmonsun von Mai bis Oktober bringt starken Regen, unruhige See und erhöhte Luftfeuchtigkeit; obwohl einige regenresistente Reisende diese Monate wegen niedrigerer Preise und weniger Andrang besuchen, werden Wassersport riskant und die Sicht beim Schnorcheln verschlechtert sich erheblich. Meiden Sie September und Oktober vollständig, wenn die Niederschläge ihren Höhepunkt erreichen und Taifunrisiken zunehmen, was Inselbesuche gefährlich macht.",
-      "safetyTips": "Koh Samui ist generell sicher für Touristen, wobei Standard-Vorsichtsmaßnahmen gelten: Vermeiden Sie es, spätabends allein in Chawengs Ausgehvierteln zu gehen, wo Diebstahl und das Manipulieren von Getränken gelegentlich vorkommen, bewahren Sie Wertgegenstände im Hotelsafe statt am Strand auf, und seien Sie vorsichtig beim Rollerverleih — tragen Sie Helme (gesetzlich vorgeschrieben), fahren Sie defensiv auf den schmalen Inselstraßen und vermeiden Sie Fahren unter Alkoholeinfluss. Wassersicherheit erfordert Aufmerksamkeit während der Monsunmonate (Mai-Oktober), wenn starke Strömungen und raue See das Schwimmen gefährlich machen, besonders an exponierten Stränden. Nutzen Sie ausgewiesene Schwimmbereiche an belebten Stränden, wo Rettungsschwimmer im Einsatz sind. Taschendiebstahl kommt in überfüllten Gebieten und an Stränden vor; sichern Sie Taschen beim Schwimmen und vermeiden Sie es, teuren Schmuck, Kameras oder große Bargeldbeträge zu zeigen. Verkehrsunfälle stellen die größte Gefahr dar; thailändische Fahrer ignorieren manchmal Verkehrsregeln, daher äußerste Vorsicht beim Überqueren von Straßen oder Rollerfahren. Respektieren Sie lokale Bräuche, indem Sie die thailändische Königsfamilie nicht respektlos behandeln und an Tempeln achtsam sind — kleiden Sie sich bescheiden und ziehen Sie Schuhe aus, wenn Sie religiöse Räume betreten.",
-      "translated_at": "2026-03-10T00:00:00.000Z"
-    },
-    "zh": {
-      "enhanced_description": "当飞机低掠过泰国湾，苏梅岛在下方显现——一颗被白沙和碧水环绕的翠绿宝石——你便知道这座岛屿非同寻常。我降落在迷人的露天苏梅机场，航站楼其实是一片被热带花园环绕的茅草屋顶凉亭群，一下飞机就感觉生活节奏骤然变慢。一辆双条车载着我沿海岸公路颠簸驶向查汶，一路经过摇曳的椰子树和路边卖鲜椰冰淇淋（40泰铢）的小摊。温暖的咸风从敞开的车窗灌进来，像是回家的欢迎。\n\n查汶海滩是大多数游客的起点，理由充分。三公里长的细软白沙缓缓没入泰国湾，风平浪静的日子里水清得能看到齐腰深处自己的双脚。我常在清晨沿查汶北端散步，那里人潮在Chaweng Noi渐渐稀少，在一个叫Jungle Club观景台的小泰式咖啡摊停下来喝杯冰美式，配上一个仿佛从明信片里偷出来的全景。傍晚时分，查汶的Green Mango巷酒吧音乐轰鸣，但我更喜欢Ark Bar附近安静的一段——脚趾埋在沙子里，看火舞者在落日余晖中起舞。\n\n岛上的精神中心是Wat Phra Yai，人人称之为大佛寺。我在旅游大巴到来之前的清晨抵达，登上两侧有那伽蛇守护的宽阔台阶，橙色袈裟的僧侣正在打扫寺院。12米高的金色大佛端坐在与东北海岸相连的小岛上，从平台可以眺望帕岸岛。一位年迈的僧侣示意我坐下，我们面朝大海共享了几分钟的静默——没有言语，只有存在。台阶下方的一圈市场摊位卖着护身符、手工肥皂，以及我在岛上吃到的最好吃的咖喱鸡煎饼（roti mataba），一位笑容灿烂的大姐告诉我她已在此卖了二十年。\n\n有一天我从卜蜂渔村租了一条长尾船去探索安通海洋国家公园。42座从翡翠色海面上拔地而起的石灰岩岛屿令人震撼——陡峭的丛林悬崖、隐蔽的咸水湖泊、只有皮划艇才能到达的沙滩。我们在Koh Mae Ko锚泊，我攀上通往翡翠湖观景点的陡峭小路，气喘吁吁、汗流浃背，但翠绿的泻湖被丛林覆盖的喀斯特石塔环绕的景象，让每一步都值得。回到船上，船长打开一个装满新鲜菠萝的冷藏箱，我们在寂静中吃着水果，唯一的声响是海水轻拍船舷。\n\n卜蜂的渔人村成了我最爱的夜间仪式。每个周五傍晚，狭窄的街道变成步行市集，当地家庭摆起摊位卖烤虾、青木瓜沙拉和椰子薄饼。我和一位叫Khun Noi的摊主成了朋友，她做的打抛肉炒得出神入化——神圣罗勒的辛辣冲击打通了我的鼻窍，让我立刻点了第二盘。市场摊位之间的精品小店出售手工珠宝和泰丝，小舞台上有现场乐队演奏。这里的氛围与查汶震耳欲聋的夜店截然不同——轻松、温馨、真正属于当地人。\n\n苏梅岛回馈那些走出主海滩的人。我租了辆摩托车沿环岛公路南行至拉迈海滩，奇异的阿公石和阿妈石从海岸伸出；继续前行到安静的利帕诺伊海岸，一个下午整片海滩只有我一个人。岛内丘陵中，纳蒙瀑布倾泻入被丛林环绕的天然泳池，岛上最高峰的秘密佛园隐藏着数十尊散落在苔藓和蕨类间的石雕。日落时分我把车停在岛屿南端的Laem Sor金塔旁，看天空从金色变幻到紫色，四周只有蟋蟀的鸣叫相伴。苏梅岛是一座能给你想要的任何体验的岛——狂野或奢华，喧嚣或宁静——而且永远、永远美丽。",
-      "overview": "苏梅岛是泰国第二大岛屿，坐落在素叻他尼府的泰国湾中，是一座热带天堂。岛上约63,000人口，已发展成为自然之美与奢华旅游的精致融合体，以棕榈树环绕的海滩、世界级度假村和大佛寺等标志性景点闻名。从充满活力的3公里长查汶海滩及其热闹夜生活，到宁静的卜蜂渔人村，苏梅岛为各类旅行者提供多元体验。这座岛屿还是探访拥有42座岛屿的安通海洋公园的门户，非常适合皮划艇和浮潜，同时保留着纳蒙瀑布和独特的秘密佛园等原始自然景观。",
-      "thingsToDo": "苏梅岛的景点涵盖文化地标、自然奇观和水上活动。标志性的大佛寺（Wat Phra Yai）拥有12米高的金色大佛和壮阔海景，配以精美的那伽阶梯——免费参观，建议清晨前往。查汶海滩仍是岛上最受欢迎的目的地，3公里白沙滩提供水上运动、海滩餐饮和夜间娱乐。自然爱好者可前往安通海洋国家公园（门票300 THB/$9 USD），42座岛屿上有著名的翡翠湖观景台和绝佳的皮划艇体验。文化探索可继续到Wat Plai Laem，标志性的18臂观音像矗立在湖畔；冒险者可徒步前往纳蒙瀑布的天然泳池（100 THB/$3 USD），或参观苏梅大象庇护所（2,500 THB/$72 USD）进行合乎伦理的野生动物互动。别错过周五晚间的卜蜂渔人村步行市集，那里有古老的中式店屋和海边美食，还有隐藏在丛林中需四驱车才能到达的秘密佛园（80 THB/$2 USD）。",
-      "whereToStay": "苏梅岛各价位住宿齐全，不同区域提供各具特色的体验。海滩区域价格较高——查汶靠近夜生活和餐厅（中档至精品酒店2,500-6,000 THB/$75-180/晚），较安静的拉迈海滩则在阿公阿妈石附近提供休闲氛围。卜蜂渔人村将文化魅力与高端设施相融合，吸引追求正宗体验与现代舒适兼得的旅客。湄南海滩提供岛上最实惠的选择，传统渔村氛围加上对望帕岸岛的景致。长期住客和数字游民可选择月租房，性价比极高：基础泰式房屋12,000-18,000 THB/月起，中档现代住宅20,000-30,000 THB/月含空调和WiFi，豪华泳池别墅35,000-40,000+ THB/月。背包客旅舍和经济客栈合铺250-500 THB，简易双人间600-1,200 THB，让苏梅对背包客友好的同时也能为追求享受的旅客提供奢华别墅体验。",
-      "gettingAround": "苏梅岛有多种交通方式可供选择。突突车是海滩和村落间短途出行最具标志性的选择，但需提前议价（短途通常100-300 THB）。双条车（红色共乘货车）在查汶、拉迈和卜蜂等主要区域间沿固定路线运行，每人20-50 THB，非常适合预算旅客。追求自由的旅客可租摩托车（150-300 THB/天），灵活探索海滩和内陆景点，建议持国际驾照。Grab打车软件在苏梅可用，提供摩托和汽车服务，价格透明，免去砍价麻烦并通过GPS追踪保障安全。租车或ATV每天500-1,000 THB，适合想探访多个海滩的旅客，前往秘密佛园尤其需要四驱车。",
-      "bestTimeToVisit": "苏梅岛的理想旅行窗口是11月至2月，干燥天气、温和海风和平静海面为海滩活动和安通海洋公园跳岛游创造了完美条件。12月和1月是旺季，阳光充沛，气温约28-30°C，降雨极少，但住宿预订火爆且价格上涨。2月延续了这一绝佳天气窗口，人流略少而干燥条件持续。3月至5月炎热潮湿，气温超过33°C，偶有午后阵雨，海滩日不太舒适但游客数量明显减少。5月至10月的西南季风季节带来暴雨、波涛汹涌和高湿度；虽然部分不惧风雨的旅客会为更低价格和更少人潮在这些月份前来，但水上运动变得危险，浮潜能见度大幅下降。9月和10月应完全避免，此时降雨达峰值且台风风险增加，令出岛活动变得危险。",
-      "safetyTips": "苏梅岛对游客总体安全，但需注意常规防范：避免深夜独自在查汶娱乐区行走，那里偶有盗窃和饮品下药事件；贵重物品存入酒店保险箱而非留在海滩上；摩托车租赁需谨慎——佩戴头盔（法律强制要求），在狭窄的岛屿道路上防御性驾驶，切勿酒后驾车。季风月份（5月至10月）需注意水上安全，强劲水流和波涛汹涌使游泳变得危险，尤其在无遮蔽的海滩。请在有救生员值守的繁忙海滩指定游泳区域下水。小偷小摸在人流密集区域和海滩上时有发生，游泳时看管好随身包袋，避免展示昂贵首饰、相机或大量现金。交通事故是最主要的风险，泰国司机有时无视交通规则，过马路或骑摩托车时需格外小心。尊重当地风俗，不要对泰国皇室不敬，进入寺庙时穿着得体并脱鞋。",
-      "translated_at": "2026-03-11T00:00:00.000Z"
-    },
-    "ru": {
-      "enhanced_description": "В тот момент, когда самолёт снижается над Сиамским заливом и внизу появляется Ко Самуи — пышный зелёный драгоценный камень, обрамлённый белым песком и бирюзовой водой — вы понимаете, что этот остров особенный. Я приземлился в очаровательном аэропорту Самуи под открытым небом, где терминал — это коллекция павильонов с соломенными крышами среди тропических садов, и сразу почувствовал, как ритм жизни сменился. Сонгтэо протрясло меня по прибрежной дороге до Чавенга мимо раскачивающихся кокосовых пальм и придорожных лотков с кокосовым мороженым за 40 бат. Тёплый солоноватый бриз через открытые окна ощущался как возвращение домой.\n\nПляж Чавенг — отправная точка для большинства гостей, и не зря. Трёхкилометровая полоса мельчайшего песка плавно уходит в залив, и в спокойные дни вода настолько прозрачна, что видно ступни по пояс. По утрам я гулял по северной части Чавенга, где толпы редеют у Чавенг Ной, заходя в маленькую тайскую кофейню Jungle Club с айс-американо и панорамным видом как с открытки. Вечерами Сой Грин Манго пульсирует музыкой из баров, но я предпочитал тихий участок у Ark Bar, где можно сидеть с ногами в песке и смотреть на танцоров с огнём на фоне заката.\n\nДуховное сердце острова — Ват Пхра Яй, известный всем как Храм Большого Будды. Я пришёл ранним утром до туристических автобусов, поднимаясь по широкой лестнице с нагами, пока монахи в шафрановых одеждах подметали территорию. 12-метровый золотой Будда безмятежно сидит на маленьком островке у северо-восточного побережья, и с площадки виден Ко Пханган. Пожилой монах жестом пригласил меня сесть, и мы разделили несколько минут тишины, глядя на воду — без слов, просто присутствие. У подножия кольцо рыночных прилавков с амулетами и мылом ручной работы, и лучший роти матаба на острове — с куриным карри от улыбчивой женщины, стоявшей здесь двадцать лет.\n\nОднажды я нанял лонгтейл в рыбацкой деревне Бопхут для исследования Национального морского парка Анг Тхонг. Архипелаг из 42 известняковых островов, поднимающихся из изумрудного моря, поражает — отвесные скалы в джунглях, скрытые солёные лагуны и пляжи, доступные только на каяке. Мы бросили якорь у Ко Мэ Ко, и я поднялся по крутой тропе к смотровой площадке с изумрудным озером — задыхаясь и промокнув от пота, но вид нефритового озера в кольце джунглевых карстов стоил каждого шага. На обратном пути капитан открыл ящик со свежим ананасом, и мы ели в тишине, слушая лишь плеск волн о борт.\n\nРыбацкая деревня Бопхут стала моим любимым вечерним ритуалом. Каждую пятницу узкая улица превращается в пешеходный рынок, где семьи расставляют прилавки с жареными креветками, сом тамом и кокосовыми блинчиками. Я подружился с продавщицей по имени Кхун Ной, которая делала необыкновенный пад крапао — стир-фрай с базиликом такой огненной остроты, что прочищал пазухи и заставлял немедленно заказывать вторую порцию. Между прилавками бутики продают украшения и тайский шёлк, живые группы играют на маленьких сценах. Атмосфера — мир иной по сравнению с грохочущими клубами Чавенга: расслабленная, семейная и по-настоящему местная.\n\nКо Самуи вознаграждает тех, кто выбирается за пределы основных пляжей. Я арендовал скутер и проехал по кольцевой дороге на юг до пляжа Ламай с причудливыми скальными формациями Хин Та и Хин Яй, затем до тихого побережья Липа Ной, где целый пляж был в моём распоряжении весь день. В холмистом центре острова водопады На Муанг низвергаются в природные бассейны среди джунглей, а Тайный сад Будды на высочайшей точке острова прячет десятки каменных скульптур среди мха и папоротников. На закате я остановился у пагоды Лаем Сор — золотой чеди на южной оконечности — и наблюдал, как небо превращается из золота в фиолет под аккомпанемент одних лишь цикад. Ко Самуи — остров, дающий именно тот опыт, который вы ищете — дикий или роскошный, буйный или безмятежный — и всегда, всегда прекрасный.",
-      "overview": "Ко Самуи — второй по величине остров Таиланда, тропический рай в Сиамском заливе в провинции Сураттхани. С населением около 63 000 человек остров превратился в утончённое сочетание природной красоты и люксового туризма, знаменитый пальмовыми пляжами, курортами мирового класса и культовыми достопримечательностями, такими как Храм Большого Будды. От оживлённого 3-километрового пляжа Чавенг с его ночной жизнью до безмятежной Рыбацкой деревни в Бопхут — Ко Самуи предлагает разнообразные впечатления для любого путешественника. Остров служит воротами в Морской парк Анг Тхонг с 42 островами для каякинга и снорклинга, сохраняя нетронутые природные достопримечательности, такие как водопад На Муанг и уникальный Тайный сад Будды.",
-      "thingsToDo": "Достопримечательности Ко Самуи охватывают культуру, природу и водные развлечения. Культовый Храм Большого Будды (Ват Пхра Яй) с 12-метровой золотой статуей и панорамными видами — бесплатно, лучше посещать рано утром. Пляж Чавенг — главное направление с 3 км белого песка, водными видами спорта и вечерними развлечениями. Национальный морской парк Анг Тхонг (300 THB/$9) — 42 острова с изумрудным озером и каякингом. Ват Плай Лаем с 18-рукой статуей Гуаньинь. Водопад На Муанг (100 THB/$3) с природными бассейнами. Elephant Sanctuary Samui (2 500 THB/$72) — этичное общение со слонами. Пятничный ночной рынок Рыбацкой деревни Бопхут. Тайный сад Будды (80 THB/$2) среди джунглей.",
-      "whereToStay": "Ко Самуи предлагает размещение на любой бюджет. Пляжные зоны — премиальные цены: Чавенг с близостью к ночной жизни (2 500-6 000 THB/$75-180 за ночь), тихий Ламай у скал Хин Та Хин Яй. Рыбацкая деревня Бопхут сочетает культурный шарм с современным комфортом. Маенам — самые доступные цены с видами на Ко Пханган. Для длительного проживания — аренда домов от 12 000 THB/месяц. Хостелы и бюджетные гестхаусы — 250-500 THB за койку, 600-1 200 THB за номер. Люксовые курорты — Four Seasons ($250-450/ночь), Centara Reserve ($180-350/ночь) и Anantara Bophut ($200-350/ночь).",
-      "gettingAround": "На Ко Самуи несколько вариантов транспорта. Тук-туки — для коротких расстояний, цену нужно оговаривать заранее (обычно 100-300 THB). Сонгтэо (общие красные грузовички) курсируют по фиксированным маршрутам между Чавенгом, Ламай и Бопхутом за 20-50 THB — идеально для бюджетных путешественников. Аренда мотоцикла (150-300 THB/день) обеспечивает свободу исследования пляжей и центра острова, но рекомендуется международное водительское удостоверение. Grab доступен на острове с прозрачными ценами и GPS-отслеживанием. Аренда автомобиля или квадроцикла — 500-1 000 THB/день, особенно для поездки в Тайный сад Будды, куда нужен полный привод.",
-      "bestTimeToVisit": "Идеальный сезон для Ко Самуи — с ноября по февраль: сухая погода, лёгкий бриз и спокойное море — отличные условия для пляжного отдыха и островных экскурсий в Анг Тхонг. Декабрь и январь — пик сезона с обильным солнцем и температурой 28-30°C, но жильё бронируется быстро и цены растут. Февраль — похожая погода с меньшим количеством туристов. С марта по май — жарко и влажно, выше 33°C, с редкими послеобеденными ливнями. Юго-западный муссон (май-октябрь) приносит сильные дожди и бурное море. Полностью избегайте сентябрь и октябрь — пик дождей и риск тайфунов.",
-      "safetyTips": "Ко Самуи в целом безопасен для туристов. Стандартные меры предосторожности: избегайте одиночных прогулок поздно ночью в районе ночной жизни Чавенга, где случаются кражи и подсыпание в напитки. Храните ценности в сейфе отеля, а не на пляже. При аренде мотоцикла — носите шлем (обязательно по закону), ездите оборонительно по узким островным дорогам, не садитесь за руль в нетрезвом виде. Безопасность на воде важна в сезон муссонов (май-октябрь): сильные течения и бурное море делают купание опасным. Купайтесь только в отведённых зонах с спасателями. Мелкие кражи случаются на пляжах и в многолюдных местах. ДТП — главная опасность; будьте крайне осторожны на дорогах. Уважайте местные обычаи: одевайтесь скромно в храмах, снимайте обувь.",
-      "translated_at": "2026-03-11T00:00:00.000Z"
-    },
-    "ko": {
-      "enhanced_description": "코사무이는 태국 걸프만에 위치한 태국에서 두 번째로 큰 섬으로, 방콕에서 비행기로 약 1시간 거리에 있습니다. 1970년대까지 배낭여행자들의 숨겨진 보석이었던 이 섬은 이제 세계적인 리조트 섬으로 발전했지만, 여전히 열대 섬의 매력을 간직하고 있습니다.\n\n차웽 해변은 가장 유명한 해변으로 활기찬 나이트라이프와 워터스포츠를 즐길 수 있고, 라마이 해변은 좀 더 여유로운 분위기를 원하는 여행자에게 적합합니다. 빅 부다 사원은 12미터 높이의 황금 좌불상이 인상적이며, 섬의 상징적인 랜드마크입니다.\n\n코사무이의 진정한 매력은 다양성에 있습니다. 럭셔리 풀빌라에서의 프라이빗한 휴식부터, 보풋 피셔맨스 빌리지에서의 현지 문화 체험, 앙통 국립해양공원으로의 아일랜드 호핑까지 — 모든 취향의 여행자를 만족시킵니다. 시크릿 부다 가든으로 이어지는 정글 트레킹은 섬의 또 다른 매력을 발견하게 해줍니다.",
-      "hidden_gems": [
-        {
-          "name": "시크릿 부다 가든",
-          "description": "정글 깊숙이 숨겨진 신비로운 조각 정원으로, 4WD로만 접근 가능합니다."
-        },
-        {
-          "name": "리파노이 해변",
-          "description": "관광객이 적은 서쪽의 조용한 해변으로, 일몰이 아름답습니다."
-        },
-        {
-          "name": "힌랏 폭포 사원",
-          "description": "정글 속 폭포와 사원이 어우러진 명상의 공간입니다."
-        },
-        {
-          "name": "보풋 올드 스트리트 카페",
-          "description": "피셔맨스 빌리지의 아기자기한 카페 골목입니다."
-        },
-        {
-          "name": "램소르 파고다",
-          "description": "섬 남쪽 끝의 평화로운 황금 파고다입니다."
-        }
-      ],
-      "authentic_experiences": [],
-      "foodie_adventures": [],
-      "overview": "코사무이는 태국에서 두 번째로 큰 섬으로, 걸프만에 위치한 열대 낙원입니다. 야자수가 늘어선 해변, 럭셔리 리조트, 빅 부다 사원이 유명하며, 앙통 국립해양공원으로의 아일랜드 호핑 출발지이기도 합니다.",
-      "thingsToDo": "코사무이의 명소는 문화 랜드마크, 자연 경관, 수상 액티비티를 아우릅니다. 빅 부다 사원 방문, 앙통 해양공원 아일랜드 호핑, 시크릿 부다 가든 트레킹, 보풋 피셔맨스 빌리지 산책, 그리고 차웽 해변에서의 워터스포츠를 즐기세요.",
-      "whereToStay": "코사무이는 모든 예산에 맞는 다양한 숙소를 제공합니다. 차웽은 가장 활기찬 지역으로 나이트라이프에 적합하고, 라마이는 좀 더 조용하며, 보풋은 가족 여행에 이상적입니다. 북쪽 해변의 럭셔리 풀빌라도 인기입니다.",
-      "gettingAround": "코사무이는 다양한 교통수단으로 섬을 탐험할 수 있습니다. 오토바이 대여(200-300바트/일), 택시, 송태우가 주요 수단이며, Grab 앱도 사용 가능합니다. 해안 도로를 따라 섬을 일주할 수 있습니다.",
-      "bestTimeToVisit": "코사무이의 최적 방문 시기는 11월부터 2월까지로, 건조하고 쾌적한 날씨가 이어집니다. 걸프만 기후 특성상 서쪽 해안(푸켓 등)과 우기 시기가 다르므로, 10-11월에 폭우가 올 수 있습니다.",
-      "safetyTips": "코사무이는 대체로 안전한 여행지입니다. 오토바이 대여 시 헬멧 착용과 국제 면허증을 확인하세요. 해변에서 소지품을 관리하고, 보트 투어 시 안전 장비를 확인하세요. 우기에는 해류에 주의가 필요합니다.",
-      "translated_at": "2026-03-14T00:00:00.000Z"
-    }
-  },
-  "extended_description": "## Overview\nKoh Samui is Thailand’s second-largest island, a coconut-palm-covered oval in the Gulf of Thailand that somehow manages to serve both the backpacker on a shoestring and the honeymooner in a private pool villa. Unlike Phuket’s urbanized sprawl, Samui has retained pockets of genuine island charm — fishing villages where longtail boats still launch at dawn, interior hills thick with jungle, and a ring road that passes temples, waterfalls, and viewpoints between the beach towns. The island is the gateway to the Ang Thong Marine Park and the Full Moon Party on neighboring Koh Phangan, but it stands perfectly well on its own with world-class diving, a booming wellness scene, and sunsets over Fisherman’s Village that rival anywhere in Southeast Asia. With its own international airport, Koh Samui is one of the easiest Thai islands to reach.\n\n## Best Time to Visit\nDecember to April is the dry season with calm seas, blue skies, and temperatures around 26–32°C — perfect for beach days and island hopping. January and February are the driest months and peak tourist season, meaning higher hotel prices and busier beaches. Koh Samui’s monsoon pattern differs from the Andaman coast: the heaviest rains fall October to December, with November being the wettest month when flooding can occasionally affect low-lying roads. May to September is a pleasant shoulder season — brief afternoon showers, fewer tourists, and hotel rates drop 30–50%. The Gulf is warmest from April to June, making it ideal for snorkeling and diving.\n\n## How to Get There\nKoh Samui Airport (USM) is operated by Bangkok Airways, which keeps ticket prices higher than mainland airports — expect 2,500–5,000 THB one-way from Bangkok (1 hour). The budget alternative is to fly to Surat Thani Airport (URT) on AirAsia or Nok Air (800–1,800 THB) and take a combined bus-and-ferry transfer (2–3 hours, 350–500 THB). From Bangkok by land, overnight buses to Surat Thani cost 500–700 THB (10 hours), plus a ferry (130–250 THB, 1.5 hours). Lomprayah and Seatran operate high-speed catamarans from Surat Thani’s Donsak Pier. The sleeper train from Bangkok to Surat Thani (600–1,500 THB, 10–12 hours) is a classic route, with ferry connections timed to morning arrivals. From Koh Phangan or Koh Tao, direct ferries run multiple times daily (200–600 THB).\n\n## Where to Stay\nChaweng Beach is the island’s busiest strip with everything from 400 THB backpacker rooms to 15,000+ THB luxury resorts, plus the densest nightlife. Lamai Beach is slightly quieter with a good mix of mid-range hotels (800–2,500 THB) and excellent restaurants. Maenam Beach on the north coast is the budget traveler’s favorite — simple bungalows from 400–800 THB, a laid-back vibe, and easy ferry access to Koh Phangan. Bophut’s Fisherman’s Village is the most charming area, with boutique hotels (1,500–4,000 THB), Friday Walking Street, and waterfront dining. For total seclusion, the south coast around Lipa Noi and Taling Ngam has luxury pool villas (5,000–20,000 THB) with private sunset views.\n\n## What to Do\nThe Big Buddha (Wat Phra Yai) sits on a small connected island at the northeast tip — the 12-meter golden statue is free to visit and best photographed in morning light. Nearby Wat Plai Laem features a striking 18-armed Guanyin statue surrounded by a fish-filled lake. Ang Thong Marine Park (day trip by speedboat, 1,500–2,500 THB) is a jaw-dropping archipelago of 42 limestone islands with emerald lagoons, viewpoint hikes, and kayaking. Na Muang Waterfalls (two cascades, free entry) offer jungle swimming pools accessible by a short hike. For diving, Sail Rock between Samui and Koh Tao is one of the Gulf’s best sites (3,500–4,500 THB for two dives). The island has a growing wellness scene — Kamalaya and Samahita are world-renowned retreat centers, but affordable Thai massage starts at 300 THB on every beach.\n\n## Food & Dining\nFisherman’s Village in Bophut hosts a Friday Walking Street with dozens of food stalls selling seafood, Thai curries, and coconut ice cream (30–80 THB per item). Lamai Night Market (open nightly) is the best value for authentic Thai food on the island: pad thai (50–70 THB), massaman curry with rice (60–80 THB), and fresh seafood barbecue (100–200 THB per plate). Chaweng’s restaurant strip is more tourist-oriented with higher prices (200–500 THB per dish), but spots like The Hut Cafe serve excellent Thai food at fair prices. For a splurge, beachfront seafood restaurants in Bophut serve whole grilled snapper or prawns for 300–600 THB. Do not miss coconut ice cream from beach vendors (40–60 THB) — Samui’s coconuts are the best in Thailand.\n\n## Budget Guide\nKoh Samui is pricier than mainland Thailand but manageable on a budget. Backpackers spend 800–1,200 THB/day ($22–33): basic bungalow at Maenam (400–600 THB), market meals (200–300 THB), songthaew transport (50–100 THB). Mid-range travelers spend 2,500–5,000 THB/day ($69–139): beachfront hotel, restaurant dining, one boat trip. Scooter rental (200–350 THB/day) is the standard way to get around — the ring road is 51 km and easy to navigate. Taxis on Samui are notoriously expensive (300–500 THB for short rides) with no meters, so always negotiate or use the Samui Bus app. Shared songthaews along the ring road cost 50–100 THB.\n\n## Safety & Tips\nKoh Samui is generally safe but scooter accidents are the biggest risk — always wear a helmet, check brakes before renting, and carry your international driving permit. The ring road has blind curves and speeding trucks. Rip currents occur at Chaweng and Lamai during monsoon season (October–December) — heed red-flag warnings. Jellyfish (box jellyfish) can appear October through January; vinegar stations are set up on major beaches. Book Ang Thong Marine Park trips through reputable operators — cheap tours may skimp on safety equipment. If attending a Full Moon Party on Koh Phangan, take the ferry over and back (last ferry around midnight) or book accommodation on the island. Keep valuables in your hotel safe, not on the beach.",
-  "getting_there": {
-    "from_bangkok": {
-      "flight": "1 hour direct to Samui (USM), 2,500-5,000 THB (Bangkok Airways); or fly to Surat Thani (URT) 800-1,800 THB + bus/ferry 350-500 THB",
-      "bus_ferry": "10 hours bus to Surat Thani (500-700 THB) + 1.5 hour ferry (130-250 THB)",
-      "train_ferry": "10-12 hours sleeper train to Surat Thani (600-1,500 THB) + ferry"
-    },
-    "from_koh_phangan": {
-      "ferry": "30 min - 1 hour, 200-400 THB (Lomprayah, Seatran)"
-    },
-    "airport": "Samui Airport (USM) — Bangkok Airways hub"
-  },
-  "best_time": {
-    "peak": "Dec-Apr",
-    "shoulder": "May-Sep",
-    "low": "Oct-Dec (monsoon)",
-    "avoid": "November (heaviest rainfall, possible flooding)",
-    "best_months": "Jan-Mar",
-    "why": "Driest months with calm seas, ideal for beaches and Ang Thong Marine Park trips."
-  },
-  "budget": {
-    "backpacker": "$22-33/day",
-    "mid_range": "$69-139/day",
-    "luxury": "$200+/day",
-    "typical_meal": "50-80 THB street food, 150-400 THB restaurant"
-  },
-  "neighborhoods": [
-    {
-      "name": "Chaweng Beach",
-      "vibe": "Busy main strip, nightlife, shopping, widest beach",
-      "best_for": "First-timers, nightlife seekers, solo travelers",
-      "price_range": "400-15,000 THB/night"
-    },
-    {
-      "name": "Lamai Beach",
-      "vibe": "Slightly quieter than Chaweng, good restaurants, rocky south end",
-      "best_for": "Couples, mid-range travelers",
-      "price_range": "600-4,000 THB/night"
-    },
-    {
-      "name": "Maenam Beach",
-      "vibe": "Laid-back, budget bungalows, easy ferry to Koh Phangan",
-      "best_for": "Backpackers, long-stay travelers",
-      "price_range": "400-1,500 THB/night"
-    },
-    {
-      "name": "Bophut / Fisherman’s Village",
-      "vibe": "Charming, boutique hotels, Friday Walking Street, waterfront dining",
-      "best_for": "Couples, families, foodies",
-      "price_range": "1,500-6,000 THB/night"
-    },
-    {
-      "name": "South Coast (Lipa Noi / Taling Ngam)",
-      "vibe": "Secluded, luxury villas, best sunsets on the island",
-      "best_for": "Luxury travelers, honeymoons",
-      "price_range": "5,000-20,000 THB/night"
-    }
-  ],
-  "must_try_food": [
-    "Whole grilled snapper at a Bophut beachfront restaurant — fresh catch served with spicy seafood sauce (300-500 THB)",
-    "Coconut ice cream from beach vendors — Samui coconuts are the best in Thailand (40-60 THB)",
-    "Massaman curry with rice at Lamai Night Market — rich, creamy southern Thai classic (60-80 THB)"
-  ],
-  "local_tips": [
-    "Rent a scooter (200-350 THB/day) — the 51 km ring road is easy to navigate and taxis are overpriced",
-    "Visit Big Buddha and Wat Plai Laem together in the morning — they are 5 minutes apart and best in soft light",
-    "Book Ang Thong Marine Park trips at least a day ahead in peak season — boats fill up fast",
-    "Fisherman’s Village Friday Walking Street starts at 5pm — arrive early for the best food stall selection",
-    "If heading to a Full Moon Party on Koh Phangan, book a round-trip ferry ticket in advance and arrange accommodation — the last ferry back is around midnight"
-  ],
-  "day_trips": [
-    "Ang Thong Marine Park (boat day trip) — 42 limestone islands, emerald lagoon, kayaking, viewpoint hikes (1,500-2,500 THB)",
-    "Koh Phangan (30 min ferry) — Full Moon Party, Bottle Beach, Thong Nai Pan for quieter vibes",
-    "Koh Tao (2 hour ferry) — world-class budget diving and snorkeling",
-    "Sail Rock (speedboat trip) — the Gulf’s best dive site between Samui and Koh Tao (3,500-4,500 THB for 2 dives)"
-  ],
-  "enriched_at": "2026-03-22"
+  "reviewed_by": "Go2Thailand Editorial Team",
+  "enhanced_at": "2026-03-26T00:00:00.000Z",
+  "enrichedAt": "2026-03-26T00:00:00.000Z",
+  "factchecked_at": "2026-03-26T00:00:00.000Z"
 }

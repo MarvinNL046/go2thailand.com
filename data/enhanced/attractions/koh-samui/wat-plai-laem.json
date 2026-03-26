@@ -1,0 +1,82 @@
+{
+  "id": 5,
+  "slug": "wat-plai-laem",
+  "name": {
+    "en": "Wat Plai Laem",
+    "nl": "Wat Plai Laem"
+  },
+  "type": "temple",
+  "city_slug": "koh-samui",
+  "address": "Bo Put, Ko Samui District, Surat Thani 84320",
+  "location": {
+    "lat": 9.57195,
+    "lng": 100.05694
+  },
+  "opening_hours": "Active temple site; visit during daylight hours",
+  "entrance_fee": {
+    "thb": 0,
+    "usd": 0
+  },
+  "description": {
+    "en": "A colorful lakeside temple that works best as the second stop in Samui's compact northeast temple route.",
+    "nl": "Een kleurrijke tempel aan het water die het best werkt als tweede stop in Samui's compacte tempelroute in het noordoosten."
+  },
+  "highlights": [
+    "Photogenic lakeside setting",
+    "Best paired with Big Buddha",
+    "Short easy detour"
+  ],
+  "image": "/images/cities/generated/koh-samui.webp",
+  "official_website": null,
+  "seo": {
+    "metaTitle": {
+      "en": "Wat Plai Laem Koh Samui | Go2Thailand",
+      "nl": "Wat Plai Laem Koh Samui | Go2Thailand"
+    },
+    "metaDescription": {
+      "en": "Why Wat Plai Laem is the right second stop after Big Buddha on Koh Samui's northeast temple loop.",
+      "nl": "Waarom Wat Plai Laem de juiste tweede stop is na de Big Buddha op Koh Samui's tempelroute in het noordoosten."
+    }
+  },
+  "tags": [
+    "temple",
+    "wat plai laem",
+    "koh samui",
+    "bophut",
+    "thailand"
+  ],
+  "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=Wat%20Plai%20Laem%20Koh%20Samui%20Thailand",
+  "best_time": "morning or late afternoon",
+  "duration_hours": 1.25,
+  "enhanced_description": "Wat Plai Laem earns its place because it completes Samui's best short temple circuit. On its own, it is a photogenic and worthwhile lakeside stop. In practice, though, it becomes most useful when it follows Big Buddha in the same outing. That pairing keeps the northeast side of the island compact, visually varied, and easy to understand.\n\nAnantara Bophut's official Samui experiences guide still describes Wat Plai Laem as a colorful temple by the water and highlights the Guanyin statue and Thai-Chinese artistry. That is exactly the right framing. This is not a temple you visit for sheer scale alone. It works because it offers visual contrast, calmer pacing, and an easy continuation after Samui's best-known landmark.",
+  "detailed_history": "Current official resort guide material for Samui continues to present Wat Plai Laem alongside Big Buddha rather than as a distant standalone errand. That is useful because it reflects how the site is best experienced on the ground: as part of a short northeast temple block instead of a separate full excursion.",
+  "visitor_experience": "Expect a visually striking temple setting around the water, with enough detail to reward a slower walk rather than a rushed photo stop. It is an active religious space, so the atmosphere works best when you give it a little time and approach it with the same respect you would give Big Buddha.",
+  "best_time_to_visit": {
+    "time_of_day": "Morning or late afternoon",
+    "duration": "About 1 hour",
+    "crowd_level": "Moderate, with quieter moments outside the hottest midday hours"
+  },
+  "practical_info": {
+    "how_to_get_there": "Reach it easily from Bophut, Choeng Mon, Chaweng, or from Big Buddha in the same short northeast route.",
+    "nearby_attractions": "Big Buddha, the northeast coast, and airport-side hotel zones.",
+    "food_options": "Better used as part of a temple circuit before or after a meal elsewhere.",
+    "shopping": "Limited and secondary; the point is the temple setting rather than retail."
+  },
+  "insider_tips": [
+    "Visit it after Big Buddha so the northeast temple outing stays compact.",
+    "Dress respectfully and slow down enough to notice the lakeside setting and temple detail.",
+    "This is stronger as a complementary stop than as a major standalone excursion."
+  ],
+  "verified_note": "Source-backed summary based on Anantara Bophut's official Samui experiences guide. On-site worship activity and any small local access restrictions can vary.",
+  "cultural_significance": "Wat Plai Laem adds a second, visually distinct temple layer to Koh Samui's northeast and helps keep the island's religious stops from collapsing into one repetitive visit.",
+  "contentSources": [
+    {
+      "name": "Anantara Bophut Koh Samui Experiences Guide 2025",
+      "url": "https://www.anantara.com/uploads/minor/anantara/documents/anantara-bophut-koh-samui-resort/leisure/2025/anantara_bophut_koh_samui_experiences_guide_2025.pdf"
+    },
+    {
+      "name": "Ko Samui - Surat Thani 4 Days",
+      "url": "https://www.tourismthailand.org/Trip-Planner/Suggestion-Detail/ko-samui-surat-thani-4-days"
+    }
+  ]
+}

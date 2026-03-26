@@ -1,218 +1,174 @@
 {
   "title": "Best Restaurants in Koh Samui Thailand (2026)",
-  "meta_description": "The 10 best restaurants in Koh Samui, Thailand with real ratings and guest reviews from tripadvisor. Updated 2026-03-08.",
-  "intro": "Discover the best restaurants in Koh Samui, Thailand. These recommendations are based on real guest reviews and ratings from tripadvisor.",
+  "meta_description": "The Koh Samui restaurants that actually matter: current MICHELIN-backed dining, one serious resort splurge, and the Bophut evening stop that keeps the island from feeling sealed off.",
+  "intro": "Koh Samui food gets weaker when every meal is chosen by proximity to the hotel. The island is stronger when you deliberately mix one serious destination dinner, one or two current MICHELIN-backed local meals, and one evening that belongs to Bophut rather than to resort convenience.",
   "items": [
     {
       "rank": 1,
-      "name": "Dara Serene Restaurant",
-      "description": "Dara Serene Restaurant is a 4.8-rated Seafood, International restaurant in Koh Samui. located at Chaweng.",
-      "location": "Chaweng",
-      "current_price": "$$ - $$$",
-      "highlights": [],
-      "insider_tips": [],
-      "current_info": "Cuisine: Seafood, International • Price: $$ - $$$ • Rating: 4.8/5 • 1.854 reviews",
-      "scraped": {
-        "source": "tripadvisor",
-        "cuisine": "Seafood, International",
-        "price_range": "$$ - $$$",
-        "rating": 4.8,
-        "review_count": 1854,
-        "address": "Chaweng",
-        "scraped_at": "2026-03-08T17:13:15.566Z"
-      },
-      "trip_affiliate_url": "https://tp.media/r?marker=602467&trs=421888&p=7631&u=https%3A%2F%2Fwww.trip.com%2Fhotels%2Flist%3Fkeyword%3DDara%2520Serene%2520Restaurant%2520Koh%2520Samui"
+      "name": "Koh Thai Kitchen",
+      "description": "One of Samui's clearest destination restaurants if you want a serious dinner rather than another interchangeable resort meal.",
+      "location": "Four Seasons Resort Koh Samui",
+      "current_price": "Upscale",
+      "highlights": [
+        "Current MICHELIN-recognized restaurant",
+        "Strong special-dinner anchor",
+        "Resort setting with real destination weight"
+      ],
+      "insider_tips": [
+        "Best used as the one planned splurge dinner rather than as a casual same-day fallback."
+      ],
+      "current_info": "A smart top-end choice when one polished Samui dinner should actually feel worth planning."
     },
     {
       "rank": 2,
-      "name": "Nahm Restaurant & Bar - Koh Samui",
-      "description": "Nahm Restaurant & Bar - Koh Samui is a 4.9-rated Seafood, Asian restaurant in Koh Samui. located at Bophut.",
-      "location": "Bophut",
-      "current_price": "$$ - $$$",
-      "highlights": [],
-      "insider_tips": [],
-      "current_info": "Cuisine: Seafood, Asian • Price: $$ - $$$ • Rating: 4.9/5 • 510 reviews",
-      "scraped": {
-        "source": "tripadvisor",
-        "cuisine": "Seafood, Asian",
-        "price_range": "$$ - $$$",
-        "rating": 4.9,
-        "review_count": 510,
-        "address": "Bophut",
-        "scraped_at": "2026-03-08T17:13:15.566Z"
-      },
-      "trip_affiliate_url": "https://tp.media/r?marker=602467&trs=421888&p=7631&u=https%3A%2F%2Fwww.trip.com%2Fhotels%2Flist%3Fkeyword%3DNahm%2520Restaurant%2520%2526%2520Bar%2520-%2520Koh%2520Samui%2520Koh%2520Samui"
+      "name": "Baan Suan Lung Khai",
+      "description": "A stronger local-food move when you want Samui to feel less insulated by hotel dining.",
+      "location": "Southwest side of the island",
+      "current_price": "Budget to mid-range",
+      "highlights": [
+        "Current MICHELIN Bib Gourmand",
+        "Good lunch or early dinner stop",
+        "Better local counterweight to resort menus"
+      ],
+      "insider_tips": [
+        "Use this when you want one meal that clearly breaks the hotel-dining pattern."
+      ],
+      "current_info": "A useful choice if the trip needs one grounded local meal outside the main resort zones."
     },
     {
       "rank": 3,
-      "name": "Treehouse Silent Beach Restaurant",
-      "description": "Treehouse Silent Beach Restaurant is a 4.9-rated Bar, Asian restaurant in Koh Samui. located at Mae Nam.",
-      "location": "Mae Nam",
-      "current_price": "$$ - $$$",
-      "highlights": [],
-      "insider_tips": [],
-      "current_info": "Cuisine: Bar, Asian • Price: $$ - $$$ • Rating: 4.9/5 • 1.558 reviews",
-      "scraped": {
-        "source": "tripadvisor",
-        "cuisine": "Bar, Asian",
-        "price_range": "$$ - $$$",
-        "rating": 4.9,
-        "review_count": 1558,
-        "address": "Mae Nam",
-        "scraped_at": "2026-03-08T17:13:15.566Z"
-      },
-      "trip_affiliate_url": "https://tp.media/r?marker=602467&trs=421888&p=7631&u=https%3A%2F%2Fwww.trip.com%2Fhotels%2Flist%3Fkeyword%3DTreehouse%2520Silent%2520Beach%2520Restaurant%2520Koh%2520Samui"
+      "name": "Jun Hom",
+      "description": "One of the better Michelin-backed local stops if you want Samui food with more island specificity than beachfront convenience dining.",
+      "location": "North-coast side",
+      "current_price": "Budget to mid-range",
+      "highlights": [
+        "Current MICHELIN Bib Gourmand",
+        "Useful local-food benchmark",
+        "Good away from generic beach strips"
+      ],
+      "insider_tips": [
+        "Lunch or an earlier dinner usually fits this style of restaurant better than a late-night plan."
+      ],
+      "current_info": "A better answer than defaulting to the most touristed beach road when you want food with a stronger local point of view."
     },
     {
       "rank": 4,
-      "name": "Khaw Glong Thai Cuisine",
-      "description": "Khaw Glong Thai Cuisine is a 4.7-rated Seafood, Asian restaurant in Koh Samui. located at Chaweng.",
-      "location": "Chaweng",
-      "current_price": "$$ - $$$",
-      "highlights": [],
-      "insider_tips": [],
-      "current_info": "Cuisine: Seafood, Asian • Price: $$ - $$$ • Rating: 4.7/5 • 2.500 reviews",
-      "scraped": {
-        "source": "tripadvisor",
-        "cuisine": "Seafood, Asian",
-        "price_range": "$$ - $$$",
-        "rating": 4.7,
-        "review_count": 2500,
-        "address": "Chaweng",
-        "scraped_at": "2026-03-08T17:13:15.566Z"
-      },
-      "trip_affiliate_url": "https://tp.media/r?marker=602467&trs=421888&p=7631&u=https%3A%2F%2Fwww.trip.com%2Fhotels%2Flist%3Fkeyword%3DKhaw%2520Glong%2520Thai%2520Cuisine%2520Koh%2520Samui"
+      "name": "Long Dtai",
+      "description": "A higher-end Thai dinner if you want one more contemporary island meal where the kitchen matters as much as the setting.",
+      "location": "Northeast Samui",
+      "current_price": "Upscale",
+      "highlights": [
+        "Current MICHELIN-recognized restaurant",
+        "Useful one-night modern Thai splurge",
+        "Good for a deliberate dinner plan"
+      ],
+      "insider_tips": [
+        "Keep this as one intentional dinner, not part of an every-night splurge pattern."
+      ],
+      "current_info": "A good fit when the Samui trip needs one sharper, more modern Thai restaurant slot."
     },
     {
       "rank": 5,
-      "name": "Cocoon Viewpoint Koh Samui",
-      "description": "Cocoon Viewpoint Koh Samui is a 4.8-rated Bar, European restaurant in Koh Samui. located at Bo Put.",
-      "location": "Bo Put",
-      "current_price": "$$ - $$$",
-      "highlights": [],
-      "insider_tips": [],
-      "current_info": "Cuisine: Bar, European • Price: $$ - $$$ • Rating: 4.8/5 • 2.222 reviews",
-      "scraped": {
-        "source": "tripadvisor",
-        "cuisine": "Bar, European",
-        "price_range": "$$ - $$$",
-        "rating": 4.8,
-        "review_count": 2222,
-        "address": "Bo Put",
-        "scraped_at": "2026-03-08T17:13:15.566Z"
-      },
-      "trip_affiliate_url": "https://tp.media/r?marker=602467&trs=421888&p=7631&u=https%3A%2F%2Fwww.trip.com%2Fhotels%2Flist%3Fkeyword%3DCocoon%2520Viewpoint%2520Koh%2520Samui%2520Koh%2520Samui"
+      "name": "Saffron",
+      "description": "A reliable upscale Thai dining choice if you want one classic resort restaurant executed at a high level.",
+      "location": "Banyan Tree Samui",
+      "current_price": "Upscale",
+      "highlights": [
+        "Current MICHELIN-recognized restaurant",
+        "Classic high-end Thai resort dinner",
+        "Strong setting-led evening"
+      ],
+      "insider_tips": [
+        "Use this for the one formal resort-dining night, then keep the rest of the trip looser."
+      ],
+      "current_info": "Works best when refined Thai dining and a strong resort setting are both part of the point."
     },
     {
       "rank": 6,
-      "name": "Baan Ya Jai",
-      "description": "Baan Ya Jai is a 4.8-rated Asian, Thai restaurant in Koh Samui. located at Chaweng.",
-      "location": "Chaweng",
-      "current_price": "$$ - $$$",
-      "highlights": [],
-      "insider_tips": [],
-      "current_info": "Cuisine: Asian, Thai • Price: $$ - $$$ • Rating: 4.8/5 • 1.404 reviews",
-      "scraped": {
-        "source": "tripadvisor",
-        "cuisine": "Asian, Thai",
-        "price_range": "$$ - $$$",
-        "rating": 4.8,
-        "review_count": 1404,
-        "address": "Chaweng",
-        "scraped_at": "2026-03-08T17:13:15.566Z"
-      },
-      "trip_affiliate_url": "https://tp.media/r?marker=602467&trs=421888&p=7631&u=https%3A%2F%2Fwww.trip.com%2Fhotels%2Flist%3Fkeyword%3DBaan%2520Ya%2520Jai%2520Koh%2520Samui"
+      "name": "Tree Tops Signature Dining",
+      "description": "The Samui splurge where the atmosphere is intentionally part of the meal and worth treating as a special-occasion exception.",
+      "location": "Anantara Lawana Koh Samui Resort",
+      "current_price": "Upscale",
+      "highlights": [
+        "Official restaurant context",
+        "Treetop setting",
+        "Good one-night celebration slot"
+      ],
+      "insider_tips": [
+        "This is best when you want one memorable setting, not when every dinner is trying to be an event."
+      ],
+      "current_info": "A sensible pick for a special evening when the setting itself is part of why you booked Samui."
     },
     {
       "rank": 7,
-      "name": "The Tent",
-      "description": "The Tent is a 4.8-rated Contemporary restaurant in Koh Samui. located at Chaweng.",
-      "location": "Chaweng",
-      "current_price": "$$$$",
-      "highlights": [],
-      "insider_tips": [],
-      "current_info": "Cuisine: Contemporary • Price: $$$$ • Rating: 4.8/5 • 800 reviews",
-      "scraped": {
-        "source": "tripadvisor",
-        "cuisine": "Contemporary",
-        "price_range": "$$$$",
-        "rating": 4.8,
-        "review_count": 800,
-        "address": "Chaweng",
-        "scraped_at": "2026-03-08T17:13:15.566Z"
-      },
-      "trip_affiliate_url": "https://tp.media/r?marker=602467&trs=421888&p=7631&u=https%3A%2F%2Fwww.trip.com%2Fhotels%2Flist%3Fkeyword%3DThe%2520Tent%2520Koh%2520Samui"
-    },
-    {
-      "rank": 8,
-      "name": "Phensiri Thai Restaurant",
-      "description": "Phensiri Thai Restaurant is a 4.6-rated Asian, Thai restaurant in Koh Samui. located at Chaweng.",
-      "location": "Chaweng",
-      "current_price": "$$ - $$$",
-      "highlights": [],
-      "insider_tips": [],
-      "current_info": "Cuisine: Asian, Thai • Price: $$ - $$$ • Rating: 4.6/5 • 1.777 reviews",
-      "scraped": {
-        "source": "tripadvisor",
-        "cuisine": "Asian, Thai",
-        "price_range": "$$ - $$$",
-        "rating": 4.6,
-        "review_count": 1777,
-        "address": "Chaweng",
-        "scraped_at": "2026-03-08T17:13:15.566Z"
-      },
-      "trip_affiliate_url": "https://tp.media/r?marker=602467&trs=421888&p=7631&u=https%3A%2F%2Fwww.trip.com%2Fhotels%2Flist%3Fkeyword%3DPhensiri%2520Thai%2520Restaurant%2520Koh%2520Samui"
-    },
-    {
-      "rank": 9,
-      "name": "Big Horn Restaurant",
-      "description": "Big Horn Restaurant is a 4.8-rated Pizza, Seafood restaurant in Koh Samui. located at Chaweng.",
-      "location": "Chaweng",
-      "current_price": "$$ - $$$",
-      "highlights": [],
-      "insider_tips": [],
-      "current_info": "Cuisine: Pizza, Seafood • Price: $$ - $$$ • Rating: 4.8/5 • 709 reviews",
-      "scraped": {
-        "source": "tripadvisor",
-        "cuisine": "Pizza, Seafood",
-        "price_range": "$$ - $$$",
-        "rating": 4.8,
-        "review_count": 709,
-        "address": "Chaweng",
-        "scraped_at": "2026-03-08T17:13:15.566Z"
-      },
-      "trip_affiliate_url": "https://tp.media/r?marker=602467&trs=421888&p=7631&u=https%3A%2F%2Fwww.trip.com%2Fhotels%2Flist%3Fkeyword%3DBig%2520Horn%2520Restaurant%2520Koh%2520Samui"
-    },
-    {
-      "rank": 10,
-      "name": "The Thai Tapas",
-      "description": "The Thai Tapas is a 4.9-rated Asian, Thai restaurant in Koh Samui. located at Bophut.",
+      "name": "Fisherman's Village Friday market",
+      "description": "A better food-and-evening zone than many generic beach-strip dinner rows if you want variety and movement in one place.",
       "location": "Bophut",
-      "current_price": "$$ - $$$",
-      "highlights": [],
-      "insider_tips": [],
-      "current_info": "Cuisine: Asian, Thai • Price: $$ - $$$ • Rating: 4.9/5 • 322 reviews",
-      "scraped": {
-        "source": "tripadvisor",
-        "cuisine": "Asian, Thai",
-        "price_range": "$$ - $$$",
-        "rating": 4.9,
-        "review_count": 322,
-        "address": "Bophut",
-        "scraped_at": "2026-03-08T17:13:15.566Z"
-      },
-      "trip_affiliate_url": "https://tp.media/r?marker=602467&trs=421888&p=7631&u=https%3A%2F%2Fwww.trip.com%2Fhotels%2Flist%3Fkeyword%3DThe%2520Thai%2520Tapas%2520Koh%2520Samui"
+      "current_price": "Budget to mid-range",
+      "highlights": [
+        "Best market-led evening",
+        "Mix of snacks and sit-down stops",
+        "Good non-club night out"
+      ],
+      "insider_tips": [
+        "Walk first and eat in stages instead of committing to the first table you see."
+      ],
+      "current_info": "Useful when the trip needs one social evening that is not built around a resort dining room."
     }
   ],
   "city_slug": "koh-samui",
   "city_name": "Koh Samui",
   "category": "restaurants",
-  "data_sources": [
-    "tripadvisor",
-    "scraped"
+  "content_sources": [
+    {
+      "title": "Koh Thai Kitchen",
+      "creator": "MICHELIN Guide",
+      "url": "https://guide.michelin.com/us/en/cchanghwad-suraasdrthaanii/koh-samui_7770005/restaurant/koh-thai-kitchen",
+      "description": "Used for current MICHELIN status and destination-dinner positioning."
+    },
+    {
+      "title": "Baan Suan Lung Khai",
+      "creator": "MICHELIN Guide",
+      "url": "https://guide.michelin.com/us/en/cchanghwad-suraasdrthaanii/koh-samui_7770005/restaurant/baan-suan-lung-khai",
+      "description": "Used for current MICHELIN Bib Gourmand status and local-food positioning."
+    },
+    {
+      "title": "Jun Hom",
+      "creator": "MICHELIN Guide",
+      "url": "https://guide.michelin.com/us/en/cchanghwad-suraasdrthaanii/koh-samui_7770005/restaurant/jun-hom",
+      "description": "Used for current MICHELIN Bib Gourmand status and local-food positioning."
+    },
+    {
+      "title": "Long Dtai",
+      "creator": "MICHELIN Guide",
+      "url": "https://guide.michelin.com/us/en/cchanghwad-suraasdrthaanii/koh-samui_7770005/restaurant/long-dtai",
+      "description": "Used for current MICHELIN-recognized upscale Thai dining context."
+    },
+    {
+      "title": "Saffron | Dining in Samui",
+      "creator": "Banyan Tree Samui",
+      "url": "https://www.banyantree.com/thailand/samui/dining/saffron",
+      "description": "Used for official restaurant positioning at Banyan Tree Samui."
+    },
+    {
+      "title": "ANANTARA LAWANA KOH SAMUI RESORT fact sheet",
+      "creator": "Anantara Lawana Koh Samui Resort",
+      "url": "https://www.anantara.com/uploads/minor/anantara/documents/anantara-lawana-koh-samui-resort/hotel-info/als-sm_factsheetmay2024.pdf",
+      "description": "Used for official Tree Tops Signature Dining context."
+    },
+    {
+      "title": "Anantara Bophut Koh Samui Experiences Guide 2025",
+      "creator": "Anantara Bophut Koh Samui Resort",
+      "url": "https://www.anantara.com/uploads/minor/anantara/documents/anantara-bophut-koh-samui-resort/leisure/2025/anantara_bophut_koh_samui_experiences_guide_2025.pdf",
+      "description": "Used for Fisherman's Village evening and dining-zone context."
+    }
   ],
-  "last_scraped": "2026-03-08T17:13:15.566Z",
-  "generated_at": "2026-03-08T17:13:15.566Z",
-  "hybrid": false,
-  "scraped": true
+  "data_sources": [
+    "MICHELIN Guide",
+    "Official restaurant websites",
+    "Official resort guide"
+  ],
+  "generated_at": "2026-03-26T00:00:00.000Z",
+  "factchecked_at": "2026-03-26T00:00:00.000Z",
+  "hybrid": false
 }
