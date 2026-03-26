@@ -1,0 +1,81 @@
+{
+  "id": 6,
+  "slug": "pang-ung",
+  "name": {
+    "en": "Pang Ung",
+    "nl": "Pang Ung"
+  },
+  "type": "nature",
+  "city_slug": "mae-hong-son",
+  "address": "Pang Ung, Mok Cham Pae, Mueang Mae Hong Son District, Mae Hong Son",
+  "location": {
+    "lat": 19.5116,
+    "lng": 97.92024
+  },
+  "opening_hours": "Recheck current access and overnight rules before visiting",
+  "entrance_fee": {
+    "thb": null,
+    "usd": null
+  },
+  "description": {
+    "en": "The reservoir-side nature stop that works best as the cooler, calmer complement to Ban Rak Thai or a longer Mae Hong Son stay.",
+    "nl": "De natuurstop aan het stuwmeer die het best werkt als koelere, rustigere aanvulling op Ban Rak Thai of een langer Mae Hong Son-verblijf."
+  },
+  "highlights": [
+    "Reservoir and pine setting",
+    "Cool-season atmosphere",
+    "Strong linked detour"
+  ],
+  "image": "/images/cities/generated/mae-hong-son.webp",
+  "seo": {
+    "metaTitle": {
+      "en": "Pang Ung | Go2Thailand",
+      "nl": "Pang Ung | Go2Thailand"
+    },
+    "metaDescription": {
+      "en": "How Pang Ung fits a Mae Hong Son trip and when the reservoir-side detour is worth the planning.",
+      "nl": "Hoe Pang Ung in een Mae Hong Son-trip past en wanneer het stuwmeer-detour de planning waard is."
+    }
+  },
+  "tags": [
+    "mae-hong-son",
+    "pang-ung",
+    "reservoir",
+    "nature",
+    "cool-season"
+  ],
+  "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=Pang%20Ung%20Mae%20Hong%20Son%20Thailand",
+  "best_time": "early morning",
+  "duration_hours": 3,
+  "enhanced_description": "Pang Ung only helps a Mae Hong Son itinerary when you actually want the calmer reservoir-and-forest side of the province. It is not the kind of stop that improves by being rushed through between many other detours. If you want a quiet cool-climate nature layer, it fits. If you just want another checkbox after town and Ban Rak Thai, it can easily become too much movement for too little return.\n\nThat is why Pang Ung is strongest as a linked complement, not a forced addition. The province page still signals that travelers should check current permission or access arrangements, which is another reminder that this stop rewards planning rather than improvisation.",
+  "detailed_history": "Official TAT province guidance still flags Pang Ung as a place where visitors should check current permission or access procedures before building plans around it. In itinerary terms, Pang Ung remains the reservoir-side nature counterweight to Mae Hong Son town and the Ban Rak Thai village layer.",
+  "visitor_experience": "Expect atmosphere more than activity count. The main appeal is the reservoir setting, cooler feel, and slower pace. It is worth doing when you intentionally want that calmer nature layer.",
+  "best_time_to_visit": {
+    "time_of_day": "Early morning",
+    "duration": "Two to three hours, or longer if linked with other valley stops",
+    "crowd_level": "Can feel busier in the most scenic cooler-season windows"
+  },
+  "practical_info": {
+    "how_to_get_there": "Treat Pang Ung as part of a planned outer-valley route, often linked with Ban Rak Thai rather than visited in isolation.",
+    "nearby_attractions": "Ban Rak Thai and other Mok Cham Pae side viewpoints or village stops depending on your route.",
+    "food_options": "Plan practical food around the day rather than assuming a large fixed dining scene on site.",
+    "shopping": "Limited; this is about the reservoir atmosphere and planning, not shopping."
+  },
+  "insider_tips": [
+    "Check current access arrangements before setting the day.",
+    "Pair it with Ban Rak Thai only if you truly want a full valley-side outing.",
+    "Do not expect it to replace the town core; it complements it."
+  ],
+  "verified_note": "Source-backed summary based on official TAT province guidance and official Mae Hong Son nature framing. Access details and on-site arrangements should be confirmed locally.",
+  "cultural_significance": "Pang Ung represents the cooler reservoir-and-forest side of Mae Hong Son province and adds a nature-first layer that contrasts well with the Shan temple core of the town.",
+  "contentSources": [
+    {
+      "name": "Mae Hong Son",
+      "url": "https://www.tourismthailand.org/Destinations/Provinces/Mae-Hong-Son/106"
+    },
+    {
+      "name": "4 natural tourist attractions in Mae Hong Son",
+      "url": "https://www.tourismthailand.org/Articles/4-natural-tourist-attractions-in-mae-hong-son"
+    }
+  ]
+}

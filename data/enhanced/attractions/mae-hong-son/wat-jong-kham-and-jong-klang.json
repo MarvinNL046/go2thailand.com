@@ -1,0 +1,81 @@
+{
+  "id": 1,
+  "slug": "wat-jong-kham-and-jong-klang",
+  "name": {
+    "en": "Wat Jong Kham and Wat Jong Klang",
+    "nl": "Wat Jong Kham en Wat Jong Klang"
+  },
+  "type": "temple",
+  "city_slug": "mae-hong-son",
+  "address": "Nong Jong Kham, Chong Kham, Mueang Mae Hong Son District, Mae Hong Son 58000",
+  "location": {
+    "lat": 19.2979415,
+    "lng": 97.967964
+  },
+  "opening_hours": "Recheck current temple and side-building opening hours on site before visiting",
+  "entrance_fee": {
+    "thb": null,
+    "usd": null
+  },
+  "description": {
+    "en": "The lakeside temple pair that gives Mae Hong Son town its strongest visual and cultural center.",
+    "nl": "Het tempelpaar aan het meer dat Mae Hong Son zijn sterkste visuele en culturele kern geeft."
+  },
+  "highlights": [
+    "Twin Shan-style temples",
+    "Best town-center anchor",
+    "Strong morning and evening atmosphere"
+  ],
+  "image": "/images/cities/generated/mae-hong-son.webp",
+  "seo": {
+    "metaTitle": {
+      "en": "Wat Jong Kham and Wat Jong Klang | Go2Thailand",
+      "nl": "Wat Jong Kham en Wat Jong Klang | Go2Thailand"
+    },
+    "metaDescription": {
+      "en": "Why the lakeside twin temples are the core of a good Mae Hong Son town itinerary.",
+      "nl": "Waarom de twee tempels aan het meer de kern vormen van een goede Mae Hong Son-route."
+    }
+  },
+  "tags": [
+    "mae-hong-son",
+    "wat-jong-kham",
+    "wat-jong-klang",
+    "shan-temples",
+    "nong-jong-kham"
+  ],
+  "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=Wat%20Jong%20Kham%20Mae%20Hong%20Son%20Thailand",
+  "best_time": "early morning or late afternoon",
+  "duration_hours": 1.5,
+  "enhanced_description": "Wat Jong Kham and Wat Jong Klang are the reason Mae Hong Son town has such a clear visual identity. The lake, the temple roofs, and the reflected light do more to explain the town than any generic claim about remoteness. If you rush past them on the way to a longer drive, you miss the place that actually turns Mae Hong Son from a waypoint into a destination.\n\nThat is why these temples should be treated as the core of the town stay, not as background scenery. They work in more than one light condition, they anchor the evening and morning walk, and they explain the Shan influence that still shapes how Mae Hong Son is experienced on the ground.",
+  "detailed_history": "TAT's Mae Hong Son summary material still uses Nong Jong Kham and the Wat Jong Kham and Wat Jong Klang pair as the center of the town story, emphasizing their Shan influence and their position in the heart of the basin. The official town map also keeps them at the center of the local landmark grid, which matches how most travelers orient themselves once they arrive.",
+  "visitor_experience": "Expect a compact but important town stop rather than a giant temple complex. The value is in the setting, the quiet movement around the lake, and the way the temples frame the pace of the town. This is strongest as part of a slow walk rather than as a fast car stop.",
+  "best_time_to_visit": {
+    "time_of_day": "Early morning or late afternoon",
+    "duration": "About 60 to 90 minutes",
+    "crowd_level": "Usually manageable, with more local activity than big tour pressure"
+  },
+  "practical_info": {
+    "how_to_get_there": "Walk here easily from central town hotels and guesthouses around the lake and market grid.",
+    "nearby_attractions": "Wat Phra That Doi Kong Mu, the morning market, and central town cafes.",
+    "food_options": "Good coffee and simple town meals are nearby, so this pairs well with breakfast or an early evening walk.",
+    "shopping": "Light walking-street and town-market browsing nearby, but keep expectations modest."
+  },
+  "insider_tips": [
+    "See the lakefront at two different times if you can.",
+    "Keep the stop calm and observational rather than trying to rush through it on the way elsewhere.",
+    "Pair it with the morning market or Doi Kong Mu for the strongest town-based half day."
+  ],
+  "verified_note": "Source-backed summary based on official TAT town framing and the official Mae Hong Son town map. Temple access patterns can change, so confirm locally if a specific building matters to you.",
+  "cultural_significance": "This temple pair is the clearest expression of Mae Hong Son's Shan-influenced town identity and the fixed anchor of its lakefront civic and religious core.",
+  "contentSources": [
+    {
+      "name": "MAE HONG SON-PAI: A SUMMARY ESCAPE TO THE VALLEY OF ETHNIC GROUPS",
+      "url": "https://www.tourismthailand.org/Articles/mae-hong-son-pai-a-summary-escape-to-the-valley-of-ethnic-groups-2"
+    },
+    {
+      "name": "Official Mae Hong Son town map",
+      "url": "https://www.maeheepai.go.th/upload/catalogs_file/catalogs_file_257_17_8_524.pdf"
+    }
+  ]
+}

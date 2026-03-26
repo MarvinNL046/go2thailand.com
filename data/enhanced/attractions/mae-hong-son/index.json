@@ -1,55 +1,59 @@
 {
   "city_slug": "mae-hong-son",
   "city_name": "Mae Hong Son",
-  "total_attractions": 9,
+  "total_attractions": 6,
   "attractions": [
     {
       "id": 1,
-      "slug": "tham-lod-cave",
+      "slug": "wat-jong-kham-and-jong-klang",
       "name": {
-        "en": "Tham Lod Cave",
-        "nl": "Tham Lod Grot"
+        "en": "Wat Jong Kham and Wat Jong Klang",
+        "nl": "Wat Jong Kham en Wat Jong Klang"
       },
-      "type": "nature",
-      "image": "/images/cities/chiangmai/chiang-mai-park.webp",
+      "type": "temple",
+      "image": "/images/cities/generated/mae-hong-son.webp",
       "description": {
-        "en": "One of Thailand's most impressive cave systems with underground river, bamboo raft exploration, and spectacular swift colony at dusk",
-        "nl": "Een van de meest indrukwekkende grottenstelsels van Thailand met ondergrondse rivier, bamboe-vlotervaringen en spectaculaire gierzwaluwenkolonie bij schemering"
+        "en": "The lakeside temple pair that gives Mae Hong Son town its strongest visual and cultural center.",
+        "nl": "Het tempelpaar aan het meer dat Mae Hong Son zijn sterkste visuele en culturele kern geeft."
       },
       "entrance_fee": {
-        "thb": 250,
-        "usd": 7
+        "thb": null,
+        "usd": null
       },
       "highlights": [
-        "Underground river rafting",
-        "Ancient stalactites",
-        "Swift colony at dusk"
+        "Twin Shan-style temples",
+        "Best town-center anchor",
+        "Strong morning and evening atmosphere"
       ],
-      "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=Tham%20Lod%20Cave%20Mae%20Hong%20Son%20Thailand"
+      "best_time": "early morning or late afternoon",
+      "duration_hours": 1.5,
+      "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=Wat%20Jong%20Kham%20Mae%20Hong%20Son%20Thailand"
     },
     {
       "id": 2,
-      "slug": "pang-ung",
+      "slug": "wat-phra-that-doi-kong-mu",
       "name": {
-        "en": "Pang Ung (Pang Tong Royal Project)",
-        "nl": "Pang Ung (Pang Tong Koninklijk Project)"
+        "en": "Wat Phra That Doi Kong Mu",
+        "nl": "Wat Phra That Doi Kong Mu"
       },
-      "type": "nature",
-      "image": "/images/cities/chiangmai/chiang-mai-park.webp",
+      "type": "temple",
+      "image": "/images/cities/generated/mae-hong-son.webp",
       "description": {
-        "en": "Stunning mountain reservoir surrounded by pine forests nicknamed Thailand's Switzerland, with camping and raft house accommodation",
-        "nl": "Prachtig bergstuwmeer omringd door dennenbossen, bijgenaamd Thailand's Zwitserland, met kampeer- en vlothuisaccommodatie"
+        "en": "The hilltop temple and panorama that explains the shape of the whole Mae Hong Son basin.",
+        "nl": "De tempel op de heuveltop en het panorama dat de vorm van de hele Mae Hong Son-vallei uitlegt."
       },
       "entrance_fee": {
-        "thb": 30,
-        "usd": 1
+        "thb": null,
+        "usd": null
       },
       "highlights": [
-        "Pine-lined reservoir",
-        "Morning mist",
-        "Raft house camping"
+        "Best valley viewpoint",
+        "Town orientation stop",
+        "Hilltop temple atmosphere"
       ],
-      "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=Pang%20Ung%20(Pang%20Tong%20Royal%20Project)%20Mae%20Hong%20Son%20Thailand"
+      "best_time": "morning or sunset",
+      "duration_hours": 1.5,
+      "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=Wat%20Phra%20That%20Doi%20Kong%20Mu%20Mae%20Hong%20Son%20Thailand"
     },
     {
       "id": 3,
@@ -59,165 +63,101 @@
         "nl": "Su Tong Pae Brug"
       },
       "type": "cultural",
-      "image": "/images/cities/chiangmai/chiang-mai-park.webp",
+      "image": "/images/cities/generated/mae-hong-son.webp",
       "description": {
-        "en": "A 500-meter bamboo bridge stretching across rice fields to a small monastery, particularly beautiful at sunrise with monks crossing",
-        "nl": "Een 500 meter lange bamboebrug over rijstvelden naar een klein klooster, bijzonder mooi bij zonsopgang met overstekende monniken"
+        "en": "The near-town bamboo bridge that works best as an early quiet add-on rather than a full-day mission.",
+        "nl": "De bamboebrug net buiten de stad die het best werkt als vroege rustige extra, niet als dagvullend programma."
       },
       "entrance_fee": {
-        "thb": 0,
-        "usd": 0
+        "thb": null,
+        "usd": null
       },
       "highlights": [
-        "Sunrise with monks",
-        "Rice field views",
-        "Photography spot"
+        "Bamboo bridge over fields",
+        "Best sunrise add-on",
+        "Easy half-day extra"
       ],
+      "best_time": "sunrise",
+      "duration_hours": 1.5,
       "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=Su%20Tong%20Pae%20Bridge%20Mae%20Hong%20Son%20Thailand"
     },
     {
       "id": 4,
-      "slug": "wat-jong-kham-and-jong-klang",
+      "slug": "tham-lod-cave",
       "name": {
-        "en": "Wat Jong Kham & Wat Jong Klang",
-        "nl": "Wat Jong Kham & Wat Jong Klang"
+        "en": "Tham Lod Cave",
+        "nl": "Tham Lod Grot"
       },
-      "type": "temple",
-      "image": "/images/cities/chiangmai/chiang-mai-park.webp",
+      "type": "nature",
+      "image": "/images/cities/generated/mae-hong-son.webp",
       "description": {
-        "en": "Twin Burmese-style temples reflected in Jong Kham Lake, iconic symbols of Mae Hong Son especially beautiful in morning mist",
-        "nl": "Twee Burmese tempels weerspiegeld in Jong Kham Lake, iconische symbolen van Mae Hong Son, bijzonder mooi in de ochtendmist"
+        "en": "The strongest serious cave excursion in Mae Hong Son province if you are willing to commit to the road day.",
+        "nl": "De sterkste serieuze grot-excursie in Mae Hong Son als je bereid bent de hele rijdag te accepteren."
       },
       "entrance_fee": {
-        "thb": 0,
-        "usd": 0
+        "thb": null,
+        "usd": null
       },
       "highlights": [
-        "Lake reflections",
-        "Burmese architecture",
-        "Morning mist views"
+        "Major cave excursion",
+        "Best geology day trip",
+        "Worth real planning"
       ],
-      "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=Wat%20Jong%20Kham%20%26%20Wat%20Jong%20Klang%20Mae%20Hong%20Son%20Thailand"
+      "best_time": "morning departure from town",
+      "duration_hours": 4,
+      "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=Tham%20Lod%20Cave%20Mae%20Hong%20Son%20Thailand"
     },
     {
       "id": 5,
-      "slug": "tham-pla-fish-cave",
+      "slug": "ban-rak-thai",
       "name": {
-        "en": "Tham Pla (Fish Cave)",
-        "nl": "Tham Pla (Vissengrot)"
+        "en": "Ban Rak Thai",
+        "nl": "Ban Rak Thai"
       },
-      "type": "nature",
-      "image": "/images/cities/chiangmai/chiang-mai-park.webp",
+      "type": "village",
+      "image": "/images/cities/generated/mae-hong-son.webp",
       "description": {
-        "en": "Mysterious cave spring pool teeming with thousands of sacred giant soro brook carp in a lush forest park",
-        "nl": "Mysterieuze grotbron vol met duizenden heilige reusachtige soro-beekkarpers in een weelderig bospark"
+        "en": "The Yunnan-influenced border village that adds tea, lake views, and slower mountain atmosphere to the Mae Hong Son stay.",
+        "nl": "Het grensdorp met Yunnan-invloed dat thee, uitzicht op het meer en tragere bergsfeer toevoegt aan een Mae Hong Son-verblijf."
       },
       "entrance_fee": {
-        "thb": 100,
-        "usd": 3
+        "thb": null,
+        "usd": null
       },
       "highlights": [
-        "Sacred fish pool",
-        "Forest park trails",
-        "Nature boardwalks"
+        "Tea-village atmosphere",
+        "Yunnan food and lake setting",
+        "Good cooler-climate detour"
       ],
-      "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=Tham%20Pla%20(Fish%20Cave)%20Mae%20Hong%20Son%20Thailand"
+      "best_time": "late afternoon into overnight or early morning",
+      "duration_hours": 4,
+      "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=Ban%20Rak%20Thai%20Mae%20Hong%20Son%20Thailand"
     },
     {
       "id": 6,
-      "slug": "ban-rak-thai",
+      "slug": "pang-ung",
       "name": {
-        "en": "Ban Rak Thai (Mae Aw)",
-        "nl": "Ban Rak Thai (Mae Aw)"
-      },
-      "type": "cultural",
-      "image": "/images/cities/chiangmai/chiang-mai-park.webp",
-      "description": {
-        "en": "Chinese Kuomintang settlement on the Myanmar border with tea plantations, oolong tea houses, and a serene reservoir",
-        "nl": "Chinese Kuomintang-nederzetting aan de grens met Myanmar met theeplantages, oolong theehuizen en een sereen stuwmeer"
-      },
-      "entrance_fee": {
-        "thb": 0,
-        "usd": 0
-      },
-      "highlights": [
-        "Yunnan oolong tea",
-        "Myanmar border views",
-        "Tea plantations"
-      ],
-      "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=Ban%20Rak%20Thai%20(Mae%20Aw)%20Mae%20Hong%20Son%20Thailand"
-    },
-    {
-      "id": 7,
-      "slug": "pha-sua-waterfall",
-      "name": {
-        "en": "Pha Sua Waterfall",
-        "nl": "Pha Sua Waterval"
+        "en": "Pang Ung",
+        "nl": "Pang Ung"
       },
       "type": "nature",
-      "image": "/images/cities/chiangmai/chiang-mai-park.webp",
+      "image": "/images/cities/generated/mae-hong-son.webp",
       "description": {
-        "en": "Powerful multi-tiered waterfall hidden in forest 26 km north of town, most spectacular during the rainy season",
-        "nl": "Krachtige waterval met meerdere niveaus verborgen in het bos op 26 km ten noorden van het stadje, het meest spectaculair tijdens het regenseizoen"
+        "en": "The reservoir-side nature stop that works best as the cooler, calmer complement to Ban Rak Thai or a longer Mae Hong Son stay.",
+        "nl": "De natuurstop aan het stuwmeer die het best werkt als koelere, rustigere aanvulling op Ban Rak Thai of een langer Mae Hong Son-verblijf."
       },
       "entrance_fee": {
-        "thb": 100,
-        "usd": 3
+        "thb": null,
+        "usd": null
       },
       "highlights": [
-        "Multi-tiered cascades",
-        "Forest hiking",
-        "Rainy season spectacle"
+        "Reservoir and pine setting",
+        "Cool-season atmosphere",
+        "Strong linked detour"
       ],
-      "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=Pha%20Sua%20Waterfall%20Mae%20Hong%20Son%20Thailand"
-    },
-    {
-      "id": 8,
-      "slug": "wat-phra-that-doi-kong-mu",
-      "name": {
-        "en": "Wat Phra That Doi Kong Mu",
-        "nl": "Wat Phra That Doi Kong Mu"
-      },
-      "type": "temple",
-      "image": "/images/cities/chiangmai/chiang-mai-park.webp",
-      "description": {
-        "en": "Hilltop Shan-style temple overlooking Mae Hong Son with panoramic views of the valley and twin white chedis visible from the entire town",
-        "nl": "Shan-stijl tempel op de heuveltop met uitzicht over Mae Hong Son met panoramisch uitzicht over de vallei en twee witte chedi's zichtbaar vanuit het hele stadje"
-      },
-      "entrance_fee": {
-        "thb": 0,
-        "usd": 0
-      },
-      "highlights": [
-        "Valley panorama",
-        "Shan architecture",
-        "Twin white chedis"
-      ],
-      "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=Wat%20Phra%20That%20Doi%20Kong%20Mu%20Mae%20Hong%20Son%20Thailand"
-    },
-    {
-      "id": 9,
-      "slug": "mae-hong-son-morning-market",
-      "name": {
-        "en": "Mae Hong Son Morning Market",
-        "nl": "Mae Hong Son Ochtendmarkt"
-      },
-      "type": "market",
-      "image": "/images/cities/chiangmai/chiang-mai-park.webp",
-      "description": {
-        "en": "Authentic early morning market on Phanit Wattana Road where Shan and Karen vendors sell Burmese curries, fresh produce, and traditional medicines from 5 AM",
-        "nl": "Authentieke vroege ochtendmarkt op Phanit Wattana Road waar Shan- en Karen-verkopers Burmese curry's, verse producten en traditionele medicijnen verkopen vanaf 5 uur 's ochtends"
-      },
-      "entrance_fee": {
-        "thb": 0,
-        "usd": 0
-      },
-      "highlights": [
-        "Shan and Karen vendors",
-        "Burmese curries",
-        "Traditional medicines"
-      ],
-      "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=Mae%20Hong%20Son%20Morning%20Market%20Mae%20Hong%20Son%20Thailand"
+      "best_time": "early morning",
+      "duration_hours": 3,
+      "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=Pang%20Ung%20Mae%20Hong%20Son%20Thailand"
     }
   ]
 }

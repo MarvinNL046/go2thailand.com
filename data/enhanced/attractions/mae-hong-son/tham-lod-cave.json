@@ -1,0 +1,81 @@
+{
+  "id": 4,
+  "slug": "tham-lod-cave",
+  "name": {
+    "en": "Tham Lod Cave",
+    "nl": "Tham Lod Grot"
+  },
+  "type": "nature",
+  "city_slug": "mae-hong-son",
+  "address": "Tham Lod, Pang Mapha District, Mae Hong Son 58150",
+  "location": {
+    "lat": 19.5609797,
+    "lng": 98.277666
+  },
+  "opening_hours": "Recheck current managed cave access, guide, and boat arrangements before going",
+  "entrance_fee": {
+    "thb": null,
+    "usd": null
+  },
+  "description": {
+    "en": "The strongest serious cave excursion in Mae Hong Son province if you are willing to commit to the road day.",
+    "nl": "De sterkste serieuze grot-excursie in Mae Hong Son als je bereid bent de hele rijdag te accepteren."
+  },
+  "highlights": [
+    "Major cave excursion",
+    "Best geology day trip",
+    "Worth real planning"
+  ],
+  "image": "/images/cities/generated/mae-hong-son.webp",
+  "seo": {
+    "metaTitle": {
+      "en": "Tham Lod Cave | Go2Thailand",
+      "nl": "Tham Lod Grot | Go2Thailand"
+    },
+    "metaDescription": {
+      "en": "Why Tham Lod is the serious cave day from Mae Hong Son and how to decide if the road time is worth it.",
+      "nl": "Waarom Tham Lod de serieuze grot-dagtrip is vanuit Mae Hong Son en hoe je beslist of de reistijd het waard is."
+    }
+  },
+  "tags": [
+    "mae-hong-son",
+    "tham-lod",
+    "lod-cave",
+    "pang-mapha",
+    "nature"
+  ],
+  "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=Tham%20Lod%20Cave%20Mae%20Hong%20Son%20Thailand",
+  "best_time": "morning departure from town",
+  "duration_hours": 4,
+  "enhanced_description": "Tham Lod is the day trip that has to earn its place in the Mae Hong Son plan. It is not a casual add-on after town sightseeing, because the road time and cave logistics demand a proper decision. If you want one strong nature and geology day from Mae Hong Son, it is a serious candidate. If you only want a softer add-on, it is too much.\n\nThat is why Tham Lod works best when you choose it instead of other distance-heavy ideas. Once you accept the road day, the cave becomes a meaningful contrast to the quiet temple-and-lake structure of the town. If you do not accept the drive, the better answer is usually to stay closer and simplify.",
+  "detailed_history": "Official TAT material for Mae Hong Son continues to place Lod Cave among the province's standout natural attractions. In practical planning terms, it still functions as the province's clearest geology-led excursion for travelers moving beyond the town core.",
+  "visitor_experience": "Expect a longer half day or full day depending on how you route it. This is a managed attraction where local arrangements matter, so do not assume the setup is static. Good footwear and a realistic road-day mindset help more than trying to rush.",
+  "best_time_to_visit": {
+    "time_of_day": "Leave in the morning",
+    "duration": "Usually at least half a day once transport is included",
+    "crowd_level": "Can vary, but road time matters more than crowd pressure"
+  },
+  "practical_info": {
+    "how_to_get_there": "Treat it as a dedicated drive from Mae Hong Son or as part of a broader Pang Mapha and Pai route, not as a tiny side trip.",
+    "nearby_attractions": "Pang Mapha area villages and other wider route stops if you are already building a longer road day.",
+    "food_options": "Eat before leaving town or plan a practical road-day meal rather than depending on fixed fine-grained options.",
+    "shopping": "Secondary; this is primarily a managed cave excursion."
+  },
+  "insider_tips": [
+    "Do this only if you actually want the cave day.",
+    "Confirm the current guide and access arrangement before setting out.",
+    "Wear practical shoes and build in enough road-time margin."
+  ],
+  "verified_note": "Source-backed summary based on official TAT framing of Lod Cave as one of Mae Hong Son's major natural attractions. Current fees, guide rules, and access details should always be confirmed locally.",
+  "cultural_significance": "Tham Lod represents the stronger nature-and-geology side of Mae Hong Son province and gives the town stay a very different counterpoint from temples, lakefront, and village stops.",
+  "contentSources": [
+    {
+      "name": "4 natural tourist attractions in Mae Hong Son",
+      "url": "https://www.tourismthailand.org/Articles/4-natural-tourist-attractions-in-mae-hong-son"
+    },
+    {
+      "name": "Mae Hong Son",
+      "url": "https://www.tourismthailand.org/Destinations/Provinces/Mae-Hong-Son/106"
+    }
+  ]
+}

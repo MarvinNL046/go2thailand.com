@@ -1,0 +1,81 @@
+{
+  "id": 5,
+  "slug": "ban-rak-thai",
+  "name": {
+    "en": "Ban Rak Thai",
+    "nl": "Ban Rak Thai"
+  },
+  "type": "village",
+  "city_slug": "mae-hong-son",
+  "address": "Ban Rak Thai, Mok Cham Pae, Mueang Mae Hong Son District, Mae Hong Son",
+  "location": {
+    "lat": 19.5861353,
+    "lng": 97.9457558
+  },
+  "opening_hours": "Village access is flexible, but recheck current boat and homestay arrangements directly with providers",
+  "entrance_fee": {
+    "thb": null,
+    "usd": null
+  },
+  "description": {
+    "en": "The Yunnan-influenced border village that adds tea, lake views, and slower mountain atmosphere to the Mae Hong Son stay.",
+    "nl": "Het grensdorp met Yunnan-invloed dat thee, uitzicht op het meer en tragere bergsfeer toevoegt aan een Mae Hong Son-verblijf."
+  },
+  "highlights": [
+    "Tea-village atmosphere",
+    "Yunnan food and lake setting",
+    "Good cooler-climate detour"
+  ],
+  "image": "/images/cities/generated/mae-hong-son.webp",
+  "seo": {
+    "metaTitle": {
+      "en": "Ban Rak Thai | Go2Thailand",
+      "nl": "Ban Rak Thai | Go2Thailand"
+    },
+    "metaDescription": {
+      "en": "When Ban Rak Thai is worth the drive from Mae Hong Son and how it fits a slower tea-and-mist day.",
+      "nl": "Wanneer Ban Rak Thai de rit vanuit Mae Hong Son waard is en hoe het past in een rustigere thee-en-mist dag."
+    }
+  },
+  "tags": [
+    "mae-hong-son",
+    "ban-rak-thai",
+    "tea-village",
+    "yunnan",
+    "border-village"
+  ],
+  "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=Ban%20Rak%20Thai%20Mae%20Hong%20Son%20Thailand",
+  "best_time": "late afternoon into overnight or early morning",
+  "duration_hours": 4,
+  "enhanced_description": "Ban Rak Thai is useful because it gives Mae Hong Son a clearly different second layer from the lakeside town. The shift is obvious: tea, a small mountain lake setting, stronger Yunnan influence, and a travel pace that makes more sense when you stop treating every outer-valley place as another quick stop on a long list.\n\nThat is also why Ban Rak Thai should be chosen carefully. It works best as a slower mood change, ideally with time to linger into the cooler part of the day or even overnight. If you only want another photo point before rushing onward, the road effort is usually not worth it.",
+  "detailed_history": "Official TAT material still describes Ban Rak Thai as the home of Yunnan people and frames it as a peaceful place for tea, village atmosphere, and a slower border-valley stay. More recent official Tourism Product material also continues to emphasize the lake, morning mist, tea culture, and the need to take road conditions seriously.",
+  "visitor_experience": "Expect a slower village atmosphere rather than a fast monument stop. Tea, the lake setting, and the shift in cultural feel are the main reasons to go. It works best when you allow some dead time rather than trying to maximize turnover.",
+  "best_time_to_visit": {
+    "time_of_day": "Late afternoon into early morning",
+    "duration": "A long half day or overnight",
+    "crowd_level": "Can feel busier in the most photogenic windows, especially in cooler weather"
+  },
+  "practical_info": {
+    "how_to_get_there": "Treat the road to Ban Rak Thai as part of the trip rather than as a negligible transfer.",
+    "nearby_attractions": "Pang Ung and other cooler-climate valley-side stops if you are building a linked outer-valley day.",
+    "food_options": "Yunnan and village-style meals are part of the point here, so this is stronger for a lingered meal than for a rushed snack stop.",
+    "shopping": "Tea and village products are the obvious things to look at, but keep expectations practical."
+  },
+  "insider_tips": [
+    "This place works better slowly than quickly.",
+    "If the weather turns or the road feels too ambitious, simplify rather than forcing the detour.",
+    "Pair it with Pang Ung only if you actually want a full outer-valley day."
+  ],
+  "verified_note": "Source-backed summary based on official TAT coverage of Ban Rak Thai as a Yunnan village stay and official Tourism Product guidance around its lake, mist, and road context.",
+  "cultural_significance": "Ban Rak Thai adds the strongest Yunnan-influenced village layer to a Mae Hong Son itinerary and broadens the trip beyond the Shan temple core of the town itself.",
+  "contentSources": [
+    {
+      "name": "MAE HONG SON-PAI: A SUMMARY ESCAPE TO THE VALLEY OF ETHNIC GROUPS",
+      "url": "https://www.tourismthailand.org/Articles/mae-hong-son-pai-a-summary-escape-to-the-valley-of-ethnic-groups-2"
+    },
+    {
+      "name": "5 Homestay Villages in Northern Thailand Where You Can Wake Up in the Wild",
+      "url": "https://tourismproduct.tourismthailand.org/2025/08/14/5-%E0%B8%AB%E0%B8%A1%E0%B8%B9%E0%B9%88%E0%B8%9A%E0%B9%89%E0%B8%B2%E0%B8%99%E0%B9%82%E0%B8%AE%E0%B8%A1%E0%B8%AA%E0%B9%80%E0%B8%95%E0%B8%A2%E0%B9%8C%E0%B8%AA%E0%B8%B8%E0%B8%94%E0%B8%8A%E0%B8%B4%E0%B8%A5-%E0%B8%99%E0%B8%AD%E0%B8%99%E0%B8%81%E0%B8%A5%E0%B8%B2%E0%B8%87%E0%B8%98%E0%B8%A3%E0%B8%A3%E0%B8%A1%E0%B8%8A%E0%B8%B2%E0%B8%95%E0%B8%B4/"
+    }
+  ]
+}

@@ -1,0 +1,81 @@
+{
+  "id": 3,
+  "slug": "su-tong-pae-bridge",
+  "name": {
+    "en": "Su Tong Pae Bridge",
+    "nl": "Su Tong Pae Brug"
+  },
+  "type": "cultural",
+  "city_slug": "mae-hong-son",
+  "address": "Ban Kung Mai Sak area, Pang Mu, Mueang Mae Hong Son District, Mae Hong Son",
+  "location": {
+    "lat": 19.3886985,
+    "lng": 97.9537191
+  },
+  "opening_hours": "Best visited early; recheck local access and seasonal field conditions before going",
+  "entrance_fee": {
+    "thb": null,
+    "usd": null
+  },
+  "description": {
+    "en": "The near-town bamboo bridge that works best as an early quiet add-on rather than a full-day mission.",
+    "nl": "De bamboebrug net buiten de stad die het best werkt als vroege rustige extra, niet als dagvullend programma."
+  },
+  "highlights": [
+    "Bamboo bridge over fields",
+    "Best sunrise add-on",
+    "Easy half-day extra"
+  ],
+  "image": "/images/cities/generated/mae-hong-son.webp",
+  "seo": {
+    "metaTitle": {
+      "en": "Su Tong Pae Bridge | Go2Thailand",
+      "nl": "Su Tong Pae Brug | Go2Thailand"
+    },
+    "metaDescription": {
+      "en": "When Su Tong Pae is worth doing from Mae Hong Son and how to fit it into a calm sunrise plan.",
+      "nl": "Wanneer Su Tong Pae de moeite waard is vanuit Mae Hong Son en hoe je het in een rustige sunrise-route past."
+    }
+  },
+  "tags": [
+    "mae-hong-son",
+    "su-tong-pae",
+    "bamboo-bridge",
+    "sunrise",
+    "rice-fields"
+  ],
+  "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=Su%20Tong%20Pae%20Bridge%20Mae%20Hong%20Son%20Thailand",
+  "best_time": "sunrise",
+  "duration_hours": 1.5,
+  "enhanced_description": "Su Tong Pae is at its best when you treat it as a timing stop, not as a large destination. It gives Mae Hong Son one of its cleanest sunrise add-ons: a simple bridge, field atmosphere, softer light, and a slower start before the rest of the day opens up. That is enough. It does not need to carry the weight of a full-day excursion.\n\nBecause of that, Su Tong Pae works best when the rest of the schedule stays light. Go early, take the bridge for what it is, and return to the town core or move into the next planned stop. The mistake is expecting complexity where the appeal is actually calm and timing.",
+  "detailed_history": "Official tourism material around the Mae Hong Son communities continues to flag Su Tong Pae as a nearby landmark in the wider Mueang Mae Hong Son area. Its current value in the trip is not historical scale but its recognizability as the near-town field-and-bridge stop that complements the lakefront core.",
+  "visitor_experience": "Expect a relatively short visit. The bridge and surrounding landscape are the point. This is especially useful if you want a gentle morning outside town without spending hours on the road.",
+  "best_time_to_visit": {
+    "time_of_day": "Sunrise and early morning",
+    "duration": "About 60 to 90 minutes",
+    "crowd_level": "More attractive in the early photogenic window, quieter once the morning passes"
+  },
+  "practical_info": {
+    "how_to_get_there": "Use a short early transfer from town and return before the day gets overloaded.",
+    "nearby_attractions": "Mae Hong Son town core, morning market, and Doi Kong Mu.",
+    "food_options": "Eat in town before or after unless you are pairing it with a local rural stop.",
+    "shopping": "Limited and secondary; keep the focus on the bridge and surrounding fields."
+  },
+  "insider_tips": [
+    "Go early and keep expectations simple.",
+    "Do not give Su Tong Pae the whole day unless it is part of a broader countryside route you already wanted.",
+    "This works best as a counterweight to the town core, not as a replacement for it."
+  ],
+  "verified_note": "Source-backed summary based on official tourism references to Su Tong Pae in the wider Mae Hong Son community zone. Access and field conditions can vary seasonally.",
+  "cultural_significance": "Su Tong Pae functions as Mae Hong Son's most recognizable near-town rural landmark and works as a softer countryside complement to the lakeside temple core.",
+  "contentSources": [
+    {
+      "name": "Ban Huai Hee - 7greens",
+      "url": "https://7greens.tourismthailand.org/en/2020/08/20/%E0%B8%9A%E0%B9%89%E0%B8%B2%E0%B8%99%E0%B8%AB%E0%B9%89%E0%B8%A7%E0%B8%A2%E0%B8%AE%E0%B8%B5%E0%B9%89/"
+    },
+    {
+      "name": "Official Mae Hong Son town map",
+      "url": "https://www.maeheepai.go.th/upload/catalogs_file/catalogs_file_257_17_8_524.pdf"
+    }
+  ]
+}

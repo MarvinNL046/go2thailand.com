@@ -1,0 +1,81 @@
+{
+  "id": 2,
+  "slug": "wat-phra-that-doi-kong-mu",
+  "name": {
+    "en": "Wat Phra That Doi Kong Mu",
+    "nl": "Wat Phra That Doi Kong Mu"
+  },
+  "type": "temple",
+  "city_slug": "mae-hong-son",
+  "address": "Siri Mongkol hillside, Chong Kham, Mueang Mae Hong Son District, Mae Hong Son 58000",
+  "location": {
+    "lat": 19.3000449,
+    "lng": 97.9603271
+  },
+  "opening_hours": "Recheck current temple access and road conditions before visiting",
+  "entrance_fee": {
+    "thb": null,
+    "usd": null
+  },
+  "description": {
+    "en": "The hilltop temple and panorama that explains the shape of the whole Mae Hong Son basin.",
+    "nl": "De tempel op de heuveltop en het panorama dat de vorm van de hele Mae Hong Son-vallei uitlegt."
+  },
+  "highlights": [
+    "Best valley viewpoint",
+    "Town orientation stop",
+    "Hilltop temple atmosphere"
+  ],
+  "image": "/images/cities/generated/mae-hong-son.webp",
+  "seo": {
+    "metaTitle": {
+      "en": "Wat Phra That Doi Kong Mu | Go2Thailand",
+      "nl": "Wat Phra That Doi Kong Mu | Go2Thailand"
+    },
+    "metaDescription": {
+      "en": "Why Doi Kong Mu is the best orientation stop for understanding Mae Hong Son town and valley.",
+      "nl": "Waarom Doi Kong Mu de beste oriëntatiestop is om Mae Hong Son stad en vallei te begrijpen."
+    }
+  },
+  "tags": [
+    "mae-hong-son",
+    "doi-kong-mu",
+    "viewpoint",
+    "temple",
+    "shan-culture"
+  ],
+  "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=Wat%20Phra%20That%20Doi%20Kong%20Mu%20Mae%20Hong%20Son%20Thailand",
+  "best_time": "morning or sunset",
+  "duration_hours": 1.5,
+  "enhanced_description": "Doi Kong Mu is the place that makes the rest of Mae Hong Son make sense. From here, you can see how compact the town is, how the lakefront sits in the basin, and how quickly the valley closes into mountain roads once you leave the center. That overview is why this stop matters more than just a nice view.\n\nIt also helps you make better decisions for the rest of the stay. If the basin, lakefront, and town scale already feel satisfying from above, you may not need to overbuild the itinerary with long detours. If you do want more distance, Doi Kong Mu tells you what kind of road day you are signing up for.",
+  "detailed_history": "TAT's current Mae Hong Son material still highlights the mountain-top Wat Phra That Doi Kong Mu as the main panoramic temple over the town. That official positioning is consistent with how travelers actually use the site: as both a religious landmark and the clearest geographic overview of the town basin.",
+  "visitor_experience": "Expect a short but important stop. The real value is the orientation it gives to the town and valley. This is most useful early in the trip, before you decide how ambitious to be with the outer-valley plan.",
+  "best_time_to_visit": {
+    "time_of_day": "Morning or softer late-day light",
+    "duration": "About 60 to 90 minutes",
+    "crowd_level": "Usually moderate, especially around the most photogenic windows"
+  },
+  "practical_info": {
+    "how_to_get_there": "Use a short uphill drive or ride from town rather than trying to fold it into a long walking day.",
+    "nearby_attractions": "Nong Jong Kham, the central morning market, and the B2 and Imperial hotel side of town.",
+    "food_options": "Eat in town before or after the stop rather than expecting this to function as a food destination.",
+    "shopping": "Minimal; this is about the temple and view, not retail."
+  },
+  "insider_tips": [
+    "Do this early in the stay if possible.",
+    "Use the view to simplify your plan rather than to add more distance automatically.",
+    "Treat it as both a religious site and a geographic overview."
+  ],
+  "verified_note": "Source-backed summary based on official TAT framing of Doi Kong Mu and Mae Hong Son town. Conditions and access can change with weather and local operations.",
+  "cultural_significance": "Doi Kong Mu is both the main panoramic overview of Mae Hong Son and one of the clearest religious landmarks tying the town to its Shan-influenced mountain setting.",
+  "contentSources": [
+    {
+      "name": "MAE HONG SON-PAI: A SUMMARY ESCAPE TO THE VALLEY OF ETHNIC GROUPS",
+      "url": "https://www.tourismthailand.org/Articles/mae-hong-son-pai-a-summary-escape-to-the-valley-of-ethnic-groups-2"
+    },
+    {
+      "name": "Official Mae Hong Son town map",
+      "url": "https://www.maeheepai.go.th/upload/catalogs_file/catalogs_file_257_17_8_524.pdf"
+    }
+  ]
+}
