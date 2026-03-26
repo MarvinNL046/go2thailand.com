@@ -66,8 +66,8 @@
     },
     {
       "slug": "kanchanaburi",
-      "status": "pending",
-      "notes": ""
+      "status": "done",
+      "notes": "English city cluster rebuilt with source-backed split town-versus-upriver planning, curated attraction detail pages, stronger food and hotel logic, and validated with jq, tsc, and localhost render checks."
     },
     {
       "slug": "khon-kaen",

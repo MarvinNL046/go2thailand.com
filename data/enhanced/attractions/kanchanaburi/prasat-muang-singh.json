@@ -1,0 +1,82 @@
+{
+  "id": 5,
+  "slug": "prasat-muang-singh",
+  "name": {
+    "en": "Prasat Muang Singh Historical Park",
+    "nl": "Prasat Muang Singh Historisch Park"
+  },
+  "type": "historic",
+  "city_slug": "kanchanaburi",
+  "address": "Sing, Sai Yok District, Kanchanaburi 71150",
+  "location": {
+    "lat": 14.0395,
+    "lng": 99.2430
+  },
+  "opening_hours": "Daily 08:00-17:00",
+  "entrance_fee": {
+    "thb": 120,
+    "usd": 4
+  },
+  "description": {
+    "en": "A Khmer-era historical park that adds pre-modern depth to a province often reduced to twentieth-century war history.",
+    "nl": "Een Khmer-historisch park dat premoderne diepte toevoegt aan een provincie die vaak wordt gereduceerd tot twintigste-eeuwse oorlogsgeschiedenis."
+  },
+  "highlights": [
+    "Khmer-era ruins",
+    "Official Fine Arts park",
+    "Strong non-WWII history stop"
+  ],
+  "image": "/images/cities/generated/kanchanaburi.webp",
+  "official_website": "https://virtualhistoricalpark.finearts.go.th/muangsing/index.php/en/map.html",
+  "seo": {
+    "metaTitle": {
+      "en": "Prasat Muang Singh Historical Park | Go2Thailand",
+      "nl": "Prasat Muang Singh Historisch Park | Go2Thailand"
+    },
+    "metaDescription": {
+      "en": "Why Prasat Muang Singh is Kanchanaburi's strongest non-WWII historical stop.",
+      "nl": "Waarom Prasat Muang Singh de sterkste niet-WOII historische stop van Kanchanaburi is."
+    }
+  },
+  "tags": [
+    "historic",
+    "khmer",
+    "muang singh",
+    "kanchanaburi",
+    "thailand"
+  ],
+  "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=Prasat%20Muang%20Singh%20Historical%20Park%20Kanchanaburi%20Thailand",
+  "best_time": "morning or late afternoon",
+  "duration_hours": 2,
+  "enhanced_description": "Prasat Muang Singh is one of the easiest ways to make Kanchanaburi feel broader than a single railway narrative. The province is rightly known for WWII history, but this historical park adds an older Khmer-era layer and gives repeat visitors or more curious first-timers one solid reason to widen the itinerary.\n\nThe park works best when used selectively. It does not have to compete with Thailand's largest ruin complexes to be valuable. What it does well is scale, calm, and contrast. If your trip already has the bridge, cemetery, and one westbound memorial day in place, Prasat Muang Singh is a smart way to add historical range without making the itinerary feel overloaded.",
+  "detailed_history": "The Fine Arts Department's official historical-park material identifies Prasat Muang Singh as a formal historical park and provides the current visitor framework. In Kanchanaburi terms, it matters because it adds a Khmer-era layer to a province otherwise dominated in visitor planning by WWII sites.",
+  "visitor_experience": "Expect a calmer archaeological park rather than a heavily staged tourist attraction. The site suits travelers who want a quieter half-day and a different historical register from the railway memorial route.",
+  "best_time_to_visit": {
+    "time_of_day": "Morning or late afternoon",
+    "duration": "1.5 to 2 hours",
+    "crowd_level": "Usually quieter than the province's headline railway stops"
+  },
+  "practical_info": {
+    "how_to_get_there": "Reached by road as part of a westbound or Sai Yok-side route rather than as a central town walk.",
+    "nearby_attractions": "Westbound River Kwai route stops and the wider Sai Yok side of the province.",
+    "food_options": "Best combined with meals before or after the park rather than relying on the site itself for dining.",
+    "shopping": "Limited; this is a history-first stop."
+  },
+  "insider_tips": [
+    "Use this if you want one non-WWII historical stop, not because you feel obliged to add more attractions.",
+    "It pairs better with a road trip west of town than with a bridge-district-only day.",
+    "Morning and late afternoon are better than exposed midday hours."
+  ],
+  "verified_note": "Source-backed summary based on official Fine Arts Department material. Fees and operating details can change and should be rechecked before travel.",
+  "cultural_significance": "Prasat Muang Singh helps reposition Kanchanaburi as a province with deeper historical range than the railway era alone.",
+  "contentSources": [
+    {
+      "name": "Prasat Muang Singh Historical Park Map",
+      "url": "https://virtualhistoricalpark.finearts.go.th/muangsing/index.php/en/map.html"
+    },
+    {
+      "name": "Kanchanaburi Provincial Brochure",
+      "url": "https://amazingthailand.com.au/wp-content/uploads/2019/07/Kanchanaburi.pdf"
+    }
+  ]
+}

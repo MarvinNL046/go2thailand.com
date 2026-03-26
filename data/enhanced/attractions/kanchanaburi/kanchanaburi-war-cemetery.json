@@ -1,0 +1,82 @@
+{
+  "id": 4,
+  "slug": "kanchanaburi-war-cemetery",
+  "name": {
+    "en": "Kanchanaburi War Cemetery",
+    "nl": "Kanchanaburi Oorlogsbegraafplaats"
+  },
+  "type": "historic",
+  "city_slug": "kanchanaburi",
+  "address": "Saeng Chuto Road, Ban Tai, Mueang Kanchanaburi, Kanchanaburi 71000",
+  "location": {
+    "lat": 14.0319,
+    "lng": 99.5258
+  },
+  "opening_hours": "Daily",
+  "entrance_fee": {
+    "thb": 0,
+    "usd": 0
+  },
+  "description": {
+    "en": "A major CWGC remembrance site that should be visited together with the railway centre rather than on its own.",
+    "nl": "Een belangrijke CWGC-herdenkingssite die het sterkst is samen met het spoorwegcentrum, niet op zichzelf."
+  },
+  "highlights": [
+    "CWGC cemetery",
+    "Free entry",
+    "Best with nearby museum"
+  ],
+  "image": "/images/cities/generated/kanchanaburi.webp",
+  "official_website": "https://www.cwgc.org/visit-us/find-cemeteries-memorials/cemetery-details/2067200/KANCHANABURI%20WAR%20CEMETERY/",
+  "seo": {
+    "metaTitle": {
+      "en": "Kanchanaburi War Cemetery | Go2Thailand",
+      "nl": "Kanchanaburi Oorlogsbegraafplaats | Go2Thailand"
+    },
+    "metaDescription": {
+      "en": "Why Kanchanaburi War Cemetery is an essential part of the province's railway-history sequence.",
+      "nl": "Waarom de Kanchanaburi Oorlogsbegraafplaats een essentieel deel is van de spoorweghistorie in de provincie."
+    }
+  },
+  "tags": [
+    "historic",
+    "cemetery",
+    "wwii",
+    "kanchanaburi",
+    "thailand"
+  ],
+  "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=Kanchanaburi%20War%20Cemetery%20Thailand",
+  "best_time": "morning or late afternoon",
+  "duration_hours": 1,
+  "enhanced_description": "Kanchanaburi War Cemetery is one of the sites that gives the province's railway history its necessary gravity. The bridge may be the best-known image, but the cemetery is where the cost of the railway becomes harder to abstract. That is why it is best visited together with the Thailand-Burma Railway Centre rather than treated as a quick standalone stop.\n\nThe cemetery does not need a long visit to matter, but it does need the right tone. Slow down here. Read the setting carefully. Then let the museum and the wider route deepen what the cemetery has already made clear. Used that way, it becomes one of the most important stops in town rather than a secondary add-on.",
+  "detailed_history": "The Commonwealth War Graves Commission identifies Kanchanaburi War Cemetery as one of the major remembrance sites associated with the railway. It remains central to how the wartime dead linked to the Thailand-Burma Railway are publicly commemorated in the province.",
+  "visitor_experience": "Expect a quiet and ordered memorial space rather than a museum-style attraction. The visit is usually short, but it is one of the places in Kanchanaburi where rushing is most obviously the wrong approach.",
+  "best_time_to_visit": {
+    "time_of_day": "Morning or late afternoon",
+    "duration": "30 to 60 minutes",
+    "crowd_level": "Usually calmer outside peak tour windows"
+  },
+  "practical_info": {
+    "how_to_get_there": "Reached easily from central Kanchanaburi and usually combined with the railway centre on the same outing.",
+    "nearby_attractions": "Thailand-Burma Railway Centre, town-side history sites, and the bridge district.",
+    "food_options": "Best paired with meals elsewhere in town rather than treated as part of a dining area.",
+    "shopping": "Minimal on-site; the value here is remembrance, not tourism infrastructure."
+  },
+  "insider_tips": [
+    "Visit with the railway centre for the strongest context.",
+    "Keep the tone respectful and avoid treating the cemetery as a casual photo backdrop.",
+    "This is a short stop, but one of the most important in town."
+  ],
+  "verified_note": "Source-backed summary based on CWGC material. On-site access can change on special dates or commemorative occasions.",
+  "cultural_significance": "The cemetery is one of the most important remembrance sites in Kanchanaburi and anchors the human side of the railway story within the town itself.",
+  "contentSources": [
+    {
+      "name": "Kanchanaburi War Cemetery",
+      "url": "https://www.cwgc.org/visit-us/find-cemeteries-memorials/cemetery-details/2067200/KANCHANABURI%20WAR%20CEMETERY/"
+    },
+    {
+      "name": "Thailand-Burma Railway Centre",
+      "url": "https://www.tbrconline.com/"
+    }
+  ]
+}

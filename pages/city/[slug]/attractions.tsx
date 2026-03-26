@@ -84,7 +84,7 @@ export default function CityAttractionsPage({ city, attractions }: CityAttractio
   const metadata = {
     ...baseMetadata,
     title: `Top Attractions in ${city.name.en} 2026 — Must-See Places`,
-    description: `Explore the best attractions in ${city.name.en}: temples, markets, landmarks, and hidden gems. Current entrance fees, opening hours, and insider tips for 2026.`,
+    description: `Explore the strongest attractions in ${city.name.en} with practical route logic, local context, and the stops that actually justify your time.`,
   };
 
   return (

@@ -1,0 +1,82 @@
+{
+  "id": 3,
+  "slug": "hellfire-pass",
+  "name": {
+    "en": "Hellfire Pass",
+    "nl": "Hellfire Pass"
+  },
+  "type": "historic",
+  "city_slug": "kanchanaburi",
+  "address": "Sai Yok District, Kanchanaburi 71150",
+  "location": {
+    "lat": 14.3605,
+    "lng": 98.9453
+  },
+  "opening_hours": "Daily; check current museum and trail hours before departure",
+  "entrance_fee": {
+    "thb": 0,
+    "usd": 0
+  },
+  "description": {
+    "en": "The most affecting memorial landscape in Kanchanaburi, combining a museum and a railway-cutting trail.",
+    "nl": "Het meest indringende herdenkingslandschap van Kanchanaburi, met museum en wandelpad langs de spoorwegsnede."
+  },
+  "highlights": [
+    "Memorial museum",
+    "Walking trail",
+    "Best westbound history stop"
+  ],
+  "image": "/images/cities/generated/kanchanaburi.webp",
+  "official_website": "https://anzacportal.dva.gov.au/wars-and-missions/ww2/military-history/second-world-war-1939-1945/thailand-burma-railway/hellfire-pass",
+  "seo": {
+    "metaTitle": {
+      "en": "Hellfire Pass | Go2Thailand",
+      "nl": "Hellfire Pass | Go2Thailand"
+    },
+    "metaDescription": {
+      "en": "Why Hellfire Pass is Kanchanaburi's most serious westbound memorial stop.",
+      "nl": "Waarom Hellfire Pass de meest serieuze westelijke memorial stop van Kanchanaburi is."
+    }
+  },
+  "tags": [
+    "historic",
+    "wwii",
+    "hellfire pass",
+    "kanchanaburi",
+    "thailand"
+  ],
+  "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=Hellfire%20Pass%20Memorial%20Museum%20Kanchanaburi%20Thailand",
+  "best_time": "morning",
+  "duration_hours": 3,
+  "enhanced_description": "Hellfire Pass is the stop that makes the railway story feel physical. The bridge in town is symbolic and accessible, but Hellfire Pass shows the cut terrain and the real scale of labor that the memorial story points to. That is why it belongs on a deliberate westbound day rather than being treated as one more quick museum visit.\n\nThe site works best if you already have the basic town context from the bridge and railway centre. Arriving that way gives the museum and trail much more force. It also helps you avoid one of the most common Kanchanaburi mistakes: turning a serious memorial stop into rushed roadside sightseeing.",
+  "detailed_history": "The Australian government's Anzac Portal treats Hellfire Pass as one of the key locations within the Burma-Thailand Railway memory landscape. It is significant because it preserves one of the most difficult sections of the cutting and remains central to how the railway is publicly remembered today.",
+  "visitor_experience": "Expect a quieter and more demanding visit than the town-side memorial sites. The museum gives structure to the visit, but the trail is what makes the site different. Good pacing matters more here than adding more attractions afterward.",
+  "best_time_to_visit": {
+    "time_of_day": "Morning",
+    "duration": "2 to 3 hours",
+    "crowd_level": "Usually calmer earlier in the day"
+  },
+  "practical_info": {
+    "how_to_get_there": "Reached by road west of Kanchanaburi town as part of a Highway 323 or Sai Yok-side day.",
+    "nearby_attractions": "Sai Yok-side resorts, Death Railway route stops, and other westbound River Kwai sites.",
+    "food_options": "Best paired with a meal at your resort or back on the route rather than relying on it as a food stop.",
+    "shopping": "Visitor-oriented shopping is limited; this is primarily a memorial site."
+  },
+  "insider_tips": [
+    "Do the railway centre first if you want the memorial narrative to land more clearly.",
+    "Bring water and proper shoes because the trail matters as much as the museum.",
+    "Do not overpack the day with other major westbound stops unless you have already planned the route carefully."
+  ],
+  "verified_note": "Source-backed summary based on Australian Government memorial material. Trail access and on-site operating details can change and should be checked before departure.",
+  "cultural_significance": "Hellfire Pass remains one of the most important public remembrance sites tied to the Burma-Thailand Railway and gives Kanchanaburi's westbound route its strongest memorial focus.",
+  "contentSources": [
+    {
+      "name": "Hellfire Pass",
+      "url": "https://anzacportal.dva.gov.au/wars-and-missions/ww2/military-history/second-world-war-1939-1945/thailand-burma-railway/hellfire-pass"
+    },
+    {
+      "name": "Kanchanaburi today",
+      "url": "https://anzacportal.dva.gov.au/wars-and-missions/burma-thailand-railway-and-hellfire-pass-1942-1943/locations/remembering-railway/kanchanaburi-today"
+    }
+  ]
+}

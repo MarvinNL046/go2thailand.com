@@ -1,7 +1,7 @@
 {
   "city_slug": "kanchanaburi",
   "city_name": "Kanchanaburi",
-  "total_attractions": 10,
+  "total_attractions": 6,
   "attractions": [
     {
       "id": 1,
@@ -11,31 +11,23 @@
         "nl": "Brug over de Rivier Kwai"
       },
       "type": "historic",
-      "image": "/images/cities/ayutthaya/ayutthaya-historical-park.webp",
+      "image": "/images/cities/generated/kanchanaburi.webp",
       "description": {
-        "en": "Iconic WWII bridge built by Allied POWs, now a memorial and working railway crossing",
-        "nl": "Iconische WOII-brug gebouwd door geallieerde krijgsgevangenen, nu een gedenkteken en werkende spoorwegovergang"
+        "en": "Kanchanaburi's defining River Kwai landmark, still in railway use and best visited as part of the wider WWII history sequence.",
+        "nl": "Het bepalende River Kwai-landmark van Kanchanaburi, nog steeds in spoorgebruik en het sterkst als onderdeel van de bredere WOII-route."
       },
       "entrance_fee": {
         "thb": 0,
         "usd": 0
       },
       "highlights": [
-        "WWII history",
-        "Walk across the bridge",
-        "Train crossing"
+        "Working railway bridge",
+        "Essential first stop",
+        "Best with nearby museum and cemetery"
       ],
-      "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=Bridge%20over%20the%20River%20Kwai%20Kanchanaburi%20Thailand",
-      "seo": {
-        "metaTitle": {
-          "en": "Bridge Over the River Kwai — History, Tours & How to Visit",
-          "nl": "Brug over de Rivier Kwai — Geschiedenis, Tours & Bezoekgids"
-        },
-        "metaDescription": {
-          "en": "Visit the Bridge Over the River Kwai in Kanchanaburi. WWII history, Death Railway museum, tours & practical tips for your visit.",
-          "nl": "Bezoek de Brug over de Rivier Kwai in Kanchanaburi. WO2 geschiedenis, museum & praktische tips."
-        }
-      }
+      "best_time": "early morning or late afternoon",
+      "duration_hours": 1.5,
+      "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=Bridge%20over%20the%20River%20Kwai%20Kanchanaburi%20Thailand"
     },
     {
       "id": 2,
@@ -45,213 +37,127 @@
         "nl": "Erawan Nationaal Park"
       },
       "type": "nature",
-      "image": "/images/cities/ayutthaya/ayutthaya-historical-park.webp",
+      "image": "/images/cities/generated/kanchanaburi.webp",
       "description": {
-        "en": "Stunning seven-tiered waterfall with turquoise pools in lush jungle setting",
-        "nl": "Prachtige waterval met zeven niveaus en turquoise poelen in weelderige jungle"
+        "en": "The province's strongest nature day, centered on the seven-tier waterfall and a full outing west of town.",
+        "nl": "De sterkste natuurdag in de provincie, gebouwd rond de waterval met zeven niveaus en een volle dagtrip ten westen van de stad."
       },
       "entrance_fee": {
         "thb": 300,
         "usd": 9
       },
       "highlights": [
-        "Seven-tiered waterfall",
-        "Swimming pools",
-        "Jungle hiking"
+        "Seven waterfall tiers",
+        "Best-known natural stop",
+        "Full-day outing"
       ],
+      "best_time": "early morning",
+      "duration_hours": 6,
       "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=Erawan%20National%20Park%20Kanchanaburi%20Thailand"
     },
     {
       "id": 3,
-      "slug": "death-railway",
-      "name": {
-        "en": "Death Railway (Thailand-Burma Railway)",
-        "nl": "Dodenspoorweg (Thailand-Burma Spoorweg)"
-      },
-      "type": "historic",
-      "image": "/images/cities/ayutthaya/ayutthaya-historical-park.webp",
-      "description": {
-        "en": "Historic railway line built by POWs during WWII, featuring scenic clifftop sections over the River Kwai",
-        "nl": "Historische spoorlijn gebouwd door krijgsgevangenen tijdens WOII, met schilderachtige klifgedeelten boven de Rivier Kwai"
-      },
-      "entrance_fee": {
-        "thb": 100,
-        "usd": 3
-      },
-      "highlights": [
-        "Scenic train ride",
-        "WWII history",
-        "Tham Krasae viaduct"
-      ],
-      "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=Death%20Railway%20(Thailand-Burma%20Railway)%20Kanchanaburi%20Thailand"
-    },
-    {
-      "id": 4,
       "slug": "hellfire-pass",
       "name": {
-        "en": "Hellfire Pass Memorial Museum",
-        "nl": "Hellfire Pass Herdenkingsmuseum"
+        "en": "Hellfire Pass",
+        "nl": "Hellfire Pass"
       },
-      "type": "museum",
-      "image": "/images/cities/ayutthaya/ayutthaya-historical-park.webp",
+      "type": "historic",
+      "image": "/images/cities/generated/kanchanaburi.webp",
       "description": {
-        "en": "Moving memorial museum and walking trail at the deepest railway cutting carved by POWs with hand tools",
-        "nl": "Ontroerend herdenkingsmuseum en wandelpad bij de diepste spoorweginsnijding uitgehakt door krijgsgevangenen met handgereedschap"
+        "en": "The province's most affecting memorial landscape, with a museum and walking trail through the railway cutting.",
+        "nl": "Het meest indringende herdenkingslandschap van de provincie, met museum en wandelpad door de spoorwegsnede."
       },
       "entrance_fee": {
         "thb": 0,
         "usd": 0
       },
       "highlights": [
-        "Museum exhibits",
+        "Memorial museum",
         "Walking trail",
-        "WWII memorial"
+        "Best westbound history stop"
       ],
+      "best_time": "morning",
+      "duration_hours": 3,
       "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=Hellfire%20Pass%20Memorial%20Museum%20Kanchanaburi%20Thailand"
     },
     {
-      "id": 5,
+      "id": 4,
       "slug": "kanchanaburi-war-cemetery",
       "name": {
-        "en": "Kanchanaburi War Cemetery (Don Rak)",
-        "nl": "Kanchanaburi Oorlogsbegraafplaats (Don Rak)"
+        "en": "Kanchanaburi War Cemetery",
+        "nl": "Kanchanaburi Oorlogsbegraafplaats"
       },
       "type": "historic",
-      "image": "/images/cities/ayutthaya/ayutthaya-historical-park.webp",
+      "image": "/images/cities/generated/kanchanaburi.webp",
       "description": {
-        "en": "Beautifully maintained Commonwealth war cemetery with nearly 7,000 Allied POW graves from WWII",
-        "nl": "Prachtig onderhouden Gemenebest oorlogsbegraafplaats met bijna 7.000 geallieerde krijgsgevangengraven uit WOII"
+        "en": "A major CWGC remembrance site that belongs with the railway centre and bridge, not as an isolated stop.",
+        "nl": "Een belangrijke CWGC-herdenkingsplek die hoort bij het spoorwegcentrum en de brug, niet als losse stop."
       },
       "entrance_fee": {
         "thb": 0,
         "usd": 0
       },
       "highlights": [
-        "War memorial",
-        "6,982 graves",
-        "Immaculate gardens"
+        "CWGC cemetery",
+        "Free entry",
+        "Best with nearby museum"
       ],
-      "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=Kanchanaburi%20War%20Cemetery%20(Don%20Rak)%20Kanchanaburi%20Thailand"
+      "best_time": "morning or late afternoon",
+      "duration_hours": 1,
+      "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=Kanchanaburi%20War%20Cemetery%20Thailand"
     },
     {
-      "id": 6,
-      "slug": "thailand-burma-railway-centre",
-      "name": {
-        "en": "Thailand-Burma Railway Centre",
-        "nl": "Thailand-Burma Spoorweg Centrum"
-      },
-      "type": "museum",
-      "image": "/images/cities/ayutthaya/ayutthaya-historical-park.webp",
-      "description": {
-        "en": "Modern interactive museum documenting the construction of the Death Railway with detailed exhibits and personal stories",
-        "nl": "Modern interactief museum dat de bouw van de Dodenspoorweg documenteert met gedetailleerde tentoonstellingen en persoonlijke verhalen"
-      },
-      "entrance_fee": {
-        "thb": 140,
-        "usd": 4
-      },
-      "highlights": [
-        "Interactive exhibits",
-        "Personal stories",
-        "Historical research"
-      ],
-      "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=Thailand-Burma%20Railway%20Centre%20Kanchanaburi%20Thailand"
-    },
-    {
-      "id": 7,
-      "slug": "sai-yok-yai-waterfall",
-      "name": {
-        "en": "Sai Yok Yai Waterfall",
-        "nl": "Sai Yok Yai Waterval"
-      },
-      "type": "nature",
-      "image": "/images/cities/ayutthaya/ayutthaya-historical-park.webp",
-      "description": {
-        "en": "Beautiful waterfall cascading directly into the River Kwai Noi, surrounded by pristine jungle",
-        "nl": "Prachtige waterval die direct in de Rivier Kwai Noi stroomt, omgeven door ongerepte jungle"
-      },
-      "entrance_fee": {
-        "thb": 300,
-        "usd": 9
-      },
-      "highlights": [
-        "River Kwai Noi",
-        "Jungle scenery",
-        "Swimming"
-      ],
-      "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=Sai%20Yok%20Yai%20Waterfall%20Kanchanaburi%20Thailand"
-    },
-    {
-      "id": 8,
+      "id": 5,
       "slug": "prasat-muang-singh",
       "name": {
         "en": "Prasat Muang Singh Historical Park",
         "nl": "Prasat Muang Singh Historisch Park"
       },
       "type": "historic",
-      "image": "/images/cities/ayutthaya/ayutthaya-historical-park.webp",
+      "image": "/images/cities/generated/kanchanaburi.webp",
       "description": {
-        "en": "13th-century Khmer ruins on the banks of the River Kwai Noi, the westernmost outpost of the Angkor Empire",
-        "nl": "13e-eeuwse Khmer-ruines aan de oevers van de Rivier Kwai Noi, de meest westelijke buitenpost van het Angkor-rijk"
+        "en": "A Khmer-era historical park that broadens Kanchanaburi beyond its WWII identity.",
+        "nl": "Een Khmer-historisch park dat Kanchanaburi verbreedt voorbij alleen de WOII-identiteit."
       },
       "entrance_fee": {
-        "thb": 100,
-        "usd": 3
+        "thb": 120,
+        "usd": 4
       },
       "highlights": [
-        "Khmer ruins",
-        "Riverside setting",
-        "Ancient history"
+        "Khmer-era ruins",
+        "Good non-WWII half-day stop",
+        "Official Fine Arts park"
       ],
+      "best_time": "morning or late afternoon",
+      "duration_hours": 2,
       "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=Prasat%20Muang%20Singh%20Historical%20Park%20Kanchanaburi%20Thailand"
     },
     {
-      "id": 9,
-      "slug": "elephant-world-kanchanaburi",
+      "id": 6,
+      "slug": "thailand-burma-railway-centre",
       "name": {
-        "en": "Elephant World Kanchanaburi",
-        "nl": "Elephant World Kanchanaburi"
-      },
-      "type": "nature",
-      "image": "/images/cities/ayutthaya/ayutthaya-historical-park.webp",
-      "description": {
-        "en": "Ethical elephant sanctuary where visitors can feed, bathe, and walk with rescued elephants in a natural setting",
-        "nl": "Ethisch olifantenopvangcentrum waar bezoekers geredde olifanten kunnen voeren, wassen en mee wandelen in een natuurlijke omgeving"
-      },
-      "entrance_fee": {
-        "thb": 2500,
-        "usd": 72
-      },
-      "highlights": [
-        "Ethical sanctuary",
-        "Elephant bathing",
-        "Conservation education"
-      ],
-      "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=Elephant%20World%20Kanchanaburi%20Kanchanaburi%20Thailand"
-    },
-    {
-      "id": 10,
-      "slug": "jeath-war-museum",
-      "name": {
-        "en": "JEATH War Museum",
-        "nl": "JEATH Oorlogsmuseum"
+        "en": "Thailand-Burma Railway Centre",
+        "nl": "Thailand-Burma Spoorwegcentrum"
       },
       "type": "museum",
-      "image": "/images/cities/ayutthaya/ayutthaya-historical-park.webp",
+      "image": "/images/cities/generated/kanchanaburi.webp",
       "description": {
-        "en": "Small museum in a replica bamboo POW hut displaying wartime artifacts and photographs from the Death Railway era",
-        "nl": "Klein museum in een replica bamboe krijgsgevangenenhut met oorlogsartefacten en foto's uit het Dodenspoorwegtijdperk"
+        "en": "The strongest interpretive museum in town for understanding the railway before you head to the bridge or westbound sites.",
+        "nl": "Het sterkste interpretatieve museum in de stad om de spoorweg te begrijpen voor je naar de brug of westelijke sites gaat."
       },
       "entrance_fee": {
-        "thb": 40,
-        "usd": 1
+        "thb": 160,
+        "usd": 5
       },
       "highlights": [
-        "POW artifacts",
-        "Bamboo hut replica",
-        "WWII photographs"
+        "Best railway-history museum",
+        "Easy with the cemetery",
+        "Strong town-side context stop"
       ],
-      "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=JEATH%20War%20Museum%20Kanchanaburi%20Thailand"
+      "best_time": "morning or early afternoon",
+      "duration_hours": 2,
+      "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=Thailand-Burma%20Railway%20Centre%20Kanchanaburi%20Thailand"
     }
   ]
 }

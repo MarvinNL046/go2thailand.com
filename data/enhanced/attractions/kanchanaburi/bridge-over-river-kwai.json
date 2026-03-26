@@ -1,0 +1,82 @@
+{
+  "id": 1,
+  "slug": "bridge-over-river-kwai",
+  "name": {
+    "en": "Bridge over the River Kwai",
+    "nl": "Brug over de Rivier Kwai"
+  },
+  "type": "historic",
+  "city_slug": "kanchanaburi",
+  "address": "Tha Ma Kham, Mueang Kanchanaburi, Kanchanaburi 71000",
+  "location": {
+    "lat": 14.0402,
+    "lng": 99.5047
+  },
+  "opening_hours": "Open access; trains still use the bridge",
+  "entrance_fee": {
+    "thb": 0,
+    "usd": 0
+  },
+  "description": {
+    "en": "The best-known River Kwai landmark and the visual anchor of Kanchanaburi's railway history.",
+    "nl": "Het bekendste River Kwai-landmark en het visuele anker van Kanchanaburi's spoorweggeschiedenis."
+  },
+  "highlights": [
+    "Working railway bridge",
+    "Best-known Kanchanaburi landmark",
+    "Essential with nearby history sites"
+  ],
+  "image": "/images/cities/generated/kanchanaburi.webp",
+  "official_website": null,
+  "seo": {
+    "metaTitle": {
+      "en": "Bridge over the River Kwai | Go2Thailand",
+      "nl": "Brug over de Rivier Kwai | Go2Thailand"
+    },
+    "metaDescription": {
+      "en": "Why the Bridge over the River Kwai matters most when paired with Kanchanaburi's museum and cemetery stops.",
+      "nl": "Waarom de Brug over de Rivier Kwai het sterkst is samen met museum- en begraafplaatsstops in Kanchanaburi."
+    }
+  },
+  "tags": [
+    "historic",
+    "river kwai",
+    "wwii",
+    "kanchanaburi",
+    "thailand"
+  ],
+  "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=Bridge%20over%20the%20River%20Kwai%20Kanchanaburi%20Thailand",
+  "best_time": "early morning or late afternoon",
+  "duration_hours": 1.5,
+  "enhanced_description": "The Bridge over the River Kwai matters because it is the most visible symbol of the railway story in Kanchanaburi, but it is not the whole story by itself. The bridge is still active railway infrastructure, which gives it unusual weight compared with a purely preserved monument. That is also why the best visit here is short and intentional rather than stretched into a half-day stop with little context.\n\nThe right way to use the bridge is as the opening move in a town-side history block. Start here, then continue to the Thailand-Burma Railway Centre and Kanchanaburi War Cemetery so the bridge is connected back to the people and the wider railway system it represents. Used that way, it becomes a landmark with meaning rather than just a required photo.",
+  "detailed_history": "Tourism Authority of Thailand destination material still treats the bridge as the province's defining River Kwai site, while the Thailand-Burma Railway Centre provides the researched context that explains how it fits into the broader railway story. The bridge remains one of the most recognizable remnants linked to the wartime railway route through Kanchanaburi.",
+  "visitor_experience": "Expect an active landmark rather than a museum-like enclosed attraction. The bridge is easy to visit, but the area around it is busier and more commercial than the memorial sites in town. That makes it more effective as a first stop than as the emotional center of the day.",
+  "best_time_to_visit": {
+    "time_of_day": "Early morning or late afternoon",
+    "duration": "45 to 90 minutes",
+    "crowd_level": "Usually busiest later in the day and on weekends"
+  },
+  "practical_info": {
+    "how_to_get_there": "Reached easily from the bridge district and town-side River Kwai hotels by short local ride or walk, depending on where you stay.",
+    "nearby_attractions": "Thailand-Burma Railway Centre, Kanchanaburi War Cemetery, JEATH-area memorial stops, and bridge-side riverfront restaurants.",
+    "food_options": "Bridge-area cafes and riverfront restaurants are nearby, though old-town and market food are often more varied later in the day.",
+    "shopping": "Souvenirs and small stalls are common around the bridge approach."
+  },
+  "insider_tips": [
+    "Do not stop at the bridge alone if you want the history side of Kanchanaburi to feel complete.",
+    "Stay alert for trains because the line is still in use.",
+    "Use the bridge first, then move to the railway centre and cemetery for better context."
+  ],
+  "verified_note": "Source-backed summary based on official Tourism Authority of Thailand destination material and the Thailand-Burma Railway Centre. Exact train timing can change and should be checked locally.",
+  "cultural_significance": "The bridge remains Kanchanaburi's best-known public symbol, connecting local tourism identity with one of the most internationally recognized chapters of the Thailand-Burma Railway story.",
+  "contentSources": [
+    {
+      "name": "Kanchanaburi Provincial Brochure",
+      "url": "https://amazingthailand.com.au/wp-content/uploads/2019/07/Kanchanaburi.pdf"
+    },
+    {
+      "name": "Thailand-Burma Railway Centre",
+      "url": "https://www.tbrconline.com/"
+    }
+  ]
+}

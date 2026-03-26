@@ -1,0 +1,82 @@
+{
+  "id": 2,
+  "slug": "erawan-national-park",
+  "name": {
+    "en": "Erawan National Park",
+    "nl": "Erawan Nationaal Park"
+  },
+  "type": "nature",
+  "city_slug": "kanchanaburi",
+  "address": "Tha Kradan, Si Sawat District, Kanchanaburi 71250",
+  "location": {
+    "lat": 14.3670,
+    "lng": 99.1430
+  },
+  "opening_hours": "Daily; check current park hours before departure",
+  "entrance_fee": {
+    "thb": 300,
+    "usd": 9
+  },
+  "description": {
+    "en": "Kanchanaburi's best-known nature day, centered on the seven-tier Erawan waterfall.",
+    "nl": "De bekendste natuurdag van Kanchanaburi, gebouwd rond de Erawan-waterval met zeven niveaus."
+  },
+  "highlights": [
+    "Seven waterfall tiers",
+    "Best-known natural attraction",
+    "Strong full-day outing"
+  ],
+  "image": "/images/cities/generated/kanchanaburi.webp",
+  "official_website": "https://www.erawan-nationalpark.com/",
+  "seo": {
+    "metaTitle": {
+      "en": "Erawan National Park | Go2Thailand",
+      "nl": "Erawan Nationaal Park | Go2Thailand"
+    },
+    "metaDescription": {
+      "en": "Why Erawan National Park deserves its own westbound day from Kanchanaburi.",
+      "nl": "Waarom Erawan Nationaal Park zijn eigen westelijke dagtrip vanuit Kanchanaburi verdient."
+    }
+  },
+  "tags": [
+    "nature",
+    "waterfall",
+    "erawan",
+    "kanchanaburi",
+    "thailand"
+  ],
+  "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=Erawan%20National%20Park%20Kanchanaburi%20Thailand",
+  "best_time": "early morning",
+  "duration_hours": 6,
+  "enhanced_description": "Erawan National Park is the clearest reason to give the westbound side of Kanchanaburi a full day of its own. The province's memorial and museum layer can be done from town, but Erawan belongs to a different rhythm entirely: an early start, a waterfall-first day, and enough time to let the park be the main event instead of one more rushed stop on a crowded route.\n\nThat distinction matters because first-time itineraries often overload Kanchanaburi. Erawan works best when you do not pair it with too many other major sites. If the railway memorials are the point of one day, let Erawan be the point of another. That gives the province real range without flattening both halves of the trip.",
+  "detailed_history": "Tourism Authority of Thailand's Kanchanaburi destination material consistently positions Erawan among the province's headline natural draws. The park is known primarily through the multi-tier waterfall route and remains one of the province's most established full-day nature outings.",
+  "visitor_experience": "Expect a proper day trip rather than a quick scenic pause. The strongest version is an early departure, time to move through the waterfall levels at your own pace, and no pressure to cram in a second major westbound attraction afterward.",
+  "best_time_to_visit": {
+    "time_of_day": "Start early",
+    "duration": "Half day to full day",
+    "crowd_level": "Can become crowded later in the morning and on weekends"
+  },
+  "practical_info": {
+    "how_to_get_there": "Usually reached by road from Kanchanaburi town, either by organized tour, hired car, or other westbound transport planning.",
+    "nearby_attractions": "Westbound River Kwai route stops and resort zones, though Erawan is strongest as a destination in its own right.",
+    "food_options": "Simple park-side food and drinks are available, but many travelers plan a more substantial meal before returning to town or to their hotel.",
+    "shopping": "Minimal beyond basic visitor needs and snacks."
+  },
+  "insider_tips": [
+    "Do not force Hellfire Pass into the same day unless you already know exactly how you are moving west.",
+    "Start early if you want the park to feel like a proper nature day rather than a crowded midday stop.",
+    "Good footwear and water matter more than trying to overplan the rest of the day."
+  ],
+  "verified_note": "Source-backed summary based on official park and Tourism Authority of Thailand destination material. Park fees and operating details can change and should be checked again before travel.",
+  "cultural_significance": "Erawan gives Kanchanaburi its strongest non-historical identity and balances the province's memorial side with a genuinely worthwhile nature day.",
+  "contentSources": [
+    {
+      "name": "Kanchanaburi Provincial Brochure",
+      "url": "https://amazingthailand.com.au/wp-content/uploads/2019/07/Kanchanaburi.pdf"
+    },
+    {
+      "name": "Erawan National Park",
+      "url": "https://www.erawan-nationalpark.com/"
+    }
+  ]
+}

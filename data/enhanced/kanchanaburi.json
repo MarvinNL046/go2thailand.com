@@ -15,22 +15,24 @@
   "region": "Central",
   "province": "Kanchanaburi",
   "description": {
-    "en": "Historic city on the River Kwai, known for WWII sites, stunning waterfalls, and jungle adventures. Home to the famous Bridge over the River Kwai and the breathtaking Erawan National Park.",
-    "nl": "Historische stad aan de rivier Kwai, bekend om WOII-locaties, prachtige watervallen en jungleavonturen. Thuisbasis van de beroemde Brug over de Rivier Kwai en het adembenemende Erawan Nationaal Park.",
-    "ja": "クワイ川沿いの歴史ある街。第二次世界大戦の史跡、壮大な滝、ジャングルアドベンチャーで有名。",
-    "ko": "콰이강변의 역사적인 도시로, 제2차 세계대전 유적지, 멋진 폭포, 정글 어드벤처로 유명합니다. 유명한 콰이강의 다리와 숨막히는 에라완 국립공원이 있습니다.",
-    "th": "เมืองแห่งประวัติศาสตร์สงครามโลก มีสะพานข้ามแม่น้ำแคว น้ำตกเอราวัณ และธรรมชาติอันงดงาม",
-    "de": "Historische Stadt am Kwai-Fluss, bekannt für Stätten des Zweiten Weltkriegs, beeindruckende Wasserfälle und Dschungelabenteuer. Heimat der berühmten Brücke über den Kwai-Fluss und des atemberaubenden Erawan-Nationalparks.",
-    "fr": "Ville historique sur le fleuve Kwai, connue pour les sites de la Seconde Guerre mondiale, ses magnifiques cascades et ses aventures en jungle. Accueille le célèbre Pont sur le fleuve Kwai et le spectaculaire parc national d’Erawan.",
-    "ru": "Исторический город на реке Квай, известный памятниками времен Второй мировой войны, великолепными водопадами и джунглями. Дом знаменитого моста через реку Квай и потрясающего Национального парка Эраван.",
-    "zh": "克瓦伊河畔的历史名城，以二战遗址、壮观的瀑布和丛林探险而闻名。这里是著名的克瓦伊河大桥所在地，以及令人叹为观止的埃拉旺国家公园。"
+    "en": "A River Kwai province where WWII memorial sites, museum-grade history, waterfalls, and upriver raft stays fit far better over two or three nights than on a rushed Bangkok day trip.",
+    "nl": "Een provincie aan de River Kwai waar WOII-herinneringsplekken, sterke musea, watervallen en upriver raft stays veel beter werken over twee of drie nachten dan tijdens een gehaaste dagtrip vanuit Bangkok.",
+    "ja": "カンチャナブリーは、クワイ川、第二次世界大戦の記憶、滝、そして上流のリバーサイド滞在を、日帰りではなく2〜3泊で組み立てると良さが出る目的地です。",
+    "ko": "칸차나부리는 콰이강의 전쟁사, 박물관급 역사 유적, 폭포, 상류 강변 숙소를 방콕 당일치기보다 2박 이상으로 묶을 때 훨씬 설득력 있게 다가오는 여행지입니다.",
+    "th": "กาญจนบุรีเป็นจังหวัดริมแม่น้ำแควที่เหมาะกับการค้าง 2-3 คืนมากกว่าทริปเช้าไปเย็นกลับ เพราะมีทั้งแหล่งประวัติศาสตร์สงครามโลก พิพิธภัณฑ์ น้ำตก และที่พักล่องแพหรือรีสอร์ตริมน้ำทางตอนบน",
+    "de": "Kanchanaburi funktioniert mit Kriegsgeschichte, Museen, Wasserfällen und Flussunterkünften am Kwai deutlich besser über zwei bis drei Nächte als als hastiger Tagesausflug von Bangkok.",
+    "fr": "Kanchanaburi fonctionne bien mieux sur deux ou trois nuits que lors d'une excursion rapide depuis Bangkok, grâce à son histoire de la Seconde Guerre mondiale, ses musées, ses cascades et ses séjours en amont du fleuve.",
+    "ru": "Канчанабури раскрывается гораздо лучше за 2-3 ночи, чем в формате спешной однодневной поездки из Бангкока: здесь сочетаются военная история, сильные музеи, водопады и речные лоджи выше по течению.",
+    "zh": "北碧更适合安排 2 到 3 晚，而不是匆忙的一日游：这里把桂河二战历史、博物馆、瀑布与上游漂浮住宿结合得更完整。"
   },
   "population": 31242,
   "highlights": [
-    "Bridge over River Kwai",
+    "Bridge over the River Kwai",
+    "Thailand-Burma Railway Centre",
+    "Hellfire Pass",
     "Erawan National Park",
-    "Death Railway",
-    "Hellfire Pass"
+    "Prasat Muang Singh",
+    "River Kwai raft hotels"
   ],
   "location": {
     "lat": 14.0223,
@@ -39,494 +41,670 @@
   "image": "/images/cities/generated/kanchanaburi.webp",
   "seo": {
     "metaTitle": {
-      "en": "Discover Kanchanaburi | What to do in Kanchanaburi?",
-      "nl": "Ontdek Kanchanaburi | Wat te doen in Kanchanaburi?",
-      "ja": "カンチャナブリー タイ — クワイ川観光ガイド 2026",
-      "ko": "칸차나부리 태국 — 여행 가이드, 역사 & 즐길거리 2026",
-      "th": "กาญจนบุรี ประเทศไทย — คู่มือท่องเที่ยวฉบับสมบูรณ์ 2026",
-      "de": "Entdecken Sie Kanchanaburi | Was tun in Kanchanaburi?",
-      "fr": "Découvrez Kanchanaburi | Que faire à Kanchanaburi ?",
-      "ru": "Откройте для себя Канчанабури | Что делать в Канчанабури?",
-      "zh": "发现 Kanchanaburi | 在 Kanchanaburi 做什么？"
+      "en": "Kanchanaburi Thailand Guide 2026 | River Kwai, Erawan, Hotels",
+      "nl": "Kanchanaburi Thailand Gids 2026 | River Kwai, Erawan, Hotels",
+      "ja": "カンチャナブリー タイ旅行ガイド 2026 | クワイ川、エラワン、ホテル",
+      "ko": "칸차나부리 태국 가이드 2026 | 콰이강, 에라완, 호텔",
+      "th": "กาญจนบุรี 2026 | แม่น้ำแคว เอราวัณ และที่พัก",
+      "de": "Kanchanaburi Thailand Guide 2026 | River Kwai, Erawan, Hotels",
+      "fr": "Guide Kanchanaburi 2026 | River Kwai, Erawan, hôtels",
+      "ru": "Канчанабури 2026 | Река Квай, Эраван, отели",
+      "zh": "北碧旅行指南 2026 | 桂河、爱侣湾与酒店"
     },
     "metaDescription": {
-      "en": "Your guide to Kanchanaburi, Thailand – tips, highlights, food, hotels.",
-      "nl": "Jouw gids voor Kanchanaburi, Thailand – tips, highlights, eten, hotels.",
-      "ja": "カンチャナブリー（タイ）旅行ガイド — おすすめスポット、グルメ、ホテル情報。2026年更新。",
-      "ko": "칸차나부리(태국) 완벽 여행 가이드: 콰이강의 다리, 에라완 폭포, 정글 투어. 가격, 팁, 방콕에서 가는 법.",
-      "th": "คู่มือท่องเที่ยวกาญจนบุรี ประเทศไทย — สถานที่ท่องเที่ยว อาหาร ที่พัก และเคล็ดลับ อัปเดต 2026",
-      "de": "Ihr Reiseführer für Kanchanaburi, Thailand – Tipps, Highlights, Essen, Hotels.",
-      "fr": "Votre guide de Kanchanaburi, Thaïlande – conseils, incontournables, gastronomie, hôtels.",
-      "ru": "Ваш гид по Канчанабури, Таиланд — советы, основные достопримечательности, еда, отели.",
-      "zh": "您在泰国 Kanchanaburi 的指南——提示、亮点、美食、酒店。"
+      "en": "Plan Kanchanaburi properly with River Kwai history, Erawan logistics, raft-hotel stays, curated restaurants, and hotel picks that fit either town or upriver nights.",
+      "nl": "Plan Kanchanaburi slimmer met River Kwai-geschiedenis, Erawan-logistiek, raft stays, sterke restaurants en hotelkeuzes voor town of upriver overnachtingen.",
+      "ja": "クワイ川の歴史、エラワンの行き方、ラフトホテル、レストラン、街泊と上流泊の違いまで整理したカンチャナブリー実用ガイドです。",
+      "ko": "콰이강 역사, 에라완 이동, 래프트 호텔, 식당, 시내 숙소와 상류 숙소의 차이까지 정리한 칸차나부리 실전 가이드입니다.",
+      "th": "วางแผนเที่ยวกาญจนบุรีให้ดีขึ้นด้วยประวัติศาสตร์แม่น้ำแคว การเดินทางไปเอราวัณ ที่พักแพหรือรีสอร์ต และตัวเลือกร้านอาหารกับโรงแรมที่เหมาะกับทั้งในเมืองและตอนบนของแม่น้ำ",
+      "de": "Planen Sie Kanchanaburi besser mit River-Kwai-Geschichte, Erawan-Logistik, Floßhotels, Restauranttipps und Hotels für Stadt- oder Flussnächte.",
+      "fr": "Préparez mieux Kanchanaburi avec l'histoire de la rivière Kwai, la logistique d'Erawan, les hôtels flottants et des adresses cohérentes en ville ou en amont.",
+      "ru": "Планируйте Канчанабури лучше: история реки Квай, логистика Эравана, речные лоджи и отели, подходящие либо для города, либо для ночёвок выше по течению.",
+      "zh": "从桂河历史、爱侣湾出行，到漂浮酒店与城内或上游住宿选择，这份指南帮你更完整地规划北碧。"
     }
   },
   "categories": {
     "food": {
       "en": "Best restaurants and street food in Kanchanaburi",
       "nl": "Beste restaurants en streetfood in Kanchanaburi",
-      "ja": "カンチャナブリーのおすすめレストランとストリートフード",
-      "ko": "칸차나부리 추천 레스토랑과 길거리 음식",
+      "ja": "カンチャナブリーのおすすめレストランとローカルフード",
+      "ko": "칸차나부리 추천 레스토랑과 로컬 푸드",
       "th": "ร้านอาหารและสตรีทฟู้ดที่ดีที่สุดในกาญจนบุรี"
     },
     "hotels": {
       "en": "Top hotels in Kanchanaburi | Tips & deals",
       "nl": "Beste hotels in Kanchanaburi | Tips & aanbiedingen",
-      "ja": "カンチャナブリーのおすすめホテル | ヒント＆お得情報",
-      "ko": "칸차나부리 추천 호텔 | 팁 & 특가",
+      "ja": "カンチャナブリーのおすすめホテル | 実用ガイド",
+      "ko": "칸차나부리 추천 호텔 | 실전 팁",
       "th": "โรงแรมแนะนำในกาญจนบุรี | เคล็ดลับและดีล"
     },
     "attractions": {
       "en": "Top attractions in Kanchanaburi",
       "nl": "Top bezienswaardigheden in Kanchanaburi",
-      "ja": "カンチャナブリーの人気観光スポット",
-      "ko": "칸차나부리 인기 관광 명소",
+      "ja": "カンチャナブリーの見どころ",
+      "ko": "칸차나부리 핵심 명소",
       "th": "สถานที่ท่องเที่ยวยอดนิยมในกาญจนบุรี"
     }
   },
   "tags": [
     "central",
     "kanchanaburi",
-    "thailand",
-    "travel",
-    "tourism",
-    "guide"
+    "river kwai",
+    "history",
+    "waterfalls",
+    "thailand"
   ],
-  "enhanced_description": "The first thing that struck me about Kanchanaburi was the sound of the River Kwai rushing beneath the old iron bridge, its rhythmic flow a haunting backdrop to one of Southeast Asia's most emotionally charged historical sites. I had arrived from Bangkok on the early morning minivan, the three-hour journey winding through sugarcane fields and limestone hills before the town revealed itself: a languid riverside settlement where backpacker guesthouses perch on bamboo rafts and the ghosts of World War II linger in every corner. Standing on the Bridge over the River Kwai itself, feeling the vibrations of a passing train beneath my feet, I understood why this place draws visitors from around the world.\n\nBut Kanchanaburi is far more than its wartime history. On my second day, I made the ninety-minute drive to Erawan National Park, and the seven-tiered Erawan Waterfall left me speechless. Each tier offered a different personality: the lower pools were perfect for swimming, their turquoise water so clear I could see tiny fish nibbling at my ankles. By the time I reached the seventh tier, drenched in sweat and mist, the cascade tumbling over moss-covered rocks felt like a private reward. I ate a plate of pad kra pao from a vendor near the park entrance, the holy basil so fragrant it perfumed my fingers for hours.\n\nBack in town, I spent an afternoon at the Thailand-Burma Railway Centre on Jaokunnen Road, a museum that tells the story of the Death Railway with meticulous care and genuine compassion. Across the road, the Kanchanaburi War Cemetery holds the remains of nearly seven thousand Allied prisoners of war, its immaculate rows of headstones a sobering reminder beneath the tropical sun. That evening, I wandered down to the floating restaurants along the river near Maenam Kwai Road, where I ordered a whole grilled pla pao wrapped in salt crust, paired with som tum and sticky rice, while watching the sun paint the water gold.\n\nWhat surprised me most was how effortlessly Kanchanaburi blends solemnity with adventure. One morning I was exploring the Hellfire Pass Memorial Museum, running my hand along the chisel marks carved into rock by prisoners of war. That same afternoon, I was hurtling down rapids on a bamboo raft near Sai Yok, howling with laughter as our guide navigated a particularly bumpy stretch. The limestone cliffs along the Kwai Noi River rose like cathedral walls, and at Sai Yok Yai Waterfall the mist hung in the air like a cool curtain.\n\nThe town's Maenam Kwai Road strip comes alive at night with traveler-friendly bars and restaurants, but my favorite meals were found at the morning market near the train station on Saeng Chuto Road, where vendors serve khao tom kai and jok rice porridge from steaming pots. I also stumbled upon a tiny restaurant called Keeree Tara near the Kwai bridge serving extraordinary river prawn dishes. Kanchanaburi rewards those who stay beyond the bridge: the jungle treks, elephant sanctuaries in the surrounding hills, and the sheer beauty of the Kwai valley make this one of Thailand's most underrated destinations.",
+  "enhanced_description": "Kanchanaburi gets flattened too easily into one bridge photo and one emotional day trip from Bangkok. That version misses what the province actually does well. The strongest Kanchanaburi trip is built around two different zones: town for the WWII memorial layer, and the road upriver for waterfalls, rail-cutting history, and overnight stays that feel far more remote than the distance from Bangkok suggests. Once you plan it that way, the province becomes coherent very quickly.\n\nThe town side is where the history needs to be handled properly. The Bridge over the River Kwai matters, but it is much stronger when you pair it with the Thailand-Burma Railway Centre and Kanchanaburi War Cemetery rather than treating the bridge as a standalone selfie stop. Those three pieces explain the scale of the railway story far better than a rushed walk across the tracks. From there, the trip can widen outward: Hellfire Pass for the harder memorial geography, Prasat Muang Singh for a deeper pre-modern layer, and the Death Railway line for a moving connection between them.\n\nThe second half of Kanchanaburi is not about museums at all. It is about deciding whether you want Erawan's waterfall day, a Sai Yok-side resort or raft stay, or both. That is why the city works better over two or three nights. One night in town and one night upriver is often the cleanest first-timer structure, especially if you want history handled seriously without giving up the river and jungle side of the province.",
+  "overview": "Kanchanaburi works best when you stop trying to make every stop fit into the town center. The memorial and museum layer is compact enough to cluster around the bridge side, but the province's other strengths sit out along Highway 323 and the surviving railway corridor. That split is the whole trip logic: history in town, then water, rail, and river stays farther west.\n\nTourism Authority of Thailand material still frames Kanchanaburi through the Bridge over the River Kwai, Erawan, and the broader River Kwai route, while the strongest primary-history sources sit with the Thailand-Burma Railway Centre, CWGC, and the Australian government's Hellfire Pass material. That combination is the right planning lens. Kanchanaburi is not only a memorial destination and not only a waterfall side trip. It is one of the few easy-to-reach Thai provinces where war history, museum quality, and river-resort overnights genuinely belong in the same itinerary.",
   "hidden_gems": [
     {
-      "name": {
-        "en": "Prasat Muang Singh Historical Park",
-        "nl": "Prasat Muang Singh Historisch Park",
-        "ja": "プラサートムアンシン歴史公園",
-        "ko": "쁘라삿 므앙싱 역사공원"
-      },
-      "description": {
-        "en": "A rarely visited Khmer ruin complex along the River Kwai Noi, dating from the 13th century. Far quieter than Ayutthaya, with atmospheric laterite structures set against jungle backdrop.",
-        "nl": "Een zelden bezocht Khmer-ruinecomplex langs de rivier Kwai Noi, daterend uit de 13e eeuw. Veel rustiger dan Ayutthaya, met sfeervolle laterietstructuren tegen een jungleachtergrond.",
-        "ja": "クワイノイ川沿いの13世紀のクメール遺跡群。観光客が少なく静かに歴史を感じられる穴場。",
-        "ko": "콰이노이강변에 위치한 13세기 크메르 유적지로, 관광객이 적어 조용히 역사를 탐험할 수 있습니다."
-      },
-      "type": "temple"
+      "name": "Pak Phraek heritage strip",
+      "story": "Pak Phraek is one of the easiest ways to make Kanchanaburi feel like more than bridge-area tourism. The old shophouse strip gives the town a quieter historical layer, and it works especially well for coffee, light meals, and a slower early evening before the night market.",
+      "how_to_find": "Use it between the cemetery-and-museum block and dinner, not as a separate cross-town mission.",
+      "best_time": "Late afternoon into early evening.",
+      "local_insights": [
+        "It is stronger for atmosphere and pacing than for ticking off one single landmark.",
+        "This is the cleaner alternative to spending every evening near the bridge strip."
+      ]
     },
     {
-      "name": {
-        "en": "Lawa Cave (Tham Lawa)",
-        "nl": "Lawa-grot (Tham Lawa)",
-        "ja": "ラワ洞窟（タムラワ）",
-        "ko": "라와 동굴 (탐 라와)"
-      },
-      "description": {
-        "en": "A stunning cave with dramatic stalactites accessible by longtail boat along the Kwai Noi River. Few tourists make the journey, making it a peaceful underground adventure.",
-        "nl": "Een prachtige grot met dramatische stalactieten, bereikbaar per longtailboot langs de rivier Kwai Noi. Weinig toeristen maken de reis, waardoor het een vredig ondergronds avontuur is.",
-        "ja": "クワイノイ川沿いをロングテールボートでアクセスする壮大な鍾乳洞。訪問者が少ない秘境。",
-        "ko": "콰이노이강을 따라 롱테일 보트로 접근하는 드라마틱한 종유석 동굴. 관광객이 거의 없는 숨겨진 명소입니다."
-      },
-      "type": "nature"
+      "name": "Prasat Muang Singh Historical Park",
+      "story": "Prasat Muang Singh gives Kanchanaburi a Khmer-era layer that many first visits miss completely. The park is calmer than Thailand's larger historical complexes and works best for travelers who want one non-WWII historical stop that still feels serious.",
+      "how_to_find": "Pair it with the Sai Yok side or as a half-day detour if you already have your bridge-side history covered.",
+      "best_time": "Morning or late afternoon.",
+      "local_insights": [
+        "It is a better use of time than adding one more small war museum.",
+        "The site rewards travelers who want space and context rather than crowds."
+      ]
     },
     {
-      "name": {
-        "en": "Ban Kao National Museum",
-        "nl": "Ban Kao Nationaal Museum",
-        "ja": "バーンカオ国立博物館",
-        "ko": "반카오 국립박물관"
-      },
-      "description": {
-        "en": "Small but fascinating museum built around a Neolithic burial site discovered during railway construction. Displays prehistoric tools and artifacts found in the Kwai valley.",
-        "nl": "Klein maar fascinerend museum gebouwd rond een neolithische begraafplaats die tijdens de spoorwegaanleg werd ontdekt. Toont prehistorisch gereedschap en artefacten uit de Kwai-vallei.",
-        "ja": "鉄道建設中に発見された新石器時代の埋葬地に建てられた小さいながらも魅力的な博物館。",
-        "ko": "철도 건설 중 발견된 신석기 시대 매장지 위에 세워진 작지만 매력적인 박물관입니다."
-      },
-      "type": "museum"
+      "name": "Tham Krasae rail section",
+      "story": "The railway story becomes easier to understand once you leave town and see the surviving clifftop section around Tham Krasae. It is one of the best places to connect the memorial narrative to the actual landscape the line had to cross.",
+      "how_to_find": "Use it as part of an upriver day, especially if you are already moving toward Hellfire Pass or Nam Tok.",
+      "best_time": "Morning to mid-afternoon.",
+      "local_insights": [
+        "This is stronger than treating the bridge in town as the whole railway experience.",
+        "It adds real landscape context to the historical side of the trip."
+      ]
     },
     {
-      "name": {
-        "en": "Kanchanaburi Morning Market",
-        "nl": "Kanchanaburi Ochtendmarkt",
-        "ja": "カンチャナブリー朝市",
-        "ko": "칸차나부리 아침 시장"
-      },
-      "description": {
-        "en": "The bustling morning market near the train station on Saeng Chuto Road, where locals shop for fresh produce, grilled meats, and traditional Thai sweets starting at dawn.",
-        "nl": "De bruisende ochtendmarkt bij het treinstation aan Saeng Chuto Road, waar locals vanaf de vroege ochtend verse producten, gegrild vlees en traditionele Thaise snoepjes kopen.",
-        "ja": "駅近くのセーンチュートー通りにある活気ある朝市。地元の人々が新鮮な食材を買い求めます。",
-        "ko": "기차역 근처 생추토 도로의 활기찬 아침 시장으로, 현지인들이 신선한 식재료를 구매하는 곳입니다."
-      },
-      "type": "market"
+      "name": "One upriver overnight",
+      "story": "The most underrated Kanchanaburi move is not one more attraction at all, but sleeping upriver. A raft hotel or river resort west of town changes the province from a memorial stop into a place with evening atmosphere and slower pacing.",
+      "how_to_find": "Split the stay between town and the Sai Yok side instead of sleeping in the same zone every night.",
+      "best_time": "Any dry-season or shoulder-season overnight.",
+      "local_insights": [
+        "This is often what makes Kanchanaburi feel worth the detour instead of merely educational.",
+        "The province's hotel geography matters as much as its sightseeing list."
+      ]
+    }
+  ],
+  "authentic_experiences": [
+    {
+      "activity": "Treat the bridge, cemetery, and railway centre as one historical block",
+      "story": "The memorial layer is much stronger when it is sequenced properly. The Bridge over the River Kwai gives the physical landmark, the cemetery gives the human cost, and the Thailand-Burma Railway Centre provides the research depth and interpretation that the bridge itself cannot.",
+      "cultural_significance": "This keeps the WWII layer respectful and informed instead of reducing it to one symbolic stop.",
+      "how_to_participate": "Use one town day or half-day for the bridge, Kanchanaburi War Cemetery, and the Thailand-Burma Railway Centre together.",
+      "insights": [
+        "This is the most important planning correction for first-time visitors.",
+        "Kanchanaburi's war history is far stronger when handled as a sequence, not a photo stop."
+      ],
+      "href": "/city/kanchanaburi/attractions/bridge-over-river-kwai/",
+      "cta_label": "See the bridge guide"
     },
     {
-      "name": {
-        "en": "Keeree Tara Riverside Restaurant",
-        "nl": "Keeree Tara Rivierrestaurant",
-        "ja": "キーリータラ・リバーサイドレストラン",
-        "ko": "키리타라 리버사이드 레스토랑"
-      },
-      "description": {
-        "en": "A hidden gem restaurant perched on rocks overlooking the confluence of the Kwai rivers. Famous for its giant river prawns grilled over charcoal, best visited at sunset.",
-        "nl": "Een verborgen juweeltje van een restaurant op de rotsen met uitzicht op de samenvloeiing van de Kwai-rivieren. Beroemd om reusachtige riviergarnalen gegrild op houtskool, het beste te bezoeken bij zonsondergang.",
-        "ja": "クワイ川の合流点を見下ろす岩場に佇む隠れた名店。絶景のシーフードレストラン。",
-        "ko": "콰이강 합류점이 내려다보이는 바위 위에 자리한 숨겨진 보석 같은 레스토랑입니다."
-      },
-      "type": "restaurant"
+      "activity": "Use the Death Railway route to connect town with the upriver side",
+      "story": "The surviving railway corridor is not just a transport novelty. It is one of the clearest ways to understand how the town-side memorials connect to the harder geography farther west.",
+      "cultural_significance": "The rail line remains the physical spine of the Thailand-Burma Railway story in the province.",
+      "how_to_participate": "Ride or road-trip west toward Tham Krasae, Hellfire Pass, or Nam Tok rather than staying only around the bridge district.",
+      "insights": [
+        "The trip becomes more legible once the memorial layer and landscape are linked.",
+        "This is a better use of time than adding random small-town filler stops."
+      ],
+      "href": "/city/kanchanaburi/top-10-attractions/",
+      "cta_label": "See the Kanchanaburi attraction guide"
+    },
+    {
+      "activity": "Split the stay between town and an upriver resort or raft hotel",
+      "story": "Official hotel geography in Kanchanaburi tells the story clearly: town stays are for history access, while resorts and floating hotels upriver are for atmosphere and nature pacing.",
+      "cultural_significance": "This split reflects how the province is actually used by repeat travelers, not just by rushed day-trippers.",
+      "how_to_participate": "Do one night in or near town, then one night west of town if you want Erawan, Sai Yok, or raft-hotel time to feel worthwhile.",
+      "insights": [
+        "The hotel plan changes the quality of the whole trip.",
+        "Kanchanaburi is one of the few easy Thai inland destinations where moving hotels can improve the itinerary."
+      ],
+      "href": "/city/kanchanaburi/top-10-hotels/",
+      "cta_label": "See the hotel guide"
+    },
+    {
+      "activity": "Keep one non-WWII historical stop in the itinerary",
+      "story": "Prasat Muang Singh matters because it broadens the province beyond twentieth-century remembrance and shows that Kanchanaburi's historical depth did not start with the railway.",
+      "cultural_significance": "The site adds Khmer-era context and helps balance a trip that might otherwise feel very narrow.",
+      "how_to_participate": "Choose Prasat Muang Singh if you want one quieter historical park that can fit into a westbound day.",
+      "insights": [
+        "It gives the itinerary range without turning into a long second history lecture.",
+        "This is one of the easiest ways to make Kanchanaburi feel richer than a single-theme stop."
+      ],
+      "href": "/city/kanchanaburi/attractions/prasat-muang-singh/",
+      "cta_label": "See the Muang Singh guide"
+    }
+  ],
+  "foodie_adventures": [
+    {
+      "dish": "Pak Phraek old-town coffee and shophouse meal stop",
+      "location": "Pak Phraek Road",
+      "story": "Kanchanaburi food works better when at least one meal leaves the bridge strip. Pak Phraek is useful because it adds older-town atmosphere, lighter dining, and a more local-feeling rhythm before the province shifts back toward riverfront or resort meals.",
+      "where_to_find": "Use it for lunch, coffee, or an early evening pause before the night market.",
+      "price_range": "Budget to mid-range",
+      "ordering_tips": [
+        "Treat this as a pacing stop, not a hunt for one famous signature dish.",
+        "It works especially well on the same day as the museum-and-cemetery block."
+      ],
+      "href": "/city/kanchanaburi/top-10-restaurants/",
+      "cta_label": "See the Kanchanaburi food guide"
+    },
+    {
+      "dish": "Night-market grazing instead of one more generic riverfront table",
+      "location": "Kanchanaburi Night Market",
+      "story": "The market side keeps the city grounded. It is the easiest way to add skewers, fruit, snacks, and simple Thai dinners without turning the whole trip into hotel dining or bridge-area tourist convenience.",
+      "where_to_find": "Best after dark, especially if you are staying in town rather than upriver.",
+      "price_range": "Budget",
+      "ordering_tips": [
+        "Walk first, order second, and eat in rounds rather than committing to the first stall.",
+        "This is the cleanest low-cost dinner move in town."
+      ],
+      "href": "/city/kanchanaburi/top-10-restaurants/",
+      "cta_label": "See the Kanchanaburi food guide"
+    },
+    {
+      "dish": "Resort dining that actually belongs in the itinerary",
+      "location": "Thai Peppers, Pontoon Restaurant, and Lemongrass Restaurant",
+      "story": "Unlike many inland Thai cities, Kanchanaburi has hotel restaurants that make practical sense because they are tied to riverfront stays and upriver overnights. The point is not luxury for its own sake, but using the right dining room when your hotel location already makes it logical.",
+      "where_to_find": "Best on evenings when you are staying by the river or upriver rather than heading back into town.",
+      "price_range": "Mid-range to upscale",
+      "ordering_tips": [
+        "Choose these on hotel nights, not as mandatory destinations from the city center.",
+        "The meal is stronger when the setting already fits the stay."
+      ],
+      "href": "/city/kanchanaburi/top-10-restaurants/",
+      "cta_label": "See the Kanchanaburi food guide"
+    },
+    {
+      "dish": "One river-view seafood dinner, not a full trip of them",
+      "location": "Keeree Tara and similar riverfront tables",
+      "story": "Kanchanaburi should have one scenic river meal in the plan, but it does not need three nights of the same format. One deliberate seafood or Thai dinner with a bridge-or-river setting is enough before the trip starts repeating itself.",
+      "where_to_find": "Best on the town side, preferably on the bridge-night rather than the upriver night.",
+      "price_range": "Mid-range",
+      "ordering_tips": [
+        "Use one river-view meal as contrast, then shift toward market or old-town food the next time.",
+        "The province eats better when you vary the setting."
+      ],
+      "href": "/city/kanchanaburi/top-10-restaurants/",
+      "cta_label": "See the Kanchanaburi food guide"
+    }
+  ],
+  "local_insights": [
+    {
+      "observation": "Kanchanaburi is not only a town trip.",
+      "tip": "If you never leave the bridge district, you will miss half of what makes the province work.",
+      "surprise": "The upriver hotel geography is as important as the attraction list."
+    },
+    {
+      "observation": "The bridge should not stand alone.",
+      "tip": "Pair it with the cemetery and railway centre so the history has real context.",
+      "surprise": "That three-stop sequence is stronger than adding another small museum."
+    },
+    {
+      "observation": "Erawan and Hellfire Pass rarely belong on the same rushed day.",
+      "tip": "Choose one major westbound priority unless you have your own car and a very early start.",
+      "surprise": "Trying to overpack the westbound route is the easiest way to flatten the trip."
+    },
+    {
+      "observation": "Town and upriver nights serve different purposes.",
+      "tip": "Use town for memorial access and upriver stays for river or national-park atmosphere.",
+      "surprise": "Moving once can improve the trip more than upgrading every hotel."
+    }
+  ],
+  "seasonal_secrets": {
+    "best_season": "November to February",
+    "why": "The cooler months give the cleanest balance for memorial walking, road travel west of town, and waterfall or river-resort planning without the worst heat.",
+    "local_festivals": [
+      "The River Kwai Bridge area is busiest around the annual bridge and wartime remembrance events, so book town stays early if those dates matter."
+    ],
+    "seasonal_foods": [
+      "Cool-season evenings are the easiest time to use night markets and old-town walking as part of dinner planning."
+    ],
+    "insider_tips": [
+      "If Erawan is the priority, start early year-round rather than relying on midday hiking comfort.",
+      "Rainy-season trips can still work well for town history and resort stays even if a waterfall-heavy plan becomes less efficient."
+    ]
+  },
+  "budget_reality": {
+    "budget": "$25-45 per day",
+    "mid_range": "$55-120 per day",
+    "luxury": "$140-320 per day",
+    "examples": [
+      "Budget stays work best in town with market meals and a selective memorial-focused itinerary.",
+      "Mid-range budgets are where Kanchanaburi starts to feel strongest, especially if you add one riverfront hotel or one westbound day trip.",
+      "Higher budgets are mostly about raft hotels, branded riverside resorts, and private transfers rather than expensive city dining."
+    ],
+    "money_saving_tricks": [
+      "Stay in town if you only have one night and want to cover the main history sites efficiently.",
+      "Do one upriver overnight instead of paying for repeated long out-and-back transfers from town."
+    ],
+    "hidden_costs": [
+      "Private transfers and westbound transport raise costs faster than meals do.",
+      "Trying to squeeze too many far-west sites into a short stay often leads to extra car hire or tour costs."
+    ]
+  },
+  "top_attractions": [
+    {
+      "rank": 1,
+      "name": "Bridge over the River Kwai",
+      "description": "Still the defining landmark, but strongest when used as the start of a broader history block rather than the whole story.",
+      "location": "Bridge district",
+      "entrance_fee": "Free",
+      "highlights": [
+        "Working railway bridge",
+        "Best-known River Kwai landmark",
+        "Essential first stop"
+      ],
+      "href": "/city/kanchanaburi/attractions/bridge-over-river-kwai/",
+      "cta_label": "See the bridge guide"
+    },
+    {
+      "rank": 2,
+      "name": "Thailand-Burma Railway Centre",
+      "description": "The most useful interpretive stop in town for understanding the railway properly before you head upriver.",
+      "location": "Town center near the cemetery",
+      "entrance_fee": "Museum admission applies",
+      "highlights": [
+        "Best research-driven history stop",
+        "Useful before Hellfire Pass",
+        "Easy to pair with the cemetery"
+      ],
+      "href": "/city/kanchanaburi/top-10-attractions/",
+      "cta_label": "See the attraction guide"
+    },
+    {
+      "rank": 3,
+      "name": "Hellfire Pass",
+      "description": "The hardest-hitting memorial landscape in the province, best saved for a deliberate westbound day.",
+      "location": "West of town on Highway 323",
+      "entrance_fee": "Free",
+      "highlights": [
+        "Memorial trail and museum",
+        "Best landscape context for the railway story",
+        "More serious than the town stops"
+      ],
+      "href": "/city/kanchanaburi/attractions/hellfire-pass/",
+      "cta_label": "See the Hellfire Pass guide"
+    },
+    {
+      "rank": 4,
+      "name": "Erawan National Park",
+      "description": "The province's clearest nature day, with seven waterfall tiers and a very different mood from the memorial side of the trip.",
+      "location": "Erawan side west of town",
+      "entrance_fee": "National-park fee applies",
+      "highlights": [
+        "Seven-tier waterfall",
+        "Best-known natural attraction",
+        "Strong full-day outing"
+      ],
+      "href": "/city/kanchanaburi/attractions/erawan-national-park/",
+      "cta_label": "See the Erawan guide"
+    },
+    {
+      "rank": 5,
+      "name": "Kanchanaburi War Cemetery",
+      "description": "A necessary part of the history sequence and one of the most important remembrance sites in Thailand.",
+      "location": "Town center",
+      "entrance_fee": "Free",
+      "highlights": [
+        "CWGC cemetery",
+        "Best paired with the railway centre",
+        "Quiet and respectful"
+      ],
+      "href": "/city/kanchanaburi/attractions/kanchanaburi-war-cemetery/",
+      "cta_label": "See the cemetery guide"
+    },
+    {
+      "rank": 6,
+      "name": "Prasat Muang Singh Historical Park",
+      "description": "A smart historical counterweight to the WWII circuit if you want one older and quieter archaeological stop.",
+      "location": "Muang Singh area",
+      "entrance_fee": "Historic-park fee applies",
+      "highlights": [
+        "Khmer-era historical park",
+        "Useful half-day detour",
+        "Less crowded than major Thai ruins"
+      ],
+      "href": "/city/kanchanaburi/attractions/prasat-muang-singh/",
+      "cta_label": "See the Muang Singh guide"
     }
   ],
   "top_restaurants": [
     {
       "rank": 1,
-      "name": "Saiyok Riverkwai",
-      "description": "Highly-rated riverside restaurant specializing in International and Asian cuisine with exceptional service and river views.",
-      "cuisine_type": "International, Asian",
-      "price_range": "300-600 THB ($9-18 USD per meal)",
+      "name": "Pak Phraek heritage shophouse zone",
+      "cuisine_type": "Thai cafes, local kitchens, light meals",
+      "description": "The strongest answer when you want town atmosphere that does not depend on the bridge strip.",
+      "location": "Pak Phraek Road",
+      "price_range": "Budget to mid-range",
       "highlights": [
-        "Perfect rating on TripAdvisor",
-        "River views",
-        "International cuisine"
-      ]
+        "Old-town setting",
+        "Better pacing than generic tourist strips",
+        "Strong lunch or coffee stop"
+      ],
+      "href": "/city/kanchanaburi/top-10-restaurants/",
+      "cta_label": "See more food picks"
     },
     {
       "rank": 2,
-      "name": "Tongkan Café",
-      "description": "Popular steakhouse and pizzeria offering quality Western and Thai fusion cuisine in a casual riverside setting.",
-      "cuisine_type": "Steakhouse, Pizza",
-      "price_range": "250-500 THB ($7.50-15 USD per meal)",
+      "name": "Kanchanaburi Night Market",
+      "cuisine_type": "Thai market food and snacks",
+      "description": "The easiest low-cost dinner move in town and a useful break from riverfront repetition.",
+      "location": "Town-center market zone",
+      "price_range": "Budget",
       "highlights": [
-        "Steaks and pizza",
-        "River setting",
-        "Casual atmosphere"
-      ]
+        "Flexible evening food stop",
+        "Best for grazing",
+        "Town-side value choice"
+      ],
+      "href": "/city/kanchanaburi/top-10-restaurants/",
+      "cta_label": "See more food picks"
     },
     {
       "rank": 3,
-      "name": "Kaan Riverkwai Restaurant",
-      "description": "Excellent Thai and fusion restaurant with riverside location, featuring creative dishes and authentic Thai flavors.",
-      "cuisine_type": "Thai, Fusion",
-      "price_range": "250-500 THB ($7.50-15 USD per meal)",
+      "name": "Thai Peppers at U Inchantree Kanchanaburi",
+      "cuisine_type": "Thai and riverside hotel dining",
+      "description": "A polished town-side resort dinner that makes sense when you want one better sit-down meal near the bridge district.",
+      "location": "U Inchantree Kanchanaburi",
+      "price_range": "Mid-range to upscale",
       "highlights": [
-        "Thai and fusion",
-        "4.5 TripAdvisor rating",
-        "River views"
-      ]
+        "Official dining venue",
+        "Useful bridge-side dinner",
+        "Best for one polished river meal"
+      ],
+      "href": "/city/kanchanaburi/top-10-restaurants/",
+      "cta_label": "See more food picks"
     },
     {
       "rank": 4,
       "name": "Good Times Restaurant",
-      "description": "International and Asian cuisine restaurant associated with the Good Times Resort, offering relaxed dining with river ambiance.",
-      "cuisine_type": "International, Asian",
-      "price_range": "200-450 THB ($6-14 USD per meal)",
+      "cuisine_type": "Thai and international resort dining",
+      "description": "A practical riverfront fallback when you want an easy hotel-area meal without overcomplicating the evening.",
+      "location": "Good Times Resort area",
+      "price_range": "Mid-range",
       "highlights": [
-        "Resort dining",
-        "River views",
-        "International menu"
-      ]
+        "Resort-based convenience",
+        "Good for bridge-area overnights",
+        "Useful easy dinner pick"
+      ],
+      "href": "/city/kanchanaburi/top-10-restaurants/",
+      "cta_label": "See more food picks"
     },
     {
       "rank": 5,
-      "name": "Keeree Mantra",
-      "description": "Bar and barbecue restaurant offering grilled meats and casual dining experience with riverside location.",
-      "cuisine_type": "Bar, Barbecue",
-      "price_range": "250-500 THB ($7.50-15 USD per meal)",
+      "name": "Keeree Tara",
+      "cuisine_type": "Thai seafood and river-view dining",
+      "description": "A good candidate for the one scenic river meal in town, especially if the bridge side is already your evening base.",
+      "location": "Riverfront near the bridge area",
+      "price_range": "Mid-range",
       "highlights": [
-        "Barbecue specialties",
-        "River setting",
-        "Casual vibe"
-      ]
+        "River-view setting",
+        "Good special dinner slot",
+        "Best used once, not every night"
+      ],
+      "href": "/city/kanchanaburi/top-10-restaurants/",
+      "cta_label": "See more food picks"
     },
     {
       "rank": 6,
-      "name": "Sri Rung Rueng Noodle Shop",
-      "description": "Legendary local noodle shop near the train station serving Kanchanaburi's best boat noodles and kuay tiew since the 1970s.",
-      "cuisine_type": "Thai Noodles",
-      "price_range": "40-80 THB ($1.20-2.50 USD per meal)",
+      "name": "Pontoon Restaurant at The FloatHouse River Kwai",
+      "cuisine_type": "Resort dining on the river",
+      "description": "A strong upriver meal when you are already committing to a floating-stay night and want the setting to do real work.",
+      "location": "The FloatHouse River Kwai",
+      "price_range": "Mid-range to upscale",
       "highlights": [
-        "Local institution",
-        "Boat noodles",
-        "Budget-friendly"
-      ]
+        "Floating-resort setting",
+        "Best for upriver overnights",
+        "Pairs naturally with raft-hotel stays"
+      ],
+      "href": "/city/kanchanaburi/top-10-restaurants/",
+      "cta_label": "See more food picks"
     },
     {
       "rank": 7,
-      "name": "Mangosteen Cafe",
-      "description": "Cozy riverside café popular with travelers offering quality coffee, smoothie bowls, and Thai breakfast sets with river views.",
-      "cuisine_type": "Thai-Western Café",
-      "price_range": "100-250 THB ($3-7.50 USD per meal)",
+      "name": "Lemongrass Restaurant at Home Phutoey River Kwai",
+      "cuisine_type": "Thai and resort dining",
+      "description": "A sensible westbound or upriver resort meal when the point is staying out by the river rather than driving back to town for dinner.",
+      "location": "Home Phutoey River Kwai Resort",
+      "price_range": "Mid-range",
       "highlights": [
-        "Great coffee",
-        "Smoothie bowls",
-        "River views"
-      ]
+        "Useful westbound resort dinner",
+        "Fits Sai Yok-side stays",
+        "Good for split-stay itineraries"
+      ],
+      "href": "/city/kanchanaburi/top-10-restaurants/",
+      "cta_label": "See more food picks"
     }
   ],
   "top_hotels": [
     {
       "rank": 1,
-      "name": "Good Times Resort",
-      "description": "Popular riverside resort with spacious bungalows, relaxing pool, and well-located on Maenam Kwai Road near restaurants and bars.",
-      "price_range": "$40-70 USD per night",
-      "category": "midrange",
+      "name": "U Inchantree Kanchanaburi",
+      "description": "Still one of the cleanest first picks for town-side Kanchanaburi because the River Kwai setting and bridge access are both strong.",
+      "price_range": "Upscale",
+      "category": "upscale",
+      "area": "Bridge district / town side",
       "highlights": [
-        "Riverside location",
-        "Pool area",
-        "4.6 TripAdvisor rating"
-      ]
+        "Official hotel website",
+        "Useful bridge-area location",
+        "Strong first-time town stay"
+      ],
+      "href": "/city/kanchanaburi/top-10-hotels/",
+      "cta_label": "See the hotel guide"
     },
     {
       "rank": 2,
-      "name": "U Inchantree Kanchanaburi",
-      "description": "Luxury riverside boutique hotel with modern design, spa facilities, fine dining, and colonial-style rooms with modern amenities.",
-      "price_range": "$100-180 USD per night",
-      "category": "luxury",
+      "name": "Natee The Riverfront Hotel",
+      "description": "A more modern riverfront town stay for travelers who want comfort and straightforward road access without leaving the city side.",
+      "price_range": "Mid-range to upscale",
+      "category": "mid-range",
+      "area": "Town-side riverfront",
       "highlights": [
-        "Spa facilities",
-        "Fine dining",
-        "4.5 TripAdvisor rating"
-      ]
+        "Official hotel website",
+        "Riverfront rooms",
+        "Good for town-based stays"
+      ],
+      "href": "/city/kanchanaburi/top-10-hotels/",
+      "cta_label": "See the hotel guide"
     },
     {
       "rank": 3,
-      "name": "Dheva Mantra Resort & Spa",
-      "description": "Elegant hilltop resort with panoramic river valley views, full-service spa, and beautifully landscaped infinity pool overlooking mountains.",
-      "price_range": "$100-200 USD per night",
-      "category": "luxury",
+      "name": "Dheva Mantra Resort",
+      "description": "A larger resort option when you want more room to stay put and less need to be in the middle of the bridge strip every evening.",
+      "price_range": "Upscale",
+      "category": "upscale",
+      "area": "Riverside west of the center",
       "highlights": [
-        "Panoramic views",
-        "Spa services",
-        "4.1 TripAdvisor rating"
-      ]
+        "Official resort website",
+        "Resort-style grounds",
+        "Better for slower stays than pure sightseeing runs"
+      ],
+      "href": "/city/kanchanaburi/top-10-hotels/",
+      "cta_label": "See the hotel guide"
     },
     {
       "rank": 4,
-      "name": "The River Kwai Bridge Resort",
-      "description": "Riverside resort near the Bridge over the River Kwai with comfortable rooms and convenient location for WWII historical sites.",
-      "price_range": "$35-65 USD per night",
-      "category": "midrange",
+      "name": "Felix River Kwai Resort",
+      "description": "A long-running riverside resort that still makes sense for travelers who want a larger property close to the bridge area.",
+      "price_range": "Mid-range to upscale",
+      "category": "mid-range",
+      "area": "Bridge-side riverfront",
       "highlights": [
-        "Bridge proximity",
-        "3.7 TripAdvisor rating",
-        "Historical location"
-      ]
+        "Official resort website",
+        "Large riverfront property",
+        "Useful for bridge access"
+      ],
+      "href": "/city/kanchanaburi/top-10-hotels/",
+      "cta_label": "See the hotel guide"
     },
     {
       "rank": 5,
-      "name": "Natee The Riverfront Hotel",
-      "description": "Charming riverfront hotel offering quality accommodation with river views and convenient access to main attractions.",
-      "price_range": "$40-80 USD per night",
-      "category": "midrange",
+      "name": "The FloatHouse River Kwai",
+      "description": "The cleanest floating-stay option when you want the upriver part of Kanchanaburi to feel unmistakably different from town.",
+      "price_range": "Upscale",
+      "category": "upscale",
+      "area": "Sai Yok / upriver floating stay",
       "highlights": [
-        "River views",
-        "4.3 TripAdvisor rating",
-        "Central location"
-      ]
+        "Official floating-villa resort",
+        "Best for one memorable upriver night",
+        "Good split-stay second stop"
+      ],
+      "href": "/city/kanchanaburi/top-10-hotels/",
+      "cta_label": "See the hotel guide"
+    },
+    {
+      "rank": 6,
+      "name": "River Kwai Jungle Rafts",
+      "description": "A classic floating-hotel concept that works best when you want atmosphere and river setting more than conventional resort convenience.",
+      "price_range": "Mid-range to upscale",
+      "category": "special stay",
+      "area": "Sai Yok / floating raft hotel",
+      "highlights": [
+        "Official floating hotel",
+        "Best for river atmosphere",
+        "Useful if the raft-stay experience is the point"
+      ],
+      "href": "/city/kanchanaburi/top-10-hotels/",
+      "cta_label": "See the hotel guide"
+    },
+    {
+      "rank": 7,
+      "name": "Home Phutoey River Kwai Resort",
+      "description": "A stronger westbound resort answer when you want river scenery and easier access to the Sai Yok and Hellfire Pass side.",
+      "price_range": "Mid-range to upscale",
+      "category": "mid-range",
+      "area": "Westbound river resort zone",
+      "highlights": [
+        "Official resort website",
+        "Good Highway 323 position",
+        "Useful for Hellfire Pass or Sai Yok plans"
+      ],
+      "href": "/city/kanchanaburi/top-10-hotels/",
+      "cta_label": "See the hotel guide"
     }
   ],
   "travel_tips": [
-    {
-      "title": {
-        "en": "Getting There from Bangkok",
-        "nl": "Hoe kom je er vanuit Bangkok",
-        "ja": "バンコクからのアクセス"
-      },
-      "content": {
-        "en": "Take a minivan from Bangkok's Southern Bus Terminal (Mo Chit) for about 3 hours, or ride the historic train from Thonburi station which takes longer but follows a scenic route along the River Kwai.",
-        "nl": "Neem een minivan vanaf het zuidelijke busstation van Bangkok (Mo Chit) voor ongeveer 3 uur, of neem de historische trein vanaf Thonburi-station, wat langer duurt maar een schilderachtige route langs de rivier Kwai volgt.",
-        "ja": "バンコク南バスターミナル（モーチット）からミニバンで約3時間。歴史ある鉄道ルートも風情があります。"
-      }
-    },
-    {
-      "title": {
-        "en": "Renting a Motorbike",
-        "nl": "Een motor huren",
-        "ja": "バイクレンタル"
-      },
-      "content": {
-        "en": "A motorbike is the best way to explore Kanchanaburi independently. Rentals start at 200 THB per day on Maenam Kwai Road. Essential for reaching Erawan Falls and Hellfire Pass at your own pace.",
-        "nl": "Een motor is de beste manier om Kanchanaburi zelfstandig te verkennen. Verhuur begint bij 200 THB per dag aan Maenam Kwai Road. Essentieel om Erawan Falls en Hellfire Pass op eigen tempo te bereiken.",
-        "ja": "カンチャナブリーを自由に探索するにはバイクが最適。レンタルは1日200バーツから。"
-      }
-    },
-    {
-      "title": {
-        "en": "Visit Erawan Falls Early",
-        "nl": "Bezoek Erawan Falls vroeg",
-        "ja": "エラワン滝は早朝に"
-      },
-      "content": {
-        "en": "Arrive at Erawan National Park when it opens at 8:00 AM to avoid crowds. The lower tiers get busy by mid-morning. Bring water shoes for the slippery rocks and a waterproof bag for your phone.",
-        "nl": "Arriveer bij Erawan National Park wanneer het opent om 8:00 uur om drukte te vermijden. De lagere niveaus worden druk tegen het midden van de ochtend. Neem waterschoenen mee voor de gladde rotsen en een waterdichte tas voor je telefoon.",
-        "ja": "エラワン国立公園は開園の8:00に到着すると混雑を避けられます。下層は10時頃から混み始めます。"
-      }
-    },
-    {
-      "title": {
-        "en": "Respect at War Sites",
-        "nl": "Respect op oorlogslocaties",
-        "ja": "戦争関連施設での敬意"
-      },
-      "content": {
-        "en": "The war cemeteries and museums are solemn places. Dress respectfully, keep voices low, and avoid selfies at the graves. The Thailand-Burma Railway Centre provides excellent historical context before visiting.",
-        "nl": "De oorlogsbegraafplaatsen en musea zijn plechtige plaatsen. Kleed je respectvol, houd stemmen laag en vermijd selfies bij de graven. Het Thailand-Burma Railway Centre biedt uitstekende historische context voor een bezoek.",
-        "ja": "戦争墓地や博物館は厳粛な場所です。礼儀正しい服装で、声を抑え、自撮りは控えてください。"
-      }
-    },
-    {
-      "title": {
-        "en": "Weekend vs Weekday Visits",
-        "nl": "Weekend vs doordeweeks bezoek",
-        "ja": "週末 vs 平日"
-      },
-      "content": {
-        "en": "Kanchanaburi is a popular weekend escape for Bangkokians. Prices rise and attractions get crowded on Saturday and Sunday. Visit midweek for a quieter, more authentic experience.",
-        "nl": "Kanchanaburi is een populaire weekenduitje voor inwoners van Bangkok. Prijzen stijgen en attracties worden druk op zaterdag en zondag. Bezoek doordeweeks voor een rustiger, authentieker ervaring.",
-        "ja": "カンチャナブリーはバンコクからの週末旅行先として人気。週末は料金が上がり観光地も混雑します。平日がおすすめ。"
-      }
-    }
+    "Plan Kanchanaburi as either a one-night town history stop or a two-night split stay; the second option is much stronger.",
+    "Handle the bridge, cemetery, and railway centre together so the memorial layer has proper context.",
+    "Do not force Erawan and Hellfire Pass into the same rushed day unless you have a car and a very early start.",
+    "Use one riverfront dinner and one market or old-town dinner so the food side does not become repetitive.",
+    "If you book an upriver stay, commit to it; the province improves when you stop commuting back to town every night."
   ],
   "best_time_to_visit": {
-    "en": "November to February offers the most comfortable weather with cool temperatures perfect for waterfall hikes and outdoor exploration. The rainy season (June to October) brings lush greenery and the waterfalls at their most spectacular, though some trails may be slippery.",
-    "nl": "November tot februari biedt het aangenaamste weer met koele temperaturen, perfect voor watervalwandelingen en buitenactiviteiten. Het regenseizoen (juni tot oktober) brengt weelderig groen en de watervallen op hun spectaculairst, hoewel sommige paden glad kunnen zijn.",
-    "ja": "11月〜2月が最も快適な気候。滝巡りやジャングルハイキングに最適な涼しい気温。"
+    "season": "Cool season",
+    "months": "November - February",
+    "weather": "Usually the easiest stretch for memorial walking, road trips west of town, and waterfall plans without the harshest heat.",
+    "reasons": "Best for first-time Kanchanaburi trips that want both town history and at least one westbound day or upriver overnight."
   },
   "budget_info": {
-    "budget_per_day": {
-      "en": "$20-35",
-      "nl": "$20-35",
-      "ja": "¥3,000〜5,200"
-    },
-    "midrange_per_day": {
-      "en": "$50-80",
-      "nl": "$50-80",
-      "ja": "¥7,400〜11,900"
-    },
-    "luxury_per_day": {
-      "en": "$150+",
-      "nl": "$150+",
-      "ja": "¥22,300〜"
-    }
+    "budget": "$25-45 per day",
+    "mid_range": "$55-120 per day",
+    "luxury": "$140-320 per day",
+    "notes": "Transport west of town and special-stay hotels move the budget more than meals do."
   },
-  "enhanced_at": "2026-02-22T10:00:00.000Z",
-  "overview": "Kanchanaburi is Thailand's most historically significant destination, immortalized by the legendary Bridge over the River Kwai. Located in the Central region about 130 kilometers west of Bangkok, this city of 63,000 people has become essential for understanding Thailand's role during World War II. Beyond its somber history, Kanchanaburi offers stunning natural beauty with the breathtaking Erawan National Park—famous for its seven-tiered waterfall—and thrilling jungle adventures along the River Kwai. The province seamlessly blends dark tourism with adventure travel, making it ideal for visitors seeking cultural depth, outdoor exploration, and one of Asia's most moving historical experiences.",
-  "thingsToDo": "Kanchanaburi's main attraction, the Bridge over the River Kwai, is free to visit and offers the unforgettable experience of walking across this iconic structure while learning about its haunting WWII history. The Death Railway (Thailand-Burma Railway) provides an authentic scenic journey along the historic line for 100 THB ($3 USD), featuring the dramatic Tham Krasae viaduct carved into cliffsides. For nature lovers, Erawan National Park (300 THB/$9 USD entrance) showcases a magnificent seven-tiered waterfall with natural swimming pools and excellent jungle hiking trails. History enthusiasts should visit the Hellfire Pass Memorial Museum (free entry) with its powerful walking trail, the Kanchanaburi War Cemetery at Don Rak (free, featuring 6,982 graves in immaculate gardens), and the Thailand-Burma Railway Centre (140 THB/$4 USD) with interactive exhibits and personal stories. The JEATH War Museum (40 THB/$1 USD) offers a unique perspective with its bamboo hut replica and POW artifacts, while Prasat Muang Singh Historical Park (100 THB/$3 USD) showcases ancient Khmer ruins in a scenic riverside setting. For wildlife experiences, Elephant World Kanchanaburi (2,500 THB/$72 USD) provides ethical elephant interaction and conservation education, and Sai Yok Yai Waterfall (300 THB/$9 USD) offers jungle scenery and swimming along the River Kwai Noi.",
-  "whereToStay": "Kanchanaburi's accommodation ranges from budget guesthouses clustered near the Bridge area to luxury riverside resorts. Budget travelers will find numerous basic guesthouses within walking distance of the Bridge over the River Kwai, with rooms typically ranging from 300-600 THB ($9-18 USD) per night. The town offers several mid-range hotels and resorts scattered along the riverside and near attractions, with prices between 1,000-2,500 THB ($30-75 USD) for comfortable rooms with air conditioning and amenities. Luxury options, particularly those with riverside locations, command premium prices of 3,000-8,000+ THB ($90-240+ USD) nightly, offering spa facilities, excellent dining, and direct river access. The Bridge area provides the most convenient location for first-time visitors, while the quieter riverside resorts offer a more tranquil atmosphere perfect for relaxing between historical site visits.",
+  "thingsToDo": "The cleanest first Kanchanaburi itinerary starts with the town-side history block: Bridge over the River Kwai, Kanchanaburi War Cemetery, and the Thailand-Burma Railway Centre. That gives the railway story enough substance before you start chasing scenery. From there, decide what your westbound priority is. Erawan is the best-known nature day. Hellfire Pass is the hardest-hitting memorial extension. Tham Krasae and the Death Railway route help connect the two halves of the province.\n\nIf you have only one night, stay in town and keep the trip focused. If you have two or three nights, split the stay and add one upriver resort or raft hotel. That is the version of Kanchanaburi that feels complete: one night for history, one night for river or waterfall atmosphere, and no need to pretend every stop belongs in the same short loop.",
+  "whereToStay": "Kanchanaburi hotels only make sense once you choose between town and upriver nights. Town-side stays around the bridge district work best if your trip is history-led and you want easy access to the bridge, cemetery, museum, and evening food. Westbound river resorts and floating hotels work better when you are building the trip around Erawan, Hellfire Pass, Sai Yok, or the raft-stay experience itself.\n\nFor a first visit, one town night is usually the safest foundation. If you can add a second night, move west. The biggest planning mistake is sleeping in town every night while trying to cover the province's furthest and most atmospheric stops as long day trips.",
   "whereToEat": [
     {
-      "name": "Saiyok Riverkwai",
-      "cuisine": "International, Asian",
-      "priceRange": "$$",
-      "description": "Highly-rated riverside restaurant with exceptional service, international and Asian cuisine, and scenic river views."
+      "name": "Pak Phraek heritage shophouse zone",
+      "cuisine": "Local cafes and Thai kitchens",
+      "priceRange": "$-$$",
+      "description": "A stronger town food zone than the usual bridge-area tourist pattern."
     },
     {
-      "name": "Tongkan Café",
-      "cuisine": "Steakhouse, Pizza",
-      "priceRange": "$$",
-      "description": "Quality steakhouse and pizzeria offering Western and Thai fusion cuisine in a casual riverside setting."
+      "name": "Kanchanaburi Night Market",
+      "cuisine": "Street food and snacks",
+      "priceRange": "$",
+      "description": "The easiest flexible dinner move in town."
     },
     {
-      "name": "Kaan Riverkwai Restaurant",
-      "cuisine": "Thai, Fusion",
-      "priceRange": "$$",
-      "description": "Excellent riverside restaurant featuring creative Thai and fusion dishes with authentic flavors and river ambiance."
+      "name": "Thai Peppers at U Inchantree Kanchanaburi",
+      "cuisine": "Thai and riverside dining",
+      "priceRange": "$$-$$$",
+      "description": "A polished river dinner near the bridge district."
     },
     {
       "name": "Good Times Restaurant",
-      "cuisine": "Thai, International",
+      "cuisine": "Thai and international",
       "priceRange": "$$",
-      "description": "Resort-based dining venue offering quality meals in a relaxed atmosphere with river views and international menu."
+      "description": "A reliable riverfront fallback for town-side stays."
     },
     {
-      "name": "Sri Rung Rueng Noodle Shop",
-      "cuisine": "Thai Noodles",
-      "priceRange": "$",
-      "description": "Legendary local noodle shop near the train station serving Kanchanaburi's best boat noodles and kuay tiew since the 1970s."
-    },
-    {
-      "name": "Mangosteen Cafe",
-      "cuisine": "Thai-Western Café",
-      "priceRange": "$-$$",
-      "description": "Cozy riverside café popular with travelers offering quality coffee, smoothie bowls, and Thai breakfast sets with river views."
-    },
-    {
-      "name": "Keeree Mantra",
-      "cuisine": "Bar, Barbecue",
+      "name": "Keeree Tara",
+      "cuisine": "Thai seafood",
       "priceRange": "$$",
-      "description": "Barbecue and bar restaurant offering grilled meats and casual dining experience with riverside location."
+      "description": "A good pick for one scenic river meal."
+    },
+    {
+      "name": "Pontoon Restaurant at The FloatHouse River Kwai",
+      "cuisine": "Resort dining",
+      "priceRange": "$$-$$$",
+      "description": "Best when you are already sleeping upriver on the river."
+    },
+    {
+      "name": "Lemongrass Restaurant at Home Phutoey River Kwai",
+      "cuisine": "Thai and resort dining",
+      "priceRange": "$$",
+      "description": "A practical westbound dinner tied to a resort stay."
     }
   ],
-  "topHotels": [
-    {
-      "name": "Good Times Resort",
-      "category": "midrange",
-      "priceRange": "$40-70/night",
-      "area": "Maenam Kwai Road",
-      "description": "Popular riverside resort with spacious bungalows, relaxing pool, and convenient location near restaurants and bars."
-    },
-    {
-      "name": "U Inchantree Kanchanaburi",
-      "category": "luxury",
-      "priceRange": "$100-180/night",
-      "area": "Riverside, Bridge area",
-      "description": "Luxury boutique hotel next to Bridge over the River Kwai with modern design, spa facilities, fine dining, and colonial-style rooms."
-    },
-    {
-      "name": "Dheva Mantra Resort & Spa",
-      "category": "luxury",
-      "priceRange": "$100-200/night",
-      "area": "Hilltop location",
-      "description": "Elegant resort with panoramic river valley views, full-service spa, and beautifully landscaped infinity pool overlooking mountains."
-    },
-    {
-      "name": "The River Kwai Bridge Resort",
-      "category": "midrange",
-      "priceRange": "$35-65/night",
-      "area": "Riverside, Bridge area",
-      "description": "Riverside resort with comfortable rooms, convenient location near the Bridge over the River Kwai and WWII historical sites."
-    },
-    {
-      "name": "Natee The Riverfront Hotel",
-      "category": "midrange",
-      "priceRange": "$40-80/night",
-      "area": "Riverside",
-      "description": "Charming riverfront hotel offering quality accommodation with river views and convenient access to main attractions."
-    }
-  ],
-  "gettingAround": "Kanchanaburi has a modest but functional local transport system. Tuk-tuks are the most common way to navigate town, with typical fares of 40-80 THB ($1-2.50 USD) for short distances—always agree on fares before boarding. Songthaews (shared minibuses) operate on fixed routes and cost around 20-40 THB ($0.60-1.20 USD) per journey, though they are slower and stop frequently. Grab, Thailand's ride-hailing app, is available in Kanchanaburi and offers reliable motorcycle taxis and cars, usually 20-30% cheaper than negotiating with regular tuk-tuks. Many travelers rent motorbikes (150-300 THB/$5-9 USD per day) for greater independence exploring waterfalls and remote temples. Bicycles are popular for short distances around town, and most hotels can arrange rentals for 50-100 THB ($1.50-3 USD) daily. The Death Railway train operates scheduled routes connecting attractions, while private tour operators offer comprehensive day trips that handle all transportation logistics.",
-  "bestTimeToVisit": "The ideal time to visit Kanchanaburi is November through February, when Thailand's cool season brings comfortable temperatures between 20-28°C (68-82°F) and minimal rainfall. December and January are peak tourism months with the most stable weather and best visibility for outdoor activities like waterfall hiking and historical site exploration. March through May is hot and humid (reaching 35-40°C/95-104°F), making daytime sightseeing challenging but offering fewer crowds and cheaper accommodation. The southwest monsoon season runs May through October, bringing heavy rainfall particularly in August and September, which can cause waterfall hikes to become slippery and some remote sites difficult to access. October and November offer a transition period with decreasing rainfall and cooling temperatures, making them excellent alternatives to peak season. For history enthusiasts visiting the war cemeteries and WWII sites, any month works, but the more comfortable temperatures of the cool season enhance the reflective experience. Bridge viewing and Death Railway journeys are pleasant year-round, though the cooler months provide better photography conditions and more comfortable train rides.",
+  "gettingAround": "Kanchanaburi is easy to misread as a walkable city break when it is really a mixed town-and-road destination. The bridge district, cemetery, and railway centre can be covered by short local rides or by staying nearby. After that, the province quickly becomes a transport question: westbound attractions sit along the River Kwai corridor and Highway 323, and the railway route toward Nam Tok and Tham Krasae is useful more as an experience than as a perfect all-purpose local transport network.\n\nThe practical rule is simple. Walk only within your immediate town base. Use local rides in town, and use either a train segment, car, driver, or hotel-arranged transfer for anything farther west. Floating hotels and upriver resorts often involve boat transfers or coordinated pickups, so treat those logistics as part of the booking rather than an afterthought.",
+  "bestTimeToVisit": "Kanchanaburi is easiest from November to February, when long outdoor memorial walks, road trips toward Sai Yok, and waterfall plans all fit together with less heat. March to May can still work, but westbound daytime movement becomes harsher and Erawan hikes feel more taxing. Rainy-season trips are still viable if the focus is town history and a resort stay, but they make all-day waterfall-first planning less predictable. For most first visits, the cool season gives the cleanest balance.",
   "budgetGuide": {
     "budget": {
-      "min": 20,
-      "max": 40,
-      "description": "Budget travelers can live comfortably on $20-40 USD daily including basic guesthouse accommodation ($12-20), street food and local meals ($3-5 per meal), local transport ($3-5), and free or cheap attraction entry ($0-5). Backpacker guesthouses, night markets, and roadside stalls keep costs minimal while maintaining satisfactory conditions."
+      "min": 25,
+      "max": 45,
+      "description": "Budget Kanchanaburi usually means a town guesthouse or simple hotel, market meals, and a selective history-first itinerary with one paid attraction or rail segment."
     },
     "midrange": {
-      "min": 50,
-      "max": 100,
-      "description": "Mid-range travelers should budget $50-100 USD daily for 3-star hotel rooms ($30-50), restaurant meals ($6-12), activities and attraction fees ($15-30), transport ($5-10), and incidental expenses. This covers comfortable accommodation, quality meals at established restaurants, and guided tours to major historical sites."
+      "min": 55,
+      "max": 120,
+      "description": "Mid-range budgets buy the best version of Kanchanaburi for most travelers: a better town hotel or riverfront stay, cleaner transport, and room for one stronger restaurant and one westbound outing."
     },
     "luxury": {
-      "min": 150,
-      "max": 400,
-      "description": "Luxury travelers should allocate $150-400+ USD daily for 4-5 star resort stays ($100-200), fine dining meals ($20-40 per meal), private guided tours ($50-100), spa treatments ($30-60), and premium activities. This lifestyle includes riverside resorts, personal service, and exclusive experiences like private elephant sanctuaries."
+      "min": 140,
+      "max": 320,
+      "description": "Higher budgets are mostly about branded riverside hotels, floating villas, private transfers, and making the upriver side of the trip feel comfortable rather than rushed."
     }
   },
-  "safetyTips": "Kanchanaburi is a safe destination for tourists with no significant safety concerns specific to the city. Standard travel precautions apply: avoid displaying excessive cash or valuables, be cautious in crowded areas, and use trusted transport services, particularly avoiding unmarked taxis. When visiting historical war sites, especially Hellfire Pass, ensure you have adequate water, sun protection, and sturdy footwear as trails can be steep and uneven. The Death Railway train is generally safe but exercise normal precautions with belongings; pickpocketing is rare but possible in crowded areas. When renting motorbikes or visiting remote waterfalls, wear helmets, follow local advice about safe routes, and travel in groups if possible. River activities are generally well-managed, but confirm that elephant sanctuaries are truly ethical operations before visiting. Local residents are friendly toward visitors, and the tourism infrastructure is well-established with good medical facilities available in town.",
+  "safetyTips": "Kanchanaburi is generally straightforward, but the real risk is underestimating transport, heat, and distance rather than city-center safety. Bring water and proper footwear for Hellfire Pass or waterfall days, and do not improvise long westbound itineraries late in the afternoon. Around the bridge, remember trains still use the line. At cemeteries and memorial sites, dress and behave respectfully. If you rent a motorbike, keep in mind that the province's roads become more exposed and tiring the farther west you go.",
   "faq": [
     {
-      "question": "How far is Kanchanaburi from Bangkok and how do I get there?",
-      "answer": "Kanchanaburi is approximately 130 kilometers (81 miles) west of Bangkok, taking 2-3 hours by car or minibus. Direct minibuses from Bangkok's Southern Bus Terminal (Sai Tai) cost around 80-120 THB ($2.50-3.50 USD) and run frequently throughout the day. Alternatively, organized tour buses from central Bangkok provide comfortable transport with hotel pickup."
+      "question": "Is Kanchanaburi worth more than a Bangkok day trip?",
+      "answer": "Yes. A day trip can cover the bridge and one or two town stops, but the province gets much better once you add a westbound day or an upriver overnight."
     },
     {
-      "question": "What is the entrance fee for the Bridge over the River Kwai?",
-      "answer": "The Bridge over the River Kwai is completely free to visit and walk across. There are no entrance fees, though you may purchase souvenirs or refreshments at nearby shops. The bridge is accessible during daylight hours."
+      "question": "How many nights do I need in Kanchanaburi?",
+      "answer": "One night is enough for the bridge, cemetery, and railway centre. Two nights is better if you also want Erawan, Hellfire Pass, or a raft-hotel stay."
     },
     {
-      "question": "How long should I spend in Kanchanaburi?",
-      "answer": "Most visitors spend 2-3 days in Kanchanaburi to see the main attractions: the Bridge, Death Railway, Erawan National Park, and war museums. Quick day-trippers from Bangkok can see the Bridge and basic historical sites in one day, while history enthusiasts may spend 4-5 days exploring all WWII sites thoroughly."
+      "question": "Should I stay in town or upriver?",
+      "answer": "Stay in town if history access is the priority. Stay upriver if river atmosphere, Sai Yok, or a floating hotel matters more. A split stay is often best."
     },
     {
-      "question": "What is the best time to visit Kanchanaburi?",
-      "answer": "The ideal time to visit is November through February, when Thailand's cool season brings comfortable temperatures between 20-28°C (68-82°F) and minimal rainfall. December and January are peak tourism months with the most stable weather. The southwest monsoon (May-October) brings heavy rainfall, particularly in August-September, making some sites difficult to access."
+      "question": "What are Kanchanaburi's most important history stops?",
+      "answer": "For most travelers, the key sequence is the Bridge over the River Kwai, Kanchanaburi War Cemetery, the Thailand-Burma Railway Centre, and Hellfire Pass."
     },
     {
-      "question": "What are the top attractions to visit?",
-      "answer": "Top attractions include: the Bridge over the River Kwai (free), Erawan National Park with its seven-tiered waterfall (300 THB), the Death Railway scenic train (100 THB), Hellfire Pass Memorial Museum (free), Kanchanaburi War Cemetery (free), Thailand-Burma Railway Centre (140 THB), and JEATH War Museum (40 THB)."
+      "question": "What is the best nature stop in Kanchanaburi?",
+      "answer": "Erawan National Park is the most obvious first nature day, especially if you want a waterfall-focused trip rather than another memorial site."
+    },
+    {
+      "question": "Can I do Erawan and Hellfire Pass in one day?",
+      "answer": "You can, but it often weakens both stops. Most short trips are better when you choose one major westbound priority per day."
     }
   ],
   "practicalInfo": {
@@ -536,295 +714,132 @@
       "Jan",
       "Feb"
     ],
-    "nearestAirport": "Suvarnabhumi Airport (BKK) - Bangkok International, 130 kilometers east",
-    "travelTimeFromAirport": "2.5-3 hours by car or minibus (depending on traffic); organized transfer or minibus recommended",
+    "nearestAirport": "Bangkok airports (DMK or BKK) for most arrivals",
+    "travelTimeFromAirport": "Usually around 2.5 to 3.5 hours by road depending on departure point and traffic.",
     "localTransport": [
-      "Tuk-tuk (40-80 THB per short journey)",
-      "Songthaew/shared minibus (20-40 THB per journey)",
-      "Grab app (motorcycle taxi and car service)",
-      "Motorbike rental (150-300 THB per day)",
-      "Bicycle rental (50-100 THB per day)",
-      "Death Railway train"
+      "Short town rides around the bridge and cemetery area",
+      "Train segments on the Death Railway route",
+      "Private car or driver for westbound attractions",
+      "Hotel-arranged transfers for upriver resorts and floating hotels",
+      "Walking only within your immediate hotel zone"
     ]
   },
-  "enrichedAt": "2026-02-22T12:53:34.758Z",
-  "seasonal_secrets": {
-    "best_times": {
-      "November-February (Best)": "The ideal time to visit Kanchanaburi is November through February, when Thailand's cool season brings comfortable temperatures between 20-28°C (68-82°F) and minimal rainfall. December and January are peak tourism months with the most stable weather and best visibility for outdoor activities like waterfall hiking and historical site exploration.",
-      "March-May (Hot Season)": "Hot and humid, 30-38°C. Cheaper accommodation and fewer crowds — worth it if you can handle the heat.",
-      "June-October (Green Season)": "Frequent afternoon showers. Lush landscapes and good deals — rain usually falls in short afternoon bursts."
-    },
-    "local_festivals": [
-      "River Kwai Bridge Week (late November-early December) - light and sound show",
-      "Loy Krathong Festival",
-      "King's Birthday (Father's Day - Dec 5)",
-      "New Year celebrations",
-      "Makha Bucha Day",
-      "Chinese New Year (varies)",
-      "Songkran Water Festival (April 13-15) - celebrated nationwide"
-    ],
-    "seasonal_foods": {
-      "cool": "Street food markets at their best — Pad Thai, Som Tam, and fresh seafood. Local favorites include Keeree Tara and Blue Rice by Alicia.",
-      "hot": "Thai iced tea, coconut ice cream, and cold noodle salads. Local favorites include Keeree Tara and Blue Rice by Alicia.",
-      "rainy": "Tom Yum Goong and warming curries are perfect for rainy days. Local favorites include Keeree Tara and Blue Rice by Alicia."
-    },
-    "insider_tips": {
-      "Peak season": "November-February is peak season — book accommodation 2-4 weeks ahead for the best prices.",
-      "Rainy season": "Rain usually falls in short afternoon bursts — mornings are often sunny and great for exploring Kanchanaburi.",
-      "Bridge over River Kwai": "Visit Bridge over River Kwai during the cool season for the most comfortable experience. Early morning visits beat the heat and the crowds."
-    }
-  },
-  "top_attractions": [
+  "contentSources": [
     {
-      "rank": 1,
-      "name": "Bridge over the River Kwai",
-      "description": "Iconic steel bridge built during WWII by Allied prisoners of war. Free to walk across with views of the River Kwai and surrounding landscape.",
-      "location": "Central Kanchanaburi",
-      "entrance_fee": "Free",
-      "highlights": [
-        "WWII history",
-        "Free entry",
-        "Iconic photography spot"
-      ]
+      "type": "tourism-office",
+      "title": "Kanchanaburi Provincial Brochure",
+      "creator": "Amazing Thailand / Tourism Authority of Thailand",
+      "url": "https://amazingthailand.com.au/wp-content/uploads/2019/07/Kanchanaburi.pdf",
+      "description": "Used for province framing, River Kwai route logic, and broad official destination context."
     },
     {
-      "rank": 2,
-      "name": "Erawan National Park",
-      "description": "Famous for its seven-tiered Erawan Waterfall with natural swimming pools and jungle trails. One of Thailand's most visited national parks.",
-      "location": "65 kilometers north of Kanchanaburi town",
-      "entrance_fee": "300 THB ($9 USD)",
-      "highlights": [
-        "Seven-tiered waterfall",
-        "Swimming pools",
-        "Jungle hiking"
-      ]
+      "type": "attraction",
+      "title": "Kanchanaburi Provincial Brochure",
+      "creator": "Amazing Thailand / Tourism Authority of Thailand",
+      "url": "https://amazingthailand.com.au/wp-content/uploads/2019/07/Kanchanaburi.pdf",
+      "description": "Used for official destination framing of the bridge area and wider River Kwai route."
     },
     {
-      "rank": 3,
-      "name": "Death Railway (Thailand-Burma Railway)",
-      "description": "Historic scenic train journey along the infamous WWII railway line featuring the dramatic Tham Krasae viaduct carved into cliffsides.",
-      "location": "Departs from Kanchanaburi town",
-      "entrance_fee": "100 THB ($3 USD)",
-      "highlights": [
-        "Tham Krasae viaduct",
-        "Historic railway",
-        "River views"
-      ]
+      "type": "attraction",
+      "title": "Thailand-Burma Railway Centre",
+      "creator": "Thailand-Burma Railway Centre",
+      "url": "https://www.tbrconline.com/",
+      "description": "Used for museum context, interpretation, and current official venue reference."
     },
     {
-      "rank": 4,
-      "name": "Hellfire Pass Memorial Museum",
-      "description": "Memorial to prisoners of war who died building the Death Railway. Features a walking trail through preserved sections of the original railway.",
-      "location": "70 kilometers north of Kanchanaburi",
-      "entrance_fee": "Free",
-      "highlights": [
-        "POW memorial",
-        "Walking trail",
-        "Historical significance"
-      ]
+      "type": "attraction",
+      "title": "Hellfire Pass",
+      "creator": "Anzac Portal, Australian Government",
+      "url": "https://anzacportal.dva.gov.au/wars-and-missions/ww2/military-history/second-world-war-1939-1945/thailand-burma-railway/hellfire-pass",
+      "description": "Used for primary memorial and historical context on Hellfire Pass."
     },
     {
-      "rank": 5,
-      "name": "Kanchanaburi War Cemetery (Don Rak)",
-      "description": "Immaculately maintained cemetery honoring 6,982 Allied prisoners of war who died during WWII. Peaceful gardens and respectful memorial site.",
-      "location": "Central Kanchanaburi",
-      "entrance_fee": "Free",
-      "highlights": [
-        "6,982 graves",
-        "Peaceful gardens",
-        "WWII memorial"
-      ]
+      "type": "attraction",
+      "title": "Kanchanaburi War Cemetery",
+      "creator": "Commonwealth War Graves Commission",
+      "url": "https://www.cwgc.org/visit-us/find-cemeteries-memorials/cemetery-details/2067200/KANCHANABURI%20WAR%20CEMETERY/",
+      "description": "Used for cemetery significance and remembrance context."
     },
     {
-      "rank": 6,
-      "name": "Thailand-Burma Railway Centre",
-      "description": "Interactive museum with exhibits, personal stories, and historical artifacts documenting the construction and history of the Death Railway.",
-      "location": "Central Kanchanaburi",
-      "entrance_fee": "140 THB ($4 USD)",
-      "highlights": [
-        "Interactive exhibits",
-        "POW stories",
-        "Railway history"
-      ]
+      "type": "attraction",
+      "title": "Prasat Muang Singh Historical Park Map",
+      "creator": "Fine Arts Department, Thailand",
+      "url": "https://virtualhistoricalpark.finearts.go.th/muangsing/index.php/en/map.html",
+      "description": "Used for official historical-park context, hours, and visitor orientation."
     },
     {
-      "rank": 7,
-      "name": "JEATH War Museum",
-      "description": "Unique museum housed in a replica bamboo hut featuring POW artifacts, photographs, and personal accounts of wartime experiences.",
-      "location": "Central Kanchanaburi",
-      "entrance_fee": "40 THB ($1 USD)",
-      "highlights": [
-        "Bamboo hut replica",
-        "POW artifacts",
-        "Personal accounts"
-      ]
+      "type": "hotel",
+      "title": "U Inchantree Kanchanaburi",
+      "creator": "U Hotels & Resorts",
+      "url": "https://www.uhotelsresorts.com/uinchantreekanchanaburi/",
+      "description": "Used for official town-side hotel positioning near the River Kwai bridge area."
     },
     {
-      "rank": 8,
-      "name": "Sai Yok Yai Waterfall",
-      "description": "Beautiful waterfall along the River Kwai Noi with jungle scenery, swimming opportunities, and scenic walking trails.",
-      "location": "65 kilometers northwest of Kanchanaburi",
-      "entrance_fee": "300 THB ($9 USD)",
-      "highlights": [
-        "River Kwai Noi views",
-        "Swimming",
-        "Jungle trails"
-      ]
+      "type": "hotel",
+      "title": "Natee The Riverfront",
+      "creator": "Natee The Riverfront Hotel",
+      "url": "https://www.nateetheriverfront.com/",
+      "description": "Used for official town-side riverfront hotel positioning."
+    },
+    {
+      "type": "hotel",
+      "title": "Dheva Mantra Resort",
+      "creator": "Dheva Mantra Resort",
+      "url": "https://www.dhevamantraresort.com/",
+      "description": "Used for official resort positioning west of the center."
+    },
+    {
+      "type": "hotel",
+      "title": "Felix River Kwai Resort",
+      "creator": "Felix River Kwai Resort",
+      "url": "https://www.felixriverkwai.co.th/",
+      "description": "Used for official bridge-side riverside resort reference."
+    },
+    {
+      "type": "hotel",
+      "title": "The FloatHouse River Kwai",
+      "creator": "The FloatHouse River Kwai",
+      "url": "https://www.thefloathouseriverkwai.com/",
+      "description": "Used for official floating-villa hotel context and upriver stay planning."
+    },
+    {
+      "type": "hotel",
+      "title": "River Kwai Jungle Rafts",
+      "creator": "River Kwai Jungle Rafts",
+      "url": "https://www.riverkwaijunglerafts.com/",
+      "description": "Used for official floating-hotel context and westbound stay planning."
+    },
+    {
+      "type": "hotel",
+      "title": "Home Phutoey River Kwai Resort",
+      "creator": "Home Phutoey River Kwai Resort",
+      "url": "https://www.homephutoeyriverkwai.com/",
+      "description": "Used for official westbound resort context and access planning."
+    },
+    {
+      "type": "restaurant",
+      "title": "Thai Peppers Restaurant",
+      "creator": "U Inchantree Kanchanaburi",
+      "url": "https://www.uhotelsresorts.com/uinchantreekanchanaburi/dining/thai-peppers",
+      "description": "Used for official resort-dining context near the bridge district."
+    },
+    {
+      "type": "restaurant",
+      "title": "Pontoon Restaurant",
+      "creator": "The FloatHouse River Kwai",
+      "url": "https://www.thefloathouseriverkwai.com/eat-drink/",
+      "description": "Used for official upriver floating-resort dining context."
+    },
+    {
+      "type": "restaurant",
+      "title": "Lemongrass Restaurant",
+      "creator": "Home Phutoey River Kwai Resort",
+      "url": "https://www.homephutoeyriverkwai.com/eat-drink/",
+      "description": "Used for official westbound resort-dining context."
     }
   ],
-  "factchecked_at": "2024-12-20T10:30:00.000Z",
-  "translations": {
-    "nl": {
-      "enhanced_description": "Het eerste wat me opviel aan Kanchanaburi was het geluid van de rivier Kwai die onder de oude ijzeren brug door stroomde, het ritmische geruis een aangrijpende achtergrond bij een van Zuidoost-Azië's meest emotioneel geladen historische plekken. Ik was vroeg in de ochtend aangekomen vanuit Bangkok met de minivan, de drie uur durende rit kronkelend door suikerrietvelden en kalksteenheuvels voordat de stad zich onthulde: een luie nederzetting aan de rivier waar backpackerpensions op bamboevlotten dobberen en de geesten van de Tweede Wereldoorlog in elke hoek rondwaren. Staande op de Brug over de Rivier Kwai zelf, de trillingen van een passerende trein onder mijn voeten voelend, begreep ik waarom deze plek bezoekers van over de hele wereld trekt.\n\nMaar Kanchanaburi is veel meer dan zijn oorlogsgeschiedenis. Op mijn tweede dag reed ik negentig minuten naar Erawan National Park, en de zeven niveaus van de Erawan Waterval lieten me sprakeloos. Elk niveau had een eigen karakter: de lagere poelen waren perfect om te zwemmen, het turquoise water zo helder dat ik kleine visjes aan mijn enkels kon zien knabbelen. Tegen de tijd dat ik het zevende niveau bereikte, doorweekt van zweet en nevel, voelde de waterval die over met mos begroeide rotsen tuimelde als een persoonlijke beloning. Ik at een bord pad kra pao van een verkoper bij de parkingang, de heilige basilicum zo geurig dat het mijn vingers urenlang parfumeerde.\n\nTerug in de stad bracht ik een middag door bij het Thailand-Burma Railway Centre aan Jaokunnen Road, een museum dat het verhaal van de Dodenspoorweg vertelt met nauwgezette zorg en oprechte compassie. Aan de overkant van de straat herbergt de Kanchanaburi War Cemetery de resten van bijna zevenduizend Geallieerde krijgsgevangenen, de onberispelijke rijen grafstenen een ontnuchterende herinnering onder de tropische zon. Die avond slenterde ik naar de drijvende restaurants langs de rivier bij Maenam Kwai Road, waar ik een hele gegrilde pla pao bestelde, gewikkeld in een zoutkorst, vergezeld van som tum en kleefrijst, terwijl ik de zon het water goud zag kleuren.\n\nWat me het meest verraste was hoe moeiteloos Kanchanaburi plechtigheid combineert met avontuur. De ene ochtend verkende ik het Hellfire Pass Memorial Museum, met mijn hand langs de beitelmerken strijkend die door krijgsgevangenen in het gesteente waren gehouwen. Diezelfde middag raasde ik over stroomversnellingen op een bamboevlot bij Sai Yok, brullend van het lachen terwijl onze gids een bijzonder hobbelig stuk navigeerde. De kalksteenklippen langs de Kwai Noi-rivier rezen op als kathedraalmuren, en bij de Sai Yok Yai Waterval hing de nevel in de lucht als een koel gordijn.\n\nDe Maenam Kwai Road-strip van de stad komt 's avonds tot leven met reizigersvriendelijke bars en restaurants, maar mijn favoriete maaltijden vond ik op de ochtendmarkt bij het treinstation aan Saeng Chuto Road, waar verkopers khao tom kai en jok-rijstpap serveren uit dampende potten. Ik ontdekte ook een piepklein restaurant genaamd Keeree Tara nabij de Kwai-brug dat buitengewone riviergarnaalgerechten serveert. Kanchanaburi beloont wie langer blijft dan de brug: de jungletochten, ethische olifantenopvangcentra in de omringende heuvels en de pure schoonheid van de Kwai-vallei maken dit een van Thailands meest onderschatte bestemmingen.",
-      "overview": "Kanchanaburi is de historisch meest betekenisvolle bestemming van Thailand, onsterfelijk gemaakt door de legendarische Brug over de Rivier Kwai. Gelegen in de centrale regio, ongeveer 130 kilometer ten westen van Bangkok, is deze stad van 63.000 inwoners essentieel geworden voor het begrijpen van Thailands rol tijdens de Tweede Wereldoorlog. Naast zijn sombere geschiedenis biedt Kanchanaburi adembenemende natuurlijke schoonheid met het schitterende Erawan National Park — beroemd om zijn waterval met zeven niveaus — en spannende jungleavonturen langs de rivier Kwai. De provincie combineert moeiteloos donker toerisme met avontuurlijk reizen, waardoor het ideaal is voor bezoekers die culturele diepgang, buitenverkenning en een van Azië's meest aangrijpende historische ervaringen zoeken.",
-      "thingsToDo": "De hoofdattractie van Kanchanaburi, de Brug over de Rivier Kwai, is gratis te bezoeken en biedt de onvergetelijke ervaring om over deze iconische structuur te wandelen terwijl je leert over de aangrijpende WOII-geschiedenis. De Dodenspoorweg (Thailand-Burma Railway) biedt een authentieke schilderachtige treinreis langs de historische lijn voor 100 THB ($3 USD), met het dramatische Tham Krasae-viaduct uitgehouwen in rotswanden. Voor natuurliefhebbers toont Erawan National Park (300 THB/$9 USD entree) een prachtige waterval met zeven niveaus met natuurlijke zwembaden en uitstekende junglewandelpaden. Geschiedenisliefhebbers moeten het Hellfire Pass Memorial Museum bezoeken (gratis) met zijn indrukwekkend wandelpad, de Kanchanaburi War Cemetery bij Don Rak (gratis, met 6.982 graven in onberispelijke tuinen), en het Thailand-Burma Railway Centre (140 THB/$4 USD) met interactieve tentoonstellingen en persoonlijke verhalen. Het JEATH War Museum (40 THB/$1 USD) biedt een uniek perspectief met zijn bamboehutreplica en krijgsgevangeneartefacten, terwijl Prasat Muang Singh Historisch Park (100 THB/$3 USD) eeuwenoude Khmerruïnes toont in een schilderachtige rivieromgeving. Voor wildlife-ervaringen biedt Elephant World Kanchanaburi (2.500 THB/$72 USD) ethische olifanteninteractie en educatie over natuurbehoud, en Sai Yok Yai Waterfall (300 THB/$9 USD) biedt junglelandschappen en zwemmen langs de Kwai Noi.",
-      "whereToStay": "De accommodatie in Kanchanaburi varieert van budgetguesthouses geclusterd nabij het bruggebied tot luxe rivierresorts. Budgetreizigers vinden talrijke eenvoudige guesthouses op loopafstand van de Brug over de Rivier Kwai, met kamers doorgaans van 300-600 THB ($9-18 USD) per nacht. De stad biedt verschillende middenklasse hotels en resorts verspreid langs de rivier en nabij attracties, met prijzen tussen 1.000-2.500 THB ($30-75 USD) voor comfortabele kamers met airco en voorzieningen. Luxeopties, met name die met rivierlocaties, vragen premiumprijzen van 3.000-8.000+ THB ($90-240+ USD) per nacht en bieden spa, uitstekend dineren en directe rivertoegang. Het bruggebied is de handigste locatie voor eerste bezoekers, terwijl de rustiger rivierresorts een vrediger sfeer bieden, perfect om te ontspannen tussen bezoeken aan historische locaties.",
-      "gettingAround": "Kanchanaburi heeft een bescheiden maar functioneel lokaal vervoerssysteem. Tuk-tuks zijn de meest gebruikelijke manier om door de stad te navigeren, met typische tarieven van 40-80 THB ($1-2,50 USD) voor korte afstanden — spreek altijd de prijs af voor het instappen. Songthaews (gedeelde minibusjes) rijden op vaste routes en kosten rond 20-40 THB ($0,60-1,20 USD) per rit, hoewel ze langzamer zijn en vaak stoppen. Grab, de Thaise taxi-app, is beschikbaar in Kanchanaburi en biedt betrouwbare motortaxi's en auto's, doorgaans 20-30% goedkoper dan onderhandelen met gewone tuk-tuks. Veel reizigers huren een motor (150-300 THB/$5-9 USD per dag) voor meer onafhankelijkheid bij het verkennen van watervallen en afgelegen tempels. Fietsen zijn populair voor korte afstanden in de stad, en de meeste hotels kunnen verhuur regelen voor 50-100 THB ($1,50-3 USD) per dag. De Dodenspoorwegtrein rijdt op vaste tijden en verbindt attracties, terwijl particuliere touroperators uitgebreide dagtripjes aanbieden die alle vervoerslogistiek regelen.",
-      "bestTimeToVisit": "De ideale tijd om Kanchanaburi te bezoeken is november tot en met februari, wanneer het koele seizoen in Thailand comfortabele temperaturen tussen 20-28°C brengt en minimale regenval. December en januari zijn de topmaanden voor toerisme met het meest stabiele weer en het beste zicht voor buitenactiviteiten zoals watervalwandelingen en verkenning van historische locaties. Maart tot mei is heet en vochtig (tot 35-40°C), waardoor bezichtigingen overdag uitdagend zijn maar met minder drukte en goedkopere accommodatie. Het zuidwestmoesson-seizoen loopt van mei tot oktober, met zware regenval vooral in augustus en september, waardoor watervalwandelingen glad kunnen worden en sommige afgelegen locaties moeilijk bereikbaar. Oktober en november bieden een overgangsperiode met afnemende regenval en afkoelende temperaturen, waardoor ze uitstekende alternatieven zijn voor het hoogseizoen. Voor geschiedenisliefhebbers die oorlogsbegraafplaatsen en WOII-locaties bezoeken, werkt elke maand, maar de comfortabelere temperaturen van het koele seizoen versterken de bezinnende ervaring. De brug bekijken en ritten op de Dodenspoorweg zijn het hele jaar aangenaam, hoewel de koelere maanden betere fotografieomstandigheden en comfortabelere treinritten bieden.",
-      "safetyTips": "Kanchanaburi is een veilige bestemming voor toeristen zonder significante veiligheidsproblemen specifiek voor de stad. Standaard reisvoorzorgsmaatregelen gelden: vermijd het tonen van overmatig contant geld of waardevolle spullen, wees voorzichtig in drukke gebieden en gebruik vertrouwde vervoersdiensten, met name door ongemarkeerde taxi's te vermijden. Bij het bezoeken van historische oorlogslocaties, vooral Hellfire Pass, zorg ervoor dat je voldoende water, zonbescherming en stevig schoeisel hebt, aangezien paden steil en oneffen kunnen zijn. De Dodenspoorwegtrein is over het algemeen veilig, maar neem normale voorzorgsmaatregelen met bezittingen; zakkenrollerij is zeldzaam maar mogelijk in drukke gebieden. Bij het huren van motors of het bezoeken van afgelegen watervallen: draag helmen, volg lokaal advies over veilige routes en reis waar mogelijk in groepen. Rivieractiviteiten worden over het algemeen goed beheerd, maar bevestig dat olifantenopvangcentra daadwerkelijk ethische operaties zijn voordat je ze bezoekt. Lokale bewoners zijn vriendelijk tegenover bezoekers, en de toeristische infrastructuur is goed ontwikkeld met goede medische voorzieningen beschikbaar in de stad.",
-      "translated_at": "2026-03-09T00:00:00.000Z"
-    },
-    "fr": {
-      "enhanced_description": "La première chose qui m'a frappé à Kanchanaburi fut le bruit de la rivière Kwai coulant sous le vieux pont de fer, son murmure rythmique formant une toile de fond poignante pour l'un des sites historiques les plus chargés d'émotion d'Asie du Sud-Est. J'étais arrivé tôt le matin depuis Bangkok en minivan, le trajet de trois heures serpentant à travers des champs de canne à sucre et des collines calcaires avant que la ville ne se dévoile : une bourgade nonchalante au bord de la rivière où des pensions de routards flottent sur des radeaux de bambou et où les esprits de la Seconde Guerre mondiale hantent chaque recoin. Debout sur le Pont de la Rivière Kwai lui-même, sentant les vibrations d'un train qui passait sous mes pieds, j'ai compris pourquoi cet endroit attire des visiteurs du monde entier.\n\nMais Kanchanaburi est bien plus que son histoire de guerre. Le deuxième jour, j'ai roulé quatre-vingt-dix minutes jusqu'au parc national d'Erawan, et les sept niveaux de la cascade d'Erawan m'ont coupé le souffle. Chaque niveau avait son propre caractère : les bassins inférieurs étaient parfaits pour la baignade, l'eau turquoise si claire que je pouvais voir de petits poissons grignoter mes chevilles. Quand j'ai atteint le septième niveau, trempé de sueur et de brume, la cascade dévalant les rochers couverts de mousse ressemblait à une récompense personnelle. J'ai mangé une assiette de pad kra pao chez un vendeur à l'entrée du parc, le basilic sacré si parfumé qu'il embauma mes doigts pendant des heures.\n\nDe retour en ville, j'ai passé un après-midi au Thailand-Burma Railway Centre sur Jaokunnen Road, un musée qui raconte l'histoire du Chemin de fer de la Mort avec un soin méticuleux et une compassion sincère. De l'autre côté de la rue, le cimetière de guerre de Kanchanaburi abrite les restes de près de sept mille prisonniers de guerre alliés, les rangées impeccables de pierres tombales un rappel sobre sous le soleil tropical. Ce soir-là, j'ai flâné jusqu'aux restaurants flottants le long de la rivière sur Maenam Kwai Road, où j'ai commandé un pla pao entier grillé, enveloppé d'une croûte de sel, accompagné de som tum et de riz gluant, regardant le soleil teinter l'eau d'or.\n\nCe qui m'a le plus surpris, c'est la facilité avec laquelle Kanchanaburi marie solennité et aventure. Un matin, j'explorais le Hellfire Pass Memorial Museum, passant ma main le long des marques de burin taillées dans la roche par les prisonniers de guerre. L'après-midi même, je dévalais des rapides sur un radeau de bambou à Sai Yok, hurlant de rire tandis que notre guide négociait un passage particulièrement mouvementé. Les falaises calcaires le long de la rivière Kwai Noi s'élevaient comme des murs de cathédrale, et à la cascade de Sai Yok Yai, la brume restait suspendue dans l'air comme un rideau frais.\n\nLe quartier de Maenam Kwai Road s'anime le soir avec des bars et restaurants accueillants pour les voyageurs, mais mes repas préférés, je les ai trouvés au marché matinal près de la gare sur Saeng Chuto Road, où les vendeurs servent du khao tom kai et de la bouillie de riz jok dans des marmites fumantes. J'ai aussi découvert un minuscule restaurant appelé Keeree Tara près du pont Kwai qui sert d'extraordinaires plats de crevettes de rivière. Kanchanaburi récompense ceux qui restent plus longtemps que le pont : les randonnées en jungle, les refuges éthiques pour éléphants dans les collines environnantes et la pure beauté de la vallée du Kwai en font l'une des destinations les plus sous-estimées de Thaïlande.",
-      "overview": "Kanchanaburi est la destination historiquement la plus significative de Thaïlande, immortalisée par le légendaire Pont de la Rivière Kwai. Située dans la région centrale, à environ 130 kilomètres à l'ouest de Bangkok, cette ville de 63 000 habitants est devenue incontournable pour comprendre le rôle de la Thaïlande pendant la Seconde Guerre mondiale. Au-delà de son histoire sombre, Kanchanaburi offre une beauté naturelle époustouflante avec le splendide parc national d'Erawan — célèbre pour sa cascade à sept niveaux — et des aventures palpitantes en jungle le long de la rivière Kwai. La province allie sans effort tourisme mémoriel et voyage d'aventure, ce qui en fait une destination idéale pour les visiteurs en quête de profondeur culturelle, d'exploration en plein air et de l'une des expériences historiques les plus émouvantes d'Asie.",
-      "thingsToDo": "L'attraction principale de Kanchanaburi, le Pont de la Rivière Kwai, est gratuit et offre l'expérience inoubliable de traverser cette structure iconique tout en découvrant la poignante histoire de la Seconde Guerre mondiale. Le Chemin de fer de la Mort (Thailand-Burma Railway) propose un authentique voyage panoramique en train le long de la ligne historique pour 100 THB (3 $ USD), avec le spectaculaire viaduc de Tham Krasae taillé dans les parois rocheuses. Pour les amoureux de la nature, le parc national d'Erawan (entrée 300 THB/9 $ USD) présente une magnifique cascade à sept niveaux avec des bassins naturels et d'excellents sentiers de randonnée en jungle. Les passionnés d'histoire doivent visiter le Hellfire Pass Memorial Museum (gratuit) avec son impressionnant sentier de marche, le cimetière de guerre de Kanchanaburi à Don Rak (gratuit, avec 6 982 tombes dans des jardins impeccables) et le Thailand-Burma Railway Centre (140 THB/4 $ USD) avec ses expositions interactives et récits personnels. Le JEATH War Museum (40 THB/1 $ USD) offre une perspective unique avec sa réplique de hutte en bambou et ses artefacts de prisonniers de guerre, tandis que le parc historique de Prasat Muang Singh (100 THB/3 $ USD) présente d'anciennes ruines khmères dans un cadre fluvial pittoresque. Pour les expériences animalières, Elephant World Kanchanaburi (2 500 THB/72 $ USD) propose une interaction éthique avec les éléphants et une éducation à la conservation, et la cascade de Sai Yok Yai (300 THB/9 $ USD) offre des paysages de jungle et la baignade le long du Kwai Noi.",
-      "whereToStay": "L'hébergement à Kanchanaburi varie des auberges économiques regroupées près du pont aux resorts de luxe en bord de rivière. Les voyageurs à petit budget trouveront de nombreuses pensions simples à distance de marche du Pont de la Rivière Kwai, avec des chambres généralement entre 300 et 600 THB (9-18 $ USD) par nuit. La ville offre plusieurs hôtels et resorts de gamme moyenne répartis le long de la rivière et à proximité des attractions, avec des prix entre 1 000 et 2 500 THB (30-75 $ USD) pour des chambres climatisées confortables avec commodités. Les options de luxe, notamment celles en bord de rivière, affichent des tarifs premium de 3 000 à 8 000+ THB (90-240+ $ USD) par nuit et proposent spa, gastronomie et accès direct à la rivière. Le quartier du pont est l'emplacement le plus pratique pour une première visite, tandis que les resorts fluviaux plus calmes offrent une atmosphère plus paisible, parfaite pour se détendre entre les visites de sites historiques.",
-      "gettingAround": "Kanchanaburi dispose d'un système de transport local modeste mais fonctionnel. Les tuk-tuks sont le moyen le plus courant de se déplacer en ville, avec des tarifs typiques de 40 à 80 THB (1-2,50 $ USD) pour les courtes distances — négociez toujours le prix avant de monter. Les songthaews (minibus partagés) circulent sur des itinéraires fixes et coûtent environ 20 à 40 THB (0,60-1,20 $ USD) par trajet, bien qu'ils soient plus lents avec des arrêts fréquents. Grab, l'application de taxi thaïlandaise, est disponible à Kanchanaburi et propose des moto-taxis et voitures fiables, généralement 20-30 % moins cher que la négociation avec les tuk-tuks ordinaires. De nombreux voyageurs louent un scooter (150-300 THB/5-9 $ USD par jour) pour plus d'indépendance dans l'exploration des cascades et temples éloignés. Le vélo est populaire pour les courtes distances en ville, et la plupart des hôtels peuvent organiser une location pour 50 à 100 THB (1,50-3 $ USD) par jour. Le train du Chemin de fer de la Mort circule selon des horaires fixes et relie les attractions, tandis que des tour-opérateurs privés proposent des excursions complètes d'une journée qui gèrent toute la logistique de transport.",
-      "bestTimeToVisit": "La période idéale pour visiter Kanchanaburi est de novembre à février, lorsque la saison fraîche en Thaïlande apporte des températures confortables entre 20 et 28°C et des précipitations minimales. Décembre et janvier sont les mois de pointe touristique avec le temps le plus stable et la meilleure visibilité pour les activités de plein air comme les randonnées aux cascades et l'exploration des sites historiques. De mars à mai, il fait chaud et humide (jusqu'à 35-40°C), rendant les visites en journée éprouvantes mais avec moins de foule et des hébergements moins chers. La mousson du sud-ouest s'étend de mai à octobre, avec de fortes pluies surtout en août et septembre, rendant les sentiers des cascades glissants et certains sites éloignés difficilement accessibles. Octobre et novembre offrent une période de transition avec des pluies décroissantes et des températures en baisse, ce qui en fait d'excellentes alternatives à la haute saison. Pour les passionnés d'histoire visitant les cimetières de guerre et les sites de la Seconde Guerre mondiale, tous les mois conviennent, mais les températures plus douces de la saison fraîche rehaussent l'expérience contemplative. Le pont et les trajets sur le Chemin de fer de la Mort sont agréables toute l'année, bien que les mois plus frais offrent de meilleures conditions photographiques et des voyages en train plus confortables.",
-      "safetyTips": "Kanchanaburi est une destination sûre pour les touristes, sans problème de sécurité significatif spécifique à la ville. Les précautions de voyage standard s'appliquent : évitez d'exhiber des sommes d'argent excessives ou des objets de valeur, restez vigilant dans les zones bondées et utilisez des services de transport fiables, notamment en évitant les taxis non identifiés. Lors de la visite des sites historiques de guerre, en particulier Hellfire Pass, assurez-vous d'avoir suffisamment d'eau, de la protection solaire et des chaussures robustes, car les sentiers peuvent être raides et accidentés. Le train du Chemin de fer de la Mort est généralement sûr, mais prenez les précautions habituelles avec vos affaires ; les pickpockets sont rares mais possibles dans les zones fréquentées. Si vous louez un scooter ou visitez des cascades éloignées : portez un casque, suivez les conseils locaux sur les itinéraires sûrs et voyagez en groupe si possible. Les activités fluviales sont généralement bien encadrées, mais vérifiez que les refuges pour éléphants sont véritablement des opérations éthiques avant de les visiter. Les habitants sont accueillants envers les visiteurs, et l'infrastructure touristique est bien développée avec de bonnes installations médicales disponibles en ville.",
-      "translated_at": "2026-03-10T00:00:00.000Z"
-    },
-    "de": {
-      "enhanced_description": "Das Erste, was mich an Kanchanaburi beeindruckte, war das Rauschen der Kwai-Brücke unter der alten Eisenbrücke, ihr rhythmisches Fließen eine eindringliche Kulisse für eine der emotional aufgeladensten historischen Stätten Südostasiens. Ich war am frühen Morgen mit dem Minivan aus Bangkok angekommen, die dreistündige Fahrt schlängelte sich durch Zuckerrohrfelder und Kalksteinhügel, bevor die Stadt sich offenbarte: eine träge Flusssiedlung, wo Backpacker-Pensionen auf Bambusflößen schaukeln und die Geister des Zweiten Weltkriegs in jeder Ecke verweilen. Auf der Brücke am Kwai selbst stehend, die Vibrationen eines vorbeifahrenden Zuges unter meinen Füßen spürend, verstand ich, warum dieser Ort Besucher aus der ganzen Welt anzieht.\n\nDoch Kanchanaburi ist weit mehr als seine Kriegsgeschichte. Am zweiten Tag fuhr ich neunzig Minuten zum Erawan-Nationalpark, und der siebenstufige Erawan-Wasserfall verschlug mir die Sprache. Jede Stufe hatte einen eigenen Charakter: Die unteren Becken waren perfekt zum Schwimmen, das türkisfarbene Wasser so klar, dass ich winzige Fische an meinen Knöcheln knabbern sehen konnte. Als ich die siebte Stufe erreichte, durchnässt von Schweiß und Gischt, fühlte sich die Kaskade, die über moosbewachsene Felsen stürzte, wie eine persönliche Belohnung an. Ich aß einen Teller Pad Kra Pao von einem Verkäufer am Parkeingang, das heilige Basilikum so duftig, dass es meine Finger stundenlang parfümierte.\n\nZurück in der Stadt verbrachte ich einen Nachmittag im Thailand-Burma Railway Centre an der Jaokunnen Road, einem Museum, das die Geschichte der Todeseisenbahn mit akribischer Sorgfalt und aufrichtiger Anteilnahme erzählt. Gegenüber beherbergt der Kanchanaburi War Cemetery die Überreste von fast siebentausend alliierten Kriegsgefangenen, seine makellosen Reihen von Grabsteinen eine ernüchternde Erinnerung unter der tropischen Sonne. An diesem Abend schlenderte ich zu den schwimmenden Restaurants entlang des Flusses an der Maenam Kwai Road, wo ich einen ganzen gegrillten Pla Pao in Salzkruste bestellte, zusammen mit Som Tum und Klebreis, während ich zusah, wie die Sonne das Wasser golden färbte.\n\nWas mich am meisten überraschte, war, wie mühelos Kanchanaburi Feierlichkeit mit Abenteuer verbindet. Eines Morgens erkundete ich das Hellfire Pass Memorial Museum und fuhr mit der Hand über die Meißelspuren, die Kriegsgefangene in den Fels geschlagen hatten. Am selben Nachmittag raste ich auf einem Bambusfloß bei Sai Yok über Stromschnellen und brüllte vor Lachen, als unser Guide eine besonders holprige Stelle navigierte. Die Kalksteinklippen entlang des Kwai Noi erhoben sich wie Kathedralenwände, und am Sai Yok Yai-Wasserfall hing der Nebel in der Luft wie ein kühler Vorhang.\n\nDer Maenam Kwai Road-Streifen der Stadt erwacht abends zum Leben mit reisefreundlichen Bars und Restaurants, aber meine Lieblingsmahlzeiten fand ich auf dem Morgenmarkt nahe dem Bahnhof an der Saeng Chuto Road, wo Verkäufer Khao Tom Kai und Jok-Reisbrei aus dampfenden Töpfen servieren. Ich entdeckte auch ein winziges Restaurant namens Keeree Tara nahe der Kwai-Brücke, das außergewöhnliche Flussgarnelengerichte serviert. Kanchanaburi belohnt diejenigen, die länger als nur für die Brücke bleiben: Die Dschungeltrekking-Touren, ethische Elefantenschutzstationen in den umliegenden Hügeln und die schiere Schönheit des Kwai-Tals machen dies zu einem der am meisten unterschätzten Reiseziele Thailands.",
-      "overview": "Kanchanaburi ist Thailands historisch bedeutsamste Destination, verewigt durch die legendäre Brücke am Kwai. In der Zentralregion gelegen, etwa 130 Kilometer westlich von Bangkok, ist diese Stadt mit 63.000 Einwohnern unverzichtbar für das Verständnis von Thailands Rolle im Zweiten Weltkrieg. Jenseits seiner düsteren Geschichte bietet Kanchanaburi atemberaubende Naturschönheit mit dem herrlichen Erawan-Nationalpark — berühmt für seinen siebenstufigen Wasserfall — und aufregende Dschungelabenteuer entlang des Kwai. Die Provinz verbindet mühelos Dark Tourism mit Abenteuerreisen und ist damit ideal für Besucher, die kulturelle Tiefe, Outdoor-Erkundungen und eines der bewegendsten historischen Erlebnisse Asiens suchen.",
-      "thingsToDo": "Kanchanaburis Hauptattraktion, die Brücke am Kwai, ist kostenlos zugänglich und bietet das unvergessliche Erlebnis, über dieses ikonische Bauwerk zu gehen und dabei die erschütternde Geschichte des Zweiten Weltkriegs kennenzulernen. Die Todeseisenbahn (Thailand-Burma Railway) bietet eine authentische malerische Zugfahrt entlang der historischen Strecke für 100 THB ($3 USD), mit dem dramatischen Tham Krasae-Viadukt, das in Felswände gehauen wurde. Für Naturliebhaber zeigt der Erawan-Nationalpark (300 THB/$9 USD Eintritt) einen prächtigen siebenstufigen Wasserfall mit natürlichen Schwimmbecken und ausgezeichneten Dschungelwanderwegen. Geschichtsbegeisterte sollten das Hellfire Pass Memorial Museum (Eintritt frei) mit seinem eindrucksvollen Wanderweg besuchen, den Kanchanaburi War Cemetery bei Don Rak (frei, mit 6.982 Gräbern in makellosen Gärten) und das Thailand-Burma Railway Centre (140 THB/$4 USD) mit interaktiven Ausstellungen und persönlichen Geschichten. Das JEATH War Museum (40 THB/$1 USD) bietet eine einzigartige Perspektive mit seiner Bambushütten-Nachbildung und Kriegsgefangenen-Artefakten, während der Geschichtspark Prasat Muang Singh (100 THB/$3 USD) antike Khmer-Ruinen in einer malerischen Flusslandschaft zeigt. Für Wildtiererlebnisse bietet Elephant World Kanchanaburi (2.500 THB/$72 USD) ethische Elefanteninteraktion und Naturschutzerziehung, und der Sai Yok Yai-Wasserfall (300 THB/$9 USD) bietet Dschungellandschaften und Schwimmen entlang des Kwai Noi.",
-      "whereToStay": "Kanchanaburis Unterkünfte reichen von Budget-Gästehäusern nahe dem Brückengebiet bis hin zu luxuriösen Flussresorts. Budgetreisende finden zahlreiche einfache Gästehäuser in Gehweite der Brücke am Kwai, mit Zimmern typischerweise zwischen 300-600 THB ($9-18 USD) pro Nacht. Die Stadt bietet mehrere Mittelklasse-Hotels und Resorts entlang des Flussufers und nahe der Attraktionen, mit Preisen zwischen 1.000-2.500 THB ($30-75 USD) für komfortable Zimmer mit Klimaanlage und Annehmlichkeiten. Luxusoptionen, insbesondere solche mit Flusslage, verlangen Premiumpreise von 3.000-8.000+ THB ($90-240+ USD) pro Nacht und bieten Spa, exzellente Gastronomie und direkten Flusszugang. Das Brückengebiet ist der praktischste Standort für Erstbesucher, während die ruhigeren Flussresorts eine friedlichere Atmosphäre bieten, perfekt zum Entspannen zwischen den Besuchen historischer Stätten.",
-      "gettingAround": "Kanchanaburi hat ein bescheidenes, aber funktionales lokales Verkehrssystem. Tuk-Tuks sind die gebräuchlichste Art, sich in der Stadt fortzubewegen, mit typischen Fahrpreisen von 40-80 THB ($1-2,50 USD) für kurze Strecken — verhandeln Sie den Preis immer vor dem Einsteigen. Songthaews (geteilte Kleinbusse) verkehren auf festen Routen und kosten etwa 20-40 THB ($0,60-1,20 USD) pro Fahrt, sind jedoch langsamer und halten häufig. Grab, Thailands Ride-Hailing-App, ist in Kanchanaburi verfügbar und bietet zuverlässige Motorradtaxis und Autos, normalerweise 20-30% günstiger als das Verhandeln mit regulären Tuk-Tuks. Viele Reisende mieten Motorräder (150-300 THB/$5-9 USD pro Tag) für mehr Unabhängigkeit beim Erkunden von Wasserfällen und abgelegenen Tempeln. Fahrräder sind für kurze Strecken in der Stadt beliebt, und die meisten Hotels können Verleih für 50-100 THB ($1,50-3 USD) täglich arrangieren. Der Zug der Todeseisenbahn fährt nach festem Fahrplan und verbindet Attraktionen, während private Reiseveranstalter umfassende Tagesausflüge anbieten, die die gesamte Transportlogistik übernehmen.",
-      "bestTimeToVisit": "Die ideale Reisezeit für Kanchanaburi ist November bis Februar, wenn Thailands kühle Jahreszeit angenehme Temperaturen zwischen 20-28°C und minimale Niederschläge bringt. Dezember und Januar sind die Spitzenmonate für Tourismus mit dem stabilsten Wetter und bester Sicht für Outdoor-Aktivitäten wie Wasserfallwanderungen und die Erkundung historischer Stätten. März bis Mai ist heiß und feucht (bis zu 35-40°C), was Besichtigungen tagsüber anstrengend macht, aber weniger Menschenmengen und günstigere Unterkünfte bietet. Der Südwestmonsun erstreckt sich von Mai bis Oktober und bringt starke Regenfälle besonders im August und September, wodurch Wasserfallwanderungen rutschig werden und einige abgelegene Orte schwer erreichbar sind. Oktober und November bieten eine Übergangszeit mit abnehmenden Niederschlägen und sinkenden Temperaturen und sind damit ausgezeichnete Alternativen zur Hochsaison. Für Geschichtsbegeisterte, die Kriegsfriedhöfe und Stätten des Zweiten Weltkriegs besuchen, eignet sich jeder Monat, aber die angenehmeren Temperaturen der kühlen Jahreszeit verstärken das besinnliche Erlebnis. Brückenbesichtigungen und Fahrten auf der Todeseisenbahn sind ganzjährig angenehm, wobei die kühleren Monate bessere Fotobedingungen und komfortablere Zugfahrten bieten.",
-      "safetyTips": "Kanchanaburi ist ein sicheres Reiseziel für Touristen ohne bedeutende stadtspezifische Sicherheitsprobleme. Standard-Reisevorsichtsmaßnahmen gelten: Vermeiden Sie es, übermäßig viel Bargeld oder Wertgegenstände zu zeigen, seien Sie in überfüllten Gebieten vorsichtig und nutzen Sie vertrauenswürdige Transportdienste, insbesondere indem Sie unmarkierte Taxis meiden. Beim Besuch historischer Kriegsstätten, besonders Hellfire Pass, stellen Sie sicher, dass Sie ausreichend Wasser, Sonnenschutz und festes Schuhwerk haben, da die Wege steil und uneben sein können. Der Zug der Todeseisenbahn ist generell sicher, aber treffen Sie normale Vorsichtsmaßnahmen mit Ihren Habseligkeiten; Taschendiebstahl ist selten, aber in belebten Gebieten möglich. Beim Mieten von Motorrädern oder Besuchen entlegener Wasserfälle: Tragen Sie Helme, befolgen Sie lokale Ratschläge zu sicheren Routen und reisen Sie möglichst in Gruppen. Flussaktivitäten werden im Allgemeinen gut verwaltet, aber bestätigen Sie, dass Elefantenschutzstationen tatsächlich ethische Einrichtungen sind, bevor Sie sie besuchen. Einheimische sind freundlich gegenüber Besuchern, und die touristische Infrastruktur ist gut ausgebaut mit guten medizinischen Einrichtungen in der Stadt.",
-      "translated_at": "2026-03-10T00:00:00.000Z"
-    },
-    "zh": {
-      "enhanced_description": "北碧府给我的第一个印象是桂河在老铁桥下奔流的声响，那有节奏的水声为东南亚情感最为厚重的历史遗址之一营造了令人动容的背景。我乘坐清晨的小巴从曼谷出发，三小时的车程穿过甘蔗田和石灰岩丘陵，直到这座小城渐渐显现：一个慵懒的河畔聚落，背包客旅馆栖息在竹筏上，二战的幽灵在每个角落徘徊。站在桂河大桥上，脚下感受着一列经过的火车带来的震动，我明白了为什么这个地方能吸引世界各地的游客。\n\n但北碧府远不止战争历史。第二天，我驱车九十分钟前往爱侣湾国家公园，七层的爱侣湾瀑布让我惊叹无语。每一层都有不同的性格：下层的水潭完美适合游泳，碧绿的水清澈到能看见小鱼在脚踝旁啃咬。当我终于爬到第七层时，浑身被汗水和飞溅的水雾打湿，瀑布从长满苔藓的岩石上倾泻而下，像是对我个人的奖赏。我在公园入口附近的摊位吃了一盘打抛肉，神圣罗勒的芳香浓郁到手指上的味道持续了好几个小时。\n\n回到城里，我在乔坤嫩路的泰缅铁路中心度过了一个下午，这座博物馆以细致入微的关怀和真挚的同情心讲述着死亡铁路的故事。马路对面，北碧战争公墓安葬着近七千名盟军战俘的遗骸，热带阳光下整齐排列的墓碑令人肃然。那天傍晚，我漫步到湄南桂路旁河边的水上餐厅，点了一条盐壳烤鱼，配着青木瓜沙拉和糯米饭，看着夕阳把河水染成金色。\n\n最令我惊讶的是北碧府如何将庄严与冒险毫不费力地融为一体。一个上午我还在地狱火隘口纪念馆探索，用手触摸着战俘们在岩石上凿出的痕迹。同一天下午，我已经在赛育坐着竹筏冲过急流，在向导带我们通过一段特别颠簸的水域时笑得前仰后合。桂诺河沿岸的石灰岩悬崖如大教堂的墙壁般矗立，赛育大瀑布的水雾像一道清凉的帷幕悬挂在空气中。\n\n城里的湄南桂路一到晚上就热闹起来，到处是适合旅行者的酒吧和餐厅，但我最爱的美食却是在声猜通路火车站旁的早市发现的，摊贩们从冒着蒸汽的大锅中盛出鸡肉粥和稀饭。我还偶然发现了桂河桥附近一家叫Keeree Tara的小餐馆，供应令人叫绝的河虾菜肴。北碧府回馈那些在桥之外停留更久的人：丛林徒步、周围山丘中的大象庇护所，以及桂河谷的纯粹之美，让这里成为泰国最被低估的旅游目的地之一。",
-      "overview": "北碧府是泰国历史意义最为深远的旅游目的地，因传奇的桂河大桥而名扬世界。位于中部地区，距曼谷以西约130公里，这座63,000人口的城市对于了解泰国在二战中的角色不可或缺。除了沉重的历史，北碧府还拥有令人惊叹的自然之美——壮丽的爱侣湾国家公园以七层瀑布闻名——以及沿桂河展开的刺激丛林冒险。这里将战争遗迹旅游与探险旅行完美融合，非常适合寻求文化深度、户外探索和亚洲最触动人心的历史体验的旅行者。",
-      "thingsToDo": "北碧府的头号景点桂河大桥免费参观，在这座标志性建筑上行走并了解二战的悲壮历史，是一次难以忘怀的体验。死亡铁路（泰缅铁路）提供沿历史铁路线的原生态风景火车之旅，票价100 THB（$3 USD），其中凿入岩壁的坦克拉赛高架桥尤为壮观。自然爱好者可前往爱侣湾国家公园（门票300 THB/$9 USD），欣赏壮丽的七层瀑布、天然泳池和出色的丛林徒步步道。历史爱好者必访地狱火隘口纪念馆（免费）及其震撼人心的步道，北碧战争公墓Don Rak（免费，6,982座墓碑整齐排列在精心维护的花园中），以及泰缅铁路中心（140 THB/$4 USD）的互动展览和个人故事。JEATH战争博物馆（40 THB/$1 USD）以竹屋复制品和战俘文物提供独特视角，Prasat Muang Singh历史公园（100 THB/$3 USD）则在风景如画的河畔展示古老的高棉遗址。野生动物体验方面，Elephant World Kanchanaburi（2,500 THB/$72 USD）提供合乎伦理的大象互动和保育教育，赛育大瀑布（300 THB/$9 USD）则可在桂诺河畔享受丛林风光和游泳。",
-      "whereToStay": "北碧府的住宿从桥区附近的经济型客栈到豪华河畔度假村一应俱全。预算旅客可在桂河大桥步行范围内找到众多简易客栈，房价通常300-600 THB（$9-18 USD）/晚。城中有多家中档酒店和度假村分布在河畔和景点附近，价格1,000-2,500 THB（$30-75 USD），提供舒适的空调房间和配套设施。豪华选择尤其是河畔位置的，价格在3,000-8,000+ THB（$90-240+ USD）/晚，配备水疗中心、精致餐饮和直达河畔通道。桥区是初次到访者最便利的住宿区域，而更安静的河畔度假村则提供更宁静的氛围，非常适合在参观历史遗迹之间放松身心。",
-      "gettingAround": "北碧府拥有规模不大但功能齐全的本地交通系统。突突车是城内最常见的出行方式，短途通常40-80 THB（$1-2.50 USD）——上车前务必先谈好价格。双条车（共乘小巴）沿固定路线运行，每程约20-40 THB（$0.60-1.20 USD），但速度较慢且频繁停靠。Grab打车软件在北碧可用，提供可靠的摩托车和汽车服务，通常比和普通突突车砍价便宜20-30%。许多旅行者租摩托车（150-300 THB/$5-9 USD/天）以获得更多自由去探索瀑布和偏远寺庙。自行车适合短途城区出行，大多数酒店可安排租赁，每天50-100 THB（$1.50-3 USD）。死亡铁路列车按固定时刻表运行，连接各景点，私人旅行社则提供包含全部交通安排的一日游套餐。",
-      "bestTimeToVisit": "北碧府的理想旅行时间是11月至2月，泰国凉季带来20-28°C的舒适温度和极少降雨。12月和1月是旅游高峰月份，天气最稳定，户外活动如瀑布徒步和历史遗迹探访的能见度最佳。3月至5月炎热潮湿（高达35-40°C），白天观光较为辛苦，但人流较少、住宿更便宜。西南季风季节从5月持续到10月，8月和9月降雨最为集中，瀑布步道可能湿滑，部分偏远地点较难到达。10月和11月是过渡期，降雨减少、气温下降，是避开旺季的绝佳替代选择。对于参观战争墓地和二战遗址的历史爱好者来说任何月份都可以，但凉季更舒适的温度能增强沉思体验。桥梁参观和死亡铁路乘坐全年都很愉快，凉爽月份拍照条件更好、火车旅程也更舒适。",
-      "safetyTips": "北碧府对游客来说是一个安全的目的地，没有特别突出的城市安全问题。常规旅行注意事项适用：避免炫耀大量现金或贵重物品，在拥挤区域保持警觉，使用可靠的交通服务，尤其避免乘坐无标识的出租车。参观战争历史遗址特别是地狱火隘口时，请确保携带充足的饮用水、防晒用品和结实的鞋子，因为步道可能陡峭崎岖。死亡铁路列车总体安全，但要照看好随身物品；扒窃罕见但在人多的区域有可能发生。租摩托车或前往偏远瀑布时：佩戴头盔，听从当地人关于安全路线的建议，尽量结伴同行。河上活动管理总体良好，但在参观大象庇护所前请确认其确实是合乎伦理的机构。当地居民对游客友好，旅游基础设施完善，城内有良好的医疗设施。",
-      "translated_at": "2026-03-11T00:00:00.000Z"
-    },
-    "ru": {
-      "enhanced_description": "Первое, что поразило меня в Канчанабури — звук реки Квай, несущейся под старым железным мостом, её ритмичное течение — волнующий фон одного из самых эмоционально заряженных исторических мест Юго-Восточной Азии. Я приехал из Бангкока на раннем утреннем минивэне, трёхчасовой путь вился через поля сахарного тростника и известняковые холмы, прежде чем город показал себя: неспешное прибрежное поселение, где гестхаусы для бэкпекеров стоят на бамбуковых плотах, а призраки Второй мировой войны витают в каждом уголке. Стоя на самом Мосту через реку Квай, ощущая вибрации проходящего поезда под ногами, я понял, почему это место привлекает путешественников со всего мира.\n\nНо Канчанабури — это гораздо больше, чем военная история. На второй день я проехал полтора часа до Национального парка Эраван, и семиярусный водопад Эраван лишил меня дара речи. Каждый ярус обладал своим характером: нижние бассейны идеальны для купания, бирюзовая вода настолько прозрачна, что я видел крошечных рыбок, покусывающих мои щиколотки. Когда я добрался до седьмого яруса, промокший от пота и брызг, каскад, низвергающийся по замшелым камням, ощущался как личная награда. Я съел тарелку пад крапао у торговца у входа в парк — священный базилик был так ароматен, что мои пальцы пахли им ещё несколько часов.\n\nВернувшись в город, я провёл день в Центре Тайско-бирманской железной дороги на Джаокуннен Роуд — музее, рассказывающем историю Дороги смерти с тщательной точностью и искренним состраданием. Через дорогу Военное кладбище Канчанабури хранит останки почти семи тысяч военнопленных союзников — безупречные ряды надгробий производят отрезвляющее впечатление под тропическим солнцем. Тем вечером я спустился к плавучим ресторанам вдоль реки у Маенам Квай Роуд, где заказал целого пла пао в соляной корке, сом там и клейкий рис, наблюдая, как солнце окрашивает воду золотом.\n\nБольше всего меня удивило, как непринуждённо Канчанабури сочетает торжественность с приключениями. Утром я исследовал Мемориальный музей Перевала Адского огня, проводя рукой по следам зубил, высеченным в скале военнопленными. В тот же день я нёсся по порогам на бамбуковом плоту у Сай Йок, хохоча, когда наш гид проходил особенно бурный участок. Известняковые скалы вдоль реки Квай Ной вздымались как стены собора, а у водопада Сай Йок Яй туман висел в воздухе прохладной завесой.\n\nПолоска Маенам Квай Роуд оживает ночью барами и ресторанами для путешественников, но мои любимые блюда нашлись на утреннем рынке у вокзала на Сэнг Чуто Роуд, где торговцы разливают кхао том кай и рисовую кашу джок из дымящихся котлов. Я также наткнулся на крохотный ресторанчик Keeree Tara у моста Квай, подающий потрясающие блюда из речных креветок. Канчанабури вознаграждает тех, кто задержится за пределами моста: джунглевые походы, слоновьи заповедники в окрестных холмах и невероятная красота долины Квай делают это место одним из самых недооценённых направлений Таиланда.",
-      "overview": "Канчанабури — самое исторически значимое направление Таиланда, увековеченное легендарным Мостом через реку Квай. Расположенный в Центральном регионе примерно в 130 км к западу от Бангкока, этот город с населением 63 000 человек стал обязательным для понимания роли Таиланда во Второй мировой войне. Помимо мрачной истории, Канчанабури предлагает потрясающую природную красоту — захватывающий Национальный парк Эраван со знаменитым семиярусным водопадом — и захватывающие приключения в джунглях вдоль реки Квай. Провинция органично сочетает тёмный туризм с приключенческим, что идеально для посетителей, ищущих культурную глубину, активный отдых и один из самых трогательных исторических опытов Азии.",
-      "thingsToDo": "Главная достопримечательность Канчанабури — Мост через реку Квай — бесплатна для посещения и дарит незабываемый опыт прогулки по этой культовой конструкции с погружением в историю Второй мировой. Дорога смерти (Тайско-бирманская железная дорога) предлагает живописное путешествие за 100 THB ($3), включая драматический виадук Тхам Красэ, высеченный в скалах. Для любителей природы — Национальный парк Эраван (300 THB/$9) с великолепным семиярусным водопадом, природными бассейнами и джунглевыми тропами. Историкам — Мемориальный музей Перевала Адского огня (бесплатно) с мощной пешеходной тропой, Военное кладбище Канчанабури (бесплатно, 6 982 могилы), Центр Тайско-бирманской железной дороги (140 THB/$4). Музей JEATH (40 THB/$1) предлагает уникальную перспективу. Исторический парк Прасат Муанг Сингх (100 THB/$3) демонстрирует древние кхмерские руины. Для общения с природой — этичный Elephant World Kanchanaburi (2 500 THB/$72) и водопад Сай Йок Яй (300 THB/$9).",
-      "whereToStay": "Размещение в Канчанабури варьируется от бюджетных гестхаусов у Моста до люксовых речных курортов. Бюджетные путешественники найдут множество простых гестхаусов в пешей доступности от Моста по 300-600 THB ($9-18) за ночь. Среднебюджетные отели и курорты расположены вдоль реки по 1 000-2 500 THB ($30-75) с кондиционером и удобствами. Люксовые варианты с речными локациями — от 3 000-8 000+ THB ($90-240+) за ночь со спа, отличным рестораном и прямым доступом к реке. Район Моста — самое удобное расположение для первого визита, а тихие речные курорты предлагают более спокойную атмосферу.",
-      "gettingAround": "В Канчанабури скромная, но функциональная транспортная система. Тук-туки — самый распространённый транспорт: 40-80 THB ($1-2.50) за короткие дистанции, всегда договаривайтесь о цене заранее. Сонгтэо (общие мини-автобусы) курсируют по фиксированным маршрутам за 20-40 THB ($0.60-1.20). Grab доступен в Канчанабури с мототакси и автомобилями, обычно на 20-30% дешевле обычных тук-туков. Многие туристы арендуют мотоциклы (150-300 THB/$5-9 в день) для самостоятельного исследования водопадов и удалённых храмов. Велосипеды популярны для коротких дистанций — 50-100 THB ($1.50-3) в день. Поезд Дороги смерти курсирует по расписанию, а частные туроператоры организуют комплексные однодневные экскурсии.",
-      "bestTimeToVisit": "Идеальное время для посещения Канчанабури — с ноября по февраль, когда прохладный сезон приносит комфортную температуру 20-28°C и минимальные осадки. Декабрь и январь — пик туристического сезона с самой стабильной погодой, идеальной для походов к водопадам и осмотра исторических мест. С марта по май — жарко и влажно (до 35-40°C), что затрудняет дневные прогулки, но обеспечивает меньше толп и дешевле жильё. Юго-западный муссон (май-октябрь) приносит сильные дожди, особенно в августе-сентябре, делая тропы скользкими. Для посещения военных кладбищ и мест Второй мировой подходит любой месяц, но прохладный сезон создаёт более комфортные условия для рефлексии.",
-      "safetyTips": "Канчанабури — безопасное направление для туристов без специфических угроз. Стандартные меры предосторожности: не демонстрируйте крупные суммы наличных, будьте осторожны в многолюдных местах, пользуйтесь проверенным транспортом. При посещении исторических мест, особенно Перевала Адского огня, берите достаточно воды, солнцезащиту и крепкую обувь — тропы могут быть крутыми и неровными. Поезд Дороги смерти в целом безопасен, но следите за вещами. При аренде мотоцикла или посещении удалённых водопадов носите шлем, следуйте местным советам и по возможности путешествуйте группой. Речные развлечения хорошо организованы, но убедитесь в этичности слоновьих заповедников перед посещением. Местные жители дружелюбны, туристическая инфраструктура развита, хорошие медицинские учреждения доступны в городе.",
-      "translated_at": "2026-03-11T00:00:00.000Z"
-    },
-    "ko": {
-      "enhanced_description": "칸차나부리는 태국에서 가장 역사적으로 중요한 여행지로, 제2차 세계대전 당시 '죽음의 철도' 건설과 관련된 이야기로 세계에 알려졌습니다. 콰이강의 다리는 전쟁의 비극을 상기시키는 상징적인 장소이며, 매년 수십만 명의 방문객이 찾습니다.\n\n그러나 칸차나부리는 역사만의 도시가 아닙니다. 에라완 국립공원의 7단 폭포는 태국에서 가장 아름다운 자연 경관 중 하나로, 에메랄드빛 물에서 수영을 즐길 수 있습니다. 정글 트레킹, 래프팅, 코끼리 보호구역 방문 등 다양한 모험 액티비티가 기다리고 있습니다.\n\n콰이강변의 수상 가옥 리조트에서 하룻밤을 보내는 것은 칸차나부리만의 특별한 경험입니다. 강물 소리를 들으며 잠들고, 안개 속 산 풍경을 바라보며 눈을 뜨는 아침은 잊을 수 없는 기억이 됩니다.",
-      "hidden_gems": [
-        {
-          "name": "쁘라삿 므앙싱 역사공원",
-          "description": "콰이노이강변의 13세기 크메르 유적지로, 관광객이 적어 조용히 탐험할 수 있습니다."
-        },
-        {
-          "name": "라와 동굴",
-          "description": "롱테일 보트로 접근하는 드라마틱한 종유석 동굴입니다."
-        },
-        {
-          "name": "반카오 국립박물관",
-          "description": "신석기 시대 매장지 위에 세워진 매력적인 소규모 박물관입니다."
-        },
-        {
-          "name": "칸차나부리 아침 시장",
-          "description": "기차역 근처의 활기찬 현지 아침 시장입니다."
-        },
-        {
-          "name": "키리타라 리버사이드 레스토랑",
-          "description": "콰이강 합류점이 보이는 바위 위의 숨겨진 레스토랑입니다."
-        }
-      ],
-      "authentic_experiences": [],
-      "foodie_adventures": [],
-      "overview": "칸차나부리는 태국에서 가장 역사적으로 중요한 여행지로, 제2차 세계대전 당시 '죽음의 철도'와 콰이강의 다리로 세계에 알려졌습니다. 방콕에서 서쪽으로 약 130km 거리에 위치하며, 역사 유적과 자연 경관이 완벽하게 어우러진 곳입니다.",
-      "thingsToDo": "콰이강의 다리는 무료로 방문할 수 있는 주요 명소입니다. 에라완 국립공원의 7단 폭포에서 수영을 즐기고, JEATH 전쟁박물관에서 역사를 배우세요. 정글 래프팅, 코끼리 보호구역 방문, 사이욕 폭포 탐험 등 다양한 액티비티가 있습니다.",
-      "whereToStay": "칸차나부리의 숙소는 콰이강변 게스트하우스부터 수상 리조트까지 다양합니다. 수상 가옥 리조트는 칸차나부리만의 독특한 숙박 경험을 제공합니다. 시내 중심에는 예산 숙소가 밀집해 있습니다.",
-      "gettingAround": "칸차나부리에는 소규모지만 실용적인 현지 교통 시스템이 있습니다. 툭툭이 가장 일반적인 교통수단이며, 오토바이 대여도 가능합니다. 에라완 폭포 등 외곽 명소는 투어 또는 렌터카가 편리합니다.",
-      "bestTimeToVisit": "칸차나부리의 최적 방문 시기는 11월부터 2월까지입니다. 태국 건기에 해당하며 기온이 쾌적합니다. 에라완 폭포는 우기(6-10월)에 물이 가장 풍부하지만, 트레일이 미끄러울 수 있습니다.",
-      "safetyTips": "칸차나부리는 대체로 안전한 여행지입니다. 폭포와 강에서 수영할 때 안전에 주의하고, 정글 트레킹 시 가이드와 함께 하는 것을 권장합니다. 우기에는 급류와 미끄러운 길에 주의하세요.",
-      "translated_at": "2026-03-14T00:00:00.000Z"
-    }
-  },
-  "extended_description": "## Overview\nKanchanaburi sprawls along the banks of the River Kwai, roughly 130 kilometers west of Bangkok, where dense jungle meets a somber wartime history that draws visitors from around the world. The province is best known for the Bridge over the River Kwai and the Death Railway — built by Allied prisoners of war and Asian forced laborers during World War II — but there is far more here than battlefields. Erawan National Park shelters one of Thailand's most photogenic seven-tiered waterfalls, Sai Yok National Park hides caves and smaller falls along the Kwai Noi River, and the vast Khao Laem reservoir creates a flooded landscape of submerged treetops that feels almost surreal. Whether you come for history, nature, or pure adventure, Kanchanaburi delivers an experience that few Thai destinations can match, all within easy reach of the capital.\n\n## Best Time to Visit\nNovember to February is the sweet spot: rain has stopped, temperatures hover around 22-30°C, and the waterfalls are still full from the monsoon. December is peak season — expect more visitors at Erawan Falls and higher raft-house prices. March through May brings scorching heat (35-40°C) that makes jungle hikes exhausting. The rainy season from June to October fills the rivers and waterfalls to their most dramatic, but trails at Erawan can close and dirt roads to remote parks become muddy. If you want the falls at full power with fewer crowds, late October and early November is the ideal compromise.\n\n## How to Get There\nThe easiest route from Bangkok is by minivan from Mo Chit or Victory Monument, costing 140-200 THB and taking about 2.5 hours. Air-conditioned buses depart from Bangkok's Southern Bus Terminal (Sai Tai Mai) every 30 minutes for 100-150 THB, arriving in roughly 3 hours. The scenic option is the train from Thonburi Station — departures at 7:45am and 1:55pm, third-class tickets cost just 100 THB, and the journey takes about 3 hours rolling through rice paddies and small towns. A new section of the M81 motorway is cutting drive times significantly, bringing Kanchanaburi within 1.5 hours of Bangkok by car. There is no airport in Kanchanaburi.\n\n## Where to Stay\nThe backpacker strip along Mae Nam Kwai Road is lined with guesthouses and floating raft houses from 300-600 THB per night — sleeping on the river with the sounds of water beneath you is a quintessential Kanchanaburi experience. Mid-range hotels in town center run 800-2,000 THB and are convenient for the bridge and war museums. For a jungle escape, the resorts near Erawan Falls or along the Kwai Noi River offer riverside bungalows from 1,500-4,000 THB surrounded by nothing but forest. Luxury travelers head to the floating boutique hotels on the river or the hillside resorts near Sai Yok, where rates start around 3,500 THB.\n\n## What to Do\nStart at the Bridge over the River Kwai itself — you can walk across the iron structure for free, and a small museum nearby explains its construction. The Thailand-Burma Railway Centre (150 THB) offers the most detailed and moving account of the Death Railway, followed by the Kanchanaburi War Cemetery (Don Rak) across the street where nearly 7,000 Allied POWs are buried — entry is free. Take the Death Railway train from Kanchanaburi to Nam Tok station (100 THB, 2 hours) for the dramatic stretch over the Wampo Viaduct clinging to the cliff face above the river. At Hellfire Pass Memorial Museum (free, donations welcome), an audio-guided walk through the hand-hewn rock cutting is profoundly moving. For nature, Erawan National Park (300 THB for foreigners) has a 2 km trail through seven waterfall tiers where you can swim in turquoise pools alongside nibbling fish. Sai Yok Yai waterfall is less crowded and accessible by longtail boat.\n\n## Food & Dining\nKanchanaburi's food scene reflects its riverside setting. Floating restaurants along the river serve fresh-water fish — try pla chon (snakehead fish) grilled or in tom yam for 80-150 THB. The night market near the train station has classic Thai street food: pad thai (40-60 THB), som tam (30-50 THB), and grilled chicken (40 THB). Moo nam tok (waterfall pork salad) is a local Isaan-influenced favorite. Along Mae Nam Kwai Road, traveler-oriented restaurants serve both Thai and Western food at 80-200 THB per dish. For a special meal, several floating restaurants near the bridge offer set menus of river fish, papaya salad, and sticky rice for around 200-350 THB per person with river views.\n\n## Budget Guide\nKanchanaburi is a genuinely affordable destination. Backpackers get by on 700-1,000 THB/day ($20-28): raft-house dorm or guestroom (300-500 THB), street food and market meals (150-250 THB), local transport (80-100 THB), and one attraction entry. Mid-range travelers spend 1,500-3,000 THB/day ($42-83): private raft house or hotel, restaurant meals, Death Railway train ride, and Erawan Falls visit. Renting a motorbike (200-300 THB/day) is the best way to explore the area independently.\n\n## Safety & Tips\nKanchanaburi town is safe and relaxed with minimal tourist-targeted crime. At Erawan Falls, the rocks can be very slippery — wear water shoes rather than flip-flops. The trail to the upper tiers (levels 5-7) is steep and requires moderate fitness. Bring your own water and snacks as there are no vendors past level 2. If taking the Death Railway, sit on the left side heading to Nam Tok for the best river views. Mosquito repellent is essential near the river, especially at dusk. Some elephant camps in the area still offer riding — choose ethical sanctuaries like Elephants World that focus on feeding and bathing only. November's River Kwai Bridge Week features a sound-and-light show and is the most atmospheric time to visit.",
-  "getting_there": {
-    "from_bangkok": {
-      "minivan": "2.5 hours, 140-200 THB from Mo Chit / Victory Monument",
-      "bus": "3 hours, 100-150 THB from Southern Bus Terminal (Sai Tai Mai)",
-      "train": "3 hours, 100 THB third-class from Thonburi Station (7:45am, 1:55pm)"
-    },
-    "airport": "None — nearest is Bangkok (Suvarnabhumi / Don Mueang)"
-  },
-  "best_time": {
-    "peak": "Nov-Feb",
-    "shoulder": "Oct-Nov",
-    "low": "Jun-Sep",
-    "avoid": "Mar-May (extreme heat 35-40°C)",
-    "best_months": "Nov-Jan",
-    "why": "Cool dry season with full waterfalls from the preceding monsoon, comfortable for hiking and sightseeing."
-  },
-  "budget": {
-    "backpacker": "$20-28/day",
-    "mid_range": "$42-83/day",
-    "luxury": "$100+/day",
-    "typical_meal": "40-60 THB street food, 100-250 THB restaurant"
-  },
-  "neighborhoods": [
-    {
-      "name": "Mae Nam Kwai Road (Backpacker Strip)",
-      "vibe": "Riverside guesthouses and raft houses, traveler bars, walking distance to bridge",
-      "best_for": "Backpackers, solo travelers, first-timers",
-      "price_range": "300-600 THB/night"
-    },
-    {
-      "name": "Town Center (near train station)",
-      "vibe": "Convenient for museums and war cemetery, night market nearby",
-      "best_for": "History buffs, short stays",
-      "price_range": "500-2,000 THB/night"
-    },
-    {
-      "name": "Erawan / Sai Yok area",
-      "vibe": "Jungle resorts, riverside bungalows, peaceful and remote",
-      "best_for": "Nature lovers, couples, families",
-      "price_range": "1,500-4,000 THB/night"
-    },
-    {
-      "name": "Kwai Noi River (upstream)",
-      "vibe": "Floating boutique hotels, quiet luxury",
-      "best_for": "Luxury travelers seeking seclusion",
-      "price_range": "3,500-8,000 THB/night"
-    }
-  ],
-  "must_try_food": [
-    "Grilled pla chon (snakehead fish) at a floating restaurant — the signature Kanchanaburi river dish (80-150 THB)",
-    "Moo nam tok (waterfall pork salad) — spicy Isaan-influenced minced pork with herbs (50-80 THB)",
-    "Pad thai and som tam from the night market near the train station — classic Thai street food (40-60 THB)"
-  ],
-  "local_tips": [
-    "Take the Death Railway train and sit on the left side heading toward Nam Tok for dramatic river-cliff views over the Wampo Viaduct",
-    "Visit Erawan Falls early (8am opening) to have the lower tiers to yourself — tour groups arrive from 10am",
-    "Bring water shoes for Erawan — the rocks between tiers are slippery and flip-flops won't cut it",
-    "Rent a motorbike (200-300 THB/day) to combine Erawan Falls, Sai Yok, and Hellfire Pass in one day trip",
-    "November's River Kwai Bridge Week has a dramatic sound-and-light show — the most atmospheric time to visit"
-  ],
-  "day_trips": [
-    "Erawan National Park (65 km northwest) — seven-tiered turquoise waterfall with swimming, 300 THB entry",
-    "Hellfire Pass Memorial (80 km northwest) — WWII hand-hewn rock cutting with audio-guided walk, free entry",
-    "Sai Yok National Park (100 km northwest) — Sai Yok Yai waterfall, caves, longtail boat rides",
-    "Sangkhlaburi & Three Pagodas Pass (220 km northwest) — Mon bridge, sunken temple, Myanmar border town"
-  ],
-  "enriched_at": "2026-03-22"
+  "reviewed_by": "Go2Thailand Editorial Team",
+  "enhanced_at": "2026-03-26T00:00:00.000Z",
+  "enrichedAt": "2026-03-26T00:00:00.000Z",
+  "factchecked_at": "2026-03-26T00:00:00.000Z"
 }
