@@ -15,23 +15,23 @@
   "region": "Isaan",
   "province": "Loei",
   "description": {
-    "en": "A charming riverside town on the Mekong River, famous for its beautiful wooden houses, morning alms giving ceremony, stunning Mekong sunsets, and authentic Isaan culture.",
-    "nl": "Een charmant stadje aan de Mekong-rivier, beroemd om prachtige houten huizen, ochtendlijke aalmoezenceremonie, prachtige Mekong-zonsondergangen en authentieke Isaan-cultuur.",
-    "ja": "メコン川沿いの魅力的な川辺の町。美しい木造家屋、早朝の托鉢、ウォーキングストリートで有名。",
-    "ko": "메콩 강변의 매력적인 소도시로, 아름다운 목조 가옥, 아침 탁발 의식, 멋진 메콩 일몰, 정통 이산 문화로 유명합니다.",
-    "th": "เมืองเล็กริมแม่น้ำโขง มีบรรยากาศสงบร่มรื่น วิถีชีวิตชุมชน และตักบาตรยามเช้า",
-    "de": "Eine reizvolle Stadt am Ufer des Mekong, bekannt für ihre schönen Holzhäuser, die morgendliche Almosengabe, atemberaubende Mekong-Sonnenuntergänge und die authentische Isaan-Kultur.",
-    "fr": "Une charmante ville au bord du fleuve sur le Mékong, célèbre pour ses belles maisons en bois, la cérémonie matinale d'aumône, des couchers de soleil spectaculaires sur le Mékong et la culture authentique Isaan.",
-    "ru": "Очаровательный город на берегу Меконга, известный своими красивыми деревянными домами, утренним подаянием монахам, поразительными закатами над Меконгом и подлинной исанской культурой.",
-    "zh": "湄公河畔的迷人小镇，因其美丽的木屋、清晨布施仪式、壮观的湄公河日落以及正宗的伊桑文化而闻名。"
+    "en": "A Mekong riverside town in Loei known for its preserved wooden shophouses, dawn alms-giving, walking street, misty viewpoints, and slow domestic-travel atmosphere.",
+    "nl": "Een stadje aan de Mekong in Loei dat bekendstaat om bewaarde houten shophouses, ochtendlijke aalmoezen, de walking street, mistige uitzichtpunten en een rustig binnenlands reisritme.",
+    "ja": "ルーイ県のメコン川沿いにある町で、木造商家の街並み、早朝の托鉢、ウォーキングストリート、朝霧の展望地、ゆったりした空気感で知られています。",
+    "ko": "러이 주 메콩 강변에 자리한 소도시로, 보존된 목조 상가, 새벽 탁발, 워킹 스트리트, 안개 낀 전망대, 느린 국내 여행 분위기로 알려져 있습니다.",
+    "th": "เมืองริมแม่น้ำโขงในจังหวัดเลย ที่เด่นเรื่องบ้านไม้เก่า ถนนคนเดิน ตักบาตรข้าวเหนียวยามเช้า จุดชมทะเลหมอก และบรรยากาศท่องเที่ยวแบบเรียบง่าย",
+    "de": "Eine Mekong-Uferstadt in Loei, bekannt für erhaltene Holzshophouses, morgendliche Almosengaben, Walking Street, Nebel-Aussichtspunkte und ein entschleunigtes Inlandsreisegefühl.",
+    "fr": "Une ville au bord du Mékong dans la province de Loei, connue pour ses maisons en bois préservées, l'aumône matinale, la walking street, les points de vue dans la brume et son rythme de voyage paisible.",
+    "ru": "Небольшой город на берегу Меконга в провинции Лоэй, известный деревянными шопхаусами, утренним подаянием монахам, walking street, туманными смотровыми точками и неторопливой атмосферой.",
+    "zh": "位于黎府湄公河畔的小镇，以保存完好的木质店屋、清晨布施、步行街、云海观景点以及慢节奏的本地旅行氛围闻名。"
   },
   "population": 42000,
   "highlights": [
-    "Walking Street",
-    "Chiang Khan Skywalk",
-    "Morning Alms Giving",
-    "Mekong Sunset",
-    "Kaeng Khut Khu Rapids"
+    "Chiang Khan Walking Street",
+    "Morning alms-giving",
+    "Phu Tok sunrise viewpoint",
+    "Kaeng Khut Khu riverside stop",
+    "Big Buddha at Phu Kok Ngio and Skywalk"
   ],
   "location": {
     "lat": 17.8944,
@@ -40,26 +40,26 @@
   "image": "/images/cities/generated/chiang-khan.webp",
   "seo": {
     "metaTitle": {
-      "en": "Discover Chiang Khan | Mekong River Town Guide",
-      "nl": "Ontdek Chiang Khan | Mekong Rivierstadje Gids",
-      "ja": "チエンカーン タイ — メコン川の町観光ガイド 2026",
-      "ko": "치앙칸 태국 — 메콩 강변 마을 가이드",
+      "en": "Chiang Khan Thailand Guide 2026 | Mekong Old Town, Phu Tok, Food",
+      "nl": "Ontdek Chiang Khan | Wat te doen in Chiang Khan?",
+      "ja": "チエンカーン タイ — メコン旧市街ガイド 2026",
+      "ko": "치앙칸 태국 — 메콩 올드타운 & 푸톡 가이드",
       "th": "เชียงคาน ประเทศไทย — คู่มือท่องเที่ยวฉบับสมบูรณ์ 2026",
-      "de": "Chiang Khan entdecken | Reiseführer durch die Mekong-Stadt",
-      "fr": "Découvrez Chiang Khan | Guide de la ville au bord du Mékong",
-      "ru": "Откройте для себя Чианг-Хан | Руководство по городу на берегу Меконга",
-      "zh": "发现 Chiang Khan | 湄公河城镇指南"
+      "de": "Entdecken Sie Chiang Khan | Was tun in Chiang Khan?",
+      "fr": "Découvrez Chiang Khan | Que faire à Chiang Khan ?",
+      "ru": "Откройте для себя Чианг-Хан | Чем заняться в Чианг-Хане?",
+      "zh": "发现 Chiang Khan | 在 Chiang Khan 做什么？"
     },
     "metaDescription": {
-      "en": "Your guide to Chiang Khan — charming Mekong riverside town with wooden houses, morning alms giving, stunning sunsets, and authentic Isaan culture.",
-      "nl": "Jouw gids voor Chiang Khan — charmant Mekong rivierstadje met houten huizen, aalmoezenceremonie, prachtige zonsondergangen en authentieke Isaan-cultuur.",
-      "ja": "チエンカーン旅行ガイド — メコン川沿いの木造家屋、早朝の托鉢、ウォーキングストリート情報。2026年更新。",
-      "ko": "치앙칸 가이드 — 목조 가옥, 아침 탁발, 멋진 일몰, 정통 이산 문화가 있는 매력적인 메콩 강변 마을.",
+      "en": "Plan Chiang Khan better with walking-street timing, dawn alms, Phu Tok mist views, Kaeng Khut Khu seasonality, Mekong food stops, and hotel picks for 2026.",
+      "nl": "Jouw gids voor Chiang Khan, Thailand – houten huizen, almsgiving, Mekong-zonsondergangen en uitkijkpunten.",
+      "ja": "チエンカーン旅行ガイド — ウォーキングストリート、托鉢、プートック、メコン川の町歩き情報。2026年更新。",
+      "ko": "치앙칸 가이드 — 워킹 스트리트, 탁발, 푸톡, 메콩 강변 산책과 숙소 정보.",
       "th": "คู่มือท่องเที่ยวเชียงคาน ประเทศไทย — สถานที่ท่องเที่ยว อาหาร ที่พัก และเคล็ดลับ อัปเดต 2026",
-      "de": "Ihr Guide zu Chiang Khan — charmante Mekong-Uferstadt mit Holzhäusern, morgendlicher Almosengabe, atemberaubenden Sonnenuntergängen und authentischer Isaan-Kultur.",
-      "fr": "Votre guide de Chiang Khan — charmante ville au bord du Mékong avec des maisons en bois, la cérémonie matinale d'aumône, des couchers de soleil spectaculaires et la culture authentique Isaan.",
-      "ru": "Ваш гид по Чианг-Хану — очаровательный город на берегу Меконга с деревянными домами, утренним подаянием монахам, поразительными закатами и подлинной исанской культурой.",
-      "zh": "您的 Chiang Khan 指南——迷人的湄公河畔小镇，拥有木屋、清晨布施仪式、令人惊叹的日落以及正宗的伊桑文化。"
+      "de": "Ihr Reiseführer für Chiang Khan, Thailand – Holzhäuser, Almosengaben, Mekong-Sonnenuntergänge und Aussichtspunkte.",
+      "fr": "Votre guide pour Chiang Khan, Thaïlande – maisons en bois, aumône matinale, couchers de soleil sur le Mékong et points de vue.",
+      "ru": "Ваш гид по Чианг-Хану, Таиланд — деревянные дома, утреннее подаяние, закаты над Меконгом и смотровые точки.",
+      "zh": "您的 Chiang Khan 指南——木屋老街、清晨布施、湄公河日落与观景点。"
     }
   },
   "categories": {
@@ -71,10 +71,10 @@
       "th": "ร้านอาหารและสตรีทฟู้ดที่ดีที่สุดในเชียงคาน"
     },
     "hotels": {
-      "en": "Top hotels and guesthouses in Chiang Khan",
-      "nl": "Beste hotels en guesthouses in Chiang Khan",
-      "ja": "チエンカーンのおすすめホテル＆ゲストハウス",
-      "ko": "치앙칸 추천 호텔과 게스트하우스",
+      "en": "Top hotels in Chiang Khan | Tips & deals",
+      "nl": "Beste hotels in Chiang Khan | Tips & aanbiedingen",
+      "ja": "チエンカーンのおすすめホテル | ヒント＆お得情報",
+      "ko": "치앙칸 추천 호텔 | 팁 & 특가",
       "th": "โรงแรมแนะนำในเชียงคาน | เคล็ดลับและดีล"
     },
     "attractions": {
@@ -86,144 +86,610 @@
     }
   },
   "tags": [
-    "isaan",
     "chiang-khan",
     "loei",
     "mekong",
+    "isaan",
+    "walking-street",
+    "phu-thok",
     "thailand",
     "travel",
     "tourism",
     "guide"
   ],
-  "overview": "Chiang Khan is one of Thailand's most charming riverside towns, perched on the banks of the mighty Mekong River in Loei Province. This small Isaan town has become increasingly popular with Thai tourists seeking authentic cultural experiences, yet remains refreshingly uncommercial compared to more famous destinations. The town's heart is its Walking Street (Soi Sri Chiang Khan), lined with beautifully preserved wooden houses that create a warm, nostalgic atmosphere. Every morning at dawn, Buddhist monks walk through the streets collecting alms from locals — a centuries-old tradition that feels far more authentic here than in tourist-heavy Luang Prabang across the river in Laos. As the sun sets over the Mekong, painting the sky in shades of orange and gold above Laos on the opposite bank, you'll understand why travelers who discover this place always vow to return.",
-  "enhanced_description": "Chiang Khan greets you with the slow rhythm of the Mekong. This isn't a place you rush through — it's a place that teaches you to slow down. The town sits right on the riverbank, where the mighty Mekong forms the natural border between Thailand and Laos. Walking Street is the main artery, lined with gorgeous traditional wooden houses that have been lovingly maintained. During the day, street food vendors serve dishes unique to this region — things you simply won't find in Bangkok. In the evening, the promenade along the river comes alive with craft beer bars, small restaurants, and the most spectacular sunsets you'll see in Thailand. The town is primarily popular with Thai tourists, giving it an authentic feel that many other destinations have lost. Buildings near the river are built on stilts to handle the Mekong's seasonal flooding — a reminder that this river is beautiful but powerful. If you're the kind of traveler who values genuine cultural experiences over Instagram spots, Chiang Khan will steal your heart.",
-  "thingsToDo": "Start your Chiang Khan experience at dawn with the morning alms giving ceremony (Tak Bat) at 6:00 AM. Buddhist monks walk through the streets collecting offerings of food, rice, and snacks from locals. You can participate by purchasing a prepared offering basket from shops along the route (50-100 THB). It's a deeply spiritual, quiet moment that connects you to centuries of tradition.\n\nVisit the Chiang Khan Skywalk, a glass walkway jutting out over the Mekong with panoramic views of both Thailand and Laos (entrance 60 THB/$1.70). You'll receive slippers to wear over your shoes to keep the glass clean. The golden Buddha statue and traditional ghost mask displays at the entrance are worth seeing too.\n\nWalk along the river promenade in the afternoon, hopping between craft beer bars and small eateries. For the best sunset views, find a spot on the riverbank — you'll be watching the sun set directly over Laos. In the evening, explore Walking Street's night market (operating nightly) for unique regional street food (30-100 THB per item) and handcrafted souvenirs.\n\nIf you time your visit right, you may catch one of the spectacular temple festivals featuring candle wax temple design competitions between nine regional temples (including one from across the river in Laos) and traditional boat races on the Mekong.",
-  "whereToStay": "Accommodation in Chiang Khan ranges from budget guesthouses to charming boutique hotels. Staying on or near Walking Street puts you in the heart of the action but can be pricier and noisier, especially during evening markets. A great alternative is staying slightly outside the center — hotels 10 minutes' walk from Walking Street offer better value, quieter nights, and often beautiful garden settings. The Siong Boutique Hotel is a solid recommendation at 1,100 THB/night ($30), with a friendly English-speaking owner who provides excellent local tips about boat races, silk villages, and hidden viewpoints. The owner's local knowledge alone is worth the stay. Book in advance during Thai holidays and festivals, as Chiang Khan is very popular with domestic tourists.",
-  "whereToEat": [
+  "enhanced_description": "Chiang Khan works best when you stop treating it as a generic Mekong photo stop and start planning around its real rhythm. This is a town of old wooden streets, dawn merit-making, mist viewpoints, and slow evening walks by the river, not a place that rewards racing between disconnected checklists. TAT's Loei material and newer destination case studies both point to the same core identity: heritage shophouses, local food, the Mekong edge, and community-led tourism that still feels more domestic than international.\n\nThat rhythm matters for how you visit. Walking Street is strongest late afternoon into evening. The alms-giving route belongs to dawn and should be approached quietly and respectfully. Phu Tok makes most sense as an early-morning lookout rather than a midday stop. Kaeng Khut Khu is more appealing in the dry-season window when the Mekong drops and the stone outcrop shows properly. If you build Chiang Khan around those time blocks, the town feels coherent instead of thin.\n\nIt also helps to stay realistic about the famous side trips. The glass skywalk at Phu Kok Ngio is popular and scenic, but it is not a town-center attraction you casually squeeze between breakfast and sunset. It is a separate Mekong-side outing. Chiang Khan is strongest when the trip stays grounded in the old town first, then adds one or two well-chosen viewpoints rather than chasing every Loei photo in a single pass.",
+  "overview": "Chiang Khan is one of the easiest Thai towns to over-romanticize and one of the easiest to get right if you plan it plainly. The core appeal is not mystery. It is the preserved Chai Khong river road, the line of old wooden houses now reused as guesthouses, cafes, and small shops, the morning sticky-rice alms tradition, and the way the Mekong sets the pace of the place. TAT's Loei guide is useful here because it frames the town through its daily cycle: dawn alms, afternoon river life, evening walking street, and nearby lookouts such as Phu Tok and Kaeng Khut Khu.\n\nThat means Chiang Khan is better as a one- or two-night slow stop than as a rushed detour. Stay within walking distance of the old street if atmosphere matters most. Stay slightly outside the densest river strip only if you want parking, quieter nights, or easier road access to Phu Tok and the skywalk route. The town remains much more domestic-travel in tone than Thailand's resort circuits, which is part of the draw and also the reason it rewards modest expectations and good timing.",
+  "hidden_gems": [
     {
-      "name": "Vieng Viet",
-      "cuisine": "Vietnamese, Asian",
-      "priceRange": "$$",
-      "description": "Authentic Vietnamese restaurant with 5-star TripAdvisor rating. Local favorite for cross-border cuisine."
+      "name": "Morning market and breakfast-coupon network",
+      "story": "One of Chiang Khan's more interesting local-tourism ideas is the breakfast-coupon system used by some guesthouses and small hotels, which pushes travelers out toward neighborhood breakfast shops instead of keeping every meal inside one property.",
+      "how_to_find": "Ask your accommodation where local breakfast coupons are accepted rather than defaulting to the closest cafe on the main strip.",
+      "best_time": "Early morning after alms-giving and before the old town fully shifts into sightseeing mode.",
+      "local_insights": [
+        "This is one of the easiest ways to make the morning feel local rather than staged.",
+        "Breakfast in Chiang Khan is often stronger as a shop-to-shop routine than as a single big brunch."
+      ]
     },
     {
-      "name": "Chit Somtum",
-      "cuisine": "Thai, Isaan",
+      "name": "Coconut-sweet stalls on the road to Kaeng Khut Khu",
+      "story": "The route out to Kaeng Khut Khu is not just about the riverside stop. TAT's Loei brochure specifically flags local coconut sweets along Highway 211, which gives the drive an actual food identity instead of turning it into a throwaway transfer.",
+      "how_to_find": "Keep this for the Kaeng Khut Khu outing instead of trying to force it into the town-center walking loop.",
+      "best_time": "Late morning or afternoon, when you are already headed along the river road.",
+      "local_insights": [
+        "This is more useful as a snack-and-gift stop than as a major attraction.",
+        "It helps the Kaeng Khut Khu route feel like a Chiang Khan day rather than a single-viewpoint errand."
+      ]
+    },
+    {
+      "name": "Quiet Mekong stretches east of the main walking street",
+      "story": "The town center gets the attention, but some of the better river atmosphere comes from walking just beyond the busiest heritage blocks, where the Mekong remains the focus and the shopfront density thins out.",
+      "how_to_find": "Keep walking beyond the most photographed wooden-house section instead of turning back at the first cluster of cafes.",
+      "best_time": "Late afternoon into sunset.",
+      "local_insights": [
+        "This is where Chiang Khan starts feeling like a lived riverside town again.",
+        "It is often a better sunset walk than the most crowded photo corners."
+      ]
+    },
+    {
+      "name": "Phu Tok on a weekday sunrise",
+      "story": "Phu Tok is not hidden in any literal sense, but doing it on a weekday dawn run instead of a peak domestic-travel morning changes the experience completely.",
+      "how_to_find": "Use the district-operated transfer from the parking area and go early enough that the viewpoint is the point, not the queue.",
+      "best_time": "October to December is the classic mist window, but any clear-season sunrise can still be worth the climb.",
+      "local_insights": [
+        "This works best as the first move of the day, not an afterthought.",
+        "Come back to town for breakfast rather than trying to stack too many stops before noon."
+      ]
+    }
+  ],
+  "authentic_experiences": [
+    {
+      "activity": "Treat alms-giving as a ritual, not as a spectacle",
+      "story": "Chiang Khan's dawn sticky-rice alms tradition remains one of the town's defining practices, but it only holds up as an experience if you approach it quietly and without turning the route into a photo session.",
+      "cultural_significance": "Tak Bat Khao Niao is one of the strongest surviving markers of Chiang Khan's Lao-Isaan identity and daily Buddhist rhythm.",
+      "how_to_participate": "Ask your guesthouse how the route works, dress modestly, keep back from the monks, and let the ceremony stay local even if you join respectfully.",
+      "insights": [
+        "Watching well is often better than forcing participation badly.",
+        "The town feels different afterward because the river street has already lived one full day before breakfast."
+      ],
+      "href": "/city/chiang-khan/attractions/alms-giving-ceremony/",
+      "cta_label": "See the alms-giving guide"
+    },
+    {
+      "activity": "Use Walking Street in its proper time slot",
+      "story": "Too many first-time visitors pass through in the wrong part of the day and then wonder why the town feels overhyped. The official Loei brochure is clear that the street comes alive from late afternoon onward, and that is when the reused wooden houses, snacks, and riverside detours actually connect.",
+      "cultural_significance": "The old shophouse strip is Chiang Khan's clearest built-heritage asset and the place where tourism, local commerce, and nostalgia meet.",
+      "how_to_participate": "Walk it in the late afternoon, stay through dinner, and keep room for a second, quieter pass after the first crowds thin.",
+      "insights": [
+        "You do not need to shop much for the street to work.",
+        "It is stronger as a slow loop with food stops than as a one-pass selfie strip."
+      ],
+      "href": "/city/chiang-khan/attractions/walking-street/",
+      "cta_label": "See the walking-street guide"
+    },
+    {
+      "activity": "Do one sunrise viewpoint, not all of them",
+      "story": "Phu Tok is the more coherent town-based dawn option because it connects directly back into breakfast and old-town mornings. The skywalk can be scenic, but it should be treated as a separate excursion instead of being confused with the town's core sunrise routine.",
+      "cultural_significance": "The lookout culture around Chiang Khan is part of how Loei tourism sells the province, but local pacing still matters more than raw viewpoint count.",
+      "how_to_participate": "Choose Phu Tok if you want the classic Chiang Khan dawn. Choose the skywalk only if you are deliberately building a side trip around it.",
+      "insights": [
+        "Trying to do Phu Tok, the skywalk, and walking street in one day usually weakens all three.",
+        "The best Chiang Khan trips edit aggressively."
+      ],
+      "href": "/city/chiang-khan/attractions/phu-thok/",
+      "cta_label": "See the Phu Tok guide"
+    },
+    {
+      "activity": "Use Kaeng Khut Khu seasonally",
+      "story": "Kaeng Khut Khu is easy to dismiss if you arrive at the wrong water level. The official Loei guide makes the seasonality clear: the dry-season window is when the rock formation and river bend read best.",
+      "cultural_significance": "This stop connects the town to the Mekong as landscape and food corridor, not just as a sunset backdrop.",
+      "how_to_participate": "Pair the riverside stop with local dishes or sweets on the road out rather than treating it as a five-minute photo break.",
+      "insights": [
+        "This is one of Chiang Khan's most timing-dependent attractions.",
+        "It works better as a half-trip with food than as a standalone landmark."
+      ],
+      "href": "/city/chiang-khan/attractions/kaeng-khut-khu/",
+      "cta_label": "See the Kaeng Khut Khu guide"
+    }
+  ],
+  "foodie_adventures": [
+    {
+      "dish": "Breakfast after alms-giving",
+      "location": "Mae Ngam Imm Aroi and other morning shops",
+      "story": "Chiang Khan's breakfast culture is better understood as a local network than as a single signature restaurant. TAT recognizes Mae Ngam Imm Aroi directly, while local hotel breakfast-coupon systems reinforce the same idea: morning eating belongs to neighborhood shops, not resort buffets.",
+      "where_to_find": "Eat just after dawn activities, either through your guesthouse's coupon partners or by heading to a known local breakfast stop.",
+      "price_range": "Budget",
+      "ordering_tips": [
+        "Keep breakfast practical and local rather than waiting for a late cafe meal.",
+        "This is the easiest meal slot to make Chiang Khan feel specific."
+      ],
+      "href": "/city/chiang-khan/top-10-restaurants/",
+      "cta_label": "See the Chiang Khan food guide"
+    },
+    {
+      "dish": "Walking Street snacks and sweets",
+      "location": "Chai Khong Road",
+      "story": "The town's evening food scene is not about one must-book restaurant. It is about moving between snacks, sweets, grilled items, and small shopfront dining while the old street changes character after 4pm.",
+      "where_to_find": "Use the walking street itself instead of leaving the heritage strip too early for dinner.",
+      "price_range": "Budget to mid-range",
+      "ordering_tips": [
+        "Eat in smaller rounds rather than choosing one oversized meal at the start.",
+        "Save room for sweets and simple river snacks."
+      ],
+      "href": "/city/chiang-khan/top-10-restaurants/",
+      "cta_label": "See the Chiang Khan food guide"
+    },
+    {
+      "dish": "Riverside fish-and-Isaan lunch",
+      "location": "Kaeng Khut Khu riverside restaurants",
+      "story": "The official Loei tourism guide still treats Kaeng Khut Khu as both a scenery stop and a local-food zone, which is the right way to understand it. The attraction improves when you sit down for lunch instead of only checking the viewpoint.",
+      "where_to_find": "Pair lunch with the Kaeng Khut Khu outing in the drier months.",
+      "price_range": "Budget to mid-range",
+      "ordering_tips": [
+        "This works best as a shared-table lunch stop.",
+        "Use it on the river outing, not as a substitute for old-town dinner."
+      ],
+      "href": "/city/chiang-khan/top-10-restaurants/",
+      "cta_label": "See the Chiang Khan food guide"
+    },
+    {
+      "dish": "Hotel-and-cafe Mekong resets",
+      "location": "Riverfront hotels and cafes",
+      "story": "Chiang Khan's river-facing hotels are not only for sleeping. They are also useful for a coffee stop, a quieter lunch, or a weather reset when the main street gets too hot or crowded.",
+      "where_to_find": "Use riverfront properties such as River Tree Resort or similar Mekong-side hotels when you want a cleaner break in the middle of the day.",
+      "price_range": "Mid-range",
+      "ordering_tips": [
+        "This is a reset stop, not the whole food story.",
+        "Use hotel cafes to support pacing, not to replace the local breakfast and walking-street rhythm."
+      ],
+      "href": "/city/chiang-khan/top-10-restaurants/",
+      "cta_label": "See the Chiang Khan food guide"
+    }
+  ],
+  "local_insights": [
+    {
+      "observation": "Chiang Khan is a timing city more than a checklist city.",
+      "tip": "Match dawn to alms or Phu Tok, late afternoon to Walking Street, and keep the hottest hours for a slower meal or hotel break.",
+      "surprise": "The same town can feel thin or excellent depending on when you walk it."
+    },
+    {
+      "observation": "Dry season and mist season are not the same thing.",
+      "tip": "Use October to December for dawn haze and Phu Tok atmosphere, but remember Kaeng Khut Khu reads better when Mekong levels drop later in the dry season.",
+      "surprise": "A Chiang Khan plan built around the wrong river conditions can underperform fast."
+    },
+    {
+      "observation": "The skywalk is not town-center Chiang Khan.",
+      "tip": "Treat it as a separate Loei-side excursion and keep the old town as the main anchor of the trip.",
+      "surprise": "Many rushed itineraries fail because they confuse a scenic side trip with the core identity of the town."
+    },
+    {
+      "observation": "Where you sleep changes the town more than where you take photos.",
+      "tip": "Stay near the old street for atmosphere or slightly outside it for parking and easier dawn departures, but decide that tradeoff before booking.",
+      "surprise": "The right base can matter more than adding one more attraction."
+    }
+  ],
+  "seasonal_secrets": {
+    "best_times": {
+      "November-February": "Usually the easiest stretch for first-time visits, with cooler mornings, stronger walking weather, and reliable old-town pacing.",
+      "October-December": "Best known for Phu Tok sunrise mist and atmospheric dawn viewpoints.",
+      "February-May": "Usually the better Kaeng Khut Khu window, when lower Mekong levels reveal the stone outcrop more clearly."
+    },
+    "local_festivals": [
+      "Loy Krathong - usually November",
+      "Domestic-travel long weekends can make the walking street much busier than normal weekdays"
+    ],
+    "seasonal_foods": {
+      "cool_season": "Walking-street snacking and dawn breakfasts feel easier and more pleasant in cooler weather.",
+      "dry_season": "Kaeng Khut Khu lunches and river-road snack stops are more rewarding when water levels are lower.",
+      "year_round": "Morning local breakfasts and evening walking-street food remain part of the town's identity in any season."
+    },
+    "insider_tips": {
+      "mist_season": "Book early starts and flexible mornings if Phu Tok matters to you.",
+      "hot_season": "Protect the middle of the day and lean harder on riverfront cafes, hotel breaks, and late-day walking.",
+      "weekends": "Expect more domestic visitors on the old street and book character stays earlier."
+    }
+  },
+  "budget_reality": {
+    "budget": "$20-40/day",
+    "mid_range": "$45-95/day",
+    "luxury": "$110-220/day",
+    "examples": [
+      "Budget trips usually mean a simple guesthouse, street or breakfast-shop meals, and one planned sunrise or river outing.",
+      "Mid-range spend in Chiang Khan usually goes into a better room location and slower food pacing rather than into expensive attractions.",
+      "Higher spend is mostly about heritage rooms, river-facing hotels, or a more polished side-trip day instead of resort-style luxury."
+    ],
+    "money_saving_tricks": [
+      "Stay within walking distance of the old street so you are not paying for repeated short transfers.",
+      "Use one dawn viewpoint and one river outing instead of stacking every paid or motorized side trip into a single stay."
+    ],
+    "hidden_costs": [
+      "Private transport to the skywalk or other Loei-side detours can move the daily budget faster than town sightseeing itself.",
+      "Weekend and holiday demand can raise rates on the most atmospheric wooden-house stays."
+    ]
+  },
+  "top_attractions": [
+    {
+      "rank": 1,
+      "name": "Chiang Khan Walking Street",
+      "description": "The old wooden-house spine of the town and the clearest reason Chiang Khan feels different from other Mekong stops.",
+      "location": "Chai Khong Road / old town",
+      "entrance_fee": "Free",
+      "highlights": [
+        "Historic wooden shophouses",
+        "Evening food-and-stroll atmosphere",
+        "Best way to read the town's identity"
+      ],
+      "href": "/city/chiang-khan/attractions/walking-street/",
+      "cta_label": "See the walking-street guide"
+    },
+    {
+      "rank": 2,
+      "name": "Morning alms-giving ceremony",
+      "description": "The town's most important ritual and the strongest reason to wake before sunrise in Chiang Khan.",
+      "location": "Walking Street and nearby temple route",
+      "entrance_fee": "Observation is free; participate only respectfully",
+      "highlights": [
+        "Tak Bat Khao Niao tradition",
+        "Core Buddhist practice",
+        "Best at dawn"
+      ],
+      "href": "/city/chiang-khan/attractions/alms-giving-ceremony/",
+      "cta_label": "See the alms-giving guide"
+    },
+    {
+      "rank": 3,
+      "name": "Phu Tok viewpoint",
+      "description": "The classic Chiang Khan sunrise lookout for mist, Mekong bends, and a better sense of the valley around town.",
+      "location": "Phu Tok / Chiang Khan side",
+      "entrance_fee": "District-operated transport and access arrangements can change; check locally before going",
+      "highlights": [
+        "Best-known dawn viewpoint",
+        "Mist-season payoff",
+        "Easy pairing with a town breakfast"
+      ],
+      "href": "/city/chiang-khan/attractions/phu-thok/",
+      "cta_label": "See the Phu Tok guide"
+    },
+    {
+      "rank": 4,
+      "name": "Kaeng Khut Khu",
+      "description": "A Mekong-side stop that works best in the dry season, when the river reveals the stone outcrop and the lunch stop makes sense.",
+      "location": "Ban Noi / river road from town",
+      "entrance_fee": "Free to visit; food and boat options vary",
+      "highlights": [
+        "Dry-season river scenery",
+        "Useful food stop",
+        "Better as a half-trip than a photo halt"
+      ],
+      "href": "/city/chiang-khan/attractions/kaeng-khut-khu/",
+      "cta_label": "See the Kaeng Khut Khu guide"
+    },
+    {
+      "rank": 5,
+      "name": "Big Buddha at Phu Kok Ngio and Chiang Khan Skywalk",
+      "description": "A scenic Loei-side excursion with a glass skywalk and broad Mekong-border views, best treated as a separate outing rather than a town-center stop.",
+      "location": "Phu Kok Ngio / Pak Tom side of Loei Province",
+      "entrance_fee": "Check current local ticketing before departure",
+      "highlights": [
+        "Mekong-border panorama",
+        "Big Buddha landmark",
+        "Popular side trip from Chiang Khan"
+      ],
+      "href": "/city/chiang-khan/attractions/skywalk/",
+      "cta_label": "See the skywalk guide"
+    }
+  ],
+  "top_restaurants": [
+    {
+      "rank": 1,
+      "name": "Chiang Khan Walking Street food stalls",
+      "description": "The strongest single place to start eating in town because it lets you sample snacks, sweets, and small meals without leaving the heritage strip.",
+      "cuisine_type": "Street food / snacks / desserts",
+      "price_range": "Budget",
+      "location": "Chai Khong Road",
+      "highlights": [
+        "Best evening food zone",
+        "Works with the town's rhythm",
+        "More useful than chasing one headline restaurant"
+      ],
+      "href": "/city/chiang-khan/top-10-restaurants/",
+      "cta_label": "See the full Chiang Khan food guide"
+    },
+    {
+      "rank": 2,
+      "name": "Mae Ngam Imm Aroi",
+      "description": "A defensible local breakfast stop with direct TAT recognition and a better fit for Chiang Khan mornings than generic cafe brunches.",
+      "cuisine_type": "Thai breakfast / local dishes",
+      "price_range": "Budget",
+      "location": "Chiang Khan town",
+      "highlights": [
+        "Official TAT listing",
+        "Strong breakfast choice",
+        "Best after dawn activities"
+      ],
+      "href": "/city/chiang-khan/top-10-restaurants/",
+      "cta_label": "See the full Chiang Khan food guide"
+    },
+    {
+      "rank": 3,
+      "name": "Look Phochana",
+      "description": "One of the local breakfast-coupon-network names that helps explain how Chiang Khan channels overnight guests into neighborhood food rather than only into hotel dining rooms.",
+      "cuisine_type": "Thai / breakfast / everyday local meals",
+      "price_range": "Budget",
+      "location": "Chiang Khan town",
+      "highlights": [
+        "Useful breakfast-culture stop",
+        "Good local-routine pick",
+        "Better in the morning than late at night"
+      ],
+      "href": "/city/chiang-khan/top-10-restaurants/",
+      "cta_label": "See the full Chiang Khan food guide"
+    },
+    {
+      "rank": 4,
+      "name": "Kaeng Khut Khu riverside restaurants",
+      "description": "A practical lunch zone for grilled fish, shared Isaan dishes, and a river stop that feels more complete when you actually sit down to eat.",
+      "cuisine_type": "Thai / Isaan / riverside lunch",
+      "price_range": "Budget to mid-range",
+      "location": "Kaeng Khut Khu",
+      "highlights": [
+        "Best paired with the attraction itself",
+        "Shared-dish format",
+        "Adds substance to the river outing"
+      ],
+      "href": "/city/chiang-khan/top-10-restaurants/",
+      "cta_label": "See the full Chiang Khan food guide"
+    },
+    {
+      "rank": 5,
+      "name": "River Tree Resort dining",
+      "description": "A useful river-facing cafe-and-meal option when you want a quieter reset, a proper seat, or a midday break from the old street.",
+      "cuisine_type": "Cafe / Thai / hotel dining",
+      "price_range": "Mid-range",
+      "location": "Mekong riverside, east of the old street",
+      "highlights": [
+        "River-facing setting",
+        "Good reset stop",
+        "Works for lunch or coffee"
+      ],
+      "href": "/city/chiang-khan/top-10-restaurants/",
+      "cta_label": "See the full Chiang Khan food guide"
+    }
+  ],
+  "top_hotels": [
+    {
+      "rank": 1,
+      "name": "The Old Chiangkhan",
+      "description": "The strongest heritage-led stay in the old town if you want the preserved-house atmosphere to be part of the hotel itself.",
+      "price_range": "Mid-range boutique",
+      "category": "upscale",
+      "area": "Walking Street / Mekong edge",
+      "highlights": [
+        "100-year-old wooden-house identity",
+        "Prime old-town setting",
+        "Best for atmosphere-first stays"
+      ],
+      "href": "/city/chiang-khan/top-10-hotels/",
+      "cta_label": "See the Chiang Khan hotel guide"
+    },
+    {
+      "rank": 2,
+      "name": "U Rim Khong",
+      "description": "A strong riverside choice for travelers who want Mekong views while staying directly tied to the walking-street zone.",
+      "price_range": "Mid-range to upscale",
+      "category": "upscale",
+      "area": "Walking Street / riverfront",
+      "highlights": [
+        "Direct Mekong-facing rooms",
+        "Walking-street frontage",
+        "Useful for short atmospheric stays"
+      ],
+      "href": "/city/chiang-khan/top-10-hotels/",
+      "cta_label": "See the Chiang Khan hotel guide"
+    },
+    {
+      "rank": 3,
+      "name": "River Tree Resort",
+      "description": "A better fit if you want a calmer Mekong base with resort facilities, a pool, and slightly easier separation from the busiest old-town block.",
+      "price_range": "Mid-range",
+      "category": "mid-range",
+      "area": "Riverside east of town center",
+      "highlights": [
+        "Pool and garden setting",
+        "Riverfront orientation",
+        "Good comfort-first base"
+      ],
+      "href": "/city/chiang-khan/top-10-hotels/",
+      "cta_label": "See the Chiang Khan hotel guide"
+    },
+    {
+      "rank": 4,
+      "name": "U Chiang Khan",
+      "description": "A practical small-town base if you want breakfast support, free bicycles, and a short walk into the heritage strip without sleeping on the busiest frontage.",
+      "price_range": "Budget to mid-range",
+      "category": "budget",
+      "area": "Central Chiang Khan",
+      "highlights": [
+        "Good value base",
+        "Breakfast-coupon setup",
+        "Short walk to Walking Street"
+      ],
+      "href": "/city/chiang-khan/top-10-hotels/",
+      "cta_label": "See the Chiang Khan hotel guide"
+    },
+    {
+      "rank": 5,
+      "name": "U Villa",
+      "description": "A better option for families or small groups who want more space and do not need to sleep directly on the oldest riverfront block.",
+      "price_range": "Mid-range group stay",
+      "category": "mid-range",
+      "area": "Central Chiang Khan",
+      "highlights": [
+        "Family-friendly layout",
+        "Walkable to the old street",
+        "Good for group travel"
+      ],
+      "href": "/city/chiang-khan/top-10-hotels/",
+      "cta_label": "See the Chiang Khan hotel guide"
+    },
+    {
+      "rank": 6,
+      "name": "Norn Nab Dao Rim Phu Resort",
+      "description": "A sensible hillside-area stay if Phu Tok and dawn departures matter more than sleeping inside the old wooden core.",
+      "price_range": "Budget to mid-range",
+      "category": "mid-range",
+      "area": "Near Phu Tok",
+      "highlights": [
+        "Better for viewpoint-focused trips",
+        "Quieter out-of-center setting",
+        "Useful for sunrise planning"
+      ],
+      "href": "/city/chiang-khan/top-10-hotels/",
+      "cta_label": "See the Chiang Khan hotel guide"
+    }
+  ],
+  "travel_tips": [
+    "Plan Chiang Khan by time of day, not just by attraction list.",
+    "Keep dawn for alms-giving or Phu Tok, then return to town for breakfast.",
+    "Use Walking Street from late afternoon into evening rather than treating it as a midday stop.",
+    "Treat the skywalk as a separate excursion outside the old-town core.",
+    "Weekdays are calmer if you want Chiang Khan's slow-town character without peak domestic-travel crowds."
+  ],
+  "best_time_to_visit": {
+    "season": "Cool Season",
+    "months": "November - February",
+    "weather": "Cooler mornings and easier walking conditions for the old town, riverfront, and dawn starts",
+    "reasons": "Best for first-time visitors who want Chiang Khan's main experiences without heavy heat or rain disruption"
+  },
+  "budget_info": {
+    "budget": "$20-40 per day",
+    "mid_range": "$45-95 per day",
+    "luxury": "$110-220 per day",
+    "notes": "Chiang Khan is usually affordable; the main budget differences come from room character, weekend demand, and whether you add private side-trip transport."
+  },
+  "enhanced_at": "2026-03-26T00:00:00.000Z",
+  "reviewed_by": "Go2Thailand Editorial Team",
+  "thingsToDo": "Start Chiang Khan with one clear dawn choice. If the ritual side of the town matters most, wake for the alms-giving route and keep the focus on respectful observation first. If the landscape matters more, go to Phu Tok for sunrise and come back into town for breakfast. Either way, the old town makes more sense after dawn than before it, because you have already seen the street used for something other than tourism.\n\nLater in the day, keep the plan simple. Walk Chai Khong Road, break for food rather than forcing constant sightseeing, and only add one extra outing such as Kaeng Khut Khu or the skywalk route. Chiang Khan is better when it feels like one connected river town with a few side notes, not like a Loei province speed-run where every viewpoint gets the same hour.",
+  "whereToStay": "Hotel choice in Chiang Khan comes down to whether you want atmosphere, convenience, or sunrise logistics. Stay on or next to the old walking-street strip if you want wooden-house character, Mekong views, and the ability to step straight into the evening town. Stay slightly inland or out toward Phu Tok if you care more about parking, quieter nights, and easier dawn departures.\n\nFor most first visits, the strongest compromise is a stay close enough to walk into the old town without needing to sleep in its busiest late-evening section. Heritage houses and riverfront boutiques are worth it if that sense of place is central to the trip. More practical hotels make better sense if Chiang Khan is one stop on a wider Loei or Mekong road route.",
+  "whereToEat": [
+    {
+      "name": "Chiang Khan Walking Street food stalls",
+      "cuisine": "Street food / snacks / desserts",
       "priceRange": "$",
-      "description": "Casual Isaan specialist with 4.4-star TripAdvisor rating. Known for authentic papaya salad and regional dishes."
+      "description": "The most useful evening eating zone in town and the best place to graze rather than over-plan."
+    },
+    {
+      "name": "Mae Ngam Imm Aroi",
+      "cuisine": "Thai breakfast / local dishes",
+      "priceRange": "$",
+      "description": "A morning-focused local stop with direct TAT recognition."
     },
     {
       "name": "Look Phochana",
-      "cuisine": "Thai",
-      "priceRange": "$$",
-      "description": "Traditional Thai restaurant with 4.3-star TripAdvisor rating. Authentic local recipes and atmosphere."
-    },
-    {
-      "name": "Huen Luang Prabang",
-      "cuisine": "Thai, Asian",
-      "priceRange": "$$",
-      "description": "Cross-cultural cuisine with 4-star TripAdvisor rating. Named after neighboring Laos, offering fusion flavors."
-    },
-    {
-      "name": "Smile At Chiangkhan",
-      "cuisine": "Thai",
+      "cuisine": "Thai / breakfast / everyday meals",
       "priceRange": "$",
-      "description": "Friendly Thai restaurant with 4-star TripAdvisor rating. Located on Walking Street with authentic local cuisine."
+      "description": "A practical breakfast-culture pick tied to the local lodging network."
     },
     {
-      "name": "Walking Street Night Market",
-      "cuisine": "Thai, Isaan Street Food",
-      "priceRange": "$",
-      "description": "Evening vendors (nightly) serving authentic regional specialties. Most budget-friendly dining option with authentic flavors."
+      "name": "Kaeng Khut Khu riverside restaurants",
+      "cuisine": "Thai / Isaan / riverside lunch",
+      "priceRange": "$-$$",
+      "description": "Best used as part of the river outing rather than as an independent dinner destination."
     },
     {
-      "name": "River Promenade Restaurants",
-      "cuisine": "Thai, Isaan",
+      "name": "River Tree Resort dining",
+      "cuisine": "Cafe / Thai / hotel dining",
       "priceRange": "$$",
-      "description": "Multiple riverside establishments offering Thai and Isaan cuisine with sunset views over the Mekong."
+      "description": "A useful midday reset when you want a quieter river-facing meal."
     }
   ],
   "topHotels": [
     {
-      "name": "HomeandHomestay",
-      "category": "midrange",
-      "priceRange": "$50-55/night",
-      "area": "Central Walking Street area",
-      "description": "Highly-rated guesthouse with 5-star TripAdvisor rating. Offers authentic local experience with personal service in the heart of town."
+      "name": "The Old Chiangkhan",
+      "category": "upscale",
+      "priceRange": "$$-$$$",
+      "area": "Walking Street / Mekong edge",
+      "description": "The strongest heritage stay if you want the old-town setting to shape the whole trip."
     },
     {
-      "name": "Phuviewplace Hotel",
-      "category": "midrange",
-      "priceRange": "$45-55/night",
-      "area": "Central Chiang Khan",
-      "description": "Quality hotel with 5-star TripAdvisor rating. Comfortable rooms with good value and attentive service."
+      "name": "U Rim Khong",
+      "category": "upscale",
+      "priceRange": "$$-$$$",
+      "area": "Walking Street / riverfront",
+      "description": "A strong riverside choice for Mekong views and immediate walking-street access."
     },
     {
-      "name": "Rico Resort Chiang Kham",
-      "category": "midrange",
-      "priceRange": "$35-45/night",
-      "area": "Central area",
-      "description": "Small resort with 4.4-star TripAdvisor rating. Good amenities and friendly management at moderate prices."
+      "name": "River Tree Resort",
+      "category": "mid-range",
+      "priceRange": "$$",
+      "area": "Riverside east of town center",
+      "description": "A comfort-first base with more resort feel and less old-town density."
     },
     {
-      "name": "Ban Rwm Sukh The Happiness",
+      "name": "U Chiang Khan",
       "category": "budget",
-      "priceRange": "$25-40/night",
-      "area": "Walking Street vicinity",
-      "description": "Boutique guesthouse with 4-star TripAdvisor rating. Charming local accommodation with comfortable rooms."
+      "priceRange": "$-$$",
+      "area": "Central Chiang Khan",
+      "description": "A practical small-hotel option with breakfast support and free bicycles."
     },
     {
-      "name": "Chiang Kham Grand Villa",
-      "category": "budget",
-      "priceRange": "$24-35/night",
+      "name": "U Villa",
+      "category": "mid-range",
+      "priceRange": "$$",
       "area": "Central Chiang Khan",
-      "description": "Budget villa-style guesthouse with 4-star TripAdvisor rating. Spacious rooms and good value for money."
+      "description": "A more spacious family or group option close to the old street."
+    },
+    {
+      "name": "Norn Nab Dao Rim Phu Resort",
+      "category": "mid-range",
+      "priceRange": "$-$$",
+      "area": "Near Phu Tok",
+      "description": "A better out-of-center base if sunrise viewpoint access matters more than old-town frontage."
     }
   ],
-  "gettingAround": "Chiang Khan is a small, walkable town. The main Walking Street and river promenade are easily explored on foot. For reaching viewpoints and attractions slightly outside town, a motorbike rental is ideal — the roads along the Mekong are scenic and relatively quiet. Motorbike rental typically costs 200-300 THB/day.\n\nThe nearest airport is Loei Airport (approximately 50 km away), with connecting flights from Bangkok on Nok Air or AirAsia. Minivan or taxi transfer from Loei Airport costs approximately 500-800 THB per person and takes about 1 hour. Most visitors arrive by bus from Bangkok (8-9 hours, departing from Mo Chit Bus Terminal, approximately 300-400 THB) or drive/ride from other Isaan cities. If road-tripping through Isaan, Chiang Khan is about 2-3 hours from Udon Thani. Songthaew shared transport is available to/from Loei town (approximately 80-100 THB).",
-  "bestTimeToVisit": "Chiang Khan is best visited during the cool season from November to February, when temperatures are pleasant (15-25°C) and the Mekong is calm. October brings the end of the rainy season — the river is at its highest and most dramatic, but expect afternoon thunderstorms (they pass quickly). The hot season (March-May) can be uncomfortable. Thai holidays and long weekends bring large domestic tourist crowds, so weekdays offer a more peaceful experience. The town hosts several temple festivals throughout the year featuring boat races and candle wax competitions — ask your hotel owner about upcoming events.",
+  "gettingAround": "Chiang Khan itself is easy to cover on foot once you are in the old town. Bicycles make sense for a wider river stretch, while motorbikes and private cars are more useful for Phu Tok, Kaeng Khut Khu, and other Loei-side detours. The official Loei tourism guide notes district-operated transport up to Phu Tok from the parking area, which is the sensible way to do that sunrise stop rather than trying to drive the last stretch yourself.\n\nFor arrivals, most visitors either come overland from Bangkok or combine Loei Airport with a road transfer onward to town. Keep the wording flexible because airline schedules and bus operators change, but the basic planning rule stays the same: Chiang Khan is a road-based destination even when you fly into the province.",
+  "bestTimeToVisit": "Chiang Khan is easiest in the cool season from November to February, when old-town walks, riverside evenings, and dawn starts all work with less friction. October to December is the better-known window for mist at Phu Tok. Kaeng Khut Khu tends to reward later dry-season timing better, when Mekong levels are lower and the stone outcrop reads more clearly. Long weekends and Thai holiday periods bring heavier domestic-travel traffic, so midweek stays usually feel calmer and more in character.",
   "budgetGuide": {
     "budget": {
-      "min": 15,
-      "max": 30,
-      "description": "Budget travelers can enjoy Chiang Khan on $15-30/day. Stay in a simple guesthouse on Walking Street ($10-20/night, 350-700 THB), eat exclusively at street food stalls and the night market ($1-3 per meal, 30-100 THB per item), and walk everywhere. The Skywalk costs 60 THB ($1.70). Morning alms giving is free to watch. Total daily spend: 500-1,050 THB."
+      "min": 20,
+      "max": 40,
+      "description": "Budget travelers can keep Chiang Khan affordable with a simple guesthouse, breakfast-shop meals, walking-street snacks, and one dawn outing rather than multiple transport-heavy side trips."
     },
     "midrange": {
-      "min": 30,
-      "max": 60,
-      "description": "Mid-range travelers spend $30-60/day for a comfortable experience. Stay at a mid-range hotel ($30-45/night, 1,050-1,575 THB), enjoy riverside restaurant meals ($5-10 per meal, 175-350 THB), visit the Skywalk (60 THB), and perhaps take a boat trip on the Mekong (300-500 THB). Very good value for a charming experience. Total daily spend: 1,600-2,500 THB."
+      "min": 45,
+      "max": 95,
+      "description": "Mid-range stays usually buy you a better room location, a more comfortable river-facing hotel, and slower pacing with one or two planned meals and one side trip."
     },
     "luxury": {
-      "min": 60,
-      "max": 120,
-      "description": "Luxury in Chiang Khan is relative — this is a small Isaan town, not Phuket. The best riverside hotels cost $45-55/night (1,575-1,925 THB), and fine dining tops out around $12-18 per meal (420-630 THB). Budget $60-120/day for the best rooms, all meals at restaurants, Skywalk visit, boat trips, and day excursions to nearby attractions. Total daily spend: 2,100-4,200 THB."
+      "min": 110,
+      "max": 220,
+      "description": "Higher budgets in Chiang Khan go more toward heritage room quality, better views, and added transport convenience than toward big-ticket luxury infrastructure."
     }
   },
-  "safetyTips": "Chiang Khan is one of the safest towns in Thailand. It's a small, friendly community where crime against tourists is virtually unheard of. The main safety considerations are the Mekong River itself — during rainy season (June-October) the water level rises dramatically and currents are strong. Never swim in the Mekong. Buildings near the river are built on stilts for good reason — flooding is possible during heavy rains. If riding a motorbike to nearby viewpoints, the roads are generally good but watch for wet conditions after rain. The town is very quiet and respectful — alcohol consumption is moderate compared to beach destinations.",
+  "safetyTips": "Chiang Khan is generally low-friction and low-stress, but that does not remove the need for basic judgment. Keep the alms route respectful and avoid crowding monks for photos. Use caution on dawn roads if you are leaving town in the dark for Phu Tok or the skywalk. Around the Mekong, remember that river conditions and banks change with season, and Kaeng Khut Khu is more useful as a viewpoint-and-lunch stop than as a place to behave casually around moving water. If you are riding a motorbike, the bigger risk is early-morning visibility and unfamiliar roads, not urban traffic.",
   "faq": [
     {
-      "question": "How do I get to Chiang Khan?",
-      "answer": "Most visitors arrive by bus from Bangkok (8-9 hours, departing from Mo Chit Bus Terminal, approximately 300-400 THB). You can also fly to Loei Airport (approximately 50 km away) with connecting flights from Bangkok on Nok Air or AirAsia, then take a minivan or taxi to Chiang Khan (approximately 500-800 THB, 1 hour travel time). If you're road-tripping through Isaan, Chiang Khan is about 2-3 hours from Udon Thani by car."
+      "question": "How many nights should I stay in Chiang Khan?",
+      "answer": "One night can work if your timing is good, but two nights is a much better fit if you want both a dawn experience and a relaxed walking-street evening without compressing everything."
     },
     {
-      "question": "What is the morning alms giving ceremony?",
-      "answer": "Every morning at 6:00 AM, Buddhist monks walk through the streets of Chiang Khan collecting food offerings (rice, snacks, drinks) from local residents. It's a centuries-old tradition called Tak Bat. You can participate by purchasing a prepared offering basket from shops along the route (50-100 THB). The ceremony is much more authentic here than in tourist-heavy Luang Prabang, Laos, as it remains a primarily local activity."
+      "question": "What is the best time for Chiang Khan Walking Street?",
+      "answer": "Late afternoon into evening is the strongest slot. The official Loei tourism brochure notes the walking street opens from 4pm daily, and that matches the town's real rhythm much better than a midday visit."
     },
     {
-      "question": "How much does the Chiang Khan Skywalk cost?",
-      "answer": "The Chiang Khan Skywalk costs 60 THB (approximately $1.70) per person. You'll receive slippers to wear over your shoes to keep the glass walkway clean. The skywalk offers panoramic views of the Mekong River with both Thailand and Laos visible. There's also a golden Buddha statue and traditional ghost mask displays at the entrance."
+      "question": "Is the morning alms-giving ceremony still worth seeing?",
+      "answer": "Yes, but only if you approach it as a local ritual. It is worth seeing because it still anchors the town's identity, not because it guarantees dramatic photos."
     },
     {
-      "question": "When is the best time to visit?",
-      "answer": "Chiang Khan is best visited during the cool season from November to February, when temperatures are pleasant (15-25°C / 59-77°F) and the Mekong is calm. October brings the end of the rainy season with the river at its highest and most dramatic, but expect afternoon thunderstorms that pass quickly. The hot season (March-May) can be uncomfortable (32-40°C). Thai holidays and long weekends bring large domestic tourist crowds, so weekdays offer a more peaceful experience."
+      "question": "Should I choose Phu Tok or the skywalk?",
+      "answer": "Choose Phu Tok if you want the classic Chiang Khan dawn. Choose the skywalk if you specifically want a separate scenic side trip with broader border-river views."
     },
     {
-      "question": "Is Chiang Khan safe for tourists?",
-      "answer": "Chiang Khan is one of the safest towns in Thailand. It's a small, friendly community where crime against tourists is virtually unheard of. Main safety considerations are the Mekong River itself — during rainy season (June-October) water levels rise dramatically with strong currents. Never swim in the Mekong. Buildings near the river are built on stilts for good reason — flooding is possible during heavy rains. If riding a motorbike to nearby viewpoints, roads are generally good but watch for wet conditions after rain."
+      "question": "When is Kaeng Khut Khu at its best?",
+      "answer": "It is generally more rewarding in the drier part of the year when Mekong levels drop and the rocky river formation becomes easier to see."
     },
     {
-      "question": "How do I move around Chiang Khan?",
-      "answer": "Chiang Khan is very walkable. The main Walking Street and river promenade are easily explored on foot. For reaching viewpoints and attractions slightly outside town, motorbike rental is ideal (typically 200-300 THB/day) — the roads along the Mekong are scenic and relatively quiet. Songthaew shared transport is available to/from Loei town (approximately 80-100 THB). Once in town, everything is within walking or short riding distance."
+      "question": "What is the easiest way to get around Chiang Khan?",
+      "answer": "Walk the old town, then add bicycles, a motorbike, or a private car only for out-of-town viewpoints and riverside detours."
     }
   ],
   "practicalInfo": {
@@ -233,395 +699,81 @@
       "Jan",
       "Feb"
     ],
-    "nearestAirport": "Loei Airport (approximately 50 km away), with connecting flights from Bangkok on Nok Air or AirAsia",
-    "travelTimeFromAirport": "Approximately 1 hour by minivan or taxi from Loei Airport to Chiang Khan (transfer cost 500-800 THB)",
+    "nearestAirport": "Loei Airport, followed by a road transfer to Chiang Khan",
+    "travelTimeFromAirport": "Usually around 1 to 1.5 hours by road, depending on the transfer arrangement",
     "localTransport": [
-      "Walking (town is very walkable)",
-      "Motorbike rental (200-300 THB/day for nearby viewpoints and attractions)",
-      "Songthaew (80-100 THB to/from Loei town)",
-      "Minivan from Loei Airport (500-800 THB)",
-      "Bus from Bangkok (300-400 THB, 8-9 hours)"
+      "Walking in the old town",
+      "Bicycle for wider riverside coverage",
+      "Motorbike or private car for Phu Tok, Kaeng Khut Khu, and out-of-town detours",
+      "District-operated transfer for the Phu Tok viewpoint",
+      "Overland bus or van connections into Chiang Khan"
     ]
   },
   "contentSources": [
     {
-      "type": "video",
-      "title": "Mekong Adventure Episode 1: Chiang Khan",
-      "creator": "Paddy Doyle - Live Love Thailand",
-      "url": "https://www.youtube.com/watch?v=5tYAPJomJ1o",
-      "description": "First episode of a motorcycle journey along the Mekong River, featuring Chiang Khan's Skywalk, morning alms giving, temple festivals, and local food scene."
+      "type": "guide",
+      "title": "E-Brochure eBook Loei",
+      "creator": "Amazing Thailand / Tourism Authority of Thailand",
+      "url": "https://amazingthailand.com.au/wp-content/uploads/2023/07/E-Brochure-eBook-Loei_EN_Hyperlink3.pdf",
+      "description": "Used for Walking Street timing, dawn alms timing, Kaeng Khut Khu seasonality, Phu Tok access context, and the Phu Kok Ngio skywalk framing."
+    },
+    {
+      "type": "case-study",
+      "title": "Top 100 2024 - GPS Chiang Khan - From Breakfast Coupons to Chiang Khan's Economic Linkage",
+      "creator": "Green Destinations / Designated Areas for Sustainable Tourism Administration",
+      "url": "https://www.greendestinations.org/wp-content/uploads/2024/10/Top-100-2024-GPS-Chiang-Khan-From-Breakfast-Coupons-to-Chiang-Khans-Economic-Linkage.pdf",
+      "description": "Used for current destination framing and the breakfast-coupon local-economy context."
+    },
+    {
+      "type": "restaurant",
+      "title": "Mae Ngam Imm Aroi",
+      "creator": "Tourism Authority of Thailand",
+      "url": "https://www.tourismthailand.org/Restaurant/mae-ngam-imm-aroi",
+      "description": "Used for a direct official restaurant reference in Chiang Khan."
+    },
+    {
+      "type": "hotel",
+      "title": "The Old Chiangkhan",
+      "creator": "The Old Chiangkhan Boutique Hotel",
+      "url": "https://theoldchiangkhan.com/",
+      "description": "Used for official heritage-hotel positioning on Walking Street."
+    },
+    {
+      "type": "hotel",
+      "title": "U Chiang Khan",
+      "creator": "U Chiangkhan Hotel",
+      "url": "https://www.uchiangkhanhotel.com/branch/u-chiang-khan-%E0%B9%82%E0%B8%A3%E0%B8%87%E0%B9%81%E0%B8%A3%E0%B8%A1%E0%B9%83%E0%B8%88%E0%B8%81%E0%B8%A5%E0%B8%B2%E0%B8%87%E0%B9%80%E0%B8%A1%E0%B8%B7%E0%B8%AD%E0%B8%87/",
+      "description": "Used for official central-hotel positioning and breakfast-coupon context."
+    },
+    {
+      "type": "hotel",
+      "title": "U Rim Khong",
+      "creator": "U Chiangkhan Hotel",
+      "url": "https://www.uchiangkhanhotel.com/branch/u-rim-khong-pre-%E0%B9%82%E0%B8%A3%E0%B8%87%E0%B9%81%E0%B8%A3%E0%B8%A1%E0%B8%95%E0%B8%B4%E0%B8%94%E0%B9%81%E0%B8%A1%E0%B9%88%E0%B8%99%E0%B9%89%E0%B8%B3%E0%B9%82%E0%B8%82%E0%B8%87/",
+      "description": "Used for official riverfront-hotel positioning on the walking-street side."
+    },
+    {
+      "type": "hotel",
+      "title": "U Villa",
+      "creator": "U Chiangkhan Hotel",
+      "url": "https://www.uchiangkhanhotel.com/branch/u-villa-new-building/",
+      "description": "Used for official family-and-group stay positioning."
+    },
+    {
+      "type": "hotel",
+      "title": "River Tree Resort",
+      "creator": "River Tree Resort",
+      "url": "https://en.rivertreeresort.com/",
+      "description": "Used for official Mekong-side resort positioning and on-site dining context."
+    },
+    {
+      "type": "hotel",
+      "title": "Norn Nab Dao Rim Phu Resort",
+      "creator": "River Tree Resort",
+      "url": "https://en.rivertreeresort.com/%E0%B8%AA%E0%B8%B3%E0%B9%80%E0%B8%99%E0%B8%B2%E0%B8%82%E0%B8%AD%E0%B8%87-%E0%B9%82%E0%B8%A3%E0%B8%87%E0%B9%81%E0%B8%A3%E0%B8%A1%E0%B8%99%E0%B8%AD%E0%B8%99%E0%B8%99-%E0%B8%9A%E0%B8%94%E0%B8%B2%E0%B8%A7",
+      "description": "Used for official hillside resort positioning near Phu Tok."
     }
   ],
-  "enrichedAt": "2026-02-22T18:00:00.000Z",
-  "best_time_to_visit": {
-    "season": "Cool Season",
-    "months": "November - February",
-    "weather": "Cool and dry, 15-28°C",
-    "reasons": "Comfortable for Mekong exploration and temple visits"
-  },
-  "seasonal_secrets": {
-    "best_times": {
-      "November-February (Best)": "Chiang Khan is best visited during the cool season from November to February, when temperatures are pleasant (15-25°C) and the Mekong is calm. October brings the end of the rainy season — the river is at its highest and most dramatic, but expect afternoon thunderstorms (they pass quickly).",
-      "March-May (Hot Season)": "Very hot, 30-40°C. Cheaper accommodation and fewer crowds — worth it if you can handle the heat.",
-      "June-October (Green Season)": "Warm with regular rainfall. Lush landscapes and good deals — rain usually falls in short afternoon bursts."
-    },
-    "local_festivals": [
-      "Morning alms giving to monks along the Mekong (daily, year-round)",
-      "Chiang Khan Walking Street (weekends, busiest in cool season)",
-      "Loy Krathong Festival",
-      "King's Birthday (Father's Day - Dec 5)",
-      "New Year celebrations",
-      "Makha Bucha Day",
-      "Chinese New Year (varies)",
-      "Songkran Water Festival (April 13-15) - celebrated nationwide"
-    ],
-    "seasonal_foods": {
-      "cool": "Mekong riverside dining is at its best — fresh river fish, grilled meats, and Isaan specialties with sunset views. Local favorites include Walking Street Night Market and River Promenade Restaurants.",
-      "hot": "Cooling Vietnamese-Thai fusion dishes and cold drinks at riverside restaurants. Local favorites include Walking Street Night Market and River Promenade Restaurants.",
-      "rainy": "Hearty Isaan soups and warming curries — the Mekong at high water is dramatic. Local favorites include Walking Street Night Market and River Promenade Restaurants."
-    },
-    "insider_tips": {
-      "Mekong sunsets": "The best sunset viewing spots fill up fast — arrive 30 minutes before sunset to secure a riverside table.",
-      "Border crossings": "If crossing to Laos, check visa requirements in advance. Cool season mornings along the Mekong can be surprisingly cold — pack layers.",
-      "Peak season": "November-February is peak season — book accommodation 2-4 weeks ahead for the best prices.",
-      "Rainy season": "Rain usually falls in short afternoon bursts — mornings are often sunny and great for exploring Chiang Khan.",
-      "Walking Street": "Visit Walking Street during the cool season for the most comfortable experience. Early morning visits beat the heat and the crowds."
-    }
-  },
-  "top_attractions": [
-    {
-      "rank": 1,
-      "name": "Chiang Khan Walking Street (Soi Sri Chiang Khan)",
-      "description": "Historic wooden shophouses and colonial-era buildings lining the main street. The heart of Chiang Khan's cultural experience with local shops, cafes, and the evening night market.",
-      "location": "Central Chiang Khan",
-      "entrance_fee": "Free",
-      "highlights": [
-        "Preserved wooden architecture",
-        "Evening night market",
-        "Local shops and galleries"
-      ]
-    },
-    {
-      "rank": 2,
-      "name": "Chiang Khan Skywalk",
-      "description": "Glass walkway extending over the Mekong River with panoramic views of Thailand and Laos. Features golden Buddha statue and traditional ghost mask displays at entrance.",
-      "location": "Mekong Riverfront",
-      "entrance_fee": "60 THB ($1.70)",
-      "highlights": [
-        "Glass walkway views",
-        "Golden Buddha statue",
-        "Mekong River vistas"
-      ]
-    },
-    {
-      "rank": 3,
-      "name": "Mekong River Promenade",
-      "description": "Riverside walkway offering sunset views over the Mekong with Laos visible on the opposite bank. Popular for evening strolls and riverside dining.",
-      "location": "Mekong Riverfront, central area",
-      "entrance_fee": "Free",
-      "highlights": [
-        "Sunset views",
-        "River walks",
-        "Local restaurants nearby"
-      ]
-    },
-    {
-      "rank": 4,
-      "name": "Morning Alms Giving Ceremony (Tak Bat)",
-      "description": "Ancient Buddhist tradition where monks walk through streets collecting food offerings from residents. Occurs daily at 6:00 AM throughout the town.",
-      "location": "Walking Street and surrounding streets",
-      "entrance_fee": "Free (offering baskets available for purchase 50-100 THB)",
-      "highlights": [
-        "Authentic spiritual experience",
-        "Daily at 6:00 AM",
-        "Ancient tradition"
-      ]
-    },
-    {
-      "rank": 5,
-      "name": "Chiang Khan Night Market",
-      "description": "Evening street food market with dozens of vendors selling regional Isaan dishes, snacks, and desserts unique to the area. Operates nightly along Walking Street.",
-      "location": "Walking Street",
-      "entrance_fee": "Free (food 20-100 THB per item)",
-      "highlights": [
-        "Authentic Isaan cuisine",
-        "Local vendors",
-        "Evening atmosphere"
-      ]
-    },
-    {
-      "rank": 6,
-      "name": "Local Temples (Various)",
-      "description": "Multiple Buddhist temples throughout Chiang Khan reflecting regional architectural styles. Several host annual festivals featuring candle wax competitions and traditional boat races.",
-      "location": "Throughout town",
-      "entrance_fee": "Free",
-      "highlights": [
-        "Religious architecture",
-        "Festival events",
-        "Local culture"
-      ]
-    }
-  ],
-  "top_restaurants": [
-    {
-      "rank": 1,
-      "name": "Vieng Viet",
-      "description": "Vietnamese restaurant with authentic cuisine and local following. Highly rated on TripAdvisor.",
-      "cuisine_type": "Vietnamese, Asian",
-      "price_range": "80-200 THB per person",
-      "highlights": [
-        "Vietnamese specialties",
-        "5-star TripAdvisor rating"
-      ]
-    },
-    {
-      "rank": 2,
-      "name": "Chit Somtum",
-      "description": "Casual Thai restaurant specializing in Isaan cuisine, particularly known for papaya salad (som tam) and regional dishes.",
-      "cuisine_type": "Thai, Isaan",
-      "price_range": "60-180 THB per person",
-      "highlights": [
-        "Authentic Isaan flavors",
-        "Local favorite",
-        "4.4-star rating"
-      ]
-    },
-    {
-      "rank": 3,
-      "name": "Look Phochana",
-      "description": "Popular Thai restaurant serving traditional regional cuisine. Well-reviewed local establishment with authentic flavors.",
-      "cuisine_type": "Thai",
-      "price_range": "70-200 THB per person",
-      "highlights": [
-        "Traditional recipes",
-        "4.3-star rating",
-        "Authentic atmosphere"
-      ]
-    },
-    {
-      "rank": 4,
-      "name": "Huen Luang Prabang",
-      "description": "Asian cuisine restaurant blending Thai and regional influences. Named after the nearby Lao city, offering cross-cultural dining experience.",
-      "cuisine_type": "Thai, Asian",
-      "price_range": "80-220 THB per person",
-      "highlights": [
-        "Regional fusion",
-        "4-star rating",
-        "Cultural connection"
-      ]
-    },
-    {
-      "rank": 5,
-      "name": "Smile At Chiangkhan",
-      "description": "Welcoming Thai restaurant located on or near Walking Street. Known for friendly service and authentic local cuisine.",
-      "cuisine_type": "Thai",
-      "price_range": "70-180 THB per person",
-      "highlights": [
-        "Friendly service",
-        "4-star rating",
-        "Walking Street location"
-      ]
-    },
-    {
-      "rank": 6,
-      "name": "Walking Street Night Market",
-      "description": "Evening street food vendors serving dozens of Isaan specialties, snacks, and desserts. Most authentic and cheapest dining option in town.",
-      "cuisine_type": "Thai, Isaan Street Food",
-      "price_range": "30-100 THB per item",
-      "highlights": [
-        "Budget-friendly",
-        "Authentic flavors",
-        "Nightly operation"
-      ]
-    }
-  ],
-  "top_hotels": [
-    {
-      "rank": 1,
-      "name": "HomeandHomestay",
-      "description": "Highly-rated guesthouse offering personal touches and authentic local experience. 5-star TripAdvisor rating.",
-      "price_range": "$53/night (1,850 THB)",
-      "category": "midrange",
-      "highlights": [
-        "5-star rating",
-        "Local hospitality",
-        "Walking Street area"
-      ]
-    },
-    {
-      "rank": 2,
-      "name": "Phuviewplace Hotel",
-      "description": "Quality hotel with excellent reviews and good value. 5-star TripAdvisor rating for service and comfort.",
-      "price_range": "$40-55/night (1,400-1,925 THB)",
-      "category": "midrange",
-      "highlights": [
-        "5-star rating",
-        "Good value",
-        "Comfortable rooms"
-      ]
-    },
-    {
-      "rank": 3,
-      "name": "Rico Resort Chiang Kham",
-      "description": "Small resort property with good amenities and friendly management. 4.4-star TripAdvisor rating.",
-      "price_range": "$35-45/night (1,225-1,575 THB)",
-      "category": "midrange",
-      "highlights": [
-        "Resort facilities",
-        "4.4-star rating",
-        "Good value"
-      ]
-    },
-    {
-      "rank": 4,
-      "name": "Ban Rwm Sukh The Happiness",
-      "description": "Boutique guesthouse with character and local charm. Rated 4-star on TripAdvisor with emphasis on comfort and hospitality.",
-      "price_range": "$25-40/night (875-1,400 THB)",
-      "category": "budget",
-      "highlights": [
-        "Boutique character",
-        "4-star rating",
-        "Peaceful setting"
-      ]
-    },
-    {
-      "rank": 5,
-      "name": "Chiang Kham Grand Villa",
-      "description": "Spacious guesthouse with villa-style rooms. Good value budget accommodation with 4-star TripAdvisor rating.",
-      "price_range": "$24-35/night (840-1,225 THB)",
-      "category": "budget",
-      "highlights": [
-        "Spacious rooms",
-        "4-star rating",
-        "Budget-friendly"
-      ]
-    }
-  ],
-  "factchecked_at": "2026-03-08T18:50:44.188Z",
-  "translations": {
-    "nl": {
-      "enhanced_description": "Chiang Khan begroet je met het langzame ritme van de Mekong. Dit is geen plek waar je doorheen snelt — het is een plek die je leert om te vertragen. De stad ligt direct aan de rivieroever, waar de machtige Mekong de natuurlijke grens vormt tussen Thailand en Laos. Walking Street is de hoofdader, omzoomd met prachtige traditionele houten huizen die liefdevol zijn onderhouden. Overdag serveren straatverkopers gerechten die uniek zijn voor deze regio — dingen die je simpelweg niet in Bangkok vindt. 's Avonds komt de promenade langs de rivier tot leven met craft bier bars, kleine restaurantjes en de meest spectaculaire zonsondergangen die je in Thailand zult zien. De stad is voornamelijk populair bij Thaise toeristen, wat het een authentiek gevoel geeft dat veel andere bestemmingen zijn kwijtgeraakt. Gebouwen bij de rivier zijn op palen gebouwd om de seizoensgebonden overstromingen van de Mekong aan te kunnen — een herinnering dat deze rivier mooi maar krachtig is. Als je het type reiziger bent dat oprechte culturele ervaringen verkiest boven Instagram-plekken, zal Chiang Khan je hart stelen.",
-      "overview": "Chiang Khan is een van de meest charmante rivierstadjes van Thailand, gelegen aan de oevers van de machtige Mekong in de provincie Loei. Dit kleine Isaan-stadje is steeds populairder geworden bij Thaise toeristen die op zoek zijn naar authentieke culturele ervaringen, maar blijft verfrissend oncommercieel vergeleken met beroemdere bestemmingen. Het hart van de stad is Walking Street (Soi Sri Chiang Khan), omzoomd met prachtig bewaard gebleven houten huizen die een warme, nostalgische sfeer creëren. Elke ochtend bij dageraad lopen boeddhistische monniken door de straten om aalmoezen op te halen bij bewoners — een eeuwenoude traditie die hier veel authentieker aanvoelt dan in het toeristische Luang Prabang aan de overkant van de rivier in Laos. Als de zon ondergaat boven de Mekong en de hemel kleurt in tinten oranje en goud boven Laos aan de overkant, begrijp je waarom reizigers die deze plek ontdekken altijd zweren terug te komen.",
-      "thingsToDo": "Begin je Chiang Khan-ervaring bij dageraad met de ochtendlijke aalmoezenceremonie (Tak Bat) om 6:00 uur. Boeddhistische monniken lopen door de straten om voedselofers op te halen — rijst, snacks en drinken — van lokale bewoners. Je kunt meedoen door een voorbereid offermandje te kopen bij winkels langs de route (50-100 THB). Het is een diep spiritueel, stil moment dat je verbindt met eeuwen van traditie.\n\nBezoek de Chiang Khan Skywalk, een glazen loopbrug die uitsteekt boven de Mekong met panoramisch uitzicht op zowel Thailand als Laos (entree 60 THB/$1,70). Je krijgt slippers om over je schoenen te dragen om het glas schoon te houden. Het gouden Boeddhabeeld en de traditionele spookmasker-tentoonstellingen bij de ingang zijn ook de moeite waard.\n\nWandel 's middags langs de rivierpromenade en wissel af tussen craft bier bars en kleine eetgelegenheden. Voor het beste zonsonderganguitzicht, zoek een plekje aan de rivieroever — je kijkt dan naar de zon die direct boven Laos ondergaat. Verken 's avonds de nachtmarkt op Walking Street (elke avond geopend) voor uniek regionaal straatvoedsel (30-100 THB per item) en handgemaakte souvenirs.\n\nAls je je bezoek goed timed, kun je een van de spectaculaire tempelfestivals meemaken met kaarswas-tempelontwerp wedstrijden tussen negen regionale tempels (inclusief een van de overkant van de rivier in Laos) en traditionele bootraces op de Mekong.",
-      "whereToStay": "Accommodatie in Chiang Khan varieert van budget guesthouses tot charmante boetiekhotels. Verblijven op of nabij Walking Street plaatst je in het hart van het gebeuren, maar kan duurder en lawaaiiger zijn, vooral tijdens de avondmarkten. Een goed alternatief is iets buiten het centrum verblijven — hotels op 10 minuten lopen van Walking Street bieden betere waarde, rustiger nachten en vaak mooie tuinsettings. Het Siong Boutique Hotel is een degelijke aanbeveling voor 1.100 THB/nacht ($30), met een vriendelijke Engelssprekende eigenaar die uitstekende lokale tips geeft over bootraces, zijdedorpen en verborgen uitzichtpunten. De lokale kennis van de eigenaar alleen al is het verblijf waard. Reserveer vooruit tijdens Thaise feestdagen en festivals, want Chiang Khan is zeer populair bij binnenlandse toeristen.",
-      "gettingAround": "Chiang Khan is een klein, bewandelbaar stadje. Walking Street en de rivierpromenade zijn gemakkelijk te voet te verkennen. Om uitkijkpunten en attracties net buiten de stad te bereiken, is een gehuurde motor ideaal — de wegen langs de Mekong zijn schilderachtig en relatief rustig. Motorverhuur kost doorgaans 200-300 THB/dag.\n\nDe dichtstbijzijnde luchthaven is Loei Airport (ongeveer 50 km verderop), met aansluitende vluchten vanuit Bangkok via Nok Air of AirAsia. Een minivan- of taxitransfer van Loei Airport kost ongeveer 500-800 THB per persoon en duurt ongeveer 1 uur. De meeste bezoekers komen met de bus vanuit Bangkok (8-9 uur, vertrek van Mo Chit Bus Terminal, ongeveer 300-400 THB) of rijden vanuit andere Isaan-steden. Bij een roadtrip door Isaan ligt Chiang Khan op ongeveer 2-3 uur van Udon Thani. Songthaew gedeeld vervoer is beschikbaar van/naar Loei-stad (ongeveer 80-100 THB).",
-      "bestTimeToVisit": "Chiang Khan is het best te bezoeken tijdens het koele seizoen van november tot februari, wanneer de temperaturen aangenaam zijn (15-25°C) en de Mekong kalm is. Oktober brengt het einde van het regenseizoen — de rivier staat op z'n hoogst en meest dramatisch, maar verwacht middagonweersbuien (ze gaan snel voorbij). Het hete seizoen (maart-mei) kan oncomfortabel zijn. Thaise feestdagen en lange weekenden brengen grote aantallen binnenlandse toeristen, dus doordeweeks biedt een rustiger ervaring. De stad organiseert het hele jaar door verschillende tempelfestivals met bootraces en kaarswas-wedstrijden — vraag je hoteleigenaar naar aankomende evenementen.",
-      "safetyTips": "Chiang Khan is een van de veiligste stadjes in Thailand. Het is een kleine, vriendelijke gemeenschap waar criminaliteit tegen toeristen vrijwel ongehoord is. De belangrijkste veiligheidsoverwegingen betreffen de Mekong zelf — tijdens het regenseizoen (juni-oktober) stijgt het waterniveau dramatisch en zijn de stromingen sterk. Zwem nooit in de Mekong. Gebouwen bij de rivier zijn niet voor niets op palen gebouwd — overstromingen zijn mogelijk bij zware regenval. Bij het motorrijden naar nabijgelegen uitkijkpunten zijn de wegen over het algemeen goed, maar let op natte omstandigheden na regen. De stad is zeer rustig en respectvol — alcoholconsumptie is gematigd vergeleken met strandbestemmingen.",
-      "translated_at": "2026-03-09T00:00:00.000Z"
-    },
-    "fr": {
-      "enhanced_description": "Chiang Khan vous accueille avec le rythme lent du Mékong. Ce n'est pas un endroit que l'on traverse en coup de vent — c'est un endroit qui vous apprend à ralentir. La ville est située directement sur la rive du fleuve, là où le puissant Mékong forme la frontière naturelle entre la Thaïlande et le Laos. Walking Street est l'artère principale, bordée de magnifiques maisons traditionnelles en bois qui ont été amoureusement entretenues. Pendant la journée, les vendeurs ambulants proposent des plats uniques à cette région — des choses que vous ne trouverez tout simplement pas à Bangkok. Le soir, la promenade le long du fleuve s'anime avec des bars à bière artisanale, de petits restaurants et les couchers de soleil les plus spectaculaires que vous verrez en Thaïlande. La ville est principalement populaire auprès des touristes thaïlandais, ce qui lui confère une authenticité que beaucoup d'autres destinations ont perdue. Les bâtiments près du fleuve sont construits sur pilotis pour faire face aux crues saisonnières du Mékong — un rappel que ce fleuve est beau mais puissant. Si vous êtes le genre de voyageur qui privilégie les expériences culturelles authentiques aux spots Instagram, Chiang Khan vous volera le cœur.",
-      "overview": "Chiang Khan est l'une des petites villes riveraines les plus charmantes de Thaïlande, perchée sur les rives du puissant Mékong dans la province de Loei. Cette petite ville de l'Isaan est devenue de plus en plus populaire auprès des touristes thaïlandais en quête d'expériences culturelles authentiques, tout en restant agréablement peu commerciale par rapport aux destinations plus célèbres. Le cœur de la ville est sa Walking Street (Soi Sri Chiang Khan), bordée de maisons en bois magnifiquement préservées qui créent une atmosphère chaleureuse et nostalgique. Chaque matin à l'aube, des moines bouddhistes parcourent les rues pour recueillir les aumônes des habitants — une tradition séculaire qui semble bien plus authentique ici qu'à Luang Prabang, très touristique, de l'autre côté du fleuve au Laos. Lorsque le soleil se couche sur le Mékong, peignant le ciel de nuances d'orange et d'or au-dessus du Laos sur la rive opposée, vous comprendrez pourquoi les voyageurs qui découvrent cet endroit jurent toujours d'y revenir.",
-      "thingsToDo": "Commencez votre expérience à Chiang Khan à l'aube avec la cérémonie d'aumône matinale (Tak Bat) à 6h00. Les moines bouddhistes parcourent les rues pour recueillir les offrandes de nourriture — riz, collations et boissons — des habitants. Vous pouvez participer en achetant un panier d'offrandes préparé dans les boutiques le long du parcours (50-100 THB). C'est un moment profondément spirituel et silencieux qui vous relie à des siècles de tradition.\n\nVisitez le Chiang Khan Skywalk, une passerelle en verre surplombant le Mékong avec des vues panoramiques sur la Thaïlande et le Laos (entrée 60 THB/1,70 $). Vous recevrez des chaussons à enfiler par-dessus vos chaussures pour garder le verre propre. La statue dorée du Bouddha et les expositions de masques fantômes traditionnels à l'entrée valent également le détour.\n\nPromenez-vous le long de la promenade fluviale l'après-midi, en alternant entre bars à bière artisanale et petites gargotes. Pour les plus belles vues au coucher du soleil, trouvez un endroit sur la rive — vous regarderez le soleil se coucher directement au-dessus du Laos. Le soir, explorez le marché de nuit de Walking Street (ouvert chaque soir) pour découvrir la cuisine de rue régionale unique (30-100 THB par article) et des souvenirs artisanaux.\n\nSi vous planifiez bien votre visite, vous pourrez assister à l'un des spectaculaires festivals de temples avec des concours de sculpture en cire de bougie entre neuf temples régionaux (dont un de l'autre côté du fleuve au Laos) et des courses de bateaux traditionnelles sur le Mékong.",
-      "whereToStay": "L'hébergement à Chiang Khan va des guesthouses économiques aux charmants hôtels-boutiques. Séjourner sur ou près de Walking Street vous place au cœur de l'action, mais peut être plus cher et plus bruyant, surtout pendant les marchés du soir. Une excellente alternative est de séjourner légèrement en dehors du centre — les hôtels à 10 minutes à pied de Walking Street offrent un meilleur rapport qualité-prix, des nuits plus calmes et souvent de beaux jardins. Le Siong Boutique Hotel est une solide recommandation à 1 100 THB/nuit (30 $), avec un propriétaire anglophone sympathique qui fournit d'excellents conseils locaux sur les courses de bateaux, les villages de soie et les points de vue cachés. Les connaissances locales du propriétaire valent à elles seules le séjour. Réservez à l'avance pendant les jours fériés et festivals thaïlandais, car Chiang Khan est très populaire auprès des touristes nationaux.",
-      "gettingAround": "Chiang Khan est une petite ville qui se parcourt facilement à pied. Walking Street et la promenade fluviale se découvrent aisément à pied. Pour atteindre les points de vue et attractions légèrement en dehors de la ville, la location de scooter est idéale — les routes le long du Mékong sont pittoresques et relativement calmes. La location de scooter coûte généralement 200-300 THB/jour.\n\nL'aéroport le plus proche est l'aéroport de Loei (environ 50 km), avec des vols de correspondance depuis Bangkok via Nok Air ou AirAsia. Le transfert en minivan ou taxi depuis l'aéroport de Loei coûte environ 500-800 THB par personne et dure environ 1 heure. La plupart des visiteurs arrivent en bus depuis Bangkok (8-9 heures, départ du terminal de bus Mo Chit, environ 300-400 THB) ou conduisent depuis d'autres villes de l'Isaan. En road trip à travers l'Isaan, Chiang Khan est à environ 2-3 heures d'Udon Thani. Des songthaews (transports partagés) sont disponibles vers/depuis la ville de Loei (environ 80-100 THB).",
-      "bestTimeToVisit": "Chiang Khan se visite idéalement pendant la saison fraîche de novembre à février, quand les températures sont agréables (15-25°C) et le Mékong est calme. Octobre marque la fin de la saison des pluies — le fleuve est à son niveau le plus haut et le plus spectaculaire, mais attendez-vous à des orages l'après-midi (ils passent rapidement). La saison chaude (mars-mai) peut être inconfortable. Les jours fériés thaïlandais et les longs week-ends attirent de grandes foules de touristes nationaux, donc les jours de semaine offrent une expérience plus paisible. La ville organise plusieurs festivals de temples tout au long de l'année avec des courses de bateaux et des concours de cire de bougie — renseignez-vous auprès de votre hôtelier sur les événements à venir.",
-      "safetyTips": "Chiang Khan est l'une des villes les plus sûres de Thaïlande. C'est une petite communauté amicale où les crimes contre les touristes sont pratiquement inexistants. Les principales considérations de sécurité concernent le Mékong lui-même — pendant la saison des pluies (juin-octobre), le niveau de l'eau monte de façon spectaculaire et les courants sont forts. Ne nagez jamais dans le Mékong. Les bâtiments près du fleuve sont construits sur pilotis pour une bonne raison — les inondations sont possibles lors de fortes pluies. Si vous roulez en scooter vers les points de vue voisins, les routes sont généralement bonnes mais attention aux conditions humides après la pluie. La ville est très calme et respectueuse — la consommation d'alcool est modérée par rapport aux destinations balnéaires.",
-      "translated_at": "2026-03-10T00:00:00.000Z"
-    },
-    "de": {
-      "enhanced_description": "Chiang Khan empfängt dich mit dem langsamen Rhythmus des Mekong. Dies ist kein Ort, den man im Eiltempo durchquert — es ist ein Ort, der dir beibringt, langsamer zu werden. Die Stadt liegt direkt am Flussufer, wo der mächtige Mekong die natürliche Grenze zwischen Thailand und Laos bildet. Die Walking Street ist die Hauptader, gesäumt von wunderschönen traditionellen Holzhäusern, die liebevoll gepflegt werden. Tagsüber servieren Straßenverkäufer Gerichte, die einzigartig für diese Region sind — Dinge, die du in Bangkok schlichtweg nicht findest. Abends erwacht die Promenade am Fluss zum Leben mit Craft-Bier-Bars, kleinen Restaurants und den spektakulärsten Sonnenuntergängen, die du in Thailand erleben wirst. Die Stadt ist hauptsächlich bei thailändischen Touristen beliebt, was ihr ein authentisches Flair verleiht, das viele andere Reiseziele verloren haben. Gebäude am Fluss stehen auf Stelzen, um den saisonalen Überschwemmungen des Mekong standzuhalten — eine Erinnerung daran, dass dieser Fluss schön, aber mächtig ist. Wenn du die Art Reisender bist, die echte kulturelle Erfahrungen über Instagram-Spots stellt, wird Chiang Khan dein Herz erobern.",
-      "overview": "Chiang Khan ist eine der charmantesten Flussstädte Thailands, gelegen an den Ufern des mächtigen Mekong in der Provinz Loei. Diese kleine Isaan-Stadt ist bei thailändischen Touristen auf der Suche nach authentischen kulturellen Erlebnissen immer beliebter geworden, bleibt aber im Vergleich zu berühmteren Reisezielen erfrischend unkommerziell. Das Herz der Stadt ist die Walking Street (Soi Sri Chiang Khan), gesäumt von wunderschön erhaltenen Holzhäusern, die eine warme, nostalgische Atmosphäre schaffen. Jeden Morgen in der Dämmerung ziehen buddhistische Mönche durch die Straßen, um Almosen von den Einheimischen zu sammeln — eine jahrhundertealte Tradition, die sich hier weitaus authentischer anfühlt als im touristischen Luang Prabang auf der anderen Flussseite in Laos. Wenn die Sonne über dem Mekong untergeht und den Himmel in Orange- und Goldtöne über Laos am gegenüberliegenden Ufer taucht, verstehst du, warum Reisende, die diesen Ort entdecken, immer schwören zurückzukehren.",
-      "thingsToDo": "Beginne dein Chiang-Khan-Erlebnis in der Morgendämmerung mit der Almosenzeremonie (Tak Bat) um 6:00 Uhr. Buddhistische Mönche ziehen durch die Straßen und sammeln Essensopfer — Reis, Snacks und Getränke — von Einheimischen. Du kannst teilnehmen, indem du einen vorbereiteten Opferkorb in den Geschäften entlang der Route kaufst (50-100 THB). Es ist ein zutiefst spiritueller, stiller Moment, der dich mit Jahrhunderten von Tradition verbindet.\n\nBesuche den Chiang Khan Skywalk, einen gläsernen Steg, der über den Mekong ragt und Panoramablicke auf Thailand und Laos bietet (Eintritt 60 THB/$1,70). Du bekommst Pantoffeln, die du über deine Schuhe ziehst, um das Glas sauber zu halten. Die goldene Buddha-Statue und die traditionellen Geistermasken-Ausstellungen am Eingang sind ebenfalls sehenswert.\n\nSpaziere nachmittags entlang der Flusspromenade und wechsle zwischen Craft-Bier-Bars und kleinen Lokalen. Für den besten Blick auf den Sonnenuntergang such dir einen Platz am Flussufer — du schaust der Sonne zu, wie sie direkt über Laos untergeht. Abends erkunde den Nachtmarkt auf der Walking Street (jeden Abend geöffnet) für einzigartiges regionales Streetfood (30-100 THB pro Artikel) und handgefertigte Souvenirs.\n\nWenn du deinen Besuch richtig planst, erlebst du vielleicht eines der spektakulären Tempelfestivals mit Kerzenwachs-Tempeldesign-Wettbewerben zwischen neun regionalen Tempeln (darunter einer von der anderen Flussseite in Laos) und traditionellen Bootsrennen auf dem Mekong.",
-      "whereToStay": "Die Unterkünfte in Chiang Khan reichen von Budget-Gästehäusern bis zu charmanten Boutique-Hotels. Direkt auf oder nahe der Walking Street zu übernachten bringt dich ins Herz des Geschehens, kann aber teurer und lauter sein, besonders während der Abendmärkte. Eine großartige Alternative ist es, etwas außerhalb des Zentrums zu übernachten — Hotels, die 10 Gehminuten von der Walking Street entfernt sind, bieten ein besseres Preis-Leistungs-Verhältnis, ruhigere Nächte und oft wunderschöne Gartenanlagen. Das Siong Boutique Hotel ist eine solide Empfehlung für 1.100 THB/Nacht ($30), mit einem freundlichen englischsprachigen Besitzer, der ausgezeichnete lokale Tipps zu Bootsrennen, Seidendörfern und versteckten Aussichtspunkten gibt. Allein das Lokalwissen des Besitzers ist den Aufenthalt wert. Reserviere im Voraus während thailändischer Feiertage und Festivals, da Chiang Khan bei einheimischen Touristen sehr beliebt ist.",
-      "gettingAround": "Chiang Khan ist eine kleine, fußläufig erkundbare Stadt. Die Walking Street und die Flusspromenade lassen sich bequem zu Fuß erkunden. Um Aussichtspunkte und Attraktionen etwas außerhalb der Stadt zu erreichen, ist ein gemieteter Roller ideal — die Straßen entlang des Mekong sind malerisch und relativ ruhig. Ein Roller kostet typischerweise 200-300 THB/Tag.\n\nDer nächstgelegene Flughafen ist der Loei Airport (etwa 50 km entfernt), mit Anschlussflügen von Bangkok über Nok Air oder AirAsia. Ein Minivan- oder Taxitransfer vom Loei Airport kostet etwa 500-800 THB pro Person und dauert ungefähr 1 Stunde. Die meisten Besucher kommen mit dem Bus aus Bangkok (8-9 Stunden, Abfahrt vom Mo Chit Bus Terminal, etwa 300-400 THB) oder fahren aus anderen Isaan-Städten. Bei einem Roadtrip durch den Isaan liegt Chiang Khan etwa 2-3 Stunden von Udon Thani entfernt. Songthaew-Sammeltransporte sind von/nach Loei-Stadt verfügbar (etwa 80-100 THB).",
-      "bestTimeToVisit": "Chiang Khan besucht man am besten in der kühlen Jahreszeit von November bis Februar, wenn die Temperaturen angenehm sind (15-25°C) und der Mekong ruhig fließt. Der Oktober bringt das Ende der Regenzeit — der Fluss steht auf seinem höchsten und dramatischsten Niveau, aber erwarte nachmittägliche Gewitter (die schnell vorüberziehen). Die heiße Jahreszeit (März-Mai) kann unangenehm sein. Thailändische Feiertage und lange Wochenenden bringen große Mengen einheimischer Touristen, daher bieten Wochentage ein ruhigeres Erlebnis. Die Stadt veranstaltet das ganze Jahr über verschiedene Tempelfestivals mit Bootsrennen und Kerzenwachs-Wettbewerben — frag deinen Hotelbesitzer nach bevorstehenden Veranstaltungen.",
-      "safetyTips": "Chiang Khan ist eine der sichersten Städte Thailands. Es ist eine kleine, freundliche Gemeinde, in der Kriminalität gegen Touristen praktisch unbekannt ist. Die wichtigsten Sicherheitsüberlegungen betreffen den Mekong selbst — während der Regenzeit (Juni-Oktober) steigt der Wasserpegel dramatisch und die Strömungen sind stark. Schwimme niemals im Mekong. Die Gebäude am Fluss stehen nicht ohne Grund auf Stelzen — Überschwemmungen sind bei starkem Regen möglich. Beim Rollerfahren zu nahegelegenen Aussichtspunkten sind die Straßen generell gut, aber achte auf nasse Verhältnisse nach Regen. Die Stadt ist sehr ruhig und respektvoll — der Alkoholkonsum ist im Vergleich zu Strandorten moderat.",
-      "translated_at": "2026-03-10T00:00:00.000Z"
-    },
-    "zh": {
-      "enhanced_description": "清刊以湄公河的缓慢节奏迎接你。这不是一个匆匆而过的地方——这是一个教你慢下来的地方。小镇就坐落在河岸边，湄公河在此形成了泰国与老挝之间的天然国界。步行街是主要的街道，两旁排列着被悉心维护的精美传统木屋。白天，街头小贩们供应着这个地区独有的菜肴——在曼谷根本找不到的美味。傍晚时分，沿河的长廊因精酿啤酒吧、小餐馆和你在泰国所能见到的最壮观的日落而活跃起来。小镇主要受泰国本地游客欢迎，赋予了它许多其他目的地已经失去的那份地道感。河边的建筑建在高脚柱上，以应对湄公河的季节性洪水——提醒着人们这条河美丽但充满力量。如果你是那种重视真实文化体验而非网红打卡点的旅行者，清刊会偷走你的心。",
-      "overview": "清刊是泰国最迷人的河畔小镇之一，坐落在黎府湄公河畔。这座依善地区的小镇日益受到寻求地道文化体验的泰国游客的青睐，但与更知名的旅游目的地相比，仍保持着令人耳目一新的非商业化氛围。小镇的核心是步行街（Soi Sri Chiang Khan），两旁保存完好的木屋营造出温馨怀旧的氛围。每天黎明时分，佛教僧侣在街道上化缘，接受当地居民的供养——这一延续了数百年的传统在这里比在河对岸老挝游客扎堆的琅勃拉邦感觉更加真实。当夕阳西沉，在对岸老挝上方的天空中渲染出橙色和金色的霞光时，你就会明白为什么发现这个地方的旅行者总是发誓要再来。",
-      "thingsToDo": "清刊之旅从黎明的晨间布施仪式（Tak Bat）开始，早晨6:00进行。佛教僧侣走过街道，从当地居民那里接受食物、米饭和零食的供养。你可以在沿途商店购买准备好的供养篮参与其中（50-100 THB）。这是一个深具灵性的宁静时刻，将你与数百年的传统连接在一起。\n\n参观清刊天空步道，这是一条伸出湄公河上方的玻璃栈道，可以360度俯瞰泰国和老挝（门票60 THB/$1.70）。你会领到拖鞋套在鞋子外面以保持玻璃清洁。入口处的金色佛像和传统鬼面具展览也值得一看。\n\n下午沿河畔长廊漫步，在精酿啤酒吧和小餐馆之间穿梭。要看最好的日落，在河岸找一个位置——你将看到太阳直接落在老挝上方。晚间探索步行街夜市（每晚营业），品尝独特的地方街头美食（每样30-100 THB）并选购手工纪念品。\n\n如果你的时间恰到好处，或许能赶上一场壮观的寺庙节日，观看九座地方寺庙（包括一座来自河对岸老挝的寺庙）之间的蜡烛雕塑竞赛和湄公河上的传统赛船。",
-      "whereToStay": "清刊的住宿从经济型旅馆到迷人的精品酒店应有尽有。住在步行街上或附近让你身处活动中心，但可能更贵也更嘈杂，尤其是在夜市期间。一个很好的替代方案是住在稍微远离中心的地方——步行街步行10分钟距离的酒店往往性价比更高、夜晚更安静，而且常常有优美的花园环境。Siong Boutique Hotel是一个靠谱的推荐，1,100 THB/晚（$30），老板英语流利且友善，能提供关于赛船、丝绸村和隐秘观景点的出色本地建议。光是老板的本地知识就值回住宿费。泰国假期和节日期间请提前预订，因为清刊在国内游客中非常受欢迎。",
-      "gettingAround": "清刊是一座紧凑的步行小镇。步行街和河畔长廊很容易步行探索。要前往镇外稍远的观景点和景点，租一辆摩托车最为理想——沿湄公河的公路风景优美且相对清静。摩托车租赁通常200-300 THB/天。\n\n最近的机场是黎府机场（约50公里），有Nok Air或AirAsia从曼谷飞来的航班衔接。从黎府机场乘小巴或出租车约500-800 THB/人，约1小时车程。大多数游客从曼谷乘巴士前来（8-9小时，从Mo Chit汽车站出发，约300-400 THB）或从依善地区其他城市驾车前往。如果自驾游依善，清刊距乌隆他尼约2-3小时车程。双条车共享交通可往返黎府城（约80-100 THB）。",
-      "bestTimeToVisit": "清刊最佳游览时间是11月至2月的凉季，气温宜人（15-25°C），湄公河平静流淌。10月是雨季末期——河水处于最高和最壮观的水位，但要预期午后雷阵雨（来得快去得也快）。炎热季节（3-5月）可能令人不适。泰国假期和长周末会带来大量国内游客，因此工作日能获得更安宁的体验。小镇全年举办多个寺庙节日，包括赛船和蜡烛雕塑比赛——向你的酒店老板打听即将到来的活动。",
-      "safetyTips": "清刊是泰国最安全的城镇之一。这是一个友善的小社区，针对游客的犯罪事件几乎闻所未闻。最主要的安全考量涉及湄公河本身——雨季期间（6-10月），水位急剧上涨，水流湍急。切勿在湄公河中游泳。河边建筑建在高脚柱上不是没有原因的——大雨时可能发生洪水。骑摩托车前往附近观景点时，道路总体良好，但注意雨后湿滑路面。小镇非常安静且氛围尊重——与海滩度假地相比，饮酒程度较为温和。",
-      "translated_at": "2026-03-11T00:00:00.000Z"
-    },
-    "ru": {
-      "enhanced_description": "Чиангкхан встречает вас неторопливым ритмом Меконга. Это не то место, через которое проезжают наспех — это место, которое учит замедляться. Городок стоит прямо на берегу реки, где могучий Меконг образует естественную границу между Таиландом и Лаосом. Пешеходная улица (Walking Street) — главная артерия, обрамлённая великолепными традиционными деревянными домами, которые бережно поддерживаются в прекрасном состоянии. Днём уличные торговцы подают блюда, уникальные для этого региона — те, что вы просто не найдёте в Бангкоке. Вечером набережная оживает крафтовыми пивными, маленькими ресторанчиками и самыми впечатляющими закатами, которые вы увидите в Таиланде. Городок популярен прежде всего среди тайских туристов, что придаёт ему подлинную атмосферу, утраченную многими другими направлениями. Здания у реки построены на сваях, чтобы выдерживать сезонные разливы Меконга — напоминание о том, что эта река красива, но могуча. Если вы из тех путешественников, кто ценит настоящий культурный опыт больше, чем инстаграмные точки, Чиангкхан покорит ваше сердце.",
-      "overview": "Чиангкхан — один из самых очаровательных прибрежных городков Таиланда, расположившийся на берегах могучего Меконга в провинции Лёй. Этот маленький исанский городок становится всё более популярным среди тайских туристов, ищущих подлинный культурный опыт, но остаётся освежающе некоммерческим по сравнению с более известными направлениями. Сердце города — Пешеходная улица (Soi Sri Chiang Khan), обрамлённая прекрасно сохранившимися деревянными домами, создающими тёплую, ностальгическую атмосферу. Каждое утро на рассвете буддийские монахи проходят по улицам, собирая подаяние у местных жителей — многовековая традиция, которая ощущается здесь гораздо более аутентичной, чем в переполненном туристами Луангпхабанге на другом берегу реки в Лаосе. Когда солнце садится над Меконгом, окрашивая небо в оттенки оранжевого и золотого над Лаосом на противоположном берегу, вы поймёте, почему путешественники, открывшие это место, всегда клянутся вернуться.",
-      "thingsToDo": "Начните знакомство с Чиангкханом на рассвете с утренней церемонии подаяния (Так Бат) в 6:00 утра. Буддийские монахи проходят по улицам, собирая подношения еды, риса и угощений от местных жителей. Вы можете принять участие, купив готовую корзинку с подношениями в магазинах вдоль маршрута (50-100 THB). Это глубоко духовный, тихий момент, соединяющий вас с многовековой традицией.\n\nПосетите Чиангкхан Скайуолк — стеклянную дорожку, выступающую над Меконгом с панорамными видами на Таиланд и Лаос (вход 60 THB/$1.70). Вам выдадут тапочки, чтобы надеть поверх обуви для чистоты стекла. Золотая статуя Будды и экспозиция традиционных масок духов у входа тоже заслуживают внимания.\n\nДнём прогуляйтесь по речной набережной, заходя в крафтовые пивные и маленькие закусочные. Для лучших видов на закат найдите место на берегу реки — вы будете наблюдать, как солнце садится прямо над Лаосом. Вечером исследуйте ночной рынок Пешеходной улицы (работает каждый вечер) с уникальной региональной уличной едой (30-100 THB за блюдо) и ремесленными сувенирами.\n\nЕсли повезёт со временем, вы можете застать один из впечатляющих храмовых фестивалей с конкурсами восковых скульптур между девятью региональными храмами (включая один из Лаоса через реку) и традиционными гонками на лодках по Меконгу.",
-      "whereToStay": "Размещение в Чиангкхане варьируется от бюджетных гостевых домов до очаровательных бутик-отелей. Проживание на Пешеходной улице или рядом с ней помещает вас в самый центр событий, но может быть дороже и шумнее, особенно во время вечерних рынков. Отличная альтернатива — остановиться чуть в стороне от центра: отели в 10 минутах ходьбы от Walking Street предлагают лучшее соотношение цены и качества, более тихие ночи и часто красивую садовую обстановку. Siong Boutique Hotel — надёжная рекомендация за 1,100 THB/ночь ($30), с дружелюбным англоговорящим владельцем, который даёт отличные местные советы о лодочных гонках, шёлковых деревнях и скрытых смотровых площадках. Одни только знания владельца стоят проживания. Бронируйте заранее в тайские праздники и фестивали, так как Чиангкхан очень популярен среди местных туристов.",
-      "gettingAround": "Чиангкхан — маленький городок, удобный для прогулок пешком. Пешеходная улица и речная набережная легко исследуются пешком. Для поездок к смотровым площадкам и достопримечательностям чуть за городом идеально подойдёт арендованный мотобайк — дороги вдоль Меконга живописны и относительно спокойны. Аренда мотобайка обычно 200-300 THB/день.\n\nБлижайший аэропорт — аэропорт Лёй (примерно 50 км), с рейсами из Бангкока от Nok Air или AirAsia. Трансфер на минивэне или такси из аэропорта Лёй стоит около 500-800 THB с человека и занимает примерно 1 час. Большинство посетителей приезжают автобусом из Бангкока (8-9 часов, отправление с автовокзала Mo Chit, около 300-400 THB) или едут из других городов Исана. При автопутешествии по Исану Чиангкхан находится в 2-3 часах от Удонтхани. Общий транспорт на сонгтэо доступен до/от города Лёй (около 80-100 THB).",
-      "bestTimeToVisit": "Лучшее время для посещения Чиангкхана — прохладный сезон с ноября по февраль, когда температуры приятные (15-25°C) и Меконг спокоен. Октябрь — конец сезона дождей: река на самом высоком и впечатляющем уровне, но ожидайте послеобеденные грозы (они проходят быстро). Жаркий сезон (март-май) может быть некомфортным. Тайские праздники и длинные выходные приносят большие толпы местных туристов, поэтому будни обеспечат более спокойный опыт. В городе проходят несколько храмовых фестивалей в течение года с лодочными гонками и конкурсами восковых скульптур — узнайте у владельца отеля о предстоящих событиях.",
-      "safetyTips": "Чиангкхан — один из самых безопасных городков Таиланда. Это маленькое, дружелюбное сообщество, где преступления против туристов практически неслыханны. Главные соображения безопасности касаются самого Меконга — в сезон дождей (июнь-октябрь) уровень воды резко поднимается, а течения становятся сильными. Никогда не плавайте в Меконге. Здания у реки стоят на сваях не просто так — наводнения возможны при сильных дождях. При поездке на мотобайке к ближайшим смотровым площадкам дороги в целом хорошие, но следите за мокрыми поверхностями после дождя. Городок очень тихий и уважительный — употребление алкоголя умеренное по сравнению с пляжными курортами.",
-      "translated_at": "2026-03-11T00:00:00.000Z"
-    },
-    "ko": {
-      "enhanced_description": "치앙칸은 메콩의 느린 리듬으로 당신을 맞이합니다. 서둘러 지나갈 곳이 아니라 — 느려지는 법을 가르쳐주는 곳입니다. 마을은 강둑 바로 위에 자리하며, 위대한 메콩이 태국과 라오스의 자연 국경을 이룹니다. 워킹 스트리트가 주요 동맥으로, 정성스럽게 관리된 아름다운 전통 목조 가옥이 늘어서 있습니다. 낮에는 길거리 음식 상인들이 이 지역에서만 맛볼 수 있는 — 방콕에서는 절대 찾을 수 없는 요리를 내놓습니다. 저녁에는 강변 산책로가 수제 맥주 바, 작은 레스토랑, 그리고 태국에서 볼 수 있는 가장 장관인 일몰로 활기를 띱니다. 마을은 주로 태국 관광객에게 인기가 있어 다른 많은 여행지가 잃어버린 진정성을 느낄 수 있습니다. 강변 건물들은 메콩의 계절적 범람에 대비해 높은 기둥 위에 지어져 있어 — 이 강이 아름답지만 강력하다는 것을 상기시킵니다.",
-      "hidden_gems": [],
-      "authentic_experiences": [],
-      "foodie_adventures": [],
-      "overview": "치앙칸은 태국에서 가장 매력적인 강변 마을 중 하나로, 르이 주의 위대한 메콩 강둑 위에 자리합니다. 이 작은 이산 마을은 진정한 문화 체험을 원하는 태국 관광객 사이에서 점점 인기가 높아지고 있지만, 더 유명한 여행지에 비해 상업화되지 않은 상쾌함을 유지합니다. 마을의 심장은 아름답게 보존된 목조 가옥이 늘어서 따뜻하고 향수 어린 분위기를 만드는 워킹 스트리트(소이 시리치앙칸)입니다. 매일 새벽 불교 승려들이 거리를 걸으며 현지인들에게서 탁발을 받습니다 — 강 건너 라오스의 관광객 많은 루앙프라방보다 훨씬 진정성 있게 느껴지는 수세기 된 전통입니다. 메콩 너머로 해가 지며 맞은편 라오스 위 하늘을 주황빛과 금빛으로 물들이는 것을 보면, 이곳을 발견한 여행자들이 왜 항상 돌아오겠다고 다짐하는지 이해하게 될 것입니다.",
-      "thingsToDo": "치앙칸 경험은 오전 6시 아침 탁발 의식(탁밧)으로 시작하세요. 불교 승려들이 거리를 걸으며 현지인들에게서 음식, 쌀, 간식을 공양받습니다. 경로 상의 가게에서 준비된 공양 바구니(50-100바트)를 구매하여 참여할 수 있습니다. 수세기의 전통과 연결되는 깊이 영적이고 조용한 순간입니다.\n\n치앙칸 스카이워크를 방문하세요 — 메콩 위로 돌출된 유리 통로로 태국과 라오스 양쪽의 파노라마 전망을 제공합니다(입장료 60바트/$1.70). 유리를 깨끗하게 유지하기 위해 신발 위에 신을 슬리퍼를 받습니다. 입구의 황금 불상과 전통 귀신 가면 전시도 볼 만합니다.\n\n오후에는 강변 산책로를 따라 수제 맥주 바와 작은 식당을 돌아다니세요. 최고의 일몰 전망을 위해 강둑에 자리를 잡으세요 — 라오스 바로 위로 해가 지는 것을 보게 됩니다. 저녁에는 워킹 스트리트의 야시장(매일 운영)에서 독특한 지역 길거리 음식(품목당 30-100바트)과 수공예 기념품을 탐험하세요.\n\n방문 시기를 잘 맞추면, 9개 지역 사원(강 건너 라오스의 사원 포함) 간의 양초 밀랍 사원 디자인 대회와 메콩에서의 전통 보트 경주가 있는 장관의 사원 축제를 볼 수 있습니다.",
-      "whereToStay": "치앙칸의 숙소는 버짓 게스트하우스부터 매력적인 부티크 호텔까지 다양합니다. 워킹 스트리트 위나 근처에 머무르면 중심에 있지만 더 비싸고 시끄러울 수 있으며, 특히 저녁 시장 시간에 그렇습니다. 좋은 대안은 중심에서 약간 벗어나 머무르는 것입니다 — 워킹 스트리트에서 도보 10분 거리의 호텔이 더 좋은 가성비, 조용한 밤, 종종 아름다운 정원 환경을 제공합니다. 시옹 부티크 호텔은 1박 1,100바트($30)으로 추천할 만하며, 보트 경주, 실크 마을, 숨겨진 전망대에 대한 훌륭한 현지 팁을 제공하는 친절한 영어 구사 주인이 있습니다. 태국 공휴일과 축제 기간에는 미리 예약하세요 — 치앙칸은 국내 관광객에게 매우 인기 있습니다.",
-      "gettingAround": "치앙칸은 도보로 다닐 수 있는 작은 마을입니다. 메인 워킹 스트리트와 강변 산책로는 걸어서 쉽게 탐험할 수 있습니다. 마을 외곽의 전망대와 명소에 가려면 오토바이 대여가 이상적입니다 — 메콩을 따라가는 도로는 경치가 좋고 비교적 조용합니다. 오토바이 대여는 보통 하루 200-300바트입니다.\n\n가장 가까운 공항은 르이 공항(약 50km 거리)으로, 방콕에서 녹에어나 에어아시아 연결편이 있습니다. 르이 공항에서 미니밴이나 택시 이동은 1인 약 500-800바트, 약 1시간 소요됩니다. 대부분의 방문자는 방콕에서 버스(8-9시간, 모칫 버스 터미널 출발, 약 300-400바트)로 오거나 다른 이산 도시에서 운전해 옵니다. 이산 로드트립 중이라면 치앙칸은 우돈타니에서 약 2-3시간 거리입니다. 르이 시내와의 쏭태우 공유 교통이 가능합니다(약 80-100바트).",
-      "bestTimeToVisit": "치앙칸은 11월부터 2월까지의 시원한 시즌에 방문하기 가장 좋으며, 기온이 쾌적하고(15-25°C) 메콩이 잔잔합니다. 10월은 우기의 끝으로 — 강이 가장 높고 극적이지만, 오후 뇌우를 예상하세요(빨리 지나갑니다). 더운 시즌(3-5월)은 불편할 수 있습니다. 태국 공휴일과 연휴에는 대규모 국내 관광객이 몰려오므로, 평일이 더 평화로운 경험을 제공합니다. 마을은 연중 여러 사원 축제를 개최하며 보트 경주와 양초 밀랍 대회가 있습니다 — 호텔 주인에게 다가오는 행사를 물어보세요.",
-      "safetyTips": "치앙칸은 태국에서 가장 안전한 마을 중 하나입니다. 관광객 대상 범죄가 거의 들어본 적 없는 작고 친절한 공동체입니다. 주요 안전 고려사항은 메콩 강 자체입니다 — 우기(6-10월)에 수위가 급격히 올라가고 물살이 강합니다. 절대로 메콩에서 수영하지 마세요. 강변 건물이 높은 기둥 위에 지어진 데는 이유가 있습니다 — 폭우 시 범람이 가능합니다. 근처 전망대까지 오토바이를 탈 경우, 도로는 대체로 양호하지만 비 후 젖은 노면에 주의하세요. 마을은 매우 조용하고 예의 바릅니다 — 해변 여행지에 비해 음주가 절제적입니다.",
-      "translated_at": "2026-03-14T00:00:00.000Z"
-    }
-  },
-  "extended_description": "## Overview\nPerched on the banks of the Mekong in far-northern Loei Province, Chiang Khan is the kind of place that makes you question why you ever bothered with beach resorts. This small Isaan town moves at the rhythm of the river — slow, deliberate, and deeply peaceful. Its Walking Street (Soi Sri Chiang Khan) is lined with beautifully preserved wooden houses, now home to craft cafes, small galleries, and street food vendors who serve dishes you will not find anywhere else in Thailand. What sets Chiang Khan apart is authenticity: the morning alms giving ceremony (Tak Bat) here is a genuine daily ritual practiced by locals, not a tourist performance. The sunsets over the Mekong, with Laos visible on the far bank, are among the most beautiful in Southeast Asia. Overwhelmingly popular with Thai tourists but still under the radar for most foreign visitors, Chiang Khan offers genuine cultural immersion at a fraction of the cost of more famous destinations.\n\n## Best Time to Visit\nThe cool season (November to February) is unquestionably the best time, with morning temperatures dipping to 15°C and pleasant daytime highs of 25°C. Chiang Khan's Phu Tok viewpoint is famous for its sea of fog at sunrise during these months — a spectacle worth waking at 5am for. March to May brings intense heat (35-40°C) that makes riverside walks uncomfortable. The rainy season (June-October) swells the Mekong dramatically — the river at high water is impressive but flooding occasionally affects riverside areas. Thai long weekends and holidays bring massive domestic crowds; visit on weekdays for a quieter experience.\n\n## How to Get There\nFrom Bangkok, the most comfortable option is to fly to Loei Airport (1 hour 15 minutes, 1,200-3,000 THB on Nok Air or AirAsia) and then take a minivan or taxi to Chiang Khan (50 km, 1 hour, 500-800 THB per person). Direct buses run from Bangkok's Mo Chit Terminal (8-9 hours, 300-500 THB, several departures daily). Songthaews from Loei bus station to Chiang Khan cost just 30-80 THB and run frequently until 4pm. If road-tripping through Isaan, Chiang Khan is 2-3 hours from Udon Thani and 5 hours from Khon Kaen.\n\n## Where to Stay\nWalking Street and its immediate surroundings have the most character — converted wooden shophouses now serve as boutique guesthouses from 800-2,000 THB/night ($22-55). The trade-off is evening market noise. Hotels 10 minutes' walk from Walking Street offer better value and quieter nights, with garden settings from 500-1,200 THB ($14-33). The Siong Boutique Hotel (around 1,100 THB/night) is a local favorite with an English-speaking owner who shares insider tips on boat races and hidden viewpoints. Budget guesthouses in central Chiang Khan start at 350-700 THB ($10-20). Book well ahead for Thai holidays — Chiang Khan fills up fast with domestic tourists.\n\n## What to Do\nWake at 5:30am for the morning alms giving ceremony (Tak Bat) — Buddhist monks walk through the streets collecting rice and food offerings from kneeling locals. You can participate by purchasing an offering basket (50-100 THB) from shops along the route. Visit the Chiang Khan Skywalk (entrance 60 THB), a glass walkway extending over the Mekong with panoramic views of Thailand and Laos, plus a golden Buddha statue and traditional ghost mask displays at the entrance. Climb Phu Tok mountain (3 km from town) at dawn to watch the famous sea of fog blanket the valley below — one of the most photographed scenes in Isaan. Walk the Mekong River promenade in the afternoon, hopping between craft beer bars and small riverside restaurants. Explore Walking Street's nightly market for regional street food (30-100 THB per item), handmade textiles, and coconut ice cream. Ride a motorbike to Kaeng Khut Khu rapids (20 km east), where the Mekong narrows over dramatic rock formations.\n\n## Food & Dining\nChiang Khan's food reflects its position at the crossroads of Isaan, Lao, and Vietnamese culinary traditions. The Walking Street night market is the main event, with vendors serving unique local dishes like khao piak sen (thick handmade noodles in pork broth), grilled Mekong river fish, and Vietnamese-influenced spring rolls — most items 30-100 THB. Vieng Viet restaurant serves authentic Vietnamese food that rivals anything across the border in Laos. Chit Somtum is locally famous for fiery Isaan papaya salad. Riverside restaurants serve cold beer and grilled meats with Mekong sunset views — expect 150-300 THB for a full meal with drinks. Do not miss the coconut ice cream sold from vintage-style carts along Walking Street (30-50 THB).\n\n## Budget Guide\nChiang Khan is wonderfully affordable. Backpackers easily manage on 500-1,000 THB/day ($14-28): budget guesthouse, street food, walking everywhere, and the 60 THB Skywalk. Mid-range travelers spend 1,500-2,500 THB/day ($42-69): comfortable hotel, riverside dining, motorbike rental, and Mekong boat trips. Luxury is relative here — the best rooms top out at 2,000 THB ($55) and the finest restaurant meal under 500 THB.\n\n## Safety & Tips\nChiang Khan is one of the safest places in Thailand — petty crime against tourists is virtually nonexistent. The main hazard is the Mekong River itself: never swim in it, especially during rainy season when currents are deadly strong. If renting a motorbike (200-300 THB/day) to reach Phu Tok or Kaeng Khut Khu, watch for wet roads after rain. The town is quiet and respectful — heavy drinking and loud behavior are uncommon here, unlike beach destinations. Pack layers for cool-season mornings — temperatures can genuinely feel cold at dawn along the river.",
-  "getting_there": {
-    "from_bangkok": {
-      "method": "fly to Loei + minivan, or direct bus",
-      "duration": "2.5h via flight / 8-9h bus",
-      "cost": "$9-85"
-    },
-    "airport": "Loei Airport (50 km away, flights from Bangkok on Nok Air/AirAsia)"
-  },
-  "best_time": {
-    "peak": "Nov-Feb",
-    "shoulder": "Mar-May",
-    "low": "Jun-Oct",
-    "best_months": "Nov-Feb",
-    "why": "Cool mornings (15°C) perfect for the sea of fog at Phu Tok viewpoint, comfortable walking weather, and calm Mekong sunsets."
-  },
-  "budget": {
-    "backpacker": "$14-28/day",
-    "mid_range": "$42-69/day",
-    "luxury": "$55+/day",
-    "typical_meal": "30-100 THB street food, 150-300 THB restaurant with drinks"
-  },
-  "neighborhoods": [
-    {
-      "name": "Walking Street (Soi Sri Chiang Khan)",
-      "vibe": "Heritage charm, night market bustle",
-      "best_for": "First-timers, culture lovers",
-      "price_range": "$22-55/night"
-    },
-    {
-      "name": "Quiet area (10 min walk from Walking Street)",
-      "vibe": "Peaceful, garden settings",
-      "best_for": "Light sleepers, value seekers",
-      "price_range": "$14-33/night"
-    },
-    {
-      "name": "Mekong Riverfront",
-      "vibe": "Sunset views, riverside restaurants",
-      "best_for": "Romantic stays, photographers",
-      "price_range": "$20-55/night"
-    }
-  ],
-  "must_try_food": [
-    "Khao piak sen - thick handmade rice noodles in pork broth, a Lao-influenced comfort dish unique to this region (40-60 THB)",
-    "Grilled Mekong river fish - whole fish charcoal-grilled and served with spicy Isaan dipping sauces at riverside restaurants (80-150 THB)",
-    "Coconut ice cream from vintage carts on Walking Street - creamy, fresh, served in a coconut shell with toppings (30-50 THB)"
-  ],
-  "local_tips": [
-    "Wake at 5:30am for the alms giving ceremony — it starts at 6am and lasts about 30 minutes, concentrated along Walking Street",
-    "Climb Phu Tok (3 km from town) before sunrise for the famous sea of fog — bring a headlamp and warm layers in cool season",
-    "Visit on weekdays to avoid the massive Thai domestic tourist crowds that flood Chiang Khan on long weekends",
-    "Secure your sunset riverside table 30 minutes before golden hour — the best spots fill up fast",
-    "The Siong Boutique Hotel owner is a goldmine of local knowledge about boat races, silk villages, and hidden viewpoints"
-  ],
-  "day_trips": [
-    "Kaeng Khut Khu Rapids (20 km east) - dramatic Mekong rock formations with restaurants and viewpoints",
-    "Phu Ruea National Park (60 km south) - mountain trails reaching 1,365m with Thailand's coldest recorded temperature",
-    "Phu Kradueng National Park (90 km south) - iconic flat-topped mountain with highland meadows, a classic Thai hiking destination",
-    "Dan Sai (80 km southwest) - home of the famous Phi Ta Khon ghost mask festival"
-  ],
-  "enriched_at": "2026-03-22"
+  "enrichedAt": "2026-03-26T00:00:00.000Z",
+  "factchecked_at": "2026-03-26T00:00:00.000Z"
 }

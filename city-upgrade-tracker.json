@@ -36,8 +36,8 @@
     },
     {
       "slug": "chiang-khan",
-      "status": "pending",
-      "notes": ""
+      "status": "done",
+      "notes": "English city cluster rebuilt with source-backed Mekong town copy, curated food and hotel picks, stale editorial leak removed, and validated with jq, tsc, and localhost render checks."
     },
     {
       "slug": "chiang-mai",
