@@ -26,8 +26,8 @@
     },
     {
       "slug": "bueng-kan",
-      "status": "pending",
-      "notes": ""
+      "status": "done",
+      "notes": "English city cluster rebuilt with source-backed province copy, curated top-10 files, strong support-page links only, and validated with jq, tsc, and localhost render checks."
     },
     {
       "slug": "chanthaburi",

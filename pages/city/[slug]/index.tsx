@@ -906,40 +906,40 @@ export default function CityPage({ city, relatedCities, comparisons, transportLi
                   </div>
                 </div>
 
-                {/* Experiences Cross-Links */}
+                {/* Strong support-page cross-links */}
                 <div className="my-8 rounded-[30px] border border-gray-100 bg-white p-7 shadow-[0_18px_44px_rgba(15,23,42,0.06)]">
                   <div className="mb-5">
                     <span className="inline-flex items-center rounded-full bg-thailand-blue/10 px-3 py-1 text-xs font-semibold uppercase tracking-[0.18em] text-thailand-blue">
-                      Do More
+                      Plan Smarter
                     </span>
                     <h3 className="mt-3 text-2xl font-heading font-bold text-gray-900">
-                      Experiences in {city.name.en}
+                      Stronger Guides for {city.name.en}
                     </h3>
                   </div>
                   <div className="grid grid-cols-2 sm:grid-cols-4 gap-4">
                     <Link
-                      href={`/city/${city.slug}/cooking-classes/`}
+                      href={`/city/${city.slug}/best-time-to-visit/`}
                       className="flex items-center gap-3 rounded-[24px] border border-gray-100 bg-slate-50/70 p-4 hover:-translate-y-1 hover:bg-white hover:shadow-md transition-all text-sm font-medium text-gray-800"
                     >
-                      <span className="text-lg">👨‍🍳</span><span>Cooking Classes</span>
+                      <span className="text-lg">🗓️</span><span>Best Time</span>
                     </Link>
                     <Link
-                      href={`/city/${city.slug}/muay-thai/`}
+                      href={`/city/${city.slug}/budget/`}
                       className="flex items-center gap-3 rounded-[24px] border border-gray-100 bg-slate-50/70 p-4 hover:-translate-y-1 hover:bg-white hover:shadow-md transition-all text-sm font-medium text-gray-800"
                     >
-                      <span className="text-lg">🥊</span><span>Muay Thai</span>
+                      <span className="text-lg">💸</span><span>Budget Guide</span>
                     </Link>
                     <Link
-                      href={`/city/${city.slug}/diving-snorkeling/`}
+                      href={`/city/${city.slug}/food/`}
                       className="flex items-center gap-3 rounded-[24px] border border-gray-100 bg-slate-50/70 p-4 hover:-translate-y-1 hover:bg-white hover:shadow-md transition-all text-sm font-medium text-gray-800"
                     >
-                      <span className="text-lg">🤿</span><span>Diving</span>
+                      <span className="text-lg">🍽️</span><span>Where to Eat</span>
                     </Link>
                     <Link
-                      href={`/city/${city.slug}/elephant-sanctuaries/`}
+                      href={`/city/${city.slug}/hotels/`}
                       className="flex items-center gap-3 rounded-[24px] border border-gray-100 bg-slate-50/70 p-4 hover:-translate-y-1 hover:bg-white hover:shadow-md transition-all text-sm font-medium text-gray-800"
                     >
-                      <span className="text-lg">🐘</span><span>Elephants</span>
+                      <span className="text-lg">🛏️</span><span>Where to Stay</span>
                     </Link>
                   </div>
                 </div>

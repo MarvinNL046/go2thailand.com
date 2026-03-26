@@ -1,179 +1,127 @@
 {
-  "title": "Top 9 Restaurants in Bueng Kan — Real Reviews & Ratings",
-  "meta_description": "The 9 best restaurants in Bueng Kan, Thailand with real ratings and guest reviews from tripadvisor. Updated 2026-03-08.",
-  "intro": "Discover the best restaurants in Bueng Kan, Thailand. These recommendations are based on real guest reviews and ratings from tripadvisor.",
+  "title": "Best Restaurants in Bueng Kan Thailand (2026)",
+  "meta_description": "Where to eat in Bueng Kan for 2026: Mekong riverside dinners, Krua Ban Pa, Thai-Lao Market mornings, and the best Bueng Khong Long meal stops.",
+  "intro": "Bueng Kan is not a province where restaurant quality is best measured by ratings or international-name density. The better question is where eating actually improves the trip. In practice that means one proper Mekong dinner in town, one market breakfast with border-town context, and a few dependable stops around Bueng Khong Long if Naka Cave or the lake area are part of the route. These are the Bueng Kan food picks that are worth planning around.",
   "items": [
     {
       "rank": 1,
-      "name": "Riverside Restaurant&Bar Bungkan",
-      "description": "Riverside Restaurant&Bar Bungkan is a 3.4-rated Steak restaurant in Bueng Kan.",
-      "location": "Bueng Kan",
-      "highlights": [],
-      "insider_tips": [],
-      "current_info": "Cuisine: Steak • Rating: 3.4/5 • 8 reviews",
-      "scraped": {
-        "source": "tripadvisor",
-        "cuisine": "Steak",
-        "rating": 3.4,
-        "review_count": 8,
-        "scraped_at": "2026-03-08T17:15:27.107Z"
-      },
-      "trip_affiliate_url": "https://tp.media/r?marker=602467&trs=421888&p=7631&u=https%3A%2F%2Fwww.trip.com%2Fhotels%2Flist%3Fkeyword%3DRiverside%2520Restaurant%2526Bar%2520Bungkan%2520Bueng%2520Kan"
+      "name": "Krua Ban Pa",
+      "description": "A route-worthy Thai and Isaan meal stop that belongs to a Bueng Kan itinerary rather than functioning as generic highway fallback food.",
+      "location": "Bueng Kan route stop",
+      "current_price": "Budget to mid-range",
+      "highlights": [
+        "Included in TAT's Bueng Kan route",
+        "Useful planned meal stop",
+        "Better than random roadside dining"
+      ],
+      "current_info": "Best used as part of a district day rather than as a special detour by itself."
     },
     {
       "rank": 2,
-      "name": "KFC",
-      "description": "KFC is a 3.6-rated American, European restaurant in Bueng Kan.",
-      "location": "Bueng Kan",
-      "current_price": "$",
-      "highlights": [],
-      "insider_tips": [],
-      "current_info": "Cuisine: American, European • Price: $ • Rating: 3.6/5 • 7 reviews",
-      "scraped": {
-        "source": "tripadvisor",
-        "cuisine": "American, European",
-        "price_range": "$",
-        "rating": 3.6,
-        "review_count": 7,
-        "scraped_at": "2026-03-08T17:15:27.107Z"
-      },
-      "trip_affiliate_url": "https://tp.media/r?marker=602467&trs=421888&p=7631&u=https%3A%2F%2Fwww.trip.com%2Fhotels%2Flist%3Fkeyword%3DKFC%2520Bueng%2520Kan"
+      "name": "Thanon Khao Mao riverside restaurants",
+      "description": "The most reliable general food zone in Bueng Kan town for Mekong views and shared local dishes.",
+      "location": "Bueng Kan town river road",
+      "current_price": "Budget to mid-range",
+      "highlights": [
+        "Mekong-facing tables",
+        "Best evening dining area in town",
+        "Good for fish and Isaan staples"
+      ],
+      "current_info": "Use this stretch when you want the river view to matter as much as the meal."
     },
     {
       "rank": 3,
-      "name": "Ran At Size Nai Bem",
-      "description": "Ran At Size Nai Bem is a Brew Pub, Pub restaurant in Bueng Kan.",
-      "location": "Bueng Kan",
-      "highlights": [],
-      "insider_tips": [],
-      "current_info": "Cuisine: Brew Pub, Pub",
-      "scraped": {
-        "source": "tripadvisor",
-        "cuisine": "Brew Pub, Pub",
-        "review_count": 0,
-        "scraped_at": "2026-03-08T17:15:27.107Z"
-      },
-      "trip_affiliate_url": "https://tp.media/r?marker=602467&trs=421888&p=7631&u=https%3A%2F%2Fwww.trip.com%2Fhotels%2Flist%3Fkeyword%3DRan%2520At%2520Size%2520Nai%2520Bem%2520Bueng%2520Kan"
+      "name": "Thai-Lao Market",
+      "description": "A better food-context stop than many formal restaurants if you want Bueng Kan to feel like a working border province.",
+      "location": "Bueng Kan Road",
+      "current_price": "Budget",
+      "highlights": [
+        "Strong border-market atmosphere",
+        "Morning-only value",
+        "Best for breakfast and snack grazing"
+      ],
+      "current_info": "Go early on market days and treat it as breakfast rather than as a sit-down lunch substitute."
     },
     {
       "rank": 4,
-      "name": "Mk suki",
-      "description": "Mk suki is a 3.6-rated Chinese, Thai restaurant in Bueng Kan.",
-      "location": "Bueng Kan",
-      "current_price": "$$ - $$$",
-      "highlights": [],
-      "insider_tips": [],
-      "current_info": "Cuisine: Chinese, Thai • Price: $$ - $$$ • Rating: 3.6/5 • 14 reviews",
-      "scraped": {
-        "source": "tripadvisor",
-        "cuisine": "Chinese, Thai",
-        "price_range": "$$ - $$$",
-        "rating": 3.6,
-        "review_count": 14,
-        "scraped_at": "2026-03-08T17:15:27.107Z"
-      },
-      "trip_affiliate_url": "https://tp.media/r?marker=602467&trs=421888&p=7631&u=https%3A%2F%2Fwww.trip.com%2Fhotels%2Flist%3Fkeyword%3DMk%2520suki%2520Bueng%2520Kan"
+      "name": "Z Cafe & Restaurant",
+      "description": "A practical Bueng Khong Long stop for coffee, breakfast, or a lighter meal when your day is structured around the lake area or Naka Cave.",
+      "location": "Zenery Lake Resort, Bueng Khong Long",
+      "current_price": "Budget to mid-range",
+      "highlights": [
+        "Useful lake-area meal stop",
+        "Works well with overnight stays",
+        "Low-friction start or finish to a hiking day"
+      ],
+      "current_info": "Best for travelers already based near Bueng Khong Long rather than for a province-wide detour."
     },
     {
       "rank": 5,
-      "name": "NaemNueng Khun-Or",
-      "description": "NaemNueng Khun-Or is a 4-rated Asian, Thai restaurant in Bueng Kan.",
-      "location": "Bueng Kan",
-      "highlights": [],
-      "insider_tips": [],
-      "current_info": "Cuisine: Asian, Thai • Rating: 4/5 • 3 reviews",
-      "scraped": {
-        "source": "tripadvisor",
-        "cuisine": "Asian, Thai",
-        "rating": 4,
-        "review_count": 3,
-        "scraped_at": "2026-03-08T17:15:27.107Z"
-      },
-      "trip_affiliate_url": "https://tp.media/r?marker=602467&trs=421888&p=7631&u=https%3A%2F%2Fwww.trip.com%2Fhotels%2Flist%3Fkeyword%3DNaemNueng%2520Khun-Or%2520Bueng%2520Kan"
+      "name": "Bueng Kan Living Community Museum meal stop",
+      "description": "A context-led local meal option that works if your route already includes the museum and surrounding community stops.",
+      "location": "Community museum route",
+      "current_price": "Varies by arrangement",
+      "highlights": [
+        "Best for local context",
+        "Pairs with community tourism",
+        "More meaningful than polished dining"
+      ],
+      "current_info": "Treat this as a pre-planned community stop rather than a guaranteed walk-in restaurant."
     },
     {
       "rank": 6,
-      "name": "The King Kong - Bueng Kan",
-      "description": "The King Kong - Bueng Kan is a 5-rated Cafe, International restaurant in Bueng Kan.",
-      "location": "Bueng Kan",
-      "highlights": [],
-      "insider_tips": [],
-      "current_info": "Cuisine: Cafe, International • Rating: 5/5 • 1 reviews",
-      "scraped": {
-        "source": "tripadvisor",
-        "cuisine": "Cafe, International",
-        "rating": 5,
-        "review_count": 1,
-        "scraped_at": "2026-03-08T17:15:27.107Z"
-      },
-      "trip_affiliate_url": "https://tp.media/r?marker=602467&trs=421888&p=7631&u=https%3A%2F%2Fwww.trip.com%2Fhotels%2Flist%3Fkeyword%3DThe%2520King%2520Kong%2520-%2520Bueng%2520Kan%2520Bueng%2520Kan"
-    },
-    {
-      "rank": 7,
-      "name": "Auan Ped Yang",
-      "description": "Auan Ped Yang is a 4-rated  restaurant in Bueng Kan.",
-      "location": "Bueng Kan",
-      "highlights": [],
-      "insider_tips": [],
-      "current_info": "Rating: 4/5 • 1 reviews",
-      "scraped": {
-        "source": "tripadvisor",
-        "rating": 4,
-        "review_count": 1,
-        "scraped_at": "2026-03-08T17:15:27.107Z"
-      },
-      "trip_affiliate_url": "https://tp.media/r?marker=602467&trs=421888&p=7631&u=https%3A%2F%2Fwww.trip.com%2Fhotels%2Flist%3Fkeyword%3DAuan%2520Ped%2520Yang%2520Bueng%2520Kan"
-    },
-    {
-      "rank": 8,
-      "name": "Mr. House Italian Restaurant & Resort",
-      "description": "Mr. House Italian Restaurant & Resort is a 4.6-rated Italian, Pizza restaurant in Bueng Kan. located at Pak Khat.",
-      "location": "Pak Khat",
-      "current_price": "$$ - $$$",
-      "highlights": [],
-      "insider_tips": [],
-      "current_info": "Cuisine: Italian, Pizza • Price: $$ - $$$ • Rating: 4.6/5 • 41 reviews",
-      "scraped": {
-        "source": "tripadvisor",
-        "cuisine": "Italian, Pizza",
-        "price_range": "$$ - $$$",
-        "rating": 4.6,
-        "review_count": 41,
-        "address": "Pak Khat",
-        "scraped_at": "2026-03-08T17:15:27.107Z"
-      },
-      "trip_affiliate_url": "https://tp.media/r?marker=602467&trs=421888&p=7631&u=https%3A%2F%2Fwww.trip.com%2Fhotels%2Flist%3Fkeyword%3DMr.%2520House%2520Italian%2520Restaurant%2520%2526%2520Resort%2520Bueng%2520Kan"
-    },
-    {
-      "rank": 9,
-      "name": "Le Dragon Bleu Restaurant & Bar",
-      "description": "Le Dragon Bleu Restaurant & Bar is a 4.3-rated French, Pizza restaurant in Bueng Kan. located at Pak Khat.",
-      "location": "Pak Khat",
-      "current_price": "$$ - $$$",
-      "highlights": [],
-      "insider_tips": [],
-      "current_info": "Cuisine: French, Pizza • Price: $$ - $$$ • Rating: 4.3/5 • 6 reviews",
-      "scraped": {
-        "source": "tripadvisor",
-        "cuisine": "French, Pizza",
-        "price_range": "$$ - $$$",
-        "rating": 4.3,
-        "review_count": 6,
-        "address": "Pak Khat",
-        "scraped_at": "2026-03-08T17:15:27.107Z"
-      },
-      "trip_affiliate_url": "https://tp.media/r?marker=602467&trs=421888&p=7631&u=https%3A%2F%2Fwww.trip.com%2Fhotels%2Flist%3Fkeyword%3DLe%2520Dragon%2520Bleu%2520Restaurant%2520%2526%2520Bar%2520Bueng%2520Kan"
+      "name": "Lake House Naka Cave dining",
+      "description": "A practical small-stay dining option for travelers who are already overnighting near Bueng Khong Long and want to avoid unnecessary road time for dinner.",
+      "location": "Lake House Naka Cave, Bueng Khong Long",
+      "current_price": "Mid-range",
+      "highlights": [
+        "Convenient for nearby stays",
+        "Good for early starts and slow evenings",
+        "Pairs naturally with Naka-focused itineraries"
+      ],
+      "current_info": "Most useful as part of the property-stay rhythm rather than as a province-wide destination meal."
     }
   ],
   "city_slug": "bueng-kan",
   "city_name": "Bueng Kan",
   "category": "restaurants",
-  "data_sources": [
-    "tripadvisor",
-    "scraped"
+  "content_sources": [
+    {
+      "title": "Bueng Kan",
+      "creator": "Tourism Authority of Thailand",
+      "url": "https://www.tourismthailand.org/Destinations/Provinces/Bueng-Kan/590",
+      "description": "Used for province-level food framing including Mekong fish and local Isaan cuisine."
+    },
+    {
+      "title": "3 Days 2 Nights : Recommended Route in Bueng Kan",
+      "creator": "Tourism Authority of Thailand",
+      "url": "https://www.tourismthailand.org/Trip-Planner/Suggestion-Detail/3-days-2-nights-recommended-route-in-bueng-kan",
+      "description": "Used for Krua Ban Pa and the official Bueng Kan route structure."
+    },
+    {
+      "title": "Bueng Kan TAT Guide (PDF)",
+      "creator": "Tourism Authority of Thailand",
+      "url": "https://patricklepetit.jalbum.net/BUENG%20KAN/LIBRARY/Bueng%20Khan%20TAT%202020.pdf",
+      "description": "Used for Thai-Lao Market timing, riverside restaurant-strip context, and local food framing."
+    },
+    {
+      "title": "Zenery Lake Resort",
+      "creator": "Zenery Lake Resort",
+      "url": "https://www.facebook.com/zenery.lake.resort/",
+      "description": "Used for Z Cafe & Restaurant as an official Bueng Khong Long dining reference."
+    },
+    {
+      "title": "Lake House Naka Cave",
+      "creator": "Lake House ถ้ำนาคา",
+      "url": "https://www.facebook.com/LakehouseNakaCave/",
+      "description": "Used for lake-area stay-and-dining context near Bueng Khong Long."
+    }
   ],
-  "last_scraped": "2026-03-08T17:15:27.107Z",
-  "generated_at": "2026-03-08T17:15:27.117Z",
-  "hybrid": false,
-  "scraped": true
+  "data_sources": [
+    "Tourism Authority of Thailand",
+    "Official venue pages"
+  ],
+  "generated_at": "2026-03-26T00:00:00.000Z",
+  "factchecked_at": "2026-03-26T00:00:00.000Z",
+  "hybrid": false
 }
