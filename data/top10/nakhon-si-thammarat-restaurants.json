@@ -1,208 +1,143 @@
 {
   "title": "Best Restaurants in Nakhon Si Thammarat Thailand (2026)",
-  "meta_description": "The 10 best restaurants in Nakhon Si Thammarat, Thailand with real ratings and guest reviews from tripadvisor. Updated 2026-03-08.",
-  "intro": "Discover the best restaurants in Nakhon Si Thammarat, Thailand. These recommendations are based on real guest reviews and ratings from tripadvisor.",
+  "meta_description": "The Nakhon Si Thammarat restaurants that actually matter: proper khanom jeen and Kopi breakfasts, one strong southern-curry lunch, the temple-side roti layer, and a few official hotel backups.",
+  "intro": "Nakhon Si Thammarat food gets stronger when you stop thinking in terms of generic dinner rankings. This city works through breakfast institutions, a serious southern lunch or dinner, one old-quarter evening, and only a limited role for hotel dining.",
   "items": [
     {
       "rank": 1,
-      "name": "Kinkanom Nakornsithammarat",
-      "description": "Kinkanom Nakornsithammarat is a 4.9-rated Japanese, Steakhouse restaurant in Nakhon Si Thammarat.",
-      "location": "Nakhon Si Thammarat",
-      "current_price": "$$$$",
-      "highlights": [],
-      "insider_tips": [],
-      "current_info": "Cuisine: Japanese, Steakhouse • Price: $$$$ • Rating: 4.9/5 • 35 reviews",
-      "scraped": {
-        "source": "tripadvisor",
-        "cuisine": "Japanese, Steakhouse",
-        "price_range": "$$$$",
-        "rating": 4.9,
-        "review_count": 35,
-        "scraped_at": "2026-03-08T17:17:41.206Z"
-      },
-      "trip_affiliate_url": "https://tp.media/r?marker=602467&trs=421888&p=7631&u=https%3A%2F%2Fwww.trip.com%2Fhotels%2Flist%3Fkeyword%3DKinkanom%2520Nakornsithammarat%2520Nakhon%2520Si%2520Thammarat"
+      "name": "Khanom Jeen Mae Yai Sen Sod Namya Puma",
+      "description": "One of the strongest breakfast-led food picks in town if you want the day to start with something clearly local.",
+      "location": "Nakhon town",
+      "current_price": "Budget",
+      "highlights": [
+        "Strong khanom jeen breakfast logic",
+        "Good first meal in the city",
+        "Better than hotel-buffet defaulting"
+      ],
+      "insider_tips": [
+        "Use this early and keep it as part of a real city morning rather than a rushed takeaway stop."
+      ],
+      "current_info": "A better first food move than generic brunch if the point is to understand Nakhon's southern breakfast identity."
     },
     {
       "rank": 2,
-      "name": "krua Nai Nang",
-      "description": "krua Nai Nang is a 4.2-rated Asian, Thai restaurant in Nakhon Si Thammarat.",
-      "location": "Nakhon Si Thammarat",
-      "current_price": "$$ - $$$",
-      "highlights": [],
-      "insider_tips": [],
-      "current_info": "Cuisine: Asian, Thai • Price: $$ - $$$ • Rating: 4.2/5 • 63 reviews",
-      "scraped": {
-        "source": "tripadvisor",
-        "cuisine": "Asian, Thai",
-        "price_range": "$$ - $$$",
-        "rating": 4.2,
-        "review_count": 63,
-        "scraped_at": "2026-03-08T17:17:41.206Z"
-      },
-      "trip_affiliate_url": "https://tp.media/r?marker=602467&trs=421888&p=7631&u=https%3A%2F%2Fwww.trip.com%2Fhotels%2Flist%3Fkeyword%3Dkrua%2520Nai%2520Nang%2520Nakhon%2520Si%2520Thammarat"
+      "name": "Kopi",
+      "description": "A more established and useful breakfast institution than a generic cafe when you want Chinese-Thai city food culture to show up properly.",
+      "location": "Nakhon Si Thammarat branches",
+      "current_price": "Budget to mid-range",
+      "highlights": [
+        "Long-running city institution",
+        "Good breakfast-and-coffee stop",
+        "Useful before Kiriwong or old-town touring"
+      ],
+      "insider_tips": [
+        "Treat this as a breakfast move rather than a late-day coffee plan."
+      ],
+      "current_info": "One of the easiest ways to make the food side feel grounded in the city rather than interchangeable."
     },
     {
       "rank": 3,
-      "name": "Kopi",
-      "description": "Kopi is a 4.2-rated Cafe, Asian restaurant in Nakhon Si Thammarat.",
-      "location": "Nakhon Si Thammarat",
-      "current_price": "$$ - $$$",
-      "highlights": [],
-      "insider_tips": [],
-      "current_info": "Cuisine: Cafe, Asian • Price: $$ - $$$ • Rating: 4.2/5 • 128 reviews",
-      "scraped": {
-        "source": "tripadvisor",
-        "cuisine": "Cafe, Asian",
-        "price_range": "$$ - $$$",
-        "rating": 4.2,
-        "review_count": 128,
-        "scraped_at": "2026-03-08T17:17:41.206Z"
-      },
-      "trip_affiliate_url": "https://tp.media/r?marker=602467&trs=421888&p=7631&u=https%3A%2F%2Fwww.trip.com%2Fhotels%2Flist%3Fkeyword%3DKopi%2520Nakhon%2520Si%2520Thammarat"
+      "name": "Chao Ruer",
+      "description": "A stronger southern-curry lunch or dinner when the priority is actual regional cooking rather than atmosphere-led filler.",
+      "location": "Nakhon town",
+      "current_price": "Mid-range",
+      "highlights": [
+        "TAT-backed southern-food reference",
+        "Good for a real sit-down meal",
+        "Better than defaulting to hotel dining too early"
+      ],
+      "insider_tips": [
+        "Use this for one deliberate southern meal and let breakfast or market eating carry the rest of the city story."
+      ],
+      "current_info": "A useful meal when you want sharper southern flavor without overcomplicating the day's route."
     },
     {
       "rank": 4,
-      "name": "Kanomcheen Mueang Kon",
-      "description": "Kanomcheen Mueang Kon is a 4.3-rated Thai restaurant in Nakhon Si Thammarat.",
-      "location": "Nakhon Si Thammarat",
-      "current_price": "$$ - $$$",
-      "highlights": [],
-      "insider_tips": [],
-      "current_info": "Cuisine: Thai • Price: $$ - $$$ • Rating: 4.3/5 • 33 reviews",
-      "scraped": {
-        "source": "tripadvisor",
-        "cuisine": "Thai",
-        "price_range": "$$ - $$$",
-        "rating": 4.3,
-        "review_count": 33,
-        "scraped_at": "2026-03-08T17:17:41.206Z"
-      },
-      "trip_affiliate_url": "https://tp.media/r?marker=602467&trs=421888&p=7631&u=https%3A%2F%2Fwww.trip.com%2Fhotels%2Flist%3Fkeyword%3DKanomcheen%2520Mueang%2520Kon%2520Nakhon%2520Si%2520Thammarat"
+      "name": "Roti Bang Bao",
+      "description": "A good old-quarter evening stop if you want the temple-side district to stay part of the trip after dark.",
+      "location": "Old town near Wat Phra Mahathat",
+      "current_price": "Budget",
+      "highlights": [
+        "Strong temple-side evening context",
+        "Useful roti-and-tea layer",
+        "Best as part of a walkable old-town evening"
+      ],
+      "insider_tips": [
+        "This works best when combined with temple-district walking rather than as a destination meal across town."
+      ],
+      "current_info": "A better use of the old-quarter evening than generic restaurant hopping."
     },
     {
       "rank": 5,
-      "name": "CasanovaNakhon",
-      "description": "CasanovaNakhon is a 5-rated Italian, Steakhouse restaurant in Nakhon Si Thammarat.",
-      "location": "Nakhon Si Thammarat",
-      "current_price": "$$ - $$$",
-      "highlights": [],
-      "insider_tips": [],
-      "current_info": "Cuisine: Italian, Steakhouse • Price: $$ - $$$ • Rating: 5/5 • 13 reviews",
-      "scraped": {
-        "source": "tripadvisor",
-        "cuisine": "Italian, Steakhouse",
-        "price_range": "$$ - $$$",
-        "rating": 5,
-        "review_count": 13,
-        "scraped_at": "2026-03-08T17:17:41.206Z"
-      },
-      "trip_affiliate_url": "https://tp.media/r?marker=602467&trs=421888&p=7631&u=https%3A%2F%2Fwww.trip.com%2Fhotels%2Flist%3Fkeyword%3DCasanovaNakhon%2520Nakhon%2520Si%2520Thammarat"
+      "name": "Kiriwong River View",
+      "description": "The lunch stop that makes the Kiriwong side of the province feel like a real day rather than a scenic photo run.",
+      "location": "Ban Khiriwong",
+      "current_price": "Budget to mid-range",
+      "highlights": [
+        "Useful Kiriwong lunch anchor",
+        "Village-setting meal",
+        "Best on the mountain-side day"
+      ],
+      "insider_tips": [
+        "Keep this tied to a Kiriwong day instead of forcing it into a city-only schedule."
+      ],
+      "current_info": "A strong fit if your one outer-city direction is the Kiriwong and Phromlok side."
     },
     {
       "rank": 6,
-      "name": "Chao Rua Restaurant",
-      "description": "Chao Rua Restaurant is a 4.4-rated Thai restaurant in Nakhon Si Thammarat.",
-      "location": "Nakhon Si Thammarat",
-      "current_price": "$$ - $$$",
-      "highlights": [],
-      "insider_tips": [],
-      "current_info": "Cuisine: Thai • Price: $$ - $$$ • Rating: 4.4/5 • 17 reviews",
-      "scraped": {
-        "source": "tripadvisor",
-        "cuisine": "Thai",
-        "price_range": "$$ - $$$",
-        "rating": 4.4,
-        "review_count": 17,
-        "scraped_at": "2026-03-08T17:17:41.206Z"
-      },
-      "trip_affiliate_url": "https://tp.media/r?marker=602467&trs=421888&p=7631&u=https%3A%2F%2Fwww.trip.com%2Fhotels%2Flist%3Fkeyword%3DChao%2520Rua%2520Restaurant%2520Nakhon%2520Si%2520Thammarat"
+      "name": "Cafe De Nakhon",
+      "description": "A sensible official hotel-dining fallback when timing or weather makes convenience the priority.",
+      "location": "Grand Fortune Hotel Nakhon Si Thammarat",
+      "current_price": "Mid-range",
+      "highlights": [
+        "Official dining page",
+        "Useful practical backup",
+        "Good for arrival-night or departure-day timing"
+      ],
+      "insider_tips": [
+        "Use it when logistics matter, not as the main expression of the city's food identity."
+      ],
+      "current_info": "Practical and source-backed, but better treated as backup than headline dining."
     },
     {
       "rank": 7,
-      "name": "Krua Talay",
-      "description": "Krua Talay is a 4.8-rated Seafood, Thai restaurant in Nakhon Si Thammarat.",
-      "location": "Nakhon Si Thammarat",
-      "current_price": "$$ - $$$",
-      "highlights": [],
-      "insider_tips": [],
-      "current_info": "Cuisine: Seafood, Thai • Price: $$ - $$$ • Rating: 4.8/5 • 6 reviews",
-      "scraped": {
-        "source": "tripadvisor",
-        "cuisine": "Seafood, Thai",
-        "price_range": "$$ - $$$",
-        "rating": 4.8,
-        "review_count": 6,
-        "scraped_at": "2026-03-08T17:17:41.206Z"
-      },
-      "trip_affiliate_url": "https://tp.media/r?marker=602467&trs=421888&p=7631&u=https%3A%2F%2Fwww.trip.com%2Fhotels%2Flist%3Fkeyword%3DKrua%2520Talay%2520Nakhon%2520Si%2520Thammarat"
-    },
-    {
-      "rank": 8,
-      "name": "Bang Bao Roti & Tea",
-      "description": "Bang Bao Roti & Tea is a 4-rated Thai restaurant in Nakhon Si Thammarat.",
-      "location": "Nakhon Si Thammarat",
-      "current_price": "$$ - $$$",
-      "highlights": [],
-      "insider_tips": [],
-      "current_info": "Cuisine: Thai • Price: $$ - $$$ • Rating: 4/5 • 6 reviews",
-      "scraped": {
-        "source": "tripadvisor",
-        "cuisine": "Thai",
-        "price_range": "$$ - $$$",
-        "rating": 4,
-        "review_count": 6,
-        "scraped_at": "2026-03-08T17:17:41.206Z"
-      },
-      "trip_affiliate_url": "https://tp.media/r?marker=602467&trs=421888&p=7631&u=https%3A%2F%2Fwww.trip.com%2Fhotels%2Flist%3Fkeyword%3DBang%2520Bao%2520Roti%2520%2526%2520Tea%2520Nakhon%2520Si%2520Thammarat"
-    },
-    {
-      "rank": 9,
-      "name": "Rock 99 Bar and Grill",
-      "description": "Rock 99 Bar and Grill is a 4.8-rated Thai restaurant in Nakhon Si Thammarat.",
-      "location": "Nakhon Si Thammarat",
-      "current_price": "$$ - $$$",
-      "highlights": [],
-      "insider_tips": [],
-      "current_info": "Cuisine: Thai • Price: $$ - $$$ • Rating: 4.8/5 • 4 reviews",
-      "scraped": {
-        "source": "tripadvisor",
-        "cuisine": "Thai",
-        "price_range": "$$ - $$$",
-        "rating": 4.8,
-        "review_count": 4,
-        "scraped_at": "2026-03-08T17:17:41.206Z"
-      },
-      "trip_affiliate_url": "https://tp.media/r?marker=602467&trs=421888&p=7631&u=https%3A%2F%2Fwww.trip.com%2Fhotels%2Flist%3Fkeyword%3DRock%252099%2520Bar%2520and%2520Grill%2520Nakhon%2520Si%2520Thammarat"
-    },
-    {
-      "rank": 10,
-      "name": "Thai Ocha Restaurant",
-      "description": "Thai Ocha Restaurant is a 4.3-rated Thai restaurant in Nakhon Si Thammarat.",
-      "location": "Nakhon Si Thammarat",
-      "current_price": "$$ - $$$",
-      "highlights": [],
-      "insider_tips": [],
-      "current_info": "Cuisine: Thai • Price: $$ - $$$ • Rating: 4.3/5 • 3 reviews",
-      "scraped": {
-        "source": "tripadvisor",
-        "cuisine": "Thai",
-        "price_range": "$$ - $$$",
-        "rating": 4.3,
-        "review_count": 3,
-        "scraped_at": "2026-03-08T17:17:41.206Z"
-      },
-      "trip_affiliate_url": "https://tp.media/r?marker=602467&trs=421888&p=7631&u=https%3A%2F%2Fwww.trip.com%2Fhotels%2Flist%3Fkeyword%3DThai%2520Ocha%2520Restaurant%2520Nakhon%2520Si%2520Thammarat"
+      "name": "Fha Shai Restaurant",
+      "description": "A hotel-based formal dinner fallback when you want a cleaner dining room and do not want to build the evening around the old quarter.",
+      "location": "Grand Fortune Hotel Nakhon Si Thammarat",
+      "current_price": "Mid-range to upscale",
+      "highlights": [
+        "Official dining page",
+        "Convenient full-service hotel setting",
+        "Good if weather narrows the evening plan"
+      ],
+      "insider_tips": [
+        "Keep this to one convenience-led dinner if you are staying nearby."
+      ],
+      "current_info": "Useful when convenience matters, but the city's real food identity still sits with breakfast and old-town eating."
     }
   ],
   "city_slug": "nakhon-si-thammarat",
   "city_name": "Nakhon Si Thammarat",
   "category": "restaurants",
-  "data_sources": [
-    "tripadvisor",
-    "scraped"
+  "content_sources": [
+    {
+      "title": "3 Days in Nakhon Si Thammarat Beyond the Sea",
+      "creator": "Tourism Authority of Thailand",
+      "url": "https://www.tourismthailand.org/Articles/https-www-tourismthailand-org-articles-3daysinnakhonsithammaratbeyondthesea",
+      "description": "Used for named local restaurant curation including Kopi, Chao Ruer, Roti Bang Bao, Kiriwong River View, and Khanom Jeen Mae Yai."
+    },
+    {
+      "title": "Dining | Grand Fortune Hotel Nakhon Si Thammarat",
+      "creator": "Fortune Hotel Group",
+      "url": "https://www.fortunehotelgroup.com/grand-fortune-hotel/en/dining/",
+      "description": "Used for official hotel dining references including Cafe De Nakhon and Fha Shai."
+    }
   ],
-  "last_scraped": "2026-03-08T17:17:41.206Z",
-  "generated_at": "2026-03-08T17:17:41.215Z",
-  "hybrid": false,
-  "scraped": true
+  "data_sources": [
+    "Tourism Authority of Thailand",
+    "Official hotel dining page"
+  ],
+  "generated_at": "2026-03-26T00:00:00.000Z",
+  "factchecked_at": "2026-03-26T00:00:00.000Z",
+  "hybrid": false
 }

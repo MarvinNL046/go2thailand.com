@@ -1,223 +1,163 @@
 {
   "city_slug": "nakhon-si-thammarat",
   "city_name": "Nakhon Si Thammarat",
-  "total_attractions": 9,
+  "total_attractions": 6,
   "attractions": [
     {
       "id": 1,
-      "slug": "wat-phra-mahathat",
+      "slug": "wat-phra-mahathat-woramahawihan",
       "name": {
         "en": "Wat Phra Mahathat Woramahawihan",
         "nl": "Wat Phra Mahathat Woramahawihan"
       },
       "type": "temple",
-      "image": "/images/cities/phuket/phuket-old-town.webp",
+      "image": "/images/cities/generated/nakhon-si-thammarat.webp",
       "description": {
-        "en": "One of the most important temples in southern Thailand with a gold-topped chedi housing a sacred Buddha relic",
-        "nl": "Een van de belangrijkste tempels in Zuid-Thailand met een goud-getopte chedi die een heilige Boeddha-relikwie herbergt"
+        "en": "Nakhon's defining temple complex and the strongest first stop in the city core.",
+        "nl": "Het bepalende tempelcomplex van Nakhon en de sterkste eerste stop in de stadskern."
       },
       "entrance_fee": {
-        "thb": 0,
-        "usd": 0
+        "thb": null,
+        "usd": null
       },
       "highlights": [
-        "55-meter gold chedi",
-        "Buddha relic",
-        "Ancient cloisters"
+        "Essential first stop",
+        "Historic chedi complex",
+        "Best city-core anchor"
       ],
-      "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=Wat%20Phra%20Mahathat%20Woramahawihan%20Nakhon%20Si%20Thammarat%20Thailand"
+      "best_time": "morning or late afternoon",
+      "duration_hours": 2,
+      "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=Wat%20Phra%20Mahathat%20Woramahawihan%20Nakhon%20Si%20Thammarat"
     },
     {
       "id": 2,
-      "slug": "shadow-puppet-museum",
+      "slug": "ban-nang-talung-suchart-subsin",
       "name": {
-        "en": "Suchart Subsin Shadow Puppet Museum",
-        "nl": "Suchart Subsin Schimmenspel Museum"
+        "en": "Ban Nang Talung Suchart Subsin",
+        "nl": "Ban Nang Talung Suchart Subsin"
       },
-      "type": "museum",
-      "image": "/images/cities/phuket/phuket-old-town.webp",
+      "type": "cultural",
+      "image": "/images/cities/generated/nakhon-si-thammarat.webp",
       "description": {
-        "en": "Workshop and museum of a legendary shadow puppet family with live nang talung performances and puppet-making demonstrations",
-        "nl": "Werkplaats en museum van een legendarische schimmenspelfamilie met live nang talung optredens en demonstraties van poppenmakerij"
+        "en": "The shadow-puppet craft and performance stop that gives the city real cultural depth beyond the temple core.",
+        "nl": "De schaduwpoppen- en ambachtsstop die de stad echte culturele diepte geeft naast de tempelkern."
       },
       "entrance_fee": {
-        "thb": 100,
-        "usd": 3
+        "thb": null,
+        "usd": null
       },
       "highlights": [
-        "Live puppet performances",
-        "Puppet-making workshop",
-        "Centuries-old tradition"
+        "Live craft tradition",
+        "Best culture add-on",
+        "Strong local identity"
       ],
-      "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=Suchart%20Subsin%20Shadow%20Puppet%20Museum%20Nakhon%20Si%20Thammarat%20Thailand"
+      "best_time": "daytime by arrangement",
+      "duration_hours": 1.5,
+      "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=Ban%20Nang%20Talung%20Suchart%20Subsin%20Nakhon%20Si%20Thammarat"
     },
     {
       "id": 3,
-      "slug": "kiriwong-village",
+      "slug": "ban-tan-khun-ratthawut-wichan",
       "name": {
-        "en": "Kiriwong Village",
-        "nl": "Kiriwong Dorp"
+        "en": "Ban Tan Khun Ratthawut Wichan",
+        "nl": "Ban Tan Khun Ratthawut Wichan"
       },
-      "type": "cultural",
-      "image": "/images/cities/phuket/phuket-old-town.webp",
+      "type": "historical",
+      "image": "/images/cities/generated/nakhon-si-thammarat.webp",
       "description": {
-        "en": "Thailand's best ozone village at the base of Khao Luang mountain with clean air, fruit orchards, and batik workshops",
-        "nl": "Thailand's beste ozon-dorp aan de voet van de Khao Luang berg met schone lucht, fruitboomgaarden en batik workshops"
+        "en": "A preserved heritage house that turns the temple district into a fuller old-town sequence.",
+        "nl": "Een bewaard erfgoedhuis dat het tempeldistrict tot een completere old-townroute maakt."
       },
       "entrance_fee": {
-        "thb": 0,
-        "usd": 0
+        "thb": null,
+        "usd": null
       },
       "highlights": [
-        "Cleanest air in Thailand",
-        "Batik dyeing workshops",
-        "Fruit orchards"
+        "Historic pan-ya house",
+        "Best old-town companion stop",
+        "Useful heritage contrast"
       ],
-      "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=Kiriwong%20Village%20Nakhon%20Si%20Thammarat%20Thailand"
+      "best_time": "morning or early afternoon",
+      "duration_hours": 1,
+      "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=Ban%20Tan%20Khun%20Ratthawut%20Wichan%20Nakhon%20Si%20Thammarat"
     },
     {
       "id": 4,
-      "slug": "khao-luang-national-park",
+      "slug": "nakhon-si-thammarat-national-museum",
       "name": {
-        "en": "Khao Luang National Park",
-        "nl": "Khao Luang Nationaal Park"
+        "en": "Nakhon Si Thammarat National Museum",
+        "nl": "Nationaal Museum van Nakhon Si Thammarat"
       },
-      "type": "nature",
-      "image": "/images/cities/phuket/phuket-old-town.webp",
+      "type": "museum",
+      "image": "/images/cities/generated/nakhon-si-thammarat.webp",
       "description": {
-        "en": "Vast national park with southern Thailand's highest peak, pristine rainforest, and the spectacular Krung Ching waterfall",
-        "nl": "Uitgestrekt nationaal park met de hoogste piek van Zuid-Thailand, ongerept regenwoud en de spectaculaire Krung Ching waterval"
+        "en": "The museum stop that gives the city's Buddhist and regional history stronger context.",
+        "nl": "De museumstop die de boeddhistische en regionale geschiedenis van de stad sterkere context geeft."
       },
       "entrance_fee": {
-        "thb": 200,
-        "usd": 6
+        "thb": null,
+        "usd": null
       },
       "highlights": [
-        "Krung Ching waterfall",
-        "Pristine rainforest",
-        "Rare wildlife"
+        "Best history-context stop",
+        "Useful after the temple",
+        "Good for heritage-heavy trips"
       ],
-      "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=Khao%20Luang%20National%20Park%20Nakhon%20Si%20Thammarat%20Thailand"
+      "best_time": "morning or early afternoon",
+      "duration_hours": 1.5,
+      "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=Nakhon%20Si%20Thammarat%20National%20Museum"
     },
     {
       "id": 5,
-      "slug": "nakhon-city-wall",
+      "slug": "ban-khiriwong",
       "name": {
-        "en": "Nakhon Si Thammarat City Wall",
-        "nl": "Nakhon Si Thammarat Stadsmuur"
+        "en": "Ban Khiriwong",
+        "nl": "Ban Khiriwong"
       },
-      "type": "cultural",
-      "image": "/images/cities/phuket/phuket-old-town.webp",
+      "type": "nature",
+      "image": "/images/cities/generated/nakhon-si-thammarat.webp",
       "description": {
-        "en": "Remnants of the ancient city fortification dating back to the Srivijaya period with a restored gate and park",
-        "nl": "Overblijfselen van de oude stadsvestiging daterend uit de Srivijaya-periode met een gerestaureerde poort en park"
+        "en": "The strongest village-and-mountain extension from town and the cleanest outer-city day from Nakhon.",
+        "nl": "De sterkste dorp-en-berguitstap vanuit de stad en de schoonste buitenstaddag vanuit Nakhon."
       },
       "entrance_fee": {
         "thb": 0,
         "usd": 0
       },
       "highlights": [
-        "Ancient Srivijaya ruins",
-        "Restored north gate",
-        "Historic park"
+        "Best outer-city village route",
+        "Good for cycling and lunch",
+        "Pairs with Phromlok"
       ],
-      "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=Nakhon%20Si%20Thammarat%20City%20Wall%20Nakhon%20Si%20Thammarat%20Thailand"
+      "best_time": "morning into lunch",
+      "duration_hours": 4,
+      "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=Ban%20Khiriwong%20Nakhon%20Si%20Thammarat"
     },
     {
       "id": 6,
-      "slug": "nakhon-national-museum",
+      "slug": "phromlok-waterfall",
       "name": {
-        "en": "Nakhon Si Thammarat National Museum",
-        "nl": "Nakhon Si Thammarat Nationaal Museum"
-      },
-      "type": "museum",
-      "image": "/images/cities/phuket/phuket-old-town.webp",
-      "description": {
-        "en": "Museum housing artifacts from the Srivijaya and Dvaravati periods including ancient Buddha images and local art",
-        "nl": "Museum met artefacten uit de Srivijaya- en Dvaravati-periodes, waaronder oude Boeddhabeelden en lokale kunst"
-      },
-      "entrance_fee": {
-        "thb": 150,
-        "usd": 4
-      },
-      "highlights": [
-        "Srivijaya artifacts",
-        "Ancient Buddha images",
-        "Southern Thai art"
-      ],
-      "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=Nakhon%20Si%20Thammarat%20National%20Museum%20Nakhon%20Si%20Thammarat%20Thailand"
-    },
-    {
-      "id": 7,
-      "slug": "bovorn-bazaar-night-market",
-      "name": {
-        "en": "Bovorn Bazaar Night Market",
-        "nl": "Bovorn Bazaar Nachtmarkt"
-      },
-      "type": "market",
-      "image": "/images/cities/phuket/phuket-old-town.webp",
-      "description": {
-        "en": "Authentic local night market with southern Thai street food including grilled squid, khanom jeen, and traditional desserts",
-        "nl": "Authentieke lokale nachtmarkt met Zuid-Thais straatvoedsel waaronder gegrilde inktvis, khanom jeen en traditionele desserts"
-      },
-      "entrance_fee": {
-        "thb": 0,
-        "usd": 0
-      },
-      "highlights": [
-        "Southern Thai street food",
-        "Grilled seafood",
-        "Zero tourist presence"
-      ],
-      "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=Bovorn%20Bazaar%20Night%20Market%20Nakhon%20Si%20Thammarat%20Thailand"
-    },
-    {
-      "id": 8,
-      "slug": "wat-wang-tawan-tok",
-      "name": {
-        "en": "Wat Wang Tawan Tok",
-        "nl": "Wat Wang Tawan Tok"
-      },
-      "type": "temple",
-      "image": "/images/cities/phuket/phuket-old-town.webp",
-      "description": {
-        "en": "Historic temple with exquisite Ayutthaya-period murals depicting Jataka tales and southern Thai art traditions",
-        "nl": "Historische tempel met prachtige muurschilderingen uit de Ayutthaya-periode die Jataka-verhalen en Zuid-Thaise kunsttradities uitbeelden"
-      },
-      "entrance_fee": {
-        "thb": 0,
-        "usd": 0
-      },
-      "highlights": [
-        "Ayutthaya-period murals",
-        "Jataka tale paintings",
-        "Southern Thai art"
-      ],
-      "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=Wat%20Wang%20Tawan%20Tok%20Nakhon%20Si%20Thammarat%20Thailand"
-    },
-    {
-      "id": 9,
-      "slug": "krung-ching-waterfall",
-      "name": {
-        "en": "Krung Ching Waterfall",
-        "nl": "Krung Ching Waterval"
+        "en": "Phromlok Waterfall",
+        "nl": "Phromlok-waterval"
       },
       "type": "nature",
-      "image": "/images/cities/phuket/phuket-old-town.webp",
+      "image": "/images/cities/generated/nakhon-si-thammarat.webp",
       "description": {
-        "en": "Magnificent multi-tiered waterfall deep in Khao Luang National Park reached via a 4 km jungle trail",
-        "nl": "Prachtige waterval met meerdere niveaus diep in het Khao Luang Nationaal Park bereikbaar via een 4 km junglepad"
+        "en": "The mountain-side waterfall add-on that works best together with a Kiriwong day.",
+        "nl": "De bergwaterval-uitbreiding die het best werkt samen met een dag in Kiriwong."
       },
       "entrance_fee": {
-        "thb": 200,
-        "usd": 6
+        "thb": null,
+        "usd": null
       },
       "highlights": [
-        "4 km jungle hike",
-        "Multi-tiered waterfall",
-        "Old-growth rainforest"
+        "Best waterfall add-on",
+        "Mountain-side atmosphere",
+        "Useful with Kiriwong"
       ],
-      "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=Krung%20Ching%20Waterfall%20Nakhon%20Si%20Thammarat%20Thailand"
+      "best_time": "morning or early afternoon",
+      "duration_hours": 2,
+      "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=Phromlok%20Waterfall%20Nakhon%20Si%20Thammarat"
     }
   ]
 }

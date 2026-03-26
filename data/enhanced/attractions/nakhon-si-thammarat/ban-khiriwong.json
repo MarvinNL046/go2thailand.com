@@ -1,0 +1,77 @@
+{
+  "id": 5,
+  "slug": "ban-khiriwong",
+  "name": {
+    "en": "Ban Khiriwong",
+    "nl": "Ban Khiriwong"
+  },
+  "type": "nature",
+  "city_slug": "nakhon-si-thammarat",
+  "address": "Lan Saka district, Nakhon Si Thammarat, Thailand",
+  "opening_hours": "Village access is generally all day; individual shops and cafes keep their own hours",
+  "entrance_fee": {
+    "thb": 0,
+    "usd": 0
+  },
+  "description": {
+    "en": "The strongest village-and-mountain extension from Nakhon town.",
+    "nl": "De sterkste dorps- en berguitstap vanuit Nakhon-stad."
+  },
+  "highlights": [
+    "Best outer-city village route",
+    "Good for cycling and lunch",
+    "Pairs with Phromlok"
+  ],
+  "image": "/images/cities/generated/nakhon-si-thammarat.webp",
+  "official_website": null,
+  "seo": {
+    "metaTitle": {
+      "en": "Ban Khiriwong | Go2Thailand",
+      "nl": "Ban Khiriwong | Go2Thailand"
+    },
+    "metaDescription": {
+      "en": "Why Ban Khiriwong is the strongest mountain-side extension from Nakhon Si Thammarat and how to use it without overbuilding the day.",
+      "nl": "Waarom Ban Khiriwong de sterkste berguitstap vanuit Nakhon Si Thammarat is en hoe je het gebruikt zonder de dag te overbelasten."
+    }
+  },
+  "tags": [
+    "village",
+    "nature",
+    "kiriwong",
+    "nakhon si thammarat"
+  ],
+  "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=Ban%20Khiriwong%20Nakhon%20Si%20Thammarat",
+  "best_time": "morning into lunch",
+  "duration_hours": 4,
+  "enhanced_description": "Ban Khiriwong is the best outer-city extension from Nakhon Si Thammarat because it changes the pace of the trip without breaking the logic of it. After the temple district and old-town heritage layer, Kiriwong brings in village life, orchards, foothill scenery, and a more relaxed social rhythm. That makes it a real complement to the city instead of a competing itinerary.\n\nIt is also important not to overcomplicate the visit. Kiriwong is strongest when it stays simple: one village day, a slow lunch, some walking or cycling, and optionally Phromlok as the single nature add-on. Trying to bolt it onto too many other provincial stops usually weakens the entire day.",
+  "detailed_history": "Tourism Authority of Thailand coverage still places Ban Khiriwong among the province's key highlights and uses it as a major day-two anchor in city-plus-province itineraries. That remains the cleanest editorial choice for first-time visitors.",
+  "visitor_experience": "Expect a slower and softer day than the city core. The appeal here is pacing, village atmosphere, and the transition from urban heritage to mountain-side life. That is why half-day or better timing matters.",
+  "best_time_to_visit": {
+    "time_of_day": "Morning into lunch",
+    "duration": "Half day or longer",
+    "crowd_level": "Usually more relaxed than the city core"
+  },
+  "practical_info": {
+    "how_to_get_there": "Usually reached by car or driver from Nakhon town as a dedicated outer-city day.",
+    "nearby_attractions": "Phromlok Waterfall and other mountain-side scenic stops that fit the same direction.",
+    "food_options": "Village lunch stops such as Kiriwong River View help complete the day naturally.",
+    "shopping": "Look for small local products and village-scale shopping rather than large souvenir runs."
+  },
+  "insider_tips": [
+    "Do not force Kiriwong into an already overloaded province loop.",
+    "A slower lunch and some walking usually make the visit better than chasing extra mileage.",
+    "Treat this as the one chosen outer-city direction for the day."
+  ],
+  "verified_note": "Source-backed summary based on Tourism Authority of Thailand destination and route coverage. Local village activity timing can still vary.",
+  "cultural_significance": "Ban Khiriwong gives Nakhon Si Thammarat a strong community-and-landscape extension that feels local to the province rather than generic scenic filler.",
+  "contentSources": [
+    {
+      "name": "Nakhon Si Thammarat destination page",
+      "url": "https://www.tourismthailand.org/Destinations/Provinces/Nakhon-Si-Thammarat/345"
+    },
+    {
+      "name": "3 Days in Nakhon Si Thammarat Beyond the Sea",
+      "url": "https://www.tourismthailand.org/Articles/https-www-tourismthailand-org-articles-3daysinnakhonsithammaratbeyondthesea"
+    }
+  ]
+}
