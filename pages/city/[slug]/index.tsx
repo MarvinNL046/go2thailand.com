@@ -31,6 +31,8 @@ interface City {
     nl: string;
   };
   population: number;
+  population_label?: string;
+  population_note?: string;
   highlights: string[];
   location: {
     lat: number;
@@ -202,6 +204,7 @@ interface City {
     url: string;
     description?: string;
   }>;
+  reviewed_by?: string;
 }
 
 interface CityComparisonLink {
@@ -293,8 +296,8 @@ export default function CityPage({ city, relatedCities, comparisons, transportLi
 
   const metadata = {
     ...baseMetadata,
-    title: `${cityName}, Thailand Travel Guide: Best Areas, Attractions, Food & Hotels`,
-    description: `Plan a smarter ${cityName} trip with curated attractions, neighborhood advice, food picks, hotel recommendations, and practical local tips.`,
+    title: baseMetadata.title || `${cityName}, Thailand Travel Guide: Best Areas, Attractions, Food & Hotels`,
+    description: baseMetadata.description || `Plan a smarter ${cityName} trip with curated attractions, neighborhood advice, food picks, hotel recommendations, and practical local tips.`,
   };
   const featureCardClass = "group relative overflow-hidden rounded-[28px] border border-gray-100 bg-white p-6 shadow-[0_16px_48px_rgba(15,23,42,0.06)] transition-all duration-300 hover:-translate-y-1 hover:shadow-[0_20px_54px_rgba(15,23,42,0.10)]";
   const sidebarPanelClass = "rounded-[28px] border border-gray-100 bg-white p-6 shadow-[0_14px_38px_rgba(15,23,42,0.06)]";
@@ -327,7 +330,6 @@ export default function CityPage({ city, relatedCities, comparisons, transportLi
         description={metadata.description}
         ogImage={metadata.openGraph?.images?.[0]?.url || toAbsoluteImageUrl(getCityImageForSection(city, 'hero'))}
       >
-        <meta name="keywords" content={metadata.keywords} />
         <script
           type="application/ld+json"
           dangerouslySetInnerHTML={{
@@ -505,10 +507,15 @@ export default function CityPage({ city, relatedCities, comparisons, transportLi
                     )}
                     <div className="grid grid-cols-2 gap-4 my-8">
                       <div className="rounded-[24px] bg-slate-50 px-5 py-5 border border-slate-100">
-                        <h4 className="font-semibold text-gray-900 mb-2">Population</h4>
+                        <h4 className="font-semibold text-gray-900 mb-2">{city.population_label || 'Population'}</h4>
                         <p className="font-heading text-2xl font-bold text-thailand-blue">
                           {formatNumber(city.population)}
                         </p>
+                        {city.population_note && (
+                          <p className="mt-2 text-sm leading-6 text-gray-500">
+                            {city.population_note}
+                          </p>
+                        )}
                       </div>
                       <div className="rounded-[24px] bg-slate-50 px-5 py-5 border border-slate-100">
                         <h4 className="font-semibold text-gray-900 mb-2">Region</h4>
@@ -531,7 +538,7 @@ export default function CityPage({ city, relatedCities, comparisons, transportLi
                         Hidden Gems
                       </h2>
                       <p className="text-gray-600 mt-2 max-w-3xl">
-                        Places that make Bangkok feel more layered once you step outside the standard first-timer circuit.
+                        Places that make {city.name.en} feel more layered once you step outside the obvious first-timer circuit.
                       </p>
                     </div>
                     <div className="grid grid-cols-1 md:grid-cols-2 gap-8">
@@ -666,7 +673,7 @@ export default function CityPage({ city, relatedCities, comparisons, transportLi
                         Authentic Experiences
                       </h2>
                       <p className="text-gray-600 mt-2 max-w-3xl">
-                        Experiences that say more about how Bangkok actually lives than a standard attraction checklist does.
+                        Experiences that say more about how {city.name.en} actually works than a standard checklist of sights.
                       </p>
                     </div>
                     <div className="space-y-6">
@@ -759,7 +766,7 @@ export default function CityPage({ city, relatedCities, comparisons, transportLi
                         Top Attractions
                       </h2>
                       <p className="text-gray-600 mt-2 max-w-3xl">
-                        The headline Bangkok sights, framed in a way that is actually useful for planning.
+                        The headline {city.name.en} sights, framed in a way that is actually useful for planning.
                       </p>
                     </div>
                     <div className="grid grid-cols-1 md:grid-cols-2 gap-6">
@@ -947,7 +954,7 @@ export default function CityPage({ city, relatedCities, comparisons, transportLi
                       Complete Travel Services for {city.name.en}
                     </h2>
                     <p className="text-gray-600 mt-2 max-w-3xl">
-                      Planning tools and booking shortcuts for the practical parts of a Bangkok trip.
+                      Planning tools and booking shortcuts for the practical parts of a {city.name.en} trip.
                     </p>
                   </div>
                   <div className="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-4 gap-5">
@@ -990,7 +997,7 @@ export default function CityPage({ city, relatedCities, comparisons, transportLi
                       <div className="absolute inset-x-0 top-0 h-1.5 bg-gradient-to-r from-emerald-500 to-teal-400" />
                       <div className="relative text-left">
                         <h3 className="font-semibold text-gray-900 mb-2">Car Rental</h3>
-                        <p className="text-sm text-gray-600 leading-6 mb-4">Mostly useful for broader Thailand logistics, less for central Bangkok day-to-day city movement.</p>
+                        <p className="text-sm text-gray-600 leading-6 mb-4">Mostly useful for arrival logistics, day trips, or onward travel beyond {city.name.en} itself.</p>
                         <a
                           href="https://trip.tpo.lv/fzIWyBhW"
                           target="_blank"
@@ -1007,7 +1014,7 @@ export default function CityPage({ city, relatedCities, comparisons, transportLi
                       <div className="absolute inset-x-0 top-0 h-1.5 bg-gradient-to-r from-violet-500 to-indigo-400" />
                       <div className="relative text-left">
                         <h3 className="font-semibold text-gray-900 mb-2">Bus, Train & Ferry</h3>
-                        <p className="text-sm text-gray-600 leading-6 mb-4">Best when Bangkok is your base and you are moving onward to other Thai cities or islands.</p>
+                        <p className="text-sm text-gray-600 leading-6 mb-4">Best when {city.name.en} is one stop in a broader Thailand route rather than the whole trip.</p>
                         <a
                           href="https://12go.tpo.lv/tNA80urD"
                           target="_blank"
@@ -1146,7 +1153,7 @@ export default function CityPage({ city, relatedCities, comparisons, transportLi
                         Foodie Adventures
                       </h2>
                       <p className="text-gray-600 mt-2 max-w-3xl">
-                        Dish-led stops that help visitors understand Bangkok through what they actually eat and where they try it.
+                        Dish-led stops that help visitors understand {city.name.en} through what they actually eat and where they try it.
                       </p>
                     </div>
                     <div className="space-y-8">
@@ -1246,7 +1253,7 @@ export default function CityPage({ city, relatedCities, comparisons, transportLi
                         Things to Do
                       </h2>
                       <p className="text-gray-600 mt-2 max-w-3xl">
-                        A broader Bangkok planning section that connects the major sights, market culture, and practical city experiences into one overview.
+                        A broader {city.name.en} planning section that connects the major sights, food, and practical on-the-ground decisions into one overview.
                       </p>
                     </div>
                     <div className="rounded-[30px] border border-gray-100 bg-white p-7 shadow-[0_18px_44px_rgba(15,23,42,0.06)]">
@@ -1272,7 +1279,7 @@ export default function CityPage({ city, relatedCities, comparisons, transportLi
                         Best Restaurants
                       </h2>
                       <p className="text-gray-600 mt-2 max-w-3xl">
-                        A tighter shortlist for meals that actually feel distinct in Bangkok, from skyline rooftops to riverside Thai tables and destination tasting menus.
+                        A tighter shortlist for meals that actually feel distinct in {city.name.en}, from local staples to stronger special-occasion picks.
                       </p>
                     </div>
                     <div className="grid grid-cols-1 md:grid-cols-2 gap-7">
@@ -1369,7 +1376,7 @@ export default function CityPage({ city, relatedCities, comparisons, transportLi
                         Recommended Hotels
                       </h2>
                       <p className="text-gray-600 mt-2 max-w-3xl">
-                        Hotels that make sense for different Bangkok stays, not just a pile of names with nightly prices.
+                        Hotels that make sense for different {city.name.en} stays, not just a pile of names and nightly rates.
                       </p>
                     </div>
                     <div className="grid grid-cols-1 md:grid-cols-2 gap-7">
@@ -1449,7 +1456,7 @@ export default function CityPage({ city, relatedCities, comparisons, transportLi
                         Where to Stay
                       </h2>
                       <p className="text-gray-600 mt-2 max-w-3xl">
-                        Neighborhood context that helps you choose the right Bangkok base instead of booking blind on price alone.
+                        Area context that helps you choose the right base in {city.name.en} instead of booking blind on price alone.
                       </p>
                     </div>
                     <div className="rounded-[30px] border border-gray-100 bg-white p-7 shadow-[0_18px_44px_rgba(15,23,42,0.06)]">
@@ -1475,7 +1482,7 @@ export default function CityPage({ city, relatedCities, comparisons, transportLi
                         Local Insights
                       </h2>
                       <p className="text-gray-600 mt-2 max-w-3xl">
-                        Practical Bangkok patterns that matter once you move past the obvious sightseeing checklist.
+                        Practical patterns that matter once you move past the obvious sightseeing checklist in {city.name.en}.
                       </p>
                     </div>
                     <div className="rounded-[30px] border border-gray-100 bg-white p-7 shadow-[0_18px_44px_rgba(15,23,42,0.06)]">
@@ -1550,7 +1557,7 @@ export default function CityPage({ city, relatedCities, comparisons, transportLi
                         Travel Tips
                       </h2>
                       <p className="text-gray-600 mt-2 max-w-3xl">
-                        Quick planning notes that make Bangkok easier to handle on the ground.
+                        Quick planning notes that make {city.name.en} easier to handle on the ground.
                       </p>
                     </div>
                     <div className="rounded-[30px] border border-amber-100 bg-gradient-to-br from-amber-50 to-white p-7 shadow-[0_18px_44px_rgba(15,23,42,0.05)]">
@@ -1595,7 +1602,7 @@ export default function CityPage({ city, relatedCities, comparisons, transportLi
                         Safety Tips
                       </h2>
                       <p className="text-gray-600 mt-2 max-w-3xl">
-                        Real-world cautions for getting around Bangkok smoothly without turning the city into something more dangerous than it is.
+                        Real-world cautions for getting around {city.name.en} smoothly without turning it into something riskier than it is.
                       </p>
                     </div>
                     <div className="rounded-[30px] border border-amber-100 bg-gradient-to-br from-amber-50 to-white p-7 shadow-[0_18px_44px_rgba(15,23,42,0.05)]">
@@ -1812,7 +1819,11 @@ export default function CityPage({ city, relatedCities, comparisons, transportLi
                       </p>
                     </div>
                     <div className="mb-5 rounded-[26px] border border-slate-100 bg-slate-50 px-5 py-5">
-                      <div className="grid gap-4 md:grid-cols-3">
+                      <div className="grid gap-4 md:grid-cols-4">
+                        <div>
+                          <div className="text-xs font-semibold uppercase tracking-[0.18em] text-slate-500">Reviewed By</div>
+                          <div className="mt-1 text-sm font-semibold text-gray-900">{city.reviewed_by || 'Go2Thailand Editorial Team'}</div>
+                        </div>
                         <div>
                           <div className="text-xs font-semibold uppercase tracking-[0.18em] text-slate-500">Reviewed</div>
                           <div className="mt-1 text-sm font-semibold text-gray-900">{reviewedDate || 'Editorial review in progress'}</div>
@@ -1880,9 +1891,14 @@ export default function CityPage({ city, relatedCities, comparisons, transportLi
                       <span className="text-right font-semibold text-gray-900">{city.province}</span>
                     </div>
                     <div className="flex items-start justify-between gap-4 rounded-2xl bg-slate-50 px-4 py-3">
-                      <span className="text-sm text-gray-500">Population</span>
+                      <span className="text-sm text-gray-500">{city.population_label || 'Population'}</span>
                       <span className="text-right font-semibold text-gray-900">{formatNumber(city.population)}</span>
                     </div>
+                    {city.population_note && (
+                      <div className="rounded-2xl border border-amber-100 bg-amber-50 px-4 py-3">
+                        <p className="text-xs leading-5 text-amber-900">{city.population_note}</p>
+                      </div>
+                    )}
                     <div className="flex items-start justify-between gap-4 rounded-2xl bg-slate-50 px-4 py-3">
                       <span className="text-sm text-gray-500">Coordinates</span>
                       <span className="text-right font-semibold text-sm text-gray-900">

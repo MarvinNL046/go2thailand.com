@@ -1,0 +1,183 @@
+{
+  "updated_at": "2026-03-26T00:00:00.000Z",
+  "project": "go2thailand city upgrade tracker",
+  "goal": "Upgrade all English city clusters to source-backed, non-thin, AdSense-safe, EEAT-oriented pages.",
+  "done_definition": [
+    "city route renders 200",
+    "top-10 attractions route renders 200",
+    "top-10 restaurants route renders 200",
+    "top-10 hotels route renders 200",
+    "reviewed_by present",
+    "contentSources present",
+    "rendered English HTML no longer contains old AI intro strings",
+    "rendered English HTML no longer contains stale rating-spam or legacy price strings",
+    "internal links point to non-thin supporting pages"
+  ],
+  "cities": [
+    {
+      "slug": "ayutthaya",
+      "status": "done",
+      "notes": "English city cluster upgraded, legacy leaks removed from rendered HTML and __NEXT_DATA__, and validated with jq, tsc, and localhost render checks."
+    },
+    {
+      "slug": "bangkok",
+      "status": "done",
+      "notes": "City page and linked cluster pages upgraded."
+    },
+    {
+      "slug": "bueng-kan",
+      "status": "pending",
+      "notes": ""
+    },
+    {
+      "slug": "chanthaburi",
+      "status": "pending",
+      "notes": ""
+    },
+    {
+      "slug": "chiang-khan",
+      "status": "pending",
+      "notes": ""
+    },
+    {
+      "slug": "chiang-mai",
+      "status": "done",
+      "notes": "English city cluster upgraded and validated."
+    },
+    {
+      "slug": "chiang-rai",
+      "status": "pending",
+      "notes": ""
+    },
+    {
+      "slug": "chumphon",
+      "status": "pending",
+      "notes": ""
+    },
+    {
+      "slug": "hat-yai",
+      "status": "pending",
+      "notes": ""
+    },
+    {
+      "slug": "hua-hin",
+      "status": "pending",
+      "notes": ""
+    },
+    {
+      "slug": "kanchanaburi",
+      "status": "pending",
+      "notes": ""
+    },
+    {
+      "slug": "khon-kaen",
+      "status": "pending",
+      "notes": ""
+    },
+    {
+      "slug": "koh-samui",
+      "status": "pending",
+      "notes": ""
+    },
+    {
+      "slug": "krabi",
+      "status": "pending",
+      "notes": ""
+    },
+    {
+      "slug": "lampang",
+      "status": "pending",
+      "notes": ""
+    },
+    {
+      "slug": "lopburi",
+      "status": "pending",
+      "notes": ""
+    },
+    {
+      "slug": "mae-hong-son",
+      "status": "pending",
+      "notes": ""
+    },
+    {
+      "slug": "mukdahan",
+      "status": "pending",
+      "notes": ""
+    },
+    {
+      "slug": "nakhon-phanom",
+      "status": "pending",
+      "notes": ""
+    },
+    {
+      "slug": "nakhon-ratchasima",
+      "status": "pending",
+      "notes": ""
+    },
+    {
+      "slug": "nakhon-si-thammarat",
+      "status": "pending",
+      "notes": ""
+    },
+    {
+      "slug": "nong-khai",
+      "status": "pending",
+      "notes": ""
+    },
+    {
+      "slug": "pai",
+      "status": "pending",
+      "notes": ""
+    },
+    {
+      "slug": "pattaya",
+      "status": "done",
+      "notes": "English city cluster upgraded and validated."
+    },
+    {
+      "slug": "phitsanulok",
+      "status": "pending",
+      "notes": ""
+    },
+    {
+      "slug": "phuket",
+      "status": "done",
+      "notes": "English city cluster upgraded and validated."
+    },
+    {
+      "slug": "rayong",
+      "status": "pending",
+      "notes": ""
+    },
+    {
+      "slug": "sukhothai",
+      "status": "pending",
+      "notes": ""
+    },
+    {
+      "slug": "surat-thani",
+      "status": "pending",
+      "notes": ""
+    },
+    {
+      "slug": "trang",
+      "status": "pending",
+      "notes": ""
+    },
+    {
+      "slug": "trat",
+      "status": "pending",
+      "notes": ""
+    },
+    {
+      "slug": "ubon-ratchathani",
+      "status": "pending",
+      "notes": ""
+    },
+    {
+      "slug": "udon-thani",
+      "status": "pending",
+      "notes": ""
+    }
+  ]
+}

@@ -42,6 +42,12 @@ interface Top10AttractionsData {
   city_slug: string;
   city_name: string;
   category: string;
+  content_sources?: Array<{
+    title: string;
+    creator: string;
+    url: string;
+    description?: string;
+  }>;
   data_sources?: string[];
   last_perplexity_update?: string;
   generated_at: string;
@@ -103,7 +109,6 @@ export default function Top10AttractionsPage({ city, attractionsData, affiliates
         description={attractionsData.meta_description}
       >
         <meta name="robots" content="noindex, follow" />
-        <meta name="keywords" content={`${city.name.en} attractions, Thailand tourism, ${city.name.en} sightseeing, things to do, tourist attractions`} />
         <script
           type="application/ld+json"
           dangerouslySetInnerHTML={{
@@ -233,11 +238,11 @@ export default function Top10AttractionsPage({ city, attractionsData, affiliates
                   <div className="bg-white rounded-2xl shadow-md p-6">
                     <h3 className="text-lg font-semibold font-heading text-gray-900 mb-4">Visitor Tips</h3>
                     <div className="space-y-3 text-sm text-gray-600">
-                      <p>• Visit early morning to avoid crowds</p>
-                      <p>• Check opening hours before going</p>
-                      <p>• Bring sunscreen and water</p>
-                      <p>• Respect local customs and dress codes</p>
-                      <p>• Keep entrance tickets for discounts</p>
+                      <p>• Plan by zone so you spend less time backtracking between sights</p>
+                      <p>• Start early for cooler weather and softer light at outdoor attractions</p>
+                      <p>• Keep temple dress codes in mind if your route includes active religious sites</p>
+                      <p>• Build in water, shade, and a midday break during hotter months</p>
+                      <p>• Check return transport before staying out for sunset or evening visits</p>
                     </div>
                   </div>
 
@@ -410,6 +415,31 @@ export default function Top10AttractionsPage({ city, attractionsData, affiliates
                       </Link>
                     </div>
                   </div>
+
+                  {attractionsData.content_sources && attractionsData.content_sources.length > 0 && (
+                    <div className="bg-white rounded-2xl shadow-md p-8">
+                      <h3 className="text-xl font-bold font-heading text-gray-900 mb-4">
+                        Sources &amp; References
+                      </h3>
+                      <div className="space-y-3">
+                        {attractionsData.content_sources.map((source, index) => (
+                          <a
+                            key={index}
+                            href={source.url}
+                            target="_blank"
+                            rel="noopener noreferrer"
+                            className="block rounded-xl border border-gray-100 p-4 hover:border-gray-300 transition-colors"
+                          >
+                            <div className="font-medium text-gray-900">{source.title}</div>
+                            <div className="text-sm text-gray-500">by {source.creator}</div>
+                            {source.description && (
+                              <div className="text-sm text-gray-600 mt-1">{source.description}</div>
+                            )}
+                          </a>
+                        ))}
+                      </div>
+                    </div>
+                  )}
                 </div>
               </main>
             </div>
