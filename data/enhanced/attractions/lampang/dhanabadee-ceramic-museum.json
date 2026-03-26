@@ -1,0 +1,82 @@
+{
+  "id": 4,
+  "slug": "dhanabadee-ceramic-museum",
+  "name": {
+    "en": "Dhanabadee Ceramic Museum",
+    "nl": "Dhanabadee Keramiekmuseum"
+  },
+  "type": "museum",
+  "city_slug": "lampang",
+  "address": "32 Wat Chong Kham Road, Phra Bat, Mueang Lampang District, Lampang 52000",
+  "location": {
+    "lat": 18.2787,
+    "lng": 99.4793
+  },
+  "opening_hours": "Open daily 09:00-17:00 according to the official ticket page",
+  "entrance_fee": {
+    "thb": 100,
+    "usd": 3
+  },
+  "description": {
+    "en": "The strongest craft stop in Lampang for understanding the city's ceramic and rooster-bowl identity.",
+    "nl": "De sterkste craft-stop in Lampang om de keramiek- en haankommenidentiteit van de stad te begrijpen."
+  },
+  "highlights": [
+    "Rooster bowl heritage",
+    "Factory-and-museum context",
+    "Best ceramic stop"
+  ],
+  "image": "/images/cities/generated/lampang.webp",
+  "official_website": "https://dhanabadee.com/museum/ticket",
+  "seo": {
+    "metaTitle": {
+      "en": "Dhanabadee Ceramic Museum | Go2Thailand",
+      "nl": "Dhanabadee Keramiekmuseum | Go2Thailand"
+    },
+    "metaDescription": {
+      "en": "Why Dhanabadee is the most useful ceramic stop in Lampang and how it explains the city's rooster-bowl identity.",
+      "nl": "Waarom Dhanabadee de bruikbaarste keramiekstop in Lampang is en hoe het de haankommenidentiteit van de stad uitlegt."
+    }
+  },
+  "tags": [
+    "museum",
+    "ceramics",
+    "lampang",
+    "craft",
+    "thailand"
+  ],
+  "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=Dhanabadee%20Ceramic%20Museum%20Lampang%20Thailand",
+  "best_time": "daytime",
+  "duration_hours": 2,
+  "enhanced_description": "Dhanabadee is the best single craft stop in Lampang because it turns the city's ceramic identity into something concrete. The museum and factory context help explain why Lampang's rooster bowls became such a familiar Thai household symbol, and the official ticket page confirms that the museum still operates as a current visitor site rather than as a legacy mention in an old guide.\n\nThis matters because Lampang can otherwise be reduced to temples and carriages. Dhanabadee adds a different layer: industry, design, and a local product story that still has visible roots in the city. If you want one museum stop that genuinely belongs in a first Lampang itinerary, this is the one.",
+  "detailed_history": "Museum Thailand lists Dhanabadee as one of Lampang's key museum assets and links the site directly to the city's ceramic tradition. That makes it more than a side attraction; it is one of the clearest explanations of how Lampang built a durable craft identity.",
+  "visitor_experience": "Expect a museum visit with direct craft context rather than a huge national-scale institution. The appeal is in the Lampang-specific story: ceramics, production history, and the rooster bowl as a symbol. The visit works best when you treat it as the city's main craft stop instead of mixing multiple minor museum stops into the same day.",
+  "best_time_to_visit": {
+    "time_of_day": "Daytime",
+    "duration": "About 1.5 to 2 hours",
+    "crowd_level": "Usually manageable outside peak holiday periods"
+  },
+  "practical_info": {
+    "how_to_get_there": "Reach it easily within the city and use it as a middle-of-the-day stop in hot weather.",
+    "nearby_attractions": "City temples, Kad Kong Ta, and Ban Sao Nak.",
+    "food_options": "Better combined with city dining before or after the museum.",
+    "shopping": "This is one of the better places to buy ceramic souvenirs with actual local context."
+  },
+  "insider_tips": [
+    "Use Dhanabadee as the main ceramic stop and skip weaker filler museum entries.",
+    "Check the official ticket page before going because hours and admission are actively maintained there.",
+    "This works especially well in the hotter middle part of the day."
+  ],
+  "verified_note": "Source-backed summary based on Museum Thailand and the official Dhanabadee ticket page. Current hours and admission are taken from the official museum page and should still be rechecked before visiting.",
+  "cultural_significance": "Dhanabadee helps explain why Lampang's ceramic output remains one of the city's most recognizable cultural signatures across Thailand.",
+  "contentSources": [
+    {
+      "name": "DHANABADEE CERAMIC MUSEUM",
+      "url": "https://www.museumthailand.com/en/museum/DHANABADEE-CERAMIC-MUSEUM"
+    },
+    {
+      "name": "Dhanabadee Ceramic Museum ticket page",
+      "url": "https://dhanabadee.com/museum/ticket"
+    }
+  ]
+}

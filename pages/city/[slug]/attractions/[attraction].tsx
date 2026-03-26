@@ -28,8 +28,8 @@ interface Attraction {
   };
   opening_hours: string;
   entrance_fee: {
-    thb: number;
-    usd: number;
+    thb: number | null;
+    usd: number | null;
   };
   official_website?: string;
   enhanced_description?: string;
@@ -132,7 +132,7 @@ export default function AttractionDetailPage({ city, attraction }: AttractionDet
                 }
               }),
               ...(attraction.opening_hours && { "openingHours": attraction.opening_hours }),
-              ...(attraction.entrance_fee.thb > 0 && {
+              ...(typeof attraction.entrance_fee.thb === 'number' && attraction.entrance_fee.thb > 0 && {
                 "isAccessibleForFree": false,
                 "offers": {
                   "@type": "Offer",
@@ -190,7 +190,7 @@ export default function AttractionDetailPage({ city, attraction }: AttractionDet
                 
                 {/* Quick Info Bar */}
                 <div className="flex flex-wrap gap-4 mt-6">
-                  {attraction.entrance_fee.thb > 0 && (
+                  {typeof attraction.entrance_fee.thb === 'number' && attraction.entrance_fee.thb > 0 && (
                     <div className="flex items-center bg-white/10 backdrop-blur-sm rounded-lg px-3 py-2">
                       <svg className="w-5 h-5 mr-2 text-thailand-gold" fill="currentColor" viewBox="0 0 20 20">
                         <path d="M8.433 7.418c.155-.103.346-.196.567-.267v1.698a2.305 2.305 0 01-.567-.267C8.07 8.34 8 8.114 8 8c0-.114.07-.34.433-.582zM11 12.849v-1.698c.22.071.412.164.567.267.364.243.433.468.433.582 0 .114-.07.34-.433.582a2.305 2.305 0 01-.567.267z" />
@@ -578,7 +578,11 @@ export default function AttractionDetailPage({ city, attraction }: AttractionDet
                     <div>
                       <div className="text-sm text-gray-600 mb-1">Entrance Fee:</div>
                       <div className="text-sm font-medium">
-                        {attraction.entrance_fee.thb === 0 ? 'Free' : `฿${attraction.entrance_fee.thb} / $${attraction.entrance_fee.usd}`}
+                        {attraction.entrance_fee.thb === 0
+                          ? 'Free'
+                          : attraction.entrance_fee.thb == null
+                            ? 'Check current pricing'
+                            : `฿${attraction.entrance_fee.thb} / $${attraction.entrance_fee.usd}`}
                       </div>
                     </div>
                     

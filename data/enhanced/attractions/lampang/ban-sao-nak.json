@@ -1,0 +1,82 @@
+{
+  "id": 5,
+  "slug": "ban-sao-nak",
+  "name": {
+    "en": "Ban Sao Nak",
+    "nl": "Ban Sao Nak"
+  },
+  "type": "cultural",
+  "city_slug": "lampang",
+  "address": "81/1 Thanon Ratwathana, Wiang Nuea, Mueang Lampang District, Lampang",
+  "location": {
+    "lat": 18.3024,
+    "lng": 99.4964
+  },
+  "opening_hours": "Recheck current opening hours before visiting",
+  "entrance_fee": {
+    "thb": null,
+    "usd": null
+  },
+  "description": {
+    "en": "A teak-pillared heritage house that adds logging-era and city-history context to a Lampang stay.",
+    "nl": "Een historisch huis met teakpilaren dat logging-era en stadsgeschiedenis toevoegt aan een verblijf in Lampang."
+  },
+  "highlights": [
+    "116 teak pillars",
+    "Historic house museum",
+    "Strong city heritage stop"
+  ],
+  "image": "/images/cities/generated/lampang.webp",
+  "official_website": "https://www.museumthailand.com/en/museum/Bann-Sao-Nak",
+  "seo": {
+    "metaTitle": {
+      "en": "Ban Sao Nak Lampang | Go2Thailand",
+      "nl": "Ban Sao Nak Lampang | Go2Thailand"
+    },
+    "metaDescription": {
+      "en": "Why Ban Sao Nak is one of the strongest city-side heritage stops in Lampang and how to pair it with the old quarter.",
+      "nl": "Waarom Ban Sao Nak een van de sterkste city-side erfgoedstops van Lampang is en hoe je het combineert met de old quarter."
+    }
+  },
+  "tags": [
+    "heritage",
+    "teak-house",
+    "lampang",
+    "museum",
+    "thailand"
+  ],
+  "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=Ban%20Sao%20Nak%20Lampang%20Thailand",
+  "best_time": "morning or late afternoon",
+  "duration_hours": 1.5,
+  "enhanced_description": "Ban Sao Nak is one of the best ways to give Lampang's city heritage some domestic scale. Temples explain the religious side of the province, but this teak-pillared house helps explain the social and architectural side of the logging and trading era. Museum Thailand positions it directly as a heritage museum, which is enough to make it a stronger city stop than generic side exhibits or thin civic displays.\n\nIt works best when you keep the visit compact and pair it with the old quarter. Ban Sao Nak is not the main headline of Lampang, but it is one of the clearest supporting stops if you want the city to feel layered rather than one-note.",
+  "detailed_history": "Museum Thailand's listing for Ban Sao Nak confirms its role as a preserved heritage house and one of Lampang's established cultural sites. That makes it a useful counterweight to the city's temple-heavy itinerary.",
+  "visitor_experience": "Expect a shorter visit focused on architecture and house history rather than a large interactive museum. The value is in how it broadens Lampang from temples and markets into domestic heritage and teak-era city history.",
+  "best_time_to_visit": {
+    "time_of_day": "Morning or late afternoon",
+    "duration": "About 1 to 1.5 hours",
+    "crowd_level": "Usually lighter than the main temple circuit"
+  },
+  "practical_info": {
+    "how_to_get_there": "Use it within a city route alongside nearby temples and the river quarter.",
+    "nearby_attractions": "Wat Pong Sanuk, Kad Kong Ta, and the broader old-city heritage area.",
+    "food_options": "Better combined with city cafes or the evening market later.",
+    "shopping": "Minimal and secondary to the heritage visit."
+  },
+  "insider_tips": [
+    "Ban Sao Nak is best as part of a city heritage half-day, not as a standalone destination.",
+    "Pair it with nearby temples or the old quarter to make the history layer feel complete.",
+    "Recheck current opening details before leaving because private heritage properties can change schedules."
+  ],
+  "verified_note": "Source-backed summary based on Museum Thailand's Ban Sao Nak listing. Current hours and admission should still be checked locally before departure.",
+  "cultural_significance": "Ban Sao Nak preserves the teak-house and domestic-heritage side of Lampang's identity, complementing the better-known temple circuit.",
+  "contentSources": [
+    {
+      "name": "Bann Sao Nak",
+      "url": "https://www.museumthailand.com/en/museum/Bann-Sao-Nak"
+    },
+    {
+      "name": "Lampang",
+      "url": "https://www.tourismthailand.org/Destinations/Provinces/lampang/104"
+    }
+  ]
+}

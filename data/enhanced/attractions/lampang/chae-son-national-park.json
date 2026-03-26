@@ -1,0 +1,82 @@
+{
+  "id": 6,
+  "slug": "chae-son-national-park",
+  "name": {
+    "en": "Chae Son National Park",
+    "nl": "Chae Son National Park"
+  },
+  "type": "nature",
+  "city_slug": "lampang",
+  "address": "Chae Son National Park, Mueang Pan District, Lampang",
+  "location": {
+    "lat": 18.8135,
+    "lng": 99.4567
+  },
+  "opening_hours": "National-park and bath hours can change; recheck before departure",
+  "entrance_fee": {
+    "thb": null,
+    "usd": null
+  },
+  "description": {
+    "en": "The cleanest nature-side contrast day from Lampang, combining hot springs with a forested national-park setting.",
+    "nl": "De schoonste natuurgerichte contrastdag vanuit Lampang, met warmwaterbronnen in een bosrijk nationaal park."
+  },
+  "highlights": [
+    "Hot springs and waterfall",
+    "Best nature contrast day",
+    "Single-focus outing"
+  ],
+  "image": "/images/cities/generated/lampang.webp",
+  "official_website": "https://www.tourismthailand.org/Articles/10-things-to-do-in-lampang",
+  "seo": {
+    "metaTitle": {
+      "en": "Chae Son National Park Lampang | Go2Thailand",
+      "nl": "Chae Son National Park Lampang | Go2Thailand"
+    },
+    "metaDescription": {
+      "en": "Why Chae Son is the best nature-day contrast from Lampang and how to keep it as a single-focus outing.",
+      "nl": "Waarom Chae Son de beste naturendag-contrast vanuit Lampang is en hoe je het als single-focus outing houdt."
+    }
+  },
+  "tags": [
+    "nature",
+    "hot-springs",
+    "lampang",
+    "national-park",
+    "thailand"
+  ],
+  "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=Chae%20Son%20National%20Park%20Lampang%20Thailand",
+  "best_time": "morning",
+  "duration_hours": 5,
+  "enhanced_description": "Chae Son National Park is the cleanest nature-side contrast to Lampang's temple and old-town rhythm. TAT continues to list Chae Son Hot Spring among the province's outer-city highlights, and that is the right role for it: not a random extra, but the one nature day that makes a heritage-heavy Lampang stay feel more balanced.\n\nIt is strongest when it stays single-focus. Go for the hot springs, the forest setting, and the change of pace, then come back. The park gets weaker when travelers try to combine it with another major outer-city route on the same day just because both sit outside the city center.",
+  "detailed_history": "The wider TAT Lampang province framing continues to treat Chae Son Hot Spring as one of the province's signature non-city attractions. That matters because it confirms the park's status as a core regional contrast stop rather than as a minor local add-on.",
+  "visitor_experience": "Expect a road-trip nature day rather than a city extension. The appeal is the break in texture: forest, thermal water, and a slower outdoor rhythm. It works best when you want one out-of-town nature block instead of another heritage stop.",
+  "best_time_to_visit": {
+    "time_of_day": "Morning start",
+    "duration": "Half a day to most of a day",
+    "crowd_level": "Can be busier on weekends and holidays"
+  },
+  "practical_info": {
+    "how_to_get_there": "Reach it by road and keep the day dedicated to the park.",
+    "nearby_attractions": "This is better as the day's main purpose than as one stop in a chain of outer-city attractions.",
+    "food_options": "Keep meals practical and secondary to the park schedule.",
+    "shopping": "Minimal and not central to the visit."
+  },
+  "insider_tips": [
+    "Use Chae Son when you want one nature day instead of trying to do both Chae Son and TECC in the same short stay.",
+    "Start early because the transfer is long enough that timing matters.",
+    "Recheck current official park and bath pricing before departure."
+  ],
+  "verified_note": "Source-backed summary based on current Tourism Authority of Thailand Lampang attraction framing. Exact entry, bath fees, and operating conditions should be checked with current official sources before travel.",
+  "cultural_significance": "Chae Son gives Lampang a practical nature-and-hot-springs counterweight to the province's stronger temple and city heritage story.",
+  "contentSources": [
+    {
+      "name": "10 THINGS TO DO IN LAMPANG",
+      "url": "https://www.tourismthailand.org/Articles/10-things-to-do-in-lampang"
+    },
+    {
+      "name": "Lampang",
+      "url": "https://www.tourismthailand.org/Destinations/Provinces/lampang/104"
+    }
+  ]
+}

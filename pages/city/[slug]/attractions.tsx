@@ -21,8 +21,8 @@ interface Attraction {
   highlights: string[];
   image: string;
   entrance_fee: {
-    thb: number;
-    usd: number;
+    thb: number | null;
+    usd: number | null;
   };
   enhanced_description?: string;
   googleMapsUrl?: string;
@@ -215,7 +215,7 @@ export default function CityAttractionsPage({ city, attractions }: CityAttractio
                             </div>
 
                             {/* Entrance Fee */}
-                            {attraction.entrance_fee.thb > 0 && (
+                            {typeof attraction.entrance_fee.thb === 'number' && attraction.entrance_fee.thb > 0 && (
                               <div className="absolute bottom-4 left-4">
                                 <span className="bg-white/90 backdrop-blur-sm text-thailand-blue-900 px-2 py-1 rounded-lg text-xs font-semibold">
                                   ฿{attraction.entrance_fee.thb}
