@@ -1,120 +1,77 @@
 {
-  "id": 4,
+  "id": 2,
   "slug": "tiger-cave-temple",
   "name": {
-    "en": "Tiger Cave Temple (Wat Tham Suea)",
-    "nl": "Tijger Grot Tempel (Wat Tham Suea)"
+    "en": "Tiger Cave Temple",
+    "nl": "Tiger Cave Temple"
   },
   "type": "temple",
   "city_slug": "krabi",
-  "address": "Krabi Town, Muang Krabi District",
+  "address": "Mueang Krabi District, Krabi",
   "location": {
     "lat": 8.1167,
     "lng": 98.9167
   },
-  "opening_hours": "05:00-18:00",
+  "opening_hours": "Active temple site; visit during daylight hours",
   "entrance_fee": {
     "thb": 0,
     "usd": 0
   },
   "description": {
-    "en": "Buddhist temple complex with challenging climb to summit offering panoramic views",
-    "nl": "Boeddhistische tempelcomplex met uitdagende klim naar top met panoramisch uitzicht"
+    "en": "Krabi's strongest temple-and-viewpoint stop, best done early before the heat and the climb become punishing.",
+    "nl": "De sterkste tempel-en-uitzichtstop van Krabi, het best vroeg gedaan voordat de hitte en de klim zwaar worden."
   },
   "highlights": [
-    "1,260 steps climb (recently rebuilt)",
-    "Panoramic Andaman Sea views from 278m summit",
-    "Buddhist temple founded 1975",
-    "Physical challenge",
-    "Meditation caves (Tum Khon Than, Tum Lod, Tum Chang Kaeo, Tum Luk Thanu)",
-    "Guanyin statue at base level",
-    "Foothills nature trail with 1,000-year-old tree"
+    "More than 1,200 steps",
+    "Strong panoramic payoff",
+    "Best city-side temple detour"
   ],
   "image": "/images/cities/krabi/attractions/tiger cave temple.webp",
   "official_website": null,
   "seo": {
     "metaTitle": {
-      "en": "Tiger Cave Temple Krabi — 1,260 Steps, Free Entry",
-      "nl": "Tiger Cave Tempel Krabi — 1.260 Treden, Gratis"
+      "en": "Tiger Cave Temple Krabi | Go2Thailand",
+      "nl": "Tiger Cave Temple Krabi | Go2Thailand"
     },
     "metaDescription": {
-      "en": "Climb 1,260 steps to a golden Buddha at 278m with stunning Andaman Sea views. Tiger Cave Temple is free, open 5AM-6PM, 8 km from Krabi Town. Climb tips, caves & what to expect.",
-      "nl": "Beklim 1.260 treden naar een gouden Boeddha op 278m met adembenemend uitzicht over de Andamanzee. Tiger Cave Temple is gratis, open 5-18u, 8 km van Krabi Town."
+      "en": "Why Tiger Cave Temple is one of Krabi's best viewpoint detours and how to time the climb properly.",
+      "nl": "Waarom Tiger Cave Temple een van de beste uitzichtdetours van Krabi is en hoe je de klim goed timet."
     }
   },
   "tags": [
     "temple",
     "krabi",
-    "thailand",
-    "attraction",
-    "travel",
-    "tourism"
+    "viewpoint",
+    "thailand"
   ],
-  "enhanced_description": "Tiger Cave Temple (Wat Tham Suea) is a renowned Buddhist temple complex located 8 km from Krabi Town (about 15 minutes by car). Founded on March 25, 1975 by Ajahn Jamnian Seelasettho from Surat Thani Province, the temple is famous for its 1,260 recently rebuilt steps leading to a golden Buddha statue at 278 meters elevation, rewarding climbers with panoramic views of the Andaman Sea, Krabi's limestone karst landscape, and surrounding jungle. At the base level, visitors can explore a large Guanyin statue, several meditation caves — including Tum Khon Than, Tum Lod, Tum Chang Kaeo, and Tum Luk Thanu — and a 400-meter foothills nature trail featuring a 1,000-year-old tree. The temple is a significant pilgrimage site and houses relics of the Buddha. Whether you're a seasoned hiker or a casual traveler, Tiger Cave Temple offers a memorable experience blending physical challenge, spiritual reflection, and Thailand's rich cultural heritage. Entry is free, and the temple is open daily from 5:00 AM to 6:00 PM.",
-  "detailed_history": "Wat Tham Suea (Tiger Cave Temple) was founded on March 25, 1975 by Ajahn Jamnian Seelasettho, a respected monk from Surat Thani Province who sought a secluded place for meditation and Vipassana practice. The temple is named after the tiger paw prints found in the limestone caves on the site, a reminder of the wild tigers that once inhabited the surrounding jungle. Over the decades, it evolved into one of southern Thailand's most prominent forest monasteries (Wat Pa), attracting monks, nuns, and lay practitioners from across Thailand and abroad. The temple complex sits on and around a dramatic limestone karst, with meditation caves and shrines dedicated to various Buddhist figures woven throughout. Its 1,260 steps (recently rebuilt for safety) lead to a summit at 278 meters where a golden Buddha and chedi mark the highest point. Today, Tiger Cave Temple is ranked #3 of 92 things to do in Krabi on TripAdvisor and is both a living monastery and a cultural landmark embodying Thai Buddhist forest tradition.",
-  "visitor_experience": "Visitors to Tiger Cave Temple can expect an invigorating experience as they ascend the 1,260 recently rebuilt steps to reach the summit at 278 meters. The layout includes several key areas: the main temple complex and Guanyin statue at the base, meditation caves (Tum Khon Than, Tum Lod, Tum Chang Kaeo, Tum Luk Thanu) along the hillside, a 400-meter foothills nature trail with a 1,000-year-old tree, and the golden Buddha viewpoint at the top. Allow 3-6 hours for a comprehensive visit including the climb, caves, and nature trail. The ascent is steep and physically demanding, particularly in the heat. Be warned: aggressive macaque monkeys inhabit the temple grounds — secure all belongings, food, and water bottles. Occasional snake sightings also occur on the forested paths. The temple’s serene atmosphere is enhanced by the sounds of nature and the sight of monks in meditation. Visitors should wear sturdy shoes with good grip, bring at least 1.5 liters of water, and dress modestly (shoulders and knees covered).",
+  "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=Tiger%20Cave%20Temple%20Krabi%20Thailand",
+  "best_time": "early morning",
+  "duration_hours": 3,
+  "enhanced_description": "Tiger Cave Temple is one of Krabi's best non-beach anchors because it gives the province a serious religious site and a genuine physical challenge in the same stop. The climb is the point, but it only works if you respect it. Done early, it adds real contrast to a Krabi itinerary. Done casually in midday heat, it can turn into an unnecessary grind.\n\nThat is why the temple works best as a morning mission. It gives Krabi one of its strongest city-side detours and helps balance the province's coastline-heavy image with something more demanding and reflective. Treat it as a real outing rather than a quick roadside temple visit.",
+  "detailed_history": "Tourism Authority of Thailand destination material continues to use Tiger Cave Temple as one of Krabi's core land-based stops. That matches how the temple functions in real itineraries: as the province's clearest temple-and-viewpoint excursion rather than just another religious landmark.",
+  "visitor_experience": "Expect a working temple complex and a demanding stair climb rather than a light photo stop. The atmosphere is strongest in the cooler hours, when the route still feels challenging but manageable and the temple side is less overwhelmed by heat. The reward is perspective: Krabi from above, rather than only from beaches and boats.",
   "best_time_to_visit": {
-    "time_of_day": "Morning, as temperatures are cooler and the views are often clearer.",
-    "duration": "3-6 hours recommended for a comprehensive visit including the climb, caves, and nature trail.",
-    "crowd_level": "Crowd levels are typically lower in the early morning; late mornings and afternoons see more visitors."
+    "time_of_day": "Early morning",
+    "duration": "About 2 to 3 hours",
+    "crowd_level": "Moderate, with the climb feeling much harsher in later heat"
   },
-  "photography_tips": [
-    "Best photo spots include the viewpoint at the summit and the main temple structure.",
-    "Early morning light provides soft illumination, perfect for photography.",
-    "The panoramic view from the top is Instagram-worthy, especially during sunrise.",
-    "Respect the sacred space; avoid capturing images of individuals in private moments of meditation."
-  ],
   "practical_info": {
-    "how_to_get_there": "The temple is 8 km from Krabi Town (about 15 minutes by car). Songthaew from Krabi Town costs approximately 50 THB per person; from Ao Nang expect to pay around 150 THB. Tuk-tuks and motorbike taxis are also available. If renting a scooter, there is free parking at the temple entrance.",
-    "nearby_attractions": "Other attractions include Wat Kaew Korawaram, the Krabi River, and the Krabi Walking Street Market.",
-    "food_options": "Local food stalls are available near the temple, offering traditional Thai snacks and drinks.",
-    "shopping": "Small souvenir shops sell religious artifacts and local crafts near the temple entrance."
+    "how_to_get_there": "Reach it by road from Krabi Town or Ao Nang and allow extra time for the climb, rest stops, and the temple grounds.",
+    "nearby_attractions": "Krabi Town, river-side city stops, and the wider inland route if you are not heading back to the beach immediately.",
+    "food_options": "Keep food simple and secondary; this works better as a morning outing than as a meal-first stop.",
+    "shopping": "Minor temple-side stalls only; not a shopping destination."
   },
   "insider_tips": [
-    "The best time to visit is during the cooler months from November to February. Start early (before 7 AM) to avoid the heat — the climb is brutal in midday sun.",
-    "Bring at least 1.5 liters of water per person. There are no water refill points on the climb.",
-    "Beware of the macaque monkeys — they are aggressive and will snatch bags, water bottles, and food. Keep belongings secured and zipped.",
-    "Don't skip the base-level caves and nature trail. The 400m foothills loop features a 1,000-year-old tree and is far less crowded than the summit climb.",
-    "The meditation caves (Tum Khon Than, Tum Lod, Tum Chang Kaeo, Tum Luk Thanu) are worth exploring for their tranquility and stalactite formations.",
-    "Dress modestly: cover shoulders and knees. Free sarongs are sometimes available at the entrance but don't count on it.",
-    "Wear shoes with good grip — the steps are steep and can be slippery, especially after rain. Flip-flops are dangerous."
+    "Start early and carry water; this is a real climb.",
+    "Wear proper shoes and treat the stairs seriously, especially after rain.",
+    "Dress respectfully because the temple remains an active religious site."
   ],
-  "seasonal_considerations": "The experience can change with the seasons; the rainy season (May to October) may make the climb slippery, while the cooler months offer clearer views.",
-  "accessibility": "The steep steps make the temple less accessible for visitors with mobility issues; however, the base area can be enjoyed by all.",
-  "cultural_significance": "Tiger Cave Temple is a vital part of Thai culture, symbolizing the dedication of Buddhist monks to meditation and spiritual growth, while also serving as a pilgrimage site for devotees.",
-  "fun_facts": [
-    "The temple's name comes from tiger paw-shaped imprints found in the limestone caves — real tigers once inhabited these forests.",
-    "The summit at 278 meters features both a golden Buddha statue and a chedi (stupa) with 360-degree views of the Andaman Sea and Krabi's iconic karst mountains.",
-    "The temple was founded by Ajahn Jamnian Seelasettho, who still occasionally teaches meditation retreats at the complex.",
-    "A large Guanyin (Chinese goddess of mercy) statue at the base reflects the strong Chinese-Thai Buddhist influence in southern Thailand."
-  ],
-  "elevation_meters": 278,
-  "steps": "1,260 (recently rebuilt)",
-  "founded": "1975-03-25",
-  "founder": "Ajahn Jamnian Seelasettho (Surat Thani Province)",
-  "transport": {
-    "songthaew_from_krabi_town": "50 THB",
-    "songthaew_from_ao_nang": "150 THB",
-    "distance_from_krabi_town": "8 km (15 min drive)"
-  },
-  "caves": ["Tum Khon Than", "Tum Lod", "Tum Chang Kaeo", "Tum Luk Thanu"],
-  "wildlife_warnings": [
-    "Aggressive macaque monkeys — secure all belongings, bags, food, and water bottles",
-    "Occasional snake sightings on forested paths — stay on marked trails"
-  ],
-  "base_level_features": [
-    "Guanyin (Chinese goddess of mercy) statue",
-    "Foothills nature trail (400m loop with 1,000-year-old tree)",
-    "Meditation caves",
-    "Food stalls and souvenir shops"
-  ],
-  "tripadvisor_rating": "4.5/5 (4,000+ reviews)",
-  "sources": [
-    "TripAdvisor (#3 of 92 things to do in Krabi, 4,000+ reviews)",
-    "Forever Vacation",
-    "We Seek Travel",
-    "Sofitel Krabi"
-  ],
-  "lastUpdated": "2026-03-03",
-  "enhanced_at": "2025-05-25T22:39:53.546Z"
+  "verified_note": "Source-backed summary based on Tourism Authority of Thailand attraction framing for Krabi. Stair conditions, crowd levels, and on-site temple activity vary by day and season.",
+  "cultural_significance": "Tiger Cave Temple gives Krabi one of its clearest religious and contemplative landmarks beyond the marine-and-beach identity of the province.",
+  "contentSources": [
+    {
+      "name": "10 THINGS TO DO IN KRABI",
+      "url": "https://www.tourismthailand.org/Articles/10-things-to-do-in-krabi"
+    }
+  ]
 }

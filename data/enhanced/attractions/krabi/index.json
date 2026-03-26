@@ -1,7 +1,7 @@
 {
   "city_slug": "krabi",
   "city_name": "Krabi",
-  "total_attractions": 10,
+  "total_attractions": 6,
   "attractions": [
     {
       "id": 1,
@@ -13,247 +13,151 @@
       "type": "beach",
       "image": "/images/cities/krabi/attractions/railayBeach.webp",
       "description": {
-        "en": "Stunning peninsula beach accessible only by boat with limestone cliffs and rock climbing",
-        "nl": "Prachtig schiereiland strand alleen bereikbaar per boot met kalkstenen kliffen en rotsklimmen"
+        "en": "Krabi's defining limestone-and-sea landscape, reached by boat and best treated as a real scenic block rather than a rushed stop.",
+        "nl": "Het bepalende kalksteen-en-zeelandschap van Krabi, bereikbaar per boot en het sterkst als echte scenic stop in plaats van een gehaast bezoek."
       },
       "entrance_fee": {
         "thb": 0,
         "usd": 0
       },
       "highlights": [
-        "Limestone cliffs",
-        "Rock climbing",
-        "Boat access only"
+        "Boat-only arrival",
+        "Best scenic anchor",
+        "Worth a real time block"
       ],
+      "best_time": "early morning or late afternoon",
+      "duration_hours": 4,
       "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=Railay%20Beach%20Krabi%20Thailand"
     },
     {
       "id": 2,
-      "slug": "ao-nang-beach",
+      "slug": "tiger-cave-temple",
       "name": {
-        "en": "Ao Nang Beach",
-        "nl": "Ao Nang Beach"
+        "en": "Tiger Cave Temple",
+        "nl": "Tiger Cave Temple"
       },
-      "type": "beach",
-      "image": "/images/cities/krabi/attractions/ao nang beach.webp",
+      "type": "temple",
+      "image": "/images/cities/krabi/attractions/tiger cave temple.webp",
       "description": {
-        "en": "Popular beach town with restaurants shops and gateway to island hopping tours",
-        "nl": "Populaire badplaats met restaurants winkels en toegangspoort tot eilandhopping tours"
+        "en": "Krabi's strongest temple-and-viewpoint detour, best done early before the heat and the climb become punishing.",
+        "nl": "De sterkste tempel-en-uitzicht-detour van Krabi, het best vroeg gedaan voordat de hitte en de klim zwaar worden."
       },
       "entrance_fee": {
         "thb": 0,
         "usd": 0
       },
       "highlights": [
-        "Beach town",
-        "Island hopping",
-        "Restaurants"
+        "More than 1,200 steps",
+        "Strong panoramic payoff",
+        "Best city-side temple detour"
       ],
-      "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=Ao%20Nang%20Beach%20Krabi%20Thailand"
+      "best_time": "early morning",
+      "duration_hours": 3,
+      "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=Tiger%20Cave%20Temple%20Krabi%20Thailand"
     },
     {
       "id": 3,
       "slug": "emerald-pool",
       "name": {
-        "en": "Emerald Pool (Sa Morakot)",
-        "nl": "Smaragd Zwembad (Sa Morakot)"
+        "en": "Emerald Pool",
+        "nl": "Emerald Pool"
       },
       "type": "nature",
       "image": "/images/cities/krabi/attractions/emerald pool.webp",
       "description": {
-        "en": "Natural hot spring pool with crystal clear emerald-colored water in rainforest",
-        "nl": "Natuurlijke warmwaterbron met kristalhelder smaragdkleurig water in regenwoud"
+        "en": "The most useful inland nature stop in Krabi and the cleanest counterweight to back-to-back marine days.",
+        "nl": "De bruikbaarste inlandse natuurstop van Krabi en het schoonste tegengewicht voor meerdere maritieme dagen achter elkaar."
       },
       "entrance_fee": {
         "thb": 200,
         "usd": 6
       },
       "highlights": [
-        "Natural hot springs",
-        "Emerald water",
-        "Rainforest setting"
+        "Wildlife-sanctuary setting",
+        "Best inland contrast day",
+        "Good with the hot springs"
       ],
-      "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=Emerald%20Pool%20(Sa%20Morakot)%20Krabi%20Thailand"
+      "best_time": "morning",
+      "duration_hours": 3,
+      "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=Emerald%20Pool%20Krabi%20Thailand"
     },
     {
       "id": 4,
-      "slug": "tiger-cave-temple",
-      "name": {
-        "en": "Tiger Cave Temple (Wat Tham Suea)",
-        "nl": "Tijger Grot Tempel (Wat Tham Suea)"
-      },
-      "type": "temple",
-      "image": "/images/cities/krabi/attractions/tiger cave temple.webp",
-      "description": {
-        "en": "Buddhist temple complex with challenging climb to summit offering panoramic views",
-        "nl": "Boeddhistische tempelcomplex met uitdagende klim naar top met panoramisch uitzicht"
-      },
-      "entrance_fee": {
-        "thb": 0,
-        "usd": 0
-      },
-      "highlights": [
-        "1237 steps climb",
-        "Panoramic views",
-        "Buddhist temple"
-      ],
-      "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=Tiger%20Cave%20Temple%20(Wat%20Tham%20Suea)%20Krabi%20Thailand",
-      "seo": {
-        "metaTitle": {
-          "en": "Tiger Cave Temple Krabi — 1,260 Steps, Tips & Guide 2026",
-          "nl": "Tiger Cave Tempel Krabi — 1.260 Trappen, Tips & Gids 2026"
-        },
-        "metaDescription": {
-          "en": "Complete guide to Tiger Cave Temple (Wat Tham Suea) in Krabi. Climb 1,260 steps for stunning views. Real tips, what to expect & how to prepare.",
-          "nl": "Complete gids voor Tiger Cave Tempel (Wat Tham Suea) in Krabi. Beklim 1.260 trappen voor adembenemende uitzichten."
-        }
-      }
-    },
-    {
-      "id": 5,
-      "slug": "four-islands-tour",
-      "name": {
-        "en": "Four Islands Tour",
-        "nl": "Vier Eilanden Tour"
-      },
-      "type": "island",
-      "image": "/images/cities/krabi/attractions/Aerial view of Nui beach in koh Phi Phi Don island, in Krabi, Thailand, sunset light..webp",
-      "description": {
-        "en": "Popular boat tour visiting Phra Nang Cave Chicken Island Tup Island and Poda Island",
-        "nl": "Populaire boottour naar Phra Nang Grot Kip Eiland Tup Eiland en Poda Eiland"
-      },
-      "entrance_fee": {
-        "thb": 1200,
-        "usd": 35
-      },
-      "highlights": [
-        "Island hopping",
-        "Snorkeling",
-        "Cave exploration"
-      ],
-      "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=Four%20Islands%20Tour%20Krabi%20Thailand"
-    },
-    {
-      "id": 6,
-      "slug": "hot-springs-waterfall",
-      "name": {
-        "en": "Hot Springs Waterfall",
-        "nl": "Warmwaterbron Waterval"
-      },
-      "type": "nature",
-      "image": "/images/cities/krabi/attractions/Hot Springs Waterfall in Krabi .webp",
-      "description": {
-        "en": "Natural hot springs cascading down limestone rocks creating warm pools",
-        "nl": "Natuurlijke warmwaterbronnen die over kalkstenen rotsen stromen en warme poelen vormen"
-      },
-      "entrance_fee": {
-        "thb": 90,
-        "usd": 3
-      },
-      "highlights": [
-        "Natural hot springs",
-        "Limestone cascades",
-        "Warm pools"
-      ],
-      "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=Hot%20Springs%20Waterfall%20Krabi%20Thailand"
-    },
-    {
-      "id": 7,
-      "slug": "phi-phi-islands-krabi",
-      "name": {
-        "en": "Phi Phi Islands from Krabi",
-        "nl": "Phi Phi Eilanden vanuit Krabi"
-      },
-      "type": "island",
-      "image": "/images/cities/krabi/attractions/Aerial view sunset Phi Phi island in Andaman Sea from drone in Province of Krabi, travel landmark of Thailand..webp",
-      "description": {
-        "en": "Day trip to famous Phi Phi Islands with Maya Bay snorkeling and stunning scenery",
-        "nl": "Dagtocht naar beroemde Phi Phi Eilanden met Maya Bay snorkelen en prachtige landschappen"
-      },
-      "entrance_fee": {
-        "thb": 400,
-        "usd": 12
-      },
-      "highlights": [
-        "Maya Bay",
-        "Snorkeling",
-        "Day trips"
-      ],
-      "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=Phi%20Phi%20Islands%20from%20Krabi%20Krabi%20Thailand"
-    },
-    {
-      "id": 8,
-      "slug": "krabi-town-night-market",
-      "name": {
-        "en": "Krabi Town Night Market",
-        "nl": "Krabi Stad Nachtmarkt"
-      },
-      "type": "market",
-      "image": "/images/extra images/Young man tourist on Walking street Asian food market.webp",
-      "description": {
-        "en": "Local night market with authentic Thai street food and local atmosphere",
-        "nl": "Lokale nachtmarkt met authentiek Thais straatvoedsel en lokale sfeer"
-      },
-      "entrance_fee": {
-        "thb": 0,
-        "usd": 0
-      },
-      "highlights": [
-        "Street food",
-        "Local atmosphere",
-        "Night market"
-      ],
-      "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=Krabi%20Town%20Night%20Market%20Krabi%20Thailand"
-    },
-    {
-      "id": 9,
       "slug": "klong-thom-hot-springs",
       "name": {
-        "en": "Klong Thom Hot Springs",
-        "nl": "Klong Thom Warmwaterbronnen"
+        "en": "Khlong Thom Hot Spring Waterfall",
+        "nl": "Khlong Thom Hot Spring Waterfall"
       },
       "type": "nature",
       "image": "/images/cities/krabi/attractions/Klong Thom Hot Springs.webp",
       "description": {
-        "en": "Natural geothermal springs in tropical forest setting perfect for relaxation",
-        "nl": "Natuurlijke geothermische bronnen in tropisch bos perfect voor ontspanning"
+        "en": "Natural hot-water pools that make the Khlong Thom inland route feel distinct from Krabi's beach-and-boat side.",
+        "nl": "Natuurlijke warmwaterpoelen die de inlandroute van Khlong Thom onderscheiden van Krabi's strand-en-bootkant."
       },
       "entrance_fee": {
-        "thb": 90,
-        "usd": 3
+        "thb": 160,
+        "usd": 5
       },
       "highlights": [
-        "Geothermal springs",
-        "Tropical forest",
-        "Natural pools"
+        "Natural hot-water pools",
+        "Best paired with Emerald Pool",
+        "Useful inland reset"
       ],
-      "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=Klong%20Thom%20Hot%20Springs%20Krabi%20Thailand"
+      "best_time": "morning or late afternoon",
+      "duration_hours": 2.5,
+      "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=Khlong%20Thom%20Hot%20Spring%20Waterfall%20Krabi%20Thailand"
     },
     {
-      "id": 10,
-      "slug": "thung-teao-forest-park",
+      "id": 5,
+      "slug": "krabi-town-night-market",
       "name": {
-        "en": "Thung Teao Forest Natural Park",
-        "nl": "Thung Teao Bos Natuurpark"
+        "en": "Krabi Walking Street",
+        "nl": "Krabi Walking Street"
       },
-      "type": "nature",
-      "image": "/images/cities/krabi/attractions/railaybeach area overwiew.webp",
+      "type": "market",
+      "image": "/images/extra images/Young man tourist on Walking street Asian food market.webp",
       "description": {
-        "en": "Protected rainforest with nature trails hot springs and diverse wildlife",
-        "nl": "Beschermd regenwoud met natuurpaden warmwaterbronnen en diverse wilde dieren"
+        "en": "The best town-side evening for food, browsing, and giving Krabi more range than beach-only nights.",
+        "nl": "De beste avond in de stad voor eten, rondkijken en Krabi meer reikwijdte geven dan alleen strandavonden."
       },
       "entrance_fee": {
-        "thb": 200,
-        "usd": 6
+        "thb": 0,
+        "usd": 0
       },
       "highlights": [
-        "Rainforest trails",
-        "Wildlife watching",
-        "Hot springs"
+        "Best town evening",
+        "Good market food",
+        "Strong non-beach anchor"
       ],
-      "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=Thung%20Teao%20Forest%20Natural%20Park%20Krabi%20Thailand"
+      "best_time": "evening",
+      "duration_hours": 2,
+      "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=Krabi%20Walking%20Street%20Thailand"
+    },
+    {
+      "id": 6,
+      "slug": "khao-khanap-nam",
+      "name": {
+        "en": "Khao Khanap Nam",
+        "nl": "Khao Khanap Nam"
+      },
+      "type": "nature",
+      "image": "/images/cities/krabi/krabi-mountain-view.webp",
+      "description": {
+        "en": "Krabi's river landmark and one of the better town-side long-tail outings if you want a non-beach visual anchor.",
+        "nl": "Het rivierlandmark van Krabi en een van de betere longtail-uitstappen aan de stadskant als je een niet-strandgebonden visueel anker wilt."
+      },
+      "entrance_fee": {
+        "thb": 0,
+        "usd": 0
+      },
+      "highlights": [
+        "Twin river mountains",
+        "Strong Krabi Town-side outing",
+        "Useful with Ko Klang logic"
+      ],
+      "best_time": "daytime",
+      "duration_hours": 2,
+      "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=Khao%20Khanap%20Nam%20Krabi%20Thailand"
     }
-  ],
-  "enhanced_at": "2025-05-25T22:41:53.415Z",
-  "enhanced_count": 10
+  ]
 }

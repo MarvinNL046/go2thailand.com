@@ -1,0 +1,82 @@
+{
+  "id": 6,
+  "slug": "khao-khanap-nam",
+  "name": {
+    "en": "Khao Khanap Nam",
+    "nl": "Khao Khanap Nam"
+  },
+  "type": "nature",
+  "city_slug": "krabi",
+  "address": "Krabi River entrance, near Chao Fa Pier, Krabi Town",
+  "location": {
+    "lat": 8.0863,
+    "lng": 98.912
+  },
+  "opening_hours": "Daytime long-tail visits from the Krabi Town side",
+  "entrance_fee": {
+    "thb": 0,
+    "usd": 0
+  },
+  "description": {
+    "en": "Krabi's river landmark and one of the better town-side long-tail outings if you want a non-beach visual anchor.",
+    "nl": "Het rivierlandmark van Krabi en een van de betere stadse longtail-uitstappen als je een niet-strandgebonden visueel anker wilt."
+  },
+  "highlights": [
+    "Twin river mountains",
+    "Strong Krabi Town-side outing",
+    "Useful with Ko Klang logic"
+  ],
+  "image": "/images/cities/krabi/krabi-mountain-view.webp",
+  "official_website": null,
+  "seo": {
+    "metaTitle": {
+      "en": "Khao Khanap Nam Krabi | Go2Thailand",
+      "nl": "Khao Khanap Nam Krabi | Go2Thailand"
+    },
+    "metaDescription": {
+      "en": "Why Khao Khanap Nam is one of Krabi's better river-side outings and how to use it with Krabi Town or Ko Klang.",
+      "nl": "Waarom Khao Khanap Nam een van Krabi's betere rivieruitstappen is en hoe je het combineert met Krabi Town of Ko Klang."
+    }
+  },
+  "tags": [
+    "nature",
+    "krabi town",
+    "river",
+    "krabi",
+    "thailand"
+  ],
+  "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=Khao%20Khanap%20Nam%20Krabi%20Thailand",
+  "best_time": "daytime",
+  "duration_hours": 2,
+  "enhanced_description": "Khao Khanap Nam matters because it gives Krabi Town a visual landmark and a reason to get on a long-tail boat without committing to another island transfer. Too many Krabi itineraries treat the town side as little more than a transit zone. The twin river mountains help correct that by anchoring the Krabi River side in something memorable and distinct.\n\nTourism Authority of Thailand route material still treats Khao Khanap Nam as one of the town-side highlights and pairs it naturally with Ko Klang and the mangrove-river logic. That is the right way to use it. This is not a replacement for Railay or the coast. It is a town-and-river detour that broadens the province and makes Krabi feel less repetitive.",
+  "detailed_history": "Tourism Authority of Thailand route planning continues to describe Khao Khanap Nam as a symbol of Krabi and a landmark at the entrance to the city. That matters because the site is not only scenic; it is part of how the Krabi River side is interpreted and experienced.",
+  "visitor_experience": "Expect a shorter river-based outing rather than an all-day attraction. The value is perspective: Krabi from the river, cave context, and the feeling of using the town-side waterways instead of defaulting to the coast every time. It works best when paired with Krabi Town or Ko Klang rather than stacked on top of another marine-heavy day.",
+  "best_time_to_visit": {
+    "time_of_day": "Daytime",
+    "duration": "About 1.5 to 2 hours",
+    "crowd_level": "Generally manageable, with comfort shaped more by weather and boat timing than by fixed crowd peaks"
+  },
+  "practical_info": {
+    "how_to_get_there": "Use a long-tail boat from the Chao Fa Pier side and consider combining it with Ko Klang or a Krabi Town route.",
+    "nearby_attractions": "Krabi Walking Street, Ko Klang, Krabi River, and other town-side stops.",
+    "food_options": "Best paired with a town meal or market stop before or after the boat outing.",
+    "shopping": "This is about river scenery and the outing itself rather than shopping."
+  },
+  "insider_tips": [
+    "Use it with Krabi Town or Ko Klang instead of trying to combine it with a coast-to-inland itinerary on the same day.",
+    "Treat the boat side as part of the appeal, not just as transport.",
+    "This is one of the better ways to make the town side of Krabi feel meaningful."
+  ],
+  "verified_note": "Source-backed summary based on Tourism Authority of Thailand route material. Boat hire and route combinations can vary by pier arrangement and operator.",
+  "cultural_significance": "Khao Khanap Nam is one of the most recognizable symbols of Krabi Town and helps define the river-and-mangrove side of the province.",
+  "contentSources": [
+    {
+      "name": "Ao Railay (Railay Bay) - Tham Phra Nang Beach - Thale Waek - Ko Po Da - Khao Khanap Nam Viewpoint - Tha Pom - Khlang Cave",
+      "url": "https://www.tourismthailand.org/Trip-Planner/Suggestion-Detail/ao-railay-railay-bay-tham-phra-nang-beach-phra-nang-cave-beach-thale-waek-separated-sea-ko-po-da-khao-khanap-nam-viewpoint-tha-pom-khlang-cave"
+    },
+    {
+      "name": "recommended-route-for-one-day",
+      "url": "https://www.tourismthailand.org/Trip-Planner/Suggestion-Detail/recommended-route-for-one-day"
+    }
+  ]
+}

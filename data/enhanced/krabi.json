@@ -15,22 +15,24 @@
   "region": "Southern",
   "province": "Krabi",
   "description": {
-    "en": "Famous for stunning limestone cliffs, beaches, and island hopping (Railay, Ao Nang, Koh Phi Phi).",
-    "nl": "Bekend om de kalkstenen kliffen, stranden en eilanden zoals Railay en Phi Phi.",
-    "ja": "壮大な石灰岩の崖、美しいビーチ、島巡り（ライレイ、アオナン）で有名なクラビは、タイ南部を代表するリゾート地です。",
-    "ko": "멋진 석회암 절벽, 해변, 아일랜드 호핑(라일레이, 아오낭, 꼬피피)으로 유명한 태국 남부의 대표 리조트 지역입니다.",
-    "th": "จังหวัดชายฝั่งอันดามัน มีหาดไร่เลย์ เกาะพีพี หน้าผาหินปูน และน้ำทะเลใส",
-    "de": "Bekannt für atemberaubende Kalksteinfelsen, Strände und Inselhopping (Railay, Ao Nang, Koh Phi Phi).",
-    "fr": "Célèbre pour ses impressionnantes falaises de calcaire, ses plages et des excursions d'île en île (Railay, Ao Nang, Koh Phi Phi).",
-    "ru": "Известен потрясающими известняковыми скалами, пляжами и путешествиями между островами (Railay, Ao Nang, Ко Фи-Фи).",
-    "zh": "以壮观的石灰岩峭壁、海滩和跳岛游而闻名（Railay、Ao Nang、皮皮岛）。"
+    "en": "An Andaman coast base that works best when you split it into Ao Nang and Railay for beaches and boat access, Krabi Town for food and practical overnights, and one inland nature day instead of trying to do every island tour at once.",
+    "nl": "Een Andamankust-basis die het best werkt als je Ao Nang en Railay gebruikt voor strand en boten, Krabi Town voor eten en praktische overnachtingen, en een enkele inlandse natuurdagexcursie inplant in plaats van elke eilandtour tegelijk te willen doen.",
+    "ja": "クラビは、アオナンとライレイをビーチとボートアクセスの拠点、クラビタウンを食事と実務的な宿泊の拠点、そして内陸の自然エリアを一日だけ選んで組み込むと最もまとまりやすいアンダマン側の目的地です。",
+    "ko": "끄라비는 아오낭과 라일레이를 해변과 보트 이동의 거점으로, 끄라비 타운을 식사와 실용적인 숙박의 거점으로, 그리고 내륙 자연 지역 하루 코스를 더할 때 가장 잘 맞는 안다만 해안 여행지다.",
+    "th": "กระบี่เที่ยวได้ดีเมื่อแยกทริปออกเป็นอ่าวนางและไร่เลย์สำหรับทะเลและเรือ กระบี่ทาวน์สำหรับอาหารและการพักที่สะดวก และเลือกเดย์ทริปธรรมชาติฝั่งในเพียงหนึ่งวัน แทนการยัดทุกทัวร์เกาะไว้ในทริปเดียว",
+    "de": "Krabi funktioniert am besten, wenn Sie Ao Nang und Railay fur Strand und Bootszugang, Krabi Town fur Essen und praktische Ubernachtungen sowie einen ausgewahlten Inland-Naturtag trennen.",
+    "fr": "Krabi fonctionne mieux lorsqu'on la divise entre Ao Nang et Railay pour les plages et les bateaux, Krabi Town pour la nourriture et les nuits pratiques, puis une seule journee nature a l'interieur.",
+    "ru": "Краби лучше всего работает, когда вы делите поездку на Ао Нанг и Райлей для пляжей и лодок, Краби-Таун для еды и практичных ночевок, а затем добавляете один внутренний природный день вместо попытки уместить все островные туры сразу.",
+    "zh": "甲米最适合按功能分区来安排：奥南和莱利负责海滩与船程，甲米镇负责吃饭和实用住宿，再加上一天内陆自然行程，而不是把所有跳岛团都硬塞进同一次旅行。"
   },
   "population": 36000,
   "highlights": [
     "Railay Beach",
-    "Ao Nang",
+    "Tiger Cave Temple",
     "Emerald Pool",
-    "Tiger Cave Temple"
+    "Khlong Thom Hot Spring Waterfall",
+    "Krabi Walking Street",
+    "Khao Khanap Nam"
   ],
   "location": {
     "lat": 8.0863,
@@ -39,1742 +41,705 @@
   "image": "/images/cities/krabi/krabi-mountain-view.webp",
   "seo": {
     "metaTitle": {
-      "en": "Discover Krabi | What to do in Krabi?",
-      "nl": "Ontdek Krabi | Wat te doen in Krabi?",
-      "ja": "クラビを満喫 | クラビの観光・見どころガイド",
-      "ko": "끄라비 태국 — 해변, 섬 & 여행 가이드 2026",
-      "th": "กระบี่ ประเทศไทย — คู่มือท่องเที่ยวฉบับสมบูรณ์ 2026",
-      "de": "Entdecken Sie Krabi | Was tun in Krabi?",
-      "fr": "Découvrir Krabi | Que faire à Krabi ?",
-      "ru": "Откройте для себя Краби | Что делать в Краби?",
-      "zh": "发现甲米 | 在甲米可以做什么？"
+      "en": "Krabi Thailand Guide 2026 | Railay, Hotels, Island Trips",
+      "nl": "Krabi Thailand Gids 2026 | Railay, hotels, eilandtrips",
+      "ja": "クラビ旅行ガイド 2026 | ライレイ、ホテル、島ツアー",
+      "ko": "끄라비 여행 가이드 2026 | 라일레이, 호텔, 아일랜드 트립",
+      "th": "กระบี่ 2026 | ไร่เลย์ ที่พัก และทริปทางทะเล",
+      "de": "Krabi Thailand Guide 2026 | Railay, Hotels, Inseltrips",
+      "fr": "Guide Krabi 2026 | Railay, hotels et sorties en mer",
+      "ru": "Краби 2026 | Райлей, отели и морские выезды",
+      "zh": "甲米旅行指南 2026 | 莱利、酒店与出海行程"
     },
     "metaDescription": {
-      "en": "Your guide to Krabi, Thailand – tips, highlights, food, hotels.",
-      "nl": "Jouw gids voor Krabi, Thailand – tips, highlights, eten, hotels.",
-      "ja": "タイ・クラビの旅行ガイド — おすすめスポット、グルメ、ホテル情報をご紹介。",
-      "ko": "끄라비(태국) 완벽 여행 가이드: 라일레이 해변, 꼬피피, 석회암 절벽 & 아일랜드 호핑. 가격, 팁, 가는 법.",
-      "th": "คู่มือท่องเที่ยวกระบี่ ประเทศไทย — สถานที่ท่องเที่ยว อาหาร ที่พัก และเคล็ดลับ อัปเดต 2026",
-      "de": "Ihr Reiseführer für Krabi, Thailand – Tipps, Highlights, Essen, Hotels.",
-      "fr": "Votre guide de Krabi, Thaïlande – conseils, points forts, gastronomie, hôtels.",
-      "ru": "Ваш путеводитель по Краби, Таиланд — советы, достопримечательности, еда, отели.",
-      "zh": "您的泰国甲米指南——贴士、亮点、美食、酒店。"
+      "en": "Plan Krabi around Ao Nang and Railay, stronger hotel zones, Krabi Town food stops, and the inland nature detours that add range beyond island tours.",
+      "nl": "Plan Krabi rond Ao Nang en Railay, sterkere hotelzones, foodstops in Krabi Town en inlandse natuurdetours die meer diepte geven dan alleen eilandtours.",
+      "ja": "アオナンとライレイ、ホテル選び、クラビタウンの食事、そして島ツアーだけでは終わらない内陸の自然立ち寄りまで整理した実用ガイドです。",
+      "ko": "아오낭과 라일레이, 더 나은 숙소 구역, 끄라비 타운의 식사 포인트, 그리고 아일랜드 투어 밖의 내륙 자연 코스까지 정리한 실전 가이드다.",
+      "th": "วางแผนเที่ยวกระบี่ให้ดีขึ้นด้วยการแยกอ่าวนาง ไร่เลย์ โซนที่พัก จุดกินในเมืองกระบี่ และทริปธรรมชาติฝั่งในที่ช่วยให้ทริปมีมิติมากกว่าทัวร์เกาะ",
+      "de": "Planen Sie Krabi uber Ao Nang und Railay, bessere Hotelzonen, Krabi-Town-Food-Stops und Inland-Naturausfluge, die mehr bieten als reine Inseltrips.",
+      "fr": "Planifiez Krabi autour d'Ao Nang et Railay, de meilleures zones d'hotel, des etapes food a Krabi Town et des detours nature a l'interieur qui ajoutent une vraie profondeur.",
+      "ru": "Планируйте Краби через Ао Нанг и Райлей, более сильные отельные зоны, гастрономические остановки в Краби-Тауне и природные выезды вглубь материка.",
+      "zh": "从奥南与莱利、住宿分区，到甲米镇的觅食点和内陆自然行程，这份指南帮助你把甲米安排得比单纯跳岛更完整。"
     }
   },
   "categories": {
     "food": {
       "en": "Best restaurants and street food in Krabi",
       "nl": "Beste restaurants en streetfood in Krabi",
-      "ja": "クラビのおすすめレストラン＆ストリートフード",
+      "ja": "クラビのおすすめレストランとストリートフード",
       "ko": "끄라비 추천 레스토랑과 길거리 음식",
       "th": "ร้านอาหารและสตรีทฟู้ดที่ดีที่สุดในกระบี่"
     },
     "hotels": {
       "en": "Top hotels in Krabi | Tips & deals",
       "nl": "Beste hotels in Krabi | Tips & aanbiedingen",
-      "ja": "クラビのおすすめホテル｜お得な情報＆アドバイス",
-      "ko": "끄라비 추천 호텔 | 팁 & 특가",
+      "ja": "クラビのおすすめホテル | 実用ガイド",
+      "ko": "끄라비 추천 호텔 | 실전 팁",
       "th": "โรงแรมแนะนำในกระบี่ | เคล็ดลับและดีล"
     },
     "attractions": {
       "en": "Top attractions in Krabi",
       "nl": "Top bezienswaardigheden in Krabi",
-      "ja": "クラビの人気観光スポット",
-      "ko": "끄라비 인기 관광 명소",
+      "ja": "クラビの見どころ",
+      "ko": "끄라비 핵심 명소",
       "th": "สถานที่ท่องเที่ยวยอดนิยมในกระบี่"
     }
   },
   "tags": [
     "southern",
     "krabi",
-    "thailand",
-    "travel",
-    "tourism",
-    "guide"
+    "andaman",
+    "railay",
+    "beaches",
+    "thailand"
   ],
-  "enhanced_description": "Krabi is not just a destination; it’s a sensory explosion. As I walked through Ao Nang, the salty sea breeze tangled with the sweet scent of grilled prawns from the beachside stalls. The towering limestone cliffs loomed over me, their rugged beauty contrasting with the soft, inviting sands below. I remember my first day in Krabi vividly; I had just arrived, and the vibrant colors of the sunset painted the sky in hues I had never seen before. The sound of laughter and waves crashing filled the air, creating a symphony that felt like home. What sets Krabi apart from other Thai destinations is its laid-back vibe combined with breathtaking natural beauty. Unlike the bustling streets of Bangkok or the party atmosphere of Phuket, Krabi lulled me into a sense of peace, inviting me to explore its hidden treasures at my own pace.\n\nOne of my favorite memories is from a spontaneous trip to Railay Beach. I had just finished a morning of climbing the cliffs (which I highly recommend for the thrill and the views!) when I stumbled upon a small beachside café. It was run by a local woman named Som, who welcomed me with a warm smile and a plate of her homemade mango sticky rice. As I savored the sweet, creamy rice paired with fresh mango, I listened to her stories about life in Krabi, her family, and how the beach was her sanctuary. It was moments like this that made me realize Krabi is a tapestry of personal connections woven into the fabric of its stunning landscape.\n\nAs you wander through the emerald waters of the Emerald Pool, the feeling of stepping into a dream is almost overwhelming. I remember the first time I dipped my toes into the warm, mineral-rich water. The vibrant greens of the surrounding jungle seemed to pulse with life, and I felt a deep connection to nature. Unlike the more commercialized spots in Thailand, Krabi offers these serene escapes where you can truly immerse yourself in the environment. The Tiger Cave Temple, perched high on a hill, was another unforgettable experience. Climbing the 1,237 steps was no small feat, but reaching the summit and taking in the panoramic views of the surrounding landscape was worth every drop of sweat. It’s a place of reflection and reverence, where the air is thick with spirituality and the sounds of distant chanting.\n\nKrabi has a way of making you feel alive. Whether it’s the thrill of rock climbing, the tranquility of a hidden beach, or the warmth of a local’s hospitality, each experience is a story waiting to be told. This is a place where every corner holds a secret, every meal tells a story, and every interaction leaves a mark on your heart. So pack your bags, leave your worries behind, and let Krabi embrace you with its beauty and charm.",
+  "enhanced_description": "Krabi is strongest when you stop treating it as one interchangeable beach province and start separating what each zone is actually for. Ao Nang is the practical boat-and-beach base, Railay is the dramatic limestone-and-sand payoff, Krabi Town is the place that keeps the trip connected to food and everyday life, and the Khlong Thom side is where the province shows it can do more than island hopping. Once you see those layers clearly, the whole destination becomes easier to plan.\n\nThat structure matters because Krabi is easy to overbuild. Travelers often stack too many boat tours, too many islands, and too many transfer-heavy beach stops into the same short stay. The better version is more selective: choose whether the trip is Railay-led, resort-led, or town-plus-day-trips, then keep only one or two real marine days and one inland nature day. That is usually enough to make Krabi feel broad without turning it into a transport schedule.",
+  "overview": "Krabi works best as a split destination, not as a generic southern beach box. Tourism Authority of Thailand material still frames the province through Railay, Thale Waek, Ban Ko Klang, and city-river landmarks such as Khao Khanap Nam, which is useful because it shows the province is not only a string of island boats. The strongest first trip usually combines one sea-facing base, one inland nature block, and at least one meal or market session in town.\n\nAo Nang remains the most practical base for many first visits because it keeps long-tail boats, transfers, and day tours simple. Railay is the visual highlight, but it is better used deliberately rather than as a rushed photo stop. Krabi Town deserves at least one evening if you want the trip to feel less sealed inside beach strips, while Khlong Thom and the wildlife-sanctuary side add a different kind of day altogether.",
   "hidden_gems": [
     {
-      "name": "Koh Hong",
-      "story": "I discovered Koh Hong during a quiet day of exploring. A local fisherman, seeing my curiosity, offered to take me on a private longtail boat to this hidden paradise. The lagoon was breathtaking, surrounded by towering cliffs and lush greenery.",
-      "how_to_find": "Take a longtail boat from Ao Nang Beach; negotiate with the boatmen near the pier for a half-day trip.",
-      "best_time": "Early morning to beat the crowds and catch the sunrise.",
+      "name": "Ban Na Teen craft village",
+      "story": "Ban Na Teen is one of the cleaner ways to see Krabi beyond beaches, with coconut-shell crafts, batik, fruit-growing, and a village rhythm that has not been flattened into resort packaging.",
+      "how_to_find": "Use it as a short inland detour from Ao Nang rather than a full-day replacement for the main coast.",
+      "best_time": "Morning or late afternoon.",
       "local_insights": [
-        "Bring your own snacks and drinks; there are no shops on the island."
+        "This works best if you want a cultural side trip without going far from Ao Nang.",
+        "Ban Na Teen is stronger for community texture than for checklist sightseeing."
       ]
     },
     {
-      "name": "Klong Thom Hot Springs",
-      "story": "On a rainy day, I found solace in the Klong Thom Hot Springs. The warm waters were a perfect escape, and I shared laughs with locals who showed me how to make herbal compresses from the plants nearby.",
-      "how_to_find": "Located about 30 minutes from Krabi town; follow signs to Klong Thom village.",
-      "best_time": "Weekdays are less crowded, especially in the early morning.",
+      "name": "Ko Klang community",
+      "story": "Ko Klang gives Krabi one of its best slow-travel counterweights: mangrove-edge community life, craft demonstrations, and local seafood that makes the town-river side feel distinct from Ao Nang.",
+      "how_to_find": "Reach it by boat from the Krabi Town side and keep the day focused on the community instead of combining it with multiple unrelated stops.",
+      "best_time": "Daytime, with enough time for a meal and one or two craft visits.",
       "local_insights": [
-        "Bring a towel and be ready to relax; it's a local favorite for unwinding."
+        "Ko Klang is stronger as a slower cultural outing than as a quick transit stop.",
+        "This is one of the easiest ways to feel Krabi's Muslim fishing-community identity."
       ]
     },
     {
-      "name": "Ao Thalane",
-      "story": "Kayaking through Ao Thalane was a magical experience. I remember gliding silently through the mangroves, spotting monkeys swinging above me, and sharing a moment of awe with a local guide who taught me about the ecosystem.",
-      "how_to_find": "Drive or take a taxi to Ao Thalane; there are several kayak rental shops at the entrance.",
-      "best_time": "Late afternoon when the light is soft and the wildlife is active.",
+      "name": "Khao Khanap Nam by long-tail",
+      "story": "The twin river mountains are a better Krabi Town-side outing than many visitors expect, especially if you want river scenery and cave context without another island transfer.",
+      "how_to_find": "Take a short long-tail ride from Chao Fa Pier and treat it as part of a town-and-river day.",
+      "best_time": "Earlier in the day before the heat builds.",
       "local_insights": [
-        "Hire a local guide to enhance your experience; they know the best spots."
-      ]
-    },
-    {
-      "name": "Phra Nang Cave Beach",
-      "story": "I found Phra Nang Cave Beach after a long hike. The cave, filled with offerings to the spirit of the drowned princess, fascinated me. I spent hours just soaking in the beauty and the stories it held.",
-      "how_to_find": "Accessible by boat from Ao Nang or Railay Beach; it’s often less crowded in the late afternoon.",
-      "best_time": "Late afternoon to catch the sunset.",
-      "local_insights": [
-        "Respect the local customs; it’s a sacred site for fishermen."
-      ]
-    },
-    {
-      "name": "Koh Poda",
-      "story": "While island hopping, I fell in love with Koh Poda. The sand felt like powder between my toes, and I shared stories with fellow travelers while watching the sunset over the Andaman Sea.",
-      "how_to_find": "Book a tour from Ao Nang or hire a longtail boat.",
-      "best_time": "Sunset for the most stunning views.",
-      "local_insights": [
-        "Bring a picnic; there are no shops on the island."
+        "The Krabi River side makes more sense once you stop comparing everything directly with beaches.",
+        "This is a good non-beach visual anchor if you are sleeping in town."
       ]
     }
   ],
   "authentic_experiences": [
     {
-      "activity": "Thai cooking class",
-      "story": "I took a cooking class with a local chef who taught me how to make Pad Thai from scratch. We visited the market together to pick fresh ingredients, and I learned the significance of each dish in Thai culture.",
-      "cultural_significance": "Cooking is a way for locals to share their heritage and connect with others.",
-      "how_to_participate": "Look for classes in Ao Nang; many offer market tours included.",
+      "activity": "Use Krabi Town for one evening instead of sleeping only in beach zones",
+      "story": "Krabi Town is what keeps the province from turning into a pure boat-departure corridor. Markets, riverfront movement, and a less resort-led night rhythm give the trip practical and cultural range.",
+      "cultural_significance": "This is where Krabi feels most like a working southern province rather than a string of beach logistics.",
+      "how_to_participate": "Spend one evening around Krabi Walking Street or the riverfront instead of eating every night in Ao Nang.",
       "insights": [
-        "Be open to trying new flavors; it’s part of the experience."
-      ]
+        "Town time adds more depth to Krabi than another generic beachfront dinner.",
+        "One overnight or one evening in town is often enough to change the whole feel of the trip."
+      ],
+      "href": "/city/krabi/attractions/krabi-town-night-market/",
+      "cta_label": "See the walking street guide"
     },
     {
-      "activity": "Muay Thai training",
-      "story": "I decided to try Muay Thai at a local gym. The trainers were tough but kind, pushing me to my limits while sharing stories about their own journeys in the sport.",
-      "cultural_significance": "Muay Thai is deeply rooted in Thai culture, representing strength and tradition.",
-      "how_to_participate": "Join a beginner class at one of the local gyms in Ao Nang.",
+      "activity": "Treat Railay as a real half-day or overnight, not a rushed boat photo stop",
+      "story": "Railay only works properly when you give it time. The limestone wall, beach shifts, and boat-only arrival are the point, but they disappear if you compress the stop into a crowded rush-hour landing.",
+      "cultural_significance": "Railay is one of Krabi's defining landscapes and still the province's clearest limestone-and-sea image.",
+      "how_to_participate": "Go early, stay late, or sleep nearby so the cliffs and beaches can breathe outside the busiest middle hours.",
       "insights": [
-        "Respect the trainers; they appreciate dedication and effort."
-      ]
+        "Railay is much stronger when you build a part of the day around it rather than tagging it onto another tour.",
+        "This is the single clearest scenic anchor of a first Krabi trip."
+      ],
+      "href": "/city/krabi/attractions/railay-beach/",
+      "cta_label": "See the Railay guide"
     },
     {
-      "activity": "Volunteer at an elephant sanctuary",
-      "story": "Spending a day at an elephant sanctuary was life-changing. I learned about elephant conservation and shared a special bond with these gentle giants while feeding and bathing them.",
-      "cultural_significance": "Elephants hold significant cultural importance in Thailand, symbolizing strength and wisdom.",
-      "how_to_participate": "Research and book a day at one of the ethical sanctuaries near Krabi.",
+      "activity": "Keep one inland Khlong Thom day in the plan",
+      "story": "Krabi is easy to flatten into boats and beaches, which is exactly why one inland day matters. Emerald Pool and the hot-spring side give the province a different rhythm and keep the trip from feeling repetitive.",
+      "cultural_significance": "This inland nature layer is one of the main reasons Krabi is broader than a single beach strip.",
+      "how_to_participate": "Pair Emerald Pool with the hot-spring area and avoid adding extra island transfers to the same day.",
       "insights": [
-        "Be respectful and follow the guidelines; it’s crucial for the elephants' well-being."
-      ]
+        "This is a better contrast day than trying to do more minor islands back to back.",
+        "Krabi's inland side is most useful when kept simple."
+      ],
+      "href": "/city/krabi/attractions/emerald-pool/",
+      "cta_label": "See the Emerald Pool guide"
     },
     {
-      "activity": "Local fishing with fishermen",
-      "story": "I spent a morning on a fishing boat with local fishermen. They taught me traditional fishing techniques and shared stories of their ancestors, connecting me to the land and sea.",
-      "cultural_significance": "Fishing is a vital part of life in Krabi, providing sustenance and a sense of community.",
-      "how_to_participate": "Arrange a fishing trip through local tour operators or guesthouses.",
+      "activity": "Use Ko Klang or Ban Na Teen if you want a real local counterweight",
+      "story": "Krabi has community-side stops that make sense if you actually want crafts, village routines, or a slower food-led half-day instead of another marine itinerary.",
+      "cultural_significance": "These community routes preserve parts of Krabi's Muslim coastal and agricultural identity that beach stays do not show on their own.",
+      "how_to_participate": "Choose one community detour only and let it stand on its own.",
       "insights": [
-        "Be patient; fishing requires time and respect for nature."
-      ]
-    },
-    {
-      "activity": "Thai massage workshop",
-      "story": "I joined a workshop to learn traditional Thai massage. The instructor was a master, and I felt the healing power of the techniques as I practiced on fellow students.",
-      "cultural_significance": "Massage is an integral part of Thai culture, promoting wellness and relaxation.",
-      "how_to_participate": "Look for workshops in Ao Nang or Krabi town; many are offered by local spas.",
-      "insights": [
-        "Take your time to learn; it's about connecting with the energy of the body."
-      ]
+        "Community routes work best when they are chosen intentionally, not added as filler.",
+        "Ko Klang is stronger for slow travel; Ban Na Teen is easier from Ao Nang."
+      ],
+      "href": "/city/krabi/top-10-attractions/",
+      "cta_label": "See the attraction guide"
     }
   ],
   "foodie_adventures": [
     {
-      "dish": "Khao Soi",
-      "location": "Roti Chao Wang in Krabi Town",
-      "story": "The first time I tasted Khao Soi, I was blown away by the complex flavors of the curry and the crunch of the fried noodles. It felt like a warm hug on a rainy day.",
-      "price_range": "Around 60 baht.",
+      "dish": "One proper town-market dinner",
+      "location": "Krabi Walking Street",
+      "story": "Krabi food improves when at least one evening belongs to the town side rather than to beachfront convenience dining. Walking Street gives the province a more grounded food rhythm and keeps the trip flexible.",
+      "where_to_find": "Use the weekend walking-street zone for grazing, snacks, and simple southern dishes.",
+      "price_range": "Budget to mid-range",
       "ordering_tips": [
-        "Ask for it spicy; the locals love their heat."
-      ]
+        "Walk once before ordering so you do not settle on the first stall.",
+        "This is the easiest way to diversify a resort-heavy Krabi stay."
+      ],
+      "href": "/city/krabi/attractions/krabi-town-night-market/",
+      "cta_label": "See the walking street guide"
     },
     {
-      "dish": "Som Tum (Papaya Salad)",
-      "location": "Local street stalls in Ao Nang",
-      "story": "I watched as the vendor pounded the ingredients together, the sound echoing in the bustling market. The first bite was a perfect balance of sweet, sour, and spicy.",
-      "price_range": "30-50 baht.",
+      "dish": "One Ko Klang seafood or community-style lunch",
+      "location": "Ko Klang community",
+      "story": "The Krabi river-and-mangrove side is where the province can still feel lived-in. A simple Ko Klang meal often does more for the trip than another polished but forgettable beach-strip lunch.",
+      "where_to_find": "Use Ko Klang when you want food tied to a community visit rather than a resort itinerary.",
+      "price_range": "Budget to mid-range",
       "ordering_tips": [
-        "Specify your spice level; it can get intense!"
-      ]
+        "Make the meal part of a slower cultural day instead of a quick transfer stop.",
+        "Community food stops work best when you keep expectations practical and local."
+      ],
+      "href": "/city/krabi/top-10-restaurants/",
+      "cta_label": "See more food picks"
     },
     {
-      "dish": "Massaman Curry",
-      "location": "Chao Nang Restaurant in Ao Nang",
-      "story": "The richness of the Massaman curry took me by surprise. The slow-cooked beef melted in my mouth, and I savored every spoonful with rice.",
-      "price_range": "80-120 baht.",
+      "dish": "One serious destination dinner in a sea-facing resort",
+      "location": "Raya Dining, Krua Phranang, Saffron, or Jampoon",
+      "story": "Krabi has enough high-end resort inventory that one polished dinner can make sense. The mistake is doing that every night and ending up with a trip that never leaves hotel mode.",
+      "where_to_find": "Use one destination dinner and keep the rest of the food plan looser and more local.",
+      "price_range": "Upscale",
       "ordering_tips": [
-        "Pair it with roti for an authentic experience."
-      ]
+        "Treat the splurge as the exception, not the entire restaurant strategy.",
+        "Krabi is better when one formal dinner sits beside simpler market and town meals."
+      ],
+      "href": "/city/krabi/top-10-restaurants/",
+      "cta_label": "See more food picks"
     },
     {
-      "dish": "Mango Sticky Rice",
-      "location": "Som’s Cafe at Railay Beach",
-      "story": "Som’s version was the best I’ve ever had, with perfectly ripe mango and creamy coconut sauce. It’s a sweet memory I cherish.",
-      "price_range": "50 baht.",
+      "dish": "One beachside lunch only if the zone itself matters",
+      "location": "Railay or the Klong Muang side",
+      "story": "Krabi can justify one scenery-led lunch if the beach or limestone setting is part of the reason you came. What weakens the trip is turning every meal into a view-first decision.",
+      "where_to_find": "Use this on a Railay or resort-coast day, then return to town or market food later.",
+      "price_range": "Mid-range to upscale",
       "ordering_tips": [
-        "Ask for extra coconut sauce; it’s heavenly!"
-      ]
-    },
-    {
-      "dish": "Pad Thai",
-      "location": "Nadia’s Pad Thai in Ao Nang",
-      "story": "Nadia’s Pad Thai is legendary. Watching her cook with such passion was a delight, and the taste was a perfect blend of flavors.",
-      "price_range": "50-70 baht.",
-      "ordering_tips": [
-        "Try it with shrimp for a treat."
-      ]
-    },
-    {
-      "dish": "Grilled Prawns",
-      "location": "Beachfront stalls in Ao Nang",
-      "story": "Sitting on the beach with a plate of grilled prawns, I felt like I had discovered paradise. The smoky flavor paired perfectly with a cold beer.",
-      "price_range": "100-150 baht.",
-      "ordering_tips": [
-        "Ask for the spicy dipping sauce; it’s a must!"
-      ]
-    },
-    {
-      "dish": "Coconut Ice Cream",
-      "location": "Local vendors in Ao Nang",
-      "story": "On a hot day, nothing beats the refreshing taste of coconut ice cream served in a coconut shell. It was a delightful treat that made me smile.",
-      "price_range": "30 baht.",
-      "ordering_tips": [
-        "Add toppings like peanuts and sweet corn for a twist."
-      ]
-    },
-    {
-      "dish": "Larb Gai (Spicy Chicken Salad)",
-      "location": "Local markets in Krabi Town",
-      "story": "I was hesitant at first, but the first bite of Larb Gai was a revelation. The freshness of the herbs and the crunch of the vegetables were exhilarating.",
-      "price_range": "40 baht.",
-      "ordering_tips": [
-        "Don’t skip the sticky rice; it complements the dish perfectly."
-      ]
+        "Keep the rest of the day simple if you are already paying for scenery and transfers.",
+        "Scenic meals work best when they are attached to a strong route, not when they are the whole plan."
+      ],
+      "href": "/city/krabi/top-10-restaurants/",
+      "cta_label": "See more food picks"
     }
   ],
   "local_insights": [
-    {
-      "observation": "The pace of life is much slower than in Bangkok.",
-      "tip": "Don't rush; embrace the laid-back lifestyle.",
-      "surprise": "I was amazed by how much more connected I felt to nature."
-    },
-    {
-      "observation": "Locals are incredibly friendly and open.",
-      "tip": "Learn a few basic Thai phrases; it goes a long way.",
-      "surprise": "I made friends with shop owners who remembered me on my next visit."
-    },
-    {
-      "observation": "The importance of family and community is profound.",
-      "tip": "Participate in local festivals; they’re a great way to connect.",
-      "surprise": "I was invited to a family meal during a festival, which was unforgettable."
-    },
-    {
-      "observation": "Street food is not just food; it’s a social experience.",
-      "tip": "Eat where the locals eat; it’s usually the best.",
-      "surprise": "I found myself chatting with strangers over meals, sharing stories."
-    },
-    {
-      "observation": "Respect for nature is deeply ingrained.",
-      "tip": "Always clean up after yourself, especially at beaches.",
-      "surprise": "Locals often organize clean-up events for their beloved beaches."
-    }
+    "Krabi becomes much easier to plan once you choose between Ao Nang convenience, Railay scenery, or a quieter Klong Muang-style resort coast.",
+    "One or two marine days are enough for many first visits; after that, town or inland nature gives better range than more boat repetition.",
+    "Krabi Town adds more practical and food value than many first-timers expect.",
+    "Railay is better used as a real time block than as a rushed add-on from a crowded day tour.",
+    "Khlong Thom is the simplest way to give a Krabi trip a different tempo from the coast."
   ],
-  "seasonal_secrets": {
-    "best_times": {
-      "November": "The weather is cooler, making it ideal for outdoor activities."
-    },
-    "local_festivals": [
-      "Loy Krathong (November)",
-      "Songkran (April)"
-    ],
-    "seasonal_foods": {
-      "summer": "Fresh tropical fruits like mangosteen and rambutan."
-    },
-    "insider_tips": {
-      "rainy season": "Embrace the rain; it's when the landscape is lush and beautiful."
-    }
-  },
-  "budget_reality": {
-    "daily_costs": {
-      "breakfast": "40 baht for a local omelet and rice.",
-      "lunch": "60 baht for a bowl of noodles at a street stall.",
-      "dinner": "150 baht for a seafood feast on the beach."
-    },
-    "money_saving_tricks": [
-      "Eat at local markets instead of restaurants.",
-      "Use public transport or walk whenever possible."
-    ],
-    "where_to_splurge": [
-      "Consider splurging on a sunset dinner at a beachside restaurant."
-    ],
-    "hidden_costs": [
-      "Tourist attractions sometimes have unexpected fees.",
-      "Don’t forget to budget for tips; it's appreciated."
-    ]
-  },
+  "seasonal_secrets": "Krabi's cleanest planning window still runs through the drier Andaman-season months, but that does not make the rest of the year useless. Green-season travel can soften crowds and hotel pricing, though sea state and island-tour comfort become more variable. When the weather is less cooperative for boats, town time, inland nature, and shorter coast-based outings become more valuable than forcing a marine schedule that the conditions do not really support.",
+  "budget_reality": "Krabi can still be handled moderately if you keep the boat logic under control. Costs rise fast when every day includes a private transfer, another island circuit, or a sea-facing resort dinner. The better use of budget is choosing the right base, keeping only one or two marine days, and using Krabi Town or market meals to stop the trip from becoming a string of premium transport decisions.",
   "top_attractions": [
     {
       "rank": 1,
       "name": "Railay Beach",
-      "description": "Accessible only by boat, this iconic beach features towering limestone cliffs, turquoise waters, and is renowned for rock climbing and stunning sunset views.",
-      "location": "Accessible by longtail boat from Ao Nang Beach",
-      "entrance_fee": "Free",
+      "description": "Krabi's defining limestone-and-sea landscape and the clearest scenic anchor for a first stay.",
+      "location": "Railay peninsula",
+      "entrance_fee": "Free beach access; boat transfer applies",
       "highlights": [
-        "Rock climbing",
-        "Limestone cliffs",
-        "Visit early morning to avoid crowds"
-      ]
+        "Boat-only arrival",
+        "Best scenic anchor",
+        "Worth a real time block"
+      ],
+      "href": "/city/krabi/attractions/railay-beach/",
+      "cta_label": "See the Railay guide"
     },
     {
       "rank": 2,
-      "name": "Tiger Cave Temple (Wat Tham Suea)",
-      "description": "Historic Buddhist temple featuring 1,237 steps leading to a cave with panoramic jungle views and monastery at the summit.",
-      "location": "Krabi Town area",
+      "name": "Tiger Cave Temple",
+      "description": "The strongest religious-and-viewpoint stop in Krabi, best done early before the heat builds.",
+      "location": "Near Krabi Town",
       "entrance_fee": "Free",
       "highlights": [
-        "1,237 steps with panoramic views",
-        "Active monastery",
-        "Early morning visits recommended"
-      ]
+        "More than 1,200 steps",
+        "Best temple climb",
+        "Strong city-side detour"
+      ],
+      "href": "/city/krabi/attractions/tiger-cave-temple/",
+      "cta_label": "See the Tiger Cave guide"
     },
     {
       "rank": 3,
-      "name": "Emerald Pool (Sa Morakot)",
-      "description": "A naturally warm swimming hole set in lush rainforest, fed by underground hot springs and surrounded by limestone formations.",
-      "location": "Khlong Thom area, approximately 40km from Krabi Town",
-      "entrance_fee": "200 THB ($6)",
+      "name": "Emerald Pool",
+      "description": "The most useful inland nature stop when you want Krabi to feel broader than beaches and boats.",
+      "location": "Khlong Thom side",
+      "entrance_fee": "Park fee applies",
       "highlights": [
-        "Naturally warm water",
-        "Rainforest setting",
-        "Combine with Hot Springs Waterfall"
-      ]
+        "Wildlife-sanctuary setting",
+        "Best inland nature stop",
+        "Good with the hot springs"
+      ],
+      "href": "/city/krabi/attractions/emerald-pool/",
+      "cta_label": "See the Emerald Pool guide"
     },
     {
       "rank": 4,
-      "name": "Hot Springs Waterfall (Klong Thom Hot Springs)",
-      "description": "Natural waterfall with warm mineral-rich pools set amid limestone cascades and jungle vegetation.",
-      "location": "Khlong Thom area, near Emerald Pool",
-      "entrance_fee": "90 THB ($3)",
+      "name": "Khlong Thom Hot Spring Waterfall",
+      "description": "A stronger companion to Emerald Pool than another extra island tour when the trip needs one different kind of day.",
+      "location": "Khlong Thom district",
+      "entrance_fee": "Park fee applies",
       "highlights": [
-        "Warm mineral pools",
-        "Local favorite",
-        "Accessible 30 minutes from Krabi Town"
-      ]
+        "Natural hot-water pools",
+        "Useful inland pairing",
+        "Best as part of one nature day"
+      ],
+      "href": "/city/krabi/attractions/klong-thom-hot-springs/",
+      "cta_label": "See the hot spring guide"
     },
     {
       "rank": 5,
-      "name": "Four Islands Tour",
-      "description": "Full-day guided boat tour visiting Phra Nang Cave Beach, Chicken Island, Tup Island, and Podi Island with snorkeling and cave exploration included.",
-      "location": "Departs from Ao Nang Beach",
-      "entrance_fee": "1200 THB ($35)",
+      "name": "Krabi Walking Street",
+      "description": "The easiest town-side evening for food and atmosphere if you do not want every night to happen in beach zones.",
+      "location": "Krabi Town",
+      "entrance_fee": "Free",
       "highlights": [
-        "Snorkeling",
-        "Cave exploration",
-        "Includes meals"
-      ]
+        "Best town evening",
+        "Good market food",
+        "Strong non-beach anchor"
+      ],
+      "href": "/city/krabi/attractions/krabi-town-night-market/",
+      "cta_label": "See the walking street guide"
     },
     {
       "rank": 6,
-      "name": "Phi Phi Islands Tour",
-      "description": "Island-hopping tour featuring Maya Bay, Monkey Beach, and Bamboo Island with opportunities for snorkeling in clear turquoise waters.",
-      "location": "Departs from Ao Nang pier or Krabi Town",
-      "entrance_fee": "400 THB ($12) from Krabi Town",
+      "name": "Khao Khanap Nam",
+      "description": "Krabi's river landmark and a better town-side boat detour than many first-timers expect.",
+      "location": "Krabi River entrance",
+      "entrance_fee": "Boat hire applies",
       "highlights": [
-        "Maya Bay",
-        "Snorkeling",
-        "Monkey spotting"
-      ]
-    },
-    {
-      "rank": 7,
-      "name": "Ao Thalane Kayaking",
-      "description": "Peaceful kayaking experience through mangrove forests with opportunities to spot wildlife including monkeys, eagles, and water birds.",
-      "location": "Ao Thalane, approximately 40km north of Krabi Town",
-      "entrance_fee": "Variable (typically 400-600 THB/$12-18 for guided kayak tours)",
-      "highlights": [
-        "Mangrove ecosystem",
-        "Local wildlife",
-        "Hire experienced guides"
-      ]
-    },
-    {
-      "rank": 8,
-      "name": "Phra Nang Cave Beach",
-      "description": "Sacred beach accessible by boat, featuring a cave filled with traditional offerings to the spirit of the Princess, with clear waters for swimming.",
-      "location": "Accessible by boat from Ao Nang or Railay Beach",
-      "entrance_fee": "Free",
-      "highlights": [
-        "Sacred cave site",
-        "Respect local customs",
-        "Less crowded in late afternoon"
-      ]
+        "Twin river mountains",
+        "Strong Krabi Town-side outing",
+        "Useful with Ko Klang logic"
+      ],
+      "href": "/city/krabi/attractions/khao-khanap-nam/",
+      "cta_label": "See the Khao Khanap Nam guide"
     }
   ],
   "top_restaurants": [
     {
       "rank": 1,
-      "name": "Katara Beach Club Krabi",
-      "description": "Upscale beach club offering international cuisine with premium cocktails and seafood specialties in a relaxed beachfront setting.",
-      "cuisine_type": "International, Bar",
-      "price_range": "300-800 THB ($9-23 per meal)",
+      "name": "Raya Dining",
+      "description": "One of the clearest destination dinners in Krabi if you want a serious sea-facing meal in a stronger resort setting.",
+      "price_range": "Upscale",
+      "category": "upscale",
+      "area": "Rayavadee",
       "highlights": [
-        "Beachfront location",
-        "Cocktails",
-        "TripAdvisor rating: 4.9"
-      ]
+        "Official restaurant page",
+        "Good special dinner",
+        "Useful resort splurge"
+      ],
+      "href": "/city/krabi/top-10-restaurants/",
+      "cta_label": "See the food guide"
     },
     {
       "rank": 2,
-      "name": "Ali Baba Restaurant, Ao Nang, Krabi",
-      "description": "Casual dining spot offering Indian curries and pizzas with friendly service and reasonable prices in the Ao Nang area.",
-      "cuisine_type": "Indian, Pizza",
-      "price_range": "150-350 THB ($4-10 per meal)",
+      "name": "Krua Phranang",
+      "description": "A sharper Thai dining choice inside Rayavadee when you want one formal meal that still feels tied to place.",
+      "price_range": "Upscale",
+      "category": "upscale",
+      "area": "Rayavadee",
       "highlights": [
-        "Indian specialties",
-        "Pizza options",
-        "TripAdvisor rating: 4.9"
-      ]
+        "Official restaurant context",
+        "Thai-led fine dining",
+        "Good one-night exception"
+      ],
+      "href": "/city/krabi/top-10-restaurants/",
+      "cta_label": "See the food guide"
     },
     {
       "rank": 3,
-      "name": "Reeve Beach Club Krabi",
-      "description": "Stylish beach club serving European cuisine with premium wines and seafood dishes in a sophisticated beachfront environment.",
-      "cuisine_type": "Bar, European",
-      "price_range": "250-700 THB ($7-20 per meal)",
+      "name": "Saffron",
+      "description": "A reliable upscale Thai dining answer if you want one polished resort dinner on the quieter coast side.",
+      "price_range": "Upscale",
+      "category": "upscale",
+      "area": "Banyan Tree Krabi",
       "highlights": [
-        "European cuisine",
-        "Wine selection",
-        "TripAdvisor rating: 4.8"
-      ]
+        "Official restaurant page",
+        "Strong upscale Thai slot",
+        "Better as one planned evening"
+      ],
+      "href": "/city/krabi/top-10-restaurants/",
+      "cta_label": "See the food guide"
     },
     {
       "rank": 4,
-      "name": "Johnny's Pizza Ristorante Italiano",
-      "description": "Authentic Italian restaurant specializing in traditional pizzas and pasta made with quality ingredients and Italian recipes.",
-      "cuisine_type": "Italian, Pizza",
-      "price_range": "200-500 THB ($6-15 per meal)",
+      "name": "Jampoon",
+      "description": "A strong high-end dining room if the stay or dinner plan centers on Phulay Bay and the Klong Muang side.",
+      "price_range": "Upscale",
+      "category": "upscale",
+      "area": "Phulay Bay",
       "highlights": [
-        "Authentic Italian",
-        "Wood-fired pizzas",
-        "TripAdvisor rating: 4.7"
-      ]
+        "Official dining page",
+        "Good resort-led splurge",
+        "Fits quieter luxury stays"
+      ],
+      "href": "/city/krabi/top-10-restaurants/",
+      "cta_label": "See the food guide"
     },
     {
       "rank": 5,
-      "name": "Anna's Restaurant",
-      "description": "Casual restaurant combining European and Thai cuisines with fresh ingredients and friendly service suitable for all budgets.",
-      "cuisine_type": "European, Thai",
-      "price_range": "150-400 THB ($4-12 per meal)",
+      "name": "Toh Kin Khaw",
+      "description": "A practical resort-dining option on the Klong Muang side when you want a full-service beach-resort meal without leaving the property zone.",
+      "price_range": "Mid-range to upscale",
+      "category": "resort dining",
+      "area": "Dusit Thani Krabi Beach Resort",
       "highlights": [
-        "Fusion cuisine",
-        "Fresh ingredients",
-        "TripAdvisor rating: 4.6"
-      ]
+        "Official dining page",
+        "Useful Klong Muang dinner",
+        "Good for resort-based stays"
+      ],
+      "href": "/city/krabi/top-10-restaurants/",
+      "cta_label": "See the food guide"
     },
     {
       "rank": 6,
-      "name": "Baitoey Seafood Restaurant",
-      "description": "Authentic Southern Thai seafood restaurant with river views serving fresh seafood platters and traditional Thai sauces.",
-      "cuisine_type": "Southern Thai Seafood",
-      "price_range": "200-500 THB ($6-15 per meal)",
+      "name": "Krabi Walking Street",
+      "description": "The best town-side evening food zone if you want the trip to feel broader than beachfront restaurants and resort dining rooms.",
+      "price_range": "Budget to mid-range",
+      "category": "market dining",
+      "area": "Krabi Town",
       "highlights": [
-        "River views",
-        "Fresh seafood",
-        "Traditional Thai flavors"
-      ]
+        "Best market-led evening",
+        "Good for flexible grazing",
+        "Adds range to beach stays"
+      ],
+      "href": "/city/krabi/attractions/krabi-town-night-market/",
+      "cta_label": "See the walking street guide"
+    },
+    {
+      "rank": 7,
+      "name": "Ko Klang community seafood lunches",
+      "description": "A better food detour than another generic tourist menu when you want Krabi's river-and-community side to carry part of the day.",
+      "price_range": "Budget to mid-range",
+      "category": "local favorite",
+      "area": "Ko Klang community",
+      "highlights": [
+        "Community-based food stop",
+        "Better local context",
+        "Works with a Ko Klang outing"
+      ],
+      "href": "/city/krabi/top-10-restaurants/",
+      "cta_label": "See the food guide"
     }
   ],
   "top_hotels": [
     {
       "rank": 1,
       "name": "Rayavadee",
-      "description": "Luxury beachfront resort set on a private peninsula with exclusive access to three pristine beaches, world-class amenities, and fine dining.",
-      "price_range": "$200-400+ per night",
+      "price_range": "Luxury",
+      "description": "Still one of the clearest top-end Krabi answers if Railay-side seclusion and a destination-resort feel are part of the trip.",
       "category": "luxury",
+      "area": "Railay / Phra Nang side",
       "highlights": [
-        "Private beaches",
-        "5-star amenities",
-        "TripAdvisor rating: 4.7"
-      ]
+        "Official hotel website",
+        "Best-known Krabi luxury icon",
+        "Strong for scenery-led stays"
+      ],
+      "href": "/city/krabi/top-10-hotels/",
+      "cta_label": "See the hotel guide"
     },
     {
       "rank": 2,
-      "name": "The Tubkaak Krabi Boutique Resort",
-      "description": "Upscale boutique resort offering personalized service with stylish rooms, spa facilities, and intimate beachfront setting.",
-      "price_range": "$150-300 per night",
+      "name": "Banyan Tree Krabi",
+      "price_range": "Luxury",
+      "description": "A smart quieter-coast luxury base when you want Krabi to feel more private and resort-led than Ao Nang can offer.",
       "category": "luxury",
+      "area": "Tubkaak / Nong Thale side",
       "highlights": [
-        "Boutique style",
-        "Spa services",
-        "TripAdvisor rating: 4.7"
-      ]
+        "Official hotel website",
+        "Strong quiet-coast positioning",
+        "Useful for couples or full resort stays"
+      ],
+      "href": "/city/krabi/top-10-hotels/",
+      "cta_label": "See the hotel guide"
     },
     {
       "rank": 3,
-      "name": "Dusit Thani Krabi Beach Resort",
-      "description": "Upscale beachfront resort with modern rooms, swimming pools, spa, and direct beach access in a prime Ao Nang location.",
-      "price_range": "$100-250 per night",
-      "category": "midrange",
+      "name": "Phulay Bay, a Ritz-Carlton Reserve",
+      "price_range": "Luxury",
+      "description": "The clearest ultra-luxury Krabi answer if the hotel itself is meant to carry a large part of the trip.",
+      "category": "luxury",
+      "area": "Klong Muang / Tubkaak side",
       "highlights": [
-        "Beachfront",
-        "Pool facilities",
-        "TripAdvisor rating: 4.6"
-      ]
+        "Official hotel website",
+        "Reserve-level stay",
+        "Best when seclusion matters most"
+      ],
+      "href": "/city/krabi/top-10-hotels/",
+      "cta_label": "See the hotel guide"
     },
     {
       "rank": 4,
-      "name": "Sofitel Krabi Phokeethra Golf & Spa Resort",
-      "description": "Premium resort featuring golf course, spa, multiple restaurants, and spacious rooms with garden and golf course views.",
-      "price_range": "$120-280 per night",
-      "category": "midrange",
+      "name": "Dusit Thani Krabi Beach Resort",
+      "price_range": "Upscale",
+      "description": "A practical full-service beach resort if you want facilities, family comfort, and easier Klong Muang logistics.",
+      "category": "upscale",
+      "area": "Klong Muang",
       "highlights": [
-        "Golf course",
-        "Spa",
-        "TripAdvisor rating: 4.5"
-      ]
+        "Official hotel website",
+        "Strong family-friendly base",
+        "Good full-service resort option"
+      ],
+      "href": "/city/krabi/top-10-hotels/",
+      "cta_label": "See the hotel guide"
     },
     {
       "rank": 5,
-      "name": "The ShellSea Krabi",
-      "description": "Mid-range beachfront hotel offering comfortable rooms, sea views, and convenient access to Ao Nang attractions and dining.",
-      "price_range": "$80-180 per night",
-      "category": "midrange",
+      "name": "The Tubkaak Krabi Boutique Resort",
+      "price_range": "Upscale to luxury",
+      "description": "One of the better romantic or quieter boutique-resort choices when you want the coast to feel more private than Ao Nang.",
+      "category": "upscale",
+      "area": "Tubkaak Beach",
       "highlights": [
-        "Beachfront",
-        "Sea views",
-        "TripAdvisor rating: 4.6"
-      ]
+        "Official hotel website",
+        "Boutique resort mood",
+        "Stronger for a slower coast stay"
+      ],
+      "href": "/city/krabi/top-10-hotels/",
+      "cta_label": "See the hotel guide"
+    },
+    {
+      "rank": 6,
+      "name": "Nakamanda Resort & Spa",
+      "price_range": "Upscale",
+      "description": "A calmer low-rise Klong Muang stay if you want resort comfort without moving to Krabi's highest luxury tier.",
+      "category": "upscale",
+      "area": "Klong Muang",
+      "highlights": [
+        "Official hotel website",
+        "Good quiet-coast option",
+        "Balanced resort choice"
+      ],
+      "href": "/city/krabi/top-10-hotels/",
+      "cta_label": "See the hotel guide"
     }
   ],
   "travel_tips": [
-    "Don't rush; embrace the laid-back lifestyle.",
-    "Learn a few basic Thai phrases; it goes a long way.",
-    "Participate in local festivals; they’re a great way to connect.",
-    "Eat where the locals eat; it’s usually the best.",
-    "Always clean up after yourself, especially at beaches."
+    "Choose the base first: Ao Nang for convenience, Railay for scenery, or Klong Muang / Tubkaak for quieter resorts.",
+    "Keep only one or two real marine days in a short Krabi stay; the rest of the trip improves when you add town or inland nature instead.",
+    "If Tiger Cave Temple is in the plan, start early and treat the climb seriously rather than as a casual midday stop.",
+    "Use Krabi Town for at least one evening if you want better market-food and riverfront context.",
+    "Boat comfort and island visibility depend heavily on weather, so keep some flexibility in marine-day planning."
   ],
   "best_time_to_visit": {
-    "season": "Cool Season",
-    "months": "November - February",
-    "weather": "Pleasant conditions",
-    "reasons": "Ideal weather for activities"
+    "season": "November to April is the easiest planning window, while May to October can still work if you are flexible about sea conditions.",
+    "weather": "Drier months usually bring calmer boat days and clearer beach conditions; green season can soften crowds but make marine outings less reliable.",
+    "reasons": "Krabi is easier to sequence when boats, viewpoints, and inland nature can be mixed without daily weather disruption."
   },
   "budget_info": {
-    "budget": "$30-50 per day",
-    "mid_range": "$50-100 per day",
-    "luxury": "$100+ per day",
-    "notes": "Budget includes accommodation, food, transportation, and activities"
+    "daily_budget": {
+      "budget": "Krabi is manageable on a modest budget if you use town meals, shared transport, and no more than one or two paid marine days.",
+      "mid": "A mid-range Krabi trip usually means an Ao Nang or town base, one inland day, one or two boat outings, and a couple of stronger dinners.",
+      "luxury": "Luxury spending in Krabi rises fastest when you combine quiet-coast resorts, private transfers, and destination dinners every night."
+    }
   },
-  "enhanced_at": "2025-05-26T19:55:22.050Z",
-  "overview": "Krabi is a stunning coastal province in southern Thailand renowned for its dramatic limestone cliffs, pristine beaches, and world-class island-hopping opportunities. Located at coordinates 8.0863°N, 98.9063°E, this destination captivates travelers with iconic spots like Railay Beach and the emerald waters surrounding Koh Phi Phi. The region perfectly balances adventure seekers with those seeking relaxation, offering everything from rock climbing on vertical cliff faces to lazy days on powder-soft sand beaches with coconut drinks in hand.",
-  "thingsToDo": "Krabi's attractions cater to every type of traveler. Railay Beach, accessible only by boat, features towering limestone cliffs and is perfect for rock climbing and sunset watching with zero entrance fee. Adventure enthusiasts should tackle the 1,237 steps to Tiger Cave Temple (Wat Tham Suea), which offers panoramic jungle views and costs nothing to enter. For water-based activities, the Four Islands Tour (1,200 THB/$35) includes snorkeling and cave exploration, while a trip to the Phi Phi Islands (400 THB/$12 from Krabi Town) features the famous Maya Bay and excellent snorkeling opportunities. Nature lovers will appreciate the Emerald Pool (200 THB/$6), a naturally warm swimming hole set in rainforest, or the Hot Springs Waterfall (90 THB/$3) with its limestone cascades and warm pools. Ao Thalane kayaking offers peaceful mangrove exploration with opportunities to spot local wildlife including monkeys and eagles (typically 400-600 THB/$12-18 for guided tours). Phra Nang Cave Beach is accessible by boat from Ao Nang and features a sacred cave with traditional offerings.",
-  "whereToStay": "Krabi offers diverse accommodation options across several areas. Ao Nang serves as the main beach town with numerous restaurants, bars, and easy access to island tours, making it ideal for most travelers. Railay Beach provides a more exclusive, secluded experience but requires boat access. Krabi Town offers budget-friendly guesthouses and authentic local experiences, perfect for backpackers and those wanting to avoid tourist crowds. Accommodation ranges from 300-500 THB ($8-15) per night for basic guesthouses, 800-2,000 THB ($23-57) for comfortable mid-range hotels with amenities, and 2,500+ THB ($71+) for beachfront resorts with swimming pools and water sports facilities.",
+  "thingsToDo": "Use Railay as the main scenic coastal block, keep one temple-or-viewpoint morning for Tiger Cave, add one inland Khlong Thom nature day, and leave room for Krabi Town's river-and-market side instead of booking every day around boats.",
+  "whereToStay": "Ao Nang is still the easiest first base for boat access and practical movement. Railay works when scenery matters more than logistics. Klong Muang and the Tubkaak side fit quieter resort stays, while Krabi Town is useful for food-focused nights, airport timing, and travelers who do not want to sleep only in beach zones.",
   "whereToEat": [
     {
-      "name": "Katara Beach Club Krabi",
-      "cuisine": "International, Bar",
-      "priceRange": "$$$",
-      "description": "Upscale beachfront venue with premium cocktails, fresh seafood, and international cuisine. TripAdvisor rating: 4.9/5"
+      "name": "Krabi Walking Street",
+      "cuisine": "Market food and local snacks",
+      "priceRange": "Budget to mid-range",
+      "description": "Best for one flexible town-side evening."
     },
     {
-      "name": "Ali Baba Restaurant, Ao Nang, Krabi",
-      "cuisine": "Indian, Pizza",
-      "priceRange": "$$",
-      "description": "Casual dining spot offering Indian curries and pizzas with friendly service in Ao Nang. TripAdvisor rating: 4.9/5"
+      "name": "Raya Dining",
+      "cuisine": "Destination resort dining",
+      "priceRange": "Upscale",
+      "description": "Good for the one deliberate splurge dinner."
     },
     {
-      "name": "Reeve Beach Club Krabi",
-      "cuisine": "Bar, European",
-      "priceRange": "$$$",
-      "description": "Stylish beach club serving European cuisine with wine selection in sophisticated setting. TripAdvisor rating: 4.8/5"
-    },
-    {
-      "name": "Johnny's Pizza Ristorante Italiano",
-      "cuisine": "Italian, Pizza",
-      "priceRange": "$$",
-      "description": "Authentic Italian restaurant specializing in traditional pizzas and pasta. TripAdvisor rating: 4.7/5"
-    },
-    {
-      "name": "Anna's Restaurant",
-      "cuisine": "European, Thai",
-      "priceRange": "$$",
-      "description": "Casual fusion restaurant combining European and Thai cuisines with fresh ingredients. TripAdvisor rating: 4.6/5"
-    },
-    {
-      "name": "Baitoey Seafood Restaurant",
-      "cuisine": "Southern Thai Seafood",
-      "priceRange": "$$",
-      "description": "Authentic Southern Thai seafood with river views in Krabi Town, featuring fresh daily catch and traditional sauces."
+      "name": "Ko Klang community meals",
+      "cuisine": "Local seafood and community cooking",
+      "priceRange": "Budget to mid-range",
+      "description": "Better for a slower river-side detour than a rushed tourist stop."
     }
   ],
-  "topHotels": [
-    {
-      "name": "Rayavadee",
-      "category": "luxury",
-      "priceRange": "$200-400+/night",
-      "area": "Railay Beach",
-      "description": "Ultra-luxury beachfront resort on private peninsula with exclusive beach access, fine dining, and world-class spa facilities. TripAdvisor rating: 4.7/5"
-    },
-    {
-      "name": "The Tubkaak Krabi Boutique Resort",
-      "category": "luxury",
-      "priceRange": "$150-300/night",
-      "area": "Ao Nang",
-      "description": "Upscale boutique resort with personalized service, spa, and intimate beachfront setting. TripAdvisor rating: 4.7/5"
-    },
-    {
-      "name": "Dusit Thani Krabi Beach Resort",
-      "category": "midrange",
-      "priceRange": "$100-250/night",
-      "area": "Ao Nang",
-      "description": "Established beachfront resort with modern amenities, pools, and spa. TripAdvisor rating: 4.6/5"
-    },
-    {
-      "name": "Sofitel Krabi Phokeethra Golf & Spa Resort",
-      "category": "midrange",
-      "priceRange": "$120-280/night",
-      "area": "Ao Nang",
-      "description": "Premium resort with integrated golf course, spa, and multiple restaurants. TripAdvisor rating: 4.5/5"
-    },
-    {
-      "name": "The ShellSea Krabi",
-      "category": "midrange",
-      "priceRange": "$80-180/night",
-      "area": "Ao Nang",
-      "description": "Comfortable beachfront hotel with convenient access to dining and activities. TripAdvisor rating: 4.6/5"
-    },
-    {
-      "name": "Ao Nang Village Resort",
-      "category": "midrange",
-      "priceRange": "$40-80/night",
-      "area": "Ao Nang",
-      "description": "Comfortable mid-range resort with air conditioning, pool, and proximity to beach restaurants and tour operators."
-    },
-    {
-      "name": "Andaman Breeze",
-      "category": "budget",
-      "priceRange": "$15-30/night",
-      "area": "Ao Nang",
-      "description": "Recommended budget hotel offering clean rooms, friendly staff, and good value for money in Ao Nang."
-    },
-    {
-      "name": "Krabi Town Guesthouses",
-      "category": "budget",
-      "priceRange": "$8-20/night",
-      "area": "Krabi Town",
-      "description": "Simple, clean guesthouses in town center offering authentic local experience with basic amenities."
-    }
-  ],
-  "gettingAround": "Krabi's main transportation option is the tuk-tuk (three-wheeled taxi), widely available throughout Ao Nang and Krabi Town with fares typically 50-200 THB ($1.50-6) for local journeys. Songthaews (shared minibuses) offer cheaper alternatives at 20-40 THB ($0.60-1.20) per person but follow fixed routes. Many travelers rent motorbikes (150-300 THB/$5-9 daily) or bicycles for exploring at their own pace, though this requires an International Driving Permit. For island hopping, longtail boats are essential and can be booked through hotels or directly at Ao Nang pier. Grab (Thai ride-hailing app) is increasingly available in Ao Nang area for convenient transport with transparent pricing.",
-  "bestTimeToVisit": "The best time to visit Krabi is November through February, when temperatures are comfortable (25-28°C/77-82°F) and humidity is low, with minimal rainfall. These months offer crystal-clear waters perfect for snorkeling and island hopping, making it the peak tourist season. Avoid May through October, particularly May-September, when the southwest monsoon brings heavy rainfall, rough seas, and potential boat cancellations. March and April are extremely hot and humid with temperatures exceeding 35°C (95°F). December and January are the sweetest spots, offering perfect beach weather, calm seas, and excellent visibility for water activities, though accommodation prices peak during this period.",
+  "gettingAround": "Ao Nang and Krabi Town are easy enough to connect by road, but Railay and several marine outings depend on boat timing. Long-tail transfers shape the coast side, while inland days are easier by car, driver, or organized tour. Krabi becomes tiring when you switch bases too often, so it usually pays to choose one main sleep zone and day-trip outward.",
+  "bestTimeToVisit": "The drier Andaman-season months remain the easiest for beach-and-boat planning, but green-season stays can still work well if you lean more on town time, resort downtime, and inland nature.",
   "budgetGuide": {
     "budget": {
-      "min": 20,
-      "max": 40,
-      "description": "Budget travelers can stay in guesthouses (300-500 THB/$8-15/night), eat at street food stalls and night markets (50-150 THB/$1.50-5 per meal), use tuk-tuks and songthaews for transport (50-100 THB/$1.50-3), and enjoy free attractions like Railay Beach. Activities like Tiger Cave Temple cost nothing, while paid activities like Emerald Pool (200 THB/$6) and hot springs (90 THB/$3) are very affordable."
+      "min": 1300,
+      "max": 2300,
+      "description": "Simple guesthouse or budget hotel, market meals, and only one selective paid outing."
     },
     "midrange": {
-      "min": 50,
-      "max": 100,
-      "description": "Mid-range travelers enjoy 3-star hotels (800-2,000 THB/$23-57/night), dining at casual restaurants (200-400 THB/$6-12 per meal), taking island tours (1,200-1,500 THB/$35-43 for full-day tours), and occasional beachfront dining. Budget allows for better amenities, guided activities, and more dining variety while maintaining reasonable costs."
+      "min": 3000,
+      "max": 6500,
+      "description": "Comfortable hotel, a couple of paid day trips, and a mix of town food and one stronger dinner."
     },
     "luxury": {
-      "min": 150,
-      "max": 400,
-      "description": "Luxury travelers stay in 5-star beachfront resorts (3,000-12,000+ THB/$86-350+/night), dine at fine restaurants and hotel dining (800-2,500 THB/$23-71+ per meal), book private boat tours, and enjoy spa treatments. This budget supports premium experiences, water sports rentals, and high-end accommodations with comprehensive amenities."
+      "min": 9000,
+      "max": 25000,
+      "description": "Quiet-coast or Railay luxury resort, private transfers, and destination dining."
     }
   },
-  "safetyTips": "Krabi is generally safe for tourists, but exercise standard precautions: avoid displaying expensive jewelry or electronics, use registered tuk-tuks or hotel-arranged transport rather than flagging random vehicles, and keep valuables in hotel safes. Be cautious during monsoon season (May-October) when rough seas claim lives annually—only swim at designated beaches and heed local warnings about water conditions. When island hopping, ensure your boat operator is reputable and carries proper safety equipment. Petty theft occurs in crowded night markets and beaches, so watch bags carefully. When rock climbing at Railay Beach, only use licensed guides and check equipment thoroughly, as accidents can happen with inexperienced climbers.",
+  "safetyTips": "Boat schedules and sea conditions matter more in Krabi than travelers sometimes expect, so do not lock every day to marine plans. Wear proper shoes and carry water for Tiger Cave Temple. Use caution on wet trails around Emerald Pool and the hot-spring area. Keep valuables simple on long-tail boats and beach transfers, and do not overload the itinerary with same-day coast and inland jumps.",
   "faq": [
     {
-      "question": "How do I get from the airport to Krabi?",
-      "answer": "Krabi International Airport (HKT code) is located about 25km from central Krabi Town, approximately 45 minutes to 1 hour by car. Most hotels arrange airport transfers for 300-600 THB ($9-18), or you can take shared minibus services for 100-150 THB ($3-4.50) per person."
+      "question": "Is Krabi better based in Ao Nang or Railay?",
+      "answer": "Ao Nang is easier for most first visits because it keeps boat access, transfers, and restaurant choice simple. Railay is stronger if scenery and a more secluded coast feel matter more than pure convenience."
     },
     {
-      "question": "Is Railay Beach worth visiting despite being touristy?",
-      "answer": "Yes, Railay Beach is absolutely worth visiting. Its dramatic limestone cliffs, turquoise waters, and rock climbing opportunities are genuine attractions. Visit early morning to beat crowds, and consider staying overnight to experience it after day-trippers leave."
+      "question": "How many island tours do you really need in Krabi?",
+      "answer": "For many first trips, one or two marine days are enough. After that, Krabi Town or the Khlong Thom side usually adds more range than another similar island circuit."
     },
     {
-      "question": "What's the best way to visit multiple islands?",
-      "answer": "Book a Four Islands Tour (1,200 THB/$35) or Phi Phi Islands trip (400 THB/$12 from Krabi Town) through hotels or tour operators at Ao Nang pier. Longtail boats depart daily and include snorkeling, cave exploration, and meals. Private boat rentals are available but more expensive."
+      "question": "Is Krabi Town worth including?",
+      "answer": "Yes. It adds market food, river context, and a more practical local side that beach-only stays often miss."
     },
     {
-      "question": "When is the best time to visit Krabi?",
-      "answer": "The best time to visit is November through February, when temperatures are comfortable (25-28°C/77-82°F) and humidity is low. December and January offer perfect beach weather with calm seas and excellent visibility for water activities. Avoid May-October during the southwest monsoon when heavy rainfall and rough seas can cause boat cancellations."
-    },
-    {
-      "question": "Is Krabi safe for tourists?",
-      "answer": "Krabi is generally safe for tourists. Exercise standard precautions: avoid displaying expensive jewelry or electronics, use registered tuk-tuks or hotel-arranged transport, and keep valuables in hotel safes. Be cautious during monsoon season (May-October) when rough seas can be dangerous. When rock climbing at Railay Beach, only use licensed guides and check equipment thoroughly."
+      "question": "Can you combine Emerald Pool and the hot springs in one day?",
+      "answer": "Yes. That is one of the cleanest inland day structures in Krabi and usually makes more sense than trying to mix inland nature with a separate boat tour."
     }
   ],
   "practicalInfo": {
-    "bestMonths": [
-      "Nov",
-      "Dec",
-      "Jan",
-      "Feb"
-    ],
-    "nearestAirport": "Krabi International Airport (HKT), approximately 25km south of central Krabi Town",
-    "travelTimeFromAirport": "45 minutes to 1 hour by car to Ao Nang or Krabi Town",
-    "localTransport": [
-      "Tuk-tuk (50-200 THB/$1.50-6 per journey)",
-      "Songthaew shared minibus (20-40 THB/$0.60-1.20 per person)",
-      "Motorbike rental (150-300 THB/$5-9 daily)",
-      "Longtail boat (for island hopping, variable pricing)",
-      "Grab (ride-hailing app available in Ao Nang area)"
-    ]
+    "arrival": "Krabi works best when you decide whether the first night should be town-side, Ao Nang-side, or a quieter resort coast rather than leaving the base undecided until arrival.",
+    "transport": "Use one main base and day-trip outward. Krabi loses time quickly when you keep changing zones or rely on too many same-day boat and road transfers.",
+    "planning": "The province rewards edited planning: one or two marine days, one inland nature day, and one town-market block are often enough for a strong first trip."
   },
-  "enrichedAt": "2026-02-22T12:31:45.072Z",
-  "factchecked_at": "2026-03-08T18:24:52.452Z",
-  "translations": {
-    "nl": {
-      "enhanced_description": "Krabi is niet zomaar een bestemming; het is een zintuiglijke explosie. Toen ik door Ao Nang wandelde, vermengde de zilte zeewind zich met de zoete geur van gegrilde garnalen van de strandkraampjes. De torenhoge kalkstenen kliffen rezen boven me uit, hun ruige schoonheid contrasteerde met het zachte, uitnodigende zand eronder. Ik herinner me mijn eerste dag in Krabi nog levendig; ik was net aangekomen en de levendige kleuren van de zonsondergang schilderden de lucht in tinten die ik nog nooit eerder had gezien. Het geluid van gelach en brekende golven vulde de lucht en creëerde een symfonie die aanvoelde als thuis. Wat Krabi onderscheidt van andere Thaise bestemmingen is de ontspannen sfeer gecombineerd met adembenemende natuurlijke schoonheid. In tegenstelling tot de bruisende straten van Bangkok of de feestsfeer van Phuket, wiegde Krabi me in een gevoel van rust en nodigde me uit om de verborgen schatten in mijn eigen tempo te ontdekken.\n\nEen van mijn mooiste herinneringen is van een spontaan uitstapje naar Railay Beach. Ik had net een ochtend van klimmen op de kliffen afgerond (wat ik ten zeerste aanbeveel voor de spanning en het uitzicht!) toen ik een klein strandcafé ontdekte. Het werd gerund door een lokale vrouw genaamd Som, die me verwelkomde met een warme glimlach en een bord van haar zelfgemaakte mango sticky rice. Terwijl ik genoot van de zoete, romige rijst met verse mango, luisterde ik naar haar verhalen over het leven in Krabi, haar familie en hoe het strand haar toevluchtsoord was. Het waren momenten als deze die me deden beseffen dat Krabi een tapijt is van persoonlijke verbindingen geweven in het weefsel van het prachtige landschap.\n\nWanneer je door het smaragdgroene water van de Emerald Pool waadt, is het gevoel van in een droom stappen bijna overweldigend. Ik herinner me de eerste keer dat ik mijn tenen in het warme, mineraalrijke water stak. Het levendige groen van de omringende jungle leek te pulseren van leven, en ik voelde een diepe verbinding met de natuur. In tegenstelling tot de meer gecommercialiseerde plekken in Thailand biedt Krabi deze serene ontsnappingen waar je je echt kunt onderdompelen in de omgeving. De Tiger Cave Temple, hoog op een heuvel gelegen, was een andere onvergetelijke ervaring. Het beklimmen van de 1.237 treden was geen geringe prestatie, maar het bereiken van de top en het panoramische uitzicht over het omringende landschap was elke druppel zweet waard. Het is een plek van reflectie en eerbied, waar de lucht zwaar is van spiritualiteit en de geluiden van verre gezangen.\n\nKrabi heeft een manier om je levend te laten voelen. Of het nu de spanning van het rotsklimmen is, de rust van een verborgen strand, of de warmte van lokale gastvrijheid, elke ervaring is een verhaal dat wacht om verteld te worden. Dit is een plek waar elke hoek een geheim bevat, elke maaltijd een verhaal vertelt en elke ontmoeting een stempel op je hart achterlaat. Dus pak je koffers, laat je zorgen achter en laat Krabi je omarmen met zijn schoonheid en charme.",
-      "overview": "Krabi is een prachtige kustprovincie in Zuid-Thailand die bekend staat om zijn dramatische kalkstenen kliffen, ongerepte stranden en eilandhoppen van wereldklasse. Gelegen op coördinaten 8.0863°N, 98.9063°E, betovert deze bestemming reizigers met iconische plekken zoals Railay Beach en het smaragdgroene water rond Koh Phi Phi. De regio biedt de perfecte balans tussen avonturiers en mensen die op zoek zijn naar ontspanning, met alles van rotsklimmen op verticale rotswanden tot luie dagen op poederzachte zandstranden met een kokosnootdrankje in de hand.",
-      "thingsToDo": "De attracties van Krabi zijn geschikt voor elk type reiziger. Railay Beach, alleen bereikbaar per boot, heeft torenhoge kalkstenen kliffen en is perfect voor rotsklimmen en zonsondergangen bekijken, zonder entreekosten. Avonturiers moeten de 1.237 treden naar Tiger Cave Temple (Wat Tham Suea) beklimmen, met panoramisch uitzicht over de jungle en gratis toegang. Voor wateractiviteiten omvat de Four Islands Tour (1.200 THB/$35) snorkelen en grotverkenning, terwijl een trip naar de Phi Phi-eilanden (400 THB/$12 vanuit Krabi Town) de beroemde Maya Bay en uitstekende snorkelmogelijkheden biedt. Natuurliefhebbers zullen de Emerald Pool (200 THB/$6) waarderen, een natuurlijk warm zwemgat in het regenwoud, of de Hot Springs Waterfall (90 THB/$3) met kalkstenen cascades en warme poelen. Kajakken bij Ao Thalane biedt een vredige verkenning van de mangroven met mogelijkheden om lokale dieren te spotten, waaronder apen en arenden (meestal 400-600 THB/$12-18 voor begeleide tours). Phra Nang Cave Beach is bereikbaar per boot vanuit Ao Nang en heeft een heilige grot met traditionele offers.",
-      "whereToStay": "Krabi biedt diverse accommodatiemogelijkheden in verschillende gebieden. Ao Nang is de belangrijkste badplaats met talloze restaurants, bars en gemakkelijke toegang tot eilandtours, wat het ideaal maakt voor de meeste reizigers. Railay Beach biedt een meer exclusieve, afgelegen ervaring maar is alleen per boot bereikbaar. Krabi Town heeft budgetvriendelijke guesthouses en authentieke lokale ervaringen, perfect voor backpackers en mensen die de toeristenmassa willen vermijden. Accommodatie varieert van 300-500 THB ($8-15) per nacht voor eenvoudige guesthouses, 800-2.000 THB ($23-57) voor comfortabele middenklasse hotels met voorzieningen, en 2.500+ THB ($71+) voor strandresorts met zwembaden en watersportfaciliteiten.",
-      "gettingAround": "De belangrijkste vervoersoptie in Krabi is de tuktuk (driewielige taxi), overal beschikbaar in Ao Nang en Krabi Town met tarieven van meestal 50-200 THB ($1,50-6) voor lokale ritten. Songthaews (gedeelde minibussen) bieden goedkopere alternatieven voor 20-40 THB ($0,60-1,20) per persoon maar volgen vaste routes. Veel reizigers huren motorfietsen (150-300 THB/$5-9 per dag) of fietsen om op eigen tempo te verkennen, hoewel hiervoor een internationaal rijbewijs nodig is. Voor eilandhoppen zijn longtailboten essentieel en kunnen geboekt worden via hotels of direct bij de pier van Ao Nang. Grab (Thaise ritdeel-app) is in toenemende mate beschikbaar in het Ao Nang-gebied voor handig vervoer met transparante prijzen.",
-      "bestTimeToVisit": "De beste tijd om Krabi te bezoeken is van november tot en met februari, wanneer de temperaturen aangenaam zijn (25-28°C) en de luchtvochtigheid laag is, met minimale regenval. Deze maanden bieden kristalhelder water, perfect voor snorkelen en eilandhoppen, waardoor het het hoogseizoen is. Vermijd mei tot en met oktober, vooral mei-september, wanneer de zuidwestmoesson zware regenval, ruwe zee en mogelijke bootannuleringen met zich meebrengt. Maart en april zijn extreem warm en vochtig met temperaturen boven de 35°C. December en januari zijn de zoetste periodes, met perfect strandweer, kalme zee en uitstekend zicht voor wateractiviteiten, hoewel de accommodatieprijzen in deze periode pieken.",
-      "safetyTips": "Krabi is over het algemeen veilig voor toeristen, maar neem standaard voorzorgsmaatregelen: toon geen dure sieraden of elektronica, gebruik geregistreerde tuktuks of door het hotel geregeld vervoer in plaats van willekeurige voertuigen aan te houden, en bewaar waardevolle spullen in de hotelkluis. Wees voorzichtig tijdens het moessonseizoen (mei-oktober) wanneer ruwe zee jaarlijks levens eist — zwem alleen op aangewezen stranden en luister naar lokale waarschuwingen over watercondities. Zorg er bij eilandhoppen voor dat je bootexploitant betrouwbaar is en de juiste veiligheidsuitrusting aan boord heeft. Kleine diefstal komt voor op drukke nachtmarkten en stranden, dus houd je tassen goed in de gaten. Gebruik bij het rotsklimmen op Railay Beach alleen gediplomeerde gidsen en controleer de uitrusting grondig, want ongelukken kunnen gebeuren bij onervaren klimmers.",
-      "hidden_gems": [
-        {
-          "name": "Koh Hong",
-          "story": "Ik ontdekte Koh Hong tijdens een rustige dag van verkennen. Een lokale visser, die mijn nieuwsgierigheid zag, bood aan me met een privé longtailboot naar dit verborgen paradijs te brengen. De lagune was adembenemend, omringd door torenhoge kliffen en weelderig groen.",
-          "how_to_find": "Neem een longtailboot vanaf Ao Nang Beach; onderhandel met de bootlieden bij de pier voor een halvedagtrip.",
-          "best_time": "Vroeg in de ochtend om de drukte voor te zijn en de zonsopgang te vangen.",
-          "local_insights": [
-            "Neem je eigen snacks en drankjes mee; er zijn geen winkels op het eiland."
-          ]
-        },
-        {
-          "name": "Klong Thom Hot Springs",
-          "story": "Op een regenachtige dag vond ik troost in de Klong Thom Hot Springs. Het warme water was een perfecte ontsnapping, en ik deelde lachbuien met lokale bewoners die me lieten zien hoe je kruidenkompressen maakt van de nabijgelegen planten.",
-          "how_to_find": "Ongeveer 30 minuten van Krabi Town; volg de borden naar het dorp Klong Thom.",
-          "best_time": "Doordeweeks is het minder druk, vooral in de vroege ochtend.",
-          "local_insights": [
-            "Neem een handdoek mee en bereid je voor om te ontspannen; het is een favoriet van de lokale bevolking."
-          ]
-        },
-        {
-          "name": "Ao Thalane",
-          "story": "Kajakken door Ao Thalane was een magische ervaring. Ik herinner me hoe ik stil door de mangroven gleed, apen boven me zag slingeren, en een moment van verwondering deelde met een lokale gids die me over het ecosysteem vertelde.",
-          "how_to_find": "Rijd of neem een taxi naar Ao Thalane; er zijn verschillende kajakverhuurwinkels bij de ingang.",
-          "best_time": "Late namiddag wanneer het licht zacht is en de dieren actief zijn.",
-          "local_insights": [
-            "Huur een lokale gids voor een betere ervaring; zij kennen de beste plekjes."
-          ]
-        },
-        {
-          "name": "Phra Nang Cave Beach",
-          "story": "Ik vond Phra Nang Cave Beach na een lange wandeling. De grot, gevuld met offers aan de geest van de verdronken prinses, fascineerde me. Ik bracht uren door met het opzuigen van de schoonheid en de verhalen die het bevatte.",
-          "how_to_find": "Bereikbaar per boot vanuit Ao Nang of Railay Beach; het is vaak minder druk in de late namiddag.",
-          "best_time": "Late namiddag om de zonsondergang te vangen.",
-          "local_insights": [
-            "Respecteer de lokale gebruiken; het is een heilige plek voor vissers."
-          ]
-        },
-        {
-          "name": "Koh Poda",
-          "story": "Tijdens het eilandhoppen werd ik verliefd op Koh Poda. Het zand voelde als poeder tussen mijn tenen, en ik deelde verhalen met medereizigers terwijl we naar de zonsondergang over de Andamanzee keken.",
-          "how_to_find": "Boek een tour vanuit Ao Nang of huur een longtailboot.",
-          "best_time": "Zonsondergang voor het mooiste uitzicht.",
-          "local_insights": [
-            "Neem een picknick mee; er zijn geen winkels op het eiland."
-          ]
-        }
-      ],
-      "authentic_experiences": [
-        {
-          "activity": "Thaise kookles",
-          "story": "Ik volgde een kookles bij een lokale chef die me leerde hoe je Pad Thai vanaf nul maakt. We bezochten samen de markt om verse ingrediënten te halen, en ik leerde de betekenis van elk gerecht in de Thaise cultuur.",
-          "cultural_significance": "Koken is een manier voor lokale bewoners om hun erfgoed te delen en met anderen in contact te komen.",
-          "how_to_participate": "Zoek naar lessen in Ao Nang; veel bieden marktbezoeken inbegrepen.",
-          "insights": [
-            "Sta open voor nieuwe smaken; het is onderdeel van de ervaring."
-          ]
-        },
-        {
-          "activity": "Muay Thai-training",
-          "story": "Ik besloot Muay Thai te proberen in een lokale sportschool. De trainers waren streng maar vriendelijk, ze duwden me tot mijn grenzen terwijl ze verhalen deelden over hun eigen reis in de sport.",
-          "cultural_significance": "Muay Thai is diep geworteld in de Thaise cultuur en staat symbool voor kracht en traditie.",
-          "how_to_participate": "Doe mee aan een beginnerles in een van de lokale sportscholen in Ao Nang.",
-          "insights": [
-            "Respecteer de trainers; ze waarderen toewijding en inzet."
-          ]
-        },
-        {
-          "activity": "Vrijwilligerswerk bij een olifantenopvang",
-          "story": "Een dag doorbrengen bij een olifantenopvang was levensveranderend. Ik leerde over olifantenbescherming en deelde een speciale band met deze zachtaardige reuzen terwijl ik ze voerde en waste.",
-          "cultural_significance": "Olifanten hebben een grote culturele betekenis in Thailand en symboliseren kracht en wijsheid.",
-          "how_to_participate": "Zoek en boek een dag bij een van de ethische opvangcentra in de buurt van Krabi.",
-          "insights": [
-            "Wees respectvol en volg de richtlijnen; het is cruciaal voor het welzijn van de olifanten."
-          ]
-        },
-        {
-          "activity": "Lokaal vissen met vissers",
-          "story": "Ik bracht een ochtend door op een vissersboot met lokale vissers. Ze leerden me traditionele vistechnieken en deelden verhalen over hun voorouders, waardoor ik me verbonden voelde met het land en de zee.",
-          "cultural_significance": "Vissen is een essentieel onderdeel van het leven in Krabi en biedt levensonderhoud en een gevoel van gemeenschap.",
-          "how_to_participate": "Regel een visuitstapje via lokale touroperators of guesthouses.",
-          "insights": [
-            "Wees geduldig; vissen kost tijd en respect voor de natuur."
-          ]
-        },
-        {
-          "activity": "Thaise massage workshop",
-          "story": "Ik deed mee aan een workshop om traditionele Thaise massage te leren. De instructeur was een meester, en ik voelde de helende kracht van de technieken terwijl ik oefende op medestudenten.",
-          "cultural_significance": "Massage is een integraal onderdeel van de Thaise cultuur en bevordert welzijn en ontspanning.",
-          "how_to_participate": "Zoek naar workshops in Ao Nang of Krabi Town; veel worden aangeboden door lokale spa's.",
-          "insights": [
-            "Neem de tijd om te leren; het gaat om het verbinden met de energie van het lichaam."
-          ]
-        }
-      ],
-      "foodie_adventures": [
-        {
-          "dish": "Khao Soi",
-          "location": "Roti Chao Wang in Krabi Town",
-          "story": "De eerste keer dat ik Khao Soi proefde, was ik weggeblazen door de complexe smaken van de curry en de knapperigheid van de gebakken noedels. Het voelde als een warme knuffel op een regenachtige dag.",
-          "price_range": "Ongeveer 60 baht.",
-          "ordering_tips": [
-            "Vraag om pittig; de lokale bevolking houdt van hun hitte."
-          ]
-        },
-        {
-          "dish": "Som Tum (Papajasalade)",
-          "location": "Lokale straatkraampjes in Ao Nang",
-          "story": "Ik keek toe hoe de verkoper de ingrediënten samen stampte, het geluid weerklinkend op de bruisende markt. De eerste hap was een perfecte balans van zoet, zuur en pittig.",
-          "price_range": "30-50 baht.",
-          "ordering_tips": [
-            "Geef je pittig-niveau aan; het kan intens worden!"
-          ]
-        },
-        {
-          "dish": "Massaman Curry",
-          "location": "Chao Nang Restaurant in Ao Nang",
-          "story": "De rijkdom van de Massaman curry verraste me. Het langzaam gegaarde rundvlees smolt in mijn mond, en ik genoot van elke lepel met rijst.",
-          "price_range": "80-120 baht.",
-          "ordering_tips": [
-            "Combineer het met roti voor een authentieke ervaring."
-          ]
-        },
-        {
-          "dish": "Mango Sticky Rice",
-          "location": "Som's Cafe at Railay Beach",
-          "story": "Som's versie was de beste die ik ooit heb gehad, met perfect rijpe mango en romige kokossaus. Het is een zoete herinnering die ik koester.",
-          "price_range": "50 baht.",
-          "ordering_tips": [
-            "Vraag om extra kokossaus; het is hemels!"
-          ]
-        },
-        {
-          "dish": "Pad Thai",
-          "location": "Nadia's Pad Thai in Ao Nang",
-          "story": "Nadia's Pad Thai is legendarisch. Haar zien koken met zoveel passie was een genot, en de smaak was een perfecte mix van smaken.",
-          "price_range": "50-70 baht.",
-          "ordering_tips": [
-            "Probeer het met garnalen voor een traktatie."
-          ]
-        },
-        {
-          "dish": "Gegrilde Garnalen",
-          "location": "Strandkraampjes in Ao Nang",
-          "story": "Zittend op het strand met een bord gegrilde garnalen voelde ik me alsof ik het paradijs had ontdekt. De rokerige smaak paste perfect bij een koud biertje.",
-          "price_range": "100-150 baht.",
-          "ordering_tips": [
-            "Vraag om de pittige dipsaus; die is een must!"
-          ]
-        },
-        {
-          "dish": "Kokosijs",
-          "location": "Lokale verkopers in Ao Nang",
-          "story": "Op een warme dag is er niets beter dan de verfrissende smaak van kokosijs geserveerd in een kokosnootschaal. Het was een heerlijke traktatie die me deed glimlachen.",
-          "price_range": "30 baht.",
-          "ordering_tips": [
-            "Voeg toppings toe zoals pinda's en zoete maïs voor een twist."
-          ]
-        },
-        {
-          "dish": "Larb Gai (Pittige Kipsalade)",
-          "location": "Lokale markten in Krabi Town",
-          "story": "Ik aarzelde eerst, maar de eerste hap Larb Gai was een openbaring. De frisheid van de kruiden en de knapperigheid van de groenten waren opwindend.",
-          "price_range": "40 baht.",
-          "ordering_tips": [
-            "Sla de kleefrijst niet over; het is de perfecte aanvulling op het gerecht."
-          ]
-        }
-      ],
-      "translated_at": "2026-03-09T00:00:00.000Z"
-    },
-    "fr": {
-      "enhanced_description": "Krabi n'est pas simplement une destination ; c'est une explosion sensorielle. En me promenant à Ao Nang, la brise marine salée se mêlait au doux parfum des crevettes grillées des échoppes de plage. Les imposantes falaises calcaires se dressaient au-dessus de moi, leur beauté brute contrastant avec le sable doux et accueillant en contrebas. Je me souviens encore vivement de mon premier jour à Krabi ; je venais d'arriver et les couleurs vibrantes du coucher de soleil peignaient le ciel de teintes que je n'avais jamais vues auparavant. Le son des rires et des vagues déferlantes emplissait l'air, créant une symphonie qui ressemblait à un retour chez soi. Ce qui distingue Krabi des autres destinations thaïlandaises, c'est son atmosphère détendue combinée à une beauté naturelle à couper le souffle. Contrairement aux rues animées de Bangkok ou à l'ambiance festive de Phuket, Krabi m'a bercé dans un sentiment de paix et m'a invité à découvrir ses trésors cachés à mon propre rythme.\n\nL'un de mes plus beaux souvenirs est une escapade spontanée à Railay Beach. Je venais de terminer une matinée d'escalade sur les falaises (que je recommande vivement pour le frisson et la vue !) quand j'ai découvert un petit café de plage. Il était tenu par une femme locale nommée Som, qui m'a accueilli avec un sourire chaleureux et une assiette de son mango sticky rice maison. En savourant le riz sucré et crémeux avec la mangue fraîche, j'écoutais ses histoires sur la vie à Krabi, sa famille et comment la plage était son refuge. Ce sont des moments comme ceux-ci qui m'ont fait réaliser que Krabi est une tapisserie de connexions personnelles tissées dans le tissu de son paysage magnifique.\n\nQuand on entre dans l'eau émeraude de l'Emerald Pool, la sensation de pénétrer dans un rêve est presque écrasante. Je me souviens de la première fois que j'ai plongé mes orteils dans l'eau chaude et riche en minéraux. Le vert vif de la jungle environnante semblait pulser de vie, et j'ai ressenti une connexion profonde avec la nature. Contrairement aux sites plus commercialisés de Thaïlande, Krabi offre ces échappées sereines où l'on peut vraiment s'immerger dans l'environnement. Le Tiger Cave Temple, perché au sommet d'une colline, fut une autre expérience inoubliable. Gravir les 1 237 marches n'était pas une mince affaire, mais atteindre le sommet et contempler la vue panoramique sur le paysage environnant valait chaque goutte de sueur. C'est un lieu de réflexion et de révérence, où l'air est chargé de spiritualité et les sons de chants lointains.\n\nKrabi a une façon de vous faire sentir vivant. Que ce soit le frisson de l'escalade, la paix d'une plage cachée ou la chaleur de l'hospitalité locale, chaque expérience est une histoire qui attend d'être racontée. C'est un endroit où chaque recoin cache un secret, chaque repas raconte une histoire et chaque rencontre laisse une empreinte sur votre cœur. Alors faites vos valises, laissez vos soucis derrière vous et laissez Krabi vous embrasser de sa beauté et de son charme.",
-      "overview": "Krabi est une magnifique province côtière du sud de la Thaïlande, célèbre pour ses falaises calcaires spectaculaires, ses plages immaculées et ses excursions d'île en île de classe mondiale. Située aux coordonnées 8.0863°N, 98.9063°E, cette destination enchante les voyageurs avec des sites emblématiques comme Railay Beach et les eaux émeraude autour de Koh Phi Phi. La région offre l'équilibre parfait entre les amateurs d'aventure et ceux en quête de détente, avec tout, de l'escalade sur des parois verticales aux journées paresseuses sur des plages de sable poudreux, un cocktail à la noix de coco à la main.",
-      "thingsToDo": "Les attractions de Krabi conviennent à tous les types de voyageurs. Railay Beach, accessible uniquement par bateau, possède d'imposantes falaises calcaires et est parfaite pour l'escalade et les couchers de soleil, sans frais d'entrée. Les aventuriers doivent gravir les 1 237 marches du Tiger Cave Temple (Wat Tham Suea), offrant une vue panoramique sur la jungle avec un accès gratuit. Pour les activités nautiques, le Four Islands Tour (1 200 THB/35 $) comprend plongée avec tuba et exploration de grottes, tandis qu'une excursion aux îles Phi Phi (400 THB/12 $ depuis Krabi Town) offre la célèbre Maya Bay et d'excellentes possibilités de plongée. Les amoureux de la nature apprécieront l'Emerald Pool (200 THB/6 $), un bassin naturel d'eau chaude au cœur de la forêt tropicale, ou la Hot Springs Waterfall (90 THB/3 $) avec ses cascades calcaires et ses bassins chauds. Le kayak à Ao Thalane offre une exploration paisible des mangroves avec des possibilités d'observer la faune locale, notamment des singes et des aigles (généralement 400-600 THB/12-18 $ pour des excursions guidées). Phra Nang Cave Beach est accessible par bateau depuis Ao Nang et abrite une grotte sacrée avec des offrandes traditionnelles.",
-      "whereToStay": "Krabi offre des options d'hébergement variées dans différents quartiers. Ao Nang est la principale station balnéaire avec de nombreux restaurants, bars et un accès facile aux excursions en île, ce qui en fait l'endroit idéal pour la plupart des voyageurs. Railay Beach offre une expérience plus exclusive et isolée, mais n'est accessible que par bateau. Krabi Town propose des pensions économiques et des expériences locales authentiques, parfait pour les routards et ceux qui veulent éviter les foules touristiques. L'hébergement varie de 300-500 THB (8-15 $) par nuit pour des pensions simples, 800-2 000 THB (23-57 $) pour des hôtels de gamme moyenne confortables avec équipements, et 2 500+ THB (71+ $) pour des resorts en bord de mer avec piscines et installations de sports nautiques.",
-      "gettingAround": "La principale option de transport à Krabi est le tuk-tuk (taxi à trois roues), disponible partout à Ao Nang et Krabi Town avec des tarifs généralement de 50 à 200 THB (1,50-6 $) pour les trajets locaux. Les songthaews (minibus partagés) offrent des alternatives moins chères à 20-40 THB (0,60-1,20 $) par personne mais suivent des itinéraires fixes. De nombreux voyageurs louent des scooters (150-300 THB/5-9 $ par jour) ou des vélos pour explorer à leur rythme, bien que cela nécessite un permis de conduire international. Pour le island hopping, les longtail boats sont indispensables et peuvent être réservés via les hôtels ou directement au quai d'Ao Nang. Grab (l'application de VTC thaïlandaise) est de plus en plus disponible dans la zone d'Ao Nang pour un transport pratique avec tarification transparente.",
-      "bestTimeToVisit": "La meilleure période pour visiter Krabi est de novembre à février, lorsque les températures sont agréables (25-28°C) et l'humidité basse, avec des précipitations minimales. Ces mois offrent des eaux cristallines parfaites pour la plongée avec tuba et le island hopping, ce qui en fait la haute saison touristique. Évitez mai à octobre, particulièrement mai-septembre, lorsque la mousson du sud-ouest apporte de fortes pluies, une mer agitée et de possibles annulations de bateaux. Mars et avril sont extrêmement chauds et humides avec des températures dépassant 35°C. Décembre et janvier sont les périodes idéales, offrant un temps de plage parfait, une mer calme et une excellente visibilité pour les activités nautiques, bien que les prix d'hébergement atteignent leur maximum pendant cette période.",
-      "safetyTips": "Krabi est généralement sûre pour les touristes, mais prenez les précautions standard : n'exhibez pas de bijoux coûteux ou d'appareils électroniques, utilisez des tuk-tuks enregistrés ou un transport organisé par l'hôtel plutôt que d'arrêter des véhicules au hasard, et gardez vos objets de valeur dans le coffre-fort de l'hôtel. Soyez prudent pendant la saison de mousson (mai-octobre) lorsque les mers agitées font des victimes chaque année — ne nagez que sur les plages désignées et tenez compte des avertissements locaux sur les conditions maritimes. Lors du island hopping, assurez-vous que votre opérateur de bateau est réputé et dispose de l'équipement de sécurité approprié. Les petits vols surviennent dans les marchés de nuit bondés et sur les plages, alors surveillez bien vos sacs. Pour l'escalade à Railay Beach, n'utilisez que des guides certifiés et vérifiez soigneusement l'équipement, car des accidents peuvent survenir avec des grimpeurs inexpérimentés.",
-      "hidden_gems": [
-        {
-          "name": "Koh Hong",
-          "story": "J'ai découvert Koh Hong lors d'une journée tranquille d'exploration. Un pêcheur local, voyant ma curiosité, a proposé de m'emmener dans ce paradis caché en longtail boat privé. Le lagon était à couper le souffle, entouré de falaises imposantes et d'une végétation luxuriante.",
-          "how_to_find": "Prenez un longtail boat depuis Ao Nang Beach ; négociez avec les bateliers au quai pour une excursion d'une demi-journée.",
-          "best_time": "Tôt le matin pour devancer la foule et admirer le lever du soleil.",
-          "local_insights": [
-            "Apportez vos propres encas et boissons ; il n'y a pas de boutiques sur l'île."
-          ]
-        },
-        {
-          "name": "Klong Thom Hot Springs",
-          "story": "Par un jour de pluie, j'ai trouvé réconfort aux Klong Thom Hot Springs. L'eau chaude était une échappée parfaite, et j'ai partagé des fous rires avec des habitants qui m'ont montré comment préparer des compresses d'herbes à partir des plantes environnantes.",
-          "how_to_find": "À environ 30 minutes de Krabi Town ; suivez les panneaux vers le village de Klong Thom.",
-          "best_time": "En semaine c'est moins bondé, surtout tôt le matin.",
-          "local_insights": [
-            "Apportez une serviette et préparez-vous à vous détendre ; c'est un lieu de prédilection des habitants."
-          ]
-        },
-        {
-          "name": "Ao Thalane",
-          "story": "Faire du kayak à travers Ao Thalane fut une expérience magique. Je me souviens avoir glissé silencieusement à travers les mangroves, observant des singes se balancer au-dessus de moi, et partageant un moment d'émerveillement avec un guide local qui me parlait de l'écosystème.",
-          "how_to_find": "Conduisez ou prenez un taxi jusqu'à Ao Thalane ; il y a plusieurs boutiques de location de kayaks à l'entrée.",
-          "best_time": "En fin d'après-midi quand la lumière est douce et que les animaux sont actifs.",
-          "local_insights": [
-            "Engagez un guide local pour une meilleure expérience ; ils connaissent les meilleurs endroits."
-          ]
-        },
-        {
-          "name": "Phra Nang Cave Beach",
-          "story": "J'ai trouvé Phra Nang Cave Beach après une longue promenade. La grotte, remplie d'offrandes à l'esprit de la princesse noyée, m'a fasciné. J'ai passé des heures à absorber la beauté et les histoires qu'elle renfermait.",
-          "how_to_find": "Accessible par bateau depuis Ao Nang ou Railay Beach ; c'est souvent moins bondé en fin d'après-midi.",
-          "best_time": "En fin d'après-midi pour admirer le coucher de soleil.",
-          "local_insights": [
-            "Respectez les coutumes locales ; c'est un lieu sacré pour les pêcheurs."
-          ]
-        },
-        {
-          "name": "Koh Poda",
-          "story": "Lors d'une excursion d'île en île, je suis tombé amoureux de Koh Poda. Le sable était comme de la poudre entre mes orteils, et j'ai partagé des histoires avec d'autres voyageurs en regardant le coucher de soleil sur la mer d'Andaman.",
-          "how_to_find": "Réservez une excursion depuis Ao Nang ou louez un longtail boat.",
-          "best_time": "Au coucher du soleil pour la plus belle vue.",
-          "local_insights": [
-            "Apportez un pique-nique ; il n'y a pas de boutiques sur l'île."
-          ]
-        }
-      ],
-      "authentic_experiences": [
-        {
-          "activity": "Cours de cuisine thaïlandaise",
-          "story": "J'ai suivi un cours de cuisine avec un chef local qui m'a appris à préparer un Pad Thai de A à Z. Nous avons visité le marché ensemble pour acheter des ingrédients frais, et j'ai appris la signification de chaque plat dans la culture thaïlandaise.",
-          "cultural_significance": "La cuisine est un moyen pour les habitants de partager leur patrimoine et de créer des liens avec les autres.",
-          "how_to_participate": "Cherchez des cours à Ao Nang ; beaucoup incluent des visites au marché.",
-          "insights": [
-            "Soyez ouvert aux nouvelles saveurs ; ça fait partie de l'expérience."
-          ]
-        },
-        {
-          "activity": "Entraînement de Muay Thai",
-          "story": "J'ai décidé d'essayer le Muay Thai dans une salle locale. Les entraîneurs étaient stricts mais bienveillants, me poussant jusqu'à mes limites tout en partageant des histoires sur leur propre parcours dans ce sport.",
-          "cultural_significance": "Le Muay Thai est profondément ancré dans la culture thaïlandaise et symbolise la force et la tradition.",
-          "how_to_participate": "Inscrivez-vous à un cours pour débutants dans l'une des salles locales à Ao Nang.",
-          "insights": [
-            "Respectez les entraîneurs ; ils apprécient le dévouement et l'engagement."
-          ]
-        },
-        {
-          "activity": "Bénévolat dans un sanctuaire d'éléphants",
-          "story": "Passer une journée dans un sanctuaire d'éléphants a changé ma vie. J'ai appris sur la conservation des éléphants et partagé un lien spécial avec ces doux géants en les nourrissant et les baignant.",
-          "cultural_significance": "Les éléphants ont une grande importance culturelle en Thaïlande et symbolisent la force et la sagesse.",
-          "how_to_participate": "Recherchez et réservez une journée dans l'un des centres de refuge éthiques près de Krabi.",
-          "insights": [
-            "Soyez respectueux et suivez les consignes ; c'est crucial pour le bien-être des éléphants."
-          ]
-        },
-        {
-          "activity": "Pêche locale avec des pêcheurs",
-          "story": "J'ai passé une matinée sur un bateau de pêche avec des pêcheurs locaux. Ils m'ont enseigné des techniques de pêche traditionnelles et partagé des histoires sur leurs ancêtres, me faisant sentir connecté à la terre et à la mer.",
-          "cultural_significance": "La pêche est une partie essentielle de la vie à Krabi et offre subsistance et sentiment de communauté.",
-          "how_to_participate": "Organisez une sortie de pêche via des tour-opérateurs locaux ou des pensions.",
-          "insights": [
-            "Soyez patient ; la pêche demande du temps et du respect pour la nature."
-          ]
-        },
-        {
-          "activity": "Atelier de massage thaïlandais",
-          "story": "J'ai participé à un atelier pour apprendre le massage thaïlandais traditionnel. L'instructeur était un maître, et j'ai ressenti le pouvoir guérisseur des techniques en pratiquant sur d'autres élèves.",
-          "cultural_significance": "Le massage fait partie intégrante de la culture thaïlandaise et favorise le bien-être et la relaxation.",
-          "how_to_participate": "Cherchez des ateliers à Ao Nang ou Krabi Town ; beaucoup sont proposés par des spas locaux.",
-          "insights": [
-            "Prenez votre temps pour apprendre ; il s'agit de se connecter avec l'énergie du corps."
-          ]
-        }
-      ],
-      "foodie_adventures": [
-        {
-          "dish": "Khao Soi",
-          "location": "Roti Chao Wang in Krabi Town",
-          "story": "La première fois que j'ai goûté le Khao Soi, j'ai été époustouflé par les saveurs complexes du curry et le croustillant des nouilles frites. C'était comme un câlin chaleureux par un jour de pluie.",
-          "price_range": "Environ 60 baht.",
-          "ordering_tips": [
-            "Demandez épicé ; les locaux adorent le piquant."
-          ]
-        },
-        {
-          "dish": "Som Tum (Salade de papaye)",
-          "location": "Échoppes de rue locales à Ao Nang",
-          "story": "J'ai regardé le vendeur piler les ingrédients ensemble, le son résonnant sur le marché animé. La première bouchée était un équilibre parfait entre sucré, acide et épicé.",
-          "price_range": "30-50 baht.",
-          "ordering_tips": [
-            "Indiquez votre niveau de piquant ; ça peut devenir intense !"
-          ]
-        },
-        {
-          "dish": "Massaman Curry",
-          "location": "Chao Nang Restaurant in Ao Nang",
-          "story": "La richesse du Massaman curry m'a surpris. Le bœuf mijoté lentement fondait dans ma bouche, et j'ai savouré chaque cuillerée avec du riz.",
-          "price_range": "80-120 baht.",
-          "ordering_tips": [
-            "Accompagnez-le de roti pour une expérience authentique."
-          ]
-        },
-        {
-          "dish": "Mango Sticky Rice",
-          "location": "Som's Cafe at Railay Beach",
-          "story": "La version de Som était la meilleure que j'aie jamais goûtée, avec une mangue parfaitement mûre et une sauce crémeuse à la noix de coco. C'est un doux souvenir que je chéris.",
-          "price_range": "50 baht.",
-          "ordering_tips": [
-            "Demandez un supplément de sauce coco ; c'est divin !"
-          ]
-        },
-        {
-          "dish": "Pad Thai",
-          "location": "Nadia's Pad Thai in Ao Nang",
-          "story": "Le Pad Thai de Nadia est légendaire. La voir cuisiner avec autant de passion était un plaisir, et le goût était un mélange parfait de saveurs.",
-          "price_range": "50-70 baht.",
-          "ordering_tips": [
-            "Essayez-le avec des crevettes pour un régal."
-          ]
-        },
-        {
-          "dish": "Crevettes grillées",
-          "location": "Échoppes de plage à Ao Nang",
-          "story": "Assis sur la plage avec une assiette de crevettes grillées, j'avais l'impression d'avoir découvert le paradis. La saveur fumée se mariait parfaitement avec une bière fraîche.",
-          "price_range": "100-150 baht.",
-          "ordering_tips": [
-            "Demandez la sauce piquante ; c'est un incontournable !"
-          ]
-        },
-        {
-          "dish": "Glace à la noix de coco",
-          "location": "Vendeurs locaux à Ao Nang",
-          "story": "Par une journée chaude, rien ne vaut le goût rafraîchissant de la glace à la noix de coco servie dans une coque de noix de coco. C'était un délice qui m'a fait sourire.",
-          "price_range": "30 baht.",
-          "ordering_tips": [
-            "Ajoutez des garnitures comme des cacahuètes et du maïs sucré pour une touche originale."
-          ]
-        },
-        {
-          "dish": "Larb Gai (Salade de poulet épicée)",
-          "location": "Marchés locaux à Krabi Town",
-          "story": "J'ai d'abord hésité, mais la première bouchée de Larb Gai fut une révélation. La fraîcheur des herbes et le croquant des légumes étaient exaltants.",
-          "price_range": "40 baht.",
-          "ordering_tips": [
-            "Ne faites pas l'impasse sur le riz gluant ; c'est le complément parfait du plat."
-          ]
-        }
-      ],
-      "translated_at": "2026-03-10T00:00:00.000Z"
-    },
-    "de": {
-      "enhanced_description": "Krabi ist nicht einfach ein Reiseziel; es ist eine Sinnesexplosion. Als ich durch Ao Nang schlenderte, vermischte sich die salzige Meeresbrise mit dem süßen Duft gegrillter Garnelen von den Strandständen. Die hoch aufragenden Kalksteinklippen ragten über mir auf, ihre raue Schönheit kontrastierte mit dem weichen, einladenden Sand darunter. Ich erinnere mich lebhaft an meinen ersten Tag in Krabi; ich war gerade angekommen, und die leuchtenden Farben des Sonnenuntergangs malten den Himmel in Farbtönen, die ich noch nie zuvor gesehen hatte. Das Geräusch von Lachen und brechenden Wellen erfüllte die Luft und schuf eine Symphonie, die sich wie Heimat anfühlte. Was Krabi von anderen thailändischen Zielen unterscheidet, ist seine entspannte Atmosphäre kombiniert mit atemberaubender natürlicher Schönheit. Im Gegensatz zu den belebten Straßen Bangkoks oder der Partyatmosphäre Phukets wiegte mich Krabi in ein Gefühl des Friedens und lud mich ein, seine verborgenen Schätze in meinem eigenen Tempo zu entdecken.\n\nEine meiner schönsten Erinnerungen stammt von einem spontanen Ausflug zum Railay Beach. Ich hatte gerade einen Vormittag mit Klettern an den Klippen verbracht (was ich für den Nervenkitzel und die Aussicht wärmstens empfehle!), als ich ein kleines Strandcafé entdeckte. Es wurde von einer einheimischen Frau namens Som geführt, die mich mit einem warmen Lächeln und einem Teller ihres selbstgemachten Mango Sticky Rice begrüßte. Während ich den süßen, cremigen Reis mit frischer Mango genoss, hörte ich ihren Geschichten über das Leben in Krabi, ihre Familie und wie der Strand ihr Zufluchtsort war zu. Es waren Momente wie diese, die mir klar machten, dass Krabi ein Geflecht persönlicher Verbindungen ist, eingewoben in die Kulisse seiner atemberaubenden Landschaft.\n\nWenn man durch das smaragdgrüne Wasser des Emerald Pool watet, ist das Gefühl, in einen Traum einzutauchen, fast überwältigend. Ich erinnere mich an das erste Mal, als ich meine Zehen ins warme, mineralreiche Wasser tauchte. Das leuchtende Grün des umgebenden Dschungels schien vor Leben zu pulsieren, und ich spürte eine tiefe Verbindung zur Natur. Im Gegensatz zu den stärker kommerzialisierten Orten Thailands bietet Krabi diese ruhigen Rückzugsorte, wo man sich wirklich in die Umgebung vertiefen kann. Der Tiger Cave Temple, hoch auf einem Hügel thronend, war ein weiteres unvergessliches Erlebnis. Die 1.237 Stufen zu erklimmen war keine Kleinigkeit, aber den Gipfel zu erreichen und den Panoramablick über die umliegende Landschaft zu genießen, war jeden Tropfen Schweiß wert. Es ist ein Ort der Besinnung und Ehrfurcht, wo die Luft schwer von Spiritualität ist und die Klänge ferner Gesänge zu hören sind.\n\nKrabi hat eine Art, einen lebendig fühlen zu lassen. Ob es der Nervenkitzel des Kletterns ist, die Ruhe eines versteckten Strandes oder die Wärme lokaler Gastfreundschaft — jedes Erlebnis ist eine Geschichte, die darauf wartet, erzählt zu werden. Dies ist ein Ort, an dem jede Ecke ein Geheimnis birgt, jede Mahlzeit eine Geschichte erzählt und jede Begegnung einen Abdruck in Ihrem Herzen hinterlässt. Also packen Sie Ihre Koffer, lassen Sie Ihre Sorgen hinter sich und lassen Sie sich von Krabis Schönheit und Charme umarmen.",
-      "overview": "Krabi ist eine atemberaubende Küstenprovinz im Süden Thailands, berühmt für ihre dramatischen Kalksteinklippen, unberührten Strände und erstklassigen Inselhopping-Möglichkeiten. Gelegen bei den Koordinaten 8.0863°N, 98.9063°E, bezaubert dieses Reiseziel mit ikonischen Orten wie Railay Beach und den smaragdgrünen Gewässern rund um Koh Phi Phi. Die Region bietet die perfekte Balance zwischen Abenteuersuchenden und Erholungssuchenden, mit allem von Klettern an vertikalen Felswänden bis zu faulen Tagen an puderweichen Sandstränden mit einem Kokosdrink in der Hand.",
-      "thingsToDo": "Krabis Attraktionen bedienen jeden Reisetyp. Railay Beach, nur per Boot erreichbar, hat hoch aufragende Kalksteinklippen und ist perfekt zum Klettern und Sonnenuntergänge beobachten, ohne Eintrittsgebühr. Abenteurer sollten die 1.237 Stufen zum Tiger Cave Temple (Wat Tham Suea) bewältigen, der Panorama-Dschungelblicke bei freiem Eintritt bietet. Für Wasseraktivitäten umfasst die Four Islands Tour (1.200 THB/$35) Schnorcheln und Höhlenerkundung, während ein Ausflug zu den Phi Phi Islands (400 THB/$12 ab Krabi Town) die berühmte Maya Bay und ausgezeichnete Schnorchelmöglichkeiten bietet. Naturliebhaber werden den Emerald Pool (200 THB/$6) schätzen, ein natürlich warmes Schwimmbecken im Regenwald, oder die Hot Springs Waterfall (90 THB/$3) mit ihren Kalksteinkaskaden und warmen Becken. Kajakfahren bei Ao Thalane bietet friedliche Mangrovenerkundung mit Möglichkeiten, Wildtiere wie Affen und Adler zu beobachten (typischerweise 400-600 THB/$12-18 für geführte Touren). Phra Nang Cave Beach ist per Boot von Ao Nang erreichbar und beherbergt eine heilige Höhle mit traditionellen Opfergaben.",
-      "whereToStay": "Krabi bietet vielfältige Unterkunftsmöglichkeiten in verschiedenen Gebieten. Ao Nang dient als Haupt-Strandort mit zahlreichen Restaurants, Bars und einfachem Zugang zu Inseltouren, ideal für die meisten Reisenden. Railay Beach bietet ein exklusiveres, abgeschiedeneres Erlebnis, erfordert aber Bootszugang. Krabi Town hat budgetfreundliche Gästehäuser und authentische lokale Erlebnisse, perfekt für Rucksackreisende und alle, die Touristenmassen meiden möchten. Unterkünfte reichen von 300-500 THB ($8-15) pro Nacht für einfache Gästehäuser, 800-2.000 THB ($23-57) für komfortable Mittelklassehotels mit Annehmlichkeiten, und 2.500+ THB ($71+) für Strandresorts mit Schwimmbädern und Wassersporteinrichtungen.",
-      "gettingAround": "Krabis wichtigste Transportoption ist das Tuk-Tuk (dreirädriges Taxi), überall in Ao Nang und Krabi Town verfügbar mit Fahrpreisen typischerweise von 50-200 THB ($1,50-6) für lokale Fahrten. Songthaews (geteilte Kleinbusse) bieten günstigere Alternativen für 20-40 THB ($0,60-1,20) pro Person, folgen aber festen Routen. Viele Reisende mieten Motorroller (150-300 THB/$5-9 täglich) oder Fahrräder zum Erkunden im eigenen Tempo, wobei ein internationaler Führerschein erforderlich ist. Für Inselhopping sind Longtail-Boote unverzichtbar und können über Hotels oder direkt am Pier von Ao Nang gebucht werden. Grab (Thailands Ride-Hailing-App) ist zunehmend in der Gegend von Ao Nang verfügbar für bequemen Transport mit transparenter Preisgestaltung.",
-      "bestTimeToVisit": "Die beste Reisezeit für Krabi ist November bis Februar, wenn die Temperaturen angenehm sind (25-28°C) und die Luftfeuchtigkeit niedrig ist, bei minimalem Niederschlag. Diese Monate bieten kristallklares Wasser, perfekt zum Schnorcheln und Inselhopping, was sie zur touristischen Hochsaison macht. Meiden Sie Mai bis Oktober, besonders Mai-September, wenn der Südwestmonsun starken Regen, raue See und mögliche Bootsausfälle bringt. März und April sind extrem heiß und feucht mit Temperaturen über 35°C. Dezember und Januar sind die idealen Monate mit perfektem Strandwetter, ruhiger See und ausgezeichneter Sicht für Wasseraktivitäten, obwohl die Unterkunftspreise in dieser Zeit ihren Höhepunkt erreichen.",
-      "safetyTips": "Krabi ist generell sicher für Touristen, aber treffen Sie Standard-Vorsichtsmaßnahmen: Zeigen Sie keinen teuren Schmuck oder Elektronik, nutzen Sie registrierte Tuk-Tuks oder vom Hotel organisierte Transfers statt zufällige Fahrzeuge anzuhalten, und bewahren Sie Wertgegenstände im Hotelsafe auf. Seien Sie während der Monsunzeit (Mai-Oktober) vorsichtig, wenn raue See jährlich Menschenleben fordert — schwimmen Sie nur an ausgewiesenen Stränden und beachten Sie lokale Warnungen zu Wasserbedingungen. Beim Inselhopping stellen Sie sicher, dass Ihr Bootsbetreiber seriös ist und ordnungsgemäße Sicherheitsausrüstung mitführt. Taschendiebstahl kommt auf belebten Nachtmärkten und Stränden vor, also achten Sie gut auf Ihre Taschen. Beim Klettern am Railay Beach nutzen Sie nur lizenzierte Guides und überprüfen Sie die Ausrüstung gründlich, da Unfälle mit unerfahrenen Kletterern passieren können.",
-      "hidden_gems": [
-        {
-          "name": "Koh Hong",
-          "story": "Ich entdeckte Koh Hong während eines ruhigen Erkundungstages. Ein einheimischer Fischer, der meine Neugier bemerkte, bot an, mich mit einem privaten Longtail-Boot in dieses verborgene Paradies zu bringen. Die Lagune war atemberaubend, umgeben von hoch aufragenden Klippen und üppigem Grün.",
-          "how_to_find": "Nehmen Sie ein Longtail-Boot vom Ao Nang Beach; verhandeln Sie mit den Bootsmännern am Pier für einen Halbtagesausflug.",
-          "best_time": "Früh morgens, um den Menschenmassen zuvorzukommen und den Sonnenaufgang zu erleben.",
-          "local_insights": [
-            "Bringen Sie eigene Snacks und Getränke mit; es gibt keine Geschäfte auf der Insel."
-          ]
-        },
-        {
-          "name": "Klong Thom Hot Springs",
-          "story": "An einem Regentag fand ich Trost in den Klong Thom Hot Springs. Das warme Wasser war eine perfekte Flucht, und ich teilte Lachkrämpfe mit Einheimischen, die mir zeigten, wie man Kräuterkompressen aus den umliegenden Pflanzen herstellt.",
-          "how_to_find": "Etwa 30 Minuten von Krabi Town; folgen Sie den Schildern zum Dorf Klong Thom.",
-          "best_time": "Unter der Woche ist es weniger überfüllt, besonders am frühen Morgen.",
-          "local_insights": [
-            "Bringen Sie ein Handtuch mit und bereiten Sie sich auf Entspannung vor; es ist ein Lieblingsort der Einheimischen."
-          ]
-        },
-        {
-          "name": "Ao Thalane",
-          "story": "Kajakfahren durch Ao Thalane war ein magisches Erlebnis. Ich erinnere mich, wie ich lautlos durch die Mangroven glitt, Affen über mir schwingen sah und einen Moment des Staunens mit einem einheimischen Guide teilte, der mir vom Ökosystem erzählte.",
-          "how_to_find": "Fahren Sie oder nehmen Sie ein Taxi nach Ao Thalane; es gibt mehrere Kajakverleihgeschäfte am Eingang.",
-          "best_time": "Am späten Nachmittag, wenn das Licht weich ist und die Tiere aktiv sind.",
-          "local_insights": [
-            "Engagieren Sie einen einheimischen Guide für ein besseres Erlebnis; sie kennen die besten Plätze."
-          ]
-        },
-        {
-          "name": "Phra Nang Cave Beach",
-          "story": "Ich fand Phra Nang Cave Beach nach einem langen Spaziergang. Die Höhle, gefüllt mit Opfergaben an den Geist der ertrunkenen Prinzessin, faszinierte mich. Ich verbrachte Stunden damit, die Schönheit und die Geschichten, die sie barg, aufzusaugen.",
-          "how_to_find": "Erreichbar per Boot von Ao Nang oder Railay Beach; am späten Nachmittag ist es oft weniger überfüllt.",
-          "best_time": "Am späten Nachmittag, um den Sonnenuntergang zu erleben.",
-          "local_insights": [
-            "Respektieren Sie die lokalen Bräuche; es ist ein heiliger Ort für Fischer."
-          ]
-        },
-        {
-          "name": "Koh Poda",
-          "story": "Beim Inselhopping verliebte ich mich in Koh Poda. Der Sand fühlte sich wie Puder zwischen meinen Zehen an, und ich teilte Geschichten mit Mitreisenden, während wir den Sonnenuntergang über der Andamanensee betrachteten.",
-          "how_to_find": "Buchen Sie eine Tour ab Ao Nang oder mieten Sie ein Longtail-Boot.",
-          "best_time": "Zum Sonnenuntergang für die schönste Aussicht.",
-          "local_insights": [
-            "Bringen Sie ein Picknick mit; es gibt keine Geschäfte auf der Insel."
-          ]
-        }
-      ],
-      "authentic_experiences": [
-        {
-          "activity": "Thailändischer Kochkurs",
-          "story": "Ich nahm an einem Kochkurs bei einem einheimischen Koch teil, der mir beibrachte, Pad Thai von Grund auf zuzubereiten. Wir besuchten zusammen den Markt, um frische Zutaten zu kaufen, und ich lernte die Bedeutung jedes Gerichts in der thailändischen Kultur.",
-          "cultural_significance": "Kochen ist eine Art für Einheimische, ihr Erbe zu teilen und sich mit anderen zu verbinden.",
-          "how_to_participate": "Suchen Sie nach Kursen in Ao Nang; viele beinhalten Marktbesuche.",
-          "insights": [
-            "Seien Sie offen für neue Geschmäcker; das gehört zum Erlebnis."
-          ]
-        },
-        {
-          "activity": "Muay Thai-Training",
-          "story": "Ich beschloss, Muay Thai in einem lokalen Gym auszuprobieren. Die Trainer waren streng, aber freundlich, sie trieben mich bis an meine Grenzen und teilten dabei Geschichten über ihren eigenen Weg im Sport.",
-          "cultural_significance": "Muay Thai ist tief in der thailändischen Kultur verwurzelt und symbolisiert Stärke und Tradition.",
-          "how_to_participate": "Melden Sie sich für einen Anfängerkurs in einem der lokalen Gyms in Ao Nang an.",
-          "insights": [
-            "Respektieren Sie die Trainer; sie schätzen Hingabe und Einsatz."
-          ]
-        },
-        {
-          "activity": "Freiwilligenarbeit in einem Elefantenschutzgebiet",
-          "story": "Einen Tag in einem Elefantenschutzgebiet zu verbringen war lebensverändernd. Ich lernte über Elefantenschutz und teilte eine besondere Verbindung mit diesen sanften Riesen, während ich sie fütterte und badete.",
-          "cultural_significance": "Elefanten haben eine große kulturelle Bedeutung in Thailand und symbolisieren Stärke und Weisheit.",
-          "how_to_participate": "Recherchieren und buchen Sie einen Tag in einem der ethischen Schutzgebiete in der Nähe von Krabi.",
-          "insights": [
-            "Seien Sie respektvoll und befolgen Sie die Richtlinien; das ist entscheidend für das Wohlergehen der Elefanten."
-          ]
-        },
-        {
-          "activity": "Lokales Fischen mit Fischern",
-          "story": "Ich verbrachte einen Morgen auf einem Fischerboot mit einheimischen Fischern. Sie brachten mir traditionelle Fangtechniken bei und teilten Geschichten über ihre Vorfahren, wodurch ich mich mit dem Land und dem Meer verbunden fühlte.",
-          "cultural_significance": "Fischen ist ein wesentlicher Teil des Lebens in Krabi und bietet Lebensunterhalt und ein Gemeinschaftsgefühl.",
-          "how_to_participate": "Organisieren Sie einen Angelausflug über lokale Reiseveranstalter oder Gästehäuser.",
-          "insights": [
-            "Seien Sie geduldig; Fischen braucht Zeit und Respekt vor der Natur."
-          ]
-        },
-        {
-          "activity": "Thailändische Massage-Workshop",
-          "story": "Ich nahm an einem Workshop teil, um traditionelle thailändische Massage zu lernen. Der Kursleiter war ein Meister, und ich spürte die heilende Kraft der Techniken, während ich an Mitschülern übte.",
-          "cultural_significance": "Massage ist ein fester Bestandteil der thailändischen Kultur und fördert Wohlbefinden und Entspannung.",
-          "how_to_participate": "Suchen Sie nach Workshops in Ao Nang oder Krabi Town; viele werden von lokalen Spas angeboten.",
-          "insights": [
-            "Nehmen Sie sich Zeit zum Lernen; es geht darum, sich mit der Energie des Körpers zu verbinden."
-          ]
-        }
-      ],
-      "foodie_adventures": [
-        {
-          "dish": "Khao Soi",
-          "location": "Roti Chao Wang in Krabi Town",
-          "story": "Als ich zum ersten Mal Khao Soi probierte, war ich überwältigt von den komplexen Aromen des Currys und der Knusprigkeit der gebratenen Nudeln. Es fühlte sich an wie eine warme Umarmung an einem Regentag.",
-          "price_range": "Etwa 60 Baht.",
-          "ordering_tips": [
-            "Bestellen Sie es scharf; die Einheimischen lieben ihre Schärfe."
-          ]
-        },
-        {
-          "dish": "Som Tum (Papayasalat)",
-          "location": "Lokale Straßenstände in Ao Nang",
-          "story": "Ich sah zu, wie der Verkäufer die Zutaten zusammenstampfte, das Geräusch hallte über den belebten Markt. Der erste Bissen war eine perfekte Balance aus süß, sauer und scharf.",
-          "price_range": "30-50 Baht.",
-          "ordering_tips": [
-            "Geben Sie Ihren Schärfegrad an; es kann intensiv werden!"
-          ]
-        },
-        {
-          "dish": "Massaman Curry",
-          "location": "Chao Nang Restaurant in Ao Nang",
-          "story": "Die Reichhaltigkeit des Massaman Curry überraschte mich. Das langsam geschmorte Rindfleisch zerging mir auf der Zunge, und ich genoss jeden Löffel mit Reis.",
-          "price_range": "80-120 Baht.",
-          "ordering_tips": [
-            "Kombinieren Sie es mit Roti für ein authentisches Erlebnis."
-          ]
-        },
-        {
-          "dish": "Mango Sticky Rice",
-          "location": "Som's Cafe at Railay Beach",
-          "story": "Soms Version war die beste, die ich je hatte, mit perfekt reifer Mango und cremiger Kokosnusssauce. Es ist eine süße Erinnerung, die ich in Ehren halte.",
-          "price_range": "50 Baht.",
-          "ordering_tips": [
-            "Bitten Sie um extra Kokosnusssauce; es ist himmlisch!"
-          ]
-        },
-        {
-          "dish": "Pad Thai",
-          "location": "Nadia's Pad Thai in Ao Nang",
-          "story": "Nadias Pad Thai ist legendär. Sie beim Kochen mit so viel Leidenschaft zu beobachten war ein Genuss, und der Geschmack war eine perfekte Mischung aus Aromen.",
-          "price_range": "50-70 Baht.",
-          "ordering_tips": [
-            "Probieren Sie es mit Garnelen als besonderes Extra."
-          ]
-        },
-        {
-          "dish": "Gegrillte Garnelen",
-          "location": "Strandstände in Ao Nang",
-          "story": "Am Strand sitzend mit einem Teller gegrillter Garnelen fühlte es sich an, als hätte ich das Paradies entdeckt. Der rauchige Geschmack passte perfekt zu einem kalten Bier.",
-          "price_range": "100-150 Baht.",
-          "ordering_tips": [
-            "Fragen Sie nach der scharfen Dipsauce; die ist ein Muss!"
-          ]
-        },
-        {
-          "dish": "Kokoseis",
-          "location": "Lokale Verkäufer in Ao Nang",
-          "story": "An einem heißen Tag gibt es nichts Besseres als den erfrischenden Geschmack von Kokoseis, serviert in einer Kokosnussschale. Es war ein köstliches Vergnügen, das mich zum Lächeln brachte.",
-          "price_range": "30 Baht.",
-          "ordering_tips": [
-            "Fügen Sie Toppings wie Erdnüsse und süßen Mais für eine besondere Note hinzu."
-          ]
-        },
-        {
-          "dish": "Larb Gai (Scharfer Hühnersalat)",
-          "location": "Lokale Märkte in Krabi Town",
-          "story": "Ich zögerte zunächst, aber der erste Bissen Larb Gai war eine Offenbarung. Die Frische der Kräuter und die Knackigkeit des Gemüses waren aufregend.",
-          "price_range": "40 Baht.",
-          "ordering_tips": [
-            "Lassen Sie den Klebreis nicht aus; er ist die perfekte Ergänzung zum Gericht."
-          ]
-        }
-      ],
-      "translated_at": "2026-03-10T00:00:00.000Z"
-    },
-    "zh": {
-      "enhanced_description": "甲米不仅仅是一个目的地，更是一场感官的爆发。当我漫步在奥南海滩时，咸湿的海风混合着海滩小摊烤虾的甜香。巨大的石灰岩悬崖在我头顶耸立，粗犷的美与脚下柔软诱人的细沙形成鲜明对比。我清楚地记得在甲米的第一天——刚到达时，绚烂的日落将天空涂抹成从未见过的色调。笑声和碎浪声交织在空气中，如同一曲令人宾至如归的交响乐。甲米与其他泰国目的地不同之处在于轻松的氛围与令人窒息的自然美景的结合。不同于曼谷的喧嚣或普吉岛的派对气氛，甲米将我拥入一种宁静，邀请我按自己的节奏发现隐藏的瑰宝。\n\n我最美好的记忆之一来自一次即兴的莱利海滩之行。我刚完成一上午的攀岩（强烈推荐，体验惊险和壮观的景色！），偶然发现了一家小小的海滩咖啡馆。女主人是一位叫Som的当地妇女，她以温暖的微笑迎接我，端上一盘自制的芒果糯米饭。当我品味着那甜蜜奶香的糯米配上新鲜芒果时，听她讲述在甲米的生活、她的家人，以及这片海滩如何成为她的避风港。正是这样的时刻让我意识到，甲米是一幅由个人情感连接编织在壮美风景之中的画卷。\n\n当你踏入翡翠池那翠绿色的水中，宛如步入梦境般令人屏息。我记得第一次把脚趾伸进那温暖的矿泉水时的感觉。周围丛林鲜艳的绿色似乎充满了脉动的生命力，我感受到与大自然的深层连接。不同于泰国那些更加商业化的景点，甲米提供了这样的宁静避世之所，让你真正沉浸在自然环境中。虎穴寺高踞山巅，是另一段难忘的体验。攀登1,237级台阶绝非易事，但登顶后俯瞰周围风景的全景视野让每一滴汗水都值得。那是一个沉思和敬畏的地方，空气中弥漫着灵性，远处的诵经声隐约可闻。\n\n甲米有一种让你感到充满活力的魔力。无论是攀岩的惊险、隐秘海滩的宁静，还是当地人的热情好客，每一次体验都是一个等待讲述的故事。这里每个角落都藏着秘密，每顿饭都诉说着故事，每次相遇都在心上留下印记。所以收拾行囊，抛却烦恼，让甲米用它的美丽和魅力拥抱你吧。",
-      "hidden_gems": [
-        {
-          "name": "Koh Hong",
-          "story": "我在一个安静的探索日发现了洪岛。一位当地渔民看到我的好奇心，主动提出用私人长尾船带我去这个隐藏的天堂。泻湖令人叹为观止，被高耸的悬崖和茂密的绿植所环绕。",
-          "how_to_find": "从奥南海滩乘长尾船出发，在码头与船夫协商半日游价格。",
-          "best_time": "清晨出发，避开人潮并欣赏日出。",
-          "local_insights": [
-            "自带零食和饮料，岛上没有商店。"
-          ]
-        },
-        {
-          "name": "Klong Thom Hot Springs",
-          "story": "在一个雨天，我在空通温泉找到了慰藉。温暖的泉水是完美的逃避之所，我和当地人一起欢笑，他们教我如何用附近的植物制作草药热敷包。",
-          "how_to_find": "距甲米镇约30分钟车程，沿路标前往空通村。",
-          "best_time": "工作日人更少，尤其是清晨。",
-          "local_insights": [
-            "带条毛巾准备好放松身心，这里是当地人最爱的休憩之地。"
-          ]
-        },
-        {
-          "name": "Ao Thalane",
-          "story": "在奥他莱皮划艇穿行是一段奇妙的经历。我记得静静地滑过红树林，头顶有猴子在树间荡来荡去，与当地向导一同惊叹，他教我了解这片生态系统。",
-          "how_to_find": "驾车或打车前往奥他莱，入口处有多家皮划艇租赁店。",
-          "best_time": "傍晚时分光线柔和，野生动物最为活跃。",
-          "local_insights": [
-            "请一位本地向导能大大提升体验，他们知道最好的地点。"
-          ]
-        },
-        {
-          "name": "Phra Nang Cave Beach",
-          "story": "经过一段长途徒步后我发现了帕南洞穴海滩。洞穴里满是对溺水公主之灵的供品，令我着迷。我花了好几个小时沉浸在那份美丽和它所承载的故事之中。",
-          "how_to_find": "从奥南或莱利海滩乘船可达，傍晚时分通常人更少。",
-          "best_time": "傍晚时分可以欣赏日落。",
-          "local_insights": [
-            "尊重当地风俗，这里是渔民的圣地。"
-          ]
-        },
-        {
-          "name": "Koh Poda",
-          "story": "在跳岛游中，我爱上了波达岛。沙子细如粉末从脚趾间流过，我和同行旅客分享故事，一起看着安达曼海上的日落。",
-          "how_to_find": "从奥南预订跳岛游或租一条长尾船。",
-          "best_time": "日落时分景色最为壮观。",
-          "local_insights": [
-            "自带野餐食物，岛上没有商店。"
-          ]
-        }
-      ],
-      "authentic_experiences": [
-        {
-          "activity": "泰式烹饪课",
-          "story": "我跟一位本地厨师上了一堂烹饪课，学习从头做泰式炒河粉。我们一起去市场挑选新鲜食材，我了解到每道菜在泰国文化中的意义。",
-          "cultural_significance": "烹饪是当地人分享传统文化和与他人建立联系的方式。",
-          "how_to_participate": "在奥南寻找烹饪课程，很多包含市场导览。",
-          "insights": [
-            "保持开放心态尝试新口味，这是体验的一部分。"
-          ]
-        },
-        {
-          "activity": "泰拳训练",
-          "story": "我决定在当地拳馆尝试泰拳。教练严格但友善，在逼我挑战极限的同时分享他们自己的格斗生涯故事。",
-          "cultural_significance": "泰拳深植于泰国文化之中，象征着力量和传统。",
-          "how_to_participate": "在奥南的当地拳馆报名初学者课程。",
-          "insights": [
-            "尊重教练，他们欣赏专注和努力。"
-          ]
-        },
-        {
-          "activity": "在大象庇护所做志愿者",
-          "story": "在大象庇护所度过的一天改变了我的人生。我了解了大象保育知识，在喂食和洗澡的过程中与这些温柔的巨兽建立了特殊的情感纽带。",
-          "cultural_significance": "大象在泰国文化中具有重要地位，象征着力量和智慧。",
-          "how_to_participate": "事先调查并预订甲米附近合乎伦理的庇护所的一日体验。",
-          "insights": [
-            "尊重规则并遵循指导，这对大象的福祉至关重要。"
-          ]
-        },
-        {
-          "activity": "与渔民一起出海捕鱼",
-          "story": "我和当地渔民在渔船上度过了一个早晨。他们教我传统捕鱼技术，分享祖辈的故事，让我与这片土地和海洋产生了连接。",
-          "cultural_significance": "捕鱼是甲米生活的重要组成部分，提供生计和社区归属感。",
-          "how_to_participate": "通过当地旅行社或客栈安排渔船体验。",
-          "insights": [
-            "保持耐心，捕鱼需要时间和对自然的尊重。"
-          ]
-        },
-        {
-          "activity": "泰式按摩工作坊",
-          "story": "我参加了一个传统泰式按摩工作坊。导师是一位大师，当我在同学身上练习时，感受到了这些技法的疗愈力量。",
-          "cultural_significance": "按摩是泰国文化不可分割的一部分，促进身心健康与放松。",
-          "how_to_participate": "在奥南或甲米镇寻找工作坊，许多由当地水疗中心提供。",
-          "insights": [
-            "慢慢学，这关乎与身体能量的连接。"
-          ]
-        }
-      ],
-      "foodie_adventures": [
-        {
-          "dish": "Khao Soi（咖喱面）",
-          "location": "Roti Chao Wang in Krabi Town",
-          "story": "第一次尝到Khao Soi时，咖喱的复杂层次和炸面条的酥脆让我惊艳。在雨天里吃上一碗，像是一个温暖的拥抱。",
-          "price_range": "Around 60 baht.",
-          "ordering_tips": [
-            "要求做辣的，当地人喜欢够劲的口味。"
-          ]
-        },
-        {
-          "dish": "Som Tum（青木瓜沙拉）",
-          "location": "Local street stalls in Ao Nang",
-          "story": "我看着摊主把食材捣碎在一起，节奏感十足的声响回荡在热闹的市场中。第一口就是甜、酸、辣的完美平衡。",
-          "price_range": "30-50 baht.",
-          "ordering_tips": [
-            "说明你要的辣度，可能会非常辣！"
-          ]
-        },
-        {
-          "dish": "Massaman Curry（玛莎曼咖喱）",
-          "location": "Chao Nang Restaurant in Ao Nang",
-          "story": "玛莎曼咖喱的浓郁令我惊喜。慢炖牛肉入口即化，每一口配饭都让人回味无穷。",
-          "price_range": "80-120 baht.",
-          "ordering_tips": [
-            "配煎饼（roti）一起吃更正宗。"
-          ]
-        },
-        {
-          "dish": "芒果糯米饭",
-          "location": "Som's Cafe at Railay Beach",
-          "story": "Som家的版本是我吃过最好的，完美成熟的芒果配上奶香浓郁的椰浆。这是我珍藏的甜蜜记忆。",
-          "price_range": "50 baht.",
-          "ordering_tips": [
-            "多要一份椰浆，真的太好吃了！"
-          ]
-        },
-        {
-          "dish": "Pad Thai（泰式炒河粉）",
-          "location": "Nadia's Pad Thai in Ao Nang",
-          "story": "Nadia的泰式炒河粉堪称传奇。看她充满激情地烹饪是一种享受，味道是各种风味的完美融合。",
-          "price_range": "50-70 baht.",
-          "ordering_tips": [
-            "加虾试试，绝对是一种犒赏。"
-          ]
-        },
-        {
-          "dish": "烤大虾",
-          "location": "Beachfront stalls in Ao Nang",
-          "story": "坐在海滩上端着一盘烤大虾，我觉得自己找到了天堂。烟熏的风味配上一杯冰啤酒完美至极。",
-          "price_range": "100-150 baht.",
-          "ordering_tips": [
-            "配海鲜酱一起吃风味更佳。"
-          ]
-        },
-        {
-          "dish": "Larb Gai（辣鸡肉沙拉）",
-          "location": "Local markets in Krabi Town",
-          "story": "起初我有些犹豫，但第一口Larb Gai就是一个味觉启示。香草的清新和蔬菜的脆爽令人振奋。",
-          "price_range": "40 baht.",
-          "ordering_tips": [
-            "别忘了配糯米饭，它是这道菜的完美搭档。"
-          ]
-        }
-      ],
-      "overview": "甲米是泰国南部一个美丽的沿海省份，以壮观的石灰岩悬崖、原始海滩和世界级跳岛游闻名。这个目的地以莱利海滩和皮皮岛周围翡翠般的海水等标志性景点迷倒旅行者。甲米为冒险者和寻求放松的人提供了完美的平衡——从在垂直岩壁上攀岩到手持椰子饮料在细软沙滩上慵懒度日。",
-      "thingsToDo": "甲米的景点适合各类旅行者。莱利海滩只能乘船到达，拥有巍峨的石灰岩悬崖，非常适合攀岩和观赏日落，无需门票。冒险者必须攀登虎穴寺（Wat Tham Suea）的1,237级台阶，可俯瞰丛林全景，免费入场。水上活动方面，四岛游（1,200 THB/$35）包含浮潜和洞穴探险，前往皮皮岛的行程（从甲米镇出发400 THB/$12）可以探访著名的玛雅湾和绝佳浮潜点。自然爱好者可前往翡翠池（200 THB/$6），这是雨林中的天然温泉泳池，或体验温泉瀑布（90 THB/$3）的石灰岩层叠和温暖水潭。在奥他莱皮划艇穿越红树林，有机会看到猴子和老鹰（导览通常400-600 THB/$12-18）。帕南洞穴海滩从奥南乘船可达，有一座供奉传统祭品的神圣洞穴。",
-      "whereToStay": "甲米各区域提供多样化的住宿选择。奥南是主要的度假区，餐厅、酒吧林立，方便前往各岛游，适合大多数旅客。莱利海滩提供更私密、隔世的体验，但只能乘船到达。甲米镇有经济实惠的客栈和地道的本地体验，非常适合背包客和想要避开人潮的旅客。住宿价格从简易客栈300-500 THB（$8-15）/晚，到舒适的中档酒店800-2,000 THB（$23-57），再到配备泳池和水上运动设施的海滩度假村2,500+ THB（$71+）不等。",
-      "gettingAround": "甲米主要的交通方式是突突车（三轮出租车），在奥南和甲米镇随处可见，本地行程通常50-200 THB（$1.50-6）。双条车（共乘小巴）沿固定路线运行，每人20-40 THB（$0.60-1.20），价格更实惠。许多旅客租摩托车（150-300 THB/$5-9/天）或自行车按自己的节奏探索，但需要国际驾照。跳岛游必须乘长尾船，可通过酒店或在奥南码头直接预订。Grab打车软件在奥南地区日益普及，价格透明方便出行。",
-      "bestTimeToVisit": "甲米的最佳旅行时间是11月至2月，气温宜人（25-28°C），湿度低，降雨极少。这几个月水质清澈见底，非常适合浮潜和跳岛游，是旅游旺季。避免5月至10月，尤其是5月至9月的西南季风季节，此时暴雨、波涛汹涌和可能的船次取消会影响行程。3月和4月极其炎热潮湿，气温超过35°C。12月和1月是最甜蜜的时段，完美的海滩天气、平静的海面和极佳的水上活动能见度，但住宿价格也达到峰值。",
-      "safetyTips": "甲米对游客总体安全，但需采取常规防范措施：不要展示昂贵的首饰或电子产品，使用正规突突车或酒店安排的交通工具而非随意拦车，贵重物品存入酒店保险箱。季风季节（5月至10月）需特别注意，汹涌的海浪每年都会夺去生命——只在指定海滩游泳并听从当地关于水况的警告。跳岛游时确认船运营商信誉良好且配备了适当的安全设备。小偷小摸在繁忙的夜市和海滩上时有发生，看管好随身物品。在莱利海滩攀岩时只请有资质的向导并仔细检查装备，缺乏经验的攀岩者可能发生事故。",
-      "translated_at": "2026-03-11T00:00:00.000Z"
-    },
-    "ru": {
-      "enhanced_description": "Краби — это не просто направление; это взрыв ощущений. Прогуливаясь по Ао Нангу, я чувствовал, как солёный морской бриз переплетается со сладким ароматом жареных креветок с пляжных лотков. Величественные известняковые скалы нависали надо мной, их суровая красота контрастировала с мягким, манящим песком внизу. Я ярко помню свой первый день в Краби; только что приехав, я увидел, как яркие краски заката расписали небо оттенками, которых никогда прежде не видел. Звуки смеха и разбивающихся волн наполняли воздух, создавая симфонию, которая казалась родным домом. Что отличает Краби от других тайских направлений — это расслабленная атмосфера в сочетании с захватывающей природной красотой. В отличие от бурлящих улиц Бангкока или тусовочной атмосферы Пхукета, Краби погружает в состояние умиротворения, приглашая исследовать его скрытые сокровища в своём темпе.\n\nОдно из самых дорогих воспоминаний — спонтанная поездка на пляж Рейли. Я только закончил утренний сеанс скалолазания на скалах (что настоятельно рекомендую ради острых ощущений и видов!), когда наткнулся на маленькое пляжное кафе. Его держала местная женщина по имени Сом, которая встретила меня тёплой улыбкой и тарелкой домашнего манго со сладким рисом. Наслаждаясь сладким, сливочным рисом со свежим манго, я слушал её рассказы о жизни в Краби, её семье и о том, как пляж стал её убежищем. Именно такие моменты помогли мне осознать, что Краби — это гобелен из личных связей, вплетённых в ткань потрясающего пейзажа.\n\nКогда бродишь по изумрудным водам Эмеральд Пул, ощущение, что попал в сон, почти ошеломляет. Помню, как впервые опустил пальцы ног в тёплую, богатую минералами воду. Яркая зелень окружающих джунглей словно пульсировала жизнью, и я ощутил глубокую связь с природой. В отличие от более коммерциализированных мест Таиланда, Краби предлагает такие тихие уголки, где можно по-настоящему погрузиться в окружающий мир. Храм Пещеры Тигра, расположенный высоко на холме, стал ещё одним незабываемым впечатлением. Подъём по 1 237 ступеням был нелёгким подвигом, но, достигнув вершины и охватив взглядом панораму окрестностей, я понял, что каждая капля пота того стоила. Это место размышлений и благоговения, где воздух наполнен духовностью и звуками далёких песнопений.\n\nКраби умеет дарить ощущение жизни. Будь то острые ощущения от скалолазания, умиротворение скрытого пляжа или тепло местного гостеприимства — каждое переживание становится историей, ждущей своего рассказчика. Это место, где за каждым поворотом таится секрет, каждая трапеза рассказывает историю, а каждая встреча оставляет след в сердце. Так что собирайте чемоданы, оставьте заботы позади и позвольте Краби обнять вас своей красотой и очарованием.",
-      "hidden_gems": [
-        {
-          "name": "Koh Hong",
-          "story": "Я обнаружил Ко Хонг во время спокойного дня исследований. Местный рыбак, заметив мой интерес, предложил отвезти меня на частном длиннохвостом катере в этот скрытый рай. Лагуна была захватывающей, окружённая высокими скалами и пышной зеленью.",
-          "how_to_find": "Возьмите длиннохвостый катер с пляжа Ао Нанг; торгуйтесь с лодочниками у пирса за полудневную поездку.",
-          "best_time": "Раннее утро, чтобы опередить толпы и встретить рассвет.",
-          "local_insights": [
-            "Берите свои закуски и напитки — на острове нет магазинов."
-          ]
-        },
-        {
-          "name": "Klong Thom Hot Springs",
-          "story": "В дождливый день я нашёл утешение в горячих источниках Клонг Тхом. Тёплые воды стали идеальным убежищем, а с местными жителями, которые показали мне, как делать травяные компрессы из окрестных растений, мы вместе посмеялись.",
-          "how_to_find": "Примерно в 30 минутах езды от города Краби; следуйте указателям на деревню Клонг Тхом.",
-          "best_time": "Будние дни менее многолюдны, особенно ранним утром.",
-          "local_insights": [
-            "Берите полотенце и готовьтесь расслабиться — это любимое место отдыха местных."
-          ]
-        },
-        {
-          "name": "Ao Thalane",
-          "story": "Каякинг по Ао Тхалане стал волшебным опытом. Помню, как бесшумно скользил среди мангровых зарослей, наблюдая за обезьянами, качающимися над головой, и разделяя момент восхищения с местным гидом, который рассказывал мне об экосистеме.",
-          "how_to_find": "Доберитесь на машине или такси до Ао Тхалане; у входа есть несколько пунктов проката каяков.",
-          "best_time": "Поздний вечер, когда свет мягкий и дикая природа активна.",
-          "local_insights": [
-            "Наймите местного гида — он знает лучшие места."
-          ]
-        },
-        {
-          "name": "Phra Nang Cave Beach",
-          "story": "Я нашёл пляж Пещеры Пхра Нанг после долгого похода. Пещера, заполненная подношениями духу утонувшей принцессы, очаровала меня. Я провёл часы, впитывая красоту и истории этого места.",
-          "how_to_find": "Добраться можно на лодке из Ао Нанга или с пляжа Рейли; ближе к вечеру обычно меньше народа.",
-          "best_time": "Поздний вечер, чтобы встретить закат.",
-          "local_insights": [
-            "Уважайте местные обычаи — это священное место для рыбаков."
-          ]
-        },
-        {
-          "name": "Koh Poda",
-          "story": "Во время островного тура я влюбился в Ко Пода. Песок казался пудрой между пальцами ног, и я делился историями с другими путешественниками, наблюдая за закатом над Андаманским морем.",
-          "how_to_find": "Закажите тур из Ао Нанга или арендуйте длиннохвостый катер.",
-          "best_time": "Закат для самых потрясающих видов.",
-          "local_insights": [
-            "Устройте пикник — на острове нет магазинов."
-          ]
-        }
-      ],
-      "authentic_experiences": [
-        {
-          "activity": "Кулинарный мастер-класс",
-          "story": "Я записался на кулинарный мастер-класс к местному шефу, который научил меня готовить Пад Тай с нуля. Мы вместе сходили на рынок за свежими ингредиентами, и я узнал о значении каждого блюда в тайской культуре.",
-          "cultural_significance": "Кулинария — это способ для местных делиться наследием и общаться с другими.",
-          "how_to_participate": "Ищите мастер-классы в Ао Нанге; многие включают экскурсию по рынку.",
-          "insights": [
-            "Будьте открыты новым вкусам — это часть опыта."
-          ]
-        },
-        {
-          "activity": "Тренировка Муай Тай",
-          "story": "Я решил попробовать Муай Тай в местном зале. Тренеры были строгими, но добрыми, подталкивая к пределу и делясь историями о своём пути в спорте.",
-          "cultural_significance": "Муай Тай глубоко укоренён в тайской культуре, олицетворяя силу и традиции.",
-          "how_to_participate": "Запишитесь на занятие для начинающих в одном из залов в Ао Нанге.",
-          "insights": [
-            "Уважайте тренеров — они ценят преданность и старание."
-          ]
-        },
-        {
-          "activity": "Волонтёрство в слоновьем заповеднике",
-          "story": "День в слоновьем заповеднике изменил мою жизнь. Я узнал о сохранении слонов и установил особую связь с этими нежными гигантами, кормя и купая их.",
-          "cultural_significance": "Слоны занимают важное культурное место в Таиланде, символизируя силу и мудрость.",
-          "how_to_participate": "Заранее изучите и забронируйте посещение одного из этичных заповедников недалеко от Краби.",
-          "insights": [
-            "Будьте уважительны и следуйте правилам — это важно для благополучия слонов."
-          ]
-        },
-        {
-          "activity": "Рыбалка с местными рыбаками",
-          "story": "Я провёл утро на рыбацкой лодке с местными рыбаками. Они научили меня традиционным техникам ловли и рассказали истории о своих предках, связав меня с землёй и морем.",
-          "cultural_significance": "Рыбалка — жизненно важная часть жизни в Краби, обеспечивающая пропитание и чувство общности.",
-          "how_to_participate": "Организуйте рыбалку через местных туроператоров или гостевые дома.",
-          "insights": [
-            "Будьте терпеливы — рыбалка требует времени и уважения к природе."
-          ]
-        },
-        {
-          "activity": "Мастер-класс по тайскому массажу",
-          "story": "Я записался на мастер-класс по традиционному тайскому массажу. Инструктор был настоящим мастером, и я ощутил целительную силу техник, практикуясь на других учениках.",
-          "cultural_significance": "Массаж — неотъемлемая часть тайской культуры, способствующая здоровью и расслаблению.",
-          "how_to_participate": "Ищите мастер-классы в Ао Нанге или городе Краби; многие предлагаются местными спа-центрами.",
-          "insights": [
-            "Не торопитесь учиться — это о соединении с энергией тела."
-          ]
-        }
-      ],
-      "foodie_adventures": [
-        {
-          "dish": "Khao Soi",
-          "location": "Roti Chao Wang in Krabi Town",
-          "story": "Впервые попробовав Кхао Сой, я был поражён сложными вкусами карри и хрустом жареной лапши. В дождливый день это было словно тёплое объятие.",
-          "price_range": "Around 60 baht.",
-          "ordering_tips": [
-            "Просите поострее — местные любят погорячее."
-          ]
-        },
-        {
-          "dish": "Som Tum (салат из папайи)",
-          "location": "Local street stalls in Ao Nang",
-          "story": "Я наблюдал, как продавец толчёт ингредиенты вместе, ритмичные звуки разносятся по оживлённому рынку. Первый укус — идеальный баланс сладкого, кислого и острого.",
-          "price_range": "30-50 baht.",
-          "ordering_tips": [
-            "Укажите желаемую степень остроты — может быть очень жгуче!"
-          ]
-        },
-        {
-          "dish": "Massaman Curry",
-          "location": "Chao Nang Restaurant in Ao Nang",
-          "story": "Насыщенность Массаман карри стала для меня сюрпризом. Медленно тушёная говядина таяла во рту, и каждую ложку с рисом хотелось смаковать.",
-          "price_range": "80-120 baht.",
-          "ordering_tips": [
-            "Закажите с роти для аутентичного опыта."
-          ]
-        },
-        {
-          "dish": "Манго со сладким рисом",
-          "location": "Som's Cafe at Railay Beach",
-          "story": "Версия Сом была лучшей из всех, что я пробовал — идеально спелое манго и сливочный кокосовый соус. Это сладкое воспоминание, которое я храню.",
-          "price_range": "50 baht.",
-          "ordering_tips": [
-            "Попросите побольше кокосового соуса — это божественно!"
-          ]
-        },
-        {
-          "dish": "Pad Thai",
-          "location": "Nadia's Pad Thai in Ao Nang",
-          "story": "Пад Тай у Нади — легенда. Наблюдать, как она готовит с такой страстью, было наслаждением, а вкус — идеальное сочетание ароматов.",
-          "price_range": "50-70 baht.",
-          "ordering_tips": [
-            "Попробуйте с креветками — настоящее удовольствие."
-          ]
-        },
-        {
-          "dish": "Жареные креветки на гриле",
-          "location": "Beachfront stalls in Ao Nang",
-          "story": "Сидя на пляже с тарелкой жареных креветок, я чувствовал, что нашёл рай. Дымный аромат идеально сочетался с холодным пивом.",
-          "price_range": "100-150 baht.",
-          "ordering_tips": [
-            "Закажите острый соус для обмакивания — обязательно!"
-          ]
-        },
-        {
-          "dish": "Кокосовое мороженое",
-          "location": "Local vendors in Ao Nang",
-          "story": "В жаркий день нет ничего лучше освежающего кокосового мороженого, поданного в кокосовой скорлупе. Это восхитительное лакомство, от которого невозможно не улыбнуться.",
-          "price_range": "30 baht.",
-          "ordering_tips": [
-            "Добавьте топпинги — арахис и сладкую кукурузу для разнообразия."
-          ]
-        },
-        {
-          "dish": "Larb Gai (острый куриный салат)",
-          "location": "Local markets in Krabi Town",
-          "story": "Сначала я сомневался, но первый укус Ларб Гай стал откровением. Свежесть трав и хруст овощей были восхитительны.",
-          "price_range": "40 baht.",
-          "ordering_tips": [
-            "Не забудьте клейкий рис — он идеально дополняет блюдо."
-          ]
-        }
-      ],
-      "overview": "Краби — красивая прибрежная провинция на юге Таиланда, знаменитая впечатляющими известняковыми скалами, нетронутыми пляжами и островными турами мирового уровня. Это направление очаровывает путешественников культовыми местами, такими как пляж Рейли и изумрудные воды вокруг Ко Пхи-Пхи. Краби предлагает идеальный баланс для искателей приключений и тех, кто ищет отдых — от скалолазания на отвесных стенах до ленивых дней на пудровых пляжах с кокосовым напитком в руке.",
-      "thingsToDo": "Достопримечательности Краби подходят для любого типа путешественника. Пляж Рейли, доступный только по воде, окружён величественными известняковыми скалами и идеален для скалолазания и наблюдения за закатами, вход бесплатный. Любителям приключений стоит подняться по 1 237 ступеням к Храму Пещеры Тигра (Ват Тхам Суа) ради панорамных видов на джунгли, вход свободный. Для водных развлечений: тур по четырём островам (1 200 THB/$35) включает снорклинг и исследование пещер, а поездка на острова Пхи-Пхи (400 THB/$12 из города Краби) открывает знаменитую бухту Майя и отличные места для снорклинга. Любители природы оценят Изумрудный бассейн (200 THB/$6) — природный тёплый водоём в тропическом лесу, или Горячий водопад (90 THB/$3) с известняковыми каскадами и тёплыми купальнями. Каякинг в Ао Тхалане позволяет спокойно исследовать мангровые заросли с возможностью увидеть обезьян и орлов (обычно 400–600 THB/$12–18 с гидом). Пляж Пещеры Пхра Нанг доступен на лодке из Ао Нанга и имеет священную пещеру с традиционными подношениями.",
-      "whereToStay": "Краби предлагает разнообразное размещение в разных районах. Ао Нанг — главная курортная зона с множеством ресторанов, баров и удобным доступом к островным турам, идеальная для большинства путешественников. Пляж Рейли предлагает более уединённый, изолированный от мира опыт, но доступен только на лодке. Город Краби отличается бюджетными гестхаусами и аутентичным местным колоритом, отлично подходит для бэкпекеров и тех, кто хочет избежать толп. Цены на жильё: от 300–500 THB ($8–15) за ночь в простых гестхаусах, 800–2 000 THB ($23–57) за комфортабельные отели среднего класса с удобствами, и от 2 500+ THB ($71+) за пляжные курорты с бассейнами и водными развлечениями.",
-      "gettingAround": "Основной транспорт в Краби — тук-тук (трёхколёсное такси), доступный повсюду в Ао Нанге и городе Краби по цене обычно 50–200 THB ($1,50–6) за поездку. Сонгтэу (маршрутные микроавтобусы) — более бюджетная альтернатива за 20–40 THB ($0,60–1,20) с человека, но курсируют по фиксированным маршрутам. Многие путешественники арендуют мотоциклы (150–300 THB/$5–9 в день) или велосипеды для самостоятельного изучения, хотя для этого нужны международные водительские права. Для островных туров необходимы длиннохвостые лодки, которые можно заказать в отеле или прямо на пирсе Ао Нанга. Grab (тайское приложение такси) всё более популярно в районе Ао Нанга для удобного транспорта с прозрачными ценами.",
-      "bestTimeToVisit": "Лучшее время для посещения Краби — с ноября по февраль, когда температура комфортная (25–28°C), влажность низкая, а осадки минимальны. В эти месяцы вода кристально чистая, идеальная для снорклинга и островных туров — это высокий сезон. Избегайте мая–октября, особенно мая–сентября, когда юго-западный муссон приносит сильные дожди, бурное море и возможные отмены лодочных рейсов. Март и апрель очень жаркие и влажные, температура превышает 35°C. Декабрь и январь — идеальное время: отличная пляжная погода, спокойное море и прекрасная видимость для водных развлечений, хотя цены на жильё достигают пика.",
-      "safetyTips": "Краби в целом безопасен для туристов, но следует соблюдать стандартные меры предосторожности: не демонстрируйте дорогие украшения или электронику, пользуйтесь официальными тук-туками или транспортом от отеля вместо случайных машин, храните ценные вещи в сейфе отеля. Будьте особенно внимательны в сезон муссонов (май–октябрь), когда бурное море ежегодно уносит жизни — купайтесь только на оборудованных пляжах и прислушивайтесь к местным предупреждениям о состоянии воды. При островных турах убедитесь, что оператор лодки надёжен и на борту есть надлежащее спасательное оборудование. Мелкие кражи случаются на оживлённых ночных рынках и пляжах — следите за своими вещами. При скалолазании на пляже Рейли пользуйтесь только услугами квалифицированных гидов и тщательно проверяйте снаряжение — несчастные случаи возможны у неопытных скалолазов.",
-      "translated_at": "2026-03-11T00:00:00.000Z"
-    },
-    "ko": {
-      "enhanced_description": "끄라비는 태국 남부 안다만해에 면한 해안 지방으로, 극적인 석회암 절벽과 에메랄드빛 바다가 만들어내는 경관으로 세계적인 명성을 얻고 있습니다. 푸켓에서 페리로 약 2시간, 방콕에서 비행기로 약 1시간 20분 거리에 위치합니다.\n\n라일레이 해변은 끄라비의 하이라이트로, 보트로만 접근할 수 있는 반도에 자리한 천혜의 해변입니다. 우뚝 솟은 석회암 절벽 아래 펼쳐진 백사장과 맑은 바다는 세계 어디에서도 보기 힘든 절경입니다. 암벽 등반을 즐기는 이들에게는 세계 최고의 클라이밍 스팟 중 하나이기도 합니다.\n\n아오낭은 끄라비의 관광 중심지로, 해변을 따라 레스토랑, 바, 다이빙숍이 늘어서 있습니다. 여기서 출발하는 아일랜드 호핑 투어로 꼬피피, 꼬홍, 꼬뽀다 등 보석 같은 섬들을 방문할 수 있습니다. 클롱톰 온천과 에메랄드 풀에서의 정글 트레킹도 놓칠 수 없는 체험입니다.",
-      "hidden_gems": [
-        {
-          "name": "꼬홍",
-          "description": "관광객이 적은 숨겨진 섬으로, 에메랄드빛 라군과 백사장이 매력적입니다."
-        },
-        {
-          "name": "클롱톰 온천",
-          "description": "열대 정글 속 천연 온천으로, 뜨거운 물에 몸을 담그며 자연을 즐길 수 있습니다."
-        },
-        {
-          "name": "아오탈레인",
-          "description": "맹그로브 숲을 카약으로 탐험하는 조용한 만으로, 자연 그대로의 풍경이 인상적입니다."
-        },
-        {
-          "name": "프라낭 동굴 해변",
-          "description": "라일레이 반도의 숨겨진 해변으로, 석회암 동굴과 백사장이 어우러진 신비로운 곳입니다."
-        },
-        {
-          "name": "꼬뽀다",
-          "description": "끄라비 앞바다의 작은 무인도로, 스노클링과 해수욕에 완벽한 한적한 섬입니다."
-        }
-      ],
-      "authentic_experiences": [
-        {
-          "name": "태국 요리 교실",
-          "description": "현지 재료로 마사만 커리, 팟타이 등 정통 태국 요리를 배우는 체험입니다."
-        },
-        {
-          "name": "무에타이 트레이닝",
-          "description": "태국의 국기인 무에타이를 현지 체육관에서 체험해보세요."
-        },
-        {
-          "name": "코끼리 보호구역 봉사",
-          "description": "윤리적인 코끼리 보호구역에서 코끼리를 돌보는 의미 있는 경험입니다."
-        },
-        {
-          "name": "현지 어부와 낚시",
-          "description": "현지 어부들과 함께 전통 방식으로 낚시를 체험합니다."
-        },
-        {
-          "name": "태국 마사지 워크숍",
-          "description": "전통 태국 마사지 기법을 배우는 워크숍입니다."
-        }
-      ],
-      "foodie_adventures": [
-        {
-          "name": "카오소이",
-          "description": "코코넛 커리 국수로, 북부 스타일이지만 끄라비에서도 맛볼 수 있습니다."
-        },
-        {
-          "name": "솜땀 (파파야 샐러드)",
-          "description": "매콤달콤한 청파파야 샐러드는 태국을 대표하는 국민 요리입니다."
-        },
-        {
-          "name": "마사만 커리",
-          "description": "남부 태국의 대표 커리로, 땅콩과 감자가 들어간 진한 코코넛 커리입니다."
-        },
-        {
-          "name": "망고 스티키 라이스",
-          "description": "잘 익은 망고와 코코넛 밀크를 뿌린 찹쌀의 완벽한 조합입니다."
-        },
-        {
-          "name": "팟타이",
-          "description": "태국의 국민 볶음면으로, 해변가 식당에서 즐기는 맛이 각별합니다."
-        },
-        {
-          "name": "구운 새우",
-          "description": "갓 잡은 새우를 숯불에 구워 매콤한 소스와 함께 즐기는 해변의 별미입니다."
-        },
-        {
-          "name": "코코넛 아이스크림",
-          "description": "코코넛 껍데기에 담긴 신선한 코코넛 아이스크림은 열대의 맛 그 자체입니다."
-        },
-        {
-          "name": "랍가이 (매운 닭고기 샐러드)",
-          "description": "민트와 라임이 어우러진 매콤한 닭고기 샐러드입니다."
-        }
-      ],
-      "overview": "끄라비는 태국 남부 안다만해에 면한 해안 지방으로, 극적인 석회암 카르스트 지형, 맑은 에메랄드빛 바다, 수백 개의 섬으로 유명합니다. 라일레이 해변, 꼬피피, 아오낭이 주요 관광 거점입니다.",
-      "thingsToDo": "끄라비의 명소는 모든 유형의 여행자를 만족시킵니다. 보트로만 접근 가능한 라일레이 해변에서 암벽 등반을 즐기고, 꼬피피로 아일랜드 호핑을 떠나세요. 에메랄드 풀과 클롱톰 온천에서 정글 트레킹을, 아오탈레인에서 카약을 즐길 수 있습니다.",
-      "whereToStay": "끄라비는 여러 지역에 걸쳐 다양한 숙소를 제공합니다. 아오낭은 편의시설이 밀집한 관광 중심지이고, 라일레이는 격리된 해변 리조트가 있으며, 끄라비 타운은 예산 여행자에게 적합합니다.",
-      "gettingAround": "끄라비의 주요 교통수단은 툭툭(삼륜 택시)이며, 아오낭-라일레이 간 이동은 롱테일 보트를 이용합니다. 오토바이 대여(200-300바트/일)와 Grab 앱도 사용 가능합니다.",
-      "bestTimeToVisit": "끄라비의 최적 방문 시기는 11월부터 2월까지로, 기온이 쾌적하고 비가 적습니다. 5월부터 10월은 우기로 일부 섬 투어가 중단될 수 있지만, 숙소 가격이 저렴합니다.",
-      "safetyTips": "끄라비는 대체로 안전한 여행지입니다. 롱테일 보트 탑승 시 구명조끼를 확인하고, 라일레이 해변에서 수영 시 해류에 주의하세요. 오토바이 대여 시 헬멧 착용과 국제 면허증이 필수입니다.",
-      "translated_at": "2026-03-14T00:00:00.000Z"
-    }
-  },
-  "extended_description": "## Overview\nKrabi province drapes along Thailand’s Andaman coast, where dramatic limestone karsts erupt from turquoise waters and mangrove-fringed estuaries. This is the Thailand of travel posters — the towering cliffs of Railay Beach, the emerald waters around Koh Phi Phi, and longtail boats puttering between hidden coves. Yet Krabi remains more relaxed and affordable than neighboring Phuket, with a traveler-friendly hub at Ao Nang and a genuinely charming riverside town center that many visitors skip entirely. Beyond the beaches, the province hides jungle hot springs, a crystalline Emerald Pool, and one of Thailand’s most challenging temple climbs at Tiger Cave. Whether you are a rock climber, a diver, a kayaker, or someone who simply wants to read a book on a world-class beach, Krabi delivers.\n\n## Best Time to Visit\nNovember to March is peak season with dry weather, calm seas, and temperatures of 25–33°C — ideal for island hopping and beach days. December and January are the busiest months; book accommodation early. The monsoon arrives May to October, bringing afternoon downpours and rougher seas that can cancel boat trips to Phi Phi and the outer islands. However, Railay Beach and Ao Nang remain accessible year-round, and prices drop 30–50% in low season. April is the shoulder month — hot (34–36°C) but still mostly dry — and Songkran water fights in Krabi Town are fun. For the best balance of weather and value, visit in November or late February to early March.\n\n## How to Get There\nKrabi Airport (KBV) receives direct budget flights from Bangkok’s Don Mueang (1h 20min, 800–2,500 THB on AirAsia, Thai Lion Air, Nok Air) and from Kuala Lumpur. From the airport, shared shuttle vans to Ao Nang cost 150 THB (30 minutes). Overnight buses from Bangkok run 12–14 hours (500–900 THB) and arrive at Krabi Bus Terminal, from where songthaews reach Ao Nang for 60–80 THB. From Phuket, minivans take 3 hours (300–400 THB). Ferries connect Krabi (Klong Jilad Pier) to Koh Phi Phi (1.5 hours, 400–600 THB) and Koh Lanta (2 hours, 400–500 THB). To reach Railay Beach, take a longtail boat from Ao Nang (100–150 THB, 15 minutes) — there is no road access.\n\n## Where to Stay\nAo Nang is the main tourist hub with the widest range of accommodation: backpacker hostels from 300–500 THB, mid-range hotels from 800–2,500 THB, and beachfront resorts from 3,000–8,000 THB. Railay Beach is car-free and feels like a separate island — bungalows start at 600 THB on the east side (mangrove views) and climb to 5,000–15,000 THB on the west side (the famous postcard beach). Krabi Town itself is the cheapest base, with guesthouses from 250–500 THB and a lively night market, but it is 30 minutes from the beaches. Klong Muang Beach north of Ao Nang is quieter with upscale resorts (3,000–12,000 THB) and a peaceful stretch of sand.\n\n## What to Do\nRailay Beach is the crown jewel — a peninsula accessible only by boat, flanked by sheer limestone walls. West Railay has the postcard beach, East Railay has budget accommodation, and Phra Nang Cave Beach at the southern tip has a shrine and some of the clearest water in Thailand. Rock climbing on Railay’s cliffs is world-famous, with half-day courses for beginners starting at 1,000–1,500 THB (Basecamp Tonsai and Real Rocks are reputable operators). Tiger Cave Temple (Wat Tham Suea) demands a 1,237-step climb to a hilltop Buddha with 360-degree views of the province — go early morning to beat the heat (free entry). The Emerald Pool (Sa Morakot) in Thung Teao Forest Natural Park glows an impossible green and is perfect for a cool dip (200 THB for foreigners). Island hopping by longtail to the Four Islands (Koh Tup, Koh Mor, Koh Poda, Chicken Island) costs 350–500 THB per person and fills a perfect day. Koh Phi Phi day trips by speedboat run 1,200–2,000 THB including snorkeling at Maya Bay.\n\n## Food & Dining\nKrabi Town’s night market (Friday and Saturday, Khong Kha Road) is the best food deal in the province: grilled seafood skewers (20–40 THB), chicken biryani from the Muslim stalls (40–60 THB), roti with banana and Nutella (30–50 THB), and fresh fruit shakes (30 THB). Ao Nang has more tourist-priced restaurants (150–400 THB per dish), but Lae Lay Grill on the cliff above Ao Nang offers stunning sunset views with mains from 200–500 THB. Southern Thai cuisine dominates — look for gaeng tai pla (spicy fish-organ curry), khua kling (dry-fried curry paste with pork), and fresh cashew nuts that Krabi province is famous for. Railay’s restaurants are the priciest due to isolation (200–500 THB per dish), but the Last Bar does decent Thai food with a beach bonfire vibe.\n\n## Budget Guide\nKrabi offers excellent value compared to Phuket. Backpackers manage on 700–1,100 THB/day ($19–30): hostel dorm (300–400 THB), market meals and street food (150–250 THB), longtail boats and songthaews (100–200 THB). Mid-range travelers spend 2,000–4,000 THB/day ($55–111): beachfront hotel, restaurant dining, one island-hopping day trip. Scooter rental in Ao Nang costs 200–350 THB/day and is the best way to reach Tiger Cave Temple and the Emerald Pool independently. Longtail boats to Railay are cheap (100–150 THB) but always agree on price before boarding.\n\n## Safety & Tips\nKrabi is safe for all types of travelers. Longtail boat operators should provide life jackets — insist if they do not. Currents at Railay and Ao Nang can be strong during monsoon season; respect red-flag warnings. The Tiger Cave Temple climb is steep and exposed to sun — bring 1 liter of water per person and start before 8am. Monkeys at the temple base and on Railay are bold and will grab food and bags; secure your belongings. If renting a scooter, check brakes and tires, and carry your international driving permit. Do not book Phi Phi day trips with the cheapest operators — mid-range speedboats are safer and visit at less crowded times. The bioluminescent plankton tours at night (usually October–March) are magical but book through verified operators.",
-  "getting_there": {
-    "from_bangkok": {
-      "flight": "1h 20min, 800-2,500 THB (AirAsia, Thai Lion Air, Nok Air from Don Mueang)",
-      "bus": "12-14 hours overnight, 500-900 THB"
-    },
-    "from_phuket": {
-      "minivan": "3 hours, 300-400 THB"
-    },
-    "local": "Longtail boat Ao Nang to Railay Beach 100-150 THB (15 min), ferry to Koh Phi Phi 400-600 THB (1.5 hours)",
-    "airport": "Krabi Airport (KBV)"
-  },
-  "best_time": {
-    "peak": "Nov-Mar",
-    "shoulder": "Apr, Oct",
-    "low": "May-Sep (monsoon, rough seas)",
-    "avoid": "June-August for island hopping (boats cancelled in rough weather)",
-    "best_months": "Nov-Feb",
-    "why": "Dry weather, calm seas, perfect for island hopping and beach days."
-  },
-  "budget": {
-    "backpacker": "$19-30/day",
-    "mid_range": "$55-111/day",
-    "luxury": "$150+/day",
-    "typical_meal": "40-60 THB street food, 150-400 THB restaurant"
-  },
-  "neighborhoods": [
+  "contentSources": [
     {
-      "name": "Ao Nang",
-      "vibe": "Main tourist hub, restaurants, bars, easy longtail access to Railay",
-      "best_for": "First-timers, mid-range travelers, families",
-      "price_range": "300-8,000 THB/night"
+      "type": "tourism-office",
+      "title": "10 THINGS TO DO IN KRABI",
+      "creator": "Tourism Authority of Thailand",
+      "url": "https://www.tourismthailand.org/Articles/10-things-to-do-in-krabi",
+      "description": "Used for official province-wide attraction framing around Railay, Thale Waek, and Ban Ko Klang."
     },
     {
-      "name": "Railay Beach",
-      "vibe": "Car-free peninsula, world-class cliffs, postcard beach",
-      "best_for": "Rock climbers, beach lovers, adventurers",
-      "price_range": "600-15,000 THB/night"
+      "type": "tourism-office",
+      "title": "Ao Railay (Railay Bay) - Tham Phra Nang Beach - Thale Waek - Ko Po Da - Khao Khanap Nam Viewpoint - Tha Pom - Khlang Cave",
+      "creator": "Tourism Authority of Thailand",
+      "url": "https://www.tourismthailand.org/Trip-Planner/Suggestion-Detail/ao-railay-railay-bay-tham-phra-nang-beach-phra-nang-cave-beach-thale-waek-separated-sea-ko-po-da-khao-khanap-nam-viewpoint-tha-pom-khlang-cave",
+      "description": "Used for official Krabi 2-day route framing around Railay, island stops, and the river side."
     },
     {
-      "name": "Krabi Town",
-      "vibe": "Authentic riverside town, night markets, cheapest base",
-      "best_for": "Budget travelers, foodies, cultural explorers",
-      "price_range": "250-1,000 THB/night"
+      "type": "tourism-office",
+      "title": "recommended-route-for-one-day",
+      "creator": "Tourism Authority of Thailand",
+      "url": "https://www.tourismthailand.org/Trip-Planner/Suggestion-Detail/recommended-route-for-one-day",
+      "description": "Used for Khao Khanap Nam, Ko Klang, and Krabi Walking Street planning logic."
     },
     {
-      "name": "Klong Muang Beach",
-      "vibe": "Quiet, upscale resorts, peaceful stretch of sand",
-      "best_for": "Luxury travelers, couples, honeymoons",
-      "price_range": "3,000-12,000 THB/night"
+      "type": "tourism-office",
+      "title": "Krabi Walking Street",
+      "creator": "Tourism Authority of Thailand",
+      "url": "https://www.tourismthailand.org/Attraction/krabi-walking-street",
+      "description": "Used for official walking-street reference."
+    },
+    {
+      "type": "tourism-office",
+      "title": "Krabi, embrace the charm of nature, relax and unwind",
+      "creator": "Tourism Authority of Thailand",
+      "url": "https://www.tourismthailand.org/Articles/krabi-embrace-the-charm-of-nature-relax-and-unwind",
+      "description": "Used for Ko Klang and wider Krabi slow-travel framing."
+    },
+    {
+      "type": "tourism-office",
+      "title": "KRABI'S CRADLE OF CRAFTS",
+      "creator": "Tourism Authority of Thailand",
+      "url": "https://www.tourismthailand.org/Articles/krabi-s-cradle-of-crafts",
+      "description": "Used for Ban Na Teen community and craft-village context."
+    },
+    {
+      "type": "attraction",
+      "title": "Emerald Pool",
+      "creator": "7greens by Tourism Authority of Thailand",
+      "url": "https://7greens.tourismthailand.org/2018/11/13/emerald-pool/",
+      "description": "Used for official attraction context around Emerald Pool."
+    },
+    {
+      "type": "attraction",
+      "title": "Khlong Thom Hot Spring Waterfall",
+      "creator": "Tourism Product by Tourism Authority of Thailand",
+      "url": "https://tourismproduct.tourismthailand.org/en/2025/06/16/%E0%B8%99%E0%B9%89%E0%B8%B3%E0%B8%95%E0%B8%81%E0%B8%A3%E0%B9%89%E0%B8%AD%E0%B8%99%E0%B8%84%E0%B8%A5%E0%B8%AD%E0%B8%87%E0%B8%97%E0%B9%88%E0%B8%AD%E0%B8%A1%E0%B9%80%E0%B8%AB%E0%B8%99%E0%B8%B7%E0%B8%AD/",
+      "description": "Used for current official hot-spring waterfall reference."
+    },
+    {
+      "type": "hotel",
+      "title": "Welcome to Rayavadee Krabi, Thailand",
+      "creator": "Rayavadee",
+      "url": "https://www.rayavadee.com/",
+      "description": "Used for official Railay-side luxury-resort positioning."
+    },
+    {
+      "type": "restaurant",
+      "title": "Rayavadee Krabi Dining",
+      "creator": "Rayavadee",
+      "url": "https://www.rayavadee.com/en/dining.php",
+      "description": "Used for official dining context around Raya Dining, Krua Phranang, and The Grotto."
+    },
+    {
+      "type": "hotel",
+      "title": "Luxury Beachfront Resort in Krabi | Dusit Thani Krabi Beach Resort",
+      "creator": "Dusit Hotels",
+      "url": "https://www.dusit.com/dusitthani-krabibeachresort/",
+      "description": "Used for official Klong Muang resort positioning."
+    },
+    {
+      "type": "restaurant",
+      "title": "Beachfront Dining in Krabi | Dusit Thani Krabi Beach Resort",
+      "creator": "Dusit Hotels",
+      "url": "https://www.dusit.com/dusitthani-krabibeachresort/dining/",
+      "description": "Used for official dining context around Toh Kin Khaw and Cocovida Pool."
+    },
+    {
+      "type": "hotel",
+      "title": "5-Star Krabi Beachfront Villa Resort | Banyan Tree Krabi",
+      "creator": "Banyan Tree",
+      "url": "https://www.banyantree.com/thailand/Krabi",
+      "description": "Used for official quiet-coast luxury-resort positioning."
+    },
+    {
+      "type": "restaurant",
+      "title": "Saffron Thai Restaurant in Krabi | Banyan Tree Krabi",
+      "creator": "Banyan Tree",
+      "url": "https://www.banyantree.com/thailand/krabi/dining/saffron",
+      "description": "Used for official Saffron dining context."
+    },
+    {
+      "type": "hotel",
+      "title": "Krabi Hotel | The Tubkaak Resort | Boutique Resort Krabi",
+      "creator": "The Tubkaak Krabi Boutique Resort",
+      "url": "https://www.tubkaakresort.com/",
+      "description": "Used for official Tubkaak-side boutique-resort positioning."
+    },
+    {
+      "type": "hotel",
+      "title": "Phulay Bay, a Ritz-Carlton Reserve | 5-Star Hotel near Krabi",
+      "creator": "The Ritz-Carlton",
+      "url": "https://www.ritzcarlton.com/en/hotels/kbvrz-phulay-bay-a-ritz-carlton-reserve/overview/",
+      "description": "Used for official ultra-luxury resort positioning."
+    },
+    {
+      "type": "restaurant",
+      "title": "Phulay Bay Dining",
+      "creator": "The Ritz-Carlton",
+      "url": "https://www.ritzcarlton.com/en/hotels/kbvrz-phulay-bay-a-ritz-carlton-reserve/dining/",
+      "description": "Used for official dining context around Jampoon and Sri Trang."
+    },
+    {
+      "type": "hotel",
+      "title": "NAKAMANDA Resort and Spa",
+      "creator": "Nakamanda Resort & Spa",
+      "url": "https://www.nakamanda.com/",
+      "description": "Used for official low-rise resort positioning on the Klong Muang side."
     }
   ],
-  "must_try_food": [
-    "Grilled seafood skewers at Krabi Town night market — prawns, squid, and fish fresh from the Andaman (20-40 THB each)",
-    "Roti with banana and Nutella from Muslim street stalls — a southern Thai specialty (30-50 THB)",
-    "Gaeng tai pla (spicy fish-organ curry) — intense southern Thai flavor, not for the faint-hearted (50-80 THB)"
-  ],
-  "local_tips": [
-    "Take the longtail to Railay from Ao Nang (100-150 THB) rather than booking expensive tour packages — just show up at the beach and boats leave when full",
-    "Climb Tiger Cave Temple before 8am to avoid the midday heat — the 1,237 steps are brutal in direct sun",
-    "The Four Islands longtail trip (350-500 THB) is better value than the speedboat version and feels more authentic",
-    "Krabi Town’s weekend night market (Friday-Saturday) has the same food as Ao Nang at half the price",
-    "For rock climbing beginners, book a half-day course at Railay (1,000-1,500 THB) — no experience needed and the cliff views are incredible"
-  ],
-  "day_trips": [
-    "Koh Phi Phi & Maya Bay (speedboat day trip) — iconic islands, snorkeling, Pileh Lagoon (1,200-2,000 THB)",
-    "Four Islands by longtail (full day) — Koh Tup, Koh Mor, Koh Poda, Chicken Island (350-500 THB/person)",
-    "Emerald Pool & Hot Springs (50 km east) — jungle swimming in crystal-clear water plus natural hot springs (200 THB entry)",
-    "Koh Lanta (2 hour ferry) — quieter island with long beaches, great for a 2-3 day extension"
-  ],
-  "enriched_at": "2026-03-22"
+  "reviewed_by": "Go2Thailand Editorial Team",
+  "enhanced_at": "2026-03-26T00:00:00.000Z",
+  "enrichedAt": "2026-03-26T00:00:00.000Z",
+  "factchecked_at": "2026-03-26T00:00:00.000Z"
 }

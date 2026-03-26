@@ -2,85 +2,81 @@
   "id": 3,
   "slug": "emerald-pool",
   "name": {
-    "en": "Emerald Pool (Sa Morakot)",
-    "nl": "Smaragd Zwembad (Sa Morakot)"
+    "en": "Emerald Pool",
+    "nl": "Emerald Pool"
   },
   "type": "nature",
   "city_slug": "krabi",
-  "address": "Thung Teao Forest Natural Park, Khlong Thom District",
+  "address": "Thung Teao Forest Natural Park, Khlong Thom District, Krabi",
   "location": {
     "lat": 7.9167,
     "lng": 99.2667
   },
-  "opening_hours": "08:00-17:00",
+  "opening_hours": "Daytime sanctuary access; recheck current hours before departure",
   "entrance_fee": {
     "thb": 200,
     "usd": 6
   },
   "description": {
-    "en": "Natural hot spring pool with crystal clear emerald-colored water in rainforest",
-    "nl": "Natuurlijke warmwaterbron met kristalhelder smaragdkleurig water in regenwoud"
+    "en": "The most useful inland nature stop in Krabi and the cleanest counterweight to back-to-back marine days.",
+    "nl": "De bruikbaarste inlandse natuurstop in Krabi en het schoonste tegengewicht voor opeenvolgende maritieme dagen."
   },
   "highlights": [
-    "Natural hot springs",
-    "Emerald water",
-    "Rainforest setting",
-    "Swimming"
+    "Wildlife-sanctuary setting",
+    "Best inland contrast day",
+    "Good with the hot springs"
   ],
   "image": "/images/cities/krabi/attractions/emerald pool.webp",
-  "official_website": null,
+  "official_website": "https://7greens.tourismthailand.org/2018/11/13/emerald-pool/",
   "seo": {
     "metaTitle": {
-      "en": "Emerald Pool (Sa Morakot) - Top Attraction in Krabi | Go2Thailand",
-      "nl": "Smaragd Zwembad (Sa Morakot) - Top Attractie in Krabi | Go2Thailand"
+      "en": "Emerald Pool Krabi | Go2Thailand",
+      "nl": "Emerald Pool Krabi | Go2Thailand"
     },
     "metaDescription": {
-      "en": "Discover Emerald Pool (Sa Morakot) in Krabi. Natural hot spring pool with crystal clear emerald-colored water in rainforest...",
-      "nl": "Ontdek Smaragd Zwembad (Sa Morakot) in Krabi. Natuurlijke warmwaterbron met kristalhelder smaragdkleurig water in regenwoud..."
+      "en": "Why Emerald Pool is the most useful inland nature stop in Krabi and how to pair it with the hot-spring side.",
+      "nl": "Waarom Emerald Pool de bruikbaarste inlandse natuurstop van Krabi is en hoe je die combineert met de hot-spring-kant."
     }
   },
   "tags": [
     "nature",
+    "emerald pool",
     "krabi",
-    "thailand",
-    "attraction",
-    "travel",
-    "tourism"
+    "khlong thom",
+    "thailand"
   ],
-  "enhanced_description": "The Emerald Pool, or Sa Morakot, is a breathtaking natural hot spring nestled within the lush Thung Teao Forest Natural Park in Krabi. Renowned for its striking emerald-hued waters, this enchanting pool is surrounded by dense rainforest, offering a serene escape into nature. The water's unique color derives from its mineral content, making it a natural wonder that attracts visitors from around the globe. The area is not only a perfect spot for a refreshing swim but also a habitat for diverse flora and fauna, providing an excellent opportunity for nature enthusiasts and photographers. Visitors can expect a tranquil atmosphere, enhanced by the soothing sounds of nature. As you immerse yourself in the warm waters, the surrounding beauty creates a rejuvenating experience, making the Emerald Pool a must-visit destination for anyone traveling to Krabi. With its easy access from Krabi town and a modest entrance fee, the Emerald Pool offers an unforgettable glimpse into Thailand's natural beauty.",
-  "detailed_history": "The Emerald Pool has long been a hidden gem within the Thung Teao Forest, a protected area since the establishment of the national park in 1980. The site is a significant part of Krabi's ecological heritage, showcasing the region's unique geothermal activity. Locals have revered the pool for its therapeutic properties, attributing healing qualities to the mineral-rich waters. The area is not only a natural wonder but also serves as a reminder of the importance of conservation in preserving Thailand's diverse ecosystems. Over the years, the Emerald Pool has attracted both tourists and locals, becoming a symbol of Krabi's natural allure and a vital part of its cultural landscape.",
-  "visitor_experience": "When visiting the Emerald Pool, guests will find well-maintained pathways leading through the rainforest, making the trek enjoyable and accessible. The main area features the stunning pool, where visitors can swim and relax. The typical visit duration is around 2-3 hours, allowing time for exploration and soaking in the tranquil environment. There are designated areas for swimming, and nearby walking trails lead to additional scenic spots within the park, making it an immersive nature experience.",
+  "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=Emerald%20Pool%20Krabi%20Thailand",
+  "best_time": "morning",
+  "duration_hours": 3,
+  "enhanced_description": "Emerald Pool matters because it gives Krabi one of its clearest inland nature reasons to break away from the coast. The province is easy to flatten into beaches and boats, which is why this stop works so well. It shifts the day into forest, sanctuary context, and a different pace altogether.\n\nThe pool is most useful when you treat it as part of a dedicated inland route rather than trying to cram it between marine transfers. That is why pairing it with the Khlong Thom hot-spring side makes sense. The inland day becomes coherent, and Krabi feels like a broader province instead of a nonstop island-departure machine.",
+  "detailed_history": "7greens and Tourism Authority of Thailand material continue to frame Emerald Pool as one of Krabi's headline inland natural attractions. That matters because the pool is not only visually appealing; it is one of the province's clearest reminders that Krabi's identity extends beyond the coast.",
+  "visitor_experience": "Expect an inland nature outing rather than a beach substitute. The appeal is the setting and the contrast: forest atmosphere, a more land-based rhythm, and a calmer sort of day than the boat-heavy Andaman side. Give it proper time and let the inland route stay simple.",
   "best_time_to_visit": {
-    "time_of_day": "Morning is the best time to visit, as the sunlight enhances the emerald color of the water and the temperatures are cooler.",
-    "duration": "A recommended visit duration is 2-3 hours for swimming and exploration.",
-    "crowd_level": "Expect moderate crowds during weekends and holidays; visiting early in the morning or on weekdays can help avoid larger groups."
+    "time_of_day": "Morning",
+    "duration": "About 2 to 3 hours",
+    "crowd_level": "Moderate, with busier windows later in the day"
   },
-  "photography_tips": [
-    "The best photo spots include elevated views from the surrounding trails and close-ups of the water to capture its vibrant color.",
-    "Early morning light provides soft natural lighting, enhancing the emerald hue.",
-    "Look for Instagram-worthy locations along the pathways that frame the pool amidst the lush greenery.",
-    "Respect photography restrictions, particularly in areas where signage prohibits flash photography to protect wildlife."
-  ],
   "practical_info": {
-    "how_to_get_there": "Transportation options include renting a scooter, hiring a taxi, or joining a tour from Krabi town, with the park located about 60 kilometers away.",
-    "nearby_attractions": "Nearby attractions include Hot Springs Waterfall, Wat Tham Sua (Tiger Cave Temple), and Klong Thom Museum.",
-    "food_options": "There are local food stalls near the entrance offering Thai snacks and refreshments.",
-    "shopping": "While there are no shops directly at the pool, souvenir shops can be found in Khlong Thom village nearby."
+    "how_to_get_there": "Reach it by road as part of a Khlong Thom inland day; it works best with the hot-spring side rather than with a separate coast transfer.",
+    "nearby_attractions": "Khlong Thom Hot Spring Waterfall and the wider inland nature route.",
+    "food_options": "Keep meals practical and secondary; this is a nature day first.",
+    "shopping": "Minimal and not the point of the visit."
   },
   "insider_tips": [
-    "Arrive early to enjoy a quieter experience and better lighting for photography.",
-    "Bring along a waterproof bag to keep your belongings safe while swimming.",
-    "Look for the less-traveled paths that lead to hidden viewpoints most tourists miss.",
-    "Respect local customs by dressing modestly when not swimming and disposing of waste properly."
+    "Pair it with the hot-spring side and keep the full day inland.",
+    "Go earlier so the route feels calmer and the forest side stays more comfortable.",
+    "Do not try to combine this with a same-day island tour unless you enjoy wasting time in transit."
   ],
-  "seasonal_considerations": "The experience can vary with the seasons; the rainy season (May to October) may lead to higher water levels but could also bring muddy trails.",
-  "accessibility": "While the main paths are well-maintained, some areas may be challenging for visitors with mobility issues; inquire about accessibility options at the entrance.",
-  "cultural_significance": "The Emerald Pool is important in Thai culture as it reflects the deep connection between nature and health, often seen in traditional Thai practices of using natural resources for wellness.",
-  "fun_facts": [
-    "The Emerald Pool is part of the larger Thung Teao Forest Natural Park, which spans over 1,600 hectares.",
-    "The pool's unique color is due to a specific combination of minerals found in the water.",
-    "The area is home to diverse wildlife, including rare species like the Malayan flying fox.",
-    "It is believed that the hot springs have been used for centuries for their healing properties."
-  ],
-  "enhanced_at": "2025-05-25T22:39:33.474Z"
+  "verified_note": "Source-backed summary based on 7greens and Tourism Authority of Thailand attraction references. Exact hours, access conditions, and admission fees should still be rechecked before departure.",
+  "cultural_significance": "Emerald Pool helps explain why Krabi should not be reduced to beaches and boat tours alone; it anchors the province's inland nature identity.",
+  "contentSources": [
+    {
+      "name": "Emerald Pool",
+      "url": "https://7greens.tourismthailand.org/2018/11/13/emerald-pool/"
+    },
+    {
+      "name": "10 THINGS TO DO IN KRABI",
+      "url": "https://www.tourismthailand.org/Articles/10-things-to-do-in-krabi"
+    }
+  ]
 }
