@@ -15,23 +15,24 @@
   "region": "Isaan",
   "province": "Mukdahan",
   "description": {
-    "en": "A relaxed Mekong riverside town facing Savannakhet, Laos, known for its colorful Naga Temple, enormous white Big Buddha with panoramic views, and beautiful Loy Krathong celebrations on the river.",
-    "nl": "Een ontspannen stadje aan de Mekong tegenover Savannakhet, Laos, bekend om de kleurrijke Naga Tempel, enorme witte Grote Boeddha met panoramisch uitzicht en prachtige Loy Krathong-vieringen op de rivier.",
+    "en": "Mukdahan works best when you treat it as a Mekong border city first and a province day-trip base second. The strongest first pass combines the riverfront, Ho Kaeo Mukdahan, one hilltop stop at Phu Manorom, and a hotel-and-food plan that fits a slower evening by the Mekong rather than a rushed checklist.",
+    "nl": "Mukdahan werkt het best als je het eerst ziet als Mekong-grensstad en pas daarna als basis voor provincie-uitstappen. De sterkste eerste versie combineert de rivierfrontzone, Ho Kaeo Mukdahan, een heuvelstop bij Phu Manorom en een hotel- en foodplan dat past bij een tragere avond langs de Mekong.",
     "ja": "ラオスのサワンナケートと向かい合うメコン川沿いの穏やかな街ムクダーハーンは、カラフルなナーガ寺院や大仏、インドシナ市場で知られています。",
     "ko": "라오스 사반나켓과 마주하는 메콩강변의 여유로운 도시로, 화려한 나가 사원, 파노라마 전망의 거대한 백색 대불, 강 위의 아름다운 로이끄라통 축제로 유명합니다.",
     "th": "เมืองริมโขง ประตูสู่ลาว มีอาหารอีสาน-เวียดนาม วัฒนธรรมหลากหลาย และหมูจกพิเศษ",
-    "de": "Eine entspannte Stadt am Mekong-Ufer gegenüber Savannakhet, Laos, bekannt für ihren bunten Naga-Tempel, den riesigen weißen Big Buddha mit Panoramablick und die schönen Loy Krathong-Feierlichkeiten am Fluss.",
-    "fr": "Une ville détendue au bord du Mékong, face à Savannakhet, au Laos, connue pour son coloré Naga Temple, son gigantesque Bouddha blanc offrant des vues panoramiques, et les magnifiques célébrations Loy Krathong sur le fleuve.",
-    "ru": "Расслабленный город на берегу Меконга напротив Саваннакета, Лаос, известный своим красочным храмом Наги, огромным белым Буддой с панорамным видом и красивыми празднования Loy Krathong на реке.",
+    "de": "Eine entspannte Stadt am Mekong-Ufer gegenüber Savannakhet, Laos, die als Grenzstadt, Flusspromenade und Ausgangspunkt für Phu Manorom und weitere Ausflüge funktioniert.",
+    "fr": "Une ville détendue au bord du Mékong, face à Savannakhet au Laos, qui fonctionne comme ville-frontière, promenade fluviale et base pratique pour Phu Manorom et d'autres excursions.",
+    "ru": "Спокойный город на берегу Меконга напротив Саваннакета в Лаосе, который лучше всего работает как приграничный речной город и удобная база для Phu Manorom и других выездов.",
     "zh": "一座在湄公河畔放松的城市，面向老挝的 Savannakhet（沙湾拿吉），因其多彩的娜迦庙、白色巨佛、以及在河上庆祝的水灯节而闻名。"
   },
   "population": 35000,
   "highlights": [
-    "Naga Temple",
-    "Big Buddha Statue",
-    "Loy Krathong Festival",
-    "Mekong Riverside Bungalows",
-    "Riverside Craft Beer & Dining"
+    "Wat Roi Phra Phutthabat Phu Manorom",
+    "Ho Kaeo Mukdahan",
+    "Second Thai-Lao Friendship Bridge Viewpoint",
+    "Phu Pha Thoep National Park",
+    "Kaeng Kabao",
+    "Wat Si Mongkhon Tai"
   ],
   "location": {
     "lat": 16.5425,
@@ -40,48 +41,48 @@
   "image": "/images/cities/generated/mukdahan.webp",
   "seo": {
     "metaTitle": {
-      "en": "Discover Mukdahan | Mekong Riverside Town Guide",
-      "nl": "Ontdek Mukdahan | Mekong Rivierstadje Gids",
+      "en": "Mukdahan Thailand Guide 2026 | Mekong Border City, Hotels, Food",
+      "nl": "Mukdahan Thailand Gids 2026 | Mekong grensstad, hotels en food",
       "ja": "ムクダーハーンを満喫 | メコン川沿いの街ガイド",
-      "ko": "묵다한 태국 — 메콩강변 도시 여행 가이드 2026",
-      "th": "มุกดาหาร ประเทศไทย — คู่มือท่องเที่ยวฉบับสมบูรณ์ 2026",
+      "ko": "묵다한 태국 - 메콩 국경도시 여행 가이드 2026",
+      "th": "มุกดาหาร ประเทศไทย - คู่มือเมืองชายแดนริมโขง 2026",
       "de": "Entdecke Mukdahan | Reiseführer für Städte am Mekong-Ufer",
       "fr": "Découvrez Mukdahan | Guide de la ville au bord du Mékong",
       "ru": "Откройте для себя Mukdahan | Руководство по городу на берегу Меконга",
-      "zh": "探索 Mukdahan | 湄公河畔城镇指南"
+      "zh": "探索 Mukdahan | 湄公河边境城市指南"
     },
     "metaDescription": {
-      "en": "Your guide to Mukdahan — relaxed Mekong town with the spectacular Naga Temple, Big Buddha, Loy Krathong on the river, and charming riverside bungalows.",
-      "nl": "Jouw gids voor Mukdahan — ontspannen Mekong-stadje met de spectaculaire Naga Tempel, Grote Boeddha, Loy Krathong op de rivier en charmante bungalows aan het water.",
-      "ja": "ムクダーハーン旅行ガイド — 壮大なナーガ寺院、大仏、メコン川沿いの穏やかな街の魅力をご紹介。",
-      "ko": "묵다한(태국) 완벽 여행 가이드: 나가 사원, 대불, 메콩강변 산책, 인도차이나 시장. 가격, 팁, 가는 법.",
-      "th": "คู่มือท่องเที่ยวมุกดาหาร ประเทศไทย — สถานที่ท่องเที่ยว อาหาร ที่พัก และเคล็ดลับ อัปเดต 2026",
-      "de": "Ihr Guide zu Mukdahan — eine entspannte Mekong-Stadt mit dem spektakulären Naga-Tempel, dem Big Buddha, Loy Krathong am Fluss und charmanten Bungalows am Flussufer.",
-      "fr": "Votre guide de Mukdahan — une ville détendue le long du Mékong, avec le spectaculaire temple Naga, le Grand Bouddha, Loy Krathong sur le fleuve, et de charmants bungalows au bord du fleuve.",
-      "ru": "Ваш гид по Mukdahan — спокойному городу на берегу Меконга с впечатляющим храмом Наги, Великим Буддой, Loy Krathong на реке и очаровательными домиками на набережной.",
-      "zh": "您的 Mukdahan 指南——一个悠闲的湄公河城镇，拥有壮观的娜迦庙、白色大佛、河上的水灯节，以及迷人的河畔小木屋。"
+      "en": "Plan Mukdahan around the Mekong riverfront, Phu Manorom, Ho Kaeo tower, border-town food, and hotels that fit either a walkable center or a practical road-trip stop.",
+      "nl": "Plan Mukdahan rond de Mekong-rivierfront, Phu Manorom, Ho Kaeo, grensstad-food en hotels die passen bij een beloopbaar centrum of een praktische roadtripstop.",
+      "ja": "ムクダーハーン旅行ガイド - 壮大なナーガ寺院、大仏、メコン川沿いの穏やかな街の魅力をご紹介。",
+      "ko": "묵다한 완벽 여행 가이드: 푸 마노롬, 메콩 강변, 국경도시 음식, 숙소, 실전 팁.",
+      "th": "คู่มือเที่ยวมุกดาหารแบบวางแผนได้จริง ทั้งภูมโนรมย์ หอแก้ว ริมโขง ร้านอาหาร และที่พัก",
+      "de": "Ihr Guide zu Mukdahan - einer Mekong-Grenzstadt mit Phu Manorom, Ho Kaeo, der Flusspromenade und Hotels, die zur Reiseplanung passen.",
+      "fr": "Votre guide de Mukdahan - une ville-frontière du Mékong avec Phu Manorom, Ho Kaeo, la promenade fluviale et des hotels qui correspondent vraiment au voyage.",
+      "ru": "Ваш гид по Mukdahan - приграничному городу на Меконге с Phu Manorom, Ho Kaeo, набережной и отелями, которые действительно подходят под маршрут.",
+      "zh": "用湄公河河岸、Phu Manorom、Ho Kaeo 塔、边境城市美食与合适住宿来规划 Mukdahan。"
     }
   },
   "categories": {
     "food": {
-      "en": "Best restaurants and riverside dining in Mukdahan",
-      "nl": "Beste restaurants en eetgelegenheden aan de rivier in Mukdahan",
+      "en": "Best restaurants and Mekong-border food in Mukdahan",
+      "nl": "Beste restaurants en Mekong-grensfood in Mukdahan",
       "ja": "ムクダーハーンのおすすめレストラン＆川沿いダイニング",
-      "ko": "묵다한 추천 레스토랑과 강변 식당",
-      "th": "ร้านอาหารและสตรีทฟู้ดที่ดีที่สุดในมุกดาหาร"
+      "ko": "묵다한 추천 레스토랑과 메콩 국경 음식",
+      "th": "ร้านอาหารและอาหารริมโขงที่ดีที่สุดในมุกดาหาร"
     },
     "hotels": {
-      "en": "Top hotels and riverside bungalows in Mukdahan",
-      "nl": "Beste hotels en bungalows aan de rivier in Mukdahan",
-      "ja": "ムクダーハーンのおすすめホテル＆リバーサイドバンガロー",
-      "ko": "묵다한 추천 호텔과 강변 방갈로",
+      "en": "Top hotels in Mukdahan | Tips and deals",
+      "nl": "Beste hotels in Mukdahan | Tips en deals",
+      "ja": "ムクダーハーンのおすすめホテル＆リバーサイド滞在",
+      "ko": "묵다한 추천 호텔 | 실전 팁",
       "th": "โรงแรมแนะนำในมุกดาหาร | เคล็ดลับและดีล"
     },
     "attractions": {
       "en": "Top attractions in Mukdahan",
       "nl": "Top bezienswaardigheden in Mukdahan",
       "ja": "ムクダーハーンの人気観光スポット",
-      "ko": "묵다한 인기 관광 명소",
+      "ko": "묵다한 핵심 명소",
       "th": "สถานที่ท่องเที่ยวยอดนิยมในมุกดาหาร"
     }
   },
@@ -89,629 +90,577 @@
     "isaan",
     "mukdahan",
     "mekong",
-    "naga-temple",
-    "big-buddha",
-    "loy-krathong",
-    "thailand",
-    "travel",
-    "tourism",
-    "guide"
+    "border-town",
+    "savannakhet",
+    "thailand"
   ],
-  "overview": "Mukdahan is a quietly charming Mekong riverside town in Isaan, sitting directly across the river from Savannakhet in Laos. This isn't a town that screams for your attention — instead, it rewards those who appreciate a slower pace. The star attraction is the Naga Temple, where a giant colorful Naga statue rises from lava-like rock, draped with red prayer ribbons and believed to be a guardian of the rivers, bringing luck and prosperity to those who whisper their wishes with a pure heart. Nearby, an enormous white Big Buddha statue offers panoramic views over Mukdahan city, the Mekong River, and Savannakhet across the water. The route into town from Nakhon Phanom passes through That Phanom, where golden Lao-style pointed stupas — unique to this Mekong region — dot the landscape. Not every stop on a journey needs to be action-packed, and Mukdahan proves that sometimes the most memorable moments come from simply sitting by the river with a cold beer, watching the sun set over Laos.",
-  "enhanced_description": "Mukdahan welcomes you with the gentle flow of the Mekong and a pace of life that invites you to exhale. This is a town where the river dictates the rhythm — mornings are for exploring the hilltop Naga Temple with its spectacular dragon guardian rising from volcanic-looking rock, afternoons for retreating to your riverside bungalow among shady trees and beanbags, and evenings for cold beers and Isaan food at the waterfront. The Big Buddha at the top of the hill is enormous and fully finished in gleaming white — you can touch the giant fingers as a deep gesture of respect while taking in views that stretch across the city, the wide Mekong, and all the way to Savannakhet in Laos. If you visit in November during Loy Krathong, you'll witness one of the most beautiful celebrations on the Mekong: families gathering under the full moon to float krathongs made of banana leaf or fish food on the river, while children fish them out hoping to find money inside. The town has a quiet, genuine quality that larger destinations have lost. With an airport just across the river in Laos (which limits drone flying but adds international character), craft beer tents with live music on the riverbank, and bungalow guesthouses for as little as 800 THB a night, Mukdahan is the kind of place that makes you wonder why you've been in such a hurry.",
-  "thingsToDo": "Begin at the Naga Temple and Big Buddha complex on the hill overlooking Mukdahan. Entry is free, with a free shuttle bus running from the base to the top (100 THB donation suggested). The giant colorful Naga statue sits on dramatic lava-like rock, adorned with red prayer ribbons — the Naga is believed to be the guardian of the rivers, bringing luck and prosperity. Whisper your wishes with a pure heart, and the Naga is said to carry them down the Mekong. Continue to the enormous white fully-completed Big Buddha statue where you can touch the giant fingers as a deep gesture of respect, while enjoying panoramic views of Mukdahan city, the Mekong River, and Savannakhet in Laos. If visiting in November, time your trip for Loy Krathong under the full moon. Families gather along the Mekong to float krathongs (banana leaf or fish food boats, 20 THB each) on the water—a beautiful, family-oriented celebration. Kids wade in to fish out the krathongs, hoping for money tucked inside. In the evening, stroll the riverside promenade and find the craft beer tent with live music for a perfect end to the day. Beer typically costs 60-100 THB per glass. En route from Nakhon Phanom (about 40km away), stop at That Phanom to admire the golden Lao-style pointed stupas unique to this Mekong region.",
-  "whereToStay": "Mukdahan's charm lies in its riverside bungalow accommodation. Cute bungalows sit directly on the Mekong with gardens, beanbags under shady trees, and a path into town — starting at just 800 THB per night ($22). Executive huts go for around 1,200 THB ($33). These properties close their gates at 9 PM, so plan your evenings accordingly. For those wanting more conventional hotels, the town center has guesthouses and small hotels at budget-friendly Isaan prices. Given Mukdahan's relaxed atmosphere, staying right on the river is the best way to experience the town — falling asleep to the sound of the Mekong is worth choosing a bungalow over a city hotel.",
-  "whereToEat": [
+  "enhanced_description": "Mukdahan gets weaker when it is sold as a vague riverside stop with generic Laos views and no planning logic. The stronger version starts with the border-city core: Ho Kaeo tower for orientation, the Mekong riverfront, the Friendship Bridge viewpoint, and the Indochina-market side of town that still explains why Mukdahan matters as a trading city rather than only as a place to sleep.\n\nAfter that, the city opens outward in clearer layers. Phu Manorom is the strongest immediate add-on because it gives you the hilltop Buddha-and-Naga perspective over the Mekong basin without turning the whole day into a transfer. Phu Pha Thoep and Kaeng Kabao are better treated as deliberate outer-province excursions. Mukdahan rewards selectivity much more than trying to turn every border landmark into a must-do.",
+  "overview": "Official Mukdahan tourism material still frames the province as the gateway to Indochina, with Ho Kaeo tower, the Second Thai-Lao Friendship Bridge, and the Mekong-facing city core doing most of the identity work. That framing is useful because it keeps the visit grounded in what is still strongest on the ground: the riverfront, the cross-border line toward Savannakhet, and a compact center that is more about evening rhythm and practical geography than about nonstop sightseeing.\n\nFor most first visits, one or two nights is enough. One night works if you want the riverfront plus Phu Manorom. Two nights is the cleaner first version because it separates the city itself from one longer day to Phu Pha Thoep, Kaeng Kabao, or another Mekong-side detour. More time only helps if you actually want the slower border-town pace rather than simply collecting stops.",
+  "hidden_gems": [
     {
-      "name": "Thai Kitchen & Ice Cream Jai Jai Mukdahan",
-      "cuisine": "Thai, Pizza",
-      "priceRange": "$$",
-      "description": "Highly-rated restaurant serving Thai cuisine and pizza with ice cream desserts. Casual dining with 5.0 TripAdvisor rating. Meals typically 150-300 THB."
+      "name": "Wat Si Mongkhon Tai",
+      "story": "This old Mekong-side temple is a better in-town add-on than another random riverfront photo stop because it still carries local sacred status in the official Mukdahan tourism material.",
+      "how_to_find": "Fit it into the riverfront circuit rather than making a separate trip across town.",
+      "best_time": "Late morning or late afternoon.",
+      "local_insights": [
+        "It adds historical depth to the city core without much extra travel time.",
+        "Best used after Ho Kaeo or before an evening riverfront walk."
+      ]
     },
     {
-      "name": "Nut Pob Restaurant",
-      "cuisine": "Thai, Asian",
-      "priceRange": "$$",
-      "description": "Popular local Thai restaurant with authentic Asian Thai cuisine. Well-reviewed by travelers. Rated 4.3 on TripAdvisor. Meals 120-250 THB."
+      "name": "The evening strip near the Friendship Bridge viewpoint",
+      "story": "The viewpoint itself matters, but the small evening walking-street layer around it is what makes the bridge zone feel like a living border city instead of only an infrastructure stop.",
+      "how_to_find": "Go near sunset and stay into early evening instead of arriving in midday heat.",
+      "best_time": "Evening.",
+      "local_insights": [
+        "This is one of the cleanest places to read Mukdahan's border-town atmosphere after dark.",
+        "It works better as a slow stroll than as a checklist attraction."
+      ]
     },
     {
-      "name": "Narin Restaurant",
-      "cuisine": "Thai",
-      "priceRange": "$$",
-      "description": "Traditional Thai cuisine including Isaan specialties in casual riverside setting. Rated 4.2 on TripAdvisor. Meals 130-280 THB."
-    },
-    {
-      "name": "Rattiya Restaurant",
-      "cuisine": "Thai",
-      "priceRange": "$$",
-      "description": "Classic Isaan dishes including laab, sticky rice, and pork specialties. Rated 4.0 on TripAdvisor. Meals 120-260 THB."
-    },
-    {
-      "name": "Sawan Sumran",
-      "cuisine": "Thai, Asian",
-      "priceRange": "$$",
-      "description": "Authentic Asian Thai cuisine in local setting. Local recommendations. Rated 3.9 on TripAdvisor. Meals 110-240 THB."
-    },
-    {
-      "name": "Riverside Restaurants",
-      "cuisine": "Isaan/Thai",
-      "priceRange": "$",
-      "description": "Casual riverside dining spots serving classic Isaan dishes like laab, kale with pork belly, and sticky rice. Enjoyed with cold beer and Mekong views. Meals 100-180 THB."
-    },
-    {
-      "name": "Local Street Food Stalls",
-      "cuisine": "Isaan Street Food",
-      "priceRange": "$",
-      "description": "Simple street food vendors around town and riverside serving authentic Isaan dishes at very low prices. Look for busy stalls popular with locals. Meals 30-80 THB."
-    },
-    {
-      "name": "Craft Beer Tent",
-      "cuisine": "Craft Beer & Bar Snacks",
-      "priceRange": "$$",
-      "description": "Lively riverside craft beer tent with live evening music and cold beers. Festive atmosphere right on Mekong riverbank. Perfect for sunset drinks. Beer 60-100 THB per glass."
+      "name": "Our Lady of the Martyrs of Thailand Shrine at Ban Song Khon",
+      "story": "If you want one more outer-province cultural stop beyond the Naga-and-temple circuit, this large riverside Catholic shrine adds a very different layer to Mukdahan province.",
+      "how_to_find": "Treat it as a real detour on a Wan Yai or Kaeng Kabao side day, not as a quick extra.",
+      "best_time": "Daytime.",
+      "local_insights": [
+        "It broadens the province beyond the standard Mekong-Buddhist shorthand.",
+        "Worth it only if you are already making an outer-province drive."
+      ]
     }
   ],
-  "topHotels": [
+  "authentic_experiences": [
     {
-      "name": "Hotel Muq",
-      "category": "midrange",
-      "priceRange": "$25-35/night (900-1,260 THB)",
-      "area": "Town Center",
-      "description": "Highly-rated midrange hotel with modern amenities, excellent service, and comfortable rooms. Top TripAdvisor rating (4.8) among Mukdahan accommodations."
+      "activity": "Build the first evening around the riverfront core",
+      "story": "Mukdahan only becomes coherent once Ho Kaeo, the Mekong walk, and the market-and-riverfront side are treated as the anchor instead of as filler before a Laos crossing.",
+      "cultural_significance": "Official Mukdahan tourism framing still uses Ho Kaeo and the riverfront as the province's clearest civic and Mekong-border identity markers.",
+      "how_to_participate": "Start with Ho Kaeo, walk the riverfront, and leave room for one real meal rather than trying to drive immediately into the province.",
+      "insights": [
+        "This is the best first-night structure.",
+        "Mukdahan improves when the city itself gets real time."
+      ],
+      "href": "/city/mukdahan/attractions/ho-kaeo-mukdahan/",
+      "cta_label": "See the Ho Kaeo guide"
     },
     {
-      "name": "Kieng Piman Hotel",
-      "category": "midrange",
-      "priceRange": "$22-32/night (800-1,150 THB)",
-      "area": "Town Center",
-      "description": "Well-reviewed midrange hotel offering comfortable accommodation with reliable service and convenient town location. Rated 4.5 on TripAdvisor."
+      "activity": "Use Phu Manorom for the hilltop Mekong overview",
+      "story": "Phu Manorom is the clearest way to understand the city from above, with the big white Buddha, the long turquoise Naga, and the Mekong line toward Savannakhet all visible in one stop.",
+      "cultural_significance": "TAT's 2025 spiritual-places coverage still positions Phu Manorom as one of Mukdahan's main hilltop devotional and viewpoint sites.",
+      "how_to_participate": "Do it as a focused half-day city add-on rather than as one stop inside an oversized province loop.",
+      "insights": [
+        "This is the strongest immediate add-on after the riverfront.",
+        "It works especially well before deciding whether you need a longer day trip."
+      ],
+      "href": "/city/mukdahan/attractions/wat-roi-phra-phutthabat-phu-manorom/",
+      "cta_label": "See the Phu Manorom guide"
     },
     {
-      "name": "Riverfront Hotel Mukdahan",
-      "category": "midrange",
-      "priceRange": "$20-30/night (720-1,080 THB)",
-      "area": "Mekong Riverfront",
-      "description": "Riverside hotel with Mekong views toward Savannakhet, Laos. Comfortable midrange accommodation with sunset viewing opportunities. Rated 4.1 on TripAdvisor."
+      "activity": "Read the border geography at the Friendship Bridge viewpoint",
+      "story": "The bridge zone explains why Mukdahan matters beyond local tourism: it is part of the East-West Economic Corridor and still feels like a city built around movement, trade, and the Mekong edge.",
+      "cultural_significance": "Official Mukdahan tourism material explicitly ties the bridge to the wider East-West Economic Corridor, not only to a scenic river view.",
+      "how_to_participate": "Go late in the day, walk the landscaped viewpoint, and treat the evening street-food strip as part of the same experience.",
+      "insights": [
+        "This is one of the best places to understand the city as a border city, not just a Mekong town.",
+        "The atmosphere is stronger near sunset than at midday."
+      ],
+      "href": "/city/mukdahan/attractions/second-thai-lao-friendship-bridge-viewpoint/",
+      "cta_label": "See the bridge viewpoint guide"
     },
     {
-      "name": "Hotel de Ladda",
-      "category": "midrange",
-      "priceRange": "$20-30/night (720-1,080 THB)",
-      "area": "Town Center",
-      "description": "Midrange hotel with comfortable rooms and reliable service, positioned near town center amenities. Rated 4.2 on TripAdvisor."
-    },
-    {
-      "name": "Ploy Palace Hotel",
-      "category": "budget",
-      "priceRange": "$15-25/night (540-900 THB)",
-      "area": "Town Center",
-      "description": "Budget-friendly hotel with basic but clean rooms and convenient access to restaurants and attractions. Rated 3.9 on TripAdvisor."
-    },
-    {
-      "name": "Mekong Riverside Bungalows",
-      "category": "budget",
-      "priceRange": "$20-35/night (800-1,200 THB)",
-      "area": "Mekong Riverfront",
-      "description": "Charming bungalows directly on the Mekong with garden, beanbags under shade trees, and paths to town. Executive huts available at 1,200 THB. Gates close at 9 PM."
-    },
-    {
-      "name": "Riverside Guesthouses",
-      "category": "budget",
-      "priceRange": "$10-18/night (500-700 THB)",
-      "area": "Near the Mekong",
-      "description": "Simple but clean guesthouses within walking distance of the Mekong. Basic rooms with fans or air conditioning at very budget-friendly prices. Ideal for backpackers and travelers passing through."
+      "activity": "Choose one serious outer-province day",
+      "story": "Mukdahan gets diluted when Phu Pha Thoep, Kaeng Kabao, and every extra temple are treated as mandatory. The better move is one committed geology or Mekong-side day and then stop.",
+      "cultural_significance": "The official Mukdahan brochure keeps both Phu Pha Thoep and the Kaeng Kabao side inside the province's serious sightseeing layer, but they work best as alternatives, not automatic add-ons.",
+      "how_to_participate": "Pick Phu Pha Thoep if you want sandstone formations and trails, or Kaeng Kabao if you want a slower Mekong-side excursion.",
+      "insights": [
+        "Road time is the real cost, not only the entrance or transport price.",
+        "This province rewards choosing one strong outside-city day."
+      ],
+      "href": "/city/mukdahan/attractions/phu-pha-thoep-national-park/",
+      "cta_label": "See the Phu Pha Thoep guide"
     }
   ],
-  "gettingAround": "Mukdahan is a compact town that is easily walkable. The riverside promenade, restaurants, and main town area are all within comfortable walking distance (15-20 minute walks maximum). For reaching the Naga Temple and Big Buddha on the hill, a free shuttle bus runs from the base to the top (100 THB donation suggested). If arriving by motorcycle as part of a Mekong road trip, the route from Nakhon Phanom (100km north via That Phanom with golden Lao-style stupas) is scenic and straightforward with well-maintained roads. The nearest airports are in Nakhon Phanom (about 100km north, 1.5-2 hour drive at 800-1,200 THB by car/minivan) or across the river in Savannakhet, Laos. Local songthaews (shared minibuses) cost 20-40 THB for short town trips and are available for surrounding areas. Motorbike taxis are available for short distances at 20-50 THB per ride. Renting a motorcycle for the Mekong road trip costs approximately 150-250 THB per day.",
-  "bestTimeToVisit": "The best time to visit Mukdahan is during the cool season from November to February, when temperatures are comfortable (18-28°C) and the Mekong is calm. November is particularly special if your visit coincides with Loy Krathong, the full moon festival when families float krathongs on the Mekong — a magical experience. The rainy season (June-October) brings higher river levels and occasional flooding near the banks, while the hot season (March-May) can be oppressively humid. Weekdays are quieter and more relaxed, though Mukdahan never feels particularly crowded even on weekends.",
-  "budgetGuide": {
-    "budget": {
-      "min": 15,
-      "max": 25,
-      "description": {
-        "en": "Budget travelers can enjoy Mukdahan on $15-25/day (540-900 THB). Stay in a simple riverside guesthouse ($10-18/night, 500-700 THB), eat at local street food stalls ($1-3 per meal, 30-80 THB), and walk everywhere. The Naga Temple and Big Buddha are free to visit with free shuttle bus (100 THB donation suggested). A Loy Krathong krathong costs 20 THB. Songthaew transport 20-40 THB.",
-        "nl": "Budgetreizigers kunnen van Mukdahan genieten voor $15-25/dag (540-900 THB). Verblijf in een eenvoudig pension aan de rivier ($10-18/nacht, 500-700 THB), eet bij lokale kraampjes ($1-3 per maaltijd, 30-80 THB) en loop overal naartoe. De Naga Tempel en Grote Boeddha zijn gratis te bezoeken met gratis shuttlebus (100 THB donatie aanbevolen). Een Loy Krathong-krathong kost 20 THB. Songthaew-vervoer 20-40 THB.",
-        "ja": "節約旅行者は1日1,500〜2,500円（540〜900バーツ）でムクダーハーンを楽しめます。シンプルなゲストハウスに泊まり、屋台や市場で食事をすれば十分です。"
-      }
-    },
-    "midrange": {
-      "min": 25,
-      "max": 50,
-      "description": {
-        "en": "Mid-range travelers spend $25-50/day (900-1,800 THB) for a comfortable stay. Book a midrange hotel or riverside bungalow ($20-35/night, 720-1,260 THB), enjoy riverside restaurant meals ($4-8 per meal, 150-280 THB) with cold beer (60-100 THB), and visit all main sights including That Phanom day trip. Motorcycle rental 150-250 THB/day. Very good value for a charming riverside experience.",
-        "nl": "Middensegment reizigers besteden $25-50/dag (900-1,800 THB) voor een comfortabel verblijf. Boek een midrangehotel of Mekong-bungalow ($20-35/nacht, 720-1,260 THB), geniet van maaltijden aan de rivier ($4-8 per maaltijd, 150-280 THB) met koud bier (60-100 THB), en bezoek alle belangrijke bezienswaardigheden inclusief dagtocht naar That Phanom. Motorfietsverhuizing 150-250 THB/dag. Zeer goede waarde voor een charmante rivierervaring.",
-        "ja": "中級旅行者は1日2,500〜5,000円（900〜1,800バーツ）で快適に過ごせます。エアコン付きのホテルに泊まり、レストランでの食事やソンテウでの移動が楽しめます。"
-      }
-    },
-    "luxury": {
-      "min": 50,
-      "max": 100,
-      "description": {
-        "en": "Luxury in Mukdahan is relative—this is a small Isaan town, not Bangkok. The best riverside accommodation costs $25-35/night (900-1,260 THB at Hotel Muq or similar), and generous meals with drinks cost $8-15 per meal (300-500 THB). Budget $50-100/day for mid-range hotel rooms, all meals at quality riverside restaurants, craft beer (60-100 THB per glass), motorbike rental (150-250 THB/day), and day trips to That Phanom or Savannakhet across the border.",
-        "nl": "Luxe in Mukdahan is relatief—dit is een klein Isaan-stadje, geen Bangkok. De beste accommodatie aan de rivier kost $25-35/nacht (900-1,260 THB bij Hotel Muq of vergelijkbaar), en uitgebreide maaltijden met drankjes kosten $8-15 per maaltijd (300-500 THB). Reken op $50-100/dag voor midrange hotelkamers, alle maaltijden in kwaliteitsrestaurants aan de rivier, craft bier (60-100 THB per glas), motorfietsverhuizing (150-250 THB/dag) en dagtochten naar That Phanom of Savannakhet over de grens.",
-        "ja": "ムクダーハーンの贅沢はバンコクとは違い、小さなイサーンの街ならではです。リバービューの最高級ホテルでも1泊2,000〜3,000バーツ程度とお手頃です。"
-      }
-    }
-  },
-  "safetyTips": "Mukdahan is an extremely safe and friendly town. Crime against tourists is virtually nonexistent — this is a genuine, quiet Isaan community. The main safety consideration is the Mekong River: currents can be deceptively strong, and swimming is not advised. During rainy season (June-October), water levels rise significantly. Be aware that the airport across the river in Laos means drone flying is restricted in the area. If riding a motorcycle, the roads along the Mekong are generally in good condition, but watch for wet surfaces after rain. Note that riverside bungalows may close their gates at 9 PM, so plan your evening return accordingly.",
-  "faq": [
+  "foodie_adventures": [
     {
-      "question": {
-        "en": "How do I get to Mukdahan?",
-        "nl": "Hoe kom ik in Mukdahan?",
-        "ja": "ムクダーハーンへの行き方は？"
-      },
-      "answer": {
-        "en": "Mukdahan is most commonly reached by bus from Bangkok (approximately 10-12 hours, 300-500 THB) or by driving/riding from other Isaan cities. The nearest airport is Nakhon Phanom (about 100km north), with connecting flights from Bangkok. Airport transfer costs 800-1,200 THB by car/minivan (1.5-2 hours). Many travelers visit Mukdahan as part of a Mekong River road trip from Nong Khai or Nakhon Phanom. The scenic motorcycle route from Nakhon Phanom passes through That Phanom with its beautiful golden stupas.",
-        "nl": "Mukdahan is het makkelijkst bereikbaar per bus vanuit Bangkok (ongeveer 10-12 uur, 300-500 THB) of door te rijden vanuit andere Isaan-steden. De dichtstbijzijnde luchthaven is Nakhon Phanom (ongeveer 100 km naar het noorden) met aansluitvluchten vanuit Bangkok. Luchthavenoverdracht kost 800-1.200 THB per auto/minibus (1,5-2 uur). Veel reizigers bezoeken Mukdahan als onderdeel van een Mekong-roadtrip vanuit Nong Khai of Nakhon Phanom. De schilderachtige motorfietsroute vanuit Nakhon Phanom gaat langs That Phanom met prachtige gouden stupa's.",
-        "ja": "ムクダーハーンへはバンコクからバスで約10〜12時間、またはウボンラーチャターニーやコンケーンからバスで3〜4時間です。最寄りの空港はウボンラーチャターニーかナコンパノムにあります。"
-      }
+      "dish": "Vietnamese-style nem nuang in the border-city food layer",
+      "location": "VT Naem Nueng Mukdahan",
+      "story": "Mukdahan food planning works better once you accept that the border-city logic matters. Vietnamese restaurant names still sit naturally inside the city, and VT Naem Nueng remains one of the clearest source-backed examples.",
+      "where_to_find": "Use it as a proper sit-down lunch or early dinner rather than as a last-minute stop between attractions.",
+      "price_range": "Budget to mid-range",
+      "ordering_tips": [
+        "Use this when you want Mukdahan's cross-border identity to show up directly on the table.",
+        "It pairs well with a city-core day built around Ho Kaeo and the riverfront."
+      ],
+      "href": "/city/mukdahan/top-10-restaurants/",
+      "cta_label": "See the food guide"
     },
     {
-      "question": {
-        "en": "What is the Naga Temple in Mukdahan?",
-        "nl": "Wat is de Naga Tempel in Mukdahan?",
-        "ja": "ムクダーハーンのナーガ寺院とは？"
-      },
-      "answer": {
-        "en": "The Naga Temple features a giant colorful Naga statue rising from dramatic lava-like rock, adorned with red prayer ribbons. The Naga is believed to be the guardian of the rivers, bringing luck and prosperity. Visitors whisper their wishes with a pure heart, and the Naga is said to carry them down the Mekong. Entry is free, with a free shuttle bus to the hilltop. A donation of 100 THB is suggested for the shuttle service. The temple sits on the same hill as the Big Buddha statue.",
-        "nl": "De Naga Tempel heeft een reusachtig kleurrijk Naga-beeld dat oprijst uit dramatisch lavagesteente, versierd met rode gebedslintjes. De Naga wordt beschouwd als de beschermer van de rivieren, die geluk en voorspoed brengt. Bezoekers fluisteren hun wensen met een puur hart, en de Naga zou ze langs de Mekong meedragen. Toegang is gratis, met een gratis shuttlebus naar de heuveltop. Een donatie van 100 THB wordt aanbevolen. De tempel staat op dezelfde heuvel als de Grote Boeddha.",
-        "ja": "ナーガ寺院には溶岩のような岩場からそびえ立つ巨大なカラフルなナーガ像があり、ムクダーハーンで最もフォトジェニックなスポットです。丘の上にあり、メコン川の絶景も楽しめます。"
-      }
+      "dish": "One Mekong-side meal with Lao-Vietnamese or Thai-Isaan crossover",
+      "location": "Baan Lao Yuan Na Rim Kong or Sawan Sumran",
+      "story": "The official Mukdahan restaurant directory still makes it clear that riverfront dining names matter here. A Mekong-side meal does more for the trip than another generic cafe stop.",
+      "where_to_find": "Keep this for the evening riverfront window rather than a rushed lunch between drives.",
+      "price_range": "Budget to mid-range",
+      "ordering_tips": [
+        "This is more about atmosphere and border-town context than about fine-dining polish.",
+        "Stay near the river after dinner instead of moving immediately."
+      ],
+      "href": "/city/mukdahan/top-10-restaurants/",
+      "cta_label": "See the food guide"
     },
     {
-      "question": {
-        "en": "Can I see the Big Buddha in Mukdahan?",
-        "nl": "Kan ik de Grote Boeddha in Mukdahan zien?",
-        "ja": "ムクダーハーンの大仏は見られますか？"
-      },
-      "answer": {
-        "en": "Yes! The enormous white Big Buddha statue sits at the top of the same hill as the Naga Temple. It is fully finished and gleaming white. You can touch the giant fingers as a deep gesture of respect. From the top, you get panoramic views of Mukdahan city, the Mekong River, and Savannakhet (Laos) across the water. Entry is free, and a free shuttle bus takes you up the hill (100 THB donation suggested).",
-        "nl": "Ja! Het enorme witte Grote Boeddha-beeld staat op dezelfde heuvel als de Naga Tempel. Het is volledig afgebouwd en stralend wit. Je kunt de reusachtige vingers aanraken als een diep gebaar van respect. Vanaf de top heb je panoramisch uitzicht over Mukdahan, de Mekong en Savannakhet (Laos) aan de overkant. Toegang is gratis en een gratis shuttlebus brengt je naar boven (100 THB donatie aanbevolen).",
-        "ja": "はい！巨大な白い大仏像はナーガ寺院と同じ丘の頂上にあります。メコン川とラオスを一望できる壮大な景色とともに、無料で見学できます。"
-      }
+      "dish": "Jaew hon or charcoal-grill comfort food after dark",
+      "location": "Rattiya Jaew Hon or Mae Muk charcoal-grill",
+      "story": "Mukdahan is not only a riverfront-view city. The stronger local dinner logic also includes practical hotpot and grill places that suit a quieter Isaan evening.",
+      "where_to_find": "Use this on the second night or after a longer day outside the center.",
+      "price_range": "Budget",
+      "ordering_tips": [
+        "Good when the trip needs a straightforward local dinner instead of another scenic stop.",
+        "Best saved for a relaxed evening, not a hurry-to-the-border schedule."
+      ],
+      "href": "/city/mukdahan/top-10-restaurants/",
+      "cta_label": "See the food guide"
     },
     {
-      "question": {
-        "en": "What is the best time to visit Mukdahan?",
-        "nl": "Wat is het beste moment om Mukdahan te bezoeken?",
-        "ja": "ムクダーハーンのベストシーズンは？"
-      },
-      "answer": {
-        "en": "The best time to visit is during the cool season from November to February, when temperatures are comfortable (18-28°C) and the Mekong is calm. November is particularly special if your visit coincides with Loy Krathong, the full moon festival when families float krathongs (20 THB each) on the Mekong. The rainy season (June-October) brings higher river levels and occasional flooding, while the hot season (March-May) can be oppressively humid. Weekdays are quieter, though Mukdahan never feels particularly crowded.",
-        "nl": "Het beste moment om te bezoeken is tijdens het koude seizoen van november tot februari, wanneer de temperaturen aangenaam zijn (18-28°C) en de Mekong kalm is. November is bijzonder als uw bezoek samenvalt met Loy Krathong, het volle maan festival wanneer families krathongs (20 THB elk) op de Mekong laten drijven. Het regenseizoen (juni-oktober) brengt hogere waterstanden en af en toe overstroming, terwijl het hete seizoen (maart-mei) drukkend vochtig kan zijn. Weekdagen zijn rustiger, hoewel Mukdahan zich nooit bijzonder druk voelt.",
-        "ja": "11月〜2月の涼しい季節がベストです。気温が過ごしやすく、メコン川沿いの散歩やアウトドア観光に最適です。3月〜5月は非常に暑くなります。"
-      }
-    },
-    {
-      "question": {
-        "en": "How long should I spend in Mukdahan?",
-        "nl": "Hoe lang zou ik in Mukdahan moeten doorbrengen?",
-        "ja": "ムクダーハーンの滞在日数は？"
-      },
-      "answer": {
-        "en": "Two to three days is ideal for Mukdahan. Day 1: Visit the Naga Temple and Big Buddha (free shuttle, 100 THB suggested donation). Day 2: Day trip to That Phanom (40km away, about 1 hour by motorcycle or songthaew 40 THB) to see the golden Lao-style stupas, and explore riverside restaurants and bars in evening. Day 3: Relax by the Mekong, visit restaurants like Nut Pob or Thai Kitchen & Ice Cream Jai Jai (meals 150-300 THB), and enjoy sunset at the craft beer tent. Many visitors integrate Mukdahan into a longer Mekong road trip.",
-        "nl": "Twee tot drie dagen is ideaal voor Mukdahan. Dag 1: Bezoek Naga Tempel en Grote Boeddha (gratis shuttlebus, 100 THB aanbevolen donatie). Dag 2: Dagtocht naar That Phanom (40 km weg, ongeveer 1 uur per motorfiets of songthaew 40 THB) om gouden Lao-stijl stupa's te zien, en restaurants en bars aan de rivier verkennen. Dag 3: Ontspan aan de Mekong, bezoek restaurants en geniet van zonsondergang. Veel bezoekers integreren Mukdahan in een langere Mekong-roadtrip.",
-        "ja": "2〜3日が理想的です。1日目：ナーガ寺院と大仏を見学。2日目：インドシナ市場とメコン川沿い散策。3日目：ムクダーハーン国立公園やラオスへの日帰り旅行。"
-      }
+      "dish": "One more Vietnamese stop if the city core still feels too Thai-generic",
+      "location": "Mae Yor Vietnamese Restaurant",
+      "story": "Mukdahan's official restaurant inventory still shows that Vietnamese names remain part of the city's food identity. That matters because it keeps the food section tied to place rather than to random rankings.",
+      "where_to_find": "Treat it as a useful secondary lunch or dinner option, not as a destination requiring a separate itinerary.",
+      "price_range": "Budget to mid-range",
+      "ordering_tips": [
+        "Best used to add range to a two-night stay.",
+        "A good fallback when you want the cross-border food angle to stay visible."
+      ],
+      "href": "/city/mukdahan/top-10-restaurants/",
+      "cta_label": "See the food guide"
     }
   ],
-  "practicalInfo": {
-    "bestMonths": [
-      "Nov",
-      "Dec",
-      "Jan",
-      "Feb"
-    ],
-    "nearestAirport": "Nakhon Phanom Airport (approximately 100km north), with connecting flights from Bangkok. Savannakhet Airport in Laos is across the river (requires border crossing).",
-    "travelTimeFromAirport": "Approximately 1.5-2 hours by car or minivan from Nakhon Phanom Airport to Mukdahan center (800-1,200 THB for airport transfer)",
-    "localTransport": [
-      "Walking (town is very compact and walkable, 15-20 minute maximum walks)",
-      "Free shuttle bus to Naga Temple and Big Buddha (100 THB donation suggested)",
-      "Motorbike rental for Mekong road trips (150-250 THB/day)",
-      "Songthaew/shared minibus for town and surrounding areas (20-40 THB per trip)",
-      "Motorbike taxi for short distances (20-50 THB per ride)",
-      "Motorcycle with guide available for day trips to That Phanom"
-    ]
-  },
-  "contentSources": [
-    {
-      "type": "video",
-      "title": "Mekong Adventure Episode 6: Nakhon Phanom to Mukdahan",
-      "creator": "Paddy Doyle - Live Love Thailand",
-      "url": "https://www.youtube.com/watch?v=pmAQ9q92G0M",
-      "description": "Riding from Nakhon Phanom to Mukdahan, exploring golden stupas, Naga temple, Big Buddha, and celebrating Loy Krathong on the Mekong."
-    }
+  "local_insights": [
+    "Mukdahan is stronger as a border city with a riverfront rhythm than as a giant sightseeing checklist.",
+    "The first real choice is city core versus outer-province day, not attraction count.",
+    "Phu Manorom is the cleanest high-value add-on if you only have one extra half-day.",
+    "The Friendship Bridge area explains the city's geography better than another generic Mekong promenade walk.",
+    "Food works best when you let the Lao-Vietnamese and Isaan overlap stay visible instead of defaulting to generic Thai picks."
   ],
-  "enrichedAt": "2026-02-22T18:00:00.000Z",
-  "best_time_to_visit": {
-    "season": "Cool Season",
-    "months": "November - February",
-    "weather": "Cool and dry, 15-28°C",
-    "reasons": "Comfortable for Mekong exploration and temple visits"
-  },
-  "seasonal_secrets": {
-    "best_times": {
-      "November-February (Best)": "The best time to visit Mukdahan is during the cool season from November to February, when temperatures are comfortable (18-28°C) and the Mekong is calm. November is particularly special if your visit coincides with Loy Krathong, the full moon festival when families float krathongs on the Mekong — a magical experience.",
-      "March-May (Hot Season)": "Very hot, 30-40°C. Cheaper accommodation and fewer crowds — worth it if you can handle the heat.",
-      "June-October (Green Season)": "Warm with regular rainfall. Lush landscapes and good deals — rain usually falls in short afternoon bursts."
-    },
-    "local_festivals": [
-      "Mukdahan Friendship Bridge celebrations (Thai-Lao cultural events)",
-      "Loy Krathong Festival",
-      "King's Birthday (Father's Day - Dec 5)",
-      "New Year celebrations",
-      "Makha Bucha Day",
-      "Chinese New Year (varies)",
-      "Songkran Water Festival (April 13-15) - celebrated nationwide"
-    ],
-    "seasonal_foods": {
-      "cool": "Mekong riverside dining is at its best — fresh river fish, grilled meats, and Isaan specialties with sunset views. Local favorites include Riverside Restaurants and Craft Beer Tent.",
-      "hot": "Cooling Vietnamese-Thai fusion dishes and cold drinks at riverside restaurants. Local favorites include Riverside Restaurants and Craft Beer Tent.",
-      "rainy": "Hearty Isaan soups and warming curries — the Mekong at high water is dramatic. Local favorites include Riverside Restaurants and Craft Beer Tent."
-    },
-    "insider_tips": {
-      "Mekong sunsets": "The best sunset viewing spots fill up fast — arrive 30 minutes before sunset to secure a riverside table.",
-      "Border crossings": "If crossing to Laos, check visa requirements in advance. Cool season mornings along the Mekong can be surprisingly cold — pack layers.",
-      "Peak season": "November-February is peak season — book accommodation 2-4 weeks ahead for the best prices.",
-      "Rainy season": "Rain usually falls in short afternoon bursts — mornings are often sunny and great for exploring Mukdahan.",
-      "Naga Temple": "Visit Naga Temple during the cool season for the most comfortable experience. Early morning visits beat the heat and the crowds."
-    }
-  },
+  "seasonal_secrets": "Cooler months are the easiest overall fit because riverfront evenings, hilltop views, and longer drives to Phu Pha Thoep or Kaeng Kabao all work better with clearer air. Rain can make the province greener and softer, but it also makes road-time decisions more important. In hotter months, Mukdahan still works, but the riverfront and hilltop windows matter more than midday sightseeing.",
+  "budget_reality": "Mukdahan itself is not difficult to keep affordable. The bigger spend usually comes from transport choices, not city-center prices: private cars for Phu Pha Thoep or Kaeng Kabao, pushing too many outer-province stops into one stay, or choosing convenience hotels without deciding whether you actually want walkability or just an easy road-stop room.",
   "top_attractions": [
     {
       "rank": 1,
-      "name": "Naga Temple (Wat Phra That Nong Bua)",
-      "description": "Giant colorful Naga statue rising from lava-like rock, adorned with red prayer ribbons. The Naga is believed to be the guardian of the rivers, bringing luck and prosperity to visitors.",
-      "location": "Hilltop overlooking Mukdahan city",
-      "entrance_fee": "Free (100 THB donation suggested for shuttle bus)",
+      "name": "Wat Roi Phra Phutthabat Phu Manorom",
+      "description": "The hilltop Buddha-and-Naga site that gives the clearest Mekong overview near Mukdahan city.",
+      "location": "Na Si Nuan side outside central Mukdahan",
+      "entrance_fee": "Temple access is generally straightforward; recheck current vehicle, shuttle, or donation arrangements on arrival",
       "highlights": [
-        "Giant Naga statue with prayer ribbons",
-        "Free shuttle bus to hilltop",
-        "River guardian beliefs"
-      ]
+        "Big white Buddha",
+        "Long turquoise Naga",
+        "Best near-city Mekong overview"
+      ],
+      "href": "/city/mukdahan/attractions/wat-roi-phra-phutthabat-phu-manorom/",
+      "cta_label": "See the Phu Manorom guide"
     },
     {
       "rank": 2,
-      "name": "Big Buddha Statue",
-      "description": "Enormous white fully-completed Buddha statue located on the same hill as the Naga Temple, offering panoramic views over Mukdahan, the Mekong River, and Savannakhet (Laos) across the water.",
-      "location": "Hilltop with Naga Temple",
-      "entrance_fee": "Free",
+      "name": "Ho Kaeo Mukdahan",
+      "description": "The city tower that explains Mukdahan's history, ethnic mix, and river-border geography in one stop.",
+      "location": "Si Bun Rueang, central Mukdahan",
+      "entrance_fee": "Official tourism material lists daytime ticketed entry; recheck the current fee locally",
       "highlights": [
-        "Panoramic river views",
-        "Touchable giant fingers for respect gesture",
-        "White marble statue"
-      ]
+        "Observation deck",
+        "Province-history exhibits",
+        "Strong first-stop orientation"
+      ],
+      "href": "/city/mukdahan/attractions/ho-kaeo-mukdahan/",
+      "cta_label": "See the Ho Kaeo guide"
     },
     {
       "rank": 3,
-      "name": "Mekong River Promenade",
-      "description": "Scenic riverside walking area along the Mekong with views of Savannakhet, Laos. Popular for sunset viewing and evening strolls with local atmosphere.",
-      "location": "Waterfront, town center",
-      "entrance_fee": "Free",
+      "name": "Second Thai-Lao Friendship Bridge Viewpoint",
+      "description": "The best place to read Mukdahan as a working border city rather than just a riverside stop.",
+      "location": "Ban Song Pueai, north of the city center",
+      "entrance_fee": "Public viewpoint access is generally straightforward",
       "highlights": [
-        "Sunset views over Laos",
-        "Local atmosphere",
-        "Evening promenade walks"
-      ]
+        "Bridge and Mekong panorama",
+        "East-West Economic Corridor context",
+        "Better near sunset"
+      ],
+      "href": "/city/mukdahan/attractions/second-thai-lao-friendship-bridge-viewpoint/",
+      "cta_label": "See the bridge viewpoint guide"
     },
     {
       "rank": 4,
-      "name": "That Phanom",
-      "description": "Golden Lao-style pointed stupas unique to the Mekong region, located on the scenic route between Nakhon Phanom and Mukdahan. A day trip destination featuring distinctive religious architecture.",
-      "location": "Route from Nakhon Phanom (approx 40km away)",
-      "entrance_fee": "Free to view",
+      "name": "Phu Pha Thoep National Park",
+      "description": "Mukdahan's strongest geology-and-landscape excursion, built around sandstone formations, viewpoints, and trail decisions.",
+      "location": "Outside Mukdahan city in the Phu Phan range",
+      "entrance_fee": "National-park fees and trail conditions can change; confirm the current DNP setup before going",
       "highlights": [
-        "Unique Lao-style stupas",
-        "Golden religious architecture",
-        "Scenic route stop"
-      ]
+        "Sandstone rock shapes",
+        "Best serious nature day",
+        "Needs real time"
+      ],
+      "href": "/city/mukdahan/attractions/phu-pha-thoep-national-park/",
+      "cta_label": "See the Phu Pha Thoep guide"
     },
     {
       "rank": 5,
-      "name": "Craft Beer Tent (Riverside)",
-      "description": "Lively riverside venue with craft beers, cold beverages, and live music in the evening. Popular spot for sunset drinks with views across the Mekong.",
-      "location": "Riverside area",
-      "entrance_fee": "Free entry",
+      "name": "Kaeng Kabao",
+      "description": "A slower Mekong-side excursion with park atmosphere and one of Mukdahan province's main Naga landmarks.",
+      "location": "Pong Kham, Wan Yai District",
+      "entrance_fee": "Park access is generally simple; recheck current river and local-activity conditions before going",
       "highlights": [
-        "Live evening music",
-        "Craft beer selection",
-        "Sunset atmosphere"
-      ]
+        "Mekong-side detour",
+        "Phaya Si Phuchong Mukda Nakkharat",
+        "Best as a half-day or longer drive"
+      ],
+      "href": "/city/mukdahan/attractions/kaeng-kabao/",
+      "cta_label": "See the Kaeng Kabao guide"
     },
     {
       "rank": 6,
-      "name": "Second Thai-Lao Friendship Bridge",
-      "description": "Cross-border bridge connecting Mukdahan to Savannakhet, Laos. Offers border crossing views and access to Lao side day trips.",
-      "location": "Town center, border area",
-      "entrance_fee": "Free to view/cross with passport",
+      "name": "Wat Si Mongkhon Tai",
+      "description": "A riverfront heritage temple that adds sacred and historical depth to the city core with almost no extra planning cost.",
+      "location": "Samran Chai Khong Road by the Mekong",
+      "entrance_fee": "Temple access is generally straightforward; dress respectfully and recheck any local museum or side-building rules on site",
       "highlights": [
-        "Border crossing bridge",
-        "Laos access",
-        "Mekong views"
-      ]
+        "Old riverfront temple",
+        "Locally sacred Buddha image",
+        "Easy in-town add-on"
+      ],
+      "href": "/city/mukdahan/attractions/wat-si-mongkhon-tai/",
+      "cta_label": "See the Wat Si Mongkhon Tai guide"
     }
   ],
   "top_restaurants": [
     {
       "rank": 1,
-      "name": "Thai Kitchen & Ice Cream Jai Jai Mukdahan",
-      "description": "Highly-rated restaurant serving Thai cuisine and pizza options with ice cream desserts. Perfect for casual dining with quality food.",
-      "cuisine_type": "Thai, Pizza",
-      "price_range": "150-300 THB per meal",
+      "name": "VT Naem Nueng Mukdahan",
+      "price_range": "Budget to mid-range",
+      "description": "One of the clearest source-backed ways to keep Mukdahan's Vietnamese-border food identity visible in the trip.",
+      "category": "Vietnamese",
+      "area": "Mukdahan city",
       "highlights": [
-        "5.0 TripAdvisor rating",
-        "Thai and pizza menu",
-        "Ice cream desserts"
-      ]
+        "Official HOP INN city-guide listing",
+        "Strong lunch or early-dinner anchor",
+        "Good cross-border food logic"
+      ],
+      "href": "/city/mukdahan/top-10-restaurants/",
+      "cta_label": "See the food guide"
     },
     {
       "rank": 2,
-      "name": "Nut Pob Restaurant",
-      "description": "Popular local Thai restaurant serving authentic Asian Thai cuisine. Well-reviewed by travelers and locals alike.",
-      "cuisine_type": "Thai, Asian",
-      "price_range": "120-250 THB per meal",
+      "name": "Baan Lao Yuan Na Rim Kong",
+      "price_range": "Budget to mid-range",
+      "description": "A useful Mekong-side restaurant name from the official Mukdahan directory when you want the riverfront meal to still feel tied to place.",
+      "category": "Lao-Vietnamese and Thai",
+      "area": "Mekong riverfront",
       "highlights": [
-        "4.3 TripAdvisor rating",
-        "Local favorite",
-        "Authentic Thai dishes"
-      ]
+        "Official province restaurant listing",
+        "Riverfront positioning",
+        "Good first-evening meal"
+      ],
+      "href": "/city/mukdahan/top-10-restaurants/",
+      "cta_label": "See the food guide"
     },
     {
       "rank": 3,
-      "name": "Narin Restaurant",
-      "description": "Thai restaurant offering traditional Isaan and Thai cuisine in a casual riverside setting.",
-      "cuisine_type": "Thai",
-      "price_range": "130-280 THB per meal",
+      "name": "Sawan Sumran",
+      "price_range": "Budget to mid-range",
+      "description": "A practical riverside dinner name from the official Mukdahan directory, best used when you want to stay on the Mekong side after dark.",
+      "category": "Thai and local specialties",
+      "area": "Samran Chai Khong South Road",
       "highlights": [
-        "4.2 TripAdvisor rating",
-        "Traditional Thai dishes",
-        "Local atmosphere"
-      ]
+        "Official province restaurant listing",
+        "Useful riverfront dinner slot",
+        "Fits an evening walk"
+      ],
+      "href": "/city/mukdahan/top-10-restaurants/",
+      "cta_label": "See the food guide"
     },
     {
       "rank": 4,
-      "name": "Rattiya Restaurant",
-      "description": "Thai cuisine restaurant providing classic Isaan dishes including laab, sticky rice, and pork specialties.",
-      "cuisine_type": "Thai",
-      "price_range": "120-260 THB per meal",
+      "name": "Narin Restaurant",
+      "price_range": "Budget to mid-range",
+      "description": "A dependable sit-down restaurant name from the official Mukdahan directory when you want a straightforward local dinner without overthinking it.",
+      "category": "Thai and Isaan",
+      "area": "Mukdahan city",
       "highlights": [
-        "4.0 TripAdvisor rating",
-        "Isaan specialties",
-        "Casual dining"
-      ]
+        "Official province restaurant listing",
+        "Good practical dinner fallback",
+        "Better than drifting into random generic picks"
+      ],
+      "href": "/city/mukdahan/top-10-restaurants/",
+      "cta_label": "See the food guide"
     },
     {
       "rank": 5,
-      "name": "Sawan Sumran",
-      "description": "Thai restaurant serving authentic Asian Thai cuisine in a local setting.",
-      "cuisine_type": "Thai, Asian",
-      "price_range": "110-240 THB per meal",
+      "name": "Rattiya Jaew Hon",
+      "price_range": "Budget",
+      "description": "One of the most useful local-style dinner picks in the official directory if you want a jaew-hon or hotpot-style meal after a day on the road.",
+      "category": "Jaew hon and hotpot",
+      "area": "Mukdahan city",
       "highlights": [
-        "3.9 TripAdvisor rating",
-        "Local recommendations",
-        "Thai menu"
-      ]
+        "Official province restaurant listing",
+        "Good evening comfort-food stop",
+        "Works well on the second night"
+      ],
+      "href": "/city/mukdahan/top-10-restaurants/",
+      "cta_label": "See the food guide"
     },
     {
       "rank": 6,
-      "name": "Street Food Stalls (Riverside & Town Center)",
-      "description": "Authentic local street food vendors throughout town serving Isaan specialties like laab, som tam, and grilled meats at very low prices.",
-      "cuisine_type": "Isaan Street Food",
-      "price_range": "30-80 THB per meal",
+      "name": "Mae Muk Charcoal Grill",
+      "price_range": "Budget",
+      "description": "A charcoal-grill beef stop from the official Mukdahan directory that helps the food page stay rooted in real local dinner logic.",
+      "category": "Charcoal grill",
+      "area": "Mukdahan city",
       "highlights": [
-        "Ultra-budget friendly",
-        "Authentic local food",
-        "Busy stall recommendations"
-      ]
+        "Official province restaurant listing",
+        "Grill-focused dinner option",
+        "Useful contrast to the Vietnamese picks"
+      ],
+      "href": "/city/mukdahan/top-10-restaurants/",
+      "cta_label": "See the food guide"
+    },
+    {
+      "rank": 7,
+      "name": "Mae Yor Vietnamese Restaurant",
+      "price_range": "Budget to mid-range",
+      "description": "Another direct reminder that Mukdahan's food identity is not only Isaan but also tied to Vietnamese-border influences.",
+      "category": "Vietnamese",
+      "area": "Mukdahan city",
+      "highlights": [
+        "Official province restaurant listing",
+        "Good secondary Vietnamese option",
+        "Useful for a two-night stay"
+      ],
+      "href": "/city/mukdahan/top-10-restaurants/",
+      "cta_label": "See the food guide"
     }
   ],
   "top_hotels": [
     {
       "rank": 1,
-      "name": "Hotel Muq",
-      "description": "Highly-rated midrange hotel with modern amenities and excellent service. Top TripAdvisor reviews among Mukdahan accommodations.",
-      "price_range": "$25-35/night (900-1,260 THB)",
-      "category": "midrange",
+      "name": "Hotel de Ladda",
+      "price_range": "Mid-range to upscale",
+      "description": "The clearest direct-site Mekong-side hotel pick if you want a more polished stay near the Indochina-market side of town.",
+      "category": "boutique hotel",
+      "area": "Mukdahan city center",
       "highlights": [
-        "4.8 TripAdvisor rating",
-        "Modern amenities",
-        "Town center location"
-      ]
+        "Official hotel website",
+        "Mekong-bank positioning",
+        "Walkable to the market side"
+      ],
+      "href": "/city/mukdahan/top-10-hotels/",
+      "cta_label": "See the hotel guide"
     },
     {
       "rank": 2,
-      "name": "Kieng Piman Hotel",
-      "description": "Well-reviewed midrange hotel offering comfortable accommodation with good service and convenient town location.",
-      "price_range": "$22-32/night (800-1,150 THB)",
-      "category": "midrange",
+      "name": "Riverfront Hotel Mukdahan",
+      "price_range": "Budget to mid-range",
+      "description": "A practical riverfront stay with direct hotel-site details and easy access to the Mekong and Indochina Market side.",
+      "category": "riverfront hotel",
+      "area": "Samran Chai Khong Tai Road",
       "highlights": [
-        "4.5 TripAdvisor rating",
-        "Comfortable rooms",
-        "Central location"
-      ]
+        "Official hotel website",
+        "Riverfront location",
+        "Free breakfast and Wi-Fi on the direct site"
+      ],
+      "href": "/city/mukdahan/top-10-hotels/",
+      "cta_label": "See the hotel guide"
     },
     {
       "rank": 3,
-      "name": "Hotel de Ladda",
-      "description": "Midrange hotel with comfortable rooms and reliable service, positioned near town center amenities.",
-      "price_range": "$20-30/night (720-1,080 THB)",
-      "category": "midrange",
+      "name": "HOP INN Mukdahan",
+      "price_range": "Budget",
+      "description": "The strongest simple-chain budget option with a direct official page and a straightforward road-trip-stop setup.",
+      "category": "budget chain hotel",
+      "area": "Chayangkul Kor Road",
       "highlights": [
-        "4.2 TripAdvisor rating",
-        "Good value",
-        "Town access"
-      ]
+        "Official hotel website",
+        "79-room property",
+        "Good for predictable short stays"
+      ],
+      "href": "/city/mukdahan/top-10-hotels/",
+      "cta_label": "See the hotel guide"
     },
     {
       "rank": 4,
-      "name": "Riverfront Hotel Mukdahan",
-      "description": "Riverside hotel offering views of the Mekong and Laos across the water, with comfortable midrange accommodation.",
-      "price_range": "$20-30/night (720-1,080 THB)",
-      "category": "midrange",
+      "name": "Ploy Palace Hotel",
+      "price_range": "Mid-range",
+      "description": "A larger classic city hotel with direct-site details, many rooms, and more full-service facilities than Mukdahan's smaller properties.",
+      "category": "full-service city hotel",
+      "area": "Central Mukdahan",
       "highlights": [
-        "4.1 TripAdvisor rating",
-        "Mekong riverfront views",
-        "Sunset views"
-      ]
+        "Official hotel website",
+        "154 rooms and suites",
+        "Pool and rooftop restaurant"
+      ],
+      "href": "/city/mukdahan/top-10-hotels/",
+      "cta_label": "See the hotel guide"
     },
     {
       "rank": 5,
-      "name": "Ploy Palace Hotel",
-      "description": "Budget-friendly hotel in town center with basic but clean rooms and convenient access to restaurants and attractions.",
-      "price_range": "$15-25/night (540-900 THB)",
-      "category": "budget",
+      "name": "Bird Day Boutique Hotel",
+      "price_range": "Budget to mid-range",
+      "description": "A practical newer-feeling hotel option if you want road access and a cleaner out-of-core base rather than a direct riverfront stay.",
+      "category": "boutique hotel",
+      "area": "Next to Big C Mukdahan",
       "highlights": [
-        "3.9 TripAdvisor rating",
-        "Budget-friendly",
-        "Central location"
-      ]
-    },
-    {
-      "rank": 6,
-      "name": "Mekong Riverside Bungalows",
-      "description": "Charming bungalows directly on the Mekong with gardens, beanbag seating under shady trees, and garden paths to town. Gates close at 9 PM.",
-      "price_range": "$20-35/night (800-1,200 THB)",
-      "category": "budget",
-      "highlights": [
-        "Riverside location",
-        "Garden setting",
-        "Direct Mekong access"
-      ]
-    },
-    {
-      "rank": 7,
-      "name": "Riverside Guesthouses (Multiple)",
-      "description": "Simple but clean guesthouses within walking distance of the Mekong. Basic rooms with fans or air conditioning at budget-friendly prices. Good for backpackers.",
-      "price_range": "$10-18/night (500-700 THB)",
-      "category": "budget",
-      "highlights": [
-        "Very budget-friendly",
-        "Near Mekong",
-        "Backpacker-friendly"
-      ]
+        "Official hotel website",
+        "Easy access to Big C and the bus-terminal side",
+        "Useful if you are driving"
+      ],
+      "href": "/city/mukdahan/top-10-hotels/",
+      "cta_label": "See the hotel guide"
     }
   ],
-  "factchecked_at": "2026-03-08T18:55:18.278Z",
-  "translations": {
-    "nl": {
-      "enhanced_description": "Mukdahan verwelkomt je met de zachte stroom van de Mekong en een levenstempo dat je uitnodigt om uit te ademen. Dit is een stadje waar de rivier het ritme bepaalt — ochtenden zijn voor het verkennen van de Naga Tempel op de heuveltop met zijn spectaculaire draakbeschermer die oprijst uit vulkanisch uitziend gesteente, middagen voor het terugtrekken in je bungalow aan de rivier tussen schaduwrijke bomen en zitzakken, en avonden voor koude biertjes en Isaan-eten aan het water. De Grote Boeddha bovenop de heuvel is enorm en volledig afgebouwd in stralend wit — je kunt de reusachtige vingers aanraken als een diep gebaar van respect terwijl je geniet van uitzichten die zich uitstrekken over de stad, de brede Mekong en helemaal tot aan Savannakhet in Laos. Als je in november bezoekt tijdens Loy Krathong, ben je getuige van een van de mooiste vieringen op de Mekong: families die zich onder de volle maan verzamelen om krathongs gemaakt van bananenblad of visvoer op de rivier te laten drijven, terwijl kinderen ze eruit vissen in de hoop geld erin te vinden. Het stadje heeft een rustige, oprechte kwaliteit die grotere bestemmingen zijn kwijtgeraakt. Met een luchthaven net aan de overkant van de rivier in Laos (wat drones beperkt maar internationaal karakter toevoegt), craft beer-tenten met livemuziek op de rivieroever, en bungalow-pensions voor slechts 800 THB per nacht, is Mukdahan het soort plek dat je doet afvragen waarom je zo'n haast hebt gehad.",
-      "overview": "Mukdahan is een rustig charmant Mekong-rivierstadje in Isaan, dat direct aan de overkant van de rivier van Savannakhet in Laos ligt. Dit is geen stadje dat om je aandacht schreeuwt — het beloont juist degenen die een trager tempo waarderen. De topattractie is de Naga Tempel, waar een gigantisch kleurrijk Naga-beeld oprijst uit lavalachtig gesteente, behangen met rode gebedslintjes en waarvan wordt geloofd dat het een beschermer van de rivieren is, die geluk en voorspoed brengt aan wie hun wensen met een zuiver hart fluisteren. Vlakbij biedt een enorm wit Grote Boeddha-beeld panoramisch uitzicht over Mukdahan, de Mekong en Savannakhet aan de overkant. De route naar het stadje vanuit Nakhon Phanom gaat langs That Phanom, waar gouden Lao-stijl spitse stupa's — uniek voor deze Mekong-regio — het landschap sieren. Niet elke stop op een reis hoeft actiegepakt te zijn, en Mukdahan bewijst dat soms de meest memorabele momenten ontstaan door simpelweg aan de rivier te zitten met een koud biertje en de zon te zien ondergaan boven Laos.",
-      "thingsToDo": "Begin bij de Naga Tempel en het Grote Boeddha-complex op de heuvel boven Mukdahan. Toegang is gratis, met een gratis shuttlebus van de voet naar de top (100 THB donatie aanbevolen). Het gigantische kleurrijke Naga-beeld zit op dramatisch lavalachtig gesteente, versierd met rode gebedslintjes — de Naga wordt beschouwd als de beschermer van de rivieren, die geluk en voorspoed brengt. Fluister je wensen met een zuiver hart, en de Naga zou ze langs de Mekong meedragen. Ga verder naar het enorme witte volledig afgebouwde Grote Boeddha-beeld waar je de reusachtige vingers kunt aanraken als een diep gebaar van respect, terwijl je geniet van panoramisch uitzicht over Mukdahan, de Mekong en Savannakhet in Laos. Als je in november bezoekt, plan je reis dan rond Loy Krathong onder de volle maan. Families verzamelen zich langs de Mekong om krathongs (bananenblad- of visvoerboten, 20 THB per stuk) op het water te laten drijven — een prachtige, familiegeoriënteerde viering. Kinderen waden erin om de krathongs eruit te vissen, hopend op geld dat erin verstopt zit. 's Avonds wandel je langs de rivierboulevard en vind je de craft beer-tent met livemuziek voor een perfecte afsluiting van de dag. Bier kost doorgaans 60-100 THB per glas. Onderweg vanuit Nakhon Phanom (ongeveer 40 km verderop) kun je stoppen bij That Phanom om de gouden Lao-stijl spitse stupa's te bewonderen die uniek zijn voor deze Mekong-regio.",
-      "whereToStay": "De charme van Mukdahan ligt in de bungalowaccommodatie aan de rivier. Schattige bungalows staan direct aan de Mekong met tuinen, zitzakken onder schaduwrijke bomen en een pad naar het stadje — vanaf slechts 800 THB per nacht ($22). Executive-hutten kosten rond de 1.200 THB ($33). Deze accommodaties sluiten hun hekken om 21:00 uur, dus plan je avonden dienovereenkomstig. Voor wie meer conventionele hotels wil, heeft het stadscentrum guesthouses en kleine hotels tegen budgetvriendelijke Isaan-prijzen. Gezien de ontspannen sfeer van Mukdahan is direct aan de rivier verblijven de beste manier om het stadje te ervaren — in slaap vallen bij het geluid van de Mekong is het waard om een bungalow te kiezen boven een stadshotel.",
-      "gettingAround": "Mukdahan is een compact stadje dat gemakkelijk te voet te verkennen is. De rivierboulevard, restaurants en het hoofdcentrum liggen allemaal op comfortabele loopafstand (maximaal 15-20 minuten lopen). Om de Naga Tempel en Grote Boeddha op de heuvel te bereiken, rijdt er een gratis shuttlebus van de voet naar de top (100 THB donatie aanbevolen). Als je per motorfiets arriveert als onderdeel van een Mekong-roadtrip, is de route vanuit Nakhon Phanom (100 km naar het noorden via That Phanom met gouden Lao-stijl stupa's) schilderachtig en eenvoudig met goed onderhouden wegen. De dichtstbijzijnde luchthavens zijn in Nakhon Phanom (ongeveer 100 km naar het noorden, 1,5-2 uur rijden voor 800-1.200 THB per auto/minibus) of aan de overkant van de rivier in Savannakhet, Laos. Lokale songthaews (gedeelde minibussen) kosten 20-40 THB voor korte ritten in het stadje en zijn beschikbaar voor de omgeving. Motortaxi's zijn beschikbaar voor korte afstanden voor 20-50 THB per rit. Het huren van een motorfiets voor de Mekong-roadtrip kost ongeveer 150-250 THB per dag.",
-      "bestTimeToVisit": "De beste tijd om Mukdahan te bezoeken is tijdens het koele seizoen van november tot februari, wanneer de temperaturen aangenaam zijn (18-28°C) en de Mekong kalm is. November is bijzonder speciaal als je bezoek samenvalt met Loy Krathong, het volle-maanfestival wanneer families krathongs op de Mekong laten drijven — een magische ervaring. Het regenseizoen (juni-oktober) brengt hogere waterstanden en af en toe overstromingen bij de oevers, terwijl het hete seizoen (maart-mei) drukkend vochtig kan zijn. Doordeweeks is het rustiger, hoewel Mukdahan zich zelfs in het weekend nooit bijzonder druk voelt.",
-      "safetyTips": "Mukdahan is een uiterst veilig en vriendelijk stadje. Criminaliteit tegen toeristen is vrijwel onbestaand — dit is een echte, rustige Isaan-gemeenschap. De belangrijkste veiligheidsoverweging is de Mekong: stromingen kunnen bedrieglijk sterk zijn en zwemmen wordt afgeraden. Tijdens het regenseizoen (juni-oktober) stijgen de waterstanden aanzienlijk. Houd er rekening mee dat de luchthaven aan de overkant van de rivier in Laos betekent dat dronevliegen in het gebied beperkt is. Als je motorfiets rijdt, zijn de wegen langs de Mekong over het algemeen in goede staat, maar let op natte oppervlakken na regen. Houd er rekening mee dat bungalows aan de rivier hun hekken om 21:00 uur kunnen sluiten, dus plan je terugkeer 's avonds dienovereenkomstig.",
-      "translated_at": "2026-03-09T00:00:00.000Z"
-    },
-    "fr": {
-      "enhanced_description": "Mukdahan vous accueille avec le flot paisible du Mékong et un rythme de vie qui vous invite à souffler. C'est une ville où la rivière dicte le tempo — les matinées sont consacrées à l'exploration du temple Naga au sommet de la colline avec son spectaculaire dragon gardien s'élevant d'un rocher d'aspect volcanique, les après-midi à se réfugier dans votre bungalow au bord de la rivière parmi les arbres ombragés et les poufs, et les soirées aux bières fraîches et à la cuisine Isaan sur le front de mer. Le Grand Bouddha au sommet de la colline est énorme et entièrement achevé en blanc éclatant — vous pouvez toucher les doigts géants en un profond geste de respect tout en contemplant des vues qui s'étendent sur la ville, le large Mékong et jusqu'à Savannakhet au Laos. Si vous visitez en novembre pendant Loy Krathong, vous assisterez à l'une des plus belles célébrations sur le Mékong : des familles se rassemblant sous la pleine lune pour faire flotter des krathongs faits de feuilles de bananier ou de nourriture pour poissons sur la rivière, tandis que les enfants les repêchent en espérant trouver de l'argent à l'intérieur. La ville a une qualité tranquille et authentique que les grandes destinations ont perdue. Avec un aéroport juste de l'autre côté de la rivière au Laos (qui limite les drones mais ajoute un caractère international), des tentes de bière artisanale avec musique live sur la rive, et des bungalows à partir de seulement 800 THB la nuit, Mukdahan est le genre d'endroit qui vous fait vous demander pourquoi vous étiez si pressé.",
-      "overview": "Mukdahan est une petite ville tranquillement charmante au bord du Mékong en Isaan, située directement en face de Savannakhet au Laos. Ce n'est pas une ville qui crie pour attirer votre attention — elle récompense plutôt ceux qui apprécient un rythme plus lent. L'attraction vedette est le temple Naga, où une statue géante et colorée de Naga s'élève d'un rocher d'aspect lavique, drapée de rubans de prière rouges et considérée comme le gardien des rivières, apportant chance et prospérité à ceux qui murmurent leurs vœux avec un cœur pur. À proximité, une énorme statue blanche de Grand Bouddha offre des vues panoramiques sur la ville de Mukdahan, le Mékong et Savannakhet de l'autre côté. La route vers la ville depuis Nakhon Phanom passe par That Phanom, où des stupas dorés pointus de style laotien — uniques à cette région du Mékong — parsèment le paysage. Chaque étape d'un voyage n'a pas besoin d'être remplie d'action, et Mukdahan prouve que parfois les moments les plus mémorables naissent du simple fait de s'asseoir au bord de la rivière avec une bière fraîche, regardant le soleil se coucher sur le Laos.",
-      "thingsToDo": "Commencez par le temple Naga et le complexe du Grand Bouddha sur la colline dominant Mukdahan. L'entrée est gratuite, avec une navette gratuite de la base au sommet (donation de 100 THB suggérée). La gigantesque statue colorée de Naga trône sur un rocher dramatique d'aspect lavique, ornée de rubans de prière rouges — le Naga est considéré comme le gardien des rivières, apportant chance et prospérité. Murmurez vos vœux avec un cœur pur, et le Naga les emporterait le long du Mékong. Poursuivez vers l'énorme statue blanche entièrement achevée du Grand Bouddha où vous pouvez toucher les doigts géants en un profond geste de respect, tout en profitant de vues panoramiques sur Mukdahan, le Mékong et Savannakhet au Laos. Si vous visitez en novembre, programmez votre voyage pour Loy Krathong sous la pleine lune. Les familles se rassemblent le long du Mékong pour faire flotter des krathongs (bateaux en feuilles de bananier ou nourriture pour poissons, 20 THB chacun) sur l'eau — une célébration magnifique et familiale. Les enfants pataugent pour repêcher les krathongs, espérant trouver de l'argent glissé à l'intérieur. Le soir, promenez-vous sur l'esplanade riveraine et trouvez la tente de bière artisanale avec musique live pour une fin de journée parfaite. La bière coûte généralement 60-100 THB par verre. En route depuis Nakhon Phanom (environ 40 km), arrêtez-vous à That Phanom pour admirer les stupas dorés pointus de style laotien uniques à cette région du Mékong.",
-      "whereToStay": "Le charme de Mukdahan réside dans ses bungalows au bord de la rivière. De jolis bungalows sont installés directement sur le Mékong avec jardins, poufs sous des arbres ombragés et un chemin vers la ville — à partir de seulement 800 THB par nuit (22 $). Les huttes executive coûtent environ 1 200 THB (33 $). Ces établissements ferment leurs portails à 21h, planifiez donc vos soirées en conséquence. Pour ceux qui souhaitent des hôtels plus conventionnels, le centre-ville propose des pensions et petits hôtels aux prix économiques de l'Isaan. Vu l'atmosphère détendue de Mukdahan, séjourner directement au bord de la rivière est la meilleure façon de vivre la ville — s'endormir au son du Mékong vaut le choix d'un bungalow plutôt qu'un hôtel en ville.",
-      "gettingAround": "Mukdahan est une ville compacte facilement explorable à pied. L'esplanade riveraine, les restaurants et le centre-ville principal sont tous à distance de marche confortable (15-20 minutes maximum). Pour atteindre le temple Naga et le Grand Bouddha sur la colline, une navette gratuite circule de la base au sommet (donation de 100 THB suggérée). Si vous arrivez en moto dans le cadre d'un road trip le long du Mékong, la route depuis Nakhon Phanom (100 km au nord via That Phanom avec ses stupas dorés de style laotien) est pittoresque et simple avec des routes bien entretenues. Les aéroports les plus proches sont à Nakhon Phanom (environ 100 km au nord, 1,5-2 heures de route pour 800-1 200 THB en voiture/minivan) ou de l'autre côté de la rivière à Savannakhet, au Laos. Les songthaews locaux (minibus partagés) coûtent 20-40 THB pour les trajets courts en ville et sont disponibles pour les environs. Les moto-taxis sont disponibles pour les courtes distances à 20-50 THB par trajet. La location d'une moto pour le road trip du Mékong coûte environ 150-250 THB par jour.",
-      "bestTimeToVisit": "La meilleure période pour visiter Mukdahan est la saison fraîche de novembre à février, lorsque les températures sont agréables (18-28°C) et le Mékong est calme. Novembre est particulièrement spécial si votre visite coïncide avec Loy Krathong, le festival de la pleine lune où les familles font flotter des krathongs sur le Mékong — une expérience magique. La saison des pluies (juin-octobre) apporte des niveaux d'eau plus élevés et des inondations occasionnelles près des berges, tandis que la saison chaude (mars-mai) peut être d'une humidité oppressante. Les jours de semaine sont plus calmes, bien que Mukdahan ne semble jamais particulièrement bondée même le week-end.",
-      "safetyTips": "Mukdahan est une ville extrêmement sûre et accueillante. La criminalité envers les touristes est pratiquement inexistante — c'est une communauté Isaan authentique et paisible. La principale considération de sécurité concerne le Mékong : les courants peuvent être dangereusement forts et la baignade est déconseillée. Pendant la saison des pluies (juin-octobre), les niveaux d'eau montent considérablement. Sachez que l'aéroport de l'autre côté de la rivière au Laos signifie que le vol de drones est restreint dans la zone. Si vous conduisez une moto, les routes le long du Mékong sont généralement en bon état, mais attention aux surfaces mouillées après la pluie. Notez que les bungalows riverains peuvent fermer leurs portails à 21h, planifiez donc votre retour en soirée en conséquence.",
-      "translated_at": "2026-03-10T00:00:00.000Z"
-    },
-    "de": {
-      "enhanced_description": "Mukdahan empfängt Sie mit dem sanften Fluss des Mekong und einem Lebenstempo, das Sie zum Durchatmen einlädt. Dies ist eine Stadt, in der der Fluss den Rhythmus bestimmt — Vormittage sind zum Erkunden des Naga-Tempels auf der Hügelkuppe mit seinem spektakulären Drachenwächter, der aus vulkanisch anmutendem Gestein emporragt, Nachmittage zum Zurückziehen in Ihren Flussbungalow zwischen schattigen Bäumen und Sitzsäcken, und Abende für kalte Biere und Isaan-Küche am Wasser. Der Große Buddha auf dem Hügel ist riesig und komplett in strahlendem Weiß fertiggestellt — Sie können die gewaltigen Finger berühren als tiefe Geste des Respekts, während Sie Ausblicke genießen, die sich über die Stadt, den breiten Mekong und bis nach Savannakhet in Laos erstrecken. Wenn Sie im November während Loy Krathong besuchen, erleben Sie eine der schönsten Feiern am Mekong: Familien versammeln sich unter dem Vollmond, um Krathongs aus Bananenblättern oder Fischfutter auf dem Fluss treiben zu lassen, während Kinder sie herausfischen in der Hoffnung, Geld darin zu finden. Die Stadt hat eine ruhige, aufrichtige Qualität, die größere Reiseziele verloren haben. Mit einem Flughafen direkt auf der anderen Flussseite in Laos (was Drohnenflüge einschränkt, aber internationalen Charakter verleiht), Craft-Beer-Zelten mit Live-Musik am Flussufer und Bungalow-Pensionen ab nur 800 THB pro Nacht ist Mukdahan die Art von Ort, der einen fragen lässt, warum man es so eilig hatte.",
-      "overview": "Mukdahan ist ein ruhig charmantes Mekong-Flussstädtchen in Isaan, das direkt gegenüber von Savannakhet in Laos liegt. Dies ist keine Stadt, die um Ihre Aufmerksamkeit schreit — stattdessen belohnt sie diejenigen, die ein langsameres Tempo zu schätzen wissen. Die Hauptattraktion ist der Naga-Tempel, wo eine riesige bunte Naga-Statue aus lavaartigem Gestein emporragt, mit roten Gebetsbändern geschmückt und als Wächter der Flüsse verehrt, der Glück und Wohlstand bringt für jene, die ihre Wünsche mit reinem Herzen flüstern. In der Nähe bietet eine gewaltige weiße Große-Buddha-Statue Panoramablicke über Mukdahan, den Mekong und Savannakhet auf der anderen Seite. Die Route in die Stadt von Nakhon Phanom führt durch That Phanom, wo goldene laotische Spitzstupas — einzigartig für diese Mekong-Region — die Landschaft zieren. Nicht jeder Halt auf einer Reise muss actiongeladen sein, und Mukdahan beweist, dass manchmal die denkwürdigsten Momente entstehen, wenn man einfach am Fluss sitzt mit einem kalten Bier und den Sonnenuntergang über Laos beobachtet.",
-      "thingsToDo": "Beginnen Sie am Naga-Tempel und dem Große-Buddha-Komplex auf dem Hügel über Mukdahan. Der Eintritt ist frei, mit einem kostenlosen Shuttlebus vom Fuß zur Spitze (100 THB Spende empfohlen). Die riesige bunte Naga-Statue thront auf dramatisch lavaartigem Gestein, geschmückt mit roten Gebetsbändern — der Naga gilt als Wächter der Flüsse, der Glück und Wohlstand bringt. Flüstern Sie Ihre Wünsche mit reinem Herzen, und der Naga soll sie den Mekong hinuntertragen. Weiter geht es zur enormen weißen, vollständig fertiggestellten Große-Buddha-Statue, wo Sie die gewaltigen Finger als tiefe Geste des Respekts berühren können, während Sie Panoramablicke über Mukdahan, den Mekong und Savannakhet in Laos genießen. Wenn Sie im November besuchen, planen Sie Ihre Reise rund um Loy Krathong bei Vollmond. Familien versammeln sich am Mekong, um Krathongs (Bananenblatt- oder Fischfutterboote, 20 THB pro Stück) auf dem Wasser treiben zu lassen — eine wunderschöne, familienorientierte Feier. Kinder waten hinein, um die Krathongs herauszufischen, in der Hoffnung auf verstecktes Geld. Am Abend schlendern Sie die Flusspromenade entlang und finden das Craft-Beer-Zelt mit Live-Musik für einen perfekten Tagesausklang. Bier kostet typischerweise 60-100 THB pro Glas. Auf dem Weg von Nakhon Phanom (etwa 40 km entfernt) lohnt ein Stopp bei That Phanom, um die goldenen laotischen Spitzstupas zu bewundern, die einzigartig für diese Mekong-Region sind.",
-      "whereToStay": "Mukdahans Charme liegt in den Bungalow-Unterkünften am Fluss. Hübsche Bungalows stehen direkt am Mekong mit Gärten, Sitzsäcken unter schattigen Bäumen und einem Weg in die Stadt — ab nur 800 THB pro Nacht (22 $). Executive-Hütten kosten etwa 1.200 THB (33 $). Diese Unterkünfte schließen ihre Tore um 21:00 Uhr, planen Sie also Ihre Abende entsprechend. Für diejenigen, die konventionellere Hotels möchten, bietet das Stadtzentrum Gästehäuser und kleine Hotels zu budgetfreundlichen Isaan-Preisen. Angesichts der entspannten Atmosphäre Mukdahans ist das Übernachten direkt am Fluss die beste Art, die Stadt zu erleben — zum Klang des Mekong einzuschlafen ist es wert, einen Bungalow einem Stadthotel vorzuziehen.",
-      "gettingAround": "Mukdahan ist eine kompakte Stadt, die bequem zu Fuß zu erkunden ist. Die Flusspromenade, Restaurants und das Hauptzentrum liegen alle in komfortabler Gehweite (maximal 15-20 Minuten). Um den Naga-Tempel und den Großen Buddha auf dem Hügel zu erreichen, fährt ein kostenloser Shuttlebus vom Fuß zur Spitze (100 THB Spende empfohlen). Wenn Sie per Motorrad als Teil eines Mekong-Roadtrips anreisen, ist die Route von Nakhon Phanom (100 km nördlich über That Phanom mit goldenen laotischen Stupas) malerisch und unkompliziert mit gut gepflegten Straßen. Die nächsten Flughäfen befinden sich in Nakhon Phanom (etwa 100 km nördlich, 1,5-2 Stunden Fahrt für 800-1.200 THB per Auto/Minibus) oder auf der anderen Flussseite in Savannakhet, Laos. Lokale Songthaews (geteilte Kleinbusse) kosten 20-40 THB für kurze Fahrten in der Stadt und sind für die Umgebung verfügbar. Motorradtaxis sind für kurze Strecken für 20-50 THB pro Fahrt verfügbar. Die Miete eines Motorrads für den Mekong-Roadtrip kostet etwa 150-250 THB pro Tag.",
-      "bestTimeToVisit": "Die beste Reisezeit für Mukdahan ist die kühle Jahreszeit von November bis Februar, wenn die Temperaturen angenehm sind (18-28°C) und der Mekong ruhig fließt. November ist besonders reizvoll, wenn Ihr Besuch mit Loy Krathong zusammenfällt, dem Vollmondfest, bei dem Familien Krathongs auf dem Mekong treiben lassen — ein magisches Erlebnis. Die Regenzeit (Juni-Oktober) bringt höhere Wasserstände und gelegentliche Überschwemmungen an den Ufern, während die heiße Jahreszeit (März-Mai) drückend schwül sein kann. Wochentags ist es ruhiger, obwohl sich Mukdahan selbst am Wochenende nie besonders überlaufen anfühlt.",
-      "safetyTips": "Mukdahan ist eine äußerst sichere und freundliche Stadt. Kriminalität gegen Touristen ist praktisch nicht existent — dies ist eine echte, ruhige Isaan-Gemeinde. Die wichtigste Sicherheitsüberlegung betrifft den Mekong: Strömungen können täuschend stark sein und Schwimmen wird nicht empfohlen. Während der Regenzeit (Juni-Oktober) steigen die Wasserstände erheblich. Beachten Sie, dass der Flughafen auf der anderen Flussseite in Laos bedeutet, dass Drohnenflüge in der Gegend eingeschränkt sind. Wenn Sie Motorrad fahren, sind die Straßen entlang des Mekong generell in gutem Zustand, achten Sie aber auf nasse Oberflächen nach Regen. Beachten Sie, dass Flussbungalows ihre Tore um 21:00 Uhr schließen können, planen Sie also Ihre abendliche Rückkehr entsprechend.",
-      "translated_at": "2026-03-10T00:00:00.000Z"
-    },
-    "zh": {
-      "enhanced_description": "穆达汉（Mukdahan）用湄公河的静静流淌和一种让你卸下疲惫的生活节奏迎接着你。这是一座由河流定义节奏的小城——上午用来探索山顶上的Naga神庙，那里壮观的龙守护者从火山岩般的巨石中拔地而起；下午则退回到河畔小屋里，在绿荫和懒人沙发间休憩；傍晚来一杯冰啤酒，在水边享用伊桑美食。山顶上的大佛巨像通体洁白、气势恢宏——你可以触摸那巨大的手指作为深深的敬意，同时欣赏延伸到城市、宽阔的湄公河和对岸老挝沙湾拿吉（Savannakhet）的壮观景色。如果你在11月水灯节（Loy Krathong）期间来访，将见证湄公河上最美丽的庆典之一：满月之下，一家老小聚在河边，将香蕉叶或鱼食制成的水灯放入河中漂流，孩子们纷纷跑进水里捞水灯，希望找到藏在里面的硬币。这座小城有一种安静而真挚的品质，是那些大城市早已失去的。河对岸老挝有一座机场（限制了无人机飞行但增添了国际气息），河畔有精酿啤酒帐篷和现场音乐，小木屋客栈每晚仅800泰铢起——穆达汉是那种让你不禁反问自己为什么总是那么匆忙的地方。",
-      "overview": "穆达汉是伊桑地区一座安静迷人的湄公河畔小城，与老挝的沙湾拿吉隔河相望。这座小城不会大声争抢你的注意力——它回馈的是那些欣赏慢节奏的人。最大的亮点是Naga神庙，一座巨大的彩色那迦雕像从熔岩般的岩石中拔起，系满红色祈福丝带，被奉为河流的守护者，据说能为那些诚心许愿的人带来好运和财富。附近一尊巨大的白色大佛像提供穆达汉、湄公河和对岸沙湾拿吉的全景视角。从那空帕农（Nakhon Phanom）前往此地的路线经过That Phanom，沿途点缀着这一湄公河地区独有的金色老挝风格尖塔。旅途中并非每一站都需要充满刺激，穆达汉证明了有时候最难忘的时刻就是坐在河边，喝着冰啤酒，看夕阳落入老挝的天际。",
-      "thingsToDo": "从穆达汉山丘上的Naga神庙和大佛建筑群开始。免费入场，有免费班车从山脚到山顶（建议捐赠100泰铢）。巨大的彩色那迦雕像矗立在戏剧性的熔岩般岩石上，饰有红色祈福丝带——那迦被视为河流的守护者，带来好运和富足。诚心许下你的愿望，那迦会将它们顺湄公河带走。继续前往巨大的纯白大佛像，你可以触摸那巨大的手指作为深深的敬意，同时享受穆达汉、湄公河和老挝沙湾拿吉的全景。如果你11月来访，安排在满月时的水灯节前来。一家人沿湄公河聚集，将水灯（香蕉叶或鱼食船，每个20泰铢）放入水中漂流——一个美丽的家庭庆典。孩子们涉水进去捞水灯，希望找到藏在里面的钱。晚上沿河滨步道漫步，找到有现场音乐的精酿啤酒帐篷，为一天画上完美句号。啤酒通常60-100泰铢/杯。从那空帕农出发（约40公里），可以在That Phanom停留，欣赏这一湄公河地区独有的金色老挝风格尖塔。",
-      "whereToStay": "穆达汉的魅力在于河畔小木屋住宿。精致的小屋就建在湄公河边，有花园、绿荫下的懒人沙发和通往城镇的小路——每晚仅800泰铢（22美元）起。高级小屋约1,200泰铢（33美元）。这些住处晚上9点锁门，所以要相应安排你的夜间活动。如果想要更传统的酒店，市中心有客栈和小型酒店，价格实惠，符合伊桑地区的消费水平。鉴于穆达汉的悠闲氛围，住在河边是体验这座小城的最佳方式——伴着湄公河的声音入睡，选择小木屋绝对比城中酒店值得。",
-      "gettingAround": "穆达汉是一座紧凑的小城，步行即可轻松探索。河滨步道、餐馆和主要中心区域步行均可到达（最多15-20分钟）。前往山丘上的Naga神庙和大佛，有免费班车从山脚到山顶（建议捐赠100泰铢）。如果你骑摩托车作为湄公河公路旅行的一部分到达，从那空帕农出发的路线（往北100公里经That Phanom，沿途有金色老挝风格佛塔）风景优美、道路维护良好。最近的机场在那空帕农（往北约100公里，车程1.5-2小时，800-1,200泰铢/车/小巴）或河对岸老挝的沙湾拿吉。本地双条车（共享小巴）在镇内短途20-40泰铢，周边地区也有运行。摩托出租车短途20-50泰铢/趟。湄公河公路旅行租摩托车约150-250泰铢/天。",
-      "bestTimeToVisit": "穆达汉最佳旅游时间是11月至2月的凉季，气温宜人（18-28°C），湄公河平静流淌。11月尤为特别——如果恰逢水灯节，一家人在满月下将水灯放入湄公河，是一次魔幻的体验。雨季（6月至10月）河水水位上升，河岸偶有洪水；热季（3月至5月）可能闷热难耐。工作日更为安静，不过穆达汉即使在周末也从不觉得特别拥挤。",
-      "safetyTips": "穆达汉是一座极其安全友好的小城。针对游客的犯罪几乎不存在——这是一个真正宁静的伊桑社区。主要的安全注意事项是湄公河：水流可能出奇地强劲，不建议游泳。雨季（6月至10月）水位显著上升。请注意，河对岸老挝的机场意味着该区域限制无人机飞行。如果骑摩托车，湄公河沿岸的道路总体状况良好，但雨后注意路面湿滑。另外请注意河畔小木屋可能在晚上9点锁门，相应安排你的晚间返回时间。",
-      "translated_at": "2026-03-11T00:00:00.000Z"
-    },
-    "ru": {
-      "enhanced_description": "Мукдахан встречает вас мягким течением Меконга и ритмом жизни, который приглашает выдохнуть. Это город, где река задаёт темп — утро для исследования храма Нага на вершине холма с его впечатляющим драконом-хранителем, поднимающимся из вулканического на вид камня, послеобеденное время для уединения в речном бунгало среди тенистых деревьев и кресел-мешков, а вечер для холодного пива и исанской кухни на набережной. Большой Будда на вершине холма огромен и полностью завершён в сияющем белом цвете — вы можете коснуться гигантских пальцев как глубокий жест уважения, наслаждаясь видами, которые простираются через город, широкий Меконг и до самого Саваннакхета в Лаосе. Если вы приедете в ноябре на Лой Кратхонг, вы станете свидетелем одного из самых красивых праздников на Меконге: семьи собираются при полной луне, чтобы пустить по реке кратхонги из банановых листьев или рыбного корма, а дети вылавливают их в надежде найти внутри монетки. Город обладает тихим, подлинным качеством, которое более крупные направления давно утратили. С аэропортом на другом берегу реки в Лаосе (что ограничивает полёты дронов, но добавляет международный колорит), палатками крафтового пива с живой музыкой на берегу и бунгало-гестхаусами от 800 THB за ночь, Мукдахан — то самое место, которое заставляет задуматься, зачем вы так торопились.",
-      "overview": "Мукдахан — тихий очаровательный городок на берегу Меконга в Исане, расположенный прямо напротив Саваннакхета в Лаосе. Этот город не кричит, привлекая ваше внимание — он вознаграждает тех, кто ценит неспешный ритм. Главная достопримечательность — храм Нага, где гигантская красочная статуя Наги возвышается из лавообразного камня, украшенная красными молитвенными лентами; считается, что Нага — хранитель рек, приносящий удачу и процветание тем, кто шепчет свои желания с чистым сердцем. Поблизости огромная белая статуя Большого Будды открывает панорамные виды на город Мукдахан, Меконг и Саваннакхет на том берегу. Дорога в город из Накхонпханома проходит через Тхат Пханом, где золотые лаосские остроконечные ступы — уникальные для этого региона Меконга — украшают ландшафт. Не каждая остановка в путешествии должна быть насыщена действием, и Мукдахан доказывает, что порой самые запоминающиеся моменты рождаются из простого сидения у реки с холодным пивом, наблюдая, как солнце садится за Лаосом.",
-      "thingsToDo": "Начните с храма Нага и комплекса Большого Будды на холме над Мукдаханом. Вход бесплатный, бесплатный шаттл курсирует от подножия до вершины (рекомендуемое пожертвование 100 THB). Гигантская красочная статуя Наги восседает на драматичном лавообразном камне, украшенная красными молитвенными лентами — Нага считается хранителем рек, приносящим удачу и процветание. Прошепчите свои желания с чистым сердцем, и Нага, говорят, унесёт их вниз по Меконгу. Далее — к огромной белоснежной полностью завершённой статуе Большого Будды, где можно коснуться гигантских пальцев в знак глубокого уважения, наслаждаясь панорамой Мукдахана, Меконга и Саваннакхета в Лаосе. Если приезжаете в ноябре, спланируйте визит на Лой Кратхонг в полнолуние. Семьи собираются вдоль Меконга, чтобы пустить кратхонги (лодочки из банановых листьев или рыбного корма, 20 THB за штуку) по воде — красивый семейный праздник. Дети забегают в воду, чтобы выловить кратхонги в надежде на спрятанные монетки. Вечером прогуляйтесь по набережной и найдите палатку крафтового пива с живой музыкой — идеальное завершение дня. Пиво обычно стоит 60–100 THB за стакан. По пути из Накхонпханома (около 40 км) остановитесь в Тхат Пханом полюбоваться золотыми лаосскими остроконечными ступами, уникальными для этого региона Меконга.",
-      "whereToStay": "Очарование Мукдахана — в речных бунгало. Уютные домики стоят прямо на берегу Меконга с садами, креслами-мешками под тенистыми деревьями и тропинкой к городу — от 800 THB за ночь (22$). Бунгало повышенного комфорта стоят около 1 200 THB (33$). Эти заведения запирают ворота в 21:00, поэтому планируйте вечер соответственно. Для тех, кто предпочитает стандартные отели, в центре города есть гестхаусы и небольшие отели по бюджетным ценам Исана. Учитывая расслабленную атмосферу Мукдахана, жить прямо у реки — лучший способ прочувствовать город: засыпать под звуки Меконга стоит того, чтобы выбрать бунгало вместо городского отеля.",
-      "gettingAround": "Мукдахан — компактный город, который легко обойти пешком. Набережная, рестораны и основной центр — всё в пешей доступности (максимум 15–20 минут). Чтобы добраться до храма Нага и Большого Будды на холме, курсирует бесплатный шаттл от подножия до вершины (рекомендуемое пожертвование 100 THB). Если вы приехали на мотоцикле в рамках поездки вдоль Меконга, маршрут из Накхонпханома (100 км к северу через Тхат Пханом с золотыми лаосскими ступами) живописен и прост, с хорошими дорогами. Ближайшие аэропорты — в Накхонпханоме (около 100 км к северу, 1,5–2 часа езды, 800–1 200 THB на машине/минивэне) или на том берегу реки в Саваннакхете, Лаос. Местные сонгтэу (маршрутные микроавтобусы) стоят 20–40 THB за короткие поездки по городу. Мотоциклетные такси — 20–50 THB за поездку. Аренда мотоцикла для путешествия вдоль Меконга — около 150–250 THB в день.",
-      "bestTimeToVisit": "Лучшее время для посещения Мукдахана — прохладный сезон с ноября по февраль, когда температура приятная (18–28°C), а Меконг спокоен. Ноябрь особенно прекрасен, если ваш визит совпадёт с Лой Кратхонгом — праздником полнолуния, когда семьи пускают кратхонги по Меконгу — волшебное зрелище. Сезон дождей (июнь–октябрь) приносит повышение уровня воды и периодические подтопления у берегов, а жаркий сезон (март–май) может быть невыносимо влажным. В будние дни тише, хотя Мукдахан не кажется особенно многолюдным даже по выходным.",
-      "safetyTips": "Мукдахан — чрезвычайно безопасный и гостеприимный город. Преступность против туристов практически отсутствует — это подлинная, мирная исанская община. Главное, о чём следует помнить — Меконг: течения могут быть обманчиво сильными, и купание не рекомендуется. В сезон дождей (июнь–октябрь) уровень воды значительно поднимается. Учтите, что аэропорт на другом берегу в Лаосе означает ограничения на полёты дронов в этом районе. Если вы на мотоцикле, дороги вдоль Меконга в целом хорошие, но будьте осторожны на мокрых поверхностях после дождя. Обратите внимание, что речные бунгало могут запирать ворота в 21:00 — планируйте вечернее возвращение соответственно.",
-      "translated_at": "2026-03-11T00:00:00.000Z"
-    },
-    "ko": {
-      "enhanced_description": "묵다한은 태국 동북부 이산 지방의 메콩강변에 자리한 조용하고 매력적인 도시입니다. 강 건너편 라오스 사반나켓이 바로 보이며, 제2 우정의 다리를 통해 라오스로 건너갈 수 있습니다.\n\n언덕 위의 나가 사원과 대불 단지는 묵다한의 상징으로, 화려한 색채의 나가(뱀) 조각과 거대한 백색 좌불상이 인상적입니다. 대불 전망대에서 바라보는 메콩강과 라오스의 파노라마는 잊을 수 없는 풍경입니다.\n\n메콩강변 산책로는 해질녘에 특히 아름다우며, 현지인들이 저녁 산책을 즐기는 곳입니다. 인도차이나 시장에서는 태국, 라오스, 베트남 물건을 한자리에서 쇼핑할 수 있습니다. 로이끄라통 축제 때 메콩강 위에 띄우는 등불의 장관은 묵다한만의 특별한 경험입니다.",
-      "hidden_gems": [],
-      "authentic_experiences": [],
-      "foodie_adventures": [],
-      "overview": "묵다한은 이산 지방 메콩강변의 조용하고 매력적인 도시로, 라오스 사반나켓과 마주하고 있습니다. 나가 사원, 대불, 인도차이나 시장, 메콩강변 산책로가 주요 볼거리입니다.",
-      "thingsToDo": "언덕 위 나가 사원과 대불 단지에서 시작하세요. 메콩강 파노라마 전망이 장관입니다. 메콩강변 산책로를 거닐고, 인도차이나 시장에서 쇼핑을 즐기세요. 제2 우정의 다리를 건너 라오스 사반나켓 당일치기 여행도 가능합니다.",
-      "whereToStay": "묵다한의 매력은 강변 방갈로 숙소에 있습니다. 메콩강변의 아기자기한 방갈로에서 강 풍경을 즐기며 머물 수 있습니다. 시내에도 예산 호텔이 있습니다.",
-      "gettingAround": "묵다한은 컴팩트한 도시로 도보로 충분히 이동 가능합니다. 강변 산책로, 시장, 주요 명소가 모두 걸어서 갈 수 있는 거리에 있습니다.",
-      "bestTimeToVisit": "묵다한의 최적 방문 시기는 11월부터 2월까지의 건기입니다. 서늘하고 쾌적하며, 로이끄라통 축제(11월)를 즐길 수 있습니다.",
-      "safetyTips": "묵다한은 매우 안전한 도시입니다. 라오스 국경을 건널 때는 여권과 비자를 확인하세요. 메콩강변에서 밤 산책 시 어두운 구간에 주의하세요.",
-      "translated_at": "2026-03-14T00:00:00.000Z"
+  "travel_tips": [
+    "One or two nights is the right first Mukdahan stay for most travelers.",
+    "Keep the trip in layers: riverfront core, one hilltop stop, and at most one longer province day.",
+    "Do not make the Laos-border angle the whole story unless you are actually crossing or continuing to Savannakhet.",
+    "Use a car or driver for Phu Pha Thoep, Kaeng Kabao, or Ban Song Khon side trips; the province is larger than the city feels.",
+    "Recheck current opening and access locally for Ho Kaeo, Phu Manorom, and any park or temple stop where local operations can shift."
+  ],
+  "best_time_to_visit": {
+    "season": "November to February is the easiest overall window because the riverfront is more comfortable, longer drives are less draining, and Mekong views are usually clearer.",
+    "weather": "Hot season can still work for a short city stay, but midday sightseeing gets harder. Rain makes the province greener, though road and riverside conditions become more variable.",
+    "reasons": "Mukdahan is strongest when you can comfortably split time between the riverfront and one real excursion instead of hiding from the heat or improvising around weather."
+  },
+  "budget_info": {
+    "daily_budget": {
+      "budget": "A budget Mukdahan stay is realistic with a simple room, local restaurants, and a city-first plan that avoids unnecessary day-trip transport.",
+      "mid": "Mid-range spending usually means a stronger riverfront or boutique hotel, one or two sit-down meals, and a deliberate day trip to Phu Pha Thoep or Kaeng Kabao.",
+      "luxury": "Higher spend in Mukdahan usually comes from hotel choice and private transport, not from city-center food or attraction prices."
     }
   },
-  "extended_description": "## Overview\nMukdahan is one of those Mekong River towns that rewards travelers who slow down. Sitting directly across the water from Savannakhet in Laos, connected by the Thai-Lao Second Friendship Bridge, this quiet Isaan city offers a genuine slice of northeastern Thai life without a tourist trap in sight. The star attraction is the extraordinary Wat Roi Phra Phutthabat Phu Manorom complex on the hill above town, where a giant colorful Naga statue rises from volcanic-looking rock alongside an enormous white Big Buddha that surveys the Mekong River, the city below, and Laos beyond. The Indochina Market on the riverfront is a treasure trove of Vietnamese goods, Lao imports, and local handicrafts. Mukdahan sits on the Mekong trail between Nakhon Phanom and Ubon Ratchathani, making it a natural stop for travelers exploring the river route through deep Isaan.\n\n## Best Time to Visit\nNovember through February is the sweet spot — cool temperatures (18-28°C), clear skies, and the Mekong at a manageable level for scenic views. Loy Krathong in November is magical here, with illuminated krathong floating down the Mekong against the backdrop of Savannakhet's lights across the river. The Illuminated Boat Procession during Ok Phansa (usually October) is another spectacular event. March through May is extremely hot (35-42°C) and hazy from agricultural burning. The rainy season (June-October) swells the Mekong dramatically — interesting to see but limits some riverside activities.\n\n## How to Get There\nMukdahan has no airport. The nearest airports are Ubon Ratchathani (170 km south, 2.5h drive, flights from Bangkok 1,500-3,000 THB) and Nakhon Phanom (190 km north, 3h drive, flights from Bangkok 1,500-3,000 THB). Direct buses from Bangkok's Mo Chit Terminal run overnight (9-11 hours, 450-700 THB). From Khon Kaen, buses take 4-5 hours (200-280 THB). From Ubon Ratchathani, minivans depart frequently (2.5h, 150-200 THB). The Second Friendship Bridge connects to Savannakhet, Laos — cross by bus (50 THB) for a day trip with a visa on arrival (1,500 THB for most nationalities at the Lao border).\n\n## Where to Stay\nThe Mekong riverfront is the best area, with several charming riverside bungalow resorts that are Mukdahan's signature accommodation style — wooden bungalows set along the river bank with sunset views over Laos. Expect 600-1,500 THB/night ($17-42) for riverside bungalows. In town, budget hotels near the Indochina Market start from 400-600 THB/night ($11-17). The Ploy Palace Hotel in the center offers reliable mid-range rooms from 800-1,200 THB ($22-33). Mukdahan Tower Hotel provides the best views in town from its upper floors. The town is compact — wherever you stay, everything is walkable.\n\n## What to Do\nBegin at the hilltop Wat Roi Phra Phutthabat Phu Manorom complex where the massive white Big Buddha and the colorful Naga statue offer panoramic Mekong views — free entrance, best at sunrise or sunset. Walk the Mekong Riverside Promenade from Ho Kaew Tower (Mukdahan Tower, a distinctive local landmark) south along the river for sunset views. The Indochina Market (open daily 8am-5pm) stretches along the riverfront selling Vietnamese coffee, dried goods, Lao whisky, textiles, silverware, and affordable souvenirs — bargaining is expected. Cross the Second Friendship Bridge to Savannakhet for a day trip exploring French colonial architecture and Lao street food. Mukdahan National Park (16 km south) features unusual mushroom-shaped rock formations, sandstone cliffs, and prehistoric cave paintings at Pha Taem.\n\n## Food & Dining\nMukdahan is a serious Isaan food town. The city is famous for moo yor — a local pork sausage with a finer texture and more delicate spicing than other regional versions (available everywhere, 30-60 THB per package). Riverside restaurants serve grilled Mekong fish with salt crust (80-180 THB for a whole fish), fiery som tam, sticky rice, and laab. The morning market near the Indochina Market area has Vietnamese-influenced banh mi-style sandwiches and strong Vietnamese drip coffee for 20-30 THB. Evening dining along the river promenade offers craft beer at several newer bar-restaurants where you can watch the Mekong turn gold at sunset — expect 60-150 THB for beer and 80-200 THB for food. The night market near the Indochina Market area fires up on weekends.\n\n## Budget Guide\nMukdahan is very budget-friendly. Backpackers manage on 500-800 THB/day ($14-22): basic hotel, market food, riverside walks, and free temple visits. Mid-range travelers spend 1,200-2,000 THB/day ($33-55) with bungalow stays, restaurant meals, and a Savannakhet day trip. The Laos border crossing adds about 1,600-2,000 THB (visa on arrival + bus fare). The main attractions — Naga Temple, Big Buddha, promenade, Indochina Market — are all free. Shopping at the Indochina Market is where most money goes, with Vietnamese coffee, textiles, and souvenirs from 50-500 THB.\n\n## Safety & Tips\nMukdahan is an extremely safe city. If crossing to Laos, bring your passport and ensure you have the correct visa documentation — Thai visa on arrival for Laos costs 1,500 THB for most nationalities at the border. The bridge bus to Savannakhet runs during daylight hours only. The Mekong has strong currents — do not swim in the river. During the hot season, the hilltop temple complex is exposed and brutally hot — bring water and visit early morning or late afternoon. The Indochina Market vendors speak basic English and prices are already reasonable, but gentle bargaining (10-20% off) is expected. Download offline maps — cellular coverage in town is fine but can drop at the national park.",
-  "getting_there": {
-    "from_bangkok": {
-      "method": "Overnight bus direct or fly to Ubon/Nakhon Phanom + minivan",
-      "duration": "9-11h bus / 3.5-4h via flight",
-      "cost": "450-700 THB bus / 2,000-4,000 THB via flight"
-    },
-    "airport": "N/A (nearest: Ubon Ratchathani 2.5h or Nakhon Phanom 3h)"
-  },
-  "best_time": {
-    "peak": "Nov-Feb",
-    "shoulder": "Jun-Oct",
-    "low": "Mar-May",
-    "best_months": "Nov-Feb",
-    "why": "Cool weather, Loy Krathong on the Mekong in November, clear Mekong views, and the Illuminated Boat Procession in October."
-  },
-  "budget": {
-    "backpacker": "$14-22/day",
-    "mid_range": "$33-55/day",
-    "luxury": "$55+/day",
-    "typical_meal": "30-60 THB market food, 80-200 THB riverside restaurant"
-  },
-  "neighborhoods": [
+  "thingsToDo": "Start with Ho Kaeo and the Mekong side of town, then add Phu Manorom as the main near-city hilltop stop. If you have more time, pick one longer province excursion such as Phu Pha Thoep National Park or Kaeng Kabao rather than trying to force the whole province into one day.",
+  "whereToStay": "If you want the classic Mukdahan rhythm, stay near the riverfront and market side so the evening walk and dinner flow naturally. If the stop is mainly about road convenience, a simpler chain or roadside boutique hotel can work better than paying extra for a Mekong-facing address you will barely use.",
+  "whereToEat": [
     {
-      "name": "Mekong Riverfront / Bungalow Area",
-      "vibe": "Scenic, relaxed, sunset views over Laos",
-      "best_for": "Atmosphere, riverside bungalow stays",
-      "price_range": "$17-42/night"
+      "name": "VT Naem Nueng Mukdahan",
+      "cuisine": "Vietnamese",
+      "priceRange": "Budget to mid-range",
+      "description": "One of the clearest border-city food picks for keeping Mukdahan's Vietnamese side visible in the trip."
     },
     {
-      "name": "Town Center / Indochina Market Area",
-      "vibe": "Market bustle, walkable, budget-friendly",
-      "best_for": "Shopping, street food, budget travelers",
-      "price_range": "$11-22/night"
+      "name": "Baan Lao Yuan Na Rim Kong",
+      "cuisine": "Lao-Vietnamese and Thai",
+      "priceRange": "Budget to mid-range",
+      "description": "A riverfront restaurant name from the official Mukdahan directory that fits a Mekong-side dinner plan well."
+    },
+    {
+      "name": "Sawan Sumran",
+      "cuisine": "Thai and local specialties",
+      "priceRange": "Budget to mid-range",
+      "description": "A practical riverside dinner stop if you want to stay near the Mekong after dark."
+    },
+    {
+      "name": "Rattiya Jaew Hon",
+      "cuisine": "Jaew hon and hotpot",
+      "priceRange": "Budget",
+      "description": "A straightforward local dinner choice for a more casual evening."
+    },
+    {
+      "name": "Mae Muk Charcoal Grill",
+      "cuisine": "Charcoal grill",
+      "priceRange": "Budget",
+      "description": "A useful grill-focused dinner stop that gives the page something more local than cafe filler."
     }
   ],
-  "must_try_food": [
-    "Moo yor - Mukdahan-style pork sausage with finer texture and delicate spicing, a local specialty sold everywhere (30-60 THB)",
-    "Grilled Mekong river fish - whole fish with salt crust, charcoal-grilled and served with spicy dipping sauce at riverside restaurants (80-180 THB)",
-    "Vietnamese drip coffee - strong and sweet, sold at the morning market near the Indochina Market for 20-30 THB"
+  "gettingAround": "Mukdahan's riverfront core is easy enough for walking once you are in the center, especially around Ho Kaeo, the market side, and the main Mekong roads. The Friendship Bridge viewpoint is a short drive north, while Phu Manorom, Phu Pha Thoep, Kaeng Kabao, and Ban Song Khon all work better by car or hired driver. The city is compact, but the province is not.",
+  "bestTimeToVisit": "The cool season from November to February is the easiest overall fit for Mukdahan because evening walks, bridge viewpoints, and longer province drives are more comfortable. Hot season can still work for a short city stay if you focus on early and late windows. In the rainy season the province is greener, but park and road conditions deserve a local recheck before committing to longer drives.",
+  "safetyTips": "Mukdahan is generally low-key and easygoing, but border-town practicalities matter more than nightlife risks. Carry border documents only when you really need them, dress properly for temple visits at Phu Manorom and Wat Si Mongkhon Tai, and do not treat the Mekong edge as a swimming area. For longer drives outside the city, start earlier than you think and recheck weather in the rainy season.",
+  "faq": [
+    {
+      "question": "How many nights do you need in Mukdahan?",
+      "answer": "One night works for a riverfront and Phu Manorom pass, but two nights is the stronger first trip because it separates the city core from one longer province day."
+    },
+    {
+      "question": "Is Mukdahan worth visiting if you are not crossing into Laos?",
+      "answer": "Yes. The bridge and riverfront still matter even if you never cross, because they explain the city's border-town identity and shape the best parts of the stay."
+    },
+    {
+      "question": "What is the best attraction near Mukdahan city itself?",
+      "answer": "For most travelers it is Phu Manorom, because it adds the strongest hilltop panorama and Mekong-basin perspective without requiring a full province road day."
+    },
+    {
+      "question": "Do you need a car in Mukdahan?",
+      "answer": "Not for the riverfront core itself, but it becomes much more useful once you add Phu Manorom, Phu Pha Thoep, Kaeng Kabao, or any wider province circuit."
+    },
+    {
+      "question": "What food should you prioritize in Mukdahan?",
+      "answer": "Keep the border-city angle visible: one Vietnamese or Lao-Vietnamese meal, one practical local dinner such as jaew hon or grill, and at least one riverfront evening."
+    }
   ],
-  "local_tips": [
-    "Visit the Big Buddha and Naga Temple at sunset for the best Mekong panorama and lighting for photographs",
-    "The Indochina Market is best on weekend mornings when the full range of vendors is present — go early before the heat",
-    "Cross to Savannakhet, Laos for a half-day trip — the French colonial architecture and Lao coffee shops are worth the border crossing",
-    "Walk the full Mekong promenade from Ho Kaew Tower southward at golden hour for the best riverside experience",
-    "Try multiple moo yor vendors to find your favorite — quality varies and locals each have their preferred supplier"
+  "practicalInfo": {
+    "arrival": "Most travelers still reach Mukdahan by road. The Laos connection is important to the city's identity, but border procedures and cross-border planning should always be checked directly before you build a route around them.",
+    "transport": "Walk the city core, then use a car or driver for anything beyond the immediate riverfront and tower area.",
+    "planning": "Think in layers: riverfront city core, one hilltop stop, and at most one longer province day."
+  },
+  "contentSources": [
+    {
+      "type": "tourism-office",
+      "title": "Mukdahan e-brochure",
+      "creator": "Tourism Authority of Thailand",
+      "url": "https://www.wisatathailand.id/images/booklet/E-Brochure%20Mukdahan%20%28Eng%29%20%281%29.pdf",
+      "description": "Used for official province framing around Ho Kaeo Mukdahan, Phu Pha Thoep National Park, the Friendship Bridge viewpoint, Wat Si Mongkhon Tai, and Kaeng Kabao-side landmark context."
+    },
+    {
+      "type": "tourism-office",
+      "title": "Spiritural places to visit for blessing in 2025",
+      "creator": "Tourism Authority of Thailand",
+      "url": "https://www.tourismthailand.org/Articles/spiritural-places-to-visit-for-blessing-in-2025",
+      "description": "Used for current official wording and visitor-hour context around Wat Roi Phra Phutthabat Phu Manorom."
+    },
+    {
+      "type": "provincial-office",
+      "title": "Mukdahan official restaurant directory",
+      "creator": "Mukdahan Province",
+      "url": "https://m.mukdahan.go.th/?p=5098",
+      "description": "Used for the official restaurant inventory including Baan Lao Yuan Na Rim Kong, Sawan Sumran, Narin Restaurant, Rattiya Jaew Hon, Mae Muk, and Mae Yor."
+    },
+    {
+      "type": "hotel",
+      "title": "HOP INN Mukdahan",
+      "creator": "HOP INN Thailand",
+      "url": "https://www.hopinnhotel.com/our-hotels/hop-inn-mukdahan",
+      "description": "Used for direct hotel details, address context, and room-count confirmation."
+    },
+    {
+      "type": "restaurant",
+      "title": "VT Naem Nueng Mukdahan",
+      "creator": "HOP INN Thailand",
+      "url": "https://www.hopinnhotel.com/hop-around-the-city/vt-naem-nueng-mukdahan",
+      "description": "Used for current official city-guide positioning around VT Naem Nueng Mukdahan."
+    },
+    {
+      "type": "hotel",
+      "title": "Hotel de Ladda",
+      "creator": "Hotel de Ladda",
+      "url": "https://hoteldeladda.com/",
+      "description": "Used for direct official hotel positioning on the Mekong bank and city-center context."
+    },
+    {
+      "type": "hotel",
+      "title": "Riverfront Hotel Mukdahan",
+      "creator": "Riverfront Hotel Mukdahan",
+      "url": "https://www.riverfrontmukdahan.com/home.html",
+      "description": "Used for direct hotel details around room types, breakfast, Wi-Fi, and location by the Mekong and Indochina Market."
+    },
+    {
+      "type": "hotel",
+      "title": "Ploy Palace Hotel",
+      "creator": "Ploy Palace Hotel",
+      "url": "https://www.ploypalace.com/",
+      "description": "Used for direct official hotel details including room count, rooftop restaurant, and central-city facilities."
+    },
+    {
+      "type": "hotel",
+      "title": "Bird Day Boutique Hotel",
+      "creator": "Bird Day Boutique Hotel",
+      "url": "https://www.birddayhotel.com/en",
+      "description": "Used for direct official location details near Big C Mukdahan and the bus-terminal side of the city."
+    }
   ],
-  "day_trips": [
-    "Savannakhet, Laos (across the bridge) - French colonial town with Lao street food and Buddhist temples",
-    "Mukdahan National Park (16 km south) - mushroom-shaped rock formations, sandstone cliffs, prehistoric cave paintings",
-    "Phu Pha Thoep National Park (16 km south) - sandstone formations and viewpoints overlooking the Mekong valley",
-    "That Phanom (100 km north) - sacred Lao-style golden stupa, one of Isaan's most important Buddhist sites",
-    "Nakhon Phanom (190 km north) - Vietnamese heritage, Ho Chi Minh House, sunset Mekong cruises"
-  ],
-  "enriched_at": "2026-03-22"
+  "reviewed_by": "Go2Thailand Editorial Team",
+  "enhanced_at": "2026-03-26T00:00:00.000Z",
+  "enrichedAt": "2026-03-26T00:00:00.000Z",
+  "factchecked_at": "2026-03-26T00:00:00.000Z"
 }

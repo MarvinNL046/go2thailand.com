@@ -1,0 +1,74 @@
+{
+  "id": 2,
+  "slug": "ho-kaeo-mukdahan",
+  "name": {
+    "en": "Ho Kaeo Mukdahan",
+    "nl": "Ho Kaeo Mukdahan"
+  },
+  "type": "museum",
+  "city_slug": "mukdahan",
+  "address": "Si Bun Rueang sub-district, Mueang Mukdahan District, Mukdahan",
+  "location": null,
+  "opening_hours": "Official Mukdahan tourism material lists daytime daily opening; recheck the current schedule locally before relying on exact hours.",
+  "entrance_fee": {
+    "thb": null,
+    "usd": null
+  },
+  "description": {
+    "en": "Mukdahan's orientation tower, with city history, eight-ethnic-group context, and a wide Mekong-border view from the top.",
+    "nl": "De orientatietoren van Mukdahan, met stadsgeschiedenis, context over acht etnische groepen en een breed Mekong-grensuitzicht vanaf boven."
+  },
+  "highlights": [
+    "Observation deck",
+    "City-history exhibits",
+    "Strong first-stop logic"
+  ],
+  "image": "/images/cities/generated/mukdahan.webp",
+  "seo": {
+    "metaTitle": {
+      "en": "Ho Kaeo Mukdahan | Go2Thailand",
+      "nl": "Ho Kaeo Mukdahan | Go2Thailand"
+    },
+    "metaDescription": {
+      "en": "Why Ho Kaeo is the best first-stop tower for understanding Mukdahan's Mekong-border geography and city layout.",
+      "nl": "Waarom Ho Kaeo de beste eerste stop is om Mukdahans Mekong-geografie en stadsstructuur te begrijpen."
+    }
+  },
+  "tags": [
+    "mukdahan",
+    "ho-kaeo",
+    "tower",
+    "museum",
+    "mekong"
+  ],
+  "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=Ho%20Kaeo%20Mukdahan",
+  "best_time": "late morning or afternoon",
+  "duration_hours": 1.5,
+  "enhanced_description": "Ho Kaeo is the stop that turns Mukdahan from a vague border city into a place you can actually read. The tower matters because it combines city history, the eight-ethnic-group framing used in official tourism material, and the view that ties Mukdahan to the Mekong and Savannakhet.\n\nThat combination makes it the best first attraction in town. If you do Ho Kaeo early, the riverfront, bridge viewpoint, and even the logic of a later Phu Manorom trip all become easier to place.",
+  "detailed_history": "The official Mukdahan brochure still presents Ho Kaeo as the place where the former city's history, important antiques, and the clothing of Mukdahan's eight Thai ethnic groups are collected and shown together.",
+  "visitor_experience": "Expect a practical city-orientation stop rather than a long museum day. The view from the observation level is the real payoff, especially if you want to understand how the river, bridge, and city core sit in relation to each other.",
+  "best_time_to_visit": {
+    "time_of_day": "Late morning or afternoon in clear weather",
+    "duration": "About 60 to 90 minutes",
+    "crowd_level": "Usually light to moderate"
+  },
+  "practical_info": {
+    "how_to_get_there": "Easy to fold into a city-core itinerary by short ride or on-foot movement depending on your hotel base.",
+    "nearby_attractions": "The Mekong riverfront, Indochina Market side, Wat Si Mongkhon Tai, and the Friendship Bridge viewpoint.",
+    "food_options": "Use the city center for meals before or after the tower.",
+    "shopping": "Keep shopping expectations for the market side rather than for the tower itself."
+  },
+  "insider_tips": [
+    "Do this before your riverfront walk if possible.",
+    "Use the top view to simplify the rest of the itinerary.",
+    "Recheck current ticketing and hours locally because operating details can change."
+  ],
+  "verified_note": "Source-backed summary based on official Mukdahan tourism material. Ticketing and opening details should be rechecked locally.",
+  "cultural_significance": "Ho Kaeo is one of the clearest civic identity sites in Mukdahan because it links the province's historical story, ethnic-composition framing, and Mekong-border viewpoint in one structure.",
+  "contentSources": [
+    {
+      "name": "Mukdahan e-brochure",
+      "url": "https://www.wisatathailand.id/images/booklet/E-Brochure%20Mukdahan%20%28Eng%29%20%281%29.pdf"
+    }
+  ]
+}

@@ -1,208 +1,143 @@
 {
   "title": "Best Restaurants in Mukdahan Thailand (2026)",
-  "meta_description": "The 10 best restaurants in Mukdahan, Thailand with real ratings and guest reviews from tripadvisor. Updated 2026-03-08.",
-  "intro": "Discover the best restaurants in Mukdahan, Thailand. These recommendations are based on real guest reviews and ratings from tripadvisor.",
+  "meta_description": "The Mukdahan restaurants that still make sense: Vietnamese-border classics, a couple of Mekong-side dinner names, and local hotpot or grill stops backed by official sources instead of review spam.",
+  "intro": "Mukdahan food is stronger when you stop pretending the city needs a giant ranking list. The better move is a short, source-backed set built around Vietnamese-border influence, one or two Mekong-side dinners, and practical local evening meals that fit the city's slower rhythm.",
   "items": [
     {
       "rank": 1,
-      "name": "Nut Pob Restaurant",
-      "description": "Nut Pob Restaurant is a 4.3-rated Asian, Thai restaurant in Mukdahan. located at Mukdahan.",
-      "location": "Mukdahan",
-      "current_price": "$$ - $$$",
-      "highlights": [],
-      "insider_tips": [],
-      "current_info": "Cuisine: Asian, Thai • Price: $$ - $$$ • Rating: 4.3/5 • 13 reviews",
-      "scraped": {
-        "source": "tripadvisor",
-        "cuisine": "Asian, Thai",
-        "price_range": "$$ - $$$",
-        "rating": 4.3,
-        "review_count": 13,
-        "address": "Mukdahan",
-        "scraped_at": "2026-03-08T17:16:03.887Z"
-      },
-      "trip_affiliate_url": "https://tp.media/r?marker=602467&trs=421888&p=7631&u=https%3A%2F%2Fwww.trip.com%2Fhotels%2Flist%3Fkeyword%3DNut%2520Pob%2520Restaurant%2520Mukdahan"
+      "name": "VT Naem Nueng Mukdahan",
+      "description": "One of the clearest source-backed restaurants in Mukdahan if you want the city's Vietnamese-border food identity to show up directly in the itinerary.",
+      "location": "Mukdahan city",
+      "current_price": "Budget to mid-range",
+      "highlights": [
+        "Official HOP INN city-guide listing",
+        "Strong Vietnamese angle",
+        "Useful lunch or early dinner"
+      ],
+      "insider_tips": [
+        "Use this for a proper sit-down meal instead of treating it as a quick snack stop."
+      ],
+      "current_info": "HOP INN's current Mukdahan city guide still positions VT Naem Nueng as a well-known Vietnamese stop near the hotel."
     },
     {
       "rank": 2,
-      "name": "Sawan Sumran",
-      "description": "Sawan Sumran is a 3.9-rated Asian, Thai restaurant in Mukdahan. located at Mukdahan.",
-      "location": "Mukdahan",
-      "current_price": "$$ - $$$",
-      "highlights": [],
-      "insider_tips": [],
-      "current_info": "Cuisine: Asian, Thai • Price: $$ - $$$ • Rating: 3.9/5 • 32 reviews",
-      "scraped": {
-        "source": "tripadvisor",
-        "cuisine": "Asian, Thai",
-        "price_range": "$$ - $$$",
-        "rating": 3.9,
-        "review_count": 32,
-        "address": "Mukdahan",
-        "scraped_at": "2026-03-08T17:16:03.887Z"
-      },
-      "trip_affiliate_url": "https://tp.media/r?marker=602467&trs=421888&p=7631&u=https%3A%2F%2Fwww.trip.com%2Fhotels%2Flist%3Fkeyword%3DSawan%2520Sumran%2520Mukdahan"
+      "name": "Baan Lao Yuan Na Rim Kong",
+      "description": "A Mekong-side restaurant from the official Mukdahan directory that helps the food page stay tied to the riverfront and border-city identity.",
+      "location": "Mekong riverfront",
+      "current_price": "Budget to mid-range",
+      "highlights": [
+        "Official province restaurant listing",
+        "Riverfront positioning",
+        "Good for a first evening meal"
+      ],
+      "insider_tips": [
+        "Best used as part of the riverfront walk rather than as a separate destination."
+      ],
+      "current_info": "The official Mukdahan province restaurant directory continues to list Baan Lao Yuan Na Rim Kong among the city's named dining picks."
     },
     {
       "rank": 3,
-      "name": "Thai Kitchen & Ice Cream Jai Jai Mukdahan",
-      "description": "Thai Kitchen & Ice Cream Jai Jai Mukdahan is a 5-rated Pizza, Thai restaurant in Mukdahan. located at Mukdahan.",
-      "location": "Mukdahan",
-      "highlights": [],
-      "insider_tips": [],
-      "current_info": "Cuisine: Pizza, Thai • Rating: 5/5 • 2 reviews",
-      "scraped": {
-        "source": "tripadvisor",
-        "cuisine": "Pizza, Thai",
-        "rating": 5,
-        "review_count": 2,
-        "address": "Mukdahan",
-        "scraped_at": "2026-03-08T17:16:03.887Z"
-      },
-      "trip_affiliate_url": "https://tp.media/r?marker=602467&trs=421888&p=7631&u=https%3A%2F%2Fwww.trip.com%2Fhotels%2Flist%3Fkeyword%3DThai%2520Kitchen%2520%2526%2520Ice%2520Cream%2520Jai%2520Jai%2520Mukdahan%2520Mukdahan"
+      "name": "Sawan Sumran",
+      "description": "A practical riverside dinner name from the official Mukdahan directory when you want to stay on the Mekong side after dark.",
+      "location": "Samran Chai Khong South Road",
+      "current_price": "Budget to mid-range",
+      "highlights": [
+        "Official province restaurant listing",
+        "Useful evening riverfront slot",
+        "Fits a slower pace"
+      ],
+      "insider_tips": [
+        "Keep this for the evening riverfront window rather than a rushed day-trip lunch."
+      ],
+      "current_info": "Mukdahan's official restaurant inventory still includes Sawan Sumran on the city's Mekong side."
     },
     {
       "rank": 4,
       "name": "Narin Restaurant",
-      "description": "Narin Restaurant is a 4.2-rated Thai restaurant in Mukdahan. located at Mukdahan.",
-      "location": "Mukdahan",
-      "highlights": [],
-      "insider_tips": [],
-      "current_info": "Cuisine: Thai • Rating: 4.2/5 • 6 reviews",
-      "scraped": {
-        "source": "tripadvisor",
-        "cuisine": "Thai",
-        "rating": 4.2,
-        "review_count": 6,
-        "address": "Mukdahan",
-        "scraped_at": "2026-03-08T17:16:03.887Z"
-      },
-      "trip_affiliate_url": "https://tp.media/r?marker=602467&trs=421888&p=7631&u=https%3A%2F%2Fwww.trip.com%2Fhotels%2Flist%3Fkeyword%3DNarin%2520Restaurant%2520Mukdahan"
+      "description": "A dependable local sit-down option from the official Mukdahan directory that gives the list a solid everyday Thai-Isaan dinner anchor.",
+      "location": "Mukdahan city",
+      "current_price": "Budget to mid-range",
+      "highlights": [
+        "Official province restaurant listing",
+        "Practical dinner fallback",
+        "Useful for a no-fuss meal"
+      ],
+      "insider_tips": [
+        "This is the sort of place to use when you want a proper meal without turning dinner into a hunt."
+      ],
+      "current_info": "The official Mukdahan province restaurant directory still lists Narin Restaurant among the city's established names."
     },
     {
       "rank": 5,
-      "name": "Rattiya Restaurant",
-      "description": "Rattiya Restaurant is a 4-rated Thai restaurant in Mukdahan. located at Mukdahan.",
-      "location": "Mukdahan",
-      "highlights": [],
-      "insider_tips": [],
-      "current_info": "Cuisine: Thai • Rating: 4/5 • 4 reviews",
-      "scraped": {
-        "source": "tripadvisor",
-        "cuisine": "Thai",
-        "rating": 4,
-        "review_count": 4,
-        "address": "Mukdahan",
-        "scraped_at": "2026-03-08T17:16:03.887Z"
-      },
-      "trip_affiliate_url": "https://tp.media/r?marker=602467&trs=421888&p=7631&u=https%3A%2F%2Fwww.trip.com%2Fhotels%2Flist%3Fkeyword%3DRattiya%2520Restaurant%2520Mukdahan"
+      "name": "Rattiya Jaew Hon",
+      "description": "A smarter local-style evening pick than generic cafe filler if you want a jaew-hon or hotpot dinner after a day on the road.",
+      "location": "Mukdahan city",
+      "current_price": "Budget",
+      "highlights": [
+        "Official province restaurant listing",
+        "Hotpot and jaew-hon logic",
+        "Better for a relaxed evening"
+      ],
+      "insider_tips": [
+        "Save this for a cooler evening or a second-night dinner rather than for a hurried lunch."
+      ],
+      "current_info": "Mukdahan's official restaurant directory still includes Rattiya Jaew Hon in the city's current dining inventory."
     },
     {
       "rank": 6,
-      "name": "Chef Krai Italian Seafood",
-      "description": "Chef Krai Italian Seafood is a 5-rated Italian, Thai restaurant in Mukdahan. located at Mukdahan.",
-      "location": "Mukdahan",
-      "highlights": [],
-      "insider_tips": [],
-      "current_info": "Cuisine: Italian, Thai • Rating: 5/5 • 1 reviews",
-      "scraped": {
-        "source": "tripadvisor",
-        "cuisine": "Italian, Thai",
-        "rating": 5,
-        "review_count": 1,
-        "address": "Mukdahan",
-        "scraped_at": "2026-03-08T17:16:03.887Z"
-      },
-      "trip_affiliate_url": "https://tp.media/r?marker=602467&trs=421888&p=7631&u=https%3A%2F%2Fwww.trip.com%2Fhotels%2Flist%3Fkeyword%3DChef%2520Krai%2520Italian%2520Seafood%2520Mukdahan"
+      "name": "Mae Muk Charcoal Grill",
+      "description": "A charcoal-grill beef stop from the official Mukdahan directory that keeps the page grounded in real local dinner patterns.",
+      "location": "Mukdahan city",
+      "current_price": "Budget",
+      "highlights": [
+        "Official province restaurant listing",
+        "Grill-focused dinner option",
+        "Good contrast to the Vietnamese picks"
+      ],
+      "insider_tips": [
+        "Best used when you want something more direct and local than another riverfront sit-down meal."
+      ],
+      "current_info": "The official Mukdahan province restaurant inventory still lists Mae Muk Charcoal Grill among the city's named food stops."
     },
     {
       "rank": 7,
-      "name": "Goodmook Traveller Cafe",
-      "description": "Goodmook Traveller Cafe is a 4.4-rated Coffee & Tea, Cafe restaurant in Mukdahan. located at Mukdahan.",
-      "location": "Mukdahan",
-      "current_price": "$$ - $$$",
-      "highlights": [],
-      "insider_tips": [],
-      "current_info": "Cuisine: Coffee & Tea, Cafe • Price: $$ - $$$ • Rating: 4.4/5 • 7 reviews",
-      "scraped": {
-        "source": "tripadvisor",
-        "cuisine": "Coffee & Tea, Cafe",
-        "price_range": "$$ - $$$",
-        "rating": 4.4,
-        "review_count": 7,
-        "address": "Mukdahan",
-        "scraped_at": "2026-03-08T17:16:03.887Z"
-      },
-      "trip_affiliate_url": "https://tp.media/r?marker=602467&trs=421888&p=7631&u=https%3A%2F%2Fwww.trip.com%2Fhotels%2Flist%3Fkeyword%3DGoodmook%2520Traveller%2520Cafe%2520Mukdahan"
-    },
-    {
-      "rank": 8,
-      "name": "Krua Thai Lao",
-      "description": "Krua Thai Lao is a 3.9-rated Thai restaurant in Mukdahan. located at Mukdahan.",
-      "location": "Mukdahan",
-      "current_price": "$$ - $$$",
-      "highlights": [],
-      "insider_tips": [],
-      "current_info": "Cuisine: Thai • Price: $$ - $$$ • Rating: 3.9/5 • 11 reviews",
-      "scraped": {
-        "source": "tripadvisor",
-        "cuisine": "Thai",
-        "price_range": "$$ - $$$",
-        "rating": 3.9,
-        "review_count": 11,
-        "address": "Mukdahan",
-        "scraped_at": "2026-03-08T17:16:03.887Z"
-      },
-      "trip_affiliate_url": "https://tp.media/r?marker=602467&trs=421888&p=7631&u=https%3A%2F%2Fwww.trip.com%2Fhotels%2Flist%3Fkeyword%3DKrua%2520Thai%2520Lao%2520Mukdahan"
-    },
-    {
-      "rank": 9,
-      "name": "Kantakann Steak & Milk",
-      "description": "Kantakann Steak & Milk is a 4-rated Steakhouse, Thai restaurant in Mukdahan. located at Mukdahan.",
-      "location": "Mukdahan",
-      "highlights": [],
-      "insider_tips": [],
-      "current_info": "Cuisine: Steakhouse, Thai • Rating: 4/5 • 5 reviews",
-      "scraped": {
-        "source": "tripadvisor",
-        "cuisine": "Steakhouse, Thai",
-        "rating": 4,
-        "review_count": 5,
-        "address": "Mukdahan",
-        "scraped_at": "2026-03-08T17:16:03.887Z"
-      },
-      "trip_affiliate_url": "https://tp.media/r?marker=602467&trs=421888&p=7631&u=https%3A%2F%2Fwww.trip.com%2Fhotels%2Flist%3Fkeyword%3DKantakann%2520Steak%2520%2526%2520Milk%2520Mukdahan"
-    },
-    {
-      "rank": 10,
-      "name": "Krua Un Chan",
-      "description": "Krua Un Chan is a 3.8-rated Thai restaurant in Mukdahan. located at Mukdahan.",
-      "location": "Mukdahan",
-      "current_price": "$$ - $$$",
-      "highlights": [],
-      "insider_tips": [],
-      "current_info": "Cuisine: Thai • Price: $$ - $$$ • Rating: 3.8/5 • 8 reviews",
-      "scraped": {
-        "source": "tripadvisor",
-        "cuisine": "Thai",
-        "price_range": "$$ - $$$",
-        "rating": 3.8,
-        "review_count": 8,
-        "address": "Mukdahan",
-        "scraped_at": "2026-03-08T17:16:03.887Z"
-      },
-      "trip_affiliate_url": "https://tp.media/r?marker=602467&trs=421888&p=7631&u=https%3A%2F%2Fwww.trip.com%2Fhotels%2Flist%3Fkeyword%3DKrua%2520Un%2520Chan%2520Mukdahan"
+      "name": "Mae Yor Vietnamese Restaurant",
+      "description": "A useful second Vietnamese-border option from the official Mukdahan directory if you want that part of the city's food identity to stay visible.",
+      "location": "Mukdahan city",
+      "current_price": "Budget to mid-range",
+      "highlights": [
+        "Official province restaurant listing",
+        "Vietnamese focus",
+        "Good two-night stay option"
+      ],
+      "insider_tips": [
+        "Use this when you want the food page to show more range than one single Vietnamese restaurant."
+      ],
+      "current_info": "Mukdahan's official restaurant directory still includes Mae Yor Vietnamese Restaurant in the current city list."
     }
   ],
   "city_slug": "mukdahan",
   "city_name": "Mukdahan",
   "category": "restaurants",
-  "data_sources": [
-    "tripadvisor",
-    "scraped"
+  "content_sources": [
+    {
+      "title": "Mukdahan official restaurant directory",
+      "creator": "Mukdahan Province",
+      "url": "https://m.mukdahan.go.th/?p=5098",
+      "description": "Used for the official restaurant inventory including Baan Lao Yuan Na Rim Kong, Sawan Sumran, Narin Restaurant, Rattiya Jaew Hon, Mae Muk, and Mae Yor."
+    },
+    {
+      "title": "VT Naem Nueng Mukdahan",
+      "creator": "HOP INN Thailand",
+      "url": "https://www.hopinnhotel.com/hop-around-the-city/vt-naem-nueng-mukdahan",
+      "description": "Used for current official city-guide positioning around VT Naem Nueng Mukdahan."
+    }
   ],
-  "last_scraped": "2026-03-08T17:16:03.887Z",
-  "generated_at": "2026-03-08T17:16:03.896Z",
-  "hybrid": false,
-  "scraped": true
+  "data_sources": [
+    "Mukdahan Province",
+    "HOP INN Thailand"
+  ],
+  "generated_at": "2026-03-26T00:00:00.000Z",
+  "factchecked_at": "2026-03-26T00:00:00.000Z",
+  "hybrid": false
 }

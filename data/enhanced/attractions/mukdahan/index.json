@@ -1,146 +1,163 @@
 {
   "city_slug": "mukdahan",
   "city_name": "Mukdahan",
-  "total_attractions": 5,
+  "total_attractions": 6,
   "attractions": [
     {
       "id": 1,
-      "slug": "naga-temple-big-buddha",
+      "slug": "wat-roi-phra-phutthabat-phu-manorom",
       "name": {
-        "en": "Naga Temple & Big Buddha",
-        "nl": "Naga Tempel & Grote Boeddha"
+        "en": "Wat Roi Phra Phutthabat Phu Manorom",
+        "nl": "Wat Roi Phra Phutthabat Phu Manorom"
       },
       "type": "temple",
-      "image": "/images/cities/chiangmai/chiang-mai-temple.webp",
+      "image": "/images/cities/generated/mukdahan.webp",
       "description": {
-        "en": "Hilltop temple complex featuring a giant colorful Naga statue on lava-like rock with red prayer ribbons and an enormous white Big Buddha with panoramic views over Mukdahan, the Mekong, and Laos. Free entry with free shuttle bus up the hill.",
-        "nl": "Tempelcomplex op een heuvel met een reusachtig kleurrijk Naga-beeld op lavagesteente met rode gebedslintjes en een enorme witte Grote Boeddha met panoramisch uitzicht over Mukdahan, de Mekong en Laos. Gratis toegang met gratis shuttlebus de heuvel op."
+        "en": "The strongest near-city hilltop stop for Mukdahan, combining the big white Buddha, the long turquoise Naga, and a real Mekong-basin view.",
+        "nl": "De sterkste heuvelstop dicht bij de stad, met de grote witte Boeddha, de lange turquoise Naga en een echt uitzicht over het Mekongbekken."
       },
       "entrance_fee": {
-        "thb": 0,
-        "usd": 0
+        "thb": null,
+        "usd": null
       },
-      "googleMapsUrl": "https://maps.app.goo.gl/kLKzoAEVtLkNc",
+      "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=Wat%20Roi%20Phra%20Phutthabat%20Phu%20Manorom%20Mukdahan",
       "highlights": [
-        "Giant Naga statue",
-        "White Big Buddha",
-        "Panoramic Mekong views",
-        "Free shuttle bus",
-        "Red prayer ribbons"
+        "Big white Buddha",
+        "Turquoise Naga",
+        "Best near-city Mekong overview"
       ],
-      "best_time": "morning",
+      "best_time": "morning or late afternoon",
       "duration_hours": 2
     },
     {
       "id": 2,
-      "slug": "mekong-riverside-promenade",
+      "slug": "ho-kaeo-mukdahan",
       "name": {
-        "en": "Mekong Riverside Promenade",
-        "nl": "Mekong Rivierpromenade"
+        "en": "Ho Kaeo Mukdahan",
+        "nl": "Ho Kaeo Mukdahan"
       },
-      "type": "nature",
-      "image": "/images/cities/chiangmai/chiang-mai-park.webp",
+      "type": "museum",
+      "image": "/images/cities/generated/mukdahan.webp",
       "description": {
-        "en": "Relaxing riverside walkway along the Mekong with views of Savannakhet, Laos across the water. Perfect for evening strolls, sunset watching, and soaking in Mukdahan's laid-back atmosphere.",
-        "nl": "Ontspannende wandelpromenade langs de Mekong met uitzicht op Savannakhet, Laos aan de overkant. Perfect voor avondwandelingen, zonsondergangen en het opzuigen van Mukdahans ontspannen sfeer."
+        "en": "Mukdahan's orientation tower, with city history, eight-ethnic-group context, and a wide Mekong-border view from the top.",
+        "nl": "De oriëntatietoren van Mukdahan, met stadsgeschiedenis, context over acht etnische groepen en een breed Mekong-uitzicht vanaf boven."
       },
       "entrance_fee": {
-        "thb": 0,
-        "usd": 0
+        "thb": null,
+        "usd": null
       },
+      "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=Ho%20Kaeo%20Mukdahan",
       "highlights": [
-        "Mekong River views",
-        "Savannakhet (Laos) across the river",
-        "Sunset watching",
-        "Evening strolls"
+        "Observation deck",
+        "City-history exhibits",
+        "Strong first-stop logic"
       ],
-      "best_time": "evening",
-      "duration_hours": 1.5,
-      "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=Mekong%20Riverside%20Promenade%20Mukdahan%20Thailand"
+      "best_time": "late morning or afternoon",
+      "duration_hours": 1.5
     },
     {
       "id": 3,
-      "slug": "loy-krathong-mekong",
+      "slug": "second-thai-lao-friendship-bridge-viewpoint",
       "name": {
-        "en": "Loy Krathong on the Mekong",
-        "nl": "Loy Krathong op de Mekong"
+        "en": "Second Thai-Lao Friendship Bridge Viewpoint",
+        "nl": "Uitkijkpunt Tweede Thai-Lao Vriendschapsbrug"
       },
-      "type": "culture",
-      "image": "/images/cities/chiangmai/chiang-mai-temple.webp",
+      "type": "viewpoint",
+      "image": "/images/cities/generated/mukdahan.webp",
       "description": {
-        "en": "Beautiful full moon celebration in November where families float krathongs (banana leaf or fish food boats, 20 THB) on the Mekong. A magical family-oriented festival with children fishing out krathongs hoping for money.",
-        "nl": "Prachtige volle maanviering in november waarbij families krathongs (bootjes van bananenblad of visvoer, 20 THB) op de Mekong laten drijven. Een magisch familiefeest waarbij kinderen krathongs opvissen in de hoop geld te vinden."
+        "en": "The clearest place to understand Mukdahan as a border city, with bridge views, Mekong scenery, and a small evening walking-street layer nearby.",
+        "nl": "De duidelijkste plek om Mukdahan als grensstad te begrijpen, met brugzicht, Mekong-uitzicht en een kleine avond-walking-street in de buurt."
       },
       "entrance_fee": {
-        "thb": 20,
-        "usd": 0.6
+        "thb": null,
+        "usd": null
       },
+      "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=Second%20Thai-Lao%20Friendship%20Bridge%20Viewpoint%20Mukdahan",
       "highlights": [
-        "Full moon celebration",
-        "Floating krathongs",
-        "Family atmosphere",
-        "Mekong riverside",
-        "November tradition"
+        "Bridge panorama",
+        "Mekong walkway",
+        "Best near sunset"
       ],
-      "best_time": "evening",
-      "duration_hours": 3,
-      "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=Loy%20Krathong%20on%20the%20Mekong%20Mukdahan%20Thailand"
+      "best_time": "late afternoon or evening",
+      "duration_hours": 1.5
     },
     {
       "id": 4,
-      "slug": "riverside-craft-beer-dining",
+      "slug": "phu-pha-thoep-national-park",
       "name": {
-        "en": "Riverside Craft Beer & Dining",
-        "nl": "Craft Bier & Dineren aan de Rivier"
+        "en": "Phu Pha Thoep National Park",
+        "nl": "Phu Pha Thoep National Park"
       },
-      "type": "food",
-      "image": "/images/cities/chiangmai/chiang-mai-park.webp",
+      "type": "nature",
+      "image": "/images/cities/generated/mukdahan.webp",
       "description": {
-        "en": "Lively craft beer tent and riverside restaurants with live music on the Mekong riverbank. Enjoy cold beers, Isaan classics like laab and sticky rice, and kale with pork belly while watching the sunset over Laos.",
-        "nl": "Gezellige craft biertent en rivierrestaurants met livemuziek aan de Mekong. Geniet van koud bier, Isaan-klassiekers zoals laab en kleefrijst, en boerenkool met buikspek terwijl je de zonsondergang over Laos bekijkt."
+        "en": "Mukdahan's main sandstone-landscape day trip, with shaped rock formations, viewpoints, and a more serious nature layer than the city itself offers.",
+        "nl": "De belangrijkste zandsteen-natuurdagtrip van Mukdahan, met gevormde rotsen, uitzichtpunten en een serieuzere natuurlaag dan de stad zelf biedt."
       },
       "entrance_fee": {
-        "thb": 0,
-        "usd": 0
+        "thb": null,
+        "usd": null
       },
+      "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=Phu%20Pha%20Thoep%20National%20Park%20Mukdahan",
       "highlights": [
-        "Craft beer tent",
-        "Live music",
-        "Isaan cuisine",
-        "Mekong sunset views",
-        "Laab and sticky rice"
+        "Sandstone formations",
+        "Viewpoints",
+        "Best serious nature day"
       ],
-      "best_time": "evening",
-      "duration_hours": 2,
-      "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=Riverside%20Craft%20Beer%20%26%20Dining%20Mukdahan%20Thailand"
+      "best_time": "morning",
+      "duration_hours": 3.5
     },
     {
       "id": 5,
-      "slug": "mukdahan-mekong-bungalows",
+      "slug": "kaeng-kabao",
       "name": {
-        "en": "Mukdahan Mekong Bungalows Area",
-        "nl": "Mukdahan Mekong Bungalows Gebied"
+        "en": "Kaeng Kabao",
+        "nl": "Kaeng Kabao"
       },
-      "type": "relaxation",
-      "image": "/images/cities/chiangmai/chiang-mai-park.webp",
+      "type": "nature",
+      "image": "/images/cities/generated/mukdahan.webp",
       "description": {
-        "en": "Charming riverside bungalow area directly on the Mekong with gardens, beanbags under shady trees, and a peaceful path to town. Bungalows from 800 THB/night with executive huts at 1,200 THB.",
-        "nl": "Charmant bungalowgebied direct aan de Mekong met tuinen, zitzakken onder schaduwrijke bomen en een rustig pad naar de stad. Bungalows vanaf 800 THB/nacht met executive hutten voor 1.200 THB."
+        "en": "A slower Mekong-side excursion zone with park atmosphere and one of Mukdahan province's most important Naga landmarks.",
+        "nl": "Een tragere Mekong-uitstapzone met parksfeer en een van de belangrijkste Naga-landmarks van de provincie Mukdahan."
       },
       "entrance_fee": {
-        "thb": 0,
-        "usd": 0
+        "thb": null,
+        "usd": null
       },
-      "googleMapsUrl": "https://maps.app.goo.gl/dm2wzZSCB54re",
+      "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=Kaeng%20Kabao%20Mukdahan",
       "highlights": [
-        "Mekong riverside",
-        "Garden bungalows",
-        "Beanbags under trees",
-        "Quiet atmosphere",
-        "Budget-friendly"
+        "Mekong-side detour",
+        "Phaya Si Phuchong Mukda Nakkharat",
+        "Good half-day outing"
       ],
-      "best_time": "all day",
-      "duration_hours": 0
+      "best_time": "late morning or afternoon",
+      "duration_hours": 2.5
+    },
+    {
+      "id": 6,
+      "slug": "wat-si-mongkhon-tai",
+      "name": {
+        "en": "Wat Si Mongkhon Tai",
+        "nl": "Wat Si Mongkhon Tai"
+      },
+      "type": "temple",
+      "image": "/images/cities/generated/mukdahan.webp",
+      "description": {
+        "en": "A riverfront heritage temple that adds sacred and historical depth to the city core without demanding a separate province drive.",
+        "nl": "Een erfgoedtempel aan de rivier die heilige en historische diepte toevoegt aan de stadskern zonder aparte provincierit."
+      },
+      "entrance_fee": {
+        "thb": null,
+        "usd": null
+      },
+      "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=Wat%20Si%20Mongkhon%20Tai%20Mukdahan",
+      "highlights": [
+        "Riverfront temple",
+        "Locally sacred Buddha image",
+        "Easy city-core add-on"
+      ],
+      "best_time": "late morning or late afternoon",
+      "duration_hours": 1
     }
   ]
 }
