@@ -1,51 +1,77 @@
 {
-  "id": 1,
+  "id": 3,
   "slug": "ho-chi-minh-house",
   "name": {
-    "en": "Ho Chi Minh House Museum",
-    "nl": "Ho Chi Minh Huis Museum"
+    "en": "Ho Chi Minh House",
+    "nl": "Ho Chi Minh Huis"
   },
-  "type": "culture",
+  "type": "museum",
   "city_slug": "nakhon-phanom",
-  "address": "Nakhon Phanom, Thailand",
+  "address": "Nakhon Phanom city",
   "location": null,
-  "opening_hours": null,
+  "opening_hours": "TAT's walking-tour material still treats this as a current heritage stop, but exact daily hours should be rechecked locally before you build the day around it.",
   "entrance_fee": {
-    "thb_thai": 30,
-    "thb_foreigner": 200,
-    "usd_foreigner": 6
+    "thb": null,
+    "usd": null
   },
   "description": {
-    "en": "Reconstructed wooden house where Vietnamese revolutionary Ho Chi Minh lived in exile during the 1920s, hiding from French colonial authorities while organizing independence movements. The museum preserves original furniture and is surrounded by fruit gardens — pomelo, guava, and jackfruit trees — planted by Ho Chi Minh himself.",
-    "nl": "Gereconstrueerd houten huis waar de Vietnamese revolutionair Ho Chi Minh in de jaren 1920 in ballingschap leefde, op de vlucht voor de Franse koloniale autoriteiten terwijl hij onafhankelijkheidsbewegingen organiseerde. Het museum bewaart origineel meubilair en is omgeven door fruittuinen — pomelo, guave en jackfruitbomen — eigenhandig geplant door Ho Chi Minh."
+    "en": "The clearest city-core heritage stop for understanding the Vietnamese historical thread in Nakhon Phanom.",
+    "nl": "De duidelijkste erfgoedstop in de stad om de Vietnamese historische laag van Nakhon Phanom te begrijpen."
   },
   "highlights": [
-    "Original furniture",
-    "Hand-planted fruit gardens",
-    "Vietnamese independence history",
-    "Reconstructed wooden house"
+    "Vietnamese-history layer",
+    "City-core heritage stop",
+    "Best paired with Vietnamese food"
   ],
-  "image": "/images/cities/chiangmai/chiang-mai-temple.webp",
-  "official_website": null,
+  "image": "/images/cities/generated/nakhon-phanom.webp",
   "seo": {
     "metaTitle": {
-      "en": "Ho Chi Minh House Museum - Top Attraction in Nakhon Phanom | Go2Thailand",
-      "nl": "Ho Chi Minh Huis Museum - Top Attractie in Nakhon Phanom | Go2Thailand"
+      "en": "Ho Chi Minh House | Go2Thailand",
+      "nl": "Ho Chi Minh Huis | Go2Thailand"
     },
     "metaDescription": {
-      "en": "Discover Ho Chi Minh House Museum in Nakhon Phanom. Reconstructed wooden house where Vietnamese revolutionary Ho Chi Minh lived in exile during the 1920s, hiding from French colonial authorities while organizing independence movements. The museum preserves original furniture and is surrounded by fruit gardens — pomelo, guava, and jackfruit trees — planted by Ho Chi Minh himself.",
-      "nl": "Ontdek Ho Chi Minh Huis Museum in Nakhon Phanom. Gereconstrueerd houten huis waar de Vietnamese revolutionair Ho Chi Minh in de jaren 1920 in ballingschap leefde, op de vlucht voor de Franse koloniale autoriteiten terwijl hij onafhankelijkheidsbewegingen organiseerde. Het museum bewaart origineel meubilair en is omgeven door fruittuinen — pomelo, guave en jackfruitbomen — eigenhandig geplant door Ho Chi Minh."
+      "en": "Why Ho Chi Minh House is one of the key heritage stops in Nakhon Phanom's Vietnamese-history layer.",
+      "nl": "Waarom Ho Chi Minh Huis een van de belangrijkste erfgoedstops is in de Vietnamese historische laag van Nakhon Phanom."
     }
   },
   "tags": [
-    "culture",
     "nakhon-phanom",
-    "thailand",
-    "attraction",
-    "travel",
-    "tourism"
+    "ho-chi-minh-house",
+    "vietnamese-heritage",
+    "museum"
   ],
-  "googleMapsUrl": "https://maps.app.goo.gl/NCZ15bb4pxr76",
+  "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=Ho%20Chi%20Minh%20House%20Nakhon%20Phanom",
   "best_time": "morning",
-  "duration_hours": 1.5
+  "duration_hours": 1.5,
+  "enhanced_description": "Ho Chi Minh House matters because it prevents Nakhon Phanom's Vietnamese story from staying abstract. Once you see it inside the city-core route, the food, the memorial clock tower, and the broader Mekong-border history start to connect in a more concrete way.\n\nIt works best as part of a heritage-and-food block, not as a separate deep-history detour. That keeps the stop useful for most travelers without pretending the city needs an oversized museum itinerary.",
+  "detailed_history": "TAT's current walking-tour material still includes Ho Chi Minh House inside the city's core route, which is a strong signal that the site remains one of the main public-facing heritage anchors in Nakhon Phanom.",
+  "visitor_experience": "Expect a compact heritage stop rather than a long museum day. The real value is in how it sharpens the rest of the city: the Vietnamese Memorial Clock Tower, nearby food planning, and the wider sense that Nakhon Phanom is not only a scenic river town.",
+  "best_time_to_visit": {
+    "time_of_day": "Morning",
+    "duration": "About 60 to 90 minutes",
+    "crowd_level": "Usually light"
+  },
+  "practical_info": {
+    "how_to_get_there": "Best folded into a city-core route by short ride or on-foot movement depending on your hotel base.",
+    "nearby_attractions": "Vietnamese Memorial Clock Tower, Wat Mahathat, and the riverfront core.",
+    "food_options": "Pair it with Sri Thep Vietnamese Dumplings, Vietnamese Kitchen, or another heritage-food stop.",
+    "shopping": "Treat this as a heritage visit, not a shopping stop."
+  },
+  "insider_tips": [
+    "Do it on the same day as the Vietnamese Memorial Clock Tower if you want the heritage thread to feel coherent.",
+    "It reads better with a food stop than as a stand-alone museum-only outing.",
+    "Recheck local hours on arrival because heritage-site operations can shift."
+  ],
+  "verified_note": "Source-backed summary based on current TAT province coverage and broader official Nakhon Phanom city guidance. Day-of hours should be rechecked locally.",
+  "cultural_significance": "Ho Chi Minh House helps explain why Vietnamese influence in Nakhon Phanom is still visible in both heritage stops and the city's food identity.",
+  "contentSources": [
+    {
+      "name": "Power Up Your Life and Sightseeing",
+      "url": "https://www.tourismthailand.org/Articles/power-up-your-life-and-sightseeing"
+    },
+    {
+      "name": "Nakhon Phanom province page",
+      "url": "https://www.tourismthailand.org/Destinations/Provinces/Nakhon-Phanom/579"
+    }
+  ]
 }

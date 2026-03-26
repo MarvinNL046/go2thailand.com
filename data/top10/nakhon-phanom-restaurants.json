@@ -1,204 +1,104 @@
 {
   "title": "Best Restaurants in Nakhon Phanom Thailand (2026)",
-  "meta_description": "The 10 best restaurants in Nakhon Phanom, Thailand with real ratings and guest reviews from tripadvisor. Updated 2026-03-08.",
-  "intro": "Discover the best restaurants in Nakhon Phanom, Thailand. These recommendations are based on real guest reviews and ratings from tripadvisor.",
+  "meta_description": "The Nakhon Phanom restaurants that still matter: Vietnamese breakfast classics, one river-linked noodle stop, and a few strong TAT-curated local names instead of review spam.",
+  "intro": "Nakhon Phanom food gets much stronger once you stop treating the city like a generic riverside ranking exercise. The better shortlist is short and source-backed: Vietnamese breakfast, a Mekong-linked noodle stop, one more Vietnamese meal, one stronger local noodle counterweight, and one Isaan dinner name that prevents the page from collapsing into copy-paste cafe filler.",
   "items": [
     {
       "rank": 1,
-      "name": "Chelsea Riverside restaurant",
-      "description": "Chelsea Riverside restaurant is a 4.2-rated Asian, Thai restaurant in Nakhon Phanom.",
-      "location": "Nakhon Phanom",
-      "current_price": "$$ - $$$",
-      "highlights": [],
-      "insider_tips": [],
-      "current_info": "Cuisine: Asian, Thai • Price: $$ - $$$ • Rating: 4.2/5 • 51 reviews",
-      "scraped": {
-        "source": "tripadvisor",
-        "cuisine": "Asian, Thai",
-        "price_range": "$$ - $$$",
-        "rating": 4.2,
-        "review_count": 51,
-        "scraped_at": "2026-03-08T17:16:42.958Z"
-      },
-      "trip_affiliate_url": "https://tp.media/r?marker=602467&trs=421888&p=7631&u=https%3A%2F%2Fwww.trip.com%2Fhotels%2Flist%3Fkeyword%3DChelsea%2520Riverside%2520restaurant%2520Nakhon%2520Phanom"
+      "name": "Sri Thep Vietnamese Dumplings",
+      "description": "The clearest breakfast-style Vietnamese stop in TAT's current Nakhon Phanom lineup and one of the strongest ways to keep the city's heritage food visible from the start.",
+      "location": "Nakhon Phanom city",
+      "current_price": "Budget",
+      "highlights": [
+        "TAT Foodie Map pick",
+        "Pak mor and dipping-sauce focus",
+        "Best in the morning"
+      ],
+      "insider_tips": [
+        "Use this as breakfast or an early light meal, not as a generic anytime stop."
+      ],
+      "current_info": "TAT's 2024 Foodie Map still presents Sri Thep as a long-running Vietnamese-influenced restaurant known for handmade dough and a strong house dipping sauce."
     },
     {
       "rank": 2,
-      "name": "Chomchan",
-      "description": "Chomchan is a 4.9-rated Thai restaurant in Nakhon Phanom.",
-      "location": "Nakhon Phanom",
-      "highlights": [],
-      "insider_tips": [],
-      "current_info": "Cuisine: Thai • Rating: 4.9/5 • 9 reviews",
-      "scraped": {
-        "source": "tripadvisor",
-        "cuisine": "Thai",
-        "rating": 4.9,
-        "review_count": 9,
-        "scraped_at": "2026-03-08T17:16:42.958Z"
-      },
-      "trip_affiliate_url": "https://tp.media/r?marker=602467&trs=421888&p=7631&u=https%3A%2F%2Fwww.trip.com%2Fhotels%2Flist%3Fkeyword%3DChomchan%2520Nakhon%2520Phanom"
+      "name": "Kuay Teow Moo Pla Pho Luk Song",
+      "description": "A stronger noodle stop than generic downtown filler because TAT's current write-up ties it directly to the Mekong fish story of the province.",
+      "location": "Nakhon Phanom city",
+      "current_price": "Budget",
+      "highlights": [
+        "TAT Foodie Map pick",
+        "Pla pho fish noodles",
+        "Good lunch or late breakfast"
+      ],
+      "insider_tips": [
+        "Best used during the day as part of the heritage-and-food loop."
+      ],
+      "current_info": "TAT's Foodie Map frames this shop through pla pho fish and pork-bone broth, which helps the food page stay tied to place."
     },
     {
       "rank": 3,
-      "name": "River Bar and Restaurant",
-      "description": "River Bar and Restaurant is a 3.8-rated Bar, Asian restaurant in Nakhon Phanom.",
-      "location": "Nakhon Phanom",
-      "current_price": "$$ - $$$",
-      "highlights": [],
-      "insider_tips": [],
-      "current_info": "Cuisine: Bar, Asian • Price: $$ - $$$ • Rating: 3.8/5 • 24 reviews",
-      "scraped": {
-        "source": "tripadvisor",
-        "cuisine": "Bar, Asian",
-        "price_range": "$$ - $$$",
-        "rating": 3.8,
-        "review_count": 24,
-        "scraped_at": "2026-03-08T17:16:42.958Z"
-      },
-      "trip_affiliate_url": "https://tp.media/r?marker=602467&trs=421888&p=7631&u=https%3A%2F%2Fwww.trip.com%2Fhotels%2Flist%3Fkeyword%3DRiver%2520Bar%2520and%2520Restaurant%2520Nakhon%2520Phanom"
+      "name": "Vietnamese Kitchen",
+      "description": "A second current TAT-curated Vietnamese restaurant that helps a two-night stay show more range than one single breakfast classic.",
+      "location": "Nakhon Phanom city",
+      "current_price": "Budget to mid-range",
+      "highlights": [
+        "TAT Foodie Map pick",
+        "Useful second Vietnamese meal",
+        "Good lunch or dinner"
+      ],
+      "insider_tips": [
+        "Use this to keep the Vietnamese angle visible beyond the morning meal."
+      ],
+      "current_info": "TAT's current Nakhon Phanom restaurant lineup still includes Vietnamese Kitchen among the city's must-eat names."
     },
     {
       "rank": 4,
-      "name": "Kitchen Khong",
-      "description": "Kitchen Khong is a 4.3-rated Thai restaurant in Nakhon Phanom.",
-      "location": "Nakhon Phanom",
-      "current_price": "$$ - $$$",
-      "highlights": [],
-      "insider_tips": [],
-      "current_info": "Cuisine: Thai • Price: $$ - $$$ • Rating: 4.3/5 • 4 reviews",
-      "scraped": {
-        "source": "tripadvisor",
-        "cuisine": "Thai",
-        "price_range": "$$ - $$$",
-        "rating": 4.3,
-        "review_count": 4,
-        "scraped_at": "2026-03-08T17:16:42.958Z"
-      },
-      "trip_affiliate_url": "https://tp.media/r?marker=602467&trs=421888&p=7631&u=https%3A%2F%2Fwww.trip.com%2Fhotels%2Flist%3Fkeyword%3DKitchen%2520Khong%2520Nakhon%2520Phanom"
+      "name": "Khanom Jeen Pisamai",
+      "description": "A useful counterweight to the Vietnamese names when you want one meal grounded more directly in local noodle tradition.",
+      "location": "Nakhon Phanom province",
+      "current_price": "Budget",
+      "highlights": [
+        "TAT Foodie Map pick",
+        "Khanom jeen focus",
+        "Good daytime stop"
+      ],
+      "insider_tips": [
+        "Better folded into a daytime route than saved for late evening."
+      ],
+      "current_info": "TAT's Foodie Map still presents Khanom Jeen Pisamai as a long-running noodle stop built around fermented-rice-noodle local flavor."
     },
     {
       "rank": 5,
-      "name": "Viewkong restaurant",
-      "description": "Viewkong restaurant is a 3.8-rated Asian, Thai restaurant in Nakhon Phanom.",
-      "location": "Nakhon Phanom",
-      "current_price": "$$ - $$$",
-      "highlights": [],
-      "insider_tips": [],
-      "current_info": "Cuisine: Asian, Thai • Price: $$ - $$$ • Rating: 3.8/5 • 31 reviews",
-      "scraped": {
-        "source": "tripadvisor",
-        "cuisine": "Asian, Thai",
-        "price_range": "$$ - $$$",
-        "rating": 3.8,
-        "review_count": 31,
-        "scraped_at": "2026-03-08T17:16:42.958Z"
-      },
-      "trip_affiliate_url": "https://tp.media/r?marker=602467&trs=421888&p=7631&u=https%3A%2F%2Fwww.trip.com%2Fhotels%2Flist%3Fkeyword%3DViewkong%2520restaurant%2520Nakhon%2520Phanom"
-    },
-    {
-      "rank": 6,
-      "name": "Sabaidee Nakhonphanom",
-      "description": "Sabaidee Nakhonphanom is a 4.1-rated Thai, Healthy restaurant in Nakhon Phanom.",
-      "location": "Nakhon Phanom",
-      "current_price": "$$ - $$$",
-      "highlights": [],
-      "insider_tips": [],
-      "current_info": "Cuisine: Thai, Healthy • Price: $$ - $$$ • Rating: 4.1/5 • 8 reviews",
-      "scraped": {
-        "source": "tripadvisor",
-        "cuisine": "Thai, Healthy",
-        "price_range": "$$ - $$$",
-        "rating": 4.1,
-        "review_count": 8,
-        "scraped_at": "2026-03-08T17:16:42.958Z"
-      },
-      "trip_affiliate_url": "https://tp.media/r?marker=602467&trs=421888&p=7631&u=https%3A%2F%2Fwww.trip.com%2Fhotels%2Flist%3Fkeyword%3DSabaidee%2520Nakhonphanom%2520Nakhon%2520Phanom"
-    },
-    {
-      "rank": 7,
-      "name": "Ruean Rim Nam Restaurant",
-      "description": "Ruean Rim Nam Restaurant is a 4-rated Thai restaurant in Nakhon Phanom.",
-      "location": "Nakhon Phanom",
-      "current_price": "$$ - $$$",
-      "highlights": [],
-      "insider_tips": [],
-      "current_info": "Cuisine: Thai • Price: $$ - $$$ • Rating: 4/5 • 12 reviews",
-      "scraped": {
-        "source": "tripadvisor",
-        "cuisine": "Thai",
-        "price_range": "$$ - $$$",
-        "rating": 4,
-        "review_count": 12,
-        "scraped_at": "2026-03-08T17:16:42.958Z"
-      },
-      "trip_affiliate_url": "https://tp.media/r?marker=602467&trs=421888&p=7631&u=https%3A%2F%2Fwww.trip.com%2Fhotels%2Flist%3Fkeyword%3DRuean%2520Rim%2520Nam%2520Restaurant%2520Nakhon%2520Phanom"
-    },
-    {
-      "rank": 8,
-      "name": "Pla Chum Chom Khong Restaurant",
-      "description": "Pla Chum Chom Khong Restaurant is a 5-rated Thai, Indigenous restaurant in Nakhon Phanom.",
-      "location": "Nakhon Phanom",
-      "highlights": [],
-      "insider_tips": [],
-      "current_info": "Cuisine: Thai, Indigenous • Rating: 5/5 • 1 reviews",
-      "scraped": {
-        "source": "tripadvisor",
-        "cuisine": "Thai, Indigenous",
-        "rating": 5,
-        "review_count": 1,
-        "scraped_at": "2026-03-08T17:16:42.958Z"
-      },
-      "trip_affiliate_url": "https://tp.media/r?marker=602467&trs=421888&p=7631&u=https%3A%2F%2Fwww.trip.com%2Fhotels%2Flist%3Fkeyword%3DPla%2520Chum%2520Chom%2520Khong%2520Restaurant%2520Nakhon%2520Phanom"
-    },
-    {
-      "rank": 9,
-      "name": "Nang Naem Nueang",
-      "description": "Nang Naem Nueang is a 4-rated Vietnamese restaurant in Nakhon Phanom.",
-      "location": "Nakhon Phanom",
-      "current_price": "$$ - $$$",
-      "highlights": [],
-      "insider_tips": [],
-      "current_info": "Cuisine: Vietnamese • Price: $$ - $$$ • Rating: 4/5 • 20 reviews",
-      "scraped": {
-        "source": "tripadvisor",
-        "cuisine": "Vietnamese",
-        "price_range": "$$ - $$$",
-        "rating": 4,
-        "review_count": 20,
-        "scraped_at": "2026-03-08T17:16:42.959Z"
-      },
-      "trip_affiliate_url": "https://tp.media/r?marker=602467&trs=421888&p=7631&u=https%3A%2F%2Fwww.trip.com%2Fhotels%2Flist%3Fkeyword%3DNang%2520Naem%2520Nueang%2520Nakhon%2520Phanom"
-    },
-    {
-      "rank": 10,
-      "name": "Meringue Bakery and Cafe,Nakhon Phanom",
-      "description": "Meringue Bakery and Cafe,Nakhon Phanom is a 3.6-rated Bakeries, Thai restaurant in Nakhon Phanom.",
-      "location": "Nakhon Phanom",
-      "current_price": "$$ - $$$",
-      "highlights": [],
-      "insider_tips": [],
-      "current_info": "Cuisine: Bakeries, Thai • Price: $$ - $$$ • Rating: 3.6/5 • 9 reviews",
-      "scraped": {
-        "source": "tripadvisor",
-        "cuisine": "Bakeries, Thai",
-        "price_range": "$$ - $$$",
-        "rating": 3.6,
-        "review_count": 9,
-        "scraped_at": "2026-03-08T17:16:42.959Z"
-      },
-      "trip_affiliate_url": "https://tp.media/r?marker=602467&trs=421888&p=7631&u=https%3A%2F%2Fwww.trip.com%2Fhotels%2Flist%3Fkeyword%3DMeringue%2520Bakery%2520and%2520Cafe%252CNakhon%2520Phanom%2520Nakhon%2520Phanom"
+      "name": "Yat Larb Ped",
+      "description": "The strongest current TAT-listed duck-and-Isaan dinner name if you want one meal that feels more savory and local than another soft-landing cafe.",
+      "location": "Nakhon Phanom city",
+      "current_price": "Budget to mid-range",
+      "highlights": [
+        "TAT Foodie Map pick",
+        "Duck signature dishes",
+        "Useful evening meal"
+      ],
+      "insider_tips": [
+        "A good second-night dinner when you want the page to show more than Vietnamese breakfast culture."
+      ],
+      "current_info": "TAT's current write-up highlights Yat Larb Ped through duck dishes and ingredients sourced from local farmers."
     }
   ],
   "city_slug": "nakhon-phanom",
   "city_name": "Nakhon Phanom",
   "category": "restaurants",
-  "data_sources": [
-    "tripadvisor",
-    "scraped"
+  "content_sources": [
+    {
+      "title": "Explore Thai taste Thai foodie map 2.0",
+      "creator": "Tourism Authority of Thailand",
+      "url": "https://www.tourismthailand.org/Articles/explore-thai-taste-thai-foodie-map-2-0-en",
+      "description": "Used for TAT's current curated Nakhon Phanom restaurant lineup and supporting dish descriptions."
+    }
   ],
-  "last_scraped": "2026-03-08T17:16:42.959Z",
-  "generated_at": "2026-03-08T17:16:42.968Z",
-  "hybrid": false,
-  "scraped": true
+  "data_sources": [
+    "Tourism Authority of Thailand"
+  ],
+  "generated_at": "2026-03-26T00:00:00.000Z",
+  "factchecked_at": "2026-03-26T00:00:00.000Z",
+  "hybrid": false
 }

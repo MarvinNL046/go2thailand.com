@@ -15,23 +15,24 @@
   "region": "Isaan",
   "province": "Nakhon Phanom",
   "description": {
-    "en": "A beautiful Mekong riverside city with deep Vietnamese cultural connections, stunning Lao-style golden stupas, incredible Vietnamese-Thai fusion food, and one of the most scenic river promenades in Thailand.",
-    "nl": "Een prachtige stad aan de Mekong met diepe Vietnamese culturele banden, prachtige Laotiaanse gouden stupa's, ongelooflijke Vietnamees-Thaise fusiongerechten en een van de mooiste rivierpromenades van Thailand.",
-    "ja": "メコン川沿いの美しい街ナコーンパノムは、ベトナム文化との深い結びつき、壮大なプラタート・パノム仏塔、そして穏やかな川沿いの風景が魅力です。",
-    "ko": "베트남 문화와의 깊은 유대, 멋진 라오스 양식 황금 불탑, 베트남-태국 퓨전 음식, 태국에서 가장 아름다운 강변 산책로 중 하나가 있는 메콩강변의 아름다운 도시입니다.",
-    "th": "เมืองแห่งวิวแม่น้ำโขง มีพระธาตุพนม เรือไฟ และบรรยากาศริมน้ำอันสงบ",
-    "de": "Eine wunderschöne Stadt am Mekongufer mit tiefen vietnamesischen kulturellen Verbindungen, beeindruckenden Stupas im Lao-Stil aus Gold, unglaublichem vietnamesisch-thailändischem Fusionsessen und einer der landschaftlich schönsten Uferpromenaden Thailands.",
-    "fr": "Une belle ville au bord du Mékong, avec de profondes connexions culturelles vietnamiennes, des stupas dorés au style lao époustouflants, une incroyable cuisine fusion vietnamienne-thaïlandaise et l'une des promenades les plus pittoresques le long du fleuve en Thaïlande.",
-    "ru": "Прекрасный город на берегу Меконга с глубокой вьетнамской культурной связью, впечатляющими ступами лаосского стиля, потрясающей фьюжн-кухней вьетнамо-тайского направления и одной из самых живописных набережных Таиланда.",
-    "zh": "一座美丽的湄公河畔城市，拥有深厚的越南文化渊源、令人惊叹的老挝风格金色佛塔、令人难以置信的越南-泰国融合美食，以及泰国最风景如画的河畔长廊之一。"
+    "en": "Nakhon Phanom works best as a walkable Mekong city with a Vietnamese-heritage core first, then one deliberate outer-province temple or river stop. The strongest first trip combines the riverfront, Wat Mahathat, Ho Chi Minh House, and Vietnamese-led food before you decide whether Phra That Phanom or another province stop deserves the extra drive.",
+    "nl": "Nakhon Phanom werkt het best als een beloopbare Mekongstad met eerst een Vietnamese erfgoedkern en daarna hooguit een bewuste extra tempel- of rivieruitstap in de provincie.",
+    "ja": "メコン川沿いの静かな旧市街、ベトナム系コミュニティの食文化、そしてプラタート・パノムへ続く信仰の流れが重なる、タイ東北部でも独特の空気を持つ町です。",
+    "ko": "메콩 강변 산책, 베트남계 음식 문화, 그리고 프라탓 파놈으로 이어지는 신앙 동선이 겹치는 이산의 차분한 강변 도시입니다.",
+    "th": "นครพนมเหมาะกับการเที่ยวแบบค่อยเป็นค่อยไป เริ่มจากเมืองริมน้ำโขง ย่านวัฒนธรรมเวียดนาม และค่อยต่อด้วยพระธาตุสำคัญนอกเมืองอย่างมีจังหวะ",
+    "de": "Nakhon Phanom funktioniert am besten als gut begehbare Mekong-Stadt mit vietnamesischem Kulturerbe im Stadtkern und einem gezielt gewahlten Tempel- oder Flussausflug auBerhalb der Stadt.",
+    "fr": "Nakhon Phanom se visite mieux comme une ville marchable du Mekong, avec un coeur marque par l'heritage vietnamien puis une seule grande sortie religieuse ou fluviale hors du centre.",
+    "ru": "Накхон Пханом лучше всего воспринимать как компактный город на Меконге с заметным вьетнамским наследием и лишь одной осмысленной выездной святыней за пределами центра.",
+    "zh": "那空帕侬最适合按“步行河城 + 越南文化核心 + 一次认真外出寺庙行程”的逻辑来规划，而不是把整省硬塞进一趟行程里。"
   },
   "population": 80000,
   "highlights": [
-    "Ho Chi Minh House Museum",
-    "Mekong Promenade & Golden Naga",
-    "Vietnamese-Thai Fusion Food",
-    "Sunset Boat Cruises",
-    "Lao-style Golden Stupas"
+    "Phaya Sisattanakarat riverfront",
+    "Wat Mahathat (Phrathat Nakhon)",
+    "Ho Chi Minh House",
+    "Vietnamese Memorial Clock Tower",
+    "Saint Anna Nong Saeng Catholic Church",
+    "Wat Phra That Phanom Woramahawihan"
   ],
   "location": {
     "lat": 17.3947,
@@ -40,48 +41,48 @@
   "image": "/images/cities/generated/nakhon-phanom.webp",
   "seo": {
     "metaTitle": {
-      "en": "Discover Nakhon Phanom | Mekong River City Guide",
-      "nl": "Ontdek Nakhon Phanom | Mekong Rivierstad Gids",
-      "ja": "ナコーンパノムを満喫 | メコン川沿いの街ガイド",
-      "ko": "나콘파놈 태국 — 메콩강변 도시 여행 가이드 2026",
-      "th": "นครพนม ประเทศไทย — คู่มือท่องเที่ยวฉบับสมบูรณ์ 2026",
-      "de": "Entdecken Sie Nakhon Phanom | Mekong-Flussstadtführer",
-      "fr": "Découvrez Nakhon Phanom | Guide de la ville du Mékong",
-      "ru": "Откройте для себя Nakhon Phanom | Гид по городу на Меконге",
-      "zh": "发现 Nakhon Phanom | 湄公河城市指南"
+      "en": "Nakhon Phanom Thailand Guide 2026 | Mekong Riverfront, Food, Hotels",
+      "nl": "Nakhon Phanom Thailand Gids 2026 | Mekong rivierfront, food en hotels",
+      "ja": "ナコーンパノム観光ガイド 2026 | メコン川沿い、食、ホテル",
+      "ko": "나콘파놈 태국 여행 가이드 2026 | 메콩 강변, 음식, 호텔",
+      "th": "เที่ยวนครพนม 2026 | ริมโขง อาหาร ที่พัก วางแผนง่าย",
+      "de": "Nakhon Phanom Thailand Guide 2026 | Mekong-Ufer, Essen, Hotels",
+      "fr": "Guide Nakhon Phanom 2026 | Bord du Mekong, restaurants et hotels",
+      "ru": "Путеводитель по Nakhon Phanom 2026 | Набережная Меконга, еда, отели",
+      "zh": "2026 那空帕侬旅行指南 | 湄公河河岸、美食与住宿"
     },
     "metaDescription": {
-      "en": "Your guide to Nakhon Phanom — stunning Mekong riverside city with Vietnamese heritage, golden Lao-style stupas, fusion food, and sunset boat cruises.",
-      "nl": "Jouw gids voor Nakhon Phanom — prachtige Mekong rivierstad met Vietnamees erfgoed, gouden Laotiaanse stupa's, fusiongerechten en zonsondergang boottochten.",
-      "ja": "ナコーンパノム旅行ガイド — メコン川沿いの美しい街、ベトナム文化遺産、プラタート・パノムの魅力をご紹介。",
-      "ko": "나콘파놈(태국) 완벽 여행 가이드: 프라탓파놈 불탑, 호치민 기념관, 메콩강변 산책. 가격, 팁, 가는 법.",
-      "th": "คู่มือท่องเที่ยวนครพนม ประเทศไทย — สถานที่ท่องเที่ยว อาหาร ที่พัก และเคล็ดลับ อัปเดต 2026",
-      "de": "Ihr Reiseführer für Nakhon Phanom — eine beeindruckende Mekong-Stadt am Flussufer mit vietnamesischem Erbe, goldenen Stupas im Lao-Stil, Fusionsküche und Bootstouren zum Sonnenuntergang.",
-      "fr": "Votre guide pour Nakhon Phanom — une ville magnifique au bord du Mékong, avec un patrimoine vietnamien, des stupas dorés au style lao, de la cuisine fusion et des croisières en bateau au coucher du soleil.",
-      "ru": "Ваш гид по Nakhon Phanom — великолепный город на берегу Меконга, с вьетнамским наследием, золотыми ступами лаосского стиля, фьюжн-кухней и круизами на закате.",
-      "zh": "您的 Nakhon Phanom 指南——一座美丽的湄公河畔城市，拥有越南遗产、金色的老挝风格佛塔、融合美食，以及日落时分的河上游船。"
+      "en": "Plan Nakhon Phanom around the Mekong riverfront, Wat Mahathat, Ho Chi Minh House, Vietnamese-heritage food, and a deliberate side trip to Phra That Phanom.",
+      "nl": "Plan Nakhon Phanom rond het Mekong-rivierfront, Wat Mahathat, Ho Chi Minh House, Vietnamees erfgoedfood en een bewuste uitstap naar Phra That Phanom.",
+      "ja": "ナコーンパノムは、メコン川沿いの散策、ワット・マハータート、ホーチミンハウス、ベトナム系の食、そしてプラタート・パノムへの一日を軸に組み立てると分かりやすい町です。",
+      "ko": "나콘파놈은 메콩 강변, 왓 마하탓, 호치민 하우스, 베트남계 음식, 프라탓 파놈 일정으로 짜면 가장 이해하기 쉬운 도시입니다.",
+      "th": "วางแผนนครพนมให้ชัดด้วยริมโขง วัดมหาธาตุ บ้านลุงโฮ อาหารสายเวียดนาม และทริปไปพระธาตุพนม",
+      "de": "Plane Nakhon Phanom rund um die Mekong-Promenade, Wat Mahathat, Ho Chi Minh House, vietnamesisch gepragte Kulinarik und einen gezielten Abstecher nach Phra That Phanom.",
+      "fr": "Organisez Nakhon Phanom autour de la promenade du Mekong, de Wat Mahathat, de la maison de Ho Chi Minh, de la cuisine d'heritage vietnamien et d'une sortie a Phra That Phanom.",
+      "ru": "Планируйте Nakhon Phanom вокруг набережной Меконга, Wat Mahathat, дома Хо Ши Мина, вьетнамской гастрономической линии и осознанной поездки к Phra That Phanom.",
+      "zh": "把那空帕侬的行程围绕湄公河步道、Wat Mahathat、胡志明故居、越南风味餐馆和一次前往 Phra That Phanom 的外出安排起来。"
     }
   },
   "categories": {
     "food": {
-      "en": "Best restaurants and street food in Nakhon Phanom",
-      "nl": "Beste restaurants en streetfood in Nakhon Phanom",
-      "ja": "ナコーンパノムのおすすめレストラン＆ストリートフード",
-      "ko": "나콘파놈 추천 레스토랑과 길거리 음식",
-      "th": "ร้านอาหารและสตรีทฟู้ดที่ดีที่สุดในนครพนม"
+      "en": "Best restaurants and Vietnamese-heritage food in Nakhon Phanom",
+      "nl": "Beste restaurants en Vietnamees erfgoedfood in Nakhon Phanom",
+      "ja": "ナコーンパノムのおすすめレストランとベトナム系ローカルフード",
+      "ko": "나콘파놈 추천 레스토랑과 베트남계 로컬 음식",
+      "th": "ร้านอาหารและอาหารสายเวียดนามที่ดีที่สุดในนครพนม"
     },
     "hotels": {
-      "en": "Top hotels and guesthouses in Nakhon Phanom",
-      "nl": "Beste hotels en guesthouses in Nakhon Phanom",
-      "ja": "ナコーンパノムのおすすめホテル＆ゲストハウス",
-      "ko": "나콘파놈 추천 호텔과 게스트하우스",
+      "en": "Top hotels in Nakhon Phanom | Tips and deals",
+      "nl": "Beste hotels in Nakhon Phanom | Tips en deals",
+      "ja": "ナコーンパノムのおすすめホテルと滞在の考え方",
+      "ko": "나콘파놈 추천 호텔 | 실전 팁",
       "th": "โรงแรมแนะนำในนครพนม | เคล็ดลับและดีล"
     },
     "attractions": {
       "en": "Top attractions in Nakhon Phanom",
       "nl": "Top bezienswaardigheden in Nakhon Phanom",
-      "ja": "ナコーンパノムの人気観光スポット",
-      "ko": "나콘파놈 인기 관광 명소",
+      "ja": "ナコーンパノムの主要観光スポット",
+      "ko": "나콘파놈 핵심 명소",
       "th": "สถานที่ท่องเที่ยวยอดนิยมในนครพนม"
     }
   },
@@ -89,510 +90,497 @@
     "isaan",
     "nakhon-phanom",
     "mekong",
-    "vietnamese-culture",
-    "thailand",
-    "travel",
-    "tourism",
-    "guide"
+    "vietnamese-heritage",
+    "riverfront",
+    "phra-that-phanom",
+    "thailand"
   ],
-  "overview": "Nakhon Phanom is one of Thailand's most beautiful and underrated Mekong riverside cities, sitting directly across the river from the dramatic limestone mountains of Tha Khek in Laos. What makes this city truly unique is its deep Vietnamese cultural heritage — Ho Chi Minh himself lived here in exile during the 1920s, hiding from French colonial authorities while organizing Vietnamese independence movements. Today, his reconstructed wooden house is a museum preserving original furniture and the fruit gardens he planted by hand. The city's skyline is dominated by distinctive Lao-style golden pointed stupas that you won't find anywhere else in Thailand, their spires reaching upward to symbolize the path to enlightenment. Along the Mekong promenade, festivals and live music fill the evening air, while traditional fishermen still cast their bamboo nets at dawn. This is one of Thailand's perfect culinary escapes from busy Bangkok — a place where Vietnamese-Thai fusion food, stunning river views, and authentic culture come together in a city that feels like it belongs to another era.",
-  "enhanced_description": "Nakhon Phanom grabs you the moment you see the Mekong stretching wide before you, with the jagged Tha Khek mountains of Laos rising on the opposite bank like a painting. This is not a tourist city — it's a living, breathing place where Thai, Lao, and Vietnamese cultures have been mixing for over a century. The Vietnamese influence runs deep here, from the food stalls serving perfect banh mi-style pancakes and dumplings for breakfast to the Ho Chi Minh memorial house tucked among pomelo, guava, and jackfruit trees that the revolutionary leader planted himself nearly a hundred years ago. Walking along the Mekong promenade in the late afternoon, you'll pass golden Naga statues guarding the riverbank and those extraordinary Lao-style pointed stupas catching the fading light — architectural gems that are completely different from temples you'll see in Bangkok or Chiang Mai. As the sun drops toward Laos, hop on one of the sunset cruise boats departing at 5:30 PM for just 150 baht — beer, drinks, and food included — and drift along the Mekong as the sky explodes in color. In the morning, the river comes alive again with fishermen using traditional bamboo nets, their silhouettes framed against the misty water. If you love food, history, and genuine cultural experiences without a single tourist trap in sight, Nakhon Phanom might just become your favorite city on the Mekong.",
-  "thingsToDo": "Start your Nakhon Phanom visit at the Ho Chi Minh House Museum (200 THB/$6 for foreigners, 30 THB/$0.85 for Thai nationals), where you'll walk through the reconstructed wooden house where the Vietnamese revolutionary lived in exile during the 1920s. The museum preserves original furniture and is surrounded by fruit trees — pomelo, guava, and jackfruit — that Ho Chi Minh planted by hand. It's a fascinating window into a chapter of history that most visitors to Thailand never encounter. Next, explore the Mekong Promenade, which stretches along the riverbank with stunning views of the Laotian Tha Khek mountains. The golden Naga statue near the boat launch area is a popular landmark. Don't miss the distinctive Lao-style golden pointed stupas scattered throughout the city — they look completely different from temples in other parts of Thailand, with their spires pointing sharply upward to symbolize the direction toward enlightenment. In the late afternoon, head to the boat departure point near the golden Naga for the sunset Mekong cruise, departing at 5:30 PM for 150 THB ($4.30). The price includes beer, drinks, and food. If you have extra time, take a day trip to the sacred Naga spirit lake near the Bueng Kan border, where locals take boat trips (50 THB/$1.50 boat, 30 THB/$0.85 entry) and pray for lucky lottery numbers. Rise early one morning to watch the traditional Mekong fishermen casting their bamboo nets — a timeless scene that captures the spirit of river life.",
-  "whereToStay": "Accommodation in Nakhon Phanom is excellent value, especially along the Mekong riverfront. The best strategy is to book a riverside guesthouse with direct Mekong views — you'll wake up to the sight of Laotian mountains and the sound of the river below. These riverside guesthouses are remarkably affordable compared to similar Mekong-view accommodation in more touristy cities like Chiang Khan or Nong Khai. The town center is compact and walkable, so staying near the promenade puts you within easy reach of the best restaurants, the night market, and the sunset cruise departure point. Book ahead during festival season and cool-season weekends when domestic tourists visit.",
-  "whereToEat": [
+  "enhanced_description": "Nakhon Phanom gets weaker when it is sold as a generic Mekong sunset town with a pile of unsupported cruise, price, and anecdote claims. The stronger version starts with the riverfront city core: Phaya Sisattanakarat, Sunthon Wichit Road, Wat Mahathat, the Vietnamese Memorial Clock Tower, and Ho Chi Minh House. That group explains the city far better than chasing every district-level stop on day one.\n\nAfter that, the planning becomes clearer. Vietnamese-influenced food is not decorative here; it is one of the city's real structural advantages, and TAT's current Foodie Map still treats Nakhon Phanom through that lens. Only then does it make sense to add one deliberate outer-province temple stop such as Wat Phra That Phanom Woramahawihan. Nakhon Phanom rewards selectivity, a slower riverfront evening, and a stay long enough to let the city core breathe.",
+  "overview": "The current TAT province page still frames Nakhon Phanom as a Mekong city shaped by the old Sri Kotrabun kingdom, Lao influence, and the mountains that rise beyond Thakhek on the Lao side. That framing is useful because it keeps the city grounded in what still matters on the ground: the western bank of the Mekong, a riverfront built for walking, and a cultural mix that shows up in architecture, food, and everyday rhythm rather than only in festival marketing.\n\nThe strongest first impression is still the city core. The riverfront around Phaya Sisattanakarat and Sunthon Wichit Road is where the skyline, the naga symbolism, the Lao-facing views, and the evening pace line up. From there, Wat Mahathat adds the city's principal sacred layer, while Ho Chi Minh House and the Vietnamese Memorial Clock Tower keep the Vietnamese historical thread visible without forcing the itinerary into a museum crawl.\n\nThat sequence matters because it stops Nakhon Phanom from becoming a thin list of province-wide attractions. If you only have one or two nights, it is usually smarter to build the stay around the city itself, then add one serious outside-city temple or district stop. Wat Phra That Phanom is the obvious high-value extension because TAT still treats it as one of the most sacred sites in northeastern Thailand, but it works best as a deliberate extra, not as a substitute for understanding the city first.",
+  "hidden_gems": [
     {
-      "name": "Chomchan",
-      "cuisine": "Thai",
-      "priceRange": "$",
-      "description": "Highly-rated Thai restaurant with authentic local cuisine. Highest TripAdvisor rating (4.9) among Nakhon Phanom restaurants."
+      "name": "Saint Anna Nong Saeng Catholic Church",
+      "why_special": "It adds a genuinely different religious and architectural layer to the city core and is still one of the official province highlights on TAT's destination page.",
+      "local_tip": "Fold it into the riverfront and heritage walk rather than treating it as a separate outing.",
+      "best_time": "Late afternoon",
+      "href": "/city/nakhon-phanom/attractions/saint-anna-nong-saeng-catholic-church/",
+      "cta_label": "See the Saint Anna guide"
     },
     {
-      "name": "Kitchen Khong",
-      "cuisine": "Thai",
-      "priceRange": "$",
-      "description": "Traditional Thai and Isaan cuisine with quality preparation. Authentic northeastern Thai specialties."
-    },
-    {
-      "name": "Chelsea Riverside restaurant",
-      "cuisine": "Asian, Thai",
-      "priceRange": "$$",
-      "description": "Asian and Thai cuisine with riverside Mekong views. Quality dining with mixed Asian menu options."
-    },
-    {
-      "name": "Viewkong restaurant",
-      "cuisine": "Asian, Thai",
-      "priceRange": "$$",
-      "description": "Casual riverside dining with Mekong views. Local and regional Asian-Thai dishes in relaxed atmosphere."
-    },
-    {
-      "name": "River Bar and Restaurant",
-      "cuisine": "Bar, Asian",
-      "priceRange": "$$",
-      "description": "Riverside bar and restaurant suitable for evening drinks and casual dining. Asian cuisine with beverage selection."
+      "name": "Vietnamese Memorial Clock Tower",
+      "why_special": "The clock tower is one of the clearest reminders that Vietnamese history in Nakhon Phanom is not abstract background but still visible in the city itself.",
+      "local_tip": "Pair it with Ho Chi Minh House and a Vietnamese breakfast or early lunch.",
+      "best_time": "Morning or early evening",
+      "href": "/city/nakhon-phanom/attractions/vietnamese-memorial-clock-tower/",
+      "cta_label": "See the clock tower guide"
     }
   ],
-  "topHotels": [
+  "authentic_experiences": [
     {
-      "name": "Vela Dhi Nakhon Phanom",
-      "category": "luxury",
-      "priceRange": "$38-1,256/night",
-      "area": "City Center",
-      "description": "Highest-rated luxury accommodation in Nakhon Phanom with premium facilities and excellent service. Top choice for travelers seeking comfort and quality."
+      "activity": "Build the first half-day around the riverfront core",
+      "story": "Phaya Sisattanakarat, Sunthon Wichit Road, and the Mekong promenade are the cleanest way to read Nakhon Phanom as a real river city instead of a province checklist.",
+      "cultural_significance": "TAT's current walk-tour and province framing both keep the riverfront as the city's identity anchor, with naga symbolism, Lao-facing views, and an old-town rhythm all concentrated here.",
+      "how_to_participate": "Start by the riverfront landmark zone, then walk south or north into Wat Mahathat and the heritage layer rather than jumping straight into transport-heavy side trips.",
+      "insights": [
+        "This is the best first-evening or first-morning structure.",
+        "The city gets stronger when the Mekong side receives real time."
+      ],
+      "href": "/city/nakhon-phanom/attractions/phaya-sisattanakarat-riverfront/",
+      "cta_label": "See the riverfront guide"
     },
     {
-      "name": "Fortune View Khong Hotel Nakhon Phanom",
-      "category": "midrange",
-      "priceRange": "$51-223/night",
-      "area": "Mekong Riverfront",
-      "description": "Well-rated hotel with good amenities, Mekong views, and convenient access to main attractions and dining."
+      "activity": "Use Wat Mahathat to understand the city's sacred center",
+      "story": "Wat Mahathat matters because it is not just another riverside temple. TAT still presents Phrathat Nakhon here as the city's main sacred stupa and ties it directly to Nakhon Phanom's identity.",
+      "cultural_significance": "The 2025 TAT Mahathat article positions Wat Mahathat as the city temple of Nakhon Phanom and a birth-day stupa for those born on Saturdays.",
+      "how_to_participate": "Treat it as a real temple stop, not only as a photo break between riverfront landmarks.",
+      "insights": [
+        "This is the strongest in-town sacred stop.",
+        "It works especially well on foot from the promenade."
+      ],
+      "href": "/city/nakhon-phanom/attractions/wat-mahathat-phrathat-nakhon/",
+      "cta_label": "See the Wat Mahathat guide"
     },
     {
-      "name": "The River Hotel",
-      "category": "midrange",
-      "priceRange": "$39-57/night",
-      "area": "Mekong Riverfront",
-      "description": "Comfortable mid-range riverside hotel with river views and proximity to promenade, restaurants, and attractions."
+      "activity": "Keep the Vietnamese heritage thread visible",
+      "story": "Ho Chi Minh House and the Vietnamese Memorial Clock Tower make the city's cross-border history legible in a way generic Mekong copy never does.",
+      "cultural_significance": "TAT's Nakhon Phanom walking-tour route still uses both stops as part of the city's core heritage sequence.",
+      "how_to_participate": "Do them on the same day as a Vietnamese breakfast or lunch, so the food and history layers reinforce each other.",
+      "insights": [
+        "This is what makes Nakhon Phanom different from a standard river town.",
+        "The heritage layer reads better when paired with food, not isolated from it."
+      ],
+      "href": "/city/nakhon-phanom/attractions/ho-chi-minh-house/",
+      "cta_label": "See the Ho Chi Minh House guide"
     },
     {
-      "name": "Hop Inn Nakhon Phanom",
-      "category": "budget",
-      "priceRange": "$19-27/night",
-      "area": "City Center",
-      "description": "Budget-friendly accommodation with clean rooms and good ratings. Excellent value for budget-conscious travelers."
-    },
-    {
-      "name": "Siam grand Hotel Nakhonphanom",
-      "category": "budget",
-      "priceRange": "$15-27/night",
-      "area": "City Center",
-      "description": "Very affordable budget hotel with basic clean rooms and convenient location for city exploration."
+      "activity": "Add one serious outer-province temple, not five",
+      "story": "Wat Phra That Phanom is the cleanest high-value extension because it is still treated by TAT as one of northeastern Thailand's most revered Buddhist sites.",
+      "cultural_significance": "TAT's spiritual-travel coverage continues to position Wat Phra That Phanom as one of the most sacred sites in the region.",
+      "how_to_participate": "Use it as a deliberate half-day or longer outing after you have already done the city core.",
+      "insights": [
+        "This is the obvious add-on once the city itself is covered.",
+        "It should sharpen the trip, not replace the city."
+      ],
+      "href": "/city/nakhon-phanom/attractions/wat-phra-that-phanom-woramahawihan/",
+      "cta_label": "See the Phra That Phanom guide"
     }
   ],
-  "gettingAround": "Nakhon Phanom is a compact city that's easy to explore on foot, especially the riverfront promenade area. The main attractions — Ho Chi Minh House, the golden stupas, breakfast restaurants, and the sunset cruise departure point — are all within walking or short cycling distance of each other. For reaching the sacred Naga lake near Bueng Kan, you'll need a motorbike (rental ~150-200 THB/$4.30-5.75 per day) or car. The nearest airport is Nakhon Phanom Airport, with direct flights from Bangkok (about 1 hour). From the airport, it's a short 15-20 minute ride into town by taxi (approximately 150-300 THB/$4.30-8.60). Motorbike rental is available for exploring the surrounding countryside and riverside roads (100-200 THB/$2.85-5.75 per day).",
-  "bestTimeToVisit": "The cool season from November to February is the best time to visit Nakhon Phanom, with pleasant temperatures and clear skies perfect for riverside walks and sunset cruises. Be aware that December can be surprisingly cold this far north in Isaan — pack a hat, scarf, gloves, and a warm jacket for early mornings and evenings along the Mekong. The hot season (March-May) brings intense heat, while the rainy season (June-October) sees afternoon downpours and a swollen Mekong. Festival season brings live music and celebrations to the promenade, creating a wonderful atmosphere. Weekdays are quieter than weekends for a more relaxed experience.",
-  "budgetGuide": {
-    "budget": {
-      "min": 15,
-      "max": 25,
-      "description": "Budget travelers can enjoy Nakhon Phanom on $15-25/day. Stay in budget hotels like Hop Inn or Siam grand (500-1,000 THB/$14-29/night), eat at Vietnamese-Thai breakfast spots and street food stalls (30-100 THB/$0.85-2.85 per meal), and walk the promenade for free. The sunset cruise is 150 THB ($4.30) with drinks and food included. Ho Chi Minh House is 200 THB ($5.75) for foreigners."
-    },
-    "midrange": {
-      "min": 30,
-      "max": 60,
-      "description": "Mid-range travelers spend $30-60/day comfortably. Stay at riverside mid-range hotels like The River Hotel or Fortune View (1,400-2,450 THB/$40-70/night), enjoy meals at quality restaurants (200-350 THB/$5.75-10/meal), take the sunset cruise (150 THB/$4.30), and visit Ho Chi Minh House (200 THB/$5.75). Excellent value for the quality of experience."
-    },
-    "luxury": {
-      "min": 60,
-      "max": 100,
-      "description": "Luxury in Nakhon Phanom is affordable — this isn't a resort town. Premium hotels like Vela Dhi cost 1,400-2,450 THB ($40-70/night), and fine dining costs 250-500 THB ($7-14 per meal). Budget $60-100/day for the best rooms, all meals at restaurants, sunset cruise, museum visits, and a day trip to the sacred Naga lake near Bueng Kan."
-    }
-  },
-  "safetyTips": {
-    "en": "Nakhon Phanom is an extremely safe city with virtually no crime against tourists. This is a genuine Thai community, not a tourist town, so people are friendly and welcoming. The main safety considerations are the Mekong River — never swim in it due to strong currents and unpredictable depths. During the cool season (December-January), temperatures can drop significantly at night, especially along the river — bring warm layers. If riding a motorbike on the riverside roads, conditions are generally good but watch for unlit stretches at night. The sunset cruise boats are safe and well-run. Stay hydrated during the hot season and use sun protection on the exposed promenade.",
-    "nl": "Nakhon Phanom is een extreem veilige stad met vrijwel geen criminaliteit tegen toeristen. Dit is een echte Thaise gemeenschap, geen toeristenstad, dus mensen zijn vriendelijk en gastvrij. De belangrijkste veiligheidsoverwegingen betreffen de Mekong — zwem er nooit in vanwege sterke stromingen. Tijdens het koele seizoen (december-januari) kunnen temperaturen 's nachts flink dalen, vooral langs de rivier — neem warme kleding mee. De zonsondergangcruises zijn veilig en goed georganiseerd.",
-    "ja": "ナコーンパノムは観光客に対する犯罪がほとんどない非常に安全な街です。メコン川沿いの散歩も夜間でも安心して楽しめます。一般的な注意を払えば問題ありません。",
-    "ko": "나콘파놈은 관광객에 대한 범죄가 거의 없는 매우 안전한 도시입니다. 진정한 태국 지역 사회로, 사람들이 친절하고 환영합니다. 메콩강변 산책 시 어두운 구간에 주의하고, 라오스 국경을 건널 때 여권을 소지하세요."
-  },
-  "faq": [
+  "foodie_adventures": [
     {
-      "question": "How do I get to Nakhon Phanom?",
-      "answer": "The easiest way is a direct flight from Bangkok to Nakhon Phanom Airport, which takes about 1 hour. Nok Air and AirAsia operate regular flights. From the airport, it's a 15-20 minute taxi ride into the city center (approximately 150-300 THB/$4.30-8.60). You can also drive or ride a motorbike from other Isaan cities — it's a scenic riverside route if you're exploring the Mekong region."
+      "dish": "Pak mor and breakfast-style Vietnamese dumplings",
+      "location": "Sri Thep Vietnamese Dumplings",
+      "story": "TAT's 2024 Foodie Map still treats Sri Thep as one of Nakhon Phanom's must-eat names, which matters because it keeps the city's Vietnamese food identity visible from the start.",
+      "where_to_find": "Use it for breakfast or an early light meal rather than as a generic all-day stop.",
+      "price_range": "Budget",
+      "ordering_tips": [
+        "This is one of the best ways to make the city's heritage show up directly on the table.",
+        "Pair it with the Vietnamese Memorial Clock Tower or Ho Chi Minh House."
+      ],
+      "href": "/city/nakhon-phanom/top-10-restaurants/",
+      "cta_label": "See the food guide"
     },
     {
-      "question": "Why did Ho Chi Minh live in Nakhon Phanom?",
-      "answer": "Ho Chi Minh lived in Nakhon Phanom during the 1920s while in exile, hiding from French colonial authorities who controlled Vietnam at the time. He used the Mekong border region as a safe haven while organizing Vietnamese independence movements. His reconstructed wooden house is now a museum (200 THB/$5.75 for foreigners) with original furniture and the fruit trees — pomelo, guava, and jackfruit — that he planted by hand during his stay."
+      "dish": "River-linked fish noodles",
+      "location": "Kuay Teow Moo Pla Pho Luk Song",
+      "story": "The Foodie Map describes this stop through its Mekong fish logic, which helps the city food section stay anchored in place instead of drifting into random rankings.",
+      "where_to_find": "Best as a focused lunch or late breakfast stop.",
+      "price_range": "Budget",
+      "ordering_tips": [
+        "Use this when you want the river and food layers to connect in a concrete way.",
+        "It is a stronger planning choice than another generic cafe."
+      ],
+      "href": "/city/nakhon-phanom/top-10-restaurants/",
+      "cta_label": "See the food guide"
     },
     {
-      "question": "What makes the temples in Nakhon Phanom different?",
-      "answer": "Nakhon Phanom's temples feature distinctive Lao-style golden pointed stupas that look completely different from temples in Bangkok, Chiang Mai, or southern Thailand. These tall, sharply pointed golden spires are influenced by Laotian Buddhist architecture, reflecting the region's cross-border cultural connections. The pointed shape symbolizes the upward direction toward enlightenment. You'll see these distinctive stupas everywhere along the Mekong riverfront."
-    }
-  ],
-  "practicalInfo": {
-    "bestMonths": [
-      "November",
-      "December",
-      "January",
-      "February"
-    ],
-    "nearestAirport": "Nakhon Phanom Airport, with direct flights from Bangkok (approximately 1 hour)",
-    "travelTimeFromAirport": "Approximately 15-20 minutes by taxi (150-300 THB/$4.30-8.60) from Nakhon Phanom Airport to city center",
-    "localTransport": [
-      "Walking (city center and promenade are very walkable)",
-      "Motorbike rental (100-200 THB/$2.85-5.75 per day for surrounding countryside and riverside roads)",
-      "Songthaew (shared transport within the city)",
-      "Taxi from airport"
-    ]
-  },
-  "contentSources": [
-    {
-      "type": "video",
-      "title": "Mekong Adventure Episode 5: Nakhon Phanom",
-      "creator": "Paddy Doyle - Live Love Thailand",
-      "url": "https://www.youtube.com/watch?v=gBwnkvnKjEA",
-      "description": "Exploring Nakhon Phanom's Vietnamese heritage, incredible food scene, and sunset Mekong cruises."
+      "dish": "One direct Vietnamese meal beyond breakfast",
+      "location": "Vietnamese Kitchen",
+      "story": "TAT still includes Vietnamese Kitchen in the current Nakhon Phanom lineup, which helps confirm that Vietnamese influence is not limited to a single famous breakfast shop.",
+      "where_to_find": "Use it as a lunch or dinner counterweight to the more temple-heavy side of the itinerary.",
+      "price_range": "Budget to mid-range",
+      "ordering_tips": [
+        "Useful on a two-night stay when you want range without leaving the city's core food identity.",
+        "Best treated as a proper meal, not a fallback."
+      ],
+      "href": "/city/nakhon-phanom/top-10-restaurants/",
+      "cta_label": "See the food guide"
     },
     {
-      "type": "video",
-      "title": "Mekong Adventure Episode 6: Nakhon Phanom to Mukdahan",
-      "creator": "Paddy Doyle - Live Love Thailand",
-      "url": "https://www.youtube.com/watch?v=pmAQ9q92G0M",
-      "description": "Morning sunrise, riverside coffee, and Vietnamese breakfast before departing Nakhon Phanom."
+      "dish": "Fermented-rice-noodle local staple",
+      "location": "Khanom Jeen Pisamai",
+      "story": "Khanom Jeen Pisamai gives the page an Isaan-rooted counterweight to the Vietnamese names while still coming from TAT's current curated list.",
+      "where_to_find": "Better as a daytime food stop than a late-evening plan.",
+      "price_range": "Budget",
+      "ordering_tips": [
+        "This is useful when the trip needs one dish that feels more provincial and less riverfront-heredity only.",
+        "Good to balance the food plan over two days."
+      ],
+      "href": "/city/nakhon-phanom/top-10-restaurants/",
+      "cta_label": "See the food guide"
     }
   ],
-  "enrichedAt": "2026-02-22T18:00:00.000Z",
-  "best_time_to_visit": {
-    "season": "Cool Season",
-    "months": "November - February",
-    "weather": "Cool and dry, 15-28°C",
-    "reasons": "Comfortable for Mekong exploration and temple visits"
-  },
-  "seasonal_secrets": {
-    "best_times": {
-      "November-February (Best)": "The cool season from November to February is the best time to visit Nakhon Phanom, with pleasant temperatures and clear skies perfect for riverside walks and sunset cruises. Be aware that December can be surprisingly cold this far north in Isaan — pack a hat, scarf, gloves, and a warm jacket for early mornings and evenings along the Mekong.",
-      "March-May (Hot Season)": "Very hot, 30-40°C. Cheaper accommodation and fewer crowds — worth it if you can handle the heat.",
-      "June-October (Green Season)": "Warm with regular rainfall. Lush landscapes and good deals — rain usually falls in short afternoon bursts."
-    },
-    "local_festivals": [
-      "Illuminated Boat Procession on the Mekong (Ok Phansa, October)",
-      "That Phanom Festival (January/February) - pilgrimage to the sacred stupa",
-      "Loy Krathong Festival",
-      "King's Birthday (Father's Day - Dec 5)",
-      "New Year celebrations",
-      "Makha Bucha Day",
-      "Chinese New Year (varies)",
-      "Songkran Water Festival (April 13-15) - celebrated nationwide"
-    ],
-    "seasonal_foods": {
-      "cool": "Mekong riverside dining is at its best — fresh river fish, grilled meats, and Isaan specialties with sunset views. Local favorites include Vietnamese Pancakes & Dumplings House and Wooden House Congee.",
-      "hot": "Cooling Vietnamese-Thai fusion dishes and cold drinks at riverside restaurants. Local favorites include Vietnamese Pancakes & Dumplings House and Wooden House Congee.",
-      "rainy": "Hearty Isaan soups and warming curries — the Mekong at high water is dramatic. Local favorites include Vietnamese Pancakes & Dumplings House and Wooden House Congee."
-    },
-    "insider_tips": {
-      "Mekong sunsets": "The best sunset viewing spots fill up fast — arrive 30 minutes before sunset to secure a riverside table.",
-      "Border crossings": "If crossing to Laos, check visa requirements in advance. Cool season mornings along the Mekong can be surprisingly cold — pack layers.",
-      "Peak season": "November-February is peak season — book accommodation 2-4 weeks ahead for the best prices.",
-      "Rainy season": "Rain usually falls in short afternoon bursts — mornings are often sunny and great for exploring Nakhon Phanom.",
-      "Ho Chi Minh House Museum": "Visit Ho Chi Minh House Museum during the cool season for the most comfortable experience. Early morning visits beat the heat and the crowds."
-    }
-  },
+  "local_insights": [
+    "Nakhon Phanom is stronger as a riverfront heritage city than as a province-wide checklist.",
+    "The city core should come before the long temple drive, not after it.",
+    "Vietnamese food is one of the city's real structural strengths, not a side note.",
+    "Wat Mahathat is the best in-town sacred stop; Phra That Phanom is the best deliberate extension.",
+    "A walkable Mekong evening does more for the trip than padding the itinerary with weak extra stops."
+  ],
+  "seasonal_secrets": "The cool season from November to February is the easiest overall fit because the promenade, temple walking, and longer district drives are more comfortable and the Lao-side mountain backdrop is usually clearer. The rainy season can make the Mekong edge moodier and greener, but it also raises the cost of improvising on riverfront time and out-of-town temple runs. Hot months still work if you respect the city as an early-and-late schedule destination.",
+  "budget_reality": "Nakhon Phanom itself is not difficult to keep affordable. The bigger cost comes from transport choices and from overbuilding the route: adding multiple district detours, private car time for outer-province temples, or paying more for a river-view room you will barely use. A city-first plan with one deliberate extension is usually the better spend.",
   "top_attractions": [
     {
       "rank": 1,
-      "name": "Ho Chi Minh House Museum",
-      "description": "Reconstructed wooden house where Vietnamese revolutionary Ho Chi Minh lived in exile during the 1920s while hiding from French colonial authorities. Contains original furniture and fruit trees (pomelo, guava, jackfruit) he planted by hand.",
-      "location": "Nakhon Phanom city center",
-      "entrance_fee": "200 THB for foreigners, 30 THB for Thai nationals",
+      "name": "Phaya Sisattanakarat and the riverfront core",
+      "description": "The best first-stop city layer because it combines the naga landmark, Sunthon Wichit Road, and the Mekong-facing evening rhythm.",
+      "location": "Central Mekong riverfront",
+      "entrance_fee": "Public riverfront access is straightforward",
       "highlights": [
-        "Original furniture",
-        "Historic fruit trees",
-        "Vietnam independence movement history"
-      ]
+        "Phaya Sisattanakarat landmark",
+        "Sunthon Wichit Road walk",
+        "Best first read of the city"
+      ],
+      "href": "/city/nakhon-phanom/attractions/phaya-sisattanakarat-riverfront/",
+      "cta_label": "See the riverfront guide"
     },
     {
       "rank": 2,
-      "name": "Mekong Promenade",
-      "description": "Riverside walkway stretching along the Mekong with views of Tha Khek limestone mountains in Laos. Features the golden Naga statue near the boat launch area and is lined with restaurants and food stalls.",
-      "location": "Riverfront, central Nakhon Phanom",
-      "entrance_fee": "Free",
+      "name": "Wat Mahathat (Phrathat Nakhon)",
+      "description": "The city's principal sacred stop, still positioned by TAT as Nakhon Phanom's core Mahathat temple on the Mekong side.",
+      "location": "Riverfront side of central Nakhon Phanom",
+      "entrance_fee": "TAT lists no entrance fee; donations are customary",
       "highlights": [
-        "Golden Naga statue",
-        "Sunset views",
-        "Evening live music and festivals"
-      ]
+        "Phrathat Nakhon stupa",
+        "Riverfront temple setting",
+        "Strongest in-town sacred layer"
+      ],
+      "href": "/city/nakhon-phanom/attractions/wat-mahathat-phrathat-nakhon/",
+      "cta_label": "See the Wat Mahathat guide"
     },
     {
       "rank": 3,
-      "name": "Lao-Style Golden Stupas (Buddhist Temples)",
-      "description": "Distinctive golden pointed stupas scattered throughout Nakhon Phanom reflecting Laotian Buddhist architecture. The sharply pointed spires differ from temples in other regions of Thailand and symbolize the path to enlightenment.",
-      "location": "Various locations throughout city",
-      "entrance_fee": "Free or small donation",
+      "name": "Ho Chi Minh House",
+      "description": "The clearest museum-style stop for understanding the city's Vietnamese historical thread without leaving the core urban area.",
+      "location": "Nakhon Phanom city",
+      "entrance_fee": "Recheck current local ticketing or donation arrangements on arrival",
       "highlights": [
-        "Unique Lao architecture",
-        "Golden spires",
-        "Religious significance"
-      ]
+        "Vietnamese-history layer",
+        "Useful heritage stop",
+        "Best paired with Vietnamese food"
+      ],
+      "href": "/city/nakhon-phanom/attractions/ho-chi-minh-house/",
+      "cta_label": "See the Ho Chi Minh House guide"
     },
     {
       "rank": 4,
-      "name": "Sunset Mekong River Cruise",
-      "description": "Evening boat trip departing at 5:30 PM drifting along the Mekong River with views of Laotian mountains during sunset. Includes beer, drinks, and food.",
-      "location": "Boat departure point near golden Naga statue",
-      "entrance_fee": "150 THB per person",
+      "name": "Vietnamese Memorial Clock Tower",
+      "description": "A compact but meaningful heritage stop that helps the city's Vietnamese story stay visible in the route.",
+      "location": "Nakhon Phanom city",
+      "entrance_fee": "Public landmark access is straightforward",
       "highlights": [
-        "Sunset views",
-        "Food and beverages included",
-        "River life experience"
-      ]
+        "Vietnamese memorial layer",
+        "Easy city-core stop",
+        "Works well with food planning"
+      ],
+      "href": "/city/nakhon-phanom/attractions/vietnamese-memorial-clock-tower/",
+      "cta_label": "See the clock tower guide"
     },
     {
       "rank": 5,
-      "name": "Traditional Mekong Fishermen Scene",
-      "description": "Early morning observation of traditional fishermen casting bamboo nets from the Mekong riverbank—a timeless cultural practice that has defined river life for centuries.",
-      "location": "Mekong riverbank, various locations",
-      "entrance_fee": "Free",
+      "name": "Saint Anna Nong Saeng Catholic Church",
+      "description": "One of the official province highlights and a useful reminder that Nakhon Phanom's religious landscape is broader than river temples alone.",
+      "location": "Nong Saeng side of town",
+      "entrance_fee": "Church access depends on current worship activity; visit respectfully",
       "highlights": [
-        "Traditional fishing methods",
-        "Cultural authenticity",
-        "Early morning experience"
-      ]
+        "Official TAT province highlight",
+        "Distinct architecture",
+        "Strong heritage add-on"
+      ],
+      "href": "/city/nakhon-phanom/attractions/saint-anna-nong-saeng-catholic-church/",
+      "cta_label": "See the Saint Anna guide"
     },
     {
       "rank": 6,
-      "name": "Sacred Naga Spirit Lake (near Bueng Kan border)",
-      "description": "Sacred lake where local residents take boat trips and pray for lucky lottery numbers. Significant in local spiritual traditions with strong cultural and religious importance.",
-      "location": "Near Bueng Kan province border",
-      "entrance_fee": "50 THB boat ride, 30 THB entry fee",
+      "name": "Wat Phra That Phanom Woramahawihan",
+      "description": "The most important deliberate temple extension from town and still one of northeastern Thailand's most revered Buddhist sites.",
+      "location": "That Phanom District",
+      "entrance_fee": "Temple access is generally straightforward; recheck current local arrangements on arrival",
       "highlights": [
-        "Spiritual significance",
-        "Local traditions",
-        "Day trip accessible"
-      ]
+        "One of the region's main sacred sites",
+        "Best major temple add-on",
+        "Worth a deliberate half-day"
+      ],
+      "href": "/city/nakhon-phanom/attractions/wat-phra-that-phanom-woramahawihan/",
+      "cta_label": "See the Phra That Phanom guide"
     }
   ],
   "top_restaurants": [
     {
       "rank": 1,
-      "name": "Chomchan",
-      "description": "Highly-rated Thai restaurant with excellent local cuisine and traditional flavors.",
-      "cuisine_type": "Thai",
-      "price_range": "50-150 THB per meal",
+      "name": "Sri Thep Vietnamese Dumplings",
+      "price_range": "Budget",
+      "description": "The clearest breakfast-style Vietnamese stop in TAT's current Nakhon Phanom food lineup.",
+      "category": "Vietnamese",
+      "area": "Nakhon Phanom city",
       "highlights": [
-        "Highest TripAdvisor rating (4.9)",
-        "Authentic local Thai food",
-        "Popular with locals"
-      ]
+        "TAT Foodie Map pick",
+        "Handmade pak mor focus",
+        "Best in the morning"
+      ],
+      "href": "/city/nakhon-phanom/top-10-restaurants/",
+      "cta_label": "See the food guide"
     },
     {
       "rank": 2,
-      "name": "Kitchen Khong",
-      "description": "Thai restaurant featuring traditional Isaan and local northeastern cuisine with quality preparation and authentic flavors.",
-      "cuisine_type": "Thai",
-      "price_range": "60-180 THB per meal",
+      "name": "Kuay Teow Moo Pla Pho Luk Song",
+      "price_range": "Budget",
+      "description": "A fish-noodle stop from TAT's current list that keeps the city's river logic visible in the food planning.",
+      "category": "Noodles",
+      "area": "Nakhon Phanom city",
       "highlights": [
-        "TripAdvisor rating 4.3",
-        "Local Isaan specialties",
-        "Friendly atmosphere"
-      ]
+        "TAT Foodie Map pick",
+        "River-linked ingredient story",
+        "Good lunch or late breakfast"
+      ],
+      "href": "/city/nakhon-phanom/top-10-restaurants/",
+      "cta_label": "See the food guide"
     },
     {
       "rank": 3,
-      "name": "Chelsea Riverside restaurant",
-      "description": "Asian and Thai cuisine restaurant located near the Mekong with riverside views and quality dining.",
-      "cuisine_type": "Asian, Thai",
-      "price_range": "80-250 THB per meal",
+      "name": "Vietnamese Kitchen",
+      "price_range": "Budget to mid-range",
+      "description": "A current TAT-curated Vietnamese restaurant name that helps the city stay anchored in real heritage food rather than generic rankings.",
+      "category": "Vietnamese",
+      "area": "Nakhon Phanom city",
       "highlights": [
-        "TripAdvisor rating 4.2",
-        "River views",
-        "Mixed Asian menu"
-      ]
+        "TAT Foodie Map pick",
+        "Useful second Vietnamese meal",
+        "Good for a two-night stay"
+      ],
+      "href": "/city/nakhon-phanom/top-10-restaurants/",
+      "cta_label": "See the food guide"
     },
     {
       "rank": 4,
-      "name": "Viewkong restaurant",
-      "description": "Asian and Thai cuisine with Mekong views offering a casual dining atmosphere with local and regional dishes.",
-      "cuisine_type": "Asian, Thai",
-      "price_range": "70-200 THB per meal",
+      "name": "Khanom Jeen Pisamai",
+      "price_range": "Budget",
+      "description": "A TAT-listed noodle stop that gives the page a stronger local-Isaan counterweight to the city's Vietnamese names.",
+      "category": "Khanom jeen",
+      "area": "Nakhon Phanom province",
       "highlights": [
-        "Mekong views",
-        "Casual atmosphere",
-        "Local and regional dishes"
-      ]
+        "TAT Foodie Map pick",
+        "Good daytime stop",
+        "Useful range beyond Vietnamese food"
+      ],
+      "href": "/city/nakhon-phanom/top-10-restaurants/",
+      "cta_label": "See the food guide"
     },
     {
       "rank": 5,
-      "name": "River Bar and Restaurant",
-      "description": "Riverside bar and restaurant serving Asian cuisine and beverages with an evening atmosphere suitable for drinks and casual dining.",
-      "cuisine_type": "Bar, Asian",
-      "price_range": "90-280 THB per meal",
+      "name": "Yat Larb Ped",
+      "price_range": "Budget to mid-range",
+      "description": "The strongest TAT-listed duck-and-Isaan dinner name if you want one meal that feels grounded in local savory cooking rather than only heritage breakfast food.",
+      "category": "Isaan",
+      "area": "Nakhon Phanom city",
       "highlights": [
-        "Riverfront location",
-        "Bar atmosphere",
-        "Evening dining"
-      ]
+        "TAT Foodie Map pick",
+        "Duck-focused signature dish",
+        "Useful evening meal"
+      ],
+      "href": "/city/nakhon-phanom/top-10-restaurants/",
+      "cta_label": "See the food guide"
     }
   ],
   "top_hotels": [
     {
       "rank": 1,
-      "name": "The River Hotel",
-      "description": "Well-rated riverside hotel with comfortable rooms, river views, and convenient location near the promenade and main attractions. One of the better mid-range options in Nakhon Phanom.",
-      "price_range": "39-57 USD per night (1,400-2,050 THB)",
-      "category": "midrange",
+      "name": "VELA Dhi Nakhon Panom",
+      "price_range": "Mid-range to upscale",
+      "description": "The clearest direct-site polished stay if you want a more deliberate Mekong-riverside base.",
+      "category": "riverside hotel",
+      "area": "Nakhonphanom - Thatphanom Road",
       "highlights": [
-        "TripAdvisor rating 9.6",
-        "River views",
-        "Central location"
-      ]
+        "Official hotel website",
+        "Mekong-riverside positioning",
+        "Direct booking page"
+      ],
+      "href": "/city/nakhon-phanom/top-10-hotels/",
+      "cta_label": "See the hotel guide"
     },
     {
       "rank": 2,
-      "name": "Fortune View Khong Hotel Nakhon Phanom",
-      "description": "Highly-rated hotel with good amenities and strategic location offering views of the Mekong River and surrounding areas.",
-      "price_range": "51-223 USD per night (1,830-8,030 THB)",
-      "category": "midrange",
+      "name": "Fortune River View Hotel Nakhon Phanom",
+      "price_range": "Mid-range",
+      "description": "A direct-site riverfront full-service hotel if you want a bigger-property format with rooms, dining, and facilities on one official platform.",
+      "category": "riverfront city hotel",
+      "area": "Nakhon Phanom riverfront",
       "highlights": [
-        "TripAdvisor rating 9.3",
-        "Mekong views",
-        "Quality amenities"
-      ]
+        "Official hotel website",
+        "River-view positioning",
+        "Rooms, dining, and facilities pages live on the direct site"
+      ],
+      "href": "/city/nakhon-phanom/top-10-hotels/",
+      "cta_label": "See the hotel guide"
     },
     {
       "rank": 3,
-      "name": "Vela Dhi Nakhon Phanom",
-      "description": "Highest-rated accommodation in Nakhon Phanom with excellent service and premium facilities. Top choice for comfort and quality.",
-      "price_range": "38-1,256 USD per night (1,368-45,200 THB)",
-      "category": "luxury",
+      "name": "HOP INN Nakhon Phanom",
+      "price_range": "Budget",
+      "description": "The strongest simple-chain budget option if you want clean rooms, free Wi-Fi, and a predictable stay with a direct official page.",
+      "category": "budget chain hotel",
+      "area": "Nittayo Road, Nai Mueang",
       "highlights": [
-        "TripAdvisor rating 9.4",
-        "Premium accommodations",
-        "Excellent service"
-      ]
-    },
-    {
-      "rank": 4,
-      "name": "Hop Inn Nakhon Phanom",
-      "description": "Budget-friendly accommodation with good ratings and clean, simple rooms. Excellent value for budget travelers.",
-      "price_range": "19-27 USD per night (684-972 THB)",
-      "category": "budget",
-      "highlights": [
-        "TripAdvisor rating 9.4",
-        "Budget-friendly",
-        "Clean rooms"
-      ]
-    },
-    {
-      "rank": 5,
-      "name": "Siam grand Hotel Nakhonphanom",
-      "description": "Budget to lower mid-range hotel with basic but clean rooms and convenient location for exploring the city.",
-      "price_range": "15-27 USD per night (540-972 THB)",
-      "category": "budget",
-      "highlights": [
-        "TripAdvisor rating 8.0",
-        "Very affordable",
-        "Convenient location"
-      ]
+        "Official hotel website",
+        "Free Wi-Fi on the direct site",
+        "Straightforward short-stay logic"
+      ],
+      "href": "/city/nakhon-phanom/top-10-hotels/",
+      "cta_label": "See the hotel guide"
     }
   ],
-  "factchecked_at": "2026-03-08T18:54:12.539Z",
-  "translations": {
-    "nl": {
-      "enhanced_description": "Nakhon Phanom grijpt je op het moment dat je de Mekong breed voor je ziet uitstrekken, met de grillige Tha Khek-bergen van Laos die aan de overkant oprijzen als een schilderij. Dit is geen toeristenstad — het is een levende, ademende plek waar Thaise, Laotiaanse en Vietnamese culturen zich al meer dan een eeuw vermengen. De Vietnamese invloed gaat hier diep, van de eetstalletjes die perfecte banh mi-achtige pannenkoeken en dumplings serveren als ontbijt tot het Ho Chi Minh-herdenkingshuis verscholen tussen pomelo-, guave- en jackfruitbomen die de revolutionaire leider zelf bijna honderd jaar geleden plantte. Wandelend langs de Mekong-promenade in de late namiddag passeer je gouden Naga-beelden die de rivieroever bewaken en die buitengewone Laotiaanse spitse stupa's die het afnemende licht vangen — architectonische juweeltjes die compleet anders zijn dan tempels die je in Bangkok of Chiang Mai ziet. Als de zon richting Laos zakt, stap je op een van de zonsondergangcruiseboten die om 17:30 vertrekken voor slechts 150 baht — bier, drankjes en eten inbegrepen — en je drijft langs de Mekong terwijl de hemel in kleur ontploft. 's Ochtends komt de rivier weer tot leven met vissers die traditionele bamboenetten gebruiken, hun silhouetten omlijst tegen het mistige water. Als je houdt van eten, geschiedenis en echte culturele ervaringen zonder een enkele toeristenval in zicht, wordt Nakhon Phanom misschien wel je favoriete stad aan de Mekong.",
-      "overview": "Nakhon Phanom is een van de mooiste en meest onderschatte Mekong-riviersteden van Thailand, direct aan de overkant van de rivier van de dramatische kalksteenbergen van Tha Khek in Laos. Wat deze stad echt uniek maakt is haar diepe Vietnamese culturele erfgoed — Ho Chi Minh zelf woonde hier in ballingschap in de jaren 1920, zich schuilhoudend voor de Franse koloniale autoriteiten terwijl hij Vietnamese onafhankelijkheidsbewegingen organiseerde. Vandaag is zijn gereconstrueerde houten huis een museum dat origineel meubilair en de fruittuinen die hij eigenhandig plantte bewaart. De skyline van de stad wordt gedomineerd door kenmerkende Laotiaanse gouden spitse stupa's die je nergens anders in Thailand vindt, hun torens reikend naar boven als symbool voor het pad naar verlichting. Langs de Mekong-promenade vullen festivals en livemuziek de avondlucht, terwijl traditionele vissers bij dageraad nog steeds hun bamboenetten uitwerpen. Dit is een van Thailands perfecte culinaire ontsnappingen uit het drukke Bangkok — een plek waar Vietnamees-Thaise fusiegerechten, prachtige rivieruitzichten en authentieke cultuur samenkomen in een stad die voelt alsof ze tot een ander tijdperk behoort.",
-      "thingsToDo": "Begin je bezoek aan Nakhon Phanom bij het Ho Chi Minh House Museum (200 THB/$6 voor buitenlanders, 30 THB/$0,85 voor Thaise staatsburgers), waar je door het gereconstrueerde houten huis loopt waar de Vietnamese revolutionair in ballingschap leefde in de jaren 1920. Het museum bewaart origineel meubilair en is omringd door fruitbomen — pomelo, guave en jackfruit — die Ho Chi Minh eigenhandig plantte. Het is een fascinerend venster op een hoofdstuk van de geschiedenis dat de meeste bezoekers van Thailand nooit tegenkomen. Verken vervolgens de Mekong-promenade, die zich uitstrekt langs de rivieroever met prachtig uitzicht op de Laotiaanse Tha Khek-bergen. Het gouden Naga-beeld bij het bootaanleggebied is een populair herkenningspunt. Mis de kenmerkende Laotiaanse gouden spitse stupa's niet die verspreid door de stad staan — ze zien er compleet anders uit dan tempels in andere delen van Thailand, met hun torens die scherp naar boven wijzen als symbool voor de richting naar verlichting. Ga in de late namiddag naar het bootvertrekpunt bij de gouden Naga voor de zonsondergang-Mekongcruise, met vertrek om 17:30 voor 150 THB ($4,30). De prijs is inclusief bier, drankjes en eten. Als je extra tijd hebt, maak dan een dagtocht naar het heilige Naga-geestenmeer bij de grens met Bueng Kan, waar lokale bewoners boottochten maken (50 THB/$1,50 boot, 30 THB/$0,85 entree) en bidden om geluksnummers voor de loterij. Sta vroeg op om de traditionele Mekong-vissers te zien die hun bamboenetten uitwerpen — een tijdloos tafereel dat de geest van het rivierleven vastlegt.",
-      "whereToStay": "Accommodatie in Nakhon Phanom is uitstekende waar voor je geld, vooral langs de Mekong-oever. De beste strategie is een guesthouse aan de rivier boeken met direct uitzicht op de Mekong — je wordt wakker met het zicht op de Laotiaanse bergen en het geluid van de rivier beneden. Deze guesthouses aan de rivier zijn opmerkelijk betaalbaar vergeleken met vergelijkbare Mekong-uitzichtaccommodatie in meer toeristische steden als Chiang Khan of Nong Khai. Het stadscentrum is compact en bewandelbaar, dus verblijf bij de promenade geeft je gemakkelijke toegang tot de beste restaurants, de nachtmarkt en het vertrekpunt van de zonsondergangcruise. Boek vooruit tijdens het festivalseizoen en koelseizoen-weekenden wanneer binnenlandse toeristen op bezoek komen.",
-      "gettingAround": "Nakhon Phanom is een compacte stad die gemakkelijk te voet te verkennen is, vooral het promenadefgebied aan de rivier. De belangrijkste attracties — Ho Chi Minh House, de gouden stupa's, ontbijtrestaurants en het vertrekpunt van de zonsondergangcruise — liggen allemaal op loop- of korte fietsafstand van elkaar. Om het heilige Naga-meer bij Bueng Kan te bereiken heb je een motorfiets nodig (huur ~150-200 THB/$4,30-5,75 per dag) of auto. De dichtstbijzijnde luchthaven is Nakhon Phanom Airport, met directe vluchten vanuit Bangkok (ongeveer 1 uur). Vanaf de luchthaven is het een korte rit van 15-20 minuten naar het stadje per taxi (ongeveer 150-300 THB/$4,30-8,60). Motorverhuur is beschikbaar voor het verkennen van het omringende platteland en de wegen langs de rivier (100-200 THB/$2,85-5,75 per dag).",
-      "bestTimeToVisit": "Het koele seizoen van november tot februari is de beste tijd om Nakhon Phanom te bezoeken, met aangename temperaturen en heldere luchten, perfect voor wandelingen langs de rivier en zonsondergangcruises. Houd er rekening mee dat het in december verrassend koud kan zijn zo ver naar het noorden in Isaan — neem een muts, sjaal, handschoenen en een warme jas mee voor vroege ochtenden en avonden langs de Mekong. Het hete seizoen (maart-mei) brengt intense hitte, terwijl het regenseizoen (juni-oktober) namiddagse stortbuien en een gezwollen Mekong met zich meebrengt. Het festivalseizoen brengt livemuziek en vieringen naar de promenade, wat een prachtige sfeer creëert. Doordeweeks is het rustiger dan in het weekend voor een meer ontspannen ervaring.",
-      "safetyTips": "Nakhon Phanom is een extreem veilige stad met vrijwel geen criminaliteit tegen toeristen. Dit is een echte Thaise gemeenschap, geen toeristenstad, dus mensen zijn vriendelijk en gastvrij. De belangrijkste veiligheidsoverwegingen betreffen de Mekong — zwem er nooit in vanwege sterke stromingen en onvoorspelbare dieptes. Tijdens het koele seizoen (december-januari) kunnen temperaturen 's nachts flink dalen, vooral langs de rivier — neem warme lagen mee. Als je motorfiets rijdt op de wegen langs de rivier, zijn de condities over het algemeen goed maar let op onverlichte stukken 's nachts. De zonsondergangcruiseboten zijn veilig en goed georganiseerd. Blijf gehydrateerd tijdens het hete seizoen en gebruik zonbescherming op de onbeschutte promenade.",
-      "translated_at": "2026-03-09T00:00:00.000Z"
-    },
-    "fr": {
-      "enhanced_description": "Nakhon Phanom vous saisit dès l'instant où vous voyez le Mékong s'étendre largement devant vous, avec les montagnes déchiquetées de Tha Khek au Laos se dressant sur la rive opposée comme un tableau. Ce n'est pas une ville touristique — c'est un lieu vivant et vibrant où les cultures thaïlandaise, laotienne et vietnamienne se mêlent depuis plus d'un siècle. L'influence vietnamienne est profonde ici, des échoppes servant de parfaites crêpes et raviolis de style banh mi au petit-déjeuner jusqu'à la maison-mémorial de Ho Chi Minh nichée parmi les pamplemousses, goyaviers et jacquiers que le leader révolutionnaire a plantés lui-même il y a près de cent ans. En se promenant le long de l'esplanade du Mékong en fin d'après-midi, on passe devant des statues dorées de Naga gardant la rive et ces extraordinaires stupas pointus de style laotien captant la lumière déclinante — des joyaux architecturaux complètement différents des temples que l'on voit à Bangkok ou Chiang Mai. Quand le soleil descend vers le Laos, montez à bord d'un des bateaux de croisière au coucher du soleil partant à 17h30 pour seulement 150 bahts — bière, boissons et nourriture incluses — et dérivez le long du Mékong tandis que le ciel explose de couleurs. Le matin, la rivière s'anime à nouveau avec les pêcheurs utilisant des filets de bambou traditionnels, leurs silhouettes se découpant contre l'eau brumeuse. Si vous aimez la gastronomie, l'histoire et les expériences culturelles authentiques sans le moindre piège à touristes en vue, Nakhon Phanom pourrait bien devenir votre ville préférée sur le Mékong.",
-      "overview": "Nakhon Phanom est l'une des plus belles et des plus sous-estimées villes riveraines du Mékong en Thaïlande, située directement en face des spectaculaires montagnes calcaires de Tha Khek au Laos. Ce qui rend cette ville véritablement unique est son profond héritage culturel vietnamien — Ho Chi Minh lui-même y vécut en exil dans les années 1920, se cachant des autorités coloniales françaises tout en organisant les mouvements d'indépendance vietnamiens. Aujourd'hui, sa maison en bois reconstituée est un musée préservant le mobilier original et les jardins fruitiers qu'il planta de ses propres mains. La ligne d'horizon de la ville est dominée par des stupas dorés pointus de style laotien que l'on ne trouve nulle part ailleurs en Thaïlande, leurs flèches s'élançant vers le haut pour symboliser le chemin vers l'illumination. Le long de l'esplanade du Mékong, festivals et musique live emplissent l'air du soir, tandis que les pêcheurs traditionnels lancent encore leurs filets de bambou à l'aube. C'est l'une des escapades culinaires parfaites de la Thaïlande loin de Bangkok — un endroit où la cuisine fusion vietnamienne-thaïlandaise, les vues spectaculaires sur la rivière et la culture authentique se rejoignent dans une ville qui semble appartenir à une autre époque.",
-      "thingsToDo": "Commencez votre visite de Nakhon Phanom au musée de la Maison de Ho Chi Minh (200 THB/6 $ pour les étrangers, 30 THB/0,85 $ pour les Thaïlandais), où vous traverserez la maison en bois reconstituée où le révolutionnaire vietnamien vécut en exil dans les années 1920. Le musée conserve le mobilier original et est entouré d'arbres fruitiers — pamplemousses, goyaviers et jacquiers — que Ho Chi Minh planta de ses propres mains. C'est une fenêtre fascinante sur un chapitre d'histoire que la plupart des visiteurs en Thaïlande ne rencontrent jamais. Explorez ensuite l'esplanade du Mékong, qui s'étend le long de la rive avec des vues imprenables sur les montagnes calcaires de Tha Khek au Laos. La statue dorée de Naga près de la zone d'embarquement est un point de repère populaire. Ne manquez pas les distinctifs stupas dorés pointus de style laotien disséminés dans toute la ville — ils sont complètement différents des temples d'autres régions de Thaïlande, avec leurs flèches pointant vivement vers le haut pour symboliser la direction de l'illumination. En fin d'après-midi, dirigez-vous vers le point de départ des bateaux près du Naga doré pour la croisière au coucher du soleil sur le Mékong, départ à 17h30 pour 150 THB (4,30 $). Le prix comprend bière, boissons et nourriture. Si vous avez du temps supplémentaire, faites une excursion au lac sacré de l'esprit Naga près de la frontière de Bueng Kan, où les habitants font des promenades en bateau (50 THB/1,50 $ le bateau, 30 THB/0,85 $ l'entrée) et prient pour des numéros de loterie chanceux. Levez-vous tôt un matin pour observer les pêcheurs traditionnels du Mékong lançant leurs filets de bambou — une scène intemporelle qui capture l'esprit de la vie fluviale.",
-      "whereToStay": "L'hébergement à Nakhon Phanom offre un excellent rapport qualité-prix, surtout le long du front de mer du Mékong. La meilleure stratégie est de réserver une pension au bord de la rivière avec vue directe sur le Mékong — vous vous réveillerez face aux montagnes laotiennes et au son de la rivière en contrebas. Ces pensions riveraines sont remarquablement abordables comparées à des hébergements similaires avec vue sur le Mékong dans des villes plus touristiques comme Chiang Khan ou Nong Khai. Le centre-ville est compact et facile à parcourir à pied, donc séjourner près de l'esplanade vous met à portée des meilleurs restaurants, du marché de nuit et du point de départ de la croisière au coucher du soleil. Réservez à l'avance pendant la saison des festivals et les week-ends de saison fraîche quand les touristes nationaux visitent.",
-      "gettingAround": "Nakhon Phanom est une ville compacte facile à explorer à pied, surtout la zone de l'esplanade riveraine. Les principales attractions — la Maison Ho Chi Minh, les stupas dorés, les restaurants de petit-déjeuner et le point de départ de la croisière au coucher du soleil — sont tous à distance de marche ou à un court trajet à vélo les uns des autres. Pour atteindre le lac sacré Naga près de Bueng Kan, vous aurez besoin d'un scooter (location ~150-200 THB/4,30-5,75 $ par jour) ou d'une voiture. L'aéroport le plus proche est celui de Nakhon Phanom, avec des vols directs depuis Bangkok (environ 1 heure). De l'aéroport, c'est un court trajet de 15-20 minutes en taxi jusqu'à la ville (environ 150-300 THB/4,30-8,60 $). La location de scooter est disponible pour explorer la campagne environnante et les routes riveraines (100-200 THB/2,85-5,75 $ par jour).",
-      "bestTimeToVisit": "La saison fraîche de novembre à février est la meilleure période pour visiter Nakhon Phanom, avec des températures agréables et un ciel dégagé parfaits pour les promenades au bord de la rivière et les croisières au coucher du soleil. Sachez qu'en décembre il peut faire étonnamment froid aussi loin au nord de l'Isaan — emportez bonnet, écharpe, gants et veste chaude pour les matins et soirées le long du Mékong. La saison chaude (mars-mai) apporte une chaleur intense, tandis que la saison des pluies (juin-octobre) voit des averses l'après-midi et un Mékong gonflé. La saison des festivals amène musique live et célébrations sur l'esplanade, créant une atmosphère merveilleuse. Les jours de semaine sont plus calmes que les week-ends pour une expérience plus détendue.",
-      "safetyTips": "Nakhon Phanom est une ville extrêmement sûre avec pratiquement aucune criminalité envers les touristes. C'est une véritable communauté thaïlandaise, pas une ville touristique, les gens sont donc amicaux et accueillants. Les principales considérations de sécurité concernent le Mékong — ne vous y baignez jamais en raison des courants forts et des profondeurs imprévisibles. Pendant la saison fraîche (décembre-janvier), les températures peuvent chuter considérablement la nuit, surtout le long de la rivière — emportez des vêtements chauds. Si vous conduisez un scooter sur les routes riveraines, les conditions sont généralement bonnes mais attention aux tronçons non éclairés la nuit. Les bateaux de croisière au coucher du soleil sont sûrs et bien organisés. Restez hydraté pendant la saison chaude et utilisez une protection solaire sur l'esplanade exposée.",
-      "translated_at": "2026-03-10T00:00:00.000Z"
-    },
-    "de": {
-      "enhanced_description": "Nakhon Phanom packt einen in dem Moment, in dem man den Mekong breit vor sich sieht, mit den zerklüfteten Tha Khek-Bergen von Laos, die am gegenüberliegenden Ufer wie ein Gemälde aufragen. Dies ist keine Touristenstadt — es ist ein lebendiger, atmender Ort, an dem sich thailändische, laotische und vietnamesische Kulturen seit über einem Jahrhundert vermischen. Der vietnamesische Einfluss geht hier tief, von den Essensständen, die perfekte Banh-Mi-artige Pfannkuchen und Teigtaschen zum Frühstück servieren, bis zum Ho-Chi-Minh-Gedenkhaus, versteckt zwischen Pomelo-, Guaven- und Jackfruchtbäumen, die der revolutionäre Führer vor fast hundert Jahren selbst gepflanzt hat. Beim Spaziergang entlang der Mekong-Promenade am späten Nachmittag passiert man goldene Naga-Statuen, die das Flussufer bewachen, und diese außergewöhnlichen laotischen Spitzstupas, die das schwindende Licht einfangen — architektonische Juwelen, die sich völlig von Tempeln unterscheiden, die man in Bangkok oder Chiang Mai sieht. Wenn die Sonne Richtung Laos sinkt, steigt man auf eines der Sonnenuntergangs-Kreuzfahrtboote, die um 17:30 Uhr für nur 150 Baht ablegen — Bier, Getränke und Essen inklusive — und treibt den Mekong entlang, während der Himmel in Farben explodiert. Am Morgen erwacht der Fluss erneut zum Leben mit Fischern, die traditionelle Bambusnetze verwenden, ihre Silhouetten vor dem nebligen Wasser gerahmt. Wenn Sie gutes Essen, Geschichte und echte kulturelle Erlebnisse lieben, ohne eine einzige Touristenfalle in Sicht, wird Nakhon Phanom vielleicht Ihre Lieblingsstadt am Mekong.",
-      "overview": "Nakhon Phanom ist eine der schönsten und am meisten unterschätzten Mekong-Flussstädte Thailands, direkt gegenüber den dramatischen Kalksteinbergen von Tha Khek in Laos gelegen. Was diese Stadt wirklich einzigartig macht, ist ihr tiefes vietnamesisches Kulturerbe — Ho Chi Minh selbst lebte hier in den 1920er Jahren im Exil, versteckte sich vor den französischen Kolonialbehörden und organisierte vietnamesische Unabhängigkeitsbewegungen. Heute ist sein rekonstruiertes Holzhaus ein Museum, das Originalmöbel und die Obstgärten bewahrt, die er eigenhändig anlegte. Die Skyline der Stadt wird von unverwechselbaren laotischen goldenen Spitzstupas dominiert, die man nirgendwo sonst in Thailand findet, deren Spitzen nach oben ragen als Symbol für den Weg zur Erleuchtung. Entlang der Mekong-Promenade füllen Festivals und Live-Musik die Abendluft, während traditionelle Fischer noch immer bei Morgengrauen ihre Bambusnetze auswerfen. Dies ist eine von Thailands perfekten kulinarischen Fluchten aus dem geschäftigen Bangkok — ein Ort, an dem vietnamesisch-thailändische Fusionsküche, atemberaubende Flussausblicke und authentische Kultur in einer Stadt zusammenkommen, die sich anfühlt, als gehöre sie einer anderen Ära an.",
-      "thingsToDo": "Beginnen Sie Ihren Besuch in Nakhon Phanom am Ho Chi Minh House Museum (200 THB/6 $ für Ausländer, 30 THB/0,85 $ für thailändische Staatsbürger), wo Sie durch das rekonstruierte Holzhaus gehen, in dem der vietnamesische Revolutionär in den 1920er Jahren im Exil lebte. Das Museum bewahrt Originalmöbel und ist von Obstbäumen umgeben — Pomelo, Guave und Jackfrucht —, die Ho Chi Minh eigenhändig pflanzte. Es ist ein faszinierender Einblick in ein Geschichtskapitel, dem die meisten Thailand-Besucher nie begegnen. Erkunden Sie anschließend die Mekong-Promenade, die sich am Flussufer entlangzieht mit atemberaubenden Ausblicken auf die laotischen Tha Khek-Berge. Die goldene Naga-Statue in der Nähe des Bootsanlegers ist ein beliebtes Wahrzeichen. Verpassen Sie nicht die unverwechselbaren laotischen goldenen Spitzstupas, die über die Stadt verteilt sind — sie sehen völlig anders aus als Tempel in anderen Teilen Thailands, mit ihren Spitzen, die scharf nach oben zeigen als Symbol für die Richtung zur Erleuchtung. Am späten Nachmittag begeben Sie sich zum Bootsabfahrtspunkt beim goldenen Naga für die Sonnenuntergangs-Mekongkreuzfahrt, Abfahrt um 17:30 Uhr für 150 THB (4,30 $). Der Preis beinhaltet Bier, Getränke und Essen. Wenn Sie zusätzliche Zeit haben, machen Sie einen Tagesausflug zum heiligen Naga-Geistersee nahe der Grenze bei Bueng Kan, wo Einheimische Bootsfahrten unternehmen (50 THB/1,50 $ Boot, 30 THB/0,85 $ Eintritt) und um Glücksnummern für die Lotterie beten. Stehen Sie an einem Morgen früh auf, um die traditionellen Mekong-Fischer beim Auswerfen ihrer Bambusnetze zu beobachten — eine zeitlose Szene, die den Geist des Flusslebens einfängt.",
-      "whereToStay": "Unterkünfte in Nakhon Phanom bieten ein hervorragendes Preis-Leistungs-Verhältnis, besonders entlang der Mekong-Uferpromenade. Die beste Strategie ist, ein Gästehaus am Fluss mit direktem Mekong-Blick zu buchen — Sie wachen mit dem Blick auf die laotischen Berge und dem Klang des Flusses unter Ihnen auf. Diese Flussgästehäuser sind bemerkenswert erschwinglich im Vergleich zu ähnlichen Mekong-Panorama-Unterkünften in touristischeren Städten wie Chiang Khan oder Nong Khai. Das Stadtzentrum ist kompakt und fußläufig erschließbar, sodass ein Aufenthalt nahe der Promenade Sie in leichte Reichweite der besten Restaurants, des Nachtmarkts und des Abfahrtspunkts der Sonnenuntergangskreuzfahrt bringt. Buchen Sie im Voraus während der Festivalsaison und an kühlen Jahreszeit-Wochenenden, wenn einheimische Touristen zu Besuch kommen.",
-      "gettingAround": "Nakhon Phanom ist eine kompakte Stadt, die leicht zu Fuß zu erkunden ist, besonders der Promenadenbereich am Fluss. Die Hauptattraktionen — Ho Chi Minh House, die goldenen Stupas, Frühstücksrestaurants und der Abfahrtspunkt der Sonnenuntergangskreuzfahrt — liegen alle in Geh- oder kurzer Fahrradentfernung voneinander. Um den heiligen Naga-See bei Bueng Kan zu erreichen, benötigen Sie ein Motorrad (Miete ~150-200 THB/4,30-5,75 $ pro Tag) oder Auto. Der nächste Flughafen ist der Nakhon Phanom Airport mit Direktflügen aus Bangkok (etwa 1 Stunde). Vom Flughafen sind es 15-20 Minuten mit dem Taxi in die Stadt (etwa 150-300 THB/4,30-8,60 $). Motorradverleih ist verfügbar für die Erkundung der umliegenden Landschaft und Uferstraßen (100-200 THB/2,85-5,75 $ pro Tag).",
-      "bestTimeToVisit": "Die kühle Jahreszeit von November bis Februar ist die beste Reisezeit für Nakhon Phanom, mit angenehmen Temperaturen und klarem Himmel, perfekt für Flussufer-Spaziergänge und Sonnenuntergangskreuzfahrten. Beachten Sie, dass es im Dezember so weit im Norden des Isaan überraschend kalt werden kann — packen Sie Mütze, Schal, Handschuhe und eine warme Jacke für frühe Morgenstunden und Abende am Mekong ein. Die heiße Jahreszeit (März-Mai) bringt intensive Hitze, während die Regenzeit (Juni-Oktober) nachmittägliche Wolkenbrüche und einen angeschwollenen Mekong mit sich bringt. Die Festivalsaison bringt Live-Musik und Feiern auf die Promenade und schafft eine wunderbare Atmosphäre. Wochentags ist es ruhiger als am Wochenende für ein entspannteres Erlebnis.",
-      "safetyTips": "Nakhon Phanom ist eine äußerst sichere Stadt mit praktisch keiner Kriminalität gegen Touristen. Dies ist eine echte thailändische Gemeinschaft, keine Touristenstadt, daher sind die Menschen freundlich und gastfreundlich. Die wichtigsten Sicherheitsüberlegungen betreffen den Mekong — schwimmen Sie nie darin wegen starker Strömungen und unberechenbarer Tiefen. Während der kühlen Jahreszeit (Dezember-Januar) können die Temperaturen nachts erheblich sinken, besonders am Fluss — bringen Sie warme Kleidungsschichten mit. Wenn Sie mit dem Motorrad auf den Uferstraßen fahren, sind die Bedingungen generell gut, achten Sie aber auf unbeleuchtete Abschnitte nachts. Die Sonnenuntergangs-Kreuzfahrtboote sind sicher und gut organisiert. Bleiben Sie in der heißen Jahreszeit hydriert und verwenden Sie Sonnenschutz auf der exponierten Promenade.",
-      "translated_at": "2026-03-10T00:00:00.000Z"
-    },
-    "zh": {
-      "enhanced_description": "那空帕农（Nakhon Phanom）在你看到湄公河宽阔地展现在眼前的那一刻就牢牢抓住了你，对岸老挝的Tha Khek嶙峋山峦如一幅画般拔地而起。这不是一座旅游城市——这是一个活生生的地方，泰国、老挝和越南文化在这里交融了一个多世纪。越南的影响在此根深蒂固，从早餐摊位上堪比完美的越式煎饼和饺子，到掩映在柚子树、番石榴和菠萝蜜树间的胡志明纪念故居——这些果树是这位革命领袖近百年前亲手种下的。傍晚时分沿湄公河步道漫步，你会经过守护河岸的金色那迦雕像，以及那些在余晖中闪耀的非凡老挝风格金色尖塔——这些建筑瑰宝与你在曼谷或清迈看到的寺庙截然不同。当太阳沉向老挝，登上下午5:30出发的日落游船，仅需150泰铢——啤酒、饮料和食物全包——顺着湄公河漂流，看天空绽放出绚烂的色彩。清晨，河面再次苏醒，渔民们使用传统的竹网捕鱼，他们的剪影映衬在雾蒙蒙的水面上。如果你热爱美食、历史和真正的文化体验，而且不想看到任何旅游陷阱，那空帕农可能会成为你最爱的湄公河城市。",
-      "overview": "那空帕农是泰国最美丽且最被低估的湄公河沿岸城市之一，与老挝壮观的Tha Khek石灰岩山脉隔河相望。真正让这座城市独特的是其深厚的越南文化遗产——胡志明本人在1920年代曾流亡居住于此，藏身躲避法国殖民当局，同时组织越南独立运动。如今，他重建的木屋已成为博物馆，保存着原始家具和他亲手种植的果园。城市的天际线被独特的老挝风格金色尖塔所主导，这种建筑在泰国其他地方找不到，塔尖直指天空象征着通往开悟之路。沿湄公河步道，节日和现场音乐充满了夜晚的空气，传统渔民仍在黎明时分撒出竹网。这是泰国远离繁忙曼谷的完美美食之旅目的地——越泰融合美食、壮美的河景和真实的文化在这座仿佛属于另一个时代的城市中交汇。",
-      "thingsToDo": "从胡志明故居博物馆开始你的那空帕农之旅（外国人200泰铢/6美元，泰国公民30泰铢/0.85美元），走进这位越南革命者在1920年代流亡时居住的重建木屋。博物馆保存着原始家具，四周环绕着胡志明亲手种植的果树——柚子、番石榴和菠萝蜜。这是一扇窥探大多数泰国游客从未接触过的历史篇章的迷人窗口。接下来探索湄公河步道，沿河岸延伸，可欣赏对岸老挝Tha Khek山脉的壮丽景色。码头区的金色那迦雕像是热门地标。不要错过散布在城市各处的老挝风格金色尖塔——它们与泰国其他地方的寺庙完全不同，塔尖锐利地向上伸展，象征着通往开悟的方向。傍晚前往金色那迦附近的码头搭乘湄公河日落游船，下午5:30出发，150泰铢（4.30美元），含啤酒、饮料和食物。如果有额外时间，可以到靠近廊开府（Bueng Kan）边界的神圣那迦灵湖一日游，当地人在那里乘船游览（船费50泰铢/1.50美元，门票30泰铢/0.85美元）并祈求彩票幸运号码。早起看传统的湄公河渔民撒出竹网——一幅捕捉河畔生活精髓的永恒画面。",
-      "whereToStay": "那空帕农的住宿性价比极高，尤其是沿湄公河岸的地段。最佳策略是预订一间能直接看到湄公河的河畔客栈——你将在老挝群山的景色和河水的声音中醒来。这些河畔客栈与清刊（Chiang Khan）或廊开（Nong Khai）等更热门旅游城市的同类湄公河景观住宿相比，价格出奇地实惠。市中心紧凑且适合步行，所以住在步道附近可以方便到达最好的餐厅、夜市和日落游船码头。节日季和凉季周末国内游客到访时建议提前预订。",
-      "gettingAround": "那空帕农是一座紧凑的城市，步行即可轻松探索，尤其是河畔步道区域。主要景点——胡志明故居、金色佛塔、早餐餐馆和日落游船码头——都在步行或短程骑车距离内。前往廊开府附近的神圣那迦灵湖需要摩托车（租金约150-200泰铢/4.30-5.75美元/天）或汽车。最近的机场是那空帕农机场，有从曼谷出发的直飞航班（约1小时）。从机场到市区出租车约15-20分钟（约150-300泰铢/4.30-8.60美元）。可租摩托车探索周边乡村和沿河公路（100-200泰铢/2.85-5.75美元/天）。",
-      "bestTimeToVisit": "11月至2月的凉季是访问那空帕农的最佳时间，气温宜人、天空晴朗，非常适合河畔漫步和日落游船。请注意12月在伊桑这么北的地方可能出乎意料地冷——为清晨和湄公河畔的傍晚准备好帽子、围巾、手套和保暖外套。热季（3月至5月）酷热难耐，雨季（6月至10月）带来午后暴雨和湄公河涨水。节日季节步道上有现场音乐和庆典活动，气氛很棒。工作日比周末更安静，体验更加悠闲。",
-      "safetyTips": "那空帕农是一座极其安全的城市，几乎没有针对游客的犯罪。这是一个真正的泰国社区而非旅游城市，人们友善好客。主要的安全注意事项与湄公河有关——因水流湍急和深度不可预测，切勿在河中游泳。凉季（12月至1月）夜间温度可能大幅下降，尤其在河边——请带好保暖衣物。如果骑摩托车走沿河公路，路况总体良好，但注意夜间无灯路段。日落游船安全且组织有序。热季注意补水，在无遮挡的步道上使用防晒措施。",
-      "translated_at": "2026-03-11T00:00:00.000Z"
-    },
-    "ru": {
-      "enhanced_description": "Накхонпханом захватывает с первого мгновения, когда видишь Меконг, широко раскинувшийся перед тобой, а на противоположном берегу зубчатые горы Тха Кхек в Лаосе вздымаются, словно картина. Это не туристический город — это живое, дышащее место, где тайская, лаосская и вьетнамская культуры переплетаются уже больше века. Вьетнамское влияние здесь глубоко — от лотков с идеальными блинчиками и пельменями в стиле бань ми на завтрак до мемориального дома Хо Ши Мина, спрятанного среди деревьев помело, гуавы и джекфрута, которые революционный лидер посадил собственными руками почти сто лет назад. Прогуливаясь по набережной Меконга ближе к вечеру, вы пройдёте мимо золотых статуй Нага, охраняющих берег, и тех необыкновенных лаосских остроконечных ступ, ловящих угасающий свет — архитектурных жемчужин, совершенно непохожих на храмы Бангкока или Чиангмая. Когда солнце клонится к Лаосу, садитесь на один из круизных корабликов, отправляющихся в 17:30 всего за 150 бат — пиво, напитки и еда включены — и плывите по Меконгу, пока небо взрывается красками. Утром река снова оживает с рыбаками, забрасывающими традиционные бамбуковые сети, их силуэты вырисовываются на фоне туманной воды. Если вы любите еду, историю и подлинные культурные впечатления без единой туристической ловушки, Накхонпханом может стать вашим любимым городом на Меконге.",
-      "overview": "Накхонпханом — один из красивейших и наиболее недооценённых городов на Меконге в Таиланде, расположенный прямо напротив впечатляющих известняковых гор Тха Кхек в Лаосе. По-настоящему уникальным этот город делает глубокое вьетнамское культурное наследие — сам Хо Ши Мин жил здесь в изгнании в 1920-х годах, скрываясь от французских колониальных властей и организуя вьетнамское движение за независимость. Сегодня его восстановленный деревянный дом — музей, хранящий оригинальную мебель и фруктовые сады, посаженные его руками. Силуэт города определяют характерные лаосские золотые остроконечные ступы, которых нет больше нигде в Таиланде, — их шпили устремлены ввысь, символизируя путь к просветлению. Вдоль набережной Меконга вечерний воздух наполняют фестивали и живая музыка, а традиционные рыбаки по-прежнему забрасывают бамбуковые сети на рассвете. Это одно из идеальных кулинарных направлений Таиланда вдали от суетливого Бангкока — место, где вьетнамско-тайская фьюжн-кухня, потрясающие речные виды и подлинная культура соединяются в городе, словно принадлежащем другой эпохе.",
-      "thingsToDo": "Начните знакомство с Накхонпханомом с Дома-музея Хо Ши Мина (200 THB/6$ для иностранцев, 30 THB/0,85$ для тайцев), где вы пройдёте через восстановленный деревянный дом, в котором вьетнамский революционер жил в изгнании в 1920-х. Музей хранит оригинальную мебель и окружён фруктовыми деревьями — помело, гуавой и джекфрутом, — посаженными Хо Ши Мином собственноручно. Это увлекательное окно в главу истории, с которой большинство туристов в Таиланде никогда не сталкиваются. Затем исследуйте набережную Меконга с потрясающими видами на лаосские горы Тха Кхек. Золотая статуя Нага у причала — популярная достопримечательность. Не пропустите характерные лаосские золотые остроконечные ступы, разбросанные по городу, — они совершенно не похожи на храмы в других частях Таиланда, их шпили остро устремлены вверх, символизируя путь к просветлению. Ближе к вечеру отправляйтесь к причалу у золотого Нага на закатный круиз по Меконгу, отправление в 17:30, 150 THB (4,30$), включая пиво, напитки и еду. Если есть время, совершите однодневную поездку к священному озеру духа Нага у границы Бынгкан, где местные катаются на лодках (50 THB/1,50$ лодка, 30 THB/0,85$ вход) и молятся об удачных лотерейных номерах. Встаньте пораньше, чтобы понаблюдать за традиционными рыбаками Меконга, забрасывающими бамбуковые сети — вечная сцена, передающая дух речной жизни.",
-      "whereToStay": "Размещение в Накхонпханоме отличается превосходным соотношением цены и качества, особенно вдоль набережной Меконга. Лучшая стратегия — забронировать гестхаус на берегу реки с прямым видом на Меконг: вы будете просыпаться с видом на лаосские горы и звуком реки внизу. Эти речные гестхаусы удивительно доступны по сравнению с аналогичным жильём с видом на Меконг в более туристических городах вроде Чиангкхана или Нонгкхая. Центр города компактен и пеший, поэтому проживание у набережной обеспечивает лёгкий доступ к лучшим ресторанам, ночному рынку и причалу закатного круиза. Бронируйте заранее в сезон фестивалей и в выходные прохладного сезона, когда приезжают внутренние туристы.",
-      "gettingAround": "Накхонпханом — компактный город, который легко обойти пешком, особенно район набережной. Основные достопримечательности — Дом Хо Ши Мина, золотые ступы, утренние кафе и причал закатного круиза — находятся в пешей или короткой велосипедной доступности друг от друга. Чтобы добраться до священного озера Нага у Бынгкана, понадобится скутер (аренда ~150–200 THB/4,30–5,75$ в день) или автомобиль. Ближайший аэропорт — Накхонпханом, с прямыми рейсами из Бангкока (около 1 часа). Из аэропорта до города 15–20 минут на такси (примерно 150–300 THB/4,30–8,60$). Скутер можно арендовать для изучения окрестностей и речных дорог (100–200 THB/2,85–5,75$ в день).",
-      "bestTimeToVisit": "Прохладный сезон с ноября по февраль — лучшее время для посещения Накхонпханома: приятные температуры и ясное небо, идеально для прогулок по набережной и закатных круизов. Учтите, что в декабре так далеко на севере Исана может быть неожиданно холодно — возьмите шапку, шарф, перчатки и тёплую куртку для ранних утр и вечеров у Меконга. Жаркий сезон (март–май) приносит изнуряющую жару, а сезон дождей (июнь–октябрь) — послеобеденные ливни и разливающийся Меконг. Фестивальный сезон наполняет набережную живой музыкой и праздниками, создавая чудесную атмосферу. В будние дни тише, чем в выходные, для более расслабленного отдыха.",
-      "safetyTips": "Накхонпханом — чрезвычайно безопасный город, преступность против туристов практически отсутствует. Это настоящая тайская община, а не туристический город, поэтому люди дружелюбны и гостеприимны. Главное, что касается безопасности, связано с Меконгом — никогда не купайтесь в нём из-за сильных течений и непредсказуемых глубин. В прохладный сезон (декабрь–январь) ночные температуры могут значительно падать, особенно у реки — берите тёплые вещи. При езде на скутере по прибрежным дорогам условия обычно хорошие, но будьте осторожны на неосвещённых участках ночью. Закатные круизные кораблики безопасны и хорошо организованы. В жаркий сезон пейте достаточно воды и пользуйтесь солнцезащитой на открытой набережной.",
-      "translated_at": "2026-03-11T00:00:00.000Z"
-    },
-    "ko": {
-      "enhanced_description": "나콘파놈은 태국에서 가장 아름답고 저평가된 메콩강변 도시 중 하나입니다. 강 건너편 라오스의 타깨크가 보이며, 베트남 문화와의 독특한 역사적 유대가 도시의 정체성을 형성하고 있습니다.\n\n프라탓파놈은 태국 동북부에서 가장 중요한 불교 성지로, 라오스 양식의 황금 불탑이 웅장합니다. 매년 축제 기간에는 전국에서 순례자들이 찾아옵니다. 호치민 기념관은 베트남 독립운동가 호치민이 1928-1929년 이 도시에 머물렀던 역사를 기념하는 곳입니다.\n\n메콩강변 산책로는 태국에서 가장 아름다운 강변 산책로 중 하나로, 특히 해질녘의 풍경이 장관입니다. 베트남-태국 퓨전 음식은 나콘파놈만의 독특한 미식 경험으로, 베트남식 쌀국수와 태국 향신료가 어우러진 요리를 맛볼 수 있습니다.",
-      "hidden_gems": [],
-      "authentic_experiences": [],
-      "foodie_adventures": [],
-      "overview": "나콘파놈은 태국에서 가장 아름답고 저평가된 메콩강변 도시로, 베트남 문화와의 깊은 유대, 라오스 양식의 황금 불탑, 아름다운 강변 산책로가 특징입니다.",
-      "thingsToDo": "호치민 기념관(외국인 입장료 200바트/)에서 시작하세요. 프라탓파놈 불탑은 태국 동북부 최고의 불교 성지입니다. 메콩강변 산책로에서 일몰을 감상하고, 현지 베트남-태국 퓨전 음식을 맛보세요.",
-      "whereToStay": "나콘파놈의 숙소는 특히 메콩강변을 따라 가성비가 뛰어납니다. 강변 게스트하우스에서 라오스가 보이는 풍경과 함께 머물 수 있습니다.",
-      "gettingAround": "나콘파놈은 컴팩트한 도시로, 특히 강변 지역은 도보로 쉽게 탐험할 수 있습니다. 외곽 명소는 오토바이 대여나 송태우를 이용하세요.",
-      "bestTimeToVisit": "나콘파놈의 최적 방문 시기는 11월부터 2월까지의 건기입니다. 서늘하고 쾌적하며, 프라탓파놈 축제(보통 2월)를 즐길 수 있습니다.",
-      "safetyTips": "나콘파놈은 매우 안전한 도시로, 관광객에 대한 범죄가 거의 없습니다. 라오스 국경을 건널 때 여권과 비자를 확인하세요.",
-      "translated_at": "2026-03-14T00:00:00.000Z"
+  "travel_tips": [
+    "One or two nights is the right first Nakhon Phanom stay for most travelers.",
+    "Do the riverfront core before the long temple drive south.",
+    "Keep the Vietnamese food layer visible instead of defaulting to generic Thai restaurant picks.",
+    "Use a car or driver for Phra That Phanom, Wat That Renu, or any broader province circuit.",
+    "Recheck current temple hours, airport schedules, and local event closures directly before relying on exact day-of logistics."
+  ],
+  "best_time_to_visit": {
+    "season": "November to February is the easiest overall window because riverfront walking and temple planning are more comfortable and the Mekong-side views are usually clearer.",
+    "weather": "Hot months still work if you structure the day around early and late hours. Rainy months can make the riverfront moodier and greener, but they raise the cost of adding long province drives without checking conditions.",
+    "reasons": "Nakhon Phanom is a city that benefits from comfort outdoors, because the riverfront and heritage layer are part of the core experience rather than optional filler."
+  },
+  "budget_info": {
+    "daily_budget": {
+      "budget": "A budget Nakhon Phanom stay is realistic with a simple room, heritage-food stops, and a city-first plan that avoids unnecessary long-distance transport.",
+      "mid": "Mid-range spending usually means a stronger riverfront hotel, a mix of Vietnamese and local sit-down meals, and one deliberate temple run outside the center.",
+      "luxury": "Higher spending here comes mostly from room choice and transport decisions, not from heavy attraction-ticket costs."
     }
   },
-  "extended_description": "## Overview\nNakhon Phanom is one of Thailand's most beautiful and least visited Mekong River cities, sitting on the western bank directly across from the dramatic limestone karst mountains of Tha Khek in Laos. What makes this city genuinely unique is its deep Vietnamese cultural heritage — Ho Chi Minh himself lived here in exile during the 1920s, hiding from French colonial authorities while organizing Vietnamese independence movements. His reconstructed wooden house is now a museum surrounded by fruit trees he planted by hand. The skyline is punctuated by distinctive Lao-style golden pointed stupas found nowhere else in Thailand, while the Mekong promenade comes alive every evening with local families, food vendors, and weekend walking street markets. For travelers seeking authentic Mekong experiences without tourist crowds, Nakhon Phanom delivers something rare in modern Thailand.\n\n## Best Time to Visit\nNovember through February is ideal — cool temperatures (15-28°C) and clear skies make for perfect riverside walks and sunset cruises. December can be surprisingly cold this far northeast, dropping to 10-12°C at night — pack warm layers for evenings along the Mekong. The Illuminated Boat Procession (Lai Reua Fai) during Ok Phansa in October is Nakhon Phanom's signature festival, with elaborately decorated boats of fire floating down the Mekong in a spectacular celebration. The That Phanom Festival in January or February draws pilgrims to the sacred stupa from across Isaan. March through May is scorching (35-42°C). The rainy season (June-October) brings a swollen, dramatic Mekong and occasional afternoon downpours.\n\n## How to Get There\nThe easiest route is a direct flight from Bangkok to Nakhon Phanom Airport (1 hour, 1,500-3,000 THB on Nok Air or AirAsia). From the airport (18 km west of town), airport minibuses shuttle to hotels for 100 THB or taxis cost 200-250 THB. Overnight buses from Bangkok's Mo Chit Terminal take 11-14 hours (430-855 THB depending on class). From Khon Kaen, buses run several times daily (5 hours, 234 THB). From Udon Thani, buses depart every 30 minutes (4 hours, 210 THB). Nakhon Phanom connects easily with the Mekong trail — Mukdahan is 190 km south and Bueng Kan is 2 hours west.\n\n## Where to Stay\nThe Mekong riverfront is the place to be. Riverside guesthouses and hotels with direct river views offer exceptional value — wake up to the sight of Laotian mountains reflected in the Mekong. The River Hotel (1,400-2,050 THB/night) earns consistently top ratings for its river views and central location. Fortune View Khong Hotel (1,830-8,030 THB) offers more upscale Mekong-facing rooms. Budget travelers find clean rooms at Hop Inn (684-972 THB) and Siam Grand Hotel (540-972 THB). Vela Dhi is the premium option for those seeking luxury. The town center is compact and walkable — staying near the promenade puts you within easy reach of restaurants, the night market, and the sunset cruise departure point. Book ahead during festival season and cool-season weekends.\n\n## What to Do\nStart at the Ho Chi Minh House Museum (200 THB foreigners, 30 THB Thai nationals) — walk through the reconstructed wooden house where the Vietnamese leader lived in exile, surrounded by pomelo, guava, and jackfruit trees he planted himself. Stroll the Mekong Promenade past the golden Naga statue landmark with views of Tha Khek's limestone mountains across the river. The weekend Walking Street (Friday-Sunday) stretches 800 meters along the riverfront with food stalls, live music, and local handicrafts. At 5:30pm, board a sunset Mekong cruise boat near the golden Naga — just 150 THB including beer, drinks, and food as you drift along the river watching the sky explode in color over Laos. Explore the Lao-style golden pointed stupas scattered throughout the city — their sharp spires are architecturally distinct from anything in Bangkok or Chiang Mai.\n\n## Food & Dining\nNakhon Phanom's food scene reflects its multicultural heritage. Vietnamese-Thai fusion is the star — morning stalls serve perfect banh mi-style pancakes and dumplings for 30-50 THB. Chomchan restaurant earns the highest ratings for authentic Thai cuisine. Kitchen Khong serves excellent Isaan specialties. Riverside restaurants like Chelsea Riverside and Viewkong offer Mekong views with meals from 80-250 THB. The Vietnamese Pancakes and Dumplings House is a local institution for breakfast. Wooden House Congee serves the best rice porridge in town. Evening dining along the promenade pairs Mekong sunset views with cold beers (60-80 THB) and grilled river fish (80-180 THB).\n\n## Budget Guide\nNakhon Phanom offers outstanding value. Budget travelers spend 500-900 THB/day ($14-25): budget hotel, market food, promenade walking, and the sunset cruise (150 THB with drinks included). Mid-range travelers budget 1,100-2,200 THB/day ($30-60) with riverside hotels, restaurant meals, all attractions, and the sunset cruise. Even the luxury tier is affordable at 2,200-3,600 THB/day ($60-100) — premium hotels here cost a fraction of Bangkok or Chiang Mai prices. The main attractions are cheap: Ho Chi Minh House 200 THB, sunset cruise 150 THB, promenade and stupas are free.\n\n## Safety & Tips\nNakhon Phanom is extremely safe with virtually no crime against tourists. This is a real Thai community, not a tourist town, so people are genuinely welcoming. Never swim in the Mekong — currents are strong and depths unpredictable. Cool-season nights (December-January) can be surprisingly cold along the river — bring a proper jacket, not just a thin layer. The Walking Street (Friday-Sunday) along the promenade is the best evening experience — arrive by 5pm to combine sunset viewing with market browsing. For the sunset cruise, arrive at the Naga statue departure point by 5:15pm to secure a good spot on the boat. If you have an extra day, visit Wat Phra That Phanom (50 km south) — one of the most sacred Buddhist sites in all of Isaan.",
-  "getting_there": {
-    "from_bangkok": {
-      "method": "Direct flight (best) or overnight bus",
-      "duration": "1h flight / 11-14h bus",
-      "cost": "1,500-3,000 THB flight / 430-855 THB bus"
-    },
-    "airport": "Nakhon Phanom Airport (KOP), 18km west of town, direct from Bangkok"
-  },
-  "best_time": {
-    "peak": "Nov-Feb",
-    "shoulder": "Jun-Oct",
-    "low": "Mar-May",
-    "best_months": "Nov-Feb",
-    "why": "Cool weather perfect for riverside walks and sunset cruises. Illuminated Boat Procession in October and That Phanom Festival in January/February."
-  },
-  "budget": {
-    "backpacker": "$14-25/day",
-    "mid_range": "$30-60/day",
-    "luxury": "$60-100/day",
-    "typical_meal": "30-50 THB market food, 80-250 THB restaurant"
-  },
-  "neighborhoods": [
+  "thingsToDo": "Start with the riverfront core around Phaya Sisattanakarat, Sunthon Wichit Road, and Wat Mahathat, then add Ho Chi Minh House and the Vietnamese Memorial Clock Tower to keep the heritage layer coherent. If you have more time, choose one real extension such as Wat Phra That Phanom Woramahawihan, the Third Thai-Lao Friendship Bridge zone, or Wat That Renu rather than trying to force all three into a rushed pass.",
+  "whereToStay": "If the stay is built around the promenade and evening food, a riverfront or near-river hotel is the right fit. If the room is mainly a practical base for a short stop or onward drive, a simpler budget-chain property works better than paying extra for a view you will barely use.",
+  "whereToEat": [
     {
-      "name": "Mekong Riverfront / Promenade",
-      "vibe": "Scenic, evening life, sunset views to Laos",
-      "best_for": "Best location for atmosphere, Walking Street access, dining",
-      "price_range": "$22-55/night"
+      "name": "Sri Thep Vietnamese Dumplings",
+      "cuisine": "Vietnamese",
+      "priceRange": "Budget",
+      "description": "One of the clearest breakfast-style heritage food stops in town."
     },
     {
-      "name": "City Center",
-      "vibe": "Compact, walkable, budget-friendly",
-      "best_for": "Budget travelers, proximity to transport",
-      "price_range": "$11-22/night"
+      "name": "Kuay Teow Moo Pla Pho Luk Song",
+      "cuisine": "Noodles",
+      "priceRange": "Budget",
+      "description": "A river-linked noodle stop that helps the city's food layer stay tied to place."
+    },
+    {
+      "name": "Vietnamese Kitchen",
+      "cuisine": "Vietnamese",
+      "priceRange": "Budget to mid-range",
+      "description": "A useful second Vietnamese meal to keep the heritage angle visible over a two-night stay."
+    },
+    {
+      "name": "Khanom Jeen Pisamai",
+      "cuisine": "Khanom jeen",
+      "priceRange": "Budget",
+      "description": "An Isaan-rooted noodle stop that adds range to the food plan."
+    },
+    {
+      "name": "Yat Larb Ped",
+      "cuisine": "Isaan",
+      "priceRange": "Budget to mid-range",
+      "description": "A stronger local savory dinner name than generic riverside filler."
     }
   ],
-  "must_try_food": [
-    "Vietnamese pancakes and dumplings - morning breakfast specialty unique to Nakhon Phanom, served at Vietnamese-Thai fusion stalls (30-50 THB)",
-    "Mekong grilled river fish - whole fish charcoal-grilled with salt crust, served at riverside restaurants with spicy dipping sauce (80-180 THB)",
-    "Wooden House congee - famous local rice porridge shop, perfect for a warming Mekong-side breakfast (30-50 THB)"
+  "gettingAround": "Once you are based in the city core, the Mekong side is easy to cover on foot. Wat Mahathat, the riverfront landmark zone, and several heritage stops sit naturally inside the same walkable layer. A car or driver becomes more useful once you add Wat Phra That Phanom, Wat That Renu, or the bridge zone beyond the immediate center. Nakhon Phanom Airport remains the nearest air gateway for most fly-in itineraries.",
+  "bestTimeToVisit": "The cool season from November to February is the easiest overall fit for Nakhon Phanom because promenade walks, temple time, and side trips are more comfortable. Hot season can still work if you focus on morning and evening windows. In the rainy season the city stays viable, but any wider province circuit deserves a local weather and road-condition recheck first.",
+  "safetyTips": "Nakhon Phanom is generally calm and low-key, but riverfront common sense still matters. Do not treat the Mekong edge as a swimming area, dress respectfully at active temples and churches, and keep day-trip transport realistic instead of improvising long district runs late in the afternoon. If you are building the trip around local events or temporary riverfront activity, recheck current operations directly before you go.",
+  "faq": [
+    {
+      "question": "How many nights do you need in Nakhon Phanom?",
+      "answer": "One night can cover the riverfront and a focused heritage-food pass, but two nights is the stronger first trip because it lets the city core breathe before you add a serious temple or district excursion."
+    },
+    {
+      "question": "What is the best first attraction in Nakhon Phanom?",
+      "answer": "For most travelers it is the riverfront core around Phaya Sisattanakarat and Wat Mahathat, because that sequence explains the city far better than starting with a long drive out of town."
+    },
+    {
+      "question": "Is Nakhon Phanom mainly about temples?",
+      "answer": "No. The stronger city logic is the combination of the Mekong side, Vietnamese-heritage history, and food. Temples matter, but they are only one layer of the visit."
+    },
+    {
+      "question": "Do you need a car in Nakhon Phanom?",
+      "answer": "Not for the riverfront core itself. You mainly need one once you add Phra That Phanom, Wat That Renu, the bridge zone, or other wider province stops."
+    },
+    {
+      "question": "What food should you prioritize in Nakhon Phanom?",
+      "answer": "Keep the Vietnamese and river-linked angle visible: a pak mor breakfast, one noodle stop tied to the Mekong fish story, and one local Isaan meal such as Yat Larb Ped."
+    }
   ],
-  "local_tips": [
-    "The sunset cruise (150 THB with drinks and food included) departs at 5:30pm from the golden Naga statue — arrive by 5:15pm to get a good spot",
-    "The Walking Street (Fri-Sun evenings) along the promenade is the best night experience — combine with sunset viewing from 5pm",
-    "December nights can drop to 10-12°C along the Mekong — bring a warm jacket, scarf, and hat, not just a thin layer",
-    "Rise early to watch traditional Mekong fishermen casting bamboo nets — a timeless scene best viewed from the promenade at dawn",
-    "Visit Wat Phra That Phanom (50 km south) as a half-day trip — one of the most sacred Buddhist sites in Isaan"
+  "practicalInfo": {
+    "arrival": "Nakhon Phanom Airport is the nearest air gateway, and road arrivals from other Isaan cities are also common. Final schedule details should always be checked directly with the current carrier or airport source before travel day.",
+    "transport": "Walk the city core, then use a car or driver for district temples or wider province loops.",
+    "planning": "Think in layers: riverfront core, one Vietnamese-heritage pass, and at most one serious outside-city temple or district stop."
+  },
+  "contentSources": [
+    {
+      "type": "tourism-office",
+      "title": "Nakhon Phanom province page",
+      "creator": "Tourism Authority of Thailand",
+      "url": "https://www.tourismthailand.org/Destinations/Provinces/Nakhon-Phanom/579",
+      "description": "Used for official province framing, highlight selection, Mekong setting, and city-of-mountains context."
+    },
+    {
+      "type": "tourism-office",
+      "title": "Discover 9 Sacred Mahathat Temples for Blessings",
+      "creator": "Tourism Authority of Thailand",
+      "url": "https://www.tourismthailand.org/Articles/discover-9-sacred-mahathat-temples-for-blessings",
+      "description": "Used for current official positioning around Wat Mahathat (Phrathat Nakhon), including its role as the city's principal Mahathat temple."
+    },
+    {
+      "type": "tourism-office",
+      "title": "Power-up Your Life and Sightseeing",
+      "creator": "Tourism Authority of Thailand",
+      "url": "https://www.tourismthailand.org/Articles/power-up-your-life-and-sightseeing",
+      "description": "Used for TAT's current spiritual-travel framing around Wat Phra That Phanom as one of northeastern Thailand's major sacred sites."
+    },
+    {
+      "type": "tourism-office",
+      "title": "Explore Thai taste Thai foodie map 2.0",
+      "creator": "Tourism Authority of Thailand",
+      "url": "https://www.tourismthailand.org/Articles/explore-thai-taste-thai-foodie-map-2-0-en",
+      "description": "Used for the current curated restaurant lineup and for TAT's supporting attraction shortlist including the Third Thai-Lao Friendship Bridge, Nakhon Phanom Walking Street, Wat That Renu, and Wat Phrathat Phanom."
+    },
+    {
+      "type": "hotel",
+      "title": "VELA Dhi Nakhon Panom",
+      "creator": "VELA Dhi Nakhon Panom",
+      "url": "https://www.veladhinakhonphanom.com/",
+      "description": "Used for direct riverside hotel positioning, address, map coordinates, and booking-page confirmation."
+    },
+    {
+      "type": "hotel",
+      "title": "Fortune River View Hotel Nakhon Phanom",
+      "creator": "Fortune Hotel Group",
+      "url": "https://www.fortunehotelgroup.com/fortune-riverview-hotel-nakhon-phanom/en/",
+      "description": "Used for direct hotel-site confirmation that the property maintains current English pages for rooms, facilities, dining, and location."
+    },
+    {
+      "type": "hotel",
+      "title": "HOP INN Nakhon Phanom",
+      "creator": "HOP INN Thailand",
+      "url": "https://www.hopinnhotel.com/our-hotels/hop-inn-nakhon-phanom",
+      "description": "Used for direct hotel details including clean rooms, free Wi-Fi, and address confirmation."
+    },
+    {
+      "type": "transport",
+      "title": "Nakhon Phanom Airport",
+      "creator": "Department of Airports",
+      "url": "https://nakhonphanom.airports.go.th/",
+      "description": "Used as the official airport source for the city's nearest air gateway."
+    }
   ],
-  "day_trips": [
-    "Wat Phra That Phanom (50 km south) - one of Isaan's most sacred Buddhist stupas, Lao-style golden architecture",
-    "Sacred Naga Spirit Lake near Bueng Kan border (2h) - boat trips and spiritual traditions, 50 THB boat + 30 THB entry",
-    "Tha Khek, Laos (across the river) - limestone karst scenery, the Loop motorcycle route starting point",
-    "Mukdahan (190 km south) - Indochina Market, Naga Temple, Big Buddha, Mekong riverside dining",
-    "Renu Nakhon (50 km south) - Phu Thai ethnic village with traditional weaving and cultural performances"
-  ],
-  "enriched_at": "2026-03-22"
+  "reviewed_by": "Go2Thailand Editorial Team",
+  "enhanced_at": "2026-03-26T00:00:00.000Z",
+  "factchecked_at": "2026-03-26T00:00:00.000Z",
+  "enrichedAt": "2026-03-26T00:00:00.000Z"
 }

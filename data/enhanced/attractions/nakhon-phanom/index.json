@@ -1,143 +1,163 @@
 {
   "city_slug": "nakhon-phanom",
   "city_name": "Nakhon Phanom",
-  "total_attractions": 5,
+  "total_attractions": 6,
   "attractions": [
     {
       "id": 1,
-      "slug": "ho-chi-minh-house",
+      "slug": "phaya-sisattanakarat-riverfront",
       "name": {
-        "en": "Ho Chi Minh House Museum",
-        "nl": "Ho Chi Minh Huis Museum"
+        "en": "Phaya Sisattanakarat and Riverfront Core",
+        "nl": "Phaya Sisattanakarat en de rivierfrontkern"
       },
-      "type": "culture",
-      "image": "/images/cities/chiangmai/chiang-mai-temple.webp",
+      "type": "landmark",
+      "image": "/images/cities/generated/nakhon-phanom.webp",
       "description": {
-        "en": "Reconstructed wooden house where Vietnamese revolutionary Ho Chi Minh lived in exile during the 1920s, hiding from French colonial authorities while organizing independence movements. The museum preserves original furniture and is surrounded by fruit gardens — pomelo, guava, and jackfruit trees — planted by Ho Chi Minh himself.",
-        "nl": "Gereconstrueerd houten huis waar de Vietnamese revolutionair Ho Chi Minh in de jaren 1920 in ballingschap leefde, op de vlucht voor de Franse koloniale autoriteiten terwijl hij onafhankelijkheidsbewegingen organiseerde. Het museum bewaart origineel meubilair en is omgeven door fruittuinen — pomelo, guave en jackfruitbomen — eigenhandig geplant door Ho Chi Minh."
+        "en": "The strongest first-stop city layer, combining the naga landmark, Sunthon Wichit Road, and the Mekong-facing promenade in one walkable pass.",
+        "nl": "De sterkste eerste stadslaag, met het naga-landmark, Sunthon Wichit Road en de Mekong-promenade in een beloopbare route."
       },
       "entrance_fee": {
-        "thb_thai": 30,
-        "thb_foreigner": 200,
-        "usd_foreigner": 6
+        "thb": null,
+        "usd": null
       },
+      "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=Phaya%20Sisattanakarat%20Nakhon%20Phanom",
       "highlights": [
-        "Original furniture",
-        "Hand-planted fruit gardens",
-        "Vietnamese independence history",
-        "Reconstructed wooden house"
+        "Phaya Sisattanakarat landmark",
+        "Sunthon Wichit Road",
+        "Best first read of the city"
       ],
-      "best_time": "morning",
-      "duration_hours": 1.5,
-      "googleMapsUrl": "https://maps.app.goo.gl/NCZ15bb4pxr76"
+      "best_time": "late afternoon or evening",
+      "duration_hours": 2
     },
     {
       "id": 2,
-      "slug": "mekong-promenade-golden-naga",
+      "slug": "wat-mahathat-phrathat-nakhon",
       "name": {
-        "en": "Mekong Promenade & Golden Naga",
-        "nl": "Mekong Promenade & Gouden Naga"
+        "en": "Wat Mahathat (Phrathat Nakhon)",
+        "nl": "Wat Mahathat (Phrathat Nakhon)"
       },
-      "type": "nature",
-      "image": "/images/cities/chiangmai/chiang-mai-park.webp",
+      "type": "temple",
+      "image": "/images/cities/generated/nakhon-phanom.webp",
       "description": {
-        "en": "Stunning riverside promenade stretching along the Mekong with panoramic views of the Laotian Tha Khek mountains across the river. The golden Naga statue is a beloved landmark and the departure point for sunset cruises. Live music and festivals regularly animate the evening atmosphere.",
-        "nl": "Prachtige rivierpromenade langs de Mekong met panoramisch uitzicht op de Laotiaanse Tha Khek-bergen aan de overkant. Het gouden Naga-standbeeld is een geliefd herkenningspunt en het vertrekpunt voor zonsondergangcruises. Livemuziek en festivals zorgen regelmatig voor een levendige avondsfeer."
+        "en": "Nakhon Phanom's principal Mahathat temple and the strongest in-town sacred stop on the Mekong side.",
+        "nl": "De belangrijkste Mahathat-tempel van Nakhon Phanom en de sterkste heilige stop in de stad aan de Mekong."
       },
       "entrance_fee": {
         "thb": 0,
         "usd": 0
       },
+      "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=Wat%20Mahathat%20Nakhon%20Phanom",
       "highlights": [
-        "Laotian mountain views",
-        "Golden Naga statue",
-        "Live music & festivals",
-        "Morning fishermen with bamboo nets"
+        "Phrathat Nakhon stupa",
+        "Riverfront temple setting",
+        "Strongest in-town sacred layer"
       ],
-      "best_time": "late afternoon",
-      "duration_hours": 2,
-      "googleMapsUrl": "https://maps.app.goo.gl/SAs6hJStx8RtZ"
+      "best_time": "morning or late afternoon",
+      "duration_hours": 1.5
     },
     {
       "id": 3,
-      "slug": "mekong-sunset-boat-cruise",
+      "slug": "ho-chi-minh-house",
       "name": {
-        "en": "Mekong Sunset Boat Cruise",
-        "nl": "Mekong Zonsondergang Boottocht"
+        "en": "Ho Chi Minh House",
+        "nl": "Ho Chi Minh Huis"
       },
-      "type": "relaxation",
-      "image": "/images/cities/chiangmai/chiang-mai-park.webp",
+      "type": "museum",
+      "image": "/images/cities/generated/nakhon-phanom.webp",
       "description": {
-        "en": "Magical sunset cruise along the Mekong River departing at 5:30 PM from near the golden Naga statue. For just 150 THB per person, the price includes beer, drinks, and food while you drift along the river watching the sun set behind the Laotian mountains — one of the best value experiences on the entire Mekong.",
-        "nl": "Magische zonsondergangcruise over de Mekong die om 17:30 uur vertrekt bij het gouden Naga-standbeeld. Voor slechts 150 THB per persoon is bier, drankjes en eten inbegrepen terwijl je over de rivier drijft en de zon ziet ondergaan achter de Laotiaanse bergen — een van de beste prijs-kwaliteitervaringen aan de hele Mekong."
+        "en": "The clearest city-core heritage stop for understanding the Vietnamese historical thread in Nakhon Phanom.",
+        "nl": "De duidelijkste erfgoedstop in de stad om de Vietnamese historische laag van Nakhon Phanom te begrijpen."
       },
       "entrance_fee": {
-        "thb": 150,
-        "usd": 4
+        "thb": null,
+        "usd": null
       },
+      "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=Ho%20Chi%20Minh%20House%20Nakhon%20Phanom",
       "highlights": [
-        "Sunset over Laos",
-        "Beer & food included",
-        "Mekong River views",
-        "Departs 5:30 PM daily"
+        "Vietnamese-history layer",
+        "City-core heritage stop",
+        "Best paired with Vietnamese food"
       ],
-      "best_time": "late afternoon",
-      "duration_hours": 1.5,
-      "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=Mekong%20Sunset%20Boat%20Cruise%20Nakhon%20Phanom%20Thailand"
+      "best_time": "morning",
+      "duration_hours": 1.5
     },
     {
       "id": 4,
-      "slug": "phra-that-phanom-style-stupas",
+      "slug": "vietnamese-memorial-clock-tower",
       "name": {
-        "en": "Phra That Phanom Style Stupas",
-        "nl": "Phra That Phanom Stijl Stupa's"
+        "en": "Vietnamese Memorial Clock Tower",
+        "nl": "Vietnamese herdenkingsklokkentoren"
       },
-      "type": "temple",
-      "image": "/images/cities/chiangmai/chiang-mai-temple.webp",
+      "type": "heritage",
+      "image": "/images/cities/generated/nakhon-phanom.webp",
       "description": {
-        "en": "Distinctive Lao-style golden pointed stupas found throughout Nakhon Phanom along the Mekong, completely different from temple architecture in other parts of Thailand. The tall, sharply pointed golden spires symbolize the upward direction toward enlightenment, reflecting the region's deep Laotian Buddhist cultural connections.",
-        "nl": "Kenmerkende Laotiaanse gouden spitse stupa's die je overal in Nakhon Phanom langs de Mekong vindt, totaal anders dan de tempelarchitectuur in andere delen van Thailand. De hoge, scherp gepunte gouden torenspitsen symboliseren de opwaartse richting naar verlichting en weerspiegelen de diepe Laotiaans-boeddhistische culturele banden van de regio."
+        "en": "A compact but meaningful memorial stop that helps the city's Vietnamese story stay visible inside the urban core.",
+        "nl": "Een compacte maar betekenisvolle memorial-stop die het Vietnamese verhaal van de stad zichtbaar houdt in de stedelijke kern."
       },
       "entrance_fee": {
-        "thb": 0,
-        "usd": 0
+        "thb": null,
+        "usd": null
       },
+      "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=Vietnamese%20Memorial%20Clock%20Tower%20Nakhon%20Phanom",
       "highlights": [
-        "Unique Lao-style architecture",
-        "Golden pointed spires",
-        "Mekong riverfront temples",
-        "Symbolism of enlightenment"
+        "Memorial landmark",
+        "Easy city-core stop",
+        "Good with heritage-food planning"
       ],
-      "best_time": "morning",
-      "duration_hours": 1.5,
-      "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=Phra%20That%20Phanom%20Style%20Stupas%20Nakhon%20Phanom%20Thailand"
+      "best_time": "morning or early evening",
+      "duration_hours": 0.75
     },
     {
       "id": 5,
-      "slug": "vietnamese-thai-food-street",
+      "slug": "saint-anna-nong-saeng-catholic-church",
       "name": {
-        "en": "Vietnamese-Thai Food Street",
-        "nl": "Vietnamees-Thaise Eetstraat"
+        "en": "Saint Anna Nong Saeng Catholic Church",
+        "nl": "Saint Anna Nong Saeng katholieke kerk"
       },
-      "type": "food",
-      "image": "/images/cities/chiangmai/chiang-mai-temple.webp",
+      "type": "church",
+      "image": "/images/cities/generated/nakhon-phanom.webp",
       "description": {
-        "en": "Nakhon Phanom's famous Vietnamese-Thai food scene featuring three unmissable breakfast spots: a wooden house serving rice congee with roasted pork and banana, a popular noodle restaurant, and the best of all — a Vietnamese pancake (banh xeo) and dumpling house. Flavors you cannot find anywhere else in Thailand.",
-        "nl": "De beroemde Vietnamees-Thaise foodscene van Nakhon Phanom met drie onmisbare ontbijtplekken: een houten huis dat rijstpap met geroosterd varkensvlees en banaan serveert, een populair noedelrestaurant, en de beste van allemaal — een Vietnamees pannenkoeken- (banh xeo) en dumplinghuis. Smaken die je nergens anders in Thailand vindt."
+        "en": "One of the official province highlights and one of the easiest ways to add a distinct religious-heritage layer to the city route.",
+        "nl": "Een van de officiële provincie-highlights en een van de makkelijkste manieren om een aparte religieuze erfgoedlaag aan de stadsroute toe te voegen."
       },
       "entrance_fee": {
-        "thb": 0,
-        "usd": 0
+        "thb": null,
+        "usd": null
       },
+      "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=Saint%20Anna%20Nong%20Saeng%20Catholic%20Church%20Nakhon%20Phanom",
       "highlights": [
-        "Vietnamese pancakes & dumplings",
-        "Rice congee with pork & banana",
-        "Unique fusion flavors",
-        "Authentic local breakfast culture"
+        "Official TAT province highlight",
+        "Distinct architecture",
+        "Strong heritage add-on"
+      ],
+      "best_time": "late afternoon",
+      "duration_hours": 1
+    },
+    {
+      "id": 6,
+      "slug": "wat-phra-that-phanom-woramahawihan",
+      "name": {
+        "en": "Wat Phra That Phanom Woramahawihan",
+        "nl": "Wat Phra That Phanom Woramahawihan"
+      },
+      "type": "temple",
+      "image": "/images/cities/generated/nakhon-phanom.webp",
+      "description": {
+        "en": "The most important deliberate temple extension from town and still one of northeastern Thailand's major sacred sites.",
+        "nl": "De belangrijkste bewuste tempeluitstap vanuit de stad en nog steeds een van de grote heilige plekken van Noordoost-Thailand."
+      },
+      "entrance_fee": {
+        "thb": null,
+        "usd": null
+      },
+      "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=Wat%20Phra%20That%20Phanom%20Woramahawihan",
+      "highlights": [
+        "Major regional sacred site",
+        "Best high-value temple add-on",
+        "Worth a dedicated half-day"
       ],
       "best_time": "morning",
-      "duration_hours": 1.5,
-      "googleMapsUrl": "https://maps.app.goo.gl/q3BmRPKgCP5ri"
+      "duration_hours": 2.5
     }
   ]
 }

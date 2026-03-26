@@ -72,11 +72,13 @@ const categoryLabels: Record<string, string> = {
   budget: 'Budget',
   midrange: 'Mid-Range',
   luxury: 'Luxury',
+  recommended: 'Recommended',
 };
 const categoryColors: Record<string, string> = {
   budget: 'bg-green-100 text-green-800',
   midrange: 'bg-blue-100 text-blue-800',
   luxury: 'bg-purple-100 text-purple-800',
+  recommended: 'bg-slate-100 text-slate-800',
 };
 
 export default function CityHotelsPage({ city, hotelData, hasTop10Hotels, enhancedHotels, affiliates }: CityHotelsPageProps) {
@@ -88,10 +90,12 @@ export default function CityHotelsPage({ city, hotelData, hasTop10Hotels, enhanc
   // Group enhanced hotels by category
   const hotelsByCategory: Record<string, EnhancedHotel[]> = {};
   for (const hotel of hotels) {
-    const cat = hotel.category || 'midrange';
+    const rawCategory = (hotel.category || '').toLowerCase();
+    const cat = categoryOrder.includes(rawCategory as any) ? rawCategory : 'recommended';
     if (!hotelsByCategory[cat]) hotelsByCategory[cat] = [];
     hotelsByCategory[cat].push(hotel);
   }
+  const hasHotelContent = Boolean(hotelData) || hotels.length > 0;
 
   const breadcrumbs = generateBreadcrumbs(city, 'hotels');
   const baseMetadata = generateCityMetadata(city, 'hotels');
@@ -100,7 +104,7 @@ export default function CityHotelsPage({ city, hotelData, hasTop10Hotels, enhanc
   const metadata = {
     ...baseMetadata,
     title: `Where to Stay in ${city.name.en} 2026 — Best Hotels & Areas`,
-    description: `Find the best hotels in ${city.name.en} for every budget. Compare neighborhoods, prices from $10/night, guest reviews, and booking tips. Updated guide for 2026.`,
+    description: `Plan where to stay in ${city.name.en} with a practical guide to stronger hotel bases, better area logic, and source-backed accommodation picks where available.`,
   };
 
   return (
@@ -151,7 +155,7 @@ export default function CityHotelsPage({ city, hotelData, hasTop10Hotels, enhanc
 
         <section className="section-padding">
           <div className="container-custom">
-            {hotelData ? (
+            {hasHotelContent ? (
               <div className="space-y-12">
                 {/* Search & Book Hotels Widget - Moved to top */}
                 <div className="bg-surface-cream rounded-2xl p-8 text-center">
@@ -165,6 +169,7 @@ export default function CityHotelsPage({ city, hotelData, hasTop10Hotels, enhanc
                 )}
 
                 {/* Best Areas to Stay */}
+                {hotelData && (
                 <div>
                   <h2 className="text-3xl font-bold font-heading text-gray-900 mb-8">Best Areas to Stay in {city.name.en}</h2>
                   <div className="grid grid-cols-1 lg:grid-cols-2 gap-6">
@@ -205,28 +210,31 @@ export default function CityHotelsPage({ city, hotelData, hasTop10Hotels, enhanc
                     ))}
                   </div>
                 </div>
+                )}
 
                 {/* Accommodation Types */}
+                {hotelData && (
                 <div className="bg-surface-cream rounded-2xl p-8">
                   <h2 className="text-2xl font-bold font-heading text-gray-900 mb-6">Accommodation Types</h2>
                   <div className="grid grid-cols-1 md:grid-cols-3 gap-6">
                     <div className="bg-white rounded-2xl p-6">
                       <h3 className="text-lg font-bold font-heading text-gray-900 mb-2">Budget</h3>
-                      <p className="text-gray-600 mb-2">฿300-800/night</p>
-                      <p className="text-sm text-gray-600">Hostels, guesthouses, and budget hotels with basic amenities</p>
+                      <p className="text-gray-600 mb-2">Basic and practical</p>
+                      <p className="text-sm text-gray-600">Simple chain hotels, guesthouses, and functional rooms where predictability matters more than extras.</p>
                     </div>
                     <div className="bg-white rounded-2xl p-6">
                       <h3 className="text-lg font-bold font-heading text-gray-900 mb-2">Mid-Range</h3>
-                      <p className="text-gray-600 mb-2">฿800-2,500/night</p>
-                      <p className="text-sm text-gray-600">3-4 star hotels with pools, restaurants, and good service</p>
+                      <p className="text-gray-600 mb-2">Balanced comfort</p>
+                      <p className="text-sm text-gray-600">City hotels and riverside stays that add more space, better common areas, or a stronger location logic.</p>
                     </div>
                     <div className="bg-white rounded-2xl p-6">
-                      <h3 className="text-lg font-bold font-heading text-gray-900 mb-2">Luxury</h3>
-                      <p className="text-gray-600 mb-2">฿2,500+/night</p>
-                      <p className="text-sm text-gray-600">5-star hotels and resorts with premium amenities and service</p>
+                      <h3 className="text-lg font-bold font-heading text-gray-900 mb-2">Higher-End</h3>
+                      <p className="text-gray-600 mb-2">More deliberate stay choice</p>
+                      <p className="text-sm text-gray-600">Polished riverside or full-service properties where the hotel itself becomes part of the trip instead of only a bed for the night.</p>
                     </div>
                   </div>
                 </div>
+                )}
 
                 {/* Recommended Hotels from Enhanced Data */}
                 {hotels.length > 0 && (
@@ -283,6 +291,7 @@ export default function CityHotelsPage({ city, hotelData, hasTop10Hotels, enhanc
                 )}
 
                 {/* Booking Tips */}
+                {hotelData && (
                 <div>
                   <h2 className="text-2xl font-bold font-heading text-gray-900 mb-6">Booking Tips for {city.name.en}</h2>
                   <div className="bg-white rounded-2xl shadow-md p-6">
@@ -303,6 +312,7 @@ export default function CityHotelsPage({ city, hotelData, hasTop10Hotels, enhanc
                     </div>
                   </div>
                 </div>
+                )}
 
                 {/* Top 10 Hotels Link */}
                 {hasTop10Hotels && (
@@ -427,6 +437,8 @@ export const getStaticProps: GetStaticProps = async ({ params }) => {
       const enhancedData = JSON.parse(enhancedRaw);
       if (enhancedData.topHotels && Array.isArray(enhancedData.topHotels)) {
         enhancedHotels = enhancedData.topHotels;
+      } else if (enhancedData.top_hotels && Array.isArray(enhancedData.top_hotels)) {
+        enhancedHotels = enhancedData.top_hotels;
       }
     }
   } catch (e) {

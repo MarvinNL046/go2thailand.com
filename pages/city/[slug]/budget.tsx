@@ -71,8 +71,12 @@ export default function CityBudgetPage({ city, budgetGuide, budgetReality, budge
   const metadata = {
     ...baseMetadata,
     title: `Cost of Travel in ${city.name.en} 2026 — Daily Budget Guide`,
-    description: `How much does ${city.name.en} cost per day? Budget breakdown from $${budgetGuide?.budget?.min || 20}/day to $${budgetGuide?.luxury?.max || 400}+/day. Money-saving tips, daily costs, and realistic travel budgets for 2026.`,
+    description: `A practical budget guide for ${city.name.en}, including daily spending patterns, cost pressure points, and smarter ways to plan transport, hotels, and meals.`,
   };
+  const budgetRealityObj = typeof budgetReality === 'object' && budgetReality !== null ? budgetReality : null;
+  const budgetRealityText = typeof budgetReality === 'string' ? budgetReality : budgetInfo?.notes || '';
+  const dailyBudgetInfo = budgetInfo?.daily_budget || null;
+  const hasBudgetContent = Boolean(budgetGuide || dailyBudgetInfo || budgetRealityText || budgetRealityObj);
 
   // Generic money-saving tips as fallback
   const genericTips = [
@@ -84,8 +88,8 @@ export default function CityBudgetPage({ city, budgetGuide, budgetReality, budge
     'Negotiate prices at markets but always do so respectfully',
   ];
 
-  const moneySavingTips = budgetReality?.money_saving_tricks && budgetReality.money_saving_tricks.length > 0
-    ? budgetReality.money_saving_tricks
+  const moneySavingTips = budgetRealityObj?.money_saving_tricks && budgetRealityObj.money_saving_tricks.length > 0
+    ? budgetRealityObj.money_saving_tricks
     : genericTips;
 
   return (
@@ -110,7 +114,9 @@ export default function CityBudgetPage({ city, budgetGuide, budgetReality, budge
                     "@type": "Answer",
                     "text": budgetGuide
                       ? `Budget travelers can expect to spend $${budgetGuide.budget.min}-${budgetGuide.budget.max} per day, mid-range travelers $${budgetGuide.midrange.min}-${budgetGuide.midrange.max} per day, and luxury travelers $${budgetGuide.luxury.min}-${budgetGuide.luxury.max}+ per day in ${city.name.en}.`
-                      : `Daily costs in ${city.name.en} vary by travel style. Budget travelers typically spend $20-40/day, mid-range $50-100/day, and luxury $150+/day.`
+                      : dailyBudgetInfo
+                        ? `Daily costs in ${city.name.en} depend mostly on hotel choice, transport decisions, and how many longer outings you add. ${dailyBudgetInfo.budget} ${dailyBudgetInfo.mid} ${dailyBudgetInfo.luxury}`.trim()
+                        : `Daily costs in ${city.name.en} vary mainly with hotel choice, transport, and how much of the trip is built around day trips or premium stays.`
                   }
                 },
                 {
@@ -118,7 +124,7 @@ export default function CityBudgetPage({ city, budgetGuide, budgetReality, budge
                   "name": `Is ${city.name.en} expensive for tourists?`,
                   "acceptedAnswer": {
                     "@type": "Answer",
-                    "text": `${city.name.en} offers excellent value for money compared to Western destinations. Street food meals cost $1-3, local transport is affordable, and accommodation starts from $10-15/night for budget options.`
+                    "text": `${city.name.en} is usually easier to manage on a modest budget than major resort destinations, but costs rise quickly when you add private transport, premium rooms, or longer side trips.`
                   }
                 }
               ]
@@ -137,7 +143,7 @@ export default function CityBudgetPage({ city, budgetGuide, budgetReality, budge
                 How Much Does {city.name.en} Cost?
               </h1>
               <p className="text-xl text-gray-600 max-w-3xl mx-auto">
-                A realistic daily budget guide for {city.name.en}, Thailand — updated for 2026 with actual prices and money-saving tips.
+                A practical guide to daily spending in {city.name.en}, including where costs usually stay low and where they rise fastest.
               </p>
             </div>
           </div>
@@ -145,10 +151,11 @@ export default function CityBudgetPage({ city, budgetGuide, budgetReality, budge
 
         <section className="section-padding">
           <div className="container-custom">
-            {budgetGuide ? (
+            {hasBudgetContent ? (
               <div className="space-y-12">
 
                 {/* Budget Overview Cards */}
+                {(budgetGuide || dailyBudgetInfo) && (
                 <div>
                   <h2 className="text-3xl font-bold font-heading text-gray-900 mb-8 text-center">
                     Daily Budget Overview
@@ -164,12 +171,12 @@ export default function CityBudgetPage({ city, budgetGuide, budgetReality, budge
                         </div>
                         <h3 className="text-xl font-bold font-heading text-green-800">Budget</h3>
                         <p className="text-3xl font-bold text-green-600 mt-2">
-                          ${budgetGuide.budget.min}-${budgetGuide.budget.max}
+                          {budgetGuide ? `$${budgetGuide.budget.min}-${budgetGuide.budget.max}` : 'Budget'}
                         </p>
-                        <p className="text-sm text-green-700 font-medium">per day</p>
+                        <p className="text-sm text-green-700 font-medium">{budgetGuide ? 'per day' : 'travel style'}</p>
                       </div>
                       <p className="text-gray-700 text-sm leading-relaxed">
-                        {budgetGuide.budget.description}
+                        {budgetGuide ? budgetGuide.budget.description : dailyBudgetInfo?.budget}
                       </p>
                     </div>
 
@@ -183,12 +190,12 @@ export default function CityBudgetPage({ city, budgetGuide, budgetReality, budge
                         </div>
                         <h3 className="text-xl font-bold font-heading text-blue-800">Mid-Range</h3>
                         <p className="text-3xl font-bold text-blue-600 mt-2">
-                          ${budgetGuide.midrange.min}-${budgetGuide.midrange.max}
+                          {budgetGuide ? `$${budgetGuide.midrange.min}-${budgetGuide.midrange.max}` : 'Mid-Range'}
                         </p>
-                        <p className="text-sm text-blue-700 font-medium">per day</p>
+                        <p className="text-sm text-blue-700 font-medium">{budgetGuide ? 'per day' : 'travel style'}</p>
                       </div>
                       <p className="text-gray-700 text-sm leading-relaxed">
-                        {budgetGuide.midrange.description}
+                        {budgetGuide ? budgetGuide.midrange.description : dailyBudgetInfo?.mid}
                       </p>
                     </div>
 
@@ -200,28 +207,40 @@ export default function CityBudgetPage({ city, budgetGuide, budgetReality, budge
                             <path strokeLinecap="round" strokeLinejoin="round" strokeWidth="2" d="M5 3v4M3 5h4M6 17v4m-2-2h4m5-16l2.286 6.857L21 12l-5.714 2.143L13 21l-2.286-6.857L5 12l5.714-2.143L13 3z" />
                           </svg>
                         </div>
-                        <h3 className="text-xl font-bold font-heading text-purple-800">Luxury</h3>
+                        <h3 className="text-xl font-bold font-heading text-purple-800">{budgetGuide ? 'Luxury' : 'Higher Spend'}</h3>
                         <p className="text-3xl font-bold text-purple-600 mt-2">
-                          ${budgetGuide.luxury.min}-${budgetGuide.luxury.max}
+                          {budgetGuide ? `$${budgetGuide.luxury.min}-${budgetGuide.luxury.max}` : 'Higher Spend'}
                         </p>
-                        <p className="text-sm text-purple-700 font-medium">per day</p>
+                        <p className="text-sm text-purple-700 font-medium">{budgetGuide ? 'per day' : 'travel style'}</p>
                       </div>
                       <p className="text-gray-700 text-sm leading-relaxed">
-                        {budgetGuide.luxury.description}
+                        {budgetGuide ? budgetGuide.luxury.description : dailyBudgetInfo?.luxury}
                       </p>
                     </div>
                   </div>
                 </div>
+                )}
+
+                {budgetRealityText && (
+                  <div className="bg-white rounded-2xl shadow-md p-6 md:p-8">
+                    <h2 className="text-3xl font-bold font-heading text-gray-900 mb-4 text-center">
+                      Cost Reality in {city.name.en}
+                    </h2>
+                    <p className="text-gray-700 leading-relaxed text-center max-w-4xl mx-auto">
+                      {budgetRealityText}
+                    </p>
+                  </div>
+                )}
 
                 {/* Daily Cost Breakdown */}
-                {budgetReality?.daily_costs && Object.keys(budgetReality.daily_costs).length > 0 && (
+                {budgetRealityObj?.daily_costs && Object.keys(budgetRealityObj.daily_costs).length > 0 && (
                   <div>
                     <h2 className="text-3xl font-bold font-heading text-gray-900 mb-8 text-center">
                       Daily Cost Breakdown
                     </h2>
                     <div className="bg-white rounded-2xl shadow-md p-6 md:p-8">
                       <div className="grid grid-cols-1 md:grid-cols-2 gap-4">
-                        {Object.entries(budgetReality.daily_costs).map(([item, cost], index) => (
+                        {Object.entries(budgetRealityObj.daily_costs).map(([item, cost], index) => (
                           <div key={index} className="flex items-center justify-between p-3 bg-gray-50 rounded-lg">
                             <span className="text-gray-700 font-medium capitalize">
                               {item.replace(/_/g, ' ')}
@@ -235,14 +254,14 @@ export default function CityBudgetPage({ city, budgetGuide, budgetReality, budge
                 )}
 
                 {/* Real Price Examples */}
-                {budgetReality?.examples && budgetReality.examples.length > 0 && (
+                {budgetRealityObj?.examples && budgetRealityObj.examples.length > 0 && (
                   <div>
                     <h2 className="text-3xl font-bold font-heading text-gray-900 mb-8 text-center">
                       Real Prices in {city.name.en}
                     </h2>
                     <div className="bg-white rounded-2xl shadow-md p-6 md:p-8">
                       <div className="grid grid-cols-1 md:grid-cols-2 gap-3">
-                        {budgetReality.examples.map((example, index) => {
+                        {budgetRealityObj.examples.map((example, index) => {
                           const parts = example.split(':');
                           const label = parts[0];
                           const value = parts.slice(1).join(':');
@@ -280,7 +299,7 @@ export default function CityBudgetPage({ city, budgetGuide, budgetReality, budge
                 </div>
 
                 {/* Where to Splurge */}
-                {budgetReality?.where_to_splurge && budgetReality.where_to_splurge.length > 0 && (
+                {budgetRealityObj?.where_to_splurge && budgetRealityObj.where_to_splurge.length > 0 && (
                   <div>
                     <h2 className="text-3xl font-bold font-heading text-gray-900 mb-8 text-center">
                       Where to Splurge in {city.name.en}
@@ -290,7 +309,7 @@ export default function CityBudgetPage({ city, budgetGuide, budgetReality, budge
                         Some experiences in {city.name.en} are worth spending a little extra on. Here are our top picks.
                       </p>
                       <div className="grid grid-cols-1 md:grid-cols-2 gap-4">
-                        {budgetReality.where_to_splurge.map((item, index) => (
+                        {budgetRealityObj.where_to_splurge.map((item, index) => (
                           <div key={index} className="flex items-start bg-white bg-opacity-70 rounded-lg p-4">
                             <div className="flex-shrink-0 w-8 h-8 bg-amber-400 rounded-xl flex items-center justify-center mr-3 mt-0.5">
                               <svg className="w-4 h-4 text-white" fill="currentColor" viewBox="0 0 20 20">
@@ -306,7 +325,7 @@ export default function CityBudgetPage({ city, budgetGuide, budgetReality, budge
                 )}
 
                 {/* Hidden Costs */}
-                {budgetReality?.hidden_costs && budgetReality.hidden_costs.length > 0 && (
+                {budgetRealityObj?.hidden_costs && budgetRealityObj.hidden_costs.length > 0 && (
                   <div>
                     <h2 className="text-3xl font-bold font-heading text-gray-900 mb-8 text-center">
                       Hidden Costs to Watch For
@@ -316,7 +335,7 @@ export default function CityBudgetPage({ city, budgetGuide, budgetReality, budge
                         Be aware of these common unexpected expenses when visiting {city.name.en}.
                       </p>
                       <ul className="space-y-3">
-                        {budgetReality.hidden_costs.map((cost, index) => (
+                        {budgetRealityObj.hidden_costs.map((cost, index) => (
                           <li key={index} className="flex items-start">
                             <div className="flex-shrink-0 w-6 h-6 bg-red-100 rounded-xl flex items-center justify-center mr-3 mt-0.5">
                               <svg className="w-3 h-3 text-red-600" fill="currentColor" viewBox="0 0 20 20">

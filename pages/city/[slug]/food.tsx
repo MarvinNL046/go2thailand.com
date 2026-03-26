@@ -99,7 +99,7 @@ export default function CityFoodPage({ city, cityFoodData, enhancedRestaurants }
   const metadata = {
     ...baseMetadata,
     title: `Best Food in ${city.name.en} 2026 — Street Food & Restaurants`,
-    description: `Discover the best food in ${city.name.en}: street food, local restaurants, night markets, and must-try Thai dishes. Updated prices and tips for 2026.`,
+    description: `Discover the strongest food picks in ${city.name.en}, from local restaurants and markets to the dishes that actually help define the city.`,
   };
 
   // Get popular dishes (main dishes, soups, and curries)
