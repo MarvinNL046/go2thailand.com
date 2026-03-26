@@ -14,8 +14,8 @@ export default function Sources({ sources, locale = 'en' }: SourcesProps) {
   const lang = locale === 'nl' ? 'nl' : 'en';
   const title = lang === 'nl' ? 'Bronnen & Referenties' : 'Sources & References';
   const note = lang === 'nl'
-    ? 'Dit artikel is gebaseerd op eigen ervaring en geverifieerd met de volgende officiële bronnen:'
-    : 'This article is based on first-hand experience and verified with the following official sources:';
+    ? 'Dit artikel is samengesteld op basis van redactioneel onderzoek en geverifieerd met de volgende bronnen:'
+    : 'This article is based on editorial research and verified with the following sources:';
 
   return (
     <div className="mt-8 pt-8 border-t">

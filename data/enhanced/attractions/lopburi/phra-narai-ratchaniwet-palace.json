@@ -1,0 +1,85 @@
+{
+  "id": 2,
+  "slug": "phra-narai-ratchaniwet-palace",
+  "name": {
+    "en": "Phra Narai Ratchaniwet Palace",
+    "nl": "Phra Narai Ratchaniwet Palace"
+  },
+  "type": "palace",
+  "city_slug": "lopburi",
+  "address": "Tha Hin, Mueang Lopburi District, Lopburi 15000",
+  "location": {
+    "lat": 14.7999336,
+    "lng": 100.6076036
+  },
+  "opening_hours": "Check current palace and museum compound opening days before visiting",
+  "entrance_fee": {
+    "thb": null,
+    "usd": null
+  },
+  "description": {
+    "en": "The Narai palace quarter that gives Lopburi its strongest political and royal-history context.",
+    "nl": "De Narai-paleiszone die Lopburi de sterkste politieke en koninklijke context geeft."
+  },
+  "highlights": [
+    "Second-capital palace compound",
+    "Best historical anchor",
+    "Pairs with the museum"
+  ],
+  "image": "/images/cities/generated/lopburi.webp",
+  "seo": {
+    "metaTitle": {
+      "en": "Phra Narai Ratchaniwet Palace Lopburi | Go2Thailand",
+      "nl": "Phra Narai Ratchaniwet Palace Lopburi | Go2Thailand"
+    },
+    "metaDescription": {
+      "en": "Why Narai's palace quarter is the real historical anchor of Lopburi and how to fit it into a first visit.",
+      "nl": "Waarom de paleiszone van Narai het echte historische anker van Lopburi is en hoe je het in een eerste bezoek inpast."
+    }
+  },
+  "tags": [
+    "palace",
+    "lopburi",
+    "narai",
+    "history",
+    "ayutthaya"
+  ],
+  "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=Phra%20Narai%20Ratchaniwet%20Lopburi%20Thailand",
+  "best_time": "morning",
+  "duration_hours": 2.5,
+  "enhanced_description": "Phra Narai Ratchaniwet is the place that stops Lopburi from feeling like a one-topic city. Once you enter the palace quarter, the monkey headlines fall away and the city starts reading as a royal, administrative, and diplomatic center with real weight in the Narai period. If you only do Prang Sam Yot, you get the surface image of Lopburi. If you protect time for this compound, you understand why the city mattered.\n\nThat is why the palace should be treated as the structural center of a serious Lopburi itinerary. Museum Thailand and official TAT material both still place Narai's palace at the core of the city's story. It works best as a slower visit tied directly to the museum, because the architecture and the exhibits explain one another rather than competing for time.",
+  "detailed_history": "Museum Thailand and official TAT Lopburi references continue to frame the compound through King Narai's reign and Lopburi's role as a second capital. The palace quarter is where the city's Narai-era political story becomes visible on the ground, and it remains the best place to understand why foreign envoys, administrators, and court culture mattered here.",
+  "visitor_experience": "Expect a more spacious and quieter visit than at Prang Sam Yot. This is a compound that rewards slower movement, reading, and a willingness to treat the palace and museum as one combined block rather than as separate boxes to tick.",
+  "best_time_to_visit": {
+    "time_of_day": "Morning",
+    "duration": "About two to three hours with the museum included",
+    "crowd_level": "Usually calmer and more spread out than the monkey zone"
+  },
+  "practical_info": {
+    "how_to_get_there": "Reach it easily from central Lopburi by a short walk or quick local ride from the old-city core.",
+    "nearby_attractions": "Somdet Phra Narai National Museum and Wichayen House.",
+    "food_options": "Plan lunch after the compound visit rather than breaking the history block in the middle.",
+    "shopping": "Very limited on site; keep the focus on the heritage circuit."
+  },
+  "insider_tips": [
+    "Do the palace and museum together if possible.",
+    "This is the visit to protect if you only have a half day in Lopburi.",
+    "Treat the compound as the key historical anchor rather than as a secondary add-on to Prang Sam Yot."
+  ],
+  "verified_note": "Source-backed summary based on Museum Thailand and official TAT Lopburi references. Operating arrangements can change, so verify current access locally.",
+  "cultural_significance": "The palace quarter is Lopburi's clearest link to the reign of King Narai and the city's role as a second capital in the Ayutthaya period.",
+  "contentSources": [
+    {
+      "name": "Visit Lopburi, A good at heart and get knowledge.",
+      "url": "https://www.museumthailand.com/en/4833/highlight-trip/Visit-Lopburi%2C-A-good-at-heart-and-get-knowledge./"
+    },
+    {
+      "name": "Somdet Phra Narai National Museum",
+      "url": "https://www.museumthailand.com/en/museum/Somdet-Phra-Narai-National-Museum"
+    },
+    {
+      "name": "TAT Lopburi PDF guide",
+      "url": "https://patricklepetit.jalbum.net/LOPBURI/LIBRARY/TAT%20Lopburi.pdf"
+    }
+  ]
+}

@@ -1,199 +1,163 @@
 {
   "city_slug": "lopburi",
   "city_name": "Lopburi",
-  "total_attractions": 8,
+  "total_attractions": 6,
   "attractions": [
     {
       "id": 1,
       "slug": "prang-sam-yot",
       "name": {
-        "en": "Prang Sam Yot (Monkey Temple)",
-        "nl": "Prang Sam Yot (Apentempel)"
+        "en": "Prang Sam Yot",
+        "nl": "Prang Sam Yot"
       },
       "type": "temple",
-      "image": "/images/cities/ayutthaya/ayutthaya-historical-park.webp",
+      "image": "/images/cities/generated/lopburi.webp",
       "description": {
-        "en": "Iconic 13th-century Khmer temple with three prangs, famous for its resident macaque monkeys",
-        "nl": "Iconische 13e-eeuwse Khmer-tempel met drie prangs, beroemd om de lokale makaken"
+        "en": "The best-known Lopburi landmark and the city's clearest monkey-and-Khmer monument in one stop.",
+        "nl": "Het bekendste landmark van Lopburi en de duidelijkste combinatie van apenzone en Khmer-monument in één stop."
       },
       "entrance_fee": {
-        "thb": 50,
-        "usd": 1
+        "thb": null,
+        "usd": null
       },
       "highlights": [
-        "Khmer architecture",
-        "Macaque monkeys",
-        "Three prangs"
+        "Khmer monument",
+        "Monkey zone",
+        "Best first stop"
       ],
-      "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=Prang%20Sam%20Yot%20(Monkey%20Temple)%20Lopburi%20Thailand"
+      "best_time": "early morning",
+      "duration_hours": 1.5,
+      "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=Prang%20Sam%20Yot%20Lopburi%20Thailand"
     },
     {
       "id": 2,
-      "slug": "narai-ratchaniwet-palace",
+      "slug": "phra-narai-ratchaniwet-palace",
       "name": {
-        "en": "King Narai's Palace (Narai Ratchaniwet)",
-        "nl": "Koning Narai's Paleis (Narai Ratchaniwet)"
+        "en": "Phra Narai Ratchaniwet Palace",
+        "nl": "Phra Narai Ratchaniwet Palace"
       },
       "type": "palace",
-      "image": "/images/cities/ayutthaya/ayutthaya-historical-park.webp",
+      "image": "/images/cities/generated/lopburi.webp",
       "description": {
-        "en": "Grand 17th-century royal palace of King Narai the Great with Thai, Khmer, and European architectural fusion",
-        "nl": "Groots 17e-eeuws koninklijk paleis van Koning Narai de Grote met Thaise, Khmer en Europese architectuurfusie"
+        "en": "The Narai palace quarter that gives Lopburi its strongest political and royal-history context.",
+        "nl": "De Narai-paleiszone die Lopburi de sterkste politieke en koninklijke context geeft."
       },
       "entrance_fee": {
-        "thb": 150,
-        "usd": 4
+        "thb": null,
+        "usd": null
       },
       "highlights": [
-        "17th-century palace",
-        "Mixed architecture",
-        "Narai National Museum"
+        "Second-capital palace compound",
+        "Best historical anchor",
+        "Pairs with the museum"
       ],
-      "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=King%20Narai's%20Palace%20(Narai%20Ratchaniwet)%20Lopburi%20Thailand"
+      "best_time": "morning",
+      "duration_hours": 2.5,
+      "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=Phra%20Narai%20Ratchaniwet%20Lopburi%20Thailand"
     },
     {
       "id": 3,
-      "slug": "san-phra-kan",
+      "slug": "somdet-phra-narai-national-museum",
       "name": {
-        "en": "San Phra Kan (Kala Shrine)",
-        "nl": "San Phra Kan (Kala Schrijn)"
+        "en": "Somdet Phra Narai National Museum",
+        "nl": "Somdet Phra Narai National Museum"
       },
-      "type": "temple",
-      "image": "/images/cities/ayutthaya/ayutthaya-historical-park.webp",
+      "type": "museum",
+      "image": "/images/cities/generated/lopburi.webp",
       "description": {
-        "en": "Active Hindu-Buddhist shrine opposite Prang Sam Yot, home to hundreds of bold macaques and a large Khmer prang",
-        "nl": "Actief hindoe-boeddhistisch heiligdom tegenover Prang Sam Yot, met honderden brutale makaken en een grote Khmer-prang"
+        "en": "The palace-compound museum that explains Lopburi's history beyond the monument facades.",
+        "nl": "Het museum in het paleiscomplex dat de geschiedenis van Lopburi achter de monumenten uitlegt."
       },
       "entrance_fee": {
-        "thb": 0,
-        "usd": 0
+        "thb": null,
+        "usd": null
       },
       "highlights": [
-        "Monkey headquarters",
-        "Active shrine",
-        "Khmer prang"
+        "Palace-compound museum",
+        "Best history context",
+        "Good midday stop"
       ],
-      "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=San%20Phra%20Kan%20(Kala%20Shrine)%20Lopburi%20Thailand"
+      "best_time": "late morning or midday",
+      "duration_hours": 1.5,
+      "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=Somdet%20Phra%20Narai%20National%20Museum%20Lopburi%20Thailand"
     },
     {
       "id": 4,
-      "slug": "narai-national-museum",
+      "slug": "wichayen-house",
       "name": {
-        "en": "Narai National Museum",
-        "nl": "Narai Nationaal Museum"
+        "en": "Wichayen House",
+        "nl": "Wichayen House"
       },
-      "type": "museum",
-      "image": "/images/cities/ayutthaya/ayutthaya-historical-park.webp",
+      "type": "historic",
+      "image": "/images/cities/generated/lopburi.webp",
       "description": {
-        "en": "Museum within King Narai's Palace compound housing Lopburi-period artifacts, Khmer sculptures, and historical exhibits",
-        "nl": "Museum binnen het paleiscomplex van Koning Narai met artefacten uit de Lopburi-periode, Khmer-sculpturen en historische tentoonstellingen"
+        "en": "The best diplomatic-history add-on to the Narai palace quarter, tied to foreign envoys and Constantine Phaulkon.",
+        "nl": "De beste diplomatieke historische toevoeging aan de Narai-paleiszone, verbonden met buitenlandse gezanten en Constantine Phaulkon."
       },
       "entrance_fee": {
-        "thb": 150,
-        "usd": 4
+        "thb": null,
+        "usd": null
       },
       "highlights": [
-        "Lopburi-period artifacts",
-        "Khmer sculptures",
-        "Royal history"
+        "Envoy residence",
+        "Phaulkon connection",
+        "Strong secondary history stop"
       ],
-      "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=Narai%20National%20Museum%20Lopburi%20Thailand"
+      "best_time": "morning",
+      "duration_hours": 1.25,
+      "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=Wichayen%20House%20Lopburi%20Thailand"
     },
     {
       "id": 5,
-      "slug": "wat-phra-si-ratana-mahathat-lopburi",
+      "slug": "wat-phra-si-rattana-mahathat",
       "name": {
-        "en": "Wat Phra Si Ratana Mahathat Lopburi",
-        "nl": "Wat Phra Si Ratana Mahathat Lopburi"
+        "en": "Wat Phra Si Rattana Mahathat",
+        "nl": "Wat Phra Si Rattana Mahathat"
       },
       "type": "temple",
-      "image": "/images/cities/ayutthaya/ayutthaya-historical-park.webp",
+      "image": "/images/cities/generated/lopburi.webp",
       "description": {
-        "en": "Major Khmer temple ruins adjacent to the railway station with impressive laterite prang and Buddha images",
-        "nl": "Grote Khmer-tempelruines naast het treinstation met indrukwekkende lateriet-prang en Boeddhabeelden"
+        "en": "The station-side ruin that adds another serious Lopburi monument after Prang Sam Yot and the palace quarter.",
+        "nl": "De ruine bij het station die een extra serieus monument toevoegt na Prang Sam Yot en de paleiszone."
       },
       "entrance_fee": {
-        "thb": 50,
-        "usd": 1
+        "thb": null,
+        "usd": null
       },
       "highlights": [
-        "Khmer laterite prang",
-        "Buddha images",
-        "Adjacent to station"
+        "Large prang",
+        "Station-side heritage stop",
+        "Best secondary ruin"
       ],
-      "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=Wat%20Phra%20Si%20Ratana%20Mahathat%20Lopburi%20Lopburi%20Thailand"
+      "best_time": "morning or late afternoon",
+      "duration_hours": 1.5,
+      "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=Wat%20Phra%20Si%20Rattana%20Mahathat%20Lopburi%20Thailand"
     },
     {
       "id": 6,
-      "slug": "ban-vichayen",
+      "slug": "khao-chin-lae-sunflower-field",
       "name": {
-        "en": "Ban Vichayen (Constantine Phaulkon Residence)",
-        "nl": "Ban Vichayen (Constantine Phaulkon Residentie)"
-      },
-      "type": "historic",
-      "image": "/images/cities/ayutthaya/ayutthaya-historical-park.webp",
-      "description": {
-        "en": "Ruins of the residence of Greek adventurer Constantine Phaulkon, a key figure in 17th-century Siamese-French diplomacy",
-        "nl": "Ruines van de residentie van de Griekse avonturier Constantine Phaulkon, een sleutelfiguur in de 17e-eeuwse Siamese-Franse diplomatie"
-      },
-      "entrance_fee": {
-        "thb": 50,
-        "usd": 1
-      },
-      "highlights": [
-        "17th-century ruins",
-        "European-Thai history",
-        "French mission chapel"
-      ],
-      "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=Ban%20Vichayen%20(Constantine%20Phaulkon%20Residence)%20Lopburi%20Thailand"
-    },
-    {
-      "id": 7,
-      "slug": "phra-narai-ratchaniwet-gardens",
-      "name": {
-        "en": "Phra Narai Ratchaniwet Gardens",
-        "nl": "Phra Narai Ratchaniwet Tuinen"
-      },
-      "type": "park",
-      "image": "/images/cities/ayutthaya/ayutthaya-historical-park.webp",
-      "description": {
-        "en": "Beautifully landscaped gardens surrounding King Narai's Palace with lotus ponds and ancient trees",
-        "nl": "Prachtig aangelegde tuinen rondom het paleis van Koning Narai met lotusvijvers en oude bomen"
-      },
-      "entrance_fee": {
-        "thb": 0,
-        "usd": 0
-      },
-      "highlights": [
-        "Lotus ponds",
-        "Ancient trees",
-        "Palace grounds"
-      ],
-      "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=Phra%20Narai%20Ratchaniwet%20Gardens%20Lopburi%20Thailand"
-    },
-    {
-      "id": 8,
-      "slug": "sunflower-fields-lopburi",
-      "name": {
-        "en": "Lopburi Sunflower Fields",
-        "nl": "Lopburi Zonnebloemvelden"
+        "en": "Khao Chin Lae Sunflower Field",
+        "nl": "Khao Chin Lae Sunflower Field"
       },
       "type": "nature",
-      "image": "/images/cities/ayutthaya/ayutthaya-historical-park.webp",
+      "image": "/images/cities/generated/lopburi.webp",
       "description": {
-        "en": "Vast golden sunflower fields that bloom from November to January, a stunning seasonal attraction in the Lopburi countryside",
-        "nl": "Uitgestrekte gouden zonnebloemvelden die van november tot januari bloeien, een prachtige seizoensattractie op het Lopburi-platteland"
+        "en": "The strongest seasonal contrast to Lopburi's historic core when bloom timing is right.",
+        "nl": "Het sterkste seizoenscontrast met de historische kern van Lopburi wanneer de bloei goed valt."
       },
       "entrance_fee": {
-        "thb": 0,
-        "usd": 0
+        "thb": null,
+        "usd": null
       },
       "highlights": [
-        "Seasonal blooms",
-        "Photography spot",
-        "Golden landscapes"
+        "Seasonal field detour",
+        "Best cool-season extra",
+        "Scenic photo backdrop"
       ],
-      "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=Lopburi%20Sunflower%20Fields%20Lopburi%20Thailand"
+      "best_time": "morning in bloom season",
+      "duration_hours": 2,
+      "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=Khao%20Chin%20Lae%20Sunflower%20Field%20Lopburi%20Thailand"
     }
   ]
 }

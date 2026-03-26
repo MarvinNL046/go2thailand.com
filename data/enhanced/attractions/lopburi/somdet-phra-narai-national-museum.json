@@ -1,0 +1,80 @@
+{
+  "id": 3,
+  "slug": "somdet-phra-narai-national-museum",
+  "name": {
+    "en": "Somdet Phra Narai National Museum",
+    "nl": "Somdet Phra Narai National Museum"
+  },
+  "type": "museum",
+  "city_slug": "lopburi",
+  "address": "Tha Hin, Mueang Lopburi District, Lopburi 15000",
+  "location": {
+    "lat": 14.7999336,
+    "lng": 100.6076036
+  },
+  "opening_hours": "Museum schedules can change; confirm current opening days before going",
+  "entrance_fee": {
+    "thb": null,
+    "usd": null
+  },
+  "description": {
+    "en": "The palace-compound museum that explains Lopburi's history beyond the monument facades.",
+    "nl": "Het museum in het paleiscomplex dat de geschiedenis van Lopburi achter de monumenten uitlegt."
+  },
+  "highlights": [
+    "Palace-compound museum",
+    "Best history context",
+    "Good midday stop"
+  ],
+  "image": "/images/cities/generated/lopburi.webp",
+  "seo": {
+    "metaTitle": {
+      "en": "Somdet Phra Narai National Museum | Go2Thailand",
+      "nl": "Somdet Phra Narai National Museum | Go2Thailand"
+    },
+    "metaDescription": {
+      "en": "Why Lopburi's Narai museum is worth real time and how it strengthens the palace-quarter visit.",
+      "nl": "Waarom het Narai-museum van Lopburi echte tijd waard is en hoe het het paleisbezoek versterkt."
+    }
+  },
+  "tags": [
+    "museum",
+    "lopburi",
+    "narai",
+    "history"
+  ],
+  "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=Somdet%20Phra%20Narai%20National%20Museum%20Lopburi%20Thailand",
+  "best_time": "late morning or midday",
+  "duration_hours": 1.5,
+  "enhanced_description": "Somdet Phra Narai National Museum is what turns the palace quarter from a handsome ruin visit into a city story that actually makes sense. Without it, visitors see architecture and courtyards; with it, the Narai period, Lopburi's political importance, and the city's wider archaeological timeline become much easier to read.\n\nThat is why this museum deserves real time instead of being treated as an optional add-on. Museum Thailand identifies it under the Department of Fine Arts and places it directly inside the palace context. In practical terms, it is also one of the best midday stops in Lopburi because it adds depth without demanding another heat-heavy outdoor circuit.",
+  "detailed_history": "Museum Thailand frames the museum as part of the Narai palace complex and under Fine Arts management. The strongest use of the site is not as a separate museum day but as the interpretive layer that helps the palace compound and the rest of old Lopburi connect chronologically.",
+  "visitor_experience": "Expect a more measured visit than the outdoor monuments. The museum works best for travelers who want the city to feel coherent rather than scenic-only, and it is especially useful once you have already seen the palace buildings or Prang Sam Yot.",
+  "best_time_to_visit": {
+    "time_of_day": "Late morning or midday",
+    "duration": "About 60 to 90 minutes",
+    "crowd_level": "Usually moderate and calmer than the outdoor monuments"
+  },
+  "practical_info": {
+    "how_to_get_there": "Visit it as part of the palace compound rather than as a separate transport leg.",
+    "nearby_attractions": "Phra Narai Ratchaniwet Palace and Wichayen House.",
+    "food_options": "Use the museum as the indoor core of the palace quarter before breaking for lunch.",
+    "shopping": "Secondary to the museum visit; keep expectations practical."
+  },
+  "insider_tips": [
+    "This is the best place to deepen the palace visit rather than adding another rushed ruin.",
+    "Use it to break the day if the outdoor circuit is getting too hot.",
+    "Travelers who like context should prioritize this higher than another thin stop elsewhere in town."
+  ],
+  "verified_note": "Source-backed summary based on Museum Thailand's current museum listing and palace-compound context. Recheck current schedules before visiting.",
+  "cultural_significance": "The museum is one of the clearest interpretive anchors for understanding Narai-era Lopburi and the city's broader archaeological significance.",
+  "contentSources": [
+    {
+      "name": "Somdet Phra Narai National Museum",
+      "url": "https://www.museumthailand.com/en/museum/Somdet-Phra-Narai-National-Museum"
+    },
+    {
+      "name": "Visit Lopburi, A good at heart and get knowledge.",
+      "url": "https://www.museumthailand.com/en/4833/highlight-trip/Visit-Lopburi%2C-A-good-at-heart-and-get-knowledge./"
+    }
+  ]
+}

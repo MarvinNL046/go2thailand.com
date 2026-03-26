@@ -1,0 +1,81 @@
+{
+  "id": 1,
+  "slug": "prang-sam-yot",
+  "name": {
+    "en": "Prang Sam Yot",
+    "nl": "Prang Sam Yot"
+  },
+  "type": "temple",
+  "city_slug": "lopburi",
+  "address": "Thanon Prang Sam Yot, Tha Hin, Mueang Lopburi District, Lopburi 15000",
+  "location": {
+    "lat": 14.8029199,
+    "lng": 100.614113
+  },
+  "opening_hours": "Recheck current monument opening hours on site before visiting",
+  "entrance_fee": {
+    "thb": null,
+    "usd": null
+  },
+  "description": {
+    "en": "The best-known Lopburi landmark and the city's clearest monkey-and-Khmer monument in one stop.",
+    "nl": "Het bekendste landmark van Lopburi en de duidelijkste combinatie van apenzone en Khmer-monument in één stop."
+  },
+  "highlights": [
+    "Khmer monument",
+    "Monkey zone",
+    "Best first stop"
+  ],
+  "image": "/images/cities/generated/lopburi.webp",
+  "seo": {
+    "metaTitle": {
+      "en": "Prang Sam Yot Lopburi | Go2Thailand",
+      "nl": "Prang Sam Yot Lopburi | Go2Thailand"
+    },
+    "metaDescription": {
+      "en": "Why Prang Sam Yot matters as both Lopburi's monkey landmark and one of its key Khmer-era monuments.",
+      "nl": "Waarom Prang Sam Yot telt als zowel de apen-landmark van Lopburi als een van de belangrijkste Khmer-monumenten."
+    }
+  },
+  "tags": [
+    "prang-sam-yot",
+    "lopburi",
+    "khmer",
+    "monkeys",
+    "temple"
+  ],
+  "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=Prang%20Sam%20Yot%20Lopburi%20Thailand",
+  "best_time": "early morning",
+  "duration_hours": 1.5,
+  "enhanced_description": "Prang Sam Yot is the image most people already have in mind before they arrive in Lopburi: a Khmer monument overtaken by macaques. That reputation is deserved, but it can also flatten the site into pure spectacle if you arrive expecting only monkey photos. The better way to approach it is as the city's best-known Khmer landmark first and a demanding urban monkey zone second.\n\nThat shift in emphasis matters because the site still does real historical work inside a short Lopburi itinerary. Once you understand that, the visit becomes less about chaos and more about reading the monument while staying alert. Official museum and tourism material continues to treat Prang Sam Yot as the central urban landmark of Lopburi, and it is still the clearest opening stop before moving on to the Narai palace quarter.",
+  "detailed_history": "Museum Thailand's Lopburi route material keeps Prang Sam Yot at the front of the city story, while official TAT Lopburi material places the monument among the province's core Khmer-era heritage stops. That is the right way to think about it: as part of Lopburi's older monument layer, not as a novelty detached from the city's history.",
+  "visitor_experience": "Expect a compact visit where the monument and the monkeys compete for your attention. The site is easiest when you arrive prepared, keep food packed away, and do not carry loose or shiny items into the most active monkey zone. Once that is under control, the visit becomes much calmer and more readable.",
+  "best_time_to_visit": {
+    "time_of_day": "Early morning",
+    "duration": "About 60 to 90 minutes",
+    "crowd_level": "Busy later in the day, especially when the monkey zone becomes the main draw"
+  },
+  "practical_info": {
+    "how_to_get_there": "Walk here easily from Lopburi's old town and station-side monument area.",
+    "nearby_attractions": "San Phra Kan, Wat Phra Si Rattana Mahathat, and the Narai palace quarter.",
+    "food_options": "Eat after the visit rather than carrying snacks into the monkey zone.",
+    "shopping": "Limited and secondary; this is a heritage stop, not a retail area."
+  },
+  "insider_tips": [
+    "Do not bring visible food into the monkey zone.",
+    "Secure sunglasses, hats, and anything shiny before you enter.",
+    "Use this as the first stop of the old-city circuit, then move on to the palace quarter."
+  ],
+  "verified_note": "Source-backed summary based on official tourism and museum references for Lopburi's main urban landmark. Monument operations and ticketing can change, so recheck on site.",
+  "cultural_significance": "Prang Sam Yot is the city's most recognizable monument because it combines Lopburi's Khmer heritage with its unusual urban coexistence with macaques.",
+  "contentSources": [
+    {
+      "name": "Visit Lopburi, A good at heart and get knowledge.",
+      "url": "https://www.museumthailand.com/en/4833/highlight-trip/Visit-Lopburi%2C-A-good-at-heart-and-get-knowledge./"
+    },
+    {
+      "name": "TAT Lopburi PDF guide",
+      "url": "https://patricklepetit.jalbum.net/LOPBURI/LIBRARY/TAT%20Lopburi.pdf"
+    }
+  ]
+}

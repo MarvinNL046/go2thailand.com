@@ -1,0 +1,81 @@
+{
+  "id": 4,
+  "slug": "wichayen-house",
+  "name": {
+    "en": "Wichayen House",
+    "nl": "Wichayen House"
+  },
+  "type": "historic",
+  "city_slug": "lopburi",
+  "address": "Wichayan Road, Tha Hin, Mueang Lopburi District, Lopburi 15000",
+  "location": {
+    "lat": 14.802861,
+    "lng": 100.6104114
+  },
+  "opening_hours": "Museum Thailand currently lists selected weekday daytime opening; verify before visiting",
+  "entrance_fee": {
+    "thb": null,
+    "usd": null
+  },
+  "description": {
+    "en": "The best diplomatic-history add-on to the Narai palace quarter, tied to foreign envoys and Constantine Phaulkon.",
+    "nl": "De beste diplomatieke historische toevoeging aan de Narai-paleiszone, verbonden met buitenlandse gezanten en Constantine Phaulkon."
+  },
+  "highlights": [
+    "Envoy residence",
+    "Phaulkon connection",
+    "Strong secondary history stop"
+  ],
+  "image": "/images/cities/generated/lopburi.webp",
+  "seo": {
+    "metaTitle": {
+      "en": "Wichayen House Lopburi | Go2Thailand",
+      "nl": "Wichayen House Lopburi | Go2Thailand"
+    },
+    "metaDescription": {
+      "en": "Why Wichayen House is the diplomatic-history stop that adds real depth to Lopburi's Narai-era route.",
+      "nl": "Waarom Wichayen House de diplomatieke historische stop is die echte diepte toevoegt aan de Narai-route in Lopburi."
+    }
+  },
+  "tags": [
+    "wichayen-house",
+    "lopburi",
+    "narai",
+    "phaulkon",
+    "history"
+  ],
+  "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=Wichayen%20House%20Lopburi%20Thailand",
+  "best_time": "morning",
+  "duration_hours": 1.25,
+  "enhanced_description": "Wichayen House is one of the stops that makes Lopburi feel more internationally connected than many first-time visitors expect. It adds the envoy and diplomatic layer to the Narai story and gives the city a very different tone from the monkey-zone monuments. If the palace tells you that Lopburi mattered politically, Wichayen House explains how that importance also touched foreign missions and court networks.\n\nThat is why this is such a useful second history stop after the palace compound. Museum Thailand identifies it as the royal envoy reception residence and links it directly to Constantine Phaulkon and the French missions of King Narai's reign. In practical terms, it is one of the best add-ons in town because it deepens the palace quarter without forcing a major detour.",
+  "detailed_history": "Museum Thailand describes Wichayen House as the royal envoy reception residence and as the Lopburi home linked to Chaophraya Wichayen, better known as Constantine Phaulkon. That framing matters because it gives the city a diplomatic-history layer that many provincial heritage routes do not have.",
+  "visitor_experience": "Expect a smaller and more focused visit than at the palace, but one that adds disproportionate value if you care about narrative. The site is best seen as part of the Narai-era cluster rather than as a generic old building.",
+  "best_time_to_visit": {
+    "time_of_day": "Morning",
+    "duration": "About 60 to 75 minutes",
+    "crowd_level": "Usually calmer than the main monkey-zone monuments"
+  },
+  "practical_info": {
+    "how_to_get_there": "Reach it easily from the palace quarter as part of the same city block.",
+    "nearby_attractions": "Phra Narai Ratchaniwet Palace and Somdet Phra Narai National Museum.",
+    "food_options": "Keep it inside the same history circuit and eat after the Narai-era block is finished.",
+    "shopping": "Very limited; this is a history stop, not a retail zone."
+  },
+  "insider_tips": [
+    "Do this after the palace so the historical narrative stays connected.",
+    "The site is most rewarding for travelers who care about diplomacy and court politics, not just ruins.",
+    "If time is short, choose this over weaker filler stops elsewhere in town."
+  ],
+  "verified_note": "Source-backed summary based on Museum Thailand's current listing for Wichayen House. Recheck current opening days and ticketing locally.",
+  "cultural_significance": "Wichayen House gives Lopburi one of its clearest physical links to the foreign-envoy and court-diplomacy side of King Narai's reign.",
+  "contentSources": [
+    {
+      "name": "Wichayen House",
+      "url": "https://www.museumthailand.com/en/museum/Wichayen-House"
+    },
+    {
+      "name": "Visit Lopburi, A good at heart and get knowledge.",
+      "url": "https://www.museumthailand.com/en/4833/highlight-trip/Visit-Lopburi%2C-A-good-at-heart-and-get-knowledge./"
+    }
+  ]
+}
