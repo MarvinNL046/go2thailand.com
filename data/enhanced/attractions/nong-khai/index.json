@@ -1,142 +1,163 @@
 {
   "city_slug": "nong-khai",
   "city_name": "Nong Khai",
-  "total_attractions": 5,
+  "total_attractions": 6,
   "attractions": [
     {
       "id": 1,
-      "slug": "den-ping-cave",
+      "slug": "wat-pho-chai",
       "name": {
-        "en": "Den Ping Cave",
-        "nl": "Den Ping Grot"
+        "en": "Wat Pho Chai",
+        "nl": "Wat Pho Chai"
       },
       "type": "temple",
-      "image": "/images/cities/chiangmai/chiang-mai-temple.webp",
+      "image": "/images/cities/generated/nong-khai.webp",
       "description": {
-        "en": "A limestone cave system explored with a local guide by torchlight, featuring narrow passages, stunning rock formations, and hidden Buddhist shrines deep underground",
-        "nl": "Een kalksteengrotsysteem dat je met een lokale gids bij fakkelschijn verkent, met smalle passages, prachtige rotsformaties en verborgen boeddhistische schrijnen diep onder de grond"
+        "en": "The city's strongest sacred stop and the clearest place to understand Nong Khai through the Phra Sai Buddha image.",
+        "nl": "De sterkste heilige stop van de stad en de duidelijkste plek om Nong Khai via het Phra Sai-Boeddhabeeld te begrijpen."
       },
       "entrance_fee": {
-        "thb": 100,
-        "usd": 3
+        "thb": null,
+        "usd": null
       },
+      "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=Wat%20Pho%20Chai%20Nong%20Khai",
       "highlights": [
-        "Guided cave exploration",
-        "Buddhist shrines",
-        "Stalactite formations",
-        "Adventure experience"
+        "Phra Sai Buddha image",
+        "Main city temple",
+        "Best in-town sacred layer"
       ],
-      "best_time": "morning",
-      "duration_hours": 1.5,
-      "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=Den%20Ping%20Cave%20Nong%20Khai%20Thailand"
+      "best_time": "morning or late afternoon",
+      "duration_hours": 1.5
     },
     {
       "id": 2,
-      "slug": "cliff-temple-viewpoint",
+      "slug": "tha-sadet-market-and-riverfront",
       "name": {
-        "en": "Cliff Temple Viewpoint",
-        "nl": "Kliftempel Uitzichtpunt"
+        "en": "Tha Sadet Market and Riverfront",
+        "nl": "Tha Sadet-markt en rivierfront"
       },
-      "type": "nature",
-      "image": "/images/cities/chiangmai/chiang-mai-park.webp",
+      "type": "market",
+      "image": "/images/cities/generated/nong-khai.webp",
       "description": {
-        "en": "Dramatic cliff-top temples perched high above the Mekong River offering breathtaking panoramic views stretching far into Laos",
-        "nl": "Dramatische kliftempels hoog boven de Mekong met adembenemend panoramisch uitzicht dat ver Laos in reikt"
+        "en": "The best first walk in Nong Khai, combining the Mekong promenade, market life, and the city's most useful evening rhythm.",
+        "nl": "De beste eerste wandeling in Nong Khai, met de Mekong-promenade, marktsfeer en het nuttigste avondritme van de stad."
       },
       "entrance_fee": {
-        "thb": 0,
-        "usd": 0
+        "thb": null,
+        "usd": null
       },
+      "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=Tha%20Sadet%20Market%20Nong%20Khai",
       "highlights": [
-        "Panoramic Mekong views",
-        "Cliff-edge temples",
-        "Views into Laos",
-        "Photography spot"
+        "Mekong-side market",
+        "Sunset and walking logic",
+        "Best city-core pacing"
       ],
-      "best_time": "morning",
-      "duration_hours": 1.5,
-      "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=Cliff%20Temple%20Viewpoint%20Nong%20Khai%20Thailand"
+      "best_time": "late afternoon or evening",
+      "duration_hours": 2
     },
     {
       "id": 3,
-      "slug": "white-marble-reclining-buddha",
+      "slug": "sala-kaeo-ku",
       "name": {
-        "en": "White Marble Reclining Buddha Temple",
-        "nl": "Witte Marmeren Liggende Boeddha Tempel"
+        "en": "Sala Kaeo Ku",
+        "nl": "Sala Kaeo Ku"
       },
-      "type": "temple",
-      "image": "/images/cities/chiangmai/chiang-mai-temple.webp",
+      "type": "culture",
+      "image": "/images/cities/generated/nong-khai.webp",
       "description": {
-        "en": "A stunning temple housing a massive 20-meter reclining Buddha carved entirely from Italian white marble, one of the most impressive Buddha statues in Isaan",
-        "nl": "Een prachtige tempel met een enorm 20 meter lang liggend Boeddhabeeld, volledig gehouwen uit Italiaans wit marmer, een van de meest indrukwekkende Boeddhabeelden in Isaan"
+        "en": "Nong Khai's most distinctive cultural site, built around a large sculpture park of Buddhist, Brahmanical, and local symbolic imagery.",
+        "nl": "De meest onderscheidende culturele plek van Nong Khai, een groot beeldenpark vol boeddhistische, brahmaanse en lokale symboliek."
       },
       "entrance_fee": {
-        "thb": 0,
-        "usd": 0
+        "thb": null,
+        "usd": null
       },
+      "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=Sala%20Kaeo%20Ku%20Nong%20Khai",
       "highlights": [
-        "20-meter reclining Buddha",
-        "Italian white marble",
-        "Free entry",
-        "Impressive craftsmanship"
+        "208 sculptures",
+        "Buddhist and Hindu imagery",
+        "Unique visual identity"
       ],
-      "best_time": "morning",
-      "duration_hours": 1,
-      "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=White%20Marble%20Reclining%20Buddha%20Temple%20Nong%20Khai%20Thailand"
+      "best_time": "morning or late afternoon",
+      "duration_hours": 2
     },
     {
       "id": 4,
-      "slug": "friendship-bridge-viewpoint",
+      "slug": "first-thai-lao-friendship-bridge",
       "name": {
-        "en": "Friendship Bridge Viewpoint",
-        "nl": "Vriendschapsbrug Uitzichtpunt"
+        "en": "First Thai-Lao Friendship Bridge",
+        "nl": "Eerste Thai-Lao Vriendschapsbrug"
       },
-      "type": "culture",
-      "image": "/images/cities/chiangmai/chiang-mai-temple.webp",
+      "type": "landmark",
+      "image": "/images/cities/generated/nong-khai.webp",
       "description": {
-        "en": "Viewpoint overlooking the iconic Thai-Lao Friendship Bridge spanning the Mekong River, connecting Nong Khai to Vientiane, the capital of Laos",
-        "nl": "Uitzichtpunt met uitzicht op de iconische Thai-Lao Vriendschapsbrug over de Mekong, die Nong Khai verbindt met Vientiane, de hoofdstad van Laos"
+        "en": "The bridge that explains Nong Khai as a working border city, not only as a quiet Mekong town.",
+        "nl": "De brug die Nong Khai als echte grensstad uitlegt en niet alleen als rustige Mekongstad."
       },
       "entrance_fee": {
-        "thb": 0,
-        "usd": 0
+        "thb": null,
+        "usd": null
       },
+      "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=First%20Thai-Lao%20Friendship%20Bridge%20Nong%20Khai",
       "highlights": [
-        "Thailand-Laos crossing",
-        "Mekong River views",
-        "International border",
-        "Historic bridge"
+        "Road and rail link",
+        "Core border-city context",
+        "Regional identity landmark"
       ],
-      "best_time": "afternoon",
-      "duration_hours": 0.5,
-      "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=Friendship%20Bridge%20Viewpoint%20Nong%20Khai%20Thailand"
+      "best_time": "late morning or afternoon",
+      "duration_hours": 1
     },
     {
       "id": 5,
-      "slug": "mekong-riverside-promenade",
+      "slug": "wat-pha-tak-suea-skywalk",
       "name": {
-        "en": "Mekong Riverside Promenade",
-        "nl": "Mekong Rivierpromenade"
+        "en": "Wat Pha Tak Suea Skywalk",
+        "nl": "Wat Pha Tak Suea Skywalk"
       },
-      "type": "nature",
-      "image": "/images/cities/chiangmai/chiang-mai-park.webp",
+      "type": "viewpoint",
+      "image": "/images/cities/generated/nong-khai.webp",
       "description": {
-        "en": "Peaceful riverside walking and cycling path along the Mekong in Nong Khai city, perfect for sunset strolls with views over the river to Laos",
-        "nl": "Rustig wandel- en fietspad langs de Mekong in Nong Khai stad, perfect voor een avondwandeling bij zonsondergang met uitzicht over de rivier naar Laos"
+        "en": "The strongest headline viewpoint on the Sangkhom side, with a glass skywalk and wide Mekong views.",
+        "nl": "Het sterkste headline-uitzichtpunt aan de Sangkhom-kant, met een glazen skywalk en breed uitzicht over de Mekong."
       },
       "entrance_fee": {
-        "thb": 0,
-        "usd": 0
+        "thb": null,
+        "usd": null
       },
+      "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=Wat%20Pha%20Tak%20Suea%20Skywalk%20Nong%20Khai",
       "highlights": [
-        "Sunset views",
-        "Walking and cycling",
-        "River views to Laos",
-        "Local atmosphere"
+        "Glass skywalk",
+        "Cliff-edge Mekong panorama",
+        "Best-known Sangkhom stop"
       ],
-      "best_time": "evening",
-      "duration_hours": 1.5,
-      "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=Mekong%20Riverside%20Promenade%20Nong%20Khai%20Thailand"
+      "best_time": "early morning or late afternoon",
+      "duration_hours": 2
+    },
+    {
+      "id": 6,
+      "slug": "phu-huai-isan",
+      "name": {
+        "en": "Phu Huai Isan",
+        "nl": "Phu Huai Isan"
+      },
+      "type": "viewpoint",
+      "image": "/images/cities/generated/nong-khai.webp",
+      "description": {
+        "en": "The stronger sunrise viewpoint for mist-season mornings, islands in the Mekong, and a more deliberate early start.",
+        "nl": "Het sterkere sunrise-uitzichtpunt voor mistige ochtenden, eilanden in de Mekong en een bewuste vroege start."
+      },
+      "entrance_fee": {
+        "thb": null,
+        "usd": null
+      },
+      "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=Phu%20Huai%20Isan%20Nong%20Khai",
+      "highlights": [
+        "Best sunrise logic",
+        "Sea-of-mist potential",
+        "Island-dotted Mekong view"
+      ],
+      "best_time": "sunrise",
+      "duration_hours": 2.5
     }
   ]
 }

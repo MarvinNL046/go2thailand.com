@@ -1,206 +1,136 @@
 {
   "title": "Best Restaurants in Nong Khai Thailand (2026)",
-  "meta_description": "The 10 best restaurants in Nong Khai, Thailand with real ratings and guest reviews from tripadvisor. Updated 2026-03-08.",
-  "intro": "Discover the best restaurants in Nong Khai, Thailand. These recommendations are based on real guest reviews and ratings from tripadvisor.",
+  "meta_description": "The Nong Khai restaurants that still make sense: Vietnamese-border classics, Mekong fish dinners, and a tighter city-first shortlist backed by official guidebooks instead of review spam.",
+  "intro": "Nong Khai food is stronger when you stop pretending the city needs another scraped top-10 list. The better move is a shorter, source-backed set built around Vietnamese-border identity, Mekong fish dinners, and the kinds of local meals that actually fit a riverfront city stay.",
   "items": [
     {
       "rank": 1,
-      "name": "The For Rest Cafe",
-      "description": "The For Rest Cafe is a 5-rated Cafe, Dining bars restaurant in Nong Khai.",
-      "location": "Nong Khai",
-      "highlights": [],
-      "insider_tips": [],
-      "current_info": "Cuisine: Cafe, Dining bars • Rating: 5/5 • 11 reviews",
-      "scraped": {
-        "source": "tripadvisor",
-        "cuisine": "Cafe, Dining bars",
-        "rating": 5,
-        "review_count": 11,
-        "scraped_at": "2026-03-08T17:18:14.976Z"
-      },
-      "trip_affiliate_url": "https://tp.media/r?marker=602467&trs=421888&p=7631&u=https%3A%2F%2Fwww.trip.com%2Fhotels%2Flist%3Fkeyword%3DThe%2520For%2520Rest%2520Cafe%2520Nong%2520Khai"
+      "name": "Daeng Naem Nueng Nong Khai",
+      "description": "The clearest signature food stop in Nong Khai if you want the city's Vietnamese-border identity to show up directly in the itinerary.",
+      "location": "Nai Mueang, central Nong Khai",
+      "current_price": "Budget to mid-range",
+      "highlights": [
+        "Official guidebook pick",
+        "Strong Vietnamese angle",
+        "Useful lunch or early dinner"
+      ],
+      "insider_tips": [
+        "Use this as a proper sit-down meal rather than as a snack stop between city sights."
+      ],
+      "current_info": "The current Weaving Mekong guidebook still lists Daeng Naem Nueng as one of Nong Khai's key food names and highlights naem nueng, sugarcane-wrapped shrimp, and fresh spring rolls."
     },
     {
       "rank": 2,
-      "name": "Daeng Namnueng",
-      "description": "Daeng Namnueng is a 4-rated Vietnamese, Asian restaurant in Nong Khai.",
-      "location": "Nong Khai",
-      "current_price": "$$ - $$$",
-      "highlights": [],
-      "insider_tips": [],
-      "current_info": "Cuisine: Vietnamese, Asian • Price: $$ - $$$ • Rating: 4/5 • 272 reviews",
-      "scraped": {
-        "source": "tripadvisor",
-        "cuisine": "Vietnamese, Asian",
-        "price_range": "$$ - $$$",
-        "rating": 4,
-        "review_count": 272,
-        "scraped_at": "2026-03-08T17:18:14.976Z"
-      },
-      "trip_affiliate_url": "https://tp.media/r?marker=602467&trs=421888&p=7631&u=https%3A%2F%2Fwww.trip.com%2Fhotels%2Flist%3Fkeyword%3DDaeng%2520Namnueng%2520Nong%2520Khai"
+      "name": "Vietnam Cafe Nong Khai",
+      "description": "A lighter Vietnamese cafe-style stop that works especially well on the first morning when the city plan still centers on the market and temple core.",
+      "location": "Nai Mueang, central Nong Khai",
+      "current_price": "Budget",
+      "highlights": [
+        "Official guidebook pick",
+        "Good breakfast-to-lunch fit",
+        "Useful first-day meal"
+      ],
+      "insider_tips": [
+        "Best paired with Tha Sadet and Wat Pho Chai rather than a far-out province drive."
+      ],
+      "current_info": "The Weaving Mekong guidebook still positions Vietnam Cafe through dishes such as crispy pork miang wrap, Nguyen-style papaya salad, and banana blossom salad with crispy pork."
     },
     {
       "rank": 3,
-      "name": "Macky's Riverside Kitchen",
-      "description": "Macky's Riverside Kitchen is a 4.4-rated European, Asian restaurant in Nong Khai.",
-      "location": "Nong Khai",
-      "current_price": "$$ - $$$",
-      "highlights": [],
-      "insider_tips": [],
-      "current_info": "Cuisine: European, Asian • Price: $$ - $$$ • Rating: 4.4/5 • 262 reviews",
-      "scraped": {
-        "source": "tripadvisor",
-        "cuisine": "European, Asian",
-        "price_range": "$$ - $$$",
-        "rating": 4.4,
-        "review_count": 262,
-        "scraped_at": "2026-03-08T17:18:14.976Z"
-      },
-      "trip_affiliate_url": "https://tp.media/r?marker=602467&trs=421888&p=7631&u=https%3A%2F%2Fwww.trip.com%2Fhotels%2Flist%3Fkeyword%3DMacky's%2520Riverside%2520Kitchen%2520Nong%2520Khai"
+      "name": "Huen Hat Kham Restaurant",
+      "description": "A stronger local meal than generic ranking filler when you want Mekong fish and herb-led dishes to stay visible in the food plan.",
+      "location": "Hat Kham side of Nong Khai",
+      "current_price": "Budget to mid-range",
+      "highlights": [
+        "Official guidebook pick",
+        "Giant Mekong catfish soup",
+        "Good second-night meal"
+      ],
+      "insider_tips": [
+        "Useful when you want a river-linked dinner without defaulting to the same Vietnamese classic twice."
+      ],
+      "current_info": "The current guidebook still lists Huen Hat Kham through dishes such as spicy and sour giant Mekong catfish soup, herb omelette, and salad rolls."
     },
     {
       "rank": 4,
-      "name": "Pimali Restaurant",
-      "description": "Pimali Restaurant is a 4.9-rated International, Thai restaurant in Nong Khai.",
-      "location": "Nong Khai",
-      "current_price": "$$ - $$$",
-      "highlights": [],
-      "insider_tips": [],
-      "current_info": "Cuisine: International, Thai • Price: $$ - $$$ • Rating: 4.9/5 • 28 reviews",
-      "scraped": {
-        "source": "tripadvisor",
-        "cuisine": "International, Thai",
-        "price_range": "$$ - $$$",
-        "rating": 4.9,
-        "review_count": 28,
-        "scraped_at": "2026-03-08T17:18:14.976Z"
-      },
-      "trip_affiliate_url": "https://tp.media/r?marker=602467&trs=421888&p=7631&u=https%3A%2F%2Fwww.trip.com%2Fhotels%2Flist%3Fkeyword%3DPimali%2520Restaurant%2520Nong%2520Khai"
+      "name": "Mae Paed Kitchen Nong Khai",
+      "description": "A practical local savory stop that keeps the page grounded in river fish and everyday Thai dining rather than in cafe padding.",
+      "location": "Mueang Mi area",
+      "current_price": "Budget to mid-range",
+      "highlights": [
+        "Official guidebook pick",
+        "Soft-shelled river fish",
+        "Good lunch or dinner anchor"
+      ],
+      "insider_tips": [
+        "A better fit than generic riverside filler if you want a more substantial local meal."
+      ],
+      "current_info": "The Weaving Mekong guidebook still lists Mae Paed Kitchen with fried soft-shelled river fish, shrimp fritters, and tom yam pla kang."
     },
     {
       "rank": 5,
-      "name": "Huen Hat Kham Cafe",
-      "description": "Huen Hat Kham Cafe is a 3.8-rated Italian, Thai restaurant in Nong Khai.",
-      "location": "Nong Khai",
-      "current_price": "$$ - $$$",
-      "highlights": [],
-      "insider_tips": [],
-      "current_info": "Cuisine: Italian, Thai • Price: $$ - $$$ • Rating: 3.8/5 • 16 reviews",
-      "scraped": {
-        "source": "tripadvisor",
-        "cuisine": "Italian, Thai",
-        "price_range": "$$ - $$$",
-        "rating": 3.8,
-        "review_count": 16,
-        "scraped_at": "2026-03-08T17:18:14.976Z"
-      },
-      "trip_affiliate_url": "https://tp.media/r?marker=602467&trs=421888&p=7631&u=https%3A%2F%2Fwww.trip.com%2Fhotels%2Flist%3Fkeyword%3DHuen%2520Hat%2520Kham%2520Cafe%2520Nong%2520Khai"
+      "name": "Khong View Pla Chum",
+      "description": "A stronger Mekong-evening option if you want the Nong Khai fish-hotpot angle to stay visible in the itinerary.",
+      "location": "Nai Mueang, Nong Khai",
+      "current_price": "Budget to mid-range",
+      "highlights": [
+        "Official guidebook pick",
+        "Pla jum dinner logic",
+        "Good evening fit"
+      ],
+      "insider_tips": [
+        "Best kept for the evening instead of a rushed midday stop."
+      ],
+      "current_info": "The current guidebook continues to list Khong View Pla Chum as a Nong Khai pla jum dinner name in the city core."
     },
     {
       "rank": 6,
-      "name": "DD Restaurant",
-      "description": "DD Restaurant is a 4.2-rated Asian, Thai restaurant in Nong Khai.",
-      "location": "Nong Khai",
-      "current_price": "$$ - $$$",
-      "highlights": [],
-      "insider_tips": [],
-      "current_info": "Cuisine: Asian, Thai • Price: $$ - $$$ • Rating: 4.2/5 • 108 reviews",
-      "scraped": {
-        "source": "tripadvisor",
-        "cuisine": "Asian, Thai",
-        "price_range": "$$ - $$$",
-        "rating": 4.2,
-        "review_count": 108,
-        "scraped_at": "2026-03-08T17:18:14.976Z"
-      },
-      "trip_affiliate_url": "https://tp.media/r?marker=602467&trs=421888&p=7631&u=https%3A%2F%2Fwww.trip.com%2Fhotels%2Flist%3Fkeyword%3DDD%2520Restaurant%2520Nong%2520Khai"
+      "name": "Chang Yim Pla Chum",
+      "description": "A straightforward local dinner name when you want Nong Khai's fish-hotpot line without overcomplicating the meal plan.",
+      "location": "Mueang Nong Khai",
+      "current_price": "Budget",
+      "highlights": [
+        "Official guidebook pick",
+        "Pla jum focus",
+        "Simple local dinner pattern"
+      ],
+      "insider_tips": [
+        "Useful if your hotel base is more practical than riverfront-polished and you still want a proper local dinner."
+      ],
+      "current_info": "The Weaving Mekong guidebook still lists Chang Yim Pla Chum as a Nong Khai pla jum restaurant with late-day dining hours."
     },
     {
       "rank": 7,
-      "name": "Baan Tanluck",
-      "description": "Baan Tanluck is a 4.5-rated Thai restaurant in Nong Khai.",
-      "location": "Nong Khai",
-      "current_price": "$$ - $$$",
-      "highlights": [],
-      "insider_tips": [],
-      "current_info": "Cuisine: Thai • Price: $$ - $$$ • Rating: 4.5/5 • 4 reviews",
-      "scraped": {
-        "source": "tripadvisor",
-        "cuisine": "Thai",
-        "price_range": "$$ - $$$",
-        "rating": 4.5,
-        "review_count": 4,
-        "scraped_at": "2026-03-08T17:18:14.976Z"
-      },
-      "trip_affiliate_url": "https://tp.media/r?marker=602467&trs=421888&p=7631&u=https%3A%2F%2Fwww.trip.com%2Fhotels%2Flist%3Fkeyword%3DBaan%2520Tanluck%2520Nong%2520Khai"
-    },
-    {
-      "rank": 8,
-      "name": "German Bakery",
-      "description": "German Bakery is a 4.4-rated German, European restaurant in Nong Khai.",
-      "location": "Nong Khai",
-      "current_price": "$",
-      "highlights": [],
-      "insider_tips": [],
-      "current_info": "Cuisine: German, European • Price: $ • Rating: 4.4/5 • 17 reviews",
-      "scraped": {
-        "source": "tripadvisor",
-        "cuisine": "German, European",
-        "price_range": "$",
-        "rating": 4.4,
-        "review_count": 17,
-        "scraped_at": "2026-03-08T17:18:14.976Z"
-      },
-      "trip_affiliate_url": "https://tp.media/r?marker=602467&trs=421888&p=7631&u=https%3A%2F%2Fwww.trip.com%2Fhotels%2Flist%3Fkeyword%3DGerman%2520Bakery%2520Nong%2520Khai"
-    },
-    {
-      "rank": 9,
-      "name": "Mai's Bar-Restaurant",
-      "description": "Mai's Bar-Restaurant is a 4.5-rated International, European restaurant in Nong Khai.",
-      "location": "Nong Khai",
-      "current_price": "$",
-      "highlights": [],
-      "insider_tips": [],
-      "current_info": "Cuisine: International, European • Price: $ • Rating: 4.5/5 • 130 reviews",
-      "scraped": {
-        "source": "tripadvisor",
-        "cuisine": "International, European",
-        "price_range": "$",
-        "rating": 4.5,
-        "review_count": 130,
-        "scraped_at": "2026-03-08T17:18:14.976Z"
-      },
-      "trip_affiliate_url": "https://tp.media/r?marker=602467&trs=421888&p=7631&u=https%3A%2F%2Fwww.trip.com%2Fhotels%2Flist%3Fkeyword%3DMai's%2520Bar-Restaurant%2520Nong%2520Khai"
-    },
-    {
-      "rank": 10,
-      "name": "Chai Kong",
-      "description": "Chai Kong is a 3.8-rated Local music restaurant in Nong Khai.",
-      "location": "Nong Khai",
-      "current_price": "$$ - $$$",
-      "highlights": [],
-      "insider_tips": [],
-      "current_info": "Cuisine: Local music • Price: $$ - $$$ • Rating: 3.8/5 • 9 reviews",
-      "scraped": {
-        "source": "tripadvisor",
-        "cuisine": "Local music",
-        "price_range": "$$ - $$$",
-        "rating": 3.8,
-        "review_count": 9,
-        "scraped_at": "2026-03-08T17:18:14.976Z"
-      },
-      "trip_affiliate_url": "https://tp.media/r?marker=602467&trs=421888&p=7631&u=https%3A%2F%2Fwww.trip.com%2Fhotels%2Flist%3Fkeyword%3DChai%2520Kong%2520Nong%2520Khai"
+      "name": "VS Fish Pond Restaurant",
+      "description": "A useful additional local dinner option that keeps the shortlist tied to Mekong fish and Isaan flavors instead of sliding into generic mixed menus.",
+      "location": "Nai Mueang, Nong Khai",
+      "current_price": "Budget to mid-range",
+      "highlights": [
+        "Official guidebook pick",
+        "Mekong fish and Isaan dishes",
+        "Good backup dinner choice"
+      ],
+      "insider_tips": [
+        "This is the sort of place to use when you want range without abandoning the city's local food logic."
+      ],
+      "current_info": "The current guidebook still includes VS Fish Pond Restaurant and highlights Mekong fish larb, red ant egg koi, and stir-fried mixed mushrooms."
     }
   ],
   "city_slug": "nong-khai",
   "city_name": "Nong Khai",
   "category": "restaurants",
-  "data_sources": [
-    "tripadvisor",
-    "scraped"
+  "content_sources": [
+    {
+      "title": "Weaving Mekong Guidebook",
+      "creator": "Department of Tourism",
+      "url": "https://fliphtml5.com/kmkzf/Weaving-Mekong_EN/Weaving_Mekong_EN/",
+      "description": "Used for the current Nong Khai restaurant lineup, dish references, and opening-hour framing."
+    }
   ],
-  "last_scraped": "2026-03-08T17:18:14.976Z",
-  "generated_at": "2026-03-08T17:18:14.986Z",
-  "hybrid": false,
-  "scraped": true
+  "data_sources": [
+    "Department of Tourism"
+  ],
+  "generated_at": "2026-03-26T00:00:00.000Z",
+  "factchecked_at": "2026-03-26T00:00:00.000Z",
+  "hybrid": false
 }

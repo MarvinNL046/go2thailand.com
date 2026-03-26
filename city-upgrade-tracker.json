@@ -121,8 +121,8 @@
     },
     {
       "slug": "nong-khai",
-      "status": "pending",
-      "notes": ""
+      "status": "done",
+      "notes": "English city cluster rebuilt around Tha Sadet, Wat Pho Chai, Sala Kaeo Ku, the Friendship Bridge, and one deliberate Sangkhom-side viewpoint layer, with source-backed hotel and food picks, a replaced attraction detail set, and validation via jq, tsc, and localhost render checks."
     },
     {
       "slug": "pai",

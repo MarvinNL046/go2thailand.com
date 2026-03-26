@@ -15,77 +15,74 @@
   "region": "Isaan",
   "province": "Nong Khai",
   "description": {
-    "en": "A fascinating Mekong River gateway city connecting Thailand to Laos via the iconic Friendship Bridge, known for dramatic cliff-top temples, hidden cave systems, and an authentic off-the-beaten-path Isaan experience.",
-    "nl": "Een fascinerende poortstad aan de Mekong die Thailand met Laos verbindt via de iconische Vriendschapsbrug, bekend om dramatische kliftempels, verborgen grotsystemen en een authentieke Isaan-ervaring ver van de gebaande paden.",
-    "ja": "タイとラオスを結ぶ友好橋で知られるメコン川沿いの魅力的な街ノーンカーイは、崖上の寺院、隠れた洞窟、独特のスカルプチャーパークが見どころです。",
-    "ko": "상징적인 우정의 다리를 통해 태국과 라오스를 연결하는 매력적인 메콩강변 관문 도시로, 극적인 절벽 사원, 숨겨진 동굴, 정통 이산 체험으로 유명합니다.",
-    "th": "เมืองริมแม่น้ำโขง มีสะพานมิตรภาพไทย-ลาว ศาลาแก้วกู่ และบั้งไฟพญานาค",
-    "de": "Eine faszinierende Grenzstadt am Mekong, die Thailand mit Laos durch die ikonische Freundschaftsbrücke verbindet. Berühmt für dramatische Tempel auf Klippen, versteckte Höhlensysteme und ein authentisches Isaan-Erlebnis abseits der ausgetretenen Pfade.",
-    "fr": "Une ville-frontière fascinante sur le Mékong, reliant la Thaïlande au Laos via le pont emblématique de l’Amitié. Connue pour ses temples perchés sur des falaises spectaculaires, ses systèmes de grottes cachées et une expérience authentique de l’Isaan hors des sentiers battus.",
-    "ru": "Увлекательный пограничный город на реке Меконг, соединяющий Таиланд и Лаос через знаковый Мост дружбы, известный драматическими храмами на скалах, скрытыми пещерными системами и подлинным опытом Исана вдали от проторённых троп.",
-    "zh": "湄公河门户城市，连接泰国与老挝，通过标志性的友谊桥相连，以峭壁顶的庙宇、隐藏的洞穴系统，以及正宗的伊桑风情而著称。"
+    "en": "Nong Khai works best as a Mekong border city with a strong riverfront core first, then one deliberate Sangkhom-side viewpoint day. Tha Sadet, Wat Pho Chai, Sala Kaeo Ku, and the Friendship Bridge explain the city far better than padding the itinerary with weak province filler.",
+    "nl": "Nong Khai werkt het best als Mekong-grensstad met eerst een sterke rivierfrontkern en daarna hooguit een bewuste dag naar de uitzichtpunten van Sangkhom. Tha Sadet, Wat Pho Chai, Sala Kaeo Ku en de Vriendschapsbrug geven de stad veel meer vorm dan zwakke provincie-filler.",
+    "ja": "ノーンカーイは、まずメコン川沿いの市街地を丁寧に歩き、その後にサンクム側の展望地を1本だけ加える形で組み立てると理解しやすい国境の町です。",
+    "ko": "농카이는 메콩 강변 도심을 먼저 보고, 그다음 상콤 쪽 전망지 하루를 더하는 방식이 가장 잘 맞는 국경 도시입니다.",
+    "th": "หนองคายเหมาะกับการเที่ยวแบบเริ่มจากเมืองริมโขงก่อน แล้วค่อยต่อด้วยวิวพอยต์ฝั่งสังคมเพียงหนึ่งวันอย่างมีจังหวะ",
+    "de": "Nong Khai funktioniert am besten als Mekong-Grenzstadt mit starkem Flussuferkern und einem gezielten Aussichtstag in Richtung Sangkhom.",
+    "fr": "Nong Khai se visite mieux comme une ville-frontiere du Mekong, avec un coeur urbain au bord du fleuve puis une seule vraie sortie vers les points de vue de Sangkhom.",
+    "ru": "Нонгкхай лучше воспринимать как приграничный город на Меконге: сначала набережная и городской центр, затем одна осмысленная поездка к смотровым площадкам района Сангкхом.",
+    "zh": "廊开更适合按“先看湄公河城市核心，再加一天 Sangkhom 方向观景点”的逻辑来安排，而不是把全省景点硬塞在一起。"
   },
   "population": 47000,
   "highlights": [
-    "Friendship Bridge",
-    "Den Ping Cave",
-    "Cliff-Top Temples",
-    "White Marble Reclining Buddha",
-    "Mekong Riverside",
-    "Sculpture Park (Sala Kaew Ku)",
-    "Sunken Stupa (Phra That Klang Nam)",
-    "Mekong Waterfront Promenade",
-    "Ok Phansa Festival"
+    "Tha Sadet market and riverfront",
+    "Wat Pho Chai",
+    "Sala Kaeo Ku",
+    "First Thai-Lao Friendship Bridge",
+    "Wat Pha Tak Suea Skywalk",
+    "Phu Huai Isan"
   ],
   "location": {
     "lat": 17.8783,
     "lng": 102.745
   },
-  "image": "/images/cities/bangkok/downtown-bangkok.webp",
+  "image": "/images/cities/generated/nong-khai.webp",
   "seo": {
     "metaTitle": {
-      "en": "Discover Nong Khai | Mekong Gateway City Guide",
-      "nl": "Ontdek Nong Khai | Mekong Poortstad Gids",
-      "ja": "ノーンカーイを満喫 | メコン川の玄関口ガイド",
-      "ko": "농카이 태국 — 메콩강 & 라오스 관문 여행 가이드 2026",
-      "th": "หนองคาย ประเทศไทย — คู่มือท่องเที่ยวฉบับสมบูรณ์ 2026",
-      "de": "Entdecken Sie Nong Khai | Reiseführer für eine Mekong-Gateway-Stadt",
-      "fr": "Découvrez Nong Khai | Guide de la ville porte d’entrée du Mékong",
-      "ru": "Откройте для себя Нонг-Кхаи | Путеводитель по городу‑вороту к Меконгу",
-      "zh": "探索 Nong Khai | 湄公河门户城市指南"
+      "en": "Nong Khai Thailand Guide 2026 | Mekong Riverfront, Food, Hotels",
+      "nl": "Nong Khai Thailand gids 2026 | Mekong-rivierfront, food en hotels",
+      "ja": "ノーンカーイ観光ガイド 2026 | メコン川、食、ホテル",
+      "ko": "농카이 태국 여행 가이드 2026 | 메콩 강변, 음식, 호텔",
+      "th": "เที่ยวนองคาย 2026 | ริมโขง อาหาร ที่พัก วางแผนง่าย",
+      "de": "Nong Khai Thailand Guide 2026 | Mekong-Ufer, Essen, Hotels",
+      "fr": "Guide Nong Khai 2026 | Mekong, restaurants et hotels",
+      "ru": "Путеводитель по Nong Khai 2026 | Набережная Меконга, еда, отели",
+      "zh": "2026 廊开旅行指南 | 湄公河河岸、美食与住宿"
     },
     "metaDescription": {
-      "en": "Your guide to Nong Khai — Mekong gateway city with cliff-top temples, hidden caves, a massive marble Buddha, and the Friendship Bridge to Laos.",
-      "nl": "Jouw gids voor Nong Khai — Mekong-poortstad met kliftempels, verborgen grotten, een enorm marmeren Boeddhabeeld en de Vriendschapsbrug naar Laos.",
-      "ja": "ノーンカーイ旅行ガイド — メコン川沿いの寺院、洞窟、リバーサイドグルメの魅力をご紹介。",
-      "ko": "농카이(태국) 완벽 여행 가이드: 우정의 다리, 절벽 사원, 스컬프처 파크, 메콩강변. 가격, 팁, 가는 법.",
-      "th": "คู่มือท่องเที่ยวหนองคาย ประเทศไทย — สถานที่ท่องเที่ยว อาหาร ที่พัก และเคล็ดลับ อัปเดต 2026",
-      "de": "Ihr Reiseführer für Nong Khai — Mekong-Gateway-Stadt mit Tempeln auf Klippen, versteckten Höhlen, einem riesigen Marmorbuddha und der Freundschaftsbrücke nach Laos.",
-      "fr": "Votre guide pour Nong Khai — ville porte d’entrée du Mékong, avec ses temples perchés sur des falaises, ses grottes cachées, un gigantesque Bouddha en marbre et le pont de l’Amitié vers le Laos.",
-      "ru": "Ваш гид по Нонг-Кхаю — городу‑вороту к Меконгу с храмами на уступах, скрытыми пещерами, гигантским мраморным Буддой и мостом дружбы в Лаос.",
-      "zh": "为你提供 Nong Khai 的指南 — 湄公河门户城市，拥有悬崖顶庙宇、隐藏洞穴、巨大的大理石佛像，以及通往老挝的友谊桥。"
+      "en": "Plan Nong Khai around Tha Sadet, Wat Pho Chai, Sala Kaeo Ku, the Friendship Bridge, and one deliberate Sangkhom-side viewpoint day.",
+      "nl": "Plan Nong Khai rond Tha Sadet, Wat Pho Chai, Sala Kaeo Ku, de Vriendschapsbrug en hooguit een bewuste dag naar de uitzichtpunten van Sangkhom.",
+      "ja": "ノーンカーイは、タ・サデット、ワット・ポーチャイ、サーラー・ケーオ・クー、友好橋、そしてサンクム側の展望地を1日だけ加える流れで組み立てると分かりやすい町です。",
+      "ko": "농카이는 타 사뎃, 왓 포차이, 살라 깨오꾸, 우정의 다리, 그리고 상콤 쪽 전망지 하루 일정으로 짜면 가장 이해하기 쉬운 도시입니다.",
+      "th": "วางแผนหนองคายให้ชัดด้วยท่าเสด็จ วัดโพธิ์ชัย ศาลาแก้วกู่ สะพานมิตรภาพ และทริปวิวพอยต์ฝั่งสังคมเพียงหนึ่งวัน",
+      "de": "Plane Nong Khai rund um Tha Sadet, Wat Pho Chai, Sala Kaeo Ku, die Freundschaftsbrucke und einen gezielten Aussichtstag in Richtung Sangkhom.",
+      "fr": "Organisez Nong Khai autour de Tha Sadet, de Wat Pho Chai, de Sala Kaeo Ku, du pont de l'Amitie et d'une seule vraie journee vers Sangkhom.",
+      "ru": "Планируйте Nong Khai вокруг Tha Sadet, Wat Pho Chai, Sala Kaeo Ku, Моста дружбы и одной продуманной поездки к смотровым площадкам района Сангкхом.",
+      "zh": "把廊开的行程围绕 Tha Sadet、Wat Pho Chai、Sala Kaeo Ku、友谊桥和一次前往 Sangkhom 方向观景点的外出安排起来。"
     }
   },
   "categories": {
     "food": {
-      "en": "Best restaurants and street food in Nong Khai",
-      "nl": "Beste restaurants en streetfood in Nong Khai",
-      "ja": "ノーンカーイのおすすめレストラン＆ストリートフード",
-      "ko": "농카이 추천 레스토랑과 길거리 음식",
-      "th": "ร้านอาหารและสตรีทฟู้ดที่ดีที่สุดในหนองคาย"
+      "en": "Best restaurants and Mekong-side food in Nong Khai",
+      "nl": "Beste restaurants en Mekong-side food in Nong Khai",
+      "ja": "ノーンカーイのおすすめレストランとメコン川沿いの食",
+      "ko": "농카이 추천 레스토랑과 메콩 강변 음식",
+      "th": "ร้านอาหารและอาหารริมโขงที่ดีที่สุดในหนองคาย"
     },
     "hotels": {
-      "en": "Top hotels and guesthouses in Nong Khai",
-      "nl": "Beste hotels en guesthouses in Nong Khai",
-      "ja": "ノーンカーイのおすすめホテル＆ゲストハウス",
-      "ko": "농카이 추천 호텔과 게스트하우스",
+      "en": "Top hotels in Nong Khai | Tips and deals",
+      "nl": "Beste hotels in Nong Khai | Tips en deals",
+      "ja": "ノーンカーイのおすすめホテルと滞在の考え方",
+      "ko": "농카이 추천 호텔 | 실전 팁",
       "th": "โรงแรมแนะนำในหนองคาย | เคล็ดลับและดีล"
     },
     "attractions": {
       "en": "Top attractions in Nong Khai",
       "nl": "Top bezienswaardigheden in Nong Khai",
-      "ja": "ノーンカーイの人気観光スポット",
-      "ko": "농카이 인기 관광 명소",
+      "ja": "ノーンカーイの主要観光スポット",
+      "ko": "농카이 핵심 명소",
       "th": "สถานที่ท่องเที่ยวยอดนิยมในหนองคาย"
     }
   },
@@ -95,686 +92,573 @@
     "mekong",
     "friendship-bridge",
     "laos-border",
-    "thailand",
-    "travel",
-    "tourism",
-    "guide"
+    "sala-kaeo-ku",
+    "tha-sadet",
+    "thailand"
   ],
-  "overview": "Nong Khai is a captivating Mekong River city in Isaan that serves as Thailand's primary gateway to Laos via the famous Thai-Lao Friendship Bridge. Situated in Nong Khai Province along Route 212 — the scenic highway that traces the Mekong through northeastern Thailand — this area offers an extraordinary blend of natural wonders and cultural treasures that remain almost entirely undiscovered by international tourists. The province is home to dramatic cliff-top temples perched high above the Mekong with panoramic views stretching into Laos, mysterious cave systems explored by torchlight with local guides, and a stunning 20-meter reclining Buddha carved from Italian white marble. For motorcycle travelers following the Mekong route, Nong Khai represents the perfect continuation of the journey from Chiang Khan, with Route 212 delivering one jaw-dropping riverside vista after another.",
-  "enhanced_description": "Nong Khai province is where the Mekong adventure gets truly wild. If you thought Chiang Khan was off the beaten path, the stretch of Route 212 leading into Nong Khai takes remoteness to another level — you can ride for hours without seeing another tourist. This is deep Isaan, where English is rarely spoken and Google Translate becomes your most essential travel tool. But what you find here is extraordinary. Temples cling to cliff edges high above the Mekong, offering views so dramatic they feel almost impossible. Hidden caves wind deep into hillsides, accessible only with local guides who light the way through narrow passages. A 20-meter reclining Buddha made entirely of Italian white marble gleams in the sun at a temple that charges nothing for entry. The landscape is a stunning mix of river valleys, limestone karsts, and dense tropical forest. Nong Khai city itself sits right on the Mekong, with the Friendship Bridge stretching across the river to Vientiane, Laos. The riverside promenades offer peaceful sunset walks, and the local food scene serves up authentic Isaan cuisine at prices that seem impossibly low. This is Thailand at its most genuine — no tourist infrastructure, no English menus, just incredible experiences waiting to be discovered by those willing to venture off the main routes.",
-  "thingsToDo": "Nong Khai province offers diverse activities for exploration. Key attractions include Wat Pho Chai (free entry) in the city center, the Thai-Lao Friendship Bridge offering pedestrian access for 20 THB to cross, and the scenic Nong Khai Riverside Promenade (free). Natural attractions include cliff-top temples like Wat Khaow Taberd (free entry), Den Ping Cave requiring 100 THB donation for guided torchlight exploration through limestone passages, and the White Marble Reclining Buddha at Wat Pha That Nong Khai (free entry). Sadet Market offers authentic cultural experiences at no cost. Motorbike rental costs 150-250 THB/day (USD $5-8) and is essential for exploring attractions spread along Route 212. Most activities are free or under 100 THB.",
-  "whereToStay": "Accommodation in Nong Khai is remarkably affordable and concentrated along the Mekong riverfront. Riverside hotels start from around 700 THB/night ($20) and offer views directly over the Mekong to Laos — at prices that would barely get you a dorm bed in Bangkok. The riverside area of Nong Khai city is the best base, putting you within walking distance of restaurants, the promenade, and transport connections. For those exploring the province's more remote temples and caves, staying in Nong Khai city and making day trips by motorbike is the most practical approach, as accommodation options outside the city are very limited. Don't expect luxury resort-style amenities — this is provincial Isaan — but rooms are clean, comfortable, and incredible value. Book ahead during Thai holidays when domestic tourists visit, but on regular days you'll have no trouble finding rooms.",
-  "whereToEat": [
+  "enhanced_description": "Nong Khai gets weaker when it is sold as an everything-at-once Laos border checklist full of brittle price claims, cave myths, and random district filler. The stronger version starts with the city itself: Tha Sadet and the Mekong-side walking layer, Wat Pho Chai as the city's main sacred stop, Sala Kaeo Ku as the most distinctive cultural add-on, and the First Thai-Lao Friendship Bridge as the piece that explains why Nong Khai still matters as a border city.\n\nOnly after that does it make sense to add one deliberate Sangkhom-side morning. Wat Pha Tak Suea Skywalk and Phu Huai Isan are the cleanest high-value extensions because both turn the river landscape into something travelers can actually read. Nong Khai rewards selectivity, river time, and a slower food plan built around Vietnamese and Mekong-linked meals rather than generic rankings.",
+  "overview": "Nong Khai's best first impression is still the riverfront city core. Tha Sadet Market, the Mekong promenade, and the road that turns into the Saturday walking-street sequence give the town its everyday rhythm far better than a list of scattered province stops. This is also the practical center for food, river views, and easy movement between the city's main landmarks.\n\nWat Pho Chai adds the strongest sacred layer in town. The provincial e-book still treats the temple as the home of Phra Sai, Nong Khai's adopted provincial symbol, and that matters editorially because it keeps the city anchored in a real local religious center rather than in only border logistics. Sala Kaeo Ku then adds a very different but equally recognizable dimension: the sculpture park is still one of the clearest reasons Nong Khai feels unlike other Mekong cities.\n\nThat leaves the wider province. Sangkhom-side stops such as Wat Pha Tak Suea Skywalk or Phu Huai Isan absolutely deserve attention, but they work better as one focused half-day or early-morning extension than as part of an overloaded route. Nong Khai is stronger when the city core gets real time before the long river-road viewpoints do.",
+  "hidden_gems": [
     {
-      "name": {
-        "en": "Pimali Restaurant",
-        "nl": "Pimali Restaurant"
-      },
-      "cuisine": {
-        "en": "International, Thai",
-        "nl": "Internationaal, Thais"
-      },
-      "priceRange": "$$",
-      "description": {
-        "en": "Highly-rated restaurant serving international and Thai cuisine with 4.9 TripAdvisor rating. Quality dishes and reliable service (150-350 THB per dish).",
-        "nl": "Zeer goed beoordeeld restaurant met internationale en Thaise keuken, 4,9 TripAdvisor-rating. Kwaliteitsgerechten en betrouwbare service (150-350 THB per gerecht).",
-        "ja": "Tripadvisor評価4.9の高評価レストランで、インターナショナル料理とタイ料理を提供しています。メコン川の景色を楽しみながら食事ができます。"
-      }
+      "name": "Phrathat La Nong and Tha Ruea Market",
+      "why_special": "The riverside relic and old market layer add historical depth without dragging the itinerary far from the city core.",
+      "local_tip": "Fold it into a slower Mekong walk after Tha Sadet rather than treating it as a separate day.",
+      "best_time": "Late afternoon",
+      "href": "/city/nong-khai/attractions/tha-sadet-market-and-riverfront/",
+      "cta_label": "See the riverfront guide"
     },
     {
-      "name": {
-        "en": "Macky's Riverside Kitchen",
-        "nl": "Macky's Riverside Kitchen"
-      },
-      "cuisine": {
-        "en": "European, Asian",
-        "nl": "Europees, Aziatisch"
-      },
-      "priceRange": "$$",
-      "description": {
-        "en": "Riverside fusion restaurant with 4.4 TripAdvisor rating combining European and Asian cooking. Mekong views and quality meal experience (180-400 THB per dish).",
-        "nl": "Riverfront fusionrestaurant met 4,4 TripAdvisor-rating met Europese en Aziatische keuken. Mekong-uitzicht en kwaliteitsetersvararing (180-400 THB per gerecht).",
-        "ja": "Tripadvisor評価4.4のリバーサイドフュージョンレストランで、ヨーロピアンとアジア料理を組み合わせた創作料理が楽しめます。"
-      }
-    },
-    {
-      "name": {
-        "en": "The For Rest Cafe",
-        "nl": "The For Rest Cafe"
-      },
-      "cuisine": {
-        "en": "Cafe, Dining Bars",
-        "nl": "Cafe, Eetbars"
-      },
-      "priceRange": "$",
-      "description": {
-        "en": "Highly-rated cafe with 5 TripAdvisor rating offering quality beverages and light dining. Perfect for casual breaks and coffee (100-250 THB).",
-        "nl": "Zeer goed beoordeelde cafe met 5 TripAdvisor-rating met kwaliteitsdranken en lichte maaltijden. Perfect voor informele pauzes en koffie (100-250 THB).",
-        "ja": "Tripadvisor評価5の高評価カフェで、質の高いドリンクと軽食を落ち着いた雰囲気で楽しめます。"
-      }
-    },
-    {
-      "name": {
-        "en": "Daeng Namnueng",
-        "nl": "Daeng Namnueng"
-      },
-      "cuisine": {
-        "en": "Vietnamese, Asian",
-        "nl": "Vietnamese, Aziatisch"
-      },
-      "priceRange": "$$",
-      "description": {
-        "en": "Authentic Vietnamese and Asian restaurant with 4 TripAdvisor rating featuring traditional regional recipes and local favorites (120-300 THB per dish).",
-        "nl": "Authentiek Vietnamees en Aziatisch restaurant met 4 TripAdvisor-rating met traditionele regionale recepten en lokale favorieten (120-300 THB per gerecht).",
-        "ja": "Tripadvisor評価4のベトナム・アジア料理レストランで、伝統的なベトナム料理が味わえます。ナムヌアン（ベトナム風春巻き）が名物です。"
-      }
-    },
-    {
-      "name": {
-        "en": "Huen Hat Kham Cafe",
-        "nl": "Huen Hat Kham Cafe"
-      },
-      "cuisine": {
-        "en": "Italian, Thai",
-        "nl": "Italiaans, Thais"
-      },
-      "priceRange": "$",
-      "description": {
-        "en": "Casual cafe with 3.8 TripAdvisor rating blending Italian and Thai cuisine in relaxed riverside setting (100-280 THB per dish).",
-        "nl": "Informale cafe met 3,8 TripAdvisor-rating met Italiaanse en Thaise keuken in ontspannen riverfront setting (100-280 THB per gerecht).",
-        "ja": "Tripadvisor評価3.8のカジュアルカフェで、イタリアンとタイ料理をリラックスした雰囲気の中で楽しめます。"
-      }
+      "name": "Wat Hin Mak Peng",
+      "why_special": "It gives the Sangkhom-side route a calmer contemplative stop beyond the headline skywalk viewpoints.",
+      "local_tip": "Use it only if you want a quieter temple-and-river day, not if your time is short.",
+      "best_time": "Morning",
+      "href": "/city/nong-khai/top-10-attractions/",
+      "cta_label": "See the attractions guide"
     }
   ],
-  "topHotels": [
+  "authentic_experiences": [
     {
-      "name": {
-        "en": "LePont Riverfront Resort Nongkhai",
-        "nl": "LePont Riverfront Resort Nongkhai"
-      },
-      "category": "midrange",
-      "priceRange": "$62/night (1,930-2,170 THB)",
-      "area": {
-        "en": "Nong Khai Riverfront",
-        "nl": "Nong Khai Rivieroever"
-      },
-      "description": {
-        "en": "Premium riverside resort with 5-star TripAdvisor rating, direct Mekong views, and excellent value. Modern rooms with river-facing balconies and quality amenities.",
-        "nl": "Premium riverfront resort met 5-sterren TripAdvisor-rating, direct Mekong-zicht en uitstekende waarde. Moderne kamers met rivierbalkonnen en kwaliteitsvoorzieningen.",
-        "ja": "Tripadvisor5つ星のプレミアムリバーサイドリゾートで、メコン川の直接の眺望と上質なサービスが魅力です。"
-      }
+      "activity": "Walk the Mekong city core before you drive anywhere else",
+      "story": "Tha Sadet, the riverfront promenade, and the Saturday walking-street layer explain Nong Khai as a lived-in Mekong town rather than as a border checkpoint.",
+      "cultural_significance": "Official Nong Khai guidebook material still uses Tha Sadet and the riverfront market layer as one of the city's clearest identity anchors.",
+      "how_to_participate": "Start on the Mekong side in the late afternoon, then let the market, food, and river views set the pace instead of turning the city into a transit stop.",
+      "insights": [
+        "The city makes more sense once the riverfront gets real time.",
+        "Saturday is the best fit if you specifically want the walking-street version."
+      ],
+      "href": "/city/nong-khai/attractions/tha-sadet-market-and-riverfront/",
+      "cta_label": "See the riverfront guide"
     },
     {
-      "name": {
-        "en": "The Garden Resort Nong Khai",
-        "nl": "The Garden Resort Nong Khai"
-      },
-      "category": "midrange",
-      "priceRange": "$50-70/night (1,800-2,400 THB)",
-      "area": {
-        "en": "Nong Khai Riverfront",
-        "nl": "Nong Khai Rivieroever"
-      },
-      "description": {
-        "en": "Top-rated resort with 5-star TripAdvisor rating, garden setting, and riverside location. Modern amenities with garden atmosphere and quality service.",
-        "nl": "Topgewaardeerd resort met 5-sterren TripAdvisor-rating, tuinomgeving en rivierlokatie. Moderne voorzieningen met tuinatmosfeer en kwaliteitsservice.",
-        "ja": "Tripadvisor5つ星の高評価リゾートで、庭園に囲まれたリバーサイドのロケーションが特徴です。"
-      }
+      "activity": "Use Wat Pho Chai as the city's sacred center",
+      "story": "Wat Pho Chai matters because it houses Phra Sai, which the provincial e-book still frames as Nong Khai's symbolic Buddha image.",
+      "cultural_significance": "That keeps the temple central to the city's religious identity instead of letting Nong Khai drift into pure border-town branding.",
+      "how_to_participate": "Visit it as a proper temple stop near the city core, not only as a quick photo break on the way to the market.",
+      "insights": [
+        "This is the strongest in-town sacred stop.",
+        "It works naturally with Tha Sadet and the Mekong side."
+      ],
+      "href": "/city/nong-khai/attractions/wat-pho-chai/",
+      "cta_label": "See the Wat Pho Chai guide"
     },
     {
-      "name": {
-        "en": "Park & Pool Resort",
-        "nl": "Park & Pool Resort"
-      },
-      "category": "midrange",
-      "priceRange": "$45-60/night (1,400-1,900 THB)",
-      "area": {
-        "en": "Nong Khai Area",
-        "nl": "Nong Khai Gebied"
-      },
-      "description": {
-        "en": "Well-rated riverside resort with 4.4 TripAdvisor rating, swimming pool, and garden setting. Good value for comfortable accommodation with recreational facilities.",
-        "nl": "Goed beoordeeld riverfront resort met 4,4 TripAdvisor-rating, zwembad en tuinomgeving. Goede waarde voor comfortabele accommodatie met recreatieve faciliteiten.",
-        "ja": "Tripadvisor評価4.4のリバーサイドリゾートで、プール付きの庭園と快適な滞在環境を提供しています。"
-      }
+      "activity": "Treat Sala Kaeo Ku as a real cultural stop, not just a quirky photo park",
+      "story": "The sculpture park is still one of the clearest ways to understand Nong Khai's overlap of Buddhist, Brahmanical, and local symbolic worlds.",
+      "cultural_significance": "The provincial e-book highlights Luang Pu Bunleua's intent to reflect multiple belief systems through the park's 208 statues.",
+      "how_to_participate": "Give it enough time to walk the grounds slowly and read the site as an idea-driven place rather than a novelty stop.",
+      "insights": [
+        "It is one of the city's few genuinely singular attractions.",
+        "This is better done by day than rushed toward sunset."
+      ],
+      "href": "/city/nong-khai/attractions/sala-kaeo-ku/",
+      "cta_label": "See the Sala Kaeo Ku guide"
     },
     {
-      "name": {
-        "en": "Vana Wellness Resort",
-        "nl": "Vana Wellness Resort"
-      },
-      "category": "midrange",
-      "priceRange": "$48-64/night (1,500-2,000 THB)",
-      "area": {
-        "en": "Nong Khai Riverfront",
-        "nl": "Nong Khai Rivieroever"
-      },
-      "description": {
-        "en": "Wellness-focused resort with 4 TripAdvisor rating offering spa services and relaxation amenities in riverside setting.",
-        "nl": "Wellness gericht resort met 4 TripAdvisor-rating met spa-diensten en ontspanningsvoorzieningen in riviersetting.",
-        "ja": "Tripadvisor評価4のウェルネスリゾートで、スパサービスとリラクゼーションに特化した施設です。"
-      }
-    },
-    {
-      "name": {
-        "en": "Panlaan Boutique Resort",
-        "nl": "Panlaan Boutique Resort"
-      },
-      "category": "budget",
-      "priceRange": "$38-57/night (1,200-1,800 THB)",
-      "area": {
-        "en": "Nong Khai Area",
-        "nl": "Nong Khai Gebied"
-      },
-      "description": {
-        "en": "Boutique-style resort with 3.7 TripAdvisor rating offering personalized service and intimate riverside accommodation at budget-friendly rates.",
-        "nl": "Boutique-stijl resort met 3,7 TripAdvisor-rating met persoonlijke service en intieme riverfront accommodatie tegen budgetvriendelijke tarieven.",
-        "ja": "Tripadvisor評価3.7のブティックリゾートで、個人的なサービスと落ち着いた雰囲気が魅力です。"
-      }
+      "activity": "Add one Sangkhom-side viewpoint morning",
+      "story": "Wat Pha Tak Suea Skywalk and Phu Huai Isan are the strongest river-landscape extensions when you want the province to open up beyond the city.",
+      "cultural_significance": "Both official Nong Khai guidebooks still frame the Sangkhom side through high Mekong viewpoints and cool-season mist mornings.",
+      "how_to_participate": "Pick one sunrise or early-day plan and treat it as the day's main event rather than bolting multiple river-road stops together.",
+      "insights": [
+        "Pha Tak Suea is the easier headline stop.",
+        "Phu Huai Isan is stronger if you specifically want dawn and the wider island-dotted Mekong view."
+      ],
+      "href": "/city/nong-khai/attractions/wat-pha-tak-suea-skywalk/",
+      "cta_label": "See the skywalk guide"
     }
   ],
-  "gettingAround": "Motorbike rental (150-250 THB/day; USD $5-8) is essential for exploring Nong Khai province, with attractions spread along Route 212. Nong Khai city is walkable along the riverfront. Songthaew shared transport operates within the city for 10-20 THB. From Udon Thani International Airport (55km south), buses cost 80-120 THB (USD $2.50-4) and minivans 100-150 THB (USD $3-5) for the 1-hour journey. Overnight trains from Bangkok to Nong Khai station are available. Route 212 connects Nong Khai to other Mekong River towns including Chiang Khan.",
-  "bestTimeToVisit": "The cool season from November to February is the ideal time to visit Nong Khai, with comfortable temperatures (15-28°C) and clear skies perfect for motorbike riding and temple exploration. The dry weather makes cave visits more pleasant and cliff-top temple viewpoints offer the clearest visibility across the Mekong into Laos. The rainy season (June-October) brings lush green landscapes and the Mekong at its most dramatic and powerful, but afternoon downpours can disrupt motorcycle touring and make cave exploration less advisable. The hot season (March-May) is intensely hot in Isaan, with temperatures regularly exceeding 35°C — not ideal for outdoor temple exploration. Visit on weekdays for the most peaceful experience, as Thai holidays bring domestic tourists to the riverside areas.",
-  "budgetGuide": {
-    "budget": {
-      "min": 12,
-      "max": 25,
-      "description": {
-        "en": "Budget travelers can explore Nong Khai on $12-25/day (400-850 THB). Stay in simple guesthouses ($8-15/night; 280-525 THB), eat at night markets and roadside stalls ($1-2 per meal; 30-80 THB), and rent a motorbike ($5-7/day; 150-250 THB). Den Ping Cave costs 100 THB ($3) donation. Most temples and viewpoints are free.",
-        "nl": "Budgetreizigers kunnen Nong Khai verkennen voor $12-25/dag (400-850 THB). Verblijf in eenvoudige guesthouses ($8-15/nacht; 280-525 THB), eet op nachtmarkten en langs de weg ($1-2 per maaltijd; 30-80 THB) en huur een motor ($5-7/dag; 150-250 THB). Den Ping Cave kost 100 THB ($3) donatie. De meeste tempels en uitkijkpunten zijn gratis.",
-        "ja": "節約旅行者は1日1,200〜2,500円（400〜850バーツ）でノーンカーイを楽しめます。シンプルなゲストハウスに泊まり、屋台やナイトマーケットで食事をすれば十分です。"
-      }
-    },
-    "midrange": {
-      "min": 25,
-      "max": 50,
-      "description": {
-        "en": "Mid-range travelers spend $25-50/day (850-1,700 THB). Stay at riverfront hotels ($20-30/night; 700-1,050 THB), enjoy sit-down restaurant meals ($3-7; 100-250 THB), explore all major attractions, rent a motorbike ($5-7/day; 150-250 THB), and budget for occasional drinks with sunset views over Laos.",
-        "nl": "Middensegment reizigers besteden $25-50/dag (850-1,700 THB). Verblijf in riverfront hotels ($20-30/nacht; 700-1,050 THB), geniet van restaurantmaaltijden ($3-7; 100-250 THB), verken alle belangrijke bezienswaardigheden, huur een motor ($5-7/dag; 150-250 THB) en reserveer voor af en toe drankjes met zonsondergang over Laos.",
-        "ja": "中級旅行者は1日2,500〜5,000円（850〜1,700バーツ）が目安です。リバーフロントのホテルに泊まり、レストランでの食事やバイクレンタルで快適に観光できます。"
-      }
-    },
-    "luxury": {
-      "min": 50,
-      "max": 100,
-      "description": {
-        "en": "Luxury in Nong Khai is modest — this is rural Isaan, not a resort destination. Best hotels cost $50-70/night (1,800-2,400 THB), fine meals rarely exceed $10 (300-350 THB). Budget $50-100/day (1,700-3,400 THB) for quality rooms, all restaurant meals, local transport, and day trips without cost concerns.",
-        "nl": "Luxe in Nong Khai is bescheiden — dit is landelijk Isaan, geen resortbestemming. Beste hotels kosten $50-70/nacht (1,800-2,400 THB), fijne maaltijden zelden meer dan $10 (300-350 THB). Reken op $50-100/dag (1,700-3,400 THB) voor kwaliteitskamers, alle restaurantmaaltijden, lokaal vervoer en dagtochten zonder kostenbeswaren.",
-        "ja": "ノーンカーイの贅沢は控えめです。ここはリゾート地ではなくイサーンの田舎町ですが、リバーサイドの上質なリゾートでも1泊2,000〜4,000バーツとお手頃です。"
-      }
-    }
-  },
-  "safetyTips": "Nong Khai is extremely safe — this is a quiet, rural province where crime against tourists is essentially nonexistent. The biggest safety considerations relate to the activities themselves. At Den Ping Cave, follow your guide's instructions carefully — the cave involves crawling through narrow passages and the floor can be slippery. Wear sturdy shoes and bring a headlamp as backup. The cliff-top temples involve steep stairs and exposed viewpoints without safety railings — take care near edges, especially after rain when rocks become slippery. If riding a motorbike along Route 212, the road is generally excellent but watch for dogs, slow-moving farm vehicles, and occasional gravel patches on shoulders. Communication is a genuine consideration here — very few locals speak English, so download Google Translate's Thai language pack for offline use before visiting. The Mekong River has strong currents year-round — never swim in it. Stay hydrated and use sun protection, especially during the hot season when Isaan temperatures are punishing.",
-  "faq": [
+  "foodie_adventures": [
     {
-      "question": {
-        "en": "How do I get to Nong Khai?",
-        "nl": "Hoe kom ik in Nong Khai?",
-        "ja": "ノーンカーイへの行き方は？"
-      },
-      "answer": {
-        "en": "Udon Thani International Airport is 55km south with frequent Bangkok flights (AirAsia, Nok Air, Thai Lion Air). From Udon Thani, buses (80-120 THB; USD $2.50-4) and minivans (100-150 THB; USD $3-5) reach Nong Khai in 1 hour. Overnight trains from Bangkok to Nong Khai station are available. Route 212 connects Nong Khai to other Mekong River towns.",
-        "nl": "Udon Thani International Airport ligt 55 km naar het zuiden met regelmatige Bangkok-vluchten (AirAsia, Nok Air, Thai Lion Air). Vanaf Udon Thani bereiken bussen (80-120 THB; USD $2.50-4) en minivans (100-150 THB; USD $3-5) Nong Khai in 1 uur. Nachttreinen van Bangkok naar station Nong Khai zijn beschikbaar. Route 212 verbindt Nong Khai met andere Mekong-rivierplaatsen.",
-        "ja": "ウドーンターニー国際空港が55km南にあり、バンコクからのフライト（エアアジア、ノックエアー）が頻繁に運航しています。空港からバスまたはミニバンで約1時間です。"
-      }
+      "dish": "Naem nueng and fresh Vietnamese wraps",
+      "location": "Daeng Naem Nueng Nong Khai",
+      "story": "The current Weaving Mekong guidebook still uses Daeng Naem Nueng as one of Nong Khai's signature food names, which is useful because it keeps the Vietnamese layer visible instead of decorative.",
+      "where_to_find": "Best as a proper lunch or early dinner stop in the city core.",
+      "price_range": "Budget to mid-range",
+      "ordering_tips": [
+        "This is the clearest first meal if you want Nong Khai's Vietnamese line to show up immediately.",
+        "Pair it with Wat Pho Chai or Tha Sadet, not with a far-out province loop."
+      ],
+      "href": "/city/nong-khai/top-10-restaurants/",
+      "cta_label": "See the food guide"
     },
     {
-      "question": {
-        "en": "What is Den Ping Cave?",
-        "nl": "Wat is Den Ping Cave?",
-        "ja": "デン・ピン洞窟とは？"
-      },
-      "answer": {
-        "en": "Den Ping Cave is a limestone cave system where local guides lead torchlight exploration through narrow passages to discover Buddhist shrines and stalactites. Entry requires 100 THB (USD $3) donation. Wear sturdy shoes and bring backup light — it's a genuine adventure, not a polished tourist experience.",
-        "nl": "Den Ping Cave is een kalksteengrotsysteem waar lokale gidsen torcheslichtverkenning door smalle passages leiden om boeddhistische schrijnen en stalactieten te ontdekken. Toegang vereist 100 THB (USD $3) donatie. Draag stevige schoenen en breng reservelicht mee — het is een echt avontuur, geen gepolijste toeristenervaring.",
-        "ja": "デン・ピン洞窟は石灰岩の洞窟群で、地元のガイドがたいまつを持って案内してくれます。洞窟内には仏像や鍾乳石があり、冒険心をくすぐるスポットです。"
-      }
+      "dish": "Mekong fish hotpot",
+      "location": "Khong View Pla Chum",
+      "story": "The official food guidebook still flags pla jum as one of Nong Khai's river-linked dishes, which helps the food section stay tied to place.",
+      "where_to_find": "Better for an evening meal after riverfront time than for a rushed daytime stop.",
+      "price_range": "Budget to mid-range",
+      "ordering_tips": [
+        "Use this on a slower Mekong evening.",
+        "It gives the page a stronger local-dinner angle than another generic cafe."
+      ],
+      "href": "/city/nong-khai/top-10-restaurants/",
+      "cta_label": "See the food guide"
     },
     {
-      "question": {
-        "en": "What is the White Marble Reclining Buddha?",
-        "nl": "Wat is de Witte Marmeren Liggende Boeddha?",
-        "ja": "白大理石の涅槃仏とは？"
-      },
-      "answer": {
-        "en": "A 20-meter reclining Buddha carved entirely from Italian white marble at Wat Pha That Nong Khai temple. The craftsmanship is remarkable with white marble gleaming beautifully in sunlight. Entry is completely free. It's one of Isaan's most impressive Buddha statues, receiving minimal tourist traffic.",
-        "nl": "Een 20 meter lange liggende Boeddha geheel uit Italiaans wit marmer gehouwen bij Wat Pha That Nong Khai tempel. Het vakmanschap is opmerkelijk met wit marmer dat prachtig glanst in zonlicht. Toegang is volledig gratis. Het is een van Isaans meest indrukwekkende Boeddhabeelden, met minimaal toeristenverkeer.",
-        "ja": "ワット・パーブアの白大理石の涅槃仏は全長20メートルで、イタリア産の白大理石で彫られた珍しい仏像です。ノーンカーイの隠れた名所の一つです。"
-      }
+      "dish": "Giant Mekong catfish soup and herb-led local plates",
+      "location": "Huen Hat Kham Restaurant",
+      "story": "Huen Hat Kham helps keep the Mekong-side food story visible beyond one single famous Vietnamese name.",
+      "where_to_find": "Useful as a city meal before or after the Hat Kham side of town.",
+      "price_range": "Budget to mid-range",
+      "ordering_tips": [
+        "Best when you want more river-linked flavor than cafe-style eating.",
+        "A good second meal on a two-night stay."
+      ],
+      "href": "/city/nong-khai/top-10-restaurants/",
+      "cta_label": "See the food guide"
     },
     {
-      "question": {
-        "en": "When is the best time to visit Nong Khai?",
-        "nl": "Wat is het beste moment om Nong Khai te bezoeken?",
-        "ja": "ノーンカーイのベストシーズンは？"
-      },
-      "answer": {
-        "en": "November to February is ideal with comfortable temperatures (15-28°C) and clear skies perfect for motorbike riding and temple exploration. The dry season makes cave visits pleasant and offers clearest visibility across the Mekong into Laos. Avoid the hot season (March-May) when temperatures exceed 35°C, and the rainy season (June-October) when afternoon downpours disrupt touring.",
-        "nl": "November tot februari is ideaal met aangename temperaturen (15-28°C) en helder weer perfect voor motorrijden en tempelverkenning. Het droge seizoen maakt grottabezoeken aangenaam en biedt het duidelijkste zicht over de Mekong naar Laos. Vermijd het hete seizoen (maart-mei) wanneer temperaturen boven 35°C gaan, en het regenseizoen (juni-oktober) wanneer middagbuien het toeren verstoren.",
-        "ja": "11月〜2月がベストで、快適な気温（15〜28℃）と晴天が続き、メコン川沿いの観光やサイクリングに最適です。"
-      }
+      "dish": "Vietnamese cafe-style small plates",
+      "location": "Vietnam Cafe Nong Khai",
+      "story": "Vietnam Cafe is one of the clearest breakfast-to-lunch names in the official current guidebook, which makes it useful for a lighter city-core food plan.",
+      "where_to_find": "Use it earlier in the day alongside market and temple time.",
+      "price_range": "Budget",
+      "ordering_tips": [
+        "A stronger choice than generic coffee-shop filler.",
+        "Works especially well on the first morning."
+      ],
+      "href": "/city/nong-khai/top-10-restaurants/",
+      "cta_label": "See the food guide"
     }
   ],
-  "practicalInfo": {
-    "bestMonths": [
-      "Nov",
-      "Dec",
-      "Jan",
-      "Feb"
-    ],
-    "nearestAirport": {
-      "en": "Udon Thani International Airport (55km south) with frequent Bangkok flights on AirAsia, Nok Air, and Thai Lion Air",
-      "nl": "Udon Thani International Airport (55 km naar het zuiden) met regelmatige Bangkok-vluchten op AirAsia, Nok Air en Thai Lion Air",
-      "ja": "ウドーンターニー国際空港（南へ55km）。エアアジア、ノックエアーのバンコク便が頻繁に運航。"
-    },
-    "travelTimeFromAirport": {
-      "en": "1 hour by bus (80-120 THB; USD $2.50-4) or minivan (100-150 THB; USD $3-5) from Udon Thani Airport to Nong Khai",
-      "nl": "1 uur met bus (80-120 THB; USD $2.50-4) of minivan (100-150 THB; USD $3-5) van Udon Thani Airport naar Nong Khai",
-      "ja": "空港からバス（80〜120バーツ、約250〜400円）またはミニバン（100〜150バーツ、約300〜500円）で約1時間。"
-    },
-    "localTransport": [
-      {
-        "en": "Motorbike rental (150-250 THB/day; USD $5-8, essential for province exploration)",
-        "nl": "Motorhuur (150-250 THB/dag; USD $5-8, essentieel voor provinciale verkenning)",
-        "ja": "バイクレンタル（1日150〜250バーツ、約500〜800円。郊外の観光に必須）"
-      },
-      {
-        "en": "Walking (Nong Khai riverfront is walkable)",
-        "nl": "Wandelen (Nong Khai rivieroever is goed te voet te verkennen)",
-        "ja": "徒歩（ノーンカーイのリバーフロントは歩いて回れます）"
-      },
-      {
-        "en": "Songthaew (10-20 THB within city)",
-        "nl": "Songthaew (10-20 THB binnen de stad)",
-        "ja": "ソンテウ（市内10〜20バーツ）"
-      },
-      {
-        "en": "Bus/minivan from Udon Thani (80-150 THB; USD $2.50-5)",
-        "nl": "Bus/minivan vanaf Udon Thani (80-150 THB; USD $2.50-5)",
-        "ja": "ウドーンターニーからのバス／ミニバン（80〜150バーツ、約250〜500円）"
-      }
-    ]
-  },
-  "contentSources": [
-    {
-      "type": "video",
-      "title": "Mekong Adventure Episode 2: Chiang Khan to Nong Khai",
-      "creator": "Paddy Doyle - Live Love Thailand",
-      "url": "https://www.youtube.com/watch?v=7QAy5WMejrA",
-      "description": "Motorcycle journey along the Mekong from Chiang Khan to Nong Khai, exploring caves, cliff temples, and riverside villages."
-    },
-    {
-      "type": "video",
-      "title": "Mekong Adventure Episode 3: Nong Khai to Bueng Kan",
-      "creator": "Paddy Doyle - Live Love Thailand",
-      "url": "https://www.youtube.com/watch?v=lBMMNQ816Ro",
-      "description": "Exploring Nong Khai's sculpture park, sunken stupa, and festivals before riding through rice paddies to Bueng Kan's Three Whale Rock."
-    }
+  "local_insights": [
+    "Nong Khai is stronger as a Mekong city than as a border-formality stop.",
+    "Tha Sadet and Wat Pho Chai should come before the long viewpoint drive.",
+    "Sala Kaeo Ku is one of the few attractions here that is genuinely singular rather than interchangeable.",
+    "The Sangkhom side works best as one focused viewpoint morning, not a bloated route.",
+    "Vietnamese and river-linked meals are the food plan; generic ranking copy is not."
   ],
-  "enrichedAt": "2026-02-22T18:00:00.000Z",
-  "best_time_to_visit": {
-    "season": "Cool Season",
-    "months": "November - February",
-    "weather": "Cool and dry, 15-28°C",
-    "reasons": "Comfortable for Mekong exploration and temple visits"
-  },
-  "seasonal_secrets": {
-    "best_times": {
-      "November-February (Best)": "The cool season from November to February is the ideal time to visit Nong Khai, with comfortable temperatures (15-28°C) and clear skies perfect for motorbike riding and temple exploration. The dry weather makes cave visits more pleasant and cliff-top temple viewpoints offer the clearest visibility across the Mekong into Laos.",
-      "March-May (Hot Season)": "Very hot, 30-40°C. Cheaper accommodation and fewer crowds — worth it if you can handle the heat.",
-      "June-October (Green Season)": "Warm with regular rainfall. Lush landscapes and good deals — rain usually falls in short afternoon bursts."
-    },
-    "local_festivals": [
-      "Naga Fireball Festival (Ok Phansa, October) - mysterious fireballs rise from the Mekong",
-      "Loy Krathong Festival",
-      "King's Birthday (Father's Day - Dec 5)",
-      "New Year celebrations",
-      "Makha Bucha Day",
-      "Chinese New Year (varies)",
-      "Songkran Water Festival (April 13-15) - celebrated nationwide"
-    ],
-    "seasonal_foods": {
-      "cool": "Mekong riverside dining is at its best — fresh river fish, grilled meats, and Isaan specialties with sunset views. Local favorites include Mekong Riverside Restaurants and Nong Khai Night Market.",
-      "hot": "Cooling Vietnamese-Thai fusion dishes and cold drinks at riverside restaurants. Local favorites include Mekong Riverside Restaurants and Nong Khai Night Market.",
-      "rainy": "Hearty Isaan soups and warming curries — the Mekong at high water is dramatic. Local favorites include Mekong Riverside Restaurants and Nong Khai Night Market."
-    },
-    "insider_tips": {
-      "Mekong sunsets": "The best sunset viewing spots fill up fast — arrive 30 minutes before sunset to secure a riverside table.",
-      "Border crossings": "If crossing to Laos, check visa requirements in advance. Cool season mornings along the Mekong can be surprisingly cold — pack layers.",
-      "Peak season": "November-February is peak season — book accommodation 2-4 weeks ahead for the best prices.",
-      "Rainy season": "Rain usually falls in short afternoon bursts — mornings are often sunny and great for exploring Nong Khai.",
-      "Friendship Bridge": "Visit Friendship Bridge during the cool season for the most comfortable experience. Early morning visits beat the heat and the crowds."
-    }
-  },
+  "seasonal_secrets": "The cool season from November to February is the easiest overall fit because city walks, riverfront time, and early departures for Sangkhom viewpoints are more comfortable. It is also the season when official Nong Khai guidebook material still emphasizes mist mornings at places like Phu Huai Isan and Wat Pha Tak Suea. Hot months still work if you plan around mornings and evenings. In the rainy season the city remains viable, but any cliffside or steep river-road outing deserves a local recheck first.",
+  "budget_reality": "Nong Khai is usually manageable on a moderate budget if you keep the trip city-first. Costs rise when you add private transport for Sangkhom viewpoints, frequent border shuttling, or premium river-view rooms you barely use. The better spend is often one central stay, a stronger riverfront food plan, and one deliberate outer-city excursion.",
   "top_attractions": [
     {
       "rank": 1,
       "name": "Wat Pho Chai",
-      "description": "Historic temple in Nong Khai city center housing a revered Buddha image and serving as the city's most important religious site.",
-      "location": "Nong Khai city center",
-      "entrance_fee": "Free",
+      "description": "The city's strongest sacred stop and still the clearest place to understand Nong Khai's Phra Sai tradition.",
+      "location": "Central Nong Khai",
+      "entrance_fee": "Temple donations are customary",
       "highlights": [
-        "Sacred Buddha image",
-        "Local pilgrimage site",
-        "River proximity"
-      ]
+        "Phra Sai Buddha image",
+        "Main city temple",
+        "Best in-town sacred layer"
+      ],
+      "href": "/city/nong-khai/attractions/wat-pho-chai/",
+      "cta_label": "See the Wat Pho Chai guide"
     },
     {
       "rank": 2,
-      "name": "Thai-Lao Friendship Bridge",
-      "description": "Primary border crossing between Thailand and Laos offering pedestrian access and spectacular Mekong River views into Laos.",
-      "location": "Eastern edge of Nong Khai",
-      "entrance_fee": "Free to view; 20 THB to cross on foot",
+      "name": "Tha Sadet Market and riverfront",
+      "description": "The best first walk in Nong Khai because the market, promenade, and Mekong-side rhythm all reinforce one another.",
+      "location": "Mekong riverfront in central Nong Khai",
+      "entrance_fee": "Public riverfront access is straightforward",
       "highlights": [
-        "Laos border crossing",
         "Mekong views",
-        "International gateway"
-      ]
+        "Market and walking layer",
+        "Best city-core pacing"
+      ],
+      "href": "/city/nong-khai/attractions/tha-sadet-market-and-riverfront/",
+      "cta_label": "See the riverfront guide"
     },
     {
       "rank": 3,
-      "name": "Nong Khai Riverside Promenade",
-      "description": "Scenic waterfront walking area with views across the Mekong to Laos, lined with restaurants and local vendors.",
-      "location": "Nong Khai waterfront",
-      "entrance_fee": "Free",
+      "name": "Sala Kaeo Ku",
+      "description": "Nong Khai's most distinctive cultural attraction, with a sculpture park built around overlapping religious imagery.",
+      "location": "Wat That area outside the city core",
+      "entrance_fee": "Service fees apply and should be checked locally",
       "highlights": [
-        "Sunset views",
-        "Local vendors",
-        "Evening atmosphere"
-      ]
+        "208 large sculptures",
+        "Buddhist and Hindu imagery",
+        "Unique visual identity"
+      ],
+      "href": "/city/nong-khai/attractions/sala-kaeo-ku/",
+      "cta_label": "See the Sala Kaeo Ku guide"
     },
     {
       "rank": 4,
-      "name": "Wat Khaow Taberd",
-      "description": "Cliff-top temple offering panoramic Mekong River views into Laos from an elevated viewpoint with photo opportunities.",
-      "location": "Route 212, Nong Khai Province",
-      "entrance_fee": "Free",
+      "name": "First Thai-Lao Friendship Bridge",
+      "description": "The border-city landmark that explains Nong Khai's regional role far better than generic gateway copy.",
+      "location": "East of central Nong Khai",
+      "entrance_fee": "Transport and border procedures vary; recheck current operators directly",
       "highlights": [
-        "Elevated vantage point",
-        "Mekong panoramas",
-        "Photography opportunities"
-      ]
+        "Cross-border context",
+        "Rail and road link",
+        "Core Nong Khai identity"
+      ],
+      "href": "/city/nong-khai/attractions/first-thai-lao-friendship-bridge/",
+      "cta_label": "See the bridge guide"
     },
     {
       "rank": 5,
-      "name": "Den Ping Cave",
-      "description": "Limestone cave system featuring torchlight-guided exploration through narrow passages to discover Buddhist shrines and stalactite formations.",
-      "location": "Route 212, Nong Khai Province",
-      "entrance_fee": "100 THB donation",
+      "name": "Wat Pha Tak Suea Skywalk",
+      "description": "The headline Sangkhom-side viewpoint, best used as one focused half-day or sunrise-style extension.",
+      "location": "Sangkhom District",
+      "entrance_fee": "Local access details should be rechecked before going",
       "highlights": [
-        "Guided torch adventure",
-        "Buddhist shrines",
-        "Stalactite formations"
-      ]
+        "Cliff-edge glass skywalk",
+        "Wide Mekong panorama",
+        "Cool-season mist potential"
+      ],
+      "href": "/city/nong-khai/attractions/wat-pha-tak-suea-skywalk/",
+      "cta_label": "See the skywalk guide"
     },
     {
       "rank": 6,
-      "name": "Wat Pha That Nong Khai",
-      "description": "Temple housing a remarkable 20-meter reclining Buddha carved entirely from Italian white marble, one of Isaan's most impressive Buddha statues.",
-      "location": "Route 212, Nong Khai Province",
-      "entrance_fee": "Free",
+      "name": "Phu Huai Isan",
+      "description": "The stronger sunrise-style viewpoint if you want dawn, islands in the Mekong, and a real early-start excursion.",
+      "location": "Sangkhom District",
+      "entrance_fee": "Local transport and access conditions should be checked before departure",
       "highlights": [
-        "White marble Buddha statue",
-        "Exceptional craftsmanship",
-        "Minimal tourist crowds"
-      ]
-    },
-    {
-      "rank": 7,
-      "name": "Sadet Market",
-      "description": "Authentic local market offering traditional goods, fresh produce, and street food in an unpolished cultural setting.",
-      "location": "Nong Khai city area",
-      "entrance_fee": "Free",
-      "highlights": [
-        "Authentic local experience",
-        "Street food",
-        "Traditional goods"
-      ]
+        "Best sunrise logic",
+        "Sea-of-mist potential",
+        "Island-dotted Mekong view"
+      ],
+      "href": "/city/nong-khai/attractions/phu-huai-isan/",
+      "cta_label": "See the Phu Huai Isan guide"
     }
   ],
   "top_restaurants": [
     {
       "rank": 1,
-      "name": "Pimali Restaurant",
-      "description": "Highly-rated restaurant serving international and Thai cuisine with excellent quality and reliable service.",
-      "cuisine_type": "International, Thai",
-      "price_range": "150-350 THB per dish",
+      "name": "Daeng Naem Nueng Nong Khai",
+      "cuisine": "Vietnamese",
+      "description": "The clearest signature meal in town when you want Nong Khai's Vietnamese line to show up immediately.",
+      "location": "Nai Mueang, central Nong Khai",
+      "price_range": "Budget to mid-range",
       "highlights": [
-        "4.9 TripAdvisor rating",
-        "International options",
-        "Quality service"
-      ]
+        "Official guidebook pick",
+        "Strong first meal",
+        "Classic naem nueng stop"
+      ],
+      "href": "/city/nong-khai/top-10-restaurants/",
+      "cta_label": "See the food guide"
     },
     {
       "rank": 2,
-      "name": "Macky's Riverside Kitchen",
-      "description": "Riverside restaurant combining European and Asian fusion cooking with direct Mekong views.",
-      "cuisine_type": "European, Asian",
-      "price_range": "180-400 THB per dish",
+      "name": "Vietnam Cafe Nong Khai",
+      "cuisine": "Vietnamese cafe-style",
+      "description": "A lighter breakfast or lunch option that keeps the city's Vietnamese food identity visible without overcomplicating the plan.",
+      "location": "Nai Mueang, central Nong Khai",
+      "price_range": "Budget",
       "highlights": [
-        "4.4 TripAdvisor rating",
-        "River views",
-        "Fusion cuisine"
-      ]
+        "Breakfast-to-lunch fit",
+        "Official guidebook pick",
+        "Useful first-morning stop"
+      ],
+      "href": "/city/nong-khai/top-10-restaurants/",
+      "cta_label": "See the food guide"
     },
     {
       "rank": 3,
-      "name": "The For Rest Cafe",
-      "description": "Highly-rated cafe offering quality beverages and light dining in a casual atmosphere.",
-      "cuisine_type": "Cafe, Dining bars",
-      "price_range": "100-250 THB",
+      "name": "Huen Hat Kham Restaurant",
+      "cuisine": "Thai and Mekong fish",
+      "description": "A practical local meal with stronger river-linked dishes than generic cafe filler.",
+      "location": "Hat Kham side of Nong Khai",
+      "price_range": "Budget to mid-range",
       "highlights": [
-        "5 TripAdvisor rating",
-        "Perfect for breaks",
-        "Casual atmosphere"
-      ]
+        "Giant Mekong catfish soup",
+        "Good second-night meal",
+        "Official guidebook pick"
+      ],
+      "href": "/city/nong-khai/top-10-restaurants/",
+      "cta_label": "See the food guide"
     },
     {
       "rank": 4,
-      "name": "Daeng Namnueng",
-      "description": "Authentic Vietnamese and Asian restaurant featuring traditional regional recipes.",
-      "cuisine_type": "Vietnamese, Asian",
-      "price_range": "120-300 THB per dish",
+      "name": "Mae Paed Kitchen Nong Khai",
+      "cuisine": "Thai and Mekong fish",
+      "description": "A stronger lunch or dinner stop when you want a local savory meal that still feels grounded in place.",
+      "location": "Mueang Mi area",
+      "price_range": "Budget to mid-range",
       "highlights": [
-        "4 TripAdvisor rating",
-        "Authentic Vietnamese",
-        "Local favorite"
-      ]
+        "Soft-shelled river fish",
+        "Official guidebook pick",
+        "Good non-cafe anchor"
+      ],
+      "href": "/city/nong-khai/top-10-restaurants/",
+      "cta_label": "See the food guide"
     },
     {
       "rank": 5,
-      "name": "Huen Hat Kham Cafe",
-      "description": "Casual cafe blending Italian and Thai cuisine in a relaxed riverside setting.",
-      "cuisine_type": "Italian, Thai",
-      "price_range": "100-280 THB per dish",
+      "name": "Khong View Pla Chum",
+      "cuisine": "Pla jum and local dinner",
+      "description": "A smarter Mekong-evening meal than another generic international menu, especially if you want the river-linked food story to stay visible.",
+      "location": "Nai Mueang, Nong Khai",
+      "price_range": "Budget to mid-range",
       "highlights": [
-        "3.8 TripAdvisor rating",
-        "Unique fusion",
-        "Riverside location"
-      ]
+        "Pla jum focus",
+        "Evening fit",
+        "Official guidebook pick"
+      ],
+      "href": "/city/nong-khai/top-10-restaurants/",
+      "cta_label": "See the food guide"
+    },
+    {
+      "rank": 6,
+      "name": "Chang Yim Pla Chum",
+      "cuisine": "Fish hotpot",
+      "description": "A straightforward local dinner name when you want the Nong Khai hotpot angle without turning dinner into a search project.",
+      "location": "Mueang Nong Khai",
+      "price_range": "Budget",
+      "highlights": [
+        "Mekong fish hotpot",
+        "Simple local dinner logic",
+        "Official guidebook pick"
+      ],
+      "href": "/city/nong-khai/top-10-restaurants/",
+      "cta_label": "See the food guide"
     }
   ],
   "top_hotels": [
     {
       "rank": 1,
-      "name": "LePont Riverfront Resort Nongkhai",
-      "description": "Premium riverside resort with 5-star TripAdvisor rating offering direct Mekong views and quality modern amenities.",
-      "price_range": "1,930-2,170 THB/night (USD $62)",
+      "name": "Narimkhong Riverview",
+      "price_range": "Mid-range",
+      "description": "One of the clearest riverfront picks if you want to stay close to Tha Sadet and the Mekong-side evening rhythm.",
       "category": "midrange",
+      "area": "Riverfront near Tha Sadet",
       "highlights": [
-        "5 TripAdvisor rating",
-        "Riverfront location",
-        "Best value rating"
-      ]
+        "Official hotel website",
+        "Near Tha Sadet",
+        "Riverfront positioning"
+      ],
+      "href": "/city/nong-khai/top-10-hotels/",
+      "cta_label": "See the hotel guide"
     },
     {
       "rank": 2,
-      "name": "The Garden Resort Nong Khai",
-      "description": "Top-rated resort with garden setting offering quality rooms and amenities for comfortable riverside stays.",
-      "price_range": "1,800-2,400 THB/night (USD $50-70)",
-      "category": "midrange",
+      "name": "HOP INN Nong Khai",
+      "price_range": "Budget",
+      "description": "The strongest simple chain base when you want predictable rooms and an easy city stay without overthinking the hotel.",
+      "category": "budget",
+      "area": "Nai Mueang",
       "highlights": [
-        "5 TripAdvisor rating",
-        "Garden atmosphere",
-        "Quality facilities"
-      ]
+        "Official hotel website",
+        "79 rooms",
+        "Practical short-stay base"
+      ],
+      "href": "/city/nong-khai/top-10-hotels/",
+      "cta_label": "See the hotel guide"
     },
     {
       "rank": 3,
-      "name": "Park & Pool Resort",
-      "description": "Well-rated resort featuring pool facilities and garden setting providing good value riverside accommodation.",
-      "price_range": "1,400-1,900 THB/night (USD $45-60)",
-      "category": "midrange",
+      "name": "Mut Mee Garden Guest House",
+      "price_range": "Budget to mid-range",
+      "description": "A long-running guesthouse choice for travelers who prefer character, garden atmosphere, and a central Nong Khai base over chain uniformity.",
+      "category": "budget",
+      "area": "Central Nong Khai by the Mekong",
       "highlights": [
-        "4.4 TripAdvisor rating",
-        "Pool facilities",
-        "Park setting"
-      ]
+        "Official guesthouse website",
+        "Garden setting",
+        "Long-standing city-center base"
+      ],
+      "href": "/city/nong-khai/top-10-hotels/",
+      "cta_label": "See the hotel guide"
     },
     {
       "rank": 4,
-      "name": "Vana Wellness Resort",
-      "description": "Wellness-focused resort offering spa services and relaxation amenities in riverside location.",
-      "price_range": "1,500-2,000 THB/night (USD $48-64)",
+      "name": "The Maceo Hotel Nong Khai",
+      "price_range": "Mid-range",
+      "description": "A useful city-center option when you want quick access to the bridge side and Tha Sadet area without moving into the far edge of town.",
       "category": "midrange",
+      "area": "City center",
       "highlights": [
-        "4 TripAdvisor rating",
-        "Wellness facilities",
-        "Spa services"
-      ]
+        "Official tourism guidebook listing",
+        "Near bridge and market side",
+        "Easy access base"
+      ],
+      "href": "/city/nong-khai/top-10-hotels/",
+      "cta_label": "See the hotel guide"
     },
     {
       "rank": 5,
-      "name": "Panlaan Boutique Resort",
-      "description": "Boutique-style resort offering personalized service and intimate riverside accommodation.",
-      "price_range": "1,200-1,800 THB/night (USD $38-57)",
-      "category": "budget",
+      "name": "Asawann Hotel",
+      "price_range": "Mid-range",
+      "description": "A practical bigger-hotel option if rail access and wider province movement matter more than a pure riverfront stay.",
+      "category": "midrange",
+      "area": "Near Nong Khai Railway Station",
       "highlights": [
-        "3.7 TripAdvisor rating",
-        "Boutique service",
-        "Riverside access"
-      ]
-    }
-  ],
-  "factchecked_at": "2026-03-08T18:56:57.173Z",
-  "translations": {
-    "nl": {
-      "enhanced_description": "De provincie Nong Khai is waar het Mekong-avontuur echt wild wordt. Als je dacht dat Chiang Khan afgelegen was, dan tilt het stuk Route 212 richting Nong Khai de afzondering naar een ander niveau — je kunt urenlang rijden zonder een andere toerist te zien. Dit is diep Isaan, waar zelden Engels wordt gesproken en Google Translate je meest essentiële reistool wordt. Maar wat je hier vindt is buitengewoon. Tempels klampen zich vast aan klifranden hoog boven de Mekong en bieden uitzichten die zo dramatisch zijn dat ze bijna onmogelijk aanvoelen. Verborgen grotten kronkelen diep de heuvels in, alleen toegankelijk met lokale gidsen die de weg verlichten door smalle passages. Een 20 meter lange liggende Boeddha, geheel gemaakt van Italiaans wit marmer, glanst in de zon bij een tempel die niets vraagt voor de toegang. Het landschap is een verbluffende mix van riviervalleien, kalksteenrotsen en dicht tropisch bos. De stad Nong Khai zelf ligt direct aan de Mekong, met de Vriendschapsbrug die over de rivier naar Vientiane in Laos reikt. De rivierpromenades bieden vredige zonsondergangwandelingen, en de lokale foodscene serveert authentieke Isaan-keuken tegen prijzen die onmogelijk laag lijken. Dit is Thailand op zijn meest oprecht — geen toeristische infrastructuur, geen Engelse menu's, gewoon ongelooflijke ervaringen die wachten om ontdekt te worden door wie bereid is van de hoofdroutes af te wijken.",
-      "overview": "Nong Khai is een boeiende Mekong-rivierstad in Isaan die dient als Thailand's belangrijkste toegangspoort naar Laos via de beroemde Thai-Lao Vriendschapsbrug. Gelegen in de provincie Nong Khai langs Route 212 — de schilderachtige snelweg die de Mekong volgt door Noordoost-Thailand — biedt dit gebied een buitengewone mix van natuurwonderen en culturele schatten die vrijwel geheel onontdekt blijven door internationale toeristen. De provincie herbergt dramatische kliftempels hoog boven de Mekong met panoramische uitzichten die tot in Laos reiken, mysterieuze grotsystemen die je met fakkelverlichting verkent met lokale gidsen, en een adembenemende 20 meter lange liggende Boeddha uit Italiaans wit marmer. Voor motorrijders die de Mekong-route volgen, vertegenwoordigt Nong Khai de perfecte voortzetting van de reis vanuit Chiang Khan, waarbij Route 212 het ene adembenemende riviergezicht na het andere biedt.",
-      "thingsToDo": "De provincie Nong Khai biedt diverse activiteiten om te verkennen. Belangrijke attracties zijn onder meer Wat Pho Chai (gratis) in het stadscentrum, de Thai-Lao Vriendschapsbrug met voetgangerstoegang voor 20 THB om over te steken, en de schilderachtige Nong Khai Rivierpromenade (gratis). Natuurlijke attracties omvatten kliftempels zoals Wat Khaow Taberd (gratis), Den Ping Cave waarvoor 100 THB donatie nodig is voor een begeleide fakkeltocht door kalksteenpassages, en de Witte Marmeren Liggende Boeddha bij Wat Pha That Nong Khai (gratis). De Sadet Markt biedt authentieke culturele ervaringen zonder kosten. Motorverhuur kost 150-250 THB/dag (USD $5-8) en is essentieel voor het verkennen van attracties verspreid langs Route 212. De meeste activiteiten zijn gratis of onder 100 THB.",
-      "whereToStay": "Accommodatie in Nong Khai is opmerkelijk betaalbaar en geconcentreerd langs de Mekong-rivieroever. Hotels aan de rivier beginnen vanaf ongeveer 700 THB/nacht ($20) en bieden uitzicht direct over de Mekong naar Laos — tegen prijzen die je in Bangkok amper een slaapzaalbed opleveren. Het riviergebied van de stad Nong Khai is de beste uitvalsbasis, op loopafstand van restaurants, de promenade en vervoersverbindingen. Voor wie de meer afgelegen tempels en grotten van de provincie wil verkennen, is verblijven in de stad Nong Khai en dagtochten maken per motor de meest praktische aanpak, aangezien accommodatiemogelijkheden buiten de stad zeer beperkt zijn. Verwacht geen luxe resortfaciliteiten — dit is provinciaal Isaan — maar de kamers zijn schoon, comfortabel en ongelooflijk voordelig. Boek vooruit tijdens Thaise feestdagen wanneer binnenlandse toeristen langskomen, maar op gewone dagen heb je geen moeite kamers te vinden.",
-      "gettingAround": "Motorverhuur (150-250 THB/dag; USD $5-8) is essentieel voor het verkennen van de provincie Nong Khai, met attracties verspreid langs Route 212. De stad Nong Khai is goed te voet te verkennen langs de rivieroever. Songthaew-gedeeld vervoer rijdt binnen de stad voor 10-20 THB. Vanaf Udon Thani International Airport (55 km naar het zuiden) kosten bussen 80-120 THB (USD $2,50-4) en minivans 100-150 THB (USD $3-5) voor de reis van 1 uur. Nachttreinen van Bangkok naar station Nong Khai zijn beschikbaar. Route 212 verbindt Nong Khai met andere Mekong-rivierplaatsen waaronder Chiang Khan.",
-      "bestTimeToVisit": "Het koele seizoen van november tot februari is de ideale tijd om Nong Khai te bezoeken, met aangename temperaturen (15-28°C) en helder weer perfect voor motorrijden en tempelverkenning. Het droge weer maakt grotbezoeken aangenamer en kliftempel-uitkijkpunten bieden het helderste zicht over de Mekong naar Laos. Het regenseizoen (juni-oktober) brengt weelderig groene landschappen en de Mekong op zijn meest dramatische en krachtigste, maar middagbuien kunnen motortouren verstoren en grotverkenning minder raadzaam maken. Het hete seizoen (maart-mei) is intens heet in Isaan, met temperaturen die regelmatig boven 35°C stijgen — niet ideaal voor tempelverkenning in de buitenlucht. Bezoek op doordeweekse dagen voor de meest vredige ervaring, aangezien Thaise feestdagen binnenlandse toeristen naar de riviergebieden brengen.",
-      "safetyTips": "Nong Khai is uiterst veilig — dit is een rustige, landelijke provincie waar misdaad tegen toeristen vrijwel onbestaand is. De grootste veiligheidsoverwegingen hebben te maken met de activiteiten zelf. Bij Den Ping Cave, volg de instructies van je gids zorgvuldig op — de grot omvat kruipen door smalle passages en de vloer kan glad zijn. Draag stevige schoenen en neem een hoofdlamp mee als reserve. De kliftempels hebben steile trappen en blootgestelde uitkijkpunten zonder veiligheidsreling — wees voorzichtig bij randen, vooral na regen wanneer rotsen glad worden. Als je motorrijdt langs Route 212, is de weg over het algemeen uitstekend, maar let op honden, langzaam rijdende landbouwvoertuigen en af en toe grindplekken op de berm. Communicatie is een echte overweging hier — zeer weinig lokale bewoners spreken Engels, dus download het Thaise taalpakket van Google Translate voor offline gebruik voordat je komt. De Mekong heeft het hele jaar door sterke stromingen — ga er nooit in zwemmen. Blijf gehydrateerd en gebruik zonbescherming, vooral tijdens het hete seizoen wanneer de temperaturen in Isaan meedogenloos zijn.",
-      "translated_at": "2026-03-10T00:00:00.000Z"
-    },
-    "fr": {
-      "enhanced_description": "La province de Nong Khai est l'endroit où l'aventure du Mékong devient vraiment sauvage. Si vous pensiez que Chiang Khan était hors des sentiers battus, le tronçon de la Route 212 menant à Nong Khai pousse l'isolement à un autre niveau — vous pouvez rouler pendant des heures sans croiser un autre touriste. C'est le cœur profond de l'Isaan, où l'anglais est rarement parlé et Google Translate devient votre outil de voyage le plus essentiel. Mais ce que vous trouvez ici est extraordinaire. Des temples s'accrochent aux bords de falaises haut au-dessus du Mékong, offrant des panoramas si spectaculaires qu'ils semblent presque impossibles. Des grottes cachées s'enfoncent profondément dans les collines, accessibles uniquement avec des guides locaux qui éclairent le chemin à travers des passages étroits. Un Bouddha couché de 20 mètres entièrement sculpté dans du marbre blanc italien brille au soleil dans un temple qui ne demande aucun droit d'entrée. Le paysage est un mélange saisissant de vallées fluviales, de karsts calcaires et de forêt tropicale dense. La ville de Nong Khai elle-même se trouve directement au bord du Mékong, avec le pont de l'Amitié qui enjambe le fleuve jusqu'à Vientiane, au Laos. Les promenades le long du fleuve offrent de paisibles balades au coucher du soleil, et la scène culinaire locale sert une cuisine Isaan authentique à des prix qui semblent incroyablement bas. C'est la Thaïlande dans sa forme la plus authentique — pas d'infrastructure touristique, pas de menus en anglais, juste des expériences incroyables qui attendent d'être découvertes par ceux qui osent s'aventurer hors des routes principales.",
-      "overview": "Nong Khai est une fascinante ville du Mékong en Isaan qui sert de principale porte d'entrée de la Thaïlande vers le Laos via le célèbre pont de l'Amitié thaïlando-laotien. Située dans la province de Nong Khai le long de la Route 212 — la route panoramique qui longe le Mékong à travers le nord-est de la Thaïlande — cette région offre un mélange extraordinaire de merveilles naturelles et de trésors culturels qui restent pratiquement inconnus des touristes internationaux. La province abrite des temples spectaculaires perchés sur des falaises au-dessus du Mékong avec des vues panoramiques s'étendant jusqu'au Laos, des systèmes de grottes mystérieuses explorées à la lueur des torches avec des guides locaux, et un saisissant Bouddha couché de 20 mètres sculpté dans du marbre blanc italien. Pour les motards suivant la route du Mékong, Nong Khai représente la continuation parfaite du voyage depuis Chiang Khan, la Route 212 offrant un panorama fluvial époustouflant après l'autre.",
-      "thingsToDo": "La province de Nong Khai offre des activités variées pour l'exploration. Les attractions principales comprennent Wat Pho Chai (entrée gratuite) dans le centre-ville, le pont de l'Amitié thaïlando-laotien offrant un accès piéton pour 20 THB, et la pittoresque promenade fluviale de Nong Khai (gratuite). Les attractions naturelles incluent des temples perchés sur des falaises comme Wat Khaow Taberd (entrée gratuite), la grotte Den Ping nécessitant un don de 100 THB pour une exploration guidée à la torche à travers des passages calcaires, et le Bouddha couché en marbre blanc à Wat Pha That Nong Khai (entrée gratuite). Le marché Sadet offre des expériences culturelles authentiques sans frais. La location de moto coûte 150-250 THB/jour (USD $5-8) et est essentielle pour explorer les attractions réparties le long de la Route 212. La plupart des activités sont gratuites ou inférieures à 100 THB.",
-      "whereToStay": "L'hébergement à Nong Khai est remarquablement abordable et concentré le long des berges du Mékong. Les hôtels en bord de fleuve commencent à environ 700 THB/nuit ($20) et offrent une vue directe sur le Mékong vers le Laos — à des prix qui vous donneraient à peine un lit en dortoir à Bangkok. Le quartier riverain de la ville de Nong Khai est la meilleure base, à distance de marche des restaurants, de la promenade et des connexions de transport. Pour ceux qui souhaitent explorer les temples et grottes plus reculés de la province, séjourner en ville et faire des excursions d'une journée en moto est l'approche la plus pratique, car les options d'hébergement en dehors de la ville sont très limitées. N'attendez pas des prestations de resort de luxe — c'est l'Isaan provincial — mais les chambres sont propres, confortables et d'un rapport qualité-prix incroyable. Réservez à l'avance pendant les jours fériés thaïlandais lorsque les touristes nationaux visitent, mais les jours ordinaires vous n'aurez aucun mal à trouver des chambres.",
-      "gettingAround": "La location de moto (150-250 THB/jour ; USD $5-8) est essentielle pour explorer la province de Nong Khai, les attractions étant réparties le long de la Route 212. La ville de Nong Khai est facilement praticable à pied le long du front de fleuve. Les songthaews (transports partagés) circulent dans la ville pour 10-20 THB. Depuis l'aéroport international d'Udon Thani (55 km au sud), les bus coûtent 80-120 THB (USD $2,50-4) et les minivans 100-150 THB (USD $3-5) pour le trajet d'une heure. Des trains de nuit depuis Bangkok jusqu'à la gare de Nong Khai sont disponibles. La Route 212 relie Nong Khai aux autres villes du Mékong dont Chiang Khan.",
-      "bestTimeToVisit": "La saison fraîche de novembre à février est la période idéale pour visiter Nong Khai, avec des températures agréables (15-28°C) et un ciel dégagé parfait pour la moto et l'exploration des temples. Le temps sec rend les visites de grottes plus agréables et les belvédères des temples perchés offrent la meilleure visibilité sur le Mékong vers le Laos. La saison des pluies (juin-octobre) apporte des paysages d'un vert luxuriant et le Mékong à son plus spectaculaire et puissant, mais les averses de l'après-midi peuvent perturber les excursions en moto et rendre l'exploration des grottes moins conseillée. La saison chaude (mars-mai) est intensément chaude en Isaan, avec des températures dépassant régulièrement 35°C — pas idéal pour l'exploration des temples en plein air. Visitez en semaine pour l'expérience la plus paisible, car les jours fériés thaïlandais attirent les touristes nationaux vers les zones riveraines.",
-      "safetyTips": "Nong Khai est extrêmement sûre — c'est une province rurale et tranquille où la criminalité envers les touristes est pratiquement inexistante. Les principales considérations de sécurité concernent les activités elles-mêmes. À la grotte Den Ping, suivez attentivement les instructions de votre guide — la grotte implique de ramper dans des passages étroits et le sol peut être glissant. Portez des chaussures solides et apportez une lampe frontale de secours. Les temples perchés sur les falaises comportent des escaliers raides et des points de vue exposés sans garde-corps — soyez prudent près des bords, surtout après la pluie quand les rochers deviennent glissants. Si vous roulez en moto le long de la Route 212, la route est généralement excellente mais attention aux chiens, aux véhicules agricoles lents et aux zones de gravier occasionnelles sur les bas-côtés. La communication est une vraie considération ici — très peu de locaux parlent anglais, alors téléchargez le pack de langue thaïe de Google Translate pour une utilisation hors ligne avant votre visite. Le Mékong a des courants forts toute l'année — n'y nagez jamais. Restez hydraté et utilisez une protection solaire, surtout pendant la saison chaude quand les températures en Isaan sont impitoyables.",
-      "translated_at": "2026-03-10T00:00:00.000Z"
-    },
-    "de": {
-      "enhanced_description": "Die Provinz Nong Khai ist der Ort, an dem das Mekong-Abenteuer wirklich wild wird. Wenn Sie dachten, Chiang Khan sei abgelegen, dann hebt der Abschnitt der Route 212 Richtung Nong Khai die Abgeschiedenheit auf ein neues Niveau — Sie können stundenlang fahren, ohne einen anderen Touristen zu sehen. Dies ist das tiefe Isaan, wo selten Englisch gesprochen wird und Google Translate Ihr wichtigstes Reisewerkzeug wird. Aber was Sie hier finden, ist außergewöhnlich. Tempel klammern sich an Felskanten hoch über dem Mekong und bieten Ausblicke, die so dramatisch sind, dass sie fast unwirklich erscheinen. Versteckte Höhlen winden sich tief in die Hügel hinein, nur zugänglich mit einheimischen Führern, die den Weg durch enge Passagen beleuchten. Ein 20 Meter langer liegender Buddha, vollständig aus italienischem weißem Marmor gefertigt, glänzt in der Sonne bei einem Tempel, der keinen Eintritt verlangt. Die Landschaft ist eine atemberaubende Mischung aus Flusstälern, Kalksteinfelsen und dichtem tropischem Wald. Die Stadt Nong Khai selbst liegt direkt am Mekong, wobei die Freundschaftsbrücke über den Fluss nach Vientiane in Laos reicht. Die Uferpromenaden bieten friedliche Spaziergänge bei Sonnenuntergang, und die lokale Gastronomieszene serviert authentische Isaan-Küche zu Preisen, die unglaublich niedrig erscheinen. Dies ist Thailand in seiner authentischsten Form — keine touristische Infrastruktur, keine englischen Speisekarten, einfach unglaubliche Erlebnisse, die darauf warten, von denen entdeckt zu werden, die bereit sind, die ausgetretenen Pfade zu verlassen.",
-      "overview": "Nong Khai ist eine faszinierende Mekong-Flussstadt im Isaan, die als Thailands wichtigstes Tor nach Laos über die berühmte Thai-Laotische Freundschaftsbrücke dient. Gelegen in der Provinz Nong Khai entlang der Route 212 — der malerischen Fernstraße, die dem Mekong durch Nordost-Thailand folgt — bietet diese Region eine außergewöhnliche Mischung aus Naturwundern und kulturellen Schätzen, die von internationalen Touristen nahezu unentdeckt bleiben. Die Provinz beherbergt dramatische Klipptempel hoch über dem Mekong mit Panoramablicken, die bis nach Laos reichen, geheimnisvolle Höhlensysteme, die man mit Fackelbeleuchtung und einheimischen Führern erkundet, und einen atemberaubenden 20 Meter langen liegenden Buddha aus italienischem weißem Marmor. Für Motorradfahrer auf der Mekong-Route stellt Nong Khai die perfekte Fortsetzung der Reise von Chiang Khan dar, wobei die Route 212 ein atemberaubendes Flusspanorama nach dem anderen bietet.",
-      "thingsToDo": "Die Provinz Nong Khai bietet vielfältige Aktivitäten zum Erkunden. Zu den wichtigsten Sehenswürdigkeiten gehören Wat Pho Chai (kostenlos) im Stadtzentrum, die Thai-Laotische Freundschaftsbrücke mit Fußgängerzugang für 20 THB zum Überqueren und die malerische Nong Khai Uferpromenade (kostenlos). Naturattraktionen umfassen Klipptempel wie Wat Khaow Taberd (kostenlos), die Den Ping Cave, für die eine Spende von 100 THB für eine geführte Fackeltour durch Kalksteinpassagen erforderlich ist, und den Weißen Marmor-Liegenden Buddha bei Wat Pha That Nong Khai (kostenlos). Der Sadet-Markt bietet authentische kulturelle Erlebnisse ohne Kosten. Motorradverleih kostet 150-250 THB/Tag (USD $5-8) und ist unverzichtbar für die Erkundung der entlang der Route 212 verteilten Attraktionen. Die meisten Aktivitäten sind kostenlos oder unter 100 THB.",
-      "whereToStay": "Unterkünfte in Nong Khai sind bemerkenswert erschwinglich und konzentrieren sich entlang des Mekong-Ufers. Flusshotels beginnen ab etwa 700 THB/Nacht ($20) und bieten direkten Blick über den Mekong nach Laos — zu Preisen, die Ihnen in Bangkok kaum ein Schlafsaalbett einbringen würden. Das Flussviertel der Stadt Nong Khai ist die beste Ausgangsbasis, in Gehweite zu Restaurants, der Promenade und Verkehrsanbindungen. Wer die abgelegeneren Tempel und Höhlen der Provinz erkunden möchte, sollte in der Stadt übernachten und Tagesausflüge per Motorrad unternehmen, da Unterkunftsmöglichkeiten außerhalb der Stadt sehr begrenzt sind. Erwarten Sie keine Luxus-Resort-Annehmlichkeiten — dies ist das provinzielle Isaan — aber die Zimmer sind sauber, komfortabel und unglaublich preiswert. Buchen Sie während thailändischer Feiertage im Voraus, wenn einheimische Touristen kommen, aber an normalen Tagen werden Sie problemlos Zimmer finden.",
-      "gettingAround": "Motorradverleih (150-250 THB/Tag; USD $5-8) ist unverzichtbar für die Erkundung der Provinz Nong Khai, da die Attraktionen entlang der Route 212 verteilt sind. Die Stadt Nong Khai lässt sich gut zu Fuß entlang der Uferpromenade erkunden. Songthaew-Sammeltransporte verkehren innerhalb der Stadt für 10-20 THB. Vom Udon Thani International Airport (55 km südlich) kosten Busse 80-120 THB (USD $2,50-4) und Minivans 100-150 THB (USD $3-5) für die einstündige Fahrt. Nachtzüge von Bangkok zum Bahnhof Nong Khai sind verfügbar. Die Route 212 verbindet Nong Khai mit anderen Mekong-Flussstädten einschließlich Chiang Khan.",
-      "bestTimeToVisit": "Die kühle Jahreszeit von November bis Februar ist die ideale Zeit für einen Besuch in Nong Khai, mit angenehmen Temperaturen (15-28°C) und klarem Himmel, perfekt zum Motorradfahren und Tempelerkunden. Das trockene Wetter macht Höhlenbesuche angenehmer und die Aussichtspunkte der Klipptempel bieten die klarste Sicht über den Mekong nach Laos. Die Regenzeit (Juni-Oktober) bringt üppig grüne Landschaften und den Mekong auf seinem dramatischsten und kraftvollsten, aber Nachmittagsschauer können Motorradtouren stören und Höhlenerkundungen weniger ratsam machen. Die heiße Jahreszeit (März-Mai) ist im Isaan intensiv heiß, mit Temperaturen die regelmäßig über 35°C steigen — nicht ideal für Tempelbesichtigungen im Freien. Besuchen Sie an Wochentagen für das friedlichste Erlebnis, da thailändische Feiertage einheimische Touristen in die Flussgebiete bringen.",
-      "safetyTips": "Nong Khai ist äußerst sicher — dies ist eine ruhige, ländliche Provinz, in der Kriminalität gegen Touristen praktisch nicht existiert. Die wichtigsten Sicherheitsüberlegungen betreffen die Aktivitäten selbst. In der Den Ping Cave folgen Sie den Anweisungen Ihres Führers sorgfältig — die Höhle beinhaltet das Kriechen durch enge Passagen und der Boden kann rutschig sein. Tragen Sie festes Schuhwerk und nehmen Sie eine Stirnlampe als Reserve mit. Die Klipptempel haben steile Treppen und exponierte Aussichtspunkte ohne Sicherheitsgeländer — seien Sie vorsichtig an Kanten, besonders nach Regen, wenn Felsen rutschig werden. Beim Motorradfahren entlang der Route 212 ist die Straße generell ausgezeichnet, aber achten Sie auf Hunde, langsame Landwirtschaftsfahrzeuge und gelegentliche Kiesstellen am Straßenrand. Kommunikation ist hier eine echte Herausforderung — sehr wenige Einheimische sprechen Englisch, laden Sie daher das thailändische Sprachpaket von Google Translate für die Offline-Nutzung herunter, bevor Sie kommen. Der Mekong hat das ganze Jahr über starke Strömungen — schwimmen Sie niemals darin. Bleiben Sie hydriert und verwenden Sie Sonnenschutz, besonders während der heißen Jahreszeit, wenn die Temperaturen im Isaan gnadenlos sind.",
-      "translated_at": "2026-03-10T00:00:00.000Z"
-    },
-    "zh": {
-      "enhanced_description": "廊开府（Nong Khai）是湄公河冒险真正变得狂野的地方。如果你觉得清刊已经够偏远了，那么212号公路通往廊开的这一段会把偏僻提升到另一个层次——你可以骑行好几个小时都见不到一个游客。这里是伊桑的深处，几乎没人说英语，谷歌翻译成了你最重要的旅行工具。但你在这里发现的东西非同寻常。寺庙攀附在湄公河高处的悬崖边缘，提供的景色壮观到几乎令人难以置信。隐秘的洞穴深入山丘，只有当地向导举着火把照亮狭窄通道才能进入。一尊20米长的卧佛完全由意大利白色大理石雕成，在一座不收门票的寺庙中闪耀着阳光。这里的风景是河谷、石灰岩喀斯特和茂密热带森林的惊人组合。廊开市本身紧邻湄公河，友谊大桥横跨河面直通老挝的万象。河畔步道提供宁静的日落漫步，当地美食以令人难以置信的低价供应正宗的伊桑菜。这就是最真实的泰国——没有旅游基础设施，没有英文菜单，只有等待那些愿意偏离主路的人去发现的不可思议的体验。",
-      "overview": "廊开是伊桑地区一座迷人的湄公河城市，通过著名的泰老友谊大桥作为泰国通往老挝的主要门户。廊开府沿212号公路而建——这条风景如画的公路沿湄公河穿越泰国东北部——提供了国际游客几乎完全未发现的自然奇观和文化瑰宝的非凡组合。该府拥有高悬于湄公河之上的壮观悬崖寺庙，可远眺老挝的全景；神秘的洞穴系统需要在当地向导带领下举火把探索；还有一尊令人惊叹的20米长意大利白色大理石卧佛。对于骑行湄公河路线的摩托车手来说，廊开是从清刊出发后的完美延续，212号公路一路呈现接连不断的壮丽河景。",
-      "thingsToDo": "廊开府提供多样化的探索活动。主要景点包括市中心的Wat Pho Chai（免费）、泰老友谊大桥（步行过桥20泰铢），以及风景优美的廊开河滨步道（免费）。自然景点包括Wat Khaow Taberd（免费）等悬崖寺庙、Den Ping洞穴（需100泰铢捐赠用于向导火把探洞穿越石灰岩通道），以及Wat Pha That Nong Khai的白色大理石卧佛（免费）。Sadet市场提供免费的正宗文化体验。摩托车租赁150-250泰铢/天（5-8美元），是探索散布在212号公路沿线景点的必需品。大部分活动免费或低于100泰铢。",
-      "whereToStay": "廊开的住宿价格极为实惠，主要集中在湄公河畔。河景酒店约700泰铢/晚（20美元）起，可直接眺望湄公河对岸的老挝——这个价格在曼谷连一个床位都不一定买得到。廊开市河畔区域是最佳据点，步行即可到达餐馆、步道和交通枢纽。想要探索府内更偏远的寺庙和洞穴，住在市区骑摩托车做一日游是最实际的方式，因为市区以外的住宿选择非常有限。不要期望奢华度假村的设施——这里是伊桑省城——但房间干净、舒适、物超所值。泰国公众假期期间国内游客会到访，建议提前预订，平日则很容易找到房间。",
-      "gettingAround": "摩托车租赁（150-250泰铢/天；5-8美元）是探索廊开府的必需品，景点分布在212号公路沿线。廊开市区沿河畔步行即可轻松游览。双条车（共享交通）在市内运行，票价10-20泰铢。从乌隆他尼国际机场（南方55公里）出发，巴士80-120泰铢（2.50-4美元），小巴100-150泰铢（3-5美元），车程约1小时。曼谷有夜间火车到廊开火车站。212号公路连接廊开与包括清刊在内的其他湄公河城镇。",
-      "bestTimeToVisit": "11月至2月的凉季是游览廊开的最佳时间，气温宜人（15-28°C），天空晴朗，非常适合骑摩托和探寺。干燥的天气使洞穴探索更加舒适，悬崖寺庙的观景台可以看到湄公河对岸老挝最清晰的景色。雨季（6月至10月）带来郁郁葱葱的绿色景观和湄公河最壮观强劲的水势，但午后阵雨可能影响摩托车出行，洞穴探索也不太明智。热季（3月至5月）在伊桑极其炎热，气温经常超过35°C——不适合户外探寺。工作日来访体验最为宁静，泰国公众假期会吸引国内游客前来河畔区域。",
-      "safetyTips": "廊开极其安全——这是一个宁静的农村省份，针对游客的犯罪几乎不存在。主要安全注意事项与活动本身有关。在Den Ping洞穴，请仔细听从向导指示——洞穴需要爬过狭窄通道，地面可能湿滑。穿结实的鞋子，带一个头灯作为备用。悬崖寺庙有陡峭的台阶和没有安全护栏的露天观景台——靠近边缘时要小心，尤其是雨后岩石变滑时。沿212号公路骑摩托车，路况总体优良，但注意狗、慢行的农用车辆和路肩偶尔出现的碎石。语言沟通在这里是个真实的问题——很少有当地人会说英语，出发前请下载谷歌翻译的泰语离线语言包。湄公河全年水流湍急——切勿下河游泳。注意补水和防晒，尤其是热季伊桑的高温毫不留情。",
-      "translated_at": "2026-03-11T00:00:00.000Z"
-    },
-    "ru": {
-      "enhanced_description": "Провинция Нонгкхай — это место, где приключения на Меконге становятся по-настоящему дикими. Если вы думали, что Чиангкхан — это глушь, то участок трассы 212 в сторону Нонгкхая выводит уединённость на совершенно новый уровень — можно ехать часами, не встретив ни одного туриста. Это глубокий Исан, где почти никто не говорит по-английски, а Google Переводчик становится вашим главным инструментом путешественника. Но то, что вы здесь найдёте — необыкновенно. Храмы цепляются за скалистые обрывы высоко над Меконгом, открывая виды настолько грандиозные, что они кажутся нереальными. Скрытые пещеры уходят глубоко в холмы, доступные только с местными проводниками, освещающими путь через узкие проходы. 20-метровый лежащий Будда, целиком вырезанный из итальянского белого мрамора, сияет на солнце при храме, не взимающем платы за вход. Пейзаж — потрясающее сочетание речных долин, известняковых скал и густого тропического леса. Сам город Нонгкхай стоит прямо на берегу Меконга, а Мост Дружбы перекинут через реку в Вьентьян, столицу Лаоса. Набережные предлагают умиротворяющие прогулки на закате, а местная гастрономическая сцена подаёт аутентичную исанскую кухню по невероятно низким ценам. Это Таиланд в самом подлинном виде — никакой туристической инфраструктуры, никаких меню на английском, просто невероятные впечатления, ждущие тех, кто готов свернуть с проторённых путей.",
-      "overview": "Нонгкхай — очаровательный город на реке Меконг в регионе Исан, служащий главными воротами Таиланда в Лаос через знаменитый Тайско-Лаосский мост Дружбы. Расположенная вдоль трассы 212 — живописной дороги, следующей вдоль Меконга через северо-восток Таиланда — эта провинция предлагает исключительное сочетание природных чудес и культурных сокровищ, почти не открытых международными туристами. Здесь находятся впечатляющие храмы на скалистых обрывах с панорамными видами на Лаос, таинственные пещерные системы, которые исследуют с факелами и местными проводниками, и потрясающий 20-метровый лежащий Будда из итальянского белого мрамора. Для мотоциклистов, путешествующих по маршруту вдоль Меконга, Нонгкхай — идеальное продолжение пути из Чиангкхана, а трасса 212 дарит один захватывающий речной пейзаж за другим.",
-      "thingsToDo": "Провинция Нонгкхай предлагает разнообразные возможности для исследования. Основные достопримечательности включают Ват Пхо Чай (бесплатно) в центре города, Тайско-Лаосский мост Дружбы с пешеходным проходом за 20 бат и живописную набережную Нонгкхая (бесплатно). Природные достопримечательности — храмы на скалах, такие как Ват Кхао Табёрд (бесплатно), пещера Ден Пинг (пожертвование 100 бат за экскурсию с факелами по известняковым проходам) и белый мраморный лежащий Будда в Ват Пха Тхат Нонгкхай (бесплатно). Рынок Садет дарит подлинный культурный опыт без каких-либо затрат. Аренда мотоцикла стоит 150–250 бат/день (5–8 $) и необходима для осмотра достопримечательностей, разбросанных вдоль трассы 212. Большинство активностей бесплатны или стоят менее 100 бат.",
-      "whereToStay": "Размещение в Нонгкхае удивительно доступно и сосредоточено вдоль берега Меконга. Отели у реки начинаются от 700 бат/ночь (20 $) и предлагают прямой вид через Меконг на Лаос — за цену, на которую в Бангкоке вы едва ли получите койку в общежитии. Речной район города Нонгкхай — лучшая база, в шаговой доступности от ресторанов, набережной и транспортных узлов. Для исследования более отдалённых храмов и пещер провинции лучше всего остановиться в городе и совершать однодневные поездки на мотоцикле, так как варианты размещения за городом очень ограничены. Не ожидайте удобств люксового курорта — это провинциальный Исан — но комнаты чистые, комфортные и невероятно выгодные. Бронируйте заранее на тайские праздники, когда приезжают местные туристы, а в обычные дни найти комнату не составит труда.",
-      "gettingAround": "Аренда мотоцикла (150–250 бат/день; 5–8 $) необходима для исследования провинции Нонгкхай, так как достопримечательности разбросаны вдоль трассы 212. По самому городу Нонгкхай легко гулять пешком вдоль набережной. Сонгтэо (маршрутный транспорт) курсируют по городу за 10–20 бат. Из международного аэропорта Удонтхани (55 км к югу) автобусы стоят 80–120 бат (2,50–4 $), минивэны — 100–150 бат (3–5 $), время в пути около часа. Из Бангкока ходят ночные поезда до станции Нонгкхай. Трасса 212 соединяет Нонгкхай с другими городами на Меконге, включая Чиангкхан.",
-      "bestTimeToVisit": "Прохладный сезон с ноября по февраль — идеальное время для посещения Нонгкхая: приятная температура (15–28°C) и ясное небо, прекрасно подходящие для мотопрогулок и осмотра храмов. Сухая погода делает исследование пещер комфортнее, а смотровые площадки храмов на скалах дарят лучшую видимость через Меконг в сторону Лаоса. Сезон дождей (июнь–октябрь) приносит пышные зелёные пейзажи и Меконг в его самом впечатляющем и мощном состоянии, но послеобеденные ливни могут нарушить мотопоездки, а исследование пещер становится менее целесообразным. Жаркий сезон (март–май) в Исане невыносимо знойный с температурой регулярно выше 35°C — не лучшее время для осмотра храмов под открытым небом. Приезжайте в будни для самого спокойного впечатления, так как тайские праздники привлекают местных туристов в прибрежные районы.",
-      "safetyTips": "Нонгкхай крайне безопасен — это тихая сельская провинция, где преступления против туристов практически отсутствуют. Основные соображения безопасности связаны с самими активностями. В пещере Ден Пинг строго следуйте указаниям проводника — пещера включает ползание через узкие проходы, а пол может быть скользким. Наденьте прочную обувь и возьмите запасной налобный фонарик. Храмы на скалах имеют крутые лестницы и открытые смотровые площадки без ограждений — будьте осторожны у краёв, особенно после дождя, когда камни становятся скользкими. При езде на мотоцикле по трассе 212 дорога в целом отличная, но следите за собаками, медленной сельскохозяйственной техникой и участками гравия на обочинах. Языковой барьер здесь реален — очень немногие местные жители говорят по-английски, поэтому загрузите тайский языковой пакет Google Переводчика для офлайн-использования перед поездкой. Меконг имеет сильное течение круглый год — никогда не плавайте в нём. Пейте много воды и пользуйтесь солнцезащитными средствами, особенно в жаркий сезон, когда температуры в Исане беспощадны.",
-      "translated_at": "2026-03-11T00:00:00.000Z"
-    },
-    "ko": {
-      "enhanced_description": "농카이는 태국 동북부 이산 지방의 메콩강변에 자리한 매력적인 도시로, 라오스 비엔티안으로의 주요 관문입니다. 제1 우정의 다리를 통해 메콩강을 건너 라오스로 쉽게 이동할 수 있습니다.\n\n살라깨오꾸(스컬프처 파크)는 농카이의 가장 독특한 명소로, 거대한 불교 및 힌두교 조각상들이 초현실적인 풍경을 만들어냅니다. 왓 파탁수아는 메콩강이 내려다보이는 절벽 위에 자리한 유리 사원으로, 일출 시간의 풍경이 장관입니다.\n\n메콩강변 산책로에서의 일몰은 농카이 방문의 하이라이트입니다. 강 건너 라오스의 풍경을 바라보며 현지 음식을 즐기는 여유로운 시간은 이 도시만의 매력입니다. 매년 10월의 나가 불 축제(방파이 나가)는 메콩강에서 불가사의한 불빛이 솟아오르는 현상으로, 수만 명의 관객이 모여듭니다.",
-      "hidden_gems": [],
-      "authentic_experiences": [],
-      "foodie_adventures": [],
-      "overview": "농카이는 이산 지방 메콩강변의 매력적인 도시로, 우정의 다리를 통해 태국과 라오스를 연결합니다. 스컬프처 파크, 절벽 사원, 메콩강변 산책로가 주요 볼거리입니다.",
-      "thingsToDo": "농카이 지방은 다양한 탐험 거리를 제공합니다. 살라깨오꾸(스컬프처 파크)에서 초현실적 조각 공원을 감상하고, 왓 파탁수아 유리 사원에서 메콩강 전망을 즐기세요. 우정의 다리를 건너 라오스 비엔티안 당일치기도 가능합니다. 10월에는 나가 불 축제를 놓치지 마세요.",
-      "whereToStay": "농카이의 숙소는 매우 저렴하며 메콩강변을 따라 밀집해 있습니다. 강변 게스트하우스에서 라오스가 보이는 풍경과 함께 머물 수 있으며, 예산 여행자에게 최적입니다.",
-      "gettingAround": "오토바이 대여(150-250바트/일, -8)가 농카이 탐험에 필수적입니다. 시내 중심은 도보로 가능하지만, 스컬프처 파크 등 외곽 명소는 오토바이가 편리합니다.",
-      "bestTimeToVisit": "농카이의 최적 방문 시기는 11월부터 2월까지의 건기입니다. 서늘하고 쾌적하며, 10월에는 나가 불 축제를 볼 수 있습니다.",
-      "safetyTips": "농카이는 매우 안전한 도시입니다. 라오스 국경을 건널 때 여권과 비자를 확인하세요. 절벽 사원 방문 시 가파른 계단에 주의하고, 메콩강에서 수영은 위험하므로 피하세요.",
-      "translated_at": "2026-03-14T00:00:00.000Z"
-    }
-  },
-  "extended_description": "## Overview\nNong Khai sits on the southern bank of the Mekong River in northeastern Thailand's Isaan region, staring across the muddy water at Vientiane, the capital of Laos, connected by the iconic Thai-Lao Friendship Bridge. With a population of around 47,000, this languid border town has an atmosphere unlike anywhere else in Thailand — a place where Buddhist mysticism meets Mekong River culture, where bizarre concrete sculptures tower over manicured gardens, and where the legendary Naga fireballs allegedly rise from the river every October during the Ok Phansa festival. Nong Khai's riverside promenade, crumbling French-colonial shophouses, and authentic Isaan food scene make it one of the northeast's most rewarding destinations, yet it sees only a fraction of the tourists who pass through neighboring Udon Thani.\n\n## Best Time to Visit\nNovember through February offers the most comfortable weather, with temperatures between 18-30°C and clear skies perfect for cycling along the Mekong. The Ok Phansa festival in October — marking the end of Buddhist Lent — is Nong Khai's biggest event, featuring illuminated boat processions on the river and the mysterious Naga fireballs (bang fai phaya nak) that locals believe are breathed from the river by a mythical serpent. March through May is brutally hot (35-40°C), making outdoor exploration uncomfortable. The rainy season (June-October) turns the Mekong into a swollen brown torrent and the surrounding countryside a lush green — atmospheric but sometimes soggy.\n\n## How to Get There\nThe most popular route is flying to Udon Thani Airport (55 km south), which receives multiple daily flights from Bangkok on AirAsia, Nok Air, and Thai Smile for 1,000-3,000 THB. From Udon Thani, minibuses and buses to Nong Khai run every 30 minutes (50-80 THB, 1 hour). The overnight train from Bangkok's Krung Thep Aphiwat Central Terminal to Nong Khai departs at 20:00, arriving around 07:45 — first-class sleeper cabins cost 1,300-1,800 THB, second-class sleepers 500-900 THB. Direct buses from Bangkok's Mo Chit Terminal take 10-12 hours (400-600 THB). From Chiang Mai, direct buses take about 12 hours (around 600 THB). The Friendship Bridge border crossing to Vientiane is a 20-minute drive from town center (tuk-tuk 80-100 THB to the bridge, then 20 THB shuttle bus across).\n\n## Where to Stay\nThe Mekong riverside area between the Friendship Bridge and the town center is the most atmospheric neighborhood, with guesthouses offering river-view balconies from 300-600 THB/night. Mut Mee Garden Guest House is the legendary backpacker hub with a shaded riverfront garden, yoga sessions, and dorms from 200 THB or private rooms from 450 THB. Mid-range options along Meechai Road include comfortable air-conditioned hotels from 700-1,500 THB/night. The area around Tha Sadet Market is lively and walkable, perfect for travelers who want to be close to food and shopping. For a splurge, a handful of boutique riverside properties offer pool and river views from 1,800-3,000 THB/night.\n\n## What to Do\nSala Kaew Ku (Sculpture Park) is the unmissable highlight — a surreal 5-hectare garden created by mystic shaman Luang Pu Bunleua Sulilat, filled with enormous concrete statues depicting Hindu and Buddhist mythology, including a 25-meter-tall seated Buddha and a massive Naga serpent. Entry is 20 THB for Thais, 75 THB for foreigners. The Mekong riverside promenade stretches several kilometers and is perfect for sunrise or sunset walks and cycling. Tha Sadet Market, a sprawling Thai-Lao border market, sells everything from Vietnamese coffee to Lao textiles and dried Mekong river weed (a local delicacy). Wat Pho Chai in the town center houses the revered Luang Pho Phra Sai golden Buddha image. For the adventurous, rent a bicycle (50-100 THB/day) and pedal east along the river road past small villages, crumbling stupas, and quiet Mekong stretches that feel timeless.\n\n## Food & Dining\nNong Khai's food scene is pure Isaan with a Mekong twist. Sticky rice (khao niao) is the staple here, eaten with everything. Som tam (papaya salad, 30-50 THB), larb (spicy minced meat salad, 40-60 THB), and gai yang (grilled chicken, 40-80 THB for a half) are the holy trinity of Isaan cuisine and available at every street corner. Mekong river fish — especially pla beuk (giant Mekong catfish) grilled or in tom yam — is a local specialty found at riverside restaurants for 100-200 THB per dish. The Vietnamese-influenced spring rolls (po pia sot) sold at Tha Sadet Market are excellent at 20-30 THB for a bundle. The riverside restaurants west of town center serve cold Beer Lao alongside Thai dishes with Mekong views — budget 150-300 THB per person for a full meal with drinks. The night market near the fountain roundabout has dozens of stalls selling grilled meats, noodle soups, and fresh fruit shakes for 20-40 THB.\n\n## Budget Guide\nNong Khai is extremely affordable. Budget travelers can get by on 500-900 THB/day ($14-25) with guesthouse accommodation, street food, and bicycle rental. Mid-range travelers spending 1,500-2,500 THB/day ($42-70) enjoy comfortable hotels, restaurant meals, and tuk-tuk transport. Sala Kaew Ku entry is just 75 THB, and most temples are free. Renting a bicycle for the day costs 50-100 THB, motorbikes 200-300 THB. The Laos border crossing adds about 1,500-2,000 THB per person for a day trip including visa on arrival (if applicable), transport, and lunch in Vientiane.\n\n## Safety & Tips\nNong Khai is one of the safest towns in Thailand — the laid-back pace and small-town feel make it very welcoming for solo travelers. Do not swim in the Mekong River — strong undercurrents make it extremely dangerous. If crossing to Laos, check visa requirements in advance and bring passport photos for the visa-on-arrival process. The town is very spread out, so renting a bicycle or motorbike is essential for visiting Sala Kaew Ku (5 km east of center) and riverside attractions. The Ok Phansa Naga fireball festival in October is unforgettable but book accommodation weeks ahead as the town fills up. Isaan food is significantly spicier than central Thai food — ask for \"mai pet\" (not spicy) if you have a low tolerance.",
-  "getting_there": {
-    "from_bangkok": {
-      "method": "Fly to Udon Thani + minibus, or overnight train/bus direct",
-      "duration": "1h flight + 1h bus / 11h train / 10-12h bus",
-      "cost": "1,000-3,000 THB flight + 50-80 THB bus / 500-1,800 THB train / 400-600 THB bus"
-    },
-    "airport": "Udon Thani Airport (55 km south), then 1h minibus to Nong Khai (50-80 THB)"
-  },
-  "best_time": {
-    "peak": "Nov-Feb",
-    "shoulder": "Jun-Oct",
-    "low": "Mar-May",
-    "best_months": "Nov-Feb",
-    "why": "Cool and dry Isaan weather. October's Ok Phansa festival brings Naga fireballs and illuminated boat processions on the Mekong."
-  },
-  "budget": {
-    "backpacker": "$14-25/day",
-    "mid_range": "$42-70/day",
-    "luxury": "$70+/day",
-    "typical_meal": "30-60 THB street food, 100-200 THB riverside restaurant"
-  },
-  "neighborhoods": [
-    {
-      "name": "Mekong Riverside / Rim Khong Road",
-      "vibe": "Atmospheric, backpacker-friendly, sunset views",
-      "best_for": "River views, guesthouses, cycling, evening strolls",
-      "price_range": "$6-17/night"
+        "Official tourism guidebook listing",
+        "Near railway station",
+        "Good transport logic"
+      ],
+      "href": "/city/nong-khai/top-10-hotels/",
+      "cta_label": "See the hotel guide"
     },
     {
-      "name": "Town Center / Meechai Road",
-      "vibe": "Commercial, convenient, local Thai life",
-      "best_for": "Shopping, restaurants, mid-range hotels",
-      "price_range": "$20-42/night"
+      "rank": 6,
+      "name": "Vana Wellness Resort Nong Khai",
+      "price_range": "Mid-range",
+      "description": "A calmer stay pattern for travelers who care more about resort-style downtime than about staying directly in the market-and-riverfront core.",
+      "category": "midrange",
+      "area": "Hat Kham side",
+      "highlights": [
+        "Official tourism guidebook listing",
+        "Spa and wellness positioning",
+        "Better for a slower stay"
+      ],
+      "href": "/city/nong-khai/top-10-hotels/",
+      "cta_label": "See the hotel guide"
     }
   ],
-  "must_try_food": [
-    "Mekong river fish - grilled or in tom yam soup, a local specialty at riverside restaurants (100-200 THB)",
-    "Som tam + gai yang + sticky rice - the Isaan holy trinity, found at every street stall (70-130 THB combo)",
-    "Vietnamese spring rolls (po pia sot) - Lao-influenced fresh rolls from Tha Sadet Market (20-30 THB per bundle)"
+  "travel_tips": [
+    "Keep the first day city-first: Tha Sadet, the riverfront, and Wat Pho Chai should come before the long river-road viewpoints.",
+    "If you are crossing into Laos, recheck current bridge, train, and immigration procedures directly before travel day because those details can change.",
+    "Treat Sangkhom-side attractions as one deliberate outing, not as filler between city stops.",
+    "Saturday is the best fit if you specifically want the Nong Khai walking-street version of the riverfront.",
+    "Choose hotels based on whether you want Mekong evenings on foot or a more practical transport base."
   ],
-  "local_tips": [
-    "Rent a bicycle (50-100 THB/day) to explore the riverside — Nong Khai is flat and perfect for cycling",
-    "Sala Kaew Ku is 5 km east of center — too far to walk comfortably, so cycle or take a tuk-tuk (60 THB)",
-    "The Ok Phansa Naga fireball festival in October is unforgettable — book accommodation weeks in advance",
-    "Cross to Vientiane for a Laos day trip — budget 1,500-2,000 THB including visa, transport, and lunch",
-    "Tha Sadet Market is best on weekend mornings for Thai-Lao textiles, dried river weed, and Vietnamese coffee"
+  "best_time_to_visit": {
+    "season": "November to February",
+    "weather": "Cooler mornings, easier city walks, and the strongest conditions for river viewpoints and mist mornings.",
+    "reasons": "This is the easiest season for combining Tha Sadet, Wat Pho Chai, Sala Kaeo Ku, and a Sangkhom-side viewpoint day without fighting midday heat."
+  },
+  "budget_info": {
+    "daily_budget": {
+      "budget": "Budget stays are realistic when you base yourself in town, eat around the riverfront and market side, and keep transport simple.",
+      "mid": "Mid-range spending mostly goes into a better riverfront room, a private car for Sangkhom, or a more polished dinner plan.",
+      "luxury": "Higher spend in Nong Khai comes less from ultra-luxury inventory and more from upgraded transport, better rooms, and convenience-first planning."
+    }
+  },
+  "whereToStay": "For most first trips, the best base is still central Nong Khai near the Mekong side and Tha Sadet. That keeps the riverfront, market, and evening food layer within easy reach. Choose a more transport-oriented hotel near the station only if your stay is mostly about onward rail or road movement rather than city-core walking.",
+  "whereToEat": [
+    {
+      "name": "Daeng Naem Nueng Nong Khai",
+      "cuisine": "Vietnamese",
+      "priceRange": "Budget to mid-range",
+      "description": "The clearest signature Vietnamese meal in the city."
+    },
+    {
+      "name": "Vietnam Cafe Nong Khai",
+      "cuisine": "Vietnamese cafe-style",
+      "priceRange": "Budget",
+      "description": "A lighter breakfast or lunch stop with a clear city-core fit."
+    },
+    {
+      "name": "Huen Hat Kham Restaurant",
+      "cuisine": "Thai and Mekong fish",
+      "priceRange": "Budget to mid-range",
+      "description": "A useful river-linked local meal beyond the obvious famous names."
+    },
+    {
+      "name": "Khong View Pla Chum",
+      "cuisine": "Pla jum and local dinner",
+      "priceRange": "Budget to mid-range",
+      "description": "A stronger Mekong-evening dinner than generic ranking filler."
+    }
   ],
-  "day_trips": [
-    "Vientiane, Laos (20 min across Friendship Bridge) - Laos capital with That Luang stupa, Patuxai arch, and French-colonial streets",
-    "Udon Thani (55 km south) - bigger city with Ban Chiang UNESCO archaeological site and modern shopping malls",
-    "Phu Phra Bat Historical Park (60 km west) - mysterious prehistoric rock formations and ancient Buddhist shrines",
-    "Sangkhom (100 km west along Mekong) - quiet riverside village with Than Thip waterfall and scenic Mekong stretches"
+  "topHotels": [
+    {
+      "name": "Narimkhong Riverview",
+      "category": "midrange",
+      "priceRange": "Mid-range",
+      "area": "Riverfront near Tha Sadet",
+      "description": "A stronger riverfront base for travelers who want the Mekong-side evening pattern on foot."
+    },
+    {
+      "name": "HOP INN Nong Khai",
+      "category": "budget",
+      "priceRange": "Budget",
+      "area": "Nai Mueang",
+      "description": "A predictable chain option for a clean, simple city stay."
+    },
+    {
+      "name": "Mut Mee Garden Guest House",
+      "category": "budget",
+      "priceRange": "Budget to mid-range",
+      "area": "Central Nong Khai",
+      "description": "A long-running guesthouse with more personality than a standard chain room."
+    },
+    {
+      "name": "The Maceo Hotel Nong Khai",
+      "category": "midrange",
+      "priceRange": "Mid-range",
+      "area": "City center",
+      "description": "A practical city-center base near the bridge and market side."
+    },
+    {
+      "name": "Asawann Hotel",
+      "category": "midrange",
+      "priceRange": "Mid-range",
+      "area": "Near Nong Khai Railway Station",
+      "description": "A useful larger-hotel option for transport-led stays."
+    }
   ],
-  "enriched_at": "2026-03-22"
+  "thingsToDo": "Start with Tha Sadet, the Mekong-side walk, and Wat Pho Chai, then use Sala Kaeo Ku as the city's clearest cultural add-on. If you have more time, choose one Sangkhom-side viewpoint morning such as Wat Pha Tak Suea Skywalk or Phu Huai Isan instead of trying to cover every province stop in one sweep.",
+  "gettingAround": "The city core is easiest on foot or by short local rides once you are based near the riverfront side. A car, driver, or deliberate local transport plan becomes more useful once you add the bridge area or Sangkhom-side viewpoints. If your trip depends on rail or border timing, verify the current operator schedule directly rather than relying on old static guides.",
+  "bestTimeToVisit": "November to February is the easiest overall fit for Nong Khai because city walks, river evenings, and Sangkhom-side viewpoints are more comfortable. Saturday is especially useful if you want the walking-street version of the Mekong side. Hot months still work if you plan around mornings and evenings.",
+  "safetyTips": "Nong Khai is generally calm, but riverside and border common sense still matters. Dress respectfully at active temples, do not improvise steep or cliffside viewpoint visits in bad weather, and treat cross-border logistics as something to recheck directly before you travel. If you plan a sunrise run to Phu Huai Isan or a Sangkhom drive, leave enough margin for changing local conditions.",
+  "faq": [
+    {
+      "question": "How many nights do you need in Nong Khai?",
+      "answer": "Two nights is the strongest first trip because it gives you one real city-core day and one window for Sala Kaeo Ku or a Sangkhom-side viewpoint. One night can work, but the city is easier to understand when the Mekong side gets more time."
+    },
+    {
+      "question": "What is the best first attraction in Nong Khai?",
+      "answer": "For most travelers it is the combined Tha Sadet and Wat Pho Chai sequence, because that pair explains Nong Khai as a Mekong city better than starting with a long drive out of town."
+    },
+    {
+      "question": "Is Nong Khai mainly a Laos crossing stop?",
+      "answer": "No. The Friendship Bridge matters, but the stronger trip also gives time to the riverfront, Wat Pho Chai, Sala Kaeo Ku, and the city's Vietnamese and Mekong-linked food layer."
+    },
+    {
+      "question": "Do you need a car in Nong Khai?",
+      "answer": "Not for the city core itself. You mainly need one once you add Sangkhom-side viewpoints or want a more ambitious province circuit."
+    },
+    {
+      "question": "What food should you prioritize in Nong Khai?",
+      "answer": "Keep the Vietnamese and Mekong angles visible: naem nueng, lighter Vietnamese small plates, and at least one local fish or pla jum dinner."
+    }
+  ],
+  "practicalInfo": {
+    "arrival": "Nong Khai is commonly reached by rail and road from Bangkok and other Isaan cities. If your plan depends on current train, bus, or border timings, confirm them directly with the operator before travel day.",
+    "transport": "Walk the city core, then add a car or driver for Sangkhom-side viewpoints or longer province movements.",
+    "planning": "Think in layers: Mekong city core first, Sala Kaeo Ku second, and only one serious outer-city viewpoint block after that."
+  },
+  "contentSources": [
+    {
+      "type": "tourism-office",
+      "title": "Provincial eBook Nong Khai",
+      "creator": "Tourism Authority of Thailand",
+      "url": "https://amazingthailand.com.au/wp-content/uploads/2022/09/Provincial-eBook-Nongkhai_en_Hyperlink_OK.pdf",
+      "description": "Used for Wat Pho Chai, Sala Kaeo Ku, Phrathat La Nong, the First Thai-Lao Friendship Bridge, Wat Hin Mak Peng, Wat Pha Tak Suea Skywalk, Phu Huai Isan, and Tha Sadet background."
+    },
+    {
+      "type": "tourism-office",
+      "title": "Weaving Mekong Guidebook",
+      "creator": "Department of Tourism",
+      "url": "https://fliphtml5.com/kmkzf/Weaving-Mekong_EN/Weaving_Mekong_EN/",
+      "description": "Used for current Nong Khai restaurant and hotel listings, city-route framing, Tha Sadet and walking-street context, train access notes, and current cross-border planning language."
+    },
+    {
+      "type": "tourism-office",
+      "title": "Naka Route Nong Khai - Bueng Kan",
+      "creator": "Tourism Authority of Thailand",
+      "url": "https://tourismproduct.tourismthailand.org/2024/03/21/%E0%B8%A1%E0%B8%B9%E0%B9%83%E0%B8%AB%E0%B9%89%E0%B9%80%E0%B8%AE%E0%B8%87-%E0%B9%80%E0%B8%97%E0%B8%B5%E0%B9%88%E0%B8%A2%E0%B8%A7%E0%B9%83%E0%B8%AB%E0%B9%89-%E0%B8%A3%E0%B8%B1%E0%B8%9A%E0%B8%9E%E0%B8%A5%E0%B8%B1%E0%B8%87%E0%B9%81%E0%B8%9A%E0%B8%9A%E0%B8%A3%E0%B8%B1%E0%B8%81%E0%B8%A9%E0%B9%8C%E0%B9%82%E0%B8%A5%E0%B8%81-naka-route-%E0%B9%80%E0%B8%AA%E0%B9%89%E0%B8%99%E0%B8%97%E0%B8%B2%E0%B8%87%E0%B9%80%E0%B8%8A%E0%B8%B7%E0%B9%88%E0%B8%AD%E0%B8%A1%E0%B9%82%E0%B8%A2%E0%B8%87-%E0%B8%AB%E0%B8%99%E0%B8%AD%E0%B8%87%E0%B8%84%E0%B8%B2%E0%B8%A2-%E0%B8%9A%E0%B8%B6%E0%B8%87%E0%B8%81%E0%B8%B2%E0%B8%AC/",
+      "description": "Used to confirm the current official Nong Khai highlight set including Wat Pho Chai and Sala Kaeo Ku."
+    },
+    {
+      "type": "hotel",
+      "title": "HOP INN Nong Khai",
+      "creator": "HOP INN Thailand",
+      "url": "https://www.hopinnhotel.com/our-hotels/hop-inn-nong-khai",
+      "description": "Used for direct hotel details including current address and room count."
+    },
+    {
+      "type": "hotel",
+      "title": "Mut Mee Garden Guest House",
+      "creator": "Mut Mee Guest House",
+      "url": "https://www.mutmee.com/",
+      "description": "Used for direct guesthouse positioning in central Nong Khai and current property context."
+    },
+    {
+      "type": "hotel",
+      "title": "Narimkhong Riverview",
+      "creator": "Narimkhong Riverview",
+      "url": "https://narimkhongriverview.com/",
+      "description": "Used for direct riverfront hotel positioning near Tha Sadet and Nong Khai walking-street areas."
+    }
+  ],
+  "reviewed_by": "Go2Thailand Editorial Team",
+  "enhanced_at": "2026-03-26T00:00:00.000Z",
+  "factchecked_at": "2026-03-26T00:00:00.000Z",
+  "enrichedAt": "2026-03-26T00:00:00.000Z"
 }

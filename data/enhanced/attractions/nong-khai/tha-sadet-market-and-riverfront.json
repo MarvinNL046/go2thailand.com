@@ -1,0 +1,79 @@
+{
+  "id": 2,
+  "slug": "tha-sadet-market-and-riverfront",
+  "name": {
+    "en": "Tha Sadet Market and Riverfront",
+    "nl": "Tha Sadet-markt en rivierfront"
+  },
+  "type": "market",
+  "city_slug": "nong-khai",
+  "address": "Mekong riverfront, Mueang Nong Khai, Nong Khai, Thailand",
+  "location": null,
+  "opening_hours": "Tha Sadet itself is commonly open daily; the Saturday walking-street format should be rechecked locally before planning around exact hours.",
+  "entrance_fee": {
+    "thb": null,
+    "usd": null
+  },
+  "description": {
+    "en": "The best first walk in Nong Khai, combining the Mekong promenade, market life, and the city's most useful evening rhythm.",
+    "nl": "De beste eerste wandeling in Nong Khai, met de Mekong-promenade, marktsfeer en het nuttigste avondritme van de stad."
+  },
+  "highlights": [
+    "Mekong-side market",
+    "Sunset and walking logic",
+    "Best city-core pacing"
+  ],
+  "image": "/images/cities/generated/nong-khai.webp",
+  "official_website": null,
+  "seo": {
+    "metaTitle": {
+      "en": "Tha Sadet Market and Riverfront | Go2Thailand",
+      "nl": "Tha Sadet-markt en rivierfront | Go2Thailand"
+    },
+    "metaDescription": {
+      "en": "Why Tha Sadet and the Mekong riverfront are the strongest first walk in Nong Khai, especially for market time, food, and sunset pacing.",
+      "nl": "Waarom Tha Sadet en het Mekong-rivierfront de sterkste eerste wandeling in Nong Khai zijn, vooral voor markt, eten en zonsondergang."
+    }
+  },
+  "tags": [
+    "nong khai",
+    "tha sadet",
+    "mekong",
+    "market",
+    "riverfront"
+  ],
+  "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=Tha%20Sadet%20Market%20Nong%20Khai",
+  "best_time": "late afternoon or evening",
+  "duration_hours": 2,
+  "enhanced_description": "Tha Sadet is the place where Nong Khai starts to feel like itself. The market and promenade matter because they hold together the city's Mekong-side movement, food, souvenir and textile shopping, and the easy evening pacing that makes Nong Khai more than a border crossing.\n\nThis is why the city works better when you start here instead of leaving immediately for the province edge. Tha Sadet gives Nong Khai texture: Mekong views, Indochina-trade memory, and a route that can extend naturally into the Saturday walking-street pattern if your timing is right.",
+  "detailed_history": "The provincial Nong Khai e-book still describes Tha Sadet as a market that brings together goods from Laos, Vietnam, and China, while the Weaving Mekong guidebook keeps the wider riverfront walking-street layer central to Nong Khai's Mekong identity.",
+  "visitor_experience": "Expect an easy city-core walk rather than a single attraction with a fixed route. The area is strongest late in the day, when the light drops over the river and the market, promenade, and food stops start to reinforce one another.",
+  "best_time_to_visit": {
+    "time_of_day": "Late afternoon into early evening",
+    "duration": "About 90 to 120 minutes",
+    "crowd_level": "Usually livelier toward sunset and on Saturdays"
+  },
+  "practical_info": {
+    "how_to_get_there": "Easy on foot from many central Mekong-side hotels or by short local ride from elsewhere in town.",
+    "nearby_attractions": "Wat Pho Chai, Phrathat La Nong, the Mekong promenade, and the Saturday walking-street strip.",
+    "food_options": "This is one of the best areas in Nong Khai to combine sightseeing with snacks, dinner, or a slower Mekong-side meal.",
+    "shopping": "Use Tha Sadet for textiles, food products, and riverfront browsing rather than for curated mall-style shopping."
+  },
+  "insider_tips": [
+    "If you only have one evening in Nong Khai, spend it here.",
+    "Saturday is the strongest choice if you want the fuller walking-street version.",
+    "Use the market and riverfront together; separating them weakens the city-core experience."
+  ],
+  "verified_note": "Source-backed summary based on the provincial Nong Khai e-book and the Weaving Mekong guidebook. Current local operating patterns should still be rechecked before planning around exact times.",
+  "cultural_significance": "Tha Sadet matters because it keeps Nong Khai grounded in the Mekong trade-and-riverfront layer that has shaped the city for generations.",
+  "contentSources": [
+    {
+      "name": "Provincial eBook Nong Khai",
+      "url": "https://amazingthailand.com.au/wp-content/uploads/2022/09/Provincial-eBook-Nongkhai_en_Hyperlink_OK.pdf"
+    },
+    {
+      "name": "Weaving Mekong Guidebook",
+      "url": "https://fliphtml5.com/kmkzf/Weaving-Mekong_EN/Weaving_Mekong_EN/"
+    }
+  ]
+}

@@ -1,0 +1,75 @@
+{
+  "id": 1,
+  "slug": "wat-pho-chai",
+  "name": {
+    "en": "Wat Pho Chai",
+    "nl": "Wat Pho Chai"
+  },
+  "type": "temple",
+  "city_slug": "nong-khai",
+  "address": "Pho Chai Road, Mueang Nong Khai, Nong Khai, Thailand",
+  "location": null,
+  "opening_hours": "Daily in daytime; recheck current temple-area access locally",
+  "entrance_fee": {
+    "thb": null,
+    "usd": null
+  },
+  "description": {
+    "en": "The city's strongest sacred stop and the clearest place to understand Nong Khai through the Phra Sai Buddha image.",
+    "nl": "De sterkste heilige stop van de stad en de duidelijkste plek om Nong Khai via het Phra Sai-Boeddhabeeld te begrijpen."
+  },
+  "highlights": [
+    "Phra Sai Buddha image",
+    "Main city temple",
+    "Best in-town sacred layer"
+  ],
+  "image": "/images/cities/generated/nong-khai.webp",
+  "official_website": null,
+  "seo": {
+    "metaTitle": {
+      "en": "Wat Pho Chai | Go2Thailand",
+      "nl": "Wat Pho Chai | Go2Thailand"
+    },
+    "metaDescription": {
+      "en": "Why Wat Pho Chai is the strongest in-town temple stop in Nong Khai and how it anchors the city around the Phra Sai tradition.",
+      "nl": "Waarom Wat Pho Chai de sterkste tempelstop in Nong Khai is en hoe de tempel de stad rond de Phra Sai-traditie verankert."
+    }
+  },
+  "tags": [
+    "nong khai",
+    "wat pho chai",
+    "temple",
+    "mekong",
+    "isaan"
+  ],
+  "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=Wat%20Pho%20Chai%20Nong%20Khai",
+  "best_time": "morning or late afternoon",
+  "duration_hours": 1.5,
+  "enhanced_description": "Wat Pho Chai is the place that gives Nong Khai its sacred center of gravity. The temple matters not because it is the biggest stop in the province, but because the city itself becomes easier to read once you understand the role of Phra Sai, the Buddha image that the provincial e-book still treats as Nong Khai's symbol.\n\nThat makes Wat Pho Chai the strongest first temple in town. It works best as part of a city-core sequence with Tha Sadet and the Mekong side, not as a rushed photo stop on the way to something farther out.",
+  "detailed_history": "The provincial Nong Khai e-book still describes Wat Pho Chai as a royal temple and the home of Phra Sai, linking it directly to Nong Khai's symbolic identity and to the older Lan Xang story of the Phra Soem, Phra Suk, and Phra Sai Buddha images.",
+  "visitor_experience": "Expect a working temple first and a sightseeing stop second. The visit is stronger when you move calmly, dress respectfully, and give the temple enough time to register as the city's main sacred layer rather than just another stop on a border-town route.",
+  "best_time_to_visit": {
+    "time_of_day": "Morning or late afternoon",
+    "duration": "About 60 to 90 minutes",
+    "crowd_level": "Usually easier outside the hottest midday window"
+  },
+  "practical_info": {
+    "how_to_get_there": "Reached easily from the Mekong-side center by short local ride or combined city walk.",
+    "nearby_attractions": "Tha Sadet Market, the Mekong riverfront, and other central Nong Khai landmarks.",
+    "food_options": "Use the city core and riverfront side for meals before or after the temple.",
+    "shopping": "Tha Sadet is the more useful nearby market layer."
+  },
+  "insider_tips": [
+    "Do this before or after the riverfront walk, not as a separate half-day.",
+    "Treat the temple as a real sacred stop instead of a quick box-tick.",
+    "Recheck any festival-day plans locally because ceremonial timing can change."
+  ],
+  "verified_note": "Source-backed summary based on the provincial Nong Khai e-book. Current local access details should still be rechecked before visiting.",
+  "cultural_significance": "Wat Pho Chai remains the clearest single site for understanding Nong Khai's religious identity because it centers the city on the Phra Sai tradition rather than on border logistics alone.",
+  "contentSources": [
+    {
+      "name": "Provincial eBook Nong Khai",
+      "url": "https://amazingthailand.com.au/wp-content/uploads/2022/09/Provincial-eBook-Nongkhai_en_Hyperlink_OK.pdf"
+    }
+  ]
+}
