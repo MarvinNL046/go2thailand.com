@@ -46,8 +46,8 @@
     },
     {
       "slug": "chiang-rai",
-      "status": "pending",
-      "notes": ""
+      "status": "done",
+      "notes": "English city cluster rebuilt with source-backed temple-and-day-trip framing, curated attraction/food/hotel data, refreshed attractions index and editorial, and validated with jq, tsc, and localhost render checks."
     },
     {
       "slug": "chumphon",

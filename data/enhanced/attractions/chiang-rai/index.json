@@ -1,7 +1,7 @@
 {
   "city_slug": "chiang-rai",
   "city_name": "Chiang Rai",
-  "total_attractions": 10,
+  "total_attractions": 7,
   "attractions": [
     {
       "id": 1,
@@ -13,17 +13,17 @@
       "type": "temple",
       "image": "/images/cities/chiang-rai/attractions/Chiang rai White Temple (Wat Rong Khun).webp",
       "description": {
-        "en": "Stunning contemporary white temple with intricate mirror work and modern Buddhist art",
-        "nl": "Prachtige hedendaagse witte tempel met ingewikkeld spiegelwerk en moderne boeddhistische kunst"
+        "en": "Chiang Rai's defining contemporary temple landmark and the anchor of the city's modern art circuit.",
+        "nl": "Het bepalende moderne tempellandmerk van Chiang Rai en het anker van de hedendaagse kunstroute van de stad."
       },
       "entrance_fee": {
         "thb": 100,
         "usd": 3
       },
       "highlights": [
-        "Contemporary design",
-        "Mirror work",
-        "Modern Buddhist art"
+        "Contemporary Buddhist art",
+        "Signature Chiang Rai landmark",
+        "Best visited early"
       ],
       "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=White%20Temple%20(Wat%20Rong%20Khun)%20Chiang%20Rai%20Thailand"
     },
@@ -37,70 +37,46 @@
       "type": "temple",
       "image": "/images/cities/chiang-rai/attractions/Chiang rai Blue Temple (Wat Rong Suea Ten).webp",
       "description": {
-        "en": "Magnificent blue temple with golden Buddha statue and intricate blue and gold decorations",
-        "nl": "Prachtige blauwe tempel met gouden Boeddhabeeld en ingewikkelde blauwe en gouden decoraties"
+        "en": "A visually striking blue-and-gold temple that pairs naturally with Chiang Rai's other city-area stops.",
+        "nl": "Een opvallende blauw-gouden tempel die goed samengaat met andere stadsstops in Chiang Rai."
       },
       "entrance_fee": {
         "thb": 0,
         "usd": 0
       },
       "highlights": [
-        "Blue and gold design",
-        "Golden Buddha",
-        "Intricate decorations"
+        "Blue-and-gold design",
+        "Easy city routing",
+        "Strong companion stop"
       ],
       "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=Blue%20Temple%20(Wat%20Rong%20Suea%20Ten)%20Chiang%20Rai%20Thailand"
     },
     {
       "id": 3,
-      "slug": "golden-triangle",
+      "slug": "black-house",
       "name": {
-        "en": "Golden Triangle",
-        "nl": "Gouden Driehoek"
+        "en": "Black House (Baan Dam Museum)",
+        "nl": "Zwart Huis (Baan Dam Museum)"
       },
-      "type": "historic",
-      "image": "/images/cities/chiang-rai/attractions/goldentriangle.webp",
+      "type": "museum",
+      "image": "/images/cities/chiang-rai/attractions/Black House (Baan Dam Museum).webp",
       "description": {
-        "en": "Historic confluence of Thailand Laos and Myanmar rivers with opium museum",
-        "nl": "Historische samenvloeiing van Thailand Laos en Myanmar rivieren met opium museum"
+        "en": "A darker art compound that gives Chiang Rai's temple circuit a more provocative museum-style contrast.",
+        "nl": "Een donkerder kunstcomplex dat de tempelroute van Chiang Rai een prikkelender museumcontrast geeft."
       },
       "entrance_fee": {
-        "thb": 0,
-        "usd": 0
+        "thb": 80,
+        "usd": 2
       },
       "highlights": [
-        "Three countries meeting",
-        "Mekong River",
-        "Opium history"
+        "Art-compound format",
+        "Best contrast to the temples",
+        "Good for travelers who want depth"
       ],
-      "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=Golden%20Triangle%20Chiang%20Rai%20Thailand"
+      "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=Black%20House%20(Baan%20Dam%20Museum)%20Chiang%20Rai%20Thailand"
     },
     {
       "id": 4,
-      "slug": "chiang-rai-night-bazaar",
-      "name": {
-        "en": "Chiang Rai Night Bazaar",
-        "nl": "Chiang Rai Nachtbazaar"
-      },
-      "type": "market",
-      "image": "/images/cities/chiang-rai/attractions/chiang rai Night Bazaar.webp",
-      "description": {
-        "en": "Local night market with handicrafts street food and cultural performances",
-        "nl": "Lokale nachtmarkt met handwerk straatvoedsel en culturele optredens"
-      },
-      "entrance_fee": {
-        "thb": 0,
-        "usd": 0
-      },
-      "highlights": [
-        "Local handicrafts",
-        "Street food",
-        "Cultural performances"
-      ],
-      "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=Chiang%20Rai%20Night%20Bazaar%20Chiang%20Rai%20Thailand"
-    },
-    {
-      "id": 5,
       "slug": "wat-phra-kaew",
       "name": {
         "en": "Wat Phra Kaew Chiang Rai",
@@ -109,8 +85,8 @@
       "type": "temple",
       "image": "/images/cities/chiang-rai/attractions/Wat Phra Kaew Chiang Rai.webp",
       "description": {
-        "en": "Historic temple where the famous Emerald Buddha was discovered",
-        "nl": "Historische tempel waar de beroemde Smaragd Boeddha werd ontdekt"
+        "en": "A calmer historical temple in central Chiang Rai with Emerald Buddha history and stronger old-city context.",
+        "nl": "Een rustiger historische tempel in het centrum van Chiang Rai met Smaragd-Boeddha geschiedenis en sterkere oudestadcontext."
       },
       "entrance_fee": {
         "thb": 0,
@@ -118,34 +94,58 @@
       },
       "highlights": [
         "Emerald Buddha history",
-        "Lanna architecture",
-        "Historic temple"
+        "Old-city temple atmosphere",
+        "Easy central stop"
       ],
-      "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=Wat%20Phra%20Kaew%20Chiang%20Rai%20Chiang%20Rai%20Thailand"
+      "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=Wat%20Phra%20Kaew%20Chiang%20Rai%20Thailand"
+    },
+    {
+      "id": 5,
+      "slug": "chiang-rai-night-bazaar",
+      "name": {
+        "en": "Chiang Rai Night Bazaar",
+        "nl": "Chiang Rai Nachtbazaar"
+      },
+      "type": "market",
+      "image": "/images/cities/chiang-rai/attractions/chiang rai Night Bazaar.webp",
+      "description": {
+        "en": "The city's most useful evening stop for food, market atmosphere, and light shopping in the old center.",
+        "nl": "De nuttigste avondstop van de stad voor eten, marktsfeer en licht winkelen in het oude centrum."
+      },
+      "entrance_fee": {
+        "thb": 0,
+        "usd": 0
+      },
+      "highlights": [
+        "Best easy evening plan",
+        "Food and handicrafts",
+        "Supports central stays"
+      ],
+      "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=Chiang%20Rai%20Night%20Bazaar%20Thailand"
     },
     {
       "id": 6,
-      "slug": "mae-fah-luang-garden",
+      "slug": "golden-triangle",
       "name": {
-        "en": "Mae Fah Luang Art and Culture Park",
-        "nl": "Mae Fah Luang Kunst en Cultuur Park"
+        "en": "Golden Triangle",
+        "nl": "Gouden Driehoek"
       },
-      "type": "garden",
-      "image": "/images/cities/chiang-rai/attractions/Mae Fah Luang Art and Culture Park.webp",
+      "type": "historic",
+      "image": "/images/cities/chiang-rai/attractions/goldentriangle.webp",
       "description": {
-        "en": "Beautiful botanical garden with Lanna architecture and cultural exhibitions",
-        "nl": "Prachtige botanische tuin met Lanna architectuur en culturele tentoonstellingen"
+        "en": "A worthwhile northern excursion for Mekong-border geography, three-country views, and opium-history context.",
+        "nl": "Een waardevolle noordelijke excursie voor Mekong-grensgeografie, uitzichten op drie landen en historische opiumcontext."
       },
       "entrance_fee": {
-        "thb": 90,
-        "usd": 3
+        "thb": 0,
+        "usd": 0
       },
       "highlights": [
-        "Botanical gardens",
-        "Lanna architecture",
-        "Cultural exhibitions"
+        "Three-country geography",
+        "Mekong setting",
+        "Good border-history stop"
       ],
-      "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=Mae%20Fah%20Luang%20Art%20and%20Culture%20Park%20Chiang%20Rai%20Thailand"
+      "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=Golden%20Triangle%20Chiang%20Rai%20Thailand"
     },
     {
       "id": 7,
@@ -157,93 +157,21 @@
       "type": "palace",
       "image": "/images/cities/chiang-rai/attractions/Doi Tung Royal Villa.webp",
       "description": {
-        "en": "Former residence of Princess Mother with beautiful gardens and mountain views",
-        "nl": "Voormalige residentie van Prinses Moeder met prachtige tuinen en bergzicht"
+        "en": "A mountain royal-villa and garden outing that adds a cooler, greener side to a Chiang Rai stay.",
+        "nl": "Een berguitstap naar een koninklijke villa en tuin die een koelere, groenere kant aan een verblijf in Chiang Rai toevoegt."
       },
       "entrance_fee": {
         "thb": 90,
         "usd": 3
       },
       "highlights": [
-        "Royal residence",
-        "Mountain views",
-        "Beautiful gardens"
+        "Royal-villa and garden setting",
+        "Cooler mountain atmosphere",
+        "Strong one-day outing"
       ],
       "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=Doi%20Tung%20Royal%20Villa%20Chiang%20Rai%20Thailand"
-    },
-    {
-      "id": 8,
-      "slug": "singha-park",
-      "name": {
-        "en": "Singha Park",
-        "nl": "Singha Park"
-      },
-      "type": "nature",
-      "image": "/images/cities/chiang-rai/attractions/chian rai Singha Park.webp",
-      "description": {
-        "en": "Large agricultural park with tea plantations balloon rides and outdoor activities",
-        "nl": "Groot landbouwpark met theeplantages ballonvaarten en buitenactiviteiten"
-      },
-      "entrance_fee": {
-        "thb": 0,
-        "usd": 0
-      },
-      "highlights": [
-        "Tea plantations",
-        "Hot air balloons",
-        "Outdoor activities"
-      ],
-      "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=Singha%20Park%20Chiang%20Rai%20Thailand"
-    },
-    {
-      "id": 9,
-      "slug": "black-house",
-      "name": {
-        "en": "Black House (Baan Dam Museum)",
-        "nl": "Zwart Huis (Baan Dam Museum)"
-      },
-      "type": "museum",
-      "image": "/images/cities/chiang-rai/attractions/Black House (Baan Dam Museum).webp",
-      "description": {
-        "en": "Unique dark art museum showcasing unconventional art and architecture",
-        "nl": "Uniek donker kunst museum met onconventionele kunst en architectuur"
-      },
-      "entrance_fee": {
-        "thb": 80,
-        "usd": 2
-      },
-      "highlights": [
-        "Dark art museum",
-        "Unconventional architecture",
-        "Artistic collection"
-      ],
-      "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=Black%20House%20(Baan%20Dam%20Museum)%20Chiang%20Rai%20Thailand"
-    },
-    {
-      "id": 10,
-      "slug": "hill-tribe-villages",
-      "name": {
-        "en": "Hill Tribe Villages",
-        "nl": "Bergstam Dorpen"
-      },
-      "type": "cultural",
-      "image": "/images/cities/chiang-rai/attractions/hill-tribes-experience.webp",
-      "description": {
-        "en": "Cultural tours to authentic hill tribe villages experiencing traditional lifestyles",
-        "nl": "Culturele tours naar authentieke bergstam dorpen met traditionele levensstijlen"
-      },
-      "entrance_fee": {
-        "thb": 500,
-        "usd": 15
-      },
-      "highlights": [
-        "Hill tribe culture",
-        "Traditional lifestyles",
-        "Cultural immersion"
-      ],
-      "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=Hill%20Tribe%20Villages%20Chiang%20Rai%20Thailand"
     }
   ],
-  "enhanced_at": "2025-05-25T22:45:28.215Z",
-  "enhanced_count": 10
+  "enhanced_at": "2026-03-26T00:00:00.000Z",
+  "enhanced_count": 7
 }
