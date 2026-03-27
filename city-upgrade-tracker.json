@@ -156,8 +156,8 @@
     },
     {
       "slug": "surat-thani",
-      "status": "pending",
-      "notes": ""
+      "status": "done",
+      "notes": "English city cluster rebuilt around Talat Lang, the city-market food layer, Bang Bai Mai, and one deliberate Chaiya-side heritage extension; weak ferry and province spillover pages removed; validated with jq, tsc, and localhost render checks."
     },
     {
       "slug": "trang",

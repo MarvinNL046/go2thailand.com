@@ -10,13 +10,13 @@
     "de": "Surat Thani",
     "fr": "Surat Thani",
     "ru": "Surat Thani",
-    "zh": "Surat Thani"
+    "zh": "素叻他尼"
   },
   "region": "Southern",
   "province": "Surat Thani",
   "description": {
-    "en": "Transport hub to islands like Koh Samui, Koh Phangan, and Koh Tao.",
-    "nl": "Vervoersknooppunt naar eilanden als Koh Samui, Koh Phangan en Koh Tao.",
+    "en": "Surat Thani works best as a real southern river city with an old-town core, market culture, and a few smart mainland extensions, not just as a ferry handoff to the Gulf islands.",
+    "nl": "Surat Thani werkt het best als een echte zuidelijke rivierstad met een old-townkern, marktleven en een paar slimme mainland-extensies, niet alleen als overstappunt naar de Golf-eilanden.",
     "ja": "サムイ島、パンガン島、タオ島など人気の島々へのフェリー拠点となる交通の要所です。",
     "ko": "코사무이, 코팡안, 코타오 등 인기 섬들로 가는 교통 허브입니다.",
     "th": "เมืองคนดี ประตูสู่เกาะสมุย เกาะพะงัน และเกาะเต่า มีอาหารใต้แท้ๆ",
@@ -26,10 +26,15 @@
     "zh": "前往苏梅岛、帕岸岛和涛岛等岛屿的交通枢纽。"
   },
   "population": 132000,
+  "population_label": "City-scale reference",
+  "population_note": "Use this as a broad urban reference point rather than a live municipal total.",
   "highlights": [
-    "Koh Samui Pier",
+    "Talat Lang and the 100-Year Arch Bridge",
     "Surat Thani City Pillar Shrine",
-    "Tapee River"
+    "Talad San Chao and the night-market layer",
+    "Bang Bai Mai and Khlong Roi Sai",
+    "Wat Phra Borommathat Chaiya",
+    "Pum Riang and Laem Pho"
   ],
   "location": {
     "lat": 9.14,
@@ -38,8 +43,8 @@
   "image": "/images/cities/generated/surat-thani.webp",
   "seo": {
     "metaTitle": {
-      "en": "Discover Surat Thani | What to do in Surat Thani?",
-      "nl": "Ontdek Surat Thani | Wat te doen in Surat Thani?",
+      "en": "Surat Thani Thailand Guide 2026 | Old Town, Food, Hotels",
+      "nl": "Surat Thani gids 2026 | Old town, eten en hotels",
       "ja": "スラーターニーを満喫 | スラーターニーの観光・見どころガイド",
       "ko": "수랏타니 태국 — 섬 여행 관문 가이드 2026",
       "th": "สุราษฎร์ธานี ประเทศไทย — คู่มือท่องเที่ยวฉบับสมบูรณ์ 2026",
@@ -49,8 +54,8 @@
       "zh": "发现素叻他尼 | 在素叻他尼可以做什么？"
     },
     "metaDescription": {
-      "en": "Your guide to Surat Thani, Thailand – tips, highlights, food, hotels.",
-      "nl": "Jouw gids voor Surat Thani, Thailand – tips, highlights, eten, hotels.",
+      "en": "Plan Surat Thani around the old town, southern food, Bang Bai Mai, Wat Phra Borommathat Chaiya, and practical city stays instead of treating it as a pure ferry stop.",
+      "nl": "Plan Surat Thani rond de old town, zuidelijk eten, Bang Bai Mai, Wat Phra Borommathat Chaiya en praktische city stays in plaats van alleen als ferry-overstap.",
       "ja": "タイ・スラーターニーの旅行ガイド — おすすめスポット、グルメ、ホテル情報をご紹介。",
       "ko": "수랏타니(태국) 완벽 여행 가이드: 코사무이·코팡안·코타오 페리, 카오속 국립공원. 가격, 팁, 가는 법.",
       "th": "คู่มือท่องเที่ยวสุราษฎร์ธานี ประเทศไทย — สถานที่ท่องเที่ยว อาหาร ที่พัก และเคล็ดลับ อัปเดต 2026",
@@ -62,15 +67,15 @@
   },
   "categories": {
     "food": {
-      "en": "Best restaurants and street food in Surat Thani",
-      "nl": "Beste restaurants en streetfood in Surat Thani",
+      "en": "Best restaurants and southern Thai food in Surat Thani",
+      "nl": "Beste restaurants en zuidelijk Thais eten in Surat Thani",
       "ja": "スラーターニーのおすすめレストラン＆ストリートフード",
       "ko": "수랏타니 추천 레스토랑과 길거리 음식",
       "th": "ร้านอาหารและสตรีทฟู้ดที่ดีที่สุดในสุราษฎร์ธานี"
     },
     "hotels": {
-      "en": "Top hotels in Surat Thani | Tips & deals",
-      "nl": "Beste hotels in Surat Thani | Tips & aanbiedingen",
+      "en": "Top hotels in Surat Thani | Practical city stays",
+      "nl": "Beste hotels in Surat Thani | Praktische city stays",
       "ja": "スラーターニーのおすすめホテル｜お得な情報＆アドバイス",
       "ko": "수랏타니 추천 호텔 | 팁 & 특가",
       "th": "โรงแรมแนะนำในสุราษฎร์ธานี | เคล็ดลับและดีล"
@@ -85,966 +90,619 @@
   },
   "tags": [
     "southern",
-    "surat thani",
-    "thailand",
-    "travel",
-    "tourism",
-    "guide"
+    "surat-thani",
+    "old-town",
+    "markets",
+    "bang-bai-mai",
+    "chaiya",
+    "thailand"
   ],
-  "enhanced_description": "Surat Thani, often seen as a mere transit point to the stunning islands of Koh Samui, Koh Phangan, and Koh Tao, is a vibrant city that pulses with life and culture. As I stepped off the bus from Bangkok, the air was thick with the scent of grilled meats mingling with the sweet aroma of fresh tropical fruits, a tantalizing welcome that hinted at the culinary adventures to come. The bustling Tapee River, lined with local vendors and fishing boats, serves as the heart of the city, where the rhythmic sounds of the water echo the daily lives of the people. Unlike the polished tourist spots of Thailand, Surat Thani retains an authenticity that is hard to find elsewhere. One of my favorite memories is wandering through the local night market, where I stumbled upon a small stall selling grilled squid, the vendor's smile as warm as the fire he cooked over. I struck up a conversation, and he shared tales of his fishing trips, his hands gesturing animatedly as he described the sea's bounty. It’s these interactions that make Surat Thani special; the connections forged with locals who share their stories willingly. The city is often overshadowed by its more famous neighbors, but it offers a glimpse into the everyday life of southern Thailand. Here, mornings start with the sounds of roosters crowing and the smell of fresh jasmine rice being prepared. The City Pillar Shrine, with its intricate design and spiritual significance, is a must-visit, not just for the stunning architecture but for the sense of peace it brings amidst the city's hustle. As the sun sets, the river glows with the reflection of lanterns, and you can feel the heartbeat of Surat Thani as locals gather to enjoy the cooling evening breeze. There’s a rhythm to life here, one that invites you to slow down and immerse yourself in the local culture. Whether you’re exploring the bustling markets, savoring street food, or simply sitting by the river watching life unfold, Surat Thani is a treasure trove of experiences waiting to be discovered. It’s not just a stopover; it’s a destination that will leave a mark on your heart, urging you to return for more.",
+  "enhanced_description": "Surat Thani gets weaker when everything is written as if the city only exists to move people onward to Samui, Phangan, Tao, Khao Sok, or Cheow Lan. The stronger version starts in town: Talat Lang, the Na Dan community, the 100-Year Arch Bridge, the city-pillar and riverside temple layer, and the market rhythm that still gives the mainland city its own character.\n\nFrom there the route becomes much clearer. MICHELIN's current city guide leans on the old-town streets, the heritage-building layer, and nearby local restaurants rather than on generic ferry copy. TAT's current Surat Thani community coverage does the same on the mainland side, especially in Bang Bai Mai and Khlong Roi Sai, where the canal-life and craft angle make a much better day than padding the plan with weak transport filler.\n\nThat is the version worth publishing. Surat Thani is still useful for islands and longer southern routes, but the city earns its own stay once you structure it around the old town, market food, one Bang Bai Mai community block, and one serious Chaiya-side heritage extension.",
+  "overview": "The best first read of Surat Thani is urban and mainland-first. MICHELIN's current city guide treats Talat Lang, the Na Dan community, old shophouse streets, street art, and the 100-Year Arch Bridge as the city's core identity layer, which is more useful than defaulting immediately to ferry terminals or far-west national-park copy.\n\nThe second layer is food. Surat Thani has a stronger restaurant bench than its old generic pages ever suggested: deep-fried dough at Lian Tai, old-market dumplings at Khao Kriab Pak Mor, barbecue-pork rice at Heng Khao Moo Daeng, and a set of serious southern kitchens that MICHELIN still tracks across the city and mainland belt. That matters because the city is easier to understand when food and streets are planned together.\n\nAfter the center, the best extension is Bang Bai Mai and Khlong Roi Sai if you want a calmer mainland community route, or Wat Phra Borommathat Chaiya if history is the priority. Pum Riang and Laem Pho make sense as a textile-and-seafood add-on after that. Surat Thani improves when you stop trying to cover every provincial classic in one pass and instead keep the city, one canal community, and one Chaiya-side heritage block in balance.",
   "hidden_gems": [
     {
-      "name": "Khao Sok National Park",
-      "story": "I remember my first visit to Khao Sok; it was a spontaneous decision after chatting with a local at the market who insisted I needed to see its beauty. The lush jungle, towering limestone cliffs, and serene lakes took my breath away. On a guided canoe trip, I spotted wild elephants drinking from the river, a sight that still feels surreal.",
-      "how_to_find": "Take a minivan from Surat Thani city center; it’s about a 2-hour drive. Ask for Khao Sok National Park, and don’t forget to grab snacks for the journey!",
-      "best_time": "Visit early in the morning to catch the mist rising over the lake, or during the rainy season when the waterfalls are at their most spectacular.",
+      "name": "Talat San Chao and the riverside market layer",
+      "story": "The market zone works because it is tied to the old city rather than staged as a standalone tourist event. MICHELIN still uses Na San Jao market as a live food reference point, and the area makes more sense folded into an evening walk than treated as a checklist stop.",
+      "how_to_find": "Use it after Talat Lang and the 100-Year Arch Bridge, then keep dinner nearby instead of crossing town again.",
+      "best_time": "Late afternoon into evening",
       "local_insights": [
-        "Bring a local guide for the best trails and wildlife spotting tips.",
-        "Respect the environment; don’t feed the animals."
+        "The older part of the city reads best on foot.",
+        "This is one of the easiest places to connect street food with the heritage streets."
       ]
     },
     {
-      "name": "Ratchaprapha Dam",
-      "story": "I spent a magical day at Ratchaprapha Dam, where I joined a group of locals for a picnic by the water. We shared homemade dishes, and I learned how to make khao niew mamuang (mango sticky rice) with a local auntie. The dam's turquoise waters against the backdrop of mountains was a sight I’ll never forget.",
-      "how_to_find": "Head to the dam from Surat Thani; you can rent a motorbike or take a local bus. Look for signs pointing to the dam, and keep your eyes peeled for the stunning views.",
-      "best_time": "Go in the late afternoon for stunning sunset views over the water.",
+      "name": "Bang Bai Mai community route",
+      "story": "TAT's current Surat Thani community coverage gives Bang Bai Mai more substance than the old ferry-heavy city copy ever did. The value is not one single landmark but the canal, Wat Bang Bai Mai, the floating-market side, and the older riverside lifestyle preserved in Khlong Roi Sai.",
+      "how_to_find": "Treat it as one dedicated half-day from town instead of a rushed photo stop.",
+      "best_time": "Morning or a calmer late-afternoon slot",
       "local_insights": [
-        "Bring food to share; it's a great way to connect with locals.",
-        "Don’t forget your camera for the breathtaking scenery."
+        "Sunday is the best fit if the community market matters to your plan.",
+        "This works much better than stacking several unrelated province detours into the same day."
       ]
     }
   ],
   "authentic_experiences": [
     {
-      "activity": "Join a local fishing trip",
-      "story": "I spent a morning fishing with a local family who invited me to join their traditional long-tail boat trip. The camaraderie on the boat, the laughter, and the thrill of catching our dinner made for an unforgettable experience.",
-      "cultural_significance": "Fishing is more than just a livelihood here; it's a way for families to bond and share stories.",
-      "how_to_participate": "Ask around at the local markets; many fishermen are open to sharing their boats with visitors for a small fee.",
+      "activity": "Read the city through Talat Lang before leaving town",
+      "story": "Talat Lang, the Na Dan community, and the 100-Year Arch Bridge are the cleanest way to understand why Surat Thani is more than a logistics stop.",
+      "cultural_significance": "MICHELIN's current Surat Thani guide uses this block for the city's historical architecture, street-art alleys, and older community texture.",
+      "how_to_participate": "Walk the old-town streets first, then let food stops fall naturally into the route.",
       "insights": [
-        "Be respectful of their space and traditions; offer to help with the catch."
-      ]
+        "This should be the first half-day, not the leftover slot.",
+        "The city becomes much easier to plan once this layer is done first."
+      ],
+      "href": "/city/surat-thani/attractions/surat-thani-old-town-and-100-year-arch-bridge/",
+      "cta_label": "See the old-town guide"
     },
     {
-      "activity": "Participate in a local festival",
-      "story": "I was fortunate to be in Surat Thani for the annual Chao Mae Kuan Im Festival. The streets were alive with music, dance, and colorful processions, and I was swept up in the joy of the celebrations.",
-      "cultural_significance": "Festivals here are a vibrant expression of community and spirituality.",
-      "how_to_participate": "Check local event calendars; locals are usually happy to share details about upcoming festivals.",
+      "activity": "Use Bang Bai Mai as the main mainland community day",
+      "story": "Bang Bai Mai holds together because TAT's current English feature already links Wat Bang Bai Mai, the floating market, crafts, and Khlong Roi Sai into one coherent community route.",
+      "cultural_significance": "The community still preserves an older canal-based lifestyle and local coconut, craft, and market traditions that give Surat Thani a real mainland identity.",
+      "how_to_participate": "Go with enough time for the canal section and avoid reducing it to a drive-by temple stop.",
       "insights": [
-        "Dress modestly and participate respectfully; it’s a time for the community to come together."
-      ]
+        "This is the strongest softer-nature extension from the city.",
+        "It is better than using Surat Thani only as a transport handoff."
+      ],
+      "href": "/city/surat-thani/attractions/bang-bai-mai-and-khlong-roi-sai/",
+      "cta_label": "See the Bang Bai Mai guide"
+    },
+    {
+      "activity": "Keep one serious Chaiya heritage block",
+      "story": "Wat Phra Borommathat Chaiya is the extension that actually deepens the trip because both MICHELIN and TAT still treat it as one of southern Thailand's important sacred sites.",
+      "cultural_significance": "The Srivijaya-period temple is one of the province's clearest historical anchors and a much stronger extension than generic transport-side filler.",
+      "how_to_participate": "Use it as a deliberate half-day, ideally without packing too many other district stops around it.",
+      "insights": [
+        "This is the best heritage counterweight to the old-town walk.",
+        "Do not bury it inside an overbuilt province loop."
+      ],
+      "href": "/city/surat-thani/attractions/wat-phra-borommathat-chaiya/",
+      "cta_label": "See the Chaiya guide"
+    },
+    {
+      "activity": "Plan food around MICHELIN-backed breakfast and lunch stops",
+      "story": "Surat Thani's strongest city food is not generic cafe filler. Lian Tai, Khao Kriab Pak Mor, Heng Khao Moo Daeng, and the southern-cuisine names around town still give the city a clear food identity.",
+      "cultural_significance": "These restaurants reflect the city's Thai-Chinese breakfast layer, market food, and serious southern mainland cooking.",
+      "how_to_participate": "Use one breakfast-style stop, one market or noodle stop, and one full southern dinner rather than collecting random restaurant names.",
+      "insights": [
+        "The trip gets stronger once food becomes part of the route structure.",
+        "MICHELIN is a far better filter here than scrape rankings."
+      ],
+      "href": "/city/surat-thani/top-10-restaurants/",
+      "cta_label": "See the food guide"
     }
   ],
   "foodie_adventures": [
     {
-      "dish": "Khao Soi",
-      "location": "Head to Khao Soi Khun Yai near the city center.",
-      "story": "The first time I tasted Khao Soi, I was blown away by the creamy coconut curry broth and crispy noodles. The owner, an elderly lady, shared her family's recipe with me, and I felt like I was tasting a piece of her history.",
-      "price_range": "50-70 baht per bowl.",
+      "dish": "Patongo and the breakfast-small-eats layer",
+      "location": "Lian Tai",
+      "story": "MICHELIN's 2025 Surat Thani coverage still treats Lian Tai as the legendary patongo stop, which is useful because it keeps the city grounded in an actual breakfast culture instead of generic brunch copy.",
+      "where_to_find": "Use it early and pair it with the old-town block.",
+      "price_range": "Budget",
       "ordering_tips": [
-        "Ask for it spicy! The locals love their heat."
-      ]
+        "This is a morning stop, not an all-day fallback.",
+        "It works best before the heat and before the old town fills up."
+      ],
+      "href": "/city/surat-thani/top-10-restaurants/",
+      "cta_label": "See the food guide"
     },
     {
-      "dish": "Roti",
-      "location": "Find a street vendor near Tapee River.",
-      "story": "I often grabbed a roti from a vendor who made them fresh on the spot. The sweet aroma of the batter sizzling on the hot plate was irresistible, especially when topped with condensed milk and bananas.",
-      "price_range": "20-30 baht per roti.",
+      "dish": "Steamed dumplings from Na San Jao market",
+      "location": "Khao Kriab Pak Mor",
+      "story": "MICHELIN still frames this as a veteran market cart built around sweet-savory steamed rice dumplings, which makes it one of the clearest market-food anchors in town.",
+      "where_to_find": "Best folded into the Talad San Chao side of the city.",
+      "price_range": "Budget",
       "ordering_tips": [
-        "Try the crispy version; it’s a local favorite."
-      ]
+        "Use it as a small meal or shared stop rather than the whole evening plan.",
+        "It works well with an old-town walk."
+      ],
+      "href": "/city/surat-thani/top-10-restaurants/",
+      "cta_label": "See the food guide"
+    },
+    {
+      "dish": "Barbecue pork rice and Thai-Chinese lunch",
+      "location": "Heng Khao Moo Daeng",
+      "story": "The MICHELIN Guide still highlights Heng Khao Moo Daeng as a bustling local lunch room, which helps keep Surat Thani's city-center food identity specific and practical.",
+      "where_to_find": "Best as an early lunch on a city day.",
+      "price_range": "Budget",
+      "ordering_tips": [
+        "Go early if you want the strongest lunch rhythm.",
+        "This is a better city meal than drifting into generic mall dining."
+      ],
+      "href": "/city/surat-thani/top-10-restaurants/",
+      "cta_label": "See the food guide"
+    },
+    {
+      "dish": "A serious southern dinner with river or hill views",
+      "location": "Nampetch, Sum Gradang Nga, Phunisa, or Lam Phu 2",
+      "story": "Surat Thani is stronger once one full southern dinner is part of the plan. MICHELIN's current selections still keep several city and mainland names in play, from Nampetch's ingredient-led southern cooking to Phunisa's Tapi River outlook.",
+      "where_to_find": "Choose the one that matches your route rather than trying to collect them all.",
+      "price_range": "Mid-range",
+      "ordering_tips": [
+        "Use a city restaurant for the old-town day and a river-view place only if your route naturally goes that way.",
+        "This is where the city stops feeling like a transit node."
+      ],
+      "href": "/city/surat-thani/top-10-restaurants/",
+      "cta_label": "See the food guide"
     }
   ],
   "local_insights": [
-    {
-      "observation": "The warmth of the people is unparalleled; they treat you like family.",
-      "tip": "Learn a few basic Thai phrases; it opens doors and hearts.",
-      "surprise": "I was amazed at how often locals would stop to help me when I looked lost."
-    },
-    {
-      "observation": "The simplicity of life here is refreshing; people take time to enjoy meals together.",
-      "tip": "Join a local family for dinner if invited; it’s a cherished experience.",
-      "surprise": "Seeing families share stories over food revealed the importance of community."
-    }
+    "Surat Thani is stronger as a mainland city-and-community trip than as a waiting room for the islands.",
+    "The old-town block should come before the ferry logic, not after it.",
+    "Bang Bai Mai is the best community extension because it adds canal life, crafts, and food without collapsing into filler.",
+    "Wat Phra Borommathat Chaiya is the cleanest heritage add-on; it earns the drive more than weaker district stops.",
+    "Food planning matters here: breakfast, market small eats, and one serious southern dinner give the city real shape."
   ],
-  "seasonal_secrets": {
-    "best_times": {
-      "January": "The weather is cooler and perfect for outdoor activities.",
-      "April": "Songkran (Thai New Year) brings vibrant festivities."
-    },
-    "local_festivals": [
-      "Chao Mae Kuan Im Festival - October",
-      "Loi Krathong - November"
-    ],
-    "seasonal_foods": {
-      "rainy": "Tropical fruits like mangosteen and rambutan are in season.",
-      "dry": "Street vendors serve delicious grilled meats and seafood."
-    },
-    "insider_tips": {
-      "rainy": "Pack a poncho; sudden downpours are common but refreshing.",
-      "dry": "Early mornings are the best time to explore the markets before it gets too hot."
-    }
-  },
+  "seasonal_secrets": "November to February is the easiest overall fit because old-town walking, market browsing, and Bang Bai Mai canal time are more comfortable. Hot months still work if you front-load city walking and leave the heavier district moves for early or late in the day. Rainy months can be atmospheric on the mainland side, but canal and road conditions deserve a quick local recheck.",
   "budget_reality": {
-    "daily_costs": {
-      "breakfast": "40 baht for a bowl of jok (rice porridge) at a local stall.",
-      "lunch": "60-80 baht for a plate of pad thai from a street vendor.",
-      "dinner": "100 baht for a full meal with drinks at a local restaurant."
-    },
+    "budget": "Surat Thani city itself can still be handled cheaply if you keep the stay city-first, eat at local breakfast and lunch places, and avoid overbuilding the route with long private transfers.",
+    "mid_range": "Mid-range spending usually rises when you add multiple district extensions, choose larger chain hotels, or turn the mainland stay into a ferry-and-car logistics chain.",
+    "luxury": "The bigger splurge pressure tends to come from island or resort detours rather than from the city itself.",
     "money_saving_tricks": [
-      "Eat at local markets instead of restaurants; it’s cheaper and tastier.",
-      "Use public transport like songthaews for affordable travel."
-    ],
-    "where_to_splurge": [
-      "A night at a riverside guesthouse for stunning views.",
-      "Local cooking classes for an authentic experience."
+      "Base yourself in town if the old city and restaurants are the priority; do not pay island-transfer convenience costs for a mainland stay.",
+      "Use one Bang Bai Mai or Chaiya extension rather than stacking several long district rides into the same trip.",
+      "Let breakfast and lunch come from the MICHELIN small-eats layer and save the higher-spend slot for one real southern dinner only if it is worth it."
     ],
     "hidden_costs": [
-      "Watch out for touristy fees at some attractions; always ask before entering."
+      "Private transfers and unnecessary ferry-side hotel choices can cost more than the city itself.",
+      "Province-wide detours add up quickly if you try to combine Chaiya, Bang Bai Mai, Donsak, and Khao Sok in one short stay."
     ]
   },
   "top_attractions": [
     {
       "rank": 1,
-      "name": "Khao Sok National Park",
-      "description": "One of Thailand's most spectacular natural reserves featuring ancient rainforest, limestone cliffs, diverse wildlife, and scenic hiking trails. Known for wildlife spotting including elephants, gibbons, and hornbills.",
-      "location": "Approximately 2 hours drive from Surat Thani city center",
-      "entrance_fee": "300 THB ($9 USD)",
+      "name": "Talat Lang and the 100-Year Arch Bridge",
+      "description": "The best first-stop city layer because it combines historical streets, street art, the Na Dan community, and the most readable old-town atmosphere in one walkable pass.",
+      "location": "Central Surat Thani old town",
+      "entrance_fee": "Public streets and bridge access are straightforward.",
       "highlights": [
-        "Ancient rainforest ecosystem",
-        "Limestone formations",
-        "Wildlife spotting opportunities"
-      ]
+        "Talat Lang old-town streets",
+        "100-Year Arch Bridge",
+        "Best first read of the city"
+      ],
+      "href": "/city/surat-thani/attractions/surat-thani-old-town-and-100-year-arch-bridge/",
+      "cta_label": "See the old-town guide"
     },
     {
       "rank": 2,
-      "name": "Ratchaprapha Dam (Cheow Lan Lake)",
-      "description": "Stunning artificial lake with emerald waters reflecting dramatic limestone karsts. Features floating bungalows and scenic boat trips through otherworldly landscapes.",
-      "location": "Khao Sok area, approximately 2 hours from city center",
-      "entrance_fee": "300 THB ($9 USD)",
+      "name": "Surat Thani City Pillar Shrine",
+      "description": "The clearest sacred stop in town if you want a short but meaningful city-center landmark rather than another thin transport-side attraction.",
+      "location": "Central Surat Thani",
+      "entrance_fee": "TAT lists the shrine as a public cultural stop; donations are customary.",
       "highlights": [
-        "Emerald lake views",
-        "Limestone karst formations",
-        "Floating bungalow experiences"
-      ]
+        "Guardian-spirit shrine",
+        "Easy central-city stop",
+        "Useful with the old-town walk"
+      ],
+      "href": "/city/surat-thani/attractions/surat-thani-city-pillar-shrine/",
+      "cta_label": "See the shrine guide"
     },
     {
       "rank": 3,
-      "name": "Wat Phra Borommathat Chaiya",
-      "description": "Historic Buddhist temple featuring a 1,200-year-old chedi dating to the Srivijaya period. Important pilgrimage site with significant historical and cultural importance.",
-      "location": "Chaiya District, approximately 45 kilometers south of Surat Thani",
-      "entrance_fee": "Free",
+      "name": "Talad San Chao and the night-market layer",
+      "description": "The strongest food-and-evening stop in town because it ties market life directly to the older city rather than to generic night-bazaar copy.",
+      "location": "Na San Jao market and nearby riverfront streets",
+      "entrance_fee": "Public market access is straightforward; food spend depends on what you order.",
       "highlights": [
-        "Srivijaya-era architecture",
-        "Ancient chedi",
-        "Cultural significance"
-      ]
+        "Na San Jao market",
+        "Street-food layer",
+        "Best evening urban rhythm"
+      ],
+      "href": "/city/surat-thani/attractions/surat-thani-night-market-and-talad-san-chao/",
+      "cta_label": "See the market guide"
     },
     {
       "rank": 4,
-      "name": "Chaiya National Museum",
-      "description": "Museum housing artifacts and relics from the Srivijaya period, illuminating the region's ancient kingdoms and historical significance.",
-      "location": "Chaiya District",
-      "entrance_fee": "100 THB ($3 USD)",
+      "name": "Bang Bai Mai and Khlong Roi Sai",
+      "description": "The best soft-nature and community extension from town, with canal life, Wat Bang Bai Mai, floating-market context, and a calmer mainland route than the usual transit copy suggests.",
+      "location": "Bang Bai Mai, Mueang Surat Thani District",
+      "entrance_fee": "Community activity costs vary; recheck current boat or market arrangements locally.",
       "highlights": [
-        "Srivijaya artifacts",
-        "Historical exhibits",
-        "Educational displays"
-      ]
+        "Canal community",
+        "Wat Bang Bai Mai",
+        "Khlong Roi Sai boat-and-craft layer"
+      ],
+      "href": "/city/surat-thani/attractions/bang-bai-mai-and-khlong-roi-sai/",
+      "cta_label": "See the Bang Bai Mai guide"
     },
     {
       "rank": 5,
-      "name": "Surat Thani Night Market and Walking Street",
-      "description": "Vibrant local market featuring fresh seafood, Southern Thai specialties, and handicrafts. Authentic venue for experiencing workaday Thai life and local cuisine.",
-      "location": "City center",
-      "entrance_fee": "Free",
+      "name": "Wat Phra Borommathat Chaiya",
+      "description": "The best heritage extension from the city and still one of southern Thailand's more important sacred sites in current MICHELIN and TAT coverage.",
+      "location": "Chaiya District",
+      "entrance_fee": "Temple access is typically straightforward; local donation norms apply.",
       "highlights": [
-        "Fresh seafood",
-        "Local Thai cuisine",
-        "Handicrafts and souvenirs"
-      ]
+        "Srivijaya-period stupa",
+        "Best heritage extension",
+        "Serious southern temple stop"
+      ],
+      "href": "/city/surat-thani/attractions/wat-phra-borommathat-chaiya/",
+      "cta_label": "See the Chaiya guide"
     },
     {
       "rank": 6,
-      "name": "Ban Don Bay and Fishing Villages",
-      "description": "Scenic coastal area featuring traditional fishing villages, mangrove forests, and authentic maritime culture. Offers boat trips and opportunities to experience regional fishing heritage.",
-      "location": "Ban Don pier area, near city center",
-      "entrance_fee": "Free (boat trips vary)",
+      "name": "Pum Riang Village and Laem Pho",
+      "description": "A smart textile-and-seafood extension if you want one mainland coastal detour with local silk, seafood, and a clearer place story than generic beach filler.",
+      "location": "Pum Riang and Laem Pho, Chaiya District",
+      "entrance_fee": "Public village and park access are straightforward; spending depends on food or shopping.",
       "highlights": [
-        "Fishing village culture",
-        "Mangrove ecosystems",
-        "Authentic coastal life"
-      ]
-    },
-    {
-      "rank": 7,
-      "name": "Tapee River Scenic Area",
-      "description": "Scenic riverside location offering walks and boat trips along one of the region's major waterways. Provides opportunities to observe local life and natural landscapes.",
-      "location": "City center",
-      "entrance_fee": "Free",
-      "highlights": [
-        "Riverside walks",
-        "Local river culture",
-        "Scenic views"
-      ]
+        "Pum Riang silk",
+        "Laem Pho crab landmark",
+        "Mainland seafood-and-craft extension"
+      ],
+      "href": "/city/surat-thani/attractions/pum-riang-village-and-laem-pho/",
+      "cta_label": "See the Pum Riang guide"
     }
   ],
   "top_restaurants": [
     {
       "rank": 1,
-      "name": "CRAFT Bistro",
-      "description": "Highly-rated restaurant serving Asian and Thai cuisine with contemporary preparation methods.",
-      "cuisine_type": "Asian, Thai",
-      "price_range": "150-300 THB",
-      "rating": 4.9,
+      "name": "Lian Tai",
+      "description": "The clearest breakfast anchor in town if you want the old city to start with a real local small-eats stop.",
+      "location": "Chonkasem Road, Talat",
+      "price_range": "Budget",
       "highlights": [
-        "High TripAdvisor rating",
-        "Modern Thai cuisine"
-      ]
+        "MICHELIN-recognized patongo",
+        "Best breakfast start",
+        "Old-town friendly location"
+      ],
+      "href": "/city/surat-thani/top-10-restaurants/",
+      "cta_label": "See the food guide"
     },
     {
       "rank": 2,
-      "name": "JUZE Island Seafood Brunch & Bar",
-      "description": "Upscale seafood establishment offering fresh catches and cafe-style offerings with island atmosphere.",
-      "cuisine_type": "Seafood, Cafe",
-      "price_range": "200-400 THB",
-      "rating": 4.9,
+      "name": "Khao Kriab Pak Mor",
+      "description": "A proper Na San Jao market stop built around veteran steamed dumplings rather than generic night-market filler.",
+      "location": "Na San Jao Market, Tonpo Road",
+      "price_range": "Budget",
       "highlights": [
-        "Premium seafood selection",
-        "Island ambiance"
-      ]
+        "MICHELIN market pick",
+        "Steamed dumplings",
+        "Useful with the evening market route"
+      ],
+      "href": "/city/surat-thani/top-10-restaurants/",
+      "cta_label": "See the food guide"
     },
     {
       "rank": 3,
-      "name": "Home Samui Restaurant & Pizzeria",
-      "description": "Family-friendly restaurant combining pizza and seafood specialties in casual setting.",
-      "cuisine_type": "Pizza, Seafood",
-      "price_range": "180-350 THB",
-      "rating": 4.8,
+      "name": "Heng Khao Moo Daeng",
+      "description": "One of the best lunch-level city staples if you want a fast, reliable Thai-Chinese meal with real local pull.",
+      "location": "Namueang Road, Talat",
+      "price_range": "Budget",
       "highlights": [
-        "Pizza and seafood fusion",
-        "Casual atmosphere"
-      ]
+        "MICHELIN street-food pick",
+        "Barbecue pork rice",
+        "Strong early lunch stop"
+      ],
+      "href": "/city/surat-thani/top-10-restaurants/",
+      "cta_label": "See the food guide"
     },
     {
       "rank": 4,
-      "name": "The Heaven Bar & Restaurant Khao Sok",
-      "description": "Scenic restaurant and bar serving Italian cuisine and tropical drinks in Khao Sok area.",
-      "cuisine_type": "Italian, Bar",
-      "price_range": "200-380 THB",
-      "rating": 4.4,
+      "name": "Keo Pla",
+      "description": "A useful noodle counterweight when you want something lighter than a full southern dinner but stronger than random cafe filler.",
+      "location": "Surat Thani city",
+      "price_range": "Budget",
       "highlights": [
-        "Italian-Thai fusion",
-        "Scenic location"
-      ]
+        "MICHELIN-recognized noodles",
+        "Good city-center food stop",
+        "Easy to fold into the urban route"
+      ],
+      "href": "/city/surat-thani/top-10-restaurants/",
+      "cta_label": "See the food guide"
     },
     {
       "rank": 5,
-      "name": "Khao Horm",
-      "description": "Local restaurant specializing in traditional Thai rice dishes and regional comfort food.",
-      "cuisine_type": "Asian, Thai",
-      "price_range": "50-120 THB",
-      "rating": 4.3,
+      "name": "Sum Gradang Nga",
+      "description": "The best city-side southern dinner pick if you want bold local flavors without leaving the urban core.",
+      "location": "Donnok Road area",
+      "price_range": "Mid-range",
       "highlights": [
-        "Authentic Thai rice dishes",
-        "Local favorite",
-        "Budget-friendly"
-      ]
+        "MICHELIN Bib Gourmand",
+        "Serious southern Thai cooking",
+        "Good evening sit-down meal"
+      ],
+      "href": "/city/surat-thani/top-10-restaurants/",
+      "cta_label": "See the food guide"
     },
     {
       "rank": 6,
-      "name": "Ko Seng",
-      "description": "Local favorite serving authentic Southern Thai cuisine with fresh ingredients and traditional preparation.",
-      "cuisine_type": "Southern Thai",
-      "price_range": "60-150 THB",
+      "name": "Nampetch",
+      "description": "A stronger mainland southern-cuisine restaurant when you want ingredient-led cooking and a deliberate meal rather than another quick stop in town.",
+      "location": "Bangnaimai Road area",
+      "price_range": "Mid-range",
       "highlights": [
-        "Southern Thai specialties",
-        "Authentic flavors"
-      ]
+        "MICHELIN Bib Gourmand",
+        "Local-produce-led southern cooking",
+        "Good dedicated dinner destination"
+      ],
+      "href": "/city/surat-thani/top-10-restaurants/",
+      "cta_label": "See the food guide"
     }
   ],
   "top_hotels": [
     {
       "rank": 1,
-      "name": "Plaa's Thansadet Resort",
-      "description": "Highly-rated resort offering quality accommodation and resort amenities in scenic setting.",
-      "price_range": "$40-80/night",
+      "name": "Sleep Station Surat Thani",
+      "description": "The strongest edited city base if you want a clean, modern, practical stay with direct official-booking support and a location that works for mainland city routing.",
+      "price_range": "Budget to mid-range",
       "category": "midrange",
-      "rating": 4.4,
+      "area": "Mueang Surat Thani",
       "highlights": [
-        "High TripAdvisor rating",
-        "Resort amenities"
+        "Official property site",
+        "Secure parking and free Wi-Fi",
+        "Strong practical city base"
       ]
     },
     {
       "rank": 2,
-      "name": "Sucholtee Resort",
-      "description": "Mid-range resort providing comfortable accommodation with standard amenities and good service.",
-      "price_range": "$35-70/night",
-      "category": "midrange",
-      "rating": 4.3,
+      "name": "HOP INN Surat Thani",
+      "description": "The most predictable budget-chain choice if the room is mainly a clean base for a short mainland stay.",
+      "price_range": "Budget",
+      "category": "budget",
+      "area": "Makham Tia, Mueang Surat Thani",
       "highlights": [
-        "Good value",
-        "Comfortable rooms"
+        "Official direct-booking page",
+        "Straightforward budget format",
+        "Useful short-stay base"
       ]
     },
     {
       "rank": 3,
-      "name": "Khaosok Island Resort",
-      "description": "Quality resort in Khao Sok area offering nature-focused accommodation with scenic surroundings.",
-      "price_range": "$40-75/night",
-      "category": "midrange",
-      "rating": 4.3,
+      "name": "B2 Surat Thani Premier Hotel",
+      "description": "A larger budget-friendly city hotel when you want easy parking, chain predictability, and simple access for mainland road trips.",
+      "price_range": "Budget to mid-range",
+      "category": "budget",
+      "area": "Mueang Surat Thani",
       "highlights": [
-        "Khao Sok location",
-        "Nature-focused"
+        "Official hotel page",
+        "Free Wi-Fi and parking on the direct site",
+        "Better for car-based itineraries"
       ]
     },
     {
       "rank": 4,
-      "name": "AC 2 Resort",
-      "description": "Mid-range resort with comfortable rooms and standard amenities in convenient location.",
-      "price_range": "$30-65/night",
+      "name": "Sleep Hotel Surat Thani",
+      "description": "A practical modern city stay if you want a slightly more polished in-town room without turning the hotel choice into the whole trip.",
+      "price_range": "Mid-range",
       "category": "midrange",
-      "rating": 3.7,
+      "area": "Mueang Surat Thani",
       "highlights": [
-        "Budget-conscious",
-        "Central location"
-      ]
-    },
-    {
-      "rank": 5,
-      "name": "Khao Sok Tree House Resort",
-      "description": "Unique tree house accommodation in Khao Sok National Park area offering authentic nature experience.",
-      "price_range": "$35-70/night",
-      "category": "midrange",
-      "rating": 3.4,
-      "highlights": [
-        "Unique accommodation style",
-        "Nature immersion"
+        "Official hotel-group site",
+        "Modern room types",
+        "Good city-center practicality"
       ]
     }
   ],
   "travel_tips": [
-    "Learn a few basic Thai phrases; it opens doors and hearts.",
-    "Join a local family for dinner if invited; it’s a cherished experience."
+    "Do the old town first. Surat Thani gets weaker when Talat Lang is left until after transport errands.",
+    "Choose Bang Bai Mai or Chaiya as the main extension. Most short stays do not need both plus extra province detours.",
+    "Use breakfast and lunch intentionally. The MICHELIN small-eats layer is one of the city's clearest strengths.",
+    "Treat Donsak and island piers as transport infrastructure, not as the emotional center of the city stay.",
+    "If ferry timing matters, recheck current Seatran or operator schedules directly before travel day."
   ],
-  "best_time_to_visit": {
-    "season": "Cool Season",
-    "months": "November - February",
-    "weather": "Pleasant conditions",
-    "reasons": "Ideal weather for activities"
-  },
+  "best_time_to_visit": "November to February is the easiest overall season for Surat Thani because old-town walking, city food loops, and Bang Bai Mai canal time are more comfortable. The hotter months still work if you plan mornings and evenings properly, while rainy periods can be rewarding on the mainland side as long as you leave margin for weather-related timing changes.",
+  "bestTimeToVisit": "November to February is the safest all-round fit for Surat Thani. Hot months reward earlier starts, and rainy months can still work well if you recheck canal, road, and ferry conditions before committing to a tight schedule.",
   "budget_info": {
-    "budget": "$30-50 per day",
-    "mid_range": "$50-100 per day",
-    "luxury": "$100+ per day",
-    "notes": "Budget includes accommodation, food, transportation, and activities"
+    "budget_per_day": "Budget",
+    "midrange_per_day": "Mid-range",
+    "luxury_per_day": "Higher-spend"
   },
-  "enhanced_at": "2025-05-26T19:57:42.409Z",
-  "overview": "Surat Thani is southern Thailand's essential transport hub and an underrated destination in its own right. While most travelers pass through on their way to famous islands like Koh Samui, Koh Phangan, and Koh Tao, the city itself offers authentic Thai experiences without the tourist crowds. With a population of 132,000, Surat Thani serves as a strategic basecamp for exploring pristine national parks, historic temples, and coastal landscapes that define the region.\n\nThe city combines practical transport infrastructure with genuine cultural attractions. Visit the Surat Thani City Pillar Shrine to experience local spiritual life, explore the Tapee River for scenic riverside walks, or dive into bustling night markets serving some of southern Thailand's best seafood and regional dishes. Unlike its island neighbors, Surat Thani remains refreshingly authentic—a place where you'll encounter workaday Thai life rather than beach resort fantasy. The city's strategic location makes it perfect for day trips to Khao Sok National Park and Ratchaprapha Dam, while ferry terminals provide easy access to island-hopping adventures.",
-  "thingsToDo": "Surat Thani offers diverse activities from nature exploration to cultural immersion. Start at Khao Sok National Park (entrance: 300 THB/$9), featuring ancient rainforest, limestone cliffs, hiking trails, and wildlife spotting including elephants and gibbons. Visit Ratchaprapha Dam/Cheow Lan Lake (entrance: 300 THB/$9) for stunning emerald waters reflecting dramatic karsts and floating bungalow experiences.\n\nExplore cultural heritage at Wat Phra Borommathat Chaiya, a 1,200-year-old temple from the Srivijaya period, and Chaiya National Museum (entrance: 100 THB/$3) featuring Srivijaya artifacts. Both sites provide insight into the region's ancient kingdoms and spiritual significance.\n\nFor local immersion, explore Surat Thani Night Market and Walking Street (free) where vendors sell fresh seafood, Southern Thai specialties, and handicrafts. Take scenic boat trips on Tapee River or visit Ban Don Bay fishing villages (free) to experience coastal life and mangrove forests authentic to the region. These attractions offer excellent value with many free cultural and natural experiences.",
-  "whereToStay": "Surat Thani offers budget-friendly accommodation options throughout the city, with numerous hostels and guesthouses catering to backpackers. Areas near the city center and pier provide convenient access to transport and attractions. B2 Surat Thani Boutique & Budget Hotel on Donnok Road offers excellent value for budget travelers seeking basic comfort with free WiFi and parking.\n\nMid-range hotels like B2 Surat Thani Premier Hotel provide upgraded amenities including better facilities and convenient locations near Prince of Songkla University campus. These properties typically offer good value with 3-star quality at reasonable prices. Rooms generally include air conditioning, private bathrooms, and modern conveniences without luxury pricing.\n\nAccommodation near Ban Don pier and the city center provides easiest access to ferries for island trips. Most hotels offer transport arrangements to the pier. Book accommodations near night markets or walking streets if you want easy access to dining and local experiences. Rates throughout the city remain significantly cheaper than Koh Samui or Koh Phangan, making Surat Thani ideal for budget-conscious travelers.",
+  "thingsToDo": "Start with Talat Lang, the 100-Year Arch Bridge, the city-pillar and market layer, then choose one deliberate extension: Bang Bai Mai for canal community life or Wat Phra Borommathat Chaiya for heritage. Add Pum Riang and Laem Pho only if you have enough time for a second mainland block.",
+  "whereToStay": "Stay in town if the old city, markets, and mainland food scene are the real reason for the trip. Use airport-road or car-oriented properties only if you genuinely need early departures, easy parking, or a short transit stop. Ferry-side convenience stays make less sense when the goal is to experience Surat Thani itself.",
   "whereToEat": [
     {
-      "name": "CRAFT Bistro",
-      "cuisine": "Asian, Thai",
-      "priceRange": "$5-10",
-      "description": "Contemporary Thai cuisine with excellent ratings and modern preparation."
+      "name": "Lian Tai",
+      "cuisine": "Small eats and breakfast",
+      "priceRange": "Budget",
+      "description": "The clearest breakfast anchor in the city."
     },
     {
-      "name": "JUZE Island Seafood Brunch & Bar",
-      "cuisine": "Seafood, Cafe",
-      "priceRange": "$7-12",
-      "description": "Premium seafood restaurant with island atmosphere and brunch specialties."
+      "name": "Khao Kriab Pak Mor",
+      "cuisine": "Street food",
+      "priceRange": "Budget",
+      "description": "A long-running Na San Jao market dumpling stall."
     },
     {
-      "name": "Home Samui Restaurant & Pizzeria",
-      "cuisine": "Pizza, Seafood",
-      "priceRange": "$6-11",
-      "description": "Casual dining combining pizza and fresh seafood in relaxed setting."
+      "name": "Heng Khao Moo Daeng",
+      "cuisine": "Thai-Chinese",
+      "priceRange": "Budget",
+      "description": "A busy lunch favorite for barbecue pork rice."
     },
     {
-      "name": "The Heaven Bar & Restaurant Khao Sok",
-      "cuisine": "Italian, Bar",
-      "priceRange": "$7-13",
-      "description": "Italian cuisine with bar service in scenic Khao Sok location."
-    },
-    {
-      "name": "Khao Horm",
-      "cuisine": "Thai",
-      "priceRange": "$2-4",
-      "description": "Authentic Thai rice dishes and local comfort food at budget prices."
-    },
-    {
-      "name": "Ko Seng",
+      "name": "Sum Gradang Nga",
       "cuisine": "Southern Thai",
-      "priceRange": "$2-5",
-      "description": "Local favorite with authentic Southern Thai cuisine and traditional recipes."
+      "priceRange": "Mid-range",
+      "description": "One of the best city-side southern dinner choices."
+    },
+    {
+      "name": "Nampetch",
+      "cuisine": "Southern Thai",
+      "priceRange": "Mid-range",
+      "description": "A stronger produce-led southern cooking destination."
     }
   ],
   "topHotels": [
     {
-      "name": "Plaa's Thansadet Resort",
+      "name": "Sleep Station Surat Thani",
       "category": "midrange",
-      "priceRange": "$40-80/night",
-      "area": "Surat Thani area",
-      "description": "Quality resort with good amenities and service ratings, suitable for comfortable stays."
+      "priceRange": "Budget to mid-range",
+      "area": "Mueang Surat Thani",
+      "description": "A clean, modern, practical city base with direct booking support."
     },
     {
-      "name": "Sucholtee Resort",
-      "category": "midrange",
-      "priceRange": "$35-70/night",
-      "area": "Surat Thani area",
-      "description": "Mid-range resort offering value and comfort for travelers seeking moderate accommodations."
+      "name": "HOP INN Surat Thani",
+      "category": "budget",
+      "priceRange": "Budget",
+      "area": "Makham Tia",
+      "description": "A predictable budget-chain base for short stays."
     },
     {
-      "name": "Khaosok Island Resort",
-      "category": "midrange",
-      "priceRange": "$40-75/night",
-      "area": "Khao Sok National Park",
-      "description": "Nature-focused resort in scenic national park area with quality facilities."
+      "name": "B2 Surat Thani Premier Hotel",
+      "category": "budget",
+      "priceRange": "Budget to mid-range",
+      "area": "Mueang Surat Thani",
+      "description": "A simple chain-style stay with parking and direct-site clarity."
     },
     {
-      "name": "AC 2 Resort",
+      "name": "Sleep Hotel Surat Thani",
       "category": "midrange",
-      "priceRange": "$30-65/night",
-      "area": "City Center",
-      "description": "Budget-conscious mid-range option with convenient city access."
-    },
-    {
-      "name": "Khao Sok Tree House Resort",
-      "category": "midrange",
-      "priceRange": "$35-70/night",
-      "area": "Khao Sok National Park",
-      "description": "Unique tree house accommodation offering authentic forest experience."
+      "priceRange": "Mid-range",
+      "area": "Mueang Surat Thani",
+      "description": "A more polished city option without leaving the practical mainland belt."
     }
   ],
-  "gettingAround": "Surat Thani's city center is highly walkable with most attractions within reach on foot. Local transport options include tuk-tuks (40-100 THB for city trips), songthaews or shared minibuses on fixed routes (20-40 THB typical fares), and the Grab app for app-based ride-hailing at fixed prices. Motorbike rental is available but requires an International Driving Permit. For day trips to Khao Sok National Park and Ratchaprapha Dam, organized tours from hotels provide convenient transport with included activities (typically 800-1,500 THB per person). Hotels can arrange minibus transport to ferry terminals (200-300 THB) or tuk-tuks directly to Ban Don pier for island ferries. Regional bus connections serve other southern Thailand destinations with frequent departures.",
-  "bestTimeToVisit": "The best time to visit Surat Thani is November through February, when the southwest monsoon ends and weather becomes warm and dry. These months offer the most stable conditions for both city exploration and day trips to national parks. Daytime temperatures hover around 28-32°C (82-90°F) with minimal rainfall, making outdoor activities entirely comfortable. This period coincides with Thailand's cool season and attracts the most tourists, so book accommodations in advance if traveling during December-January holidays.\n\nAvoid May through October when the southwest monsoon brings heavy rain and rough seas, making island ferries unpredictable and outdoor activities challenging. September-October sees the heaviest rainfall. March-April becomes extremely hot and humid, with temperatures exceeding 35°C (95°F). Late November is ideal as crowds remain manageable while weather is perfect. If budget matters most, consider September-October for lower prices, though weather risk is significant. The shoulder seasons (March-April and October-November) offer compromises between weather and pricing.",
-  "budgetGuide": {
-    "budget": {
-      "min": 20,
-      "max": 40,
-      "description": "Budget travelers can live comfortably on $20-40 daily: guesthouse rooms at $12-25/night, street food and market meals at $2-5, free/low-cost attractions (temples, markets, riverside walks), entrance fees of 100-300 THB for major sites, and local transport via tuk-tuk/songthaew at 0.50-2 USD per trip."
-    },
-    "midrange": {
-      "min": 50,
-      "max": 100,
-      "description": "Mid-range travelers spending $50-100 daily: 3-star hotel at $30-65/night, restaurant meals at $5-10, paid attractions like Khao Sok or Ratchaprapha Dam ($9 each), organized tours (800-1,500 THB), and comfortable local transport via Grab or hotel minibus."
-    },
-    "luxury": {
-      "min": 150,
-      "max": 300,
-      "description": "Luxury travelers can spend $150-300+ daily: upscale resort accommodation at $75+/night, fine dining restaurants at $15-30 per meal, private guides and tours (2,000+ THB), spa treatments, and premium transport arrangements including airport transfers."
-    }
-  },
-  "safetyTips": "Surat Thani is generally safe for tourists using standard city sense. Petty theft occurs in crowded markets and night areas, so keep valuables secure and use hotel safes for passports/extra cash. Avoid walking alone late at night in unfamiliar areas, particularly around the pier district after dark. Use registered tuk-tuks or Grab app rather than hailing unmarked vehicles, and always agree on fares beforehand with traditional tuk-tuks. Traffic can be chaotic; cross streets carefully and be aware of motorbike traffic.\n\nWhen visiting national parks, stay on marked trails and hire local guides for rainforest exploration. Respect water safety warnings at Cheow Lan Lake and follow park regulations. Don't accept drinks from strangers at bars and watch your belongings in crowded market areas. Tap water is generally safe but bottled water is widely available and inexpensive. Pharmacies are available throughout the city for minor medical needs. Keep important documents copies separate from originals. Overall, standard tourist precautions combined with awareness of surroundings ensure safe travel in Surat Thani.",
+  "gettingAround": "The city core is manageable by short rides plus walking once you are in Talat Lang. Bang Bai Mai and Chaiya are real out-of-town legs and should be planned that way. Ferry geography is separate again: Seatran's own route structure makes clear that Donsak and island piers are transport nodes, not downtown city attractions.",
+  "safetyTips": "Surat Thani is usually straightforward, but the same practical common sense applies here as elsewhere: keep valuables close in crowded markets, respect dress codes at active shrines and temples, and avoid turning dark rural or canal sections into improvisational late-night detours. If your plan depends on ferries, boats, or weather-sensitive mainland driving, confirm conditions directly on the day rather than relying on static guide copy.",
   "faq": [
     {
-      "question": "Is Surat Thani worth visiting or just a transport hub?",
-      "answer": "While it functions as a crucial ferry hub for island travel, Surat Thani offers genuine attractions worth 1-3 days. The city features authentic Southern Thai culture, spectacular national parks (Khao Sok entrance: 300 THB/$9, Ratchaprapha Dam: 300 THB/$9), historic Srivijaya temples, and vibrant night markets without tourist crowds or inflated island prices."
+      "question": "Is Surat Thani worth more than a transit stop?",
+      "answer": "Yes, if you plan it as a mainland city first. Talat Lang, the 100-Year Arch Bridge, market food, Bang Bai Mai, and a Chaiya-side heritage extension give the city more substance than a simple ferry overnight."
     },
     {
-      "question": "How long does it take to get from Surat Thani to Koh Samui?",
-      "answer": "Ferry services from Ban Don pier take approximately 1.5-2 hours to Koh Samui depending on sea conditions. High-speed ferries (speedboats) complete the journey in 45-60 minutes but cost significantly more. Most hotels arrange transport to the pier or can book ferries directly. Hotels charge 200-300 THB for minibus transport to the pier."
+      "question": "What should you prioritize first in Surat Thani?",
+      "answer": "Start with the old-town block and its food layer. That gives the city an identity before you decide whether Bang Bai Mai or Wat Phra Borommathat Chaiya deserves the next half-day."
     },
     {
-      "question": "What are the entrance fees for major attractions?",
-      "answer": "Khao Sok National Park: 300 THB ($9), Ratchaprapha Dam/Cheow Lan Lake: 300 THB ($9), Chaiya National Museum: 100 THB ($3). Temples, markets, and riverside areas are free. Organized day trips to Khao Sok typically cost 800-1,500 THB per person including transport and meals."
+      "question": "Is Bang Bai Mai worth adding?",
+      "answer": "Yes. TAT's current English feature makes a strong case for Bang Bai Mai because the canal, crafts, Wat Bang Bai Mai, and market layer form a coherent mainland community route."
     },
     {
-      "question": "What local transport options are available?",
-      "answer": "Primary options include tuk-tuks (40-100 THB for city trips), songthaews/shared minibuses (20-40 THB), and Grab app for fixed-price ride-hailing. Motorbike rental is available with International Driving Permit. Hotel minibuses serve longer distances to attractions and ferry terminals (200-300 THB typical)."
+      "question": "What food should you prioritize in Surat Thani?",
+      "answer": "Use one breakfast small-eats stop such as Lian Tai, one market or lunch stop like Khao Kriab Pak Mor or Heng Khao Moo Daeng, then one real southern dinner from the current MICHELIN-tracked restaurant set."
+    },
+    {
+      "question": "How do ferry routes fit into a Surat Thani city stay?",
+      "answer": "They matter logistically, but they should not dominate the city plan. Seatran's official route map makes clear that Donsak and the island piers are separate transport legs, so treat them as infrastructure rather than as the main attraction."
     }
   ],
   "practicalInfo": {
-    "bestMonths": [
-      "November",
-      "December",
-      "January",
-      "February"
-    ],
-    "nearestAirport": "Surat Thani International Airport (URT)",
-    "travelTimeFromAirport": "25-40 minutes by car or taxi to city center (approximately 400-600 THB)",
-    "localTransport": [
-      "Tuk-tuk",
-      "Songthaew (shared minibus)",
-      "Motorbike rental",
-      "Grab app",
-      "Hotel minibus",
-      "Organized tours"
-    ]
+    "arrival": "Surat Thani works best when you separate arrival logistics from sightseeing. Old-town and market time belong in the city; ferry and island connections belong in their own transport block.",
+    "transport": "Downtown exploration is easiest once you are dropped into Talat Lang or the market side. Bang Bai Mai, Pum Riang, and Chaiya should be treated as proper out-of-town legs, not as casual walk-up add-ons.",
+    "planning": "Think in three layers: city core first, one mainland community or heritage extension second, and ferry or island logistics only if they are actually part of your onward route."
   },
-  "enrichedAt": "2026-02-22T12:38:30.470Z",
-  "factchecked_at": "2026-03-08T18:29:21.369Z",
-  "translations": {
-    "nl": {
-      "enhanced_description": "Surat Thani, vaak gezien als slechts een doorvoerpunt naar de prachtige eilanden Koh Samui, Koh Phangan en Koh Tao, is een levendige stad die bruist van leven en cultuur. Toen ik uit de bus uit Bangkok stapte, was de lucht doordrenkt met de geur van gegrild vlees vermengd met het zoete aroma van verse tropische vruchten, een verleidelijk welkom dat een voorproefje gaf van de culinaire avonturen die zouden volgen. De bruisende Tapee-rivier, omzoomd met lokale verkopers en vissersboten, vormt het hart van de stad, waar de ritmische geluiden van het water het dagelijks leven van de mensen weerspiegelen. Anders dan de gepolijste toeristische plekken van Thailand, behoudt Surat Thani een authenticiteit die elders moeilijk te vinden is. Een van mijn mooiste herinneringen is het dwalen over de lokale avondmarkt, waar ik stuitte op een klein stalletje dat gegrilde inktvis verkocht, de glimlach van de verkoper zo warm als het vuur waarop hij kookte. Ik raakte in gesprek, en hij deelde verhalen over zijn vistochten, zijn handen levendig gebarend terwijl hij de rijkdom van de zee beschreef. Het zijn deze interacties die Surat Thani bijzonder maken; de verbindingen gesmeed met lokale bewoners die bereidwillig hun verhalen delen. De stad wordt vaak overschaduwd door haar beroemdere buren, maar biedt een blik op het dagelijks leven in Zuid-Thailand. Hier beginnen ochtenden met het geluid van kraaiende hanen en de geur van vers bereide jasmijnrijst. Het City Pillar Shrine, met zijn ingewikkelde ontwerp en spirituele betekenis, is een must-visit, niet alleen voor de prachtige architectuur maar ook voor het gevoel van vrede dat het brengt te midden van de stadse drukte. Wanneer de zon ondergaat, gloeit de rivier met de weerspiegeling van lantaarns, en je voelt de hartslag van Surat Thani terwijl lokale bewoners samenkomen om te genieten van de verkoelende avondbries. Er zit een ritme in het leven hier, een dat je uitnodigt om te vertragen en je onder te dompelen in de lokale cultuur. Of je nu de bruisende markten verkent, van straatvoedsel geniet, of gewoon aan de rivier zit en het leven ziet ontvouwen, Surat Thani is een schatkamer van ervaringen die wachten om ontdekt te worden. Het is niet zomaar een tussenstop; het is een bestemming die een stempel op je hart drukt en je aanmoedigt om terug te komen voor meer.",
-      "hidden_gems": [
-        {
-          "name": "Khao Sok National Park",
-          "story": "Ik herinner me mijn eerste bezoek aan Khao Sok; het was een spontane beslissing na een praatje met een lokale bewoner op de markt die erop stond dat ik de schoonheid ervan moest zien. De weelderige jungle, torenhoge kalksteenkliffen en serene meren namen mijn adem weg. Tijdens een begeleide kanotocht zag ik wilde olifanten uit de rivier drinken, een aanblik die nog steeds surrealistisch aanvoelt.",
-          "how_to_find": "Neem een minivan vanuit het stadscentrum van Surat Thani; het is ongeveer 2 uur rijden. Vraag naar Khao Sok National Park, en vergeet niet snacks mee te nemen voor onderweg!",
-          "best_time": "Bezoek vroeg in de ochtend om de mist over het meer te zien opstijgen, of tijdens het regenseizoen wanneer de watervallen op hun spectaculairst zijn.",
-          "local_insights": [
-            "Neem een lokale gids mee voor de beste routes en tips om wilde dieren te spotten.",
-            "Respecteer het milieu; voer de dieren niet."
-          ]
-        },
-        {
-          "name": "Ratchaprapha Dam",
-          "story": "Ik bracht een magische dag door bij Ratchaprapha Dam, waar ik me bij een groep lokale bewoners aansloot voor een picknick aan het water. We deelden zelfgemaakte gerechten, en ik leerde hoe je khao niew mamuang (mango sticky rice) maakt met een lokale tante. Het turquoise water van de dam tegen de achtergrond van bergen was een aanblik die ik nooit zal vergeten.",
-          "how_to_find": "Ga naar de dam vanuit Surat Thani; je kunt een motor huren of een lokale bus nemen. Volg de borden naar de dam en houd je ogen open voor het prachtige uitzicht.",
-          "best_time": "Ga laat in de middag voor een adembenemende zonsondergang boven het water.",
-          "local_insights": [
-            "Neem eten mee om te delen; het is een geweldige manier om contact te maken met locals.",
-            "Vergeet je camera niet voor het adembenemende landschap."
-          ]
-        }
-      ],
-      "authentic_experiences": [
-        {
-          "activity": "Deelnemen aan een lokale vistocht",
-          "story": "Ik bracht een ochtend door met vissen met een lokaal gezin dat me uitnodigde voor hun traditionele longtailboottocht. De kameraadschap op de boot, het gelach en de spanning van het vangen van ons avondeten maakten het een onvergetelijke ervaring.",
-          "cultural_significance": "Vissen is hier meer dan alleen een levensonderhoud; het is een manier voor families om een band te smeden en verhalen te delen.",
-          "how_to_participate": "Vraag rond op de lokale markten; veel vissers staan open om hun boten te delen met bezoekers voor een kleine vergoeding.",
-          "insights": [
-            "Wees respectvol naar hun ruimte en tradities; bied aan om te helpen met de vangst."
-          ]
-        },
-        {
-          "activity": "Deelnemen aan een lokaal festival",
-          "story": "Ik had het geluk om in Surat Thani te zijn tijdens het jaarlijkse Chao Mae Kuan Im Festival. De straten waren levend met muziek, dans en kleurrijke processies, en ik werd meegesleept in de vreugde van de viering.",
-          "cultural_significance": "Festivals zijn hier een levendige uiting van gemeenschap en spiritualiteit.",
-          "how_to_participate": "Raadpleeg lokale evenementenkalenders; locals delen graag details over aankomende festivals.",
-          "insights": [
-            "Kleed je bescheiden en neem respectvol deel; het is een moment waarop de gemeenschap samenkomt."
-          ]
-        }
-      ],
-      "foodie_adventures": [
-        {
-          "dish": "Khao Soi",
-          "location": "Ga naar Khao Soi Khun Yai bij het stadscentrum.",
-          "story": "De eerste keer dat ik Khao Soi proefde, was ik overdonderd door de romige kokoscurrybouillon en knapperige noedels. De eigenaresse, een bejaarde vrouw, deelde het familierecept met me, en ik had het gevoel dat ik een stukje van haar geschiedenis proefde.",
-          "price_range": "50-70 baht per kom.",
-          "ordering_tips": [
-            "Vraag om het pittig! Locals houden van hun hitte."
-          ]
-        },
-        {
-          "dish": "Roti",
-          "location": "Zoek een straatverkoper bij de Tapee-rivier.",
-          "story": "Ik haalde vaak een roti bij een verkoper die ze ter plekke vers maakte. Het zoete aroma van het beslag dat siste op de hete plaat was onweerstaanbaar, vooral als het werd afgetopt met gecondenseerde melk en bananen.",
-          "price_range": "20-30 baht per roti.",
-          "ordering_tips": [
-            "Probeer de knapperige versie; dat is een lokale favoriet."
-          ]
-        }
-      ],
-      "overview": "Surat Thani is het essentiële vervoersknooppunt van Zuid-Thailand en een onderschatte bestemming op zich. Hoewel de meeste reizigers er doorheen reizen op weg naar beroemde eilanden als Koh Samui, Koh Phangan en Koh Tao, biedt de stad zelf authentieke Thaise ervaringen zonder de toeristische drukte. Met een bevolking van 132.000 inwoners dient Surat Thani als strategisch basiskamp voor het verkennen van ongerepte nationale parken, historische tempels en kustlandschappen die de regio kenmerken.\n\nDe stad combineert praktische vervoersinfrastructuur met oprechte culturele attracties. Bezoek het Surat Thani City Pillar Shrine om het lokale spirituele leven te ervaren, verken de Tapee-rivier voor schilderachtige wandelingen langs de oever, of duik in de bruisende avondmarkten met enkele van de beste zeevruchten en regionale gerechten van Zuid-Thailand. Anders dan haar eilandburen blijft Surat Thani verfrissend authentiek — een plek waar je het alledaagse Thaise leven tegenkomt in plaats van strandresortfantasie. De strategische ligging van de stad maakt het perfect voor dagtochten naar Khao Sok National Park en Ratchaprapha Dam, terwijl veerterminals eenvoudige toegang bieden tot eilandavonturen.",
-      "thingsToDo": "Surat Thani biedt diverse activiteiten van natuurverkenning tot culturele onderdompeling. Begin bij Khao Sok National Park (entree: 300 THB/$9), met oeroud regenwoud, kalksteenkliffen, wandelpaden en de mogelijkheid wilde dieren te spotten, waaronder olifanten en gibbons. Bezoek Ratchaprapha Dam/Cheow Lan Lake (entree: 300 THB/$9) voor prachtig smaragdgroen water dat dramatische karstformaties weerspiegelt, plus drijvende bungalowervaringen.\n\nVerken het cultureel erfgoed bij Wat Phra Borommathat Chaiya, een 1.200 jaar oude tempel uit de Srivijaya-periode, en het Chaiya National Museum (entree: 100 THB/$3) met Srivijaya-artefacten. Beide locaties bieden inzicht in de oude koninkrijken en spirituele betekenis van de regio.\n\nVoor lokale onderdompeling verken je de Surat Thani Night Market en Walking Street (gratis), waar verkopers verse zeevruchten, Zuid-Thaise specialiteiten en ambachten verkopen. Maak schilderachtige boottochten op de Tapee-rivier of bezoek de vissersdorpen van Ban Don Bay (gratis) om het kustleven en mangrovebossen te ervaren. Deze attracties bieden uitstekende waarde met veel gratis culturele en natuurlijke ervaringen.",
-      "whereToStay": "Surat Thani biedt budgetvriendelijke accommodaties door de hele stad, met talloze hostels en pensions voor backpackers. Gebieden nabij het stadscentrum en de pier bieden handige toegang tot vervoer en attracties. B2 Surat Thani Boutique & Budget Hotel aan de Donnok Road biedt uitstekende prijs-kwaliteitsverhouding voor budgetreizigers die basiscomfort zoeken met gratis wifi en parkeren.\n\nMiddenklasse hotels zoals B2 Surat Thani Premier Hotel bieden verbeterde voorzieningen, waaronder betere faciliteiten en handige locaties nabij de Prince of Songkla University campus. Deze accommodaties bieden doorgaans goede waarde met 3-sterrenkwaliteit tegen redelijke prijzen. Kamers bevatten over het algemeen airconditioning, eigen badkamer en moderne gemakken zonder luxeprijzen.\n\nAccommodatie nabij Ban Don pier en het stadscentrum biedt de makkelijkste toegang tot veerdiensten voor eilandtrips. De meeste hotels regelen vervoer naar de pier. Boek accommodatie nabij avondmarkten of wandelstraten als je gemakkelijke toegang wilt tot eten en lokale ervaringen. Tarieven door de hele stad blijven aanzienlijk goedkoper dan Koh Samui of Koh Phangan, wat Surat Thani ideaal maakt voor budgetbewuste reizigers.",
-      "gettingAround": "Het stadscentrum van Surat Thani is goed te voet te verkennen, met de meeste attracties op loopafstand. Lokale vervoersopties zijn onder meer tuk-tuks (40-100 THB voor ritten door de stad), songthaews of gedeelde minibusjes op vaste routes (20-40 THB gebruikelijke tarieven) en de Grab-app voor ritdeling tegen vaste prijzen. Motorverhuur is beschikbaar maar vereist een Internationaal Rijbewijs. Voor dagtochten naar Khao Sok National Park en Ratchaprapha Dam bieden georganiseerde tours vanuit hotels handig vervoer met inbegrepen activiteiten (doorgaans 800-1.500 THB per persoon). Hotels kunnen minibusvervoer regelen naar veerterminals (200-300 THB) of tuk-tuks rechtstreeks naar Ban Don pier voor eilandveerdiensten. Regionale busverbindingen bedienen andere bestemmingen in Zuid-Thailand met frequente vertrekken.",
-      "bestTimeToVisit": "De beste tijd om Surat Thani te bezoeken is november tot en met februari, wanneer de zuidwestmoesson eindigt en het weer warm en droog wordt. Deze maanden bieden de meest stabiele omstandigheden voor zowel stadsverkenning als dagtochten naar nationale parken. Dagtemperaturen schommelen rond 28-32°C met minimale regenval, waardoor buitenactiviteiten volledig comfortabel zijn. Deze periode valt samen met Thailands koele seizoen en trekt de meeste toeristen, dus boek accommodaties van tevoren als je reist tijdens de december-januari vakantieperiode.\n\nVermijd mei tot oktober wanneer de zuidwestmoesson zware regenval en ruwe zee brengt, waardoor eilandveerdiensten onvoorspelbaar worden en buitenactiviteiten uitdagend. September-oktober kent de zwaarste regenval. Maart-april wordt extreem heet en vochtig, met temperaturen boven 35°C. Laat november is ideaal omdat de drukte beheersbaar blijft terwijl het weer perfect is. Als budget het belangrijkst is, overweeg dan september-oktober voor lagere prijzen, hoewel het weerrisico aanzienlijk is. De tussenseizoenen (maart-april en oktober-november) bieden compromissen tussen weer en prijzen.",
-      "safetyTips": "Surat Thani is over het algemeen veilig voor toeristen met standaard stadsgevoel. Kleine criminaliteit komt voor op drukke markten en in uitgaansgebieden, dus houd waardevolle spullen veilig en gebruik hotelkluisjes voor paspoorten en extra contant geld. Vermijd 's avonds laat alleen te wandelen in onbekende gebieden, vooral rond het havengebied na het donker. Gebruik geregistreerde tuk-tuks of de Grab-app in plaats van ongemarkeerde voertuigen aan te houden, en spreek altijd van tevoren tarieven af bij traditionele tuk-tuks. Het verkeer kan chaotisch zijn; steek straten voorzichtig over en let op motorverkeer.\n\nBlijf bij het bezoeken van nationale parken op gemarkeerde paden en huur lokale gidsen in voor regenwoudverkenning. Respecteer waterveiligheidswaarschuwingen bij Cheow Lan Lake en volg parkreglementen. Accepteer geen drankjes van vreemden in bars en let op je bezittingen in drukke marktgebieden. Kraanwater is over het algemeen veilig maar flessenwater is overal verkrijgbaar en goedkoop. Apotheken zijn beschikbaar door de hele stad voor kleine medische behoeften. Bewaar kopieën van belangrijke documenten apart van de originelen. Over het geheel genomen zorgen standaard toeristische voorzorgsmaatregelen gecombineerd met bewustzijn van je omgeving voor veilig reizen in Surat Thani.",
-      "translated_at": "2026-03-10T00:00:00.000Z"
-    },
-    "fr": {
-      "enhanced_description": "Surat Thani, souvent considérée comme un simple point de transit vers les magnifiques îles de Koh Samui, Koh Phangan et Koh Tao, est une ville animée qui déborde de vie et de culture. Quand je suis descendu du bus en provenance de Bangkok, l'air était imprégné de l'odeur de viande grillée mêlée au doux arôme de fruits tropicaux frais, un accueil séduisant qui préfigurait les aventures culinaires à venir. La vivante rivière Tapee, bordée de vendeurs locaux et de bateaux de pêcheurs, forme le cœur de la ville, où les sons rythmiques de l'eau reflètent la vie quotidienne des habitants. Contrairement aux lieux touristiques polis de Thaïlande, Surat Thani conserve une authenticité difficile à trouver ailleurs. L'un de mes plus beaux souvenirs est d'avoir déambulé sur le marché de nuit local, où je suis tombé sur un petit étal vendant du calamar grillé, le sourire du vendeur aussi chaleureux que le feu sur lequel il cuisinait. Nous avons engagé la conversation, et il a partagé des histoires sur ses sorties de pêche, ses mains gesticulant vivement tandis qu'il décrivait les richesses de la mer. Ce sont ces interactions qui rendent Surat Thani spéciale ; les liens forgés avec des habitants qui partagent volontiers leurs histoires. La ville est souvent éclipsée par ses voisines plus célèbres, mais elle offre un aperçu de la vie quotidienne dans le sud de la Thaïlande. Ici, les matinées commencent avec le chant des coqs et l'odeur du riz au jasmin fraîchement préparé. Le City Pillar Shrine, avec son design élaboré et sa signification spirituelle, est un incontournable, non seulement pour sa belle architecture mais aussi pour le sentiment de paix qu'il apporte au milieu de l'agitation urbaine. Quand le soleil se couche, la rivière s'illumine du reflet des lanternes, et vous sentez le pouls de Surat Thani tandis que les habitants se rassemblent pour profiter de la brise fraîche du soir. Il y a un rythme dans la vie ici, un rythme qui vous invite à ralentir et à vous immerger dans la culture locale. Que vous exploriez les marchés bouillonnants, savouriez la cuisine de rue, ou que vous soyez simplement assis au bord de la rivière à regarder la vie se dérouler, Surat Thani est un trésor d'expériences qui attendent d'être découvertes. Ce n'est pas qu'une simple escale ; c'est une destination qui laisse son empreinte sur votre cœur et vous encourage à revenir pour en découvrir davantage.",
-      "hidden_gems": [
-        {
-          "name": "Khao Sok National Park",
-          "story": "Je me souviens de ma première visite à Khao Sok ; c'était une décision spontanée après une conversation avec un habitant sur le marché qui insistait pour que je voie sa beauté. La jungle luxuriante, les falaises calcaires imposantes et les lacs sereins m'ont coupé le souffle. Lors d'une excursion guidée en canoë, j'ai vu des éléphants sauvages boire dans la rivière, une vision qui semble encore surréaliste.",
-          "how_to_find": "Prenez un minivan depuis le centre-ville de Surat Thani ; c'est environ 2 heures de route. Demandez le parc national de Khao Sok, et n'oubliez pas d'emporter des en-cas pour le trajet !",
-          "best_time": "Visitez tôt le matin pour voir la brume se lever au-dessus du lac, ou pendant la saison des pluies quand les cascades sont les plus spectaculaires.",
-          "local_insights": [
-            "Engagez un guide local pour les meilleurs itinéraires et conseils pour observer la faune.",
-            "Respectez l'environnement ; ne nourrissez pas les animaux."
-          ]
-        },
-        {
-          "name": "Ratchaprapha Dam",
-          "story": "J'ai passé une journée magique au barrage de Ratchaprapha, où j'ai rejoint un groupe d'habitants pour un pique-nique au bord de l'eau. Nous avons partagé des plats faits maison, et j'ai appris à préparer le khao niew mamuang (mango sticky rice) avec une tante locale. L'eau turquoise du barrage avec les montagnes en toile de fond était une vision que je n'oublierai jamais.",
-          "how_to_find": "Rendez-vous au barrage depuis Surat Thani ; vous pouvez louer une moto ou prendre un bus local. Suivez les panneaux vers le barrage et gardez les yeux ouverts pour les vues magnifiques.",
-          "best_time": "Allez en fin d'après-midi pour un coucher de soleil à couper le souffle au-dessus de l'eau.",
-          "local_insights": [
-            "Apportez de la nourriture à partager ; c'est un excellent moyen de créer des liens avec les locaux.",
-            "N'oubliez pas votre appareil photo pour le paysage époustouflant."
-          ]
-        }
-      ],
-      "authentic_experiences": [
-        {
-          "activity": "Participer à une sortie de pêche locale",
-          "story": "J'ai passé une matinée à pêcher avec une famille locale qui m'a invité sur leur sortie traditionnelle en longtail boat. La camaraderie sur le bateau, les rires et l'excitation d'attraper notre dîner en ont fait une expérience inoubliable.",
-          "cultural_significance": "La pêche ici est plus qu'un simple gagne-pain ; c'est un moyen pour les familles de tisser des liens et de partager des histoires.",
-          "how_to_participate": "Renseignez-vous sur les marchés locaux ; beaucoup de pêcheurs sont ouverts à partager leurs bateaux avec les visiteurs pour une petite contribution.",
-          "insights": [
-            "Soyez respectueux de leur espace et de leurs traditions ; proposez d'aider avec la prise."
-          ]
-        },
-        {
-          "activity": "Participer à un festival local",
-          "story": "J'ai eu la chance d'être à Surat Thani pendant le festival annuel de Chao Mae Kuan Im. Les rues étaient animées de musique, de danses et de processions colorées, et j'ai été emporté par la joie de la célébration.",
-          "cultural_significance": "Les festivals sont ici une expression vivante de la communauté et de la spiritualité.",
-          "how_to_participate": "Consultez les calendriers d'événements locaux ; les habitants partagent volontiers les détails des festivals à venir.",
-          "insights": [
-            "Habillez-vous modestement et participez respectueusement ; c'est un moment où la communauté se rassemble."
-          ]
-        }
-      ],
-      "foodie_adventures": [
-        {
-          "dish": "Khao Soi",
-          "location": "Rendez-vous chez Khao Soi Khun Yai près du centre-ville.",
-          "story": "La première fois que j'ai goûté le Khao Soi, j'ai été époustouflé par le bouillon crémeux de curry au lait de coco et les nouilles croustillantes. La propriétaire, une femme âgée, a partagé la recette familiale avec moi, et j'ai eu le sentiment de goûter un morceau de son histoire.",
-          "price_range": "50-70 baht par bol.",
-          "ordering_tips": [
-            "Demandez-le épicé ! Les locaux adorent le piment."
-          ]
-        },
-        {
-          "dish": "Roti",
-          "location": "Cherchez un vendeur de rue près de la rivière Tapee.",
-          "story": "J'allais souvent chercher un roti chez un vendeur qui les préparait frais sur place. Le doux arôme de la pâte grésillant sur la plaque chaude était irrésistible, surtout quand il était garni de lait concentré et de bananes.",
-          "price_range": "20-30 baht par roti.",
-          "ordering_tips": [
-            "Essayez la version croustillante ; c'est un favori local."
-          ]
-        }
-      ],
-      "overview": "Surat Thani est le carrefour de transport essentiel du sud de la Thaïlande et une destination sous-estimée à part entière. Bien que la plupart des voyageurs y transitent en route vers les célèbres îles de Koh Samui, Koh Phangan et Koh Tao, la ville elle-même offre des expériences thaïlandaises authentiques sans la foule touristique. Avec une population de 132 000 habitants, Surat Thani sert de camp de base stratégique pour explorer des parcs nationaux préservés, des temples historiques et des paysages côtiers qui caractérisent la région.\n\nLa ville combine une infrastructure de transport pratique avec de véritables attractions culturelles. Visitez le City Pillar Shrine de Surat Thani pour découvrir la vie spirituelle locale, explorez la rivière Tapee pour des promenades pittoresques le long des berges, ou plongez dans les marchés de nuit animés avec certains des meilleurs fruits de mer et plats régionaux du sud de la Thaïlande. Contrairement à ses voisines insulaires, Surat Thani reste d'une authenticité rafraîchissante — un endroit où vous rencontrez la vie quotidienne thaïlandaise plutôt que la fantaisie des resorts balnéaires. L'emplacement stratégique de la ville en fait un point de départ idéal pour des excursions d'une journée au parc national de Khao Sok et au barrage de Ratchaprapha, tandis que les terminaux de ferry offrent un accès facile aux aventures insulaires.",
-      "thingsToDo": "Surat Thani offre des activités variées allant de l'exploration de la nature à l'immersion culturelle. Commencez par le parc national de Khao Sok (entrée : 300 THB/9 $), avec sa forêt tropicale primaire, ses falaises calcaires, ses sentiers de randonnée et la possibilité d'observer la faune, notamment des éléphants et des gibbons. Visitez le barrage de Ratchaprapha/lac Cheow Lan (entrée : 300 THB/9 $) pour ses magnifiques eaux émeraude reflétant des formations karstiques spectaculaires, ainsi que des expériences de bungalows flottants.\n\nExplorez le patrimoine culturel au Wat Phra Borommathat Chaiya, un temple vieux de 1 200 ans datant de la période Srivijaya, et au musée national de Chaiya (entrée : 100 THB/3 $) avec ses artefacts Srivijaya. Les deux sites offrent un aperçu des anciens royaumes et de la signification spirituelle de la région.\n\nPour une immersion locale, explorez le marché de nuit et la Walking Street de Surat Thani (gratuit), où les vendeurs proposent des fruits de mer frais, des spécialités du sud thaïlandais et de l'artisanat. Faites des promenades pittoresques en bateau sur la rivière Tapee ou visitez les villages de pêcheurs de la baie de Ban Don (gratuit) pour découvrir la vie côtière et les forêts de mangrove. Ces attractions offrent un excellent rapport qualité-prix avec de nombreuses expériences culturelles et naturelles gratuites.",
-      "whereToStay": "Surat Thani propose des hébergements économiques dans toute la ville, avec de nombreuses auberges et pensions pour les backpackers. Les zones proches du centre-ville et du quai offrent un accès pratique aux transports et aux attractions. Le B2 Surat Thani Boutique & Budget Hotel sur Donnok Road offre un excellent rapport qualité-prix pour les voyageurs à petit budget recherchant un confort basique avec wifi gratuit et parking.\n\nLes hôtels de milieu de gamme comme le B2 Surat Thani Premier Hotel offrent des équipements améliorés, incluant de meilleures installations et des emplacements pratiques près du campus de l'université Prince of Songkla. Ces hébergements offrent généralement un bon rapport qualité-prix avec une qualité 3 étoiles à des prix raisonnables. Les chambres incluent généralement la climatisation, une salle de bain privée et des commodités modernes sans les prix du luxe.\n\nL'hébergement près du quai de Ban Don et du centre-ville offre l'accès le plus facile aux services de ferry pour les excursions insulaires. La plupart des hôtels organisent le transport vers le quai. Réservez un hébergement près des marchés de nuit ou des rues piétonnes si vous souhaitez un accès facile à la nourriture et aux expériences locales. Les tarifs dans toute la ville restent considérablement moins chers que Koh Samui ou Koh Phangan, faisant de Surat Thani un choix idéal pour les voyageurs soucieux de leur budget.",
-      "gettingAround": "Le centre-ville de Surat Thani est facilement explorable à pied, la plupart des attractions étant à distance de marche. Les options de transport local comprennent les tuk-tuks (40-100 THB pour les trajets en ville), les songthaews ou minibus partagés sur des itinéraires fixes (20-40 THB tarifs habituels) et l'application Grab pour des trajets à prix fixes. La location de moto est disponible mais nécessite un permis de conduire international. Pour les excursions d'une journée vers le parc national de Khao Sok et le barrage de Ratchaprapha, les tours organisés depuis les hôtels offrent un transport pratique avec activités incluses (généralement 800-1 500 THB par personne). Les hôtels peuvent organiser le transport en minibus vers les terminaux de ferry (200-300 THB) ou des tuk-tuks directement au quai de Ban Don pour les services de ferry vers les îles. Les liaisons de bus régionales desservent d'autres destinations du sud de la Thaïlande avec des départs fréquents.",
-      "bestTimeToVisit": "La meilleure période pour visiter Surat Thani est de novembre à février, quand la mousson du sud-ouest se termine et que le temps devient chaud et sec. Ces mois offrent les conditions les plus stables pour l'exploration de la ville et les excursions dans les parcs nationaux. Les températures diurnes oscillent autour de 28-32°C avec un minimum de précipitations, rendant les activités de plein air tout à fait confortables. Cette période coïncide avec la saison fraîche de Thaïlande et attire le plus de touristes, réservez donc vos hébergements à l'avance si vous voyagez pendant la période des vacances de décembre-janvier.\n\nÉvitez mai à octobre quand la mousson du sud-ouest apporte de fortes pluies et des mers agitées, rendant les services de ferry vers les îles imprévisibles et les activités de plein air difficiles. Septembre-octobre connaît les précipitations les plus abondantes. Mars-avril devient extrêmement chaud et humide, avec des températures dépassant 35°C. Fin novembre est idéal car l'affluence reste gérable tandis que le temps est parfait. Si le budget est la priorité, envisagez septembre-octobre pour des prix plus bas, bien que le risque météorologique soit considérable. Les intersaisons (mars-avril et octobre-novembre) offrent des compromis entre météo et prix.",
-      "safetyTips": "Surat Thani est généralement sûre pour les touristes avec un bon sens urbain de base. Les petits vols surviennent sur les marchés animés et dans les zones de sorties, gardez donc vos objets de valeur en sécurité et utilisez les coffres-forts de l'hôtel pour les passeports et l'argent liquide supplémentaire. Évitez de marcher seul tard le soir dans les zones inconnues, surtout autour de la zone portuaire après la tombée de la nuit. Utilisez des tuk-tuks enregistrés ou l'application Grab plutôt que d'héler des véhicules non identifiés, et convenez toujours des tarifs à l'avance avec les tuk-tuks traditionnels. La circulation peut être chaotique ; traversez les rues avec prudence et attention aux deux-roues.\n\nLors de la visite des parcs nationaux, restez sur les sentiers balisés et engagez des guides locaux pour l'exploration de la forêt tropicale. Respectez les avertissements de sécurité aquatique au lac Cheow Lan et suivez les règlements du parc. N'acceptez pas de boissons d'inconnus dans les bars et surveillez vos affaires dans les zones de marché animées. L'eau du robinet est généralement sûre mais l'eau en bouteille est partout disponible et bon marché. Des pharmacies sont disponibles dans toute la ville pour les besoins médicaux mineurs. Gardez des copies des documents importants séparément des originaux. Dans l'ensemble, les précautions touristiques standard combinées à la vigilance assurent un voyage en toute sécurité à Surat Thani.",
-      "translated_at": "2026-03-10T00:00:00.000Z"
-    },
-    "de": {
-      "enhanced_description": "Surat Thani, oft nur als Durchgangsstation zu den atemberaubenden Inseln Koh Samui, Koh Phangan und Koh Tao gesehen, ist eine lebendige Stadt, die vor Leben und Kultur pulsiert. Als ich aus dem Bus von Bangkok stieg, war die Luft erfüllt vom Duft gegrillten Fleisches, vermischt mit dem süßen Aroma frischer tropischer Früchte – ein verlockender Willkommensgruß, der auf die kulinarischen Abenteuer hindeutete, die kommen sollten. Der geschäftige Tapee-Fluss, gesäumt von lokalen Verkäufern und Fischerbooten, bildet das Herz der Stadt, wo das rhythmische Plätschern des Wassers den Alltag der Menschen widerspiegelt. Anders als die polierten Touristenorte Thailands bewahrt Surat Thani eine Authentizität, die anderswo schwer zu finden ist. Eine meiner liebsten Erinnerungen ist das Wandern über den örtlichen Nachtmarkt, wo ich auf einen kleinen Stand stieß, der gegrillten Tintenfisch verkaufte – das Lächeln des Verkäufers war so warm wie das Feuer, über dem er kochte. Ich kam ins Gespräch, und er erzählte Geschichten von seinen Fischfängen, seine Hände gestikulierten lebhaft, als er den Reichtum des Meeres beschrieb. Es sind diese Begegnungen, die Surat Thani so besonders machen; die Verbindungen, die mit Einheimischen geschmiedet werden, die ihre Geschichten bereitwillig teilen. Die Stadt wird oft von ihren berühmteren Nachbarn überschattet, doch sie bietet einen Einblick in den Alltag Südthailands. Hier beginnen die Morgen mit dem Krähen der Hähne und dem Duft frisch zubereiteten Jasminreises. Der City Pillar Shrine mit seinem kunstvollen Design und seiner spirituellen Bedeutung ist ein Muss – nicht nur wegen der beeindruckenden Architektur, sondern auch wegen des Friedens, den er inmitten der Geschäftigkeit der Stadt bringt. Wenn die Sonne untergeht, erstrahlt der Fluss im Schein der Laternen, und man spürt den Herzschlag von Surat Thani, wenn sich die Einheimischen versammeln, um die kühlende Abendbrise zu genießen. Es gibt einen Rhythmus des Lebens hier, der einen einlädt, langsamer zu werden und in die lokale Kultur einzutauchen. Ob man die geschäftigen Märkte erkundet, Straßenessen genießt oder einfach am Fluss sitzt und das Leben beobachtet – Surat Thani ist eine Schatzkammer an Erlebnissen, die darauf wartet, entdeckt zu werden. Es ist nicht nur ein Zwischenstopp; es ist ein Reiseziel, das einen bleibenden Eindruck in Ihrem Herzen hinterlässt und Sie dazu drängt, wiederzukommen.",
-      "hidden_gems": [
-        {
-          "name": "Khao Sok National Park",
-          "story": "Ich erinnere mich an meinen ersten Besuch in Khao Sok; es war eine spontane Entscheidung, nachdem ich auf dem Markt mit einem Einheimischen gesprochen hatte, der darauf bestand, dass ich die Schönheit des Parks sehen müsse. Der üppige Dschungel, die aufragenden Kalksteinklippen und die stillen Seen raubten mir den Atem. Bei einer geführten Kanufahrt entdeckte ich wilde Elefanten, die aus dem Fluss tranken – ein Anblick, der sich immer noch surreal anfühlt.",
-          "how_to_find": "Nehmen Sie einen Minivan vom Stadtzentrum von Surat Thani; die Fahrt dauert etwa 2 Stunden. Fragen Sie nach Khao Sok National Park und vergessen Sie nicht, Snacks für die Fahrt mitzunehmen!",
-          "best_time": "Besuchen Sie den Park am frühen Morgen, um den Nebel über dem See aufsteigen zu sehen, oder während der Regenzeit, wenn die Wasserfälle am spektakulärsten sind.",
-          "local_insights": [
-            "Nehmen Sie einen lokalen Führer für die besten Wanderwege und Tipps zur Tierbeobachtung mit.",
-            "Respektieren Sie die Umwelt; füttern Sie keine Tiere."
-          ]
-        },
-        {
-          "name": "Ratchaprapha Dam",
-          "story": "Ich verbrachte einen magischen Tag am Ratchaprapha-Staudamm, wo ich mich einer Gruppe Einheimischer zu einem Picknick am Wasser anschloss. Wir teilten hausgemachte Gerichte, und ich lernte von einer örtlichen Tante, wie man Khao Niew Mamuang (Mango-Klebreis) zubereitet. Das türkisfarbene Wasser des Staudamms vor der Kulisse der Berge war ein Anblick, den ich nie vergessen werde.",
-          "how_to_find": "Fahren Sie von Surat Thani zum Staudamm; Sie können ein Motorrad mieten oder einen lokalen Bus nehmen. Achten Sie auf die Schilder zum Staudamm und halten Sie Ausschau nach den atemberaubenden Aussichten.",
-          "best_time": "Fahren Sie am späten Nachmittag für atemberaubende Sonnenuntergangsblicke über das Wasser.",
-          "local_insights": [
-            "Bringen Sie Essen zum Teilen mit; das ist eine großartige Möglichkeit, mit Einheimischen in Kontakt zu kommen.",
-            "Vergessen Sie Ihre Kamera nicht für die atemberaubende Landschaft."
-          ]
-        }
-      ],
-      "authentic_experiences": [
-        {
-          "activity": "An einem lokalen Angelausflug teilnehmen",
-          "story": "Ich verbrachte einen Morgen beim Fischen mit einer einheimischen Familie, die mich einlud, ihre traditionelle Langheckboot-Tour mitzumachen. Die Kameradschaft auf dem Boot, das Lachen und der Nervenkitzel, unser Abendessen zu fangen, machten es zu einem unvergesslichen Erlebnis.",
-          "cultural_significance": "Fischen ist hier mehr als nur ein Lebensunterhalt; es ist eine Möglichkeit für Familien, sich zu verbinden und Geschichten zu teilen.",
-          "how_to_participate": "Fragen Sie auf den lokalen Märkten herum; viele Fischer sind bereit, ihre Boote gegen eine kleine Gebühr mit Besuchern zu teilen.",
-          "insights": [
-            "Seien Sie respektvoll gegenüber ihrem Raum und ihren Traditionen; bieten Sie an, beim Fang zu helfen."
-          ]
-        },
-        {
-          "activity": "An einem lokalen Festival teilnehmen",
-          "story": "Ich hatte das Glück, während des jährlichen Chao Mae Kuan Im Festivals in Surat Thani zu sein. Die Straßen waren lebendig mit Musik, Tanz und farbenfrohen Prozessionen, und ich wurde von der Freude der Feierlichkeiten mitgerissen.",
-          "cultural_significance": "Festivals sind hier ein lebhafter Ausdruck von Gemeinschaft und Spiritualität.",
-          "how_to_participate": "Schauen Sie in lokale Veranstaltungskalender; Einheimische teilen gerne Details über bevorstehende Festivals.",
-          "insights": [
-            "Kleiden Sie sich bescheiden und nehmen Sie respektvoll teil; es ist eine Zeit für die Gemeinschaft, zusammenzukommen."
-          ]
-        }
-      ],
-      "foodie_adventures": [
-        {
-          "dish": "Khao Soi",
-          "location": "Head to Khao Soi Khun Yai near the city center.",
-          "story": "Als ich das erste Mal Khao Soi probierte, war ich überwältigt von der cremigen Kokosnuss-Curry-Brühe und den knusprigen Nudeln. Die Besitzerin, eine ältere Dame, teilte das Familienrezept mit mir, und ich hatte das Gefühl, ein Stück ihrer Geschichte zu kosten.",
-          "price_range": "50-70 baht per bowl.",
-          "ordering_tips": [
-            "Bestellen Sie es scharf! Die Einheimischen lieben die Schärfe."
-          ]
-        },
-        {
-          "dish": "Roti",
-          "location": "Find a street vendor near Tapee River.",
-          "story": "Ich holte mir oft einen Roti von einem Verkäufer, der sie frisch vor Ort zubereitete. Der süße Duft des Teiges, der auf der heißen Platte brutzelte, war unwiderstehlich, besonders mit Kondensmilch und Bananen belegt.",
-          "price_range": "20-30 baht per roti.",
-          "ordering_tips": [
-            "Probieren Sie die knusprige Variante; sie ist ein lokaler Favorit."
-          ]
-        }
-      ],
-      "overview": "Surat Thani ist Südthailands wichtigster Verkehrsknotenpunkt und ein unterschätztes Reiseziel für sich. Während die meisten Reisenden auf dem Weg zu berühmten Inseln wie Koh Samui, Koh Phangan und Koh Tao nur durchreisen, bietet die Stadt selbst authentische thailändische Erlebnisse ohne Touristenmassen. Mit einer Bevölkerung von 132.000 Einwohnern dient Surat Thani als strategischer Ausgangspunkt für die Erkundung unberührter Nationalparks, historischer Tempel und Küstenlandschaften, die die Region prägen.\n\nDie Stadt verbindet praktische Verkehrsinfrastruktur mit echten kulturellen Sehenswürdigkeiten. Besuchen Sie den City Pillar Shrine von Surat Thani, um das lokale spirituelle Leben zu erleben, erkunden Sie den Tapee-Fluss für malerische Uferspaziergänge, oder tauchen Sie in die geschäftigen Nachtmärkte ein, die einige der besten Meeresfrüchte und regionalen Gerichte Südthailands servieren. Anders als seine Inselnachbarn bleibt Surat Thani erfrischend authentisch – ein Ort, an dem man den alltäglichen thailändischen Alltag erlebt statt Strandresort-Fantasien. Die strategische Lage der Stadt macht sie perfekt für Tagesausflüge zum Khao Sok National Park und Ratchaprapha-Staudamm, während Fährterminals einfachen Zugang zu Inselhopping-Abenteuern bieten.",
-      "thingsToDo": "Surat Thani bietet vielfältige Aktivitäten von Naturerkundung bis hin zu kulturellem Eintauchen. Beginnen Sie im Khao Sok National Park (Eintritt: 300 THB/9 $) mit uraltem Regenwald, Kalksteinklippen, Wanderwegen und Wildtierbeobachtung einschließlich Elefanten und Gibbons. Besuchen Sie den Ratchaprapha-Staudamm/Cheow Lan Lake (Eintritt: 300 THB/9 $) für atemberaubende smaragdgrüne Gewässer, die dramatische Karstformationen reflektieren, und schwimmende Bungalow-Erlebnisse.\n\nErkunden Sie das kulturelle Erbe im Wat Phra Borommathat Chaiya, einem 1.200 Jahre alten Tempel aus der Srivijaya-Periode, und im Chaiya-Nationalmuseum (Eintritt: 100 THB/3 $) mit Srivijaya-Artefakten. Beide Stätten bieten Einblick in die alten Königreiche und die spirituelle Bedeutung der Region.\n\nFür lokales Eintauchen erkunden Sie den Nachtmarkt und die Fußgängerzone von Surat Thani (kostenlos), wo Händler frische Meeresfrüchte, südthailändische Spezialitäten und Kunsthandwerk verkaufen. Unternehmen Sie malerische Bootsfahrten auf dem Tapee-Fluss oder besuchen Sie die Fischerdörfer der Ban Don Bay (kostenlos), um das Küstenleben und die für die Region typischen Mangrovenwälder zu erleben. Diese Attraktionen bieten hervorragendes Preis-Leistungs-Verhältnis mit vielen kostenlosen Kultur- und Naturerlebnissen.",
-      "whereToStay": "Surat Thani bietet budgetfreundliche Unterkunftsmöglichkeiten in der gesamten Stadt, mit zahlreichen Hostels und Pensionen für Rucksackreisende. Gebiete in der Nähe des Stadtzentrums und des Piers bieten bequemen Zugang zu Verkehrsmitteln und Sehenswürdigkeiten. Das B2 Surat Thani Boutique & Budget Hotel an der Donnok Road bietet hervorragenden Wert für Budgetreisende, die grundlegenden Komfort mit kostenlosem WLAN und Parkplätzen suchen.\n\nMittelklassehotels wie das B2 Surat Thani Premier Hotel bieten verbesserte Ausstattung einschließlich besserer Einrichtungen und praktischer Lage in der Nähe des Campuses der Prince of Songkla University. Diese Unterkünfte bieten typischerweise guten Wert mit 3-Sterne-Qualität zu vernünftigen Preisen. Die Zimmer umfassen in der Regel Klimaanlage, eigenes Bad und moderne Annehmlichkeiten ohne Luxuspreise.\n\nUnterkünfte in der Nähe des Ban Don Piers und des Stadtzentrums bieten den einfachsten Zugang zu Fähren für Inselausflüge. Die meisten Hotels bieten Transfers zum Pier an. Buchen Sie Unterkünfte in der Nähe von Nachtmärkten oder Fußgängerzonen, wenn Sie einfachen Zugang zu Restaurants und lokalen Erlebnissen wünschen. Die Preise in der gesamten Stadt bleiben deutlich günstiger als auf Koh Samui oder Koh Phangan, was Surat Thani ideal für preisbewusste Reisende macht.",
-      "gettingAround": "Das Stadtzentrum von Surat Thani ist sehr gut zu Fuß erreichbar, die meisten Sehenswürdigkeiten liegen in Laufweite. Zu den lokalen Transportmöglichkeiten gehören Tuk-Tuks (40-100 THB für Stadtfahrten), Songthaews oder Sammelbusse auf festen Routen (typischerweise 20-40 THB) und die Grab-App für app-basierte Fahrdienste zu festen Preisen. Motorradverleih ist verfügbar, erfordert aber einen internationalen Führerschein. Für Tagesausflüge zum Khao Sok National Park und Ratchaprapha-Staudamm bieten organisierte Touren von Hotels bequemen Transport mit enthaltenen Aktivitäten (typischerweise 800-1.500 THB pro Person). Hotels können Minibus-Transport zu den Fährterminals (200-300 THB) oder Tuk-Tuks direkt zum Ban Don Pier für Inselfähren arrangieren. Regionale Busverbindungen bedienen andere Ziele in Südthailand mit häufigen Abfahrten.",
-      "bestTimeToVisit": "Die beste Reisezeit für Surat Thani ist November bis Februar, wenn der Südwestmonsun endet und das Wetter warm und trocken wird. Diese Monate bieten die stabilsten Bedingungen sowohl für die Stadterkundung als auch für Tagesausflüge in die Nationalparks. Die Tagestemperaturen liegen bei 28-32°C mit minimalem Niederschlag, was Outdoor-Aktivitäten rundum angenehm macht. Dieser Zeitraum fällt mit Thailands kühler Jahreszeit zusammen und zieht die meisten Touristen an, buchen Sie daher Unterkünfte im Voraus, wenn Sie während der Dezember-Januar-Ferien reisen.\n\nVermeiden Sie Mai bis Oktober, wenn der Südwestmonsun starke Regenfälle und raue See bringt, was Inselfähren unvorhersehbar und Outdoor-Aktivitäten schwierig macht. September-Oktober verzeichnet die stärksten Niederschläge. März-April wird extrem heiß und feucht, mit Temperaturen über 35°C. Ende November ist ideal, da die Besucherzahlen überschaubar bleiben und das Wetter perfekt ist. Wenn das Budget am wichtigsten ist, erwägen Sie September-Oktober für niedrigere Preise, obwohl das Wetterrisiko erheblich ist. Die Übergangsmonate (März-April und Oktober-November) bieten Kompromisse zwischen Wetter und Preisen.",
-      "safetyTips": "Surat Thani ist für Touristen mit normalem Stadtverstand generell sicher. Taschendiebstahl kommt in belebten Märkten und Ausgehvierteln vor, halten Sie daher Wertsachen sicher und nutzen Sie den Hotelsafe für Reisepässe und zusätzliches Bargeld. Vermeiden Sie es, spät nachts allein in unbekannten Gegenden zu gehen, besonders rund um das Hafenviertel nach Einbruch der Dunkelheit. Nutzen Sie registrierte Tuk-Tuks oder die Grab-App anstatt nicht gekennzeichnete Fahrzeuge anzuhalten, und vereinbaren Sie bei traditionellen Tuk-Tuks immer vorher den Preis. Der Verkehr kann chaotisch sein; überqueren Sie Straßen vorsichtig und achten Sie auf den Motorradverkehr.\n\nBeim Besuch von Nationalparks bleiben Sie auf markierten Wegen und engagieren Sie lokale Führer für die Regenwaldkerkundung. Beachten Sie die Wassersicherheitswarnungen am Cheow Lan Lake und befolgen Sie die Parkvorschriften. Nehmen Sie keine Getränke von Fremden in Bars an und achten Sie in belebten Marktbereichen auf Ihre Habseligkeiten. Leitungswasser ist generell sicher, aber Flaschenwasser ist überall erhältlich und günstig. Apotheken sind in der gesamten Stadt für kleinere medizinische Bedürfnisse verfügbar. Bewahren Sie Kopien wichtiger Dokumente getrennt von den Originalen auf. Insgesamt gewährleisten standardmäßige Touristenvorsichtsmaßnahmen in Kombination mit Aufmerksamkeit für die Umgebung eine sichere Reise in Surat Thani.",
-      "translated_at": "2026-03-10T00:00:00.000Z"
-    },
-    "zh": {
-      "enhanced_description": "素叻他尼，常被视为前往苏梅岛、帕岸岛和涛岛等美丽岛屿的中转站，实际上是一座充满活力、洋溢着生活气息和文化底蕴的城市。当我从曼谷的大巴上走下来时，空气中弥漫着烤肉的香气和新鲜热带水果的甜美芬芳，这诱人的欢迎暗示着即将到来的美食冒险。热闹的塔皮河两岸排列着当地摊贩和渔船，构成了城市的心脏，河水有节奏的声响回应着人们的日常生活。不同于泰国那些精心打造的旅游景点，素叻他尼保留着一种在其他地方难以找到的真实感。我最美好的记忆之一是在当地夜市闲逛时，偶然发现一个卖烤鱿鱼的小摊，摊主的笑容和他烤鱼的火焰一样温暖。我和他聊了起来，他分享了自己出海捕鱼的故事，双手生动地比划着描绘大海的富饶。正是这样的互动让素叻他尼如此特别——与愿意分享故事的当地人建立的联结。这座城市常被更知名的邻居们所遮盖，但它提供了一扇窥见泰国南部日常生活的窗口。在这里，清晨伴随着公鸡的啼鸣和新鲜茉莉花饭的香气开始。城市柱祠以其精美的设计和精神意义值得一访，不仅因为壮美的建筑，更因为它在城市喧嚣中带来的宁静感。当夕阳西下，河面映照着灯笼的光辉，你能感受到素叻他尼的脉搏，当地人聚在一起享受凉爽的晚风。这里的生活有一种节奏，邀请你放慢脚步，沉浸在当地文化中。无论是探索热闹的市场、品尝街头美食，还是只是坐在河边看生活徐徐展开，素叻他尼都是一座等待被发现的体验宝库。它不仅仅是一个中转站，更是一个会在你心上留下印记、让你想要再次回来的目的地。",
-      "hidden_gems": [
-        {
-          "name": "Khao Sok National Park",
-          "story": "我记得第一次去考索的经历；那是在市场上和一位当地人聊天后的即兴决定，他坚持说我一定要去看看那里的美景。茂密的丛林、耸立的石灰岩悬崖和宁静的湖泊让我叹为观止。在一次有导游带领的独木舟之旅中，我看到野生大象在河边饮水，那个画面至今仍觉得不真实。",
-          "how_to_find": "从素叻他尼市中心乘小巴，大约2小时车程。询问Khao Sok National Park方向，别忘了带些零食路上吃！",
-          "best_time": "清晨前往可以看到湖面升起的薄雾，或在雨季瀑布最壮观的时候。",
-          "local_insights": [
-            "请当地导游带路，获得最佳徒步路线和野生动物观察建议。",
-            "尊重环境；不要喂食动物。"
-          ]
-        },
-        {
-          "name": "Ratchaprapha Dam",
-          "story": "我在拉差帕帕大坝度过了神奇的一天，和一群当地人在水边野餐。我们分享自制的菜肴，一位当地阿姨教我做khao niew mamuang（芒果糯米饭）。大坝碧绿的湖水映衬着群山的背景，是我永生难忘的景色。",
-          "how_to_find": "从素叻他尼出发前往大坝；可以租摩托车或乘当地巴士。注意指向大坝的路牌，沿途美景尽收眼底。",
-          "best_time": "下午晚些时候前往，可以欣赏水面上壮丽的日落。",
-          "local_insights": [
-            "带些食物分享；这是与当地人交流的好方式。",
-            "别忘了带相机记录令人叹为观止的风景。"
-          ]
-        }
-      ],
-      "authentic_experiences": [
-        {
-          "activity": "参加当地钓鱼之旅",
-          "story": "我花了一个上午和一个当地家庭一起钓鱼，他们邀请我加入他们的传统长尾船之旅。船上的友情、欢笑和钓到晚餐的兴奋让这次经历终生难忘。",
-          "cultural_significance": "捕鱼在这里不仅是生计，更是家庭团聚和分享故事的方式。",
-          "how_to_participate": "在当地市场打听；许多渔民愿意以少许费用让游客同船出海。",
-          "insights": [
-            "尊重他们的空间和传统；主动帮忙处理渔获。"
-          ]
-        },
-        {
-          "activity": "参加当地节庆活动",
-          "story": "我有幸在素叻他尼赶上了一年一度的观音娘娘节。街道上充满了音乐、舞蹈和五彩缤纷的游行队伍，我被庆祝活动的欢乐气氛所感染。",
-          "cultural_significance": "这里的节日是社区和精神信仰的生动表达。",
-          "how_to_participate": "查看当地活动日历；当地人通常乐于分享即将举办的节日信息。",
-          "insights": [
-            "穿着得体并恭敬参与；这是社区团聚的时刻。"
-          ]
-        }
-      ],
-      "foodie_adventures": [
-        {
-          "dish": "Khao Soi",
-          "location": "Head to Khao Soi Khun Yai near the city center.",
-          "story": "第一次品尝Khao Soi时，浓郁的椰奶咖喱汤底和酥脆的面条让我惊艳不已。老板是一位年迈的老奶奶，她与我分享了家族食谱，让我感觉品尝到了她的一段人生故事。",
-          "price_range": "50-70 baht per bowl.",
-          "ordering_tips": [
-            "要求加辣！当地人喜欢够辣。"
-          ]
-        },
-        {
-          "dish": "Roti",
-          "location": "Find a street vendor near Tapee River.",
-          "story": "我经常在一位现做的摊贩那里买roti。面糊在热铁板上滋滋作响的甜美香气让人无法抗拒，尤其是加上炼乳和香蕉之后。",
-          "price_range": "20-30 baht per roti.",
-          "ordering_tips": [
-            "试试酥脆版本；这是当地人的最爱。"
-          ]
-        }
-      ],
-      "overview": "素叻他尼是泰国南部重要的交通枢纽，同时也是一个被低估的旅游目的地。虽然大多数旅行者只是路过前往苏梅岛、帕岸岛和涛岛等著名岛屿，但这座城市本身提供了远离旅游人群的正宗泰国体验。拥有132,000人口的素叻他尼是探索原始国家公园、历史寺庙和定义该地区特色的海岸景观的战略基地。\n\n这座城市将实用的交通基础设施与真正的文化景点相结合。参观素叻他尼城市柱祠体验当地精神生活，沿塔皮河漫步欣赏优美的河畔风光，或深入热闹的夜市品尝泰国南部最好的海鲜和地方菜肴。与其岛屿邻居不同，素叻他尼保持着令人耳目一新的真实——一个你能体验到泰国日常生活而非海滩度假幻想的地方。城市的战略位置使其成为前往考索国家公园和拉差帕帕大坝一日游的理想出发点，渡轮码头则提供便捷的跳岛游通道。",
-      "thingsToDo": "素叻他尼提供从自然探索到文化沉浸的多样化活动。首先推荐考索国家公园（门票300 THB/$9），拥有原始雨林、石灰岩悬崖、徒步小径以及大象和长臂猿等野生动物观察。参观拉差帕帕大坝/朝兰湖（门票300 THB/$9），欣赏翡翠般的湖水映射壮观的喀斯特地貌，体验水上浮屋住宿。\n\n探索文化遗产可前往Wat Phra Borommathat Chaiya，一座有1,200年历史的室利佛逝时期寺庙，以及柴也国家博物馆（门票100 THB/$3）展出的室利佛逝文物。两处景点都能深入了解该地区古代王国和精神文化。\n\n想融入当地生活，可探索素叻他尼夜市和步行街（免费），摊贩出售新鲜海鲜、南泰特色菜和手工艺品。乘船游览塔皮河或访问Ban Don湾渔村（免费），体验海岸生活和该地区特有的红树林。这些景点性价比极高，许多文化和自然体验都是免费的。",
-      "whereToStay": "素叻他尼全城提供经济实惠的住宿选择，有大量青年旅社和旅馆服务于背包客。市中心和码头附近的区域交通和景点都很便利。位于Donnok路的B2 Surat Thani Boutique & Budget Hotel为寻求基本舒适度并配有免费WiFi和停车位的预算旅行者提供极佳性价比。\n\n中档酒店如B2 Surat Thani Premier Hotel提供升级设施，位于宋卡王子大学校区附近，交通便利。这些住宿通常以合理价格提供3星级品质。客房一般配有空调、独立卫浴和现代设施，无需支付豪华价格。\n\nBan Don码头和市中心附近的住宿最方便前往岛屿渡轮。大多数酒店提供码头接送服务。如果想方便就餐和体验当地生活，可选择夜市或步行街附近的住宿。全城价格明显低于苏梅岛或帕岸岛，使素叻他尼成为注重预算旅行者的理想选择。",
-      "gettingAround": "素叻他尼市中心非常适合步行，大多数景点步行可达。当地交通包括嘟嘟车（市内出行40-100 THB）、双条车或固定路线共享小巴（通常20-40 THB）以及Grab叫车应用（固定价格）。摩托车租赁需要国际驾照。前往考索国家公园和拉差帕帕大坝一日游，酒店组织的旅游团提供便捷交通和包含的活动（通常800-1,500 THB/人）。酒店可安排小巴接送至渡轮码头（200-300 THB）或嘟嘟车直达Ban Don码头搭乘岛屿渡轮。区域巴士连接泰南其他目的地，班次频繁。",
-      "bestTimeToVisit": "素叻他尼的最佳旅行时间为11月至次年2月，西南季风结束后天气温暖干燥。这几个月无论是城市游览还是国家公园一日游都有最稳定的天气条件。白天气温约28-32°C，降雨极少，非常适合户外活动。此期间恰逢泰国凉季，游客最多，如在12月-1月假期出行请提前预订住宿。\n\n避开5月至10月的西南季风季，大量降雨和海浪使岛屿渡轮不可预测，户外活动困难。9月-10月降雨最多。3月-4月极其炎热潮湿，气温超过35°C。11月下旬最为理想，游客尚不拥挤且天气完美。如果预算最重要，可考虑9月-10月享受更低价格，但天气风险较大。过渡季节（3月-4月和10月-11月）在天气和价格之间取得折中。",
-      "safetyTips": "素叻他尼对具备基本城市常识的游客总体安全。拥挤的市场和夜间区域偶有小偷小摸，请保管好贵重物品并将护照和多余现金存放在酒店保险箱。避免夜间独自在不熟悉的区域行走，尤其是天黑后的码头区。使用正规嘟嘟车或Grab应用而非招手拦无标识车辆，传统嘟嘟车务必提前谈好价格。交通可能混乱，过马路时注意安全，留意摩托车。\n\n参观国家公园时请走标记路线，雨林探索请聘请当地导游。注意朝兰湖的水上安全警告并遵守公园规定。不要接受酒吧陌生人递的饮品，在拥挤的市场注意随身物品。自来水基本安全，但瓶装水随处可得且价格便宜。全城药店可处理小型医疗需求。重要证件复印件与原件分开保管。总体而言，标准的旅游防范措施加上对周围环境的警觉即可确保在素叻他尼的安全旅行。",
-      "translated_at": "2026-03-11T00:00:00.000Z"
-    },
-    "ru": {
-      "enhanced_description": "Сурат-Тхани, часто воспринимаемый лишь как транзитный пункт на пути к потрясающим островам Ко Самуи, Ко Панган и Ко Тао, на самом деле — живой город, пульсирующий жизнью и культурой. Когда я сошёл с автобуса из Бангкока, воздух был наполнен ароматом жареного мяса, смешанным со сладким запахом свежих тропических фруктов — манящее приветствие, предвещавшее кулинарные приключения. Оживлённая река Тхапи, вдоль которой расположились местные торговцы и рыбацкие лодки, служит сердцем города, где ритмичный плеск воды отражает повседневную жизнь людей. В отличие от вылизанных туристических мест Таиланда, Сурат-Тхани сохраняет подлинность, которую трудно найти в другом месте. Одно из моих любимых воспоминаний — прогулка по местному ночному рынку, где я наткнулся на маленький лоток с жареными кальмарами; улыбка торговца была такой же тёплой, как огонь, на котором он готовил. Мы разговорились, и он рассказал истории о своих рыбалках, оживлённо жестикулируя, описывая морские богатства. Именно такие моменты делают Сурат-Тхани особенным — связи, которые завязываешь с местными жителями, охотно делящимися своими историями. Город часто остаётся в тени более знаменитых соседей, но предлагает взгляд на повседневную жизнь южного Таиланда. Утро здесь начинается с петушиных криков и аромата свежесваренного жасминового риса. Городская колонна-святыня с её изящным убранством и духовным значением обязательна к посещению — не только ради впечатляющей архитектуры, но и ради чувства покоя среди городской суеты. С наступлением сумерек река сияет отражениями фонарей, и вы чувствуете пульс Сурат-Тхани, когда местные жители собираются насладиться прохладным вечерним бризом. Здесь есть свой ритм жизни, который приглашает вас замедлиться и погрузиться в местную культуру. Будь то исследование шумных рынков, наслаждение уличной едой или просто созерцание жизни на берегу реки — Сурат-Тхани полон опыта, ожидающего своего открытия. Это не просто пересадочный пункт, а направление, которое оставит след в вашем сердце и позовёт вернуться снова.",
-      "hidden_gems": [
-        {
-          "name": "Khao Sok National Park",
-          "story": "Помню свой первый визит в Кхао Сок — это было спонтанное решение после разговора с местным жителем на рынке, который настоял, что я обязан увидеть эту красоту. Пышные джунгли, возвышающиеся известняковые скалы и безмятежные озёра захватили дух. Во время экскурсии на каноэ с гидом я увидел диких слонов, пьющих из реки — зрелище, которое до сих пор кажется нереальным.",
-          "how_to_find": "Возьмите минивэн из центра Сурат-Тхани — дорога займёт около 2 часов. Спросите про Khao Sok National Park и не забудьте взять перекус в дорогу!",
-          "best_time": "Приезжайте рано утром, чтобы увидеть туман, поднимающийся над озером, или в сезон дождей, когда водопады наиболее впечатляющи.",
-          "local_insights": [
-            "Возьмите местного гида — он подскажет лучшие тропы и места наблюдения за дикой природой.",
-            "Уважайте природу — не кормите животных."
-          ]
-        },
-        {
-          "name": "Ratchaprapha Dam",
-          "story": "Я провёл волшебный день у плотины Ратчапрапха, присоединившись к группе местных жителей на пикник у воды. Мы делились домашними блюдами, и местная тётушка научила меня готовить khao niew mamuang (манговый клейкий рис). Бирюзовые воды плотины на фоне гор — зрелище, которое я никогда не забуду.",
-          "how_to_find": "Отправляйтесь к плотине из Сурат-Тхани — можно арендовать мотоцикл или сесть на местный автобус. Следуйте указателям к плотине и наслаждайтесь потрясающими видами.",
-          "best_time": "Ближе к вечеру — великолепный закат над водой.",
-          "local_insights": [
-            "Возьмите еду, чтобы поделиться — это отличный способ подружиться с местными.",
-            "Не забудьте фотоаппарат для захватывающих дух пейзажей."
-          ]
-        }
-      ],
-      "authentic_experiences": [
-        {
-          "activity": "Рыбалка с местными жителями",
-          "story": "Я провёл утро на рыбалке с местной семьёй, которая пригласила меня на традиционную поездку на длиннохвостой лодке. Товарищество на борту, смех и азарт от того, что мы сами поймали свой ужин, сделали этот опыт незабываемым.",
-          "cultural_significance": "Рыбалка здесь — не просто заработок, а способ для семей сблизиться и поделиться историями.",
-          "how_to_participate": "Спросите на местных рынках — многие рыбаки рады взять гостей на борт за небольшую плату.",
-          "insights": [
-            "Уважайте их пространство и традиции; предложите помочь с уловом."
-          ]
-        },
-        {
-          "activity": "Участие в местном фестивале",
-          "story": "Мне повезло оказаться в Сурат-Тхани во время ежегодного фестиваля Чао Мэ Куан Им. Улицы ожили музыкой, танцами и красочными шествиями, и я был захвачен радостью празднования.",
-          "cultural_significance": "Здешние фестивали — яркое выражение единства общины и духовности.",
-          "how_to_participate": "Проверяйте местный календарь мероприятий — жители обычно рады рассказать о предстоящих праздниках.",
-          "insights": [
-            "Одевайтесь скромно и участвуйте с уважением — это время единения общины."
-          ]
-        }
-      ],
-      "foodie_adventures": [
-        {
-          "dish": "Khao Soi",
-          "location": "Head to Khao Soi Khun Yai near the city center.",
-          "story": "Когда я впервые попробовал Khao Soi, сливочный кокосовый бульон карри и хрустящая лапша потрясли меня. Хозяйка — пожилая женщина — поделилась семейным рецептом, и я почувствовал, что пробую кусочек её истории.",
-          "price_range": "50-70 baht per bowl.",
-          "ordering_tips": [
-            "Попросите поострее! Местные любят погорячее."
-          ]
-        },
-        {
-          "dish": "Roti",
-          "location": "Find a street vendor near Tapee River.",
-          "story": "Я часто брал роти у торговца, который готовил их на месте. Сладкий аромат теста, шипящего на горячей плите, был неотразим — особенно с топпингом из сгущёнки и бананов.",
-          "price_range": "20-30 baht per roti.",
-          "ordering_tips": [
-            "Попробуйте хрустящую версию — это местный фаворит."
-          ]
-        }
-      ],
-      "overview": "Сурат-Тхани — важный транспортный узел на юге Таиланда и недооценённое туристическое направление. Хотя большинство путешественников лишь проезжают через него по дороге на острова Ко Самуи, Ко Панган и Ко Тао, сам город предлагает подлинный тайский опыт вдали от туристических толп. Сурат-Тхани с населением 132 000 человек — стратегическая база для исследования нетронутых национальных парков, исторических храмов и прибрежных ландшафтов региона.\n\nГород сочетает удобную транспортную инфраструктуру с настоящими культурными достопримечательностями. Посетите городскую колонну-святыню, чтобы ощутить местную духовную жизнь, прогуляйтесь вдоль реки Тхапи, любуясь живописной набережной, или окунитесь в оживлённый ночной рынок с лучшими морепродуктами и блюдами южного Таиланда. В отличие от островных соседей, Сурат-Тхани сохраняет освежающую подлинность — место, где вы ощутите повседневный Таиланд, а не пляжную туристическую иллюзию. Стратегическое расположение города делает его идеальной базой для однодневных поездок в национальный парк Кхао Сок и к плотине Ратчапрапха, а паромные причалы обеспечивают удобный доступ к островам.",
-      "thingsToDo": "Сурат-Тхани предлагает разнообразный досуг — от знакомства с природой до погружения в культуру. Начните с национального парка Кхао Сок (вход 300 THB/$9) с девственными тропическими лесами, известняковыми скалами, пешими тропами и возможностью наблюдать слонов и гиббонов. Посетите плотину Ратчапрапха / озеро Чео Лан (вход 300 THB/$9) — изумрудные воды среди впечатляющих карстовых формаций с плавучими домиками для ночлега.\n\nДля знакомства с культурным наследием отправляйтесь в Wat Phra Borommathat Chaiya — храм эпохи Шривиджая возрастом 1 200 лет — и в Национальный музей Чайя (вход 100 THB/$3) с экспонатами эпохи Шривиджая. Оба места дают глубокое представление о древних королевствах и духовной культуре региона.\n\nЧтобы почувствовать местную жизнь, загляните на ночной рынок и пешеходную улицу Сурат-Тхани (бесплатно) — торговцы предлагают свежие морепродукты, блюда южного Таиланда и изделия ручной работы. Речная прогулка по Тхапи или визит в рыбацкую деревню залива Бан Дон (бесплатно) позволят ощутить прибрежную жизнь и увидеть мангровые заросли региона.",
-      "whereToStay": "В Сурат-Тхани представлено доступное жильё на любой вкус — от хостелов для бюджетных путешественников до отелей среднего класса. Удобнее всего останавливаться в центре города или у причала — рядом с транспортом и достопримечательностями. B2 Surat Thani Boutique & Budget Hotel на Donnok Road предлагает отличное соотношение цены и качества с бесплатным Wi-Fi и парковкой.\n\nОтели среднего уровня, такие как B2 Surat Thani Premier Hotel, расположены рядом с кампусом университета Принца Сонгкла и предлагают улучшенные условия. Они обеспечивают качество 3 звёзд по разумным ценам — номера с кондиционером, собственной ванной и современными удобствами без переплаты.\n\nЖильё у причала Бан Дон и в центре города наиболее удобно для пересадки на паромы. Большинство отелей предлагают трансфер до причала. Для тех, кто хочет быть ближе к ресторанам и местной жизни, подойдут варианты у ночного рынка или пешеходной улицы. Цены по всему городу значительно ниже, чем на Ко Самуи или Ко Панган.",
-      "gettingAround": "Центр Сурат-Тхани удобен для пеших прогулок, большинство достопримечательностей в шаговой доступности. Местный транспорт включает тук-туки (40–100 THB по городу), сонгтэо (маршрутные микроавтобусы, 20–40 THB) и приложение Grab с фиксированными ценами. Для аренды мотоцикла нужны международные права. Для однодневных поездок в Кхао Сок и к плотине Ратчапрапха удобны организованные туры от отелей (обычно 800–1 500 THB/чел). Отели также могут организовать минивэн до паромного причала (200–300 THB) или тук-тук до причала Бан Дон для паромов на острова. Региональные автобусы соединяют город с другими направлениями юга Таиланда.",
-      "bestTimeToVisit": "Лучшее время для посещения Сурат-Тхани — с ноября по февраль, когда после юго-западного муссона устанавливается тёплая и сухая погода. В эти месяцы условия оптимальны как для прогулок по городу, так и для поездок в национальные парки. Дневная температура около 28–32°C при минимальных осадках — идеально для активного отдыха. Это совпадает с прохладным сезоном в Таиланде и пиком туристического потока; в декабре–январе бронируйте жильё заранее.\n\nИзбегайте юго-западного муссона с мая по октябрь — обильные дожди и волны делают паромы на острова непредсказуемыми, а экскурсии затруднёнными. Пик осадков — сентябрь–октябрь. Март–апрель очень жарки и влажны, температура выше 35°C. Идеальный баланс — конец ноября: немного туристов и отличная погода. Если бюджет важнее всего, рассмотрите сентябрь–октябрь с более низкими ценами, но будьте готовы к погодным сюрпризам.",
-      "safetyTips": "Сурат-Тхани в целом безопасен для путешественников, соблюдающих базовые правила городской осторожности. На людных рынках и в ночных зонах возможны мелкие кражи — храните ценности при себе, а паспорт и лишнюю наличность оставляйте в сейфе отеля. Избегайте одиноких прогулок по незнакомым районам ночью, особенно у причалов после темноты. Пользуйтесь официальными тук-туками или приложением Grab вместо неофициальных машин; с тук-тукерами обязательно договаривайтесь о цене заранее. Движение может быть хаотичным — будьте внимательны при переходе дорог и следите за мотоциклами.\n\nВ национальных парках придерживайтесь обозначенных маршрутов и берите местного гида для прогулок по джунглям. Соблюдайте правила безопасности на воде у озера Чео Лан. Не принимайте напитки от незнакомцев в барах, следите за вещами на людных рынках. Водопроводная вода в целом безопасна, но бутилированная повсюду доступна и стоит копейки. Аптеки по всему городу помогут с мелкими медицинскими вопросами. Храните копии документов отдельно от оригиналов.",
-      "translated_at": "2026-03-11T00:00:00.000Z"
-    },
-    "ko": {
-      "enhanced_description": "수랏타니는 태국 남부의 필수 교통 허브이자 저평가된 여행지입니다. 대부분의 여행자들이 코사무이, 코팡안, 코타오로 가는 길에 거쳐가지만, 수랏타니 자체에도 매력적인 볼거리가 많습니다.\n\n카오속 국립공원은 수랏타니의 하이라이트로, 1억 6천만 년 된 열대우림과 석회암 카르스트 지형이 장관입니다. 라차쁘라파 댐(치아우란 호수)에서의 수상 방갈로 숙박은 잊을 수 없는 경험으로, 에메랄드빛 호수 위에서 밤하늘의 별을 감상할 수 있습니다.\n\n수랏타니 시내의 야시장은 남부 태국 특유의 향신료가 풍부한 음식을 맛볼 수 있는 곳이며, 따피강을 따라 보트 투어도 즐길 수 있습니다. 섬으로 떠나기 전 하루 이틀 머물며 탐험할 가치가 충분합니다.",
-      "hidden_gems": [
-        {
-          "name": "카오속 국립공원",
-          "description": "1억 6천만 년 된 열대우림과 석회암 카르스트가 장관인 국립공원으로, 트레킹과 수상 방갈로 숙박이 인기입니다."
-        },
-        {
-          "name": "라차쁘라파 댐",
-          "description": "에메랄드빛 호수 위의 수상 방갈로에서 숙박하며 별을 감상할 수 있는 독특한 명소입니다."
-        }
-      ],
-      "authentic_experiences": [
-        {
-          "name": "현지 낚시 체험",
-          "description": "현지 어부와 함께 전통 방식으로 바다 낚시를 체험합니다."
-        },
-        {
-          "name": "현지 축제 참여",
-          "description": "수랏타니의 전통 축제에 참여하여 남부 태국 문화를 체험합니다."
-        }
-      ],
-      "foodie_adventures": [
-        {
-          "name": "카오소이",
-          "description": "코코넛 커리 국수로, 남부에서도 즐길 수 있는 태국 대표 요리입니다."
-        },
-        {
-          "name": "로티",
-          "description": "바삭한 태국식 팬케이크로, 연유나 바나나와 함께 즐기는 인기 간식입니다."
-        }
-      ],
-      "overview": "수랏타니는 태국 남부의 필수 교통 허브로, 코사무이·코팡안·코타오 섬으로의 페리 출발지입니다. 카오속 국립공원과 라차쁘라파 댐도 주요 볼거리입니다.",
-      "thingsToDo": "수랏타니는 자연 탐험부터 문화 체험까지 다양한 활동을 제공합니다. 카오속 국립공원에서 트레킹과 수상 방갈로 숙박을 즐기고, 라차쁘라파 댐에서 카약을 타세요. 야시장에서 남부 태국 음식을 맛보고, 따피강 보트 투어도 추천합니다.",
-      "whereToStay": "수랏타니는 예산 친화적인 숙소가 도시 전역에 있습니다. 페리 터미널 근처에 편리한 게스트하우스가 있고, 카오속 국립공원에는 정글 리조트가 있습니다.",
-      "gettingAround": "수랏타니 시내는 도보로 충분하며 대부분의 명소가 걸어서 갈 수 있는 거리에 있습니다. 카오속 등 외곽 명소는 미니밴이나 렌터카가 편리합니다.",
-      "bestTimeToVisit": "수랏타니의 최적 방문 시기는 11월부터 2월까지로, 남서 몬순이 끝나고 건조하고 쾌적한 날씨가 이어집니다. 우기(5-10월)에는 카오속 국립공원이 더 푸르지만 비가 많습니다.",
-      "safetyTips": "수랏타니는 안전한 도시입니다. 페리 탑승 시 공인된 업체를 이용하고, 카오속 국립공원 트레킹 시 가이드와 함께 하세요. 야간 페리 이용 시 소지품을 관리하세요.",
-      "translated_at": "2026-03-14T00:00:00.000Z"
-    }
-  },
-  "extended_description": "## Overview\nSurat Thani is southern Thailand's largest province and the essential transit hub for anyone heading to the Gulf Islands — Koh Samui, Koh Phangan, and Koh Tao. Most travelers pass through quickly, but those who linger discover a surprisingly rewarding destination in its own right. The provincial capital sits along the Tapi River with a bustling night market, authentic southern Thai food stalls, and a genuine local atmosphere untouched by tourism. More importantly, Surat Thani province contains Khao Sok National Park, one of Southeast Asia's most spectacular wilderness areas, with ancient rainforest, dramatic limestone karsts, and the otherworldly Cheow Lan Lake. The name \"Surat Thani\" means \"City of Good People,\" and the warm welcome from locals who rarely interact with foreign tourists reinforces that reputation.\n\n## Best Time to Visit\nThe Gulf of Thailand coast has a different weather pattern than the Andaman side. The driest months are January through April, with February and March being the calmest for ferry crossings. The monsoon season hits hardest from October through December, when rough seas can delay or cancel ferries to the islands — November is the wettest month. However, Khao Sok National Park is best visited from December through April when trails are dry and the lake is at its most scenic. June through October brings heavy rain to Khao Sok, and some trails close. The Full Moon Party on Koh Phangan happens monthly and creates a surge in ferry demand — book transport a few days ahead if your travel coincides.\n\n## How to Get There\nSurat Thani Airport (URT) receives flights from Bangkok (1 hour 10 minutes, 1,000-3,000 THB on AirAsia, Thai Lion Air, Nok Air from Don Mueang). From the airport, shared minivans to the ferry piers cost 150-200 THB. Overnight trains from Bangkok's Hua Lamphong station take 8-12 hours (sleeper berths 500-1,200 THB, seat class 250-500 THB) and arrive at Surat Thani railway station, from where shuttle buses connect to the piers. Overnight buses from Bangkok's Southern Terminal take 10-11 hours (400-700 THB). Many travelers buy combined bus-ferry or train-ferry tickets from travel agents on Khao San Road or online (600-1,200 THB all-in to Koh Samui or Koh Phangan). Ferries depart from Donsak Pier (1 hour east of Surat Thani city) to Koh Samui (1.5-3 hours, 200-600 THB depending on boat type) and Koh Phangan (2.5-4 hours, 300-700 THB).\n\n## Where to Stay\nMost travelers only spend one night in Surat Thani city before catching an early ferry. Budget guesthouses near the train station and night market start at 300-600 THB. The Tapi River area has a few mid-range hotels from 800-1,800 THB with river views. For Khao Sok National Park (about 1.5 hours west of Surat Thani city), accommodation ranges from basic bamboo bungalows at 300-500 THB to floating raft houses on Cheow Lan Lake from 1,500-5,000 THB per night (including boat transfer and meals). The lakeside floating bungalows are a once-in-a-lifetime experience — waking up surrounded by limestone cliffs and jungle is unforgettable.\n\n## What to Do\nKhao Sok National Park is the undisputed highlight of Surat Thani province. The 739-square-kilometer park protects rainforest older than the Amazon, with towering limestone karsts, gibbons, hornbills, and the world's largest flower (Rafflesia kerrii, blooming December-February). A day trip to Cheow Lan Lake includes a longtail boat ride through flooded forest, swimming, and kayaking between limestone towers (day trips 1,500-2,500 THB; overnight on floating bungalows 2,500-5,000 THB). Jungle trekking with guides costs 800-1,500 THB per day. In Surat Thani city itself, the Tapi River night market is worth an evening for excellent southern Thai food and local atmosphere. Monkey Training College in Kanchanadit district is a unique Surat Thani attraction where pig-tailed macaques are trained to harvest coconuts — an ancient local tradition (free or donation-based). For spiritual sites, Wat Suan Mokkh is a renowned forest meditation temple offering 10-day silent retreats.\n\n## Food & Dining\nSurat Thani is a gateway to southern Thai cuisine at its most authentic — fiery, pungent, and intensely flavored. The Tapi River night market (daily from 5pm) is the place to eat: khao mok gai (chicken biryani, a Muslim-Thai specialty, 40-60 THB), gaeng tai pla (fermented fish-organ curry with vegetables, 50-80 THB), and roti canai with curry dipping sauce (20-30 THB). Surat Thani is also famous for its oyster farms — fresh oysters are sold at the pier areas for 100-200 THB per plate. Pad tai Surat (the local pad Thai variation with a punchier flavor) is a must-try at the market. Khao Sok village has a handful of restaurants serving Thai food at tourist-friendly prices (80-200 THB) along the main road.\n\n## Budget Guide\nSurat Thani itself is remarkably cheap. Budget travelers passing through spend 500-900 THB per night including accommodation and food. For Khao Sok, budget 1,500-3,000 THB per day (42-83 USD) including guesthouse, park entry (300 THB for foreigners), and one activity. The biggest expense for most travelers is the combined transport to the islands: bus-ferry packages from Bangkok run 600-1,200 THB, while flight-ferry combos are 2,000-4,000 THB. Ferries from Donsak Pier start at 200 THB for the slow car ferry to Koh Samui. Budget travelers heading to Koh Tao (the furthest island) should take the night boat from Surat Thani city pier (350-500 THB, departing around 11pm, arriving 6am).\n\n## Safety & Tips\nSurat Thani is a safe transit city. Be cautious with combined travel packages booked through Khao San Road agencies — while most are legitimate, some use substandard buses. Book through reputable companies like Lomprayah, Seatran, or Raja Ferry for the island crossings. Ferry cancellations during monsoon season (October-December) can strand travelers — have flexible dates and consider flying to Koh Samui directly during peak monsoon. In Khao Sok, always trek with a guide and watch for leeches during the rainy season. The night boat to Koh Tao is basic — bring a sleeping bag or travel sheet and secure your belongings. If arriving by overnight train, the station is 14 kilometers from town — shuttle buses and shared taxis wait for every train arrival.",
-  "getting_there": {
-    "from_bangkok": {
-      "flight": "1h 10min, 1,000-3,000 THB (AirAsia, Thai Lion Air, Nok Air from Don Mueang)",
-      "train": "8-12 hours overnight, 250-1,200 THB (sleeper berths available)",
-      "bus": "10-11 hours overnight, 400-700 THB from Southern Terminal"
-    },
-    "to_islands": {
-      "koh_samui": "Ferry from Donsak Pier, 1.5-3 hours, 200-600 THB",
-      "koh_phangan": "Ferry from Donsak Pier, 2.5-4 hours, 300-700 THB",
-      "koh_tao": "Night boat from Surat Thani pier 350-500 THB (11pm-6am) or high-speed catamaran via Donsak"
-    },
-    "local": "Shared minivans to Donsak Pier 150-200 THB, songthaews in town 20-30 THB",
-    "airport": "Surat Thani Airport (URT)"
-  },
-  "best_time": {
-    "peak": "Jan-Apr (driest, calmest seas)",
-    "shoulder": "May, Dec",
-    "low": "Oct-Nov (heaviest rain, rough ferry crossings)",
-    "avoid": "November for island ferries (peak monsoon, cancellations common)",
-    "best_months": "Feb-Mar",
-    "why": "Driest weather, calm seas for ferry crossings, Khao Sok trails open and scenic."
-  },
-  "budget": {
-    "backpacker": "$14-25/day (city transit only)",
-    "mid_range": "$42-83/day (with Khao Sok)",
-    "luxury": "$120+/day (floating bungalow experience)",
-    "typical_meal": "40-60 THB street food, 80-200 THB restaurant"
-  },
-  "neighborhoods": [
+  "contentSources": [
     {
-      "name": "Surat Thani City Center",
-      "vibe": "Transit hub, Tapi River night market, authentic southern atmosphere",
-      "best_for": "Budget travelers in transit, foodies seeking real Thai flavors",
-      "price_range": "300-1,800 THB/night"
+      "type": "travel-guide",
+      "title": "A Guide to Surat Thani: Thailand's Southern Gem That the White Lotus Production Crossed the Ocean For",
+      "creator": "MICHELIN Guide",
+      "url": "https://guide.michelin.com/th/en/article/travel/a-guide-to-surat-thani",
+      "description": "Used for the old-town framing around Talat Lang, Na Dan, the 100-Year Arch Bridge, street art, Wat Phra Borommathat Chaiya, and the city's current food-and-market identity."
     },
     {
-      "name": "Khao Sok National Park",
-      "vibe": "Ancient rainforest, limestone karsts, Cheow Lan Lake, floating bungalows",
-      "best_for": "Nature lovers, adventure travelers, photographers",
-      "price_range": "300-5,000 THB/night"
+      "type": "tourism-office",
+      "title": "Check-in at Surat Thani for 2 Days and 1 Night: Enjoying Without the Sea",
+      "creator": "Tourism Product Division, Tourism Authority of Thailand",
+      "url": "https://tourismproduct.tourismthailand.org/en/2024/08/31/%E0%B9%80%E0%B8%8A%E0%B9%87%E0%B8%81%E0%B8%AD%E0%B8%B4%E0%B8%99-%E0%B8%AA%E0%B8%B8%E0%B8%A3%E0%B8%B2%E0%B8%A9%E0%B8%8E%E0%B8%A3%E0%B9%8C%E0%B8%98%E0%B8%B2%E0%B8%99%E0%B8%B5-2-%E0%B8%A7%E0%B8%B1-2-2/",
+      "description": "Used for Bang Bai Mai, Pracharat Bang Bai Mai Floating Market, Khlong Roi Sai, Wat Bang Bai Mai, Laem Pho, and Pum Riang village."
     },
     {
-      "name": "Donsak Pier area",
-      "vibe": "Ferry departure zone, basic accommodation, functional transit stop",
-      "best_for": "Travelers catching early ferries",
-      "price_range": "400-1,200 THB/night"
+      "type": "tourism-office",
+      "title": "Surat Thani Route Highlights",
+      "creator": "Tourism Product Division, Tourism Authority of Thailand",
+      "url": "https://tourismproduct.tourismthailand.org/2024/03/31/%E0%B9%80%E0%B8%AA%E0%B9%89%E0%B8%99%E0%B8%97%E0%B8%B2%E0%B8%87%E0%B8%97%E0%B9%88%E0%B8%AD%E0%B8%87%E0%B9%80%E0%B8%97%E0%B8%B5%E0%B9%88%E0%B8%A2%E0%B8%A7-%E0%B8%88-%E0%B8%AA%E0%B8%B8%E0%B8%A3%E0%B8%B2%E0%B8%A9%E0%B8%8E%E0%B8%A3%E0%B9%8C%E0%B8%98%E0%B8%B2%E0%B8%99%E0%B8%B5/",
+      "description": "Used for TAT's 2024 edited mainland shortlist including Wat Bang Bai Mai, Laem Pho, Pum Riang, and Khlong Roi Sai."
+    },
+    {
+      "type": "attraction",
+      "title": "The City Pillar Shrine, Surat Thani",
+      "creator": "Tourism Authority of Thailand",
+      "url": "https://www.tourismthailand.org/Attraction/the-city-pillar-shrine-surat-thani",
+      "description": "Used as the official reference point for the city-pillar attraction page and shrine positioning."
+    },
+    {
+      "type": "attraction",
+      "title": "Wat Phra Borommathat Chaiya",
+      "creator": "Tourism Authority of Thailand",
+      "url": "https://www.tourismthailand.org/Attraction/wat-phra-borommathat-chaiya",
+      "description": "Used as the official attraction reference for the Chaiya temple page."
+    },
+    {
+      "type": "restaurant",
+      "title": "Lian Tai",
+      "creator": "MICHELIN Guide",
+      "url": "https://guide.michelin.com/us/en/cchanghwad-suraasdrthaanii/suraasdrthaanii_2719394/restaurant/lian-tai",
+      "description": "Used for the breakfast-small-eats layer and the current Surat Thani city restaurant shortlist."
+    },
+    {
+      "type": "restaurant",
+      "title": "Khao Kriab Pak Mor",
+      "creator": "MICHELIN Guide",
+      "url": "https://guide.michelin.com/en/cchanghwad-suraasdrthaanii/suraasdrthaanii_2719394/restaurant/khao-kriab-pak-mor-talat-na-san-jao",
+      "description": "Used for Na San Jao market food framing and the veteran dumpling stall."
+    },
+    {
+      "type": "restaurant",
+      "title": "Heng Khao Moo Daeng",
+      "creator": "MICHELIN Guide",
+      "url": "https://guide.michelin.com/en/cchanghwad-suraasdrthaanii/suraasdrthaanii_2719394/restaurant/heng-khao-moo-daeng",
+      "description": "Used for the Thai-Chinese lunch layer and current Surat Thani food planning."
+    },
+    {
+      "type": "restaurant",
+      "title": "Sum Gradang Nga",
+      "creator": "MICHELIN Guide",
+      "url": "https://guide.michelin.com/en/cchanghwad-suraasdrthaanii/suraasdrthaanii_2719394/restaurant/sum-gradang-nga",
+      "description": "Used for current Bib Gourmand southern-dinner positioning inside Surat Thani city."
+    },
+    {
+      "type": "restaurant",
+      "title": "Nampetch",
+      "creator": "MICHELIN Guide",
+      "url": "https://guide.michelin.com/en/cchanghwad-suraasdrthaanii/suraasdrthaanii_2719394/restaurant/nampetch",
+      "description": "Used for ingredient-led southern Thai cooking in the wider Surat Thani mainland restaurant set."
+    },
+    {
+      "type": "restaurant",
+      "title": "Phunisa",
+      "creator": "MICHELIN Guide",
+      "url": "https://guide.michelin.com/us/en/cchanghwad-suraasdrthaanii/suraasdrthaanii_2719394/restaurant/phunisa",
+      "description": "Used for the Tapi River view restaurant option and the outer-mainland dinner layer."
+    },
+    {
+      "type": "restaurant",
+      "title": "Lam Phu 2",
+      "creator": "MICHELIN Guide",
+      "url": "https://guide.michelin.com/us/en/cchanghwad-suraasdrthaanii/suraasdrthaanii_2719394/restaurant/lam-phu-2",
+      "description": "Used for the river-view local seafood option in the mainland restaurant layer."
+    },
+    {
+      "type": "hotel",
+      "title": "Sleep Station Surat Thani",
+      "creator": "Sleep Station Surat Thani",
+      "url": "https://sleepstation.sleephotelgroup.com/",
+      "description": "Used for direct property details, address, parking, and practical city-stay positioning."
+    },
+    {
+      "type": "hotel",
+      "title": "Sleep Hotel Group, Surat Thani",
+      "creator": "Sleep Hotel Group",
+      "url": "https://sleephotelgroup.com/",
+      "description": "Used for direct confirmation of Sleep Hotel room types, parking, and in-town Surat Thani positioning."
+    },
+    {
+      "type": "hotel",
+      "title": "HOP INN Surat Thani",
+      "creator": "HOP INN Thailand",
+      "url": "https://www.hopinnhotel.com/our-hotels/hop-inn-surat-thani",
+      "description": "Used for direct budget-hotel positioning, Makham Tia address, and booking support."
+    },
+    {
+      "type": "hotel",
+      "title": "B2 Surat Thani Premier Hotel",
+      "creator": "B2 Boutique and Budget Hotels",
+      "url": "https://www.b2hotel.com/surat-thani/b2-surat-thani-premier-hotel/",
+      "description": "Used for official parking and free Wi-Fi confirmation on the direct site."
+    },
+    {
+      "type": "transport",
+      "title": "Seatran Ferry",
+      "creator": "Seatran Ferry",
+      "url": "https://www.seatranferry.com/",
+      "description": "Used for the current Donsak-to-island route structure so ferry logistics are handled as transport, not as city sightseeing."
     }
   ],
-  "must_try_food": [
-    "Khao mok gai (chicken biryani) — fragrant Muslim-Thai rice dish at the Tapi River night market (40-60 THB)",
-    "Fresh oysters from Surat Thani's oyster farms — served raw or grilled at the pier-area stalls (100-200 THB per plate)",
-    "Gaeng tai pla (fermented fish-organ curry) — intense southern Thai flavor, an acquired taste but unforgettable (50-80 THB)"
-  ],
-  "local_tips": [
-    "Buy combined bus-ferry or train-ferry tickets through Lomprayah or Seatran rather than Khao San Road agencies for more reliable service",
-    "The night boat to Koh Tao (350-500 THB, departing 11pm) saves a night of accommodation but is very basic — bring a sleeping sheet",
-    "Khao Sok floating bungalows on Cheow Lan Lake are worth the splurge — book at least a week ahead in peak season",
-    "The Tapi River night market is the best food in town — arrive by 5pm for the widest selection",
-    "If ferries are cancelled due to weather, Nok Air and Bangkok Airways fly direct to Koh Samui as a backup (expensive but reliable)"
-  ],
-  "day_trips": [
-    "Khao Sok National Park & Cheow Lan Lake (day trip or overnight) — longtail boat through limestone karsts, kayaking, jungle swimming (1,500-5,000 THB)",
-    "Ang Thong National Marine Park (from Koh Samui) — 42 islands with emerald lagoons and viewpoint hikes, accessible by speedboat (1,800-2,500 THB)",
-    "Monkey Training College (Kanchanadit) — watch pig-tailed macaques trained in the ancient art of coconut harvesting (free/donation)",
-    "Wat Suan Mokkh (Chaiya) — famous forest meditation temple offering 10-day silent retreats, peaceful day visit for non-retreaters (free)"
-  ],
-  "enriched_at": "2026-03-22"
+  "reviewed_by": "Go2Thailand Editorial Team",
+  "enhanced_at": "2026-03-27T00:00:00.000Z",
+  "factchecked_at": "2026-03-27T00:00:00.000Z",
+  "enrichedAt": "2026-03-27T00:00:00.000Z"
 }

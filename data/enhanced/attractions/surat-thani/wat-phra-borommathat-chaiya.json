@@ -1,5 +1,5 @@
 {
-  "id": 6,
+  "id": 5,
   "slug": "wat-phra-borommathat-chaiya",
   "name": {
     "en": "Wat Phra Borommathat Chaiya",
@@ -8,79 +8,74 @@
   "type": "temple",
   "city_slug": "surat-thani",
   "address": "Chaiya District, Surat Thani Province",
-  "location": {
-    "lat": 9.4167,
-    "lng": 99.1833
-  },
-  "opening_hours": "06:00-18:00",
+  "location": null,
+  "opening_hours": "Temple access is generally straightforward during daytime, but local conditions and special-day timing should be checked locally.",
   "entrance_fee": {
-    "thb": 0,
-    "usd": 0
+    "thb": null,
+    "usd": null
   },
   "description": {
-    "en": "Ancient temple with 1200-year-old chedi from Srivijaya period",
-    "nl": "Oude tempel met 1200 jaar oude chedi uit de Srivijaya periode"
+    "en": "The best heritage extension from town and one of southern Thailand's major sacred sites.",
+    "nl": "De beste heritage-extensie vanuit de stad en een van de grote heilige plekken van Zuid-Thailand."
   },
   "highlights": [
-    "1200-year-old chedi",
-    "Srivijaya period",
-    "Ancient temple",
-    "Historical significance"
+    "Srivijaya-era temple",
+    "Major sacred site",
+    "Best heritage add-on"
   ],
-  "image": "/images/cities/surat thani/attractions/Wat Phra Borommathat Chaiya.webp",
-  "official_website": null,
+  "image": "/images/cities/generated/surat-thani.webp",
   "seo": {
     "metaTitle": {
-      "en": "Wat Phra Borommathat Chaiya - Top Attraction in Surat Thani | Go2Thailand",
-      "nl": "Wat Phra Borommathat Chaiya - Top Attractie in Surat Thani | Go2Thailand"
+      "en": "Wat Phra Borommathat Chaiya | Go2Thailand",
+      "nl": "Wat Phra Borommathat Chaiya | Go2Thailand"
     },
     "metaDescription": {
-      "en": "Discover Wat Phra Borommathat Chaiya in Surat Thani. Ancient temple with 1200-year-old chedi from Srivijaya period...",
-      "nl": "Ontdek Wat Phra Borommathat Chaiya in Surat Thani. Oude tempel met 1200 jaar oude chedi uit de Srivijaya periode..."
+      "en": "Why Wat Phra Borommathat Chaiya is the strongest heritage extension from Surat Thani city.",
+      "nl": "Waarom Wat Phra Borommathat Chaiya de sterkste heritage-extensie vanuit Surat Thani is."
     }
   },
   "tags": [
-    "temple",
     "surat-thani",
-    "thailand",
-    "attraction",
-    "travel",
-    "tourism"
+    "chaiya",
+    "temple",
+    "srivijaya"
   ],
-  "enhanced_description": "Wat Phra Borommathat Chaiya is an ancient temple nestled in the Chaiya District of Surat Thani Province, showcasing the rich cultural tapestry of Thailand's history. Dating back over 1200 years, this remarkable site features a stunning chedi that exemplifies the artistry of the Srivijaya period, a time when this region was a pivotal center for trade and Buddhism. As you step into the temple grounds, you'll be greeted by the serene atmosphere and the intricate details of the chedi, which stands as a testament to the architectural prowess of ancient civilizations. Visitors can explore the temple's grounds, where they will find various Buddha statues, serene gardens, and informative plaques that explain the temple's significance. With free entrance, Wat Phra Borommathat Chaiya offers a unique opportunity to delve into Thailand's spiritual heritage without any cost. This temple not only serves as a place of worship but also as a historical landmark that invites exploration and reflection, making it a must-visit for anyone traveling through Surat Thani.",
-  "detailed_history": "Wat Phra Borommathat Chaiya is a significant historical site that dates back to the 8th century during the Srivijaya period, a time when the kingdom was known for its influence in Southeast Asia. The temple is believed to house relics of the Buddha, making it a pilgrimage site for Buddhists. The architectural style of the chedi is a blend of local and Indian influences, showcasing intricate carvings and a design that has withstood the test of time. The temple also played a crucial role in the spread of Buddhism in the region, serving as a place of learning and spiritual growth. Its historical significance is further enriched by its status as a symbol of the cultural heritage of Surat Thani, reflecting the area's deep-rooted connections to its past and the enduring legacy of the Srivijaya civilization.",
-  "visitor_experience": "When visiting Wat Phra Borommathat Chaiya, guests can expect a peaceful and reflective atmosphere. The layout features the majestic chedi at its center, surrounded by various smaller shrines and a tranquil garden area. A typical visit can last from one to two hours, allowing ample time to explore the temple grounds, take photographs, and soak in the historical ambiance. Visitors might also find local monks engaging in their daily rituals, adding to the spiritual experience. Informational signs throughout the temple provide insights into its history and significance, ensuring that guests leave with a deeper understanding of this ancient site.",
+  "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=Wat+Phra+Borommathat+Chaiya",
+  "best_time": "morning",
+  "duration_hours": 2,
+  "enhanced_description": "Wat Phra Borommathat Chaiya is the extension that gives Surat Thani real historical depth. Both MICHELIN and TAT still treat it as a major sacred site, which makes it a far better district detour than weak museum filler or transport-side padding.\n\nIf the city day is already anchored in Talat Lang and the market layer, Chaiya becomes the obvious next move. It works best as one deliberate half-day focused on the temple itself rather than as one stop inside a long overbuilt province loop.",
+  "detailed_history": "Tourism Product still describes the temple as a long-standing shrine from the Srivijaya period, while MICHELIN's current Surat Thani guide places it among the most significant holy sites in southern Thailand.",
+  "visitor_experience": "Expect a sacred temple visit, not a casual photo-only landmark. The reward is the historical and religious weight the site adds to a city-first Surat Thani itinerary.",
   "best_time_to_visit": {
-    "time_of_day": "Morning is the best time to visit, as the weather is cooler and the soft sunlight accentuates the temple's beauty.",
-    "duration": "Recommended visit duration is between 1 to 2 hours.",
-    "crowd_level": "Crowd levels are generally low, but visiting early in the morning helps avoid any potential influx of tourists."
+    "time_of_day": "Morning",
+    "duration": "About 90 minutes to 2 hours",
+    "crowd_level": "Light to moderate"
   },
-  "photography_tips": [
-    "The best photo spots include the chedi from various angles, especially from the garden area where the framing is ideal.",
-    "Morning light is perfect for capturing the intricate details of the chedi and surrounding architecture.",
-    "Look for Instagram-worthy spots near the lotus ponds and pathways leading to the chedi.",
-    "Be mindful of photography restrictions, especially during prayer times or in areas where monks are present."
-  ],
   "practical_info": {
-    "how_to_get_there": "Wat Phra Borommathat Chaiya is easily accessible by car or motorbike from Surat Thani city center, approximately a 40-minute drive. Public transportation options include local buses or songthaews heading towards Chaiya.",
-    "nearby_attractions": "Nearby attractions include Wat Phu Khao Thong, Chaiya National Museum, and the ancient city of Chaiya, all within a short walking distance.",
-    "food_options": "Local eateries and street food stalls are available nearby, offering traditional Thai dishes and refreshments.",
-    "shopping": "There are local markets within Chaiya District where visitors can find souvenirs and handicrafts."
+    "how_to_get_there": "Best visited as a dedicated Chaiya-side trip from Surat Thani city.",
+    "nearby_attractions": "Pum Riang and Laem Pho can be paired with the wider Chaiya block if you genuinely have enough time.",
+    "food_options": "Better treated as a heritage stop first; plan meals before or after the district route rather than depending on the temple area itself.",
+    "shopping": "Keep the focus on the temple and heritage context rather than souvenir hunting."
   },
   "insider_tips": [
-    "One local secret includes the lesser-known meditation area behind the main chedi, perfect for quiet reflection.",
-    "To make the most of your visit, consider bringing a guidebook for additional insights into the temple's history.",
-    "Many tourists miss the smaller shrines located around the grounds, which are equally captivating.",
-    "When visiting, dress modestly and respectfully, as is customary in Thai culture."
+    "This is the best heritage add-on from the city.",
+    "Give it real time and keep the district plan selective.",
+    "Dress and behave as you would at an active sacred site."
   ],
-  "seasonal_considerations": "The experience at Wat Phra Borommathat Chaiya changes throughout the year, with the rainy season (May to October) bringing lush greenery, while the dry season (November to April) offers clearer skies for photography.",
-  "accessibility": "The temple grounds are relatively accessible for visitors with mobility issues, featuring paved paths and level surfaces, although some areas may require assistance.",
-  "cultural_significance": "Wat Phra Borommathat Chaiya is pivotal to Thai culture and history as it represents the ancient roots of Buddhism in the region, embodying the architectural and spiritual achievements of the Srivijaya period.",
-  "fun_facts": [
-    "The temple's chedi is one of the oldest in Thailand, dating back to the 8th century.",
-    "It is believed that the relics housed within the chedi were brought from India, enhancing its significance.",
-    "The temple is not just a tourist attraction but also an active place of worship, where local devotees come to pay respects.",
-    "The architectural style of the chedi influenced many subsequent temples across Thailand, showcasing its historical importance."
-  ],
-  "enhanced_at": "2025-05-25T22:54:29.001Z"
+  "verified_note": "Source-backed summary based on TAT's official attraction page, Tourism Product temple coverage, and current MICHELIN city-guide framing.",
+  "cultural_significance": "Wat Phra Borommathat Chaiya anchors Surat Thani's deeper historical and sacred identity and keeps the trip tied to the mainland's real heritage layer.",
+  "contentSources": [
+    {
+      "name": "Wat Phra Borommathat Chaiya",
+      "url": "https://www.tourismthailand.org/Attraction/wat-phra-borommathat-chaiya"
+    },
+    {
+      "name": "5 Architectural Temples in Thailand!",
+      "url": "https://tourismproduct.tourismthailand.org/2025/07/19/%F0%9F%9B%95%F0%9F%8C%95%F0%9F%9B%955-%E0%B8%A7%E0%B8%B1%E0%B8%94%E0%B8%AA%E0%B8%A7%E0%B8%A2-%E0%B8%AA%E0%B8%96%E0%B8%B2%E0%B8%9B%E0%B8%B1%E0%B8%95%E0%B8%A2%E0%B8%81%E0%B8%A3%E0%B8%A3%E0%B8%A1%E0%B9%84%E0%B8%97%E0%B8%A2%E0%B8%97%E0%B8%B5%E0%B9%88%E0%B8%95%E0%B9%89%E0%B8%AD%E0%B8%87%E0%B9%84%E0%B8%9B%F0%9F%9B%95%F0%9F%8C%95%F0%9F%9B%95/"
+    },
+    {
+      "name": "A Guide to Surat Thani: Thailand's Southern Gem That the White Lotus Production Crossed the Ocean For",
+      "url": "https://guide.michelin.com/th/en/article/travel/a-guide-to-surat-thani"
+    }
+  ]
 }

@@ -1,206 +1,150 @@
 {
   "title": "Best Restaurants in Surat Thani Thailand (2026)",
-  "meta_description": "The 10 best restaurants in Surat Thani, Thailand with real ratings and guest reviews from tripadvisor. Updated 2026-03-08.",
-  "intro": "Discover the best restaurants in Surat Thani, Thailand. These recommendations are based on real guest reviews and ratings from tripadvisor.",
+  "meta_description": "The Surat Thani restaurants that still matter: old-town breakfast, Na San Jao market dumplings, Thai-Chinese lunch rooms, and serious southern dinners backed by the MICHELIN Guide.",
+  "intro": "Surat Thani food gets much stronger once you stop treating the city like a generic transit ranking exercise. The better shortlist is built around actual planning value: one breakfast small-eats stop, one market-food anchor, one Thai-Chinese lunch room, and a few serious southern kitchens that make the mainland city worth staying in.",
   "items": [
     {
       "rank": 1,
-      "name": "JUZE Island Seafood Brunch & Bar",
-      "description": "JUZE Island Seafood Brunch & Bar is a 4.9-rated Seafood, Cafe restaurant in Surat Thani.",
-      "location": "Surat Thani",
-      "current_price": "$$ - $$$",
-      "highlights": [],
-      "insider_tips": [],
-      "current_info": "Cuisine: Seafood, Cafe • Price: $$ - $$$ • Rating: 4.9/5 • 53 reviews",
-      "scraped": {
-        "source": "tripadvisor",
-        "cuisine": "Seafood, Cafe",
-        "price_range": "$$ - $$$",
-        "rating": 4.9,
-        "review_count": 53,
-        "scraped_at": "2026-03-08T16:59:57.587Z"
-      },
-      "trip_affiliate_url": "https://tp.media/r?marker=602467&trs=421888&p=7631&u=https%3A%2F%2Fwww.trip.com%2Fhotels%2Flist%3Fkeyword%3DJUZE%2520Island%2520Seafood%2520Brunch%2520%2526%2520Bar%2520Surat%2520Thani"
+      "name": "Lian Tai",
+      "description": "The clearest breakfast anchor in town because the MICHELIN Guide still treats it as the legendary patongo stop in Surat Thani.",
+      "location": "70 Chonkasem Road, Talat, Mueang Surat Thani",
+      "current_price": "Budget",
+      "highlights": [
+        "MICHELIN-recognized patongo",
+        "Best breakfast stop",
+        "Good with the old-town walk"
+      ],
+      "insider_tips": [
+        "Use this early, then move straight into Talat Lang and the bridge zone."
+      ],
+      "current_info": "MICHELIN's current Surat Thani guide still singles out Lian Tai as a patongo classic and one of the easiest local breakfast wins in town."
     },
     {
       "rank": 2,
-      "name": "The Heaven Bar & Restaurant Khao Sok",
-      "description": "The Heaven Bar & Restaurant Khao Sok is a 4.4-rated Italian, Bar restaurant in Surat Thani.",
-      "location": "Surat Thani",
-      "current_price": "$",
-      "highlights": [],
-      "insider_tips": [],
-      "current_info": "Cuisine: Italian, Bar • Price: $ • Rating: 4.4/5 • 353 reviews",
-      "scraped": {
-        "source": "tripadvisor",
-        "cuisine": "Italian, Bar",
-        "price_range": "$",
-        "rating": 4.4,
-        "review_count": 353,
-        "scraped_at": "2026-03-08T16:59:57.587Z"
-      },
-      "trip_affiliate_url": "https://tp.media/r?marker=602467&trs=421888&p=7631&u=https%3A%2F%2Fwww.trip.com%2Fhotels%2Flist%3Fkeyword%3DThe%2520Heaven%2520Bar%2520%2526%2520Restaurant%2520Khao%2520Sok%2520Surat%2520Thani"
+      "name": "Khao Kriab Pak Mor",
+      "description": "A proper market-food stop in Na San Jao rather than generic night-market filler, built around long-running steamed rice dumplings.",
+      "location": "Na San Jao Market, Tonpo Road, Talat",
+      "current_price": "Budget",
+      "highlights": [
+        "MICHELIN market pick",
+        "Steamed dumplings",
+        "Best with the market-side route"
+      ],
+      "insider_tips": [
+        "Treat it as a focused snack or small meal, not as the whole dinner plan."
+      ],
+      "current_info": "The MICHELIN Guide still describes the veteran stall as a decades-old Na San Jao market favorite known for thin steamed dumplings with a savory filling."
     },
     {
       "rank": 3,
-      "name": "Home Samui Restaurant & Pizzeria",
-      "description": "Home Samui Restaurant & Pizzeria is a 4.8-rated Pizza, Seafood restaurant in Surat Thani.",
-      "location": "Surat Thani",
-      "current_price": "$$ - $$$",
-      "highlights": [],
-      "insider_tips": [],
-      "current_info": "Cuisine: Pizza, Seafood • Price: $$ - $$$ • Rating: 4.8/5 • 42 reviews",
-      "scraped": {
-        "source": "tripadvisor",
-        "cuisine": "Pizza, Seafood",
-        "price_range": "$$ - $$$",
-        "rating": 4.8,
-        "review_count": 42,
-        "scraped_at": "2026-03-08T16:59:57.587Z"
-      },
-      "trip_affiliate_url": "https://tp.media/r?marker=602467&trs=421888&p=7631&u=https%3A%2F%2Fwww.trip.com%2Fhotels%2Flist%3Fkeyword%3DHome%2520Samui%2520Restaurant%2520%2526%2520Pizzeria%2520Surat%2520Thani"
+      "name": "Heng Khao Moo Daeng",
+      "description": "One of the strongest practical lunch stops in Surat Thani if you want a busy Thai-Chinese favorite with real local pull.",
+      "location": "428/1 Namueang Road, Talat, Mueang Surat Thani",
+      "current_price": "Budget",
+      "highlights": [
+        "MICHELIN street-food pick",
+        "Barbecue pork and crispy pork",
+        "Strong early lunch room"
+      ],
+      "insider_tips": [
+        "Go before the main lunch rush if you want a smoother stop."
+      ],
+      "current_info": "MICHELIN still calls out Heng Khao Moo Daeng as a simple eatery with constant lunchtime queues, centered on barbecue pork, crispy pork, and sausage."
     },
     {
       "rank": 4,
-      "name": "Khao Horm",
-      "description": "Khao Horm is a 4.3-rated Asian, Thai restaurant in Surat Thani.",
-      "location": "Surat Thani",
-      "current_price": "$$ - $$$",
-      "highlights": [],
-      "insider_tips": [],
-      "current_info": "Cuisine: Asian, Thai • Price: $$ - $$$ • Rating: 4.3/5 • 101 reviews",
-      "scraped": {
-        "source": "tripadvisor",
-        "cuisine": "Asian, Thai",
-        "price_range": "$$ - $$$",
-        "rating": 4.3,
-        "review_count": 101,
-        "scraped_at": "2026-03-08T16:59:57.587Z"
-      },
-      "trip_affiliate_url": "https://tp.media/r?marker=602467&trs=421888&p=7631&u=https%3A%2F%2Fwww.trip.com%2Fhotels%2Flist%3Fkeyword%3DKhao%2520Horm%2520Surat%2520Thani"
+      "name": "Keo Pla",
+      "description": "A useful noodle counterweight when you want a lighter city-center meal that still belongs to Surat Thani's current MICHELIN-tracked food layer.",
+      "location": "Surat Thani city",
+      "current_price": "Budget",
+      "highlights": [
+        "MICHELIN-recognized noodles",
+        "Good city-center food stop",
+        "Easy to pair with old-town sightseeing"
+      ],
+      "insider_tips": [
+        "This works well on the same day as Heng or Khao Kriab Pak Mor if you are sampling the city food layer selectively."
+      ],
+      "current_info": "MICHELIN still keeps Keo Pla in the current Surat Thani restaurant set, which is enough to make it a stronger noodle pick than generic search-result filler."
     },
     {
       "rank": 5,
-      "name": "CRAFT Bistro",
-      "description": "CRAFT Bistro is a 4.9-rated Asian, Thai restaurant in Surat Thani.",
-      "location": "Surat Thani",
-      "current_price": "$",
-      "highlights": [],
-      "insider_tips": [],
-      "current_info": "Cuisine: Asian, Thai • Price: $ • Rating: 4.9/5 • 26 reviews",
-      "scraped": {
-        "source": "tripadvisor",
-        "cuisine": "Asian, Thai",
-        "price_range": "$",
-        "rating": 4.9,
-        "review_count": 26,
-        "scraped_at": "2026-03-08T16:59:57.587Z"
-      },
-      "trip_affiliate_url": "https://tp.media/r?marker=602467&trs=421888&p=7631&u=https%3A%2F%2Fwww.trip.com%2Fhotels%2Flist%3Fkeyword%3DCRAFT%2520Bistro%2520Surat%2520Thani"
+      "name": "Sum Gradang Nga",
+      "description": "The best city-side southern dinner pick if you want bold flavors without leaving the urban core.",
+      "location": "31/57-59 Soi Donnok 8/1, Donnok Road, Talat",
+      "current_price": "Mid-range",
+      "highlights": [
+        "MICHELIN Bib Gourmand",
+        "Southern Thai cooking",
+        "Useful sit-down dinner"
+      ],
+      "insider_tips": [
+        "Use this when the city day needs one deliberate dinner rather than another quick stop."
+      ],
+      "current_info": "MICHELIN's current Bib Gourmand write-up still frames Sum Gradang Nga as a local favorite for gutsy southern Thai flavors, including crab curry and spicy pork cartilage."
     },
     {
       "rank": 6,
-      "name": "Ban Thai",
-      "description": "Ban Thai is a 4.9-rated Asian, Thai restaurant in Surat Thani.",
-      "location": "Surat Thani",
-      "current_price": "$",
-      "highlights": [],
-      "insider_tips": [],
-      "current_info": "Cuisine: Asian, Thai • Price: $ • Rating: 4.9/5 • 21 reviews",
-      "scraped": {
-        "source": "tripadvisor",
-        "cuisine": "Asian, Thai",
-        "price_range": "$",
-        "rating": 4.9,
-        "review_count": 21,
-        "scraped_at": "2026-03-08T16:59:57.587Z"
-      },
-      "trip_affiliate_url": "https://tp.media/r?marker=602467&trs=421888&p=7631&u=https%3A%2F%2Fwww.trip.com%2Fhotels%2Flist%3Fkeyword%3DBan%2520Thai%2520Surat%2520Thani"
-    },
-    {
-      "rank": 7,
-      "name": "Aow Thai",
-      "description": "Aow Thai is a 4.3-rated Thai restaurant in Surat Thani.",
-      "location": "Surat Thani",
-      "current_price": "$$ - $$$",
-      "highlights": [],
-      "insider_tips": [],
-      "current_info": "Cuisine: Thai • Price: $$ - $$$ • Rating: 4.3/5 • 70 reviews",
-      "scraped": {
-        "source": "tripadvisor",
-        "cuisine": "Thai",
-        "price_range": "$$ - $$$",
-        "rating": 4.3,
-        "review_count": 70,
-        "scraped_at": "2026-03-08T16:59:57.587Z"
-      },
-      "trip_affiliate_url": "https://tp.media/r?marker=602467&trs=421888&p=7631&u=https%3A%2F%2Fwww.trip.com%2Fhotels%2Flist%3Fkeyword%3DAow%2520Thai%2520Surat%2520Thani"
-    },
-    {
-      "rank": 8,
-      "name": "Wok & Pan Koh Samui",
-      "description": "Wok & Pan Koh Samui is a 5-rated European, Thai restaurant in Surat Thani.",
-      "location": "Surat Thani",
-      "highlights": [],
-      "insider_tips": [],
-      "current_info": "Cuisine: European, Thai • Rating: 5/5 • 13 reviews",
-      "scraped": {
-        "source": "tripadvisor",
-        "cuisine": "European, Thai",
-        "rating": 5,
-        "review_count": 13,
-        "scraped_at": "2026-03-08T16:59:57.587Z"
-      },
-      "trip_affiliate_url": "https://tp.media/r?marker=602467&trs=421888&p=7631&u=https%3A%2F%2Fwww.trip.com%2Fhotels%2Flist%3Fkeyword%3DWok%2520%2526%2520Pan%2520Koh%2520Samui%2520Surat%2520Thani"
-    },
-    {
-      "rank": 9,
-      "name": "CRAFT Bistro",
-      "description": "CRAFT Bistro is a 4.9-rated Asian, Thai restaurant in Surat Thani.",
-      "location": "Surat Thani",
-      "current_price": "$",
-      "highlights": [],
-      "insider_tips": [],
-      "current_info": "Cuisine: Asian, Thai • Price: $ • Rating: 4.9/5 • 26 reviews",
-      "scraped": {
-        "source": "tripadvisor",
-        "cuisine": "Asian, Thai",
-        "price_range": "$",
-        "rating": 4.9,
-        "review_count": 26,
-        "scraped_at": "2026-03-08T16:59:57.587Z"
-      },
-      "trip_affiliate_url": "https://tp.media/r?marker=602467&trs=421888&p=7631&u=https%3A%2F%2Fwww.trip.com%2Fhotels%2Flist%3Fkeyword%3DCRAFT%2520Bistro%2520Surat%2520Thani"
-    },
-    {
-      "rank": 10,
-      "name": "Risto Luca",
-      "description": "Risto Luca is a 4.8-rated Italian, Romana restaurant in Surat Thani.",
-      "location": "Surat Thani",
-      "current_price": "$$ - $$$",
-      "highlights": [],
-      "insider_tips": [],
-      "current_info": "Cuisine: Italian, Romana • Price: $$ - $$$ • Rating: 4.8/5 • 300 reviews",
-      "scraped": {
-        "source": "tripadvisor",
-        "cuisine": "Italian, Romana",
-        "price_range": "$$ - $$$",
-        "rating": 4.8,
-        "review_count": 300,
-        "scraped_at": "2026-03-08T16:59:57.587Z"
-      },
-      "trip_affiliate_url": "https://tp.media/r?marker=602467&trs=421888&p=7631&u=https%3A%2F%2Fwww.trip.com%2Fhotels%2Flist%3Fkeyword%3DRisto%2520Luca%2520Surat%2520Thani"
+      "name": "Nampetch",
+      "description": "A stronger destination meal when you want ingredient-led southern cooking and a meal that feels distinctly mainland Surat Thani.",
+      "location": "61/1 Mu 1, Bangnaimai Road, Mueang",
+      "current_price": "Mid-range",
+      "highlights": [
+        "MICHELIN Bib Gourmand",
+        "Local produce focus",
+        "Good dedicated dinner destination"
+      ],
+      "insider_tips": [
+        "Best used as the main dinner plan, not as a backup after a heavy market evening."
+      ],
+      "current_info": "MICHELIN still describes Nampetch as a relaxed traditional-house restaurant where the chef-owner shops each morning and builds dishes around mostly local produce."
     }
   ],
   "city_slug": "surat-thani",
   "city_name": "Surat Thani",
   "category": "restaurants",
-  "data_sources": [
-    "tripadvisor",
-    "scraped"
+  "content_sources": [
+    {
+      "title": "A Guide to Surat Thani: Thailand's Southern Gem That the White Lotus Production Crossed the Ocean For",
+      "creator": "MICHELIN Guide",
+      "url": "https://guide.michelin.com/th/en/article/travel/a-guide-to-surat-thani",
+      "description": "Used for the edited city-food framing around old town, Lian Tai, Heng Khao Moo Daeng, and surrounding restaurants."
+    },
+    {
+      "title": "Lian Tai",
+      "creator": "MICHELIN Guide",
+      "url": "https://guide.michelin.com/us/en/cchanghwad-suraasdrthaanii/suraasdrthaanii_2719394/restaurant/lian-tai",
+      "description": "Used for the breakfast and patongo positioning."
+    },
+    {
+      "title": "Khao Kriab Pak Mor",
+      "creator": "MICHELIN Guide",
+      "url": "https://guide.michelin.com/en/cchanghwad-suraasdrthaanii/suraasdrthaanii_2719394/restaurant/khao-kriab-pak-mor-talat-na-san-jao",
+      "description": "Used for Na San Jao market dumplings and current city market-food positioning."
+    },
+    {
+      "title": "Heng Khao Moo Daeng",
+      "creator": "MICHELIN Guide",
+      "url": "https://guide.michelin.com/en/cchanghwad-suraasdrthaanii/suraasdrthaanii_2719394/restaurant/heng-khao-moo-daeng",
+      "description": "Used for the Thai-Chinese lunch room and city-center barbecue pork rice angle."
+    },
+    {
+      "title": "Sum Gradang Nga",
+      "creator": "MICHELIN Guide",
+      "url": "https://guide.michelin.com/en/cchanghwad-suraasdrthaanii/suraasdrthaanii_2719394/restaurant/sum-gradang-nga",
+      "description": "Used for the current southern Thai Bib Gourmand dinner pick inside town."
+    },
+    {
+      "title": "Nampetch",
+      "creator": "MICHELIN Guide",
+      "url": "https://guide.michelin.com/en/cchanghwad-suraasdrthaanii/suraasdrthaanii_2719394/restaurant/nampetch",
+      "description": "Used for the current produce-led southern Thai dinner option."
+    }
   ],
-  "last_scraped": "2026-03-08T16:59:57.587Z",
-  "generated_at": "2026-03-08T16:59:57.587Z",
-  "hybrid": false,
-  "scraped": true
+  "data_sources": [
+    "MICHELIN Guide"
+  ],
+  "generated_at": "2026-03-27T00:00:00.000Z",
+  "factchecked_at": "2026-03-27T00:00:00.000Z",
+  "hybrid": false
 }

@@ -1,0 +1,77 @@
+{
+  "id": 3,
+  "slug": "surat-thani-night-market-and-talad-san-chao",
+  "name": {
+    "en": "Talad San Chao and the Night-Market Layer",
+    "nl": "Talad San Chao en de night-marketlaag"
+  },
+  "type": "market",
+  "city_slug": "surat-thani",
+  "address": "Na San Jao market area, Surat Thani city",
+  "location": null,
+  "opening_hours": "Market rhythm shifts by stall and day. Late afternoon into evening is the safest planning window.",
+  "entrance_fee": {
+    "thb": null,
+    "usd": null
+  },
+  "description": {
+    "en": "The strongest food-and-evening stop in town, tied to Na San Jao market and the older streets around it.",
+    "nl": "De sterkste food- en avondstop in de stad, gekoppeld aan Na San Jao-markt en de oudere straten eromheen."
+  },
+  "highlights": [
+    "Na San Jao market",
+    "Street-food layer",
+    "Best evening city rhythm"
+  ],
+  "image": "/images/cities/generated/surat-thani.webp",
+  "seo": {
+    "metaTitle": {
+      "en": "Talad San Chao and Surat Thani Night Market | Go2Thailand",
+      "nl": "Talad San Chao en Surat Thani night market | Go2Thailand"
+    },
+    "metaDescription": {
+      "en": "Why Talad San Chao is the most useful market-and-evening layer in Surat Thani.",
+      "nl": "Waarom Talad San Chao de nuttigste markt- en avondlaag van Surat Thani is."
+    }
+  },
+  "tags": [
+    "surat-thani",
+    "market",
+    "talad-san-chao",
+    "street-food"
+  ],
+  "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=Na+San+Jao+Market+Surat+Thani",
+  "best_time": "late afternoon or evening",
+  "duration_hours": 2,
+  "enhanced_description": "This is the city market layer that actually helps Surat Thani feel alive. It is stronger than the old generic walking-street copy because it is attached to Na San Jao's real food logic, nearby small eats, and the older urban fabric rather than to anonymous night-bazaar claims.\n\nKhao Kriab Pak Mor alone is enough to show why this area matters: MICHELIN still uses the Na San Jao market stall as a current city food reference. That is the right lens for the whole area.",
+  "detailed_history": "Current MICHELIN Surat Thani coverage keeps Na San Jao market visible through its longstanding dumpling stall and the city's broader old-town-and-food layer, which is more useful than treating the market as generic evening entertainment.",
+  "visitor_experience": "Expect a real market environment rather than a polished tourist production. The best version is simple: walk, snack, watch the local flow, and keep dinner in the same area if the route supports it.",
+  "best_time_to_visit": {
+    "time_of_day": "Late afternoon into evening",
+    "duration": "About 90 to 120 minutes",
+    "crowd_level": "Moderate"
+  },
+  "practical_info": {
+    "how_to_get_there": "Easy by short ride from anywhere in the city core, then best explored on foot.",
+    "nearby_attractions": "Talat Lang, the 100-Year Arch Bridge, and the city-pillar layer.",
+    "food_options": "Khao Kriab Pak Mor is the obvious anchor; other city-center breakfast, noodle, and dinner stops are close enough to build around it.",
+    "shopping": "Keep expectations local and practical rather than souvenir-driven."
+  },
+  "insider_tips": [
+    "Pair this with the old-town block rather than treating it as a separate city night out.",
+    "Use it for selective eating, not for trying to cover every stall.",
+    "This works especially well after an afternoon heritage walk."
+  ],
+  "verified_note": "Source-backed summary based on current MICHELIN coverage of Na San Jao market and the broader Surat Thani old-town food layer.",
+  "cultural_significance": "Talad San Chao matters because it ties Surat Thani's city-center food culture to a real market street rather than to generic travel copy or ranking sites.",
+  "contentSources": [
+    {
+      "name": "Khao Kriab Pak Mor",
+      "url": "https://guide.michelin.com/en/cchanghwad-suraasdrthaanii/suraasdrthaanii_2719394/restaurant/khao-kriab-pak-mor-talat-na-san-jao"
+    },
+    {
+      "name": "A Guide to Surat Thani: Thailand's Southern Gem That the White Lotus Production Crossed the Ocean For",
+      "url": "https://guide.michelin.com/th/en/article/travel/a-guide-to-surat-thani"
+    }
+  ]
+}

@@ -1,249 +1,163 @@
 {
   "city_slug": "surat-thani",
   "city_name": "Surat Thani",
-  "total_attractions": 10,
+  "total_attractions": 6,
   "attractions": [
     {
       "id": 1,
-      "slug": "koh-samui-ferry",
+      "slug": "surat-thani-old-town-and-100-year-arch-bridge",
       "name": {
-        "en": "Koh Samui Ferry Terminal",
-        "nl": "Koh Samui Veerboot Terminal"
+        "en": "Talat Lang and the 100-Year Arch Bridge",
+        "nl": "Talat Lang en de 100-Year Arch Bridge"
       },
-      "type": "transport",
-      "image": "/images/cities/surat thani/attractions/Koh Samui Ferry Terminal.webp",
+      "type": "heritage",
+      "image": "/images/cities/generated/surat-thani.webp",
       "description": {
-        "en": "Main ferry terminal for trips to Koh Samui Koh Phangan and Koh Tao",
-        "nl": "Hoofdveerbootterminal voor reizen naar Koh Samui Koh Phangan en Koh Tao"
+        "en": "The strongest first-stop city layer, built around Talat Lang, the Na Dan community, street art, and the 100-Year Arch Bridge.",
+        "nl": "De sterkste eerste stadslaag, rond Talat Lang, de Na Dan-community, street art en de 100-Year Arch Bridge."
       },
       "entrance_fee": {
-        "thb": 150,
-        "usd": 4
+        "thb": null,
+        "usd": null
       },
+      "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=Talat+Lang+Surat+Thani",
       "highlights": [
-        "Island gateway",
-        "Ferry services",
-        "Island hopping"
+        "Talat Lang old town",
+        "Na Dan community",
+        "100-Year Arch Bridge"
       ],
-      "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=Koh%20Samui%20Ferry%20Terminal%20Surat%20Thani%20Thailand"
+      "best_time": "morning or late afternoon",
+      "duration_hours": 2
     },
     {
       "id": 2,
       "slug": "surat-thani-city-pillar-shrine",
       "name": {
         "en": "Surat Thani City Pillar Shrine",
-        "nl": "Surat Thani Stadspilaar Heiligdom"
+        "nl": "Surat Thani City Pillar Shrine"
       },
-      "type": "temple",
-      "image": "/images/cities/surat thani/attractions/Surat Thani City Pillar Shrine.webp",
+      "type": "shrine",
+      "image": "/images/cities/generated/surat-thani.webp",
       "description": {
-        "en": "Important city shrine dedicated to the guardian spirit of Surat Thani",
-        "nl": "Belangrijk stadsheiligdom gewijd aan de beschermgeest van Surat Thani"
+        "en": "A central guardian-spirit shrine and one of the clearest short sacred stops inside the city core.",
+        "nl": "Een centrale stadspijlerschrijn en een van de duidelijkste korte heilige stops in de stadskern."
       },
       "entrance_fee": {
         "thb": 0,
         "usd": 0
       },
+      "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=Surat+Thani+City+Pillar+Shrine",
       "highlights": [
-        "City guardian spirit",
-        "Local shrine",
-        "Cultural significance"
+        "Guardian-spirit shrine",
+        "Central location",
+        "Easy to pair with old town"
       ],
-      "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=Surat%20Thani%20City%20Pillar%20Shrine%20Surat%20Thani%20Thailand"
+      "best_time": "daytime",
+      "duration_hours": 0.75
     },
     {
       "id": 3,
-      "slug": "tapee-river",
+      "slug": "surat-thani-night-market-and-talad-san-chao",
       "name": {
-        "en": "Tapee River",
-        "nl": "Tapee Rivier"
+        "en": "Talad San Chao and the Night-Market Layer",
+        "nl": "Talad San Chao en de night-marketlaag"
       },
-      "type": "nature",
-      "image": "/images/extra images/The shore of the river Pai.webp",
+      "type": "market",
+      "image": "/images/cities/generated/surat-thani.webp",
       "description": {
-        "en": "Scenic river running through the city perfect for boat trips and riverside walks",
-        "nl": "Schilderachtige rivier door de stad perfect voor boottochten en wandelingen langs de rivier"
+        "en": "The strongest food-and-evening stop in town, tied to Na San Jao market and the older streets around it.",
+        "nl": "De sterkste food- en avondstop in de stad, gekoppeld aan Na San Jao-markt en de oudere straten eromheen."
       },
       "entrance_fee": {
-        "thb": 0,
-        "usd": 0
+        "thb": null,
+        "usd": null
       },
+      "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=Na+San+Jao+Market+Surat+Thani",
       "highlights": [
-        "Scenic river",
-        "Boat trips",
-        "Riverside walks"
+        "Na San Jao market",
+        "Street-food layer",
+        "Best evening city rhythm"
       ],
-      "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=Tapee%20River%20Surat%20Thani%20Thailand"
+      "best_time": "late afternoon or evening",
+      "duration_hours": 2
     },
     {
       "id": 4,
-      "slug": "surat-thani-night-market",
+      "slug": "bang-bai-mai-and-khlong-roi-sai",
       "name": {
-        "en": "Surat Thani Night Market",
-        "nl": "Surat Thani Nachtmarkt"
+        "en": "Bang Bai Mai and Khlong Roi Sai",
+        "nl": "Bang Bai Mai en Khlong Roi Sai"
       },
-      "type": "market",
-      "image": "/images/extra images/Young man tourist on Walking street Asian food market.webp",
+      "type": "community",
+      "image": "/images/cities/generated/surat-thani.webp",
       "description": {
-        "en": "Local night market with southern Thai cuisine fresh seafood and local products",
-        "nl": "Lokale nachtmarkt met Zuid-Thaise keuken verse zeevruchten en lokale producten"
+        "en": "The strongest canal-community extension from town, combining Wat Bang Bai Mai, the floating-market side, and Khlong Roi Sai.",
+        "nl": "De sterkste kanaal-community-extensie vanuit de stad, met Wat Bang Bai Mai, de floating-marketzijde en Khlong Roi Sai."
       },
       "entrance_fee": {
-        "thb": 0,
-        "usd": 0
+        "thb": null,
+        "usd": null
       },
+      "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=Bang+Bai+Mai+Surat+Thani",
       "highlights": [
-        "Southern Thai cuisine",
-        "Fresh seafood",
-        "Local products"
+        "Wat Bang Bai Mai",
+        "Khlong Roi Sai canal route",
+        "Floating-market and craft layer"
       ],
-      "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=Surat%20Thani%20Night%20Market%20Surat%20Thani%20Thailand"
+      "best_time": "morning or Sunday market hours",
+      "duration_hours": 3
     },
     {
       "id": 5,
-      "slug": "chaiya-national-museum",
-      "name": {
-        "en": "Chaiya National Museum",
-        "nl": "Chaiya Nationaal Museum"
-      },
-      "type": "museum",
-      "image": "/images/attractions/surat-thani/chaiya-museum.webp",
-      "description": {
-        "en": "Museum showcasing ancient Srivijaya kingdom artifacts and local history",
-        "nl": "Museum met oude Srivijaya koninkrijk artefacten en lokale geschiedenis"
-      },
-      "entrance_fee": {
-        "thb": 100,
-        "usd": 3
-      },
-      "highlights": [
-        "Srivijaya artifacts",
-        "Ancient kingdom",
-        "Local history"
-      ],
-      "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=Chaiya%20National%20Museum%20Surat%20Thani%20Thailand"
-    },
-    {
-      "id": 6,
       "slug": "wat-phra-borommathat-chaiya",
       "name": {
         "en": "Wat Phra Borommathat Chaiya",
         "nl": "Wat Phra Borommathat Chaiya"
       },
       "type": "temple",
-      "image": "/images/cities/surat thani/attractions/Wat Phra Borommathat Chaiya.webp",
+      "image": "/images/cities/generated/surat-thani.webp",
       "description": {
-        "en": "Ancient temple with 1200-year-old chedi from Srivijaya period",
-        "nl": "Oude tempel met 1200 jaar oude chedi uit de Srivijaya periode"
+        "en": "The best heritage extension from town and one of southern Thailand's major sacred sites.",
+        "nl": "De beste heritage-extensie vanuit de stad en een van de grote heilige plekken van Zuid-Thailand."
       },
       "entrance_fee": {
-        "thb": 0,
-        "usd": 0
+        "thb": null,
+        "usd": null
       },
+      "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=Wat+Phra+Borommathat+Chaiya",
       "highlights": [
-        "1200-year-old chedi",
-        "Srivijaya period",
-        "Ancient temple"
+        "Srivijaya-era temple",
+        "Major sacred site",
+        "Best heritage add-on"
       ],
-      "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=Wat%20Phra%20Borommathat%20Chaiya%20Surat%20Thani%20Thailand"
+      "best_time": "morning",
+      "duration_hours": 2
     },
     {
-      "id": 7,
-      "slug": "ratchaprapha-dam",
+      "id": 6,
+      "slug": "pum-riang-village-and-laem-pho",
       "name": {
-        "en": "Ratchaprapha Dam (Cheow Lan Lake)",
-        "nl": "Ratchaprapha Dam (Cheow Lan Meer)"
+        "en": "Pum Riang Village and Laem Pho",
+        "nl": "Pum Riang-dorp en Laem Pho"
       },
-      "type": "nature",
-      "image": "/images/cities/surat thani/attractions/Ratchaprapha Dam (Cheow Lan Lake).webp",
+      "type": "coastal-heritage",
+      "image": "/images/cities/generated/surat-thani.webp",
       "description": {
-        "en": "Stunning emerald lake with limestone karsts floating bungalows and wildlife",
-        "nl": "Prachtig smaragdgroen meer met kalkstenen karst drijvende bungalows en wilde dieren"
+        "en": "A useful textile-and-seafood coastal extension built around Pum Riang silk and Laem Pho's seafood side.",
+        "nl": "Een bruikbare textiel- en seafood-kustextensie rond Pum Riang-zijde en Laem Pho."
       },
       "entrance_fee": {
-        "thb": 300,
-        "usd": 9
+        "thb": null,
+        "usd": null
       },
+      "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=Pum+Riang+Surat+Thani",
       "highlights": [
-        "Emerald lake",
-        "Limestone karsts",
-        "Floating bungalows"
+        "Pum Riang silk",
+        "Laem Pho seafood side",
+        "Mainland craft-and-coast contrast"
       ],
-      "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=Ratchaprapha%20Dam%20(Cheow%20Lan%20Lake)%20Surat%20Thani%20Thailand"
-    },
-    {
-      "id": 8,
-      "slug": "khao-sok-national-park",
-      "name": {
-        "en": "Khao Sok National Park",
-        "nl": "Khao Sok Nationaal Park"
-      },
-      "type": "nature",
-      "image": "/images/cities/surat thani/attractions/Khao Sok National Park.webp",
-      "description": {
-        "en": "Ancient rainforest with diverse wildlife limestone cliffs and jungle trekking",
-        "nl": "Oud regenwoud met diverse wilde dieren kalkstenen kliffen en jungle trekking"
-      },
-      "entrance_fee": {
-        "thb": 300,
-        "usd": 9
-      },
-      "highlights": [
-        "Ancient rainforest",
-        "Diverse wildlife",
-        "Limestone cliffs"
-      ],
-      "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=Khao%20Sok%20National%20Park%20Surat%20Thani%20Thailand"
-    },
-    {
-      "id": 9,
-      "slug": "surat-thani-walking-street",
-      "name": {
-        "en": "Surat Thani Walking Street",
-        "nl": "Surat Thani Wandelstraat"
-      },
-      "type": "market",
-      "image": "/images/extra images/Popular market in bangkok of Thailand.webp",
-      "description": {
-        "en": "Weekend walking street market with local food handicrafts and live music",
-        "nl": "Weekend wandelstraatmarkt met lokaal eten handwerk en live muziek"
-      },
-      "entrance_fee": {
-        "thb": 0,
-        "usd": 0
-      },
-      "highlights": [
-        "Weekend market",
-        "Local food",
-        "Handicrafts"
-      ],
-      "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=Surat%20Thani%20Walking%20Street%20Surat%20Thani%20Thailand"
-    },
-    {
-      "id": 10,
-      "slug": "ban-don-bay",
-      "name": {
-        "en": "Ban Don Bay",
-        "nl": "Ban Don Baai"
-      },
-      "type": "nature",
-      "image": "/images/cities/surat thani/attractions/Ban Don Bay.webp",
-      "description": {
-        "en": "Scenic coastal bay with mangrove forests fishing villages and bird watching",
-        "nl": "Schilderachtige kustbaai met mangrovebossen vissersdorpen en vogels kijken"
-      },
-      "entrance_fee": {
-        "thb": 0,
-        "usd": 0
-      },
-      "highlights": [
-        "Coastal bay",
-        "Mangrove forests",
-        "Fishing villages"
-      ],
-      "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=Ban%20Don%20Bay%20Surat%20Thani%20Thailand"
+      "best_time": "daytime",
+      "duration_hours": 3
     }
-  ],
-  "enhanced_at": "2025-05-25T22:55:47.778Z",
-  "enhanced_count": 10
+  ]
 }
