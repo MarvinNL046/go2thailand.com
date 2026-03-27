@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-03-28T00:44:00.000Z",
+  "updated_at": "2026-03-28T00:49:00.000Z",
   "project": "go2thailand top-10 cluster upgrade tracker",
   "goal": "Upgrade all English city top-10 clusters to source-backed, non-thin, AdSense-safe, EEAT-oriented pages.",
   "scope": [
@@ -90,8 +90,8 @@
     },
     {
       "slug": "lampang",
-      "status": "pending",
-      "notes": ""
+      "status": "done",
+      "notes": "Cluster already met the stronger standard; validated jq, TypeScript, route renders, visible source signals, and clean rendered HTML before marking done."
     },
     {
       "slug": "lopburi",
