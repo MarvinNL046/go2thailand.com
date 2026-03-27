@@ -1,16 +1,17 @@
 import { GetStaticProps } from 'next';
-import SEOHead from '../../components/SEOHead';
 import Link from 'next/link';
 import Image from 'next/image';
+import SEOHead from '../../components/SEOHead';
+import Breadcrumbs from '../../components/Breadcrumbs';
 import { getAllCities } from '../../lib/cities';
-import TripcomWidget from '../../components/TripcomWidget';
+import { hotelsHubContent } from '../../lib/top10-hub-content';
 import fs from 'fs';
 import path from 'path';
 
 interface City {
   id: number;
   slug: string;
-  name: { en: string; nl: string; };
+  name: { en: string; nl: string };
   region: string;
   province: string;
   image: string;
@@ -20,46 +21,58 @@ interface Top10Guide {
   city: City;
   title: string;
   meta_description: string;
-  last_updated?: string;
   item_count: number;
-  has_current_data: boolean;
 }
 
 interface Top10HotelsIndexProps {
   availableGuides: Top10Guide[];
-  featuredGuides: Top10Guide[];
 }
 
-export default function Top10HotelsIndex({ availableGuides, featuredGuides }: Top10HotelsIndexProps) {
+export default function Top10HotelsIndex({ availableGuides }: Top10HotelsIndexProps) {
+  const breadcrumbs = [
+    { name: 'Home', href: '/' },
+    { name: 'Top 10 Guides', href: '/top-10/' },
+    { name: 'Hotels', href: '/top-10/hotels/' }
+  ];
+
+  const cities = getAllCities() as City[];
+  const cityBySlug = new Map(cities.map((city) => [city.slug, city]));
+  const featuredCities = hotelsHubContent.featuredCities
+    .map((featured) => ({
+      ...featured,
+      city: cityBySlug.get(featured.slug)
+    }))
+    .filter((featured) => featured.city);
+  const browseGuides = [...availableGuides].sort((a, b) => a.city.name.en.localeCompare(b.city.name.en));
 
   return (
     <>
-      <SEOHead
-        title={`Top 10 Hotel Guides | Best Accommodation in Thailand | Go2Thailand`}
-        description="Find the best hotels in Thailand with our comprehensive Top 10 guides. Current rates, guest reviews, and booking tips in Bangkok, Phuket, Chiang Mai and more."
-      >
-        <meta name="keywords" content="Thailand hotels, top 10 hotels, accommodation, hotel booking, Bangkok hotels, Phuket resorts, Chiang Mai hotels, Thailand accommodation" />
+      <SEOHead title={hotelsHubContent.title} description={hotelsHubContent.description}>
+        <meta
+          name="keywords"
+          content="Thailand hotels, Thailand hotel guides, city hotel bases, beach resort stays, heritage stays, hotel planning"
+        />
         <meta property="og:type" content="website" />
         <script
           type="application/ld+json"
           dangerouslySetInnerHTML={{
             __html: JSON.stringify({
-              "@context": "https://schema.org",
-              "@type": "CollectionPage",
-              "name": "Top 10 Hotel Guides Thailand",
-              "description": "Comprehensive hotel guides for Thailand's top destinations",
-              "publisher": {
-                "@type": "Organization",
-                "name": "Go2Thailand"
+              '@context': 'https://schema.org',
+              '@type': 'CollectionPage',
+              name: hotelsHubContent.title,
+              description: hotelsHubContent.description,
+              publisher: {
+                '@type': 'Organization',
+                name: 'Go2Thailand'
               },
-              "mainEntity": {
-                "@type": "ItemList",
-                "numberOfItems": availableGuides.length,
-                "itemListElement": availableGuides.map((guide, index) => ({
-                  "@type": "ListItem",
-                  "position": index + 1,
-                  "url": `https://go2-thailand.com/city/${guide.city.slug}/top-10-hotels/`,
-                  "name": guide.title
+              mainEntity: {
+                '@type': 'ItemList',
+                numberOfItems: browseGuides.length,
+                itemListElement: browseGuides.map((guide, index) => ({
+                  '@type': 'ListItem',
+                  position: index + 1,
+                  url: `https://go2-thailand.com/city/${guide.city.slug}/top-10-hotels/`,
+                  name: `${guide.city.name.en} Hotel Guide`
                 }))
               }
             })
@@ -68,102 +81,161 @@ export default function Top10HotelsIndex({ availableGuides, featuredGuides }: To
       </SEOHead>
 
       <div className="bg-surface-cream min-h-screen">
-        {/* Hero Section */}
         <section className="bg-surface-dark text-white">
-          <div className="container-custom py-16">
-            <div className="text-center max-w-4xl mx-auto">
-              <span className="font-script text-thailand-gold text-lg mb-2 block">Curated Guides</span>
-              <h1 className="text-4xl lg:text-6xl font-bold font-heading mb-6">
-                Top 10 Hotel Guides
-              </h1>
-              <p className="text-xl lg:text-2xl mb-8 opacity-90">
-                Find your perfect stay. Current rates, guest reviews, and insider booking tips across Thailand.
-              </p>
-              
-              {/* Trust badges */}
-              <div className="flex justify-center items-center gap-4 text-sm mb-8">
-                <span className="bg-white/20 backdrop-blur text-white px-4 py-2 rounded-full font-medium">
-                  Current Rates
-                </span>
-                <span className="bg-white/20 backdrop-blur text-white px-4 py-2 rounded-full font-medium">
-                  Expert Curated
-                </span>
-                <span className="bg-white/20 backdrop-blur text-white px-4 py-2 rounded-full font-medium">
-                  Best Deals
-                </span>
-              </div>
-            </div>
-          </div>
-        </section>
-
-        {/* Header Ad */}
-        <section className="bg-white py-6">
-          <div className="container-custom">
-          </div>
-        </section>
-
-        {/* Stats Section */}
-        <section className="bg-surface-dark py-12">
-          <div className="container-custom">
-            <div className="grid grid-cols-2 lg:grid-cols-4 gap-8 text-center">
-              <div>
-                <div className="text-3xl lg:text-4xl font-bold font-heading text-white mb-2">
-                  {availableGuides.length}
-                </div>
-                <div className="text-gray-400">City Guides</div>
-              </div>
-              <div>
-                <div className="text-3xl lg:text-4xl font-bold font-heading text-white mb-2">
-                  {availableGuides.reduce((sum, guide) => sum + guide.item_count, 0)}+
-                </div>
-                <div className="text-gray-400">Hotels</div>
-              </div>
-              <div>
-                <div className="text-3xl lg:text-4xl font-bold font-heading text-white mb-2">
-                  {availableGuides.filter(guide => guide.has_current_data).length}
-                </div>
-                <div className="text-gray-400">With Current Rates</div>
-              </div>
-              <div>
-                <div className="text-3xl lg:text-4xl font-bold font-heading text-white mb-2">
-                  24/7
-                </div>
-                <div className="text-gray-400">Updated Info</div>
-              </div>
-            </div>
-          </div>
-        </section>
-
-        {/* Trip.com Search Widget */}
-        <section className="py-8 bg-surface-cream">
-          <div className="container-custom">
-            <TripcomWidget 
-              city="Thailand"
-              type="searchbox"
-              customTitle="Search Hotels Across Thailand"
-              className="max-w-4xl mx-auto"
-            />
-          </div>
-        </section>
-
-        {/* Featured Guides */}
-        {featuredGuides.length > 0 && (
-          <section className="section-padding bg-white">
-            <div className="container-custom">
-              <div className="text-center mb-12">
-                <h2 className="text-3xl lg:text-4xl font-bold font-heading text-gray-900 mb-4">
-                  Featured Hotel Guides
-                </h2>
-                <p className="text-xl text-gray-600 max-w-2xl mx-auto">
-                  Most popular guides with the latest rates and booking recommendations
+          <div className="container-custom py-16 lg:py-20">
+            <div className="max-w-4xl mx-auto text-center">
+              <Breadcrumbs items={breadcrumbs} />
+              <div className="mt-8">
+                <span className="section-label">{hotelsHubContent.heroEyebrow}</span>
+                <h1 className="text-4xl lg:text-6xl font-bold font-heading mb-6">
+                  {hotelsHubContent.heroTitle}
+                </h1>
+                <p className="text-xl lg:text-2xl opacity-90 max-w-3xl mx-auto">
+                  {hotelsHubContent.heroIntro}
                 </p>
               </div>
-              
-              <div className="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-3 gap-8 mb-8">
-                {featuredGuides.map((guide) => (
-                  <Link key={guide.city.slug} href={`/city/${guide.city.slug}/top-10-hotels/`} className="group">
-                    <div className="bg-white rounded-2xl shadow-md overflow-hidden hover:shadow-xl transition-all duration-300">
-                      <div className="relative h-48">
+
+              <div className="mt-8 grid grid-cols-1 sm:grid-cols-2 gap-4 max-w-2xl mx-auto text-left">
+                <div className="rounded-2xl bg-white/10 backdrop-blur px-5 py-4">
+                  <div className="text-xs uppercase tracking-[0.2em] text-white/60 mb-1">Focus</div>
+                  <div className="text-base font-semibold">City-base and stay-shape planning</div>
+                </div>
+                <div className="rounded-2xl bg-white/10 backdrop-blur px-5 py-4">
+                  <div className="text-xs uppercase tracking-[0.2em] text-white/60 mb-1">References</div>
+                  <div className="text-base font-semibold">Visible source links below</div>
+                </div>
+              </div>
+            </div>
+          </div>
+        </section>
+
+        <section className="section-padding bg-white">
+          <div className="container-custom">
+            <section className="bg-white rounded-2xl shadow-md p-8 mb-12">
+              <h2 className="text-3xl font-bold font-heading text-gray-900 mb-4">
+                {hotelsHubContent.whyThisPageTitle}
+              </h2>
+              <p className="text-gray-600 max-w-3xl">
+                {hotelsHubContent.whyThisPageBody}
+              </p>
+            </section>
+
+            <section className="mb-12">
+              <div className="flex items-end justify-between gap-6 mb-6">
+                <div>
+                  <span className="section-label">Featured Cities</span>
+                  <h2 className="text-3xl font-bold font-heading text-gray-900 mt-2">
+                    Start Here
+                  </h2>
+                </div>
+                <p className="text-gray-600 max-w-2xl">
+                  These are the strongest entry points for the city-level hotel guides.
+                </p>
+              </div>
+
+              <div className="grid grid-cols-1 md:grid-cols-2 xl:grid-cols-3 gap-6">
+                {featuredCities.map((featured) => {
+                  const city = featured.city!;
+                  return (
+                    <Link key={featured.slug} href={featured.primaryHref} className="group block">
+                      <div className="bg-white rounded-2xl shadow-md overflow-hidden h-full transition-shadow group-hover:shadow-lg">
+                        <div className="relative h-44">
+                          <Image
+                            src={city.image}
+                            alt={`${city.name.en} hotels`}
+                            layout="fill"
+                            objectFit="cover"
+                            className="brightness-90"
+                          />
+                          <div className="absolute top-4 left-4 rounded-full bg-surface-dark/80 px-3 py-1 text-xs font-semibold text-white">
+                            {featured.kicker}
+                          </div>
+                        </div>
+                        <div className="p-6">
+                          <h3 className="text-xl font-bold font-heading text-gray-900 mb-2 group-hover:text-thailand-red transition-colors">
+                            {city.name.en}
+                          </h3>
+                          <p className="text-gray-600 text-sm mb-4">
+                            {featured.summary}
+                          </p>
+                          <div className="text-sm font-semibold text-thailand-red">
+                            Open hotel guide &rarr;
+                          </div>
+                        </div>
+                      </div>
+                    </Link>
+                  );
+                })}
+              </div>
+            </section>
+
+            <section className="space-y-8 mb-12">
+              {hotelsHubContent.sections.map((section) => (
+                <section key={section.title} className="rounded-2xl border border-gray-100 bg-surface-cream p-6 lg:p-8">
+                  <div className="max-w-3xl mb-5">
+                    <h2 className="text-2xl lg:text-3xl font-bold font-heading text-gray-900 mb-3">
+                      {section.title}
+                    </h2>
+                    <p className="text-gray-600">
+                      {section.description}
+                    </p>
+                  </div>
+                  <div className="flex flex-wrap gap-2">
+                    {section.citySlugs.map((slug) => {
+                      const city = cityBySlug.get(slug);
+                      if (!city) return null;
+
+                      return (
+                        <Link
+                          key={slug}
+                          href={`/city/${slug}/top-10-hotels/`}
+                          className="rounded-full bg-white px-3 py-1.5 text-sm font-medium text-gray-700 shadow-sm transition-colors hover:bg-gray-50 hover:text-thailand-red"
+                        >
+                          {city.name.en}
+                        </Link>
+                      );
+                    })}
+                  </div>
+                  {section.inlineSources?.length ? (
+                    <div className="mt-4 text-sm text-gray-500">
+                      Selected references: {' '}
+                      {section.inlineSources.map((source, index) => (
+                        <span key={source.label}>
+                          <a
+                            href={source.url}
+                            target="_blank"
+                            rel="noopener noreferrer"
+                            className="text-thailand-blue hover:underline"
+                          >
+                            {source.label}
+                          </a>
+                          {index < section.inlineSources.length - 1 ? ', ' : ''}
+                        </span>
+                      ))}
+                    </div>
+                  ) : null}
+                </section>
+              ))}
+            </section>
+
+            <section className="bg-white rounded-2xl shadow-md p-8 mb-12">
+              <div className="flex items-end justify-between gap-6 mb-6">
+                <div>
+                  <span className="section-label">Browse Index</span>
+                  <h2 className="text-3xl font-bold font-heading text-gray-900 mt-2">
+                    All Hotel Guides
+                  </h2>
+                </div>
+                <p className="text-gray-600 max-w-2xl">
+                  A full city index for readers who want to browse the hotel library by destination.
+                </p>
+              </div>
+
+              <div className="grid grid-cols-1 md:grid-cols-2 xl:grid-cols-3 gap-6">
+                {browseGuides.map((guide) => (
+                  <Link key={guide.city.slug} href={`/city/${guide.city.slug}/top-10-hotels/`} className="group block">
+                    <div className="rounded-2xl border border-gray-100 bg-surface-cream overflow-hidden h-full transition-shadow group-hover:shadow-md">
+                      <div className="relative h-36">
                         <Image
                           src={guide.city.image}
                           alt={`${guide.city.name.en} hotels`}
@@ -171,232 +243,59 @@ export default function Top10HotelsIndex({ availableGuides, featuredGuides }: To
                           objectFit="cover"
                           className="brightness-90"
                         />
-                        <div className="absolute top-4 left-4">
-                          <span className="bg-thailand-blue text-white px-3 py-1 rounded-full text-sm font-semibold">
-                            {guide.city.region}
-                          </span>
+                        <div className="absolute top-4 left-4 rounded-full bg-surface-dark/80 px-3 py-1 text-xs font-semibold text-white">
+                          {guide.city.region}
                         </div>
-                        {guide.has_current_data && (
-                          <div className="absolute top-4 right-4">
-                            <span className="bg-green-500 text-white px-3 py-1 rounded-full text-sm font-semibold">
-                              Current Rates
-                            </span>
-                          </div>
-                        )}
                       </div>
-                      
-                      <div className="p-6">
-                        <h3 className="text-xl font-bold font-heading text-gray-900 mb-2 group-hover:text-thailand-blue transition-colors">
-                          {guide.city.name.en} Hotels
+                      <div className="p-5">
+                        <h3 className="text-lg font-bold font-heading text-gray-900 mb-2 group-hover:text-thailand-red transition-colors">
+                          {guide.city.name.en}
                         </h3>
-                        <p className="text-gray-600 mb-4 line-clamp-2">
-                          {guide.meta_description}
+                        <p className="text-sm text-gray-600 mb-4">
+                          {guide.city.province} Province
                         </p>
-                        
-                        <div className="flex items-center justify-between text-sm text-gray-500 mb-4">
-                          <span>{guide.item_count} hotels</span>
-                          {guide.last_updated && (
-                            <span>Updated {new Date(guide.last_updated).toLocaleDateString()}</span>
-                          )}
-                        </div>
-                        
-                        <div className="bg-thailand-blue text-white px-4 py-2 rounded-xl font-medium text-center group-hover:bg-thailand-blue-600 transition-colors">
-                          View Hotel Guide →
+                        <div className="text-sm font-medium text-gray-700">
+                          {guide.item_count} hotels
                         </div>
                       </div>
                     </div>
                   </Link>
                 ))}
               </div>
+            </section>
 
-              {/* Mid-content Ad */}
-              <div className="mb-8">
+            <section className="bg-white rounded-2xl shadow-md p-8">
+              <div className="flex items-end justify-between gap-6 mb-6">
+                <div>
+                  <span className="section-label">Sources</span>
+                  <h2 className="text-3xl font-bold font-heading text-gray-900 mt-2">
+                    Visible References
+                  </h2>
+                </div>
+                <p className="text-gray-600 max-w-2xl">
+                  Selected source references used to shape the hotel-base framing and city-level context.
+                </p>
               </div>
-            </div>
-          </section>
-        )}
 
-        {/* Booking Tips */}
-        <section className="section-padding bg-surface-cream">
-          <div className="container-custom">
-            <div className="text-center mb-12">
-              <h2 className="text-3xl lg:text-4xl font-bold font-heading text-gray-900 mb-4">
-                Smart Booking Tips
-              </h2>
-              <p className="text-xl text-gray-600 max-w-2xl mx-auto">
-                Get the best deals and avoid common booking mistakes
-              </p>
-            </div>
-            
-            <div className="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-4 gap-6">
-              <div className="bg-white rounded-2xl p-6 shadow-sm">
-                <div className="text-3xl mb-4"></div>
-                <h3 className="font-semibold font-heading text-gray-900 mb-2">Book Early</h3>
-                <p className="text-gray-600 text-sm">Reserve 2-3 months ahead for best rates, especially during peak season.</p>
-              </div>
-              
-              <div className="bg-white rounded-2xl p-6 shadow-sm">
-                <div className="text-3xl mb-4"></div>
-                <h3 className="font-semibold font-heading text-gray-900 mb-2">Cancellation Policy</h3>
-                <p className="text-gray-600 text-sm">Always check cancellation terms before booking, especially for non-refundable rates.</p>
-              </div>
-              
-              <div className="bg-white rounded-2xl p-6 shadow-sm">
-                <div className="text-3xl mb-4"></div>
-                <h3 className="font-semibold font-heading text-gray-900 mb-2">Compare Prices</h3>
-                <p className="text-gray-600 text-sm">Check multiple booking platforms and the hotel's direct website for best deals.</p>
-              </div>
-              
-              <div className="bg-white rounded-2xl p-6 shadow-sm">
-                <div className="text-3xl mb-4"></div>
-                <h3 className="font-semibold font-heading text-gray-900 mb-2">Read Reviews</h3>
-                <p className="text-gray-600 text-sm">Focus on recent reviews to get current insights about the hotel's condition and service.</p>
-              </div>
-            </div>
-          </div>
-        </section>
-
-        {/* All Guides */}
-        <section className="section-padding bg-surface-cream">
-          <div className="container-custom">
-            <div className="text-center mb-12">
-              <h2 className="text-3xl lg:text-4xl font-bold font-heading text-gray-900 mb-4">
-                All Hotel Guides
-              </h2>
-              <p className="text-xl text-gray-600 max-w-2xl mx-auto">
-                Complete collection of hotel guides across Thailand
-              </p>
-            </div>
-            
-            <div className="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-3 gap-6">
-              {availableGuides.map((guide) => (
-                <Link key={guide.city.slug} href={`/city/${guide.city.slug}/top-10-hotels/`} className="group">
-                  <div className="bg-white rounded-2xl shadow-sm overflow-hidden hover:shadow-lg transition-shadow group">
-                    <div className="p-6">
-                      <div className="flex items-start justify-between mb-3">
-                        <h3 className="text-lg font-semibold text-gray-900 group-hover:text-thailand-blue transition-colors">
-                          {guide.city.name.en}
-                        </h3>
-                        {guide.has_current_data && (
-                          <span className="bg-green-100 text-green-700 px-2 py-1 rounded-full text-xs font-medium">
-                            Current Rates
-                          </span>
-                        )}
-                      </div>
-                      
-                      <p className="text-gray-600 text-sm mb-3">
-                        {guide.city.province} Province • {guide.city.region} Thailand
-                      </p>
-                      
-                      <div className="flex items-center justify-between text-sm text-gray-500">
-                        <span>{guide.item_count} hotels</span>
-                        {guide.last_updated && (
-                          <span>{new Date(guide.last_updated).toLocaleDateString()}</span>
-                        )}
-                      </div>
+              <div className="grid grid-cols-1 md:grid-cols-2 xl:grid-cols-4 gap-4">
+                {hotelsHubContent.sourceLinks.map((source) => (
+                  <a
+                    key={source.label}
+                    href={source.url}
+                    target="_blank"
+                    rel="noopener noreferrer"
+                    className="rounded-2xl border border-gray-100 bg-surface-cream p-5 transition-shadow hover:shadow-md"
+                  >
+                    <div className="text-sm font-semibold text-thailand-red mb-2">
+                      {source.label}
                     </div>
-                  </div>
-                </Link>
-              ))}
-            </div>
-          </div>
-        </section>
-
-        {/* Book Your Hotel - Affiliate CTA */}
-        <section className="py-12 bg-surface-cream">
-          <div className="container-custom">
-            <div className="text-center max-w-2xl mx-auto">
-              <h3 className="text-2xl font-bold font-heading text-gray-900 mb-3">
-                Book Your Hotel in Thailand
-              </h3>
-              <p className="text-gray-600 mb-6">
-                Compare rates across top booking platforms and find the best deal for your Thailand trip.
-              </p>
-              <div className="flex flex-col sm:flex-row gap-4 justify-center mb-4">
-                <a
-                  href="https://trip.tpo.lv/TmObooZ5"
-                  target="_blank"
-                  rel="noopener noreferrer"
-                  className="inline-block bg-thailand-red text-white px-6 py-3 rounded-xl font-semibold hover:bg-thailand-red-600 transition-colors"
-                >
-                  Search on Trip.com
-                </a>
-                <a
-                  href="https://booking.tpo.lv/2PT1kR82"
-                  target="_blank"
-                  rel="noopener noreferrer"
-                  className="inline-block bg-thailand-blue text-white px-6 py-3 rounded-xl font-semibold hover:bg-thailand-blue-600 transition-colors"
-                >
-                  Search on Booking.com
-                </a>
+                    <p className="text-gray-600 text-sm">{source.note}</p>
+                  </a>
+                ))}
               </div>
-              <p className="text-xs text-gray-500">
-                We earn a commission at no extra cost to you
-              </p>
-            </div>
+            </section>
           </div>
         </section>
-
-        {/* Explore More Guides */}
-        <section className="section-padding bg-white">
-          <div className="container-custom">
-            <div className="text-center mb-10">
-              <h2 className="text-3xl font-bold font-heading text-gray-900 mb-3">
-                Explore More Guides
-              </h2>
-              <p className="text-gray-600 max-w-2xl mx-auto">
-                Continue planning your perfect Thailand trip with our other curated guides and travel resources.
-              </p>
-            </div>
-
-            <div className="grid grid-cols-1 sm:grid-cols-2 lg:grid-cols-4 gap-4">
-              <Link href="/top-10/restaurants/" className="group bg-surface-cream hover:bg-white rounded-2xl p-6 shadow-sm hover:shadow-md transition-all">
-                <div className="text-thailand-red font-bold font-heading text-lg mb-1 group-hover:underline">
-                  Restaurant Guides
-                </div>
-                <p className="text-gray-600 text-sm">Best dining spots in every Thai city</p>
-              </Link>
-
-              <Link href="/top-10/attractions/" className="group bg-surface-cream hover:bg-white rounded-2xl p-6 shadow-sm hover:shadow-md transition-all">
-                <div className="text-thailand-blue font-bold font-heading text-lg mb-1 group-hover:underline">
-                  Attraction Guides
-                </div>
-                <p className="text-gray-600 text-sm">Must-see places and sightseeing tips</p>
-              </Link>
-
-              <Link href="/city/" className="group bg-surface-cream hover:bg-white rounded-2xl p-6 shadow-sm hover:shadow-md transition-all">
-                <div className="text-gray-900 font-bold font-heading text-lg mb-1 group-hover:underline">
-                  All City Guides
-                </div>
-                <p className="text-gray-600 text-sm">Complete guides for 33 Thai cities</p>
-              </Link>
-
-              <Link href="/thailand-index/" className="group bg-surface-cream hover:bg-white rounded-2xl p-6 shadow-sm hover:shadow-md transition-all">
-                <div className="text-gray-900 font-bold font-heading text-lg mb-1 group-hover:underline">
-                  Thailand Travel Index
-                </div>
-                <p className="text-gray-600 text-sm">Compare costs, weather, and rankings</p>
-              </Link>
-            </div>
-
-            <div className="mt-4 grid grid-cols-1 sm:grid-cols-2 gap-4 max-w-2xl mx-auto">
-              <Link href="/compare/" className="group bg-surface-cream hover:bg-white rounded-2xl p-6 shadow-sm hover:shadow-md transition-all text-center">
-                <div className="text-gray-900 font-bold font-heading text-lg mb-1 group-hover:underline">
-                  Compare Destinations
-                </div>
-                <p className="text-gray-600 text-sm">Side-by-side city comparisons</p>
-              </Link>
-
-              <Link href="/top-10/" className="group bg-surface-cream hover:bg-white rounded-2xl p-6 shadow-sm hover:shadow-md transition-all text-center">
-                <div className="text-gray-900 font-bold font-heading text-lg mb-1 group-hover:underline">
-                  All Top 10 Guides
-                </div>
-                <p className="text-gray-600 text-sm">Browse every category in one place</p>
-              </Link>
-            </div>
-          </div>
-        </section>
-
       </div>
     </>
   );
@@ -405,44 +304,36 @@ export default function Top10HotelsIndex({ availableGuides, featuredGuides }: To
 export const getStaticProps: GetStaticProps = async ({ locale }) => {
   const cities = getAllCities();
   const availableGuides: Top10Guide[] = [];
-  const featuredGuides: Top10Guide[] = [];
 
-  // Check which cities have hotel guides
   for (const city of cities) {
     try {
-      const localePath = locale && locale !== 'en' ? path.join(process.cwd(), 'data', 'top10', locale, `${city.slug}-hotels.json`) : '';
+      const localePath =
+        locale && locale !== 'en'
+          ? path.join(process.cwd(), 'data', 'top10', locale, `${city.slug}-hotels.json`)
+          : '';
       const defaultPath = path.join(process.cwd(), 'data', 'top10', `${city.slug}-hotels.json`);
       const dataPath = localePath && fs.existsSync(localePath) ? localePath : defaultPath;
+
       if (fs.existsSync(dataPath)) {
         const fileContent = fs.readFileSync(dataPath, 'utf8');
         const data = JSON.parse(fileContent);
-        
-        const guide: Top10Guide = {
+
+        availableGuides.push({
           city,
           title: data.title,
           meta_description: data.meta_description,
-          last_updated: data.last_perplexity_update || data.generated_at || null,
-          item_count: data.items?.length || 10,
-          has_current_data: !!(data.data_sources && data.data_sources.length > 0)
-        };
-        
-        availableGuides.push(guide);
-        
-        // Featured guides: Bangkok, Phuket, Chiang Mai
-        if (['bangkok', 'phuket', 'chiang-mai'].includes(city.slug)) {
-          featuredGuides.push(guide);
-        }
+          item_count: data.items?.length || 10
+        });
       }
     } catch (error) {
-      // Error reading top 10 hotels data for this city
+      // Ignore malformed hotel guide data for the index.
     }
   }
 
   return {
     props: {
-      availableGuides,
-      featuredGuides
+      availableGuides
     },
-    revalidate: 86400 // Revalidate daily
+    revalidate: 86400
   };
 };

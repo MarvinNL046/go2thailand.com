@@ -721,6 +721,7 @@ export const hotelsHubContent: HubPageContent = {
       description:
         'The biggest bases need hotel guidance that makes district choice and transport convenience obvious right away.',
       citySlugs: ['bangkok', 'pattaya', 'chiang-mai', 'khon-kaen', 'udon-thani', 'nakhon-ratchasima'],
+      linkCategory: 'hotels',
       inlineSources: [tourismAuthoritySource, tcebSource]
     },
     {
@@ -728,6 +729,7 @@ export const hotelsHubContent: HubPageContent = {
       description:
         'Beach guides work best when the hotel shortlist is grouped by coast, island access, and trip pace instead of by generic status.',
       citySlugs: ['phuket', 'koh-samui', 'krabi', 'hua-hin', 'rayong', 'trat', 'surat-thani', 'chumphon', 'nakhon-si-thammarat'],
+      linkCategory: 'hotels',
       inlineSources: [tourismAuthoritySource, hotelsAssociationSource]
     },
     {
@@ -735,6 +737,7 @@ export const hotelsHubContent: HubPageContent = {
       description:
         'Historic cities should get hotel guidance that favors walkability, atmosphere, and a clear relationship to the old-town core.',
       citySlugs: ['ayutthaya', 'sukhothai', 'lopburi', 'phitsanulok', 'kanchanaburi'],
+      linkCategory: 'hotels',
       inlineSources: [unescoSource, fineArtsSource]
     },
     {
@@ -742,6 +745,7 @@ export const hotelsHubContent: HubPageContent = {
       description:
         'Northern hotel choices work best when the guide distinguishes city-center convenience from slower retreat-oriented stays.',
       citySlugs: ['chiang-mai', 'chiang-rai', 'pai', 'mae-hong-son', 'lampang', 'chiang-khan'],
+      linkCategory: 'hotels',
       inlineSources: [tourismAuthoritySource]
     },
     {
@@ -749,6 +753,7 @@ export const hotelsHubContent: HubPageContent = {
       description:
         'Gateway cities need a hotel guide that helps the reader choose an efficient base for onward travel or a short regional stop.',
       citySlugs: ['hat-yai', 'nong-khai', 'bueng-kan', 'nakhon-phanom', 'mukdahan', 'ubon-ratchathani', 'chanthaburi'],
+      linkCategory: 'hotels',
       inlineSources: [tourismAuthoritySource, tcebSource]
     }
   ],
@@ -757,7 +762,10 @@ export const hotelsHubContent: HubPageContent = {
     hotelsAssociationSource,
     tcebSource,
     unescoSource,
-    fineArtsSource
+    fineArtsSource,
+    mandarinOrientalBangkokSource,
+    theSlatePhuketSource,
+    fourSeasonsKohSamuiSource
   ]
 };
 
