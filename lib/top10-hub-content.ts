@@ -262,7 +262,7 @@ export const rootHubContent: HubPageContent = {
       description:
         'The northeastern city set is strongest when the hub directs readers into a tighter regional shortlist instead of a broad generic ranking.',
       citySlugs: ['khon-kaen', 'udon-thani', 'nakhon-ratchasima', 'ubon-ratchathani', 'nong-khai', 'bueng-kan', 'nakhon-phanom', 'mukdahan'],
-      inlineSources: [tourismAuthoritySource, michelinSource]
+      inlineSources: [tourismAuthoritySource]
     }
   ],
   sourceLinks: [
@@ -393,8 +393,7 @@ export const attractionsHubContent: HubPageContent = {
   sourceLinks: [
     tourismAuthoritySource,
     unescoSource,
-    fineArtsSource,
-    michelinSource
+    fineArtsSource
   ]
 };
 
