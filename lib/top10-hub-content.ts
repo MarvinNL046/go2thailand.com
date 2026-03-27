@@ -268,7 +268,6 @@ export const rootHubContent: HubPageContent = {
   sourceLinks: [
     tourismAuthoritySource,
     unescoSource,
-    michelinSource,
     fineArtsSource,
     tcebSource
   ]
