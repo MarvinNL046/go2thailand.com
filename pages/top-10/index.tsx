@@ -204,7 +204,7 @@ export default function Top10Index({ totalGuides }: Top10IndexProps) {
                     </div>
                     {section.inlineSources?.length ? (
                       <div className="mt-4 text-sm text-gray-500">
-                        Sources:
+                        Selected references:
                         {' '}
                         {section.inlineSources.map((source, index) => (
                           <span key={source.label}>
@@ -229,13 +229,13 @@ export default function Top10Index({ totalGuides }: Top10IndexProps) {
             <section className="bg-white rounded-2xl shadow-md p-8">
               <div className="flex items-end justify-between gap-6 mb-6">
                 <div>
-                  <span className="section-label">Sources</span>
+                  <span className="section-label">Editorial References</span>
                   <h2 className="text-3xl font-bold font-heading text-gray-900 mt-2">
-                    Visible References
+                    Selected Editorial Reference Set
                   </h2>
                 </div>
                 <p className="text-gray-600 max-w-2xl">
-                  The hub keeps its source basis visible so readers can see the editorial context behind the city routing.
+                  These are selected references behind the featured cities and route logic. They are representative, not exhaustive, and they do not individually substantiate every page statement.
                 </p>
               </div>
 

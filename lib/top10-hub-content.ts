@@ -331,8 +331,7 @@ export const rootHubContent: HubPageContent = {
       description:
         'Use the biggest travel bases when you need broad choice, transit access, and flexible onward planning.',
       citySlugs: ['bangkok', 'chiang-mai', 'phuket', 'pattaya', 'krabi', 'hua-hin'],
-      linkCategory: 'hotels',
-      inlineSources: [mandarinOrientalBangkokSource, theSlatePhuketSource, chiangMaiProvinceSource]
+      linkCategory: 'hotels'
     },
     {
       title: 'Heritage cities and temple routes',
@@ -365,8 +364,7 @@ export const rootHubContent: HubPageContent = {
       description:
         'Smaller northern cities are useful when the trip is about atmosphere, slower pacing, and focused sightseeing rather than dense city scale.',
       citySlugs: ['pai', 'mae-hong-son', 'lampang', 'chiang-khan'],
-      linkCategory: 'attractions',
-      inlineSources: [chiangMaiProvinceSource, doiInthanonSource]
+      linkCategory: 'attractions'
     },
     {
       title: 'Isaan and Mekong city guides',
@@ -381,7 +379,6 @@ export const rootHubContent: HubPageContent = {
     rongrosSource,
     mandarinOrientalBangkokSource,
     theSlatePhuketSource,
-    bangkokGrandPalaceSource,
     ayutthayaUnescoSource,
     sukhothaiUnescoSource,
     chiangRaiTourismSource,
