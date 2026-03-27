@@ -1,196 +1,110 @@
 {
   "title": "Best Hotels in Phuket Thailand (2026)",
-  "meta_description": "The 10 best hotels in Phuket, Thailand with real prices, ratings and guest reviews from tripadvisor. Updated 2026-03-08.",
-  "intro": "Discover the best hotels in Phuket, Thailand. These recommendations are based on real guest reviews and current pricing from tripadvisor.",
+  "meta_description": "Curated Phuket hotel guide with area-based picks for beach stays, Old Town stays, and higher-end resort trips.",
+  "intro": "Phuket hotel planning works best by area, not by star count alone. These picks are chosen to help different trip styles: resort-heavy luxury, quieter north-side stays, a smarter Old Town base, and higher-end options that avoid the most chaotic parts of Patong.",
   "items": [
     {
       "rank": 1,
-      "name": "Hotel Clover Patong Phuket",
-      "description": "Hotel Clover Patong Phuket is a 4.9-rated hotel in Phuket.",
-      "location": "Phuket",
-      "highlights": [],
-      "insider_tips": [],
-      "current_info": "Rating: 4.9/5 • 2.520 reviews",
-      "scraped": {
-        "source": "tripadvisor",
-        "rating": 4.9,
-        "review_count": 2520,
-        "scraped_at": "2026-03-08T15:17:43.898Z"
-      },
-      "affiliate_url": "https://tp.media/r?marker=602467&trs=421888&p=4114&u=https%3A%2F%2Fwww.booking.com%2Fsearchresults.html%3Fss%3DHotel%2520Clover%2520Patong%2520Phuket%252C%2520Phuket%252C%2520Thailand%26nflt%3Dht_id%253D204",
-      "trip_affiliate_url": "https://tp.media/r?marker=602467&trs=421888&p=7631&u=https%3A%2F%2Fwww.trip.com%2Fhotels%2Flist%3Fkeyword%3DHotel%2520Clover%2520Patong%2520Phuket%2520Phuket"
+      "name": "The Slate",
+      "description": "A design-led resort choice near Nai Yang, best for travelers who want a quieter north-side Phuket stay with more personality than a generic chain resort.",
+      "location": "Nai Yang / airport side",
+      "current_price": "Upscale to luxury",
+      "highlights": [
+        "Design-forward resort",
+        "North-side base",
+        "Good for quieter stays"
+      ],
+      "current_info": "Best for: north-side beach stay • Style: design resort • Source: official hotel website"
     },
     {
       "rank": 2,
-      "name": "Thavorn Beach Village Resort & Spa",
-      "description": "Thavorn Beach Village Resort & Spa is a 4.4-rated hotel in Phuket.",
-      "location": "Phuket",
-      "highlights": [],
-      "insider_tips": [],
-      "current_info": "Rating: 4.4/5 • 4.611 reviews",
-      "scraped": {
-        "source": "tripadvisor",
-        "rating": 4.4,
-        "review_count": 4611,
-        "scraped_at": "2026-03-08T15:17:43.898Z"
-      },
-      "affiliate_url": "https://tp.media/r?marker=602467&trs=421888&p=4114&u=https%3A%2F%2Fwww.booking.com%2Fsearchresults.html%3Fss%3DThavorn%2520Beach%2520Village%2520Resort%2520%2526%2520Spa%252C%2520Phuket%252C%2520Thailand%26nflt%3Dht_id%253D204",
-      "trip_affiliate_url": "https://tp.media/r?marker=602467&trs=421888&p=7631&u=https%3A%2F%2Fwww.trip.com%2Fhotels%2Flist%3Fkeyword%3DThavorn%2520Beach%2520Village%2520Resort%2520%2526%2520Spa%2520Phuket"
+      "name": "COMO Point Yamu",
+      "description": "A strong east-coast luxury base if you want a polished resort stay away from the island's busiest west-coast tourist zones.",
+      "location": "Point Yamu",
+      "current_price": "Luxury",
+      "highlights": [
+        "Quiet luxury",
+        "Couples-friendly",
+        "Resort-first stay"
+      ],
+      "current_info": "Best for: calm luxury trip • Style: polished resort • Source: official hotel website"
     },
     {
       "rank": 3,
-      "name": "Phuket Orchid Resort & Spa",
-      "description": "Phuket Orchid Resort & Spa is a 4.3-rated hotel in Phuket.",
-      "location": "Phuket",
-      "highlights": [],
-      "insider_tips": [],
-      "current_info": "Rating: 4.3/5 • 2.180 reviews",
-      "scraped": {
-        "source": "tripadvisor",
-        "rating": 4.3,
-        "review_count": 2180,
-        "scraped_at": "2026-03-08T15:17:43.898Z"
-      },
-      "affiliate_url": "https://tp.media/r?marker=602467&trs=421888&p=4114&u=https%3A%2F%2Fwww.booking.com%2Fsearchresults.html%3Fss%3DPhuket%2520Orchid%2520Resort%2520%2526%2520Spa%252C%2520Phuket%252C%2520Thailand%26nflt%3Dht_id%253D204",
-      "trip_affiliate_url": "https://tp.media/r?marker=602467&trs=421888&p=7631&u=https%3A%2F%2Fwww.trip.com%2Fhotels%2Flist%3Fkeyword%3DPhuket%2520Orchid%2520Resort%2520%2526%2520Spa%2520Phuket"
+      "name": "Rosewood Phuket",
+      "description": "A premium option for travelers who want high-end service and a luxury resort feel close to the Patong side without sleeping in its busiest core.",
+      "location": "Tri Trang side",
+      "current_price": "Luxury",
+      "highlights": [
+        "High-end resort",
+        "Near Patong without central chaos",
+        "Works for premium leisure stays"
+      ],
+      "current_info": "Best for: luxury near Patong side • Style: premium resort • Source: official hotel website"
     },
     {
       "rank": 4,
-      "name": "Phuket Marriott Resort & Spa, Merlin Beach",
-      "description": "Phuket Marriott Resort & Spa, Merlin Beach is a 4.6-rated hotel in Phuket.",
-      "location": "Phuket",
-      "highlights": [],
-      "insider_tips": [],
-      "current_info": "Rating: 4.6/5 • 7.269 reviews",
-      "scraped": {
-        "source": "tripadvisor",
-        "rating": 4.6,
-        "review_count": 7269,
-        "scraped_at": "2026-03-08T15:17:43.898Z"
-      },
-      "affiliate_url": "https://tp.media/r?marker=602467&trs=421888&p=4114&u=https%3A%2F%2Fwww.booking.com%2Fsearchresults.html%3Fss%3DPhuket%2520Marriott%2520Resort%2520%2526%2520Spa%252C%2520Merlin%2520Beach%252C%2520Phuket%252C%2520Thailand%26nflt%3Dht_id%253D204",
-      "trip_affiliate_url": "https://tp.media/r?marker=602467&trs=421888&p=7631&u=https%3A%2F%2Fwww.trip.com%2Fhotels%2Flist%3Fkeyword%3DPhuket%2520Marriott%2520Resort%2520%2526%2520Spa%252C%2520Merlin%2520Beach%2520Phuket"
+      "name": "Trisara",
+      "description": "One of Phuket's strongest resort-first answers if your hotel is a major part of the trip rather than just a base between activities.",
+      "location": "Northwest Phuket",
+      "current_price": "Ultra-luxury",
+      "highlights": [
+        "Villa-led luxury",
+        "Destination stay",
+        "Best if resort time is central"
+      ],
+      "current_info": "Best for: ultra-luxury resort stay • Style: villa resort • Source: official hotel website"
     },
     {
       "rank": 5,
-      "name": "Crest Resort & Pool Villas",
-      "description": "Crest Resort & Pool Villas is a 4.7-rated hotel in Phuket.",
-      "location": "Phuket",
-      "highlights": [],
-      "insider_tips": [],
-      "current_info": "Rating: 4.7/5 • 2.024 reviews",
-      "scraped": {
-        "source": "tripadvisor",
-        "rating": 4.7,
-        "review_count": 2024,
-        "scraped_at": "2026-03-08T15:17:43.898Z"
-      },
-      "affiliate_url": "https://tp.media/r?marker=602467&trs=421888&p=4114&u=https%3A%2F%2Fwww.booking.com%2Fsearchresults.html%3Fss%3DCrest%2520Resort%2520%2526%2520Pool%2520Villas%252C%2520Phuket%252C%2520Thailand%26nflt%3Dht_id%253D204",
-      "trip_affiliate_url": "https://tp.media/r?marker=602467&trs=421888&p=7631&u=https%3A%2F%2Fwww.trip.com%2Fhotels%2Flist%3Fkeyword%3DCrest%2520Resort%2520%2526%2520Pool%2520Villas%2520Phuket"
-    },
-    {
-      "rank": 6,
-      "name": "Amata Patong",
-      "description": "Amata Patong is a 4.5-rated hotel in Phuket.",
-      "location": "Phuket",
-      "highlights": [],
-      "insider_tips": [],
-      "current_info": "Rating: 4.5/5 • 3.557 reviews",
-      "scraped": {
-        "source": "tripadvisor",
-        "rating": 4.5,
-        "review_count": 3557,
-        "scraped_at": "2026-03-08T15:17:43.898Z"
-      },
-      "affiliate_url": "https://tp.media/r?marker=602467&trs=421888&p=4114&u=https%3A%2F%2Fwww.booking.com%2Fsearchresults.html%3Fss%3DAmata%2520Patong%252C%2520Phuket%252C%2520Thailand%26nflt%3Dht_id%253D204",
-      "trip_affiliate_url": "https://tp.media/r?marker=602467&trs=421888&p=7631&u=https%3A%2F%2Fwww.trip.com%2Fhotels%2Flist%3Fkeyword%3DAmata%2520Patong%2520Phuket"
-    },
-    {
-      "rank": 7,
-      "name": "HOMA Cherngtalay",
-      "description": "HOMA Cherngtalay is a 4.3-rated hotel in Phuket.",
-      "location": "Phuket",
-      "current_price": "$78",
-      "highlights": [],
-      "insider_tips": [],
-      "current_info": "Price: $78 • Rating: 4.3/5 • 36 reviews",
-      "scraped": {
-        "source": "tripadvisor",
-        "price_per_night": "$78",
-        "rating": 4.3,
-        "review_count": 36,
-        "scraped_at": "2026-03-08T15:17:43.898Z"
-      },
-      "affiliate_url": "https://tp.media/r?marker=602467&trs=421888&p=4114&u=https%3A%2F%2Fwww.booking.com%2Fsearchresults.html%3Fss%3DHOMA%2520Cherngtalay%252C%2520Phuket%252C%2520Thailand%26nflt%3Dht_id%253D204",
-      "trip_affiliate_url": "https://tp.media/r?marker=602467&trs=421888&p=7631&u=https%3A%2F%2Fwww.trip.com%2Fhotels%2Flist%3Fkeyword%3DHOMA%2520Cherngtalay%2520Phuket"
-    },
-    {
-      "rank": 8,
-      "name": "Splash Beach Resort",
-      "description": "Splash Beach Resort is a 4.1-rated hotel in Phuket.",
-      "location": "Phuket",
-      "current_price": "$80",
-      "highlights": [],
-      "insider_tips": [],
-      "current_info": "Price: $80 • Rating: 4.1/5 • 744 reviews",
-      "scraped": {
-        "source": "tripadvisor",
-        "price_per_night": "$80",
-        "rating": 4.1,
-        "review_count": 744,
-        "scraped_at": "2026-03-08T15:17:43.898Z"
-      },
-      "affiliate_url": "https://tp.media/r?marker=602467&trs=421888&p=4114&u=https%3A%2F%2Fwww.booking.com%2Fsearchresults.html%3Fss%3DSplash%2520Beach%2520Resort%252C%2520Phuket%252C%2520Thailand%26nflt%3Dht_id%253D204",
-      "trip_affiliate_url": "https://tp.media/r?marker=602467&trs=421888&p=7631&u=https%3A%2F%2Fwww.trip.com%2Fhotels%2Flist%3Fkeyword%3DSplash%2520Beach%2520Resort%2520Phuket"
-    },
-    {
-      "rank": 9,
-      "name": "Sugar Marina Hotel Aviator",
-      "description": "Sugar Marina Hotel Aviator is a 4.1-rated hotel in Phuket.",
-      "location": "Phuket",
-      "current_price": "$51",
-      "highlights": [],
-      "insider_tips": [],
-      "current_info": "Price: $51 • Rating: 4.1/5 • 268 reviews",
-      "scraped": {
-        "source": "tripadvisor",
-        "price_per_night": "$51",
-        "rating": 4.1,
-        "review_count": 268,
-        "scraped_at": "2026-03-08T15:17:43.898Z"
-      },
-      "affiliate_url": "https://tp.media/r?marker=602467&trs=421888&p=4114&u=https%3A%2F%2Fwww.booking.com%2Fsearchresults.html%3Fss%3DSugar%2520Marina%2520Hotel%2520Aviator%252C%2520Phuket%252C%2520Thailand%26nflt%3Dht_id%253D204",
-      "trip_affiliate_url": "https://tp.media/r?marker=602467&trs=421888&p=7631&u=https%3A%2F%2Fwww.trip.com%2Fhotels%2Flist%3Fkeyword%3DSugar%2520Marina%2520Hotel%2520Aviator%2520Phuket"
-    },
-    {
-      "rank": 10,
-      "name": "Panwa Sunset Beach Front",
-      "description": "Panwa Sunset Beach Front is a 4.9-rated hotel in Phuket.",
-      "location": "Phuket",
-      "current_price": "$59",
-      "highlights": [],
-      "insider_tips": [],
-      "current_info": "Price: $59 • Rating: 4.9/5 • 44 reviews",
-      "scraped": {
-        "source": "tripadvisor",
-        "price_per_night": "$59",
-        "rating": 4.9,
-        "review_count": 44,
-        "scraped_at": "2026-03-08T15:17:43.898Z"
-      },
-      "affiliate_url": "https://tp.media/r?marker=602467&trs=421888&p=4114&u=https%3A%2F%2Fwww.booking.com%2Fsearchresults.html%3Fss%3DPanwa%2520Sunset%2520Beach%2520Front%252C%2520Phuket%252C%2520Thailand%26nflt%3Dht_id%253D204",
-      "trip_affiliate_url": "https://tp.media/r?marker=602467&trs=421888&p=7631&u=https%3A%2F%2Fwww.trip.com%2Fhotels%2Flist%3Fkeyword%3DPanwa%2520Sunset%2520Beach%2520Front%2520Phuket"
+      "name": "The Memory at On On Hotel",
+      "description": "A better choice than a resort if your Phuket trip is about Old Town food, architecture, and a shorter cultural stay rather than a beach-only plan.",
+      "location": "Phuket Old Town",
+      "current_price": "Mid-range boutique",
+      "highlights": [
+        "Old Town location",
+        "Heritage feel",
+        "Good for food-and-culture trips"
+      ],
+      "current_info": "Best for: Phuket Town stay • Style: heritage boutique • Source: official hotel website"
     }
   ],
   "city_slug": "phuket",
   "city_name": "Phuket",
   "category": "hotels",
-  "data_sources": [
-    "tripadvisor",
-    "scraped"
+  "content_sources": [
+    {
+      "title": "The Slate Phuket",
+      "creator": "The Slate",
+      "url": "https://www.theslatephuket.com/",
+      "description": "Used for north-side design resort positioning."
+    },
+    {
+      "title": "COMO Point Yamu",
+      "creator": "COMO Hotels and Resorts",
+      "url": "https://www.comohotels.com/thailand/como-point-yamu",
+      "description": "Used for east-coast luxury hotel positioning."
+    },
+    {
+      "title": "Rosewood Phuket",
+      "creator": "Rosewood Hotels",
+      "url": "https://www.rosewoodhotels.com/en/phuket",
+      "description": "Used for luxury resort positioning near the Patong side."
+    },
+    {
+      "title": "Trisara",
+      "creator": "Trisara",
+      "url": "https://trisara.com/",
+      "description": "Used for ultra-luxury resort positioning."
+    },
+    {
+      "title": "The Memory at On On Hotel",
+      "creator": "The Memory at On On Hotel",
+      "url": "https://thememoryhotel.com/",
+      "description": "Used for Phuket Old Town hotel positioning."
+    }
   ],
-  "last_scraped": "2026-03-08T15:17:43.898Z",
-  "generated_at": "2026-03-08T15:17:43.898Z",
-  "hybrid": false,
-  "scraped": true
+  "generated_at": "2026-03-26T00:00:00.000Z",
+  "last_perplexity_update": "2026-03-26T00:00:00.000Z",
+  "hybrid": true
 }
