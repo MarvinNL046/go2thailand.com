@@ -113,8 +113,8 @@ const hotelsAssociationSource: HubSourceLink = {
 
 const tcebSource: HubSourceLink = {
   label: 'Thailand Convention and Exhibition Bureau',
-  url: 'https://www.tceb.or.th/en/',
-  note: 'Used for city-basis and business-travel context.'
+  url: 'https://www.tceb.or.th/home/',
+  note: 'Used for city-base and business-travel context.'
 };
 
 function featuredCity(
