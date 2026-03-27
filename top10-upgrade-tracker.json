@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-03-27T15:45:26.000Z",
+  "updated_at": "2026-03-27T15:47:47.000Z",
   "project": "go2thailand top-10 cluster upgrade tracker",
   "goal": "Upgrade all English city top-10 clusters to source-backed, non-thin, AdSense-safe, EEAT-oriented pages.",
   "scope": [
@@ -150,38 +150,38 @@
     },
     {
       "slug": "rayong",
-      "status": "pending",
-      "notes": ""
+      "status": "done",
+      "notes": "Cluster already met the stronger standard; validated jq, TypeScript, route renders, visible source signals, and clean rendered HTML before marking done."
     },
     {
       "slug": "sukhothai",
-      "status": "pending",
-      "notes": ""
+      "status": "done",
+      "notes": "Cluster already met the stronger standard; validated jq, TypeScript, route renders, visible source signals, and clean rendered HTML before marking done."
     },
     {
       "slug": "surat-thani",
-      "status": "pending",
-      "notes": ""
+      "status": "done",
+      "notes": "Cluster already met the stronger standard; validated jq, TypeScript, route renders, visible source signals, and clean rendered HTML before marking done."
     },
     {
       "slug": "trang",
-      "status": "pending",
-      "notes": ""
+      "status": "done",
+      "notes": "Cluster already met the stronger standard; validated jq, TypeScript, route renders, visible source signals, and clean rendered HTML before marking done."
     },
     {
       "slug": "trat",
-      "status": "pending",
-      "notes": ""
+      "status": "done",
+      "notes": "Cluster already met the stronger standard; validated jq, TypeScript, route renders, visible source signals, and clean rendered HTML before marking done."
     },
     {
       "slug": "ubon-ratchathani",
-      "status": "pending",
-      "notes": ""
+      "status": "done",
+      "notes": "Cluster already met the stronger standard; validated jq, TypeScript, route renders, visible source signals, and clean rendered HTML before marking done."
     },
     {
       "slug": "udon-thani",
-      "status": "pending",
-      "notes": ""
+      "status": "done",
+      "notes": "Cluster already met the stronger standard; validated jq, TypeScript, route renders, visible source signals, and clean rendered HTML before marking done."
     }
   ]
 }
