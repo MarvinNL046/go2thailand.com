@@ -1,5 +1,46 @@
 export type Top10HubSlug = 'root' | 'attractions' | 'restaurants' | 'hotels';
 
+export const approvedCitySlugs = [
+  'bangkok',
+  'chiang-mai',
+  'phuket',
+  'pattaya',
+  'ayutthaya',
+  'krabi',
+  'chiang-rai',
+  'hat-yai',
+  'sukhothai',
+  'surat-thani',
+  'pai',
+  'mae-hong-son',
+  'lampang',
+  'khon-kaen',
+  'udon-thani',
+  'nakhon-ratchasima',
+  'ubon-ratchathani',
+  'kanchanaburi',
+  'hua-hin',
+  'lopburi',
+  'phitsanulok',
+  'trat',
+  'rayong',
+  'koh-samui',
+  'nakhon-si-thammarat',
+  'trang',
+  'chumphon',
+  'chanthaburi',
+  'chiang-khan',
+  'nong-khai',
+  'bueng-kan',
+  'nakhon-phanom',
+  'mukdahan'
+] as const;
+
+export type CitySlug = (typeof approvedCitySlugs)[number];
+type Top10Category = Exclude<Top10HubSlug, 'root'>;
+type CityPageHref = `/city/${CitySlug}/`;
+type Top10PageHref = `/city/${CitySlug}/top-10-${Top10Category}/`;
+
 export interface HubSourceLink {
   label: string;
   url: string;
@@ -7,17 +48,17 @@ export interface HubSourceLink {
 }
 
 export interface HubFeaturedCity {
-  slug: string;
+  slug: CitySlug;
   kicker: string;
   summary: string;
-  primaryHref: string;
-  secondaryHref?: string;
+  primaryHref: Top10PageHref;
+  secondaryHref?: CityPageHref;
 }
 
 export interface HubEditorialSection {
   title: string;
   description: string;
-  citySlugs: string[];
+  citySlugs: CitySlug[];
   inlineSources?: HubSourceLink[];
 }
 
@@ -77,13 +118,21 @@ const tcebSource: HubSourceLink = {
 };
 
 function featuredCity(
-  slug: string,
+  slug: CitySlug,
   kicker: string,
   summary: string,
-  primaryHref: string,
-  secondaryHref?: string
+  category: Top10Category,
+  secondaryHref?: CityPageHref
 ): HubFeaturedCity {
-  return { slug, kicker, summary, primaryHref, secondaryHref };
+  return { slug, kicker, summary, primaryHref: top10Href(slug, category), secondaryHref };
+}
+
+function top10Href(slug: CitySlug, category: Top10Category): Top10PageHref {
+  return `/city/${slug}/top-10-${category}/`;
+}
+
+function cityHref(slug: CitySlug): CityPageHref {
+  return `/city/${slug}/`;
 }
 
 export const rootHubContent: HubPageContent = {
@@ -102,71 +151,71 @@ export const rootHubContent: HubPageContent = {
       'bangkok',
       'Best for depth',
       'Bangkok is the broadest starting point when you want dense attraction coverage, strong food options, and hotel choices across several trip styles.',
-      '/city/bangkok/top-10-attractions/',
-      '/city/bangkok/'
+      'attractions',
+      cityHref('bangkok')
     ),
     featuredCity(
       'chiang-mai',
       'Best for easy pacing',
       'Chiang Mai works well when you want a compact city base with heritage temples, a clear food scene, and strong short-stay logic.',
-      '/city/chiang-mai/top-10-attractions/',
-      '/city/chiang-mai/'
+      'attractions',
+      cityHref('chiang-mai')
     ),
     featuredCity(
       'phuket',
       'Best for resort planning',
       'Phuket is the clearest beach-and-island hub when the hotel base and coastal day shape matter as much as the sightseeing list.',
-      '/city/phuket/top-10-hotels/',
-      '/city/phuket/'
+      'hotels',
+      cityHref('phuket')
     ),
     featuredCity(
       'pattaya',
       'Best for quick breaks',
       'Pattaya is useful for short, practical trip planning when you want a close-to-Bangkok coastal base with plenty of activity choices.',
-      '/city/pattaya/top-10-hotels/',
-      '/city/pattaya/'
+      'hotels',
+      cityHref('pattaya')
     ),
     featuredCity(
       'ayutthaya',
       'Best for heritage focus',
       'Ayutthaya is the cleanest entry point for historic-site planning when the trip is centered on temples, ruins, and a slower day rhythm.',
-      '/city/ayutthaya/top-10-attractions/',
-      '/city/ayutthaya/'
+      'attractions',
+      cityHref('ayutthaya')
     ),
     featuredCity(
       'krabi',
       'Best for coastal balance',
       'Krabi is a strong fit when you want a beach base that still supports a useful set of sightseeing and hotel decisions.',
-      '/city/krabi/top-10-hotels/',
-      '/city/krabi/'
+      'hotels',
+      cityHref('krabi')
     ),
     featuredCity(
       'hua-hin',
       'Best for easy stays',
       'Hua Hin is one of the simplest city-level hotel bases for travelers who want a calmer coastal stay with straightforward logistics.',
-      '/city/hua-hin/top-10-hotels/',
-      '/city/hua-hin/'
+      'hotels',
+      cityHref('hua-hin')
     ),
     featuredCity(
       'chiang-rai',
       'Best for temple routes',
       'Chiang Rai gives the clearest northern temple-and-landmark route when the trip is about distinctive sights rather than urban scale.',
-      '/city/chiang-rai/top-10-attractions/',
-      '/city/chiang-rai/'
+      'attractions',
+      cityHref('chiang-rai')
     ),
     featuredCity(
       'koh-samui',
       'Best for island stays',
       'Koh Samui is the strongest island-style lodging hub when the stay itself drives the shape of the trip.',
-      '/city/koh-samui/top-10-hotels/',
-      '/city/koh-samui/'
+      'hotels',
+      cityHref('koh-samui')
     ),
     featuredCity(
       'sukhothai',
       'Best for slow heritage trips',
       'Sukhothai is the most focused historic-city option when you want temples, open space, and a measured sightseeing day.',
-      '/city/sukhothai/top-10-attractions/',
-      '/city/sukhothai/'
+      'attractions',
+      cityHref('sukhothai')
     )
   ],
   sections: [
@@ -220,7 +269,8 @@ export const rootHubContent: HubPageContent = {
     tourismAuthoritySource,
     unescoSource,
     michelinSource,
-    hotelsAssociationSource
+    fineArtsSource,
+    tcebSource
   ]
 };
 
@@ -240,57 +290,57 @@ export const attractionsHubContent: HubPageContent = {
       'bangkok',
       'Best for dense sightseeing',
       'Bangkok is the clearest all-purpose attraction base when you want a long list of temples, museums, and neighborhood-level stops.',
-      '/city/bangkok/top-10-attractions/',
-      '/city/bangkok/'
+      'attractions',
+      cityHref('bangkok')
     ),
     featuredCity(
       'ayutthaya',
       'Best for temple ruins',
       'Ayutthaya is the strongest heritage-city attraction entry when historic sites are the main reason for the stop.',
-      '/city/ayutthaya/top-10-attractions/',
-      '/city/ayutthaya/'
+      'attractions',
+      cityHref('ayutthaya')
     ),
     featuredCity(
       'chiang-mai',
       'Best for city-and-park balance',
       'Chiang Mai works well for readers who want temples, old-city lanes, and easy day-trip structure from one hub.',
-      '/city/chiang-mai/top-10-attractions/',
-      '/city/chiang-mai/'
+      'attractions',
+      cityHref('chiang-mai')
     ),
     featuredCity(
       'chiang-rai',
       'Best for landmark stops',
       'Chiang Rai gives a tighter landmark shortlist and a cleaner route into the city’s signature temple stops.',
-      '/city/chiang-rai/top-10-attractions/',
-      '/city/chiang-rai/'
+      'attractions',
+      cityHref('chiang-rai')
     ),
     featuredCity(
       'sukhothai',
       'Best for historic-park focus',
       'Sukhothai is the best fit when the attraction guide should stay centered on one major historic landscape.',
-      '/city/sukhothai/top-10-attractions/',
-      '/city/sukhothai/'
+      'attractions',
+      cityHref('sukhothai')
     ),
     featuredCity(
       'krabi',
       'Best for coastal scenery',
       'Krabi is a useful attraction base when beaches, cliffs, and day-trip variety matter more than urban sightseeing.',
-      '/city/krabi/top-10-attractions/',
-      '/city/krabi/'
+      'attractions',
+      cityHref('krabi')
     ),
     featuredCity(
       'phuket',
       'Best for mixed sightseeing',
       'Phuket supports a fuller attraction mix because old-town walking, viewpoints, and coastal sightseeing all fit the same trip.',
-      '/city/phuket/top-10-attractions/',
-      '/city/phuket/'
+      'attractions',
+      cityHref('phuket')
     ),
     featuredCity(
       'kanchanaburi',
       'Best for day-trip history',
       'Kanchanaburi is a strong fit when the attraction guide should balance history, river scenery, and outdoor stops.',
-      '/city/kanchanaburi/top-10-attractions/',
-      '/city/kanchanaburi/'
+      'attractions',
+      cityHref('kanchanaburi')
     )
   ],
   sections: [
@@ -345,7 +395,7 @@ export const attractionsHubContent: HubPageContent = {
     tourismAuthoritySource,
     unescoSource,
     fineArtsSource,
-    michelinSource
+    tcebSource
   ]
 };
 
@@ -365,57 +415,57 @@ export const restaurantsHubContent: HubPageContent = {
       'bangkok',
       'Best for range',
       'Bangkok has the broadest dining range, so it is the strongest starting point when the food guide needs real depth.',
-      '/city/bangkok/top-10-restaurants/',
-      '/city/bangkok/'
+      'restaurants',
+      cityHref('bangkok')
     ),
     featuredCity(
       'chiang-mai',
       'Best for easy food exploration',
       'Chiang Mai works well for a food-focused trip because the city is compact and the dining map is easy to read.',
-      '/city/chiang-mai/top-10-restaurants/',
-      '/city/chiang-mai/'
+      'restaurants',
+      cityHref('chiang-mai')
     ),
     featuredCity(
       'phuket',
       'Best for mixed dining',
       'Phuket supports a broad restaurant shortlist because beach zones, Old Town, and resort areas each offer different meals.',
-      '/city/phuket/top-10-restaurants/',
-      '/city/phuket/'
+      'restaurants',
+      cityHref('phuket')
     ),
     featuredCity(
       'hat-yai',
       'Best for market meals',
       'Hat Yai is a useful food hub when the guide should lean on local markets, easy dinners, and southern regional flavor.',
-      '/city/hat-yai/top-10-restaurants/',
-      '/city/hat-yai/'
+      'restaurants',
+      cityHref('hat-yai')
     ),
     featuredCity(
       'khon-kaen',
       'Best for regional dining',
       'Khon Kaen gives the clearest Isaan dining anchor when regional dishes and local restaurants matter most.',
-      '/city/khon-kaen/top-10-restaurants/',
-      '/city/khon-kaen/'
+      'restaurants',
+      cityHref('khon-kaen')
     ),
     featuredCity(
       'udon-thani',
       'Best for relaxed food trips',
       'Udon Thani is a strong food city when the trip should be built around straightforward regional meals and easy planning.',
-      '/city/udon-thani/top-10-restaurants/',
-      '/city/udon-thani/'
+      'restaurants',
+      cityHref('udon-thani')
     ),
     featuredCity(
       'chiang-rai',
       'Best for compact dining',
       'Chiang Rai works well when the restaurant guide should stay focused on a smaller city core and a manageable shortlist.',
-      '/city/chiang-rai/top-10-restaurants/',
-      '/city/chiang-rai/'
+      'restaurants',
+      cityHref('chiang-rai')
     ),
     featuredCity(
       'koh-samui',
       'Best for resort dining',
       'Koh Samui is the clearest island choice when hotel areas, beach dining, and the food plan all interact.',
-      '/city/koh-samui/top-10-restaurants/',
-      '/city/koh-samui/'
+      'restaurants',
+      cityHref('koh-samui')
     )
   ],
   sections: [
@@ -469,8 +519,7 @@ export const restaurantsHubContent: HubPageContent = {
   sourceLinks: [
     michelinSource,
     thaiSelectSource,
-    tourismAuthoritySource,
-    hotelsAssociationSource
+    tourismAuthoritySource
   ]
 };
 
@@ -490,64 +539,64 @@ export const hotelsHubContent: HubPageContent = {
       'bangkok',
       'Best for city-base planning',
       'Bangkok is the clearest first stop when the hotel choice needs transit access, district choice, and a broad range of stay styles.',
-      '/city/bangkok/top-10-hotels/',
-      '/city/bangkok/'
+      'hotels',
+      cityHref('bangkok')
     ),
     featuredCity(
       'phuket',
       'Best for resort logic',
       'Phuket is the most flexible beach base when the hotel guide needs to separate resort areas, town stays, and island access.',
-      '/city/phuket/top-10-hotels/',
-      '/city/phuket/'
+      'hotels',
+      cityHref('phuket')
     ),
     featuredCity(
       'koh-samui',
       'Best for island stays',
       'Koh Samui is the clearest island hotel hub when the stay itself defines the structure of the trip.',
-      '/city/koh-samui/top-10-hotels/',
-      '/city/koh-samui/'
+      'hotels',
+      cityHref('koh-samui')
     ),
     featuredCity(
       'chiang-mai',
       'Best for city comfort',
       'Chiang Mai is a strong hotel base when the trip needs a compact center, easy movement, and a slower city pace.',
-      '/city/chiang-mai/top-10-hotels/',
-      '/city/chiang-mai/'
+      'hotels',
+      cityHref('chiang-mai')
     ),
     featuredCity(
       'hua-hin',
       'Best for calm coastal stays',
       'Hua Hin is a useful answer when the hotel guide should favor a relaxed coastal break over dense urban intensity.',
-      '/city/hua-hin/top-10-hotels/',
-      '/city/hua-hin/'
+      'hotels',
+      cityHref('hua-hin')
     ),
     featuredCity(
       'krabi',
       'Best for beach access',
       'Krabi works well when the hotel decision depends on beaches, island access, and a clear coastal trip shape.',
-      '/city/krabi/top-10-hotels/',
-      '/city/krabi/'
+      'hotels',
+      cityHref('krabi')
     ),
     featuredCity(
       'pattaya',
       'Best for quick stayovers',
       'Pattaya is practical when the hotel guide should support a short leisure break or an easy Bangkok escape.',
-      '/city/pattaya/top-10-hotels/',
-      '/city/pattaya/'
+      'hotels',
+      cityHref('pattaya')
     ),
     featuredCity(
       'ayutthaya',
       'Best for heritage nights',
       'Ayutthaya makes sense when the stay is really about a slower historic-city visit and a close-in base.',
-      '/city/ayutthaya/top-10-hotels/',
-      '/city/ayutthaya/'
+      'hotels',
+      cityHref('ayutthaya')
     ),
     featuredCity(
       'kanchanaburi',
       'Best for river stays',
       'Kanchanaburi is a good fit when the hotel guide should support riverside scenery and an easy out-of-city rhythm.',
-      '/city/kanchanaburi/top-10-hotels/',
-      '/city/kanchanaburi/'
+      'hotels',
+      cityHref('kanchanaburi')
     )
   ],
   sections: [
@@ -591,7 +640,8 @@ export const hotelsHubContent: HubPageContent = {
     tourismAuthoritySource,
     hotelsAssociationSource,
     tcebSource,
-    unescoSource
+    unescoSource,
+    fineArtsSource
   ]
 };
 
