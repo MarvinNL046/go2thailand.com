@@ -15,22 +15,25 @@
   "region": "Northern",
   "province": "Sukhothai",
   "description": {
-    "en": "Famous for Sukhothai Historical Park, ruins of Thailand's first capital.",
-    "nl": "Beroemd om Sukhothai Historical Park, ruïnes van de eerste Thaise hoofdstad.",
-    "ja": "タイ最初の王都の遺跡が残るスコータイ歴史公園で有名な、ユネスコ世界遺産の古都です。",
-    "ko": "태국 최초의 수도 유적이 있는 수코타이 역사공원으로 유명한 유네스코 세계유산 도시입니다.",
-    "th": "รุ่งอรุณแห่งความสุข อดีตราชธานีแห่งแรกของไทย มีอุทยานประวัติศาสตร์มรดกโลก",
-    "de": "Berühmt für den Sukhothai Historical Park, Ruinen der ersten Hauptstadt Thailands.",
-    "fr": "Célèbre pour le parc historique de Sukhothai, les ruines de la première capitale thaïlandaise.",
-    "ru": "Известен историческим парком Сукхотай, руинами первой столицы Таиланда.",
-    "zh": "以素可泰历史公园著名，是泰国第一都城的遗址。"
+    "en": "Sukhothai is strongest when you plan it around the UNESCO old city first, then split the historical park into a central loop, one north-or-west temple extension, and at most one Si Satchanalai day. The trip gets thinner when the new town, the old town, and the wider province are all thrown together without a clear historical core.",
+    "nl": "Sukhothai werkt het best wanneer je het rond de UNESCO-oude stad plant, met eerst de centrale parkzone, daarna een noord- of westtempeluitstap en hooguit één dag naar Si Satchanalai. De trip wordt dun zodra new town, old town en de hele provincie zonder duidelijke historische kern door elkaar lopen.",
+    "ja": "スコータイは、まず世界遺産の旧都を中心に組み立て、そのうえで中央区画、北または西の寺院群、必要ならシーサッチャナーライを一日足す形にすると最も分かりやすい町です。",
+    "ko": "수코타이는 유네스코 구도시를 중심으로 짜고, 중앙 구역과 북쪽 또는 서쪽 사원군, 필요하면 시 사차날라이 하루를 더하는 방식이 가장 설득력 있습니다.",
+    "th": "สุโขทัยเหมาะกับการวางแผนเที่ยวโดยเริ่มจากเมืองเก่าและอุทยานประวัติศาสตร์ ก่อนค่อยเพิ่มโซนเหนือหรือโซนตะวันตก และหากมีเวลาเพียงพอจึงค่อยต่อไปศรีสัชนาลัย",
+    "de": "Sukhothai funktioniert am besten mit der UNESCO-Altstadt als Kern, dann einer klaren Aufteilung in Zentralzone, Nord- oder Westtempel und hoechstens einem Tag in Si Satchanalai.",
+    "fr": "Sukhothai se planifie mieux autour de la vieille ville UNESCO, puis d'une vraie boucle centrale, d'un ajout nord ou ouest, et au maximum d'une journee a Si Satchanalai.",
+    "ru": "Сукхотай лучше планировать вокруг зоны ЮНЕСКО: центральный блок, затем один северный или западный храмовый выезд и максимум один день в Si Satchanalai.",
+    "zh": "Sukhothai 最适合按“世界遗产古城核心 + 中央区 + 一段北区或西区寺庙补充 + 最多一天 Si Satchanalai”的逻辑来安排。"
   },
   "population": 37000,
+  "population_note": "Municipal-scale reference used for city-page context, not for the wider province.",
   "highlights": [
-    "Historical Park",
+    "Sukhothai Historical Park",
     "Wat Mahathat",
     "Wat Si Chum",
-    "Yom River"
+    "Wat Sa Si",
+    "Wat Saphan Hin",
+    "Si Satchanalai Historical Park"
   ],
   "location": {
     "lat": 17.0078,
@@ -39,990 +42,712 @@
   "image": "/images/cities/generated/sukhothai.webp",
   "seo": {
     "metaTitle": {
-      "en": "Discover Sukhothai | What to do in Sukhothai?",
-      "nl": "Ontdek Sukhothai | Wat te doen in Sukhothai?",
-      "ja": "スコータイを満喫 | スコータイの観光・見どころガイド",
-      "ko": "수코타이 태국 — 역사공원 & 유적 여행 가이드 2026",
+      "en": "Sukhothai Thailand Guide 2026 | Historical Park, Food, Hotels, Si Satchanalai",
+      "nl": "Sukhothai Thailand gids 2026 | Historical Park, food, hotels en Si Satchanalai",
+      "ja": "スコータイ旅行ガイド 2026 | 歴史公園・寺院・食・ホテル",
+      "ko": "수코타이 태국 여행 가이드 2026",
       "th": "สุโขทัย ประเทศไทย — คู่มือท่องเที่ยวฉบับสมบูรณ์ 2026",
-      "de": "Entdecken Sie Sukhothai | Was kann man in Sukhothai tun?",
-      "fr": "Découvrez Sukhothai | Que faire à Sukhothai ?",
-      "ru": "Откройте для себя Сукхотай | Что можно сделать в Сукхотае?",
-      "zh": "发现素可泰 | 在素可泰可以做什么？"
+      "de": "Sukhothai Thailand Guide 2026 | Historischer Park, Essen, Hotels",
+      "fr": "Guide Sukhothai 2026 | Parc historique, gastronomie, hotels",
+      "ru": "Сукхотай 2026 | Исторический парк, еда, отели",
+      "zh": "素可泰旅行指南 2026 | 历史公园、美食与住宿"
     },
     "metaDescription": {
-      "en": "Your guide to Sukhothai, Thailand – tips, highlights, food, hotels.",
-      "nl": "Jouw gids voor Sukhothai, Thailand – tips, highlights, eten, hotels.",
-      "ja": "タイ・スコータイの旅行ガイド — おすすめスポット、グルメ、ホテル情報をご紹介。",
-      "ko": "수코타이(태국) 완벽 여행 가이드: 유네스코 역사공원, 고대 유적, 자전거 투어. 가격, 팁, 가는 법.",
-      "th": "คู่มือท่องเที่ยวสุโขทัย ประเทศไทย — สถานที่ท่องเที่ยว อาหาร ที่พัก และเคล็ดลับ อัปเดต 2026",
-      "de": "Ihr Reiseführer zu Sukhothai, Thailand – Tipps, Highlights, Essen, Hotels.",
-      "fr": "Votre guide de Sukhothai, Thaïlande – conseils, points forts, nourriture, hôtels.",
-      "ru": "Ваш гид по Сукхотаю, Таиланд — советы, главные достопримечательности, еда, отели.",
-      "zh": "您的素可泰旅行指南——提示、亮点、美食、酒店。"
+      "en": "Plan Sukhothai around the UNESCO historical park, Wat Mahathat, Wat Si Chum, one west-side temple climb, real Sukhothai food, and a deliberate Si Satchanalai extension.",
+      "nl": "Plan Sukhothai rond het UNESCO historical park, Wat Mahathat, Wat Si Chum, een westelijke tempelklim, echt Sukhothai-eten en een bewuste Si Satchanalai-uitstap.",
+      "ja": "世界遺産スコータイ歴史公園、ワット・マハータート、ワット・シーチュム、地元料理、シーサッチャナーライまで含めて整理した実用ガイドです。",
+      "ko": "유네스코 역사공원, 왓 마하탓, 왓 시춤, 수코타이 로컬 음식, 시 사차날라이 확장까지 한 번에 정리한 실전형 가이드입니다.",
+      "th": "วางแผนสุโขทัยด้วยอุทยานประวัติศาสตร์ วัดมหาธาตุ วัดศรีชุม อาหารท้องถิ่น และทริปต่อศรีสัชนาลัยอย่างเป็นระบบ",
+      "de": "Planen Sie Sukhothai rund um den UNESCO-Park, Wat Mahathat, Wat Si Chum, lokales Essen und einen gezielten Abstecher nach Si Satchanalai.",
+      "fr": "Organisez Sukhothai autour du parc historique UNESCO, Wat Mahathat, Wat Si Chum, la cuisine locale et une extension a Si Satchanalai.",
+      "ru": "Планируйте Сукхотай вокруг исторического парка ЮНЕСКО, Wat Mahathat, Wat Si Chum, локальной еды и одного выезда в Si Satchanalai.",
+      "zh": "把素可泰的行程围绕世界遗产历史公园、Wat Mahathat、Wat Si Chum、在地食物和一次 Si Satchanalai 延伸日来安排。"
     }
   },
   "categories": {
     "food": {
-      "en": "Best restaurants and street food in Sukhothai",
-      "nl": "Beste restaurants en streetfood in Sukhothai",
-      "ja": "スコータイのおすすめレストラン＆ストリートフード",
-      "ko": "수코타이 추천 레스토랑과 길거리 음식",
-      "th": "ร้านอาหารและสตรีทฟู้ดที่ดีที่สุดในสุโขทัย"
+      "en": "Best restaurants and local food in Sukhothai",
+      "nl": "Beste restaurants en lokaal eten in Sukhothai",
+      "ja": "スコータイのおすすめレストランとローカルフード",
+      "ko": "수코타이 추천 레스토랑과 로컬 음식",
+      "th": "ร้านอาหารและของกินท้องถิ่นที่ดีที่สุดในสุโขทัย"
     },
     "hotels": {
-      "en": "Top hotels in Sukhothai | Tips & deals",
-      "nl": "Beste hotels in Sukhothai | Tips & aanbiedingen",
-      "ja": "スコータイのおすすめホテル｜お得な情報＆アドバイス",
-      "ko": "수코타이 추천 호텔 | 팁 & 특가",
-      "th": "โรงแรมแนะนำในสุโขทัย | เคล็ดลับและดีล"
+      "en": "Top hotels in Sukhothai | Old city and practical stopovers",
+      "nl": "Beste hotels in Sukhothai | Old city en praktische overnachtingen",
+      "ja": "スコータイのおすすめホテル",
+      "ko": "수코타이 추천 호텔 | 올드시티와 실용적인 숙소",
+      "th": "โรงแรมแนะนำในสุโขทัย | เมืองเก่าและที่พักใช้งานจริง"
     },
     "attractions": {
       "en": "Top attractions in Sukhothai",
       "nl": "Top bezienswaardigheden in Sukhothai",
       "ja": "スコータイの人気観光スポット",
-      "ko": "수코타이 인기 관광 명소",
+      "ko": "수코타이 핵심 명소",
       "th": "สถานที่ท่องเที่ยวยอดนิยมในสุโขทัย"
     }
   },
   "tags": [
-    "northern",
     "sukhothai",
-    "thailand",
-    "travel",
-    "tourism",
-    "guide"
+    "historical park",
+    "unesco",
+    "wat mahathat",
+    "wat si chum",
+    "si satchanalai",
+    "sukhothai noodles",
+    "thailand"
   ],
-  "enhanced_description": "As the sun begins to dip below the horizon, casting a warm golden hue over the ancient ruins of Sukhothai, there's a palpable sense of history that envelops you. The air is thick with the scent of jasmine and the distant sound of a traditional Thai flute wafts through the streets, inviting you to explore the heart of Thailand's first capital. Sukhothai is more than just a historical park; it’s a living tapestry of culture, stories, and flavors that have been woven over centuries. I remember my first evening in the city, wandering through the Sukhothai Historical Park as the last rays of sunlight kissed the towering stupas of Wat Mahathat. Each step was accompanied by the soft crunch of gravel underfoot, echoing the footsteps of the ancient kings who once trod this sacred ground. \n\nUnlike the bustling streets of Bangkok or the touristy beaches of Phuket, Sukhothai offers a tranquil escape where the past whispers through the trees. The Historical Park, with its majestic ruins and serene lakes, is the crown jewel, but it’s the stories hidden within its walls that truly captivate. I recall sitting by the Yom River, watching local fishermen cast their nets, their laughter mingling with the sound of water lapping against the shore. It was here that I learned about the traditional fishing techniques passed down through generations, a reminder of the simple yet profound connections between the people and their land. \n\nOne of my favorite moments was visiting Wat Si Chum, where the enormous Buddha statue seems to gaze directly into your soul. I sat cross-legged on the cool stone floor, absorbing the energy of the place. An elderly monk approached me, his eyes twinkling with wisdom, and he shared stories of how the temple had been a refuge during times of strife. It was these personal encounters that made Sukhothai special; each conversation felt like a thread binding me closer to the fabric of local life. \n\nThe city is also a culinary paradise, with flavors that reflect its rich history. Street vendors serve up dishes like Khao Soi, a creamy coconut curry noodle soup that warms your heart and soul. I remember the first time I tried it at a small stall near the historical park; the vendor, a kind woman named Aun, insisted I add extra lime for a burst of freshness. Her smile as I took my first slurp is etched in my memory. \n\nSukhothai stands apart from other destinations in Thailand not just for its breathtaking ruins but also for its welcoming spirit. It’s a place where time slows down, allowing you to breathe in the beauty of life. Whether you’re cycling through the park at dawn, when the mist clings to the ground like a soft blanket, or partaking in a local festival that lights up the night sky with lanterns, Sukhothai invites you to connect with its heart. It’s a city that feels like a well-kept secret, waiting to be discovered by those who seek a deeper understanding of Thailand’s soul.",
+  "enhanced_description": "Sukhothai only really holds together when the old city remains the center of the trip. The UNESCO-listed historical park is not one single stop but a layered archaeological landscape: the central zone for orientation and scale, the north for Wat Si Chum and the speaking-Buddha image, the west for the hill climb at Wat Saphan Hin, and then one deliberate decision about whether a second day should go to Si Satchanalai or stay closer to town.\n\nThat structure also makes the food and hotel advice cleaner. Real Sukhothai food is one of the province's biggest strengths, and TAT's current foodie map is useful precisely because it highlights specific local names rather than anonymous ranking-site copy. Hotel choice is similarly geographic. The strongest first stays are still around Mueang Kao and the old-city side, while the airport-and-rice-field belt only makes sense if you are linking Sukhothai with Si Satchanalai or flying in and out on a tight schedule.",
+  "overview": "UNESCO describes Sukhothai as the capital of the first Kingdom of Siam in the 13th and 14th centuries, with monuments that illustrate the beginnings of Thai architecture. That is the right starting point for planning because it keeps the city anchored in what it actually offers: one of Thailand's clearest historical landscapes rather than a generic northern stop with a few ruins scattered around it.\n\nThe old city is where the trip makes sense fastest. TAT's current province page still pushes the historical park, Wat Si Chum, and the craft-and-ceramic identity of Si Satchanalai, and that remains a useful hierarchy. Start with the central zone for Wat Mahathat and Wat Sa Si, then decide whether the next block should go north to Wat Si Chum or west toward Wat Saphan Hin. That sequencing matters more than trying to tick every monument in one rushed loop.\n\nThe newer town still matters, but mainly as a practical base and food layer. TAT's 2024 foodie map gives Sukhothai a stronger dining identity than many older guides did, especially around Sukhothai noodles, old recipes, freshwater-fish cooking, and traditional sweets. Combined with a selective hotel layer, that makes Sukhothai a stronger overnight destination than a day trip only.",
   "hidden_gems": [
     {
-      "name": "The Old City Market",
-      "story": "I stumbled upon this lively market on a quiet weekday afternoon. Locals gathered around, sharing stories over bowls of steaming noodle soup. One vendor, a grandmother with a warm smile, taught me how to make a perfect spring roll, and I still use her secrets today.",
-      "how_to_find": "Head east from the Historical Park along the main road until you see the colorful stalls lining the street.",
-      "best_time": "Visit in the early morning or late afternoon for a vibrant atmosphere and cooler temperatures.",
+      "name": "Ramkhamhaeng National Museum after the temple loop",
+      "story": "The museum works best after at least one pass through the park, because the sculpture styles, inscriptions, and fragments make more sense once you have already seen the architectural forms outdoors.",
+      "how_to_find": "Use it as a second stop near the park edge rather than as the first thing you do on arrival.",
+      "best_time": "Late morning or early afternoon",
       "local_insights": [
-        "Bring a small bag for shopping; bargaining is common but always with a smile."
+        "More useful for context than for spectacle",
+        "Best paired with the central-zone temples, not with a long Si Satchanalai day"
       ]
     },
     {
-      "name": "Wat Phra Pai Luang",
-      "story": "This lesser-known temple captivated me with its intricate architecture. I was the only visitor, surrounded by the sounds of nature and the occasional chirp of a bird. A local artist was sketching the temple, and we ended up sharing stories about art and history.",
-      "how_to_find": "Located a bit off the beaten path, follow the signs from the main road towards the Sukhothai Historical Park.",
-      "best_time": "Late afternoon when the light casts beautiful shadows on the temple walls.",
+      "name": "Mueang Kao community layer around the park",
+      "story": "The old-city communities become more visible when you add one simple local activity instead of treating the whole zone as an archaeological compound only. TAT's award-backed community page still treats tram history, local sweets, and small cultural workshops as part of the area.",
+      "how_to_find": "Keep it near Mueang Kao and add it only if you have already given enough time to the major park temples.",
+      "best_time": "Morning",
       "local_insights": [
-        "Take your time here; it’s a perfect spot for reflection and photography."
+        "This should support the park day, not replace it",
+        "Works best for travelers staying in the old city"
       ]
     }
   ],
   "authentic_experiences": [
     {
-      "activity": "Traditional Thai Cooking Class",
-      "story": "I joined a cooking class hosted by a local family, where we harvested fresh herbs from their garden. Cooking together was not just about the food; it was a bonding experience filled with laughter and learning.",
-      "cultural_significance": "Food is at the heart of Thai culture, and learning to cook traditional dishes connects you to the community.",
-      "how_to_participate": "Sign up at local cooking schools or inquire at your hotel for recommendations.",
+      "activity": "Cycle or ride through the central zone before you expand outward",
+      "story": "Sukhothai Historical Park is large enough that the central zone needs to be understood as a proper orientation loop rather than a single quick temple stop. That first pass gives scale to the city walls, ponds, and axial planning.",
+      "cultural_significance": "UNESCO frames the site as the place where the early Sukhothai style emerged, which is exactly why the overall layout matters as much as any one temple.",
+      "how_to_participate": "Start early, keep the first loop focused on Wat Mahathat and Wat Sa Si, and save the north or west zones for a second block.",
       "insights": [
-        "Embrace the spice level; locals often prefer their dishes quite hot!"
-      ]
+        "The central zone is the filter that makes the rest of Sukhothai legible.",
+        "Do not spend the best morning light entirely in transit between separate ticket gates."
+      ],
+      "href": "/city/sukhothai/attractions/sukhothai-historical-park/",
+      "cta_label": "See the park guide"
     },
     {
-      "activity": "Cycling through the Ruins",
-      "story": "Renting a bicycle and pedaling through the Historical Park at dawn was one of my most magical experiences. The soft light and quiet surroundings allowed for a deeper appreciation of the ancient structures.",
-      "cultural_significance": "Cycling is a beloved local pastime, and it gives you a unique perspective on the historical sites.",
-      "how_to_participate": "Bicycles can be rented from various shops near the park entrance.",
+      "activity": "Use Wat Si Chum and one west-side climb as the edited second layer",
+      "story": "TAT's province page still singles out Phra Achana at Wat Si Chum, and that remains the clearest second move after the central monuments. Pairing it with Wat Saphan Hin gives you scale, contrast, and one real viewpoint without making the day feel bloated.",
+      "cultural_significance": "This is the quickest way to understand how the park changes from ceremonial core to outer religious landscape.",
+      "how_to_participate": "Go north first for Wat Si Chum, then decide whether weather and time justify the west-side climb later in the day.",
       "insights": [
-        "Start early to avoid the heat and crowds, and don’t forget your camera!"
-      ]
+        "You do not need every external zone to make the day feel complete.",
+        "Wat Saphan Hin is better as one measured climb than as part of a monument checklist."
+      ],
+      "href": "/city/sukhothai/attractions/wat-si-chum/",
+      "cta_label": "See the Wat Si Chum guide"
+    },
+    {
+      "activity": "Treat Sukhothai noodles as a core part of the city, not a generic lunch line",
+      "story": "TAT's current foodie map explicitly keeps Je Hae Sukhothai Noodles, Mai Klang Krung, Mee Khao Pan Pak, and Jay Pao in the local-food shortlist. That is useful because it roots the trip in dishes and names that are actually tied to the province.",
+      "cultural_significance": "Sukhothai food is one of the strongest non-monument reasons to stay overnight rather than rushing back out after the park.",
+      "how_to_participate": "Use one noodle stop around lunch, then keep dinner for either a local fish specialist or a calmer old-city hotel restaurant.",
+      "insights": [
+        "Sukhothai noodles deserve a dedicated stop, not just a backup meal.",
+        "The city gets stronger when lunch and temple routing support each other."
+      ],
+      "href": "/city/sukhothai/top-10-restaurants/",
+      "cta_label": "See the food guide"
+    },
+    {
+      "activity": "Give Si Satchanalai its own day if you add it at all",
+      "story": "UNESCO lists Si Satchanalai with Sukhothai as part of the same World Heritage ensemble, but that does not mean it should be squeezed into the margins of a first park day. It works only when it is treated as a separate historical landscape with its own rhythm.",
+      "cultural_significance": "UNESCO and TAT both frame Si Satchanalai as part of the wider Sukhothai kingdom story, which is why it is the one extension that materially deepens the trip.",
+      "how_to_participate": "Do it on a second day, ideally when your hotel and transport choice make the extra distance reasonable.",
+      "insights": [
+        "A full Si Satchanalai day is better than a rushed add-on after Wat Mahathat.",
+        "Airport-side hotels become more useful if this extension is in your plan."
+      ],
+      "href": "/city/sukhothai/attractions/si-satchanalai-historical-park/",
+      "cta_label": "See the Si Satchanalai guide"
     }
   ],
   "foodie_adventures": [
     {
-      "dish": "Khao Soi",
-      "location": "Aun's Noodle Stall near the Historical Park",
-      "story": "The first taste of Khao Soi was life-changing. Aun insisted on adding her secret chili oil, which elevated the dish beyond anything I had tried before.",
-      "price_range": "Around 50 baht for a generous bowl.",
+      "dish": "Sukhothai noodles",
+      "location": "Je Hae Sukhothai Noodles",
+      "story": "TAT's 2024 foodie map notes that Je Hae has been open since 1994 and highlights the house-made noodles, red pork, roasted chili, and peanuts that give the bowl its distinct sweet-sour profile.",
+      "where_to_find": "Best used as a direct lunch stop rather than a casual snack between longer transfers.",
+      "price_range": "Budget",
       "ordering_tips": [
-        "Ask for extra lime and chili oil; it makes all the difference!"
-      ]
+        "Keep the first bowl classic before adding a second, spicier variation.",
+        "This is most useful after the morning park loop, not before."
+      ],
+      "href": "/city/sukhothai/top-10-restaurants/",
+      "cta_label": "See the food guide"
     },
     {
-      "dish": "Moo Pad Krapow",
-      "location": "Local street vendor near the Old City Market",
-      "story": "The sizzle of ground pork and basil in a hot wok was irresistible. The vendor, a cheerful young man, tossed in fresh chilies and served it over jasmine rice with a fried egg on top.",
-      "price_range": "About 40 baht for a hearty serving.",
+      "dish": "Sukhothai pad thai and khao kriap pak mor",
+      "location": "Mai Klang Krung Restaurant",
+      "story": "TAT's foodie map uses Mai Klang Krung to show how provincial ingredients and older family recipes still shape Sukhothai cooking beyond noodle soup alone.",
+      "where_to_find": "A good mid-day or early-afternoon stop when you want a broader menu than a single noodle specialist.",
+      "price_range": "Budget to mid-range",
       "ordering_tips": [
-        "Specify how spicy you want it; locals usually go for extra spicy!"
-      ]
+        "This is the better pick when your group wants more than one style of local dish.",
+        "Use it as a food-first stop, not as a decorative heritage add-on."
+      ],
+      "href": "/city/sukhothai/top-10-restaurants/",
+      "cta_label": "See the food guide"
+    },
+    {
+      "dish": "Freshwater fish cooking from local catch",
+      "location": "Jay Pao Restaurant",
+      "story": "TAT's foodie map keeps Jay Pao for its long-running fish-focused kitchen and its use of local catch, which gives Sukhothai a more regional identity than another generic Thai-restaurant list.",
+      "where_to_find": "Best as a proper dinner when you want one meal that is not temple-adjacent noodles.",
+      "price_range": "Mid-range",
+      "ordering_tips": [
+        "This is stronger as a shared-table dinner than as a solo quick stop.",
+        "Choose it when you want a local main meal outside the noodle pattern."
+      ],
+      "href": "/city/sukhothai/top-10-restaurants/",
+      "cta_label": "See the food guide"
+    },
+    {
+      "dish": "Traditional sweets and local dessert timing",
+      "location": "Khanom Wong Mae Prapai",
+      "story": "TAT's foodie map singles out this small dessert shop for a traditional northern sweet made from a family recipe, which gives Sukhothai a more specific afternoon-food layer than another coffee stop would.",
+      "where_to_find": "Best as a short midday or early-afternoon dessert break rather than as a destination dinner.",
+      "price_range": "Budget",
+      "ordering_tips": [
+        "Use it as an extra food layer on a two-day stay.",
+        "This makes more sense on a slower schedule than on a single rushed day."
+      ],
+      "href": "/city/sukhothai/top-10-restaurants/",
+      "cta_label": "See the food guide"
     }
   ],
   "local_insights": [
-    {
-      "observation": "The pace of life is slower, and people are genuinely friendly.",
-      "tip": "Take your time to chat; locals appreciate it when you ask about their lives.",
-      "surprise": "I was amazed to find how many people were willing to share their stories and traditions with a stranger."
-    },
-    {
-      "observation": "Family ties are incredibly strong, and you'll often see multi-generational families living together.",
-      "tip": "Respect family customs; it's common for families to gather for meals.",
-      "surprise": "I was invited to a family dinner one evening, which turned into a delightful evening of shared dishes and laughter."
-    }
+    "Sukhothai becomes much easier to plan once you accept that the old city, not the new town, is the center of the trip.",
+    "The central park zone should come first; otherwise the outer temples feel disconnected.",
+    "Wat Si Chum is the clearest second move after Wat Mahathat.",
+    "Si Satchanalai is the one extension that genuinely deepens the trip, but only if it gets its own day.",
+    "Sukhothai noodles are not generic northern noodles; they deserve a deliberate stop.",
+    "Old-city hotels are usually stronger than new-town hotels when heritage access matters more than bus-terminal convenience."
   ],
   "seasonal_secrets": {
-    "best_times": {
-      "November": "The weather is cooler and perfect for exploring the ruins without the scorching heat."
-    },
+    "best_season": "November to February",
+    "why": "Cooler weather makes the central park loop, the outer temple zones, and longer cycling or walking sections much easier.",
     "local_festivals": [
-      "Loy Krathong in November, where you can release lanterns on the river."
+      "Loy Krathong remains the province's signature festival period and is still highlighted by TAT as one of Sukhothai's big seasonal draws."
     ],
-    "seasonal_foods": {
-      "rainy season": "Try the fresh mango sticky rice, available at street stalls."
-    },
-    "insider_tips": {
-      "dry season": "Visit the park early in the morning to catch the sunrise; it's breathtaking."
-    }
+    "seasonal_foods": [
+      "Cool-season mornings suit noodles and market breakfasts better than the hotter months.",
+      "Traditional sweets and slower old-city food stops are easier to enjoy outside peak midday heat."
+    ],
+    "insider_tips": [
+      "The hot season can still work if you front-load the central zone and leave indoor or slower meals for the afternoon.",
+      "Festival periods bring atmosphere but also more pressure on rooms and transport, so old-city stays should be booked earlier."
+    ]
   },
   "budget_reality": {
-    "daily_costs": {
-      "breakfast": "40 baht for a bowl of rice soup at a local stall.",
-      "lunch": "60 baht for a plate of Pad Thai.",
-      "dinner": "100 baht for a meal at a casual restaurant."
-    },
-    "money_saving_tricks": [
-      "Eat like a local at street stalls; it’s cheaper and often tastier."
+    "budget": "Budget",
+    "mid_range": "Mid-range",
+    "luxury": "Upscale",
+    "examples": [
+      "Sukhothai is easier to keep affordable than many heritage destinations because food remains local-first rather than resort-only.",
+      "Old-city bicycles, simple transport, and compact temple sequencing do more for value than hiring transport for every short move.",
+      "The main cost jump usually comes from picking a resort-style stay or adding a full Si Satchanalai transfer day."
     ],
-    "where_to_splurge": [
-      "Consider splurging on a guided tour of the Historical Park for in-depth insights."
+    "money_saving_tricks": [
+      "Base yourself near the old city if the park is the main point of the trip; it saves time and unnecessary back-and-forth transport.",
+      "Keep Si Satchanalai as one serious add-on only if you actually have the extra day."
     ],
     "hidden_costs": [
-      "Be prepared for entrance fees to some temples, which can add up if you're visiting multiple sites."
+      "Historic-park admission, bicycle or transport fees, and separate outer-zone movements can add up if you underestimate the site's scale.",
+      "Airport-side and between-the-parks resorts are convenient only if your route genuinely uses that geography."
     ]
   },
   "top_attractions": [
     {
       "rank": 1,
-      "name": "Wat Mahathat",
-      "description": "The centerpiece of Sukhothai Historical Park, featuring the iconic lotus-bud chedi and numerous serene Buddha statues representing the pinnacle of Sukhothai architecture.",
-      "location": "Sukhothai Historical Park, central zone",
-      "entrance_fee": "THB 100 ($3 USD)",
+      "name": "Sukhothai Historical Park",
+      "description": "The indispensable starting point because the city's walls, ponds, and central monuments explain the scale of the first Siamese capital better than any isolated temple stop can.",
+      "location": "Mueang Kao, old city",
+      "entrance_fee": "Historic-park admission applies; recheck current zone and flat-rate tickets before you go.",
       "highlights": [
-        "Iconic lotus-bud chedi",
-        "Best visited early morning"
-      ]
+        "UNESCO core",
+        "Central-zone orientation loop",
+        "Best first half-day in Sukhothai"
+      ],
+      "href": "/city/sukhothai/attractions/sukhothai-historical-park/",
+      "cta_label": "See the park guide"
     },
     {
       "rank": 2,
-      "name": "Wat Si Chum",
-      "description": "A remarkable temple housing a massive seated Buddha image visible through a narrow opening in the temple wall, making it one of the most photographed sites in Sukhothai.",
-      "location": "Sukhothai Historical Park, northern zone",
-      "entrance_fee": "THB 100 ($3 USD)",
+      "name": "Wat Mahathat",
+      "description": "The core monument in the central zone and the clearest single expression of the Sukhothai style within the old city.",
+      "location": "Central zone, Sukhothai Historical Park",
+      "entrance_fee": "Included within historic-park admission; recheck current ticket structure locally.",
       "highlights": [
-        "Massive Buddha image",
-        "Unique narrow opening view"
-      ]
+        "Central-zone anchor",
+        "Iconic lotus-bud chedi",
+        "Best first temple in the park"
+      ],
+      "href": "/city/sukhothai/attractions/wat-mahathat-sukhothai/",
+      "cta_label": "See the Wat Mahathat guide"
     },
     {
       "rank": 3,
-      "name": "Wat Saphan Hin",
-      "description": "A hilltop temple featuring a standing Buddha statue that overlooks the entire ancient city, offering panoramic views of the Historical Park.",
-      "location": "Sukhothai Historical Park, western hills",
-      "entrance_fee": "THB 100 ($3 USD)",
+      "name": "Wat Si Chum",
+      "description": "The strongest second-stop temple because the Phra Achana image gives the northern zone a very different scale and atmosphere from the central monuments.",
+      "location": "Northern zone, Sukhothai Historical Park",
+      "entrance_fee": "Northern-zone park admission applies; recheck current rates before travel.",
       "highlights": [
-        "Panoramic views",
-        "Hilltop location with standing Buddha"
-      ]
+        "Phra Achana image",
+        "Best north-zone landmark",
+        "A clear contrast to Wat Mahathat"
+      ],
+      "href": "/city/sukhothai/attractions/wat-si-chum/",
+      "cta_label": "See the Wat Si Chum guide"
     },
     {
       "rank": 4,
-      "name": "Ramkhamhaeng National Museum",
-      "description": "Houses important artifacts including the Ramkhamhaeng inscription, which is crucial to understanding Sukhothai's historical significance and the development of Thai civilization.",
-      "location": "Near Sukhothai Historical Park entrance",
-      "entrance_fee": "THB 150 ($4 USD)",
+      "name": "Wat Sa Si",
+      "description": "One of the central-zone temples that actually earns time because the island-like setting and reflective water make the old city's planning easier to read.",
+      "location": "Central zone, Sukhothai Historical Park",
+      "entrance_fee": "Included within historic-park admission.",
       "highlights": [
-        "Ramkhamhaeng inscription",
-        "Key historical artifacts"
-      ]
+        "Water-and-temple setting",
+        "Strong sunrise or softer-light stop",
+        "Best paired with Wat Mahathat"
+      ],
+      "href": "/city/sukhothai/attractions/wat-sa-si/",
+      "cta_label": "See the Wat Sa Si guide"
     },
     {
       "rank": 5,
-      "name": "Si Satchanalai Historical Park",
-      "description": "The sister city ruins of Sukhothai, showcasing ancient ceramic kilns, well-preserved temples, and providing a deeper understanding of the kingdom's pottery and architectural heritage.",
-      "location": "35km north of Sukhothai",
-      "entrance_fee": "THB 100 ($3 USD)",
+      "name": "Wat Saphan Hin",
+      "description": "The one climb that meaningfully changes the trip because it pulls you out of the flat ceremonial core and gives the west side a real viewpoint.",
+      "location": "Western zone, Sukhothai Historical Park",
+      "entrance_fee": "Western-zone admission applies; verify current arrangements before travel day.",
       "highlights": [
-        "Ancient kilns",
-        "Less crowded than main park"
-      ]
+        "Hilltop standing Buddha",
+        "West-zone contrast",
+        "Best one-climb addition"
+      ],
+      "href": "/city/sukhothai/attractions/wat-saphan-hin/",
+      "cta_label": "See the Wat Saphan Hin guide"
     },
     {
       "rank": 6,
-      "name": "Yom River",
-      "description": "A scenic river offering cycling paths along its banks and boat trips, providing a natural contrast to the ancient temples and a peaceful way to explore the surrounding landscape.",
-      "location": "Runs through Sukhothai region",
-      "entrance_fee": null,
+      "name": "Si Satchanalai Historical Park",
+      "description": "The one extension that really deepens the Sukhothai kingdom story, but only when it is treated as a separate day rather than a rushed add-on.",
+      "location": "Si Satchanalai District, Sukhothai Province",
+      "entrance_fee": "Separate historical-park admission applies; recheck current rates before you go.",
       "highlights": [
-        "Cycling paths",
-        "Boat trips available"
-      ]
-    },
-    {
-      "rank": 7,
-      "name": "Sukhothai Old Town",
-      "description": "The modern town center featuring local markets, authentic Thai cuisine, and traditional crafts, providing an immersive experience of contemporary Thai culture.",
-      "location": "Central Sukhothai city",
-      "entrance_fee": null,
-      "highlights": [
-        "Night market",
-        "Local vendors"
-      ]
+        "Associated UNESCO town",
+        "Second-day heritage extension",
+        "Best longer historical add-on"
+      ],
+      "href": "/city/sukhothai/attractions/si-satchanalai-historical-park/",
+      "cta_label": "See the Si Satchanalai guide"
     }
   ],
   "top_restaurants": [
     {
       "rank": 1,
-      "name": "Chanda's Historical Garden Restaurant",
-      "description": "A well-regarded restaurant offering international and Asian cuisine in a garden setting, combining quality dining with Sukhothai's historical atmosphere.",
-      "cuisine_type": "International, Asian",
-      "price_range": "THB 150-400 ($4-12 USD)",
-      "rating": 4.5,
+      "name": "Je Hae Sukhothai Noodles",
+      "description": "The clearest first food stop if you want a proper Sukhothai noodle meal grounded in the current TAT foodie map instead of generic old-town filler.",
+      "location": "Sukhothai city area",
+      "price_range": "Budget",
       "highlights": [
-        "Garden setting",
-        "Historical ambiance"
-      ]
+        "Classic Sukhothai noodles",
+        "House-made ingredients",
+        "Best first lunch stop"
+      ],
+      "href": "/city/sukhothai/top-10-restaurants/",
+      "cta_label": "See the food guide"
     },
     {
       "rank": 2,
-      "name": "Phumphor Coffee Restaurant",
-      "description": "A popular café and restaurant specializing in coffee and international breakfast, offering a relaxed atmosphere for morning meals and light fare.",
-      "cuisine_type": "Café, International",
-      "price_range": "THB 80-250 ($2-7 USD)",
-      "rating": 4.6,
+      "name": "Mai Klang Krung Restaurant",
+      "description": "A stronger local-menu stop when you want more than noodle soup, especially for dishes tied to Sukhothai ingredients and older family recipes.",
+      "location": "Sukhothai city area",
+      "price_range": "Budget to mid-range",
       "highlights": [
-        "Quality coffee",
-        "International breakfast"
-      ]
+        "Sukhothai pad thai",
+        "Khao kriap pak mor",
+        "Good broader local menu"
+      ],
+      "href": "/city/sukhothai/top-10-restaurants/",
+      "cta_label": "See the food guide"
     },
     {
       "rank": 3,
-      "name": "Sureerat Restaurant",
-      "description": "An authentic Thai restaurant serving traditional regional dishes, popular with both locals and tourists seeking genuine flavors of northeastern Thai cuisine.",
-      "cuisine_type": "Asian, Thai",
-      "price_range": "THB 60-200 ($2-6 USD)",
-      "rating": 4.5,
+      "name": "Mee Khao Pan Pak",
+      "description": "One of the clearest specialty-food names in Sukhothai if you want something specific to the province rather than another standard Thai menu.",
+      "location": "Sukhothai city area",
+      "price_range": "Budget",
       "highlights": [
-        "Authentic Thai cuisine",
-        "Local favorite"
-      ]
+        "Khao perp and wrapped rice-flour dishes",
+        "Specialty local format",
+        "Good slower lunch stop"
+      ],
+      "href": "/city/sukhothai/top-10-restaurants/",
+      "cta_label": "See the food guide"
     },
     {
       "rank": 4,
-      "name": "Poo Restaurant",
-      "description": "A casual dining establishment offering both international and Asian cuisine, known for friendly service and affordable prices.",
-      "cuisine_type": "International, Asian",
-      "price_range": "THB 100-300 ($3-9 USD)",
-      "rating": 3.9,
+      "name": "Jay Pao Restaurant",
+      "description": "A real dinner-level local pick because TAT still highlights it for freshwater-fish cooking based on local catch rather than on ranking-site popularity.",
+      "location": "Sukhothai city area",
+      "price_range": "Mid-range",
       "highlights": [
-        "Casual atmosphere",
-        "Affordable pricing"
-      ]
+        "Local fish dishes",
+        "Shareable dinner stop",
+        "Best non-noodle local meal"
+      ],
+      "href": "/city/sukhothai/top-10-restaurants/",
+      "cta_label": "See the food guide"
     },
     {
       "rank": 5,
-      "name": "Pizza House by Somprasong Guesthouse",
-      "description": "A specialty restaurant offering Italian cuisine and wood-fired pizza, providing a European dining option in Sukhothai's historic setting.",
-      "cuisine_type": "Italian, Pizza",
-      "price_range": "THB 150-350 ($4-10 USD)",
-      "rating": 4.4,
+      "name": "Nam Khang Restaurant",
+      "description": "The strongest polished old-city restaurant when you want one calmer sit-down meal near the park without defaulting to anonymous resort dining.",
+      "location": "Legendha Sukhothai Resort, Mueang Kao",
+      "price_range": "Mid-range",
       "highlights": [
-        "Wood-fired pizza",
-        "Italian specialty"
-      ]
+        "Wooden-balcony dining over Mae Rampan canal",
+        "Old-city location",
+        "Useful slower dinner"
+      ],
+      "href": "/city/sukhothai/top-10-restaurants/",
+      "cta_label": "See the food guide"
     },
     {
       "rank": 6,
-      "name": "Sukhothai Night Market",
-      "description": "A vibrant night market offering authentic street food, local specialties, and traditional Thai dishes at budget-friendly prices with a lively cultural atmosphere.",
-      "cuisine_type": "Thai Street Food",
-      "price_range": "THB 40-100 ($1-3 USD)",
-      "rating": null,
+      "name": "Ruean Ther Restaurant & Bar",
+      "description": "A practical new-town hotel restaurant when you need a reliable dinner around a city stay rather than one more transfer back to the old city.",
+      "location": "Ruean Thai Hotel, New Sukhothai",
+      "price_range": "Mid-range",
       "highlights": [
-        "Authentic street food",
-        "Cultural experience"
-      ]
+        "All-day service",
+        "Classic Thai and international menu",
+        "Useful for new-town overnights"
+      ],
+      "href": "/city/sukhothai/top-10-restaurants/",
+      "cta_label": "See the food guide"
     }
   ],
   "top_hotels": [
     {
       "rank": 1,
-      "name": "Jitra Resort",
-      "description": "A highly-rated resort offering comfortable accommodations with quality amenities in a convenient location for exploring Sukhothai's historical sites.",
-      "price_range": "$19/night",
-      "category": "budget",
-      "rating": 5,
+      "name": "Sriwilai Sukhothai Resort & Spa",
+      "description": "The strongest design-led old-city stay if rice-field views, a slower resort mood, and close access to the park matter more than pure practicality.",
+      "price_range": "Upscale",
+      "category": "luxury",
+      "area": "Mueang Kao, near the historical park",
       "highlights": [
-        "Best budget option",
-        "Excellent value"
+        "Rice-field and Wat Chedi Sung outlook",
+        "1.8 km from the historical park",
+        "Best edited splurge near old city"
       ]
     },
     {
       "rank": 2,
-      "name": "Ruen Narisra Resort",
-      "description": "A well-established resort providing comfortable rooms and good service at affordable rates, ideal for budget-conscious travelers.",
-      "price_range": "$13/night",
-      "category": "budget",
-      "rating": 4,
+      "name": "Legendha Sukhothai Resort",
+      "description": "The clearest old-city heritage stay if you want to be close to the park and keep the hotel itself aligned with the historical setting.",
+      "price_range": "Mid-range to upscale",
+      "category": "midrange",
+      "area": "Mueang Kao, old city",
       "highlights": [
-        "Most affordable",
-        "Reliable service"
+        "Around 900 meters from the historical park",
+        "Thai-village setting",
+        "Strong first old-city base"
       ]
     },
     {
       "rank": 3,
-      "name": "Sukhothai City Resort",
-      "description": "A mid-range resort with solid ratings offering comfortable accommodations and convenient access to the Historical Park and town center.",
-      "price_range": "$25/night",
+      "name": "Le Charme Sukhothai Resort",
+      "description": "A practical old-city resort when you want easy heritage access, lotus-pond surroundings, and a boutique format close to the main gate.",
+      "price_range": "Mid-range",
       "category": "midrange",
-      "rating": 4.6,
+      "area": "Mueang Kao, near central zone",
       "highlights": [
-        "Central location",
-        "Good value for midrange"
+        "About 1 km from the historical park",
+        "Lotus ponds and tropical gardens",
+        "Good park-focused stay"
       ]
     },
     {
       "rank": 4,
-      "name": "Scent of Sukhothai Resort",
-      "description": "A charming midrange resort known for its pleasant ambiance and comfortable rooms, offering a good balance of comfort and affordability.",
-      "price_range": "$30-50/night",
+      "name": "Tharaburi Resort",
+      "description": "A reliable old-city option if you want a quieter boutique base near the park without moving into the most expensive resort tier.",
+      "price_range": "Mid-range",
       "category": "midrange",
-      "rating": 4.5,
+      "area": "Mueang Kao, old city",
       "highlights": [
-        "Charming setting",
-        "Quality service"
+        "Close to the World Heritage site",
+        "Old-city location",
+        "Good for heritage-first stays"
       ]
     },
     {
       "rank": 5,
-      "name": "Sriwilai Sukhothai Resort & Spa",
-      "description": "An upscale resort offering spa services, quality amenities, and comfortable accommodations with excellent service for a more luxurious experience.",
-      "price_range": "$88/night",
-      "category": "midrange",
-      "rating": 4.3,
+      "name": "Ruean Thai Hotel",
+      "description": "The strongest traditional-style new-town stay if you need bus-terminal convenience, a city base, and a hotel with more character than a simple chain stop.",
+      "price_range": "Budget to mid-range",
+      "category": "budget",
+      "area": "New Sukhothai",
       "highlights": [
-        "Spa facilities",
-        "Premium comfort"
+        "Traditional teakwood style",
+        "Free transfer to bus terminal",
+        "Best character stay in new town"
+      ]
+    },
+    {
+      "rank": 6,
+      "name": "Sukhothai Heritage Resort",
+      "description": "The best between-the-parks option when you are flying in, using Sukhothai Airport, or combining Sukhothai and Si Satchanalai in one route.",
+      "price_range": "Mid-range to upscale",
+      "category": "midrange",
+      "area": "Khlong Krachong, near Sukhothai Airport",
+      "highlights": [
+        "Adjacent to Sukhothai Airport",
+        "Between Sukhothai and Si Satchanalai",
+        "Best route-logic stay for two-park trips"
       ]
     }
   ],
   "travel_tips": [
-    "Take your time to chat; locals appreciate it when you ask about their lives.",
-    "Respect family customs; it's common for families to gather for meals."
+    "Do the central zone first. Sukhothai gets weaker when Wat Si Chum or Si Satchanalai comes before you understand the main park layout.",
+    "Keep the second block selective: north for Wat Si Chum, or west for Wat Saphan Hin. You do not need every outer zone on the first day.",
+    "Treat Si Satchanalai as a separate day if you add it at all.",
+    "Use local food intentionally. Sukhothai noodles, specialty rice-flour dishes, and one fish dinner are stronger than generic café hopping.",
+    "If you are flying, confirm current Bangkok Airways schedules and airport transport directly before travel day."
   ],
-  "best_time_to_visit": {
-    "season": "Cool Season",
-    "months": "November - February",
-    "weather": "Pleasant conditions",
-    "reasons": "Ideal weather for activities"
-  },
+  "best_time_to_visit": "November to February is the easiest overall season for Sukhothai because cycling, temple walks, and old-city evenings are more comfortable. The hot season still works if you front-load the park. Festival-season travel around Loy Krathong can be rewarding, but room pressure and crowd levels rise sharply.",
+  "bestTimeToVisit": "November to February is the most forgiving fit for Sukhothai. Hot months require earlier starts and longer midday breaks. Loy Krathong can be spectacular, but transport and hotel planning should be locked in earlier.",
   "budget_info": {
-    "budget": "$30-50 per day",
-    "mid_range": "$50-100 per day",
-    "luxury": "$100+ per day",
-    "notes": "Budget includes accommodation, food, transportation, and activities"
+    "budget_per_day": "Budget",
+    "midrange_per_day": "Mid-range",
+    "luxury_per_day": "Upscale"
   },
-  "enhanced_at": "2025-05-26T19:57:12.627Z",
-  "overview": "Sukhothai, located in Thailand's Northern region, is home to one of Southeast Asia's most significant archaeological treasures: the Sukhothai Historical Park, a UNESCO World Heritage Site preserving the ruins of Thailand's first capital. With a population of just 37,000, this peaceful city offers an authentic glimpse into Thai history without the overwhelming crowds found in major tourist destinations. The ancient kingdom that once thrived here left behind beautifully preserved temples, intricate Buddha statues, and architectural marvels that transport visitors back to the 13th-15th centuries when Sukhothai was the heart of Thai civilization.",
-  "thingsToDo": "Sukhothai's main attractions revolve around the Sukhothai Historical Park, a UNESCO World Heritage Site. Wat Mahathat (THB 100/$3 entrance fee) features the iconic lotus-bud chedi and serene Buddha statues. Wat Si Chum (THB 100/$3) houses a massive seated Buddha image visible through a narrow temple wall opening. Wat Saphan Hin (THB 100/$3) is a hilltop temple offering panoramic views of the ancient city. The Ramkhamhaeng National Museum (THB 150/$4) displays crucial historical artifacts including the Ramkhamhaeng inscription. Si Satchanalai Historical Park (THB 100/$3), located 35km north, showcases ancient kilns and well-preserved temples. The scenic Yom River offers cycling paths and boat trips, while the Sukhothai Old Town provides authentic Thai markets and local culture. Bicycle rentals (THB 50-100/$2-3 per day) are ideal for exploring the flat terrain of the Historical Park.",
-  "whereToStay": "Sukhothai accommodations range from budget guesthouses to mid-range hotels, with most clustered around the modern town area, about 12km from the Historical Park. Budget travelers will find basic but clean guesthouses and hostels starting from $15-30 per night, offering simple rooms with fan or air conditioning and shared facilities. Mid-range hotels (typically $40-80 per night) provide comfortable rooms with private bathrooms, air conditioning, and amenities like swimming pools and on-site restaurants. The town's accessibility by local transport makes staying near the central market or along the main roads convenient, with easy tuk-tuk access to the Historical Park. For visitors wanting to be closer to the temples, some accommodations operate near the park entrance, though these tend to be more expensive. Most hotels in Sukhothai offer good value compared to Bangkok or tourist beach towns, making it an economical destination for extended stays.",
+  "thingsToDo": "Start with Sukhothai Historical Park and keep the first loop centered on Wat Mahathat and Wat Sa Si. Add Wat Si Chum or Wat Saphan Hin as the second layer, then decide whether a second day should stay local with museums and food or go to Si Satchanalai.",
+  "whereToStay": "Stay in Mueang Kao if the park is the reason you came. Use New Sukhothai mainly for bus convenience, a quick practical overnight, or if you prefer a city-hotel rhythm over resort surroundings. Airport-side stays only make the most sense when you are flying or linking Sukhothai with Si Satchanalai.",
   "whereToEat": [
     {
-      "name": "Chanda's Historical Garden Restaurant",
-      "cuisine": "International, Asian",
-      "priceRange": "$$",
-      "description": "Garden restaurant combining quality dining with Sukhothai's historical atmosphere, serving international and Asian cuisine."
+      "name": "Je Hae Sukhothai Noodles",
+      "cuisine": "Sukhothai noodles",
+      "priceRange": "Budget",
+      "description": "The clearest first lunch stop for Sukhothai's signature noodle style."
     },
     {
-      "name": "Phumphor Coffee Restaurant",
-      "cuisine": "Café, International",
-      "priceRange": "$",
-      "description": "Popular café specializing in quality coffee and international breakfast, offering a relaxed atmosphere."
+      "name": "Mai Klang Krung Restaurant",
+      "cuisine": "Regional Thai and Sukhothai specialties",
+      "priceRange": "Budget to mid-range",
+      "description": "A broader local-menu stop with TAT-backed provincial dishes."
     },
     {
-      "name": "Sureerat Restaurant",
-      "cuisine": "Thai",
-      "priceRange": "$",
-      "description": "Authentic Thai restaurant serving traditional regional dishes, popular with locals and tourists."
+      "name": "Mee Khao Pan Pak",
+      "cuisine": "Local rice-flour and noodle specialties",
+      "priceRange": "Budget",
+      "description": "A useful specialty stop when you want something beyond noodles."
     },
     {
-      "name": "Poo Restaurant",
-      "cuisine": "International, Asian",
-      "priceRange": "$$",
-      "description": "Casual dining establishment offering international and Asian cuisine with friendly service."
+      "name": "Jay Pao Restaurant",
+      "cuisine": "Local fish dishes",
+      "priceRange": "Mid-range",
+      "description": "A stronger dinner-level local pick built around local freshwater fish."
     },
     {
-      "name": "Pizza House by Somprasong Guesthouse",
-      "cuisine": "Italian, Pizza",
-      "priceRange": "$$",
-      "description": "Specialty restaurant offering wood-fired pizza and Italian cuisine in Sukhothai's historic setting."
-    },
-    {
-      "name": "Sukhothai Night Market",
-      "cuisine": "Thai Street Food",
-      "priceRange": "$",
-      "description": "Vibrant night market offering authentic street food, local specialties, and traditional Thai dishes at budget prices."
+      "name": "Nam Khang Restaurant",
+      "cuisine": "Thai cuisine",
+      "priceRange": "Mid-range",
+      "description": "A polished old-city restaurant for a calmer sit-down meal."
     }
   ],
   "topHotels": [
     {
-      "name": "Jitra Resort",
-      "category": "budget",
-      "priceRange": "$19/night",
-      "area": "Sukhothai",
-      "description": "Highly-rated budget resort with excellent value, comfortable rooms, and convenient location for exploring the Historical Park."
-    },
-    {
-      "name": "Ruen Narisra Resort",
-      "category": "budget",
-      "priceRange": "$13/night",
-      "area": "Sukhothai",
-      "description": "The most affordable option in Sukhothai with reliable service and clean, basic accommodations."
-    },
-    {
-      "name": "Sukhothai City Resort",
-      "category": "budget",
-      "priceRange": "$25/night",
-      "area": "Central Sukhothai",
-      "description": "Budget-friendly resort with solid ratings and convenient central location near the Historical Park entrance."
-    },
-    {
-      "name": "Scent of Sukhothai Resort",
-      "category": "midrange",
-      "priceRange": "$30-50/night",
-      "area": "Sukhothai",
-      "description": "Charming midrange resort known for pleasant ambiance, quality service, and comfortable rooms."
-    },
-    {
-      "name": "Sukhothai City Resort",
-      "category": "midrange",
-      "priceRange": "$25/night",
-      "area": "Central Sukhothai",
-      "description": "Well-rated midrange option offering comfortable 3-star standard accommodations with good value."
-    },
-    {
       "name": "Sriwilai Sukhothai Resort & Spa",
+      "category": "luxury",
+      "priceRange": "Upscale",
+      "area": "Mueang Kao",
+      "description": "A design-led old-city splurge with rice-field views."
+    },
+    {
+      "name": "Legendha Sukhothai Resort",
       "category": "midrange",
-      "priceRange": "$88/night",
-      "area": "Sukhothai",
-      "description": "Upscale midrange resort featuring spa facilities, quality amenities, and excellent service for enhanced comfort."
+      "priceRange": "Mid-range to upscale",
+      "area": "Mueang Kao",
+      "description": "A heritage-oriented old-city resort close to the park."
+    },
+    {
+      "name": "Le Charme Sukhothai Resort",
+      "category": "midrange",
+      "priceRange": "Mid-range",
+      "area": "Mueang Kao",
+      "description": "A boutique old-city stay near the central park zone."
+    },
+    {
+      "name": "Tharaburi Resort",
+      "category": "midrange",
+      "priceRange": "Mid-range",
+      "area": "Mueang Kao",
+      "description": "A quieter boutique old-city base near the heritage core."
+    },
+    {
+      "name": "Ruean Thai Hotel",
+      "category": "budget",
+      "priceRange": "Budget to mid-range",
+      "area": "New Sukhothai",
+      "description": "A characterful city-side stay with bus convenience."
     }
   ],
-  "gettingAround": "Sukhothai is best explored by tuk-tuk for short distances and to the Historical Park. Songthaews (shared minibuses) operate on fixed routes through town at THB 20-40 per trip. Motorbike rentals (THB 150-200/$5-7 per day) offer independence for exploring the Historical Park's vast grounds. Bicycles (THB 50-100/$2-3 per day) are popular for the flat terrain. Grab ride-hailing is available at fixed rates. The Historical Park requires multiple transport modes to see all temples, with walking, cycling, and occasional tuk-tuk rides being the most practical combination.",
-  "bestTimeToVisit": "The ideal time to visit Sukhothai is November through February, when the cool season brings comfortable temperatures ranging from 15-25°C (59-77°F), perfect for exploring open-air temple ruins. December and January are particularly pleasant, with low humidity and minimal rainfall, though these months see more visitors. March through May marks the hot season with temperatures reaching 35-40°C (95-104°F), making daytime temple exploration exhausting but offering fewer crowds. The monsoon season (May-October) brings heavy rainfall, especially August-September, which can limit sightseeing but creates lush green landscapes and lower accommodation prices. For the best balance of weather, comfort, and manageable crowds, aim for November, December, or January.",
-  "budgetGuide": {
-    "budget": {
-      "min": 20,
-      "max": 40,
-      "description": "Budget travelers can experience Sukhothai on $20-40 daily: guesthouse accommodations ($13-25/night), street food and market meals (THB 40-150/$1-5/day), temple entrance fees (THB 100/$3 per site), and local transport via tuk-tuk or songthaew (THB 20-200/$0.50-6/day). This allows visiting multiple Historical Park temples and experiencing local culture."
-    },
-    "midrange": {
-      "min": 50,
-      "max": 100,
-      "description": "Mid-range travelers should budget $50-100 daily: comfortable 3-star hotels ($25-70/night), restaurants with sit-down service (THB 150-500/$4-15/meals), all temple entrance fees and museums (THB 300-600/$9-18/day), guided tours (THB 1000-1500/$30-50), and motorbike or bicycle rentals (THB 150-200/$5-7/day). This allows leisurely exploration with quality accommodation."
-    },
-    "luxury": {
-      "min": 150,
-      "max": 400,
-      "description": "Luxury travelers can spend $150-400 daily: upscale 4-5 star resorts ($88-200+/night), fine dining restaurants (THB 800-1600/$25-50/meal), private guided tours (THB 3000-5000/$100-150), spa treatments, and premium experiences while maintaining high comfort standards."
-    }
-  },
-  "safetyTips": "Sukhothai is generally a very safe destination with low crime rates and a welcoming local population. The Historical Park temples are safe to explore, though visitors should wear sturdy footwear for uneven ancient stone surfaces and bring plenty of water and sun protection, as there is minimal shade among the ruins. Standard precautions apply: avoid displaying valuable jewelry or large amounts of cash, keep belongings secure on tuk-tuks and songthaews, and be cautious with motorbikes if unfamiliar with Thai traffic conditions. The town itself has good street lighting and friendly residents; solo travelers, both male and female, report feeling safe walking around town during evening hours. During the hot season, be mindful of heat-related illness by staying hydrated and taking breaks in shaded areas or air-conditioned spaces.",
+  "gettingAround": "Old-city exploration is easiest by bicycle, short local rides, or a driver if you are moving between zones. New Sukhothai and Mueang Kao are separate enough that you should not assume they are conveniently walkable from one another. If you add Si Satchanalai or fly via Sukhothai Airport, transport planning becomes materially more important.",
+  "safetyTips": "Sukhothai is usually straightforward, but the usual heritage-site common sense still applies: respect active temple spaces, dress appropriately, avoid rushing climbs like Wat Saphan Hin in poor light or bad weather, and verify current opening arrangements before planning very early or late visits. If you are cycling inside or between park zones, carry water and leave margin for heat.",
   "faq": [
     {
-      "question": "How much time do I need to explore Sukhothai Historical Park?",
-      "answer": "Most visitors spend 1-2 full days in the Historical Park. A rushed visit covering major temples like Wat Mahathat, Wat Si Chum, and Wat Saphan Hin takes 4-6 hours by tuk-tuk and walking. A comprehensive exploration including all major sites and Si Satchanalai typically requires 2-3 days to fully appreciate the site."
+      "question": "Is one day enough for Sukhothai?",
+      "answer": "One day covers the central historical park well if you keep the plan selective. Two days is stronger if you want Wat Si Chum, Wat Saphan Hin, real local food, and a possible Si Satchanalai extension."
     },
     {
-      "question": "What is the entrance fee to Sukhothai Historical Park?",
-      "answer": "The entrance fee is THB 100 (approximately $3 USD) per person for the main Historical Park. Individual temples within or near the park may have additional small fees of THB 100 each. The Ramkhamhaeng National Museum costs THB 150 ($4 USD). Si Satchanalai Historical Park has a separate entrance fee of THB 100 ($3 USD)."
+      "question": "Should you stay in the old city or the new town?",
+      "answer": "Stay in the old city if the park is the main reason for the trip. New-town stays are more about bus convenience, practical overnighting, or a different city rhythm."
     },
     {
-      "question": "Is it better to rent a motorbike or hire a tuk-tuk for the Historical Park?",
-      "answer": "Both options work well. Motorbike rentals (THB 150-200/$5-7/day) offer flexibility and independence but require confidence driving in unfamiliar conditions. Tuk-tuks (THB 300-400/$10-15/hour) provide comfort and local driver knowledge but less flexibility. Bicycles (THB 50-100/$2-3/day) are ideal for the flat terrain and allow intimate temple exploration, though distances between sites can be considerable."
+      "question": "What food should you prioritize in Sukhothai?",
+      "answer": "Start with Sukhothai noodles, then add one broader local-menu stop or a fish-focused dinner. TAT's foodie map is a much better filter here than scraped rating lists."
     },
     {
-      "question": "What is the best time to visit Sukhothai?",
-      "answer": "The ideal time is November through February during the cool season with temperatures of 15-25°C (59-77°F). December and January are particularly pleasant with low humidity and minimal rainfall, though these see more visitors. March-May brings heat of 35-40°C (95-104°F), making exploration exhausting but with fewer crowds. The monsoon season (May-October) brings heavy rainfall but lower prices."
+      "question": "Is Si Satchanalai worth adding?",
+      "answer": "Yes, but only if you can give it proper time. It is the one extension that materially deepens the Sukhothai kingdom story, yet it weakens the trip if squeezed into the end of an already full park day."
     },
     {
-      "question": "How do I get to Sukhothai from Bangkok?",
-      "answer": "From Bangkok, you can fly to Sukhothai Airport (THS) with a 15-20 minute transfer to town, or fly to Chiang Mai International Airport (CNX) which is 300km away (4.5-5 hours by car or bus). Alternatively, overnight buses run from Bangkok to Sukhothai (6-7 hours) for a budget option."
+      "question": "How do you get to Sukhothai?",
+      "answer": "Most travelers arrive by road, but Bangkok Airways also operates Sukhothai Airport and positions it as a gateway to the province's historical and cultural heritage. Recheck current schedules and airport transport directly before travel."
     }
   ],
   "practicalInfo": {
-    "bestMonths": [
-      "November",
-      "December",
-      "January",
-      "February"
-    ],
-    "nearestAirport": "Sukhothai Airport (THS) for domestic flights from Bangkok; Chiang Mai International Airport (CNX) 300km away as alternative",
-    "travelTimeFromAirport": "Sukhothai Airport: 15-20 minutes by car; Chiang Mai Airport: 4.5-5 hours by car or bus",
-    "localTransport": [
-      "Tuk-tuk (THB 300-400/$10-15/hour)",
-      "Songthaew (THB 20-40/$0.50-1.20 per trip)",
-      "Motorbike rental (THB 150-200/$5-7/day)",
-      "Bicycle rental (THB 50-100/$2-3/day)",
-      "Grab ride-hailing",
-      "Hotel transfers"
-    ]
+    "arrival": "Bangkok Airways still positions Sukhothai Airport as a gateway to the province's historical and cultural heritage. By road, the main practical distinction is whether you are heading for New Sukhothai or directly to Mueang Kao.",
+    "transport": "Bicycles and short local rides work well around the old city. Longer hotel-to-park or airport-to-resort transfers should be treated as real transport legs rather than casual walks.",
+    "planning": "Think in layers: central zone first, one outer-zone addition second, and Si Satchanalai only if you truly have the extra day."
   },
-  "enrichedAt": "2026-02-22T12:36:58.753Z",
-  "factchecked_at": "2026-03-08T18:28:19.355Z",
-  "translations": {
-    "nl": {
-      "enhanced_description": "Wanneer de zon begint te zakken achter de horizon en een warm gouden gloed over de oude ruïnes van Sukhothai werpt, voel je een tastbaar gevoel van geschiedenis om je heen. De lucht is doordrenkt met de geur van jasmijn en het verre geluid van een traditionele Thaise fluit waait door de straten, die je uitnodigt om het hart van Thailands eerste hoofdstad te verkennen. Sukhothai is meer dan alleen een historisch park; het is een levend tapijt van cultuur, verhalen en smaken dat door de eeuwen heen is geweven. Ik herinner me mijn eerste avond in de stad, toen ik door het Sukhothai Historical Park wandelde terwijl de laatste zonnestralen de torenhoge stupa's van Wat Mahathat kusten. Elke stap ging vergezeld van het zachte geknerp van grind onder mijn voeten, een echo van de voetstappen van de oude koningen die ooit over deze heilige grond liepen.\n\nAnders dan de bruisende straten van Bangkok of de toeristische stranden van Phuket, biedt Sukhothai een rustgevende ontsnapping waar het verleden fluistert door de bomen. Het Historical Park, met zijn majestueuze ruïnes en serene meren, is het kroonjuweel, maar het zijn de verhalen verborgen binnen de muren die je werkelijk boeien. Ik herinner me dat ik aan de Yom-rivier zat en lokale vissers hun netten zag uitwerpen, hun gelach vermengd met het geluid van water dat tegen de oever klotste. Het was hier dat ik leerde over de traditionele vistechnieken die van generatie op generatie zijn doorgegeven, een herinnering aan de eenvoudige maar diepgaande verbindingen tussen de mensen en hun land.\n\nEen van mijn favoriete momenten was het bezoek aan Wat Si Chum, waar het enorme Boeddhabeeld recht in je ziel lijkt te kijken. Ik zat met gekruiste benen op de koele stenen vloer en absorbeerde de energie van de plek. Een bejaarde monnik kwam naar me toe, zijn ogen fonkelend van wijsheid, en hij deelde verhalen over hoe de tempel een toevluchtsoord was geweest in tijden van onrust. Het waren deze persoonlijke ontmoetingen die Sukhothai bijzonder maakten; elk gesprek voelde als een draad die me dichter bij het weefsel van het lokale leven bond.\n\nDe stad is ook een culinair paradijs, met smaken die haar rijke geschiedenis weerspiegelen. Straatverkopers serveren gerechten zoals Khao Soi, een romige kokos-curry noedelsoep die je hart en ziel verwarmt. Ik herinner me de eerste keer dat ik het probeerde bij een klein stalletje bij het historische park; de verkoopster, een vriendelijke vrouw genaamd Aun, stond erop dat ik extra limoen toevoegde voor een vleugje frisheid. Haar glimlach toen ik mijn eerste slurp nam, staat in mijn geheugen gegrift.\n\nSukhothai onderscheidt zich van andere bestemmingen in Thailand niet alleen door zijn adembenemende ruïnes, maar ook door zijn gastvrije geest. Het is een plek waar de tijd vertraagt, zodat je de schoonheid van het leven kunt inademen. Of je nu bij dageraad door het park fietst, wanneer de mist als een zacht deken aan de grond hangt, of deelneemt aan een lokaal festival dat de nachthemel verlicht met lantaarns, Sukhothai nodigt je uit om verbinding te maken met haar hart. Het is een stad die aanvoelt als een goed bewaard geheim, wachtend om ontdekt te worden door degenen die een dieper begrip van Thailands ziel zoeken.",
-      "hidden_gems": [
-        {
-          "name": "De Oude Stadsmarkt",
-          "story": "Ik stuitte op een doordeweekse middag op deze levendige markt. Lokale bewoners verzamelden zich rond, deelden verhalen bij dampende kommen noedelsoep. Een verkoopster, een grootmoeder met een warme glimlach, leerde me hoe je de perfecte loempia maakt, en ik gebruik haar geheimen nog steeds.",
-          "how_to_find": "Ga naar het oosten vanaf het Historical Park langs de hoofdweg totdat je de kleurrijke kraampjes langs de straat ziet.",
-          "best_time": "Bezoek 's ochtends vroeg of laat in de middag voor een levendige sfeer en koelere temperaturen.",
-          "local_insights": [
-            "Neem een klein tasje mee om te winkelen; afdingen is gebruikelijk maar altijd met een glimlach."
-          ]
-        },
-        {
-          "name": "Wat Phra Pai Luang",
-          "story": "Deze minder bekende tempel betoverde me met zijn ingewikkelde architectuur. Ik was de enige bezoeker, omringd door de geluiden van de natuur en het af en toe tjilpen van een vogel. Een lokale kunstenaar was de tempel aan het tekenen, en we deelden uiteindelijk verhalen over kunst en geschiedenis.",
-          "how_to_find": "Gelegen iets buiten de gebaande paden, volg de borden vanaf de hoofdweg richting het Sukhothai Historical Park.",
-          "best_time": "Laat in de middag wanneer het licht prachtige schaduwen op de tempelmuren werpt.",
-          "local_insights": [
-            "Neem hier de tijd; het is een perfecte plek voor bezinning en fotografie."
-          ]
-        }
-      ],
-      "authentic_experiences": [
-        {
-          "activity": "Traditionele Thaise Kookles",
-          "story": "Ik deed mee aan een kookles bij een lokaal gezin, waar we verse kruiden uit hun tuin oogsten. Samen koken ging niet alleen over het eten; het was een verbindende ervaring vol gelach en leren.",
-          "cultural_significance": "Eten staat centraal in de Thaise cultuur, en leren koken van traditionele gerechten verbindt je met de gemeenschap.",
-          "how_to_participate": "Meld je aan bij lokale kookscholen of vraag in je hotel om aanbevelingen.",
-          "insights": [
-            "Omarm het pittigheidsgehalte; locals hebben hun gerechten vaak behoorlijk heet!"
-          ]
-        },
-        {
-          "activity": "Fietsen door de Ruïnes",
-          "story": "Een fiets huren en bij dageraad door het Historical Park trappen was een van mijn meest magische ervaringen. Het zachte licht en de stille omgeving maakten een diepere waardering van de oude bouwwerken mogelijk.",
-          "cultural_significance": "Fietsen is een geliefd lokaal tijdverdrijf en geeft je een uniek perspectief op de historische plekken.",
-          "how_to_participate": "Fietsen kunnen bij verschillende winkels bij de parkingang gehuurd worden.",
-          "insights": [
-            "Begin vroeg om de hitte en drukte te vermijden, en vergeet je camera niet!"
-          ]
-        }
-      ],
-      "foodie_adventures": [
-        {
-          "dish": "Khao Soi",
-          "location": "Aun's Noodle Stall bij het Historical Park",
-          "story": "De eerste hap Khao Soi was levensveranderend. Aun stond erop haar geheime chiliolie toe te voegen, wat het gerecht naar een niveau tilde dat ik nog nooit eerder had geproefd.",
-          "price_range": "Ongeveer 50 baht voor een royale kom.",
-          "ordering_tips": [
-            "Vraag om extra limoen en chiliolie; dat maakt het verschil!"
-          ]
-        },
-        {
-          "dish": "Moo Pad Krapow",
-          "location": "Lokale straatverkoper bij de Oude Stadsmarkt",
-          "story": "Het sissen van gehakt varkensvlees en basilicum in een hete wok was onweerstaanbaar. De verkoper, een vrolijke jongeman, gooide er verse pepers in en serveerde het op jasmijnrijst met een gebakken ei erop.",
-          "price_range": "Ongeveer 40 baht voor een stevige portie.",
-          "ordering_tips": [
-            "Geef aan hoe pittig je het wilt; locals kiezen meestal voor extra pittig!"
-          ]
-        }
-      ],
-      "overview": "Sukhothai, gelegen in de noordelijke regio van Thailand, herbergt een van de belangrijkste archeologische schatten van Zuidoost-Azië: het Sukhothai Historical Park, een UNESCO-werelderfgoedlocatie die de ruïnes bewaart van Thailands eerste hoofdstad. Met een bevolking van slechts 37.000 inwoners biedt deze vredige stad een authentieke blik op de Thaise geschiedenis zonder de overweldigende drukte van grote toeristische bestemmingen. Het oude koninkrijk dat hier ooit bloeide, liet prachtig bewaard gebleven tempels, ingewikkelde Boeddhabeelden en architectonische wonderen achter die bezoekers terugvoeren naar de 13e-15e eeuw, toen Sukhothai het hart van de Thaise beschaving was.",
-      "thingsToDo": "De belangrijkste attracties van Sukhothai draaien om het Sukhothai Historical Park, een UNESCO-werelderfgoedlocatie. Wat Mahathat (THB 100/$3 entree) heeft de iconische lotusbloem-chedi en serene Boeddhabeelden. Wat Si Chum (THB 100/$3) huisvest een enorm zittend Boeddhabeeld dat zichtbaar is door een smalle opening in de tempelmuur. Wat Saphan Hin (THB 100/$3) is een heuveltop-tempel met panoramisch uitzicht over de oude stad. Het Ramkhamhaeng National Museum (THB 150/$4) toont cruciale historische artefacten, waaronder de Ramkhamhaeng-inscriptie. Si Satchanalai Historical Park (THB 100/$3), 35 km naar het noorden, toont oude ovens en goed bewaard gebleven tempels. De schilderachtige Yom-rivier biedt fietspaden en boottochten, terwijl de Sukhothai Old Town authentieke Thaise markten en lokale cultuur biedt. Fietsverhuur (THB 50-100/$2-3 per dag) is ideaal om het vlakke terrein van het Historical Park te verkennen.",
-      "whereToStay": "Accommodaties in Sukhothai variëren van budgetpensions tot middenklasse hotels, waarvan de meeste rondom het moderne stadsgebied liggen, ongeveer 12 km van het Historical Park. Budgetreizigers vinden eenvoudige maar schone pensions en hostels vanaf $15-30 per nacht, met eenvoudige kamers met ventilator of airconditioning en gedeelde faciliteiten. Middenklasse hotels (doorgaans $40-80 per nacht) bieden comfortabele kamers met eigen badkamer, airconditioning en voorzieningen zoals zwembaden en restaurants. De bereikbaarheid van de stad met lokaal vervoer maakt verblijf bij de centrale markt of langs de hoofdwegen handig, met eenvoudige tuk-tuk-toegang tot het Historical Park. Voor bezoekers die dichter bij de tempels willen verblijven, zijn er enkele accommodaties bij de parkingang, hoewel deze duurder zijn. De meeste hotels in Sukhothai bieden goede prijs-kwaliteitsverhouding vergeleken met Bangkok of toeristische strandplaatsen, wat het een economische bestemming maakt voor langere verblijven.",
-      "gettingAround": "Sukhothai verken je het best per tuk-tuk voor korte afstanden en naar het Historical Park. Songthaews (gedeelde minibusjes) rijden op vaste routes door de stad voor THB 20-40 per rit. Motorverhuur (THB 150-200/$5-7 per dag) biedt onafhankelijkheid om het uitgestrekte terrein van het Historical Park te verkennen. Fietsen (THB 50-100/$2-3 per dag) zijn populair vanwege het vlakke terrein. Grab ride-hailing is beschikbaar tegen vaste tarieven. Het Historical Park vereist meerdere vervoerswijzen om alle tempels te zien, waarbij wandelen, fietsen en af en toe een tuk-tuk de meest praktische combinatie vormen.",
-      "bestTimeToVisit": "De ideale tijd om Sukhothai te bezoeken is november tot en met februari, wanneer het koele seizoen comfortabele temperaturen brengt van 15-25°C, perfect om openlucht-tempelruïnes te verkennen. December en januari zijn bijzonder aangenaam, met lage luchtvochtigheid en minimale regenval, hoewel deze maanden meer bezoekers trekken. Maart tot mei markeert het hete seizoen met temperaturen tot 35-40°C, waardoor tempelverkenning overdag uitputtend wordt maar met minder drukte. Het moessonseizoen (mei-oktober) brengt zware regenval, vooral in augustus-september, wat het sightseeing kan beperken maar weelderige groene landschappen en lagere accommodatieprijzen oplevert. Voor de beste balans tussen weer, comfort en beheersbare drukte, mik op november, december of januari.",
-      "safetyTips": "Sukhothai is over het algemeen een zeer veilige bestemming met lage criminaliteitscijfers en een gastvrije lokale bevolking. De tempels in het Historical Park zijn veilig te verkennen, hoewel bezoekers stevig schoeisel moeten dragen vanwege ongelijke oude stenen oppervlakken en voldoende water en zonnebescherming moeten meenemen, aangezien er minimale schaduw is tussen de ruïnes. Standaard voorzorgsmaatregelen gelden: vermijd het tonen van waardevolle sieraden of grote hoeveelheden contant geld, houd bezittingen veilig in tuk-tuks en songthaews, en wees voorzichtig met motorfietsen als je niet vertrouwd bent met Thaise verkeersomstandigheden. De stad zelf heeft goede straatverlichting en vriendelijke bewoners; alleen reizende vrouwen en mannen melden zich veilig te voelen bij het wandelen door de stad tijdens de avonduren. Tijdens het hete seizoen, let op hittegerelateerde aandoeningen door gehydrateerd te blijven en pauzes te nemen in schaduwrijke gebieden of ruimtes met airconditioning.",
-      "translated_at": "2026-03-10T00:00:00.000Z"
-    },
-    "fr": {
-      "enhanced_description": "Quand le soleil commence à descendre derrière l'horizon et projette une chaude lueur dorée sur les ruines anciennes de Sukhothai, on ressent un sentiment tangible d'histoire tout autour. L'air est imprégné du parfum du jasmin et le son lointain d'une flûte thaïlandaise traditionnelle flotte dans les rues, vous invitant à explorer le cœur de la première capitale de Thaïlande. Sukhothai est bien plus qu'un parc historique ; c'est un tissu vivant de culture, d'histoires et de saveurs tissé à travers les siècles. Je me souviens de ma première soirée dans la ville, quand j'ai marché à travers le parc historique de Sukhothai tandis que les derniers rayons du soleil embrassaient les stupas imposants de Wat Mahathat. Chaque pas était accompagné du doux crissement du gravier sous mes pieds, un écho des pas des anciens rois qui arpentaient autrefois cette terre sacrée.\n\nContrairement aux rues animées de Bangkok ou aux plages touristiques de Phuket, Sukhothai offre une échappée apaisante où le passé murmure à travers les arbres. Le parc historique, avec ses ruines majestueuses et ses lacs sereins, est le joyau de la couronne, mais ce sont les histoires cachées dans les murs qui vous captivent véritablement. Je me souviens d'être assis au bord de la rivière Yom, regardant les pêcheurs locaux lancer leurs filets, leurs rires se mêlant au son de l'eau clapotant contre la berge. C'est ici que j'ai appris les techniques de pêche traditionnelles transmises de génération en génération, un rappel des liens simples mais profonds entre les gens et leur terre.\n\nL'un de mes moments préférés a été la visite de Wat Si Chum, où l'immense statue de Bouddha semble regarder droit dans votre âme. Je me suis assis en tailleur sur le sol de pierre frais et j'ai absorbé l'énergie du lieu. Un moine âgé s'est approché de moi, les yeux pétillants de sagesse, et il a partagé des histoires sur la façon dont le temple avait été un refuge en temps de troubles. Ce sont ces rencontres personnelles qui ont rendu Sukhothai spécial ; chaque conversation ressemblait à un fil me rapprochant du tissu de la vie locale.\n\nLa ville est aussi un paradis culinaire, avec des saveurs reflétant sa riche histoire. Les vendeurs de rue servent des plats comme le Khao Soi, une soupe de nouilles au curry de coco crémeuse qui réchauffe le cœur et l'âme. Je me souviens de la première fois que je l'ai goûté dans un petit étal près du parc historique ; la vendeuse, une femme aimable nommée Aun, a insisté pour que j'ajoute du citron vert supplémentaire pour une touche de fraîcheur. Son sourire quand j'ai pris ma première gorgée reste gravé dans ma mémoire.\n\nSukhothai se distingue des autres destinations thaïlandaises non seulement par ses ruines à couper le souffle, mais aussi par son esprit accueillant. C'est un endroit où le temps ralentit, vous permettant d'inspirer la beauté de la vie. Que vous pédaliez à travers le parc à l'aube, quand la brume repose comme une couverture douce sur le sol, ou que vous participiez à un festival local illuminant le ciel nocturne de lanternes, Sukhothai vous invite à vous connecter avec son cœur. C'est une ville qui ressemble à un secret bien gardé, attendant d'être découverte par ceux qui cherchent une compréhension plus profonde de l'âme thaïlandaise.",
-      "hidden_gems": [
-        {
-          "name": "Le Marché de la Vieille Ville",
-          "story": "Je suis tombé sur ce marché animé un après-midi de semaine. Les habitants se rassemblaient autour, partageant des histoires devant des bols fumants de soupe de nouilles. Une vendeuse, une grand-mère au sourire chaleureux, m'a appris à faire le rouleau de printemps parfait, et j'utilise encore ses secrets.",
-          "how_to_find": "Allez vers l'est depuis le parc historique le long de la route principale jusqu'à voir les étals colorés le long de la rue.",
-          "best_time": "Visitez tôt le matin ou en fin d'après-midi pour une atmosphère animée et des températures plus fraîches.",
-          "local_insights": [
-            "Apportez un petit sac pour faire vos achats ; marchander est courant mais toujours avec le sourire."
-          ]
-        },
-        {
-          "name": "Wat Phra Pai Luang",
-          "story": "Ce temple moins connu m'a enchanté par son architecture complexe. J'étais le seul visiteur, entouré par les sons de la nature et le chant occasionnel d'un oiseau. Un artiste local dessinait le temple, et nous avons fini par partager des histoires sur l'art et l'histoire.",
-          "how_to_find": "Situé légèrement hors des sentiers battus, suivez les panneaux depuis la route principale vers le parc historique de Sukhothai.",
-          "best_time": "En fin d'après-midi quand la lumière projette de belles ombres sur les murs du temple.",
-          "local_insights": [
-            "Prenez votre temps ici ; c'est un endroit parfait pour la réflexion et la photographie."
-          ]
-        }
-      ],
-      "authentic_experiences": [
-        {
-          "activity": "Cours de Cuisine Thaïlandaise Traditionnelle",
-          "story": "J'ai participé à un cours de cuisine chez une famille locale, où nous avons récolté des herbes fraîches de leur jardin. Cuisiner ensemble n'était pas seulement une question de nourriture ; c'était une expérience de partage remplie de rires et d'apprentissage.",
-          "cultural_significance": "La nourriture est au cœur de la culture thaïlandaise, et apprendre à cuisiner des plats traditionnels vous connecte à la communauté.",
-          "how_to_participate": "Inscrivez-vous dans les écoles de cuisine locales ou demandez des recommandations à votre hôtel.",
-          "insights": [
-            "Acceptez le niveau de piment ; les locaux préparent souvent leurs plats très épicés !"
-          ]
-        },
-        {
-          "activity": "Faire du Vélo à Travers les Ruines",
-          "story": "Louer un vélo et pédaler à travers le parc historique à l'aube a été l'une de mes expériences les plus magiques. La lumière douce et l'environnement silencieux permettaient une appréciation plus profonde des structures anciennes.",
-          "cultural_significance": "Le vélo est un passe-temps local apprécié et offre une perspective unique sur les sites historiques.",
-          "how_to_participate": "Les vélos peuvent être loués dans plusieurs boutiques à l'entrée du parc.",
-          "insights": [
-            "Commencez tôt pour éviter la chaleur et la foule, et n'oubliez pas votre appareil photo !"
-          ]
-        }
-      ],
-      "foodie_adventures": [
-        {
-          "dish": "Khao Soi",
-          "location": "Aun's Noodle Stall près du parc historique",
-          "story": "La première bouchée de Khao Soi a changé ma vie. Aun a insisté pour ajouter son huile de piment secrète, ce qui a élevé le plat à un niveau que je n'avais jamais goûté auparavant.",
-          "price_range": "Environ 50 baht pour un bol généreux.",
-          "ordering_tips": [
-            "Demandez du citron vert et de l'huile de piment supplémentaires ; ça fait toute la différence !"
-          ]
-        },
-        {
-          "dish": "Moo Pad Krapow",
-          "location": "Vendeur de rue local au marché de la vieille ville",
-          "story": "Le grésillement du porc haché et du basilic dans un wok brûlant était irrésistible. Le vendeur, un jeune homme jovial, y a jeté des piments frais et l'a servi sur du riz au jasmin avec un œuf au plat dessus.",
-          "price_range": "Environ 40 baht pour une portion copieuse.",
-          "ordering_tips": [
-            "Indiquez votre niveau de piment souhaité ; les locaux choisissent généralement extra épicé !"
-          ]
-        }
-      ],
-      "overview": "Sukhothai, située dans la région nord de la Thaïlande, abrite l'un des trésors archéologiques les plus importants d'Asie du Sud-Est : le parc historique de Sukhothai, site du patrimoine mondial de l'UNESCO qui préserve les ruines de la première capitale de Thaïlande. Avec une population de seulement 37 000 habitants, cette ville paisible offre un regard authentique sur l'histoire thaïlandaise sans la foule écrasante des grandes destinations touristiques. L'ancien royaume qui a prospéré ici a laissé des temples magnifiquement préservés, des statues de Bouddha élaborées et des merveilles architecturales qui transportent les visiteurs aux XIIIe-XVe siècles, quand Sukhothai était le cœur de la civilisation thaïlandaise.",
-      "thingsToDo": "Les principales attractions de Sukhothai tournent autour du parc historique de Sukhothai, site du patrimoine mondial de l'UNESCO. Wat Mahathat (100 THB/3 $ d'entrée) présente l'emblématique chedi en forme de fleur de lotus et de sereines statues de Bouddha. Wat Si Chum (100 THB/3 $) abrite une immense statue de Bouddha assis visible à travers une étroite ouverture dans le mur du temple. Wat Saphan Hin (100 THB/3 $) est un temple au sommet d'une colline offrant une vue panoramique sur l'ancienne cité. Le musée national Ramkhamhaeng (150 THB/4 $) expose des artefacts historiques essentiels, dont l'inscription de Ramkhamhaeng. Le parc historique de Si Satchanalai (100 THB/3 $), à 35 km au nord, présente d'anciens fours et des temples bien conservés. La pittoresque rivière Yom offre des pistes cyclables et des promenades en bateau, tandis que la vieille ville de Sukhothai propose des marchés thaïlandais authentiques et la culture locale. La location de vélo (50-100 THB/2-3 $ par jour) est idéale pour explorer le terrain plat du parc historique.",
-      "whereToStay": "Les hébergements à Sukhothai vont des pensions économiques aux hôtels de milieu de gamme, la plupart étant situés autour de la zone de la ville moderne, à environ 12 km du parc historique. Les voyageurs à petit budget trouvent des pensions et auberges simples mais propres à partir de 15-30 $ par nuit, avec des chambres basiques avec ventilateur ou climatisation et installations communes. Les hôtels de milieu de gamme (généralement 40-80 $ par nuit) offrent des chambres confortables avec salle de bain privée, climatisation et équipements comme piscines et restaurants. L'accessibilité de la ville par les transports locaux rend le séjour près du marché central ou le long des routes principales pratique, avec un accès facile en tuk-tuk au parc historique. Pour les visiteurs souhaitant séjourner plus près des temples, quelques hébergements se trouvent à l'entrée du parc, bien qu'ils soient plus chers. La plupart des hôtels de Sukhothai offrent un bon rapport qualité-prix comparé à Bangkok ou aux stations balnéaires touristiques, ce qui en fait une destination économique pour les séjours prolongés.",
-      "gettingAround": "Sukhothai se découvre le mieux en tuk-tuk pour les courtes distances et les trajets vers le parc historique. Les songthaews (minibus partagés) circulent sur des itinéraires fixes à travers la ville pour 20-40 THB par trajet. La location de moto (150-200 THB/5-7 $ par jour) offre l'indépendance pour explorer le vaste terrain du parc historique. Les vélos (50-100 THB/2-3 $ par jour) sont populaires grâce au terrain plat. Le service Grab est disponible à tarifs fixes. Le parc historique nécessite plusieurs modes de transport pour voir tous les temples, la combinaison marche, vélo et tuk-tuk occasionnel étant la plus pratique.",
-      "bestTimeToVisit": "La période idéale pour visiter Sukhothai est de novembre à février, quand la saison fraîche apporte des températures confortables de 15-25°C, parfaites pour explorer les ruines de temples en plein air. Décembre et janvier sont particulièrement agréables, avec une faible humidité et un minimum de précipitations, bien que ces mois attirent plus de visiteurs. De mars à mai, la saison chaude voit les températures monter à 35-40°C, rendant l'exploration des temples en journée épuisante mais avec moins de foule. La saison des moussons (mai-octobre) apporte de fortes pluies, surtout en août-septembre, ce qui peut limiter les visites mais offre des paysages d'un vert luxuriant et des prix d'hébergement plus bas. Pour le meilleur équilibre entre météo, confort et affluence gérable, visez novembre, décembre ou janvier.",
-      "safetyTips": "Sukhothai est généralement une destination très sûre avec de faibles taux de criminalité et une population locale accueillante. Les temples du parc historique sont sûrs à explorer, bien que les visiteurs doivent porter des chaussures solides en raison des surfaces en pierre anciennes irrégulières et apporter suffisamment d'eau et de protection solaire, car il y a un minimum d'ombre entre les ruines. Les précautions standard s'appliquent : évitez d'exhiber des bijoux de valeur ou de grandes sommes d'argent, gardez vos affaires en sécurité dans les tuk-tuks et songthaews, et soyez prudent en moto si vous n'êtes pas familier avec les conditions de circulation thaïlandaises. La ville elle-même a un bon éclairage public et des résidents amicaux ; les voyageurs solo, hommes comme femmes, se déclarent en sécurité pour se promener en ville le soir. Pendant la saison chaude, attention aux malaises liés à la chaleur en restant hydraté et en faisant des pauses dans les zones ombragées ou les espaces climatisés.",
-      "translated_at": "2026-03-10T00:00:00.000Z"
-    },
-    "de": {
-      "enhanced_description": "Wenn die Sonne langsam hinter dem Horizont versinkt und die antiken Ruinen von Sukhothai in warmes, goldenes Licht taucht, spürt man die Geschichte förmlich in der Luft. Der Duft von Jasmin weht durch die Straßen, begleitet von den fernen Klängen einer traditionellen Thai-Flöte, die einen einlädt, das Herz von Thailands erster Hauptstadt zu erkunden. Sukhothai ist weit mehr als ein Geschichtspark – es ist ein lebendiges Geflecht aus Kultur, Geschichten und Aromen, das über Jahrhunderte gewoben wurde. Ich erinnere mich an meinen ersten Abend in der Stadt, als ich durch den Geschichtspark von Sukhothai wanderte, während die letzten Sonnenstrahlen die aufragenden Stupas des Wat Mahathat küssten. Jeder Schritt wurde vom leisen Knirschen des Kieses begleitet, ein Echo der Schritte der alten Könige, die einst diesen heiligen Boden betraten.\n\nAnders als die geschäftigen Straßen Bangkoks oder die touristischen Strände von Phuket bietet Sukhothai eine ruhige Zuflucht, wo die Vergangenheit durch die Bäume flüstert. Der Geschichtspark mit seinen majestätischen Ruinen und stillen Seen ist das Kronjuwel, doch es sind die verborgenen Geschichten in seinen Mauern, die wirklich fesseln. Ich erinnere mich, wie ich am Ufer des Yom-Flusses saß und den örtlichen Fischern zusah, die ihre Netze auswarfen, ihr Lachen vermischt mit dem Plätschern des Wassers am Ufer. Hier erfuhr ich von den traditionellen Fischfangtechniken, die seit Generationen weitergegeben werden – eine Erinnerung an die schlichte, doch tiefgreifende Verbindung zwischen den Menschen und ihrem Land.\n\nEiner meiner schönsten Momente war der Besuch von Wat Si Chum, wo die riesige Buddha-Statue einem direkt in die Seele zu blicken scheint. Ich saß im Schneidersitz auf dem kühlen Steinboden und nahm die Energie des Ortes in mich auf. Ein älterer Mönch kam auf mich zu, seine Augen funkelten vor Weisheit, und er erzählte Geschichten darüber, wie der Tempel in Zeiten der Not ein Zufluchtsort gewesen war. Es waren diese persönlichen Begegnungen, die Sukhothai so besonders machten; jedes Gespräch fühlte sich an wie ein Faden, der mich enger mit dem Gewebe des lokalen Lebens verband.\n\nDie Stadt ist auch ein kulinarisches Paradies mit Aromen, die ihre reiche Geschichte widerspiegeln. Straßenverkäufer servieren Gerichte wie Khao Soi, eine cremige Kokosnuss-Curry-Nudelsuppe, die Herz und Seele wärmt. Ich erinnere mich an mein erstes Mal, als ich es an einem kleinen Stand in der Nähe des Geschichtsparks probierte; die Verkäuferin, eine freundliche Frau namens Aun, bestand darauf, dass ich extra Limette für einen Frischekick hinzufüge. Ihr Lächeln, als ich den ersten Schluck nahm, ist in mein Gedächtnis eingebrannt.\n\nSukhothai hebt sich von anderen Reisezielen in Thailand nicht nur durch seine atemberaubenden Ruinen ab, sondern auch durch seinen einladenden Geist. Es ist ein Ort, an dem die Zeit langsamer vergeht und man die Schönheit des Lebens einatmen kann. Ob man bei Morgendämmerung durch den Park radelt, wenn der Nebel wie eine weiche Decke über dem Boden liegt, oder an einem lokalen Festival teilnimmt, bei dem Laternen den Nachthimmel erleuchten – Sukhothai lädt dazu ein, sich mit seinem Herzen zu verbinden. Es ist eine Stadt, die sich wie ein gut gehütetes Geheimnis anfühlt, darauf wartend, von denen entdeckt zu werden, die ein tieferes Verständnis von Thailands Seele suchen.",
-      "hidden_gems": [
-        {
-          "name": "The Old City Market",
-          "story": "Ich stieß an einem ruhigen Wochentagnachmittag auf diesen lebhaften Markt. Einheimische versammelten sich und tauschten Geschichten über dampfende Schüsseln Nudelsuppe aus. Eine Verkäuferin, eine Großmutter mit einem warmen Lächeln, brachte mir bei, wie man die perfekte Frühlingsrolle macht, und ich nutze ihre Geheimnisse noch heute.",
-          "how_to_find": "Gehen Sie vom Geschichtspark aus in östlicher Richtung entlang der Hauptstraße, bis Sie die bunten Stände sehen, die die Straße säumen.",
-          "best_time": "Besuchen Sie den Markt am frühen Morgen oder späten Nachmittag für eine lebhafte Atmosphäre und kühlere Temperaturen.",
-          "local_insights": [
-            "Bringen Sie eine kleine Tasche zum Einkaufen mit; Handeln ist üblich, aber immer mit einem Lächeln."
-          ]
-        },
-        {
-          "name": "Wat Phra Pai Luang",
-          "story": "Dieser weniger bekannte Tempel faszinierte mich mit seiner filigranen Architektur. Ich war der einzige Besucher, umgeben von den Klängen der Natur und dem gelegentlichen Zwitschern eines Vogels. Ein lokaler Künstler skizzierte den Tempel, und wir tauschten schließlich Geschichten über Kunst und Geschichte aus.",
-          "how_to_find": "Etwas abseits der ausgetretenen Pfade gelegen, folgen Sie den Schildern von der Hauptstraße in Richtung des Geschichtsparks von Sukhothai.",
-          "best_time": "Am späten Nachmittag, wenn das Licht wunderschöne Schatten auf die Tempelmauern wirft.",
-          "local_insights": [
-            "Nehmen Sie sich hier Zeit; es ist ein perfekter Ort zum Nachdenken und Fotografieren."
-          ]
-        }
-      ],
-      "authentic_experiences": [
-        {
-          "activity": "Traditioneller Thai-Kochkurs",
-          "story": "Ich nahm an einem Kochkurs teil, der von einer einheimischen Familie veranstaltet wurde, bei dem wir frische Kräuter aus ihrem Garten ernteten. Gemeinsam zu kochen ging über das Essen hinaus; es war eine verbindende Erfahrung voller Lachen und Lernen.",
-          "cultural_significance": "Essen steht im Mittelpunkt der thailändischen Kultur, und das Erlernen traditioneller Gerichte verbindet einen mit der Gemeinschaft.",
-          "how_to_participate": "Melden Sie sich bei lokalen Kochschulen an oder fragen Sie in Ihrem Hotel nach Empfehlungen.",
-          "insights": [
-            "Lassen Sie sich auf die Schärfe ein; Einheimische bevorzugen ihre Gerichte oft recht scharf!"
-          ]
-        },
-        {
-          "activity": "Mit dem Fahrrad durch die Ruinen",
-          "story": "Ein Fahrrad zu mieten und bei Morgendämmerung durch den Geschichtspark zu radeln, war eines meiner magischsten Erlebnisse. Das sanfte Licht und die ruhige Umgebung ermöglichten eine tiefere Wertschätzung der antiken Bauwerke.",
-          "cultural_significance": "Radfahren ist ein beliebter lokaler Zeitvertreib und bietet eine einzigartige Perspektive auf die historischen Stätten.",
-          "how_to_participate": "Fahrräder können in verschiedenen Geschäften am Parkeingang gemietet werden.",
-          "insights": [
-            "Starten Sie früh, um der Hitze und den Menschenmengen auszuweichen, und vergessen Sie Ihre Kamera nicht!"
-          ]
-        }
-      ],
-      "foodie_adventures": [
-        {
-          "dish": "Khao Soi",
-          "location": "Aun's Noodle Stall near the Historical Park",
-          "story": "Der erste Geschmack von Khao Soi war lebensverändernd. Aun bestand darauf, ihr geheimes Chiliöl hinzuzufügen, das das Gericht über alles hinaus hob, was ich zuvor probiert hatte.",
-          "price_range": "Around 50 baht for a generous bowl.",
-          "ordering_tips": [
-            "Bitten Sie um extra Limette und Chiliöl; das macht den entscheidenden Unterschied!"
-          ]
-        },
-        {
-          "dish": "Moo Pad Krapow",
-          "location": "Local street vendor near the Old City Market",
-          "story": "Das Brutzeln von Schweinehackfleisch und Basilikum im heißen Wok war unwiderstehlich. Der Verkäufer, ein fröhlicher junger Mann, warf frische Chilischoten hinein und servierte es über Jasminreis mit einem Spiegelei obendrauf.",
-          "price_range": "About 40 baht for a hearty serving.",
-          "ordering_tips": [
-            "Geben Sie an, wie scharf Sie es möchten; Einheimische bestellen normalerweise extra scharf!"
-          ]
-        }
-      ],
-      "overview": "Sukhothai liegt in der nördlichen Region Thailands und beherbergt einen der bedeutendsten archäologischen Schätze Südostasiens: den Geschichtspark Sukhothai, eine UNESCO-Welterbestätte, die die Ruinen von Thailands erster Hauptstadt bewahrt. Mit nur 37.000 Einwohnern bietet diese friedliche Stadt einen authentischen Einblick in die thailändische Geschichte ohne die überwältigenden Menschenmassen großer Touristenziele. Das alte Königreich, das hier einst blühte, hinterließ wunderschön erhaltene Tempel, filigrane Buddha-Statuen und architektonische Meisterwerke, die Besucher zurück ins 13. bis 15. Jahrhundert versetzen, als Sukhothai das Herz der thailändischen Zivilisation war.",
-      "thingsToDo": "Sukhothais Hauptattraktionen drehen sich um den Geschichtspark Sukhothai, eine UNESCO-Welterbestätte. Wat Mahathat (100 THB/3 $ Eintritt) bietet den ikonischen Lotusknospen-Chedi und gelassene Buddha-Statuen. Wat Si Chum (100 THB/3 $) beherbergt eine massive sitzende Buddha-Figur, die durch eine schmale Tempelwandöffnung sichtbar ist. Wat Saphan Hin (100 THB/3 $) ist ein Hügeltempel mit Panoramablick auf die antike Stadt. Das Ramkhamhaeng-Nationalmuseum (150 THB/4 $) zeigt wichtige historische Artefakte, darunter die Ramkhamhaeng-Inschrift. Der Geschichtspark Si Satchanalai (100 THB/3 $), 35 km nördlich gelegen, präsentiert antike Brennöfen und gut erhaltene Tempel. Der malerische Yom-Fluss bietet Radwege und Bootsfahrten, während die Altstadt von Sukhothai authentische thailändische Märkte und lokale Kultur bietet. Fahrradverleih (50-100 THB/2-3 $ pro Tag) ist ideal, um das flache Gelände des Geschichtsparks zu erkunden.",
-      "whereToStay": "Die Unterkünfte in Sukhothai reichen von günstigen Pensionen bis zu Mittelklassehotels, wobei sich die meisten rund um die moderne Stadt befinden, etwa 12 km vom Geschichtspark entfernt. Budgetreisende finden einfache, aber saubere Pensionen und Hostels ab 15-30 $ pro Nacht mit schlichten Zimmern mit Ventilator oder Klimaanlage und Gemeinschaftseinrichtungen. Mittelklassehotels (typischerweise 40-80 $ pro Nacht) bieten komfortable Zimmer mit eigenem Bad, Klimaanlage und Annehmlichkeiten wie Swimmingpools und hauseigenen Restaurants. Die gute Erreichbarkeit der Stadt mit öffentlichen Verkehrsmitteln macht Unterkünfte in der Nähe des Zentralmarkts oder entlang der Hauptstraßen praktisch, mit einfachem Tuk-Tuk-Zugang zum Geschichtspark. Für Besucher, die näher an den Tempeln übernachten möchten, gibt es einige Unterkünfte in der Nähe des Parkeingangs, die allerdings etwas teurer sind. Die meisten Hotels in Sukhothai bieten ein gutes Preis-Leistungs-Verhältnis im Vergleich zu Bangkok oder touristischen Strandorten, was es zu einem wirtschaftlichen Ziel für längere Aufenthalte macht.",
-      "gettingAround": "Sukhothai erkundet man am besten per Tuk-Tuk für kurze Strecken und Fahrten zum Geschichtspark. Songthaews (Sammelbusse) verkehren auf festen Routen durch die Stadt für 20-40 THB pro Fahrt. Motorradverleih (150-200 THB/5-7 $ pro Tag) bietet Unabhängigkeit bei der Erkundung des weitläufigen Geschichtsparks. Fahrräder (50-100 THB/2-3 $ pro Tag) sind aufgrund des flachen Geländes beliebt. Grab-Fahrdienst ist zu festen Preisen verfügbar. Der Geschichtspark erfordert verschiedene Transportmittel, um alle Tempel zu sehen, wobei die Kombination aus Gehen, Radfahren und gelegentlichen Tuk-Tuk-Fahrten am praktischsten ist.",
-      "bestTimeToVisit": "Die ideale Reisezeit für Sukhothai ist November bis Februar, wenn die kühle Jahreszeit angenehme Temperaturen von 15-25°C bringt, perfekt für die Erkundung der Tempelruinen unter freiem Himmel. Dezember und Januar sind besonders angenehm, mit niedriger Luftfeuchtigkeit und minimalem Niederschlag, obwohl diese Monate mehr Besucher anziehen. März bis Mai markiert die heiße Jahreszeit mit Temperaturen von 35-40°C, was die Tempelerkundung tagsüber erschöpfend macht, aber weniger Menschenmengen bietet. Die Monsunzeit (Mai-Oktober) bringt starke Regenfälle, besonders im August-September, was Besichtigungen einschränken kann, aber üppig grüne Landschaften und niedrigere Unterkunftspreise bietet. Für die beste Balance aus Wetter, Komfort und überschaubaren Besucherzahlen empfehlen sich November, Dezember oder Januar.",
-      "safetyTips": "Sukhothai ist generell ein sehr sicheres Reiseziel mit niedriger Kriminalitätsrate und einer gastfreundlichen Bevölkerung. Die Tempel des Geschichtsparks können sicher erkundet werden, wobei Besucher festes Schuhwerk wegen der unebenen alten Steinflächen tragen und ausreichend Wasser sowie Sonnenschutz mitbringen sollten, da es zwischen den Ruinen wenig Schatten gibt. Standard-Vorsichtsmaßnahmen gelten: Vermeiden Sie es, wertvollen Schmuck oder große Geldbeträge zur Schau zu stellen, bewahren Sie Ihre Habseligkeiten in Tuk-Tuks und Songthaews sicher auf, und seien Sie auf dem Motorrad vorsichtig, wenn Sie mit den thailändischen Verkehrsverhältnissen nicht vertraut sind. Die Stadt selbst hat eine gute Straßenbeleuchtung und freundliche Bewohner; Alleinreisende, sowohl Männer als auch Frauen, berichten, dass sie sich beim abendlichen Spaziergang durch die Stadt sicher fühlen. Achten Sie während der heißen Jahreszeit auf hitzebedingte Beschwerden, indem Sie ausreichend trinken und Pausen in schattigen Bereichen oder klimatisierten Räumen einlegen.",
-      "translated_at": "2026-03-10T00:00:00.000Z"
-    },
-    "zh": {
-      "enhanced_description": "当夕阳开始沉入地平线，温暖的金色光辉洒落在素可泰的古老废墟上，一种触手可及的历史感将你包围。空气中弥漫着茉莉花的芬芳，远处传来传统泰国笛子的悠扬声调，引领你探索泰国第一个首都的心脏。素可泰不仅仅是一座历史公园，它是一幅由文化、故事和风味交织了几个世纪的活历史画卷。我记得第一个夜晚在这座城市，漫步穿过素可泰历史公园，最后的阳光亲吻着玛哈泰寺高耸的佛塔。每一步都伴随着脚下碎石的轻柔嘎吱声，回响着古代国王曾踏过这片神圣土地的足音。\n\n不同于曼谷熙攘的街道或普吉岛的旅游海滩，素可泰提供了一处宁静的避世之所，过去在树间低语。历史公园以其壮丽的废墟和宁静的湖泊为瑰宝，但真正令人着迷的是隐藏在墙壁内的故事。我记得坐在洋河边，看着当地渔民撒网，他们的欢笑与水拍打岸边的声音交织在一起。正是在这里，我了解了代代相传的传统捕鱼技术，提醒着人与土地之间简单而深刻的联系。\n\n我最喜欢的时刻之一是参观西春寺，那里巨大的佛像似乎直视你的灵魂深处。我盘腿坐在冰凉的石地板上，感受着这个地方的能量。一位年迈的僧侣走近我，他的眼中闪烁着智慧的光芒，分享了这座寺庙如何在动荡时期成为避难所的故事。正是这些个人邂逅让素可泰如此特别；每一次对话都像一根纽带，将我与当地生活的脉络紧紧相连。\n\n这座城市也是美食天堂，风味映射着它丰富的历史。街头摊贩供应着Khao Soi等菜肴——一碗奶香浓郁的椰奶咖喱面，温暖你的心和灵魂。我记得第一次在历史公园附近的一个小摊位品尝它；摊主是一位名叫Aun的和蔼女士，她坚持让我加入额外的青柠以增添一抹清新。当我喝下第一口时她绽放的笑容，深深刻在了我的记忆中。\n\n素可泰之所以与泰国其他目的地不同，不仅因为其令人惊叹的废墟，更因为其热情好客的精神。这是一个时间放慢脚步的地方，让你能够呼吸生活的美好。无论是在黎明时分骑车穿越公园——薄雾如柔软的毯子紧贴地面，还是参加点亮夜空的天灯节，素可泰都邀请你与它的心灵相连。这是一座像珍藏秘密般的城市，等待着那些寻求更深入了解泰国灵魂的人来发现。",
-      "hidden_gems": [
-        {
-          "name": "老城市场",
-          "story": "一个安静的工作日下午，我偶然发现了这个热闹的市场。当地人围坐在一起，一边喝着热气腾腾的面汤一边聊天。一位摊主——一位带着温暖笑容的老奶奶——教我如何做出完美的春卷，她的秘诀我至今还在用。",
-          "how_to_find": "从历史公园沿主路向东走，直到看到街边五彩缤纷的摊位。",
-          "best_time": "清晨或傍晚时分，氛围热闹且气温较凉爽。",
-          "local_insights": [
-            "带个小袋子购物；讨价还价很常见，但总是带着微笑。"
-          ]
-        },
-        {
-          "name": "Wat Phra Pai Luang",
-          "story": "这座鲜为人知的寺庙以其精美的建筑深深吸引了我。我是唯一的访客，周围只有大自然的声音和偶尔的鸟鸣。一位当地艺术家正在素描寺庙，我们最终分享了关于艺术和历史的故事。",
-          "how_to_find": "位置稍偏僻，从主路沿着指向素可泰历史公园的路牌前往。",
-          "best_time": "傍晚时分，光线在寺墙上投射出美丽的光影。",
-          "local_insights": [
-            "在这里慢慢欣赏；是沉思和摄影的完美之地。"
-          ]
-        }
-      ],
-      "authentic_experiences": [
-        {
-          "activity": "传统泰式烹饪课程",
-          "story": "我参加了一个当地家庭举办的烹饪课程，我们从他们的花园里采摘新鲜香草。一起烹饪不仅仅是做菜，更是一次充满欢笑和学习的情感交流。",
-          "cultural_significance": "美食是泰国文化的核心，学习烹饪传统菜肴将你与社区紧密相连。",
-          "how_to_participate": "在当地烹饪学校报名，或向酒店咨询推荐。",
-          "insights": [
-            "大胆接受辣度；当地人通常喜欢很辣的菜！"
-          ]
-        },
-        {
-          "activity": "骑车穿越废墟",
-          "story": "租一辆自行车，在黎明时分骑行穿过历史公园，是我最神奇的体验之一。柔和的晨光和宁静的环境让人更深刻地欣赏这些古老建筑。",
-          "cultural_significance": "骑车是当地人钟爱的休闲方式，它能带给你看待历史遗迹的独特视角。",
-          "how_to_participate": "在公园入口附近的多家店铺可租到自行车。",
-          "insights": [
-            "早起以避开炎热和人群，别忘了带相机！"
-          ]
-        }
-      ],
-      "foodie_adventures": [
-        {
-          "dish": "Khao Soi",
-          "location": "Aun's Noodle Stall near the Historical Park",
-          "story": "第一口Khao Soi改变了我的人生。Aun坚持加入她的秘制辣椒油，将这道菜提升到了我从未体验过的境界。",
-          "price_range": "Around 50 baht for a generous bowl.",
-          "ordering_tips": [
-            "多要些青柠和辣椒油；味道完全不同！"
-          ]
-        },
-        {
-          "dish": "Moo Pad Krapow",
-          "location": "Local street vendor near the Old City Market",
-          "story": "猪肉碎和罗勒在滚烫的锅中滋滋作响，让人无法抵抗。摊主是一位开朗的年轻人，加入新鲜辣椒，配上茉莉花饭和煎蛋端上来。",
-          "price_range": "About 40 baht for a hearty serving.",
-          "ordering_tips": [
-            "说明你想要的辣度；当地人通常选择加倍辣！"
-          ]
-        }
-      ],
-      "overview": "素可泰位于泰国北部地区，拥有东南亚最重要的考古瑰宝之一：素可泰历史公园，这是一处联合国教科文组织世界遗产，保存着泰国第一个首都的废墟。这座仅有37,000人口的宁静城市提供了真实的泰国历史体验，没有大型旅游目的地的拥挤人群。曾在此繁荣的古老王国留下了保存完好的寺庙、精美的佛像和建筑杰作，将游客带回13至15世纪素可泰作为泰国文明心脏的辉煌时代。",
-      "thingsToDo": "素可泰的主要景点围绕联合国教科文组织世界遗产——素可泰历史公园展开。玛哈泰寺（100 THB/$3门票）拥有标志性的莲花苞形佛塔和宁静的佛像。西春寺（100 THB/$3）供奉着一尊巨大的坐佛，透过狭窄的寺墙开口可见。Wat Saphan Hin（100 THB/$3）是一座山顶寺庙，可俯瞰古城全景。兰甘亨国家博物馆（150 THB/$4）展示重要历史文物，包括兰甘亨碑文。位于北面35公里的西沙查纳莱历史公园（100 THB/$3）展示古代窑址和保存完好的寺庙。风景如画的洋河提供自行车道和游船，素可泰老城则有正宗的泰式市场和本地文化。自行车租赁（50-100 THB/$2-3/天）非常适合探索历史公园的平坦地形。",
-      "whereToStay": "素可泰的住宿从经济旅馆到中档酒店不等，大多集中在现代城镇区域，距历史公园约12公里。预算旅行者可找到简洁干净的旅馆和青年旅社，$15-30/晚，提供风扇或空调简约客房及共用设施。中档酒店（通常$40-80/晚）提供舒适客房，配有独立卫浴、空调及泳池和餐厅等设施。城镇交通便利，住在中央市场附近或主要道路沿线很方便，可轻松乘嘟嘟车前往历史公园。想住得离寺庙更近的游客，公园入口附近有一些住宿，但价格稍高。与曼谷或旅游海滩城市相比，素可泰的酒店性价比出色，适合较长时间停留。",
-      "gettingAround": "素可泰最佳出行方式是乘嘟嘟车短途出行和前往历史公园。双条车（共享小巴）按固定路线运行，每程20-40 THB。摩托车租赁（150-200 THB/$5-7/天）为探索广阔的历史公园提供独立性。自行车（50-100 THB/$2-3/天）因地势平坦而广受欢迎。Grab叫车服务以固定价格提供。历史公园需要多种交通方式才能参观所有寺庙，步行、骑车加偶尔乘嘟嘟车是最实用的组合。",
-      "bestTimeToVisit": "素可泰的理想旅行时间为11月至次年2月，凉季气温舒适（15-25°C），非常适合在露天探索寺庙废墟。12月和1月尤为宜人，湿度低、降雨少，但游客也较多。3月至5月为热季，气温达35-40°C，白天参观寺庙会很疲惫，但人群较少。雨季（5月-10月）降雨充沛，尤其是8月-9月，可能影响观光，但景色郁郁葱葱且住宿价格更低。如需在天气、舒适度和适当客流间取得最佳平衡，建议11月、12月或1月到访。",
-      "safetyTips": "素可泰总体上是一个非常安全的目的地，犯罪率低且当地居民热情好客。历史公园的寺庙可安全探索，但建议穿结实的鞋子（古石面不平整），携带充足的水和防晒用品（废墟间遮荫较少）。注意常规防范：避免展示贵重首饰或大量现金，在嘟嘟车和双条车上保管好随身物品，如不熟悉泰国交通状况则骑摩托车要谨慎。城镇本身路灯照明良好，居民友善；独行旅客无论男女都反映晚间在城里散步感觉安全。炎热季节注意防暑，充分补水，在阴凉处或空调房间休息。",
-      "translated_at": "2026-03-11T00:00:00.000Z"
-    },
-    "ru": {
-      "enhanced_description": "Когда солнце начинает клониться к горизонту, окутывая древние руины Сукхотая тёплым золотистым светом, вас охватывает осязаемое чувство истории. Воздух наполнен ароматом жасмина, а вдалеке звучит мелодия традиционной тайской флейты, увлекая вас в глубь первой столицы Таиланда. Сукхотай — это не просто исторический парк, это живая картина, сотканная из культуры, историй и вкусов на протяжении веков. Помню свой первый вечер в этом городе — я бродил по Историческому парку Сукхотай, когда последние лучи солнца целовали величественные ступы Ват Махатхат. Каждый шаг сопровождался мягким хрустом гравия под ногами, эхом шагов древних королей, некогда ступавших по этой священной земле.\n\nВ отличие от шумных улиц Бангкока или туристических пляжей Пхукета, Сукхотай предлагает тихое уединение, где прошлое шепчет среди деревьев. Исторический парк с его величественными руинами и безмятежными озёрами — настоящая жемчужина, но по-настоящему очаровывают истории, скрытые за этими стенами. Помню, как сидел на берегу реки Йом, наблюдая за местными рыбаками, забрасывающими сети, — их смех переплетался с плеском воды о берег. Именно здесь я узнал о традиционных техниках рыбной ловли, передающихся из поколения в поколение, напоминающих о простой, но глубокой связи между человеком и землёй.\n\nОдин из самых запоминающихся моментов — посещение Ват Си Чум, где огромная статуя Будды словно заглядывает в самую глубину вашей души. Я сел, скрестив ноги, на прохладный каменный пол, впитывая энергию этого места. Пожилой монах подошёл ко мне, его глаза светились мудростью, и рассказал, как этот храм служил убежищем в неспокойные времена. Именно такие личные встречи делают Сукхотай особенным — каждый разговор становится нитью, связывающей вас с тканью местной жизни.\n\nГород также является кулинарным раем, где вкусы отражают его богатую историю. Уличные торговцы предлагают такие блюда, как Khao Soi — миску сливочной кокосовой лапши карри, согревающей сердце и душу. Помню, как впервые попробовал его на маленьком лотке у Исторического парка; хозяйка — добрая женщина по имени Аун — настояла, чтобы я добавил лайма для свежести. Улыбка, которой она одарила меня после первого глотка, навсегда запечатлелась в моей памяти.\n\nСукхотай отличается от других направлений Таиланда не только потрясающими руинами, но и духом гостеприимства. Это место, где время замедляется, позволяя вам вдохнуть красоту жизни. Будь то утренняя велопрогулка по парку, когда туман стелется над землёй мягким покрывалом, или участие в фестивале небесных фонариков, освещающих ночное небо, — Сукхотай приглашает вас соединиться с его душой. Это город-секрет, ожидающий тех, кто ищет более глубокого понимания тайской души.",
-      "hidden_gems": [
-        {
-          "name": "Рынок Старого города",
-          "story": "В тихий будний день я случайно набрёл на этот оживлённый рынок. Местные жители собирались вокруг, делясь историями за мисками дымящегося супа с лапшой. Одна торговка — бабушка с тёплой улыбкой — научила меня делать идеальные спринг-роллы, и я до сих пор пользуюсь её секретами.",
-          "how_to_find": "От Исторического парка идите на восток по главной дороге, пока не увидите красочные прилавки вдоль улицы.",
-          "best_time": "Ранним утром или ближе к вечеру — атмосфера оживлённая, а температура приятнее.",
-          "local_insights": [
-            "Возьмите с собой небольшую сумку для покупок; торг уместен, но всегда с улыбкой."
-          ]
-        },
-        {
-          "name": "Wat Phra Pai Luang",
-          "story": "Этот малоизвестный храм покорил меня своей изысканной архитектурой. Я был единственным посетителем, окружённый звуками природы и редким щебетом птиц. Местный художник делал зарисовки храма, и мы разговорились об искусстве и истории.",
-          "how_to_find": "Расположен чуть в стороне от основных маршрутов — следуйте указателям с главной дороги в сторону Исторического парка Сукхотай.",
-          "best_time": "Ближе к вечеру, когда свет создаёт красивые тени на стенах храма.",
-          "local_insights": [
-            "Не спешите — это идеальное место для размышлений и фотографии."
-          ]
-        }
-      ],
-      "authentic_experiences": [
-        {
-          "activity": "Традиционный тайский кулинарный мастер-класс",
-          "story": "Я записался на кулинарный мастер-класс у местной семьи, где мы собирали свежие травы прямо из их сада. Совместное приготовление еды было не просто готовкой — это был опыт единения, наполненный смехом и открытиями.",
-          "cultural_significance": "Еда — в самом сердце тайской культуры, и обучение приготовлению традиционных блюд связывает вас с местным сообществом.",
-          "how_to_participate": "Запишитесь в местные кулинарные школы или узнайте рекомендации в отеле.",
-          "insights": [
-            "Не бойтесь остроты — местные обычно предпочитают очень острые блюда!"
-          ]
-        },
-        {
-          "activity": "Велопрогулка среди руин",
-          "story": "Арендовать велосипед и проехать по Историческому парку на рассвете — один из самых волшебных моментов в моей жизни. Мягкий свет и тишина позволили глубже прочувствовать величие древних сооружений.",
-          "cultural_significance": "Велосипед — любимый местный способ досуга, дающий уникальную перспективу на исторические памятники.",
-          "how_to_participate": "Велосипеды можно арендовать в магазинах у входа в парк.",
-          "insights": [
-            "Выезжайте рано, чтобы избежать жары и толп, и не забудьте фотоаппарат!"
-          ]
-        }
-      ],
-      "foodie_adventures": [
-        {
-          "dish": "Khao Soi",
-          "location": "Aun's Noodle Stall near the Historical Park",
-          "story": "Первый глоток Khao Soi перевернул мою жизнь. Аун настояла на добавлении своего секретного масла чили, которое вывело блюдо на совершенно новый уровень.",
-          "price_range": "Around 50 baht for a generous bowl.",
-          "ordering_tips": [
-            "Попросите побольше лайма и масла чили — это меняет всё!"
-          ]
-        },
-        {
-          "dish": "Moo Pad Krapow",
-          "location": "Local street vendor near the Old City Market",
-          "story": "Шкворчание свиного фарша с базиликом на раскалённом воке было неотразимо. Торговец — жизнерадостный молодой человек — добавил свежий чили и подал блюдо на жасминовом рисе с жареным яйцом сверху.",
-          "price_range": "About 40 baht for a hearty serving.",
-          "ordering_tips": [
-            "Укажите желаемую степень остроты — местные обычно выбирают максимальную!"
-          ]
-        }
-      ],
-      "overview": "Сукхотай расположен в северном регионе Таиланда и хранит одно из важнейших археологических сокровищ Юго-Восточной Азии: Исторический парк Сукхотай — объект Всемирного наследия ЮНЕСКО с руинами первой столицы Таиланда. Этот тихий город с населением всего 37 000 человек предлагает подлинное погружение в тайскую историю без толп крупных туристических направлений. Древнее королевство оставило прекрасно сохранившиеся храмы, изящные статуи Будды и архитектурные шедевры, переносящие посетителей в XIII–XV века, когда Сукхотай был сердцем тайской цивилизации.",
-      "thingsToDo": "Главные достопримечательности Сукхотая сосредоточены вокруг Исторического парка — объекта ЮНЕСКО. Ват Махатхат (вход 100 THB/$3) славится культовыми ступами в форме бутона лотоса и умиротворёнными статуями Будды. Ват Си Чум (100 THB/$3) хранит огромную сидящую статую Будды, видную через узкий проём в стенах храма. Wat Saphan Hin (100 THB/$3) — храм на вершине холма с панорамным видом на древний город. Национальный музей Рамкамхенга (150 THB/$4) демонстрирует важные исторические артефакты, включая надпись короля Рамкамхенга. Исторический парк Си Сатчаналай в 35 км к северу (100 THB/$3) представляет древние печи и хорошо сохранившиеся храмы. Живописная река Йом предлагает велодорожки и лодочные прогулки, а Старый город — подлинные тайские рынки и местную культуру. Аренда велосипеда (50–100 THB/$2–3/день) идеальна для ровной территории парка.",
-      "whereToStay": "Размещение в Сукхотае варьируется от бюджетных гестхаусов до отелей среднего класса, в основном в районе современного города в 12 км от Исторического парка. Бюджетные путешественники найдут чистые гестхаусы и хостелы за $15–30/ночь с вентилятором или кондиционером и общими удобствами. Отели среднего уровня ($40–80/ночь) предлагают комфортные номера с собственной ванной, кондиционером, бассейном и рестораном. Удобно останавливаться рядом с центральным рынком или вдоль главных дорог — легко доехать на тук-туке до Исторического парка. Для тех, кто хочет быть ближе к храмам, есть несколько вариантов у входа в парк, но цены чуть выше. По сравнению с Бангкоком или курортными городами, отели Сукхотая отличаются отличным соотношением цены и качества.",
-      "gettingAround": "Лучший способ передвижения по Сукхотаю — тук-туки для коротких поездок и до Исторического парка. Сонгтэо (маршрутные микроавтобусы) курсируют по фиксированным маршрутам за 20–40 THB. Аренда мотоцикла (150–200 THB/$5–7/день) даёт свободу для исследования обширного парка. Велосипеды (50–100 THB/$2–3/день) популярны благодаря ровному рельефу. Сервис Grab доступен по фиксированным ценам. Для осмотра всех храмов парка понадобится сочетание транспорта — пешие прогулки, велосипед и периодические поездки на тук-туке.",
-      "bestTimeToVisit": "Лучшее время для посещения Сукхотая — с ноября по февраль, когда в прохладный сезон комфортная температура (15–25°C) идеальна для осмотра храмовых руин под открытым небом. Декабрь и январь особенно приятны — низкая влажность, мало дождей, но и больше туристов. С марта по май — жаркий сезон с температурой 35–40°C, дневные прогулки по храмам утомительны, но людей меньше. Сезон дождей (май–октябрь) приносит обильные осадки, особенно в августе–сентябре, что может помешать осмотру, но зелень пышная, а цены на жильё ниже. Оптимальный баланс погоды, комфорта и умеренного потока туристов — ноябрь, декабрь или январь.",
-      "safetyTips": "Сукхотай — в целом очень безопасное направление с низким уровнем преступности и дружелюбными местными жителями. Храмы Исторического парка безопасны для прогулок, но рекомендуется надевать прочную обувь (старые каменные поверхности неровные), брать достаточно воды и средства от солнца (тени среди руин мало). Соблюдайте стандартные меры предосторожности: не демонстрируйте дорогие украшения или крупные суммы наличных, следите за вещами в тук-туках и сонгтэо, будьте осторожны на мотоцикле, если не привыкли к тайскому дорожному движению. Город хорошо освещён, жители приветливы; одинокие путешественники любого пола отмечают, что чувствуют себя в безопасности, гуляя вечером по городу. В жаркий сезон берегитесь теплового удара — пейте больше воды и отдыхайте в тени или кондиционированных помещениях.",
-      "translated_at": "2026-03-11T00:00:00.000Z"
-    },
-    "ko": {
-      "enhanced_description": "수코타이는 태국 북부에 위치한 역사적인 도시로, 1238년 태국 최초의 통일 왕국인 수코타이 왕국의 수도였습니다. 수코타이 역사공원은 유네스코 세계유산으로, 동남아시아에서 가장 인상적인 고대 유적지 중 하나입니다.\n\n왓 마하탓은 역사공원의 중심 사원으로, 연꽃 봉오리 모양의 체디와 거대한 좌불상이 인상적입니다. 해질녘 유적 사이로 비치는 황금빛 석양은 수코타이에서만 볼 수 있는 장관입니다. 11월 로이끄라통 축제 기간에는 유적이 조명으로 장식되어 환상적인 분위기를 연출합니다.\n\n자전거를 빌려 역사공원을 둘러보는 것이 가장 추천하는 방법입니다. 넓은 공원 안에 수십 개의 사원과 불상이 흩어져 있어, 자전거로 여유롭게 탐험할 수 있습니다. 왓 프라 파이 루앙과 왓 시 춤은 덜 알려졌지만 아름다운 유적입니다.",
-      "hidden_gems": [
-        {
-          "name": "구시가지 시장",
-          "description": "현지인들이 즐겨 찾는 소박한 시장으로, 수코타이 명물 국수를 맛볼 수 있습니다."
-        },
-        {
-          "name": "왓 프라 파이 루앙",
-          "description": "역사공원 북쪽의 덜 알려진 유적으로, 관광객이 적어 조용히 탐험할 수 있습니다."
-        }
-      ],
-      "authentic_experiences": [
-        {
-          "name": "전통 태국 요리 교실",
-          "description": "현지 재료로 수코타이 명물 국수와 태국 요리를 배우는 쿠킹 클래스입니다."
-        },
-        {
-          "name": "유적 자전거 투어",
-          "description": "자전거를 타고 역사공원의 사원과 불상을 여유롭게 둘러보는 투어입니다."
-        }
-      ],
-      "foodie_adventures": [
-        {
-          "name": "카오소이",
-          "description": "코코넛 커리 국수로, 수코타이 지역에서도 맛볼 수 있는 북부 태국의 대표 요리입니다."
-        },
-        {
-          "name": "무팟끄라파오",
-          "description": "바질 향 가득한 볶음 돼지고기로, 밥과 함께 먹는 태국의 대표 일상식입니다."
-        }
-      ],
-      "overview": "수코타이는 태국 북부에 위치하며, 동남아시아에서 가장 인상적인 고대 유적지 중 하나인 유네스코 세계유산 수코타이 역사공원이 있습니다. 태국 최초의 왕국의 수도였던 역사적 도시입니다.",
-      "thingsToDo": "수코타이의 주요 명소는 유네스코 세계유산인 수코타이 역사공원을 중심으로 합니다. 왓 마하탓의 거대 좌불상을 감상하고, 자전거로 공원 전체를 탐험하세요. 왓 프라 파이 루앙과 왓 시 춤도 방문할 가치가 있습니다. 11월 로이끄라통 축제는 수코타이의 하이라이트입니다.",
-      "whereToStay": "수코타이의 숙소는 예산 게스트하우스부터 중급 호텔까지 다양합니다. 역사공원 근처(올드시티)에 분위기 있는 숙소가 있고, 뉴시티에는 편의시설이 가까운 호텔이 있습니다.",
-      "gettingAround": "수코타이는 툭툭으로 이동하거나 역사공원에서는 자전거 대여(30-50바트/일)가 가장 좋습니다. 올드시티와 뉴시티 사이는 송태우로 이동합니다.",
-      "bestTimeToVisit": "수코타이의 최적 방문 시기는 11월부터 2월까지입니다. 서늘하고 건조하며, 11월 보름달에 열리는 로이끄라통 축제가 특히 유명합니다. 3-5월은 매우 덥습니다.",
-      "safetyTips": "수코타이는 매우 안전한 도시입니다. 역사공원 자전거 투어 시 자외선 차단과 충분한 수분 섭취에 주의하세요. 우기(6-10월)에는 일부 유적 주변이 침수될 수 있습니다.",
-      "translated_at": "2026-03-14T00:00:00.000Z"
-    }
-  },
-  "extended_description": "## Overview\nSukhothai — meaning \"Dawn of Happiness\" — was the cradle of Thai civilization, serving as the kingdom's first capital from 1238 to 1438. Today its ruins are preserved in the magnificent Sukhothai Historical Park, a UNESCO World Heritage Site spread across 70 square kilometers with the remains of more than 190 temples, stupas, and royal structures. The atmosphere is unlike anything else in Thailand: instead of crowded tourist attractions, you find serene lotus ponds reflecting ancient Buddha statues, crumbling laterite walls overgrown with tropical trees, and remarkably few visitors compared to Ayutthaya or Angkor Wat. The park is divided into five zones, with the central zone containing the most impressive temples clustered around the royal palace grounds. Modern Sukhothai (New Sukhothai) sits 12 kilometers east as a small, pleasant Thai town with good food, friendly guesthouses, and a genuine local character that feels untouched by mass tourism.\n\n## Best Time to Visit\nNovember through February is the ideal season, with cool temperatures (20-30 degrees Celsius), clear skies, and comfortable cycling conditions. The Loy Krathong festival in November is spectacularly celebrated at Sukhothai Historical Park with a sound-and-light show and floating lanterns among the ruins — it is arguably the most beautiful Loy Krathong celebration in all of Thailand. March through May is scorching hot (up to 40 degrees), making temple cycling exhausting — start before 7am if you visit then. The rainy season (June to October) brings afternoon showers that can temporarily flood some pathways in the park, but mornings are often clear and the ruins look dramatic in moody light.\n\n## How to Get There\nThere is no railway to Sukhothai. Direct buses from Bangkok's Mo Chit terminal take 7-8 hours (350-500 THB for standard, up to 550 THB for VIP). Alternatively, fly to Sukhothai Airport with Bangkok Airways (1 hour 20 minutes, the only airline on this route, typically 2,500-5,000 THB — expensive but scenic). A more budget-friendly flight option is to fly to Phitsanulok (1 hour, 1,000-2,500 THB on multiple airlines) and then take a bus or minivan to Sukhothai (1 hour, 60-80 THB). From Chiang Mai, buses take 5-6 hours (250-350 THB). Local songthaews between New Sukhothai and Old Sukhothai (the historical park area) run from 6:30am to 5pm and cost 30 THB per person. Tuk-tuks from the bus station charge a posted 60 THB to New Sukhothai guesthouses or 150 THB to Old Sukhothai.\n\n## Where to Stay\nMost travelers stay in either New Sukhothai or Old Sukhothai. New Sukhothai has the widest range of budget accommodation — guesthouses and hostels from 250-500 THB, mid-range hotels from 600-1,500 THB — plus the town's restaurants and night market. Old Sukhothai (near the historical park) is more atmospheric for early-morning temple visits, with charming guesthouses and small resorts from 400-2,500 THB set among rice paddies. The area around the park entrance has several bike-friendly guesthouses that include bicycle rental. For a splurge, Sukhothai Heritage Resort and Legendha Sukhothai Resort both offer pool villas near the park from 3,000-6,000 THB.\n\n## What to Do\nRent a bicycle (30-50 THB per day from shops near the park entrance) and explore at your own pace — cycling is the definitive Sukhothai experience. The central zone (100 THB entry for foreigners) contains the most important ruins: Wat Mahathat, the spiritual heart of old Sukhothai with its iconic lotus-bud stupas and seated Buddhas; Wat Sri Sawai with its three Khmer-style prangs; and the royal palace foundations. The northern zone (100 THB separately) holds Wat Si Chum, home to a massive seated Buddha framed by narrow slit walls — one of the most photographed images in Thai travel. The western zone is the most atmospheric and least visited, with hilltop temples and forested paths. Budget an entire day to cover all three main zones (330 THB total for all zone entries plus bicycle). In the evening, explore the Ramkhamhaeng National Museum (150 THB) for context on Sukhothai-era art and the invention of the Thai script.\n\n## Food & Dining\nSukhothai noodles (kuay tiao Sukhothai) are the local specialty and arguably the best noodle soup in Thailand — a slightly sweet broth with sliced pork, green beans, ground peanuts, and dried chili, served at shops throughout both old and new towns (40-60 THB per bowl). New Sukhothai's night market along the river operates nightly with grilled meats, som tam, pad Thai, and seasonal fruits (30-60 THB per dish). Old Sukhothai has a smaller selection of restaurants near the park entrance, but the family-run shops serve excellent home-style Thai food. For coffee and breakfast, several small cafes near the park offer espresso drinks and Thai-style breakfasts. Do not miss the local dessert sangkhaya fak thong (pumpkin custard) sold at the market.\n\n## Budget Guide\nSukhothai is one of Thailand's most affordable destinations. Backpackers can easily manage on 600-1,000 THB per day (17-28 USD): guesthouse (250-400 THB), noodle meals and market food (100-200 THB), bicycle rental (30-50 THB), and park entry (100-330 THB depending on zones). Mid-range travelers spend 1,500-3,000 THB per day (42-83 USD): comfortable hotel, restaurant dining, guided cycling tour (1,500-2,000 THB for a full day with English-speaking guide). Everything is walkable or bikeable, so transport costs are nearly zero once you are at the park.\n\n## Safety & Tips\nSukhothai is extremely safe — it is a quiet, rural Thai town with very low crime. The biggest risks are sunburn and dehydration while cycling the ruins: bring sunscreen, a hat, and at least 1.5 liters of water per person. Start cycling before 8am to enjoy the ruins in cooler morning light and avoid the worst midday heat. Stray dogs roam the park but are generally harmless — do not feed them. During Loy Krathong (usually November), book accommodation months ahead as the town fills completely. The historical park is well-maintained and bike paths are flat and easy — suitable for all ages and fitness levels. Mosquito repellent is useful for late-afternoon visits near the lotus ponds.",
-  "getting_there": {
-    "from_bangkok": {
-      "flight": "1h 20min to Sukhothai Airport (Bangkok Airways only, 2,500-5,000 THB) or 1h to Phitsanulok (multiple airlines, 1,000-2,500 THB) + 1h bus",
-      "bus": "7-8 hours from Mo Chit, 350-550 THB"
-    },
-    "from_chiang_mai": {
-      "bus": "5-6 hours, 250-350 THB"
-    },
-    "local": "Songthaew New-Old Sukhothai 30 THB, bicycle rental 30-50 THB/day at park entrance",
-    "airport": "Sukhothai Airport (THS) — Bangkok Airways only; or Phitsanulok Airport (PHS)"
-  },
-  "best_time": {
-    "peak": "Nov-Feb (cool season, Loy Krathong in Nov)",
-    "shoulder": "Mar, Oct",
-    "low": "Apr-Sep (extreme heat Apr-May, rain Jun-Sep)",
-    "avoid": "April-May midday cycling (temperatures reach 40°C)",
-    "best_months": "Nov-Jan",
-    "why": "Cool weather for cycling, Loy Krathong festival, clear skies for photography."
-  },
-  "budget": {
-    "backpacker": "$17-28/day",
-    "mid_range": "$42-83/day",
-    "luxury": "$100+/day",
-    "typical_meal": "40-60 THB noodles, 100-200 THB restaurant"
-  },
-  "neighborhoods": [
+  "contentSources": [
     {
-      "name": "Old Sukhothai (Historical Park area)",
-      "vibe": "Atmospheric guesthouses among rice paddies, steps from ruins, quiet evenings",
-      "best_for": "History buffs, photographers, early-morning temple explorers",
-      "price_range": "400-6,000 THB/night"
+      "type": "tourism-office",
+      "title": "Sukhothai Province Page",
+      "creator": "Tourism Authority of Thailand",
+      "url": "https://www.tourismthailand.org/Destinations/Provinces/Sukhothai/114",
+      "description": "Used for province-wide framing around Sukhothai Historical Park, Wat Si Chum, ceramic heritage, and Loy Krathong positioning."
     },
     {
-      "name": "New Sukhothai",
-      "vibe": "Working Thai town, night market, bus station, wider food and accommodation choice",
-      "best_for": "Budget travelers, foodies, those wanting evening entertainment",
-      "price_range": "250-1,500 THB/night"
+      "type": "world-heritage",
+      "title": "Historic Town of Sukhothai and Associated Historic Towns",
+      "creator": "UNESCO World Heritage Centre",
+      "url": "https://whc.unesco.org/en/list/574/",
+      "description": "Used for the historical framing of Sukhothai as the capital of the first Kingdom of Siam and for the wider Sukhothai-style context."
+    },
+    {
+      "type": "attraction",
+      "title": "Sukhothai Historical Park Contact and Map",
+      "creator": "Fine Arts Department",
+      "url": "https://virtualhistoricalpark.finearts.go.th/sukhothai/index.php/en/map.html",
+      "description": "Used for the official park authority, zone structure, and current note that opening hours and admission are managed by the park itself."
+    },
+    {
+      "type": "tourism-office",
+      "title": "Explore Thai taste Thai foodie map 2.0",
+      "creator": "Tourism Authority of Thailand",
+      "url": "https://www.tourismthailand.org/Articles/explore-thai-taste-thai-foodie-map-2-0-en",
+      "description": "Used for the current Sukhothai shortlist of Je Hae Sukhothai Noodles, Mai Klang Krung, Mee Khao Pan Pak, Jay Pao, and Khanom Wong Mae Prapai."
+    },
+    {
+      "type": "community",
+      "title": "Mueang Kao Sukhothai Community Based Tourism Club",
+      "creator": "Tourism Product Division, Tourism Authority of Thailand",
+      "url": "https://tourismproduct.tourismthailand.org/en/2025/06/23/%E0%B8%8A%E0%B8%A1%E0%B8%A3%E0%B8%A1%E0%B8%AA%E0%B9%88%E0%B8%87%E0%B9%80%E0%B8%AA%E0%B8%A3%E0%B8%B4%E0%B8%A1%E0%B8%81%E0%B8%B2%E0%B8%A3%E0%B8%97%E0%B9%88%E0%B8%AD%E0%B8%87%E0%B9%80%E0%B8%97%E0%B8%B5%E0%B9%88%E0%B8%A2%E0%B8%A7%E0%B9%82%E0%B8%94%E0%B8%A2%E0%B8%8A%E0%B8%B8%E0%B8%A1%E0%B8%8A%E0%B8%99%E0%B9%80%E0%B8%A1%E0%B8%B7%E0%B8%AD%E0%B8%87%E0%B9%80%E0%B8%81%E0%B9%88%E0%B8%B2%E0%B8%AA%E0%B8%B8%E0%B9%82%E0%B8%82%E0%B8%97%E0%B8%B1%E0%B8%A2/",
+      "description": "Used for current Mueang Kao community activities and the old-city cultural layer surrounding the park."
+    },
+    {
+      "type": "transport",
+      "title": "Sukhothai Airport",
+      "creator": "Bangkok Airways",
+      "url": "https://www.bangkokair.com/boutique-airports/sukhothai-airport",
+      "description": "Used for current airport ownership and airport-as-gateway context."
+    },
+    {
+      "type": "transport",
+      "title": "Airport Business",
+      "creator": "Bangkok Airways",
+      "url": "https://investor.bangkokair.com/en/company-overview/business-overview/airport-business",
+      "description": "Used for the current statement that Bangkok Airways owns and operates Sukhothai Airport as a gateway to the central-northern heritage region."
+    },
+    {
+      "type": "hotel",
+      "title": "Sriwilai Sukhothai Resort & Spa",
+      "creator": "Sriwilai Sukhothai Resort & Spa",
+      "url": "https://sriwilaisukhothai.com/",
+      "description": "Used for old-city resort positioning, rice-field outlook, and proximity to the park."
+    },
+    {
+      "type": "hotel",
+      "title": "Legendha Sukhothai Resort",
+      "creator": "Legendha Sukhothai Resort",
+      "url": "https://www.legendhasukhothai.com/",
+      "description": "Used for old-city hotel positioning, Thai-village concept, and proximity to the historical park."
+    },
+    {
+      "type": "restaurant",
+      "title": "Dining at Legendha Sukhothai",
+      "creator": "Legendha Sukhothai Resort",
+      "url": "https://www.legendhasukhothai.com/sukhothai-dining/",
+      "description": "Used for Nam Khang Restaurant and its old-city canal-side dining context."
+    },
+    {
+      "type": "hotel",
+      "title": "Le Charme Sukhothai Resort",
+      "creator": "Le Charme Sukhothai Resort",
+      "url": "https://www.lecharmesukhothai.com/",
+      "description": "Used for boutique old-city positioning, lotus-pond surroundings, and walking distance context."
+    },
+    {
+      "type": "hotel",
+      "title": "Tharaburi Resort Contact",
+      "creator": "Tharaburi Resort",
+      "url": "https://tharaburiresort.com/contact-us/",
+      "description": "Used for old-city location, proximity to the historical park, and airport transfer context."
+    },
+    {
+      "type": "hotel",
+      "title": "Ruean Thai Hotel Sukhothai",
+      "creator": "Ruean Thai Hotel",
+      "url": "https://rueanthaihotel.com/",
+      "description": "Used for the traditional-style new-town hotel positioning, bus access, and Ruean Ther restaurant context."
+    },
+    {
+      "type": "restaurant",
+      "title": "Ruean Thai Hotel Services",
+      "creator": "Ruean Thai Hotel",
+      "url": "https://rueanthaihotel.com/services/",
+      "description": "Used for Ruean Ther Restaurant & Bar and its all-day operation in new Sukhothai."
+    },
+    {
+      "type": "hotel",
+      "title": "Sukhothai Heritage Resort",
+      "creator": "Sukhothai Heritage Resort",
+      "url": "https://sabaisabaihospitality.com/heritageresort/en/index.php",
+      "description": "Used for the airport-adjacent location between Sukhothai and Si Satchanalai."
+    },
+    {
+      "type": "hotel",
+      "title": "Sabai Sabai Sukhothai",
+      "creator": "Sabai Sabai Hospitality Group",
+      "url": "https://www.sabaisabaihospitality.com/sukhothai/en/",
+      "description": "Used as secondary confirmation for the airport-side and between-the-parks accommodation belt in Sawankhalok."
     }
   ],
-  "must_try_food": [
-    "Kuay tiao Sukhothai (Sukhothai noodles) — sweet-savory broth with sliced pork, green beans, ground peanuts, and dried chili (40-60 THB)",
-    "Sangkhaya fak thong (pumpkin custard) — creamy coconut custard steamed inside a pumpkin, sold at the night market (30-50 THB)",
-    "Grilled pork skewers (moo ping) at the New Sukhothai night market — smoky, sweet, and served with sticky rice (10-20 THB each)"
-  ],
-  "local_tips": [
-    "Rent a bicycle (30-50 THB) and start at the central zone before 8am — you will have the ruins almost to yourself in golden morning light",
-    "Do not skip the northern zone for Wat Si Chum — the giant seated Buddha framed by narrow walls is one of Thailand's most iconic images",
-    "The Loy Krathong festival (November) at Sukhothai Historical Park is the most spectacular in Thailand — book accommodation months ahead",
-    "Buy a combined ticket if visiting multiple zones (330 THB for central + north + west) rather than paying separately",
-    "Songthaews between New and Old Sukhothai stop at 5pm — after that you need a tuk-tuk (150 THB) or your own transport"
-  ],
-  "day_trips": [
-    "Si Satchanalai Historical Park (55 km north) — less visited sister site with atmospheric hilltop ruins and Celadon pottery village (100 THB entry)",
-    "Ramkhamhaeng National Museum — context on Sukhothai-era art, the Thai script, and Khmer influences (150 THB)",
-    "Phitsanulok (60 km east) — Wat Phra Si Rattana Mahathat with Thailand's most beautiful Buddha image (Phra Buddha Chinnarat)",
-    "Cycling the countryside — rice paddies, local villages, and small temples beyond the main park zones (free, bring water)"
-  ],
-  "enriched_at": "2026-03-22"
+  "reviewed_by": "Go2Thailand Editorial Team",
+  "enhanced_at": "2026-03-27T00:00:00.000Z",
+  "factchecked_at": "2026-03-27T00:00:00.000Z",
+  "enrichedAt": "2026-03-27T00:00:00.000Z"
 }

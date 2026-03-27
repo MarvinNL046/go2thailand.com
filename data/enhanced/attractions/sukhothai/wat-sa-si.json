@@ -7,79 +7,72 @@
   },
   "type": "temple",
   "city_slug": "sukhothai",
-  "address": "Sukhothai Historical Park Central Zone",
-  "location": {
-    "lat": 17.0078,
-    "lng": 99.8237
-  },
-  "opening_hours": "06:00-18:00",
+  "address": "Central Zone, Sukhothai Historical Park, Mueang Kao, Sukhothai, Thailand",
+  "location": null,
+  "opening_hours": "Follow the current park opening arrangements and recheck locally before timing a sunrise-focused visit.",
   "entrance_fee": {
-    "thb": 100,
-    "usd": 3
+    "thb": null,
+    "usd": null
   },
   "description": {
-    "en": "Picturesque temple on small island surrounded by lotus pond",
-    "nl": "Pittoreske tempel op klein eiland omringd door lotusvijver"
+    "en": "A central-zone temple whose water setting makes it one of the park's best contrast stops after Wat Mahathat.",
+    "nl": "Een tempel in de centrale zone waarvan de waterligging hem een van de beste contraststops na Wat Mahathat maakt."
   },
   "highlights": [
-    "Island temple",
-    "Lotus pond",
-    "Picturesque setting",
-    "Peaceful atmosphere"
+    "Water-and-temple composition",
+    "Central-zone contrast",
+    "Best softer-light stop"
   ],
-  "image": "/images/cities/sukhothai/attractions/Wat Sa Si.webp",
-  "official_website": null,
+  "image": "/images/cities/sukhothai/attractions/Wat Sa Si in Sukhothai Historical Park at sunrise.webp",
+  "official_website": "https://virtualhistoricalpark.finearts.go.th/sukhothai/index.php/en/map.html",
   "seo": {
     "metaTitle": {
-      "en": "Wat Sa Si - Top Attraction in Sukhothai | Go2Thailand",
-      "nl": "Wat Sa Si - Top Attractie in Sukhothai | Go2Thailand"
+      "en": "Wat Sa Si Sukhothai | Go2Thailand",
+      "nl": "Wat Sa Si Sukhothai | Go2Thailand"
     },
     "metaDescription": {
-      "en": "Discover Wat Sa Si in Sukhothai. Picturesque temple on small island surrounded by lotus pond...",
-      "nl": "Ontdek Wat Sa Si in Sukhothai. Pittoreske tempel op klein eiland omringd door lotusvijver..."
+      "en": "How Wat Sa Si adds the best water-and-temple contrast inside Sukhothai's central zone and why it works as a companion to Wat Mahathat.",
+      "nl": "Hoe Wat Sa Si het beste water-en-tempelcontrast toevoegt binnen de centrale zone van Sukhothai en waarom hij als companion bij Wat Mahathat werkt."
     }
   },
   "tags": [
-    "temple",
     "sukhothai",
-    "thailand",
-    "attraction",
-    "travel",
-    "tourism"
+    "wat sa si",
+    "temple",
+    "central zone"
   ],
-  "enhanced_description": "Wat Sa Si is a stunning temple situated on a small island within a serene lotus pond, making it one of the most picturesque sights in Sukhothai Historical Park. Built in the 14th century during the Sukhothai Kingdom, this temple is dedicated to the Buddhist faith and reflects the artistic brilliance of that era. Visitors are greeted by the tranquil ambiance created by the surrounding water and blooming lotus flowers, which enhance the beauty of the ancient architecture. The temple features a large seated Buddha statue, surrounded by serene landscapes that invite reflection and meditation. As part of the UNESCO World Heritage Site, Wat Sa Si is not only a place of worship but also a symbol of Thailand's rich cultural heritage. The peaceful atmosphere and stunning views make it an ideal spot for photography and relaxation, allowing visitors to immerse themselves in the history and spirituality of Sukhothai. A visit here is both enlightening and refreshing, offering a moment of calm in the midst of exploration.",
-  "detailed_history": "Wat Sa Si was constructed during the reign of King Ramkhamhaeng, one of Thailand's most revered kings, who played a pivotal role in establishing the Sukhothai Kingdom as a cultural and political center in the 13th century. The temple is believed to have been built to house a relic of the Buddha, making it a significant pilgrimage site. The design of the temple reflects the classic Sukhothai style, with intricate stucco work and a harmonious blend of nature and architecture. The lotus pond surrounding the temple serves not only as a beautiful backdrop but also symbolizes purity in Buddhism. Over the centuries, Wat Sa Si has stood as a testament to the artistic and spiritual achievements of the Sukhothai era, attracting both local and international visitors eager to connect with Thailand's historical roots.",
-  "visitor_experience": "When visiting Wat Sa Si, guests can expect a peaceful stroll along pathways that lead to the temple, surrounded by lush greenery and lotus flowers. The main area features the iconic Buddha statue, which is a focal point for many visitors. The layout is designed to encourage contemplation, with quiet spots for meditation and reflection. A typical visit lasts about 30 to 60 minutes, allowing enough time to appreciate the beauty and tranquility of the site. Visitors often take the opportunity to capture stunning photographs of the temple reflecting on the pond, making it a memorable experience.",
+  "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=Wat%20Sa%20Si%20Sukhothai",
+  "best_time": "morning or late afternoon",
+  "duration_hours": 1,
+  "enhanced_description": "Wat Sa Si is one of the central-zone temples that really earns time because it changes the mood of the old city. After the architectural density of Wat Mahathat, the water setting here gives the park a softer and more reflective side that helps the wider layout feel coherent.\n\nThat is why Wat Sa Si works best as part of the central loop instead of as a detached attraction. It is not the biggest monument in Sukhothai, but it is one of the clearest places to feel how water, open space, and temple planning all worked together in the old city.",
+  "detailed_history": "Within the UNESCO-listed park, Wat Sa Si matters less as an isolated architectural headline than as part of the central-zone composition. Its relationship to the surrounding water is exactly what makes it a useful contrast to the heavier ceremonial core around Wat Mahathat.",
+  "visitor_experience": "Expect a shorter and calmer stop than at Wat Mahathat. The value here is in pacing, atmosphere, and how the monument changes your reading of the old city, not in volume of ruins alone.",
   "best_time_to_visit": {
-    "time_of_day": "Morning is the best time to visit, as the cooler temperatures and softer light create an ideal atmosphere for exploration and photography.",
-    "duration": "Recommended visit duration is 30 to 60 minutes.",
-    "crowd_level": "Crowd levels are typically lower in the early morning, making it easier to enjoy the peacefulness of the site. Avoid visiting during late morning and early afternoon when tourist groups are more prevalent."
+    "time_of_day": "Morning or late afternoon",
+    "duration": "Around 45 to 60 minutes",
+    "crowd_level": "Usually easier to absorb than the busier central monument cluster"
   },
-  "photography_tips": [
-    "The best photo spots include the Buddha statue with the lotus pond in the foreground, particularly during sunrise or sunset for optimal lighting.",
-    "Lighting conditions are best in the early morning and late afternoon when the sun casts a warm glow over the temple.",
-    "Instagram-worthy locations include angles that capture both the temple and the pond, especially with lotus flowers in bloom.",
-    "Be aware of photography restrictions during religious ceremonies and respect signs indicating no photography in certain areas."
-  ],
   "practical_info": {
-    "how_to_get_there": "Visitors can reach Wat Sa Si by walking from the main entrance of Sukhothai Historical Park, as it is located within the Central Zone. Bicycles are available for rent nearby, providing an enjoyable way to explore the park.",
-    "nearby_attractions": "Nearby attractions include Wat Mahathat, Wat Si Chum, and the Sukhothai Historical Park Museum, all within walking distance.",
-    "food_options": "There are small cafes and food stalls within the historical park offering traditional Thai snacks and refreshments.",
-    "shopping": "Souvenir shops are available at the park's entrance, where visitors can find local handicrafts and memorabilia."
+    "how_to_get_there": "Reach it inside the central zone as part of your first park loop.",
+    "nearby_attractions": "Best paired with Wat Mahathat rather than treated as a separate detour.",
+    "food_options": "Plan meals outside the central monument loop.",
+    "shopping": "Keep any shopping for after the heritage circuit rather than in the middle of it."
   },
   "insider_tips": [
-    "A lesser-known fact is that the lotus pond is home to various bird species, making it a great spot for birdwatching.",
-    "To make the most of your visit, consider arriving early to enjoy the beauty of the site in solitude before crowds arrive.",
-    "Many tourists miss the opportunity to explore the nearby smaller temples, which also offer unique historical insights.",
-    "Cultural etiquette includes dressing modestly, removing shoes before entering temple areas, and being respectful of local customs."
+    "Use Wat Sa Si to slow the pace of the central zone rather than to extend your checklist.",
+    "The temple works best as a companion stop after Wat Mahathat.",
+    "Softer light usually suits the water setting better than harsh midday conditions."
   ],
-  "seasonal_considerations": "The experience at Wat Sa Si changes with the seasons; the lotus flowers bloom most vibrantly during the rainy season, while the cooler months from November to February offer pleasant weather for exploration.",
-  "accessibility": "The temple is accessible for visitors with mobility issues, with pathways leading to the main areas, although some uneven ground may require assistance.",
-  "cultural_significance": "Wat Sa Si holds great importance in Thai culture as a representation of the Sukhothai Kingdom's architectural style and Buddhist spirituality, reflecting the country's deep-rooted traditions.",
-  "fun_facts": [
-    "Wat Sa Si is one of the few temples in Sukhothai that remains largely intact, providing a glimpse into the architectural prowess of the time.",
-    "The temple's name translates to 'Temple of the Lotus,' symbolizing purity and enlightenment in Buddhism.",
-    "It is rumored that the temple was once a gathering place for monks and scholars, making it an important center for learning and discussion."
-  ],
-  "enhanced_at": "2025-05-25T22:50:03.227Z"
+  "verified_note": "Source-backed summary based on official park references and UNESCO context. Recheck current park arrangements before travel day.",
+  "cultural_significance": "Wat Sa Si helps show that Sukhothai's old city was designed through relationships between monuments, water, and open ceremonial space rather than through isolated temple objects alone.",
+  "contentSources": [
+    {
+      "name": "Sukhothai Historical Park Contact and Map",
+      "url": "https://virtualhistoricalpark.finearts.go.th/sukhothai/index.php/en/map.html"
+    },
+    {
+      "name": "Historic Town of Sukhothai and Associated Historic Towns",
+      "url": "https://whc.unesco.org/en/list/574/"
+    }
+  ]
 }

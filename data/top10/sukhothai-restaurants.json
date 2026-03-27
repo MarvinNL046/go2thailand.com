@@ -1,245 +1,149 @@
 {
   "title": "Best Restaurants in Sukhothai Thailand (2026)",
-  "meta_description": "The 10 best restaurants in Sukhothai, Thailand with real ratings and guest reviews from tripadvisor. Updated 2026-03-08.",
-  "intro": "Discover the best restaurants in Sukhothai, Thailand. These recommendations are based on real guest reviews and ratings from tripadvisor.",
+  "meta_description": "The Sukhothai food picks that actually help plan the trip: real Sukhothai noodles, local specialties from TAT's foodie map, one fish-focused dinner, and one reliable hotel meal.",
+  "intro": "Sukhothai food gets weaker the moment it is reduced to scraped rankings and generic old-town restaurant filler. The stronger shortlist follows the current TAT foodie map and keeps the city's actual dining logic visible: one proper Sukhothai noodle stop, one broader local-menu restaurant, one specialty rice-flour dish, one fish-centered dinner, and one reliable polished meal near your base.",
   "items": [
     {
       "rank": 1,
-      "name": "Chanda,s Historical Garden Restaurant",
-      "description": "Chanda,s Historical Garden Restaurant is a 4.5-rated International, Asian restaurant in Sukhothai. Known for Pad Thai, Sukhothai Noodles.",
-      "location": "Sukhothai",
-      "current_price": "$",
+      "name": "Je Hae Sukhothai Noodles",
+      "description": "The clearest first stop for Sukhothai's signature noodle style, with TAT still highlighting the house-made noodles, red pork, roasted chili, and peanuts.",
+      "location": "Sukhothai city area",
+      "current_price": "Budget",
       "highlights": [
-        "Pad Thai",
-        "Sukhothai Noodles"
+        "Classic Sukhothai noodle bowl",
+        "House-made ingredients",
+        "Best first lunch stop"
       ],
-      "insider_tips": [],
-      "current_info": "Cuisine: International, Asian • Price: $ • Rating: 4.5/5 • 173 reviews",
-      "scraped": {
-        "source": "tripadvisor",
-        "cuisine": "International, Asian",
-        "price_range": "$",
-        "rating": 4.5,
-        "review_count": 173,
-        "highlights": [
-          "Pad Thai",
-          "Sukhothai Noodles"
-        ],
-        "scraped_at": "2026-03-08T16:58:41.684Z"
-      },
-      "trip_affiliate_url": "https://tp.media/r?marker=602467&trs=421888&p=7631&u=https%3A%2F%2Fwww.trip.com%2Fhotels%2Flist%3Fkeyword%3DChanda%252Cs%2520Historical%2520Garden%2520Restaurant%2520Sukhothai"
+      "insider_tips": [
+        "Use this after the morning park loop rather than squeezing it into a rushed transfer window."
+      ],
+      "current_info": "TAT's 2024 foodie map notes the shop has operated since 1994 and still treats it as one of the key names for the province's noodle identity."
     },
     {
       "rank": 2,
-      "name": "Poo Restaurant",
-      "description": "Poo Restaurant is a 3.9-rated International, Asian restaurant in Sukhothai. Known for Thai food.",
-      "location": "Sukhothai",
-      "current_price": "$",
+      "name": "Mai Klang Krung Restaurant",
+      "description": "A broader local-menu choice when you want more than noodles, especially for Sukhothai pad thai and khao kriap pak mor.",
+      "location": "Sukhothai city area",
+      "current_price": "Budget to mid-range",
       "highlights": [
-        "Thai food"
+        "Sukhothai pad thai",
+        "Khao kriap pak mor",
+        "Recipes tied to local ingredients"
       ],
-      "insider_tips": [],
-      "current_info": "Cuisine: International, Asian • Price: $ • Rating: 3.9/5 • 737 reviews",
-      "scraped": {
-        "source": "tripadvisor",
-        "cuisine": "International, Asian",
-        "price_range": "$",
-        "rating": 3.9,
-        "review_count": 737,
-        "highlights": [
-          "Thai food"
-        ],
-        "scraped_at": "2026-03-08T16:58:41.684Z"
-      },
-      "trip_affiliate_url": "https://tp.media/r?marker=602467&trs=421888&p=7631&u=https%3A%2F%2Fwww.trip.com%2Fhotels%2Flist%3Fkeyword%3DPoo%2520Restaurant%2520Sukhothai"
+      "insider_tips": [
+        "Pick this when the group wants a wider local menu instead of another noodle-only stop."
+      ],
+      "current_info": "TAT's foodie map specifically uses the restaurant to show recipes tied to Sukhothai ingredients and older family cooking."
     },
     {
       "rank": 3,
-      "name": "Phumphor Coffee Restaurant",
-      "description": "Phumphor Coffee Restaurant is a 4.6-rated Cafe, International restaurant in Sukhothai.",
-      "location": "Sukhothai",
-      "current_price": "$$ - $$$",
-      "highlights": [],
-      "insider_tips": [],
-      "current_info": "Cuisine: Cafe, International • Price: $$ - $$$ • Rating: 4.6/5 • 61 reviews",
-      "scraped": {
-        "source": "tripadvisor",
-        "cuisine": "Cafe, International",
-        "price_range": "$$ - $$$",
-        "rating": 4.6,
-        "review_count": 61,
-        "scraped_at": "2026-03-08T16:58:41.684Z"
-      },
-      "trip_affiliate_url": "https://tp.media/r?marker=602467&trs=421888&p=7631&u=https%3A%2F%2Fwww.trip.com%2Fhotels%2Flist%3Fkeyword%3DPhumphor%2520Coffee%2520Restaurant%2520Sukhothai"
+      "name": "Mee Khao Pan Pak",
+      "description": "One of the city's best specialty-food names if you want a local dish that does not feel interchangeable with standard Thai menus.",
+      "location": "Sukhothai city area",
+      "current_price": "Budget",
+      "highlights": [
+        "Khao perp",
+        "Veggie-wrap rice-flour dishes",
+        "Good second lunch option"
+      ],
+      "insider_tips": [
+        "This works better on a slower two-day plan than on a one-day monument sprint."
+      ],
+      "current_info": "TAT's foodie map still highlights Mee Khao Pan Pak for adapted central-northern rice-flour dishes and a house special sauce."
     },
     {
       "rank": 4,
-      "name": "Pizza House by Somprasong guesthouse",
-      "description": "Pizza House by Somprasong guesthouse is a 4.4-rated Italian, Pizza restaurant in Sukhothai. Known for spaghetti carbonara, lasagna, pizza margarita.",
-      "location": "Sukhothai",
-      "current_price": "$",
+      "name": "Jay Pao Restaurant",
+      "description": "A proper dinner-level local pick because TAT still frames it through locally sourced fish and long-running house recipes.",
+      "location": "Sukhothai city area",
+      "current_price": "Mid-range",
       "highlights": [
-        "spaghetti carbonara",
-        "lasagna",
-        "pizza margarita"
+        "Freshwater fish cooking",
+        "Shared-table dinner format",
+        "A better evening meal than another noodle stop"
       ],
-      "insider_tips": [],
-      "current_info": "Cuisine: Italian, Pizza • Price: $ • Rating: 4.4/5 • 346 reviews",
-      "scraped": {
-        "source": "tripadvisor",
-        "cuisine": "Italian, Pizza",
-        "price_range": "$",
-        "rating": 4.4,
-        "review_count": 346,
-        "highlights": [
-          "spaghetti carbonara",
-          "lasagna",
-          "pizza margarita",
-          "pork ribs"
-        ],
-        "scraped_at": "2026-03-08T16:58:41.684Z"
-      },
-      "trip_affiliate_url": "https://tp.media/r?marker=602467&trs=421888&p=7631&u=https%3A%2F%2Fwww.trip.com%2Fhotels%2Flist%3Fkeyword%3DPizza%2520House%2520by%2520Somprasong%2520guesthouse%2520Sukhothai"
+      "insider_tips": [
+        "Use this for dinner when you want one meal built around regional fish rather than resort dining."
+      ],
+      "current_info": "TAT's foodie map notes the restaurant has been open for over 23 years and is known for fish dishes based on local catch."
     },
     {
       "rank": 5,
-      "name": "Sureerat Restaurant",
-      "description": "Sureerat Restaurant is a 4.5-rated Asian, Thai restaurant in Sukhothai. Known for green curry.",
-      "location": "Sukhothai",
-      "current_price": "$$ - $$$",
+      "name": "Nam Khang Restaurant",
+      "description": "The best polished old-city restaurant when you want a calmer sit-down meal near the heritage zone and do not want to rely on scraped recommendation lists.",
+      "location": "Legendha Sukhothai Resort, Mueang Kao",
+      "current_price": "Mid-range",
       "highlights": [
-        "green curry"
+        "Wooden balcony over Mae Rampan canal",
+        "Breakfast, lunch, and dinner service",
+        "Best old-city hotel dining option"
       ],
-      "insider_tips": [],
-      "current_info": "Cuisine: Asian, Thai • Price: $$ - $$$ • Rating: 4.5/5 • 68 reviews",
-      "scraped": {
-        "source": "tripadvisor",
-        "cuisine": "Asian, Thai",
-        "price_range": "$$ - $$$",
-        "rating": 4.5,
-        "review_count": 68,
-        "highlights": [
-          "green curry"
-        ],
-        "scraped_at": "2026-03-08T16:58:41.684Z"
-      },
-      "trip_affiliate_url": "https://tp.media/r?marker=602467&trs=421888&p=7631&u=https%3A%2F%2Fwww.trip.com%2Fhotels%2Flist%3Fkeyword%3DSureerat%2520Restaurant%2520Sukhothai"
+      "insider_tips": [
+        "Keep this for the slower evening of the trip, not for the same midday slot as your main noodle stop."
+      ],
+      "current_info": "Legendha's official dining page positions Nam Khang as the resort's long-running Thai restaurant with indoor and open-air canal-side dining."
     },
     {
       "rank": 6,
-      "name": "Baitong thaifood Restaurant",
-      "description": "Baitong thaifood Restaurant is a 4.4-rated Asian, Thai restaurant in Sukhothai.",
-      "location": "Sukhothai",
-      "current_price": "$",
-      "highlights": [],
-      "insider_tips": [],
-      "current_info": "Cuisine: Asian, Thai • Price: $ • Rating: 4.4/5 • 60 reviews",
-      "scraped": {
-        "source": "tripadvisor",
-        "cuisine": "Asian, Thai",
-        "price_range": "$",
-        "rating": 4.4,
-        "review_count": 60,
-        "scraped_at": "2026-03-08T16:58:41.684Z"
-      },
-      "trip_affiliate_url": "https://tp.media/r?marker=602467&trs=421888&p=7631&u=https%3A%2F%2Fwww.trip.com%2Fhotels%2Flist%3Fkeyword%3DBaitong%2520thaifood%2520Restaurant%2520Sukhothai"
-    },
-    {
-      "rank": 7,
-      "name": "Na Khothai",
-      "description": "Na Khothai is a 4.7-rated Asian, Thai restaurant in Sukhothai. Known for Thai food.",
-      "location": "Sukhothai",
-      "current_price": "$",
+      "name": "Ruean Ther Restaurant & Bar",
+      "description": "A practical new-town dinner choice if you are staying in the city side and want a reliable table without heading back out to the old city.",
+      "location": "Ruean Thai Hotel, New Sukhothai",
+      "current_price": "Mid-range",
       "highlights": [
-        "Thai food"
+        "All-day service",
+        "Thai and international menu",
+        "Useful for new-town overnights"
       ],
-      "insider_tips": [],
-      "current_info": "Cuisine: Asian, Thai • Price: $ • Rating: 4.7/5 • 27 reviews",
-      "scraped": {
-        "source": "tripadvisor",
-        "cuisine": "Asian, Thai",
-        "price_range": "$",
-        "rating": 4.7,
-        "review_count": 27,
-        "highlights": [
-          "Thai food"
-        ],
-        "scraped_at": "2026-03-08T16:58:41.684Z"
-      },
-      "trip_affiliate_url": "https://tp.media/r?marker=602467&trs=421888&p=7631&u=https%3A%2F%2Fwww.trip.com%2Fhotels%2Flist%3Fkeyword%3DNa%2520Khothai%2520Sukhothai"
-    },
-    {
-      "rank": 8,
-      "name": "Sweet Rice Cafe",
-      "description": "Sweet Rice Cafe is a 4.5-rated Cafe, Thai restaurant in Sukhothai. Known for fried rice.",
-      "location": "Sukhothai",
-      "current_price": "$$ - $$$",
-      "highlights": [
-        "fried rice"
+      "insider_tips": [
+        "This is strongest on arrival or departure nights when convenience matters more than a heritage-zone dinner."
       ],
-      "insider_tips": [],
-      "current_info": "Cuisine: Cafe, Thai • Price: $$ - $$$ • Rating: 4.5/5 • 42 reviews",
-      "scraped": {
-        "source": "tripadvisor",
-        "cuisine": "Cafe, Thai",
-        "price_range": "$$ - $$$",
-        "rating": 4.5,
-        "review_count": 42,
-        "highlights": [
-          "fried rice"
-        ],
-        "scraped_at": "2026-03-08T16:58:41.684Z"
-      },
-      "trip_affiliate_url": "https://tp.media/r?marker=602467&trs=421888&p=7631&u=https%3A%2F%2Fwww.trip.com%2Fhotels%2Flist%3Fkeyword%3DSweet%2520Rice%2520Cafe%2520Sukhothai"
-    },
-    {
-      "rank": 9,
-      "name": "CHORPHAKA sukkhothai",
-      "description": "CHORPHAKA sukkhothai is a 3.9-rated Asian, Thai restaurant in Sukhothai.",
-      "location": "Sukhothai",
-      "current_price": "$$ - $$$",
-      "highlights": [],
-      "insider_tips": [],
-      "current_info": "Cuisine: Asian, Thai • Price: $$ - $$$ • Rating: 3.9/5 • 18 reviews",
-      "scraped": {
-        "source": "tripadvisor",
-        "cuisine": "Asian, Thai",
-        "price_range": "$$ - $$$",
-        "rating": 3.9,
-        "review_count": 18,
-        "scraped_at": "2026-03-08T16:58:41.684Z"
-      },
-      "trip_affiliate_url": "https://tp.media/r?marker=602467&trs=421888&p=7631&u=https%3A%2F%2Fwww.trip.com%2Fhotels%2Flist%3Fkeyword%3DCHORPHAKA%2520sukkhothai%2520Sukhothai"
-    },
-    {
-      "rank": 10,
-      "name": "Pai Sukhothai",
-      "description": "Pai Sukhothai is a 4-rated Asian, Thai restaurant in Sukhothai.",
-      "location": "Sukhothai",
-      "current_price": "$",
-      "highlights": [],
-      "insider_tips": [],
-      "current_info": "Cuisine: Asian, Thai • Price: $ • Rating: 4/5 • 166 reviews",
-      "scraped": {
-        "source": "tripadvisor",
-        "cuisine": "Asian, Thai",
-        "price_range": "$",
-        "rating": 4,
-        "review_count": 166,
-        "scraped_at": "2026-03-08T16:58:41.684Z"
-      },
-      "trip_affiliate_url": "https://tp.media/r?marker=602467&trs=421888&p=7631&u=https%3A%2F%2Fwww.trip.com%2Fhotels%2Flist%3Fkeyword%3DPai%2520Sukhothai%2520Sukhothai"
+      "current_info": "Ruean Thai Hotel's official service page presents Ruean Ther as an all-day restaurant and bar serving breakfast through dinner."
     }
+  ],
+  "local_wisdom": [
+    "Sukhothai noodles should be treated as a core city food, not as an afterthought.",
+    "The food layer is stronger when lunch and park routing support each other.",
+    "A fish-focused dinner adds more variety than a second noodle meal in the same day.",
+    "New-town hotel dining is practical, but the old-city area is usually more interesting if time allows."
+  ],
+  "budget_hacks": [
+    "Use the TAT foodie-map names first instead of paying more for generic hotel or tourist-menu meals.",
+    "Keep one specialty-food stop and one dinner-level stop; Sukhothai does not need constant restaurant-hopping to eat well.",
+    "If you stay in Mueang Kao, fold lunch into your park schedule instead of spending extra time and transport on unrelated food detours."
+  ],
+  "cultural_notes": [
+    "TAT's current foodie map is unusually useful here because it keeps genuinely local restaurant names visible.",
+    "Sukhothai food is broader than one noodle bowl; regional pad thai, rice-flour dishes, fish, and sweets all matter.",
+    "Dessert timing and slower meals often work better than treating every stop as a fast tourist turnover table."
   ],
   "city_slug": "sukhothai",
   "city_name": "Sukhothai",
   "category": "restaurants",
-  "data_sources": [
-    "tripadvisor",
-    "scraped"
+  "content_sources": [
+    {
+      "title": "Explore Thai taste Thai foodie map 2.0",
+      "creator": "Tourism Authority of Thailand",
+      "url": "https://www.tourismthailand.org/Articles/explore-thai-taste-thai-foodie-map-2-0-en",
+      "description": "Used for the current TAT shortlist of Sukhothai restaurants and the descriptions of Je Hae, Mai Klang Krung, Mee Khao Pan Pak, Jay Pao, and Khanom Wong Mae Prapai."
+    },
+    {
+      "title": "Dining at Legendha Sukhothai",
+      "creator": "Legendha Sukhothai Resort",
+      "url": "https://www.legendhasukhothai.com/sukhothai-dining/",
+      "description": "Used for Nam Khang Restaurant and its canal-side breakfast, lunch, and dinner service."
+    },
+    {
+      "title": "Ruean Thai Hotel Services",
+      "creator": "Ruean Thai Hotel",
+      "url": "https://rueanthaihotel.com/services/",
+      "description": "Used for Ruean Ther Restaurant & Bar and its all-day operation in new Sukhothai."
+    }
   ],
-  "last_scraped": "2026-03-08T16:58:41.684Z",
-  "generated_at": "2026-03-08T16:58:41.684Z",
-  "hybrid": false,
-  "scraped": true
+  "data_sources": [
+    "Tourism Authority of Thailand",
+    "Official restaurant and hotel pages"
+  ],
+  "generated_at": "2026-03-27T00:00:00.000Z",
+  "factchecked_at": "2026-03-27T00:00:00.000Z",
+  "hybrid": false
 }

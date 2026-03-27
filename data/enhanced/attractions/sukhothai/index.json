@@ -1,7 +1,7 @@
 {
   "city_slug": "sukhothai",
   "city_name": "Sukhothai",
-  "total_attractions": 10,
+  "total_attractions": 6,
   "attractions": [
     {
       "id": 1,
@@ -11,45 +11,49 @@
         "nl": "Sukhothai Historisch Park"
       },
       "type": "historic",
-      "image": "/images/cities/sukhothai/attractions/Aerial view of Wat Mahathat buddha and temple in Sukhothai Historical Park.webp",
+      "image": "/images/cities/sukhothai/attractions/Sukhothai Historical Park panorama.webp",
       "description": {
-        "en": "UNESCO World Heritage site with ruins of Thailand's first capital and ancient temples",
-        "nl": "UNESCO Werelderfgoed met ruïnes van Thailand's eerste hoofdstad en oude tempels"
+        "en": "The UNESCO-listed old city that gives Sukhothai its essential shape through walls, ponds, and a layered temple landscape.",
+        "nl": "De UNESCO-oude stad die Sukhothai zijn vorm geeft via muren, vijvers en een gelaagd tempellandschap."
       },
       "entrance_fee": {
-        "thb": 100,
-        "usd": 3
+        "thb": null,
+        "usd": null
       },
+      "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=Sukhothai%20Historical%20Park",
       "highlights": [
-        "UNESCO World Heritage",
-        "First Thai capital",
-        "Ancient temples"
+        "UNESCO core",
+        "Central-zone orientation loop",
+        "Best first half-day"
       ],
-      "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=Sukhothai%20Historical%20Park%20Sukhothai%20Thailand"
+      "best_time": "early morning",
+      "duration_hours": 4
     },
     {
       "id": 2,
       "slug": "wat-mahathat-sukhothai",
       "name": {
-        "en": "Wat Mahathat Sukhothai",
-        "nl": "Wat Mahathat Sukhothai"
+        "en": "Wat Mahathat",
+        "nl": "Wat Mahathat"
       },
       "type": "temple",
       "image": "/images/cities/sukhothai/attractions/Wat Mahathat temple complex and buddha statue in Sukhothai.webp",
       "description": {
-        "en": "Main temple of Sukhothai with iconic lotus-bud chedi and Buddha statues",
-        "nl": "Hoofdtempel van Sukhothai met iconische lotus-knop chedi en Boeddhabeelden"
+        "en": "The central monument that anchors the park and remains the clearest single expression of the Sukhothai style.",
+        "nl": "Het centrale monument dat het park verankert en de duidelijkste uitdrukking van de Sukhothai-stijl blijft."
       },
       "entrance_fee": {
-        "thb": 100,
-        "usd": 3
+        "thb": null,
+        "usd": null
       },
+      "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=Wat%20Mahathat%20Sukhothai",
       "highlights": [
+        "Central-zone anchor",
         "Lotus-bud chedi",
-        "Buddha statues",
-        "Main temple"
+        "Best first temple"
       ],
-      "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=Wat%20Mahathat%20Sukhothai%20Sukhothai%20Thailand"
+      "best_time": "early morning",
+      "duration_hours": 1.5
     },
     {
       "id": 3,
@@ -61,19 +65,21 @@
       "type": "temple",
       "image": "/images/cities/sukhothai/attractions/Big buddha of Wat Sri Chum temple.webp",
       "description": {
-        "en": "Famous temple housing massive seated Buddha statue visible through narrow opening",
-        "nl": "Beroemde tempel met massaal zittend Boeddhabeeld zichtbaar door smalle opening"
+        "en": "The strongest northern-zone temple thanks to the monumental Phra Achana image inside its square mondop.",
+        "nl": "De sterkste tempel in de noordzone dankzij het monumentale Phra Achana-beeld in de vierkante mondop."
       },
       "entrance_fee": {
-        "thb": 100,
-        "usd": 3
+        "thb": null,
+        "usd": null
       },
+      "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=Wat%20Si%20Chum%20Sukhothai",
       "highlights": [
-        "Massive seated Buddha",
-        "Narrow opening",
-        "Iconic temple"
+        "Phra Achana image",
+        "North-zone anchor",
+        "Best second-step temple"
       ],
-      "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=Wat%20Si%20Chum%20Sukhothai%20Thailand"
+      "best_time": "late morning",
+      "duration_hours": 1.5
     },
     {
       "id": 4,
@@ -85,46 +91,24 @@
       "type": "temple",
       "image": "/images/cities/sukhothai/attractions/Wat Sa Si in Sukhothai Historical Park at sunrise.webp",
       "description": {
-        "en": "Picturesque temple on small island surrounded by lotus pond",
-        "nl": "Pittoreske tempel op klein eiland omringd door lotusvijver"
+        "en": "A central-zone temple whose water setting makes it one of the park's best contrast stops after Wat Mahathat.",
+        "nl": "Een tempel in de centrale zone waarvan de waterligging hem een van de beste contraststops na Wat Mahathat maakt."
       },
       "entrance_fee": {
-        "thb": 100,
-        "usd": 3
+        "thb": null,
+        "usd": null
       },
+      "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=Wat%20Sa%20Si%20Sukhothai",
       "highlights": [
-        "Island temple",
-        "Lotus pond",
-        "Picturesque setting"
+        "Water-and-temple composition",
+        "Central-zone contrast",
+        "Best softer-light stop"
       ],
-      "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=Wat%20Sa%20Si%20Sukhothai%20Thailand"
+      "best_time": "morning or late afternoon",
+      "duration_hours": 1
     },
     {
       "id": 5,
-      "slug": "ramkhamhaeng-national-museum",
-      "name": {
-        "en": "Ramkhamhaeng National Museum",
-        "nl": "Ramkhamhaeng Nationaal Museum"
-      },
-      "type": "museum",
-      "image": "/images/extra images/Sukhothai Historical Park panorama.webp",
-      "description": {
-        "en": "Museum showcasing Sukhothai artifacts including the famous Ramkhamhaeng inscription",
-        "nl": "Museum met Sukhothai artefacten inclusief de beroemde Ramkhamhaeng inscriptie"
-      },
-      "entrance_fee": {
-        "thb": 150,
-        "usd": 4
-      },
-      "highlights": [
-        "Ramkhamhaeng inscription",
-        "Sukhothai artifacts",
-        "Historical museum"
-      ],
-      "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=Ramkhamhaeng%20National%20Museum%20Sukhothai%20Thailand"
-    },
-    {
-      "id": 6,
       "slug": "wat-saphan-hin",
       "name": {
         "en": "Wat Saphan Hin",
@@ -133,117 +117,47 @@
       "type": "temple",
       "image": "/images/cities/sukhothai/attractions/Wat Saphan Hin temple in Sukhothai Historic Park has beautiful views.webp",
       "description": {
-        "en": "Hilltop temple with standing Buddha statue and panoramic views of the plains",
-        "nl": "Heuvel tempel met staand Boeddhabeeld en panoramisch uitzicht over de vlaktes"
+        "en": "The best west-zone climb for travelers who want a standing Buddha viewpoint rather than another flat monument stop.",
+        "nl": "De beste klim in de westzone voor reizigers die een uitzichtpunt met staande Boeddha willen in plaats van nog een vlak monument."
       },
       "entrance_fee": {
-        "thb": 100,
-        "usd": 3
+        "thb": null,
+        "usd": null
       },
+      "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=Wat%20Saphan%20Hin%20Sukhothai",
       "highlights": [
-        "Hilltop temple",
-        "Standing Buddha",
-        "Panoramic views"
+        "Hilltop standing Buddha",
+        "West-zone contrast",
+        "Best one-climb addition"
       ],
-      "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=Wat%20Saphan%20Hin%20Sukhothai%20Thailand"
+      "best_time": "late afternoon",
+      "duration_hours": 2
     },
     {
-      "id": 7,
+      "id": 6,
       "slug": "si-satchanalai-historical-park",
       "name": {
         "en": "Si Satchanalai Historical Park",
         "nl": "Si Satchanalai Historisch Park"
       },
       "type": "historic",
-      "image": "/images/cities/sukhothai/attractions/Wat Chang Lom at Si Satchanalai Historical Park.webp",
+      "image": "/images/cities/generated/sukhothai.webp",
       "description": {
-        "en": "Sister city ruins with well-preserved temples and ancient kilns",
-        "nl": "Zusterstad ruïnes met goed bewaarde tempels en oude ovens"
+        "en": "The strongest second-day extension in the province and the one add-on that meaningfully deepens the wider Sukhothai kingdom story.",
+        "nl": "De sterkste tweede-dag-uitstap in de provincie en de ene add-on die het bredere verhaal van het Sukhothai-koninkrijk echt verdiept."
       },
       "entrance_fee": {
-        "thb": 100,
-        "usd": 3
+        "thb": null,
+        "usd": null
       },
+      "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=Si%20Satchanalai%20Historical%20Park",
       "highlights": [
-        "Sister city ruins",
-        "Ancient kilns",
-        "Well-preserved temples"
+        "Associated UNESCO town",
+        "Best second-day extension",
+        "Stronger than random provincial filler"
       ],
-      "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=Si%20Satchanalai%20Historical%20Park%20Sukhothai%20Thailand"
-    },
-    {
-      "id": 8,
-      "slug": "wat-chang-lom",
-      "name": {
-        "en": "Wat Chang Lom",
-        "nl": "Wat Chang Lom"
-      },
-      "type": "temple",
-      "image": "/images/cities/sukhothai/attractions/Wat Chang Lom at Si Satchanalai Historical Park Sukhothai province, Thailand.webp",
-      "description": {
-        "en": "Temple famous for elephant-supported chedi in Sri Lankan style",
-        "nl": "Tempel beroemd om olifant-ondersteunde chedi in Sri Lankaanse stijl"
-      },
-      "entrance_fee": {
-        "thb": 100,
-        "usd": 3
-      },
-      "highlights": [
-        "Elephant-supported chedi",
-        "Sri Lankan style",
-        "Unique architecture"
-      ],
-      "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=Wat%20Chang%20Lom%20Sukhothai%20Thailand"
-    },
-    {
-      "id": 9,
-      "slug": "yom-river",
-      "name": {
-        "en": "Yom River",
-        "nl": "Yom Rivier"
-      },
-      "type": "nature",
-      "image": "/images/cities/sukhothai/attractions/Yom river and ancient city walls at sukhothai historical park.webp",
-      "description": {
-        "en": "Scenic river perfect for boat trips cycling along banks and sunset views",
-        "nl": "Schilderachtige rivier perfect voor boottochten fietsen langs oevers en zonsondergang"
-      },
-      "entrance_fee": {
-        "thb": 0,
-        "usd": 0
-      },
-      "highlights": [
-        "Scenic river",
-        "Boat trips",
-        "Cycling paths"
-      ],
-      "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=Yom%20River%20Sukhothai%20Thailand"
-    },
-    {
-      "id": 10,
-      "slug": "sukhothai-night-market",
-      "name": {
-        "en": "Sukhothai Night Market",
-        "nl": "Sukhothai Nachtmarkt"
-      },
-      "type": "market",
-      "image": "/images/extra images/Young man tourist on Walking street Asian food market.webp",
-      "description": {
-        "en": "Local night market with traditional food handicrafts and cultural atmosphere",
-        "nl": "Lokale nachtmarkt met traditioneel eten handwerk en culturele sfeer"
-      },
-      "entrance_fee": {
-        "thb": 0,
-        "usd": 0
-      },
-      "highlights": [
-        "Traditional food",
-        "Local handicrafts",
-        "Cultural atmosphere"
-      ],
-      "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=Sukhothai%20Night%20Market%20Sukhothai%20Thailand"
+      "best_time": "morning departure",
+      "duration_hours": 5
     }
-  ],
-  "enhanced_at": "2025-05-25T22:52:17.987Z",
-  "enhanced_count": 10
+  ]
 }

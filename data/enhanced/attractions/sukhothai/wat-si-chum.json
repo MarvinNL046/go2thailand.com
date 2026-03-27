@@ -7,80 +7,76 @@
   },
   "type": "temple",
   "city_slug": "sukhothai",
-  "address": "Sukhothai Historical Park West Zone",
-  "location": {
-    "lat": 17.0167,
-    "lng": 99.8167
-  },
-  "opening_hours": "06:00-18:00",
+  "address": "Northern Zone, Sukhothai Historical Park, Mueang Kao, Sukhothai, Thailand",
+  "location": null,
+  "opening_hours": "Follow the current opening arrangements for the northern zone of Sukhothai Historical Park and recheck locally before travel.",
   "entrance_fee": {
-    "thb": 100,
-    "usd": 3
+    "thb": null,
+    "usd": null
   },
   "description": {
-    "en": "Famous temple housing massive seated Buddha statue visible through narrow opening",
-    "nl": "Beroemde tempel met massaal zittend Boeddhabeeld zichtbaar door smalle opening"
+    "en": "The strongest northern-zone temple thanks to the monumental Phra Achana image inside its square mondop.",
+    "nl": "De sterkste tempel in de noordzone dankzij het monumentale Phra Achana-beeld in de vierkante mondop."
   },
   "highlights": [
-    "Massive seated Buddha",
-    "Narrow opening",
-    "Iconic temple",
-    "Ancient architecture"
+    "Phra Achana image",
+    "North-zone anchor",
+    "Best second-step temple"
   ],
-  "image": "/images/cities/sukhothai/attractions/Wat Si Chum.webp",
-  "official_website": null,
+  "image": "/images/cities/sukhothai/attractions/Big buddha of Wat Sri Chum temple.webp",
+  "official_website": "https://virtualhistoricalpark.finearts.go.th/sukhothai/index.php/en/map.html",
   "seo": {
     "metaTitle": {
-      "en": "Wat Si Chum - Top Attraction in Sukhothai | Go2Thailand",
-      "nl": "Wat Si Chum - Top Attractie in Sukhothai | Go2Thailand"
+      "en": "Wat Si Chum Sukhothai | Go2Thailand",
+      "nl": "Wat Si Chum Sukhothai | Go2Thailand"
     },
     "metaDescription": {
-      "en": "Discover Wat Si Chum in Sukhothai. Famous temple housing massive seated Buddha statue visible through narrow opening...",
-      "nl": "Ontdek Wat Si Chum in Sukhothai. Beroemde tempel met massaal zittend Boeddhabeeld zichtbaar door smalle opening..."
+      "en": "Why Wat Si Chum is the clearest northern-zone addition in Sukhothai and how to pair it with the central park without overbuilding the day.",
+      "nl": "Waarom Wat Si Chum de duidelijkste toevoeging in de noordzone van Sukhothai is en hoe je hem met het centrale park combineert zonder de dag te overladen."
     }
   },
   "tags": [
-    "temple",
     "sukhothai",
-    "thailand",
-    "attraction",
-    "travel",
-    "tourism"
+    "wat si chum",
+    "phra achana",
+    "temple"
   ],
-  "enhanced_description": "Wat Si Chum is a stunning temple located within the Sukhothai Historical Park, known for its breathtaking and massive seated Buddha statue, referred to as Phra Achana. This impressive statue, measuring approximately 11 meters in height, is framed by a narrow opening, creating a striking visual that captures the essence of ancient Thai architecture. Built in the 13th century during the Sukhothai Kingdom, this temple is not only a marvel of engineering but also a significant cultural symbol reflecting the artistry and devotion of its time. Visitors can explore the serene surroundings and admire the intricate details of the temple's design, which exemplifies the classical Sukhothai style. The atmosphere is tranquil, offering a perfect backdrop for contemplation and appreciation of Thai history. The iconic Buddha statue, sitting in a gesture of calling to the earth, inspires reflection on spirituality and peace. A visit to Wat Si Chum is essential for anyone wishing to immerse themselves in the rich heritage of Thailand and gain a deeper understanding of its historical significance.",
-  "detailed_history": "Wat Si Chum dates back to the 13th century and was built during the reign of King Ramkhamhaeng, who is credited with the establishment of the Sukhothai Kingdom. The temple was constructed as a place of worship and meditation, reflecting the era's strong Buddhist beliefs. The impressive seated Buddha statue, known as Phra Achana, symbolizes the moment of enlightenment and is a key representation of the Sukhothai architectural style. The temple's design incorporates traditional elements that highlight the artistic achievements of the time. Over the centuries, Wat Si Chum has remained a vital spiritual center, attracting monks and visitors alike, and has been designated as a UNESCO World Heritage Site, underscoring its importance in Thai culture and history.",
-  "visitor_experience": "When visiting Wat Si Chum, guests can expect a serene and contemplative atmosphere. The layout features the massive seated Buddha statue as the central focus, which is best viewed through the narrow entrance of the temple. Visitors typically spend around 30 minutes to an hour exploring the site, taking in the architectural details and the tranquil environment. The temple is set within the larger Sukhothai Historical Park, allowing for easy exploration of surrounding ruins and historical sites. The peaceful ambiance makes it an ideal spot for quiet reflection or meditation.",
+  "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=Wat%20Si%20Chum%20Sukhothai",
+  "best_time": "late morning",
+  "duration_hours": 1.5,
+  "enhanced_description": "Wat Si Chum is the best outer-zone temple to add after the central monuments because it changes the scale of the day immediately. Instead of another open ruin field, you get the enclosed mondop and the monumental Phra Achana image, which makes the northern zone feel distinct rather than repetitive.\n\nThat is why it should normally come second, not first. Once Wat Mahathat has established the core, Wat Si Chum shows how the park's outer sectors broaden the story without forcing you to chase every smaller ruin in the zone.",
+  "detailed_history": "TAT's Sukhothai province page still calls attention to Phra Achana at Wat Si Chum, which remains the strongest official signal for why this temple matters to most first-time visitors. Within the wider UNESCO ensemble, it is one of the most recognizable monuments outside the central core.",
+  "visitor_experience": "Expect a more concentrated visit than in the central zone. The monument feels more focused and self-contained, which is exactly why it works so well as the next step after Wat Mahathat.",
   "best_time_to_visit": {
-    "time_of_day": "Morning is the best time to visit, as the light creates beautiful reflections on the Buddha statue and the temperatures are cooler.",
-    "duration": "Recommended visit duration is 30 minutes to 1 hour.",
-    "crowd_level": "Crowd levels are generally lower in the early morning, while afternoons can attract more tourists, especially during peak season."
+    "time_of_day": "Late morning or earlier in the day",
+    "duration": "Around 60 to 90 minutes",
+    "crowd_level": "Popular but usually easier to absorb than the busiest central-zone monuments"
   },
-  "photography_tips": [
-    "The best photo spots are from the narrow entrance, allowing for a dramatic framing of the Buddha statue.",
-    "Morning light is ideal for photography, providing soft illumination on the statue.",
-    "Look for angles that highlight the grandeur of the statue against the temple architecture.",
-    "Photography is allowed, but be respectful of the sacred space and avoid flash in quiet areas."
-  ],
   "practical_info": {
-    "how_to_get_there": "Wat Si Chum is located within the Sukhothai Historical Park, easily accessible by bicycle or on foot from the park entrance. Tuk-tuks and local taxis are also available.",
-    "nearby_attractions": "Nearby attractions include Wat Mahathat, Wat Si Sawai, and the Ramkhamhaeng National Museum, all within walking distance.",
-    "food_options": "There are local food stalls and restaurants near the park entrance offering traditional Thai cuisine.",
-    "shopping": "Souvenir shops within the park sell local crafts and memorabilia, and local markets in Sukhothai offer a wider variety of shopping options."
+    "how_to_get_there": "Reach it as a northern-zone extension after your central park loop by bike, local ride, or driver.",
+    "nearby_attractions": "Works best after Wat Mahathat and before deciding whether the day still needs a west-zone climb.",
+    "food_options": "Use a meal break after the northern zone rather than before if this is your main second-stop monument.",
+    "shopping": "Keep shopping or snack stops for outside the monument sequence."
   },
   "insider_tips": [
-    "Visit during the early morning to enjoy a quieter experience and better lighting for photos.",
-    "Many tourists miss the smaller, less visited areas surrounding the main temple—take time to explore these.",
-    "Be respectful during your visit; dress modestly and maintain a quiet demeanor in sacred spaces.",
-    "Consider hiring a local guide for deeper insights into the historical and cultural significance of the site."
+    "This is the strongest north-zone pick; do not dilute the day by turning every nearby ruin into a must-see.",
+    "Wat Si Chum makes more sense after the central zone than before it.",
+    "Leave enough time to experience the monument's scale instead of stopping only for a fast photo."
   ],
-  "seasonal_considerations": "The experience at Wat Si Chum can change with the seasons; the cool season (November to February) is ideal for visits, while the rainy season (July to October) can bring fewer crowds but may limit accessibility due to rain.",
-  "accessibility": "The temple is relatively accessible, but the paths may be uneven. Visitors with mobility issues may need assistance to navigate the site.",
-  "cultural_significance": "Wat Si Chum is a vital part of Thai cultural heritage, representing the artistic and spiritual achievements of the Sukhothai period. It embodies the principles of Buddhism and is a testament to the ancient civilization's dedication to art and architecture.",
-  "fun_facts": [
-    "The statue Phra Achana is one of the largest seated Buddha statues in Thailand.",
-    "The temple was constructed using local materials, showcasing the craftsmanship of the era.",
-    "Wat Si Chum is featured in numerous Thai art and literature, highlighting its significance in cultural narratives.",
-    "The narrow opening through which the Buddha is viewed symbolizes the passage to enlightenment, adding depth to its meaning."
-  ],
-  "enhanced_at": "2025-05-25T22:49:44.274Z"
+  "verified_note": "Source-backed summary based on TAT, UNESCO, and official park references. Recheck current zone access locally before travel.",
+  "cultural_significance": "Wat Si Chum gives Sukhothai one of its most memorable outer-zone religious images and is the clearest northern counterweight to the ceremonial center.",
+  "contentSources": [
+    {
+      "name": "Sukhothai Province Page",
+      "url": "https://www.tourismthailand.org/Destinations/Provinces/Sukhothai/114"
+    },
+    {
+      "name": "Historic Town of Sukhothai and Associated Historic Towns",
+      "url": "https://whc.unesco.org/en/list/574/"
+    },
+    {
+      "name": "Sukhothai Historical Park Contact and Map",
+      "url": "https://virtualhistoricalpark.finearts.go.th/sukhothai/index.php/en/map.html"
+    }
+  ]
 }

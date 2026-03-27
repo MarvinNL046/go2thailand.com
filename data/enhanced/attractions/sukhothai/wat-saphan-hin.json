@@ -1,5 +1,5 @@
 {
-  "id": 6,
+  "id": 5,
   "slug": "wat-saphan-hin",
   "name": {
     "en": "Wat Saphan Hin",
@@ -7,79 +7,72 @@
   },
   "type": "temple",
   "city_slug": "sukhothai",
-  "address": "Sukhothai Historical Park West Zone",
-  "location": {
-    "lat": 17.0167,
-    "lng": 99.8167
-  },
-  "opening_hours": "06:00-18:00",
+  "address": "Western Zone, Sukhothai Historical Park, Mueang Kao, Sukhothai, Thailand",
+  "location": null,
+  "opening_hours": "Follow the current western-zone access arrangements of Sukhothai Historical Park and recheck locally before a late-day climb.",
   "entrance_fee": {
-    "thb": 100,
-    "usd": 3
+    "thb": null,
+    "usd": null
   },
   "description": {
-    "en": "Hilltop temple with standing Buddha statue and panoramic views of the plains",
-    "nl": "Heuvel tempel met staand Boeddhabeeld en panoramisch uitzicht over de vlaktes"
+    "en": "The best west-zone climb for travelers who want a standing Buddha viewpoint rather than another flat monument stop.",
+    "nl": "De beste klim in de westzone voor reizigers die een uitzichtpunt met staande Boeddha willen in plaats van nog een vlak monument."
   },
   "highlights": [
-    "Hilltop temple",
-    "Standing Buddha",
-    "Panoramic views",
-    "Stone bridge"
+    "Hilltop standing Buddha",
+    "West-zone contrast",
+    "Best one-climb addition"
   ],
-  "image": "/images/cities/sukhothai/attractions/Wat Saphan Hin.webp",
-  "official_website": null,
+  "image": "/images/cities/sukhothai/attractions/Wat Saphan Hin temple in Sukhothai Historic Park has beautiful views.webp",
+  "official_website": "https://virtualhistoricalpark.finearts.go.th/sukhothai/index.php/en/map.html",
   "seo": {
     "metaTitle": {
-      "en": "Wat Saphan Hin - Top Attraction in Sukhothai | Go2Thailand",
-      "nl": "Wat Saphan Hin - Top Attractie in Sukhothai | Go2Thailand"
+      "en": "Wat Saphan Hin Sukhothai | Go2Thailand",
+      "nl": "Wat Saphan Hin Sukhothai | Go2Thailand"
     },
     "metaDescription": {
-      "en": "Discover Wat Saphan Hin in Sukhothai. Hilltop temple with standing Buddha statue and panoramic views of the plains...",
-      "nl": "Ontdek Wat Saphan Hin in Sukhothai. Heuvel tempel met staand Boeddhabeeld en panoramisch uitzicht over de vlaktes..."
+      "en": "Why Wat Saphan Hin is the one west-side climb in Sukhothai worth prioritizing and how to fit it into a selective park day.",
+      "nl": "Waarom Wat Saphan Hin de ene westelijke klim in Sukhothai is die prioriteit verdient en hoe je hem in een selectieve parkdag inpast."
     }
   },
   "tags": [
-    "temple",
     "sukhothai",
-    "thailand",
-    "attraction",
-    "travel",
-    "tourism"
+    "wat saphan hin",
+    "temple",
+    "viewpoint"
   ],
-  "enhanced_description": "Wat Saphan Hin is a stunning hilltop temple that offers visitors a glimpse into the spiritual heart of Sukhothai, one of Thailand's ancient capitals. Perched on a hill, this temple is renowned for its majestic standing Buddha statue, which overlooks the sprawling plains below. The journey to the temple is as rewarding as the destination itself, featuring a stone bridge that leads you to the sacred site. As you ascend, the panoramic views reveal the lush greenery and historical ruins that make Sukhothai a UNESCO World Heritage site. At sunrise or sunset, the temple transforms into a magical place where the golden light bathes the Buddha in a warm glow, creating a serene atmosphere that invites contemplation. Visitors will find that Wat Saphan Hin is not just a visual feast; it is a place to connect with the rich history of Thailand and reflect on its cultural heritage. Whether you’re a history buff, a spiritual seeker, or simply in search of breathtaking views, a visit to Wat Saphan Hin is an unforgettable experience that encapsulates the essence of Sukhothai's charm.",
-  "detailed_history": "Wat Saphan Hin dates back to the 13th century, during the Sukhothai Kingdom's zenith, and is one of the oldest temples in the region. Its name translates to 'Temple of the Stone Bridge,' referencing the remarkable stone structure that leads to the temple area. This site illustrates the architectural prowess of the Sukhothai period, showcasing the intricate designs and spiritual significance attributed to Buddhist practices. The temple is home to a 12-meter tall standing Buddha statue, which is a prime example of the Sukhothai artistic style, characterized by its graceful features and serene expression. This statue symbolizes the spiritual enlightenment sought by many and stands as a testament to the rich cultural heritage of Thailand, drawing visitors from around the world to admire its beauty and historical significance.",
-  "visitor_experience": "Upon arrival, visitors will find a well-maintained pathway leading to Wat Saphan Hin. The layout includes a series of steps that ascend to the temple, allowing for a gradual and pleasant climb. The main area features the impressive standing Buddha statue, which is the focal point of the temple, surrounded by serene gardens and stone walkways. Most visitors typically spend about 1-2 hours exploring the temple and enjoying the views. The peaceful atmosphere encourages reflection and photography, making it a perfect spot for both relaxation and exploration.",
+  "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=Wat%20Saphan%20Hin%20Sukhothai",
+  "best_time": "late afternoon",
+  "duration_hours": 2,
+  "enhanced_description": "Wat Saphan Hin is the western-zone temple that actually changes the feel of a Sukhothai day. After the central park's flat ceremonial spaces and the northern zone's monumental image at Wat Si Chum, this is the stop that adds elevation, movement, and a more exposed sense of landscape.\n\nThat is exactly why it should stay selective. The climb only works when you treat it as the one deliberate west-side addition, not as part of a long list of outer ruins. Done well, it gives the day a final contrast instead of just more mileage.",
+  "detailed_history": "The value of Wat Saphan Hin inside the Sukhothai park system is not just the monument itself but its position in the western zone, which gives visitors a very different experience from the central UNESCO core. It remains one of the clearest outer-zone contrasts in the site.",
+  "visitor_experience": "Expect a more physical stop than at the central monuments. The climb, the standing Buddha, and the wider visual perspective are the point, which is why timing and heat matter more here than at flatter park sections.",
   "best_time_to_visit": {
-    "time_of_day": "Morning is ideal for visiting Wat Saphan Hin, as the temperatures are cooler and the lighting is perfect for photography.",
-    "duration": "A recommended visit duration is about 1 to 2 hours.",
-    "crowd_level": "Crowd levels are generally lower in the morning, especially on weekdays, making it the best time to avoid larger groups."
+    "time_of_day": "Late afternoon",
+    "duration": "Around 90 to 120 minutes",
+    "crowd_level": "Usually quieter than the central core, but more weather-sensitive"
   },
-  "photography_tips": [
-    "Best photo spots include the standing Buddha statue and the panoramic view of Sukhothai from the temple grounds.",
-    "The best lighting conditions occur during the golden hours of sunrise and sunset.",
-    "Instagram-worthy locations can be found around the Buddha statue and the surrounding gardens.",
-    "Visitors should be mindful of photography restrictions inside the temple area, particularly during ceremonies."
-  ],
   "practical_info": {
-    "how_to_get_there": "Wat Saphan Hin is located within the Sukhothai Historical Park. Visitors can reach the site by renting a bicycle or taking a tuk-tuk from the main park entrance.",
-    "nearby_attractions": "Nearby attractions include Wat Si Chum, Wat Mahathat, and the Sukhothai Historical Park Visitor Center.",
-    "food_options": "There are local food stalls and restaurants nearby where visitors can enjoy traditional Thai cuisine.",
-    "shopping": "Souvenir shops can be found in the historical park area, offering handicrafts and local products."
+    "how_to_get_there": "Reach it as a dedicated western-zone move after the central park and, if relevant, after Wat Si Chum.",
+    "nearby_attractions": "Best paired with a selective park day rather than with an overloaded outer-zone checklist.",
+    "food_options": "Keep this away from your main meal window; do food before or after the climb.",
+    "shopping": "There is no need to treat this as a shopping stop."
   },
   "insider_tips": [
-    "Explore the lesser-known paths that lead to quieter viewpoints around the temple.",
-    "To make the most of your visit, consider bringing a picnic to enjoy while taking in the views.",
-    "Many tourists miss the small shrines and detailed carvings around the temple; take time to explore these.",
-    "Respectful attire is recommended; cover shoulders and knees as a sign of respect when visiting temples."
+    "Use this as the one west-side climb, not as part of a bloated outer-zone route.",
+    "Late afternoon usually makes more sense than the hottest midday slot.",
+    "If weather turns poor, this is the easiest temple in the Sukhothai core to postpone."
   ],
-  "seasonal_considerations": "The experience at Wat Saphan Hin varies with the seasons; the rainy season (May to October) can bring lush greenery but may hinder access due to mud. The cooler months (November to February) offer pleasant weather for exploration.",
-  "accessibility": "Visitors with mobility issues may find the steep steps challenging; however, efforts have been made to improve accessibility to some areas of the temple.",
-  "cultural_significance": "Wat Saphan Hin is important to Thai culture as it represents the architectural and artistic achievements of the Sukhothai Kingdom, highlighting the region's historical and spiritual roots.",
-  "fun_facts": [
-    "The standing Buddha statue at Wat Saphan Hin is one of the tallest in the Sukhothai region.",
-    "The temple was built on a hill to symbolize the connection between the earth and the heavens.",
-    "Sukhothai was the first capital of Thailand and is often referred to as the 'Dawn of Happiness' due to its role in establishing Thai culture."
-  ],
-  "enhanced_at": "2025-05-25T22:50:45.890Z"
+  "verified_note": "Source-backed summary based on official park and TAT references. Recheck current west-zone access before travel.",
+  "cultural_significance": "Wat Saphan Hin adds the most useful elevated viewpoint and landscape contrast inside the Sukhothai park system.",
+  "contentSources": [
+    {
+      "name": "Sukhothai Province Page",
+      "url": "https://www.tourismthailand.org/Destinations/Provinces/Sukhothai/114"
+    },
+    {
+      "name": "Sukhothai Historical Park Contact and Map",
+      "url": "https://virtualhistoricalpark.finearts.go.th/sukhothai/index.php/en/map.html"
+    }
+  ]
 }

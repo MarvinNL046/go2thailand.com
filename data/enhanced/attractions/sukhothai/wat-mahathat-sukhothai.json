@@ -2,85 +2,81 @@
   "id": 2,
   "slug": "wat-mahathat-sukhothai",
   "name": {
-    "en": "Wat Mahathat Sukhothai",
-    "nl": "Wat Mahathat Sukhothai"
+    "en": "Wat Mahathat",
+    "nl": "Wat Mahathat"
   },
   "type": "temple",
   "city_slug": "sukhothai",
-  "address": "Sukhothai Historical Park Central Zone",
-  "location": {
-    "lat": 17.0078,
-    "lng": 99.8237
-  },
-  "opening_hours": "06:00-18:00",
+  "address": "Central Zone, Sukhothai Historical Park, Mueang Kao, Sukhothai, Thailand",
+  "location": null,
+  "opening_hours": "Follow the current opening arrangements of Sukhothai Historical Park and recheck locally before an early visit.",
   "entrance_fee": {
-    "thb": 100,
-    "usd": 3
+    "thb": null,
+    "usd": null
   },
   "description": {
-    "en": "Main temple of Sukhothai with iconic lotus-bud chedi and Buddha statues",
-    "nl": "Hoofdtempel van Sukhothai met iconische lotus-knop chedi en Boeddhabeelden"
+    "en": "The central monument that anchors the park and remains the clearest single expression of the Sukhothai style.",
+    "nl": "Het centrale monument dat het park verankert en de duidelijkste uitdrukking van de Sukhothai-stijl blijft."
   },
   "highlights": [
+    "Central-zone anchor",
     "Lotus-bud chedi",
-    "Buddha statues",
-    "Main temple",
-    "Sukhothai architecture"
+    "Best first temple"
   ],
-  "image": "/images/cities/sukhothai/attractions/Wat Mahathat Sukhothai.webp",
-  "official_website": null,
+  "image": "/images/cities/sukhothai/attractions/Wat Mahathat temple complex and buddha statue in Sukhothai.webp",
+  "official_website": "https://virtualhistoricalpark.finearts.go.th/sukhothai/index.php/en/map.html",
   "seo": {
     "metaTitle": {
-      "en": "Wat Mahathat Sukhothai - Top Attraction in Sukhothai | Go2Thailand",
-      "nl": "Wat Mahathat Sukhothai - Top Attractie in Sukhothai | Go2Thailand"
+      "en": "Wat Mahathat Sukhothai | Go2Thailand",
+      "nl": "Wat Mahathat Sukhothai | Go2Thailand"
     },
     "metaDescription": {
-      "en": "Discover Wat Mahathat Sukhothai in Sukhothai. Main temple of Sukhothai with iconic lotus-bud chedi and Buddha statues...",
-      "nl": "Ontdek Wat Mahathat Sukhothai in Sukhothai. Hoofdtempel van Sukhothai met iconische lotus-knop chedi en Boeddhabeelden..."
+      "en": "Why Wat Mahathat should be your first temple in Sukhothai Historical Park and how it gives the clearest reading of the city's ceremonial core.",
+      "nl": "Waarom Wat Mahathat je eerste tempel in Sukhothai Historical Park moet zijn en hoe hij de duidelijkste lezing van de ceremoniële kern geeft."
     }
   },
   "tags": [
-    "temple",
     "sukhothai",
-    "thailand",
-    "attraction",
-    "travel",
-    "tourism"
+    "wat mahathat",
+    "temple",
+    "unesco"
   ],
-  "enhanced_description": "Wat Mahathat Sukhothai, the main temple of Sukhothai Historical Park, stands as a testament to the grandeur of the Sukhothai Kingdom, which flourished in the 13th and 14th centuries. Visitors are greeted by the iconic lotus-bud chedi, a hallmark of Thai architectural elegance, rising majestically against the backdrop of lush greenery. The temple is not only a spiritual haven, but it also serves as an artistic marvel showcasing numerous Buddha statues, each exuding tranquility and grace. As you wander through the ruins, you can almost hear the whispers of history echoing through the crumbling walls. The site invites contemplation and reverence, making it a must-visit for anyone interested in Thailand's rich cultural heritage. With its serene atmosphere and intricate designs, Wat Mahathat offers a unique glimpse into the spiritual life of the ancient kingdom, ensuring that your visit is both enriching and memorable.",
-  "detailed_history": "Constructed in the 13th century, Wat Mahathat was the spiritual center of the Sukhothai Kingdom, which is often considered the cradle of Thai civilization. The temple complex symbolizes the transition from the Khmer architectural style to the distinctly Thai style that would flourish in subsequent centuries. The lotus-bud chedi, a design unique to Thailand, reflects the influence of Indian art, representing purity and enlightenment in Buddhist philosophy. Throughout the centuries, the temple has witnessed the rise and fall of kingdoms, yet it remains a powerful symbol of national identity and pride. It was also the site for important royal ceremonies, further cementing its significance in Thai culture.",
-  "visitor_experience": "When visiting Wat Mahathat, guests can expect a peaceful exploration of the temple’s expansive grounds, which are laid out in a systematic manner. The main area features the central chedi surrounded by several smaller stupas and a series of Buddha statues, each telling its own story. A typical visit lasts around 1-2 hours, allowing ample time for photography and reflection. Visitors are encouraged to stroll leisurely, taking in the intricate details of the architecture and the serene ambiance of the park. Informational plaques throughout the site provide context and enhance the experience.",
+  "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=Wat%20Mahathat%20Sukhothai",
+  "best_time": "early morning",
+  "duration_hours": 1.5,
+  "enhanced_description": "Wat Mahathat is the temple that makes the rest of Sukhothai readable. It sits at the heart of the historical park's central zone, and the reason to come here first is not just that it is the most famous monument. It is that the spacing, water, chedi forms, and ceremonial logic of the old city all become easier to understand once you have seen this core properly.\n\nFor most travelers, this should be the first major temple of the day. After Wat Mahathat, the shift to Wat Sa Si, Wat Si Chum, or Wat Saphan Hin feels deliberate instead of scattered.",
+  "detailed_history": "UNESCO's Sukhothai listing emphasizes the importance of the site to the beginnings of Thai architecture, and Wat Mahathat is the central monument most visitors use to read that development in practice. Within the park, it remains the most useful single reference point for the ceremonial core.",
+  "visitor_experience": "Expect a larger and more spatially complex monument than the smaller surrounding temples. The experience is strongest when you walk it slowly and use it to orient yourself within the central zone before moving outward.",
   "best_time_to_visit": {
-    "time_of_day": "Morning, as the cooler temperatures and softer light create perfect conditions for exploring and photography.",
-    "duration": "1 to 2 hours is recommended to fully appreciate the site.",
-    "crowd_level": "Crowds are generally lower in the early morning; it's best to avoid weekends and public holidays for a more tranquil experience."
+    "time_of_day": "Early morning",
+    "duration": "About 60 to 90 minutes",
+    "crowd_level": "Usually busiest once the central zone fills up later in the morning"
   },
-  "photography_tips": [
-    "Capture the lotus-bud chedi from various angles, especially during sunrise for a magical glow.",
-    "The early morning light provides soft illumination, perfect for capturing the intricate details of the statues.",
-    "Look for the reflection of the chedi in the surrounding ponds for stunning symmetry.",
-    "Be mindful of signs regarding photography restrictions, especially near sacred images."
-  ],
   "practical_info": {
-    "how_to_get_there": "Wat Mahathat is located within Sukhothai Historical Park, easily accessible by bicycle or tuk-tuk from Sukhothai town center.",
-    "nearby_attractions": "Nearby attractions include Wat Si Chum, Wat Sra Si, and the Sukhothai Historical Park Museum.",
-    "food_options": "Local eateries and street food vendors are available just outside the park, offering traditional Thai cuisine.",
-    "shopping": "Look for souvenir shops within the historical park and nearby markets for local handicrafts."
+    "how_to_get_there": "Reach it through the central zone of Sukhothai Historical Park as part of your first monument loop.",
+    "nearby_attractions": "Wat Sa Si fits naturally next, while Wat Si Chum and Wat Saphan Hin are better treated as later outer-zone additions.",
+    "food_options": "Eat after the central-zone loop rather than trying to break the visit too early.",
+    "shopping": "Keep any shopping for after the main park visit."
   },
   "insider_tips": [
-    "Visit during the rainy season (May to October) for fewer tourists and lush surroundings.",
-    "Explore the lesser-known temples within the park for a more intimate experience.",
-    "Many tourists miss the small museum nearby, which offers fascinating insights into the history of Sukhothai.",
-    "Dress modestly, covering shoulders and knees, as respect is essential in sacred places."
+    "Start here before branching to north or west zones.",
+    "Use Wat Mahathat to read the park as a whole instead of trying to photograph it as one isolated temple.",
+    "The monument rewards a slower first pass more than a quick checklist stop."
   ],
-  "seasonal_considerations": "The temple's ambiance changes with the seasons; during the dry season, the skies are clearer while the rainy season brings vibrant greenery and fewer visitors.",
-  "accessibility": "The temple grounds are relatively flat, but some areas may have uneven surfaces. Wheelchair users may need assistance in certain sections.",
-  "cultural_significance": "Wat Mahathat is a symbol of the Sukhothai Kingdom's cultural and spiritual legacy, representing the artistic and architectural achievements of early Thai civilization.",
-  "fun_facts": [
-    "The temple's chedi is modeled after a lotus bud, symbolizing purity in Buddhism.",
-    "Wat Mahathat was used as a royal temple and a site for important ceremonies in ancient times.",
-    "The temple complex is part of a UNESCO World Heritage Site, recognized for its historical importance.",
-    "Sukhothai is often referred to as the birthplace of Thai art, with many of the styles seen in Wat Mahathat influencing modern Thai culture."
-  ],
-  "enhanced_at": "2025-05-25T22:49:24.618Z"
+  "verified_note": "Source-backed summary based on UNESCO, TAT, and official park references. Recheck current park access and route planning locally.",
+  "cultural_significance": "Wat Mahathat is the central monument that most clearly anchors Sukhothai's ceremonial and stylistic identity inside the UNESCO core.",
+  "contentSources": [
+    {
+      "name": "Historic Town of Sukhothai and Associated Historic Towns",
+      "url": "https://whc.unesco.org/en/list/574/"
+    },
+    {
+      "name": "Sukhothai Historical Park Contact and Map",
+      "url": "https://virtualhistoricalpark.finearts.go.th/sukhothai/index.php/en/map.html"
+    },
+    {
+      "name": "Sukhothai Province Page",
+      "url": "https://www.tourismthailand.org/Destinations/Provinces/Sukhothai/114"
+    }
+  ]
 }
