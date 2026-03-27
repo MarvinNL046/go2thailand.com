@@ -35,9 +35,9 @@ export interface CityBudgetRaw {
 export interface CityBudget {
   raw: CityBudgetRaw;
   currency: string;
-  tier_budget: BudgetTier;
-  tier_mid: BudgetTier;
-  tier_luxury: BudgetTier;
+  tier_budget: BudgetTier | null;
+  tier_mid: BudgetTier | null;
+  tier_luxury: BudgetTier | null;
 }
 
 // ---------------------------------------------------------------------------
@@ -174,7 +174,7 @@ export interface IndexCity {
   slug: string;
   name: BilingualText;
   image: string;
-  region: CityRegionRef;
+  region: CityRegionRef | null;
   location: LatLng;
   population: number;
   scores: CityScores;

@@ -11,6 +11,7 @@ import { useState, useMemo } from 'react';
 import Link from 'next/link';
 import { useRouter } from 'next/router';
 import type { IndexCity, Region, BilingualText } from '../../lib/thailand-index';
+import { formatBudgetMedian, getBudgetSortValue } from '../../lib/thailand-index-budget';
 import ScoreBadge from './ScoreBadge';
 import RegionFilter from './RegionFilter';
 
@@ -44,7 +45,7 @@ function getSortValue(city: IndexCity, key: SortKey, locale: string): number | s
     case 'name':
       return (city.name[(locale as keyof BilingualText)] || city.name.en).toLowerCase();
     case 'budget':
-      return city.budget.tier_budget.median;
+      return getBudgetSortValue(city);
     case 'weather':
       return city.scores.weather_score ?? -1;
     case 'transport':
@@ -175,7 +176,7 @@ const IndexTable: React.FC<IndexTableProps> = ({ cities, regions }) => {
 
                   {/* Budget/day */}
                   <td className="px-3 py-3 font-medium text-gray-700">
-                    ${city.budget.tier_budget.median}
+                    {formatBudgetMedian(city, 'budget')}
                   </td>
 
                   {/* Weather */}

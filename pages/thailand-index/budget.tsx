@@ -5,6 +5,13 @@ import Link from 'next/link';
 import { useRouter } from 'next/router';
 import { useMemo } from 'react';
 import type { ThailandIndex, BilingualText, IndexCity } from '../../lib/thailand-index';
+import {
+  formatBudgetMedian,
+  formatBudgetRange,
+  getBudgetMedian,
+  getBudgetSortValue,
+  summarizeRegionBudgets,
+} from '../../lib/thailand-index-budget';
 import { RankingCard } from '../../components/index';
 
 interface BudgetPageProps {
@@ -63,10 +70,7 @@ export default function BudgetPage({ data }: BudgetPageProps) {
 
   // Sort cities by budget median ascending
   const citiesByBudget = useMemo(
-    () =>
-      [...data.cities].sort(
-        (a, b) => a.budget.tier_budget.median - b.budget.tier_budget.median
-      ),
+    () => [...data.cities].sort((a, b) => getBudgetSortValue(a) - getBudgetSortValue(b)),
     [data.cities]
   );
 
@@ -76,39 +80,18 @@ export default function BudgetPage({ data }: BudgetPageProps) {
   // Average budget per region
   const regionBudgets = useMemo(() => {
     return data.regions.map((region) => {
-      const regionCities = data.cities.filter((c) => {
-        const slugSet = new Set(region.city_slugs);
-        return slugSet.has(c.slug);
-      });
-      const avgBudget =
-        regionCities.length > 0
-          ? Math.round(
-              regionCities.reduce((sum, c) => sum + c.budget.tier_budget.median, 0) /
-                regionCities.length
-            )
-          : 0;
-      const avgMid =
-        regionCities.length > 0
-          ? Math.round(
-              regionCities.reduce((sum, c) => sum + c.budget.tier_mid.median, 0) /
-                regionCities.length
-            )
-          : 0;
-      const avgLuxury =
-        regionCities.length > 0
-          ? Math.round(
-              regionCities.reduce((sum, c) => sum + c.budget.tier_luxury.median, 0) /
-                regionCities.length
-            )
-          : 0;
+      const slugSet = new Set(region.city_slugs);
+      const regionCities = data.cities.filter((c) => slugSet.has(c.slug));
+      const summary = summarizeRegionBudgets(regionCities);
       return {
         ...region,
-        avgBudget,
-        avgMid,
-        avgLuxury,
-        cityCount: regionCities.length,
+        ...summary,
       };
-    }).sort((a, b) => a.avgBudget - b.avgBudget);
+    }).sort((a, b) => {
+      const aValue = a.avgBudget ?? Number.POSITIVE_INFINITY;
+      const bValue = b.avgBudget ?? Number.POSITIVE_INFINITY;
+      return aValue - bValue;
+    });
   }, [data.cities, data.regions]);
 
   // FAQ schema
@@ -218,19 +201,19 @@ export default function BudgetPage({ data }: BudgetPageProps) {
                     <div>
                       <div className="text-gray-400 text-xs">Budget</div>
                       <div className="font-semibold text-green-700">
-                        ${city.budget.tier_budget.median}
+                        {formatBudgetMedian(city, 'budget')}
                       </div>
                     </div>
                     <div>
                       <div className="text-gray-400 text-xs">{lang === 'nl' ? 'Midden' : 'Mid'}</div>
                       <div className="font-semibold text-gray-700">
-                        ${city.budget.tier_mid.median}
+                        {formatBudgetMedian(city, 'mid')}
                       </div>
                     </div>
                     <div>
                       <div className="text-gray-400 text-xs">Luxury</div>
                       <div className="font-semibold text-gray-700">
-                        ${city.budget.tier_luxury.median}
+                        {formatBudgetMedian(city, 'luxury')}
                       </div>
                     </div>
                   </div>
@@ -281,17 +264,19 @@ export default function BudgetPage({ data }: BudgetPageProps) {
                       </td>
                       <td className="px-3 py-3 text-right">
                         <span className="font-semibold text-green-700">
-                          ${city.budget.tier_budget.min}-{city.budget.tier_budget.max ?? city.budget.tier_budget.min}
+                          {formatBudgetRange(city, 'budget')}
                         </span>
-                        <span className="text-gray-400 text-xs ml-1">
-                          ({lang === 'nl' ? 'med' : 'med'} ${city.budget.tier_budget.median})
-                        </span>
+                        {getBudgetMedian(city, 'budget') !== null && (
+                          <span className="text-gray-400 text-xs ml-1">
+                            ({lang === 'nl' ? 'med' : 'med'} {formatBudgetMedian(city, 'budget')})
+                          </span>
+                        )}
                       </td>
                       <td className="px-3 py-3 text-right font-medium text-gray-700">
-                        ${city.budget.tier_mid.median}
+                        {formatBudgetMedian(city, 'mid')}
                       </td>
                       <td className="px-3 py-3 text-right font-medium text-gray-700">
-                        ${city.budget.tier_luxury.median}{city.budget.tier_luxury.max === null ? '+' : ''}
+                        {formatBudgetMedian(city, 'luxury')}
                       </td>
                     </tr>
                   ))}
@@ -369,20 +354,26 @@ export default function BudgetPage({ data }: BudgetPageProps) {
                     {t(region.name, lang)}
                   </h3>
                   <p className="text-xs text-gray-400 mb-4">
-                    {region.cityCount} {lang === 'nl' ? 'steden' : 'cities'}
+                    {region.cityCount} {lang === 'nl' ? 'steden met budgetdata' : 'cities with budget data'}
                   </p>
                   <dl className="space-y-2 text-sm">
                     <div className="flex justify-between">
                       <dt className="text-gray-500">Budget</dt>
-                      <dd className="font-semibold text-green-700">${region.avgBudget}/day</dd>
+                      <dd className="font-semibold text-green-700">
+                        {region.avgBudget === null ? 'N/A' : `$${region.avgBudget}/day`}
+                      </dd>
                     </div>
                     <div className="flex justify-between">
                       <dt className="text-gray-500">{lang === 'nl' ? 'Midden' : 'Mid-range'}</dt>
-                      <dd className="font-semibold text-gray-700">${region.avgMid}/day</dd>
+                      <dd className="font-semibold text-gray-700">
+                        {region.avgMid === null ? 'N/A' : `$${region.avgMid}/day`}
+                      </dd>
                     </div>
                     <div className="flex justify-between">
                       <dt className="text-gray-500">Luxury</dt>
-                      <dd className="font-semibold text-gray-700">${region.avgLuxury}/day</dd>
+                      <dd className="font-semibold text-gray-700">
+                        {region.avgLuxury === null ? 'N/A' : `$${region.avgLuxury}/day`}
+                      </dd>
                     </div>
                   </dl>
                 </div>
