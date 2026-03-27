@@ -138,11 +138,11 @@ function cityHref(slug: CitySlug): CityPageHref {
 export const rootHubContent: HubPageContent = {
   title: 'Thailand Top-10 Guides 2026 | Editorial Hub',
   description:
-    'Use our Thailand top-10 hubs to choose the right city guides for attractions, restaurants, and hotels without generic rankings or scrape-era filler.',
+    'Use our Thailand top-10 hubs to choose the right city guides for attractions, restaurants, and hotels with clear editorial structure and source-backed context.',
   heroEyebrow: 'Editorial Hub',
   heroTitle: 'Thailand Top-10 Guides',
   heroIntro:
-    'These hubs are built to help you choose the right city-level guide, not to pretend the whole country fits inside one nationwide top-10 list.',
+    'These hubs are built to help you choose the right city-level guide rather than forcing the whole country into one nationwide top-10 list.',
   whyThisPageTitle: 'How To Use These Guides',
   whyThisPageBody:
     'Start with the category that matches the decision you are making, then open the strongest city cluster for the actual shortlist and source-backed planning detail.',
@@ -395,7 +395,7 @@ export const attractionsHubContent: HubPageContent = {
     tourismAuthoritySource,
     unescoSource,
     fineArtsSource,
-    tcebSource
+    michelinSource
   ]
 };
 
@@ -409,7 +409,7 @@ export const restaurantsHubContent: HubPageContent = {
     'Use this hub to choose the city food guide that fits your trip, from MICHELIN-heavy dining cities to market-led and coastal seafood bases.',
   whyThisPageTitle: 'How To Choose The Right Food City',
   whyThisPageBody:
-    'This page should route users by dining style and trip shape instead of pretending there is one nationwide restaurant ranking that works for every traveler.',
+    'This page should route users by dining style and trip shape rather than relying on a single nationwide restaurant ranking.',
   featuredCities: [
     featuredCity(
       'bangkok',
@@ -533,7 +533,7 @@ export const hotelsHubContent: HubPageContent = {
     'Use this hub to find the right city hotel guide by stay shape: city base, beach resort, heritage stay, or practical short stop.',
   whyThisPageTitle: 'How To Choose The Right Stay Base',
   whyThisPageBody:
-    'The goal is to help users move into the right city-level hotel guide, not to push a fake nationwide best-hotels leaderboard.',
+    'The goal is to help users move into the right city-level hotel guide, rather than presenting a single nationwide best-hotels leaderboard.',
   featuredCities: [
     featuredCity(
       'bangkok',
