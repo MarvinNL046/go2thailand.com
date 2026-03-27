@@ -1,0 +1,75 @@
+{
+  "id": 4,
+  "slug": "rayong-botanical-garden",
+  "name": {
+    "en": "Rayong Botanical Garden",
+    "nl": "Rayong Botanical Garden"
+  },
+  "type": "nature",
+  "city_slug": "rayong",
+  "address": "Chak Phong, Klaeng District, Rayong, Thailand",
+  "location": null,
+  "opening_hours": "Boat and local operating arrangements should be rechecked directly before visiting.",
+  "entrance_fee": {
+    "thb": null,
+    "usd": null
+  },
+  "description": {
+    "en": "Rayong's strongest wetland attraction, built around waterways, plant life, and solar-powered boat access.",
+    "nl": "Rayongs sterkste wetland-attractie, opgebouwd rond waterwegen, planten en boottoegang."
+  },
+  "highlights": [
+    "Wetland ecosystem",
+    "Solar-powered boat tours",
+    "Prasae-side nature day"
+  ],
+  "image": "/images/cities/generated/rayong.webp",
+  "official_website": "https://www.tourismthailand.org/Articles/eec-en",
+  "seo": {
+    "metaTitle": {
+      "en": "Rayong Botanical Garden | Go2Thailand",
+      "nl": "Rayong Botanical Garden | Go2Thailand"
+    },
+    "metaDescription": {
+      "en": "Why Rayong Botanical Garden is the strongest wetland stop in Rayong and how to pair it with the Prasae-side route.",
+      "nl": "Waarom Rayong Botanical Garden de sterkste wetlandstop van Rayong is en hoe je die koppelt aan de Prasae-route."
+    }
+  },
+  "tags": [
+    "rayong",
+    "botanical garden",
+    "wetland",
+    "klaeng",
+    "nature"
+  ],
+  "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=Rayong%20Botanical%20Garden",
+  "best_time": "morning",
+  "duration_hours": 3,
+  "enhanced_description": "Rayong Botanical Garden gives the province its clearest wetland counterweight to the beach side. That makes it one of the most useful attractions in the cluster because it changes the texture of the trip instead of repeating another coast view.\n\nTAT's current EEC article is especially useful here because it frames the visit through solar-powered boat tours and the surrounding plant landscape. That confirms the garden works best as a slower ecology-led stop, not as a quick photo break on the way somewhere else.",
+  "detailed_history": "Tourism Authority of Thailand's 2025 EEC article still uses Rayong Botanical Garden as one of the lead Rayong examples and specifically describes the solar-powered boat tour and surrounding plant life.",
+  "visitor_experience": "Expect a slower water-and-plant landscape rather than a manicured city garden. The attraction works best when you give it enough time to feel like a wetland route, not a stop added only because you are passing nearby.",
+  "best_time_to_visit": {
+    "time_of_day": "Morning",
+    "duration": "About two to three hours",
+    "crowd_level": "Usually easier to enjoy before midday heat builds"
+  },
+  "practical_info": {
+    "how_to_get_there": "Best reached as part of a Klaeng or Prasae-side day rather than from a quick city errand.",
+    "nearby_attractions": "Pairs naturally with Thung Prong Thong and other Prasae-side route planning.",
+    "food_options": "Plan your main meal outside the garden unless you have confirmed current local services in advance.",
+    "shopping": "The route is stronger for nature and community context than for shopping."
+  },
+  "insider_tips": [
+    "This is the right stop when Rayong needs a non-beach nature day.",
+    "Keep it with Thung Prong Thong rather than mixing it into a Samet day.",
+    "Recheck current boat operations before you travel."
+  ],
+  "verified_note": "Source-backed summary based on Tourism Authority of Thailand's 2025 EEC article. Confirm current local access and operations before visiting.",
+  "cultural_significance": "The botanical garden helps show Rayong as a wetland and community landscape, not only as a beach-and-ferry province.",
+  "contentSources": [
+    {
+      "name": "Let's Explore EEC Select Best Service Destinations in Rayong, Chonburi & Chachoengsao",
+      "url": "https://www.tourismthailand.org/Articles/eec-en"
+    }
+  ]
+}

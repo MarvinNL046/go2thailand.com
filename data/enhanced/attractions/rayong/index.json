@@ -1,223 +1,163 @@
 {
   "city_slug": "rayong",
   "city_name": "Rayong",
-  "total_attractions": 9,
+  "total_attractions": 6,
   "attractions": [
     {
       "id": 1,
-      "slug": "koh-samet",
+      "slug": "khao-laem-ya",
       "name": {
-        "en": "Koh Samet Island",
-        "nl": "Koh Samet Eiland"
+        "en": "Khao Laem Ya",
+        "nl": "Khao Laem Ya"
       },
-      "type": "nature",
-      "image": "/images/cities/phuket/phuket-old-town.webp",
+      "type": "viewpoint",
+      "image": "/images/cities/generated/rayong.webp",
       "description": {
-        "en": "Popular island with white sand beaches, crystal-clear water, and lively beachfront bars accessible from Ban Phe",
-        "nl": "Populair eiland met witte zandstranden, kristalhelder water en levendige strandbars, bereikbaar vanuit Ban Phe"
+        "en": "The mainland headland that best explains Rayong through Ban Phe access, coast views, and Koh Samet-facing perspective.",
+        "nl": "De vastelandkaap die Rayong het best uitlegt via Ban Phe, kustuitzichten en zicht richting Koh Samet."
       },
       "entrance_fee": {
-        "thb": 200,
-        "usd": 6
+        "thb": null,
+        "usd": null
       },
+      "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=Khao%20Laem%20Ya%20Rayong",
       "highlights": [
-        "White sand beaches",
-        "Crystal-clear water",
-        "Beachfront nightlife"
+        "Mainland headland",
+        "Sunset views",
+        "Best Ban Phe-side viewpoint"
       ],
-      "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=Koh%20Samet%20Island%20Rayong%20Thailand"
+      "best_time": "late afternoon",
+      "duration_hours": 2
     },
     {
       "id": 2,
-      "slug": "sai-kaew-beach",
+      "slug": "koh-samet",
       "name": {
-        "en": "Sai Kaew Beach (Diamond Beach)",
-        "nl": "Sai Kaew Strand (Diamantstrand)"
+        "en": "Koh Samet",
+        "nl": "Koh Samet"
       },
-      "type": "beach",
-      "image": "/images/cities/phuket/phuket-old-town.webp",
+      "type": "island",
+      "image": "/images/cities/generated/rayong.webp",
       "description": {
-        "en": "Koh Samet's longest and most popular beach with powder-white sand, water sports, and fire shows at night",
-        "nl": "Koh Samet's langste en populairste strand met poederwit zand, watersporten en vuurshows 's avonds"
+        "en": "Rayong's headline island extension, best treated as one deliberate add-on rather than the province's entire story.",
+        "nl": "Rayongs bekendste eilanduitstap, het best als bewuste add-on in plaats van als het hele verhaal van de provincie."
       },
       "entrance_fee": {
-        "thb": 0,
-        "usd": 0
+        "thb": null,
+        "usd": null
       },
+      "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=Koh%20Samet%20Rayong",
       "highlights": [
-        "Powder-white sand",
-        "Fire shows at night",
-        "Water sports"
+        "Easy island add-on",
+        "East- and west-coast beach contrast",
+        "Best as an edited extension"
       ],
-      "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=Sai%20Kaew%20Beach%20(Diamond%20Beach)%20Rayong%20Thailand"
+      "best_time": "morning departure",
+      "duration_hours": 8
     },
     {
       "id": 3,
       "slug": "mae-ramphueng-beach",
       "name": {
         "en": "Mae Ramphueng Beach",
-        "nl": "Mae Ramphueng Strand"
+        "nl": "Mae Ramphueng Beach"
       },
       "type": "beach",
-      "image": "/images/cities/phuket/phuket-old-town.webp",
+      "image": "/images/cities/generated/rayong.webp",
       "description": {
-        "en": "Twelve-kilometer mainland beach rarely visited by tourists with seafood restaurants and fishing villages",
-        "nl": "Twaalf kilometer lang vastelandstrand dat zelden door toeristen bezocht wordt, met visrestaurants en vissersdorpen"
+        "en": "The easiest mainland beach in Rayong if you want sea time without turning the day into island logistics.",
+        "nl": "Het makkelijkste vastelandstrand van Rayong als je zee wilt zonder eilandlogistiek."
       },
       "entrance_fee": {
-        "thb": 0,
-        "usd": 0
+        "thb": null,
+        "usd": null
       },
+      "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=Hat%20Mae%20Ramphueng%20Rayong",
       "highlights": [
-        "12 km of sand",
-        "Uncrowded",
-        "Fresh seafood restaurants"
+        "Mainland beach day",
+        "Seafood-lunch logic",
+        "No ferry required"
       ],
-      "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=Mae%20Ramphueng%20Beach%20Rayong%20Thailand"
+      "best_time": "morning or late afternoon",
+      "duration_hours": 3
     },
     {
       "id": 4,
-      "slug": "rayong-aquarium",
+      "slug": "rayong-botanical-garden",
       "name": {
-        "en": "Rayong Aquarium",
-        "nl": "Rayong Aquarium"
+        "en": "Rayong Botanical Garden",
+        "nl": "Rayong Botanical Garden"
       },
-      "type": "attraction",
-      "image": "/images/cities/phuket/phuket-old-town.webp",
+      "type": "nature",
+      "image": "/images/cities/generated/rayong.webp",
       "description": {
-        "en": "Educational marine aquarium at the eastern end of Mae Ramphueng Beach showcasing Gulf of Thailand species",
-        "nl": "Educatief zeeaquarium aan het oostelijke einde van Mae Ramphueng Beach met soorten uit de Golf van Thailand"
+        "en": "Rayong's strongest wetland attraction, built around waterways, plant life, and solar-powered boat access.",
+        "nl": "Rayongs sterkste wetland-attractie, opgebouwd rond waterwegen, planten en boottoegang."
       },
       "entrance_fee": {
-        "thb": 50,
-        "usd": 1
+        "thb": null,
+        "usd": null
       },
+      "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=Rayong%20Botanical%20Garden",
       "highlights": [
-        "Marine species",
-        "Educational exhibits",
-        "Family-friendly"
+        "Wetland ecosystem",
+        "Solar-powered boat tours",
+        "Prasae-side nature day"
       ],
-      "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=Rayong%20Aquarium%20Rayong%20Thailand"
+      "best_time": "morning",
+      "duration_hours": 3
     },
     {
       "id": 5,
-      "slug": "khao-laem-ya-national-park",
+      "slug": "thung-prong-thong",
       "name": {
-        "en": "Khao Laem Ya-Mu Ko Samet National Park",
-        "nl": "Khao Laem Ya-Mu Ko Samet Nationaal Park"
+        "en": "Thung Prong Thong",
+        "nl": "Thung Prong Thong"
       },
       "type": "nature",
-      "image": "/images/cities/phuket/phuket-old-town.webp",
+      "image": "/images/cities/generated/rayong.webp",
       "description": {
-        "en": "Coastal national park covering both Koh Samet island and the Khao Laem Ya headland on the mainland",
-        "nl": "Kust nationaal park dat zowel het eiland Koh Samet als de Khao Laem Ya-kaap op het vasteland omvat"
+        "en": "A mangrove-boardwalk stop on the Prasae side that works best in late light and as part of a broader wetland day.",
+        "nl": "Een mangrove-boardwalkstop aan de Prasae-kant die het best werkt in laat licht en als onderdeel van een bredere wetlanddag."
       },
       "entrance_fee": {
-        "thb": 200,
-        "usd": 6
+        "thb": null,
+        "usd": null
       },
+      "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=Thung%20Prong%20Thong%20Rayong",
       "highlights": [
-        "Coastal viewpoints",
-        "Tide pools",
-        "Island and mainland sections"
+        "Mangrove boardwalk",
+        "Late-afternoon timing",
+        "Good with botanical garden"
       ],
-      "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=Khao%20Laem%20Ya-Mu%20Ko%20Samet%20National%20Park%20Rayong%20Thailand"
+      "best_time": "late afternoon",
+      "duration_hours": 2
     },
     {
       "id": 6,
-      "slug": "ao-prao-beach",
+      "slug": "yomjinda-road",
       "name": {
-        "en": "Ao Prao Beach (Koh Samet)",
-        "nl": "Ao Prao Strand (Koh Samet)"
+        "en": "Yomjinda Road",
+        "nl": "Yomjinda Road"
       },
-      "type": "beach",
-      "image": "/images/cities/phuket/phuket-old-town.webp",
+      "type": "neighborhood",
+      "image": "/images/cities/generated/rayong.webp",
       "description": {
-        "en": "The only beach on Koh Samet's west coast with stunning sunsets and a peaceful atmosphere",
-        "nl": "Het enige strand aan de westkust van Koh Samet met prachtige zonsondergangen en een vredig sfeer"
+        "en": "Rayong's most useful old-town walk, with heritage buildings, museum context and an evening food-and-market rhythm.",
+        "nl": "Rayongs nuttigste old-townwandeling, met erfgoedgebouwen, museumcontext en avondritme van food en markt."
       },
       "entrance_fee": {
-        "thb": 0,
-        "usd": 0
+        "thb": null,
+        "usd": null
       },
+      "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=Yomjinda%20Road%20Rayong",
       "highlights": [
-        "West coast sunsets",
-        "Peaceful atmosphere",
-        "Upscale resorts"
+        "Old-town street",
+        "Rayong Museum side",
+        "Best city-core evening walk"
       ],
-      "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=Ao%20Prao%20Beach%20(Koh%20Samet)%20Rayong%20Thailand"
-    },
-    {
-      "id": 7,
-      "slug": "rayong-fruit-orchards",
-      "name": {
-        "en": "Rayong Fruit Orchards",
-        "nl": "Rayong Fruitboomgaarden"
-      },
-      "type": "nature",
-      "image": "/images/cities/phuket/phuket-old-town.webp",
-      "description": {
-        "en": "Tropical fruit orchards offering visitors the chance to pick durian, rambutan, and mangosteen during fruit season",
-        "nl": "Tropische fruitboomgaarden waar bezoekers tijdens het fruitseizoen durian, rambutan en mangosteen kunnen plukken"
-      },
-      "entrance_fee": {
-        "thb": 100,
-        "usd": 3
-      },
-      "highlights": [
-        "Pick your own fruit",
-        "Durian tasting",
-        "Seasonal April-June"
-      ],
-      "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=Rayong%20Fruit%20Orchards%20Rayong%20Thailand"
-    },
-    {
-      "id": 8,
-      "slug": "ban-phe-fishing-village",
-      "name": {
-        "en": "Ban Phe Fishing Village & Pier",
-        "nl": "Ban Phe Vissersdorp & Pier"
-      },
-      "type": "cultural",
-      "image": "/images/cities/phuket/phuket-old-town.webp",
-      "description": {
-        "en": "Lively fishing village and ferry departure point for Koh Samet with seafood stalls and shrimp paste production",
-        "nl": "Levendig vissersdorp en vertrekpunt voor de veerboot naar Koh Samet met zeevruchtkramen en garnalenpasta-productie"
-      },
-      "entrance_fee": {
-        "thb": 0,
-        "usd": 0
-      },
-      "highlights": [
-        "Ferry to Koh Samet",
-        "Seafood stalls",
-        "Shrimp paste production"
-      ],
-      "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=Ban%20Phe%20Fishing%20Village%20%26%20Pier%20Rayong%20Thailand"
-    },
-    {
-      "id": 9,
-      "slug": "suan-son-beach",
-      "name": {
-        "en": "Suan Son Beach (Pine Beach)",
-        "nl": "Suan Son Strand (Dennenstrand)"
-      },
-      "type": "beach",
-      "image": "/images/cities/phuket/phuket-old-town.webp",
-      "description": {
-        "en": "Military-maintained beach with casuarina pines providing natural shade, popular with Thai families on weekends",
-        "nl": "Door het leger onderhouden strand met casuarinadennen die natuurlijke schaduw bieden, populair bij Thaise gezinnen in het weekend"
-      },
-      "entrance_fee": {
-        "thb": 0,
-        "usd": 0
-      },
-      "highlights": [
-        "Pine tree shade",
-        "Clean sand",
-        "Thai families' beach"
-      ],
-      "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=Suan%20Son%20Beach%20(Pine%20Beach)%20Rayong%20Thailand"
+      "best_time": "late afternoon or evening",
+      "duration_hours": 2
     }
   ]
 }

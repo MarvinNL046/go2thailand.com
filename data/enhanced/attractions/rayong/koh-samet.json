@@ -1,0 +1,79 @@
+{
+  "id": 2,
+  "slug": "koh-samet",
+  "name": {
+    "en": "Koh Samet",
+    "nl": "Koh Samet"
+  },
+  "type": "island",
+  "city_slug": "rayong",
+  "address": "Koh Samet, Phe, Mueang Rayong, Rayong, Thailand",
+  "location": null,
+  "opening_hours": "Boat schedules, pier procedures and park access conditions should be rechecked directly before travel.",
+  "entrance_fee": {
+    "thb": null,
+    "usd": null
+  },
+  "description": {
+    "en": "Rayong's headline island extension, best treated as one deliberate add-on rather than the province's entire story.",
+    "nl": "Rayongs bekendste eilanduitstap, het best als bewuste add-on in plaats van als het hele verhaal van de provincie."
+  },
+  "highlights": [
+    "Easy island add-on",
+    "East- and west-coast beach contrast",
+    "Best as an edited extension"
+  ],
+  "image": "/images/cities/generated/rayong.webp",
+  "official_website": "https://www.tourismthailand.org/Accessibility/Destinations/Provinces/Rayong/465",
+  "seo": {
+    "metaTitle": {
+      "en": "Koh Samet from Rayong | Go2Thailand",
+      "nl": "Koh Samet vanuit Rayong | Go2Thailand"
+    },
+    "metaDescription": {
+      "en": "How to use Koh Samet as a deliberate Rayong extension instead of letting the island erase the rest of the province.",
+      "nl": "Hoe je Koh Samet als bewuste Rayong-uitstap gebruikt zonder de rest van de provincie te laten verdwijnen."
+    }
+  },
+  "tags": [
+    "rayong",
+    "koh samet",
+    "ban phe",
+    "island",
+    "beach"
+  ],
+  "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=Koh%20Samet%20Rayong",
+  "best_time": "morning departure",
+  "duration_hours": 8,
+  "enhanced_description": "Koh Samet is still Rayong's strongest island draw, but the trip gets better once you stop asking it to carry the whole province alone. The island works best as one deliberate extension from the mainland coast, especially when you are clear about whether you want the busier east-side beach rhythm or a quieter west-coast stay such as Ao Prao.\n\nThat distinction matters because Rayong becomes thinner the moment Koh Samet replaces everything else. Keep one mainland day visible first, then let Samet be the edited island add-on that makes sense for your version of the trip.",
+  "detailed_history": "The current Rayong province page still treats Koh Samet as the leading island highlight, while the wider Rayong story continues to include mainland seafood, Ban Phe products, and other coastal stops that should not disappear from the itinerary.",
+  "visitor_experience": "Expect the island to work best when it is intentional. Some travelers only need a day trip, while others should stay overnight to justify the transfer and the west-versus-east coast choice. What matters most is not rushing the island in a way that erases Rayong itself.",
+  "best_time_to_visit": {
+    "time_of_day": "Morning departure",
+    "duration": "Day trip or overnight",
+    "crowd_level": "Can rise sharply on weekends and holidays"
+  },
+  "practical_info": {
+    "how_to_get_there": "Travel via the Ban Phe side and recheck current boat timing, weather conditions and park arrangements before departure.",
+    "nearby_attractions": "Best paired with Ban Phe and Khao Laem Ya if you are structuring the mainland side properly.",
+    "food_options": "Island dining is easiest when you are staying overnight or deliberately timing sunset dinner rather than rushing back to the mainland.",
+    "shopping": "Use the mainland side for seafood products and practical purchases before boarding."
+  },
+  "insider_tips": [
+    "Choose the island because you want the island, not because every Rayong page says you have to.",
+    "A quieter west-coast stay reads very differently from a busier Sai Kaew-style beach day.",
+    "Transport and fee details are unstable enough that they should be rechecked directly each trip."
+  ],
+  "verified_note": "Source-backed summary based on Rayong province coverage and official Koh Samet hotel information. Reconfirm current transport and access details before travel.",
+  "cultural_significance": "Koh Samet remains Rayong's best-known outward-facing draw, but it is more useful editorially when it is treated as one part of the province's coastal system rather than the whole identity.",
+  "contentSources": [
+    {
+      "name": "Rayong Province Page",
+      "url": "https://www.tourismthailand.org/Accessibility/Destinations/Provinces/Rayong/465"
+    },
+    {
+      "name": "Ao Prao Resort",
+      "url": "https://www.aopraoresort.com/"
+    }
+  ]
+}

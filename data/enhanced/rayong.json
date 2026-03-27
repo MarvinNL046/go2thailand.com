@@ -15,22 +15,25 @@
   "region": "Central",
   "province": "Rayong",
   "description": {
-    "en": "Coastal province east of Bangkok, gateway to the popular island of Koh Samet. Famous for tropical fruit orchards, long sandy beaches, fresh seafood, and a relaxed atmosphere away from the tourist crowds.",
-    "nl": "Kustprovincie ten oosten van Bangkok, toegangspoort tot het populaire eiland Koh Samet. Beroemd om tropische fruitboomgaarden, lange zandstranden, verse zeevruchten en een ontspannen sfeer weg van de toeristische drukte.",
+    "en": "Rayong works best as an eastern Gulf coast base built around Khao Laem Ya, Ban Phe and Mae Ramphueng first, then one deliberate Koh Samet or Prasae-side extension. The province gets stronger when you keep the mainland coast, old-town layer and fruit-season identity visible instead of treating everything as a ferry stop.",
+    "nl": "Rayong werkt het best als basis aan de oostelijke Golfkust, met eerst Khao Laem Ya, Ban Phe en Mae Ramphueng, en daarna hooguit een bewuste Koh Samet- of Prasae-zijuitstap. De provincie wordt sterker zodra je de vastelandkust, het old-town laagje en het fruitseizoen zichtbaar houdt in plaats van alles als ferry-stop te verkopen.",
     "ja": "バンコクの東に位置する海岸沿いの県ラヨーンは、人気のサメット島への玄関口であり、フルーツ農園やシーフードでも有名です。",
     "ko": "방콕 동쪽의 해안 지방으로, 인기 있는 꼬사멧 섬의 관문입니다. 열대 과일 농장, 긴 모래 해변, 신선한 해산물, 관광객 인파에서 벗어난 여유로운 분위기로 유명합니다.",
     "th": "จังหวัดชายทะเลตะวันออก มีเกาะเสม็ด ทุเรียน ผลไม้สด และหาดทรายสะอาด",
     "de": "Die Küstenprovinz östlich von Bangkok, Tor zur beliebten Insel Koh Samet. Bekannt für tropische Obstgärten, lange Sandstrände, frische Meeresfrüchte und eine entspannte Atmosphäre fernab der Touristenmassen.",
-    "fr": "Province côtière à l’est de Bangkok, porte d’entrée vers la populaire île de Koh Samet. Connue pour ses vergers de fruits tropicaux, ses longues plages de sable, ses fruits de mer frais et une ambiance détendue loin des foules de touristes.",
+    "fr": "Province côtière à l’est de Bangkok, porte d’entrée vers la populaire île Koh Samet. Connue pour ses vergers de fruits tropicaux, ses longues plages de sable, ses fruits de mer frais et une ambiance détendue loin des foules.",
     "ru": "Прибрежная провинция к востоку от Бангкока, ворота к популярному острову Ко Самет. Известна тропическими фруктовыми садами, длинными песчаными пляжами, свежими морепродуктами и непринуждённой атмосферой вдали от туристических толп.",
-    "zh": "海岸省份，位于曼谷以东，是前往热门的考桑美特岛的门户。以热带水果园、漫长的白沙海滩、新鲜的海鲜以及远离游客人群的放松氛围而闻名。"
+    "zh": "海岸省份，位于曼谷以东，是前往热门考沙美岛的门户，以水果园、海鲜和较轻松的海边节奏闻名。"
   },
   "population": 65000,
+  "population_note": "Municipal-scale population reference used for city-page context.",
   "highlights": [
+    "Khao Laem Ya",
     "Koh Samet",
     "Mae Ramphueng Beach",
-    "Rayong Aquarium",
-    "Fruit Orchards"
+    "Rayong Botanical Garden",
+    "Thung Prong Thong",
+    "Yomjinda Road"
   ],
   "location": {
     "lat": 12.6814,
@@ -39,10 +42,10 @@
   "image": "/images/cities/generated/rayong.webp",
   "seo": {
     "metaTitle": {
-      "en": "Discover Rayong | What to do in Rayong?",
-      "nl": "Ontdek Rayong | Wat te doen in Rayong?",
+      "en": "Rayong Thailand Guide 2026 | Mainland Coast, Koh Samet, Food, Hotels",
+      "nl": "Rayong Thailand gids 2026 | Vastelandkust, Koh Samet, food en hotels",
       "ja": "ラヨーンを満喫 | ラヨーンの観光・見どころガイド",
-      "ko": "라용 태국 — 꼬사멧 & 해변 여행 가이드 2026",
+      "ko": "라용 태국 여행 가이드 2026",
       "th": "ระยอง ประเทศไทย — คู่มือท่องเที่ยวฉบับสมบูรณ์ 2026",
       "de": "Entdecken Sie Rayong | Was tun in Rayong?",
       "fr": "Découvrez Rayong | Que faire à Rayong ?",
@@ -50,854 +53,680 @@
       "zh": "发现罗勇 | 在罗勇做什么？"
     },
     "metaDescription": {
-      "en": "Your guide to Rayong, Thailand – tips, highlights, food, hotels.",
-      "nl": "Jouw gids voor Rayong, Thailand – tips, highlights, eten, hotels.",
+      "en": "Plan Rayong around Khao Laem Ya, Ban Phe, Mae Ramphueng, the Prasae mangrove side, and one deliberate Koh Samet extension instead of thin ferry-only copy.",
+      "nl": "Plan Rayong rond Khao Laem Ya, Ban Phe, Mae Ramphueng, de Prasae-mangrovekant en hooguit één bewuste Koh Samet-uitstap, in plaats van dunne ferry-only copy.",
       "ja": "タイ・ラヨーンの旅行ガイド — おすすめスポット、グルメ、ホテル情報をご紹介。",
-      "ko": "라용(태국) 완벽 여행 가이드: 꼬사멧 섬, 과일 농장, 해산물, 해변. 가격, 팁, 방콕에서 가는 법.",
+      "ko": "라용(태국) 완벽 여행 가이드: 꼬사멧 섬, 과일 농장, 해산물, 해변. 팁과 동선을 정리한 실전형 가이드.",
       "th": "คู่มือท่องเที่ยวระยอง ประเทศไทย — สถานที่ท่องเที่ยว อาหาร ที่พัก และเคล็ดลับ อัปเดต 2026",
       "de": "Ihr Guide zu Rayong, Thailand – Tipps, Highlights, Essen, Hotels.",
       "fr": "Votre guide pour Rayong, Thaïlande – conseils, points forts, gastronomie, hôtels.",
       "ru": "Ваш гид по Районгу, Таиланд — советы, достопримечательности, еда, отели.",
-      "zh": "您的泰国罗勇指南——小贴士、亮点、美食、酒店。"
+      "zh": "您的泰国罗勇指南——海岸、景点、美食与住宿。"
     }
   },
   "categories": {
     "food": {
-      "en": "Best restaurants and street food in Rayong",
-      "nl": "Beste restaurants en streetfood in Rayong",
-      "ja": "ラヨーンのおすすめレストラン＆ストリートフード",
-      "ko": "라용 추천 레스토랑과 길거리 음식",
-      "th": "ร้านอาหารและสตรีทฟู้ดที่ดีที่สุดในระยอง"
+      "en": "Best restaurants and seafood-focused food in Rayong",
+      "nl": "Beste restaurants en seafood-focused food in Rayong",
+      "ja": "ラヨーンのおすすめレストラン＆フード",
+      "ko": "라용 추천 레스토랑과 음식",
+      "th": "ร้านอาหารและอาหารทะเลที่ดีที่สุดในระยอง"
     },
     "hotels": {
-      "en": "Top hotels in Rayong | Tips & deals",
-      "nl": "Beste hotels in Rayong | Tips & aanbiedingen",
-      "ja": "ラヨーンのおすすめホテル｜お得な情報＆アドバイス",
-      "ko": "라용 추천 호텔 | 팁 & 특가",
-      "th": "โรงแรมแนะนำในระยอง | เคล็ดลับและดีล"
+      "en": "Top hotels in Rayong | City, beach and island stays",
+      "nl": "Beste hotels in Rayong | City-, beach- en island-stays",
+      "ja": "ラヨーンのおすすめホテル",
+      "ko": "라용 추천 호텔 | 시내·비치·섬 숙소",
+      "th": "โรงแรมแนะนำในระยอง | ตัวเมือง ชายหาด และเกาะ"
     },
     "attractions": {
       "en": "Top attractions in Rayong",
       "nl": "Top bezienswaardigheden in Rayong",
       "ja": "ラヨーンの人気観光スポット",
-      "ko": "라용 인기 관광 명소",
+      "ko": "라용 핵심 명소",
       "th": "สถานที่ท่องเที่ยวยอดนิยมในระยอง"
     }
   },
   "tags": [
-    "central",
     "rayong",
-    "thailand",
-    "travel",
-    "tourism",
-    "guide"
+    "eastern gulf",
+    "koh samet",
+    "ban phe",
+    "khao laem ya",
+    "thung prong thong",
+    "rayong botanical garden",
+    "thailand"
   ],
-  "enhanced_description": "The drive from Bangkok to Rayong takes under three hours along the Motorway, and somewhere past Chonburi the landscape shifts from industrial estates to fruit orchards and coconut palms. I pulled off the highway near Ban Phe to follow hand-painted signs advertising \"durian, rambutan, mangosteen\" and found myself in a roadside orchard where a farmer named Somchai let me pick rambutans straight from the tree. He cracked open a durian with a machete, and the creamy flesh, warm from the sun, was so superior to the plastic-wrapped supermarket version that I bought two more to take to my hotel. This is Rayong's first gift: Thailand's fruit basket, where the orchards supply half the country's tropical harvest.\n\nBut most visitors come to Rayong for one reason: Koh Samet. The speedboat from Ban Phe pier takes twenty minutes, and as the island's white crescents of sand appeared through the spray, I felt that familiar thrill of island arrival. Koh Samet occupies a sweet spot in the Thai island spectrum: developed enough for comfortable accommodation and decent restaurants, yet small enough that a motorbike can circle the whole island in an hour. I based myself at Ao Wong Duean, a horseshoe bay on the eastern coast, where the turquoise water was warm as a bath and the sand was the fine white powder that postcards promise but rarely deliver.\n\nBack on the mainland, Mae Ramphueng Beach surprised me with its length and emptiness. This twelve-kilometer stretch of golden sand runs south from the fishing village of Paknam Rayong, and on a Tuesday morning I walked for an hour without seeing another tourist. Fishing boats lined the shore near the village end, and a row of seafood restaurants with plastic chairs and concrete floors served the catch of the day at prices that made me reconsider ever eating in Bangkok again. I ordered pla kapong neung manao, steamed sea bass with lime and chili, so fresh the flesh was translucent, and a plate of fried squid with garlic that arrived sizzling from the wok.\n\nRayong town itself is a functional Thai provincial city, not particularly scenic but with a genuine local character. The Rayong Aquarium at the east end of Mae Ramphueng Beach is a modest but educational attraction, particularly for families. The morning market in town on Sukhumvit Road is a riot of color: piles of shrimp paste, Thailand's famous nam pla ra fermented fish sauce that Rayong producers are known for, baskets of dried squid, and mountains of the tropical fruits for which the province is celebrated. I tasted som tum made with Rayong shrimp paste at a stall and nearly cried from the complexity of its fermented, spicy, sour flavor.\n\nWhat sets Rayong apart is its accessibility and authenticity. Unlike Pattaya an hour north, Rayong has not been overtaken by mass tourism, yet it is close enough to Bangkok for a genuine weekend escape. The Khao Laem Ya-Mu Ko Samet National Park protects both the island and a beautiful stretch of rocky mainland coast with tide pools, viewpoints, and easy hiking trails. On my last evening, I sat on the rocks at the Khao Laem Ya headland watching the sun sink into the Gulf of Thailand, fishing boats silhouetted against the amber sky, and thought that sometimes the best destinations in Thailand are the ones nobody tells you about.",
+  "enhanced_description": "Rayong gets weaker when it is reduced to a quick ferry transfer for Koh Samet. The province is better understood as a layered east-coast trip: the mainland hinge around Ban Phe and Khao Laem Ya, the long easy beach rhythm at Mae Ramphueng, a modest but useful old-town layer on Yomjinda Road, and then one deliberate extension either onto Koh Samet or toward the Prasae-side mangrove and wetland landscape.\n\nThat framing also makes the food and hotel advice cleaner. Rayong is one of the easier Gulf-side provinces for fresh seafood, fruit-season travel, and split-stay planning because city hotels, mainland beach resorts, and one island stay can all make sense for different versions of the trip. The pages are stronger when they reflect that choice instead of padding the itinerary with scraped rankings, brittle price claims, and filler about \"hidden paradise\" beaches that all sound the same.",
+  "overview": "Rayong sits in a useful middle ground between Bangkok convenience and a proper coastal change of pace. The mainland side is the key to understanding it. Khao Laem Ya and Ban Phe explain the province's relationship to Koh Samet, while Mae Ramphueng gives you a long, straightforward beach without needing to board a boat at all. This is the part of Rayong that is easiest to get wrong if every guide starts and ends with the island.\n\nThe city itself is not about grand monuments, but it does have enough substance to keep the trip from feeling interchangeable. Yomjinda Road and the old-town pocket around it give Rayong a workable heritage layer, and the city-hotel cluster is practical for short breaks, meetings, and first-night arrivals before moving coastward.\n\nThen the province opens outward. TAT's current Rayong framing still keeps fruit gardens, Thung Prong Thong, and the wetland side relevant, and that matters because it gives the province a real ecological and seasonal identity beyond beaches alone. If you have two or three nights, Rayong becomes much stronger when you keep one mainland coast day and one edited extension day rather than rushing everything into Koh Samet only.",
   "hidden_gems": [
     {
-      "name": {
-        "en": "Rayong Fruit Orchards (Suan Lamai)",
-        "nl": "Rayong Fruitboomgaarden (Suan Lamai)",
-        "ja": "ラヨーン・フルーツ農園（スアン・ラマイ）",
-        "ko": "라용 과일 농장 (쑤안 라마이)"
-      },
-      "description": {
-        "en": "Visit local orchards during fruit season (April-June) to pick your own durian, rambutan, mangosteen, and longkong straight from the trees. Many farmers welcome visitors for a small fee.",
-        "nl": "Bezoek lokale boomgaarden tijdens het fruitseizoen (april-juni) om je eigen durian, rambutan, mangosteen en longkong direct van de bomen te plukken. Veel boeren verwelkomen bezoekers voor een kleine vergoeding.",
-        "ja": "フルーツシーズン（4月〜6月）に地元の農園でドリアン、ランブータン、マンゴスチンなどを自分で収穫できます。新鮮なトロピカルフルーツを味わえる貴重な体験です。",
-        "ko": "두리안, 망고스틴, 람부탄 등 열대 과일을 직접 따서 맛볼 수 있는 농장으로, 5-6월이 최적 시기입니다."
-      },
-      "type": "experience"
+      "name": "Hat Saeng Chan for a city-side sea break",
+      "story": "Rayong's city-side coast is stronger than many first-timers expect. Hat Saeng Chan sits close enough to town for a quick sea detour, which makes it useful when you want water and air without committing the day to Ban Phe or Koh Samet.",
+      "how_to_find": "Use it as a short coastal add-on from a city-center hotel rather than as the province's headline beach day.",
+      "best_time": "Late afternoon",
+      "local_insights": [
+        "Better for a short break than for a full province day",
+        "Works well with city hotels and Yomjinda"
+      ]
     },
     {
-      "name": {
-        "en": "Ao Prao Beach (Koh Samet)",
-        "nl": "Ao Prao Strand (Koh Samet)",
-        "ja": "アオプラオビーチ（サメット島）",
-        "ko": "아오쁘라오 해변 (꼬사멧)"
-      },
-      "description": {
-        "en": "The only beach on Koh Samet's quieter west coast, accessible by a short trail or boat. Stunning sunset views with a fraction of the east coast crowds. Home to just a couple of upscale resorts.",
-        "nl": "Het enige strand aan de rustigere westkust van Koh Samet, bereikbaar via een kort pad of boot. Prachtige zonsondergangen met een fractie van de drukte van de oostkust. Slechts een paar luxe resorts.",
-        "ja": "サメット島の静かな西海岸にある唯一のビーチで、短いトレイルかボートタクシーでアクセスできます。夕日が美しく、東海岸より穏やかな雰囲気です。",
-        "ko": "꼬사멧 서쪽의 조용한 해변으로, 관광객이 적고 일몰이 아름다운 숨겨진 명소입니다."
-      },
-      "type": "nature"
+      "name": "Fruit-garden timing instead of generic orchard filler",
+      "story": "TAT's current Rayong planning still keeps fruit gardens visible for good reason. A real orchard stop only works when the season is right, which is exactly why it adds more value than another year-round generic attraction entry.",
+      "how_to_find": "Plan it only in peak fruit months and pair it with the mainland coast or city side, not with a packed island day.",
+      "best_time": "April to June",
+      "local_insights": [
+        "Best used seasonally, not as permanent filler",
+        "More useful for lunch or daytime travel than late afternoon"
+      ]
+    }
+  ],
+  "authentic_experiences": [
+    {
+      "activity": "Treat Ban Phe and Khao Laem Ya as the mainland hinge of the trip",
+      "story": "This is the strongest way to understand why Rayong matters beyond Koh Samet. The headland, the pier-side movement, and the seafood-and-shrimp-paste layer around Ban Phe explain the province more clearly than a rushed island transfer.",
+      "cultural_significance": "TAT still frames Rayong through Koh Samet, seafood, Ban Phe products, and the mainland coast together rather than through island marketing alone.",
+      "how_to_participate": "Give the mainland side one real block of time before you decide whether Koh Samet needs to be an overnight stay or only a deliberate extension.",
+      "insights": [
+        "The mainland side clarifies the province better than ferry-first planning",
+        "Sunset timing is strongest at Khao Laem Ya"
+      ],
+      "href": "/city/rayong/attractions/khao-laem-ya/",
+      "cta_label": "See the Khao Laem Ya guide"
     },
     {
-      "name": {
-        "en": "Rayong Shrimp Paste Village (Ban Phe)",
-        "nl": "Rayong Garnalenpasta Dorp (Ban Phe)",
-        "ja": "ラヨーン・エビペースト村（バーンペー）",
-        "ko": "라용 새우젓 마을 (반페)"
-      },
-      "description": {
-        "en": "The fishing village of Ban Phe is famous for producing kapi, Thai shrimp paste, using traditional sun-drying methods. Watch the production process and buy the freshest kapi in Thailand.",
-        "nl": "Het vissersdorp Ban Phe is beroemd om de productie van kapi, Thaise garnalenpasta, met traditionele zondroging. Bekijk het productieproces en koop de versste kapi van Thailand.",
-        "ja": "バーンペーの漁村はタイのエビペースト（カピ）の名産地で、伝統的な製法を見学し、新鮮なシーフードも楽しめます。",
-        "ko": "전통 새우젓(까삐) 제조 과정을 볼 수 있는 어촌 마을로, 태국 요리의 핵심 재료를 만드는 현장입니다."
-      },
-      "type": "experience"
+      "activity": "Use fruit season as a planning tool, not just as a slogan",
+      "story": "Rayong's fruit identity is real, but it becomes useful only when it changes the trip shape. TAT still ties April-to-June travel to fruit gardens and the annual festival period, which makes orchard stops worth keeping as a seasonal move rather than as permanent filler.",
+      "cultural_significance": "The province page still highlights the Rayong Fruit Festival and fruit season as a core local identity marker.",
+      "how_to_participate": "If you are traveling in fruit season, build one orchard stop into the day. If you are not, move the focus back to coast, wetlands, and food.",
+      "insights": [
+        "Best in late spring to early rainy-season shoulder months",
+        "Keep it as one edited stop, not a full day of agritourism padding"
+      ],
+      "href": "/city/rayong/top-10-attractions/",
+      "cta_label": "See the attractions guide"
     },
     {
-      "name": {
-        "en": "Khao Laem Ya Viewpoint",
-        "nl": "Khao Laem Ya Uitzichtpunt",
-        "ja": "カオ・レームヤー展望台",
-        "ko": "카오람야 전망대"
-      },
-      "description": {
-        "en": "A rocky headland at the tip of the national park mainland section with panoramic views of Koh Samet and the Gulf islands. The sunset from the viewpoint rocks is breathtaking.",
-        "nl": "Een rotsachtige kaap aan de punt van het vastelanddeel van het nationale park met panoramisch uitzicht op Koh Samet en de Golfeilanden. De zonsondergang vanaf de uitzichtrotsen is adembenemend.",
-        "ja": "国立公園の本土側にある岩場の岬で、海とサメット島のパノラマビューが楽しめます。夕暮れ時が特におすすめです。",
-        "ko": "라용 해안선과 섬들의 파노라마를 감상할 수 있는 국립공원 내 전망대입니다."
-      },
-      "type": "nature"
+      "activity": "Slow down on the Prasae-side mangrove and wetland route",
+      "story": "Rayong Botanical Garden and Thung Prong Thong give the province its strongest ecological counterweight to the beach side. This route works because it feels different in texture, pace, and landscape from the Samet-facing coast.",
+      "cultural_significance": "TAT's current EEC and Rayong planning still singles out the botanical garden and Thung Prong Thong as durable nature-led stops.",
+      "how_to_participate": "Use this as one edited day in the Klaeng and Prasae direction, ideally with the botanical garden first and the mangrove boardwalk later in the afternoon.",
+      "insights": [
+        "Best for travelers who have already done the main coast",
+        "Late light improves Thung Prong Thong"
+      ],
+      "href": "/city/rayong/attractions/thung-prong-thong/",
+      "cta_label": "See the Thung Prong Thong guide"
     },
     {
-      "name": {
-        "en": "Suan Son Beach (Pine Beach)",
-        "nl": "Suan Son Strand (Dennenstrand)",
-        "ja": "スアンソン・ビーチ（松林ビーチ）",
-        "ko": "쑤안손 해변 (소나무 해변)"
-      },
-      "description": {
-        "en": "A military-maintained beach with casuarina pines providing natural shade, popular with Thai families on weekends but deserted midweek. Clean sand, calm water, and zero tourist infrastructure.",
-        "nl": "Een door het leger onderhouden strand met casuarinadennen die natuurlijke schaduw bieden, populair bij Thaise families in het weekend maar verlaten doordeweeks. Schoon zand, kalm water en geen toeristische infrastructuur.",
-        "ja": "軍が管理するカジュアリーナ松の木陰が心地よいビーチで、週末にはタイ人家族に人気のピクニックスポットです。観光客が少なく穏やかな雰囲気です。",
-        "ko": "소나무 숲으로 둘러싸인 조용한 해변으로, 태국 해군이 관리하며 현지인들이 즐겨 찾습니다."
-      },
-      "type": "nature"
+      "activity": "Keep one urban Rayong walk in the plan",
+      "story": "Yomjinda Road is not a blockbuster sight, but it keeps the city from collapsing into pure resort logistics. The old buildings, small museum layer, and night-market rhythm give Rayong a more readable town center than most quick-stop guides admit.",
+      "cultural_significance": "The current Novotel Rayong Star local guide still treats Yomjinda as the city's old-town walk with heritage buildings, museum context, and night-market life.",
+      "how_to_participate": "Use it as a late-afternoon or evening walk around a city-hotel stay rather than trying to force it into a coast-heavy day.",
+      "insights": [
+        "Better as a pacing device than as a full standalone day",
+        "Useful on arrival or departure days"
+      ],
+      "href": "/city/rayong/attractions/yomjinda-road/",
+      "cta_label": "See the Yomjinda guide"
+    }
+  ],
+  "foodie_adventures": [
+    {
+      "dish": "Seafood and Ban Phe market products",
+      "location": "Ban Phe side",
+      "story": "TAT still highlights Rayong as a seafood province and specifically calls out Ban Phe products such as shrimp paste, dried shrimp, dried squid, and salted fish. That makes Ban Phe more than a pier; it is also part of the province's food identity.",
+      "where_to_find": "Best as a mainland-coast meal or shopping stop before or after Khao Laem Ya rather than as a rushed ferry snack.",
+      "price_range": "Budget to mid-range",
+      "ordering_tips": [
+        "Keep seafood meals on the mainland if you want Rayong's province character to show up clearly",
+        "Use Ban Phe for products and a practical lunch, not only for boat boarding"
+      ],
+      "href": "/city/rayong/top-10-restaurants/",
+      "cta_label": "See the food guide"
+    },
+    {
+      "dish": "Old-town noodles, snacks, and evening bites",
+      "location": "Yomjinda Road",
+      "story": "Yomjinda is one of the clearest places to keep Rayong's food plan from turning into only resort dining. The old-town lane works better as an evening stroll with several smaller stops than as one fixed formal meal.",
+      "where_to_find": "Best after dark or in the late afternoon when the old-town walk itself is part of the appeal.",
+      "price_range": "Budget",
+      "ordering_tips": [
+        "Walk first and commit later instead of locking into the first table",
+        "Use this on a city night, not on the same evening as a coastal resort dinner"
+      ],
+      "href": "/city/rayong/attractions/yomjinda-road/",
+      "cta_label": "See the Yomjinda guide"
+    },
+    {
+      "dish": "A planned city-center hotel dinner",
+      "location": "Holiday Inn & Suites Rayong City Centre",
+      "story": "The stronger urban dinner play is not another scraped ranking list. It is one deliberate city-center meal where the hotel restaurants actually add planning value, especially if you are staying in town on the first or last night.",
+      "where_to_find": "Best for arrival nights, work trips, or rainy evenings when a reliable in-city dinner matters more than a longer coast transfer.",
+      "price_range": "Mid-range to upscale",
+      "ordering_tips": [
+        "Choose The Brasserie when you want breadth and a buffet-led dinner",
+        "Choose Elementi when the point is rooftop timing and a more planned evening"
+      ],
+      "href": "/city/rayong/top-10-restaurants/",
+      "cta_label": "See the food guide"
+    },
+    {
+      "dish": "A coastal or island sunset dinner",
+      "location": "Rayong Marriott or Ao Prao Resort",
+      "story": "Rayong works best when you reserve exactly one sunset-facing meal for the coast. Marriott's Wang Kaew side and Ao Prao's west-coast island setting both make sense when the dinner is treated as a real destination rather than as filler around the hotel room.",
+      "where_to_find": "Use this as one special evening only, not as every-night resort dining.",
+      "price_range": "Upscale",
+      "ordering_tips": [
+        "Marriott suits a mainland resort stay",
+        "Ao Prao suits the one-night Koh Samet version of the trip"
+      ],
+      "href": "/city/rayong/top-10-restaurants/",
+      "cta_label": "See the food guide"
+    }
+  ],
+  "local_insights": [
+    "Rayong is stronger as a mainland coast plus one extension, not as a Koh Samet-only page.",
+    "Ban Phe and Khao Laem Ya explain the province better than a rushed boat transfer does.",
+    "Mae Ramphueng is the easiest mainland beach answer if you do not need to sleep on an island.",
+    "The Prasae-side mangrove and botanical route is the best nature counterweight to the beach layer.",
+    "Yomjinda is useful because it gives Rayong a city walk, not because it is a major monument.",
+    "Fruit season matters when it genuinely changes the plan; outside those months it should not dominate the page."
+  ],
+  "seasonal_secrets": "November to February is the easiest all-round period for Rayong because the mainland coast, Khao Laem Ya, and Yomjinda walks are more comfortable and TAT still points to those months as the strongest general visit window. April to June is the meaningful seasonal exception because fruit-garden travel becomes relevant then. The wet season does not remove Rayong from consideration, but island crossings, wetland outings, and late coastal plans should be treated more flexibly.",
+  "budget_reality": {
+    "budget": "Budget",
+    "mid_range": "Mid-range",
+    "luxury": "Upscale",
+    "examples": [
+      "City stays are usually easier to keep affordable than island or private-beach stays.",
+      "A mainland coast day is often better value than turning every night into an island premium.",
+      "One planned splurge dinner is enough; Rayong does not need constant resort spending to work."
+    ],
+    "money_saving_tricks": [
+      "Sleep in the city for practical arrival or departure nights and move coastward only when it materially improves the trip.",
+      "Use the mainland coast and Ban Phe food layer before paying island premiums for every meal."
+    ],
+    "hidden_costs": [
+      "Island transfers, park fees, and resort logistics can make a short Koh Samet add-on cost more than travelers expect.",
+      "Private transport becomes more relevant once you add the botanical-garden and Prasae-side route."
+    ]
+  },
+  "top_attractions": [
+    {
+      "rank": 1,
+      "name": "Khao Laem Ya",
+      "description": "The clearest mainland headline stop because it links Rayong's coast, Ban Phe, and Koh Samet-facing views in one readable place.",
+      "location": "Khao Laem Ya-Mu Ko Samet National Park mainland section",
+      "entrance_fee": "Park admission applies; recheck current rates before you go.",
+      "highlights": [
+        "Mainland headland",
+        "Sunset logic",
+        "Best Ban Phe-side viewpoint"
+      ],
+      "href": "/city/rayong/attractions/khao-laem-ya/",
+      "cta_label": "See the Khao Laem Ya guide"
+    },
+    {
+      "rank": 2,
+      "name": "Koh Samet",
+      "description": "A strong Rayong extension when you treat it as a deliberate island stay or day trip, not as the only thing the province offers.",
+      "location": "Off Ban Phe",
+      "entrance_fee": "Boat and park costs vary; verify current arrangements before travel.",
+      "highlights": [
+        "Easy island extension",
+        "Sai Kaew and Ao Prao contrast",
+        "Best as an edited add-on"
+      ],
+      "href": "/city/rayong/attractions/koh-samet/",
+      "cta_label": "See the Koh Samet guide"
+    },
+    {
+      "rank": 3,
+      "name": "Mae Ramphueng Beach",
+      "description": "The easiest mainland beach answer in Rayong if you want sea time without turning the day into a ferry-and-island operation.",
+      "location": "Southwest of Ban Phe and Rayong city",
+      "entrance_fee": "Public beach access",
+      "highlights": [
+        "Long mainland beach",
+        "Easy seafood-lunch day",
+        "Good without island logistics"
+      ],
+      "href": "/city/rayong/attractions/mae-ramphueng-beach/",
+      "cta_label": "See the Mae Ramphueng guide"
+    },
+    {
+      "rank": 4,
+      "name": "Rayong Botanical Garden",
+      "description": "Rayong's strongest wetland stop, especially if you want a slower nature day built around boat access, local plant life, and the Prasae-side landscape.",
+      "location": "Chak Phong side, Klaeng District",
+      "entrance_fee": "Recheck current local boat and entry arrangements before travel.",
+      "highlights": [
+        "Wetland landscape",
+        "Solar-powered boat tours",
+        "Good ecological counterweight to the beach"
+      ],
+      "href": "/city/rayong/attractions/rayong-botanical-garden/",
+      "cta_label": "See the botanical garden guide"
+    },
+    {
+      "rank": 5,
+      "name": "Thung Prong Thong",
+      "description": "A strong late-afternoon mangrove stop on the Prasae side, useful when you want Rayong to feel broader than beaches alone.",
+      "location": "Pak Nam Prasae area",
+      "entrance_fee": "Public nature-site access; recheck current local arrangements.",
+      "highlights": [
+        "Mangrove boardwalk",
+        "Golden-light timing",
+        "Best as part of a Prasae-side day"
+      ],
+      "href": "/city/rayong/attractions/thung-prong-thong/",
+      "cta_label": "See the Thung Prong Thong guide"
+    },
+    {
+      "rank": 6,
+      "name": "Yomjinda Road",
+      "description": "Rayong's most useful old-town walk, with heritage buildings, local stalls, and enough evening rhythm to justify one city-core stop.",
+      "location": "Tha Pradu, central Rayong",
+      "entrance_fee": "Public street access",
+      "highlights": [
+        "Old-town street",
+        "Rayong Museum side",
+        "Night-market and walking-street rhythm"
+      ],
+      "href": "/city/rayong/attractions/yomjinda-road/",
+      "cta_label": "See the Yomjinda guide"
     }
   ],
   "top_restaurants": [
     {
       "rank": 1,
-      "name": "Social Rooftop Restaurant & Bar",
-      "description": "Top-rated rooftop dining venue with international cuisine, cocktails, and city views.",
-      "cuisine_type": "International, Bar",
-      "price_range": "250-500 THB ($7-14 USD)",
+      "name": "Yomjinda Road food walk",
+      "description": "The strongest non-resort dinner zone if you want Rayong to feel like a city with local food and evening movement instead of only a hotel cluster.",
+      "location": "Yomjinda Road old town",
+      "price_range": "Budget",
       "highlights": [
-        "Rooftop setting",
-        "International menu",
-        "Cocktails",
-        "City views"
+        "Old-town atmosphere",
+        "Snack-and-stroll format",
+        "Best city-evening food move"
       ],
-      "rating": 5
+      "href": "/city/rayong/attractions/yomjinda-road/",
+      "cta_label": "See the Yomjinda guide"
     },
     {
       "rank": 2,
-      "name": "Breeze Restaurant",
-      "description": "Exceptional seafood and international restaurant offering attentive service and scenic dining experience.",
-      "cuisine_type": "Seafood, International",
-      "price_range": "300-600 THB ($9-17 USD)",
+      "name": "Laem Charoen Seafood",
+      "description": "One of the clearest official-name seafood picks to keep Rayong's coastal food identity grounded in a durable local brand.",
+      "location": "Rayong branch",
+      "price_range": "Mid-range",
       "highlights": [
-        "Seafood specialties",
-        "Scenic views",
-        "Professional service",
-        "International menu"
+        "Official Rayong branch",
+        "Seafood-led meal",
+        "Good dependable main-course stop"
       ],
-      "rating": 4.9
+      "href": "/city/rayong/top-10-restaurants/",
+      "cta_label": "See the food guide"
     },
     {
       "rank": 3,
-      "name": "Elementi Rooftop Restaurant & Bar",
-      "description": "Modern Italian and European cuisine served in an upscale rooftop setting with contemporary atmosphere.",
-      "cuisine_type": "Italian, European",
-      "price_range": "350-700 THB ($10-20 USD)",
+      "name": "The Brasserie",
+      "description": "A useful city-center hotel restaurant when you want breadth, a reliable breakfast, or a planned buffet dinner during a town stay.",
+      "location": "Holiday Inn & Suites Rayong City Centre",
+      "price_range": "Mid-range to upscale",
       "highlights": [
-        "Italian cuisine",
-        "European dishes",
-        "Rooftop bar",
-        "Contemporary setting"
+        "Level 5 dining room",
+        "Breakfast and buffet logic",
+        "Strong city-stay restaurant"
       ],
-      "rating": 4.9
+      "href": "/city/rayong/top-10-restaurants/",
+      "cta_label": "See the food guide"
     },
     {
       "rank": 4,
-      "name": "California Steak Restaurant",
-      "description": "American steakhouse offering premium cuts and classic American cuisine in a relaxed setting.",
-      "cuisine_type": "American, Steakhouse",
-      "price_range": "400-800 THB ($12-23 USD)",
+      "name": "Elementi Rooftop Restaurant & Bar",
+      "description": "The sharper city splurge when the point is sea-view rooftop timing rather than another interchangeable dinner table.",
+      "location": "Holiday Inn & Suites Rayong City Centre",
+      "price_range": "Upscale",
       "highlights": [
-        "Premium steaks",
-        "American cuisine",
-        "Casual atmosphere",
-        "Meat specialties"
+        "Rooftop setting",
+        "Italian cuisine",
+        "Useful sunset or evening slot"
       ],
-      "rating": 4.9
+      "href": "/city/rayong/top-10-restaurants/",
+      "cta_label": "See the food guide"
     },
     {
       "rank": 5,
-      "name": "Tapestry Restaurant",
-      "description": "Upscale Asian cuisine restaurant featuring Chinese and Japanese specialties with refined presentation.",
-      "cuisine_type": "Chinese, Japanese",
-      "price_range": "300-600 THB ($9-17 USD)",
+      "name": "Fish Bar",
+      "description": "The better mainland-resort seafood dinner if you want a coastal table without having to sleep on Koh Samet.",
+      "location": "Rayong Marriott Resort & Spa",
+      "price_range": "Upscale",
       "highlights": [
-        "Asian fusion",
-        "Chinese dishes",
-        "Japanese cuisine",
-        "Refined plating"
+        "Seafood focus",
+        "Open-kitchen setup",
+        "Good Wang Kaew-side dinner"
       ],
-      "rating": 4.9
+      "href": "/city/rayong/top-10-restaurants/",
+      "cta_label": "See the food guide"
     },
     {
       "rank": 6,
-      "name": "Ban Phe Seafood Stalls",
-      "description": "Open-air seafood dining along the waterfront serving fresh daily catch with legendary fried squid with garlic and steamed sea bass.",
-      "cuisine_type": "Thai Seafood",
-      "price_range": "100-300 THB ($3-9 USD)",
+      "name": "Ao Prao Resort Restaurant",
+      "description": "The cleanest island-side dinner choice when you are actually staying on Koh Samet's quieter west coast and want the sunset setting to matter.",
+      "location": "Ao Prao Resort, Koh Samet",
+      "price_range": "Upscale",
       "highlights": [
-        "Fresh catch",
-        "Open-air dining",
-        "Local favorite",
-        "Affordable"
+        "Beachfront setting",
+        "Thai, seafood and BBQ menu",
+        "Best for the island-night version of Rayong"
       ],
-      "rating": 4.7
-    },
-    {
-      "rank": 7,
-      "name": "Ploy Talay",
-      "description": "Popular beachfront restaurant on Sai Kaew Beach serving Thai seafood with feet in the sand and nightly fire show performances.",
-      "cuisine_type": "Thai Seafood",
-      "price_range": "200-400 THB ($6-12 USD)",
-      "highlights": [
-        "Beachfront dining",
-        "Thai seafood",
-        "Fire shows",
-        "Casual atmosphere"
-      ],
-      "rating": 4.6
-    },
-    {
-      "rank": 8,
-      "name": "Nong Nuch Seafood",
-      "description": "Large, popular Thai seafood restaurant packed with local families on weekends, known for generous portions and spicy stir-fried crab.",
-      "cuisine_type": "Thai Seafood",
-      "price_range": "150-350 THB ($4.50-10 USD)",
-      "highlights": [
-        "Local favorite",
-        "Generous portions",
-        "Fresh ingredients",
-        "Thai specialties"
-      ],
-      "rating": 4.5
+      "href": "/city/rayong/top-10-restaurants/",
+      "cta_label": "See the food guide"
     }
   ],
   "top_hotels": [
     {
       "rank": 1,
-      "name": "Hilton Garden Inn Rayong",
-      "description": "Reliable upscale international 4-star hotel featuring contemporary rooms, business facilities, and consistent Hilton service standards.",
-      "price_range": "$51-189 USD (1,600-5,900 THB)",
-      "category": "luxury",
+      "name": "Holiday Inn & Suites Rayong City Centre",
+      "description": "The clearest city-center base for first arrivals, mixed work-and-leisure stays, and travelers who want Rayong's urban side to stay practical.",
+      "price_range": "Mid-range to upscale",
+      "category": "midrange",
+      "area": "Central Rayong",
       "highlights": [
-        "4-star amenities",
-        "Contemporary rooms",
-        "Business center",
-        "International standards"
-      ],
-      "rating": 9.4
-    },
-    {
-      "rank": 2,
-      "name": "Plaai Prime Hotel Rayong",
-      "description": "Modern 3-star hotel offering quality accommodation and good value in central Rayong location.",
-      "price_range": "$35 USD (1,100 THB)",
-      "category": "midrange",
-      "highlights": [
-        "Good value",
-        "Central location",
-        "Modern amenities",
-        "Quality service"
-      ],
-      "rating": 9.3
-    },
-    {
-      "rank": 3,
-      "name": "Samed Cabana Resort",
-      "description": "Beachfront resort on Koh Samet island with comfortable cabana-style accommodations and direct beach access.",
-      "price_range": "$76 USD (2,400 THB)",
-      "category": "midrange",
-      "highlights": [
-        "Island location",
-        "Beachfront",
-        "Cabana style",
-        "Beach access"
-      ],
-      "rating": 8.9
-    },
-    {
-      "rank": 4,
-      "name": "B2 Rayong Boutique and Budget Hotel",
-      "description": "Budget-friendly boutique hotel offering clean, comfortable rooms with value pricing in central Rayong.",
-      "price_range": "$17 USD (540 THB)",
-      "category": "budget",
-      "highlights": [
-        "Budget price",
-        "Boutique style",
-        "Clean rooms",
-        "Central location"
-      ],
-      "rating": 9
-    },
-    {
-      "rank": 5,
-      "name": "Malibu Samed Resort",
-      "description": "Mid-range beachfront resort on Koh Samet offering comfortable rooms and beach amenities at moderate prices.",
-      "price_range": "$52-125 USD (1,650-3,950 THB)",
-      "category": "midrange",
-      "highlights": [
-        "Island location",
-        "Beachfront",
-        "Comfortable rooms",
-        "Moderate pricing"
-      ],
-      "rating": 8.5
-    }
-  ],
-  "travel_tips": [
-    {
-      "title": {
-        "en": "Getting to Koh Samet",
-        "nl": "Naar Koh Samet reizen",
-        "ja": "サメット島への行き方"
-      },
-      "content": {
-        "en": "Take a minivan from Bangkok's Eastern Bus Terminal (Ekkamai) to Ban Phe pier (3-3.5 hours). Speedboats to Koh Samet take 15 minutes and ferries take 40 minutes. Most boats land at Na Dan pier.",
-        "nl": "Neem een minivan vanaf het oostelijke busstation van Bangkok (Ekkamai) naar Ban Phe-pier (3-3,5 uur). Speedboten naar Koh Samet doen 15 minuten en veerboten 40 minuten. De meeste boten landen bij Na Dan-pier.",
-        "ja": "バンコクの東バスターミナル（エカマイ）からバーンペー桟橋までミニバンで3〜3.5時間、そこからフェリーで約40分でサメット島に到着します。"
-      }
-    },
-    {
-      "title": {
-        "en": "National Park Fee",
-        "nl": "Nationaal Park Toeslag",
-        "ja": "国立公園入園料"
-      },
-      "content": {
-        "en": "Koh Samet is part of a national park. Foreign visitors pay 200 THB entry fee at the pier. Keep your receipt as rangers occasionally check. Thai nationals pay 40 THB.",
-        "nl": "Koh Samet maakt deel uit van een nationaal park. Buitenlandse bezoekers betalen 200 THB entreegeld bij de pier. Bewaar je bon want rangers controleren af en toe. Thaise staatsburgers betalen 40 THB.",
-        "ja": "サメット島は国立公園の一部です。外国人は桟橋で200バーツの入園料を支払います。パスポートの提示を求められることがあります。"
-      }
-    },
-    {
-      "title": {
-        "en": "Fruit Season Planning",
-        "nl": "Fruitseizoen planning",
-        "ja": "フルーツシーズンの計画"
-      },
-      "content": {
-        "en": "Visit Rayong's orchards between April and June for durian, rambutan, mangosteen, and longkong at their peak. The annual Rayong Fruit Festival in May or June is a colorful celebration worth attending.",
-        "nl": "Bezoek Rayong's boomgaarden tussen april en juni voor durian, rambutan, mangosteen en longkong op hun hoogtepunt. Het jaarlijkse Rayong Fruitfestival in mei of juni is een kleurrijk feest dat de moeite waard is.",
-        "ja": "4月〜6月にラヨーンの農園を訪れると、ドリアン、ランブータン、マンゴスチンの収穫体験ができます。タイのフルーツの王様ドリアンの産地としても有名です。"
-      }
-    },
-    {
-      "title": {
-        "en": "Weekend Traffic Warning",
-        "nl": "Weekendverkeerswaarschuwing",
-        "ja": "週末の渋滞に注意"
-      },
-      "content": {
-        "en": "Bangkok residents flock to Rayong and Koh Samet on weekends and holidays. The drive can take 5 hours instead of 3 due to traffic. Leave early on Friday or travel midweek for a stress-free trip.",
-        "nl": "Inwoners van Bangkok stromen in het weekend en op feestdagen naar Rayong en Koh Samet. De rit kan 5 uur duren in plaats van 3 door het verkeer. Vertrek vroeg op vrijdag of reis doordeweeks voor een stressvrije trip.",
-        "ja": "週末や祝日にはバンコクからの観光客が殺到し、道路が混雑します。平日に訪れるか、早朝に出発することをおすすめします。"
-      }
-    },
-    {
-      "title": {
-        "en": "Mainland Beaches Are Worth Exploring",
-        "nl": "Vastelandstranden zijn het verkennen waard",
-        "ja": "本土のビーチも探索しよう"
-      },
-      "content": {
-        "en": "Do not overlook the mainland beaches. Mae Ramphueng Beach is 12 km of uncrowded sand, and the seafood restaurants at Paknam Rayong serve lunch at half the price of Koh Samet's beach restaurants.",
-        "nl": "Vergeet de vastelandstranden niet. Mae Ramphueng Beach is 12 km ondruk strand en de visrestaurants bij Paknam Rayong serveren lunch voor de helft van de prijs van Koh Samet's strandrestaurants.",
-        "ja": "本土のビーチも見逃せません。メーランプーン・ビーチは12kmの人が少ない砂浜で、サメット島の混雑を避けたい方に最適です。"
-      }
-    }
-  ],
-  "best_time_to_visit": {
-    "en": "November to April is the dry season with sunny skies and calm seas, ideal for beach activities and island hopping. The fruit season peaks from April to June. Koh Samet is accessible year-round as its microclimate keeps it drier than the mainland even during monsoon season.",
-    "nl": "November tot april is het droge seizoen met zonnige luchten en kalme zeeen, ideaal voor strandactiviteiten en eilandhoppen. Het fruitseizoen piekt van april tot juni. Koh Samet is het hele jaar toegankelijk omdat het microklimaat het droger houdt dan het vasteland, zelfs tijdens het moessonseizoen.",
-    "ja": "11月〜4月が乾季で、晴天と穏やかな海がビーチやシュノーケリングに最適です。4月〜6月はフルーツシーズンで農園巡りも楽しめます。"
-  },
-  "budget_info": {
-    "budget_per_day": {
-      "en": "$20-35",
-      "nl": "$20-35",
-      "ja": "1日2,000〜3,500円"
-    },
-    "midrange_per_day": {
-      "en": "$50-90",
-      "nl": "$50-90",
-      "ja": "1日5,000〜9,000円"
-    },
-    "luxury_per_day": {
-      "en": "$150+",
-      "nl": "$150+",
-      "ja": "1日15,000円以上"
-    }
-  },
-  "enhanced_at": "2026-02-22T10:00:00.000Z",
-  "overview": "Rayong is a coastal gem located east of Bangkok, serving as the gateway to Thailand's beloved Koh Samet Island while offering its own relaxed charm away from Bangkok's hustle. This provincial capital combines pristine beaches, fresh seafood dining, and tropical fruit orchards into a perfect weekend escape or longer retreat. With a population of just 65,000, Rayong maintains an authentic Thai atmosphere that appeals to travelers seeking authentic experiences without overwhelming tourist infrastructure.",
-  "thingsToDo": "Koh Samet Island is the crown jewel of Rayong, accessible via ferry from Ban Phe Fishing Village with a 200 THB ($6 USD) national park entrance fee. The island features white sand beaches, crystal-clear waters, and vibrant beachfront nightlife, making it ideal for both relaxation and evening entertainment. On the mainland, Mae Ramphueng Beach offers 12 kilometers of uncrowded sandy shores with excellent fresh seafood restaurants lining the coast—free to access and perfect for a leisurely beach day. For a unique experience, visit Rayong's tropical fruit orchards (100 THB/$3 USD entry) during peak season from April to June, where you can pick your own fruit and taste fresh durian. Don't miss Sai Kaew Beach (also called Diamond Beach) with its powder-white sand, water sports opportunities, and nightly fire shows, all without entrance fees beyond the national park ticket. The Rayong Aquarium (50 THB/$1.50 USD) provides educational marine exhibits and family-friendly activities, while Khao Laem Ya-Mu Ko Samet National Park (200 THB/$6 USD) offers coastal viewpoints and tide pools spanning both island and mainland sections. Ban Phe Fishing Village serves as both a ferry departure point and a working village where you can experience authentic local maritime culture and enjoy fresh seafood.",
-  "whereToStay": "Rayong accommodates all budget levels with options ranging from beachfront luxury resorts to budget guesthouses. The town offers several internationally recognized chains like Novotel Rayong Star Convention Centre and Hilton Garden Inn Rayong for those seeking familiar comfort, while properties like Le Vimarn Cottages & Spa and Paradee provide luxury experiences with Thai character. Mid-range options are abundant throughout the city center and beach areas, offering good value at 50-100 USD per night. For budget travelers, numerous guesthouses and smaller hotels operate around 15-30 USD per night near the beaches and city center. Koh Samet itself features accommodations directly on the island, from basic beachfront bungalows to upscale resorts like those overlooking Ao Prao Beach on the west coast, which offers peaceful sunsets and a more exclusive atmosphere.",
-  "whereToEat": [
-    {
-      "name": "Social Rooftop Restaurant & Bar",
-      "cuisine": "International, Bar",
-      "priceRange": "$$$",
-      "description": "Top-rated rooftop restaurant offering international cuisine and cocktails with excellent city and view atmosphere in a contemporary setting."
-    },
-    {
-      "name": "Breeze Restaurant",
-      "cuisine": "Seafood, International",
-      "priceRange": "$$-$$$",
-      "description": "Exceptional restaurant specializing in fresh seafood and international dishes with attentive service and scenic coastal dining experience."
-    },
-    {
-      "name": "Elementi Rooftop Restaurant & Bar",
-      "cuisine": "Italian, European",
-      "priceRange": "$$$",
-      "description": "Upscale rooftop venue serving authentic Italian and European cuisine in a modern contemporary atmosphere with city views."
-    },
-    {
-      "name": "California Steak Restaurant",
-      "cuisine": "American, Steakhouse",
-      "priceRange": "$$$",
-      "description": "Premium American steakhouse offering high-quality cuts and classic American cuisine in a relaxed and welcoming setting."
-    },
-    {
-      "name": "Tapestry Restaurant",
-      "cuisine": "Chinese, Japanese",
-      "priceRange": "$$-$$$",
-      "description": "Upscale Asian cuisine restaurant featuring refined Chinese and Japanese specialties with careful presentation and quality ingredients."
-    },
-    {
-      "name": "Ban Phe Seafood Stalls",
-      "cuisine": "Thai Seafood",
-      "priceRange": "$",
-      "description": "Open-air waterfront seafood dining along Ban Phe with fresh daily catch, legendary fried squid with garlic, and local favorite atmosphere."
-    },
-    {
-      "name": "Ploy Talay",
-      "cuisine": "Thai Seafood",
-      "priceRange": "$$",
-      "description": "Popular beachfront restaurant on Sai Kaew Beach serving Thai seafood with nightly fire show performances and casual sandy atmosphere."
-    },
-    {
-      "name": "Nong Nuch Seafood",
-      "cuisine": "Thai Seafood",
-      "priceRange": "$-$$",
-      "description": "Large popular Thai seafood restaurant with local families, generous portions, fresh ingredients, and standout spicy stir-fried crab."
-    }
-  ],
-  "topHotels": [
-    {
-      "name": "Hilton Garden Inn Rayong",
-      "category": "luxury",
-      "priceRange": "$51-189/night",
-      "area": "Rayong City Center",
-      "description": "4-star international property with contemporary rooms, full business facilities, and consistent Hilton service standards ideal for both business and leisure travelers."
-    },
-    {
-      "name": "Plaai Prime Hotel Rayong",
-      "category": "midrange",
-      "priceRange": "$35/night",
-      "area": "Rayong City Center",
-      "description": "Modern 3-star hotel offering quality accommodation, good value, and convenient central location for exploring the city and nearby attractions."
-    },
-    {
-      "name": "B2 Rayong Boutique and Budget Hotel",
-      "category": "budget",
-      "priceRange": "$17/night",
-      "area": "Rayong City Center",
-      "description": "Budget-friendly boutique hotel with clean comfortable rooms and excellent value pricing, perfect for independent travelers and backpackers."
-    },
-    {
-      "name": "Samed Cabana Resort",
-      "category": "midrange",
-      "priceRange": "$76/night",
-      "area": "Koh Samet Island - Beachfront",
-      "description": "Island beachfront resort with cabana-style accommodations, direct beach access, and peaceful island setting away from mainland."
-    },
-    {
-      "name": "Malibu Samed Resort",
-      "category": "midrange",
-      "priceRange": "$52-125/night",
-      "area": "Koh Samet Island - Beachfront",
-      "description": "Comfortable mid-range beachfront resort on Koh Samet with island location, beach amenities, and reasonable pricing."
-    },
-    {
-      "name": "Paradee Resort",
-      "category": "luxury",
-      "priceRange": "$150-250/night",
-      "area": "Koh Samet Island - Southern tip",
-      "description": "Exclusive adults-only luxury resort with private pool villas, pristine private beach, and impeccable service in serene setting."
-    },
-    {
-      "name": "Tamnanpar Resort",
-      "category": "midrange",
-      "priceRange": "$60-120/night",
-      "area": "Mae Ramphueng Beach - Mainland",
-      "description": "Beautiful beachfront resort with pool, spa facilities, and direct beach access providing peaceful mainland alternative to islands."
-    },
-    {
-      "name": "Sai Kaew Beach Resort",
-      "category": "midrange",
-      "priceRange": "$50-100/night",
-      "area": "Koh Samet Island - Sai Kaew Beach",
-      "description": "Well-established resort on Koh Samet's most popular beach with comfortable rooms, beach bar, and proximity to island's best nightlife."
-    },
-    {
-      "name": "Naga Bungalows",
-      "category": "budget",
-      "priceRange": "$25-40/night",
-      "area": "Koh Samet Island - Ao Hin Khok",
-      "description": "Simple beachfront bungalows with basic but clean accommodation right on the sand, friendly atmosphere, and budget-friendly pricing."
-    }
-  ],
-  "gettingAround": "Rayong's local transport system is primarily based on tuk-tuks and songthaews (shared red taxis), which are affordable and easy to find throughout the city and beach areas, with fares typically ranging from 40-100 THB ($1.20-3 USD) per trip. Motorbike rental is extremely popular among visitors, available at numerous rental shops for 150-250 THB ($5-8 USD) per day, offering maximum freedom to explore the province and nearby attractions. The Grab app operates effectively in Rayong for ride-hailing, though it's slightly more expensive than tuk-tuks but provides fixed pricing and safety features. To reach Koh Samet, the primary ferry departs from Ban Phe Fishing Village, with regular services throughout the day—the pier is easily accessible by tuk-tuk from Rayong city center (approximately 30-45 minutes, 100-150 THB/$3-4.50 USD). For longer-distance travel, buses connect Rayong to Bangkok's Eastern Bus Terminal (2-3 hours, 100-150 THB/$3-4.50 USD) and other provinces, offering economical transportation options.",
-  "bestTimeToVisit": "Rayong's optimal visiting season runs from November through February when temperatures are cooler (20-28°C) and rainfall is minimal, making beach days and outdoor activities most enjoyable. The months of March through May experience increasing heat, with April-June being peak mango and fruit season if you plan to visit the orchards, though it's also warmer. The southwest monsoon season from May through October brings increased rainfall and rough seas, making water activities less ideal, though prices drop significantly during this period and the landscape becomes lush green. December and January are peak season with the most tourists and highest prices, while November and February offer better value with still-excellent weather. For the best combination of pleasant weather, fewer crowds, and reasonable prices, consider visiting in November, February, or early March.",
-  "budgetGuide": {
-    "budget": {
-      "min": 20,
-      "max": 40,
-      "description": "Budget travelers can stay in guesthouses (300-750 THB/$9-23 USD), eat street food and local restaurants (60-150 THB/$2-5 USD per meal), use tuk-tuks and songthaews for transport (40-100 THB/$1.20-3 USD per trip), and enjoy free beaches. National park fees are minimal (50-200 THB/$1.50-6 USD), making Rayong highly affordable for independent travelers."
-    },
-    "midrange": {
-      "min": 50,
-      "max": 100,
-      "description": "Mid-range visitors staying in 3-star hotels (1,500-2,700 THB/$50-90 USD) can dine at quality restaurants (150-360 THB/$5-12 USD per meal), rent motorbikes (150-250 THB/$5-8 USD daily), enjoy paid attractions (50-200 THB/$1.50-6 USD each), and participate in day tours while maintaining comfortable accommodations."
-    },
-    "luxury": {
-      "min": 150,
-      "max": 400,
-      "description": "Luxury travelers enjoying 4-5 star resorts (3,600-6,600 THB/$120-220 USD) can dine at upscale beachfront restaurants (600-1,500 THB/$20-50 USD per meal), arrange private transportation, book island tours, spa treatments, and experience premium accommodations with full resort amenities."
-    }
-  },
-  "safetyTips": "Rayong is generally a safe destination for tourists with low crime rates and a relaxed atmosphere. Standard tropical precautions apply: use sunscreen liberally as UV exposure is intense, stay hydrated, and be cautious during the monsoon season when strong currents and rough seas can make swimming dangerous—always check beach condition flags. When visiting Koh Samet, arrange ferry tickets through official channels, avoid traveling alone late at night on deserted beaches, and secure valuables in hotel safes rather than leaving them unattended on the beach. Motorbike riders should wear helmets (legally required) and be aware that Thai traffic rules differ from Western countries; if unfamiliar with local driving customs, consider using tuk-tuks or Grab instead. Petty theft occasionally occurs in crowded areas and beach towns, so keep backpacks close and avoid displaying expensive jewelry or electronics.",
-  "faq": [
-    {
-      "question": "How do I get to Koh Samet from Rayong?",
-      "answer": "Ferries depart regularly from Ban Phe Fishing Village, 30-45 minutes from Rayong city center by tuk-tuk (100-150 THB/$3-4.50 USD). The national park entrance fee is 200 THB ($6 USD) per person. Multiple daily ferry schedules accommodate both day-trippers and overnight visitors with frequent departures throughout the day."
-    },
-    {
-      "question": "What is the best time to visit Rayong?",
-      "answer": "November through February offers the best weather with cooler temperatures (20-28°C) and minimal rainfall. December and January are peak season with higher prices but excellent conditions. For budget travelers, November and February provide great weather at lower costs, while March offers the last of the cool season with fewer crowds."
-    },
-    {
-      "question": "How much does it cost to visit the fruit orchards?",
-      "answer": "Rayong's fruit orchards charge a 100 THB ($3 USD) entrance fee and operate seasonally from April to June during peak fruit season. Visitors can pick their own fruit and participate in durian tasting experiences at reasonable additional costs, typically 50-200 THB ($1.50-6 USD) for tastings."
-    },
-    {
-      "question": "What is the cost of local transport in Rayong?",
-      "answer": "Tuk-tuks and songthaews cost 40-100 THB ($1.20-3 USD) per trip within the city. Motorbike rentals are 150-250 THB ($5-8 USD) per day. Grab app operates in Rayong with metered pricing slightly higher than tuk-tuks. Ferry to Koh Samet costs 200-300 THB ($6-9 USD) depending on the vessel."
-    },
-    {
-      "question": "Are there any entrance fees for Rayong beaches?",
-      "answer": "Most mainland beaches like Mae Ramphueng and Sai Kaew Beach are free. However, Koh Samet Island charges a 200 THB ($6 USD) national park entrance fee that covers multiple beaches. The Rayong Aquarium costs 50 THB ($1.50 USD), while fruit orchards charge 100 THB ($3 USD)."
-    },
-    {
-      "question": "What should I pack for visiting Rayong?",
-      "answer": "Pack light, breathable clothing, strong sunscreen (UV exposure is intense), sunglasses, a hat, and swimwear. During monsoon season (May-October), bring a light rain jacket. Comfortable walking shoes or sandals are essential. Bring a power adapter for Thailand's outlets and insect repellent for evening beach trips."
-    }
-  ],
-  "practicalInfo": {
-    "bestMonths": [
-      "Nov",
-      "Dec",
-      "Jan",
-      "Feb"
-    ],
-    "nearestAirport": "Suvarnabhumi Airport (BKK), Bangkok",
-    "travelTimeFromAirport": "2.5-3 hours by car via Highway 3, approximately 150-200 km east from Bangkok",
-    "localTransport": [
-      "Tuk-tuk (40-100 THB per trip)",
-      "Songthaew/shared red taxi (40-100 THB per trip)",
-      "Motorbike rental (150-250 THB per day)",
-      "Grab ride-hailing app",
-      "Ferry to Koh Samet (200-300 THB from Ban Phe)",
-      "Buses to Bangkok (100-150 THB)"
-    ]
-  },
-  "enrichedAt": "2026-02-22T13:02:48.821Z",
-  "seasonal_secrets": {
-    "best_times": {
-      "November-February (Best)": "Rayong's optimal visiting season runs from November through February when temperatures are cooler (20-28°C) and rainfall is minimal, making beach days and outdoor activities most enjoyable. The months of March through May experience increasing heat, with April-June being peak mango and fruit season if you plan to visit the orchards, though it's also warmer.",
-      "March-May (Hot Season)": "Hot and humid, 30-38°C. Still good for beach activities — fewer crowds and lower prices.",
-      "June-October (Monsoon)": "Frequent afternoon showers. Some boat services may be reduced, but dramatic skies and empty beaches reward adventurous travelers."
-    },
-    "local_festivals": [
-      "Loy Krathong Festival",
-      "King's Birthday (Father's Day - Dec 5)",
-      "New Year celebrations",
-      "Makha Bucha Day",
-      "Chinese New Year (varies)",
-      "Songkran Water Festival (April 13-15) - celebrated nationwide"
-    ],
-    "seasonal_foods": {
-      "cool": "Street food markets at their best — Pad Thai, Som Tam, and fresh seafood. Local favorites include Tamnanpar Restaurant (Mae Ramphueng Beach) and Ban Phe Seafood Stalls.",
-      "hot": "Thai iced tea, coconut ice cream, and cold noodle salads. Local favorites include Tamnanpar Restaurant (Mae Ramphueng Beach) and Ban Phe Seafood Stalls.",
-      "rainy": "Tom Yum Goong and warming curries are perfect for rainy days. Local favorites include Tamnanpar Restaurant (Mae Ramphueng Beach) and Ban Phe Seafood Stalls."
-    },
-    "insider_tips": {
-      "Peak season": "December-March is peak season — book accommodation 2-4 weeks ahead for the best prices and availability.",
-      "Rainy season": "Rain usually falls in short afternoon bursts — mornings are often sunny and great for exploring Rayong.",
-      "Koh Samet": "Visit Koh Samet during the cool season for the most comfortable experience. Early morning visits beat the heat and the crowds."
-    }
-  },
-  "top_attractions": [
-    {
-      "rank": 1,
-      "name": "Koh Samet Island",
-      "description": "Thailand's premier island destination featuring white sand beaches, crystal-clear waters, and vibrant beachfront nightlife accessible via ferry from Ban Phe Fishing Village.",
-      "location": "Ban Phe Fishing Village, 30-45 minutes from Rayong city center",
-      "entrance_fee": "200 THB ($6 USD)",
-      "highlights": [
-        "White sand beaches",
-        "Water sports",
-        "Nightlife",
-        "Multiple beach coves"
+        "Heart-of-city location",
+        "Rooms, suites, pool and fitness centre",
+        "Strong first-night base"
       ]
     },
     {
       "rank": 2,
-      "name": "Mae Ramphueng Beach",
-      "description": "12 kilometers of uncrowded sandy shores on the mainland with excellent fresh seafood restaurants lining the coast and relaxed atmosphere.",
-      "location": "Mainland Rayong, west of city center",
-      "entrance_fee": "Free",
+      "name": "Rayong Marriott Resort & Spa",
+      "description": "The strongest mainland-resort answer if Wang Kaew Beach, a private-beach feel, and on-site coastal dining are the point of the stay.",
+      "price_range": "Upscale",
+      "category": "luxury",
+      "area": "Wang Kaew Beach, Klaeng side",
       "highlights": [
-        "Seafood restaurants",
-        "Long beach stretch",
-        "Sunset views",
-        "Local atmosphere"
+        "Beachfront resort",
+        "Private balconies",
+        "Good mainland splurge stay"
       ]
     },
     {
       "rank": 3,
-      "name": "Sai Kaew Beach (Diamond Beach)",
-      "description": "Popular Koh Samet beach with powder-white sand, water sports opportunities, and nightly fire shows performed by local entertainers.",
-      "location": "Koh Samet Island",
-      "entrance_fee": "200 THB ($6 USD) national park entrance",
+      "name": "Novotel Rayong Star Convention Centre",
+      "description": "A smart city alternative when you want a central Rayong hotel with modern facilities, market access, and a cleaner bridge between business and leisure.",
+      "price_range": "Mid-range to upscale",
+      "category": "midrange",
+      "area": "Tha Pradu, central Rayong",
       "highlights": [
-        "Fire shows",
-        "Water sports",
-        "White sand",
-        "Beach bars"
+        "Heart-of-city location",
+        "Food Exchange and After 8 Bar",
+        "Good for city stays with facilities"
       ]
     },
     {
       "rank": 4,
-      "name": "Rayong Tropical Fruit Orchards",
-      "description": "Seasonal orchards offering pick-your-own fruit experiences and durian tasting sessions during peak fruit season.",
-      "location": "Various locations throughout Rayong Province",
-      "entrance_fee": "100 THB ($3 USD)",
+      "name": "Novotel Rayong Rim Pae Resort",
+      "description": "A useful east-side beach resort when you want Rim Pae calm, family facilities, and easy access to the Ban Phe and Klaeng coastal belt.",
+      "price_range": "Mid-range",
+      "category": "midrange",
+      "area": "Rim Pae Beach, Klaeng",
       "highlights": [
-        "Pick-your-own fruit",
-        "Durian tasting",
-        "April-June season",
-        "Farm experiences"
+        "Beachfront resort",
+        "Family-friendly facilities",
+        "Good for a quieter coast stay"
       ]
     },
     {
       "rank": 5,
-      "name": "Khao Laem Ya-Mu Ko Samet National Park",
-      "description": "Coastal national park with viewpoints, tide pools, and scenic trails spanning both island and mainland sections of Koh Samet.",
-      "location": "Koh Samet Island and mainland",
-      "entrance_fee": "200 THB ($6 USD)",
+      "name": "Ao Prao Resort",
+      "description": "The best island-side stay if you want Koh Samet to feel calmer, west-coast, and sunset-oriented rather than centered on the busier Sai Kaew zone.",
+      "price_range": "Upscale",
+      "category": "luxury",
+      "area": "Ao Prao Beach, Koh Samet",
       "highlights": [
-        "Coastal viewpoints",
-        "Tide pools",
-        "Nature trails",
-        "Marine ecosystem"
+        "Quiet west-coast beach",
+        "Palm-fringed setting",
+        "Strong overnight island choice"
       ]
     },
     {
       "rank": 6,
-      "name": "Ban Phe Fishing Village",
-      "description": "Working fishing village and departure point for Koh Samet ferries, featuring fresh seafood restaurants and authentic local maritime culture.",
-      "location": "Eastern Rayong, 30-45 minutes from city center",
-      "entrance_fee": "Free",
+      "name": "HOP INN Rayong",
+      "description": "The most practical low-cost city stay if you want a clean base on Sukhumvit Road without pretending the hotel itself is the trip.",
+      "price_range": "Budget",
+      "category": "budget",
+      "area": "Noen Phra, Rayong city side",
       "highlights": [
-        "Fresh seafood",
-        "Ferry departure point",
-        "Local culture",
-        "Seafood stalls"
-      ]
-    },
-    {
-      "rank": 7,
-      "name": "Rayong Aquarium",
-      "description": "Educational marine facility with exhibits of local aquatic species and family-friendly interactive activities.",
-      "location": "Rayong City Center",
-      "entrance_fee": "50 THB ($1.50 USD)",
-      "highlights": [
-        "Marine exhibits",
-        "Family activities",
-        "Educational displays",
-        "Local species"
+        "75-room budget hotel",
+        "Straightforward city access",
+        "Good for short practical stays"
       ]
     }
   ],
-  "factchecked_at": "2026-03-08T18:43:45.983Z",
-  "translations": {
-    "nl": {
-      "enhanced_description": "De rit van Bangkok naar Rayong duurt minder dan drie uur over de snelweg, en ergens voorbij Chonburi verandert het landschap van industrieterreinen in fruitboomgaarden en kokospalmen. Ik sloeg de snelweg af bij Ban Phe om handgeschilderde borden te volgen die \"durian, rambutan, mangosteen\" aanprezen en vond mezelf in een boomgaard langs de weg waar een boer genaamd Somchai me rambutans liet plukken direct van de boom. Hij hakte een durian open met een machete, en het romige vruchtvlees, warm van de zon, was zo superieur aan de in plastic verpakte supermarktversie dat ik er nog twee kocht om mee naar mijn hotel te nemen. Dit is het eerste geschenk van Rayong: Thailand's fruitmandje, waar de boomgaarden de helft van de tropische oogst van het land leveren.\n\nMaar de meeste bezoekers komen naar Rayong om één reden: Koh Samet. De speedboot vanaf de pier van Ban Phe duurt twintig minuten, en toen de witte zandhalvemanen van het eiland door de opspattend water verschenen, voelde ik die vertrouwde opwinding van eilandaankomst. Koh Samet bezet een fijne plek in het Thaise eilandspectrum: ontwikkeld genoeg voor comfortabele accommodatie en fatsoenlijke restaurants, maar klein genoeg dat een motor het hele eiland in een uur kan rondrijden. Ik vestigde me aan Ao Wong Duean, een hoefijzervormige baai aan de oostkust, waar het turquoise water warm was als een bad en het zand het fijne witte poeder was dat ansichtkaarten beloven maar zelden waarmaken.\n\nTerug op het vasteland verraste Mae Ramphueng Beach me met zijn lengte en leegte. Deze twaalf kilometer lange strook goudkleurig zand loopt naar het zuiden vanaf het vissersdorp Paknam Rayong, en op een dinsdagochtend wandelde ik een uur zonder een andere toerist te zien. Visserboten stonden langs de kust bij het dorpseinde, en een rij visrestaurants met plastic stoelen en betonnen vloeren serveerden de vangst van de dag tegen prijzen die me deden heroverwegen om ooit nog in Bangkok te eten. Ik bestelde pla kapong neung manao, gestoomde zeebaars met limoen en chili, zo vers dat het vlees doorschijnend was, en een bord gebakken inktvis met knoflook die sissend uit de wok kwam.\n\nDe stad Rayong zelf is een functionele Thaise provinciestad, niet bijzonder schilderachtig maar met een oprecht lokaal karakter. Het Rayong Aquarium aan het oostelijke einde van Mae Ramphueng Beach is een bescheiden maar educatieve attractie, vooral voor gezinnen. De ochtendmarkt in de stad op Sukhumvit Road is een explosie van kleur: stapels garnalenpasta, Thailand's beroemde nam pla ra gefermenteerde vissaus waarvoor Rayong-producenten bekend staan, manden gedroogde inktvis, en bergen tropisch fruit waarvoor de provincie gevierd wordt. Ik proefde som tum gemaakt met Rayong garnalenpasta bij een kraampje en huilde bijna van de complexiteit van de gefermenteerde, pittige, zure smaak.\n\nWat Rayong onderscheidt is de toegankelijkheid en authenticiteit. Anders dan Pattaya een uur naar het noorden, is Rayong niet overspoeld door massatoerisme, maar het ligt dicht genoeg bij Bangkok voor een echt weekenduitje. Het Khao Laem Ya-Mu Ko Samet Nationaal Park beschermt zowel het eiland als een prachtig stuk rotsachtige vastelandskust met getijdenpoelen, uitkijkpunten en makkelijke wandelpaden. Op mijn laatste avond zat ik op de rotsen bij de kaap van Khao Laem Ya en keek hoe de zon wegzakte in de Golf van Thailand, visserboten als silhouetten tegen de amberkleurige hemel, en dacht dat soms de beste bestemmingen in Thailand degene zijn waar niemand je over vertelt.",
-      "overview": "Rayong is een kustjuweel ten oosten van Bangkok dat dient als de toegangspoort tot het geliefde Koh Samet terwijl het zijn eigen ontspannen charme biedt weg van de drukte van Bangkok. Deze provinciehoofdstad combineert ongerepte stranden, verse zeevruchtenrestaurants en tropische fruitboomgaarden tot een perfect weekenduitje of langer verblijf. Met een bevolking van slechts 65.000 behoudt Rayong een authentieke Thaise sfeer die reizigers aanspreekt die op zoek zijn naar oprechte ervaringen zonder overweldigende toeristische infrastructuur.",
-      "thingsToDo": "Koh Samet is het kroonjuweel van Rayong, bereikbaar per veerboot vanuit het vissersdorp Ban Phe met 200 THB ($6 USD) entreegeld voor het nationale park. Het eiland biedt witte zandstranden, kristalhelder water en levendig nachtleven aan het strand, wat het ideaal maakt voor zowel ontspanning als avondvermaak. Op het vasteland biedt Mae Ramphueng Beach 12 kilometer ondruk zandstrand met uitstekende verse visrestaurants langs de kust — gratis toegankelijk en perfect voor een ontspannen stranddag. Voor een unieke ervaring, bezoek Rayong's tropische fruitboomgaarden (100 THB/$3 USD entree) tijdens het piekseizoen van april tot juni, waar je je eigen fruit kunt plukken en verse durian kunt proeven. Mis Sai Kaew Beach (ook wel Diamond Beach genoemd) niet met zijn poederwit zand, watersporten en nachtelijke vuurshows, allemaal zonder entreegeld behalve het nationaal park-ticket. Het Rayong Aquarium (50 THB/$1,50 USD) biedt educatieve maritieme tentoonstellingen en gezinsvriendelijke activiteiten, terwijl het Khao Laem Ya-Mu Ko Samet Nationaal Park (200 THB/$6 USD) kust-uitkijkpunten en getijdenpoelen biedt die zowel eiland- als vastelandgedeelten omvatten. Het vissersdorp Ban Phe dient zowel als veerbotvertrekpunt als werkend dorp waar je authentieke lokale maritieme cultuur kunt ervaren en verse zeevruchten kunt genieten.",
-      "whereToStay": "Rayong biedt accommodatie voor alle budgetten, van luxe strandresorts tot budgetpensions. De stad heeft diverse internationaal erkende ketens zoals Novotel Rayong Star Convention Centre en Hilton Garden Inn Rayong voor wie vertrouwd comfort zoekt, terwijl accommodaties zoals Le Vimarn Cottages & Spa en Paradee luxe-ervaringen bieden met Thais karakter. Middensegment opties zijn overvloedig in het stadscentrum en de strandgebieden, met goede waarde voor 50-100 USD per nacht. Voor budgetreizigers zijn er talloze pensions en kleinere hotels voor ongeveer 15-30 USD per nacht nabij de stranden en het stadscentrum. Koh Samet zelf biedt accommodatie direct op het eiland, van eenvoudige strandbungalows tot luxe resorts zoals die met uitzicht op Ao Prao Beach aan de westkust, dat vredige zonsondergangen en een exclusievere sfeer biedt.",
-      "gettingAround": "Het lokale vervoerssysteem van Rayong is voornamelijk gebaseerd op tuk-tuks en songthaews (gedeelde rode taxi's), die betaalbaar en gemakkelijk te vinden zijn in de stad en strandgebieden, met tarieven doorgaans van 40-100 THB ($1,20-3 USD) per rit. Motorverhuur is enorm populair onder bezoekers, beschikbaar bij talloze verhuurbedrijven voor 150-250 THB ($5-8 USD) per dag, wat maximale vrijheid biedt om de provincie en nabijgelegen attracties te verkennen. De Grab-app werkt effectief in Rayong voor ritdelen, hoewel het iets duurder is dan tuk-tuks maar vaste prijzen en veiligheidsfuncties biedt. Om Koh Samet te bereiken vertrekt de belangrijkste veerboot vanuit het vissersdorp Ban Phe, met regelmatige diensten de hele dag — de pier is gemakkelijk bereikbaar per tuk-tuk vanuit het stadscentrum van Rayong (ongeveer 30-45 minuten, 100-150 THB/$3-4,50 USD). Voor langeafstandsreizen verbinden bussen Rayong met het oostelijke busstation van Bangkok (2-3 uur, 100-150 THB/$3-4,50 USD) en andere provincies, wat voordelige vervoersopties biedt.",
-      "bestTimeToVisit": "Het optimale bezoekseizoen van Rayong loopt van november tot en met februari wanneer de temperaturen koeler zijn (20-28°C) en de regenval minimaal, wat stranddagen en buitenactiviteiten het aangenaamst maakt. De maanden maart tot mei brengen toenemende hitte, waarbij april-juni het piekseizoen is voor mango's en ander fruit als je de boomgaarden wilt bezoeken, hoewel het ook warmer is. Het zuidwestmoessonseizoen van mei tot oktober brengt meer regenval en ruigere zeeën, wat wateractiviteiten minder ideaal maakt, hoewel de prijzen aanzienlijk dalen in deze periode en het landschap weelderig groen wordt. December en januari zijn het piekseizoen met de meeste toeristen en hoogste prijzen, terwijl november en februari betere waarde bieden met nog steeds uitstekend weer. Voor de beste combinatie van aangenaam weer, minder drukte en redelijke prijzen, overweeg een bezoek in november, februari of begin maart.",
-      "safetyTips": "Rayong is over het algemeen een veilige bestemming voor toeristen met lage criminaliteitscijfers en een ontspannen sfeer. Standaard tropische voorzorgsmaatregelen zijn van toepassing: gebruik ruim zonnebrandcrème want de UV-straling is intens, blijf gehydrateerd en wees voorzichtig tijdens het moessonseizoen wanneer sterke stromingen en ruige zeeën zwemmen gevaarlijk kunnen maken — controleer altijd de strandconditievlaggen. Bij een bezoek aan Koh Samet, regel veerbottickets via officiële kanalen, vermijd 's nachts alleen over verlaten stranden te lopen, en berg waardevolle spullen op in hotelkluizen in plaats van ze onbeheerd op het strand achter te laten. Motorrijders moeten helmen dragen (wettelijk verplicht) en zich ervan bewust zijn dat Thaise verkeersregels verschillen van westerse landen; als je niet vertrouwd bent met lokale rijgewoonten, overweeg dan tuk-tuks of Grab te gebruiken. Kleine diefstal komt af en toe voor in drukke gebieden en strandplaatsen, dus houd rugzakken dichtbij en vermijd het tonen van dure sieraden of elektronica.",
-      "translated_at": "2026-03-10T00:00:00.000Z"
-    },
-    "fr": {
-      "enhanced_description": "Le trajet de Bangkok à Rayong prend moins de trois heures par l'autoroute, et quelque part après Chonburi, le paysage passe de zones industrielles à des vergers fruitiers et des cocotiers. J'ai quitté l'autoroute à Ban Phe pour suivre des panneaux peints à la main annonçant « durian, ramboutan, mangoustan » et je me suis retrouvé dans un verger en bord de route où un fermier nommé Somchai m'a laissé cueillir des ramboutans directement sur l'arbre. Il a ouvert un durian d'un coup de machette, et la chair crémeuse, chaude du soleil, était si supérieure à la version emballée sous plastique du supermarché que j'en ai acheté deux de plus pour emporter à l'hôtel. C'est le premier cadeau de Rayong : le verger de la Thaïlande, où les plantations fournissent la moitié de la récolte de fruits tropicaux du pays.\n\nMais la plupart des visiteurs viennent à Rayong pour une seule raison : Koh Samet. Le speed boat depuis le quai de Ban Phe met vingt minutes, et quand les croissants de sable blanc de l'île sont apparus à travers les embruns, j'ai ressenti cette excitation familière de l'arrivée sur une île. Koh Samet occupe une place idéale dans le spectre des îles thaïlandaises : suffisamment développée pour des hébergements confortables et des restaurants corrects, mais assez petite pour qu'une moto en fasse le tour en une heure. Je me suis installé à Ao Wong Duean, une baie en fer à cheval sur la côte est, où l'eau turquoise était chaude comme un bain et le sable ce fin poudre blanche que les cartes postales promettent mais tiennent rarement.\n\nDe retour sur le continent, Mae Ramphueng Beach m'a surpris par sa longueur et son vide. Cette bande de sable doré de douze kilomètres s'étend vers le sud depuis le village de pêcheurs de Paknam Rayong, et un mardi matin, j'ai marché une heure sans voir un autre touriste. Des bateaux de pêche étaient alignés le long du rivage côté village, et une rangée de restaurants de fruits de mer avec des chaises en plastique et des sols en béton servaient la prise du jour à des prix qui m'ont fait reconsidérer l'idée de manger à nouveau à Bangkok. J'ai commandé du pla kapong neung manao, du bar cuit à la vapeur avec du citron vert et du piment, si frais que la chair était translucide, et une assiette de calamars frits à l'ail qui grésillaient en sortant du wok.\n\nLa ville de Rayong elle-même est une ville de province thaïlandaise fonctionnelle, pas particulièrement pittoresque mais dotée d'un caractère local sincère. L'aquarium de Rayong à l'extrémité est de Mae Ramphueng Beach est une attraction modeste mais éducative, surtout pour les familles. Le marché matinal en ville sur Sukhumvit Road est une explosion de couleurs : des tas de pâte de crevettes, la célèbre nam pla ra thaïlandaise, cette sauce de poisson fermentée pour laquelle les producteurs de Rayong sont réputés, des paniers de calamars séchés, et des montagnes de fruits tropicaux pour lesquels la province est célébrée. J'ai goûté du som tum préparé avec de la pâte de crevettes de Rayong à un étal et j'ai failli pleurer devant la complexité de la saveur fermentée, épicée et acidulée.\n\nCe qui distingue Rayong, c'est l'accessibilité et l'authenticité. Contrairement à Pattaya, une heure au nord, Rayong n'est pas submergée par le tourisme de masse, mais elle est assez proche de Bangkok pour une véritable escapade de week-end. Le parc national de Khao Laem Ya-Mu Ko Samet protège à la fois l'île et un magnifique tronçon de côte rocheuse continentale avec des mares de marée, des belvédères et des sentiers de randonnée faciles. Lors de ma dernière soirée, assis sur les rochers au cap de Khao Laem Ya, j'ai regardé le soleil sombrer dans le golfe de Thaïlande, les bateaux de pêche en silhouettes contre le ciel ambré, et j'ai pensé que parfois les meilleures destinations en Thaïlande sont celles dont personne ne vous parle.",
-      "overview": "Rayong est un joyau côtier à l'est de Bangkok qui sert de porte d'entrée vers la bien-aimée Koh Samet tout en offrant son propre charme décontracté loin de l'agitation de Bangkok. Cette capitale provinciale combine plages préservées, restaurants de fruits de mer frais et vergers de fruits tropicaux en une escapade de week-end parfaite ou un séjour prolongé. Avec une population de seulement 65 000 habitants, Rayong conserve une atmosphère thaïlandaise authentique qui séduit les voyageurs en quête d'expériences sincères sans infrastructure touristique écrasante.",
-      "thingsToDo": "Koh Samet est le joyau de Rayong, accessible par ferry depuis le village de pêcheurs de Ban Phe avec un droit d'entrée au parc national de 200 THB (6 $ USD). L'île offre des plages de sable blanc, des eaux cristallines et une vie nocturne animée sur la plage, idéale pour la détente comme pour les sorties en soirée. Sur le continent, Mae Ramphueng Beach offre 12 kilomètres de plage de sable tranquille avec d'excellents restaurants de fruits de mer frais le long de la côte — accès gratuit et parfait pour une journée de plage relaxante. Pour une expérience unique, visitez les vergers de fruits tropicaux de Rayong (100 THB/3 $ USD d'entrée) pendant la haute saison d'avril à juin, où vous pouvez cueillir vos propres fruits et goûter du durian frais. Ne manquez pas Sai Kaew Beach (aussi appelée Diamond Beach) avec son sable blanc poudreux, ses sports nautiques et ses spectacles de feu nocturnes, le tout sans frais d'entrée hormis le ticket du parc national. L'aquarium de Rayong (50 THB/1,50 $ USD) propose des expositions maritimes éducatives et des activités familiales, tandis que le parc national de Khao Laem Ya-Mu Ko Samet (200 THB/6 $ USD) offre des belvédères côtiers et des mares de marée couvrant les parties insulaire et continentale. Le village de pêcheurs de Ban Phe sert à la fois de point de départ des ferries et de village actif où vous pouvez découvrir la culture maritime locale authentique et déguster des fruits de mer frais.",
-      "whereToStay": "Rayong offre des hébergements pour tous les budgets, des resorts de plage de luxe aux pensions économiques. La ville compte plusieurs chaînes internationalement reconnues comme le Novotel Rayong Star Convention Centre et le Hilton Garden Inn Rayong pour ceux qui recherchent un confort familier, tandis que des établissements comme Le Vimarn Cottages & Spa et Paradee offrent des expériences de luxe avec un caractère thaïlandais. Les options de milieu de gamme sont abondantes dans le centre-ville et les zones balnéaires, offrant un bon rapport qualité-prix pour 50-100 USD par nuit. Pour les voyageurs à petit budget, de nombreuses pensions et petits hôtels sont disponibles pour environ 15-30 USD par nuit près des plages et du centre-ville. Koh Samet elle-même propose des hébergements directement sur l'île, des simples bungalows de plage aux resorts de luxe comme ceux surplombant Ao Prao Beach sur la côte ouest, offrant des couchers de soleil paisibles et une atmosphère plus exclusive.",
-      "gettingAround": "Le système de transport local de Rayong repose principalement sur les tuk-tuks et les songthaews (taxis rouges partagés), abordables et faciles à trouver en ville et dans les zones balnéaires, avec des tarifs généralement de 40-100 THB (1,20-3 $ USD) par trajet. La location de moto est extrêmement populaire parmi les visiteurs, disponible auprès de nombreuses agences pour 150-250 THB (5-8 $ USD) par jour, offrant une liberté maximale pour explorer la province et les attractions voisines. L'application Grab fonctionne efficacement à Rayong pour le covoiturage, bien que légèrement plus chère que les tuk-tuks, elle offre des prix fixes et des fonctions de sécurité. Pour rejoindre Koh Samet, le ferry principal part du village de pêcheurs de Ban Phe, avec des services réguliers toute la journée — le quai est facilement accessible en tuk-tuk depuis le centre-ville de Rayong (environ 30-45 minutes, 100-150 THB/3-4,50 $ USD). Pour les longs trajets, des bus relient Rayong à la gare routière Est de Bangkok (2-3 heures, 100-150 THB/3-4,50 $ USD) et à d'autres provinces, offrant des options de transport économiques.",
-      "bestTimeToVisit": "La saison optimale pour visiter Rayong s'étend de novembre à février, quand les températures sont plus fraîches (20-28°C) et les précipitations minimales, rendant les journées de plage et les activités de plein air les plus agréables. Les mois de mars à mai apportent une chaleur croissante, avril-juin étant la haute saison pour les mangues et autres fruits si vous souhaitez visiter les vergers, bien qu'il fasse aussi plus chaud. La saison de la mousson du sud-ouest de mai à octobre apporte davantage de pluie et des mers plus agitées, rendant les activités nautiques moins idéales, bien que les prix baissent considérablement pendant cette période et que le paysage devienne d'un vert luxuriant. Décembre et janvier sont la haute saison avec le plus de touristes et les prix les plus élevés, tandis que novembre et février offrent un meilleur rapport qualité-prix avec un temps toujours excellent. Pour la meilleure combinaison de temps agréable, moins de foule et prix raisonnables, envisagez une visite en novembre, février ou début mars.",
-      "safetyTips": "Rayong est généralement une destination sûre pour les touristes avec de faibles taux de criminalité et une atmosphère détendue. Les précautions tropicales standard s'appliquent : utilisez généreusement la crème solaire car les rayons UV sont intenses, restez hydraté et soyez prudent pendant la saison des moussons quand les forts courants et les mers agitées peuvent rendre la baignade dangereuse — vérifiez toujours les drapeaux d'état de la plage. Lors d'une visite à Koh Samet, achetez les billets de ferry par les canaux officiels, évitez de marcher seul la nuit sur les plages désertes, et rangez vos objets de valeur dans les coffres-forts de l'hôtel plutôt que de les laisser sans surveillance sur la plage. Les motocyclistes doivent porter un casque (obligatoire par la loi) et être conscients que le code de la route thaïlandais diffère des pays occidentaux ; si vous n'êtes pas familier avec les habitudes de conduite locales, envisagez d'utiliser les tuk-tuks ou Grab. Les petits vols surviennent occasionnellement dans les zones fréquentées et les sites balnéaires, gardez donc vos sacs à dos à proximité et évitez d'exhiber des bijoux ou appareils électroniques coûteux.",
-      "translated_at": "2026-03-10T00:00:00.000Z"
-    },
-    "de": {
-      "enhanced_description": "Die Fahrt von Bangkok nach Rayong dauert über die Autobahn weniger als drei Stunden, und irgendwo hinter Chonburi wandelt sich die Landschaft von Industriegebieten zu Obstplantagen und Kokospalmen. Ich fuhr bei Ban Phe von der Autobahn ab, um handgemalten Schildern zu folgen, die „Durian, Rambutan, Mangostan“ anpriesen, und fand mich in einer Straßenplantage wieder, wo ein Bauer namens Somchai mich Rambutan direkt vom Baum pflücken ließ. Er schlug einen Durian mit einer Machete auf, und das cremige Fruchtfleisch, warm von der Sonne, war der plastikverpackten Supermarktversion so überlegen, dass ich zwei weitere für mein Hotel kaufte. Dies ist Rayongs erstes Geschenk: Thailands Obstkorb, wo die Plantagen die Hälfte der tropischen Ernte des Landes liefern.\n\nAber die meisten Besucher kommen aus einem Grund nach Rayong: Koh Samet. Das Schnellboot vom Pier in Ban Phe braucht zwanzig Minuten, und als die weißen Sandsicheln der Insel durch die Gischt auftauchten, spürte ich jene vertraute Aufregung der Inselankunft. Koh Samet nimmt einen idealen Platz im thailändischen Inselspektrum ein: entwickelt genug für komfortable Unterkünfte und ordentliche Restaurants, aber klein genug, dass ein Motorrad die ganze Insel in einer Stunde umrunden kann. Ich quartierte mich in Ao Wong Duean ein, einer hufeisenförmigen Bucht an der Ostküste, wo das türkisfarbene Wasser badewannenwarm war und der Sand jenes feine weiße Pulver, das Postkarten versprechen aber selten einlösen.\n\nZurück auf dem Festland überraschte mich Mae Ramphueng Beach mit seiner Länge und Leere. Dieser zwölf Kilometer lange Streifen goldenen Sands erstreckt sich südlich vom Fischerdorf Paknam Rayong, und an einem Dienstagmorgen wanderte ich eine Stunde, ohne einen anderen Touristen zu sehen. Fischerboote säumten die Küste am Dorfende, und eine Reihe von Fischrestaurants mit Plastikstühlen und Betonböden servierten den Fang des Tages zu Preisen, die mich überdenken ließen, jemals wieder in Bangkok zu essen. Ich bestellte Pla Kapong Neung Manao, gedünsten Wolfsbarsch mit Limette und Chili, so frisch, dass das Fleisch durchscheinend war, und einen Teller gebratenen Tintenfisch mit Knoblauch, der zischend aus dem Wok kam.\n\nDie Stadt Rayong selbst ist eine funktionale thailändische Provinzstadt, nicht besonders malerisch, aber mit echtem lokalem Charakter. Das Rayong Aquarium am östlichen Ende von Mae Ramphueng Beach ist eine bescheidene, aber lehrreiche Attraktion, besonders für Familien. Der Morgenmarkt in der Stadt an der Sukhumvit Road ist eine Farbexplosion: Haufen von Garnelenpaste, Thailands berühmter Nam Pla Ra fermentierter Fischsauce, für die Rayongs Produzenten bekannt sind, Körbe mit getrockneten Tintenfischen und Berge der tropischen Früchte, für die die Provinz gefeiert wird. Ich probierte Som Tum mit Rayong-Garnelenpaste an einem Stand und weinte beinahe vor der Komplexität des fermentierten, scharfen, sauren Geschmacks.\n\nWas Rayong auszeichnet, ist seine Erreichbarkeit und Authentizität. Anders als Pattaya eine Stunde nördlich wurde Rayong nicht vom Massentourismus überrollt, liegt aber nah genug an Bangkok für einen echten Wochenendausflug. Der Khao Laem Ya-Mu Ko Samet Nationalpark schützt sowohl die Insel als auch einen wunderschönen Abschnitt felsiger Festlandsküste mit Gezeitentümpeln, Aussichtspunkten und einfachen Wanderwegen. An meinem letzten Abend saß ich auf den Felsen am Kap Khao Laem Ya und beobachtete die Sonne im Golf von Thailand versinken, Fischerboote als Silhouetten gegen den bernsteinfarbenen Himmel, und dachte, dass manchmal die besten Reiseziele in Thailand die sind, von denen einem niemand erzählt.",
-      "overview": "Rayong ist ein Küstenjuwel östlich von Bangkok, das als Tor zum beliebten Koh Samet dient und gleichzeitig seinen eigenen entspannten Charme abseits der Hektik Bangkoks bietet. Diese Provinzhauptstadt vereint unberührte Strände, frische Fischrestaurants und tropische Obstplantagen zu einem perfekten Wochenendausflug oder längeren Aufenthalt. Mit nur 65.000 Einwohnern bewahrt Rayong eine authentische thailändische Atmosphäre, die Reisende anspricht, die aufrichtige Erlebnisse ohne überwältigende touristische Infrastruktur suchen.",
-      "thingsToDo": "Koh Samet ist Rayongs Kronjuwel, erreichbar per Fähre vom Fischerdorf Ban Phe mit 200 THB ($6 USD) Nationalpark-Eintritt. Die Insel bietet weiße Sandstrände, kristallklares Wasser und lebhaftes Strandnachtleben, ideal sowohl für Entspannung als auch für Abendunterhaltung. Auf dem Festland bietet Mae Ramphueng Beach 12 Kilometer ruhigen Sandstrand mit ausgezeichneten frischen Fischrestaurants entlang der Küste — kostenlos zugänglich und perfekt für einen entspannten Strandtag. Für ein einzigartiges Erlebnis besuchen Sie Rayongs tropische Obstplantagen (100 THB/$3 USD Eintritt) während der Hauptsaison von April bis Juni, wo Sie Ihr eigenes Obst pflücken und frischen Durian probieren können. Verpassen Sie nicht Sai Kaew Beach (auch Diamond Beach genannt) mit pudrigem weißem Sand, Wassersport und nächtlichen Feuershows, alles ohne Eintritt außer dem Nationalparkticket. Das Rayong Aquarium (50 THB/$1,50 USD) bietet lehrreiche Meeresausstellungen und familienfreundliche Aktivitäten, während der Khao Laem Ya-Mu Ko Samet Nationalpark (200 THB/$6 USD) Küstenaussichtspunkte und Gezeitentümpel bietet, die sowohl Insel- als auch Festlandteile umfassen. Das Fischerdorf Ban Phe dient sowohl als Fähranlegestelle als auch als aktives Dorf, in dem Sie authentische lokale Meereskultur erleben und frische Meeresfrüchte genießen können.",
-      "whereToStay": "Rayong bietet Unterkünfte für alle Budgets, von luxuriösen Strandresorts bis zu günstigen Pensionen. Die Stadt verfügt über mehrere international anerkannte Ketten wie das Novotel Rayong Star Convention Centre und das Hilton Garden Inn Rayong für alle, die vertrauten Komfort suchen, während Unterkünfte wie Le Vimarn Cottages & Spa und Paradee Luxuserlebnisse mit thailändischem Charakter bieten. Mittelklasse-Optionen sind im Stadtzentrum und den Strandgebieten reichlich vorhanden und bieten guten Wert für 50-100 USD pro Nacht. Für Budget-Reisende gibt es zahlreiche Pensionen und kleinere Hotels für etwa 15-30 USD pro Nacht in Strandnähe und im Stadtzentrum. Koh Samet selbst bietet Unterkünfte direkt auf der Insel, von einfachen Strandbungalows bis zu Luxusresorts wie denen mit Blick auf Ao Prao Beach an der Westküste, die friedliche Sonnenuntergänge und eine exklusivere Atmosphäre bieten.",
-      "gettingAround": "Rayongs lokales Transportsystem basiert hauptsächlich auf Tuk-Tuks und Songthaews (geteilte rote Taxis), die erschwinglich und in der Stadt sowie den Strandgebieten leicht zu finden sind, mit Tarifen üblicherweise von 40-100 THB ($1,20-3 USD) pro Fahrt. Motorradverleih ist bei Besuchern äußerst beliebt, verfügbar bei zahlreichen Verleihern für 150-250 THB ($5-8 USD) pro Tag, was maximale Freiheit bietet, die Provinz und nahegelegene Attraktionen zu erkunden. Die Grab-App funktioniert in Rayong effektiv für Ride-Sharing, zwar etwas teurer als Tuk-Tuks, bietet aber Festpreise und Sicherheitsfunktionen. Um Koh Samet zu erreichen, fährt die Hauptfähre vom Fischerdorf Ban Phe ab, mit regelmäßigem Service den ganzen Tag — der Pier ist leicht per Tuk-Tuk vom Stadtzentrum Rayongs erreichbar (etwa 30-45 Minuten, 100-150 THB/$3-4,50 USD). Für Fernreisen verbinden Busse Rayong mit Bangkoks östlichem Busbahnhof (2-3 Stunden, 100-150 THB/$3-4,50 USD) und anderen Provinzen und bieten günstige Transportmöglichkeiten.",
-      "bestTimeToVisit": "Die optimale Besuchszeit für Rayong erstreckt sich von November bis Februar, wenn die Temperaturen kühler sind (20-28°C) und die Niederschläge minimal, was Strandtage und Outdoor-Aktivitäten am angenehmsten macht. Die Monate März bis Mai bringen zunehmende Hitze, wobei April-Juni die Hauptsaison für Mangos und anderes Obst ist, falls Sie die Plantagen besuchen möchten, obwohl es dann auch wärmer ist. Die Südwestmonsunzeit von Mai bis Oktober bringt mehr Regen und rauere See, was Wasseraktivitäten weniger ideal macht, obwohl die Preise in dieser Zeit deutlich sinken und die Landschaft üppig grün wird. Dezember und Januar sind Hochsaison mit den meisten Touristen und höchsten Preisen, während November und Februar besseren Wert bei immer noch ausgezeichnetem Wetter bieten. Für die beste Kombination aus angenehmem Wetter, weniger Gedränge und vernünftigen Preisen empfiehlt sich ein Besuch im November, Februar oder Anfang März.",
-      "safetyTips": "Rayong ist generell ein sicheres Reiseziel für Touristen mit niedriger Kriminalitätsrate und entspannter Atmosphäre. Standard-Tropenvotsichtsmaßnahmen gelten: Verwenden Sie reichlich Sonnenschutz, da die UV-Strahlung intensiv ist, bleiben Sie hydriert und seien Sie während der Monsunzeit vorsichtig, wenn starke Strömungen und raue See das Schwimmen gefährlich machen können — prüfen Sie immer die Strandzustandsflaggen. Bei einem Besuch auf Koh Samet kaufen Sie Fährtickets über offizielle Kanäle, vermeiden Sie es, nachts allein an verlassenen Stränden zu laufen, und bewahren Sie Wertsachen im Hotelsafe auf, anstatt sie unbeaufsichtigt am Strand zu lassen. Motorradfahrer sollten Helme tragen (gesetzlich vorgeschrieben) und sich bewusst sein, dass thailändische Verkehrsregeln von westlichen Ländern abweichen; wenn Sie mit den lokalen Fahrgewohnheiten nicht vertraut sind, nutzen Sie lieber Tuk-Tuks oder Grab. Kleinkriminalität kommt gelegentlich in belebten Gebieten und an Strandorten vor, halten Sie daher Rucksäcke in der Nähe und vermeiden Sie das Zeigen teuren Schmucks oder elektronischer Geräte.",
-      "translated_at": "2026-03-10T00:00:00.000Z"
-    },
-    "zh": {
-      "enhanced_description": "从曼谷沿高速公路驱车不到三小时即可抵达罗勇，过了春武里之后，沿途的风景从工业区渐变为果园和椰子林。我在Ban Phe附近下了高速，跟随手绘招牌「榴莲、红毛丹、山竹「的指引，来到了路边一片果园，一位名叫Somchai的果农让我直接从树上采摘红毛丹。他用砍刀劈开一个榴莲，那温热的奶油状果肉远胜于超市里塑料包装的版本，我又买了两个带回酒店。这就是罗勇的第一份馈赠：泰国的水果篮，这里的果园供应着全国一半的热带水果收成。\n\n但大多数游客来罗勇只为一个原因：沙美岛。从Ban Phe码头乘快艇只需二十分钟，当岛上白色的月牙形沙滩透过水花出现时，我感受到了那种熟悉的岛屿到达的兴奋。沙美岛在泰国岛屿中占据着恰到好处的位置：发展程度足以提供舒适的住宿和不错的餐厅，但又小到一辆摩托车一小时就能绕岛一圈。我住在Ao Wong Duean，东海岸一个马蹄形的海湾，那里碧绿的海水温暖如浴缸，沙子是明信片上承诺却很少兑现的那种细腻白色粉末。\n\n回到大陆，Mae Ramphueng海滩的长度和空旷让我惊叹。这条十二公里长的金色沙滩从渔村Paknam Rayong向南延伸，一个周二的早晨，我走了一个小时都没看到另一个游客。渔船在村子那头排列在海岸边，一排摆着塑料椅和水泥地板的海鲜餐厅以令人重新考虑是否还要在曼谷吃饭的价格供应当天的渔获。我点了pla kapong neung manao——清蒸鲈鱼配青柠和辣椒，新鲜到鱼肉近乎透明，还有一盘从锅中滋滋作响端上来的蒜香炒鱿鱼。\n\n罗勇城本身是一座功能齐全的泰国省级城市，虽不特别秀美，但有着真实的本地特色。Mae Ramphueng海滩东端的罗勇水族馆是一个规模不大但具有教育意义的景点，尤其适合家庭。城里素坤逸路上的早市色彩缤纷：成堆的虾酱、罗勇出产的泰国著名nam pla ra发酵鱼露、成篮的干鱿鱼，以及堆成小山的热带水果。我在一个摊位尝了用罗勇虾酱做的som tum，那发酵、辛辣、酸爽的复杂风味几乎让我落泪。\n\n罗勇的与众不同之处在于它的可及性和真实性。不像一小时北面的芭提雅那样被大众旅游淹没，罗勇距曼谷足够近，可以来一场真正的周末短途旅行。Khao Laem Ya-Mu Ko Samet国家公园保护着整座岛屿和一段美丽的岩石海岸线，有潮汐池、观景台和轻松的徒步小径。在我的最后一个傍晚，我坐在Khao Laem Ya海角的岩石上，看着太阳沉入泰国湾，渔船在琥珀色天空下化为剪影，心想有时候泰国最好的目的地正是那些没人告诉你的地方。",
-      "overview": "罗勇是曼谷东部的一颗海滨明珠，既是通往泰国深受喜爱的沙美岛的门户，也以自身远离曼谷喧嚣的悠闲魅力吸引着游客。这座省会城市将原始海滩、新鲜海鲜餐饮和热带果园完美融合，是理想的周末短途或长期度假之选。仅有65,000人口的罗勇保持着真实的泰式氛围，吸引着寻求真实体验而非拥挤旅游设施的旅行者。",
-      "thingsToDo": "沙美岛是罗勇的瑰宝，从渔村Ban Phe乘渡船即可到达，国家公园门票200 THB ($6 USD)。岛上拥有白沙海滩、清澈的海水和热闹的海滩夜生活，既适合放松也适合夜间娱乐。在大陆，Mae Ramphueng海滩提供12公里清静的沙滩，沿海有优质的新鲜海鲜餐厅——免费进入，非常适合悠闲的海滩日。独特体验方面，4月至6月旺季可参观罗勇的热带果园（100 THB/$3 USD门票），亲手采摘水果并品尝新鲜榴莲。别错过Sai Kaew海滩（又称钻石海滩），拥有粉白色沙滩、水上运动和夜间火舞表演，除国家公园门票外免费进入。罗勇水族馆（50 THB/$1.50 USD）提供海洋教育展览和家庭友好活动，而Khao Laem Ya-Mu Ko Samet国家公园（200 THB/$6 USD）提供海岸观景台和潮汐池，涵盖岛屿和大陆两部分。渔村Ban Phe既是渡船出发点，也是可以体验真实当地海洋文化和享用新鲜海鲜的渔业工作村。",
-      "whereToStay": "罗勇提供各价位住宿，从豪华海滨度假村到经济旅馆应有尽有。城里有多家国际连锁品牌如Novotel Rayong Star Convention Centre和Hilton Garden Inn Rayong，适合寻求熟悉舒适感的旅客，而Le Vimarn Cottages & Spa和Paradee则提供具有泰式特色的豪华体验。中档选项在市中心和海滩区域丰富多样，$50-100/晚性价比优良。预算旅行者可在海滩和市中心附近找到约$15-30/晚的众多旅馆和小型酒店。沙美岛本身也有岛上住宿，从简单的海滩小屋到高端度假村不等，如西海岸Ao Prao海滩的度假村，可欣赏宁静的日落和更私密的氛围。",
-      "gettingAround": "罗勇的当地交通主要依靠嘟嘟车和双条车（共享红色出租车），在市区和海滩区域随处可见且价格实惠，每程通常40-100 THB ($1.20-3 USD)。摩托车租赁在游客中非常受欢迎，租赁点众多，每天150-250 THB ($5-8 USD)，可自由探索全省和周边景点。Grab叫车应用在罗勇运行良好，虽然比嘟嘟车略贵，但提供固定价格和安全保障。前往沙美岛的主要渡船从渔村Ban Phe出发，全天有定期班次——码头从罗勇市中心乘嘟嘟车约30-45分钟可达（100-150 THB/$3-4.50 USD）。长途出行方面，巴士连接罗勇与曼谷东部汽车站（2-3小时，100-150 THB/$3-4.50 USD）及其他省份，提供经济实惠的交通选择。",
-      "bestTimeToVisit": "罗勇的最佳旅行季节为11月至次年2月，此时气温较凉爽（20-28°C）且降雨极少，最适合海滩活动和户外出游。3月至5月气温逐渐升高，其中4月-6月是芒果和其他水果的旺季，适合参观果园，但天气也更热。5月至10月的西南季风季带来更多降雨和较大海浪，水上活动不太理想，但此期间价格大幅下降，景色变得郁郁葱葱。12月和1月是旅游旺季，游客最多、价格最高，而11月和2月在天气依然极好的同时性价比更优。如需在宜人天气、较少人群和合理价格之间取得最佳平衡，建议11月、2月或3月初到访。",
-      "safetyTips": "罗勇对游客总体安全，犯罪率低且氛围轻松。需注意常规热带防范措施：充分涂抹防晒霜（紫外线强烈），保持水分补充，季风季节注意强流和大浪可能使游泳变得危险——务必查看海滩状况旗帜。游览沙美岛时，通过正规渠道购买船票，避免夜间独自在僻静海滩行走，将贵重物品存放在酒店保险箱而非留在海滩上无人看管。骑摩托车者应佩戴头盔（法律要求），注意泰国交通规则与西方国家不同；如不熟悉当地驾驶习惯，建议使用嘟嘟车或Grab。拥挤区域和海滩小镇偶有小偷小摸，请将背包放在身边，避免展示昂贵首饰或电子设备。",
-      "translated_at": "2026-03-11T00:00:00.000Z"
-    },
-    "ru": {
-      "enhanced_description": "Дорога из Бангкока в Районг по автомагистрали занимает менее трёх часов, и где-то за Чонбури пейзаж меняется с промышленных зон на фруктовые сады и кокосовые пальмы. Я свернул с шоссе у Бан Пхе, следуя рукописным табличкам «дуриан, рамбутан, мангостин», и оказался в придорожном саду, где фермер по имени Сомчай позволил мне рвать рамбутаны прямо с дерева. Он разрубил дуриан мачете, и кремовая мякоть, тёплая от солнца, настолько превосходила пластиковый супермаркетный вариант, что я купил ещё два в отель. Это первый дар Районга: фруктовая корзина Таиланда, откуда сады поставляют половину тропического урожая страны.\n\nНо большинство приезжает в Районг ради одного: Ко Самет. Катер от пирса Бан Пхе идёт двадцать минут, и когда белые полумесяцы пляжей острова проступили сквозь брызги, я почувствовал знакомый трепет островного прибытия. Ко Самет занимает идеальную нишу в тайском островном спектре: достаточно развит для комфортного проживания и приличных ресторанов, но достаточно мал, чтобы на мотоцикле объехать его за час. Я остановился в Ао Вонг Дуан — подковообразной бухте на восточном побережье, где бирюзовая вода была тёплой, как ванна, а песок — тем самым мелким белым порошком, который обещают открытки, но редко выполняют обещание.\n\nНа материке пляж Мэ Рампхынг удивил меня длиной и пустотой. Эта двенадцатикилометровая полоса золотого песка тянется к югу от рыбацкой деревни Пакнам Районг, и во вторник утром я шёл час, не встретив ни одного туриста. У деревни берег уставлен рыбацкими лодками, а ряд ресторанов с пластиковыми стульями и бетонным полом подавал улов дня по ценам, заставившим меня пересмотреть необходимость есть в Бангкоке. Я заказал пла капонг нынг манао — парового сибаса с лаймом и чили, настолько свежего, что мясо было полупрозрачным, и тарелку жареных кальмаров с чесноком, прибывших шипящими из вока.\n\nСам город Районг — функциональный тайский провинциальный город, не особо живописный, но с подлинным местным характером. Аквариум Районга на восточном конце пляжа Мэ Рампхынг — скромная, но познавательная достопримечательность, особенно для семей. Утренний рынок на Сукхумвит-роуд — буйство красок: горы креветочной пасты, знаменитый тайский нам пла ра — ферментированный рыбный соус, которым славятся районгские производители, корзины сушёных кальмаров и горы тропических фруктов. Я попробовал сом там с районгской креветочной пастой на лотке и едва не расплакался от сложности ферментированного, острого, кислого вкуса.\n\nРайонг выделяется доступностью и аутентичностью. В отличие от Паттайи часом севернее, Районг не захвачен массовым туризмом, но достаточно близок к Бангкоку для настоящего выходного побега. Национальный парк Кхао Лаем Я — Му Ко Самет защищает и остров, и прекрасный участок скалистого побережья с приливными бассейнами, смотровыми площадками и лёгкими тропами. В последний вечер я сидел на скалах мыса Кхао Лаем Я, наблюдая, как солнце тонет в Сиамском заливе, рыбацкие лодки силуэтами на янтарном небе, и думал, что иногда лучшие направления в Таиланде — те, о которых вам никто не рассказывает.",
-      "overview": "Районг — прибрежная жемчужина к востоку от Бангкока, служащая воротами к популярному Ко Самету и одновременно предлагающая собственный расслабленный шарм вдали от бангкокской суеты. Эта провинциальная столица сочетает нетронутые пляжи, рестораны свежих морепродуктов и тропические фруктовые сады, создавая идеальный вариант для выходного побега или продолжительного отдыха. С населением всего 65 000 человек Районг сохраняет подлинную тайскую атмосферу, привлекающую путешественников, ищущих настоящие впечатления без перегруженной туристической инфраструктуры.",
-      "thingsToDo": "Ко Самет — жемчужина Районга, доступная на пароме из рыбацкой деревни Бан Пхе (вход в национальный парк 200 бат / 6 $). Остров предлагает белые песчаные пляжи, кристально чистую воду и оживлённую пляжную ночную жизнь — идеально и для отдыха, и для вечерних развлечений. На материке пляж Мэ Рампхынг — 12 километров спокойного песка с отличными ресторанами свежих морепродуктов вдоль берега, вход свободный, прекрасно для расслабленного пляжного дня. Для уникального опыта посетите тропические фруктовые сады Районга (100 бат / 3 $) в сезон с апреля по июнь — можно собирать фрукты и пробовать свежий дуриан. Не пропустите пляж Сай Каев (Бриллиантовый пляж) с пудровым белым песком, водными видами спорта и ночными огненными шоу — бесплатно, кроме билета в нацпарк. Аквариум Районга (50 бат / 1,50 $) предлагает морские экспозиции и семейные развлечения, а Национальный парк Кхао Лаем Я — Му Ко Самет (200 бат / 6 $) — прибрежные смотровые площадки и приливные бассейны. Рыбацкая деревня Бан Пхе — и причал для паромов, и живое поселение, где можно погрузиться в подлинную морскую культуру и насладиться свежими морепродуктами.",
-      "whereToStay": "Районг предлагает размещение на любой бюджет — от роскошных пляжных курортов до экономичных гестхаусов. В городе есть международные сети, такие как Novotel Rayong Star Convention Centre и Hilton Garden Inn Rayong для любителей привычного комфорта, а Le Vimarn Cottages & Spa и Paradee предлагают роскошный отдых с тайским колоритом. Среднебюджетных вариантов в центре и на пляжах достаточно — 50–100 $ за ночь с хорошим соотношением цены и качества. Бюджетные путешественники найдут гестхаусы и небольшие отели от 15–30 $ за ночь у пляжа и в центре. На самом Ко Самете есть жильё от простых пляжных бунгало до курортов класса люкс, например на Ао Прао с западного побережья, где можно наслаждаться закатами и уединённой атмосферой.",
-      "gettingAround": "Местный транспорт Районга — это в основном тук-туки и сонгтэо (маршрутные красные такси), доступные и легко находимые в городе и пляжных зонах за 40–100 бат (1,20–3 $) за поездку. Аренда мотоцикла очень популярна — 150–250 бат (5–8 $) в день с максимальной свободой для исследования провинции. Приложение Grab работает в Районге, хотя чуть дороже тук-туков, зато с фиксированными ценами и функциями безопасности. Паром на Ко Самет отправляется из рыбацкой деревни Бан Пхе, рейсы регулярно в течение дня — пирс доступен на тук-туке из центра Районга (30–45 минут, 100–150 бат / 3–4,50 $). Для дальних поездок автобусы связывают Районг с восточным автовокзалом Бангкока (2–3 часа, 100–150 бат / 3–4,50 $) и другими провинциями.",
-      "bestTimeToVisit": "Оптимальное время для посещения Районга — с ноября по февраль, когда температура прохладнее (20–28°C) и осадки минимальны, что идеально для пляжного отдыха и активностей на свежем воздухе. С марта по май становится жарче, при этом апрель–июнь — сезон манго и других фруктов для посещения садов. Юго-западный муссон с мая по октябрь приносит больше дождей и волнение на море, но цены значительно снижаются, а пейзажи становятся пышно-зелёными. Декабрь и январь — пик сезона с максимумом туристов и высокими ценами, тогда как ноябрь и февраль дают лучшее соотношение цены и качества при отличной погоде. Для идеального баланса погоды, малолюдности и разумных цен рекомендуем ноябрь, февраль или начало марта.",
-      "safetyTips": "Районг — в целом безопасное направление с низким уровнем преступности и расслабленной атмосферой. Действуют стандартные тропические меры предосторожности: обильно наносите солнцезащитный крем (УФ-излучение интенсивно), пейте достаточно воды, в сезон муссонов будьте осторожны с сильными течениями и волнами — всегда проверяйте пляжные флаги. При посещении Ко Самета покупайте билеты на паром через официальные каналы, не гуляйте в одиночку ночью по безлюдным пляжам, храните ценности в сейфе отеля. При езде на мотоцикле обязателен шлем (требование закона), учитывайте, что тайские правила дорожного движения отличаются от западных; если не знакомы с местным стилем вождения, пользуйтесь тук-туками или Grab. Мелкие кражи иногда случаются в оживлённых зонах и на пляжах — держите рюкзак при себе и не демонстрируйте дорогие украшения или технику.",
-      "translated_at": "2026-03-11T00:00:00.000Z"
-    },
-    "ko": {
-      "enhanced_description": "라용은 방콕에서 동쪽으로 약 180km 거리에 위치한 해안 지방으로, 태국에서 가장 인기 있는 섬 중 하나인 꼬사멧으로의 관문입니다.\n\n꼬사멧은 반페 선착장에서 페리로 약 45분 거리에 있으며, 맑은 바다와 백사장이 매력적인 작은 섬입니다. 사이깨오 해변은 가장 활기찬 곳이고, 아오프라오와 아오와이는 조용한 휴식을 원하는 여행자에게 적합합니다.\n\n라용 본토도 매력이 넘칩니다. 5-6월의 과일 시즌에는 두리안, 망고스틴, 람부탄 등 열대 과일 농장을 방문하여 신선한 과일을 맛볼 수 있습니다. 반페의 해산물 시장에서 갓 잡은 해산물을 즐기고, 카오람야-꼬사멧 국립공원에서 자연을 탐험하세요. 소나무 숲이 우거진 쑤안손 해변은 현지인들의 피크닉 명소입니다.",
-      "hidden_gems": [
-        {
-          "name": "라용 과일 농장",
-          "description": "열대 과일을 직접 따서 맛볼 수 있는 농장으로, 5-6월이 최적입니다."
-        },
-        {
-          "name": "아오쁘라오 해변",
-          "description": "꼬사멧 서쪽의 조용한 해변으로 일몰이 아름답습니다."
-        },
-        {
-          "name": "새우젓 마을 (반페)",
-          "description": "전통 새우젓 제조 과정을 볼 수 있는 어촌 마을입니다."
-        },
-        {
-          "name": "카오람야 전망대",
-          "description": "라용 해안선의 파노라마를 감상할 수 있는 전망대입니다."
-        },
-        {
-          "name": "쑤안손 해변",
-          "description": "소나무 숲으로 둘러싸인 현지인들의 피크닉 해변입니다."
-        }
-      ],
-      "authentic_experiences": [],
-      "foodie_adventures": [],
-      "overview": "라용은 방콕 동쪽의 해안 보석으로, 태국에서 가장 인기 있는 꼬사멧 섬의 관문입니다. 열대 과일 농장, 신선한 해산물, 조용한 해변이 주요 매력입니다.",
-      "thingsToDo": "꼬사멧 섬은 라용의 최고 명소로, 반페에서 페리로 접근합니다. 꼬사멧에서 스노클링과 해수욕을 즐기고, 라용 본토에서는 과일 농장 투어(5-6월), 카오람야 국립공원 트레킹, 반페 해산물 시장을 방문하세요.",
-      "whereToStay": "라용은 해변 럭셔리 리조트부터 예산 게스트하우스까지 다양한 숙소를 제공합니다. 꼬사멧의 해변 방갈로가 인기이며, 라용 본토에는 가성비 좋은 호텔이 있습니다.",
-      "gettingAround": "라용의 교통은 주로 툭툭과 송태우에 의존합니다. 꼬사멧 섬 내에서는 도보와 오토바이 택시를 이용합니다. 라용 본토 탐험에는 오토바이 대여가 편리합니다.",
-      "bestTimeToVisit": "라용의 최적 방문 시기는 11월부터 2월까지로, 기온이 쾌적하고 비가 적습니다. 과일 시즌(5-6월)도 농장 방문에 추천합니다.",
-      "safetyTips": "라용은 안전한 여행지입니다. 꼬사멧에서 해수욕 시 해류에 주의하고, 보트 탑승 시 구명조끼를 확인하세요. 우기(6-10월)에는 바다 상태를 확인하세요.",
-      "translated_at": "2026-03-14T00:00:00.000Z"
-    }
+  "travel_tips": [
+    "Use the mainland first. Khao Laem Ya, Ban Phe and Mae Ramphueng explain Rayong better than starting with Koh Samet logistics.",
+    "Treat Koh Samet as an edited extension. Boat schedules, park entry arrangements and weather-dependent timing are worth rechecking directly before you travel.",
+    "Fruit-garden stops are strongest from April to June. Outside fruit season, do not let orchard copy dominate the itinerary.",
+    "Use Yomjinda Road on an arrival or departure evening when you are sleeping in town; it works better as a city walk than as a forced daytime headline.",
+    "If you are doing the Prasae-side route, bundle the botanical garden and Thung Prong Thong into one longer nature day instead of trying to combine them with Koh Samet."
+  ],
+  "best_time_to_visit": "November to February is the easiest all-round period for Rayong because coast, city walks, and mainland viewpoints are more comfortable. April to June is the meaningful fruit-season window. Wet-season travel can still work, but island and wetland plans deserve more flexibility.",
+  "bestTimeToVisit": "November to February is the easiest all-round fit for Rayong. April to June is the meaningful fruit-season exception. If your plan depends on Koh Samet boats or wetland outings, recheck current conditions instead of relying on static seasonal assumptions.",
+  "budget_info": {
+    "budget_per_day": "Budget",
+    "midrange_per_day": "Mid-range",
+    "luxury_per_day": "Upscale"
   },
-  "extended_description": "## Overview\nRayong province stretches along Thailand's eastern seaboard, roughly 180 kilometers from Bangkok, offering a refreshing coastal escape that most international visitors overlook entirely. While nearby Pattaya draws millions, Rayong keeps a lower profile with its long sandy beaches, thriving fruit orchards, fresh seafood markets, and the popular island of Koh Samet just offshore. The provincial capital is a small, working Thai city with genuine local character — fishing boats bob in the harbor, durian vendors line the roadsides during fruit season, and weekend markets buzz with Bangkok families rather than tour groups. Rayong is also home to some of Thailand's best tropical fruit, earning it the unofficial title of the country's fruit capital. From April through July, orchards open their gates for all-you-can-eat fruit buffets featuring durian, mangosteen, rambutan, and longan straight from the tree.\n\n## Best Time to Visit\nNovember through February is the sweet spot — cool and dry with pleasant sea breezes and comfortable temperatures around 25-32 degrees Celsius. This is also the best period for Koh Samet's beaches, with calm, clear water perfect for snorkeling. The fruit season runs April through July, with peak harvest in May and June — visit then if tropical fruit is your priority. The monsoon season (June to October) brings afternoon showers but rarely all-day rain; Koh Samet stays accessible year-round thanks to its sheltered position in the Gulf of Thailand. Weekends year-round see an influx of Bangkok visitors, so aim for weekday visits if you want quieter beaches.\n\n## How to Get There\nFrom Bangkok, minivans and buses depart frequently from the Eastern Bus Terminal (Ekkamai) to Rayong city (2.5-3 hours, 200-300 THB) or directly to Ban Phe pier for Koh Samet (3-3.5 hours, 200-300 THB). Private taxis take about 2 hours via Motorway 7 and cost 2,000-2,500 THB. U-Tapao Rayong-Pattaya International Airport is within the province (about 45 minutes from Rayong town) with flights from a few domestic and international routes. From Ban Phe, ferries to Koh Samet run every hour from 8am to 5pm (40-60 minutes, 100-200 THB one way) or speedboats cut the crossing to 15-20 minutes (300-500 THB per person).\n\n## Where to Stay\nRayong town itself has budget guesthouses and business hotels from 400-1,000 THB per night — functional but not tourist-focused. Mae Ramphueng Beach, a 12-kilometer stretch of sand east of town, has mid-range resorts and beachfront bungalows from 800-3,000 THB. On Koh Samet, Sai Kaew Beach (Diamond Beach) is the most developed strip with hostels from 400 THB and resorts up to 5,000 THB. Ao Wong Duean is family-friendly with mid-range options, while Ao Sang Thian and Ao Wai are quieter southern beaches with rustic bungalows from 500-2,000 THB. Ao Phrao on the west coast has upscale resorts (3,000-8,000 THB) and is the only beach facing sunset.\n\n## What to Do\nKoh Samet is the headline attraction — a small island (just 7 kilometers long) with 16 distinct beaches, each with its own character. Sai Kaew is the longest and liveliest with water sports and fire shows at night. Ao Phrao is serene and sunset-facing. Snorkeling is decent off the southern beaches (gear rental 100-200 THB). On the mainland, visit Suphattra Land or one of the many fruit orchards during harvest season (April-July) for a trolley tour through the plantations and an all-you-can-eat fruit buffet (300-500 THB for foreigners). Rayong Aquarium is a solid family stop with marine life displays (free entry). Mae Ramphueng Beach is a locals' favorite for seafood dinners at sunset — far less touristy than anything on Koh Samet.\n\n## Food & Dining\nSeafood is king in Rayong. Along Mae Ramphueng Beach and in the town center, seafood restaurants serve grilled prawns, steamed fish, crab fried rice, and som tam with fresh crab at very reasonable prices (100-300 THB per dish). Rayong is famous for nam pla (fish sauce) and shrimp paste production — you can visit local factories near the coast. The night market in town center operates daily with grilled squid, pad Thai, fried chicken, and tropical fruit shakes (30-60 THB per item). On Koh Samet, beachfront restaurants are pricier (150-400 THB per dish) but the seafood barbecues on Sai Kaew Beach at night are memorable. For the freshest catch, head to Ban Phe fishing village where you can buy straight from the boats.\n\n## Budget Guide\nRayong and Koh Samet are quite affordable, especially compared to southern island destinations. Backpackers can manage on 800-1,200 THB per day (22-33 USD): hostel or basic bungalow on Koh Samet (400-600 THB), street food and market meals (150-250 THB), ferry and local transport (100-200 THB). Mid-range travelers spend 1,800-3,500 THB per day (50-97 USD): beachfront room, restaurant seafood dinners, fruit orchard visit. Note that Koh Samet charges a 200 THB national park entrance fee for foreign visitors. Scooter rental on the island costs 200-300 THB per day. Songthaews on the island run from the pier to the main beaches for 20-50 THB.\n\n## Safety & Tips\nRayong and Koh Samet are safe destinations. On Koh Samet, the roads are narrow and hilly — scooter accidents happen regularly, so ride carefully and wear a helmet. Jellyfish can appear in the Gulf of Thailand during June to September; ask locals about conditions before swimming. Fire shows on Sai Kaew Beach are entertaining but keep a safe distance. During fruit season, durian is banned from most hotels and ferries due to its powerful smell — eat it at the orchards instead. Ban Phe pier can get chaotic on weekends; buy ferry tickets from the official counters, not from touts. If visiting on a weekend, book Koh Samet accommodation in advance as Bangkok visitors fill up the popular beaches.",
-  "getting_there": {
-    "from_bangkok": {
-      "bus": "2.5-3 hours, 200-300 THB from Eastern Bus Terminal (Ekkamai)",
-      "taxi": "2 hours via Motorway 7, 2,000-2,500 THB"
-    },
-    "to_koh_samet": {
-      "ferry": "40-60 min from Ban Phe pier, 100-200 THB; speedboat 15-20 min, 300-500 THB"
-    },
-    "local": "Songthaews on Koh Samet 20-50 THB, scooter rental 200-300 THB/day",
-    "airport": "U-Tapao Rayong-Pattaya International Airport (UTP), 45 min from town"
-  },
-  "best_time": {
-    "peak": "Nov-Feb",
-    "shoulder": "Mar-Apr, Oct",
-    "low": "May-Sep (occasional rain, still accessible)",
-    "avoid": "Weekends year-round if you want quiet beaches (Bangkok crowds)",
-    "best_months": "Nov-Feb",
-    "why": "Cool dry weather, calm seas, best snorkeling visibility off Koh Samet."
-  },
-  "budget": {
-    "backpacker": "$22-33/day",
-    "mid_range": "$50-97/day",
-    "luxury": "$120+/day",
-    "typical_meal": "30-60 THB street food, 100-300 THB seafood restaurant"
-  },
-  "neighborhoods": [
+  "thingsToDo": "Start with Khao Laem Ya, Ban Phe and Mae Ramphueng, then choose one edited extension: either Koh Samet, or the Prasae-side route through Rayong Botanical Garden and Thung Prong Thong. Add Yomjinda Road if you are sleeping in town and want one useful urban walk.",
+  "whereToStay": "Choose a Rayong city hotel if this is a practical short break, an arrival night, or a mixed work-and-leisure trip. Move to Wang Kaew, Rim Pae or Koh Samet only when the beach itself is the reason for the stay. The best pattern for many first visits is one city or mainland-coast base plus at most one island night.",
+  "whereToEat": [
     {
-      "name": "Sai Kaew Beach (Koh Samet)",
-      "vibe": "Longest beach, fire shows at night, most developed, water sports",
-      "best_for": "First-timers, party travelers, groups",
-      "price_range": "400-5,000 THB/night"
+      "name": "Yomjinda Road food walk",
+      "cuisine": "Street food and local snacks",
+      "priceRange": "Budget",
+      "description": "The clearest city-evening food move in Rayong."
     },
     {
-      "name": "Ao Phrao (Koh Samet)",
-      "vibe": "West-coast sunset beach, upscale resorts, quiet and exclusive",
-      "best_for": "Couples, luxury travelers",
-      "price_range": "3,000-8,000 THB/night"
+      "name": "Laem Charoen Seafood",
+      "cuisine": "Seafood",
+      "priceRange": "Mid-range",
+      "description": "A durable official-name seafood stop in Rayong."
     },
     {
-      "name": "Mae Ramphueng Beach",
-      "vibe": "12 km mainland beach, local seafood restaurants, Thai weekend crowd",
-      "best_for": "Budget travelers, families, those avoiding island prices",
-      "price_range": "800-3,000 THB/night"
+      "name": "The Brasserie",
+      "cuisine": "International and Thai",
+      "priceRange": "Mid-range to upscale",
+      "description": "A practical city-center breakfast or buffet dinner option."
     },
     {
-      "name": "Ban Phe",
-      "vibe": "Fishing village, ferry departure point, fresh seafood market",
-      "best_for": "Foodies, overnight before early ferry",
-      "price_range": "400-1,200 THB/night"
+      "name": "Elementi Rooftop Restaurant & Bar",
+      "cuisine": "Italian and rooftop cocktails",
+      "priceRange": "Upscale",
+      "description": "The sharper city dinner when rooftop timing matters."
+    },
+    {
+      "name": "Fish Bar",
+      "cuisine": "Seafood",
+      "priceRange": "Upscale",
+      "description": "A strong mainland-resort seafood dinner on the Wang Kaew side."
     }
   ],
-  "must_try_food": [
-    "Grilled prawns and squid at Mae Ramphueng Beach seafood restaurants — fresh from the Gulf, served with spicy nam jim sauce (100-250 THB)",
-    "All-you-can-eat tropical fruit buffet at Suphattra Land (Apr-Jul) — durian, mangosteen, rambutan, longan straight from the tree (300-500 THB)",
-    "Som tam with fresh blue crab (som tam poo ma) — Rayong's coastal twist on the classic papaya salad (50-80 THB)"
+  "topHotels": [
+    {
+      "name": "Holiday Inn & Suites Rayong City Centre",
+      "category": "midrange",
+      "priceRange": "Mid-range to upscale",
+      "area": "Central Rayong",
+      "description": "The clearest city-center base for short practical stays."
+    },
+    {
+      "name": "Rayong Marriott Resort & Spa",
+      "category": "luxury",
+      "priceRange": "Upscale",
+      "area": "Wang Kaew Beach",
+      "description": "A true mainland-resort stay on a quieter stretch of coast."
+    },
+    {
+      "name": "Novotel Rayong Star Convention Centre",
+      "category": "midrange",
+      "priceRange": "Mid-range to upscale",
+      "area": "Tha Pradu",
+      "description": "A polished city hotel with facilities and central access."
+    },
+    {
+      "name": "Novotel Rayong Rim Pae Resort",
+      "category": "midrange",
+      "priceRange": "Mid-range",
+      "area": "Rim Pae Beach",
+      "description": "A family-friendly beach resort on the quieter east-side coast."
+    },
+    {
+      "name": "Ao Prao Resort",
+      "category": "luxury",
+      "priceRange": "Upscale",
+      "area": "Ao Prao Beach, Koh Samet",
+      "description": "The best island-side stay for a quieter west-coast Koh Samet night."
+    }
   ],
-  "local_tips": [
-    "Visit Koh Samet on weekdays to avoid the Bangkok weekend crowds — prices are lower and beaches are calmer",
-    "Buy ferry tickets at the official Ban Phe pier counters, not from touts on the street who charge inflated prices",
-    "Fruit orchards only open April to July — Suphattra Land is the most organized but smaller family orchards offer a more authentic experience",
-    "The national park fee on Koh Samet (200 THB for foreigners) is valid for re-entry within 2 weeks — keep your receipt",
-    "For the best sunset on Koh Samet, head to Ao Phrao on the west coast — it is the only beach facing west"
+  "gettingAround": "Rayong city itself is manageable by short rides once you are based in town, but the province gets much easier with a car or driver when you add Ban Phe, Khao Laem Ya, Rim Pae, or the Prasae-side wetland route. If you plan a Koh Samet extension, verify current boat timing and pier arrangements directly before you travel day.",
+  "safetyTips": "Rayong is generally straightforward, but coastal common sense still matters. Recheck sea conditions before any island transfer, respect active temple and shrine spaces when you add town stops, and do not treat mangrove boardwalks, wetland boat routes, or rocky sunset points as places to rush in poor weather or low light.",
+  "faq": [
+    {
+      "question": "Is Rayong only worth visiting for Koh Samet?",
+      "answer": "No. Koh Samet is the best-known extension, but Rayong is stronger when you also give time to Khao Laem Ya, Ban Phe, Mae Ramphueng, and either Yomjinda or the Prasae-side wetland route."
+    },
+    {
+      "question": "How many nights do you need in Rayong?",
+      "answer": "Two or three nights is the strongest first trip. That gives you one mainland coast day, one edited extension day, and enough room for a city or old-town evening if you are staying in town."
+    },
+    {
+      "question": "Do you need to stay on Koh Samet?",
+      "answer": "Not always. A mainland stay often works better if you want Rayong itself to remain visible. An island night only makes sense when west-coast beach time or a fuller Samet day is genuinely part of the plan."
+    },
+    {
+      "question": "What food should you prioritize in Rayong?",
+      "answer": "Keep seafood, Ban Phe market products, and one proper local or old-town meal visible. Rayong gets weaker when every meal becomes generic hotel or ranking-list copy."
+    },
+    {
+      "question": "When should you plan a fruit-garden stop in Rayong?",
+      "answer": "Fruit gardens matter most from April to June, when TAT still frames Rayong through orchard visits and fruit-season travel. Outside those months, coast and wetland stops usually deserve more weight."
+    }
   ],
-  "day_trips": [
-    "Koh Samet island hopping (full day) — visit multiple beaches by songthaew or rent a scooter to explore all 16 beaches (200-300 THB)",
-    "Suphattra Land fruit orchard (Apr-Jul) — trolley tour and all-you-can-eat tropical fruit buffet (300-500 THB)",
-    "Ban Phe fishing village — fresh seafood market, local temples, and departure point for Koh Samet",
-    "Khao Chamao-Khao Wong National Park (30 km north) — waterfalls, jungle trails, and swimming holes (200 THB entry)"
+  "practicalInfo": {
+    "arrival": "Rayong is commonly reached by road from Bangkok. If your plan depends on a same-day island extension, leave margin for transfer timing rather than assuming every pier connection will line up neatly.",
+    "transport": "City stays work with short local rides, but Ban Phe, Khao Laem Ya, Rim Pae and the Prasae side are easier with your own car, a driver or a deliberate full-day transport plan.",
+    "planning": "Think in layers: mainland coast first, then one edited extension only. That keeps Rayong coherent and prevents the province from turning into a thin coast-to-island checklist."
+  },
+  "contentSources": [
+    {
+      "type": "tourism-office",
+      "title": "Rayong Province Page",
+      "creator": "Tourism Authority of Thailand",
+      "url": "https://www.tourismthailand.org/Accessibility/Destinations/Provinces/Rayong/465",
+      "description": "Used for Rayong-wide framing around Koh Samet, Ban Phe seafood products, fruit festival timing, Thung Prong Thong, and the best-months visit window."
+    },
+    {
+      "type": "tourism-office",
+      "title": "Rayong 2 Days",
+      "creator": "Tourism Authority of Thailand",
+      "url": "https://www.tourismthailand.org/Trip-Planner/Suggestion-Detail/rayong-2-days",
+      "description": "Used for Hat Saeng Chan, Suan Suphatthra fruit-garden timing, Hat Mae Ramphueng, and Thung Prong Thong route grouping."
+    },
+    {
+      "type": "tourism-office",
+      "title": "Let's Explore EEC Select Best Service Destinations in Rayong, Chonburi & Chachoengsao",
+      "creator": "Tourism Authority of Thailand",
+      "url": "https://www.tourismthailand.org/Articles/eec-en",
+      "description": "Used for Rayong Botanical Garden and the solar-powered boat-tour context."
+    },
+    {
+      "type": "tourism-office",
+      "title": "Khao Laem Ya: The Serene Side of Samet",
+      "creator": "Tourism Authority of Thailand",
+      "url": "https://www.tourismthailand.org/Articles/khao-laem-ya-the-serene-side-of-samet",
+      "description": "Used for Khao Laem Ya's mainland-headland role and its relationship to the Samet-facing coast."
+    },
+    {
+      "type": "hotel",
+      "title": "Holiday Inn & Suites Rayong City Centre",
+      "creator": "Holiday Inn & Suites Rayong City Centre",
+      "url": "https://rayong.holidayinn.com/",
+      "description": "Used for official city-center hotel positioning, facilities, and Elementi rooftop context."
+    },
+    {
+      "type": "restaurant",
+      "title": "The Brasserie - Global Cuisine Restaurant",
+      "creator": "Holiday Inn & Suites Rayong City Centre",
+      "url": "https://rayong.holidayinn.com/dining/the-brasserie-global-dining",
+      "description": "Used for The Brasserie dining profile, location, and operation context."
+    },
+    {
+      "type": "hotel",
+      "title": "Rayong Marriott Resort & Spa",
+      "creator": "Marriott",
+      "url": "https://www.marriott.com/en-us/hotels/bkkrr-rayong-marriott-resort-and-spa/overview/",
+      "description": "Used for beachfront Wang Kaew positioning, room outlook, and mainland-resort context."
+    },
+    {
+      "type": "restaurant",
+      "title": "Dining at Rayong Marriott Resort & Spa",
+      "creator": "Marriott",
+      "url": "https://www.marriott.com/en-us/hotels/bkkrr-rayong-marriott-resort-and-spa/dining/",
+      "description": "Used for C-Salt Cafe, Fish Bar, Java+, and other official on-property restaurant details."
+    },
+    {
+      "type": "hotel",
+      "title": "Novotel Rayong Star Convention Centre",
+      "creator": "Novotel Rayong Star Convention Centre",
+      "url": "https://www.novotelrayongstarconventioncentre.com/",
+      "description": "Used for central Rayong hotel positioning, facilities, Food Exchange and After 8 Bar context."
+    },
+    {
+      "type": "attraction",
+      "title": "Yomjinda Road",
+      "creator": "Novotel Rayong Star Convention Centre",
+      "url": "https://www.novotelrayongstarconventioncentre.com/places/yomjinda-road/",
+      "description": "Used for Yomjinda old-town context, Rayong Museum reference, and the night-market walk."
+    },
+    {
+      "type": "hotel",
+      "title": "Novotel Rayong Rim Pae Resort",
+      "creator": "Novotel Rayong Rim Pae Resort",
+      "url": "https://novotelrayong.com/en/",
+      "description": "Used for Rim Pae beachfront positioning, family facilities, and resort context."
+    },
+    {
+      "type": "hotel",
+      "title": "HOP INN Rayong",
+      "creator": "HOP INN Thailand",
+      "url": "https://www.hopinnhotel.com/our-hotels/hop-inn-rayong",
+      "description": "Used for Rayong budget-hotel positioning on Sukhumvit Road and the current room count."
+    },
+    {
+      "type": "hotel",
+      "title": "Ao Prao Resort",
+      "creator": "Ao Prao Resort",
+      "url": "https://www.aopraoresort.com/",
+      "description": "Used for quiet west-coast Koh Samet stay positioning and official island hotel information."
+    },
+    {
+      "type": "restaurant",
+      "title": "Restaurants - Ao Prao Resort",
+      "creator": "Ao Prao Resort",
+      "url": "https://www.aopraoresort.com/restaurants/",
+      "description": "Used for beachfront dining, seafood, BBQ, and sunset-facing restaurant context on Ao Prao Beach."
+    },
+    {
+      "type": "restaurant",
+      "title": "Laem Charoen Seafood Branches",
+      "creator": "Laem Charoen Seafood",
+      "url": "https://www.laemcharoenseafood.com/branch/",
+      "description": "Used to confirm current official Rayong branch presence."
+    }
   ],
-  "enriched_at": "2026-03-22"
+  "reviewed_by": "Go2Thailand Editorial Team",
+  "enhanced_at": "2026-03-27T00:00:00.000Z",
+  "factchecked_at": "2026-03-27T00:00:00.000Z",
+  "enrichedAt": "2026-03-27T00:00:00.000Z"
 }

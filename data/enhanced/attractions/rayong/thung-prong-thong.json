@@ -1,0 +1,79 @@
+{
+  "id": 5,
+  "slug": "thung-prong-thong",
+  "name": {
+    "en": "Thung Prong Thong",
+    "nl": "Thung Prong Thong"
+  },
+  "type": "nature",
+  "city_slug": "rayong",
+  "address": "Pak Nam Prasae, Klaeng District, Rayong, Thailand",
+  "location": null,
+  "opening_hours": "Public nature-site timing can vary; late-afternoon visits work best when weather and light are cooperative.",
+  "entrance_fee": {
+    "thb": null,
+    "usd": null
+  },
+  "description": {
+    "en": "A mangrove-boardwalk stop on the Prasae side that works best in late light and as part of a broader wetland day.",
+    "nl": "Een mangrove-boardwalkstop aan de Prasae-kant die het best werkt in laat licht en als onderdeel van een bredere wetlanddag."
+  },
+  "highlights": [
+    "Mangrove boardwalk",
+    "Late-afternoon timing",
+    "Good with botanical garden"
+  ],
+  "image": "/images/cities/generated/rayong.webp",
+  "official_website": "https://www.tourismthailand.org/Trip-Planner/Suggestion-Detail/rayong-2-days",
+  "seo": {
+    "metaTitle": {
+      "en": "Thung Prong Thong | Go2Thailand",
+      "nl": "Thung Prong Thong | Go2Thailand"
+    },
+    "metaDescription": {
+      "en": "Why Thung Prong Thong is one of Rayong's best mangrove stops and how to use it as part of the Prasae-side route.",
+      "nl": "Waarom Thung Prong Thong een van Rayongs beste mangrovestops is en hoe je het gebruikt in de Prasae-route."
+    }
+  },
+  "tags": [
+    "rayong",
+    "thung prong thong",
+    "mangrove",
+    "prasae",
+    "nature"
+  ],
+  "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=Thung%20Prong%20Thong%20Rayong",
+  "best_time": "late afternoon",
+  "duration_hours": 2,
+  "enhanced_description": "Thung Prong Thong is the Rayong stop that makes the province feel broader than coast and island marketing alone. The mangrove landscape gives the Klaeng and Prasae side a distinct visual identity, which is why this attraction works best as part of a dedicated wetland day rather than as something tacked onto a beach itinerary.\n\nThe site is most useful when you respect timing. Late light is part of why travelers come, and it turns the stop into something more atmospheric than a quick midday boardwalk pass.",
+  "detailed_history": "TAT's current Rayong two-day route still keeps Thung Prong Thong in the official outline, which is a strong signal that the mangrove side remains one of the province's durable attractions.",
+  "visitor_experience": "Expect a walkable nature stop with the best payoff coming from atmosphere and pacing rather than high-intensity activity. It is better as a slower final stop of a Prasae-side day than as a rushed box-checking exercise.",
+  "best_time_to_visit": {
+    "time_of_day": "Late afternoon",
+    "duration": "About 90 to 120 minutes",
+    "crowd_level": "Usually manageable outside long-holiday spikes"
+  },
+  "practical_info": {
+    "how_to_get_there": "Best reached by car or driver as part of a longer day on the Klaeng and Prasae side.",
+    "nearby_attractions": "Pairs naturally with Rayong Botanical Garden and other Prasae-side nature planning.",
+    "food_options": "Plan meals elsewhere on the route unless you have confirmed current local options in advance.",
+    "shopping": "This is a nature stop first, not a shopping stop."
+  },
+  "insider_tips": [
+    "Do this later in the day if you want the visual payoff people actually come for.",
+    "Keep it in the same route as the botanical garden rather than forcing it into a beach day.",
+    "Weather matters more here than at indoor city stops."
+  ],
+  "verified_note": "Source-backed summary based on Tourism Authority of Thailand's current Rayong route framing. Reconfirm local access and conditions before travel.",
+  "cultural_significance": "Thung Prong Thong helps keep Rayong's mangrove and estuary landscape visible in the province's travel story, which would otherwise become too beach-heavy.",
+  "contentSources": [
+    {
+      "name": "Rayong 2 Days",
+      "url": "https://www.tourismthailand.org/Trip-Planner/Suggestion-Detail/rayong-2-days"
+    },
+    {
+      "name": "Rayong Province Page",
+      "url": "https://www.tourismthailand.org/Accessibility/Destinations/Provinces/Rayong/465"
+    }
+  ]
+}

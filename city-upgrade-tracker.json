@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-03-26T00:00:00.000Z",
+  "updated_at": "2026-03-27T00:00:00.000Z",
   "project": "go2thailand city upgrade tracker",
   "goal": "Upgrade all English city clusters to source-backed, non-thin, AdSense-safe, EEAT-oriented pages.",
   "done_definition": [
@@ -146,8 +146,8 @@
     },
     {
       "slug": "rayong",
-      "status": "pending",
-      "notes": ""
+      "status": "done",
+      "notes": "English city cluster rebuilt around Khao Laem Ya, Ban Phe, Mae Ramphueng, Yomjinda Road, and one edited Koh Samet-or-Prasae extension layer, with source-backed attraction detail pages, official hotel and dining picks, and validation via jq, tsc, and localhost render checks."
     },
     {
       "slug": "sukhothai",
