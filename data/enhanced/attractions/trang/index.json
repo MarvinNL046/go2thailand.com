@@ -1,223 +1,163 @@
 {
   "city_slug": "trang",
   "city_name": "Trang",
-  "total_attractions": 9,
+  "total_attractions": 6,
   "attractions": [
     {
       "id": 1,
-      "slug": "emerald-cave-tham-morakot",
+      "slug": "talad-chin-ta-and-tanon-street-art",
       "name": {
-        "en": "Emerald Cave (Tham Morakot)",
-        "nl": "Smaragd Grot (Tham Morakot)"
+        "en": "Talad Chin Ta and Tanon Street Art",
+        "nl": "Talad Chin Ta en Tanon Street Art"
       },
-      "type": "nature",
-      "image": "/images/cities/krabi/krabi-mountain-view.webp",
+      "type": "heritage",
+      "image": "/images/cities/generated/trang.webp",
       "description": {
-        "en": "A sea cave on Koh Muk island where you swim through 80 meters of darkness to emerge at a hidden inland beach",
-        "nl": "Een zeegrot op het eiland Koh Muk waar je door 80 meter duisternis zwemt om uit te komen bij een verborgen binnenstrand"
+        "en": "The strongest first-stop city layer, built around Trang's market-side old town, mural streets, and a more readable urban identity than the old thin pages ever offered.",
+        "nl": "De sterkste eerste stadslaag, rond de marktzijde van de oude stad, muurschilderingen en een veel duidelijkere stedelijke identiteit."
       },
       "entrance_fee": {
-        "thb": 200,
-        "usd": 6
+        "thb": null,
+        "usd": null
       },
+      "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=Talad+Chin+Ta+Trang",
       "highlights": [
-        "80-meter swim through cave",
-        "Hidden inland beach",
-        "Emerald-green water"
+        "Old-town market streets",
+        "Street-art route",
+        "Best first read of Trang"
       ],
-      "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=Emerald%20Cave%20(Tham%20Morakot)%20Trang%20Thailand"
+      "best_time": "late morning or late afternoon",
+      "duration_hours": 2
     },
     {
       "id": 2,
+      "slug": "peninsular-botanic-garden-thung-khai",
+      "name": {
+        "en": "Peninsular Botanic Garden at Thung Khai",
+        "nl": "Peninsular Botanic Garden bij Thung Khai"
+      },
+      "type": "nature",
+      "image": "/images/cities/generated/trang.webp",
+      "description": {
+        "en": "The easiest forest-side nature extension from town, with a canopy walkway and a biodiversity-focused half-day rather than overblown province filler.",
+        "nl": "De gemakkelijkste natuuruitstap dicht bij de stad, met een canopy walk en een halfdag in het bos."
+      },
+      "entrance_fee": {
+        "thb": null,
+        "usd": null
+      },
+      "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=Peninsular+Botanic+Garden+Thung+Khai+Trang",
+      "highlights": [
+        "Canopy walkway",
+        "Forest biodiversity",
+        "Easy half-day from town"
+      ],
+      "best_time": "morning",
+      "duration_hours": 2
+    },
+    {
+      "id": 3,
+      "slug": "kantang-railway-station-and-ratsada-museum",
+      "name": {
+        "en": "Kantang Railway Station and the Ratsada museum",
+        "nl": "Kantang Railway Station en het Ratsada-museum"
+      },
+      "type": "heritage",
+      "image": "/images/cities/generated/trang.webp",
+      "description": {
+        "en": "Trang's cleanest heritage extension, pairing the preserved Kantang terminal station with the museum layer that explains the province beyond breakfast and beaches.",
+        "nl": "Trang's sterkste heritage-uitstap, met het behouden station van Kantang en het museum dat de provincie buiten ontbijt en stranden uitlegt."
+      },
+      "entrance_fee": {
+        "thb": null,
+        "usd": null
+      },
+      "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=Kantang+Railway+Station+Trang",
+      "highlights": [
+        "Historic terminal station",
+        "Ratsada heritage layer",
+        "Best edited Kantang route"
+      ],
+      "best_time": "late morning to afternoon",
+      "duration_hours": 3
+    },
+    {
+      "id": 4,
+      "slug": "pak-meng-and-hat-chao-mai",
+      "name": {
+        "en": "Pak Meng and Hat Chao Mai",
+        "nl": "Pak Meng en Hat Chao Mai"
+      },
+      "type": "coast",
+      "image": "/images/cities/generated/trang.webp",
+      "description": {
+        "en": "The best mainland-coast block for travelers who want beach scenery and Trang sea access without making the whole stay island-only.",
+        "nl": "De beste vasteland-kustlaag voor reizigers die zee en strand willen zonder er een puur eilandverblijf van te maken."
+      },
+      "entrance_fee": {
+        "thb": null,
+        "usd": null
+      },
+      "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=Pak+Meng+Beach+Trang",
+      "highlights": [
+        "Pak Meng Pier",
+        "Mainland beach day",
+        "Clean sea-layer add-on"
+      ],
+      "best_time": "late morning or late afternoon",
+      "duration_hours": 4
+    },
+    {
+      "id": 5,
+      "slug": "koh-mook-and-emerald-cave",
+      "name": {
+        "en": "Koh Mook and Emerald Cave",
+        "nl": "Koh Mook en Emerald Cave"
+      },
+      "type": "island",
+      "image": "/images/cities/generated/trang.webp",
+      "description": {
+        "en": "Trang's headline island day, where Emerald Cave and Koh Mook's community context give the outing more substance than a generic boat circuit.",
+        "nl": "Trang's belangrijkste eilanddag, waarbij Emerald Cave en de context van Koh Mook samen meer inhoud geven dan een generieke boottocht."
+      },
+      "entrance_fee": {
+        "thb": null,
+        "usd": null
+      },
+      "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=Emerald+Cave+Koh+Mook+Trang",
+      "highlights": [
+        "Emerald Cave",
+        "Koh Mook community context",
+        "Flagship sea outing"
+      ],
+      "best_time": "full-day outing",
+      "duration_hours": 6
+    },
+    {
+      "id": 6,
       "slug": "koh-kradan",
       "name": {
         "en": "Koh Kradan",
         "nl": "Koh Kradan"
       },
-      "type": "beach",
-      "image": "/images/cities/krabi/krabi-mountain-view.webp",
+      "type": "island",
+      "image": "/images/cities/generated/trang.webp",
       "description": {
-        "en": "Often called Thailand's most beautiful beach with pristine white sand, coral reef snorkeling, and stunning sunsets",
-        "nl": "Vaak het mooiste strand van Thailand genoemd met ongerept wit zand, koraalrif snorkelen en prachtige zonsondergangen"
+        "en": "The clean-beach counterpart to Koh Mook, better when the priority is clear water, sand, and a straightforward snorkel-and-swim day.",
+        "nl": "De strandgerichte tegenhanger van Koh Mook, beter als helder water, zand en snorkelen de prioriteit zijn."
       },
       "entrance_fee": {
-        "thb": 200,
-        "usd": 6
+        "thb": null,
+        "usd": null
       },
+      "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=Koh+Kradan+Trang",
       "highlights": [
-        "Pristine white sand beach",
-        "Coral reef snorkeling",
-        "Spectacular sunsets"
+        "White-sand beach",
+        "Snorkeling water",
+        "Best clean-beach island day"
       ],
-      "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=Koh%20Kradan%20Trang%20Thailand"
-    },
-    {
-      "id": 3,
-      "slug": "pak-meng-beach",
-      "name": {
-        "en": "Pak Meng Beach",
-        "nl": "Pak Meng Beach"
-      },
-      "type": "beach",
-      "image": "/images/cities/krabi/krabi-mountain-view.webp",
-      "description": {
-        "en": "Long casuarina-lined beach on the mainland and departure point for island-hopping tours to the Trang islands",
-        "nl": "Lang strand omzoomd met casuarina-bomen op het vasteland en vertrekpunt voor eilandhopping-tours naar de Trang-eilanden"
-      },
-      "entrance_fee": {
-        "thb": 0,
-        "usd": 0
-      },
-      "highlights": [
-        "Island tour departure point",
-        "Long sandy beach",
-        "Seafood restaurants"
-      ],
-      "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=Pak%20Meng%20Beach%20Trang%20Thailand"
-    },
-    {
-      "id": 4,
-      "slug": "trang-night-market",
-      "name": {
-        "en": "Trang Night Market",
-        "nl": "Trang Nachtmarkt"
-      },
-      "type": "market",
-      "image": "/images/cities/krabi/krabi-mountain-view.webp",
-      "description": {
-        "en": "Authentic evening food market on Sathani Road with southern Thai street food, grilled seafood, and local desserts",
-        "nl": "Authentieke avondvoedselmarkt aan Sathani Road met Zuid-Thais straatvoedsel, gegrilde zeevruchten en lokale desserts"
-      },
-      "entrance_fee": {
-        "thb": 0,
-        "usd": 0
-      },
-      "highlights": [
-        "Southern Thai street food",
-        "Local atmosphere",
-        "Budget-friendly dining"
-      ],
-      "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=Trang%20Night%20Market%20Trang%20Thailand"
-    },
-    {
-      "id": 5,
-      "slug": "koh-muk",
-      "name": {
-        "en": "Koh Muk (Koh Mook)",
-        "nl": "Koh Muk (Koh Mook)"
-      },
-      "type": "nature",
-      "image": "/images/cities/krabi/krabi-mountain-view.webp",
-      "description": {
-        "en": "Small island home to the famous Emerald Cave with a Muslim fishing village, quiet beaches, and rubber plantations",
-        "nl": "Klein eiland met de beroemde Smaragd Grot, een moslim vissersdorp, rustige stranden en rubberplantages"
-      },
-      "entrance_fee": {
-        "thb": 0,
-        "usd": 0
-      },
-      "highlights": [
-        "Emerald Cave access",
-        "Fishing village culture",
-        "Quiet beaches"
-      ],
-      "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=Koh%20Muk%20(Koh%20Mook)%20Trang%20Thailand"
-    },
-    {
-      "id": 6,
-      "slug": "hat-chao-mai-national-park",
-      "name": {
-        "en": "Hat Chao Mai National Park",
-        "nl": "Hat Chao Mai Nationaal Park"
-      },
-      "type": "nature",
-      "image": "/images/cities/krabi/krabi-mountain-view.webp",
-      "description": {
-        "en": "Coastal national park with mangrove forests, limestone caves, casuarina beaches, and dugong habitat",
-        "nl": "Kust nationaal park met mangrovebossen, kalksteengrotten, casuarina-stranden en doejong-habitat"
-      },
-      "entrance_fee": {
-        "thb": 200,
-        "usd": 6
-      },
-      "highlights": [
-        "Dugong sightings",
-        "Mangrove forests",
-        "Pristine beaches"
-      ],
-      "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=Hat%20Chao%20Mai%20National%20Park%20Trang%20Thailand"
-    },
-    {
-      "id": 7,
-      "slug": "koh-libong",
-      "name": {
-        "en": "Koh Libong",
-        "nl": "Koh Libong"
-      },
-      "type": "nature",
-      "image": "/images/cities/krabi/krabi-mountain-view.webp",
-      "description": {
-        "en": "Trang's largest island known for wild dugong population in its seagrass beds and traditional Muslim fishing villages",
-        "nl": "Trang's grootste eiland bekend om de wilde doejong-populatie in de zeegrasvelden en traditionele moslim vissersdorpen"
-      },
-      "entrance_fee": {
-        "thb": 0,
-        "usd": 0
-      },
-      "highlights": [
-        "Wild dugong watching",
-        "Seagrass beds",
-        "Muslim fishing villages"
-      ],
-      "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=Koh%20Libong%20Trang%20Thailand"
-    },
-    {
-      "id": 8,
-      "slug": "phraya-ratsadanupradit-monument",
-      "name": {
-        "en": "Phraya Ratsadanupradit Monument",
-        "nl": "Phraya Ratsadanupradit Monument"
-      },
-      "type": "cultural",
-      "image": "/images/cities/krabi/krabi-mountain-view.webp",
-      "description": {
-        "en": "Monument honoring Trang's beloved governor who introduced rubber tree cultivation and modernized the province",
-        "nl": "Monument ter ere van Trang's geliefde gouverneur die rubberteelt introduceerde en de provincie moderniseerde"
-      },
-      "entrance_fee": {
-        "thb": 0,
-        "usd": 0
-      },
-      "highlights": [
-        "Historic monument",
-        "Tree-lined plaza",
-        "Morning market area"
-      ],
-      "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=Phraya%20Ratsadanupradit%20Monument%20Trang%20Thailand"
-    },
-    {
-      "id": 9,
-      "slug": "koh-ngai",
-      "name": {
-        "en": "Koh Ngai (Koh Hai)",
-        "nl": "Koh Ngai (Koh Hai)"
-      },
-      "type": "beach",
-      "image": "/images/cities/krabi/krabi-mountain-view.webp",
-      "description": {
-        "en": "Small island with excellent coral reef snorkeling directly off the beach and a handful of peaceful resorts",
-        "nl": "Klein eiland met uitstekend koraalrif snorkelen direct voor het strand en een handvol vredige resorts"
-      },
-      "entrance_fee": {
-        "thb": 0,
-        "usd": 0
-      },
-      "highlights": [
-        "Beach-front snorkeling",
-        "Coral gardens",
-        "Small island atmosphere"
-      ],
-      "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=Koh%20Ngai%20(Koh%20Hai)%20Trang%20Thailand"
+      "best_time": "full-day outing",
+      "duration_hours": 6
     }
   ]
 }

@@ -1,0 +1,77 @@
+{
+  "id": 5,
+  "slug": "koh-mook-and-emerald-cave",
+  "name": {
+    "en": "Koh Mook and Emerald Cave",
+    "nl": "Koh Mook en Emerald Cave"
+  },
+  "type": "island",
+  "city_slug": "trang",
+  "address": "Koh Mook, Hat Chao Mai National Park area, Trang Province",
+  "location": null,
+  "opening_hours": "Boat routes, park access, and cave conditions vary by season and weather, so the current local operator and park setup should be rechecked before departure.",
+  "entrance_fee": {
+    "thb": null,
+    "usd": null
+  },
+  "description": {
+    "en": "Trang's headline island day, combining the Emerald Cave route with enough community context on Koh Mook to feel more substantial than a generic boat circuit.",
+    "nl": "Trang's belangrijkste eilanddag, met Emerald Cave en genoeg context van Koh Mook om meer inhoud te geven dan een generieke boottocht."
+  },
+  "highlights": [
+    "Emerald Cave",
+    "Koh Mook community layer",
+    "Best flagship sea outing"
+  ],
+  "image": "/images/cities/generated/trang.webp",
+  "seo": {
+    "metaTitle": {
+      "en": "Koh Mook and Emerald Cave | Trang | Go2Thailand",
+      "nl": "Koh Mook en Emerald Cave | Trang | Go2Thailand"
+    },
+    "metaDescription": {
+      "en": "Why Koh Mook and Emerald Cave are Trang's strongest island day when you still want more than a pure beach stop.",
+      "nl": "Waarom Koh Mook en Emerald Cave Trang's sterkste eilanddag zijn als je meer wilt dan alleen een strandstop."
+    }
+  },
+  "tags": [
+    "trang",
+    "koh-mook",
+    "emerald-cave",
+    "island"
+  ],
+  "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=Emerald+Cave+Koh+Mook+Trang",
+  "best_time": "full-day outing",
+  "duration_hours": 6,
+  "enhanced_description": "Koh Mook works because it offers more than a pretty beach transfer. TAT's Trang sea coverage still treats Emerald Cave as one of the province's defining attractions, but the island also carries community context that helps the route feel grounded rather than like another anonymous Andaman boat hop.\n\nThat is why Koh Mook is usually the better first island choice if you only have time for one. Koh Kradan is cleaner for a pure beach image; Koh Mook is richer when you want the cave plus more sense of place.",
+  "detailed_history": "Koh Mook sits inside Trang's sea-and-national-park geography and remains closely tied to the Emerald Cave experience that made the island widely known.",
+  "visitor_experience": "Expect a weather-sensitive island day shaped around boat logistics, sea conditions, and cave access. The payoff is strongest when the day is not rushed and when Koh Mook itself remains part of the story.",
+  "best_time_to_visit": {
+    "time_of_day": "Best as a full-day route",
+    "duration": "Half-day to full day depending on transfers",
+    "crowd_level": "Moderate in sea season"
+  },
+  "practical_info": {
+    "how_to_get_there": "Reach the mainland coast first, then continue by current boat arrangements.",
+    "nearby_attractions": "Pak Meng, Hat Chao Mai, and Koh Kradan if conditions and timing genuinely support combining them.",
+    "food_options": "Island meals are possible, but the trip is primarily about the sea route and Emerald Cave.",
+    "shopping": "None that materially improves the day."
+  },
+  "insider_tips": [
+    "Recheck the current sea and cave-access conditions before departure day.",
+    "Koh Mook is strongest when you want more than just the cleanest beach photo.",
+    "Do not force this into the same rushed schedule as Kantang or Thung Khai."
+  ],
+  "verified_note": "Source-backed summary based on current Tourism Authority of Thailand coverage of Trang's sea and island layer.",
+  "cultural_significance": "Koh Mook gives Trang a sea-day signature that still feels tied to the province's island communities rather than to a generic resort strip.",
+  "contentSources": [
+    {
+      "name": "FINE DINING, FUN DIVE, AND FASCINATING DISCOVER TRANG",
+      "url": "https://www.tourismthailand.org/Articles/fine-dining-fun-dive-and-fascinating-discover-trang"
+    },
+    {
+      "name": "3 Islands of Trang Sea: A Paradise for Sea Lovers",
+      "url": "https://www.tourismthailand.org/Articles/3-islands-of-trang-sea-a-paradise-for-sea-lovers"
+    }
+  ]
+}

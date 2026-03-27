@@ -1,0 +1,73 @@
+{
+  "id": 4,
+  "slug": "pak-meng-and-hat-chao-mai",
+  "name": {
+    "en": "Pak Meng and Hat Chao Mai",
+    "nl": "Pak Meng en Hat Chao Mai"
+  },
+  "type": "coast",
+  "city_slug": "trang",
+  "address": "Sikao and Hat Chao Mai National Park side, Trang Province",
+  "location": null,
+  "opening_hours": "This is an open coast-and-pier route rather than a single ticketed site. Sea conditions and national-park access should be rechecked locally when relevant.",
+  "entrance_fee": {
+    "thb": null,
+    "usd": null
+  },
+  "description": {
+    "en": "The best mainland-coast layer in Trang, pairing Pak Meng's pier and beach logic with Hat Chao Mai's park-side sea access.",
+    "nl": "De beste vasteland-kustlaag in Trang, met de pier en strandlogica van Pak Meng plus de parktoegang van Hat Chao Mai."
+  },
+  "highlights": [
+    "Pak Meng Pier",
+    "Mainland beach route",
+    "Best coast block before the islands"
+  ],
+  "image": "/images/cities/generated/trang.webp",
+  "seo": {
+    "metaTitle": {
+      "en": "Pak Meng and Hat Chao Mai | Trang | Go2Thailand",
+      "nl": "Pak Meng en Hat Chao Mai | Trang | Go2Thailand"
+    },
+    "metaDescription": {
+      "en": "Why Pak Meng and Hat Chao Mai are Trang's strongest mainland-coast route.",
+      "nl": "Waarom Pak Meng en Hat Chao Mai de sterkste vasteland-kustroute van Trang zijn."
+    }
+  },
+  "tags": [
+    "trang",
+    "pak-meng",
+    "hat-chao-mai",
+    "coast"
+  ],
+  "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=Pak+Meng+Beach+Trang",
+  "best_time": "late morning or late afternoon",
+  "duration_hours": 4,
+  "enhanced_description": "Pak Meng and Hat Chao Mai are the cleanest mainland answer to Trang's sea side. TAT's current island coverage still uses Pak Meng as the natural launch point toward the Trang islands, but the mainland coast also matters on its own because it gives the province a beach day that does not require turning the entire stay into offshore logistics.\n\nThat is what makes this route useful. You can keep the city as your base, add one proper coast block, and still leave the islands as an optional second sea layer rather than an obligation.",
+  "detailed_history": "Pak Meng has long functioned as one of Trang's practical coastal gateways. Hat Chao Mai and the nearby island belt remain tied to the province's marine-park geography and seasonal access rules.",
+  "visitor_experience": "Expect a pier-and-beach day with a stronger sense of route planning than of one single iconic stop. The value lies in how Pak Meng, mainland beach time, and island departures fit together.",
+  "best_time_to_visit": {
+    "time_of_day": "Late morning into sunset",
+    "duration": "Half-day to longer if tied to island logistics",
+    "crowd_level": "Moderate in peak sea season"
+  },
+  "practical_info": {
+    "how_to_get_there": "Best reached by road transfer from Trang town.",
+    "nearby_attractions": "Koh Mook, Koh Kradan, and other Hat Chao Mai island routes when conditions allow.",
+    "food_options": "Use the coast for seafood or return to town if the real food priority is still Trang breakfast and markets.",
+    "shopping": "None that improves the route materially."
+  },
+  "insider_tips": [
+    "Choose this when you want a mainland sea day without paying for an island overnight.",
+    "Do not assume the islands and park access are running the same way in every season.",
+    "This route is strongest when the city still remains part of the wider trip."
+  ],
+  "verified_note": "Source-backed summary based on Tourism Authority of Thailand coverage of the Trang sea and island layer.",
+  "cultural_significance": "Pak Meng and Hat Chao Mai connect Trang's mainland city life to its Andaman coast without erasing the city itself.",
+  "contentSources": [
+    {
+      "name": "3 Islands of Trang Sea: A Paradise for Sea Lovers",
+      "url": "https://www.tourismthailand.org/Articles/3-islands-of-trang-sea-a-paradise-for-sea-lovers"
+    }
+  ]
+}

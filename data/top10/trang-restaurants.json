@@ -1,284 +1,148 @@
 {
   "title": "Best Restaurants in Trang Thailand (2026)",
-  "meta_description": "The 10 best restaurants in Trang, Thailand with real ratings and guest reviews from tripadvisor. Updated 2026-03-08.",
-  "intro": "Discover the best restaurants in Trang, Thailand. These recommendations are based on real guest reviews and ratings from tripadvisor.",
+  "meta_description": "The Trang restaurants that still matter: roast pork breakfasts, khanom jeen, tea-house culture, Kantang seafood, and old-town market eating backed by TAT sources.",
+  "intro": "Trang food works best when you stop chasing scrape rankings and start planning the city the way Trang itself still does: breakfast first, one noodle or curry stop later, one slower tea or dessert break, and one real meal on the Kantang or market side if it fits the route.",
   "items": [
     {
       "rank": 1,
-      "name": "KohMook Sea Beach Restaurant",
-      "description": "KohMook Sea Beach Restaurant is a 4.9-rated Seafood, Asian restaurant in Trang. located at Ko Muk. Guests say: \"Friendly service, good drinks.\".",
-      "location": "Ko Muk",
-      "current_price": "$",
-      "highlights": [],
-      "insider_tips": [
-        "Friendly service, good drinks.",
-        "In my opinion the best Thai food on the Island."
+      "name": "Phong-O-Cha",
+      "description": "The clearest breakfast anchor in Trang because TAT still frames it around roast pork, dim sum, rice porridge, and the city's old morning rhythm.",
+      "location": "Phet Kasem Road, Trang",
+      "current_price": "Budget",
+      "highlights": [
+        "Trang roast pork",
+        "Dim sum breakfast",
+        "Best first stop"
       ],
-      "current_info": "Cuisine: Seafood, Asian • Price: $ • Rating: 4.9/5 • 104 reviews",
-      "scraped": {
-        "source": "tripadvisor",
-        "cuisine": "Seafood, Asian",
-        "price_range": "$",
-        "rating": 4.9,
-        "review_count": 104,
-        "address": "Ko Muk",
-        "review_snippets": [
-          "Friendly service, good drinks.",
-          "In my opinion the best Thai food on the Island."
-        ],
-        "scraped_at": "2026-03-08T17:15:50.676Z"
-      },
-      "trip_affiliate_url": "https://tp.media/r?marker=602467&trs=421888&p=7631&u=https%3A%2F%2Fwww.trip.com%2Fhotels%2Flist%3Fkeyword%3DKohMook%2520Sea%2520Beach%2520Restaurant%2520Trang"
+      "insider_tips": [
+        "Go early and fold it into the station-side or old-town city route."
+      ],
+      "current_info": "TAT still treats Phong-O-Cha as one of Trang's signature breakfast institutions."
     },
     {
       "rank": 2,
-      "name": "Perfect Bar & Restaurant",
-      "description": "Perfect Bar & Restaurant is a 4.7-rated Seafood, Fast Food restaurant in Trang. located at Ko Muk. Guests say: \"Good food and service\".",
-      "location": "Ko Muk",
-      "current_price": "$",
-      "highlights": [],
-      "insider_tips": [
-        "Good food and service",
-        "The owner is super friendly and the service fast."
+      "name": "Kha Nom Jeen Khun Pum",
+      "description": "A stronger local noodle and curry stop than generic cafe filler, especially for travelers who want Trang's southern breakfast-to-lunch logic.",
+      "location": "Trang town",
+      "current_price": "Budget",
+      "highlights": [
+        "Khanom jeen with southern curries",
+        "Long-running local favorite",
+        "Useful city-day meal"
       ],
-      "current_info": "Cuisine: Seafood, Fast Food • Price: $ • Rating: 4.7/5 • 259 reviews",
-      "scraped": {
-        "source": "tripadvisor",
-        "cuisine": "Seafood, Fast Food",
-        "price_range": "$",
-        "rating": 4.7,
-        "review_count": 259,
-        "address": "Ko Muk",
-        "review_snippets": [
-          "Good food and service",
-          "The owner is super friendly and the service fast."
-        ],
-        "scraped_at": "2026-03-08T17:15:50.676Z"
-      },
-      "trip_affiliate_url": "https://tp.media/r?marker=602467&trs=421888&p=7631&u=https%3A%2F%2Fwww.trip.com%2Fhotels%2Flist%3Fkeyword%3DPerfect%2520Bar%2520%2526%2520Restaurant%2520Trang"
+      "insider_tips": [
+        "Best as a morning or lunch stop before heading out toward Kantang or the coast."
+      ],
+      "current_info": "TAT's city article still uses Kha Nom Jeen Khun Pum as a practical Trang noodle and curry reference."
     },
     {
       "rank": 3,
-      "name": "Miss Island Bakery Koh Mook",
-      "description": "Miss Island Bakery Koh Mook is a 4.6-rated Cafe, Asian restaurant in Trang. located at Ko Muk. Guests say: \"The bread and cakes are all homemade and the coffee is good.\".",
-      "location": "Ko Muk",
-      "current_price": "$",
-      "highlights": [],
-      "insider_tips": [
-        "The bread and cakes are all homemade and the coffee is good.",
-        "It was a hug to the soul."
+      "name": "Cha Ko Jaeng Tea House",
+      "description": "The best slower drinking stop in town when you want to see Trang's tea-house side rather than another interchangeable coffee bar.",
+      "location": "Na Ta Luang, Mueang Trang",
+      "current_price": "Budget to mid-range",
+      "highlights": [
+        "Owner-led tea brewing",
+        "Distinctive city pause",
+        "Different from the usual cafe layer"
       ],
-      "current_info": "Cuisine: Cafe, Asian • Price: $ • Rating: 4.6/5 • 128 reviews",
-      "scraped": {
-        "source": "tripadvisor",
-        "cuisine": "Cafe, Asian",
-        "price_range": "$",
-        "rating": 4.6,
-        "review_count": 128,
-        "address": "Ko Muk",
-        "review_snippets": [
-          "The bread and cakes are all homemade and the coffee is good.",
-          "It was a hug to the soul."
-        ],
-        "scraped_at": "2026-03-08T17:15:50.676Z"
-      },
-      "trip_affiliate_url": "https://tp.media/r?marker=602467&trs=421888&p=7631&u=https%3A%2F%2Fwww.trip.com%2Fhotels%2Flist%3Fkeyword%3DMiss%2520Island%2520Bakery%2520Koh%2520Mook%2520Trang"
+      "insider_tips": [
+        "Opening depends on the owner, so treat this as a bonus stop rather than a fixed appointment."
+      ],
+      "current_info": "TAT highlights Cha Ko Jaeng specifically for its tea culture and owner-led brewing approach."
     },
     {
       "rank": 4,
-      "name": "Sugar's Coffee and Restaurant",
-      "description": "Sugar's Coffee and Restaurant is a 4.6-rated Cafe, Asian restaurant in Trang. located at Ko Muk. Guests say: \"Brilliant breakfast\".",
-      "location": "Ko Muk",
-      "current_price": "$",
-      "highlights": [],
-      "insider_tips": [
-        "Brilliant breakfast",
-        "A must go to if you're in Koh Mook"
+      "name": "Ran Lor Kung",
+      "description": "The strongest Kantang dining anchor because TAT still uses it to represent the district's Chinese-style seafood side.",
+      "location": "Ratsada Road, Kantang",
+      "current_price": "Mid-range",
+      "highlights": [
+        "Chinese-style seafood",
+        "Shared dishes",
+        "Best with the Kantang route"
       ],
-      "current_info": "Cuisine: Cafe, Asian • Price: $ • Rating: 4.6/5 • 330 reviews",
-      "scraped": {
-        "source": "tripadvisor",
-        "cuisine": "Cafe, Asian",
-        "price_range": "$",
-        "rating": 4.6,
-        "review_count": 330,
-        "address": "Ko Muk",
-        "review_snippets": [
-          "Brilliant breakfast",
-          "A must go to if you're in Koh Mook"
-        ],
-        "scraped_at": "2026-03-08T17:15:50.676Z"
-      },
-      "trip_affiliate_url": "https://tp.media/r?marker=602467&trs=421888&p=7631&u=https%3A%2F%2Fwww.trip.com%2Fhotels%2Flist%3Fkeyword%3DSugar's%2520Coffee%2520and%2520Restaurant%2520Trang"
+      "insider_tips": [
+        "Use this after the station and museum rather than as a standalone long drive."
+      ],
+      "current_info": "TAT's Trang restaurant coverage still singles out Ran Lor Kung for Chinese seafood and its signature noodle dish with large prawns."
     },
     {
       "rank": 5,
-      "name": "Kalumè Restaurant",
-      "description": "Kalumè Restaurant is a 4.4-rated Mediterranean, Neapolitan restaurant in Trang. located at Ko Kradan. Guests say: \"Best Creme Brulle and fresh pasta\".",
-      "location": "Ko Kradan",
-      "current_price": "$",
-      "highlights": [],
-      "insider_tips": [
-        "Best Creme Brulle and fresh pasta"
+      "name": "Talad Chin Ta",
+      "description": "The best market-food layer in town when you want evening snacks, desserts, and a more lived-in city rhythm than a fixed top-table ranking.",
+      "location": "Trang town center",
+      "current_price": "Budget",
+      "highlights": [
+        "Street food and sweets",
+        "Walking-street atmosphere",
+        "Good after the old town"
       ],
-      "current_info": "Cuisine: Mediterranean, Neapolitan • Price: $ • Rating: 4.4/5 • 93 reviews",
-      "scraped": {
-        "source": "tripadvisor",
-        "cuisine": "Mediterranean, Neapolitan",
-        "price_range": "$",
-        "rating": 4.4,
-        "review_count": 93,
-        "address": "Ko Kradan",
-        "review_snippets": [
-          "Best Creme Brulle and fresh pasta"
-        ],
-        "scraped_at": "2026-03-08T17:15:50.676Z"
-      },
-      "trip_affiliate_url": "https://tp.media/r?marker=602467&trs=421888&p=7631&u=https%3A%2F%2Fwww.trip.com%2Fhotels%2Flist%3Fkeyword%3DKalum%25C3%25A8%2520Restaurant%2520Trang"
+      "insider_tips": [
+        "Best treated as a grazing route instead of one single destination meal."
+      ],
+      "current_info": "TAT still uses Talad Chin Ta as both a heritage street and a practical food-and-shopping layer."
     },
     {
       "rank": 6,
-      "name": "Koh Mook City Center Restaurant&Bar",
-      "description": "Koh Mook City Center Restaurant&Bar is a 4.5-rated Seafood, Barbecue restaurant in Trang. located at Ko Muk. Guests say: \"The atmosphere of the restaurant is very nice\".",
-      "location": "Ko Muk",
-      "current_price": "$",
-      "highlights": [],
-      "insider_tips": [
-        "The atmosphere of the restaurant is very nice",
-        "Amazing Thai food"
+      "name": "Tabtieng Old Town Cafe & Bistro",
+      "description": "A practical coffee-and-snack stop when you want a calmer old-town break without leaving the city core.",
+      "location": "Tabtieng old-town side, Trang",
+      "current_price": "Budget to mid-range",
+      "highlights": [
+        "Old-town setting",
+        "Coffee and pastries",
+        "Works inside the mural route"
       ],
-      "current_info": "Cuisine: Seafood, Barbecue • Price: $ • Rating: 4.5/5 • 175 reviews",
-      "scraped": {
-        "source": "tripadvisor",
-        "cuisine": "Seafood, Barbecue",
-        "price_range": "$",
-        "rating": 4.5,
-        "review_count": 175,
-        "address": "Ko Muk",
-        "review_snippets": [
-          "The atmosphere of the restaurant is very nice",
-          "Amazing Thai food"
-        ],
-        "scraped_at": "2026-03-08T17:15:50.676Z"
-      },
-      "trip_affiliate_url": "https://tp.media/r?marker=602467&trs=421888&p=7631&u=https%3A%2F%2Fwww.trip.com%2Fhotels%2Flist%3Fkeyword%3DKoh%2520Mook%2520City%2520Center%2520Restaurant%2526Bar%2520Trang"
+      "insider_tips": [
+        "Use it as a pause between Talad Chin Ta and the market layer, not as the headline meal."
+      ],
+      "current_info": "TAT's city article keeps Tabtieng Old Town Cafe & Bistro in the edited old-town food-and-coffee route."
     },
     {
       "rank": 7,
-      "name": "Mamma Mia",
-      "description": "Mamma Mia is a 4.8-rated Italian, Steakhouse restaurant in Trang. located at Trang. Guests say: \"After seeing the great reviews and having good recommendations by friends\".",
-      "location": "Trang",
-      "current_price": "$",
-      "highlights": [],
-      "insider_tips": [
-        "After seeing the great reviews and having good recommendations by friends",
-        "Delicious"
+      "name": "Kuanito Patisserie",
+      "description": "A polished pastry and coffee stop that adds one higher-finish city break without pushing Trang into generic brunch copy.",
+      "location": "Trang town",
+      "current_price": "Mid-range",
+      "highlights": [
+        "Dessert and pastry stop",
+        "Useful polished city break",
+        "Works as a secondary city treat"
       ],
-      "current_info": "Cuisine: Italian, Steakhouse • Price: $ • Rating: 4.8/5 • 92 reviews",
-      "scraped": {
-        "source": "tripadvisor",
-        "cuisine": "Italian, Steakhouse",
-        "price_range": "$",
-        "rating": 4.8,
-        "review_count": 92,
-        "address": "Trang",
-        "review_snippets": [
-          "After seeing the great reviews and having good recommendations by friends",
-          "Delicious"
-        ],
-        "scraped_at": "2026-03-08T17:15:50.676Z"
-      },
-      "trip_affiliate_url": "https://tp.media/r?marker=602467&trs=421888&p=7631&u=https%3A%2F%2Fwww.trip.com%2Fhotels%2Flist%3Fkeyword%3DMamma%2520Mia%2520Trang"
-    },
-    {
-      "rank": 8,
-      "name": "Koh Mook Sea View Restaurant",
-      "description": "Koh Mook Sea View Restaurant is a 4.8-rated Seafood, Asian restaurant in Trang. located at Ko Muk. Guests say: \"Delicious grilled fish with amazing sauce.\".",
-      "location": "Ko Muk",
-      "highlights": [],
       "insider_tips": [
-        "Delicious grilled fish with amazing sauce.",
-        "Wonderful Curry!!"
+        "Better as a dessert or late-afternoon coffee stop than as a meal anchor."
       ],
-      "current_info": "Cuisine: Seafood, Asian • Rating: 4.8/5 • 37 reviews",
-      "scraped": {
-        "source": "tripadvisor",
-        "cuisine": "Seafood, Asian",
-        "rating": 4.8,
-        "review_count": 37,
-        "address": "Ko Muk",
-        "review_snippets": [
-          "Delicious grilled fish with amazing sauce.",
-          "Wonderful Curry!!"
-        ],
-        "scraped_at": "2026-03-08T17:15:50.676Z"
-      },
-      "trip_affiliate_url": "https://tp.media/r?marker=602467&trs=421888&p=7631&u=https%3A%2F%2Fwww.trip.com%2Fhotels%2Flist%3Fkeyword%3DKoh%2520Mook%2520Sea%2520View%2520Restaurant%2520Trang"
-    },
-    {
-      "rank": 9,
-      "name": "Happy Restaurant",
-      "description": "Happy Restaurant is a 4.9-rated Cafe, Seafood restaurant in Trang. located at Ko Muk. Guests say: \"Go beyond your usual red curry and massaman curry and you'll be delighted\".",
-      "location": "Ko Muk",
-      "current_price": "$",
-      "highlights": [],
-      "insider_tips": [
-        "Go beyond your usual red curry and massaman curry and you'll be delighted",
-        "Super food"
-      ],
-      "current_info": "Cuisine: Cafe, Seafood • Price: $ • Rating: 4.9/5 • 34 reviews",
-      "scraped": {
-        "source": "tripadvisor",
-        "cuisine": "Cafe, Seafood",
-        "price_range": "$",
-        "rating": 4.9,
-        "review_count": 34,
-        "address": "Ko Muk",
-        "review_snippets": [
-          "Go beyond your usual red curry and massaman curry and you'll be delighted",
-          "Super food"
-        ],
-        "scraped_at": "2026-03-08T17:15:50.676Z"
-      },
-      "trip_affiliate_url": "https://tp.media/r?marker=602467&trs=421888&p=7631&u=https%3A%2F%2Fwww.trip.com%2Fhotels%2Flist%3Fkeyword%3DHappy%2520Restaurant%2520Trang"
-    },
-    {
-      "rank": 10,
-      "name": "Fisherman Kitchen",
-      "description": "Fisherman Kitchen is a 4.6-rated Seafood, International restaurant in Trang. located at Ko Muk. Guests say: \"My favourite restaurant of my whole holiday\".",
-      "location": "Ko Muk",
-      "current_price": "$",
-      "highlights": [],
-      "insider_tips": [
-        "My favourite restaurant of my whole holiday",
-        "Lovely lunch - Fisherman's Kitchen"
-      ],
-      "current_info": "Cuisine: Seafood, International • Price: $ • Rating: 4.6/5 • 35 reviews",
-      "scraped": {
-        "source": "tripadvisor",
-        "cuisine": "Seafood, International",
-        "price_range": "$",
-        "rating": 4.6,
-        "review_count": 35,
-        "address": "Ko Muk",
-        "review_snippets": [
-          "My favourite restaurant of my whole holiday",
-          "Lovely lunch - Fisherman's Kitchen"
-        ],
-        "scraped_at": "2026-03-08T17:15:50.676Z"
-      },
-      "trip_affiliate_url": "https://tp.media/r?marker=602467&trs=421888&p=7631&u=https%3A%2F%2Fwww.trip.com%2Fhotels%2Flist%3Fkeyword%3DFisherman%2520Kitchen%2520Trang"
+      "current_info": "TAT's old-town route still uses Kuanito Patisserie as part of the edited city coffee-and-dessert layer."
     }
   ],
   "city_slug": "trang",
   "city_name": "Trang",
   "category": "restaurants",
-  "data_sources": [
-    "tripadvisor",
-    "scraped"
+  "content_sources": [
+    {
+      "title": "BEYOND THE BEACH : WHERE TO EAT, TRAVEL, AND SHOP AT IN TRANG",
+      "creator": "Tourism Authority of Thailand",
+      "url": "https://www.tourismthailand.org/Articles/https-www-tourismthailand-org-articles-beyond-the-beach-where-to-eat-travel-and-shop-at-in-trang",
+      "description": "Used for Phong-O-Cha, Kha Nom Jeen Khun Pum, Talad Chin Ta, Tabtieng Old Town Cafe & Bistro, and Kuanito Patisserie."
+    },
+    {
+      "title": "Discover These 3 Signature Restaurants in Trang",
+      "creator": "Tourism Authority of Thailand",
+      "url": "https://www.tourismthailand.org/Articles/https-www-tourismthailand-org-articles-discoverthese3signaturerestaurantsintrang",
+      "description": "Used for Ran Lor Kung, Cha Ko Jaeng Tea House, and Phong-O-Cha as the signature restaurant set."
+    },
+    {
+      "title": "FINE DINING, FUN DIVE, AND FASCINATING DISCOVER TRANG",
+      "creator": "Tourism Authority of Thailand",
+      "url": "https://www.tourismthailand.org/Articles/fine-dining-fun-dive-and-fascinating-discover-trang",
+      "description": "Used for the broader city food framing around breakfast culture and edited route planning."
+    }
   ],
-  "last_scraped": "2026-03-08T17:15:50.676Z",
-  "generated_at": "2026-03-08T17:15:50.676Z",
-  "hybrid": false,
-  "scraped": true
+  "data_sources": [
+    "Tourism Authority of Thailand"
+  ],
+  "generated_at": "2026-03-27T10:30:00.000Z",
+  "factchecked_at": "2026-03-27T10:30:00.000Z",
+  "hybrid": true
 }

@@ -1,0 +1,81 @@
+{
+  "id": 6,
+  "slug": "koh-kradan",
+  "name": {
+    "en": "Koh Kradan",
+    "nl": "Koh Kradan"
+  },
+  "type": "island",
+  "city_slug": "trang",
+  "address": "Koh Kradan, Hat Chao Mai National Park area, Trang Province",
+  "location": null,
+  "opening_hours": "Boat service and island access remain weather- and season-dependent, so conditions should be rechecked locally before travel.",
+  "entrance_fee": {
+    "thb": null,
+    "usd": null
+  },
+  "description": {
+    "en": "The clean-beach counterpart to Koh Mook, better when the priority is clear water, swimming, and a straightforward snorkel-and-sand day.",
+    "nl": "De strandgerichte tegenhanger van Koh Mook, beter als helder water, zwemmen en snorkelen de prioriteit zijn."
+  },
+  "highlights": [
+    "White-sand beach",
+    "Clear water",
+    "Straightforward beach-and-snorkel day"
+  ],
+  "image": "/images/cities/generated/trang.webp",
+  "seo": {
+    "metaTitle": {
+      "en": "Koh Kradan | Trang | Go2Thailand",
+      "nl": "Koh Kradan | Trang | Go2Thailand"
+    },
+    "metaDescription": {
+      "en": "Why Koh Kradan is the cleaner beach-and-snorkel counterpart to Koh Mook on the Trang sea side.",
+      "nl": "Waarom Koh Kradan de helderdere strand- en snorkeltegenhanger van Koh Mook is aan de Trang-kust."
+    }
+  },
+  "tags": [
+    "trang",
+    "koh-kradan",
+    "island",
+    "snorkeling"
+  ],
+  "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=Koh+Kradan+Trang",
+  "best_time": "full-day outing",
+  "duration_hours": 6,
+  "enhanced_description": "Koh Kradan is the better Trang island choice when the sea itself is the point. TAT's current island coverage continues to use it as one of the province's clearest beach images, and that is exactly where its value sits: clear water, bright sand, and a cleaner snorkel-and-swim day than the more cave-led Koh Mook route.\n\nIt becomes weaker only when it is oversold as the whole province. Koh Kradan is best as one sea block inside a Trang trip that still respects the city and one other layer of the province.",
+  "detailed_history": "Koh Kradan sits inside the same Trang sea and national-park geography as Koh Mook and the wider Hat Chao Mai island belt.",
+  "visitor_experience": "Expect a beach-and-water day rather than a town or heritage experience. The island works best when the priority is a clear sea outing with less narrative complexity than Koh Mook.",
+  "best_time_to_visit": {
+    "time_of_day": "Best as a full-day route",
+    "duration": "Half-day to full day depending on transfers",
+    "crowd_level": "Moderate in sea season"
+  },
+  "practical_info": {
+    "how_to_get_there": "Reach the Trang coast first, then continue by current boat arrangements.",
+    "nearby_attractions": "Pak Meng, Hat Chao Mai, and Koh Mook if the day is not overpacked.",
+    "food_options": "Keep the priority on the sea day itself rather than on restaurant collecting.",
+    "shopping": "None that materially improves the trip."
+  },
+  "insider_tips": [
+    "Choose Koh Kradan when the clean beach day matters more than Emerald Cave.",
+    "Do not assume the same sea setup operates year-round.",
+    "Keep the rest of the trip city- or heritage-led so the island day stays selective."
+  ],
+  "verified_note": "Source-backed summary based on current Tourism Authority of Thailand coverage of the Trang sea and island layer.",
+  "cultural_significance": "Koh Kradan is part of Trang's strongest sea-side image, but it is at its best when used as one edited island block rather than the whole identity of the province.",
+  "contentSources": [
+    {
+      "name": "FINE DINING, FUN DIVE, AND FASCINATING DISCOVER TRANG",
+      "url": "https://www.tourismthailand.org/Articles/fine-dining-fun-dive-and-fascinating-discover-trang"
+    },
+    {
+      "name": "3 Islands of Trang Sea: A Paradise for Sea Lovers",
+      "url": "https://www.tourismthailand.org/Articles/3-islands-of-trang-sea-a-paradise-for-sea-lovers"
+    },
+    {
+      "name": "Backpacking to Kradan Island",
+      "url": "https://www.tourismthailand.org/Articles/backpacking-to-kradan-island"
+    }
+  ]
+}
