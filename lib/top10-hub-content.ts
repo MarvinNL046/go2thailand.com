@@ -136,37 +136,34 @@ function cityHref(slug: CitySlug): CityPageHref {
 }
 
 export const rootHubContent: HubPageContent = {
-  title: 'Thailand Top-10 Guides 2026 | Editorial Hub',
+  title: 'Thailand Top-10 Guides 2026 | Editorial Hub | Go2Thailand',
   description:
-    'Use our Thailand top-10 hubs to choose the right city guides for attractions, restaurants, and hotels with clear editorial structure and source-backed context.',
+    'Editorial hub for Thailand top-10 attraction, restaurant, and hotel guides, with featured cities, strong internal linking, and visible source-backed references.',
   heroEyebrow: 'Editorial Hub',
-  heroTitle: 'Thailand Top-10 Guides',
+  heroTitle: 'Thailand Top-10 Guides 2026',
   heroIntro:
-    'These hubs are built to help you choose the right city-level guide rather than forcing the whole country into one nationwide top-10 list.',
+    'Start with the guide family that matches the decision you are making, then open a city page for the actual shortlist and source-backed context.',
   whyThisPageTitle: 'How To Use These Guides',
   whyThisPageBody:
-    'Start with the category that matches the decision you are making, then open the strongest city cluster for the actual shortlist and source-backed planning detail.',
+    'Start with the guide family that matches the decision you are making, then open a city page for the actual shortlist and source-backed context.',
   featuredCities: [
     featuredCity(
       'bangkok',
       'Best for depth',
       'Bangkok is the broadest starting point when you want dense attraction coverage, strong food options, and hotel choices across several trip styles.',
-      'attractions',
-      cityHref('bangkok')
+      'attractions'
     ),
     featuredCity(
       'chiang-mai',
       'Best for easy pacing',
       'Chiang Mai works well when you want a compact city base with heritage temples, a clear food scene, and strong short-stay logic.',
-      'attractions',
-      cityHref('chiang-mai')
+      'attractions'
     ),
     featuredCity(
       'phuket',
       'Best for resort planning',
       'Phuket is the clearest beach-and-island hub when the hotel base and coastal day shape matter as much as the sightseeing list.',
-      'hotels',
-      cityHref('phuket')
+      'hotels'
     ),
     featuredCity(
       'pattaya',
@@ -179,8 +176,7 @@ export const rootHubContent: HubPageContent = {
       'ayutthaya',
       'Best for heritage focus',
       'Ayutthaya is the cleanest entry point for historic-site planning when the trip is centered on temples, ruins, and a slower day rhythm.',
-      'attractions',
-      cityHref('ayutthaya')
+      'attractions'
     ),
     featuredCity(
       'krabi',
@@ -193,29 +189,25 @@ export const rootHubContent: HubPageContent = {
       'hua-hin',
       'Best for easy stays',
       'Hua Hin is one of the simplest city-level hotel bases for travelers who want a calmer coastal stay with straightforward logistics.',
-      'hotels',
-      cityHref('hua-hin')
+      'hotels'
     ),
     featuredCity(
       'chiang-rai',
       'Best for temple routes',
       'Chiang Rai gives the clearest northern temple-and-landmark route when the trip is about distinctive sights rather than urban scale.',
-      'attractions',
-      cityHref('chiang-rai')
+      'attractions'
     ),
     featuredCity(
       'koh-samui',
       'Best for island stays',
       'Koh Samui is the strongest island-style lodging hub when the stay itself drives the shape of the trip.',
-      'hotels',
-      cityHref('koh-samui')
+      'hotels'
     ),
     featuredCity(
       'sukhothai',
       'Best for slow heritage trips',
       'Sukhothai is the most focused historic-city option when you want temples, open space, and a measured sightseeing day.',
-      'attractions',
-      cityHref('sukhothai')
+      'attractions'
     )
   ],
   sections: [

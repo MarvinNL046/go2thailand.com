@@ -1,7 +1,9 @@
 import { GetStaticProps } from 'next';
-import SEOHead from '../../components/SEOHead';
 import Link from 'next/link';
 import Breadcrumbs from '../../components/Breadcrumbs';
+import SEOHead from '../../components/SEOHead';
+import { getAllCities } from '../../lib/cities';
+import { rootHubContent } from '../../lib/top10-hub-content';
 
 interface Top10IndexProps {
   totalGuides: {
@@ -11,240 +13,245 @@ interface Top10IndexProps {
   };
 }
 
+interface CityRecord {
+  slug: string;
+  name: {
+    en: string;
+  };
+}
+
 export default function Top10Index({ totalGuides }: Top10IndexProps) {
   const breadcrumbs = [
     { name: 'Home', href: '/' },
     { name: 'Top 10 Guides', href: '/top-10/' }
   ];
 
-  const categories = [
-    {
-      slug: 'attractions',
-      title: 'Top 10 Attractions',
-      description: 'Discover the must-see attractions and landmarks in each Thai city',
-      icon: '',
-      count: totalGuides.attractions,
-      color: 'from-blue-500 to-blue-600',
-      hoverColor: 'hover:from-blue-600 hover:to-blue-700'
-    },
-    {
-      slug: 'restaurants',
-      title: 'Top 10 Restaurants',
-      description: 'Find the best dining experiences and local food gems',
-      icon: '',
-      count: totalGuides.restaurants,
-      color: 'from-green-500 to-green-600',
-      hoverColor: 'hover:from-green-600 hover:to-green-700'
-    },
-    {
-      slug: 'hotels',
-      title: 'Top 10 Hotels',
-      description: 'Discover the finest accommodations for every budget',
-      icon: '',
-      count: totalGuides.hotels,
-      color: 'from-purple-500 to-purple-600',
-      hoverColor: 'hover:from-purple-600 hover:to-purple-700'
-    }
-  ];
+  const cities = getAllCities() as CityRecord[];
+  const cityBySlug = new Map(cities.map((city) => [city.slug, city]));
+
+  const featuredCities = rootHubContent.featuredCities
+    .map((featured) => ({
+      ...featured,
+      city: cityBySlug.get(featured.slug)
+    }))
+    .filter((featured) => featured.city);
 
   return (
     <>
       <SEOHead
-        title={`Top 10 Thailand Guides 2026 | Go2Thailand`}
-        description="Comprehensive Top 10 guides for Thailand's best attractions, restaurants, and hotels. Current prices, opening hours, and insider tips for every major destination."
+        title={rootHubContent.title}
+        description={rootHubContent.description}
       >
-        <meta name="keywords" content="Thailand top 10, best attractions Thailand, top restaurants Thailand, best hotels Thailand, Thailand travel guides" />
+        <meta
+          name="keywords"
+          content="Thailand top 10 guides, Thailand attraction guides, Thailand restaurant guides, Thailand hotel guides"
+        />
       </SEOHead>
 
       <div className="bg-surface-cream min-h-screen">
-        {/* Header Section */}
         <section className="bg-white shadow-sm">
           <div className="container-custom py-8">
             <Breadcrumbs items={breadcrumbs} />
-            
-            <div className="text-center mb-8">
-              <span className="section-label">Curated Guides</span>
+
+            <div className="text-center mt-8">
+              <span className="section-label">{rootHubContent.heroEyebrow}</span>
               <h1 className="text-4xl lg:text-5xl font-bold font-heading text-gray-900 mb-4">
-                Top 10 Guides
+                {rootHubContent.heroTitle}
               </h1>
               <p className="text-xl text-gray-600 max-w-3xl mx-auto">
-                Discover Thailand's best attractions, restaurants, and hotels with our 
-                comprehensive Top 10 guides. Current prices, hours, and insider tips included.
+                {rootHubContent.heroIntro}
               </p>
+              <div className="mt-6 flex flex-wrap justify-center gap-3 text-sm text-gray-600">
+                <span className="inline-flex items-center rounded-full bg-surface-cream px-4 py-2">
+                  {totalGuides.attractions} attraction guides
+                </span>
+                <span className="inline-flex items-center rounded-full bg-surface-cream px-4 py-2">
+                  {totalGuides.restaurants} restaurant guides
+                </span>
+                <span className="inline-flex items-center rounded-full bg-surface-cream px-4 py-2">
+                  {totalGuides.hotels} hotel guides
+                </span>
+              </div>
             </div>
           </div>
         </section>
 
-
-        {/* Categories Grid */}
         <section className="section-padding">
           <div className="container-custom">
-            <div className="grid grid-cols-1 md:grid-cols-3 gap-8 mb-12">
-              {categories.map((category) => (
-                <Link key={category.slug} href={`/top-10/${category.slug}/`}>
-                  <div className="bg-white rounded-2xl shadow-md overflow-hidden hover:shadow-xl transition-all duration-300 cursor-pointer">
-                    <div className="bg-surface-dark transition-all duration-300 p-6 text-white">
-                      <div className="flex items-center justify-between mb-4">
-                        <div className="text-4xl">{category.icon}</div>
-                        <div className="bg-white/20 backdrop-blur-sm rounded-full px-3 py-1">
-                          <span className="text-sm font-semibold">{category.count} Guides</span>
-                        </div>
-                      </div>
-                      <h2 className="text-2xl font-bold font-heading mb-2">{category.title}</h2>
-                      <p className="text-white text-opacity-90">{category.description}</p>
-                    </div>
-                    
-                    <div className="p-6">
-                      <div className="flex items-center justify-between text-gray-600">
-                        <span className="text-sm">View all guides</span>
-                        <svg className="w-5 h-5" fill="none" stroke="currentColor" viewBox="0 0 24 24">
-                          <path strokeLinecap="round" strokeLinejoin="round" strokeWidth="2" d="M9 5l7 7-7 7" />
-                        </svg>
-                      </div>
-                    </div>
-                  </div>
-                </Link>
-              ))}
-            </div>
-
-
-            {/* What Makes Our Guides Special */}
-            <div className="bg-white rounded-2xl shadow-md p-8 mb-12">
-              <h2 className="text-3xl font-bold font-heading text-gray-900 mb-6 text-center">
-                What Makes Our Top 10 Guides Special?
+            <section className="bg-white rounded-2xl shadow-md p-8 mb-12">
+              <h2 className="text-3xl font-bold font-heading text-gray-900 mb-4">
+                How To Use These Guides
               </h2>
-              
-              <div className="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-4 gap-6">
-                <div className="text-center">
-                  <div className="w-16 h-16 bg-surface-cream rounded-xl flex items-center justify-center mx-auto mb-4">
-                    <svg className="w-8 h-8 text-thailand-red" fill="none" stroke="currentColor" viewBox="0 0 24 24">
-                      <path strokeLinecap="round" strokeLinejoin="round" strokeWidth="2" d="M12 8v4l3 3m6-3a9 9 0 11-18 0 9 9 0 0118 0z" />
-                    </svg>
-                  </div>
-                  <h3 className="font-semibold font-heading text-gray-900 mb-2">Current Information</h3>
-                  <p className="text-gray-600 text-sm">Up-to-date prices, hours, and contact details</p>
-                </div>
-                
-                <div className="text-center">
-                  <div className="w-16 h-16 bg-surface-cream rounded-xl flex items-center justify-center mx-auto mb-4">
-                    <svg className="w-8 h-8 text-thailand-red" fill="none" stroke="currentColor" viewBox="0 0 24 24">
-                      <path strokeLinecap="round" strokeLinejoin="round" strokeWidth="2" d="M9 12l2 2 4-4m6 2a9 9 0 11-18 0 9 9 0 0118 0z" />
-                    </svg>
-                  </div>
-                  <h3 className="font-semibold font-heading text-gray-900 mb-2">Locally Verified</h3>
-                  <p className="text-gray-600 text-sm">Recommendations tested by local experts</p>
-                </div>
-                
-                <div className="text-center">
-                  <div className="w-16 h-16 bg-surface-cream rounded-xl flex items-center justify-center mx-auto mb-4">
-                    <svg className="w-8 h-8 text-thailand-red" fill="none" stroke="currentColor" viewBox="0 0 24 24">
-                      <path strokeLinecap="round" strokeLinejoin="round" strokeWidth="2" d="M13 10V3L4 14h7v7l9-11h-7z" />
-                    </svg>
-                  </div>
-                  <h3 className="font-semibold font-heading text-gray-900 mb-2">Insider Tips</h3>
-                  <p className="text-gray-600 text-sm">Hidden gems and local secrets included</p>
-                </div>
-                
-                <div className="text-center">
-                  <div className="w-16 h-16 bg-surface-cream rounded-xl flex items-center justify-center mx-auto mb-4">
-                    <svg className="w-8 h-8 text-thailand-red" fill="none" stroke="currentColor" viewBox="0 0 24 24">
-                      <path strokeLinecap="round" strokeLinejoin="round" strokeWidth="2" d="M17.657 16.657L13.414 20.9a1.998 1.998 0 01-2.827 0l-4.244-4.243a8 8 0 1111.314 0z" />
-                    </svg>
-                  </div>
-                  <h3 className="font-semibold font-heading text-gray-900 mb-2">City Specific</h3>
-                  <p className="text-gray-600 text-sm">Tailored guides for each Thai destination</p>
-                </div>
-              </div>
-            </div>
+              <p className="text-gray-600 max-w-3xl">
+                Start with the guide family that matches the decision you are making, then open a city page for the actual shortlist and source-backed context.
+              </p>
+            </section>
 
-            {/* Popular Destinations */}
-            <div className="bg-white rounded-2xl shadow-md p-8">
-              <h2 className="text-3xl font-bold font-heading text-gray-900 mb-6 text-center">
-                Popular Destination Guides
-              </h2>
-
-              <div className="grid grid-cols-2 md:grid-cols-4 lg:grid-cols-5 gap-4">
-                {['Bangkok', 'Phuket', 'Chiang Mai', 'Pattaya', 'Krabi', 'Chiang Rai', 'Ayutthaya', 'Hat Yai', 'Sukhothai', 'Surat Thani'].map((city) => (
-                  <Link key={city} href={`/city/${city.toLowerCase().replace(' ', '-')}/`}>
-                    <div className="bg-surface-cream hover:bg-white rounded-2xl shadow-sm p-4 text-center transition-colors cursor-pointer">
-                      <h3 className="font-medium text-gray-900 text-sm">{city}</h3>
-                      <p className="text-gray-500 text-xs mt-1">View guides</p>
+            <section className="mb-12">
+              <div className="grid grid-cols-1 md:grid-cols-3 gap-6">
+                {[
+                  {
+                    href: '/top-10/attractions/',
+                    title: 'Attractions',
+                    description: 'Use this path when the trip is built around temples, landmarks, and sightseeing shortlists.'
+                  },
+                  {
+                    href: '/top-10/restaurants/',
+                    title: 'Restaurants',
+                    description: 'Use this path when the main decision is where to eat and which city has the strongest food scene.'
+                  },
+                  {
+                    href: '/top-10/hotels/',
+                    title: 'Hotels',
+                    description: 'Use this path when the hotel base drives the trip shape, stay style, and transit planning.'
+                  }
+                ].map((guide) => (
+                  <Link key={guide.href} href={guide.href} className="group block">
+                    <div className="bg-white rounded-2xl shadow-md p-6 h-full transition-shadow group-hover:shadow-lg">
+                      <div className="text-sm font-semibold text-thailand-red mb-2">
+                        Guide family
+                      </div>
+                      <h3 className="text-xl font-bold font-heading text-gray-900 mb-2 group-hover:underline">
+                        {guide.title}
+                      </h3>
+                      <p className="text-gray-600">{guide.description}</p>
                     </div>
                   </Link>
                 ))}
               </div>
-            </div>
+            </section>
 
-            {/* More Resources */}
-            <div className="bg-white rounded-2xl shadow-md p-8 mb-12">
-              <h2 className="text-2xl font-bold font-heading text-gray-900 mb-6 text-center">
-                More Thailand Travel Resources
-              </h2>
-              <div className="grid grid-cols-1 sm:grid-cols-2 lg:grid-cols-3 gap-4">
-                <Link href="/thailand-index/" className="group bg-surface-cream hover:bg-white rounded-xl p-5 shadow-sm hover:shadow-md transition-all">
-                  <div className="text-gray-900 font-bold font-heading text-base mb-1 group-hover:underline">Thailand Travel Index</div>
-                  <p className="text-gray-600 text-sm">Compare costs, weather, and city rankings across 33 destinations</p>
-                </Link>
-                <Link href="/compare/" className="group bg-surface-cream hover:bg-white rounded-xl p-5 shadow-sm hover:shadow-md transition-all">
-                  <div className="text-gray-900 font-bold font-heading text-base mb-1 group-hover:underline">Compare Destinations</div>
-                  <p className="text-gray-600 text-sm">Side-by-side comparisons of Thai cities to help you decide</p>
-                </Link>
-                <Link href="/city/" className="group bg-surface-cream hover:bg-white rounded-xl p-5 shadow-sm hover:shadow-md transition-all">
-                  <div className="text-gray-900 font-bold font-heading text-base mb-1 group-hover:underline">All City Guides</div>
-                  <p className="text-gray-600 text-sm">In-depth travel guides for every major Thai city</p>
-                </Link>
-              </div>
-            </div>
-
-            {/* Book Your Thailand Experience - Affiliate Section */}
-            <div className="bg-surface-dark rounded-2xl p-8 mt-12">
-              <h2 className="text-3xl font-bold font-heading text-white mb-4 text-center">
-                Book Your Thailand Experience
-              </h2>
-              <p className="text-lg text-gray-300 max-w-2xl mx-auto text-center mb-8">
-                Ready to experience the best of Thailand? Book hotels, tours, and activities now.
-              </p>
-
-              <div className="grid grid-cols-1 md:grid-cols-3 gap-6 max-w-4xl mx-auto">
-                <a
-                  href="https://trip.tpo.lv/TmObooZ5"
-                  target="_blank"
-                  rel="noopener noreferrer"
-                  className="flex items-center justify-center px-6 py-4 bg-thailand-red text-white font-semibold rounded-xl hover:bg-thailand-red-600 transition-colors shadow-lg hover:shadow-xl text-center"
-                >
-                  <svg className="w-5 h-5 mr-2 flex-shrink-0" fill="none" stroke="currentColor" viewBox="0 0 24 24">
-                    <path strokeLinecap="round" strokeLinejoin="round" strokeWidth="2" d="M19 21V5a2 2 0 00-2-2H7a2 2 0 00-2 2v16m14 0h2m-2 0h-5m-9 0H3m2 0h5M9 7h1m-1 4h1m4-4h1m-1 4h1m-5 10v-5a1 1 0 011-1h2a1 1 0 011 1v5m-4 0h4" />
-                  </svg>
-                  Search Hotels on Trip.com
-                </a>
-
-                <a
-                  href="https://klook.tpo.lv/aq6ZFxvc"
-                  target="_blank"
-                  rel="noopener noreferrer"
-                  className="flex items-center justify-center px-6 py-4 bg-thailand-blue text-white font-semibold rounded-xl hover:bg-thailand-blue-600 transition-colors shadow-lg hover:shadow-xl text-center"
-                >
-                  <svg className="w-5 h-5 mr-2 flex-shrink-0" fill="none" stroke="currentColor" viewBox="0 0 24 24">
-                    <path strokeLinecap="round" strokeLinejoin="round" strokeWidth="2" d="M15 5v2m0 4v2m0 4v2M5 5a2 2 0 00-2 2v3a2 2 0 110 4v3a2 2 0 002 2h14a2 2 0 002-2v-3a2 2 0 110-4V7a2 2 0 00-2-2H5z" />
-                  </svg>
-                  Book Activities on Klook
-                </a>
-
-                <Link
-                  href="/activities/"
-                  className="flex items-center justify-center px-6 py-4 bg-white text-gray-900 font-semibold rounded-xl hover:bg-gray-100 transition-colors shadow-lg hover:shadow-xl text-center"
-                >
-                  <svg className="w-5 h-5 mr-2 flex-shrink-0" fill="none" stroke="currentColor" viewBox="0 0 24 24">
-                    <path strokeLinecap="round" strokeLinejoin="round" strokeWidth="2" d="M14.828 14.828a4 4 0 01-5.656 0M9 10h.01M15 10h.01M21 12a9 9 0 11-18 0 9 9 0 0118 0z" />
-                  </svg>
-                  Browse All Activities
-                </Link>
+            <section className="mb-12">
+              <div className="flex items-end justify-between gap-6 mb-6">
+                <div>
+                  <span className="section-label">Featured Cities</span>
+                  <h2 className="text-3xl font-bold font-heading text-gray-900 mt-2">
+                    Start Here
+                  </h2>
+                </div>
+                <p className="text-gray-600 max-w-2xl">
+                  These are the strongest entry points for the city-level top-10 guides.
+                </p>
               </div>
 
-              <p className="text-xs text-gray-400 text-center mt-6">
-                Affiliate disclosure: We may earn a commission when you book through our partner links, at no extra cost to you.
-              </p>
-            </div>
+              <div className="grid grid-cols-1 md:grid-cols-2 xl:grid-cols-3 gap-6">
+                {featuredCities.map((featured) => {
+                  const city = featured.city!;
+                  return (
+                    <div key={featured.slug} className="flex flex-col">
+                      <Link href={featured.primaryHref} className="group block">
+                        <div className="bg-white rounded-2xl shadow-md p-6 h-full transition-shadow group-hover:shadow-lg">
+                          <div className="text-sm font-semibold text-thailand-red mb-2">{featured.kicker}</div>
+                          <h3 className="text-xl font-bold font-heading text-gray-900 mb-2">{city.name.en}</h3>
+                          <p className="text-gray-600">{featured.summary}</p>
+                        </div>
+                      </Link>
+                      {featured.secondaryHref ? (
+                        <Link
+                          href={featured.secondaryHref}
+                          className="mt-3 inline-flex items-center text-sm font-semibold text-thailand-blue hover:underline"
+                        >
+                          View city overview
+                        </Link>
+                      ) : null}
+                    </div>
+                  );
+                })}
+              </div>
+            </section>
+
+            <section className="bg-white rounded-2xl shadow-md p-8 mb-12">
+              <div className="flex items-end justify-between gap-6 mb-6">
+                <div>
+                  <span className="section-label">City Index</span>
+                  <h2 className="text-3xl font-bold font-heading text-gray-900 mt-2">
+                    Regional Shortlists
+                  </h2>
+                </div>
+                <p className="text-gray-600 max-w-2xl">
+                  A compact index of the city groups this hub routes into.
+                </p>
+              </div>
+
+              <div className="grid grid-cols-1 lg:grid-cols-2 gap-6">
+                {rootHubContent.sections.map((section) => (
+                  <div key={section.title} className="rounded-2xl border border-gray-100 bg-surface-cream p-5">
+                    <h3 className="text-xl font-bold font-heading text-gray-900 mb-2">
+                      {section.title}
+                    </h3>
+                    <p className="text-gray-600 mb-4">
+                      {section.description}
+                    </p>
+                    <div className="flex flex-wrap gap-2">
+                      {section.citySlugs.map((slug) => {
+                        const city = cityBySlug.get(slug);
+                        if (!city) return null;
+
+                        return (
+                          <Link
+                            key={slug}
+                            href={`/city/${slug}/`}
+                            className="rounded-full bg-white px-3 py-1.5 text-sm font-medium text-gray-700 shadow-sm transition-colors hover:bg-gray-50 hover:text-thailand-red"
+                          >
+                            {city.name.en}
+                          </Link>
+                        );
+                      })}
+                    </div>
+                    {section.inlineSources?.length ? (
+                      <div className="mt-4 text-sm text-gray-500">
+                        Sources:
+                        {' '}
+                        {section.inlineSources.map((source, index) => (
+                          <span key={source.label}>
+                            <a
+                              href={source.url}
+                              target="_blank"
+                              rel="noopener noreferrer"
+                              className="text-thailand-blue hover:underline"
+                            >
+                              {source.label}
+                            </a>
+                            {index < section.inlineSources.length - 1 ? ', ' : ''}
+                          </span>
+                        ))}
+                      </div>
+                    ) : null}
+                  </div>
+                ))}
+              </div>
+            </section>
+
+            <section className="bg-white rounded-2xl shadow-md p-8">
+              <div className="flex items-end justify-between gap-6 mb-6">
+                <div>
+                  <span className="section-label">Sources</span>
+                  <h2 className="text-3xl font-bold font-heading text-gray-900 mt-2">
+                    Visible References
+                  </h2>
+                </div>
+                <p className="text-gray-600 max-w-2xl">
+                  The hub keeps its source basis visible so readers can see the editorial context behind the city routing.
+                </p>
+              </div>
+
+              <div className="grid grid-cols-1 md:grid-cols-2 xl:grid-cols-4 gap-4">
+                {rootHubContent.sourceLinks.map((source) => (
+                  <a
+                    key={source.label}
+                    href={source.url}
+                    target="_blank"
+                    rel="noopener noreferrer"
+                    className="rounded-2xl border border-gray-100 bg-surface-cream p-5 transition-shadow hover:shadow-md"
+                  >
+                    <div className="text-sm font-semibold text-thailand-red mb-2">
+                      {source.label}
+                    </div>
+                    <p className="text-gray-600 text-sm">{source.note}</p>
+                  </a>
+                ))}
+              </div>
+            </section>
           </div>
         </section>
       </div>
@@ -256,7 +263,6 @@ export const getStaticProps: GetStaticProps = async () => {
   const fs = require('fs');
   const path = require('path');
 
-  // Count available guides for each category
   const totalGuides = {
     attractions: 0,
     restaurants: 0,
@@ -267,7 +273,7 @@ export const getStaticProps: GetStaticProps = async () => {
     const top10Dir = path.join(process.cwd(), 'data', 'top10');
     if (fs.existsSync(top10Dir)) {
       const files = fs.readdirSync(top10Dir);
-      
+
       files.forEach((file: string) => {
         if (file.endsWith('-attractions.json')) totalGuides.attractions++;
         if (file.endsWith('-restaurants.json')) totalGuides.restaurants++;
@@ -280,7 +286,7 @@ export const getStaticProps: GetStaticProps = async () => {
 
   return {
     props: {
-      totalGuides,
-    },
+      totalGuides
+    }
   };
 };
