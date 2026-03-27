@@ -84,10 +84,10 @@ export default function Top10Index({ totalGuides }: Top10IndexProps) {
           <div className="container-custom">
             <section className="bg-white rounded-2xl shadow-md p-8 mb-12">
               <h2 className="text-3xl font-bold font-heading text-gray-900 mb-4">
-                {rootHubContent.whyThisPageTitle}
+                How To Use These Guides
               </h2>
               <p className="text-gray-600 max-w-3xl">
-                {rootHubContent.whyThisPageBody}
+                Start with the guide family that matches the decision you are making, then open a city page for the actual shortlist and source-backed context.
               </p>
             </section>
 
