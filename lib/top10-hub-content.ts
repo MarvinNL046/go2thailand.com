@@ -136,6 +136,54 @@ const phuPhrabatSource: HubSourceLink = {
   note: 'Used for the Phu Phrabat heritage reference in Udon Thani.'
 };
 
+const rongrosSource: HubSourceLink = {
+  label: 'Rongros',
+  url: 'https://guide.michelin.com/us/en/bangkok-region/bangkok/restaurant/rongros',
+  note: 'Used for a Bangkok restaurant reference that supports the page’s dining scope.'
+};
+
+const mandarinOrientalBangkokSource: HubSourceLink = {
+  label: 'Mandarin Oriental, Bangkok',
+  url: 'https://www.mandarinoriental.com/en/bangkok/chao-phraya-river',
+  note: 'Used for a Bangkok hotel reference that supports the page’s lodging scope.'
+};
+
+const theSlatePhuketSource: HubSourceLink = {
+  label: 'The Slate Phuket',
+  url: 'https://www.theslatephuket.com/',
+  note: 'Used for a Phuket hotel reference that supports the page’s lodging scope.'
+};
+
+const chiangRaiTourismSource: HubSourceLink = {
+  label: 'Chiang Rai',
+  url: 'https://www.tourismchiangrai-phayao.com/en/chiang-rai/',
+  note: 'Used for Chiang Rai’s city-level tourism framing inside the heritage routes section.'
+};
+
+const lopburiMuseumSource: HubSourceLink = {
+  label: 'Somdet Phra Narai National Museum',
+  url: 'https://www.museumthailand.com/en/museum/Somdet-Phra-Narai-National-Museum',
+  note: 'Used for Lopburi’s Narai palace quarter and museum context.'
+};
+
+const tratSource: HubSourceLink = {
+  label: '10 Things to Do in Trat',
+  url: 'https://www.tourismthailand.org/Articles/10-things-to-do-in-trat',
+  note: 'Used for the Trat side of the coastal, island, and border-gateway cluster.'
+};
+
+const chumphonSource: HubSourceLink = {
+  label: '10 Things to Do in Chumphon',
+  url: 'https://www.tourismthailand.org/Articles/10-things-to-do-in-chumphon',
+  note: 'Used for the Chumphon side of the coastal, island, and border-gateway cluster.'
+};
+
+const fourSeasonsKohSamuiSource: HubSourceLink = {
+  label: 'Four Seasons Resort Koh Samui',
+  url: 'https://www.fourseasons.com/kohsamui/',
+  note: 'Used for a Koh Samui hotel reference inside the coastal and island cluster.'
+};
+
 const ubonHeritageTrailSource: HubSourceLink = {
   label: 'Ubon Mekong Heritage Trail',
   url: 'https://tourismproduct.tourismthailand.org/wp-content/uploads/2023/01/ASEAN-HT_3_Mekong_Online-Spread144.pdf',
@@ -284,7 +332,7 @@ export const rootHubContent: HubPageContent = {
         'Use the biggest travel bases when you need broad choice, transit access, and flexible onward planning.',
       citySlugs: ['bangkok', 'chiang-mai', 'phuket', 'pattaya', 'krabi', 'hua-hin'],
       linkCategory: 'hotels',
-      inlineSources: [bangkokGrandPalaceSource, chiangMaiProvinceSource, phuketOldTownSource]
+      inlineSources: [mandarinOrientalBangkokSource, theSlatePhuketSource, chiangMaiProvinceSource]
     },
     {
       title: 'Heritage cities and temple routes',
@@ -292,7 +340,7 @@ export const rootHubContent: HubPageContent = {
         'Historic places work best when the guide is anchored around one clear reason to visit, not a broad country-wide list.',
       citySlugs: ['ayutthaya', 'sukhothai', 'lopburi', 'phitsanulok', 'kanchanaburi', 'chiang-rai'],
       linkCategory: 'attractions',
-      inlineSources: [ayutthayaUnescoSource, sukhothaiUnescoSource, banChiangSource]
+      inlineSources: [ayutthayaUnescoSource, sukhothaiUnescoSource, lopburiMuseumSource, chiangRaiTourismSource]
     },
     {
       title: 'Coastal, island, and border gateways',
@@ -310,7 +358,7 @@ export const rootHubContent: HubPageContent = {
         'nakhon-si-thammarat'
       ],
       linkCategory: 'hotels',
-      inlineSources: [phuketOldTownSource, krabiEmeraldPoolSource, phaTaemSource]
+      inlineSources: [tratSource, chumphonSource, fourSeasonsKohSamuiSource]
     },
     {
       title: 'Northern hill and river routes',
@@ -330,13 +378,17 @@ export const rootHubContent: HubPageContent = {
     }
   ],
   sourceLinks: [
+    rongrosSource,
+    mandarinOrientalBangkokSource,
+    theSlatePhuketSource,
     bangkokGrandPalaceSource,
-    chiangMaiProvinceSource,
-    phuketOldTownSource,
     ayutthayaUnescoSource,
     sukhothaiUnescoSource,
-    banChiangSource,
-    phuPhrabatSource,
+    chiangRaiTourismSource,
+    lopburiMuseumSource,
+    tratSource,
+    chumphonSource,
+    fourSeasonsKohSamuiSource,
     ubonHeritageTrailSource,
     phaTaemSource
   ]
