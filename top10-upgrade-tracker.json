@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-03-27T20:10:00.000Z",
+  "updated_at": "2026-03-27T22:05:00.000Z",
   "project": "go2thailand top-10 cluster upgrade tracker",
   "goal": "Upgrade all English city top-10 clusters to source-backed, non-thin, AdSense-safe, EEAT-oriented pages.",
   "scope": [
@@ -25,8 +25,8 @@
     },
     {
       "slug": "bangkok",
-      "status": "pending",
-      "notes": ""
+      "status": "done",
+      "notes": "Rebuilt the three Bangkok top-10 data files with source-backed editorial picks; removed scrape fields, first-person filler, affiliate URLs, and stale schema leakage."
     },
     {
       "slug": "bueng-kan",
