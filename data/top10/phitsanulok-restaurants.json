@@ -1,208 +1,123 @@
 {
   "title": "Best Restaurants in Phitsanulok Thailand (2026)",
-  "meta_description": "The 10 best restaurants in Phitsanulok, Thailand with real ratings and guest reviews from tripadvisor. Updated 2026-03-08.",
-  "intro": "Discover the best restaurants in Phitsanulok, Thailand. These recommendations are based on real guest reviews and ratings from tripadvisor.",
+  "meta_description": "The Phitsanulok food picks that still make sense: the market evening, temple-core noodles, a strong breakfast stop, and a small number of direct-source restaurants instead of review spam.",
+  "intro": "Phitsanulok food gets weaker the moment the page turns into a scraped ranking. The better shortlist is much more practical: one evening market, one lunch stop near the main temples, one morning breakfast classic, and a couple of direct-source hotel restaurants that are actually easy to verify. That keeps the food page useful without pretending every review-site result deserves a place.",
   "items": [
     {
       "rank": 1,
-      "name": "Krua Nannum",
-      "description": "Krua Nannum is a 4.3-rated Indian, Asian restaurant in Phitsanulok.",
-      "location": "Phitsanulok",
-      "current_price": "$$ - $$$",
-      "highlights": [],
-      "insider_tips": [],
-      "current_info": "Cuisine: Indian, Asian • Price: $$ - $$$ • Rating: 4.3/5 • 103 reviews",
-      "scraped": {
-        "source": "tripadvisor",
-        "cuisine": "Indian, Asian",
-        "price_range": "$$ - $$$",
-        "rating": 4.3,
-        "review_count": 103,
-        "scraped_at": "2026-03-08T17:11:08.898Z"
-      },
-      "trip_affiliate_url": "https://tp.media/r?marker=602467&trs=421888&p=7631&u=https%3A%2F%2Fwww.trip.com%2Fhotels%2Flist%3Fkeyword%3DKrua%2520Nannum%2520Phitsanulok"
+      "name": "Phitsanulok Ruamjai Market",
+      "description": "The strongest first-night food plan because it reflects the city's actual evening rhythm better than a fixed ranking table ever could.",
+      "location": "Railway-station side of Phitsanulok",
+      "current_price": "Budget",
+      "highlights": [
+        "TAT-backed market pick",
+        "Station-side evening food",
+        "Best practical dinner layer"
+      ],
+      "insider_tips": [
+        "Do this in stages and let the market shape the evening instead of forcing one large sit-down meal."
+      ],
+      "current_info": "TAT's Phitsanulok itinerary and night-bazaar coverage still keep Ruamjai Market visible as one of the city's most useful evening food stops."
     },
     {
       "rank": 2,
-      "name": "Hoikha Rimnan",
-      "description": "Hoikha Rimnan is a 4-rated Asian, Thai restaurant in Phitsanulok.",
-      "location": "Phitsanulok",
-      "current_price": "$",
-      "highlights": [],
-      "insider_tips": [],
-      "current_info": "Cuisine: Asian, Thai • Price: $ • Rating: 4/5 • 118 reviews",
-      "scraped": {
-        "source": "tripadvisor",
-        "cuisine": "Asian, Thai",
-        "price_range": "$",
-        "rating": 4,
-        "review_count": 118,
-        "scraped_at": "2026-03-08T17:11:08.898Z"
-      },
-      "trip_affiliate_url": "https://tp.media/r?marker=602467&trs=421888&p=7631&u=https%3A%2F%2Fwww.trip.com%2Fhotels%2Flist%3Fkeyword%3DHoikha%2520Rimnan%2520Phitsanulok"
+      "name": "Hoikha Rimnan Noodles",
+      "description": "A better lunch inclusion than generic filler because TAT still places it directly inside the Wat Yai side of the city.",
+      "location": "Near Wat Phra Si Rattana Mahathat",
+      "current_price": "Budget",
+      "highlights": [
+        "TAT itinerary pick",
+        "Temple-core lunch logic",
+        "Known for Sukhothai tom yum noodles"
+      ],
+      "insider_tips": [
+        "Use this during the old-core temple sequence, not as a separate cross-city meal run."
+      ],
+      "current_info": "TAT's 3-day Phitsanulok route still highlights Hoikha Rimnan close to Wat Yai and specifically points visitors to its noodle offering."
     },
     {
       "rank": 3,
-      "name": "Krua",
-      "description": "Krua is a 4.4-rated Chinese, Asian restaurant in Phitsanulok.",
-      "location": "Phitsanulok",
-      "current_price": "$$ - $$$",
-      "highlights": [],
-      "insider_tips": [],
-      "current_info": "Cuisine: Chinese, Asian • Price: $$ - $$$ • Rating: 4.4/5 • 52 reviews",
-      "scraped": {
-        "source": "tripadvisor",
-        "cuisine": "Chinese, Asian",
-        "price_range": "$$ - $$$",
-        "rating": 4.4,
-        "review_count": 52,
-        "scraped_at": "2026-03-08T17:11:08.898Z"
-      },
-      "trip_affiliate_url": "https://tp.media/r?marker=602467&trs=421888&p=7631&u=https%3A%2F%2Fwww.trip.com%2Fhotels%2Flist%3Fkeyword%3DKrua%2520Phitsanulok"
+      "name": "Kanokphan Phitsanulok",
+      "description": "One of the stronger breakfast-style inclusions because TAT still frames it around dumplings, buns, noodles, and curries rather than review scores.",
+      "location": "Phitsanulok city",
+      "current_price": "Budget",
+      "highlights": [
+        "TAT itinerary pick",
+        "Good early-day meal",
+        "Dumplings and steamed buns"
+      ],
+      "insider_tips": [
+        "Best handled as breakfast or an early lunch before the day gets hotter."
+      ],
+      "current_info": "TAT's city itinerary still treats Kanokphan as one of the notable Phitsanulok meal stops for buns, dumplings, noodles, and Thai curries."
     },
     {
       "rank": 4,
-      "name": "Ban Mai Restaurant",
-      "description": "Ban Mai Restaurant is a 4-rated Asian, Thai restaurant in Phitsanulok.",
-      "location": "Phitsanulok",
-      "current_price": "$$ - $$$",
-      "highlights": [],
-      "insider_tips": [],
-      "current_info": "Cuisine: Asian, Thai • Price: $$ - $$$ • Rating: 4/5 • 105 reviews",
-      "scraped": {
-        "source": "tripadvisor",
-        "cuisine": "Asian, Thai",
-        "price_range": "$$ - $$$",
-        "rating": 4,
-        "review_count": 105,
-        "scraped_at": "2026-03-08T17:11:08.898Z"
-      },
-      "trip_affiliate_url": "https://tp.media/r?marker=602467&trs=421888&p=7631&u=https%3A%2F%2Fwww.trip.com%2Fhotels%2Flist%3Fkeyword%3DBan%2520Mai%2520Restaurant%2520Phitsanulok"
+      "name": "Amore Restaurant",
+      "description": "A calmer Nan River-side hotel restaurant when you want one polished dinner instead of only market grazing.",
+      "location": "Yodia Heritage Hotel, Phutthabucha Road",
+      "current_price": "Mid-range",
+      "highlights": [
+        "Official hotel contact page",
+        "Old-center river-side location",
+        "Good polished dinner option"
+      ],
+      "insider_tips": [
+        "This makes the most sense as the one slower sit-down dinner near the historic core."
+      ],
+      "current_info": "Yodia Heritage Hotel's current site and contact page still list Amore Restaurant on the Nan River side of central historical Phitsanulok."
     },
     {
       "rank": 5,
-      "name": "Meet Smile",
-      "description": "Meet Smile is a 5-rated Cafe, Fast Food restaurant in Phitsanulok.",
-      "location": "Phitsanulok",
-      "current_price": "$",
-      "highlights": [],
-      "insider_tips": [],
-      "current_info": "Cuisine: Cafe, Fast Food • Price: $ • Rating: 5/5 • 15 reviews",
-      "scraped": {
-        "source": "tripadvisor",
-        "cuisine": "Cafe, Fast Food",
-        "price_range": "$",
-        "rating": 5,
-        "review_count": 15,
-        "scraped_at": "2026-03-08T17:11:08.898Z"
-      },
-      "trip_affiliate_url": "https://tp.media/r?marker=602467&trs=421888&p=7631&u=https%3A%2F%2Fwww.trip.com%2Fhotels%2Flist%3Fkeyword%3DMeet%2520Smile%2520Phitsanulok"
-    },
-    {
-      "rank": 6,
-      "name": "House of Smoke",
-      "description": "House of Smoke is a 4.6-rated American, Steakhouse restaurant in Phitsanulok.",
-      "location": "Phitsanulok",
-      "current_price": "$$ - $$$",
-      "highlights": [],
-      "insider_tips": [],
-      "current_info": "Cuisine: American, Steakhouse • Price: $$ - $$$ • Rating: 4.6/5 • 11 reviews",
-      "scraped": {
-        "source": "tripadvisor",
-        "cuisine": "American, Steakhouse",
-        "price_range": "$$ - $$$",
-        "rating": 4.6,
-        "review_count": 11,
-        "scraped_at": "2026-03-08T17:11:08.898Z"
-      },
-      "trip_affiliate_url": "https://tp.media/r?marker=602467&trs=421888&p=7631&u=https%3A%2F%2Fwww.trip.com%2Fhotels%2Flist%3Fkeyword%3DHouse%2520of%2520Smoke%2520Phitsanulok"
-    },
-    {
-      "rank": 7,
-      "name": "DnT's Place aka Laab Ubon",
-      "description": "DnT's Place aka Laab Ubon is a 4.9-rated Bar, Cafe restaurant in Phitsanulok.",
-      "location": "Phitsanulok",
-      "current_price": "$",
-      "highlights": [],
-      "insider_tips": [],
-      "current_info": "Cuisine: Bar, Cafe • Price: $ • Rating: 4.9/5 • 29 reviews",
-      "scraped": {
-        "source": "tripadvisor",
-        "cuisine": "Bar, Cafe",
-        "price_range": "$",
-        "rating": 4.9,
-        "review_count": 29,
-        "scraped_at": "2026-03-08T17:11:08.898Z"
-      },
-      "trip_affiliate_url": "https://tp.media/r?marker=602467&trs=421888&p=7631&u=https%3A%2F%2Fwww.trip.com%2Fhotels%2Flist%3Fkeyword%3DDnT's%2520Place%2520aka%2520Laab%2520Ubon%2520Phitsanulok"
-    },
-    {
-      "rank": 8,
-      "name": "Ton Tan Restaurant",
-      "description": "Ton Tan Restaurant is a 4-rated Asian, Thai restaurant in Phitsanulok.",
-      "location": "Phitsanulok",
-      "current_price": "$$ - $$$",
-      "highlights": [],
-      "insider_tips": [],
-      "current_info": "Cuisine: Asian, Thai • Price: $$ - $$$ • Rating: 4/5 • 31 reviews",
-      "scraped": {
-        "source": "tripadvisor",
-        "cuisine": "Asian, Thai",
-        "price_range": "$$ - $$$",
-        "rating": 4,
-        "review_count": 31,
-        "scraped_at": "2026-03-08T17:11:08.898Z"
-      },
-      "trip_affiliate_url": "https://tp.media/r?marker=602467&trs=421888&p=7631&u=https%3A%2F%2Fwww.trip.com%2Fhotels%2Flist%3Fkeyword%3DTon%2520Tan%2520Restaurant%2520Phitsanulok"
-    },
-    {
-      "rank": 9,
-      "name": "Pat Phufta Thailand",
-      "description": "Pat Phufta Thailand is a 4.2-rated Asian, Thai restaurant in Phitsanulok.",
-      "location": "Phitsanulok",
-      "current_price": "$$ - $$$",
-      "highlights": [],
-      "insider_tips": [],
-      "current_info": "Cuisine: Asian, Thai • Price: $$ - $$$ • Rating: 4.2/5 • 25 reviews",
-      "scraped": {
-        "source": "tripadvisor",
-        "cuisine": "Asian, Thai",
-        "price_range": "$$ - $$$",
-        "rating": 4.2,
-        "review_count": 25,
-        "scraped_at": "2026-03-08T17:11:08.898Z"
-      },
-      "trip_affiliate_url": "https://tp.media/r?marker=602467&trs=421888&p=7631&u=https%3A%2F%2Fwww.trip.com%2Fhotels%2Flist%3Fkeyword%3DPat%2520Phufta%2520Thailand%2520Phitsanulok"
-    },
-    {
-      "rank": 10,
-      "name": "Phae Fa Thai",
-      "description": "Phae Fa Thai is a 4.6-rated Thai restaurant in Phitsanulok.",
-      "location": "Phitsanulok",
-      "current_price": "$$ - $$$",
-      "highlights": [],
-      "insider_tips": [],
-      "current_info": "Cuisine: Thai • Price: $$ - $$$ • Rating: 4.6/5 • 16 reviews",
-      "scraped": {
-        "source": "tripadvisor",
-        "cuisine": "Thai",
-        "price_range": "$$ - $$$",
-        "rating": 4.6,
-        "review_count": 16,
-        "scraped_at": "2026-03-08T17:11:08.898Z"
-      },
-      "trip_affiliate_url": "https://tp.media/r?marker=602467&trs=421888&p=7631&u=https%3A%2F%2Fwww.trip.com%2Fhotels%2Flist%3Fkeyword%3DPhae%2520Fa%2520Thai%2520Phitsanulok"
+      "name": "Chaliang Cuisine",
+      "description": "A verified all-day dining option on the Wat Chan side that keeps the shortlist grounded in current operator pages rather than review spam.",
+      "location": "Shinnabhura Historic Boutique Hotel, Wat Chan",
+      "current_price": "Mid-range",
+      "highlights": [
+        "Official restaurant page",
+        "All-day dining",
+        "Thai and international range"
+      ],
+      "insider_tips": [
+        "Useful when you want one direct-source restaurant away from the temple-core market loop."
+      ],
+      "current_info": "Shinnabhura's current Chaliang Cuisine page presents it as an all-day dining restaurant open for breakfast, lunch, and dinner."
     }
   ],
   "city_slug": "phitsanulok",
   "city_name": "Phitsanulok",
   "category": "restaurants",
-  "data_sources": [
-    "tripadvisor",
-    "scraped"
+  "content_sources": [
+    {
+      "title": "Experiencing Phitsanulok 3 Days and 2 Nights",
+      "creator": "Tourism Authority of Thailand",
+      "url": "https://www.tourismthailand.org/Articles/https-www-tourismthailand-org-articles-experiencing-phitsanulok-3-days-and-2-nights",
+      "description": "Used for Hoikha Rimnan, Kanokphan, and Ruamjai Market."
+    },
+    {
+      "title": "Phitsanulok's Vibrant Night Bazaars",
+      "creator": "Tourism Authority of Thailand",
+      "url": "https://www.tourismthailand.org/Articles/phitsanulok-s-vibrant-night-bazaars",
+      "description": "Used for the broader evening-market context."
+    },
+    {
+      "title": "Yodia Heritage Hotel Contacts",
+      "creator": "Yodia Heritage Hotel",
+      "url": "https://yodiaheritagehotel.com/contacts/",
+      "description": "Used for direct confirmation of Amore Restaurant and its location."
+    },
+    {
+      "title": "Chaliang Cuisine At Shinnabhura Historic Boutique Hotel",
+      "creator": "Shinnabhura Historic Boutique Hotel",
+      "url": "https://shinnabhura.com/chaliang-cuisine.html",
+      "description": "Used for direct restaurant positioning and opening pattern."
+    }
   ],
-  "last_scraped": "2026-03-08T17:11:08.898Z",
-  "generated_at": "2026-03-08T17:11:08.898Z",
-  "hybrid": false,
-  "scraped": true
+  "data_sources": [
+    "Tourism Authority of Thailand",
+    "Official restaurant websites"
+  ],
+  "generated_at": "2026-03-27T00:00:00.000Z",
+  "factchecked_at": "2026-03-27T00:00:00.000Z",
+  "hybrid": false
 }

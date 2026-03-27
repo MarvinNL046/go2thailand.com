@@ -12,25 +12,27 @@
     "ru": "Phitsanulok",
     "zh": "Phitsanulok"
   },
-  "region": "Central",
+  "region": "Northern",
   "province": "Phitsanulok",
   "description": {
-    "en": "Gateway city between central and northern Thailand, home to one of the country's most revered Buddha images at Wat Phra Si Rattana Mahathat. A lively river city with rich cultural heritage and excellent local cuisine.",
-    "nl": "Poortstad tussen centraal en Noord-Thailand, met een van de meest vereerde Boeddhabeelden van het land in Wat Phra Si Rattana Mahathat. Een levendige rivierstad met rijk cultureel erfgoed en uitstekende lokale keuken.",
-    "ja": "タイ中部と北部を結ぶ玄関口の街ピッサヌロークは、タイで最も美しい仏像の一つ「プラ・プッタ・チンナラート」を安置するワット・ヤイで有名です。",
-    "ko": "태국 중부와 북부를 연결하는 관문 도시로, 왓 프라시 랏따나 마하탓에 있는 태국에서 가장 존경받는 불상 중 하나가 있습니다. 풍부한 문화유산과 훌륭한 현지 음식을 지닌 활기찬 강변 도시입니다.",
-    "th": "เมืองสองแคว มีพระพุทธชินราช วัดใหญ่ และเป็นจุดเริ่มต้นสู่สุโขทัย",
-    "de": "Eine Stadt, die als Tor zwischen Zentral- und Nordthailand dient und Heimat einer der verehrtesten Buddha-Statuen des Landes im Wat Phra Si Rattana Mahathat ist. Eine lebendige Flussstadt mit reichhaltigem kulturellem Erbe und hervorragender lokaler Küche.",
-    "fr": "Une ville étape entre le centre et le nord de la Thaïlande, abritant l'une des images de Bouddha les plus vénérées du pays au Wat Phra Si Rattana Mahathat. Une ville fluviale animée avec un riche patrimoine culturel et une excellente cuisine locale.",
-    "ru": "Город-ворота между центральной и северной Таиландом, дом одной из самых почитаемых буддийских изображений во Ват Phra Si Rattana Mahathat. Живой город на реке с богатым культурным наследием и отличной местной кухней.",
-    "zh": "泰国中部与北部之间的门户城市，拥有 Wat Phra Si Rattana Mahathat 的佛像之一。这里是一座充满活力的河畔城市，拥有丰富的文化遗产和出色的本地美食。"
+    "en": "Phitsanulok works best as a Lower Northern city with a compact temple-and-river core first, then one deliberate outer nature day such as Phu Hin Rong Kla. Wat Phra Si Rattana Mahathat, Wat Ratchaburana, Wat Nang Phaya, the Nan River evening side, and a handful of old-school local food stops explain the city far better than using it only as a transport gateway.",
+    "nl": "Phitsanulok werkt het best als een stad in Noord-Thailand met eerst een compacte tempel- en rivierskern en daarna hooguit een bewuste natuuruitstap zoals Phu Hin Rong Kla.",
+    "ja": "ピッサヌロークは、交通の通過点として消費するより、ワット・ヤイを軸にした寺院群、ナーン川沿いの夕方の街並み、そして必要ならプーヒンロンカー方面の自然を一つ足す形で組み立てると理解しやすい都市です。",
+    "ko": "핏사눌록은 단순 경유지가 아니라, 왓 야이를 중심으로 한 사원권과 난강 저녁 동선, 그리고 필요하면 푸힌롱끌라 같은 한 가지 외곽 자연 코스로 짜는 편이 훨씬 낫습니다.",
+    "th": "พิษณุโลกเหมาะกับการเที่ยวแบบเริ่มจากแกนเมืองเก่าริมน้ำน่าน วัดสำคัญ และค่อยเพิ่มทริปธรรมชาติอย่างภูหินร่องกล้าเพียงหนึ่งทริป มากกว่าการมองเป็นแค่เมืองผ่านทาง",
+    "de": "Phitsanulok funktioniert am besten als Stadt in Nordthailand mit kompaktem Tempel- und Flusskern und hoechstens einem gezielten Naturausflug wie Phu Hin Rong Kla.",
+    "fr": "Phitsanulok se visite mieux comme une ville du nord inferieur avec un coeur compact de temples et de rive, puis une seule vraie extension nature comme Phu Hin Rong Kla.",
+    "ru": "Пхитсанулок лучше планировать как компактный город Нижнего Севера: храмовое ядро, вечерний берег Нан и максимум одна осмысленная природная вылазка вроде Phu Hin Rong Kla.",
+    "zh": "Phitsanulok 更适合按“寺庙老城核心 + Nan 河傍晚动线 + 一次认真外出自然日”的逻辑来安排，而不是只把它当作交通中转站。"
   },
   "population": 84000,
   "highlights": [
-    "Wat Phra Si Rattana Mahathat",
-    "Nan River",
-    "Sergeant Major Thawee Folk Museum",
-    "Night Market"
+    "Wat Phra Si Rattana Mahathat (Wat Yai)",
+    "Wat Ratchaburana",
+    "Wat Nang Phaya",
+    "Wat Chulamani",
+    "Phitsanulok Ruamjai Market",
+    "Phu Hin Rong Kla National Park"
   ],
   "location": {
     "lat": 16.8211,
@@ -39,10 +41,10 @@
   "image": "/images/cities/generated/phitsanulok.webp",
   "seo": {
     "metaTitle": {
-      "en": "Discover Phitsanulok | What to do in Phitsanulok?",
+      "en": "Phitsanulok Thailand Guide 2026 | Wat Yai, Food, Hotels, Phu Hin Rong Kla",
       "nl": "Ontdek Phitsanulok | Wat te doen in Phitsanulok?",
       "ja": "ピッサヌロークを満喫 | ピッサヌロークの観光・見どころガイド",
-      "ko": "핏사눌록 태국 — 역사 & 문화 여행 가이드 2026",
+      "ko": "핏사눌록 태국 여행 가이드 2026",
       "th": "พิษณุโลก ประเทศไทย — คู่มือท่องเที่ยวฉบับสมบูรณ์ 2026",
       "de": "Phitsanulok entdecken | Was tun in Phitsanulok?",
       "fr": "Découvrez Phitsanulok | Que faire à Phitsanulok ?",
@@ -50,24 +52,24 @@
       "zh": "探索 Phitsanulok | 在 Phitsanulok 可以做什么？"
     },
     "metaDescription": {
-      "en": "Your guide to Phitsanulok, Thailand – tips, highlights, food, hotels.",
-      "nl": "Jouw gids voor Phitsanulok, Thailand – tips, highlights, eten, hotels.",
-      "ja": "タイ・ピッサヌロークの旅行ガイド — おすすめスポット、グルメ、ホテル情報をご紹介。",
-      "ko": "핏사눌록(태국) 완벽 여행 가이드: 왓 야이, 수상시장, 푸힌롱끌라 국립공원. 가격, 팁, 가는 법.",
-      "th": "คู่มือท่องเที่ยวพิษณุโลก ประเทศไทย — สถานที่ท่องเที่ยว อาหาร ที่พัก และเคล็ดลับ อัปเดต 2026",
-      "de": "Ihr Reiseführer für Phitsanulok, Thailand – Tipps, Highlights, Essen, Hotels.",
-      "fr": "Votre guide pour Phitsanulok, Thaïlande – conseils, points forts, gastronomie, hôtels.",
-      "ru": "Ваш гид по Фитсанулоку, Таиланд — советы, достопримечательности, еда, отели.",
-      "zh": "您在泰国 Phitsanulok 的指南——提示、亮点、美食、酒店。"
+      "en": "Plan Phitsanulok around Wat Yai, Wat Ratchaburana, Wat Nang Phaya, the Nan River market side, and one deliberate Phu Hin Rong Kla day.",
+      "nl": "Jouw gids voor Phitsanulok, Thailand – tips, highlights, eten en hotels.",
+      "ja": "タイ・ピッサヌロークの旅行ガイド — ワット・ヤイ、寺院群、ナーン川沿い、食、ホテル情報を整理して紹介します。",
+      "ko": "왓 야이, 랏차부라나, 난강 저녁 동선, 푸힌롱끌라 일정까지 한 번에 정리한 핏사눌록 여행 가이드입니다.",
+      "th": "วางแผนพิษณุโลกด้วยวัดใหญ่ วัดราชบูรณะ วัดนางพญา ตลาดเย็นริมแม่น้ำน่าน และวันธรรมชาติที่ภูหินร่องกล้า",
+      "de": "Planen Sie Phitsanulok rund um Wat Yai, Wat Ratchaburana, die Flussseite, Essen und einen gezielten Tag in Phu Hin Rong Kla.",
+      "fr": "Organisez Phitsanulok autour de Wat Yai, Wat Ratchaburana, du soir au bord de la Nan, de la gastronomie et d'une journee a Phu Hin Rong Kla.",
+      "ru": "Планируйте Пхитсанулок вокруг Wat Yai, храмового ядра, вечернего берега Нан, локальной еды и одного дня в Phu Hin Rong Kla.",
+      "zh": "把 Phitsanulok 的行程围绕 Wat Yai、寺庙核心、Nan 河傍晚市场和一次 Phu Hin Rong Kla 外出日来安排。"
     }
   },
   "categories": {
     "food": {
-      "en": "Best restaurants and street food in Phitsanulok",
-      "nl": "Beste restaurants en streetfood in Phitsanulok",
-      "ja": "ピッサヌロークのおすすめレストラン＆ストリートフード",
-      "ko": "핏사눌록 추천 레스토랑과 길거리 음식",
-      "th": "ร้านอาหารและสตรีทฟู้ดที่ดีที่สุดในพิษณุโลก"
+      "en": "Best restaurants and local food in Phitsanulok",
+      "nl": "Beste restaurants en lokaal eten in Phitsanulok",
+      "ja": "ピッサヌロークのおすすめレストランとローカルフード",
+      "ko": "핏사눌록 추천 레스토랑과 로컬 음식",
+      "th": "ร้านอาหารและของกินท้องถิ่นที่ดีที่สุดในพิษณุโลก"
     },
     "hotels": {
       "en": "Top hotels in Phitsanulok | Tips & deals",
@@ -85,771 +87,582 @@
     }
   },
   "tags": [
-    "central",
+    "northern",
     "phitsanulok",
-    "thailand",
-    "travel",
-    "tourism",
-    "guide"
+    "wat-yai",
+    "nan-river",
+    "phu-hin-rong-kla",
+    "thailand"
   ],
-  "enhanced_description": "I arrived in Phitsanulok at dusk, the Nan River catching the last orange light as houseboats and floating restaurants bobbed gently along its banks. Most travelers pass through this city on their way to Sukhothai or the northern hill towns, and that is their loss. Phitsanulok, or \"Phitlok\" as locals call it, is a genuine Thai river city with a soul that reveals itself to anyone willing to slow down. My first stop was Wat Phra Si Rattana Mahathat, known simply as Wat Yai, the grand temple on the riverbank that houses Phra Phuttha Chinnarat, widely considered the most beautiful Buddha image in Thailand.\n\nStanding before the Chinnarat Buddha, I understood why Thai people travel from across the country to pay their respects here. The Sukhothai-era bronze image sits in the attitude of subduing Mara, its flame-like halo uniquely ornate, the golden surface seeming to glow with an inner warmth in the candlelit viharn. Thai families knelt on the cool marble floor, pressing gold leaf onto small Buddha amulets, while the sweet scent of jasmine garlands filled the air. It is an image so revered that a copy was made for Bangkok's Marble Temple, but locals will tell you with quiet pride that nothing matches the original.\n\nAfter the temple, I walked along the Nan River promenade toward the night market on Phaya Sua Road. Phitsanulok's night market is one of central Thailand's best-kept culinary secrets. I worked my way through stalls selling khao tom mat, sweet sticky rice parcels wrapped in banana leaf, and stopped at a crowded cart for the city's signature dish: kuay tiew hoy khae, a noodle soup topped with morning glory, bean sprouts, and a flavor so deeply umami it haunted me for days. The vendor, a woman who told me she had been making this soup for thirty years, ladled out bowl after bowl with practiced efficiency while her teenage daughter collected the fifteen-baht payments.\n\nThe next morning, I visited the Sergeant Major Thawee Folk Museum, a quirky and touching collection assembled over decades by a retired military officer. Housed in a traditional wooden building, the museum contains thousands of everyday objects from rural Thai life: farming tools, kitchen implements, fishing traps, and hand-woven textiles, each one labeled by hand with a story of its use. It was the most human museum I encountered in Thailand, a love letter to the ordinary lives that history books usually overlook.\n\nPhitsanulok also serves as the launchpad for two spectacular national parks. Phu Hin Rong Kla, about ninety minutes east, offers misty highland forests with strange mushroom-shaped rock formations and a sobering history as a former Communist insurgent base. Thung Salaeng Luang, to the southeast, rewards visitors with vast savanna grasslands that turn golden in the dry season. I spent an afternoon driving through its rolling landscapes, stopping to watch a family of wild elephants cross a stream, and felt the kind of profound quiet that only Thailand's countryside can deliver.\n\nOn my last evening, I joined a handful of local men fishing from the Naresuan Bridge at sunset, the silhouette of Wat Yai's prang reflected perfectly in the still river below. A fisherman handed me a spare rod and motioned for me to cast. We caught nothing, but as the sky turned indigo and the temple lights flickered on, I realized that Phitsanulok's gift is precisely this: the grace of unhurried moments in a city that feels genuinely, beautifully Thai.",
+  "enhanced_description": "Phitsanulok gets weaker when it is sold as a generic gateway between Bangkok, Sukhothai, and the north. The stronger version starts inside the city itself: Wat Phra Si Rattana Mahathat for the Phra Buddha Chinnarat image, the short temple sequence around Wat Ratchaburana and Wat Nang Phaya, then the Nan River and market side for the evening food rhythm that keeps the place from feeling like a day-stop only.\n\nThat same editing rule applies to the wider province. Wat Chulamani is the cleanest extra temple once the old core is done, but the one outer-city extension that really changes the trip is Phu Hin Rong Kla National Park. TAT still treats it through its unusual rock terrain, cool-weather landscape, and historical mountain context, which makes it a better use of a full day than padding the itinerary with random province pins.\n\nHotel choice should follow the same logic. Stay near the old-center river side if temple access and walkable evenings matter most, or use a west-side city hotel or budget chain when you mainly want a practical base for road, airport, or next-day onward travel. Phitsanulok is not hard to plan once you stop trying to make it be somewhere else.",
+  "overview": "Phitsanulok is one of the easier Lower Northern cities to read once you stop treating it as a stopover. The historic core sits around the Nan River and the Wat Yai side of town, where Wat Phra Si Rattana Mahathat, Wat Ratchaburana, and Wat Nang Phaya can be understood as one compact heritage block rather than as isolated temple visits. That cluster is still the strongest first half-day because it explains both the city's religious importance and its older urban shape.\n\nThe evening layer matters almost as much. TAT's Phitsanulok material still treats the Ruamjai Market and the wider night-bazaar side as a practical way to understand local food, and that is a better framing than trying to rank random cafés or scrape review platforms. This is where Phitsanulok feels like a lived-in city rather than a historical footnote.\n\nAfter that, the province needs restraint. Wat Chulamani is a worthwhile secondary temple if you want one more religious stop without leaving Mueang Phitsanulok, while Phu Hin Rong Kla is the one true full-day nature direction that earns the drive. The city becomes much stronger when those layers stay deliberate instead of becoming an overloaded list.",
   "hidden_gems": [
     {
-      "name": {
-        "en": "Phitsanulok Floating Market (Talad Nam)",
-        "nl": "Phitsanulok Drijvende Markt (Talad Nam)",
-        "ja": "ピッサヌローク水上マーケット（タラート・ナーム）",
-        "ko": "핏사눌록 수상시장 (딸랏남)"
-      },
-      "description": {
-        "en": "A small but authentic floating market on the Nan River where vendors sell food and goods from wooden boats. Less touristy than Bangkok's famous versions and much more genuine.",
-        "nl": "Een kleine maar authentieke drijvende markt op de Nan-rivier waar verkopers eten en goederen verkopen vanuit houten boten. Minder toeristisch dan de beroemde versies van Bangkok en veel authentieker.",
-        "ja": "ナーン川沿いの小さいながらも本格的な水上マーケットで、船上の売り手が食べ物や土産物を販売しています。観光客が少ない素朴な雰囲気が魅力です。",
-        "ko": "난강 위의 전통 수상시장으로, 보트에서 현지 음식과 간식을 판매합니다. 관광객보다 현지인이 많은 정통 시장입니다."
-      },
-      "type": "market"
+      "name": "Buranathai Buddha Making Factory",
+      "why_special": "It gives the city a working craft layer that fits naturally with Wat Yai and the old temple quarter instead of feeling like a detached museum stop.",
+      "local_tip": "Use it only if you are already doing the old-town heritage sequence, not as a separate cross-city detour.",
+      "best_time": "Late morning or early afternoon",
+      "href": "/city/phitsanulok/top-10-attractions/",
+      "cta_label": "See the attractions guide"
     },
     {
-      "name": {
-        "en": "Phu Hin Rong Kla National Park",
-        "nl": "Phu Hin Rong Kla Nationaal Park",
-        "ja": "プーヒンロンクラー国立公園",
-        "ko": "푸힌롱끌라 국립공원"
-      },
-      "description": {
-        "en": "A highland national park 90 minutes from the city with surreal rock formations, cool climate, and the ruins of a former Communist Party headquarters. Spectacular in the cool season.",
-        "nl": "Een hooglanden nationaal park 90 minuten van de stad met surrealistische rotsformaties, koel klimaat en de ruines van een voormalig communistisch partijhoofdkwartier. Spectaculair in het koele seizoen.",
-        "ja": "市内から車で約90分の高原にある国立公園で、幻想的な岩の造形、高原の草原、共産ゲリラの歴史的な拠点跡が見られます。涼しい気候も魅力です。",
-        "ko": "1970년대 공산당 게릴라 기지였던 역사적 장소로, 독특한 바위 지형과 폭포, 서늘한 기후가 매력적입니다."
-      },
-      "type": "nature"
+      "name": "Sergeant Major Thawee Folk Museum",
+      "why_special": "It is still one of the clearer old-school culture stops when you want tools, craft, and provincial memory rather than another photo-only landmark.",
+      "local_tip": "Pair it with the foundry or keep it as a selective museum stop after lunch, not as a must-do for every short stay.",
+      "best_time": "Afternoon",
+      "href": "/city/phitsanulok/top-10-attractions/",
+      "cta_label": "See the attractions guide"
+    }
+  ],
+  "authentic_experiences": [
+    {
+      "activity": "Treat Wat Yai, Wat Ratchaburana, and Wat Nang Phaya as one compact heritage block",
+      "story": "TAT's current and archived Phitsanulok material still keeps those temples close together for a reason: they read best as one edited city-core sequence, not as separate headline days.",
+      "cultural_significance": "This is the shortest route that still explains why Phitsanulok matters religiously and historically.",
+      "how_to_participate": "Go in the cooler hours, dress properly for active temples, and keep the route walkable instead of overusing transport.",
+      "insights": [
+        "This is the city's strongest first filter.",
+        "Wat Ratchaburana and Wat Nang Phaya make more sense after Wat Yai, not before."
+      ],
+      "href": "/city/phitsanulok/attractions/wat-phra-si-rattana-mahathat/",
+      "cta_label": "See the Wat Yai guide"
     },
     {
-      "name": {
-        "en": "Baan Khun Phra Foundry",
-        "nl": "Baan Khun Phra Gieterij",
-        "ja": "バーン・クン・プラー鋳造所",
-        "ko": "반쿤프라 주조소"
-      },
-      "description": {
-        "en": "A traditional bronze-casting workshop near Wat Yai where artisans still create Buddha images using ancient lost-wax techniques. Visitors can watch the fascinating centuries-old process.",
-        "nl": "Een traditionele bronsgieterijwerkplaats bij Wat Yai waar ambachtslieden nog steeds Boeddhabeelden maken met oude verloren-was-technieken. Bezoekers kunnen het fascinerende eeuwenoude proces bekijken.",
-        "ja": "ワット・ヤイ近くの伝統的な青銅鋳造工房で、職人たちが古代の技法で仏像を制作する様子を見学できます。小さな仏像をお土産に購入することもできます。",
-        "ko": "전통 불상 주조 기법을 볼 수 있는 공방으로, 핏사눌록의 불교 예술 전통을 체험할 수 있습니다."
-      },
-      "type": "experience"
+      "activity": "Use the Nan River and market side for the evening meal instead of forcing a review-site dinner ranking",
+      "story": "TAT's Phitsanulok night-bazaar and itinerary pieces still keep the market side visible because it reflects the city's real after-dark rhythm better than generic top-ten lists.",
+      "cultural_significance": "This is where the city feels local and current rather than purely historical.",
+      "how_to_participate": "Use the market for dinner or dessert after the temple loop and keep the evening centered in town.",
+      "insights": [
+        "A city market meal usually adds more than one more formal restaurant booking.",
+        "The rail-station side works best later in the day."
+      ],
+      "href": "/city/phitsanulok/attractions/phitsanulok-ruamjai-market-and-nan-river/",
+      "cta_label": "See the market guide"
     },
     {
-      "name": {
-        "en": "Nan River Promenade Evening Walk",
-        "nl": "Nan Rivier Promenade Avondwandeling",
-        "ja": "ナーン川プロムナード夕方散歩",
-        "ko": "난강변 저녁 산책로"
-      },
-      "description": {
-        "en": "The tree-lined riverside walkway between Naresuan Bridge and Ekathotsarot Bridge comes alive at dusk with joggers, food carts, and families. The temple reflections on the water are magical.",
-        "nl": "De met bomen omzoomde wandelpad langs de rivier tussen Naresuan Brug en Ekathotsarot Brug komt tot leven bij schemering met joggers, voedskarren en families. De tempelreflecties op het water zijn magisch.",
-        "ja": "ナレースワン橋とエカトッサロット橋の間の並木道のリバーサイド遊歩道で、夕方になると屋台や地元の人々で賑わいます。川風を感じながらの散歩に最適です。",
-        "ko": "난강을 따라 조성된 산책로로, 해질녘 현지인들과 함께 여유로운 산책을 즐기기에 완벽합니다."
-      },
-      "type": "experience"
+      "activity": "Add Wat Chulamani only if you still want one more serious temple after the old core",
+      "story": "The TAT province framing still keeps Wat Chulamani among the province's meaningful temple names, but it works best as a measured add-on rather than as a replacement for the city core.",
+      "cultural_significance": "It adds religious depth without pulling the whole day into a distant province loop.",
+      "how_to_participate": "Use it after the old-center temples or on a second morning before departure.",
+      "insights": [
+        "This is the best secondary temple after the old-core trio.",
+        "Do not let it displace Wat Yai or the river-side evening."
+      ],
+      "href": "/city/phitsanulok/attractions/wat-chulamani/",
+      "cta_label": "See the Wat Chulamani guide"
     },
     {
-      "name": {
-        "en": "Wat Nang Phaya",
-        "nl": "Wat Nang Phaya",
-        "ja": "ワット・ナーン・パヤー",
-        "ko": "왓 낭파야"
-      },
-      "description": {
-        "en": "A beautiful Ayutthaya-period temple just south of Wat Yai, known for its unique stucco decorations and far fewer visitors. Its fine plasterwork is considered among the best from the period.",
-        "nl": "Een prachtige tempel uit de Ayutthaya-periode net ten zuiden van Wat Yai, bekend om de unieke stucdecoraties en veel minder bezoekers. Het fijne pleisterwerk wordt beschouwd als een van de beste uit die periode.",
-        "ja": "ワット・ヤイのすぐ南にあるアユタヤ時代の美しい寺院で、独特の漆喰装飾と護符で知られています。静かに参拝できる穴場の寺院です。",
-        "ko": "아유타야 시대의 역사적 사원으로, 정교한 벽화와 고요한 분위기가 인상적인 숨겨진 명소입니다."
-      },
-      "type": "temple"
+      "activity": "Keep Phu Hin Rong Kla as the one real nature day",
+      "story": "TAT still presents Phu Hin Rong Kla through Lan Hin Taek, cool mountain conditions, and former conflict-era mountain history, which gives it a clearer identity than weaker outer-province filler.",
+      "cultural_significance": "It is the strongest way to add a landscape-and-history contrast to the city stay.",
+      "how_to_participate": "Leave early, check current park conditions, and give the outing a proper half-day or full day.",
+      "insights": [
+        "This is the province's best edited nature extension.",
+        "It deserves its own day instead of being stacked with more city temples."
+      ],
+      "href": "/city/phitsanulok/attractions/phu-hin-rong-kla-national-park/",
+      "cta_label": "See the park guide"
+    }
+  ],
+  "foodie_adventures": [
+    {
+      "dish": "Sukhothai-style tom yum noodles near the temple core",
+      "location": "Hoikha Rimnan Noodles",
+      "story": "TAT's Phitsanulok itinerary still flags Hoikha Rimnan as one of the most practical temple-core meal stops and explicitly points visitors to its Sukhothai tom yum noodles.",
+      "where_to_find": "Wat Yai side of central Phitsanulok.",
+      "price_range": "Budget",
+      "ordering_tips": [
+        "This is best used as a lunch break during the old-town temple sequence.",
+        "Keep the stop simple and city-core focused."
+      ],
+      "href": "/city/phitsanulok/top-10-restaurants/",
+      "cta_label": "See the food guide"
+    },
+    {
+      "dish": "Evening market grazing and dessert stops",
+      "location": "Phitsanulok Ruamjai Market",
+      "story": "TAT's itinerary and night-bazaar framing both keep Ruamjai Market visible as the city's most practical evening food layer near the station side.",
+      "where_to_find": "Railway-station side of Phitsanulok.",
+      "price_range": "Budget",
+      "ordering_tips": [
+        "Use this for dinner in stages rather than locking into one big meal immediately."
+      ],
+      "href": "/city/phitsanulok/top-10-restaurants/",
+      "cta_label": "See the food guide"
+    },
+    {
+      "dish": "Morning dumplings, buns, noodles, and curries",
+      "location": "Kanokphan Phitsanulok",
+      "story": "TAT's 3-day Phitsanulok route still presents Kanokphan as one of the city's breakfast-and-early-lunch classics, especially for dumplings and buns.",
+      "where_to_find": "Phitsanulok city roadside breakfast zone.",
+      "price_range": "Budget",
+      "ordering_tips": [
+        "Go earlier in the day and use it as the meal that starts the city rather than ends it."
+      ],
+      "href": "/city/phitsanulok/top-10-restaurants/",
+      "cta_label": "See the food guide"
+    },
+    {
+      "dish": "Riverside hotel dining with a calmer setting",
+      "location": "Amore Restaurant at Yodia Heritage Hotel",
+      "story": "Yodia's direct site and contact page still keep Amore Restaurant visible on the Nan River side, which makes it a better polished dinner inclusion than a scraped anonymous list entry.",
+      "where_to_find": "Phutthabucha Road, old-center river side.",
+      "price_range": "Mid-range",
+      "ordering_tips": [
+        "Use this when you want one slower sit-down dinner near the old center."
+      ],
+      "href": "/city/phitsanulok/top-10-restaurants/",
+      "cta_label": "See the food guide"
+    }
+  ],
+  "local_insights": [
+    "Phitsanulok is stronger as a city in its own right than as a Sukhothai overflow base.",
+    "Wat Yai should lead the trip, but the old-core sequence is better when Wat Ratchaburana and Wat Nang Phaya stay attached to it.",
+    "The station-side night market does more for the city than forcing one more generic restaurant ranking.",
+    "Wat Chulamani is the cleanest extra temple after the core, not the first one.",
+    "Phu Hin Rong Kla is the one outer-province detour that clearly earns a dedicated day."
+  ],
+  "seasonal_secrets": "November to February is the easiest season overall because temple walking, market evenings, and the drive up toward Phu Hin Rong Kla are all more comfortable. March to May can still work, but the midday city heat turns Phitsanulok into an early-and-late schedule destination. The rainy season can make the province greener and the park side moodier, but road and trail conditions should be rechecked locally before you build the full day around the mountain run.",
+  "budget_reality": "Phitsanulok is not difficult to keep affordable if you stay city-first and resist overbuilding the province. Costs stay modest when the old-town temple block, local breakfast or market meals, and a practical hotel are doing most of the work. The bigger spend comes from private transport, resort-style room choices, or a longer park outing with extra stops that were never necessary in the first place.",
+  "top_attractions": [
+    {
+      "rank": 1,
+      "name": "Wat Phra Si Rattana Mahathat (Wat Yai)",
+      "description": "The city's main sacred stop and still the clearest reason to start a first visit in Phitsanulok itself.",
+      "location": "Naresuan Road, central old-town side",
+      "entrance_fee": "Temple access is generally straightforward; donations and current access details should be checked locally",
+      "highlights": [
+        "Phra Buddha Chinnarat image",
+        "Most important city temple",
+        "Best first stop"
+      ],
+      "href": "/city/phitsanulok/attractions/wat-phra-si-rattana-mahathat/",
+      "cta_label": "See the Wat Yai guide"
+    },
+    {
+      "rank": 2,
+      "name": "Wat Ratchaburana",
+      "description": "The strongest secondary temple after Wat Yai, especially because it sits close enough to stay inside the same old-core walk.",
+      "location": "Nan River side near Wat Yai",
+      "entrance_fee": "Temple donations are customary",
+      "highlights": [
+        "Old city-core temple",
+        "Best paired with Wat Yai",
+        "Nan River setting"
+      ],
+      "href": "/city/phitsanulok/attractions/wat-ratchaburana/",
+      "cta_label": "See the Wat Ratchaburana guide"
+    },
+    {
+      "rank": 3,
+      "name": "Wat Nang Phaya",
+      "description": "A compact old-core temple stop that works because it adds texture to the heritage block without needing its own separate itinerary.",
+      "location": "Opposite the Wat Ratchaburana side of the old center",
+      "entrance_fee": "Temple donations are customary",
+      "highlights": [
+        "Historic temple fabric",
+        "Easy old-core add-on",
+        "Best after Wat Ratchaburana"
+      ],
+      "href": "/city/phitsanulok/attractions/wat-nang-phaya/",
+      "cta_label": "See the Wat Nang Phaya guide"
+    },
+    {
+      "rank": 4,
+      "name": "Wat Chulamani",
+      "description": "The best secondary temple once the old core is already covered and you still want one more serious religious stop in Mueang Phitsanulok.",
+      "location": "Tha Thong side of Mueang Phitsanulok",
+      "entrance_fee": "Temple access is generally straightforward; check locally for any special-event arrangements",
+      "highlights": [
+        "Best secondary temple",
+        "Meaningful add-on after the core",
+        "Still inside the city orbit"
+      ],
+      "href": "/city/phitsanulok/attractions/wat-chulamani/",
+      "cta_label": "See the Wat Chulamani guide"
+    },
+    {
+      "rank": 5,
+      "name": "Phitsanulok Ruamjai Market and Nan River evening side",
+      "description": "The most useful evening city layer because it adds food, movement, and a more current read of Phitsanulok after the temples.",
+      "location": "Railway-station and river-side evening zone",
+      "entrance_fee": "Public market access",
+      "highlights": [
+        "Strongest evening food layer",
+        "Station-side market rhythm",
+        "Best after the temple core"
+      ],
+      "href": "/city/phitsanulok/attractions/phitsanulok-ruamjai-market-and-nan-river/",
+      "cta_label": "See the market guide"
+    },
+    {
+      "rank": 6,
+      "name": "Phu Hin Rong Kla National Park",
+      "description": "The province's strongest edited nature day, built around unusual rock terrain, cool mountain conditions, and historical mountain context.",
+      "location": "Phu Hin Rong Kla mountain area",
+      "entrance_fee": "Protected-area fees can change; verify current conditions before departure",
+      "highlights": [
+        "Lan Hin Taek rock terrain",
+        "Cool-weather mountain contrast",
+        "Best full-day extension"
+      ],
+      "href": "/city/phitsanulok/attractions/phu-hin-rong-kla-national-park/",
+      "cta_label": "See the park guide"
     }
   ],
   "top_restaurants": [
     {
       "rank": 1,
-      "name": "Krua",
-      "description": "Well-rated restaurant serving Chinese and Asian cuisine with authentic flavors. TripAdvisor rating: 4.4/5.",
-      "cuisine_type": "Chinese, Asian",
-      "price_range": "100-300 THB per meal",
+      "name": "Phitsanulok Ruamjai Market",
+      "description": "The best first-night food plan because it reflects the city's actual evening rhythm better than a scraped restaurant ranking.",
+      "cuisine_type": "Street food, snacks, desserts, and mixed local dishes",
+      "price_range": "Budget",
       "highlights": [
-        "Authentic Asian dishes",
-        "4.4 TripAdvisor rating",
-        "Local favorite"
+        "TAT-backed market pick",
+        "Station-side evening food",
+        "Best practical dinner layer"
       ]
     },
     {
       "rank": 2,
-      "name": "Meet Smile",
-      "description": "Casual café and fast food establishment with excellent reviews. TripAdvisor rating: 5/5.",
-      "cuisine_type": "Café, Fast Food",
-      "price_range": "50-200 THB per meal",
+      "name": "Hoikha Rimnan Noodles",
+      "description": "A stronger lunch inclusion than generic list filler because TAT still places it directly inside the temple-core eating sequence.",
+      "cuisine_type": "Noodles, Thai lunch dishes, and desserts",
+      "price_range": "Budget",
       "highlights": [
-        "Perfect TripAdvisor rating",
-        "Quick service",
-        "Casual dining"
+        "TAT itinerary pick",
+        "Near Wat Yai",
+        "Good lunch stop"
       ]
     },
     {
       "rank": 3,
-      "name": "Krua Nannum",
-      "description": "Restaurant specializing in Indian and Asian fusion cuisine. TripAdvisor rating: 4.3/5.",
-      "cuisine_type": "Indian, Asian",
-      "price_range": "150-400 THB per meal",
+      "name": "Kanokphan Phitsanulok",
+      "description": "One of the better breakfast-style inclusions because TAT still frames it around dumplings, buns, noodles, and early-day local rhythm.",
+      "cuisine_type": "Breakfast dishes, dumplings, buns, noodles, and curries",
+      "price_range": "Budget",
       "highlights": [
-        "Indian and Asian fusion",
-        "4.3 TripAdvisor rating",
-        "Diverse menu"
+        "TAT itinerary pick",
+        "Morning-friendly",
+        "Old-school local breakfast logic"
       ]
     },
     {
       "rank": 4,
-      "name": "Hoikha Rimnan",
-      "description": "Traditional Thai and Asian restaurant with authentic local cooking. TripAdvisor rating: 4/5.",
-      "cuisine_type": "Asian, Thai",
-      "price_range": "100-300 THB per meal",
+      "name": "Amore Restaurant",
+      "description": "A calmer river-side dinner option inside Yodia Heritage Hotel when you want one polished sit-down meal near the old center.",
+      "cuisine_type": "Hotel dining and mixed menu",
+      "price_range": "Mid-range",
       "highlights": [
-        "Authentic Thai recipes",
-        "Local favorite",
-        "4 TripAdvisor rating"
+        "Official hotel dining contact",
+        "Nan River side location",
+        "Good polished dinner option"
       ]
     },
     {
       "rank": 5,
-      "name": "Ban Mai Restaurant",
-      "description": "Casual Asian and Thai dining establishment popular with locals and visitors. TripAdvisor rating: 4/5.",
-      "cuisine_type": "Asian, Thai",
-      "price_range": "100-300 THB per meal",
+      "name": "Chaliang Cuisine",
+      "description": "A direct-site restaurant inclusion that helps the page stay grounded in real current operators instead of review-spam copy.",
+      "cuisine_type": "Thai and international all-day dining",
+      "price_range": "Mid-range",
       "highlights": [
-        "Traditional Thai dishes",
-        "Local atmosphere",
-        "4 TripAdvisor rating"
-      ]
-    },
-    {
-      "rank": 6,
-      "name": "Pak Bung Loi Fa (Original)",
-      "description": "The original riverside flying vegetable restaurant specializing in river fish dishes and tom yum with distinctive theatrical presentation.",
-      "cuisine_type": "Thai River Cuisine",
-      "price_range": "150-400 THB per meal",
-      "highlights": [
-        "Famous flying morning glory",
-        "Excellent river fish",
-        "Riverside ambiance"
-      ]
-    },
-    {
-      "rank": 7,
-      "name": "Phitsanulok Night Market",
-      "description": "Sprawling evening market with numerous authentic food stalls serving local specialties and street food.",
-      "cuisine_type": "Thai Street Food",
-      "price_range": "40-150 THB per item",
-      "highlights": [
-        "Authentic kuay tiew hoy khae",
-        "Multiple food vendors",
-        "Lively atmosphere"
-      ]
-    },
-    {
-      "rank": 8,
-      "name": "Rim Nam Food Park",
-      "description": "Open-air riverside food court with multiple vendor options and Nan River views. Popular with locals for dinner and evening drinks.",
-      "cuisine_type": "Thai Mixed",
-      "price_range": "60-200 THB per meal",
-      "highlights": [
-        "Multiple vendors",
-        "Riverside seating",
-        "Local favorite"
+        "Official restaurant page",
+        "All-day dining",
+        "Wat Chan side hotel restaurant"
       ]
     }
   ],
   "top_hotels": [
     {
       "rank": 1,
-      "name": "B2 Phitsanulok Premier Hotel",
-      "description": "Well-rated 3-star hotel offering good value with modern amenities. TripAdvisor rating: 8.7/10.",
-      "price_range": "$19/night (600 THB)",
-      "category": "budget",
+      "name": "Yodia Heritage Hotel",
+      "description": "The clearest old-center riverside stay if temple access and the historical side of town matter most.",
+      "price_range": "Mid-range to upper mid-range",
+      "category": "luxury",
       "highlights": [
-        "8.7 TripAdvisor rating",
-        "Modern rooms",
-        "Excellent value"
+        "Official hotel website",
+        "Nan River location",
+        "Heart of the historical part of the city"
       ]
     },
     {
       "rank": 2,
-      "name": "B2 Phitsanulok Boutique & Budget Hotel",
-      "description": "Budget boutique property combining style with affordability. TripAdvisor rating: 8.3/10.",
-      "price_range": "$17-40/night (540-1,280 THB)",
-      "category": "budget",
+      "name": "Topland Hotel & Convention Centre",
+      "description": "A practical central city-hotel choice when you want a full-service stay near the old core without leaning fully resort-style.",
+      "price_range": "Mid-range",
+      "category": "midrange",
       "highlights": [
-        "Boutique design",
-        "Budget-friendly",
-        "8.3 TripAdvisor rating"
+        "Official hotel website",
+        "Central address",
+        "Dining and convention facilities"
       ]
     },
     {
       "rank": 3,
-      "name": "Nonsi Hotel Phitsanulok",
-      "description": "Mid-range hotel with solid comfort and service. TripAdvisor rating: 8.7/10.",
-      "price_range": "$21/night (670 THB)",
-      "category": "midrange",
+      "name": "Pattara Resort & Spa",
+      "description": "The stronger resort-style option if you want a greener property feel while still staying inside the Phitsanulok city orbit.",
+      "price_range": "Upper mid-range",
+      "category": "luxury",
       "highlights": [
-        "8.7 TripAdvisor rating",
-        "Comfortable rooms",
-        "Central location"
+        "Official hotel website",
+        "City-center resort positioning",
+        "More property-led stay"
       ]
     },
     {
       "rank": 4,
-      "name": "Mayflower Grande Hotel Phitsanulok",
-      "description": "Mid-range hotel offering excellent value with entertainment options. Located near Sergeant Major Thawee Folk Museum. TripAdvisor rating: 8.7/10.",
-      "price_range": "$24-53/night (770-1,700 THB)",
+      "name": "Shinnabhura Historic Boutique Hotel",
+      "description": "A heritage-leaning boutique option on the Wat Chan side when you want character instead of a generic city-room setup.",
+      "price_range": "Mid-range",
       "category": "midrange",
       "highlights": [
-        "8.7 TripAdvisor rating",
-        "Karaoke facilities",
-        "Museum proximity"
+        "Official hotel website",
+        "Historic boutique positioning",
+        "Chaliang Cuisine on site"
       ]
     },
     {
       "rank": 5,
-      "name": "The Imperial Hotel & Convention Centre Phitsanulok",
-      "description": "Full-service mid-range hotel with business facilities and convention spaces. TripAdvisor rating: 8.5/10.",
-      "price_range": "$31/night (990 THB)",
-      "category": "midrange",
+      "name": "HOP INN Phitsanulok",
+      "description": "The strongest simple budget-chain base if you mainly need a reliable room for a short city stop or onward road and rail travel.",
+      "price_range": "Budget",
+      "category": "budget",
       "highlights": [
-        "8.5 TripAdvisor rating",
-        "Convention facilities",
-        "Professional service"
+        "Official hotel website",
+        "Affordable rooms",
+        "Predictable short-stay base"
       ]
     }
   ],
   "travel_tips": [
-    {
-      "title": {
-        "en": "Gateway to Sukhothai",
-        "nl": "Toegangspoort tot Sukhothai",
-        "ja": "スコータイへの玄関口"
-      },
-      "content": {
-        "en": "Phitsanulok is the nearest city with an airport and train station to Sukhothai Historical Park (60 km away). Local buses run regularly, or rent a motorbike for independence.",
-        "nl": "Phitsanulok is de dichtstbijzijnde stad met een luchthaven en treinstation bij Sukhothai Historical Park (60 km afstand). Lokale bussen rijden regelmatig, of huur een motor voor onafhankelijkheid.",
-        "ja": "ピッサヌロークはスコータイ歴史公園に最も近い空港と鉄道駅がある街です。スコータイまでバスで約1時間、日帰り旅行の拠点に最適です。"
-      }
-    },
-    {
-      "title": {
-        "en": "The Flying Vegetable Show",
-        "nl": "De Vliegende Groente Show",
-        "ja": "空飛ぶ野菜ショー"
-      },
-      "content": {
-        "en": "Do not miss seeing the pak bung loi fa (flying morning glory) performance at one of the riverside restaurants. The cook launches the stir-fry through the air and a waiter catches it on a plate.",
-        "nl": "Mis de pak bung loi fa (vliegende morning glory) show niet bij een van de rivierrestaurants. De kok lanceert de roerbak door de lucht en een ober vangt het op een bord.",
-        "ja": "パックブン・ロイファー（空飛ぶ空心菜）のパフォーマンスは必見です。川沿いのレストランで、炒めた空心菜を空中に投げてキャッチする技を披露してくれます。"
-      }
-    },
-    {
-      "title": {
-        "en": "Visit Wat Yai Early Morning",
-        "nl": "Bezoek Wat Yai vroeg in de ochtend",
-        "ja": "ワット・ヤイは早朝に"
-      },
-      "content": {
-        "en": "The Chinnarat Buddha is most atmospheric during early morning prayers when monks chant and locals offer alms. Arrive by 7 AM for a spiritual experience few tourists witness.",
-        "nl": "De Chinnarat Boeddha is het meest sfeervol tijdens de vroege ochtendgebeden wanneer monniken chanten en locals aalmoezen aanbieden. Kom voor 7 uur aan voor een spirituele ervaring die weinig toeristen meemaken.",
-        "ja": "チンナラート仏は、僧侶が読経する早朝が最も神聖な雰囲気を感じられます。6時〜7時頃に訪れると、地元の参拝者に混じって厳かな体験ができます。"
-      }
-    },
-    {
-      "title": {
-        "en": "River Activities",
-        "nl": "Rivieractiviteiten",
-        "ja": "リバーアクティビティ"
-      },
-      "content": {
-        "en": "Take a longtail boat ride on the Nan River for a different perspective of the city. Boats can be hired near Naresuan Bridge for short trips past temples and floating houses.",
-        "nl": "Maak een longtailboottocht op de Nan-rivier voor een ander perspectief van de stad. Boten zijn te huur bij de Naresuan Brug voor korte tochten langs tempels en drijvende huizen.",
-        "ja": "ナーン川でロングテールボートに乗ると、街を違った角度から眺められます。水上マーケットや川沿いのコミュニティを巡るツアーもあります。"
-      }
-    },
-    {
-      "title": {
-        "en": "Cool Season National Parks",
-        "nl": "Nationale parken in het koele seizoen",
-        "ja": "涼しい季節の国立公園"
-      },
-      "content": {
-        "en": "Plan trips to Phu Hin Rong Kla and Thung Salaeng Luang national parks between November and February. The cool weather and misty mornings make hiking truly spectacular.",
-        "nl": "Plan trips naar de nationale parken Phu Hin Rong Kla en Thung Salaeng Luang tussen november en februari. Het koele weer en mistige ochtenden maken wandelen werkelijk spectaculair.",
-        "ja": "プーヒンロンクラーやトゥンサレーンルアン国立公園は11月〜2月の涼しい季節に訪れるのがベストです。高原のススキ畑や雲海の風景が楽しめます。"
-      }
-    }
+    "Start with the Wat Yai side before you decide whether the city deserves another temple, a museum, or a market evening.",
+    "Do not turn Phitsanulok into a rushed Sukhothai waiting room. The old center can justify its own half-day or more.",
+    "Use the evening market layer instead of forcing one extra polished dinner every night.",
+    "Keep Phu Hin Rong Kla as a dedicated outing and recheck current park conditions before leaving town.",
+    "Choose your hotel by trip shape: old-center riverside for heritage and evening walkability, west-side practical hotels for onward travel ease."
   ],
   "best_time_to_visit": {
-    "en": "November to February when the weather is cool and dry, ideal for temple visits and national park excursions. The Nan River is at its most picturesque after the rainy season. Avoid March to May when temperatures regularly exceed 40 degrees Celsius.",
-    "nl": "November tot februari wanneer het weer koel en droog is, ideaal voor tempelbezoeken en uitstapjes naar nationale parken. De Nan-rivier is het schilderachtigst na het regenseizoen. Vermijd maart tot mei wanneer temperaturen regelmatig boven de 40 graden Celsius stijgen.",
-    "ja": "11月〜2月の涼しく乾燥した季節がベストで、寺院巡りや国立公園でのハイキングに最適です。12月〜1月はプーヒンロンクラーの雲海が見頃です。"
+    "season": "Cool season",
+    "months": "November to February",
+    "weather": "Cooler mornings, easier temple walks, and more comfortable driving conditions for mountain-side day trips.",
+    "reasons": "This is the cleanest season for combining the old temple core, market evenings, and one edited nature day without building the whole itinerary around heat or heavy rain."
   },
   "budget_info": {
-    "budget_per_day": {
-      "en": "$15-25",
-      "nl": "$15-25",
-      "ja": "1日1,500〜2,500円"
-    },
-    "midrange_per_day": {
-      "en": "$40-70",
-      "nl": "$40-70",
-      "ja": "1日4,000〜7,000円"
-    },
-    "luxury_per_day": {
-      "en": "$100+",
-      "nl": "$100+",
-      "ja": "1日10,000円以上"
+    "daily_budget": {
+      "budget": "Phitsanulok is manageable on a modest budget if you use market meals, local breakfast stops, and a practical hotel base.",
+      "mid": "Mid-range spending usually means a better located city hotel, one calmer sit-down dinner, and easier transport for an outer-province day.",
+      "luxury": "Higher spend mostly goes into riverside or resort-style rooms and private transport rather than big-city luxury inventory."
     }
   },
-  "enhanced_at": "2026-02-22T10:00:00.000Z",
-  "overview": "Phitsanulok is a vibrant gateway city straddling central and northern Thailand, renowned as a spiritual and cultural hub along the picturesque Nan River. The city's crown jewel is Wat Phra Si Rattana Mahathat, home to one of Thailand's most revered Buddha images and a masterpiece of riverside temple architecture. With a population of 84,000, Phitsanulok retains an authentic, unhurried atmosphere where ancient Buddhist traditions thrive alongside lively night markets and exceptional local cuisine. The city serves as an ideal base for exploring both the historical sites of the north and the cultural riches of central Thailand.",
-  "thingsToDo": "The must-see Wat Phra Si Rattana Mahathat (Wat Yai) is free to enter and features one of Thailand's most beautiful Buddha images in an active worship setting right on the riverbank. Visitors typically make small donations (10-100 THB/$0.30-3) as a form of respect. The Sergeant Major Thawee Folk Museum (50 THB/$1.50 entrance) offers fascinating insights into rural Thai life through a personal collection of traditional artifacts and crafts. For a unique cultural experience, visit the Buddha Casting Foundry at Baan Khun Phra to witness the ancient lost-wax casting technique performed by working artisans (free entry, donations encouraged). The Nan River Promenade is perfect for evening strolls with riverside temple reflections and dining options, while the Phitsanulok Night Market delivers authentic street food and local noodle soups. For something truly distinctive, visit the Flying Vegetable Restaurant (Pak Bung Loi Fa) which combines riverside dining with the entertaining show of tossed fried morning glory. Nature enthusiasts should explore Phu Hin Rong Kla National Park (200 THB/$6 entrance) famous for its mushroom rock formations and cool mountain climate, or Thung Salaeng Luang National Park (200 THB/$6) where wild elephants roam through savanna grasslands and pine forests.",
-  "whereToStay": "Phitsanulok offers accommodation options across all budget levels, with most hotels concentrated near the city center within walking distance of the Nan River and main attractions. Budget travelers can find comfortable guesthouses and basic hotels for $15-30 per night, while mid-range hotels typically offer better amenities and river views at $30-80 nightly. The city center area near Wat Phra Si Rattana Mahathat is the most convenient location for accessing temples, markets, and riverside dining. For those seeking more comfort, several 3-4 star hotels provide air conditioning, swimming pools, and on-site restaurants at reasonable prices. Luxury options with convention facilities and premium dining are available for $80+ per night, offering panoramic city views and comprehensive amenities.",
+  "thingsToDo": "Start with Wat Phra Si Rattana Mahathat, then keep the old-core sequence tight with Wat Ratchaburana and Wat Nang Phaya. Use the Nan River and Ruamjai Market side for the evening meal and city rhythm, add Wat Chulamani only if you still want one more serious temple, and save the full out-of-town energy for Phu Hin Rong Kla National Park rather than stacking multiple weaker province detours.",
+  "whereToStay": "The strongest first base is usually the old-center or river side, where Wat Yai, the Nan River, and evening food stops are easier to fold into the stay. Move toward the west-side city hotels or budget chains if you care more about parking, road access, airport convenience, or a short overnight with minimal friction.",
   "whereToEat": [
     {
-      "name": "Phitsanulok Night Market (Phaya Sua Road)",
-      "cuisine": "Thai Street Food",
-      "priceRange": "$",
-      "description": "Sprawling night market with dozens of food stalls serving noodles, grilled meats, desserts, and the local kuay tiew hoy khae noodle soup. Most authentic local dining experience."
+      "name": "Phitsanulok Ruamjai Market",
+      "cuisine": "Street food and mixed local dishes",
+      "priceRange": "Budget",
+      "description": "Best for an edited city evening built around market food rather than one fixed restaurant."
     },
     {
-      "name": "Pak Bung Loi Fa (Original)",
-      "cuisine": "Thai River Cuisine",
-      "priceRange": "$$",
-      "description": "Original riverside flying vegetable restaurant on Nan River bank. Famous for theatrical stir-fried morning glory presentation plus excellent river fish dishes and tom yum."
+      "name": "Hoikha Rimnan Noodles",
+      "cuisine": "Noodles and Thai lunch dishes",
+      "priceRange": "Budget",
+      "description": "A practical temple-core lunch stop near Wat Yai."
     },
     {
-      "name": "Krua",
-      "cuisine": "Chinese, Asian",
-      "priceRange": "$",
-      "description": "Well-rated restaurant serving authentic Chinese and Asian cuisine. TripAdvisor rating: 4.4/5. Local favorite."
+      "name": "Kanokphan Phitsanulok",
+      "cuisine": "Breakfast dishes, dumplings, buns, noodles, and curries",
+      "priceRange": "Budget",
+      "description": "A useful early-day local meal if you want the city to start with food, not only temples."
     },
     {
-      "name": "Krua Nannum",
-      "cuisine": "Indian, Asian",
-      "priceRange": "$$",
-      "description": "Indian and Asian fusion restaurant with diverse menu options. TripAdvisor rating: 4.3/5."
+      "name": "Amore Restaurant",
+      "cuisine": "Hotel dining and mixed menu",
+      "priceRange": "Mid-range",
+      "description": "A calmer sit-down dinner choice near the old-center river side."
     },
     {
-      "name": "Meet Smile",
-      "cuisine": "Café, Fast Food",
-      "priceRange": "$",
-      "description": "Casual café and fast food establishment with excellent service. Perfect 5/5 TripAdvisor rating."
-    },
-    {
-      "name": "Rim Nam Food Park",
-      "cuisine": "Thai Mixed",
-      "priceRange": "$",
-      "description": "Open-air riverside food court with multiple vendor options overlooking Nan River. Popular with locals for dinner and evening drinks."
-    },
-    {
-      "name": "Ban Mai Restaurant",
-      "cuisine": "Asian, Thai",
-      "priceRange": "$",
-      "description": "Casual Thai and Asian dining with traditional local recipes. TripAdvisor rating: 4/5."
-    },
-    {
-      "name": "Hoikha Rimnan",
-      "cuisine": "Thai, Asian",
-      "priceRange": "$",
-      "description": "Traditional Thai and Asian restaurant with authentic local cooking. TripAdvisor rating: 4/5."
+      "name": "Chaliang Cuisine",
+      "cuisine": "Thai and international all-day dining",
+      "priceRange": "Mid-range",
+      "description": "A direct-site restaurant option that adds one dependable hotel-dining inclusion."
     }
   ],
   "topHotels": [
     {
-      "name": "B2 Phitsanulok Premier Hotel",
-      "category": "budget",
-      "priceRange": "$19/night",
-      "area": "City Center",
-      "description": "Budget-friendly 3-star hotel with modern amenities and 8.7/10 TripAdvisor rating. Good value for basic comfort accommodations."
-    },
-    {
-      "name": "B2 Phitsanulok Boutique & Budget Hotel",
-      "category": "budget",
-      "priceRange": "$17-40/night",
-      "area": "City Center",
-      "description": "Boutique budget hotel combining style with affordability. 8.3/10 TripAdvisor rating. Good for design-conscious budget travelers."
-    },
-    {
-      "name": "Nonsi Hotel Phitsanulok",
-      "category": "midrange",
-      "priceRange": "$21/night",
-      "area": "City Center",
-      "description": "Mid-range hotel with comfortable rooms and solid service. 8.7/10 TripAdvisor rating. Convenient city center location."
-    },
-    {
-      "name": "Mayflower Grande Hotel Phitsanulok",
-      "category": "midrange",
-      "priceRange": "$24-53/night",
-      "area": "Near Sergeant Major Thawee Folk Museum",
-      "description": "Mid-range hotel with excellent value and entertainment options. 8.7/10 TripAdvisor rating. Features karaoke rooms."
-    },
-    {
-      "name": "The Imperial Hotel & Convention Centre Phitsanulok",
-      "category": "midrange",
-      "priceRange": "$31/night",
-      "area": "City Center",
-      "description": "Full-service mid-range hotel with convention facilities. 8.5/10 TripAdvisor rating. Professional service and business amenities."
+      "name": "Yodia Heritage Hotel",
+      "category": "luxury",
+      "priceRange": "Mid-range to upper mid-range",
+      "area": "Old-center Nan River side",
+      "description": "The strongest heritage-leaning riverside stay for a first Phitsanulok trip."
     },
     {
       "name": "Topland Hotel & Convention Centre",
       "category": "midrange",
-      "priceRange": "$30-45/night",
-      "area": "City Center",
-      "description": "Large hotel with rooftop pool, connected shopping mall, and panoramic city/river views. Convenient for exploring Phitsanulok."
-    },
-    {
-      "name": "Lithai Guesthouse",
-      "category": "budget",
-      "priceRange": "$12-18/night",
-      "area": "East bank of Nan River",
-      "description": "Friendly backpacker guesthouse run by local family. Basic rooms but great atmosphere and excellent travel advice."
+      "priceRange": "Mid-range",
+      "area": "Central old-center side",
+      "description": "A practical full-service city-hotel base close to the main temple quarter."
     },
     {
       "name": "Pattara Resort & Spa",
+      "category": "luxury",
+      "priceRange": "Upper mid-range",
+      "area": "Wider city-center resort side",
+      "description": "Best when the property itself matters more than pure walkability."
+    },
+    {
+      "name": "Shinnabhura Historic Boutique Hotel",
       "category": "midrange",
-      "priceRange": "$35-50/night",
-      "area": "Outskirts of town",
-      "description": "Modern resort with spacious rooms, pool, and spa facilities. Good for those seeking quiet accommodation with own transport."
+      "priceRange": "Mid-range",
+      "area": "Wat Chan side",
+      "description": "A character-led boutique stay with a stronger sense of place than generic city hotels."
+    },
+    {
+      "name": "HOP INN Phitsanulok",
+      "category": "budget",
+      "priceRange": "Budget",
+      "area": "Siharat Decho Chai Road / practical city side",
+      "description": "A reliable budget-chain option for short stays and onward travel."
     }
   ],
-  "gettingAround": "Phitsanulok is a compact city best navigated by tuk-tuk, the most common form of local transport where short rides typically cost 40-60 THB ($1.20-1.80). Songthaews (shared minibuses) run set routes for 10-20 THB ($0.30-0.60) and are economical for longer distances within the city. Motorbike rentals are widely available for independent travelers at 200-300 THB daily ($6-9), providing flexibility to explore surrounding temples and attractions. Grab (the Southeast Asian ride-hailing app) operates in Phitsanulok for more reliable, metered fares. For day trips to national parks or nearby towns like Sukhothai (60 km away), consider hiring a motorbike (200-300 THB/day) or joining organized tours. The city's relatively small size means most central attractions are within 3-5 km of each other.",
-  "bestTimeToVisit": "The ideal time to visit Phitsanulok is November through February, when cool, dry weather dominates with temperatures ranging from 15-28°C (59-82°F). December and January are particularly pleasant with minimal rainfall and comfortable conditions for temple visits and outdoor activities. March through May brings hot, dry weather with temperatures climbing above 35°C (95°F), manageable but less comfortable for sightseeing. The southwest monsoon (May-October) brings heavy rains, particularly July-September, which can cause minor flooding and make national park visits challenging. However, the rainy season offers lush green landscapes and fewer tourists. Avoid visiting during October when flooding risks are highest in the region. Phitsanulok hosts various local festivals aligned with Buddhist calendar events, particularly around Songkran (April) and Loy Krathong (November), which bring cultural celebrations to the riverside.",
-  "budgetGuide": {
-    "budget": {
-      "min": 20,
-      "max": 40,
-      "description": "Budget travelers staying in basic guesthouses ($12-18/night or 400-600 THB), eating street food and night market meals (40-150 THB per item), using tuk-tuks and songthaews ($1.20-2 for short rides), and visiting free temple attractions with modest donations (10-100 THB) can comfortably explore Phitsanulok for $20-40 daily."
-    },
-    "midrange": {
-      "min": 50,
-      "max": 100,
-      "description": "Mid-range travelers staying in 3-star hotels ($20-50/night or 640-1,600 THB), dining at casual restaurants (150-400 THB per meal), paying for museum and national park entrances (50-200 THB), and using Grab or occasional longer tuk-tuk rides ($3-5) typically spend $50-100 daily."
-    },
-    "luxury": {
-      "min": 150,
-      "max": 400,
-      "description": "Luxury travelers enjoying 4-5 star hotels ($80-200/night or 2,560-6,400 THB), fine dining restaurants (800-2,000 THB per meal), private tours and guides ($80-150 daily), and premium transportation expect daily costs of $150-400 or more."
-    }
-  },
-  "safetyTips": "Phitsanulok is generally a safe city for tourists with a high safety index of 80-85 and minimal violent crime. However, petty theft does occur in crowded markets and night bazaars, so keep valuables secure and avoid displaying expensive items. During the wet season (May-October), be aware of dengue fever risks—use mosquito repellent containing DEET and wear long sleeves during dawn and dusk when mosquitoes are most active. Minor flooding can affect low-lying areas during heavy rains in September-October; check local conditions before visiting riverside areas. Tap water is generally not recommended for drinking; purchase bottled water readily available throughout the city. Respect temple customs: dress modestly (covering shoulders and knees), remove shoes when entering sacred areas, and never disrespect Buddha images. Avoid carrying large amounts of cash; ATMs are abundant in the city center.",
+  "gettingAround": "The old temple core is compact enough for short rides and some walking once you are on the Wat Yai side. Phitsanulok Airport sits outside the main heritage block, and the railway-station side is separate enough that hotel choice affects how often you need transport. Use short local rides for cross-city moves and treat Phu Hin Rong Kla as a deliberate day-trip drive rather than something to improvise late.",
+  "bestTimeToVisit": "November to February is the easiest overall fit for Phitsanulok because temple walks, market evenings, and the drive toward Phu Hin Rong Kla are all more comfortable. Hot months still work if you keep sightseeing for early and late hours. The rainy season can be attractive for greener mountain scenery, but park-side conditions and timing should be rechecked locally.",
+  "safetyTips": "Phitsanulok itself is usually straightforward, but active temples still require respectful dress and behavior, and market areas still deserve normal city-level care with valuables. If you are driving to Phu Hin Rong Kla or other outer routes, build in weather margin and recheck current access conditions before departure rather than assuming old guide data is still accurate.",
   "faq": [
     {
-      "question": "How much time do I need to spend in Phitsanulok?",
-      "answer": "Most visitors spend 1-2 days exploring main attractions like Wat Phra Si Rattana Mahathat, the night market, and the Buddha Casting Foundry. If adding national park visits or day trips to Sukhothai (60 km away), allocate 2-3 days. The city is best as a base for exploring the wider region rather than a destination for extended stays."
+      "question": "How many nights do you need in Phitsanulok?",
+      "answer": "One night is enough for the temple core and a market evening, but two nights works better if you also want Wat Chulamani or a proper Phu Hin Rong Kla day."
     },
     {
-      "question": "What is the entrance fee for Wat Phra Si Rattana Mahathat?",
-      "answer": "Wat Phra Si Rattana Mahathat is completely free to enter, though visitors typically make small donations (10-100 THB/$0.30-3) as a form of respect. The temple welcomes daily visitors and operates as an active worship site."
+      "question": "What is the best first thing to do in Phitsanulok?",
+      "answer": "Start with Wat Phra Si Rattana Mahathat, then keep the old-core temples attached to that first visit instead of scattering them across multiple half-days."
     },
     {
-      "question": "How do I get from Bangkok to Phitsanulok?",
-      "answer": "The most convenient option is domestic flight (1 hour, approximately 1,600-2,560 THB/$50-80), though buses are available (5-6 hours, 320-480 THB/$10-15) from Bangkok's Northern Terminal. Train travel takes 5-7 hours with overnight sleeper options available. Most visitors find flying most practical despite slightly higher costs."
+      "question": "Is Phitsanulok only a gateway city?",
+      "answer": "No. It can function that way, but the city is stronger when you use its own temple core, river-side evening layer, and food stops before thinking about onward travel."
     },
     {
-      "question": "What are typical transport costs in Phitsanulok?",
-      "answer": "Tuk-tuk short rides cost 40-60 THB ($1.20-1.80), songthaews (shared minibuses) 10-20 THB ($0.30-0.60), and motorbike rentals 200-300 THB daily ($6-9). Airport transfers take 15-20 minutes and cost approximately 150-250 THB via tuk-tuk or 300-400 THB via private taxi."
+      "question": "Is Phu Hin Rong Kla worth doing from Phitsanulok?",
+      "answer": "Yes, if you want one real nature day. It is the strongest edited outer-province extension, but it deserves its own block of time rather than being added casually."
     },
     {
-      "question": "When is the best time to visit Phitsanulok?",
-      "answer": "November through February is ideal with cool, dry weather (15-28°C/59-82°F). December and January are particularly pleasant. March-May brings hot, dry weather (35°C+/95°F+). May-October is the rainy season with heavy rainfall July-September, though it offers lush landscapes and fewer tourists. Avoid October due to highest flooding risk."
+      "question": "Where should you stay in Phitsanulok?",
+      "answer": "Stay on the old-center or river side for temples and evening food, or use a more practical city hotel if you mainly need easy parking, airport access, or a short overnight."
     }
   ],
   "practicalInfo": {
     "bestMonths": [
-      "November",
-      "December",
-      "January",
-      "February"
+      "Nov",
+      "Dec",
+      "Jan",
+      "Feb"
     ],
-    "nearestAirport": "Phitsanulok International Airport (PHS), located in the city",
-    "travelTimeFromAirport": "15-20 minutes by tuk-tuk or car to city center",
+    "nearestAirport": "Phitsanulok Airport",
+    "travelTimeFromAirport": "Usually a short city transfer, depending on hotel area and traffic",
     "localTransport": [
-      "Tuk-tuk (40-60 THB per short ride)",
-      "Songthaew (10-20 THB per ride)",
-      "Motorbike rental (200-300 THB daily)",
-      "Grab app",
-      "Walking (city center is compact)"
-    ]
-  },
-  "enrichedAt": "2026-02-22T12:59:05.804Z",
-  "seasonal_secrets": {
-    "best_times": {
-      "November-February (Best)": "The ideal time to visit Phitsanulok is November through February, when cool, dry weather dominates with temperatures ranging from 15-28°C (59-82°F). December and January are particularly pleasant with minimal rainfall and comfortable conditions for temple visits and outdoor activities.",
-      "March-May (Hot Season)": "Hot and humid, 30-38°C. Cheaper accommodation and fewer crowds — worth it if you can handle the heat.",
-      "June-October (Green Season)": "Frequent afternoon showers. Lush landscapes and good deals — rain usually falls in short afternoon bursts."
-    },
-    "local_festivals": [
-      "Phra Buddha Chinnarat Fair (January) - major temple festival at Wat Phra Si Rattana Mahathat",
-      "Loy Krathong Festival",
-      "King's Birthday (Father's Day - Dec 5)",
-      "New Year celebrations",
-      "Makha Bucha Day",
-      "Chinese New Year (varies)",
-      "Songkran Water Festival (April 13-15) - celebrated nationwide"
+      "Short local rides work best for cross-city moves",
+      "Walking is possible in the old temple core once you are there",
+      "Private car or driver is the practical fit for Phu Hin Rong Kla"
     ],
-    "seasonal_foods": {
-      "cool": "Street food markets at their best — Pad Thai, Som Tam, and fresh seafood. Local favorites include Flying Vegetable Restaurant (Phak Bung Loi Fa) and Phitsanulok Night Market (Phaya Sua Road).",
-      "hot": "Thai iced tea, coconut ice cream, and cold noodle salads. Local favorites include Flying Vegetable Restaurant (Phak Bung Loi Fa) and Phitsanulok Night Market (Phaya Sua Road).",
-      "rainy": "Tom Yum Goong and warming curries are perfect for rainy days. Local favorites include Flying Vegetable Restaurant (Phak Bung Loi Fa) and Phitsanulok Night Market (Phaya Sua Road)."
-    },
-    "insider_tips": {
-      "Peak season": "November-February is peak season — book accommodation 2-4 weeks ahead for the best prices.",
-      "Rainy season": "Rain usually falls in short afternoon bursts — mornings are often sunny and great for exploring Phitsanulok.",
-      "Wat Phra Si Rattana Mahathat": "Visit Wat Phra Si Rattana Mahathat during the cool season for the most comfortable experience. Early morning visits beat the heat and the crowds."
-    }
+    "arrival": "Phitsanulok is served by airport, rail, and highway access, which is exactly why it is often underestimated as a real city stop.",
+    "transport": "Use hotel location intelligently: old-center stays reduce the need for repeated rides, while park or airport-focused plans benefit from easier road-side bases.",
+    "planning": "Build the trip in layers: old-core temples first, one market evening second, then only one serious outer-city extension."
   },
-  "top_attractions": [
+  "contentSources": [
     {
-      "rank": 1,
-      "name": "Wat Phra Si Rattana Mahathat (Wat Yai)",
-      "description": "The city's most important temple featuring one of Thailand's most revered Buddha images on the banks of the Nan River. An active worship site with impressive riverside temple architecture.",
-      "location": "Riverside, city center",
-      "entrance_fee": "Free (donations 10-100 THB appreciated)",
-      "highlights": [
-        "Revered Phra Si Rattana Mahathat Buddha image",
-        "Riverside location with temple reflections",
-        "Active worship site"
-      ]
+      "type": "tourism-office",
+      "title": "Phitsanulok",
+      "creator": "Tourism Authority of Thailand",
+      "url": "https://www.tourismthailand.org/Destinations/Provinces/Phitsanulok/112",
+      "description": "Used for official province framing and the current hierarchy of city and province highlights."
     },
     {
-      "rank": 2,
-      "name": "Sergeant Major Thawee Folk Museum",
-      "description": "Private museum showcasing traditional rural Thai life through extensive collections of artifacts, crafts, and household items. Offers genuine insights into local heritage and cultural practices.",
-      "location": "Near city center, opposite Naresuan University",
-      "entrance_fee": "50 THB ($1.50)",
-      "highlights": [
-        "Personal collection of traditional artifacts",
-        "Rural Thai life exhibits",
-        "Authentic cultural experience"
-      ]
+      "type": "tourism-office",
+      "title": "Experiencing Phitsanulok 3 Days and 2 Nights",
+      "creator": "Tourism Authority of Thailand",
+      "url": "https://www.tourismthailand.org/Articles/https-www-tourismthailand-org-articles-experiencing-phitsanulok-3-days-and-2-nights",
+      "description": "Used for the city-core temple sequence, market-side food logic, and specific local food and heritage stop references."
     },
     {
-      "rank": 3,
-      "name": "Phu Hin Rong Kla National Park",
-      "description": "Mountain national park famous for distinctive mushroom rock formations and cool climate. Located about 35-40 km from Phitsanulok with scenic hiking trails.",
-      "location": "35-40 km east of Phitsanulok",
-      "entrance_fee": "200 THB ($6)",
-      "highlights": [
-        "Mushroom rock formations",
-        "Cool mountain climate",
-        "Scenic hiking trails"
-      ]
+      "type": "tourism-office",
+      "title": "Phitsanulok's Vibrant Night Bazaars",
+      "creator": "Tourism Authority of Thailand",
+      "url": "https://www.tourismthailand.org/Articles/phitsanulok-s-vibrant-night-bazaars",
+      "description": "Used for current night-bazaar and evening-market framing."
     },
     {
-      "rank": 4,
-      "name": "Thung Salaeng Luang National Park",
-      "description": "Vast national park with diverse ecosystems featuring wild elephants, pine forests, and savanna grasslands. About 60 km from the city, ideal for nature enthusiasts.",
-      "location": "60 km north of Phitsanulok",
-      "entrance_fee": "200 THB ($6)",
-      "highlights": [
-        "Wild elephant populations",
-        "Pine forests and savanna",
-        "Diverse wildlife viewing"
-      ]
+      "type": "tourism-office",
+      "title": "Wat Phra Si Rattana Mahathat",
+      "creator": "Tourism Authority of Thailand",
+      "url": "https://www.tourismthailand.org/Attraction/wat-phra-si-rattana-mahathat",
+      "description": "Used as the official attraction reference for Wat Yai."
     },
     {
-      "rank": 5,
-      "name": "Buddha Casting Foundry (Baan Khun Phra)",
-      "description": "Working foundry demonstrating the ancient lost-wax casting technique used to create Buddha images. Visitors can observe artisans at work and purchase Buddha images.",
-      "location": "Within city area",
-      "entrance_fee": "Free (purchasing items optional)",
-      "highlights": [
-        "Live lost-wax casting demonstrations",
-        "Artisan workshops",
-        "Buddha image purchases available"
-      ]
+      "type": "tourism-office",
+      "title": "Wat Ratchaburana",
+      "creator": "Tourism Authority of Thailand",
+      "url": "https://www.tourismthailand.org/Attraction/wat-ratchaburana",
+      "description": "Used as the official attraction reference for Wat Ratchaburana."
     },
     {
-      "rank": 6,
-      "name": "Nan River Promenade",
-      "description": "Riverside walking path perfect for evening strolls with views of temple reflections and dining options along the water. Popular local gathering spot.",
-      "location": "Along the Nan River, city center",
-      "entrance_fee": "Free",
-      "highlights": [
-        "River views and temple reflections",
-        "Evening stroll atmosphere",
-        "Riverside dining options"
-      ]
+      "type": "tourism-office",
+      "title": "LAN HIN TAEK, THE AMAZING ROCK TERRAIN, PHU HIN RONG KLA, PHITSANULOK",
+      "creator": "Tourism Authority of Thailand",
+      "url": "https://www.tourismthailand.org/Articles/lan-hin-taek-the-amazing-rock-terrain-phu-hin-rong-kla-phitsanulok",
+      "description": "Used for the park's rock terrain, mountain setting, and historical context."
     },
     {
-      "rank": 7,
-      "name": "Phitsanulok Night Market (Phaya Sua Road)",
-      "description": "Sprawling evening market with dozens of food stalls serving noodles, grilled meats, desserts, and the signature kuay tiew hoy khae local noodle soup. Most authentic local dining experience.",
-      "location": "Phaya Sua Road, city center",
-      "entrance_fee": "Free to enter",
-      "highlights": [
-        "Authentic Thai street food",
-        "Local kuay tiew hoy khae noodle soup",
-        "Lively evening atmosphere"
-      ]
+      "type": "tourism-office",
+      "title": "Temple of Wat Phra Si Rattana Mahathat",
+      "creator": "HOP INN Hotel",
+      "url": "https://www.hopinnhotel.com/attractions/temple-of-wat-phra-si-rattana-mahathat",
+      "description": "Used for supporting current practical context around Wat Yai."
     },
     {
-      "rank": 8,
-      "name": "Flying Vegetable Restaurant (Pak Bung Loi Fa)",
-      "description": "Iconic riverside dining venue famous for theatrical presentation of stir-fried morning glory tossed through the air from wok to plate. Operating since the 1960s.",
-      "location": "Nan River bank",
-      "entrance_fee": "N/A - Restaurant",
-      "highlights": [
-        "Famous flying vegetable show",
-        "Riverside ambiance",
-        "River fish dishes and tom yum"
-      ]
+      "type": "hotel",
+      "title": "Yodia Heritage Hotel",
+      "creator": "Yodia Heritage Hotel",
+      "url": "https://yodiaheritagehotel.com/",
+      "description": "Used for the old-center riverside hotel positioning and address details."
+    },
+    {
+      "type": "restaurant",
+      "title": "Yodia Heritage Hotel Contacts",
+      "creator": "Yodia Heritage Hotel",
+      "url": "https://yodiaheritagehotel.com/contacts/",
+      "description": "Used for direct confirmation of Amore Restaurant and current contact details."
+    },
+    {
+      "type": "hotel",
+      "title": "Topland Hotel & Convention Centre",
+      "creator": "Topland Hotel & Convention Centre",
+      "url": "https://www.toplandhotel.com/",
+      "description": "Used for direct central-hotel positioning, address, and contact details."
+    },
+    {
+      "type": "hotel",
+      "title": "Pattara Resort & Spa",
+      "creator": "Pattara Resort & Spa",
+      "url": "https://www.pattararesort.com/",
+      "description": "Used for direct city-resort positioning in Phitsanulok."
+    },
+    {
+      "type": "hotel",
+      "title": "Chaliang Cuisine At Shinnabhura Historic Boutique Hotel",
+      "creator": "Shinnabhura Historic Boutique Hotel",
+      "url": "https://shinnabhura.com/chaliang-cuisine.html",
+      "description": "Used for direct restaurant and boutique-hotel confirmation."
+    },
+    {
+      "type": "hotel",
+      "title": "HOP INN Phitsanulok",
+      "creator": "HOP INN Hotel",
+      "url": "https://www.hopinnhotel.com/our-hotels/hop-inn-phitsanulok",
+      "description": "Used for current budget-hotel address and property details."
     }
   ],
-  "factchecked_at": "2026-03-08T18:41:30.078Z",
-  "translations": {
-    "nl": {
-      "enhanced_description": "Ik arriveerde in Phitsanulok bij schemering, de Nan-rivier ving het laatste oranje licht op terwijl woonboten en drijvende restaurants zachtjes deinden langs de oevers. De meeste reizigers passeren deze stad op weg naar Sukhothai of de noordelijke bergdorpjes, en dat is hun verlies. Phitsanulok, of \"Phitlok\" zoals de locals het noemen, is een echte Thaise rivierstad met een ziel die zich openbaart aan iedereen die bereid is om te vertragen. Mijn eerste stop was Wat Phra Si Rattana Mahathat, eenvoudig bekend als Wat Yai, de grote tempel aan de rivieroever die Phra Phuttha Chinnarat herbergt, algemeen beschouwd als het mooiste Boeddhabeeld in Thailand.\n\nStaand voor de Chinnarat Boeddha begreep ik waarom Thaise mensen van over het hele land hierheen reizen om hun respect te betuigen. Het bronzen beeld uit de Sukhothai-periode zit in de houding van het onderwerpen van Mara, zijn vlamachtige halo uniek sierlijk, het gouden oppervlak lijkt te gloeien met een innerlijke warmte in de kaarsverlichte viharn. Thaise families knielden op de koele marmeren vloer en drukten bladgoud op kleine Boeddha-amuletten, terwijl de zoete geur van jasmijnkransen de lucht vulde. Het is een beeld dat zo vereerd wordt dat er een kopie werd gemaakt voor Bangkok's Marmeren Tempel, maar locals zullen je met stille trots vertellen dat niets het origineel evenaart.\n\nNa de tempel liep ik langs de Nan-rivierpromenade richting de nachtmarkt op Phaya Sua Road. De nachtmarkt van Phitsanulok is een van de best bewaarde culinaire geheimen van centraal-Thailand. Ik werkte me door kraampjes die khao tom mat verkochten, zoete kleefrijstpakketjes gewikkeld in bananenblad, en stopte bij een druk karretje voor het kenmerkende gerecht van de stad: kuay tiew hoy khae, een noedelsoep gegarneerd met morning glory, taugé en een smaak zo diep umami dat het me dagen achtervolgde. De verkoper, een vrouw die me vertelde dat ze deze soep al dertig jaar maakte, schepte kom na kom op met geoefende efficiëntie terwijl haar tienerdochter de betalingen van vijftien baht inde.\n\nDe volgende ochtend bezocht ik het Sergeant Major Thawee Volksmuseum, een eigenzinnige en ontroerende collectie die decennialang is samengesteld door een gepensioneerde militaire officier. Gehuisvest in een traditioneel houten gebouw bevat het museum duizenden alledaagse voorwerpen uit het Thaise plattelandsleven: landbouwgereedschap, keukengerei, visvallen en handgeweven textiel, elk met de hand gelabeld met een verhaal over het gebruik. Het was het meest menselijke museum dat ik in Thailand tegenkwam, een liefdesbrief aan de gewone levens die geschiedenisboeken gewoonlijk over het hoofd zien.\n\nPhitsanulok dient ook als springplank voor twee spectaculaire nationale parken. Phu Hin Rong Kla, ongeveer negentig minuten naar het oosten, biedt mistige hooglandbossen met vreemde paddenstoelvormige rotsformaties en een ontnuchterende geschiedenis als voormalige basis van communistische opstandelingen. Thung Salaeng Luang, naar het zuidoosten, beloont bezoekers met uitgestrekte savanne-graslanden die goudkleurig worden in het droge seizoen. Ik bracht een middag door rijdend door de glooiende landschappen, stoppend om een familie wilde olifanten een beek te zien oversteken, en voelde de soort diepe stilte die alleen het Thaise platteland kan bieden.\n\nOp mijn laatste avond voegde ik me bij een handvol lokale mannen die visten vanaf de Naresuan Brug bij zonsondergang, het silhouet van Wat Yai's prang perfect weerspiegeld in het stille water beneden. Een visser gaf me een reservehengel en gebaarde dat ik moest werpen. We vingen niets, maar terwijl de hemel indigoblauw kleurde en de tempellichten aanfloepten, realiseerde ik me dat het geschenk van Phitsanulok precies dit is: de gratie van ongehaaste momenten in een stad die oprecht, prachtig Thais aanvoelt.",
-      "overview": "Phitsanulok is een levendige poortstad op de grens van centraal en Noord-Thailand, vermaard als spiritueel en cultureel centrum langs de schilderachtige Nan-rivier. Het kroonjuweel van de stad is Wat Phra Si Rattana Mahathat, met een van de meest vereerde Boeddhabeelden van Thailand en een meesterwerk van tempelarchitectuur aan de rivier. Met een bevolking van 84.000 behoudt Phitsanulok een authentieke, ongehaaste sfeer waar oude boeddhistische tradities floreren naast levendige nachtmarkten en uitzonderlijke lokale keuken. De stad is een ideale uitvalsbasis voor het verkennen van zowel de historische bezienswaardigheden van het noorden als de culturele rijkdommen van centraal-Thailand.",
-      "thingsToDo": "Het onmisbare Wat Phra Si Rattana Mahathat (Wat Yai) is gratis te betreden en herbergt een van Thailand's mooiste Boeddhabeelden in een actieve gebedsomgeving direct aan de rivieroever. Bezoekers doen doorgaans kleine donaties (10-100 THB/$0,30-3) als blijk van respect. Het Sergeant Major Thawee Volksmuseum (50 THB/$1,50 entree) biedt fascinerende inzichten in het Thaise plattelandsleven door een persoonlijke collectie traditionele artefacten en ambachten. Voor een unieke culturele ervaring, bezoek de Boeddha Gieterij bij Baan Khun Phra om de oude verloren-was-giettechniek te zien uitgevoerd door werkende ambachtslieden (gratis toegang, donaties worden gewaardeerd). De Nan-rivierpromenade is perfect voor avondwandelingen met tempelreflecties op het water en eetmogelijkheden, terwijl de Phitsanulok Nachtmarkt authentiek straatvoedsel en lokale noedelsoepen biedt. Voor iets werkelijk bijzonders, bezoek het Vliegende Groente Restaurant (Pak Bung Loi Fa) dat rivierside dineren combineert met de vermakelijke show van door de lucht gegooide gebakken morning glory. Natuurliefhebbers moeten Phu Hin Rong Kla Nationaal Park verkennen (200 THB/$6 entree) beroemd om paddenstoelrotsformaties en koel bergklimaat, of Thung Salaeng Luang Nationaal Park (200 THB/$6) waar wilde olifanten door savanne-graslanden en pijnboombossen zwerven.",
-      "whereToStay": "Phitsanulok biedt accommodatie voor alle budgetten, met de meeste hotels geconcentreerd nabij het stadscentrum op loopafstand van de Nan-rivier en de belangrijkste bezienswaardigheden. Budgetreizigers vinden comfortabele pensions en eenvoudige hotels voor $15-30 per nacht, terwijl middensegment hotels doorgaans betere voorzieningen en rivieruitzicht bieden voor $30-80 per nacht. Het stadscentrum nabij Wat Phra Si Rattana Mahathat is de meest geschikte locatie voor toegang tot tempels, markten en rivierrestaurants. Voor wie meer comfort zoekt, bieden diverse 3-4 sterrenhotels airconditioning, zwembaden en eigen restaurants tegen redelijke prijzen. Luxe opties met congresruimtes en premium dining zijn beschikbaar voor $80+ per nacht, met panoramisch stadsuitzicht en uitgebreide voorzieningen.",
-      "gettingAround": "Phitsanulok is een compacte stad die het beste te verkennen is per tuk-tuk, de meest gebruikelijke vorm van lokaal vervoer, waarbij korte ritten doorgaans 40-60 THB ($1,20-1,80) kosten. Songthaews (gedeelde minibusjes) rijden vaste routes voor 10-20 THB ($0,30-0,60) en zijn voordelig voor langere afstanden binnen de stad. Motorverhuur is ruim beschikbaar voor onafhankelijke reizigers voor 200-300 THB per dag ($6-9), wat flexibiliteit biedt om omliggende tempels en attracties te verkennen. Grab (de Zuidoost-Aziatische ritdeelapp) werkt in Phitsanulok voor betrouwbaardere, getaxeerde tarieven. Voor dagtrips naar nationale parken of nabijgelegen steden zoals Sukhothai (60 km), overweeg een motor te huren (200-300 THB/dag) of georganiseerde tours te boeken. De relatief kleine omvang van de stad betekent dat de meeste centrale attracties binnen 3-5 km van elkaar liggen.",
-      "bestTimeToVisit": "De ideale tijd om Phitsanulok te bezoeken is november tot en met februari, wanneer koel, droog weer overheerst met temperaturen van 15-28°C. December en januari zijn bijzonder aangenaam met minimale regenval en comfortabele omstandigheden voor tempelbezoeken en buitenactiviteiten. Maart tot mei brengt heet, droog weer met temperaturen boven 35°C, haalbaar maar minder comfortabel voor sightseeing. De zuidwestmoesson (mei-oktober) brengt zware regens, vooral juli-september, wat kleine overstromingen kan veroorzaken en bezoeken aan nationale parken uitdagend maakt. Het regenseizoen biedt echter weelderig groene landschappen en minder toeristen. Vermijd bezoek in oktober wanneer het overstromingsrisico het hoogst is in de regio. Phitsanulok organiseert diverse lokale festivals die aansluiten bij de boeddhistische kalender, vooral rond Songkran (april) en Loy Krathong (november), die culturele vieringen aan de rivier brengen.",
-      "safetyTips": "Phitsanulok is over het algemeen een veilige stad voor toeristen met een hoge veiligheidsindex van 80-85 en minimale geweldsmisdaad. Kleine diefstal komt echter voor op drukke markten en nachtbazaars, dus berg waardevolle spullen veilig op en vermijd het tonen van dure items. Tijdens het natte seizoen (mei-oktober), wees je bewust van het risico op knokkelkoorts — gebruik muggenspray met DEET en draag lange mouwen bij zonsopgang en zonsondergang wanneer muggen het meest actief zijn. Kleine overstromingen kunnen laaggelegen gebieden treffen tijdens zware regenval in september-oktober; controleer lokale omstandigheden voordat je riviergebieden bezoekt. Kraanwater wordt over het algemeen niet aanbevolen voor consumptie; flessenwater is ruim verkrijgbaar in de hele stad. Respecteer tempelgebruiken: kleed je bescheiden (bedek schouders en knieën), doe schoenen uit bij het betreden van heilige gebieden en beledig nooit Boeddhabeelden. Vermijd het dragen van grote hoeveelheden contant geld; geldautomaten zijn ruimschoots aanwezig in het stadscentrum.",
-      "translated_at": "2026-03-10T00:00:00.000Z"
-    },
-    "fr": {
-      "enhanced_description": "Je suis arrivé à Phitsanulok au crépuscule, la rivière Nan captant les dernières lueurs orangées tandis que les maisons flottantes et les restaurants sur l'eau se balançaient doucement le long des berges. La plupart des voyageurs traversent cette ville en route vers Sukhothai ou les villages montagnards du nord, et c'est leur perte. Phitsanulok, ou « Phitlok » comme l'appellent les locaux, est une véritable ville fluviale thaïlandaise dotée d'une âme qui se révèle à quiconque accepte de ralentir. Mon premier arrêt fut Wat Phra Si Rattana Mahathat, simplement connu sous le nom de Wat Yai, le grand temple au bord de la rivière qui abrite Phra Phuttha Chinnarat, généralement considéré comme la plus belle statue de Bouddha de Thaïlande.\n\nDebout devant le Bouddha Chinnarat, j'ai compris pourquoi les Thaïlandais de tout le pays voyagent jusqu'ici pour lui rendre hommage. La statue en bronze de l'époque Sukhothai est assise dans la posture de la soumission de Mara, son auréole flamboyante d'une grâce unique, la surface dorée semblant rayonner d'une chaleur intérieure dans le viharn éclairé aux bougies. Des familles thaïlandaises s'agenouillaient sur le sol de marbre frais et pressaient des feuilles d'or sur de petites amulettes de Bouddha, tandis que le doux parfum des guirlandes de jasmin emplissait l'air. C'est une statue si vénérée qu'une copie a été réalisée pour le Temple de Marbre de Bangkok, mais les locaux vous diront avec une fierté discrète que rien n'égale l'original.\n\nAprès le temple, j'ai longé la promenade de la rivière Nan en direction du marché de nuit sur Phaya Sua Road. Le marché de nuit de Phitsanulok est l'un des secrets culinaires les mieux gardés du centre de la Thaïlande. J'ai fait le tour des étals vendant du khao tom mat, des paquets de riz gluant sucré enveloppés dans des feuilles de bananier, et me suis arrêté devant un chariot bondé pour le plat emblématique de la ville : kuay tiew hoy khae, une soupe de nouilles garnie de liseron d'eau, de germes de soja et d'une saveur si profondément umami qu'elle m'a hanté pendant des jours. La vendeuse, une femme qui m'a dit qu'elle préparait cette soupe depuis trente ans, servait bol après bol avec une efficacité rodée tandis que sa fille adolescente encaissait les paiements de quinze bahts.\n\nLe lendemain matin, j'ai visité le musée folklorique du Sergent-Major Thawee, une collection singulière et émouvante constituée au fil des décennies par un officier militaire à la retraite. Abrité dans un bâtiment traditionnel en bois, le musée contient des milliers d'objets quotidiens de la vie rurale thaïlandaise : outils agricoles, ustensiles de cuisine, nasses à poisson et textiles tissés à la main, chacun étiqueté à la main avec une histoire sur son usage. C'était le musée le plus humain que j'aie rencontré en Thaïlande, une lettre d'amour aux vies ordinaires que les livres d'histoire ignorent habituellement.\n\nPhitsanulok sert également de tremplin vers deux parcs nationaux spectaculaires. Phu Hin Rong Kla, à environ quatre-vingt-dix minutes vers l'est, offre des forêts brumeuses d'altitude avec d'étranges formations rocheuses en forme de champignons et une histoire sobre en tant qu'ancienne base de guérilleros communistes. Thung Salaeng Luang, vers le sud-est, récompense les visiteurs avec de vastes prairies de savane qui deviennent dorées en saison sèche. J'ai passé un après-midi à traverser ces paysages vallonnés, m'arrêtant pour observer une famille d'éléphants sauvages traverser un ruisseau, et j'ai ressenti ce silence profond que seule la campagne thaïlandaise peut offrir.\n\nLors de ma dernière soirée, j'ai rejoint une poignée d'hommes locaux qui pêchaient depuis le pont Naresuan au coucher du soleil, la silhouette du prang de Wat Yai parfaitement reflétée dans l'eau immobile en contrebas. Un pêcheur m'a tendu une canne de rechange et m'a fait signe de lancer. Nous n'avons rien attrapé, mais tandis que le ciel virait au bleu indigo et que les lumières du temple s'allumaient, j'ai réalisé que le cadeau de Phitsanulok est précisément cela : la grâce de moments sans hâte dans une ville qui se sent sincèrement, magnifiquement thaïlandaise.",
-      "overview": "Phitsanulok est une ville dynamique aux portes du centre et du nord de la Thaïlande, réputée comme centre spirituel et culturel le long de la pittoresque rivière Nan. Le joyau de la ville est Wat Phra Si Rattana Mahathat, abritant l'une des statues de Bouddha les plus vénérées de Thaïlande et un chef-d'œuvre d'architecture religieuse au bord de la rivière. Avec une population de 84 000 habitants, Phitsanulok conserve une atmosphère authentique et paisible où les anciennes traditions bouddhistes côtoient des marchés de nuit animés et une cuisine locale exceptionnelle. La ville est une base idéale pour explorer tant les sites historiques du nord que les richesses culturelles du centre de la Thaïlande.",
-      "thingsToDo": "L'incontournable Wat Phra Si Rattana Mahathat (Wat Yai) est gratuit et abrite l'une des plus belles statues de Bouddha de Thaïlande dans un lieu de prière actif au bord de la rivière. Les visiteurs font généralement de petites donations (10-100 THB/0,30-3 $) en signe de respect. Le musée folklorique du Sergent-Major Thawee (50 THB/1,50 $ d'entrée) offre des aperçus fascinants de la vie rurale thaïlandaise à travers une collection personnelle d'artefacts et d'artisanats traditionnels. Pour une expérience culturelle unique, visitez la fonderie de Bouddha à Baan Khun Phra pour observer l'ancienne technique de fonte à la cire perdue exécutée par des artisans en activité (accès gratuit, donations appréciées). La promenade de la rivière Nan est parfaite pour les balades du soir avec les reflets des temples sur l'eau et des possibilités de restauration, tandis que le marché de nuit de Phitsanulok propose une cuisine de rue authentique et des soupes de nouilles locales. Pour quelque chose de vraiment spécial, visitez le restaurant du Légume Volant (Pak Bung Loi Fa) qui combine un dîner au bord de la rivière avec le spectacle divertissant de liseron d'eau sauté lancé dans les airs. Les amoureux de la nature doivent explorer le parc national de Phu Hin Rong Kla (200 THB/6 $ d'entrée) célèbre pour ses formations rocheuses en champignon et son climat montagnard frais, ou le parc national de Thung Salaeng Luang (200 THB/6 $) où des éléphants sauvages errent dans des prairies de savane et des forêts de pins.",
-      "whereToStay": "Phitsanulok offre des hébergements pour tous les budgets, la plupart des hôtels étant concentrés près du centre-ville à distance de marche de la rivière Nan et des principales attractions. Les voyageurs à petit budget trouvent des pensions confortables et des hôtels simples pour 15-30 $ par nuit, tandis que les hôtels de milieu de gamme offrent généralement de meilleures prestations et des vues sur la rivière pour 30-80 $ par nuit. Le centre-ville près de Wat Phra Si Rattana Mahathat est l'emplacement le plus pratique pour accéder aux temples, marchés et restaurants au bord de la rivière. Pour plus de confort, plusieurs hôtels 3-4 étoiles proposent climatisation, piscines et restaurants à des prix raisonnables. Des options de luxe avec salles de conférence et restauration premium sont disponibles à partir de 80 $ par nuit, avec vue panoramique sur la ville et prestations complètes.",
-      "gettingAround": "Phitsanulok est une ville compacte qui se découvre le mieux en tuk-tuk, le moyen de transport local le plus courant, avec des courses courtes coûtant généralement 40-60 THB (1,20-1,80 $). Les songthaews (minibus partagés) circulent sur des itinéraires fixes pour 10-20 THB (0,30-0,60 $) et sont avantageux pour les distances plus longues en ville. La location de moto est largement disponible pour les voyageurs indépendants à 200-300 THB par jour (6-9 $), offrant la flexibilité d'explorer les temples et attractions environnants. Grab (l'application de covoiturage d'Asie du Sud-Est) fonctionne à Phitsanulok pour des tarifs plus fiables et calculés. Pour les excursions d'une journée vers les parcs nationaux ou les villes voisines comme Sukhothai (60 km), envisagez la location de moto (200-300 THB/jour) ou les tours organisés. La taille relativement modeste de la ville signifie que la plupart des attractions centrales sont à 3-5 km les unes des autres.",
-      "bestTimeToVisit": "La période idéale pour visiter Phitsanulok est de novembre à février, quand un temps frais et sec règne avec des températures de 15-28°C. Décembre et janvier sont particulièrement agréables avec un minimum de précipitations et des conditions confortables pour les visites de temples et les activités de plein air. De mars à mai, le temps chaud et sec avec des températures dépassant 35°C est supportable mais moins confortable pour les visites. La mousson du sud-ouest (mai-octobre) apporte de fortes pluies, surtout de juillet à septembre, pouvant provoquer de petites inondations et rendre les visites des parcs nationaux difficiles. La saison des pluies offre cependant des paysages d'un vert luxuriant et moins de touristes. Évitez la visite en octobre quand le risque d'inondation est le plus élevé dans la région. Phitsanulok accueille divers festivals locaux liés au calendrier bouddhiste, notamment autour de Songkran (avril) et Loy Krathong (novembre), qui apportent des célébrations culturelles au bord de la rivière.",
-      "safetyTips": "Phitsanulok est généralement une ville sûre pour les touristes avec un indice de sécurité élevé de 80-85 et une criminalité violente minimale. Les petits vols peuvent toutefois survenir sur les marchés et bazars de nuit animés, rangez donc vos objets de valeur en sécurité et évitez d'exhiber des articles coûteux. Pendant la saison humide (mai-octobre), soyez conscient du risque de dengue — utilisez un répulsif anti-moustiques contenant du DEET et portez des manches longues au lever et au coucher du soleil quand les moustiques sont les plus actifs. De petites inondations peuvent affecter les zones basses pendant les fortes pluies de septembre-octobre ; vérifiez les conditions locales avant de visiter les zones riveraines. L'eau du robinet n'est généralement pas recommandée pour la consommation ; l'eau en bouteille est largement disponible dans toute la ville. Respectez les coutumes des temples : habillez-vous modestement (couvrez épaules et genoux), retirez vos chaussures en entrant dans les espaces sacrés et n'offensez jamais les statues de Bouddha. Évitez de porter de grandes sommes d'argent liquide ; les distributeurs sont largement présents dans le centre-ville.",
-      "translated_at": "2026-03-10T00:00:00.000Z"
-    },
-    "de": {
-      "enhanced_description": "Ich kam in Phitsanulok in der Abenddämmerung an, der Nan-Fluss fing das letzte Orangelicht ein, während Hausboote und schwimmende Restaurants sanft an seinen Ufern schaukelten. Die meisten Reisenden durchqueren diese Stadt auf dem Weg nach Sukhothai oder zu den nördlichen Bergdörfern, und das ist ihr Verlust. Phitsanulok, oder „Phitlok“ wie die Einheimischen es nennen, ist eine echte thailändische Flussstadt mit einer Seele, die sich jedem offenbart, der bereit ist, einen Gang zurückzuschalten. Mein erster Stopp war Wat Phra Si Rattana Mahathat, einfach als Wat Yai bekannt, der große Tempel am Flussufer, der Phra Phuttha Chinnarat beherbergt, allgemein als das schönste Buddha-Bildnis Thailands angesehen.\n\nVor dem Chinnarat-Buddha stehend verstand ich, warum thailändische Menschen aus dem ganzen Land hierher reisen, um ihre Ehrerbietung zu erweisen. Die bronzene Statue aus der Sukhothai-Ära sitzt in der Haltung der Bezwingung Maras, ihr flammenartiger Heiligenschein einzigartig kunstvoll, die goldene Oberfläche scheint mit einer inneren Wärme im kerzenbeleuchteten Viharn zu glühen. Thailändische Familien knieten auf dem kühlen Marmorboden und drückten Blattgold auf kleine Buddha-Amulette, während der süße Duft von Jasmin-Girlanden die Luft erfüllte. Es ist ein Bildnis, das so verehrt wird, dass eine Kopie für Bangkoks Marmortempel angefertigt wurde, aber Einheimische werden Ihnen mit stiller Bescheidenheit sagen, dass nichts dem Original gleichkommt.\n\nNach dem Tempel spazierte ich die Nan-Fluss-Promenade entlang zum Nachtmarkt in der Phaya Sua Road. Der Nachtmarkt von Phitsanulok ist eines der bestgehüteten kulinarischen Geheimnisse Zentralthailands. Ich arbeitete mich durch Stände, die Khao Tom Mat verkauften, süße Klebreis-Päckchen in Bananenblätter gewickelt, und hielt an einem überfüllten Karren für das Signature-Gericht der Stadt: Kuay Tiew Hoy Khae, eine Nudelsuppe belegt mit Wasserspinat, Sojasprossen und einem Geschmack so tief umami, dass er mich tagelang verfolgte. Die Händlerin, eine Frau, die mir erzählte, sie bereite diese Suppe seit dreißig Jahren zu, schöpfte Schüssel um Schüssel mit geübter Effizienz, während ihre Teenager-Tochter die Zahlungen von fünfzehn Baht einsammelte.\n\nAm nächsten Morgen besuchte ich das Sergeant Major Thawee Volksmuseum, eine skurrile und anrührende Sammlung, die über Jahrzehnte von einem pensionierten Militäroffizier zusammengetragen wurde. In einem traditionellen Holzgebäude untergebracht, enthält das Museum Tausende von Alltagsgegenständen aus dem ländlichen Thailand: Werkzeuge, Küchenutensilien, Fischfallen und handgewebte Textilien, jedes einzelne von Hand mit einer Geschichte über seine Verwendung beschriftet. Es war das menschlichste Museum, das ich in Thailand fand, ein Liebesbrief an die gewöhnlichen Leben, die Geschichtsbücher normalerweise übersehen.\n\nPhitsanulok dient auch als Ausgangspunkt für zwei spektakuläre Nationalparks. Phu Hin Rong Kla, etwa neunzig Minuten östlich, bietet neblige Hochlandwälder mit seltsamen pilzförmigen Felsformationen und eine ernüchternde Geschichte als ehemalige Basis kommunistischer Aufständischer. Thung Salaeng Luang im Südosten belohnt Besucher mit weiten Savannenlandschaften, die in der Trockenzeit golden werden. Ich verbrachte einen Nachmittag damit, durch die sanften Hügellandschaften zu fahren, hielt an, um eine Familie wilder Elefanten beim Überqueren eines Baches zu beobachten, und spürte jene tiefe Stille, die nur Thailands Landschaft bieten kann.\n\nAn meinem letzten Abend gesellte ich mich zu einer Handvoll einheimischer Männer, die bei Sonnenuntergang von der Naresuan-Brücke angelten, die Silhouette von Wat Yais Prang perfekt im stillen Fluss darunter gespiegelt. Ein Fischer reichte mir eine Ersatzangel und deutete mir zu werfen. Wir fingen nichts, aber als der Himmel sich indigoblau färbte und die Tempellichter aufflackerten, erkannte ich, dass Phitsanuloks Geschenk genau dies ist: die Anmut ungehetzer Momente in einer Stadt, die sich aufrichtig, wunderschön thailändisch anfühlt.",
-      "overview": "Phitsanulok ist eine lebhafte Torstadt an der Grenze zwischen Zentral- und Nordthailand, berühmt als geistliches und kulturelles Zentrum am malerischen Nan-Fluss. Das Kronjuwel der Stadt ist Wat Phra Si Rattana Mahathat mit einem der meistverehrten Buddha-Bildnisse Thailands und einem Meisterwerk der Tempelarchitektur am Flussufer. Mit 84.000 Einwohnern bewahrt Phitsanulok eine authentische, ungehetzte Atmosphäre, in der alte buddhistische Traditionen neben lebhaften Nachtmärkten und außergewöhnlicher lokaler Küche gedeihen. Die Stadt ist ein idealer Ausgangspunkt für die Erkundung sowohl der historischen Sehenswürdigkeiten des Nordens als auch der kulturellen Reichtümer Zentralthailands.",
-      "thingsToDo": "Das unverzichtbare Wat Phra Si Rattana Mahathat (Wat Yai) ist kostenlos zugänglich und beherbergt eines der schönsten Buddha-Bildnisse Thailands in einer aktiven Gebetsstätte direkt am Flussufer. Besucher leisten üblicherweise kleine Spenden (10-100 THB/$0,30-3) als Zeichen des Respekts. Das Sergeant Major Thawee Volksmuseum (50 THB/$1,50 Eintritt) bietet faszinierende Einblicke in das ländliche thailändische Leben durch eine persönliche Sammlung traditioneller Artefakte und Handwerke. Für ein einzigartiges kulturelles Erlebnis besuchen Sie die Buddha-Gießerei bei Baan Khun Phra, um die alte Wachsausschmelz-Gusstechnik von arbeitenden Handwerkern zu sehen (freier Zugang, Spenden willkommen). Die Nan-Fluss-Promenade eignet sich perfekt für Abendspaziergänge mit Tempelspiegelungen auf dem Wasser und Einkehrmöglichkeiten, während der Phitsanulok-Nachtmarkt authentisches Straßenessen und lokale Nudelsuppen bietet. Für etwas wirklich Besonderes besuchen Sie das Fliegende-Gemüse-Restaurant (Pak Bung Loi Fa), das Essen am Flussufer mit der unterhaltsamen Show von durch die Luft geworfenen gebratenen Wasserspinat kombiniert. Naturliebhaber sollten den Phu Hin Rong Kla Nationalpark erkunden (200 THB/$6 Eintritt), berühmt für Pilzfelsformationen und kühles Bergklima, oder den Thung Salaeng Luang Nationalpark (200 THB/$6), wo wilde Elefanten durch Savannengrasland und Kiefernwälder streifen.",
-      "whereToStay": "Phitsanulok bietet Unterkünfte für alle Budgets, wobei die meisten Hotels zentral gelegen sind, in Gehweite zum Nan-Fluss und den wichtigsten Sehenswürdigkeiten. Budget-Reisende finden komfortable Pensionen und einfache Hotels für $15-30 pro Nacht, während Mittelklasse-Hotels typischerweise bessere Ausstattung und Flussblick für $30-80 pro Nacht bieten. Das Stadtzentrum nahe Wat Phra Si Rattana Mahathat ist der günstigste Standort für den Zugang zu Tempeln, Märkten und Flussrestaurants. Für mehr Komfort bieten mehrere 3-4-Sterne-Hotels Klimaanlage, Pools und eigene Restaurants zu vernünftigen Preisen. Luxusoptionen mit Konferenzeinrichtungen und Premium-Gastronomie sind ab $80 pro Nacht verfügbar, mit Panoramablick über die Stadt und umfassenden Annehmlichkeiten.",
-      "gettingAround": "Phitsanulok ist eine kompakte Stadt, die sich am besten per Tuk-Tuk erkunden lässt, dem gängigsten lokalen Transportmittel, wobei kurze Fahrten typischerweise 40-60 THB ($1,20-1,80) kosten. Songthaews (geteilte Minibusse) fahren feste Routen für 10-20 THB ($0,30-0,60) und sind günstig für längere Strecken innerhalb der Stadt. Motorradverleih ist für unabhängige Reisende überall verfügbar für 200-300 THB pro Tag ($6-9) und bietet Flexibilität, um umliegende Tempel und Attraktionen zu erkunden. Grab (die südostasiatische Ride-Hailing-App) funktioniert in Phitsanulok für zuverlässigere, taxierte Fahrpreise. Für Tagesausflüge zu Nationalparks oder Nachbarstädten wie Sukhothai (60 km entfernt) empfiehlt sich ein Motorrad (200-300 THB/Tag) oder organisierte Touren. Die relativ geringe Größe der Stadt bedeutet, dass die meisten zentralen Attraktionen innerhalb von 3-5 km voneinander liegen.",
-      "bestTimeToVisit": "Die ideale Reisezeit für Phitsanulok ist November bis Februar, wenn kühles, trockenes Wetter mit Temperaturen von 15-28°C vorherrscht. Dezember und Januar sind besonders angenehm mit minimalen Niederschlägen und komfortablen Bedingungen für Tempelbesuche und Outdoor-Aktivitäten. März bis Mai bringt heißes, trockenes Wetter mit Temperaturen über 35°C, machbar aber weniger komfortabel für Besichtigungen. Der Südwestmonsun (Mai-Oktober) bringt starke Regenfälle, besonders Juli-September, die kleinere Überschwemmungen verursachen und Nationalparkbesuche erschweren können. Die Regenzeit bietet jedoch üppig grüne Landschaften und weniger Touristen. Vermeiden Sie einen Besuch im Oktober, wenn das Überschwemmungsrisiko in der Region am höchsten ist. Phitsanulok veranstaltet verschiedene lokale Feste nach dem buddhistischen Kalender, insbesondere um Songkran (April) und Loy Krathong (November), die kulturelle Feiern ans Flussufer bringen.",
-      "safetyTips": "Phitsanulok ist generell eine sichere Stadt für Touristen mit einem hohen Sicherheitsindex von 80-85 und minimaler Gewaltkriminalität. Kleinkriminalität kann jedoch auf belebten Märkten und Nachtbasaren vorkommen, bewahren Sie daher Wertsachen sicher auf und vermeiden Sie das Zeigen teurer Gegenstände. Während der Regenzeit (Mai-Oktober) sollten Sie sich des Dengue-Risikos bewusst sein — verwenden Sie Mückenschutzmittel mit DEET und tragen Sie lange Ärmel bei Sonnenauf- und -untergang, wenn Mücken am aktivsten sind. Kleinere Überschwemmungen können tiefliegende Gebiete bei starkem Regen im September-Oktober betreffen; prüfen Sie die lokalen Bedingungen, bevor Sie Flussgebiete besuchen. Leitungswasser wird generell nicht zum Trinken empfohlen; Flaschenwasser ist stadtweit reichlich verfügbar. Respektieren Sie Tempelsitten: Kleiden Sie sich bescheiden (bedecken Sie Schultern und Knie), ziehen Sie Schuhe aus beim Betreten heiliger Bereiche und beleidigen Sie niemals Buddha-Statuen. Vermeiden Sie das Tragen großer Bargeldmengen; Geldautomaten sind im Stadtzentrum reichlich vorhanden.",
-      "translated_at": "2026-03-10T00:00:00.000Z"
-    },
-    "zh": {
-      "enhanced_description": "我在黄昏时分抵达彭世洛，南河映照着最后一抹橙色的光芒，船屋和水上餐厅沿着河岸轻轻摇曳。大多数旅行者只是途经这座城市，赶往素可泰或北部山区小镇，这实在是他们的损失。彭世洛，或当地人所称的「Phitlok「，是一座真正的泰国河畔城市，拥有一种只向愿意放慢脚步的人展露的灵魂。我的第一站是帕司里拉达纳玛哈泰寺，简称Wat Yai，这座河畔大寺供奉着帕佛钦那叻，被普遍认为是泰国最美的佛像。\n\n站在钦那叻佛像前，我理解了为什么泰国人从全国各地来此朝拜。这尊素可泰时期的铜像呈降魔印姿态，火焰状光环造型独特精美，金色表面在烛光映照的佛殿中似乎散发着内在的温暖光芒。泰国家庭跪在凉爽的大理石地板上，将金箔贴在小佛牌上，茉莉花环的甜美芬芳弥漫在空气中。这尊佛像受到如此崇敬，以至于曼谷大理石寺也制作了一尊复制品，但当地人会带着含蓄的自豪告诉你，没有什么能比得上原作。\n\n参观完寺庙后，我沿着南河步道走向帕耶素路的夜市。彭世洛夜市是泰国中部最好的美食秘密之一。我穿梭在出售khao tom mat（用香蕉叶包裹的甜糯米卷）的摊位间，在一个拥挤的小车前停下，品尝这座城市的招牌菜：kuay tiew hoy khae，一碗配有空心菜、豆芽的汤面，那深沉的鲜味在之后几天里一直萦绕不去。摊主是一位告诉我她已经做了三十年这种汤的女士，她以娴熟的效率一碗接一碗地盛着，她十几岁的女儿在旁收取15泰铢的餐费。\n\n第二天早上，我参观了他威少校民俗博物馆，这是一位退休军官数十年来收集的独特而感人的藏品。博物馆坐落在一栋传统木质建筑中，收藏着数千件泰国乡村生活的日常物品：农具、厨具、鱼笼和手工编织的纺织品，每件都附有手写的用途说明。这是我在泰国遇到的最具人情味的博物馆，是一封写给历史书通常忽略的普通生活的情书。\n\n彭世洛还是前往两座壮观国家公园的出发点。Phu Hin Rong Kla国家公园位于东面约九十分钟车程处，拥有雾气笼罩的高地森林、奇特的蘑菇状岩石以及作为前共产主义游击队基地的沉重历史。Thung Salaeng Luang国家公园在东南方向，以广阔的草原著称，旱季时草原变成金色。我花了一个下午驱车穿越起伏的景观，停下来观看一群野象横渡小溪，感受到只有泰国乡村才能给予的那种深沉宁静。\n\n在最后一个傍晚，我加入了几位在纳黎萱大桥上垂钓的当地人，Wat Yai佛塔的轮廓完美地倒映在下方平静的河水中。一位渔夫递给我一根备用鱼竿，示意我抛线。我们什么也没钓到，但当天空变成靛蓝色、寺庙的灯光亮起时，我意识到彭世洛的馈赠正是如此：在一座真挚、美丽的泰国城市中，享受不疾不徐的优雅时光。",
-      "overview": "彭世洛是一座充满活力的门户城市，位于泰国中部和北部的交界处，以南河畔的精神和文化中心而闻名。城市的瑰宝是帕司里拉达纳玛哈泰寺，供奉着泰国最受崇敬的佛像之一，也是河畔寺庙建筑的杰作。拥有84,000人口的彭世洛保持着一种真实、悠闲的氛围，古老的佛教传统与热闹的夜市和卓越的地方美食并存共荣。这座城市是探索北部历史遗迹和中部文化宝藏的理想基地。",
-      "thingsToDo": "必游的帕司里拉达纳玛哈泰寺（Wat Yai）免费参观，供奉着泰国最美的佛像之一，是河畔一处活跃的礼拜场所。游客通常会进行小额捐赠（10-100 THB/$0.30-3）以表敬意。他威少校民俗博物馆（50 THB/$1.50门票）通过个人收藏的传统手工艺品展示了迷人的泰国乡村生活。如需独特的文化体验，可前往Baan Khun Phra的佛像铸造工坊，观看工匠们使用古老的失蜡铸造技术（免费参观，欢迎捐赠）。南河步道适合傍晚散步，可欣赏寺庙在水面的倒影并沿途就餐，彭世洛夜市则提供正宗的街头美食和当地面汤。特别推荐飞菜餐厅（Pak Bung Loi Fa），这里将河畔用餐与空中抛接炒空心菜的趣味表演相结合。自然爱好者应探索Phu Hin Rong Kla国家公园（200 THB/$6门票），以蘑菇状岩石和凉爽山地气候著称；或Thung Salaeng Luang国家公园（200 THB/$6），野象在此漫步于草原和松林之间。",
-      "whereToStay": "彭世洛提供各价位的住宿选择，大多数酒店集中在市中心，步行即可到达南河和主要景点。预算旅行者可找到$15-30/晚的舒适旅馆和简约酒店，而中档酒店通常提供更好的设施和河景，价格$30-80/晚。帕司里拉达纳玛哈泰寺附近的市中心是前往寺庙、市场和河畔餐厅最便利的位置。如需更多舒适体验，多家3-4星级酒店提供空调、泳池和餐厅，价格合理。配有会议设施和高端餐饮的豪华选项从$80+/晚起，享有全城全景和齐全设施。",
-      "gettingAround": "彭世洛是一座紧凑的城市，最适合乘坐嘟嘟车出行，这是最常见的当地交通工具，短途通常40-60 THB ($1.20-1.80)。双条车（共享小巴）按固定路线运行，每程10-20 THB ($0.30-0.60)，适合市内较长距离。摩托车租赁广泛可用，每天200-300 THB ($6-9)，为独立旅行者提供探索周边寺庙和景点的灵活性。Grab（东南亚叫车应用）在彭世洛运营，提供更可靠的计价服务。前往国家公园或素可泰（60公里外）等附近城市一日游，可考虑租摩托车（200-300 THB/天）或参加跟团游。城市规模较小，大多数中心景点彼此相距3-5公里。",
-      "bestTimeToVisit": "彭世洛的最佳旅行时间为11月至次年2月，此时凉爽干燥，气温15-28°C。12月和1月尤为宜人，降雨极少，非常适合参观寺庙和户外活动。3月至5月炎热干燥，气温超过35°C，可以出行但不太舒适。西南季风期（5月-10月）带来大量降雨，尤其是7月-9月，可能造成小规模洪水并使国家公园游览变得困难。但雨季的景色郁郁葱葱，游客也更少。避免在10月到访，因为该地区此时洪水风险最高。彭世洛会举办各种与佛教日历相关的本地节日，尤其是泼水节（4月）和水灯节（11月）期间，河畔会有丰富的文化庆祝活动。",
-      "safetyTips": "彭世洛对游客总体安全，安全指数高达80-85，暴力犯罪极少。但在拥挤的市场和夜市可能发生小偷小摸，请妥善保管贵重物品，避免展示昂贵物品。雨季（5月-10月）期间注意登革热风险——使用含DEET的驱蚊剂，在蚊子最活跃的黎明和黄昏时穿长袖。9月-10月大雨期间低洼地区可能出现轻微洪水；访问河畔区域前请查看当地情况。自来水通常不建议饮用；全城各处都可方便购买瓶装水。尊重寺庙习俗：穿着得体（遮盖肩膀和膝盖），进入神圣区域前脱鞋，切勿亵渎佛像。避免携带大量现金；市中心ATM机随处可见。",
-      "translated_at": "2026-03-11T00:00:00.000Z"
-    },
-    "ru": {
-      "enhanced_description": "Я приехал в Пхитсанулок на закате, река Нан ловила последний оранжевый свет, а плавучие дома и рестораны мерно покачивались у берегов. Большинство путешественников проезжают этот город по дороге в Сукхотай или северные горные городки — и это их потеря. Пхитсанулок, или «Пхитлок», как называют его местные, — настоящий тайский речной город с душой, которая раскрывается каждому, кто готов замедлиться. Моей первой остановкой стал Ват Пхра Си Раттана Махатхат, известный просто как Ват Яй — величественный храм на берегу реки, где хранится Пхра Пхуттха Чиннарат, повсеместно считающийся самым красивым изображением Будды в Таиланде.\n\nСтоя перед Чиннарат Буддой, я понял, почему тайцы приезжают сюда со всей страны для поклонения. Бронзовая статуя эпохи Сукхотай сидит в позе покорения Мары, её пламевидный нимб уникально богато украшен, а золотая поверхность словно излучает внутреннее тепло в освещённом свечами вихарне. Тайские семьи стояли на коленях на прохладном мраморном полу, прикрепляя сусальное золото к маленьким буддийским амулетам, а сладкий аромат жасминовых гирлянд наполнял воздух. Образ настолько почитаем, что его копия была создана для бангкокского Мраморного храма, но местные с тихой гордостью скажут вам, что ничто не сравнится с оригиналом.\n\nПосле храма я прогулялся по набережной реки Нан к ночному рынку на улице Пхая Суа. Ночной рынок Пхитсанулока — один из лучших кулинарных секретов Центрального Таиланда. Я пробирался через ряды, торгующие кхао том мат — сладкими свёртками клейкого риса в банановых листьях — и остановился у переполненной тележки, чтобы попробовать фирменное блюдо города: куай тиев хой кхэ — суп с лапшой, утренней славой, ростками бобов и настолько глубоким вкусом умами, что он преследовал меня несколько дней. Продавщица, рассказавшая, что готовит этот суп тридцать лет, разливала тарелку за тарелкой с отточенной эффективностью, а её дочь-подросток собирала плату в пятнадцать бат.\n\nНа следующее утро я посетил Народный музей сержант-майора Тхави — причудливую и трогательную коллекцию, собранную за десятилетия отставным военным. Расположенный в традиционном деревянном здании, музей содержит тысячи предметов повседневного быта тайской деревни: сельскохозяйственные орудия, кухонную утварь, рыболовные ловушки и ручные ткани, каждый подписанный от руки с историей его использования. Это был самый человечный музей из всех, что я встретил в Таиланде — любовное письмо к обычным жизням, которые обычно обходят стороной учебники истории.\n\nПхитсанулок также служит отправной точкой для двух впечатляющих национальных парков. Пху Хин Ронг Кла, примерно в полутора часах к востоку, предлагает туманные горные леса с причудливыми грибовидными скальными образованиями и отрезвляющую историю бывшей базы коммунистических повстанцев. Тхунг Салэнг Луанг на юго-востоке вознаграждает посетителей бескрайними саваннами, которые становятся золотыми в сухой сезон. Я провёл вечер, проезжая через холмистые пейзажи, останавливаясь, чтобы наблюдать семейство диких слонов, пересекающих ручей, и ощутил ту глубокую тишину, которую может подарить только тайская глубинка.\n\nВ последний вечер я присоединился к нескольким местным рыбакам на мосту Наресуан на закате. Силуэт пранга Ват Яй идеально отражался в спокойной реке внизу. Рыбак протянул мне запасную удочку и жестом показал забрасывать. Мы ничего не поймали, но когда небо окрасилось в индиго и зажглись огни храма, я понял, что дар Пхитсанулока — именно в этом: в изяществе неторопливых мгновений в городе, который ощущается искренне, прекрасно тайским.",
-      "overview": "Пхитсанулок — динамичный город-ворота на границе Центрального и Северного Таиланда, известный как духовный и культурный центр на живописной реке Нан. Жемчужина города — Ват Пхра Си Раттана Махатхат с одним из самых почитаемых изображений Будды в Таиланде и шедевром храмовой архитектуры на берегу реки. С населением 84 000 человек Пхитсанулок сохраняет подлинную, неспешную атмосферу, где древние буддийские традиции процветают рядом с оживлёнными ночными рынками и великолепной местной кухней. Город служит идеальной базой для исследования как исторических достопримечательностей Севера, так и культурных богатств Центрального Таиланда.",
-      "thingsToDo": "Обязательный к посещению Ват Пхра Си Раттана Махатхат (Ват Яй) — вход свободный, здесь хранится одно из прекраснейших изображений Будды в Таиланде в действующем месте поклонения на берегу реки. Посетители обычно делают небольшие пожертвования (10–100 бат / 0,30–3 $) в знак уважения. Народный музей сержант-майора Тхави (50 бат / 1,50 $) предлагает увлекательное знакомство с тайским деревенским бытом через личную коллекцию традиционных ремёсел и артефактов. Для уникального культурного опыта посетите литейную мастерскую Будды в Бан Кхун Пхра, чтобы увидеть мастеров за работой по древней технологии литья по выплавляемой модели (свободный доступ, пожертвования приветствуются). Набережная реки Нан идеальна для вечерних прогулок с отражениями храмов в воде и возможностями перекусить, а ночной рынок Пхитсанулока предлагает аутентичную уличную еду и местные супы с лапшой. Для особого впечатления посетите ресторан «Летающих овощей» (Пак Бунг Лой Фа), сочетающий речную трапезу с шоу подбрасывания жареного водного шпината. Любителям природы стоит исследовать Национальный парк Пху Хин Ронг Кла (200 бат / 6 $) с грибовидными скальными образованиями и прохладным горным климатом, или Национальный парк Тхунг Салэнг Луанг (200 бат / 6 $), где дикие слоны бродят по саваннам и сосновым лесам.",
-      "whereToStay": "Пхитсанулок предлагает размещение на любой бюджет, большинство отелей расположены в центре в пешей доступности от реки Нан и главных достопримечательностей. Бюджетные путешественники найдут комфортные гестхаусы и простые отели от 15–30 $ за ночь, а отели среднего класса обычно предлагают лучшие удобства и вид на реку за 30–80 $ за ночь. Центр города возле Ват Пхра Си Раттана Махатхат — самое удобное расположение для доступа к храмам, рынкам и речным ресторанам. Для большего комфорта несколько 3–4-звёздочных отелей предлагают кондиционер, бассейны и рестораны по разумным ценам. Люксовые варианты с конференц-залами и премиальным питанием доступны от 80 $ за ночь с панорамными видами на город.",
-      "gettingAround": "Пхитсанулок — компактный город, который лучше всего исследовать на тук-туке — самом распространённом местном транспорте, с типичной стоимостью коротких поездок 40–60 бат (1,20–1,80 $). Сонгтэо (маршрутные микроавтобусы) курсируют по фиксированным маршрутам за 10–20 бат (0,30–0,60 $) и выгодны для более длинных расстояний по городу. Аренда мотоцикла широко доступна за 200–300 бат в день (6–9 $), обеспечивая свободу для осмотра окрестных храмов и достопримечательностей. Приложение Grab работает в Пхитсанулоке для более надёжных и фиксированных тарифов. Для однодневных поездок в национальные парки или соседние города вроде Сукхотая (60 км) подойдёт аренда мотоцикла (200–300 бат/день) или организованные экскурсии. Относительно компактные размеры города означают, что большинство центральных достопримечательностей находятся в 3–5 км друг от друга.",
-      "bestTimeToVisit": "Идеальное время для посещения Пхитсанулока — с ноября по февраль, когда стоит прохладная сухая погода с температурой 15–28°C. Декабрь и январь особенно приятны с минимумом осадков и комфортными условиями для посещения храмов и активного отдыха. С марта по май жарко и сухо с температурой выше 35°C — терпимо, но менее комфортно для экскурсий. Юго-западный муссон (май–октябрь) приносит обильные дожди, особенно в июле–сентябре, что может вызывать небольшие наводнения и затруднять посещение национальных парков. Однако сезон дождей дарит пышную зелень и меньше туристов. Избегайте октября, когда риск наводнений в регионе максимален. В Пхитсанулоке проходят различные местные фестивали по буддийскому календарю, особенно во время Сонгкрана (апрель) и Лой Кратхонга (ноябрь), когда на берегу реки разворачиваются культурные празднования.",
-      "safetyTips": "Пхитсанулок в целом безопасный город для туристов с высоким индексом безопасности 80–85 и минимальной насильственной преступностью. Однако мелкие кражи возможны на оживлённых рынках и ночных базарах — храните ценные вещи в безопасности и не демонстрируйте дорогие предметы. В сезон дождей (май–октябрь) помните о риске лихорадки денге — используйте репеллент с DEET и носите длинные рукава на рассвете и закате, когда комары наиболее активны. Небольшие наводнения могут затрагивать низинные участки при сильных дождях в сентябре–октябре; проверяйте местные условия перед посещением прибрежных районов. Водопроводную воду обычно не рекомендуют для питья; бутилированная вода широко доступна по всему городу. Соблюдайте храмовые обычаи: одевайтесь скромно (закрывайте плечи и колени), снимайте обувь при входе в священные помещения и никогда не проявляйте неуважение к статуям Будды. Избегайте ношения крупных сумм наличных; банкоматы широко представлены в центре города.",
-      "translated_at": "2026-03-11T00:00:00.000Z"
-    },
-    "ko": {
-      "enhanced_description": "핏사눌록은 태국 중부와 북부를 연결하는 전략적 위치의 활기찬 도시입니다. 방콕에서 북쪽으로 약 370km, 치앙마이에서 남쪽으로 약 300km 거리에 있어 태국 종단 여행의 중간 거점으로 이상적입니다.\n\n왓 프라시 랏따나 마하탓(왓 야이)은 핏사눌록의 핵심 명소로, '프라 풋타 친나랏'이라 불리는 태국에서 가장 아름다운 불상을 모시고 있습니다. 수코타이 시대에 제작된 이 불상은 태국 전역에서 참배자들이 찾아올 정도로 신성시됩니다.\n\n난강은 도시를 가로질러 흐르며, 강변을 따라 수상가옥 레스토랑에서 현지 음식을 즐길 수 있습니다. 핏사눌록의 명물인 '쁠라라드프릭'(튀긴 생선에 칠리 소스)은 반드시 맛봐야 할 현지 요리입니다. 푸힌롱끌라 국립공원은 역사와 자연이 어우러진 독특한 명소로, 당일치기 여행에 추천합니다.",
-      "hidden_gems": [
-        {
-          "name": "핏사눌록 수상시장",
-          "description": "난강 위의 정통 수상시장으로, 보트에서 현지 음식을 판매합니다."
-        },
-        {
-          "name": "푸힌롱끌라 국립공원",
-          "description": "역사적 게릴라 기지였던 곳으로, 독특한 바위 지형과 서늘한 기후가 매력적입니다."
-        },
-        {
-          "name": "반쿤프라 주조소",
-          "description": "전통 불상 주조 기법을 볼 수 있는 공방입니다."
-        },
-        {
-          "name": "난강변 저녁 산책로",
-          "description": "해질녘 여유로운 산책을 즐기기에 완벽한 강변 산책로입니다."
-        },
-        {
-          "name": "왓 낭파야",
-          "description": "아유타야 시대의 역사적 사원으로, 정교한 벽화가 인상적입니다."
-        }
-      ],
-      "authentic_experiences": [],
-      "foodie_adventures": [],
-      "overview": "핏사눌록은 태국 중부와 북부를 연결하는 활기찬 관문 도시로, 태국에서 가장 아름다운 불상이 있는 왓 야이, 수상시장, 푸힌롱끌라 국립공원이 주요 볼거리입니다.",
-      "thingsToDo": "왓 프라시 랏따나 마하탓(왓 야이)은 무료 입장이며, 태국에서 가장 아름다운 불상 '프라 풋타 친나랏'을 모시고 있습니다. 수상시장에서 보트 위의 현지 음식을 즐기고, 푸힌롱끌라 국립공원에서 트레킹을 하세요. 반쿤프라 주조소에서 불상 제작 과정도 볼 수 있습니다.",
-      "whereToStay": "핏사눌록은 모든 예산에 맞는 숙소를 제공하며, 대부분 시내 중심과 기차역 근처에 위치합니다. 난강변의 게스트하우스가 분위기 있습니다.",
-      "gettingAround": "핏사눌록은 컴팩트한 도시로, 툭툭이 가장 일반적인 교통수단입니다. 시내 중심은 도보로도 충분하며, 외곽 명소는 오토바이 대여가 편리합니다.",
-      "bestTimeToVisit": "핏사눌록의 최적 방문 시기는 11월부터 2월까지로, 서늘하고 건조한 날씨가 이어집니다. 3-5월은 매우 덥습니다(40°C 이상).",
-      "safetyTips": "핏사눌록은 매우 안전한 도시입니다. 사원 방문 시 적절한 복장을 갖추고, 푸힌롱끌라 국립공원 트레킹 시 충분한 물과 간식을 준비하세요.",
-      "translated_at": "2026-03-14T00:00:00.000Z"
-    }
-  },
-  "extended_description": "## Overview\nPhitsanulok straddles the Nan River in the lower northern region of Thailand, serving as the gateway between the central plains and the mountainous north. With a population of around 84,000, this 600-year-old city is one of Thailand's most authentically Thai urban experiences — a place where monks collect alms along the riverbank at dawn, houseboat restaurants bob on the Nan River serving flying morning glory, and the magnificent Phra Buddha Chinnarat at Wat Yai is considered by many to be the most beautiful Buddha image in all of Thailand, second in importance only to the Emerald Buddha in Bangkok. Most travelers pass through Phitsanulok en route to Sukhothai's UNESCO ruins 60 kilometers away, but those who linger discover a university city with excellent food, genuine local character, and surprisingly engaging museums that make it worth at least two nights.\n\n## Best Time to Visit\nNovember through February is the sweet spot, with comfortable temperatures of 20-32°C and dry skies ideal for temple visits and cycling along the Nan River. The Phra Buddha Chinnarat fair in late January draws huge crowds for its cultural performances and food stalls around Wat Yai. March through May is punishingly hot — Phitsanulok regularly hits 40°C or higher, making outdoor sightseeing exhausting. The rainy season (June-October) brings afternoon thunderstorms and lush green scenery, with the Nan River swelling to impressive levels. September-October can bring flooding in low-lying areas near the river.\n\n## How to Get There\nPhitsanulok Airport receives daily flights from Bangkok on Nok Air and AirAsia (1 hour, typically 900-2,000 THB booked in advance). The airport is only 5 kilometers from the city center — a songthaew or taxi costs 80-150 THB. Trains from Bangkok's Krung Thep Aphiwat Central Terminal run about five times daily, taking 5-6 hours for 250-1,000 THB depending on class — the comfortable second-class air-con seats are excellent value at around 350-500 THB. Buses from Bangkok's Mo Chit Terminal depart frequently (5-6 hours, 250-450 THB). Phitsanulok is a natural stopover on the Bangkok-Chiang Mai train route, making it easy to break the journey. From Sukhothai, songthaews and buses run regularly (1 hour, 40-60 THB).\n\n## Where to Stay\nThe Nan River waterfront area is the most atmospheric base, with views of the houseboats and temple spires. Budget guesthouses cluster near the train station and along Phaya Lithai Road, with fan rooms from 250-400 THB/night and air-conditioned rooms from 500-800 THB. LiThai Guesthouse near Wat Yai is a popular backpacker choice with a helpful owner and rooms from 350 THB. Mid-range hotels like Topland Hotel and Pattara Resort offer modern comforts from 800-2,000 THB/night with pools and river views. The area around Phitsanulok University has affordable apartments and guesthouses catering to longer-stay visitors. The city is compact enough that location matters less than in bigger Thai cities — everything is reachable by bicycle or tuk-tuk.\n\n## What to Do\nWat Phra Si Rattana Mahathat (locally called Wat Yai) is the essential attraction — the Phra Buddha Chinnarat bronze statue from the 14th century, with its flame-like gold halo and serene expression, draws Thai pilgrims from across the country. Entry is free but a 40 THB donation for the museum section is expected. Watch the gold-leaf application ritual where devotees press thin gold squares onto the image's base. The Sergeant Major Thawee Folk Museum (admission 50 THB) is a quirky but fascinating collection of traditional farming tools, household items, and musical instruments that paints a vivid picture of rural Thai life — one of the best small museums in the country. The houseboat restaurants along the Nan River are Phitsanulok's signature dining experience — order pak bung loi fa (flying morning glory) and watch the cook launch the stir-fried vegetable through the air across the river while a waiter catches it on a plate. The Night Bazaar along Phaya Lithai Road has food stalls, cheap clothing, and local crafts. Rent a bicycle to ride along both banks of the Nan River at sunset.\n\n## Food & Dining\nPhitsanulok is a genuine food city. The must-try local dish is kuay tiew hoy khae — a rice noodle soup with small river mussels and beansprouts that you won't find anywhere else, served at stalls near the train station and night market for 35-50 THB per bowl. The houseboat restaurants (particularly Rim Nam Food Park and Pae Fa Thai) serve full Thai meals on floating platforms — expect to pay 60-150 THB per dish, with the pak bung loi fa (flying morning glory) performance an essential order at 40-60 THB per portion. The night market along Phra Ong Dam Road erupts every evening around 17:00 with dozens of vendors selling grilled meats, curries, fried insects, and fresh fruit (most items 20-50 THB). The Veggie Cafe near LiThai Guesthouse serves excellent Western-Thai fusion with burgers and smoothie bowls (80-200 THB). Khaew tak, sun-dried banana baked with honey, is the local souvenir sweet sold everywhere for 30 THB per package.\n\n## Budget Guide\nPhitsanulok is genuinely cheap. Backpackers spend 500-800 THB/day ($14-22) on guesthouse accommodation, noodle soup breakfasts, and temple visits. Mid-range travelers budget 1,200-2,000 THB/day ($33-55) for comfortable hotels, houseboat restaurant dinners, and day trips to Sukhothai. Sukhothai Historical Park (combined entry for all zones: 510 THB) is the biggest single expense. Tuk-tuks around town cost 30-60 THB per trip. Bicycle rental is 50-100 THB/day and is the ideal way to explore the compact city. Train tickets to/from Bangkok start at just 250 THB.\n\n## Safety & Tips\nPhitsanulok is extremely safe and friendly — it is a real Thai city, not a tourist bubble, so you will be warmly received but English is limited outside hotels and the guesthouse scene. Dress conservatively at Wat Yai (shoulders and knees covered) — this is one of Thailand's most sacred temples and the dress code is enforced. The houseboat restaurants are best visited at sunset when the light on the Nan River is golden and temperatures cool down. September-October flooding can affect riverside areas. If visiting Sukhothai, rent a bicycle at the historical park entrance (30 THB) rather than walking — the ruins are spread over a large area. Phitsanulok makes an excellent overnight stop on the Bangkok-Chiang Mai train route rather than doing the full 12-hour journey in one go.",
-  "getting_there": {
-    "from_bangkok": {
-      "method": "Flight (Nok Air/AirAsia), train, or bus",
-      "duration": "1h flight / 5-6h train / 5-6h bus",
-      "cost": "900-2,000 THB flight / 250-1,000 THB train / 250-450 THB bus"
-    },
-    "airport": "Phitsanulok Airport (5 km from center), songthaew/taxi 80-150 THB"
-  },
-  "best_time": {
-    "peak": "Nov-Feb",
-    "shoulder": "Jun-Oct",
-    "low": "Mar-May",
-    "best_months": "Nov-Jan",
-    "why": "Cool and dry weather perfect for temple visits and cycling. The Phra Buddha Chinnarat fair in late January is the cultural highlight."
-  },
-  "budget": {
-    "backpacker": "$14-22/day",
-    "mid_range": "$33-55/day",
-    "luxury": "$55+/day",
-    "typical_meal": "35-50 THB noodle soups, 60-150 THB houseboat restaurant"
-  },
-  "neighborhoods": [
-    {
-      "name": "Nan River Waterfront",
-      "vibe": "Scenic, atmospheric, houseboat restaurants",
-      "best_for": "River dining, sunset cycling, photography",
-      "price_range": "$7-14/night"
-    },
-    {
-      "name": "Train Station / Wat Yai Area",
-      "vibe": "Central, convenient, local street food",
-      "best_for": "Budget travelers, temple access, night market",
-      "price_range": "$7-22/night"
-    }
-  ],
-  "must_try_food": [
-    "Kuay tiew hoy khae - rice noodle soup with tiny river mussels, Phitsanulok's unique local dish (35-50 THB)",
-    "Pak bung loi fa - flying morning glory stir-fry launched through the air at houseboat restaurants, the city's signature performance (40-60 THB)",
-    "Khaew tak - sun-dried banana baked with honey, the local sweet souvenir sold everywhere (30 THB/pack)"
-  ],
-  "local_tips": [
-    "Eat at a houseboat restaurant on the Nan River at sunset — order the flying morning glory for the show and stay for the atmosphere",
-    "The Sergeant Major Thawee Folk Museum is one of Thailand's best small museums — don't skip it for just 50 THB",
-    "Use Phitsanulok as a base for Sukhothai rather than staying in new Sukhothai town — better food, more character, same distance",
-    "Rent a bicycle (50-100 THB/day) and ride both banks of the Nan River — the city is flat and very cyclable",
-    "Break up the Bangkok-Chiang Mai train journey with an overnight stop here — it makes the 12-hour ride much more enjoyable"
-  ],
-  "day_trips": [
-    "Sukhothai Historical Park (60 km west) - UNESCO World Heritage ruins of Thailand's first capital, bicycle-friendly (510 THB combined entry)",
-    "Si Satchanalai Historical Park (120 km northwest) - quieter and more atmospheric Sukhothai-era ruins with fewer tourists",
-    "Phu Hin Rong Kla National Park (120 km east) - mountaintop former communist stronghold with cool climate and cliff viewpoints",
-    "Kaeng Sopha Waterfall (75 km east) - impressive multi-tiered waterfall in Thung Salaeng Luang National Park"
-  ],
-  "enriched_at": "2026-03-22"
+  "reviewed_by": "Go2Thailand Editorial Team",
+  "enhanced_at": "2026-03-27T00:00:00.000Z",
+  "enrichedAt": "2026-03-27T00:00:00.000Z",
+  "factchecked_at": "2026-03-27T00:00:00.000Z"
 }

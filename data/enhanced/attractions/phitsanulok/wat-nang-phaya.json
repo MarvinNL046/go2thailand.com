@@ -1,0 +1,78 @@
+{
+  "id": 3,
+  "slug": "wat-nang-phaya",
+  "name": {
+    "en": "Wat Nang Phaya",
+    "nl": "Wat Nang Phaya"
+  },
+  "type": "temple",
+  "city_slug": "phitsanulok",
+  "address": "Old-center side near Wat Ratchaburana, Phitsanulok",
+  "location": null,
+  "opening_hours": "Temple access should be treated as active religious space; recheck locally if exact hours matter",
+  "entrance_fee": {
+    "thb": null,
+    "usd": null
+  },
+  "description": {
+    "en": "A compact old-center temple that makes sense as part of the same heritage pass, not as a separate headline outing.",
+    "nl": "Een compacte tempel in het oude centrum die werkt als onderdeel van dezelfde erfgoedroute, niet als aparte hoofdstop."
+  },
+  "highlights": [
+    "Historic temple fabric",
+    "Easy add-on after Wat Ratchaburana",
+    "Works inside the same walk"
+  ],
+  "image": "/images/cities/generated/phitsanulok.webp",
+  "official_website": null,
+  "seo": {
+    "metaTitle": {
+      "en": "Wat Nang Phaya Phitsanulok | Go2Thailand",
+      "nl": "Wat Nang Phaya Phitsanulok | Go2Thailand"
+    },
+    "metaDescription": {
+      "en": "Why Wat Nang Phaya works best as a compact final temple stop in the Phitsanulok old core.",
+      "nl": "Waarom Wat Nang Phaya het best werkt als compacte laatste tempelstop in de oude kern van Phitsanulok."
+    }
+  },
+  "tags": [
+    "phitsanulok",
+    "wat nang phaya",
+    "temple",
+    "old town"
+  ],
+  "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=Wat%20Nang%20Phaya%20Phitsanulok",
+  "best_time": "morning or late afternoon",
+  "duration_hours": 0.75,
+  "enhanced_description": "Wat Nang Phaya is at its best when it stays attached to the same old-core temple route as Wat Yai and Wat Ratchaburana. That is what makes it useful. It adds one more layer of historical texture without trying to become a full separate attraction day.\n\nThis is exactly the kind of stop that gets overblown by thin travel copy. The better version is more restrained: use it as the closing temple in the old-center sequence, then move on to lunch or the evening river side.",
+  "detailed_history": "TAT's older city itinerary still places Wat Nang Phaya directly in the same central sequence as Wat Ratchaburana and Wat Yai, which is the strongest evidence for how the site should be used editorially.",
+  "visitor_experience": "Expect a shorter and quieter temple visit than the main Wat Yai stop. Its value comes from context and proximity, not from replacing the city's principal temple.",
+  "best_time_to_visit": {
+    "time_of_day": "Morning or late afternoon",
+    "duration": "About 30 to 45 minutes",
+    "crowd_level": "Usually light"
+  },
+  "practical_info": {
+    "how_to_get_there": "Best reached on the same old-core walk as Wat Yai and Wat Ratchaburana.",
+    "nearby_attractions": "Wat Ratchaburana, Wat Phra Si Rattana Mahathat, and the central river side.",
+    "food_options": "Pair it with a central meal instead of making it the only reason to cross town.",
+    "shopping": "Treat it as a heritage stop rather than a retail stop."
+  },
+  "insider_tips": [
+    "Do this after Wat Ratchaburana, not before Wat Yai.",
+    "A short respectful visit is enough.",
+    "This temple works because it sharpens the core route, not because it tries to out-scale the others."
+  ],
+  "verified_note": "Source-backed summary based on TAT's Phitsanulok itinerary material.",
+  "cultural_significance": "Wat Nang Phaya helps complete the compact old-town temple sequence that gives Phitsanulok a more layered religious and historical identity than a single flagship temple alone.",
+  "contentSources": [
+    {
+      "name": "Experiencing Phitsanulok 3 Days and 2 Nights",
+      "url": "https://www.tourismthailand.org/Articles/https-www-tourismthailand-org-articles-experiencing-phitsanulok-3-days-and-2-nights"
+    },
+    {
+      "name": "Phitsanulok",
+      "url": "https://www.tourismthailand.org/Destinations/Provinces/Phitsanulok/112"
+    }
+  ]
+}
