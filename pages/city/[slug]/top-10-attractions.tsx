@@ -5,9 +5,7 @@ import Breadcrumbs from '../../../components/Breadcrumbs';
 import SEOHead from '../../../components/SEOHead';
 import fs from 'fs';
 import path from 'path';
-import AffiliateBox from '../../../components/AffiliateBox';
 import CityExploreMore from '../../../components/CityExploreMore';
-import { getAffiliates, CityAffiliates } from '../../../lib/affiliates';
 
 interface City {
   id: number;
@@ -57,11 +55,10 @@ interface Top10AttractionsData {
 interface Top10AttractionsPageProps {
   city: City;
   attractionsData: Top10AttractionsData | null;
-  affiliates: CityAffiliates | null;
   editorial?: string;
 }
 
-export default function Top10AttractionsPage({ city, attractionsData, affiliates, editorial }: Top10AttractionsPageProps) {
+export default function Top10AttractionsPage({ city, attractionsData, editorial }: Top10AttractionsPageProps) {
   if (!city) return <div>City not found</div>;
 
   const breadcrumbs = [
@@ -102,13 +99,18 @@ export default function Top10AttractionsPage({ city, attractionsData, affiliates
     );
   }
 
+  const reviewedDate = attractionsData.last_perplexity_update || attractionsData.generated_at;
+  const reviewedLabel = reviewedDate
+    ? new Intl.DateTimeFormat('en-US', { month: 'long', year: 'numeric' }).format(new Date(reviewedDate))
+    : null;
+  const hasSources = !!attractionsData.content_sources?.length;
+
   return (
     <>
       <SEOHead
         title={attractionsData.title}
         description={attractionsData.meta_description}
       >
-        <meta name="robots" content="noindex, follow" />
         <script
           type="application/ld+json"
           dangerouslySetInnerHTML={{
@@ -149,9 +151,7 @@ export default function Top10AttractionsPage({ city, attractionsData, affiliates
                   "name": item.name,
                   "description": item.description || item.story || '',
                   "url": `https://go2-thailand.com/city/${city.slug}/top-10-attractions/#attraction-${item.rank}`,
-                  "hasMap": `https://www.google.com/maps/search/?api=1&query=${encodeURIComponent(item.name + ' ' + city.name.en + ' Thailand')}`,
-                  "isAccessibleForFree": true,
-                  "touristType": "Tourists"
+                  "hasMap": `https://www.google.com/maps/search/?api=1&query=${encodeURIComponent(item.name + ' ' + city.name.en + ' Thailand')}`
                 }
               }))
             })
@@ -175,20 +175,17 @@ export default function Top10AttractionsPage({ city, attractionsData, affiliates
                 {attractionsData.intro}
               </div>
 
-              {/* Data sources badge */}
-              {attractionsData.data_sources && (
-                <div className="flex justify-center items-center gap-2 text-sm text-gray-500 mb-6">
-                  <span className="bg-green-100 text-green-700 px-3 py-1 rounded-full">
-                    Current Info
-                  </span>
-                  {attractionsData.hybrid && (
-                    <span className="bg-blue-100 text-blue-700 px-3 py-1 rounded-full">
-                      Expert Curated
+              {/* Trust signals */}
+              {(hasSources || reviewedLabel) && (
+                <div className="flex flex-wrap justify-center items-center gap-2 text-sm text-gray-500 mb-6">
+                  {hasSources && (
+                    <span className="bg-green-100 text-green-700 px-3 py-1 rounded-full">
+                      Primary sources linked below
                     </span>
                   )}
-                  {attractionsData.last_perplexity_update && (
-                    <span className="bg-purple-100 text-purple-700 px-3 py-1 rounded-full">
-                      Updated {new Date(attractionsData.last_perplexity_update).toLocaleDateString()}
+                  {reviewedLabel && (
+                    <span className="bg-blue-100 text-blue-700 px-3 py-1 rounded-full">
+                      Reviewed {reviewedLabel}
                     </span>
                   )}
                 </div>
@@ -267,9 +264,6 @@ export default function Top10AttractionsPage({ city, attractionsData, affiliates
               {/* Main Content */}
               <main className="lg:col-span-9">
                 <div className="space-y-8">
-                  {affiliates && (
-                    <AffiliateBox affiliates={affiliates} cityName={city.name.en} type="tours" />
-                  )}
                   {attractionsData.items.map((attraction, index) => (
                     <div key={attraction.rank}>
                       {/* Attraction Item */}
@@ -364,40 +358,6 @@ export default function Top10AttractionsPage({ city, attractionsData, affiliates
                   <div className="mt-12">
                   </div>
 
-                  {/* Book Tickets & Tours - Affiliate CTA */}
-                  <div className="bg-surface-cream rounded-2xl shadow-md p-8 text-center border-0">
-                    <h3 className="text-2xl font-bold font-heading text-gray-900 mb-3">
-                      Book Tickets & Tours in {city.name.en}
-                    </h3>
-                    <p className="text-gray-600 mb-6">
-                      Skip the queues and book tickets, guided tours, and unique experiences in {city.name.en} online.
-                    </p>
-                    <div className="flex flex-col sm:flex-row gap-4 justify-center mb-4">
-                      <a
-                        href="https://klook.tpo.lv/aq6ZFxvc"
-                        target="_blank"
-                        rel="noopener noreferrer sponsored"
-                        className="inline-block bg-thailand-red text-white px-6 py-3 rounded-xl font-semibold hover:bg-thailand-red/90 transition-colors"
-                      >
-                        Book on Klook
-                      </a>
-                      <a
-                        href="https://getyourguide.tpo.lv/GuAFfGGK"
-                        target="_blank"
-                        rel="noopener noreferrer sponsored"
-                        className="inline-block bg-thailand-blue text-white px-6 py-3 rounded-xl font-semibold hover:bg-thailand-blue/90 transition-colors"
-                      >
-                        Book on GetYourGuide
-                      </a>
-                    </div>
-                    <Link href="/activities/" className="text-sm text-thailand-blue hover:underline">
-                      Browse all activities in Thailand →
-                    </Link>
-                    <p className="text-xs text-gray-500 mt-2">
-                      We earn a commission at no extra cost to you
-                    </p>
-                  </div>
-
                   {/* Call to Action */}
                   <div className="bg-white rounded-2xl shadow-md p-8 text-center">
                     <h3 className="text-2xl font-bold font-heading text-gray-900 mb-4">
@@ -477,8 +437,6 @@ export const getStaticProps: GetStaticProps = async ({ params, locale }) => {
     // No top 10 attractions data found for this city
   }
 
-  const affiliates = getAffiliates(params.slug as string);
-
   let editorial = '';
   try {
     const editorialsPath = path.join(process.cwd(), 'data', 'top10-editorials.json');
@@ -495,7 +453,6 @@ export const getStaticProps: GetStaticProps = async ({ params, locale }) => {
     props: {
       city,
       attractionsData,
-      affiliates,
       editorial,
     },
     revalidate: 86400 // Revalidate daily

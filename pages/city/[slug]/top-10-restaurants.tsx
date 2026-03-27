@@ -2,12 +2,9 @@ import { GetStaticProps, GetStaticPaths } from 'next';
 import Link from 'next/link';
 import { getCityBySlug, getCityStaticPaths, generateBreadcrumbs } from '../../../lib/cities';
 import Breadcrumbs from '../../../components/Breadcrumbs';
-import TripcomWidget from '../../../components/TripcomWidget';
 import SEOHead from '../../../components/SEOHead';
 import CityExploreMore from '../../../components/CityExploreMore';
-import AffiliateBox from '../../../components/AffiliateBox';
 import InlineAd from '../../../components/ads/InlineAd';
-import { getAffiliates, CityAffiliates } from '../../../lib/affiliates';
 import fs from 'fs';
 import path from 'path';
 
@@ -73,11 +70,10 @@ interface Top10RestaurantsData {
 interface Top10RestaurantsPageProps {
   city: City;
   restaurantsData: Top10RestaurantsData | null;
-  affiliates: CityAffiliates | null;
   editorial?: string;
 }
 
-export default function Top10RestaurantsPage({ city, restaurantsData, affiliates, editorial }: Top10RestaurantsPageProps) {
+export default function Top10RestaurantsPage({ city, restaurantsData, editorial }: Top10RestaurantsPageProps) {
   if (!city) return <div>City not found</div>;
 
   const breadcrumbs = [
@@ -118,14 +114,18 @@ export default function Top10RestaurantsPage({ city, restaurantsData, affiliates
     );
   }
 
+  const reviewedDate = restaurantsData.last_perplexity_update || restaurantsData.last_scraped || restaurantsData.generated_at;
+  const reviewedLabel = reviewedDate
+    ? new Intl.DateTimeFormat('en-US', { month: 'long', year: 'numeric' }).format(new Date(reviewedDate))
+    : null;
+  const hasSources = !!restaurantsData.content_sources?.length;
+
   return (
     <>
       <SEOHead
         title={restaurantsData.title}
         description={restaurantsData.meta_description}
       >
-        <meta name="robots" content="noindex, follow" />
-        <meta name="keywords" content={`${city.name.en} restaurants, Thailand dining, local food, ${city.name.en} cuisine, restaurant guide`} />
         <script
           type="application/ld+json"
           dangerouslySetInnerHTML={{
@@ -183,22 +183,17 @@ export default function Top10RestaurantsPage({ city, restaurantsData, affiliates
                 {restaurantsData.intro}
               </div>
 
-              {/* Data sources badge */}
-              {restaurantsData.data_sources && (
+              {/* Trust signals */}
+              {(hasSources || reviewedLabel) && (
                 <div className="flex flex-wrap justify-center items-center gap-2 text-sm text-gray-500 mb-6">
-                  {restaurantsData.scraped && (
+                  {hasSources && (
                     <span className="bg-green-100 text-green-700 px-3 py-1 rounded-full">
-                      Verified Restaurant Data
+                      Primary sources linked below
                     </span>
                   )}
-                  {restaurantsData.data_sources.includes('scraped') && (
-                    <span className="bg-blue-100 text-blue-700 px-3 py-1 rounded-full capitalize">
-                      Source: {restaurantsData.data_sources[0]}
-                    </span>
-                  )}
-                  {(restaurantsData.last_scraped || restaurantsData.last_perplexity_update) && (
-                    <span className="bg-purple-100 text-purple-700 px-3 py-1 rounded-full">
-                      Updated {new Date(restaurantsData.last_scraped || restaurantsData.last_perplexity_update!).toLocaleDateString()}
+                  {reviewedLabel && (
+                    <span className="bg-blue-100 text-blue-700 px-3 py-1 rounded-full">
+                      Reviewed {reviewedLabel}
                     </span>
                   )}
                 </div>
@@ -309,27 +304,6 @@ export default function Top10RestaurantsPage({ city, restaurantsData, affiliates
                                 </div>
                               )}
                               <div className="flex flex-wrap items-center gap-3 mt-2">
-                                {restaurant.scraped?.rating && (
-                                  <span className="inline-flex items-center bg-yellow-100 text-yellow-800 px-2.5 py-1 rounded-lg text-sm font-semibold">
-                                    <svg className="w-4 h-4 mr-1" viewBox="0 0 20 20" fill="currentColor"><path d="M9.049 2.927c.3-.921 1.603-.921 1.902 0l1.07 3.292a1 1 0 00.95.69h3.462c.969 0 1.371 1.24.588 1.81l-2.8 2.034a1 1 0 00-.364 1.118l1.07 3.292c.3.921-.755 1.688-1.54 1.118l-2.8-2.034a1 1 0 00-1.175 0l-2.8 2.034c-.784.57-1.838-.197-1.539-1.118l1.07-3.292a1 1 0 00-.364-1.118L2.98 8.72c-.783-.57-.38-1.81.588-1.81h3.461a1 1 0 00.951-.69l1.07-3.292z"/></svg>
-                                    {restaurant.scraped.rating}/5
-                                  </span>
-                                )}
-                                {restaurant.scraped?.review_count && (
-                                  <span className="text-sm text-gray-500">
-                                    {restaurant.scraped.review_count.toLocaleString()} reviews
-                                  </span>
-                                )}
-                                {restaurant.scraped?.cuisine && (
-                                  <span className="text-sm text-gray-500">
-                                    {restaurant.scraped.cuisine}
-                                  </span>
-                                )}
-                                {restaurant.scraped?.source && (
-                                  <span className="text-xs text-gray-400 capitalize">
-                                    via {restaurant.scraped.source}
-                                  </span>
-                                )}
                                 <a
                                   href={`https://www.google.com/maps/search/?api=1&query=${encodeURIComponent(restaurant.name + ' ' + city.name.en + ' Thailand')}`}
                                   target="_blank"
@@ -393,21 +367,6 @@ export default function Top10RestaurantsPage({ city, restaurantsData, affiliates
                   {/* Bottom Banner Ad */}
                   <div className="mt-12">
                   </div>
-
-                  {/* Trip.com Bundle Widget */}
-                  <div className="mt-12">
-                    <TripcomWidget 
-                      city={city.name.en}
-                      type="bundle"
-                      customTitle="Stay Near These Top Restaurants"
-                      className="max-w-3xl mx-auto"
-                    />
-                  </div>
-
-                  {/* Book a Food Experience - Affiliate CTA */}
-                  {affiliates && (
-                    <AffiliateBox affiliates={affiliates} cityName={city.name.en} type="activities" />
-                  )}
 
                   {/* Call to Action */}
                   <div className="bg-white rounded-2xl shadow-md p-8 text-center">
@@ -510,8 +469,6 @@ export const getStaticProps: GetStaticProps = async ({ params, locale }) => {
 
   if (!city) return { notFound: true };
 
-  const affiliates = getAffiliates(params.slug as string);
-
   // Try to load locale-specific top 10 restaurants data, fallback to English
   let restaurantsData = null;
   try {
@@ -542,7 +499,6 @@ export const getStaticProps: GetStaticProps = async ({ params, locale }) => {
     props: {
       city,
       restaurantsData,
-      affiliates,
       editorial,
     },
     revalidate: 86400 // Revalidate daily

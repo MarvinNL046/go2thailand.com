@@ -2,7 +2,6 @@ import { GetStaticProps, GetStaticPaths } from 'next';
 import Link from 'next/link';
 import { getCityBySlug, getCityStaticPaths, generateBreadcrumbs } from '../../../lib/cities';
 import Breadcrumbs from '../../../components/Breadcrumbs';
-import TripcomWidget from '../../../components/TripcomWidget';
 import SEOHead from '../../../components/SEOHead';
 import CityExploreMore from '../../../components/CityExploreMore';
 import fs from 'fs';
@@ -115,13 +114,18 @@ export default function Top10HotelsPage({ city, hotelsData, editorial }: Top10Ho
     );
   }
 
+  const reviewedDate = hotelsData.last_perplexity_update || hotelsData.last_scraped || hotelsData.generated_at;
+  const reviewedLabel = reviewedDate
+    ? new Intl.DateTimeFormat('en-US', { month: 'long', year: 'numeric' }).format(new Date(reviewedDate))
+    : null;
+  const hasSources = !!hotelsData.content_sources?.length;
+
   return (
     <>
       <SEOHead
         title={hotelsData.title}
         description={hotelsData.meta_description}
       >
-        <meta name="robots" content="noindex, follow" />
         <script
           type="application/ld+json"
           dangerouslySetInnerHTML={{
@@ -179,22 +183,17 @@ export default function Top10HotelsPage({ city, hotelsData, editorial }: Top10Ho
                 {hotelsData.intro}
               </div>
 
-              {/* Data sources badge */}
-              {hotelsData.data_sources && (
+              {/* Trust signals */}
+              {(hasSources || reviewedLabel) && (
                 <div className="flex flex-wrap justify-center items-center gap-2 text-sm text-gray-500 mb-6">
-                  {hotelsData.scraped && (
+                  {hasSources && (
                     <span className="bg-green-100 text-green-700 px-3 py-1 rounded-full">
-                      Verified Hotel Data
+                      Official and primary sources linked below
                     </span>
                   )}
-                  {hotelsData.data_sources.includes('scraped') && (
-                    <span className="bg-blue-100 text-blue-700 px-3 py-1 rounded-full capitalize">
-                      Source: {hotelsData.data_sources[0]}
-                    </span>
-                  )}
-                  {(hotelsData.last_scraped || hotelsData.last_perplexity_update) && (
-                    <span className="bg-purple-100 text-purple-700 px-3 py-1 rounded-full">
-                      Updated {new Date(hotelsData.last_scraped || hotelsData.last_perplexity_update!).toLocaleDateString()}
+                  {reviewedLabel && (
+                    <span className="bg-blue-100 text-blue-700 px-3 py-1 rounded-full">
+                      Reviewed {reviewedLabel}
                     </span>
                   )}
                 </div>
@@ -213,18 +212,6 @@ export default function Top10HotelsPage({ city, hotelsData, editorial }: Top10Ho
             <p className="text-lg text-gray-700 leading-relaxed">{editorial}</p>
           </div>
         )}
-
-        {/* Trip.com Hotels Widget */}
-        <section className="py-8 bg-surface-cream">
-          <div className="container-custom">
-            <TripcomWidget 
-              city={city.name.en}
-              type="hotels"
-              customTitle={`Book Your Hotel in ${city.name.en}`}
-              className="max-w-4xl mx-auto"
-            />
-          </div>
-        </section>
 
         {/* Main Content */}
         <section className="section-padding">
@@ -312,22 +299,6 @@ export default function Top10HotelsPage({ city, hotelsData, editorial }: Top10Ho
                                 </div>
                               )}
                               <div className="flex flex-wrap items-center gap-3 mt-2">
-                                {hotel.scraped?.rating && (
-                                  <span className="inline-flex items-center bg-yellow-100 text-yellow-800 px-2.5 py-1 rounded-lg text-sm font-semibold">
-                                    <svg className="w-4 h-4 mr-1" viewBox="0 0 20 20" fill="currentColor"><path d="M9.049 2.927c.3-.921 1.603-.921 1.902 0l1.07 3.292a1 1 0 00.95.69h3.462c.969 0 1.371 1.24.588 1.81l-2.8 2.034a1 1 0 00-.364 1.118l1.07 3.292c.3.921-.755 1.688-1.54 1.118l-2.8-2.034a1 1 0 00-1.175 0l-2.8 2.034c-.784.57-1.838-.197-1.539-1.118l1.07-3.292a1 1 0 00-.364-1.118L2.98 8.72c-.783-.57-.38-1.81.588-1.81h3.461a1 1 0 00.951-.69l1.07-3.292z"/></svg>
-                                    {hotel.scraped.rating}/{hotel.scraped.source === 'booking.com' ? '10' : '5'}
-                                  </span>
-                                )}
-                                {hotel.scraped?.review_count && (
-                                  <span className="text-sm text-gray-500">
-                                    {hotel.scraped.review_count.toLocaleString()} reviews
-                                  </span>
-                                )}
-                                {hotel.scraped?.source && (
-                                  <span className="text-xs text-gray-400 capitalize">
-                                    via {hotel.scraped.source}
-                                  </span>
-                                )}
                                 <a
                                   href={`https://www.google.com/maps/search/?api=1&query=${encodeURIComponent(hotel.name + ' ' + city.name.en + ' Thailand')}`}
                                   target="_blank"
@@ -374,32 +345,6 @@ export default function Top10HotelsPage({ city, hotelsData, editorial }: Top10Ho
                               </p>
                             </div>
                           )}
-
-                          {/* Booking Buttons */}
-                          {(hotel.affiliate_url || hotel.trip_affiliate_url) && (
-                            <div className="flex flex-wrap gap-3 mt-4">
-                              {hotel.affiliate_url && (
-                                <a
-                                  href={hotel.affiliate_url}
-                                  target="_blank"
-                                  rel="noopener noreferrer sponsored"
-                                  className="inline-flex items-center bg-thailand-blue text-white px-4 py-2 rounded-lg text-sm font-semibold hover:bg-thailand-blue/90 transition-colors"
-                                >
-                                  Check on Booking.com
-                                </a>
-                              )}
-                              {hotel.trip_affiliate_url && (
-                                <a
-                                  href={hotel.trip_affiliate_url}
-                                  target="_blank"
-                                  rel="noopener noreferrer sponsored"
-                                  className="inline-flex items-center bg-thailand-red text-white px-4 py-2 rounded-lg text-sm font-semibold hover:bg-thailand-red/90 transition-colors"
-                                >
-                                  Check on Trip.com
-                                </a>
-                              )}
-                            </div>
-                          )}
                         </div>
                       </article>
 
@@ -418,37 +363,6 @@ export default function Top10HotelsPage({ city, hotelsData, editorial }: Top10Ho
 
                   {/* Bottom Banner Ad */}
                   <div className="mt-12">
-                  </div>
-
-                  {/* Book Your Hotel - Affiliate CTA */}
-                  <div className="bg-surface-cream rounded-2xl shadow-md p-8 text-center border-0">
-                    <h3 className="text-2xl font-bold font-heading text-gray-900 mb-3">
-                      Book Your Hotel in {city.name.en}
-                    </h3>
-                    <p className="text-gray-600 mb-6">
-                      Compare rates across top booking platforms and find the best deal for your stay in {city.name.en}.
-                    </p>
-                    <div className="flex flex-col sm:flex-row gap-4 justify-center mb-4">
-                      <a
-                        href="https://trip.tpo.lv/TmObooZ5"
-                        target="_blank"
-                        rel="noopener noreferrer"
-                        className="inline-block bg-thailand-red text-white px-6 py-3 rounded-xl font-semibold hover:bg-thailand-red/90 transition-colors"
-                      >
-                        Search on Trip.com
-                      </a>
-                      <a
-                        href="https://booking.tpo.lv/2PT1kR82"
-                        target="_blank"
-                        rel="noopener noreferrer"
-                        className="inline-block bg-thailand-blue text-white px-6 py-3 rounded-xl font-semibold hover:bg-thailand-blue/90 transition-colors"
-                      >
-                        Search on Booking.com
-                      </a>
-                    </div>
-                    <p className="text-xs text-gray-500">
-                      We earn a commission at no extra cost to you
-                    </p>
                   </div>
 
                   {/* Call to Action */}
