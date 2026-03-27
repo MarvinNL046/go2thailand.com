@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-03-27T23:02:00.000Z",
+  "updated_at": "2026-03-27T23:58:00.000Z",
   "project": "go2thailand top-10 cluster upgrade tracker",
   "goal": "Upgrade all English city top-10 clusters to source-backed, non-thin, AdSense-safe, EEAT-oriented pages.",
   "scope": [
@@ -45,8 +45,8 @@
     },
     {
       "slug": "chiang-mai",
-      "status": "pending",
-      "notes": ""
+      "status": "done",
+      "notes": "Rebuilt the attractions, restaurants, and hotels top-10 files with official, TAT, airport, and MICHELIN-backed sources; removed first-person filler, scrape fields, affiliate URLs, and review-count spam."
     },
     {
       "slug": "chiang-rai",
