@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-03-27T23:58:00.000Z",
+  "updated_at": "2026-03-28T00:06:00.000Z",
   "project": "go2thailand top-10 cluster upgrade tracker",
   "goal": "Upgrade all English city top-10 clusters to source-backed, non-thin, AdSense-safe, EEAT-oriented pages.",
   "scope": [
@@ -50,8 +50,8 @@
     },
     {
       "slug": "chiang-rai",
-      "status": "pending",
-      "notes": ""
+      "status": "done",
+      "notes": "Cluster already met the stronger top-10 standard with clean source-backed shortlists; validated the three routes, jq, and rendered HTML leak checks before marking done."
     },
     {
       "slug": "chumphon",
