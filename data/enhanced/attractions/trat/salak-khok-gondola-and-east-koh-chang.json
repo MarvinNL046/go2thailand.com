@@ -1,0 +1,77 @@
+{
+  "id": 5,
+  "slug": "salak-khok-gondola-and-east-koh-chang",
+  "name": {
+    "en": "Salak Khok gondola and east Koh Chang",
+    "nl": "Salak Khok gondola en oost-Koh Chang"
+  },
+  "type": "island",
+  "city_slug": "trat",
+  "address": "Salak Khok, Koh Chang, Trat Province",
+  "location": null,
+  "opening_hours": "Community boat timing can vary, so the current local setup should be checked directly before going.",
+  "entrance_fee": {
+    "thb": null,
+    "usd": null
+  },
+  "description": {
+    "en": "The strongest Koh Chang extension for this city cluster, built around a gondola-style mangrove route rather than generic west-coast beach filler.",
+    "nl": "De sterkste Koh Chang-uitstap voor deze stadscluster, gebouwd rond een gondelroute door mangroven in plaats van generieke westkust-strandcopy."
+  },
+  "highlights": [
+    "Thai-style gondola route",
+    "Mangrove scenery",
+    "Community-led Koh Chang layer"
+  ],
+  "image": "/images/cities/generated/trat.webp",
+  "seo": {
+    "metaTitle": {
+      "en": "Salak Khok Gondola and East Koh Chang | Trat | Go2Thailand",
+      "nl": "Salak Khok gondola en oost-Koh Chang | Trat | Go2Thailand"
+    },
+    "metaDescription": {
+      "en": "Why Salak Khok is the best Koh Chang extension for a Trat town-and-community itinerary.",
+      "nl": "Waarom Salak Khok de beste Koh Chang-uitstap is voor een Trat-town-en-community-itinerarium."
+    }
+  },
+  "tags": [
+    "trat",
+    "koh-chang",
+    "salak-khok",
+    "gondola"
+  ],
+  "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=Salak+Khok+Koh+Chang",
+  "best_time": "half-day outing",
+  "duration_hours": 4,
+  "enhanced_description": "Salak Khok is the Koh Chang add-on that actually helps this cluster rather than flattening it. TAT's feature on the gondola route keeps the east side of Koh Chang visible as a quieter mangrove-and-community layer, which is exactly what a Trat town-first page needs from the island extension.\n\nThat makes Salak Khok a better fit than generic west-coast resort and nightlife copy. It lets Koh Chang join the cluster without erasing the mainland identity that should still carry most of the trip.",
+  "detailed_history": "Salak Khok sits within Koh Chang's quieter east-side geography, where mangroves and traditional community life remain more visible than on the resort-heavy western beaches.",
+  "visitor_experience": "Expect a calmer island outing centered on scenery, water, and local boat culture rather than on beach-club energy. This is the better island layer when the main trip is still mainland Trat-first.",
+  "best_time_to_visit": {
+    "time_of_day": "Half-day route",
+    "duration": "Three to four hours plus transfers",
+    "crowd_level": "Usually lighter than west-coast Koh Chang"
+  },
+  "practical_info": {
+    "how_to_get_there": "Plan the Koh Chang transfer first, then continue to the east-side community by local road transport.",
+    "nearby_attractions": "Other Koh Chang stops can be added, but this route is strongest when kept selective.",
+    "food_options": "Treat food here as support to the outing rather than the main reason to cross over.",
+    "shopping": "Not a meaningful shopping route."
+  },
+  "insider_tips": [
+    "Use this only if Koh Chang is a deliberate extension.",
+    "The route is stronger for atmosphere and mangroves than for checking off beaches.",
+    "Keep it selective so the Trat mainland still stays central."
+  ],
+  "verified_note": "Source-backed summary based on current Tourism Authority of Thailand coverage of the Salak Khok gondola route.",
+  "cultural_significance": "Salak Khok gives Koh Chang a more grounded community role inside the Trat cluster instead of reducing the island to resort shorthand.",
+  "contentSources": [
+    {
+      "name": "Cruise in Style on Koh Chang's Gondola",
+      "url": "https://www.tourismthailand.org/Articles/cruise-in-style-on-koh-chang-s-gondola"
+    },
+    {
+      "name": "Ko Chang Province Page",
+      "url": "https://www.tourismthailand.org/Destinations/Provinces/Ko%20Chang/467"
+    }
+  ]
+}

@@ -9,28 +9,32 @@
     "th": "ตราด",
     "de": "Trat",
     "fr": "Trat",
-    "ru": "Трат",
-    "zh": "特拉特"
+    "ru": "Trat",
+    "zh": "Trat"
   },
-  "region": "Central",
+  "region": "East",
   "province": "Trat",
   "description": {
-    "en": "Charming eastern coastal province and gateway to Koh Chang, Thailand's second-largest island. Known for pristine islands, mangrove forests, gem trading, and authentic Thai small-town atmosphere.",
-    "nl": "Charmante oostelijke kustprovincie en toegangspoort tot Koh Chang, Thailands op een na grootste eiland. Bekend om ongerepte eilanden, mangrovebossen, edelsteenhandel en authentieke Thaise kleinstadssfeer.",
-    "ja": "タイ第2の大きさを誇るチャーン島への玄関口、トラートは魅力ある東部海岸の県で、趣ある旧市街と美しい島々が魅力です。",
-    "ko": "태국에서 두 번째로 큰 섬인 꼬창으로의 관문인 매력적인 동부 해안 지방입니다. 천혜의 섬들, 맹그로브 숲, 보석 거래, 정통 태국 소도시 분위기로 유명합니다.",
-    "th": "ประตูสู่หมู่เกาะตะวันออก มีเกาะช้าง เกาะกูด เกาะหมาก และป่าชายเลน",
-    "de": "Charmante östliche Küstenprovinz und Tor zu Koh Chang, Thailands zweitgrößte Insel. Bekannt für unberührte Inseln, Mangrovenwälder, Edelsteinhandel und authentisches thailändisches Kleinstadtflair.",
-    "fr": "Charmante province côtière orientale et porte d’entrée vers Koh Chang, la deuxième plus grande île de Thaïlande. Connue pour ses îles préservées, ses mangroves, le négoce de gemmes et l’atmosphère authentique d’une petite ville thaïlandaise.",
-    "ru": "Очаровательная восточная приморская провинция и ворота к Ко Чангу, второму по величине острову Таиланда. Известна своими нетронутыми островами, мангровыми лесами, торговлей драгоценными камнями и подлинной атмосферой тайского маленького городка.",
-    "zh": "迷人的东部沿海省份，也是通往考昌岛的门户，泰国第二大岛。以原始岛屿、红树林、宝石贸易和地道泰国小镇氛围而闻名。"
+    "en": "Trat works best as an eastern coastal town with a real mainland core, food identity, and a few selective sea-facing extensions, not as a thin ferry waiting room for Koh Chang and beyond.",
+    "nl": "Trat werkt het best als een oostelijke kuststad met een echte mainland-kern, een duidelijke food-identiteit en een paar selectieve zee-extensies, niet als een dunne ferry-wachtruimte voor Koh Chang en verder.",
+    "ja": "トラートは、ただ島へ渡るための通過点としてではなく、旧市街、食文化、港町の周縁部、そして一つか二つの海側延長を組み合わせてこそ理解しやすい町です。",
+    "ko": "뜨랏은 코창으로 가는 단순 환승지가 아니라, 도심의 오래된 구역과 음식 문화, 램응옵과 공동체 마을, 그리고 선택적인 섬 확장을 함께 봐야 제대로 읽히는 도시입니다.",
+    "th": "ตราดเหมาะกับการเที่ยวแบบเน้นเมือง อาหาร ตลาด ชุมชน และต่อยอดไปทะเลเพียงบางส่วน มากกว่ามองเป็นแค่ทางผ่านไปเกาะช้าง",
+    "de": "Trat funktioniert am besten als oestliche Kuestenstadt mit echtem Festlandkern, eigener Esskultur und wenigen gezielten Meeres-Erweiterungen statt als duenne Faehrendrehscheibe.",
+    "fr": "Trat se visite mieux comme une ville cotiere de l'Est avec un vrai coeur terrestre, une identite culinaire et quelques extensions maritimes choisies, pas comme une simple salle d'attente pour les ferries.",
+    "ru": "Трат лучше воспринимать как приморский город восточного Таиланда с собственным центром, едой и выборочными морскими выездами, а не как пустую пересадку на Ко Чанг.",
+    "zh": "Trat 更适合被理解为一座有老城、市场、美食和少量海边延伸的东部海岸城市，而不是去 Koh Chang 前的空洞中转站。"
   },
   "population": 22000,
+  "population_label": "City-scale reference",
+  "population_note": "Use this as a broad urban reference point rather than a live municipal total.",
   "highlights": [
-    "Koh Chang Island",
-    "Koh Kood",
-    "Trat Night Market",
-    "Mangrove Forest"
+    "Trat City Museum and the old quarter",
+    "Rak Khlong Bang Phra canal community",
+    "Yai Saeng cuttlefish and Sukhumvit Crab Noodles",
+    "Ban Nam Chiao community",
+    "Laem Ngop easternmost-land viewpoint",
+    "One selective Koh Chang or Koh Mak extension"
   ],
   "location": {
     "lat": 12.2431,
@@ -39,42 +43,42 @@
   "image": "/images/cities/generated/trat.webp",
   "seo": {
     "metaTitle": {
-      "en": "Discover Trat & Koh Chang | What to do in Trat?",
-      "nl": "Ontdek Trat & Koh Chang | Wat te doen in Trat?",
-      "ja": "トラート＆チャーン島を満喫 | 観光・見どころガイド",
-      "ko": "뜨랏 태국 — 꼬창 & 섬 여행 가이드 2026",
-      "th": "ตราด ประเทศไทย — คู่มือท่องเที่ยวฉบับสมบูรณ์ 2026",
-      "de": "Entdecken Sie Trat & Koh Chang | Was tun in Trat?",
-      "fr": "Découvrez Trat et Koh Chang | Que faire à Trat ?",
-      "ru": "Откройте для себя Трат и Ко Чанг | Что делать в Трате?",
-      "zh": "发现 Trat 与 Koh Chang | 在 Trat 做什么？"
+      "en": "Trat Thailand Guide 2026 | Old Town, Food, Laem Ngop and Island Links",
+      "nl": "Trat gids 2026 | Oude stad, eten, Laem Ngop en eilanden",
+      "ja": "トラートを満喫 | 旧市街・食・港町・島のつなぎ方ガイド",
+      "ko": "뜨랏 태국 가이드 2026 | 올드타운, 음식, 램응옵과 섬 연결",
+      "th": "ตราด 2026 | เมืองเก่า อาหาร แหลมงอบ และเส้นทางต่อเกาะ",
+      "de": "Trat Thailand Guide 2026 | Altstadt, Essen, Laem Ngop und Inselrouten",
+      "fr": "Guide de Trat 2026 | Vieille ville, cuisine, Laem Ngop et iles",
+      "ru": "Путеводитель по Trat 2026 | Старый город, еда, Лаем Нгоп и острова",
+      "zh": "Trat 旅行指南 2026 | 老城、美食、Laem Ngop 与海岛衔接"
     },
     "metaDescription": {
-      "en": "Your guide to Trat, Thailand – tips, highlights, food, hotels.",
-      "nl": "Jouw gids voor Trat, Thailand – tips, highlights, eten, hotels.",
-      "ja": "タイ・トラートの旅行ガイド — おすすめスポット、グルメ、ホテル情報をご紹介。",
-      "ko": "뜨랏(태국) 완벽 여행 가이드: 꼬창, 꼬꿋, 꼬막, 맹그로브 숲, 보석 시장. 가격, 팁, 방콕에서 가는 법.",
-      "th": "คู่มือท่องเที่ยวตราด ประเทศไทย — สถานที่ท่องเที่ยว อาหาร ที่พัก และเคล็ดลับ อัปเดต 2026",
-      "de": "Ihr Reiseführer für Trat, Thailand – Tipps, Highlights, Essen, Hotels.",
-      "fr": "Votre guide pour Trat, Thaïlande – conseils, points forts, nourriture, hôtels.",
-      "ru": "Ваш путеводитель по Трату, Таиланд — советы, достопримечательности, еда, отели.",
-      "zh": "您的泰国 Trat 指南——提示、亮点、美食、酒店。"
+      "en": "Plan Trat around its old quarter, city museum, canal communities, seafood-and-snack layer, Laem Ngop, and one edited island extension instead of relying on generic Koh Chang gateway copy.",
+      "nl": "Plan Trat rond de oude stad, het stadsmuseum, kanaalgemeenschappen, de seafood- en snacklaag, Laem Ngop en één gerichte eilandextensie in plaats van generieke gateway-copy.",
+      "ja": "トラートを、旧市街、博物館、運河沿いのコミュニティ、地元料理、レームンゴップ、そして一つの海側延長で整理するためのガイドです。",
+      "ko": "뜨랏을 올드타운, 박물관, 운하 공동체, 현지 음식, 램응옵, 그리고 한 가지 섬 확장으로 정리하는 가이드입니다.",
+      "th": "คู่มือเที่ยวตราดแบบเน้นเมืองเก่า พิพิธภัณฑ์ ชุมชน อาหาร แหลมงอบ และต่อเกาะอย่างมีเหตุผล",
+      "de": "Trat richtig planen: Altstadt, Stadtmuseum, Kanalgemeinden, lokale Kueche, Laem Ngop und eine bewusst gewaehlte Insel-Erweiterung.",
+      "fr": "Comment structurer Trat autour de la vieille ville, du musee, des communautes de canal, de la cuisine locale, de Laem Ngop et d'une seule extension insulaire.",
+      "ru": "Как планировать Trat: старый квартал, музей, канальные сообщества, местная еда, Лаем Нгоп и одно продуманное островное продолжение.",
+      "zh": "用老城、博物馆、运河社区、本地小吃、Laem Ngop 和一次精简海岛延伸来规划 Trat。"
     }
   },
   "categories": {
     "food": {
-      "en": "Best restaurants and street food in Trat",
-      "nl": "Beste restaurants en streetfood in Trat",
-      "ja": "トラートのおすすめレストラン＆ストリートフード",
-      "ko": "뜨랏 추천 레스토랑과 길거리 음식",
-      "th": "ร้านอาหารและสตรีทฟู้ดที่ดีที่สุดในตราด"
+      "en": "Best restaurants and local dishes in Trat",
+      "nl": "Beste restaurants en lokale gerechten in Trat",
+      "ja": "トラートのおすすめレストラン＆郷土料理",
+      "ko": "뜨랏 추천 레스토랑과 지역 음식",
+      "th": "ร้านอาหารและอาหารท้องถิ่นที่ดีที่สุดในตราด"
     },
     "hotels": {
-      "en": "Top hotels in Trat | Tips & deals",
-      "nl": "Beste hotels in Trat | Tips & aanbiedingen",
-      "ja": "トラートのおすすめホテル｜お得な情報＆アドバイス",
-      "ko": "뜨랏 추천 호텔 | 팁 & 특가",
-      "th": "โรงแรมแนะนำในตราด | เคล็ดลับและดีล"
+      "en": "Top hotels in Trat | City and island stays",
+      "nl": "Beste hotels in Trat | Stad en eilandverblijven",
+      "ja": "トラートのおすすめホテル｜市内と島の滞在",
+      "ko": "뜨랏 추천 호텔 | 도심과 섬 숙소",
+      "th": "โรงแรมแนะนำในตราด | เมืองและเกาะ"
     },
     "attractions": {
       "en": "Top attractions in Trat",
@@ -85,738 +89,642 @@
     }
   },
   "tags": [
-    "central",
     "trat",
-    "thailand",
-    "travel",
-    "tourism",
-    "guide"
+    "east",
+    "old-town",
+    "laem-ngop",
+    "ban-nam-chiao",
+    "koh-chang",
+    "thailand"
   ],
-  "enhanced_description": "The minivan from Bangkok dropped me in Trat town just as the afternoon rain was beginning, fat tropical drops drumming on the tin roofs of the shophouses lining Thana Charoen Road. Most travelers blow through Trat on their way to the Koh Chang ferry pier without stopping, and I nearly did the same. But a flat tire on my rented motorbike forced me to stay a night, and that happy accident introduced me to one of Thailand's most charming small towns. Trat's old quarter is a sleepy grid of wooden shophouses, gem dealers, and morning coffee shops that has barely changed in decades, a Thailand that feels increasingly rare.\n\nThat first evening, I found the Trat Night Market, a compact strip along the canal near the municipal market. Under a canopy of tarps and fairy lights, I ate my way through stalls selling khanom jeen nam ya, fermented rice noodles with fish curry that is eastern Thailand's comfort food, followed by crispy fried crab cakes and a bag of fresh rambutans still cold from an ice bucket. The vendors here cater almost exclusively to Thai customers, and the prices reflected it: I ate like a king for under a hundred baht. An elderly gem dealer at the next table showed me a handful of rubies from the nearby Chanthaburi mines, holding each one up to the market lights with obvious pride.\n\nBut the real magic of Trat province lies offshore. The ferry to Koh Chang takes thirty minutes from Ao Thammachat pier, and as the island's mountainous silhouette grew larger through the salt spray, I felt the anticipation that every island traveler knows. Koh Chang, Thailand's second-largest island, is a forested giant ringed by beaches that range from the developed backpacker strip of White Sand Beach to the untouched solitude of Long Beach on the eastern shore. I spent three days exploring its waterfalls: Klong Plu, where the cascade drops into a natural pool surrounded by jungle canopy, and Than Mayom, where King Rama V carved his initials into a boulder during a royal visit in 1876.\n\nFrom Koh Chang, I took a speedboat southeast to Koh Kood, and the contrast was stunning. Where Koh Chang has bars and resorts, Koh Kood has coconut plantations, fishing villages, and beaches so pristine the sand squeaks underfoot. I stayed in a simple bungalow at Ao Phrao beach, kayaked through a bioluminescent bay at night, and ate fresh squid grilled by a fisherman's wife on the beach at Baan Ao Salad village. It was the kind of raw, unspoiled Thai island experience that Phuket and Samui lost decades ago.\n\nBack on the mainland, I explored Trat's mangrove forests by kayak, paddling through tunnels of arching roots while monitor lizards sunned themselves on branches overhead. The Trat Community Forest boardwalk near Laem Ngop offers an easy introduction to this ecosystem, with information boards explaining how the mangroves protect the coastline and nurture fish populations. My final morning, I visited the gem market in neighboring Chanthaburi, a thirty-minute drive north, where Sri Lankan, Indian, and Thai traders negotiate over sapphires and rubies in a riverside bazaar that feels like a scene from another century. Trat province, I realized, is Thailand's quiet eastern frontier: less polished than the south, more authentic than anywhere near Bangkok, and blessed with islands that still feel like genuine discoveries.",
+  "enhanced_description": "Trat gets weaker when everything is written as if the town only exists to funnel people toward Koh Chang, Koh Mak, or Koh Kood. The stronger version starts in the city itself: the museum and old quarter, Rak Khlong Bang Phra's century-old wooden houses and snack culture, the small but useful market-and-noodle layer, and the coastal edge at Laem Ngop where the mainland actually meets the sea.\n\nFrom there the province becomes easier to edit. Ban Nam Chiao adds a community route with real cultural substance instead of generic ecotourism filler. Koh Chang can still be part of the trip, but its best use here is selective: Salak Khok's gondola route or one edited west-coast resort stay rather than trying to flatten the whole island into a city guide.\n\nThat is the version worth publishing at a higher quality level. Trat is a launching point, but it is also a town of markets, mixed cultural heritage, and eastern-Gulf coastal communities that deserve to be read before the ferry leaves.",
+  "overview": "Trat is better when you plan it in layers instead of defaulting straight to the pier. TAT's province coverage still treats Trat as the main launching point for the Koh Chang island group, but that same official material also makes clear that the town itself matters: markets, old wooden streets, city museums, and coastal trade still define the place.\n\nFood is the second layer. TAT's restaurant coverage and MICHELIN's Trat feature both point in the same direction: grilled cuttlefish, crab noodles, old-town sweets, mangrove-linked dishes, salacca products, and community snacks are what make Trat memorable on the mainland side. Those local dishes do more for the city than padding the page with imported island restaurant rankings.\n\nAfter the center, the best additions are Ban Nam Chiao and Laem Ngop on the mainland, plus one deliberate island extension. Koh Chang works when you use its quieter Salak Khok side or a thoughtful resort stay. Koh Mak works if low-density island rhythm is the real point. Trat improves once you stop trying to cover every island and let the mainland town hold the trip together first.",
   "hidden_gems": [
     {
-      "name": {
-        "en": "Koh Mak Island",
-        "nl": "Koh Mak Eiland",
-        "ja": "マーク島",
-        "ko": "꼬막 섬"
-      },
-      "description": {
-        "en": "A tiny, car-free island between Koh Chang and Koh Kood with coconut plantations, quiet beaches, and virtually no nightlife. Perfect for digital detox and genuine island simplicity.",
-        "nl": "Een klein, autovrij eiland tussen Koh Chang en Koh Kood met kokosplantages, rustige stranden en vrijwel geen nachtleven. Perfect voor digitale detox en echte eilandeenvoud.",
-        "ja": "チャーン島とクート島の間にある小さな車のない島で、ヤシの木農園、静かなビーチ、のんびりとした雰囲気が魅力です。デジタルデトックスに最適な場所です。",
-        "ko": "관광 개발이 덜 된 조용한 섬으로, 자전거로 섬을 돌며 여유로운 시간을 보내기에 완벽합니다."
-      },
-      "type": "nature"
+      "name": "Rak Khlong Bang Phra",
+      "story": "MICHELIN's Trat feature uses Rak Khlong Bang Phra to show how the town still preserves wooden houses, canal life, street art, and snack culture in a way the old gateway-only copy completely missed.",
+      "how_to_find": "Use it after the museum and old quarter rather than trying to split it off into a separate day.",
+      "best_time": "Late morning or late afternoon",
+      "local_insights": [
+        "This is stronger as a slow walk with snacks than as a quick photo stop.",
+        "It gives Trat a more specific urban character than generic market filler."
+      ]
     },
     {
-      "name": {
-        "en": "Trat Old Town Wooden Shophouses",
-        "nl": "Trat Oude Stad Houten Winkelpanden",
-        "ja": "トラート旧市街の木造商家",
-        "ko": "뜨랏 올드타운 목조 상가"
-      },
-      "description": {
-        "en": "A charming stretch of century-old wooden shophouses on Thana Charoen Road with small cafes, gem shops, and guesthouses. One of Thailand's best-preserved old town streetscapes.",
-        "nl": "Een charmante strook van eeuwenoude houten winkelpanden aan Thana Charoen Road met kleine cafes, edelsteenwinkels en pensions. Een van Thailands best bewaarde oude stadslandschappen.",
-        "ja": "タナーチャルーン通りに並ぶ築100年以上の木造商家群で、小さなカフェ、ギャラリー、ゲストハウスが入っています。レトロな雰囲気の散歩スポットです。",
-        "ko": "100년 이상 된 목조 상가가 늘어선 역사적인 거리로, 카페와 갤러리가 들어서며 새로운 매력을 더하고 있습니다."
-      },
-      "type": "cultural"
+      "name": "Ba Na's grilled banana stall",
+      "story": "TAT still treats this old-town sweets stop as one of Trat's classic food landmarks, which helps keep the city grounded in specific small-eats rather than in interchangeable dessert copy.",
+      "how_to_find": "Fold it into the old-town and Lak Muang Road food loop.",
+      "best_time": "Midday to late afternoon",
+      "local_insights": [
+        "This is a snack stop, not a destination meal.",
+        "The old quarter makes more sense when you let these smaller food stops lead the walk."
+      ]
+    }
+  ],
+  "authentic_experiences": [
+    {
+      "activity": "Start in the old quarter and museum before leaving for the piers",
+      "story": "The city museum and old quarter explain Trat's trade, coastal history, and local identity far better than rushing immediately toward Koh Chang.",
+      "cultural_significance": "Both TAT and MICHELIN still treat Trat Museum and the older city layer as key to understanding the province's cultural mix.",
+      "how_to_participate": "Walk the old-center side first, then let snacks, markets, and canal stops build from there.",
+      "insights": [
+        "This should be the first half-day, not the leftover slot before a ferry.",
+        "Trat gets easier to plan once the mainland town is allowed to matter."
+      ],
+      "href": "/city/trat/attractions/trat-city-museum-and-old-quarter/",
+      "cta_label": "See the old-quarter guide"
     },
     {
-      "name": {
-        "en": "Baan Ao Salad Fishing Village (Koh Kood)",
-        "nl": "Baan Ao Salad Vissersdorp (Koh Kood)",
-        "ja": "バーン・アオサラッド漁村（クート島）",
-        "ko": "반아오살랏 어촌 마을 (꼬꿋)"
-      },
-      "description": {
-        "en": "An authentic stilted fishing village on Koh Kood where you can eat freshly caught seafood grilled by the fishermen's families. The squid dried on bamboo racks is a local specialty.",
-        "nl": "Een authentiek vissersdorp op palen op Koh Kood waar je vers gevangen zeevruchten kunt eten, gegrild door de families van de vissers. De op bamboerekken gedroogde inktvis is een lokale specialiteit.",
-        "ja": "クート島にある本格的な高床式漁村で、獲れたてのシーフードをその場で食べられます。素朴な漁村の暮らしを垣間見れる貴重な場所です。",
-        "ko": "꼬꿋 섬의 전통 어촌 마을로, 수상 가옥과 현지 해산물을 즐길 수 있는 정통 경험입니다."
-      },
-      "type": "experience"
+      "activity": "Use Ban Nam Chiao as the main community extension",
+      "story": "Ban Nam Chiao still holds together because official Trat coverage consistently treats it as a genuine mixed-culture community with food, craft, and mangrove-side activities.",
+      "cultural_significance": "The village remains one of Trat's clearest examples of Buddhist, Muslim, and Chinese heritage living together in one coastal community.",
+      "how_to_participate": "Give it its own block of time instead of reducing it to one bridge photo.",
+      "insights": [
+        "This is the strongest mainland community day from Trat town.",
+        "It adds more real depth than padding the plan with one more island transfer."
+      ],
+      "href": "/city/trat/attractions/ban-nam-chiao-community/",
+      "cta_label": "See the Ban Nam Chiao guide"
     },
     {
-      "name": {
-        "en": "Trat Community Mangrove Forest Boardwalk",
-        "nl": "Trat Gemeenschaps Mangrovebos Boardwalk",
-        "ja": "トラート・コミュニティ・マングローブ遊歩道",
-        "ko": "뜨랏 맹그로브 숲 산책로"
-      },
-      "description": {
-        "en": "A peaceful elevated boardwalk through pristine mangrove forest near Laem Ngop. Free to enter, with interpretive signs explaining the coastal ecosystem. Best visited at low tide.",
-        "nl": "Een vredig verhoogd wandelpad door ongerept mangrovebos bij Laem Ngop. Gratis toegang, met informatieborden die het kustecosysteem uitleggen. Het beste te bezoeken bij eb.",
-        "ja": "レームンゴップ近くの手つかずのマングローブ林を通る高架遊歩道で、無料で散策できます。野鳥観察やカニの観察など自然体験が楽しめます。",
-        "ko": "맹그로브 숲 사이로 조성된 산책로로, 다양한 해양 생태계를 관찰할 수 있는 에코투어 명소입니다."
-      },
-      "type": "nature"
+      "activity": "Keep Laem Ngop as the mainland sea edge",
+      "story": "Laem Ngop is useful because it lets Trat meet the sea on the mainland side before the ferry logic takes over.",
+      "cultural_significance": "The easternmost-land viewpoint and naval-memory layer give the coastal edge more meaning than a simple road-to-pier narrative.",
+      "how_to_participate": "Pair it with a seafood meal and one coastal stop rather than treating it only as a transfer corridor.",
+      "insights": [
+        "This is the cleanest mainland sea-side block in the Trat cluster.",
+        "The sunset and photo-stop logic make more sense once the town has already been covered."
+      ],
+      "href": "/city/trat/attractions/laem-ngop-and-the-easternmost-land/",
+      "cta_label": "See the Laem Ngop guide"
     },
     {
-      "name": {
-        "en": "Trat Gem Market",
-        "nl": "Trat Edelsteenmarkt",
-        "ja": "トラート宝石市場",
-        "ko": "뜨랏 보석 시장"
-      },
-      "description": {
-        "en": "A small but active gem trading scene in Trat town where local dealers buy and sell rubies and sapphires from nearby mines. Fascinating to observe even if you are not buying.",
-        "nl": "Een kleine maar actieve edelsteenhandelsscene in Trat-stad waar lokale handelaren robijnen en saffieren kopen en verkopen van nabijgelegen mijnen. Fascinerend om te observeren, zelfs als je niet koopt.",
-        "ja": "トラートの街にある小さいながらも活気ある宝石取引の場で、地元のディーラーがルビーやサファイアを売買しています。見学するだけでも興味深い場所です。",
-        "ko": "루비와 사파이어 거래로 유명한 현지 보석 시장으로, 보석 산업의 역사를 엿볼 수 있습니다."
-      },
-      "type": "market"
+      "activity": "Add only one island layer and choose it carefully",
+      "story": "Koh Chang and Koh Mak can both work, but the trip usually gets stronger when one island extension stays selective rather than taking over the entire Trat narrative.",
+      "cultural_significance": "That selectivity protects the city and community side from disappearing behind generic island copy.",
+      "how_to_participate": "Use Salak Khok on Koh Chang for a more community-led sea extension, or Koh Mak if low-density island rhythm is the point.",
+      "insights": [
+        "Not every Trat stay needs multiple islands.",
+        "The mainland side should still do most of the explanatory work."
+      ],
+      "href": "/city/trat/attractions/salak-khok-gondola-and-east-koh-chang/",
+      "cta_label": "See the island-extension guide"
+    }
+  ],
+  "foodie_adventures": [
+    {
+      "dish": "Grilled cuttlefish with red sauce",
+      "location": "Yai Saeng Grilled Cuttlefish",
+      "story": "TAT still treats Yai Saeng's stall as one of Trat's signature small-eats stops because it ties the city directly back to fresh local seafood and charcoal-grilled snack culture.",
+      "where_to_find": "Bang Phra side of town, best as a later-day snack stop.",
+      "price_range": "Budget",
+      "ordering_tips": [
+        "Treat this as a specific snack stop, not as your main meal.",
+        "It works well inside the old-center food loop."
+      ],
+      "href": "/city/trat/top-10-restaurants/",
+      "cta_label": "See the food guide"
+    },
+    {
+      "dish": "Crab noodles and mantis-shrimp rice",
+      "location": "Sukhumvit Crab Noodles",
+      "story": "TAT's current restaurant article still uses Sukhumvit Crab Noodles as one of Trat's clearest seafood-noodle references on the mainland side.",
+      "where_to_find": "Soi Sukhumvit, Trat town",
+      "price_range": "Budget to mid-range",
+      "ordering_tips": [
+        "This is a stronger city meal than defaulting to an island seafood restaurant.",
+        "Use it for lunch rather than as an all-day fallback."
+      ],
+      "href": "/city/trat/top-10-restaurants/",
+      "cta_label": "See the food guide"
+    },
+    {
+      "dish": "Old-quarter sweets and grilled bananas",
+      "location": "Ba Na's grilled banana stall",
+      "story": "This old-town sweet stop still matters because it keeps Trat's food story tied to the streets and older shopfronts, not just to seafood and ferry routes.",
+      "where_to_find": "Lak Muang Road / old Trat side",
+      "price_range": "Budget",
+      "ordering_tips": [
+        "Use it between the museum and Rak Khlong Bang Phra instead of making a separate trip.",
+        "Best as a snack, not a formal dessert destination."
+      ],
+      "href": "/city/trat/top-10-restaurants/",
+      "cta_label": "See the food guide"
+    },
+    {
+      "dish": "Tom yum noodles with mantis shrimp and mixed seafood",
+      "location": "Rim Kheuan Tom Yum Noodles",
+      "story": "TAT still positions Rim Kheuan as one of the stronger fuller meals in Trat when you want seafood-led noodles rather than only street snacks.",
+      "where_to_find": "Reservoir-side road, Nong Samed",
+      "price_range": "Budget to mid-range",
+      "ordering_tips": [
+        "This works better as a destination lunch than as a casual stop you squeeze in after the islands.",
+        "Go with enough time for a full meal."
+      ],
+      "href": "/city/trat/top-10-restaurants/",
+      "cta_label": "See the food guide"
+    }
+  ],
+  "local_insights": [
+    "Trat is stronger as a mainland town with one sea extension than as an island-ferry checklist.",
+    "The museum, old quarter, and Rak Khlong Bang Phra should come before any pier logic.",
+    "Ban Nam Chiao is the best mainland community extension because it adds food, craft, and mixed cultural history.",
+    "Laem Ngop gives the cluster its cleanest mainland sea edge.",
+    "Koh Chang works better here through Salak Khok or one edited resort stay than through generic party-beach copy."
+  ],
+  "seasonal_secrets": "November to April is the easiest overall fit for Trat because city walking is more comfortable and sea access is usually more reliable. TAT's province page still notes that May to October can limit transport to some islands and make the western sea side rougher, so weather-sensitive mainland-to-island plans should always be rechecked close to departure.",
+  "budget_reality": {
+    "budget": "Trat can stay affordable if you keep the stay town-first, use small local food stops well, and avoid turning every day into a separate transfer-heavy island run.",
+    "mid_range": "Mid-range spending rises when you pair a practical town hotel with one edited island or coast day and a few more deliberate seafood meals.",
+    "luxury": "The bigger splurge pressure usually comes from Koh Chang or Koh Mak resort inventory rather than from Trat town itself.",
+    "money_saving_tricks": [
+      "Stay in town if the old quarter, museum, and Ban Nam Chiao matter more than waking up on an island.",
+      "Choose one island extension instead of paying for several separate boat and hotel shifts.",
+      "Use mainland seafood and snack stops well before spending resort-level money offshore."
+    ],
+    "hidden_costs": [
+      "Island transfers and sea-dependent schedule changes can cost more than the city portion itself.",
+      "Using an island hotel as the base for a city-first Trat trip usually creates unnecessary transport friction."
+    ]
+  },
+  "top_attractions": [
+    {
+      "rank": 1,
+      "name": "Trat City Museum and the old quarter",
+      "description": "The best first-stop mainland layer because it gives Trat a real trade-and-town identity before the island routes start taking over.",
+      "location": "Trat town center",
+      "entrance_fee": "Recheck locally on arrival.",
+      "highlights": [
+        "Trat City Museum",
+        "Old wooden quarter",
+        "Best first read of the town"
+      ],
+      "href": "/city/trat/attractions/trat-city-museum-and-old-quarter/",
+      "cta_label": "See the old-quarter guide"
+    },
+    {
+      "rank": 2,
+      "name": "Rak Khlong Bang Phra",
+      "description": "The most useful creative-canal district in Trat, with street art, century-old wooden houses, and specific local snacks rather than generic market filler.",
+      "location": "Khlong Bang Phra side, Trat",
+      "entrance_fee": "Public area.",
+      "highlights": [
+        "Century-old wooden houses",
+        "Street-art and canal layer",
+        "Snack stops"
+      ],
+      "href": "/city/trat/attractions/rak-khlong-bang-phra-community/",
+      "cta_label": "See the canal-community guide"
+    },
+    {
+      "rank": 3,
+      "name": "Ban Nam Chiao community",
+      "description": "The strongest mainland community extension from Trat town because mixed Buddhist, Muslim, and Chinese heritage still shapes the village in visible ways.",
+      "location": "Laem Ngop District, Trat Province",
+      "entrance_fee": "Community activities vary.",
+      "highlights": [
+        "Mixed-heritage coastal village",
+        "Saphan Wat Chai",
+        "Food and craft traditions"
+      ],
+      "href": "/city/trat/attractions/ban-nam-chiao-community/",
+      "cta_label": "See the Ban Nam Chiao guide"
+    },
+    {
+      "rank": 4,
+      "name": "Laem Ngop and the easternmost land",
+      "description": "The cleanest mainland sea-side stop in Trat, useful for understanding where the province actually opens toward the island belt.",
+      "location": "Laem Ngop",
+      "entrance_fee": "Public viewpoint access.",
+      "highlights": [
+        "Easternmost-land viewpoint",
+        "Lighthouse landmark",
+        "Mainland sea-edge stop"
+      ],
+      "href": "/city/trat/attractions/laem-ngop-and-the-easternmost-land/",
+      "cta_label": "See the Laem Ngop guide"
+    },
+    {
+      "rank": 5,
+      "name": "Salak Khok gondola and east Koh Chang",
+      "description": "The best edited Koh Chang extension for this cluster because it adds a community and mangrove layer instead of generic beach-copy repetition.",
+      "location": "Salak Khok, Koh Chang",
+      "entrance_fee": "Community boat setup varies.",
+      "highlights": [
+        "Thai-style gondola route",
+        "Mangrove village setting",
+        "Better than default west-coast filler"
+      ],
+      "href": "/city/trat/attractions/salak-khok-gondola-and-east-koh-chang/",
+      "cta_label": "See the Koh Chang extension guide"
+    },
+    {
+      "rank": 6,
+      "name": "Koh Mak low-density island day",
+      "description": "A useful alternative to Koh Chang when the goal is a quieter island extension with cycling, beaches, and lower-intensity tourism.",
+      "location": "Koh Mak, Trat Province",
+      "entrance_fee": "Boat and island logistics vary.",
+      "highlights": [
+        "Low-density island rhythm",
+        "Cycling and calm beaches",
+        "Stronger for a slower sea day"
+      ],
+      "href": "/city/trat/attractions/koh-mak-island-day/",
+      "cta_label": "See the Koh Mak guide"
     }
   ],
   "top_restaurants": [
     {
       "rank": 1,
-      "name": "Let's Meat",
-      "description": "High-rated barbecue restaurant with 5.0 TripAdvisor rating. Specializes in grilled meat dishes prepared to order.",
-      "cuisine_type": "Barbecue",
-      "price_range": "200-400 THB",
+      "name": "Yai Saeng Grilled Cuttlefish",
+      "description": "The clearest seafood-snack stop in Trat if you want something the town is genuinely known for rather than another generic barbecue entry.",
+      "location": "Bang Phra side, Mueang Trat",
+      "price_range": "Budget",
       "highlights": [
-        "Perfect rating",
-        "Grilled specialties",
-        "Fresh preparation"
-      ]
+        "Charcoal-grilled cuttlefish",
+        "Classic Trat snack",
+        "Good later-day stop"
+      ],
+      "href": "/city/trat/top-10-restaurants/",
+      "cta_label": "See the food guide"
     },
     {
       "rank": 2,
-      "name": "Ban Thiw Thara",
-      "description": "Seafood specialist with 4.6 TripAdvisor rating featuring fresh catches prepared traditional Thai-style with local expertise.",
-      "cuisine_type": "Seafood",
-      "price_range": "250-500 THB",
+      "name": "Sukhumvit Crab Noodles",
+      "description": "One of the most useful mainland meals in Trat because crab noodles and seafood rice keep the city's food identity specific and local.",
+      "location": "Soi Sukhumvit, Trat",
+      "price_range": "Budget to mid-range",
       "highlights": [
-        "Fresh seafood",
-        "Traditional preparation",
-        "Local reputation"
-      ]
+        "Crab noodles",
+        "Seafood-led lunch",
+        "Strong town-side stop"
+      ],
+      "href": "/city/trat/top-10-restaurants/",
+      "cta_label": "See the food guide"
     },
     {
       "rank": 3,
-      "name": "Fin Koh Chang",
-      "description": "International and Thai fusion restaurant with 4.5 TripAdvisor rating offering diverse menu options for varied tastes.",
-      "cuisine_type": "International, Thai",
-      "price_range": "250-450 THB",
+      "name": "Ba Na's grilled banana stall",
+      "description": "An old-quarter sweet stop that keeps Trat's food route anchored in its streets and long-running small-eats culture.",
+      "location": "Lak Muang Road, old Trat",
+      "price_range": "Budget",
       "highlights": [
-        "Fusion cuisine",
-        "Diverse menu",
-        "Island location"
-      ]
+        "Grilled bananas",
+        "Old-town snack stop",
+        "Best as a walking-route add-on"
+      ],
+      "href": "/city/trat/top-10-restaurants/",
+      "cta_label": "See the food guide"
     },
     {
       "rank": 4,
-      "name": "Porn's Bungalow Restaurant",
-      "description": "Thai restaurant with 4.1 TripAdvisor rating known for authentic regional dishes and warm hospitality.",
-      "cuisine_type": "Thai",
-      "price_range": "150-350 THB",
+      "name": "Rim Kheuan Tom Yum Noodles",
+      "description": "A fuller seafood-noodle meal when you want more than snacks but still want the meal to stay rooted in Trat ingredients and style.",
+      "location": "Nong Samed, Trat",
+      "price_range": "Budget to mid-range",
       "highlights": [
-        "Authentic Thai",
-        "Friendly service",
-        "Local recipes"
-      ]
+        "Tom yum noodles",
+        "Mantis-shrimp and seafood dishes",
+        "Destination lunch"
+      ],
+      "href": "/city/trat/top-10-restaurants/",
+      "cta_label": "See the food guide"
     },
     {
       "rank": 5,
-      "name": "D_castaway Beach Club",
-      "description": "Beachfront bar and restaurant with 4.0 TripAdvisor rating serving international cuisine with sunset views.",
-      "cuisine_type": "Bar, International",
-      "price_range": "200-400 THB",
+      "name": "Rimtalay Seafood & Resort",
+      "description": "The clearest Laem Ngop seafood stop if you want the mainland coast to be part of the food planning rather than only a transfer corridor.",
+      "location": "Laem Ngop",
+      "price_range": "Mid-range",
       "highlights": [
-        "Beachfront setting",
-        "Sunset views",
-        "Casual atmosphere"
-      ]
+        "Mainland coast seafood",
+        "Good with the Laem Ngop route",
+        "Stronger than random island seafood lists"
+      ],
+      "href": "/city/trat/top-10-restaurants/",
+      "cta_label": "See the food guide"
     },
     {
       "rank": 6,
-      "name": "Trat Night Market",
-      "description": "Authentic canal-side night market with local food stalls offering traditional Thai dishes at minimal prices.",
-      "cuisine_type": "Thai Street Food",
-      "price_range": "30-100 THB",
+      "name": "Ban Nam Chiao community food layer",
+      "description": "Best used as a community-food stop for Ban Nam Chiao stir-fried noodles, local snacks, and Tang Mae Krob rather than as one fixed single restaurant.",
+      "location": "Ban Nam Chiao",
+      "price_range": "Budget",
       "highlights": [
-        "Budget prices",
-        "Local clientele",
-        "Authentic street food"
-      ]
+        "Community food stops",
+        "Tang Mae Krob",
+        "Best with the village route"
+      ],
+      "href": "/city/trat/top-10-restaurants/",
+      "cta_label": "See the food guide"
     }
   ],
   "top_hotels": [
     {
       "rank": 1,
-      "name": "Lazy Day The Resort",
-      "description": "High-rated resort with 4.8 TripAdvisor rating offering quality accommodation and amenities on island location.",
-      "price_range": "$80-150/night",
+      "name": "Trat City Hotel",
+      "description": "The strongest practical city base when you want a proper town stay with direct official contact and easy access to the mainland core.",
+      "price_range": "Mid-range",
       "category": "midrange",
+      "area": "Wang Krajae, Mueang Trat",
       "highlights": [
-        "Excellent rating",
-        "Resort amenities",
-        "Island setting"
+        "Official property site",
+        "Town-first location",
+        "Best for a mainland Trat stay"
       ]
     },
     {
       "rank": 2,
-      "name": "Rest Sea Resort Koh Kood",
-      "description": "Well-reviewed beachfront resort with 4.1 TripAdvisor rating featuring ocean views and peaceful island atmosphere on Koh Kood.",
-      "price_range": "$70-120/night",
+      "name": "Chivapuri Residence Trat",
+      "description": "A useful city hotel if walkability to the bus-station side, night market, and local restaurants matters more than resort-style facilities.",
+      "price_range": "Budget to mid-range",
       "category": "midrange",
+      "area": "Trat city center / bus-station side",
       "highlights": [
-        "Beachfront location",
-        "Koh Kood island",
-        "Quality service"
+        "Official hotel site",
+        "5-minute walk from bus station",
+        "Free Wi-Fi and parking"
       ]
     },
     {
       "rank": 3,
-      "name": "Ko Kut Ao Phrao Beach Resort",
-      "description": "Koh Kood beachfront resort with 3.6 TripAdvisor rating offering direct beach access and island hospitality.",
-      "price_range": "$60-100/night",
-      "category": "midrange",
+      "name": "Avada Hotel",
+      "description": "A practical modern city stay when you want a straightforward room base near town without turning the hotel into the whole trip.",
+      "price_range": "Budget to mid-range",
+      "category": "budget",
+      "area": "Sukhumvit Road, Mueang Trat",
       "highlights": [
-        "Beach access",
-        "Island location",
-        "Reasonable pricing"
+        "Official property site",
+        "Modern city-room style",
+        "Useful for short stays"
       ]
     },
     {
       "rank": 4,
-      "name": "A-Na-Lay Resort Koh Kood",
-      "description": "Budget-friendly Koh Kood resort with 3.0 TripAdvisor rating suitable for budget-conscious travelers seeking island accommodation.",
-      "price_range": "$40-70/night",
-      "category": "budget",
+      "name": "Koh Chang Paradise Resort & Spa",
+      "description": "A stronger resort-led island option when the Koh Chang extension is an intentional overnight rather than a rushed add-on.",
+      "price_range": "Mid-range to upper mid-range",
+      "category": "resort",
+      "area": "Klong Prao Beach, Koh Chang",
       "highlights": [
-        "Affordable rates",
-        "Island location",
-        "Basic amenities"
+        "Official resort site",
+        "Klong Prao beach base",
+        "Useful island overnight"
       ]
     },
     {
       "rank": 5,
-      "name": "White Sand Beach Resort",
-      "description": "Beachfront resort with 3.2 TripAdvisor rating offering direct access to popular White Sand Beach on Koh Chang.",
-      "price_range": "$50-85/night",
-      "category": "budget",
+      "name": "AWA Koh Chang",
+      "description": "A more polished Kai Bae stay if you want the island extension to lean modern and beachfront without losing direct-site clarity.",
+      "price_range": "Mid-range to upper mid-range",
+      "category": "resort",
+      "area": "Kai Bae Beach, Koh Chang",
       "highlights": [
-        "White Sand Beach",
-        "Direct beach access",
-        "Koh Chang location"
+        "Official resort site",
+        "Kai Bae beachfront location",
+        "Good for a selective island splurge"
       ]
     }
   ],
   "travel_tips": [
-    {
-      "title": {
-        "en": "Getting to Koh Chang",
-        "nl": "Naar Koh Chang reizen",
-        "ja": "チャーン島への行き方"
-      },
-      "content": {
-        "en": "Minivans from Bangkok's Eastern Bus Terminal (Ekkamai) take 5-6 hours to the Ao Thammachat ferry pier. Ferries run every 30-60 minutes during the day. You can also fly to Trat Airport (one hour from Bangkok) for a quicker but pricier option.",
-        "nl": "Minivans vanaf het oostelijke busstation van Bangkok (Ekkamai) doen er 5-6 uur over naar de Ao Thammachat-veerboothaven. Veerboten varen elke 30-60 minuten overdag. Je kunt ook vliegen naar Trat Airport (een uur vanuit Bangkok) voor een snellere maar duurdere optie.",
-        "ja": "バンコクの東バスターミナル（エカマイ）からアオタマチャート桟橋までミニバンで5〜6時間、そこからフェリーで約30〜45分でチャーン島に到着します。"
-      }
-    },
-    {
-      "title": {
-        "en": "Island Hopping Strategy",
-        "nl": "Eilandhoppen strategie",
-        "ja": "島巡りの戦略"
-      },
-      "content": {
-        "en": "Spend 3-4 days on Koh Chang for beaches and waterfalls, then take a speedboat to Koh Kood for 2-3 days of pure relaxation. Koh Mak makes a great stopover in between for its quiet simplicity.",
-        "nl": "Besteed 3-4 dagen op Koh Chang voor stranden en watervallen, neem dan een speedboot naar Koh Kood voor 2-3 dagen pure ontspanning. Koh Mak is een geweldige tussenstop vanwege de rustige eenvoud.",
-        "ja": "チャーン島で3〜4日ビーチと滝を楽しんだ後、スピードボートでクート島（2〜3日）やマーク島（1〜2日）へ。島ごとに雰囲気が全く異なります。"
-      }
-    },
-    {
-      "title": {
-        "en": "Rainy Season Reality",
-        "nl": "Realiteit van het regenseizoen",
-        "ja": "雨季の現実"
-      },
-      "content": {
-        "en": "Many resorts and restaurants on the smaller islands close from June to October. Koh Chang stays open year-round but expect heavy rain, rough seas, and some beaches littered with debris during monsoon season.",
-        "nl": "Veel resorts en restaurants op de kleinere eilanden sluiten van juni tot oktober. Koh Chang blijft het hele jaar open, maar verwacht zware regen, ruwe zee en sommige stranden bezaaid met puin tijdens het moessonseizoen.",
-        "ja": "6月〜10月は小さな島のリゾートやレストランの多くが閉まります。チャーン島は通年営業ですが、小さい島は乾季（11月〜5月）に訪れましょう。"
-      }
-    },
-    {
-      "title": {
-        "en": "Rent a Motorbike on Koh Chang Carefully",
-        "nl": "Huur voorzichtig een motor op Koh Chang",
-        "ja": "チャーン島でのバイクレンタルは慎重に"
-      },
-      "content": {
-        "en": "Koh Chang's roads are steep and winding with sharp hairpin turns. If you are not an experienced rider, hire a songthaew instead. Multiple accidents happen each week on the island's hilly roads.",
-        "nl": "De wegen van Koh Chang zijn steil en bochtig met scherpe haarspeldbochten. Als je geen ervaren rijder bent, huur dan een songthaew. Er gebeuren meerdere ongelukken per week op de heuvelachtige wegen van het eiland.",
-        "ja": "チャーン島の道路は急勾配で曲がりくねっており、急カーブが多いです。バイクの運転に自信がない場合はソンテウを利用しましょう。事故が多発しています。"
-      }
-    },
-    {
-      "title": {
-        "en": "Do Not Skip Trat Town",
-        "nl": "Sla Trat-stad niet over",
-        "ja": "トラートの街を飛ばさないで"
-      },
-      "content": {
-        "en": "Spend at least one night in Trat town before heading to the islands. The old town, night market, and gem trading area offer a slice of authentic Thai provincial life that the islands cannot match.",
-        "nl": "Besteed minstens een nacht in Trat-stad voordat je naar de eilanden gaat. De oude stad, nachtmarkt en edelsteenhandel bieden een stukje authentiek Thais provinciaal leven dat de eilanden niet kunnen evenaren.",
-        "ja": "島へ向かう前にトラートの街で最低1泊しましょう。旧市街の散策、ナイトマーケット、地元のシーフードを楽しめます。通り過ぎるだけではもったいない街です。"
-      }
-    }
+    "Do the town first. Trat gets weaker when the museum and old quarter are left until after ferry errands.",
+    "Use Ban Nam Chiao or Laem Ngop as the first mainland extension before deciding whether an island overnight is even necessary.",
+    "Treat Koh Chang as one edited extension, not as the reason to erase the city from the page.",
+    "Keep the food route mainland-first: seafood snacks, noodles, sweets, and community dishes all work better before you shift offshore.",
+    "If the plan depends on boats, recheck current weather and operator timing close to departure."
   ],
-  "best_time_to_visit": {
-    "en": "November to May is the dry season, with December to February offering the best weather for island hopping. The sea is calmest from January to April. Avoid June to October when monsoon rains close many island businesses and make boat transfers unreliable.",
-    "nl": "November tot mei is het droge seizoen, waarbij december tot februari het beste weer biedt voor eilandhoppen. De zee is het rustigst van januari tot april. Vermijd juni tot oktober wanneer moessonregens veel eilandbedrijven sluiten en boottransfers onbetrouwbaar maken.",
-    "ja": "11月〜5月が乾季で、12月〜2月が最も天候が安定しています。海の透明度も高く、島巡りやシュノーケリングに最適な時期です。"
-  },
+  "best_time_to_visit": "November to April is the easiest overall season for Trat because city walking and mainland-coast stops are more comfortable and sea conditions are usually more reliable. Rainier months can still work for the town and community routes, but island plans should be treated as more weather-sensitive.",
+  "bestTimeToVisit": "November to April is the safest all-round fit for Trat. The town itself still works outside that window, but coastal and island timing becomes more weather-dependent and should be rechecked locally.",
   "budget_info": {
-    "budget_per_day": {
-      "en": "$25-40",
-      "nl": "$25-40",
-      "ja": "1日2,500〜4,000円"
-    },
-    "midrange_per_day": {
-      "en": "$60-100",
-      "nl": "$60-100",
-      "ja": "1日6,000〜10,000円"
-    },
-    "luxury_per_day": {
-      "en": "$200+",
-      "nl": "$200+",
-      "ja": "1日20,000円以上"
-    }
+    "budget_per_day": "Budget",
+    "midrange_per_day": "Mid-range",
+    "luxury_per_day": "Higher-spend"
   },
-  "enhanced_at": "2026-02-22T10:00:00.000Z",
-  "overview": "Trat is Thailand's underrated eastern coastal gem, serving as the gateway to some of the Kingdom's most pristine islands including Koh Chang, Thailand's second-largest island. With a population of just 22,000, this charming province offers an authentic Thai small-town atmosphere away from the typical tourist crowds, combined with world-class beaches, mangrove forests, and a vibrant gem trading culture. Whether you're seeking adventure on crystal-clear waters, tranquil island escapes, or immersion in local culture, Trat Province delivers an unforgettable experience that showcases the raw beauty of Thailand's eastern seaboard.",
-  "thingsToDo": "Trat's main attractions revolve around its stunning island archipelago and natural wonders. Koh Chang Island offers white sand beaches, jungle waterfalls, and island activities, while the quieter Koh Kood features crystal-clear waters and unspoiled beaches perfect for those seeking tranquility. For waterfall enthusiasts, Klong Plu Waterfall (200 THB entrance fee) provides easy jungle trail access to a natural swimming pool, and Than Mayom Waterfall (200 THB) features royal inscriptions and historic significance. Koh Mak Island remains a car-free paradise known for coconut plantations and peaceful vibes, making it ideal for digital detox. The Trat Community Mangrove Forest offers boardwalk trails and wildlife spotting opportunities, while the Trat Night Market provides an authentic culinary experience with canal-side setting and budget-friendly local food. In town, Trat Old Town showcases wooden shophouses, the region's famous gem trading heritage, and genuine small-town charm.",
-  "whereToStay": "Accommodation in Trat ranges from budget guesthouses to luxury island resorts, with options suited to every traveler type. In Trat City itself, mid-range hotels like Trat City Hotel offer modern comforts with pools, fitness centers, and convenient access to restaurants and markets. Most visitors use Trat as a transit point, spending one night before island-hopping, though staying 2-3 nights allows exploration of the town's authentic culture and markets. The nearby islands feature diverse accommodation: Koh Chang has everything from backpacker beach huts on Lonely Beach to upscale beachfront resorts, Koh Kood caters to those seeking peaceful seclusion, while Koh Mak offers simple but charming beach bungalows perfect for budget travelers. For a full Trat archipelago experience, allocate two nights each on Koh Chang and Koh Kood, with three nights split between Koh Mak and Koh Wai.",
+  "thingsToDo": "Start with the museum and old quarter, then add Rak Khlong Bang Phra, one mainland community block like Ban Nam Chiao or Laem Ngop, and only then decide whether Koh Chang or Koh Mak deserves the sea extension.",
+  "whereToStay": "Stay in Trat town if food, the museum, old streets, and mainland community routes are the priority. Shift to Koh Chang only when the island overnight is central to the plan rather than an automatic default.",
   "whereToEat": [
     {
-      "name": "Let's Meat",
-      "cuisine": "Barbecue",
-      "priceRange": "$$",
-      "description": "Highly-rated barbecue specialist with perfect 5.0 TripAdvisor rating serving grilled meat dishes prepared to order with expert technique."
+      "name": "Yai Saeng Grilled Cuttlefish",
+      "cuisine": "Seafood snack",
+      "priceRange": "Budget",
+      "description": "The strongest charcoal-grilled seafood snack stop in town."
     },
     {
-      "name": "Ban Thiw Thara",
+      "name": "Sukhumvit Crab Noodles",
+      "cuisine": "Seafood noodles",
+      "priceRange": "Budget to mid-range",
+      "description": "A practical town lunch for crab noodles and seafood rice."
+    },
+    {
+      "name": "Ba Na's grilled banana stall",
+      "cuisine": "Old-town sweets",
+      "priceRange": "Budget",
+      "description": "A classic snack stop in the old quarter."
+    },
+    {
+      "name": "Rim Kheuan Tom Yum Noodles",
+      "cuisine": "Seafood noodles and mixed dishes",
+      "priceRange": "Budget to mid-range",
+      "description": "A stronger fuller meal built around Trat-style seafood noodles."
+    },
+    {
+      "name": "Rimtalay Seafood & Resort",
       "cuisine": "Seafood",
-      "priceRange": "$$",
-      "description": "Seafood restaurant with 4.6 TripAdvisor rating specializing in fresh local catches prepared traditional Thai-style with authentic recipes."
-    },
-    {
-      "name": "Fin Koh Chang",
-      "cuisine": "International, Thai",
-      "priceRange": "$$",
-      "description": "Fusion restaurant with 4.5 TripAdvisor rating offering combined international and Thai menu options for diverse palates."
-    },
-    {
-      "name": "Porn's Bungalow Restaurant",
-      "cuisine": "Thai",
-      "priceRange": "$$",
-      "description": "Thai restaurant with 4.1 TripAdvisor rating featuring authentic regional dishes prepared with local expertise and traditional methods."
-    },
-    {
-      "name": "D_castaway Beach Club",
-      "cuisine": "Bar, International",
-      "priceRange": "$$",
-      "description": "Beachfront establishment with 4.0 TripAdvisor rating serving international cuisine in casual seaside setting with scenic views."
-    },
-    {
-      "name": "Trat Night Market",
-      "cuisine": "Thai Street Food",
-      "priceRange": "$",
-      "description": "Authentic canal-side night market featuring local food stalls serving traditional Thai street food at minimal prices to local and visiting clientele."
+      "priceRange": "Mid-range",
+      "description": "Best used with the Laem Ngop mainland-coast route."
     }
   ],
   "topHotels": [
     {
-      "name": "Lazy Day The Resort",
+      "name": "Trat City Hotel",
       "category": "midrange",
-      "priceRange": "$80-150/night",
-      "area": "Island location",
-      "description": "Highly-rated resort with 4.8 TripAdvisor rating offering comfortable accommodation with full resort amenities and quality service."
+      "priceRange": "Mid-range",
+      "area": "Mueang Trat",
+      "description": "A practical mainland-town base with direct official contact."
     },
     {
-      "name": "Rest Sea Resort Koh Kood",
+      "name": "Chivapuri Residence Trat",
       "category": "midrange",
-      "priceRange": "$70-120/night",
-      "area": "Koh Kood Island",
-      "description": "Well-reviewed beachfront resort with 4.1 rating featuring ocean views and peaceful island setting suitable for relaxation."
+      "priceRange": "Budget to mid-range",
+      "area": "Bus-station / city-center side",
+      "description": "A simple city stay near the bus station, market, and local restaurants."
     },
     {
-      "name": "Ko Kut Ao Phrao Beach Resort",
-      "category": "midrange",
-      "priceRange": "$60-100/night",
-      "area": "Koh Kood Island",
-      "description": "Beachfront resort with 3.6 rating offering direct beach access and authentic island hospitality on Koh Kood."
-    },
-    {
-      "name": "A-Na-Lay Resort Koh Kood",
+      "name": "Avada Hotel",
       "category": "budget",
-      "priceRange": "$40-70/night",
-      "area": "Koh Kood Island",
-      "description": "Budget-friendly resort with 3.0 rating suitable for cost-conscious travelers seeking basic island accommodation."
+      "priceRange": "Budget to mid-range",
+      "area": "Sukhumvit Road, Mueang Trat",
+      "description": "A modern short-stay city option."
     },
     {
-      "name": "White Sand Beach Resort",
-      "category": "budget",
-      "priceRange": "$50-85/night",
-      "area": "Koh Chang, White Sand Beach",
-      "description": "Beach resort with 3.2 rating offering direct access to Koh Chang's popular White Sand Beach area."
+      "name": "Koh Chang Paradise Resort & Spa",
+      "category": "resort",
+      "priceRange": "Mid-range to upper mid-range",
+      "area": "Klong Prao Beach, Koh Chang",
+      "description": "A good island overnight when the Koh Chang leg is deliberate."
+    },
+    {
+      "name": "AWA Koh Chang",
+      "category": "resort",
+      "priceRange": "Mid-range to upper mid-range",
+      "area": "Kai Bae Beach, Koh Chang",
+      "description": "A more polished beachfront Koh Chang stay."
     }
   ],
-  "gettingAround": "Within Trat City, local transportation is primarily handled by tuk-tuks and songthaews (shared red buses), both extremely affordable at 20-40 THB per ride within town. For island access, shared minivans and speedboats depart regularly from Trat town to Koh Chang (45 minutes, 100-150 THB), Koh Kood (90 minutes, 150-200 THB), Koh Mak (60 minutes, 100-150 THB), and Koh Wai (variable). Grab is available in Trat City for convenient point-to-point rides, though songthaews remain the most authentic and budget-friendly local option. On the islands themselves, motorbike rental (150-300 THB/day) is the preferred method for independent exploration, though tuk-tuks are available on larger islands like Koh Chang.",
-  "bestTimeToVisit": "The ideal time to visit Trat is November through February, when temperatures are mild (20-30°C) and rainfall is minimal, making beach days and island exploration most enjoyable. The dry season peaks in December and January, attracting more international visitors and offering the clearest skies for water activities and photography. March through May brings hot, humid weather (30-35°C), though fewer tourists mean lower prices and quieter beaches. Avoid September through October during the southwest monsoon season, when rough seas can limit island boat service and heavy rainfall affects outdoor activities. The dry season's calm waters also make this the best period for snorkeling, diving, and boat trips to remote islands.",
-  "budgetGuide": {
-    "budget": {
-      "min": 20,
-      "max": 40,
-      "description": "Budget travelers can stay in guesthouses or basic bungalows ($10-25/night), eat at night markets and street food stalls (30-100 THB per meal), use songthaews for transport (20-40 THB), and enjoy free attractions like beaches and mangrove forests. Island visits add speedboat costs (100-200 THB) and waterfall entrance fees (200 THB each)."
-    },
-    "midrange": {
-      "min": 50,
-      "max": 100,
-      "description": "Mid-range travelers enjoy 3-star hotels ($50-100/night), restaurant meals (150-400 THB), occasional tours and activities, and comfortable transport options. Island stays on beachfront properties ($60-120/night) and organized excursions factor into slightly higher daily costs while maintaining good value."
-    },
-    "luxury": {
-      "min": 150,
-      "max": 300,
-      "description": "Luxury travelers stay at premium resorts ($150-300/night), dine at upscale restaurants (300-800 THB per meal), arrange private tours and water sports, and enjoy spa services. Multiple island visits, fine dining, and exclusive experiences create the highest expense tier while experiencing Trat at its finest."
-    }
-  },
-  "safetyTips": "Trat Province is generally very safe for tourists with low crime rates and welcoming locals. Standard travel precautions apply: avoid displaying expensive jewelry or electronics, secure belongings in crowded markets, and use registered taxis or Grab rather than unmarked taxis. Island boat travel is safe with modern speedboats, but verify operators and check weather conditions before departure during monsoon season. Petty theft can occur in tourist areas and night markets, so watch bags and pockets in crowded places. When renting motorbikes, ensure helmets are worn (legally required) and drive defensively on winding island roads.",
+  "gettingAround": "Trat town is manageable by short local rides plus walking once you are in the old quarter and market side. Ban Nam Chiao and Laem Ngop are proper mainland legs and should be treated that way. Island extensions need their own transfer timing rather than being squeezed between city stops.",
+  "safetyTips": "Trat itself is usually straightforward, but the same common-sense care applies in markets and transport hubs. If your day depends on ferries or community boat rides, verify current weather and operator conditions rather than relying on older static guide assumptions.",
   "faq": [
     {
-      "question": "How many days do I need in Trat?",
-      "answer": "Most travelers spend 2-3 nights visiting a single island. However, for a comprehensive Trat experience exploring multiple islands, allocate a full week: two nights each on Koh Chang and Koh Kood, plus three nights split between Koh Mak and Koh Wai."
+      "question": "Is Trat worth visiting if you are not staying on Koh Chang?",
+      "answer": "Yes. The museum, old quarter, Rak Khlong Bang Phra, Ban Nam Chiao, Laem Ngop, and the city's food layer already give Trat enough substance for a mainland-first stay."
     },
     {
-      "question": "What is the entrance fee for Koh Chang Island?",
-      "answer": "There is no entrance fee for Koh Chang itself. However, some attractions like Klong Plu Waterfall and Than Mayom Waterfall charge 200 THB each ($6 USD). Speedboat transport from Trat town costs approximately 100-150 THB."
+      "question": "What should you do first in Trat?",
+      "answer": "Start with the old quarter and Trat City Museum, then build out toward Rak Khlong Bang Phra, Ban Nam Chiao, or Laem Ngop once the town itself makes sense."
     },
     {
-      "question": "Can I visit multiple islands in one day?",
-      "answer": "Yes, day trips between islands are possible via speedboat (costs 100-200 THB per trip), though this is exhausting. Most travelers prefer staying 1-2 nights per island to enjoy the atmosphere and avoid excessive boat travel."
+      "question": "Should you stay in Trat town or on Koh Chang?",
+      "answer": "Stay in town if the priority is food, markets, the museum, and mainland community routes. Stay on Koh Chang only when the island overnight is the actual purpose of that part of the trip."
     },
     {
-      "question": "What is the best time to visit Trat?",
-      "answer": "The ideal time to visit is November through February, when temperatures are mild (20-30°C) and rainfall is minimal. December and January offer the clearest skies for water activities. Avoid September through October during the southwest monsoon season when rough seas can limit island boat service."
+      "question": "What food is Trat known for?",
+      "answer": "Trat is strongest for seafood snacks, crab noodles, old-town sweets, salacca-linked dishes, and community food such as Ban Nam Chiao specialties rather than for one generic restaurant strip."
     },
     {
-      "question": "How do I get from Trat Airport to the city?",
-      "answer": "Trat Airport (TDX) is 30-45 minutes by car to Trat City center, or 1-1.5 hours to island piers. Car rental, taxis, and shuttle services are available at the airport."
+      "question": "How many nights does Trat need?",
+      "answer": "Two nights can cover the town plus one mainland or island extension. Three nights works better if you want the city, Ban Nam Chiao or Laem Ngop, and one selective Koh Chang or Koh Mak block."
     }
   ],
   "practicalInfo": {
     "bestMonths": [
-      "November",
-      "December",
-      "January",
-      "February"
+      "Nov",
+      "Dec",
+      "Jan",
+      "Feb",
+      "Mar",
+      "Apr"
     ],
-    "nearestAirport": "Trat Airport (TDX)",
-    "travelTimeFromAirport": "30-45 minutes by car to Trat City; 1-1.5 hours to island piers",
+    "nearestAirport": "Trat Airport",
+    "travelTimeFromAirport": "The airport sits in Khao Saming; timing varies by town hotel or ferry-side transfer.",
     "localTransport": [
-      "Tuk-tuk (20-40 THB)",
-      "Songthaew/shared red bus (20-40 THB)",
-      "Motorbike rental (150-300 THB/day)",
-      "Grab app (available in city)",
-      "Speedboat to islands (100-200 THB)"
-    ]
-  },
-  "enrichedAt": "2026-02-22T13:00:56.223Z",
-  "seasonal_secrets": {
-    "best_times": {
-      "November-February (Best)": "The ideal time to visit Trat is November through February, when temperatures are mild (20-30°C) and rainfall is minimal, making beach days and island exploration most enjoyable. The dry season peaks in December and January, attracting more international visitors and offering the clearest skies for water activities and photography.",
-      "March-May (Hot Season)": "Hot and humid, 30-38°C. Still good for beach activities — fewer crowds and lower prices.",
-      "June-October (Monsoon)": "Frequent afternoon showers. Some boat services may be reduced, but dramatic skies and empty beaches reward adventurous travelers."
-    },
-    "local_festivals": [
-      "Loy Krathong Festival",
-      "King's Birthday (Father's Day - Dec 5)",
-      "New Year celebrations",
-      "Makha Bucha Day",
-      "Chinese New Year (varies)",
-      "Songkran Water Festival (April 13-15) - celebrated nationwide"
+      "Short local rides work best for the old quarter and market side.",
+      "Walking is useful once you are inside the old-center streets.",
+      "Private car or arranged transfer is the practical fit for Ban Nam Chiao and Laem Ngop.",
+      "Island legs need separate ferry or boat planning."
     ],
-    "seasonal_foods": {
-      "cool": "Street food markets at their best — Pad Thai, Som Tam, and fresh seafood. Local favorites include Trat Night Market and Krua Rua Thong (Koh Chang).",
-      "hot": "Thai iced tea, coconut ice cream, and cold noodle salads. Local favorites include Trat Night Market and Krua Rua Thong (Koh Chang).",
-      "rainy": "Tom Yum Goong and warming curries are perfect for rainy days. Local favorites include Trat Night Market and Krua Rua Thong (Koh Chang)."
-    },
-    "insider_tips": {
-      "Peak season": "December-March is peak season — book accommodation 2-4 weeks ahead for the best prices and availability.",
-      "Rainy season": "Rain usually falls in short afternoon bursts — mornings are often sunny and great for exploring Trat.",
-      "Koh Chang Island": "Visit Koh Chang Island during the cool season for the most comfortable experience. Early morning visits beat the heat and the crowds."
-    }
+    "arrival": "Trat Airport is owned and operated by Bangkok Airways and sits on the mainland side in Khao Saming, not inside the town itself.",
+    "transport": "Keep mainland city time and ferry transfer time separate in the plan rather than blending them into one vague Trat day.",
+    "planning": "Think in layers: town and museum first, one mainland community or coast extension second, and one island block only if it actually earns the time."
   },
-  "top_attractions": [
+  "contentSources": [
     {
-      "rank": 1,
-      "name": "Koh Chang Island",
-      "description": "Thailand's second-largest island featuring white sand beaches, jungle waterfalls, and diverse accommodation options. The most popular island destination in Trat with activities ranging from snorkeling to hiking.",
-      "location": "45 minutes by speedboat from Trat town",
-      "entrance_fee": "None (individual attractions charge separately)",
-      "highlights": [
-        "White Sand Beach",
-        "Lonely Beach",
-        "Klong Plu Waterfall"
-      ]
+      "type": "province",
+      "title": "Trat Province Page",
+      "creator": "Tourism Authority of Thailand",
+      "url": "https://www.tourismthailand.org/Destinations/Provinces/Trat/466",
+      "description": "Used for the broader province framing, mainland-versus-island structure, and seasonal sea-transport caveats."
     },
     {
-      "rank": 2,
-      "name": "Koh Kood Island",
-      "description": "Quieter and less developed than Koh Chang, featuring pristine beaches, crystal-clear waters, and unspoiled natural environment. Ideal for travelers seeking tranquility and authentic island experiences.",
-      "location": "90 minutes by speedboat from Trat town",
-      "entrance_fee": "None",
-      "highlights": [
-        "Klong Chao Waterfall",
-        "Hat Khlong Hin Beach",
-        "Mangrove areas"
-      ]
+      "type": "travel-guide",
+      "title": "10 Things to Do in Trat",
+      "creator": "Tourism Authority of Thailand",
+      "url": "https://www.tourismthailand.org/Articles/10-things-to-do-in-trat",
+      "description": "Used for Laem Ngop, Ban Nam Chiao, and the stronger edited attraction layer around mainland Trat and Koh Chang's quieter side."
     },
     {
-      "rank": 3,
-      "name": "Klong Plu Waterfall",
-      "description": "Multi-tiered waterfall on Koh Chang with easy jungle trail access and natural swimming pools. Popular for families and casual visitors seeking a refreshing nature experience.",
-      "location": "Koh Chang Island",
-      "entrance_fee": "200 THB (approximately 6 USD)",
-      "highlights": [
-        "Natural pools",
-        "Jungle trails",
-        "Easy accessibility"
-      ]
+      "type": "feature",
+      "title": "Cultural Feast And Treats At Trat",
+      "creator": "MICHELIN Guide",
+      "url": "https://guide.michelin.com/th/en/article/features/gastronomy-journey-the-series-of-thailand-ep-7-cultural-feast-and-treats-at-trat",
+      "description": "Used for Trat Museum, Ban Nam Chiao, Rak Khlong Bang Phra, salacca, and the city's food-and-culture framing."
     },
     {
-      "rank": 4,
-      "name": "Than Mayom Waterfall",
-      "description": "Historic waterfall on Koh Chang featuring royal inscriptions and seven-tiered cascade. Significant cultural site with hiking trail and swimming opportunities.",
-      "location": "Koh Chang Island",
-      "entrance_fee": "200 THB (approximately 6 USD)",
-      "highlights": [
-        "Royal inscriptions",
-        "Seven tiers",
-        "Historic significance"
-      ]
+      "type": "attraction",
+      "title": "Trat City Museum",
+      "creator": "Tourism Authority of Thailand",
+      "url": "https://www.tourismthailand.org/Attraction/trat-city-museum",
+      "description": "Used as the official attraction reference for the museum layer."
     },
     {
-      "rank": 5,
-      "name": "Koh Mak Island",
-      "description": "Car-free paradise island known for coconut plantations, peaceful atmosphere, and minimal tourist infrastructure. Perfect for digital detox and experiencing authentic island life.",
-      "location": "60 minutes by speedboat from Trat town",
-      "entrance_fee": "None",
-      "highlights": [
-        "No vehicles",
-        "Coconut plantations",
-        "Quiet beaches"
-      ]
+      "type": "attraction",
+      "title": "Ban Nam Chiao Tourism Community Venture",
+      "creator": "Tourism Authority of Thailand",
+      "url": "https://www.tourismthailand.org/Attraction/ban-nam-chiao-tourism-community-venture",
+      "description": "Used as the official attraction reference for Ban Nam Chiao."
     },
     {
-      "rank": 6,
-      "name": "Trat Community Mangrove Forest",
-      "description": "Protected mangrove ecosystem with elevated boardwalk trails for wildlife spotting and birdwatching. Important ecological site showcasing Thailand's coastal biodiversity.",
-      "location": "Near Trat town center",
-      "entrance_fee": "None",
-      "highlights": [
-        "Boardwalk trails",
-        "Wildlife spotting",
-        "Birdwatching opportunities"
-      ]
+      "type": "restaurant",
+      "title": "Don't Miss These 5 Restaurants in Trat",
+      "creator": "Tourism Authority of Thailand",
+      "url": "https://www.tourismthailand.org/Articles/https-www-tourismthailand-org-articles-don-tmissthese5restaurantsintrat",
+      "description": "Used for Yai Saeng Grilled Cuttlefish, Sukhumvit Crab Noodles, Ba Na's grilled banana, Rim Kheuan Tom Yum Noodles, and Rimtalay Seafood & Resort."
     },
     {
-      "rank": 7,
-      "name": "Trat Old Town",
-      "description": "Historic area featuring traditional wooden shophouses and serving as the center of Thailand's gem trading industry. Offers authentic small-town atmosphere and cultural heritage exploration.",
-      "location": "Trat City Center",
-      "entrance_fee": "None",
-      "highlights": [
-        "Wooden architecture",
-        "Gem trading heritage",
-        "Local markets"
-      ]
+      "type": "island",
+      "title": "Ko Chang Province Page",
+      "creator": "Tourism Authority of Thailand",
+      "url": "https://www.tourismthailand.org/Destinations/Provinces/Ko%20Chang/467",
+      "description": "Used for Koh Chang's role inside the Trat cluster and its general access framing."
     },
     {
-      "rank": 8,
-      "name": "Trat Night Market",
-      "description": "Bustling canal-side night market with local stalls serving traditional Thai street food at budget prices. Popular gathering spot for locals and visitors seeking authentic culinary experiences.",
-      "location": "Trat City Center",
-      "entrance_fee": "None",
-      "highlights": [
-        "Local cuisine",
-        "Budget-friendly prices",
-        "Authentic atmosphere"
-      ]
-    }
-  ],
-  "factchecked_at": "2025-03-08T18:42:42.229Z",
-  "translations": {
-    "nl": {
-      "enhanced_description": "De minivan uit Bangkok zette me af in Trat-stad net toen de middagregen begon, dikke tropische druppels die roffelden op de tinnen daken van de winkelpanden langs Thana Charoen Road. De meeste reizigers razen door Trat heen op weg naar de Koh Chang-veerpont zonder te stoppen, en ik deed bijna hetzelfde. Maar een lekke band op mijn gehuurde motor dwong me een nacht te blijven, en dat gelukkige toeval introduceerde me bij een van Thailands charmantste stadjes. De oude wijk van Trat is een slaperig stratenpatroon van houten winkelpanden, edelsteenhandelaren en ochtendkoffiezaken dat nauwelijks is veranderd in decennia, een Thailand dat steeds zeldzamer aanvoelt.\n\nDie eerste avond vond ik de Trat Night Market, een compact stuk langs het kanaal bij de gemeentemarkt. Onder een baldakijn van zeilen en lichtjesketens at ik me een weg door kraampjes die khanom jeen nam ya verkochten — gefermenteerde rijstnoedels met viscurry, het comfortfood van Oost-Thailand — gevolgd door knapperige gefrituurde krabkoekjes en een zakje verse ramboetans nog koud uit een ijsemmer. De verkopers hier richten zich bijna uitsluitend op Thaise klanten, en de prijzen weerspiegelden dat: ik at als een koning voor minder dan honderd baht. Een bejaarde edelsteenhandelaar aan het tafeltje naast me liet me een handvol robijnen zien uit de nabijgelegen Chanthaburi-mijnen, en hield ze een voor een omhoog naar het marktlicht met zichtbare trots.\n\nMaar de echte magie van de provincie Trat ligt voor de kust. De veerboot naar Koh Chang duurt dertig minuten vanaf Ao Thammachat pier, en terwijl het bergachtige silhouet van het eiland groter werd door de zilte nevel, voelde ik de spanning die elke eilandreiziger kent. Koh Chang, Thailands op een na grootste eiland, is een beboste reus omringd door stranden die variëren van de ontwikkelde backpackerstrip van White Sand Beach tot de ongerepte eenzaamheid van Long Beach aan de oostkust. Ik bracht drie dagen door met het verkennen van watervallen: Klong Plu, waar de cascade neerstort in een natuurlijk zwembad omringd door junglegebladerte, en Than Mayom, waar Koning Rama V zijn initialen in een rotsblok kerfde tijdens een koninklijk bezoek in 1876.\n\nVanaf Koh Chang nam ik een speedboot zuidoostwaarts naar Koh Kood, en het contrast was verbluffend. Waar Koh Chang bars en resorts heeft, heeft Koh Kood kokosplantages, vissersdorpen en stranden zo ongerept dat het zand piept onder je voeten. Ik verbleef in een eenvoudige bungalow bij Ao Phrao strand, kajakte 's nachts door een bioluminescente baai, en at verse inktvis gegrild door de vrouw van een visser op het strand bij het dorp Baan Ao Salad. Het was het soort rauwe, ongerepte Thaise eilandervaring dat Phuket en Samui decennia geleden verloren.\n\nTerug op het vasteland verkende ik de mangrovebossen van Trat per kajak, peddelend door tunnels van boogvormige wortels terwijl varanen zich zonnebaadden op de takken boven me. De Trat Community Forest boardwalk bij Laem Ngop biedt een gemakkelijke kennismaking met dit ecosysteem, met informatieborden die uitleggen hoe de mangroven de kustlijn beschermen en vispopulaties voeden. Mijn laatste ochtend bezocht ik de edelsteenmarkt in het naburige Chanthaburi, een half uur rijden naar het noorden, waar Sri Lankaanse, Indiase en Thaise handelaren onderhandelen over saffieren en robijnen in een bazaar langs de rivier die aanvoelt als een scène uit een andere eeuw. De provincie Trat, besefte ik, is Thailands stille oostelijke grensgebied: minder gepolijst dan het zuiden, authentieker dan alles in de buurt van Bangkok, en gezegend met eilanden die nog steeds aanvoelen als echte ontdekkingen.",
-      "overview": "Trat is Thailands onderschatte oostelijke kustparel, en dient als toegangspoort tot enkele van de meest ongerepte eilanden van het koninkrijk, waaronder Koh Chang, Thailands op een na grootste eiland. Met een bevolking van slechts 22.000 inwoners biedt deze charmante provincie een authentieke Thaise kleinstadssfeer weg van de typische toeristische drukte, gecombineerd met stranden van wereldklasse, mangrovebossen en een levendige edelsteenhandelscultuur. Of je nu avontuur zoekt op kristalhelder water, rustige eilandontsnappingen of onderdompeling in de lokale cultuur, de provincie Trat levert een onvergetelijke ervaring die de rauwe schoonheid van Thailands oostelijke kust laat zien.",
-      "thingsToDo": "De belangrijkste attracties van Trat draaien om het prachtige eilandenarchipel en de natuurwonderen. Koh Chang biedt witte zandstranden, junglewatervallen en eilandactiviteiten, terwijl het rustigere Koh Kood kristalhelder water en ongerepte stranden heeft, perfect voor wie rust zoekt. Voor watervalliefhebbers biedt Klong Plu Waterfall (200 THB entree) gemakkelijke toegang via een junglepad naar een natuurlijk zwembad, en Than Mayom Waterfall (200 THB) heeft koninklijke inscripties en historische betekenis. Koh Mak blijft een autovrij paradijs bekend om kokosplantages en vredige sfeer, ideaal voor digitale detox. Het Trat Community Mangrovebos biedt boardwalkpaden en mogelijkheden voor het spotten van wilde dieren, terwijl de Trat Night Market een authentieke culinaire ervaring biedt met een setting langs het kanaal en budgetvriendelijk lokaal eten. In de stad toont de Trat Old Town houten winkelpanden, het beroemde edelsteenhandelserfgoed van de regio en oprechte kleinstadscharme.",
-      "whereToStay": "Accommodatie in Trat varieert van budgetpensions tot luxe eilandresorts, met opties voor elk type reiziger. In Trat-stad zelf bieden middenklasse hotels zoals Trat City Hotel modern comfort met zwembaden, fitnesscentra en handige toegang tot restaurants en markten. De meeste bezoekers gebruiken Trat als doorvoerpunt en verblijven een nacht voordat ze eilandhoppen, hoewel 2-3 nachten de mogelijkheid bieden om de authentieke cultuur en markten van de stad te verkennen. De nabijgelegen eilanden hebben diverse accommodatie: Koh Chang heeft alles van backpackerstrandhutten op Lonely Beach tot luxe strandresorts, Koh Kood richt zich op wie vredige afzondering zoekt, terwijl Koh Mak eenvoudige maar charmante strandbungalows biedt, perfect voor budgetreizigers. Voor een volledige Trat-archipelervaring reserveer je twee nachten op zowel Koh Chang als Koh Kood, met drie nachten verdeeld over Koh Mak en Koh Wai.",
-      "gettingAround": "Binnen Trat-stad wordt het lokale vervoer voornamelijk verzorgd door tuk-tuks en songthaews (gedeelde rode bussen), beide zeer betaalbaar voor 20-40 THB per rit binnen de stad. Voor eilandtoegang vertrekken gedeelde minivans en speedboten regelmatig vanuit Trat-stad naar Koh Chang (45 minuten, 100-150 THB), Koh Kood (90 minuten, 150-200 THB), Koh Mak (60 minuten, 100-150 THB) en Koh Wai (wisselend). Grab is beschikbaar in Trat-stad voor gemakkelijk punt-naar-punt vervoer, hoewel songthaews de meest authentieke en budgetvriendelijke lokale optie blijven. Op de eilanden zelf is motorverhuur (150-300 THB/dag) de voorkeursmethode voor onafhankelijke verkenning, hoewel tuk-tuks beschikbaar zijn op grotere eilanden zoals Koh Chang.",
-      "bestTimeToVisit": "De ideale tijd om Trat te bezoeken is november tot en met februari, wanneer de temperaturen mild zijn (20-30°C) en de regenval minimaal, waardoor stranddagen en eilandverkenning het aangenaamst zijn. Het droge seizoen piekt in december en januari, wat meer internationale bezoekers trekt en de helderste luchten biedt voor wateractiviteiten en fotografie. Maart tot mei brengt heet, vochtig weer (30-35°C), hoewel minder toeristen lagere prijzen en rustigere stranden betekenen. Vermijd september tot oktober tijdens het zuidwestmoessonseizoen, wanneer ruwe zee de bootdiensten naar eilanden kan beperken en zware regenval buitenactiviteiten beïnvloedt. Het kalme water van het droge seizoen maakt dit ook de beste periode voor snorkelen, duiken en boottochten naar afgelegen eilanden.",
-      "safetyTips": "De provincie Trat is over het algemeen zeer veilig voor toeristen met lage criminaliteitscijfers en gastvrije locals. Standaard reisvoorzorgsmaatregelen gelden: vermijd het tonen van dure sieraden of elektronica, beveilig bezittingen op drukke markten en gebruik geregistreerde taxi's of Grab in plaats van ongemarkeerde taxi's. Bootvervoer naar eilanden is veilig met moderne speedboten, maar verifieer de operators en controleer weersomstandigheden voor vertrek tijdens het moessonseizoen. Kleine diefstal kan voorkomen in toeristische gebieden en op avondmarkten, dus let op tassen en zakken op drukke plekken. Bij het huren van motorfietsen, zorg dat er helmen gedragen worden (wettelijk verplicht) en rij defensief op bochtige eilandwegen.",
-      "translated_at": "2026-03-10T00:00:00.000Z"
-    },
-    "fr": {
-      "enhanced_description": "Le minivan de Bangkok m'a déposé dans la ville de Trat juste au moment où la pluie de l'après-midi commençait, de grosses gouttes tropicales tambourinant sur les toits en tôle des boutiques le long de Thana Charoen Road. La plupart des voyageurs traversent Trat à toute allure en route vers le ferry de Koh Chang sans s'arrêter, et j'ai failli faire de même. Mais une crevaison sur ma moto de location m'a forcé à rester une nuit, et ce hasard heureux m'a fait découvrir l'une des petites villes les plus charmantes de Thaïlande. Le vieux quartier de Trat est un réseau endormi de rues bordées de boutiques en bois, de négociants en pierres précieuses et de cafés du matin qui n'a guère changé depuis des décennies, une Thaïlande qui se fait de plus en plus rare.\n\nCe premier soir, j'ai trouvé le marché de nuit de Trat, un tronçon compact le long du canal près du marché municipal. Sous un auvent de bâches et de guirlandes lumineuses, j'ai mangé mon chemin à travers les étals vendant du khanom jeen nam ya — des nouilles de riz fermentées au curry de poisson, le plat réconfortant de l'est de la Thaïlande — suivi de beignets de crabe croustillants et d'un sac de ramboutans frais encore froids d'un seau de glace. Les vendeurs ici s'adressent presque exclusivement à la clientèle thaïlandaise, et les prix le reflètent : j'ai mangé comme un roi pour moins de cent bahts. Un vieux négociant en pierres précieuses à la table voisine m'a montré une poignée de rubis des mines voisines de Chanthaburi, les tenant un par un sous la lumière du marché avec une fierté visible.\n\nMais la vraie magie de la province de Trat se trouve au large. Le ferry vers Koh Chang met trente minutes depuis le quai d'Ao Thammachat, et tandis que la silhouette montagneuse de l'île grandissait à travers la brume saline, j'ai ressenti l'excitation que connaît tout voyageur insulaire. Koh Chang, la deuxième plus grande île de Thaïlande, est un géant boisé entouré de plages allant de la bande de backpackers développée de White Sand Beach à la solitude préservée de Long Beach sur la côte est. J'ai passé trois jours à explorer des cascades : Klong Plu, où la chute d'eau se déverse dans une piscine naturelle entourée de feuillage de jungle, et Than Mayom, où le roi Rama V a gravé ses initiales dans un rocher lors d'une visite royale en 1876.\n\nDepuis Koh Chang, j'ai pris un speed boat vers le sud-est jusqu'à Koh Kood, et le contraste était saisissant. Là où Koh Chang a des bars et des resorts, Koh Kood a des plantations de cocotiers, des villages de pêcheurs et des plages si préservées que le sable crisse sous vos pieds. J'ai séjourné dans un bungalow simple à la plage d'Ao Phrao, fait du kayak de nuit dans une baie bioluminescente, et mangé du calamar frais grillé par la femme d'un pêcheur sur la plage du village de Baan Ao Salad. C'était le genre d'expérience insulaire thaïlandaise brute et intacte que Phuket et Samui ont perdue depuis des décennies.\n\nDe retour sur le continent, j'ai exploré les mangroves de Trat en kayak, pagayant à travers des tunnels de racines arquées tandis que des varans se doraient au soleil sur les branches au-dessus de moi. La passerelle de la forêt communautaire de Trat à Laem Ngop offre une introduction facile à cet écosystème, avec des panneaux informatifs expliquant comment les mangroves protègent le littoral et nourrissent les populations de poissons. Mon dernier matin, j'ai visité le marché aux pierres précieuses de la voisine Chanthaburi, à une demi-heure de route vers le nord, où des négociants sri-lankais, indiens et thaïlandais marchandent saphirs et rubis dans un bazar en bord de rivière qui semble tout droit sorti d'un autre siècle. La province de Trat, ai-je réalisé, est la tranquille frontière orientale de la Thaïlande : moins polie que le sud, plus authentique que tout ce qui se trouve près de Bangkok, et bénie d'îles qui ressemblent encore à de véritables découvertes.",
-      "overview": "Trat est la perle côtière orientale sous-estimée de Thaïlande, servant de porte d'entrée vers certaines des îles les plus préservées du royaume, dont Koh Chang, la deuxième plus grande île de Thaïlande. Avec une population de seulement 22 000 habitants, cette province charmante offre une atmosphère authentique de petite ville thaïlandaise loin de l'agitation touristique habituelle, combinée à des plages de classe mondiale, des forêts de mangrove et une culture vibrante du commerce de pierres précieuses. Que vous cherchiez l'aventure sur des eaux cristallines, des échappées insulaires paisibles ou l'immersion dans la culture locale, la province de Trat offre une expérience inoubliable qui met en valeur la beauté brute de la côte orientale de Thaïlande.",
-      "thingsToDo": "Les principales attractions de Trat tournent autour du magnifique archipel d'îles et des merveilles naturelles. Koh Chang offre des plages de sable blanc, des cascades en jungle et des activités insulaires, tandis que la plus tranquille Koh Kood possède des eaux cristallines et des plages préservées, parfaite pour ceux qui cherchent la sérénité. Pour les amateurs de cascades, Klong Plu Waterfall (200 THB d'entrée) offre un accès facile via un sentier de jungle vers une piscine naturelle, et Than Mayom Waterfall (200 THB) présente des inscriptions royales et une signification historique. Koh Mak reste un paradis sans voiture connu pour ses plantations de cocotiers et son atmosphère paisible, idéal pour une détox numérique. La forêt de mangrove communautaire de Trat offre des sentiers sur passerelle et des possibilités d'observation de la faune, tandis que le marché de nuit de Trat propose une expérience culinaire authentique dans un cadre au bord du canal avec de la nourriture locale à petit prix. En ville, la vieille ville de Trat présente des boutiques en bois, le célèbre patrimoine du commerce de pierres précieuses de la région et un charme sincère de petite ville.",
-      "whereToStay": "L'hébergement à Trat varie des pensions économiques aux resorts insulaires de luxe, avec des options pour chaque type de voyageur. Dans la ville de Trat même, les hôtels de milieu de gamme comme le Trat City Hotel offrent un confort moderne avec piscines, salles de fitness et accès pratique aux restaurants et marchés. La plupart des visiteurs utilisent Trat comme point de transit et y passent une nuit avant de partir en island hopping, bien que 2-3 nuits permettent d'explorer la culture authentique et les marchés de la ville. Les îles voisines ont des hébergements variés : Koh Chang a de tout, des cabanes de plage pour backpackers à Lonely Beach aux resorts de plage de luxe, Koh Kood s'adresse à ceux qui cherchent une retraite paisible, tandis que Koh Mak offre des bungalows de plage simples mais charmants, parfaits pour les voyageurs à petit budget. Pour une expérience complète de l'archipel de Trat, réservez deux nuits tant sur Koh Chang que sur Koh Kood, avec trois nuits réparties entre Koh Mak et Koh Wai.",
-      "gettingAround": "Dans la ville de Trat, le transport local est principalement assuré par les tuk-tuks et les songthaews (bus rouges partagés), tous deux très abordables à 20-40 THB par trajet en ville. Pour l'accès aux îles, des minivans partagés et des speed boats partent régulièrement de Trat ville vers Koh Chang (45 minutes, 100-150 THB), Koh Kood (90 minutes, 150-200 THB), Koh Mak (60 minutes, 100-150 THB) et Koh Wai (variable). Grab est disponible dans la ville de Trat pour un transport point à point facile, bien que les songthaews restent l'option locale la plus authentique et économique. Sur les îles elles-mêmes, la location de moto (150-300 THB/jour) est la méthode préférée pour une exploration indépendante, bien que des tuk-tuks soient disponibles sur les plus grandes îles comme Koh Chang.",
-      "bestTimeToVisit": "La période idéale pour visiter Trat est de novembre à février, quand les températures sont douces (20-30°C) et les précipitations minimales, rendant les journées de plage et l'exploration des îles les plus agréables. La saison sèche culmine en décembre et janvier, attirant plus de visiteurs internationaux et offrant les ciels les plus dégagés pour les activités nautiques et la photographie. De mars à mai, le temps chaud et humide (30-35°C) s'installe, bien que moins de touristes signifie des prix plus bas et des plages plus tranquilles. Évitez septembre à octobre pendant la saison de la mousson du sud-ouest, quand les mers agitées peuvent limiter les services de bateaux vers les îles et les fortes pluies affectent les activités de plein air. Les eaux calmes de la saison sèche en font aussi la meilleure période pour le snorkeling, la plongée et les excursions en bateau vers les îles éloignées.",
-      "safetyTips": "La province de Trat est généralement très sûre pour les touristes avec de faibles taux de criminalité et des habitants accueillants. Les précautions de voyage standard s'appliquent : évitez d'exhiber des bijoux ou appareils électroniques coûteux, sécurisez vos affaires sur les marchés animés et utilisez des taxis enregistrés ou Grab plutôt que des taxis non identifiés. Le transport en bateau vers les îles est sûr avec des speed boats modernes, mais vérifiez les opérateurs et les conditions météorologiques avant le départ pendant la saison des moussons. Les petits vols peuvent survenir dans les zones touristiques et sur les marchés de nuit, soyez donc attentif à vos sacs et poches dans les endroits bondés. Lors de la location de motos, assurez-vous de porter un casque (obligatoire par la loi) et conduisez défensivement sur les routes sinueuses des îles.",
-      "translated_at": "2026-03-10T00:00:00.000Z"
-    },
-    "de": {
-      "enhanced_description": "Der Minivan aus Bangkok setzte mich in der Stadt Trat ab, gerade als der Nachmittagsregen begann, dicke tropische Tropfen, die auf die Blechdächer der Ladenhäuser entlang der Thana Charoen Road trommelten. Die meisten Reisenden rasen durch Trat auf dem Weg zum Koh Chang-Fährterminal, ohne anzuhalten, und ich hätte beinahe dasselbe getan. Aber ein platter Reifen an meinem gemieteten Motorrad zwang mich, eine Nacht zu bleiben, und dieser glückliche Zufall stellte mir eine der charmantesten Kleinstädte Thailands vor. Trats Altstadt ist ein verschlafenes Straßennetz aus Holzladenhäusern, Edelsteinhändlern und Morgenkaffeehäusern, das sich seit Jahrzehnten kaum verändert hat — ein Thailand, das sich zunehmend selten anfühlt.\n\nAn jenem ersten Abend fand ich den Trat Night Market, einen kompakten Streifen entlang des Kanals beim Marktplatz. Unter einem Baldachin aus Planen und Lichterketten aß ich mich durch Stände, die Khanom Jeen Nam Ya verkauften — fermentierte Reisnudeln mit Fischcurry, das Soulfood Ostthailands — gefolgt von knusprigen frittierten Krabbenküchein und einer Tüte frischer Rambutane, noch kalt aus einem Eiseimer. Die Verkäufer hier bedienen fast ausschließlich thailändische Kunden, und die Preise spiegelten das wider: Ich aß wie ein König für unter hundert Baht. Ein älterer Edelsteinhändler am Nebentisch zeigte mir eine Handvoll Rubine aus den nahe gelegenen Chanthaburi-Minen und hielt jeden einzelnen ins Marktlicht mit offensichtlichem Stolz.\n\nAber die wahre Magie der Provinz Trat liegt vor der Küste. Die Fähre nach Koh Chang dauert dreißig Minuten von Ao Thammachat Pier, und als die bergige Silhouette der Insel durch die Salzgischt immer größer wurde, spürte ich die Vorfreude, die jeder Inselreisende kennt. Koh Chang, Thailands zweitgrößte Insel, ist ein bewaldeter Riese, umgeben von Stränden, die vom erschlossenen Backpacker-Streifen am White Sand Beach bis zur unberührten Einsamkeit des Long Beach an der Ostküste reichen. Ich verbrachte drei Tage damit, Wasserfälle zu erkunden: Klong Plu, wo die Kaskade in ein natürliches Becken stürzt, umgeben von Dschungeldach, und Than Mayom, wo König Rama V seine Initialen während eines königlichen Besuchs 1876 in einen Felsblock ritzte.\n\nVon Koh Chang aus nahm ich ein Speedboot südöstlich nach Koh Kood, und der Kontrast war überwältigend. Wo Koh Chang Bars und Resorts hat, hat Koh Kood Kokosplantagen, Fischerdörfer und Strände so unberührt, dass der Sand unter den Füßen quietscht. Ich übernachtete in einem einfachen Bungalow am Ao Phrao Strand, paddelte nachts durch eine biolumineszierende Bucht und aß frischen Tintenfisch, gegrillt von der Frau eines Fischers am Strand des Dorfes Baan Ao Salad. Es war die Art von rohem, unberührtem thailändischem Inselerlebnis, das Phuket und Samui vor Jahrzehnten verloren haben.\n\nZurück auf dem Festland erkundete ich Trats Mangrovenwälder per Kajak, paddelte durch Tunnel aus bogenförmigen Wurzeln, während Warane sich auf den Ästen über mir sonnten. Der Boardwalk des Trat Community Forest bei Laem Ngop bietet eine einfache Einführung in dieses Ökosystem, mit Infotafeln, die erklären, wie die Mangroven die Küste schützen und Fischpopulationen nähren. An meinem letzten Morgen besuchte ich den Edelsteinmarkt im benachbarten Chanthaburi, eine halbe Stunde Fahrt nach Norden, wo sri-lankische, indische und thailändische Händler über Saphire und Rubine in einem Flussuferbasar verhandeln, der wie eine Szene aus einem anderen Jahrhundert wirkt. Die Provinz Trat, erkannte ich, ist Thailands stille östliche Grenze: weniger poliert als der Süden, authentischer als alles in der Nähe von Bangkok, und gesegnet mit Inseln, die sich noch wie echte Entdeckungen anfühlen.",
-      "overview": "Trat ist Thailands unterschätzte östliche Küstenperle und dient als Tor zu einigen der unberührtesten Inseln des Königreichs, darunter Koh Chang, Thailands zweitgrößte Insel. Mit nur 22.000 Einwohnern bietet diese charmante Provinz eine authentische thailändische Kleinstadtatmosphäre abseits der typischen Touristenhektik, kombiniert mit Stränden von Weltklasse, Mangrovenwäldern und einer lebendigen Edelsteinhändlerkultur. Ob Sie Abenteuer auf kristallklarem Wasser suchen, friedliche Inselfluchten oder Eintauchen in die lokale Kultur — die Provinz Trat bietet ein unvergessliches Erlebnis, das die raue Schönheit der Ostküste Thailands zeigt.",
-      "thingsToDo": "Die Hauptattraktionen von Trat drehen sich um den wunderschönen Inselarchipel und die Naturwunder. Koh Chang bietet weiße Sandstrände, Dschungelwasserfälle und Inselaktivitäten, während das ruhigere Koh Kood kristallklares Wasser und unberührte Strände hat, perfekt für Ruhe Suchende. Für Wasserfall-Liebhaber bietet Klong Plu Waterfall (200 THB Eintritt) einfachen Zugang über einen Dschungelpfad zu einem natürlichen Schwimmbecken, und Than Mayom Waterfall (200 THB) hat königliche Inschriften und historische Bedeutung. Koh Mak bleibt ein autofreies Paradies, bekannt für Kokosplantagen und friedliche Atmosphäre, ideal für digitale Entgiftung. Der Trat Community Mangrovenwald bietet Boardwalk-Pfade und Möglichkeiten zur Wildtierbeobachtung, während der Trat Night Market ein authentisches kulinarisches Erlebnis mit Kanalkulisse und budgetfreundlichem lokalem Essen bietet. In der Stadt zeigt die Altstadt von Trat die hölzernen Ladenhäuser, das berühmte Edelsteinhändlererbe der Region und aufrichtigen Kleinstadtcharme.",
-      "whereToStay": "Die Unterkünfte in Trat reichen von Budgetpensionen bis hin zu luxuriösen Inselresorts mit Optionen für jeden Reisetyp. In der Stadt Trat selbst bieten Mittelklassehotels wie das Trat City Hotel modernen Komfort mit Schwimmbädern, Fitnessräumen und bequemem Zugang zu Restaurants und Märkten. Die meisten Besucher nutzen Trat als Transitpunkt und bleiben eine Nacht, bevor sie zum Inselhopping aufbrechen, obwohl 2-3 Nächte die Möglichkeit bieten, die authentische Kultur und Märkte der Stadt zu erkunden. Die nahe gelegenen Inseln bieten vielfältige Unterkünfte: Koh Chang hat alles von Backpacker-Strandhütten am Lonely Beach bis hin zu Luxus-Strandresorts, Koh Kood richtet sich an Ruhesuchende, während Koh Mak einfache, aber charmante Strandbungalows bietet, perfekt für Budgetreisende. Für ein vollständiges Trat-Archipel-Erlebnis reservieren Sie zwei Nächte sowohl auf Koh Chang als auch auf Koh Kood, mit drei Nächten verteilt auf Koh Mak und Koh Wai.",
-      "gettingAround": "Innerhalb der Stadt Trat wird der lokale Transport hauptsächlich durch Tuk-Tuks und Songthaews (geteilte rote Busse) abgedeckt, beide sehr erschwinglich für 20-40 THB pro Fahrt in der Stadt. Für den Inselzugang fahren geteilte Minibusse und Speedboote regelmäßig von Trat-Stadt nach Koh Chang (45 Minuten, 100-150 THB), Koh Kood (90 Minuten, 150-200 THB), Koh Mak (60 Minuten, 100-150 THB) und Koh Wai (variabel). Grab ist in Trat-Stadt für einfachen Punkt-zu-Punkt-Transport verfügbar, obwohl Songthaews die authentischste und budgetfreundlichste lokale Option bleiben. Auf den Inseln selbst ist Motorradverleih (150-300 THB/Tag) die bevorzugte Methode für unabhängige Erkundung, obwohl Tuk-Tuks auf größeren Inseln wie Koh Chang verfügbar sind.",
-      "bestTimeToVisit": "Die ideale Reisezeit für Trat ist November bis Februar, wenn die Temperaturen mild sind (20-30°C) und der Niederschlag minimal, was Strandtage und Inselerkundung am angenehmsten macht. Die Trockenzeit erreicht ihren Höhepunkt im Dezember und Januar, zieht mehr internationale Besucher an und bietet den klarsten Himmel für Wasseraktivitäten und Fotografie. März bis Mai bringt heißes, feuchtes Wetter (30-35°C), obwohl weniger Touristen niedrigere Preise und ruhigere Strände bedeuten. Vermeiden Sie September bis Oktober während der Südwestmonsunzeit, wenn raue See die Bootsdienste zu den Inseln einschränken kann und starke Regenfälle Outdoor-Aktivitäten beeinträchtigen. Das ruhige Wasser der Trockenzeit macht diese auch zur besten Zeit zum Schnorcheln, Tauchen und für Bootsausflüge zu abgelegenen Inseln.",
-      "safetyTips": "Die Provinz Trat ist generell sehr sicher für Touristen mit niedrigen Kriminalitätsraten und gastfreundlichen Einheimischen. Standard-Reisevorsichtsmaßnahmen gelten: Vermeiden Sie es, teuren Schmuck oder Elektronik zur Schau zu stellen, sichern Sie Ihre Habseligkeiten auf belebten Märkten und nutzen Sie registrierte Taxis oder Grab anstatt nicht gekennzeichneter Taxis. Der Bootstransport zu den Inseln ist mit modernen Speedbooten sicher, aber überprüfen Sie die Betreiber und kontrollieren Sie die Wetterbedingungen vor der Abfahrt während der Monsunzeit. Kleinkriminalität kann in Touristengebieten und auf Nachtmärkten vorkommen, achten Sie also auf Taschen und Hosentaschen an belebten Orten. Beim Mieten von Motorrädern stellen Sie sicher, dass Helme getragen werden (gesetzlich vorgeschrieben) und fahren Sie defensiv auf kurvenreichen Inselstraßen.",
-      "translated_at": "2026-03-10T00:00:00.000Z"
-    },
-    "zh": {
-      "enhanced_description": "从曼谷出发的小巴在午后阵雨开始时把我放在达叻府城，硕大的热带雨滴敲打着塔纳察隆路两旁店屋的铁皮屋顶。大多数旅行者赶着去阁昌岛渡轮码头，途经达叻府却连停都不停，我差点也是如此。但租来的摩托车爆胎迫使我留宿一晚，这个幸运的意外让我发现了泰国最迷人的小镇之一。达叻老城区是一片沉睡的街巷迷宫，两旁排列着木质店屋、宝石商人和清晨咖啡馆，几十年来几乎不曾改变——这样的泰国越来越稀有了。\n\n那第一个傍晚，我找到了达叻夜市，就在市政市场旁的运河边一小段紧凑的摊位区。在篷布和灯串搭成的天棚下，我一路吃过卖卡农真南亚的摊位——发酵米粉配鱼咖喱，泰国东部的灵魂美食——接着是酥脆的炸蟹饼和一袋冰桶里刚拿出来还透着凉意的新鲜红毛丹。这里的摊贩几乎只面向泰国本地客人，价格也反映了这一点：我花不到一百泰铢就吃了一顿丰盛大餐。邻桌一位年迈的宝石商人给我看了一把来自附近尖竹汶矿区的红宝石，一颗颗举到市场的灯光下，脸上满是掩不住的自豪。\n\n但达叻府真正的魔力在海上。从敖探玛察码头到阁昌岛的渡轮只需三十分钟，当岛屿的山峦轮廓透过咸涩的水雾越来越大时，我感受到了每个海岛旅行者都熟悉的那种激动。阁昌岛是泰国第二大岛，一座被森林覆盖的巨人，周围的海滩从开发成熟的背包客聚集地白沙滩到东海岸原始幽静的长滩不一而足。我花了三天探索瀑布：空普瀑布，水帘倾泻入一个被丛林树冠环绕的天然泳池；探玛荣瀑布，拉玛五世在1876年皇家巡访时将自己的名字缩写刻在了岩石上。\n\n从阁昌岛出发，我乘快艇向东南前往阁骨岛，两者的反差令人惊叹。阁昌岛有酒吧和度假村，而阁骨岛只有椰子种植园、渔村和原始得让沙子在脚下吱吱作响的海滩。我住在敖帕劳海滩的一间简朴小屋里，夜间划着皮划艇穿过一片生物荧光海湾，在班敖沙拉渔村的海滩上吃着渔民妻子现烤的新鲜鱿鱼。这是那种原始、未经雕琢的泰国海岛体验——普吉岛和苏梅岛几十年前就已失去的东西。\n\n回到大陆，我用皮划艇探索了达叻的红树林，穿过拱形根系组成的隧道，头顶的树枝上巨蜥在慵懒地晒太阳。廉诺的达叻社区森林栈道提供了了解这一生态系统的便捷入口，信息板解释着红树林如何保护海岸线、滋养鱼类种群。最后一个早晨，我驱车半小时北上，参观了尖竹汶的宝石市场，斯里兰卡、印度和泰国商人在河畔集市上讨价还价，交易蓝宝石和红宝石，整个场景仿佛来自另一个世纪。达叻府，我意识到，是泰国宁静的东部边境：不如南部精致，却比曼谷周边的一切都更加真实，而且幸运地拥有那些至今仍像真正发现的岛屿。",
-      "overview": "达叻府是泰国被低估的东海岸明珠，是通往泰国一些最原始岛屿的门户，包括泰国第二大岛阁昌岛。这座仅有22,000人口的迷人小城远离典型的旅游喧嚣，提供原汁原味的泰国小城氛围，同时拥有世界级的海滩、红树林和充满活力的宝石贸易文化。无论您是寻找清澈海水上的冒险、宁静的海岛逃离还是当地文化的沉浸体验，达叻府都能带来令人难忘的旅程，展示泰国东海岸的原始之美。",
-      "thingsToDo": "达叻府的主要景点围绕着壮丽的岛屿群和自然奇观。阁昌岛提供白沙海滩、丛林瀑布和丰富的海岛活动，而更宁静的阁骨岛拥有清澈透明的海水和原始海滩，非常适合追求清净的旅客。空普瀑布（门票200泰铢）通过丛林步道轻松抵达天然泳池，探玛荣瀑布（200泰铢）则拥有皇室铭文和历史意义。阁玛岛依然是一个无车天堂，以椰子种植园和宁静氛围著称，是数字排毒的理想去处。达叻社区红树林提供栈道步道和野生动物观察机会，而达叻夜市则带来运河边的正宗美食体验和亲民的本地小吃。在城区，达叻老城展示着木质店屋、该地区著名的宝石贸易遗产和真挚的小镇魅力。",
-      "whereToStay": "达叻的住宿选择从经济型民宿到豪华海岛度假村应有尽有，适合各类旅客。在达叻市区，中档酒店如达叻城市酒店提供现代化设施，包括泳池、健身房以及便捷的餐厅和市场通道。大多数游客将达叻作为中转站，住一晚后便出发跳岛，不过停留2-3晚可以深入探索城市的正宗文化和市场。附近岛屿提供多样住宿：阁昌岛从寂寞海滩的背包客海滨小屋到豪华海滩度假村一应俱全，阁骨岛适合追求宁静隐居的旅客，而阁玛岛提供简朴但迷人的海滩小屋，非常适合预算旅客。要体验完整的达叻群岛之旅，建议在阁昌岛和阁骨岛各预订两晚，另外三晚分配在阁玛岛和阁外岛之间。",
-      "gettingAround": "在达叻市区，本地交通主要依靠嘟嘟车和双条车（共享红色小巴），两者都非常实惠，市内每程仅20-40泰铢。前往岛屿方面，共享小巴和快艇从达叻市区定期出发前往阁昌岛（45分钟，100-150泰铢）、阁骨岛（90分钟，150-200泰铢）、阁玛岛（60分钟，100-150泰铢）和阁外岛（时间不等）。达叻市区可使用Grab进行便捷的点对点出行，不过双条车仍是最地道和最经济的本地选择。在岛屿上，租摩托车（150-300泰铢/天）是自由探索的首选方式，较大的岛屿如阁昌岛也有嘟嘟车可供搭乘。",
-      "bestTimeToVisit": "游览达叻的最佳时间是11月至2月，此时气温温和（20-30°C）且降雨极少，最适合海滩度日和岛屿探索。旱季在12月和1月达到高峰，吸引更多国际游客，天空最为晴朗，非常适合水上活动和摄影。3月至5月天气炎热潮湿（30-35°C），但游客较少意味着价格更低、海滩更清净。建议避开9月至10月的西南季风季节，此时风浪可能影响前往岛屿的船运服务，强降雨也会影响户外活动。旱季平静的水面也使其成为浮潜、潜水和乘船前往偏远岛屿的最佳时期。",
-      "safetyTips": "达叻府对游客来说总体非常安全，犯罪率低且当地人热情好客。基本的旅行安全常识适用：避免炫耀昂贵珠宝或电子设备，在热闹的市场上看管好个人物品，选择正规出租车或Grab而非无标识的出租车。前往岛屿的船运使用现代快艇，安全可靠，但在季风季节出发前请核实运营商并查看天气状况。旅游区和夜市可能发生小偷小摸，在拥挤场所请注意看管背包和口袋。租用摩托车时务必佩戴头盔（法律强制要求），并在蜿蜒的岛屿道路上谨慎驾驶。",
-      "translated_at": "2026-03-11T00:00:00.000Z"
-    },
-    "ru": {
-      "enhanced_description": "Минивэн из Бангкока высадил меня в городке Трат как раз когда начался послеполуденный дождь — крупные тропические капли барабанили по жестяным крышам торговых домов на Тхана Чароен Роуд. Большинство путешественников проскакивают Трат на пути к парому на Ко Чанг, даже не останавливаясь, и я чуть не сделал то же самое. Но спущенная шина на арендованном мотоцикле вынудила остаться на ночь, и эта счастливая случайность познакомила меня с одним из самых очаровательных маленьких городков Таиланда. Старый квартал Трата — сонная сетка улиц с деревянными торговыми домами, ювелирными лавками и утренними кофейнями, едва изменившаяся за десятилетия. Такой Таиланд становится всё более редким.\n\nВ тот первый вечер я нашёл ночной рынок Трата — компактную полосу вдоль канала у муниципального рынка. Под навесом из тентов и гирлянд я пробовал всё подряд: кханом джин нам я — ферментированную рисовую лапшу с рыбным карри, душевную еду восточного Таиланда, — затем хрустящие крабовые котлетки и пакет свежих рамбутанов, ещё холодных из ведра со льдом. Торговцы здесь обслуживают почти исключительно тайских клиентов, и цены это отражали: я ел как король меньше чем за сто бат. Пожилой ювелир за соседним столиком показал мне горсть рубинов из ближайших шахт Чантхабури, держа каждый камень на свету рынка с нескрываемой гордостью.\n\nНо настоящее волшебство провинции Трат — в море. Паром до Ко Чанг идёт тридцать минут от пирса Ао Тхаммачат, и по мере того как горный силуэт острова рос сквозь солёные брызги, я испытал то предвкушение, которое знакомо каждому островному путешественнику. Ко Чанг — второй по величине остров Таиланда — лесной гигант, окружённый пляжами от развитой бэкпекерской полосы Уайт Сэнд Бич до нетронутого уединения Лонг Бич на восточном берегу. Три дня я исследовал водопады: Клонг Плу, где каскад обрушивается в природный бассейн среди джунглей, и Тхан Майом, где король Рама V вырезал свои инициалы на валуне во время визита в 1876 году.\n\nС Ко Чанг я пересел на скоростной катер до Ко Куд, и контраст был ошеломляющим. Там, где на Ко Чанг — бары и курорты, на Ко Куд — кокосовые плантации, рыбацкие деревни и пляжи настолько первозданные, что песок скрипит под ногами. Я жил в простом бунгало на пляже Ао Прао, ночью плавал на каяке по биолюминесцентной бухте и ел свежих кальмаров, зажаренных женой рыбака на пляже деревни Баан Ао Салад. Это был тот самый сырой, нетронутый тайский островной опыт, который Пхукет и Самуи утратили десятилетия назад.\n\nВернувшись на материк, я исследовал мангровые леса Трата на каяке, пробираясь через тоннели изогнутых корней, пока вараны грелись на ветках надо мной. Деревянная дорожка Тратского общинного леса у Лаем Нгоп — лёгкое введение в эту экосистему с информационными стендами о том, как мангровые заросли защищают побережье и питают рыбные популяции. В последнее утро я посетил ювелирный рынок в соседнем Чантхабури — полчаса езды на север, — где шриланкийские, индийские и тайские торговцы торгуются за сапфиры и рубины на речном базаре, словно из другого столетия. Провинция Трат, понял я, — тихий восточный рубеж Таиланда: менее отполированный, чем юг, более подлинный, чем всё вблизи Бангкока, и благословлённый островами, которые до сих пор ощущаются как настоящие открытия.",
-      "overview": "Трат — недооценённая жемчужина восточного побережья Таиланда, ворота к одним из самых нетронутых островов страны, включая Ко Чанг — второй по величине остров Таиланда. С населением всего 22 000 человек эта очаровательная провинция предлагает подлинную атмосферу тайского маленького города вдали от типичной туристической суеты в сочетании с пляжами мирового класса, мангровыми лесами и живой культурой торговли драгоценными камнями. Ищете ли вы приключений на кристально чистой воде, уединённый островной отдых или погружение в местную культуру — провинция Трат подарит незабываемый опыт, раскрывающий первозданную красоту восточного побережья Таиланда.",
-      "thingsToDo": "Главные достопримечательности Трата — великолепный островной архипелаг и природные чудеса. Ко Чанг предлагает белые песчаные пляжи, джунглевые водопады и островные активности, а более тихий Ко Куд — кристально чистые воды и первозданные пляжи для любителей уединения. Водопад Клонг Плу (вход 200 THB) — лёгкий доступ по джунглевой тропе к природному бассейну; водопад Тхан Майом (200 THB) хранит королевские надписи и историческое значение. Ко Мак остаётся раем без автомобилей с кокосовыми плантациями и умиротворённой атмосферой — идеален для цифрового детокса. Тратский общинный мангровый лес предлагает прогулочные дорожки и наблюдение за дикой природой, а ночной рынок Трата — подлинный кулинарный опыт у канала с бюджетной местной едой. В городе Старый Трат демонстрирует деревянные торговые дома, знаменитое ювелирное наследие региона и искренний провинциальный шарм.",
-      "whereToStay": "Жильё в Трате — от бюджетных гестхаусов до роскошных островных курортов на любой вкус. В самом городе отели среднего класса, такие как Trat City Hotel, предлагают современный комфорт с бассейнами, фитнес-залами и удобным доступом к ресторанам и рынкам. Большинство путешественников используют Трат как транзитный пункт и останавливаются на одну ночь перед островным хоппингом, хотя 2–3 ночи позволят изучить подлинную культуру и рынки города. На ближайших островах разнообразное размещение: на Ко Чанг — от бэкпекерских хижин на Лонли Бич до люксовых пляжных курортов, Ко Куд — для ищущих тихое уединение, а Ко Мак предлагает простые, но уютные пляжные бунгало для бюджетных путешественников. Для полного знакомства с архипелагом забронируйте по две ночи на Ко Чанг и Ко Куд и три ночи между Ко Мак и Ко Вай.",
-      "gettingAround": "В городе Трат местный транспорт — это тук-туки и сонгтэо (общие красные автобусы), оба очень доступны: 20–40 THB за поездку по городу. Для островов — общие минивэны и скоростные катера регулярно отправляются из Трата на Ко Чанг (45 мин, 100–150 THB), Ко Куд (90 мин, 150–200 THB), Ко Мак (60 мин, 100–150 THB) и Ко Вай (время варьируется). В городе доступен Grab для удобных поездок, хотя сонгтэо остаются самым аутентичным и бюджетным вариантом. На самих островах аренда мотоцикла (150–300 THB/день) — предпочтительный способ самостоятельного исследования; на крупных островах вроде Ко Чанг доступны также тук-туки.",
-      "bestTimeToVisit": "Идеальное время для посещения Трата — с ноября по февраль, когда мягкие температуры (20–30°C) и минимальные осадки создают лучшие условия для пляжного отдыха и островных экскурсий. Пик сухого сезона — декабрь и январь — привлекает больше международных гостей и обеспечивает самое ясное небо для водных активностей и фотографии. С марта по май жарко и влажно (30–35°C), но меньше туристов означает более низкие цены и спокойные пляжи. Избегайте сентября–октября в разгар юго-западного муссона, когда бурное море может ограничить лодочное сообщение с островами, а сильные дожди мешают активному отдыху. Спокойные воды сухого сезона — также лучшее время для снорклинга, дайвинга и лодочных экскурсий к отдалённым островам.",
-      "safetyTips": "Провинция Трат в целом очень безопасна для туристов — низкий уровень преступности и гостеприимные местные жители. Стандартные меры предосторожности: не демонстрируйте дорогие украшения и электронику, следите за вещами на оживлённых рынках, пользуйтесь официальными такси или Grab вместо неофициальных машин. Лодочный транспорт на острова безопасен на современных катерах, но в сезон муссонов проверяйте оператора и погодные условия перед отправлением. Мелкие кражи возможны в туристических зонах и на ночных рынках — следите за сумками и карманами в людных местах. При аренде мотоцикла обязательно надевайте шлем (требование закона) и ведите осторожно на извилистых островных дорогах.",
-      "translated_at": "2026-03-11T00:00:00.000Z"
-    },
-    "ko": {
-      "enhanced_description": "뜨랏은 태국 동부 해안의 저평가된 보석으로, 태국에서 가장 아름다운 섬들로의 관문입니다. 방콕에서 동남쪽으로 약 315km 거리에 위치하며, 캄보디아 국경과도 가깝습니다.\n\n꼬창은 태국에서 두 번째로 큰 섬으로, 울창한 열대우림, 폭포, 그리고 다양한 해변이 있습니다. 화이트샌드 비치는 가장 활기찬 곳이고, 론리 비치와 방바오는 조용한 분위기를 원하는 여행자에게 적합합니다. 꼬꿋은 더 작고 한적한 섬으로, 맑은 물의 폭포와 조용한 해변이 매력적입니다.\n\n뜨랏 시내의 올드타운은 100년 이상 된 목조 상가가 늘어선 매력적인 역사 지구입니다. 보석 시장에서는 이 지역 특산인 루비와 사파이어 거래를 볼 수 있습니다. 맹그로브 숲 산책로에서의 에코투어와 꼬막 섬에서의 자전거 여행은 뜨랏만의 독특한 경험입니다.",
-      "hidden_gems": [
-        {
-          "name": "꼬막 섬",
-          "description": "자전거로 돌기 좋은 조용하고 한적한 섬입니다."
-        },
-        {
-          "name": "뜨랏 올드타운 목조 상가",
-          "description": "100년 이상 된 목조 건물이 늘어선 매력적인 역사 거리입니다."
-        },
-        {
-          "name": "반아오살랏 어촌 마을",
-          "description": "꼬꿋의 전통 수상 가옥 어촌 마을입니다."
-        },
-        {
-          "name": "뜨랏 맹그로브 숲 산책로",
-          "description": "해양 생태계를 관찰할 수 있는 에코투어 산책로입니다."
-        },
-        {
-          "name": "뜨랏 보석 시장",
-          "description": "루비와 사파이어 거래로 유명한 현지 시장입니다."
-        }
-      ],
-      "authentic_experiences": [],
-      "foodie_adventures": [],
-      "overview": "뜨랏은 태국 동부 해안의 저평가된 보석으로, 꼬창, 꼬꿋, 꼬막 등 아름다운 섬들의 관문입니다. 올드타운, 맹그로브 숲, 보석 시장도 주요 볼거리입니다.",
-      "thingsToDo": "뜨랏의 주요 명소는 멋진 섬 군도와 자연을 중심으로 합니다. 꼬창에서 해변과 폭포를 즐기고, 꼬꿋에서 스노클링을 하세요. 꼬막에서 자전거 여행을 즐기고, 뜨랏 올드타운에서 역사적 분위기를 느끼세요. 맹그로브 숲 산책로와 보석 시장도 추천합니다.",
-      "whereToStay": "뜨랏의 숙소는 예산 게스트하우스부터 섬의 럭셔리 리조트까지 다양합니다. 꼬창의 화이트샌드 비치가 가장 인기 있고, 꼬꿋과 꼬막은 조용한 숙박을 원하는 여행자에게 적합합니다.",
-      "gettingAround": "뜨랏 시내에서는 툭툭과 송태우가 주요 교통수단입니다. 꼬창까지는 페리로 이동하며, 섬 내에서는 오토바이 대여가 가장 편리합니다.",
-      "bestTimeToVisit": "뜨랏의 최적 방문 시기는 11월부터 2월까지로, 기온이 쾌적하고 비가 적어 섬 투어에 이상적입니다. 우기(5-10월)에는 일부 리조트가 문을 닫을 수 있습니다.",
-      "safetyTips": "뜨랏은 안전한 여행지입니다. 꼬창에서 오토바이 운전 시 산악 도로에 주의하고 헬멧을 착용하세요. 우기에는 해류가 강해질 수 있으니 수영 시 주의하세요. 캄보디아 국경 이동 시 여권을 소지하세요.",
-      "translated_at": "2026-03-14T00:00:00.000Z"
-    }
-  },
-  "extended_description": "## Overview\nTrat is Thailand's easternmost province — a languid coastal town and jumping-off point for some of the country's most beautiful islands. While most visitors speed through on their way to Koh Chang, those who linger in Trat town discover a gem-trading heritage, atmospheric wooden shophouses, a daily night market that rivals anything in Bangkok for flavor, and mangrove forests teeming with wildlife. The province shares a border with Cambodia at Hat Lek, making it a strategic crossroads for overland travelers. With Koh Chang, Koh Kood, Koh Mak, and Koh Wai within easy ferry reach, Trat is one of the Gulf of Thailand's most rewarding regions — offering island-hopping adventures without the overdevelopment that plagues southern Thai beach destinations.\n\n## Best Time to Visit\nNovember through April is the dry season with calm seas, making it ideal for island hopping, snorkeling, and diving. December to February is the sweet spot: temperatures hover around 25-31 degrees Celsius, rainfall is minimal, and visibility underwater is at its best. The shoulder months of November and March still offer good weather with thinner crowds. From May to October, the southwest monsoon brings heavy rain, rough seas, and strong currents — some resorts on the outer islands (particularly Koh Kood and Koh Mak) close entirely, and ferry services may be reduced or cancelled. Koh Chang stays open year-round but the western beaches get pounded by waves. If you must visit during the wet season, Trat town itself remains accessible and the mangrove forests are at their most lush.\n\n## How to Get There\nBangkok Airways operates 3-4 daily flights from Suvarnabhumi to Trat Airport (TDX), taking just 1 hour (1,500-4,000 THB). From the airport, minibuses connect directly to Koh Chang ferries (included in some airline packages). Buses from Bangkok's Eastern Bus Terminal (Ekkamai) or Mo Chit run frequently (5-6 hours, 250-350 THB). Private minivans are faster (4.5 hours, 300-400 THB). Once in Trat, ferries to Koh Chang depart hourly from Centerpoint Pier or Thamachat Pier at Laem Ngop (30-45 minutes, 80-120 THB one way). Koh Kood and Koh Mak are served by speedboats from Laem Sok Pier (1-2 hours, 400-600 THB). For Cambodia, minivans run from Trat to the Hat Lek border crossing (1.5 hours, 120 THB), connecting to Koh Kong and onward to Sihanoukville or Phnom Penh.\n\n## Where to Stay\nTrat town is best used as a transit stop — budget guesthouses along Thana Charoen Road and near the indoor market start at 200-400 THB per night, making it one of the cheapest beds in Thailand. Most travelers head straight to the islands. On Koh Chang, White Sand Beach is the most developed strip with resorts from 800-5,000 THB; Klong Prao Beach is quieter and family-friendly with mid-range options from 600-3,000 THB; Lonely Beach is the backpacker hub with bungalows from 300-800 THB and beach bars. Koh Kood is the upscale choice — eco-resorts and boutique properties from 1,500-8,000 THB on stunning white-sand beaches with crystal-clear water. Koh Mak is the middle ground: peaceful, car-free, with family-run resorts from 600-3,000 THB. Koh Wai is ultra-basic with a handful of bamboo bungalows from 500-1,000 THB and no ATMs or 7-Elevens — pure island simplicity.\n\n## What to Do\nThe Mu Ko Chang National Marine Park encompasses over 50 islands and is the province's star attraction. On Koh Chang, hike to Khlong Phlu Waterfall through dense jungle, snorkel the coral reefs off Koh Rang, take a cooking class in Klong Prao, or kayak through the mangroves at Salak Phet Bay. Diving is excellent around Koh Rang and the HTMS Chang wreck (a decommissioned naval vessel sunk as an artificial reef). In Trat town, visit Wat Buppharam, a beautifully maintained temple complex dating back over 400 years to the reign of King Prasat Thong. The Trat City Museum, housed in a colonial-era teak building, traces local history from prehistoric times through the 1941 Battle of Koh Chang between French and Thai navies. The gem market near the old indoor market still trades rubies and sapphires mined from the Chanthaburi-Trat gem belt. For nature lovers, the Trat mangrove boardwalk near Ban Tha Ranae offers guided kayak tours through pristine mangrove channels.\n\n## Food & Dining\nTrat's food scene is defined by ultra-fresh seafood and a bustling night market. The Trat Night Market (daily 5-9pm on the side street off Sukhumvit Road next to Trad Hotel) is an absolute highlight — stalls overflow with grilled squid, som tam, pad Thai, fried whole snapper, and Trat's legendary crab fried rice loaded with crab meat, mantis shrimp, and whole prawns. Granny Saeng's grilled cuttlefish dipped in thick red gravy is a local icon, using only cuttlefish caught that morning from the fishing boats. The indoor day market is a sensory overload of horseshoe crabs, piles of fresh fish, tropical fruit, and steaming bowls of noodle soup (20-40 THB). On Koh Chang, seafood restaurants line the beaches — expect to pay 150-400 THB for dishes like steamed crab, garlic prawns, and spicy fish soup. The fishing village of Bang Bao on Koh Chang's southern tip has a stilted pier lined with seafood restaurants and is one of the most photogenic lunch spots in the province.\n\n## Budget Guide\nTrat is excellent value. In town, backpackers can get by on 500-900 THB per day (guesthouse 200-400, meals 100-200, transport 50-100). On Koh Chang, expect 800-2,000 THB per day for budget travelers (bungalow at Lonely Beach 300-800, meals 200-400, activities 200-500). Koh Kood and the outer islands are pricier: 1,500-4,000 THB per day mid-range. Ferry prices are fixed and reasonable (80-120 THB to Koh Chang, 400-600 THB to Koh Kood). Renting a scooter on any island costs 200-300 THB per day and is the best way to explore. The Bangkok Airways flight is the biggest expense — book 2-3 weeks ahead for the best fares, or take the bus to save significantly. A week covering Trat town, Koh Chang, and one outer island runs roughly 12,000-25,000 THB (340-700 USD) depending on comfort level.\n\n## Safety & Tips\nTrat and its islands are very safe. On Koh Chang, the steep mountain roads have claimed many scooter riders — wear a helmet, drive slowly on hills, and avoid riding at night on unlit roads. During monsoon season (May-October), strong currents and riptides occur on western beaches — always check conditions before swimming. On the outer islands, medical facilities are limited (Koh Kood has only a basic health station) — bring personal medication and consider travel insurance that covers medical evacuation. The Hat Lek border crossing to Cambodia is straightforward, but beware of scam artists trying to charge inflated 'processing fees' — the official visa on arrival for Cambodia is $30 USD. Trat's gem market can be fascinating to browse, but only buy from established dealers if you are serious about purchasing — counterfeits exist. Mosquitoes are thick in the mangrove areas — bring repellent.",
-  "getting_there": {
-    "from_bangkok": {
-      "flight": "1h to Trat Airport (TDX), 1,500-4,000 THB (Bangkok Airways from Suvarnabhumi, 3-4 daily)",
-      "bus": "5-6 hours, 250-350 THB from Eastern Bus Terminal (Ekkamai) or Mo Chit",
-      "minivan": "4.5 hours, 300-400 THB"
-    },
-    "to_islands": {
-      "koh_chang": "Ferry from Centerpoint/Thamachat Pier, 30-45 min, 80-120 THB (hourly)",
-      "koh_kood": "Speedboat from Laem Sok Pier, 1-2 hours, 400-600 THB",
-      "koh_mak": "Speedboat from Laem Sok Pier, 1-1.5 hours, 400-500 THB"
-    },
-    "to_cambodia": "Minivan to Hat Lek border crossing 1.5 hours, 120 THB",
-    "airport": "Trat Airport (TDX), 20 km from town"
-  },
-  "best_time": {
-    "peak": "Dec-Feb",
-    "shoulder": "Nov, Mar-Apr",
-    "low": "May-Oct (monsoon, outer island resorts close)",
-    "avoid": "June-September for outer islands (ferries cancelled, rough seas)",
-    "best_months": "Dec-Feb",
-    "why": "Calm seas, best diving visibility, all islands accessible, pleasant 25-31C temperatures."
-  },
-  "budget": {
-    "backpacker": "$14-25/day (town), $23-57/day (islands)",
-    "mid_range": "$43-115/day",
-    "luxury": "$140+/day (Koh Kood resorts)",
-    "typical_meal": "20-40 THB noodle soup in town, 150-400 THB seafood on islands"
-  },
-  "neighborhoods": [
-    {
-      "name": "Trat Town Center",
-      "vibe": "Wooden shophouses, gem traders, night market, transit hub for all islands",
-      "best_for": "Budget travelers, foodies, overnight transit",
-      "price_range": "200-800 THB/night"
+      "type": "island",
+      "title": "Cruise in Style on Koh Chang's Gondola",
+      "creator": "Tourism Authority of Thailand",
+      "url": "https://www.tourismthailand.org/Articles/cruise-in-style-on-koh-chang-s-gondola",
+      "description": "Used for the Salak Khok community-gondola extension on Koh Chang."
     },
     {
-      "name": "White Sand Beach (Koh Chang)",
-      "vibe": "Most developed beach, resorts, restaurants, nightlife strip",
-      "best_for": "First-timers, convenience seekers, couples",
-      "price_range": "800-5,000 THB/night"
+      "type": "island",
+      "title": "The Gulf of Thailand. Koh Mak, Trat",
+      "creator": "Tourism Authority of Thailand",
+      "url": "https://www.tourismthailand.org/Articles/the-gulf-of-thailand-koh-mak-trat",
+      "description": "Used for Koh Mak's slower island positioning inside the Trat cluster."
     },
     {
-      "name": "Lonely Beach (Koh Chang)",
-      "vibe": "Backpacker enclave, beach bars, cheap bungalows, social scene",
-      "best_for": "Budget travelers, solo backpackers, party seekers",
-      "price_range": "300-800 THB/night"
+      "type": "airport",
+      "title": "Trat Airport",
+      "creator": "Bangkok Airways",
+      "url": "https://www.bangkokair.com/boutique-airports/trat-airport",
+      "description": "Used for current official airport ownership and location context."
     },
     {
-      "name": "Koh Kood",
-      "vibe": "Upscale eco-resorts, crystal-clear water, pristine and quiet",
-      "best_for": "Honeymooners, luxury seekers, nature lovers",
-      "price_range": "1,500-8,000 THB/night"
+      "type": "hotel",
+      "title": "Trat City Hotel",
+      "creator": "Trat City Hotel",
+      "url": "https://www.tratcityhotel.com/contact_us",
+      "description": "Used for direct property contact details and city location."
     },
     {
-      "name": "Koh Mak",
-      "vibe": "Car-free, family-run resorts, peaceful, excellent snorkeling",
-      "best_for": "Families, couples, digital nomads seeking quiet",
-      "price_range": "600-3,000 THB/night"
+      "type": "hotel",
+      "title": "Chivapuri Residence Trat",
+      "creator": "Chivapuri Residence Trat",
+      "url": "https://www.chivapuriresidence.com/",
+      "description": "Used for official location, bus-station proximity, and parking/Wi-Fi details."
+    },
+    {
+      "type": "hotel",
+      "title": "Avada Hotel Trat",
+      "creator": "Avada Hotel Trat",
+      "url": "https://www.avadahotel.com/book-a-room",
+      "description": "Used for the official city-hotel option and direct property contact details."
+    },
+    {
+      "type": "hotel",
+      "title": "Koh Chang Paradise Resort & Spa",
+      "creator": "Koh Chang Paradise Resort & Spa",
+      "url": "https://kohchangparadise.com/contact-us/",
+      "description": "Used for the official Koh Chang resort option and island-access framing."
+    },
+    {
+      "type": "hotel",
+      "title": "AWA Koh Chang",
+      "creator": "AWA Koh Chang",
+      "url": "https://www.awakohchang.com/",
+      "description": "Used for the official Kai Bae resort option."
     }
   ],
-  "must_try_food": [
-    "Crab fried rice at the Trat Night Market — loaded with fresh crab meat, mantis shrimp, and whole prawns (60-100 THB)",
-    "Granny Saeng's grilled cuttlefish dipped in red gravy — morning-caught cuttlefish, a Trat legend (30-50 THB)",
-    "Seafood at Bang Bao fishing pier (Koh Chang) — steamed whole crab, garlic prawns, spicy fish soup over the water (150-400 THB per dish)"
-  ],
-  "local_tips": [
-    "Book Bangkok Airways flights 2-3 weeks ahead for best fares — or take the bus from Ekkamai to save 80% on transport",
-    "On Koh Chang, drive scooters carefully on steep hills — the roads between beaches are winding and poorly lit at night",
-    "Visit Koh Kood or Koh Mak for the Koh Chang experience without the crowds — fewer tourists, whiter sand, clearer water",
-    "The Trat Night Market runs daily but the weekend crowds are biggest — arrive by 5:30pm for the freshest seafood stalls",
-    "At Hat Lek border crossing to Cambodia, only pay the official $30 visa fee — refuse any 'special processing' charges from touts"
-  ],
-  "day_trips": [
-    "Koh Rang snorkeling trip from Koh Chang — pristine coral reefs in the marine park, some of the best snorkeling in eastern Thailand (800-1,500 THB)",
-    "HTMS Chang wreck dive — explore a decommissioned Thai Navy vessel sunk as an artificial reef (2,500-3,500 THB for 2-dive trip)",
-    "Ban Tha Ranae mangrove kayaking — paddle through tunnels of mangrove channels, spot monkeys and kingfishers (300-600 THB)",
-    "Koh Mak day trip from Koh Chang — speedboat, cycling the flat island roads, snorkeling, seafood lunch (1,200-1,800 THB)"
-  ],
-  "enriched_at": "2026-03-22"
+  "reviewed_by": "Go2Thailand Editorial Team",
+  "enhanced_at": "2026-03-27T13:10:00.000Z",
+  "factchecked_at": "2026-03-27T13:10:00.000Z",
+  "enrichedAt": "2026-03-27T13:10:00.000Z"
 }

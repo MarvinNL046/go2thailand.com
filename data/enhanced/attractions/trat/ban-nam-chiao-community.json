@@ -1,0 +1,81 @@
+{
+  "id": 3,
+  "slug": "ban-nam-chiao-community",
+  "name": {
+    "en": "Ban Nam Chiao community",
+    "nl": "Ban Nam Chiao-community"
+  },
+  "type": "community",
+  "city_slug": "trat",
+  "address": "Ban Nam Chiao, Laem Ngop District, Trat Province",
+  "location": null,
+  "opening_hours": "Community activity timing can vary by operator and season, so the current local setup should be rechecked on arrival.",
+  "entrance_fee": {
+    "thb": null,
+    "usd": null
+  },
+  "description": {
+    "en": "The strongest mainland community extension from Trat town, shaped by mixed cultural heritage, food, bridges, and mangrove-side village life.",
+    "nl": "De sterkste mainland-community-uitstap vanuit Trat, gevormd door gemengd cultureel erfgoed, eten, bruggen en mangrove-dorpsleven."
+  },
+  "highlights": [
+    "Mixed Buddhist-Muslim-Chinese heritage",
+    "Saphan Wat Chai",
+    "Food and community tourism"
+  ],
+  "image": "/images/cities/generated/trat.webp",
+  "seo": {
+    "metaTitle": {
+      "en": "Ban Nam Chiao Community | Trat | Go2Thailand",
+      "nl": "Ban Nam Chiao-community | Trat | Go2Thailand"
+    },
+    "metaDescription": {
+      "en": "Why Ban Nam Chiao is Trat's strongest mainland community extension.",
+      "nl": "Waarom Ban Nam Chiao Trat's sterkste mainland-community-uitstap is."
+    }
+  },
+  "tags": [
+    "trat",
+    "ban-nam-chiao",
+    "community",
+    "laem-ngop"
+  ],
+  "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=Ban+Nam+Chiao+Trat",
+  "best_time": "morning to afternoon",
+  "duration_hours": 3,
+  "enhanced_description": "Ban Nam Chiao holds together because it still functions as a real mixed-heritage coastal community instead of a decorative ecotourism stop. Official Trat coverage and MICHELIN's feature both point to the same strengths here: village food, Saphan Wat Chai, mangrove-related activities, and the coexistence of Buddhist, Muslim, and Chinese influences.\n\nThat makes it the cleanest mainland extension from Trat town. It adds real community depth to the cluster without forcing the whole trip offshore.",
+  "detailed_history": "Ban Nam Chiao reflects a layered local history in which Thai-Chinese settlers and later Muslim communities helped shape the village's present identity.",
+  "visitor_experience": "Expect a village route rather than one singular landmark. The value is in the combination of viewpoints, food, craft, community interaction, and a slower coastal pace.",
+  "best_time_to_visit": {
+    "time_of_day": "Morning to afternoon",
+    "duration": "Half-day",
+    "crowd_level": "Usually light to moderate"
+  },
+  "practical_info": {
+    "how_to_get_there": "Best reached by road transfer from Trat town.",
+    "nearby_attractions": "Laem Ngop and the wider mainland sea-edge if you want to keep the day on the coast.",
+    "food_options": "Community food and sweets are part of the draw here, especially village snacks and Tang Mae Krob.",
+    "shopping": "Local craft and food products can matter more here than general shopping."
+  },
+  "insider_tips": [
+    "Give Ban Nam Chiao its own proper block of time.",
+    "The village is stronger for mixed heritage and food than for a single-viewpoint visit.",
+    "This should lead the mainland extension layer before generic island copy takes over."
+  ],
+  "verified_note": "Source-backed summary based on official Tourism Authority of Thailand material and MICHELIN's current Trat feature.",
+  "cultural_significance": "Ban Nam Chiao gives Trat a real living-community layer that balances the town center and the province's sea-facing side.",
+  "contentSources": [
+    {
+      "name": "Ban Nam Chiao Tourism Community Venture",
+      "url": "https://www.tourismthailand.org/Attraction/ban-nam-chiao-tourism-community-venture"
+    },
+    {
+      "name": "Cultural Feast And Treats At Trat",
+      "url": "https://guide.michelin.com/th/en/article/features/gastronomy-journey-the-series-of-thailand-ep-7-cultural-feast-and-treats-at-trat"
+    },
+    {
+      "name": "10 Things to Do in Trat",
+      "url": "https://www.tourismthailand.org/Articles/10-things-to-do-in-trat"
+    }
+  ]
+}

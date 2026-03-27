@@ -166,8 +166,8 @@
     },
     {
       "slug": "trat",
-      "status": "pending",
-      "notes": ""
+      "status": "done",
+      "notes": "English city cluster rebuilt around the old quarter, Rak Khlong Bang Phra, Ban Nam Chiao, Laem Ngop, and one selective island extension; scrape content removed and validated with jq, tsc, and localhost render checks."
     },
     {
       "slug": "ubon-ratchathani",

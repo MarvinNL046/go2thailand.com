@@ -1,0 +1,73 @@
+{
+  "id": 6,
+  "slug": "koh-mak-island-day",
+  "name": {
+    "en": "Koh Mak island day",
+    "nl": "Koh Mak-eilanddag"
+  },
+  "type": "island",
+  "city_slug": "trat",
+  "address": "Koh Mak, Trat Province",
+  "location": null,
+  "opening_hours": "Boat timing and island access are weather-sensitive and should be rechecked directly before travel.",
+  "entrance_fee": {
+    "thb": null,
+    "usd": null
+  },
+  "description": {
+    "en": "A lower-density island extension for Trat, better when the priority is cycling, calm beaches, and a slower Gulf-island rhythm.",
+    "nl": "Een eilandextensie met lagere dichtheid voor Trat, beter wanneer fietsen, rustige stranden en een langzamer Golf-eilandsritme de prioriteit zijn."
+  },
+  "highlights": [
+    "Low-density island feel",
+    "Cycling and calm beaches",
+    "Selective sea-day option"
+  ],
+  "image": "/images/cities/generated/trat.webp",
+  "seo": {
+    "metaTitle": {
+      "en": "Koh Mak Island Day | Trat | Go2Thailand",
+      "nl": "Koh Mak-eilanddag | Trat | Go2Thailand"
+    },
+    "metaDescription": {
+      "en": "Why Koh Mak is the calmer island extension inside a Trat mainland-first itinerary.",
+      "nl": "Waarom Koh Mak de rustigere eilandextensie is binnen een Trat-mainland-first itinerary."
+    }
+  },
+  "tags": [
+    "trat",
+    "koh-mak",
+    "island",
+    "cycling"
+  ],
+  "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=Koh+Mak+Trat",
+  "best_time": "full-day outing",
+  "duration_hours": 6,
+  "enhanced_description": "Koh Mak is useful because it gives the Trat cluster a quieter island option than the default Koh Chang storyline. TAT still treats Koh Mak as one of the lower-density islands in the Trat sea group, and that makes it the better sea extension when calm beaches and cycling matter more than resort scale.\n\nIt should still stay selective. Koh Mak works best as one edited island day or overnight inside a wider Trat trip that remains mainland-first.",
+  "detailed_history": "Koh Mak has long been positioned as one of Trat's calmer islands, with a smaller-scale tourism pattern than the larger Koh Chang side of the province.",
+  "visitor_experience": "Expect a slower island day centered on beaches, movement, and a calmer pace rather than on nightlife or heavy resort infrastructure.",
+  "best_time_to_visit": {
+    "time_of_day": "Full-day route",
+    "duration": "Half-day to full day depending on transfers",
+    "crowd_level": "Usually lower-key than Koh Chang"
+  },
+  "practical_info": {
+    "how_to_get_there": "Plan the sea transfer separately from the town itinerary and recheck operator timing before departure.",
+    "nearby_attractions": "This is best as its own island block rather than combined with too many other same-day sea moves.",
+    "food_options": "Keep the priority on the island rhythm itself rather than trying to force a full restaurant crawl into the day.",
+    "shopping": "Not a meaningful shopping stop."
+  },
+  "insider_tips": [
+    "Use Koh Mak when you want a calmer island day than Koh Chang.",
+    "Do not try to make both Koh Chang and Koh Mak fit into a short Trat stay.",
+    "The city and mainland communities should still do most of the explanatory work."
+  ],
+  "verified_note": "Source-backed summary based on current Tourism Authority of Thailand coverage of Koh Mak.",
+  "cultural_significance": "Koh Mak gives the Trat cluster a second island option that stays selective and does not overwhelm the mainland story.",
+  "contentSources": [
+    {
+      "name": "The Gulf of Thailand. Koh Mak, Trat",
+      "url": "https://www.tourismthailand.org/Articles/the-gulf-of-thailand-koh-mak-trat"
+    }
+  ]
+}

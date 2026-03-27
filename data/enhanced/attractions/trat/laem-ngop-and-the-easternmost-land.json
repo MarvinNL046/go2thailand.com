@@ -1,0 +1,77 @@
+{
+  "id": 4,
+  "slug": "laem-ngop-and-the-easternmost-land",
+  "name": {
+    "en": "Laem Ngop and the easternmost land",
+    "nl": "Laem Ngop en het meest oostelijke landpunt"
+  },
+  "type": "coast",
+  "city_slug": "trat",
+  "address": "Laem Ngop, Trat Province",
+  "location": null,
+  "opening_hours": "The viewpoint and coastal area are generally public, but timing is best handled with daylight or late afternoon.",
+  "entrance_fee": {
+    "thb": null,
+    "usd": null
+  },
+  "description": {
+    "en": "The cleanest mainland sea-edge stop in the Trat cluster, built around the easternmost-land landmark and the wider Laem Ngop coastal context.",
+    "nl": "De schoonste mainland-zeerand in de Trat-cluster, rond het landmark van het meest oostelijke landpunt en de bredere kustcontext van Laem Ngop."
+  },
+  "highlights": [
+    "Easternmost-land viewpoint",
+    "Lighthouse landmark",
+    "Mainland sea-edge route"
+  ],
+  "image": "/images/cities/generated/trat.webp",
+  "seo": {
+    "metaTitle": {
+      "en": "Laem Ngop and the Easternmost Land | Trat | Go2Thailand",
+      "nl": "Laem Ngop en het meest oostelijke landpunt | Trat | Go2Thailand"
+    },
+    "metaDescription": {
+      "en": "Why Laem Ngop is Trat's strongest mainland sea-edge stop before the island routes begin.",
+      "nl": "Waarom Laem Ngop Trat's sterkste mainland-zeerand is voordat de eilandroutes beginnen."
+    }
+  },
+  "tags": [
+    "trat",
+    "laem-ngop",
+    "easternmost-land",
+    "coast"
+  ],
+  "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=Laem+Ngop+Trat",
+  "best_time": "late afternoon",
+  "duration_hours": 2,
+  "enhanced_description": "Laem Ngop matters because it keeps Trat connected to the sea without reducing the whole mainland to a ferry corridor. Official Trat coverage still uses the easternmost-land landmark as one of the province's visual anchors, and that helps the cluster explain where the town actually opens toward the island group.\n\nThis is best treated as a mainland coast block. Pair it with a seafood meal or another coastal stop so it becomes part of the story rather than a quick roadside photo.",
+  "detailed_history": "Laem Ngop has long functioned as a coastal threshold for Trat's eastern-Gulf identity, linking the mainland town to the island routes beyond it.",
+  "visitor_experience": "Expect an open coastal landmark rather than a large formal attraction. The value is in the viewpoint, sea-edge context, and how the mainland starts to shift toward island geography.",
+  "best_time_to_visit": {
+    "time_of_day": "Late afternoon into sunset",
+    "duration": "Around 60 to 120 minutes",
+    "crowd_level": "Light to moderate"
+  },
+  "practical_info": {
+    "how_to_get_there": "Best reached by road transfer from Trat town.",
+    "nearby_attractions": "Rimtalay Seafood and Ban Nam Chiao if you want to keep the day on the mainland coast.",
+    "food_options": "Laem Ngop works best when paired with a seafood stop rather than as a standalone landmark.",
+    "shopping": "Not a meaningful shopping stop."
+  },
+  "insider_tips": [
+    "Use this to give the mainland side a real sea-edge moment before or after community stops.",
+    "The stop is stronger in good light than in rushed transfer mode.",
+    "Do not let the island route erase the mainland coast from the plan."
+  ],
+  "verified_note": "Source-backed summary based on current Tourism Authority of Thailand Trat coverage.",
+  "cultural_significance": "Laem Ngop gives the Trat cluster a visible mainland conclusion before the island belt takes over the geography.",
+  "contentSources": [
+    {
+      "name": "10 Things to Do in Trat",
+      "url": "https://www.tourismthailand.org/Articles/10-things-to-do-in-trat"
+    },
+    {
+      "name": "Trat Province Page",
+      "url": "https://www.tourismthailand.org/Destinations/Provinces/Trat/466"
+    }
+  ]
+}

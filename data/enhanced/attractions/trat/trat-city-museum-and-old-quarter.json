@@ -1,0 +1,77 @@
+{
+  "id": 1,
+  "slug": "trat-city-museum-and-old-quarter",
+  "name": {
+    "en": "Trat City Museum and the old quarter",
+    "nl": "Trat City Museum en de oude stad"
+  },
+  "type": "heritage",
+  "city_slug": "trat",
+  "address": "Trat town center",
+  "location": null,
+  "opening_hours": "Museum hours should be rechecked locally on arrival. The surrounding old quarter is a public urban area best walked in daylight or late afternoon.",
+  "entrance_fee": {
+    "thb": null,
+    "usd": null
+  },
+  "description": {
+    "en": "The strongest first-stop mainland layer in Trat, built around the city museum, old wooden streets, and the town's longer trade history.",
+    "nl": "De sterkste eerste mainland-laag in Trat, rond het stadsmuseum, oude houten straten en de langere handelshistorie van de stad."
+  },
+  "highlights": [
+    "City museum",
+    "Old wooden streets",
+    "Best first read of Trat"
+  ],
+  "image": "/images/cities/generated/trat.webp",
+  "seo": {
+    "metaTitle": {
+      "en": "Trat City Museum and Old Quarter | Go2Thailand",
+      "nl": "Trat City Museum en oude stad | Go2Thailand"
+    },
+    "metaDescription": {
+      "en": "Why Trat City Museum and the old quarter should anchor a mainland-first Trat trip.",
+      "nl": "Waarom Trat City Museum en de oude stad de basis moeten vormen van een mainland-first Trat-trip."
+    }
+  },
+  "tags": [
+    "trat",
+    "old-quarter",
+    "museum",
+    "heritage"
+  ],
+  "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=Trat+City+Museum",
+  "best_time": "late morning or late afternoon",
+  "duration_hours": 2,
+  "enhanced_description": "This is the part of Trat that stops the city from collapsing into ferry transfer copy. MICHELIN still uses Trat Museum as a central cultural stop, and the old quarter around it gives the town an urban texture that generic island-gateway pages consistently miss.\n\nThat matters because once the museum and streets make sense, the rest of the city falls into place. Food stops, canal communities, and even the Laem Ngop coastal edge feel like extensions of a real town rather than like unrelated pins on a map.",
+  "detailed_history": "Trat Museum explains the province's natural and cultural heritage inside a former government-era building. The surrounding old-town streets still preserve the small-scale commercial fabric that once connected Trat's inland and coastal trade.",
+  "visitor_experience": "Expect a compact heritage block rather than a monumental museum district. The value lies in combining the museum with a walk through the older streets and then letting food stops or canal-side communities follow naturally.",
+  "best_time_to_visit": {
+    "time_of_day": "Late morning or late afternoon",
+    "duration": "Roughly 90 to 120 minutes",
+    "crowd_level": "Usually light"
+  },
+  "practical_info": {
+    "how_to_get_there": "Easy by short local ride into the town center, then best handled on foot.",
+    "nearby_attractions": "Rak Khlong Bang Phra, Ba Na's grilled banana stall, and the wider old-center food loop.",
+    "food_options": "Best paired with old-town snacks or a noodle stop rather than with a rushed ferry transfer.",
+    "shopping": "The district is stronger for walking and browsing than for destination shopping."
+  },
+  "insider_tips": [
+    "Do this first if you want Trat to read as a real town rather than as a pier.",
+    "Keep the museum attached to the old streets, not isolated from them.",
+    "The food route gets stronger once this heritage layer is done first."
+  ],
+  "verified_note": "Source-backed summary based on the official Tourism Authority of Thailand museum reference and MICHELIN's current Trat feature.",
+  "cultural_significance": "Trat City Museum and the old quarter preserve the mainland identity that gives the province substance beyond the islands.",
+  "contentSources": [
+    {
+      "name": "Trat City Museum",
+      "url": "https://www.tourismthailand.org/Attraction/trat-city-museum"
+    },
+    {
+      "name": "Cultural Feast And Treats At Trat",
+      "url": "https://guide.michelin.com/th/en/article/features/gastronomy-journey-the-series-of-thailand-ep-7-cultural-feast-and-treats-at-trat"
+    }
+  ]
+}

@@ -1,0 +1,73 @@
+{
+  "id": 2,
+  "slug": "rak-khlong-bang-phra-community",
+  "name": {
+    "en": "Rak Khlong Bang Phra",
+    "nl": "Rak Khlong Bang Phra"
+  },
+  "type": "community",
+  "city_slug": "trat",
+  "address": "Khlong Bang Phra side, Trat town",
+  "location": null,
+  "opening_hours": "This is a public community area rather than a ticketed site. Daylight and late-afternoon visits are easiest.",
+  "entrance_fee": {
+    "thb": null,
+    "usd": null
+  },
+  "description": {
+    "en": "Trat's strongest canal-side creative district, where wooden houses, street art, and local snacks still form a coherent community layer.",
+    "nl": "Trat's sterkste creatieve wijk aan het kanaal, waar houten huizen, street art en lokale snacks nog steeds een coherente community-laag vormen."
+  },
+  "highlights": [
+    "Century-old wooden houses",
+    "Canal-side street art",
+    "Specific local snacks"
+  ],
+  "image": "/images/cities/generated/trat.webp",
+  "seo": {
+    "metaTitle": {
+      "en": "Rak Khlong Bang Phra | Trat | Go2Thailand",
+      "nl": "Rak Khlong Bang Phra | Trat | Go2Thailand"
+    },
+    "metaDescription": {
+      "en": "Why Rak Khlong Bang Phra is one of the most useful mainland community layers in Trat.",
+      "nl": "Waarom Rak Khlong Bang Phra een van de nuttigste mainland-communitylagen in Trat is."
+    }
+  },
+  "tags": [
+    "trat",
+    "rak-khlong-bang-phra",
+    "canal",
+    "community"
+  ],
+  "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=Rak+Khlong+Bang+Phra+Trat",
+  "best_time": "late morning or late afternoon",
+  "duration_hours": 2,
+  "enhanced_description": "Rak Khlong Bang Phra works because it gives Trat a visible local texture that is neither museum-only nor market-only. MICHELIN still highlights it for century-old wooden houses, street art, and signature snacks, which makes it one of the strongest places to understand the city beyond ferry logistics.\n\nIt is best used slowly. The district rewards a walk, a small snack, and a little unstructured time much more than a rushed checklist stop.",
+  "detailed_history": "The community grew along Khlong Bang Phra and still preserves an older built environment that reflects Trat's waterfront and trade-linked urban life.",
+  "visitor_experience": "Expect a walkable community zone with more texture than scale. The value is in the houses, murals, snack stops, and canal-side atmosphere rather than in one single headline monument.",
+  "best_time_to_visit": {
+    "time_of_day": "Late morning or late afternoon",
+    "duration": "About 60 to 120 minutes",
+    "crowd_level": "Usually light"
+  },
+  "practical_info": {
+    "how_to_get_there": "Easy from central Trat by short ride or a longer walk from the museum side.",
+    "nearby_attractions": "Trat City Museum, Ba Na's grilled banana stall, and the old-center food loop.",
+    "food_options": "Best paired with snacks such as khao kriap or nearby old-town sweets.",
+    "shopping": "Small local browsing only; keep the focus on the community itself."
+  },
+  "insider_tips": [
+    "Treat this as a slow walk with snacks, not as a photo-only stop.",
+    "It reads best after the museum and before the late-day market layer.",
+    "Do not bury it under generic island filler."
+  ],
+  "verified_note": "Source-backed summary based on MICHELIN's current Trat feature.",
+  "cultural_significance": "Rak Khlong Bang Phra keeps Trat's smaller-scale canal and wooden-house heritage visible in a way the older city pages did not.",
+  "contentSources": [
+    {
+      "name": "Cultural Feast And Treats At Trat",
+      "url": "https://guide.michelin.com/th/en/article/features/gastronomy-journey-the-series-of-thailand-ep-7-cultural-feast-and-treats-at-trat"
+    }
+  ]
+}
