@@ -1,5 +1,5 @@
 {
-  "id": 8,
+  "id": 1,
   "slug": "ubon-ratchathani-national-museum",
   "name": {
     "en": "Ubon Ratchathani National Museum",
@@ -7,41 +7,70 @@
   },
   "type": "museum",
   "city_slug": "ubon-ratchathani",
-  "address": "Ubon Ratchathani, Thailand",
+  "address": "Khuen Thani Road, Ubon Ratchathani",
   "location": null,
-  "opening_hours": null,
+  "opening_hours": "Opening arrangements should be rechecked directly with the museum before relying on exact same-day timing.",
   "entrance_fee": {
-    "thb": 100,
-    "usd": 3
+    "thb": null,
+    "usd": null
   },
   "description": {
-    "en": "Museum in a former palace building with Isaan cultural artifacts, candle festival history, and local art",
-    "nl": "Museum in een voormalig paleisgebouw met Isaan culturele artefacten, kaarsenfestival geschiedenis en lokale kunst"
+    "en": "The strongest first-stop city layer because it gives Ubon historical context before temples, food, and the eastern Mekong route take over.",
+    "nl": "De sterkste eerste stadslaag omdat het Ubon historische context geeft voordat tempels, food en de oostelijke Mekong-route het overnemen."
   },
   "highlights": [
-    "Former palace building",
-    "Candle Festival exhibits",
-    "Isaan cultural artifacts"
+    "Official Fine Arts museum",
+    "Best first read of the city",
+    "Useful with the old-center walk"
   ],
-  "image": "/images/cities/bangkok/downtown-bangkok.webp",
-  "official_website": null,
+  "image": "/images/cities/generated/ubon-ratchathani.webp",
   "seo": {
     "metaTitle": {
-      "en": "Ubon Ratchathani National Museum - Top Attraction in Ubon Ratchathani | Go2Thailand",
-      "nl": "Ubon Ratchathani Nationaal Museum - Top Attractie in Ubon Ratchathani | Go2Thailand"
+      "en": "Ubon Ratchathani National Museum | Go2Thailand",
+      "nl": "Ubon Ratchathani Nationaal Museum | Go2Thailand"
     },
     "metaDescription": {
-      "en": "Discover Ubon Ratchathani National Museum in Ubon Ratchathani. Museum in a former palace building with Isaan cultural artifacts, candle festival history, and local art",
-      "nl": "Ontdek Ubon Ratchathani Nationaal Museum in Ubon Ratchathani. Museum in een voormalig paleisgebouw met Isaan culturele artefacten, kaarsenfestival geschiedenis en lokale kunst"
+      "en": "Why Ubon Ratchathani National Museum is the right first-stop layer for understanding the city.",
+      "nl": "Waarom Ubon Ratchathani National Museum de juiste eerste stop is om de stad te begrijpen."
     }
   },
   "tags": [
-    "museum",
     "ubon-ratchathani",
-    "thailand",
-    "attraction",
-    "travel",
-    "tourism"
+    "museum",
+    "isaan"
   ],
-  "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=Ubon%20Ratchathani%20National%20Museum%20Ubon%20Ratchathani%20Thailand"
+  "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=Ubon%20Ratchathani%20National%20Museum",
+  "best_time": "morning or late afternoon",
+  "duration_hours": 1.5,
+  "enhanced_description": "Ubon Ratchathani National Museum is the place that stops the city from turning into a loose mix of temples, food, and eastern-district nature claims. Once the museum comes first, the rest of the cluster makes more sense: the old-center temple sequence feels grounded, the candle tradition has historical context, and the Khong Chiam side becomes an extension rather than the whole story.",
+  "detailed_history": "The Fine Arts Department still maintains the museum as Ubon's official national museum, which matters because it gives the city a formal historical anchor rather than leaving its identity to festival copy or generic province lists.",
+  "visitor_experience": "Expect a focused heritage stop rather than a large all-day museum complex. It is most useful as the beginning of the city route, especially when paired with nearby old-center walking and one strong temple stop afterward.",
+  "best_time_to_visit": {
+    "time_of_day": "Morning or late afternoon",
+    "duration": "About 60 to 90 minutes",
+    "crowd_level": "Usually light"
+  },
+  "practical_info": {
+    "how_to_get_there": "Easy to reach from central Ubon by short ride or as part of an old-center city loop.",
+    "nearby_attractions": "Wat Thung Si Mueang, Thung Si Mueang, and the city-center food layer.",
+    "food_options": "Plan a noodle or dumpling stop in town before or after the museum.",
+    "shopping": "Keep expectations centered on heritage, not retail."
+  },
+  "insider_tips": [
+    "Do this first if you want the city to feel coherent quickly.",
+    "Use it with the nearby old-center temple layer instead of as a disconnected museum errand.",
+    "Recheck current hours directly because museum operations can shift."
+  ],
+  "verified_note": "Source-backed summary based on the current Fine Arts Department museum site and official Ubon destination framing.",
+  "cultural_significance": "The museum matters because it frames Ubon as a major Isaan city with its own historical and cultural depth instead of only as a launch point for Pha Taem and the Candle Festival.",
+  "contentSources": [
+    {
+      "name": "Ubon Ratchathani National Museum",
+      "url": "https://finearts.go.th/ubonmuseum"
+    },
+    {
+      "name": "The official website of Tourism Authority of Thailand",
+      "url": "https://www.tourismthailand.org/Destinations/Provinces/ubon-ratchathani/587"
+    }
+  ]
 }

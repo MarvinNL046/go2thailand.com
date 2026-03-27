@@ -1,361 +1,163 @@
 {
   "city_slug": "ubon-ratchathani",
   "city_name": "Ubon Ratchathani",
-  "total_attractions": 14,
+  "total_attractions": 6,
   "attractions": [
     {
       "id": 1,
-      "slug": "pha-taem-national-park",
-      "name": {
-        "en": "Pha Taem National Park",
-        "nl": "Pha Taem Nationaal Park"
-      },
-      "type": "nature",
-      "image": "/images/cities/bangkok/downtown-bangkok.webp",
-      "description": {
-        "en": "Dramatic Mekong River cliffs with prehistoric rock paintings dating back 3,000-4,000 years",
-        "nl": "Dramatische Mekong-rivierkliffen met prehistorische rotstekeningen van 3.000-4.000 jaar oud"
-      },
-      "entrance_fee": {
-        "thb": 200,
-        "usd": 6
-      },
-      "highlights": [
-        "Prehistoric cliff paintings",
-        "Mekong River views",
-        "Sunrise viewpoint"
-      ],
-      "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=Pha%20Taem%20National%20Park%20Ubon%20Ratchathani%20Thailand"
-    },
-    {
-      "id": 2,
-      "slug": "sam-phan-bok",
-      "name": {
-        "en": "Sam Phan Bok (3000 Holes)",
-        "nl": "Sam Phan Bok (3000 Gaten)"
-      },
-      "type": "nature",
-      "image": "/images/cities/bangkok/downtown-bangkok.webp",
-      "description": {
-        "en": "The Grand Canyon of Thailand — thousands of eroded rock holes in the Mekong riverbed visible during dry season",
-        "nl": "De Grand Canyon van Thailand — duizenden geërodeerde rotsgaten in de Mekong-rivierbedding zichtbaar tijdens het droge seizoen"
-      },
-      "entrance_fee": {
-        "thb": 0,
-        "usd": 0
-      },
-      "highlights": [
-        "Grand Canyon of Thailand",
-        "Turquoise rock pools",
-        "Dry season only (Dec-May)"
-      ],
-      "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=Sam%20Phan%20Bok%20(3000%20Holes)%20Ubon%20Ratchathani%20Thailand"
-    },
-    {
-      "id": 3,
-      "slug": "candle-festival-venue",
-      "name": {
-        "en": "Candle Festival (Thung Si Muang Park)",
-        "nl": "Kaarsen Festival (Thung Si Muang Park)"
-      },
-      "type": "cultural",
-      "image": "/images/cities/bangkok/downtown-bangkok.webp",
-      "description": {
-        "en": "Annual festival venue where enormous hand-carved beeswax sculptures parade through the city each July",
-        "nl": "Jaarlijks festivalterrein waar enorme handgesneden bijenwassculpturen door de stad paraderen elke juli"
-      },
-      "entrance_fee": {
-        "thb": 0,
-        "usd": 0
-      },
-      "highlights": [
-        "Annual July festival",
-        "Giant wax sculptures",
-        "Mor lam music"
-      ],
-      "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=Candle%20Festival%20(Thung%20Si%20Muang%20Park)%20Ubon%20Ratchathani%20Thailand"
-    },
-    {
-      "id": 4,
-      "slug": "wat-sirindhorn-wararam",
-      "name": {
-        "en": "Wat Sirindhorn Wararam (Glow Temple)",
-        "nl": "Wat Sirindhorn Wararam (Gloeitempe)"
-      },
-      "type": "temple",
-      "image": "/images/cities/bangkok/downtown-bangkok.webp",
-      "description": {
-        "en": "Modern temple with fluorescent murals that glow green after dark, creating a unique nighttime experience",
-        "nl": "Moderne tempel met fluorescerende muurschilderingen die 's nachts groen gloeien, wat een unieke nachtelijke ervaring creëert"
-      },
-      "entrance_fee": {
-        "thb": 0,
-        "usd": 0
-      },
-      "highlights": [
-        "Glow-in-the-dark murals",
-        "Best after sunset",
-        "Unique temple experience"
-      ],
-      "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=Wat%20Sirindhorn%20Wararam%20(Glow%20Temple)%20Ubon%20Ratchathani%20Thailand"
-    },
-    {
-      "id": 5,
-      "slug": "wat-nong-bua",
-      "name": {
-        "en": "Wat Nong Bua",
-        "nl": "Wat Nong Bua"
-      },
-      "type": "temple",
-      "image": "/images/cities/bangkok/downtown-bangkok.webp",
-      "description": {
-        "en": "Beautiful Isaan temple modeled after India's Mahabodhi Temple with stunning interior murals",
-        "nl": "Prachtige Isaan-tempel gemodelleerd naar India's Mahabodhi Tempel met prachtige interieur muurschilderingen"
-      },
-      "entrance_fee": {
-        "thb": 0,
-        "usd": 0
-      },
-      "highlights": [
-        "Mahabodhi-style architecture",
-        "Interior murals",
-        "Isaan village scenes"
-      ],
-      "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=Wat%20Nong%20Bua%20Ubon%20Ratchathani%20Thailand"
-    },
-    {
-      "id": 6,
-      "slug": "kaeng-saphu-rapids",
-      "name": {
-        "en": "Kaeng Saphu Rapids",
-        "nl": "Kaeng Saphu Stroomversnellingen"
-      },
-      "type": "nature",
-      "image": "/images/cities/bangkok/downtown-bangkok.webp",
-      "description": {
-        "en": "Scenic Mekong River rapids with riverside park, restaurants, and spectacular sunset views over Laos",
-        "nl": "Schilderachtige Mekong stroomversnellingen met rivierpark, restaurants en spectaculaire zonsondergangen over Laos"
-      },
-      "entrance_fee": {
-        "thb": 0,
-        "usd": 0
-      },
-      "highlights": [
-        "Mekong rapids",
-        "Sunset views over Laos",
-        "Riverside restaurants"
-      ],
-      "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=Kaeng%20Saphu%20Rapids%20Ubon%20Ratchathani%20Thailand"
-    },
-    {
-      "id": 7,
-      "slug": "khong-jiam-two-color-river",
-      "name": {
-        "en": "Khong Jiam (Two-Color River)",
-        "nl": "Khong Jiam (Tweekleurenrivier)"
-      },
-      "type": "nature",
-      "image": "/images/cities/bangkok/downtown-bangkok.webp",
-      "description": {
-        "en": "The confluence where the brown Mun River meets the blue Mekong, creating a striking two-toned effect. Take a longtail boat to the exact meeting point for the best views of the contrasting waters.",
-        "nl": "De samenvloeiing waar de bruine Mun-rivier de blauwe Mekong ontmoet, wat een opvallend tweekleureneffect creëert. Neem een longtailboot naar het exacte ontmoetingspunt voor het beste uitzicht op de contrasterende wateren."
-      },
-      "entrance_fee": {
-        "thb": 0,
-        "usd": 0
-      },
-      "googleMapsUrl": "https://maps.app.goo.gl/PhHchTmtCR6jp",
-      "highlights": [
-        "Two-color river confluence",
-        "Mekong and Mun rivers",
-        "Boat trips available",
-        "Longtail boat to meeting point"
-      ],
-      "best_time": "morning",
-      "duration_hours": 1.5
-    },
-    {
-      "id": 8,
       "slug": "ubon-ratchathani-national-museum",
       "name": {
         "en": "Ubon Ratchathani National Museum",
         "nl": "Ubon Ratchathani Nationaal Museum"
       },
       "type": "museum",
-      "image": "/images/cities/bangkok/downtown-bangkok.webp",
+      "image": "/images/cities/generated/ubon-ratchathani.webp",
       "description": {
-        "en": "Museum in a former palace building with Isaan cultural artifacts, candle festival history, and local art",
-        "nl": "Museum in een voormalig paleisgebouw met Isaan culturele artefacten, kaarsenfestival geschiedenis en lokale kunst"
+        "en": "The strongest first-stop city layer because it gives Ubon historical context before temples, food, and the eastern Mekong route take over.",
+        "nl": "De sterkste eerste stadslaag omdat het Ubon historische context geeft voordat tempels, food en de oostelijke Mekong-route het overnemen."
       },
       "entrance_fee": {
-        "thb": 100,
-        "usd": 3
+        "thb": null,
+        "usd": null
       },
+      "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=Ubon%20Ratchathani%20National%20Museum",
       "highlights": [
-        "Former palace building",
-        "Candle Festival exhibits",
-        "Isaan cultural artifacts"
+        "Official Fine Arts museum",
+        "Best first read of the city",
+        "Useful with the old-center walk"
       ],
-      "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=Ubon%20Ratchathani%20National%20Museum%20Ubon%20Ratchathani%20Thailand"
+      "best_time": "morning or late afternoon",
+      "duration_hours": 1.5
     },
     {
-      "id": 9,
-      "slug": "ratchabut-road-night-market",
+      "id": 2,
+      "slug": "wat-thung-si-mueang",
       "name": {
-        "en": "Ratchabut Road Night Market",
-        "nl": "Ratchabut Road Nachtmarkt"
+        "en": "Wat Thung Si Mueang",
+        "nl": "Wat Thung Si Mueang"
       },
-      "type": "market",
-      "image": "/images/cities/bangkok/downtown-bangkok.webp",
+      "type": "temple",
+      "image": "/images/cities/generated/ubon-ratchathani.webp",
       "description": {
-        "en": "Sprawling evening food market with authentic Isaan cuisine including fermented sausages, grilled chicken, and papaya salad",
-        "nl": "Uitgebreide avondvoedselmarkt met authentieke Isaan keuken waaronder gefermenteerde worstjes, gegrilde kip en papajasalade"
+        "en": "The clearest old-center temple stop and the temple that best belongs inside Ubon's first city pass.",
+        "nl": "De duidelijkste tempelstop in het oude centrum en de tempel die het best in de eerste stadsroute van Ubon past."
       },
       "entrance_fee": {
         "thb": 0,
         "usd": 0
       },
+      "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=Wat%20Thung%20Si%20Mueang%20Ubon%20Ratchathani",
       "highlights": [
-        "Isaan street food",
-        "Fermented sausages",
-        "Grilled chicken and sticky rice"
+        "Historic city-center temple",
+        "Good with the museum block",
+        "Key old-Ubon landmark"
       ],
-      "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=Ratchabut%20Road%20Night%20Market%20Ubon%20Ratchathani%20Thailand"
+      "best_time": "morning or late afternoon",
+      "duration_hours": 1.25
     },
     {
-      "id": 10,
-      "slug": "sao-chaliang",
+      "id": 3,
+      "slug": "wat-nong-bua",
       "name": {
-        "en": "Sao Chaliang",
-        "nl": "Sao Chaliang"
+        "en": "Wat Phra That Nong Bua",
+        "nl": "Wat Phra That Nong Bua"
       },
-      "type": "nature",
-      "image": "/images/cities/bangkok/downtown-bangkok.webp",
+      "type": "temple",
+      "image": "/images/cities/generated/ubon-ratchathani.webp",
       "description": {
-        "en": "Extraordinary mushroom-shaped rock formations carved by millions of years of erosion in Pha Taem National Park. These towering sandstone pillars with flat caps are among the most unique geological wonders in Isaan.",
-        "nl": "Buitengewone paddenstoelvormige rotsformaties gevormd door miljoenen jaren erosie in Pha Taem Nationaal Park. Deze torenhoge zandstenen pilaren met platte kappen behoren tot de meest unieke geologische wonderen in Isaan."
+        "en": "The city's best larger-format temple landmark after the old-center stop at Wat Thung Si Mueang.",
+        "nl": "Het beste grotere tempellandmark van de stad na de oude-centrumstop bij Wat Thung Si Mueang."
       },
       "entrance_fee": {
-        "thb": 200,
-        "usd": 6
+        "thb": 0,
+        "usd": 0
       },
-      "googleMapsUrl": "https://maps.app.goo.gl/AXvtP2TJW1zBL",
+      "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=Wat%20Phrathat%20Nong%20Bua%20Ubon%20Ratchathani",
       "highlights": [
-        "Mushroom-shaped rock pillars",
-        "Millions of years of erosion",
-        "Inside Pha Taem National Park",
-        "Unique sandstone formations"
+        "Recognizable city landmark",
+        "Listed on TAT's province page",
+        "Good second temple stop"
       ],
-      "best_time": "morning",
-      "duration_hours": 1.5
+      "best_time": "morning or late afternoon",
+      "duration_hours": 1.25
     },
     {
-      "id": 11,
-      "slug": "prehistoric-paintings-pha-mon-noi",
+      "id": 4,
+      "slug": "candle-festival-venue",
       "name": {
-        "en": "Prehistoric Paintings (Pha Mon Noi)",
-        "nl": "Prehistorische Schilderingen (Pha Mon Noi)"
+        "en": "Thung Si Mueang and the candle-craft layer",
+        "nl": "Thung Si Mueang en de candle-craftlaag"
       },
       "type": "cultural",
-      "image": "/images/cities/bangkok/downtown-bangkok.webp",
+      "image": "/images/cities/generated/ubon-ratchathani.webp",
       "description": {
-        "en": "Ancient cliff paintings at Pha Mon Noi within Pha Taem National Park, featuring prehistoric art depicting fish, animals, and human figures dating back thousands of years. A fascinating window into the lives of early Mekong River communities.",
-        "nl": "Oude rotsschilderingen bij Pha Mon Noi in Pha Taem Nationaal Park, met prehistorische kunst van vissen, dieren en menselijke figuren die duizenden jaren oud zijn. Een fascinerend venster op het leven van vroege Mekong-riviergemeenschappen."
+        "en": "The strongest way to understand Ubon's candle identity without reducing the city to one parade weekend.",
+        "nl": "De sterkste manier om Ubon's kaarsidentiteit te begrijpen zonder de stad te reduceren tot één paradeweekend."
       },
       "entrance_fee": {
-        "thb": 200,
-        "usd": 6
+        "thb": null,
+        "usd": null
       },
-      "googleMapsUrl": "https://maps.app.goo.gl/zPpDcAoCm2jQb",
+      "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=Thung%20Si%20Mueang%20Ubon%20Ratchathani",
       "highlights": [
-        "Prehistoric rock art",
-        "Fish and animal paintings",
-        "Thousands of years old",
-        "Inside Pha Taem National Park"
+        "Candle Festival context",
+        "City-craft interpretation layer",
+        "Works beyond the parade dates"
       ],
-      "best_time": "morning",
+      "best_time": "late afternoon",
       "duration_hours": 1
     },
     {
-      "id": 12,
-      "slug": "soi-sawan-waterfall",
+      "id": 5,
+      "slug": "khong-jiam-two-color-river",
       "name": {
-        "en": "Soi Sawan Waterfall",
-        "nl": "Soi Sawan Waterval"
+        "en": "Khong Chiam and the Two-Color River",
+        "nl": "Khong Chiam en de tweekleurenrivier"
       },
       "type": "nature",
-      "image": "/images/cities/bangkok/downtown-bangkok.webp",
+      "image": "/images/cities/generated/ubon-ratchathani.webp",
       "description": {
-        "en": "A stunning multi-tiered waterfall in Pha Taem National Park, cascading over wide sandstone ledges into a natural pool below. The name means 'Heaven's Lane' and the waterfall is most impressive during and just after the rainy season.",
-        "nl": "Een prachtige waterval met meerdere niveaus in Pha Taem Nationaal Park, die over brede zandstenen richels in een natuurlijk zwembad beneden stroomt. De naam betekent 'Hemelse Laan' en de waterval is het meest indrukwekkend tijdens en net na het regenseizoen."
+        "en": "The cleanest Mekong-side first stop from Ubon city and the right lead-in to a Pha Taem day.",
+        "nl": "De schoonste eerste Mekong-stop vanuit Ubon-stad en de juiste opmaat naar een Pha Taem-dag."
       },
       "entrance_fee": {
-        "thb": 200,
-        "usd": 6
+        "thb": null,
+        "usd": null
       },
-      "googleMapsUrl": "https://maps.app.goo.gl/7EU8P4S4u6smt",
+      "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=Khong%20Chiam%20Two%20Color%20River",
       "highlights": [
-        "Multi-tiered waterfall",
-        "Natural swimming pool",
-        "Name means Heaven's Lane",
-        "Best after rainy season"
-      ],
-      "best_time": "morning",
-      "duration_hours": 2
-    },
-    {
-      "id": 13,
-      "slug": "sang-chan-waterfall",
-      "name": {
-        "en": "Sang Chan Waterfall",
-        "nl": "Sang Chan Waterval"
-      },
-      "type": "nature",
-      "image": "/images/cities/bangkok/downtown-bangkok.webp",
-      "description": {
-        "en": "A beautiful wide waterfall that spreads across a broad sandstone cliff face, creating a curtain-like cascade. Located in the Ubon Ratchathani countryside, it is a peaceful spot surrounded by lush forest and popular with locals for picnics.",
-        "nl": "Een prachtige brede waterval die zich over een breed zandstenen klif verspreidt en een gordijnachtige cascade creëert. Gelegen op het platteland van Ubon Ratchathani, is het een rustige plek omringd door weelderig bos en populair bij lokale bewoners voor picknicks."
-      },
-      "entrance_fee": {
-        "thb": 0,
-        "usd": 0
-      },
-      "googleMapsUrl": "https://maps.app.goo.gl/gd8Tj7QfqqiZc",
-      "highlights": [
-        "Wide curtain-like waterfall",
-        "Sandstone cliff cascade",
-        "Peaceful forest setting",
-        "Popular local picnic spot"
+        "Mun-Mekong confluence",
+        "Best Mekong-side first stop",
+        "Pairs with Pha Taem"
       ],
       "best_time": "morning",
       "duration_hours": 1.5
     },
     {
-      "id": 14,
-      "slug": "pk-riverside-resort",
+      "id": 6,
+      "slug": "pha-taem-national-park",
       "name": {
-        "en": "PK Riverside Resort",
-        "nl": "PK Riverside Resort"
+        "en": "Pha Taem National Park",
+        "nl": "Pha Taem Nationaal Park"
       },
-      "type": "accommodation",
-      "image": "/images/cities/bangkok/downtown-bangkok.webp",
+      "type": "nature",
+      "image": "/images/cities/generated/ubon-ratchathani.webp",
       "description": {
-        "en": "A charming riverside resort in Khong Jiam district offering floating raft rooms and bungalows on the banks of the Mekong River. Perfect base for exploring the two-color river, Pha Taem, and surrounding nature attractions.",
-        "nl": "Een charmant resort aan de rivier in het Khong Jiam-district met drijvende vlothuisjes en bungalows aan de oevers van de Mekong. Perfecte uitvalsbasis voor het verkennen van de tweekleurenrivier, Pha Taem en omliggende natuurattracties."
+        "en": "The strongest outer-district nature stop because the prehistoric art, escarpment views, and official park status all still hold up.",
+        "nl": "De sterkste natuurstop buiten de stad omdat de prehistorische kunst, uitzichtpunten en officiële parkstatus nog steeds overeind staan."
       },
       "entrance_fee": {
-        "thb": 0,
-        "usd": 0
+        "thb": null,
+        "usd": null
       },
-      "googleMapsUrl": "https://maps.app.goo.gl/WhcaHD9gXVHvZ",
+      "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=Pha%20Taem%20National%20Park",
       "highlights": [
-        "Riverside Mekong location",
-        "Floating raft rooms",
-        "Base for Khong Jiam area",
-        "Views over the river"
+        "Prehistoric rock paintings",
+        "Escarpment viewpoints",
+        "Strongest edited nature add-on"
       ],
-      "best_time": "any",
-      "duration_hours": 0
+      "best_time": "morning",
+      "duration_hours": 3
     }
   ]
 }

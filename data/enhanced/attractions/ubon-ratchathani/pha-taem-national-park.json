@@ -1,5 +1,5 @@
 {
-  "id": 1,
+  "id": 6,
   "slug": "pha-taem-national-park",
   "name": {
     "en": "Pha Taem National Park",
@@ -7,41 +7,70 @@
   },
   "type": "nature",
   "city_slug": "ubon-ratchathani",
-  "address": "Ubon Ratchathani, Thailand",
+  "address": "Huai Phai, Khong Chiam District, Ubon Ratchathani",
   "location": null,
-  "opening_hours": null,
+  "opening_hours": "Tourism Product's current park page lists daily opening from 5:00 AM to 6:00 PM, but same-day operating conditions should still be checked locally.",
   "entrance_fee": {
-    "thb": 200,
-    "usd": 6
+    "thb": null,
+    "usd": null
   },
   "description": {
-    "en": "Dramatic Mekong River cliffs with prehistoric rock paintings dating back 3,000-4,000 years",
-    "nl": "Dramatische Mekong-rivierkliffen met prehistorische rotstekeningen van 3.000-4.000 jaar oud"
+    "en": "The strongest outer-district nature stop because the prehistoric art, escarpment views, and official park status all still hold up.",
+    "nl": "De sterkste natuurstop buiten de stad omdat de prehistorische kunst, uitzichtpunten en officiële parkstatus nog steeds overeind staan."
   },
   "highlights": [
-    "Prehistoric cliff paintings",
-    "Mekong River views",
-    "Sunrise viewpoint"
+    "Prehistoric rock paintings",
+    "Escarpment viewpoints",
+    "Strongest edited nature add-on"
   ],
-  "image": "/images/cities/bangkok/downtown-bangkok.webp",
-  "official_website": null,
+  "image": "/images/cities/generated/ubon-ratchathani.webp",
   "seo": {
     "metaTitle": {
-      "en": "Pha Taem National Park - Top Attraction in Ubon Ratchathani | Go2Thailand",
-      "nl": "Pha Taem Nationaal Park - Top Attractie in Ubon Ratchathani | Go2Thailand"
+      "en": "Pha Taem National Park | Go2Thailand",
+      "nl": "Pha Taem Nationaal Park | Go2Thailand"
     },
     "metaDescription": {
-      "en": "Discover Pha Taem National Park in Ubon Ratchathani. Dramatic Mekong River cliffs with prehistoric rock paintings dating back 3,000-4,000 years",
-      "nl": "Ontdek Pha Taem Nationaal Park in Ubon Ratchathani. Dramatische Mekong-rivierkliffen met prehistorische rotstekeningen van 3.000-4.000 jaar oud"
+      "en": "Why Pha Taem National Park is the strongest high-value nature extension from Ubon Ratchathani.",
+      "nl": "Waarom Pha Taem National Park de sterkste natuuruitstap met hoge waarde vanuit Ubon Ratchathani is."
     }
   },
   "tags": [
-    "nature",
     "ubon-ratchathani",
-    "thailand",
-    "attraction",
-    "travel",
-    "tourism"
+    "pha-taem",
+    "national-park"
   ],
-  "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=Pha%20Taem%20National%20Park%20Ubon%20Ratchathani%20Thailand"
+  "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=Pha%20Taem%20National%20Park",
+  "best_time": "morning",
+  "duration_hours": 3,
+  "enhanced_description": "Pha Taem is the outer-province nature stop that genuinely earns a place in the Ubon cluster. The prehistoric rock paintings, the escarpment outlook, and the park's official identity all give it enough weight to justify the drive, especially when it is treated as the main event of a Khong Chiam-side day rather than as one more checkbox in an overbuilt route.",
+  "detailed_history": "Tourism Product's June 20, 2025 page still presents the park through its ancient paintings, eastern sunrise point, geological formations, and current official facilities, which is stronger evidence than recycled exact-fee claims from old travel pages.",
+  "visitor_experience": "Expect a proper park outing rather than a five-minute photo stop. The visit is strongest when you leave early, keep the route focused, and avoid trying to stack every secondary waterfall and stone formation from the wider district on the same day.",
+  "best_time_to_visit": {
+    "time_of_day": "Morning",
+    "duration": "About 2.5 to 3.5 hours",
+    "crowd_level": "Moderate"
+  },
+  "practical_info": {
+    "how_to_get_there": "Best reached by car or driver from Ubon city or from a deliberate Khong Chiam overnight.",
+    "nearby_attractions": "Khong Chiam and the Two-Color River.",
+    "food_options": "Plan meals around the drive rather than expecting a city-style food block on site.",
+    "shopping": "Treat the stop as a park visit, not a commercial destination."
+  },
+  "insider_tips": [
+    "This should be one of the main reasons for leaving the city, not an afterthought.",
+    "Use durable wording around fees and exact operations because park conditions can change.",
+    "Check current local status if sunrise timing, trail access, or weather matters to your day."
+  ],
+  "verified_note": "Source-backed summary based on Tourism Product's June 20, 2025 Pha Taem National Park page.",
+  "cultural_significance": "Pha Taem matters because it gives the Ubon cluster one outer-district nature stop with real historical and geological substance, rather than relying on interchangeable cliff-and-waterfall filler.",
+  "contentSources": [
+    {
+      "name": "Pha Taem National Park",
+      "url": "https://tourismproduct.tourismthailand.org/en/2025/06/20/%E0%B8%AD%E0%B8%B8%E0%B8%97%E0%B8%A2%E0%B8%B2%E0%B8%99%E0%B9%81%E0%B8%AB%E0%B9%88%E0%B8%87%E0%B8%8A%E0%B8%B2%E0%B8%95%E0%B8%B4%E0%B8%9C%E0%B8%B2%E0%B9%81%E0%B8%95%E0%B9%89%E0%B8%A1-2/"
+    },
+    {
+      "name": "The official website of Tourism Authority of Thailand",
+      "url": "https://www.tourismthailand.org/Destinations/Provinces/ubon-ratchathani/587"
+    }
+  ]
 }

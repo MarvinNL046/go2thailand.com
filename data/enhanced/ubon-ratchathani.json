@@ -15,22 +15,26 @@
   "region": "Isaan",
   "province": "Ubon Ratchathani",
   "description": {
-    "en": "A major Isaan city on the Mekong River, Ubon Ratchathani is famous for its spectacular Candle Festival, prehistoric cliff paintings at Pha Taem, and the breathtaking Sam Phan Bok canyon known as the Grand Canyon of Thailand.",
-    "nl": "Een grote Isaan-stad aan de Mekong rivier, Ubon Ratchathani is beroemd om het spectaculaire Kaarsen Festival, prehistorische rotstekeningen bij Pha Taem en de adembenemende Sam Phan Bok kloof, bekend als de Grand Canyon van Thailand.",
-    "ja": "メコン川沿いのイサーン主要都市ウボンラーチャターニーは、壮大なろうそく祭り、サムパンボーク（3000の穴）、イサーン料理で有名です。",
-    "ko": "메콩강변의 이산 주요 도시인 우본랏차타니는 장엄한 양초 축제, 파탬의 선사시대 절벽 벽화, 태국의 그랜드 캐니언으로 불리는 삼판복 협곡으로 유명합니다.",
-    "th": "เมืองแห่งดอกบัว มีเทศกาลเทียนพรรษา ผาแต้ม และสามพันโบก",
-    "de": "Eine bedeutende Isaan-Stadt am Mekong. Ubon Ratchathani ist berühmt für sein spektakuläres Kerzenfestival, prähistorische Felszeichnungen am Pha Taem und den atemberaubenden Sam Phan Bok-Canyon, bekannt als der Grand Canyon Thailands.",
-    "fr": "Une grande ville de l'Isaan sur le fleuve Mékong, Ubon Ratchathani est célèbre pour son spectaculaire festival des bougies, les peintures rupestres préhistoriques des falaises de Pha Taem et le canyon époustouflant de Sam Phan Bok, connu sous le nom du Grand Canyon de Thaïlande.",
-    "ru": "Крупный город Исана на реке Меконг, Убон Ратчатхани известен своим зрелищным фестивалем свечей, доисторическими наскальными рисунками на Пха Таем и захватывающим каньоном Сам Пан Бок, известным как Гранд-Каньон Таиланда.",
-    "zh": "湄公河畔的伊桑大城乌汶拉查他尼以其壮观的蜡烛节、帕塔姆（Pha Taem）的史前岩壁画，以及被誉为泰国大峡谷的 Sam Phan Bok 峡谷而闻名。"
+    "en": "Ubon Ratchathani works best as a city-first Isaan base with a strong temple-and-food core, a meaningful candle-craft layer, and one deliberate Mekong-side nature day such as Khong Chiam and Pha Taem rather than as a loose festival-and-canyon checklist.",
+    "nl": "Ubon Ratchathani werkt het best als een city-first Isaan-basis met een sterke tempel- en foodkern, een betekenisvolle candle-craftlaag en één bewuste Mekong-natuurdag zoals Khong Chiam en Pha Taem, niet als een losse festival- en canyonchecklist.",
+    "ja": "ウボンラーチャターニーは、祭りや奇岩だけを並べるより、国立博物館、主要寺院、食文化、ろうそく彫刻の文脈、そして一度だけ本気で出かけるコーンチアムやパーテーム方面で組み立てると理解しやすい都市です。",
+    "ko": "우본랏차타니는 축제와 협곡을 늘어놓는 방식보다 국립박물관, 핵심 사원, 음식 문화, 촛불 조각 전통, 그리고 한 번의 진지한 콩찌암-파탬 자연 일정을 묶어 보는 편이 훨씬 낫습니다.",
+    "th": "อุบลราชธานีเหมาะกับการเที่ยวแบบเริ่มจากตัวเมือง วัด อาหาร และงานเทียน ก่อนค่อยต่อยอดไปโขงเจียมและผาแต้ม มากกว่าการรวมทุกอย่างเป็นเช็กลิสต์ธรรมชาติ",
+    "de": "Ubon Ratchathani funktioniert am besten als Isaan-Stadt mit starkem Tempel- und Essenskern, Candle-Craft-Tradition und nur einem gezielten Mekong-Naturtag wie Khong Chiam und Pha Taem.",
+    "fr": "Ubon Ratchathani se visite mieux comme une base urbaine de l'Isaan avec un vrai coeur de temples et de cuisine, une couche artisanale autour des bougies, puis une seule vraie journee Mekong vers Khong Chiam et Pha Taem.",
+    "ru": "Убон Ратчатхани лучше планировать как городской центр Исана: музеи, храмы, еда, традиция восковых свечей и один осмысленный день на Меконге в сторону Кхонг Чиама и Пха Тэма.",
+    "zh": "Ubon Ratchathani 更适合按“城市寺庙与美食核心 + 蜡烛雕刻传统 + 一次认真前往 Khong Chiam 与 Pha Taem 的湄公河自然日”来安排，而不是把节庆和峡谷景点硬拼成清单。"
   },
   "population": 191000,
+  "population_label": "City-scale reference",
+  "population_note": "Use this as a broad urban reference point rather than a live municipal total.",
   "highlights": [
-    "Candle Festival",
-    "Pha Taem National Park",
-    "Sam Phan Bok",
-    "Mekong River"
+    "Ubon Ratchathani National Museum and old-center layer",
+    "Wat Thung Si Mueang",
+    "Wat Phra That Nong Bua",
+    "Candle craft and Thung Si Mueang field",
+    "Khong Chiam and the Two-Color River",
+    "Pha Taem National Park"
   ],
   "location": {
     "lat": 15.2287,
@@ -39,42 +43,42 @@
   "image": "/images/cities/generated/ubon-ratchathani.webp",
   "seo": {
     "metaTitle": {
-      "en": "Discover Ubon Ratchathani | What to do in Ubon Ratchathani?",
-      "nl": "Ontdek Ubon Ratchathani | Wat te doen in Ubon Ratchathani?",
-      "ja": "ウボンラーチャターニーを満喫 | 観光・見どころガイド",
-      "ko": "우본랏차타니 태국 — 양초 축제 & 자연 여행 가이드 2026",
-      "th": "อุบลราชธานี ประเทศไทย — คู่มือท่องเที่ยวฉบับสมบูรณ์ 2026",
-      "de": "Entdecken Sie Ubon Ratchathani | Was tun in Ubon Ratchathani?",
-      "fr": "Découvrez Ubon Ratchathani | Que faire à Ubon Ratchathani ?",
-      "ru": "Откройте для себя Убон Ратчатхани | Что делать в Убон Ратчатхани?",
-      "zh": "发现乌汶拉查他尼 | 在乌汶拉查他尼做什么？"
+      "en": "Ubon Ratchathani Thailand Guide 2026 | Temples, Food, Candle Craft and Pha Taem",
+      "nl": "Ubon Ratchathani gids 2026 | Tempels, eten, kaarskunst en Pha Taem",
+      "ja": "ウボンラーチャターニー観光ガイド 2026 | 寺院、食、ろうそく文化、パーテーム",
+      "ko": "우본랏차타니 가이드 2026 | 사원, 음식, 촛불 공예, 파탬",
+      "th": "อุบลราชธานี 2026 | วัด อาหาร งานเทียน และผาแต้ม",
+      "de": "Ubon Ratchathani Guide 2026 | Tempel, Essen, Kerzenkunst und Pha Taem",
+      "fr": "Guide d'Ubon Ratchathani 2026 | Temples, cuisine, cire et Pha Taem",
+      "ru": "Путеводитель по Ubon Ratchathani 2026 | Храмы, еда, свечи и Pha Taem",
+      "zh": "Ubon Ratchathani 旅行指南 2026 | 寺庙、美食、蜡烛工艺与 Pha Taem"
     },
     "metaDescription": {
-      "en": "Your guide to Ubon Ratchathani, Thailand – candle festival, Mekong canyon, Isaan culture and nature.",
-      "nl": "Jouw gids voor Ubon Ratchathani, Thailand – kaarsenfestival, Mekong kloof, Isaan cultuur en natuur.",
-      "ja": "タイ・ウボンラーチャターニーの旅行ガイド — ろうそく祭り、メコン峡谷、イサーン料理の魅力をご紹介。",
-      "ko": "우본랏차타니(태국) 완벽 여행 가이드: 양초 축제, 삼판복, 파탬 절벽 벽화. 가격, 팁, 가는 법.",
-      "th": "คู่มือท่องเที่ยวอุบลราชธานี ประเทศไทย — สถานที่ท่องเที่ยว อาหาร ที่พัก และเคล็ดลับ อัปเดต 2026",
-      "de": "Ihr Reiseführer durch Ubon Ratchathani, Thailand – Kerzenfestival, Canyon am Mekong, Isaan-Kultur und Natur.",
-      "fr": "Votre guide pour Ubon Ratchathani, Thaïlande — festival des bougies, canyon du Mékong, culture et nature de l’Isaan.",
-      "ru": "Ваш гид по Убон Ратчатхани, Таиланд — фестиваль свечей, каньон на Меконге, культура и природа Исана.",
-      "zh": "您在泰国乌汶拉查他尼的指南——蜡烛节、湄公河峡谷、伊桑文化与自然。"
+      "en": "Plan Ubon Ratchathani around its museum, temple core, MICHELIN-backed food, candle-craft tradition, and one edited Khong Chiam–Pha Taem day instead of relying on thin festival or canyon filler.",
+      "nl": "Plan Ubon Ratchathani rond museum, tempelkern, MICHELIN-gedragen food, de candle-crafttraditie en één gerichte Khong Chiam–Pha Taem-dag in plaats van dun festival- of canyonfiller.",
+      "ja": "ウボンラーチャターニーを、博物館、寺院、食、ろうそく文化、そしてコーンチアムとパーテームの一日で整理するガイドです。",
+      "ko": "우본랏차타니를 박물관, 사원, 음식, 촛불 문화, 그리고 콩찌암-파탬 하루 일정으로 정리하는 가이드입니다.",
+      "th": "คู่มือเที่ยวอุบลราชธานีแบบเน้นพิพิธภัณฑ์ วัด อาหาร งานเทียน และวันเดียวที่โขงเจียม-ผาแต้ม",
+      "de": "Ubon Ratchathani richtig planen: Museum, Tempel, Essen, Kerzenkunst und ein bewusster Khong-Chiam-Pha-Taem-Tag.",
+      "fr": "Comment structurer Ubon Ratchathani autour du musee, des temples, de la cuisine, des bougies et d'une seule journee Khong Chiam-Pha Taem.",
+      "ru": "Как планировать Ubon Ratchathani: музей, храмы, еда, свечная традиция и один продуманный день в Khong Chiam и Pha Taem.",
+      "zh": "用博物馆、寺庙、美食、蜡烛传统以及一次 Khong Chiam–Pha Taem 自然日来规划 Ubon Ratchathani。"
     }
   },
   "categories": {
     "food": {
-      "en": "Best restaurants and street food in Ubon Ratchathani",
-      "nl": "Beste restaurants en streetfood in Ubon Ratchathani",
-      "ja": "ウボンラーチャターニーのおすすめレストラン＆ストリートフード",
-      "ko": "우본랏차타니 추천 레스토랑과 길거리 음식",
-      "th": "ร้านอาหารและสตรีทฟู้ดที่ดีที่สุดในอุบลราชธานี"
+      "en": "Best restaurants and local dishes in Ubon Ratchathani",
+      "nl": "Beste restaurants en lokale gerechten in Ubon Ratchathani",
+      "ja": "ウボンラーチャターニーのおすすめレストラン＆郷土料理",
+      "ko": "우본랏차타니 추천 레스토랑과 지역 음식",
+      "th": "ร้านอาหารและอาหารท้องถิ่นที่ดีที่สุดในอุบลราชธานี"
     },
     "hotels": {
-      "en": "Top hotels in Ubon Ratchathani | Tips & deals",
-      "nl": "Beste hotels in Ubon Ratchathani | Tips & aanbiedingen",
-      "ja": "ウボンラーチャターニーのおすすめホテル｜お得な情報＆アドバイス",
-      "ko": "우본랏차타니 추천 호텔 | 팁 & 특가",
-      "th": "โรงแรมแนะนำในอุบลราชธานี | เคล็ดลับและดีล"
+      "en": "Top hotels in Ubon Ratchathani | City and Mekong-side stays",
+      "nl": "Beste hotels in Ubon Ratchathani | Stad en Mekong-verblijven",
+      "ja": "ウボンラーチャターニーのおすすめホテル｜市内とメコン側の滞在",
+      "ko": "우본랏차타니 추천 호텔 | 도심과 메콩 강변 숙소",
+      "th": "โรงแรมแนะนำในอุบลราชธานี | เมืองและฝั่งโขง"
     },
     "attractions": {
       "en": "Top attractions in Ubon Ratchathani",
@@ -85,451 +89,490 @@
     }
   },
   "tags": [
-    "isaan",
     "ubon-ratchathani",
-    "thailand",
-    "travel",
-    "tourism",
-    "guide"
+    "isaan",
+    "mekong",
+    "pha-taem",
+    "candle-festival",
+    "temples",
+    "thailand"
   ],
-  "enhanced_description": "Ubon Ratchathani sits at the far eastern edge of Thailand, where the Mun River meets the Mekong and Laos is close enough to see across the water. It is one of those Thai cities that few foreign travelers visit, which is precisely why visiting feels like such a discovery. I arrived on the overnight sleeper from Bangkok — twelve hours through the flat Isaan heartland — and stepped out into a city that felt entirely unlike the Thailand most tourists know. The air smelled of charcoal-grilled chicken and sticky rice, the streets were wide and leafy, and the morning light fell on a cityscape of graceful temples, French colonial-era shop houses, and the broad brown sweep of the Mun River. Nobody tried to sell me anything. Nobody called me friend. I was, for once, simply somewhere.\n\nThe city's crown jewel is the annual Candle Festival, or Khao Phansa, held each July to mark the beginning of Buddhist Lent. Communities across the province spend months carving enormous wax sculptures — some the size of buses — depicting scenes from the Jataka tales and Thai mythology. On the festival day, these monumental candles are paraded through the city on floats while thousands of people line the streets, dance, and celebrate. I was fortunate enough to visit during the festival, and the scale of the artistry left me speechless. One candle sculpture depicted a multi-armed deity surrounded by flames and heavenly beings, every detail — every feather, every finger, every coil of flame — carved from beeswax by hand over three months. The craftsmen, many of them monks, stood beside their creations with quiet pride, and the procession was accompanied by mor lam music, traditional Isaan singing that is simultaneously joyful and melancholic, the sound of the northeast.\n\nPha Taem National Park, about 100 kilometers east of the city along the Mekong, is where the landscape of Isaan reveals itself as something far more dramatic than the flat rice paddies most people imagine. The cliff edge drops vertically to the Mekong hundreds of meters below, and painted on the rock face are prehistoric paintings — hand prints, fish, geometric patterns — dating back 3,000 to 4,000 years. I stood on the cliff edge at dawn, the first person at the viewpoint that morning, and watched the sun rise over Laos, the Mekong shimmering below in gold and silver, the silence broken only by the cry of brahminy kites riding the thermals. It is one of the most powerful landscapes in Thailand, and I had it entirely to myself.\n\nSam Phan Bok, which translates to 'three thousand holes,' is Ubon's other natural wonder — a section of the Mekong riverbed carved by millennia of erosion into thousands of potholes, channels, and rock formations that emerge when the water level drops in the dry season (December to May). I visited in February and the exposed rock stretched out like a lunar landscape, the holes filled with turquoise pools and the entire scene framed by the wide Mekong with Laos on the far bank. Local families were picnicking on the rocks, children swimming in the natural pools, vendors grilling chicken on makeshift barbecues. There were perhaps fifty people spread across a site the size of several football fields. The comparison to the Grand Canyon is apt not in scale but in wonder — this is a place that makes you stand still and simply look.\n\nBack in the city, the food is pure Isaan — bold, sour, spicy, and fermented. I ate larb moo (spicy minced pork salad) so fiery my lips went numb, som tam made with pla ra (fermented fish paste) that had a pungent depth of flavor no tourist-area version can match, and sticky rice that I pulled apart with my fingers in the traditional way. The night market along Ratchabut Road was my nightly ritual — a sprawling affair where I discovered kai yang (grilled chicken marinated in lemongrass and garlic), sai krok Isaan (fermented sausages), and a dessert of sweet sticky rice with fresh mango that cost 20 baht and tasted like everything good about Thailand distilled into a single dish. Ubon Ratchathani is not easy to reach and not eager to be discovered, and that is exactly what makes it extraordinary.",
+  "enhanced_description": "Ubon Ratchathani gets weaker when the whole city is flattened into three stock ideas: the Candle Festival, Pha Taem, and Sam Phan Bok. Those things matter, but the stronger version starts inside the city itself: the national museum, Wat Thung Si Mueang, Wat Phra That Nong Bua, and a food scene that the MICHELIN Guide still takes seriously enough to give the city a real dining identity.\n\nFrom there the province becomes easier to edit. The candle layer matters because it explains the city's craft tradition and Buddhist calendar rather than because one festival weekend exists. Khong Chiam and Pha Taem matter because they make one coherent eastern Mekong day, especially when the Two-Color River and cliff viewpoints are treated as part of the same route instead of as scattered nature pins.\n\nThat structure is what makes Ubon publishable at the right quality level. It is a large Isaan city first, then a candle-craft center, then a Mekong nature base with one serious outer day. Once those layers stay in balance, the trip stops feeling generic.",
+  "overview": "Ubon Ratchathani is strongest when the city itself leads the itinerary. The national museum and old-center layer explain the province's cultural memory better than jumping straight into outer-district cliff and canyon copy, and Wat Thung Si Mueang plus Wat Phra That Nong Bua give the city a religious and architectural core that still feels specific.\n\nFood is the second layer. MICHELIN's current Ubon selections make the city's food scene much clearer than the old scraped pages ever did: guay jub at Guay Jub Ubon, Isaan classics at Krua Samchai and Som Tum Jinda, Vietnamese dumplings at Pak Mor Robot, and broader city dinners at Chomjan or Santi Pochana. That gives Ubon a real urban meal structure instead of a generic tourist-restaurant ranking.\n\nAfter the center, the best extension is Khong Chiam and Pha Taem as one proper Mekong day. Sam Phan Bok can still be worthwhile if water levels and timing are right, but it should not displace the city or the Khong Chiam sequence. Ubon improves once you stop overselling the outer province and let the city itself do more of the work.",
   "hidden_gems": [
     {
-      "name": {
-        "en": "Sam Phan Bok (3000 Holes)",
-        "nl": "Sam Phan Bok (3000 Gaten)",
-        "ja": "サムパンボーク（3000の穴）",
-        "ko": "삼판복 (3000개의 구멍)"
-      },
-      "description": {
-        "en": "A spectacular section of the Mekong riverbed that reveals thousands of eroded rock holes and turquoise pools during the dry season. Often called the Grand Canyon of Thailand, this geological wonder is best visited from December to May.",
-        "nl": "Een spectaculair deel van de Mekong rivierbedding dat duizenden geërodeerde rotsgaten en turquoise poelen onthult tijdens het droge seizoen. Vaak de Grand Canyon van Thailand genoemd, is dit geologische wonder het beste te bezoeken van december tot mei.",
-        "ja": "メコン川の水位が下がると現れる何千もの侵食された岩穴が広がる壮観な川床で、「タイのグランドキャニオン」とも呼ばれます。乾季限定の絶景スポットです。",
-        "ko": "메콩강이 만들어낸 독특한 바위 지형으로, 건기에만 모습을 드러내는 태국의 그랜드 캐니언입니다."
-      },
-      "type": "nature"
+      "name": "Pak Mor Robot",
+      "story": "MICHELIN still treats Pak Mor Robot as one of the city's most distinctive small-eats stops, which helps explain the Vietnamese-influenced side of Ubon's food culture.",
+      "how_to_find": "Use it in the morning or lunchtime city route near the museum and old-center side.",
+      "best_time": "Morning to early afternoon",
+      "local_insights": [
+        "This is one of the clearest non-festival ways to feel the city.",
+        "The dumpling stop is stronger than inventing another generic cafe break."
+      ]
     },
     {
-      "name": {
-        "en": "Wat Sirindhorn Wararam (Glow Temple)",
-        "nl": "Wat Sirindhorn Wararam (Gloeitempe)",
-        "ja": "ワット・シリントーン・ワラーラーム（光る寺院）",
-        "ko": "왓 시린톤 와라람 (야광 사원)"
-      },
-      "description": {
-        "en": "A modern temple whose exterior walls are painted with fluorescent murals depicting the Bodhi tree and mythical creatures. After dark, the paintings glow an eerie green, creating one of the most unique temple experiences in Thailand.",
-        "nl": "Een moderne tempel waarvan de buitenmuren zijn beschilderd met fluorescerende muurschilderingen van de Bodhi-boom en mythische wezens. Na het donker gloeien de schilderingen spookachtig groen, wat een van de meest unieke tempelervaringen in Thailand oplevert.",
-        "ja": "外壁に蛍光塗料で描かれた壁画がある近代的な寺院で、日没後に壁画が緑色に光り輝きます。「光る寺院」として知られるフォトジェニックなスポットです。",
-        "ko": "밤에 형광빛으로 빛나는 보리수 벽화가 인상적인 현대적 사원으로, 독특한 야간 명소입니다."
-      },
-      "type": "temple"
+      "name": "Thung Si Mueang field and candle-craft layer",
+      "story": "Even outside the headline festival days, Thung Si Mueang still helps explain how deeply the candle and Buddhist-lent tradition is built into Ubon's civic identity.",
+      "how_to_find": "Pair it with Wat Thung Si Mueang and the museum side rather than isolating it as a single seasonal stop.",
+      "best_time": "Late afternoon",
+      "local_insights": [
+        "The field matters most when you read it as part of the city core.",
+        "Festival timing can elevate the trip, but the city still works without it."
+      ]
+    }
+  ],
+  "authentic_experiences": [
+    {
+      "activity": "Start with the national museum and old-center layer",
+      "story": "The Fine Arts museum and the surrounding older quarter give Ubon a historical frame that the old generic pages ignored.",
+      "cultural_significance": "This is the best starting point for understanding Ubon as a major Isaan city, not only as a nature gateway.",
+      "how_to_participate": "Use the museum and nearby streets first, then move into temples and food without leaving the center too quickly.",
+      "insights": [
+        "This should be the first half-day, not the leftover slot.",
+        "The city reads more clearly once its cultural core is done first."
+      ],
+      "href": "/city/ubon-ratchathani/attractions/ubon-ratchathani-national-museum/",
+      "cta_label": "See the museum guide"
     },
     {
-      "name": {
-        "en": "Kaeng Saphu Rapids",
-        "nl": "Kaeng Saphu Stroomversnellingen",
-        "ja": "ケーン・サプー急流",
-        "ko": "깽사푸 급류"
-      },
-      "description": {
-        "en": "A scenic stretch of the Mekong River with rocky rapids and a riverside park popular with local picnickers. The sunset views over Laos from the riverside restaurants here are spectacular and completely tourist-free.",
-        "nl": "Een schilderachtig stuk van de Mekong rivier met rotsachtige stroomversnellingen en een park langs de rivier populair bij lokale picknickers. De zonsondergang over Laos vanuit de restaurants langs de rivier is spectaculair en volledig toeristenvrij.",
-        "ja": "メコン川の岩場の急流が見られる景勝地で、川沿いの公園は地元の人々のピクニックスポットとして人気です。夕日が美しい場所でもあります。",
-        "ko": "메콩강의 급류 지대로, 건기에 독특한 바위 지형이 드러나며 아름다운 풍경을 만들어냅니다."
-      },
-      "type": "nature"
+      "activity": "Keep Wat Thung Si Mueang and Wat Phra That Nong Bua as the temple pair",
+      "story": "One temple explains the old city; the other gives Ubon its most recognizable modern sacred landmark. Together they are stronger than treating every temple in the province as equal.",
+      "cultural_significance": "This pair gives the city both historical depth and a contemporary religious anchor.",
+      "how_to_participate": "Do the old-center temple first, then the larger Nong Bua side later in the day or on the following morning.",
+      "insights": [
+        "The city temple layer works best as a pair, not a long temple checklist.",
+        "They make more sense before any outer nature day."
+      ],
+      "href": "/city/ubon-ratchathani/attractions/wat-thung-si-mueang/",
+      "cta_label": "See the temple guide"
     },
     {
-      "name": {
-        "en": "Wat Nong Bua",
-        "nl": "Wat Nong Bua",
-        "ja": "ワット・ノーンブア",
-        "ko": "왓 농부아"
-      },
-      "description": {
-        "en": "A beautiful Isaan temple modeled after the Mahabodhi Temple in India's Bodh Gaya. The interior features stunning murals by local artists depicting the life of the Buddha and traditional Isaan village scenes.",
-        "nl": "Een prachtige Isaan-tempel gemodelleerd naar de Mahabodhi Tempel in India's Bodh Gaya. Het interieur heeft prachtige muurschilderingen van lokale kunstenaars die het leven van de Boeddha en traditionele Isaan dorpsscènes uitbeelden.",
-        "ja": "インドのブッダガヤにあるマハーボーディ寺院をモデルにした美しいイサーンの寺院で、精緻な彫刻と壁画が見事です。",
-        "ko": "인도 보드가야의 마하보디 사원을 모델로 한 독특한 양식의 사원입니다."
-      },
-      "type": "temple"
+      "activity": "Read the candle tradition through the city, not only through one parade weekend",
+      "story": "The candle layer matters because it is tied to Ubon's civic and religious culture, not because of one annual tourism spike.",
+      "cultural_significance": "The city's Buddhist-lent candle tradition is one of the clearest reasons Ubon still carries a distinct regional identity.",
+      "how_to_participate": "Use the Thung Si Mueang field and surrounding city-core context as the interpretation layer, then add festival timing only if it genuinely fits.",
+      "insights": [
+        "The craft tradition matters more than festival hype alone.",
+        "This gives Ubon a stronger city identity than outer-province filler ever could."
+      ],
+      "href": "/city/ubon-ratchathani/attractions/candle-festival-venue/",
+      "cta_label": "See the candle guide"
     },
     {
-      "name": {
-        "en": "Ratchabut Road Night Market",
-        "nl": "Ratchabut Road Nachtmarkt",
-        "ja": "ラチャブット通りナイトマーケット",
-        "ko": "랏차붓 도로 야시장"
-      },
-      "description": {
-        "en": "The city's sprawling evening food market where Isaan cuisine shines — fermented sausages, grilled chicken, papaya salad with fermented fish, and sweet sticky rice with mango. A genuine local gathering spot with rock-bottom prices.",
-        "nl": "De uitgebreide avondvoedselmarkt van de stad waar de Isaan keuken schittert — gefermenteerde worstjes, gegrilde kip, papajasalade met gefermenteerde vis en zoete kleefrijst met mango. Een echte lokale ontmoetingsplek met bodemprijzen.",
-        "ja": "イサーン料理が輝く街最大の夕方フードマーケットで、発酵ソーセージ、ソムタム、焼き鳥など本格的な地元グルメが楽しめます。",
-        "ko": "현지인들이 즐겨 찾는 야시장으로, 이산 특유의 길거리 음식을 맛볼 수 있습니다."
-      },
-      "type": "market"
+      "activity": "Make Khong Chiam and Pha Taem one deliberate Mekong day",
+      "story": "TAT's Ubon coverage still presents Pha Taem, the Two-Color River, and the wider Khong Chiam side as the province's strongest eastern nature block.",
+      "cultural_significance": "This is the Mekong-facing counterweight to the city, and it earns a full day when the route stays selective.",
+      "how_to_participate": "Leave early, keep the stops edited, and do not stack too many secondary waterfalls and rock formations into the same day.",
+      "insights": [
+        "This is the best outer-city extension.",
+        "One serious Mekong day is stronger than a scattered province checklist."
+      ],
+      "href": "/city/ubon-ratchathani/attractions/khong-jiam-two-color-river/",
+      "cta_label": "See the Mekong-day guide"
+    }
+  ],
+  "foodie_adventures": [
+    {
+      "dish": "Guay jub in dark five-spice broth",
+      "location": "Guay Jub Ubon",
+      "story": "MICHELIN still treats Guay Jub Ubon as a city classic, especially for rice noodles with pork offal in dark five-spice broth.",
+      "where_to_find": "Phrommathep Road, Nai Mueang",
+      "price_range": "Budget",
+      "ordering_tips": [
+        "This is strongest as a daytime city meal, not a late-night fallback.",
+        "Use it early in the city route."
+      ],
+      "href": "/city/ubon-ratchathani/top-10-restaurants/",
+      "cta_label": "See the food guide"
+    },
+    {
+      "dish": "Vietnamese dumplings and fried-egg pak mor",
+      "location": "Pak Mor Robot",
+      "story": "MICHELIN still frames Pak Mor Robot as one of Ubon's defining small-eats stops and a clear expression of the city's Vietnamese-influenced food layer.",
+      "where_to_find": "Benchama Road, Nai Mueang",
+      "price_range": "Budget",
+      "ordering_tips": [
+        "Best as a breakfast or lunch stop.",
+        "Do not bury this under generic cafe recommendations."
+      ],
+      "href": "/city/ubon-ratchathani/top-10-restaurants/",
+      "cta_label": "See the food guide"
+    },
+    {
+      "dish": "Classic Isaan lunch with grilled chicken and river fish",
+      "location": "Krua Samchai",
+      "story": "MICHELIN's current page still uses Krua Samchai as one of the city's most convincing Isaan benchmarks, especially for grilled chicken and spice-heavy fish dishes.",
+      "where_to_find": "Phalochai Road, Nai Mueang",
+      "price_range": "Mid-range",
+      "ordering_tips": [
+        "This is a stronger lunch or early dinner than another generic hotel restaurant.",
+        "Go with company if you want to sample more than one signature dish."
+      ],
+      "href": "/city/ubon-ratchathani/top-10-restaurants/",
+      "cta_label": "See the food guide"
+    },
+    {
+      "dish": "Som tum and deeper Isaan flavors",
+      "location": "Som Tum Jinda and Santi Pochana",
+      "story": "MICHELIN still keeps both Som Tum Jinda and Santi Pochana in play, which gives Ubon a stronger Isaan dinner layer than the old scraped restaurant list ever had.",
+      "where_to_find": "Central Ubon city",
+      "price_range": "Budget to mid-range",
+      "ordering_tips": [
+        "Choose one depending on whether you want a som tum specialist or a broader traditional meal.",
+        "This is the right place to let Ubon taste like Isaan."
+      ],
+      "href": "/city/ubon-ratchathani/top-10-restaurants/",
+      "cta_label": "See the food guide"
+    }
+  ],
+  "local_insights": [
+    "Ubon is stronger as a large Isaan city than as a festival-only destination.",
+    "The museum, Wat Thung Si Mueang, and Wat Phra That Nong Bua should come before any outer Mekong day.",
+    "The candle layer matters even outside the main parade weekend.",
+    "Khong Chiam and Pha Taem belong together as the strongest edited nature extension.",
+    "The food scene is better anchored by current MICHELIN picks than by old review-site rankings."
+  ],
+  "seasonal_secrets": "November to February is the easiest overall fit for Ubon Ratchathani because city walking, temple visits, and the Khong Chiam–Pha Taem drive are all more comfortable. Candle Festival season can be a strong reason to visit in Buddhist Lent if it genuinely matches your calendar, while Sam Phan Bok and other Mekong rock formations are more water-level sensitive and should never be treated as fixed year-round certainties.",
+  "budget_reality": {
+    "budget": "Ubon stays manageable if you keep the stay city-first, use local noodle and small-eats stops well, and do only one proper outer-province day.",
+    "mid_range": "Mid-range spending usually means a better city hotel, a few more deliberate MICHELIN-backed meals, and a private or semi-private Khong Chiam–Pha Taem day.",
+    "luxury": "Higher spend mostly comes from larger city hotels or Mekong-side resort stays rather than from nonstop premium inventory.",
+    "money_saving_tricks": [
+      "Stay in the city if temples, museums, and food are the priority; do not move base unless the Mekong side is the real point.",
+      "Use one edited nature day instead of stacking Sam Phan Bok, Pha Taem, waterfalls, and rock pillars into the same rushed schedule.",
+      "Lean on MICHELIN-backed small eats and lunch stops before paying for bigger hotel dining."
+    ],
+    "hidden_costs": [
+      "Private transport for Khong Chiam and Pha Taem can cost more than the city segment itself.",
+      "Trying to combine too many outer-province stops in one day adds transport cost without adding quality."
+    ]
+  },
+  "top_attractions": [
+    {
+      "rank": 1,
+      "name": "Ubon Ratchathani National Museum and old-center layer",
+      "description": "The best first-stop city layer because it explains Ubon's wider history before any temple, festival, or Mekong-day extension takes over the trip.",
+      "location": "Central Ubon Ratchathani",
+      "entrance_fee": "Museum conditions should be rechecked locally.",
+      "highlights": [
+        "National Museum",
+        "Old-center context",
+        "Best first read of the city"
+      ],
+      "href": "/city/ubon-ratchathani/attractions/ubon-ratchathani-national-museum/",
+      "cta_label": "See the museum guide"
+    },
+    {
+      "rank": 2,
+      "name": "Wat Thung Si Mueang",
+      "description": "The clearest old-center temple in Ubon, especially for the scripture repository and its role in the city's older religious identity.",
+      "location": "Thung Si Mueang side, central Ubon",
+      "entrance_fee": "Temple access is generally straightforward; donations are customary.",
+      "highlights": [
+        "Old-center temple",
+        "Scripture repository",
+        "Useful with the city core"
+      ],
+      "href": "/city/ubon-ratchathani/attractions/wat-thung-si-mueang/",
+      "cta_label": "See the temple guide"
+    },
+    {
+      "rank": 3,
+      "name": "Wat Phra That Nong Bua",
+      "description": "Ubon's strongest larger-format city temple and the best counterweight to the smaller old-center temple layer.",
+      "location": "Nong Bua side, Ubon Ratchathani",
+      "entrance_fee": "Temple access is generally straightforward; donations are customary.",
+      "highlights": [
+        "Large chedi landmark",
+        "Strong city temple pairing",
+        "Useful second sacred stop"
+      ],
+      "href": "/city/ubon-ratchathani/attractions/wat-nong-bua/",
+      "cta_label": "See the Nong Bua guide"
+    },
+    {
+      "rank": 4,
+      "name": "Candle craft and Thung Si Mueang field",
+      "description": "The best way to read Ubon's candle tradition without reducing the city to one parade weekend.",
+      "location": "Thung Si Mueang field and city center",
+      "entrance_fee": "Seasonal setup varies.",
+      "highlights": [
+        "Candle-craft context",
+        "Festival identity",
+        "Best civic-culture layer"
+      ],
+      "href": "/city/ubon-ratchathani/attractions/candle-festival-venue/",
+      "cta_label": "See the candle guide"
+    },
+    {
+      "rank": 5,
+      "name": "Khong Chiam and the Two-Color River",
+      "description": "The cleanest outer-city Mekong extension because the town and the confluence viewpoint help the eastern side of the province make sense as one route.",
+      "location": "Khong Chiam District",
+      "entrance_fee": "Public viewpoint access varies by stop.",
+      "highlights": [
+        "Two-Color River viewpoint",
+        "Khong Chiam town context",
+        "Best Mekong-side extension"
+      ],
+      "href": "/city/ubon-ratchathani/attractions/khong-jiam-two-color-river/",
+      "cta_label": "See the Khong Chiam guide"
+    },
+    {
+      "rank": 6,
+      "name": "Pha Taem National Park",
+      "description": "The strongest serious nature day from Ubon because the cliff paintings, sunrise point, and rock formations give the province one real landscape counterweight to the city.",
+      "location": "Khong Chiam District, Ubon Ratchathani",
+      "entrance_fee": "National-park fees and current conditions should be rechecked locally.",
+      "highlights": [
+        "Prehistoric rock paintings",
+        "Thailand's first sunrise point",
+        "Best full nature day"
+      ],
+      "href": "/city/ubon-ratchathani/attractions/pha-taem-national-park/",
+      "cta_label": "See the Pha Taem guide"
     }
   ],
   "top_restaurants": [
     {
       "rank": 1,
-      "name": "Ricco Caf",
-      "description": "Bar and international cuisine venue with high TripAdvisor rating. Popular with both tourists and locals for quality drinks and food.",
-      "cuisine_type": "Bar, International",
-      "price_range": "150-400 THB ($5-12)",
+      "name": "Guay Jub Ubon",
+      "description": "The clearest first-stop noodle classic in the city if you want Ubon's food identity to start with something genuinely established.",
+      "location": "7 Phrommathep Road, Nai Mueang",
+      "price_range": "Budget",
       "highlights": [
-        "International menu",
-        "Bar service",
-        "4.8 TripAdvisor rating"
-      ]
+        "MICHELIN street-food pick",
+        "Dark five-spice broth",
+        "Best daytime noodle start"
+      ],
+      "href": "/city/ubon-ratchathani/top-10-restaurants/",
+      "cta_label": "See the food guide"
     },
     {
       "rank": 2,
-      "name": "The Outside Inn",
-      "description": "Mexican and bar cuisine restaurant located in a guesthouse setting. Known for quality food and welcoming atmosphere.",
-      "cuisine_type": "Mexican, Bar",
-      "price_range": "200-500 THB ($6-15)",
+      "name": "Pak Mor Robot",
+      "description": "One of the strongest small-eats stops in Ubon because the city still reads clearly through its Vietnamese dumpling tradition.",
+      "location": "82 Benchama Road, Nai Mueang",
+      "price_range": "Budget",
       "highlights": [
-        "Mexican specialties",
-        "Guesthouse location",
-        "4.7 TripAdvisor rating"
-      ]
+        "MICHELIN small-eats pick",
+        "Vietnamese dumplings",
+        "Best breakfast or lunch stop"
+      ],
+      "href": "/city/ubon-ratchathani/top-10-restaurants/",
+      "cta_label": "See the food guide"
     },
     {
       "rank": 3,
-      "name": "Indochine - Ubon Ratchathani",
-      "description": "Asian and Vietnamese cuisine restaurant reflecting Ubon's cross-border influences. Specializes in Vietnamese and Isaan fusion dishes.",
-      "cuisine_type": "Asian, Vietnamese",
-      "price_range": "200-450 THB ($6-14)",
+      "name": "Krua Samchai",
+      "description": "The strongest broader Isaan lunch in town when grilled chicken, river fish, and proper regional cooking matter more than polished generic dining.",
+      "location": "282/1 Phalochai Road, Nai Mueang",
+      "price_range": "Mid-range",
       "highlights": [
-        "Vietnamese-Asian fusion",
-        "Cross-border cuisine",
-        "4.0 TripAdvisor rating"
-      ]
+        "MICHELIN Isaan pick",
+        "Grilled chicken and river fish",
+        "Strong group meal choice"
+      ],
+      "href": "/city/ubon-ratchathani/top-10-restaurants/",
+      "cta_label": "See the food guide"
     },
     {
       "rank": 4,
-      "name": "Peppers Restaurant & Bakery",
-      "description": "Mexican and international cuisine restaurant with bakery offerings. Known for quality coffee, breakfast options, and Western-Thai fusion dishes.",
-      "cuisine_type": "Mexican, International",
-      "price_range": "180-400 THB ($5-12)",
+      "name": "Som Tum Jinda",
+      "description": "A clear Isaan specialist when you want som tum and sharper northeastern flavors to be the center of the meal.",
+      "location": "63/1-2 Phichit Rangsan Road, Nai Mueang",
+      "price_range": "Budget to mid-range",
       "highlights": [
-        "Bakery items",
-        "Breakfast options",
-        "4.4 TripAdvisor rating"
-      ]
+        "MICHELIN Bib Gourmand",
+        "Som tum specialist",
+        "Strong downtown flavor benchmark"
+      ],
+      "href": "/city/ubon-ratchathani/top-10-restaurants/",
+      "cta_label": "See the food guide"
     },
     {
       "rank": 5,
-      "name": "Zaap Soi 9",
-      "description": "Authentic Thai restaurant serving traditional Isaan cuisine. Known for genuine local flavors and reasonable prices.",
-      "cuisine_type": "Thai",
-      "price_range": "100-300 THB ($3-9)",
+      "name": "Santi Pochana",
+      "description": "A stronger traditional city meal when you want to go beyond noodles and papaya salad without leaving Ubon's local cooking territory.",
+      "location": "101-107 Chawala Nok Road, Nai Mueang",
+      "price_range": "Mid-range",
       "highlights": [
-        "Isaan specialties",
-        "Local favorite",
-        "4.1 TripAdvisor rating"
-      ]
+        "MICHELIN-recognized city staple",
+        "Broader traditional menu",
+        "Useful dinner counterweight"
+      ],
+      "href": "/city/ubon-ratchathani/top-10-restaurants/",
+      "cta_label": "See the food guide"
     },
     {
       "rank": 6,
-      "name": "Kai Yang Wat Jaeng",
-      "description": "Famous grilled chicken specialist marinating chicken in lemongrass and garlic, slow-grilled over charcoal. Served with sticky rice and jaew dipping sauce.",
-      "cuisine_type": "Isaan Grilled Chicken",
-      "price_range": "60-150 THB ($2-5)",
+      "name": "Chomjan",
+      "description": "The best river-facing dinner inclusion when you want one more polished meal without abandoning local fish and Thai-Isaan context.",
+      "location": "119/1 Mu 8, Niwatwithi Road, Kham Nam Saep, Warin Chamrap",
+      "price_range": "Mid-range",
       "highlights": [
-        "Charcoal-grilled specialty",
-        "Authentic preparation",
-        "Local legend"
-      ]
+        "MICHELIN Thai pick",
+        "Mun River setting",
+        "Good sunset-side dinner option"
+      ],
+      "href": "/city/ubon-ratchathani/top-10-restaurants/",
+      "cta_label": "See the food guide"
     }
   ],
   "top_hotels": [
     {
       "rank": 1,
-      "name": "Yuu Hotel & Cafe",
-      "description": "Mid-range hotel with stylish rooms and integrated cafe. Offers good balance of comfort and value with modern amenities.",
-      "price_range": "$74/night",
-      "category": "midrange",
+      "name": "HOP INN Ubon Ratchathani",
+      "description": "The most predictable budget-city base if you want a clean room and a straightforward short Ubon stay without turning the hotel into the headline.",
+      "price_range": "Budget",
+      "category": "budget",
+      "area": "Chaeramae / city-center side",
       "highlights": [
-        "Integrated cafe",
-        "4.5 TripAdvisor rating",
-        "Modern style"
+        "Official hotel page",
+        "Near city center",
+        "Straightforward budget format"
       ]
     },
     {
       "rank": 2,
-      "name": "Centara Ubon",
-      "description": "Established mid-range hotel offering reliable comfort and service. Good location with standard amenities for touring the city.",
-      "price_range": "$42/night",
-      "category": "midrange",
+      "name": "B2 Ubon Premier Hotel",
+      "description": "A practical city hotel when parking, easy road access, and a predictable modern room matter more than boutique character.",
+      "price_range": "Budget to mid-range",
+      "category": "budget",
+      "area": "Mueang Road, Nai Mueang",
       "highlights": [
-        "4.5 TripAdvisor rating",
-        "Reliable service",
-        "Central location"
+        "Official hotel page",
+        "Free Wi-Fi on the direct site",
+        "Useful road-side city base"
       ]
     },
     {
       "rank": 3,
-      "name": "The Bliss Ubon",
-      "description": "Budget-friendly hotel with high guest satisfaction. Offers clean, comfortable rooms at excellent value.",
-      "price_range": "$24/night",
-      "category": "budget",
+      "name": "Centara Ubon",
+      "description": "The strongest larger-format city stay if you want a more polished hotel with airport and shopping convenience on the southern Isaan city side.",
+      "price_range": "Mid-range to upper mid-range",
+      "category": "midrange",
+      "area": "Central Ubon / airport-access side",
       "highlights": [
-        "4.7 TripAdvisor rating",
-        "Great value",
-        "Comfortable rooms"
+        "Official Centara source",
+        "Near Central Ubon",
+        "Airport-convenient full-service option"
       ]
     },
     {
       "rank": 4,
-      "name": "Rapeepan Ville Hotel",
-      "description": "Mid-range hotel offering comfortable accommodation with decent amenities. Well-regarded by guests for service and cleanliness.",
-      "price_range": "$22/night",
-      "category": "budget",
+      "name": "Tohsang Heritage Khongjiam",
+      "description": "The best Mekong-side overnight when the Khong Chiam and Pha Taem day is central enough to justify sleeping on the river side instead of in the city.",
+      "price_range": "Mid-range to upper mid-range",
+      "category": "resort",
+      "area": "Khong Chiam / Mekong side",
       "highlights": [
-        "4.5 TripAdvisor rating",
-        "Good value",
-        "Clean rooms"
-      ]
-    },
-    {
-      "rank": 5,
-      "name": "Eco Inn Ubon Ratchathani",
-      "description": "Budget eco-conscious accommodation offering basic but quality rooms. Environmentally-minded option for budget travelers.",
-      "price_range": "$14/night",
-      "category": "budget",
-      "highlights": [
-        "4.2 TripAdvisor rating",
-        "Eco-friendly",
-        "Very affordable"
+        "Official property source",
+        "Mekong River outlook",
+        "Best for a Khong Chiam base"
       ]
     }
   ],
   "travel_tips": [
-    {
-      "title": {
-        "en": "Timing Sam Phan Bok",
-        "nl": "Timing Sam Phan Bok",
-        "ja": "サムパンボークのタイミング"
-      },
-      "content": {
-        "en": "Sam Phan Bok is only visible when the Mekong water level is low — visit between December and May. The rock formations are most spectacular in January-March. During rainy season (June-November), the site is completely submerged.",
-        "nl": "Sam Phan Bok is alleen zichtbaar als het waterpeil van de Mekong laag is — bezoek tussen december en mei. De rotsformaties zijn het meest spectaculair in januari-maart. Tijdens het regenseizoen (juni-november) staat de locatie volledig onder water.",
-        "ja": "サムパンボークはメコン川の水位が低い時のみ見られます。12月〜5月に訪れましょう。6月〜11月は水没しており見学できません。"
-      }
-    },
-    {
-      "title": {
-        "en": "Candle Festival Dates",
-        "nl": "Kaarsen Festival Data",
-        "ja": "ろうそく祭りの日程"
-      },
-      "content": {
-        "en": "The Candle Festival falls on Asanha Bucha Day in July (exact date varies yearly by lunar calendar). Book accommodation well in advance — the city fills up completely. The parade typically runs along Upparat Road in the morning.",
-        "nl": "Het Kaarsenfestival valt op Asanha Bucha Dag in juli (exacte datum verschilt jaarlijks volgens de maankalender). Boek accommodatie ruim van tevoren — de stad zit helemaal vol. De optocht loopt doorgaans langs Upparat Road in de ochtend.",
-        "ja": "ろうそく祭りは7月のアーサーラハブーチャの日に開催されます（毎年日付が変わるため要確認）。巨大なろうそく彫刻のパレードは圧巻です。"
-      }
-    },
-    {
-      "title": {
-        "en": "Rent a Car for the Parks",
-        "nl": "Huur een Auto voor de Parken",
-        "ja": "国立公園にはレンタカーを"
-      },
-      "content": {
-        "en": "Pha Taem and Sam Phan Bok are 70-100 km from the city with limited public transport. Rent a car (800-1,200 THB/day) or hire a driver through your hotel. The roads are good but the distances require a full day for each site.",
-        "nl": "Pha Taem en Sam Phan Bok liggen 70-100 km van de stad met beperkt openbaar vervoer. Huur een auto (800-1.200 THB/dag) of huur een chauffeur via je hotel. De wegen zijn goed maar de afstanden vereisen een hele dag per locatie.",
-        "ja": "パーテムやサムパンボークは市内から70〜100km離れており、公共交通が限られています。レンタカーかチャーターでの訪問がおすすめです。"
-      }
-    },
-    {
-      "title": {
-        "en": "Eat Like Isaan",
-        "nl": "Eet als Isaan",
-        "ja": "イサーン流の食事を楽しもう"
-      },
-      "content": {
-        "en": "Embrace the local eating style: sticky rice eaten with your fingers, shared plates of larb and som tam, and liberal use of fermented fish sauce (pla ra). The flavors are more intense than tourist-area Thai food. Ask for 'pet nit noy' (a little spicy) if you're cautious.",
-        "nl": "Omarm de lokale eetstijl: kleefrijst gegeten met je vingers, gedeelde borden larb en som tam, en rijkelijk gebruik van gefermenteerde vissaus (pla ra). De smaken zijn intenser dan Thais eten in toeristische gebieden. Vraag om 'pet nit noy' (een beetje pittig) als je voorzichtig bent.",
-        "ja": "地元の食事スタイルを体験しましょう。もち米を手で食べ、おかずをシェアし、辛いソムタムやラープに挑戦してみてください。"
-      }
-    },
-    {
-      "title": {
-        "en": "Border Crossing to Laos",
-        "nl": "Grensovergang naar Laos",
-        "ja": "ラオスへの国境越え"
-      },
-      "content": {
-        "en": "The Chong Mek border crossing to Laos (Pakse) is about 90 km from Ubon. Laos visa on arrival is available for most nationalities. You can combine Ubon with a trip to Laos's 4000 Islands or Wat Phou temple complex.",
-        "nl": "De Chong Mek grensovergang naar Laos (Pakse) ligt ongeveer 90 km van Ubon. Visum bij aankomst in Laos is beschikbaar voor de meeste nationaliteiten. Je kunt Ubon combineren met een trip naar Laos's 4000 Eilanden of het Wat Phou tempelcomplex.",
-        "ja": "チョンメック国境（ラオスのパークセー）はウボンから約90kmです。ラオスのビザはイミグレーションで取得可能で、パークセーやワット・プーへの日帰り旅行ができます。"
-      }
-    }
+    "Do the city first. Ubon gets weaker when museum, temples, and food are postponed until after the outer district day.",
+    "Keep the candle tradition as a city layer even if you are not visiting during the main festival.",
+    "Use Khong Chiam and Pha Taem as one edited Mekong day rather than stacking every rock formation and waterfall in the province.",
+    "Let MICHELIN's small-eats and Isaan picks guide the food layer instead of generic review-site rankings.",
+    "If river levels matter to a Sam Phan Bok add-on, recheck current local conditions before committing."
   ],
-  "best_time_to_visit": {
-    "en": "November to February offers cool, dry weather ideal for outdoor exploration. December to May is essential for Sam Phan Bok when the Mekong water level drops. July brings the spectacular Candle Festival. Avoid September-October when monsoon rains can make park roads difficult.",
-    "nl": "November tot februari biedt koel, droog weer ideaal voor buiten verkennen. December tot mei is essentieel voor Sam Phan Bok wanneer het Mekong waterpeil daalt. Juli brengt het spectaculaire Kaarsenfestival. Vermijd september-oktober wanneer moessonregens parkwegen moeilijk begaanbaar kunnen maken.",
-    "ja": "11月〜2月が涼しく乾燥した天候で、アウトドア観光に最適です。12月〜5月はサムパンボークが見られる時期。7月のろうそく祭りも必見です。"
-  },
+  "best_time_to_visit": "November to February is the easiest season for Ubon Ratchathani because city walking, temple visits, and the drive to Khong Chiam and Pha Taem are all more comfortable. Festival timing can be a bonus in Buddhist Lent, but it should be treated as a real calendar-dependent event rather than as a permanent background claim.",
+  "bestTimeToVisit": "November to February is the safest all-round fit for Ubon. The city works year-round, but the outer Mekong day and any water-level-sensitive rock formations are easier to plan in the cooler months.",
   "budget_info": {
-    "budget_per_day": {
-      "en": "$15-25",
-      "nl": "$15-25",
-      "ja": "1日1,500〜2,500円"
-    },
-    "midrange_per_day": {
-      "en": "$35-60",
-      "nl": "$35-60",
-      "ja": "1日3,500〜6,000円"
-    },
-    "luxury_per_day": {
-      "en": "$80+",
-      "nl": "$80+",
-      "ja": "1日8,000円以上"
-    }
+    "budget_per_day": "Budget",
+    "midrange_per_day": "Mid-range",
+    "luxury_per_day": "Higher-spend"
   },
-  "overview": "Ubon Ratchathani, located in Thailand's Isaan region along the Mekong River, is a hidden gem that rivals more famous Thai destinations with its unique cultural attractions and natural wonders. The city of 190,000 people is most famous for its spectacular Candle Festival held each July, where massive wax sculptures parade through the streets accompanied by traditional Mor lam music. Beyond the festival, Ubon offers breathtaking natural attractions like Sam Phan Bok (the \"Grand Canyon of Thailand\"), prehistoric cliff paintings at Pha Taem National Park, and the scenic confluence of two rivers at Khong Jiam, making it an ideal destination for travelers seeking authentic Isaan experiences away from Bangkok's crowds.",
-  "thingsToDo": "Ubon Ratchathani offers diverse attractions spanning natural wonders and cultural experiences. The Candle Festival (held annually in July) is the city's signature event, featuring massive wax sculpture parades and traditional Mor lam music at Wat Thung Si Muang (free admission). Sam Phan Bok, located 75 km east in Khong Jiam District, showcases hundreds of rocky depressions filled with turquoise water (entrance 200 THB/$6, accessible December-May only). Pha Taem National Park (80 km east) features 3,500-year-old prehistoric cliff paintings and scenic Mekong River viewpoints (entrance 200 THB/$6). The village of Khong Jiam at the confluence of the Mun and Mekong rivers offers sunset views and serves as a base for exploring eastern attractions (free access). Wat Nong Pa Phong forest monastery provides meditation and monastic experiences (free admission). Evening exploration of the Ubon Night Market near the bus station offers authentic Isaan street food and local culture at very low cost (pay-per-item from 20-100 THB). Most attractions require either rental transportation or organized day trips.",
-  "whereToStay": "Ubon Ratchathani offers accommodation across all budgets, with most options concentrated in the city center near Thung Si Muang Park. Budget travelers can find comfortable guesthouses and basic hotels for $13-25 per night, offering clean rooms with essential amenities. Mid-range hotels ($30-70/night) provide better comfort, air conditioning, and often include breakfast, making them excellent value for money. These properties are typically located in the central business district within walking distance of restaurants and the night market. For luxury seekers, higher-end hotels and resorts offer superior service, often with pools and fine dining facilities, though Ubon's luxury options remain significantly cheaper than Bangkok properties. Many accommodations are within 15 minutes of Ubon Ratchathani Airport by car, and hotel staff can arrange transportation upon request.",
+  "thingsToDo": "Start with the museum and old-center layer, add Wat Thung Si Mueang and Wat Phra That Nong Bua, use one food-heavy city evening, then commit one full day to Khong Chiam and Pha Taem if you want the strongest outer extension.",
+  "whereToStay": "Stay in the city if temples, museums, food, and the candle layer are the real priority. Move to Khong Chiam only if the Mekong-side overnight is central enough to justify leaving the city base behind.",
   "whereToEat": [
     {
-      "name": "Ricco Caf",
-      "cuisine": "Bar, International",
-      "priceRange": "$$",
-      "description": "High-quality international cuisine and bar service. Highly rated (4.8 TripAdvisor) for drinks and food offerings."
+      "name": "Guay Jub Ubon",
+      "cuisine": "Street food noodles",
+      "priceRange": "Budget",
+      "description": "A classic guay jub bowl in dark five-spice broth."
     },
     {
-      "name": "The Outside Inn",
-      "cuisine": "Mexican, Bar",
-      "priceRange": "$$",
-      "description": "Mexican specialties and bar service in a welcoming guesthouse setting. Rated 4.7 on TripAdvisor for quality and atmosphere."
+      "name": "Pak Mor Robot",
+      "cuisine": "Small eats and Vietnamese dumplings",
+      "priceRange": "Budget",
+      "description": "A city classic for Vietnamese-influenced dumplings."
     },
     {
-      "name": "Indochine - Ubon Ratchathani",
-      "cuisine": "Asian, Vietnamese",
-      "priceRange": "$$",
-      "description": "Vietnamese and Asian fusion cuisine reflecting Ubon's cross-border influences. Contemporary dining experience rated 4.0 TripAdvisor."
+      "name": "Krua Samchai",
+      "cuisine": "Isaan",
+      "priceRange": "Mid-range",
+      "description": "A stronger broader Isaan lunch and early-dinner stop."
     },
     {
-      "name": "Peppers Restaurant & Bakery",
-      "cuisine": "Mexican, International",
-      "priceRange": "$$",
-      "description": "Mexican and international cuisine with bakery items. Known for quality coffee and Western-Thai fusion dishes. Rated 4.4 TripAdvisor."
+      "name": "Som Tum Jinda",
+      "cuisine": "Isaan",
+      "priceRange": "Budget to mid-range",
+      "description": "A specialist in som tum and sharper northeastern flavors."
     },
     {
-      "name": "Zaap Soi 9",
-      "cuisine": "Thai",
-      "priceRange": "$",
-      "description": "Authentic Thai Isaan cuisine at reasonable prices. Local favorite rated 4.1 on TripAdvisor for genuine flavors."
-    },
-    {
-      "name": "Kai Yang Wat Jaeng",
-      "cuisine": "Isaan Grilled Chicken",
-      "priceRange": "$",
-      "description": "Legendary grilled chicken specialist marinated in lemongrass and garlic, slow-grilled over charcoal. Served with sticky rice and jaew sauce for 60-80 THB per half chicken."
+      "name": "Chomjan",
+      "cuisine": "Thai and Isaan",
+      "priceRange": "Mid-range",
+      "description": "A river-facing dinner choice with local fish and broader menu depth."
     }
   ],
   "topHotels": [
     {
-      "name": "The Bliss Ubon",
+      "name": "HOP INN Ubon Ratchathani",
       "category": "budget",
-      "priceRange": "$24/night (approximately 800 THB)",
-      "area": "City Center",
-      "description": "Budget-friendly option with excellent TripAdvisor rating (4.7). Clean, comfortable rooms at great value with good access to attractions."
+      "priceRange": "Budget",
+      "area": "Chaeramae / city-center side",
+      "description": "A predictable budget chain close to the city center."
     },
     {
-      "name": "Eco Inn Ubon Ratchathani",
+      "name": "B2 Ubon Premier Hotel",
       "category": "budget",
-      "priceRange": "$14/night (approximately 465 THB)",
-      "area": "Central",
-      "description": "Economy eco-conscious accommodation offering basic quality rooms. Most affordable option with 4.2 TripAdvisor rating."
-    },
-    {
-      "name": "Rapeepan Ville Hotel",
-      "category": "budget",
-      "priceRange": "$22/night (approximately 730 THB)",
-      "area": "City Center",
-      "description": "Budget hotel with 4.5 TripAdvisor rating. Clean rooms and reliable service at economical rates."
+      "priceRange": "Budget to mid-range",
+      "area": "Nai Mueang",
+      "description": "A practical city base with parking and direct-site clarity."
     },
     {
       "name": "Centara Ubon",
       "category": "midrange",
-      "priceRange": "$42/night (approximately 1,400 THB)",
-      "area": "City Center",
-      "description": "Established mid-range hotel with 4.5 TripAdvisor rating. Offers comfortable rooms with good amenities and reliable service."
+      "priceRange": "Mid-range to upper mid-range",
+      "area": "Central Ubon / airport-access side",
+      "description": "A more polished full-service city hotel."
     },
     {
-      "name": "Yuu Hotel & Cafe",
-      "category": "midrange",
-      "priceRange": "$74/night (approximately 2,460 THB)",
-      "area": "City Center",
-      "description": "Modern mid-range hotel with integrated cafe (4.5 TripAdvisor rating). Stylish rooms and contemporary amenities."
-    },
-    {
-      "name": "Tohsang Khongjiam Resort",
-      "category": "luxury",
-      "priceRange": "$120-200/night (approximately 4,000-6,700 THB)",
-      "area": "Khong Jiam",
-      "description": "Riverside luxury resort at the confluence of Mun and Mekong rivers, 75 km from city. Traditional Isaan architecture with stunning river views. Perfect base for visiting Pha Taem and Sam Phan Bok."
-    },
-    {
-      "name": "V Hotel Ubon",
-      "category": "midrange",
-      "priceRange": "$50-80/night (approximately 1,670-2,670 THB)",
-      "area": "Near Airport",
-      "description": "Modern mid-range hotel convenient to airport. Stylish rooms, good breakfast, and helpful staff arranging national park tours."
-    },
-    {
-      "name": "Sunee Grand Hotel",
-      "category": "midrange",
-      "priceRange": "$60-100/night (approximately 2,000-3,350 THB)",
-      "area": "City Center",
-      "description": "Best city center hotel with modern rooms, rooftop pool, fitness center, and restaurant. Popular with business travelers and well-located for exploring temples."
+      "name": "Tohsang Heritage Khongjiam",
+      "category": "resort",
+      "priceRange": "Mid-range to upper mid-range",
+      "area": "Khong Chiam",
+      "description": "A Mekong-side resort stay when the outer day becomes an overnight."
     }
   ],
-  "gettingAround": "Ubon Ratchathani is relatively compact for city exploration. Tuk-tuks are the most common local transport, with fares typically 30-50 THB ($1-1.50) for most trips within the city. Songthaews (shared minibuses) operate on fixed routes at 10-20 THB ($0.30-0.60) per journey. Grab operates in Ubon and offers fixed-price rides, typically 200-300 THB ($6-9) from airport to city center. For day trips to Sam Phan Bok, Pha Taem National Park, and Khong Jiam (75-80 km east), renting a car (600-800 THB/$18-24 per day) or hiring Grab transportation is recommended. Motorbike rental is available at numerous shops for 150-250 THB ($5-8) per day, suitable for confident riders. Bicycles can be rented from guesthouses for city exploration at 50-100 THB ($1.50-3) daily.",
-  "bestTimeToVisit": "Ubon Ratchathani's best visiting period is November through February, when temperatures range from 15-30°C (59-86°F) and humidity is lowest. This is the cool and dry season when exploring natural attractions like Sam Phan Bok is most pleasant. The Candle Festival in July is Ubon's signature event, attracting thousands of visitors for massive wax sculpture parades and traditional celebrations, though July falls in the monsoon season with high humidity and occasional rain. If visiting specifically for Sam Phan Bok, timing is crucial—the site is only accessible from December through May when water levels are low enough to reveal the distinctive rock formations. March through May becomes increasingly hot and uncomfortable, with temperatures exceeding 35°C (95°F). Avoid September through October due to heavy monsoon rains that can make road travel difficult and reduce visibility at natural sites.",
-  "budgetGuide": {
-    "budget": {
-      "min": 800,
-      "max": 1300,
-      "description": "Budget daily costs in THB include basic guesthouses (400-650 THB/night), street food and night market meals (60-150 THB/meal), local transport via tuk-tuk and songthaew (30-60 THB), and free or low-cost attractions. National park entrance fees are 200 THB maximum, and many temples are free. Realistic daily total: 800-1,300 THB ($24-40)."
-    },
-    "midrange": {
-      "min": 1650,
-      "max": 3350,
-      "description": "Mid-range daily costs in THB cover 3-star hotels (1,150-2,330 THB/night), restaurant meals (165-330 THB per meal), car rental for day trips (1,330-2,000 THB/day), and paid attractions including museums and national parks (100-330 THB each). Realistic daily total: 1,650-3,350 THB ($50-100)."
-    },
-    "luxury": {
-      "min": 5000,
-      "max": 13350,
-      "description": "Luxury daily costs in THB include upscale hotels (4,000-6,700 THB/night), fine dining (830-1,670 THB+ per meal), private car hire with driver (2,660-4,000 THB/day), spa treatments (1,000-2,000 THB), and exclusive tours to natural attractions. Realistic daily total: 5,000-13,350 THB ($150-400)."
-    }
-  },
-  "safetyTips": {
-    "en": "Ubon Ratchathani is generally a safe destination for travelers with low crime rates against tourists. Standard precautions apply: avoid displaying expensive jewelry or electronics, be cautious with valuables in crowded night markets, and use trusted taxis or Grab rather than hailing unmarked vehicles. Road safety is a consideration — if renting a motorbike, wear helmets (required by law) and drive defensively as local traffic can be chaotic. Petty theft occurs occasionally in crowded areas, so keep bags secure and valuables in hotel safes. The Mekong River and waterfalls are popular attractions but respect warning signs; drownings have occurred at unsafe locations. Waterfall areas such as Soi Sawan are extremely slippery — injuries are common, so wear proper footwear and exercise caution on wet rocks. Typhoon season (typically September-November) can bring extreme weather originating from the Philippines and Vietnam, causing sudden heavy rain, flooding, and dangerous conditions at outdoor attractions. Watch out for wasp nests along rural roads and trails near the national parks — they can be aggressive if disturbed. When visiting temples, dress respectfully with covered shoulders and knees. Tap water is generally not recommended for drinking; purchase bottled water instead. Ubon remains one of Thailand's safer cities with minimal gang activity or serious crime affecting tourists.",
-    "nl": "Ubon Ratchathani is over het algemeen een veilige bestemming voor reizigers met lage criminaliteitscijfers tegen toeristen. Standaard voorzorgsmaatregelen gelden: vermijd het tonen van dure sieraden of elektronica, wees voorzichtig met waardevolle spullen op drukke nachtmarkten en gebruik betrouwbare taxi's of Grab in plaats van ongemarkeerde voertuigen aan te houden. Verkeersveiligheid is een aandachtspunt — als je een scooter huurt, draag dan een helm (wettelijk verplicht) en rij defensief want het lokale verkeer kan chaotisch zijn. Kleine diefstal komt af en toe voor op drukke plekken, dus houd tassen veilig en berg waardevolle spullen op in hotelkluizen. De Mekong en watervallen zijn populaire attracties maar respecteer waarschuwingsborden; verdrinkingen zijn voorgekomen op onveilige locaties. Watervalgebieden zoals Soi Sawan zijn extreem glad — verwondingen komen veel voor, dus draag goed schoeisel en wees voorzichtig op natte rotsen. Het tyfoonseizoen (doorgaans september-november) kan extreem weer brengen afkomstig uit de Filipijnen en Vietnam, met plotselinge hevige regenval, overstromingen en gevaarlijke omstandigheden bij buitenattracties. Let op wespennesten langs landelijke wegen en paden nabij de nationale parken — ze kunnen agressief zijn als ze gestoord worden. Kleed je respectvol bij tempelbezoek met bedekte schouders en knieën. Kraanwater wordt over het algemeen niet aanbevolen om te drinken; koop flessenwater. Ubon blijft een van de veiligste steden van Thailand met minimale bende-activiteit of ernstige criminaliteit die toeristen treft.",
-    "ja": "ウボンラーチャターニーは犯罪率が低く、旅行者にとって一般的に安全な街です。一般的な注意を払えば問題なく過ごせます。夜間の一人歩きも比較的安全です。",
-    "ko": "우본랏차타니는 대체로 안전한 도시입니다. 삼판복과 파탬 국립공원 방문 시 절벽 가장자리에 주의하세요. 우기에는 메콩강 수위가 높아져 일부 명소가 침수될 수 있습니다. 오토바이 운전 시 헬멧을 착용하세요."
-  },
+  "gettingAround": "The city core is manageable by short local rides once you are near the museum and Wat Thung Si Mueang side. Wat Phra That Nong Bua is a separate urban leg, and Khong Chiam plus Pha Taem should be treated as a proper out-of-town day with dedicated transport.",
+  "safetyTips": "Ubon itself is straightforward, but the usual common-sense care still applies in markets and temple grounds. For the Mekong day, do not rely on old static assumptions about water levels, route conditions, or daylight timing around viewpoints and rock formations.",
   "faq": [
     {
-      "question": "When is the Candle Festival and how do I attend?",
-      "answer": "The Ubon Ratchathani Candle Festival is held annually in July, typically in the second week. The festival features giant wax sculptures parading through the city with traditional Mor lam music performances at Wat Thung Si Muang (free admission to park viewing areas). Entrance to viewing areas is free, though booking accommodations in advance is strongly recommended due to high demand during festival week."
+      "question": "Is Ubon Ratchathani worth visiting outside Candle Festival season?",
+      "answer": "Yes. The city has enough weight through its museum, temples, food scene, and one strong Mekong-side day even without the main festival weekend."
     },
     {
-      "question": "Is Sam Phan Bok accessible year-round?",
-      "answer": "No, Sam Phan Bok is only accessible from December through May when water levels are low enough to reveal the distinctive rock formations and turquoise pools. The site is located 75 km east in Khong Jiam District with entrance fee of 200 THB ($6). Visiting during monsoon season (June-October) is not recommended as heavy rainfall makes the site inaccessible and dangerous. Plan your visit accordingly."
+      "question": "What should you do first in Ubon Ratchathani?",
+      "answer": "Start with the national museum and old-center layer, then move into Wat Thung Si Mueang and the city food circuit before deciding on the outer day."
     },
     {
-      "question": "How do I get from Ubon Ratchathani Airport to the city center?",
-      "answer": "Ubon Ratchathani Airport is located approximately 20 kilometers south of the city center (25-30 minute drive). Car rental companies operate at the airport (book ahead online for better rates). Alternatively, arrange hotel pickup in advance, or use Grab for a fixed-price ride (typically 200-300 THB/$6-9). No public bus service operates from the airport directly to city center."
+      "question": "Is Pha Taem worth doing from Ubon city?",
+      "answer": "Yes, especially when paired with Khong Chiam as one deliberate Mekong day. It is the strongest outer-city extension if you keep the route selective."
     },
     {
-      "question": "What is the best time to visit Ubon Ratchathani?",
-      "answer": "The best visiting period is November through February when temperatures range from 15-30°C (59-86°F) with lowest humidity. This cool and dry season is ideal for exploring natural attractions like Sam Phan Bok and Pha Taem National Park. The Candle Festival in July attracts thousands of visitors but occurs during monsoon season with high humidity. For Sam Phan Bok specifically, visit December through May only when water levels reveal the rock formations. Avoid September through October due to heavy monsoon rains."
+      "question": "Should you stay in the city or in Khong Chiam?",
+      "answer": "Stay in the city if Ubon's temples, food, and museum matter most. Stay in Khong Chiam only if the Mekong-side overnight is the actual point of that part of the trip."
+    },
+    {
+      "question": "What food should you prioritize in Ubon?",
+      "answer": "Prioritize guay jub, Vietnamese dumplings, proper Isaan lunch dishes, som tum, and one stronger Thai-Isaan dinner backed by MICHELIN's current Ubon selection."
     }
   ],
   "practicalInfo": {
@@ -539,275 +582,141 @@
       "Jan",
       "Feb"
     ],
-    "nearestAirport": "Ubon Ratchathani Airport (UBP)",
-    "travelTimeFromAirport": "25-30 minutes by car to city center (approximately 20 km)",
+    "nearestAirport": "Ubon Ratchathani Airport",
+    "travelTimeFromAirport": "Airport timing varies by hotel area, but the city and airport are close enough for a practical urban base.",
     "localTransport": [
-      "Tuk-tuk",
-      "Songthaew",
-      "Grab",
-      "Motorbike rental",
-      "Car rental"
-    ]
+      "Short local rides work best in the city center.",
+      "Walking is useful once you are inside the museum and old-center zone.",
+      "Private transport is the practical fit for Khong Chiam and Pha Taem.",
+      "Treat outer-province nature routes as a full-day transport block."
+    ],
+    "arrival": "Ubon Ratchathani remains one of the easier Isaan cities to use as a real urban base because the airport and city are closely linked.",
+    "transport": "Separate city time from the outer Mekong day instead of blending them into one long rushed loop.",
+    "planning": "Think in three layers: city heritage first, food and candle identity second, then one selective Mekong nature day."
   },
   "contentSources": [
     {
-      "type": "video",
-      "title": "Mekong Adventure Episode 7: Mukdahan to Ubon (Finale)",
-      "creator": "Paddy Doyle - Live Love Thailand",
-      "url": "https://www.youtube.com/watch?v=f3y4nb4zwfA",
-      "description": "The finale of the Mekong series: Pha Taem National Park with prehistoric paintings, waterfalls, and the Two-Color River Point where the Mekong meets the Mun River."
+      "type": "province",
+      "title": "Ubon Ratchathani Province Page",
+      "creator": "Tourism Authority of Thailand",
+      "url": "https://www.tourismthailand.org/Destinations/Provinces/ubon-ratchathani/587",
+      "description": "Used for the province framing, Candle Festival positioning, Pha Taem, Sam Pan Boak, and the broader Ubon city-versus-Mekong structure."
+    },
+    {
+      "type": "museum",
+      "title": "Ubon Ratchathani National Museum",
+      "creator": "Fine Arts Department",
+      "url": "https://finearts.go.th/ubonmuseum",
+      "description": "Used as the official reference for the museum and city-history layer."
+    },
+    {
+      "type": "travel-guide",
+      "title": "Mekong, A River for Indochina",
+      "creator": "Tourism Authority of Thailand / Tourism Product",
+      "url": "https://tourismproduct.tourismthailand.org/wp-content/uploads/2023/01/ASEAN-HT_3_Mekong_Online-Spread144.pdf",
+      "description": "Used for Wat Thung Si Mueang, Wat Supattanaram, and the wider temple-city framing."
+    },
+    {
+      "type": "nature",
+      "title": "Pha Taem National Park",
+      "creator": "Tourism Product Division, Tourism Authority of Thailand",
+      "url": "https://tourismproduct.tourismthailand.org/en/2025/06/20/%E0%B8%AD%E0%B8%B8%E0%B8%97%E0%B8%A2%E0%B8%B2%E0%B8%99%E0%B9%81%E0%B8%AB%E0%B9%88%E0%B8%87%E0%B8%8A%E0%B8%B2%E0%B8%95%E0%B8%B4%E0%B8%9C%E0%B8%B2%E0%B9%81%E0%B8%95%E0%B9%89%E0%B8%A1-2/",
+      "description": "Used for the current park-level framing around prehistoric paintings, sunrise points, and geological features."
+    },
+    {
+      "type": "travel-guide",
+      "title": "Explore the E-Sarn region with a memorable trip to Ubon Ratchathani",
+      "creator": "Tourism Product Division, Tourism Authority of Thailand",
+      "url": "https://tourismproduct.tourismthailand.org/en/2023/01/27/explore-the-e-sarn-region-with-a-memorable-trip-to-ubon-ratchathani/",
+      "description": "Used for Sam Pan Bok and the edited Mekong-side route framing."
+    },
+    {
+      "type": "travel-guide",
+      "title": "5 Inspiring Destinations, Highlight Attractions, and Must-Do Activities",
+      "creator": "Tourism Product Division, Tourism Authority of Thailand",
+      "url": "https://tourismproduct.tourismthailand.org/en/2024/07/02/5-%E0%B8%AA%E0%B8%96%E0%B8%B2%E0%B8%99%E0%B8%97%E0%B8%B5%E0%B9%88%E0%B9%80%E0%B8%97%E0%B8%B5%E0%B9%88%E0%B8%A2%E0%B8%A7%E0%B9%81%E0%B8%99%E0%B8%A7%E0%B8%84%E0%B8%B4%E0%B8%94%E0%B8%94%E0%B8%B5-2-2/",
+      "description": "Used for the stronger Khong Chiam-side district framing beyond Pha Taem alone."
+    },
+    {
+      "type": "restaurant",
+      "title": "Guay Jub Ubon",
+      "creator": "MICHELIN Guide",
+      "url": "https://guide.michelin.com/us/en/ubon-ratchathani-province/ubon-ratchathani/restaurant/guay-jub-ubon",
+      "description": "Used for the city's classic guay jub noodle anchor."
+    },
+    {
+      "type": "restaurant",
+      "title": "Pak Mor Robot",
+      "creator": "MICHELIN Guide",
+      "url": "https://guide.michelin.com/en/ubon-ratchathani-province/ubon-ratchathani/restaurant/pak-mor-robot",
+      "description": "Used for the Vietnamese dumpling and small-eats layer."
+    },
+    {
+      "type": "restaurant",
+      "title": "Krua Samchai",
+      "creator": "MICHELIN Guide",
+      "url": "https://guide.michelin.com/us/en/ubon-ratchathani-province/ubon-ratchathani/restaurant/krua-samchai",
+      "description": "Used for the core Isaan lunch and grilled-chicken layer."
+    },
+    {
+      "type": "restaurant",
+      "title": "Som Tum Jinda",
+      "creator": "MICHELIN Guide",
+      "url": "https://guide.michelin.com/us/en/ubon-ratchathani-province/ubon-ratchathani/restaurant/som-tum-jinda",
+      "description": "Used for the som tum specialist and Bib Gourmand layer."
+    },
+    {
+      "type": "restaurant",
+      "title": "Santi Pochana",
+      "creator": "MICHELIN Guide",
+      "url": "https://guide.michelin.com/us/en/ubon-ratchathani-province/ubon-ratchathani/restaurant/santi-pochana",
+      "description": "Used for the broader traditional city-meal layer."
+    },
+    {
+      "type": "restaurant",
+      "title": "Chomjan",
+      "creator": "MICHELIN Guide",
+      "url": "https://guide.michelin.com/us/en/ubon-ratchathani-province/ubon-ratchathani/restaurant/chomjan",
+      "description": "Used for the Mun River dinner layer."
+    },
+    {
+      "type": "airport",
+      "title": "Ubon Airport Traffic and Official Airport Network Reference",
+      "creator": "Department of Airports",
+      "url": "https://doa.airports.go.th/upload/download/file_c895333f291d187b42ac0882587ff8da.pdf",
+      "description": "Used as a current official airport-network reference for Ubon and Udon airport status inside the Department of Airports system."
+    },
+    {
+      "type": "hotel",
+      "title": "HOP INN Ubon Ratchathani",
+      "creator": "HOP INN Thailand",
+      "url": "https://www.hopinnhotel.com/our-hotels/hop-inn-ubon-ratchathani",
+      "description": "Used for the current budget-city hotel option and city-center proximity."
+    },
+    {
+      "type": "hotel",
+      "title": "B2 Ubon Premier Hotel",
+      "creator": "B2 Boutique and Budget Hotels",
+      "url": "https://www.b2hotel.com/ubon-ratchathani/b2-ubon-premier-hotel/",
+      "description": "Used for official location and Wi-Fi-backed city-hotel positioning."
+    },
+    {
+      "type": "hotel",
+      "title": "Official Opening of Centara Ubon",
+      "creator": "Centara Hotels & Resorts",
+      "url": "https://www.centarahotelsresorts.com/centara/centara-spotlight/official-opening-of-centara%20-ubon",
+      "description": "Used for Centara Ubon's official city-hotel positioning near Central Ubon and the airport side."
+    },
+    {
+      "type": "hotel",
+      "title": "Tohsang Heritage Khongjiam",
+      "creator": "Tohsang Heritage",
+      "url": "https://www.tohsang.com/tohsang-heritage-khongjiam/",
+      "description": "Used for the Mekong-side Khong Chiam resort option."
     }
   ],
-  "enrichedAt": "2026-02-22T12:51:40.589Z",
-  "seasonal_secrets": {
-    "best_times": {
-      "November-February (Best)": "Ubon Ratchathani's best visiting period is November through February, when temperatures range from 15-30°C (59-86°F) and humidity is lowest. This is the cool and dry season when exploring natural attractions like Sam Phan Bok is most pleasant.",
-      "March-May (Hot Season)": "Very hot, 30-40°C. Cheaper accommodation and fewer crowds — worth it if you can handle the heat.",
-      "June-October (Green Season)": "Warm with regular rainfall. Lush landscapes and good deals — rain usually falls in short afternoon bursts."
-    },
-    "local_festivals": [
-      "Candle Festival (July) - spectacular carved candle processions for Buddhist Lent",
-      "Loy Krathong Festival",
-      "King's Birthday (Father's Day - Dec 5)",
-      "New Year celebrations",
-      "Makha Bucha Day",
-      "Chinese New Year (varies)",
-      "Songkran Water Festival (April 13-15) - celebrated nationwide"
-    ],
-    "seasonal_foods": {
-      "cool": "Mekong riverside dining is at its best — fresh river fish, grilled meats, and Isaan specialties with sunset views. Local favorites include Rung Rot Dee (Ratchabut Road) and Kai Yang Wat Jaeng.",
-      "hot": "Cooling Vietnamese-Thai fusion dishes and cold drinks at riverside restaurants. Local favorites include Rung Rot Dee (Ratchabut Road) and Kai Yang Wat Jaeng.",
-      "rainy": "Hearty Isaan soups and warming curries — the Mekong at high water is dramatic. Local favorites include Rung Rot Dee (Ratchabut Road) and Kai Yang Wat Jaeng."
-    },
-    "insider_tips": {
-      "Mekong sunsets": "The best sunset viewing spots fill up fast — arrive 30 minutes before sunset to secure a riverside table.",
-      "Border crossings": "If crossing to Laos, check visa requirements in advance. Cool season mornings along the Mekong can be surprisingly cold — pack layers.",
-      "Peak season": "November-February is peak season — book accommodation 2-4 weeks ahead for the best prices.",
-      "Rainy season": "Rain usually falls in short afternoon bursts — mornings are often sunny and great for exploring Ubon Ratchathani.",
-      "Candle Festival": "Visit Candle Festival during the cool season for the most comfortable experience. Early morning visits beat the heat and the crowds."
-    }
-  },
-  "top_attractions": [
-    {
-      "rank": 1,
-      "name": "Wat Thung Si Muang",
-      "description": "Historic Buddhist temple in the city center, famous as the venue for the annual Candle Festival. Features impressive architecture and is central to Ubon's cultural and spiritual life.",
-      "location": "City Center, Thung Si Muang Park",
-      "entrance_fee": "Free",
-      "highlights": [
-        "Candle Festival venue",
-        "Historic architecture",
-        "Central location"
-      ]
-    },
-    {
-      "rank": 2,
-      "name": "Sam Phan Bok",
-      "description": "Geological formation along the Mekong River featuring hundreds of rocky depressions that fill with turquoise water during low season. Often called the 'Grand Canyon of Thailand'.",
-      "location": "Khong Jiam District, approximately 75 km east of city",
-      "entrance_fee": "200 THB (approximately $6)",
-      "highlights": [
-        "Turquoise rock pools",
-        "Scenic Mekong views",
-        "Accessible December-May only"
-      ]
-    },
-    {
-      "rank": 3,
-      "name": "Pha Taem National Park",
-      "description": "National park featuring prehistoric cliff paintings (3,500+ years old), scenic viewpoints overlooking the Mekong River, and hiking trails through diverse landscape.",
-      "location": "Khong Jiam District, approximately 80 km east of city",
-      "entrance_fee": "200 THB (approximately $6)",
-      "highlights": [
-        "Ancient rock art",
-        "Mekong River views",
-        "Multiple hiking trails"
-      ]
-    },
-    {
-      "rank": 4,
-      "name": "Khong Jiam",
-      "description": "Small village at the scenic confluence of the Mun and Mekong rivers. Popular base for visiting Sam Phan Bok and Pha Taem, with several riverside restaurants and resorts.",
-      "location": "75 km east of city center",
-      "entrance_fee": "Free",
-      "highlights": [
-        "River confluence views",
-        "Sunset viewpoints",
-        "Nearby national parks"
-      ]
-    },
-    {
-      "rank": 5,
-      "name": "Wat Nong Pa Phong",
-      "description": "Meditation temple and forest monastery known for its serene setting and Buddhist practice community. Welcomes visitors interested in meditation and monastic life.",
-      "location": "North of city center",
-      "entrance_fee": "Free",
-      "highlights": [
-        "Meditation atmosphere",
-        "Forest setting",
-        "Monastic experience"
-      ]
-    },
-    {
-      "rank": 6,
-      "name": "Ubon Night Market",
-      "description": "Vibrant evening market offering authentic local street food, merchandise, and atmosphere. Essential experience for local cuisine and culture.",
-      "location": "City Center, near bus station",
-      "entrance_fee": "Free (pay for items purchased)",
-      "highlights": [
-        "Authentic street food",
-        "Local culture",
-        "Evening atmosphere"
-      ]
-    }
-  ],
-  "factchecked_at": "2026-03-08T18:37:12.498Z",
-  "translations": {
-    "nl": {
-      "enhanced_description": "Ubon Ratchathani ligt aan de uiterste oostelijke rand van Thailand, waar de Mun-rivier de Mekong ontmoet en Laos dichtbij genoeg is om aan de overkant te zien. Het is een van die Thaise steden die weinig buitenlandse reizigers bezoeken, en dat is precies waarom een bezoek als zo'n ontdekking voelt. Ik arriveerde met de nachttrein uit Bangkok — twaalf uur door het vlakke Isaan-hartland — en stapte uit in een stad die totaal anders aanvoelde dan het Thailand dat de meeste toeristen kennen. De lucht rook naar op houtskool gegrilde kip en kleefrijst, de straten waren breed en lommerrijk, en het ochtendlicht viel op een stadslandschap van sierlijke tempels, winkelpanden uit het Franse koloniale tijdperk en de brede bruine bocht van de Mun-rivier. Niemand probeerde me iets te verkopen. Niemand noemde me vriend. Ik was, voor een keer, gewoon ergens.\n\nHet kroonjuweel van de stad is het jaarlijkse Kaarsenfestival, of Khao Phansa, dat elke juli wordt gehouden om het begin van de boeddhistische vastenperiode te markeren. Gemeenschappen door de hele provincie besteden maanden aan het snijden van enorme wasbeelden — sommige zo groot als bussen — die scènes uitbeelden uit de Jataka-verhalen en Thaise mythologie. Op de festivaldag worden deze monumentale kaarsen door de stad geparadeerd op praalwagens terwijl duizenden mensen de straten omzomen, dansen en feesten. Ik had het geluk om tijdens het festival te bezoeken, en de omvang van het vakmanschap liet me sprakeloos. Eén kaarsensculptuur beeldde een veelarmige godheid uit, omringd door vlammen en hemelse wezens, elk detail — elke veer, elke vinger, elke kronkel van vlam — met de hand uit bijenwas gesneden gedurende drie maanden. De ambachtslieden, velen van hen monniken, stonden naast hun creaties met stille trots, en de optocht werd begeleid door mor lam-muziek, traditionele Isaan-zang die tegelijkertijd vreugdevol en melancholisch is, het geluid van het noordoosten.\n\nPha Taem National Park, ongeveer 100 kilometer ten oosten van de stad langs de Mekong, is waar het landschap van Isaan zich onthult als iets veel dramatischer dan de vlakke rijstvelden die de meeste mensen zich voorstellen. De klif rand valt verticaal honderden meters omlaag naar de Mekong, en op het rotsvlak zijn prehistorische schilderingen — handafdrukken, vissen, geometrische patronen — die 3.000 tot 4.000 jaar oud zijn. Ik stond bij dageraad op de klifrand, de eerste persoon bij het uitzichtpunt die ochtend, en keek hoe de zon opkwam boven Laos, de Mekong beneden glinsterde in goud en zilver, de stilte slechts verbroken door de kreet van brahmaanse wouwen die op de thermiek zweven. Het is een van de krachtigste landschappen in Thailand, en ik had het helemaal voor mezelf.\n\nSam Phan Bok, wat 'drieduizend gaten' betekent, is Ubons andere natuurwonder — een deel van de Mekong-bedding dat door millennia van erosie is uitgesleten tot duizenden kuilen, kanalen en rotsformaties die tevoorschijn komen wanneer het waterpeil daalt in het droge seizoen (december tot mei). Ik bezocht het in februari en de blootgelegde rots strekte zich uit als een maanlandschap, de gaten gevuld met turquoise poelen en het hele tafereel omlijst door de brede Mekong met Laos op de verre oever. Lokale gezinnen picknicten op de rotsen, kinderen zwommen in de natuurlijke poelen, verkopers grilden kip op geïmproviseerde barbecues. Er waren misschien vijftig mensen verspreid over een locatie ter grootte van meerdere voetbalvelden. De vergelijking met de Grand Canyon is niet treffend qua omvang maar wel qua verwondering — dit is een plek die je doet stilstaan en gewoon kijken.\n\nTerug in de stad is het eten puur Isaan — gedurfd, zuur, pittig en gefermenteerd. Ik at larb moo (pittige gehaktsalade van varkensvlees) zo vurig dat mijn lippen verdoofd raakten, som tam gemaakt met pla ra (gefermenteerde vispasta) die een scherpe diepte van smaak had die geen versie uit een toeristisch gebied kan evenaren, en kleefrijst die ik uit elkaar trok met mijn vingers op de traditionele manier. De avondmarkt langs Ratchabut Road was mijn avondlijke ritueel — een uitgestrekt geheel waar ik kai yang ontdekte (gegrilde kip gemarineerd in citroengras en knoflook), sai krok Isaan (gefermenteerde worstjes), en een dessert van zoete kleefrijst met verse mango dat 20 baht kostte en smaakte alsof alles wat goed is aan Thailand was gedistilleerd in één enkel gerecht. Ubon Ratchathani is niet makkelijk te bereiken en niet gretig om ontdekt te worden, en dat is precies wat het buitengewoon maakt.",
-      "overview": "Ubon Ratchathani, gelegen in de Isaan-regio van Thailand langs de Mekong-rivier, is een verborgen parel die wedijvert met beroemdere Thaise bestemmingen met zijn unieke culturele attracties en natuurwonderen. De stad met 190.000 inwoners is het meest beroemd om het spectaculaire Kaarsenfestival dat elke juli wordt gehouden, waarbij massieve wasbeelden door de straten paraderen begeleid door traditionele Mor lam-muziek. Naast het festival biedt Ubon adembenemende natuurattracties zoals Sam Phan Bok (de 'Grand Canyon van Thailand'), prehistorische rotstekeningen bij Pha Taem National Park en de schilderachtige samenvloeiing van twee rivieren bij Khong Jiam, wat het een ideale bestemming maakt voor reizigers die authentieke Isaan-ervaringen zoeken weg van de drukte van Bangkok.",
-      "thingsToDo": "Ubon Ratchathani biedt diverse attracties variërend van natuurwonderen tot culturele ervaringen. Het Kaarsenfestival (jaarlijks in juli) is het kenmerkende evenement van de stad, met massieve wasbeeldparades en traditionele Mor lam-muziek bij Wat Thung Si Muang (gratis toegang). Sam Phan Bok, 75 km ten oosten in het Khong Jiam-district, toont honderden rotsachtige holtes gevuld met turquoise water (entree 200 THB/$6, alleen toegankelijk december-mei). Pha Taem National Park (80 km ten oosten) heeft 3.500 jaar oude prehistorische rotstekeningen en schilderachtige Mekong-uitzichtpunten (entree 200 THB/$6). Het dorp Khong Jiam bij de samenvloeiing van de Mun- en Mekong-rivier biedt zonsonderganguitzichten en dient als uitvalsbasis voor het verkennen van oostelijke attracties (gratis toegang). Het bosklooster Wat Nong Pa Phong biedt meditatie- en kloosterervaringen (gratis toegang). De avondverkenning van de Ubon Night Market bij het busstation biedt authentiek Isaan straatvoedsel en lokale cultuur tegen zeer lage kosten (betaal per item vanaf 20-100 THB). De meeste attracties vereisen huurvervoer of georganiseerde dagtochten.",
-      "whereToStay": "Ubon Ratchathani biedt accommodatie voor alle budgetten, met de meeste opties geconcentreerd in het stadscentrum nabij Thung Si Muang Park. Budgetreizigers vinden comfortabele pensions en basale hotels voor $13-25 per nacht, met schone kamers en essentiële voorzieningen. Middenklasse hotels ($30-70/nacht) bieden beter comfort, airconditioning en vaak inclusief ontbijt, wat ze uitstekende prijs-kwaliteitsverhouding geeft. Deze accommodaties liggen doorgaans in het zakelijke centrum op loopafstand van restaurants en de avondmarkt. Voor luxezoekers bieden duurdere hotels en resorts superieure service, vaak met zwembaden en fine dining, hoewel Ubons luxeopties aanzienlijk goedkoper blijven dan accommodaties in Bangkok. Veel accommodaties liggen binnen 15 minuten van Ubon Ratchathani Airport per auto, en hotelpersoneel kan vervoer op aanvraag regelen.",
-      "gettingAround": "Ubon Ratchathani is relatief compact voor stadsverkenning. Tuk-tuks zijn het meest voorkomende lokale vervoer, met tarieven van doorgaans 30-50 THB ($1-1,50) voor de meeste ritten binnen de stad. Songthaews (gedeelde minibusjes) rijden op vaste routes voor 10-20 THB ($0,30-0,60) per rit. Grab werkt in Ubon en biedt ritten tegen vaste prijzen, doorgaans 200-300 THB ($6-9) van het vliegveld naar het stadscentrum. Voor dagtochten naar Sam Phan Bok, Pha Taem National Park en Khong Jiam (75-80 km ten oosten) wordt het huren van een auto (600-800 THB/$18-24 per dag) of Grab-vervoer aanbevolen. Motorverhuur is beschikbaar bij talloze winkels voor 150-250 THB ($5-8) per dag, geschikt voor ervaren rijders. Fietsen kunnen bij pensions gehuurd worden voor stadsverkenning voor 50-100 THB ($1,50-3) per dag.",
-      "bestTimeToVisit": "De beste bezoekperiode voor Ubon Ratchathani is november tot en met februari, wanneer temperaturen variëren van 15-30°C en de luchtvochtigheid het laagst is. Dit is het koele en droge seizoen wanneer het verkennen van natuurattracties zoals Sam Phan Bok het aangenaamst is. Het Kaarsenfestival in juli is Ubons kenmerkende evenement, dat duizenden bezoekers trekt voor massieve wasbeeldparades en traditionele vieringen, hoewel juli in het moessonseizoen valt met hoge luchtvochtigheid en af en toe regen. Als je specifiek voor Sam Phan Bok komt, is timing cruciaal — de locatie is alleen toegankelijk van december tot mei wanneer het waterpeil laag genoeg is om de kenmerkende rotsformaties te onthullen. Maart tot mei wordt steeds heter en oncomfortabeler, met temperaturen boven 35°C. Vermijd september tot oktober vanwege zware moessonregens die wegverkeer bemoeilijken en het zicht bij natuurlocaties verminderen.",
-      "translated_at": "2026-03-10T00:00:00.000Z"
-    },
-    "fr": {
-      "enhanced_description": "Ubon Ratchathani se trouve à l'extrême est de la Thaïlande, là où la rivière Mun rejoint le Mékong et où le Laos est assez proche pour être aperçu sur l'autre rive. C'est l'une de ces villes thaïlandaises que peu de voyageurs étrangers visitent, et c'est précisément pourquoi s'y rendre donne l'impression d'une véritable découverte. Je suis arrivé par le train de nuit depuis Bangkok — douze heures à travers le cœur plat de l'Isaan — et j'ai débarqué dans une ville qui semblait totalement différente de la Thaïlande que connaissent la plupart des touristes. L'air sentait le poulet grillé au charbon de bois et le riz gluant, les rues étaient larges et ombragées, et la lumière du matin se posait sur un paysage urbain de temples élégants, de bâtiments commerciaux de l'époque coloniale française et de la large courbe brune de la rivière Mun. Personne n'essayait de me vendre quoi que ce soit. Personne ne m'appelait « ami ». J'étais, pour une fois, simplement quelque part.\n\nLe joyau de la ville est le Festival annuel des Bougies, ou Khao Phansa, qui se tient chaque juillet pour marquer le début du carême bouddhiste. Les communautés de toute la province passent des mois à sculpter d'énormes statues de cire — certaines aussi grandes que des bus — représentant des scènes des contes de Jataka et de la mythologie thaïlandaise. Le jour du festival, ces bougies monumentales défilent à travers la ville sur des chars tandis que des milliers de personnes bordent les rues, dansent et festoient. J'ai eu la chance de visiter pendant le festival, et l'ampleur de l'artisanat m'a laissé sans voix. Une sculpture de bougie représentait une divinité aux multiples bras, entourée de flammes et d'êtres célestes, chaque détail — chaque plume, chaque doigt, chaque volute de flamme — sculpté à la main dans la cire d'abeille pendant trois mois. Les artisans, dont beaucoup sont moines, se tenaient à côté de leurs créations avec une fierté silencieuse, et le défilé était accompagné de musique mor lam, un chant traditionnel de l'Isaan à la fois joyeux et mélancolique, le son du nord-est.\n\nLe parc national de Pha Taem, à environ 100 kilomètres à l'est de la ville le long du Mékong, est l'endroit où le paysage de l'Isaan se révèle bien plus dramatique que les rizières plates que la plupart des gens imaginent. La falaise plonge verticalement de centaines de mètres jusqu'au Mékong, et sur la surface rocheuse se trouvent des peintures préhistoriques — empreintes de mains, poissons, motifs géométriques — vieilles de 3 000 à 4 000 ans. Je me tenais au bord de la falaise à l'aube, première personne au point de vue ce matin-là, regardant le soleil se lever au-dessus du Laos, le Mékong en contrebas scintillant d'or et d'argent, le silence rompu uniquement par le cri des milans brahmes planant dans les courants thermiques. C'est l'un des paysages les plus puissants de Thaïlande, et je l'avais entièrement pour moi.\n\nSam Phan Bok, qui signifie « trois mille trous », est l'autre merveille naturelle d'Ubon — une section du lit du Mékong érodée au fil des millénaires en milliers de cavités, de canaux et de formations rocheuses qui émergent lorsque le niveau de l'eau baisse en saison sèche (décembre à mai). J'ai visité en février et la roche exposée s'étendait comme un paysage lunaire, les trous remplis de bassins turquoise et l'ensemble encadré par le large Mékong avec le Laos sur la rive lointaine. Des familles locales pique-niquaient sur les rochers, des enfants nageaient dans les bassins naturels, des vendeurs grillaient du poulet sur des barbecues improvisés. Il y avait peut-être cinquante personnes dispersées sur un site de la taille de plusieurs terrains de football. La comparaison avec le Grand Canyon n'est pas tant une question d'échelle que d'émerveillement — c'est un endroit qui vous fait vous arrêter et simplement regarder.\n\nDe retour en ville, la cuisine est purement Isaan — audacieuse, acide, pimentée et fermentée. J'ai mangé du larb moo (salade de porc haché épicée) si fort que mes lèvres étaient engourdies, du som tam préparé avec du pla ra (pâte de poisson fermentée) qui avait une profondeur de saveur qu'aucune version de zone touristique ne peut égaler, et du riz gluant que j'ai déchiré avec mes doigts de la manière traditionnelle. Le marché nocturne le long de Ratchabut Road était mon rituel du soir — un vaste ensemble où j'ai découvert le kai yang (poulet grillé mariné à la citronnelle et à l'ail), le sai krok Isaan (saucisses fermentées), et un dessert de riz gluant sucré à la mangue fraîche qui coûtait 20 bahts et avait le goût de tout ce que la Thaïlande a de bon, distillé en un seul plat. Ubon Ratchathani n'est pas facile d'accès et n'est pas empressée d'être découverte, et c'est précisément ce qui la rend extraordinaire.",
-      "overview": "Ubon Ratchathani, située dans la région Isaan de Thaïlande le long du Mékong, est un joyau caché qui rivalise avec les destinations thaïlandaises plus célèbres par ses attractions culturelles uniques et ses merveilles naturelles. La ville de 190 000 habitants est surtout connue pour le spectaculaire Festival des Bougies qui se tient chaque juillet, avec d'immenses sculptures de cire défilant dans les rues accompagnées de musique traditionnelle Mor lam. Au-delà du festival, Ubon offre des attractions naturelles époustouflantes comme Sam Phan Bok (le « Grand Canyon de Thaïlande »), des peintures rupestres préhistoriques au parc national de Pha Taem et la pittoresque confluence de deux rivières à Khong Jiam, ce qui en fait une destination idéale pour les voyageurs à la recherche d'expériences authentiques de l'Isaan loin de l'agitation de Bangkok.",
-      "thingsToDo": "Ubon Ratchathani propose des attractions variées allant des merveilles naturelles aux expériences culturelles. Le Festival des Bougies (chaque année en juillet) est l'événement phare de la ville, avec des défilés de sculptures de cire géantes et de la musique traditionnelle Mor lam à Wat Thung Si Muang (entrée gratuite). Sam Phan Bok, à 75 km à l'est dans le district de Khong Jiam, présente des centaines de cavités rocheuses remplies d'eau turquoise (entrée 200 THB/6 $, accessible uniquement de décembre à mai). Le parc national de Pha Taem (80 km à l'est) abrite des peintures rupestres préhistoriques vieilles de 3 500 ans et des points de vue panoramiques sur le Mékong (entrée 200 THB/6 $). Le village de Khong Jiam, à la confluence des rivières Mun et Mékong, offre des vues au coucher du soleil et sert de base pour explorer les attractions de l'est (accès gratuit). Le monastère forestier Wat Nong Pa Phong propose des expériences de méditation et de vie monastique (accès gratuit). L'exploration nocturne du marché de nuit d'Ubon près de la gare routière offre une cuisine de rue authentique de l'Isaan et une culture locale à très bas prix (à partir de 20-100 THB par article). La plupart des attractions nécessitent un véhicule de location ou des excursions organisées.",
-      "whereToStay": "Ubon Ratchathani offre des hébergements pour tous les budgets, la plupart concentrés dans le centre-ville près du parc Thung Si Muang. Les voyageurs à petit budget trouvent des pensions confortables et des hôtels basiques pour 13-25 $ par nuit, avec des chambres propres et les commodités essentielles. Les hôtels de gamme moyenne (30-70 $/nuit) offrent plus de confort, la climatisation et souvent le petit-déjeuner inclus, ce qui en fait un excellent rapport qualité-prix. Ces hébergements sont généralement situés dans le centre d'affaires, à distance de marche des restaurants et du marché nocturne. Pour ceux qui recherchent le luxe, les hôtels et resorts haut de gamme offrent un service supérieur, souvent avec piscines et restauration raffinée, bien que les options luxe d'Ubon restent nettement moins chères que les hébergements de Bangkok. De nombreux hébergements sont à 15 minutes en voiture de l'aéroport d'Ubon Ratchathani, et le personnel hôtelier peut organiser le transport sur demande.",
-      "gettingAround": "Ubon Ratchathani est relativement compacte pour l'exploration urbaine. Les tuk-tuks sont le moyen de transport local le plus courant, avec des tarifs généralement de 30-50 THB (1-1,50 $) pour la plupart des trajets en ville. Les songthaews (minibus partagés) circulent sur des itinéraires fixes pour 10-20 THB (0,30-0,60 $) par trajet. Grab fonctionne à Ubon et propose des trajets à prix fixes, généralement 200-300 THB (6-9 $) de l'aéroport au centre-ville. Pour les excursions vers Sam Phan Bok, le parc national de Pha Taem et Khong Jiam (75-80 km à l'est), la location d'une voiture (600-800 THB/18-24 $ par jour) ou le transport via Grab sont recommandés. La location de motos est disponible dans de nombreux magasins pour 150-250 THB (5-8 $) par jour, adaptée aux conducteurs expérimentés. Des vélos peuvent être loués dans les pensions pour l'exploration en ville pour 50-100 THB (1,50-3 $) par jour.",
-      "bestTimeToVisit": "La meilleure période pour visiter Ubon Ratchathani est de novembre à février, lorsque les températures varient de 15 à 30 °C et que l'humidité est la plus basse. C'est la saison fraîche et sèche, idéale pour explorer les attractions naturelles comme Sam Phan Bok. Le Festival des Bougies en juillet est l'événement emblématique d'Ubon, attirant des milliers de visiteurs pour les défilés de sculptures de cire géantes et les célébrations traditionnelles, bien que juillet tombe en pleine saison des moussons avec une forte humidité et des pluies occasionnelles. Si vous venez spécifiquement pour Sam Phan Bok, le timing est crucial — le site n'est accessible que de décembre à mai, lorsque le niveau de l'eau est suffisamment bas pour révéler les formations rocheuses caractéristiques. De mars à mai, il fait de plus en plus chaud et inconfortable, avec des températures dépassant 35 °C. Évitez septembre-octobre en raison des fortes pluies de mousson qui compliquent la circulation routière et réduisent la visibilité sur les sites naturels.",
-      "safetyTips": "Ubon Ratchathani est une ville thaïlandaise paisible avec un faible taux de criminalité. Les précautions de voyage standard s'appliquent : gardez vos objets de valeur en sécurité et restez conscient de votre environnement. Pour les excursions vers Sam Phan Bok et Pha Taem, portez des chaussures solides car les surfaces rocheuses peuvent être glissantes, surtout tôt le matin avec la rosée. Les routes vers les attractions de l'est sont bien entretenues mais sinueuses par endroits — conduisez prudemment si vous louez un véhicule. Pendant la saison des pluies (juin-octobre), certaines routes rurales peuvent être temporairement inondées. Le soleil de l'Isaan est intense — emportez crème solaire, chapeau et beaucoup d'eau pour les excursions en plein air. Les installations médicales de la ville sont adéquates pour les soins de base, avec l'hôpital Sunpasitthiprasong comme principal établissement de la province. Si vous assistez au Festival des Bougies en juillet, arrivez tôt pour avoir une bonne place le long du parcours du défilé et préparez-vous à de grandes foules.",
-      "translated_at": "2026-03-10T00:00:00.000Z"
-    },
-    "de": {
-      "enhanced_description": "Ubon Ratchathani liegt am äußersten östlichen Rand Thailands, wo der Mun-Fluss auf den Mekong trifft und Laos nah genug ist, um es auf der anderen Seite zu sehen. Es ist eine jener thailändischen Städte, die nur wenige ausländische Reisende besuchen, und genau deshalb fühlt sich ein Besuch wie eine echte Entdeckung an. Ich kam mit dem Nachtzug aus Bangkok an — zwölf Stunden durch das flache Isaan-Herzland — und stieg in einer Stadt aus, die sich völlig anders anfühlte als das Thailand, das die meisten Touristen kennen. Die Luft roch nach Holzkohle-Grillhähnchen und Klebreis, die Straßen waren breit und baumbestanden, und das Morgenlicht fiel auf ein Stadtbild aus eleganten Tempeln, französischen Kolonial-Ladenhäusern und der breiten braunen Windung des Mun-Flusses. Niemand versuchte, mir etwas zu verkaufen. Niemand nannte mich Freund. Ich war, zum ersten Mal, einfach irgendwo.\n\nDas Kronjuwel der Stadt ist das jährliche Kerzenfestival, oder Khao Phansa, das jeden Juli stattfindet, um den Beginn der buddhistischen Fastenzeit zu markieren. Gemeinden in der gesamten Provinz verbringen Monate damit, riesige Wachsskulpturen zu schnitzen — manche so groß wie Busse — die Szenen aus den Jataka-Erzählungen und der thailändischen Mythologie darstellen. Am Festivaltag werden diese monumentalen Kerzen auf Festwagen durch die Stadt paradiert, während Tausende von Menschen die Straßen säumen, tanzen und feiern. Ich hatte das Glück, während des Festivals zu besuchen, und das Ausmaß der Handwerkskunst ließ mich sprachlos. Eine Kerzenskulptur stellte eine vielarmige Gottheit dar, umgeben von Flammen und himmlischen Wesen, jedes Detail — jede Feder, jeder Finger, jede Flammenwindung — über drei Monate hinweg von Hand aus Bienenwachs geschnitzt. Die Kunsthandwerker, viele von ihnen Mönche, standen mit stiller Stolz neben ihren Werken, und die Prozession wurde von Mor-Lam-Musik begleitet, dem traditionellen Isaan-Gesang, der gleichzeitig fröhlich und melancholisch ist — der Klang des Nordostens.\n\nDer Pha Taem Nationalpark, etwa 100 Kilometer östlich der Stadt entlang des Mekong, ist der Ort, an dem sich die Landschaft des Isaan als etwas weitaus Dramatischeres entpuppt als die flachen Reisfelder, die sich die meisten Menschen vorstellen. Die Klippenkante fällt Hunderte von Metern vertikal zum Mekong ab, und auf der Felswand befinden sich prähistorische Malereien — Handabdrücke, Fische, geometrische Muster — die 3.000 bis 4.000 Jahre alt sind. Ich stand bei Morgengrauen am Klippenrand, die erste Person am Aussichtspunkt an jenem Morgen, und sah die Sonne über Laos aufgehen, den Mekong darunter in Gold und Silber schimmernd, die Stille nur gebrochen vom Schrei der Brahminenweihen, die auf den Thermiken ritten. Es ist eine der eindrucksvollsten Landschaften Thailands, und ich hatte sie ganz für mich allein.\n\nSam Phan Bok, was „dreitausend Löcher“ bedeutet, ist Ubons anderes Naturwunder — ein Abschnitt des Mekong-Flussbetts, der durch Jahrtausende der Erosion zu Tausenden von Vertiefungen, Kanälen und Felsformationen geformt wurde, die zum Vorschein kommen, wenn der Wasserstand in der Trockenzeit (Dezember bis Mai) sinkt. Ich besuchte es im Februar, und der freiliegende Fels erstreckte sich wie eine Mondlandschaft, die Löcher gefüllt mit türkisfarbenen Becken, das gesamte Szenario gerahmt vom breiten Mekong mit Laos am fernen Ufer. Einheimische Familien pickickten auf den Felsen, Kinder schwammen in den natürlichen Pools, Händler grillten Hühnchen auf improvisierten Grills. Es waren vielleicht fünfzig Menschen verstreut über ein Gelände von der Größe mehrerer Fußballfelder. Der Vergleich mit dem Grand Canyon ist nicht in der Größe zutreffend, sondern im Staunen — dies ist ein Ort, der einen innehalten und einfach schauen lässt.\n\nZurück in der Stadt ist das Essen rein Isaan — kühn, sauer, scharf und fermentiert. Ich aß Larb Moo (scharfen Schweinehack-Salat), so feurig, dass meine Lippen taub wurden, Som Tam mit Pla Ra (fermentierte Fischpaste), der eine scharfe Geschmackstiefe hatte, die keine Version aus einem Touristengebiet erreichen kann, und Klebreis, den ich auf traditionelle Weise mit den Fingern auseinanderzog. Der Nachtmarkt entlang der Ratchabut Road war mein abendliches Ritual — eine ausgedehnte Angelegenheit, wo ich Kai Yang (Grillhähnchen mariniert in Zitronengras und Knoblauch), Sai Krok Isaan (fermentierte Würstchen) und ein Dessert aus süßem Klebreis mit frischer Mango entdeckte, das 20 Baht kostete und so schmeckte, als hätte man alles Gute an Thailand in ein einziges Gericht destilliert. Ubon Ratchathani ist nicht leicht zu erreichen und nicht bestrebt, entdeckt zu werden, und genau das macht es außergewöhnlich.",
-      "overview": "Ubon Ratchathani, gelegen in der Isaan-Region Thailands am Mekong, ist ein verborgenes Juwel, das mit berühmteren thailändischen Reisezielen durch seine einzigartigen kulturellen Attraktionen und Naturwunder mithalten kann. Die Stadt mit 190.000 Einwohnern ist vor allem berühmt für das spektakuläre Kerzenfestival, das jeden Juli stattfindet, bei dem massive Wachsskulpturen durch die Straßen paradieren, begleitet von traditioneller Mor-Lam-Musik. Über das Festival hinaus bietet Ubon atemberaubende Naturattraktionen wie Sam Phan Bok (den „Grand Canyon Thailands“), prähistorische Felsenmalereien im Pha Taem Nationalpark und den malerischen Zusammenfluss zweier Flüsse bei Khong Jiam, was es zum idealen Reiseziel für Reisende macht, die authentische Isaan-Erfahrungen abseits der Hektik Bangkoks suchen.",
-      "thingsToDo": "Ubon Ratchathani bietet vielfältige Attraktionen von Naturwundern bis hin zu kulturellen Erlebnissen. Das Kerzenfestival (jährlich im Juli) ist das Aushängeschild der Stadt mit massiven Wachsskulpturen-Paraden und traditioneller Mor-Lam-Musik am Wat Thung Si Muang (freier Eintritt). Sam Phan Bok, 75 km östlich im Bezirk Khong Jiam, zeigt Hunderte von felsigen Vertiefungen gefüllt mit türkisfarbenem Wasser (Eintritt 200 THB/6 $, nur Dezember-Mai zugänglich). Der Pha Taem Nationalpark (80 km östlich) bietet 3.500 Jahre alte prähistorische Felsenmalereien und malerische Mekong-Aussichtspunkte (Eintritt 200 THB/6 $). Das Dorf Khong Jiam am Zusammenfluss von Mun und Mekong bietet Sonnenuntergangsblicke und dient als Ausgangspunkt für die Erkundung östlicher Attraktionen (freier Zugang). Das Waldkloster Wat Nong Pa Phong bietet Meditations- und Klostererfahrungen (freier Eintritt). Die abendliche Erkundung des Ubon Nachtmarkts beim Busbahnhof bietet authentisches Isaan-Straßenessen und lokale Kultur zu sehr niedrigen Preisen (ab 20-100 THB pro Artikel). Die meisten Attraktionen erfordern Mietfahrzeug oder organisierte Tagesausflüge.",
-      "whereToStay": "Ubon Ratchathani bietet Unterkünfte für alle Budgets, wobei die meisten Optionen im Stadtzentrum nahe dem Thung Si Muang Park konzentriert sind. Budgetreisende finden komfortable Pensionen und einfache Hotels für 13-25 $ pro Nacht mit sauberen Zimmern und grundlegenden Annehmlichkeiten. Mittelklassehotels (30-70 $/Nacht) bieten mehr Komfort, Klimaanlage und oft Frühstück inklusive, was sie zu einem hervorragenden Preis-Leistungs-Verhältnis macht. Diese Unterkünfte liegen typischerweise im Geschäftszentrum in Gehweite von Restaurants und dem Nachtmarkt. Für Luxussuchende bieten gehobene Hotels und Resorts erstklassigen Service, oft mit Pools und Fine Dining, wobei Ubons Luxusoptionen deutlich günstiger bleiben als Unterkünfte in Bangkok. Viele Unterkünfte sind innerhalb von 15 Minuten vom Flughafen Ubon Ratchathani mit dem Auto erreichbar, und das Hotelpersonal kann Transport auf Anfrage arrangieren.",
-      "gettingAround": "Ubon Ratchathani ist relativ kompakt für die Stadterkundung. Tuk-Tuks sind das gängigste lokale Verkehrsmittel mit Tarifen von typischerweise 30-50 THB (1-1,50 $) für die meisten Fahrten innerhalb der Stadt. Songthaews (geteilte Minibusse) fahren auf festen Routen für 10-20 THB (0,30-0,60 $) pro Fahrt. Grab ist in Ubon verfügbar und bietet Fahrten zu Festpreisen, typischerweise 200-300 THB (6-9 $) vom Flughafen zum Stadtzentrum. Für Tagesausflüge nach Sam Phan Bok, Pha Taem Nationalpark und Khong Jiam (75-80 km östlich) wird die Anmietung eines Autos (600-800 THB/18-24 $ pro Tag) oder Grab-Transport empfohlen. Motorradverleih ist in zahlreichen Geschäften für 150-250 THB (5-8 $) pro Tag verfügbar, geeignet für erfahrene Fahrer. Fahrräder können in Pensionen für die Stadterkundung für 50-100 THB (1,50-3 $) pro Tag gemietet werden.",
-      "bestTimeToVisit": "Die beste Reisezeit für Ubon Ratchathani ist November bis Februar, wenn die Temperaturen zwischen 15-30°C liegen und die Luftfeuchtigkeit am niedrigsten ist. Dies ist die kühle und trockene Jahreszeit, in der die Erkundung von Naturattraktionen wie Sam Phan Bok am angenehmsten ist. Das Kerzenfestival im Juli ist Ubons Aushängeschild, das Tausende von Besuchern für massive Wachsskulpturen-Paraden und traditionelle Feierlichkeiten anzieht, obwohl der Juli in die Monsunzeit fällt mit hoher Luftfeuchtigkeit und gelegentlichem Regen. Wenn Sie speziell wegen Sam Phan Bok kommen, ist das Timing entscheidend — der Ort ist nur von Dezember bis Mai zugänglich, wenn der Wasserstand niedrig genug ist, um die charakteristischen Felsformationen freizulegen. März bis Mai wird zunehmend heiß und unangenehm, mit Temperaturen über 35°C. Vermeiden Sie September bis Oktober wegen starker Monsunregenfälle, die das Straßenreisen erschweren und die Sicht an Naturstätten verringern.",
-      "safetyTips": "Ubon Ratchathani ist generell ein sicheres Reiseziel mit niedrigen Kriminalitätsraten gegenüber Touristen. Standard-Vorsichtsmaßnahmen gelten: Vermeiden Sie es, teuren Schmuck oder Elektronik zur Schau zu stellen, seien Sie vorsichtig mit Wertsachen auf belebten Nachtmärkten und nutzen Sie vertrauenswürdige Taxis oder Grab anstatt nicht gekennzeichnete Fahrzeuge anzuhalten. Verkehrssicherheit ist ein wichtiger Aspekt — wenn Sie ein Motorrad mieten, tragen Sie Helme (gesetzlich vorgeschrieben) und fahren Sie defensiv, da der lokale Verkehr chaotisch sein kann. Kleinkriminalität kommt gelegentlich in belebten Gebieten vor, halten Sie also Taschen sicher und Wertsachen im Hotelsafe. Der Mekong und die Wasserfälle sind beliebte Attraktionen, aber beachten Sie Warnschilder; Ertrinkungsunfälle sind an unsicheren Stellen vorgekommen. Wasserfallgebiete wie Soi Sawan sind extrem rutschig — Verletzungen sind häufig, tragen Sie daher geeignetes Schuhwerk und seien Sie vorsichtig auf nassen Felsen. Die Taifunsaison (typischerweise September-November) kann extremes Wetter von den Philippinen und Vietnam bringen, mit plötzlichem Starkregen, Überschwemmungen und gefährlichen Bedingungen an Outdoor-Attraktionen. Achten Sie auf Wespennester entlang ländlicher Straßen und Wanderwege in der Nähe der Nationalparks — sie können aggressiv werden, wenn sie gestört werden. Kleiden Sie sich beim Tempelbesuch respektvoll mit bedeckten Schultern und Knien. Leitungswasser wird generell nicht zum Trinken empfohlen; kaufen Sie stattdessen Flaschenwasser. Ubon bleibt eine der sichersten Städte Thailands mit minimaler Bandenkriminalität oder schwerer Kriminalität, die Touristen betrifft.",
-      "translated_at": "2026-03-10T00:00:00.000Z"
-    },
-    "zh": {
-      "enhanced_description": "乌汶叻差他尼位于泰国最东端，湄南河在此汇入湄公河，老挝近在咫尺，对岸依稀可见。这是一座极少外国旅行者造访的泰国城市，而正因如此，来到这里才会有真正发现新大陆的感觉。我从曼谷乘夜车抵达——穿越伊桑平原十二个小时——走下火车时，迎面而来的是一座与大多数游客印象中的泰国截然不同的城市。空气中弥漫着炭烤鸡和糯米饭的香气，街道宽阔林荫掩映，晨光洒落在典雅的寺庙、法式殖民时代的店屋和湄南河宽阔的褐色河湾上。没有人试图向我推销任何东西，没有人叫我「朋友「。我难得地，只是安静地存在于某个地方。\n\n这座城市的皇冠明珠是每年的蜡烛节（Khao Phansa），于七月举办，标志着佛教守夏节的开始。全省各地的社区花费数月时间雕刻巨大的蜡像——有的堪比一辆巴士——描绘本生经故事和泰国神话中的场景。节日当天，这些纪念碑般的巨烛被装上花车在城中巡游，成千上万的人夹道围观、跳舞、欢宴。我有幸赶上了蜡烛节，工匠们的手艺之精湛令我目瞪口呆。一座蜡烛雕塑刻画了一尊多臂神祇，被火焰和天界生灵环绕，每一个细节——每一根羽毛、每一根手指、每一缕火焰的卷曲——都由蜂蜡历经三个月手工雕刻而成。许多匠人本身就是僧侣，他们静静地站在自己的作品旁，神情中带着无声的自豪，巡游队伍伴随着莫兰音乐，那是伊桑传统的歌唱，同时充满欢愉与忧伤——东北的声音。\n\n帕丹国家公园距离城市以东约100公里，沿着湄公河蜿蜒而行，这里展现出的伊桑地貌远比大多数人想象中的平坦稻田要壮观得多。悬崖边缘垂直落差数百米直至湄公河面，岩壁上留有3,000至4,000年前的史前岩画——手印、鱼类、几何图案。黎明时分我站在崖边，那个清晨第一个到达观景台的人，看着太阳从老挝上方升起，脚下的湄公河闪烁着金银两色的光芒，寂静只被梵天鸢在热气流中盘旋时的鸣叫声打破。这是泰国最震撼的风景之一，而我独享了这一切。\n\nSam Phan Bok，意为「三千孔「，是乌汶的另一处自然奇观——一段经历千年侵蚀的湄公河河床，被雕琢出数以千计的坑洞、沟渠和岩石地貌，在旱季（12月至5月）水位下降时露出水面。我二月份前往，裸露的岩石如同月球表面般延伸开去，坑洞中盛满碧绿的池水，宽阔的湄公河和远方老挝的轮廓将整个景象框成一幅画。当地家庭在岩石上野餐，孩子们在天然水池中嬉戏，小贩在临时搭建的烤架上烤着鸡肉。大约五十个人散布在一片有好几个足球场大的区域里。与大峡谷的类比不在于规模，而在于那种敬畏感——这是一个让你停下脚步、静静凝望的地方。\n\n回到城里，食物纯粹是伊桑风味——大胆、酸辣、发酵。我吃了辣得嘴唇发麻的碎猪肉沙拉（Larb Moo），用发酵鱼酱（Pla Ra）调制的青木瓜沙拉，那种深邃的鲜味是任何旅游区版本都无法企及的，还有用手指以传统方式撕着吃的糯米饭。叻察布路沿线的夜市是我每晚的固定行程——一大片热闹的摊位区，在这里我发现了柠檬草蒜香腌制的烤鸡（Kai Yang）、伊桑发酵香肠（Sai Krok Isaan），以及一份甜糯米配新鲜芒果的甜品，只要20泰铢，尝起来仿佛泰国所有的美好都被浓缩进了这一道菜。乌汶叻差他尼不容易抵达，也不急于被人发现，而这恰恰是它非凡之处。",
-      "overview": "乌汶叻差他尼位于泰国伊桑地区湄公河沿岸，是一颗隐藏的明珠，凭借其独特的文化景点和自然奇观，与更知名的泰国旅游目的地不相上下。这座拥有19万人口的城市因每年七月举办的壮观蜡烛节而闻名，巨大的蜡烛雕塑在传统莫兰音乐的伴奏下巡游街头。蜡烛节之外，乌汶还拥有令人叹为观止的自然景观，如Sam Phan Bok（「泰国大峡谷「）、帕丹国家公园的史前岩画以及空暹县两河交汇处的如画风光，是远离曼谷喧嚣、寻求正宗伊桑体验的旅行者的理想目的地。",
-      "thingsToDo": "乌汶叻差他尼提供从自然奇观到文化体验的多样景点。蜡烛节（每年七月）是城市的标志性活动，在通西芒寺举办巨型蜡烛雕塑巡游和传统莫兰音乐表演（免费入场）。Sam Phan Bok位于东面75公里的空暹县，展示着数百个被碧绿池水填满的岩石坑洞（门票200泰铢/$6，仅12月至5月可进入）。帕丹国家公园（东面80公里）拥有3,500年历史的史前岩画和壮美的湄公河观景台（门票200泰铢/$6）。空暹村位于湄南河与湄公河交汇处，提供日落美景，也是探索东部景点的出发基地（免费进入）。汪巴蓬森林寺院提供禅修和寺院生活体验（免费）。乌汶夜市位于汽车站附近，提供正宗的伊桑街头美食和本地文化体验，价格非常亲民（每份20-100泰铢起）。大多数景点需要租车或参加一日游团。",
-      "whereToStay": "乌汶叻差他尼拥有适合各类预算的住宿选择，大部分集中在通西芒公园附近的市中心。背包客可以找到舒适的民宿和基础酒店，每晚$13-25，房间干净、设施齐全。中档酒店（$30-70/晚）提供更舒适的环境、空调和通常包含的早餐，性价比极高。这些住宿通常位于商业中心，步行即可到达餐厅和夜市。追求奢华的旅客可选择高端酒店和度假村，通常配有泳池和精致餐饮，但乌汶的高端选择比曼谷的同类住宿便宜不少。许多住宿距乌汶叻差他尼机场仅15分钟车程，酒店工作人员可以安排接送服务。",
-      "gettingAround": "乌汶叻差他尼相对紧凑，适合步行探索。嘟嘟车是最常见的本地交通工具，市内大多数路程收费30-50泰铢（$1-1.50）。双条车（共享小巴）沿固定路线运行，每程10-20泰铢（$0.30-0.60）。Grab在乌汶可用，提供固定价格，机场至市中心通常200-300泰铢（$6-9）。前往Sam Phan Bok、帕丹国家公园和空暹县（东面75-80公里）的一日游，建议租车（600-800泰铢/$18-24每天）或使用Grab。多家店铺提供摩托车租赁，每天150-250泰铢（$5-8），适合有经验的骑手。民宿可租自行车用于市区探索，每天50-100泰铢（$1.50-3）。",
-      "bestTimeToVisit": "游览乌汶叻差他尼的最佳时间是11月至2月，此时气温在15-30°C之间，湿度最低。这是凉爽干燥的季节，最适合探索Sam Phan Bok等自然景点。七月的蜡烛节是乌汶的标志性活动，吸引数千游客观赏巨型蜡烛雕塑巡游和传统庆典，但七月处于雨季，湿度高且偶有降雨。如果专程前往Sam Phan Bok，时间选择至关重要——该景点仅在12月至5月水位足够低时才开放，届时标志性的岩石地貌方可显露。3月至5月逐渐炎热难耐，气温超过35°C。建议避开9月至10月的强降雨季节，此时公路出行困难且自然景点能见度降低。",
-      "safetyTips": "乌汶叻差他尼总体上是一座安全的旅游城市，犯罪率较低。基本的旅行安全常识适用：避免炫耀昂贵珠宝或电子设备，在热闹的夜市注意看管贵重物品，选择正规出租车或Grab而非拦截无标识车辆。交通安全值得关注——如果租摩托车，务必佩戴头盔（法律强制要求）并谨慎驾驶，当地交通可能比较混乱。前往Sam Phan Bok和帕丹国家公园时请穿结实的鞋子，因为岩石表面可能很滑，尤其是清晨有露水时。雨季（6月至10月）部分乡村道路可能暂时被洪水淹没。伊桑的阳光非常强烈，户外游览时请携带防晒霜、帽子和充足的饮用水。自来水一般不建议直接饮用，请购买瓶装水。乌汶依然是泰国最安全的城市之一，极少有影响游客的严重犯罪。",
-      "translated_at": "2026-03-11T00:00:00.000Z"
-    },
-    "ru": {
-      "enhanced_description": "Убон Ратчатхани расположен на самом восточном краю Таиланда, где река Мун впадает в Меконг, а Лаос виден на другом берегу. Это один из тех тайских городов, куда редко заглядывают иностранные путешественники, и именно поэтому визит сюда ощущается как настоящее открытие. Я приехал ночным поездом из Бангкока — двенадцать часов через плоское сердце Исана — и вышел в город, совершенно не похожий на Таиланд, который знают большинство туристов. Воздух пах углями, жареной курицей и клейким рисом, улицы были широкими и тенистыми, а утренний свет ложился на городской пейзаж из изящных храмов, магазинов в колониальном французском стиле и широкой коричневой излучины реки Мун. Никто не пытался мне что-то продать. Никто не назвал меня другом. Я впервые просто где-то был.\n\nГлавная жемчужина города — ежегодный Фестиваль свечей, или Кхао Пханса, проводимый каждый июль в честь начала буддийского поста. Общины со всей провинции месяцами вырезают огромные восковые скульптуры — некоторые размером с автобус — изображающие сцены из джатак и тайской мифологии. В день фестиваля эти монументальные свечи провозят через город на платформах, а тысячи людей выстраиваются вдоль улиц, танцуют и празднуют. Мне посчастливилось побывать на фестивале, и масштаб мастерства лишил меня дара речи. Одна восковая скульптура изображала многорукое божество в окружении пламени и небесных существ — каждая деталь, каждое перо, каждый палец, каждый завиток пламени — вырезана из пчелиного воска вручную на протяжении трёх месяцев. Мастера, многие из которых монахи, стояли рядом со своими творениями с тихой гордостью, а процессию сопровождала музыка мор лам — традиционное исанское пение, одновременно радостное и меланхоличное, голос северо-востока.\n\nНациональный парк Пха Тем, примерно в 100 километрах к востоку от города вдоль Меконга, — место, где ландшафт Исана раскрывается как нечто куда более драматичное, чем плоские рисовые поля, которые представляет себе большинство. Край утёса отвесно обрывается на сотни метров к Меконгу, а на скале сохранились доисторические росписи — отпечатки ладоней, рыбы, геометрические узоры — возрастом от 3 000 до 4 000 лет. Я стоял на краю утёса на рассвете, первый человек на смотровой площадке тем утром, и смотрел, как солнце встаёт над Лаосом, Меконг внизу мерцает золотом и серебром, а тишину нарушает лишь крик браминских коршунов, парящих в восходящих потоках. Это один из самых мощных ландшафтов Таиланда, и он был целиком в моём распоряжении.\n\nСам Пхан Бок, что переводится как «три тысячи дыр», — другое природное чудо Убона: участок русла Меконга, за тысячелетия эрозии превращённый в тысячи выбоин, каналов и скальных формаций, обнажающихся при падении уровня воды в сухой сезон (декабрь–май). Я приехал в феврале, и обнажённая порода простиралась как лунный ландшафт, выбоины были заполнены бирюзовыми лужами, а всю сцену обрамлял широкий Меконг с Лаосом на дальнем берегу. Местные семьи устраивали пикник на камнях, дети плавали в природных бассейнах, торговцы жарили курицу на импровизированных мангалах. Человек пятьдесят было рассредоточено по территории размером с несколько футбольных полей. Сравнение с Гранд-Каньоном уместно не в масштабе, а в изумлении — это место, которое заставляет замереть и просто смотреть.\n\nВ городе еда — чистый Исан: дерзкая, кислая, острая и ферментированная. Я ел ларб му (острый салат из рубленой свинины), от которого губы онемели, сом там с пла ра (ферментированной рыбной пастой), чья пронзительная глубина вкуса недостижима ни для одной туристической версии, и клейкий рис, который отрывал пальцами на традиционный манер. Ночной рынок вдоль Ратчабут Роуд стал моим вечерним ритуалом — раскинувшееся пространство, где я открыл кай ян (курицу на гриле в маринаде из лемонграсса и чеснока), сай крок Исан (ферментированные колбаски) и десерт из сладкого клейкого риса со свежим манго за 20 бат, вкус которого — как всё лучшее в Таиланде, сгущённое в одном блюде. Убон Ратчатхани нелегко достичь, и он не спешит быть открытым — и именно это делает его необыкновенным.",
-      "overview": "Убон Ратчатхани, расположенный в регионе Исан на берегу Меконга, — скрытая жемчужина, не уступающая более известным тайским направлениям по уникальности культурных достопримечательностей и природных чудес. Город с населением 190 000 человек наиболее знаменит зрелищным Фестивалем свечей, проводимым каждый июль, когда грандиозные восковые скульптуры проносят по улицам под звуки традиционной музыки мор лам. Помимо фестиваля, Убон предлагает захватывающие природные достопримечательности: Сам Пхан Бок («Гранд-Каньон Таиланда»), доисторические наскальные рисунки в национальном парке Пха Тем и живописное слияние двух рек у Кхонг Чиам — идеальное направление для путешественников, ищущих подлинный исанский опыт вдали от бангкокской суеты.",
-      "thingsToDo": "Убон Ратчатхани предлагает разнообразные достопримечательности — от природных чудес до культурных впечатлений. Фестиваль свечей (ежегодно в июле) — визитная карточка города: парад гигантских восковых скульптур и традиционная музыка мор лам у Ват Тхунг Си Муанг (вход свободный). Сам Пхан Бок в 75 км к востоку в районе Кхонг Чиам — сотни скальных выбоин с бирюзовой водой (вход 200 THB/$6, доступен только декабрь–май). Национальный парк Пха Тем (80 км к востоку) хранит 3 500-летние доисторические росписи и живописные обзорные площадки над Меконгом (вход 200 THB/$6). Деревня Кхонг Чиам у слияния рек Мун и Меконг — закаты и база для исследования восточных достопримечательностей (вход свободный). Лесной монастырь Ват Нонг Па Понг предлагает медитацию и монашеский опыт (бесплатно). Вечерний ночной рынок Убона у автовокзала — подлинная исанская уличная еда по минимальным ценам (от 20–100 THB за блюдо). Большинство достопримечательностей требуют аренды транспорта или организованных экскурсий.",
-      "whereToStay": "Убон Ратчатхани предлагает жильё на любой бюджет, большинство вариантов сосредоточено в центре города у парка Тхунг Си Муанг. Бюджетные путешественники найдут комфортные гестхаусы и базовые отели за $13–25/ночь с чистыми номерами и необходимыми удобствами. Отели среднего класса ($30–70/ночь) обеспечивают больший комфорт, кондиционер и часто включённый завтрак — отличное соотношение цены и качества. Они обычно расположены в деловом центре, в пешей доступности от ресторанов и ночного рынка. Для любителей роскоши — отели высокого класса с бассейнами и изысканной кухней, причём цены в Убоне значительно ниже бангкокских аналогов. Многие отели находятся в 15 минутах езды от аэропорта Убон Ратчатхани; персонал организует трансфер по запросу.",
-      "gettingAround": "Убон Ратчатхани достаточно компактен для пеших прогулок. Тук-туки — самый распространённый местный транспорт: 30–50 THB ($1–1,50) за большинство поездок по городу. Сонгтэо (маршрутные микроавтобусы) ходят по фиксированным маршрутам за 10–20 THB ($0,30–0,60). Grab работает в Убоне с фиксированными ценами: 200–300 THB ($6–9) из аэропорта в центр. Для поездок к Сам Пхан Бок, Пха Тем и Кхонг Чиам (75–80 км к востоку) рекомендуется аренда авто (600–800 THB/$18–24 в день) или Grab. Мотоциклы можно арендовать за 150–250 THB ($5–8)/день для опытных водителей. Велосипеды сдаются в гестхаусах за 50–100 THB ($1,50–3)/день.",
-      "bestTimeToVisit": "Лучшее время для посещения Убон Ратчатхани — с ноября по февраль, когда температура 15–30°C и влажность минимальна. Это прохладный сухой сезон, оптимальный для осмотра природных достопримечательностей вроде Сам Пхан Бок. Фестиваль свечей в июле — главное событие, привлекающее тысячи гостей, хотя июль приходится на сезон муссонов с высокой влажностью и дождями. Если вы едете специально ради Сам Пхан Бок — выбор времени критичен: место доступно только с декабря по май, когда уровень воды достаточно низок. С марта по май становится всё жарче (выше 35°C). Избегайте сентября–октября из-за сильных муссонных дождей, затрудняющих передвижение и ухудшающих видимость на природных объектах.",
-      "safetyTips": "Убон Ратчатхани — в целом безопасный город с низким уровнем преступности. Стандартные меры предосторожности: не демонстрируйте дорогие украшения и электронику, следите за вещами на оживлённых ночных рынках, пользуйтесь проверенными такси или Grab. Дорожная безопасность важна — при аренде мотоцикла надевайте шлем (обязательно по закону) и ведите осторожно. При посещении Сам Пхан Бок и Пха Тем надевайте прочную обувь — скальные поверхности бывают скользкими, особенно утром из-за росы. В сезон дождей (июнь–октябрь) некоторые сельские дороги могут быть подтоплены. Солнце в Исане интенсивное — берите солнцезащитный крем, шляпу и достаточно воды. Водопроводную воду пить не рекомендуется — повсюду доступна бутилированная. Убон остаётся одним из самых безопасных городов Таиланда.",
-      "translated_at": "2026-03-11T00:00:00.000Z"
-    },
-    "ko": {
-      "enhanced_description": "우본랏차타니는 태국 동북부 이산 지방의 메콩강변에 위치한 주요 도시로, 라오스 국경과 접하고 있습니다. 방콕에서 비행기로 약 1시간 거리입니다.\n\n매년 7월의 양초 축제(카오판사)는 우본랏차타니의 하이라이트로, 거대한 밀랍 조각 작품들이 시내를 퍼레이드합니다. 수개월간 정성을 들여 제작된 양초 조각은 예술 작품 수준이며, 태국 전역에서 관람객이 몰려듭니다.\n\n삼판복은 건기(12-5월)에만 모습을 드러내는 메콩강의 독특한 바위 지형으로, 수천 개의 구멍이 뚫린 바위가 장관을 이룹니다. 파탬 국립공원에서는 3,000년 이상 된 선사시대 절벽 벽화를 볼 수 있으며, 태국에서 가장 먼저 해가 뜨는 곳으로도 유명합니다. 왓 시린톤 와라람은 밤에 형광빛으로 빛나는 보리수 벽화가 인상적인 현대적 사원입니다.",
-      "hidden_gems": [
-        {
-          "name": "삼판복",
-          "description": "건기에만 드러나는 메콩강의 독특한 바위 지형, 태국의 그랜드 캐니언입니다."
-        },
-        {
-          "name": "왓 시린톤 와라람",
-          "description": "밤에 형광빛으로 빛나는 보리수 벽화가 인상적인 야광 사원입니다."
-        },
-        {
-          "name": "깽사푸 급류",
-          "description": "메콩강의 급류 지대로, 건기에 독특한 바위 지형이 드러납니다."
-        },
-        {
-          "name": "왓 농부아",
-          "description": "인도 보드가야 마하보디 사원을 모델로 한 독특한 사원입니다."
-        },
-        {
-          "name": "랏차붓 도로 야시장",
-          "description": "이산 특유의 길거리 음식을 맛볼 수 있는 현지 야시장입니다."
-        }
-      ],
-      "authentic_experiences": [],
-      "foodie_adventures": [],
-      "overview": "우본랏차타니는 이산 지방 메콩강변의 주요 도시로, 양초 축제, 삼판복 협곡, 파탬 절벽 벽화, 야광 사원이 주요 볼거리입니다.",
-      "thingsToDo": "우본랏차타니는 자연 경관과 문화 유산을 아우르는 다양한 명소를 제공합니다. 삼판복에서 태국의 그랜드 캐니언을 감상하고, 파탬 국립공원에서 선사시대 벽화와 일출을 즐기세요. 왓 시린톤 와라람의 야광 벽화는 밤에 방문하세요. 7월의 양초 축제는 필수입니다.",
-      "whereToStay": "우본랏차타니는 모든 예산에 맞는 숙소가 시내 중심에 밀집해 있습니다. 메콩강변의 게스트하우스도 분위기 있습니다.",
-      "gettingAround": "우본랏차타니 시내는 비교적 컴팩트합니다. 툭툭이 가장 일반적인 교통수단이며, 삼판복과 파탬 등 외곽 명소는 렌터카나 투어가 편리합니다.",
-      "bestTimeToVisit": "우본랏차타니의 최적 방문 시기는 11월부터 2월까지입니다. 건기에 삼판복이 모습을 드러내며, 7월의 양초 축제도 놓치지 마세요.",
-      "safetyTips": "우본랏차타니는 안전한 도시입니다. 삼판복과 파탬 국립공원에서 절벽 가장자리에 주의하세요. 우기에는 메콩강 수위 상승으로 일부 명소가 접근 불가할 수 있습니다.",
-      "translated_at": "2026-03-14T00:00:00.000Z"
-    }
-  },
-  "extended_description": "## Overview\nUbon Ratchathani — known simply as 'Ubon' to Thais — is one of Isaan's largest and most historically significant cities, sitting at the confluence of the Mun and Mekong rivers in Thailand's far northeast. The city is synonymous with the Candle Festival (Ngan Haen Thian Phansa), one of Thailand's most spectacular annual events, where massive beeswax sculptures are paraded through the streets to mark the start of Buddhist Lent. Beyond the festival, Ubon is a gateway to extraordinary natural wonders: the 3,000-year-old cliff paintings at Pha Taem National Park, the otherworldly rock formations of Sam Phan Bok (Thailand's Grand Canyon), and the two-color river at Khong Chiam where the brown Mekong meets the clear Mun. With a lively university population, authentic Isaan street food, and sacred temple architecture, Ubon rewards travelers who venture beyond Bangkok and the beach resorts.\n\n## Best Time to Visit\nThe cool season from November to February is ideal for exploring the province's outdoor attractions, with temperatures ranging from 15 to 30 degrees Celsius and minimal rainfall. This is when Sam Phan Bok's spectacular potholes are fully exposed — the Mekong recedes to reveal thousands of eroded rock formations that remain submerged during the wet season. January and February are peak viewing months. However, the Candle Festival in July (dates shift annually with Asanha Bucha Day, typically mid-July) is the single most compelling reason to visit — if you can handle the heat and occasional rain, the festival experience is unmatched. The hot season from March to May pushes temperatures above 40 degrees Celsius and is best avoided. The rainy season (June-October) floods Sam Phan Bok entirely, but the surrounding countryside turns a vivid green and waterfalls like Soi Sawan and Haew Suwat run at full force.\n\n## How to Get There\nUbon Ratchathani Airport (UBP) receives multiple daily flights from Bangkok on AirAsia, Nok Air, and Thai Smile (1 hour 10 minutes, 1,000-3,000 THB from Don Mueang or Suvarnabhumi). The airport is about 5 kilometers north of the city center (taxi 100-150 THB). Overnight trains from Bangkok's Hua Lamphong Station take 10-12 hours with sleeper berths available (500-1,200 THB) — the train arrives at Ubon Ratchathani's central railway station. Buses from Bangkok's Mo Chit terminal run throughout the day and night (8-10 hours, 400-700 THB). The natural attractions — Sam Phan Bok, Pha Taem, Khong Chiam — are 80-120 kilometers east of the city along the Mekong, so renting a car (800-1,500 THB/day) or joining a day tour is essential for exploring the province fully.\n\n## Where to Stay\nThe city center around Thung Si Muang Park is the most convenient base, with mid-range hotels from 500-1,500 THB and budget guesthouses from 250-500 THB within walking distance of the night market, temples, and restaurants. During the Candle Festival (July), book months in advance — the entire city fills up and prices can double. For the Mekong attractions, Khong Chiam is a charming riverside village 80 kilometers east of the city with guesthouses and small resorts from 400-1,500 THB — staying here puts you close to Sam Phan Bok, Pha Taem, and the two-color river without the daily drive from Ubon. Along the Mekong near Pha Taem, a few eco-lodges and riverside resorts offer stunning sunset views (1,000-3,000 THB).\n\n## What to Do\nThe Candle Festival (Ngan Haen Thian Phansa) is Ubon's crown jewel — held annually on Asanha Bucha Day (July), it features a grand parade of enormous beeswax sculptures carved by teams of monks and artisans, accompanied by traditional Isaan music, dance troupes in elaborate costumes, and floats. The celebrations span a full week with exhibitions, concerts, and temple ceremonies. At Pha Taem National Park, a cliff-edge trail reveals 3,000-year-old prehistoric paintings depicting giant catfish, elephants, human hands, and geometric patterns — the paintings stretch along 180 meters of sandstone cliff overlooking the Mekong, and the viewpoint offers the first sunrise in Thailand. Sam Phan Bok ('3,000 Holes') is a moonscape of water-carved potholes in the Mekong riverbed, best visited at sunrise or sunset when the light paints the formations in gold and orange. The Two-Color River at Khong Chiam, where the murky brown Mekong meets the clear blue-green Mun River, is a unique natural phenomenon visible from boat tours (50-100 THB). Wat Sirindhorn Wararam (the Glow Temple) features a fluorescent Tree of Life mural on its rear wall that glows an eerie green after sunset — arrive at dusk for the full effect.\n\n## Food & Dining\nUbon is an Isaan food capital. The essential meal is som tam (green papaya salad), gai yang (charcoal-grilled chicken), and khao niao (sticky rice) — the holy trinity of Isaan cuisine, available at street stalls for 30-60 THB per item. Pornthip Som Tam Gai Yang near Wat Jaeng is a local institution serving fiery papaya salad with fermented fish sauce and beautifully charred chicken. The night market south of Thung Si Muang Park is compact but excellent — look for Vietnamese-influenced khanom pang pate (baguette sandwiches), duck noodle soup, and Ubon's specialty khanom morkaen (a coconut custard cake). For a sit-down meal, Zaap Soi 9 offers air-conditioned comfort with a wide menu spanning Isaan classics, seafood, and cashew chicken (100-250 THB per dish). Ubon's coffee scene is surprisingly strong for an Isaan city, with several independent cafes near the university.\n\n## Budget Guide\nUbon Ratchathani is very affordable. Backpackers can live well on 600-1,000 THB per day (guesthouse 250-500, three meals 150-300, local transport 50-100). Mid-range travelers spending 1,200-2,500 THB per day get comfortable hotel rooms, sit-down restaurants, and private transport to attractions. The main additional cost is transport to the Mekong sights — a rental car (800-1,500 THB/day) or a full-day tour to Sam Phan Bok and Pha Taem (1,200-2,000 THB per person) is necessary since these attractions are far from the city. During the Candle Festival, expect to pay 20-50% premiums on accommodation. Flights from Bangkok can be as low as 1,000 THB if booked 3-4 weeks ahead; the overnight train is a budget-friendly alternative with the bonus of saving a night's accommodation.\n\n## Safety & Tips\nUbon is a safe, friendly city. At Sam Phan Bok and Pha Taem, exercise caution near unfenced cliff edges — the rock can be slippery, especially in early morning dew, and there are no guardrails at many viewpoints. Sam Phan Bok is only safely accessible from November to May; during the rainy season, the entire rock formation is submerged by the rising Mekong. For the Candle Festival, arrive in Ubon at least one day early to secure your parade viewing spot — locals stake out prime positions along the route from early morning. Bring sun protection for the parade (July heat is intense). A motorbike rental (200-300 THB/day) works for the city but a car is safer and more practical for the long drives to Pha Taem and Sam Phan Bok. Wat Sirindhorn Wararam's glow effect only works after dark — plan to arrive at 6pm and wait for full darkness around 6:30-7pm for the best photos.",
-  "getting_there": {
-    "from_bangkok": {
-      "flight": "1h 10min, 1,000-3,000 THB (AirAsia, Nok Air, Thai Smile)",
-      "train": "10-12 hours overnight, 500-1,200 THB (sleeper berths available from Hua Lamphong)",
-      "bus": "8-10 hours, 400-700 THB from Mo Chit"
-    },
-    "local": "Tuk-tuks in city 30-80 THB, car rental essential for Mekong sights (800-1,500 THB/day)",
-    "airport": "Ubon Ratchathani Airport (UBP), 5 km north of city center"
-  },
-  "best_time": {
-    "peak": "Nov-Feb (cool, Sam Phan Bok exposed)",
-    "shoulder": "Jul (Candle Festival — hot but worth it)",
-    "low": "Mar-Jun, Aug-Oct (extreme heat or monsoon floods)",
-    "avoid": "June-October for Sam Phan Bok (completely submerged)",
-    "best_months": "Dec-Feb",
-    "why": "Cool temperatures, Sam Phan Bok fully exposed, Pha Taem sunrises are clearest, waterfalls still flowing."
-  },
-  "budget": {
-    "backpacker": "$17-28/day",
-    "mid_range": "$34-71/day",
-    "luxury": "$85+/day",
-    "typical_meal": "30-60 THB street food, 100-250 THB restaurant"
-  },
-  "neighborhoods": [
-    {
-      "name": "City Center (Thung Si Muang Park area)",
-      "vibe": "Temples, night market, university energy, Candle Festival parade route",
-      "best_for": "First-timers, culture seekers, festival-goers",
-      "price_range": "250-1,500 THB/night"
-    },
-    {
-      "name": "Khong Chiam",
-      "vibe": "Sleepy Mekong riverside village, gateway to Sam Phan Bok and Pha Taem",
-      "best_for": "Nature lovers, photographers, those exploring Mekong attractions",
-      "price_range": "400-1,500 THB/night"
-    },
-    {
-      "name": "Pha Taem / Mekong Riverside",
-      "vibe": "Eco-lodges with river views, remote and peaceful, sunrise territory",
-      "best_for": "Adventure seekers, couples wanting seclusion",
-      "price_range": "1,000-3,000 THB/night"
-    }
-  ],
-  "must_try_food": [
-    "Som tam, gai yang, and khao niao at Pornthip Som Tam Gai Yang near Wat Jaeng — Ubon's best papaya salad and charcoal chicken (30-60 THB each)",
-    "Khanom pang pate at the night market — Vietnamese-style baguette sandwiches, a unique Ubon street snack (20-40 THB)",
-    "Khanom morkaen — Ubon's signature coconut custard cake, sweet and dense, found at market stalls (10-20 THB per piece)"
-  ],
-  "local_tips": [
-    "Visit Sam Phan Bok at sunrise for the best light — the golden hour paints the 3,000 potholes in spectacular colors",
-    "For the Candle Festival, book accommodation 2-3 months ahead and arrive a day early to stake out your parade-watching spot",
-    "Combine Pha Taem, Khong Chiam two-color river, and Sam Phan Bok in a single long day trip — all are within 40 km of each other",
-    "Wat Sirindhorn Wararam's glow-in-the-dark mural only works after sunset — arrive at 6pm, wait until 6:30-7pm for full darkness",
-    "Rent a car rather than a motorbike for the Mekong sights — distances are long (80+ km from the city) and roads are fast-moving highways"
-  ],
-  "day_trips": [
-    "Sam Phan Bok sunrise + Pha Taem cliff paintings + Two-Color River at Khong Chiam — full day, rent car or join tour (1,200-2,000 THB)",
-    "Sao Chaliang mushroom-shaped rock formations in Pha Taem National Park — surreal sandstone pillars eroded into alien shapes (included in park entry 200 THB)",
-    "Soi Sawan Waterfall — powerful cascade in lush forest, most impressive in late rainy season (free entry, 90 km from city)",
-    "Kaeng Saphu Rapids — scenic Mekong rapids with riverside restaurants and sunset views (free, 100 km east of city)"
-  ],
-  "enriched_at": "2026-03-22"
+  "reviewed_by": "Go2Thailand Editorial Team",
+  "enhanced_at": "2026-03-27T14:10:00.000Z",
+  "factchecked_at": "2026-03-27T14:10:00.000Z",
+  "enrichedAt": "2026-03-27T14:10:00.000Z"
 }

@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-03-27T00:00:00.000Z",
+  "updated_at": "2026-03-27T15:05:00.000Z",
   "project": "go2thailand city upgrade tracker",
   "goal": "Upgrade all English city clusters to source-backed, non-thin, AdSense-safe, EEAT-oriented pages.",
   "done_definition": [
@@ -171,8 +171,8 @@
     },
     {
       "slug": "ubon-ratchathani",
-      "status": "pending",
-      "notes": ""
+      "status": "done",
+      "notes": "English city cluster rebuilt around the museum, Wat Thung Si Mueang, Wat Phra That Nong Bua, and one edited Khong Chiam-Pha Taem day; weak attraction leftovers removed; validated with jq, tsc, and localhost render checks."
     },
     {
       "slug": "udon-thani",

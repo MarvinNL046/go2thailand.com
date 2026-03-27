@@ -1,50 +1,76 @@
 {
-  "id": 7,
+  "id": 5,
   "slug": "khong-jiam-two-color-river",
   "name": {
-    "en": "Khong Jiam (Two-Color River)",
-    "nl": "Khong Jiam (Tweekleurenrivier)"
+    "en": "Khong Chiam and the Two-Color River",
+    "nl": "Khong Chiam en de tweekleurenrivier"
   },
   "type": "nature",
   "city_slug": "ubon-ratchathani",
-  "address": "Ubon Ratchathani, Thailand",
+  "address": "Khong Chiam District, Ubon Ratchathani",
   "location": null,
-  "opening_hours": null,
+  "opening_hours": "Public access is usually straightforward, but boat activity and local operations should be checked on site if they matter to your plan.",
   "entrance_fee": {
-    "thb": 0,
-    "usd": 0
+    "thb": null,
+    "usd": null
   },
   "description": {
-    "en": "The confluence where the brown Mun River meets the blue Mekong, creating a striking two-toned effect. Take a longtail boat to the exact meeting point for the best views of the contrasting waters.",
-    "nl": "De samenvloeiing waar de bruine Mun-rivier de blauwe Mekong ontmoet, wat een opvallend tweekleureneffect creëert. Neem een longtailboot naar het exacte ontmoetingspunt voor het beste uitzicht op de contrasterende wateren."
+    "en": "The cleanest Mekong-side first stop from Ubon city and the right lead-in to a Pha Taem day.",
+    "nl": "De schoonste eerste Mekong-stop vanuit Ubon-stad en de juiste opmaat naar een Pha Taem-dag."
   },
   "highlights": [
-    "Two-color river confluence",
-    "Mekong and Mun rivers",
-    "Boat trips available",
-    "Longtail boat to meeting point"
+    "Mun-Mekong confluence",
+    "Best Mekong-side first stop",
+    "Pairs with Pha Taem"
   ],
-  "image": "/images/cities/bangkok/downtown-bangkok.webp",
-  "official_website": null,
+  "image": "/images/cities/generated/ubon-ratchathani.webp",
   "seo": {
     "metaTitle": {
-      "en": "Khong Jiam (Two-Color River) - Top Attraction in Ubon Ratchathani | Go2Thailand",
-      "nl": "Khong Jiam (Tweekleurenrivier) - Top Attractie in Ubon Ratchathani | Go2Thailand"
+      "en": "Khong Chiam and the Two-Color River | Go2Thailand",
+      "nl": "Khong Chiam en de tweekleurenrivier | Go2Thailand"
     },
     "metaDescription": {
-      "en": "Discover Khong Jiam (Two-Color River) in Ubon Ratchathani. The confluence where the brown Mun River meets the blue Mekong, creating a striking two-toned effect. Take a longtail boat to the exact meeting point for the best views of the contrasting waters.",
-      "nl": "Ontdek Khong Jiam (Tweekleurenrivier) in Ubon Ratchathani. De samenvloeiing waar de bruine Mun-rivier de blauwe Mekong ontmoet, wat een opvallend tweekleureneffect creëert. Neem een longtailboot naar het exacte ontmoetingspunt voor het beste uitzicht op de contrasterende wateren."
+      "en": "Why Khong Chiam and the Two-Color River are the right Mekong-side extension from Ubon Ratchathani.",
+      "nl": "Waarom Khong Chiam en de tweekleurenrivier de juiste Mekong-extensie vanuit Ubon Ratchathani zijn."
     }
   },
   "tags": [
-    "nature",
     "ubon-ratchathani",
-    "thailand",
-    "attraction",
-    "travel",
-    "tourism"
+    "khong-chiam",
+    "mekong"
   ],
-  "googleMapsUrl": "https://maps.app.goo.gl/PhHchTmtCR6jp",
+  "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=Khong%20Chiam%20Two%20Color%20River",
   "best_time": "morning",
-  "duration_hours": 1.5
+  "duration_hours": 1.5,
+  "enhanced_description": "Khong Chiam is the right first stop on the eastern side of the province because it makes the Mekong layer coherent. The Mun-Mekong meeting point, the border-facing atmosphere, and the drive toward Pha Taem all belong to the same edited route, which is far stronger than scattering rapids, rock pillars, and extra waterfalls into one overloaded day.",
+  "detailed_history": "Tourism Product's current Ubon coverage keeps Khong Chiam in the province's strongest outer-city sequence, especially when linked with Pha Taem and the broader Mekong-facing district.",
+  "visitor_experience": "Expect a route stop with atmosphere and geography rather than a complex all-day attraction. The payoff comes from sequencing: this is where the Khong Chiam-Pha Taem day starts to feel intentional instead of random.",
+  "best_time_to_visit": {
+    "time_of_day": "Morning",
+    "duration": "About 60 to 90 minutes",
+    "crowd_level": "Usually light to moderate"
+  },
+  "practical_info": {
+    "how_to_get_there": "Best reached by car or driver from Ubon city as part of the eastern Mekong day.",
+    "nearby_attractions": "Pha Taem National Park and the wider Khong Chiam district.",
+    "food_options": "Plan breakfast in the city or a selective lunch stop on the Khong Chiam side.",
+    "shopping": "Treat it as a landscape-and-route stop rather than a retail zone."
+  },
+  "insider_tips": [
+    "Do this on the same day as Pha Taem if you are leaving the city.",
+    "One edited Mekong day beats trying to cover every eastern-district stop in a single loop.",
+    "Do not rely on brittle boat or water-level claims unless you check them locally that day."
+  ],
+  "verified_note": "Source-backed summary based on current Tourism Product coverage for Ubon's Khong Chiam side.",
+  "cultural_significance": "Khong Chiam matters because it is the province's clearest border-river extension from the city and the best way to make the Mekong side of Ubon feel geographically legible.",
+  "contentSources": [
+    {
+      "name": "Explore the E-Sarn region with a memorable trip to Ubon Ratchathani",
+      "url": "https://tourismproduct.tourismthailand.org/en/2023/01/27/explore-the-e-sarn-region-with-a-memorable-trip-to-ubon-ratchathani/"
+    },
+    {
+      "name": "5 Inspiring Destinations, Highlight Attractions, and Must-Do Activities",
+      "url": "https://tourismproduct.tourismthailand.org/en/2024/07/02/5-%E0%B8%AA%E0%B8%96%E0%B8%B2%E0%B8%99%E0%B8%97%E0%B8%B5%E0%B9%88%E0%B9%80%E0%B8%97%E0%B8%B5%E0%B9%88%E0%B8%A2%E0%B8%A7%E0%B9%81%E0%B8%99%E0%B8%A7%E0%B8%84%E0%B8%B4%E0%B8%94%E0%B8%94%E0%B8%B5-2-2/"
+    }
+  ]
 }

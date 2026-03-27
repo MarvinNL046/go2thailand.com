@@ -1,208 +1,150 @@
 {
   "title": "Best Restaurants in Ubon Ratchathani Thailand (2026)",
-  "meta_description": "The 10 best restaurants in Ubon Ratchathani, Thailand with real ratings and guest reviews from tripadvisor. Updated 2026-03-08.",
-  "intro": "Discover the best restaurants in Ubon Ratchathani, Thailand. These recommendations are based on real guest reviews and ratings from tripadvisor.",
+  "meta_description": "The Ubon Ratchathani restaurants that actually matter: MICHELIN-backed noodles, dumplings, Isaan classics, and a few stronger city meals instead of review spam.",
+  "intro": "Ubon Ratchathani's food page should be built around names that still carry current editorial weight, not scrape-era ratings. The strongest route is clear: Guay Jub Ubon for a city classic, Pak Mor Robot for the Vietnamese-influenced small-eats layer, Krua Samchai and Som Tum Jinda for serious Isaan flavor, then Santi Pochana or Chomjan when you want a fuller lunch or dinner structure.",
   "items": [
     {
       "rank": 1,
-      "name": "Ricco Caf",
-      "description": "Ricco Caf is a 4.8-rated Bar, International restaurant in Ubon Ratchathani.",
-      "location": "Ubon Ratchathani",
-      "current_price": "$$ - $$$",
-      "highlights": [],
-      "insider_tips": [],
-      "current_info": "Cuisine: Bar, International • Price: $$ - $$$ • Rating: 4.8/5 • 117 reviews",
-      "scraped": {
-        "source": "tripadvisor",
-        "cuisine": "Bar, International",
-        "price_range": "$$ - $$$",
-        "rating": 4.8,
-        "review_count": 117,
-        "scraped_at": "2026-03-08T17:07:36.571Z"
-      },
-      "trip_affiliate_url": "https://tp.media/r?marker=602467&trs=421888&p=7631&u=https%3A%2F%2Fwww.trip.com%2Fhotels%2Flist%3Fkeyword%3DRicco%2520Caf%2520Ubon%2520Ratchathani"
+      "name": "Guay Jub Ubon",
+      "description": "The clearest city-classic noodle stop and still one of the most useful anchors for understanding Ubon's everyday food identity.",
+      "location": "Nai Mueang, Ubon Ratchathani",
+      "current_price": "Budget",
+      "highlights": [
+        "MICHELIN Guide listing",
+        "Dark five-spice broth",
+        "Best as a daytime meal"
+      ],
+      "insider_tips": [
+        "Use this early in the city route rather than leaving it as a backup meal."
+      ],
+      "current_info": "The MICHELIN Guide still treats Guay Jub Ubon as one of the city's defining noodle names."
     },
     {
       "rank": 2,
-      "name": "Indochine - Ubon Ratchahani",
-      "description": "Indochine - Ubon Ratchahani is a 4-rated Asian, Vietnamese restaurant in Ubon Ratchathani.",
-      "location": "Ubon Ratchathani",
-      "current_price": "$$ - $$$",
-      "highlights": [],
-      "insider_tips": [],
-      "current_info": "Cuisine: Asian, Vietnamese • Price: $$ - $$$ • Rating: 4/5 • 117 reviews",
-      "scraped": {
-        "source": "tripadvisor",
-        "cuisine": "Asian, Vietnamese",
-        "price_range": "$$ - $$$",
-        "rating": 4,
-        "review_count": 117,
-        "scraped_at": "2026-03-08T17:07:36.571Z"
-      },
-      "trip_affiliate_url": "https://tp.media/r?marker=602467&trs=421888&p=7631&u=https%3A%2F%2Fwww.trip.com%2Fhotels%2Flist%3Fkeyword%3DIndochine%2520-%2520Ubon%2520Ratchahani%2520Ubon%2520Ratchathani"
+      "name": "Pak Mor Robot",
+      "description": "A stronger small-eats stop than any generic cafe because it gives Ubon's Vietnamese-influenced food layer a precise, city-specific anchor.",
+      "location": "Nai Mueang, Ubon Ratchathani",
+      "current_price": "Budget",
+      "highlights": [
+        "MICHELIN Guide listing",
+        "Pak mor and fried-egg dumplings",
+        "Best for breakfast or lunch"
+      ],
+      "insider_tips": [
+        "This works best in the morning or early afternoon, especially with the museum block."
+      ],
+      "current_info": "MICHELIN still keeps Pak Mor Robot in Ubon's active restaurant lineup."
     },
     {
       "rank": 3,
-      "name": "The Outside Inn",
-      "description": "The Outside Inn is a 4.7-rated Mexican, Bar restaurant in Ubon Ratchathani.",
-      "location": "Ubon Ratchathani",
-      "current_price": "$$ - $$$",
-      "highlights": [],
-      "insider_tips": [],
-      "current_info": "Cuisine: Mexican, Bar • Price: $$ - $$$ • Rating: 4.7/5 • 164 reviews",
-      "scraped": {
-        "source": "tripadvisor",
-        "cuisine": "Mexican, Bar",
-        "price_range": "$$ - $$$",
-        "rating": 4.7,
-        "review_count": 164,
-        "scraped_at": "2026-03-08T17:07:36.571Z"
-      },
-      "trip_affiliate_url": "https://tp.media/r?marker=602467&trs=421888&p=7631&u=https%3A%2F%2Fwww.trip.com%2Fhotels%2Flist%3Fkeyword%3DThe%2520Outside%2520Inn%2520Ubon%2520Ratchathani"
+      "name": "Krua Samchai",
+      "description": "One of the best serious Isaan lunch or dinner names in town if you want the page to feel grounded in local savory cooking rather than snacks alone.",
+      "location": "Ubon Ratchathani city",
+      "current_price": "Mid-range",
+      "highlights": [
+        "MICHELIN Guide listing",
+        "Grilled chicken and fish dishes",
+        "Good group meal stop"
+      ],
+      "insider_tips": [
+        "Come with enough appetite or enough people to order more than one signature dish."
+      ],
+      "current_info": "The MICHELIN Guide still uses Krua Samchai as one of Ubon's core Isaan-table references."
     },
     {
       "rank": 4,
-      "name": "Zaap Soi 9",
-      "description": "Zaap Soi 9 is a 4.1-rated Thai restaurant in Ubon Ratchathani.",
-      "location": "Ubon Ratchathani",
-      "current_price": "$$ - $$$",
-      "highlights": [],
-      "insider_tips": [],
-      "current_info": "Cuisine: Thai • Price: $$ - $$$ • Rating: 4.1/5 • 27 reviews",
-      "scraped": {
-        "source": "tripadvisor",
-        "cuisine": "Thai",
-        "price_range": "$$ - $$$",
-        "rating": 4.1,
-        "review_count": 27,
-        "scraped_at": "2026-03-08T17:07:36.571Z"
-      },
-      "trip_affiliate_url": "https://tp.media/r?marker=602467&trs=421888&p=7631&u=https%3A%2F%2Fwww.trip.com%2Fhotels%2Flist%3Fkeyword%3DZaap%2520Soi%25209%2520Ubon%2520Ratchathani"
+      "name": "Som Tum Jinda",
+      "description": "The cleanest specialist pick when the route needs one direct som-tum-and-Isaan-flavor stop instead of a vague multi-cuisine fallback.",
+      "location": "Ubon Ratchathani city",
+      "current_price": "Budget to mid-range",
+      "highlights": [
+        "MICHELIN Guide listing",
+        "Som tum specialist",
+        "Strong daytime or early dinner option"
+      ],
+      "insider_tips": [
+        "Use this when you want sharper Isaan flavor rather than a general family restaurant."
+      ],
+      "current_info": "MICHELIN still lists Som Tum Jinda in its current Ubon selection."
     },
     {
       "rank": 5,
-      "name": "Peppers Restaurant & Bakery",
-      "description": "Peppers Restaurant & Bakery is a 4.4-rated Mexican, International restaurant in Ubon Ratchathani.",
-      "location": "Ubon Ratchathani",
-      "current_price": "$$ - $$$",
-      "highlights": [],
-      "insider_tips": [],
-      "current_info": "Cuisine: Mexican, International • Price: $$ - $$$ • Rating: 4.4/5 • 230 reviews",
-      "scraped": {
-        "source": "tripadvisor",
-        "cuisine": "Mexican, International",
-        "price_range": "$$ - $$$",
-        "rating": 4.4,
-        "review_count": 230,
-        "scraped_at": "2026-03-08T17:07:36.571Z"
-      },
-      "trip_affiliate_url": "https://tp.media/r?marker=602467&trs=421888&p=7631&u=https%3A%2F%2Fwww.trip.com%2Fhotels%2Flist%3Fkeyword%3DPeppers%2520Restaurant%2520%2526%2520Bakery%2520Ubon%2520Ratchathani"
+      "name": "Santi Pochana",
+      "description": "A broader traditional-city meal option that keeps the shortlist from collapsing into only noodle counters and snack stops.",
+      "location": "Ubon Ratchathani city",
+      "current_price": "Mid-range",
+      "highlights": [
+        "MICHELIN Guide listing",
+        "Traditional Thai-Chinese style city meal",
+        "Useful dinner counterweight"
+      ],
+      "insider_tips": [
+        "This is a stronger later-day meal than another hotel-restaurant placeholder."
+      ],
+      "current_info": "MICHELIN still includes Santi Pochana among the city's stronger traditional dining names."
     },
     {
       "rank": 6,
-      "name": "Big Ubon Breakfasts",
-      "description": "Big Ubon Breakfasts is a 5-rated American, Cafe restaurant in Ubon Ratchathani.",
-      "location": "Ubon Ratchathani",
-      "current_price": "$",
-      "highlights": [],
-      "insider_tips": [],
-      "current_info": "Cuisine: American, Cafe • Price: $ • Rating: 5/5 • 26 reviews",
-      "scraped": {
-        "source": "tripadvisor",
-        "cuisine": "American, Cafe",
-        "price_range": "$",
-        "rating": 5,
-        "review_count": 26,
-        "scraped_at": "2026-03-08T17:07:36.571Z"
-      },
-      "trip_affiliate_url": "https://tp.media/r?marker=602467&trs=421888&p=7631&u=https%3A%2F%2Fwww.trip.com%2Fhotels%2Flist%3Fkeyword%3DBig%2520Ubon%2520Breakfasts%2520Ubon%2520Ratchathani"
-    },
-    {
-      "rank": 7,
-      "name": "Sapori Italian Restaurant",
-      "description": "Sapori Italian Restaurant is a 4.7-rated Italian, Pizza restaurant in Ubon Ratchathani.",
-      "location": "Ubon Ratchathani",
-      "current_price": "$$ - $$$",
-      "highlights": [],
-      "insider_tips": [],
-      "current_info": "Cuisine: Italian, Pizza • Price: $$ - $$$ • Rating: 4.7/5 • 14 reviews",
-      "scraped": {
-        "source": "tripadvisor",
-        "cuisine": "Italian, Pizza",
-        "price_range": "$$ - $$$",
-        "rating": 4.7,
-        "review_count": 14,
-        "scraped_at": "2026-03-08T17:07:36.571Z"
-      },
-      "trip_affiliate_url": "https://tp.media/r?marker=602467&trs=421888&p=7631&u=https%3A%2F%2Fwww.trip.com%2Fhotels%2Flist%3Fkeyword%3DSapori%2520Italian%2520Restaurant%2520Ubon%2520Ratchathani"
-    },
-    {
-      "rank": 8,
-      "name": "Ubon Seafood",
-      "description": "Ubon Seafood is a 4.4-rated Seafood restaurant in Ubon Ratchathani.",
-      "location": "Ubon Ratchathani",
-      "current_price": "$$ - $$$",
-      "highlights": [],
-      "insider_tips": [],
-      "current_info": "Cuisine: Seafood • Price: $$ - $$$ • Rating: 4.4/5 • 14 reviews",
-      "scraped": {
-        "source": "tripadvisor",
-        "cuisine": "Seafood",
-        "price_range": "$$ - $$$",
-        "rating": 4.4,
-        "review_count": 14,
-        "scraped_at": "2026-03-08T17:07:36.571Z"
-      },
-      "trip_affiliate_url": "https://tp.media/r?marker=602467&trs=421888&p=7631&u=https%3A%2F%2Fwww.trip.com%2Fhotels%2Flist%3Fkeyword%3DUbon%2520Seafood%2520Ubon%2520Ratchathani"
-    },
-    {
-      "rank": 9,
-      "name": "Venezia Ubon",
-      "description": "Venezia Ubon is a 4.2-rated Italian, Pizza restaurant in Ubon Ratchathani.",
-      "location": "Ubon Ratchathani",
-      "current_price": "$$ - $$$",
-      "highlights": [],
-      "insider_tips": [],
-      "current_info": "Cuisine: Italian, Pizza • Price: $$ - $$$ • Rating: 4.2/5 • 24 reviews",
-      "scraped": {
-        "source": "tripadvisor",
-        "cuisine": "Italian, Pizza",
-        "price_range": "$$ - $$$",
-        "rating": 4.2,
-        "review_count": 24,
-        "scraped_at": "2026-03-08T17:07:36.571Z"
-      },
-      "trip_affiliate_url": "https://tp.media/r?marker=602467&trs=421888&p=7631&u=https%3A%2F%2Fwww.trip.com%2Fhotels%2Flist%3Fkeyword%3DVenezia%2520Ubon%2520Ubon%2520Ratchathani"
-    },
-    {
-      "rank": 10,
-      "name": "Myhome Ubon Restaurant",
-      "description": "Myhome Ubon Restaurant is a 3.8-rated Cafe, Seafood restaurant in Ubon Ratchathani.",
-      "location": "Ubon Ratchathani",
-      "current_price": "$$$$",
-      "highlights": [],
-      "insider_tips": [],
-      "current_info": "Cuisine: Cafe, Seafood • Price: $$$$ • Rating: 3.8/5 • 6 reviews",
-      "scraped": {
-        "source": "tripadvisor",
-        "cuisine": "Cafe, Seafood",
-        "price_range": "$$$$",
-        "rating": 3.8,
-        "review_count": 6,
-        "scraped_at": "2026-03-08T17:07:36.571Z"
-      },
-      "trip_affiliate_url": "https://tp.media/r?marker=602467&trs=421888&p=7631&u=https%3A%2F%2Fwww.trip.com%2Fhotels%2Flist%3Fkeyword%3DMyhome%2520Ubon%2520Restaurant%2520Ubon%2520Ratchathani"
+      "name": "Chomjan",
+      "description": "One of the better fuller-format Ubon meals when you want a more polished lunch or dinner without leaving the page to scrape-era fine-dining filler.",
+      "location": "Ubon Ratchathani city",
+      "current_price": "Mid-range",
+      "highlights": [
+        "MICHELIN Guide listing",
+        "Larger-format meal",
+        "Useful for a longer dinner"
+      ],
+      "insider_tips": [
+        "Keep this as a deliberate lunch or dinner, not as a default because it looks more formal."
+      ],
+      "current_info": "MICHELIN still maintains a current Chomjan listing in Ubon Ratchathani."
     }
   ],
   "city_slug": "ubon-ratchathani",
   "city_name": "Ubon Ratchathani",
   "category": "restaurants",
-  "data_sources": [
-    "tripadvisor",
-    "scraped"
+  "content_sources": [
+    {
+      "title": "Guay Jub Ubon",
+      "creator": "MICHELIN Guide",
+      "url": "https://guide.michelin.com/us/en/ubon-ratchathani-province/ubon-ratchathani/restaurant/guay-jub-ubon",
+      "description": "Used for the city's classic guay jub anchor."
+    },
+    {
+      "title": "Pak Mor Robot",
+      "creator": "MICHELIN Guide",
+      "url": "https://guide.michelin.com/en/ubon-ratchathani-province/ubon-ratchathani/restaurant/pak-mor-robot",
+      "description": "Used for the Vietnamese-influenced dumpling and small-eats layer."
+    },
+    {
+      "title": "Krua Samchai",
+      "creator": "MICHELIN Guide",
+      "url": "https://guide.michelin.com/us/en/ubon-ratchathani-province/ubon-ratchathani/restaurant/krua-samchai",
+      "description": "Used for the stronger Isaan lunch-and-dinner anchor."
+    },
+    {
+      "title": "Som Tum Jinda",
+      "creator": "MICHELIN Guide",
+      "url": "https://guide.michelin.com/us/en/ubon-ratchathani-province/ubon-ratchathani/restaurant/som-tum-jinda",
+      "description": "Used for the som tum specialist pick."
+    },
+    {
+      "title": "Santi Pochana",
+      "creator": "MICHELIN Guide",
+      "url": "https://guide.michelin.com/us/en/ubon-ratchathani-province/ubon-ratchathani/restaurant/santi-pochana",
+      "description": "Used for the broader traditional city-meal layer."
+    },
+    {
+      "title": "Chomjan",
+      "creator": "MICHELIN Guide",
+      "url": "https://guide.michelin.com/us/en/ubon-ratchathani-province/ubon-ratchathani/restaurant/chomjan",
+      "description": "Used for the fuller-format meal option."
+    }
   ],
-  "last_scraped": "2026-03-08T17:07:36.571Z",
-  "generated_at": "2026-03-08T17:07:36.572Z",
-  "hybrid": false,
-  "scraped": true
+  "data_sources": [
+    "MICHELIN Guide"
+  ],
+  "generated_at": "2026-03-27T14:10:00.000Z",
+  "factchecked_at": "2026-03-27T14:10:00.000Z",
+  "hybrid": false
 }

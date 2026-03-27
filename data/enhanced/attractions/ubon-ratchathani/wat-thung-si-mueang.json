@@ -1,0 +1,76 @@
+{
+  "id": 2,
+  "slug": "wat-thung-si-mueang",
+  "name": {
+    "en": "Wat Thung Si Mueang",
+    "nl": "Wat Thung Si Mueang"
+  },
+  "type": "temple",
+  "city_slug": "ubon-ratchathani",
+  "address": "Thung Si Mueang area, Ubon Ratchathani",
+  "location": null,
+  "opening_hours": "Temple access is generally straightforward, but exact current local opening rhythm should be checked on site.",
+  "entrance_fee": {
+    "thb": 0,
+    "usd": 0
+  },
+  "description": {
+    "en": "The clearest old-center temple stop and the temple that best belongs inside Ubon's first city pass.",
+    "nl": "De duidelijkste tempelstop in het oude centrum en de tempel die het best in de eerste stadsroute van Ubon past."
+  },
+  "highlights": [
+    "Historic city-center temple",
+    "Good with the museum block",
+    "Key old-Ubon landmark"
+  ],
+  "image": "/images/cities/generated/ubon-ratchathani.webp",
+  "seo": {
+    "metaTitle": {
+      "en": "Wat Thung Si Mueang | Go2Thailand",
+      "nl": "Wat Thung Si Mueang | Go2Thailand"
+    },
+    "metaDescription": {
+      "en": "Why Wat Thung Si Mueang is the right old-center temple to prioritize in Ubon Ratchathani.",
+      "nl": "Waarom Wat Thung Si Mueang de juiste oude-centrumtempel is om in Ubon Ratchathani te prioriteren."
+    }
+  },
+  "tags": [
+    "ubon-ratchathani",
+    "wat-thung-si-mueang",
+    "temple"
+  ],
+  "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=Wat%20Thung%20Si%20Mueang%20Ubon%20Ratchathani",
+  "best_time": "morning or late afternoon",
+  "duration_hours": 1.25,
+  "enhanced_description": "Wat Thung Si Mueang is the temple that keeps Ubon's city core from feeling generic. It belongs with the museum and the candle-craft layer, not as a random extra on a long province checklist, because it helps explain the older sacred center of the city itself.",
+  "detailed_history": "Tourism Product's current Mekong heritage material still uses Wat Thung Si Mueang as part of the Ubon city-core cultural story, which is exactly why it works best on the first city day.",
+  "visitor_experience": "Expect an active temple stop rather than a monumental mega-site. The real value is that it sharpens the old-center route and gives the city a sacred stop that feels proportionate and specific.",
+  "best_time_to_visit": {
+    "time_of_day": "Morning or late afternoon",
+    "duration": "About 45 to 75 minutes",
+    "crowd_level": "Usually light to moderate"
+  },
+  "practical_info": {
+    "how_to_get_there": "Easy to combine with the museum side and the wider Thung Si Mueang area.",
+    "nearby_attractions": "Ubon Ratchathani National Museum and the candle-craft interpretation layer.",
+    "food_options": "Best followed by a city-center breakfast, noodle stop, or lunch.",
+    "shopping": "Treat it as a temple visit, not a commercial stop."
+  },
+  "insider_tips": [
+    "Keep this inside the museum-and-city-core block.",
+    "Dress properly and plan around worship first.",
+    "This is a stronger short stop than trying to force too many city temples into one day."
+  ],
+  "verified_note": "Source-backed summary based on Tourism Product's current Ubon heritage framing.",
+  "cultural_significance": "Wat Thung Si Mueang helps preserve the older sacred identity of central Ubon and keeps the city's first-pass route anchored in place rather than in outer-district hype.",
+  "contentSources": [
+    {
+      "name": "ASEAN Heritage Trail",
+      "url": "https://tourismproduct.tourismthailand.org/wp-content/uploads/2023/01/ASEAN-HT_3_Mekong_Online-Spread144.pdf"
+    },
+    {
+      "name": "The official website of Tourism Authority of Thailand",
+      "url": "https://www.tourismthailand.org/Destinations/Provinces/ubon-ratchathani/587"
+    }
+  ]
+}

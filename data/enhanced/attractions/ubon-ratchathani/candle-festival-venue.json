@@ -1,47 +1,76 @@
 {
-  "id": 3,
+  "id": 4,
   "slug": "candle-festival-venue",
   "name": {
-    "en": "Candle Festival (Thung Si Muang Park)",
-    "nl": "Kaarsen Festival (Thung Si Muang Park)"
+    "en": "Thung Si Mueang and the candle-craft layer",
+    "nl": "Thung Si Mueang en de candle-craftlaag"
   },
   "type": "cultural",
   "city_slug": "ubon-ratchathani",
-  "address": "Ubon Ratchathani, Thailand",
+  "address": "Thung Si Mueang area, Ubon Ratchathani",
   "location": null,
-  "opening_hours": null,
+  "opening_hours": "Public-space access is straightforward, but festival schedules and temporary event operations should always be rechecked locally.",
   "entrance_fee": {
-    "thb": 0,
-    "usd": 0
+    "thb": null,
+    "usd": null
   },
   "description": {
-    "en": "Annual festival venue where enormous hand-carved beeswax sculptures parade through the city each July",
-    "nl": "Jaarlijks festivalterrein waar enorme handgesneden bijenwassculpturen door de stad paraderen elke juli"
+    "en": "The strongest way to understand Ubon's candle identity without reducing the city to one parade weekend.",
+    "nl": "De sterkste manier om Ubon's kaarsidentiteit te begrijpen zonder de stad te reduceren tot één paradeweekend."
   },
   "highlights": [
-    "Annual July festival",
-    "Giant wax sculptures",
-    "Mor lam music"
+    "Candle Festival context",
+    "City-craft interpretation layer",
+    "Works beyond the parade dates"
   ],
-  "image": "/images/cities/bangkok/downtown-bangkok.webp",
-  "official_website": null,
+  "image": "/images/cities/generated/ubon-ratchathani.webp",
   "seo": {
     "metaTitle": {
-      "en": "Candle Festival (Thung Si Muang Park) - Top Attraction in Ubon Ratchathani | Go2Thailand",
-      "nl": "Kaarsen Festival (Thung Si Muang Park) - Top Attractie in Ubon Ratchathani | Go2Thailand"
+      "en": "Ubon Candle-Craft Layer | Go2Thailand",
+      "nl": "Ubon candle-craftlaag | Go2Thailand"
     },
     "metaDescription": {
-      "en": "Discover Candle Festival (Thung Si Muang Park) in Ubon Ratchathani. Annual festival venue where enormous hand-carved beeswax sculptures parade through the city each July",
-      "nl": "Ontdek Kaarsen Festival (Thung Si Muang Park) in Ubon Ratchathani. Jaarlijks festivalterrein waar enorme handgesneden bijenwassculpturen door de stad paraderen elke juli"
+      "en": "Why Thung Si Mueang and the candle-craft layer matter in Ubon Ratchathani even outside the main parade dates.",
+      "nl": "Waarom Thung Si Mueang en de candle-craftlaag in Ubon Ratchathani ook buiten de hoofddata van de parade belangrijk zijn."
     }
   },
   "tags": [
-    "cultural",
     "ubon-ratchathani",
-    "thailand",
-    "attraction",
-    "travel",
-    "tourism"
+    "candle-festival",
+    "thung-si-mueang"
   ],
-  "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=Candle%20Festival%20(Thung%20Si%20Muang%20Park)%20Ubon%20Ratchathani%20Thailand"
+  "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=Thung%20Si%20Mueang%20Ubon%20Ratchathani",
+  "best_time": "late afternoon",
+  "duration_hours": 1,
+  "enhanced_description": "The candle layer is one of the main reasons Ubon still feels distinct, but it gets weaker when everything is reduced to one parade weekend. Thung Si Mueang works better as the place where the city-wide Buddhist-lent craft tradition becomes legible, whether you arrive during the main festival period or not.",
+  "detailed_history": "Tourism Thailand's current Candle Festival coverage still presents the event as a defining part of Ubon's identity, but the stronger editorial move is to treat the craft tradition and city setting as the core rather than overselling one set of annual dates.",
+  "visitor_experience": "Expect a context stop rather than a museum-like attraction. If your timing matches festival season, the area gains more spectacle; if not, it still helps interpret why candle craft is tied so closely to Ubon's civic and religious identity.",
+  "best_time_to_visit": {
+    "time_of_day": "Late afternoon",
+    "duration": "About 45 to 60 minutes",
+    "crowd_level": "Usually light outside major festival periods"
+  },
+  "practical_info": {
+    "how_to_get_there": "Easy to combine with Wat Thung Si Mueang and the museum side of central Ubon.",
+    "nearby_attractions": "Wat Thung Si Mueang and Ubon Ratchathani National Museum.",
+    "food_options": "Best paired with a city-center meal before or after the walk.",
+    "shopping": "Keep expectations focused on interpretation and public-space atmosphere rather than retail."
+  },
+  "insider_tips": [
+    "This is stronger as part of the city core than as a standalone seasonal detour.",
+    "Do not promise parade-scale activity unless your exact dates match the festival period.",
+    "Use it to understand the city, not only to chase photos."
+  ],
+  "verified_note": "Source-backed summary based on current Tourism Thailand Candle Festival coverage and broader Ubon destination framing.",
+  "cultural_significance": "The candle-craft layer matters because it ties Ubon's Buddhist calendar, city identity, and public culture together more convincingly than almost any single attraction in the province.",
+  "contentSources": [
+    {
+      "name": "Ubon Ratchathani Candle Festival 2025",
+      "url": "https://thai.tourismthailand.org/Articles/ubon-ratchathani-candle-festival-2025-th"
+    },
+    {
+      "name": "The official website of Tourism Authority of Thailand",
+      "url": "https://www.tourismthailand.org/Destinations/Provinces/ubon-ratchathani/587"
+    }
+  ]
 }

@@ -1,47 +1,72 @@
 {
-  "id": 5,
+  "id": 3,
   "slug": "wat-nong-bua",
   "name": {
-    "en": "Wat Nong Bua",
-    "nl": "Wat Nong Bua"
+    "en": "Wat Phra That Nong Bua",
+    "nl": "Wat Phra That Nong Bua"
   },
   "type": "temple",
   "city_slug": "ubon-ratchathani",
-  "address": "Ubon Ratchathani, Thailand",
+  "address": "Mueang Ubon Ratchathani, Ubon Ratchathani",
   "location": null,
-  "opening_hours": null,
+  "opening_hours": "Temple access is generally straightforward, but current same-day timing should be checked locally.",
   "entrance_fee": {
     "thb": 0,
     "usd": 0
   },
   "description": {
-    "en": "Beautiful Isaan temple modeled after India's Mahabodhi Temple with stunning interior murals",
-    "nl": "Prachtige Isaan-tempel gemodelleerd naar India's Mahabodhi Tempel met prachtige interieur muurschilderingen"
+    "en": "The city's best larger-format temple landmark after the old-center stop at Wat Thung Si Mueang.",
+    "nl": "Het beste grotere tempellandmark van de stad na de oude-centrumstop bij Wat Thung Si Mueang."
   },
   "highlights": [
-    "Mahabodhi-style architecture",
-    "Interior murals",
-    "Isaan village scenes"
+    "Recognizable city landmark",
+    "Listed on TAT's province page",
+    "Good second temple stop"
   ],
-  "image": "/images/cities/bangkok/downtown-bangkok.webp",
-  "official_website": null,
+  "image": "/images/cities/generated/ubon-ratchathani.webp",
   "seo": {
     "metaTitle": {
-      "en": "Wat Nong Bua - Top Attraction in Ubon Ratchathani | Go2Thailand",
-      "nl": "Wat Nong Bua - Top Attractie in Ubon Ratchathani | Go2Thailand"
+      "en": "Wat Phra That Nong Bua | Go2Thailand",
+      "nl": "Wat Phra That Nong Bua | Go2Thailand"
     },
     "metaDescription": {
-      "en": "Discover Wat Nong Bua in Ubon Ratchathani. Beautiful Isaan temple modeled after India's Mahabodhi Temple with stunning interior murals",
-      "nl": "Ontdek Wat Nong Bua in Ubon Ratchathani. Prachtige Isaan-tempel gemodelleerd naar India's Mahabodhi Tempel met prachtige interieur muurschilderingen"
+      "en": "Why Wat Phra That Nong Bua is the right second temple stop in Ubon Ratchathani.",
+      "nl": "Waarom Wat Phra That Nong Bua de juiste tweede tempelstop in Ubon Ratchathani is."
     }
   },
   "tags": [
-    "temple",
     "ubon-ratchathani",
-    "thailand",
-    "attraction",
-    "travel",
-    "tourism"
+    "wat-phra-that-nong-bua",
+    "temple"
   ],
-  "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=Wat%20Nong%20Bua%20Ubon%20Ratchathani%20Thailand"
+  "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=Wat%20Phrathat%20Nong%20Bua%20Ubon%20Ratchathani",
+  "best_time": "morning or late afternoon",
+  "duration_hours": 1.25,
+  "enhanced_description": "Wat Phra That Nong Bua is the right second temple in Ubon because it broadens the city route without overwhelming it. After the museum and Wat Thung Si Mueang, this is the stop that gives the city a more recognizable larger-scale temple landmark while still staying inside a coherent urban itinerary.",
+  "detailed_history": "Tourism Thailand's current Ubon province page still includes Wat Phrathat Nong Bua among the headline attractions of the province, which is a stronger signal than relying on recycled guidebook claims or exact fee filler.",
+  "visitor_experience": "Expect a more landmark-style temple stop than the quieter old-center temple layer. It works best as the second sacred stop of the city sequence rather than as the only temple in the whole plan.",
+  "best_time_to_visit": {
+    "time_of_day": "Morning or late afternoon",
+    "duration": "About 45 to 75 minutes",
+    "crowd_level": "Light to moderate"
+  },
+  "practical_info": {
+    "how_to_get_there": "Usually easiest by short taxi or car ride from the old-center side of Ubon.",
+    "nearby_attractions": "Best paired with the museum-and-city-core route rather than with the Khong Chiam day.",
+    "food_options": "Keep meals in town and use this as a city-sight stop rather than a food stop.",
+    "shopping": "Plan around worship and architecture, not retail."
+  },
+  "insider_tips": [
+    "Do this after the old-center block, not before it.",
+    "A shorter, cleaner visit is better than trying to turn it into a half-day.",
+    "Respect the temple as a living sacred site."
+  ],
+  "verified_note": "Source-backed summary based on current Tourism Thailand province coverage for Ubon Ratchathani.",
+  "cultural_significance": "Wat Phra That Nong Bua matters because it gives Ubon a larger-format sacred landmark that still belongs to the city itself, not just to the outer province.",
+  "contentSources": [
+    {
+      "name": "The official website of Tourism Authority of Thailand",
+      "url": "https://www.tourismthailand.org/Destinations/Provinces/ubon-ratchathani/587"
+    }
+  ]
 }
