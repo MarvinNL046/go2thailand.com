@@ -2,6 +2,7 @@ import { GetStaticProps } from 'next';
 import SEOHead from '../../components/SEOHead';
 import Link from 'next/link';
 import Image from 'next/image';
+import Breadcrumbs from '../../components/Breadcrumbs';
 import { getAllCities } from '../../lib/cities';
 import { attractionsHubContent } from '../../lib/top10-hub-content';
 import fs from 'fs';
@@ -31,6 +32,12 @@ interface Top10AttractionsIndexProps {
 }
 
 export default function Top10AttractionsIndex({ availableGuides, featuredGuides }: Top10AttractionsIndexProps) {
+  const breadcrumbs = [
+    { name: 'Home', href: '/' },
+    { name: 'Top 10 Guides', href: '/top-10/' },
+    { name: 'Attractions', href: '/top-10/attractions/' }
+  ];
+
   const cities = getAllCities();
   const cityBySlug = new Map(cities.map((city) => [city.slug, city]));
   const featuredCities = attractionsHubContent.featuredCities
@@ -80,6 +87,7 @@ export default function Top10AttractionsIndex({ availableGuides, featuredGuides 
         <section className="bg-surface-dark text-white">
           <div className="container-custom py-16 lg:py-20">
             <div className="max-w-4xl mx-auto text-center">
+              <Breadcrumbs items={breadcrumbs} />
               <span className="font-script text-thailand-gold text-lg mb-3 block">
                 {attractionsHubContent.heroEyebrow}
               </span>

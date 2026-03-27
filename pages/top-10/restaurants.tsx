@@ -2,6 +2,7 @@ import { GetStaticProps } from 'next';
 import Link from 'next/link';
 import Image from 'next/image';
 import SEOHead from '../../components/SEOHead';
+import Breadcrumbs from '../../components/Breadcrumbs';
 import { getAllCities } from '../../lib/cities';
 import { restaurantsHubContent } from '../../lib/top10-hub-content';
 import fs from 'fs';
@@ -28,6 +29,12 @@ interface Top10RestaurantsIndexProps {
 }
 
 export default function Top10RestaurantsIndex({ availableGuides }: Top10RestaurantsIndexProps) {
+  const breadcrumbs = [
+    { name: 'Home', href: '/' },
+    { name: 'Top 10 Guides', href: '/top-10/' },
+    { name: 'Restaurants', href: '/top-10/restaurants/' }
+  ];
+
   const cities = getAllCities();
   const cityBySlug = new Map(cities.map((city) => [city.slug, city]));
   const featuredCities = restaurantsHubContent.featuredCities
@@ -80,6 +87,7 @@ export default function Top10RestaurantsIndex({ availableGuides }: Top10Restaura
         <section className="bg-surface-dark text-white">
           <div className="container-custom py-16 lg:py-20">
             <div className="max-w-4xl mx-auto text-center">
+              <Breadcrumbs items={breadcrumbs} />
               <span className="font-script text-thailand-gold text-lg mb-3 block">
                 {restaurantsHubContent.heroEyebrow}
               </span>
