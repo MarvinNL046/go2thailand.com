@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-03-27T22:32:00.000Z",
+  "updated_at": "2026-03-27T22:45:00.000Z",
   "project": "go2thailand top-10 cluster upgrade tracker",
   "goal": "Upgrade all English city top-10 clusters to source-backed, non-thin, AdSense-safe, EEAT-oriented pages.",
   "scope": [
@@ -35,8 +35,8 @@
     },
     {
       "slug": "chanthaburi",
-      "status": "pending",
-      "notes": ""
+      "status": "done",
+      "notes": "Cluster already met the stronger editorial standard; validated clean render output and kept the existing official-source-backed shortlist intact."
     },
     {
       "slug": "chiang-khan",
