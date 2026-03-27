@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-03-27T15:05:00.000Z",
+  "updated_at": "2026-03-27T16:40:00.000Z",
   "project": "go2thailand city upgrade tracker",
   "goal": "Upgrade all English city clusters to source-backed, non-thin, AdSense-safe, EEAT-oriented pages.",
   "done_definition": [
@@ -176,8 +176,8 @@
     },
     {
       "slug": "udon-thani",
-      "status": "pending",
-      "notes": ""
+      "status": "done",
+      "notes": "English city cluster rebuilt around the museum-and-Nong Prajak core, Vietnamese-and-Isaan dining, Ban Chiang, Phu Phrabat, and one selective Red Lotus Sea or Kham Chanot layer; validated with jq, tsc, and localhost render checks."
     }
   ]
 }

@@ -1,208 +1,132 @@
 {
   "title": "Best Restaurants in Udon Thani Thailand (2026)",
-  "meta_description": "The 10 best restaurants in Udon Thani, Thailand with real ratings and guest reviews from tripadvisor. Updated 2026-03-08.",
-  "intro": "Discover the best restaurants in Udon Thani, Thailand. These recommendations are based on real guest reviews and ratings from tripadvisor.",
+  "meta_description": "The Udon Thani restaurants that actually matter: Vietnamese-Udon institutions, sharper Isaan specialists, and a few MICHELIN-backed city meals instead of scrape-era review spam.",
+  "intro": "Udon Thani's food page should be built around names that still carry editorial weight, not old ratings and scrape-era leftovers. The strongest route is clear: VT Namnueng for the Vietnamese anchor, Krua Khun Nid and Lab Nua for the Isaan depth, then Peng Duck Noodles, Madam Pahtehh, and Rabiang Patchanee when you want the shortlist to feel like a real city meal plan rather than a random ranking.",
   "items": [
     {
       "rank": 1,
-      "name": "Da Sofia Restaurant",
-      "description": "Da Sofia Restaurant is a 4.4-rated Italian, Pizza restaurant in Udon Thani.",
-      "location": "Udon Thani",
-      "current_price": "$$ - $$$",
-      "highlights": [],
-      "insider_tips": [],
-      "current_info": "Cuisine: Italian, Pizza • Price: $$ - $$$ • Rating: 4.4/5 • 251 reviews",
-      "scraped": {
-        "source": "tripadvisor",
-        "cuisine": "Italian, Pizza",
-        "price_range": "$$ - $$$",
-        "rating": 4.4,
-        "review_count": 251,
-        "scraped_at": "2026-03-08T17:05:16.200Z"
-      },
-      "trip_affiliate_url": "https://tp.media/r?marker=602467&trs=421888&p=7631&u=https%3A%2F%2Fwww.trip.com%2Fhotels%2Flist%3Fkeyword%3DDa%2520Sofia%2520Restaurant%2520Udon%2520Thani"
+      "name": "VT Namnueng (Posri)",
+      "description": "The clearest Vietnamese-Udon anchor and one of the best first meals if you want the city to taste distinct quickly.",
+      "location": "345/1-3 Posri Road, Mak Khaeng, Mueang Udon Thani",
+      "current_price": "Budget to mid-range",
+      "highlights": [
+        "MICHELIN feature pick",
+        "Vietnamese meatball wraps",
+        "Good for a first city meal"
+      ],
+      "insider_tips": [
+        "Go with enough company to try wraps, spring rolls, and one extra side rather than ordering only the obvious set."
+      ],
+      "current_info": "MICHELIN's current Udon Thani feature still uses VT Namnueng (Posri) as one of the city's core Vietnamese institutions."
     },
     {
       "rank": 2,
-      "name": "Madam Pahtehh",
-      "description": "Madam Pahtehh is a 4.6-rated Cafe, Thai restaurant in Udon Thani.",
-      "location": "Udon Thani",
-      "current_price": "$$ - $$$",
-      "highlights": [],
-      "insider_tips": [],
-      "current_info": "Cuisine: Cafe, Thai • Price: $$ - $$$ • Rating: 4.6/5 • 25 reviews",
-      "scraped": {
-        "source": "tripadvisor",
-        "cuisine": "Cafe, Thai",
-        "price_range": "$$ - $$$",
-        "rating": 4.6,
-        "review_count": 25,
-        "scraped_at": "2026-03-08T17:05:16.200Z"
-      },
-      "trip_affiliate_url": "https://tp.media/r?marker=602467&trs=421888&p=7631&u=https%3A%2F%2Fwww.trip.com%2Fhotels%2Flist%3Fkeyword%3DMadam%2520Pahtehh%2520Udon%2520Thani"
+      "name": "Krua Khun Nid",
+      "description": "One of the strongest broader Isaan table meals in town when you want local savory cooking rather than a snack-only route.",
+      "location": "64 Soi Nonnivet 1, Udon Dussadi Road, Mak Khaeng, Mueang Udon Thani",
+      "current_price": "Mid-range",
+      "highlights": [
+        "MICHELIN Guide listing",
+        "Family-style Isaan cooking",
+        "Good lunch or early dinner"
+      ],
+      "insider_tips": [
+        "This is strongest with a group or with enough appetite to order multiple dishes."
+      ],
+      "current_info": "The MICHELIN Guide still keeps Krua Khun Nid in its current Udon Thani restaurant lineup."
     },
     {
       "rank": 3,
-      "name": "Brick House INN",
-      "description": "Brick House INN is a 4.2-rated Steakhouse, Bar restaurant in Udon Thani.",
-      "location": "Udon Thani",
-      "current_price": "$$ - $$$",
-      "highlights": [],
-      "insider_tips": [],
-      "current_info": "Cuisine: Steakhouse, Bar • Price: $$ - $$$ • Rating: 4.2/5 • 222 reviews",
-      "scraped": {
-        "source": "tripadvisor",
-        "cuisine": "Steakhouse, Bar",
-        "price_range": "$$ - $$$",
-        "rating": 4.2,
-        "review_count": 222,
-        "scraped_at": "2026-03-08T17:05:16.200Z"
-      },
-      "trip_affiliate_url": "https://tp.media/r?marker=602467&trs=421888&p=7631&u=https%3A%2F%2Fwww.trip.com%2Fhotels%2Flist%3Fkeyword%3DBrick%2520House%2520INN%2520Udon%2520Thani"
+      "name": "Lab Nua",
+      "description": "The cleanest specialist stop when you want sharper Isaan salads, roasted-rice depth, and a more assertive northern-Isaan flavor profile.",
+      "location": "24 Phachauthit Road, Mak Khaeng, Mueang Udon Thani",
+      "current_price": "Budget",
+      "highlights": [
+        "MICHELIN feature pick",
+        "Lab and tam focus",
+        "Best for sharper Isaan flavor"
+      ],
+      "insider_tips": [
+        "Use this when you want the meal to lean hard into Isaan rather than into the city's Vietnamese crossover layer."
+      ],
+      "current_info": "MICHELIN's current Udon Thani feature still presents Lab Nua as a local go-to for affordable Isaan spicy salads."
     },
     {
       "rank": 4,
-      "name": "Samuay & Sons",
-      "description": "Samuay & Sons is a 4.6-rated Fast Food, Asian restaurant in Udon Thani.",
-      "location": "Udon Thani",
-      "current_price": "$$ - $$$",
-      "highlights": [],
-      "insider_tips": [],
-      "current_info": "Cuisine: Fast Food, Asian • Price: $$ - $$$ • Rating: 4.6/5 • 66 reviews",
-      "scraped": {
-        "source": "tripadvisor",
-        "cuisine": "Fast Food, Asian",
-        "price_range": "$$ - $$$",
-        "rating": 4.6,
-        "review_count": 66,
-        "scraped_at": "2026-03-08T17:05:16.200Z"
-      },
-      "trip_affiliate_url": "https://tp.media/r?marker=602467&trs=421888&p=7631&u=https%3A%2F%2Fwww.trip.com%2Fhotels%2Flist%3Fkeyword%3DSamuay%2520%2526%2520Sons%2520Udon%2520Thani"
+      "name": "Peng Duck Noodles",
+      "description": "A stronger noodle counterweight to the Vietnamese and salad-focused picks, especially when you want one long-running soup specialist in the route.",
+      "location": "Nong Tao Lek Road, Ban Lueam, Mueang Udon Thani",
+      "current_price": "Budget",
+      "highlights": [
+        "MICHELIN feature pick",
+        "Duck noodles and duck rice",
+        "Long-running city specialist"
+      ],
+      "insider_tips": [
+        "This is better as a focused lunch stop than as a late backup meal."
+      ],
+      "current_info": "MICHELIN's Udon feature still uses Peng Duck Noodles as a long-running affordable specialist."
     },
     {
       "rank": 5,
-      "name": "VT Nam Nueng",
-      "description": "VT Nam Nueng is a 4.1-rated Asian, Vietnamese restaurant in Udon Thani.",
-      "location": "Udon Thani",
-      "current_price": "$$ - $$$",
-      "highlights": [],
-      "insider_tips": [],
-      "current_info": "Cuisine: Asian, Vietnamese • Price: $$ - $$$ • Rating: 4.1/5 • 281 reviews",
-      "scraped": {
-        "source": "tripadvisor",
-        "cuisine": "Asian, Vietnamese",
-        "price_range": "$$ - $$$",
-        "rating": 4.1,
-        "review_count": 281,
-        "scraped_at": "2026-03-08T17:05:16.200Z"
-      },
-      "trip_affiliate_url": "https://tp.media/r?marker=602467&trs=421888&p=7631&u=https%3A%2F%2Fwww.trip.com%2Fhotels%2Flist%3Fkeyword%3DVT%2520Nam%2520Nueng%2520Udon%2520Thani"
+      "name": "Madam Pahtehh (Tumruaj)",
+      "description": "A useful breakfast-to-lunch stop because it reflects the city's blended Vietnamese, Thai, Lao, French, and Chinese food strands without collapsing into cafe filler.",
+      "location": "34/1-3 Tumruaj Road, Mak Khaeng, Mueang Udon Thani",
+      "current_price": "Budget to mid-range",
+      "highlights": [
+        "MICHELIN feature pick",
+        "Breakfast and lunch strength",
+        "Cross-cultural menu identity"
+      ],
+      "insider_tips": [
+        "Use this earlier in the day; it is strongest in the breakfast-to-lunch window."
+      ],
+      "current_info": "MICHELIN's current Udon feature still positions Madam Pahtehh as a retro-style city stop with a multicultural northeastern menu."
     },
     {
       "rank": 6,
-      "name": "Morning House Udonthani",
-      "description": "Morning House Udonthani is a 5-rated American, Cafe restaurant in Udon Thani.",
-      "location": "Udon Thani",
-      "current_price": "$",
-      "highlights": [],
-      "insider_tips": [],
-      "current_info": "Cuisine: American, Cafe • Price: $ • Rating: 5/5 • 8 reviews",
-      "scraped": {
-        "source": "tripadvisor",
-        "cuisine": "American, Cafe",
-        "price_range": "$",
-        "rating": 5,
-        "review_count": 8,
-        "scraped_at": "2026-03-08T17:05:16.200Z"
-      },
-      "trip_affiliate_url": "https://tp.media/r?marker=602467&trs=421888&p=7631&u=https%3A%2F%2Fwww.trip.com%2Fhotels%2Flist%3Fkeyword%3DMorning%2520House%2520Udonthani%2520Udon%2520Thani"
-    },
-    {
-      "rank": 7,
-      "name": "Maeya",
-      "description": "Maeya is a 4.1-rated Asian, Thai restaurant in Udon Thani.",
-      "location": "Udon Thani",
-      "current_price": "$$ - $$$",
-      "highlights": [],
-      "insider_tips": [],
-      "current_info": "Cuisine: Asian, Thai • Price: $$ - $$$ • Rating: 4.1/5 • 144 reviews",
-      "scraped": {
-        "source": "tripadvisor",
-        "cuisine": "Asian, Thai",
-        "price_range": "$$ - $$$",
-        "rating": 4.1,
-        "review_count": 144,
-        "scraped_at": "2026-03-08T17:05:16.200Z"
-      },
-      "trip_affiliate_url": "https://tp.media/r?marker=602467&trs=421888&p=7631&u=https%3A%2F%2Fwww.trip.com%2Fhotels%2Flist%3Fkeyword%3DMaeya%2520Udon%2520Thani"
-    },
-    {
-      "rank": 8,
-      "name": "Good Everything",
-      "description": "Good Everything is a 4.2-rated European, Thai restaurant in Udon Thani.",
-      "location": "Udon Thani",
-      "current_price": "$$ - $$$",
-      "highlights": [],
-      "insider_tips": [],
-      "current_info": "Cuisine: European, Thai • Price: $$ - $$$ • Rating: 4.2/5 • 160 reviews",
-      "scraped": {
-        "source": "tripadvisor",
-        "cuisine": "European, Thai",
-        "price_range": "$$ - $$$",
-        "rating": 4.2,
-        "review_count": 160,
-        "scraped_at": "2026-03-08T17:05:16.200Z"
-      },
-      "trip_affiliate_url": "https://tp.media/r?marker=602467&trs=421888&p=7631&u=https%3A%2F%2Fwww.trip.com%2Fhotels%2Flist%3Fkeyword%3DGood%2520Everything%2520Udon%2520Thani"
-    },
-    {
-      "rank": 9,
-      "name": "Krua Khun Nid",
-      "description": "Krua Khun Nid is a 4.1-rated Asian, Thai restaurant in Udon Thani.",
-      "location": "Udon Thani",
-      "current_price": "$$ - $$$",
-      "highlights": [],
-      "insider_tips": [],
-      "current_info": "Cuisine: Asian, Thai • Price: $$ - $$$ • Rating: 4.1/5 • 25 reviews",
-      "scraped": {
-        "source": "tripadvisor",
-        "cuisine": "Asian, Thai",
-        "price_range": "$$ - $$$",
-        "rating": 4.1,
-        "review_count": 25,
-        "scraped_at": "2026-03-08T17:05:16.200Z"
-      },
-      "trip_affiliate_url": "https://tp.media/r?marker=602467&trs=421888&p=7631&u=https%3A%2F%2Fwww.trip.com%2Fhotels%2Flist%3Fkeyword%3DKrua%2520Khun%2520Nid%2520Udon%2520Thani"
-    },
-    {
-      "rank": 10,
-      "name": "Zur Pfalz",
-      "description": "Zur Pfalz is a 4.6-rated German, European restaurant in Udon Thani.",
-      "location": "Udon Thani",
-      "current_price": "$$ - $$$",
-      "highlights": [],
-      "insider_tips": [],
-      "current_info": "Cuisine: German, European • Price: $$ - $$$ • Rating: 4.6/5 • 20 reviews",
-      "scraped": {
-        "source": "tripadvisor",
-        "cuisine": "German, European",
-        "price_range": "$$ - $$$",
-        "rating": 4.6,
-        "review_count": 20,
-        "scraped_at": "2026-03-08T17:05:16.200Z"
-      },
-      "trip_affiliate_url": "https://tp.media/r?marker=602467&trs=421888&p=7631&u=https%3A%2F%2Fwww.trip.com%2Fhotels%2Flist%3Fkeyword%3DZur%2520Pfalz%2520Udon%2520Thani"
+      "name": "Rabiang Patchanee",
+      "description": "One of the better fuller-format city meals when you want a more deliberate sit-down lunch or dinner without falling back on weak review-driven picks.",
+      "location": "Mueang Udon Thani, Udon Thani",
+      "current_price": "Mid-range",
+      "highlights": [
+        "MICHELIN Guide listing",
+        "Broader sit-down meal",
+        "Useful dinner counterweight"
+      ],
+      "insider_tips": [
+        "Keep this as one deliberate longer meal, not as a default because it looks more formal."
+      ],
+      "current_info": "The MICHELIN Guide still maintains a current Rabiang Patchanee listing in Udon Thani."
     }
   ],
   "city_slug": "udon-thani",
   "city_name": "Udon Thani",
   "category": "restaurants",
-  "data_sources": [
-    "tripadvisor",
-    "scraped"
+  "content_sources": [
+    {
+      "title": "7 Deliciously Affordable Spots to Try in Udon Thani",
+      "creator": "MICHELIN Guide",
+      "url": "https://guide.michelin.com/th/en/article/dining-out/7-deliciously-affordable-spots-to-try-in-udon-thani",
+      "description": "Used for VT Namnueng, Lab Nua, Peng Duck Noodles, and Madam Pahtehh plus broader Udon food framing."
+    },
+    {
+      "title": "Krua Khun Nid",
+      "creator": "MICHELIN Guide",
+      "url": "https://guide.michelin.com/us/en/udon-thani-region/udon-thani/restaurant/krua-khun-nid",
+      "description": "Used for the broader Isaan table-meal anchor."
+    },
+    {
+      "title": "Rabiang Patchanee",
+      "creator": "MICHELIN Guide",
+      "url": "https://guide.michelin.com/en/udon-thani-region/udon-thani/restaurant/rabiang-patchanee",
+      "description": "Used for the broader sit-down dinner layer."
+    }
   ],
-  "last_scraped": "2026-03-08T17:05:16.200Z",
-  "generated_at": "2026-03-08T17:05:16.200Z",
-  "hybrid": false,
-  "scraped": true
+  "data_sources": [
+    "MICHELIN Guide"
+  ],
+  "generated_at": "2026-03-27T16:40:00.000Z",
+  "factchecked_at": "2026-03-27T16:40:00.000Z",
+  "hybrid": false
 }

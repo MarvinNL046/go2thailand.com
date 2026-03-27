@@ -1,0 +1,76 @@
+{
+  "id": 2,
+  "slug": "nong-prajak-public-park",
+  "name": {
+    "en": "Nong Prajak Public Park",
+    "nl": "Nong Prajak Public Park"
+  },
+  "type": "park",
+  "city_slug": "udon-thani",
+  "address": "Central Udon Thani",
+  "location": null,
+  "opening_hours": "Park access is generally straightforward throughout the day, but the lakefront is strongest in the cooler morning and evening hours.",
+  "entrance_fee": {
+    "thb": 0,
+    "usd": 0
+  },
+  "description": {
+    "en": "The clearest everyday-city stop because the lakefront shows how Udon actually uses public space beyond malls and transport hubs.",
+    "nl": "De duidelijkste dagelijkse stadsstop omdat de oever laat zien hoe Udon zijn publieke ruimte echt gebruikt, voorbij malls en transportknooppunten."
+  },
+  "highlights": [
+    "City-lake loop",
+    "Morning and evening use",
+    "Strong with the museum block"
+  ],
+  "image": "/images/cities/generated/udon-thani.webp",
+  "seo": {
+    "metaTitle": {
+      "en": "Nong Prajak Public Park | Go2Thailand",
+      "nl": "Nong Prajak Public Park | Go2Thailand"
+    },
+    "metaDescription": {
+      "en": "Why Nong Prajak Public Park belongs inside Udon Thani's core city route.",
+      "nl": "Waarom Nong Prajak Public Park thuishoort in de kernroute van Udon Thani."
+    }
+  },
+  "tags": [
+    "udon-thani",
+    "park",
+    "nong-prajak"
+  ],
+  "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=Nong%20Prajak%20Public%20Park%20Udon%20Thani",
+  "best_time": "morning or evening",
+  "duration_hours": 1.5,
+  "enhanced_description": "Nong Prajak is not just the city's easy park recommendation. It matters because it shows how central Udon uses public space: walking loops, lake views, evening movement, and a more grounded sense of city rhythm than any mall or lifestyle district can provide.",
+  "detailed_history": "Current Tourism Thailand coverage still uses Nong Prajak as one of the city's most visible landmarks, and that remains a durable choice because it says something true about everyday Udon rather than about one seasonal event.",
+  "visitor_experience": "Expect a city-lake stop rather than a grand formal attraction. The value is in seeing the civic rhythm, especially before or after the museum and before dinner.",
+  "best_time_to_visit": {
+    "time_of_day": "Morning or evening",
+    "duration": "About 60 to 90 minutes",
+    "crowd_level": "Light in the morning, busier later"
+  },
+  "practical_info": {
+    "how_to_get_there": "Easy to reach from central hotels and simple to pair with the museum side.",
+    "nearby_attractions": "Udon Thani Museum and the city-center food layer.",
+    "food_options": "Better used as a pre-meal or post-meal city stop than as a dedicated food destination.",
+    "shopping": "Treat it as public-space time, not a shopping stop."
+  },
+  "insider_tips": [
+    "Use this with the museum instead of treating it as a separate excursion.",
+    "Go in cooler hours if you want the park to feel like part of the city's real daily rhythm.",
+    "This is stronger as a city-context stop than as a headline destination on its own."
+  ],
+  "verified_note": "Source-backed summary based on current Tourism Thailand Udon city coverage.",
+  "cultural_significance": "Nong Prajak gives Udon a public-space layer that helps the city read as a lived provincial capital rather than a transport stop dressed up with a few attractions.",
+  "contentSources": [
+    {
+      "name": "Explore Udon Thani",
+      "url": "https://www.tourismthailand.org/Articles/https-www-tourismthailand-org-articles-explore-udon-thani"
+    },
+    {
+      "name": "10 Things to Do in Udon Thani",
+      "url": "https://www.tourismthailand.org/Articles/10-things-to-do-in-udon-thani"
+    }
+  ]
+}

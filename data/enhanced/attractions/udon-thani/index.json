@@ -1,79 +1,85 @@
 {
   "city_slug": "udon-thani",
   "city_name": "Udon Thani",
-  "total_attractions": 9,
+  "total_attractions": 6,
   "attractions": [
     {
       "id": 1,
-      "slug": "ban-chiang-archaeological-site",
+      "slug": "udon-thani-museum",
       "name": {
-        "en": "Ban Chiang Archaeological Site (UNESCO)",
-        "nl": "Ban Chiang Archeologische Vindplaats (UNESCO)"
+        "en": "Udon Thani Museum",
+        "nl": "Udon Thani Museum"
       },
       "type": "museum",
-      "image": "/images/cities/bangkok/downtown-bangkok.webp",
+      "image": "/images/cities/generated/udon-thani.webp",
       "description": {
-        "en": "UNESCO World Heritage Site with 5,000-year-old bronze-age pottery and artifacts, one of the earliest civilizations in Southeast Asia",
-        "nl": "UNESCO Werelderfgoed met 5.000 jaar oud bronstijdaardewerk en artefacten, een van de vroegste beschavingen in Zuidoost-Azie"
+        "en": "The strongest first-stop city layer because it gives Udon historical and civic context before outer-day logistics take over.",
+        "nl": "De sterkste eerste stadslaag omdat die Udon historische en civiele context geeft voordat buitenstedelijke dagtochten het overnemen."
       },
       "entrance_fee": {
-        "thb": 150,
-        "usd": 4
+        "thb": null,
+        "usd": null
       },
+      "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=Udon%20Thani%20Museum",
       "highlights": [
-        "UNESCO World Heritage",
-        "5,000-year-old pottery",
-        "Bronze-age artifacts"
+        "Historic museum building",
+        "Best first read of the city",
+        "Pairs with Nong Prajak"
       ],
-      "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=Ban%20Chiang%20Archaeological%20Site%20(UNESCO)%20Udon%20Thani%20Thailand"
+      "best_time": "morning or late afternoon",
+      "duration_hours": 1.5
     },
     {
       "id": 2,
-      "slug": "red-lotus-sea",
+      "slug": "nong-prajak-public-park",
       "name": {
-        "en": "Red Lotus Sea (Talay Bua Daeng)",
-        "nl": "Rode Lotuszee (Talay Bua Daeng)"
-      },
-      "type": "nature",
-      "image": "/images/cities/bangkok/downtown-bangkok.webp",
-      "description": {
-        "en": "Spectacular lake covered with millions of pink and red lotus flowers blooming from December to February",
-        "nl": "Spectaculair meer bedekt met miljoenen roze en rode lotusbloemen die bloeien van december tot februari"
-      },
-      "entrance_fee": {
-        "thb": 500,
-        "usd": 14
-      },
-      "highlights": [
-        "Millions of lotus flowers",
-        "December-February bloom",
-        "Longtail boat tours"
-      ],
-      "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=Red%20Lotus%20Sea%20(Talay%20Bua%20Daeng)%20Udon%20Thani%20Thailand"
-    },
-    {
-      "id": 3,
-      "slug": "nong-prajak-park",
-      "name": {
-        "en": "Nong Prajak Park",
-        "nl": "Nong Prajak Park"
+        "en": "Nong Prajak Public Park",
+        "nl": "Nong Prajak Public Park"
       },
       "type": "park",
-      "image": "/images/cities/bangkok/downtown-bangkok.webp",
+      "image": "/images/cities/generated/udon-thani.webp",
       "description": {
-        "en": "Beautiful city lake park with illuminated fountains, food stalls, jogging paths, and weekend live music performances",
-        "nl": "Prachtig stadsmeerpark met verlichte fonteinen, etensstalletjes, jogpaden en weekend live muziekoptredens"
+        "en": "The clearest everyday-city stop because the lakefront shows how Udon actually uses public space beyond malls and transport hubs.",
+        "nl": "De duidelijkste dagelijkse stadsstop omdat de oever laat zien hoe Udon zijn publieke ruimte echt gebruikt, voorbij malls en transportknooppunten."
       },
       "entrance_fee": {
         "thb": 0,
         "usd": 0
       },
+      "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=Nong%20Prajak%20Public%20Park%20Udon%20Thani",
       "highlights": [
-        "Illuminated fountains",
-        "Lakeside food stalls",
-        "Weekend live music"
+        "City-lake loop",
+        "Morning and evening use",
+        "Strong with the museum block"
       ],
-      "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=Nong%20Prajak%20Park%20Udon%20Thani%20Thailand"
+      "best_time": "morning or evening",
+      "duration_hours": 1.5
+    },
+    {
+      "id": 3,
+      "slug": "ban-chiang-national-museum",
+      "name": {
+        "en": "Ban Chiang National Museum",
+        "nl": "Ban Chiang Nationaal Museum"
+      },
+      "type": "museum",
+      "image": "/images/cities/generated/udon-thani.webp",
+      "description": {
+        "en": "The strongest prehistoric half-day because the UNESCO archaeological layer is real and still central to Udon's wider heritage identity.",
+        "nl": "De sterkste prehistorische halve dag omdat de UNESCO-archeologische laag echt is en nog steeds centraal staat in de bredere erfgoedidentiteit van Udon."
+      },
+      "entrance_fee": {
+        "thb": null,
+        "usd": null
+      },
+      "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=Ban%20Chiang%20National%20Museum",
+      "highlights": [
+        "UNESCO World Heritage",
+        "Archaeological museum and site",
+        "Best prehistoric extension"
+      ],
+      "best_time": "morning",
+      "duration_hours": 2.5
     },
     {
       "id": 4,
@@ -83,141 +89,75 @@
         "nl": "Phu Phrabat Historisch Park"
       },
       "type": "nature",
-      "image": "/images/cities/bangkok/downtown-bangkok.webp",
+      "image": "/images/cities/generated/udon-thani.webp",
       "description": {
-        "en": "Extraordinary sandstone formations with 3,000-year-old cave paintings and Buddhist hermit shelters on the UNESCO Tentative List",
-        "nl": "Buitengewone zandsteenformaties met 3.000 jaar oude grotschilderingen en boeddhistische kluizenaarsschuilplaatsen op de UNESCO Voorlopige Lijst"
+        "en": "The strongest second heritage day because the sandstone landscape, ritual use, and UNESCO recognition all still hold up.",
+        "nl": "De sterkste tweede erfgoeddag omdat het zandsteenlandschap, het rituele gebruik en de UNESCO-erkenning allemaal nog overeind staan."
       },
       "entrance_fee": {
-        "thb": 100,
-        "usd": 3
+        "thb": null,
+        "usd": null
       },
+      "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=Phu%20Phrabat%20Historical%20Park",
       "highlights": [
-        "Prehistoric cave paintings",
-        "Sandstone formations",
-        "UNESCO Tentative List"
+        "UNESCO World Heritage",
+        "Sandstone shelters",
+        "Best serious outer heritage day"
       ],
-      "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=Phu%20Phrabat%20Historical%20Park%20Udon%20Thani%20Thailand"
+      "best_time": "morning",
+      "duration_hours": 3
     },
     {
       "id": 5,
-      "slug": "ud-town",
+      "slug": "red-lotus-sea",
       "name": {
-        "en": "UD Town",
-        "nl": "UD Town"
+        "en": "Red Lotus Sea",
+        "nl": "Red Lotus Sea"
       },
-      "type": "shopping",
-      "image": "/images/cities/bangkok/downtown-bangkok.webp",
+      "type": "nature",
+      "image": "/images/cities/generated/udon-thani.webp",
       "description": {
-        "en": "Modern open-air lifestyle mall with nightly food market, shops, cinema, and entertainment near the train station",
-        "nl": "Modern openlucht lifestyle winkelcentrum met avondlijke voedselmarkt, winkels, bioscoop en entertainment bij het treinstation"
+        "en": "A worthwhile seasonal dawn extra when winter bloom conditions support it, but not the foundation of the whole itinerary.",
+        "nl": "Een waardevolle seizoensgebonden dageraadsextensie wanneer de winterbloei dat ondersteunt, maar niet de basis van de hele route."
       },
       "entrance_fee": {
-        "thb": 0,
-        "usd": 0
+        "thb": null,
+        "usd": null
       },
+      "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=Red%20Lotus%20Sea%20Udon%20Thani",
       "highlights": [
-        "Nightly food market",
-        "Modern shopping",
-        "Entertainment hub"
+        "Seasonal dawn boat ride",
+        "Winter lotus bloom",
+        "Best as a selective add-on"
       ],
-      "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=UD%20Town%20Udon%20Thani%20Thailand"
+      "best_time": "sunrise in season",
+      "duration_hours": 2
     },
     {
       "id": 6,
-      "slug": "erawan-cave",
+      "slug": "kham-chanot",
       "name": {
-        "en": "Erawan Cave (Tham Erawan)",
-        "nl": "Erawan Grot (Tham Erawan)"
+        "en": "Kham Chanot",
+        "nl": "Kham Chanot"
       },
-      "type": "nature",
-      "image": "/images/cities/bangkok/downtown-bangkok.webp",
+      "type": "cultural",
+      "image": "/images/cities/generated/udon-thani.webp",
       "description": {
-        "en": "Sacred cave temple with a naturally formed rock resembling Erawan, the three-headed elephant of Hindu mythology",
-        "nl": "Heilige grottempel met een natuurlijk gevormde rots die lijkt op Erawan, de driekoppige olifant uit de hindoeistische mythologie"
+        "en": "A selective spiritual extension when you want one more ritual landscape stop with local devotional weight.",
+        "nl": "Een selectieve spirituele extensie wanneer je nog één ritueel landschapsstop wilt met lokaal devotioneel gewicht."
       },
       "entrance_fee": {
-        "thb": 20,
-        "usd": 1
+        "thb": null,
+        "usd": null
       },
+      "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=Kham%20Chanot%20Udon%20Thani",
       "highlights": [
-        "Erawan rock formation",
-        "Sacred cave temple",
-        "Stalactite chambers"
+        "Naga-linked shrine landscape",
+        "Devotional significance",
+        "Selective spiritual add-on"
       ],
-      "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=Erawan%20Cave%20(Tham%20Erawan)%20Udon%20Thani%20Thailand"
-    },
-    {
-      "id": 7,
-      "slug": "udon-thani-central-market",
-      "name": {
-        "en": "Udon Thani Central Market",
-        "nl": "Udon Thani Centrale Markt"
-      },
-      "type": "market",
-      "image": "/images/cities/bangkok/downtown-bangkok.webp",
-      "description": {
-        "en": "Sprawling central wet market on Pracha Road with hundreds of vendors selling fresh produce, fermented fish, silk, and Isaan specialties",
-        "nl": "Uitgestrekte centrale versmarkt op Pracha Road met honderden verkopers die verse producten, gefermenteerde vis, zijde en Isaan-specialiteiten verkopen"
-      },
-      "entrance_fee": {
-        "thb": 0,
-        "usd": 0
-      },
-      "highlights": [
-        "Hundreds of vendors",
-        "Isaan specialties",
-        "Local silk fabrics"
-      ],
-      "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=Udon%20Thani%20Central%20Market%20Udon%20Thani%20Thailand"
-    },
-    {
-      "id": 8,
-      "slug": "wat-pa-ban-tat",
-      "name": {
-        "en": "Wat Pa Ban Tat Forest Monastery",
-        "nl": "Wat Pa Ban Tat Bosklooster"
-      },
-      "type": "temple",
-      "image": "/images/cities/bangkok/downtown-bangkok.webp",
-      "description": {
-        "en": "Forest monastery of the late Ajahn Maha Boowa, one of Thailand's most revered monks, with meditation programs for international visitors",
-        "nl": "Bosklooster van wijlen Ajahn Maha Boowa, een van Thailand's meest vereerde monniken, met meditatieprogramma's voor internationale bezoekers"
-      },
-      "entrance_fee": {
-        "thb": 0,
-        "usd": 0
-      },
-      "highlights": [
-        "Forest meditation",
-        "Ajahn Maha Boowa legacy",
-        "International programs"
-      ],
-      "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=Wat%20Pa%20Ban%20Tat%20Forest%20Monastery%20Udon%20Thani%20Thailand"
-    },
-    {
-      "id": 9,
-      "slug": "udon-thani-city-pillar-shrine",
-      "name": {
-        "en": "Udon Thani City Pillar Shrine",
-        "nl": "Udon Thani Stadspilaar Heiligdom"
-      },
-      "type": "temple",
-      "image": "/images/cities/bangkok/downtown-bangkok.webp",
-      "description": {
-        "en": "Sacred city pillar shrine in the heart of Udon Thani where locals come to make offerings and pray for good fortune",
-        "nl": "Heilig stadspilaar-heiligdom in het hart van Udon Thani waar locals komen om offers te brengen en te bidden voor geluk"
-      },
-      "entrance_fee": {
-        "thb": 0,
-        "usd": 0
-      },
-      "highlights": [
-        "Sacred city landmark",
-        "Local offerings",
-        "Central location"
-      ],
-      "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=Udon%20Thani%20City%20Pillar%20Shrine%20Udon%20Thani%20Thailand"
+      "best_time": "morning",
+      "duration_hours": 2
     }
   ]
 }

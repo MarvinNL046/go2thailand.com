@@ -1,0 +1,76 @@
+{
+  "id": 3,
+  "slug": "ban-chiang-national-museum",
+  "name": {
+    "en": "Ban Chiang National Museum",
+    "nl": "Ban Chiang Nationaal Museum"
+  },
+  "type": "museum",
+  "city_slug": "udon-thani",
+  "address": "Ban Chiang, Nong Han District, Udon Thani",
+  "location": null,
+  "opening_hours": "Museum and archaeological-site arrangements should be rechecked directly before relying on exact same-day timing.",
+  "entrance_fee": {
+    "thb": null,
+    "usd": null
+  },
+  "description": {
+    "en": "The strongest prehistoric half-day because the UNESCO archaeological layer is real and still central to Udon's wider heritage identity.",
+    "nl": "De sterkste prehistorische halve dag omdat de UNESCO-archeologische laag echt is en nog steeds centraal staat in de bredere erfgoedidentiteit van Udon."
+  },
+  "highlights": [
+    "UNESCO World Heritage",
+    "Archaeological museum and site",
+    "Best prehistoric extension"
+  ],
+  "image": "/images/cities/generated/udon-thani.webp",
+  "seo": {
+    "metaTitle": {
+      "en": "Ban Chiang National Museum | Go2Thailand",
+      "nl": "Ban Chiang Nationaal Museum | Go2Thailand"
+    },
+    "metaDescription": {
+      "en": "Why Ban Chiang National Museum is still one of the strongest heritage reasons to stay in Udon Thani.",
+      "nl": "Waarom Ban Chiang Nationaal Museum nog steeds een van de sterkste erfgoedredenen is om in Udon Thani te blijven."
+    }
+  },
+  "tags": [
+    "udon-thani",
+    "ban-chiang",
+    "unesco"
+  ],
+  "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=Ban%20Chiang%20National%20Museum",
+  "best_time": "morning",
+  "duration_hours": 2.5,
+  "enhanced_description": "Ban Chiang is the outer-day stop that gives Udon Thani real prehistoric depth. It still earns the drive because the UNESCO archaeological layer is specific, globally legible, and tied directly to the province's identity in a way that thinner countryside filler never will.",
+  "detailed_history": "UNESCO's standing Ban Chiang inscription remains the strongest official proof that the site is not just another local museum but one of Thailand's key prehistoric heritage landscapes.",
+  "visitor_experience": "Expect a meaningful heritage half-day rather than a quick roadside stop. The visit is strongest when you give both the museum and the broader archaeological context enough time instead of trying to squeeze it between city errands.",
+  "best_time_to_visit": {
+    "time_of_day": "Morning",
+    "duration": "About 2 to 3 hours",
+    "crowd_level": "Usually moderate"
+  },
+  "practical_info": {
+    "how_to_get_there": "Best reached by car or driver from Udon city as a deliberate half-day or full-day heritage outing.",
+    "nearby_attractions": "Treat the wider Ban Chiang area as part of the same heritage stop rather than forcing too many extra district pins into the day.",
+    "food_options": "Plan meals before or after the drive rather than expecting a city-style food block on site.",
+    "shopping": "Any shopping here should stay secondary to the heritage visit."
+  },
+  "insider_tips": [
+    "Do not reduce this to a quick box-tick; Ban Chiang is one of the province's main reasons to stay longer.",
+    "Use the museum and the UNESCO context together rather than only photographing pottery motifs.",
+    "Recheck current museum arrangements locally if exact opening hours matter."
+  ],
+  "verified_note": "Source-backed summary based on UNESCO World Heritage Centre and current Tourism Thailand destination framing.",
+  "cultural_significance": "Ban Chiang matters because it gives Udon Thani a heritage layer with real archaeological authority and prevents the province from being written only through modern-city or seasonal-flower language.",
+  "contentSources": [
+    {
+      "name": "Ban Chiang Archaeological Site",
+      "url": "https://whc.unesco.org/en/list/575/"
+    },
+    {
+      "name": "Udon Thani Province Page",
+      "url": "https://www.tourismthailand.org/Destinations/Provinces/Udon%20Thani/588"
+    }
+  ]
+}

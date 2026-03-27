@@ -1,0 +1,76 @@
+{
+  "id": 5,
+  "slug": "red-lotus-sea",
+  "name": {
+    "en": "Red Lotus Sea",
+    "nl": "Red Lotus Sea"
+  },
+  "type": "nature",
+  "city_slug": "udon-thani",
+  "address": "Kumphawapi District, Udon Thani",
+  "location": null,
+  "opening_hours": "Boat activity is strongest at dawn in the winter bloom season, but exact same-day departures and bloom conditions should be rechecked locally.",
+  "entrance_fee": {
+    "thb": null,
+    "usd": null
+  },
+  "description": {
+    "en": "A worthwhile seasonal dawn extra when winter bloom conditions support it, but not the foundation of the whole itinerary.",
+    "nl": "Een waardevolle seizoensgebonden dageraadsextensie wanneer de winterbloei dat ondersteunt, maar niet de basis van de hele route."
+  },
+  "highlights": [
+    "Seasonal dawn boat ride",
+    "Winter lotus bloom",
+    "Best as a selective add-on"
+  ],
+  "image": "/images/cities/generated/udon-thani.webp",
+  "seo": {
+    "metaTitle": {
+      "en": "Red Lotus Sea | Go2Thailand",
+      "nl": "Red Lotus Sea | Go2Thailand"
+    },
+    "metaDescription": {
+      "en": "How to think about Red Lotus Sea as a seasonal dawn extra from Udon Thani, not the whole trip.",
+      "nl": "Hoe je Red Lotus Sea ziet als een seizoensgebonden dageraadsextensie vanuit Udon Thani, niet als de hele reis."
+    }
+  },
+  "tags": [
+    "udon-thani",
+    "red-lotus-sea",
+    "talay-bua-daeng"
+  ],
+  "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=Red%20Lotus%20Sea%20Udon%20Thani",
+  "best_time": "sunrise in season",
+  "duration_hours": 2,
+  "enhanced_description": "Red Lotus Sea can still be worth the early start, but only when it is treated honestly. The dawn boat ride belongs in the Udon cluster as a seasonal winter add-on, not as the province's year-round identity or as an excuse to ignore the museum, the city food layer, Ban Chiang, and Phu Phrabat.",
+  "detailed_history": "Current Tourism Thailand coverage still frames the lake as a winter-season highlight, which is the right durable way to use it. That matters because bloom timing is inherently seasonal and should never be presented as fixed all year.",
+  "visitor_experience": "Expect an early-morning nature outing with variable bloom conditions rather than a guaranteed all-day attraction. If the season is right, it can be memorable; if not, the trip should move on without forcing it.",
+  "best_time_to_visit": {
+    "time_of_day": "Sunrise in bloom season",
+    "duration": "About 1.5 to 2.5 hours",
+    "crowd_level": "Can be busy in peak bloom windows"
+  },
+  "practical_info": {
+    "how_to_get_there": "Best reached by dedicated early transport from Udon city.",
+    "nearby_attractions": "Treat this as a single-purpose dawn outing rather than a bridge to too many other stops.",
+    "food_options": "Plan breakfast after the boat ride back in or near the city.",
+    "shopping": "Keep expectations centered on the boat experience, not retail."
+  },
+  "insider_tips": [
+    "Do this only when bloom conditions genuinely line up.",
+    "Leave it out rather than overselling a weak-season visit.",
+    "Build the city and heritage days so the trip still works even if you skip this entirely."
+  ],
+  "verified_note": "Source-backed summary based on current Tourism Thailand Udon coverage.",
+  "cultural_significance": "The Red Lotus Sea matters as a seasonal nature layer, but keeping it in proportion protects Udon from becoming a thin flower-only destination page.",
+  "contentSources": [
+    {
+      "name": "10 Things to Do in Udon Thani",
+      "url": "https://www.tourismthailand.org/Articles/10-things-to-do-in-udon-thani"
+    },
+    {
+      "name": "Udon Thani Province Page",
+      "url": "https://www.tourismthailand.org/Destinations/Provinces/Udon%20Thani/588"
+    }
+  ]
+}

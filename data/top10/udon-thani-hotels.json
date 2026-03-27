@@ -1,188 +1,102 @@
 {
   "title": "Best Hotels in Udon Thani Thailand (2026)",
-  "meta_description": "The 10 best hotels in Udon Thani, Thailand with real prices, ratings and guest reviews from tripadvisor. Updated 2026-03-08.",
-  "intro": "Discover the best hotels in Udon Thani, Thailand. These recommendations are based on real guest reviews and current pricing from tripadvisor.",
+  "meta_description": "The Udon Thani hotels that actually help plan the stay: reliable central city bases, one fuller-service option, and a few direct-booking choices backed by official hotel sites.",
+  "intro": "Udon hotel choice is mostly about whether you want a practical central city base for museums, food, and day trips or whether you want a slightly fuller-service stay beside the main mall and station side. The stronger shortlist keeps that logic obvious and uses direct hotel sites instead of scrape-era prices and review counts.",
   "items": [
     {
       "rank": 1,
-      "name": "The Pannarai Hotel",
-      "description": "The Pannarai Hotel is a 4-rated hotel in Udon Thani.",
-      "location": "Udon Thani",
-      "highlights": [],
-      "insider_tips": [],
-      "current_info": "Rating: 4/5 • 357 reviews",
-      "scraped": {
-        "source": "tripadvisor",
-        "rating": 4,
-        "review_count": 357,
-        "scraped_at": "2026-03-08T15:32:45.299Z"
-      },
-      "affiliate_url": "https://tp.media/r?marker=602467&trs=421888&p=4114&u=https%3A%2F%2Fwww.booking.com%2Fsearchresults.html%3Fss%3DThe%2520Pannarai%2520Hotel%252C%2520Udon%2520Thani%252C%2520Thailand%26nflt%3Dht_id%253D204",
-      "trip_affiliate_url": "https://tp.media/r?marker=602467&trs=421888&p=7631&u=https%3A%2F%2Fwww.trip.com%2Fhotels%2Flist%3Fkeyword%3DThe%2520Pannarai%2520Hotel%2520Udon%2520Thani"
+      "name": "Centara Udon",
+      "description": "The strongest larger-format city stay if you want a polished hotel directly tied to Central Plaza and the station side of the city.",
+      "location": "277/1 Prajaksillapakhom Road, Udon Thani",
+      "highlights": [
+        "Official hotel website",
+        "Adjacent to Central Plaza",
+        "Airport and rail convenience"
+      ],
+      "insider_tips": [
+        "Choose this when hotel comfort and mall-side convenience matter more than keeping costs minimal."
+      ],
+      "current_info": "Centara's official site still positions Centara Udon in the heart of the city, next to Central Plaza, with the train station nearby."
     },
     {
       "rank": 2,
-      "name": "Centara Udon",
-      "description": "Centara Udon is a 4.1-rated hotel in Udon Thani.",
-      "location": "Udon Thani",
-      "highlights": [],
-      "insider_tips": [],
-      "current_info": "Rating: 4.1/5 • 1.461 reviews",
-      "scraped": {
-        "source": "tripadvisor",
-        "rating": 4.1,
-        "review_count": 1461,
-        "scraped_at": "2026-03-08T15:32:45.299Z"
-      },
-      "affiliate_url": "https://tp.media/r?marker=602467&trs=421888&p=4114&u=https%3A%2F%2Fwww.booking.com%2Fsearchresults.html%3Fss%3DCentara%2520Udon%252C%2520Udon%2520Thani%252C%2520Thailand%26nflt%3Dht_id%253D204",
-      "trip_affiliate_url": "https://tp.media/r?marker=602467&trs=421888&p=7631&u=https%3A%2F%2Fwww.trip.com%2Fhotels%2Flist%3Fkeyword%3DCentara%2520Udon%2520Udon%2520Thani"
+      "name": "Civilize Hotel",
+      "description": "A stronger boutique-leaning city option when you want a central Udon base with a restaurant-and-bar setup rather than a larger chain feel.",
+      "location": "Mak Khaeng, Udon Thani",
+      "highlights": [
+        "Official hotel website",
+        "City-center positioning",
+        "Good for short urban stays"
+      ],
+      "insider_tips": [
+        "This is a good fit when your priority is staying close to the city rather than relying on a mall-linked hotel."
+      ],
+      "current_info": "Civilize Hotel's official site still presents it as a modern city-center hotel with restaurant and bar support."
     },
     {
       "rank": 3,
-      "name": "Banbua Grand Udon",
-      "description": "Banbua Grand Udon is a 4.5-rated hotel in Udon Thani.",
-      "location": "Udon Thani",
-      "highlights": [],
-      "insider_tips": [],
-      "current_info": "Rating: 4.5/5 • 36 reviews",
-      "scraped": {
-        "source": "tripadvisor",
-        "rating": 4.5,
-        "review_count": 36,
-        "scraped_at": "2026-03-08T15:32:45.299Z"
-      },
-      "affiliate_url": "https://tp.media/r?marker=602467&trs=421888&p=4114&u=https%3A%2F%2Fwww.booking.com%2Fsearchresults.html%3Fss%3DBanbua%2520Grand%2520Udon%252C%2520Udon%2520Thani%252C%2520Thailand%26nflt%3Dht_id%253D204",
-      "trip_affiliate_url": "https://tp.media/r?marker=602467&trs=421888&p=7631&u=https%3A%2F%2Fwww.trip.com%2Fhotels%2Flist%3Fkeyword%3DBanbua%2520Grand%2520Udon%2520Udon%2520Thani"
+      "name": "HOP INN Udon Thani",
+      "description": "The clearest dependable budget base when the room is there to support Udon's city and day-trip logistics rather than become the headline.",
+      "location": "Udon Thani city and airport-access side",
+      "highlights": [
+        "Official hotel website",
+        "Near airport and city center",
+        "Straightforward budget format"
+      ],
+      "insider_tips": [
+        "Best if your priority is a clean practical base with low friction for airport arrivals and short city stays."
+      ],
+      "current_info": "HOP INN's official page still positions the property as budget comfort near Udon Thani Airport and the city center."
     },
     {
       "rank": 4,
-      "name": "Charoen Hotel",
-      "description": "Charoen Hotel is a 3.5-rated hotel in Udon Thani.",
-      "location": "Udon Thani",
-      "highlights": [],
-      "insider_tips": [],
-      "current_info": "Rating: 3.5/5 • 182 reviews",
-      "scraped": {
-        "source": "tripadvisor",
-        "rating": 3.5,
-        "review_count": 182,
-        "scraped_at": "2026-03-08T15:32:45.299Z"
-      },
-      "affiliate_url": "https://tp.media/r?marker=602467&trs=421888&p=4114&u=https%3A%2F%2Fwww.booking.com%2Fsearchresults.html%3Fss%3DCharoen%2520Hotel%252C%2520Udon%2520Thani%252C%2520Thailand%26nflt%3Dht_id%253D204",
-      "trip_affiliate_url": "https://tp.media/r?marker=602467&trs=421888&p=7631&u=https%3A%2F%2Fwww.trip.com%2Fhotels%2Flist%3Fkeyword%3DCharoen%2520Hotel%2520Udon%2520Thani"
-    },
-    {
-      "rank": 5,
       "name": "B2 Udon Boutique & Budget Hotel",
-      "description": "B2 Udon Boutique & Budget Hotel is a 3.5-rated hotel in Udon Thani.",
-      "location": "Udon Thani",
-      "highlights": [],
-      "insider_tips": [],
-      "current_info": "Rating: 3.5/5 • 43 reviews",
-      "scraped": {
-        "source": "tripadvisor",
-        "rating": 3.5,
-        "review_count": 43,
-        "scraped_at": "2026-03-08T15:32:45.299Z"
-      },
-      "affiliate_url": "https://tp.media/r?marker=602467&trs=421888&p=4114&u=https%3A%2F%2Fwww.booking.com%2Fsearchresults.html%3Fss%3DB2%2520Udon%2520Boutique%2520%2526%2520Budget%2520Hotel%252C%2520Udon%2520Thani%252C%2520Thailand%26nflt%3Dht_id%253D204",
-      "trip_affiliate_url": "https://tp.media/r?marker=602467&trs=421888&p=7631&u=https%3A%2F%2Fwww.trip.com%2Fhotels%2Flist%3Fkeyword%3DB2%2520Udon%2520Boutique%2520%2526%2520Budget%2520Hotel%2520Udon%2520Thani"
-    },
-    {
-      "rank": 6,
-      "name": "De Princess Hotel Udon Thani",
-      "description": "De Princess Hotel Udon Thani is a 4.7-rated hotel in Udon Thani.",
-      "location": "Udon Thani",
-      "highlights": [],
-      "insider_tips": [],
-      "current_info": "Rating: 4.7/5 • 66 reviews",
-      "scraped": {
-        "source": "tripadvisor",
-        "rating": 4.7,
-        "review_count": 66,
-        "scraped_at": "2026-03-08T15:32:45.299Z"
-      },
-      "affiliate_url": "https://tp.media/r?marker=602467&trs=421888&p=4114&u=https%3A%2F%2Fwww.booking.com%2Fsearchresults.html%3Fss%3DDe%2520Princess%2520Hotel%2520Udon%2520Thani%252C%2520Udon%2520Thani%252C%2520Thailand%26nflt%3Dht_id%253D204",
-      "trip_affiliate_url": "https://tp.media/r?marker=602467&trs=421888&p=7631&u=https%3A%2F%2Fwww.trip.com%2Fhotels%2Flist%3Fkeyword%3DDe%2520Princess%2520Hotel%2520Udon%2520Thani%2520Udon%2520Thani"
-    },
-    {
-      "rank": 7,
-      "name": "Le' Luxe Residence",
-      "description": "Le' Luxe Residence is a 3.8-rated hotel in Udon Thani.",
-      "location": "Udon Thani",
-      "highlights": [],
-      "insider_tips": [],
-      "current_info": "Rating: 3.8/5 • 20 reviews",
-      "scraped": {
-        "source": "tripadvisor",
-        "rating": 3.8,
-        "review_count": 20,
-        "scraped_at": "2026-03-08T15:32:45.299Z"
-      },
-      "affiliate_url": "https://tp.media/r?marker=602467&trs=421888&p=4114&u=https%3A%2F%2Fwww.booking.com%2Fsearchresults.html%3Fss%3DLe'%2520Luxe%2520Residence%252C%2520Udon%2520Thani%252C%2520Thailand%26nflt%3Dht_id%253D204",
-      "trip_affiliate_url": "https://tp.media/r?marker=602467&trs=421888&p=7631&u=https%3A%2F%2Fwww.trip.com%2Fhotels%2Flist%3Fkeyword%3DLe'%2520Luxe%2520Residence%2520Udon%2520Thani"
-    },
-    {
-      "rank": 8,
-      "name": "The 8 Hotel",
-      "description": "The 8 Hotel is a 4.4-rated hotel in Udon Thani.",
-      "location": "Udon Thani",
-      "highlights": [],
-      "insider_tips": [],
-      "current_info": "Rating: 4.4/5 • 47 reviews",
-      "scraped": {
-        "source": "tripadvisor",
-        "rating": 4.4,
-        "review_count": 47,
-        "scraped_at": "2026-03-08T15:32:45.299Z"
-      },
-      "affiliate_url": "https://tp.media/r?marker=602467&trs=421888&p=4114&u=https%3A%2F%2Fwww.booking.com%2Fsearchresults.html%3Fss%3DThe%25208%2520Hotel%252C%2520Udon%2520Thani%252C%2520Thailand%26nflt%3Dht_id%253D204",
-      "trip_affiliate_url": "https://tp.media/r?marker=602467&trs=421888&p=7631&u=https%3A%2F%2Fwww.trip.com%2Fhotels%2Flist%3Fkeyword%3DThe%25208%2520Hotel%2520Udon%2520Thani"
-    },
-    {
-      "rank": 9,
-      "name": "Thanburi Hotel",
-      "description": "Thanburi Hotel is a 3.9-rated hotel in Udon Thani.",
-      "location": "Udon Thani",
-      "highlights": [],
-      "insider_tips": [],
-      "current_info": "Rating: 3.9/5 • 26 reviews",
-      "scraped": {
-        "source": "tripadvisor",
-        "rating": 3.9,
-        "review_count": 26,
-        "scraped_at": "2026-03-08T15:32:45.299Z"
-      },
-      "affiliate_url": "https://tp.media/r?marker=602467&trs=421888&p=4114&u=https%3A%2F%2Fwww.booking.com%2Fsearchresults.html%3Fss%3DThanburi%2520Hotel%252C%2520Udon%2520Thani%252C%2520Thailand%26nflt%3Dht_id%253D204",
-      "trip_affiliate_url": "https://tp.media/r?marker=602467&trs=421888&p=7631&u=https%3A%2F%2Fwww.trip.com%2Fhotels%2Flist%3Fkeyword%3DThanburi%2520Hotel%2520Udon%2520Thani"
-    },
-    {
-      "rank": 10,
-      "name": "Civilize Hotel",
-      "description": "Civilize Hotel is a 4.7-rated hotel in Udon Thani.",
-      "location": "Udon Thani",
-      "highlights": [],
-      "insider_tips": [],
-      "current_info": "Rating: 4.7/5 • 30 reviews",
-      "scraped": {
-        "source": "tripadvisor",
-        "rating": 4.7,
-        "review_count": 30,
-        "scraped_at": "2026-03-08T15:32:45.299Z"
-      },
-      "affiliate_url": "https://tp.media/r?marker=602467&trs=421888&p=4114&u=https%3A%2F%2Fwww.booking.com%2Fsearchresults.html%3Fss%3DCivilize%2520Hotel%252C%2520Udon%2520Thani%252C%2520Thailand%26nflt%3Dht_id%253D204",
-      "trip_affiliate_url": "https://tp.media/r?marker=602467&trs=421888&p=7631&u=https%3A%2F%2Fwww.trip.com%2Fhotels%2Flist%3Fkeyword%3DCivilize%2520Hotel%2520Udon%2520Thani"
+      "description": "A practical low-cost city option when shopping access, easy road positioning, and predictable budget-room logic matter more than character.",
+      "location": "Mak Khaeng, Mueang Udon Thani",
+      "highlights": [
+        "Official hotel website",
+        "Shopping and culture area positioning",
+        "Budget city base"
+      ],
+      "insider_tips": [
+        "Use this when you want a simple budget room and do not need a fuller-service stay."
+      ],
+      "current_info": "B2's official site still describes the hotel as being in Udon's shopping, restaurant, and culture area."
     }
   ],
   "city_slug": "udon-thani",
   "city_name": "Udon Thani",
   "category": "hotels",
-  "data_sources": [
-    "tripadvisor",
-    "scraped"
+  "content_sources": [
+    {
+      "title": "Centara Udon",
+      "creator": "Centara Hotels & Resorts",
+      "url": "https://www.centarahotelsresorts.com/centara/cud",
+      "description": "Used for official city-hotel positioning beside Central Plaza and station-side access."
+    },
+    {
+      "title": "Civilize Hotel",
+      "creator": "Civilize Hotel",
+      "url": "https://www.civilizehotel.com/",
+      "description": "Used for the central boutique-leaning city-stay option."
+    },
+    {
+      "title": "HOP INN Udon Thani",
+      "creator": "HOP INN Thailand",
+      "url": "https://www.hopinnhotel.com/our-hotels/hop-inn-udon-thani",
+      "description": "Used for the airport-and-city-access budget option."
+    },
+    {
+      "title": "B2 Udon Boutique & Budget Hotel",
+      "creator": "B2 Boutique and Budget Hotels",
+      "url": "https://www.b2hotel.com/udon-thani/b2-udon-boutique-budget-hotel/",
+      "description": "Used for the shopping-area budget stay."
+    }
   ],
-  "last_scraped": "2026-03-08T15:32:45.299Z",
-  "generated_at": "2026-03-08T15:32:45.299Z",
-  "hybrid": false,
-  "scraped": true
+  "data_sources": [
+    "Official hotel websites"
+  ],
+  "generated_at": "2026-03-27T16:40:00.000Z",
+  "factchecked_at": "2026-03-27T16:40:00.000Z",
+  "hybrid": false
 }
