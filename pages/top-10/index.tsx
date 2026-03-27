@@ -3,7 +3,7 @@ import Link from 'next/link';
 import Breadcrumbs from '../../components/Breadcrumbs';
 import SEOHead from '../../components/SEOHead';
 import { getAllCities } from '../../lib/cities';
-import { rootHubContent } from '../../lib/top10-hub-content';
+import { rootHubContent, type Top10Category } from '../../lib/top10-hub-content';
 
 interface Top10IndexProps {
   totalGuides: {
@@ -18,6 +18,10 @@ interface CityRecord {
   name: {
     en: string;
   };
+}
+
+function getSectionCityHref(slug: string, category?: Top10Category) {
+  return category ? `/city/${slug}/top-10-${category}/` : `/city/${slug}/`;
 }
 
 export default function Top10Index({ totalGuides }: Top10IndexProps) {
@@ -80,10 +84,10 @@ export default function Top10Index({ totalGuides }: Top10IndexProps) {
           <div className="container-custom">
             <section className="bg-white rounded-2xl shadow-md p-8 mb-12">
               <h2 className="text-3xl font-bold font-heading text-gray-900 mb-4">
-                How To Use These Guides
+                {rootHubContent.whyThisPageTitle}
               </h2>
               <p className="text-gray-600 max-w-3xl">
-                Start with the guide family that matches the decision you are making, then open a city page for the actual shortlist and source-backed context.
+                {rootHubContent.whyThisPageBody}
               </p>
             </section>
 
@@ -190,7 +194,7 @@ export default function Top10Index({ totalGuides }: Top10IndexProps) {
                         return (
                           <Link
                             key={slug}
-                            href={`/city/${slug}/`}
+                            href={getSectionCityHref(slug, section.linkCategory)}
                             className="rounded-full bg-white px-3 py-1.5 text-sm font-medium text-gray-700 shadow-sm transition-colors hover:bg-gray-50 hover:text-thailand-red"
                           >
                             {city.name.en}

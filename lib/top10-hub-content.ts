@@ -1,4 +1,5 @@
 export type Top10HubSlug = 'root' | 'attractions' | 'restaurants' | 'hotels';
+export type Top10Category = Exclude<Top10HubSlug, 'root'>;
 
 export const approvedCitySlugs = [
   'bangkok',
@@ -37,7 +38,6 @@ export const approvedCitySlugs = [
 ] as const;
 
 export type CitySlug = (typeof approvedCitySlugs)[number];
-type Top10Category = Exclude<Top10HubSlug, 'root'>;
 type CityPageHref = `/city/${CitySlug}/`;
 type Top10PageHref = `/city/${CitySlug}/top-10-${Top10Category}/`;
 
@@ -59,6 +59,7 @@ export interface HubEditorialSection {
   title: string;
   description: string;
   citySlugs: CitySlug[];
+  linkCategory?: Top10Category;
   inlineSources?: HubSourceLink[];
 }
 
@@ -79,6 +80,72 @@ const tourismAuthoritySource: HubSourceLink = {
   label: 'Tourism Authority of Thailand',
   url: 'https://www.tourismthailand.org/',
   note: 'Official destination framework for city and region references.'
+};
+
+const bangkokGrandPalaceSource: HubSourceLink = {
+  label: 'Bangkok Grand Palace official site',
+  url: 'https://www.royalgrandpalace.th/en/home',
+  note: 'Used for the Bangkok royal-core reference and headline heritage framing.'
+};
+
+const chiangMaiProvinceSource: HubSourceLink = {
+  label: 'Chiang Mai Province Official Tourism',
+  url: 'https://www.chiangmai.go.th/english/index.php/welcome/tourism/1000',
+  note: 'Used for Chiang Mai’s old-city and province-level tourism framing.'
+};
+
+const phuketOldTownSource: HubSourceLink = {
+  label: 'Phuket Old Town - 7 Greens',
+  url: 'https://7greens.tourismthailand.org/en/2020/08/21/%E0%B8%A2%E0%B9%88%E0%B8%B2%E0%B8%99%E0%B9%80%E0%B8%A1%E0%B8%B7%E0%B8%AD%E0%B8%87%E0%B9%80%E0%B8%81%E0%B9%88%E0%B8%B2%E0%B8%A0%E0%B8%B9%E0%B9%80%E0%B8%81%E0%B9%87%E0%B8%95/',
+  note: 'Used for Phuket Old Town as an official walking-district reference.'
+};
+
+const krabiEmeraldPoolSource: HubSourceLink = {
+  label: 'Krabi Emerald Pool - 7 Greens',
+  url: 'https://7greens.tourismthailand.org/2018/11/13/emerald-pool/',
+  note: 'Used for the Krabi coastal-nature reference.'
+};
+
+const ayutthayaUnescoSource: HubSourceLink = {
+  label: 'UNESCO Ayutthaya',
+  url: 'https://whc.unesco.org/en/list/576/',
+  note: 'Used for the Historic City of Ayutthaya heritage reference.'
+};
+
+const sukhothaiUnescoSource: HubSourceLink = {
+  label: 'UNESCO Sukhothai',
+  url: 'https://whc.unesco.org/en/list/574/',
+  note: 'Used for the Historic Town of Sukhothai and Associated Historic Towns reference.'
+};
+
+const doiInthanonSource: HubSourceLink = {
+  label: 'Tourism Thailand: Doi Inthanon',
+  url: 'https://www.tourismthailand.org/Articles/mountain-savouring-the-greens-at-doi-inthanon',
+  note: 'Used for northern mountain and excursion-context framing.'
+};
+
+const banChiangSource: HubSourceLink = {
+  label: 'UNESCO Ban Chiang',
+  url: 'https://whc.unesco.org/en/list/575/',
+  note: 'Used for the Ban Chiang archaeological reference in Udon Thani.'
+};
+
+const phuPhrabatSource: HubSourceLink = {
+  label: 'UNESCO Phu Phrabat',
+  url: 'https://whc.unesco.org/en/list/1688/',
+  note: 'Used for the Phu Phrabat heritage reference in Udon Thani.'
+};
+
+const ubonHeritageTrailSource: HubSourceLink = {
+  label: 'Ubon Mekong Heritage Trail',
+  url: 'https://tourismproduct.tourismthailand.org/wp-content/uploads/2023/01/ASEAN-HT_3_Mekong_Online-Spread144.pdf',
+  note: 'Used for the Ubon city-core heritage layer and Mekong route context.'
+};
+
+const phaTaemSource: HubSourceLink = {
+  label: 'Pha Taem National Park',
+  url: 'https://tourismproduct.tourismthailand.org/en/2025/06/20/%E0%B8%AD%E0%B8%B8%E0%B8%97%E0%B8%A2%E0%B8%B2%E0%B8%99%E0%B9%81%E0%B8%AB%E0%B9%88%E0%B8%87%E0%B8%8A%E0%B8%B2%E0%B8%95%E0%B8%B4%E0%B8%9C%E0%B8%B2%E0%B9%81%E0%B8%95%E0%B9%89%E0%B8%A1-2/',
+  note: 'Used for the current Ubon border-landscape and park-level nature reference.'
 };
 
 const unescoSource: HubSourceLink = {
@@ -216,14 +283,16 @@ export const rootHubContent: HubPageContent = {
       description:
         'Use the biggest travel bases when you need broad choice, transit access, and flexible onward planning.',
       citySlugs: ['bangkok', 'chiang-mai', 'phuket', 'pattaya', 'krabi', 'hua-hin'],
-      inlineSources: [tourismAuthoritySource, tcebSource]
+      linkCategory: 'hotels',
+      inlineSources: [bangkokGrandPalaceSource, chiangMaiProvinceSource, phuketOldTownSource]
     },
     {
       title: 'Heritage cities and temple routes',
       description:
         'Historic places work best when the guide is anchored around one clear reason to visit, not a broad country-wide list.',
       citySlugs: ['ayutthaya', 'sukhothai', 'lopburi', 'phitsanulok', 'kanchanaburi', 'chiang-rai'],
-      inlineSources: [unescoSource, fineArtsSource]
+      linkCategory: 'attractions',
+      inlineSources: [ayutthayaUnescoSource, sukhothaiUnescoSource, banChiangSource]
     },
     {
       title: 'Coastal, island, and border gateways',
@@ -240,28 +309,36 @@ export const rootHubContent: HubPageContent = {
         'chanthaburi',
         'nakhon-si-thammarat'
       ],
-      inlineSources: [tourismAuthoritySource]
+      linkCategory: 'hotels',
+      inlineSources: [phuketOldTownSource, krabiEmeraldPoolSource, phaTaemSource]
     },
     {
       title: 'Northern hill and river routes',
       description:
         'Smaller northern cities are useful when the trip is about atmosphere, slower pacing, and focused sightseeing rather than dense city scale.',
       citySlugs: ['pai', 'mae-hong-son', 'lampang', 'chiang-khan'],
-      inlineSources: [tourismAuthoritySource, fineArtsSource]
+      linkCategory: 'attractions',
+      inlineSources: [chiangMaiProvinceSource, doiInthanonSource]
     },
     {
       title: 'Isaan and Mekong city guides',
       description:
         'The northeastern city set is strongest when the hub directs readers into a tighter regional shortlist instead of a broad generic ranking.',
       citySlugs: ['khon-kaen', 'udon-thani', 'nakhon-ratchasima', 'ubon-ratchathani', 'nong-khai', 'bueng-kan', 'nakhon-phanom', 'mukdahan'],
-      inlineSources: [tourismAuthoritySource]
+      linkCategory: 'attractions',
+      inlineSources: [banChiangSource, phuPhrabatSource, ubonHeritageTrailSource, phaTaemSource]
     }
   ],
   sourceLinks: [
-    tourismAuthoritySource,
-    unescoSource,
-    fineArtsSource,
-    tcebSource
+    bangkokGrandPalaceSource,
+    chiangMaiProvinceSource,
+    phuketOldTownSource,
+    ayutthayaUnescoSource,
+    sukhothaiUnescoSource,
+    banChiangSource,
+    phuPhrabatSource,
+    ubonHeritageTrailSource,
+    phaTaemSource
   ]
 };
 
