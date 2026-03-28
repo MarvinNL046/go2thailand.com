@@ -1,7 +1,6 @@
 import { GetStaticProps, GetStaticPaths } from 'next';
 import Link from 'next/link';
 import Image from 'next/image';
-import Head from 'next/head';
 import { getCityBySlug, getCityStaticPaths, generateCityMetadata, generateBreadcrumbs } from '../../../lib/cities';
 import Breadcrumbs from '../../../components/Breadcrumbs';
 import TripcomWidget from '../../../components/TripcomWidget';
@@ -139,32 +138,6 @@ export default function CityFoodPage({ city, cityFoodData, enhancedRestaurants, 
       >
         <meta name="keywords" content={metadata.keywords} />
       </SEOHead>
-
-      {/* Restaurant JSON-LD structured data */}
-      {enhancedRestaurants.length > 0 && (
-        <Head>
-          <script
-            type="application/ld+json"
-            dangerouslySetInnerHTML={{
-              __html: JSON.stringify(
-                enhancedRestaurants.map((restaurant) => ({
-                  '@context': 'https://schema.org',
-                  '@type': 'Restaurant',
-                  name: restaurant.name,
-                  description: restaurant.description,
-                  servesCuisine: restaurant.cuisine,
-                  priceRange: restaurant.priceRange,
-                  address: {
-                    '@type': 'PostalAddress',
-                    addressLocality: city.name.en,
-                    addressCountry: 'Thailand',
-                  },
-                }))
-              ),
-            }}
-          />
-        </Head>
-      )}
 
       <div className="bg-surface-cream min-h-screen">
         <section className="bg-white shadow-sm">

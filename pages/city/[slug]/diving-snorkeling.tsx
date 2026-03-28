@@ -79,7 +79,7 @@ export default function DivingSnorkelingPage({ city, divingData, affiliates }: P
     },
     {
       q: `Do I need certification to go scuba diving in ${city.name.en}?`,
-      a: `No! "Discover scuba" or "try dive" programs are designed for complete beginners with no certification required. Professional instructors guide you through everything. If you want to get certified, multi-day PADI courses are also available.`
+      a: `Certification requirements depend on the activity. Many introductory or "try dive" programs in ${city.name.en} are set up for first-time participants, while certified dives and multi-day courses have stricter requirements. Check the operator details before booking.`
     },
     {
       q: `When is the best time for diving and snorkeling in ${city.name.en}?`,
@@ -87,7 +87,7 @@ export default function DivingSnorkelingPage({ city, divingData, affiliates }: P
     },
     {
       q: `What should I bring on a diving or snorkeling trip?`,
-      a: `Most tours provide all equipment (masks, fins, snorkels, dive gear). Bring sunscreen (reef-safe preferred), a towel, swimwear, a waterproof phone case for photos, and motion sickness medication if needed. Underwater cameras can be rented on many tours.`
+      a: `Bring sunscreen (reef-safe preferred), a towel, swimwear, a waterproof phone case for photos, and motion sickness medication if needed. Equipment is often included, but the exact setup varies by operator, so check the inclusions before you go.`
     }
   ];
 

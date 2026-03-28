@@ -66,7 +66,7 @@ export default function ElephantSanctuariesPage({ city, sanctuaryData, affiliate
     },
     {
       q: `Are elephant sanctuaries in ${city.name.en} ethical?`,
-      a: `The sanctuaries listed here follow no-riding policies and focus on ethical elephant care, feeding, and bathing. Look for operators with clear no-riding policies and transparent welfare standards for the strongest fit.`
+      a: `Standards vary by operator, so review each program carefully before booking. For a stronger fit, prioritize operators that clearly explain their no-riding approach, visitor interaction limits, and welfare policies.`
     },
     {
       q: `Do I need to book an elephant sanctuary in advance?`,

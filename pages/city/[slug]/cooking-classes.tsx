@@ -70,7 +70,7 @@ export default function CookingClassesPage({ city, cookingData, affiliates }: Pr
     },
     {
       q: `Do I need cooking experience to join a class in ${city.name.en}?`,
-      a: `No! All cooking classes in ${city.name.en} are beginner-friendly. Instructors guide you step-by-step through each dish, and the atmosphere is relaxed and fun.`
+      a: `Many cooking classes in ${city.name.en} are designed to work for first-time participants. Formats and pace vary, so it is worth checking the class description if you want a slower introduction or specific dietary support.`
     },
     {
       q: `What dishes will I learn to cook?`,
@@ -125,7 +125,7 @@ export default function CookingClassesPage({ city, cookingData, affiliates }: Pr
       {
         '@type': 'HowToStep',
         'name': 'Prepare for your class',
-        'text': 'Mention any dietary requirements when booking. Wear comfortable clothes. All ingredients and equipment are provided. Bring a camera to capture your Thai cooking experience.',
+        'text': 'Mention any dietary requirements when booking. Wear comfortable clothes. Ingredients and equipment are often included, but it is worth confirming the setup and any extras before you go.',
         'position': 5
       }
     ]

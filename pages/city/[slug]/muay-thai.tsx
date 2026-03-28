@@ -99,7 +99,7 @@ export default function MuayThaiPage({ city, muayThaiData, affiliates }: Props) 
     },
     {
       q: `Can beginners try Muay Thai training in ${city.name.en}?`,
-      a: `Yes! All training gyms in ${city.name.en} welcome beginners. Sessions typically last 1-2 hours, and all equipment (gloves, pads, wraps) is provided. Instructors guide you through basic techniques step by step.`
+      a: `Many Muay Thai sessions in ${city.name.en} can work for beginners, but the pace and coaching style vary by gym. Introductory classes usually cover basic technique, and equipment is often available to borrow or rent, though you should confirm that with the venue first.`
     },
     {
       q: `How much does a Muay Thai experience cost in ${city.name.en}?`,
@@ -107,7 +107,7 @@ export default function MuayThaiPage({ city, muayThaiData, affiliates }: Props) 
     },
     {
       q: `What should I wear to a Muay Thai fight or training session?`,
-      a: `For watching fights, casual clothes are fine. For training, wear comfortable sportswear (shorts and a t-shirt). Most gyms provide gloves and equipment, but bring your own water bottle and towel.`
+      a: `For watching fights, casual clothes are fine. For training, wear comfortable sportswear such as shorts and a t-shirt. Some gyms provide gloves or pads, while others expect you to bring or rent gear, so confirm the setup in advance and bring your own water bottle and towel.`
     }
   ];
 

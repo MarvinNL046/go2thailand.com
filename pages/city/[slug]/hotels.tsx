@@ -114,28 +114,6 @@ export default function CityHotelsPage({ city, hotelData, hasTop10Hotels, enhanc
         description={metadata.description}
       >
         <meta name="keywords" content={metadata.keywords} />
-        {hotels.length > 0 && (
-          <script
-            type="application/ld+json"
-            dangerouslySetInnerHTML={{
-              __html: JSON.stringify(
-                hotels.map((hotel) => ({
-                  '@context': 'https://schema.org',
-                  '@type': 'LodgingBusiness',
-                  name: hotel.name,
-                  description: hotel.description,
-                  priceRange: hotel.priceRange,
-                  address: {
-                    '@type': 'PostalAddress',
-                    addressLocality: city.name.en,
-                    addressRegion: hotel.area,
-                    addressCountry: 'Thailand',
-                  },
-                }))
-              ),
-            }}
-          />
-        )}
       </SEOHead>
 
       <div className="bg-surface-cream min-h-screen">
@@ -157,17 +135,6 @@ export default function CityHotelsPage({ city, hotelData, hasTop10Hotels, enhanc
           <div className="container-custom">
             {hasHotelContent ? (
               <div className="space-y-12">
-                {/* Hotel Search Widget */}
-                <div className="bg-surface-cream rounded-2xl p-8 text-center">
-                  <h3 className="text-xl font-bold font-heading text-gray-900 mb-4">Check Hotel Availability in {city.name.en}</h3>
-                  <p className="text-gray-600 mb-6">Use the search widget only after you have narrowed down which area suits your trip best.</p>
-                  <TripcomWidget city={city.name.en} type="hotels" />
-                </div>
-
-                {affiliates && (
-                  <AffiliateBox affiliates={affiliates} cityName={city.name.en} type="hotels" />
-                )}
-
                 {/* Best Areas to Stay */}
                 {hotelData && (
                 <div>
@@ -276,7 +243,7 @@ export default function CityHotelsPage({ city, hotelData, hasTop10Hotels, enhanc
                                 </div>
                                 <p className="text-gray-600 text-sm">{hotel.description}</p>
                                 <div className="mt-4 text-thailand-blue text-sm font-medium flex items-center">
-                                  View current options
+                                  Check stay details
                                   <svg className="w-4 h-4 ml-1" fill="none" stroke="currentColor" viewBox="0 0 24 24">
                                     <path strokeLinecap="round" strokeLinejoin="round" strokeWidth="2" d="M9 5l7 7-7 7" />
                                   </svg>
@@ -312,6 +279,17 @@ export default function CityHotelsPage({ city, hotelData, hasTop10Hotels, enhanc
                     </div>
                   </div>
                 </div>
+                )}
+
+                {/* Planning Tools */}
+                <div className="bg-surface-cream rounded-2xl p-8 text-center">
+                  <h3 className="text-xl font-bold font-heading text-gray-900 mb-4">Check Hotel Availability in {city.name.en}</h3>
+                  <p className="text-gray-600 mb-6">Use the planning tools below only after you have narrowed down which area and stay style fit your trip.</p>
+                  <TripcomWidget city={city.name.en} type="hotels" />
+                </div>
+
+                {affiliates && (
+                  <AffiliateBox affiliates={affiliates} cityName={city.name.en} type="hotels" />
                 )}
 
                 {/* Top 10 Hotels Link */}
