@@ -384,62 +384,6 @@ export default function CityFoodPage({ city, cityFoodData, enhancedRestaurants, 
                 View Top 10 Restaurants →
               </Link>
             </div>
-
-            {/* Book a Thai Cooking Class - Affiliate Section */}
-            <div className="bg-white rounded-2xl shadow-md p-8 mt-12">
-              <h3 className="text-2xl font-bold font-heading text-gray-900 mb-4 text-center">
-                Book a Thai Cooking Class in {city.name.en}
-              </h3>
-              <p className="text-gray-600 text-center mb-8">
-                Use these links only if you want to explore cooking class or food tour availability after reviewing the food sections above.
-              </p>
-              <div className="grid grid-cols-1 md:grid-cols-2 gap-6">
-                <div className="border-0 bg-surface-cream rounded-2xl p-6 text-center">
-                  <h4 className="text-lg font-bold text-gray-900 mb-2">Klook</h4>
-                  <p className="text-gray-600 text-sm mb-4">
-                    Cooking classes and food tours
-                  </p>
-                  {affiliates?.klook ? (
-                    <a
-                      href={affiliates.klook}
-                      target="_blank"
-                      rel="noopener noreferrer sponsored"
-                      className="inline-flex items-center justify-center w-full px-6 py-3 bg-thailand-red text-white font-semibold rounded-xl hover:bg-thailand-red-600 transition-colors"
-                    >
-                      View Klook options
-                    </a>
-                  ) : (
-                    <Link href={`/city/${city.slug}/cooking-classes/`} className="inline-flex items-center justify-center w-full px-6 py-3 bg-thailand-red text-white font-semibold rounded-xl hover:bg-thailand-red-600 transition-colors">
-                      See Cooking Classes
-                    </Link>
-                  )}
-                </div>
-                <div className="border-0 bg-surface-cream rounded-2xl p-6 text-center">
-                  <h4 className="text-lg font-bold text-gray-900 mb-2">GetYourGuide</h4>
-                  <p className="text-gray-600 text-sm mb-4">
-                    Food walking tours
-                  </p>
-                  {affiliates?.getyourguide ? (
-                    <a
-                      href={affiliates.getyourguide}
-                      target="_blank"
-                      rel="noopener noreferrer sponsored"
-                      className="inline-flex items-center justify-center w-full px-6 py-3 bg-thailand-blue text-white font-semibold rounded-xl hover:bg-thailand-blue-600 transition-colors"
-                    >
-                      View GetYourGuide options
-                    </a>
-                  ) : (
-                    <Link href={`/city/${city.slug}/attractions/`} className="inline-flex items-center justify-center w-full px-6 py-3 bg-thailand-blue text-white font-semibold rounded-xl hover:bg-thailand-blue-600 transition-colors">
-                      See Nearby Experiences
-                    </Link>
-                  )}
-                </div>
-              </div>
-              <p className="text-xs text-gray-400 text-center mt-4">
-                External booking links are optional planning tools. We may earn a commission at no extra cost to you.
-              </p>
-            </div>
-
             {/* Explore More Section */}
             <div className="mt-12">
               <h3 className="text-2xl font-bold font-heading text-gray-900 mb-6 text-center">

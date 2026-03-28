@@ -150,22 +150,6 @@ export default function BestTimeToVisitPage({ city, topRoutes, affiliates }: Bes
     })),
   };
 
-  // Event schema for festivals
-  const festivalEvents = (seasonalSecrets?.local_festivals || []).slice(0, 5).map(festival => ({
-    '@type': 'Event',
-    name: festival.split(' - ')[0].split(' (')[0],
-    description: festival,
-    location: {
-      '@type': 'Place',
-      name: cityName,
-      address: {
-        '@type': 'PostalAddress',
-        addressLocality: cityName,
-        addressCountry: 'TH',
-      },
-    },
-  }));
-
   return (
     <>
       <SEOHead
@@ -181,21 +165,6 @@ export default function BestTimeToVisitPage({ city, topRoutes, affiliates }: Bes
           type="application/ld+json"
           dangerouslySetInnerHTML={{ __html: JSON.stringify(faqJsonLd) }}
         />
-        {festivalEvents.length > 0 && (
-          <script
-            type="application/ld+json"
-            dangerouslySetInnerHTML={{ __html: JSON.stringify({
-              '@context': 'https://schema.org',
-              '@type': 'ItemList',
-              name: `Festivals and Events in ${cityName}`,
-              itemListElement: festivalEvents.map((event, idx) => ({
-                '@type': 'ListItem',
-                position: idx + 1,
-                item: event,
-              })),
-            }) }}
-          />
-        )}
       </SEOHead>
 
       <div className="bg-surface-cream min-h-screen">

@@ -8,7 +8,6 @@ import CityExploreMore from '../../../components/CityExploreMore';
 import hotelAreasData from '../../../data/cities/hotel-areas.json';
 import fs from 'fs';
 import path from 'path';
-import AffiliateBox from '../../../components/AffiliateBox';
 import { getAffiliates, CityAffiliates } from '../../../lib/affiliates';
 
 interface City {
@@ -245,21 +244,6 @@ export default function CityHotelsPage({ city, hotelData, hasTop10Hotels, enhanc
                               </div>
                             ))}
                           </div>
-                          {affiliates?.booking && (
-                            <div className="mt-6">
-                              <a
-                                href={affiliates.booking}
-                                target="_blank"
-                                rel="noopener noreferrer sponsored"
-                                className="inline-flex items-center text-thailand-blue text-sm font-medium"
-                              >
-                                Open city-wide booking search
-                                <svg className="w-4 h-4 ml-1" fill="none" stroke="currentColor" viewBox="0 0 24 24">
-                                  <path strokeLinecap="round" strokeLinejoin="round" strokeWidth="2" d="M9 5l7 7-7 7" />
-                                </svg>
-                              </a>
-                            </div>
-                          )}
                         </div>
                       );
                     })}
@@ -296,11 +280,6 @@ export default function CityHotelsPage({ city, hotelData, hasTop10Hotels, enhanc
                   <p className="text-gray-600 mb-6">Use the planning tools below only after you have narrowed down which area and stay style fit your trip.</p>
                   <TripcomWidget city={city.name.en} type="hotels" />
                 </div>
-
-                {affiliates && (
-                  <AffiliateBox affiliates={affiliates} cityName={city.name.en} type="hotels" />
-                )}
-
                 {/* Top 10 Hotels Link */}
                 {hasTop10Hotels && (
                   <div className="bg-surface-dark rounded-2xl p-8 text-center text-white">
@@ -333,32 +312,6 @@ export default function CityHotelsPage({ city, hotelData, hasTop10Hotels, enhanc
                 </div>
               </div>
             )}
-
-            {/* Book Your Hotel - Affiliate Section */}
-            <div className="bg-white rounded-2xl shadow-md p-8 mb-8">
-              <h3 className="text-2xl font-bold font-heading text-gray-900 mb-4 text-center">
-                Optional Booking Links for {city.name.en}
-              </h3>
-              <p className="text-gray-600 text-center mb-6">
-                Use these links only if you want to check current hotel options after reviewing the area guidance above.
-              </p>
-              <div className="flex flex-col sm:flex-row gap-4 justify-center">
-                {affiliates && (
-                  <a
-                    href={affiliates.booking}
-                    target="_blank"
-                    rel="noopener noreferrer sponsored"
-                    className="inline-flex items-center justify-center px-8 py-3 bg-thailand-blue text-white font-semibold rounded-xl hover:bg-thailand-blue-600 transition-colors"
-                  >
-                    View options on Booking.com
-                  </a>
-                )}
-              </div>
-              <p className="text-xs text-gray-400 text-center mt-4">
-                External booking links are optional planning tools. We may earn a commission at no extra cost to you.
-              </p>
-            </div>
-
             <div className="bg-white rounded-2xl shadow-md p-8">
               <h3 className="text-2xl font-bold font-heading text-gray-900 mb-6 text-center">
                 Explore More of {city.name.en}
