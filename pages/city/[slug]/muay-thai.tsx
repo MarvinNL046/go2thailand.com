@@ -7,7 +7,6 @@ import { formatPrice } from '../../../lib/price';
 import Breadcrumbs from '../../../components/Breadcrumbs';
 import SEOHead from '../../../components/SEOHead';
 import CityExploreMore from '../../../components/CityExploreMore';
-import AffiliateBox from '../../../components/AffiliateBox';
 import { getAffiliates, CityAffiliates } from '../../../lib/affiliates';
 
 interface MuayThaiActivity {
@@ -28,14 +27,6 @@ interface TrainingGym {
   name: string;
   slug: string;
   location: { en: string; nl: string };
-  score: number;
-  maxScore: number;
-  scores: {
-    facilities: number;
-    cleanliness: number;
-    classStructure: number;
-    coachingQuality: number;
-  };
   highlight: { en: string; nl: string };
   features: string[];
   dtvVisa: boolean;
@@ -189,15 +180,12 @@ export default function MuayThaiPage({ city, muayThaiData, affiliates }: Props) 
                   Watch Live Muay Thai Fights
                 </h2>
                 <div className="space-y-6 mb-12">
-                  {watchActivities.map((cls, index) => (
+                  {watchActivities.map((cls) => (
                     <div key={cls.slug} className="bg-white rounded-2xl shadow-md hover:shadow-xl hover:-translate-y-1 transition-all duration-300 overflow-hidden">
                       <div className="p-6">
                         <div className="flex flex-col md:flex-row md:items-start md:justify-between gap-4">
                           <div className="flex-1">
                             <div className="flex items-center gap-3 mb-2">
-                              <span className="text-sm font-bold text-red-600 bg-red-50 px-2 py-1 rounded">
-                                #{index + 1}
-                              </span>
                               <TypeBadge type={cls.type} />
                               {cls.badge && (
                                 <span className="text-xs font-semibold text-white bg-green-500 px-2 py-1 rounded">
@@ -217,22 +205,12 @@ export default function MuayThaiPage({ city, muayThaiData, affiliates }: Props) 
                               ))}
                             </div>
                           </div>
-                          <div className="flex flex-col items-end gap-2">
+                          <div className="text-right">
                             <div className="text-right">
                               <div className="text-sm text-gray-500">From</div>
                               <div className="text-2xl font-bold text-gray-900">{formatPrice(cls.priceFrom, loc)}</div>
                               <div className="text-xs text-gray-500">per person</div>
                             </div>
-                            {affiliates?.getyourguide && (
-                              <a
-                                href={affiliates.getyourguide}
-                                target="_blank"
-                                rel="noopener noreferrer sponsored"
-                                className="inline-flex items-center px-6 py-2 bg-thailand-red text-white font-semibold rounded-xl hover:bg-thailand-red-600 transition-colors text-sm"
-                              >
-                                Open fight-night search
-                              </a>
-                            )}
                           </div>
                         </div>
                       </div>
@@ -249,15 +227,12 @@ export default function MuayThaiPage({ city, muayThaiData, affiliates }: Props) 
                   Muay Thai Training Classes
                 </h2>
                 <div className="space-y-6 mb-12">
-                  {trainActivities.map((cls, index) => (
+                  {trainActivities.map((cls) => (
                     <div key={cls.slug} className="bg-white rounded-2xl shadow-md hover:shadow-xl hover:-translate-y-1 transition-all duration-300 overflow-hidden">
                       <div className="p-6">
                         <div className="flex flex-col md:flex-row md:items-start md:justify-between gap-4">
                           <div className="flex-1">
                             <div className="flex items-center gap-3 mb-2">
-                              <span className="text-sm font-bold text-blue-600 bg-blue-50 px-2 py-1 rounded">
-                                #{index + 1}
-                              </span>
                               <TypeBadge type={cls.type} />
                               {cls.badge && (
                                 <span className="text-xs font-semibold text-white bg-green-500 px-2 py-1 rounded">
@@ -278,22 +253,12 @@ export default function MuayThaiPage({ city, muayThaiData, affiliates }: Props) 
                               ))}
                             </div>
                           </div>
-                          <div className="flex flex-col items-end gap-2">
+                          <div className="text-right">
                             <div className="text-right">
                               <div className="text-sm text-gray-500">From</div>
                               <div className="text-2xl font-bold text-gray-900">{formatPrice(cls.priceFrom, loc)}</div>
                               <div className="text-xs text-gray-500">per person</div>
                             </div>
-                            {affiliates?.getyourguide && (
-                              <a
-                                href={affiliates.getyourguide}
-                                target="_blank"
-                                rel="noopener noreferrer sponsored"
-                                className="inline-flex items-center px-6 py-2 bg-thailand-blue text-white font-semibold rounded-xl hover:bg-thailand-blue-600 transition-colors text-sm"
-                              >
-                                Open training search
-                              </a>
-                            )}
                           </div>
                         </div>
                       </div>
@@ -336,22 +301,12 @@ export default function MuayThaiPage({ city, muayThaiData, affiliates }: Props) 
                               ))}
                             </div>
                           </div>
-                          <div className="flex flex-col items-end gap-2">
+                          <div className="text-right">
                             <div className="text-right">
                               <div className="text-sm text-gray-500">From</div>
                               <div className="text-2xl font-bold text-gray-900">{formatPrice(cls.priceFrom, loc)}</div>
                               <div className="text-xs text-gray-500">per person</div>
                             </div>
-                            {affiliates?.getyourguide && (
-                              <a
-                                href={affiliates.getyourguide}
-                                target="_blank"
-                                rel="noopener noreferrer sponsored"
-                                className="inline-flex items-center px-6 py-2 bg-thailand-red text-white font-semibold rounded-xl hover:bg-thailand-red-600 transition-colors text-sm"
-                              >
-                                Open activity search
-                              </a>
-                            )}
                           </div>
                         </div>
                       </div>
@@ -368,18 +323,15 @@ export default function MuayThaiPage({ city, muayThaiData, affiliates }: Props) 
                   Top Training Gyms in {city.name.en}
                 </h2>
                 <p className="text-gray-600 mb-6">
-                  Looking for a serious training camp? These gyms in {city.name.en} are summarized with facility, cleanliness, class structure, and coaching scores from our current city dataset (max 20 points).
+                  Looking for a serious training camp? These gyms in {city.name.en} are summarized with location notes, standout features, and short editorial highlights from our current city dataset.
                 </p>
                 <div className="space-y-6 mb-12">
-                  {muayThaiData.trainingGyms.map((gym, index) => (
+                  {muayThaiData.trainingGyms.map((gym) => (
                     <div key={gym.slug} className="bg-white rounded-2xl shadow-md hover:shadow-xl hover:-translate-y-1 transition-all duration-300 overflow-hidden border-l-4 border-yellow-400">
                       <div className="p-6">
                         <div className="flex flex-col md:flex-row md:items-start md:justify-between gap-4">
                           <div className="flex-1">
                             <div className="flex items-center gap-3 mb-2">
-                              <span className="text-sm font-bold text-yellow-600 bg-yellow-50 px-2 py-1 rounded">
-                                #{index + 1}
-                              </span>
                               <span className="text-xs font-semibold text-gray-500">{gym.location.en}</span>
                               {gym.dtvVisa && (
                                 <span className="text-xs font-semibold text-green-700 bg-green-100 px-2 py-1 rounded">
@@ -396,28 +348,6 @@ export default function MuayThaiPage({ city, muayThaiData, affiliates }: Props) 
                                 </span>
                               ))}
                             </div>
-                            <div className="grid grid-cols-4 gap-2 text-center">
-                              <div className="bg-gray-50 rounded p-2">
-                                <div className="text-sm font-bold text-gray-900">{gym.scores.facilities}/5</div>
-                                <div className="text-[10px] text-gray-500">Facilities</div>
-                              </div>
-                              <div className="bg-gray-50 rounded p-2">
-                                <div className="text-sm font-bold text-gray-900">{gym.scores.cleanliness}/5</div>
-                                <div className="text-[10px] text-gray-500">Clean</div>
-                              </div>
-                              <div className="bg-gray-50 rounded p-2">
-                                <div className="text-sm font-bold text-gray-900">{gym.scores.classStructure}/5</div>
-                                <div className="text-[10px] text-gray-500">Structure</div>
-                              </div>
-                              <div className="bg-gray-50 rounded p-2">
-                                <div className="text-sm font-bold text-gray-900">{gym.scores.coachingQuality}/5</div>
-                                <div className="text-[10px] text-gray-500">Coaching</div>
-                              </div>
-                            </div>
-                          </div>
-                          <div className="flex flex-col items-center gap-1 min-w-[80px]">
-                            <div className="text-3xl font-bold text-yellow-600">{gym.score}</div>
-                            <div className="text-sm text-gray-500">/ {gym.maxScore}</div>
                           </div>
                         </div>
                       </div>
@@ -445,13 +375,6 @@ export default function MuayThaiPage({ city, muayThaiData, affiliates }: Props) 
                 ))}
               </ul>
             </div>
-
-            {/* Book Section */}
-            {affiliates && (
-              <div className="mb-12">
-                <AffiliateBox affiliates={affiliates} cityName={city.name.en} type="activities" />
-              </div>
-            )}
 
             {/* FAQ */}
             <div className="bg-white rounded-2xl shadow-md p-8 mb-12">

@@ -6,7 +6,6 @@ import { getElephantSanctuariesByCity, getAllElephantSanctuaryCities } from '../
 import { formatPrice } from '../../../lib/price';
 import Breadcrumbs from '../../../components/Breadcrumbs';
 import SEOHead from '../../../components/SEOHead';
-import AffiliateBox from '../../../components/AffiliateBox';
 import CityExploreMore from '../../../components/CityExploreMore';
 import { getAffiliates, CityAffiliates } from '../../../lib/affiliates';
 
@@ -153,10 +152,6 @@ export default function ElephantSanctuariesPage({ city, sanctuaryData, affiliate
               <p className="text-gray-700 leading-relaxed">{sanctuaryData.intro.en}</p>
             </div>
 
-            {affiliates && (
-              <AffiliateBox affiliates={affiliates} cityName={city.name.en} type="activities" />
-            )}
-
             {/* Sanctuary List */}
             <h2 className="text-3xl font-bold font-heading text-gray-900 mb-8">
               Top {sanctuaryData.classes.length} Elephant Sanctuaries in {city.name.en}
@@ -191,22 +186,12 @@ export default function ElephantSanctuariesPage({ city, sanctuaryData, affiliate
                           ))}
                         </div>
                       </div>
-                      <div className="flex flex-col items-end gap-2">
+                      <div className="text-right">
                         <div className="text-right">
                           <div className="text-sm text-gray-500">From</div>
                           <div className="text-2xl font-bold text-gray-900">{formatPrice(sanctuary.priceFrom, loc)}</div>
                           <div className="text-xs text-gray-500">per person</div>
                         </div>
-                        {affiliates?.getyourguide && (
-                          <a
-                            href={affiliates.getyourguide}
-                            target="_blank"
-                            rel="noopener noreferrer sponsored"
-                            className="inline-flex items-center px-6 py-2 bg-thailand-blue text-white font-semibold rounded-xl hover:bg-thailand-blue-600 transition-colors text-sm"
-                          >
-                            Open sanctuary search
-                          </a>
-                        )}
                       </div>
                     </div>
                   </div>

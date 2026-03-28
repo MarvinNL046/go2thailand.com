@@ -6,7 +6,6 @@ import { getDivingSnorkelingByCity, getAllDivingSnorkelingCities } from '../../.
 import { formatPrice } from '../../../lib/price';
 import Breadcrumbs from '../../../components/Breadcrumbs';
 import SEOHead from '../../../components/SEOHead';
-import AffiliateBox from '../../../components/AffiliateBox';
 import CityExploreMore from '../../../components/CityExploreMore';
 import { getAffiliates, CityAffiliates } from '../../../lib/affiliates';
 
@@ -138,22 +137,12 @@ export default function DivingSnorkelingPage({ city, divingData, affiliates }: P
                       ))}
                     </div>
                   </div>
-                  <div className="flex flex-col items-end gap-2">
+                  <div className="text-right">
                     <div className="text-right">
                       <div className="text-sm text-gray-500">From</div>
                       <div className="text-2xl font-bold text-gray-900">{formatPrice(activity.priceFrom, loc)}</div>
                       <div className="text-xs text-gray-500">per person</div>
                     </div>
-                    {affiliates?.getyourguide && (
-                      <a
-                        href={affiliates.getyourguide}
-                        target="_blank"
-                        rel="noopener noreferrer sponsored"
-                        className="inline-flex items-center px-6 py-2 bg-thailand-blue text-white font-semibold rounded-xl hover:bg-thailand-blue-600 transition-colors text-sm"
-                      >
-                        Open activity search
-                      </a>
-                    )}
                   </div>
                 </div>
               </div>
@@ -225,10 +214,6 @@ export default function DivingSnorkelingPage({ city, divingData, affiliates }: P
               </h2>
               <p className="text-gray-700 leading-relaxed">{divingData.intro.en}</p>
             </div>
-
-            {affiliates && (
-              <AffiliateBox affiliates={affiliates} cityName={city.name.en} type="activities" />
-            )}
 
             {/* Activities by type */}
             {divingActivities.length > 0 && snorkelingActivities.length > 0 ? (

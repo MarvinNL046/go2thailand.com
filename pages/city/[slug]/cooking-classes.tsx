@@ -6,7 +6,6 @@ import { getCookingClassesByCity, getAllCookingClassCities } from '../../../lib/
 import { formatPrice } from '../../../lib/price';
 import Breadcrumbs from '../../../components/Breadcrumbs';
 import SEOHead from '../../../components/SEOHead';
-import AffiliateBox from '../../../components/AffiliateBox';
 import CityExploreMore from '../../../components/CityExploreMore';
 import { getAffiliates, CityAffiliates } from '../../../lib/affiliates';
 
@@ -197,10 +196,6 @@ export default function CookingClassesPage({ city, cookingData, affiliates }: Pr
               <p className="text-gray-700 leading-relaxed">{cookingData.intro.en}</p>
             </div>
 
-            {affiliates && (
-              <AffiliateBox affiliates={affiliates} cityName={city.name.en} type="activities" />
-            )}
-
             {/* Cooking Classes List */}
             <h2 className="text-3xl font-bold font-heading text-gray-900 mb-8">
               Top {cookingData.classes.length} Cooking Classes in {city.name.en}
@@ -235,22 +230,12 @@ export default function CookingClassesPage({ city, cookingData, affiliates }: Pr
                           ))}
                         </div>
                       </div>
-                      <div className="flex flex-col items-end gap-2">
+                      <div className="text-right">
                         <div className="text-right">
                           <div className="text-sm text-gray-500">From</div>
                           <div className="text-2xl font-bold text-gray-900">{formatPrice(cls.priceFrom, loc)}</div>
                           <div className="text-xs text-gray-500">per person</div>
                         </div>
-                        {affiliates?.getyourguide && (
-                          <a
-                            href={affiliates.getyourguide}
-                            target="_blank"
-                            rel="noopener noreferrer sponsored"
-                            className="inline-flex items-center px-6 py-2 bg-thailand-red text-white font-semibold rounded-xl hover:bg-thailand-red-600 transition-colors text-sm"
-                          >
-                            Open cooking class search
-                          </a>
-                        )}
                       </div>
                     </div>
                   </div>
