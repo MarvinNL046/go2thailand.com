@@ -179,8 +179,8 @@ fi
 
 - A route may move `in_progress -> done` only after this route-level procedure succeeds.
 - If a route is intentionally kept `noindex`, the rendered HTML must still return `200`, the leak scan must stay clean, and the tracker notes must record the decision before the route is marked `done`.
-- The visible-source gate is satisfied when the rendered HTML contains an explicit source signal; if a temporary visible-source exception has already been recorded in the city notes with the exact schema above, treat that gate as temporarily satisfied for the affected route only.
-- A temporary visible-source exception is allowed only when the route's shared template cannot yet render visible source presentation, the route still has source-backed content, and the shared template fix is being applied in the same pass. If used, record it in the city notes before the route is marked `done` as `visible_source_exception: temporary; routes: [route-a, route-b]; reason: [brief rationale]; review_date: YYYY-MM-DD`.
+- The visible-source gate is satisfied only when the rendered HTML contains an explicit source signal.
+- A temporary visible-source exception is allowed only when the route's shared template cannot yet render visible source presentation, the route still has source-backed content, and the shared template fix is being applied in the same pass. If used, record it in the city notes as `visible_source_exception: temporary; routes: [route-a, route-b]; reason: [brief rationale]; review_date: YYYY-MM-DD`, keep the affected route in `in_progress`, and clear the exception after the shared template fix lands and the route renders explicit source signals.
 
 ## Route Status Lifecycle
 
@@ -194,7 +194,7 @@ Apply these transitions exactly:
 
 - before any route work begins for the city selected by `execution.next_pending`, run the preflight rule above and correct `execution.next_pending` if it has drifted
 - when work begins on the city selected by `execution.next_pending`, set the first not-yet-done route in `route_order_within_city` to `in_progress`
-- move `in_progress` -> `done` only after the route-level validation procedure above succeeds, including any required indexing decision or temporary visible-source exception recorded in the tracker notes
+- move `in_progress` -> `done` only after the route-level validation procedure above succeeds, including any required indexing decision and an explicit rendered visible-source signal when that gate applies
 - a route that is intentionally kept `noindex` still must render `200` and pass the same technical and content validation; `noindex` changes indexing treatment only, not route health
 - if the route-level validation for any route fails after it was marked `done`, move that route back to `in_progress` immediately
 
@@ -210,7 +210,7 @@ Apply the city-status correction rules exactly:
 - if the stored city status disagrees with the derived city status, correct the stored value to match the derived value before continuing
 - if `execution.next_pending` has drifted away from the first city whose status is not `done`, correct it before starting the next pass
 - if all 9 routes are `done` but the final full-cluster validation pass has not yet succeeded, set the city to `validation_pending`, not `done`
-- when the final full-cluster validation pass succeeds, set the city to `done` and advance `execution.next_pending` to the first city whose status is not `done`
+- when the final full-cluster validation pass succeeds, set the city to `done` and advance `execution.next_pending` to the first city whose status is not `done`, or set it to `null` if no such city remains
 - if the final full-cluster validation fails for any route, keep execution on the same city, move that route back to `in_progress`, and do not advance `execution.next_pending` until the city validates cleanly
 - do not leave the city in `pending` once any route is `in_progress` or `done`
 
@@ -275,7 +275,7 @@ for route in food hotels attractions best-time-to-visit budget cooking-classes m
 done
 ```
 
-Treat any `missing visible source signal:` output as a failed gate for that route unless the template for that route does not support visible source presentation yet and that limitation is the shared issue currently being fixed in the same pass. Do not mark that route `done` while the shared template limitation remains unresolved.
+Treat any `missing visible source signal:` output as a failed gate for that route. If the template for that route does not support visible source presentation yet and that limitation is the shared issue currently being fixed in the same pass, record a temporary visible-source exception in the tracker notes, keep the route `in_progress`, and do not mark it `done` until the shared template fix lands and the visible-source check passes.
 
 If a route is intentionally kept `noindex`, confirm and document it before the city can be marked done:
 
@@ -284,11 +284,11 @@ If a route is intentionally kept `noindex`, confirm and document it before the c
 - Keep the route in the same pass only if it also passes the same leak scan, visible-source checks, and content-quality validation as an indexable route; `noindex` does not relax any route-quality gate.
 - If the tracker note and rendered HTML do not match, treat the route as undecided and do not mark the city done.
 
-If a temporary visible-source exception is used, confirm and document it before the route can be marked done:
+If a temporary visible-source exception is used, confirm and document it while the route remains blocked:
 
 - Use the exception only for a route whose shared template cannot yet surface visible source presentation, whose route content is still source-backed, and whose shared template fix is being applied in the same pass.
 - Write the decision in the city support tracker notes as `visible_source_exception: temporary; routes: [route-a, route-b]; reason: [brief rationale]; review_date: YYYY-MM-DD`. Do not record the exception for routes whose template already supports visible source presentation.
-- Keep the route in the same pass only if it still passes the route-level validation procedure above and the exception is temporary, scoped, and review-dated.
+- Keep the route in `in_progress` until the shared template fix lands, the exception note is removed or replaced with a resolved note, and the rendered visible-source check passes cleanly.
 
 Mark a city `done` only if all of these are true:
 

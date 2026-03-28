@@ -20,15 +20,15 @@
     "rendered English HTML for each route in scope contains no affiliate-first template leakage that outweighs editorial value",
     "materially unstable claims across the support cluster are web-fact-checked",
     "visible source-backed trust signals are present on routes whose templates support them, confirmed by the workflow validation pattern",
-    "temporary visible-source exceptions, when used, are recorded in city notes as `visible_source_exception: temporary; routes: [route-a, route-b]; reason: [brief rationale]; review_date: YYYY-MM-DD` before any affected route is marked done",
+    "temporary visible-source exceptions, when used, are recorded in city notes as `visible_source_exception: temporary; routes: [route-a, route-b]; reason: [brief rationale]; review_date: YYYY-MM-DD` while the affected route remains in_progress; the route cannot be marked done until the exception is resolved and visible sources render explicitly",
     "internal links kept or added across the support cluster point only to strong destination pages"
   ],
   "execution": {
     "mode": "sequential",
     "source_of_truth": "cities array order",
-    "start_rule": "Start with execution.next_pending and continue top-to-bottom in listed city order.",
-    "selection_rule": "Work top-to-bottom in listed city order. Keep next_pending set to the first city whose status is not done, and recompute/correct it before a new pass begins if it has drifted.",
-    "preflight_rule": "Before any new pass begins, recompute execution.next_pending from the first city whose status is not done; if the stored value differs, correct it before any route work, validation, or status change starts.",
+    "start_rule": "Start with execution.next_pending and continue top-to-bottom in listed city order. If every city status is done, execution.next_pending must be null.",
+    "selection_rule": "Work top-to-bottom in listed city order. Keep next_pending set to the first city whose status is not done, and recompute/correct it before a new pass begins if it has drifted. When no city remains outside done, set next_pending to null.",
+    "preflight_rule": "Before any new pass begins, recompute execution.next_pending from the first city whose status is not done; if the stored value differs, correct it before any route work, validation, or status change starts. If no city qualifies, store execution.next_pending as null.",
     "next_pending": "ayutthaya",
     "route_order_within_city": [
       "food",
@@ -44,9 +44,9 @@
     "route_selection_rule": "Within an in-progress city, work top-to-bottom in route_order_within_city. The next route is the first route in that list whose status is not done.",
     "route_transition_rules": [
       "pending -> in_progress: set when the route becomes the active route for the city selected by execution.next_pending and editing, source gathering, or validation begins; if execution.next_pending has drifted, repair it first from the first city whose status is not done",
-      "in_progress -> done: set only after that route clears the route-level validation procedure for status code, leak checks, visible source-backed trust-signal checks when supported or temporarily excepted and recorded, and any indexing-note requirements",
+      "in_progress -> done: set only after that route clears the route-level validation procedure for status code, leak checks, visible source-backed trust-signal checks in rendered HTML, and any indexing-note requirements",
       "done -> in_progress: set immediately if route-level validation later fails during the final full-cluster pass",
-      "when the final full-cluster validation pass succeeds for a city, set the city to done and advance execution.next_pending to the first city whose status is not done",
+      "when the final full-cluster validation pass succeeds for a city, set the city to done and advance execution.next_pending to the first city whose status is not done, or null if no such city remains",
       "route-status changes must trigger a city-status recomputation from the derived rollup rules; if the stored city status disagrees with the derived city status, correct it before continuing"
     ]
   },
@@ -69,11 +69,11 @@
       "city status done: all 9 route statuses are done and the final full-cluster validation pass has succeeded",
       "partial progress is allowed only as city status in_progress; a city must not be marked done while any route status is pending or in_progress",
       "all 9 route statuses may be done only provisionally while city status is validation_pending until the final full-cluster validation pass succeeds",
-      "before starting a new pass, recompute execution.next_pending from the first city whose status is not done and correct the stored value if it has drifted",
+      "before starting a new pass, recompute execution.next_pending from the first city whose status is not done and correct the stored value if it has drifted; if every city status is done, execution.next_pending must be null",
       "if the final full-cluster validation pass fails for any route, the failing route status returns to in_progress and the city status is recomputed to in_progress",
       "after any route-status change, recompute the stored city status from the rollup rules and correct stale stored values immediately",
       "if the stored city status does not match the derived city status, the derived city status is authoritative",
-      "a temporary visible-source exception is allowed only when the route's shared template cannot yet surface visible source presentation, the route still has source-backed content, and the shared template fix is being applied in the same pass; the exception must be recorded in city notes before any affected route is marked done"
+      "a temporary visible-source exception is allowed only when the route's shared template cannot yet surface visible source presentation, the route still has source-backed content, and the shared template fix is being applied in the same pass; the exception records a temporary blocker, keeps the affected route in_progress, and must be removed or resolved before that route can be marked done"
     ]
   },
   "cities": [
