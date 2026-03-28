@@ -376,5 +376,50 @@
       }
     ],
     "vegetarian_friendly": false
+  },
+  "lampang": {
+    "specialties": [
+      "Khao soi",
+      "Khanom jeen nam ngiao",
+      "Sai ua",
+      "Gaeng hung lay",
+      "Northern Thai sweets",
+      "Grilled pork and sticky rice"
+    ],
+    "markets": [
+      {
+        "name": "Kad Kong Ta Walking Street",
+        "location": "Talat Gao Road and the Wang River old quarter",
+        "hours": "Weekend evenings",
+        "specialty": "Northern Thai snacks, grilled meats, khao soi, and market browsing"
+      },
+      {
+        "name": "Lampang old-town food stalls",
+        "location": "Around the Wang River and central old quarter",
+        "hours": "Late afternoon into evening",
+        "specialty": "Casual dinner stalls and local sweets"
+      },
+      {
+        "name": "Lampang River Lodge dining zone",
+        "location": "Riverside side of town",
+        "hours": "Dinner and daytime cafe hours",
+        "specialty": "Hotel-ground Thai dishes and lighter meals"
+      }
+    ],
+    "street_food_areas": [
+      {
+        "name": "Kad Kong Ta and the Wang River quarter",
+        "description": "Best for a weekend evening with lantern-lit streets, snacks, and a slower old-town atmosphere."
+      },
+      {
+        "name": "Talat Kao and central Lampang",
+        "description": "Useful for straightforward local meals and easy city-center bites between temple stops."
+      },
+      {
+        "name": "Riverside Lampang",
+        "description": "Good when you want dinner near the river or a meal that fits a resort-style base."
+      }
+    ],
+    "vegetarian_friendly": true
   }
 }

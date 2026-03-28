@@ -388,7 +388,7 @@ export default function CityAttractionsPage({ city, attractions }: CityAttractio
                     <div className="border-0 bg-surface-cream rounded-2xl p-6 text-center">
                       <h4 className="text-lg font-bold text-gray-900 mb-2">City overview</h4>
                       <p className="text-gray-600 text-sm mb-4">
-                        Rebuild your Bangkok route from the strongest district-level context.
+                        Rebuild your {city.name.en} route from the strongest district-level context.
                       </p>
                       <Link href={`/city/${city.slug}/`} className="inline-flex items-center justify-center w-full px-6 py-3 bg-thailand-red text-white font-semibold rounded-xl hover:bg-thailand-red-600 transition-colors">
                         See City Overview

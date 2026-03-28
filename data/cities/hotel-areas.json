@@ -351,5 +351,76 @@
       "Consider going directly to islands instead"
     ],
     "peak_season": "December to March"
+  },
+  "lampang": {
+    "areas": [
+      {
+        "name": "Central Lampang",
+        "best_for": [
+          "first-timers",
+          "walkability",
+          "food",
+          "temples"
+        ],
+        "description": "Best if you want easy access to Kad Kong Ta, the railway-station side, and the main city sights without extra transport.",
+        "price_range": "budget/mid-range",
+        "pros": [
+          "Easy evening walking",
+          "Good access to old-town food",
+          "Simple temple-hopping base",
+          "Useful for one-night stops"
+        ],
+        "cons": [
+          "Less resort atmosphere",
+          "Not the quietest part of town",
+          "Requires transport for outer-city days"
+        ]
+      },
+      {
+        "name": "Riverside / Chomphu",
+        "best_for": [
+          "riverside stays",
+          "couples",
+          "slower stays"
+        ],
+        "description": "A better match when you want a slower heritage-style base with more atmosphere and room to spread out.",
+        "price_range": "mid-range/luxury",
+        "pros": [
+          "Strong hotel-setting feel",
+          "Good for longer dinners and downtime",
+          "Pairs well with Lampang River Lodge-style stays"
+        ],
+        "cons": [
+          "Less convenient for quick city walking",
+          "Needs more planning if you want every meal in town"
+        ]
+      },
+      {
+        "name": "Outskirts / Ton Thong Chai",
+        "best_for": [
+          "drivers",
+          "resort stays",
+          "space"
+        ],
+        "description": "Useful if the hotel itself is part of the trip and you are comfortable using transport for the city core.",
+        "price_range": "mid-range",
+        "pros": [
+          "More space",
+          "Works for resort-style bases",
+          "Good for car-based itineraries"
+        ],
+        "cons": [
+          "Not ideal for walkable evenings",
+          "Less convenient without a car or driver"
+        ]
+      }
+    ],
+    "booking_tips": [
+      "Choose Central Lampang if you care most about Kad Kong Ta and easy evening food.",
+      "Choose a riverside or resort-style base only if the hotel setting itself matters to the trip.",
+      "If you plan one outer-city day, make sure the hotel location keeps your transfer day simple.",
+      "Book earlier for the cool season, when slower city stays are most comfortable."
+    ],
+    "peak_season": "November to February"
   }
 }
