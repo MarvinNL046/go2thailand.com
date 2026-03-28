@@ -67,9 +67,6 @@ interface Props {
   affiliates: CityAffiliates | null;
 }
 
-const GYG_AFFILIATE = 'https://getyourguide.tpo.lv/6HngJ5FC';
-const KLOOK_AFFILIATE = 'https://klook.tpo.lv/7Dt6WApj';
-
 function StarRating({ rating }: { rating: number }) {
   const fullStars = Math.floor(rating);
   const hasHalf = rating % 1 >= 0.5;
@@ -256,14 +253,16 @@ export default function MuayThaiPage({ city, muayThaiData, affiliates }: Props) 
                               <div className="text-2xl font-bold text-gray-900">{formatPrice(cls.priceFrom, loc)}</div>
                               <div className="text-xs text-gray-500">per person</div>
                             </div>
-                            <a
-                              href={GYG_AFFILIATE}
-                              target="_blank"
-                              rel="noopener noreferrer sponsored"
-                              className="inline-flex items-center px-6 py-2 bg-thailand-red text-white font-semibold rounded-xl hover:bg-thailand-red-600 transition-colors text-sm"
-                            >
-                              View on GetYourGuide
-                            </a>
+                            {affiliates?.getyourguide && (
+                              <a
+                                href={affiliates.getyourguide}
+                                target="_blank"
+                                rel="noopener noreferrer sponsored"
+                                className="inline-flex items-center px-6 py-2 bg-thailand-red text-white font-semibold rounded-xl hover:bg-thailand-red-600 transition-colors text-sm"
+                              >
+                                View on GetYourGuide
+                              </a>
+                            )}
                           </div>
                         </div>
                       </div>
@@ -324,14 +323,16 @@ export default function MuayThaiPage({ city, muayThaiData, affiliates }: Props) 
                               <div className="text-2xl font-bold text-gray-900">{formatPrice(cls.priceFrom, loc)}</div>
                               <div className="text-xs text-gray-500">per person</div>
                             </div>
-                            <a
-                              href={GYG_AFFILIATE}
-                              target="_blank"
-                              rel="noopener noreferrer sponsored"
-                              className="inline-flex items-center px-6 py-2 bg-thailand-blue text-white font-semibold rounded-xl hover:bg-thailand-blue-600 transition-colors text-sm"
-                            >
-                              View on GetYourGuide
-                            </a>
+                            {affiliates?.getyourguide && (
+                              <a
+                                href={affiliates.getyourguide}
+                                target="_blank"
+                                rel="noopener noreferrer sponsored"
+                                className="inline-flex items-center px-6 py-2 bg-thailand-blue text-white font-semibold rounded-xl hover:bg-thailand-blue-600 transition-colors text-sm"
+                              >
+                                View on GetYourGuide
+                              </a>
+                            )}
                           </div>
                         </div>
                       </div>
@@ -389,14 +390,16 @@ export default function MuayThaiPage({ city, muayThaiData, affiliates }: Props) 
                               <div className="text-2xl font-bold text-gray-900">{formatPrice(cls.priceFrom, loc)}</div>
                               <div className="text-xs text-gray-500">per person</div>
                             </div>
-                            <a
-                              href={GYG_AFFILIATE}
-                              target="_blank"
-                              rel="noopener noreferrer sponsored"
-                              className="inline-flex items-center px-6 py-2 bg-thailand-red text-white font-semibold rounded-xl hover:bg-thailand-red-600 transition-colors text-sm"
-                            >
-                              View on GetYourGuide
-                            </a>
+                            {affiliates?.getyourguide && (
+                              <a
+                                href={affiliates.getyourguide}
+                                target="_blank"
+                                rel="noopener noreferrer sponsored"
+                                className="inline-flex items-center px-6 py-2 bg-thailand-red text-white font-semibold rounded-xl hover:bg-thailand-red-600 transition-colors text-sm"
+                              >
+                                View on GetYourGuide
+                              </a>
+                            )}
                           </div>
                         </div>
                       </div>
@@ -413,7 +416,7 @@ export default function MuayThaiPage({ city, muayThaiData, affiliates }: Props) 
                   Top Training Gyms in {city.name.en}
                 </h2>
                 <p className="text-gray-600 mb-6">
-                  Looking for a serious training camp? These gyms in {city.name.en} have been independently reviewed and scored on facilities, cleanliness, class structure, and coaching quality (max 20 points).
+                  Looking for a serious training camp? These gyms in {city.name.en} are summarized with facility, cleanliness, class structure, and coaching scores from our current city dataset (max 20 points).
                 </p>
                 <div className="space-y-6 mb-12">
                   {muayThaiData.trainingGyms.map((gym, index) => (

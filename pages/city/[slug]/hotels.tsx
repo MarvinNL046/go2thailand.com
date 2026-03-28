@@ -159,8 +159,8 @@ export default function CityHotelsPage({ city, hotelData, hasTop10Hotels, enhanc
               <div className="space-y-12">
                 {/* Search & Book Hotels Widget - Moved to top */}
                 <div className="bg-surface-cream rounded-2xl p-8 text-center">
-                  <h3 className="text-xl font-bold font-heading text-gray-900 mb-4">Search & Book Hotels in {city.name.en}</h3>
-                  <p className="text-gray-600 mb-6">Compare prices and find the best deals on Trip.com</p>
+                  <h3 className="text-xl font-bold font-heading text-gray-900 mb-4">Compare Hotel Bases in {city.name.en}</h3>
+                  <p className="text-gray-600 mb-6">Use the search widget to compare hotel options while you review the area guidance below.</p>
                   <TripcomWidget city={city.name.en} type="hotels" />
                 </div>
 
@@ -250,9 +250,9 @@ export default function CityHotelsPage({ city, hotelData, hasTop10Hotels, enhanc
                             {catHotels.map((hotel, idx) => (
                               <a
                                 key={idx}
-                                href="https://trip.tpo.lv/TmObooZ5"
-                                target="_blank"
-                                rel="noopener noreferrer sponsored"
+                                href={affiliates?.booking || `/city/${city.slug}/`}
+                                target={affiliates ? '_blank' : undefined}
+                                rel={affiliates ? 'noopener noreferrer sponsored' : undefined}
                                 className="bg-white rounded-2xl shadow-md hover:shadow-xl hover:-translate-y-1 transition-all duration-300 p-6 block"
                               >
                                 <div className="flex items-start justify-between mb-3">
@@ -276,7 +276,7 @@ export default function CityHotelsPage({ city, hotelData, hasTop10Hotels, enhanc
                                 </div>
                                 <p className="text-gray-600 text-sm">{hotel.description}</p>
                                 <div className="mt-4 text-thailand-blue text-sm font-medium flex items-center">
-                                  Check availability
+                                  Compare availability
                                   <svg className="w-4 h-4 ml-1" fill="none" stroke="currentColor" viewBox="0 0 24 24">
                                     <path strokeLinecap="round" strokeLinejoin="round" strokeWidth="2" d="M9 5l7 7-7 7" />
                                   </svg>
@@ -350,28 +350,22 @@ export default function CityHotelsPage({ city, hotelData, hasTop10Hotels, enhanc
             {/* Book Your Hotel - Affiliate Section */}
             <div className="bg-white rounded-2xl shadow-md p-8 mb-8">
               <h3 className="text-2xl font-bold font-heading text-gray-900 mb-4 text-center">
-                Book Your Hotel in {city.name.en}
+                Compare Hotel Booking Options in {city.name.en}
               </h3>
               <p className="text-gray-600 text-center mb-6">
-                Compare prices across top booking platforms and find the best deal for your stay.
+                Use the booking tools on this page to compare hotel options after narrowing down the right area.
               </p>
               <div className="flex flex-col sm:flex-row gap-4 justify-center">
-                <a
-                  href="https://trip.tpo.lv/TmObooZ5"
-                  target="_blank"
-                  rel="noopener noreferrer sponsored"
-                  className="inline-flex items-center justify-center px-8 py-3 bg-thailand-blue text-white font-semibold rounded-xl hover:bg-thailand-blue-600 transition-colors"
-                >
-                  Search on Trip.com
-                </a>
-                <a
-                  href="https://booking.tpo.lv/2PT1kR82"
-                  target="_blank"
-                  rel="noopener noreferrer sponsored"
-                  className="inline-flex items-center justify-center px-8 py-3 bg-thailand-blue text-white font-semibold rounded-xl hover:bg-thailand-blue-600 transition-colors"
-                >
-                  Search on Booking.com
-                </a>
+                {affiliates && (
+                  <a
+                    href={affiliates.booking}
+                    target="_blank"
+                    rel="noopener noreferrer sponsored"
+                    className="inline-flex items-center justify-center px-8 py-3 bg-thailand-blue text-white font-semibold rounded-xl hover:bg-thailand-blue-600 transition-colors"
+                  >
+                    Search on Booking.com
+                  </a>
+                )}
               </div>
               <p className="text-xs text-gray-400 text-center mt-4">
                 We may earn a commission when you book through our links, at no extra cost to you. This helps us keep the site running.
