@@ -781,6 +781,13 @@
       "description": "Used for official destination framing, town profile, and practical Hua Hin context."
     },
     {
+      "type": "official climate",
+      "title": "Climate Chart",
+      "creator": "Thai Meteorological Department",
+      "url": "https://www.tmd.go.th/en/ClimateChart",
+      "description": "Used for seasonality framing and Hua Hin's cool / hot / wet season planning."
+    },
+    {
       "type": "tourism-office",
       "title": "Hua Hin: A Jewel by the Sea",
       "creator": "Amazing Thailand",
@@ -873,6 +880,8 @@
     }
   ],
   "reviewed_by": "Go2Thailand Editorial Team",
+  "reviewed_at": "2026-03-28T00:00:00.000Z",
+  "sourceSummary": "Anchored to TAT, Amazing Thailand, official venue and hotel pages, and TMD climate material; narrow activity routes stay noindex as limited-fit planning layers.",
   "enhanced_at": "2026-03-26T00:00:00.000Z",
-  "factchecked_at": "2026-03-26T00:00:00.000Z"
+  "factchecked_at": "2026-03-28T00:00:00.000Z"
 }

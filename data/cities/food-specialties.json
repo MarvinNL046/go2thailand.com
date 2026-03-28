@@ -58,6 +58,51 @@
     ],
     "vegetarian_friendly": true
   },
+  "hua-hin": {
+    "specialties": [
+      "Fresh Gulf seafood",
+      "Grilled fish and seafood barbecue",
+      "Night-market snacks",
+      "Breakfast market dishes",
+      "Weekend market food",
+      "Resort dining"
+    ],
+    "markets": [
+      {
+        "name": "Hua Hin Night Market",
+        "location": "Old town / Dechanuchit Road",
+        "hours": "Evenings after dark",
+        "specialty": "Seafood, snacks, and easy first-night dinner"
+      },
+      {
+        "name": "Chat Chai Market",
+        "location": "Central Hua Hin",
+        "hours": "Early morning to midday",
+        "specialty": "Breakfast food, fruit, and daily-use local stalls"
+      },
+      {
+        "name": "Cicada Market",
+        "location": "South Hua Hin / Nong Kae",
+        "hours": "Weekend evenings",
+        "specialty": "Curated market food and a slower weekend dinner"
+      }
+    ],
+    "street_food_areas": [
+      {
+        "name": "Old town and the night-market streets",
+        "description": "Best for seafood tables, casual snacks, and the easiest first-night food walk in Hua Hin."
+      },
+      {
+        "name": "Chat Chai and the morning market zone",
+        "description": "Strong for breakfast food, fruit, and a more local daily rhythm before the beach opens up."
+      },
+      {
+        "name": "Nong Kae / Cicada market area",
+        "description": "Works well for weekend evening grazing when you want market atmosphere and an easier south-side dinner plan."
+      }
+    ],
+    "vegetarian_friendly": true
+  },
   "chiang-mai": {
     "specialties": [
       "Khao Soi",

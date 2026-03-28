@@ -58,6 +58,41 @@
     ],
     "peak_season": "November to February"
   },
+  "hua-hin": {
+    "areas": [
+      {
+        "name": "Town Center / Railway Station",
+        "best_for": ["first-timers", "walkability", "markets"],
+        "description": "Best for travelers who want the beach, the older center, and the night market within easy reach without relying on transport for every move.",
+        "price_range": "budget/mid-range",
+        "pros": ["Easy access to the night market", "Good for short stays", "Simple beach-town logistics", "Strong older-town atmosphere"],
+        "cons": ["Can feel busy on weekends", "Fewer large resort-style facilities", "Less secluded than the south side"]
+      },
+      {
+        "name": "South Hua Hin / Nong Kae",
+        "best_for": ["beach time", "couples", "weekend market evenings"],
+        "description": "The resort-led side of town around Khao Takiab and Cicada, where beach time and evening markets work well together.",
+        "price_range": "mid-range/luxury",
+        "pros": ["Good resort concentration", "Closer to Cicada and Khao Takiab", "Quieter beach rhythm", "Works well for longer stays"],
+        "cons": ["Needs more local transport", "Less walkable to the older center", "Weekend demand can push prices up"]
+      },
+      {
+        "name": "North Hua Hin / Cha-am side",
+        "best_for": ["resort stays", "drivers", "slower breaks"],
+        "description": "A better fit if you want larger resort compounds and do not mind riding into town for food and sightseeing.",
+        "price_range": "mid-range/luxury",
+        "pros": ["More retreat-style hotels", "Good for families who want space", "Useful for longer beach stays", "Usually quieter than central Hua Hin"],
+        "cons": ["Farther from the night market", "Less walkable for most first-timer plans", "Transport becomes more important"]
+      }
+    ],
+    "booking_tips": [
+      "Book earlier if your dates overlap with Thai long weekends or peak dry-season demand.",
+      "Choose the town center if you want easy market access and a more walkable first trip.",
+      "Choose the south side if Khao Takiab, Cicada, and a quieter beach rhythm matter most.",
+      "Choose the north side only if you are comfortable riding into town for meals and sightseeing."
+    ],
+    "peak_season": "November to February"
+  },
   "chiang-mai": {
     "areas": [
       {
