@@ -10,7 +10,7 @@ image: "/images/blog/thailand-news-default.webp"
 description: "Cape Fahn Hotel sits on its own private island just off Koh Samui's northeast coast — 22 pool villas, a Michelin-starred chef, and the option to book the entire island for yourself."
 featured: false
 readingTime: 3
-lastUpdated: "2026-03-23"
+lastUpdated: "2026-03-29"
 sources:
   - name: "Cape Fahn Hotel — Private Islands Samui"
     url: "https://www.capefahnhotel.com/private-islands-samui/"
@@ -24,7 +24,7 @@ sources:
 
 ## Your Own Island in the Gulf of Thailand
 
-Most travellers dream about having a private island. At **Cape Fahn Hotel**, that dream is surprisingly accessible. The five-star boutique property occupies the entirety of **Koh Fahn**, a 2.5-hectare (6-acre) island just off the northeast coast of Koh Samui, near Choeng Mon beach.
+Most travellers dream about having a private island. At **Cape Fahn Hotel**, that dream is surprisingly accessible. The five-star boutique property occupies the entirety of **Koh Fahn**, a 2.5-hectare (6-acre) island just off the northeast coast of [Koh Samui](/islands/koh-samui/), near Choeng Mon beach.
 
 With only 22 one- and two-bedroom pool villas spread across the island, the resort feels genuinely secluded even when fully booked. And for those who want the ultimate in privacy, Cape Fahn offers the option to reserve the **entire island** — all 22 villas accommodating up to 48 guests — starting from THB 620,000++.
 
@@ -32,20 +32,20 @@ With only 22 one- and two-bedroom pool villas spread across the island, the reso
 
 Every villa comes with its own large plunge pool and private sun deck, positioned to maximise views over the Gulf of Thailand. The architecture blends contemporary design with natural materials, and the dense tropical vegetation between villas means you rarely see other guests.
 
-The dining highlight is **Long Dtai Restaurant**, where Michelin-starred chef **David Thompson** oversees a menu of authentic Southern Thai cuisine. Thompson is widely credited with putting Thai fine dining on the global map, and the dishes here — rich, aromatic, and unapologetically spicy — reflect the bold flavours of Thailand's southern provinces.
+The dining highlight is **Long Dtai Restaurant**, where Michelin-starred chef **David Thompson** oversees a menu of authentic Southern Thai cuisine. Thompson is widely credited with putting [Thai fine dining](/blog/thailand-michelin-guide-2026-new-stars-suhring/) on the global map, and the dishes here — rich, aromatic, and unapologetically spicy — reflect the [bold flavours of Thailand's southern provinces](/blog/thai-curry-guide-green-red-yellow-massaman-panang/).
 
-Beyond dining, the island offers a private beach with kayaking and snorkelling, a hilltop spa, and a main swimming pool with panoramic sea views. At low tide, you can walk across the narrow strait to Choeng Mon beach on Koh Samui's main island — no boat required.
+Beyond dining, the island offers a private beach with [kayaking and snorkelling](/best-diving-snorkeling-in-thailand/), a hilltop [spa](/blog/best-wellness-retreats-thailand-2026/), and a main swimming pool with panoramic sea views. At low tide, you can walk across the narrow strait to Choeng Mon beach on [Koh Samui's](/city/koh-samui/) main island — no boat required.
 
 ## How to Get There
 
-Fly into **Koh Samui Airport (USM)** from Bangkok, Singapore, or Kuala Lumpur. The hotel arranges private car transfers from the airport to the pier at Choeng Mon (roughly 15 minutes), followed by a short speedboat ride to Koh Fahn. The whole journey from landing to lounging by your villa pool takes around 30 minutes.
+Fly into **[Koh Samui Airport (USM)](/blog/koh-samui-airport-international-hub-bangkok-airways-2026/)** from [Bangkok](/city/bangkok/), Singapore, or Kuala Lumpur. The hotel arranges private car transfers from the airport to the pier at Choeng Mon (roughly 15 minutes), followed by a short speedboat ride to Koh Fahn. The whole journey from landing to lounging by your villa pool takes around 30 minutes.
 
 ## 2026 Deals Worth Knowing About
 
-Cape Fahn currently offers its **"Fahn Signature"** package, starting from **THB 49,842 net** for a four-day, three-night stay. The promotion covers selected travel dates between September and December 2026, making it a strong option for visitors who are flexible on timing.
+Cape Fahn currently offers its **"Fahn Signature"** package, starting from **THB 49,842 net** for a four-day, three-night stay. The promotion covers selected travel dates between September and December 2026, making it a strong option for visitors who are flexible on [timing](/blog/best-time-to-visit-thailand/).
 
 Note that the resort has scheduled renovations on its beachfront wooden deck from 4 May to 4 June 2026, and the main swimming pool will be temporarily closed from 4 to 18 May 2026. If you are planning a visit during that period, contact the hotel in advance to confirm which facilities are available.
 
 ## Is It Worth the Price?
 
-Private island resorts in destinations like the Maldives routinely charge USD 1,000 or more per night. Cape Fahn delivers a comparable level of exclusivity and service in Thailand at a lower price point, with the added advantage of being minutes away from Koh Samui's restaurants, night markets, and beaches. For couples, honeymooners, or small groups seeking genuine seclusion without giving up convenience, it is one of the best options in the Gulf of Thailand.
+Private island resorts in destinations like the Maldives routinely charge USD 1,000 or more per night. Cape Fahn delivers a comparable level of exclusivity and service in [Thailand](/destinations/koh-samui/) at a lower price point, with the added advantage of being minutes away from Koh Samui's restaurants, [night markets](/blog/best-night-markets-bangkok-2026/), and [beaches](/best-beaches-in-thailand/). For couples, [honeymooners](/blog/thailand-honeymoon-guide-romantic-destinations/), or small groups seeking genuine seclusion without giving up convenience, it is one of the best options in the Gulf of Thailand. Those looking to combine the stay with more island exploration might also consider a quick hop to [Koh Phangan](/islands/koh-phangan/) or unwinding with a [yoga retreat](/blog/yoga-retreats-koh-samui-koh-phangan-2026-guide/) nearby. For full trip planning, see our [Bangkok to Koh Samui guide](/blog/bangkok-to-koh-samui-guide/) and our overview of [best hotels in Koh Samui](/best-hotels/koh-samui/). If you are starting your Thailand trip in [Bangkok](/city/bangkok/), consider pairing your itinerary with a visit to the new [Cave Fantasy immersive art museum at MBK Center](/blog/cave-fantasy-mbk-center-bangkok-immersive-art-2026/) before heading south to Koh Samui.
