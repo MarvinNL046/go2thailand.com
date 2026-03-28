@@ -1,0 +1,207 @@
+{
+  "updated_at": "2026-03-28T00:00:00Z",
+  "project": "go2thailand evergreen hub upgrade tracker",
+  "goal": "Upgrade related hub and index pages into non-thin, editorial-led navigation layers.",
+  "scope": [
+    "/activities/",
+    "/islands/",
+    "/islands/[slug]/",
+    "/practical-info/",
+    "/practical-info/[slug]/",
+    "/blog/",
+    "/blog/[slug]/",
+    "/blog/category/[category]/",
+    "/blog/tag/[tag]/",
+    "/itineraries/",
+    "/itineraries/[slug]/"
+  ],
+  "done_definition": [
+    "each route in scope returns HTTP 200 and renders without stale affiliate, review, or scrape-era leakage",
+    "materially unstable claims are web-fact-checked before the route is marked done",
+    "visible source links or source signals are present in rendered HTML when the template supports them",
+    "internal links point to strong supporting pages and do not spray weak destinations",
+    "an explicit indexing_decision is recorded for every route",
+    "jq empty and npx tsc --noEmit are run before any route is marked done"
+  ],
+  "execution": {
+    "mode": "sequential",
+    "paired_track_model": "paired-track",
+    "cluster_order": [
+      "beaches-islands",
+      "temples-practical-info",
+      "street-food-blog",
+      "activities-support",
+      "blog-itineraries"
+    ],
+    "item_order": [
+      "/islands/",
+      "/islands/[slug]/",
+      "/practical-info/",
+      "/practical-info/[slug]/",
+      "/blog/",
+      "/blog/[slug]/",
+      "/blog/category/[category]/",
+      "/blog/tag/[tag]/",
+      "/activities/",
+      "/itineraries/",
+      "/itineraries/[slug]/"
+    ],
+    "next_pending": "/islands/",
+    "selection_rule": "Work top-to-bottom in item_order. The next pending route is the first route whose status is not done.",
+    "validation_rule": "Do not mark a route done until the route-level validation checks pass and its indexing_decision is written."
+  },
+  "validation": {
+    "state": "not_started",
+    "last_run_at": null
+  },
+  "routes": [
+    {
+      "route": "/activities/",
+      "cluster": "activities-support",
+      "paired_with": [
+        "/best-cooking-classes-in-thailand/",
+        "/best-muay-thai-in-thailand/",
+        "/best-elephant-sanctuaries-in-thailand/",
+        "/best-diving-snorkeling-in-thailand/"
+      ],
+      "status": "pending",
+      "needs_rewrite": true,
+      "sources_verified": false,
+      "render_validated": false,
+      "indexing_decision": "review",
+      "notes": ""
+    },
+    {
+      "route": "/islands/",
+      "cluster": "beaches-islands",
+      "paired_with": [
+        "/best-beaches-in-thailand/",
+        "/thailand-islands/"
+      ],
+      "status": "pending",
+      "needs_rewrite": true,
+      "sources_verified": false,
+      "render_validated": false,
+      "indexing_decision": "index",
+      "notes": ""
+    },
+    {
+      "route": "/islands/[slug]/",
+      "cluster": "beaches-islands",
+      "paired_with": [
+        "/best-beaches-in-thailand/",
+        "/thailand-islands/"
+      ],
+      "status": "pending",
+      "needs_rewrite": true,
+      "sources_verified": false,
+      "render_validated": false,
+      "indexing_decision": "review",
+      "notes": ""
+    },
+    {
+      "route": "/practical-info/",
+      "cluster": "temples-practical-info",
+      "paired_with": [
+        "/thailand-temples/"
+      ],
+      "status": "pending",
+      "needs_rewrite": true,
+      "sources_verified": false,
+      "render_validated": false,
+      "indexing_decision": "review",
+      "notes": ""
+    },
+    {
+      "route": "/practical-info/[slug]/",
+      "cluster": "temples-practical-info",
+      "paired_with": [
+        "/thailand-temples/"
+      ],
+      "status": "pending",
+      "needs_rewrite": true,
+      "sources_verified": false,
+      "render_validated": false,
+      "indexing_decision": "review",
+      "notes": ""
+    },
+    {
+      "route": "/blog/",
+      "cluster": "street-food-blog",
+      "paired_with": [
+        "/thailand-street-food/"
+      ],
+      "status": "pending",
+      "needs_rewrite": true,
+      "sources_verified": false,
+      "render_validated": false,
+      "indexing_decision": "index",
+      "notes": ""
+    },
+    {
+      "route": "/blog/[slug]/",
+      "cluster": "street-food-blog",
+      "paired_with": [
+        "/thailand-street-food/"
+      ],
+      "status": "pending",
+      "needs_rewrite": true,
+      "sources_verified": false,
+      "render_validated": false,
+      "indexing_decision": "index",
+      "notes": ""
+    },
+    {
+      "route": "/blog/category/[category]/",
+      "cluster": "street-food-blog",
+      "paired_with": [
+        "/thailand-street-food/"
+      ],
+      "status": "pending",
+      "needs_rewrite": true,
+      "sources_verified": false,
+      "render_validated": false,
+      "indexing_decision": "noindex",
+      "notes": ""
+    },
+    {
+      "route": "/blog/tag/[tag]/",
+      "cluster": "street-food-blog",
+      "paired_with": [
+        "/thailand-street-food/"
+      ],
+      "status": "pending",
+      "needs_rewrite": true,
+      "sources_verified": false,
+      "render_validated": false,
+      "indexing_decision": "noindex",
+      "notes": ""
+    },
+    {
+      "route": "/itineraries/",
+      "cluster": "blog-itineraries",
+      "paired_with": [
+        "/blog/"
+      ],
+      "status": "pending",
+      "needs_rewrite": true,
+      "sources_verified": false,
+      "render_validated": false,
+      "indexing_decision": "review",
+      "notes": ""
+    },
+    {
+      "route": "/itineraries/[slug]/",
+      "cluster": "blog-itineraries",
+      "paired_with": [
+        "/blog/"
+      ],
+      "status": "pending",
+      "needs_rewrite": true,
+      "sources_verified": false,
+      "render_validated": false,
+      "indexing_decision": "review",
+      "notes": ""
+    }
+  ]
+}

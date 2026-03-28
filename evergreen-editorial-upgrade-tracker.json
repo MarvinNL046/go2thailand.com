@@ -1,0 +1,143 @@
+{
+  "updated_at": "2026-03-28T00:00:00Z",
+  "project": "go2thailand evergreen editorial upgrade tracker",
+  "goal": "Upgrade Thailand-wide editorial pillar pages into source-backed, non-thin, AdSense-safe, EEAT-oriented pages.",
+  "scope": [
+    "/best-beaches-in-thailand/",
+    "/thailand-islands/",
+    "/thailand-temples/",
+    "/thailand-street-food/",
+    "/best-cooking-classes-in-thailand/",
+    "/best-muay-thai-in-thailand/",
+    "/best-elephant-sanctuaries-in-thailand/",
+    "/best-diving-snorkeling-in-thailand/"
+  ],
+  "done_definition": [
+    "each route in scope returns HTTP 200 and renders without stale affiliate, review, or scrape-era leakage",
+    "materially unstable claims are web-fact-checked before the route is marked done",
+    "visible source links or source signals are present in rendered HTML when the template supports them",
+    "internal links point to strong supporting pages and do not spray weak destinations",
+    "an explicit indexing_decision is recorded for every route",
+    "jq empty and npx tsc --noEmit are run before any route is marked done"
+  ],
+  "execution": {
+    "mode": "sequential",
+    "paired_track_model": "paired-track",
+    "cluster_order": [
+      "beaches-islands",
+      "temples-practical-info",
+      "street-food-blog",
+      "cooking-classes-activities",
+      "muay-thai-activities",
+      "elephant-sanctuaries-activities",
+      "diving-snorkeling-activities"
+    ],
+    "item_order": [
+      "/best-beaches-in-thailand/",
+      "/thailand-islands/",
+      "/thailand-temples/",
+      "/thailand-street-food/",
+      "/best-cooking-classes-in-thailand/",
+      "/best-muay-thai-in-thailand/",
+      "/best-elephant-sanctuaries-in-thailand/",
+      "/best-diving-snorkeling-in-thailand/"
+    ],
+    "next_pending": "/best-beaches-in-thailand/",
+    "selection_rule": "Work top-to-bottom in item_order. The next pending route is the first route whose status is not done.",
+    "validation_rule": "Do not mark a route done until the route-level validation checks pass and its indexing_decision is written."
+  },
+  "validation": {
+    "state": "not_started",
+    "last_run_at": null
+  },
+  "routes": [
+    {
+      "route": "/best-beaches-in-thailand/",
+      "cluster": "beaches-islands",
+      "paired_with": "/thailand-islands/",
+      "status": "pending",
+      "needs_rewrite": true,
+      "sources_verified": false,
+      "render_validated": false,
+      "indexing_decision": "index",
+      "notes": ""
+    },
+    {
+      "route": "/thailand-islands/",
+      "cluster": "beaches-islands",
+      "paired_with": "/best-beaches-in-thailand/",
+      "status": "pending",
+      "needs_rewrite": true,
+      "sources_verified": false,
+      "render_validated": false,
+      "indexing_decision": "index",
+      "notes": ""
+    },
+    {
+      "route": "/thailand-temples/",
+      "cluster": "temples-practical-info",
+      "paired_with": "/practical-info/",
+      "status": "pending",
+      "needs_rewrite": true,
+      "sources_verified": false,
+      "render_validated": false,
+      "indexing_decision": "index",
+      "notes": ""
+    },
+    {
+      "route": "/thailand-street-food/",
+      "cluster": "street-food-blog",
+      "paired_with": "/blog/",
+      "status": "pending",
+      "needs_rewrite": true,
+      "sources_verified": false,
+      "render_validated": false,
+      "indexing_decision": "index",
+      "notes": ""
+    },
+    {
+      "route": "/best-cooking-classes-in-thailand/",
+      "cluster": "cooking-classes-activities",
+      "paired_with": "/activities/",
+      "status": "pending",
+      "needs_rewrite": true,
+      "sources_verified": false,
+      "render_validated": false,
+      "indexing_decision": "index",
+      "notes": ""
+    },
+    {
+      "route": "/best-muay-thai-in-thailand/",
+      "cluster": "muay-thai-activities",
+      "paired_with": "/activities/",
+      "status": "pending",
+      "needs_rewrite": true,
+      "sources_verified": false,
+      "render_validated": false,
+      "indexing_decision": "index",
+      "notes": ""
+    },
+    {
+      "route": "/best-elephant-sanctuaries-in-thailand/",
+      "cluster": "elephant-sanctuaries-activities",
+      "paired_with": "/activities/",
+      "status": "pending",
+      "needs_rewrite": true,
+      "sources_verified": false,
+      "render_validated": false,
+      "indexing_decision": "index",
+      "notes": ""
+    },
+    {
+      "route": "/best-diving-snorkeling-in-thailand/",
+      "cluster": "diving-snorkeling-activities",
+      "paired_with": "/activities/",
+      "status": "pending",
+      "needs_rewrite": true,
+      "sources_verified": false,
+      "render_validated": false,
+      "indexing_decision": "index",
+      "notes": ""
+    }
+  ]
+}
