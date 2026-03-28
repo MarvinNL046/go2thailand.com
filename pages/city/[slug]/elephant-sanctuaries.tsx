@@ -70,11 +70,11 @@ export default function ElephantSanctuariesPage({ city, sanctuaryData, affiliate
     },
     {
       q: `Do I need to book an elephant sanctuary in advance?`,
-      a: `Yes, especially during peak season (November-March). Popular sanctuaries in ${city.name.en} can sell out days in advance. Book at least 2-3 days ahead for the best availability.`
+      a: `Booking needs vary by sanctuary, season, and trip style in ${city.name.en}. If you are traveling during busier periods or want a smaller-group visit, it is sensible to check availability ahead rather than assume last-minute space.`
     },
     {
       q: `What should I wear to an elephant sanctuary?`,
-      a: `Wear comfortable clothes you don't mind getting dirty or wet — you'll likely be feeding and bathing elephants. Most sanctuaries provide traditional clothing. Bring sunscreen, insect repellent, and a waterproof phone case for photos.`
+      a: `Wear comfortable clothes you do not mind getting dusty or wet, and choose practical footwear for outdoor walking. Bring sunscreen, insect repellent, and a waterproof phone case if needed, and check the operator notes in case they suggest specific clothing or provide optional extras.`
     }
   ];
 

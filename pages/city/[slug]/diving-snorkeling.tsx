@@ -83,7 +83,7 @@ export default function DivingSnorkelingPage({ city, divingData, affiliates }: P
     },
     {
       q: `When is the best time for diving and snorkeling in ${city.name.en}?`,
-      a: `The best season is November to April, when seas are calm and visibility is excellent (20-30+ meters). Some sites like the Similan Islands are only open November to May. The monsoon season (June-October) has rougher seas and reduced visibility.`
+      a: `Conditions vary by coast, island group, and operator in ${city.name.en}. Check the local season, marine-park access windows, and expected sea conditions for your specific trip dates before booking.`
     },
     {
       q: `What should I bring on a diving or snorkeling trip?`,
