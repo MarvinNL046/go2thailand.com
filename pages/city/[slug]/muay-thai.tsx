@@ -363,7 +363,7 @@ export default function MuayThaiPage({ city, muayThaiData }: Props) {
             )}
 
             {/* Training Gyms Section */}
-            {muayThaiData.trainingGyms && muayThaiData.trainingGyms.length > 0 && (
+            {muayThaiData?.trainingGyms && muayThaiData.trainingGyms.length > 0 && (
               <>
                 <h2 className="text-3xl font-bold font-heading text-gray-900 mb-6 flex items-center gap-3">
                   Top Training Gyms in {city.name.en}
