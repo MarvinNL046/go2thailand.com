@@ -84,8 +84,8 @@ export default function DivingSnorkelingPage({ city, divingData, affiliates }: P
   const divingActivities = divingData.classes.filter(c => c.type === 'diving');
   const snorkelingActivities = divingData.classes.filter(c => c.type === 'snorkeling');
 
-  const title = `Diving & Snorkeling in ${city.name.en} 2026 — Tours & Prices`;
-  const description = `Compare ${divingData.classes.length} diving and snorkeling tours in ${city.name.en} from ${formatPrice(Math.min(...divingData.classes.map(c => c.priceFrom)), loc)}. Reviews, prices, and booking info for 2026.`;
+  const title = `Diving & Snorkeling in ${city.name.en} 2026 — Practical Overview`;
+  const description = `Use this overview to compare diving and snorkeling trip types, general price ranges, and seasonal planning notes in ${city.name.en}.`;
 
   const faqItems = [
     {
@@ -142,15 +142,6 @@ export default function DivingSnorkelingPage({ city, divingData, affiliates }: P
                     </div>
                     <h3 className="text-xl font-bold font-heading text-gray-900 mb-2">{activity.name}</h3>
                     <div className="flex items-center gap-4 text-sm text-gray-600 mb-3">
-                      {activity.rating > 0 && (
-                        <span className="flex items-center gap-1">
-                          <StarRating rating={activity.rating} />
-                          <span className="font-semibold text-gray-900">{activity.rating}</span>
-                          {activity.reviews > 0 && (
-                            <span className="text-gray-500">({activity.reviews.toLocaleString()} reviews)</span>
-                          )}
-                        </span>
-                      )}
                       <span>{activity.duration}</span>
                       <span className="capitalize">{activity.groupSize}</span>
                     </div>
@@ -175,7 +166,7 @@ export default function DivingSnorkelingPage({ city, divingData, affiliates }: P
                         rel="noopener noreferrer sponsored"
                         className="inline-flex items-center px-6 py-2 bg-thailand-blue text-white font-semibold rounded-xl hover:bg-thailand-blue-600 transition-colors text-sm"
                       >
-                        View on GetYourGuide
+                        Check current availability
                       </a>
                     )}
                   </div>
@@ -205,7 +196,7 @@ export default function DivingSnorkelingPage({ city, divingData, affiliates }: P
             <Breadcrumbs items={breadcrumbs} />
             <div className="text-center mt-4">
               <h1 className="text-4xl lg:text-5xl font-bold font-heading mb-4">
-                Best Diving & Snorkeling in {city.name.en}
+                Diving & Snorkeling in {city.name.en}
               </h1>
               <p className="text-xl text-blue-100 max-w-3xl mx-auto">
                 {divingData.intro.en.split('.').slice(0, 2).join('.') + '.'}
@@ -230,15 +221,15 @@ export default function DivingSnorkelingPage({ city, divingData, affiliates }: P
               </div>
               <div className="bg-white rounded-2xl p-4 text-center shadow-md">
                 <div className="text-3xl font-bold text-thailand-blue">
-                  {Math.max(...divingData.classes.map(c => c.rating)).toFixed(1)}
+                  {new Set(divingData.classes.map(c => c.duration)).size}
                 </div>
-                <div className="text-sm text-gray-600">Top Rating</div>
+                <div className="text-sm text-gray-600">Trip Formats</div>
               </div>
               <div className="bg-white rounded-2xl p-4 text-center shadow-md">
                 <div className="text-3xl font-bold text-thailand-blue">
-                  {divingData.classes.reduce((sum, c) => sum + c.reviews, 0).toLocaleString()}
+                  {new Set(divingData.classes.map(c => c.groupSize)).size}
                 </div>
-                <div className="text-sm text-gray-600">Total Reviews</div>
+                <div className="text-sm text-gray-600">Group Styles</div>
               </div>
             </div>
 
@@ -286,25 +277,25 @@ export default function DivingSnorkelingPage({ city, divingData, affiliates }: P
             {/* Book Section */}
             <div className="bg-surface-dark rounded-2xl p-8 mb-12 text-center text-white">
               <h2 className="text-3xl font-bold font-heading mb-4">
-                Book Your Diving Adventure in {city.name.en}
+                Optional Planning Links for {city.name.en}
               </h2>
               <p className="text-lg mb-6 opacity-90">
-                Compare prices and find the perfect underwater experience on these trusted platforms.
+                Use these links only if you want to check live availability after narrowing down the trip style that fits your trip.
               </p>
               <div className="flex flex-col sm:flex-row gap-4 justify-center">
                 {affiliates?.getyourguide && (
                   <a href={affiliates.getyourguide} target="_blank" rel="noopener noreferrer sponsored" className="inline-flex items-center justify-center px-8 py-3 bg-white text-thailand-blue font-semibold rounded-xl hover:bg-gray-100 transition-colors">
-                    Browse on GetYourGuide
+                    View GetYourGuide options
                   </a>
                 )}
                 {affiliates?.klook && (
                   <a href={affiliates.klook} target="_blank" rel="noopener noreferrer sponsored" className="inline-flex items-center justify-center px-8 py-3 bg-white/20 text-white font-semibold rounded-xl hover:bg-white/30 transition-colors border border-white/40">
-                    Browse on Klook
+                    View Klook options
                   </a>
                 )}
               </div>
               <p className="text-xs text-white/70 mt-4">
-                We may earn a commission when you book through our links, at no extra cost to you.
+                External booking links are optional planning tools. We may earn a commission at no extra cost to you.
               </p>
             </div>
 

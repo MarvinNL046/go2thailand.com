@@ -184,15 +184,15 @@ export default function CityFoodPage({ city, cityFoodData, enhancedRestaurants, 
         {/* Popular Dishes Section */}
         <section className="section-padding">
           <div className="container-custom">
-            {/* Book Your Stay & Transport Section - Moved to top */}
+            {/* Food-Area Logistics */}
             <div className="mb-12">
               <h2 className="text-3xl font-bold font-heading text-gray-900 mb-8 text-center">
-                Stay Near the Best Food Areas
+                Check Logistics Around the Main Food Areas
               </h2>
               <div className="bg-white rounded-2xl shadow-md p-8">
                 <TripcomWidget city={city.name.en} type="bundle" />
                 <p className="text-gray-600 text-center mt-6">
-                  Compare stay and transport options near the food markets and restaurant districts that make {city.name.en} worth planning around.
+                  Use the planning widget only if you want to check stay and transport options near the food markets and restaurant districts mentioned below.
                 </p>
               </div>
             </div>
@@ -418,7 +418,7 @@ export default function CityFoodPage({ city, cityFoodData, enhancedRestaurants, 
                 Book a Thai Cooking Class in {city.name.en}
               </h3>
               <p className="text-gray-600 text-center mb-8">
-                Learn to cook authentic Thai dishes with local chefs and take the flavors home with you.
+                Use these links only if you want to explore cooking class or food tour availability after reviewing the food sections above.
               </p>
               <div className="grid grid-cols-1 md:grid-cols-2 gap-6">
                 <div className="border-0 bg-surface-cream rounded-2xl p-6 text-center">
@@ -433,7 +433,7 @@ export default function CityFoodPage({ city, cityFoodData, enhancedRestaurants, 
                       rel="noopener noreferrer sponsored"
                       className="inline-flex items-center justify-center w-full px-6 py-3 bg-thailand-red text-white font-semibold rounded-xl hover:bg-thailand-red-600 transition-colors"
                     >
-                      Browse on Klook
+                      View Klook options
                     </a>
                   ) : (
                     <Link href={`/city/${city.slug}/cooking-classes/`} className="inline-flex items-center justify-center w-full px-6 py-3 bg-thailand-red text-white font-semibold rounded-xl hover:bg-thailand-red-600 transition-colors">
@@ -453,7 +453,7 @@ export default function CityFoodPage({ city, cityFoodData, enhancedRestaurants, 
                       rel="noopener noreferrer sponsored"
                       className="inline-flex items-center justify-center w-full px-6 py-3 bg-thailand-blue text-white font-semibold rounded-xl hover:bg-thailand-blue-600 transition-colors"
                     >
-                      Browse on GetYourGuide
+                      View GetYourGuide options
                     </a>
                   ) : (
                     <Link href={`/city/${city.slug}/attractions/`} className="inline-flex items-center justify-center w-full px-6 py-3 bg-thailand-blue text-white font-semibold rounded-xl hover:bg-thailand-blue-600 transition-colors">
@@ -463,7 +463,7 @@ export default function CityFoodPage({ city, cityFoodData, enhancedRestaurants, 
                 </div>
               </div>
               <p className="text-xs text-gray-400 text-center mt-4">
-                We may earn a commission when you book through our links, at no extra cost to you. This helps us keep the site running.
+                External booking links are optional planning tools. We may earn a commission at no extra cost to you.
               </p>
             </div>
 

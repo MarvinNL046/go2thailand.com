@@ -170,14 +170,14 @@ export default function CityAttractionsPage({ city, attractions, affiliates }: C
                     </p>
                   </div>
 
-                  {/* Trip.com Hotels Widget */}
+                  {/* Nearby-Stay Planning Widget */}
                   <div className="mb-12">
                     <div className="bg-white rounded-2xl shadow-md p-8">
                       <h3 className="text-2xl font-bold font-heading text-thailand-blue-900 mb-4 text-center">
-                        Book Your Stay Near These Attractions
+                        Check Nearby Stay Options
                       </h3>
                       <p className="text-gray-600 text-center mb-6">
-                        Find the perfect hotel close to {city.name.en}'s top attractions
+                        Use the planning widget only if you want to check hotel options near the attraction areas covered on this page.
                       </p>
                       <TripcomWidget city={city.name.en} type="hotels" />
                     </div>
@@ -372,13 +372,13 @@ export default function CityAttractionsPage({ city, attractions, affiliates }: C
                   </div>
                 </div>
 
-                {/* Book Attraction Tickets & Tours - Affiliate Section */}
+                {/* Optional Planning Links */}
                 <div className="bg-white rounded-2xl shadow-md p-8 mb-12">
                   <h3 className="text-2xl font-bold font-heading text-thailand-blue-900 mb-4 text-center">
-                    Book Attraction Tickets & Tours in {city.name.en}
+                    Optional Planning Links for {city.name.en}
                   </h3>
                   <p className="text-gray-600 text-center mb-8">
-                    Compare ticket and tour platforms before you book, especially for high-demand attractions and guided visits.
+                    Use these links only if you want to check live ticket or tour availability after deciding which attractions fit your route.
                   </p>
                   <div className="grid grid-cols-1 md:grid-cols-2 gap-6">
                     <div className="border-0 bg-surface-cream rounded-2xl p-6 text-center">
@@ -393,7 +393,7 @@ export default function CityAttractionsPage({ city, attractions, affiliates }: C
                           rel="noopener noreferrer sponsored"
                           className="inline-flex items-center justify-center w-full px-6 py-3 bg-thailand-red text-white font-semibold rounded-xl hover:bg-thailand-red-600 transition-colors"
                         >
-                          Browse on Klook
+                          View Klook options
                         </a>
                       ) : (
                         <Link href="/activities/" className="inline-flex items-center justify-center w-full px-6 py-3 bg-thailand-red text-white font-semibold rounded-xl hover:bg-thailand-red-600 transition-colors">
@@ -413,7 +413,7 @@ export default function CityAttractionsPage({ city, attractions, affiliates }: C
                           rel="noopener noreferrer sponsored"
                           className="inline-flex items-center justify-center w-full px-6 py-3 bg-thailand-blue text-white font-semibold rounded-xl hover:bg-thailand-blue-600 transition-colors"
                         >
-                          Browse on GetYourGuide
+                          View GetYourGuide options
                         </a>
                       ) : (
                         <Link href={`/city/${city.slug}/`} className="inline-flex items-center justify-center w-full px-6 py-3 bg-thailand-blue text-white font-semibold rounded-xl hover:bg-thailand-blue-600 transition-colors">
@@ -428,7 +428,7 @@ export default function CityAttractionsPage({ city, attractions, affiliates }: C
                     </Link>
                   </div>
                   <p className="text-xs text-gray-400 text-center mt-4">
-                    We may earn a commission when you book through our links, at no extra cost to you. This helps us keep the site running.
+                    External booking links are optional planning tools. We may earn a commission at no extra cost to you.
                   </p>
                 </div>
 

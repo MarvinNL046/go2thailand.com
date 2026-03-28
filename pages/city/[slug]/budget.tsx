@@ -389,10 +389,10 @@ export default function CityBudgetPage({ city, budgetGuide, budgetReality, budge
             {/* Book Your Stay - Affiliate Section */}
             <div className="bg-white rounded-2xl shadow-md p-8 mt-12 mb-8">
               <h3 className="text-2xl font-bold font-heading text-gray-900 mb-4 text-center">
-                Compare Accommodation Options in {city.name.en}
+                Optional Planning Links for {city.name.en}
               </h3>
               <p className="text-gray-600 text-center mb-6">
-                Use these booking platforms to compare accommodation options against the budget ranges above.
+                Use these links only if you want to sanity-check accommodation options against the budget ranges above.
               </p>
               <div className="flex flex-col sm:flex-row gap-4 justify-center">
                 {affiliates?.booking && (
@@ -402,7 +402,7 @@ export default function CityBudgetPage({ city, budgetGuide, budgetReality, budge
                     rel="noopener noreferrer sponsored"
                     className="inline-flex items-center justify-center px-8 py-3 bg-thailand-blue text-white font-semibold rounded-xl hover:bg-thailand-blue-600 transition-colors"
                   >
-                    Search on Booking.com
+                    View options on Booking.com
                   </a>
                 )}
                 <Link
@@ -413,7 +413,7 @@ export default function CityBudgetPage({ city, budgetGuide, budgetReality, budge
                 </Link>
               </div>
               <p className="text-xs text-gray-400 text-center mt-4">
-                We may earn a commission when you book through our links, at no extra cost to you. This helps us keep the site running.
+                External booking links are optional planning tools. We may earn a commission at no extra cost to you.
               </p>
             </div>
 

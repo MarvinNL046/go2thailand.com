@@ -110,8 +110,8 @@ export default function MuayThaiPage({ city, muayThaiData, affiliates }: Props) 
   const trainActivities = muayThaiData.classes.filter(c => c.type === 'train');
   const comboActivities = muayThaiData.classes.filter(c => c.type === 'combo');
 
-  const title = `Muay Thai in ${city.name.en} 2026 — Fights, Training & Camps`;
-  const description = `Muay Thai in ${city.name.en}: live fights from ${formatPrice(Math.min(...muayThaiData.classes.map(c => c.priceFrom)), loc)}, training gyms, and camps. ${muayThaiData.classes.length} activities compared with 2026 prices.`;
+  const title = `Muay Thai in ${city.name.en} 2026 — Fights, Gyms & Practical Notes`;
+  const description = `Use this overview to compare Muay Thai fight nights, training options, and general price ranges in ${city.name.en}.`;
 
   const faqItems = [
     {
@@ -228,15 +228,6 @@ export default function MuayThaiPage({ city, muayThaiData, affiliates }: Props) 
                             </div>
                             <h3 className="text-xl font-bold font-heading text-gray-900 mb-2">{cls.name}</h3>
                             <div className="flex items-center gap-4 text-sm text-gray-600 mb-3">
-                              {cls.rating > 0 && (
-                                <span className="flex items-center gap-1">
-                                  <StarRating rating={cls.rating} />
-                                  <span className="font-semibold text-gray-900">{cls.rating}</span>
-                                  {cls.reviews > 0 && (
-                                    <span className="text-gray-500">({cls.reviews.toLocaleString()} reviews)</span>
-                                  )}
-                                </span>
-                              )}
                               <span>{cls.duration}</span>
                             </div>
                             <div className="flex flex-wrap gap-2 mb-4">
@@ -260,7 +251,7 @@ export default function MuayThaiPage({ city, muayThaiData, affiliates }: Props) 
                                 rel="noopener noreferrer sponsored"
                                 className="inline-flex items-center px-6 py-2 bg-thailand-red text-white font-semibold rounded-xl hover:bg-thailand-red-600 transition-colors text-sm"
                               >
-                                View on GetYourGuide
+                                Check current availability
                               </a>
                             )}
                           </div>
@@ -297,15 +288,6 @@ export default function MuayThaiPage({ city, muayThaiData, affiliates }: Props) 
                             </div>
                             <h3 className="text-xl font-bold font-heading text-gray-900 mb-2">{cls.name}</h3>
                             <div className="flex items-center gap-4 text-sm text-gray-600 mb-3">
-                              {cls.rating > 0 && (
-                                <span className="flex items-center gap-1">
-                                  <StarRating rating={cls.rating} />
-                                  <span className="font-semibold text-gray-900">{cls.rating}</span>
-                                  {cls.reviews > 0 && (
-                                    <span className="text-gray-500">({cls.reviews.toLocaleString()} reviews)</span>
-                                  )}
-                                </span>
-                              )}
                               <span>{cls.duration}</span>
                               <span className="capitalize">{cls.groupSize}</span>
                             </div>
@@ -330,7 +312,7 @@ export default function MuayThaiPage({ city, muayThaiData, affiliates }: Props) 
                                 rel="noopener noreferrer sponsored"
                                 className="inline-flex items-center px-6 py-2 bg-thailand-blue text-white font-semibold rounded-xl hover:bg-thailand-blue-600 transition-colors text-sm"
                               >
-                                View on GetYourGuide
+                                Check current availability
                               </a>
                             )}
                           </div>
@@ -364,15 +346,6 @@ export default function MuayThaiPage({ city, muayThaiData, affiliates }: Props) 
                             </div>
                             <h3 className="text-xl font-bold font-heading text-gray-900 mb-2">{cls.name}</h3>
                             <div className="flex items-center gap-4 text-sm text-gray-600 mb-3">
-                              {cls.rating > 0 && (
-                                <span className="flex items-center gap-1">
-                                  <StarRating rating={cls.rating} />
-                                  <span className="font-semibold text-gray-900">{cls.rating}</span>
-                                  {cls.reviews > 0 && (
-                                    <span className="text-gray-500">({cls.reviews.toLocaleString()} reviews)</span>
-                                  )}
-                                </span>
-                              )}
                               <span>{cls.duration}</span>
                               <span className="capitalize">{cls.groupSize}</span>
                             </div>
@@ -397,7 +370,7 @@ export default function MuayThaiPage({ city, muayThaiData, affiliates }: Props) 
                                 rel="noopener noreferrer sponsored"
                                 className="inline-flex items-center px-6 py-2 bg-thailand-red text-white font-semibold rounded-xl hover:bg-thailand-red-600 transition-colors text-sm"
                               >
-                                View on GetYourGuide
+                                Check current availability
                               </a>
                             )}
                           </div>

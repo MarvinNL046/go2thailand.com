@@ -157,10 +157,10 @@ export default function CityHotelsPage({ city, hotelData, hasTop10Hotels, enhanc
           <div className="container-custom">
             {hasHotelContent ? (
               <div className="space-y-12">
-                {/* Search & Book Hotels Widget - Moved to top */}
+                {/* Hotel Search Widget */}
                 <div className="bg-surface-cream rounded-2xl p-8 text-center">
-                  <h3 className="text-xl font-bold font-heading text-gray-900 mb-4">Compare Hotel Bases in {city.name.en}</h3>
-                  <p className="text-gray-600 mb-6">Use the search widget to compare hotel options while you review the area guidance below.</p>
+                  <h3 className="text-xl font-bold font-heading text-gray-900 mb-4">Check Hotel Availability in {city.name.en}</h3>
+                  <p className="text-gray-600 mb-6">Use the search widget only after you have narrowed down which area suits your trip best.</p>
                   <TripcomWidget city={city.name.en} type="hotels" />
                 </div>
 
@@ -276,7 +276,7 @@ export default function CityHotelsPage({ city, hotelData, hasTop10Hotels, enhanc
                                 </div>
                                 <p className="text-gray-600 text-sm">{hotel.description}</p>
                                 <div className="mt-4 text-thailand-blue text-sm font-medium flex items-center">
-                                  Compare availability
+                                  View current options
                                   <svg className="w-4 h-4 ml-1" fill="none" stroke="currentColor" viewBox="0 0 24 24">
                                     <path strokeLinecap="round" strokeLinejoin="round" strokeWidth="2" d="M9 5l7 7-7 7" />
                                   </svg>
@@ -293,7 +293,7 @@ export default function CityHotelsPage({ city, hotelData, hasTop10Hotels, enhanc
                 {/* Booking Tips */}
                 {hotelData && (
                 <div>
-                  <h2 className="text-2xl font-bold font-heading text-gray-900 mb-6">Booking Tips for {city.name.en}</h2>
+                  <h2 className="text-2xl font-bold font-heading text-gray-900 mb-6">Hotel Planning Notes for {city.name.en}</h2>
                   <div className="bg-white rounded-2xl shadow-md p-6">
                     <ul className="space-y-3">
                       {hotelData.booking_tips.map((tip, index) => (
@@ -350,10 +350,10 @@ export default function CityHotelsPage({ city, hotelData, hasTop10Hotels, enhanc
             {/* Book Your Hotel - Affiliate Section */}
             <div className="bg-white rounded-2xl shadow-md p-8 mb-8">
               <h3 className="text-2xl font-bold font-heading text-gray-900 mb-4 text-center">
-                Compare Hotel Booking Options in {city.name.en}
+                Optional Booking Links for {city.name.en}
               </h3>
               <p className="text-gray-600 text-center mb-6">
-                Use the booking tools on this page to compare hotel options after narrowing down the right area.
+                Use these links only if you want to check current hotel options after reviewing the area guidance above.
               </p>
               <div className="flex flex-col sm:flex-row gap-4 justify-center">
                 {affiliates && (
@@ -363,12 +363,12 @@ export default function CityHotelsPage({ city, hotelData, hasTop10Hotels, enhanc
                     rel="noopener noreferrer sponsored"
                     className="inline-flex items-center justify-center px-8 py-3 bg-thailand-blue text-white font-semibold rounded-xl hover:bg-thailand-blue-600 transition-colors"
                   >
-                    Search on Booking.com
+                    View options on Booking.com
                   </a>
                 )}
               </div>
               <p className="text-xs text-gray-400 text-center mt-4">
-                We may earn a commission when you book through our links, at no extra cost to you. This helps us keep the site running.
+                External booking links are optional planning tools. We may earn a commission at no extra cost to you.
               </p>
             </div>
 

@@ -434,20 +434,20 @@ export default function BestTimeToVisitPage({ city, topRoutes, affiliates }: Bes
                 </div>
               )}
 
-              {/* Trip.com Widget */}
+              {/* Travel Planning Widget */}
               <div className="bg-surface-cream rounded-2xl p-8 text-center">
-                <h3 className="text-xl font-bold font-heading text-gray-900 mb-4">Plan Travel Logistics for {cityName}</h3>
-                <p className="text-gray-600 mb-6">Compare flight, hotel, and transport options in one place while you plan seasonal timing.</p>
+                <h3 className="text-xl font-bold font-heading text-gray-900 mb-4">Check Travel Logistics for {cityName}</h3>
+                <p className="text-gray-600 mb-6">Use the planning widget only after you have settled on the season and timing that fit your trip.</p>
                 <TripcomWidget city={cityName} type="hotels" />
               </div>
 
-              {/* Affiliate Booking Links */}
+              {/* Optional Planning Links */}
               <div className="bg-white rounded-2xl shadow-md p-8">
                 <h3 className="text-2xl font-bold font-heading text-gray-900 mb-4 text-center">
-                  Compare Booking Options for {cityName}
+                  Optional Planning Links for {cityName}
                 </h3>
                 <p className="text-gray-600 text-center mb-6">
-                  Use these booking platforms to compare stay and transport options alongside the timing guidance above.
+                  Use these links only if you want to check current accommodation and transport options alongside the timing guidance above.
                 </p>
                 <div className="flex flex-col sm:flex-row gap-4 justify-center">
                   {affiliates?.booking && (
@@ -457,7 +457,7 @@ export default function BestTimeToVisitPage({ city, topRoutes, affiliates }: Bes
                       rel="noopener noreferrer sponsored"
                       className="inline-flex items-center justify-center px-8 py-3 bg-thailand-blue text-white font-semibold rounded-xl hover:bg-thailand-blue-600 transition-colors"
                     >
-                      Search on Booking.com
+                      View options on Booking.com
                     </a>
                   )}
                   <Link
@@ -474,7 +474,7 @@ export default function BestTimeToVisitPage({ city, topRoutes, affiliates }: Bes
                   </Link>
                 </div>
                 <p className="text-xs text-gray-400 text-center mt-4">
-                  We may earn a commission when you book through our links, at no extra cost to you. This helps us keep the site running.
+                External planning links are optional tools. We may earn a commission at no extra cost to you.
                 </p>
               </div>
 

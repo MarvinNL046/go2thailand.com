@@ -77,8 +77,8 @@ export default function CookingClassesPage({ city, cookingData, affiliates }: Pr
     { name: 'Cooking Classes', href: `/city/${city.slug}/cooking-classes/` }
   ];
 
-  const title = `Best Cooking Classes in ${city.name.en} 2026 — Prices & Reviews`;
-  const description = `Discover the ${cookingData.classes.length} best Thai cooking classes in ${city.name.en}. Compare prices from ${formatPrice(cookingData.classes[0]?.priceFrom || 0, loc)}, read reviews, and book for 2026.`;
+  const title = `Cooking Classes in ${city.name.en} 2026 — Practical Overview`;
+  const description = `Use this overview to compare cooking class formats, typical pricing, and what to expect in ${city.name.en}.`;
 
   const faqItems = [
     {
@@ -115,20 +115,20 @@ export default function CookingClassesPage({ city, cookingData, affiliates }: Pr
   const howToJsonLd = {
     '@context': 'https://schema.org',
     '@type': 'HowTo',
-    'name': `How to Book a Thai Cooking Class in ${city.name.en}`,
-    'description': `Step-by-step guide to finding and booking the best cooking class in ${city.name.en}, Thailand. Compare ${cookingData.classes.length} classes with prices from ${formatPrice(Math.min(...cookingData.classes.map(c => c.priceFrom)), 'en')}.`,
+    'name': `How to Choose a Thai Cooking Class in ${city.name.en}`,
+    'description': `Step-by-step guide to comparing cooking class formats in ${city.name.en}, Thailand, including typical pricing and class structure.`,
     'totalTime': 'PT10M',
     'step': [
       {
         '@type': 'HowToStep',
-        'name': 'Browse available classes',
-        'text': `Compare the ${cookingData.classes.length} cooking classes available in ${city.name.en}. Check ratings, prices, duration, and what is included such as market tours and recipe booklets.`,
+        'name': 'Compare available classes',
+        'text': `Review the ${cookingData.classes.length} cooking classes available in ${city.name.en}. Compare prices, duration, and what is included such as market tours and recipe booklets.`,
         'position': 1
       },
       {
         '@type': 'HowToStep',
-        'name': 'Compare prices and reviews',
-        'text': `Prices in ${city.name.en} range from ${formatPrice(Math.min(...cookingData.classes.map(c => c.priceFrom)), 'en')} to ${formatPrice(Math.max(...cookingData.classes.map(c => c.priceFrom)), 'en')} per person. Look for classes with high ratings and many reviews for the best experience.`,
+        'name': 'Compare format and price range',
+        'text': `Prices in ${city.name.en} range from ${formatPrice(Math.min(...cookingData.classes.map(c => c.priceFrom)), 'en')} to ${formatPrice(Math.max(...cookingData.classes.map(c => c.priceFrom)), 'en')} per person. Use the inclusions and lesson format to decide what fits your trip best.`,
         'position': 2
       },
       {
@@ -139,8 +139,8 @@ export default function CookingClassesPage({ city, cookingData, affiliates }: Pr
       },
       {
         '@type': 'HowToStep',
-        'name': 'Book through a trusted platform',
-        'text': 'Book your cooking class through trusted platforms like GetYourGuide or Klook. Book at least 2-3 days ahead, or 1 week during peak season (November-February).',
+        'name': 'Confirm availability',
+        'text': 'Use the planning links on this page if you want to check current availability. Popular classes can fill up a few days ahead, and peak-season dates may need more lead time.',
         'position': 4
       },
       {
@@ -198,15 +198,15 @@ export default function CookingClassesPage({ city, cookingData, affiliates }: Pr
               </div>
               <div className="bg-white rounded-2xl p-4 text-center shadow-md">
                 <div className="text-3xl font-bold text-thailand-blue">
-                  {Math.max(...cookingData.classes.map(c => c.rating)).toFixed(1)}
+                  {new Set(cookingData.classes.map(c => c.duration)).size}
                 </div>
-                <div className="text-sm text-gray-600">Top Rating</div>
+                <div className="text-sm text-gray-600">Duration Formats</div>
               </div>
               <div className="bg-white rounded-2xl p-4 text-center shadow-md">
                 <div className="text-3xl font-bold text-thailand-blue">
-                  {cookingData.classes.reduce((sum, c) => sum + c.reviews, 0).toLocaleString()}
+                  {new Set(cookingData.classes.map(c => c.groupSize)).size}
                 </div>
-                <div className="text-sm text-gray-600">Total Reviews</div>
+                <div className="text-sm text-gray-600">Group Styles</div>
               </div>
             </div>
 
@@ -245,13 +245,6 @@ export default function CookingClassesPage({ city, cookingData, affiliates }: Pr
                         </div>
                         <h3 className="text-xl font-bold font-heading text-gray-900 mb-2">{cls.name}</h3>
                         <div className="flex items-center gap-4 text-sm text-gray-600 mb-3">
-                          <span className="flex items-center gap-1">
-                            <StarRating rating={cls.rating} />
-                            <span className="font-semibold text-gray-900">{cls.rating}</span>
-                            {cls.reviews > 0 && (
-                              <span className="text-gray-500">({cls.reviews.toLocaleString()} reviews)</span>
-                            )}
-                          </span>
                           <span>{cls.duration}</span>
                           <span className="capitalize">{cls.groupSize}</span>
                         </div>
@@ -276,7 +269,7 @@ export default function CookingClassesPage({ city, cookingData, affiliates }: Pr
                             rel="noopener noreferrer sponsored"
                             className="inline-flex items-center px-6 py-2 bg-thailand-red text-white font-semibold rounded-xl hover:bg-thailand-red-600 transition-colors text-sm"
                           >
-                            View on GetYourGuide
+                            Check current availability
                           </a>
                         )}
                       </div>
@@ -308,10 +301,10 @@ export default function CookingClassesPage({ city, cookingData, affiliates }: Pr
             {/* Book Section */}
             <div className="bg-surface-dark rounded-2xl p-8 mb-12 text-center text-white">
               <h2 className="text-3xl font-bold font-heading mb-4">
-                Book Your Cooking Class in {city.name.en}
+                Optional Planning Links for {city.name.en}
               </h2>
               <p className="text-lg mb-6 opacity-90">
-                Compare prices and find the perfect cooking experience on these trusted platforms.
+                Use these links only if you want to check live availability after narrowing down the class style that fits your trip.
               </p>
               <div className="flex flex-col sm:flex-row gap-4 justify-center">
                 {affiliates?.getyourguide && (
@@ -321,7 +314,7 @@ export default function CookingClassesPage({ city, cookingData, affiliates }: Pr
                     rel="noopener noreferrer sponsored"
                     className="inline-flex items-center justify-center px-8 py-3 bg-white text-thailand-red font-semibold rounded-xl hover:bg-gray-100 transition-colors"
                   >
-                    Browse on GetYourGuide
+                    View GetYourGuide options
                   </a>
                 )}
                 {affiliates?.klook && (
@@ -331,12 +324,12 @@ export default function CookingClassesPage({ city, cookingData, affiliates }: Pr
                     rel="noopener noreferrer sponsored"
                     className="inline-flex items-center justify-center px-8 py-3 bg-white/20 text-white font-semibold rounded-xl hover:bg-white/30 transition-colors border border-white/40"
                   >
-                    Browse on Klook
+                    View Klook options
                   </a>
                 )}
               </div>
               <p className="text-xs text-white/70 mt-4">
-                We may earn a commission when you book through our links, at no extra cost to you.
+                External booking links are optional planning tools. We may earn a commission at no extra cost to you.
               </p>
             </div>
 
