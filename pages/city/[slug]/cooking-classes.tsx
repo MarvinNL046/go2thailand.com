@@ -19,7 +19,6 @@ interface CookingClass {
   groupSize: string;
   includes: string[];
   badge: string;
-  gygPath: string;
 }
 
 interface CityData {
@@ -415,5 +414,10 @@ export const getStaticProps: GetStaticProps = async ({ params }) => {
 
   const affiliates = getAffiliates(params.slug as string);
 
-  return { props: { city, cookingData, affiliates }, revalidate: 86400 };
+  const sanitizedCookingData = {
+    ...cookingData,
+    classes: cookingData.classes.map(({ gygPath, ...cls }) => cls),
+  };
+
+  return { props: { city, cookingData: sanitizedCookingData, affiliates }, revalidate: 86400 };
 };

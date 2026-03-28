@@ -19,7 +19,6 @@ interface MuayThaiActivity {
   groupSize: string;
   includes: string[];
   badge: string;
-  gygPath: string;
 }
 
 interface TrainingGym {
@@ -447,5 +446,10 @@ export const getStaticProps: GetStaticProps = async ({ params }) => {
   const muayThaiData = getMuayThaiByCity(slug);
   if (!muayThaiData) return { notFound: true };
 
-  return { props: { city, muayThaiData }, revalidate: 86400 };
+  const sanitizedMuayThaiData = {
+    ...muayThaiData,
+    classes: muayThaiData.classes.map(({ gygPath, ...activity }) => activity),
+  };
+
+  return { props: { city, muayThaiData: sanitizedMuayThaiData }, revalidate: 86400 };
 };

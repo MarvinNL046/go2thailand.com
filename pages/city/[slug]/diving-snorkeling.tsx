@@ -20,7 +20,6 @@ interface Activity {
   groupSize: string;
   includes: string[];
   badge: string;
-  gygPath: string;
 }
 
 interface CityData {
@@ -342,5 +341,10 @@ export const getStaticProps: GetStaticProps = async ({ params }) => {
 
   const affiliates = getAffiliates(params.slug as string);
 
-  return { props: { city, divingData, affiliates }, revalidate: 86400 };
+  const sanitizedDivingData = {
+    ...divingData,
+    classes: divingData.classes.map(({ gygPath, ...activity }) => activity),
+  };
+
+  return { props: { city, divingData: sanitizedDivingData, affiliates }, revalidate: 86400 };
 };

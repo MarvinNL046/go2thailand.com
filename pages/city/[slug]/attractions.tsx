@@ -370,7 +370,7 @@ export default function CityAttractionsPage({ city, attractions, affiliates }: C
                     <div className="border-0 bg-surface-cream rounded-2xl p-6 text-center">
                       <h4 className="text-lg font-bold text-gray-900 mb-2">Klook</h4>
                       <p className="text-gray-600 text-sm mb-4">
-                        Book tickets and skip-the-line access
+                        Tickets and attraction planning links
                       </p>
                       {affiliates?.klook ? (
                         <a
@@ -390,7 +390,7 @@ export default function CityAttractionsPage({ city, attractions, affiliates }: C
                     <div className="border-0 bg-surface-cream rounded-2xl p-6 text-center">
                       <h4 className="text-lg font-bold text-gray-900 mb-2">GetYourGuide</h4>
                       <p className="text-gray-600 text-sm mb-4">
-                        Expert-guided tours with free cancellation
+                        Guided tours and route-planning options
                       </p>
                       {affiliates?.getyourguide ? (
                         <a
