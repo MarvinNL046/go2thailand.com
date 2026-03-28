@@ -66,11 +66,13 @@ for route in food hotels attractions best-time-to-visit budget cooking-classes m
 done
 ```
 
-Run the visible source-backed trust-signal gate on the same saved HTML before marking a route `done`:
+Run the visible source-backed trust-signal gate by rendering each route to its own saved HTML artifact before scanning it:
 
 ```bash
 for route in food hotels attractions best-time-to-visit budget cooking-classes muay-thai elephant-sanctuaries diving-snorkeling; do
-  if ! rg -q 'Sources|Source:|Official site|Official website|MICHELIN|UNESCO|Tourism Authority of Thailand|Fine Arts Department' "/tmp/[slug]-${route}.html"; then
+  html="/tmp/[slug]-${route}.html"
+  curl -s "$BASE_URL/city/[slug]/${route}/" > "$html"
+  if ! rg -q 'Sources|Source:|Official site|Official website|MICHELIN|UNESCO|Tourism Authority of Thailand|Fine Arts Department' "$html"; then
     echo "missing visible source signal: ${route}"
   fi
 done
