@@ -2,7 +2,6 @@ import { GetStaticProps, GetStaticPaths } from 'next';
 import Link from 'next/link';
 import { getCityBySlug, getCityStaticPaths, generateCityMetadata, generateBreadcrumbs } from '../../../lib/cities';
 import Breadcrumbs from '../../../components/Breadcrumbs';
-import TripcomWidget from '../../../components/TripcomWidget';
 import SEOHead from '../../../components/SEOHead';
 import CityExploreMore from '../../../components/CityExploreMore';
 import transportRoutes from '../../../data/transport-routes.json';
@@ -400,13 +399,6 @@ export default function BestTimeToVisitPage({ city, topRoutes, affiliates }: Bes
                   </div>
                 </div>
               )}
-
-              {/* Travel Planning Widget */}
-              <div className="bg-surface-cream rounded-2xl p-8 text-center">
-                <h3 className="text-xl font-bold font-heading text-gray-900 mb-4">Check Travel Logistics for {cityName}</h3>
-                <p className="text-gray-600 mb-6">Use the planning widget only after you have settled on the season and timing that fit your trip.</p>
-                <TripcomWidget city={cityName} type="hotels" />
-              </div>
 
               {/* Optional Planning Links */}
               <div className="bg-white rounded-2xl shadow-md p-8">

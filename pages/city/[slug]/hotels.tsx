@@ -2,13 +2,11 @@ import { GetStaticProps, GetStaticPaths } from 'next';
 import Link from 'next/link';
 import { getCityBySlug, getCityStaticPaths, generateCityMetadata, generateBreadcrumbs } from '../../../lib/cities';
 import Breadcrumbs from '../../../components/Breadcrumbs';
-import TripcomWidget from '../../../components/TripcomWidget';
 import SEOHead from '../../../components/SEOHead';
 import CityExploreMore from '../../../components/CityExploreMore';
 import hotelAreasData from '../../../data/cities/hotel-areas.json';
 import fs from 'fs';
 import path from 'path';
-import { getAffiliates, CityAffiliates } from '../../../lib/affiliates';
 
 interface City {
   id: number;
@@ -48,7 +46,6 @@ interface CityHotelsPageProps {
   hotelData: CityHotelData | null;
   hasTop10Hotels: boolean;
   enhancedHotels: EnhancedHotel[];
-  affiliates: CityAffiliates | null;
 }
 
 function flattenBilingual(data: any): any {
@@ -80,7 +77,7 @@ const categoryColors: Record<string, string> = {
   recommended: 'bg-slate-100 text-slate-800',
 };
 
-export default function CityHotelsPage({ city, hotelData, hasTop10Hotels, enhancedHotels, affiliates }: CityHotelsPageProps) {
+export default function CityHotelsPage({ city, hotelData, hasTop10Hotels, enhancedHotels }: CityHotelsPageProps) {
   if (!city) return <div>City not found</div>;
 
   // Flatten any bilingual objects in enhanced hotels
@@ -207,7 +204,7 @@ export default function CityHotelsPage({ city, hotelData, hasTop10Hotels, enhanc
                   <div>
                     <h2 className="text-3xl font-bold font-heading text-gray-900 mb-8">Recommended Hotels in {city.name.en}</h2>
                     <p className="text-gray-600 mb-6">
-                      Use these hotel names as area-by-area planning references. Any live booking link on this page opens a city-wide search, not a direct listing for the specific hotel card.
+                      Use these hotel names as area-by-area planning references while you compare stay styles and neighborhood fit.
                     </p>
                     {categoryOrder.map((cat) => {
                       const catHotels = hotelsByCategory[cat];
@@ -274,12 +271,6 @@ export default function CityHotelsPage({ city, hotelData, hasTop10Hotels, enhanc
                 </div>
                 )}
 
-                {/* Planning Tools */}
-                <div className="bg-surface-cream rounded-2xl p-8 text-center">
-                  <h3 className="text-xl font-bold font-heading text-gray-900 mb-4">Check Hotel Availability in {city.name.en}</h3>
-                  <p className="text-gray-600 mb-6">Use the planning tools below only after you have narrowed down which area and stay style fit your trip.</p>
-                  <TripcomWidget city={city.name.en} type="hotels" />
-                </div>
                 {/* Top 10 Hotels Link */}
                 {hasTop10Hotels && (
                   <div className="bg-surface-dark rounded-2xl p-8 text-center text-white">
@@ -383,7 +374,5 @@ export const getStaticProps: GetStaticProps = async ({ params }) => {
   const top10HotelsPath = path.join(process.cwd(), 'data', 'top10', `${slug}-hotels.json`);
   const hasTop10Hotels = fs.existsSync(top10HotelsPath);
 
-  const affiliates = getAffiliates(params.slug as string);
-
-  return { props: { city, hotelData, hasTop10Hotels, enhancedHotels, affiliates }, revalidate: 86400 };
+  return { props: { city, hotelData, hasTop10Hotels, enhancedHotels }, revalidate: 86400 };
 };

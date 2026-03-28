@@ -7,7 +7,6 @@ import { formatPrice } from '../../../lib/price';
 import Breadcrumbs from '../../../components/Breadcrumbs';
 import SEOHead from '../../../components/SEOHead';
 import CityExploreMore from '../../../components/CityExploreMore';
-import { getAffiliates, CityAffiliates } from '../../../lib/affiliates';
 
 interface MuayThaiActivity {
   name: string;
@@ -53,7 +52,6 @@ interface City {
 interface Props {
   city: City;
   muayThaiData: CityData;
-  affiliates: CityAffiliates | null;
 }
 
 function TypeBadge({ type }: { type: string }) {
@@ -66,7 +64,7 @@ function TypeBadge({ type }: { type: string }) {
   return <span className={`text-xs font-semibold px-2 py-1 rounded ${color}`}>{label}</span>;
 }
 
-export default function MuayThaiPage({ city, muayThaiData, affiliates }: Props) {
+export default function MuayThaiPage({ city, muayThaiData }: Props) {
   const { locale } = useRouter();
   const loc = locale || 'en';
   if (!city || !muayThaiData) return <div>Not found</div>;
@@ -449,7 +447,5 @@ export const getStaticProps: GetStaticProps = async ({ params }) => {
   const muayThaiData = getMuayThaiByCity(slug);
   if (!muayThaiData) return { notFound: true };
 
-  const affiliates = getAffiliates(slug);
-
-  return { props: { city, muayThaiData, affiliates }, revalidate: 86400 };
+  return { props: { city, muayThaiData }, revalidate: 86400 };
 };

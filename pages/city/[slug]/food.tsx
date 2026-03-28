@@ -3,12 +3,10 @@ import Link from 'next/link';
 import Image from 'next/image';
 import { getCityBySlug, getCityStaticPaths, generateCityMetadata, generateBreadcrumbs } from '../../../lib/cities';
 import Breadcrumbs from '../../../components/Breadcrumbs';
-import TripcomWidget from '../../../components/TripcomWidget';
 import SEOHead from '../../../components/SEOHead';
 import CityExploreMore from '../../../components/CityExploreMore';
 import foodData from '../../../data/enhanced/food/index.json';
 import foodSpecialtiesData from '../../../data/cities/food-specialties.json';
-import { getAffiliates, CityAffiliates } from '../../../lib/affiliates';
 
 function flattenBilingual(data: any): any {
   if (data === null || data === undefined) return data;
@@ -87,10 +85,9 @@ interface CityFoodPageProps {
   city: City;
   cityFoodData?: CityFoodData;
   enhancedRestaurants: EnhancedRestaurant[];
-  affiliates: CityAffiliates | null;
 }
 
-export default function CityFoodPage({ city, cityFoodData, enhancedRestaurants, affiliates }: CityFoodPageProps) {
+export default function CityFoodPage({ city, cityFoodData, enhancedRestaurants }: CityFoodPageProps) {
   if (!city) return <div>City not found</div>;
 
   const breadcrumbs = generateBreadcrumbs(city, 'food');
@@ -157,18 +154,6 @@ export default function CityFoodPage({ city, cityFoodData, enhancedRestaurants, 
         {/* Popular Dishes Section */}
         <section className="section-padding">
           <div className="container-custom">
-            {/* Food-Area Logistics */}
-            <div className="mb-12">
-              <h2 className="text-3xl font-bold font-heading text-gray-900 mb-8 text-center">
-                Check Logistics Around the Main Food Areas
-              </h2>
-              <div className="bg-white rounded-2xl shadow-md p-8">
-                <TripcomWidget city={city.name.en} type="bundle" />
-                <p className="text-gray-600 text-center mt-6">
-                  Use the planning widget only if you want to check stay and transport options near the food markets and restaurant districts mentioned below.
-                </p>
-              </div>
-            </div>
             <h2 className="text-3xl font-bold font-heading text-gray-900 mb-8 text-center">
               Popular Thai Dishes
             </h2>
@@ -446,7 +431,5 @@ export const getStaticProps: GetStaticProps = async ({ params }) => {
     // No enhanced data available
   }
 
-  const affiliates = getAffiliates(slug);
-
-  return { props: { city, cityFoodData, enhancedRestaurants, affiliates }, revalidate: 86400 };
+  return { props: { city, cityFoodData, enhancedRestaurants }, revalidate: 86400 };
 };

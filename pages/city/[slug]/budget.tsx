@@ -2,7 +2,6 @@ import { GetStaticProps, GetStaticPaths } from 'next';
 import Link from 'next/link';
 import { getCityBySlug, getCityStaticPaths, generateCityMetadata, generateBreadcrumbs } from '../../../lib/cities';
 import Breadcrumbs from '../../../components/Breadcrumbs';
-import TripcomWidget from '../../../components/TripcomWidget';
 import SEOHead from '../../../components/SEOHead';
 import CityExploreMore from '../../../components/CityExploreMore';
 import { getAffiliates, CityAffiliates } from '../../../lib/affiliates';
@@ -351,17 +350,6 @@ export default function CityBudgetPage({ city, budgetGuide, budgetReality, budge
                     </div>
                   </div>
                 )}
-
-                {/* TripcomWidget */}
-                <div className="bg-surface-cream rounded-2xl p-8 text-center">
-                  <h3 className="text-xl font-bold font-heading text-gray-900 mb-4">
-                    Compare Travel Costs in {city.name.en}
-                  </h3>
-                  <p className="text-gray-600 mb-6">
-                    Compare hotel, flight, and activity options to see how far your budget can realistically go.
-                  </p>
-                  <TripcomWidget city={city.name.en} type="hotels" />
-                </div>
 
               </div>
             ) : (
