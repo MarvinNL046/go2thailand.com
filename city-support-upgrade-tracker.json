@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-03-28T00:30:00.000Z",
+  "updated_at": "2026-03-28T00:45:00.000Z",
   "project": "go2thailand city support cluster upgrade tracker",
   "goal": "Upgrade all English city support clusters to source-backed, non-thin, AdSense-safe, EEAT-oriented pages.",
   "scope": [
@@ -25,7 +25,19 @@
   "execution": {
     "mode": "sequential",
     "source_of_truth": "cities array order",
-    "selection_rule": "Work top-to-bottom in listed city order. The next city is the first city whose status is not done."
+    "selection_rule": "Work top-to-bottom in listed city order. The next city is the first city whose status is not done.",
+    "route_order_within_city": [
+      "food",
+      "hotels",
+      "attractions",
+      "best-time-to-visit",
+      "budget",
+      "cooking-classes",
+      "muay-thai",
+      "elephant-sanctuaries",
+      "diving-snorkeling"
+    ],
+    "route_selection_rule": "Within an in-progress city, work top-to-bottom in route_order_within_city. The next route is the first route in that list whose status is not done."
   },
   "status_rollup": {
     "route_status_values": [
@@ -53,12 +65,12 @@
         "food": "pending",
         "hotels": "pending",
         "attractions": "pending",
-        "best_time_to_visit": "pending",
+        "best-time-to-visit": "pending",
         "budget": "pending",
-        "cooking_classes": "pending",
-        "muay_thai": "pending",
-        "elephant_sanctuaries": "pending",
-        "diving_snorkeling": "pending"
+        "cooking-classes": "pending",
+        "muay-thai": "pending",
+        "elephant-sanctuaries": "pending",
+        "diving-snorkeling": "pending"
       },
       "notes": ""
     },
@@ -69,12 +81,12 @@
         "food": "pending",
         "hotels": "pending",
         "attractions": "pending",
-        "best_time_to_visit": "pending",
+        "best-time-to-visit": "pending",
         "budget": "pending",
-        "cooking_classes": "pending",
-        "muay_thai": "pending",
-        "elephant_sanctuaries": "pending",
-        "diving_snorkeling": "pending"
+        "cooking-classes": "pending",
+        "muay-thai": "pending",
+        "elephant-sanctuaries": "pending",
+        "diving-snorkeling": "pending"
       },
       "notes": ""
     },
@@ -85,12 +97,12 @@
         "food": "pending",
         "hotels": "pending",
         "attractions": "pending",
-        "best_time_to_visit": "pending",
+        "best-time-to-visit": "pending",
         "budget": "pending",
-        "cooking_classes": "pending",
-        "muay_thai": "pending",
-        "elephant_sanctuaries": "pending",
-        "diving_snorkeling": "pending"
+        "cooking-classes": "pending",
+        "muay-thai": "pending",
+        "elephant-sanctuaries": "pending",
+        "diving-snorkeling": "pending"
       },
       "notes": ""
     },
@@ -101,12 +113,12 @@
         "food": "pending",
         "hotels": "pending",
         "attractions": "pending",
-        "best_time_to_visit": "pending",
+        "best-time-to-visit": "pending",
         "budget": "pending",
-        "cooking_classes": "pending",
-        "muay_thai": "pending",
-        "elephant_sanctuaries": "pending",
-        "diving_snorkeling": "pending"
+        "cooking-classes": "pending",
+        "muay-thai": "pending",
+        "elephant-sanctuaries": "pending",
+        "diving-snorkeling": "pending"
       },
       "notes": ""
     },
@@ -117,12 +129,12 @@
         "food": "pending",
         "hotels": "pending",
         "attractions": "pending",
-        "best_time_to_visit": "pending",
+        "best-time-to-visit": "pending",
         "budget": "pending",
-        "cooking_classes": "pending",
-        "muay_thai": "pending",
-        "elephant_sanctuaries": "pending",
-        "diving_snorkeling": "pending"
+        "cooking-classes": "pending",
+        "muay-thai": "pending",
+        "elephant-sanctuaries": "pending",
+        "diving-snorkeling": "pending"
       },
       "notes": ""
     },
@@ -133,12 +145,12 @@
         "food": "pending",
         "hotels": "pending",
         "attractions": "pending",
-        "best_time_to_visit": "pending",
+        "best-time-to-visit": "pending",
         "budget": "pending",
-        "cooking_classes": "pending",
-        "muay_thai": "pending",
-        "elephant_sanctuaries": "pending",
-        "diving_snorkeling": "pending"
+        "cooking-classes": "pending",
+        "muay-thai": "pending",
+        "elephant-sanctuaries": "pending",
+        "diving-snorkeling": "pending"
       },
       "notes": ""
     },
@@ -149,12 +161,12 @@
         "food": "pending",
         "hotels": "pending",
         "attractions": "pending",
-        "best_time_to_visit": "pending",
+        "best-time-to-visit": "pending",
         "budget": "pending",
-        "cooking_classes": "pending",
-        "muay_thai": "pending",
-        "elephant_sanctuaries": "pending",
-        "diving_snorkeling": "pending"
+        "cooking-classes": "pending",
+        "muay-thai": "pending",
+        "elephant-sanctuaries": "pending",
+        "diving-snorkeling": "pending"
       },
       "notes": ""
     },
@@ -165,12 +177,12 @@
         "food": "pending",
         "hotels": "pending",
         "attractions": "pending",
-        "best_time_to_visit": "pending",
+        "best-time-to-visit": "pending",
         "budget": "pending",
-        "cooking_classes": "pending",
-        "muay_thai": "pending",
-        "elephant_sanctuaries": "pending",
-        "diving_snorkeling": "pending"
+        "cooking-classes": "pending",
+        "muay-thai": "pending",
+        "elephant-sanctuaries": "pending",
+        "diving-snorkeling": "pending"
       },
       "notes": ""
     },
@@ -181,12 +193,12 @@
         "food": "pending",
         "hotels": "pending",
         "attractions": "pending",
-        "best_time_to_visit": "pending",
+        "best-time-to-visit": "pending",
         "budget": "pending",
-        "cooking_classes": "pending",
-        "muay_thai": "pending",
-        "elephant_sanctuaries": "pending",
-        "diving_snorkeling": "pending"
+        "cooking-classes": "pending",
+        "muay-thai": "pending",
+        "elephant-sanctuaries": "pending",
+        "diving-snorkeling": "pending"
       },
       "notes": ""
     },
@@ -197,12 +209,12 @@
         "food": "pending",
         "hotels": "pending",
         "attractions": "pending",
-        "best_time_to_visit": "pending",
+        "best-time-to-visit": "pending",
         "budget": "pending",
-        "cooking_classes": "pending",
-        "muay_thai": "pending",
-        "elephant_sanctuaries": "pending",
-        "diving_snorkeling": "pending"
+        "cooking-classes": "pending",
+        "muay-thai": "pending",
+        "elephant-sanctuaries": "pending",
+        "diving-snorkeling": "pending"
       },
       "notes": ""
     },
@@ -213,12 +225,12 @@
         "food": "pending",
         "hotels": "pending",
         "attractions": "pending",
-        "best_time_to_visit": "pending",
+        "best-time-to-visit": "pending",
         "budget": "pending",
-        "cooking_classes": "pending",
-        "muay_thai": "pending",
-        "elephant_sanctuaries": "pending",
-        "diving_snorkeling": "pending"
+        "cooking-classes": "pending",
+        "muay-thai": "pending",
+        "elephant-sanctuaries": "pending",
+        "diving-snorkeling": "pending"
       },
       "notes": ""
     },
@@ -229,12 +241,12 @@
         "food": "pending",
         "hotels": "pending",
         "attractions": "pending",
-        "best_time_to_visit": "pending",
+        "best-time-to-visit": "pending",
         "budget": "pending",
-        "cooking_classes": "pending",
-        "muay_thai": "pending",
-        "elephant_sanctuaries": "pending",
-        "diving_snorkeling": "pending"
+        "cooking-classes": "pending",
+        "muay-thai": "pending",
+        "elephant-sanctuaries": "pending",
+        "diving-snorkeling": "pending"
       },
       "notes": ""
     },
@@ -245,12 +257,12 @@
         "food": "pending",
         "hotels": "pending",
         "attractions": "pending",
-        "best_time_to_visit": "pending",
+        "best-time-to-visit": "pending",
         "budget": "pending",
-        "cooking_classes": "pending",
-        "muay_thai": "pending",
-        "elephant_sanctuaries": "pending",
-        "diving_snorkeling": "pending"
+        "cooking-classes": "pending",
+        "muay-thai": "pending",
+        "elephant-sanctuaries": "pending",
+        "diving-snorkeling": "pending"
       },
       "notes": ""
     },
@@ -261,12 +273,12 @@
         "food": "pending",
         "hotels": "pending",
         "attractions": "pending",
-        "best_time_to_visit": "pending",
+        "best-time-to-visit": "pending",
         "budget": "pending",
-        "cooking_classes": "pending",
-        "muay_thai": "pending",
-        "elephant_sanctuaries": "pending",
-        "diving_snorkeling": "pending"
+        "cooking-classes": "pending",
+        "muay-thai": "pending",
+        "elephant-sanctuaries": "pending",
+        "diving-snorkeling": "pending"
       },
       "notes": ""
     },
@@ -277,12 +289,12 @@
         "food": "pending",
         "hotels": "pending",
         "attractions": "pending",
-        "best_time_to_visit": "pending",
+        "best-time-to-visit": "pending",
         "budget": "pending",
-        "cooking_classes": "pending",
-        "muay_thai": "pending",
-        "elephant_sanctuaries": "pending",
-        "diving_snorkeling": "pending"
+        "cooking-classes": "pending",
+        "muay-thai": "pending",
+        "elephant-sanctuaries": "pending",
+        "diving-snorkeling": "pending"
       },
       "notes": ""
     },
@@ -293,12 +305,12 @@
         "food": "pending",
         "hotels": "pending",
         "attractions": "pending",
-        "best_time_to_visit": "pending",
+        "best-time-to-visit": "pending",
         "budget": "pending",
-        "cooking_classes": "pending",
-        "muay_thai": "pending",
-        "elephant_sanctuaries": "pending",
-        "diving_snorkeling": "pending"
+        "cooking-classes": "pending",
+        "muay-thai": "pending",
+        "elephant-sanctuaries": "pending",
+        "diving-snorkeling": "pending"
       },
       "notes": ""
     },
@@ -309,12 +321,12 @@
         "food": "pending",
         "hotels": "pending",
         "attractions": "pending",
-        "best_time_to_visit": "pending",
+        "best-time-to-visit": "pending",
         "budget": "pending",
-        "cooking_classes": "pending",
-        "muay_thai": "pending",
-        "elephant_sanctuaries": "pending",
-        "diving_snorkeling": "pending"
+        "cooking-classes": "pending",
+        "muay-thai": "pending",
+        "elephant-sanctuaries": "pending",
+        "diving-snorkeling": "pending"
       },
       "notes": ""
     },
@@ -325,12 +337,12 @@
         "food": "pending",
         "hotels": "pending",
         "attractions": "pending",
-        "best_time_to_visit": "pending",
+        "best-time-to-visit": "pending",
         "budget": "pending",
-        "cooking_classes": "pending",
-        "muay_thai": "pending",
-        "elephant_sanctuaries": "pending",
-        "diving_snorkeling": "pending"
+        "cooking-classes": "pending",
+        "muay-thai": "pending",
+        "elephant-sanctuaries": "pending",
+        "diving-snorkeling": "pending"
       },
       "notes": ""
     },
@@ -341,12 +353,12 @@
         "food": "pending",
         "hotels": "pending",
         "attractions": "pending",
-        "best_time_to_visit": "pending",
+        "best-time-to-visit": "pending",
         "budget": "pending",
-        "cooking_classes": "pending",
-        "muay_thai": "pending",
-        "elephant_sanctuaries": "pending",
-        "diving_snorkeling": "pending"
+        "cooking-classes": "pending",
+        "muay-thai": "pending",
+        "elephant-sanctuaries": "pending",
+        "diving-snorkeling": "pending"
       },
       "notes": ""
     },
@@ -357,12 +369,12 @@
         "food": "pending",
         "hotels": "pending",
         "attractions": "pending",
-        "best_time_to_visit": "pending",
+        "best-time-to-visit": "pending",
         "budget": "pending",
-        "cooking_classes": "pending",
-        "muay_thai": "pending",
-        "elephant_sanctuaries": "pending",
-        "diving_snorkeling": "pending"
+        "cooking-classes": "pending",
+        "muay-thai": "pending",
+        "elephant-sanctuaries": "pending",
+        "diving-snorkeling": "pending"
       },
       "notes": ""
     },
@@ -373,12 +385,12 @@
         "food": "pending",
         "hotels": "pending",
         "attractions": "pending",
-        "best_time_to_visit": "pending",
+        "best-time-to-visit": "pending",
         "budget": "pending",
-        "cooking_classes": "pending",
-        "muay_thai": "pending",
-        "elephant_sanctuaries": "pending",
-        "diving_snorkeling": "pending"
+        "cooking-classes": "pending",
+        "muay-thai": "pending",
+        "elephant-sanctuaries": "pending",
+        "diving-snorkeling": "pending"
       },
       "notes": ""
     },
@@ -389,12 +401,12 @@
         "food": "pending",
         "hotels": "pending",
         "attractions": "pending",
-        "best_time_to_visit": "pending",
+        "best-time-to-visit": "pending",
         "budget": "pending",
-        "cooking_classes": "pending",
-        "muay_thai": "pending",
-        "elephant_sanctuaries": "pending",
-        "diving_snorkeling": "pending"
+        "cooking-classes": "pending",
+        "muay-thai": "pending",
+        "elephant-sanctuaries": "pending",
+        "diving-snorkeling": "pending"
       },
       "notes": ""
     },
@@ -405,12 +417,12 @@
         "food": "pending",
         "hotels": "pending",
         "attractions": "pending",
-        "best_time_to_visit": "pending",
+        "best-time-to-visit": "pending",
         "budget": "pending",
-        "cooking_classes": "pending",
-        "muay_thai": "pending",
-        "elephant_sanctuaries": "pending",
-        "diving_snorkeling": "pending"
+        "cooking-classes": "pending",
+        "muay-thai": "pending",
+        "elephant-sanctuaries": "pending",
+        "diving-snorkeling": "pending"
       },
       "notes": ""
     },
@@ -421,12 +433,12 @@
         "food": "pending",
         "hotels": "pending",
         "attractions": "pending",
-        "best_time_to_visit": "pending",
+        "best-time-to-visit": "pending",
         "budget": "pending",
-        "cooking_classes": "pending",
-        "muay_thai": "pending",
-        "elephant_sanctuaries": "pending",
-        "diving_snorkeling": "pending"
+        "cooking-classes": "pending",
+        "muay-thai": "pending",
+        "elephant-sanctuaries": "pending",
+        "diving-snorkeling": "pending"
       },
       "notes": ""
     },
@@ -437,12 +449,12 @@
         "food": "pending",
         "hotels": "pending",
         "attractions": "pending",
-        "best_time_to_visit": "pending",
+        "best-time-to-visit": "pending",
         "budget": "pending",
-        "cooking_classes": "pending",
-        "muay_thai": "pending",
-        "elephant_sanctuaries": "pending",
-        "diving_snorkeling": "pending"
+        "cooking-classes": "pending",
+        "muay-thai": "pending",
+        "elephant-sanctuaries": "pending",
+        "diving-snorkeling": "pending"
       },
       "notes": ""
     },
@@ -453,12 +465,12 @@
         "food": "pending",
         "hotels": "pending",
         "attractions": "pending",
-        "best_time_to_visit": "pending",
+        "best-time-to-visit": "pending",
         "budget": "pending",
-        "cooking_classes": "pending",
-        "muay_thai": "pending",
-        "elephant_sanctuaries": "pending",
-        "diving_snorkeling": "pending"
+        "cooking-classes": "pending",
+        "muay-thai": "pending",
+        "elephant-sanctuaries": "pending",
+        "diving-snorkeling": "pending"
       },
       "notes": ""
     },
@@ -469,12 +481,12 @@
         "food": "pending",
         "hotels": "pending",
         "attractions": "pending",
-        "best_time_to_visit": "pending",
+        "best-time-to-visit": "pending",
         "budget": "pending",
-        "cooking_classes": "pending",
-        "muay_thai": "pending",
-        "elephant_sanctuaries": "pending",
-        "diving_snorkeling": "pending"
+        "cooking-classes": "pending",
+        "muay-thai": "pending",
+        "elephant-sanctuaries": "pending",
+        "diving-snorkeling": "pending"
       },
       "notes": ""
     },
@@ -485,12 +497,12 @@
         "food": "pending",
         "hotels": "pending",
         "attractions": "pending",
-        "best_time_to_visit": "pending",
+        "best-time-to-visit": "pending",
         "budget": "pending",
-        "cooking_classes": "pending",
-        "muay_thai": "pending",
-        "elephant_sanctuaries": "pending",
-        "diving_snorkeling": "pending"
+        "cooking-classes": "pending",
+        "muay-thai": "pending",
+        "elephant-sanctuaries": "pending",
+        "diving-snorkeling": "pending"
       },
       "notes": ""
     },
@@ -501,12 +513,12 @@
         "food": "pending",
         "hotels": "pending",
         "attractions": "pending",
-        "best_time_to_visit": "pending",
+        "best-time-to-visit": "pending",
         "budget": "pending",
-        "cooking_classes": "pending",
-        "muay_thai": "pending",
-        "elephant_sanctuaries": "pending",
-        "diving_snorkeling": "pending"
+        "cooking-classes": "pending",
+        "muay-thai": "pending",
+        "elephant-sanctuaries": "pending",
+        "diving-snorkeling": "pending"
       },
       "notes": ""
     },
@@ -517,12 +529,12 @@
         "food": "pending",
         "hotels": "pending",
         "attractions": "pending",
-        "best_time_to_visit": "pending",
+        "best-time-to-visit": "pending",
         "budget": "pending",
-        "cooking_classes": "pending",
-        "muay_thai": "pending",
-        "elephant_sanctuaries": "pending",
-        "diving_snorkeling": "pending"
+        "cooking-classes": "pending",
+        "muay-thai": "pending",
+        "elephant-sanctuaries": "pending",
+        "diving-snorkeling": "pending"
       },
       "notes": ""
     },
@@ -533,12 +545,12 @@
         "food": "pending",
         "hotels": "pending",
         "attractions": "pending",
-        "best_time_to_visit": "pending",
+        "best-time-to-visit": "pending",
         "budget": "pending",
-        "cooking_classes": "pending",
-        "muay_thai": "pending",
-        "elephant_sanctuaries": "pending",
-        "diving_snorkeling": "pending"
+        "cooking-classes": "pending",
+        "muay-thai": "pending",
+        "elephant-sanctuaries": "pending",
+        "diving-snorkeling": "pending"
       },
       "notes": ""
     },
@@ -549,12 +561,12 @@
         "food": "pending",
         "hotels": "pending",
         "attractions": "pending",
-        "best_time_to_visit": "pending",
+        "best-time-to-visit": "pending",
         "budget": "pending",
-        "cooking_classes": "pending",
-        "muay_thai": "pending",
-        "elephant_sanctuaries": "pending",
-        "diving_snorkeling": "pending"
+        "cooking-classes": "pending",
+        "muay-thai": "pending",
+        "elephant-sanctuaries": "pending",
+        "diving-snorkeling": "pending"
       },
       "notes": ""
     },
@@ -565,12 +577,12 @@
         "food": "pending",
         "hotels": "pending",
         "attractions": "pending",
-        "best_time_to_visit": "pending",
+        "best-time-to-visit": "pending",
         "budget": "pending",
-        "cooking_classes": "pending",
-        "muay_thai": "pending",
-        "elephant_sanctuaries": "pending",
-        "diving_snorkeling": "pending"
+        "cooking-classes": "pending",
+        "muay-thai": "pending",
+        "elephant-sanctuaries": "pending",
+        "diving-snorkeling": "pending"
       },
       "notes": ""
     }
