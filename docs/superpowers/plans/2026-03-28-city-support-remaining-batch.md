@@ -29,8 +29,8 @@
 6. Recompute and correct the stored city status after the route-status change
 7. Repeat steps 3-6 for the next not-yet-done route in that city
 8. Once all 9 routes are `done`, run the final full-cluster validation pass, including HTTP `200`, leak-scan, visible-source, and content checks for any intentionally `noindex` routes
-9. If the final full-cluster validation fails, move the failing route back to `in_progress` and correct the city status before continuing
-10. Continue to the next pending city
+9. If the final full-cluster validation fails, keep execution on the same city, move the failing route back to `in_progress`, and do not advance to the next pending city until the city validates cleanly
+10. Only after the final full-cluster validation passes cleanly, continue to the next pending city
 
 ## Validation Commands
 
@@ -78,6 +78,7 @@ for route in food hotels attractions best-time-to-visit budget cooking-classes m
   curl -s "$BASE_URL/city/[slug]/${route}/" > "$html"
   if ! rg -q 'Sources|Source:|Official site|Official website|MICHELIN|UNESCO|Tourism Authority of Thailand|Fine Arts Department' "$html"; then
     echo "missing visible source signal: ${route}"
+    exit 1
   fi
 done
 ```

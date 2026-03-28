@@ -211,7 +211,7 @@ Apply the city-status correction rules exactly:
 - if `execution.next_pending` has drifted away from the first city whose status is not `done`, correct it before starting the next pass
 - if all 9 routes are `done` but the final full-cluster validation pass has not yet succeeded, set the city to `validation_pending`, not `done`
 - when the final full-cluster validation pass succeeds, set the city to `done` and advance `execution.next_pending` to the first city whose status is not `done`
-- if the final full-cluster validation fails for any route, move that route back to `in_progress` and correct the city back to `in_progress`
+- if the final full-cluster validation fails for any route, keep execution on the same city, move that route back to `in_progress`, and do not advance `execution.next_pending` until the city validates cleanly
 - do not leave the city in `pending` once any route is `in_progress` or `done`
 
 ## Local Render Port Convention
@@ -270,6 +270,7 @@ for route in food hotels attractions best-time-to-visit budget cooking-classes m
   curl -s "$BASE_URL/city/[slug]/${route}/" > "/tmp/[slug]-${route}.html"
   if ! rg -q 'Sources|Source:|Official site|Official website|MICHELIN|UNESCO|Tourism Authority of Thailand|Fine Arts Department' "/tmp/[slug]-${route}.html"; then
     echo "missing visible source signal: ${route}"
+    exit 1
   fi
 done
 ```
