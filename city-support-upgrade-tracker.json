@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-03-28T01:15:00.000Z",
+  "updated_at": "2026-03-28T02:10:00.000Z",
   "project": "go2thailand city support cluster upgrade tracker",
   "goal": "Upgrade all English city support clusters to source-backed, non-thin, AdSense-safe, EEAT-oriented pages.",
   "scope": [
@@ -19,7 +19,7 @@
     "rendered English HTML for each route in scope contains no scrape-era review or rating spam",
     "rendered English HTML for each route in scope contains no affiliate-first template leakage that outweighs editorial value",
     "materially unstable claims across the support cluster are web-fact-checked",
-    "visible source-backed trust signals are present on routes whose templates support them",
+    "visible source-backed trust signals are present on routes whose templates support them, confirmed by the workflow validation pattern",
     "internal links kept or added across the support cluster point only to strong destination pages"
   ],
   "execution": {
@@ -40,7 +40,12 @@
       "elephant-sanctuaries",
       "diving-snorkeling"
     ],
-    "route_selection_rule": "Within an in-progress city, work top-to-bottom in route_order_within_city. The next route is the first route in that list whose status is not done."
+    "route_selection_rule": "Within an in-progress city, work top-to-bottom in route_order_within_city. The next route is the first route in that list whose status is not done.",
+    "route_transition_rules": [
+      "pending -> in_progress: set when the route becomes the active route for execution.current_city and editing, source gathering, or validation begins",
+      "in_progress -> done: set only after that route clears route-level validation for status code or intentional noindex, leak checks, visible source-backed trust-signal checks when supported, and indexing-note requirements",
+      "done -> in_progress: set if the final full-cluster validation pass fails for that route before the city is marked done"
+    ]
   },
   "status_rollup": {
     "route_status_values": [
@@ -57,7 +62,9 @@
       "city status pending: all 9 route statuses are pending",
       "city status in_progress: at least 1 route status is in_progress or done, and fewer than 9 route statuses are done",
       "city status done: all 9 route statuses are done",
-      "partial progress is allowed only as city status in_progress; a city must not be marked done while any route status is pending or in_progress"
+      "partial progress is allowed only as city status in_progress; a city must not be marked done while any route status is pending or in_progress",
+      "all 9 route statuses may be done only provisionally until the final full-cluster validation pass succeeds",
+      "if the final full-cluster validation pass fails for any route, the failing route status returns to in_progress and the city status remains in_progress"
     ]
   },
   "cities": [

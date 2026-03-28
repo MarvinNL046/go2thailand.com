@@ -142,13 +142,30 @@ Check whether each route should be:
 
 Do not force indexability onto a weak page, and do not leave `noindex` in place if the page has been upgraded enough to deserve crawling and ranking.
 
+## Route Status Lifecycle
+
+Use route status values deterministically during each city pass:
+
+- `pending`: no active editing or validation has started for that route in the current city pass
+- `in_progress`: the route is the active route for `execution.current_city` and route-level editing, source gathering, or validation has started, but the route has not yet cleared the route-level gates below
+- `done`: the route has cleared all route-level gates below during the current city pass
+
+Apply these transitions exactly:
+
+- move `pending` -> `in_progress` when the city becomes `execution.current_city` and you begin work on that specific route
+- move `in_progress` -> `done` only after the route renders `200` or is intentionally documented as `noindex`, the leak scan is clean, the visible-source gate passes when supported, and the route-specific indexing decision is recorded
+- leave the city `in_progress` until all 9 routes are `done`
+- move the city to `done` only after a final full-cluster validation pass succeeds across all 9 routes in one pass
+- if the final full-cluster validation fails for any route, move that route back to `in_progress` and keep the city `in_progress`
+
 ## Local Render Port Convention
 
-Use `http://127.0.0.1:3010` as the local render base URL in this runbook.
+Choose one `BASE_URL` for the full validation pass.
 
-- Run the app on port `3010` before checking routes.
-- Do not mix `3010` and `3001` inside the same validation pass.
-- If the app is already running on a different port, update the whole pass to that one port consistently before you start the checks, then replace `BASE_URL` in the validation block below once for the full pass.
+- Default example: `BASE_URL=http://127.0.0.1:3010`
+- Run the app on the host and port behind `BASE_URL` before checking routes.
+- Do not mix multiple base URLs inside the same validation pass.
+- If the app is already running on a different host or port, set `BASE_URL` once at the start of the pass and reuse it everywhere below.
 
 ## Validation Gates
 
@@ -182,6 +199,19 @@ curl -s "$BASE_URL/city/[slug]/muay-thai/" | rg -n "TripAdvisor|tp\\.media|revie
 curl -s "$BASE_URL/city/[slug]/elephant-sanctuaries/" | rg -n "TripAdvisor|tp\\.media|review_count|affiliate_url|trip_affiliate_url|current rates|verified hotel data|first-person|I visited|I stayed|our insider|book now"
 curl -s "$BASE_URL/city/[slug]/diving-snorkeling/" | rg -n "TripAdvisor|tp\\.media|review_count|affiliate_url|trip_affiliate_url|current rates|verified hotel data|first-person|I visited|I stayed|our insider|book now"
 ```
+
+Then run the visible source-backed trust-signal check on routes whose templates support visible sources:
+
+```bash
+for route in food hotels attractions best-time-to-visit budget cooking-classes muay-thai elephant-sanctuaries diving-snorkeling; do
+  curl -s "$BASE_URL/city/[slug]/${route}/" > "/tmp/[slug]-${route}.html"
+  if ! rg -q 'Sources|Source:|Official site|Official website|MICHELIN|UNESCO|Tourism Authority of Thailand|Fine Arts Department' "/tmp/[slug]-${route}.html"; then
+    echo "missing visible source signal: ${route}"
+  fi
+done
+```
+
+Treat any `missing visible source signal:` output as a failed gate for that route unless the template for that route does not support visible source presentation yet and that limitation is the shared issue currently being fixed in the same pass. Do not mark that route `done` while the shared template limitation remains unresolved.
 
 If a route is intentionally kept `noindex`, confirm and document it before the city can be marked done:
 
