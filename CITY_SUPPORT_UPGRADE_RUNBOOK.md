@@ -42,6 +42,14 @@ Treat the nine routes as one city-level unit. A city is only `done` when the ful
 
 ## Standard Workflow
 
+### 0. Preflight the tracker before a new pass
+
+Before starting a new city pass, recompute `execution.next_pending` from the first city in `cities[]` whose status is not `done`.
+
+- If the stored value already matches that first non-done city, continue.
+- If the stored value has drifted, correct it before any route work, validation, or status change begins.
+- Do not start a new pass while `execution.next_pending` still points at a city whose status is `done`.
+
 ### 1. Audit the full support cluster
 
 Check:
@@ -142,6 +150,38 @@ Check whether each route should be:
 
 Do not force indexability onto a weak page, and do not leave `noindex` in place if the page has been upgraded enough to deserve crawling and ranking.
 
+### 6. Validate each active route before marking it done
+
+Before you mark a single route `done`, run the route-level validation procedure for that route.
+
+Use one `BASE_URL` for the check and keep the route under test explicit:
+
+```bash
+BASE_URL=http://127.0.0.1:3010
+route=[route]
+html="/tmp/[slug]-${route}.html"
+
+jq empty data/enhanced/[slug].json
+npx tsc --noEmit
+test "$(curl -s -o /dev/null -w '%{http_code}' "$BASE_URL/city/[slug]/${route}/")" = "200"
+curl -s "$BASE_URL/city/[slug]/${route}/" > "$html"
+
+if rg -q "TripAdvisor|tp\\.media|review_count|affiliate_url|trip_affiliate_url|book now|current rates|verified hotel data|I visited|I stayed|our insider|first-person|isAccessibleForFree" "$html"; then
+  echo "dirty leak scan: ${route}"
+  exit 1
+fi
+
+if ! rg -q 'Sources|Source:|Official site|Official website|MICHELIN|UNESCO|Tourism Authority of Thailand|Fine Arts Department' "$html"; then
+  echo "missing visible source signal: ${route}"
+  exit 1
+fi
+```
+
+- A route may move `in_progress -> done` only after this route-level procedure succeeds.
+- If a route is intentionally kept `noindex`, the rendered HTML must still return `200`, the leak scan must stay clean, and the tracker notes must record the decision before the route is marked `done`.
+- The visible-source gate is satisfied when the rendered HTML contains an explicit source signal; if a temporary visible-source exception has already been recorded in the city notes with the exact schema above, treat that gate as temporarily satisfied for the affected route only.
+- A temporary visible-source exception is allowed only when the route's shared template cannot yet render visible source presentation, the route still has source-backed content, and the shared template fix is being applied in the same pass. If used, record it in the city notes before the route is marked `done` as `visible_source_exception: temporary; routes: [route-a, route-b]; reason: [brief rationale]; review_date: YYYY-MM-DD`.
+
 ## Route Status Lifecycle
 
 Use route status values deterministically during each city pass:
@@ -152,8 +192,9 @@ Use route status values deterministically during each city pass:
 
 Apply these transitions exactly:
 
+- before any route work begins for the city selected by `execution.next_pending`, run the preflight rule above and correct `execution.next_pending` if it has drifted
 - when work begins on the city selected by `execution.next_pending`, set the first not-yet-done route in `route_order_within_city` to `in_progress`
-- move `in_progress` -> `done` only after the route renders `200`, the leak scan is clean, the visible-source gate passes when supported, and any required indexing decision is recorded
+- move `in_progress` -> `done` only after the route-level validation procedure above succeeds, including any required indexing decision or temporary visible-source exception recorded in the tracker notes
 - a route that is intentionally kept `noindex` still must render `200` and pass the same technical and content validation; `noindex` changes indexing treatment only, not route health
 - if the route-level validation for any route fails after it was marked `done`, move that route back to `in_progress` immediately
 
@@ -167,6 +208,7 @@ Derive and correct the stored city status from the route statuses after every ro
 Apply the city-status correction rules exactly:
 
 - if the stored city status disagrees with the derived city status, correct the stored value to match the derived value before continuing
+- if `execution.next_pending` has drifted away from the first city whose status is not `done`, correct it before starting the next pass
 - if all 9 routes are `done` but the final full-cluster validation pass has not yet succeeded, set the city to `validation_pending`, not `done`
 - when the final full-cluster validation pass succeeds, set the city to `done` and advance `execution.next_pending` to the first city whose status is not `done`
 - if the final full-cluster validation fails for any route, move that route back to `in_progress` and correct the city back to `in_progress`
@@ -240,6 +282,12 @@ If a route is intentionally kept `noindex`, confirm and document it before the c
 - Confirm the rendered HTML contains a `meta[name="robots"]` tag whose content includes `noindex`, and still confirm the route returns HTTP `200`.
 - Keep the route in the same pass only if it also passes the same leak scan, visible-source checks, and content-quality validation as an indexable route; `noindex` does not relax any route-quality gate.
 - If the tracker note and rendered HTML do not match, treat the route as undecided and do not mark the city done.
+
+If a temporary visible-source exception is used, confirm and document it before the route can be marked done:
+
+- Use the exception only for a route whose shared template cannot yet surface visible source presentation, whose route content is still source-backed, and whose shared template fix is being applied in the same pass.
+- Write the decision in the city support tracker notes as `visible_source_exception: temporary; routes: [route-a, route-b]; reason: [brief rationale]; review_date: YYYY-MM-DD`. Do not record the exception for routes whose template already supports visible source presentation.
+- Keep the route in the same pass only if it still passes the route-level validation procedure above and the exception is temporary, scoped, and review-dated.
 
 Mark a city `done` only if all of these are true:
 
