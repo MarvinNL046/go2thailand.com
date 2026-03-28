@@ -12,6 +12,7 @@
 - If `execution.next_pending` is empty, the workflow is complete; otherwise keep `execution.next_pending` set to the first city whose status is not `done`
 - Update tracker statuses deterministically: set a route to `in_progress` when it becomes the active route for the city selected by `execution.next_pending`; set it to `done` only after its route-level validation passes; if the final full-cluster validation fails for that route, move it back to `in_progress`
 - If all 9 routes are `done` but the final full-cluster validation pass has not yet succeeded, set the city status to `validation_pending`
+- When the final full-cluster validation pass succeeds, set the city status to `done` and advance `execution.next_pending` to the first city whose status is not `done`
 - Recompute the stored city status from the route-status rollup after every route-status change and correct any stale stored value before continuing
 - Record intentional `noindex` decisions during execution in tracker notes using this exact schema: `indexing_decision: noindex; routes: [route-a, route-b]; reason: [brief rationale]; review_date: YYYY-MM-DD`; do not record indexing decisions for routes intended to remain indexable; a `noindex` route still must return HTTP `200` and pass the same technical/content validation as an indexable route; only mark a city `done` after the full support cluster passes validation
 

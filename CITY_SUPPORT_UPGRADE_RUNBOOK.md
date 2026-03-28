@@ -168,6 +168,7 @@ Apply the city-status correction rules exactly:
 
 - if the stored city status disagrees with the derived city status, correct the stored value to match the derived value before continuing
 - if all 9 routes are `done` but the final full-cluster validation pass has not yet succeeded, set the city to `validation_pending`, not `done`
+- when the final full-cluster validation pass succeeds, set the city to `done` and advance `execution.next_pending` to the first city whose status is not `done`
 - if the final full-cluster validation fails for any route, move that route back to `in_progress` and correct the city back to `in_progress`
 - do not leave the city in `pending` once any route is `in_progress` or `done`
 

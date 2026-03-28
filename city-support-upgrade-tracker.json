@@ -14,7 +14,7 @@
     "/city/[slug]/diving-snorkeling/"
   ],
   "done_definition": [
-    "each of the 9 support routes in scope renders 200, or is intentionally kept noindex with strong non-thin content",
+    "each of the 9 support routes in scope renders 200, including any route intentionally kept noindex",
     "rendered English HTML for each route in scope contains no stale first-person AI copy",
     "rendered English HTML for each route in scope contains no scrape-era review or rating spam",
     "rendered English HTML for each route in scope contains no affiliate-first template leakage that outweighs editorial value",
@@ -44,6 +44,7 @@
       "pending -> in_progress: set when the route becomes the active route for the city selected by execution.next_pending and editing, source gathering, or validation begins",
       "in_progress -> done: set only after that route clears route-level validation for status code or intentional noindex, leak checks, visible source-backed trust-signal checks when supported, and indexing-note requirements",
       "done -> in_progress: set immediately if route-level validation later fails during the final full-cluster pass",
+      "when the final full-cluster validation pass succeeds for a city, set the city to done and advance execution.next_pending to the first city whose status is not done",
       "route-status changes must trigger a city-status recomputation from the derived rollup rules; if the stored city status disagrees with the derived city status, correct it before continuing"
     ]
   },
