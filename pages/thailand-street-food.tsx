@@ -38,15 +38,23 @@ type SpiceFilter = 'all' | 'mild' | 'medium' | 'hot';
 const FAQ_ITEMS = [
   {
     question: 'Is Thai street food safe to eat?',
-    answer: 'Yes, Thai street food is generally safe. Look for stalls with high turnover (long queues of local customers mean fresh food). Avoid pre-cooked dishes sitting out in the sun. Stick to vendors that cook to order. Drink bottled water and ask for ice only at established restaurants. Bangkok, Chiang Mai, and tourist areas have excellent food safety standards for street vendors. In over a decade of eating Thai street food, the \"queue of locals\" rule has never steered me wrong.'
+    answer: 'Thai street food is generally safe when you follow the same logic locals use: eat where Thai people are eating, prefer stalls that cook to order, and avoid anything that has been sitting in the sun for hours. High turnover is the most reliable signal — a stall moving 200 bowls between 11 AM and 2 PM is refreshing ingredients constantly. Stick to bottled water; ask for ice only at established stalls or in a sealed bag format. Bangkok, Chiang Mai, and other urban centres have active street food vendor oversight from municipal health departments.'
   },
   {
     question: 'How much does Thai street food cost in 2026?',
-    answer: 'Most street food dishes cost 40-80 THB ($1.20-$2.40 USD). Budget items like moo ping skewers or satay sticks are 5-20 THB each. A full day of eating street food costs roughly 150-300 THB ($4.50-$9 USD) in local neighborhoods. Tourist zones like Khao San Road, Sukhumvit, and Patong Beach charge 50-100% more. Food inflation in 2026 is around 0.92% year-over-year, keeping street food among the world\'s best food bargains.'
+    answer: 'Most dishes cost 40-80 THB (roughly $1.10-$2.30 USD). Individual snacks — a moo ping skewer, a satay stick, a portion of sai krok sausage — are 5-20 THB each. A full day of street food eating, covering breakfast, lunch, afternoon snack, and dinner, costs around 150-300 THB ($4.50-$9 USD) in local neighbourhoods. Tourist concentrations including Khao San Road, Sukhumvit Soi 11, and Patong Beach typically price 50-100% higher. MICHELIN Bib Gourmand stalls — some of which have been operating for 50-90 years — serve at the same price band as ordinary street vendors.'
   },
   {
     question: 'What Thai street food should I try first?',
-    answer: 'Start mild and work your way up. Pad Thai (40-80 THB) and Khao Mun Gai/chicken rice (40-60 THB) are the safest bets — flavorful but not spicy. For dessert, mango sticky rice (50-80 THB) is universally loved. Once comfortable, try Pad Kra Pao (basil stir-fry) with a fried egg — it is what Thais eat every day. If you handle heat well, order som tam (papaya salad) with 2 chilies to start. Boat noodles at Victory Monument are a unique Bangkok experience at 10-15 THB per tiny bowl.'
+    answer: 'Start with dishes that have no heat: pad thai (40-80 THB), khao mun gai chicken rice (40-60 THB), or moo ping grilled pork skewers with sticky rice (30-50 THB for a set). For dessert, mango sticky rice is the universal first experience — Kor Panich on Tanao Road in Bangkok, operating since 1932 and holding a MICHELIN Bib Gourmand, is the definitive address. Once calibrated to the flavours, try pad kra pao (holy basil stir-fry with fried egg) — this is what most Thais eat for lunch daily. For heat, order som tam with two chilies (prik song met) and increase from there. Boat noodles at Victory Monument are a specifically Bangkok experience worth prioritising.'
+  },
+  {
+    question: 'Which Bangkok street food areas are best?',
+    answer: 'Yaowarat Road (Chinatown) is Bangkok\'s richest street food zone — after 5 PM, the road partially closes and vendors set up a large market along both sides. Specialties include seafood grills, oyster omelettes (hoy tod), guay jub noodle soup, pad thai, and dim sum. The Tourism Authority of Thailand specifically highlights Guay Jub Ouan Pochana (50+ years, MICHELIN Bib Gourmand) at No. 408 Yaowarat Road. The Victory Monument area is best for Isan food: boat noodles, som tam, gai yang grilled chicken, and fermented sausage. Chatuchak Weekend Market (35 acres, 15,000+ stalls, Saturday-Sunday only) concentrates coconut ice cream, fresh fruit shakes, grilled meats, and Thai desserts in one place.'
+  },
+  {
+    question: 'What did UNESCO say about Thai street food?',
+    answer: 'In December 2024, UNESCO inscribed Tom Yum Kung (tom yum goong) on its Representative List of the Intangible Cultural Heritage of Humanity — the first Thai dish to receive this status, and Thailand\'s fifth item on the list overall (joining Khon masked dance, traditional Thai massage, Nora dance drama, and Songkran). UNESCO\'s documentation describes the dish\'s origin in the Buddhist riverside communities of Central Thailand\'s Chao Phraya basin, where freshwater prawns were the preferred protein and the aromatic herbs (lemongrass, galangal, kaffir lime) were valued for medicinal properties. The first written recipe dates to 1888. Source: ich.unesco.org/en/RL/tomyum-kung-01879'
   }
 ];
 
@@ -203,13 +211,13 @@ export default function ThailandStreetFood({ data }: StreetFoodProps) {
                 {data.title}
               </h1>
               <p className="text-xl lg:text-2xl mb-6 max-w-3xl mx-auto opacity-90">
-                From Bangkok&apos;s sois to Chiang Mai&apos;s night markets — every dish you need to try
+                Yaowarat, Chiang Mai Night Bazaar, Chatuchak — with MICHELIN Bib Gourmand picks and UNESCO heritage context
               </p>
               <div className="flex flex-wrap justify-center gap-4 text-sm font-medium opacity-80">
                 <span className="bg-white/20 px-4 py-2 rounded-full">25 dishes</span>
-                <span className="bg-white/20 px-4 py-2 rounded-full">Real 2026 prices</span>
-                <span className="bg-white/20 px-4 py-2 rounded-full">Where to find them</span>
-                <span className="bg-white/20 px-4 py-2 rounded-full">Spice levels rated</span>
+                <span className="bg-white/20 px-4 py-2 rounded-full">MICHELIN Bib Gourmand picks</span>
+                <span className="bg-white/20 px-4 py-2 rounded-full">UNESCO heritage context</span>
+                <span className="bg-white/20 px-4 py-2 rounded-full">Real vendor addresses</span>
               </div>
             </div>
           </div>
@@ -226,6 +234,153 @@ export default function ThailandStreetFood({ data }: StreetFoodProps) {
         <section className="bg-white py-8 border-b">
           <div className="max-w-4xl mx-auto px-4 sm:px-6 lg:px-8">
             <p className="text-lg text-gray-700 leading-relaxed">{data.intro}</p>
+          </div>
+        </section>
+
+        {/* UNESCO + MICHELIN Context Banner */}
+        <section className="bg-thailand-gold/10 border-y border-thailand-gold/30 py-6">
+          <div className="max-w-4xl mx-auto px-4 sm:px-6 lg:px-8">
+            <div className="grid sm:grid-cols-2 gap-4">
+              <div className="flex items-start gap-3">
+                <div className="bg-white rounded-full p-2 flex-shrink-0 shadow-sm">
+                  <svg className="w-5 h-5 text-thailand-gold" fill="currentColor" viewBox="0 0 20 20">
+                    <path d="M9.049 2.927c.3-.921 1.603-.921 1.902 0l1.07 3.292a1 1 0 00.95.69h3.462c.969 0 1.371 1.24.588 1.81l-2.8 2.034a1 1 0 00-.364 1.118l1.07 3.292c.3.921-.755 1.688-1.54 1.118l-2.8-2.034a1 1 0 00-1.175 0l-2.8 2.034c-.784.57-1.838-.197-1.539-1.118l1.07-3.292a1 1 0 00-.364-1.118L2.98 8.72c-.783-.57-.38-1.81.588-1.81h3.461a1 1 0 00.951-.69l1.07-3.292z" />
+                  </svg>
+                </div>
+                <div>
+                  <p className="font-semibold text-gray-900 text-sm">UNESCO Heritage Dish</p>
+                  <p className="text-gray-600 text-xs mt-0.5">Tom Yum Kung was inscribed on UNESCO&apos;s Intangible Cultural Heritage list in December 2024 — Thailand&apos;s first dish to receive the designation. Source: <a href="https://ich.unesco.org/en/RL/tomyum-kung-01879" target="_blank" rel="noopener noreferrer" className="underline">ich.unesco.org</a></p>
+                </div>
+              </div>
+              <div className="flex items-start gap-3">
+                <div className="bg-white rounded-full p-2 flex-shrink-0 shadow-sm">
+                  <svg className="w-5 h-5 text-red-600" fill="currentColor" viewBox="0 0 20 20">
+                    <path fillRule="evenodd" d="M6 2a1 1 0 00-1 1v1H4a2 2 0 00-2 2v10a2 2 0 002 2h12a2 2 0 002-2V6a2 2 0 00-2-2h-1V3a1 1 0 10-2 0v1H7V3a1 1 0 00-1-1zm0 5a1 1 0 000 2h8a1 1 0 100-2H6z" clipRule="evenodd" />
+                  </svg>
+                </div>
+                <div>
+                  <p className="font-semibold text-gray-900 text-sm">MICHELIN Bib Gourmand: 137 venues</p>
+                  <p className="text-gray-600 text-xs mt-0.5">The 2026 MICHELIN Guide Thailand Bib Gourmand selection covers 137 dining venues across Bangkok, Chiang Mai, Phuket, and beyond. Several are 50–90-year-old street stalls. Source: <a href="https://guide.michelin.com/en/th/bangkok-region/bangkok/restaurants/bib-gourmand" target="_blank" rel="noopener noreferrer" className="underline">guide.michelin.com</a></p>
+                </div>
+              </div>
+            </div>
+          </div>
+        </section>
+
+        {/* Location Spotlights */}
+        <section className="bg-surface-cream py-12 border-b">
+          <div className="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8">
+            <p className="section-label text-center">Where to Eat</p>
+            <h2 className="text-3xl font-bold font-heading text-gray-900 mb-8 text-center">
+              Three Essential Street Food Areas
+            </h2>
+            <div className="grid md:grid-cols-3 gap-6">
+
+              {/* Yaowarat */}
+              <div className="bg-white rounded-2xl shadow-md overflow-hidden">
+                <div className="bg-gradient-to-r from-red-800 to-red-900 px-6 py-5">
+                  <p className="text-red-200 text-xs font-semibold uppercase tracking-wider mb-1">Bangkok</p>
+                  <h3 className="text-xl font-bold text-white font-heading">Yaowarat Road</h3>
+                  <p className="text-red-200 text-sm mt-1">Chinatown — Bangkok&apos;s best food street</p>
+                </div>
+                <div className="p-6 space-y-4">
+                  <p className="text-gray-700 text-sm leading-relaxed">
+                    Yaowarat Road anchors Bangkok&apos;s Chinatown, the largest in Southeast Asia. From 5 PM each evening, vendors close traffic lanes and extend their stalls along both sides of the road. Seafood grills, oyster omelettes, pad thai over charcoal, and guay jub noodle soup operate side by side until well past midnight.
+                  </p>
+                  <div className="space-y-2">
+                    <p className="text-xs font-semibold text-gray-500 uppercase tracking-wide">Notable Addresses</p>
+                    <ul className="space-y-1.5 text-sm text-gray-700">
+                      <li className="flex items-start gap-2">
+                        <span className="text-red-600 font-bold flex-shrink-0">&#9679;</span>
+                        <span><strong>Guay Jub Ouan Pochana</strong> — No. 408 Yaowarat Rd. 50+ years, MICHELIN Bib Gourmand. Peppery rolled noodle soup.</span>
+                      </li>
+                      <li className="flex items-start gap-2">
+                        <span className="text-red-600 font-bold flex-shrink-0">&#9679;</span>
+                        <span><strong>Nai Mong Hoy Tod</strong> — 30+ years, the benchmark oyster omelette. Ask for &apos;tod krop&apos;.</span>
+                      </li>
+                      <li className="flex items-start gap-2">
+                        <span className="text-red-600 font-bold flex-shrink-0">&#9679;</span>
+                        <span><strong>T&amp;K Seafood</strong> — Long-running seafood grill and tom yum goong specialist on Yaowarat.</span>
+                      </li>
+                      <li className="flex items-start gap-2">
+                        <span className="text-red-600 font-bold flex-shrink-0">&#9679;</span>
+                        <span><strong>Pa Tong Go Savoey</strong> — MICHELIN Bib Gourmand for Chinese doughnuts (pa tong go) with pandan custard.</span>
+                      </li>
+                    </ul>
+                  </div>
+                  <p className="text-xs text-gray-400 mt-2">Source: <a href="https://www.tourismthailand.org/Articles/top-5-street-food-restaurants-in-yaowarat-to-turn-your-hunger-into-happiness" target="_blank" rel="noopener noreferrer" className="underline hover:text-gray-600">Tourism Authority of Thailand</a>, <a href="https://guide.michelin.com/en/th/bangkok-region/bangkok/restaurants/bib-gourmand" target="_blank" rel="noopener noreferrer" className="underline hover:text-gray-600">MICHELIN Guide Thailand</a></p>
+                </div>
+              </div>
+
+              {/* Chiang Mai Night Bazaar */}
+              <div className="bg-white rounded-2xl shadow-md overflow-hidden">
+                <div className="bg-gradient-to-r from-amber-700 to-amber-800 px-6 py-5">
+                  <p className="text-amber-200 text-xs font-semibold uppercase tracking-wider mb-1">Chiang Mai</p>
+                  <h3 className="text-xl font-bold text-white font-heading">Night Bazaar</h3>
+                  <p className="text-amber-200 text-sm mt-1">Chang Klan Road — Northern Thai specialties</p>
+                </div>
+                <div className="p-6 space-y-4">
+                  <p className="text-gray-700 text-sm leading-relaxed">
+                    The Night Bazaar on Chang Klan Road began as a gathering point for Chinese merchants and local traders. Today it runs 5 PM to 11 PM along several blocks, combining craft stalls with street food vendors focused on Northern Thai specialties unavailable in Bangkok. It is the most accessible single location for Northern cuisine.
+                  </p>
+                  <div className="space-y-2">
+                    <p className="text-xs font-semibold text-gray-500 uppercase tracking-wide">What to Order</p>
+                    <ul className="space-y-1.5 text-sm text-gray-700">
+                      <li className="flex items-start gap-2">
+                        <span className="text-amber-600 font-bold flex-shrink-0">&#9679;</span>
+                        <span><strong>Khao Soi</strong> — Coconut curry egg noodle soup; the Northern Thai signature dish. Khao Soi Lung Prakit Kad Kom nearby holds a MICHELIN Bib Gourmand.</span>
+                      </li>
+                      <li className="flex items-start gap-2">
+                        <span className="text-amber-600 font-bold flex-shrink-0">&#9679;</span>
+                        <span><strong>Sai Oua</strong> — Northern herbal pork sausage. Aromatic from fresh curry paste, lemongrass, and kaffir lime.</span>
+                      </li>
+                      <li className="flex items-start gap-2">
+                        <span className="text-amber-600 font-bold flex-shrink-0">&#9679;</span>
+                        <span><strong>Nam Ngiew</strong> — Northern pork and tomato noodle soup with Shan-Burmese influence.</span>
+                      </li>
+                      <li className="flex items-start gap-2">
+                        <span className="text-amber-600 font-bold flex-shrink-0">&#9679;</span>
+                        <span><strong>Mango Sticky Rice &amp; Satay</strong> — Available throughout; quality is reliable in the bazaar food zone.</span>
+                      </li>
+                    </ul>
+                  </div>
+                  <p className="text-xs text-gray-400 mt-2">Hours: approx. 5 PM–11 PM daily. Source: <a href="https://chiangmaihub.com/chiang-mai-night-bazaar/" target="_blank" rel="noopener noreferrer" className="underline hover:text-gray-600">chiangmaihub.com</a></p>
+                </div>
+              </div>
+
+              {/* Chatuchak */}
+              <div className="bg-white rounded-2xl shadow-md overflow-hidden">
+                <div className="bg-gradient-to-r from-green-700 to-green-800 px-6 py-5">
+                  <p className="text-green-200 text-xs font-semibold uppercase tracking-wider mb-1">Bangkok</p>
+                  <h3 className="text-xl font-bold text-white font-heading">Chatuchak Weekend Market</h3>
+                  <p className="text-green-200 text-sm mt-1">35 acres, 15,000+ stalls, Sat–Sun 9 AM–6 PM</p>
+                </div>
+                <div className="p-6 space-y-4">
+                  <p className="text-gray-700 text-sm leading-relaxed">
+                    Chatuchak is the largest weekend market in Thailand — 35 acres, over 15,000 stalls, and more than 200,000 weekly visitors (Tourism Authority of Thailand). For street food, concentrate on the interior food lanes and the perimeter. Arrive by 9 AM; by noon the heat and crowds are significant. MRT to Chatuchak Park (Exit 1) or Kamphaeng Phet (Exit 2).
+                  </p>
+                  <div className="space-y-2">
+                    <p className="text-xs font-semibold text-gray-500 uppercase tracking-wide">Key Food Stops</p>
+                    <ul className="space-y-1.5 text-sm text-gray-700">
+                      <li className="flex items-start gap-2">
+                        <span className="text-green-600 font-bold flex-shrink-0">&#9679;</span>
+                        <span><strong>Coco JJ</strong> — Section 1, Lane 36. Coconut ice cream in a coconut shell. Operating since 2008, one of the market&apos;s most recognised dessert stalls.</span>
+                      </li>
+                      <li className="flex items-start gap-2">
+                        <span className="text-green-600 font-bold flex-shrink-0">&#9679;</span>
+                        <span><strong>Mango Sticky Rice carts</strong> — Multiple vendors throughout the food section; quality is seasonal (best April–June).</span>
+                      </li>
+                      <li className="flex items-start gap-2">
+                        <span className="text-green-600 font-bold flex-shrink-0">&#9679;</span>
+                        <span><strong>Grilled pork &amp; fried chicken</strong> — Moo ping and gai tod stalls are scattered throughout the market perimeter.</span>
+                      </li>
+                    </ul>
+                  </div>
+                  <p className="text-xs text-gray-400 mt-2">Source: <a href="https://www.tourismthailand.org/Attraction/chatuchak-weekend-market" target="_blank" rel="noopener noreferrer" className="underline hover:text-gray-600">Tourism Authority of Thailand</a></p>
+                </div>
+              </div>
+
+            </div>
           </div>
         </section>
 
@@ -462,6 +617,47 @@ export default function ThailandStreetFood({ data }: StreetFoodProps) {
                 </details>
               ))}
             </div>
+          </div>
+        </section>
+
+        {/* Sources */}
+        <section className="py-10 bg-surface-cream border-t">
+          <div className="max-w-4xl mx-auto px-4 sm:px-6 lg:px-8">
+            <h2 className="text-xl font-bold font-heading text-gray-900 mb-4">Sources &amp; References</h2>
+            <ul className="space-y-2 text-sm text-gray-600">
+              <li>
+                <a href="https://ich.unesco.org/en/RL/tomyum-kung-01879" target="_blank" rel="noopener noreferrer" className="text-thailand-blue hover:underline font-medium">UNESCO — Tom Yum Kung Intangible Cultural Heritage inscription (ich.unesco.org)</a>
+                <span className="text-gray-400 ml-2">— December 2024</span>
+              </li>
+              <li>
+                <a href="https://guide.michelin.com/en/th/bangkok-region/bangkok/restaurants/bib-gourmand" target="_blank" rel="noopener noreferrer" className="text-thailand-blue hover:underline font-medium">MICHELIN Guide Thailand — Bangkok Bib Gourmand listings (guide.michelin.com)</a>
+                <span className="text-gray-400 ml-2">— 2026 selection, 137 venues</span>
+              </li>
+              <li>
+                <a href="https://www.tourismthailand.org/Articles/top-5-street-food-restaurants-in-yaowarat-to-turn-your-hunger-into-happiness" target="_blank" rel="noopener noreferrer" className="text-thailand-blue hover:underline font-medium">Tourism Authority of Thailand — Top street food in Yaowarat (tourismthailand.org)</a>
+              </li>
+              <li>
+                <a href="https://www.tourismthailand.org/Attraction/chatuchak-weekend-market" target="_blank" rel="noopener noreferrer" className="text-thailand-blue hover:underline font-medium">Tourism Authority of Thailand — Chatuchak Weekend Market (tourismthailand.org)</a>
+              </li>
+              <li>
+                <a href="https://www.smithsonianmag.com/travel/the-surprising-history-of-pad-thai-180984625/" target="_blank" rel="noopener noreferrer" className="text-thailand-blue hover:underline font-medium">Smithsonian Magazine — The Surprising History of Pad Thai (smithsonianmag.com)</a>
+              </li>
+              <li>
+                <a href="https://en.wikipedia.org/wiki/Green_papaya_salad" target="_blank" rel="noopener noreferrer" className="text-thailand-blue hover:underline font-medium">Wikipedia — Green papaya salad / Som Tam origin and spread</a>
+              </li>
+              <li>
+                <a href="https://en.wikipedia.org/wiki/Satay" target="_blank" rel="noopener noreferrer" className="text-thailand-blue hover:underline font-medium">Wikipedia — Satay origin and Southeast Asian culinary history</a>
+              </li>
+              <li>
+                <a href="https://guide.michelin.com/en/article/features/decoding-the-delicious-som-tam" target="_blank" rel="noopener noreferrer" className="text-thailand-blue hover:underline font-medium">MICHELIN Guide — Decoding Som Tam: Thailand&apos;s papaya salad (guide.michelin.com)</a>
+              </li>
+              <li>
+                <a href="https://www.khaosodenglish.com/life/food/2024/12/05/tom-yum-kung-thailands-iconic-soup-achieves-unesco-heritage-status/" target="_blank" rel="noopener noreferrer" className="text-thailand-blue hover:underline font-medium">Khaosod English — Tom Yum Kung achieves UNESCO Heritage Status (khaosodenglish.com)</a>
+              </li>
+              <li>
+                <a href="https://chiangmaihub.com/chiang-mai-night-bazaar/" target="_blank" rel="noopener noreferrer" className="text-thailand-blue hover:underline font-medium">Chiang Mai Hub — Night Bazaar guide (chiangmaihub.com)</a>
+              </li>
+            </ul>
           </div>
         </section>
 

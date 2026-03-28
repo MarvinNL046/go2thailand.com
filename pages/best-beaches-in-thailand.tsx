@@ -44,28 +44,40 @@ type FilterCategory = 'all' | 'families' | 'snorkeling' | 'party' | 'relaxation'
 
 const SOURCE_LINKS = [
   {
-    label: 'Tourism Authority of Thailand: 20 crystal-clear water and beaches of Thailand',
-    href: 'https://tourismproduct.tourismthailand.org/en/2023/01/27/20-crystal-clear-water-and-beaches-of-thailand/'
+    label: 'Tourism Authority of Thailand: Krabi province (Railay Beach, Ao Nang)',
+    href: 'https://www.tourismthailand.org/Destinations/Provinces/Krabi/344'
+  },
+  {
+    label: 'Tourism Authority of Thailand: Railay Beach attraction page',
+    href: 'https://www.tourismthailand.org/Attraction/railay-beach'
+  },
+  {
+    label: 'Tourism Authority of Thailand: Ao Nang attraction page',
+    href: 'https://www.tourismthailand.org/Attraction/ao-nang'
   },
   {
     label: 'Tourism Authority of Thailand: Phuket province',
     href: 'https://www.tourismthailand.org/Destinations/Provinces/phuket/350'
   },
   {
-    label: 'Tourism Authority of Thailand: Ko Samui',
+    label: 'Tourism Authority of Thailand: Ko Samui (Lamai Beach)',
     href: 'https://www.tourismthailand.org/Destinations/Provinces/Ko-Samui/360'
   },
   {
-    label: 'Tourism Authority of Thailand: Ko Phi Phi',
+    label: 'Tourism Authority of Thailand: Ko Phi Phi (Maya Bay)',
     href: 'https://www.tourismthailand.org/Destinations/Provinces/Ko-Phi-Phi/359'
   },
   {
-    label: 'Tourism Authority of Thailand: Ko Tao',
-    href: 'https://www.tourismthailand.org/Destinations/Provinces/ko-tao/361'
+    label: 'Tourism Authority of Thailand: Ko Chang (White Sand Beach)',
+    href: 'https://www.tourismthailand.org/Destinations/Provinces/Ko%20Chang/467'
   },
   {
-    label: 'Tourism Authority of Thailand: Ko Chang',
-    href: 'https://www.tourismthailand.org/Destinations/Provinces/Ko%20Chang/467'
+    label: 'Tourism Authority of Thailand: Tarutao National Park (Koh Lipe, Sunrise Beach)',
+    href: 'https://www.tourismthailand.org/Attraction/tarutao-national-park'
+  },
+  {
+    label: 'Thailand Department of National Parks: Maya Bay closure and reopening',
+    href: 'https://thailand.prd.go.th/en/content/category/detail/id/2078/iid/220232'
   }
 ];
 
@@ -327,8 +339,9 @@ export default function BestBeachesInThailand({ data }: BestBeachesProps) {
               </p>
               <div className="flex flex-wrap gap-3 mt-8 text-sm">
                 <span className="bg-white/15 rounded-full px-4 py-2">25 beaches</span>
-                <span className="bg-white/15 rounded-full px-4 py-2">10 island bases</span>
-                <span className="bg-white/15 rounded-full px-4 py-2">Reviewed March 28, 2026</span>
+                <span className="bg-white/15 rounded-full px-4 py-2">2 coastlines</span>
+                <span className="bg-white/15 rounded-full px-4 py-2">Sources: TAT, Thailand DNP</span>
+                <span className="bg-white/15 rounded-full px-4 py-2">Updated March 28, 2026</span>
               </div>
             </div>
           </div>
@@ -507,8 +520,8 @@ export default function BestBeachesInThailand({ data }: BestBeachesProps) {
             <div className="rounded-3xl bg-white p-6 md:p-8 shadow-sm">
               <p className="text-gray-700 leading-relaxed mb-5">
                 {lang === 'nl'
-                  ? 'Deze pagina is herschreven als redactionele shortlist en op 28 maart 2026 handmatig gecontroleerd tegen officiële TAT-bestemmingspagina\'s en TAT\'s strandoverzicht. Seizoens- en transportdetails zijn bewust algemeen gehouden wanneer precieze operationele claims te snel veranderen.'
-                  : 'This page was rebuilt as an editorial shortlist and manually reviewed on March 28, 2026 against official TAT destination pages and TAT\'s beach roundup. Seasonality and access notes are intentionally durable where precise operational details change quickly.'}
+                  ? 'Deze pagina is op 28 maart 2026 handmatig gecontroleerd en herschreven aan de hand van officiële TAT-bestemmingspagina\'s (Krabi, Phuket, Ko Samui, Ko Phi Phi, Ko Chang), de officiële TAT-attractiepagina\'s voor Railay Beach en Ao Nang, de TAT Tarutao National Park-pagina en de aankondiging van Thailand\'s Department of National Parks over de heropening van Maya Bay. Maya Bay-bezoekersslimieten en tarieven zijn bevestigd via de aankondiging van het Thaise Government Public Relations Department (1 oktober 2022 heropening). Seizoensgebonden en transportdetails zijn bewust duurzaam gehouden voor claims die snel veranderen.'
+                  : 'This page was manually reviewed and rewritten on March 28, 2026 against official TAT destination pages for Krabi, Phuket, Ko Samui, Ko Phi Phi, and Ko Chang; TAT attraction pages for Railay Beach and Ao Nang; the TAT Tarutao National Park page; and Thailand\'s Department of National Parks announcement on Maya Bay\'s reopening. Maya Bay visitor management rules and fees are confirmed via the Thailand Government Public Relations Department announcement (1 October 2022 reopening). Seasonality and transport notes are intentionally stable where operational details change quickly.'}
               </p>
               <ul className="space-y-3">
                 {SOURCE_LINKS.map(source => (

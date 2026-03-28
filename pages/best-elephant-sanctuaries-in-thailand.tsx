@@ -63,25 +63,29 @@ export default function BestElephantSanctuariesPage({ cities, topSanctuaries }: 
     { name: 'Best Elephant Sanctuaries in Thailand', href: '/best-elephant-sanctuaries-in-thailand/' }
   ];
 
-  const title = 'Best Elephant Sanctuaries in Thailand 2026 — Ethical Visits';
-  const description = 'Compare 80+ ethical elephant sanctuaries in Chiang Mai, Phuket and Krabi. Feeding, bathing and care programs from $18. Reviews and booking links.';
+  const title = 'Best Ethical Elephant Sanctuaries in Thailand 2026 — No Riding, No Hooks';
+  const description = 'The complete guide to ethical elephant sanctuaries in Thailand. Elephant Nature Park, Boon Lott\'s, Elephant Jungle Sanctuary — no riding, no shows, genuine rescue and conservation.';
 
   const faqItems = [
     {
-      q: 'Where is the best place to visit an elephant sanctuary in Thailand?',
-      a: 'Chiang Mai is the best destination for elephant sanctuaries in Thailand, with 50+ ethical programs to choose from. The surrounding mountains provide a natural jungle setting, and prices start from just EUR21. Phuket is a close second with diverse programs including beach walks with elephants.'
+      q: 'Where is the best place to visit an ethical elephant sanctuary in Thailand?',
+      a: 'Chiang Mai is the top destination, home to Elephant Nature Park — the gold standard of elephant conservation in Asia, founded by Lek Chailert and the Save Elephant Foundation. The surrounding Doi Inthanon highlands provide a natural rainforest setting for rescued elephants to roam free. Phuket Elephant Sanctuary and sanctuaries in Krabi are strong options in the south.'
     },
     {
       q: 'How much does an elephant sanctuary visit cost in Thailand?',
-      a: 'Elephant sanctuary visits range from EUR18 for a quick feeding session in Krabi to EUR105 for a 2-day overnight homestay in Chiang Mai. Most popular half-day programs cost between EUR40-70 and include hotel transfers, feeding, bathing, and a meal.'
+      a: 'Ethical sanctuary visits range from EUR18 for a short feeding session in Krabi to EUR105 for a 2-day volunteer homestay in Chiang Mai. Most reputable half-day programs cost EUR40–70 and include hotel transfers, elephant feeding, walking with the herd, and a vegetarian Thai lunch.'
     },
     {
-      q: 'Are elephant sanctuaries in Thailand ethical?',
-      a: 'The sanctuaries listed here follow no-riding, ethical care policies. Look for programs certified by booking platforms, with explicit no-riding policies, and that focus on feeding, bathing, and observing elephants in their natural habitat rather than performing tricks.'
+      q: 'What makes an elephant sanctuary truly ethical?',
+      a: 'Genuine ethical sanctuaries follow strict welfare standards: no riding, no bull hooks, no chains, no performing tricks, and no direct bathing that stresses the elephants. Look for sanctuaries endorsed or rated by World Animal Protection. Boon Lott\'s Elephant Sanctuary (BLES) near Sukhothai was one of the first facilities in Thailand to adopt a fully hands-off observation model. Elephant Nature Park rescues elephants from logging camps, street begging, and abusive tourist camps.'
     },
     {
       q: 'Do elephant sanctuaries include hotel transfers?',
-      a: 'Yes, almost all elephant sanctuary programs in Thailand include hotel pickup and drop-off from the main tourist areas. This is included in the price — no need to arrange separate transport.'
+      a: 'Yes, almost all elephant sanctuary programs in Thailand include hotel pickup and drop-off from main tourist areas — included in the price. Elephant Nature Park also offers its own overnight volunteer accommodation if you want to stay multiple days.'
+    },
+    {
+      q: 'What is the conservation status of Asian elephants in Thailand?',
+      a: 'Asian elephants (Elephas maximus) are classified as Endangered on the IUCN Red List. A 2025 report by Thailand\'s Department of National Parks estimated 4,013–4,422 elephants in the country, including 3,084–4,422 in the wild across 91 protected areas. The global Asian elephant population is estimated at 48,000–52,000. Key threats include habitat loss, human-elephant conflict, and poaching for ivory.'
     }
   ];
 
@@ -115,10 +119,10 @@ export default function BestElephantSanctuariesPage({ cities, topSanctuaries }: 
             <div className="text-center mt-6">
               <p className="font-script text-thailand-gold text-lg mb-2">Ethical Wildlife</p>
               <h1 className="text-4xl lg:text-5xl font-bold font-heading mb-4">
-                Best Elephant Sanctuaries in Thailand
+                Best Ethical Elephant Sanctuaries in Thailand
               </h1>
               <p className="text-xl max-w-3xl mx-auto text-gray-300">
-                From Chiang Mai&apos;s jungle sanctuaries to Phuket&apos;s beach elephant walks — compare ethical elephant experiences across Thailand&apos;s top destinations.
+                Thailand has an estimated 4,000 elephants — many rescued from logging and tourism exploitation. These sanctuaries offer genuine welfare-focused visits: no riding, no hooks, no shows. Just elephants living as elephants.
               </p>
             </div>
           </div>
@@ -239,6 +243,115 @@ export default function BestElephantSanctuariesPage({ cities, topSanctuaries }: 
                 </Link>
               </div>
             ))}
+
+            {/* Conservation Context */}
+            <div className="bg-white rounded-2xl shadow-md p-8 mb-8">
+              <p className="section-label">Conservation</p>
+              <h2 className="text-2xl font-bold font-heading text-gray-900 mb-4">
+                Why Elephant Welfare Matters
+              </h2>
+              <div className="prose prose-gray max-w-none text-gray-700 space-y-4">
+                <p>
+                  Asian elephants (<em>Elephas maximus</em>) are listed as <strong>Endangered</strong> on the IUCN Red List — a classification held since 1986. The global population stands at an estimated 48,000–52,000 individuals. In Thailand, a 2025 survey by the Department of National Parks, Wildlife and Plant Conservation (DNP) counted <strong>4,013–4,422 elephants</strong> nationwide, with 3,084–4,422 living wild across 91 protected areas.
+                </p>
+                <p>
+                  The threats are severe: habitat destruction driven by agricultural expansion, human-elephant conflict at forest boundaries, and ongoing poaching for ivory. Captive elephants face a separate set of problems — historically exploited for logging until Thailand banned commercial logging in 1989, many elephants moved into tourism, where bull hooks, chains, and riding saddles caused lasting physical and psychological damage.
+                </p>
+                <p>
+                  A <strong>2017 World Animal Protection study</strong> found that more than 75% of elephants used in Asian tourism were living in cruel conditions. The shift toward ethical sanctuaries — no riding, no chains, no direct contact shows — represents a fundamental change in how Thailand&apos;s tourism industry treats these animals.
+                </p>
+                <p>
+                  The <strong>Save Elephant Foundation</strong>, run by Saengduean &quot;Lek&quot; Chailert, has been central to this shift since founding Elephant Nature Park in 1995. Lek has received multiple international conservation awards for her work rehabilitating elephants traumatised by decades of abuse.
+                </p>
+              </div>
+              <div className="mt-6 grid grid-cols-2 md:grid-cols-4 gap-4">
+                {[
+                  { stat: '~4,000', label: 'Elephants in Thailand' },
+                  { stat: 'Endangered', label: 'IUCN Red List Status' },
+                  { stat: '75%+', label: 'Tourism elephants in poor conditions (WAP 2017)' },
+                  { stat: '1989', label: 'Thailand logging ban year' },
+                ].map((item) => (
+                  <div key={item.stat} className="bg-surface-cream rounded-xl p-4 text-center">
+                    <div className="text-xl font-bold text-thailand-blue">{item.stat}</div>
+                    <div className="text-xs text-gray-600 mt-1">{item.label}</div>
+                  </div>
+                ))}
+              </div>
+            </div>
+
+            {/* Featured Sanctuaries */}
+            <div className="bg-white rounded-2xl shadow-md p-8 mb-8">
+              <p className="section-label">Featured Sanctuaries</p>
+              <h2 className="text-2xl font-bold font-heading text-gray-900 mb-6">
+                Top Ethical Sanctuaries in Thailand
+              </h2>
+              <div className="space-y-6">
+                {[
+                  {
+                    name: 'Elephant Nature Park',
+                    location: 'Mae Taeng Valley, Chiang Mai (60 km north of city)',
+                    badge: 'Gold Standard',
+                    badgeColor: 'bg-yellow-100 text-yellow-800',
+                    description: 'Founded in 1995 by Lek Chailert and the Save Elephant Foundation, Elephant Nature Park is the most respected elephant rescue and rehabilitation centre in Asia. Over 75 elephants roam the park — blind, crippled, orphaned, and elderly individuals rescued from logging camps, street begging, and abusive tourism operations. There is no riding, no tricks, no bull hooks. Visitors walk with the free-roaming herd, prepare and feed fruit, and observe natural herd behaviour. Day visits and multi-day volunteer programs available.',
+                    policy: 'No riding · No hooks · No chains · No performing',
+                    source: 'saveelephant.org',
+                  },
+                  {
+                    name: 'Boon Lott\'s Elephant Sanctuary (BLES)',
+                    location: 'Sukhothai Province (north-central Thailand)',
+                    badge: 'Hands-Off Model',
+                    badgeColor: 'bg-green-100 text-green-800',
+                    description: 'Founded by Katherine Connor in memory of a young elephant named Boon Lott, BLES was one of the first facilities in Thailand to adopt a fully hands-off observation approach. Guests never approach or touch the elephants. Instead, the 540-acre reserve allows rescued elephants to rediscover their natural instincts entirely on their own terms. A maximum of 10 guests are allowed at any time to minimise disturbance. All profits go directly back into conservation. Regarded by Wildlife Friends Foundation Thailand and international welfare organisations as a benchmark for true sanctuary ethics.',
+                    policy: 'No feeding · No bathing · No contact · Max 10 guests',
+                    source: 'blesele.org',
+                  },
+                  {
+                    name: 'Elephant Jungle Sanctuary',
+                    location: 'Multiple sites: Chiang Mai, Pattaya, Phuket, Samui',
+                    badge: 'Multi-Site',
+                    badgeColor: 'bg-blue-100 text-blue-700',
+                    description: 'One of the most accessible ethical sanctuary networks in Thailand, Elephant Jungle Sanctuary operates sites in Chiang Mai, Pattaya, Phuket, and Koh Samui. The model focuses on feeding and walking alongside the herd in natural jungle settings. No riding, no shows, and strict no-hook policies are enforced across all locations. Their Chiang Mai camp is the original and largest, operating since 2014. Popular with travellers who want an ethical experience without venturing far from major tourist hubs.',
+                    policy: 'No riding · No shows · No hooks · Hotel transfers included',
+                    source: 'elephantjunglesanctuary.com',
+                  },
+                  {
+                    name: 'Phuket Elephant Sanctuary',
+                    location: 'Paklok, Phuket (northern Phuket)',
+                    badge: 'South Thailand',
+                    badgeColor: 'bg-purple-100 text-purple-700',
+                    description: 'The only dedicated elephant sanctuary in Phuket with a genuine rescue-and-care mission. Elephants previously used in tourism and riding camps are retired here on a large forested reserve. Visitors observe and feed the elephants from a raised walkway and bamboo platforms — no direct contact or riding. The sanctuary partners with the Save Elephant Foundation and follows the same welfare standards as Elephant Nature Park.',
+                    policy: 'No riding · No direct contact · Observation only · WAP-aligned',
+                    source: 'phuketelephantsanctuary.org',
+                  },
+                ].map((sanctuary, index) => (
+                  <div key={sanctuary.name} className="flex gap-4 p-5 bg-surface-cream rounded-xl">
+                    <div className="flex flex-col items-center min-w-[36px]">
+                      <span className="text-lg font-bold text-white bg-thailand-blue w-8 h-8 rounded-xl flex items-center justify-center">
+                        {index + 1}
+                      </span>
+                    </div>
+                    <div className="flex-1">
+                      <div className="flex flex-wrap items-center gap-2 mb-1">
+                        <h3 className="font-bold font-heading text-gray-900">{sanctuary.name}</h3>
+                        <span className={`text-xs font-semibold px-2 py-0.5 rounded ${sanctuary.badgeColor}`}>{sanctuary.badge}</span>
+                      </div>
+                      <div className="text-xs text-gray-500 mb-2">{sanctuary.location}</div>
+                      <p className="text-sm text-gray-700 mb-3">{sanctuary.description}</p>
+                      <div className="flex flex-wrap gap-1.5">
+                        {sanctuary.policy.split(' · ').map((p, i) => (
+                          <span key={i} className="text-[11px] bg-white text-gray-600 px-2 py-0.5 rounded-full shadow-sm">{p}</span>
+                        ))}
+                      </div>
+                    </div>
+                  </div>
+                ))}
+              </div>
+              <div className="mt-6 p-4 bg-amber-50 rounded-xl border border-amber-200">
+                <p className="text-sm text-gray-700">
+                  <strong>Red flag checklist:</strong> Avoid any venue that offers elephant riding, bull hooks, shows where elephants perform tricks (painting, football), or chains visible in guest photos. World Animal Protection and Wildlife Friends Foundation Thailand are reliable sources for identifying abusive operations.
+                </p>
+              </div>
+            </div>
 
             {/* CTA */}
             <div className="bg-surface-dark rounded-2xl p-8 mb-12 text-center text-white">

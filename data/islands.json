@@ -1,160 +1,189 @@
 {
-  "title": "Thailand Islands — Complete Guide (2026)",
-  "meta_description": "Explore 12 of Thailand's best islands from Phuket to Koh Lipe. Real access info, best seasons, and honest recommendations for every traveller type.",
-  "intro": "After years of island-hopping across Thailand's Andaman and Gulf coasts, I've learned that no two islands feel the same. I've watched sunrise over Koh Tao's dive sites and sunset from Koh Lipe's powdery beaches, slept in bamboo huts on Koh Phangan and luxury villas on Koh Samui. This guide covers 12 islands I've visited personally, ranked to help you pick the right one for your trip — whether you're a first-timer flying into Phuket or a diver chasing the Similans' crystal waters.",
+  "title": "Thailand Islands — Planning Guide (2026)",
+  "meta_description": "A geography-led guide to ten of Thailand's major islands, covering real access routes, best seasons, and what makes each island distinct — sourced from the Tourism Authority of Thailand and Wikipedia.",
+  "intro": "Thailand has more than 1,400 islands distributed across two very different coasts. The Andaman Sea sits to the west, sheltered behind the Malay Peninsula, with a dry season running roughly November to April. The Gulf of Thailand wraps around the other side, with a different monsoon pattern that allows some islands to function year-round. The ten islands in this guide represent a spread across both coasts, different trip types, and different stages of development. None of them are identical. Picking the right one depends on how you want to travel — and on honest geography, not marketing language.",
   "items": [
     {
       "rank": 1,
-      "name": "Phuket",
-      "province": "Phang Nga",
-      "best_for": ["First-timers", "Families", "Nightlife"],
-      "best_time": "November - April",
-      "how_to_get_there": "International airport with direct flights from major Asian and European cities",
-      "description": "Thailand's largest island and the most accessible. Phuket has an international airport, making it the easiest island to reach without ferries or connecting boats. The west coast beaches range from busy Patong to quieter Kata and Karon, while the Old Town offers Sino-Portuguese architecture and local food markets.",
-      "key_facts": ["Largest Thai island", "International airport"],
-      "coast": "Andaman",
-      "google_maps_query": "Phuket Thailand"
-    },
-    {
-      "rank": 2,
       "name": "Koh Samui",
       "province": "Surat Thani",
-      "best_for": ["Luxury", "Wellness", "Families"],
-      "best_time": "January - August",
-      "how_to_get_there": "Samui International Airport with flights from Bangkok, Singapore, and Hong Kong",
-      "description": "Thailand's second-largest island combines luxury resorts with authentic Thai culture. Koh Samui serves as the gateway to Koh Phangan and Koh Tao, making it a natural starting point for Gulf island trips. The island has world-class spas, wellness retreats, and family-friendly beaches along its coconut-lined coast.",
-      "key_facts": ["Second-largest island", "Gateway to Phangan/Tao"],
+      "best_for": ["Families", "Wellness", "Gulf gateway"],
+      "best_time": "January – August (Gulf dry season peak December – August)",
+      "how_to_get_there": "Samui Airport (USM) receives direct flights from Bangkok, Singapore, and Hong Kong. Overnight ferry from Surat Thani is the alternative for budget travellers. The island is 84 km off the east coast of the Thai peninsula.",
+      "description": "Koh Samui is Thailand's second-largest island at 228.7 km², sitting within Surat Thani Province in the Gulf of Thailand. According to the Tourism Authority of Thailand, it is the largest island in an archipelago of more than 80 islands — the Mu Ko Samui group. The island's economy has been tourism-led since the late 1970s, though coconut and rubber exports remain part of the rural interior. Its north and east coasts hold most of the resorts and infrastructure; Chaweng Beach on the northeast is the busiest strip, while Bophut and Maenam on the north coast are noticeably quieter. Samui functions naturally as the access hub for Koh Phangan (15 km north) and Koh Tao (45 km further north), making it the logical base for a Gulf island trip that branches into diving or Full Moon Party territory.",
+      "key_facts": [
+        "228.7 km² — Thailand's second-largest island (TAT source)",
+        "Part of the Mu Ko Samui archipelago of 80+ islands",
+        "Samui Airport is the only island in the Gulf with its own commercial airport",
+        "Gateway to Koh Phangan and Koh Tao by regular ferry"
+      ],
       "coast": "Gulf",
       "google_maps_query": "Koh Samui Surat Thani Thailand"
     },
     {
-      "rank": 3,
+      "rank": 2,
       "name": "Koh Phi Phi",
       "province": "Krabi",
-      "best_for": ["Island hopping", "Diving", "Scenery"],
-      "best_time": "November - April",
-      "how_to_get_there": "Ferry from Phuket (2 hours) or Krabi (1.5 hours)",
-      "description": "The dramatic limestone karsts and turquoise waters of Koh Phi Phi have made it one of Thailand's most photographed destinations. Maya Bay, made famous by the film The Beach, now operates under visitor caps to protect the recovering coral ecosystem. The main island Phi Phi Don is car-free, with longtail boats connecting its beaches.",
-      "key_facts": ["Maya Bay has visitor caps", "Car-free island"],
+      "best_for": ["Scenery", "Diving", "Limestone karst landscapes"],
+      "best_time": "November – April (Andaman dry season)",
+      "how_to_get_there": "Ferry from Phuket takes approximately 2 hours; ferry from Krabi (Ao Nang or Krabi Town pier) takes approximately 1.5 hours. No airport on the islands. Phi Phi Don is entirely car-free — boats are the only transport within the group.",
+      "description": "The Phi Phi Islands are a group of six islands in Krabi Province, positioned in the Strait of Malacca between Phuket and the Krabi coast. Phi Phi Don is the only inhabited island at 10.27 km² — roughly 8 km long — while Phi Phi Le at 2 km² is uninhabited and visited by day-trippers. The islands sit within Hat Noppharat Thara–Mu Ko Phi Phi National Park. Maya Bay, a shallow bay enclosed by 100-metre limestone cliffs on Phi Phi Le, was made internationally famous by the filming of The Beach (2000). The bay closed in 2018 due to severe coral damage from overtourism and reopened in January 2022 with a daily visitor cap of 2,000 people and a ban on boats entering the bay itself. The cliffs, dual-bay geography, and underwater life remain the island's defining characteristics — the crowds are a genuine planning factor, not a detail to dismiss.",
+      "key_facts": [
+        "Phi Phi Le: 2 km², uninhabited, site of Maya Bay",
+        "Maya Bay closed 2018, reopened January 2022 with 2,000/day cap",
+        "Phi Phi Don is car-free — no motorised land transport",
+        "Within Hat Noppharat Thara–Mu Ko Phi Phi National Park"
+      ],
       "coast": "Andaman",
       "google_maps_query": "Koh Phi Phi Krabi Thailand"
+    },
+    {
+      "rank": 3,
+      "name": "Koh Lanta",
+      "province": "Krabi",
+      "best_for": ["Slow travel", "Families", "West-coast beaches"],
+      "best_time": "November – April (Andaman dry season)",
+      "how_to_get_there": "Accessible by ferry from Krabi, Phuket, and Phi Phi during high season. Uniquely among Andaman islands, Ko Lanta Yai is also reachable by road via two vehicle ferries from the mainland, making it one of the most car-friendly islands in Krabi Province.",
+      "description": "Ko Lanta Yai — the principal island of the Ko Lanta district — is 25 km long and 6 km wide, covering 81 km². The district itself encompasses several island groups with a combined area over 300 km². The west coast runs nine beaches from north to south; the beaches grow progressively quieter and less developed as you move south, ending near the Mu Ko Lanta National Park boundary (established 1990, 134 km²). The east coast is little-visited and holds Old Town (Ban Ko Lanta), a community of Moken Sea People and Chinese-Malay traders established in the 19th century. The Sea People, or Chao Ley, remain part of the island's living history rather than a tourism construct. Ko Lanta's access by road — via vehicle ferries rather than speedboat — makes it unusually practical for families or anyone travelling with luggage that makes ferry-hopping inconvenient.",
+      "key_facts": [
+        "Ko Lanta Yai: 81 km², 25 km long",
+        "Nine west-coast beaches, quieter toward the south",
+        "Old Town (Ban Ko Lanta) is a Moken Sea People community on the east coast",
+        "Road access via vehicle ferries — unique among Andaman islands of this size",
+        "Mu Ko Lanta National Park: 134 km², established 1990"
+      ],
+      "coast": "Andaman",
+      "google_maps_query": "Koh Lanta Krabi Thailand"
     },
     {
       "rank": 4,
       "name": "Koh Tao",
       "province": "Surat Thani",
-      "best_for": ["Budget diving", "Backpackers", "Snorkeling"],
-      "best_time": "January - August",
-      "how_to_get_there": "Ferry from Koh Samui (1.5 hours) or Chumphon (2-3 hours)",
-      "description": "Known as Thailand's Diving Capital, Koh Tao offers some of the most affordable dive certifications in the world. The small island attracts backpackers and dive enthusiasts with its laid-back atmosphere and accessible reef sites. Shallow bays like Japanese Garden and Mango Bay are ideal for snorkelers and beginners.",
-      "key_facts": ["Thailand's Diving Capital", "Affordable dive certifications"],
+      "best_for": ["Scuba diving", "Dive certifications", "Snorkelling"],
+      "best_time": "January – August (Gulf pattern; April – June is peak visibility)",
+      "how_to_get_there": "Ferry from Koh Samui takes approximately 1.5 hours; from Chumphon on the mainland takes 2–3 hours. Koh Tao is 45 km north of Koh Phangan and 84 km north of Koh Samui within the Chumphon Archipelago.",
+      "description": "Koh Tao covers 21 km² in the Chumphon Archipelago on the western side of the Gulf of Thailand, administratively a sub-district (tambon) of Ko Pha-ngan District, Surat Thani Province. The island's economy is almost entirely built around tourism and, within that, around scuba diving. PADI records cite Ko Tao as having produced more certified divers than any other location in Southeast Asia, a statistic the Tourism Authority of Thailand also references. Over 25 dive sites ring the island, ranging from beginner-friendly shallow bays (Japanese Garden, Shark Island) to open-water sites with whale sharks and manta rays during the right season. The island is also an important nesting site for hawksbill and green sea turtles; a joint programme between the Royal Thai Navy and the Ko Tao Diving Operators' Club (KT-DOC), started in 2004, has reintroduced hundreds of juvenile turtles to the reef system. The clear water and warm temperatures are structural: visibility frequently exceeds 20 metres and sea temperatures stay near 28°C for most of the year.",
+      "key_facts": [
+        "21 km² in the Chumphon Archipelago, Gulf of Thailand",
+        "PADI records: most certified divers produced in Southeast Asia",
+        "25+ dive sites; whale shark and manta encounters reported seasonally",
+        "Hawksbill and green turtle conservation since 2004 (Royal Thai Navy / KT-DOC)"
+      ],
       "coast": "Gulf",
       "google_maps_query": "Koh Tao Surat Thani Thailand"
     },
     {
       "rank": 5,
-      "name": "Koh Lipe",
-      "province": "Satun",
-      "best_for": ["Snorkeling", "Beaches", "Couples"],
-      "best_time": "November - April",
-      "how_to_get_there": "Pak Bara Pier or Langkawi ferry",
-      "description": "Often called the Maldives of Thailand, Koh Lipe sits within the Tarutao National Marine Park near the Malaysian border. The island's three main beaches — Pattaya, Sunrise, and Sunset — offer white sand and clear water without the crowds of more accessible islands. Its remote location keeps visitor numbers manageable.",
-      "key_facts": ["Maldives of Thailand", "Tarutao National Marine Park"],
-      "coast": "Andaman",
-      "google_maps_query": "Koh Lipe Satun Thailand"
-    },
-    {
-      "rank": 6,
       "name": "Koh Phangan",
       "province": "Surat Thani",
-      "best_for": ["Wellness", "Yoga", "Nightlife"],
-      "best_time": "January - August",
-      "how_to_get_there": "Ferry from Koh Samui (30 minutes - 1 hour)",
-      "description": "Koh Phangan holds two seemingly contradictory identities: the Full Moon Party destination drawing thousands of revellers to Haad Rin beach, and a spiritual retreat island with yoga studios and meditation centres scattered across its quieter north coast. Both sides coexist on this mid-sized Gulf island.",
-      "key_facts": ["Full Moon Party", "Spiritual retreats"],
+      "best_for": ["Full Moon Party", "Wellness retreats", "Quiet north coast"],
+      "best_time": "January – August (Gulf dry season; Full Moon Party runs year-round)",
+      "how_to_get_there": "Regular ferries from Koh Samui (30–60 minutes depending on operator and departure pier). Also reachable direct from Surat Thani and Chumphon by slower overnight ferry. No commercial airport.",
+      "description": "Koh Phangan covers 65 km² in the Gulf of Thailand, about 15 km north of Koh Samui and 100 km offshore from the Thai mainland. The island is known internationally for the Full Moon Party, an all-night beach party at Hat Rin on the southeastern tip. The event started in 1985 and now draws between 5,000 and 30,000 people monthly — The Guardian described it in 2010 as 'the largest beach rave in the world'. Hat Rin and the Full Moon Party are concentrated in one small corner of the island, which matters: the north and northwest coasts around Chaloklum, Thong Nai Pan, and Ban Tai are genuinely quiet. The Than Sadet–Ko Pha-ngan National Park covers the interior and northern coastline, protecting watersheds and forested hills. The island also hosts a significant wellness and yoga industry, with retreats concentrated around Srithanu on the west coast. These two versions of Phangan are not in conflict — they happen to occupy different ends of the same island.",
+      "key_facts": [
+        "65 km², 15 km north of Koh Samui",
+        "Full Moon Party at Hat Rin since 1985; draws 5,000–30,000 monthly",
+        "Than Sadet–Ko Pha-ngan National Park protects the interior and north",
+        "North coast (Thong Nai Pan, Chaloklum) is separate from the Hat Rin scene"
+      ],
       "coast": "Gulf",
       "google_maps_query": "Koh Phangan Surat Thani Thailand"
     },
     {
-      "rank": 7,
+      "rank": 6,
       "name": "Koh Chang",
       "province": "Trat",
-      "best_for": ["Nature", "Waterfalls", "Budget"],
-      "best_time": "Year-round",
-      "how_to_get_there": "Ferry from Laem Ngop pier (near Trat, accessible by bus or flight from Bangkok)",
-      "description": "Thailand's second-largest island remains less developed than Phuket or Samui, covered in dense rainforest with waterfalls cascading through its mountainous interior. The west coast has most of the beaches and accommodation, while the east coast stays quiet and local. Its year-round accessibility and lower prices make it a solid alternative to the Andaman islands.",
-      "key_facts": ["Second-largest island", "Rainforests and waterfalls"],
+      "best_for": ["Rainforest, waterfalls", "Nature hiking", "Eastern Thailand base"],
+      "best_time": "November – May (the west coast receives less rain during this period; the island is accessible year-round but the wet season June – October brings heavy rainfall)",
+      "how_to_get_there": "Ferry from Laem Ngop pier near Trat, approximately 30 minutes crossing. Trat is 300 km east of Bangkok — reachable by bus (4–5 hours), shared minivan, or domestic flight to Trat Airport. The island has no commercial airport of its own.",
+      "description": "Ko Chang (the name means 'Elephant Island', from its profile when seen from the sea) covers approximately 217 km², making it Thailand's third-largest island by area after Phuket and Koh Samui — though the Tourism Authority of Thailand refers to it as the second-largest. The island is 70% covered in unspoiled tropical rainforest classified within Mu Ko Chang National Marine Park (650 km², 70% of which is ocean). The park contains populations of 29 mammal species including the stump-tailed macaque and small Indian civet, plus 61 bird species. The west coast holds most of the beaches and accommodation, with White Sand Beach (Hat Sai Khao) as the busiest strip. The interior rises sharply to a ridge peaking above 700 metres, with waterfalls including Klong Plu cutting through the forest. The east coast is largely undeveloped and used by fishing communities. Ko Chang's location near Cambodia and its position as an eastern Gulf island gives it a different character from Samui or Phangan — less international tourism infrastructure, more domestic and regional visitors.",
+      "key_facts": [
+        "~217 km², third-largest island in Thailand (or second, per TAT)",
+        "70% unspoiled rainforest, part of Mu Ko Chang National Marine Park",
+        "29 mammal species, 61 bird species recorded in the park",
+        "300 km east of Bangkok, near the Cambodian border"
+      ],
       "coast": "Gulf",
       "google_maps_query": "Koh Chang Trat Thailand"
     },
     {
+      "rank": 7,
+      "name": "Koh Lipe",
+      "province": "Satun",
+      "best_for": ["Snorkelling", "Coral reefs", "Remote beach character"],
+      "best_time": "November – April (Andaman dry season; the island is largely inaccessible during the May – October monsoon)",
+      "how_to_get_there": "Speedboat from Pak Bara Pier on the Satun mainland (approximately 1.5 hours). Seasonal ferry connections also run from Langkawi, Malaysia. The remoteness is a genuine planning factor — the island closes down significantly in the off-season.",
+      "description": "Ko Lipe is a small island in the Adang-Rawi Archipelago of the Strait of Malacca, Satun Province, close to the Thai-Malaysian border. The island sits within the boundary of Tarutao National Park — Thailand's second marine national park, designated on 19 April 1974 — which covers 1,490 km² including 51 islands across two island groups. Ko Lipe is approximately 50 km from Ko Tarutao, the park's main island, and lies directly south of the larger uninhabited islands Ko Adang and Ko Rawi. Its name derives from a Malay original: Pulau Nipis ('thin island'). The island has three main beaches — Hat Pramong (Sunset Beach), Hat Chao Ley (Sunrise Beach), and Pattaya Beach — each with distinct character. The coral reefs surrounding the island are notably rich: the area has been cited as hosting around 25% of the world's tropical fish species. Park status places limits on certain development, though the island has grown considerably in visitor infrastructure over the past decade.",
+      "key_facts": [
+        "Within Tarutao National Park (Thailand's second marine national park, 1974)",
+        "Tarutao NP covers 1,490 km² across 51 islands",
+        "Surrounding reefs cited for hosting ~25% of world's tropical fish species",
+        "Name derived from Malay: Pulau Nipis ('thin island')",
+        "Three main beaches: Sunset, Sunrise, and Pattaya Beach"
+      ],
+      "coast": "Andaman",
+      "google_maps_query": "Koh Lipe Satun Thailand"
+    },
+    {
       "rank": 8,
-      "name": "Koh Lanta",
-      "province": "Krabi",
-      "best_for": ["Families", "Slow travel", "Relaxation"],
-      "best_time": "November - April",
-      "how_to_get_there": "Ferry from Krabi, Phuket, or Phi Phi; also accessible by road via bridge from the mainland",
-      "description": "Koh Lanta attracts travellers looking for long stretches of uncrowded beach and a relaxed pace. The island's beaches run along the west coast, growing quieter the further south you go. Unlike many Thai islands, Lanta is connected to the mainland by bridge, making it accessible by car without relying solely on ferries.",
-      "key_facts": ["Long beaches", "Relaxed vibe", "Accessible by road"],
-      "coast": "Andaman",
-      "google_maps_query": "Koh Lanta Krabi Thailand"
-    },
-    {
-      "rank": 9,
-      "name": "Similan Islands",
-      "province": "Phang Nga",
-      "best_for": ["Diving", "Pristine waters", "Day trips"],
-      "best_time": "October - May only",
-      "how_to_get_there": "Liveaboard boats or day trips from Khao Lak or Phuket",
-      "description": "The Similan Islands are a national park archipelago of 11 islands with some of Thailand's clearest water and healthiest coral reefs. Access is restricted to the open season and advance booking is required, keeping the environment remarkably pristine. Liveaboard diving trips offer the best experience, though day trips from Khao Lak are available.",
-      "key_facts": ["11 islands", "Advance booking required", "National park"],
-      "coast": "Andaman",
-      "google_maps_query": "Similan Islands Phang Nga Thailand"
-    },
-    {
-      "rank": 10,
       "name": "Koh Samet",
       "province": "Rayong",
-      "best_for": ["Weekend escapes", "Beach getaways"],
-      "best_time": "Year-round",
-      "how_to_get_there": "Ferry from Ban Phe pier, approximately 2 hours from Bangkok by car",
-      "description": "Koh Samet is the closest island to Bangkok, making it a popular weekend escape for both locals and expats. The small island has a string of white sand beaches along its east coast, with Sai Kaew Beach being the busiest. Its proximity to the capital means it fills up on weekends and holidays but stays relatively quiet midweek.",
-      "key_facts": ["Closest island to Bangkok", "Weekend escape destination"],
+      "best_for": ["Weekend escapes from Bangkok", "Year-round access", "Short breaks"],
+      "best_time": "Year-round — Ko Samet receives significantly less rainfall than mainland Rayong Province, even though it is only a few kilometres offshore. The rainy season is limited to approximately May–July, shorter than most Thai islands.",
+      "how_to_get_there": "Ferry from Ban Phe pier, Rayong Province. Ban Phe is approximately 220 km (3 hours by car or bus) southeast of Bangkok. The ferry crossing to the island takes about 30–40 minutes. All visitors pay a national park entry fee (200 baht for foreign visitors) at the pier or on arrival.",
+      "description": "Ko Samet covers 13.1 km² in the Gulf of Thailand, Rayong Province. Since 1 October 1981 it has been part of Khao Laem Ya–Mu Ko Samet National Park, and all visitors are required to pay the park entry fee. The island is shaped roughly like the letter 'T' and forests cover up to 80% of the total land area. The east coast holds a string of white sand beaches running from Sai Kaew in the north (the busiest, with the most restaurants and beach clubs) down to quieter bays toward the southern tip. Ko Samet's primary identity is as the most accessible island from Bangkok — 220 km is a manageable distance for a weekend, and its relatively dry microclimate means the beach conditions hold up better through the shoulder months than most comparable islands. It is heavily used by Thai domestic tourists and Bangkok expats, particularly on weekends and public holidays. Midweek in the non-holiday months offers a noticeably different pace.",
+      "key_facts": [
+        "13.1 km² — part of Khao Laem Ya–Mu Ko Samet National Park since 1981",
+        "220 km southeast of Bangkok — the closest national park island to the capital",
+        "80% forest cover despite heavy weekend tourism pressure",
+        "Unusually dry microclimate: rainy season approximately May–July only"
+      ],
       "coast": "Gulf",
       "google_maps_query": "Koh Samet Rayong Thailand"
     },
     {
-      "rank": 11,
+      "rank": 9,
       "name": "Koh Yao Noi",
       "province": "Phang Nga",
-      "best_for": ["Honeymooners", "Tranquility", "Authentic culture"],
-      "best_time": "November - April",
-      "how_to_get_there": "Speedboat from Phuket (30-40 minutes)",
-      "description": "Koh Yao Noi sits in Phang Nga Bay between Phuket and Krabi, yet feels worlds apart from both. The island has maintained its quiet, local character with rice paddies, rubber plantations, and a Muslim fishing community. It offers a glimpse of traditional Thai island life that has largely disappeared from more developed destinations.",
-      "key_facts": ["Quiet escape", "Authentic local culture"],
+      "best_for": ["Slow travel", "Authentic community character", "Phang Nga Bay access"],
+      "best_time": "November – April (Andaman dry season)",
+      "how_to_get_there": "Speedboat from Tha Rua Pier, Phuket (Bang Rong Pier) takes 30–40 minutes. Slower passenger ferry also operates. The island is roughly 50 km from both Phuket and Phang Nga town, positioned centrally in Phang Nga Bay.",
+      "description": "Ko Yao Noi is part of the Ko Yao Archipelago in Phang Nga Bay, administratively within Phang Nga Province. The archipelago covers 147 km² and the Ko Yao district has a population of approximately 18,000, of whom around 90% are Muslim — a community whose Islamic heritage traces back to Arab traders in the 13th century. Cave paintings discovered on Ko Yao island indicate human presence over 2,000 years ago; the Moken peoples (sea nomads) are considered the earliest recorded inhabitants. Ko Yao Noi is the smaller of the two main islands in the group but more developed for visitors than Ko Yao Yai. The island retains working rice paddies, rubber plantations, and fishing infrastructure alongside tourism. Phang Nga Bay's limestone karst formations — the same geological structures visible from the sea near Phi Phi and Phuket — can be seen from the island's coastline. The absence of a large resort concentration keeps the pace genuinely slow in a way that Phuket's adjacent bays do not.",
+      "key_facts": [
+        "Part of Ko Yao Archipelago, Phang Nga Bay — 147 km² total",
+        "~90% Muslim community; Islamic heritage since 13th-century Arab trade",
+        "Cave paintings evidence 2,000+ years of human presence",
+        "Working rice paddies and rubber plantations remain active",
+        "Positioned between Phuket and Krabi — 50 km from each"
+      ],
       "coast": "Andaman",
       "google_maps_query": "Koh Yao Noi Phang Nga Thailand"
     },
     {
-      "rank": 12,
-      "name": "Koh Tarutao",
-      "province": "Satun",
-      "best_for": ["Adventure", "Untouched nature", "Camping"],
-      "best_time": "October - May",
-      "how_to_get_there": "National park boat from Pak Bara Pier",
-      "description": "Koh Tarutao is the main island of the Tarutao National Marine Park and one of the most untouched islands in Thailand. There are no luxury resorts here — accommodation is national park bungalows and camping. The island has a wild, rugged character with mangrove forests, limestone caves, and deserted beaches that reward those willing to rough it.",
-      "key_facts": ["Marine national park", "Truly wild", "Camping accommodation"],
-      "coast": "Andaman",
-      "google_maps_query": "Koh Tarutao Satun Thailand"
+      "rank": 10,
+      "name": "Koh Mak",
+      "province": "Trat",
+      "best_for": ["Eco-conscious travel", "Quiet beaches", "Small-scale island character"],
+      "best_time": "November – May (Gulf of Thailand eastern coast pattern; wetter June – October)",
+      "how_to_get_there": "Ferry from Laem Ngop pier (Trat Province, the same departure point as Ko Chang). Ko Mak is 35 km from the mainland. Trat is accessible from Bangkok by bus, minivan, or flight.",
+      "description": "Ko Mak covers 16 km² in Trat Province, eastern Gulf of Thailand, making it the third-largest island in Trat after Ko Chang and Ko Kut. The island has 27 km of coastline, several long sandy beaches on the northwest and southwest coasts, and a flat interior of coconut plantations and mangrove fringe. Unlike Ko Chang — which has grown a substantial tourist infrastructure since the 1990s — Ko Mak is largely privately owned and subject to voluntary environmental controls. Water activities are regulated to manage noise and environmental impact, and the island maintains approximately 15 small-scale resorts. The resident population is around 400. The Sunday Times (UK) included Ko Mak beaches in a list of the world's 10 most beautiful beaches in 2006. There are three fishing villages, a temple, a primary school, and a health centre — the full profile of a working island community that still functions alongside tourism, rather than being entirely displaced by it.",
+      "key_facts": [
+        "16 km², 27 km coastline — third-largest island in Trat Province",
+        "Private island ownership supports voluntary environmental regulation",
+        "~400 permanent residents; ~15 small-scale resorts",
+        "Sunday Times (UK) listed its beaches among the world's 10 most beautiful (2006)"
+      ],
+      "coast": "Gulf",
+      "google_maps_query": "Koh Mak Trat Thailand"
     }
   ],
   "tips": [
-    "Check monsoon seasons before booking: Andaman coast (Phuket, Phi Phi, Lipe, Similans) is best November-April; Gulf coast (Samui, Phangan, Tao) is best January-August",
-    "Book Similan Islands trips well in advance — permits sell out during peak season and the park closes May-October",
-    "Ferry schedules change seasonally and can be cancelled due to rough seas — always have a flexible backup plan",
-    "Islands without airports (most of them) require ferry connections; factor in travel time when planning multi-island trips",
-    "Maya Bay on Koh Phi Phi has daily visitor caps — arrive early or book through an operator that guarantees entry",
-    "Pack reef-safe sunscreen; several marine parks now restrict chemical sunscreens that damage coral"
+    "The Andaman coast (Phi Phi, Lanta, Lipe, Yao Noi) is best visited November–April. The Gulf coast (Samui, Phangan, Tao, Chang, Samet, Mak) has a different pattern and often allows travel when the Andaman is wet.",
+    "Ko Tao, Ko Phangan, and Ko Samui form a natural cluster in the Gulf — ferries connect them in under two hours each step. Plan them as a unit rather than separate decisions.",
+    "Ko Lipe is within Tarutao National Park and largely inaccessible during the May–October monsoon. Confirm ferry availability before planning a late-season visit.",
+    "Maya Bay (Ko Phi Phi Le) operates under a 2,000 visitor/day cap since its 2022 reopening after a four-year environmental closure. Boats are prohibited from entering the bay — access is by foot from nearby anchorage.",
+    "Ko Samet's proximity to Bangkok (220 km) is both its main advantage and its biggest drawback — it fills rapidly on Thai public holidays and long weekends.",
+    "Pack reef-safe sunscreen. Tarutao National Park and Hat Noppharat Thara–Mu Ko Phi Phi National Park have restrictions on chemical sunscreens that damage coral."
   ],
-  "generated_at": "2026-03-10"
+  "generated_at": "2026-03-28"
 }

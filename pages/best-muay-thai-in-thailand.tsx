@@ -74,25 +74,29 @@ export default function BestMuayThaiPage({ cities, topActivities }: Props) {
     { name: 'Best Muay Thai in Thailand', href: '/best-muay-thai-in-thailand/' }
   ];
 
-  const title = 'Best Muay Thai in Thailand 2026 — Fights, Training & Gyms';
-  const description = 'Compare Muay Thai fights, training camps and gyms in Bangkok, Chiang Mai and Phuket. Tickets from $13, 7 gyms reviewed and top stadium picks.';
+  const title = 'Best Muay Thai in Thailand 2026 — Stadiums, Training Camps & Gyms';
+  const description = 'The complete guide to Muay Thai in Thailand: Rajadamnern and Lumpinee stadiums in Bangkok, Tiger Muay Thai in Phuket, Lanna Muay Thai in Chiang Mai. History, training tips, and fight tickets.';
 
   const faqItems = [
     {
       q: 'Where is the best place to watch Muay Thai in Thailand?',
-      a: 'Bangkok is the ultimate destination for watching Muay Thai, home to the legendary Rajadamnern Stadium (since 1945) with 10,000+ reviews. Phuket\'s Patong Boxing Stadium is a close second with 2,000+ reviews and a vibrant atmosphere.'
+      a: 'Bangkok is the ultimate destination, home to the legendary Rajadamnern Stadium (opened 1945) — Thailand\'s oldest operating Muay Thai arena — and Lumpinee Stadium, widely regarded as the most prestigious in the world. Phuket\'s Bangla Boxing Stadium offers an equally electric atmosphere for tourists visiting the south.'
     },
     {
       q: 'Can tourists train Muay Thai in Thailand?',
-      a: 'Absolutely! All major cities offer beginner-friendly training sessions at professional gyms. Sessions typically cost EUR13-48 per class, last 1-2 hours, and all equipment is provided. No experience needed.'
+      a: 'Yes. All major cities offer beginner-friendly training sessions at professional gyms. Tiger Muay Thai in Phuket runs 20+ classes daily from 500 baht per session. In Chiang Mai, Lanna Muay Thai and Dang Muay Thai welcome all skill levels. Sessions typically last 1.5–2.5 hours and all equipment is provided.'
     },
     {
       q: 'How much do Muay Thai fight tickets cost?',
-      a: 'Fight tickets range from EUR16 in Chiang Mai to EUR56+ for VIP seats in Phuket. Bangkok\'s Rajadamnern Stadium offers tickets from EUR27. Ringside and VIP upgrades provide the best experience.'
+      a: 'Fight tickets range from around EUR16 in Chiang Mai to EUR56+ for VIP ringside seats in Bangkok or Phuket. Rajadamnern Stadium offers tickets from EUR27. Ringside seats give the best view and atmosphere but fill up fast — book ahead.'
     },
     {
-      q: 'What is the difference between watching and training?',
-      a: 'Watching means attending a live Muay Thai fight night with professional bouts — perfect for spectators. Training means you participate in a hands-on session at a gym, learning techniques from coaches. Some combo packages offer both.'
+      q: 'What is the history of Muay Thai?',
+      a: 'Muay Thai evolved from Muay Boran, a battlefield combat system used by Siamese armies from at least the 13th century Sukhothai Kingdom. Its most famous legend is Nai Khanom Tom, a Thai prisoner who defeated 9–10 Burmese fighters in succession in 1774, earning his freedom. Modern codified Muay Thai with rules and gloves emerged under King Rama VII in the 1920s–30s. In 2024, Thailand formally submitted Muay Thai for UNESCO intangible cultural heritage inscription.'
+    },
+    {
+      q: 'What is the difference between watching and training Muay Thai?',
+      a: 'Watching means attending a live fight night with professional bouts — perfect for spectators wanting to experience the atmosphere, gambling culture, and traditional music. Training means you participate in a hands-on session at a gym, learning the eight limbs (fists, elbows, knees, kicks) from professional coaches. Combo packages combine both in one day.'
     }
   ];
 
@@ -129,7 +133,7 @@ export default function BestMuayThaiPage({ cities, topActivities }: Props) {
                 Best Muay Thai in Thailand
               </h1>
               <p className="text-xl max-w-3xl mx-auto text-gray-300">
-                From Bangkok&apos;s legendary Rajadamnern Stadium to Phuket&apos;s world-class training camps — compare fights, training, and combo experiences across Thailand&apos;s top destinations.
+                From Bangkok&apos;s legendary Rajadamnern Stadium to Phuket&apos;s Tiger Muay Thai — Thailand&apos;s national sport traces its roots to ancient battlefield combat. Here&apos;s everything you need to know about watching and training.
               </p>
             </div>
           </div>
@@ -253,6 +257,96 @@ export default function BestMuayThaiPage({ cities, topActivities }: Props) {
                 </Link>
               </div>
             ))}
+
+            {/* History & Context */}
+            <div className="bg-white rounded-2xl shadow-md p-8 mb-8">
+              <p className="section-label">History</p>
+              <h2 className="text-2xl font-bold font-heading text-gray-900 mb-4">
+                From Ancient Battlefield to National Sport
+              </h2>
+              <div className="prose prose-gray max-w-none text-gray-700 space-y-4">
+                <p>
+                  Muay Thai — the &quot;Art of Eight Limbs&quot; — evolved from <strong>Muay Boran</strong>, a close-combat system used by Siamese armies from at least the 13th century Sukhothai Kingdom. Soldiers who lost their weapons in battle fell back on their fists, elbows, knees, and shins. This survival system was refined over centuries of conflict with Burmese, Cambodian, and Lao kingdoms.
+                </p>
+                <p>
+                  The most celebrated figure in Muay Thai folklore is <strong>Nai Khanom Tom</strong>, a fighter captured by Burmese forces after the fall of Ayutthaya in 1767. In 1774, at a royal celebration in Rangoon, he was ordered to fight Burmese boxers. He reportedly defeated nine or ten fighters in succession without pause — a feat that earned him his freedom. Every year on <strong>March 17</strong>, Thailand observes Nai Khanom Tom Day in his honour. He remains the symbolic &quot;Father of Muay Thai.&quot;
+                </p>
+                <p>
+                  Muay Thai in its modern codified form — with gloves, rounds, and a referee — emerged under <strong>King Rama VII</strong> in the 1920s and 1930s. Rajadamnern Stadium opened in <strong>1945</strong> as Thailand&apos;s first permanent Muay Thai arena. Lumpinee Stadium followed in <strong>1956</strong> and quickly became the sport&apos;s most prestigious venue. Both operate to this day.
+                </p>
+                <p>
+                  In 2024, Thailand formally proposed Muay Thai for <strong>UNESCO&apos;s Representative List of the Intangible Cultural Heritage of Humanity</strong> — recognition that would place it alongside Songkran (already inscribed in 2023) as a protected piece of Thai cultural identity.
+                </p>
+              </div>
+            </div>
+
+            {/* Landmark Stadiums & Gyms */}
+            <div className="bg-white rounded-2xl shadow-md p-8 mb-8">
+              <p className="section-label">Must-Know Venues</p>
+              <h2 className="text-2xl font-bold font-heading text-gray-900 mb-6">
+                Legendary Stadiums &amp; Major Training Camps
+              </h2>
+              <div className="space-y-6">
+                {[
+                  {
+                    name: 'Rajadamnern Stadium',
+                    location: 'Bangkok (Rattanakosin, near Democracy Monument)',
+                    type: 'Fights',
+                    typeColor: 'bg-red-100 text-red-700',
+                    description: 'Opened in 1945, Rajadamnern is Thailand\'s oldest operating Muay Thai stadium and one of only two arenas that can grant the official Rajadamnern Championship belt. The atmosphere — traditional sarama music, bookmakers gesturing through the crowd, packed standing sections — is unlike anything in sport. Fight nights run on Mondays, Wednesdays, Thursdays, and Sundays.',
+                    highlights: ['Oldest stadium in Thailand (1945)', 'Official championship belt fights', 'Mon / Wed / Thu / Sun fight nights'],
+                  },
+                  {
+                    name: 'Lumpinee Boxing Stadium',
+                    location: 'Bangkok (Ram Intra Road, north of city centre)',
+                    type: 'Fights',
+                    typeColor: 'bg-red-100 text-red-700',
+                    description: 'Established in 1956 and relocated to a modern air-conditioned arena in 2014, Lumpinee is widely regarded as the most prestigious Muay Thai stadium in the world. A Lumpinee belt is the sport\'s highest honour. The army-operated stadium runs fights on Tuesdays and Fridays.',
+                    highlights: ['Most prestigious stadium in the world', 'Army-run, belt fights', 'Modern arena since 2014'],
+                  },
+                  {
+                    name: 'Tiger Muay Thai',
+                    location: 'Soi Ta-Iad, Chalong, Phuket',
+                    type: 'Training',
+                    typeColor: 'bg-blue-100 text-blue-700',
+                    description: 'Founded in 2003, Tiger Muay Thai has grown into one of the largest Muay Thai and MMA training facilities in Southeast Asia. Spanning over 9,600 m², the camp has 12 rings, a full MMA cage, 40+ trainers, and runs 25+ classes daily Monday to Saturday (6:30 am – 7:00 pm). Classes cover Muay Thai at all levels, MMA, BJJ, boxing, yoga, and Muay Boran. A single 2.5-hour class costs 500 baht; a monthly training pass runs 14,000 baht.',
+                    highlights: ['9,600 m² facility, 12 rings', '25+ classes per day, all levels', '500 baht/class | 14,000 baht/month'],
+                  },
+                  {
+                    name: 'Lanna Muay Thai (Kiat Busaba)',
+                    location: 'Mae Rim area, Chiang Mai',
+                    type: 'Training',
+                    typeColor: 'bg-blue-100 text-blue-700',
+                    description: 'One of Chiang Mai\'s most respected and established camps with over 30 years of history. Lanna (also known as Kiat Busaba) offers an authentic training experience in a natural mountain setting south of the old city. Highly regarded for producing regional champions. Weekly packages from 6,000 baht include accommodation options.',
+                    highlights: ['30+ years of history', 'Authentic camp atmosphere', 'From 6,000 baht/week'],
+                  },
+                  {
+                    name: 'Dang Muay Thai',
+                    location: 'Chiang Mai Old City',
+                    type: 'Training',
+                    typeColor: 'bg-blue-100 text-blue-700',
+                    description: 'The highest-rated Muay Thai gym in Chiang Mai with 2,700+ five-star Google reviews. Located in the heart of the old town, Dang Muay Thai offers a modern 9,000 sq ft facility with structured classes for all levels — ideal for travellers who want quality coaching without commuting outside the city.',
+                    highlights: ['2,700+ five-star reviews', 'Central old city location', 'Modern 9,000 sq ft facility'],
+                  },
+                ].map((venue) => (
+                  <div key={venue.name} className="flex gap-4 p-4 bg-surface-cream rounded-xl">
+                    <div className="flex-1">
+                      <div className="flex flex-wrap items-center gap-2 mb-1">
+                        <h3 className="font-bold font-heading text-gray-900">{venue.name}</h3>
+                        <span className={`text-xs font-semibold px-2 py-0.5 rounded ${venue.typeColor}`}>{venue.type}</span>
+                      </div>
+                      <div className="text-xs text-gray-500 mb-2">{venue.location}</div>
+                      <p className="text-sm text-gray-700 mb-3">{venue.description}</p>
+                      <div className="flex flex-wrap gap-1.5">
+                        {venue.highlights.map((h, i) => (
+                          <span key={i} className="text-[11px] bg-white text-gray-600 px-2 py-0.5 rounded-full shadow-sm">{h}</span>
+                        ))}
+                      </div>
+                    </div>
+                  </div>
+                ))}
+              </div>
+            </div>
 
             {/* Best Training Gyms */}
             <div className="bg-white rounded-2xl shadow-md p-8 mb-8">

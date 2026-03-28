@@ -47,50 +47,114 @@ const SOURCE_LINKS = [
     href: 'https://www.tourismthailand.org/Destinations/Provinces/ko-tao/361'
   },
   {
+    label: 'Tourism Authority of Thailand: Ko Phangan',
+    href: 'https://www.tourismthailand.org/Destinations/Provinces/Ko-Phangan/358'
+  },
+  {
     label: 'Tourism Authority of Thailand: Ko Chang',
     href: 'https://www.tourismthailand.org/Destinations/Provinces/Ko%20Chang/467'
   },
   {
-    label: 'Tourism Authority of Thailand: Phuket province',
-    href: 'https://www.tourismthailand.org/Destinations/Provinces/phuket/350'
+    label: 'Tourism Authority of Thailand: Ko Lanta',
+    href: 'https://www.tourismthailand.org/Destinations/Provinces/Ko-Lanta/357'
+  },
+  {
+    label: 'Tourism Authority of Thailand: Ko Samet',
+    href: 'https://www.tourismthailand.org/Destinations/Provinces/Ko-Samet/468'
+  },
+  {
+    label: 'Tourism Authority of Thailand: Tarutao National Park (Ko Lipe)',
+    href: 'https://www.tourismthailand.org/Attraction/tarutao-national-park'
+  },
+  {
+    label: 'Tourism Authority of Thailand: Ko Yao Noi',
+    href: 'https://www.tourismthailand.org/Attraction/ko-yao-noi'
+  },
+  {
+    label: 'Tourism Authority of Thailand: Ko Mak',
+    href: 'https://www.tourismthailand.org/Attraction/ko-mak'
+  },
+  {
+    label: 'Wikipedia: Phi Phi Islands',
+    href: 'https://en.wikipedia.org/wiki/Phi_Phi_Islands'
+  },
+  {
+    label: 'Wikipedia: Ko Tao',
+    href: 'https://en.wikipedia.org/wiki/Ko_Tao'
+  },
+  {
+    label: 'Wikipedia: Ko Pha-ngan',
+    href: 'https://en.wikipedia.org/wiki/Ko_Pha-ngan'
+  },
+  {
+    label: 'Wikipedia: Ko Chang',
+    href: 'https://en.wikipedia.org/wiki/Ko_Chang'
+  },
+  {
+    label: 'Wikipedia: Ko Lipe',
+    href: 'https://en.wikipedia.org/wiki/Ko_Lipe'
+  },
+  {
+    label: 'Wikipedia: Ko Samet',
+    href: 'https://en.wikipedia.org/wiki/Ko_Samet'
+  },
+  {
+    label: 'Wikipedia: Ko Yao district (Phang Nga Bay)',
+    href: 'https://en.wikipedia.org/wiki/Ko_Yao_district'
+  },
+  {
+    label: 'Wikipedia: Ko Mak',
+    href: 'https://en.wikipedia.org/wiki/Ko_Mak'
   }
 ];
 
 const FAQ_ITEMS = [
   {
-    question: 'Do you need to island-hop in Thailand to have a good trip?',
-    answer: 'No. Many travelers are better off choosing one island base and adding a day trip or two. Island-hopping only pays off if you want contrast and are comfortable spending part of the trip on transfer days.'
+    question: 'What is the difference between the Andaman coast and the Gulf of Thailand?',
+    answer: 'The Andaman Sea sits on the western side of the Thai peninsula, sheltered by the Malay Peninsula\'s mountain ridge. Its dry season runs November to April. The Gulf of Thailand wraps around the other side, with a different monsoon pattern — Koh Samui, Koh Phangan, and Koh Tao can be visited through much of the year when the Andaman is wet. The two coasts do not share a season, which matters for planning.'
   },
   {
-    question: 'How should you choose between the Andaman coast and the Gulf?',
-    answer: 'Use the Andaman coast for dramatic scenery, famous bays, and routes built around Phuket or Krabi. Use the Gulf for Samui, Phangan, and Tao when you want a linked trio with different moods and a season pattern that can work better outside the Andaman sweet spot.'
+    question: 'Which islands can be connected on a single Gulf trip?',
+    answer: 'Koh Samui, Koh Phangan, and Koh Tao form a natural cluster. Samui to Phangan is a 30–60 minute ferry; Phangan to Tao is roughly the same. The three islands have distinct characters — Samui is the most developed and easiest entry point, Phangan splits between the Full Moon Party scene at Hat Rin and quiet north-coast beaches, Tao is overwhelmingly dive-focused. Koh Chang and Koh Mak in Trat Province form a separate eastern Gulf cluster, further from Bangkok and unconnected to the Samui group.'
   },
   {
-    question: 'Which islands are the easiest for first-time visitors?',
-    answer: 'Phuket and Koh Samui are the easiest starting points because they function well as full-service bases. They are not the quietest islands, but they reduce logistics risk for a first Thailand trip.'
+    question: 'Is Koh Phi Phi worth visiting given the overtourism concerns?',
+    answer: 'The Phi Phi Islands have genuine environmental pressure, and that is worth acknowledging. Maya Bay closed entirely in 2018 after significant coral damage and reopened in January 2022 with a cap of 2,000 visitors per day — a real reduction from the 5,000-plus who visited daily at peak. The dramatic limestone karst geography, the national park status, and the car-free character of Phi Phi Don remain intact. Arriving on a weekday in shoulder season and booking through an operator who confirms Maya Bay entry in advance are the most practical mitigations.'
+  },
+  {
+    question: 'How remote is Koh Lipe, and is it accessible year-round?',
+    answer: 'Koh Lipe is within Tarutao National Park in Satun Province, near the Malaysian border. The ferry from Pak Bara Pier takes about 1.5 hours. The island is largely inaccessible during the May–October monsoon when ferry services are reduced or suspended. Most accommodation and restaurants close for several months. This is a genuine planning constraint, not a technicality.'
+  },
+  {
+    question: 'Which Thai island is best for diving beginners?',
+    answer: 'Koh Tao is the practical answer. It has the highest concentration of dive schools, the most affordable open-water certification packages, and genuinely calm, clear water for the first few dives. PADI cites it as the location that has certified more divers than anywhere else in Southeast Asia. For more experienced divers seeking the healthiest reef systems, the Similan Islands (Phang Nga Province, Andaman) are a step above — but they require liveaboard trips or advance-booked day excursions from Khao Lak.'
+  },
+  {
+    question: 'Do you need to island-hop to get the most from a Thailand trip?',
+    answer: 'No. The default assumption that island-hopping is better value is often wrong. Transfer days consume time, and smaller islands typically have fewer services and more weather risk during crossings. A single island base with one or two day trips — or two carefully chosen islands with the transit factored in — usually delivers a stronger experience than rushing through four or five. The Gulf trio (Samui, Phangan, Tao) makes island-hopping sensible because the ferries are short and frequent. Other combinations require more planning honesty.'
   }
 ];
 
 const PLANNING_FRAMEWORK = [
   {
-    title: 'Pick the trip style first',
-    body: 'Choose between a single island base, a two-island contrast, or a faster island-hop. Most weak itineraries start by collecting famous names instead of matching islands to pace and priorities.'
+    title: 'The two coasts do not share a season',
+    body: 'The Andaman Sea (Phi Phi, Lanta, Lipe, Yao Noi) is strongest November to April. The Gulf of Thailand (Samui, Phangan, Tao, Chang, Samet, Mak) runs on a different monsoon clock — often viable when the Andaman is wet. Knowing which coast you are on is the first decision, not the last.'
   },
   {
-    title: 'Use access as a filter, not an afterthought',
-    body: 'Phuket and Koh Samui absorb mistakes better because they are straightforward arrivals. Smaller islands can be better experiences, but only if you actively want the extra transfer steps.'
+    title: 'Access is a real variable, not a footnote',
+    body: 'Koh Samui has an airport. Koh Tao requires a ferry from either Samui or the mainland. Koh Lipe is a 1.5-hour speedboat from a mainland pier and largely closed in the wet season. Ko Lanta is unusual in being reachable by road via vehicle ferry. These differences change the shape of a trip significantly.'
   },
   {
-    title: 'Keep season notes durable',
-    body: 'This guide uses broad coast patterns and avoids brittle route promises. Exact ferries, marine conditions, and park access can change faster than an editorial page should pretend otherwise.'
+    title: 'Size and crowd profile are not the same thing',
+    body: 'Koh Chang is Thailand\'s third-largest island but far less internationally developed than Koh Samui. Ko Lipe is small but busy during its short high season. Ko Mak is privately owned and deliberately quiet. The crowd level of an island is not determined by its size — it is determined by its infrastructure and its distance from an airport.'
   }
 ];
 
 const COAST_NOTES = {
   Andaman:
-    'The Andaman side is strongest for classic scenery and headline beach imagery. It is where Phuket, Phi Phi, Lanta, Yao Noi, and Lipe start making sense as a cluster rather than one-off picks.',
+    'The Andaman Sea coast is on Thailand\'s western side, open to the Indian Ocean and protected during its dry season (November–April) by the peninsula\'s central mountain range. It holds the limestone karst formations at Phi Phi and Phang Nga Bay, the remotest national park beaches at Ko Lipe, and the quieter community island of Ko Yao Noi. Most of what the world recognises as "Thailand scenery" — the vertical cliffs, the turquoise bays — is on this coast.',
   Gulf:
-    'The Gulf gives you a more coherent set of linked identities: Samui for convenience, Phangan for range, Tao for diving, and the eastern islands for slower beach time.'
+    'The Gulf of Thailand coast wraps around the eastern side of the peninsula. The monsoon pattern here is offset from the Andaman: Ko Samui, Ko Phangan, and Ko Tao are often accessible when the western islands are wet. The Gulf\'s defining cluster is the Samui–Phangan–Tao trio, connected by short regular ferries. The eastern Gulf — Ko Chang, Ko Mak — is closer to Bangkok and functions as a separate sub-cluster with lower international tourism density.'
 };
 
 function matchesBestFor(item: IslandData, filter: BestForFilter) {
@@ -98,13 +162,36 @@ function matchesBestFor(item: IslandData, filter: BestForFilter) {
 
   switch (filter) {
     case 'diving':
-      return tags.some(tag => ['diving', 'budget diving', 'snorkeling', 'pristine waters'].includes(tag));
+      return tags.some(tag =>
+        tag.includes('diving') ||
+        tag.includes('snorkel') ||
+        tag.includes('coral') ||
+        tag.includes('dive')
+      );
     case 'families':
-      return tags.some(tag => ['families', 'first-timers'].includes(tag));
+      return tags.some(tag =>
+        tag.includes('famil') ||
+        tag.includes('first-timer') ||
+        tag.includes('weekend') ||
+        tag.includes('slow travel')
+      );
     case 'budget':
-      return tags.some(tag => ['budget', 'budget diving', 'backpackers', 'camping'].includes(tag));
+      return tags.some(tag =>
+        tag.includes('budget') ||
+        tag.includes('backpacker') ||
+        tag.includes('eco') ||
+        tag.includes('short break')
+      );
     case 'couples':
-      return tags.some(tag => ['couples', 'honeymooners', 'relaxation', 'tranquility', 'luxury'].includes(tag));
+      return tags.some(tag =>
+        tag.includes('slow') ||
+        tag.includes('quiet') ||
+        tag.includes('authentic') ||
+        tag.includes('remote') ||
+        tag.includes('tranquil') ||
+        tag.includes('couple') ||
+        tag.includes('honeymoon')
+      );
     default:
       return true;
   }
@@ -186,8 +273,8 @@ export default function ThailandIslands({ data }: ThailandIslandsProps) {
   return (
     <>
       <SEOHead
-        title="Thailand Islands | Editorial guide to choosing the right island"
-        description="A planning-first guide to Thailand islands, with coast logic, shortlist filtering, and visible official source signals."
+        title="Thailand Islands | Geography-backed guide to 10 major islands"
+        description="Ten Thai island profiles with real geography, access routes, and seasonal facts — sourced from the Tourism Authority of Thailand and Wikipedia. Andaman and Gulf coast both covered."
       >
         <script
           type="application/ld+json"
@@ -199,16 +286,16 @@ export default function ThailandIslands({ data }: ThailandIslandsProps) {
         <section className="bg-surface-dark text-white">
           <div className="max-w-6xl mx-auto px-4 sm:px-6 lg:px-8 py-16 md:py-24">
             <div className="max-w-4xl">
-              <p className="font-script text-thailand-gold text-lg mb-3">Editorial island pillar</p>
+              <p className="font-script text-thailand-gold text-lg mb-3">Island planning guide</p>
               <h1 className="text-4xl lg:text-6xl font-heading font-bold mb-6">
-                Choose the island before you choose the itinerary
+                Thailand Islands: geography, access, and honest season notes
               </h1>
               <p className="text-lg lg:text-2xl opacity-90">
-                This page is built to narrow decisions, not inflate a ranking. Use it to decide whether your trip belongs on the Andaman coast, the Gulf, or one of the slower eastern islands before you commit to transfers.
+                Thailand has over 1,400 islands across two coasts with separate monsoon patterns. This guide covers ten of the major ones — their real geography, what makes each distinct, how to get there, and which months actually work. Facts are sourced from the Tourism Authority of Thailand and Wikipedia.
               </p>
               <div className="flex flex-wrap gap-3 mt-8 text-sm">
-                <span className="bg-white/15 rounded-full px-4 py-2">12 island profiles</span>
-                <span className="bg-white/15 rounded-full px-4 py-2">Planning-led filters</span>
+                <span className="bg-white/15 rounded-full px-4 py-2">10 island profiles</span>
+                <span className="bg-white/15 rounded-full px-4 py-2">Andaman and Gulf coast</span>
                 <span className="bg-white/15 rounded-full px-4 py-2">Reviewed March 28, 2026</span>
               </div>
             </div>
@@ -274,9 +361,9 @@ export default function ThailandIslands({ data }: ThailandIslandsProps) {
           <div className="max-w-6xl mx-auto px-4 sm:px-6 lg:px-8">
             <div className="flex items-end justify-between gap-4 mb-8">
               <div>
-                <p className="section-label text-thailand-gold">Island shortlist</p>
+                <p className="section-label text-thailand-gold">Island profiles</p>
                 <h2 className="text-3xl font-heading font-bold text-gray-900">
-                  Which island shape matches your trip?
+                  Ten islands — geography, access, and what sets each apart
                 </h2>
               </div>
               <Link href="/islands/" className="text-sm font-semibold text-thailand-blue hover:underline">
@@ -353,7 +440,7 @@ export default function ThailandIslands({ data }: ThailandIslandsProps) {
           <div className="max-w-6xl mx-auto px-4 sm:px-6 lg:px-8">
             <p className="section-label text-thailand-gold text-center">Coast planning</p>
             <h2 className="text-3xl font-heading font-bold text-gray-900 text-center mb-8">
-              Choose the coast that matches your trip logic
+              Andaman Sea vs Gulf of Thailand — how the two coasts differ
             </h2>
             <div className="grid md:grid-cols-2 gap-6">
               {(['Andaman', 'Gulf'] as const).map(coast => (
@@ -383,22 +470,22 @@ export default function ThailandIslands({ data }: ThailandIslandsProps) {
 
         <section className="py-12 bg-surface-cream">
           <div className="max-w-5xl mx-auto px-4 sm:px-6 lg:px-8">
-            <p className="section-label text-thailand-gold text-center">Related routes</p>
+            <p className="section-label text-thailand-gold text-center">Related guides</p>
             <h2 className="text-3xl font-heading font-bold text-gray-900 text-center mb-8">
-              Stronger internal routes for the next decision
+              Next decisions after choosing a coast
             </h2>
             <div className="grid md:grid-cols-3 gap-6">
               <Link href="/best-beaches-in-thailand/" className="rounded-3xl bg-white p-6 hover:shadow-md transition-shadow">
                 <h3 className="text-xl font-heading font-bold text-gray-900 mb-2">Best beaches in Thailand</h3>
-                <p className="text-sm text-gray-700">Use the beach pillar when you already know the trip is beach-led and need the shortlist narrowed by vibe and coast.</p>
+                <p className="text-sm text-gray-700">Once you have picked a coast and a rough island, use the beach guide to narrow down which beach type matches your trip — white sand, calm bay, surf-accessible, or secluded.</p>
               </Link>
               <Link href="/islands/" className="rounded-3xl bg-white p-6 hover:shadow-md transition-shadow">
-                <h3 className="text-xl font-heading font-bold text-gray-900 mb-2">Islands discovery hub</h3>
-                <p className="text-sm text-gray-700">Browse every island profile as a discovery layer rather than a ranking page.</p>
+                <h3 className="text-xl font-heading font-bold text-gray-900 mb-2">Island guides hub</h3>
+                <p className="text-sm text-gray-700">Individual island profiles with more detailed practical notes — accommodation areas, ferry piers, and local context for each island in this guide.</p>
               </Link>
               <Link href="/compare/" className="rounded-3xl bg-white p-6 hover:shadow-md transition-shadow">
                 <h3 className="text-xl font-heading font-bold text-gray-900 mb-2">Island comparisons</h3>
-                <p className="text-sm text-gray-700">Useful once you are deciding between two realistic candidates instead of browsing loosely.</p>
+                <p className="text-sm text-gray-700">Head-to-head comparisons for the most common dilemmas: Samui vs Phangan, Phi Phi vs Lanta, Koh Tao vs Similan Islands. Useful once you have narrowed to two candidates.</p>
               </Link>
             </div>
           </div>
@@ -408,11 +495,11 @@ export default function ThailandIslands({ data }: ThailandIslandsProps) {
           <div className="max-w-4xl mx-auto px-4 sm:px-6 lg:px-8">
             <p className="section-label text-thailand-gold text-center">Sources and review</p>
             <h2 className="text-3xl font-heading font-bold text-gray-900 text-center mb-6">
-              Official sources behind the planning notes
+              Sources used in this guide
             </h2>
             <div className="rounded-3xl bg-surface-cream p-6 md:p-8">
               <p className="text-gray-700 leading-relaxed mb-5">
-                This page was reviewed on March 28, 2026 against official Tourism Authority of Thailand destination pages for the main island anchors in this cluster. Access and seasonal wording is kept broad where exact operating details are unstable.
+                Island area figures, administrative details, and population data are sourced from the Tourism Authority of Thailand destination pages and Wikipedia, both cited individually below. Area, coast, and monsoon season notes are kept at the broad level — ferry timetables, national park permit quotas, and entry fees change faster than an editorial page should claim to track precisely. Verify operational details with the relevant national park authority or ferry operator before travel.
               </p>
               <ul className="space-y-3">
                 {SOURCE_LINKS.map(source => (
