@@ -153,9 +153,10 @@ Use route status values deterministically during each city pass:
 Apply these transitions exactly:
 
 - move `pending` -> `in_progress` when the city selected by `execution.next_pending` is being worked and you begin work on that specific route
-- move `in_progress` -> `done` only after the route renders `200` or is intentionally documented as `noindex`, the leak scan is clean, the visible-source gate passes when supported, and the route-specific indexing decision is recorded
+- move `in_progress` -> `done` only after the route renders `200` or is intentionally documented as `noindex`, the leak scan is clean, the visible-source gate passes when supported, and any required indexing decision is recorded
+- if all 9 routes are `done` but the final full-cluster validation pass has not yet succeeded, mark the city `validation_pending`
 - leave the city `in_progress` until all 9 routes are `done`
-- move the city to `done` only after a final full-cluster validation pass succeeds across all 9 routes in one pass
+- move the city from `validation_pending` to `done` only after a final full-cluster validation pass succeeds across all 9 routes in one pass
 - if the final full-cluster validation fails for any route, move that route back to `in_progress` and keep the city `in_progress`
 
 ## Local Render Port Convention
@@ -192,7 +193,7 @@ Then check the rendered HTML for explicit leak patterns. A clean leak scan means
 for route in food hotels attractions best-time-to-visit budget cooking-classes muay-thai elephant-sanctuaries diving-snorkeling; do
   html="/tmp/[slug]-${route}.html"
   curl -s "$BASE_URL/city/[slug]/${route}/" > "$html"
-  if rg -q "TripAdvisor|tp\\.media|review_count|affiliate_url|trip_affiliate_url|current rates|verified hotel data|first-person|I visited|I stayed|our insider|book now" "$html"; then
+  if rg -q "TripAdvisor|tp\\.media|review_count|affiliate_url|trip_affiliate_url|book now|current rates|verified hotel data|I visited|I stayed|our insider|first-person|isAccessibleForFree" "$html"; then
     echo "dirty leak scan: ${route}"
     exit 1
   else
@@ -222,7 +223,7 @@ Treat any `missing visible source signal:` output as a failed gate for that rout
 
 If a route is intentionally kept `noindex`, confirm and document it before the city can be marked done:
 
-- Write the decision in the city support tracker notes as `indexing_decision: noindex` with the route list, reason, and review date.
+- Write the decision in the city support tracker notes as `indexing_decision: noindex` with the route list, reason, and review date. Do not record indexing decisions for routes that are intended to be indexable.
 - Confirm the rendered HTML contains a `meta[name="robots"]` tag whose content includes `noindex`.
 - Keep the route in the same pass only if the page is still strong enough to remain non-thin despite `noindex`.
 - If the tracker note and rendered HTML do not match, treat the route as undecided and do not mark the city done.
