@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-03-28T00:45:00.000Z",
+  "updated_at": "2026-03-28T01:15:00.000Z",
   "project": "go2thailand city support cluster upgrade tracker",
   "goal": "Upgrade all English city support clusters to source-backed, non-thin, AdSense-safe, EEAT-oriented pages.",
   "scope": [
@@ -25,7 +25,10 @@
   "execution": {
     "mode": "sequential",
     "source_of_truth": "cities array order",
-    "selection_rule": "Work top-to-bottom in listed city order. The next city is the first city whose status is not done.",
+    "start_rule": "Start with execution.next_pending and continue top-to-bottom in listed city order.",
+    "selection_rule": "Work top-to-bottom in listed city order. Keep current_city and next_pending aligned to the first city whose status is not done.",
+    "current_city": "ayutthaya",
+    "next_pending": "ayutthaya",
     "route_order_within_city": [
       "food",
       "hotels",

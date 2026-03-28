@@ -4,11 +4,12 @@
 
 - Follow `/home/marvin/Projecten/go2thailand.com/CITY_SUPPORT_UPGRADE_RUNBOOK.md`
 - Use `/home/marvin/Projecten/go2thailand.com/city-support-upgrade-tracker.json` as source of truth
-- Start with the first city whose status is not `done`
+- Start with `execution.next_pending`
 - Work city by city in sequence
 - Do not mark a city `done` until the full support cluster passes validation
 - Commit one fully validated city per commit by default; only batch consecutive cities when the same shared-template fix applies cleanly across them, and never include more than 3 fully validated cities in one commit
 - Stop only for blockers that cannot be resolved from the runbook, tracker, local validation, or primary-source research
+- If `execution.next_pending` is empty, the workflow is complete; otherwise keep `execution.current_city` and `execution.next_pending` aligned to the first city whose status is not `done`
 - Update tracker statuses to `in_progress` as work starts and record intentional `noindex` decisions during execution in tracker notes using this exact schema: `indexing_decision: noindex; routes: [route-a, route-b]; reason: [brief rationale]; review_date: YYYY-MM-DD`; only mark a city `done` after the full support cluster passes validation
 
 ## Per-City Checklist
