@@ -12,27 +12,21 @@
 - If `execution.next_pending` is empty, the workflow is complete; otherwise keep `execution.next_pending` set to the first city whose status is not `done`
 - Update tracker statuses deterministically: set a route to `in_progress` when it becomes the active route for the city selected by `execution.next_pending`; set it to `done` only after its route-level validation passes; if the final full-cluster validation fails for that route, move it back to `in_progress`
 - If all 9 routes are `done` but the final full-cluster validation pass has not yet succeeded, set the city status to `validation_pending`
+- Recompute the stored city status from the route-status rollup after every route-status change and correct any stale stored value before continuing
 - Record intentional `noindex` decisions during execution in tracker notes using this exact schema: `indexing_decision: noindex; routes: [route-a, route-b]; reason: [brief rationale]; review_date: YYYY-MM-DD`; do not record indexing decisions for routes intended to remain indexable; only mark a city `done` after the full support cluster passes validation
 
 ## Per-City Checklist
 
-1. Audit `/city/[slug]/food/`
-2. Audit `/city/[slug]/hotels/`
-3. Audit `/city/[slug]/attractions/`
-4. Audit `/city/[slug]/best-time-to-visit/`
-5. Audit `/city/[slug]/budget/`
-6. Audit `/city/[slug]/cooking-classes/`
-7. Audit `/city/[slug]/muay-thai/`
-8. Audit `/city/[slug]/elephant-sanctuaries/`
-9. Audit `/city/[slug]/diving-snorkeling/`
-10. Fix shared template issues before patching city-by-city around them
-11. Gather web-fact-checked primary sources
-12. Rewrite or harden weak route content
-13. Fix internal links
-14. Remove stale legacy leaks from rendered HTML and `__NEXT_DATA__`
-15. Validate locally
-16. Update route statuses as `pending` -> `in_progress` -> `done` during the city pass; if the final full-cluster validation fails for any route, move that route back to `in_progress`
-17. Continue to the next pending city
+1. Take the first city from `execution.next_pending`
+2. If a shared template issue blocks multiple routes, fix it once before resuming route-by-route work
+3. Set the first not-yet-done route in `route_order_within_city` to `in_progress`
+4. Audit, gather sources, rewrite, fix internal links, remove stale leaks, and validate that single active route
+5. Move that route to `done` only after its route-level gates pass
+6. Recompute and correct the stored city status after the route-status change
+7. Repeat steps 3-6 for the next not-yet-done route in that city
+8. Once all 9 routes are `done`, run the final full-cluster validation pass
+9. If the final full-cluster validation fails, move the failing route back to `in_progress` and correct the city status before continuing
+10. Continue to the next pending city
 
 ## Validation Commands
 

@@ -152,12 +152,23 @@ Use route status values deterministically during each city pass:
 
 Apply these transitions exactly:
 
-- move `pending` -> `in_progress` when the city selected by `execution.next_pending` is being worked and you begin work on that specific route
+- when work begins on the city selected by `execution.next_pending`, set the first not-yet-done route in `route_order_within_city` to `in_progress`
 - move `in_progress` -> `done` only after the route renders `200` or is intentionally documented as `noindex`, the leak scan is clean, the visible-source gate passes when supported, and any required indexing decision is recorded
-- if all 9 routes are `done` but the final full-cluster validation pass has not yet succeeded, mark the city `validation_pending`
-- leave the city `in_progress` until all 9 routes are `done`
-- move the city from `validation_pending` to `done` only after a final full-cluster validation pass succeeds across all 9 routes in one pass
-- if the final full-cluster validation fails for any route, move that route back to `in_progress` and keep the city `in_progress`
+- if the route-level validation for any route fails after it was marked `done`, move that route back to `in_progress` immediately
+
+Derive and correct the stored city status from the route statuses after every route-status change:
+
+- `pending`: all 9 route statuses are `pending`
+- `in_progress`: at least 1 route status is `in_progress` or `done`, and fewer than 9 route statuses are `done`
+- `validation_pending`: all 9 route statuses are `done`, but the final full-cluster validation pass has not yet succeeded
+- `done`: all 9 route statuses are `done` and the final full-cluster validation pass has succeeded
+
+Apply the city-status correction rules exactly:
+
+- if the stored city status disagrees with the derived city status, correct the stored value to match the derived value before continuing
+- if all 9 routes are `done` but the final full-cluster validation pass has not yet succeeded, set the city to `validation_pending`, not `done`
+- if the final full-cluster validation fails for any route, move that route back to `in_progress` and correct the city back to `in_progress`
+- do not leave the city in `pending` once any route is `in_progress` or `done`
 
 ## Local Render Port Convention
 
