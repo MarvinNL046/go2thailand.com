@@ -2,13 +2,13 @@
 
 ## Operating Rules
 
-- Follow `CITY_SUPPORT_UPGRADE_RUNBOOK.md`
-- Use `city-support-upgrade-tracker.json` as source of truth
+- Follow `/home/marvin/Projecten/go2thailand.com/CITY_SUPPORT_UPGRADE_RUNBOOK.md`
+- Use `/home/marvin/Projecten/go2thailand.com/city-support-upgrade-tracker.json` as source of truth
 - Start with `execution.next_pending`
 - Work city by city in sequence
 - Do not mark a city `done` until the full support cluster passes validation
-- Commit in sensible batches
-- Stop only for real blockers
+- Commit after a city passes validation, or after a small contiguous batch of cities has passed without any unresolved shared-template risk
+- Stop only for blockers that cannot be resolved from the runbook, tracker, local validation, or primary-source research
 
 ## Per-City Checklist
 
@@ -30,14 +30,23 @@
 16. Update tracker only after the city passes
 17. Continue to the next pending city
 
-## Validation
+## Validation Commands
 
 ```bash
 jq empty data/enhanced/[slug].json
 npx tsc --noEmit
 for route in food hotels attractions best-time-to-visit budget cooking-classes muay-thai elephant-sanctuaries diving-snorkeling; do
-  curl -I -s "http://127.0.0.1:3010/city/[slug]/${route}/" | head -n 1
+  test "$(curl -s -o /dev/null -w '%{http_code}' "http://127.0.0.1:3010/city/[slug]/${route}/")" = "200"
 done
 ```
 
-Run the rendered HTML leak checks for stale AI copy, scrape leftovers, affiliate-first copy, and missing source signals before marking a city complete.
+Render each route and scan the HTML for stale AI copy, scrape leftovers, affiliate-first copy, and missing source signals before marking a city complete:
+
+```bash
+for route in food hotels attractions best-time-to-visit budget cooking-classes muay-thai elephant-sanctuaries diving-snorkeling; do
+  curl -s "http://127.0.0.1:3010/city/[slug]/${route}/" > "/tmp/[slug]-${route}.html"
+  rg -n "TripAdvisor|tp\\.media|review_count|affiliate_url|trip_affiliate_url|book now|current rates|verified hotel data|I visited|I stayed|our insider|first-person|isAccessibleForFree|noindex" "/tmp/[slug]-${route}.html"
+done
+```
+
+If any route is intentionally noindex, verify the rendered HTML contains a `meta[name="robots"]` tag with `noindex` and record the route plus review date in the tracker before marking the city complete.
