@@ -6,7 +6,6 @@ import SEOHead from '../../../components/SEOHead';
 import CityExploreMore from '../../../components/CityExploreMore';
 import CitySupportSources from '../../../components/CitySupportSources';
 import transportRoutes from '../../../data/transport-routes.json';
-import { getAffiliates, CityAffiliates } from '../../../lib/affiliates';
 
 interface PracticalInfo {
   bestMonths?: string[];
@@ -60,7 +59,6 @@ interface TransportRouteLink {
 interface BestTimeToVisitPageProps {
   city: City;
   topRoutes: TransportRouteLink[];
-  affiliates: CityAffiliates | null;
 }
 
 const ALL_MONTHS = ['Jan', 'Feb', 'Mar', 'Apr', 'May', 'Jun', 'Jul', 'Aug', 'Sep', 'Oct', 'Nov', 'Dec'];
@@ -80,7 +78,7 @@ const MONTH_FULL_NAMES: Record<string, string> = {
   Dec: 'December',
 };
 
-export default function BestTimeToVisitPage({ city, topRoutes, affiliates }: BestTimeToVisitPageProps) {
+export default function BestTimeToVisitPage({ city, topRoutes }: BestTimeToVisitPageProps) {
   if (!city) return <div>City not found</div>;
 
   const cityName = typeof city.name === 'string' ? city.name : city.name?.en || '';
@@ -423,43 +421,6 @@ export default function BestTimeToVisitPage({ city, topRoutes, affiliates }: Bes
                 </div>
               )}
 
-              {/* Optional Planning Links */}
-              <div className="bg-white rounded-2xl shadow-md p-8">
-                <h3 className="text-2xl font-bold font-heading text-gray-900 mb-4 text-center">
-                  Optional Planning Links for {cityName}
-                </h3>
-                <p className="text-gray-600 text-center mb-6">
-                  Use these links only if you want to check current accommodation and transport options alongside the timing guidance above.
-                </p>
-                <div className="flex flex-col sm:flex-row gap-4 justify-center">
-                  {affiliates?.booking && (
-                    <a
-                      href={affiliates.booking}
-                      target="_blank"
-                      rel="noopener noreferrer sponsored"
-                      className="inline-flex items-center justify-center px-8 py-3 bg-thailand-blue text-white font-semibold rounded-xl hover:bg-thailand-blue-600 transition-colors"
-                    >
-                      View options on Booking.com
-                    </a>
-                  )}
-                  <Link
-                    href={`/city/${city.slug}/hotels/`}
-                    className="inline-flex items-center justify-center px-8 py-3 bg-thailand-blue text-white font-semibold rounded-xl hover:bg-thailand-blue-600 transition-colors"
-                  >
-                    Compare Hotel Areas
-                  </Link>
-                  <Link
-                    href={topRoutes.length > 0 ? `/transport/${topRoutes[0].slug}/` : `/city/${city.slug}/`}
-                    className="inline-flex items-center justify-center px-8 py-3 bg-thailand-blue text-white font-semibold rounded-xl hover:bg-thailand-blue-600 transition-colors"
-                  >
-                    Review Transport Routes
-                  </Link>
-                </div>
-                <p className="text-xs text-gray-400 text-center mt-4">
-                External planning links are optional tools. We may earn a commission at no extra cost to you.
-                </p>
-              </div>
-
               {/* Transport Routes */}
               {topRoutes && topRoutes.length > 0 && (
                 <div className="bg-white rounded-2xl shadow-md p-8">
@@ -606,7 +567,6 @@ export const getStaticProps: GetStaticProps = async ({ params }) => {
     props: {
       city: JSON.parse(JSON.stringify(city)),
       topRoutes,
-      affiliates: getAffiliates(slug),
     },
     revalidate: 86400,
   };
