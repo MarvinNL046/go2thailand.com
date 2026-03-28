@@ -142,6 +142,14 @@ Check whether each route should be:
 
 Do not force indexability onto a weak page, and do not leave `noindex` in place if the page has been upgraded enough to deserve crawling and ranking.
 
+## Local Render Port Convention
+
+Use `127.0.0.1:3010` for all local render validation in this runbook.
+
+- Run the app on port `3010` before checking routes.
+- Do not mix `3010` and `3001` inside the same validation pass.
+- If the app is already running on a different port, update the whole pass to that one port consistently before you start the checks.
+
 ## Validation Gates
 
 Before marking a city done, run:
@@ -159,6 +167,27 @@ curl -s http://127.0.0.1:3010/city/[slug]/muay-thai/
 curl -s http://127.0.0.1:3010/city/[slug]/elephant-sanctuaries/
 curl -s http://127.0.0.1:3010/city/[slug]/diving-snorkeling/
 ```
+
+Then check the rendered HTML for explicit leak patterns:
+
+```bash
+curl -s http://127.0.0.1:3010/city/[slug]/food/ | rg -n "TripAdvisor|tp\\.media|review_count|affiliate_url|trip_affiliate_url|current rates|verified hotel data|first-person|I visited|I stayed|our insider|book now"
+curl -s http://127.0.0.1:3010/city/[slug]/hotels/ | rg -n "TripAdvisor|tp\\.media|review_count|affiliate_url|trip_affiliate_url|current rates|verified hotel data|first-person|I visited|I stayed|our insider|book now"
+curl -s http://127.0.0.1:3010/city/[slug]/attractions/ | rg -n "TripAdvisor|tp\\.media|review_count|affiliate_url|trip_affiliate_url|current rates|verified hotel data|first-person|I visited|I stayed|our insider|book now"
+curl -s http://127.0.0.1:3010/city/[slug]/best-time-to-visit/ | rg -n "TripAdvisor|tp\\.media|review_count|affiliate_url|trip_affiliate_url|current rates|verified hotel data|first-person|I visited|I stayed|our insider|book now"
+curl -s http://127.0.0.1:3010/city/[slug]/budget/ | rg -n "TripAdvisor|tp\\.media|review_count|affiliate_url|trip_affiliate_url|current rates|verified hotel data|first-person|I visited|I stayed|our insider|book now"
+curl -s http://127.0.0.1:3010/city/[slug]/cooking-classes/ | rg -n "TripAdvisor|tp\\.media|review_count|affiliate_url|trip_affiliate_url|current rates|verified hotel data|first-person|I visited|I stayed|our insider|book now"
+curl -s http://127.0.0.1:3010/city/[slug]/muay-thai/ | rg -n "TripAdvisor|tp\\.media|review_count|affiliate_url|trip_affiliate_url|current rates|verified hotel data|first-person|I visited|I stayed|our insider|book now"
+curl -s http://127.0.0.1:3010/city/[slug]/elephant-sanctuaries/ | rg -n "TripAdvisor|tp\\.media|review_count|affiliate_url|trip_affiliate_url|current rates|verified hotel data|first-person|I visited|I stayed|our insider|book now"
+curl -s http://127.0.0.1:3010/city/[slug]/diving-snorkeling/ | rg -n "TripAdvisor|tp\\.media|review_count|affiliate_url|trip_affiliate_url|current rates|verified hotel data|first-person|I visited|I stayed|our insider|book now"
+```
+
+If a route is intentionally kept `noindex`, confirm and document it before the city can be marked done:
+
+- Write the decision in the city support tracker notes as `indexing_decision: noindex` with the route list, reason, and review date.
+- Confirm the rendered HTML contains a `meta[name="robots"]` tag whose content includes `noindex`.
+- Keep the route in the same pass only if the page is still strong enough to remain non-thin despite `noindex`.
+- If the tracker note and rendered HTML do not match, treat the route as undecided and do not mark the city done.
 
 Mark a city `done` only if all of these are true:
 
