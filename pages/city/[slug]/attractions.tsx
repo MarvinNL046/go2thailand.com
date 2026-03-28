@@ -376,7 +376,7 @@ export default function CityAttractionsPage({ city, attractions }: CityAttractio
                     Book Attraction Tickets & Tours in {city.name.en}
                   </h3>
                   <p className="text-gray-600 text-center mb-8">
-                    Skip the line and book your tickets in advance for the best experience.
+                    Compare ticket and tour platforms before you book, especially for high-demand attractions and guided visits.
                   </p>
                   <div className="grid grid-cols-1 md:grid-cols-2 gap-6">
                     <div className="border-0 bg-surface-cream rounded-2xl p-6 text-center">
@@ -387,7 +387,7 @@ export default function CityAttractionsPage({ city, attractions }: CityAttractio
                       <a
                         href="https://klook.tpo.lv/aq6ZFxvc"
                         target="_blank"
-                        rel="noopener noreferrer"
+                        rel="noopener noreferrer sponsored"
                         className="inline-flex items-center justify-center w-full px-6 py-3 bg-thailand-red text-white font-semibold rounded-xl hover:bg-thailand-red-600 transition-colors"
                       >
                         Browse on Klook
@@ -401,7 +401,7 @@ export default function CityAttractionsPage({ city, attractions }: CityAttractio
                       <a
                         href="https://getyourguide.tpo.lv/GuAFfGGK"
                         target="_blank"
-                        rel="noopener noreferrer"
+                        rel="noopener noreferrer sponsored"
                         className="inline-flex items-center justify-center w-full px-6 py-3 bg-thailand-blue text-white font-semibold rounded-xl hover:bg-thailand-blue-600 transition-colors"
                       >
                         Browse on GetYourGuide

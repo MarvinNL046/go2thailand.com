@@ -434,24 +434,24 @@ export default function BestTimeToVisitPage({ city, topRoutes }: BestTimeToVisit
 
               {/* Trip.com Widget */}
               <div className="bg-surface-cream rounded-2xl p-8 text-center">
-                <h3 className="text-xl font-bold font-heading text-gray-900 mb-4">Plan Your Trip to {cityName}</h3>
-                <p className="text-gray-600 mb-6">Search and compare the best deals on flights, hotels, and transport</p>
+                <h3 className="text-xl font-bold font-heading text-gray-900 mb-4">Plan Travel Logistics for {cityName}</h3>
+                <p className="text-gray-600 mb-6">Compare flight, hotel, and transport options in one place while you plan seasonal timing.</p>
                 <TripcomWidget city={cityName} type="hotels" />
               </div>
 
               {/* Affiliate Booking Links */}
               <div className="bg-white rounded-2xl shadow-md p-8">
                 <h3 className="text-2xl font-bold font-heading text-gray-900 mb-4 text-center">
-                  Book Your Trip to {cityName}
+                  Compare Booking Options for {cityName}
                 </h3>
                 <p className="text-gray-600 text-center mb-6">
-                  Compare prices across top booking platforms and find the best deal for your stay.
+                  Use these booking platforms to compare stay and transport options alongside the timing guidance above.
                 </p>
                 <div className="flex flex-col sm:flex-row gap-4 justify-center">
                   <a
                     href="https://trip.tpo.lv/TmObooZ5"
                     target="_blank"
-                    rel="noopener noreferrer"
+                    rel="noopener noreferrer sponsored"
                     className="inline-flex items-center justify-center px-8 py-3 bg-thailand-blue text-white font-semibold rounded-xl hover:bg-thailand-blue-600 transition-colors"
                   >
                     Search on Trip.com
@@ -459,7 +459,7 @@ export default function BestTimeToVisitPage({ city, topRoutes }: BestTimeToVisit
                   <a
                     href="https://booking.tpo.lv/2PT1kR82"
                     target="_blank"
-                    rel="noopener noreferrer"
+                    rel="noopener noreferrer sponsored"
                     className="inline-flex items-center justify-center px-8 py-3 bg-thailand-blue text-white font-semibold rounded-xl hover:bg-thailand-blue-600 transition-colors"
                   >
                     Search on Booking.com
@@ -467,7 +467,7 @@ export default function BestTimeToVisitPage({ city, topRoutes }: BestTimeToVisit
                   <a
                     href="https://12go.tpo.lv/tNA80urD"
                     target="_blank"
-                    rel="noopener noreferrer"
+                    rel="noopener noreferrer sponsored"
                     className="inline-flex items-center justify-center px-8 py-3 bg-thailand-blue text-white font-semibold rounded-xl hover:bg-thailand-blue-600 transition-colors"
                   >
                     Book Transport on 12Go

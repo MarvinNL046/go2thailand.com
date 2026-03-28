@@ -185,13 +185,12 @@ export default function CityFoodPage({ city, cityFoodData, enhancedRestaurants }
             {/* Book Your Stay & Transport Section - Moved to top */}
             <div className="mb-12">
               <h2 className="text-3xl font-bold font-heading text-gray-900 mb-8 text-center">
-                Book Your Stay & Transport
+                Stay Near the Best Food Areas
               </h2>
               <div className="bg-white rounded-2xl shadow-md p-8">
                 <TripcomWidget city={city.name.en} type="bundle" />
                 <p className="text-gray-600 text-center mt-6">
-                  Find hotels near the best food markets and restaurant districts in {city.name.en}. 
-                  Book your accommodation and transport together for the best deals!
+                  Compare stay and transport options near the food markets and restaurant districts that make {city.name.en} worth planning around.
                 </p>
               </div>
             </div>
@@ -428,7 +427,7 @@ export default function CityFoodPage({ city, cityFoodData, enhancedRestaurants }
                   <a
                     href="https://klook.tpo.lv/aq6ZFxvc"
                     target="_blank"
-                    rel="noopener noreferrer"
+                    rel="noopener noreferrer sponsored"
                     className="inline-flex items-center justify-center w-full px-6 py-3 bg-thailand-red text-white font-semibold rounded-xl hover:bg-thailand-red-600 transition-colors"
                   >
                     Browse on Klook
@@ -442,7 +441,7 @@ export default function CityFoodPage({ city, cityFoodData, enhancedRestaurants }
                   <a
                     href="https://getyourguide.tpo.lv/GuAFfGGK"
                     target="_blank"
-                    rel="noopener noreferrer"
+                    rel="noopener noreferrer sponsored"
                     className="inline-flex items-center justify-center w-full px-6 py-3 bg-thailand-blue text-white font-semibold rounded-xl hover:bg-thailand-blue-600 transition-colors"
                   >
                     Browse on GetYourGuide

@@ -353,10 +353,10 @@ export default function CityBudgetPage({ city, budgetGuide, budgetReality, budge
                 {/* TripcomWidget */}
                 <div className="bg-surface-cream rounded-2xl p-8 text-center">
                   <h3 className="text-xl font-bold font-heading text-gray-900 mb-4">
-                    Find the Best Deals in {city.name.en}
+                    Compare Travel Costs in {city.name.en}
                   </h3>
                   <p className="text-gray-600 mb-6">
-                    Compare prices on hotels, flights, and activities to stretch your budget further.
+                    Compare hotel, flight, and activity options to see how far your budget can realistically go.
                   </p>
                   <TripcomWidget city={city.name.en} type="hotels" />
                 </div>
@@ -387,16 +387,16 @@ export default function CityBudgetPage({ city, budgetGuide, budgetReality, budge
             {/* Book Your Stay - Affiliate Section */}
             <div className="bg-white rounded-2xl shadow-md p-8 mt-12 mb-8">
               <h3 className="text-2xl font-bold font-heading text-gray-900 mb-4 text-center">
-                Book Your Stay in {city.name.en}
+                Compare Accommodation Options in {city.name.en}
               </h3>
               <p className="text-gray-600 text-center mb-6">
-                Compare prices across top booking platforms and find the best deal for your budget.
+                Use these booking platforms to compare accommodation options against the budget ranges above.
               </p>
               <div className="flex flex-col sm:flex-row gap-4 justify-center">
                 <a
                   href="https://trip.tpo.lv/TmObooZ5"
                   target="_blank"
-                  rel="noopener noreferrer"
+                  rel="noopener noreferrer sponsored"
                   className="inline-flex items-center justify-center px-8 py-3 bg-thailand-blue text-white font-semibold rounded-xl hover:bg-thailand-blue-600 transition-colors"
                 >
                   Search on Trip.com
@@ -404,7 +404,7 @@ export default function CityBudgetPage({ city, budgetGuide, budgetReality, budge
                 <a
                   href="https://booking.tpo.lv/2PT1kR82"
                   target="_blank"
-                  rel="noopener noreferrer"
+                  rel="noopener noreferrer sponsored"
                   className="inline-flex items-center justify-center px-8 py-3 bg-thailand-blue text-white font-semibold rounded-xl hover:bg-thailand-blue-600 transition-colors"
                 >
                   Search on Booking.com

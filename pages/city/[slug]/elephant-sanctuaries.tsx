@@ -233,7 +233,7 @@ export default function ElephantSanctuariesPage({ city, sanctuaryData, affiliate
                         <a
                           href={GYG_AFFILIATE}
                           target="_blank"
-                          rel="noopener noreferrer"
+                          rel="noopener noreferrer sponsored"
                           className="inline-flex items-center px-6 py-2 bg-thailand-blue text-white font-semibold rounded-xl hover:bg-thailand-blue-600 transition-colors text-sm"
                         >
                           View on GetYourGuide
@@ -276,7 +276,7 @@ export default function ElephantSanctuariesPage({ city, sanctuaryData, affiliate
                 <a
                   href={GYG_AFFILIATE}
                   target="_blank"
-                  rel="noopener noreferrer"
+                  rel="noopener noreferrer sponsored"
                   className="inline-flex items-center justify-center px-8 py-3 bg-white text-thailand-blue font-semibold rounded-xl hover:bg-gray-100 transition-colors"
                 >
                   Browse on GetYourGuide
@@ -284,7 +284,7 @@ export default function ElephantSanctuariesPage({ city, sanctuaryData, affiliate
                 <a
                   href={KLOOK_AFFILIATE}
                   target="_blank"
-                  rel="noopener noreferrer"
+                  rel="noopener noreferrer sponsored"
                   className="inline-flex items-center justify-center px-8 py-3 bg-white/20 text-white font-semibold rounded-xl hover:bg-white/30 transition-colors border border-white/40"
                 >
                   Browse on Klook
