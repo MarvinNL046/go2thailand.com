@@ -9,7 +9,7 @@
 - Do not mark a city `done` until the full support cluster passes validation
 - Commit after a city passes validation, or after a small contiguous batch of cities has passed without any unresolved shared-template risk
 - Stop only for blockers that cannot be resolved from the runbook, tracker, local validation, or primary-source research
-- Update tracker statuses to `in_progress` as work starts and record intentional `noindex` decisions during execution; only mark a city `done` after the full support cluster passes validation
+- Update tracker statuses to `in_progress` as work starts and record intentional `noindex` decisions during execution with tracker notes in the exact form `indexing_decision: noindex`, plus the affected route list, reason, and review date; only mark a city `done` after the full support cluster passes validation
 
 ## Per-City Checklist
 
@@ -28,7 +28,7 @@
 13. Fix internal links
 14. Remove stale legacy leaks from rendered HTML and `__NEXT_DATA__`
 15. Validate locally
-16. Update tracker statuses and intentional `noindex` notes during execution; mark the city `done` only after it passes
+16. Update tracker statuses and intentional `noindex` notes during execution; when a route is intentionally noindex, write tracker notes in the exact form `indexing_decision: noindex` plus the affected route list, reason, and review date; mark the city `done` only after it passes
 17. Continue to the next pending city
 
 ## Validation Commands
@@ -62,4 +62,4 @@ For any route intentionally kept noindex, run a separate check:
 curl -s "http://127.0.0.1:3010/city/[slug]/[route]/" | rg -n '<meta[^>]*name="robots"[^>]*content="[^"]*noindex'
 ```
 
-Record the route plus review date in the tracker before marking the city complete.
+Record the route list, reason, and review date in the tracker notes using the exact `indexing_decision: noindex` form before marking the city complete.
