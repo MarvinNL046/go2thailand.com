@@ -104,7 +104,7 @@ export default function CityHotelsPage({ city, hotelData, hasTop10Hotels, enhanc
   const metadata = {
     ...baseMetadata,
     title: `Where to Stay in ${city.name.en} 2026 — Best Hotels & Areas`,
-    description: `Plan where to stay in ${city.name.en} with a practical guide to stronger hotel bases, better area logic, and source-backed accommodation picks where available.`,
+    description: `Plan where to stay in ${city.name.en} with a practical guide to stronger hotel bases, better area logic, and a clearer overview of stay types and areas.`,
   };
 
   return (

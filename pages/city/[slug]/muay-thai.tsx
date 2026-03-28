@@ -230,7 +230,7 @@ export default function MuayThaiPage({ city, muayThaiData, affiliates }: Props) 
                                 rel="noopener noreferrer sponsored"
                                 className="inline-flex items-center px-6 py-2 bg-thailand-red text-white font-semibold rounded-xl hover:bg-thailand-red-600 transition-colors text-sm"
                               >
-                                Check current availability
+                                Open fight-night search
                               </a>
                             )}
                           </div>
@@ -291,7 +291,7 @@ export default function MuayThaiPage({ city, muayThaiData, affiliates }: Props) 
                                 rel="noopener noreferrer sponsored"
                                 className="inline-flex items-center px-6 py-2 bg-thailand-blue text-white font-semibold rounded-xl hover:bg-thailand-blue-600 transition-colors text-sm"
                               >
-                                Check current availability
+                                Open training search
                               </a>
                             )}
                           </div>
@@ -349,7 +349,7 @@ export default function MuayThaiPage({ city, muayThaiData, affiliates }: Props) 
                                 rel="noopener noreferrer sponsored"
                                 className="inline-flex items-center px-6 py-2 bg-thailand-red text-white font-semibold rounded-xl hover:bg-thailand-red-600 transition-colors text-sm"
                               >
-                                Check current availability
+                                Open activity search
                               </a>
                             )}
                           </div>

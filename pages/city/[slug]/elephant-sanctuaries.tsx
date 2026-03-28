@@ -204,7 +204,7 @@ export default function ElephantSanctuariesPage({ city, sanctuaryData, affiliate
                             rel="noopener noreferrer sponsored"
                             className="inline-flex items-center px-6 py-2 bg-thailand-blue text-white font-semibold rounded-xl hover:bg-thailand-blue-600 transition-colors text-sm"
                           >
-                            Check current availability
+                            Open sanctuary search
                           </a>
                         )}
                       </div>

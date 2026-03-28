@@ -248,7 +248,7 @@ export default function CookingClassesPage({ city, cookingData, affiliates }: Pr
                             rel="noopener noreferrer sponsored"
                             className="inline-flex items-center px-6 py-2 bg-thailand-red text-white font-semibold rounded-xl hover:bg-thailand-red-600 transition-colors text-sm"
                           >
-                            Check current availability
+                            Open cooking class search
                           </a>
                         )}
                       </div>
