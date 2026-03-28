@@ -4,8 +4,6 @@ import Link from 'next/link';
 import Image from 'next/image';
 import SEOHead from '../../components/SEOHead';
 import Breadcrumbs from '../../components/Breadcrumbs';
-import PreFooterAffiliateBanner from '../../components/PreFooterAffiliateBanner';
-import TripcomWidget from '../../components/TripcomWidget';
 import {
   getAllItineraries,
   getItineraryBySlug,
@@ -195,17 +193,17 @@ export default function ItineraryPage({ itinerary, relatedItineraries }: Itinera
   const autoFaqs = [
     {
       question: `How much does ${itinerary.duration} days in Thailand cost?`,
-      answer: `A ${itinerary.duration}-day trip to Thailand costs approximately ${itinerary.budget.budget} on a budget, ${itinerary.budget.mid} for mid-range travel, and ${itinerary.budget.luxury} for a luxury experience. This includes accommodation, food, transport, and activities.`
+      answer: `A ${itinerary.duration}-day trip to Thailand costs approximately ${itinerary.budget.budget} on a budget, ${itinerary.budget.mid} for mid-range travel, and ${itinerary.budget.luxury} for a more comfortable experience. These are rough per-person estimates including accommodation, food, local transport, and paid activities — actual spending depends heavily on your habits and the season.`
     },
     {
       question: `What is the best time to visit ${itinerary.region} Thailand?`,
       answer: itinerary.bestTime
-        ? `The best time to visit ${itinerary.region} Thailand is ${itinerary.bestTime}. This period offers the most favorable weather and fewer crowds.`
-        : `The best time to visit Thailand is generally November to February during the cool, dry season. However, this can vary by region.`
+        ? `The best time to visit ${itinerary.region} Thailand is ${itinerary.bestTime}. This period generally offers the most stable weather conditions.`
+        : `The cool dry season (November to February) is widely considered the best time to visit Thailand. That said, timing varies by region — the Andaman coast has a different rainy season than the Gulf Coast.`
     },
     {
       question: `Is ${itinerary.duration} days enough for Thailand?`,
-      answer: `Yes, ${itinerary.duration} days is ${itinerary.duration <= 3 ? 'enough for a focused trip to one area' : itinerary.duration <= 7 ? 'a great amount of time to explore multiple destinations' : 'plenty of time for a comprehensive Thailand experience'}. This itinerary covers ${itinerary.cities?.join(', ') || itinerary.region} with a well-planned day-by-day schedule.`
+      answer: `${itinerary.duration} days is ${itinerary.duration <= 3 ? 'sufficient for a focused visit to one area' : itinerary.duration <= 7 ? 'a reasonable amount of time to cover a region or combine two nearby destinations' : 'enough for a thorough trip with room to slow down'}. This itinerary covers ${itinerary.cities?.join(', ') || itinerary.region} with a realistic day-by-day pace — not every hour is scheduled so you have flexibility.`
     }
   ];
   const allFaqs = [...autoFaqs, ...(itinerary.faqs || [])];
@@ -339,8 +337,8 @@ export default function ItineraryPage({ itinerary, relatedItineraries }: Itinera
                     {itinerary.region}
                   </span>
                   {itinerary.budget && (
-                    <span className="bg-white/20 backdrop-blur-sm text-white px-3 py-1 rounded text-sm font-semibold">
-                      From {itinerary.budget.budget}
+                    <span className="bg-white/20 backdrop-blur-sm text-white px-3 py-1 rounded text-sm">
+                      Budget from {itinerary.budget.budget} / day
                     </span>
                   )}
                 </div>
@@ -385,13 +383,14 @@ export default function ItineraryPage({ itinerary, relatedItineraries }: Itinera
                     </div>
                     <div className="bg-surface-cream rounded-xl p-4 text-center">
                       <div className="text-lg font-bold text-thailand-blue">{itinerary.budget?.budget || '-'}</div>
-                      <div className="text-sm text-gray-600">Min Budget</div>
+                      <div className="text-sm text-gray-600">Budget / day*</div>
                     </div>
                     <div className="bg-surface-cream rounded-xl p-4 text-center">
                       <div className="text-lg font-bold text-thailand-blue">{itinerary.highlights?.length || '-'}</div>
                       <div className="text-sm text-gray-600">Highlights</div>
                     </div>
                   </div>
+                  <p className="text-xs text-gray-400 mt-3">* Approximate per-person daily cost in USD, 2025–26 prices. Excludes international flights.</p>
 
                   {/* Highlights */}
                   {itinerary.highlights && itinerary.highlights.length > 0 && (
@@ -417,7 +416,7 @@ export default function ItineraryPage({ itinerary, relatedItineraries }: Itinera
                   <h2 className="text-3xl font-bold font-heading text-gray-900 mb-8 mt-1">Day-by-Day Itinerary</h2>
 
                   {itinerary.days && itinerary.days.map((day) => (
-                    <div key={day.day} className="relative mb-8">
+                    <div key={day.day} id={`day-${day.day}`} className="relative mb-8">
                       {/* Timeline connector */}
                       <div className="absolute left-6 top-16 bottom-0 w-0.5 bg-gray-200" style={{ display: day.day === itinerary.days.length ? 'none' : 'block' }} />
 
@@ -508,7 +507,7 @@ export default function ItineraryPage({ itinerary, relatedItineraries }: Itinera
                                 <svg className="w-5 h-5 text-orange-500 mr-2" fill="none" stroke="currentColor" viewBox="0 0 24 24">
                                   <path strokeLinecap="round" strokeLinejoin="round" strokeWidth="2" d="M12 6.253v13m0-13C10.832 5.477 9.246 5 7.5 5S4.168 5.477 3 6.253v13C4.168 18.477 5.754 18 7.5 18s3.332.477 4.5 1.253m0-13C13.168 5.477 14.754 5 16.5 5c1.746 0 3.332.477 4.5 1.253v13C19.832 18.477 18.246 18 16.5 18c-1.746 0-3.332.477-4.5 1.253" />
                                 </svg>
-                                Meals
+                                Where to eat
                               </h4>
                               <div className="grid grid-cols-1 md:grid-cols-3 gap-3">
                                 {day.meals.map((meal, idx) => (
@@ -530,7 +529,7 @@ export default function ItineraryPage({ itinerary, relatedItineraries }: Itinera
                                 <svg className="w-5 h-5 text-indigo-500 mr-2" fill="none" stroke="currentColor" viewBox="0 0 24 24">
                                   <path strokeLinecap="round" strokeLinejoin="round" strokeWidth="2" d="M19 21V5a2 2 0 00-2-2H7a2 2 0 00-2 2v16m14 0h2m-2 0h-5m-9 0H3m2 0h5M9 7h1m-1 4h1m4-4h1m-1 4h1m-5 10v-5a1 1 0 011-1h2a1 1 0 011 1v5m-4 0h4" />
                                 </svg>
-                                Where to Stay
+                                Where to stay
                               </h4>
                               <div className="flex gap-1 mb-3">
                                 {(['budget', 'mid', 'luxury'] as const).map(tab => (
@@ -543,7 +542,7 @@ export default function ItineraryPage({ itinerary, relatedItineraries }: Itinera
                                         : 'bg-gray-100 text-gray-600 hover:bg-gray-200'
                                     }`}
                                   >
-                                    {tab === 'budget' ? 'Budget' : tab === 'mid' ? 'Mid-Range' : 'Luxury'}
+                                    {tab === 'budget' ? 'Budget' : tab === 'mid' ? 'Mid-Range' : 'Comfortable'}
                                   </button>
                                 ))}
                               </div>
@@ -551,7 +550,7 @@ export default function ItineraryPage({ itinerary, relatedItineraries }: Itinera
                                 <div className="bg-indigo-50 rounded-xl p-4">
                                   <div className="font-medium text-gray-900">{day.accommodation[activeAccomTab]!.name}</div>
                                   {day.accommodation[activeAccomTab]!.price && (
-                                    <div className="text-sm text-green-600 font-medium mt-1">{day.accommodation[activeAccomTab]!.price}</div>
+                                    <div className="text-sm text-green-600 font-medium mt-1">{day.accommodation[activeAccomTab]!.price} / night (approx.)</div>
                                   )}
                                   {day.accommodation[activeAccomTab]!.description && (
                                     <div className="text-sm text-gray-600 mt-1">{day.accommodation[activeAccomTab]!.description}</div>
@@ -563,7 +562,7 @@ export default function ItineraryPage({ itinerary, relatedItineraries }: Itinera
                                       rel="noopener noreferrer"
                                       className="inline-block mt-2 text-sm text-thailand-blue font-medium hover:underline"
                                     >
-                                      Check availability &rarr;
+                                      View property &rarr;
                                     </a>
                                   )}
                                 </div>
@@ -574,11 +573,14 @@ export default function ItineraryPage({ itinerary, relatedItineraries }: Itinera
                           {/* Day Transport Info */}
                           {day.transport && (
                             <div className="bg-blue-50 rounded-xl p-4">
-                              <div className="flex items-center">
-                                <svg className="w-5 h-5 text-blue-500 mr-2 flex-shrink-0" fill="none" stroke="currentColor" viewBox="0 0 24 24">
+                              <div className="flex items-start">
+                                <svg className="w-5 h-5 text-blue-500 mr-2 flex-shrink-0 mt-0.5" fill="none" stroke="currentColor" viewBox="0 0 24 24">
                                   <path strokeLinecap="round" strokeLinejoin="round" strokeWidth="2" d="M13 10V3L4 14h7v7l9-11h-7z" />
                                 </svg>
-                                <span className="text-sm text-gray-700">{day.transport}</span>
+                                <div>
+                                  <span className="text-xs font-semibold text-blue-600 uppercase block mb-1">Getting there</span>
+                                  <span className="text-sm text-gray-700">{day.transport}</span>
+                                </div>
                               </div>
                             </div>
                           )}
@@ -591,9 +593,12 @@ export default function ItineraryPage({ itinerary, relatedItineraries }: Itinera
                 {/* Transport Between Cities */}
                 {itinerary.transport && itinerary.transport.length > 0 && (
                   <div className="bg-white rounded-2xl shadow-md p-8 mb-8">
-                    <h2 className="text-2xl font-bold font-heading text-gray-900 mb-6">
+                    <h2 className="text-2xl font-bold font-heading text-gray-900 mb-2">
                       Transport Between Cities
                     </h2>
+                    <p className="text-gray-600 text-sm mb-6">
+                      Costs and durations are approximate based on 2025–26 prices. Overnight options can save a night of accommodation on longer routes.
+                    </p>
                     <div className="space-y-4">
                       {itinerary.transport.map((segment, idx) => (
                         <div key={idx} className="bg-surface-cream rounded-xl p-5">
@@ -606,50 +611,35 @@ export default function ItineraryPage({ itinerary, relatedItineraries }: Itinera
                           </div>
                           <div className="grid grid-cols-1 md:grid-cols-2 gap-3">
                             {segment.options.map((option, oidx) => (
-                              <div key={oidx} className="bg-white rounded-xl p-3 flex items-center justify-between">
-                                <div>
-                                  <div className="font-medium text-sm text-gray-900">{option.type}</div>
-                                  {option.duration && <div className="text-xs text-gray-500">{option.duration}</div>}
-                                </div>
-                                <div className="text-right">
-                                  {option.cost && <div className="text-sm font-semibold text-green-600">{option.cost}</div>}
-                                  {option.bookingLink && (
-                                    <a
-                                      href={option.bookingLink}
-                                      target="_blank"
-                                      rel="noopener noreferrer"
-                                      className="text-xs text-thailand-blue hover:underline"
-                                    >
-                                      Book now
-                                    </a>
-                                  )}
-                                </div>
+                              <div key={oidx} className="bg-white rounded-xl p-3">
+                                <div className="font-medium text-sm text-gray-900">{option.type}</div>
+                                {option.duration && <div className="text-xs text-gray-500 mt-0.5">{option.duration}</div>}
+                                {option.cost && <div className="text-sm font-semibold text-green-600 mt-1">{option.cost} approx.</div>}
                               </div>
                             ))}
                           </div>
                         </div>
                       ))}
                     </div>
-                    <div className="mt-4">
-                      <a
-                        href="https://12go.tpo.lv/tNA80urD"
-                        target="_blank"
-                        rel="noopener noreferrer"
-                        className="inline-block bg-thailand-blue text-white px-6 py-2 rounded-xl font-semibold hover:bg-thailand-red transition-colors text-sm"
-                      >
-                        Compare all routes on 12Go Asia
-                      </a>
-                      <p className="text-xs text-gray-500 mt-2">Affiliate link</p>
-                    </div>
+                    <p className="text-xs text-gray-500 mt-4">
+                      Prices vary by class and season. Search routes on{' '}
+                      <a href="https://www.12go.asia/" target="_blank" rel="noopener noreferrer" className="text-thailand-blue hover:underline">12Go Asia</a>
+                      {' '}or{' '}
+                      <a href="https://www.rome2rio.com/" target="_blank" rel="noopener noreferrer" className="text-thailand-blue hover:underline">Rome2rio</a>
+                      {' '}to compare current options.
+                    </p>
                   </div>
                 )}
 
                 {/* Budget Breakdown Table */}
                 {itinerary.budgetBreakdown && itinerary.budgetBreakdown.length > 0 && (
                   <div className="bg-white rounded-2xl shadow-md p-8 mb-8">
-                    <h2 className="text-2xl font-bold font-heading text-gray-900 mb-6">
+                    <h2 className="text-2xl font-bold font-heading text-gray-900 mb-2">
                       Budget Breakdown
                     </h2>
+                    <p className="text-gray-600 text-sm mb-6">
+                      Approximate daily costs per person in USD, based on 2025–26 prices. Excludes international flights and travel insurance.
+                    </p>
                     <div className="overflow-x-auto">
                       <table className="w-full text-sm">
                         <thead>
@@ -657,7 +647,7 @@ export default function ItineraryPage({ itinerary, relatedItineraries }: Itinera
                             <th className="text-left py-3 pr-4 font-semibold text-gray-900">Category</th>
                             <th className="text-center py-3 px-4 font-semibold text-thailand-blue">Budget</th>
                             <th className="text-center py-3 px-4 font-semibold text-thailand-blue">Mid-Range</th>
-                            <th className="text-center py-3 px-4 font-semibold text-thailand-red">Luxury</th>
+                            <th className="text-center py-3 px-4 font-semibold text-thailand-red">Comfortable</th>
                           </tr>
                         </thead>
                         <tbody>
@@ -672,7 +662,7 @@ export default function ItineraryPage({ itinerary, relatedItineraries }: Itinera
                         </tbody>
                         <tfoot>
                           <tr className="border-t-2 border-gray-300 bg-surface-cream">
-                            <td className="py-3 pr-4 font-bold text-gray-900">Total</td>
+                            <td className="py-3 pr-4 font-bold text-gray-900">Approx. total / day</td>
                             <td className="py-3 px-4 text-center font-bold text-thailand-blue">{itinerary.budget.budget}</td>
                             <td className="py-3 px-4 text-center font-bold text-thailand-blue">{itinerary.budget.mid}</td>
                             <td className="py-3 px-4 text-center font-bold text-thailand-red">{itinerary.budget.luxury}</td>
@@ -687,7 +677,7 @@ export default function ItineraryPage({ itinerary, relatedItineraries }: Itinera
                 {itinerary.packingTips && itinerary.packingTips.length > 0 && (
                   <div className="bg-white rounded-2xl shadow-md p-8 mb-8">
                     <h2 className="text-2xl font-bold font-heading text-gray-900 mb-6">
-                      Packing Tips
+                      What to Pack
                     </h2>
                     <div className="grid grid-cols-1 md:grid-cols-2 gap-3">
                       {itinerary.packingTips.map((tip, idx) => (
@@ -718,55 +708,56 @@ export default function ItineraryPage({ itinerary, relatedItineraries }: Itinera
                     </div>
                   </div>
                 )}
+
                 {/* Related Guides */}
                 <div className="bg-surface-cream rounded-2xl p-8 mb-8">
                   <h2 className="text-2xl font-bold font-heading text-gray-900 mb-2">
-                    Plan Your Trip — Related Guides
+                    Related Planning Guides
                   </h2>
                   <p className="text-gray-600 text-sm mb-6">
-                    Everything you need to make the most of your Thailand adventure.
+                    Dig deeper into the destinations and logistics covered in this itinerary.
                   </p>
                   <div className="grid grid-cols-1 sm:grid-cols-2 gap-3">
                     <Link href="/city/" className="flex items-center gap-3 bg-white rounded-xl p-4 hover:shadow-md transition-shadow group">
                       <span className="text-2xl flex-shrink-0">🏙️</span>
                       <div>
                         <div className="font-semibold text-thailand-blue group-hover:underline text-sm">City Guides</div>
-                        <div className="text-xs text-gray-500">Explore all 33 Thai cities in depth</div>
+                        <div className="text-xs text-gray-500">In-depth guides for every Thai city</div>
                       </div>
                     </Link>
                     <Link href="/food/" className="flex items-center gap-3 bg-white rounded-xl p-4 hover:shadow-md transition-shadow group">
                       <span className="text-2xl flex-shrink-0">🍜</span>
                       <div>
                         <div className="font-semibold text-thailand-blue group-hover:underline text-sm">Thai Food Guide</div>
-                        <div className="text-xs text-gray-500">Dishes, street food & where to eat</div>
+                        <div className="text-xs text-gray-500">Dishes, street food, and where to eat</div>
                       </div>
                     </Link>
                     <Link href="/transport/" className="flex items-center gap-3 bg-white rounded-xl p-4 hover:shadow-md transition-shadow group">
                       <span className="text-2xl flex-shrink-0">🚌</span>
                       <div>
-                        <div className="font-semibold text-thailand-blue group-hover:underline text-sm">Transport Routes</div>
-                        <div className="text-xs text-gray-500">Buses, trains & ferries between cities</div>
+                        <div className="font-semibold text-thailand-blue group-hover:underline text-sm">Transport Guide</div>
+                        <div className="text-xs text-gray-500">Trains, buses, and ferries between cities</div>
                       </div>
                     </Link>
                     <Link href="/islands/" className="flex items-center gap-3 bg-white rounded-xl p-4 hover:shadow-md transition-shadow group">
                       <span className="text-2xl flex-shrink-0">🏝️</span>
                       <div>
                         <div className="font-semibold text-thailand-blue group-hover:underline text-sm">Thai Islands</div>
-                        <div className="text-xs text-gray-500">Best islands, beaches & dive spots</div>
+                        <div className="text-xs text-gray-500">Best islands, beaches, and dive spots</div>
                       </div>
                     </Link>
                     <Link href="/thailand-index/" className="flex items-center gap-3 bg-white rounded-xl p-4 hover:shadow-md transition-shadow group">
                       <span className="text-2xl flex-shrink-0">📊</span>
                       <div>
                         <div className="font-semibold text-thailand-blue group-hover:underline text-sm">Thailand Travel Index</div>
-                        <div className="text-xs text-gray-500">Compare costs, weather & rankings</div>
+                        <div className="text-xs text-gray-500">Compare costs, weather, and destination rankings</div>
                       </div>
                     </Link>
                     <Link href="/weather/" className="flex items-center gap-3 bg-white rounded-xl p-4 hover:shadow-md transition-shadow group">
                       <span className="text-2xl flex-shrink-0">☀️</span>
                       <div>
-                        <div className="font-semibold text-thailand-blue group-hover:underline text-sm">Weather Guide</div>
-                        <div className="text-xs text-gray-500">Best time to visit every region</div>
+                        <div className="font-semibold text-thailand-blue group-hover:underline text-sm">Weather by Region</div>
+                        <div className="text-xs text-gray-500">Best time to visit each area of Thailand</div>
                       </div>
                     </Link>
                     <Link href="/best-places-to-visit-thailand/" className="flex items-center gap-3 bg-white rounded-xl p-4 hover:shadow-md transition-shadow group">
@@ -779,7 +770,7 @@ export default function ItineraryPage({ itinerary, relatedItineraries }: Itinera
                     <Link href="/thailand-for-first-timers/" className="flex items-center gap-3 bg-white rounded-xl p-4 hover:shadow-md transition-shadow group">
                       <span className="text-2xl flex-shrink-0">✈️</span>
                       <div>
-                        <div className="font-semibold text-thailand-blue group-hover:underline text-sm">First Timer's Guide</div>
+                        <div className="font-semibold text-thailand-blue group-hover:underline text-sm">First Timer&apos;s Guide</div>
                         <div className="text-xs text-gray-500">Essential tips before your first visit</div>
                       </div>
                     </Link>
@@ -809,72 +800,69 @@ export default function ItineraryPage({ itinerary, relatedItineraries }: Itinera
                         <span className="text-gray-600">Region:</span>
                         <span className="font-medium">{itinerary.region}</span>
                       </div>
-                      <div className="flex justify-between">
-                        <span className="text-gray-600">Budget:</span>
-                        <span className="font-medium text-thailand-blue">{itinerary.budget?.budget}</span>
-                      </div>
-                      <div className="flex justify-between">
-                        <span className="text-gray-600">Mid-Range:</span>
-                        <span className="font-medium text-thailand-blue">{itinerary.budget?.mid}</span>
-                      </div>
-                      <div className="flex justify-between">
-                        <span className="text-gray-600">Luxury:</span>
-                        <span className="font-medium text-thailand-red">{itinerary.budget?.luxury}</span>
+                      <div className="border-t border-gray-100 pt-3 mt-1">
+                        <div className="text-xs text-gray-500 mb-2">Approx. daily cost (USD, excl. flights)</div>
+                        <div className="flex justify-between text-sm">
+                          <span className="text-gray-600">Budget:</span>
+                          <span className="font-medium text-thailand-blue">{itinerary.budget?.budget}</span>
+                        </div>
+                        <div className="flex justify-between text-sm mt-1">
+                          <span className="text-gray-600">Mid-range:</span>
+                          <span className="font-medium text-thailand-blue">{itinerary.budget?.mid}</span>
+                        </div>
+                        <div className="flex justify-between text-sm mt-1">
+                          <span className="text-gray-600">Comfortable:</span>
+                          <span className="font-medium text-thailand-red">{itinerary.budget?.luxury}</span>
+                        </div>
                       </div>
                       {itinerary.bestTime && (
-                        <div className="flex justify-between">
-                          <span className="text-gray-600">Best Time:</span>
-                          <span className="font-medium text-sm">{itinerary.bestTime}</span>
+                        <div className="flex justify-between border-t border-gray-100 pt-3">
+                          <span className="text-gray-600">Best time:</span>
+                          <span className="font-medium text-sm text-right max-w-[60%]">{itinerary.bestTime}</span>
                         </div>
                       )}
                     </div>
                   </div>
 
-                  {/* Book Your Trip Card */}
+                  {/* Planning Resources */}
                   <div className="bg-white rounded-2xl shadow-md p-6">
-                    <h3 className="text-xl font-bold font-heading text-gray-900 mb-3">Book Your Trip</h3>
+                    <h3 className="text-xl font-bold font-heading text-gray-900 mb-3">Planning Resources</h3>
                     <p className="text-gray-600 text-sm mb-4">
-                      Get the best deals on hotels, transport, and activities for this itinerary.
+                      Useful references for researching accommodation, transport, and activities for this itinerary.
                     </p>
-                    <div className="space-y-3">
-                      <a
-                        href="https://booking.tpo.lv/2PT1kR82"
-                        target="_blank"
-                        rel="noopener noreferrer"
-                        className="block bg-thailand-blue text-white text-center px-4 py-2 rounded-xl font-semibold hover:bg-thailand-red transition-colors text-sm"
-                      >
-                        Booking.com - Hotels
-                      </a>
-                      <a
-                        href="https://trip.tpo.lv/TmObooZ5"
-                        target="_blank"
-                        rel="noopener noreferrer"
-                        className="block bg-thailand-blue text-white text-center px-4 py-2 rounded-xl font-semibold hover:bg-thailand-red transition-colors text-sm"
-                      >
-                        Trip.com - Hotels & Flights
-                      </a>
-                      <a
-                        href="https://12go.tpo.lv/tNA80urD"
-                        target="_blank"
-                        rel="noopener noreferrer"
-                        className="block bg-thailand-red text-white text-center px-4 py-2 rounded-xl font-semibold hover:bg-thailand-blue transition-colors text-sm"
-                      >
-                        12Go Asia - Transport
-                      </a>
-                      <a
-                        href="https://klook.tpo.lv/7Dt6WApj"
-                        target="_blank"
-                        rel="noopener noreferrer"
-                        className="block bg-thailand-red text-white text-center px-4 py-2 rounded-xl font-semibold hover:bg-thailand-blue transition-colors text-sm"
-                      >
-                        Klook - Activities & Tours
-                      </a>
+                    <div className="space-y-2 text-sm">
+                      <div>
+                        <span className="font-medium text-gray-800">Hotels:</span>
+                        <span className="text-gray-600"> Search on Booking.com, Agoda (strong in Asia), or Trip.com</span>
+                      </div>
+                      <div>
+                        <span className="font-medium text-gray-800">Transport:</span>
+                        <span className="text-gray-600"> Check 12Go Asia or Rome2rio for bus, train, and ferry options</span>
+                      </div>
+                      <div>
+                        <span className="font-medium text-gray-800">Activities:</span>
+                        <span className="text-gray-600"> Klook and Viator list most popular tours and tickets; many attractions also offer direct booking</span>
+                      </div>
+                      <div>
+                        <span className="font-medium text-gray-800">SIM / eSIM:</span>
+                        <span className="text-gray-600"> AIS and DTAC tourist SIMs are available at Suvarnabhumi and most 7-Eleven stores</span>
+                      </div>
                     </div>
-                    <p className="text-xs text-gray-500 mt-3 text-center">Affiliate links</p>
+                    <Link href="/esim/" className="block text-thailand-blue text-sm hover:underline mt-4">
+                      eSIM options for Thailand &rarr;
+                    </Link>
                   </div>
 
-                  {/* Trip.com Widget */}
-                  <TripcomWidget city="Thailand" type="searchbox" customTitle="Search Thailand Hotels" />
+                  {/* Travel Insurance Note */}
+                  <div className="bg-surface-cream rounded-2xl p-6 border border-gray-200">
+                    <h3 className="text-lg font-bold font-heading text-gray-900 mb-2">Travel Insurance</h3>
+                    <p className="text-sm text-gray-600 mb-3">
+                      Medical care in Thailand is generally good but can be expensive without coverage. Most travel insurers cover Thailand; check that your policy includes adventure activities if relevant to your itinerary.
+                    </p>
+                    <Link href="/travel-insurance-thailand/" className="text-thailand-blue text-sm font-medium hover:underline">
+                      How to choose travel insurance for Thailand &rarr;
+                    </Link>
+                  </div>
 
                   {/* Related Itineraries */}
                   {relatedItineraries.length > 0 && (
@@ -914,59 +902,15 @@ export default function ItineraryPage({ itinerary, relatedItineraries }: Itinera
                         href="/itineraries/"
                         className="block text-thailand-blue text-center text-sm hover:underline mt-4 font-medium"
                       >
-                        View all itineraries &rarr;
+                        All Thailand itineraries &rarr;
                       </Link>
                     </div>
                   )}
-
-                  {/* eSIM */}
-                  <div className="bg-white rounded-2xl shadow-md p-6">
-                    <h3 className="text-xl font-bold font-heading mb-2">Thailand eSIM</h3>
-                    <p className="text-sm text-gray-600 mb-4">
-                      Stay connected during your {itinerary.duration}-day trip. Order your eSIM before you go.
-                    </p>
-                    <a
-                      href="https://saily.tpo.lv/rf9lidnE"
-                      target="_blank"
-                      rel="noopener noreferrer"
-                      className="block bg-thailand-blue text-white text-center px-4 py-2 rounded-xl font-semibold hover:bg-thailand-red transition-colors mb-2"
-                    >
-                      Saily eSIM
-                    </a>
-                    <Link href="/esim/" className="block text-thailand-blue text-center text-sm hover:underline">
-                      More eSIM options &rarr;
-                    </Link>
-                  </div>
-
-                  {/* Travel Insurance */}
-                  <div className="bg-surface-dark text-white rounded-2xl p-6">
-                    <h3 className="text-xl font-bold font-heading mb-2">Travel Insurance</h3>
-                    <p className="text-sm opacity-90 mb-4">
-                      Protect yourself while traveling Thailand. Compare the best travel insurance.
-                    </p>
-                    <Link href="/travel-insurance-thailand/" className="block bg-white text-thailand-blue text-center px-4 py-2 rounded-xl font-semibold hover:bg-surface-cream transition-colors">
-                      Compare Now
-                    </Link>
-                  </div>
                 </div>
               </aside>
             </div>
           </div>
         </section>
-
-        <PreFooterAffiliateBanner
-          title="Plan Your Thailand Trip"
-          description="Book hotels, transport, activities, and get connected with an eSIM"
-          links={[
-            { label: 'Booking.com', href: 'https://booking.tpo.lv/2PT1kR82' },
-            { label: 'Trip.com', href: 'https://trip.tpo.lv/TmObooZ5' },
-            { label: 'Activities', href: 'https://klook.tpo.lv/7Dt6WApj' },
-            { label: 'Transport', href: 'https://12go.tpo.lv/tNA80urD' },
-            { label: 'eSIM', href: 'https://saily.tpo.lv/rf9lidnE' },
-            { label: 'NordVPN', href: 'https://nordvpn.tpo.lv/ekHF1i55' },
-            { label: 'NordPass', href: 'https://nordvpn.tpo.lv/tp12zNjC' },
-          ]}
-        />
       </div>
     </>
   );

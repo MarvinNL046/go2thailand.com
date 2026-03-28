@@ -1,6 +1,6 @@
 {
   "metadata": {
-    "generated_at": "2026-03-27T20:44:04.619Z",
+    "generated_at": "2026-03-28T18:39:34.432Z",
     "city_count": 33,
     "data_version": "1.0.0",
     "source_hashes": {
@@ -9,8 +9,8 @@
       "regions": "2e23cfc4f090",
       "nomad_enrichment": "95daf32a040f",
       "safety_enrichment": "503f4c44942b",
-      "city:ayutthaya": "e5200c3cbca8",
-      "city:bangkok": "665be3e39752",
+      "city:ayutthaya": "eb618c647180",
+      "city:bangkok": "d452646f389f",
       "city:bueng-kan": "5a2d430f30c1",
       "city:chanthaburi": "0dac9cb4a3d0",
       "city:chiang-khan": "a2db23920e11",
@@ -18,12 +18,12 @@
       "city:chiang-rai": "1fad46c5270f",
       "city:chumphon": "ec38d1878711",
       "city:hat-yai": "3b92d51784f5",
-      "city:hua-hin": "1e960d6524bb",
+      "city:hua-hin": "262dae3454a6",
       "city:kanchanaburi": "b4c9b71524fb",
       "city:khon-kaen": "39c73428e996",
       "city:koh-samui": "84a9a2662ecd",
       "city:krabi": "6bbc2ac5a729",
-      "city:lampang": "b17624670776",
+      "city:lampang": "c76cc881f4a0",
       "city:lopburi": "d5fb652e63e2",
       "city:mae-hong-son": "a6efc02412ef",
       "city:mukdahan": "e0a71d9275b2",
@@ -35,8 +35,8 @@
       "city:pattaya": "8336a5914055",
       "city:phitsanulok": "741c56530da0",
       "city:phuket": "a4469e42e782",
-      "city:rayong": "15ccd371df59",
-      "city:sukhothai": "b2757a4a76bf",
+      "city:rayong": "d4262d55faf7",
+      "city:sukhothai": "8c76e395e6f7",
       "city:surat-thani": "ff41833915a9",
       "city:trang": "11f370d6685b",
       "city:trat": "e24e4b747406",
@@ -100,9 +100,9 @@
       },
       "budget": {
         "raw": {
-          "budget": "$25-45 per day",
-          "mid": "$60-130 per day",
-          "luxury": "$180+ per day"
+          "budget": "Approx. $25-45 per day",
+          "mid": "Approx. $60-130 per day",
+          "luxury": "Approx. $180+ per day"
         },
         "currency": "USD",
         "tier_budget": {

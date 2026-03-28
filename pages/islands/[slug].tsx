@@ -165,6 +165,13 @@ function getWhyGoText(island: Island, lang: Lang) {
   return `${island.name.en} stands out for ${island.highlights.slice(0, 3).join(', ')}. Use this page to decide whether it works as a real base, not just a name on a day-trip list.`;
 }
 
+function getBudgetContext(island: Island, lang: Lang) {
+  if (lang === 'nl') {
+    return `Dagbudgetten zijn schattingen voor een gemiddelde reisdag inclusief onderdak, maaltijden en lokaal transport. Activiteiten zoals duiken of boottochten zijn apart. ${island.budget_info.currency_tips.nl}`;
+  }
+  return `Daily budgets are estimates for an average travel day including accommodation, meals, and local transport. Activities such as diving or boat trips are additional. ${island.budget_info.currency_tips.en}`;
+}
+
 export default function IslandPage({ island, relatedIslands, comparisons, relevantRoutes }: IslandPageProps) {
   const { locale } = useRouter();
   const lang: Lang = locale === 'nl' ? 'nl' : 'en';
@@ -187,7 +194,7 @@ export default function IslandPage({ island, relatedIslands, comparisons, releva
           : `${getPlanningSummary(island, 'en')} Focus on pace, how many beach days you want, and how much transfer time you are willing to absorb.`
     },
     {
-      question: lang === 'nl' ? `Waar begin je met kiezen op ${island.name.en}?` : `Where should you start when choosing ${island.name.en}?`,
+      question: lang === 'nl' ? `Waar begin je met kiezen op ${island.name.en}?` : `Where should you start when planning for ${island.name.en}?`,
       answer:
         lang === 'nl'
           ? `Begin met de stranden, slaapgebieden en aankomstlogica. Dat trio bepaalt sneller of ${island.name.en} bij je reis past dan een losse top-10 lijst met activiteiten.`
@@ -246,6 +253,7 @@ export default function IslandPage({ island, relatedIslands, comparisons, releva
       </SEOHead>
 
       <div className="min-h-screen bg-surface-cream">
+        {/* Hero image */}
         <section className="relative h-[420px] lg:h-[520px]">
           <Image
             src={island.image}
@@ -260,7 +268,7 @@ export default function IslandPage({ island, relatedIslands, comparisons, releva
               <div className="flex flex-wrap gap-2 mb-4">
                 <span className="bg-white/20 backdrop-blur-sm px-3 py-1 rounded-full text-sm">{island.region}</span>
                 <span className="bg-white/20 backdrop-blur-sm px-3 py-1 rounded-full text-sm">{island.province}</span>
-                <span className="bg-white/20 backdrop-blur-sm px-3 py-1 rounded-full text-sm">Reviewed March 28, 2026</span>
+                <span className="bg-white/20 backdrop-blur-sm px-3 py-1 rounded-full text-sm">Reviewed March 2026</span>
               </div>
               <h1 className="text-4xl lg:text-6xl font-heading font-bold mb-4">{island.name[lang]}</h1>
               <p className="text-lg lg:text-xl max-w-3xl opacity-90">{island.description[lang]}</p>
@@ -268,12 +276,14 @@ export default function IslandPage({ island, relatedIslands, comparisons, releva
           </div>
         </section>
 
+        {/* Breadcrumbs */}
         <section className="bg-white border-b">
           <div className="max-w-6xl mx-auto px-4 sm:px-6 lg:px-8 py-4">
             <Breadcrumbs items={breadcrumbs} />
           </div>
         </section>
 
+        {/* Three-frame context */}
         <section className="bg-white border-b">
           <div className="max-w-6xl mx-auto px-4 sm:px-6 lg:px-8 py-10 grid md:grid-cols-3 gap-4">
             <div className="rounded-2xl bg-surface-cream p-5">
@@ -284,18 +294,18 @@ export default function IslandPage({ island, relatedIslands, comparisons, releva
             </div>
             <div className="rounded-2xl bg-surface-cream p-5">
               <h2 className="text-lg font-heading font-bold text-gray-900 mb-2">
-                {lang === 'nl' ? 'Trip-fit' : 'Trip fit'}
+                {lang === 'nl' ? 'Past het bij je reis' : 'Does it fit your trip'}
               </h2>
               <p className="text-sm text-gray-700 leading-relaxed">{getPlanningSummary(island, lang)}</p>
             </div>
             <div className="rounded-2xl bg-surface-cream p-5">
               <h2 className="text-lg font-heading font-bold text-gray-900 mb-2">
-                {lang === 'nl' ? 'Seizoenswaarschuwing' : 'Season caution'}
+                {lang === 'nl' ? 'Seizoenswaarschuwing' : 'Season note'}
               </h2>
               <p className="text-sm text-gray-700 leading-relaxed">
                 {lang === 'nl'
                   ? 'Gebruik het seizoensvenster als brede planningstool. Controleer precieze boot- en parkvoorwaarden dichter op vertrek.'
-                  : 'Use the season window as a broad planning tool. Check exact boat conditions and park operations closer to departure.'}
+                  : 'Season windows on this page are broad planning guides. Confirm exact ferry schedules and marine park operations closer to your travel date.'}
               </p>
             </div>
           </div>
@@ -303,14 +313,23 @@ export default function IslandPage({ island, relatedIslands, comparisons, releva
 
         <div className="max-w-6xl mx-auto px-4 sm:px-6 lg:px-8 py-12">
           <div className="grid lg:grid-cols-[minmax(0,2fr)_340px] gap-8">
+
+            {/* Main content */}
             <div className="space-y-10">
+
+              {/* Beaches */}
               <section className="rounded-3xl bg-white p-6 md:p-8 shadow-sm">
                 <p className="section-label text-thailand-gold">
                   {lang === 'nl' ? 'Stranden' : 'Beaches'}
                 </p>
-                <h2 className="text-3xl font-heading font-bold text-gray-900 mb-6">
+                <h2 className="text-3xl font-heading font-bold text-gray-900 mb-3">
                   {lang === 'nl' ? `Waar het eiland het sterkst is` : `Where ${island.name[lang]} is strongest`}
                 </h2>
+                <p className="text-gray-600 text-sm mb-6">
+                  {lang === 'nl'
+                    ? 'Stranden variëren sterk per eiland en per kant. De labels geven aan voor wie elke kust het meest geschikt is.'
+                    : 'Beaches vary considerably across the island. The labels indicate what each beach suits best — useful for matching your priorities.'}
+                </p>
                 <div className="space-y-4">
                   {island.beaches.map(beach => (
                     <div key={beach.name} className="rounded-2xl bg-surface-cream p-5">
@@ -330,19 +349,25 @@ export default function IslandPage({ island, relatedIslands, comparisons, releva
                 </div>
               </section>
 
+              {/* Activities */}
               <section className="rounded-3xl bg-white p-6 md:p-8 shadow-sm">
                 <p className="section-label text-thailand-gold">
-                  {lang === 'nl' ? 'Wat je hier echt doet' : 'What you actually do here'}
+                  {lang === 'nl' ? 'Activiteiten' : 'Activities'}
                 </p>
-                <h2 className="text-3xl font-heading font-bold text-gray-900 mb-6">
-                  {lang === 'nl' ? `Activiteiten die de reis sturen` : `Activities that shape the trip`}
+                <h2 className="text-3xl font-heading font-bold text-gray-900 mb-3">
+                  {lang === 'nl' ? `Wat je hier doet` : `What to do on ${island.name[lang]}`}
                 </h2>
+                <p className="text-gray-600 text-sm mb-6">
+                  {lang === 'nl'
+                    ? 'Prijsindicaties zijn richtgetallen voor het marktgemiddelde in 2025–2026. Boek via vergelijkingssites voor exacte prijzen.'
+                    : 'Price ranges are market-average estimates for 2025–2026. Use comparison platforms for exact current pricing before booking.'}
+                </p>
                 <div className="grid md:grid-cols-2 gap-4">
                   {island.activities.map(activity => (
                     <div key={activity.name} className="rounded-2xl bg-surface-cream p-5">
                       <div className="flex justify-between items-start gap-3 mb-2">
                         <h3 className="text-lg font-heading font-bold text-gray-900">{activity.name}</h3>
-                        <span className="rounded-full bg-white px-3 py-1 text-xs font-medium text-gray-700">
+                        <span className="rounded-full bg-white px-3 py-1 text-xs font-medium text-gray-700 shrink-0">
                           {activity.price_range}
                         </span>
                       </div>
@@ -353,13 +378,19 @@ export default function IslandPage({ island, relatedIslands, comparisons, releva
                 </div>
               </section>
 
+              {/* Getting there */}
               <section className="rounded-3xl bg-white p-6 md:p-8 shadow-sm">
                 <p className="section-label text-thailand-gold">
-                  {lang === 'nl' ? 'Aankomstlogica' : 'Arrival logic'}
+                  {lang === 'nl' ? 'Aankomst' : 'Getting there'}
                 </p>
-                <h2 className="text-3xl font-heading font-bold text-gray-900 mb-6">
-                  {lang === 'nl' ? `Hoe ${island.name[lang]} praktisch in je reis past` : `How ${island.name[lang]} fits into a real itinerary`}
+                <h2 className="text-3xl font-heading font-bold text-gray-900 mb-3">
+                  {lang === 'nl' ? `Reizen naar ${island.name[lang]}` : `Reaching ${island.name[lang]}`}
                 </h2>
+                <p className="text-gray-600 text-sm mb-6">
+                  {lang === 'nl'
+                    ? 'Reistijden en prijzen zijn schattingen. Controleer actuele veerboot- en vluchttijden dichter op je vertrekdatum.'
+                    : 'Journey times and prices are estimates. Confirm current ferry and flight schedules closer to your departure date.'}
+                </p>
                 <div className="space-y-4">
                   {island.getting_there.from_bangkok.options.map(option => (
                     <div key={`${option.method}-${option.duration}`} className="rounded-2xl bg-surface-cream p-5">
@@ -378,7 +409,7 @@ export default function IslandPage({ island, relatedIslands, comparisons, releva
                 {relevantRoutes.length > 0 && (
                   <div className="mt-5 rounded-2xl bg-amber-50 border border-amber-100 p-5">
                     <h3 className="text-lg font-heading font-bold text-gray-900 mb-3">
-                      {lang === 'nl' ? 'Verdiep je met routegidsen' : 'Deepen this with route guides'}
+                      {lang === 'nl' ? 'Gedetailleerde routegidsen' : 'Detailed route guides'}
                     </h3>
                     <div className="flex flex-wrap gap-3">
                       {relevantRoutes.map(route => (
@@ -391,19 +422,25 @@ export default function IslandPage({ island, relatedIslands, comparisons, releva
                 )}
               </section>
 
+              {/* Where to stay */}
               <section className="rounded-3xl bg-white p-6 md:p-8 shadow-sm">
                 <p className="section-label text-thailand-gold">
-                  {lang === 'nl' ? 'Waar verblijven' : 'Where to stay'}
+                  {lang === 'nl' ? 'Verblijf' : 'Where to stay'}
                 </p>
-                <h2 className="text-3xl font-heading font-bold text-gray-900 mb-6">
+                <h2 className="text-3xl font-heading font-bold text-gray-900 mb-3">
                   {lang === 'nl' ? `Slaapgebieden op ${island.name[lang]}` : `Stay areas on ${island.name[lang]}`}
                 </h2>
+                <p className="text-gray-600 text-sm mb-6">
+                  {lang === 'nl'
+                    ? 'Waar je verblijft bepaalt het tempo van je dagen. Elk gebied heeft een andere sfeer en reistijd naar de highlights.'
+                    : 'Where you stay shapes the pace of your days. Each area has a different character and proximity to the main beaches and activities.'}
+                </p>
                 <div className="grid md:grid-cols-2 gap-4">
                   {island.accommodation_tips.areas.map(area => (
                     <div key={area.name} className="rounded-2xl bg-surface-cream p-5">
                       <div className="flex justify-between items-start gap-3 mb-2">
                         <h3 className="text-lg font-heading font-bold text-gray-900">{area.name}</h3>
-                        <span className="rounded-full bg-white px-3 py-1 text-xs font-medium text-gray-700">
+                        <span className="rounded-full bg-white px-3 py-1 text-xs font-medium text-gray-700 shrink-0">
                           {area.price_range}
                         </span>
                       </div>
@@ -413,17 +450,18 @@ export default function IslandPage({ island, relatedIslands, comparisons, releva
                 </div>
               </section>
 
+              {/* Sources */}
               <section className="rounded-3xl bg-white p-6 md:p-8 shadow-sm">
                 <p className="section-label text-thailand-gold">
-                  {lang === 'nl' ? 'Bronnen en review' : 'Sources and review'}
+                  {lang === 'nl' ? 'Bronnen' : 'Sources and editorial notes'}
                 </p>
-                <h2 className="text-3xl font-heading font-bold text-gray-900 mb-6">
-                  {lang === 'nl' ? 'Zichtbare bronvermelding' : 'Visible source notes'}
+                <h2 className="text-3xl font-heading font-bold text-gray-900 mb-4">
+                  {lang === 'nl' ? 'Bronvermelding' : 'How this guide was compiled'}
                 </h2>
                 <p className="text-gray-700 leading-relaxed mb-5">
                   {lang === 'nl'
-                    ? `Deze gids voor ${island.name.en} is op 28 maart 2026 handmatig herzien. Claims over seizoenen en planning zijn bewust algemeen gehouden wanneer precieze operationele details te veranderlijk zijn.`
-                    : `This ${island.name.en} guide was manually revised on March 28, 2026. Season and planning language is intentionally broad where precise operational details are too volatile to present as evergreen facts.`}
+                    ? `Deze gids voor ${island.name.en} is in maart 2026 handmatig herzien. Seizoens- en planningsinformatie is bewust breed gehouden waar precieze operationele details te veranderlijk zijn voor betrouwbare vaste feiten.`
+                    : `This ${island.name.en} guide was manually revised in March 2026. Season windows and practical details are intentionally kept broad where operational specifics — ferry schedules, park fees, operator terms — change frequently enough that precise claims would mislead.`}
                 </p>
                 <ul className="space-y-3">
                   {sourceLinks.map(source => (
@@ -436,9 +474,10 @@ export default function IslandPage({ island, relatedIslands, comparisons, releva
                 </ul>
               </section>
 
+              {/* FAQs */}
               <section className="rounded-3xl bg-white p-6 md:p-8 shadow-sm">
                 <h2 className="text-3xl font-heading font-bold text-gray-900 mb-6">
-                  {lang === 'nl' ? `Veelgestelde vragen over ${island.name[lang]}` : `Frequently asked questions about ${island.name[lang]}`}
+                  {lang === 'nl' ? `Veelgestelde vragen over ${island.name[lang]}` : `Frequently asked questions`}
                 </h2>
                 <div className="space-y-4">
                   {faqs.map(item => (
@@ -451,10 +490,13 @@ export default function IslandPage({ island, relatedIslands, comparisons, releva
               </section>
             </div>
 
+            {/* Sidebar */}
             <aside className="space-y-6 lg:sticky lg:top-4 self-start">
+
+              {/* Season snapshot */}
               <div className="rounded-3xl bg-white p-6 shadow-sm">
                 <h3 className="text-xl font-heading font-bold text-gray-900 mb-4">
-                  {lang === 'nl' ? 'Snelle planning' : 'Quick planning snapshot'}
+                  {lang === 'nl' ? 'Seizoensoverzicht' : 'Season overview'}
                 </h3>
                 <div className="space-y-3 text-sm">
                   <div className="flex justify-between gap-3">
@@ -466,21 +508,27 @@ export default function IslandPage({ island, relatedIslands, comparisons, releva
                     <span className="font-semibold text-gray-900">{island.best_time_to_visit.shoulder}</span>
                   </div>
                   <div className="flex justify-between gap-3">
-                    <span className="text-gray-500">{lang === 'nl' ? 'Rustiger periode' : 'Low season'}</span>
+                    <span className="text-gray-500">{lang === 'nl' ? 'Laagseizoen' : 'Low season'}</span>
                     <span className="font-semibold text-gray-900">{island.best_time_to_visit.low_season}</span>
                   </div>
                   <div className="flex justify-between gap-3">
-                    <span className="text-gray-500">{lang === 'nl' ? 'Voorzichtig met' : 'Caution window'}</span>
+                    <span className="text-gray-500">{lang === 'nl' ? 'Let op' : 'Avoid or caution'}</span>
                     <span className="font-semibold text-gray-900">{island.best_time_to_visit.avoid}</span>
                   </div>
                 </div>
                 <p className="mt-4 text-sm text-gray-700 leading-relaxed">{island.best_time_to_visit.description[lang]}</p>
               </div>
 
+              {/* Budget context */}
               <div className="rounded-3xl bg-white p-6 shadow-sm">
-                <h3 className="text-xl font-heading font-bold text-gray-900 mb-4">
-                  {lang === 'nl' ? 'Dagbudget' : 'Daily budget'}
+                <h3 className="text-xl font-heading font-bold text-gray-900 mb-1">
+                  {lang === 'nl' ? 'Dagbudget indicaties' : 'Daily budget estimates'}
                 </h3>
+                <p className="text-xs text-gray-500 mb-4">
+                  {lang === 'nl'
+                    ? 'Per persoon, inclusief onderdak, maaltijden en lokaal vervoer. Activiteiten zijn apart.'
+                    : 'Per person, including accommodation, meals, and local transport. Activities are additional.'}
+                </p>
                 <div className="space-y-3 text-sm">
                   <div className="flex justify-between gap-3">
                     <span className="text-gray-500">{lang === 'nl' ? 'Budget' : 'Budget'}</span>
@@ -495,13 +543,14 @@ export default function IslandPage({ island, relatedIslands, comparisons, releva
                     <span className="font-semibold text-gray-900">{island.budget_info.daily_budget.luxury}</span>
                   </div>
                 </div>
-                <p className="mt-4 text-sm text-gray-700 leading-relaxed">{island.budget_info.currency_tips[lang]}</p>
+                <p className="mt-4 text-xs text-gray-500 leading-relaxed">{getBudgetContext(island, lang)}</p>
               </div>
 
+              {/* Related islands */}
               {relatedIslands.length > 0 && (
                 <div className="rounded-3xl bg-white p-6 shadow-sm">
                   <h3 className="text-xl font-heading font-bold text-gray-900 mb-4">
-                    {lang === 'nl' ? 'Verwante eilanden' : 'Related islands'}
+                    {lang === 'nl' ? 'Vergelijkbare eilanden' : 'Related islands'}
                   </h3>
                   <div className="space-y-4">
                     {relatedIslands.map(related => (
@@ -521,11 +570,17 @@ export default function IslandPage({ island, relatedIslands, comparisons, releva
                 </div>
               )}
 
+              {/* Comparisons */}
               {comparisons.length > 0 && (
                 <div className="rounded-3xl bg-white p-6 shadow-sm">
-                  <h3 className="text-xl font-heading font-bold text-gray-900 mb-4">
-                    {lang === 'nl' ? 'Vergelijk slim' : 'Compare intelligently'}
+                  <h3 className="text-xl font-heading font-bold text-gray-900 mb-2">
+                    {lang === 'nl' ? 'Vergelijk' : 'Compare'}
                   </h3>
+                  <p className="text-xs text-gray-500 mb-4">
+                    {lang === 'nl'
+                      ? 'Gedetailleerde vergelijkingspagina\'s voor wie heeft nagedacht over alternatieven.'
+                      : 'Detailed side-by-side comparisons for when you have a realistic shortlist.'}
+                  </p>
                   <div className="space-y-3">
                     {comparisons.map(comp => (
                       <Link key={comp.slug} href={`/compare/${comp.slug}/`} className="block text-sm font-semibold text-thailand-blue hover:underline">
@@ -536,22 +591,23 @@ export default function IslandPage({ island, relatedIslands, comparisons, releva
                 </div>
               )}
 
+              {/* Internal navigation */}
               <div className="rounded-3xl bg-surface-dark text-white p-6">
                 <h3 className="text-xl font-heading font-bold mb-4">
-                  {lang === 'nl' ? 'Sterkere interne routes' : 'Stronger internal routes'}
+                  {lang === 'nl' ? 'Meer eilandgidsen' : 'More island guides'}
                 </h3>
                 <div className="space-y-3 text-sm">
                   <Link href="/islands/" className="block hover:underline">
-                    {lang === 'nl' ? 'Alle eilandengidsen' : 'All island guides'}
+                    {lang === 'nl' ? 'Alle eilandgidsen' : 'All island guides'}
                   </Link>
                   <Link href="/thailand-islands/" className="block hover:underline">
-                    {lang === 'nl' ? 'Thailand-eilanden pillar' : 'Thailand islands pillar'}
+                    {lang === 'nl' ? 'Thailand-eilanden planninggids' : 'Thailand islands planning guide'}
                   </Link>
                   <Link href="/best-beaches-in-thailand/" className="block hover:underline">
                     {lang === 'nl' ? 'Beste stranden in Thailand' : 'Best beaches in Thailand'}
                   </Link>
                   <Link href="/compare/" className="block hover:underline">
-                    {lang === 'nl' ? 'Vergelijk eilanden' : 'Compare islands'}
+                    {lang === 'nl' ? 'Eilanden vergelijken' : 'Compare islands'}
                   </Link>
                 </div>
               </div>

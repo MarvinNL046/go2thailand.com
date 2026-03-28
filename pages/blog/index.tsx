@@ -5,8 +5,6 @@ import { useState } from 'react';
 import { useRouter } from 'next/router';
 import SEOHead from '../../components/SEOHead';
 import Breadcrumbs from '../../components/Breadcrumbs';
-import PreFooterAffiliateBanner from '../../components/PreFooterAffiliateBanner';
-import TravelSecurityAffiliateBlock from '../../components/blog/TravelSecurityAffiliateBlock';
 import { getAllPosts, getAllCategories } from '../../lib/blog';
 
 interface BlogPost {
@@ -33,7 +31,6 @@ export default function BlogPage({ posts, categories }: BlogPageProps) {
   const [currentPage, setCurrentPage] = useState(1);
   const POSTS_PER_PAGE = 12;
   const { locale } = useRouter();
-  const lang = locale === 'nl' ? 'nl' : 'en';
 
   const breadcrumbs = [
     { name: 'Home', href: '/' },
@@ -53,7 +50,6 @@ export default function BlogPage({ posts, categories }: BlogPageProps) {
     currentPage * POSTS_PER_PAGE
   );
 
-  // Reset to page 1 when filters change
   const handleCategoryChange = (cat: string) => {
     setSelectedCategory(cat);
     setCurrentPage(1);
@@ -63,13 +59,13 @@ export default function BlogPage({ posts, categories }: BlogPageProps) {
     setCurrentPage(1);
   };
 
-  const featuredPost = posts[0];
+  const featuredPost = posts.find(p => p.featured) || posts[0];
 
   const jsonLd = {
     "@context": "https://schema.org",
     "@type": "Blog",
     "name": "Go2Thailand Travel Blog",
-    "description": "Thailand travel tips, guides, and stories",
+    "description": "Thailand travel guides, practical tips, and first-hand stories",
     "url": "https://go2-thailand.com/blog/",
     "blogPost": posts.slice(0, 5).map(post => ({
       "@type": "BlogPosting",
@@ -84,10 +80,9 @@ export default function BlogPage({ posts, categories }: BlogPageProps) {
   return (
     <>
       <SEOHead
-        title="Thailand Travel Blog | Tips, Guides & Stories | Go2Thailand"
-        description="Explore Thailand through our travel blog. Get insider tips, destination guides, food recommendations, and travel stories from the Land of Smiles."
+        title="Thailand Travel Blog | Guides, Tips & Stories | Go2Thailand"
+        description="In-depth Thailand travel guides, practical advice, and first-hand stories. Browse by destination, topic, or search for exactly what you need."
       >
-        <meta name="keywords" content="Thailand travel blog, Thailand tips, Thailand guides, Thai culture, Thailand stories" />
         <script
           type="application/ld+json"
           dangerouslySetInnerHTML={{ __html: JSON.stringify(jsonLd) }}
@@ -104,7 +99,7 @@ export default function BlogPage({ posts, categories }: BlogPageProps) {
                 Thailand Travel Blog
               </h1>
               <p className="text-xl lg:text-2xl mb-8 max-w-3xl mx-auto opacity-90">
-                Stories, tips, and insights from the Land of Smiles
+                Practical guides, destination deep-dives, and stories from the Land of Smiles
               </p>
             </div>
           </div>
@@ -118,7 +113,7 @@ export default function BlogPage({ posts, categories }: BlogPageProps) {
               <div className="relative w-full md:w-96">
                 <input
                   type="text"
-                  placeholder="Search blog posts..."
+                  placeholder="Search articles..."
                   value={searchQuery}
                   onChange={(e) => handleSearchChange(e.target.value)}
                   className="w-full px-4 py-2 pr-10 border border-gray-200 rounded-xl focus:outline-none focus:border-thailand-blue"
@@ -179,7 +174,7 @@ export default function BlogPage({ posts, categories }: BlogPageProps) {
                           fill
                           className="object-cover hover:scale-105 transition-transform duration-300"
                         />
-                        <div className="absolute top-4 left-4 bg-thailand-red text-white px-3 py-1 rounded-full text-sm font-medium">
+                        <div className="absolute top-4 left-4 bg-thailand-blue text-white px-3 py-1 rounded-full text-sm font-medium">
                           Featured
                         </div>
                       </div>
@@ -187,9 +182,9 @@ export default function BlogPage({ posts, categories }: BlogPageProps) {
                     <div className="p-8">
                       <div className="flex items-center gap-4 text-sm text-gray-600 mb-4">
                         <span>{featuredPost.author.name}</span>
-                        <span>-</span>
+                        <span aria-hidden>·</span>
                         <span>{featuredPost.date}</span>
-                        <span>-</span>
+                        <span aria-hidden>·</span>
                         <span>{featuredPost.readingTime} min read</span>
                       </div>
                       <h2 className="text-3xl font-bold font-heading mb-4">
@@ -199,11 +194,14 @@ export default function BlogPage({ posts, categories }: BlogPageProps) {
                       </h2>
                       <p className="text-gray-700 mb-4 line-clamp-3">{featuredPost.description}</p>
                       <div className="flex items-center justify-between">
-                        <span className="bg-surface-cream text-gray-700 px-3 py-1 rounded-full text-sm capitalize">
+                        <Link
+                          href={`/blog/category/${featuredPost.category}/`}
+                          className="bg-surface-cream text-gray-700 px-3 py-1 rounded-full text-sm capitalize hover:bg-gray-200 transition-colors"
+                        >
                           {featuredPost.category}
-                        </span>
+                        </Link>
                         <Link href={`/blog/${featuredPost.slug}/`} className="text-thailand-blue font-medium hover:underline">
-                          Read More →
+                          Read article →
                         </Link>
                       </div>
                     </div>
@@ -227,8 +225,8 @@ export default function BlogPage({ posts, categories }: BlogPageProps) {
                       <div className="p-6">
                         <div className="flex items-center gap-3 text-sm text-gray-600 mb-3">
                           <span>{post.date}</span>
-                          <span>-</span>
-                          <span>{post.readingTime} min</span>
+                          <span aria-hidden>·</span>
+                          <span>{post.readingTime} min read</span>
                         </div>
                         <h3 className="text-xl font-bold font-heading mb-3">
                           <Link href={`/blog/${post.slug}/`} className="hover:text-thailand-blue transition-colors">
@@ -236,9 +234,12 @@ export default function BlogPage({ posts, categories }: BlogPageProps) {
                           </Link>
                         </h3>
                         <p className="text-gray-700 mb-4 line-clamp-2">{post.description}</p>
-                        <span className="bg-surface-cream text-gray-700 px-2 py-1 rounded-full text-xs capitalize">
+                        <Link
+                          href={`/blog/category/${post.category}/`}
+                          className="bg-surface-cream text-gray-700 px-2 py-1 rounded-full text-xs capitalize hover:bg-gray-200 transition-colors"
+                        >
                           {post.category}
-                        </span>
+                        </Link>
                       </div>
                     </article>
                   ))}
@@ -246,7 +247,13 @@ export default function BlogPage({ posts, categories }: BlogPageProps) {
 
                 {filteredPosts.length === 0 && (
                   <div className="text-center py-12 bg-white rounded-2xl">
-                    <p className="text-gray-600 text-lg">No posts found matching your criteria.</p>
+                    <p className="text-gray-600 text-lg">No articles found matching your search.</p>
+                    <button
+                      onClick={() => { handleSearchChange(''); handleCategoryChange('all'); }}
+                      className="mt-4 text-thailand-blue hover:underline"
+                    >
+                      Clear filters
+                    </button>
                   </div>
                 )}
 
@@ -296,10 +303,9 @@ export default function BlogPage({ posts, categories }: BlogPageProps) {
                   </nav>
                 )}
 
-                {/* Post count indicator */}
                 {filteredPosts.length > 0 && (
                   <p className="text-center text-sm text-gray-500 mt-4">
-                    Showing {(currentPage - 1) * POSTS_PER_PAGE + 1}–{Math.min(currentPage * POSTS_PER_PAGE, filteredPosts.length)} of {filteredPosts.length} posts
+                    Showing {(currentPage - 1) * POSTS_PER_PAGE + 1}–{Math.min(currentPage * POSTS_PER_PAGE, filteredPosts.length)} of {filteredPosts.length} articles
                   </p>
                 )}
               </div>
@@ -307,164 +313,57 @@ export default function BlogPage({ posts, categories }: BlogPageProps) {
               {/* Sidebar */}
               <aside>
                 <div className="lg:sticky lg:top-16 space-y-8">
-                {/* Newsletter Signup */}
-                <div className="bg-surface-dark text-white rounded-2xl p-6">
-                  <span className="section-label font-script text-thailand-gold text-sm">Stay in the loop</span>
-                  <h3 className="text-xl font-bold font-heading mb-2">Stay Updated</h3>
-                  <p className="mb-4 opacity-90">Get the latest Thailand travel tips delivered to your inbox</p>
-                  <form className="space-y-3" onSubmit={e => e.preventDefault()}>
-                    <input
-                      type="email"
-                      placeholder="Your email address"
-                      className="w-full px-4 py-2 rounded-xl text-gray-900 focus:outline-none focus:ring-2 focus:ring-white"
-                    />
-                    <button className="w-full bg-thailand-red text-white font-medium py-2 rounded-xl hover:bg-thailand-red/90 transition-colors">
-                      Subscribe
-                    </button>
-                  </form>
-                </div>
-
-                {/* Tags Cloud */}
-                <div className="bg-white rounded-2xl shadow-md p-6">
-                  <h3 className="text-xl font-bold font-heading mb-4">Popular Tags</h3>
-                  <div className="flex flex-wrap gap-2">
-                    {['islands', 'food', 'budget', 'visa', 'beaches', 'planning', 'backpacking', 'bangkok', 'street-food'].map(tag => (
-                      <Link
-                        key={tag}
-                        href={`/blog/tag/${tag}/`}
-                        className="bg-surface-cream text-gray-700 px-3 py-1 rounded-full text-sm hover:bg-thailand-blue hover:text-white transition-colors capitalize"
-                      >
-                        {tag.replace('-', ' ')}
-                      </Link>
-                    ))}
+                  {/* Browse by Category */}
+                  <div className="bg-white rounded-2xl shadow-md p-6">
+                    <h2 className="text-xl font-bold font-heading mb-4">Browse by Category</h2>
+                    <ul className="space-y-2">
+                      {categories.map(cat => (
+                        <li key={cat}>
+                          <Link
+                            href={`/blog/category/${cat}/`}
+                            className="flex items-center justify-between text-gray-700 hover:text-thailand-blue transition-colors capitalize"
+                          >
+                            <span>{cat}</span>
+                            <span className="text-xs text-gray-400">→</span>
+                          </Link>
+                        </li>
+                      ))}
+                    </ul>
                   </div>
-                </div>
 
-                {/* Explore More */}
-                <div className="bg-white rounded-2xl shadow-md p-6">
-                  <h3 className="text-xl font-bold font-heading mb-4">Explore More</h3>
-                  <div className="space-y-2">
-                    <Link href="/islands/" className="block text-thailand-blue hover:underline">Thailand Islands</Link>
-                    <Link href="/visa/" className="block text-thailand-blue hover:underline">Visa Guide</Link>
-                    <Link href="/food/" className="block text-thailand-blue hover:underline">Thai Food Guide</Link>
-                    <Link href="/practical-info/" className="block text-thailand-blue hover:underline">Practical Info</Link>
+                  {/* Popular Tags */}
+                  <div className="bg-white rounded-2xl shadow-md p-6">
+                    <h2 className="text-xl font-bold font-heading mb-4">Topics</h2>
+                    <div className="flex flex-wrap gap-2">
+                      {['islands', 'food', 'budget', 'visa', 'beaches', 'planning', 'backpacking', 'bangkok', 'street-food'].map(tag => (
+                        <Link
+                          key={tag}
+                          href={`/blog/tag/${tag}/`}
+                          className="bg-surface-cream text-gray-700 px-3 py-1 rounded-full text-sm hover:bg-thailand-blue hover:text-white transition-colors capitalize"
+                        >
+                          {tag.replace('-', ' ')}
+                        </Link>
+                      ))}
+                    </div>
                   </div>
-                </div>
 
-                {/* Book Hotels */}
-                <div className="bg-white rounded-2xl shadow-md p-6">
-                  <h3 className="text-xl font-bold font-heading mb-3">Book Hotels</h3>
-                  <div className="space-y-3">
-                    <a
-                      href="https://booking.tpo.lv/2PT1kR82"
-                      target="_blank"
-                      rel="noopener noreferrer"
-                      className="block bg-thailand-blue text-white text-center px-4 py-2 rounded-xl font-semibold hover:bg-thailand-blue/90 transition-colors text-sm"
-                    >
-                      Booking.com
-                    </a>
-                    <a
-                      href="https://trip.tpo.lv/TmObooZ5"
-                      target="_blank"
-                      rel="noopener noreferrer"
-                      className="block bg-thailand-blue text-white text-center px-4 py-2 rounded-xl font-semibold hover:bg-thailand-blue/90 transition-colors text-sm"
-                    >
-                      Trip.com
-                    </a>
+                  {/* Explore Guides */}
+                  <div className="bg-white rounded-2xl shadow-md p-6">
+                    <h2 className="text-xl font-bold font-heading mb-4">Explore Guides</h2>
+                    <div className="space-y-2">
+                      <Link href="/islands/" className="block text-thailand-blue hover:underline">Thailand Islands</Link>
+                      <Link href="/visa/" className="block text-thailand-blue hover:underline">Visa Guide</Link>
+                      <Link href="/food/" className="block text-thailand-blue hover:underline">Thai Food Guide</Link>
+                      <Link href="/practical-info/" className="block text-thailand-blue hover:underline">Practical Info</Link>
+                      <Link href="/transport/" className="block text-thailand-blue hover:underline">Getting Around</Link>
+                      <Link href="/esim/" className="block text-thailand-blue hover:underline">eSIM & Connectivity</Link>
+                    </div>
                   </div>
-                  <p className="text-xs text-gray-500 mt-3 text-center">Affiliate links</p>
-                </div>
-
-                {/* Tours & Activities */}
-                <div className="bg-white rounded-2xl shadow-md p-6">
-                  <h3 className="text-xl font-bold font-heading mb-3">Tours & Activities</h3>
-                  <div className="space-y-3">
-                    <a
-                      href="https://klook.tpo.lv/7Dt6WApj"
-                      target="_blank"
-                      rel="noopener noreferrer"
-                      className="block bg-thailand-red text-white text-center px-4 py-2 rounded-xl font-semibold hover:bg-thailand-red/90 transition-colors text-sm"
-                    >
-                      Klook Activities
-                    </a>
-                    <a
-                      href="https://getyourguide.tpo.lv/GuAFfGGK"
-                      target="_blank"
-                      rel="noopener noreferrer"
-                      className="block bg-thailand-red text-white text-center px-4 py-2 rounded-xl font-semibold hover:bg-thailand-red/90 transition-colors text-sm"
-                    >
-                      GetYourGuide Tours
-                    </a>
-                  </div>
-                  <p className="text-xs text-gray-500 mt-3 text-center">Affiliate links</p>
-                </div>
-
-                {/* eSIM */}
-                <div className="bg-white rounded-2xl shadow-md p-6">
-                  <h3 className="text-xl font-bold font-heading mb-2">Thailand eSIM</h3>
-                  <p className="text-sm text-gray-600 mb-4">
-                    Stay connected in Thailand. Order your eSIM before you go.
-                  </p>
-                  <a
-                    href="https://saily.tpo.lv/rf9lidnE"
-                    target="_blank"
-                    rel="noopener noreferrer"
-                    className="block bg-thailand-blue text-white text-center px-4 py-2 rounded-xl font-semibold hover:bg-thailand-blue/90 transition-colors mb-2"
-                  >
-                    Saily eSIM
-                  </a>
-                  <Link href="/esim/" className="block text-thailand-blue text-center text-sm hover:underline">
-                    More eSIM options →
-                  </Link>
-                </div>
-
-                <TravelSecurityAffiliateBlock />
-
-                {/* Travel Insurance */}
-                <div className="bg-surface-dark text-white rounded-2xl p-6">
-                  <h3 className="text-xl font-bold font-heading mb-2">Travel Insurance</h3>
-                  <p className="text-sm opacity-90 mb-4">
-                    Protect yourself while traveling. Compare the best travel insurance.
-                  </p>
-                  <Link href="/travel-insurance-thailand/" className="block bg-thailand-red text-white text-center px-4 py-2 rounded-xl font-semibold hover:bg-thailand-red/90 transition-colors">
-                    Compare Now
-                  </Link>
-                </div>
-
-                {/* Transport */}
-                <div className="bg-white rounded-2xl shadow-md p-6">
-                  <h3 className="text-xl font-bold font-heading mb-3">Transport</h3>
-                  <a
-                    href="https://12go.tpo.lv/tNA80urD"
-                    target="_blank"
-                    rel="noopener noreferrer"
-                    className="block bg-thailand-blue text-white text-center px-4 py-2 rounded-xl font-semibold hover:bg-thailand-blue/90 transition-colors text-sm mb-2"
-                  >
-                    12Go Asia - Book Transport
-                  </a>
-                  <Link href="/transport/" className="block text-thailand-blue text-center text-sm hover:underline">
-                    View all routes →
-                  </Link>
-                </div>
                 </div>
               </aside>
             </div>
           </div>
         </section>
-
-        <PreFooterAffiliateBanner
-          title="Plan Your Thailand Trip"
-          description="Book hotels, transport, activities, and get connected with an eSIM"
-          links={[
-            { label: 'Booking.com', href: 'https://booking.tpo.lv/2PT1kR82' },
-            { label: 'Trip.com', href: 'https://trip.tpo.lv/TmObooZ5' },
-            { label: 'Activities', href: 'https://klook.tpo.lv/7Dt6WApj' },
-            { label: 'Transport', href: 'https://12go.tpo.lv/tNA80urD' },
-            { label: 'eSIM', href: 'https://saily.tpo.lv/rf9lidnE' },
-            { label: 'NordVPN', href: 'https://nordvpn.tpo.lv/ekHF1i55' },
-            { label: 'NordPass', href: 'https://nordvpn.tpo.lv/tp12zNjC' },
-          ]}
-        />
       </div>
     </>
   );
@@ -480,6 +379,6 @@ export const getStaticProps: GetStaticProps = async ({ locale }) => {
       posts,
       categories
     },
-    revalidate: 60, // ISR: revalidate every 60 seconds so new posts appear quickly
+    revalidate: 60,
   };
 };

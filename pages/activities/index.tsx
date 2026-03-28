@@ -22,6 +22,7 @@ interface ActivityType {
   slug: string;
   title: string;
   description: string;
+  editorial: string;
   borderColor: string;
   buttonColor: string;
   guidePath: string;
@@ -64,8 +65,8 @@ export default function ActivitiesPage({ activities }: Props) {
   return (
     <>
       <SEOHead
-        title={`Things to Do in Thailand 2026 — ${totalActivities}+ Tours & Activities`}
-        description={`Compare ${totalActivities}+ activities across Thailand: cooking classes, Muay Thai, elephant sanctuaries and diving. Prices, reviews and instant booking.`}
+        title="Things to Do in Thailand — Activity Guides by Destination"
+        description={`Editorial guides to Thailand's best activities: cooking classes, Muay Thai, ethical elephant sanctuaries, and diving. Organised by destination with practical detail.`}
       >
         <script
           type="application/ld+json"
@@ -73,7 +74,7 @@ export default function ActivitiesPage({ activities }: Props) {
             '@context': 'https://schema.org',
             '@type': 'CollectionPage',
             name: 'Things to Do in Thailand',
-            description: 'Discover the best activities in Thailand: cooking classes, Muay Thai, elephant sanctuaries, diving and snorkeling.',
+            description: 'Editorial guides to Thailand activities by category and destination: cooking classes, Muay Thai, elephant sanctuaries, diving and snorkeling.',
             url: 'https://go2-thailand.com/activities/',
           }) }}
         />
@@ -85,13 +86,12 @@ export default function ActivitiesPage({ activities }: Props) {
           <div className="container-custom py-12">
             <Breadcrumbs items={breadcrumbs} />
             <div className="text-center mt-6">
-              <p className="font-script text-thailand-gold text-lg mb-2">Discover Thailand</p>
+              <p className="font-script text-thailand-gold text-lg mb-2">Activity guides</p>
               <h1 className="text-4xl lg:text-5xl font-bold font-heading mb-4">
                 Things to Do in Thailand
               </h1>
               <p className="text-xl max-w-3xl mx-auto text-gray-300">
-                {totalActivities}+ bookable activities across Thailand&apos;s top destinations.
-                Cooking classes, Muay Thai, elephant sanctuaries, diving, and more.
+                Four activity categories worth planning around: cooking classes, Muay Thai, elephant sanctuaries, and diving. Each has its own guide with city-level detail, pricing context, and what to know before you book.
               </p>
             </div>
           </div>
@@ -100,8 +100,11 @@ export default function ActivitiesPage({ activities }: Props) {
         <section className="section-padding">
           <div className="container-custom">
             {/* Activity Guide Cards */}
-            <p className="section-label">Explore</p>
-            <h2 className="text-2xl font-bold font-heading text-gray-900 mb-6">Activity Guides</h2>
+            <p className="section-label">Explore by category</p>
+            <h2 className="text-2xl font-bold font-heading text-gray-900 mb-4">Activity guides</h2>
+            <p className="text-gray-600 mb-8 max-w-2xl">
+              Each guide below covers what the activity involves, which cities offer the best versions of it, typical price ranges, and how to find operators worth trusting.
+            </p>
             <div className="grid grid-cols-1 md:grid-cols-2 gap-6 mb-12">
               {activities.map((activity) => (
                 <div key={activity.slug} className="bg-white rounded-2xl shadow-md hover:shadow-xl hover:-translate-y-1 transition-all overflow-hidden border-0">
@@ -111,12 +114,13 @@ export default function ActivitiesPage({ activities }: Props) {
                         {activity.title}
                       </Link>
                     </h3>
-                    <p className="text-gray-600 text-sm mb-4">{activity.description}</p>
+                    <p className="text-gray-600 text-sm mb-3">{activity.description}</p>
+                    <p className="text-gray-500 text-sm italic mb-4">{activity.editorial}</p>
 
                     <div className="flex gap-3 mb-4">
                       <div className="bg-surface-cream rounded-xl px-3 py-1.5 text-center">
                         <div className="text-sm font-bold text-gray-900">{activity.totalActivities}+</div>
-                        <div className="text-[10px] text-gray-500">Activities</div>
+                        <div className="text-[10px] text-gray-500">Options</div>
                       </div>
                       <div className="bg-surface-cream rounded-xl px-3 py-1.5 text-center">
                         <div className="text-sm font-bold text-gray-900">{activity.cities.length}</div>
@@ -144,7 +148,7 @@ export default function ActivitiesPage({ activities }: Props) {
                       href={activity.guidePath}
                       className="inline-flex items-center px-5 py-2 text-white text-sm font-semibold rounded-xl transition-colors bg-thailand-red hover:bg-red-700"
                     >
-                      Compare all {activity.title.toLowerCase()} &rarr;
+                      Read the {activity.title.toLowerCase()} guide &rarr;
                     </Link>
                   </div>
                 </div>
@@ -153,8 +157,11 @@ export default function ActivitiesPage({ activities }: Props) {
 
             {/* Activities by City */}
             <div className="bg-white rounded-2xl shadow-md p-8 mb-12">
-              <p className="section-label">By Destination</p>
-              <h2 className="text-2xl font-bold font-heading text-gray-900 mb-6">Activities by City</h2>
+              <p className="section-label">By destination</p>
+              <h2 className="text-2xl font-bold font-heading text-gray-900 mb-3">Activities by city</h2>
+              <p className="text-gray-600 text-sm mb-6">
+                Which city fits your activity mix matters as much as which activity you choose. Bangkok leads for Muay Thai; Chiang Mai for cooking classes and elephant sanctuaries; Phuket and Krabi for diving.
+              </p>
               <div className="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-4 gap-6">
                 {['bangkok', 'chiang-mai', 'phuket', 'krabi'].map((citySlug) => {
                   const cityName = citySlug === 'chiang-mai' ? 'Chiang Mai'
@@ -196,70 +203,75 @@ export default function ActivitiesPage({ activities }: Props) {
               </div>
             </div>
 
-            {/* Booking Platforms */}
-            <p className="section-label">Book Now</p>
-            <h2 className="text-2xl font-bold font-heading text-gray-900 mb-6">Book on Trusted Platforms</h2>
-            <div className="grid grid-cols-1 lg:grid-cols-2 gap-8 mb-12">
-              <div className="bg-white rounded-2xl shadow-md hover:shadow-xl hover:-translate-y-1 transition-all p-6 border-0">
-                <div className="relative h-10 w-32 mb-4">
-                  <Image src="/images/partners/klook.svg" alt="Klook" fill className="object-contain object-left" />
+            {/* Booking Platforms — secondary, supporting editorial */}
+            <div className="bg-white rounded-2xl shadow-md p-8 mb-12">
+              <p className="section-label">Where to book</p>
+              <h2 className="text-2xl font-bold font-heading text-gray-900 mb-3">Booking platforms used in our guides</h2>
+              <p className="text-gray-600 text-sm mb-8">
+                The activity guides on this site link primarily to Klook and GetYourGuide. Both platforms aggregate vetted local operators, offer instant confirmation, and have clear cancellation terms — which matters when plans change. We earn a commission if you book through our links, at no extra cost to you.
+              </p>
+              <div className="grid grid-cols-1 lg:grid-cols-2 gap-8">
+                <div className="bg-surface-cream rounded-2xl p-6 border-0">
+                  <div className="relative h-10 w-32 mb-3">
+                    <Image src="/images/partners/klook.svg" alt="Klook" fill className="object-contain object-left" />
+                  </div>
+                  <p className="text-gray-600 text-sm mb-4">
+                    Klook is Asia&apos;s largest activities platform with strong Thailand coverage — particularly for day trips, cooking classes, and airport transfers. Prices are typically in USD and confirmed instantly.
+                  </p>
+                  <AffiliateWidget scriptContent={KLOOK_WIDGET} className="mb-4" minHeight="200px" />
+                  <a href={KLOOK_AFFILIATE} target="_blank" rel="noopener noreferrer sponsored"
+                    className="inline-block bg-thailand-red text-white text-center px-5 py-2 rounded-xl font-semibold hover:bg-red-700 transition-colors text-sm">
+                    Browse Thailand activities on Klook
+                  </a>
                 </div>
-                <p className="text-gray-600 text-sm mb-4">
-                  Asia&apos;s leading travel activities platform with competitive pricing and instant confirmation.
-                </p>
-                <AffiliateWidget scriptContent={KLOOK_WIDGET} className="mb-4" minHeight="200px" />
-                <a href={KLOOK_AFFILIATE} target="_blank" rel="noopener noreferrer"
-                  className="block w-full bg-thailand-red text-white text-center py-2.5 rounded-xl font-semibold hover:bg-red-700 transition-colors text-sm">
-                  Browse Thailand on Klook
-                </a>
-              </div>
-              <div className="bg-white rounded-2xl shadow-md hover:shadow-xl hover:-translate-y-1 transition-all p-6 border-0">
-                <div className="relative h-10 w-48 mb-4">
-                  <Image src="/images/partners/getyourguide.svg" alt="GetYourGuide" fill className="object-contain object-left" />
+                <div className="bg-surface-cream rounded-2xl p-6 border-0">
+                  <div className="relative h-10 w-48 mb-3">
+                    <Image src="/images/partners/getyourguide.svg" alt="GetYourGuide" fill className="object-contain object-left" />
+                  </div>
+                  <p className="text-gray-600 text-sm mb-4">
+                    GetYourGuide covers a wide range of Thailand tours with a focus on guided experiences, Muay Thai fight tickets, and cultural activities. Good for experiences where guide quality matters.
+                  </p>
+                  <AffiliateWidget scriptContent={GYG_POPULAR_TOURS} className="mb-4" minHeight="200px" />
+                  <a href={GYG_AFFILIATE} target="_blank" rel="noopener noreferrer sponsored"
+                    className="inline-block bg-thailand-blue text-white text-center px-5 py-2 rounded-xl font-semibold hover:bg-blue-800 transition-colors text-sm">
+                    Browse Thailand activities on GetYourGuide
+                  </a>
                 </div>
-                <p className="text-gray-600 text-sm mb-4">
-                  Global tours marketplace with expert local guides, skip-the-line access, and verified reviews.
-                </p>
-                <AffiliateWidget scriptContent={GYG_POPULAR_TOURS} className="mb-4" minHeight="200px" />
-                <a href={GYG_AFFILIATE} target="_blank" rel="noopener noreferrer"
-                  className="block w-full bg-thailand-blue text-white text-center py-2.5 rounded-xl font-semibold hover:bg-blue-800 transition-colors text-sm">
-                  Browse Thailand on GetYourGuide
-                </a>
               </div>
             </div>
 
-            {/* FAQ */}
+            {/* Practical planning notes */}
             <div className="bg-white rounded-2xl shadow-md p-8 mb-12">
-              <p className="section-label">FAQ</p>
-              <h2 className="text-2xl font-bold font-heading text-gray-900 mb-6">Frequently Asked Questions</h2>
+              <p className="section-label">Planning notes</p>
+              <h2 className="text-2xl font-bold font-heading text-gray-900 mb-6">What to know before you book</h2>
               <div className="space-y-6">
                 <div>
-                  <h3 className="text-lg font-semibold font-heading text-gray-900 mb-2">What are the most popular activities in Thailand?</h3>
-                  <p className="text-gray-700">Cooking classes, Muay Thai fights and training, elephant sanctuary visits, and diving/snorkeling trips are among the most popular. All can be booked as day trips in major destinations like Phuket, Chiang Mai, Bangkok, and Krabi.</p>
+                  <h3 className="text-lg font-semibold font-heading text-gray-900 mb-2">Which activities suit which destinations?</h3>
+                  <p className="text-gray-700">Cooking classes are strongest in Chiang Mai and Bangkok, where market-to-table formats are well established. Muay Thai fight nights are best in Bangkok — Lumpinee and Rajadamnern stadiums are the genuine article. Ethical elephant sanctuaries concentrate around Chiang Mai and a few spots in Kanchanaburi. Diving is centred on Koh Tao (certification courses), the Similan Islands (liveaboards), and the Andaman coast around Krabi and Koh Lanta.</p>
                 </div>
                 <div>
-                  <h3 className="text-lg font-semibold font-heading text-gray-900 mb-2">How far in advance should I book?</h3>
-                  <p className="text-gray-700">During peak season (November-February), popular activities sell out days in advance. Book cooking classes and diving trips 2-3 days ahead. Muay Thai fight tickets and elephant sanctuaries are usually available with shorter notice.</p>
+                  <h3 className="text-lg font-semibold font-heading text-gray-900 mb-2">How far in advance should you book?</h3>
+                  <p className="text-gray-700">During peak season (November to February), popular half-day cooking classes and small-group diving trips can fill up three to five days ahead. Muay Thai fight tickets rarely sell out more than a day before, but good seats at major stadiums go early. Elephant sanctuaries with morning bathing slots are often the tightest — book those before flights if the experience is a priority.</p>
                 </div>
                 <div>
-                  <h3 className="text-lg font-semibold font-heading text-gray-900 mb-2">Which city has the most activities?</h3>
-                  <p className="text-gray-700">Phuket offers the widest range — diving, Muay Thai, elephant sanctuaries, and cooking classes. Chiang Mai is top for cooking classes and elephant sanctuaries. Bangkok has the best Muay Thai fight stadiums.</p>
+                  <h3 className="text-lg font-semibold font-heading text-gray-900 mb-2">What does the price range mean?</h3>
+                  <p className="text-gray-700">The &ldquo;from&rdquo; price shown per category is the cheapest option indexed across all cities. Budget cooking classes can be under $15 for a group session; premium hands-on courses with farm visits run $60–$90. Diving day trips start around $50 for a two-dive boat; PADI Open Water courses run $300–$400. Use the full guide for each category to understand what the price difference actually buys you.</p>
                 </div>
               </div>
             </div>
 
             {/* Related Guides */}
             <div className="mb-8">
-              <p className="section-label">Related Guides</p>
-              <h2 className="text-2xl font-bold font-heading text-gray-900 mb-6">Plan Your Trip</h2>
+              <p className="section-label">Continue planning</p>
+              <h2 className="text-2xl font-bold font-heading text-gray-900 mb-6">Related guides</h2>
               <div className="grid gap-4 md:grid-cols-2 lg:grid-cols-3">
                 {[
-                  { href: '/travel-gear/', title: 'Travel Gear', description: 'Pack smart for activities — what to bring for diving, trekking, and outdoor adventures in Thailand.' },
-                  { href: '/visa/', title: 'Visa Guide', description: 'Visa on arrival, e-visa, and exemptions explained — everything you need to enter Thailand legally.' },
-                  { href: '/thailand-for-first-timers/', title: "First Timer's Guide", description: 'Essential tips for first-time visitors: safety, etiquette, transport, and must-do experiences.' },
-                  { href: '/weather/', title: 'Weather Guide', description: 'Find the best time for outdoor activities — avoid the rainy season and plan around regional weather.' },
-                  { href: '/compare/', title: 'Compare Destinations', description: 'Compare Thai cities side by side on cost, activities, beaches, and nightlife to pick your ideal base.' },
-                  { href: '/travel-insurance-thailand/', title: 'Travel Insurance', description: 'Check activity coverage before you book — Muay Thai, diving, and scooters often need special policies.' },
+                  { href: '/weather/', title: 'Weather by month', description: 'Outdoor activities depend heavily on season. This guide covers regional rain patterns and the best windows for diving, trekking, and elephant sanctuary visits.' },
+                  { href: '/visa/', title: 'Visa guide', description: 'Visa on arrival, e-visa, and exemptions explained — covering most nationalities and the latest entry rules.' },
+                  { href: '/thailand-for-first-timers/', title: "First-timer's guide", description: 'Safety, etiquette, transport, and what to do on a short first trip — a practical foundation before drilling into activities.' },
+                  { href: '/travel-insurance-thailand/', title: 'Travel insurance', description: 'Most standard policies exclude Muay Thai training, certain dive depths, and scooter riding. Check coverage specifics before you book activities.' },
+                  { href: '/compare/', title: 'Compare destinations', description: 'Compare Thai cities on cost, available activities, beaches, and logistics to decide where to base yourself.' },
+                  { href: '/islands/', title: 'Island guides', description: 'If diving or beach activities are the main draw, the island hub covers which coasts suit which itineraries.' },
                 ].map((guide) => (
                   <Link
                     key={guide.href}
@@ -274,7 +286,7 @@ export default function ActivitiesPage({ activities }: Props) {
             </div>
 
             <p className="text-xs text-gray-400 text-center mt-8">
-              We may earn a commission when you book through our links, at no extra cost to you.
+              This site earns a commission when you book through affiliate links. This does not affect editorial recommendations or the order in which activities are presented.
             </p>
           </div>
         </section>
@@ -296,7 +308,8 @@ export const getStaticProps: GetStaticProps = async () => {
     activities.push({
       slug: 'cooking-classes',
       title: 'Cooking Classes',
-      description: 'Learn to cook authentic Thai dishes — pad thai, green curry, mango sticky rice. Hands-on classes with market tours and organic farm visits.',
+      description: 'Learn to cook authentic Thai dishes — pad thai, green curry, mango sticky rice — in hands-on classes that typically include a market tour and recipe booklet.',
+      editorial: 'Chiang Mai has the strongest concentration of quality cooking schools, with Bangkok a close second. Most full-day courses are genuinely different from the tourist-facing shortcuts.',
       borderColor: 'border-orange-400',
       buttonColor: 'bg-orange-600 hover:bg-orange-700',
       guidePath: '/best-cooking-classes-in-thailand/',
@@ -311,7 +324,8 @@ export const getStaticProps: GetStaticProps = async () => {
     activities.push({
       slug: 'muay-thai',
       title: 'Muay Thai',
-      description: 'Watch electrifying live fights at legendary stadiums or train with professional coaches at world-class gyms across Thailand.',
+      description: 'Watch live fights at historic stadiums or train with professional coaches. Thailand is the origin of the sport and Bangkok remains the centre of serious competition.',
+      editorial: 'Fight nights at Lumpinee and Rajadamnern in Bangkok are the authentic experience. Phuket and Chiang Mai offer training camps; quality varies significantly between gyms.',
       borderColor: 'border-red-400',
       buttonColor: 'bg-red-600 hover:bg-red-700',
       guidePath: '/best-muay-thai-in-thailand/',
@@ -326,7 +340,8 @@ export const getStaticProps: GetStaticProps = async () => {
     activities.push({
       slug: 'elephant-sanctuaries',
       title: 'Elephant Sanctuaries',
-      description: 'Visit ethical sanctuaries where rescued elephants roam freely. Feed, bathe, and walk alongside these gentle giants — no riding, no chains.',
+      description: 'Visit sanctuaries where rescued elephants live without riding or performance requirements. Feed, observe, and walk alongside them in a setting focused on welfare.',
+      editorial: 'The ethical distinction matters here. Riding and circus-style shows are harmful to elephants — the guide covers what welfare standards to look for and which certifications carry weight.',
       borderColor: 'border-green-400',
       buttonColor: 'bg-green-600 hover:bg-green-700',
       guidePath: '/best-elephant-sanctuaries-in-thailand/',
@@ -341,7 +356,8 @@ export const getStaticProps: GetStaticProps = async () => {
     activities.push({
       slug: 'diving-snorkeling',
       title: 'Diving & Snorkeling',
-      description: 'Explore Thailand\'s underwater world — from the Similan Islands to Phi Phi\'s coral reefs. Scuba diving for all levels plus snorkeling day trips.',
+      description: 'Thailand has two distinct dive regions: the Andaman Sea (Similan Islands, Richelieu Rock, Koh Lanta) and the Gulf (Koh Tao, Sail Rock). Each has different marine life, seasonality, and trip formats.',
+      editorial: 'Koh Tao is the most accessible starting point for certification courses. The Similan Islands require a liveaboard or day trip from Khao Lak. Season alignment matters — the coasts close at different times.',
       borderColor: 'border-blue-400',
       buttonColor: 'bg-blue-600 hover:bg-blue-700',
       guidePath: '/best-diving-snorkeling-in-thailand/',

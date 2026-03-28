@@ -4,7 +4,6 @@ import Link from 'next/link';
 import Image from 'next/image';
 import SEOHead from '../../components/SEOHead';
 import Breadcrumbs from '../../components/Breadcrumbs';
-import PreFooterAffiliateBanner from '../../components/PreFooterAffiliateBanner';
 import { getAllItineraries, toAbsoluteImageUrl } from '../../lib/itineraries';
 
 interface Itinerary {
@@ -83,7 +82,7 @@ export default function ItinerariesPage({ itineraries }: ItinerariesPageProps) {
           <div className="relative z-10 h-full flex items-center">
             <div className="container-custom text-white">
               <div className="max-w-3xl">
-                <span className="font-script text-thailand-gold text-lg">Plan your adventure</span>
+                <span className="font-script text-thailand-gold text-lg">Trip planning</span>
                 <div className="flex items-center mb-4 mt-2">
                   <span className="bg-thailand-red text-white px-3 py-1 rounded-xl text-sm font-semibold mr-3">
                     {itineraries.length} Itineraries
@@ -96,17 +95,33 @@ export default function ItinerariesPage({ itineraries }: ItinerariesPageProps) {
                   Thailand Itineraries
                 </h1>
                 <p className="text-xl lg:text-2xl text-gray-200 max-w-2xl">
-                  Day-by-day travel plans for every budget and travel style. From quick 3-day trips to epic 10-day adventures.
+                  Day-by-day travel plans researched from the ground up — covering routes, transport, accommodation tiers, and realistic budgets.
                 </p>
               </div>
             </div>
           </div>
         </section>
 
-        {/* Content */}
+        {/* Editorial Intro + Content */}
         <section className="bg-white">
           <div className="container-custom py-8">
             <Breadcrumbs items={breadcrumbs} />
+
+            {/* Editorial Intro */}
+            <div className="max-w-3xl mb-10 mt-4">
+              <h2 className="text-2xl font-bold font-heading text-gray-900 mb-3">How to use these itineraries</h2>
+              <p className="text-gray-700 leading-relaxed mb-3">
+                Each itinerary is a structured planning reference, not a package tour script. The day-by-day breakdowns
+                show what&apos;s feasible in the time available, what transport connects each stop, and what you should
+                budget across three price levels — backpacker, mid-range, and comfortable.
+              </p>
+              <p className="text-gray-700 leading-relaxed">
+                Thailand&apos;s geography divides cleanly into regions: the mountainous North around Chiang Mai, the
+                Central Plains anchored by Bangkok, the Gulf Coast islands (Koh Samui, Koh Tao), and the Andaman
+                islands (Phuket, Krabi, Koh Lanta). Most itineraries under 10 days work best if they stay within one
+                region rather than crossing the country.
+              </p>
+            </div>
 
             {/* Duration Filter Tabs */}
             <div className="flex flex-wrap gap-2 mb-8">
@@ -158,7 +173,6 @@ export default function ItinerariesPage({ itineraries }: ItinerariesPageProps) {
                         <h2 className="text-lg font-bold font-heading text-gray-900 mb-2 group-hover:text-thailand-blue transition-colors line-clamp-2">
                           {itinerary.title}
                         </h2>
-                        {/* Card has no description field from index data */}
 
                         {/* Highlights */}
                         {itinerary.highlights && itinerary.highlights.length > 0 && (
@@ -176,9 +190,9 @@ export default function ItinerariesPage({ itineraries }: ItinerariesPageProps) {
 
                         {/* Budget Range */}
                         {itinerary.budgetRange && (
-                          <div className="pt-3 border-t border-gray-100">
+                          <div className="pt-3 border-t border-gray-100 mt-auto">
                             <div className="flex items-center justify-between text-sm">
-                              <span className="text-gray-500">Budget range</span>
+                              <span className="text-gray-500">Approx. budget</span>
                               <span className="font-semibold text-thailand-blue">
                                 {itinerary.budgetRange}
                               </span>
@@ -212,73 +226,100 @@ export default function ItinerariesPage({ itineraries }: ItinerariesPageProps) {
           </div>
         </section>
 
-        <PreFooterAffiliateBanner
-          title="Ready to Plan Your Thailand Trip?"
-          description="Book hotels, transport, activities, and get connected with an eSIM"
-          sectionClassName="bg-surface-dark py-12"
-          links={[
-            { label: 'Booking.com', href: 'https://booking.tpo.lv/2PT1kR82' },
-            { label: 'Trip.com', href: 'https://trip.tpo.lv/TmObooZ5' },
-            { label: 'Activities', href: 'https://klook.tpo.lv/7Dt6WApj' },
-            { label: 'Transport', href: 'https://12go.tpo.lv/tNA80urD' },
-            { label: 'Insurance', href: '/travel-insurance-thailand/', internal: true },
-            { label: 'NordVPN', href: 'https://nordvpn.tpo.lv/ekHF1i55' },
-            { label: 'NordPass', href: 'https://nordvpn.tpo.lv/tp12zNjC' },
-          ]}
-        />
+        {/* Planning Tips */}
+        <section className="bg-surface-cream py-12">
+          <div className="container-custom">
+            <div className="max-w-3xl mx-auto">
+              <h2 className="text-2xl font-bold font-heading text-gray-900 mb-6 text-center">
+                Before you plan: things to know
+              </h2>
+              <div className="grid grid-cols-1 md:grid-cols-2 gap-6">
+                <div className="bg-white rounded-2xl p-6 shadow-sm">
+                  <h3 className="font-semibold font-heading text-gray-900 mb-2">Choosing the right duration</h3>
+                  <p className="text-gray-600 text-sm leading-relaxed">
+                    3–5 days works for a single city or island. 7 days lets you combine Bangkok with one region.
+                    10+ days opens up a proper north-south route or island-hopping circuit.
+                  </p>
+                </div>
+                <div className="bg-white rounded-2xl p-6 shadow-sm">
+                  <h3 className="font-semibold font-heading text-gray-900 mb-2">Timing your visit</h3>
+                  <p className="text-gray-600 text-sm leading-relaxed">
+                    November to February is the coolest, driest period nationwide. The Andaman coast has its own
+                    rainy season (May–October), while the Gulf Coast dips in October–November.
+                  </p>
+                </div>
+                <div className="bg-white rounded-2xl p-6 shadow-sm">
+                  <h3 className="font-semibold font-heading text-gray-900 mb-2">Getting between cities</h3>
+                  <p className="text-gray-600 text-sm leading-relaxed">
+                    Overnight trains and buses save a night&apos;s accommodation on longer routes.
+                    Domestic flights (Bangkok–Chiang Mai, Bangkok–Phuket) are competitive and cut travel days significantly.
+                  </p>
+                </div>
+                <div className="bg-white rounded-2xl p-6 shadow-sm">
+                  <h3 className="font-semibold font-heading text-gray-900 mb-2">Budget reality check</h3>
+                  <p className="text-gray-600 text-sm leading-relaxed">
+                    Budget figures in these itineraries are approximate daily totals in USD, based on 2025–26 prices.
+                    Actual costs vary by season, how much you eat at street food stalls, and whether you take private
+                    or shared transport.
+                  </p>
+                </div>
+              </div>
+            </div>
+          </div>
+        </section>
 
         {/* Explore More */}
-        <section className="bg-surface-cream py-12">
+        <section className="bg-white py-12">
           <div className="container-custom">
             <div className="text-center mb-8">
               <span className="font-script text-thailand-gold text-lg">Keep exploring</span>
               <h2 className="text-3xl font-bold font-heading text-gray-900 mt-1">
-                Explore More
+                Related guides
               </h2>
             </div>
             <div className="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-4 gap-6">
               <Link href="/city/" className="group">
-                <div className="bg-white p-6 rounded-2xl shadow-md hover:shadow-xl hover:-translate-y-1 transition-all text-center">
+                <div className="bg-surface-cream p-6 rounded-2xl hover:shadow-md hover:-translate-y-1 transition-all text-center">
                   <div className="w-12 h-12 bg-thailand-blue rounded-xl flex items-center justify-center mx-auto mb-3">
                     <svg className="w-6 h-6 text-white" fill="none" stroke="currentColor" viewBox="0 0 24 24">
                       <path strokeLinecap="round" strokeLinejoin="round" strokeWidth="2" d="M19 21V5a2 2 0 00-2-2H7a2 2 0 00-2 2v16m14 0h2m-2 0h-5m-9 0H3m2 0h5M9 7h1m-1 4h1m4-4h1m-1 4h1m-5 10v-5a1 1 0 011-1h2a1 1 0 011 1v5m-4 0h4" />
                     </svg>
                   </div>
-                  <h3 className="font-semibold font-heading text-gray-900 mb-2">All Cities</h3>
-                  <p className="text-gray-600 text-sm">Browse all destinations</p>
+                  <h3 className="font-semibold font-heading text-gray-900 mb-2">City Guides</h3>
+                  <p className="text-gray-600 text-sm">In-depth guides for every Thai city</p>
                 </div>
               </Link>
               <Link href="/islands/" className="group">
-                <div className="bg-white p-6 rounded-2xl shadow-md hover:shadow-xl hover:-translate-y-1 transition-all text-center">
+                <div className="bg-surface-cream p-6 rounded-2xl hover:shadow-md hover:-translate-y-1 transition-all text-center">
                   <div className="w-12 h-12 bg-thailand-blue rounded-xl flex items-center justify-center mx-auto mb-3">
                     <svg className="w-6 h-6 text-white" fill="none" stroke="currentColor" viewBox="0 0 24 24">
                       <path strokeLinecap="round" strokeLinejoin="round" strokeWidth="2" d="M3.055 11H5a2 2 0 012 2v1a2 2 0 002 2 2 2 0 012 2v2.945M8 3.935V5.5A2.5 2.5 0 0010.5 8h.5a2 2 0 012 2 2 2 0 104 0 2 2 0 012-2h1.064M15 20.488V18a2 2 0 012-2h3.064" />
                     </svg>
                   </div>
                   <h3 className="font-semibold font-heading text-gray-900 mb-2">Thai Islands</h3>
-                  <p className="text-gray-600 text-sm">Beach paradise awaits</p>
+                  <p className="text-gray-600 text-sm">Beaches, diving, and island-hopping</p>
                 </div>
               </Link>
               <Link href="/transport/" className="group">
-                <div className="bg-white p-6 rounded-2xl shadow-md hover:shadow-xl hover:-translate-y-1 transition-all text-center">
+                <div className="bg-surface-cream p-6 rounded-2xl hover:shadow-md hover:-translate-y-1 transition-all text-center">
                   <div className="w-12 h-12 bg-thailand-blue rounded-xl flex items-center justify-center mx-auto mb-3">
                     <svg className="w-6 h-6 text-white" fill="none" stroke="currentColor" viewBox="0 0 24 24">
                       <path strokeLinecap="round" strokeLinejoin="round" strokeWidth="2" d="M13 10V3L4 14h7v7l9-11h-7z" />
                     </svg>
                   </div>
-                  <h3 className="font-semibold font-heading text-gray-900 mb-2">Transport</h3>
-                  <p className="text-gray-600 text-sm">Getting around Thailand</p>
+                  <h3 className="font-semibold font-heading text-gray-900 mb-2">Getting Around</h3>
+                  <p className="text-gray-600 text-sm">Trains, buses, and flights between cities</p>
                 </div>
               </Link>
-              <Link href="/blog/" className="group">
-                <div className="bg-white p-6 rounded-2xl shadow-md hover:shadow-xl hover:-translate-y-1 transition-all text-center">
+              <Link href="/weather/" className="group">
+                <div className="bg-surface-cream p-6 rounded-2xl hover:shadow-md hover:-translate-y-1 transition-all text-center">
                   <div className="w-12 h-12 bg-thailand-blue rounded-xl flex items-center justify-center mx-auto mb-3">
                     <svg className="w-6 h-6 text-white" fill="none" stroke="currentColor" viewBox="0 0 24 24">
-                      <path strokeLinecap="round" strokeLinejoin="round" strokeWidth="2" d="M12 6.253v13m0-13C10.832 5.477 9.246 5 7.5 5S4.168 5.477 3 6.253v13C4.168 18.477 5.754 18 7.5 18s3.332.477 4.5 1.253m0-13C13.168 5.477 14.754 5 16.5 5c1.746 0 3.332.477 4.5 1.253v13C19.832 18.477 18.246 18 16.5 18c-1.746 0-3.332.477-4.5 1.253" />
+                      <path strokeLinecap="round" strokeLinejoin="round" strokeWidth="2" d="M3 15a4 4 0 004 4h9a5 5 0 10-.1-9.999 5.002 5.002 0 10-9.78 2.096A4.001 4.001 0 003 15z" />
                     </svg>
                   </div>
-                  <h3 className="font-semibold font-heading text-gray-900 mb-2">Travel Blog</h3>
-                  <p className="text-gray-600 text-sm">Tips & stories</p>
+                  <h3 className="font-semibold font-heading text-gray-900 mb-2">Weather Guide</h3>
+                  <p className="text-gray-600 text-sm">Best time to visit each region</p>
                 </div>
               </Link>
             </div>

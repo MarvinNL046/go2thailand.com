@@ -60,26 +60,26 @@ export default function IslandsPage({ islands }: IslandsPageProps) {
   const featuredRoutes = [
     {
       href: '/thailand-islands/',
-      title: 'Thailand islands pillar',
-      body: 'Use the planning-first pillar if you are still deciding which island style fits the trip.'
+      title: 'Thailand islands — planning guide',
+      body: 'Covers how to choose between coasts, how many islands to include in a trip, and which combinations work logistically.'
     },
     {
       href: '/best-beaches-in-thailand/',
       title: 'Best beaches in Thailand',
-      body: 'Switch to the beach pillar when the decision is about shoreline style, not island logistics.'
+      body: 'Organised by beach character rather than island name — useful when you know the kind of shore you want but not which island to anchor on.'
     },
     {
       href: '/compare/',
-      title: 'Island comparison pages',
-      body: 'Best used after you have a shortlist of two realistic island candidates.'
+      title: 'Island vs island comparisons',
+      body: 'Side-by-side breakdowns of specific island pairs. Most useful once you have a shortlist of two realistic candidates.'
     }
   ];
 
   const jsonLd = {
     '@context': 'https://schema.org',
     '@type': 'CollectionPage',
-    name: 'Thailand Islands Discovery Hub',
-    description: 'Editorial discovery hub for Thailand island guides.',
+    name: 'Thailand Islands Guide',
+    description: 'Editorial guides to Thailand\'s main islands, organised by coast and trip type.',
     url: 'https://go2-thailand.com/islands/',
     breadcrumb: {
       '@type': 'BreadcrumbList',
@@ -95,8 +95,8 @@ export default function IslandsPage({ islands }: IslandsPageProps) {
   return (
     <>
       <SEOHead
-        title="Thailand Islands Discovery Hub | Go2Thailand"
-        description="Editorial discovery hub for Thailand islands, built around internal navigation, coast logic, and source-backed planning notes."
+        title="Thailand Islands Guide — Andaman Sea and Gulf of Thailand"
+        description="Editorial guides to Thailand's main islands. Understand the difference between the Andaman Sea and Gulf coasts, then use the island cards to narrow your shortlist."
       >
         <script
           type="application/ld+json"
@@ -108,10 +108,10 @@ export default function IslandsPage({ islands }: IslandsPageProps) {
         <section className="bg-surface-dark text-white">
           <div className="max-w-6xl mx-auto px-4 sm:px-6 lg:px-8 py-16">
             <div className="max-w-4xl">
-              <p className="font-script text-thailand-gold mb-3">Editorial discovery hub</p>
+              <p className="font-script text-thailand-gold mb-3">Island guides</p>
               <h1 className="text-4xl lg:text-6xl font-heading font-bold mb-6">Thailand islands</h1>
               <p className="text-lg lg:text-2xl opacity-90">
-                Browse the island guides as a discovery layer, not a funnel. Use the coast filter, the comparison table, and the linked pillar pages to move from broad interest to a defensible shortlist.
+                Thailand has two distinct island coasts with different characters, seasons, and practical logistics. Choosing the right coast comes before choosing the right island.
               </p>
             </div>
           </div>
@@ -123,23 +123,40 @@ export default function IslandsPage({ islands }: IslandsPageProps) {
           </div>
         </section>
 
+        {/* Andaman vs Gulf editorial framing */}
         <section className="bg-white border-b">
-          <div className="max-w-5xl mx-auto px-4 sm:px-6 lg:px-8 py-10 grid md:grid-cols-3 gap-4">
-            <div className="rounded-2xl bg-surface-cream p-5">
-              <h2 className="text-lg font-heading font-bold text-gray-900 mb-2">Start with coast</h2>
-              <p className="text-sm text-gray-700">The Andaman side is stronger for classic scenery and famous bays. The Gulf side is easier to shape around Samui, Phangan, and Tao as one coherent trip idea.</p>
+          <div className="max-w-5xl mx-auto px-4 sm:px-6 lg:px-8 py-10">
+            <p className="section-label font-script text-thailand-gold mb-2">Andaman Sea vs Gulf of Thailand</p>
+            <h2 className="text-2xl font-heading font-bold text-gray-900 mb-6">How the two coasts differ</h2>
+            <div className="grid md:grid-cols-2 gap-6 mb-8">
+              <div className="rounded-2xl bg-surface-cream p-5">
+                <h3 className="text-lg font-heading font-bold text-gray-900 mb-2">Andaman Sea — west coast</h3>
+                <p className="text-sm text-gray-700 leading-relaxed mb-3">
+                  Phuket, Krabi, Koh Phi Phi, Koh Lanta, and the Similan Islands sit on the Andaman side. This coast is known for dramatic limestone karst scenery, clear water from November to April, and strong diving from Khao Lak to the outer islands.
+                </p>
+                <p className="text-sm text-gray-700 leading-relaxed">
+                  The southwest monsoon closes large parts of the Andaman coast from May to October. High season is December to March. If scenery and diving are the priority, this is the stronger coast.
+                </p>
+              </div>
+              <div className="rounded-2xl bg-surface-cream p-5">
+                <h3 className="text-lg font-heading font-bold text-gray-900 mb-2">Gulf of Thailand — east coast</h3>
+                <p className="text-sm text-gray-700 leading-relaxed mb-3">
+                  Koh Samui, Koh Phangan, Koh Tao, and Koh Chang sit in the Gulf. The seasons here are offset from the Andaman — the Gulf is often workable when the west coast is closed, though Samui has its own rainy window in November.
+                </p>
+                <p className="text-sm text-gray-700 leading-relaxed">
+                  The Samui–Phangan–Tao chain is the most coherent Gulf itinerary: three islands with distinct personalities within easy ferry distance of each other. Koh Tao in particular is one of the world&apos;s most accessible dive training destinations.
+                </p>
+              </div>
             </div>
-            <div className="rounded-2xl bg-surface-cream p-5">
-              <h2 className="text-lg font-heading font-bold text-gray-900 mb-2">Then pick pace</h2>
-              <p className="text-sm text-gray-700">Ask whether you want one island base, a pair with contrast, or a faster hop. That answer usually matters more than the raw ranking of an island.</p>
-            </div>
-            <div className="rounded-2xl bg-surface-cream p-5">
-              <h2 className="text-lg font-heading font-bold text-gray-900 mb-2">Use the deeper routes</h2>
-              <p className="text-sm text-gray-700">Every card here should lead you deeper into a guide, a pillar page, or a comparison page. That is the point of this hub.</p>
+            <div className="rounded-2xl bg-amber-50 border border-amber-100 p-5">
+              <p className="text-sm text-gray-700 leading-relaxed">
+                <strong className="text-gray-900">Practical note:</strong> Most visitors only visit one coast per trip — the logistics of crossing from Andaman to Gulf add a full travel day. Decide which coast suits your travel window first, then narrow to specific islands.
+              </p>
             </div>
           </div>
         </section>
 
+        {/* Coast filter */}
         <section className="bg-white border-b sticky top-0 z-30">
           <div className="max-w-6xl mx-auto px-4 sm:px-6 lg:px-8 py-4">
             <div className="flex gap-3 overflow-x-auto scrollbar-hide">
@@ -160,15 +177,22 @@ export default function IslandsPage({ islands }: IslandsPageProps) {
           </div>
         </section>
 
+        {/* Island cards */}
         <section className="py-12">
           <div className="max-w-6xl mx-auto px-4 sm:px-6 lg:px-8">
             <div className="mb-8">
-              <p className="section-label font-script text-thailand-gold">Browse guides</p>
               <h2 className="text-3xl font-heading font-bold text-gray-900">
                 {selectedRegion === 'all'
-                  ? `All island guides (${filteredIslands.length})`
+                  ? `Island guides (${filteredIslands.length})`
                   : `${selectedRegion} guides (${filteredIslands.length})`}
               </h2>
+              {selectedRegion !== 'all' && (
+                <p className="text-gray-600 mt-2 text-sm">
+                  {selectedRegion === 'Andaman Sea'
+                    ? 'Best visited November to April. Diving season peaks December to March around the Similan Islands.'
+                    : 'Gulf seasons vary — Samui and Phangan peak December to September; Koh Tao is diveable most of the year.'}
+                </p>
+              )}
             </div>
 
             <div className="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-3 gap-6">
@@ -179,17 +203,21 @@ export default function IslandsPage({ islands }: IslandsPageProps) {
           </div>
         </section>
 
+        {/* Quick comparison table */}
         <section className="py-12 bg-white">
           <div className="max-w-6xl mx-auto px-4 sm:px-6 lg:px-8">
-            <p className="section-label font-script text-thailand-gold text-center">Compare quickly</p>
-            <h2 className="text-3xl font-heading font-bold text-gray-900 text-center mb-8">Quick island comparison</h2>
+            <p className="section-label font-script text-thailand-gold text-center">Quick reference</p>
+            <h2 className="text-3xl font-heading font-bold text-gray-900 text-center mb-3">Island comparison at a glance</h2>
+            <p className="text-gray-600 text-center text-sm mb-8 max-w-xl mx-auto">
+              A starting point only — use the individual island guides for anything you might actually act on.
+            </p>
             <div className="overflow-x-auto">
               <table className="w-full text-sm">
                 <thead>
                   <tr className="bg-thailand-blue text-white">
                     <th className="px-4 py-3 text-left rounded-tl-xl">Island</th>
-                    <th className="px-4 py-3 text-left">Region</th>
-                    <th className="px-4 py-3 text-left">Highlights</th>
+                    <th className="px-4 py-3 text-left">Coast</th>
+                    <th className="px-4 py-3 text-left">Known for</th>
                     <th className="px-4 py-3 text-left rounded-tr-xl">Guide</th>
                   </tr>
                 </thead>
@@ -201,7 +229,7 @@ export default function IslandsPage({ islands }: IslandsPageProps) {
                       <td className="px-4 py-3 text-gray-700">{island.highlights.slice(0, 2).join(', ')}</td>
                       <td className="px-4 py-3">
                         <Link href={`/islands/${island.slug}/`} className="text-thailand-blue hover:underline">
-                          Open guide
+                          Read guide
                         </Link>
                       </td>
                     </tr>
@@ -212,10 +240,11 @@ export default function IslandsPage({ islands }: IslandsPageProps) {
           </div>
         </section>
 
+        {/* Stronger internal routes */}
         <section className="py-12 bg-surface-cream">
           <div className="max-w-6xl mx-auto px-4 sm:px-6 lg:px-8">
-            <p className="section-label font-script text-thailand-gold text-center">Internal routes</p>
-            <h2 className="text-3xl font-heading font-bold text-gray-900 text-center mb-8">Use the stronger cluster pages next</h2>
+            <p className="section-label font-script text-thailand-gold text-center">Continue planning</p>
+            <h2 className="text-3xl font-heading font-bold text-gray-900 text-center mb-8">Related guides</h2>
             <div className="grid md:grid-cols-3 gap-6">
               {featuredRoutes.map(route => (
                 <Link key={route.href} href={route.href} className="rounded-3xl bg-white p-6 hover:shadow-md transition-shadow">
@@ -227,13 +256,14 @@ export default function IslandsPage({ islands }: IslandsPageProps) {
           </div>
         </section>
 
+        {/* Source attribution */}
         <section className="py-12 bg-white">
           <div className="max-w-4xl mx-auto px-4 sm:px-6 lg:px-8">
-            <p className="section-label font-script text-thailand-gold text-center">Sources and review</p>
-            <h2 className="text-3xl font-heading font-bold text-gray-900 text-center mb-6">Visible trust signals</h2>
+            <p className="section-label font-script text-thailand-gold text-center">Sources</p>
+            <h2 className="text-2xl font-heading font-bold text-gray-900 text-center mb-6">Editorial notes and sources</h2>
             <div className="rounded-3xl bg-surface-cream p-6 md:p-8">
               <p className="text-gray-700 leading-relaxed mb-5">
-                This hub was reviewed on March 28, 2026 against official TAT destination pages for the main islands in this cluster. The goal here is editorial navigation, so claims stay broad unless they are durable enough to keep.
+                Island data was reviewed against official Tourism Authority of Thailand destination pages in March 2026. Season windows and transport information are intentionally broad — exact ferry schedules and park opening dates change seasonally and should be confirmed closer to travel.
               </p>
               <ul className="space-y-3">
                 {SOURCE_LINKS.map(source => (
