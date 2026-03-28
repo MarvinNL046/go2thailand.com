@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-03-28T08:46:52Z",
+  "updated_at": "2026-03-28T08:48:06Z",
   "project": "go2thailand city support cluster upgrade tracker",
   "goal": "Upgrade all English city support clusters to source-backed, non-thin, AdSense-safe, EEAT-oriented pages.",
   "scope": [
@@ -62,7 +62,7 @@
       "city status pending: all 9 route statuses are pending",
       "city status in_progress: at least 1 route status is in_progress or done, and fewer than 9 route statuses are done",
       "city status validation_pending: all 9 route statuses are done, but the final full-cluster validation pass has not yet succeeded",
-      "city status done: all 9 route statuses are done",
+      "city status done: all 9 route statuses are done and the final full-cluster validation pass has succeeded",
       "partial progress is allowed only as city status in_progress; a city must not be marked done while any route status is pending or in_progress",
       "all 9 route statuses may be done only provisionally while city status is validation_pending until the final full-cluster validation pass succeeds",
       "if the final full-cluster validation pass fails for any route, the failing route status returns to in_progress and the city status remains in_progress"
