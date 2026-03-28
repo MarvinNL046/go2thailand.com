@@ -4,6 +4,7 @@ import Link from 'next/link';
 import { getCityBySlug, getCityStaticPaths, generateCityMetadata, generateBreadcrumbs, getCityImageForSection, getEnhancedAttractionsByCity, toAbsoluteImageUrl } from '../../../lib/cities';
 import Breadcrumbs from '../../../components/Breadcrumbs';
 import SEOHead from '../../../components/SEOHead';
+import CitySupportSources from '../../../components/CitySupportSources';
 import { getAffiliates, CityAffiliates } from '../../../lib/affiliates';
 
 interface Attraction {
@@ -65,6 +66,12 @@ interface City {
     };
   };
   enhanced_description?: string;
+  contentSources?: any[];
+  reviewed_by?: string;
+  reviewed_at?: string;
+  enhanced_at?: string;
+  editorialPositioning?: string;
+  sourceSummary?: string;
 }
 
 interface CityAttractionsPageProps {
@@ -147,6 +154,22 @@ export default function CityAttractionsPage({ city, attractions, affiliates }: C
             <Breadcrumbs items={breadcrumbs} />
           </div>
         </section>
+
+        {(city.contentSources?.length || city.reviewed_by || city.reviewed_at || city.enhanced_at || city.editorialPositioning || city.sourceSummary) && (
+          <section className="section-padding pt-8">
+            <div className="container-custom">
+              <CitySupportSources
+                cityName={city.name.en}
+                contentSources={city.contentSources}
+                reviewedBy={city.reviewed_by}
+                reviewedAt={city.reviewed_at}
+                enhancedAt={city.enhanced_at}
+                editorialPositioning={city.editorialPositioning}
+                sourceSummary={city.sourceSummary}
+              />
+            </div>
+          </section>
+        )}
 
         {/* Main Content */}
         <section className="section-padding">

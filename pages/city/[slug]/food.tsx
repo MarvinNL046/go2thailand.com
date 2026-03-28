@@ -5,6 +5,7 @@ import { getCityBySlug, getCityStaticPaths, generateCityMetadata, generateBreadc
 import Breadcrumbs from '../../../components/Breadcrumbs';
 import SEOHead from '../../../components/SEOHead';
 import CityExploreMore from '../../../components/CityExploreMore';
+import CitySupportSources from '../../../components/CitySupportSources';
 import foodData from '../../../data/enhanced/food/index.json';
 import foodSpecialtiesData from '../../../data/cities/food-specialties.json';
 
@@ -31,6 +32,12 @@ interface City {
   province: string;
   image: string;
   categories: { food: { en: string; nl: string; }; };
+  contentSources?: any[];
+  reviewed_by?: string;
+  reviewed_at?: string;
+  enhanced_at?: string;
+  editorialPositioning?: string;
+  sourceSummary?: string;
 }
 
 interface Food {
@@ -150,6 +157,22 @@ export default function CityFoodPage({ city, cityFoodData, enhancedRestaurants }
             </div>
           </div>
         </section>
+
+        {(city.contentSources?.length || city.reviewed_by || city.reviewed_at || city.enhanced_at || city.editorialPositioning || city.sourceSummary) && (
+          <section className="section-padding pt-8">
+            <div className="container-custom">
+              <CitySupportSources
+                cityName={city.name.en}
+                contentSources={city.contentSources}
+                reviewedBy={city.reviewed_by}
+                reviewedAt={city.reviewed_at}
+                enhancedAt={city.enhanced_at}
+                editorialPositioning={city.editorialPositioning}
+                sourceSummary={city.sourceSummary}
+              />
+            </div>
+          </section>
+        )}
 
         {/* Popular Dishes Section */}
         <section className="section-padding">

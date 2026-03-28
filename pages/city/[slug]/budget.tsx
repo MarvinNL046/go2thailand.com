@@ -4,6 +4,7 @@ import { getCityBySlug, getCityStaticPaths, generateCityMetadata, generateBreadc
 import Breadcrumbs from '../../../components/Breadcrumbs';
 import SEOHead from '../../../components/SEOHead';
 import CityExploreMore from '../../../components/CityExploreMore';
+import CitySupportSources from '../../../components/CitySupportSources';
 import { getAffiliates, CityAffiliates } from '../../../lib/affiliates';
 
 interface BudgetTier {
@@ -53,6 +54,12 @@ interface City {
     hotels: { en: string; nl: string };
     attractions: { en: string; nl: string };
   };
+  contentSources?: any[];
+  reviewed_by?: string;
+  reviewed_at?: string;
+  enhanced_at?: string;
+  editorialPositioning?: string;
+  sourceSummary?: string;
 }
 
 interface CityBudgetPageProps {
@@ -149,6 +156,22 @@ export default function CityBudgetPage({ city, budgetGuide, budgetReality, budge
             </div>
           </div>
         </section>
+
+        {(city.contentSources?.length || city.reviewed_by || city.reviewed_at || city.enhanced_at || city.editorialPositioning || city.sourceSummary) && (
+          <section className="section-padding pt-8">
+            <div className="container-custom">
+              <CitySupportSources
+                cityName={city.name.en}
+                contentSources={city.contentSources}
+                reviewedBy={city.reviewed_by}
+                reviewedAt={city.reviewed_at}
+                enhancedAt={city.enhanced_at}
+                editorialPositioning={city.editorialPositioning}
+                sourceSummary={city.sourceSummary}
+              />
+            </div>
+          </section>
+        )}
 
         <section className="section-padding">
           <div className="container-custom">
@@ -511,6 +534,13 @@ export const getStaticProps: GetStaticProps = async ({ params }) => {
     province: city.province,
     image: city.image,
     categories: city.categories,
+    contentSources: (rawCity as any).contentSources || (rawCity as any).content_sources || [],
+    reviewed_by: (rawCity as any).reviewed_by,
+    reviewed_at: (rawCity as any).reviewed_at,
+    enhanced_at: (rawCity as any).enhanced_at,
+    editorialPositioning: (rawCity as any).editorialPositioning,
+    sourceSummary: (rawCity as any).sourceSummary,
+    recommendedAlternatives: (rawCity as any).recommendedAlternatives,
   };
 
   return {

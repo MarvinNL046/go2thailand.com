@@ -7,6 +7,7 @@ import { formatPrice } from '../../../lib/price';
 import Breadcrumbs from '../../../components/Breadcrumbs';
 import SEOHead from '../../../components/SEOHead';
 import CityExploreMore from '../../../components/CityExploreMore';
+import CitySupportSources from '../../../components/CitySupportSources';
 
 interface MuayThaiActivity {
   name: string;
@@ -46,11 +47,18 @@ interface City {
   region: string;
   province: string;
   image: string;
+  contentSources?: any[];
+  reviewed_by?: string;
+  reviewed_at?: string;
+  enhanced_at?: string;
+  editorialPositioning?: string;
+  sourceSummary?: string;
+  recommendedAlternatives?: { label: string; href: string; note?: string }[];
 }
 
 interface Props {
   city: City;
-  muayThaiData: CityData;
+  muayThaiData: CityData | null;
 }
 
 function TypeBadge({ type }: { type: string }) {
@@ -66,38 +74,69 @@ function TypeBadge({ type }: { type: string }) {
 export default function MuayThaiPage({ city, muayThaiData }: Props) {
   const { locale } = useRouter();
   const loc = locale || 'en';
-  if (!city || !muayThaiData) return <div>Not found</div>;
+  if (!city) return <div>Not found</div>;
 
   const breadcrumbs = [
     ...generateBreadcrumbs(city),
     { name: 'Muay Thai', href: `/city/${city.slug}/muay-thai/` }
   ];
 
-  const watchActivities = muayThaiData.classes.filter(c => c.type === 'watch');
-  const trainActivities = muayThaiData.classes.filter(c => c.type === 'train');
-  const comboActivities = muayThaiData.classes.filter(c => c.type === 'combo');
+  const muayThaiActivities = muayThaiData?.classes || [];
+  const hasLocalOptions = muayThaiActivities.length > 0;
+  const watchActivities = muayThaiActivities.filter(c => c.type === 'watch');
+  const trainActivities = muayThaiActivities.filter(c => c.type === 'train');
+  const comboActivities = muayThaiActivities.filter(c => c.type === 'combo');
+  const priceValues = muayThaiActivities.map(c => c.priceFrom).filter((price): price is number => typeof price === 'number' && Number.isFinite(price));
+  const minPrice = priceValues.length > 0 ? Math.min(...priceValues) : null;
+  const maxPrice = priceValues.length > 0 ? Math.max(...priceValues) : null;
+  const introText = muayThaiData?.intro?.en || `Muay Thai is not a core local draw in ${city.name.en}, so this route focuses on fit, context, and better alternatives rather than pretending the city has a deep fight scene.`;
+  const editorialPositioning = (city.editorialPositioning || `Ayutthaya is not a core Muay Thai destination; Bangkok, Chiang Mai, and Phuket usually offer much stronger fight-night and training inventories.`).trim();
+  const recommendedAlternatives = city.recommendedAlternatives && city.recommendedAlternatives.length > 0
+    ? city.recommendedAlternatives
+    : [
+        { label: 'Bangkok Muay Thai', href: '/city/bangkok/muay-thai/', note: 'Largest city fight scene' },
+        { label: 'Chiang Mai Muay Thai', href: '/city/chiang-mai/muay-thai/', note: 'Good mix of gyms and stadiums' },
+        { label: 'Phuket Muay Thai', href: '/city/phuket/muay-thai/', note: 'Tourist-friendly training hub' },
+      ];
 
   const title = `Muay Thai in ${city.name.en} 2026 — Fights, Gyms & Practical Notes`;
-  const description = `Use this overview to compare Muay Thai fight nights, training options, and general price ranges in ${city.name.en}.`;
+  const description = hasLocalOptions
+    ? `Use this overview to compare Muay Thai fight nights, training options, and general price ranges in ${city.name.en}.`
+    : `Muay Thai is a limited local fit in ${city.name.en}, so this overview points you toward stronger alternatives and avoids fake local listings.`;
 
-  const faqItems = [
-    {
-      q: `Where can I watch Muay Thai fights in ${city.name.en}?`,
-      a: `${city.name.en} has ${watchActivities.length} venues for watching live Muay Thai fights. Tickets start from ${formatPrice(Math.min(...watchActivities.map(c => c.priceFrom)), loc)} for standard seats, with VIP and ringside options available.`
-    },
-    {
-      q: `Can beginners try Muay Thai training in ${city.name.en}?`,
-      a: `Many Muay Thai sessions in ${city.name.en} can work for beginners, but the pace and coaching style vary by gym. Introductory classes usually cover basic technique, and equipment is often available to borrow or rent, though you should confirm that with the venue first.`
-    },
-    {
-      q: `How much does a Muay Thai experience cost in ${city.name.en}?`,
-      a: `Prices range from ${formatPrice(Math.min(...muayThaiData.classes.map(c => c.priceFrom)), loc)} to ${formatPrice(Math.max(...muayThaiData.classes.map(c => c.priceFrom)), loc)}. Fight tickets are the most affordable option, while private training sessions and combo packages cost more.`
-    },
-    {
-      q: `What should I wear to a Muay Thai fight or training session?`,
-      a: `For watching fights, casual clothes are fine. For training, wear comfortable sportswear such as shorts and a t-shirt. Some gyms provide gloves or pads, while others expect you to bring or rent gear, so confirm the setup in advance and bring your own water bottle and towel.`
-    }
-  ];
+  const faqItems = hasLocalOptions
+    ? [
+        {
+          q: `Where can I watch Muay Thai fights in ${city.name.en}?`,
+          a: `${city.name.en} has ${watchActivities.length} venues for watching live Muay Thai fights. ${minPrice !== null ? `Tickets start from ${formatPrice(minPrice, loc)} for standard seats, with VIP and ringside options available.` : 'Ticket pricing varies by venue.'}`
+        },
+        {
+          q: `Can beginners try Muay Thai training in ${city.name.en}?`,
+          a: `Many Muay Thai sessions in ${city.name.en} can work for beginners, but the pace and coaching style vary by gym. Introductory classes usually cover basic technique, and equipment is often available to borrow or rent, though you should confirm that with the venue first.`
+        },
+        {
+          q: `How much does a Muay Thai experience cost in ${city.name.en}?`,
+          a: `${minPrice !== null && maxPrice !== null ? `Prices range from ${formatPrice(minPrice, loc)} to ${formatPrice(maxPrice, loc)}.` : 'Prices vary by venue and session type.'} Fight tickets are the most affordable option, while private training sessions and combo packages cost more.`
+        },
+        {
+          q: `What should I wear to a Muay Thai fight or training session?`,
+          a: `For watching fights, casual clothes are fine. For training, wear comfortable sportswear such as shorts and a t-shirt. Some gyms provide gloves or pads, while others expect you to bring or rent gear, so confirm the setup in advance and bring your own water bottle and towel.`
+        }
+      ]
+    : [
+        {
+          q: `Is ${city.name.en} a strong Muay Thai base?`,
+          a: editorialPositioning,
+        },
+        {
+          q: `Where should I go instead for Muay Thai?`,
+          a: `Bangkok, Chiang Mai, and Phuket generally have much stronger fight-night and training inventories.`,
+        },
+        {
+          q: `What should I do in ${city.name.en} instead?`,
+          a: `Use Ayutthaya for heritage sights, river dining, and a slower city break rather than a combat-sport itinerary.`,
+        },
+      ];
 
   const jsonLd = {
     '@context': 'https://schema.org',
@@ -132,23 +171,39 @@ export default function MuayThaiPage({ city, muayThaiData }: Props) {
                 Muay Thai in {city.name.en}
               </h1>
               <p className="text-xl text-gray-300 max-w-3xl mx-auto">
-                {muayThaiData.intro.en.split('.').slice(0, 2).join('.') + '.'}
+                {introText.split('.').slice(0, 2).join('.') + '.'}
               </p>
             </div>
           </div>
         </section>
+
+        {(city.contentSources?.length || city.reviewed_by || city.reviewed_at || city.enhanced_at || city.editorialPositioning || city.sourceSummary) && (
+          <section className="section-padding pt-8">
+            <div className="container-custom">
+              <CitySupportSources
+                cityName={city.name.en}
+                contentSources={city.contentSources}
+                reviewedBy={city.reviewed_by}
+                reviewedAt={city.reviewed_at}
+                enhancedAt={city.enhanced_at}
+                editorialPositioning={city.editorialPositioning}
+                sourceSummary={city.sourceSummary}
+              />
+            </div>
+          </section>
+        )}
 
         <section className="section-padding">
           <div className="container-custom">
             {/* Quick Stats */}
             <div className="grid grid-cols-2 md:grid-cols-4 gap-4 mb-12">
               <div className="bg-white rounded-2xl p-4 text-center shadow-md">
-                <div className="text-3xl font-bold text-thailand-red">{muayThaiData.classes.length}</div>
+                <div className="text-3xl font-bold text-thailand-red">{muayThaiActivities.length}</div>
                 <div className="text-sm text-gray-600">Activities</div>
               </div>
               <div className="bg-white rounded-2xl p-4 text-center shadow-md">
                 <div className="text-3xl font-bold text-thailand-red">
-                  {formatPrice(Math.min(...muayThaiData.classes.map(c => c.priceFrom)), loc)}
+                  {minPrice !== null ? formatPrice(minPrice, loc) : 'N/A'}
                 </div>
                 <div className="text-sm text-gray-600">Starting From</div>
               </div>
@@ -167,11 +222,17 @@ export default function MuayThaiPage({ city, muayThaiData }: Props) {
               <h2 className="text-2xl font-bold font-heading text-gray-900 mb-4">
                 Muay Thai Experience in {city.name.en}
               </h2>
-              <p className="text-gray-700 leading-relaxed">{muayThaiData.intro.en}</p>
+              <p className="text-gray-700 leading-relaxed">{introText}</p>
+              {!hasLocalOptions && (
+                <div className="mt-6 rounded-2xl bg-amber-50 p-5 text-amber-900">
+                  <h3 className="text-lg font-bold font-heading mb-2">Limited local fit</h3>
+                  <p className="text-sm leading-6">{editorialPositioning}</p>
+                </div>
+              )}
             </div>
 
             {/* Watch Fights Section */}
-            {watchActivities.length > 0 && (
+            {watchActivities.length > 0 ? (
               <>
                 <h2 className="text-3xl font-bold font-heading text-gray-900 mb-6 flex items-center gap-3">
                   Watch Live Muay Thai Fights
@@ -215,6 +276,15 @@ export default function MuayThaiPage({ city, muayThaiData }: Props) {
                   ))}
                 </div>
               </>
+            ) : hasLocalOptions ? null : (
+              <div className="bg-white rounded-2xl shadow-md p-8 mb-12">
+                <h2 className="text-2xl font-bold font-heading text-gray-900 mb-4">
+                  No dedicated fight-night listings
+                </h2>
+                <p className="text-gray-700 leading-relaxed">
+                  {editorialPositioning}
+                </p>
+              </div>
             )}
 
             {/* Training Section */}
@@ -360,7 +430,11 @@ export default function MuayThaiPage({ city, muayThaiData }: Props) {
                 Tips for Muay Thai in {city.name.en}
               </h2>
               <ul className="space-y-3">
-                {muayThaiData.tips.en.map((tip, i) => (
+                {(muayThaiData?.tips?.en?.length ? muayThaiData.tips.en : [
+                  'Use Muay Thai pages as a fit check, not a booking list, when the city is not a core combat-sport base.',
+                  'Bangkok, Chiang Mai, and Phuket are usually much better starting points for fights or training.',
+                  'In Ayutthaya, a heritage and food-focused plan will usually deliver more value than chasing fight listings.',
+                ]).map((tip, i) => (
                   <li key={i} className="flex items-start gap-3">
                     <span className="text-red-500 mt-1 flex-shrink-0">
                       <svg className="w-5 h-5" fill="currentColor" viewBox="0 0 20 20">
@@ -413,6 +487,19 @@ export default function MuayThaiPage({ city, muayThaiData }: Props) {
                   </div>
                 </Link>
               </div>
+              {!hasLocalOptions && (
+                <div className="mt-8 rounded-2xl border border-gray-100 bg-surface-cream p-5">
+                  <h4 className="font-semibold text-gray-900 mb-3">Better Muay Thai alternatives</h4>
+                  <div className="grid grid-cols-1 md:grid-cols-3 gap-3">
+                    {recommendedAlternatives.map((item) => (
+                      <Link key={item.href} href={item.href} className="rounded-xl bg-white p-4 hover:shadow-md transition-all duration-300">
+                        <div className="font-medium text-gray-900">{item.label}</div>
+                        <div className="text-sm text-gray-600">{item.note || 'A stronger fit.'}</div>
+                      </Link>
+                    ))}
+                  </div>
+                </div>
+              )}
             <CityExploreMore citySlug={city.slug} cityName={city.name.en} currentPage="muay-thai" />
             </div>
           </div>
@@ -444,12 +531,13 @@ export const getStaticProps: GetStaticProps = async ({ params }) => {
   if (!city) return { notFound: true };
 
   const muayThaiData = getMuayThaiByCity(slug);
-  if (!muayThaiData) return { notFound: true };
 
-  const sanitizedMuayThaiData = {
-    ...muayThaiData,
-    classes: muayThaiData.classes.map(({ gygPath, ...activity }) => activity),
-  };
+  const sanitizedMuayThaiData = muayThaiData
+    ? {
+        ...muayThaiData,
+        classes: muayThaiData.classes.map(({ gygPath, ...activity }) => activity),
+      }
+    : null;
 
   return { props: { city, muayThaiData: sanitizedMuayThaiData }, revalidate: 86400 };
 };
