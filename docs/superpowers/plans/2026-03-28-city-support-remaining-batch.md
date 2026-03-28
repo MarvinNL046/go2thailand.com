@@ -9,6 +9,7 @@
 - Do not mark a city `done` until the full support cluster passes validation
 - Commit after a city passes validation, or after a small contiguous batch of cities has passed without any unresolved shared-template risk
 - Stop only for blockers that cannot be resolved from the runbook, tracker, local validation, or primary-source research
+- Update tracker statuses to `in_progress` as work starts and record intentional `noindex` decisions during execution; only mark a city `done` after the full support cluster passes validation
 
 ## Per-City Checklist
 
@@ -27,7 +28,7 @@
 13. Fix internal links
 14. Remove stale legacy leaks from rendered HTML and `__NEXT_DATA__`
 15. Validate locally
-16. Update tracker only after the city passes
+16. Update tracker statuses and intentional `noindex` notes during execution; mark the city `done` only after it passes
 17. Continue to the next pending city
 
 ## Validation Commands
