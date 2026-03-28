@@ -147,12 +147,12 @@ Do not force indexability onto a weak page, and do not leave `noindex` in place 
 Use route status values deterministically during each city pass:
 
 - `pending`: no active editing or validation has started for that route in the current city pass
-- `in_progress`: the route is the active route for `execution.current_city` and route-level editing, source gathering, or validation has started, but the route has not yet cleared the route-level gates below
+- `in_progress`: the route is the active route for the city selected by `execution.next_pending` and route-level editing, source gathering, or validation has started, but the route has not yet cleared the route-level gates below
 - `done`: the route has cleared all route-level gates below during the current city pass
 
 Apply these transitions exactly:
 
-- move `pending` -> `in_progress` when the city becomes `execution.current_city` and you begin work on that specific route
+- move `pending` -> `in_progress` when the city selected by `execution.next_pending` is being worked and you begin work on that specific route
 - move `in_progress` -> `done` only after the route renders `200` or is intentionally documented as `noindex`, the leak scan is clean, the visible-source gate passes when supported, and the route-specific indexing decision is recorded
 - leave the city `in_progress` until all 9 routes are `done`
 - move the city to `done` only after a final full-cluster validation pass succeeds across all 9 routes in one pass
@@ -186,18 +186,25 @@ test "$(curl -s -o /dev/null -w '%{http_code}' "$BASE_URL/city/[slug]/elephant-s
 test "$(curl -s -o /dev/null -w '%{http_code}' "$BASE_URL/city/[slug]/diving-snorkeling/")" = "200"
 ```
 
-Then check the rendered HTML for explicit leak patterns:
+Then check the rendered HTML for explicit leak patterns. A clean leak scan means `rg` exits with status `1` because it found no matches. A dirty leak scan means `rg` exits with status `0` because it found a match and the route must fail validation. Any other `rg` exit status is a scan error.
 
 ```bash
-curl -s "$BASE_URL/city/[slug]/food/" | rg -n "TripAdvisor|tp\\.media|review_count|affiliate_url|trip_affiliate_url|current rates|verified hotel data|first-person|I visited|I stayed|our insider|book now"
-curl -s "$BASE_URL/city/[slug]/hotels/" | rg -n "TripAdvisor|tp\\.media|review_count|affiliate_url|trip_affiliate_url|current rates|verified hotel data|first-person|I visited|I stayed|our insider|book now"
-curl -s "$BASE_URL/city/[slug]/attractions/" | rg -n "TripAdvisor|tp\\.media|review_count|affiliate_url|trip_affiliate_url|current rates|verified hotel data|first-person|I visited|I stayed|our insider|book now"
-curl -s "$BASE_URL/city/[slug]/best-time-to-visit/" | rg -n "TripAdvisor|tp\\.media|review_count|affiliate_url|trip_affiliate_url|current rates|verified hotel data|first-person|I visited|I stayed|our insider|book now"
-curl -s "$BASE_URL/city/[slug]/budget/" | rg -n "TripAdvisor|tp\\.media|review_count|affiliate_url|trip_affiliate_url|current rates|verified hotel data|first-person|I visited|I stayed|our insider|book now"
-curl -s "$BASE_URL/city/[slug]/cooking-classes/" | rg -n "TripAdvisor|tp\\.media|review_count|affiliate_url|trip_affiliate_url|current rates|verified hotel data|first-person|I visited|I stayed|our insider|book now"
-curl -s "$BASE_URL/city/[slug]/muay-thai/" | rg -n "TripAdvisor|tp\\.media|review_count|affiliate_url|trip_affiliate_url|current rates|verified hotel data|first-person|I visited|I stayed|our insider|book now"
-curl -s "$BASE_URL/city/[slug]/elephant-sanctuaries/" | rg -n "TripAdvisor|tp\\.media|review_count|affiliate_url|trip_affiliate_url|current rates|verified hotel data|first-person|I visited|I stayed|our insider|book now"
-curl -s "$BASE_URL/city/[slug]/diving-snorkeling/" | rg -n "TripAdvisor|tp\\.media|review_count|affiliate_url|trip_affiliate_url|current rates|verified hotel data|first-person|I visited|I stayed|our insider|book now"
+for route in food hotels attractions best-time-to-visit budget cooking-classes muay-thai elephant-sanctuaries diving-snorkeling; do
+  html="/tmp/[slug]-${route}.html"
+  curl -s "$BASE_URL/city/[slug]/${route}/" > "$html"
+  if rg -q "TripAdvisor|tp\\.media|review_count|affiliate_url|trip_affiliate_url|current rates|verified hotel data|first-person|I visited|I stayed|our insider|book now" "$html"; then
+    echo "dirty leak scan: ${route}"
+    exit 1
+  else
+    status=$?
+    if [ "$status" -eq 1 ]; then
+      echo "clean leak scan: ${route}"
+    else
+      echo "leak scan error: ${route}"
+      exit "$status"
+    fi
+  fi
+done
 ```
 
 Then run the visible source-backed trust-signal check on routes whose templates support visible sources:
