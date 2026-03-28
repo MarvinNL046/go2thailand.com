@@ -1,208 +1,108 @@
 {
-  "title": "Best Hotels in Pattaya Thailand (2026)",
-  "meta_description": "The 10 best hotels in Pattaya, Thailand with real prices, ratings and guest reviews from tripadvisor. Updated 2026-03-08.",
-  "intro": "Discover the best hotels in Pattaya, Thailand. These recommendations are based on real guest reviews and current pricing from tripadvisor.",
+  "title": "Best Hotels in Pattaya",
+  "meta_description": "Curated Pattaya hotel guide with central, north-side, and resort-led stays backed by official hotel sources.",
+  "intro": "Pattaya hotels make more sense when you choose them by area fit rather than by raw star rating. Central Pattaya works for convenience and short stays, north Pattaya and Naklua work better for resort or Sanctuary planning, and the Pratumnak side makes more sense if you want a more self-contained coastal resort feel.",
   "items": [
     {
       "rank": 1,
-      "name": "The Sanctuary Resort Pattaya, BW Signature Collection",
-      "description": "The Sanctuary Resort Pattaya, BW Signature Collection is a 4.5-rated hotel in Pattaya.",
-      "location": "Pattaya",
-      "current_price": "$81",
-      "highlights": [],
-      "insider_tips": [],
-      "current_info": "Price: $81 • Rating: 4.5/5 • 1.712 reviews",
-      "scraped": {
-        "source": "tripadvisor",
-        "price_per_night": "$81",
-        "rating": 4.5,
-        "review_count": 1712,
-        "scraped_at": "2026-03-08T15:19:21.237Z"
-      },
-      "affiliate_url": "https://tp.media/r?marker=602467&trs=421888&p=4114&u=https%3A%2F%2Fwww.booking.com%2Fsearchresults.html%3Fss%3DThe%2520Sanctuary%2520Resort%2520Pattaya%252C%2520BW%2520Signature%2520Collection%252C%2520Pattaya%252C%2520Thailand%26nflt%3Dht_id%253D204",
-      "trip_affiliate_url": "https://tp.media/r?marker=602467&trs=421888&p=7631&u=https%3A%2F%2Fwww.trip.com%2Fhotels%2Flist%3Fkeyword%3DThe%2520Sanctuary%2520Resort%2520Pattaya%252C%2520BW%2520Signature%2520Collection%2520Pattaya"
+      "name": "Hilton Pattaya",
+      "description": "One of the strongest central Pattaya hotel answers if you want direct mall-and-beach-road convenience without giving up full-service upscale comfort.",
+      "location": "Central Pattaya",
+      "current_price": "Upscale to luxury",
+      "highlights": [
+        "Central location",
+        "Bay views",
+        "Strong for short stays"
+      ],
+      "current_info": "Best if your Pattaya trip is short and convenience matters more than seclusion."
     },
     {
       "rank": 2,
-      "name": "Royal Cliff Grand Hotel Pattaya",
-      "description": "Royal Cliff Grand Hotel Pattaya is a 4.7-rated hotel in Pattaya.",
-      "location": "Pattaya",
-      "current_price": "$171",
-      "highlights": [],
-      "insider_tips": [],
-      "current_info": "Price: $171 • Rating: 4.7/5 • 1.540 reviews",
-      "scraped": {
-        "source": "tripadvisor",
-        "price_per_night": "$171",
-        "rating": 4.7,
-        "review_count": 1540,
-        "scraped_at": "2026-03-08T15:19:21.237Z"
-      },
-      "affiliate_url": "https://tp.media/r?marker=602467&trs=421888&p=4114&u=https%3A%2F%2Fwww.booking.com%2Fsearchresults.html%3Fss%3DRoyal%2520Cliff%2520Grand%2520Hotel%2520Pattaya%252C%2520Pattaya%252C%2520Thailand%26nflt%3Dht_id%253D204",
-      "trip_affiliate_url": "https://tp.media/r?marker=602467&trs=421888&p=7631&u=https%3A%2F%2Fwww.trip.com%2Fhotels%2Flist%3Fkeyword%3DRoyal%2520Cliff%2520Grand%2520Hotel%2520Pattaya%2520Pattaya"
+      "name": "InterContinental Pattaya Resort",
+      "description": "A better fit if you want resort seclusion and a more self-contained stay rather than a central strip hotel.",
+      "location": "Pratumnak side",
+      "current_price": "Luxury",
+      "highlights": [
+        "Resort feel",
+        "Good for couples",
+        "Quieter than central Pattaya"
+      ],
+      "current_info": "More useful for a resort-led Pattaya stay than for a quick nightlife-centric visit."
     },
     {
       "rank": 3,
-      "name": "Royal Wing Suites & Spa Pattaya",
-      "description": "Royal Wing Suites & Spa Pattaya is a 4.9-rated hotel in Pattaya.",
-      "location": "Pattaya",
-      "current_price": "$349",
-      "highlights": [],
-      "insider_tips": [],
-      "current_info": "Price: $349 • Rating: 4.9/5 • 718 reviews",
-      "scraped": {
-        "source": "tripadvisor",
-        "price_per_night": "$349",
-        "rating": 4.9,
-        "review_count": 718,
-        "scraped_at": "2026-03-08T15:19:21.237Z"
-      },
-      "affiliate_url": "https://tp.media/r?marker=602467&trs=421888&p=4114&u=https%3A%2F%2Fwww.booking.com%2Fsearchresults.html%3Fss%3DRoyal%2520Wing%2520Suites%2520%2526%2520Spa%2520Pattaya%252C%2520Pattaya%252C%2520Thailand%26nflt%3Dht_id%253D204",
-      "trip_affiliate_url": "https://tp.media/r?marker=602467&trs=421888&p=7631&u=https%3A%2F%2Fwww.trip.com%2Fhotels%2Flist%3Fkeyword%3DRoyal%2520Wing%2520Suites%2520%2526%2520Spa%2520Pattaya%2520Pattaya"
+      "name": "Dusit Thani Pattaya",
+      "description": "A long-running Pattaya resort choice that works well if you want a full-service north-side stay near the city but away from the busiest late-night core.",
+      "location": "North Pattaya",
+      "current_price": "Upscale",
+      "highlights": [
+        "North-side base",
+        "Resort amenities",
+        "Good for mixed itineraries"
+      ],
+      "current_info": "A better fit for balanced city-and-resort trips than for purely nightlife-led stays."
     },
     {
       "rank": 4,
-      "name": "Avani Pattaya Resort",
-      "description": "Avani Pattaya Resort is a 4.5-rated hotel in Pattaya.",
-      "location": "Pattaya",
-      "current_price": "$108",
-      "highlights": [],
-      "insider_tips": [],
-      "current_info": "Price: $108 • Rating: 4.5/5 • 3.117 reviews",
-      "scraped": {
-        "source": "tripadvisor",
-        "price_per_night": "$108",
-        "rating": 4.5,
-        "review_count": 3117,
-        "scraped_at": "2026-03-08T15:19:21.237Z"
-      },
-      "affiliate_url": "https://tp.media/r?marker=602467&trs=421888&p=4114&u=https%3A%2F%2Fwww.booking.com%2Fsearchresults.html%3Fss%3DAvani%2520Pattaya%2520Resort%252C%2520Pattaya%252C%2520Thailand%26nflt%3Dht_id%253D204",
-      "trip_affiliate_url": "https://tp.media/r?marker=602467&trs=421888&p=7631&u=https%3A%2F%2Fwww.trip.com%2Fhotels%2Flist%3Fkeyword%3DAvani%2520Pattaya%2520Resort%2520Pattaya"
+      "name": "Grande Centre Point Pattaya",
+      "description": "A practical modern hotel if your Pattaya trip prioritizes shopping, city convenience, and family-friendly facilities over a classic resort atmosphere.",
+      "location": "North Pattaya / Terminal 21 side",
+      "current_price": "Upper mid-range to upscale",
+      "highlights": [
+        "Modern tower hotel",
+        "Convenient base",
+        "Family-friendly fit"
+      ],
+      "current_info": "Useful when location and practical amenities matter more than a traditional beach-resort mood."
     },
     {
       "rank": 5,
-      "name": "The Monttra Pattaya",
-      "description": "The Monttra Pattaya is a 4.7-rated hotel in Pattaya.",
-      "location": "Pattaya",
-      "current_price": "$122",
-      "highlights": [],
-      "insider_tips": [],
-      "current_info": "Price: $122 • Rating: 4.7/5 • 360 reviews",
-      "scraped": {
-        "source": "tripadvisor",
-        "price_per_night": "$122",
-        "rating": 4.7,
-        "review_count": 360,
-        "scraped_at": "2026-03-08T15:19:21.237Z"
-      },
-      "affiliate_url": "https://tp.media/r?marker=602467&trs=421888&p=4114&u=https%3A%2F%2Fwww.booking.com%2Fsearchresults.html%3Fss%3DThe%2520Monttra%2520Pattaya%252C%2520Pattaya%252C%2520Thailand%26nflt%3Dht_id%253D204",
-      "trip_affiliate_url": "https://tp.media/r?marker=602467&trs=421888&p=7631&u=https%3A%2F%2Fwww.trip.com%2Fhotels%2Flist%3Fkeyword%3DThe%2520Monttra%2520Pattaya%2520Pattaya"
-    },
-    {
-      "rank": 6,
-      "name": "Royal Cliff Beach Hotel Pattaya",
-      "description": "Royal Cliff Beach Hotel Pattaya is a 4.4-rated hotel in Pattaya.",
-      "location": "Pattaya",
-      "current_price": "$131",
-      "highlights": [],
-      "insider_tips": [],
-      "current_info": "Price: $131 • Rating: 4.4/5 • 1.909 reviews",
-      "scraped": {
-        "source": "tripadvisor",
-        "price_per_night": "$131",
-        "rating": 4.4,
-        "review_count": 1909,
-        "scraped_at": "2026-03-08T15:19:21.237Z"
-      },
-      "affiliate_url": "https://tp.media/r?marker=602467&trs=421888&p=4114&u=https%3A%2F%2Fwww.booking.com%2Fsearchresults.html%3Fss%3DRoyal%2520Cliff%2520Beach%2520Hotel%2520Pattaya%252C%2520Pattaya%252C%2520Thailand%26nflt%3Dht_id%253D204",
-      "trip_affiliate_url": "https://tp.media/r?marker=602467&trs=421888&p=7631&u=https%3A%2F%2Fwww.trip.com%2Fhotels%2Flist%3Fkeyword%3DRoyal%2520Cliff%2520Beach%2520Hotel%2520Pattaya%2520Pattaya"
-    },
-    {
-      "rank": 7,
-      "name": "Dusit Thani Pattaya",
-      "description": "Dusit Thani Pattaya is a 4.3-rated hotel in Pattaya.",
-      "location": "Pattaya",
-      "current_price": "$96",
-      "highlights": [],
-      "insider_tips": [],
-      "current_info": "Price: $96 • Rating: 4.3/5 • 3.460 reviews",
-      "scraped": {
-        "source": "tripadvisor",
-        "price_per_night": "$96",
-        "rating": 4.3,
-        "review_count": 3460,
-        "scraped_at": "2026-03-08T15:19:21.237Z"
-      },
-      "affiliate_url": "https://tp.media/r?marker=602467&trs=421888&p=4114&u=https%3A%2F%2Fwww.booking.com%2Fsearchresults.html%3Fss%3DDusit%2520Thani%2520Pattaya%252C%2520Pattaya%252C%2520Thailand%26nflt%3Dht_id%253D204",
-      "trip_affiliate_url": "https://tp.media/r?marker=602467&trs=421888&p=7631&u=https%3A%2F%2Fwww.trip.com%2Fhotels%2Flist%3Fkeyword%3DDusit%2520Thani%2520Pattaya%2520Pattaya"
-    },
-    {
-      "rank": 8,
-      "name": "Hard Rock Hotel Pattaya",
-      "description": "Hard Rock Hotel Pattaya is a 4.3-rated hotel in Pattaya.",
-      "location": "Pattaya",
-      "current_price": "$88",
-      "highlights": [],
-      "insider_tips": [],
-      "current_info": "Price: $88 • Rating: 4.3/5 • 4.074 reviews",
-      "scraped": {
-        "source": "tripadvisor",
-        "price_per_night": "$88",
-        "rating": 4.3,
-        "review_count": 4074,
-        "scraped_at": "2026-03-08T15:19:21.237Z"
-      },
-      "affiliate_url": "https://tp.media/r?marker=602467&trs=421888&p=4114&u=https%3A%2F%2Fwww.booking.com%2Fsearchresults.html%3Fss%3DHard%2520Rock%2520Hotel%2520Pattaya%252C%2520Pattaya%252C%2520Thailand%26nflt%3Dht_id%253D204",
-      "trip_affiliate_url": "https://tp.media/r?marker=602467&trs=421888&p=7631&u=https%3A%2F%2Fwww.trip.com%2Fhotels%2Flist%3Fkeyword%3DHard%2520Rock%2520Hotel%2520Pattaya%2520Pattaya"
-    },
-    {
-      "rank": 9,
-      "name": "Grande Centre Point Pattaya",
-      "description": "Grande Centre Point Pattaya is a 4.4-rated hotel in Pattaya.",
-      "location": "Pattaya",
-      "current_price": "$92",
-      "highlights": [],
-      "insider_tips": [],
-      "current_info": "Price: $92 • Rating: 4.4/5 • 250 reviews",
-      "scraped": {
-        "source": "tripadvisor",
-        "price_per_night": "$92",
-        "rating": 4.4,
-        "review_count": 250,
-        "scraped_at": "2026-03-08T15:19:21.237Z"
-      },
-      "affiliate_url": "https://tp.media/r?marker=602467&trs=421888&p=4114&u=https%3A%2F%2Fwww.booking.com%2Fsearchresults.html%3Fss%3DGrande%2520Centre%2520Point%2520Pattaya%252C%2520Pattaya%252C%2520Thailand%26nflt%3Dht_id%253D204",
-      "trip_affiliate_url": "https://tp.media/r?marker=602467&trs=421888&p=7631&u=https%3A%2F%2Fwww.trip.com%2Fhotels%2Flist%3Fkeyword%3DGrande%2520Centre%2520Point%2520Pattaya%2520Pattaya"
-    },
-    {
-      "rank": 10,
-      "name": "Hotel Amber Pattaya",
-      "description": "Hotel Amber Pattaya is a 4.6-rated hotel in Pattaya.",
-      "location": "Pattaya",
-      "current_price": "$54",
-      "highlights": [],
-      "insider_tips": [],
-      "current_info": "Price: $54 • Rating: 4.6/5 • 657 reviews",
-      "scraped": {
-        "source": "tripadvisor",
-        "price_per_night": "$54",
-        "rating": 4.6,
-        "review_count": 657,
-        "scraped_at": "2026-03-08T15:19:21.237Z"
-      },
-      "affiliate_url": "https://tp.media/r?marker=602467&trs=421888&p=4114&u=https%3A%2F%2Fwww.booking.com%2Fsearchresults.html%3Fss%3DHotel%2520Amber%2520Pattaya%252C%2520Pattaya%252C%2520Thailand%26nflt%3Dht_id%253D204",
-      "trip_affiliate_url": "https://tp.media/r?marker=602467&trs=421888&p=7631&u=https%3A%2F%2Fwww.trip.com%2Fhotels%2Flist%3Fkeyword%3DHotel%2520Amber%2520Pattaya%2520Pattaya"
+      "name": "Avani Pattaya Resort",
+      "description": "A balanced central Pattaya resort choice if you want greenery and hotel comfort close to the main action without sleeping directly inside the busiest nightlife strip.",
+      "location": "Central Pattaya",
+      "current_price": "Upper mid-range to upscale",
+      "highlights": [
+        "Central but greener feel",
+        "Good all-rounder",
+        "Works for short beach-city breaks"
+      ],
+      "current_info": "A useful compromise if you want central Pattaya access with more resort atmosphere than a pure city tower."
     }
   ],
   "city_slug": "pattaya",
   "city_name": "Pattaya",
   "category": "hotels",
-  "data_sources": [
-    "tripadvisor",
-    "scraped"
+  "content_sources": [
+    {
+      "title": "Hilton Pattaya",
+      "creator": "Hilton",
+      "url": "https://www.hilton.com/en/hotels/bkkhphi-hilton-pattaya/",
+      "description": "Used for central Pattaya upscale hotel positioning."
+    },
+    {
+      "title": "InterContinental Pattaya Resort",
+      "creator": "InterContinental Pattaya Resort",
+      "url": "https://pattaya.intercontinental.com/",
+      "description": "Used for resort-led south Pattaya positioning."
+    },
+    {
+      "title": "Dusit Thani Pattaya",
+      "creator": "Dusit Thani Pattaya",
+      "url": "https://www.dusit.com/dusitthani-pattaya/",
+      "description": "Used for north-Pattaya hotel positioning."
+    },
+    {
+      "title": "Grande Centre Point Pattaya",
+      "creator": "Grande Centre Point Pattaya",
+      "url": "https://grandecentrepointpattaya.com/",
+      "description": "Used for modern family and city-convenience hotel positioning."
+    },
+    {
+      "title": "Avani Pattaya Resort",
+      "creator": "Avani Pattaya Resort",
+      "url": "https://www.avanihotels.com/en/pattaya",
+      "description": "Used for central Pattaya resort positioning."
+    }
   ],
-  "last_scraped": "2026-03-08T15:19:21.237Z",
-  "generated_at": "2026-03-08T15:19:21.237Z",
-  "hybrid": false,
-  "scraped": true
+  "generated_at": "2026-03-26T00:00:00.000Z"
 }

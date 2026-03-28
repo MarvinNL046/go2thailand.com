@@ -25,7 +25,9 @@
     "ru": "Культурный центр Северного Таиланда, известный своей старой частью города, ночными рынками, храмами и близлежащими горами.",
     "zh": "泰国北部的文化中心，以古城、夜市、寺庙和邻近的山脉而闻名。"
   },
-  "population": 1100000,
+  "population": 127240,
+  "population_label": "Municipality population",
+  "population_note": "The municipality count is much smaller than the wider Chiang Mai urban area. Different sources use city, urban, and province boundaries differently, so headline totals vary a lot.",
   "highlights": [
     "Doi Suthep",
     "Old City",
@@ -39,7 +41,7 @@
   "image": "/images/cities/chiangmai/chiang-mai-park.webp",
   "seo": {
     "metaTitle": {
-      "en": "Discover Chiang Mai | What to do in Chiang Mai?",
+      "en": "Chiang Mai Travel Guide | Best Areas, Temples, Food & Hotels",
       "nl": "Ontdek Chiang Mai | Wat te doen in Chiang Mai?",
       "ja": "チェンマイ タイ — 北部の古都観光ガイド 2026",
       "ko": "치앙마이 태국 — 여행 가이드 2026",
@@ -50,7 +52,7 @@
       "zh": "发现清迈 | 在清迈可以做什么？"
     },
     "metaDescription": {
-      "en": "Your guide to Chiang Mai, Thailand – tips, highlights, food, hotels.",
+      "en": "Plan a smarter Chiang Mai trip with neighborhood advice, temple and market picks, Northern Thai food highlights, hotel recommendations, and practical seasonal tips.",
       "nl": "Jouw gids voor Chiang Mai, Thailand – tips, highlights, eten, hotels.",
       "ja": "チェンマイ（タイ）旅行ガイド — おすすめスポット、グルメ、ホテル情報。2026年更新。",
       "ko": "태국 치앙마이 가이드 — 팁, 하이라이트, 맛집, 호텔 정보.",
@@ -92,477 +94,740 @@
     "tourism",
     "guide"
   ],
-  "enhanced_description": "Chiang Mai wraps you in a warm embrace of fragrant jasmine and the distant hum of temple bells, nestled beneath a majestic backdrop of lush mountains. As the sun dips below the horizon, the golden stupa of Wat Phra That Doi Suthep glows, casting a magical aura over the city. Each step in the Old City feels like a journey through time, where ancient temples stand as guardians of history, and the air is filled with the tantalizing aroma of street food sizzling in woks. \n\nI remember my first evening in Chiang Mai, wandering the Sunday Night Market, where the vibrant colors of handmade crafts and the laughter of local vendors created an intoxicating atmosphere. I stumbled upon a small stall selling khao soi, a rich coconut curry noodle soup. As I savored my first spoonful, the vendor, an elderly woman with a warm smile, shared stories of her family's secret recipe passed down through generations. That moment wasn't just about food; it was a connection, a glimpse into the heart of Chiang Mai. \n\nWhat makes Chiang Mai stand out from other Thai destinations is its harmonious blend of tradition and modernity. Here, you can explore ancient temples like Wat Chedi Luang, and then sip artisanal coffee in a trendy café, all while being surrounded by the serene beauty of nature. The locals are incredibly welcoming; I often found myself invited to join in on festivals or local gatherings, experiences you won't find in the tourist brochures. \n\nOne of my favorite memories was participating in Yi Peng, the lantern festival. As I released my lantern into the night sky, surrounded by thousands of others, I felt a profound sense of community and hope. In Chiang Mai, every experience is enhanced by the people you meet and the stories they share, making it a truly special place in Thailand. \n\nWhether you're hiking in the nearby mountains, visiting an ethical elephant sanctuary, or simply enjoying a quiet moment by the Ping River, Chiang Mai has a way of capturing your heart and making you feel at home. The vibrant culture, the stunning landscapes, and the warmth of the people create an atmosphere that stays with you long after you've left. It's not just a destination; it's a feeling of belonging that draws you back time and again.",
+  "enhanced_description": "Chiang Mai works best when you treat it as a smaller cluster city rather than as one generic northern base. The Old City is strongest for temple walks, moat-side orientation, and first-time sightseeing. Nimman and the Suthep side of town are better for cafes, design shops, newer hotels, and a more modern lifestyle feel. The Ping River corridor gives you some of the city's most atmospheric boutique stays and slower evening dining.\n\nWhat makes Chiang Mai distinct is not just the number of temples. It is the way Lanna culture, Northern Thai food, mountain day trips, craft culture, and a calmer urban pace fit together in the same trip. It is one of Thailand's easiest places to combine heritage sightseeing with cooking classes, ethical elephant visits, coffee culture, and short escapes into nature.\n\nIt also rewards practical planning. Temple-heavy mornings, market browsing later in the day, and at least one slower half-day for food or a mountain trip usually work better than trying to treat Chiang Mai as a checklist of disconnected stops. Burning season and weather matter here more than in many other Thai city breaks, so timing is part of the destination rather than an afterthought.",
   "hidden_gems": [
     {
       "name": "Wat Umong",
-      "story": "I discovered this serene temple while seeking a quiet spot to meditate. The ancient tunnels and lush garden felt like a hidden sanctuary, where I met a monk who shared insights on mindfulness.",
-      "how_to_find": "Located south of the Old City, take a songthaew or rent a bicycle. Look for the large stupa and follow the signs to the tunnels.",
-      "best_time": "Early morning for tranquility or late afternoon to catch the golden hour.",
+      "story": "Wat Umong is one of Chiang Mai's most calming hidden-gem temple stops because it feels more like a wooded monastery complex than a standard old-city temple visit. The tunnels, shaded grounds, and quieter atmosphere make it a strong contrast to the city's headline wats.",
+      "how_to_find": "Head southwest of the Old City near the foothills below Doi Suthep. It is easiest by Grab or songthaew, and it combines well with nearby cafe or Baan Kang Wat time.",
+      "best_time": "Early morning or late afternoon is best for cooler weather and a quieter atmosphere.",
       "local_insights": [
-        "Bring a small donation for the monks, and remember to dress modestly."
+        "This is better as a slow temple visit than a quick checklist stop.",
+        "Dress respectfully and expect a more contemplative mood than at the city's busiest central temples."
       ]
     },
     {
       "name": "Baan Kang Wat",
-      "story": "This artsy community is where I found a cozy coffee shop and met local artists. I learned to make my own pottery, a fun and messy experience that connected me with the local creative scene.",
-      "how_to_find": "Head to the outskirts of the city, just past the Nimmanhaemin area. Look for colorful murals on the walls.",
-      "best_time": "Weekends, when local artisans showcase their work.",
+      "story": "Baan Kang Wat is one of Chiang Mai's strongest low-key creative stops, built around studios, small shops, workshops, and cafe-style browsing rather than big-ticket sightseeing. It works especially well if you want to see Chiang Mai's craft and design side in a more human-scale setting.",
+      "how_to_find": "Go toward the Suthep side of town, not far from Wat Umong. It fits best as a relaxed half-stop rather than as a major standalone attraction.",
+      "best_time": "Late morning or weekend afternoons are usually best, when more shops and workshop spaces feel active.",
       "local_insights": [
-        "Don't hesitate to strike up a conversation; locals are eager to share their craft."
+        "Go with time to browse slowly; the appeal is in the atmosphere, not a single headline sight.",
+        "This pairs naturally with coffee, ceramics, or small-design shopping rather than a temple-only sightseeing day."
+      ]
+    },
+    {
+      "name": "Wat Pha Lat",
+      "story": "Wat Pha Lat is one of Chiang Mai's best hidden temple stops if you want a forested setting and a more atmospheric temple experience on the way toward Doi Suthep. It feels more secluded than the main mountain-top temple and is especially strong for travelers who want a quieter religious setting.",
+      "how_to_find": "It sits on the Doi Suthep side of the city and is often paired with the Monk's Trail route or approached separately by road.",
+      "best_time": "Morning is best before the day gets hotter and busier on the mountain road.",
+      "local_insights": [
+        "This works better as an atmospheric temple stop than as a rushed photo stop between city sights.",
+        "If you are not actually hiking the Monk's Trail, arrive with realistic transport expectations rather than assuming it is a simple central-city walk."
+      ]
+    },
+    {
+      "name": "Jing Jai Market",
+      "story": "Jing Jai Market gives you a different side of Chiang Mai from the old-city night markets, with a more design-led and local-weekend feel. It is a good stop for coffee, local food, handmade goods, and a softer market rhythm than the biggest evening walking streets.",
+      "how_to_find": "It is north of the Old City and easiest to reach by Grab or short ride from the moat area.",
+      "best_time": "Weekend mornings are the strongest time to go.",
+      "local_insights": [
+        "This is one of the better market choices if you prefer daytime browsing to crowded night-market traffic.",
+        "It works well for a slower breakfast-and-browse start before moving into temples or cafes later in the day."
       ]
     }
   ],
   "authentic_experiences": [
     {
-      "activity": "Thai cooking class",
-      "story": "I took a cooking class with a local family, who welcomed me into their home. We made pad thai from scratch, and I learned the importance of balancing flavors.",
-      "cultural_significance": "Cooking is a way for families to bond, and food is at the heart of Thai culture.",
-      "how_to_participate": "Sign up for a class through a reputable school or ask locals for recommendations.",
+      "activity": "Join a Chiang Mai cooking class",
+      "story": "Chiang Mai is one of Thailand's best cities for cooking classes because many schools combine local-market context with hands-on Northern and central Thai dishes. Good classes usually make ingredients, curry paste, and flavor balance feel practical rather than theatrical.",
+      "cultural_significance": "Cooking classes in Chiang Mai help visitors understand how Thai food is built around fresh herbs, curry pastes, balance, and regional variation, not just around one famous tourist dish.",
+      "how_to_participate": "Choose a small-group class that includes market context and compare current options on our Chiang Mai cooking classes page.",
       "insights": [
-        "Always greet your host with 'Sawasdee' and express gratitude for the meal."
-      ]
+        "Morning classes with a market visit usually teach more than kitchen-only sessions.",
+        "Chiang Mai is one of the easiest places to try Northern Thai dishes in class, not only Bangkok-style staples."
+      ],
+      "href": "/city/chiang-mai/cooking-classes/",
+      "cta_label": "Compare Chiang Mai cooking classes"
     },
     {
-      "activity": "Volunteer at an elephant sanctuary",
-      "story": "Volunteering at an ethical sanctuary was life-changing. I helped feed and bathe the elephants, forming a bond with these gentle giants while learning about conservation efforts.",
-      "cultural_significance": "Elephants are revered in Thai culture, and ethical tourism supports their welfare.",
-      "how_to_participate": "Research sanctuaries that prioritize the elephants' well-being and offer volunteer programs.",
+      "activity": "Visit an ethical elephant sanctuary",
+      "story": "Chiang Mai is one of the main gateways for ethical elephant tourism in Thailand, but the quality difference between operators matters. The better sanctuaries focus on rescue, welfare, education, and lower-impact visits rather than on entertainment-heavy programs.",
+      "cultural_significance": "Elephants matter deeply in Thai cultural imagery and history, but modern travel decisions around them are really about animal welfare, not just symbolism.",
+      "how_to_participate": "Use established rescue-focused operators and compare current options through our Chiang Mai elephant sanctuaries guide.",
       "insights": [
-        "Respect the animals' space and listen to the guides; they have invaluable knowledge."
-      ]
+        "Do not assume every elephant experience near Chiang Mai is equally ethical just because it uses similar language online.",
+        "If a program leans heavily on performance or close-contact novelty, it is worth slowing down and reviewing the welfare model more carefully."
+      ],
+      "href": "/city/chiang-mai/elephant-sanctuaries/",
+      "cta_label": "Compare Chiang Mai elephant sanctuaries"
+    },
+    {
+      "activity": "Slow temple mornings in the Old City",
+      "story": "Chiang Mai's temple culture makes more sense when you explore the Old City on foot and let several smaller temple visits add up rather than treating one temple as the whole story. The city's moat-ringed core rewards slower mornings better than rushed afternoon loops.",
+      "cultural_significance": "Chiang Mai's temple density is tied to its role as a former Lanna capital, which is why temple visits here feel structurally different from a one-off landmark stop elsewhere.",
+      "how_to_participate": "Start early, group your route around the Old City, and combine one major temple with smaller neighborhood temple stops rather than trying to cross the whole city in one go.",
+      "insights": [
+        "Temple mornings work best before the sun and traffic build up.",
+        "This is more rewarding if you read Chiang Mai as a temple city, not just as one hilltop temple plus a few random extras."
+      ],
+      "href": "/city/chiang-mai/attractions/",
+      "cta_label": "Explore Chiang Mai attractions"
+    },
+    {
+      "activity": "Join seasonal festival culture respectfully",
+      "story": "Chiang Mai becomes a very different city during major seasonal festivals, especially Yi Peng and Loy Krathong in the cool season and Songkran in April. The value is not only in the visuals, but in seeing how ritual, local celebration, and visitor demand all reshape the city.",
+      "cultural_significance": "Festival timing affects temple activity, transport, pricing, and city atmosphere in a way that can genuinely change the whole trip.",
+      "how_to_participate": "Check timing carefully before you book, especially for Yi Peng/Loy Krathong, and use established public celebration areas rather than assuming lantern or floating-ritual activity is appropriate everywhere.",
+      "insights": [
+        "Festival periods can be memorable, but they also require earlier hotel booking and more tolerance for crowds and traffic.",
+        "Yi Peng and burning season sit in very different parts of the calendar, so do not bundle all 'Chiang Mai seasonal' advice together."
+      ],
+      "href": "/city/chiang-mai/best-time-to-visit/",
+      "cta_label": "See Chiang Mai timing and festivals"
     }
   ],
   "foodie_adventures": [
     {
       "dish": "Khao Soi",
-      "location": "Khao Soi Khun Yai",
-      "story": "This local eatery serves the best khao soi I've ever had. The rich, creamy broth paired with crispy noodles was a revelation, and the owner shared her family's history with the dish.",
-      "price_range": "Around 50 baht per bowl.",
+      "location": "Khao Soi Mae Sai",
+      "story": "Khao soi is still Chiang Mai's signature dish and the one food stop that most travelers should treat as non-negotiable. The point is not just the name; it is the contrast between rich coconut curry broth, egg noodles, pickled mustard greens, shallots, lime, and the crispy noodle topping.",
+      "where_to_find": "Use Khao Soi Mae Sai as a benchmark bowl, but also remember that khao soi is widely available across the city in both old-school local shops and more polished restaurant settings.",
+      "price_range": "Usually budget to low mid-range",
       "ordering_tips": [
-        "Ask for extra lime and pickled mustard greens to elevate the flavors."
-      ]
+        "Taste the broth before adding extra lime or condiments so you understand the shop's own balance first.",
+        "If you have room, compare one famous khao soi stop with a second neighborhood version later in the trip."
+      ],
+      "href": "/city/chiang-mai/food/",
+      "cta_label": "See the Chiang Mai food guide"
     },
     {
-      "dish": "Sai Oua (Northern Thai sausage)",
-      "location": "Khao Soi Nimman",
-      "story": "I was introduced to this spicy sausage during a food tour. The burst of flavors from lemongrass and herbs made it unforgettable.",
-      "price_range": "About 80 baht for a serving.",
+      "dish": "Sai Ua (Northern Thai sausage)",
+      "location": "Warorot Market and Northern Thai restaurants",
+      "story": "Sai ua is one of the clearest ways to taste Northern Thai flavor identity beyond curry noodles. Lemongrass, kaffir lime leaf, and spice make it feel very different from generic grilled sausage, especially when eaten with sticky rice or as part of a wider northern-style table.",
+      "where_to_find": "Look for it at Warorot Market, food stalls, and Northern Thai restaurants such as Huen Muan Jai.",
+      "price_range": "Budget snack to casual restaurant side dish",
       "ordering_tips": [
-        "Pair it with sticky rice for a traditional experience."
-      ]
+        "Pair it with sticky rice or other northern-style dishes rather than treating it like a standalone quick bite.",
+        "Freshly grilled versions usually show the herbs better than pre-cut market packs."
+      ],
+      "href": "/city/chiang-mai/food/",
+      "cta_label": "See the Chiang Mai food guide"
+    },
+    {
+      "dish": "Nam Prik Noom with Cap Moo",
+      "location": "Huen Muan Jai and market-style northern sets",
+      "story": "This is one of the best dishes for understanding that Chiang Mai food is broader than khao soi. The grilled green-chili dip, pork crackling, vegetables, and sticky rice create a much more local-feeling northern table than the average tourist meal.",
+      "where_to_find": "Order it at a proper Northern Thai restaurant rather than assuming every general Thai menu will do it well.",
+      "price_range": "Casual restaurant pricing",
+      "ordering_tips": [
+        "It works best when ordered as part of a shared northern set rather than as a solo dish.",
+        "If you want to go beyond safe default dishes, this is one of the most useful Chiang Mai-specific choices."
+      ],
+      "href": "/city/chiang-mai/food/",
+      "cta_label": "See the Chiang Mai food guide"
+    },
+    {
+      "dish": "Kanom Jeen Nam Ngiao",
+      "location": "Warorot Market and local breakfast-lunch spots",
+      "story": "Kanom jeen nam ngiao is another strong northern staple if you want something more local and less internationally familiar than pad thai or green curry. It is one of the dishes that makes breakfast and lunch in Chiang Mai feel regionally specific.",
+      "where_to_find": "Look around Warorot Market or local daytime eateries rather than nightlife-focused food zones.",
+      "price_range": "Budget-friendly local meal",
+      "ordering_tips": [
+        "This is a good dish to try earlier in the day when more market-style food spots are active.",
+        "If you are building a Northern Thai meal, combine it with sai ua or local snacks instead of ordering standard central Thai dishes alongside it."
+      ],
+      "href": "/city/chiang-mai/food/",
+      "cta_label": "See the Chiang Mai food guide"
     }
   ],
   "local_insights": [
     {
-      "observation": "The importance of the Wai (a traditional greeting) surprised me; it signifies respect and humility.",
-      "tip": "Always return the Wai to show appreciation.",
-      "surprise": "I learned that the depth of a person's Wai reflects their social status or age."
+      "observation": "Chiang Mai feels compact in the Old City, but that does not mean the whole destination is easily walkable.",
+      "tip": "Use walking for the moat area, then switch to Grab or songthaew for Nimman, riverside, or foothill stops.",
+      "surprise": "Many first-time visitors overestimate how easily they can combine the Old City, Nimman, Doi Suthep side, and market areas on foot in one day."
     },
     {
-      "observation": "The community spirit during festivals is palpable; everyone comes together to celebrate.",
-      "tip": "Join in the local festivities, even if you're a foreigner; you'll be welcomed.",
-      "surprise": "Participating in a local festival made me feel like part of the family."
+      "observation": "The biggest practical planning factor in Chiang Mai is not nightlife or traffic; it is seasonality.",
+      "tip": "Check weather and air quality before shaping your trip, especially for late-February to April dates.",
+      "surprise": "A Chiang Mai trip can feel completely different in cool season versus burning season, even if your hotel and sightseeing list stay the same."
+    },
+    {
+      "observation": "Nimman and the Old City serve different versions of Chiang Mai rather than competing for the same role.",
+      "tip": "Use the Old City for temple-heavy mornings and Nimman for cafes, dinner, and a more contemporary city feel.",
+      "surprise": "Travelers who stay only in one zone often leave with a narrower impression of Chiang Mai than the city actually deserves."
+    },
+    {
+      "observation": "Chiang Mai markets vary more by timing than by headline reputation.",
+      "tip": "Think in terms of Sunday night, Saturday night, daytime markets, and design markets rather than assuming one 'best market' covers everything.",
+      "surprise": "A weekend market can feel crowded and tourist-facing, while a daytime market or craft village may reveal much more local rhythm."
+    },
+    {
+      "observation": "Scooter culture is visible everywhere in Chiang Mai, but it is not a requirement for enjoying the city.",
+      "tip": "If you are not already a confident rider, use Grab, songthaews, or day tours for mountain routes instead of treating scooter rental as mandatory.",
+      "surprise": "A lot of Chiang Mai travel content makes scooters sound normal for everyone, even though many visitors have a better trip without them."
     }
   ],
   "seasonal_secrets": {
     "best_times": {
-      "November": "The weather is perfect for outdoor activities and festivals like Yi Peng.",
-      "April": "The Songkran festival brings vibrant water fights and a chance to cool off in the heat."
+      "November": "Cooler, drier weather makes temple walks, cafe-hopping, and mountain viewpoints much easier.",
+      "April": "Songkran changes the city atmosphere completely, but heat is high and travel rhythm is different from normal sightseeing days."
     },
     "local_festivals": [
-      "Yi Peng Lantern Festival - November",
-      "Songkran Water Festival - April 13-15"
+      "Yi Peng / Loy Krathong - usually November",
+      "Songkran - April 13-15"
     ],
     "seasonal_foods": {
-      "winter": "Enjoy hot soups and stews, like tom yum, during the cooler months."
+      "cool_season": "Cooler weather suits morning market breakfasts and longer outdoor food walks far better than the hottest months."
     },
     "insider_tips": {
-      "November": "Book accommodations early for Yi Peng; it gets busy!"
+      "cool_season": "Book early if your trip overlaps with major festival periods, especially around Yi Peng."
     }
   },
   "budget_reality": {
     "daily_costs": {
-      "breakfast": "40 baht for a local stall's fried rice.",
-      "lunch": "60 baht for a khao soi at a street vendor.",
-      "dinner": "150 baht for a meal at a small restaurant."
+      "breakfast": "40-80 THB for a simple local breakfast or market snack.",
+      "lunch": "60-120 THB for a casual local meal such as khao soi or noodles.",
+      "dinner": "120-300 THB for a casual sit-down dinner, more for destination restaurants."
     },
     "money_saving_tricks": [
-      "Eat at local markets where meals can be as low as 30 baht.",
-      "Use public transport like songthaews instead of taxis."
+      "Use songthaews or Grab instead of defaulting to scooter rental if you only need a few rides a day.",
+      "Eat northern dishes at daytime markets and casual local restaurants rather than only in polished tourist zones."
     ],
     "where_to_splurge": [
-      "Treat yourself to a traditional Thai massage; it's worth the 300 baht."
+      "A slower boutique hotel stay or one strong northern tasting dinner usually adds more value than spending on generic luxury."
     ],
     "hidden_costs": [
-      "Be aware of potential entrance fees at temples that might not be clearly advertised."
+      "Day trips around Chiang Mai often look cheap until transport, guide, and park or program fees are added together.",
+      "Burning season can quietly add costs if you start relying more on indoor transport or air-quality coping purchases."
     ]
   },
   "top_attractions": [
     {
       "rank": 1,
       "name": "Doi Suthep Temple",
-      "description": "Thailand's most iconic temple perched at 1,080 meters elevation with a stunning golden chedi offering panoramic city views and spiritual significance.",
-      "location": "Northwest of Old City, accessible by songthaew or motorcycle",
-      "entrance_fee": "THB 50 (USD 1)",
+      "description": "Chiang Mai's defining hilltop temple and the city's clearest first major sight, best known for its golden chedi, naga staircase, and mountain views back over the urban basin.",
+      "location": "Doi Suthep-Pui side of the city",
+      "entrance_fee": "50 THB for foreign visitors",
       "highlights": [
         "Golden chedi",
-        "Panoramic city views",
-        "Monk interactions available"
-      ]
+        "Mountain setting",
+        "Panoramic city views"
+      ],
+      "href": "/city/chiang-mai/attractions/doi-suthep/",
+      "cta_label": "Read the Doi Suthep guide"
     },
     {
       "rank": 2,
-      "name": "Wat Chedi Luang",
-      "description": "Historic temple in the Old City featuring a massive ancient chedi and monk chat opportunities where visitors can have conversations with Buddhist monks.",
-      "location": "Old City center",
-      "entrance_fee": "THB 40 (USD 1)",
+      "name": "Chiang Mai Old City",
+      "description": "The moat-ringed historic core remains Chiang Mai's most useful orientation point, bringing together temple density, slower walking routes, and the strongest first-time cultural context.",
+      "location": "Historic center inside the moat",
+      "entrance_fee": "Free to explore",
       "highlights": [
-        "Ancient chedi",
-        "Monk chat program",
-        "Free to explore grounds"
-      ]
+        "Temple density",
+        "Walkable historic streets",
+        "Moat and old walls"
+      ],
+      "href": "/city/chiang-mai/attractions/old-city-chiang-mai/",
+      "cta_label": "Read the Old City guide"
     },
     {
       "rank": 3,
-      "name": "Wat Phra Singh",
-      "description": "Sacred temple renowned for its precious Buddha image and excellent examples of traditional Lanna architecture.",
-      "location": "Old City",
-      "entrance_fee": "THB 20 (USD 0.50)",
+      "name": "Wat Chedi Luang",
+      "description": "One of Chiang Mai's most important old-city temples, valued for its ruined chedi, historical weight, and role in understanding the city's Lanna-era heritage.",
+      "location": "Old City center",
+      "entrance_fee": "Check current temple admission before visiting",
       "highlights": [
-        "Sacred Buddha image",
-        "Lanna architecture",
-        "Peaceful atmosphere"
-      ]
+        "Ruined chedi",
+        "Major old-city temple",
+        "Good paired stop with nearby temples"
+      ],
+      "href": "/city/chiang-mai/attractions/wat-chedi-luang/",
+      "cta_label": "Read the Wat Chedi Luang guide"
     },
     {
       "rank": 4,
-      "name": "Sunday Night Market (Walking Street)",
-      "description": "Chiang Mai's most famous night market featuring local handicrafts, textiles, souvenirs, and authentic street food with free entry.",
-      "location": "Nimmanhaemin Road, Old City",
-      "entrance_fee": "Free",
+      "name": "Wat Phra Singh",
+      "description": "A major Chiang Mai temple with strong Lanna architecture and one of the clearest temple stops for travelers exploring the western side of the Old City.",
+      "location": "Western Old City",
+      "entrance_fee": "Grounds are easy to visit; some halls may have separate admission or donation",
       "highlights": [
-        "Local handicrafts",
-        "Street food vendors",
-        "Weekly cultural experience"
-      ]
+        "Lanna architecture",
+        "Important Buddha image",
+        "Easy old-city stop"
+      ],
+      "href": "/city/chiang-mai/attractions/wat-phra-singh/",
+      "cta_label": "Read the Wat Phra Singh guide"
     },
     {
       "rank": 5,
       "name": "Doi Inthanon National Park",
-      "description": "Thailand's highest peak featuring twin pagodas, scenic waterfalls, and hiking trails with diverse wildlife and flora.",
-      "location": "South of Chiang Mai, 50km away",
-      "entrance_fee": "THB 300 (USD 9)",
+      "description": "Thailand's highest national-park peak is one of Chiang Mai's strongest day trips, especially for cooler weather, waterfalls, twin pagodas, and mountain scenery rather than urban sightseeing.",
+      "location": "Southwest of Chiang Mai, full day trip territory",
+      "entrance_fee": "Foreign adult park entry starts from 300 THB; vehicle fees are extra",
       "highlights": [
-        "Highest peak in Thailand",
+        "Thailand's highest peak",
         "Twin pagodas",
-        "Waterfall trails"
-      ]
+        "Waterfalls and mountain viewpoints"
+      ],
+      "href": "/city/chiang-mai/attractions/doi-inthanon/",
+      "cta_label": "Read the Doi Inthanon guide"
     },
     {
       "rank": 6,
       "name": "Elephant Nature Park",
-      "description": "Ethical wildlife sanctuary focused on rescued elephant rehabilitation and conservation education rather than animal exploitation.",
-      "location": "Outside city center, 1 hour drive",
-      "entrance_fee": "THB 2,500 (USD 74)",
+      "description": "One of Chiang Mai's best-known ethical elephant experiences, focused on rescue, rehabilitation, and education rather than riding or entertainment-heavy interaction.",
+      "location": "Outside the city; typically visited as a planned program day",
+      "entrance_fee": "Program prices vary by visit type; check the official site before booking",
       "highlights": [
-        "Rescued elephants",
-        "Conservation education",
-        "Meals and guides included"
-      ]
+        "Rescue-focused model",
+        "Educational context",
+        "Better planned in advance"
+      ],
+      "href": "/city/chiang-mai/attractions/elephant-nature-park/",
+      "cta_label": "Read the Elephant Nature Park guide"
     },
     {
       "rank": 7,
-      "name": "Bua Thong Sticky Waterfalls",
-      "description": "Unique natural phenomenon where visitors can climb naturally adhesive limestone waterfall formations without slipping.",
-      "location": "Northern Chiang Mai, 90km away",
-      "entrance_fee": "THB 200 (USD 6)",
+      "name": "Sunday Night Market",
+      "description": "Still Chiang Mai's signature weekend market experience, best for browsing crafts, snacks, and the city at its most visibly visitor-facing and energetic.",
+      "location": "Ratchadamnoen Road and Old City spine",
+      "entrance_fee": "Free",
       "highlights": [
-        "Unique sticky limestone",
-        "Climbable waterfalls",
-        "Natural phenomenon"
-      ]
+        "Major walking street market",
+        "Crafts and snacks",
+        "Best treated as an evening block, not a quick stop"
+      ],
+      "href": "/city/chiang-mai/attractions/sunday-night-market/",
+      "cta_label": "Read the Sunday market guide"
     },
     {
       "rank": 8,
-      "name": "Saturday Night Market",
-      "description": "More local and less touristy alternative to Sunday Night Market, featuring silver handicrafts and traditional Lanna crafts.",
-      "location": "Old City periphery",
-      "entrance_fee": "Free",
+      "name": "Bua Thong Sticky Waterfalls",
+      "description": "A distinctive Chiang Mai nature outing known for the grippy limestone surface that makes climbing the waterfall itself part of the experience.",
+      "location": "North of Chiang Mai, usually done as a half-day or day trip",
+      "entrance_fee": "Site access is usually low-cost; transport is the bigger planning factor",
       "highlights": [
-        "Silver handicrafts",
-        "Local artisans",
-        "Authentic atmosphere"
-      ]
+        "Climbable limestone waterfall",
+        "Outdoor half-day trip",
+        "Stronger in good weather"
+      ],
+      "href": "/city/chiang-mai/attractions/bua-thong-waterfalls/",
+      "cta_label": "Read the Sticky Waterfalls guide"
     }
   ],
   "top_restaurants": [
     {
       "rank": 1,
-      "name": "Khao-so-i",
-      "description": "Legendary local eatery specializing in khao soi, Chiang Mai's iconic curry noodle dish with rich broth and crispy noodles, offering authentic recipes passed through generations.",
-      "cuisine_type": "Thai - Street Food",
-      "price_range": "THB 40-50 per bowl (USD 1-1.50)",
+      "name": "Khao Soi Mae Sai",
+      "description": "One of Chiang Mai's benchmark khao soi stops and still one of the easiest places to send visitors who want to anchor the trip around a properly local version of the city's signature noodle dish.",
+      "cuisine_type": "Northern Thai, casual local",
+      "price_range": "Budget",
+      "location": "Chang Phueak area",
       "highlights": [
-        "Local favorite",
-        "Authentic recipe",
-        "Affordable"
-      ]
+        "Strong benchmark for khao soi",
+        "Casual local setting",
+        "Best treated as a targeted dish stop"
+      ],
+      "href": "/city/chiang-mai/top-10-restaurants/",
+      "cta_label": "See the Chiang Mai restaurant guide"
     },
     {
       "rank": 2,
-      "name": "Bodhi Terrace",
-      "description": "Highly-rated Thai restaurant offering authentic Northern Thai cuisine with traditional preparation methods and quality ingredients.",
-      "cuisine_type": "Thai",
-      "price_range": "THB 150-300 per dish (USD 4-9)",
+      "name": "Kiti Panit",
+      "description": "Kiti Panit is one of Chiang Mai's most defensible destination restaurant picks if you want northern and Thai dishes in a restored heritage house rather than a purely casual market-style meal.",
+      "cuisine_type": "Thai, Northern Thai, heritage dining",
+      "price_range": "Mid-range to upscale",
+      "location": "Near Tha Phae and the old city edge",
       "highlights": [
-        "TripAdvisor rating 4.9",
-        "Authentic Northern cuisine",
-        "Atmospheric setting"
-      ]
+        "Restored heritage building",
+        "Good special-dinner option",
+        "More polished than a street-food stop"
+      ],
+      "href": "/city/chiang-mai/top-10-restaurants/",
+      "cta_label": "See the Chiang Mai restaurant guide"
     },
     {
       "rank": 3,
-      "name": "Baan Mae Café & Restaurant",
-      "description": "Well-regarded establishment serving traditional Thai cuisine with homemade quality and local charm in an intimate setting.",
-      "cuisine_type": "Thai",
-      "price_range": "THB 100-250 per dish (USD 3-7)",
+      "name": "Huen Muan Jai",
+      "description": "A strong restaurant pick when you want a broader Northern Thai table rather than only a single signature dish. It works well for visitors trying to move past the default tourist short list of pad thai and curry.",
+      "cuisine_type": "Northern Thai",
+      "price_range": "Casual to mid-range",
+      "location": "Nimman / western city side",
       "highlights": [
-        "TripAdvisor rating 4.9",
-        "Homemade quality",
-        "Local favorite"
-      ]
+        "Northern Thai menu breadth",
+        "Good for shared dishes",
+        "Useful if you want more than khao soi"
+      ],
+      "href": "/city/chiang-mai/top-10-restaurants/",
+      "cta_label": "See the Chiang Mai restaurant guide"
     },
     {
       "rank": 4,
-      "name": "Lemongrass Thai Cuisine",
-      "description": "Casual Thai restaurant serving classic dishes with fresh lemongrass and authentic flavors in a relaxed atmosphere.",
-      "cuisine_type": "Thai",
-      "price_range": "THB 80-200 per dish (USD 2-6)",
+      "name": "Rasik Local Kitchen",
+      "description": "Rasik Local Kitchen belongs on a serious Chiang Mai list because it pushes local ingredients and regional identity in a more modern dining format without feeling generic or detached from place.",
+      "cuisine_type": "Contemporary Thai",
+      "price_range": "Mid-range to upscale",
+      "location": "Chang Khlan area",
       "highlights": [
-        "TripAdvisor rating 4.3",
-        "Fresh ingredients",
-        "Casual ambiance"
-      ]
+        "Modern local-ingredient cooking",
+        "Stronger dinner pick than casual lunch stop",
+        "Good fit for travelers who want something more curated"
+      ],
+      "href": "/city/chiang-mai/top-10-restaurants/",
+      "cta_label": "See the Chiang Mai restaurant guide"
     },
     {
       "rank": 5,
-      "name": "Baan Buri Café & Restaurant",
-      "description": "Health-conscious restaurant offering nutritious Thai cuisine with fresh ingredients, ideal for travelers seeking lighter meals.",
-      "cuisine_type": "Healthy - Asian",
-      "price_range": "THB 120-280 per dish (USD 3.50-8)",
+      "name": "Saiyut and Doctor Sai Kitchen",
+      "description": "This is a smart Chiang Mai restaurant choice if you want a classic-feeling meal with more historical depth than a generic visitor-facing Thai menu. It is especially useful for travelers who care about older-style dishes and a more distinctly local sense of place.",
+      "cuisine_type": "Thai, heritage-style",
+      "price_range": "Mid-range",
+      "location": "Northern Chiang Mai side",
       "highlights": [
-        "TripAdvisor rating 4.8",
-        "Healthy options",
-        "Fresh ingredients"
-      ]
-    },
-    {
-      "rank": 6,
-      "name": "Rasik Local Kitchen",
-      "description": "Celebrated establishment focusing on authentic Northern Thai cuisine with locally-sourced ingredients, representing modern Thai cooking while honoring traditional methods.",
-      "cuisine_type": "Thai",
-      "price_range": "THB 180-350 per dish (USD 5-10)",
-      "highlights": [
-        "Locally-sourced ingredients",
-        "Modern-traditional fusion",
-        "Celebrated establishment"
-      ]
+        "Long-running reputation",
+        "Good for classic dishes",
+        "More destination-like than a random walk-in"
+      ],
+      "href": "/city/chiang-mai/top-10-restaurants/",
+      "cta_label": "See the Chiang Mai restaurant guide"
     }
   ],
   "top_hotels": [
     {
       "rank": 1,
-      "name": "AMANOR Hotel Chiang Mai",
-      "description": "Highly-rated boutique hotel offering comfortable accommodation with excellent service and convenient location for exploring the city.",
-      "price_range": "$106/night",
-      "category": "midrange",
+      "name": "Tamarind Village",
+      "description": "Tamarind Village is one of Chiang Mai's clearest first-time visitor picks if you want an atmospheric Old City stay that still feels polished and easy to use as a sightseeing base.",
+      "price_range": "Upscale boutique hotel",
+      "category": "upscale",
+      "area": "Old City",
       "highlights": [
-        "TripAdvisor 4.9 rating",
-        "Central location",
-        "Modern amenities"
-      ]
+        "Strong old-city location",
+        "Boutique atmosphere",
+        "Easy temple-and-market base"
+      ],
+      "href": "/city/chiang-mai/top-10-hotels/",
+      "cta_label": "See the Chiang Mai hotel guide"
     },
     {
       "rank": 2,
-      "name": "Cross Chiang Mai Riverside Resort",
-      "description": "Riverside resort combining scenic location with comfortable accommodations and peaceful garden setting ideal for relaxation.",
-      "price_range": "$135/night",
-      "category": "midrange",
+      "name": "137 Pillars House",
+      "description": "A strong luxury option if heritage atmosphere and a quieter riverside-adjacent setting matter more to you than being inside the busiest tourist core.",
+      "price_range": "Luxury boutique hotel",
+      "category": "luxury",
+      "area": "Ping River side",
       "highlights": [
-        "TripAdvisor 4.9 rating",
-        "Riverside views",
-        "Resort facilities"
-      ]
+        "Heritage-style luxury",
+        "Calmer setting",
+        "Better for slower stays than pure location efficiency"
+      ],
+      "href": "/city/chiang-mai/top-10-hotels/",
+      "cta_label": "See the Chiang Mai hotel guide"
     },
     {
       "rank": 3,
-      "name": "Amata Lanna Village",
-      "description": "Budget-friendly resort featuring traditional Lanna-style accommodation in a charming village setting with authentic local atmosphere.",
-      "price_range": "$67/night",
-      "category": "budget",
+      "name": "Raya Heritage",
+      "description": "Raya Heritage is one of the most distinctive design-led Chiang Mai stays, best for travelers who want a retreat-style riverside hotel rather than a plug-and-play city-center base.",
+      "price_range": "Luxury retreat",
+      "category": "luxury",
+      "area": "Riverside outside the center",
       "highlights": [
-        "TripAdvisor 4.9 rating",
-        "Traditional architecture",
-        "Affordable rates"
-      ]
+        "Design-forward riverside atmosphere",
+        "Retreat feel",
+        "Best for slower, hotel-forward trips"
+      ],
+      "href": "/city/chiang-mai/top-10-hotels/",
+      "cta_label": "See the Chiang Mai hotel guide"
     },
     {
       "rank": 4,
-      "name": "Anantara Chiang Mai Resort",
-      "description": "Luxury 5-star resort offering premium accommodations, spa services, and fine dining with sophisticated design blending contemporary luxury and local culture.",
-      "price_range": "$390/night",
-      "category": "luxury",
+      "name": "Aleenta Retreat Chiang Mai",
+      "description": "A useful pick if you want a wellness-oriented Chiang Mai stay with more resort character than a normal city hotel, while still staying connected to the urban side of the trip.",
+      "price_range": "Upscale wellness stay",
+      "category": "upscale",
+      "area": "Suthep side",
       "highlights": [
-        "TripAdvisor 4.7 rating",
-        "Spa services",
-        "Fine dining"
-      ]
+        "Wellness angle",
+        "More resort-style than standard city hotels",
+        "Good fit for calmer stays"
+      ],
+      "href": "/city/chiang-mai/top-10-hotels/",
+      "cta_label": "See the Chiang Mai hotel guide"
     },
     {
       "rank": 5,
-      "name": "Anantara Chiang Mai Serviced Suites",
-      "description": "Upscale serviced suites offering spacious accommodations with hotel services and modern amenities for extended stays or premium comfort.",
-      "price_range": "$809/night",
+      "name": "InterContinental Chiang Mai The Mae Ping",
+      "description": "A practical large-hotel option if you want a full-service stay near the night bazaar side of town with recognizable international-hotel comfort.",
+      "price_range": "Luxury full-service hotel",
       "category": "luxury",
+      "area": "Chang Khlan / Night Bazaar side",
       "highlights": [
-        "TripAdvisor 4.8 rating",
-        "Spacious suites",
-        "Full-service amenities"
-      ]
+        "Full-service city hotel",
+        "Good for visitors who want a familiar luxury format",
+        "Useful base for market and central-city access"
+      ],
+      "href": "/city/chiang-mai/top-10-hotels/",
+      "cta_label": "See the Chiang Mai hotel guide"
     }
   ],
   "travel_tips": [
-    "Always return the Wai to show appreciation.",
-    "Join in the local festivities, even if you're a foreigner; you'll be welcomed."
+    "Do temple-heavy and old-city walks in the morning, then shift to cafes, museums, or hotel downtime in the hotter middle of the day.",
+    "Treat burning season as a real planning factor, especially for trips from late February through April.",
+    "Do not assume scooter rental is the default smart move; many visitors are better off with Grab, songthaews, and organized day trips.",
+    "Book Doi Inthanon, elephant sanctuary, and festival-period plans earlier in the cool season, because the best dates fill first.",
+    "If you only have a short stay, pick two zones per day at most instead of forcing Old City, Nimman, markets, and mountain stops into one rushed route."
   ],
   "best_time_to_visit": {
     "season": "Cool Season",
     "months": "November - February",
-    "weather": "Pleasant conditions",
-    "reasons": "Ideal weather for activities"
+    "weather": "Cooler and drier conditions",
+    "reasons": "Best for temple walks, market evenings, and mountain day trips"
   },
   "budget_info": {
-    "budget": "$30-50 per day",
-    "mid_range": "$50-100 per day",
-    "luxury": "$100+ per day",
-    "notes": "Budget includes accommodation, food, transportation, and activities"
+    "budget": "$25-45 per day",
+    "mid_range": "$60-130 per day",
+    "luxury": "$180+ per day",
+    "notes": "Daily spend depends heavily on hotel style, mountain trips, and elephant or cooking-class bookings."
   },
-  "enhanced_at": "2025-05-26T19:52:34.457Z",
-  "overview": "Chiang Mai is Northern Thailand's cultural heart, a city where ancient traditions seamlessly blend with modern travel experiences. With a population of around 127,000, this charming destination offers an intimate escape compared to Bangkok, centered around its historic Old City with preserved ancient walls and over 300 temples. From the golden Doi Suthep Temple perched on a mountain overlooking the city to the vibrant night markets that pulse with local energy, Chiang Mai provides travelers with authentic encounters with Lanna culture, exquisite craftsmanship, and some of Southeast Asia's most welcoming communities. The city's proximity to mountains, waterfalls, and elephant sanctuaries makes it an ideal base for adventure seekers, while its thriving art scene, meditation retreats, and cooking classes attract those seeking deeper cultural immersion.",
-  "thingsToDo": "Chiang Mai's top attractions blend spirituality, history, and natural beauty. The iconic Doi Suthep Temple (THB 50/USD 1 entrance fee) sits majestically at 1,080 meters elevation and rewards visitors with panoramic city views and its stunning golden chedi. The Old City, free to explore, features ancient walls, historic temples, and traditional markets that transport visitors back centuries. For sacred experiences, visit Wat Chedi Luang (THB 40/USD 1) with its massive ancient chedi and monk chat opportunities, or Wat Phra Singh (THB 20/USD 0.50) renowned for its sacred Buddha image and Lanna architecture. The Sunday Night Market and Saturday Night Market offer free entry to massive walking streets filled with local handicrafts, textiles, and street food. For nature lovers, Doi Inthanon National Park (THB 300/USD 9) features Thailand's highest peak with twin pagodas and scenic waterfalls, while the unique Bua Thong Sticky Waterfalls (THB 200/USD 6) let visitors climb naturally adhesive limestone formations. Ethical wildlife experiences include the Elephant Nature Park (THB 2,500/USD 74), a renowned sanctuary that rescues and rehabilitates elephants with a focus on conservation education.",
-  "whereToStay": "Chiang Mai offers excellent accommodation across all budgets, with the Old City and Nimman areas being the most popular neighborhoods for tourists. Budget travelers can find guesthouses for USD 15-25 per night in the Old City, offering authentic experiences while being steps away from temples and markets. Mid-range options in Nimman and around the Old City provide comfortable 3-star hotels with amenities like pools and restaurants for USD 40-80 per night, often featuring traditional Lanna design elements. Luxury resorts cluster around the Doi Suthep foothills and Riverside areas, offering 5-star experiences with spa facilities, fine dining, and mountain views for USD 150-300+ per night. The Nimman area, while more developed, caters to younger travelers and digital nomads with trendy cafes and modern accommodations. Riverside locations offer romantic settings along the Ping River, though prices tend to be higher. For those seeking authentic cultural immersion, traditional wooden houses converted into boutique hotels provide unique stays bridging budget and luxury categories.",
+  "enhanced_at": "2026-03-25T00:00:00.000Z",
+  "reviewed_by": "Go2Thailand Editorial Team",
+  "overview": "Chiang Mai is one of Thailand's most balanced city breaks, combining Lanna temple culture, strong Northern Thai food, design-and-cafe districts, and easy access to mountain scenery. Its historic core feels compact and manageable on foot, even though the broader Chiang Mai urban area is much larger than the moat alone suggests. It is not just a smaller Bangkok alternative. The city works on its own terms: the Old City for heritage and temples, Nimman and the Suthep side for cafes and newer urban energy, and the Ping River side for slower boutique-hotel atmosphere.\n\nIt is also one of the easiest places in Thailand to mix classic sightseeing with more experiential travel. A short Chiang Mai trip can realistically include temple mornings, a cooking class, one carefully chosen elephant sanctuary visit, and at least one market or mountain day without feeling overbuilt. That flexibility is one of the city's biggest strengths.",
+  "thingsToDo": "Start with Chiang Mai's core temple-and-old-city logic rather than trying to scatter famous names across separate days. Doi Suthep still matters because it gives you the symbolic hilltop temple experience and a wider sense of the landscape around the city, while the Old City provides the most useful base for understanding Chiang Mai on foot. Within the moat, Wat Chedi Luang and Wat Phra Singh are the clearest major temple stops, but the real value comes from slowing down and letting multiple temple visits add up into a stronger sense of place.\n\nMarkets also matter here, but they are not all interchangeable. Sunday Night Market is the city's biggest visitor-facing walking street and works best when treated as a real evening block rather than a quick detour. Saturday Night Market is more compact, while daytime options such as Warorot Market or Jing Jai Market show a different side of Chiang Mai altogether. If you only do one night market, Sunday usually has the biggest payoff, but it should not be your only market experience if food and local rhythm matter to you.\n\nFor day trips and nature, Doi Inthanon and the broader mountain side of Chiang Mai are what make the city feel bigger than its urban core. Bua Thong Sticky Waterfalls is a good half-day contrast to temple sightseeing, and an ethical elephant sanctuary visit can be meaningful if you choose the operator carefully. The point is not to treat every nature trip as mandatory, but to recognize that Chiang Mai becomes a stronger destination once you mix city culture with one well-chosen outdoor day.",
+  "whereToStay": "Most first-time visitors should choose between the Old City, Nimman, and the river-or-Chang Khlan side depending on trip style. The Old City works best if you care about walkable temple mornings, historic atmosphere, and easy access to the Sunday market. Nimman is stronger for travelers who want cafes, newer hotels, and a more modern urban feel, especially if they do not need to be inside the moat at all times.\n\nThe Ping River side and parts of Chang Khlan make more sense if you want a calmer boutique-hotel stay or a larger full-service hotel without being fully detached from the city's main visitor zones. If you are planning a more hotel-forward or romantic trip, riverside Chiang Mai usually feels stronger than a purely practical old-city base. If you want convenience for short temple-heavy sightseeing, the Old City still wins.",
   "whereToEat": [
     {
-      "name": "Khao-so-i",
-      "cuisine": "Thai - Street Food",
+      "name": "Khao Soi Mae Sai",
+      "cuisine": "Northern Thai",
       "priceRange": "$",
-      "description": "Legendary local establishment serving Chiang Mai's iconic khao soi noodle dish with authentic recipe and affordable pricing, ideal for budget travelers."
+      "description": "A benchmark khao soi stop that makes sense if you want to anchor the trip around Chiang Mai's signature noodle dish rather than a generic Thai menu."
     },
     {
-      "name": "Bodhi Terrace",
-      "cuisine": "Thai",
-      "priceRange": "$$",
-      "description": "Highly-rated authentic Northern Thai restaurant with 4.9 TripAdvisor rating, offering traditional dishes in an atmospheric setting."
+      "name": "Kiti Panit",
+      "cuisine": "Thai, Northern Thai",
+      "priceRange": "$$$",
+      "description": "A strong destination dinner choice in a restored heritage house, best for visitors who want atmosphere and a more curated northern-Thai meal."
     },
     {
-      "name": "Baan Mae Café & Restaurant",
-      "cuisine": "Thai",
+      "name": "Huen Muan Jai",
+      "cuisine": "Northern Thai",
       "priceRange": "$$",
-      "description": "Well-regarded local favorite with 4.9 TripAdvisor rating serving homemade-quality Thai cuisine in intimate, welcoming atmosphere."
-    },
-    {
-      "name": "Lemongrass Thai Cuisine",
-      "cuisine": "Thai",
-      "priceRange": "$$",
-      "description": "Casual Thai restaurant with 4.3 TripAdvisor rating offering classic dishes with fresh lemongrass and authentic flavors."
-    },
-    {
-      "name": "Baan Buri Café & Restaurant",
-      "cuisine": "Healthy - Asian",
-      "priceRange": "$$",
-      "description": "Health-conscious establishment with 4.8 TripAdvisor rating specializing in nutritious Thai cuisine with fresh, locally-sourced ingredients."
+      "description": "One of the better restaurant picks for trying a broader Northern Thai table rather than only focusing on khao soi."
     },
     {
       "name": "Rasik Local Kitchen",
-      "cuisine": "Thai",
+      "cuisine": "Contemporary Thai",
+      "priceRange": "$$$",
+      "description": "A modern Chiang Mai dinner option that still feels grounded in local ingredients and place rather than interchangeable fine dining."
+    },
+    {
+      "name": "Saiyut and Doctor Sai Kitchen",
+      "cuisine": "Thai, heritage-style",
       "priceRange": "$$",
-      "description": "Celebrated modern Thai restaurant honoring traditional methods while using locally-sourced ingredients for authentic Northern Thai specialties."
+      "description": "A useful pick for travelers who want classic dishes with historical depth rather than a standard tourist-restaurant lineup."
     }
   ],
   "topHotels": [
     {
-      "name": "AMANOR Hotel Chiang Mai",
-      "category": "midrange",
-      "priceRange": "$106/night",
-      "area": "Central Chiang Mai",
-      "description": "Modern boutique hotel with 4.9 TripAdvisor rating offering comfortable rooms, excellent service, and convenient location for city exploration."
+      "name": "Tamarind Village",
+      "category": "upscale",
+      "priceRange": "Upscale boutique hotel",
+      "area": "Old City",
+      "description": "A dependable first-time Chiang Mai base if you want old-city atmosphere without giving up hotel polish."
     },
     {
-      "name": "Cross Chiang Mai Riverside Resort",
-      "category": "midrange",
-      "priceRange": "$135/night",
-      "area": "Riverside",
-      "description": "Scenic riverside resort with 4.9 TripAdvisor rating featuring peaceful garden setting, quality accommodations, and relaxing atmosphere."
-    },
-    {
-      "name": "Amata Lanna Village",
-      "category": "budget",
-      "priceRange": "$67/night",
-      "area": "Outer City",
-      "description": "Affordable resort with 4.9 TripAdvisor rating showcasing traditional Lanna-style buildings, cultural authenticity, and charming village ambiance."
-    },
-    {
-      "name": "Anantara Chiang Mai Resort",
+      "name": "137 Pillars House",
       "category": "luxury",
-      "priceRange": "$390/night",
-      "area": "Premium Location",
-      "description": "5-star luxury resort with 4.7 TripAdvisor rating featuring spa facilities, multiple restaurants, sophisticated design, and cultural integration."
+      "priceRange": "Luxury boutique hotel",
+      "area": "Ping River side",
+      "description": "A stronger fit if you want a heritage-style luxury stay with a quieter mood than the busiest central areas."
     },
     {
-      "name": "Anantara Chiang Mai Serviced Suites",
+      "name": "Raya Heritage",
       "category": "luxury",
-      "priceRange": "$809/night",
-      "area": "Premium Location",
-      "description": "Upscale serviced suites with 4.8 TripAdvisor rating offering spacious accommodations, full hotel services, and premium amenities for discerning travelers."
+      "priceRange": "Luxury retreat",
+      "area": "Riverside outside the center",
+      "description": "One of Chiang Mai's most design-forward stays, best if the hotel experience itself is part of the trip."
+    },
+    {
+      "name": "Aleenta Retreat Chiang Mai",
+      "category": "upscale",
+      "priceRange": "Upscale wellness stay",
+      "area": "Suthep side",
+      "description": "A calmer hotel choice if you want resort character and a wellness angle instead of a standard city-hotel format."
+    },
+    {
+      "name": "InterContinental Chiang Mai The Mae Ping",
+      "category": "luxury",
+      "priceRange": "Luxury full-service hotel",
+      "area": "Chang Khlan / Night Bazaar side",
+      "description": "A practical luxury choice for travelers who want international-hotel comfort and easier access to the bazaar side of town."
     }
   ],
-  "gettingAround": "Chiang Mai's local transport system is affordable and convenient for visitors. Tuk-tuks are the most iconic transport, ideal for short distances within the city—expect to pay THB 40-80 (USD 1-2) for typical in-city journeys. Songthaews (shared red minibuses) follow set routes and cost THB 20-40 per ride, making them perfect for budget-conscious travelers exploring neighborhoods or visiting nearby temples. For longer distances or full-day excursions, renting a motorbike (THB 150-250/USD 4-7 per day) offers independence, though drivers must have valid licenses and exercise caution on roads. Grab (Southeast Asia's ride-sharing app) operates in Chiang Mai with competitive rates comparable to or cheaper than tuk-tuks. Most travelers rent bicycles (THB 50-100/USD 1-3 daily) to explore the Old City's compact streets and temple complexes. Walking remains the best way to experience the Old City's intricate alleys and market areas, particularly early mornings before heat peaks.",
-  "bestTimeToVisit": "Chiang Mai's best season runs from November through February, when temperatures are pleasantly cool (15-25°C/59-77°F) and humidity drops significantly, making outdoor exploration and temple visits comfortable. December and January represent peak season with clear skies perfect for activities like visiting Doi Suthep and trekking in surrounding mountains. The hot season (March-May) brings temperatures exceeding 35°C (95°F), though fewer tourists and lower prices attract some travelers. The monsoon season (June-October) brings heavy rainfall, particularly September and October, making roads potentially challenging and outdoor activities limited, but lush green landscapes and fewer crowds appeal to resilient travelers. March through May should be avoided for physical activities due to intense heat and air quality issues. The shoulder months of late October and early November offer good value with improving weather, while late February marks the transition toward rising heat but still maintains favorable conditions for sightseeing.",
+  "gettingAround": "Chiang Mai is easy to understand once you separate the walkable core from the wider city. The Old City is the best area for walking or cycling, while Nimman, the riverside, markets, and temple foothill areas are usually easier by Grab or songthaew. Red songthaews remain one of the most local-feeling ways to move around, but they are less predictable than app-based rides if you are short on time or do not want to negotiate loosely defined routes.\n\nIf you are considering a scooter, only do it if you are already comfortable riding. For many visitors, Chiang Mai is better with a mix of walking, Grab, and one or two organized day trips for mountain or sanctuary routes. That is especially true for Doi Inthanon, Doi Suthep side trips, or wet-season days when road conditions and fatigue matter more.",
+  "bestTimeToVisit": "Chiang Mai is strongest from November through February, when the weather is cooler, drier, and much better for temple walking, cafes, markets, and mountain viewpoints. This is also the period when festival demand and hotel pressure can rise, especially around Yi Peng and year-end travel.\n\nLate February through April is the most sensitive planning window because burning season and heat can both change the quality of the trip. The rainy season can still work well for travelers who care more about greener scenery and lower pressure than about perfect skies, but the cleanest all-round answer for first-time visitors remains the cool season.",
   "budgetGuide": {
     "budget": {
-      "min": 20,
-      "max": 40,
-      "description": "Budget travelers can thrive in Chiang Mai with guesthouse accommodation (USD 15-25/night), street food meals (USD 2-4), local transport via songthaew and tuk-tuk (USD 1-2 daily), and free or low-cost attractions like temple exploration, Old City walking, and night markets."
+      "min": 25,
+      "max": 45,
+      "description": "Budget travelers can still do Chiang Mai well with guesthouses, market meals, casual noodle shops, and a limited number of paid attractions or day trips."
     },
     "midrange": {
-      "min": 50,
-      "max": 100,
-      "description": "Mid-range travelers enjoy 3-star hotels (USD 65-135/night), restaurant meals (USD 5-12), paid attractions like Doi Inthanon (USD 9), Elephant Nature Park (USD 74), private motorbike rentals (USD 4-7/day), and occasional spa treatments."
+      "min": 60,
+      "max": 130,
+      "description": "Mid-range travelers usually feel the sweet spot in Chiang Mai, especially if they want a solid boutique hotel, better food stops, and one paid class or nature day."
     },
     "luxury": {
-      "min": 150,
+      "min": 180,
       "max": 400,
-      "description": "Luxury travelers stay at 5-star resorts (USD 390-809/night), dine at fine restaurants (USD 20-50+ per meal), book private guides and elephant experiences, enjoy premium spa treatments and wellness retreats, plus all activities and transportation without budget constraints."
+      "description": "Luxury spending rises quickly once riverside retreats, design hotels, private transport, wellness stays, and destination dining become part of the trip."
     }
   },
-  "safetyTips": "Chiang Mai is generally very safe for tourists with low violent crime rates. Standard precautions apply: avoid displaying expensive jewelry or cameras, be cautious in night entertainment districts late at night, and use registered tuk-tuks or Grab for evening transport. Traffic safety is a legitimate concern—motorbike accidents are common, so wear helmets, drive defensively, and avoid riding under the influence. Temple etiquette is important; dress respectfully with covered shoulders and knees, remove shoes when required, and never touch monks or their belongings. The Old City remains safe for night market visits, though standard street awareness applies. Petty theft from unattended belongings in crowded markets or tourist areas occasionally occurs, so keep valuables secure. Be cautious with street food hygiene from unfamiliar vendors, and drink bottled or filtered water. During air quality issues (March-April), respiratory-sensitive individuals should consider N95 masks or adjust activities. Overall, the local Thai culture emphasizes non-confrontation and hospitality, making Chiang Mai one of Thailand's safest tourist destinations when visitors practice reasonable awareness.",
+  "safetyTips": "Chiang Mai is generally straightforward for visitors, but the practical risks are more about roads, air quality, heat, and overconfidence than about serious violent crime. Scooter and motorbike accidents are a more realistic concern than dramatic tourist-crime stories, especially for visitors who are not already used to riding in Thailand. If you are not fully comfortable on two wheels, Grab, songthaews, and day tours are the safer call.\n\nTemple etiquette still matters, and so does seasonal awareness. Dress modestly for temple visits, stay calm in crowded market areas, and keep an eye on air quality in burning season if you are sensitive to smoke. For nightlife or market evenings, standard city awareness is enough: keep valuables close, use normal ride-hailing options, and avoid treating Chiang Mai's relaxed reputation as a reason to drop all caution.",
   "faq": [
     {
-      "question": "How much does it cost to visit Doi Suthep Temple?",
-      "answer": "The entrance fee is THB 50 (approximately USD 1). This includes access to the temple grounds, golden chedi, and panoramic city views from 1,080 meters elevation."
+      "question": "How many days do you need in Chiang Mai?",
+      "answer": "Three to four days is a strong starting point for first-time visitors. That gives you enough time for the Old City, Doi Suthep, one market-heavy evening, one food or cooking experience, and one nature or sanctuary day without turning the whole trip into a rush."
     },
     {
-      "question": "What is the best night market to visit?",
-      "answer": "The Sunday Night Market (Walking Street) is Chiang Mai's most famous, featuring local handicrafts, textiles, and street food with completely free entry. The Saturday Night Market offers a more local, less touristy experience with focus on silver handicrafts and traditional crafts, also free to enter."
+      "question": "What is the best area to stay in Chiang Mai?",
+      "answer": "For many first-time visitors, the Old City is the easiest base because it is walkable for temples and markets. Nimman is better if you want cafes, newer hotels, and a more modern city feel. Riverside and Chang Khlan stays work well if you want a calmer hotel atmosphere or larger full-service properties."
     },
     {
-      "question": "How much does the Elephant Nature Park cost?",
-      "answer": "The entrance fee is THB 2,500 (approximately USD 74). This ethical sanctuary focuses on elephant rescue and rehabilitation rather than riding, including meals, guides, and educational experiences about conservation."
+      "question": "When should you avoid Chiang Mai because of smoke?",
+      "answer": "Late February through April is the period most associated with burning season and haze risk. Conditions vary from year to year, but if clear air is a priority, the cool season from November through February is the safer default."
     },
     {
-      "question": "How much does local transport cost?",
-      "answer": "Tuk-tuks cost THB 40-80 (USD 1-2) for short city trips. Songthaews (shared minibuses) cost THB 20-40 per ride. Motorbike rentals are THB 150-250 (USD 4-7) per day. Bicycles rent for THB 50-100 (USD 1-3) daily."
+      "question": "Do you need a scooter in Chiang Mai?",
+      "answer": "No. Many visitors have a better trip without one. The Old City is walkable, and Grab plus songthaews cover most city movement. Scooters only make sense if you are already comfortable riding in Thailand and know the risks."
+    },
+    {
+      "question": "Is Chiang Mai mainly about temples?",
+      "answer": "Temples are a major part of the city's identity, but Chiang Mai works best when you combine temple culture with Northern Thai food, markets, mountain scenery, and at least one slower experiential activity such as a cooking class or carefully chosen sanctuary visit."
+    },
+    {
+      "question": "What food should you prioritize in Chiang Mai?",
+      "answer": "Khao soi is the essential first dish, but you should also go beyond that into Northern Thai staples such as sai ua, nam prik noom with cap moo, and kanom jeen nam ngiao if you want the city to feel regionally specific rather than generically Thai."
+    }
+  ],
+  "contentSources": [
+    {
+      "type": "population reference",
+      "title": "Chiang Mai Municipality population statistics",
+      "creator": "City Population",
+      "url": "https://www.citypopulation.de/en/thailand/cities/",
+      "description": "Used to frame Chiang Mai municipality-scale population rather than confusing it with the wider urban area or the province."
+    },
+    {
+      "type": "population reference",
+      "title": "Chiang Mai Province population statistics",
+      "creator": "City Population / National Statistical Office",
+      "url": "https://www.citypopulation.de/en/thailand/prov/admin/northern/50__chiang_mai/",
+      "description": "Used to explain why province-level population totals are much higher than municipality-scale counts."
+    },
+    {
+      "type": "population reference",
+      "title": "Chiang Mai Metro Area Population",
+      "creator": "Macrotrends",
+      "url": "https://www.macrotrends.net/global-metrics/cities/22618/chiang-mai/population",
+      "description": "Used to sanity-check broader metro-area estimates, which are much higher than municipality counts."
+    },
+    {
+      "type": "official tourism",
+      "title": "Chiang Mai travel brochure",
+      "creator": "Tourism Authority of Thailand",
+      "url": "https://wisatathailand.id/images/booklet/E-Brochure%20Chiang%20Mai%20%28EN%29.pdf",
+      "description": "Used for Chiang Mai overview context, major sights, and city orientation."
+    },
+    {
+      "type": "official tourism",
+      "title": "A Vivid Night Out in Chiang Mai",
+      "creator": "Tourism Authority of Thailand",
+      "url": "https://www.tourismthailand.org/Articles/a-vivid-night-out-in-chiang-mai",
+      "description": "Used for market and temple atmosphere context, including Wat Umong and the old-city evening pattern."
+    },
+    {
+      "type": "official park source",
+      "title": "Mountain Savouring the Greens at Doi Inthanon",
+      "creator": "Tourism Authority of Thailand",
+      "url": "https://www.tourismthailand.org/Articles/mountain-savouring-the-greens-at-doi-inthanon",
+      "description": "Used for Doi Inthanon positioning and official tourism context."
+    },
+    {
+      "type": "official operator",
+      "title": "Visit Elephant Nature Park",
+      "creator": "Elephant Nature Park",
+      "url": "https://www.elephantnaturepark.org/en/visit-volunteer",
+      "description": "Used for elephant sanctuary positioning and the note that program formats and prices vary."
+    },
+    {
+      "type": "official guide",
+      "title": "Khao Soi Mae Sai",
+      "creator": "MICHELIN Guide",
+      "url": "https://guide.michelin.com/fr/fr/chiang-mai-region/chiang-mai/restaurant/khao-soi-mae-sai",
+      "description": "Used for restaurant selection and location context."
+    },
+    {
+      "type": "official guide",
+      "title": "Kiti Panit",
+      "creator": "MICHELIN Guide",
+      "url": "https://guide.michelin.com/th/en/chiang-mai-region/chiang-mai/restaurant/kiti-panit",
+      "description": "Used for restaurant selection and positioning."
+    },
+    {
+      "type": "official guide",
+      "title": "Huen Muan Jai",
+      "creator": "MICHELIN Guide",
+      "url": "https://guide.michelin.com/th/en/chiang-mai-region/chiang-mai/restaurant/huen-muan-jai",
+      "description": "Used for Northern Thai restaurant selection."
+    },
+    {
+      "type": "official guide",
+      "title": "Rasik Local Kitchen",
+      "creator": "MICHELIN Guide",
+      "url": "https://guide.michelin.com/pt/pt_PT/chiang-mai-region/chiang-mai/restaurant/rasik-local-kitchen",
+      "description": "Used for contemporary Chiang Mai dining selection."
+    },
+    {
+      "type": "official guide",
+      "title": "Saiyut and Doctor Sai Kitchen",
+      "creator": "MICHELIN Guide",
+      "url": "https://guide.michelin.com/th/en/chiang-mai-region/chiang-mai/restaurant/saiyut-and-doctor-sai-kitchen",
+      "description": "Used for heritage-style restaurant selection."
+    },
+    {
+      "type": "hotel official",
+      "title": "Tamarind Village Chiang Mai",
+      "creator": "Tamarind Village",
+      "url": "https://www.tamarindvillage.com/chiangmai/",
+      "description": "Used for Old City hotel positioning."
+    },
+    {
+      "type": "hotel official",
+      "title": "137 Pillars House Chiang Mai",
+      "creator": "137 Pillars House",
+      "url": "https://137pillarshotels.com/chiangmai/",
+      "description": "Used for heritage luxury hotel positioning."
+    },
+    {
+      "type": "hotel official",
+      "title": "Raya Heritage Chiang Mai",
+      "creator": "Raya Heritage",
+      "url": "https://www.rayaheritage.com/",
+      "description": "Used for riverside retreat hotel positioning."
+    },
+    {
+      "type": "hotel official",
+      "title": "Aleenta Retreat Chiang Mai",
+      "creator": "Aleenta Retreat Chiang Mai",
+      "url": "https://www.aleenta.com/retreat-chiang-mai/",
+      "description": "Used for wellness-hotel positioning."
+    },
+    {
+      "type": "hotel official",
+      "title": "InterContinental Chiang Mai The Mae Ping",
+      "creator": "InterContinental Hotels & Resorts",
+      "url": "https://chiangmai.intercontinental.com/",
+      "description": "Used for full-service luxury hotel positioning."
     }
   ],
   "practicalInfo": {
@@ -584,7 +849,7 @@
     ]
   },
   "enrichedAt": "2026-02-22T12:24:20.878Z",
-  "factchecked_at": "2026-03-08T18:20:17.807Z",
+  "factchecked_at": "2026-03-25T00:00:00.000Z",
   "translations": {
     "nl": {
       "enhanced_description": "Chiang Mai omhult je in een warme omarming van geurige jasmijn en het verre gezoem van tempelklokken, genesteld onder een majestueuze achtergrond van weelderige bergen. Als de zon achter de horizon zakt, gloeit de gouden stupa van Wat Phra That Doi Suthep en werpt een magische aura over de stad. Elke stap in de Oude Stad voelt als een reis door de tijd, waar oude tempels als bewakers van de geschiedenis staan en de lucht gevuld is met het verleidelijke aroma van straatvoedsel dat sist in woks.\n\nIk herinner me mijn eerste avond in Chiang Mai, slenterend over de Zondagse Nachtmarkt, waar de levendige kleuren van handgemaakt ambachtswerk en het gelach van lokale verkopers een bedwelmende sfeer creëerden. Ik stuitte op een klein kraampje dat khao soi verkocht, een rijke kokos-curry noedelsoep. Toen ik mijn eerste lepel proefde, deelde de verkoopster, een oudere vrouw met een warme glimlach, verhalen over het geheime recept van haar familie dat generaties lang is doorgegeven. Dat moment ging niet alleen over eten; het was een verbinding, een blik in het hart van Chiang Mai.\n\nWat Chiang Mai onderscheidt van andere Thaise bestemmingen is de harmonieuze mix van traditie en moderniteit. Hier kun je oude tempels verkennen zoals Wat Chedi Luang, en vervolgens artisanale koffie nippen in een trendy café, omgeven door de serene schoonheid van de natuur. De lokale bevolking is ongelooflijk gastvrij; ik werd vaak uitgenodigd om mee te doen aan festivals of lokale bijeenkomsten, ervaringen die je niet in de toeristenbrochures vindt.\n\nEen van mijn mooiste herinneringen was deelnemen aan Yi Peng, het lantaarnfestival. Toen ik mijn lantaarn losliet in de nachtelijke hemel, omgeven door duizenden andere, voelde ik een diepgaand gevoel van gemeenschap en hoop. In Chiang Mai wordt elke ervaring verrijkt door de mensen die je ontmoet en de verhalen die ze delen, wat het een werkelijk bijzondere plek in Thailand maakt.\n\nOf je nu wandelt in de nabijgelegen bergen, een ethisch olifantenreservaat bezoekt, of gewoon geniet van een rustig moment aan de Ping-rivier, Chiang Mai heeft een manier om je hart te veroveren en je thuis te laten voelen. De levendige cultuur, de adembenemende landschappen en de warmte van de mensen creëren een sfeer die lang bij je blijft nadat je bent vertrokken. Het is niet slechts een bestemming; het is een gevoel van thuishoren dat je steeds weer terugtrekt.",
@@ -648,7 +913,7 @@
           ]
         }
       ],
-      "overview": "Chiang Mai is het culturele hart van Noord-Thailand, een stad waar oude tradities naadloos samensmelten met moderne reiservaringen. Met een bevolking van ongeveer 127.000 inwoners biedt deze charmante bestemming een intiem toevluchtsoord vergeleken met Bangkok, gecentreerd rond de historische Oude Stad met bewaard gebleven oude muren en meer dan 300 tempels. Van de gouden Doi Suthep-tempel op een berg met uitzicht over de stad tot de levendige nachtmarkten die bruisen van lokale energie, Chiang Mai biedt reizigers authentieke ontmoetingen met de Lanna-cultuur, prachtig ambachtswerk en enkele van de meest gastvrije gemeenschappen van Zuidoost-Azië. De nabijheid van bergen, watervallen en olifantenreservaten maakt het een ideale uitvalsbasis voor avonturiers, terwijl de bloeiende kunstscene, meditatieretraites en kooklessen degenen aantrekken die op zoek zijn naar diepere culturele onderdompeling.",
+      "overview": "Chiang Mai is het culturele hart van Noord-Thailand, een stad waar oude tradities naadloos samensmelten met moderne reiservaringen. De historische Oude Stad met bewaard gebleven muren en tientallen belangrijke tempels vormt het duidelijkste startpunt voor eerste bezoeken, terwijl Nimman, de Suthep-kant en de rivierzone elk een andere sfeer toevoegen. Van de gouden Doi Suthep-tempel op de berg tot levendige markten en Noord-Thaise eetcultuur biedt Chiang Mai een sterkere mix van erfgoed, eten en bergcontext dan veel andere Thaise citytrips.",
       "thingsToDo": "De topattracties van Chiang Mai combineren spiritualiteit, geschiedenis en natuurlijke schoonheid. De iconische Doi Suthep-tempel (THB 50/USD 1 entree) troont majestueus op 1.080 meter hoogte en beloont bezoekers met panoramisch stadsuitzicht en zijn prachtige gouden chedi. De Oude Stad, gratis te verkennen, bevat oude muren, historische tempels en traditionele markten die bezoekers eeuwen terug in de tijd voeren. Voor sacrale ervaringen, bezoek Wat Chedi Luang (THB 40/USD 1) met zijn enorme oude chedi en mogelijkheden om met monniken te praten, of Wat Phra Singh (THB 20/USD 0,50) beroemd om zijn heilig Boeddhabeeld en Lanna-architectuur. De Zondagse Nachtmarkt en Zaterdagse Nachtmarkt bieden gratis toegang tot enorme wandelstraten vol lokaal ambachtswerk, textiel en straatvoedsel. Voor natuurliefhebbers biedt het Doi Inthanon Nationaal Park (THB 300/USD 9) Thailands hoogste piek met twee pagodes en schilderachtige watervallen, terwijl de unieke Bua Thong Kleverige Watervallen (THB 200/USD 6) bezoekers laten klimmen op van nature kleefvaste kalksteenformaties. Ethische ervaringen met wilde dieren zijn onder andere het Elephant Nature Park (THB 2.500/USD 74), een gerenommeerd reservaat dat olifanten redt en rehabiliteert met focus op natuurbeschermingseducatie.",
       "whereToStay": "Chiang Mai biedt uitstekende accommodatie voor elk budget, met de Oude Stad en het Nimman-gebied als populairste buurten voor toeristen. Budgetreizigers vinden guesthouses voor USD 15-25 per nacht in de Oude Stad, die authentieke ervaringen bieden op loopafstand van tempels en markten. Middenklasse opties in Nimman en rond de Oude Stad bieden comfortabele driesterrenhotels met voorzieningen zoals zwembaden en restaurants voor USD 40-80 per nacht, vaak met traditionele Lanna-designelementen. Luxe resorts clusteren rond de Doi Suthep-uitlopers en het riviergebied en bieden vijfsterren-ervaringen met spa-faciliteiten, fine dining en bergzicht voor USD 150-300+ per nacht. Het Nimman-gebied, hoewel meer ontwikkeld, bedient jongere reizigers en digitale nomaden met trendy cafés en moderne accommodaties. Rivierlocaties bieden romantische settings langs de Ping-rivier, hoewel de prijzen er doorgaans hoger zijn. Voor degenen die op zoek zijn naar authentieke culturele onderdompeling bieden traditionele houten huizen omgebouwd tot boetiekhotels unieke verblijven die budget en luxe overbruggen.",
       "gettingAround": "Het lokale vervoerssysteem van Chiang Mai is betaalbaar en handig voor bezoekers. Tuk-tuks zijn het meest iconische vervoermiddel, ideaal voor korte afstanden binnen de stad — reken op THB 40-80 (USD 1-2) voor typische ritten. Songthaews (gedeelde rode minibussen) volgen vaste routes en kosten THB 20-40 per rit, perfect voor budgetbewuste reizigers. Voor langere afstanden of dagtochten biedt het huren van een motor (THB 150-250/USD 4-7 per dag) onafhankelijkheid, hoewel rijders een geldig rijbewijs moeten hebben en voorzichtig moeten zijn op de weg. Grab (de Zuidoost-Aziatische ritdeel-app) werkt in Chiang Mai met concurrerende tarieven. De meeste reizigers huren fietsen (THB 50-100/USD 1-3 per dag) om de compacte straten en tempelcomplexen van de Oude Stad te verkennen. Wandelen blijft de beste manier om de sierlijke steegjes en marktgebieden van de Oude Stad te ervaren, vooral 's ochtends vroeg voordat de hitte piekt.",
@@ -718,7 +983,7 @@
           ]
         }
       ],
-      "overview": "Chiang Mai est le cœur culturel du nord de la Thaïlande, une ville où les traditions anciennes se fondent harmonieusement dans les expériences de voyage modernes. Avec une population d'environ 127 000 habitants, cette destination charmante offre une échappée intimiste par rapport à Bangkok, centrée autour de sa Vieille Ville historique avec ses anciens murs préservés et plus de 300 temples. Du temple doré du Doi Suthep perché sur une montagne surplombant la ville aux marchés de nuit vibrants qui pulsent d'énergie locale, Chiang Mai offre aux voyageurs des rencontres authentiques avec la culture Lanna, un artisanat exquis et certaines des communautés les plus accueillantes d'Asie du Sud-Est. La proximité de la ville avec les montagnes, les cascades et les sanctuaires d'éléphants en fait une base idéale pour les amateurs d'aventure, tandis que sa scène artistique florissante, ses retraites de méditation et ses cours de cuisine attirent ceux qui recherchent une immersion culturelle plus profonde.",
+      "overview": "Chiang Mai est le cœur culturel du nord de la Thaïlande, une ville où les traditions anciennes se mêlent facilement aux voyages modernes. La Vieille Ville historique reste le meilleur point de départ pour comprendre les temples, les remparts et le rythme du centre, tandis que Nimman, le côté Suthep et la rivière Ping apportent chacun une ambiance différente. Du Doi Suthep doré aux marchés de nuit et à la cuisine du nord, Chiang Mai fonctionne surtout comme une combinaison solide de patrimoine, de nourriture et d'accès facile à la montagne.",
       "thingsToDo": "Les principales attractions de Chiang Mai mêlent spiritualité, histoire et beauté naturelle. L'iconique temple du Doi Suthep (THB 50/USD 1 l'entrée) trône majestueusement à 1 080 mètres d'altitude et récompense les visiteurs par des vues panoramiques sur la ville et son superbe chedi doré. La Vieille Ville, gratuite à explorer, abrite des murs anciens, des temples historiques et des marchés traditionnels qui transportent les visiteurs à travers les siècles. Pour des expériences sacrées, visitez le Wat Chedi Luang (THB 40/USD 1) avec son imposant chedi ancien et ses séances de discussion avec les moines, ou le Wat Phra Singh (THB 20/USD 0,50) réputé pour son image sacrée du Bouddha et son architecture Lanna. Le marché de nuit du dimanche et celui du samedi offrent l'entrée gratuite à d'immenses rues piétonnes remplies d'artisanat local, de textiles et de cuisine de rue. Pour les amoureux de la nature, le parc national de Doi Inthanon (THB 300/USD 9) abrite le plus haut sommet de Thaïlande avec des pagodes jumelles et des cascades pittoresques, tandis que les uniques cascades adhésives de Bua Thong (THB 200/USD 6) permettent aux visiteurs d'escalader des formations calcaires naturellement adhérentes. Les expériences éthiques avec la faune incluent l'Elephant Nature Park (THB 2 500/USD 74), un sanctuaire renommé qui sauve et réhabilite les éléphants avec un accent sur l'éducation à la conservation.",
       "whereToStay": "Chiang Mai offre d'excellents hébergements pour tous les budgets, la Vieille Ville et le quartier de Nimman étant les zones les plus populaires auprès des touristes. Les voyageurs à petit budget trouvent des guesthouses pour USD 15-25 par nuit dans la Vieille Ville, offrant des expériences authentiques à quelques pas des temples et des marchés. Les options de gamme moyenne à Nimman et autour de la Vieille Ville proposent des hôtels 3 étoiles confortables avec piscines et restaurants pour USD 40-80 par nuit, souvent avec des éléments de design Lanna traditionnel. Les resorts de luxe se regroupent autour des contreforts du Doi Suthep et des zones riveraines, offrant des expériences 5 étoiles avec spa, gastronomie et vues sur les montagnes pour USD 150-300+ par nuit. Le quartier de Nimman, plus développé, attire les jeunes voyageurs et les nomades numériques avec ses cafés branchés et ses hébergements modernes. Les emplacements en bord de rivière offrent des cadres romantiques le long de la rivière Ping, bien que les prix y soient généralement plus élevés. Pour ceux qui recherchent une immersion culturelle authentique, les maisons en bois traditionnelles converties en hôtels-boutiques offrent des séjours uniques entre budget et luxe.",
       "gettingAround": "Le système de transport local de Chiang Mai est abordable et pratique pour les visiteurs. Les tuk-tuks sont le moyen de transport le plus emblématique, idéal pour les courtes distances en ville — comptez THB 40-80 (USD 1-2) pour les trajets typiques. Les songthaews (minibus rouges partagés) suivent des itinéraires fixes et coûtent THB 20-40 par trajet, parfaits pour les voyageurs soucieux de leur budget. Pour les plus longues distances ou les excursions à la journée, la location de scooter (THB 150-250/USD 4-7 par jour) offre de l'indépendance, bien que les conducteurs doivent posséder un permis valide et faire preuve de prudence sur la route. Grab (l'application de covoiturage d'Asie du Sud-Est) fonctionne à Chiang Mai avec des tarifs compétitifs. La plupart des voyageurs louent des vélos (THB 50-100/USD 1-3 par jour) pour explorer les rues compactes et les complexes de temples de la Vieille Ville. La marche reste le meilleur moyen de découvrir les ruelles sinueuses et les zones de marché de la Vieille Ville, surtout tôt le matin avant le pic de chaleur.",
@@ -788,7 +1053,7 @@
           ]
         }
       ],
-      "overview": "Chiang Mai ist das kulturelle Herz Nordthailands, eine Stadt, in der alte Traditionen nahtlos mit modernen Reiseerlebnissen verschmelzen. Mit einer Bevölkerung von rund 127.000 Einwohnern bietet dieses charmante Reiseziel einen intimen Rückzugsort im Vergleich zu Bangkok, zentriert um die historische Altstadt mit erhaltenen alten Mauern und über 300 Tempeln. Vom goldenen Doi-Suthep-Tempel auf einem Berg mit Blick über die Stadt bis zu den lebhaften Nachtmärkten, die vor lokaler Energie pulsieren — Chiang Mai bietet Reisenden authentische Begegnungen mit der Lanna-Kultur, exquisites Kunsthandwerk und einige der gastfreundlichsten Gemeinschaften Südostasiens. Die Nähe zu Bergen, Wasserfällen und Elefanten-Reservaten macht es zur idealen Basis für Abenteurer, während die blühende Kunstszene, Meditationsretreats und Kochkurse jene anziehen, die tiefere kulturelle Eintauchung suchen.",
+      "overview": "Chiang Mai ist das kulturelle Herz Nordthailands, eine Stadt, in der alte Traditionen gut mit modernen Reiseerlebnissen zusammengehen. Die historische Altstadt ist der klarste Ausgangspunkt für Tempel, Stadtmauern und erste Orientierung, während Nimman, die Suthep-Seite und der Flusskorridor jeweils eine andere Stimmung hinzufügen. Vom goldenen Doi-Suthep-Tempel bis zu Nachtmärkten und nordthailändischer Küche funktioniert Chiang Mai am besten als Mischung aus Kultur, Essen und unkompliziertem Zugang zu Bergen und Natur.",
       "thingsToDo": "Chiang Mais Top-Attraktionen vereinen Spiritualität, Geschichte und natürliche Schönheit. Der ikonische Doi-Suthep-Tempel (THB 50/USD 1 Eintritt) thront majestätisch auf 1.080 Metern Höhe und belohnt Besucher mit Panoramablick über die Stadt und seinem beeindruckenden goldenen Chedi. Die Altstadt, kostenlos zu erkunden, beherbergt alte Mauern, historische Tempel und traditionelle Märkte, die Besucher Jahrhunderte zurückversetzen. Für sakrale Erlebnisse besuche den Wat Chedi Luang (THB 40/USD 1) mit seinem gewaltigen alten Chedi und Mönchsgesprächen, oder den Wat Phra Singh (THB 20/USD 0,50), berühmt für sein heiliges Buddha-Bildnis und die Lanna-Architektur. Der Sonntagsnachtmarkt und der Samstagsnachtmarkt bieten freien Eintritt zu riesigen Fußgängerzonen voller lokaler Handwerkskunst, Textilien und Streetfood. Für Naturliebhaber bietet der Doi-Inthanon-Nationalpark (THB 300/USD 9) Thailands höchsten Gipfel mit Zwillingspagoden und malerischen Wasserfällen, während die einzigartigen Bua Thong Sticky Waterfalls (THB 200/USD 6) Besucher natürlich haftende Kalksteinformationen erklimmen lassen. Ethische Wildtiererlebnisse umfassen den Elephant Nature Park (THB 2.500/USD 74), ein renommiertes Reservat, das Elefanten rettet und rehabilitiert mit Fokus auf Naturschutzbildung.",
       "whereToStay": "Chiang Mai bietet ausgezeichnete Unterkünfte für jedes Budget, wobei die Altstadt und das Nimman-Viertel die beliebtesten Gegenden für Touristen sind. Budget-Reisende finden Gästehäuser für USD 15-25 pro Nacht in der Altstadt, die authentische Erlebnisse in Gehweite von Tempeln und Märkten bieten. Mittelklasse-Optionen in Nimman und rund um die Altstadt bieten komfortable Drei-Sterne-Hotels mit Annehmlichkeiten wie Pools und Restaurants für USD 40-80 pro Nacht, oft mit traditionellen Lanna-Designelementen. Luxus-Resorts konzentrieren sich um die Doi-Suthep-Ausläufer und das Flussufer und bieten Fünf-Sterne-Erlebnisse mit Spa-Einrichtungen, gehobener Küche und Bergblick für USD 150-300+ pro Nacht. Das Nimman-Viertel, obwohl stärker entwickelt, bedient jüngere Reisende und digitale Nomaden mit trendigen Cafés und modernen Unterkünften. Flusslagen bieten romantische Settings entlang des Ping-Flusses, wobei die Preise tendenziell höher sind. Für authentische kulturelle Eintauchung bieten zu Boutique-Hotels umgebaute traditionelle Holzhäuser einzigartige Aufenthalte zwischen Budget und Luxus.",
       "gettingAround": "Chiang Mais lokales Verkehrssystem ist erschwinglich und praktisch für Besucher. Tuk-Tuks sind das ikonischste Transportmittel, ideal für kurze Strecken innerhalb der Stadt — rechne mit THB 40-80 (USD 1-2) für typische Fahrten. Songthaews (rote Sammel-Minibusse) fahren feste Routen und kosten THB 20-40 pro Fahrt, perfekt für budgetbewusste Reisende. Für längere Strecken oder Ganztagesausflüge bietet ein gemieteter Roller (THB 150-250/USD 4-7 pro Tag) Unabhängigkeit, wobei Fahrer einen gültigen Führerschein besitzen und vorsichtig fahren sollten. Grab (die südostasiatische Mitfahr-App) ist in Chiang Mai mit wettbewerbsfähigen Tarifen verfügbar. Die meisten Reisenden mieten Fahrräder (THB 50-100/USD 1-3 pro Tag), um die kompakten Straßen und Tempelanlagen der Altstadt zu erkunden. Zu Fuß gehen bleibt die beste Art, die verschlungenen Gassen und Marktgebiete der Altstadt zu erleben, besonders frühmorgens bevor die Hitze ihren Höhepunkt erreicht.",
@@ -858,7 +1123,7 @@
           ]
         }
       ],
-      "overview": "清迈是泰国北部的文化心脏，一座古老传统与现代旅行体验完美融合的城市。拥有约127,000居民的这座迷人目的地，相比曼谷提供了一种更为亲密的度假体验，以保存着古城墙和300多座寺庙的历史老城为中心。从俯瞰全城的素贴山金色寺庙到充满本地活力的热闹夜市，清迈为旅行者提供了与兰纳文化的真实邂逅、精美的手工艺品，以及东南亚最热情好客的社区之一。靠近山脉、瀑布和大象保护区使其成为冒险者的理想基地，而蓬勃发展的艺术场景、冥想静修和烹饪课程则吸引着寻求更深层文化沉浸的旅客。",
+      "overview": "清迈是泰国北部的文化核心城市，古老传统与现代旅行体验在这里自然结合。历史老城仍然是理解清迈最好的起点，适合看城墙、寺庙和步行尺度的城市氛围，而宁曼、素贴山一侧和滨河区域则分别提供更现代、创意或更慢节奏的体验。从素贴山金色寺庙到夜市和兰纳饮食文化，清迈最强的地方在于文化、食物与山地环境可以放在同一次旅行里。",
       "thingsToDo": "清迈的顶级景点融合了灵性、历史和自然之美。标志性的素贴山双龙寺（门票50 THB/USD 1）雄踞于海拔1,080米处，以壮观的金色佛塔和俯瞰全城的全景回馈游客。免费开放的老城拥有古城墙、历史寺庙和传统市场，带领游客穿越数个世纪。寻求神圣体验的旅客可参观柴迪隆寺（40 THB/USD 1），其巨大的古佛塔和僧侣对话项目令人印象深刻；或帕辛寺（20 THB/USD 0.50），以其珍贵的佛像和兰纳建筑闻名。周日夜市和周六夜市免费入场，是巨大的步行街区，遍布当地手工艺品、纺织品和街头美食。自然爱好者可前往茵他侬国家公园（300 THB/USD 9），探索泰国最高峰、双塔和风景如画的瀑布；而独特的Bua Thong黏性瀑布（200 THB/USD 6）让游客可以攀爬天然附着的石灰岩层。道德的野生动物体验包括大象自然公园（2,500 THB/USD 74），这是一个著名的保护区，致力于救助和康复大象，重点进行保护教育。",
       "whereToStay": "清迈为各种预算提供出色的住宿选择，老城和宁曼区是最受游客欢迎的区域。经济型旅客可在老城找到每晚USD 15-25的旅馆，步行即可到达寺庙和市场，体验地道氛围。宁曼区和老城周边的中档选择提供舒适的三星级酒店，配有泳池和餐厅等设施，每晚USD 40-80，常融入传统兰纳设计元素。豪华度假村集中在素贴山脚和河畔，提供五星级体验，配备水疗中心、高级餐厅和山景，每晚USD 150-300+。宁曼区虽然更为商业化，但以时尚咖啡馆和现代住宿吸引年轻旅客和数字游民。河畔位置沿滨河提供浪漫的环境，价格通常偏高。追求地道文化沉浸的旅客可选择改造为精品酒店的传统木屋，提供介于经济和奢华之间的独特住宿体验。",
       "gettingAround": "清迈的本地交通系统经济实惠且便于游客使用。嘟嘟车是最具标志性的交通工具，适合市内短途出行——典型行程约40-80 THB（USD 1-2）。双条车（红色共享小巴）按固定路线运行，每程20-40 THB，是预算有限的旅客的理想选择。对于较长距离或全天游览，租用摩托车（150-250 THB/USD 4-7/天）可获得自由度，但骑手需持有有效驾照并谨慎驾驶。Grab（东南亚网约车应用）在清迈可用，价格有竞争力。许多旅客租自行车（50-100 THB/USD 1-3/天）探索老城紧凑的街道和寺庙群。步行仍是体验老城蜿蜒小巷和市场区域的最佳方式，尤其是清晨天气还未升温时。",
@@ -928,7 +1193,7 @@
           ]
         }
       ],
-      "overview": "Чиангмай — культурное сердце Северного Таиланда, город, где древние традиции органично переплетаются с современными возможностями для путешествий. С населением около 127 000 человек это очаровательное направление предлагает камерный отдых по сравнению с Бангкоком, сосредоточенный вокруг исторического Старого города с сохранившимися древними стенами и более чем 300 храмами. От золотого храма Дой Сутхеп на горе с видом на город до оживлённых ночных рынков, пульсирующих местной энергией — Чиангмай дарит путешественникам подлинные встречи с культурой Ланна, изысканным мастерством и одним из самых гостеприимных сообществ Юго-Восточной Азии. Близость к горам, водопадам и слоновьим заповедникам делает его идеальной базой для любителей приключений, а процветающая художественная сцена, медитативные ретриты и кулинарные мастер-классы привлекают тех, кто ищет глубокого культурного погружения.",
+      "overview": "Чиангмай — культурное сердце Северного Таиланда, где древние традиции хорошо сочетаются с современными поездками. Исторический Старый город остаётся лучшей отправной точкой для храмов, городских стен и первого знакомства с ритмом места, а Нимман, сторона Сутхепа и район у реки дают уже другие городские настроения. От золотого храма Дой Сутхеп до ночных рынков и северотайской кухни Чиангмай сильнее всего работает как сочетание наследия, еды и удобного доступа к горам.",
       "thingsToDo": "Главные достопримечательности Чиангмая сочетают духовность, историю и природную красоту. Знаменитый храм Дой Сутхеп (вход 50 THB/USD 1) величественно возвышается на высоте 1 080 метров, награждая посетителей панорамными видами города и потрясающей золотой ступой. Старый город, свободный для посещения, впечатляет древними стенами, историческими храмами и традиционными рынками. Для духовных переживаний посетите Ват Чеди Луанг (40 THB/USD 1) с массивной древней ступой и возможностью побеседовать с монахом, или Ват Пхра Сингх (20 THB/USD 0.50), знаменитый священным образом Будды и архитектурой Ланна. Воскресный и Субботний ночные рынки с бесплатным входом — это огромные пешеходные улицы с местными ремёслами, текстилем и уличной едой. Для любителей природы — Национальный парк Дой Интханон (300 THB/USD 9) с высочайшей вершиной Таиланда, двумя пагодами и живописными водопадами. Уникальные «липкие водопады» Буа Тхонг (200 THB/USD 6) позволяют подниматься по естественно прилипающим известняковым образованиям. Этичный опыт общения с дикой природой предлагает Парк природы слонов (2 500 THB/USD 74) — известный заповедник по спасению и реабилитации слонов с фокусом на экологическое образование.",
       "whereToStay": "Чиангмай предлагает отличное размещение на любой бюджет. Старый город и район Нимман — самые популярные районы для туристов. Бюджетные путешественники найдут гестхаусы по USD 15-25 за ночь в Старом городе с храмами и рынками в пешей доступности. Среднебюджетные варианты в Ниммане и вокруг Старого города — комфортные трёхзвёздочные отели с бассейнами и ресторанами по USD 40-80 за ночь, часто с элементами традиционного дизайна Ланна. Люксовые курорты расположены у подножия Дой Сутхеп и вдоль реки, предлагая пятизвёздочный сервис со спа, ресторанами высокой кухни и видами на горы по USD 150-300+ за ночь. Район Нимман, хоть и более развитый, привлекает молодых путешественников и цифровых кочевников модными кафе и современным жильём. Набережные локации вдоль реки Пинг создают романтическую обстановку, хотя цены обычно выше. Для полного культурного погружения — традиционные деревянные дома, переделанные в бутик-отели.",
       "gettingAround": "Местный транспорт Чиангмая доступен и удобен. Тук-туки — самый культовый транспорт для коротких поездок по городу, стоимость 40-80 THB (USD 1-2). Сонгтэо (общие красные микроавтобусы) курсируют по установленным маршрутам за 20-40 THB за поездку — отличный вариант для экономных путешественников. Для дальних расстояний или однодневных экскурсий аренда мотоцикла (150-250 THB/USD 4-7 в день) даёт свободу, но требует действительных прав и осторожной езды. Grab (приложение для вызова такси в Юго-Восточной Азии) работает в Чиангмае по конкурентным ценам. Многие путешественники арендуют велосипеды (50-100 THB/USD 1-3 в день) для исследования компактных улочек Старого города. Пешие прогулки остаются лучшим способом познакомиться с извилистыми переулками и рыночными зонами, особенно рано утром до наступления жары.",
@@ -998,7 +1263,7 @@
           ]
         }
       ],
-      "overview": "치앙마이는 북부 태국의 문화적 심장으로, 고대 전통이 현대 여행 경험과 매끄럽게 어우러지는 도시입니다. 인구 약 127,000명의 이 매력적인 여행지는 방콕에 비해 친밀한 탈출구를 제공하며, 보존된 고대 성벽과 300개 이상의 사원이 있는 역사적 올드시티를 중심으로 합니다. 도시를 내려다보는 산 위의 황금빛 도이수텝 사원부터 현지 에너지로 맥동하는 활기찬 야시장까지, 치앙마이는 란나 문화, 정교한 공예, 동남아시아에서 가장 환영하는 공동체와의 진정한 만남을 제공합니다. 산, 폭포, 코끼리 보호소와의 근접성은 모험 추구자에게 이상적인 기지가 되며, 번성하는 예술 씬, 명상 수련, 요리 수업은 더 깊은 문화 체험을 원하는 이들을 끌어들입니다.",
+      "overview": "치앙마이는 북부 태국의 문화적 중심지로, 오래된 전통과 현대적인 여행 경험이 잘 겹쳐지는 도시입니다. 역사적인 올드시티는 사원, 성벽, 도보 중심의 도시 감각을 이해하기에 가장 좋은 출발점이고, 님만과 수텝 쪽, 강변 지역은 각각 다른 분위기를 더해 줍니다. 도이수텝의 황금 사원부터 야시장과 북부 태국 음식까지, 치앙마이는 문화와 음식, 산악 배경을 한 여행 안에 함께 담기 좋은 곳입니다.",
       "thingsToDo": "치앙마이의 최고 명소는 영성, 역사, 자연미를 결합합니다. 상징적인 도이수텝 사원(입장료 50바트/$1)은 해발 1,080m에 장엄하게 자리하며 파노라마 시내 전망과 눈부신 황금 체디로 보답합니다. 올드시티는 무료로 탐험 가능하며, 고대 성벽, 역사적 사원, 방문자를 수세기 전으로 데려가는 전통 시장이 있습니다. 신성한 경험을 위해 거대한 고대 체디와 승려 대화 기회가 있는 왓체디루앙(40바트/$1)이나, 신성한 불상과 란나 건축으로 유명한 왓프라싱(20바트/$0.50)을 방문하세요. 선데이 나이트 마켓과 새터데이 나이트 마켓은 현지 수공예품, 직물, 길거리 음식으로 가득한 대규모 워킹 스트리트에 무료 입장입니다. 자연 애호가를 위해 도이인타논 국립공원(300바트/$9)은 태국 최고봉에 쌍둥이 파고다와 경치 좋은 폭포가 있으며, 독특한 부아통 스티키 폭포(200바트/$6)에서는 자연적으로 접착력 있는 석회암 형성물을 올라갈 수 있습니다. 윤리적 야생동물 체험으로 코끼리 네이처 파크(2,500바트/$74)는 보전 교육에 중점을 둔 유명한 코끼리 구조·재활 보호소입니다.",
       "whereToStay": "치앙마이는 모든 예산에 걸쳐 훌륭한 숙소를 제공하며, 올드시티와 님만 지역이 관광객에게 가장 인기 있는 동네입니다. 버짓 여행자는 올드시티에서 1박 $15-25의 게스트하우스를 찾을 수 있어, 사원과 시장에서 몇 걸음 거리에 진정한 경험을 제공합니다. 님만과 올드시티 주변의 중급 옵션은 수영장과 레스토랑 등 편의시설을 갖춘 편안한 3성급 호텔을 1박 $40-80에 제공하며, 종종 전통 란나 디자인 요소가 특징입니다. 고급 리조트는 도이수텝 기슭과 리버사이드 지역에 모여 있으며, 스파 시설, 파인 다이닝, 산 전망과 함께 1박 $150-300+의 5성급 경험을 제공합니다. 님만 지역은 더 개발되어 있지만, 트렌디한 카페와 현대적 숙소로 젊은 여행자와 디지털 노마드에게 적합합니다. 리버사이드 위치는 핑 강을 따라 로맨틱한 환경을 제공하지만 가격이 높은 편입니다.",
       "gettingAround": "치앙마이의 현지 교통 시스템은 저렴하고 편리합니다. 툭툭이 가장 상징적인 교통수단으로, 시내 단거리에 이상적이며 일반적인 시내 이동에 40-80바트($1-2)를 예상하세요. 쏭태우(공유 빨간 미니버스)는 정해진 노선을 따라 1회 20-40바트로, 예산을 의식하는 여행자가 동네를 탐험하거나 근처 사원을 방문하기에 완벽합니다. 장거리나 하루 종일 외출에는 오토바이 대여(하루 150-250바트/$4-7)가 독립적인 이동을 제공하지만, 유효한 면허와 도로에서의 주의가 필요합니다. 그랩(Grab)이 치앙마이에서 운영되며 툭툭과 비슷하거나 더 저렴한 경쟁력 있는 요금을 제공합니다. 대부분의 여행자는 자전거(하루 50-100바트/$1-3)를 빌려 올드시티의 컴팩트한 거리와 사원 단지를 탐험합니다. 올드시티의 복잡한 골목과 시장 지역을 경험하는 데는 도보가 가장 좋은 방법이며, 특히 더위가 절정에 달하기 전 이른 아침이 좋습니다.",
@@ -1007,12 +1272,12 @@
       "translated_at": "2026-03-14T00:00:00.000Z"
     }
   },
-  "extended_description": "## Overview\nChiang Mai is the undisputed cultural capital of northern Thailand, a city where 700 years of Lanna heritage coexist with a thriving digital nomad scene, world-class coffee culture, and some of the best street food in Southeast Asia. Surrounded by misty mountains and home to over 300 temples within its old moated walls, the Rose of the North draws temple enthusiasts, trekkers, foodies, and remote workers alike. The pace here is slower than Bangkok, the air cooler (at least from November to February), and the cost of living famously low. Whether you are wandering the narrow lanes of the Old City, haggling for handmade silver at the Saturday Walking Street, or watching monks collect morning alms at dawn, Chiang Mai rewards travelers who slow down and soak it in.\n\n## Best Time to Visit\nNovember to February is peak season with cool, dry weather (15-25°C at night, 28-32°C during the day) and clear skies perfect for temple visits and mountain treks. December and January are the busiest months, so book accommodation early. March to May brings the burning season — farmers clear fields by fire, pushing air quality to hazardous levels in March and April. Avoid this period if you have respiratory issues. June to October is monsoon season with afternoon downpours, but rates drop 30-40% and the surrounding mountains turn lush green. The sweet spot is late October or early November when the rains taper off but peak-season prices have not yet kicked in.\n\n## How to Get There\nChiang Mai International Airport (CNX) has direct flights from Bangkok (1 hour, 800-2,500 THB on AirAsia, Nok Air, or Thai Smile), plus international connections from Kuala Lumpur, Singapore, and several Chinese cities. The overnight sleeper train from Bangkok is a classic experience — second-class berths cost around 840 THB one way and take 12-14 hours, departing from Krung Thep Aphiwat Central Terminal. VIP buses from Mo Chit terminal run 9-10 hours for 500-700 THB. From Chiang Rai, buses take 3-4 hours (150-300 THB).\n\n## Where to Stay\nThe Old City inside the moat is backpacker central with guesthouses from 250-500 THB/night and boutique hotels from 800-2,000 THB. Nimman (Nimmanahaeminda Road) is the trendy neighborhood with co-working spaces, hip cafes, and condos popular with digital nomads — mid-range hotels run 600-2,500 THB/night. The Riverside area along the Ping River offers atmospheric heritage stays from 1,000-4,000 THB. Santitham, north of the Old City, is a quieter local neighborhood with excellent value guesthouses from 300-800 THB and authentic food stalls the tourists miss.\n\n## What to Do\nStart with Wat Phra That Doi Suthep, the golden hilltop temple 15 km west of the city — take a shared songthaew from the zoo (60 THB round trip) and climb the 306-step naga staircase for panoramic views. Inside the Old City, visit Wat Chedi Luang's massive 15th-century ruined chedi and Wat Phra Singh's exquisite Lanna murals. On Sundays, the entire Ratchadamnoen Road transforms into the Sunday Walking Street market (4pm-midnight) with handmade crafts, art, and street food. Book an ethical elephant experience at Elephant Nature Park (2,500 THB full day). For nature lovers, Doi Inthanon National Park — Thailand's highest peak at 2,565 meters — is a rewarding day trip with twin chedis, cloud-forest trails, and Hmong hill-tribe villages.\n\n## Food & Dining\nChiang Mai is ground zero for northern Thai cuisine. Khao soi — the coconut curry noodle soup topped with crispy egg noodles — is the must-eat dish; try it at Khao Soi Khun Yai (30-35 THB) near Chang Phueak Gate or Khao Soi Mae Sai (50 THB) for a spicier version. Sai ua (Chiang Mai pork sausage stuffed with lemongrass and kaffir lime) goes for 30-60 THB per piece at the North Gate night food stalls. Kanom jeen nam ngiao (rice noodles in tomato-pork broth) is another northern specialty found at market stalls for 40-50 THB. The Warorot Market (Kad Luang) is the city's main day market for dried goods, nam prik (chili pastes), and local snacks.\n\n## Budget Guide\nBackpackers can live well on 700-1,000 THB/day ($20-28): dorm bed (200-400 THB), khao soi and street food meals (150-250 THB total), shared songthaew transport (30-60 THB), and temple visits. Mid-range travelers spend 2,000-3,500 THB/day ($55-97): boutique hotel, mix of street and restaurant dining, cooking class or elephant sanctuary. A red songthaew within the Old City costs 30-40 THB per person.\n\n## Safety & Tips\nChiang Mai is very safe with low violent crime rates. Dress modestly for temples — cover shoulders and knees. Use the Grab app for fair taxi prices instead of negotiating with tuk-tuk drivers. If renting a motorbike, wear a helmet — accidents are the top cause of tourist injury. Avoid March-April if sensitive to smoke haze. Carry cash for markets; cards are accepted at malls and larger restaurants only.",
+  "extended_description": "## Overview\nChiang Mai is strongest when you treat it as a compact cultural city with meaningful mountain access, not as a grab-bag of unrelated northern Thailand highlights. The Old City remains the clearest starting point for temple walks and first-time orientation, while Nimman and the Suthep side add cafes, design shops, and a newer urban feel. The river corridor gives the city some of its most atmospheric boutique stays and slower evening dining.\n\n## Best Time to Visit\nThe cleanest first answer remains November through February, when temperatures are easier for temple walking, market evenings, and day trips into the mountains. The most important planning warning is late February through April, when smoke and haze can materially affect the trip. Rainy-season travel can still work well if you care more about greener scenery and lower pressure than perfect blue-sky conditions.\n\n## How to Get There\nChiang Mai International Airport keeps the city easy to reach from Bangkok and other major Thai hubs. Overnight trains and long-distance buses still make sense if you want a slower overland route, but most short-stay visitors treat the airport as the practical default. For first-time planning, the more important decision is not only how you arrive, but which neighborhood you base yourself in once you get there.\n\n## Where to Stay\nThe Old City is still the easiest base for temple-heavy first visits and walking access to the moat area. Nimman works better if you want cafes, newer hotels, and a more modern city feel. Riverside and Chang Khlan make more sense if you want a calmer hotel stay, a boutique property, or a larger full-service hotel without losing access to the main visitor zones.\n\n## What to Do\nDoi Suthep, the Old City, and at least one major market still form the strongest Chiang Mai first-timer core. After that, the page should expand by trip style rather than by random checklist logic: a cooking class or food-focused day for culture through cuisine, one carefully chosen elephant sanctuary if that matters to you, and one mountain or nature day such as Doi Inthanon or Bua Thong Sticky Waterfalls.\n\n## Food & Dining\nNorthern Thai food is one of the city's biggest strengths, but Chiang Mai works best when you go beyond one bowl of khao soi. Sai ua, nam prik noom with pork crackling, kanom jeen nam ngiao, and market snacks all matter if you want the place to feel regionally distinct. The best food planning here usually mixes one or two known specialist stops with market browsing and slower neighborhood meals.\n\n## Budget Guide\nChiang Mai still has a wide pricing spread. Budget travelers can do well with guesthouses, market meals, and app-based rides, while mid-range travelers often get the best value once a better boutique hotel and one or two paid experiences are added. Spending climbs quickly when destination dining, wellness hotels, private transport, or full-day sanctuary trips enter the plan.\n\n## Safety & Practical Notes\nThe biggest practical risks are roads, smoke, and overconfidence rather than serious violent crime. Many visitors have a better trip relying on walking, Grab, songthaews, and organized day trips rather than assuming they need a scooter. Temple etiquette still matters, and seasonal planning matters here more than in many other Thai city breaks.",
   "getting_there": {
     "from_bangkok": {
-      "flight": "1 hour, 800-2,500 THB (AirAsia, Nok Air, Thai Smile)",
-      "train": "12-14 hours sleeper, 840 THB second-class berth",
-      "bus": "9-10 hours VIP bus, 500-700 THB from Mo Chit"
+      "flight": "Frequent direct flights from Bangkok make this the most practical short-trip route.",
+      "train": "Overnight sleepers remain the classic overland option if you want a slower arrival.",
+      "bus": "Long-distance buses work, but they matter more for budget or regional overland routes than for most first short stays."
     },
     "airport": "Chiang Mai International Airport (CNX)"
   },
@@ -1022,13 +1287,13 @@
     "low": "Jun-Sep",
     "avoid": "Mar-Apr (burning season, hazardous air quality)",
     "best_months": "Nov-Jan",
-    "why": "Cool dry season with 15-25°C nights, clear skies, and major festivals like Yi Peng lantern festival in November."
+    "why": "Cooler, drier conditions usually make temple walks, market evenings, and mountain day trips easier."
   },
   "budget": {
     "backpacker": "$20-28/day",
     "mid_range": "$55-97/day",
     "luxury": "$140+/day",
-    "typical_meal": "30-60 THB street food, 150-350 THB restaurant"
+    "typical_meal": "Street meals stay inexpensive, while destination restaurants and design-forward cafes push budgets up quickly."
   },
   "neighborhoods": [
     {
@@ -1057,22 +1322,22 @@
     }
   ],
   "must_try_food": [
-    "Khao soi at Khao Soi Khun Yai near Chang Phueak Gate — the original coconut curry noodle soup (30-35 THB)",
-    "Sai ua (northern pork sausage) from the North Gate night food stalls — smoky, herby, and spicy (30-60 THB)",
-    "Kanom jeen nam ngiao (rice noodles in tomato-pork broth) at Warorot Market stalls (40-50 THB)"
+    "Khao soi at a specialist stop such as Khao Soi Mae Sai or another focused local shop, rather than a generic Thai menu restaurant.",
+    "Sai ua and nam prik noom with pork crackling, especially if you want the meal to feel regionally Northern Thai rather than generically Thai.",
+    "Kanom jeen nam ngiao or market-based noodle and snack browsing around Warorot or other daytime market areas."
   ],
   "local_tips": [
-    "The Sunday Walking Street on Ratchadamnoen Road (4pm-midnight) is the best market — arrive by 5pm for the widest selection before the crowds peak",
-    "Red songthaews are shared taxis that follow loose routes around the Old City for 30-40 THB — just flag one down and say your destination",
-    "Visit Doi Suthep temple before 9am to beat tour groups and enjoy the cool morning air",
-    "Nimman Soi 9 and Soi 17 have the best concentration of specialty coffee shops if you need a caffeine fix",
-    "Download the Grab app — it works for tuk-tuks too and prevents overcharging"
+    "Sunday Walking Street works best as a real evening block, not a five-minute photo stop.",
+    "Red songthaews are still part of the Chiang Mai rhythm, but Grab is usually easier if you have a fixed destination or limited time.",
+    "Doi Suthep is strongest earlier in the day, before the road and temple area feel heavily tour-group driven.",
+    "Do not force Old City, Nimman, and a mountain outing into one rushed day just because they look close on a map.",
+    "Use cafes and hotel downtime strategically in the hotter middle of the day rather than trying to power straight through."
   ],
   "day_trips": [
-    "Doi Inthanon National Park (1.5h drive) — Thailand's highest peak, twin chedis, waterfalls, and Hmong villages",
-    "Elephant Nature Park (1h drive) — ethical elephant sanctuary, full-day visit 2,500 THB",
-    "Chiang Rai (3-4h by bus) — White Temple, Blue Temple, and Golden Triangle",
-    "Doi Suthep-Pui National Park (30 min) — Hmong village, waterfall trails, and the golden temple"
+    "Doi Inthanon National Park for mountain scenery, waterfalls, and a cooler-feeling contrast to the city.",
+    "A carefully chosen elephant sanctuary day if ethical animal welfare is genuinely part of the trip plan.",
+    "Chiang Rai only if you are comfortable treating it as a long day or, better, a separate overnight extension.",
+    "Doi Suthep side outings that combine the temple with quieter stops such as Wat Pha Lat or nearby creative areas."
   ],
-  "enriched_at": "2026-03-22"
+  "enriched_at": "2026-03-25"
 }

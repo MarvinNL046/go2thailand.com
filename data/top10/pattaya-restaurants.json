@@ -1,209 +1,102 @@
 {
-  "title": "Best Restaurants in Pattaya — Every Budget (2026)",
-  "meta_description": "The 10 best restaurants in Pattaya for every budget. Real ratings, reviews & prices. From street food to fine dining — updated 2026.",
-  "intro": "Discover the best restaurants in Pattaya, Thailand. These recommendations are based on real guest reviews and ratings from tripadvisor.",
+  "title": "Best Restaurants in Pattaya",
+  "meta_description": "Curated Pattaya restaurant guide with local noodle spots, seafood-led picks, and stronger hotel dining options backed by official or Michelin sources.",
+  "intro": "Pattaya food works best when you mix one or two real Thai everyday stops with one more polished dinner if that fits the trip. The city has enough hotel and rooftop dining to make every meal expensive and generic, but it also has useful noodle, seafood, and Thai-casual options that say more about the place than another international resort buffet.",
   "items": [
     {
       "rank": 1,
-      "name": "Anytime Cafe, Pattaya",
-      "description": "Anytime Cafe, Pattaya is a 4.9-rated Cafe, European restaurant in Pattaya.",
-      "location": "Pattaya",
-      "current_price": "$$ - $$$",
-      "highlights": [],
-      "insider_tips": [],
-      "current_info": "Cuisine: Cafe, European • Price: $$ - $$$ • Rating: 4.9/5 • 834 reviews",
-      "scraped": {
-        "source": "tripadvisor",
-        "cuisine": "Cafe, European",
-        "price_range": "$$ - $$$",
-        "rating": 4.9,
-        "review_count": 834,
-        "scraped_at": "2026-03-08T16:54:23.880Z"
-      },
-      "trip_affiliate_url": "https://tp.media/r?marker=602467&trs=421888&p=7631&u=https%3A%2F%2Fwww.trip.com%2Fhotels%2Flist%3Fkeyword%3DAnytime%2520Cafe%252C%2520Pattaya%2520Pattaya"
+      "name": "Khrua Ban Po Ta",
+      "description": "One of the stronger Pattaya-area seafood and Thai picks if you want a meal that feels more grounded than the most generic beachfront tourist menus.",
+      "location": "Greater Pattaya / Chon Buri side",
+      "current_price": "Moderate",
+      "highlights": [
+        "MICHELIN-listed",
+        "Seafood strength",
+        "Worth planning for"
+      ],
+      "current_info": "A better use of a serious dinner slot than another interchangeable tourist seafood stop."
     },
     {
       "rank": 2,
-      "name": "Skybar Summer Club",
-      "description": "Skybar Summer Club is a 4.9-rated Bar, International restaurant in Pattaya.",
-      "location": "Pattaya",
-      "current_price": "$$ - $$$",
-      "highlights": [],
-      "insider_tips": [],
-      "current_info": "Cuisine: Bar, International • Price: $$ - $$$ • Rating: 4.9/5 • 514 reviews",
-      "scraped": {
-        "source": "tripadvisor",
-        "cuisine": "Bar, International",
-        "price_range": "$$ - $$$",
-        "rating": 4.9,
-        "review_count": 514,
-        "scraped_at": "2026-03-08T16:54:23.880Z"
-      },
-      "trip_affiliate_url": "https://tp.media/r?marker=602467&trs=421888&p=7631&u=https%3A%2F%2Fwww.trip.com%2Fhotels%2Flist%3Fkeyword%3DSkybar%2520Summer%2520Club%2520Pattaya"
+      "name": "Neon Boat Noodles",
+      "description": "A better Pattaya food stop than another international comfort meal if you want something local-feeling, specific, and easy to build into a casual city itinerary.",
+      "location": "Pattaya / Nong Prue",
+      "current_price": "Budget",
+      "highlights": [
+        "MICHELIN-listed",
+        "Small-shop format",
+        "Good lunch stop"
+      ],
+      "current_info": "Ideal for a focused lunch rather than a lingering evening meal."
     },
     {
       "rank": 3,
-      "name": "Moonwhale Pattaya",
-      "description": "Moonwhale Pattaya is a 4.9-rated Italian, Bar restaurant in Pattaya.",
-      "location": "Pattaya",
-      "current_price": "$$ - $$$",
-      "highlights": [],
-      "insider_tips": [],
-      "current_info": "Cuisine: Italian, Bar • Price: $$ - $$$ • Rating: 4.9/5 • 256 reviews",
-      "scraped": {
-        "source": "tripadvisor",
-        "cuisine": "Italian, Bar",
-        "price_range": "$$ - $$$",
-        "rating": 4.9,
-        "review_count": 256,
-        "scraped_at": "2026-03-08T16:54:23.880Z"
-      },
-      "trip_affiliate_url": "https://tp.media/r?marker=602467&trs=421888&p=7631&u=https%3A%2F%2Fwww.trip.com%2Fhotels%2Flist%3Fkeyword%3DMoonwhale%2520Pattaya%2520Pattaya"
+      "name": "Edge at Hilton Pattaya",
+      "description": "A strong fit if you want a polished buffet or seafood-forward hotel meal with wide bay views rather than a purely local dining night.",
+      "location": "Hilton Pattaya",
+      "current_price": "Upscale",
+      "highlights": [
+        "Hilton dining",
+        "Bay views",
+        "Good occasion meal"
+      ],
+      "current_info": "Best when the goal is views and a smoother hotel dining experience, not local street-level food."
     },
     {
       "rank": 4,
-      "name": "Edge",
-      "description": "Edge is a 4.6-rated Seafood, International restaurant in Pattaya.",
-      "location": "Pattaya",
-      "current_price": "$$ - $$$",
-      "highlights": [],
-      "insider_tips": [],
-      "current_info": "Cuisine: Seafood, International • Price: $$ - $$$ • Rating: 4.6/5 • 1.118 reviews",
-      "scraped": {
-        "source": "tripadvisor",
-        "cuisine": "Seafood, International",
-        "price_range": "$$ - $$$",
-        "rating": 4.6,
-        "review_count": 1118,
-        "scraped_at": "2026-03-08T16:54:23.880Z"
-      },
-      "trip_affiliate_url": "https://tp.media/r?marker=602467&trs=421888&p=7631&u=https%3A%2F%2Fwww.trip.com%2Fhotels%2Flist%3Fkeyword%3DEdge%2520Pattaya"
+      "name": "Mantra Restaurant & Bar",
+      "description": "A polished north-Pattaya evening option if you want a more dressed-up meal than casual beachfront dining can offer.",
+      "location": "North Pattaya",
+      "current_price": "Upscale",
+      "highlights": [
+        "Amari-linked dining",
+        "Good evening option",
+        "Useful for hotel-zone stays"
+      ],
+      "current_info": "Works best for a structured dinner rather than a quick walk-in lunch."
     },
     {
       "rank": 5,
-      "name": "Big Fish - Seafood Buffet Pattaya",
-      "description": "Big Fish - Seafood Buffet Pattaya is a 4.8-rated Seafood, Barbecue restaurant in Pattaya.",
-      "location": "Pattaya",
-      "current_price": "$$ - $$$",
-      "highlights": [],
-      "insider_tips": [],
-      "current_info": "Cuisine: Seafood, Barbecue • Price: $$ - $$$ • Rating: 4.8/5 • 750 reviews",
-      "scraped": {
-        "source": "tripadvisor",
-        "cuisine": "Seafood, Barbecue",
-        "price_range": "$$ - $$$",
-        "rating": 4.8,
-        "review_count": 750,
-        "scraped_at": "2026-03-08T16:54:23.880Z"
-      },
-      "trip_affiliate_url": "https://tp.media/r?marker=602467&trs=421888&p=7631&u=https%3A%2F%2Fwww.trip.com%2Fhotels%2Flist%3Fkeyword%3DBig%2520Fish%2520-%2520Seafood%2520Buffet%2520Pattaya%2520Pattaya"
-    },
-    {
-      "rank": 6,
-      "name": "The Bistro",
-      "description": "The Bistro is a 4.9-rated Swiss, European restaurant in Pattaya.",
-      "location": "Pattaya",
-      "current_price": "$$ - $$$",
-      "highlights": [],
-      "insider_tips": [],
-      "current_info": "Cuisine: Swiss, European • Price: $$ - $$$ • Rating: 4.9/5 • 707 reviews",
-      "scraped": {
-        "source": "tripadvisor",
-        "cuisine": "Swiss, European",
-        "price_range": "$$ - $$$",
-        "rating": 4.9,
-        "review_count": 707,
-        "scraped_at": "2026-03-08T16:54:23.880Z"
-      },
-      "trip_affiliate_url": "https://tp.media/r?marker=602467&trs=421888&p=7631&u=https%3A%2F%2Fwww.trip.com%2Fhotels%2Flist%3Fkeyword%3DThe%2520Bistro%2520Pattaya"
-    },
-    {
-      "rank": 7,
-      "name": "The View Pattaya Restaurant",
-      "description": "The View Pattaya Restaurant is a 4.9-rated French, Seafood restaurant in Pattaya.",
-      "location": "Pattaya",
-      "current_price": "$$$$",
-      "highlights": [],
-      "insider_tips": [],
-      "current_info": "Cuisine: French, Seafood • Price: $$$$ • Rating: 4.9/5 • 129 reviews",
-      "scraped": {
-        "source": "tripadvisor",
-        "cuisine": "French, Seafood",
-        "price_range": "$$$$",
-        "rating": 4.9,
-        "review_count": 129,
-        "scraped_at": "2026-03-08T16:54:23.880Z"
-      },
-      "trip_affiliate_url": "https://tp.media/r?marker=602467&trs=421888&p=7631&u=https%3A%2F%2Fwww.trip.com%2Fhotels%2Flist%3Fkeyword%3DThe%2520View%2520Pattaya%2520Restaurant%2520Pattaya"
-    },
-    {
-      "rank": 8,
-      "name": "Maha Thai Cuisine",
-      "description": "Maha Thai Cuisine is a 4.9-rated Thai, Street Food restaurant in Pattaya. located at Beach Road.",
-      "location": "Beach Road",
-      "current_price": "$$ - $$$",
-      "highlights": [],
-      "insider_tips": [],
-      "current_info": "Cuisine: Thai, Street Food • Price: $$ - $$$ • Rating: 4.9/5 • 118 reviews",
-      "scraped": {
-        "source": "tripadvisor",
-        "cuisine": "Thai, Street Food",
-        "price_range": "$$ - $$$",
-        "rating": 4.9,
-        "review_count": 118,
-        "address": "Beach Road",
-        "scraped_at": "2026-03-08T16:54:23.880Z"
-      },
-      "trip_affiliate_url": "https://tp.media/r?marker=602467&trs=421888&p=7631&u=https%3A%2F%2Fwww.trip.com%2Fhotels%2Flist%3Fkeyword%3DMaha%2520Thai%2520Cuisine%2520Pattaya"
-    },
-    {
-      "rank": 9,
-      "name": "Kamikaze Steak & Café",
-      "description": "Kamikaze Steak & Café is a 4.9-rated Steakhouse, Seafood restaurant in Pattaya.",
-      "location": "Pattaya",
-      "current_price": "$$ - $$$",
-      "highlights": [],
-      "insider_tips": [],
-      "current_info": "Cuisine: Steakhouse, Seafood • Price: $$ - $$$ • Rating: 4.9/5 • 297 reviews",
-      "scraped": {
-        "source": "tripadvisor",
-        "cuisine": "Steakhouse, Seafood",
-        "price_range": "$$ - $$$",
-        "rating": 4.9,
-        "review_count": 297,
-        "scraped_at": "2026-03-08T16:54:23.880Z"
-      },
-      "trip_affiliate_url": "https://tp.media/r?marker=602467&trs=421888&p=7631&u=https%3A%2F%2Fwww.trip.com%2Fhotels%2Flist%3Fkeyword%3DKamikaze%2520Steak%2520%2526%2520Caf%25C3%25A9%2520Pattaya"
-    },
-    {
-      "rank": 10,
-      "name": "Dom Pizza",
-      "description": "Dom Pizza is a 4.7-rated Italian, French restaurant in Pattaya.",
-      "location": "Pattaya",
-      "current_price": "$$ - $$$",
-      "highlights": [],
-      "insider_tips": [],
-      "current_info": "Cuisine: Italian, French • Price: $$ - $$$ • Rating: 4.7/5 • 704 reviews",
-      "scraped": {
-        "source": "tripadvisor",
-        "cuisine": "Italian, French",
-        "price_range": "$$ - $$$",
-        "rating": 4.7,
-        "review_count": 704,
-        "scraped_at": "2026-03-08T16:54:23.880Z"
-      },
-      "trip_affiliate_url": "https://tp.media/r?marker=602467&trs=421888&p=7631&u=https%3A%2F%2Fwww.trip.com%2Fhotels%2Flist%3Fkeyword%3DDom%2520Pizza%2520Pattaya"
+      "name": "Horizon Rooftop Restaurant & Bar",
+      "description": "Best treated as a rooftop dining-and-drinks pick when the priority is skyline and sea views rather than a deeply local food experience.",
+      "location": "Hilton Pattaya",
+      "current_price": "Upscale",
+      "highlights": [
+        "Rooftop setting",
+        "Night views",
+        "Good sunset timing"
+      ],
+      "current_info": "More about the setting and timing than about local food specificity."
     }
   ],
   "city_slug": "pattaya",
   "city_name": "Pattaya",
   "category": "restaurants",
-  "data_sources": [
-    "tripadvisor",
-    "scraped"
+  "content_sources": [
+    {
+      "title": "Khrua Ban Po Ta",
+      "creator": "MICHELIN Guide",
+      "url": "https://guide.michelin.com/th/en/chon-buri-region/chon-buri_2758557/restaurant/khrua-ban-po-ta",
+      "description": "Used for seafood and Thai restaurant positioning in the Pattaya area."
+    },
+    {
+      "title": "Neon Boat Noodles",
+      "creator": "MICHELIN Guide",
+      "url": "https://guide.michelin.com/lt/en/chon-buri-region/chon-buri_2758557/restaurant/neon-boat-noodles",
+      "description": "Used for Pattaya casual food and noodle-stop positioning."
+    },
+    {
+      "title": "Hilton Pattaya Dining",
+      "creator": "Hilton Pattaya",
+      "url": "https://www.hilton.com/en/hotels/bkkhphi-hilton-pattaya/dining/",
+      "description": "Used for Edge and Horizon dining positioning."
+    },
+    {
+      "title": "Mantra Restaurant & Bar",
+      "creator": "Amari Pattaya",
+      "url": "https://www.amari.com/pattaya/dine",
+      "description": "Used for north-Pattaya restaurant positioning."
+    }
   ],
-  "last_scraped": "2026-03-08T16:54:23.880Z",
-  "generated_at": "2026-03-08T16:54:23.880Z",
-  "hybrid": false,
-  "scraped": true
+  "generated_at": "2026-03-26T00:00:00.000Z"
 }

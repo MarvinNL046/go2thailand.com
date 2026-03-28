@@ -1,6 +1,6 @@
 {
   "metadata": {
-    "generated_at": "2026-03-25T18:54:47.686Z",
+    "generated_at": "2026-03-27T20:44:04.619Z",
     "city_count": 33,
     "data_version": "1.0.0",
     "source_hashes": {
@@ -9,39 +9,39 @@
       "regions": "2e23cfc4f090",
       "nomad_enrichment": "95daf32a040f",
       "safety_enrichment": "503f4c44942b",
-      "city:ayutthaya": "e3a592eeb2dc",
+      "city:ayutthaya": "e5200c3cbca8",
       "city:bangkok": "665be3e39752",
-      "city:bueng-kan": "094bcfc01ec9",
-      "city:chanthaburi": "0983a6f5003f",
-      "city:chiang-khan": "63ca45bf658b",
-      "city:chiang-mai": "fcd687bdadc7",
-      "city:chiang-rai": "34a91b3d634b",
-      "city:chumphon": "a7b6010007e4",
-      "city:hat-yai": "0a866c8693ad",
-      "city:hua-hin": "7043505cf133",
-      "city:kanchanaburi": "e0c661c58b33",
-      "city:khon-kaen": "4a927a21718a",
-      "city:koh-samui": "c2be0c3b9a5c",
-      "city:krabi": "ebc16f9da61d",
-      "city:lampang": "fa8d07da7cfd",
-      "city:lopburi": "798dbe79f8d2",
-      "city:mae-hong-son": "561e483da019",
-      "city:mukdahan": "ac359eddc3b0",
-      "city:nakhon-phanom": "8352f5311d5f",
-      "city:nakhon-ratchasima": "7f427d3014b4",
-      "city:nakhon-si-thammarat": "27d6eab68aa1",
-      "city:nong-khai": "2aa3f8176b71",
-      "city:pai": "d33f75661288",
-      "city:pattaya": "fc6503104597",
-      "city:phitsanulok": "1f76fdfa0cf1",
-      "city:phuket": "9124d09da053",
-      "city:rayong": "8e81cd8dfa95",
-      "city:sukhothai": "1406d22c3ee5",
-      "city:surat-thani": "a52dbcdf5001",
-      "city:trang": "7da9d4bd0b25",
-      "city:trat": "d117b82ffa5d",
-      "city:ubon-ratchathani": "4a1e8f7f6c47",
-      "city:udon-thani": "31cc43dd299f"
+      "city:bueng-kan": "5a2d430f30c1",
+      "city:chanthaburi": "0dac9cb4a3d0",
+      "city:chiang-khan": "a2db23920e11",
+      "city:chiang-mai": "416fce873028",
+      "city:chiang-rai": "1fad46c5270f",
+      "city:chumphon": "ec38d1878711",
+      "city:hat-yai": "3b92d51784f5",
+      "city:hua-hin": "1e960d6524bb",
+      "city:kanchanaburi": "b4c9b71524fb",
+      "city:khon-kaen": "39c73428e996",
+      "city:koh-samui": "84a9a2662ecd",
+      "city:krabi": "6bbc2ac5a729",
+      "city:lampang": "b17624670776",
+      "city:lopburi": "d5fb652e63e2",
+      "city:mae-hong-son": "a6efc02412ef",
+      "city:mukdahan": "e0a71d9275b2",
+      "city:nakhon-phanom": "f27c27a25654",
+      "city:nakhon-ratchasima": "e775844fcb60",
+      "city:nakhon-si-thammarat": "4c77022b6dd8",
+      "city:nong-khai": "155c1e96b961",
+      "city:pai": "abc8abc391f7",
+      "city:pattaya": "8336a5914055",
+      "city:phitsanulok": "741c56530da0",
+      "city:phuket": "a4469e42e782",
+      "city:rayong": "15ccd371df59",
+      "city:sukhothai": "b2757a4a76bf",
+      "city:surat-thani": "ff41833915a9",
+      "city:trang": "11f370d6685b",
+      "city:trat": "e24e4b747406",
+      "city:ubon-ratchathani": "bde002b606e1",
+      "city:udon-thani": "82aad0a3264f"
     },
     "weather_coverage": 10,
     "transport_routes_count": 245,
@@ -77,17 +77,17 @@
       },
       "population": 75200,
       "scores": {
-        "budget_score": 0.5,
+        "budget_score": 0.56,
         "weather_score": 0.626,
         "transport_score": 0.464,
         "nomad_score": 0.52,
         "safety_score": 0.78,
-        "overall_score": 0.57
+        "overall_score": 0.58
       },
       "score_components": {
         "budget": {
-          "tier_budget_median_usd": 40,
-          "normalized": 0.5
+          "tier_budget_median_usd": 35,
+          "normalized": 0.56
         },
         "weather": {
           "comfort_score": 0.626,
@@ -100,25 +100,25 @@
       },
       "budget": {
         "raw": {
-          "budget": "$30-50 per day",
-          "mid": "$50-100 per day",
-          "luxury": "$100+ per day"
+          "budget": "$25-45 per day",
+          "mid": "$60-130 per day",
+          "luxury": "$180+ per day"
         },
         "currency": "USD",
         "tier_budget": {
-          "min": 30,
-          "max": 50,
-          "median": 40
+          "min": 25,
+          "max": 45,
+          "median": 35
         },
         "tier_mid": {
-          "min": 50,
-          "max": 100,
-          "median": 75
+          "min": 60,
+          "max": 130,
+          "median": 95
         },
         "tier_luxury": {
-          "min": 100,
+          "min": 180,
           "max": null,
-          "median": 150
+          "median": 270
         }
       },
       "weather": {
@@ -479,17 +479,17 @@
       },
       "population": 42000,
       "scores": {
-        "budget_score": 0.76,
+        "budget_score": 0.56,
         "weather_score": null,
         "transport_score": 0.132,
         "nomad_score": 0.32,
         "safety_score": 0.75,
-        "overall_score": 0.48
+        "overall_score": 0.41
       },
       "score_components": {
         "budget": {
-          "tier_budget_median_usd": 19,
-          "normalized": 0.76
+          "tier_budget_median_usd": 35,
+          "normalized": 0.56
         },
         "weather": {
           "comfort_score": null,
@@ -502,25 +502,25 @@
       },
       "budget": {
         "raw": {
-          "budget": "$12-25 per day",
-          "mid": "$25-50 per day",
-          "luxury": "$50-80+ per day"
+          "budget": "$25-45 per day",
+          "mid": "$50-110 per day",
+          "luxury": "$120-220 per day"
         },
         "currency": "USD",
         "tier_budget": {
-          "min": 12,
-          "max": 25,
-          "median": 19
+          "min": 25,
+          "max": 45,
+          "median": 35
         },
         "tier_mid": {
-          "min": 25,
-          "max": 50,
-          "median": 38
+          "min": 50,
+          "max": 110,
+          "median": 80
         },
         "tier_luxury": {
-          "min": 50,
-          "max": 80,
-          "median": 65
+          "min": 120,
+          "max": 220,
+          "median": 170
         }
       },
       "weather": null,
@@ -599,17 +599,17 @@
       },
       "population": 35897,
       "scores": {
-        "budget_score": 0.75,
+        "budget_score": 0.56,
         "weather_score": null,
         "transport_score": 0.189,
         "nomad_score": 0.42,
         "safety_score": 0.78,
-        "overall_score": 0.49
+        "overall_score": 0.43
       },
       "score_components": {
         "budget": {
-          "tier_budget_median_usd": 20,
-          "normalized": 0.75
+          "tier_budget_median_usd": 35,
+          "normalized": 0.56
         },
         "weather": {
           "comfort_score": null,
@@ -622,25 +622,25 @@
       },
       "budget": {
         "raw": {
-          "budget": "$15-25",
-          "mid": "$35-60",
-          "luxury": "$80+"
+          "budget": "$25-45 per day",
+          "mid": "$50-110 per day",
+          "luxury": "$120-240 per day"
         },
         "currency": "USD",
         "tier_budget": {
-          "min": 15,
-          "max": 25,
-          "median": 20
+          "min": 25,
+          "max": 45,
+          "median": 35
         },
         "tier_mid": {
-          "min": 35,
-          "max": 60,
-          "median": 48
+          "min": 50,
+          "max": 110,
+          "median": 80
         },
         "tier_luxury": {
-          "min": 80,
-          "max": null,
-          "median": 120
+          "min": 120,
+          "max": 240,
+          "median": 180
         }
       },
       "weather": null,
@@ -716,17 +716,17 @@
       },
       "population": 42000,
       "scores": {
-        "budget_score": 0.71,
+        "budget_score": 0.63,
         "weather_score": null,
         "transport_score": 0.208,
         "nomad_score": 0.42,
         "safety_score": 0.78,
-        "overall_score": 0.49
+        "overall_score": 0.46
       },
       "score_components": {
         "budget": {
-          "tier_budget_median_usd": 23,
-          "normalized": 0.71
+          "tier_budget_median_usd": 30,
+          "normalized": 0.63
         },
         "weather": {
           "comfort_score": null,
@@ -739,25 +739,25 @@
       },
       "budget": {
         "raw": {
-          "budget": "$15-30 per day",
-          "mid": "$30-60 per day",
-          "luxury": "$60-120+ per day"
+          "budget": "$20-40 per day",
+          "mid": "$45-95 per day",
+          "luxury": "$110-220 per day"
         },
         "currency": "USD",
         "tier_budget": {
-          "min": 15,
-          "max": 30,
-          "median": 23
+          "min": 20,
+          "max": 40,
+          "median": 30
         },
         "tier_mid": {
-          "min": 30,
-          "max": 60,
-          "median": 45
+          "min": 45,
+          "max": 95,
+          "median": 70
         },
         "tier_luxury": {
-          "min": 60,
-          "max": 120,
-          "median": 90
+          "min": 110,
+          "max": 220,
+          "median": 165
         }
       },
       "weather": null,
@@ -834,19 +834,19 @@
         "lat": 18.7883,
         "lng": 98.9853
       },
-      "population": 1100000,
+      "population": 127240,
       "scores": {
-        "budget_score": 0.5,
+        "budget_score": 0.56,
         "weather_score": 0.647,
         "transport_score": 0.722,
         "nomad_score": 0.62,
         "safety_score": 0.78,
-        "overall_score": 0.64
+        "overall_score": 0.66
       },
       "score_components": {
         "budget": {
-          "tier_budget_median_usd": 40,
-          "normalized": 0.5
+          "tier_budget_median_usd": 35,
+          "normalized": 0.56
         },
         "weather": {
           "comfort_score": 0.647,
@@ -859,25 +859,25 @@
       },
       "budget": {
         "raw": {
-          "budget": "$30-50 per day",
-          "mid": "$50-100 per day",
-          "luxury": "$100+ per day"
+          "budget": "$25-45 per day",
+          "mid": "$60-130 per day",
+          "luxury": "$180+ per day"
         },
         "currency": "USD",
         "tier_budget": {
-          "min": 30,
-          "max": 50,
-          "median": 40
+          "min": 25,
+          "max": 45,
+          "median": 35
         },
         "tier_mid": {
-          "min": 50,
-          "max": 100,
-          "median": 75
+          "min": 60,
+          "max": 130,
+          "median": 95
         },
         "tier_luxury": {
-          "min": 100,
+          "min": 180,
           "max": null,
-          "median": 150
+          "median": 270
         }
       },
       "weather": {
@@ -1041,17 +1041,17 @@
       },
       "population": 75847,
       "scores": {
-        "budget_score": 0.5,
+        "budget_score": 0.56,
         "weather_score": 0.618,
         "transport_score": 0.3,
         "nomad_score": 0.54,
         "safety_score": 0.78,
-        "overall_score": 0.54
+        "overall_score": 0.55
       },
       "score_components": {
         "budget": {
-          "tier_budget_median_usd": 40,
-          "normalized": 0.5
+          "tier_budget_median_usd": 35,
+          "normalized": 0.56
         },
         "weather": {
           "comfort_score": 0.618,
@@ -1064,25 +1064,25 @@
       },
       "budget": {
         "raw": {
-          "budget": "$30-50 per day",
-          "mid": "$50-100 per day",
-          "luxury": "$100+ per day"
+          "budget": "$25-45 per day",
+          "mid": "$55-120 per day",
+          "luxury": "$130-260 per day"
         },
         "currency": "USD",
         "tier_budget": {
-          "min": 30,
-          "max": 50,
-          "median": 40
+          "min": 25,
+          "max": 45,
+          "median": 35
         },
         "tier_mid": {
-          "min": 50,
-          "max": 100,
-          "median": 75
+          "min": 55,
+          "max": 120,
+          "median": 88
         },
         "tier_luxury": {
-          "min": 100,
-          "max": null,
-          "median": 150
+          "min": 130,
+          "max": 260,
+          "median": 195
         }
       },
       "weather": {
@@ -1230,17 +1230,17 @@
       },
       "population": 34000,
       "scores": {
-        "budget_score": 0.75,
+        "budget_score": 0.63,
         "weather_score": null,
         "transport_score": 0.161,
         "nomad_score": 0.32,
         "safety_score": 0.72,
-        "overall_score": 0.49
+        "overall_score": 0.44
       },
       "score_components": {
         "budget": {
-          "tier_budget_median_usd": 20,
-          "normalized": 0.75
+          "tier_budget_median_usd": 30,
+          "normalized": 0.63
         },
         "weather": {
           "comfort_score": null,
@@ -1253,25 +1253,25 @@
       },
       "budget": {
         "raw": {
-          "budget": "$15-25",
-          "mid": "$35-60",
-          "luxury": "$100+"
+          "budget": "$20-40 per day",
+          "mid": "$45-95 per day",
+          "luxury": "$110-220 per day"
         },
         "currency": "USD",
         "tier_budget": {
-          "min": 15,
-          "max": 25,
-          "median": 20
+          "min": 20,
+          "max": 40,
+          "median": 30
         },
         "tier_mid": {
-          "min": 35,
-          "max": 60,
-          "median": 48
+          "min": 45,
+          "max": 95,
+          "median": 70
         },
         "tier_luxury": {
-          "min": 100,
-          "max": null,
-          "median": 150
+          "min": 110,
+          "max": 220,
+          "median": 165
         }
       },
       "weather": null,
@@ -1335,10 +1335,10 @@
         "th": "หาดใหญ่",
         "de": "Hat Yai",
         "fr": "Hat Yai",
-        "ru": "Hat Yai",
-        "zh": "Hat Yai"
+        "ru": "Хатъяй",
+        "zh": "合艾"
       },
-      "image": "/images/cities/bangkok/business-district-bangkok.webp",
+      "image": "/images/cities/generated/hat-yai.webp",
       "region": {
         "slug": "southern",
         "name": {
@@ -1352,17 +1352,17 @@
       },
       "population": 157000,
       "scores": {
-        "budget_score": 0.5,
+        "budget_score": 0.56,
         "weather_score": 0.569,
         "transport_score": 0.161,
         "nomad_score": 0.52,
         "safety_score": 0.75,
-        "overall_score": 0.49
+        "overall_score": 0.5
       },
       "score_components": {
         "budget": {
-          "tier_budget_median_usd": 40,
-          "normalized": 0.5
+          "tier_budget_median_usd": 35,
+          "normalized": 0.56
         },
         "weather": {
           "comfort_score": 0.569,
@@ -1375,25 +1375,25 @@
       },
       "budget": {
         "raw": {
-          "budget": "$30-50 per day",
-          "mid": "$50-100 per day",
-          "luxury": "$100+ per day"
+          "budget": "$25-45 per day",
+          "mid": "$55-110 per day",
+          "luxury": "$125-240 per day"
         },
         "currency": "USD",
         "tier_budget": {
-          "min": 30,
-          "max": 50,
-          "median": 40
+          "min": 25,
+          "max": 45,
+          "median": 35
         },
         "tier_mid": {
-          "min": 50,
-          "max": 100,
-          "median": 75
+          "min": 55,
+          "max": 110,
+          "median": 83
         },
         "tier_luxury": {
-          "min": 100,
-          "max": null,
-          "median": 150
+          "min": 125,
+          "max": 240,
+          "median": 183
         }
       },
       "weather": {
@@ -1499,19 +1499,19 @@
         "lat": 12.5684,
         "lng": 99.9577
       },
-      "population": 86000,
+      "population": 60000,
       "scores": {
-        "budget_score": 0.59,
+        "budget_score": 0.4,
         "weather_score": null,
         "transport_score": 0.517,
         "nomad_score": 0.28,
         "safety_score": 0.78,
-        "overall_score": 0.54
+        "overall_score": 0.47
       },
       "score_components": {
         "budget": {
-          "tier_budget_median_usd": 33,
-          "normalized": 0.59
+          "tier_budget_median_usd": 48,
+          "normalized": 0.4
         },
         "weather": {
           "comfort_score": null,
@@ -1524,25 +1524,25 @@
       },
       "budget": {
         "raw": {
-          "budget": "$25-40",
-          "mid": "$60-100",
-          "luxury": "$200+"
+          "budget": "$35-60 per day",
+          "mid": "$80-160 per day",
+          "luxury": "$190-420 per day"
         },
         "currency": "USD",
         "tier_budget": {
-          "min": 25,
-          "max": 40,
-          "median": 33
+          "min": 35,
+          "max": 60,
+          "median": 48
         },
         "tier_mid": {
-          "min": 60,
-          "max": 100,
-          "median": 80
+          "min": 80,
+          "max": 160,
+          "median": 120
         },
         "tier_luxury": {
-          "min": 200,
-          "max": null,
-          "median": 300
+          "min": 190,
+          "max": 420,
+          "median": 305
         }
       },
       "weather": null,
@@ -1678,17 +1678,17 @@
       },
       "population": 31242,
       "scores": {
-        "budget_score": 0.65,
+        "budget_score": 0.56,
         "weather_score": null,
         "transport_score": 0.407,
         "nomad_score": 0.52,
         "safety_score": 0.78,
-        "overall_score": 0.52
+        "overall_score": 0.49
       },
       "score_components": {
         "budget": {
-          "tier_budget_median_usd": 28,
-          "normalized": 0.65
+          "tier_budget_median_usd": 35,
+          "normalized": 0.56
         },
         "weather": {
           "comfort_score": null,
@@ -1701,25 +1701,25 @@
       },
       "budget": {
         "raw": {
-          "budget": "$20-35",
-          "mid": "$50-80",
-          "luxury": "$150+"
+          "budget": "$25-45 per day",
+          "mid": "$55-120 per day",
+          "luxury": "$140-320 per day"
         },
         "currency": "USD",
         "tier_budget": {
-          "min": 20,
-          "max": 35,
-          "median": 28
+          "min": 25,
+          "max": 45,
+          "median": 35
         },
         "tier_mid": {
-          "min": 50,
-          "max": 80,
-          "median": 65
+          "min": 55,
+          "max": 120,
+          "median": 88
         },
         "tier_luxury": {
-          "min": 150,
-          "max": null,
-          "median": 225
+          "min": 140,
+          "max": 320,
+          "median": 230
         }
       },
       "weather": null,
@@ -1850,17 +1850,17 @@
       },
       "population": 400000,
       "scores": {
-        "budget_score": 0.69,
+        "budget_score": 0.63,
         "weather_score": null,
         "transport_score": 0.237,
         "nomad_score": 0.52,
         "safety_score": 0.75,
-        "overall_score": 0.49
+        "overall_score": 0.47
       },
       "score_components": {
         "budget": {
-          "tier_budget_median_usd": 25,
-          "normalized": 0.69
+          "tier_budget_median_usd": 30,
+          "normalized": 0.63
         },
         "weather": {
           "comfort_score": null,
@@ -1873,25 +1873,25 @@
       },
       "budget": {
         "raw": {
-          "budget": "$20-30",
-          "mid": "$50-80",
-          "luxury": "$150+"
+          "budget": "$20-40 per day",
+          "mid": "$45-110 per day",
+          "luxury": "$120-240 per day"
         },
         "currency": "USD",
         "tier_budget": {
           "min": 20,
-          "max": 30,
-          "median": 25
+          "max": 40,
+          "median": 30
         },
         "tier_mid": {
-          "min": 50,
-          "max": 80,
-          "median": 65
+          "min": 45,
+          "max": 110,
+          "median": 78
         },
         "tier_luxury": {
-          "min": 150,
-          "max": null,
-          "median": 225
+          "min": 120,
+          "max": 240,
+          "median": 180
         }
       },
       "weather": null,
@@ -1975,17 +1975,17 @@
       },
       "population": 63000,
       "scores": {
-        "budget_score": 0.59,
+        "budget_score": 0.21,
         "weather_score": null,
         "transport_score": 0.356,
         "nomad_score": 0.37,
         "safety_score": 0.75,
-        "overall_score": 0.49
+        "overall_score": 0.36
       },
       "score_components": {
         "budget": {
-          "tier_budget_median_usd": 33,
-          "normalized": 0.59
+          "tier_budget_median_usd": 63,
+          "normalized": 0.21
         },
         "weather": {
           "comfort_score": null,
@@ -1998,25 +1998,25 @@
       },
       "budget": {
         "raw": {
-          "budget": "$25-40",
-          "mid": "$60-120",
-          "luxury": "$200+"
+          "budget": "$45-80 per day",
+          "mid": "$120-260 per day",
+          "luxury": "$350-900 per day"
         },
         "currency": "USD",
         "tier_budget": {
-          "min": 25,
-          "max": 40,
-          "median": 33
+          "min": 45,
+          "max": 80,
+          "median": 63
         },
         "tier_mid": {
-          "min": 60,
-          "max": 120,
-          "median": 90
+          "min": 120,
+          "max": 260,
+          "median": 190
         },
         "tier_luxury": {
-          "min": 200,
-          "max": null,
-          "median": 300
+          "min": 350,
+          "max": 900,
+          "median": 625
         }
       },
       "weather": null,
@@ -2145,17 +2145,17 @@
       },
       "population": 36000,
       "scores": {
-        "budget_score": 0.5,
+        "budget_score": 0,
         "weather_score": 0.534,
         "transport_score": 0.464,
         "nomad_score": 0.46,
         "safety_score": 0.78,
-        "overall_score": 0.54
+        "overall_score": 0.41
       },
       "score_components": {
         "budget": {
-          "tier_budget_median_usd": 40,
-          "normalized": 0.5
+          "tier_budget_median_usd": 1800,
+          "normalized": 0
         },
         "weather": {
           "comfort_score": 0.534,
@@ -2168,25 +2168,25 @@
       },
       "budget": {
         "raw": {
-          "budget": "$30-50 per day",
-          "mid": "$50-100 per day",
-          "luxury": "$100+ per day"
+          "budget": "$1300-2300 per day",
+          "mid": "$3000-6500 per day",
+          "luxury": "$9000-25000+ per day"
         },
         "currency": "USD",
         "tier_budget": {
-          "min": 30,
-          "max": 50,
-          "median": 40
+          "min": 1300,
+          "max": 2300,
+          "median": 1800
         },
         "tier_mid": {
-          "min": 50,
-          "max": 100,
-          "median": 75
+          "min": 3000,
+          "max": 6500,
+          "median": 4750
         },
         "tier_luxury": {
-          "min": 100,
-          "max": null,
-          "median": 150
+          "min": 9000,
+          "max": 25000,
+          "median": 17000
         }
       },
       "weather": {
@@ -2340,17 +2340,17 @@
       },
       "population": 59000,
       "scores": {
-        "budget_score": 0.75,
+        "budget_score": 0,
         "weather_score": null,
         "transport_score": 0.18,
         "nomad_score": 0.42,
         "safety_score": 0.78,
-        "overall_score": 0.49
+        "overall_score": 0.23
       },
       "score_components": {
         "budget": {
-          "tier_budget_median_usd": 20,
-          "normalized": 0.75
+          "tier_budget_median_usd": 1650,
+          "normalized": 0
         },
         "weather": {
           "comfort_score": null,
@@ -2363,25 +2363,25 @@
       },
       "budget": {
         "raw": {
-          "budget": "$15-25",
-          "mid": "$40-70",
-          "luxury": "$100+"
+          "budget": "$1100-2200 per day",
+          "mid": "$2600-5500 per day",
+          "luxury": "$7000-16000+ per day"
         },
         "currency": "USD",
         "tier_budget": {
-          "min": 15,
-          "max": 25,
-          "median": 20
+          "min": 1100,
+          "max": 2200,
+          "median": 1650
         },
         "tier_mid": {
-          "min": 40,
-          "max": 70,
-          "median": 55
+          "min": 2600,
+          "max": 5500,
+          "median": 4050
         },
         "tier_luxury": {
-          "min": 100,
-          "max": null,
-          "median": 150
+          "min": 7000,
+          "max": 16000,
+          "median": 11500
         }
       },
       "weather": null,
@@ -2461,17 +2461,17 @@
       },
       "population": 58000,
       "scores": {
-        "budget_score": 0.75,
+        "budget_score": 0,
         "weather_score": null,
         "transport_score": 0.256,
         "nomad_score": 0.42,
         "safety_score": 0.75,
-        "overall_score": 0.51
+        "overall_score": 0.25
       },
       "score_components": {
         "budget": {
-          "tier_budget_median_usd": 20,
-          "normalized": 0.75
+          "tier_budget_median_usd": 1850,
+          "normalized": 0
         },
         "weather": {
           "comfort_score": null,
@@ -2484,25 +2484,25 @@
       },
       "budget": {
         "raw": {
-          "budget": "$15-25",
-          "mid": "$35-60",
-          "luxury": "$80+"
+          "budget": "$1200-2500 per day",
+          "mid": "$2800-5800 per day",
+          "luxury": "$6500-14000+ per day"
         },
         "currency": "USD",
         "tier_budget": {
-          "min": 15,
-          "max": 25,
-          "median": 20
+          "min": 1200,
+          "max": 2500,
+          "median": 1850
         },
         "tier_mid": {
-          "min": 35,
-          "max": 60,
-          "median": 48
+          "min": 2800,
+          "max": 5800,
+          "median": 4300
         },
         "tier_luxury": {
-          "min": 80,
-          "max": null,
-          "median": 120
+          "min": 6500,
+          "max": 14000,
+          "median": 10250
         }
       },
       "weather": null,
@@ -2565,8 +2565,8 @@
         "th": "แม่ฮ่องสอน",
         "de": "Mae Hong Son",
         "fr": "Mae Hong Son",
-        "ru": "Mae Hong Son",
-        "zh": "Mae Hong Son"
+        "ru": "Мэ Хонг Сон",
+        "zh": "夜丰颂"
       },
       "image": "/images/cities/generated/mae-hong-son.webp",
       "region": {
@@ -2582,17 +2582,17 @@
       },
       "population": 10000,
       "scores": {
-        "budget_score": 0.75,
+        "budget_score": 0,
         "weather_score": null,
         "transport_score": 0.123,
         "nomad_score": 0.38,
         "safety_score": 0.78,
-        "overall_score": 0.47
+        "overall_score": 0.21
       },
       "score_components": {
         "budget": {
-          "tier_budget_median_usd": 20,
-          "normalized": 0.75
+          "tier_budget_median_usd": 2150,
+          "normalized": 0
         },
         "weather": {
           "comfort_score": null,
@@ -2605,25 +2605,25 @@
       },
       "budget": {
         "raw": {
-          "budget": "$15-25",
-          "mid": "$40-70",
-          "luxury": "$100+"
+          "budget": "$1500-2800 per day",
+          "mid": "$3200-6800 per day",
+          "luxury": "$7500-15000+ per day"
         },
         "currency": "USD",
         "tier_budget": {
-          "min": 15,
-          "max": 25,
-          "median": 20
+          "min": 1500,
+          "max": 2800,
+          "median": 2150
         },
         "tier_mid": {
-          "min": 40,
-          "max": 70,
-          "median": 55
+          "min": 3200,
+          "max": 6800,
+          "median": 5000
         },
         "tier_luxury": {
-          "min": 100,
-          "max": null,
-          "median": 150
+          "min": 7500,
+          "max": 15000,
+          "median": 11250
         }
       },
       "weather": null,
@@ -2697,17 +2697,17 @@
       },
       "population": 35000,
       "scores": {
-        "budget_score": 0.75,
+        "budget_score": null,
         "weather_score": null,
         "transport_score": 0.132,
         "nomad_score": 0.32,
         "safety_score": 0.75,
-        "overall_score": 0.48
+        "overall_score": null
       },
       "score_components": {
         "budget": {
-          "tier_budget_median_usd": 20,
-          "normalized": 0.75
+          "tier_budget_median_usd": null,
+          "normalized": null
         },
         "weather": {
           "comfort_score": null,
@@ -2720,26 +2720,14 @@
       },
       "budget": {
         "raw": {
-          "budget": "$15-25 per day",
-          "mid": "$25-50 per day",
-          "luxury": "$50-100+ per day"
+          "budget": null,
+          "mid": null,
+          "luxury": null
         },
         "currency": "USD",
-        "tier_budget": {
-          "min": 15,
-          "max": 25,
-          "median": 20
-        },
-        "tier_mid": {
-          "min": 25,
-          "max": 50,
-          "median": 38
-        },
-        "tier_luxury": {
-          "min": 50,
-          "max": 100,
-          "median": 75
-        }
+        "tier_budget": null,
+        "tier_mid": null,
+        "tier_luxury": null
       },
       "weather": null,
       "transport": {
@@ -2811,17 +2799,17 @@
       },
       "population": 80000,
       "scores": {
-        "budget_score": 0.75,
+        "budget_score": null,
         "weather_score": null,
         "transport_score": 0.132,
         "nomad_score": 0.32,
         "safety_score": 0.75,
-        "overall_score": 0.48
+        "overall_score": null
       },
       "score_components": {
         "budget": {
-          "tier_budget_median_usd": 20,
-          "normalized": 0.75
+          "tier_budget_median_usd": null,
+          "normalized": null
         },
         "weather": {
           "comfort_score": null,
@@ -2834,26 +2822,14 @@
       },
       "budget": {
         "raw": {
-          "budget": "$15-25 per day",
-          "mid": "$30-60 per day",
-          "luxury": "$60-100+ per day"
+          "budget": null,
+          "mid": null,
+          "luxury": null
         },
         "currency": "USD",
-        "tier_budget": {
-          "min": 15,
-          "max": 25,
-          "median": 20
-        },
-        "tier_mid": {
-          "min": 30,
-          "max": 60,
-          "median": 45
-        },
-        "tier_luxury": {
-          "min": 60,
-          "max": 100,
-          "median": 80
-        }
+        "tier_budget": null,
+        "tier_mid": null,
+        "tier_luxury": null
       },
       "weather": null,
       "transport": {
@@ -2915,8 +2891,8 @@
         "th": "นครราชสีมา",
         "de": "Nakhon Ratchasima (Korat)",
         "fr": "Nakhon Ratchasima (Korat)",
-        "ru": "Nakhon Ratchasima (Korat)",
-        "zh": "Nakhon Ratchasima (Korat)"
+        "ru": "Накхонратчасима (Корат)",
+        "zh": "呵叻府府城那空叻差是玛（Korat）"
       },
       "image": "/images/cities/generated/nakhon-ratchasima.webp",
       "region": {
@@ -2932,17 +2908,17 @@
       },
       "population": 461000,
       "scores": {
-        "budget_score": 0.69,
+        "budget_score": null,
         "weather_score": null,
         "transport_score": 0.246,
         "nomad_score": 0.63,
         "safety_score": 0.75,
-        "overall_score": 0.49
+        "overall_score": null
       },
       "score_components": {
         "budget": {
-          "tier_budget_median_usd": 25,
-          "normalized": 0.69
+          "tier_budget_median_usd": null,
+          "normalized": null
         },
         "weather": {
           "comfort_score": null,
@@ -2955,26 +2931,14 @@
       },
       "budget": {
         "raw": {
-          "budget": "$20-30",
-          "mid": "$50-80",
-          "luxury": "$150+"
+          "budget": null,
+          "mid": null,
+          "luxury": null
         },
         "currency": "USD",
-        "tier_budget": {
-          "min": 20,
-          "max": 30,
-          "median": 25
-        },
-        "tier_mid": {
-          "min": 50,
-          "max": 80,
-          "median": 65
-        },
-        "tier_luxury": {
-          "min": 150,
-          "max": null,
-          "median": 225
-        }
+        "tier_budget": null,
+        "tier_mid": null,
+        "tier_luxury": null
       },
       "weather": null,
       "transport": {
@@ -3042,8 +3006,8 @@
         "th": "นครศรีธรรมราช",
         "de": "Nakhon Si Thammarat",
         "fr": "Nakhon Si Thammarat",
-        "ru": "Nakhon Si Thammarat",
-        "zh": "Nakhon Si Thammarat"
+        "ru": "Накхон Си Тхаммарат",
+        "zh": "洛坤府府城那空是贪玛叻"
       },
       "image": "/images/cities/generated/nakhon-si-thammarat.webp",
       "region": {
@@ -3059,17 +3023,17 @@
       },
       "population": 105000,
       "scores": {
-        "budget_score": 0.75,
+        "budget_score": null,
         "weather_score": null,
         "transport_score": 0.18,
         "nomad_score": 0.42,
         "safety_score": 0.75,
-        "overall_score": 0.49
+        "overall_score": null
       },
       "score_components": {
         "budget": {
-          "tier_budget_median_usd": 20,
-          "normalized": 0.75
+          "tier_budget_median_usd": null,
+          "normalized": null
         },
         "weather": {
           "comfort_score": null,
@@ -3082,26 +3046,14 @@
       },
       "budget": {
         "raw": {
-          "budget": "$15-25",
-          "mid": "$35-60",
-          "luxury": "$80+"
+          "budget": null,
+          "mid": null,
+          "luxury": null
         },
         "currency": "USD",
-        "tier_budget": {
-          "min": 15,
-          "max": 25,
-          "median": 20
-        },
-        "tier_mid": {
-          "min": 35,
-          "max": 60,
-          "median": 48
-        },
-        "tier_luxury": {
-          "min": 80,
-          "max": null,
-          "median": 120
-        }
+        "tier_budget": null,
+        "tier_mid": null,
+        "tier_luxury": null
       },
       "weather": null,
       "transport": {
@@ -3168,7 +3120,7 @@
         "ru": "Nong Khai",
         "zh": "Nong Khai"
       },
-      "image": "/images/cities/bangkok/downtown-bangkok.webp",
+      "image": "/images/cities/generated/nong-khai.webp",
       "region": null,
       "location": {
         "lat": 17.8783,
@@ -3176,17 +3128,17 @@
       },
       "population": 47000,
       "scores": {
-        "budget_score": 0.76,
+        "budget_score": null,
         "weather_score": null,
         "transport_score": 0.151,
         "nomad_score": 0.42,
         "safety_score": 0.78,
-        "overall_score": 0.49
+        "overall_score": null
       },
       "score_components": {
         "budget": {
-          "tier_budget_median_usd": 19,
-          "normalized": 0.76
+          "tier_budget_median_usd": null,
+          "normalized": null
         },
         "weather": {
           "comfort_score": null,
@@ -3199,26 +3151,14 @@
       },
       "budget": {
         "raw": {
-          "budget": "$12-25 per day",
-          "mid": "$25-50 per day",
-          "luxury": "$50-100+ per day"
+          "budget": null,
+          "mid": null,
+          "luxury": null
         },
         "currency": "USD",
-        "tier_budget": {
-          "min": 12,
-          "max": 25,
-          "median": 19
-        },
-        "tier_mid": {
-          "min": 25,
-          "max": 50,
-          "median": 38
-        },
-        "tier_luxury": {
-          "min": 50,
-          "max": 100,
-          "median": 75
-        }
+        "tier_budget": null,
+        "tier_mid": null,
+        "tier_luxury": null
       },
       "weather": null,
       "transport": {
@@ -3296,17 +3236,17 @@
       },
       "population": 2200,
       "scores": {
-        "budget_score": 0.75,
+        "budget_score": null,
         "weather_score": null,
         "transport_score": 0.246,
         "nomad_score": 0.47,
         "safety_score": 0.78,
-        "overall_score": 0.51
+        "overall_score": null
       },
       "score_components": {
         "budget": {
-          "tier_budget_median_usd": 20,
-          "normalized": 0.75
+          "tier_budget_median_usd": null,
+          "normalized": null
         },
         "weather": {
           "comfort_score": null,
@@ -3319,26 +3259,14 @@
       },
       "budget": {
         "raw": {
-          "budget": "$15-25",
-          "mid": "$40-70",
-          "luxury": "$120+"
+          "budget": null,
+          "mid": null,
+          "luxury": null
         },
         "currency": "USD",
-        "tier_budget": {
-          "min": 15,
-          "max": 25,
-          "median": 20
-        },
-        "tier_mid": {
-          "min": 40,
-          "max": 70,
-          "median": 55
-        },
-        "tier_luxury": {
-          "min": 120,
-          "max": null,
-          "median": 180
-        }
+        "tier_budget": null,
+        "tier_mid": null,
+        "tier_luxury": null
       },
       "weather": null,
       "transport": {
@@ -3446,19 +3374,19 @@
         "lat": 12.9236,
         "lng": 100.8825
       },
-      "population": 119000,
+      "population": 119532,
       "scores": {
-        "budget_score": 0.5,
+        "budget_score": 0.46,
         "weather_score": 0.625,
         "transport_score": 0.492,
         "nomad_score": 0.38,
         "safety_score": 0.72,
-        "overall_score": 0.54
+        "overall_score": 0.53
       },
       "score_components": {
         "budget": {
-          "tier_budget_median_usd": 40,
-          "normalized": 0.5
+          "tier_budget_median_usd": 43,
+          "normalized": 0.46
         },
         "weather": {
           "comfort_score": 0.625,
@@ -3471,25 +3399,25 @@
       },
       "budget": {
         "raw": {
-          "budget": "$30-50 per day",
-          "mid": "$50-100 per day",
-          "luxury": "$100+ per day"
+          "budget": "$30-55 per day",
+          "mid": "$80-160 per day",
+          "luxury": "$220+ per day"
         },
         "currency": "USD",
         "tier_budget": {
           "min": 30,
-          "max": 50,
-          "median": 40
+          "max": 55,
+          "median": 43
         },
         "tier_mid": {
-          "min": 50,
-          "max": 100,
-          "median": 75
+          "min": 80,
+          "max": 160,
+          "median": 120
         },
         "tier_luxury": {
-          "min": 100,
+          "min": 220,
           "max": null,
-          "median": 150
+          "median": 330
         }
       },
       "weather": {
@@ -3649,17 +3577,17 @@
       },
       "population": 84000,
       "scores": {
-        "budget_score": 0.75,
+        "budget_score": null,
         "weather_score": null,
         "transport_score": 0.227,
         "nomad_score": 0.42,
         "safety_score": 0.78,
-        "overall_score": 0.51
+        "overall_score": null
       },
       "score_components": {
         "budget": {
-          "tier_budget_median_usd": 20,
-          "normalized": 0.75
+          "tier_budget_median_usd": null,
+          "normalized": null
         },
         "weather": {
           "comfort_score": null,
@@ -3672,26 +3600,14 @@
       },
       "budget": {
         "raw": {
-          "budget": "$15-25",
-          "mid": "$40-70",
-          "luxury": "$100+"
+          "budget": null,
+          "mid": null,
+          "luxury": null
         },
         "currency": "USD",
-        "tier_budget": {
-          "min": 15,
-          "max": 25,
-          "median": 20
-        },
-        "tier_mid": {
-          "min": 40,
-          "max": 70,
-          "median": 55
-        },
-        "tier_luxury": {
-          "min": 100,
-          "max": null,
-          "median": 150
-        }
+        "tier_budget": null,
+        "tier_mid": null,
+        "tier_luxury": null
       },
       "weather": null,
       "transport": {
@@ -3769,19 +3685,19 @@
         "lat": 7.8804,
         "lng": 98.3923
       },
-      "population": 443000,
+      "population": 410211,
       "scores": {
-        "budget_score": 0.5,
+        "budget_score": 0.4,
         "weather_score": 0.519,
         "transport_score": 0.577,
         "nomad_score": 0.49,
         "safety_score": 0.75,
-        "overall_score": 0.56
+        "overall_score": 0.53
       },
       "score_components": {
         "budget": {
-          "tier_budget_median_usd": 40,
-          "normalized": 0.5
+          "tier_budget_median_usd": 48,
+          "normalized": 0.4
         },
         "weather": {
           "comfort_score": 0.519,
@@ -3794,25 +3710,25 @@
       },
       "budget": {
         "raw": {
-          "budget": "$30-50 per day",
-          "mid": "$50-100 per day",
-          "luxury": "$100+ per day"
+          "budget": "$35-60 per day",
+          "mid": "$90-180 per day",
+          "luxury": "$250+ per day"
         },
         "currency": "USD",
         "tier_budget": {
-          "min": 30,
-          "max": 50,
-          "median": 40
+          "min": 35,
+          "max": 60,
+          "median": 48
         },
         "tier_mid": {
-          "min": 50,
-          "max": 100,
-          "median": 75
+          "min": 90,
+          "max": 180,
+          "median": 135
         },
         "tier_luxury": {
-          "min": 100,
+          "min": 250,
           "max": null,
-          "median": 150
+          "median": 375
         }
       },
       "weather": {
@@ -3970,17 +3886,17 @@
       },
       "population": 65000,
       "scores": {
-        "budget_score": 0.65,
+        "budget_score": null,
         "weather_score": null,
         "transport_score": 0.218,
         "nomad_score": 0.52,
         "safety_score": 0.75,
-        "overall_score": 0.47
+        "overall_score": null
       },
       "score_components": {
         "budget": {
-          "tier_budget_median_usd": 28,
-          "normalized": 0.65
+          "tier_budget_median_usd": null,
+          "normalized": null
         },
         "weather": {
           "comfort_score": null,
@@ -3993,26 +3909,14 @@
       },
       "budget": {
         "raw": {
-          "budget": "$20-35",
-          "mid": "$50-90",
-          "luxury": "$150+"
+          "budget": null,
+          "mid": null,
+          "luxury": null
         },
         "currency": "USD",
-        "tier_budget": {
-          "min": 20,
-          "max": 35,
-          "median": 28
-        },
-        "tier_mid": {
-          "min": 50,
-          "max": 90,
-          "median": 70
-        },
-        "tier_luxury": {
-          "min": 150,
-          "max": null,
-          "median": 225
-        }
+        "tier_budget": null,
+        "tier_mid": null,
+        "tier_luxury": null
       },
       "weather": null,
       "transport": {
@@ -4097,17 +4001,17 @@
       },
       "population": 37000,
       "scores": {
-        "budget_score": 0.5,
+        "budget_score": null,
         "weather_score": 0.649,
         "transport_score": 0.151,
         "nomad_score": 0.42,
         "safety_score": 0.78,
-        "overall_score": 0.5
+        "overall_score": null
       },
       "score_components": {
         "budget": {
-          "tier_budget_median_usd": 40,
-          "normalized": 0.5
+          "tier_budget_median_usd": null,
+          "normalized": null
         },
         "weather": {
           "comfort_score": 0.649,
@@ -4120,26 +4024,14 @@
       },
       "budget": {
         "raw": {
-          "budget": "$30-50 per day",
-          "mid": "$50-100 per day",
-          "luxury": "$100+ per day"
+          "budget": null,
+          "mid": null,
+          "luxury": null
         },
         "currency": "USD",
-        "tier_budget": {
-          "min": 30,
-          "max": 50,
-          "median": 40
-        },
-        "tier_mid": {
-          "min": 50,
-          "max": 100,
-          "median": 75
-        },
-        "tier_luxury": {
-          "min": 100,
-          "max": null,
-          "median": 150
-        }
+        "tier_budget": null,
+        "tier_mid": null,
+        "tier_luxury": null
       },
       "weather": {
         "raw_best_time_text": "",
@@ -4228,7 +4120,7 @@
         "de": "Surat Thani",
         "fr": "Surat Thani",
         "ru": "Surat Thani",
-        "zh": "Surat Thani"
+        "zh": "素叻他尼"
       },
       "image": "/images/cities/generated/surat-thani.webp",
       "region": {
@@ -4244,17 +4136,17 @@
       },
       "population": 132000,
       "scores": {
-        "budget_score": 0.5,
+        "budget_score": null,
         "weather_score": 0.589,
         "transport_score": 0.18,
         "nomad_score": 0.42,
         "safety_score": 0.75,
-        "overall_score": 0.48
+        "overall_score": null
       },
       "score_components": {
         "budget": {
-          "tier_budget_median_usd": 40,
-          "normalized": 0.5
+          "tier_budget_median_usd": null,
+          "normalized": null
         },
         "weather": {
           "comfort_score": 0.589,
@@ -4267,26 +4159,14 @@
       },
       "budget": {
         "raw": {
-          "budget": "$30-50 per day",
-          "mid": "$50-100 per day",
-          "luxury": "$100+ per day"
+          "budget": null,
+          "mid": null,
+          "luxury": null
         },
         "currency": "USD",
-        "tier_budget": {
-          "min": 30,
-          "max": 50,
-          "median": 40
-        },
-        "tier_mid": {
-          "min": 50,
-          "max": 100,
-          "median": 75
-        },
-        "tier_luxury": {
-          "min": 100,
-          "max": null,
-          "median": 150
-        }
+        "tier_budget": null,
+        "tier_mid": null,
+        "tier_luxury": null
       },
       "weather": {
         "raw_best_time_text": "",
@@ -4394,17 +4274,17 @@
       },
       "population": 65000,
       "scores": {
-        "budget_score": 0.75,
+        "budget_score": null,
         "weather_score": null,
         "transport_score": 0.161,
         "nomad_score": 0.42,
         "safety_score": 0.75,
-        "overall_score": 0.49
+        "overall_score": null
       },
       "score_components": {
         "budget": {
-          "tier_budget_median_usd": 20,
-          "normalized": 0.75
+          "tier_budget_median_usd": null,
+          "normalized": null
         },
         "weather": {
           "comfort_score": null,
@@ -4417,26 +4297,14 @@
       },
       "budget": {
         "raw": {
-          "budget": "$15-25",
-          "mid": "$40-70",
-          "luxury": "$120+"
+          "budget": null,
+          "mid": null,
+          "luxury": null
         },
         "currency": "USD",
-        "tier_budget": {
-          "min": 15,
-          "max": 25,
-          "median": 20
-        },
-        "tier_mid": {
-          "min": 40,
-          "max": 70,
-          "median": 55
-        },
-        "tier_luxury": {
-          "min": 120,
-          "max": null,
-          "median": 180
-        }
+        "tier_budget": null,
+        "tier_mid": null,
+        "tier_luxury": null
       },
       "weather": null,
       "transport": {
@@ -4499,8 +4367,8 @@
         "th": "ตราด",
         "de": "Trat",
         "fr": "Trat",
-        "ru": "Трат",
-        "zh": "特拉特"
+        "ru": "Trat",
+        "zh": "Trat"
       },
       "image": "/images/cities/generated/trat.webp",
       "region": {
@@ -4516,17 +4384,17 @@
       },
       "population": 22000,
       "scores": {
-        "budget_score": 0.59,
+        "budget_score": null,
         "weather_score": null,
         "transport_score": 0.123,
         "nomad_score": 0.38,
         "safety_score": 0.75,
-        "overall_score": 0.42
+        "overall_score": null
       },
       "score_components": {
         "budget": {
-          "tier_budget_median_usd": 33,
-          "normalized": 0.59
+          "tier_budget_median_usd": null,
+          "normalized": null
         },
         "weather": {
           "comfort_score": null,
@@ -4539,26 +4407,14 @@
       },
       "budget": {
         "raw": {
-          "budget": "$25-40",
-          "mid": "$60-100",
-          "luxury": "$200+"
+          "budget": null,
+          "mid": null,
+          "luxury": null
         },
         "currency": "USD",
-        "tier_budget": {
-          "min": 25,
-          "max": 40,
-          "median": 33
-        },
-        "tier_mid": {
-          "min": 60,
-          "max": 100,
-          "median": 80
-        },
-        "tier_luxury": {
-          "min": 200,
-          "max": null,
-          "median": 300
-        }
+        "tier_budget": null,
+        "tier_mid": null,
+        "tier_luxury": null
       },
       "weather": null,
       "transport": {
@@ -4637,17 +4493,17 @@
       },
       "population": 191000,
       "scores": {
-        "budget_score": 0.75,
+        "budget_score": null,
         "weather_score": null,
         "transport_score": 0.095,
         "nomad_score": 0.42,
         "safety_score": 0.75,
-        "overall_score": 0.47
+        "overall_score": null
       },
       "score_components": {
         "budget": {
-          "tier_budget_median_usd": 20,
-          "normalized": 0.75
+          "tier_budget_median_usd": null,
+          "normalized": null
         },
         "weather": {
           "comfort_score": null,
@@ -4660,26 +4516,14 @@
       },
       "budget": {
         "raw": {
-          "budget": "$15-25",
-          "mid": "$35-60",
-          "luxury": "$80+"
+          "budget": null,
+          "mid": null,
+          "luxury": null
         },
         "currency": "USD",
-        "tier_budget": {
-          "min": 15,
-          "max": 25,
-          "median": 20
-        },
-        "tier_mid": {
-          "min": 35,
-          "max": 60,
-          "median": 48
-        },
-        "tier_luxury": {
-          "min": 80,
-          "max": null,
-          "median": 120
-        }
+        "tier_budget": null,
+        "tier_mid": null,
+        "tier_luxury": null
       },
       "weather": null,
       "transport": {
@@ -4742,8 +4586,8 @@
         "th": "อุดรธานี",
         "de": "Udon Thani",
         "fr": "Udon Thani",
-        "ru": "Удон-Тхани",
-        "zh": "乌登他尼"
+        "ru": "Udon Thani",
+        "zh": "乌隆他尼"
       },
       "image": "/images/cities/generated/udon-thani.webp",
       "region": {
@@ -4759,17 +4603,17 @@
       },
       "population": 290000,
       "scores": {
-        "budget_score": 0.69,
+        "budget_score": null,
         "weather_score": null,
         "transport_score": 0.199,
         "nomad_score": 0.42,
         "safety_score": 0.75,
-        "overall_score": 0.48
+        "overall_score": null
       },
       "score_components": {
         "budget": {
-          "tier_budget_median_usd": 25,
-          "normalized": 0.69
+          "tier_budget_median_usd": null,
+          "normalized": null
         },
         "weather": {
           "comfort_score": null,
@@ -4782,26 +4626,14 @@
       },
       "budget": {
         "raw": {
-          "budget": "$20-30",
-          "mid": "$50-80",
-          "luxury": "$130+"
+          "budget": null,
+          "mid": null,
+          "luxury": null
         },
         "currency": "USD",
-        "tier_budget": {
-          "min": 20,
-          "max": 30,
-          "median": 25
-        },
-        "tier_mid": {
-          "min": 50,
-          "max": 80,
-          "median": 65
-        },
-        "tier_luxury": {
-          "min": 130,
-          "max": null,
-          "median": 195
-        }
+        "tier_budget": null,
+        "tier_mid": null,
+        "tier_luxury": null
       },
       "weather": null,
       "transport": {
@@ -4867,52 +4699,20 @@
       "order": "asc",
       "items": [
         {
-          "slug": "bueng-kan",
+          "slug": "chiang-khan",
           "name": {
-            "en": "Bueng Kan",
-            "nl": "Bueng Kan",
-            "ja": "ブンカーン",
-            "ko": "붕칸",
-            "th": "บึงกาฬ",
-            "de": "Bueng Kan",
-            "fr": "Bueng Kan",
-            "ru": "Буэн Кан",
-            "zh": "布恩干"
+            "en": "Chiang Khan",
+            "nl": "Chiang Khan",
+            "ja": "チエンカーン",
+            "ko": "치앙칸",
+            "th": "เชียงคาน",
+            "de": "Chiang Khan",
+            "fr": "Chiang Khan",
+            "ru": "Chiang Khan",
+            "zh": "Chiang Khan"
           },
-          "value": 19,
+          "value": 30,
           "rank": 1
-        },
-        {
-          "slug": "nong-khai",
-          "name": {
-            "en": "Nong Khai",
-            "nl": "Nong Khai",
-            "ja": "ノーンカーイ",
-            "ko": "농카이",
-            "th": "หนองคาย",
-            "de": "Nong Khai",
-            "fr": "Nong Khai",
-            "ru": "Nong Khai",
-            "zh": "Nong Khai"
-          },
-          "value": 19,
-          "rank": 2
-        },
-        {
-          "slug": "chanthaburi",
-          "name": {
-            "en": "Chanthaburi",
-            "nl": "Chanthaburi",
-            "ja": "チャンタブリー",
-            "ko": "찬타부리",
-            "th": "จันทบุรี",
-            "de": "Chanthaburi",
-            "fr": "Chanthaburi",
-            "ru": "Chanthaburi",
-            "zh": "Chanthaburi"
-          },
-          "value": 20,
-          "rank": 3
         },
         {
           "slug": "chumphon",
@@ -4927,184 +4727,8 @@
             "ru": "Чумпхон",
             "zh": "春蓬"
           },
-          "value": 20,
-          "rank": 4
-        },
-        {
-          "slug": "lampang",
-          "name": {
-            "en": "Lampang",
-            "nl": "Lampang",
-            "ja": "ランパーン",
-            "ko": "람빵",
-            "th": "ลำปาง",
-            "de": "Lampang",
-            "fr": "Lampang",
-            "ru": "Лампанг",
-            "zh": "兰邦"
-          },
-          "value": 20,
-          "rank": 5
-        },
-        {
-          "slug": "lopburi",
-          "name": {
-            "en": "Lopburi",
-            "nl": "Lopburi",
-            "ja": "ロッブリー",
-            "ko": "롭부리",
-            "th": "ลพบุรี",
-            "de": "Lopburi",
-            "fr": "Lopburi",
-            "ru": "Лопбури",
-            "zh": "罗布里"
-          },
-          "value": 20,
-          "rank": 6
-        },
-        {
-          "slug": "mae-hong-son",
-          "name": {
-            "en": "Mae Hong Son",
-            "nl": "Mae Hong Son",
-            "ja": "メーホンソーン",
-            "ko": "매홍손",
-            "th": "แม่ฮ่องสอน",
-            "de": "Mae Hong Son",
-            "fr": "Mae Hong Son",
-            "ru": "Mae Hong Son",
-            "zh": "Mae Hong Son"
-          },
-          "value": 20,
-          "rank": 7
-        },
-        {
-          "slug": "mukdahan",
-          "name": {
-            "en": "Mukdahan",
-            "nl": "Mukdahan",
-            "ja": "ムクダーハーン",
-            "ko": "묵다한",
-            "th": "มุกดาหาร",
-            "de": "Mukdahan",
-            "fr": "Mukdahan",
-            "ru": "Mukdahan",
-            "zh": "Mukdahan"
-          },
-          "value": 20,
-          "rank": 8
-        },
-        {
-          "slug": "nakhon-phanom",
-          "name": {
-            "en": "Nakhon Phanom",
-            "nl": "Nakhon Phanom",
-            "ja": "ナコーンパノム",
-            "ko": "나콘파놈",
-            "th": "นครพนม",
-            "de": "Nakhon Phanom",
-            "fr": "Nakhon Phanom",
-            "ru": "Nakhon Phanom",
-            "zh": "Nakhon Phanom"
-          },
-          "value": 20,
-          "rank": 9
-        },
-        {
-          "slug": "nakhon-si-thammarat",
-          "name": {
-            "en": "Nakhon Si Thammarat",
-            "nl": "Nakhon Si Thammarat",
-            "ja": "ナコーンシータンマラート",
-            "ko": "나콘시탐마랏",
-            "th": "นครศรีธรรมราช",
-            "de": "Nakhon Si Thammarat",
-            "fr": "Nakhon Si Thammarat",
-            "ru": "Nakhon Si Thammarat",
-            "zh": "Nakhon Si Thammarat"
-          },
-          "value": 20,
-          "rank": 10
-        },
-        {
-          "slug": "pai",
-          "name": {
-            "en": "Pai",
-            "nl": "Pai",
-            "ja": "パーイ",
-            "ko": "빠이",
-            "th": "ปาย",
-            "de": "Pai",
-            "fr": "Pai",
-            "ru": "Pai",
-            "zh": "Pai"
-          },
-          "value": 20,
-          "rank": 11
-        },
-        {
-          "slug": "phitsanulok",
-          "name": {
-            "en": "Phitsanulok",
-            "nl": "Phitsanulok",
-            "ja": "ピッサヌローク",
-            "ko": "핏사눌록",
-            "th": "พิษณุโลก",
-            "de": "Phitsanulok",
-            "fr": "Phitsanulok",
-            "ru": "Phitsanulok",
-            "zh": "Phitsanulok"
-          },
-          "value": 20,
-          "rank": 12
-        },
-        {
-          "slug": "trang",
-          "name": {
-            "en": "Trang",
-            "nl": "Trang",
-            "ja": "トラン",
-            "ko": "뜨랑",
-            "th": "ตรัง",
-            "de": "Trang",
-            "fr": "Trang",
-            "ru": "Trang",
-            "zh": "Trang"
-          },
-          "value": 20,
-          "rank": 13
-        },
-        {
-          "slug": "ubon-ratchathani",
-          "name": {
-            "en": "Ubon Ratchathani",
-            "nl": "Ubon Ratchathani",
-            "ja": "ウボンラーチャターニー",
-            "ko": "우본랏차타니",
-            "th": "อุบลราชธานี",
-            "de": "Ubon Ratchathani",
-            "fr": "Ubon Ratchathani",
-            "ru": "Ubon Ratchathani",
-            "zh": "Ubon Ratchathani"
-          },
-          "value": 20,
-          "rank": 14
-        },
-        {
-          "slug": "chiang-khan",
-          "name": {
-            "en": "Chiang Khan",
-            "nl": "Chiang Khan",
-            "ja": "チエンカーン",
-            "ko": "치앙칸",
-            "th": "เชียงคาน",
-            "de": "Chiang Khan",
-            "fr": "Chiang Khan",
-            "ru": "Chiang Khan",
-            "zh": "Chiang Khan"
-          },
-          "value": 23,
-          "rank": 15
+          "value": 30,
+          "rank": 2
         },
         {
           "slug": "khon-kaen",
@@ -5119,120 +4743,8 @@
             "ru": "Кхон Каен",
             "zh": "孔敬"
           },
-          "value": 25,
-          "rank": 16
-        },
-        {
-          "slug": "nakhon-ratchasima",
-          "name": {
-            "en": "Nakhon Ratchasima (Korat)",
-            "nl": "Nakhon Ratchasima (Korat)",
-            "ja": "ナコーンラーチャシーマー（コラート）",
-            "ko": "나콘랏차시마 (코랏)",
-            "th": "นครราชสีมา",
-            "de": "Nakhon Ratchasima (Korat)",
-            "fr": "Nakhon Ratchasima (Korat)",
-            "ru": "Nakhon Ratchasima (Korat)",
-            "zh": "Nakhon Ratchasima (Korat)"
-          },
-          "value": 25,
-          "rank": 17
-        },
-        {
-          "slug": "udon-thani",
-          "name": {
-            "en": "Udon Thani",
-            "nl": "Udon Thani",
-            "ja": "ウドーンターニー",
-            "ko": "우돈타니",
-            "th": "อุดรธานี",
-            "de": "Udon Thani",
-            "fr": "Udon Thani",
-            "ru": "Удон-Тхани",
-            "zh": "乌登他尼"
-          },
-          "value": 25,
-          "rank": 18
-        },
-        {
-          "slug": "kanchanaburi",
-          "name": {
-            "en": "Kanchanaburi",
-            "nl": "Kanchanaburi",
-            "ja": "カンチャナブリー",
-            "ko": "칸차나부리",
-            "th": "กาญจนบุรี",
-            "de": "Kanchanaburi",
-            "fr": "Kanchanaburi",
-            "ru": "Kanchanaburi",
-            "zh": "Kanchanaburi"
-          },
-          "value": 28,
-          "rank": 19
-        },
-        {
-          "slug": "rayong",
-          "name": {
-            "en": "Rayong",
-            "nl": "Rayong",
-            "ja": "ラヨーン",
-            "ko": "라용",
-            "th": "ระยอง",
-            "de": "Rayong",
-            "fr": "Rayong",
-            "ru": "Rayong",
-            "zh": "罗勇"
-          },
-          "value": 28,
-          "rank": 20
-        },
-        {
-          "slug": "hua-hin",
-          "name": {
-            "en": "Hua Hin",
-            "nl": "Hua Hin",
-            "ja": "ホアヒン",
-            "ko": "후아힌",
-            "th": "หัวหิน",
-            "de": "Hua Hin",
-            "fr": "Hua Hin",
-            "ru": "Хуа-Хин",
-            "zh": "华欣"
-          },
-          "value": 33,
-          "rank": 21
-        },
-        {
-          "slug": "koh-samui",
-          "name": {
-            "en": "Koh Samui",
-            "nl": "Koh Samui",
-            "ja": "サムイ島",
-            "ko": "코사무이",
-            "th": "เกาะสมุย",
-            "de": "Koh Samui",
-            "fr": "Koh Samui",
-            "ru": "Ко Самуи",
-            "zh": "苏梅岛"
-          },
-          "value": 33,
-          "rank": 22
-        },
-        {
-          "slug": "trat",
-          "name": {
-            "en": "Trat",
-            "nl": "Trat",
-            "ja": "トラート",
-            "ko": "뜨랏",
-            "th": "ตราด",
-            "de": "Trat",
-            "fr": "Trat",
-            "ru": "Трат",
-            "zh": "特拉特"
-          },
-          "value": 33,
-          "rank": 23
+          "value": 30,
+          "rank": 3
         },
         {
           "slug": "ayutthaya",
@@ -5247,8 +4759,104 @@
             "ru": "Ayutthaya",
             "zh": "Ayutthaya"
           },
-          "value": 40,
-          "rank": 24
+          "value": 35,
+          "rank": 4
+        },
+        {
+          "slug": "bueng-kan",
+          "name": {
+            "en": "Bueng Kan",
+            "nl": "Bueng Kan",
+            "ja": "ブンカーン",
+            "ko": "붕칸",
+            "th": "บึงกาฬ",
+            "de": "Bueng Kan",
+            "fr": "Bueng Kan",
+            "ru": "Буэн Кан",
+            "zh": "布恩干"
+          },
+          "value": 35,
+          "rank": 5
+        },
+        {
+          "slug": "chanthaburi",
+          "name": {
+            "en": "Chanthaburi",
+            "nl": "Chanthaburi",
+            "ja": "チャンタブリー",
+            "ko": "찬타부리",
+            "th": "จันทบุรี",
+            "de": "Chanthaburi",
+            "fr": "Chanthaburi",
+            "ru": "Chanthaburi",
+            "zh": "Chanthaburi"
+          },
+          "value": 35,
+          "rank": 6
+        },
+        {
+          "slug": "chiang-mai",
+          "name": {
+            "en": "Chiang Mai",
+            "nl": "Chiang Mai",
+            "ja": "チェンマイ",
+            "ko": "치앙마이",
+            "th": "เชียงใหม่",
+            "de": "Chiang Mai",
+            "fr": "Chiang Mai",
+            "ru": "Чиангмай",
+            "zh": "清迈"
+          },
+          "value": 35,
+          "rank": 7
+        },
+        {
+          "slug": "chiang-rai",
+          "name": {
+            "en": "Chiang Rai",
+            "nl": "Chiang Rai",
+            "ja": "チェンライ",
+            "ko": "치앙라이",
+            "th": "เชียงราย",
+            "de": "Chiang Rai",
+            "fr": "Chiang Rai",
+            "ru": "Chiang Rai",
+            "zh": "清莱"
+          },
+          "value": 35,
+          "rank": 8
+        },
+        {
+          "slug": "hat-yai",
+          "name": {
+            "en": "Hat Yai",
+            "nl": "Hat Yai",
+            "ja": "ハジャイ",
+            "ko": "핫야이",
+            "th": "หาดใหญ่",
+            "de": "Hat Yai",
+            "fr": "Hat Yai",
+            "ru": "Хатъяй",
+            "zh": "合艾"
+          },
+          "value": 35,
+          "rank": 9
+        },
+        {
+          "slug": "kanchanaburi",
+          "name": {
+            "en": "Kanchanaburi",
+            "nl": "Kanchanaburi",
+            "ja": "カンチャナブリー",
+            "ko": "칸차나부리",
+            "th": "กาญจนบุรี",
+            "de": "Kanchanaburi",
+            "fr": "Kanchanaburi",
+            "ru": "Kanchanaburi",
+            "zh": "Kanchanaburi"
+          },
+          "value": 35,
+          "rank": 10
         },
         {
           "slug": "bangkok",
@@ -5264,71 +4872,7 @@
             "zh": "曼谷"
           },
           "value": 40,
-          "rank": 25
-        },
-        {
-          "slug": "chiang-mai",
-          "name": {
-            "en": "Chiang Mai",
-            "nl": "Chiang Mai",
-            "ja": "チェンマイ",
-            "ko": "치앙마이",
-            "th": "เชียงใหม่",
-            "de": "Chiang Mai",
-            "fr": "Chiang Mai",
-            "ru": "Чиангмай",
-            "zh": "清迈"
-          },
-          "value": 40,
-          "rank": 26
-        },
-        {
-          "slug": "chiang-rai",
-          "name": {
-            "en": "Chiang Rai",
-            "nl": "Chiang Rai",
-            "ja": "チェンライ",
-            "ko": "치앙라이",
-            "th": "เชียงราย",
-            "de": "Chiang Rai",
-            "fr": "Chiang Rai",
-            "ru": "Chiang Rai",
-            "zh": "清莱"
-          },
-          "value": 40,
-          "rank": 27
-        },
-        {
-          "slug": "hat-yai",
-          "name": {
-            "en": "Hat Yai",
-            "nl": "Hat Yai",
-            "ja": "ハジャイ",
-            "ko": "핫야이",
-            "th": "หาดใหญ่",
-            "de": "Hat Yai",
-            "fr": "Hat Yai",
-            "ru": "Hat Yai",
-            "zh": "Hat Yai"
-          },
-          "value": 40,
-          "rank": 28
-        },
-        {
-          "slug": "krabi",
-          "name": {
-            "en": "Krabi",
-            "nl": "Krabi",
-            "ja": "クラビ",
-            "ko": "끄라비",
-            "th": "กระบี่",
-            "de": "Krabi",
-            "fr": "Krabi",
-            "ru": "Краби",
-            "zh": "甲米"
-          },
-          "value": 40,
-          "rank": 29
+          "rank": 11
         },
         {
           "slug": "pattaya",
@@ -5343,8 +4887,24 @@
             "ru": "Паттайя",
             "zh": "芭堤雅"
           },
-          "value": 40,
-          "rank": 30
+          "value": 43,
+          "rank": 12
+        },
+        {
+          "slug": "hua-hin",
+          "name": {
+            "en": "Hua Hin",
+            "nl": "Hua Hin",
+            "ja": "ホアヒン",
+            "ko": "후아힌",
+            "th": "หัวหิน",
+            "de": "Hua Hin",
+            "fr": "Hua Hin",
+            "ru": "Хуа-Хин",
+            "zh": "华欣"
+          },
+          "value": 48,
+          "rank": 13
         },
         {
           "slug": "phuket",
@@ -5359,40 +4919,88 @@
             "ru": "Пхукет",
             "zh": "普吉岛"
           },
-          "value": 40,
-          "rank": 31
+          "value": 48,
+          "rank": 14
         },
         {
-          "slug": "sukhothai",
+          "slug": "koh-samui",
           "name": {
-            "en": "Sukhothai",
-            "nl": "Sukhothai",
-            "ja": "スコータイ",
-            "ko": "수코타이",
-            "th": "สุโขทัย",
-            "de": "Sukhothai",
-            "fr": "Sukhothai",
-            "ru": "Sukhothai",
-            "zh": "素可泰"
+            "en": "Koh Samui",
+            "nl": "Koh Samui",
+            "ja": "サムイ島",
+            "ko": "코사무이",
+            "th": "เกาะสมุย",
+            "de": "Koh Samui",
+            "fr": "Koh Samui",
+            "ru": "Ко Самуи",
+            "zh": "苏梅岛"
           },
-          "value": 40,
-          "rank": 32
+          "value": 63,
+          "rank": 15
         },
         {
-          "slug": "surat-thani",
+          "slug": "lampang",
           "name": {
-            "en": "Surat Thani",
-            "nl": "Surat Thani",
-            "ja": "スラーターニー",
-            "ko": "수랏타니",
-            "th": "สุราษฎร์ธานี",
-            "de": "Surat Thani",
-            "fr": "Surat Thani",
-            "ru": "Surat Thani",
-            "zh": "Surat Thani"
+            "en": "Lampang",
+            "nl": "Lampang",
+            "ja": "ランパーン",
+            "ko": "람빵",
+            "th": "ลำปาง",
+            "de": "Lampang",
+            "fr": "Lampang",
+            "ru": "Лампанг",
+            "zh": "兰邦"
           },
-          "value": 40,
-          "rank": 33
+          "value": 1650,
+          "rank": 16
+        },
+        {
+          "slug": "krabi",
+          "name": {
+            "en": "Krabi",
+            "nl": "Krabi",
+            "ja": "クラビ",
+            "ko": "끄라비",
+            "th": "กระบี่",
+            "de": "Krabi",
+            "fr": "Krabi",
+            "ru": "Краби",
+            "zh": "甲米"
+          },
+          "value": 1800,
+          "rank": 17
+        },
+        {
+          "slug": "lopburi",
+          "name": {
+            "en": "Lopburi",
+            "nl": "Lopburi",
+            "ja": "ロッブリー",
+            "ko": "롭부리",
+            "th": "ลพบุรี",
+            "de": "Lopburi",
+            "fr": "Lopburi",
+            "ru": "Лопбури",
+            "zh": "罗布里"
+          },
+          "value": 1850,
+          "rank": 18
+        },
+        {
+          "slug": "mae-hong-son",
+          "name": {
+            "en": "Mae Hong Son",
+            "nl": "Mae Hong Son",
+            "ja": "メーホンソーン",
+            "ko": "매홍손",
+            "th": "แม่ฮ่องสอน",
+            "de": "Mae Hong Son",
+            "fr": "Mae Hong Son",
+            "ru": "Мэ Хонг Сон",
+            "zh": "夜丰颂"
+          },
+          "value": 2150,
+          "rank": 19
         }
       ]
     },
@@ -5401,68 +5009,36 @@
       "order": "desc",
       "items": [
         {
-          "slug": "surat-thani",
+          "slug": "mae-hong-son",
           "name": {
-            "en": "Surat Thani",
-            "nl": "Surat Thani",
-            "ja": "スラーターニー",
-            "ko": "수랏타니",
-            "th": "สุราษฎร์ธานี",
-            "de": "Surat Thani",
-            "fr": "Surat Thani",
-            "ru": "Surat Thani",
-            "zh": "Surat Thani"
+            "en": "Mae Hong Son",
+            "nl": "Mae Hong Son",
+            "ja": "メーホンソーン",
+            "ko": "매홍손",
+            "th": "แม่ฮ่องสอน",
+            "de": "Mae Hong Son",
+            "fr": "Mae Hong Son",
+            "ru": "Мэ Хонг Сон",
+            "zh": "夜丰颂"
           },
-          "value": 40,
+          "value": 2150,
           "rank": 1
         },
         {
-          "slug": "sukhothai",
+          "slug": "lopburi",
           "name": {
-            "en": "Sukhothai",
-            "nl": "Sukhothai",
-            "ja": "スコータイ",
-            "ko": "수코타이",
-            "th": "สุโขทัย",
-            "de": "Sukhothai",
-            "fr": "Sukhothai",
-            "ru": "Sukhothai",
-            "zh": "素可泰"
+            "en": "Lopburi",
+            "nl": "Lopburi",
+            "ja": "ロッブリー",
+            "ko": "롭부리",
+            "th": "ลพบุรี",
+            "de": "Lopburi",
+            "fr": "Lopburi",
+            "ru": "Лопбури",
+            "zh": "罗布里"
           },
-          "value": 40,
+          "value": 1850,
           "rank": 2
-        },
-        {
-          "slug": "phuket",
-          "name": {
-            "en": "Phuket",
-            "nl": "Phuket",
-            "ja": "プーケット",
-            "ko": "푸켓",
-            "th": "ภูเก็ต",
-            "de": "Phuket",
-            "fr": "Phuket",
-            "ru": "Пхукет",
-            "zh": "普吉岛"
-          },
-          "value": 40,
-          "rank": 3
-        },
-        {
-          "slug": "pattaya",
-          "name": {
-            "en": "Pattaya",
-            "nl": "Pattaya",
-            "ja": "パタヤ",
-            "ko": "파타야",
-            "th": "พัทยา",
-            "de": "Pattaya",
-            "fr": "Pattaya",
-            "ru": "Паттайя",
-            "zh": "芭堤雅"
-          },
-          "value": 40,
-          "rank": 4
         },
         {
           "slug": "krabi",
@@ -5477,55 +5053,87 @@
             "ru": "Краби",
             "zh": "甲米"
           },
-          "value": 40,
+          "value": 1800,
+          "rank": 3
+        },
+        {
+          "slug": "lampang",
+          "name": {
+            "en": "Lampang",
+            "nl": "Lampang",
+            "ja": "ランパーン",
+            "ko": "람빵",
+            "th": "ลำปาง",
+            "de": "Lampang",
+            "fr": "Lampang",
+            "ru": "Лампанг",
+            "zh": "兰邦"
+          },
+          "value": 1650,
+          "rank": 4
+        },
+        {
+          "slug": "koh-samui",
+          "name": {
+            "en": "Koh Samui",
+            "nl": "Koh Samui",
+            "ja": "サムイ島",
+            "ko": "코사무이",
+            "th": "เกาะสมุย",
+            "de": "Koh Samui",
+            "fr": "Koh Samui",
+            "ru": "Ко Самуи",
+            "zh": "苏梅岛"
+          },
+          "value": 63,
           "rank": 5
         },
         {
-          "slug": "hat-yai",
+          "slug": "phuket",
           "name": {
-            "en": "Hat Yai",
-            "nl": "Hat Yai",
-            "ja": "ハジャイ",
-            "ko": "핫야이",
-            "th": "หาดใหญ่",
-            "de": "Hat Yai",
-            "fr": "Hat Yai",
-            "ru": "Hat Yai",
-            "zh": "Hat Yai"
+            "en": "Phuket",
+            "nl": "Phuket",
+            "ja": "プーケット",
+            "ko": "푸켓",
+            "th": "ภูเก็ต",
+            "de": "Phuket",
+            "fr": "Phuket",
+            "ru": "Пхукет",
+            "zh": "普吉岛"
           },
-          "value": 40,
+          "value": 48,
           "rank": 6
         },
         {
-          "slug": "chiang-rai",
+          "slug": "hua-hin",
           "name": {
-            "en": "Chiang Rai",
-            "nl": "Chiang Rai",
-            "ja": "チェンライ",
-            "ko": "치앙라이",
-            "th": "เชียงราย",
-            "de": "Chiang Rai",
-            "fr": "Chiang Rai",
-            "ru": "Chiang Rai",
-            "zh": "清莱"
+            "en": "Hua Hin",
+            "nl": "Hua Hin",
+            "ja": "ホアヒン",
+            "ko": "후아힌",
+            "th": "หัวหิน",
+            "de": "Hua Hin",
+            "fr": "Hua Hin",
+            "ru": "Хуа-Хин",
+            "zh": "华欣"
           },
-          "value": 40,
+          "value": 48,
           "rank": 7
         },
         {
-          "slug": "chiang-mai",
+          "slug": "pattaya",
           "name": {
-            "en": "Chiang Mai",
-            "nl": "Chiang Mai",
-            "ja": "チェンマイ",
-            "ko": "치앙마이",
-            "th": "เชียงใหม่",
-            "de": "Chiang Mai",
-            "fr": "Chiang Mai",
-            "ru": "Чиангмай",
-            "zh": "清迈"
+            "en": "Pattaya",
+            "nl": "Pattaya",
+            "ja": "パタヤ",
+            "ko": "파타야",
+            "th": "พัทยา",
+            "de": "Pattaya",
+            "fr": "Pattaya",
+            "ru": "Паттайя",
+            "zh": "芭堤雅"
           },
-          "value": 40,
+          "value": 43,
           "rank": 8
         },
         {
@@ -5545,86 +5153,6 @@
           "rank": 9
         },
         {
-          "slug": "ayutthaya",
-          "name": {
-            "en": "Ayutthaya",
-            "nl": "Ayutthaya",
-            "ja": "アユタヤ",
-            "ko": "아유타야",
-            "th": "อยุธยา",
-            "de": "Ayutthaya",
-            "fr": "Ayutthaya",
-            "ru": "Ayutthaya",
-            "zh": "Ayutthaya"
-          },
-          "value": 40,
-          "rank": 10
-        },
-        {
-          "slug": "trat",
-          "name": {
-            "en": "Trat",
-            "nl": "Trat",
-            "ja": "トラート",
-            "ko": "뜨랏",
-            "th": "ตราด",
-            "de": "Trat",
-            "fr": "Trat",
-            "ru": "Трат",
-            "zh": "特拉特"
-          },
-          "value": 33,
-          "rank": 11
-        },
-        {
-          "slug": "koh-samui",
-          "name": {
-            "en": "Koh Samui",
-            "nl": "Koh Samui",
-            "ja": "サムイ島",
-            "ko": "코사무이",
-            "th": "เกาะสมุย",
-            "de": "Koh Samui",
-            "fr": "Koh Samui",
-            "ru": "Ко Самуи",
-            "zh": "苏梅岛"
-          },
-          "value": 33,
-          "rank": 12
-        },
-        {
-          "slug": "hua-hin",
-          "name": {
-            "en": "Hua Hin",
-            "nl": "Hua Hin",
-            "ja": "ホアヒン",
-            "ko": "후아힌",
-            "th": "หัวหิน",
-            "de": "Hua Hin",
-            "fr": "Hua Hin",
-            "ru": "Хуа-Хин",
-            "zh": "华欣"
-          },
-          "value": 33,
-          "rank": 13
-        },
-        {
-          "slug": "rayong",
-          "name": {
-            "en": "Rayong",
-            "nl": "Rayong",
-            "ja": "ラヨーン",
-            "ko": "라용",
-            "th": "ระยอง",
-            "de": "Rayong",
-            "fr": "Rayong",
-            "ru": "Rayong",
-            "zh": "罗勇"
-          },
-          "value": 28,
-          "rank": 14
-        },
-        {
           "slug": "kanchanaburi",
           "name": {
             "en": "Kanchanaburi",
@@ -5637,40 +5165,104 @@
             "ru": "Kanchanaburi",
             "zh": "Kanchanaburi"
           },
-          "value": 28,
+          "value": 35,
+          "rank": 10
+        },
+        {
+          "slug": "hat-yai",
+          "name": {
+            "en": "Hat Yai",
+            "nl": "Hat Yai",
+            "ja": "ハジャイ",
+            "ko": "핫야이",
+            "th": "หาดใหญ่",
+            "de": "Hat Yai",
+            "fr": "Hat Yai",
+            "ru": "Хатъяй",
+            "zh": "合艾"
+          },
+          "value": 35,
+          "rank": 11
+        },
+        {
+          "slug": "chiang-rai",
+          "name": {
+            "en": "Chiang Rai",
+            "nl": "Chiang Rai",
+            "ja": "チェンライ",
+            "ko": "치앙라이",
+            "th": "เชียงราย",
+            "de": "Chiang Rai",
+            "fr": "Chiang Rai",
+            "ru": "Chiang Rai",
+            "zh": "清莱"
+          },
+          "value": 35,
+          "rank": 12
+        },
+        {
+          "slug": "chiang-mai",
+          "name": {
+            "en": "Chiang Mai",
+            "nl": "Chiang Mai",
+            "ja": "チェンマイ",
+            "ko": "치앙마이",
+            "th": "เชียงใหม่",
+            "de": "Chiang Mai",
+            "fr": "Chiang Mai",
+            "ru": "Чиангмай",
+            "zh": "清迈"
+          },
+          "value": 35,
+          "rank": 13
+        },
+        {
+          "slug": "chanthaburi",
+          "name": {
+            "en": "Chanthaburi",
+            "nl": "Chanthaburi",
+            "ja": "チャンタブリー",
+            "ko": "찬타부리",
+            "th": "จันทบุรี",
+            "de": "Chanthaburi",
+            "fr": "Chanthaburi",
+            "ru": "Chanthaburi",
+            "zh": "Chanthaburi"
+          },
+          "value": 35,
+          "rank": 14
+        },
+        {
+          "slug": "bueng-kan",
+          "name": {
+            "en": "Bueng Kan",
+            "nl": "Bueng Kan",
+            "ja": "ブンカーン",
+            "ko": "붕칸",
+            "th": "บึงกาฬ",
+            "de": "Bueng Kan",
+            "fr": "Bueng Kan",
+            "ru": "Буэн Кан",
+            "zh": "布恩干"
+          },
+          "value": 35,
           "rank": 15
         },
         {
-          "slug": "udon-thani",
+          "slug": "ayutthaya",
           "name": {
-            "en": "Udon Thani",
-            "nl": "Udon Thani",
-            "ja": "ウドーンターニー",
-            "ko": "우돈타니",
-            "th": "อุดรธานี",
-            "de": "Udon Thani",
-            "fr": "Udon Thani",
-            "ru": "Удон-Тхани",
-            "zh": "乌登他尼"
+            "en": "Ayutthaya",
+            "nl": "Ayutthaya",
+            "ja": "アユタヤ",
+            "ko": "아유타야",
+            "th": "อยุธยา",
+            "de": "Ayutthaya",
+            "fr": "Ayutthaya",
+            "ru": "Ayutthaya",
+            "zh": "Ayutthaya"
           },
-          "value": 25,
+          "value": 35,
           "rank": 16
-        },
-        {
-          "slug": "nakhon-ratchasima",
-          "name": {
-            "en": "Nakhon Ratchasima (Korat)",
-            "nl": "Nakhon Ratchasima (Korat)",
-            "ja": "ナコーンラーチャシーマー（コラート）",
-            "ko": "나콘랏차시마 (코랏)",
-            "th": "นครราชสีมา",
-            "de": "Nakhon Ratchasima (Korat)",
-            "fr": "Nakhon Ratchasima (Korat)",
-            "ru": "Nakhon Ratchasima (Korat)",
-            "zh": "Nakhon Ratchasima (Korat)"
-          },
-          "value": 25,
-          "rank": 17
         },
         {
           "slug": "khon-kaen",
@@ -5685,7 +5277,23 @@
             "ru": "Кхон Каен",
             "zh": "孔敬"
           },
-          "value": 25,
+          "value": 30,
+          "rank": 17
+        },
+        {
+          "slug": "chumphon",
+          "name": {
+            "en": "Chumphon",
+            "nl": "Chumphon",
+            "ja": "チュムポーン",
+            "ko": "춤폰",
+            "th": "ชุมพร",
+            "de": "Chumphon",
+            "fr": "Chumphon",
+            "ru": "Чумпхон",
+            "zh": "春蓬"
+          },
+          "value": 30,
           "rank": 18
         },
         {
@@ -5701,232 +5309,8 @@
             "ru": "Chiang Khan",
             "zh": "Chiang Khan"
           },
-          "value": 23,
+          "value": 30,
           "rank": 19
-        },
-        {
-          "slug": "ubon-ratchathani",
-          "name": {
-            "en": "Ubon Ratchathani",
-            "nl": "Ubon Ratchathani",
-            "ja": "ウボンラーチャターニー",
-            "ko": "우본랏차타니",
-            "th": "อุบลราชธานี",
-            "de": "Ubon Ratchathani",
-            "fr": "Ubon Ratchathani",
-            "ru": "Ubon Ratchathani",
-            "zh": "Ubon Ratchathani"
-          },
-          "value": 20,
-          "rank": 20
-        },
-        {
-          "slug": "trang",
-          "name": {
-            "en": "Trang",
-            "nl": "Trang",
-            "ja": "トラン",
-            "ko": "뜨랑",
-            "th": "ตรัง",
-            "de": "Trang",
-            "fr": "Trang",
-            "ru": "Trang",
-            "zh": "Trang"
-          },
-          "value": 20,
-          "rank": 21
-        },
-        {
-          "slug": "phitsanulok",
-          "name": {
-            "en": "Phitsanulok",
-            "nl": "Phitsanulok",
-            "ja": "ピッサヌローク",
-            "ko": "핏사눌록",
-            "th": "พิษณุโลก",
-            "de": "Phitsanulok",
-            "fr": "Phitsanulok",
-            "ru": "Phitsanulok",
-            "zh": "Phitsanulok"
-          },
-          "value": 20,
-          "rank": 22
-        },
-        {
-          "slug": "pai",
-          "name": {
-            "en": "Pai",
-            "nl": "Pai",
-            "ja": "パーイ",
-            "ko": "빠이",
-            "th": "ปาย",
-            "de": "Pai",
-            "fr": "Pai",
-            "ru": "Pai",
-            "zh": "Pai"
-          },
-          "value": 20,
-          "rank": 23
-        },
-        {
-          "slug": "nakhon-si-thammarat",
-          "name": {
-            "en": "Nakhon Si Thammarat",
-            "nl": "Nakhon Si Thammarat",
-            "ja": "ナコーンシータンマラート",
-            "ko": "나콘시탐마랏",
-            "th": "นครศรีธรรมราช",
-            "de": "Nakhon Si Thammarat",
-            "fr": "Nakhon Si Thammarat",
-            "ru": "Nakhon Si Thammarat",
-            "zh": "Nakhon Si Thammarat"
-          },
-          "value": 20,
-          "rank": 24
-        },
-        {
-          "slug": "nakhon-phanom",
-          "name": {
-            "en": "Nakhon Phanom",
-            "nl": "Nakhon Phanom",
-            "ja": "ナコーンパノム",
-            "ko": "나콘파놈",
-            "th": "นครพนม",
-            "de": "Nakhon Phanom",
-            "fr": "Nakhon Phanom",
-            "ru": "Nakhon Phanom",
-            "zh": "Nakhon Phanom"
-          },
-          "value": 20,
-          "rank": 25
-        },
-        {
-          "slug": "mukdahan",
-          "name": {
-            "en": "Mukdahan",
-            "nl": "Mukdahan",
-            "ja": "ムクダーハーン",
-            "ko": "묵다한",
-            "th": "มุกดาหาร",
-            "de": "Mukdahan",
-            "fr": "Mukdahan",
-            "ru": "Mukdahan",
-            "zh": "Mukdahan"
-          },
-          "value": 20,
-          "rank": 26
-        },
-        {
-          "slug": "mae-hong-son",
-          "name": {
-            "en": "Mae Hong Son",
-            "nl": "Mae Hong Son",
-            "ja": "メーホンソーン",
-            "ko": "매홍손",
-            "th": "แม่ฮ่องสอน",
-            "de": "Mae Hong Son",
-            "fr": "Mae Hong Son",
-            "ru": "Mae Hong Son",
-            "zh": "Mae Hong Son"
-          },
-          "value": 20,
-          "rank": 27
-        },
-        {
-          "slug": "lopburi",
-          "name": {
-            "en": "Lopburi",
-            "nl": "Lopburi",
-            "ja": "ロッブリー",
-            "ko": "롭부리",
-            "th": "ลพบุรี",
-            "de": "Lopburi",
-            "fr": "Lopburi",
-            "ru": "Лопбури",
-            "zh": "罗布里"
-          },
-          "value": 20,
-          "rank": 28
-        },
-        {
-          "slug": "lampang",
-          "name": {
-            "en": "Lampang",
-            "nl": "Lampang",
-            "ja": "ランパーン",
-            "ko": "람빵",
-            "th": "ลำปาง",
-            "de": "Lampang",
-            "fr": "Lampang",
-            "ru": "Лампанг",
-            "zh": "兰邦"
-          },
-          "value": 20,
-          "rank": 29
-        },
-        {
-          "slug": "chumphon",
-          "name": {
-            "en": "Chumphon",
-            "nl": "Chumphon",
-            "ja": "チュムポーン",
-            "ko": "춤폰",
-            "th": "ชุมพร",
-            "de": "Chumphon",
-            "fr": "Chumphon",
-            "ru": "Чумпхон",
-            "zh": "春蓬"
-          },
-          "value": 20,
-          "rank": 30
-        },
-        {
-          "slug": "chanthaburi",
-          "name": {
-            "en": "Chanthaburi",
-            "nl": "Chanthaburi",
-            "ja": "チャンタブリー",
-            "ko": "찬타부리",
-            "th": "จันทบุรี",
-            "de": "Chanthaburi",
-            "fr": "Chanthaburi",
-            "ru": "Chanthaburi",
-            "zh": "Chanthaburi"
-          },
-          "value": 20,
-          "rank": 31
-        },
-        {
-          "slug": "nong-khai",
-          "name": {
-            "en": "Nong Khai",
-            "nl": "Nong Khai",
-            "ja": "ノーンカーイ",
-            "ko": "농카이",
-            "th": "หนองคาย",
-            "de": "Nong Khai",
-            "fr": "Nong Khai",
-            "ru": "Nong Khai",
-            "zh": "Nong Khai"
-          },
-          "value": 19,
-          "rank": 32
-        },
-        {
-          "slug": "bueng-kan",
-          "name": {
-            "en": "Bueng Kan",
-            "nl": "Bueng Kan",
-            "ja": "ブンカーン",
-            "ko": "붕칸",
-            "th": "บึงกาฬ",
-            "de": "Bueng Kan",
-            "fr": "Bueng Kan",
-            "ru": "Буэн Кан",
-            "zh": "布恩干"
-          },
-          "value": 19,
-          "rank": 33
         }
       ]
     },
@@ -6041,7 +5425,7 @@
             "de": "Surat Thani",
             "fr": "Surat Thani",
             "ru": "Surat Thani",
-            "zh": "Surat Thani"
+            "zh": "素叻他尼"
           },
           "value": 0.589,
           "rank": 7
@@ -6056,8 +5440,8 @@
             "th": "หาดใหญ่",
             "de": "Hat Yai",
             "fr": "Hat Yai",
-            "ru": "Hat Yai",
-            "zh": "Hat Yai"
+            "ru": "Хатъяй",
+            "zh": "合艾"
           },
           "value": 0.569,
           "rank": 8
@@ -6286,8 +5670,8 @@
             "th": "นครราชสีมา",
             "de": "Nakhon Ratchasima (Korat)",
             "fr": "Nakhon Ratchasima (Korat)",
-            "ru": "Nakhon Ratchasima (Korat)",
-            "zh": "Nakhon Ratchasima (Korat)"
+            "ru": "Накхонратчасима (Корат)",
+            "zh": "呵叻府府城那空叻差是玛（Korat）"
           },
           "value": 0.246,
           "rank": 12
@@ -6382,8 +5766,8 @@
             "th": "อุดรธานี",
             "de": "Udon Thani",
             "fr": "Udon Thani",
-            "ru": "Удон-Тхани",
-            "zh": "乌登他尼"
+            "ru": "Udon Thani",
+            "zh": "乌隆他尼"
           },
           "value": 0.199,
           "rank": 18
@@ -6430,8 +5814,8 @@
             "th": "นครศรีธรรมราช",
             "de": "Nakhon Si Thammarat",
             "fr": "Nakhon Si Thammarat",
-            "ru": "Nakhon Si Thammarat",
-            "zh": "Nakhon Si Thammarat"
+            "ru": "Накхон Си Тхаммарат",
+            "zh": "洛坤府府城那空是贪玛叻"
           },
           "value": 0.18,
           "rank": 21
@@ -6447,7 +5831,7 @@
             "de": "Surat Thani",
             "fr": "Surat Thani",
             "ru": "Surat Thani",
-            "zh": "Surat Thani"
+            "zh": "素叻他尼"
           },
           "value": 0.18,
           "rank": 22
@@ -6478,8 +5862,8 @@
             "th": "หาดใหญ่",
             "de": "Hat Yai",
             "fr": "Hat Yai",
-            "ru": "Hat Yai",
-            "zh": "Hat Yai"
+            "ru": "Хатъяй",
+            "zh": "合艾"
           },
           "value": 0.161,
           "rank": 24
@@ -6590,8 +5974,8 @@
             "th": "แม่ฮ่องสอน",
             "de": "Mae Hong Son",
             "fr": "Mae Hong Son",
-            "ru": "Mae Hong Son",
-            "zh": "Mae Hong Son"
+            "ru": "Мэ Хонг Сон",
+            "zh": "夜丰颂"
           },
           "value": 0.123,
           "rank": 31
@@ -6606,8 +5990,8 @@
             "th": "ตราด",
             "de": "Trat",
             "fr": "Trat",
-            "ru": "Трат",
-            "zh": "特拉特"
+            "ru": "Trat",
+            "zh": "Trat"
           },
           "value": 0.123,
           "rank": 32
@@ -6663,7 +6047,7 @@
             "ru": "Чиангмай",
             "zh": "清迈"
           },
-          "value": 0.64,
+          "value": 0.66,
           "rank": 2
         },
         {
@@ -6679,24 +6063,8 @@
             "ru": "Ayutthaya",
             "zh": "Ayutthaya"
           },
-          "value": 0.57,
+          "value": 0.58,
           "rank": 3
-        },
-        {
-          "slug": "phuket",
-          "name": {
-            "en": "Phuket",
-            "nl": "Phuket",
-            "ja": "プーケット",
-            "ko": "푸켓",
-            "th": "ภูเก็ต",
-            "de": "Phuket",
-            "fr": "Phuket",
-            "ru": "Пхукет",
-            "zh": "普吉岛"
-          },
-          "value": 0.56,
-          "rank": 4
         },
         {
           "slug": "chiang-rai",
@@ -6711,40 +6079,8 @@
             "ru": "Chiang Rai",
             "zh": "清莱"
           },
-          "value": 0.54,
-          "rank": 5
-        },
-        {
-          "slug": "hua-hin",
-          "name": {
-            "en": "Hua Hin",
-            "nl": "Hua Hin",
-            "ja": "ホアヒン",
-            "ko": "후아힌",
-            "th": "หัวหิน",
-            "de": "Hua Hin",
-            "fr": "Hua Hin",
-            "ru": "Хуа-Хин",
-            "zh": "华欣"
-          },
-          "value": 0.54,
-          "rank": 6
-        },
-        {
-          "slug": "krabi",
-          "name": {
-            "en": "Krabi",
-            "nl": "Krabi",
-            "ja": "クラビ",
-            "ko": "끄라비",
-            "th": "กระบี่",
-            "de": "Krabi",
-            "fr": "Krabi",
-            "ru": "Краби",
-            "zh": "甲米"
-          },
-          "value": 0.54,
-          "rank": 7
+          "value": 0.55,
+          "rank": 4
         },
         {
           "slug": "pattaya",
@@ -6759,8 +6095,40 @@
             "ru": "Паттайя",
             "zh": "芭堤雅"
           },
-          "value": 0.54,
-          "rank": 8
+          "value": 0.53,
+          "rank": 5
+        },
+        {
+          "slug": "phuket",
+          "name": {
+            "en": "Phuket",
+            "nl": "Phuket",
+            "ja": "プーケット",
+            "ko": "푸켓",
+            "th": "ภูเก็ต",
+            "de": "Phuket",
+            "fr": "Phuket",
+            "ru": "Пхукет",
+            "zh": "普吉岛"
+          },
+          "value": 0.53,
+          "rank": 6
+        },
+        {
+          "slug": "hat-yai",
+          "name": {
+            "en": "Hat Yai",
+            "nl": "Hat Yai",
+            "ja": "ハジャイ",
+            "ko": "핫야이",
+            "th": "หาดใหญ่",
+            "de": "Hat Yai",
+            "fr": "Hat Yai",
+            "ru": "Хатъяй",
+            "zh": "合艾"
+          },
+          "value": 0.5,
+          "rank": 7
         },
         {
           "slug": "kanchanaburi",
@@ -6775,136 +6143,24 @@
             "ru": "Kanchanaburi",
             "zh": "Kanchanaburi"
           },
-          "value": 0.52,
+          "value": 0.49,
+          "rank": 8
+        },
+        {
+          "slug": "hua-hin",
+          "name": {
+            "en": "Hua Hin",
+            "nl": "Hua Hin",
+            "ja": "ホアヒン",
+            "ko": "후아힌",
+            "th": "หัวหิน",
+            "de": "Hua Hin",
+            "fr": "Hua Hin",
+            "ru": "Хуа-Хин",
+            "zh": "华欣"
+          },
+          "value": 0.47,
           "rank": 9
-        },
-        {
-          "slug": "lopburi",
-          "name": {
-            "en": "Lopburi",
-            "nl": "Lopburi",
-            "ja": "ロッブリー",
-            "ko": "롭부리",
-            "th": "ลพบุรี",
-            "de": "Lopburi",
-            "fr": "Lopburi",
-            "ru": "Лопбури",
-            "zh": "罗布里"
-          },
-          "value": 0.51,
-          "rank": 10
-        },
-        {
-          "slug": "pai",
-          "name": {
-            "en": "Pai",
-            "nl": "Pai",
-            "ja": "パーイ",
-            "ko": "빠이",
-            "th": "ปาย",
-            "de": "Pai",
-            "fr": "Pai",
-            "ru": "Pai",
-            "zh": "Pai"
-          },
-          "value": 0.51,
-          "rank": 11
-        },
-        {
-          "slug": "phitsanulok",
-          "name": {
-            "en": "Phitsanulok",
-            "nl": "Phitsanulok",
-            "ja": "ピッサヌローク",
-            "ko": "핏사눌록",
-            "th": "พิษณุโลก",
-            "de": "Phitsanulok",
-            "fr": "Phitsanulok",
-            "ru": "Phitsanulok",
-            "zh": "Phitsanulok"
-          },
-          "value": 0.51,
-          "rank": 12
-        },
-        {
-          "slug": "sukhothai",
-          "name": {
-            "en": "Sukhothai",
-            "nl": "Sukhothai",
-            "ja": "スコータイ",
-            "ko": "수코타이",
-            "th": "สุโขทัย",
-            "de": "Sukhothai",
-            "fr": "Sukhothai",
-            "ru": "Sukhothai",
-            "zh": "素可泰"
-          },
-          "value": 0.5,
-          "rank": 13
-        },
-        {
-          "slug": "chanthaburi",
-          "name": {
-            "en": "Chanthaburi",
-            "nl": "Chanthaburi",
-            "ja": "チャンタブリー",
-            "ko": "찬타부리",
-            "th": "จันทบุรี",
-            "de": "Chanthaburi",
-            "fr": "Chanthaburi",
-            "ru": "Chanthaburi",
-            "zh": "Chanthaburi"
-          },
-          "value": 0.49,
-          "rank": 14
-        },
-        {
-          "slug": "chiang-khan",
-          "name": {
-            "en": "Chiang Khan",
-            "nl": "Chiang Khan",
-            "ja": "チエンカーン",
-            "ko": "치앙칸",
-            "th": "เชียงคาน",
-            "de": "Chiang Khan",
-            "fr": "Chiang Khan",
-            "ru": "Chiang Khan",
-            "zh": "Chiang Khan"
-          },
-          "value": 0.49,
-          "rank": 15
-        },
-        {
-          "slug": "chumphon",
-          "name": {
-            "en": "Chumphon",
-            "nl": "Chumphon",
-            "ja": "チュムポーン",
-            "ko": "춤폰",
-            "th": "ชุมพร",
-            "de": "Chumphon",
-            "fr": "Chumphon",
-            "ru": "Чумпхон",
-            "zh": "春蓬"
-          },
-          "value": 0.49,
-          "rank": 16
-        },
-        {
-          "slug": "hat-yai",
-          "name": {
-            "en": "Hat Yai",
-            "nl": "Hat Yai",
-            "ja": "ハジャイ",
-            "ko": "핫야이",
-            "th": "หาดใหญ่",
-            "de": "Hat Yai",
-            "fr": "Hat Yai",
-            "ru": "Hat Yai",
-            "zh": "Hat Yai"
-          },
-          "value": 0.49,
-          "rank": 17
         },
         {
           "slug": "khon-kaen",
@@ -6919,104 +6175,56 @@
             "ru": "Кхон Каен",
             "zh": "孔敬"
           },
-          "value": 0.49,
-          "rank": 18
+          "value": 0.47,
+          "rank": 10
         },
         {
-          "slug": "koh-samui",
+          "slug": "chiang-khan",
           "name": {
-            "en": "Koh Samui",
-            "nl": "Koh Samui",
-            "ja": "サムイ島",
-            "ko": "코사무이",
-            "th": "เกาะสมุย",
-            "de": "Koh Samui",
-            "fr": "Koh Samui",
-            "ru": "Ко Самуи",
-            "zh": "苏梅岛"
+            "en": "Chiang Khan",
+            "nl": "Chiang Khan",
+            "ja": "チエンカーン",
+            "ko": "치앙칸",
+            "th": "เชียงคาน",
+            "de": "Chiang Khan",
+            "fr": "Chiang Khan",
+            "ru": "Chiang Khan",
+            "zh": "Chiang Khan"
           },
-          "value": 0.49,
-          "rank": 19
+          "value": 0.46,
+          "rank": 11
         },
         {
-          "slug": "lampang",
+          "slug": "chumphon",
           "name": {
-            "en": "Lampang",
-            "nl": "Lampang",
-            "ja": "ランパーン",
-            "ko": "람빵",
-            "th": "ลำปาง",
-            "de": "Lampang",
-            "fr": "Lampang",
-            "ru": "Лампанг",
-            "zh": "兰邦"
+            "en": "Chumphon",
+            "nl": "Chumphon",
+            "ja": "チュムポーン",
+            "ko": "춤폰",
+            "th": "ชุมพร",
+            "de": "Chumphon",
+            "fr": "Chumphon",
+            "ru": "Чумпхон",
+            "zh": "春蓬"
           },
-          "value": 0.49,
-          "rank": 20
+          "value": 0.44,
+          "rank": 12
         },
         {
-          "slug": "nakhon-ratchasima",
+          "slug": "chanthaburi",
           "name": {
-            "en": "Nakhon Ratchasima (Korat)",
-            "nl": "Nakhon Ratchasima (Korat)",
-            "ja": "ナコーンラーチャシーマー（コラート）",
-            "ko": "나콘랏차시마 (코랏)",
-            "th": "นครราชสีมา",
-            "de": "Nakhon Ratchasima (Korat)",
-            "fr": "Nakhon Ratchasima (Korat)",
-            "ru": "Nakhon Ratchasima (Korat)",
-            "zh": "Nakhon Ratchasima (Korat)"
+            "en": "Chanthaburi",
+            "nl": "Chanthaburi",
+            "ja": "チャンタブリー",
+            "ko": "찬타부리",
+            "th": "จันทบุรี",
+            "de": "Chanthaburi",
+            "fr": "Chanthaburi",
+            "ru": "Chanthaburi",
+            "zh": "Chanthaburi"
           },
-          "value": 0.49,
-          "rank": 21
-        },
-        {
-          "slug": "nakhon-si-thammarat",
-          "name": {
-            "en": "Nakhon Si Thammarat",
-            "nl": "Nakhon Si Thammarat",
-            "ja": "ナコーンシータンマラート",
-            "ko": "나콘시탐마랏",
-            "th": "นครศรีธรรมราช",
-            "de": "Nakhon Si Thammarat",
-            "fr": "Nakhon Si Thammarat",
-            "ru": "Nakhon Si Thammarat",
-            "zh": "Nakhon Si Thammarat"
-          },
-          "value": 0.49,
-          "rank": 22
-        },
-        {
-          "slug": "nong-khai",
-          "name": {
-            "en": "Nong Khai",
-            "nl": "Nong Khai",
-            "ja": "ノーンカーイ",
-            "ko": "농카이",
-            "th": "หนองคาย",
-            "de": "Nong Khai",
-            "fr": "Nong Khai",
-            "ru": "Nong Khai",
-            "zh": "Nong Khai"
-          },
-          "value": 0.49,
-          "rank": 23
-        },
-        {
-          "slug": "trang",
-          "name": {
-            "en": "Trang",
-            "nl": "Trang",
-            "ja": "トラン",
-            "ko": "뜨랑",
-            "th": "ตรัง",
-            "de": "Trang",
-            "fr": "Trang",
-            "ru": "Trang",
-            "zh": "Trang"
-          },
-          "value": 0.49,
-          "rank": 24
+          "value": 0.43,
+          "rank": 13
         },
         {
           "slug": "bueng-kan",
@@ -7031,72 +6239,72 @@
             "ru": "Буэн Кан",
             "zh": "布恩干"
           },
-          "value": 0.48,
-          "rank": 25
+          "value": 0.41,
+          "rank": 14
         },
         {
-          "slug": "mukdahan",
+          "slug": "krabi",
           "name": {
-            "en": "Mukdahan",
-            "nl": "Mukdahan",
-            "ja": "ムクダーハーン",
-            "ko": "묵다한",
-            "th": "มุกดาหาร",
-            "de": "Mukdahan",
-            "fr": "Mukdahan",
-            "ru": "Mukdahan",
-            "zh": "Mukdahan"
+            "en": "Krabi",
+            "nl": "Krabi",
+            "ja": "クラビ",
+            "ko": "끄라비",
+            "th": "กระบี่",
+            "de": "Krabi",
+            "fr": "Krabi",
+            "ru": "Краби",
+            "zh": "甲米"
           },
-          "value": 0.48,
-          "rank": 26
+          "value": 0.41,
+          "rank": 15
         },
         {
-          "slug": "nakhon-phanom",
+          "slug": "koh-samui",
           "name": {
-            "en": "Nakhon Phanom",
-            "nl": "Nakhon Phanom",
-            "ja": "ナコーンパノム",
-            "ko": "나콘파놈",
-            "th": "นครพนม",
-            "de": "Nakhon Phanom",
-            "fr": "Nakhon Phanom",
-            "ru": "Nakhon Phanom",
-            "zh": "Nakhon Phanom"
+            "en": "Koh Samui",
+            "nl": "Koh Samui",
+            "ja": "サムイ島",
+            "ko": "코사무이",
+            "th": "เกาะสมุย",
+            "de": "Koh Samui",
+            "fr": "Koh Samui",
+            "ru": "Ко Самуи",
+            "zh": "苏梅岛"
           },
-          "value": 0.48,
-          "rank": 27
+          "value": 0.36,
+          "rank": 16
         },
         {
-          "slug": "surat-thani",
+          "slug": "lopburi",
           "name": {
-            "en": "Surat Thani",
-            "nl": "Surat Thani",
-            "ja": "スラーターニー",
-            "ko": "수랏타니",
-            "th": "สุราษฎร์ธานี",
-            "de": "Surat Thani",
-            "fr": "Surat Thani",
-            "ru": "Surat Thani",
-            "zh": "Surat Thani"
+            "en": "Lopburi",
+            "nl": "Lopburi",
+            "ja": "ロッブリー",
+            "ko": "롭부리",
+            "th": "ลพบุรี",
+            "de": "Lopburi",
+            "fr": "Lopburi",
+            "ru": "Лопбури",
+            "zh": "罗布里"
           },
-          "value": 0.48,
-          "rank": 28
+          "value": 0.25,
+          "rank": 17
         },
         {
-          "slug": "udon-thani",
+          "slug": "lampang",
           "name": {
-            "en": "Udon Thani",
-            "nl": "Udon Thani",
-            "ja": "ウドーンターニー",
-            "ko": "우돈타니",
-            "th": "อุดรธานี",
-            "de": "Udon Thani",
-            "fr": "Udon Thani",
-            "ru": "Удон-Тхани",
-            "zh": "乌登他尼"
+            "en": "Lampang",
+            "nl": "Lampang",
+            "ja": "ランパーン",
+            "ko": "람빵",
+            "th": "ลำปาง",
+            "de": "Lampang",
+            "fr": "Lampang",
+            "ru": "Лампанг",
+            "zh": "兰邦"
           },
-          "value": 0.48,
-          "rank": 29
+          "value": 0.23,
+          "rank": 18
         },
         {
           "slug": "mae-hong-son",
@@ -7108,59 +6316,11 @@
             "th": "แม่ฮ่องสอน",
             "de": "Mae Hong Son",
             "fr": "Mae Hong Son",
-            "ru": "Mae Hong Son",
-            "zh": "Mae Hong Son"
+            "ru": "Мэ Хонг Сон",
+            "zh": "夜丰颂"
           },
-          "value": 0.47,
-          "rank": 30
-        },
-        {
-          "slug": "rayong",
-          "name": {
-            "en": "Rayong",
-            "nl": "Rayong",
-            "ja": "ラヨーン",
-            "ko": "라용",
-            "th": "ระยอง",
-            "de": "Rayong",
-            "fr": "Rayong",
-            "ru": "Rayong",
-            "zh": "罗勇"
-          },
-          "value": 0.47,
-          "rank": 31
-        },
-        {
-          "slug": "ubon-ratchathani",
-          "name": {
-            "en": "Ubon Ratchathani",
-            "nl": "Ubon Ratchathani",
-            "ja": "ウボンラーチャターニー",
-            "ko": "우본랏차타니",
-            "th": "อุบลราชธานี",
-            "de": "Ubon Ratchathani",
-            "fr": "Ubon Ratchathani",
-            "ru": "Ubon Ratchathani",
-            "zh": "Ubon Ratchathani"
-          },
-          "value": 0.47,
-          "rank": 32
-        },
-        {
-          "slug": "trat",
-          "name": {
-            "en": "Trat",
-            "nl": "Trat",
-            "ja": "トラート",
-            "ko": "뜨랏",
-            "th": "ตราด",
-            "de": "Trat",
-            "fr": "Trat",
-            "ru": "Трат",
-            "zh": "特拉特"
-          },
-          "value": 0.42,
-          "rank": 33
+          "value": 0.21,
+          "rank": 19
         }
       ]
     },
@@ -7194,8 +6354,8 @@
             "th": "นครราชสีมา",
             "de": "Nakhon Ratchasima (Korat)",
             "fr": "Nakhon Ratchasima (Korat)",
-            "ru": "Nakhon Ratchasima (Korat)",
-            "zh": "Nakhon Ratchasima (Korat)"
+            "ru": "Накхонратчасима (Корат)",
+            "zh": "呵叻府府城那空叻差是玛（Korat）"
           },
           "value": 0.63,
           "rank": 2
@@ -7258,8 +6418,8 @@
             "th": "หาดใหญ่",
             "de": "Hat Yai",
             "fr": "Hat Yai",
-            "ru": "Hat Yai",
-            "zh": "Hat Yai"
+            "ru": "Хатъяй",
+            "zh": "合艾"
           },
           "value": 0.52,
           "rank": 6
@@ -7434,8 +6594,8 @@
             "th": "นครศรีธรรมราช",
             "de": "Nakhon Si Thammarat",
             "fr": "Nakhon Si Thammarat",
-            "ru": "Nakhon Si Thammarat",
-            "zh": "Nakhon Si Thammarat"
+            "ru": "Накхон Си Тхаммарат",
+            "zh": "洛坤府府城那空是贪玛叻"
           },
           "value": 0.42,
           "rank": 17
@@ -7499,7 +6659,7 @@
             "de": "Surat Thani",
             "fr": "Surat Thani",
             "ru": "Surat Thani",
-            "zh": "Surat Thani"
+            "zh": "素叻他尼"
           },
           "value": 0.42,
           "rank": 21
@@ -7546,8 +6706,8 @@
             "th": "อุดรธานี",
             "de": "Udon Thani",
             "fr": "Udon Thani",
-            "ru": "Удон-Тхани",
-            "zh": "乌登他尼"
+            "ru": "Udon Thani",
+            "zh": "乌隆他尼"
           },
           "value": 0.42,
           "rank": 24
@@ -7562,8 +6722,8 @@
             "th": "แม่ฮ่องสอน",
             "de": "Mae Hong Son",
             "fr": "Mae Hong Son",
-            "ru": "Mae Hong Son",
-            "zh": "Mae Hong Son"
+            "ru": "Мэ Хонг Сон",
+            "zh": "夜丰颂"
           },
           "value": 0.38,
           "rank": 25
@@ -7594,8 +6754,8 @@
             "th": "ตราด",
             "de": "Trat",
             "fr": "Trat",
-            "ru": "Трат",
-            "zh": "特拉特"
+            "ru": "Trat",
+            "zh": "Trat"
           },
           "value": 0.38,
           "rank": 27
@@ -7872,8 +7032,8 @@
             "th": "แม่ฮ่องสอน",
             "de": "Mae Hong Son",
             "fr": "Mae Hong Son",
-            "ru": "Mae Hong Son",
-            "zh": "Mae Hong Son"
+            "ru": "Мэ Хонг Сон",
+            "zh": "夜丰颂"
           },
           "value": 0.78,
           "rank": 11
@@ -7968,8 +7128,8 @@
             "th": "หาดใหญ่",
             "de": "Hat Yai",
             "fr": "Hat Yai",
-            "ru": "Hat Yai",
-            "zh": "Hat Yai"
+            "ru": "Хатъяй",
+            "zh": "合艾"
           },
           "value": 0.75,
           "rank": 17
@@ -8064,8 +7224,8 @@
             "th": "นครราชสีมา",
             "de": "Nakhon Ratchasima (Korat)",
             "fr": "Nakhon Ratchasima (Korat)",
-            "ru": "Nakhon Ratchasima (Korat)",
-            "zh": "Nakhon Ratchasima (Korat)"
+            "ru": "Накхонратчасима (Корат)",
+            "zh": "呵叻府府城那空叻差是玛（Korat）"
           },
           "value": 0.75,
           "rank": 23
@@ -8080,8 +7240,8 @@
             "th": "นครศรีธรรมราช",
             "de": "Nakhon Si Thammarat",
             "fr": "Nakhon Si Thammarat",
-            "ru": "Nakhon Si Thammarat",
-            "zh": "Nakhon Si Thammarat"
+            "ru": "Накхон Си Тхаммарат",
+            "zh": "洛坤府府城那空是贪玛叻"
           },
           "value": 0.75,
           "rank": 24
@@ -8129,7 +7289,7 @@
             "de": "Surat Thani",
             "fr": "Surat Thani",
             "ru": "Surat Thani",
-            "zh": "Surat Thani"
+            "zh": "素叻他尼"
           },
           "value": 0.75,
           "rank": 27
@@ -8160,8 +7320,8 @@
             "th": "ตราด",
             "de": "Trat",
             "fr": "Trat",
-            "ru": "Трат",
-            "zh": "特拉特"
+            "ru": "Trat",
+            "zh": "Trat"
           },
           "value": 0.75,
           "rank": 29
@@ -8192,8 +7352,8 @@
             "th": "อุดรธานี",
             "de": "Udon Thani",
             "fr": "Udon Thani",
-            "ru": "Удон-Тхани",
-            "zh": "乌登他尼"
+            "ru": "Udon Thani",
+            "zh": "乌隆他尼"
           },
           "value": 0.75,
           "rank": 31

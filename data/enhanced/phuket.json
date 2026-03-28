@@ -25,12 +25,14 @@
     "ru": "Самый большой остров Таиланда, известный своими пляжами, ночной жизнью, водными видами спорта и поездками между островами.",
     "zh": "泰国最大的岛屿，以海滩、夜生活、水上活动和跳岛游闻名。"
   },
-  "population": 443000,
+  "population": 410211,
+  "population_label": "Registered province population",
+  "population_note": "Official registration-based Phuket province estimates are much smaller than the island's real on-the-ground visitor footprint. Temporary residents and tourists make Phuket feel far bigger than the registered count alone suggests.",
   "highlights": [
-    "Patong Beach",
+    "Phuket Old Town",
+    "Kata Beach",
     "Big Buddha",
-    "Old Town",
-    "Phi Phi Islands"
+    "Phi Phi day trips"
   ],
   "location": {
     "lat": 7.8804,
@@ -39,7 +41,7 @@
   "image": "/images/cities/phuket/phuket-old-town.webp",
   "seo": {
     "metaTitle": {
-      "en": "Phuket Thailand — Travel Guide & Trip Planner 2026",
+      "en": "Phuket Travel Guide | Best Areas, Beaches, Food & Hotels",
       "nl": "Ontdek Phuket | Wat te doen in Phuket?",
       "ja": "プーケット タイ — 旅行ガイド＆プランナー 2026",
       "ko": "푸켓 태국 — 해변, 섬 & 여행 가이드 2026",
@@ -50,7 +52,7 @@
       "zh": "普吉岛，泰国 — 旅行指南与行程规划器 2026"
     },
     "metaDescription": {
-      "en": "Plan your Phuket trip: best areas to stay, beaches, budget tips, transport & when to visit. Complete travel planning guide for 2026.",
+      "en": "Plan a smarter Phuket trip with beach-zone advice, Old Town food picks, hotel recommendations, and practical tips for transport, seasonality, and island day trips.",
       "nl": "Jouw gids voor Phuket, Thailand – tips, highlights, eten, hotels.",
       "ja": "プーケット旅行を計画：おすすめエリア、ビーチ、予算、交通手段、見どころを徹底ガイド。",
       "ko": "푸켓(태국) 완벽 여행 가이드: 최고의 해변, 아일랜드 호핑, 올드타운, 나이트라이프. 가격, 팁, 가는 법.",
@@ -92,576 +94,587 @@
     "tourism",
     "guide"
   ],
-  "enhanced_description": "As the sun dips below the horizon, casting a golden glow over the Andaman Sea, the gentle sound of waves lapping against the shore fills the air. This is Phuket, Thailand's largest island, where the salty breeze carries whispers of adventure and the tantalizing aroma of street food mingles with the scent of tropical flowers. The vibrant colors of the sunsets here are a daily reminder that life is a celebration, and it’s a place where every moment feels alive. \n\nWhen I first arrived in Phuket, I was drawn into its rhythm—the bustling markets in Old Town, where the pastel-colored Sino-Portuguese buildings stand as a testament to the island's rich history. I remember wandering through the streets, the chatter of locals blending with the sounds of sizzling woks. One evening, I stumbled upon a night market where an elderly woman was making fresh spring rolls. Her hands moved gracefully as she filled each roll with crunchy vegetables and aromatic herbs. I couldn’t resist and ended up sitting on a small plastic stool, sharing laughter and stories with her as I savored the flavor of her food. It was moments like these that made me realize Phuket is not just about its stunning beaches or vibrant nightlife; it's about the connections you make. \n\nUnlike other Thai destinations, Phuket offers a unique blend of relaxation and exhilaration. You can spend your day lounging on the soft sands of Kata Beach before heading to Patong for a night of dancing and revelry. But beyond the party scene, there’s a deeper soul to the island. The Big Buddha, standing majestically at 45 meters tall, is not just a tourist attraction; it’s a spiritual haven. I remember climbing up the winding path to reach it, where I was greeted by the serene atmosphere and the sound of monks chanting. The view from the top was breathtaking, a sweeping panorama of the island that made me feel both small and connected to something larger. \n\nWhat truly sets Phuket apart is its spirit of adventure. From island hopping to hidden coves, the possibilities are endless. One weekend, I decided to take a longtail boat to Koh Phi Phi. As we sped across the turquoise waters, the thrill of wind in my hair and the sun on my face was intoxicating. Upon arrival, I found myself snorkeling in crystal-clear waters, surrounded by colorful fish darting around me. It was pure bliss, a reminder of why I fell in love with this island in the first place. \n\nPhuket is a place where every corner has a story, and every experience is an opportunity to dive deeper into its culture. Whether it’s tasting the sweet and spicy flavors of local cuisine or engaging in a traditional Muay Thai class, there is always something new to discover. As I reflect on my time here, I realize that Phuket is not just a destination; it’s a journey of the senses, a tapestry woven from the vibrant threads of nature, culture, and community. It’s a place that beckons you to explore, to connect, and to savor life’s simple pleasures. And trust me, once you’ve experienced it, you’ll find it hard to leave.",
+  "enhanced_description": "Phuket works best when you stop treating it as one generic beach destination. Patong, Kata, Karon, Bangtao, Old Town, Rawai, and the quieter southern corners all solve different travel problems. Patong is the easiest base for nightlife and dense tourist infrastructure, but it is not the whole island. Kata and Karon fit classic beach holidays better, Bangtao and Surin make more sense for upscale resort stays, and Old Town matters if food, architecture, and local urban texture are part of the trip rather than an afterthought.\n\nWhat makes Phuket stronger than many resort destinations is the range you can build into one stay. A short trip can combine beach time, a temple or viewpoint stop, serious Southern Thai food, one Old Town evening, and one well-chosen boat day without feeling forced. It is also one of the easiest places in Thailand to decide your trip style by area: family beach holiday, resort-heavy couples stay, nightlife-led base, or food-and-culture mix.\n\nThat said, Phuket punishes vague planning. Distances are longer than they look on a resort map, traffic can reshape the day, and west-coast beach conditions change meaningfully with the season. If you choose the right base, keep expectations realistic about transport, and avoid turning every beach and boat stop into one giant checklist, Phuket becomes a much better island than its clichés suggest.",
   "hidden_gems": [
     {
-      "name": "Laem Singh Viewpoint",
-      "story": "I stumbled upon Laem Singh while looking for a quiet spot away from the crowds. The view took my breath away; it felt like a secret slice of paradise. I met a local artist there who shared his sketches of the view, and we spent the afternoon exchanging stories.",
-      "how_to_find": "Head north from Kamala Beach, look for a small path leading through the trees. It can be tricky, but the view is worth it.",
-      "best_time": "Late afternoon for the sunset.",
-      "local_insights": [
-        "Bring water and snacks; it's a bit of a trek and there's no food nearby."
-      ]
-    },
-    {
       "name": "Koh Sirey",
-      "story": "I found Koh Sirey when I decided to take a bike ride around Phuket Town. This small island is often overlooked, but the fishing village there is so charming. I had a delightful chat with a fisherman about his daily catch.",
-      "how_to_find": "Take the bridge from Phuket Town, and follow the signs to the fishing village.",
-      "best_time": "Early morning to see the fishermen at work.",
+      "story": "Koh Sirey is one of Phuket's easiest low-pressure detours if you want a slower local-feeling edge to the island rather than another west-coast beach stop. It sits close to Phuket Town but feels quieter, with a fishing-community rhythm and a more overlooked viewpoint-and-temple atmosphere.",
+      "how_to_find": "Go east of Phuket Town across the short bridge onto Koh Sirey. It works best by car or ride-hailing rather than as a casual walk-up stop.",
+      "best_time": "Morning or late afternoon is strongest, when the light is softer and the area feels calmer.",
       "local_insights": [
-        "Try to learn a few Thai phrases; it goes a long way in connecting with the locals."
+        "Treat this as a short slower detour, not as a full headline attraction day.",
+        "It combines naturally with Phuket Town rather than with west-coast beach hopping."
       ]
     },
     {
-      "name": "Koh Yao Noi",
-      "story": "A local friend invited me to his family's home on Koh Yao Noi for a weekend. The island is serene, with stunning beaches and warm hospitality. We spent our days cycling around and enjoying homemade meals.",
-      "how_to_find": "Catch a ferry from Bang Rong Pier; it’s about a 30-minute ride.",
-      "best_time": "Visit during the week to avoid weekend crowds.",
+      "name": "Ao Yon Beach",
+      "story": "Ao Yon is one of the better Phuket hidden-beach choices if you want a quieter bay feel without leaving the island entirely behind. It is not completely secret, but it is much less dominated by the Patong-Kata-Karon rhythm and usually feels more local and residential.",
+      "how_to_find": "Head toward Cape Panwa side rather than Phuket's better-known west-coast beaches. It is easiest by scooter, car, or Grab.",
+      "best_time": "Earlier in the day is usually best if you want a calmer beach stop before the heat and traffic build.",
       "local_insights": [
-        "Bring cash; there are few ATMs on the island."
+        "This works better as a quieter beach break than as a full-service resort strip.",
+        "Combine it with the Cape Panwa side, not with a rushed Patong-to-Old-Town day."
+      ]
+    },
+    {
+      "name": "Old Town Side Streets Beyond Thalang Road",
+      "story": "Phuket Old Town is not really a hidden place, but many visitors stop at the obvious photo streets and miss the side-lane food, kopitiam, and shrine rhythm that make the district feel culturally specific. The deeper reward is not only the shophouse facades, but the way Chinese-Peranakan influences still shape the area.",
+      "how_to_find": "Start from Thalang Road or Soi Romanee, then keep moving into the surrounding lanes instead of staying only on the main photo corridor.",
+      "best_time": "Morning is strongest for cafes and breakfast stops; Sunday evening is strongest if you want the walking-street atmosphere.",
+      "local_insights": [
+        "This is better with time to wander than with a checklist of photo points.",
+        "Pair architecture browsing with actual food stops, not just street photos."
       ]
     }
   ],
   "authentic_experiences": [
     {
-      "activity": "Joining a local Muay Thai training session",
-      "story": "I signed up for a Muay Thai class thinking it would be a fun workout. The trainer was tough but incredibly supportive. By the end of the session, I was sweaty and exhausted, but I felt a sense of accomplishment and camaraderie with the other participants.",
-      "cultural_significance": "Muay Thai is not just a sport; it's a part of Thai culture and history.",
-      "how_to_participate": "Look for local gyms in Patong or Kamala; they often have beginner classes.",
+      "activity": "Explore Phuket Old Town during Sunday Walking Street",
+      "story": "Old Town becomes much more than a photo district when you visit during the Sunday walking-street period. The value is not only in the restored shophouses, but in seeing food, local shopping, and evening street life pull the district together.",
+      "cultural_significance": "This is one of the clearest ways to experience Phuket beyond beach resorts, especially its Chinese-Peranakan heritage and old commercial core.",
+      "how_to_participate": "Go to Phuket Old Town with enough time to walk, snack, and browse rather than rushing in for one street photo.",
       "insights": [
-        "Respect the traditions; bow to the ring and the trainers before starting."
-      ]
+        "This works better as a slow evening than as a quick pre-dinner detour.",
+        "Food stops matter as much as architecture here."
+      ],
+      "href": "/city/phuket/attractions/phuket-old-town/",
+      "cta_label": "Explore Phuket Old Town"
     },
     {
-      "activity": "Participating in a local cooking class",
-      "story": "I took a cooking class in a local home where the chef taught us how to make green curry from scratch. The joy of tasting my own creation was unmatched, and I still use the recipes today.",
-      "cultural_significance": "Cooking is a way to connect with Thai culture and its flavors.",
-      "how_to_participate": "Look for classes offered by local families; they often include market tours.",
+      "activity": "Take a Southern Thai cooking class",
+      "story": "A good Phuket cooking class adds more value than a generic resort cooking demo because Southern Thai food has a different spice logic, herb profile, and seafood orientation from central Thai comfort dishes.",
+      "cultural_significance": "This is one of the clearest ways to connect the island's food culture with ingredients, market context, and technique rather than only restaurant consumption.",
+      "how_to_participate": "Choose a class that includes market context or ingredient explanation instead of only a hotel-kitchen format.",
       "insights": [
-        "Ask questions; locals love sharing their culinary secrets."
-      ]
+        "Ask specifically about Southern Thai flavor balance and how Phuket food differs from Bangkok-style menus."
+      ],
+      "href": "/city/phuket/cooking-classes/",
+      "cta_label": "Compare Phuket cooking classes"
+    },
+    {
+      "activity": "Do an Old Town breakfast and kopitiam morning",
+      "story": "Phuket feels more culturally distinct in the morning than many first-time visitors expect. Coffee shops, roti counters, noodle stops, and dessert specialists reveal the island's Hokkien-Chinese and Baba-Nyonya food history far better than a generic resort breakfast ever will.",
+      "cultural_significance": "This is one of the easiest ways to experience Phuket's food heritage without needing a formal tour.",
+      "how_to_participate": "Start in or near Old Town and build the morning around two or three focused food stops rather than one large sit-down brunch.",
+      "insights": [
+        "The strongest version is a short crawl, not one oversized meal.",
+        "Breakfast hours matter more here than in all-day resort zones."
+      ],
+      "href": "/city/phuket/food/",
+      "cta_label": "See Phuket food picks"
+    },
+    {
+      "activity": "Choose one serious boat day, not three rushed ones",
+      "story": "Phuket's boat and island-hopping options are a major part of its appeal, but the experience is much stronger when you choose one route that fits your priorities instead of trying to collect every famous bay in one stay.",
+      "cultural_significance": "Boat culture is part of how Phuket functions as a gateway to the wider Andaman coast rather than only a standalone resort island.",
+      "how_to_participate": "Pick between Phi Phi, Phang Nga Bay, or another island route based on scenery, snorkeling, or kayaking rather than booking every famous name.",
+      "insights": [
+        "Sea conditions and season matter more than the brochure photos."
+      ],
+      "href": "/city/phuket/top-10-attractions/",
+      "cta_label": "See Phuket day-trip highlights"
     }
   ],
   "foodie_adventures": [
     {
-      "dish": "Pad Thai",
-      "location": "Thip Samai in Old Town",
-      "story": "I remember the first time I had Pad Thai here; it was nothing like the versions back home. The flavors were vibrant, and the texture was perfect. Watching them prepare it fresh was a spectacle in itself.",
-      "price_range": "60-80 baht",
+      "dish": "Mee Hokkien",
+      "location": "Phuket Old Town",
+      "where_to_find": "Look for it in and around Phuket Old Town rather than on generic resort menus.",
+      "story": "Mee Hokkien is one of the clearest dishes that ties Phuket back to its Hokkien-Chinese roots. It makes more sense here than a generic pad thai order because it actually says something about the island's food history.",
+      "price_range": "Budget to moderate",
       "ordering_tips": [
-        "Ask for extra lime and peanuts; it enhances the flavor."
-      ]
+        "Prioritize a focused noodle shop over a broad tourist menu.",
+        "Pair it with another old-town specialty rather than treating it as a one-dish lunch stop."
+      ],
+      "href": "/food/mee-hokkien",
+      "cta_label": "Learn about Mee Hokkien"
     },
     {
-      "dish": "Massaman Curry",
-      "location": "Roti Chao Gang in Patong",
-      "story": "I was recommended this place by a local friend. The Massaman curry was rich and comforting, served with fluffy rice. It felt like a warm hug on a rainy day.",
-      "price_range": "120-150 baht",
+      "dish": "Moo Hong",
+      "location": "Phuket Old Town and Southern Thai restaurants",
+      "where_to_find": "One Chun and other old-town Southern Thai kitchens are good places to start.",
+      "story": "Moo Hong is one of Phuket's most useful dishes if you want the island to feel culturally specific. The slow-braised pork format reflects the Peranakan and Chinese-influenced side of Phuket's culinary identity much more clearly than generic stir-fries.",
+      "price_range": "Moderate",
       "ordering_tips": [
-        "Don’t forget to ask for their homemade roti to go with it."
-      ]
+        "This works best as part of a shared table, not as the only dish.",
+        "It pairs well with sharper, spicier Southern Thai dishes."
+      ],
+      "href": "/food/moo-hong",
+      "cta_label": "Learn about Moo Hong"
     },
     {
-      "dish": "Som Tum (Papaya Salad)",
-      "location": "Som Tum Nua in Kata",
-      "story": "The first time I tried Som Tum, I was blown away by the freshness and the perfect balance of spicy, sour, and sweet. The chef even taught me how to pick the right papaya.",
-      "price_range": "50-70 baht",
+      "dish": "Oh Aew",
+      "location": "Phuket Old Town",
+      "where_to_find": "Best treated as an Old Town dessert stop rather than a beach snack.",
+      "story": "Oh Aew is one of the easiest ways to make Phuket feel unlike the rest of Thailand. It is a true regional dessert tied to the island's Hokkien-Chinese and Peranakan background, and it belongs in a real Phuket food crawl.",
+      "price_range": "Budget",
       "ordering_tips": [
-        "Specify your spice level; it can get intense!"
-      ]
+        "Have it as part of an Old Town snack route rather than after a big resort meal.",
+        "It is strongest in the hotter part of the day when you want something cold and local."
+      ],
+      "href": "/food/oh-aew",
+      "cta_label": "Learn about Oh Aew"
+    },
+    {
+      "dish": "Roti with Curry or Banana",
+      "location": "Old Town breakfast shops",
+      "where_to_find": "Roti Thaew Nam and similar morning shops around Phuket Town are stronger than random beach-road versions.",
+      "story": "Phuket's Muslim and Southern Thai breakfast culture is part of what makes the island's food scene broader than resort seafood and sunset cocktails. A real roti stop in town says more about local daily life than another imported brunch menu.",
+      "price_range": "Budget",
+      "ordering_tips": [
+        "Go in the morning; this is a breakfast rhythm, not an all-day resort snack.",
+        "Savory curry roti and sweet banana roti do different jobs, so order the one that fits the time of day."
+      ],
+      "href": "/food/roti-canai",
+      "cta_label": "Learn about Thai roti"
     }
   ],
   "local_insights": [
-    {
-      "observation": "The kindness of locals is overwhelming.",
-      "tip": "Learn a few Thai phrases; it opens doors.",
-      "surprise": "I was invited to a local wedding after making friends at a market."
-    },
-    {
-      "observation": "The nightlife is vibrant but can be overwhelming.",
-      "tip": "Explore quieter bars for a more laid-back vibe.",
-      "surprise": "I found a hidden rooftop bar with amazing views that felt like a secret escape."
-    }
+    "The most important Phuket planning decision is not the island itself, but which stretch of the island fits your trip style.",
+    "Old Town and the west-coast beach zones are different experiences; treating them as the same day by default often leads to rushed planning.",
+    "Phuket can feel overdeveloped if you only know Patong, but that is not the only version of the island.",
+    "Transport time and traffic matter much more here than in compact city destinations such as Chiang Mai.",
+    "The island makes more sense when you balance one or two boat or beach priorities with actual time for food and neighborhood context."
   ],
   "seasonal_secrets": {
-    "best_times": {
-      "November": "The start of the high season, perfect for beach activities.",
-      "February": "Ideal time for cultural festivals and outdoor events."
-    },
+    "best_season": "Dry Season",
+    "why": "November through February is usually the easiest first-timer window for calmer seas, more reliable beach conditions, and smoother boat-day planning.",
     "local_festivals": [
-      "Loy Krathong (November)",
+      "Phuket Vegetarian Festival (usually September or October)",
       "Songkran (April)"
     ],
-    "seasonal_foods": {
-      "rainy season": "Fresh seafood is plentiful during this time.",
-      "dry season": "Street food stalls pop up everywhere, offering seasonal fruits."
-    },
-    "insider_tips": {
-      "dry season": "Book accommodations in advance; they fill up quickly.",
-      "rainy season": "Don’t shy away from the rain; it cools the air and makes for cozy evenings."
-    }
+    "seasonal_foods": [
+      "Phuket food matters year-round, but boat-day quality and west-coast sea conditions vary much more by season than restaurant access does."
+    ],
+    "insider_tips": [
+      "Low season can still work well if your trip is not built entirely around boat tours and picture-perfect west-coast beach days.",
+      "If snorkeling and island hopping are the main point of the trip, season matters more than hotel category."
+    ]
   },
   "budget_reality": {
-    "daily_costs": {
-      "breakfast": "40 baht for rice porridge (jok) from a street vendor",
-      "lunch": "60-80 baht for Thai fried rice or noodles at a local stall",
-      "dinner": "100-150 baht for a Thai meal at a local restaurant (seafood near Patong costs much more)",
-      "massage": "250-500 baht (walk a few streets from tourist strip for better prices)",
-      "smart_bus": "100 baht per ride from airport (day pass 300 baht)",
-      "grab_ride": "50-250 baht depending on distance",
-      "tuk_tuk": "200-400 baht for a short ride near Bangla Road (overpriced!)",
-      "island_tour_low_season": "1,200-1,500 baht per person",
-      "island_tour_high_season": "2,000-3,000 baht per person",
-      "nightlife_bangla": "~3,000 baht for an evening on Bangla Walking Street"
-    },
-    "money_saving_tricks": [
-      "Take the Smart Bus from the airport (100 THB) instead of a taxi or minibus.",
-      "Download and use the Grab app for all transport — much cheaper than tuk-tuks.",
-      "Eat Thai food at local restaurants instead of tourist-area seafood places — same quality, fraction of the price.",
-      "For fresh affordable seafood, skip Patong and go to fish markets in Kata or Karon.",
-      "Book excursions from beach-side tour operators, never through your hotel (they add commission).",
-      "Walk 2-3 streets away from Patong Beach for massages at half the price.",
-      "Shop at Jungceylon or Central malls instead of street vendors — better prices on real products.",
-      "Visit in low season (May-October) for 30-50% lower prices on everything."
+    "budget": "$35-60/day",
+    "mid_range": "$90-180/day",
+    "luxury": "$250+/day",
+    "examples": [
+      "Beach-zone hotels and transport push Phuket above many mainland Thai destinations even before tours are added.",
+      "Boat days and nightlife can move the daily spend much faster than food alone."
     ],
-    "where_to_splurge": [
-      "A day tour to Phi Phi Islands — one of the most beautiful places in Thailand.",
-      "A sunset dinner at a rooftop restaurant overlooking the Andaman Sea.",
-      "A traditional Thai spa experience at a quality resort spa.",
-      "A private longtail boat trip to James Bond Island and Phang Nga Bay."
+    "money_saving_tricks": [
+      "Choose one main beach zone instead of paying to bounce across the island every day.",
+      "Use Phuket Town and Old Town for some meals if you want stronger value than resort-strip dining.",
+      "Book only one or two serious paid boat days instead of stacking every famous island route."
     ],
     "hidden_costs": [
-      "Tuk-tuks near Bangla Road charge 200-400 baht for a 3-4 minute ride — use Grab instead.",
-      "Airport minibuses make stops at tour offices that pressure you into buying overpriced packages.",
-      "Hotels may swap your room for a lower category in high season — always screenshot your booking.",
-      "Motorbike fines from tourist police for no helmet or no international license — save yourself the hassle.",
-      "National park entrance fees are sometimes not included in tour prices — always confirm beforehand.",
-      "Beach activity prices (jet ski, parasailing) at Patong are heavily inflated — always negotiate."
+      "Airport and cross-island transfers add up faster than many first-time visitors expect.",
+      "Tour quotes do not always include every park or pier fee, so confirm what is actually bundled.",
+      "West-coast nightlife zones can turn a moderate day into an expensive evening very quickly."
     ]
   },
   "top_attractions": [
     {
       "rank": 1,
-      "name": "Big Buddha (Phra Phuttha Ming Mongkol Ashtamangala)",
-      "description": "Iconic 45-meter tall white marble Buddha statue overlooking Phuket with panoramic island views. Located on Nakkerd Hill in Chalong.",
-      "location": "Chalong, Phuket",
-      "entrance_fee": "Free",
+      "name": "Phuket Old Town",
+      "description": "Phuket Old Town is the island's strongest culture-and-food anchor, especially if you care about Sino-Portuguese architecture, local dining, and seeing something beyond resort strips.",
+      "location": "Phuket Town",
+      "entrance_fee": "Free to explore",
       "highlights": [
-        "Free entrance",
-        "Panoramic views",
-        "Spiritual significance"
-      ]
+        "Sino-Portuguese streets",
+        "Old Town food stops",
+        "Sunday Walking Street"
+      ],
+      "href": "/city/phuket/attractions/phuket-old-town/",
+      "cta_label": "Explore Phuket Old Town"
     },
     {
       "rank": 2,
-      "name": "Patong Beach",
-      "description": "Phuket's most popular beach with clear waters, water sports facilities, and vibrant beach clubs. Center of tourism activity.",
-      "location": "Patong",
+      "name": "Big Buddha Phuket",
+      "description": "The Big Buddha still works as Phuket's clearest hilltop landmark and viewpoint stop, especially when paired with Wat Chalong or the Chalong side of the island.",
+      "location": "Nakkerd Hill / Chalong side",
       "entrance_fee": "Free",
       "highlights": [
-        "Water sports",
-        "Beach clubs",
-        "Nightlife nearby"
-      ]
+        "45m statue",
+        "Island views",
+        "Temple dress code applies"
+      ],
+      "href": "/city/phuket/attractions/big-buddha-phuket/",
+      "cta_label": "See the Big Buddha guide"
     },
     {
       "rank": 3,
-      "name": "Phi Phi Islands (Day Trip)",
-      "description": "Twin limestone islands featuring pristine beaches, crystal-clear snorkeling waters, and dramatic cliffs. Accessible via boat tour.",
-      "location": "Offshore, 40km east",
-      "entrance_fee": "400 THB (12 USD) national park fee per person",
+      "name": "Wat Chalong",
+      "description": "Wat Chalong is the island's most important temple stop for visitors who want more than a beach-only Phuket trip.",
+      "location": "Chalong",
+      "entrance_fee": "Free",
       "highlights": [
-        "Snorkeling",
-        "Limestone cliffs",
-        "Maya Bay"
-      ]
+        "Major temple complex",
+        "Religious significance",
+        "Works well with Big Buddha"
+      ],
+      "href": "/city/phuket/attractions/wat-chalong/",
+      "cta_label": "See the Wat Chalong guide"
     },
     {
       "rank": 4,
-      "name": "James Bond Island (Khao Phing Kan)",
-      "description": "Famous limestone rock formation featured in James Bond film with sea kayaking opportunities through mangrove channels.",
-      "location": "Phang Nga Bay",
-      "entrance_fee": "300 THB (9 USD) per person tour",
-      "highlights": [
-        "Movie location",
-        "Sea kayaking",
-        "Mangrove exploration"
-      ]
-    },
-    {
-      "rank": 5,
-      "name": "Phuket Old Town (Sino-Portuguese District)",
-      "description": "Historic downtown area with colorful colonial architecture, local markets, and traditional Thai-Chinese buildings.",
-      "location": "Phuket Town center",
-      "entrance_fee": "Free",
-      "highlights": [
-        "Architecture",
-        "Local markets",
-        "Street food"
-      ]
-    },
-    {
-      "rank": 6,
-      "name": "Wat Chalong",
-      "description": "Phuket's most sacred Buddhist temple featuring ornate traditional Thai architecture, golden spires, and spiritual significance.",
-      "location": "Chalong area",
-      "entrance_fee": "Free",
-      "highlights": [
-        "Religious site",
-        "Architecture",
-        "Local culture"
-      ]
-    },
-    {
-      "rank": 7,
-      "name": "Phuket FantaSea",
-      "description": "Nightly cultural show featuring Thai mythology performances, elephant shows, and dinner buffet experience.",
-      "location": "Kamala Beach",
-      "entrance_fee": "1800 THB (53 USD) adults",
-      "highlights": [
-        "Cultural show",
-        "Elephant performance",
-        "Dinner included"
-      ]
-    },
-    {
-      "rank": 8,
       "name": "Kata Beach",
-      "description": "Less crowded alternative to Patong with calm waters perfect for families and swimming, along with restaurants and shops.",
+      "description": "Kata is one of Phuket's easiest beaches for first-time visitors who want a real beach holiday without jumping straight into Patong's chaos.",
       "location": "Kata",
       "entrance_fee": "Free",
       "highlights": [
+        "Swimmable seasonally",
         "Family-friendly",
-        "Calm waters",
-        "Quieter atmosphere"
-      ]
+        "Good first-time beach base"
+      ],
+      "href": "/city/phuket/attractions/kata-beach/",
+      "cta_label": "See the Kata Beach guide"
+    },
+    {
+      "rank": 5,
+      "name": "Patong Beach",
+      "description": "Patong matters because it defines one version of Phuket: nightlife, dense tourist services, and the island's most commercial beach zone.",
+      "location": "Patong",
+      "entrance_fee": "Free",
+      "highlights": [
+        "Nightlife base",
+        "Busy beach strip",
+        "Best if you want action"
+      ],
+      "href": "/city/phuket/attractions/patong-beach/",
+      "cta_label": "See the Patong Beach guide"
+    },
+    {
+      "rank": 6,
+      "name": "Phi Phi Islands",
+      "description": "Phi Phi remains one of Phuket's signature day-trip draws, especially for dramatic Andaman scenery and snorkeling-led itineraries.",
+      "location": "Day trip from Phuket piers",
+      "entrance_fee": "Tour-dependent; park fees may apply",
+      "highlights": [
+        "Iconic island day trip",
+        "Snorkeling",
+        "Maya Bay routes"
+      ],
+      "href": "/city/phuket/attractions/phi-phi-islands/",
+      "cta_label": "See the Phi Phi guide"
+    },
+    {
+      "rank": 7,
+      "name": "James Bond Island / Phang Nga Bay",
+      "description": "This route is strongest for limestone scenery and kayaking-style bay exploration rather than for a classic beach day.",
+      "location": "Phang Nga Bay day trip",
+      "entrance_fee": "Tour-dependent",
+      "highlights": [
+        "Limestone karsts",
+        "Kayaking routes",
+        "Classic bay scenery"
+      ],
+      "href": "/city/phuket/attractions/james-bond-island/",
+      "cta_label": "See the Phang Nga Bay guide"
+    },
+    {
+      "rank": 8,
+      "name": "Karon Beach",
+      "description": "Karon works well if you want a broad beach and easier resort pacing without the same density and nightlife pull as Patong.",
+      "location": "Karon",
+      "entrance_fee": "Free",
+      "highlights": [
+        "Long beach strip",
+        "Quieter than Patong",
+        "Good resort base"
+      ],
+      "href": "/city/phuket/attractions/karon-beach/",
+      "cta_label": "See the Karon Beach guide"
     }
   ],
   "top_restaurants": [
     {
       "rank": 1,
-      "name": "Casa Boho Phuket",
-      "description": "Contemporary Latin-inspired bar and restaurant with creative cocktails and fusion cuisine in vibrant atmosphere.",
-      "cuisine_type": "Latin, Bar",
-      "price_range": "400-800 THB per person",
-      "rating": 5,
+      "name": "Tu Kab Khao",
+      "description": "One of Phuket's most defensible restaurant picks if you want a heritage-building setting and serious Southern Thai food without sliding into generic tourist seafood.",
+      "cuisine_type": "Southern Thai",
+      "location": "Phang Nga Road, Phuket Old Town",
+      "price_range": "Moderate",
       "highlights": [
-        "5.0 rating",
-        "Latin fusion",
-        "Cocktails"
-      ]
+        "Bib Gourmand",
+        "Old Town setting",
+        "Good first Southern Thai dinner"
+      ],
+      "href": "/city/phuket/top-10-restaurants/",
+      "cta_label": "See the Phuket restaurant guide"
     },
     {
       "rank": 2,
-      "name": "Rock Salt",
-      "description": "Upscale seafood restaurant featuring Mediterranean influences with fresh daily catch and refined ambiance.",
-      "cuisine_type": "Seafood, Mediterranean",
-      "price_range": "500-1200 THB per person",
-      "rating": 4.8,
+      "name": "One Chun",
+      "description": "A strong old-town pick for visitors who want family-style Southern Thai dishes in a setting that still feels rooted in Phuket rather than in resort dining.",
+      "cuisine_type": "Southern Thai",
+      "location": "Thep Krasatti Road, Phuket Old Town",
+      "price_range": "Moderate",
       "highlights": [
-        "Fresh seafood",
-        "Mediterranean style",
-        "4.8 rating"
-      ]
+        "Bib Gourmand",
+        "Old Town classic",
+        "Known for moo hong"
+      ],
+      "href": "/city/phuket/top-10-restaurants/",
+      "cta_label": "See the Phuket restaurant guide"
     },
     {
       "rank": 3,
-      "name": "Sizzle Rooftop Restaurant",
-      "description": "High-end steakhouse and seafood restaurant with panoramic rooftop views and premium grilled selections.",
-      "cuisine_type": "Steakhouse, Seafood",
-      "price_range": "600-1500 THB per person",
-      "rating": 4.8,
+      "name": "Royd",
+      "description": "Royd is one of the clearest choices if you want Phuket food taken in a more chef-led, contemporary direction without losing the Southern Thai core.",
+      "cuisine_type": "Southern Thai, Contemporary",
+      "location": "Dibuk Road, Phuket Town",
+      "price_range": "Upscale",
       "highlights": [
-        "Rooftop views",
-        "Premium steaks",
-        "Seafood"
-      ]
+        "Chef's table style",
+        "Local ingredients",
+        "Stronger for destination dining"
+      ],
+      "href": "/city/phuket/top-10-restaurants/",
+      "cta_label": "See the Phuket restaurant guide"
     },
     {
       "rank": 4,
-      "name": "La Gritta",
-      "description": "Italian restaurant specializing in authentic pizza and Italian cuisine with quality imported ingredients.",
-      "cuisine_type": "Italian, Pizza",
-      "price_range": "300-800 THB per person",
-      "rating": 4.8,
+      "name": "Blue Elephant Phuket",
+      "description": "A useful pick if you want Phuket dining in a restored historic setting and do not mind a more polished, occasion-style meal.",
+      "cuisine_type": "Royal Thai / Southern Thai influences",
+      "location": "Governor's Mansion area, Phuket Town",
+      "price_range": "Upscale",
       "highlights": [
-        "Authentic pizza",
-        "Italian cuisine",
-        "4.8 rating"
-      ]
+        "Historic mansion setting",
+        "Occasion dining",
+        "Phuket Town base"
+      ],
+      "href": "/city/phuket/top-10-restaurants/",
+      "cta_label": "See the Phuket restaurant guide"
     },
     {
       "rank": 5,
-      "name": "Kata On Fire Bar And Grill",
-      "description": "Casual beachfront grill restaurant serving seafood and quick bites with laid-back atmosphere in Kata Beach area.",
-      "cuisine_type": "Seafood, Fast Food",
-      "price_range": "250-600 THB per person",
-      "rating": 4.8,
+      "name": "Roti Thaew Nam",
+      "description": "This is less about formal restaurant polish and more about why Phuket's breakfast culture matters. It is a strong short stop if you want the island to taste local early in the day.",
+      "cuisine_type": "Breakfast, small eats",
+      "location": "Thep Krasattri Road, Phuket Old Town",
+      "price_range": "Budget",
       "highlights": [
-        "Beachfront",
-        "Grilled seafood",
-        "Casual dining"
-      ]
-    },
-    {
-      "rank": 6,
-      "name": "Khao Tom Dibuk",
-      "description": "Authentic local Thai rice porridge (khao tom) and comfort food establishment where locals eat for genuine flavors.",
-      "cuisine_type": "Thai, Comfort Food",
-      "price_range": "60-150 THB per meal",
-      "highlights": [
-        "Local favorite",
-        "Authentic Thai",
-        "Budget-friendly"
-      ]
+        "Bib Gourmand",
+        "Old-school breakfast stop",
+        "Good for roti and curry"
+      ],
+      "href": "/city/phuket/top-10-restaurants/",
+      "cta_label": "See the Phuket restaurant guide"
     }
   ],
   "top_hotels": [
     {
       "rank": 1,
-      "name": "Hotel Clover Patong Phuket",
-      "description": "Highly-rated 4-star hotel in central Patong offering comfortable mid-range accommodation with modern amenities.",
-      "price_range": "$80-150/night",
-      "category": "midrange",
-      "rating": 4.9,
+      "name": "The Slate",
+      "description": "One of the better Phuket picks if you want design-heavy resort character near Nai Yang rather than a generic chain stay.",
+      "price_range": "Upscale to luxury",
+      "category": "upscale",
+      "area": "Nai Yang / airport side",
       "highlights": [
-        "4.9 rating",
-        "Central Patong",
-        "Modern rooms"
-      ]
+        "Design-forward resort",
+        "Good for quieter stays",
+        "Useful for north-side beach focus"
+      ],
+      "href": "/city/phuket/top-10-hotels/",
+      "cta_label": "See the Phuket hotel guide"
     },
     {
       "rank": 2,
-      "name": "Crest Resort & Pool Villas",
-      "description": "Upscale resort featuring private pool villas and contemporary design with excellent service standards.",
-      "price_range": "$120-200/night",
-      "category": "midrange",
-      "rating": 4.7,
+      "name": "COMO Point Yamu",
+      "description": "A strong fit if you want polished luxury away from the island's busier west-coast resort strip, especially for a calmer couples trip.",
+      "price_range": "Luxury",
+      "category": "luxury",
+      "area": "East coast / Point Yamu",
       "highlights": [
-        "Pool villas",
-        "4.7 rating",
-        "Contemporary design"
-      ]
+        "Quiet luxury base",
+        "Not beach-strip driven",
+        "Good for resort-led stays"
+      ],
+      "href": "/city/phuket/top-10-hotels/",
+      "cta_label": "See the Phuket hotel guide"
     },
     {
       "rank": 3,
-      "name": "Phuket Marriott Resort & Spa, Merlin Beach",
-      "description": "International 4-star resort chain property with beachfront location, full-service spa, and comprehensive amenities.",
-      "price_range": "$150-250/night",
-      "category": "midrange",
-      "rating": 4.6,
+      "name": "Rosewood Phuket",
+      "description": "A premium choice if you want high-end service and a more insulated luxury format close to Patong without sleeping in its busiest core.",
+      "price_range": "Luxury",
+      "category": "luxury",
+      "area": "Tri Trang side",
       "highlights": [
-        "Beachfront",
-        "Spa services",
-        "4.6 rating"
-      ]
+        "High-end resort",
+        "Good service reputation",
+        "Near but not in central Patong"
+      ],
+      "href": "/city/phuket/top-10-hotels/",
+      "cta_label": "See the Phuket hotel guide"
     },
     {
       "rank": 4,
-      "name": "Phuket Orchid Resort & Spa",
-      "description": "Comfortable 4-star resort offering spa facilities and well-appointed rooms in convenient location.",
-      "price_range": "$100-180/night",
-      "category": "midrange",
-      "rating": 4.3,
+      "name": "Trisara",
+      "description": "Trisara is one of Phuket's strongest full luxury answers if the resort itself is a major part of the trip rather than just a place to sleep.",
+      "price_range": "Ultra-luxury",
+      "category": "luxury",
+      "area": "Northwest Phuket",
       "highlights": [
-        "Spa services",
-        "4.3 rating",
-        "Good value"
-      ]
+        "Private-villa feel",
+        "Occasion stay",
+        "Best if budget allows a resort-first trip"
+      ],
+      "href": "/city/phuket/top-10-hotels/",
+      "cta_label": "See the Phuket hotel guide"
     },
     {
       "rank": 5,
-      "name": "Thavorn Beach Village Resort & Spa",
-      "description": "Beach-adjacent 4-star resort with spa services, multiple pools, and village-style layout.",
-      "price_range": "$110-190/night",
-      "category": "midrange",
-      "rating": 4.4,
+      "name": "The Memory at On On Hotel",
+      "description": "A smarter pick if your Phuket plan leans into Old Town food, heritage streets, and short urban stays rather than a resort beach holiday.",
+      "price_range": "Mid-range boutique",
+      "category": "mid-range",
+      "area": "Phuket Old Town",
       "highlights": [
-        "Beach access",
-        "Spa",
-        "4.4 rating"
-      ]
+        "Old Town base",
+        "Heritage atmosphere",
+        "Better for food-and-culture stays"
+      ],
+      "href": "/city/phuket/top-10-hotels/",
+      "cta_label": "See the Phuket hotel guide"
     }
   ],
   "travel_tips": [
-    "Take the Smart Bus from the airport instead of a taxi or minibus — it costs only 100 THB per ride (day pass 300 THB), runs hourly from 8:00 to 23:30, has WiFi, and takes about 1-1.5 hours to Patong.",
-    "Avoid airport minibuses — they make many stops and will take you to a tour office where they try to sell you overpriced packages. Pure time and money waste.",
-    "If you take a taxi from the airport, always use the public taxi stand and agree on the price beforehand — Phuket taxis don't have meters like Bangkok.",
-    "Screenshot your hotel booking confirmation with room type and photos before arrival. In high season, hotels sometimes swap your room for a lower category. Compare on the spot.",
-    "Hotel location matters more than the hotel itself. If you want peace and quiet, avoid the Bangla Road / Patong area. Choose Kata, Karon, or Bangtao instead.",
-    "Don't book excursions through your hotel — they add commission. Walk along the main beach road and compare prices at street tour operators instead.",
-    "Excursion prices vary by season: expect 1,200-1,500 THB in low season and 2,000-3,000 THB in high season. Always ask if national park entrance fees are included.",
-    "Download the Grab app before arriving — it's the safest and most transparent way to get around. Prices are fair and fixed, unlike tuk-tuks.",
-    "Tuk-tuks near Bangla Road are extremely expensive: 200-400 THB for just a 3-4 minute ride, especially at night. Use Grab instead.",
-    "If renting a motorbike (very cheap), always carry your international driving license and wear a helmet. Tourist police actively fine foreigners who break these rules.",
-    "Check a rental motorbike thoroughly before taking it — photograph any existing damage to avoid being charged for scratches you didn't make.",
-    "For massages, walk a few streets away from Patong Beach and Bangla Road. You'll find much better quality at lower prices (250-500 THB vs 500+ THB in tourist areas).",
-    "Thai food is very cheap everywhere, but seafood is overpriced near Patong. For fresh, affordable seafood, take a short trip to Kata or Karon fish markets.",
-    "For shopping, skip the street vendors (overpriced even after bargaining) and head to Jungceylon or Central shopping malls for better deals on original items.",
-    "Money exchange rates are consistent across Phuket and offices stay open late. Compare 2-3 places and you'll find they're all similar.",
-    "Budget around 3,000 THB for a night out on Bangla Walking Street — it's fun chaos but prices add up fast.",
-    "Always follow 'No Swimming' signs on beaches — they indicate dangerous currents. Only swim in designated safe areas.",
-    "Negotiate prices for beach activities like jet skiing and parasailing at Patong Beach — listed prices are inflated for tourists. Always ask for safety instructions first.",
-    "If you have a connecting international flight after a domestic Thai flight, allow minimum 3 hours between flights — domestic flights are frequently delayed.",
-    "Learn a few Thai phrases; locals appreciate the effort and it often gets you better prices and service."
+    "Choose your base first and your hotel second; in Phuket the area often matters more than the property itself.",
+    "Do not assume beach-to-town and beach-to-beach transfers are quick just because the island looks compact on a map.",
+    "If your trip depends on boat days or snorkeling, check sea conditions and seasonal fit before locking in the whole itinerary.",
+    "Grab is usually the easiest default for short island movements if you do not want to negotiate transport repeatedly.",
+    "If you only have a few days, do not try to stay in Patong while also building the trip around Old Town breakfasts, Bangtao resorts, and south-end quiet beaches."
   ],
   "best_time_to_visit": {
     "season": "Cool Season",
     "months": "November - February",
-    "weather": "Pleasant conditions",
-    "reasons": "Ideal weather for activities"
+    "weather": "Drier weather and calmer sea conditions",
+    "reasons": "Usually the easiest first-timer season for beaches, road days, and boat trips"
   },
   "budget_info": {
-    "budget": "$30-50 per day",
-    "mid_range": "$50-100 per day",
-    "luxury": "$100+ per day",
-    "notes": "Budget includes accommodation, food, transportation, and activities"
+    "budget": "$35-60 per day",
+    "mid_range": "$90-180 per day",
+    "luxury": "$250+ per day",
+    "notes": "The biggest Phuket budget swings usually come from hotel area choice, transport, and how many paid boat or nightlife days you add."
   },
-  "enhanced_at": "2025-05-26T19:53:10.890Z",
-  "overview": "Phuket, Thailand's largest island, stands as a premier Southeast Asian destination offering a captivating blend of pristine beaches, vibrant culture, and world-class entertainment. With a population of approximately 443,000, this southern Thai province has transformed into a cosmopolitan paradise while retaining its authentic charm. From the energy of Patong Beach to the spiritual serenity of the Big Buddha overlooking the island, Phuket delivers unforgettable experiences for every type of traveler—whether seeking adventure through island hopping to the Phi Phi Islands, cultural immersion in the historic Old Town's Sino-Portuguese architecture, or pure relaxation on family-friendly shores.",
-  "thingsToDo": "Phuket's attractions cater to diverse interests and budgets. Start with iconic experiences like visiting the 45-meter Big Buddha (free entrance, panoramic views), exploring the vibrant Patong Beach with its exceptional water sports facilities and beach clubs (free access), and discovering the limestone cliffs and pristine snorkeling at Phi Phi Islands (400 THB/12 USD per person national park fee). Adventure seekers should not miss James Bond Island with its legendary movie locations and sea kayaking opportunities (300 THB/9 USD tour). For cultural immersion, attend Phuket FantaSea featuring Thai mythology performances and elephant shows (1,800 THB/53 USD including dinner). Explore Phuket Old Town's colorful Sino-Portuguese buildings and local markets, visit the sacred Wat Chalong temple with its traditional architecture, or relax at the less-crowded Kata and Karon beaches perfect for swimming and water sports. Nightlife enthusiasts should experience the famous Bangla Road entertainment hub with its street performances and vibrant atmosphere.",
-  "whereToStay": "Phuket offers exceptional accommodation across all price points and preferred areas. Budget travelers should consider guesthouses and hostels in Patong, offering dormitory beds and basic private rooms for $15-30 per night near beaches and nightlife. Mid-range options flourish across the island's main beaches, with 3-star hotels in Patong, Kata, and Karon providing comfortable amenities, pool access, and convenient locations for $50-100 nightly. Luxury seekers will find world-class resorts concentrated in Bangtao, Bang Tao Beach, and the quieter northern areas, offering spa facilities, multiple restaurants, and beachfront access for $150-400+ per night. Each beach area has distinct characteristics: Patong offers maximum energy and convenience, Kata appeals to families with calmer waters, Karon provides a quieter atmosphere, and Bangtao attracts luxury resort experiences. Consider your priorities—nightlife proximity, family-friendliness, or tranquility—when selecting your accommodation base.",
+  "enhanced_at": "2026-03-26T00:00:00.000Z",
+  "reviewed_by": "Go2Thailand Editorial Team",
+  "overview": "Phuket is best understood as a collection of different zones rather than one single island experience. Patong is built for nightlife and dense tourist infrastructure, Kata and Karon suit classic beach stays better, Bangtao and Surin lean more upscale, and Phuket Old Town gives the island a genuine food-and-heritage counterweight. That range is the reason Phuket still works for very different trip types, from family beach holidays to resort-led couples stays to short food-and-culture breaks.\n\nIt is also one of the easiest Andaman gateways for day trips, but the island becomes much stronger when you do not try to collect every famous beach and boat route at once. A smarter Phuket plan usually means one clear base, one or two serious day-trip priorities, one Old Town block, and realistic expectations about transport time.",
+  "thingsToDo": "The strongest first-time Phuket plan usually starts by mixing one culture block, one or two beach priorities, and one real day trip instead of treating the island as a nonstop checklist. Phuket Old Town still matters because it gives the island depth beyond resorts, especially once you fold in food, architecture, and a slower evening there. Big Buddha and Wat Chalong still make sense as the clearest temple-and-viewpoint pair if you want a cultural counterweight to the beach side of the trip.\n\nOn the beach side, the key is choosing beaches by fit rather than by fame. Kata and Karon work better for many first-time leisure trips than Patong, while Patong is best kept for travelers who explicitly want nightlife and density. Phuket also becomes much more compelling once you accept that one serious boat day can be enough. Phi Phi, Phang Nga Bay, and similar routes are part of the island's appeal, but they work best when chosen carefully rather than stacked together for pure box-ticking.",
+  "whereToStay": "For many first-time visitors, the choice is really between Patong, Kata/Karon, Bangtao/Surin, Phuket Old Town, and the quieter southern zones such as Rawai or Nai Harn. Patong is strongest if nightlife, walkable tourist infrastructure, and late evenings are central to the trip. Kata and Karon are usually easier for beach-led stays, families, and travelers who want resort comfort without the same level of chaos.\n\nBangtao and some of the north or northwest side make more sense for upscale resort stays, while Phuket Old Town is the smarter base if your priorities are food, architecture, and a shorter urban-style stay rather than sand-first resort time. Rawai, Nai Harn, and nearby southern areas work best for slower repeat visitors or travelers who deliberately want a less package-style Phuket.",
   "whereToEat": [
     {
-      "name": "Casa Boho Phuket",
-      "cuisine": "Latin, Bar",
+      "name": "Tu Kab Khao",
+      "cuisine": "Southern Thai",
       "priceRange": "$$",
-      "description": "Contemporary Latin-inspired restaurant with creative cocktails and fusion cuisine"
+      "description": "A strong first Southern Thai dinner in Phuket Old Town, especially if you want heritage atmosphere with recognizable local dishes."
     },
     {
-      "name": "Rock Salt",
-      "cuisine": "Seafood, Mediterranean",
+      "name": "One Chun",
+      "cuisine": "Southern Thai",
       "priceRange": "$$",
-      "description": "Upscale seafood restaurant with Mediterranean influences and fresh daily catch"
+      "description": "One of the island's most useful Old Town restaurant picks if you want family-style Southern Thai food with real Phuket identity."
     },
     {
-      "name": "Sizzle Rooftop Restaurant",
-      "cuisine": "Steakhouse, Seafood",
-      "priceRange": "$$",
-      "description": "High-end rooftop restaurant with premium steaks and seafood"
+      "name": "Royd",
+      "cuisine": "Southern Thai, Contemporary",
+      "priceRange": "$$$",
+      "description": "A chef-led Southern Thai restaurant for travelers who want a more destination-dining version of Phuket food."
     },
     {
-      "name": "La Gritta",
-      "cuisine": "Italian, Pizza",
-      "priceRange": "$$",
-      "description": "Authentic Italian restaurant specializing in pizza with quality imported ingredients"
+      "name": "Blue Elephant Phuket",
+      "cuisine": "Thai",
+      "priceRange": "$$$",
+      "description": "A polished special-occasion option in Phuket Town, best if the setting and a more formal meal matter to you."
     },
     {
-      "name": "Khao Tom Dibuk",
-      "cuisine": "Thai, Comfort Food",
-      "priceRange": "$",
-      "description": "Authentic local establishment serving Thai rice porridge and comfort dishes where locals eat"
-    },
-    {
-      "name": "Chuan Chim",
-      "cuisine": "Thai Seafood",
+      "name": "Roti Thaew Nam",
+      "cuisine": "Breakfast, small eats",
       "priceRange": "$$",
-      "description": "Fresh seafood prepared with traditional Thai techniques featuring daily catch"
+      "description": "A classic breakfast stop that makes more sense than another generic cafe if you want to taste local morning Phuket."
     }
   ],
   "topHotels": [
     {
-      "name": "Hotel Clover Patong Phuket",
-      "category": "midrange",
-      "priceRange": "$80-150/night",
-      "area": "Patong",
-      "description": "Highly-rated 4-star hotel in central Patong with modern amenities and professional service",
-      "rating": 4.9
+      "name": "The Slate",
+      "category": "upscale",
+      "priceRange": "Upscale to luxury",
+      "area": "Nai Yang / airport side",
+      "description": "A design-led resort pick for travelers who want a quieter north-side Phuket base."
     },
     {
-      "name": "Crest Resort & Pool Villas",
-      "category": "midrange",
-      "priceRange": "$120-200/night",
-      "area": "Patong",
-      "description": "Upscale resort with private pool villas and contemporary design",
-      "rating": 4.7
-    },
-    {
-      "name": "Phuket Marriott Resort & Spa, Merlin Beach",
-      "category": "midrange",
-      "priceRange": "$150-250/night",
-      "area": "Merlin Beach",
-      "description": "Beachfront 4-star resort with spa and full-service amenities",
-      "rating": 4.6
-    },
-    {
-      "name": "Thavorn Beach Village Resort & Spa",
-      "category": "midrange",
-      "priceRange": "$110-190/night",
-      "area": "Bangtao",
-      "description": "Beach village resort with spa services and village-style layout",
-      "rating": 4.4
-    },
-    {
-      "name": "Phuket Orchid Resort & Spa",
-      "category": "midrange",
-      "priceRange": "$100-180/night",
-      "area": "Patong",
-      "description": "Comfortable 4-star resort with spa and well-appointed rooms",
-      "rating": 4.3
-    },
-    {
-      "name": "The Pavilions Phuket",
+      "name": "COMO Point Yamu",
       "category": "luxury",
-      "priceRange": "$200-350/night",
-      "area": "Patong",
-      "description": "All-suite luxury resort with private pool villas and direct beach access"
+      "priceRange": "Luxury",
+      "area": "Point Yamu",
+      "description": "A calmer east-coast luxury base, especially for couples and resort-led stays."
     },
     {
-      "name": "Sri Panwa Phuket",
+      "name": "Rosewood Phuket",
       "category": "luxury",
-      "priceRange": "$250-400/night",
-      "area": "Cape Panwa",
-      "description": "Clifftop luxury resort with panoramic sea views and private beach access"
+      "priceRange": "Luxury",
+      "area": "Tri Trang side",
+      "description": "A premium choice close to Patong without sleeping in the thickest nightlife zone."
     },
     {
-      "name": "Amanpuri",
+      "name": "Trisara",
       "category": "luxury",
-      "priceRange": "$300-500+/night",
-      "area": "Pansea Beach",
-      "description": "Prestigious ultra-luxury resort with lagoon pools and championship golf course access"
+      "priceRange": "Ultra-luxury",
+      "area": "Northwest Phuket",
+      "description": "A resort-first Phuket answer for travelers who want the stay itself to be a central part of the trip."
+    },
+    {
+      "name": "The Memory at On On Hotel",
+      "category": "mid-range",
+      "priceRange": "Mid-range boutique",
+      "area": "Phuket Old Town",
+      "description": "A better cultural base than a beach resort if your trip leans into Old Town food and architecture."
     }
   ],
-  "gettingAround": "From Phuket Airport, the best option for solo travelers or couples is the Smart Bus: 100 THB per ride (day pass 300 THB), running hourly from 8:00 to 23:30 with WiFi and air conditioning. The ride takes 1-1.5 hours to Patong depending on traffic. For families with luggage, take a public taxi from the designated stand — prices are fixed (no meters in Phuket), so always confirm the fare before departing (approximately 400-500 THB to Patong). Avoid minibuses as they make numerous stops and route you through tour offices selling overpriced packages.\n\nOnce on the island, the Grab ride-hailing app is by far the best transport option — transparent pricing ($1-8 per ride), safe drivers, and no negotiation needed. Tuk-tuks are iconic but extremely overpriced in tourist areas: expect 200-400 THB for just a 3-4 minute ride near Bangla Road at night. Motorbike taxis cost 100-200 THB for short distances with fixed pricing. For flexibility, motorbike rental is very affordable (150-300 THB per day) but carries risks: you must carry an international driving license and always wear a helmet, as tourist police actively fine foreigners (800+ THB). Before renting, photograph any existing damage to avoid disputes when returning the bike.",
-  "bestTimeToVisit": "Phuket's tropical climate features distinct wet and dry seasons that significantly impact your experience. The dry season from November through February offers perfect weather with minimal rainfall, comfortable temperatures (24-32°C), and calm seas—this is peak tourist season with higher prices but ideal beach conditions and water sports. March through May represents hot and humid shoulder season, with temperatures climbing to 35°C, making outdoor activities more challenging but hotels offering better rates. The southwest monsoon season from May through October brings heavy rainfall, occasional storms, and rougher seas, though tourism declines considerably and prices drop 30-50%. December through February is particularly ideal, combining perfect weather, festive holiday atmosphere, and year-round beach accessibility. For budget travelers seeking fewer crowds and lower prices while accepting weather unpredictability, September-October offers excellent value. Avoid the wettest months of September-October if water sports or island hopping are priorities.",
+  "gettingAround": "Phuket is one of the Thai destinations where transport decisions shape the trip more than many first-time visitors expect. The airport is far from some of the island's busiest resort zones, beach-to-town transfers are not especially quick, and cross-island plans can eat half a day if you stack too many areas together. That is why choosing the right base matters so much.\n\nFor most visitors, Grab or pre-arranged transport is the easiest default for shorter movements. Phuket also has public and semi-public options, but they make more sense if you already know your route and are not trying to move luggage between distant beach zones. Scooter rental can look tempting, but for many short-stay visitors the safer move is still ride-hailing plus one or two booked transfers when needed.",
+  "bestTimeToVisit": "Phuket is usually easiest from November through February, when drier weather and calmer sea conditions make beach time and boat planning more straightforward. This is also the most comfortable general answer for first-time visitors who want to mix beaches, Old Town, and one day trip without building the whole itinerary around weather risk.\n\nThe wetter months can still work if your priorities are lower hotel pressure, resort downtime, and food rather than perfect boat conditions every day. The real planning issue is not only rain itself, but whether rougher seas and west-coast beach conditions will undermine the exact version of Phuket you are trying to book.",
   "budgetGuide": {
     "budget": {
-      "min": 20,
-      "max": 40,
-      "description": "Budget travelers can enjoy Phuket on $20-40/day. Stay in hostels or guesthouses ($12-25/night in Patong or Kamala, dorm beds 250-400 THB). Eat Thai street food and local restaurants ($1-5 per meal — Thai food is very cheap, just avoid tourist-area seafood restaurants). Use the Smart Bus from the airport (100 THB) and Grab for transport ($1-4 per ride). Free attractions include Big Buddha, Phuket Old Town, and all beaches. Massages start at 250 THB ($7) if you walk a few streets away from the tourist strip."
+      "min": 35,
+      "max": 60,
+      "description": "Budget travel in Phuket is possible, but it takes more deliberate area choices than on the mainland. Guesthouses, simple town stays, local food, and a limited number of paid boat or transport-heavy activities keep the island manageable."
     },
     "midrange": {
-      "min": 50,
-      "max": 100,
-      "description": "Mid-range travelers enjoy $50-100/day for comfortable experiences. Expect 3-4 star hotels in Kata, Karon, or Bangtao ($80-150/night). Meals at quality Thai and international restaurants ($5-15 per meal), Grab rides across the island ($2-8), and day tours to Phi Phi Islands or James Bond Island ($35-85 per person depending on season — low season 1,200-1,500 THB, high season 2,000-3,000 THB). Always book tours from beach-side operators rather than your hotel to avoid commission markups."
+      "min": 90,
+      "max": 180,
+      "description": "Mid-range travelers usually hit Phuket's sweet spot when they combine a good beach-area hotel, better food choices, and one or two paid day trips instead of treating every day as a premium excursion day."
     },
     "luxury": {
-      "min": 150,
-      "max": 400,
-      "description": "Luxury travelers should budget $150-400+/day. This includes 5-star resorts in Surin, Bangtao, or Cape Panwa ($200-500/night), fine dining and fresh seafood ($30-80 per meal), private tours ($100-200), premium spa treatments ($50-100 per hour), and a night out on Bangla Walking Street (budget ~3,000 THB/$85). Phuket's luxury scene rivals any destination in Southeast Asia."
+      "min": 250,
+      "max": 600,
+      "description": "Luxury budgets rise quickly once villa-style resorts, private transfers, fine dining, spa time, and premium boat days become part of the plan. Phuket can absolutely support that style of trip, but it is very different from the island's budget-backpacker version."
     }
   },
-  "safetyTips": "Phuket is generally safe for tourists, but knowing the local dynamics helps you avoid problems. On beaches, always respect 'No Swimming' signs — they indicate dangerous rip currents that cause drownings every year. Only swim in areas with lifeguards present. For water activities like jet skiing and parasailing at Patong Beach, always negotiate prices first (listed prices are heavily inflated), demand safety instructions, and check equipment condition before starting.\n\nTraffic safety is crucial: Phuket's roads are among Thailand's most dangerous for tourists. If you rent a motorbike, you MUST carry an international driving license and wear a helmet at all times. Tourist police specifically target foreigners who break these rules, and fines are substantial. Always photograph a rental bike's existing damage before taking it to avoid being charged for scratches you didn't cause.\n\nBe cautious with hotel bookings during high season — rooms sometimes get swapped for lower categories without notice. Screenshot your booking confirmation with room type, photos, and price before arriving, and compare the room in person when you check in.\n\nAvoid airport minibuses that stop at tour offices selling overpriced excursion packages. When booking tours from beach-side operators (recommended over hotel bookings), always confirm what's included — particularly national park entrance fees, which operators sometimes omit.\n\nIn Patong's nightlife area around Bangla Road, keep valuables secure and avoid excessive drinking. Money exchange offices across Phuket offer consistent rates and stay open late, so there's no need to carry large amounts of cash.",
+  "safetyTips": "Phuket's main practical safety issue is not dramatic crime but roads and sea conditions. West-coast beaches can change quickly in rougher weather, so red-flag or no-swimming warnings should be taken seriously. If the trip depends heavily on swimming, boat tours, or snorkel days, season and sea state are not a side detail.\n\nRoad safety matters just as much. Cross-island driving, scooters, and late-night returns from nightlife zones create more realistic tourist risk than most resort marketing suggests. If you are not already comfortable on a scooter in Thailand, Grab and organized transfers are the safer default. In nightlife zones such as Patong, standard city awareness is enough: keep valuables close, do not overdo alcohol, and be selective about late-night transport.",
   "faq": [
     {
-      "question": "What's the best way to get from Phuket Airport to Patong?",
-      "answer": "The cheapest option is the Smart Bus at just 100 THB (about $3), running hourly from 8:00 to 23:30 with WiFi and air conditioning. The journey takes 1-1.5 hours depending on traffic. A day pass costs 300 THB for unlimited rides. For families with luggage, take a public taxi from the airport stand — prices are fixed (no meters in Phuket), so always confirm the fare before departing (approximately 400-500 THB to Patong). Avoid minibuses as they make many stops and route you through tour offices that push overpriced packages."
+      "question": "What is the best area to stay in Phuket?",
+      "answer": "That depends on trip style. Patong is best for nightlife and dense tourist infrastructure. Kata and Karon suit classic beach holidays better. Bangtao and nearby upscale zones fit resort-led luxury stays. Phuket Old Town is the smarter base for food, architecture, and a shorter culture-heavy stay."
     },
     {
-      "question": "How much does it cost to visit Phuket per day?",
-      "answer": "Budget travelers can manage on $20-40/day staying in hostels or guesthouses ($12-25/night), eating street food ($1-5/meal), and using Smart Bus or Grab. Mid-range travelers spend $50-100/day with 3-4 star hotels and restaurant meals. Luxury travelers budget $150-400+/day with 5-star resorts and fine dining. Thai food is very cheap, but seafood near Patong is overpriced — for affordable fresh seafood, head to Kata or Karon fish markets instead."
+      "question": "Is Phuket worth it if you do not want nightlife?",
+      "answer": "Yes. Phuket is only nightlife-heavy if you center the trip on Patong and Bangla Road. The island also works for quieter beach stays, Old Town food trips, upscale resorts, family holidays, and boat-based Andaman itineraries."
     },
     {
-      "question": "Are tuk-tuks expensive in Phuket?",
-      "answer": "Yes, tuk-tuks in Phuket are notoriously overpriced compared to Bangkok. Near Bangla Road, a 3-4 minute ride costs 200-400 THB ($6-12), especially at night. Download the Grab app instead for transparent, fair pricing ($1-8 per ride). Motorbike taxis offer fixed prices of 100-200 THB for short distances."
+      "question": "How many days do you need in Phuket?",
+      "answer": "Four to five days is a good starting point for many first-time trips. That gives you enough time for one Old Town block, real beach time, one temple or viewpoint pairing, and one boat or island day without turning every transfer into a rush."
     },
     {
-      "question": "What's the best time to visit Phuket?",
-      "answer": "The dry season from November to February offers perfect weather (24-32°C), minimal rainfall, and calm seas — ideal for beaches and water sports but expect higher prices. December-February is peak season with excellent conditions. March-May is hot and humid (35°C) but offers lower rates. The monsoon season (May-October) brings rain and rougher seas; prices drop 30-50% but conditions are unpredictable. September-October offers excellent budget value for travelers accepting occasional rainfall."
+      "question": "What is the best time to visit Phuket?",
+      "answer": "November through February is usually the easiest all-round answer for first-time visitors because sea conditions and beach weather are generally more reliable. Lower-season travel can still work, but it is less ideal if boat days and swimming are the main point of the trip."
     },
     {
-      "question": "Do I need a rental motorbike or can I get around without one?",
-      "answer": "You don't need a motorbike. The Grab app provides reliable, transparent pricing ($1-8 per ride) and is the recommended transport method. Smart Bus costs 100 THB and Grab is significantly cheaper and safer than negotiating with tuk-tuk drivers. Motorbike rental requires an international driving license and helmet (police fine foreigners 800+ THB for violations). Grab is always the safer, more convenient choice."
+      "question": "Do you need a scooter in Phuket?",
+      "answer": "No. Plenty of visitors are better off without one, especially on short stays. Phuket's roads, traffic, and unfamiliar beach-to-town routes can make scooters more stressful than helpful unless you already ride confidently in Thailand."
+    },
+    {
+      "question": "What food should you prioritize in Phuket?",
+      "answer": "Start with dishes that feel regionally tied to the island rather than with generic Thai staples: mee Hokkien, moo hong, roti breakfasts, and Oh Aew in Old Town all say more about Phuket's identity than another resort pad thai."
     }
   ],
   "practicalInfo": {
@@ -669,31 +682,133 @@
       "Nov",
       "Dec",
       "Jan",
-      "Feb",
-      "Mar"
+      "Feb"
     ],
     "nearestAirport": "Phuket International Airport (HKT)",
-    "travelTimeFromAirport": "1-1.5 hours to Patong by Smart Bus (100 THB, runs 8:00-23:30 hourly, includes WiFi) or 45 minutes by public taxi (fixed price 400-500 THB, no meter — confirm fare before departing)",
+    "travelTimeFromAirport": "Travel time depends heavily on your beach zone or town base; north-side stays are much easier than south or Patong transfers.",
     "localTransport": [
-      "Smart Bus from airport (100 THB/ride, day pass 300 THB, WiFi included, runs 8:00-23:30 hourly)",
-      "Grab app (recommended — transparent pricing, $1-8 per ride, 24/7 availability)",
-      "Tuk-tuk (200-400 THB short rides, very expensive near Bangla Road, no meters)",
-      "Motorbike taxi (100-200 THB fixed price for short distances)",
-      "Motorbike rental (150-300 THB per day, requires international license + helmet, police checkpoints active)",
-      "Public taxi (fixed price from airport stand, always confirm fare before departing)"
+      "Grab or arranged transfers for most short-stay visitors",
+      "Longer airport transfers than many resort maps suggest",
+      "Beach-to-beach moves can take meaningful time in traffic",
+      "Scooters only if you are already comfortable riding in Thailand"
     ]
   },
   "contentSources": [
     {
-      "type": "video",
-      "title": "20 Essential Phuket Travel Tips",
-      "creator": "Live Love Thailand",
-      "url": "https://www.youtube.com/watch?v=Knzq71BAcNg",
-      "description": "Local travel tips with real prices and insider knowledge from an experienced Thailand traveler."
+      "type": "population reference",
+      "title": "Phuket population statistics",
+      "creator": "City Population / Department of Provincial Administration",
+      "url": "https://www.citypopulation.de/en/thailand/southern/83__phuket/",
+      "description": "Used to frame Phuket as a province-scale population destination and to avoid mixing up city, beach-town, and island counts."
+    },
+    {
+      "type": "official tourism",
+      "title": "Phuket travel brochure",
+      "creator": "Tourism Authority of Thailand",
+      "url": "https://www.turismotailandes.org.pt/WebRoot/Store/Shops/1032-180719/MediaGallery/Nova_pasta1/Nova_pasta/E-Brochure_Phuket_En_New.pdf",
+      "description": "Used for general island orientation, major sights, and district context."
+    },
+    {
+      "type": "official transport",
+      "title": "Phuket International Airport transport guide",
+      "creator": "Airports of Thailand",
+      "url": "https://phuket.airportthai.co.th/",
+      "description": "Used to verify airport-led transport options, airport bus details, and the fact that onward travel varies by zone."
+    },
+    {
+      "type": "official transport",
+      "title": "Phuket Smart Bus",
+      "creator": "Phuket Smart Bus",
+      "url": "https://phuketsmartbus.com/home/",
+      "description": "Used to confirm that a dedicated beach-route public bus service connects the airport corridor with major west-coast beach areas."
+    },
+    {
+      "type": "official local guide",
+      "title": "Phuket Old Town - 7 Greens",
+      "creator": "Tourism Authority of Thailand",
+      "url": "https://7greens.tourismthailand.org/en/2020/08/21/%E0%B8%A2%E0%B9%88%E0%B8%B2%E0%B8%99%E0%B9%80%E0%B8%A1%E0%B8%B7%E0%B8%AD%E0%B8%87%E0%B9%80%E0%B8%81%E0%B9%88%E0%B8%B2%E0%B8%A0%E0%B8%B9%E0%B9%80%E0%B8%81%E0%B9%87%E0%B8%95/",
+      "description": "Used to support Old Phuket Town as a cultural district tied to architecture, local dining, and heritage-led walking."
+    },
+    {
+      "type": "official guide",
+      "title": "One Chun",
+      "creator": "MICHELIN Guide",
+      "url": "https://guide.michelin.com/en/phuket-region/phuket/restaurant/one-chun",
+      "description": "Used for Old Town Southern Thai restaurant selection and practical location context."
+    },
+    {
+      "type": "official guide",
+      "title": "Tu Kab Khao",
+      "creator": "MICHELIN Guide",
+      "url": "https://guide.michelin.com/th/en/phuket-region/phuket/restaurant/tu-kab-khao",
+      "description": "Used for restaurant positioning in Phuket Old Town."
+    },
+    {
+      "type": "official guide",
+      "title": "Royd",
+      "creator": "MICHELIN Guide",
+      "url": "https://guide.michelin.com/th/en/phuket-region/phuket/restaurant/royd",
+      "description": "Used for contemporary Southern Thai restaurant selection."
+    },
+    {
+      "type": "official guide",
+      "title": "A Pong Mae Sunee",
+      "creator": "MICHELIN Guide",
+      "url": "https://guide.michelin.com/en/phuket-region/phuket/restaurant/a-pong-mae-sunee",
+      "description": "Used for Phuket Old Town snack and dessert context."
+    },
+    {
+      "type": "official guide",
+      "title": "Roti Thaew Nam",
+      "creator": "MICHELIN Guide",
+      "url": "https://guide.michelin.com/nl/nl/phuket-region/phuket/restaurant/roti-taew-nam",
+      "description": "Used for breakfast-stop selection and local food context."
+    },
+    {
+      "type": "hotel official",
+      "title": "The Slate Phuket",
+      "creator": "The Slate",
+      "url": "https://www.theslatephuket.com/",
+      "description": "Used for north-side design resort positioning."
+    },
+    {
+      "type": "activity official",
+      "title": "Blue Elephant Cooking School Phuket",
+      "creator": "Blue Elephant",
+      "url": "https://blueelephant.com/cooking-school/",
+      "description": "Used for Phuket cooking-class positioning and to support Old Town culinary activity recommendations."
+    },
+    {
+      "type": "hotel official",
+      "title": "Trisara",
+      "creator": "Trisara",
+      "url": "https://trisara.com/",
+      "description": "Used for ultra-luxury resort positioning."
+    },
+    {
+      "type": "hotel official",
+      "title": "Rosewood Phuket",
+      "creator": "Rosewood Hotels",
+      "url": "https://www.rosewoodhotels.com/en/phuket",
+      "description": "Used for high-end resort positioning near the Patong side."
+    },
+    {
+      "type": "hotel official",
+      "title": "COMO Point Yamu",
+      "creator": "COMO Hotels and Resorts",
+      "url": "https://www.comohotels.com/thailand/como-point-yamu",
+      "description": "Used for east-coast luxury hotel positioning."
+    },
+    {
+      "type": "hotel official",
+      "title": "The Memory at On On Hotel",
+      "creator": "The Memory at On On Hotel",
+      "url": "https://thememoryhotel.com/",
+      "description": "Used for Phuket Old Town hotel positioning."
     }
   ],
-  "enrichedAt": "2026-02-22T12:26:16.148Z",
-  "factchecked_at": "2026-03-08T18:21:08.640Z",
+  "enrichedAt": "2026-03-26T00:00:00.000Z",
+  "factchecked_at": "2026-03-26T00:00:00.000Z",
   "translations": {
     "nl": {
       "enhanced_description": "Terwijl de zon onder de horizon zakt en een gouden gloed werpt over de Andamanzee, vult het zachte geluid van golven die tegen de kust kabbelen de lucht. Dit is Phuket, het grootste eiland van Thailand, waar de zilte bries fluisteringen van avontuur draagt en het verleidelijke aroma van straatvoedsel vermengt met de geur van tropische bloemen. De levendige kleuren van de zonsondergangen hier zijn een dagelijkse herinnering dat het leven een feest is, en het is een plek waar elk moment tot leven komt.\n\nToen ik voor het eerst in Phuket aankwam, werd ik meegezogen in het ritme — de bruisende markten in Old Town, waar de pastelkleurige Sino-Portugese gebouwen getuigen van de rijke geschiedenis van het eiland. Ik herinner me dat ik door de straten slenterde, het gebabbel van locals vermengd met het geluid van sissende woks. Op een avond stuitte ik op een nachtmarkt waar een oudere vrouw verse loempia's maakte. Haar handen bewogen gracieus terwijl ze elke rol vulde met knapperige groenten en aromatische kruiden. Ik kon het niet weerstaan en eindigde zittend op een klein plastic krukje, gelach en verhalen delend met haar terwijl ik de smaak van haar eten proefde. Het waren momenten als deze die me deden beseffen dat Phuket niet alleen draait om prachtige stranden of bruisend nachtleven; het draait om de connecties die je maakt.\n\nAnders dan andere Thaise bestemmingen biedt Phuket een unieke mix van ontspanning en opwinding. Je kunt je dag doorbrengen luierend op het zachte zand van Kata Beach voordat je naar Patong gaat voor een nacht van dansen en feesten. Maar voorbij het feestcircuit schuilt een diepere ziel op het eiland. De Big Buddha, majestueus rijzend op 45 meter hoogte, is niet slechts een toeristische attractie; het is een spirituele toevlucht. Ik herinner me de klim over het slingerende pad om er te komen, waar ik werd begroet door de serene sfeer en het geluid van chantende monniken. Het uitzicht vanaf de top was adembenemend, een wijds panorama van het eiland dat me zowel klein als verbonden deed voelen met iets groters.\n\nWat Phuket echt onderscheidt is zijn geest van avontuur. Van eilandhoppen naar verborgen baaien, de mogelijkheden zijn eindeloos. Op een weekend besloot ik een longtailboot te nemen naar Koh Phi Phi. Terwijl we over het turquoise water snelden, was de sensatie van wind in mijn haar en zon op mijn gezicht bedwelmend. Bij aankomst vond ik mezelf snorkelend in kristalhelder water, omringd door kleurrijke vissen die om me heen schoten. Het was pure gelukzaligheid, een herinnering aan waarom ik verliefd werd op dit eiland.\n\nPhuket is een plek waar elke hoek een verhaal herbergt en elke ervaring een kans is om dieper in de cultuur te duiken. Of het nu gaat om het proeven van de zoete en pittige smaken van de lokale keuken of het deelnemen aan een traditionele Muay Thai-les, er valt altijd iets nieuws te ontdekken. Als ik terugkijk op mijn tijd hier, besef ik dat Phuket niet slechts een bestemming is; het is een reis van de zintuigen, een tapijt geweven uit de levendige draden van natuur, cultuur en gemeenschap. Het is een plek die je uitnodigt om te verkennen, te verbinden en te genieten van de eenvoudige geneugten van het leven. En geloof me, als je het eenmaal hebt ervaren, zul je het moeilijk vinden om te vertrekken.",
@@ -775,7 +890,7 @@
           ]
         }
       ],
-      "overview": "Phuket, het grootste eiland van Thailand, is een vooraanstaande Zuidoost-Aziatische bestemming die een boeiende mix biedt van ongerepte stranden, levendige cultuur en entertainment van wereldklasse. Met een bevolking van ongeveer 443.000 heeft deze Zuid-Thaise provincie zich getransformeerd tot een kosmopolitisch paradijs dat tegelijkertijd zijn authentieke charme behoudt. Van de energie van Patong Beach tot de spirituele sereniteit van de Big Buddha die over het eiland uitkijkt, Phuket levert onvergetelijke ervaringen voor elk type reiziger — of je nu op zoek bent naar avontuur door eilandhoppen naar de Phi Phi Islands, culturele onderdompeling in de historische Sino-Portugese architectuur van Old Town, of puur ontspanning op gezinsvriendelijke kusten.",
+      "overview": "Phuket, het grootste eiland van Thailand, werkt het best als een verzameling heel verschillende zones in plaats van als één standaard strandbestemming. Patong draait om nachtleven en gemak, Kata en Karon passen beter bij klassieke strandvakanties, Bangtao voelt resortgerichter aan en Old Town geeft het eiland een echte food- en erfgoedkern. Juist die mix maakt Phuket sterk voor heel verschillende reizigers, van strandvakanties en dagtrips tot kortere food- en cultuurreizen.",
       "thingsToDo": "De attracties van Phuket bedienen diverse interesses en budgetten. Begin met iconische ervaringen zoals een bezoek aan de 45 meter hoge Big Buddha (gratis toegang, panoramisch uitzicht), het verkennen van het levendige Patong Beach met uitzonderlijke waterspportfaciliteiten en strandclubs (gratis toegang), en het ontdekken van de kalksteenkliffen en ongerept snorkelen bij de Phi Phi Islands (400 THB/12 USD per persoon entreegeld nationaal park). Avonturiers mogen James Bond Island niet missen met zijn legendarische filmlocaties en kajakmogelijkheden (300 THB/9 USD tour). Voor culturele onderdompeling, bezoek Phuket FantaSea met Thaise mythologievoorstellingen en olifantenshows (1.800 THB/53 USD inclusief diner). Verken de kleurrijke Sino-Portugese gebouwen en lokale markten van Phuket Old Town, bezoek de heilige Wat Chalong tempel met traditionele architectuur, of ontspan op de minder drukke Kata en Karon stranden perfect voor zwemmen en watersporten. Nachtleven-enthousiasten moeten de beroemde Bangla Road entertainmenthub ervaren met straatoptredens en bruisende sfeer.",
       "whereToStay": "Phuket biedt uitzonderlijke accommodatie voor alle prijsklassen en voorkeursgebieden. Budgetreizigers kunnen overwegen om in pensions en hostels in Patong te verblijven, met slaapzaalbedden en eenvoudige privékamers voor $15-30 per nacht nabij stranden en nachtleven. Middensegment opties bloeien over de belangrijkste stranden van het eiland, met 3-sterrenhotels in Patong, Kata en Karon die comfortabele voorzieningen, zwembadtoegang en handige locaties bieden voor $50-100 per nacht. Luxezoekers vinden resorts van wereldklasse geconcentreerd in Bangtao, Bang Tao Beach en de rustigere noordelijke gebieden, met spafaciliteiten, meerdere restaurants en strandtoegang voor $150-400+ per nacht. Elk strandgebied heeft eigen kenmerken: Patong biedt maximale energie en gemak, Kata spreekt gezinnen aan met kalmere wateren, Karon biedt een rustigere sfeer, en Bangtao trekt luxe resortervaringen. Overweeg je prioriteiten — nabijheid van nachtleven, gezinsvriendelijkheid of rust — bij het kiezen van je accommodatiebasis.",
       "gettingAround": "Vanaf Phuket Airport is de beste optie voor alleenreizenden of koppels de Smart Bus: 100 THB per rit (dagpas 300 THB), die elk uur rijdt van 8:00 tot 23:30 met wifi en airconditioning. De rit duurt 1-1,5 uur naar Patong afhankelijk van het verkeer. Voor gezinnen met bagage, neem een openbare taxi vanaf de aangewezen standplaats — prijzen zijn vast (geen meters in Phuket), dus bevestig altijd het tarief voor vertrek (ongeveer 400-500 THB naar Patong). Vermijd minibusjes aangezien ze talloze stops maken en je via touroperatorkantoren leiden die te dure pakketten verkopen.\n\nEenmaal op het eiland is de Grab ritdeel-app verreweg de beste vervoersoptie — transparante prijzen ($1-8 per rit), veilige chauffeurs en geen onderhandeling nodig. Tuk-tuks zijn iconisch maar extreem overpriced in toeristische gebieden: reken op 200-400 THB voor slechts een rit van 3-4 minuten bij Bangla Road 's avonds. Motortaxi's kosten 100-200 THB voor korte afstanden met vaste prijzen. Voor flexibiliteit is motorverhuur zeer betaalbaar (150-300 THB per dag) maar brengt risico's met zich mee: je moet een internationaal rijbewijs bij je hebben en altijd een helm dragen, aangezien de toeristenpolitie actief buitenlanders beboet (800+ THB). Fotografeer voor het huren eventuele bestaande schade om geschillen bij het terugbrengen te voorkomen.",
@@ -863,7 +978,7 @@
           ]
         }
       ],
-      "overview": "Phuket, la plus grande île de Thaïlande, est une destination phare d'Asie du Sud-Est offrant un mélange captivant de plages immaculées, de culture vibrante et de divertissements de classe mondiale. Avec une population d'environ 443 000 habitants, cette province du sud de la Thaïlande s'est transformée en un paradis cosmopolite tout en préservant son charme authentique. De l'énergie de Patong Beach à la sérénité spirituelle du Big Buddha veillant sur l'île, Phuket offre des expériences inoubliables pour chaque type de voyageur — que vous recherchiez l'aventure en sautant d'île en île vers les Phi Phi Islands, l'immersion culturelle dans l'architecture historique sino-portugaise de Old Town, ou simplement la détente sur des côtes familiales.",
+      "overview": "Phuket, la plus grande île de Thaïlande, fonctionne mieux comme un ensemble de zones très différentes plutôt que comme une simple destination balnéaire uniforme. Patong se concentre sur la vie nocturne et la commodité, Kata et Karon conviennent davantage aux séjours plage classiques, Bangtao penche vers les resorts haut de gamme, et Old Town donne à l'île un vrai centre culinaire et patrimonial. C'est précisément ce mélange qui permet à Phuket de convenir à des voyages très différents, du séjour balnéaire aux courts séjours axés sur la gastronomie et la culture.",
       "thingsToDo": "Les attractions de Phuket s'adressent à des intérêts et budgets variés. Commencez par les expériences emblématiques comme la visite du Big Buddha de 45 mètres (accès gratuit, vue panoramique), l'exploration de la vibrante Patong Beach avec ses installations exceptionnelles de sports nautiques et ses clubs de plage (accès gratuit), et la découverte des falaises calcaires et du snorkeling préservé aux Phi Phi Islands (400 THB/12 USD par personne pour l'entrée au parc national). Les aventuriers ne doivent pas manquer James Bond Island avec ses sites de tournage légendaires et ses possibilités de kayak (300 THB/9 USD la visite). Pour une immersion culturelle, visitez Phuket FantaSea avec ses spectacles de mythologie thaïlandaise et ses shows d'éléphants (1 800 THB/53 USD dîner inclus). Explorez les bâtiments colorés sino-portugais et les marchés locaux de Phuket Old Town, visitez le sacré Wat Chalong avec son architecture traditionnelle, ou détendez-vous sur les plages moins fréquentées de Kata et Karon parfaites pour la baignade et les sports nautiques. Les amateurs de vie nocturne doivent découvrir le célèbre quartier de Bangla Road avec ses spectacles de rue et son atmosphère bouillonnante.",
       "whereToStay": "Phuket offre des hébergements exceptionnels pour toutes les gammes de prix et zones préférées. Les voyageurs à petit budget peuvent envisager des pensions et auberges à Patong, avec des lits en dortoir et des chambres privées simples pour 15-30 $ par nuit près des plages et de la vie nocturne. Les options de milieu de gamme fleurissent sur les principales plages de l'île, avec des hôtels 3 étoiles à Patong, Kata et Karon offrant des équipements confortables, accès piscine et emplacements pratiques pour 50-100 $ par nuit. Les amateurs de luxe trouvent des resorts de classe mondiale concentrés à Bangtao, Bang Tao Beach et dans les zones nord plus calmes, avec installations spa, restaurants multiples et accès plage pour 150-400+ $ par nuit. Chaque zone de plage a ses caractéristiques : Patong offre un maximum d'énergie et de commodité, Kata attire les familles avec des eaux plus calmes, Karon propose une atmosphère plus sereine, et Bangtao attire les expériences de resort de luxe. Considérez vos priorités — proximité de la vie nocturne, convivialité familiale ou tranquillité — pour choisir votre base d'hébergement.",
       "gettingAround": "Depuis l'aéroport de Phuket, la meilleure option pour les voyageurs seuls ou en couple est le Smart Bus : 100 THB par trajet (pass journée 300 THB), circulant toutes les heures de 8h00 à 23h30 avec wifi et climatisation. Le trajet dure 1 à 1,5 heure jusqu'à Patong selon le trafic. Pour les familles avec bagages, prenez un taxi public depuis la station désignée — les prix sont fixes (pas de compteurs à Phuket), confirmez donc toujours le tarif avant le départ (environ 400-500 THB vers Patong). Évitez les minibus car ils font de nombreux arrêts et vous dirigent vers des bureaux de voyagistes vendant des forfaits surévalués.\n\nUne fois sur l'île, l'application Grab est de loin la meilleure option de transport — tarifs transparents (1-8 $ par trajet), chauffeurs fiables et pas de négociation nécessaire. Les tuk-tuks sont emblématiques mais extrêmement surfacturés dans les zones touristiques : comptez 200-400 THB pour un trajet de seulement 3-4 minutes près de Bangla Road le soir. Les moto-taxis coûtent 100-200 THB pour les courtes distances à tarifs fixes. Pour la flexibilité, la location de moto est très abordable (150-300 THB par jour) mais comporte des risques : vous devez avoir un permis de conduire international et toujours porter un casque, car la police touristique verbalise activement les étrangers en infraction (800+ THB). Avant de louer, photographiez tout dommage existant pour éviter les litiges au retour.",
@@ -951,7 +1066,7 @@
           ]
         }
       ],
-      "overview": "Phuket, Thailands größte Insel, ist ein erstklassiges südostasiatisches Reiseziel, das eine fesselnde Mischung aus unberührten Stränden, lebendiger Kultur und Unterhaltung von Weltrang bietet. Mit einer Bevölkerung von etwa 443.000 hat sich diese südthailändische Provinz in ein kosmopolitisches Paradies verwandelt und bewahrt gleichzeitig seinen authentischen Charme. Von der Energie von Patong Beach bis zur spirituellen Gelassenheit des Big Buddha, der über die Insel wacht, liefert Phuket unvergessliche Erlebnisse für jeden Reisetyp — ob Sie Abenteuer beim Inselhüpfen zu den Phi Phi Islands suchen, kulturelles Eintauchen in die historische sino-portugiesische Architektur der Altstadt oder einfach Entspannung an familienfreundlichen Küsten.",
+      "overview": "Phuket, Thailands größte Insel, funktioniert am besten als Sammlung sehr unterschiedlicher Zonen statt als einheitliches Strandziel. Patong steht für Nachtleben und dichte Touristeninfrastruktur, Kata und Karon passen besser zu klassischen Strandaufenthalten, Bangtao wirkt resortlastiger, und die Altstadt gibt der Insel ein echtes Zentrum für Essen und Kulturerbe. Genau diese Mischung macht Phuket für sehr unterschiedliche Reisearten interessant, von Strandurlauben bis zu kürzeren Food- und Kulturtrips.",
       "thingsToDo": "Phukets Attraktionen bedienen verschiedenste Interessen und Budgets. Beginnen Sie mit ikonischen Erlebnissen wie dem Besuch des 45 Meter hohen Big Buddha (freier Eintritt, Panoramablick), der Erkundung des lebhaften Patong Beach mit erstklassigen Wassersporteinrichtungen und Strandclubs (freier Zugang) und der Entdeckung der Kalksteinklippen und des unberührten Schnorchelns bei den Phi Phi Islands (400 THB/12 USD pro Person Nationalpark-Eintritt). Abenteurer dürfen James Bond Island mit seinen legendären Filmlocations und Kajak-Möglichkeiten nicht verpassen (300 THB/9 USD Tour). Für kulturelles Eintauchen besuchen Sie Phuket FantaSea mit thailändischen Mythologie-Aufführungen und Elefantenshows (1.800 THB/53 USD inklusive Dinner). Erkunden Sie die farbenfrohen sino-portugiesischen Gebäude und lokalen Märkte von Phuket Old Town, besuchen Sie den heiligen Wat Chalong Tempel mit traditioneller Architektur oder entspannen Sie an den weniger überlaufenen Stränden von Kata und Karon, perfekt zum Schwimmen und für Wassersport. Nachtleben-Begeisterte sollten den berühmten Bangla Road Unterhaltungsbereich mit Straßenaufführungen und pulsierender Atmosphäre erleben.",
       "whereToStay": "Phuket bietet außergewöhnliche Unterkünfte für alle Preisklassen und Vorzugsgebiete. Budget-Reisende können Pensionen und Hostels in Patong in Betracht ziehen, mit Schlafsaalbetten und einfachen Privatzimmern für $15-30 pro Nacht nahe Stränden und Nachtleben. Mittelklasse-Optionen gedeihen an den wichtigsten Stränden der Insel, mit 3-Sterne-Hotels in Patong, Kata und Karon, die komfortable Ausstattung, Poolzugang und praktische Lagen für $50-100 pro Nacht bieten. Luxussuchende finden Weltklasse-Resorts konzentriert in Bangtao, Bang Tao Beach und den ruhigeren nördlichen Gebieten, mit Spa-Einrichtungen, mehreren Restaurants und Strandzugang für $150-400+ pro Nacht. Jedes Strandgebiet hat eigene Vorzüge: Patong bietet maximale Energie und Komfort, Kata spricht Familien mit ruhigerem Wasser an, Karon bietet eine friedlichere Atmosphäre, und Bangtao zieht Luxus-Resort-Erlebnisse an. Berücksichtigen Sie Ihre Prioritäten — Nähe zum Nachtleben, Familienfreundlichkeit oder Ruhe — bei der Wahl Ihrer Unterkunftsbasis.",
       "gettingAround": "Vom Flughafen Phuket ist die beste Option für Alleinreisende oder Paare der Smart Bus: 100 THB pro Fahrt (Tagespass 300 THB), der stündlich von 8:00 bis 23:30 Uhr fährt, mit WLAN und Klimaanlage. Die Fahrt dauert 1-1,5 Stunden nach Patong je nach Verkehr. Für Familien mit Gepäck nehmen Sie ein öffentliches Taxi vom ausgewiesenen Stand — Preise sind fest (keine Taxameter in Phuket), bestätigen Sie daher immer den Fahrpreis vor der Abfahrt (ca. 400-500 THB nach Patong). Vermeiden Sie Minibusse, da sie zahlreiche Stopps machen und Sie durch Reisebüros leiten, die überteuerte Pakete verkaufen.\n\nAuf der Insel ist die Grab Ride-Hailing-App bei Weitem die beste Transportoption — transparente Preise ($1-8 pro Fahrt), sichere Fahrer und keine Verhandlung nötig. Tuk-Tuks sind ikonisch, aber in Touristengebieten extrem überteuert: Rechnen Sie mit 200-400 THB für nur 3-4 Minuten Fahrt nahe der Bangla Road abends. Motorradtaxis kosten 100-200 THB für kurze Strecken zum Festpreis. Für Flexibilität ist Motorradverleih sehr erschwinglich (150-300 THB pro Tag), birgt aber Risiken: Sie müssen einen internationalen Führerschein mitführen und stets einen Helm tragen, da die Touristenpolizei aktiv Ausländer bestraft (800+ THB). Fotografieren Sie vor dem Mieten eventuelle Vorschäden, um Streitigkeiten bei der Rückgabe zu vermeiden.",
@@ -1039,7 +1154,7 @@
           ]
         }
       ],
-      "overview": "普吉岛是泰国最大的岛屿，也是东南亚首屈一指的旅游目的地，融合了原始海滩、多彩文化和世界级娱乐。拥有约443,000人口的这个泰南省份已发展为国际化的度假天堂，同时保留了其质朴的魅力。从芭东海滩的活力四射到俯瞰全岛的大佛的精神宁静，普吉岛为每一类旅行者提供难忘的体验——无论你寻求跳岛游皮皮群岛的探险、沉浸于老城区中葡建筑的历史文化，还是在家庭友好型海滩上纯粹的放松。",
+      "overview": "普吉岛是泰国最大的岛屿，更适合被理解为多个风格差异很大的区域组合，而不是单一的海岛度假模板。芭东更偏夜生活和游客便利，卡塔与卡伦更适合经典海滩度假，邦涛更偏向高端度假村体验，而老城区则为普吉岛提供了真正的美食与历史文化核心。正是这种组合，让普吉岛既适合海滩假期，也适合更偏美食、文化和短途休闲的旅行方式。",
       "thingsToDo": "普吉岛的景点满足各种兴趣和预算。从标志性体验开始：参观45米高的大佛（免费参观，全景视野）、探索充满活力的芭东海滩及其一流水上运动设施和海滩俱乐部（免费进入）、以及发现皮皮群岛的石灰岩悬崖和原始浮潜（400 THB/12 USD国家公园门票）。寻求冒险的旅行者不可错过007岛及其传奇电影取景地和海上皮划艇（300 THB/9 USD旅游团）。文化体验推荐普吉幻多奇乐园的泰国神话表演和大象表演（1,800 THB/53 USD含晚餐）。探索普吉老城的彩色中葡建筑和当地市场，参拜神圣的查龙寺传统建筑，或在人少的卡塔和卡伦海滩放松游泳和水上运动。夜生活爱好者应体验著名的邦拉路娱乐区的街头表演和热闹氛围。",
       "whereToStay": "普吉岛提供各价位和区域的优质住宿。预算旅行者可选择芭东的旅馆和青年旅社，床位和基础私人房间$15-30/晚，靠近海滩和夜生活区。中档选项遍布岛上主要海滩，芭东、卡塔和卡伦的3星级酒店提供舒适设施、泳池和便利位置，$50-100/晚。追求奢华的旅客可在邦涛、邦涛海滩和较安静的北部区域找到世界级度假村，配备水疗设施、多家餐厅和海滨通道，$150-400+/晚。每个海滩区域各有特色：芭东最热闹便利，卡塔适合家庭（海水较平静），卡伦更为安静，邦涛以高端度假体验著称。根据你的优先考虑——夜生活距离、家庭友好度还是宁静——来选择住宿区域。",
       "gettingAround": "从普吉机场出发，独行旅客或情侣的最佳选择是Smart Bus：100 THB每程（日票300 THB），每小时一班从8:00到23:30，配有WiFi和空调。到芭东约1-1.5小时。带行李的家庭建议从指定站台乘公共出租车——普吉没有打表计价，务必出发前确认车费（到芭东约400-500 THB）。避免乘坐小巴，因为它们多次停靠并经过推销高价旅游套餐的办公室。\n\n在岛上，Grab叫车应用是最佳交通选择——价格透明（$1-8/程），司机安全，无需讨价还价。嘟嘟车虽具特色但在旅游区极其昂贵：邦拉路附近晚间仅3-4分钟车程就要200-400 THB。摩托车出租车短途100-200 THB固定价格。如需灵活出行，摩托车租赁非常实惠（150-300 THB/天），但有风险：必须携带国际驾照并始终佩戴头盔，旅游警察会主动对违规外国人处以罚款（800+ THB）。租车前拍照记录已有损伤，以避免还车时产生纠纷。",
@@ -1127,7 +1242,7 @@
           ]
         }
       ],
-      "overview": "Пхукет — крупнейший остров Таиланда и одно из ведущих туристических направлений Юго-Восточной Азии, сочетающее нетронутые пляжи, яркую культуру и развлечения мирового класса. Эта южная провинция с населением около 443 000 человек превратилась в космополитичный курортный рай, сохранив при этом свой исконный шарм. От энергии пляжа Патонг до духовного покоя Большого Будды, возвышающегося над островом — Пхукет предлагает незабываемые впечатления для любого путешественника, будь то островные приключения на Пхи-Пхи, погружение в историю среди сино-португальской архитектуры Старого города или просто расслабление на семейных пляжах.",
+      "overview": "Пхукет, крупнейший остров Таиланда, лучше понимать как набор очень разных зон, а не как однотипное пляжное направление. Патонг ориентирован на ночную жизнь и плотную туристическую инфраструктуру, Ката и Карон больше подходят для классического пляжного отдыха, Бангтао тяготеет к курортному формату, а Старый город даёт острову настоящий гастрономический и исторический центр. Именно это сочетание делает Пхукет сильным выбором для очень разных поездок — от пляжного отпуска до коротких путешествий ради еды и городской атмосферы.",
       "thingsToDo": "Достопримечательности Пхукета удовлетворят любые интересы и бюджеты. Начните с культовых мест: 45-метровый Большой Будда (бесплатно, панорамные виды), оживлённый пляж Патонг с первоклассными водными видами спорта и бич-клубами (свободный вход), острова Пхи-Пхи с известняковыми скалами и великолепным снорклингом (400 бат / 12 $ за вход в национальный парк). Любителям приключений — остров Джеймса Бонда с легендарными местами съёмок и морским каякингом (300 бат / 9 $ за экскурсию). Культурные впечатления: шоу Phuket FantaSea с тайской мифологией и слоновьим представлением (1 800 бат / 53 $ с ужином). Исследуйте красочные сино-португальские здания и рынки Старого города, посетите священный Ват Чалонг, расслабьтесь на менее людных пляжах Ката и Карон. Для ночной жизни — знаменитая Бангла-роуд с уличными шоу и оживлённой атмосферой.",
       "whereToStay": "Пхукет предлагает отличное размещение для любого бюджета и в разных районах. Бюджетные путешественники найдут хостелы и гестхаусы в Патонге от 15–30 $ за ночь рядом с пляжем и ночной жизнью. Средний сегмент представлен 3-звёздочными отелями на основных пляжах — Патонг, Ката и Карон — с комфортными удобствами, бассейнами и удобным расположением за 50–100 $ за ночь. Для любителей роскоши — курорты мирового класса в Бангтао и более тихих северных районах со спа, ресторанами и выходом к морю за 150–400+ $ за ночь. Каждый пляжный район имеет свой характер: Патонг — самый оживлённый, Ката подходит семьям (спокойное море), Карон — тише, Бангтао славится премиальным курортным отдыхом. Выбирайте район в зависимости от приоритетов: близость к ночной жизни, семейная атмосфера или спокойствие.",
       "gettingAround": "Из аэропорта Пхукета лучший вариант для одиночных путешественников и пар — Smart Bus: 100 бат за поездку (дневной билет 300 бат), каждый час с 8:00 до 23:30, с Wi-Fi и кондиционером. До Патонга около 1–1,5 часа. Семьям с багажом рекомендуется общественное такси с отведённой стоянки — на Пхукете нет счётчиков, обязательно оговорите цену заранее (до Патонга около 400–500 бат). Избегайте минивэнов — они делают множество остановок и заезжают в офисы, навязывающие дорогие экскурсии.\n\nНа острове Grab — лучший транспорт: прозрачные цены (1–8 $/поездка), безопасные водители, без торга. Тук-туки колоритны, но в туристических зонах крайне дороги: рядом с Бангла-роуд за 3–4 минуты езды просят 200–400 бат. Мото-такси — 100–200 бат за короткие поездки. Для свободы передвижения аренда мотоцикла очень доступна (150–300 бат/день), но рискованна: обязателны международные водительские права и шлем — туристическая полиция активно штрафует нарушителей-иностранцев (800+ бат). Перед арендой сфотографируйте все имеющиеся повреждения, чтобы избежать споров при возврате.",
@@ -1184,81 +1299,82 @@
       "translated_at": "2026-03-14T00:00:00.000Z"
     }
   },
-  "extended_description": "## Overview\nPhuket is Thailand's largest island and its most internationally famous beach destination. Connected to the mainland by the Sarasin Bridge, this Andaman Sea gem stretches roughly 50 kilometers from north to south and packs an extraordinary range of experiences into its compact frame. The west coast is lined with one iconic beach after another — from the buzzing party atmosphere of Patong to the family-friendly sands of Kata and Karon, the upscale calm of Surin and Bangtao, and the near-deserted stretches of Nai Yang near the airport. Inland, you will find rubber plantations, a rejuvenated Old Town filled with Sino-Portuguese shophouses and street art, and the 45-meter Big Buddha sitting serenely above Chalong Bay. Phuket serves as a launchpad for some of Thailand's most spectacular island-hopping routes, with Phi Phi Islands, Phang Nga Bay, and the Similan Islands all within half-day reach.\n\n## Best Time to Visit\nNovember through April is Phuket's dry season, with blue skies, calm seas, and daytime temperatures around 28-33 degrees Celsius. December and January are peak months — book accommodation well ahead. The Similan Islands are only open November to mid-May. The monsoon season runs May through October, bringing afternoon downpours and occasionally rough seas on the west coast. However, east-coast beaches like Cape Panwa stay swimmable, and hotel rates drop 30-50 percent. Songkran in April is hot (34-36 degrees) but the island-wide water fights are legendary. For the sweet spot of good weather and moderate crowds, aim for November or late February to March.\n\n## How to Get There\nPhuket International Airport (HKT) is one of Thailand's busiest, with direct flights from Bangkok (1 hour 20 minutes, 1,000-2,500 THB on AirAsia, Thai Lion Air, Nok Air from Don Mueang; Thai Smile and Bangkok Airways from Suvarnabhumi), plus international routes from Kuala Lumpur, Singapore, Hong Kong, and seasonal European charters. From the airport, metered taxis cost 600-800 THB to Patong (45 minutes), while the airport bus to the beaches is 100-200 THB. Overnight VIP buses from Bangkok's Southern Bus Terminal take 12-14 hours and cost 600-1,000 THB. You can also train to Surat Thani (8-10 hours from Bangkok, 250-800 THB) and then minivan to Phuket (4-5 hours, 300-400 THB).\n\n## Where to Stay\nPatong is the epicenter of nightlife and tourist infrastructure — backpacker hostels start at 300-500 THB, mid-range hotels at 800-2,500 THB, and beachfront resorts from 3,000-15,000 THB. Kata and Karon offer a mellower vibe with families, great restaurants, and similar pricing. Surin and Bangtao are upscale neighborhoods with boutique resorts and beach clubs (3,000-20,000 THB). Old Phuket Town has converted shophouse hostels and boutique hotels from 400-2,000 THB and is perfect for culture-focused travelers. Nai Harn in the far south is peaceful with a local feel, while Rawai is popular with long-stay expats and has great seafood restaurants along the pier.\n\n## What to Do\nStart with Old Phuket Town — walk Thalang Road and Soi Romanee for pastel-colored Sino-Portuguese architecture, street art, and excellent local cafes. The Big Buddha is a free hilltop viewpoint with panoramic views over the southern end of the island. Phuket's west-coast beaches each have their own personality: Patong for jet skis and parasailing, Freedom Beach for secluded snorkeling (reachable by longtail, 200-300 THB), and Nai Harn for sunset watching with locals. Diving around Phuket is world-class — two-dive day trips start at 3,000-4,500 THB, while liveaboard trips to the Similan Islands run 15,000-25,000 THB for three days. Phi Phi Island speedboat day trips cost 1,500-2,500 THB including lunch and snorkeling. Phang Nga Bay tours (the James Bond Island route) go for 1,200-2,000 THB by longtail or 2,500-4,000 THB by speedboat.\n\n## Food & Dining\nPhuket has a food scene that goes far beyond tourist restaurants. The island's signature dishes include Hokkien-style mee Phuket (yellow noodles in thick broth, 50-80 THB), oh tao (crispy oyster omelet, 60-100 THB at Rawai seafood market), and gaeng som (sour fish curry). Old Town cafes serve traditional kopi (local-style coffee) and dim sum breakfasts from 30-50 THB per dish. For fresh seafood, head to Rawai Fish Market where you buy fish from vendors and have it cooked at restaurants behind (cooking fee 100-200 THB per dish). Banzaan Market near Patong has a similar setup upstairs. Night markets in Phuket Town on weekends (Naka Weekend Market, Chillva Market) offer grilled skewers, roti, and Thai desserts at 20-60 THB each.\n\n## Budget Guide\nPhuket is pricier than mainland Thailand but still very manageable. Backpackers can get by on 1,000-1,500 THB per day (about 28-42 USD): dorm bed (300-500 THB), street food and market meals (200-300 THB), songthaew buses (30-50 THB per ride) or scooter rental (250-350 THB per day). Mid-range travelers spend 2,500-5,000 THB per day (70-140 USD): beachfront hotel, restaurant meals, one day trip. Songthaews (open-air blue buses) run fixed routes from Phuket Town to the beaches for 30-50 THB and are the cheapest way to move around. Grab is available island-wide and usually cheaper than tuk-tuks, which are notorious for high fixed prices (300-600 THB between beaches).\n\n## Safety & Tips\nPhuket is generally safe, but beach safety matters: respect red-flag warnings during monsoon season when riptides are dangerous, especially at Karon and Surin beaches. Scooter accidents are the biggest risk — always wear a helmet and carry your international driving permit. Jet-ski rental scams (operators claiming you caused damage) are a known issue at Patong; photograph any equipment before use. Avoid the cheapest Phi Phi tour operators as boats can be overcrowded. Tuk-tuk drivers quote inflated prices — negotiate firmly or use Grab instead. The Phuket Smart Bus runs a fixed route along the west coast for 50-170 THB and is air-conditioned and reliable. If visiting temples, cover shoulders and knees. Tap water is not drinkable; bottled water costs 7-15 THB everywhere.",
+  "extended_description": "## Overview\nPhuket works best when you treat it as a collection of very different zones instead of one interchangeable island holiday. Patong is built around nightlife and convenience, Kata and Karon make more sense for classic beach stays, Bangtao and the northwest lean more resort-heavy, and Phuket Old Town gives the island a real food-and-heritage center that balances out the beach narrative. That mix is why Phuket can still suit families, couples, short-break food travelers, and resort-led luxury trips without forcing them all into the same version of the destination.\n\n## Best Time to Visit\nNovember through February is usually the easiest first-time answer because west-coast beach weather and boat conditions are more reliable. March and April can still work well if you are comfortable with more heat. May through October is the rougher-weather stretch, and it matters more here than in some other Thai destinations because sea conditions affect beaches, swimming, and island tours directly.\n\n## How to Get There\nMost visitors arrive through Phuket International Airport, then continue by transfer, taxi, airport bus, or the Phuket Smart Bus depending on where they are staying. The airport's own transport information makes the main point clear: Phuket is easy to enter, but onward travel time varies a lot by zone. Patong, Kata, Karon, Rawai, and Old Town do not feel equally close once road traffic is involved.\n\n## Where to Stay\nChoosing the right base matters more in Phuket than in many mainland cities. Patong suits travelers who want nightlife, dense services, and easy booking logistics. Kata and Karon fit many first-time beach stays better. Bangtao and nearby resort belts are more appropriate for upscale holidays, while Old Town is the better base for food, short cultural stays, and travelers who do not need to sleep next to the beach.\n\n## What to Do\nPhuket's best plan is usually a mix instead of an endless checklist: one Old Town block, one temple or viewpoint pairing, real beach time, and one carefully chosen boat day. Big-ticket island tours can be worth it, but the destination also improves when you leave room for Old Town snacks, local breakfasts, and slower neighborhood time instead of treating the island only as a launch pad for speedboats.\n\n## Food & Dining\nThe island's strongest food identity is easiest to understand in Phuket Old Town, where Chinese, Malay, and Southern Thai influences still shape what you eat. Mee Hokkien, moo hong, a-pong, roti, and Oh Aew say more about Phuket than a generic resort Thai menu. That is also why Old Town matters even for beach-led itineraries: it gives the island a recognizable food culture instead of just another beach-destination dining strip.\n\n## Budget Guide\nPhuket can be done on a moderate budget, but it is rarely a low-friction budget destination in the same way as parts of northern Thailand. Accommodation can still be reasonable, especially away from premium beachfront zones, but transport, transfers, and boat-led sightseeing push daily costs up quickly. A practical Phuket budget is less about chasing the cheapest line item and more about reducing unnecessary cross-island movement.\n\n## Safety & Tips\nThe main tourist risks in Phuket are usually roads, sea conditions, and poor transport decisions rather than serious violent crime. Red-flag beach warnings should be taken seriously, and scooters are not a good default if you are not already comfortable riding in Thailand. On a short stay, safer transfers and realistic area planning are usually smarter than trying to force independence through a risky scooter rental.",
   "getting_there": {
     "from_bangkok": {
-      "flight": "1h 20min, 1,000-2,500 THB (AirAsia, Thai Lion Air, Nok Air from Don Mueang; Thai Smile from Suvarnabhumi)",
-      "bus": "12-14 hours overnight VIP, 600-1,000 THB from Southern Bus Terminal"
+      "flight": "Direct flights are the standard option for most visitors, with service from both Bangkok airport systems.",
+      "bus": "Overnight buses still exist, but they make more sense for budget travelers than for short-stay visitors."
     },
     "from_surat_thani": {
-      "minivan": "4-5 hours, 300-400 THB"
+      "minivan": "Overland transfers from Surat Thani are possible, but they are a slower backup than flying directly into Phuket."
     },
-    "local": "Songthaew buses 30-50 THB, Grab available island-wide, scooter rental 250-350 THB/day",
+    "local": "Airport taxis, airport bus services, the Phuket Smart Bus, Grab, and arranged hotel transfers all work, but travel time depends heavily on the beach or town zone you choose.",
     "airport": "Phuket International Airport (HKT)"
   },
   "best_time": {
-    "peak": "Nov-Mar",
-    "shoulder": "Apr, Oct",
-    "low": "May-Sep (monsoon, rough west-coast seas)",
-    "avoid": "May-June for Similan diving (national park closed)",
+    "peak": "Nov-Feb",
+    "shoulder": "Mar-Apr, Oct",
+    "low": "May-Oct",
+    "avoid": "Less ideal if west-coast swimming and boat days are the priority",
     "best_months": "Nov-Feb",
-    "why": "Dry weather, calm Andaman seas, Similan Islands open, best for diving and island hopping."
+    "why": "These months are usually the easiest combination of beach weather, boat reliability, and all-round trip planning."
   },
   "budget": {
-    "backpacker": "$28-42/day",
-    "mid_range": "$70-140/day",
-    "luxury": "$200+/day",
-    "typical_meal": "50-80 THB street food, 150-500 THB restaurant"
+    "backpacker": "$45-80/day",
+    "mid_range": "$90-180/day",
+    "luxury": "$250+/day",
+    "typical_meal": "Town food remains manageable, but beach belts, transfers, and boat days move Phuket above many mainland Thailand budgets."
   },
   "neighborhoods": [
     {
       "name": "Patong",
-      "vibe": "Nightlife hub, Bangla Road, packed beach, every tourist service imaginable",
-      "best_for": "Party travelers, first-timers wanting action",
-      "price_range": "300-15,000 THB/night"
+      "vibe": "Dense tourist infrastructure, nightlife, easy access to tours, and constant movement",
+      "best_for": "Travelers who want nightlife, convenience, and a busy resort zone",
+      "price_range": "Broadest range on the island, from budget stays to larger branded resorts"
     },
     {
       "name": "Kata & Karon",
-      "vibe": "Relaxed beach towns, family-friendly, good restaurants and surf shops",
-      "best_for": "Families, mid-range travelers, surfers (May-Oct swells)",
-      "price_range": "500-8,000 THB/night"
+      "vibe": "Classic beach-town balance with more breathing room than Patong",
+      "best_for": "Families, couples, and first-time visitors who want beach stays without Patong intensity",
+      "price_range": "Good spread of mid-range hotels and approachable resort options"
     },
     {
       "name": "Old Phuket Town",
-      "vibe": "Sino-Portuguese architecture, street art, local cafes and dim sum halls",
-      "best_for": "Culture lovers, foodies, budget travelers",
-      "price_range": "400-2,000 THB/night"
+      "vibe": "Food, heritage, local shopfronts, markets, and walkable street character",
+      "best_for": "Food-led stays, short breaks, and travelers who do not need beachside accommodation",
+      "price_range": "Often better value than west-coast beach strips"
     },
     {
       "name": "Surin & Bangtao",
-      "vibe": "Upscale beach clubs, boutique resorts, quieter and more exclusive",
-      "best_for": "Luxury travelers, couples, honeymooners",
-      "price_range": "3,000-20,000 THB/night"
+      "vibe": "Resort-heavy, more polished, and generally calmer than Patong",
+      "best_for": "Luxury travelers, couples, and villa or club-style resort stays",
+      "price_range": "Leans upscale to luxury"
     },
     {
       "name": "Rawai & Nai Harn",
-      "vibe": "Local expat community, seafood pier, peaceful southern tip",
-      "best_for": "Long-stay visitors, seafood lovers, sunset seekers",
-      "price_range": "500-5,000 THB/night"
+      "vibe": "Slower south-island pace with a stronger local-residential feel",
+      "best_for": "Longer stays, repeat visitors, and travelers who do not need central nightlife access",
+      "price_range": "Mixed, from simple stays to quieter upscale options"
     }
   ],
   "must_try_food": [
-    "Mee Hokkien Phuket (yellow noodles in thick broth) — the island's signature noodle dish, served at Old Town shops (50-80 THB)",
-    "Oh tao (crispy oyster omelet) — buy fresh at Rawai Fish Market and have it cooked on the spot (60-100 THB)",
-    "Roti with banana and condensed milk from Muslim street stalls — a southern Thai breakfast staple (30-50 THB)"
+    "Mee Hokkien Phuket, a Chinese-influenced noodle dish tied closely to the island's Old Town food culture",
+    "Moo hong, the slow-braised pork dish that appears again and again in serious Phuket cooking",
+    "Oh Aew, the light shaved-ice dessert that feels especially tied to Old Town snack culture",
+    "Roti breakfasts and street-side Muslim-influenced griddle culture, especially in and around town"
   ],
   "local_tips": [
-    "Use songthaew blue buses from Phuket Town to the beaches (30-50 THB) instead of tuk-tuks that charge 300-600 THB for the same trip",
-    "Visit Old Phuket Town on Sunday evening for the Walking Street market — the best street food and shopping on the island",
-    "For Phi Phi day trips, book mid-range speedboats that depart early (7:30am) to beat the crowds at Maya Bay",
-    "Rawai Fish Market is the best seafood deal: buy fish from the market stalls, then pay a cooking fee (100-200 THB) at the restaurants behind",
-    "Download Grab for fair taxi pricing — Phuket tuk-tuks are expensive and do not use meters"
+    "Pick one main zone and stay there instead of trying to sample every famous beach in one short trip.",
+    "Use Phuket Old Town to understand the island's food identity rather than treating Phuket only as a beach-and-boat destination.",
+    "Check current airport transport options on official Phuket Airport pages before arrival; the best airport transfer choice depends on your exact beach area.",
+    "Treat cross-island road time seriously when booking tours, dinners, and airport transfers.",
+    "If you are uncertain about scooter riding in Thailand, default to Grab or arranged transfers instead of forcing a rental."
   ],
   "day_trips": [
-    "Phi Phi Islands & Maya Bay (speedboat day trip) — iconic scenery, snorkeling, Pileh Lagoon (1,500-2,500 THB)",
-    "Phang Nga Bay & James Bond Island (longtail or speedboat) — limestone karsts, sea caves, floating village (1,200-4,000 THB)",
-    "Similan Islands (Nov-May only, full-day speedboat) — world-class diving and snorkeling, crystal-clear water (2,500-4,500 THB)",
-    "Koh Racha (Racha Yai) — quiet island with great diving and white sand, 45 min by speedboat (1,500-2,500 THB)"
+    "Phi Phi-linked day trips if iconic scenery and snorkeling matter more than a quiet experience.",
+    "Phang Nga Bay or James Bond Island routes for limestone karst scenery and classic Andaman boat-day visuals.",
+    "Similan-focused excursions in the open season if marine visibility and snorkel or dive quality are the main priority.",
+    "Closer southern islands such as Racha options if you want a boat day without automatically choosing the busiest headline route."
   ],
-  "enriched_at": "2026-03-22"
+  "enriched_at": "2026-03-26"
 }
