@@ -1,26 +1,20 @@
 import { GetStaticProps, GetStaticPaths } from 'next';
 import Link from 'next/link';
-import { useRouter } from 'next/router';
 import { getCityBySlug, generateBreadcrumbs } from '../../../lib/cities';
 import { getDivingSnorkelingByCity, getAllDivingSnorkelingCities } from '../../../lib/diving-snorkeling';
-import { formatPrice } from '../../../lib/price';
 import Breadcrumbs from '../../../components/Breadcrumbs';
 import SEOHead from '../../../components/SEOHead';
 import CityExploreMore from '../../../components/CityExploreMore';
 import CitySupportSources from '../../../components/CitySupportSources';
-import { getAffiliates, CityAffiliates } from '../../../lib/affiliates';
 
 interface Activity {
   name: string;
   slug: string;
-  provider: string;
   type: 'diving' | 'snorkeling';
-  priceFrom: number;
-  currency: string;
   duration: string;
   groupSize: string;
   includes: string[];
-  badge: string;
+  priceTier?: string;
 }
 
 interface CityData {
@@ -50,7 +44,6 @@ interface City {
 interface Props {
   city: City;
   divingData: CityData | null;
-  affiliates: CityAffiliates | null;
 }
 
 function TypeBadge({ type }: { type: string }) {
@@ -62,9 +55,7 @@ function TypeBadge({ type }: { type: string }) {
   return <span className={`text-xs font-semibold px-2 py-1 rounded ${color}`}>{label}</span>;
 }
 
-export default function DivingSnorkelingPage({ city, divingData, affiliates }: Props) {
-  const { locale } = useRouter();
-  const loc = locale || 'en';
+export default function DivingSnorkelingPage({ city, divingData }: Props) {
   if (!city) return <div>Not found</div>;
 
   const breadcrumbs = [
@@ -76,17 +67,14 @@ export default function DivingSnorkelingPage({ city, divingData, affiliates }: P
   const snorkelingActivities = divingData?.classes?.filter(c => c.type === 'snorkeling') || [];
   const activityCount = divingData?.classes?.length || 0;
   const hasLocalOptions = activityCount > 0;
-  const priceValues = divingData?.classes?.map(c => c.priceFrom).filter((price): price is number => typeof price === 'number' && Number.isFinite(price)) || [];
-  const minPrice = priceValues.length > 0 ? Math.min(...priceValues) : null;
-  const maxPrice = priceValues.length > 0 ? Math.max(...priceValues) : null;
   const introText = divingData?.intro?.en || `Diving and snorkeling are not a core local fit in ${city.name.en}, so this page keeps the focus on honest planning context and stronger alternatives.`;
-  const editorialPositioning = (city.editorialPositioning || `Ayutthaya is inland and not a diving/snorkeling base. The stronger sea-based options in Thailand are on the coast and islands.`).trim();
+  const editorialPositioning = (city.editorialPositioning || `${city.name.en} is not a core diving or snorkeling base. The stronger sea-based options in Thailand are on the coast and islands.`).trim();
   const recommendedAlternatives = city.recommendedAlternatives && city.recommendedAlternatives.length > 0
     ? city.recommendedAlternatives
     : [
         { label: 'Phuket diving & snorkeling', href: '/city/phuket/diving-snorkeling/', note: 'Biggest marine-tour inventory' },
         { label: 'Krabi diving & snorkeling', href: '/city/krabi/diving-snorkeling/', note: 'Strong island-hopping trips' },
-        { label: 'Attractions in Ayutthaya', href: `/city/${city.slug}/attractions/`, note: 'Better local fit' },
+        { label: `Attractions in ${city.name.en}`, href: `/city/${city.slug}/attractions/`, note: 'Better local fit' },
       ];
 
   const title = `Diving & Snorkeling in ${city.name.en} 2026 — Practical Overview`;
@@ -97,8 +85,8 @@ export default function DivingSnorkelingPage({ city, divingData, affiliates }: P
   const faqItems = hasLocalOptions
     ? [
         {
-          q: `How much does diving or snorkeling cost in ${city.name.en}?`,
-          a: `Diving and snorkeling tours in ${city.name.en} range from ${minPrice !== null ? formatPrice(minPrice, loc) : 'unknown'} to ${maxPrice !== null ? formatPrice(maxPrice, loc) : 'unknown'} per person. Snorkeling tours are typically more affordable, while scuba diving experiences cost more due to equipment and instruction.`
+          q: `What type of marine trip is best in ${city.name.en}?`,
+          a: `The best option depends on whether you want a longer dive day, a lighter snorkeling trip, or a scenic island-hopping format.`
         },
         {
           q: `Do I need certification to go scuba diving in ${city.name.en}?`,
@@ -124,7 +112,7 @@ export default function DivingSnorkelingPage({ city, divingData, affiliates }: P
         },
         {
           q: `What should I do in ${city.name.en} instead?`,
-          a: `Ayutthaya is better suited to temples, museums, food stops, and river planning than to marine tours.`,
+          a: `${city.name.en} is better suited to its strongest local sights, food stops, and place-led planning than to marine tours.`,
         },
       ];
 
@@ -156,9 +144,9 @@ export default function DivingSnorkelingPage({ city, divingData, affiliates }: P
                         #{index + 1}
                       </span>
                       <TypeBadge type={activity.type} />
-                      {activity.badge && (
-                        <span className="text-xs font-semibold text-white bg-blue-500 px-2 py-1 rounded">
-                          {activity.badge}
+                      {activity.priceTier && (
+                        <span className="text-xs font-semibold text-white bg-slate-600 px-2 py-1 rounded">
+                          {activity.priceTier}
                         </span>
                       )}
                     </div>
@@ -176,11 +164,8 @@ export default function DivingSnorkelingPage({ city, divingData, affiliates }: P
                     </div>
                   </div>
                   <div className="text-right">
-                    <div className="text-right">
-                      <div className="text-sm text-gray-500">From</div>
-                      <div className="text-2xl font-bold text-gray-900">{formatPrice(activity.priceFrom, loc)}</div>
-                      <div className="text-xs text-gray-500">per person</div>
-                    </div>
+                    <div className="text-sm text-gray-500">Planning fit</div>
+                    <div className="text-lg font-bold text-gray-900">{activity.priceTier || 'General'}</div>
                   </div>
                 </div>
               </div>
@@ -242,22 +227,16 @@ export default function DivingSnorkelingPage({ city, divingData, affiliates }: P
                 <div className="text-sm text-gray-600">Activities</div>
               </div>
               <div className="bg-white rounded-2xl p-4 text-center shadow-md">
-                <div className="text-3xl font-bold text-thailand-blue">
-                  {minPrice !== null ? formatPrice(minPrice, loc) : 'N/A'}
-                </div>
-                <div className="text-sm text-gray-600">Starting From</div>
+                <div className="text-3xl font-bold text-thailand-blue">{new Set((divingData?.classes || []).map(c => c.type)).size}</div>
+                <div className="text-sm text-gray-600">Experience Types</div>
               </div>
               <div className="bg-white rounded-2xl p-4 text-center shadow-md">
-                <div className="text-3xl font-bold text-thailand-blue">
-                  {new Set((divingData?.classes || []).map(c => c.duration)).size}
-                </div>
+                <div className="text-3xl font-bold text-thailand-blue">{new Set((divingData?.classes || []).map(c => c.duration)).size}</div>
                 <div className="text-sm text-gray-600">Trip Formats</div>
               </div>
               <div className="bg-white rounded-2xl p-4 text-center shadow-md">
-                <div className="text-3xl font-bold text-thailand-blue">
-                  {new Set((divingData?.classes || []).map(c => c.groupSize)).size}
-                </div>
-                <div className="text-sm text-gray-600">Group Styles</div>
+                <div className="text-3xl font-bold text-thailand-blue">{hasLocalOptions ? 'Strong' : 'Limited'}</div>
+                <div className="text-sm text-gray-600">Local Fit</div>
               </div>
             </div>
 
@@ -313,7 +292,7 @@ export default function DivingSnorkelingPage({ city, divingData, affiliates }: P
                 {(divingData?.tips?.en?.length ? divingData.tips.en : [
                   'Use this page as a fit check rather than a booking list when the city is inland.',
                   'Phuket and Krabi are much stronger matches for marine tours and snorkeling.',
-                  'If you stay in Ayutthaya, use the time for temples, food, and river planning instead.',
+                  `If you stay in ${city.name.en}, use the time for the city's strongest local experiences instead.`,
                 ]).map((tip, i) => (
                   <li key={i} className="flex items-start gap-3">
                     <span className="text-blue-500 mt-1 flex-shrink-0">
@@ -328,28 +307,27 @@ export default function DivingSnorkelingPage({ city, divingData, affiliates }: P
             </div>
 
             {hasLocalOptions ? (
-              <div className="bg-surface-dark rounded-2xl p-8 mb-12 text-center text-white">
-                <h2 className="text-3xl font-bold font-heading mb-4">
-                  Optional Planning Links for {city.name.en}
+              <div className="bg-white rounded-2xl shadow-md p-8 mb-12">
+                <h2 className="text-3xl font-bold font-heading text-gray-900 mb-4 text-center">
+                  Planning Links for {city.name.en}
                 </h2>
-                <p className="text-lg mb-6 opacity-90">
-                  Use these links only if you want to check live availability after narrowing down the trip style that fits your trip.
+                <p className="text-gray-700 text-center mb-6">
+                  Use the internal guides below to compare the city before deciding whether marine activities belong in your route.
                 </p>
-                <div className="flex flex-col sm:flex-row gap-4 justify-center">
-                  {affiliates?.getyourguide && (
-                    <a href={affiliates.getyourguide} target="_blank" rel="noopener noreferrer sponsored" className="inline-flex items-center justify-center px-8 py-3 bg-white text-thailand-blue font-semibold rounded-xl hover:bg-gray-100 transition-colors">
-                      View GetYourGuide options
-                    </a>
-                  )}
-                  {affiliates?.klook && (
-                    <a href={affiliates.klook} target="_blank" rel="noopener noreferrer sponsored" className="inline-flex items-center justify-center px-8 py-3 bg-white/20 text-white font-semibold rounded-xl hover:bg-white/30 transition-colors border border-white/40">
-                      View Klook options
-                    </a>
-                  )}
+                <div className="grid grid-cols-1 md:grid-cols-3 gap-4">
+                  <Link href={`/city/${city.slug}/attractions/`} className="rounded-2xl border border-gray-100 bg-surface-cream p-4 hover:shadow-md transition-all duration-300">
+                    <h3 className="font-semibold text-gray-900 mb-1">Attractions</h3>
+                    <p className="text-sm text-gray-600">Better context for an inland city.</p>
+                  </Link>
+                  <Link href="/city/phuket/diving-snorkeling/" className="rounded-2xl border border-gray-100 bg-surface-cream p-4 hover:shadow-md transition-all duration-300">
+                    <h3 className="font-semibold text-gray-900 mb-1">Phuket marine trips</h3>
+                    <p className="text-sm text-gray-600">A much stronger water-activity base.</p>
+                  </Link>
+                  <Link href="/city/krabi/diving-snorkeling/" className="rounded-2xl border border-gray-100 bg-surface-cream p-4 hover:shadow-md transition-all duration-300">
+                    <h3 className="font-semibold text-gray-900 mb-1">Krabi marine trips</h3>
+                    <p className="text-sm text-gray-600">Another strong coastal alternative.</p>
+                  </Link>
                 </div>
-                <p className="text-xs text-white/70 mt-4">
-                  External booking links are optional planning tools. We may earn a commission at no extra cost to you.
-                </p>
               </div>
             ) : (
               <div className="bg-white rounded-2xl shadow-md p-8 mb-12">
@@ -357,7 +335,7 @@ export default function DivingSnorkelingPage({ city, divingData, affiliates }: P
                   Better coastal alternatives
                 </h2>
                 <p className="text-gray-700 leading-relaxed mb-6">
-                  If diving or snorkeling is a priority, Ayutthaya is not the right base.
+                  If diving or snorkeling is a priority, {city.name.en} is not the right base.
                 </p>
                 <div className="grid grid-cols-1 md:grid-cols-3 gap-4">
                   {recommendedAlternatives.map((item) => (
@@ -437,17 +415,41 @@ export const getStaticProps: GetStaticProps = async ({ params }) => {
   const slug = params?.slug as string;
   const city = getCityBySlug(slug);
   if (!city) return { notFound: true };
+  const rawCity = city as any;
 
   const divingData = getDivingSnorkelingByCity(slug);
-
-  const affiliates = getAffiliates(params.slug as string);
+  const sanitizedCity = {
+    id: city.id,
+    slug: city.slug,
+    name: city.name,
+    region: city.region,
+    province: city.province,
+    image: city.image,
+    contentSources: rawCity.contentSources || rawCity.content_sources || [],
+    reviewed_by: rawCity.reviewed_by ?? null,
+    reviewed_at: rawCity.reviewed_at ?? null,
+    enhanced_at: rawCity.enhanced_at ?? null,
+    editorialPositioning: rawCity.editorialPositioning ?? null,
+    sourceSummary: rawCity.sourceSummary ?? null,
+    recommendedAlternatives: rawCity.recommendedAlternatives ?? null,
+  };
 
   const sanitizedDivingData = divingData
     ? {
         ...divingData,
-        classes: divingData.classes.map(({ gygPath, ...activity }) => activity),
+        tips: {
+          ...divingData.tips,
+          en: (divingData.tips?.en || []).filter((tip) => !/GetYourGuide|price|rating|review/i.test(tip)),
+          nl: (divingData.tips?.nl || []).filter((tip) => !/GetYourGuide|price|rating|review/i.test(tip)),
+        },
+        classes: divingData.classes.map(({ priceFrom: _priceFrom, rating, reviews, badge, gygPath, provider, currency, ...activity }) => ({
+          ...activity,
+          priceTier: typeof _priceFrom === 'number'
+            ? (_priceFrom <= 25 ? 'Entry-level' : _priceFrom <= 50 ? 'Mid-range' : 'Premium')
+            : undefined,
+        })),
       }
     : null;
 
-  return { props: { city, divingData: sanitizedDivingData, affiliates }, revalidate: 86400 };
+  return { props: { city: sanitizedCity, divingData: sanitizedDivingData }, revalidate: 86400 };
 };

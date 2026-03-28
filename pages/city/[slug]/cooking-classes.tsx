@@ -1,25 +1,19 @@
 import { GetStaticProps, GetStaticPaths } from 'next';
 import Link from 'next/link';
-import { useRouter } from 'next/router';
 import { getCityBySlug, getCityStaticPaths, generateBreadcrumbs } from '../../../lib/cities';
 import { getCookingClassesByCity, getAllCookingClassCities } from '../../../lib/cooking-classes';
-import { formatPrice } from '../../../lib/price';
 import Breadcrumbs from '../../../components/Breadcrumbs';
 import SEOHead from '../../../components/SEOHead';
 import CityExploreMore from '../../../components/CityExploreMore';
 import CitySupportSources from '../../../components/CitySupportSources';
-import { getAffiliates, CityAffiliates } from '../../../lib/affiliates';
 
 interface CookingClass {
   name: string;
   slug: string;
-  provider: string;
-  priceFrom: number;
-  currency: string;
   duration: string;
   groupSize: string;
   includes: string[];
-  badge: string;
+  priceTier?: string;
 }
 
 interface CityData {
@@ -49,12 +43,9 @@ interface City {
 interface Props {
   city: City;
   cookingData: CityData | null;
-  affiliates: CityAffiliates | null;
 }
 
-export default function CookingClassesPage({ city, cookingData, affiliates }: Props) {
-  const { locale } = useRouter();
-  const loc = locale || 'en';
+export default function CookingClassesPage({ city, cookingData }: Props) {
   if (!city) return <div>Not found</div>;
 
   const breadcrumbs = [
@@ -64,11 +55,8 @@ export default function CookingClassesPage({ city, cookingData, affiliates }: Pr
 
   const cookingClasses = cookingData?.classes || [];
   const hasLocalOptions = cookingClasses.length > 0;
-  const priceValues = cookingClasses.map(c => c.priceFrom).filter((price): price is number => typeof price === 'number' && Number.isFinite(price));
-  const minPrice = priceValues.length > 0 ? Math.min(...priceValues) : null;
-  const maxPrice = priceValues.length > 0 ? Math.max(...priceValues) : null;
   const introText = cookingData?.intro?.en || `Cooking classes are limited in ${city.name.en}, so this page focuses on honest planning context rather than pretending there is a deep local class market.`;
-  const editorialPositioning = (city.editorialPositioning || `Ayutthaya is not a core cooking-class destination; the stronger draw here is heritage sightseeing, river food, and temple-focused planning.`).trim();
+  const editorialPositioning = (city.editorialPositioning || `${city.name.en} is not a core cooking-class destination; the stronger draw here is city-specific sightseeing, food, and place-led planning.`).trim();
   const recommendedAlternatives = city.recommendedAlternatives && city.recommendedAlternatives.length > 0
     ? city.recommendedAlternatives
     : [
@@ -85,8 +73,8 @@ export default function CookingClassesPage({ city, cookingData, affiliates }: Pr
   const faqItems = hasLocalOptions
     ? [
         {
-          q: `How much does a cooking class in ${city.name.en} cost?`,
-          a: `Cooking classes in ${city.name.en} typically cost between ${minPrice !== null ? formatPrice(minPrice, loc) : 'unknown'} and ${maxPrice !== null ? formatPrice(maxPrice, loc) : 'unknown'} per person, depending on the class duration and inclusions.`
+          q: `What kind of cooking classes does ${city.name.en} have?`,
+          a: `Bangkok has a broad mix of market-led classes, polished cooking schools, and beginner-friendly group formats, so it is one of Thailand's strongest places to compare styles rather than chase a single price point.`
         },
         {
           q: `How long is a typical cooking class in ${city.name.en}?`,
@@ -108,7 +96,7 @@ export default function CookingClassesPage({ city, cookingData, affiliates }: Pr
         },
         {
           q: `What should I do instead in ${city.name.en}?`,
-          a: `Ayutthaya is stronger for temple loops, river dining, and food stops than for hands-on cooking-class tours.`,
+          a: `${city.name.en} is stronger for city-specific sightseeing, food stops, and place-led planning than for hands-on cooking-class tours.`,
         },
         {
           q: `Where are the better cooking-class markets in Thailand?`,
@@ -140,15 +128,15 @@ export default function CookingClassesPage({ city, cookingData, affiliates }: Pr
         '@type': 'HowToStep',
         'name': 'Compare available classes',
         'text': hasLocalOptions
-          ? `Review the ${cookingClasses.length} cooking classes available in ${city.name.en}. Compare prices, duration, and what is included such as market tours and recipe booklets.`
+          ? `Review the ${cookingClasses.length} cooking classes available in ${city.name.en}. Compare format, duration, and what is included such as market tours and recipe booklets.`
           : `There are no strong local cooking-class listings in ${city.name.en}, so treat this page as a fit check rather than a booking list.`,
         'position': 1
       },
       {
         '@type': 'HowToStep',
-        'name': 'Compare format and price range',
-        'text': hasLocalOptions && minPrice !== null && maxPrice !== null
-          ? `Prices in ${city.name.en} range from ${formatPrice(minPrice, 'en')} to ${formatPrice(maxPrice, 'en')} per person. Use the inclusions and lesson format to decide what fits your trip best.`
+        'name': 'Compare format and fit',
+        'text': hasLocalOptions
+          ? `Use the class description, lesson style, and market or kitchen setup to decide what fits your trip best.`
           : `With no meaningful local inventory, compare the idea of a class against stronger destinations instead of forcing a booking decision here.`,
         'position': 2
       },
@@ -228,22 +216,16 @@ export default function CookingClassesPage({ city, cookingData, affiliates }: Pr
                 <div className="text-sm text-gray-600">Classes Available</div>
               </div>
               <div className="bg-white rounded-2xl p-4 text-center shadow-md">
-                <div className="text-3xl font-bold text-thailand-blue">
-                  {minPrice !== null ? formatPrice(minPrice, loc) : 'N/A'}
-                </div>
-                <div className="text-sm text-gray-600">Starting From</div>
-              </div>
-              <div className="bg-white rounded-2xl p-4 text-center shadow-md">
-                <div className="text-3xl font-bold text-thailand-blue">
-                  {new Set(cookingClasses.map(c => c.duration)).size}
-                </div>
+                <div className="text-3xl font-bold text-thailand-blue">{new Set(cookingClasses.map(c => c.duration)).size}</div>
                 <div className="text-sm text-gray-600">Duration Formats</div>
               </div>
               <div className="bg-white rounded-2xl p-4 text-center shadow-md">
-                <div className="text-3xl font-bold text-thailand-blue">
-                  {new Set(cookingClasses.map(c => c.groupSize)).size}
-                </div>
+                <div className="text-3xl font-bold text-thailand-blue">{new Set(cookingClasses.map(c => c.groupSize)).size}</div>
                 <div className="text-sm text-gray-600">Group Styles</div>
+              </div>
+              <div className="bg-white rounded-2xl p-4 text-center shadow-md">
+                <div className="text-3xl font-bold text-thailand-blue">{hasLocalOptions ? 'Strong' : 'Limited'}</div>
+                <div className="text-sm text-gray-600">Local Fit</div>
               </div>
             </div>
 
@@ -277,9 +259,9 @@ export default function CookingClassesPage({ city, cookingData, affiliates }: Pr
                               <span className="text-sm font-bold text-thailand-blue bg-blue-50 px-2 py-1 rounded">
                                 #{index + 1}
                               </span>
-                              {cls.badge && (
-                                <span className="text-xs font-semibold text-white bg-green-500 px-2 py-1 rounded">
-                                  {cls.badge}
+                              {cls.priceTier && (
+                                <span className="text-xs font-semibold text-white bg-slate-600 px-2 py-1 rounded">
+                                  {cls.priceTier}
                                 </span>
                               )}
                             </div>
@@ -289,19 +271,16 @@ export default function CookingClassesPage({ city, cookingData, affiliates }: Pr
                               <span className="capitalize">{cls.groupSize}</span>
                             </div>
                             <div className="flex flex-wrap gap-2 mb-4">
-                              {cls.includes.map((item, i) => (
-                                <span key={i} className="text-xs bg-gray-100 text-gray-700 px-2 py-1 rounded">
-                                  {item}
-                                </span>
-                              ))}
-                            </div>
+                            {cls.includes.map((item, i) => (
+                              <span key={i} className="text-xs bg-gray-100 text-gray-700 px-2 py-1 rounded">
+                                {item}
+                              </span>
+                            ))}
                           </div>
+                        </div>
                           <div className="text-right">
-                            <div className="text-right">
-                              <div className="text-sm text-gray-500">From</div>
-                              <div className="text-2xl font-bold text-gray-900">{formatPrice(cls.priceFrom, loc)}</div>
-                              <div className="text-xs text-gray-500">per person</div>
-                            </div>
+                            <div className="text-sm text-gray-500">Planning fit</div>
+                            <div className="text-lg font-bold text-gray-900">{cls.priceTier || 'General'}</div>
                           </div>
                         </div>
                       </div>
@@ -335,7 +314,7 @@ export default function CookingClassesPage({ city, cookingData, affiliates }: Pr
               </h2>
               <ul className="space-y-3">
                 {(cookingData?.tips?.en?.length ? cookingData.tips.en : [
-                  'Use this page as a fit check, not a booking list, if Ayutthaya is only a stop on a broader heritage trip.',
+                  `Use this page as a fit check, not a booking list, if ${city.name.en} is only one stop in a broader Thailand trip.`,
                   'Prioritize temple clusters and river dining first; add a cooking class only if the city has a clearly reviewed option.',
                   'If you want a stronger class inventory, compare Bangkok or Chiang Mai instead.',
                 ]).map((tip, i) => (
@@ -352,38 +331,27 @@ export default function CookingClassesPage({ city, cookingData, affiliates }: Pr
             </div>
 
             {hasLocalOptions ? (
-              <div className="bg-surface-dark rounded-2xl p-8 mb-12 text-center text-white">
-                <h2 className="text-3xl font-bold font-heading mb-4">
-                  Optional Planning Links for {city.name.en}
+              <div className="bg-white rounded-2xl shadow-md p-8 mb-12">
+                <h2 className="text-2xl font-bold font-heading text-gray-900 mb-4">
+                  Planning Links
                 </h2>
-                <p className="text-lg mb-6 opacity-90">
-                  Use these links only if you want to check live availability after narrowing down the class style that fits your trip.
+                <p className="text-gray-700 leading-relaxed mb-6">
+                  Use the internal guides below if you want to compare Bangkok trip components before you decide whether a cooking class belongs in your itinerary.
                 </p>
-                <div className="flex flex-col sm:flex-row gap-4 justify-center">
-                  {affiliates?.getyourguide && (
-                    <a
-                      href={affiliates.getyourguide}
-                      target="_blank"
-                      rel="noopener noreferrer sponsored"
-                      className="inline-flex items-center justify-center px-8 py-3 bg-white text-thailand-red font-semibold rounded-xl hover:bg-gray-100 transition-colors"
-                    >
-                      View GetYourGuide options
-                    </a>
-                  )}
-                  {affiliates?.klook && (
-                    <a
-                      href={affiliates.klook}
-                      target="_blank"
-                      rel="noopener noreferrer sponsored"
-                      className="inline-flex items-center justify-center px-8 py-3 bg-white/20 text-white font-semibold rounded-xl hover:bg-white/30 transition-colors border border-white/40"
-                    >
-                      View Klook options
-                    </a>
-                  )}
+                <div className="grid grid-cols-1 md:grid-cols-3 gap-4">
+                  <Link href={`/city/${city.slug}/food/`} className="rounded-2xl border border-gray-100 bg-surface-cream p-4 hover:shadow-md transition-all duration-300">
+                    <h3 className="font-semibold text-gray-900 mb-1">Food & Dining</h3>
+                    <p className="text-sm text-gray-600">Pair a class with better local eating context.</p>
+                  </Link>
+                  <Link href={`/city/${city.slug}/hotels/`} className="rounded-2xl border border-gray-100 bg-surface-cream p-4 hover:shadow-md transition-all duration-300">
+                    <h3 className="font-semibold text-gray-900 mb-1">Hotels</h3>
+                    <p className="text-sm text-gray-600">Choose a base that fits your class schedule.</p>
+                  </Link>
+                  <Link href={`/city/${city.slug}/attractions/`} className="rounded-2xl border border-gray-100 bg-surface-cream p-4 hover:shadow-md transition-all duration-300">
+                    <h3 className="font-semibold text-gray-900 mb-1">Attractions</h3>
+                    <p className="text-sm text-gray-600">Round out the day with a Bangkok sightseeing plan.</p>
+                  </Link>
                 </div>
-                <p className="text-xs text-white/70 mt-4">
-                  External booking links are optional planning tools. We may earn a commission at no extra cost to you.
-                </p>
               </div>
             ) : (
               <div className="bg-white rounded-2xl shadow-md p-8 mb-12">
@@ -391,7 +359,7 @@ export default function CookingClassesPage({ city, cookingData, affiliates }: Pr
                   Better planning alternatives
                 </h2>
                 <p className="text-gray-700 leading-relaxed mb-6">
-                  If cooking classes are part of your trip planning, Ayutthaya is better used as a heritage base and not as a booking destination.
+                  If cooking classes are a priority in your trip planning, use {city.name.en} for its strongest local draw and compare deeper class markets elsewhere.
                 </p>
                 <div className="grid grid-cols-1 md:grid-cols-2 gap-4">
                   <Link href={`/city/${city.slug}/food/`} className="rounded-2xl border border-gray-100 bg-surface-cream p-4 hover:shadow-md transition-all duration-300">
@@ -518,17 +486,41 @@ export const getStaticProps: GetStaticProps = async ({ params }) => {
   const slug = params?.slug as string;
   const city = getCityBySlug(slug);
   if (!city) return { notFound: true };
+  const rawCity = city as any;
 
   const cookingData = getCookingClassesByCity(slug);
-
-  const affiliates = getAffiliates(params.slug as string);
+  const sanitizedCity = {
+    id: city.id,
+    slug: city.slug,
+    name: city.name,
+    region: city.region,
+    province: city.province,
+    image: city.image,
+    contentSources: rawCity.contentSources || rawCity.content_sources || [],
+    reviewed_by: rawCity.reviewed_by ?? null,
+    reviewed_at: rawCity.reviewed_at ?? null,
+    enhanced_at: rawCity.enhanced_at ?? null,
+    editorialPositioning: rawCity.editorialPositioning ?? null,
+    sourceSummary: rawCity.sourceSummary ?? null,
+    recommendedAlternatives: rawCity.recommendedAlternatives ?? null,
+  };
 
   const sanitizedCookingData = cookingData
     ? {
         ...cookingData,
-        classes: cookingData.classes.map(({ gygPath, ...cls }) => cls),
+        tips: {
+          ...cookingData.tips,
+          en: (cookingData.tips?.en || []).filter((tip) => !/GetYourGuide|price|rating|review/i.test(tip)),
+          nl: (cookingData.tips?.nl || []).filter((tip) => !/GetYourGuide|price|rating|review/i.test(tip)),
+        },
+        classes: cookingData.classes.map(({ priceFrom, rating, reviews, badge, gygPath, provider, currency, ...cls }) => ({
+          ...cls,
+          priceTier: typeof priceFrom === 'number'
+            ? (priceFrom <= 30 ? 'Entry-level' : priceFrom <= 60 ? 'Mid-range' : 'Premium')
+            : undefined,
+        })),
       }
     : null;
 
-  return { props: { city, cookingData: sanitizedCookingData, affiliates }, revalidate: 86400 };
+  return { props: { city: sanitizedCity, cookingData: sanitizedCookingData }, revalidate: 86400 };
 };

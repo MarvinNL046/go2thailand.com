@@ -5,11 +5,10 @@ import Breadcrumbs from '../../../components/Breadcrumbs';
 import SEOHead from '../../../components/SEOHead';
 import CityExploreMore from '../../../components/CityExploreMore';
 import CitySupportSources from '../../../components/CitySupportSources';
-import { getAffiliates, CityAffiliates } from '../../../lib/affiliates';
 
 interface BudgetTier {
-  min: number;
-  max: number;
+  min?: number;
+  max?: number;
   description: string;
 }
 
@@ -67,10 +66,22 @@ interface CityBudgetPageProps {
   budgetGuide: BudgetGuide | null;
   budgetReality: BudgetReality | null;
   budgetInfo: BudgetInfo | null;
-  affiliates: CityAffiliates | null;
 }
 
-export default function CityBudgetPage({ city, budgetGuide, budgetReality, budgetInfo, affiliates }: CityBudgetPageProps) {
+function stripMoneyMentions(text: string | undefined | null): string {
+  if (!text) return '';
+
+  return text
+    .replace(/\([^)]*(?:\$|THB|baht|USD|EUR)[^)]*\)/gi, '')
+    .replace(/\b\d+(?:-\d+)?\s*(?:THB|baht|USD|EUR|dollars?)\b/gi, '')
+    .replace(/\$\d+(?:-\d+)?(?:\+)?(?:\/day|\/night)?/gi, '')
+    .replace(/\b\d+(?:-\d+)?\b(?=\s*(?:per day|per night))/gi, '')
+    .replace(/\s{2,}/g, ' ')
+    .replace(/\s+([,.;:])/g, '$1')
+    .trim();
+}
+
+export default function CityBudgetPage({ city, budgetGuide, budgetReality, budgetInfo }: CityBudgetPageProps) {
   if (!city) return <div>City not found</div>;
 
   const breadcrumbs = generateBreadcrumbs(city, 'budget');
@@ -82,9 +93,16 @@ export default function CityBudgetPage({ city, budgetGuide, budgetReality, budge
     description: `A practical budget guide for ${city.name.en}, including daily spending patterns, cost pressure points, and smarter ways to plan transport, hotels, and meals.`,
   };
   const budgetRealityObj = typeof budgetReality === 'object' && budgetReality !== null ? budgetReality : null;
-  const budgetRealityText = typeof budgetReality === 'string' ? budgetReality : budgetInfo?.notes || '';
+  const budgetRealityText = stripMoneyMentions(typeof budgetReality === 'string' ? budgetReality : budgetInfo?.notes || '');
   const dailyBudgetInfo = budgetInfo?.daily_budget || null;
   const hasBudgetContent = Boolean(budgetGuide || dailyBudgetInfo || budgetRealityText || budgetRealityObj);
+  const cleanedBudgetDescriptions = budgetGuide
+    ? {
+        budget: stripMoneyMentions(budgetGuide.budget.description) || 'Guesthouses, simple local meals, public transport, and selective paid sights.',
+        midrange: stripMoneyMentions(budgetGuide.midrange.description) || 'Comfortable hotels, a broader restaurant mix, and more paid attractions or short rides.',
+        luxury: stripMoneyMentions(budgetGuide.luxury.description) || 'High-end hotels, destination dining, and flexible transport choices.',
+      }
+    : null;
 
   // Generic money-saving tips as fallback
   const genericTips = [
@@ -97,7 +115,7 @@ export default function CityBudgetPage({ city, budgetGuide, budgetReality, budge
   ];
 
   const moneySavingTips = budgetRealityObj?.money_saving_tricks && budgetRealityObj.money_saving_tricks.length > 0
-    ? budgetRealityObj.money_saving_tricks
+    ? budgetRealityObj.money_saving_tricks.map((tip) => stripMoneyMentions(tip)).filter(Boolean)
     : genericTips;
 
   return (
@@ -121,9 +139,9 @@ export default function CityBudgetPage({ city, budgetGuide, budgetReality, budge
                   "acceptedAnswer": {
                     "@type": "Answer",
                     "text": budgetGuide
-                      ? `Budget travelers can expect to spend $${budgetGuide.budget.min}-${budgetGuide.budget.max} per day, mid-range travelers $${budgetGuide.midrange.min}-${budgetGuide.midrange.max} per day, and luxury travelers $${budgetGuide.luxury.min}-${budgetGuide.luxury.max}+ per day in ${city.name.en}.`
+                      ? `Daily costs in ${city.name.en} usually fall into budget-friendly, mid-range, or comfort-first patterns depending on hotel choice, transport habits, and how much of the trip is built around premium meals or private outings.`
                       : dailyBudgetInfo
-                        ? `Daily costs in ${city.name.en} depend mostly on hotel choice, transport decisions, and how many longer outings you add. ${dailyBudgetInfo.budget} ${dailyBudgetInfo.mid} ${dailyBudgetInfo.luxury}`.trim()
+                        ? `Daily costs in ${city.name.en} depend mostly on hotel choice, transport decisions, and how much time you spend on longer outings or sit-down dining.`
                         : `Daily costs in ${city.name.en} vary mainly with hotel choice, transport, and how much of the trip is built around day trips or premium stays.`
                   }
                 },
@@ -194,13 +212,13 @@ export default function CityBudgetPage({ city, budgetGuide, budgetReality, budge
                           </svg>
                         </div>
                         <h3 className="text-xl font-bold font-heading text-green-800">Budget</h3>
-                        <p className="text-3xl font-bold text-green-600 mt-2">
-                          {budgetGuide ? `$${budgetGuide.budget.min}-${budgetGuide.budget.max}` : 'Budget'}
+                        <p className="text-2xl font-bold text-green-600 mt-2">
+                          {budgetGuide ? 'Lower daily spend' : 'Budget style'}
                         </p>
-                        <p className="text-sm text-green-700 font-medium">{budgetGuide ? 'per day' : 'travel style'}</p>
+                        <p className="text-sm text-green-700 font-medium">{budgetGuide ? 'Best for simpler planning' : 'travel style'}</p>
                       </div>
                       <p className="text-gray-700 text-sm leading-relaxed">
-                        {budgetGuide ? budgetGuide.budget.description : dailyBudgetInfo?.budget}
+                        {cleanedBudgetDescriptions ? cleanedBudgetDescriptions.budget : 'Use this as a rough planning lane rather than a quoted rate.'}
                       </p>
                     </div>
 
@@ -213,13 +231,13 @@ export default function CityBudgetPage({ city, budgetGuide, budgetReality, budge
                           </svg>
                         </div>
                         <h3 className="text-xl font-bold font-heading text-blue-800">Mid-Range</h3>
-                        <p className="text-3xl font-bold text-blue-600 mt-2">
-                          {budgetGuide ? `$${budgetGuide.midrange.min}-${budgetGuide.midrange.max}` : 'Mid-Range'}
+                        <p className="text-2xl font-bold text-blue-600 mt-2">
+                          {budgetGuide ? 'Balanced daily spend' : 'Mid-range style'}
                         </p>
-                        <p className="text-sm text-blue-700 font-medium">{budgetGuide ? 'per day' : 'travel style'}</p>
+                        <p className="text-sm text-blue-700 font-medium">{budgetGuide ? 'Good balance of comfort and value' : 'travel style'}</p>
                       </div>
                       <p className="text-gray-700 text-sm leading-relaxed">
-                        {budgetGuide ? budgetGuide.midrange.description : dailyBudgetInfo?.mid}
+                        {cleanedBudgetDescriptions ? cleanedBudgetDescriptions.midrange : 'Use this as a rough planning lane rather than a quoted rate.'}
                       </p>
                     </div>
 
@@ -232,13 +250,13 @@ export default function CityBudgetPage({ city, budgetGuide, budgetReality, budge
                           </svg>
                         </div>
                         <h3 className="text-xl font-bold font-heading text-purple-800">{budgetGuide ? 'Luxury' : 'Higher Spend'}</h3>
-                        <p className="text-3xl font-bold text-purple-600 mt-2">
-                          {budgetGuide ? `$${budgetGuide.luxury.min}-${budgetGuide.luxury.max}` : 'Higher Spend'}
+                        <p className="text-2xl font-bold text-purple-600 mt-2">
+                          {budgetGuide ? 'Higher-comfort spend' : 'Higher Spend'}
                         </p>
-                        <p className="text-sm text-purple-700 font-medium">{budgetGuide ? 'per day' : 'travel style'}</p>
+                        <p className="text-sm text-purple-700 font-medium">{budgetGuide ? 'More room for premium choices' : 'travel style'}</p>
                       </div>
                       <p className="text-gray-700 text-sm leading-relaxed">
-                        {budgetGuide ? budgetGuide.luxury.description : dailyBudgetInfo?.luxury}
+                        {cleanedBudgetDescriptions ? cleanedBudgetDescriptions.luxury : 'Use this as a rough planning lane rather than a quoted rate.'}
                       </p>
                     </div>
                   </div>
@@ -253,51 +271,6 @@ export default function CityBudgetPage({ city, budgetGuide, budgetReality, budge
                     <p className="text-gray-700 leading-relaxed text-center max-w-4xl mx-auto">
                       {budgetRealityText}
                     </p>
-                  </div>
-                )}
-
-                {/* Daily Cost Breakdown */}
-                {budgetRealityObj?.daily_costs && Object.keys(budgetRealityObj.daily_costs).length > 0 && (
-                  <div>
-                    <h2 className="text-3xl font-bold font-heading text-gray-900 mb-8 text-center">
-                      Daily Cost Breakdown
-                    </h2>
-                    <div className="bg-white rounded-2xl shadow-md p-6 md:p-8">
-                      <div className="grid grid-cols-1 md:grid-cols-2 gap-4">
-                        {Object.entries(budgetRealityObj.daily_costs).map(([item, cost], index) => (
-                          <div key={index} className="flex items-center justify-between p-3 bg-gray-50 rounded-lg">
-                            <span className="text-gray-700 font-medium capitalize">
-                              {item.replace(/_/g, ' ')}
-                            </span>
-                            <span className="text-gray-900 font-semibold">{cost}</span>
-                          </div>
-                        ))}
-                      </div>
-                    </div>
-                  </div>
-                )}
-
-                {/* Real Price Examples */}
-                {budgetRealityObj?.examples && budgetRealityObj.examples.length > 0 && (
-                  <div>
-                    <h2 className="text-3xl font-bold font-heading text-gray-900 mb-8 text-center">
-                      Real Prices in {city.name.en}
-                    </h2>
-                    <div className="bg-white rounded-2xl shadow-md p-6 md:p-8">
-                      <div className="grid grid-cols-1 md:grid-cols-2 gap-3">
-                        {budgetRealityObj.examples.map((example, index) => {
-                          const parts = example.split(':');
-                          const label = parts[0];
-                          const value = parts.slice(1).join(':');
-                          return (
-                            <div key={index} className="flex items-center justify-between p-3 bg-gray-50 rounded-lg">
-                              <span className="text-gray-700">{label}</span>
-                              {value && <span className="text-gray-900 font-semibold">{value.trim()}</span>}
-                            </div>
-                          );
-                        })}
-                      </div>
-                    </div>
                   </div>
                 )}
 
@@ -330,7 +303,7 @@ export default function CityBudgetPage({ city, budgetGuide, budgetReality, budge
                     </h2>
                     <div className="bg-surface-cream border-0 rounded-2xl p-6 md:p-8">
                       <p className="text-gray-600 mb-6 text-center">
-                        Some experiences in {city.name.en} are worth spending a little extra on. Here are our top picks.
+                        Some experiences in {city.name.en} are worth spending a little extra on. Here are the main areas to consider.
                       </p>
                       <div className="grid grid-cols-1 md:grid-cols-2 gap-4">
                         {budgetRealityObj.where_to_splurge.map((item, index) => (
@@ -397,35 +370,28 @@ export default function CityBudgetPage({ city, budgetGuide, budgetReality, budge
               </div>
             )}
 
-            {/* Book Your Stay - Affiliate Section */}
+            {/* Related Guides */}
             <div className="bg-white rounded-2xl shadow-md p-8 mt-12 mb-8">
               <h3 className="text-2xl font-bold font-heading text-gray-900 mb-4 text-center">
-                Optional Planning Links for {city.name.en}
+                Related Guides for {city.name.en}
               </h3>
               <p className="text-gray-600 text-center mb-6">
-                Use these links only if you want to sanity-check accommodation options against the budget ranges above.
+                Use these internal guides to compare where money typically goes on a trip like this.
               </p>
               <div className="flex flex-col sm:flex-row gap-4 justify-center">
-                {affiliates?.booking && (
-                  <a
-                    href={affiliates.booking}
-                    target="_blank"
-                    rel="noopener noreferrer sponsored"
-                    className="inline-flex items-center justify-center px-8 py-3 bg-thailand-blue text-white font-semibold rounded-xl hover:bg-thailand-blue-600 transition-colors"
-                  >
-                    View options on Booking.com
-                  </a>
-                )}
                 <Link
                   href={`/city/${city.slug}/hotels/`}
                   className="inline-flex items-center justify-center px-8 py-3 bg-thailand-blue text-white font-semibold rounded-xl hover:bg-thailand-blue-600 transition-colors"
                 >
                   Compare Hotel Areas
                 </Link>
+                <Link
+                  href={`/city/${city.slug}/food/`}
+                  className="inline-flex items-center justify-center px-8 py-3 bg-thailand-blue text-white font-semibold rounded-xl hover:bg-thailand-blue-600 transition-colors"
+                >
+                  Compare Dining Choices
+                </Link>
               </div>
-              <p className="text-xs text-gray-400 text-center mt-4">
-                External booking links are optional planning tools. We may earn a commission at no extra cost to you.
-              </p>
             </div>
 
             {/* Explore More */}
@@ -525,6 +491,31 @@ export const getStaticProps: GetStaticProps = async ({ params }) => {
     ? flattenBilingual((rawCity as any).budget_info)
     : null;
 
+  const sanitizedBudgetGuide = budgetGuide
+    ? {
+        budget: { description: budgetGuide.budget.description },
+        midrange: { description: budgetGuide.midrange.description },
+        luxury: { description: budgetGuide.luxury.description },
+      }
+    : null;
+
+  const sanitizedBudgetReality = budgetReality
+    ? Object.fromEntries(
+        Object.entries({
+          budget: budgetReality.budget,
+          mid_range: budgetReality.mid_range,
+          luxury: budgetReality.luxury,
+          money_saving_tricks: budgetReality.money_saving_tricks,
+          where_to_splurge: budgetReality.where_to_splurge,
+          hidden_costs: budgetReality.hidden_costs,
+        }).filter(([, value]) => value !== undefined)
+      )
+    : null;
+
+  const sanitizedBudgetInfo = budgetInfo
+    ? (budgetInfo.notes !== undefined ? { notes: budgetInfo.notes } : null)
+    : null;
+
   // Serialize city data for props (only what we need)
   const serializedCity = {
     id: city.id,
@@ -535,9 +526,9 @@ export const getStaticProps: GetStaticProps = async ({ params }) => {
     image: city.image,
     categories: city.categories,
     contentSources: (rawCity as any).contentSources || (rawCity as any).content_sources || [],
-    reviewed_by: (rawCity as any).reviewed_by,
-    reviewed_at: (rawCity as any).reviewed_at,
-    enhanced_at: (rawCity as any).enhanced_at,
+    reviewed_by: (rawCity as any).reviewed_by ?? null,
+    reviewed_at: (rawCity as any).reviewed_at ?? null,
+    enhanced_at: (rawCity as any).enhanced_at ?? null,
     editorialPositioning: (rawCity as any).editorialPositioning ?? null,
     sourceSummary: (rawCity as any).sourceSummary ?? null,
     recommendedAlternatives: (rawCity as any).recommendedAlternatives ?? null,
@@ -546,10 +537,9 @@ export const getStaticProps: GetStaticProps = async ({ params }) => {
   return {
     props: {
       city: serializedCity,
-      budgetGuide,
-      budgetReality,
-      budgetInfo,
-      affiliates: getAffiliates(slug),
+      budgetGuide: sanitizedBudgetGuide,
+      budgetReality: sanitizedBudgetReality,
+      budgetInfo: sanitizedBudgetInfo,
     },
     revalidate: 86400,
   };

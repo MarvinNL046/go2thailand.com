@@ -1,9 +1,7 @@
 import { GetStaticProps, GetStaticPaths } from 'next';
 import Link from 'next/link';
-import { useRouter } from 'next/router';
 import { getCityBySlug, getCityStaticPaths, generateBreadcrumbs } from '../../../lib/cities';
 import { getMuayThaiByCity, getAllMuayThaiCities } from '../../../lib/muay-thai';
-import { formatPrice } from '../../../lib/price';
 import Breadcrumbs from '../../../components/Breadcrumbs';
 import SEOHead from '../../../components/SEOHead';
 import CityExploreMore from '../../../components/CityExploreMore';
@@ -12,14 +10,11 @@ import CitySupportSources from '../../../components/CitySupportSources';
 interface MuayThaiActivity {
   name: string;
   slug: string;
-  provider: string;
   type: 'watch' | 'train' | 'combo';
-  priceFrom: number;
-  currency: string;
   duration: string;
   groupSize: string;
   includes: string[];
-  badge: string;
+  priceTier?: string;
 }
 
 interface TrainingGym {
@@ -72,8 +67,6 @@ function TypeBadge({ type }: { type: string }) {
 }
 
 export default function MuayThaiPage({ city, muayThaiData }: Props) {
-  const { locale } = useRouter();
-  const loc = locale || 'en';
   if (!city) return <div>Not found</div>;
 
   const breadcrumbs = [
@@ -86,11 +79,8 @@ export default function MuayThaiPage({ city, muayThaiData }: Props) {
   const watchActivities = muayThaiActivities.filter(c => c.type === 'watch');
   const trainActivities = muayThaiActivities.filter(c => c.type === 'train');
   const comboActivities = muayThaiActivities.filter(c => c.type === 'combo');
-  const priceValues = muayThaiActivities.map(c => c.priceFrom).filter((price): price is number => typeof price === 'number' && Number.isFinite(price));
-  const minPrice = priceValues.length > 0 ? Math.min(...priceValues) : null;
-  const maxPrice = priceValues.length > 0 ? Math.max(...priceValues) : null;
   const introText = muayThaiData?.intro?.en || `Muay Thai is not a core local draw in ${city.name.en}, so this route focuses on fit, context, and better alternatives rather than pretending the city has a deep fight scene.`;
-  const editorialPositioning = (city.editorialPositioning || `Ayutthaya is not a core Muay Thai destination; Bangkok, Chiang Mai, and Phuket usually offer much stronger fight-night and training inventories.`).trim();
+  const editorialPositioning = (city.editorialPositioning || `${city.name.en} is not a core Muay Thai destination; Bangkok, Chiang Mai, and Phuket usually offer much stronger fight-night and training inventories.`).trim();
   const recommendedAlternatives = city.recommendedAlternatives && city.recommendedAlternatives.length > 0
     ? city.recommendedAlternatives
     : [
@@ -108,7 +98,7 @@ export default function MuayThaiPage({ city, muayThaiData }: Props) {
     ? [
         {
           q: `Where can I watch Muay Thai fights in ${city.name.en}?`,
-          a: `${city.name.en} has ${watchActivities.length} venues for watching live Muay Thai fights. ${minPrice !== null ? `Tickets start from ${formatPrice(minPrice, loc)} for standard seats, with VIP and ringside options available.` : 'Ticket pricing varies by venue.'}`
+          a: `${city.name.en} has a strong mix of fight-night options and training venues, with enough variety to compare venue style, atmosphere, and schedule rather than chase one exact price point.`
         },
         {
           q: `Can beginners try Muay Thai training in ${city.name.en}?`,
@@ -116,7 +106,7 @@ export default function MuayThaiPage({ city, muayThaiData }: Props) {
         },
         {
           q: `How much does a Muay Thai experience cost in ${city.name.en}?`,
-          a: `${minPrice !== null && maxPrice !== null ? `Prices range from ${formatPrice(minPrice, loc)} to ${formatPrice(maxPrice, loc)}.` : 'Prices vary by venue and session type.'} Fight tickets are the most affordable option, while private training sessions and combo packages cost more.`
+          a: `Cost varies by venue, session type, and whether you want watching, training, or a combination of both. The better question is which experience fits your trip rhythm and comfort level.`
         },
         {
           q: `What should I wear to a Muay Thai fight or training session?`,
@@ -134,7 +124,7 @@ export default function MuayThaiPage({ city, muayThaiData }: Props) {
         },
         {
           q: `What should I do in ${city.name.en} instead?`,
-          a: `Use Ayutthaya for heritage sights, river dining, and a slower city break rather than a combat-sport itinerary.`,
+          a: `Use ${city.name.en} for its strongest local draw rather than forcing a combat-sport itinerary where the city is only a limited fit.`,
         },
       ];
 
@@ -202,10 +192,8 @@ export default function MuayThaiPage({ city, muayThaiData }: Props) {
                 <div className="text-sm text-gray-600">Activities</div>
               </div>
               <div className="bg-white rounded-2xl p-4 text-center shadow-md">
-                <div className="text-3xl font-bold text-thailand-red">
-                  {minPrice !== null ? formatPrice(minPrice, loc) : 'N/A'}
-                </div>
-                <div className="text-sm text-gray-600">Starting From</div>
+                <div className="text-3xl font-bold text-thailand-red">{new Set(muayThaiActivities.map(c => c.type)).size}</div>
+                <div className="text-sm text-gray-600">Experience Types</div>
               </div>
               <div className="bg-white rounded-2xl p-4 text-center shadow-md">
                 <div className="text-3xl font-bold text-thailand-red">{watchActivities.length}</div>
@@ -245,9 +233,9 @@ export default function MuayThaiPage({ city, muayThaiData }: Props) {
                           <div className="flex-1">
                             <div className="flex items-center gap-3 mb-2">
                               <TypeBadge type={cls.type} />
-                              {cls.badge && (
-                                <span className="text-xs font-semibold text-white bg-green-500 px-2 py-1 rounded">
-                                  {cls.badge}
+                              {cls.priceTier && (
+                                <span className="text-xs font-semibold text-white bg-slate-600 px-2 py-1 rounded">
+                                  {cls.priceTier}
                                 </span>
                               )}
                             </div>
@@ -264,11 +252,8 @@ export default function MuayThaiPage({ city, muayThaiData }: Props) {
                             </div>
                           </div>
                           <div className="text-right">
-                            <div className="text-right">
-                              <div className="text-sm text-gray-500">From</div>
-                              <div className="text-2xl font-bold text-gray-900">{formatPrice(cls.priceFrom, loc)}</div>
-                              <div className="text-xs text-gray-500">per person</div>
-                            </div>
+                            <div className="text-sm text-gray-500">Planning fit</div>
+                            <div className="text-lg font-bold text-gray-900">{cls.priceTier || 'General'}</div>
                           </div>
                         </div>
                       </div>
@@ -301,9 +286,9 @@ export default function MuayThaiPage({ city, muayThaiData }: Props) {
                           <div className="flex-1">
                             <div className="flex items-center gap-3 mb-2">
                               <TypeBadge type={cls.type} />
-                              {cls.badge && (
-                                <span className="text-xs font-semibold text-white bg-green-500 px-2 py-1 rounded">
-                                  {cls.badge}
+                              {cls.priceTier && (
+                                <span className="text-xs font-semibold text-white bg-slate-600 px-2 py-1 rounded">
+                                  {cls.priceTier}
                                 </span>
                               )}
                             </div>
@@ -321,11 +306,8 @@ export default function MuayThaiPage({ city, muayThaiData }: Props) {
                             </div>
                           </div>
                           <div className="text-right">
-                            <div className="text-right">
-                              <div className="text-sm text-gray-500">From</div>
-                              <div className="text-2xl font-bold text-gray-900">{formatPrice(cls.priceFrom, loc)}</div>
-                              <div className="text-xs text-gray-500">per person</div>
-                            </div>
+                            <div className="text-sm text-gray-500">Planning fit</div>
+                            <div className="text-lg font-bold text-gray-900">{cls.priceTier || 'General'}</div>
                           </div>
                         </div>
                       </div>
@@ -349,9 +331,9 @@ export default function MuayThaiPage({ city, muayThaiData }: Props) {
                           <div className="flex-1">
                             <div className="flex items-center gap-3 mb-2">
                               <TypeBadge type={cls.type} />
-                              {cls.badge && (
-                                <span className="text-xs font-semibold text-white bg-green-500 px-2 py-1 rounded">
-                                  {cls.badge}
+                              {cls.priceTier && (
+                                <span className="text-xs font-semibold text-white bg-slate-600 px-2 py-1 rounded">
+                                  {cls.priceTier}
                                 </span>
                               )}
                             </div>
@@ -369,11 +351,8 @@ export default function MuayThaiPage({ city, muayThaiData }: Props) {
                             </div>
                           </div>
                           <div className="text-right">
-                            <div className="text-right">
-                              <div className="text-sm text-gray-500">From</div>
-                              <div className="text-2xl font-bold text-gray-900">{formatPrice(cls.priceFrom, loc)}</div>
-                              <div className="text-xs text-gray-500">per person</div>
-                            </div>
+                            <div className="text-sm text-gray-500">Planning fit</div>
+                            <div className="text-lg font-bold text-gray-900">{cls.priceTier || 'General'}</div>
                           </div>
                         </div>
                       </div>
@@ -433,7 +412,7 @@ export default function MuayThaiPage({ city, muayThaiData }: Props) {
                 {(muayThaiData?.tips?.en?.length ? muayThaiData.tips.en : [
                   'Use Muay Thai pages as a fit check, not a booking list, when the city is not a core combat-sport base.',
                   'Bangkok, Chiang Mai, and Phuket are usually much better starting points for fights or training.',
-                  'In Ayutthaya, a heritage and food-focused plan will usually deliver more value than chasing fight listings.',
+                  `In ${city.name.en}, a place-led plan will usually deliver more value than chasing fight listings when Muay Thai is only a secondary fit.`,
                 ]).map((tip, i) => (
                   <li key={i} className="flex items-start gap-3">
                     <span className="text-red-500 mt-1 flex-shrink-0">
@@ -447,7 +426,6 @@ export default function MuayThaiPage({ city, muayThaiData }: Props) {
               </ul>
             </div>
 
-            {/* FAQ */}
             <div className="bg-white rounded-2xl shadow-md p-8 mb-12">
               <h2 className="text-2xl font-bold font-heading text-gray-900 mb-6">
                 Frequently Asked Questions
@@ -529,15 +507,41 @@ export const getStaticProps: GetStaticProps = async ({ params }) => {
   const slug = params?.slug as string;
   const city = getCityBySlug(slug);
   if (!city) return { notFound: true };
+  const rawCity = city as any;
 
   const muayThaiData = getMuayThaiByCity(slug);
+  const sanitizedCity = {
+    id: city.id,
+    slug: city.slug,
+    name: city.name,
+    region: city.region,
+    province: city.province,
+    image: city.image,
+    contentSources: rawCity.contentSources || rawCity.content_sources || [],
+    reviewed_by: rawCity.reviewed_by ?? null,
+    reviewed_at: rawCity.reviewed_at ?? null,
+    enhanced_at: rawCity.enhanced_at ?? null,
+    editorialPositioning: rawCity.editorialPositioning ?? null,
+    sourceSummary: rawCity.sourceSummary ?? null,
+    recommendedAlternatives: rawCity.recommendedAlternatives ?? null,
+  };
 
   const sanitizedMuayThaiData = muayThaiData
     ? {
         ...muayThaiData,
-        classes: muayThaiData.classes.map(({ gygPath, ...activity }) => activity),
+        tips: {
+          ...muayThaiData.tips,
+          en: (muayThaiData.tips?.en || []).filter((tip) => !/GetYourGuide|price|rating|review/i.test(tip)),
+          nl: (muayThaiData.tips?.nl || []).filter((tip) => !/GetYourGuide|price|rating|review/i.test(tip)),
+        },
+        classes: muayThaiData.classes.map(({ priceFrom, rating, reviews, badge, gygPath, provider, currency, ...activity }) => ({
+          ...activity,
+          priceTier: typeof priceFrom === 'number'
+            ? (priceFrom <= 20 ? 'Entry-level' : priceFrom <= 40 ? 'Mid-range' : 'Premium')
+            : undefined,
+        })),
       }
     : null;
 
-  return { props: { city, muayThaiData: sanitizedMuayThaiData }, revalidate: 86400 };
+  return { props: { city: sanitizedCity, muayThaiData: sanitizedMuayThaiData }, revalidate: 86400 };
 };

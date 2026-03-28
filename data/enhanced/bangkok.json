@@ -663,7 +663,7 @@
       "name": "SEEN Restaurant & Bar Bangkok",
       "cuisine": "Rooftop International",
       "priceRange": "Upscale rooftop dining",
-      "description": "A strong riverside rooftop pick if you want skyline views, drinks, and a polished dinner setting rather than a pure Thai-food deep dive."
+      "description": "A strong riverside rooftop option if you want skyline views, drinks, and a polished dinner setting rather than a pure Thai-food deep dive."
     },
     {
       "rank": 2,
@@ -755,6 +755,10 @@
       "description": "Luxury daily costs: $150-300+ for five-star resort ($175-204/night), $40-100 for fine dining, $10-20 for private transport/Grab, and $20-50 for premium experiences and tours"
     }
   },
+  "reviewed_by": "Go2Thailand editorial team",
+  "reviewed_at": "2026-03-28",
+  "sourceSummary": "Reviewed against official hotel, restaurant, transport, attraction, cooking-school, and Muay Thai venue sources to keep Bangkok pages grounded in current city fit rather than affiliate pricing or brittle deal-led copy.",
+  "editorialPositioning": "Bangkok is a core city for food, hotels, attractions, cooking classes, and Muay Thai, so the support pages should emphasize fit, context, and source-backed guidance instead of exact booking prices.",
   "safetyTips": "Bangkok is generally manageable for visitors, but most problems here come from traffic, heat, tired decision-making, and low-level tourist targeting rather than from serious violent crime. Be more careful crossing roads than many first-time visitors expect, because traffic flows can feel unpredictable and vehicles do not always stop in the way visitors assume they will. Around nightlife zones such as Khao San Road, Nana, or parts of Sukhumvit, keep your phone, wallet, and drinks under control and avoid drifting into over-friendly tuk-tuk offers or vague detours to shops, gem stores, or tailor stops.\n\nFor transport, Grab and normal metered taxis are usually easier to manage than arguing over tuk-tuk prices when you are tired or in a rush. For everyday health, heat and dehydration are often more relevant than dramatic safety fears, so pace outdoor days, carry water, and take air-conditioned breaks before you get wiped out. Respect local rules, stay away from protests or political flashpoints, and remember that Bangkok usually rewards calm, practical behavior more than hyper-vigilance.",
   "faq": [
     {
@@ -883,6 +887,34 @@
       "creator": "Jim Thompson House Museum",
       "url": "https://jimthompsonhouse.org/visitor-information/",
       "description": "Used for Jim Thompson House visitor hours and visit format."
+    },
+    {
+      "type": "website",
+      "title": "Blue Elephant Bangkok Cooking School",
+      "creator": "Blue Elephant",
+      "url": "https://blueelephant.com/cooking-school/cooking-school-bangkok/",
+      "description": "Used for Bangkok cooking-school positioning and to confirm that the city has established formal class options beyond tour marketplaces."
+    },
+    {
+      "type": "website",
+      "title": "Baipai Thai Cooking School",
+      "creator": "Baipai Thai Cooking School",
+      "url": "https://www.baipai.com/",
+      "description": "Used for Bangkok cooking-class context, operating model, and practical fit around Chatuchak-side planning."
+    },
+    {
+      "type": "website",
+      "title": "Rajadamnern Stadium",
+      "creator": "Rajadamnern Stadium",
+      "url": "https://rajadamnern.com/",
+      "description": "Used for official Muay Thai event framing, venue positioning, and current fight-night planning context."
+    },
+    {
+      "type": "website",
+      "title": "Bangkok Fight Lab",
+      "creator": "Bangkok Fight Lab",
+      "url": "https://www.bangkokfightlab.com/",
+      "description": "Used for Bangkok training-gym context and to anchor the city's broader Muay Thai training scene in an official operator reference."
     },
     {
       "type": "website",

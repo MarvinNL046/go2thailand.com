@@ -5,7 +5,6 @@ import { getCityBySlug, getCityStaticPaths, generateCityMetadata, generateBreadc
 import Breadcrumbs from '../../../components/Breadcrumbs';
 import SEOHead from '../../../components/SEOHead';
 import CitySupportSources from '../../../components/CitySupportSources';
-import { getAffiliates, CityAffiliates } from '../../../lib/affiliates';
 
 interface Attraction {
   id: number;
@@ -21,10 +20,7 @@ interface Attraction {
   };
   highlights: string[];
   image: string;
-  entrance_fee: {
-    thb: number | null;
-    usd: number | null;
-  };
+  visitAccess?: 'Free' | 'Ticketed' | null;
   enhanced_description?: string;
   googleMapsUrl?: string;
 }
@@ -77,10 +73,9 @@ interface City {
 interface CityAttractionsPageProps {
   city: City;
   attractions: Attraction[];
-  affiliates: CityAffiliates | null;
 }
 
-export default function CityAttractionsPage({ city, attractions, affiliates }: CityAttractionsPageProps) {
+export default function CityAttractionsPage({ city, attractions }: CityAttractionsPageProps) {
   if (!city) {
     return <div>City not found</div>;
   }
@@ -225,11 +220,11 @@ export default function CityAttractionsPage({ city, attractions, affiliates }: C
                               </span>
                             </div>
 
-                            {/* Entrance Fee */}
-                            {typeof attraction.entrance_fee.thb === 'number' && attraction.entrance_fee.thb > 0 && (
+                            {/* Visit Access */}
+                            {attraction.visitAccess && (
                               <div className="absolute bottom-4 left-4">
                                 <span className="bg-white/90 backdrop-blur-sm text-thailand-blue-900 px-2 py-1 rounded-lg text-xs font-semibold">
-                                  ฿{attraction.entrance_fee.thb}
+                                  {attraction.visitAccess}
                                 </span>
                               </div>
                             )}
@@ -387,58 +382,37 @@ export default function CityAttractionsPage({ city, attractions, affiliates }: C
                     Optional Planning Links for {city.name.en}
                   </h3>
                   <p className="text-gray-600 text-center mb-8">
-                    Use these links only if you want to check live ticket or tour availability after deciding which attractions fit your route.
+                    Use these internal guides after deciding which neighborhoods and attraction types fit your route.
                   </p>
-                  <div className="grid grid-cols-1 md:grid-cols-2 gap-6">
+                  <div className="grid grid-cols-1 md:grid-cols-3 gap-6">
                     <div className="border-0 bg-surface-cream rounded-2xl p-6 text-center">
-                      <h4 className="text-lg font-bold text-gray-900 mb-2">Klook</h4>
+                      <h4 className="text-lg font-bold text-gray-900 mb-2">City overview</h4>
                       <p className="text-gray-600 text-sm mb-4">
-                        Tickets and attraction planning links
+                        Rebuild your Bangkok route from the strongest district-level context.
                       </p>
-                      {affiliates?.klook ? (
-                        <a
-                          href={affiliates.klook}
-                          target="_blank"
-                          rel="noopener noreferrer sponsored"
-                          className="inline-flex items-center justify-center w-full px-6 py-3 bg-thailand-red text-white font-semibold rounded-xl hover:bg-thailand-red-600 transition-colors"
-                        >
-                          View Klook options
-                        </a>
-                      ) : (
-                        <Link href="/activities/" className="inline-flex items-center justify-center w-full px-6 py-3 bg-thailand-red text-white font-semibold rounded-xl hover:bg-thailand-red-600 transition-colors">
-                          View Activities
-                        </Link>
-                      )}
+                      <Link href={`/city/${city.slug}/`} className="inline-flex items-center justify-center w-full px-6 py-3 bg-thailand-red text-white font-semibold rounded-xl hover:bg-thailand-red-600 transition-colors">
+                        See City Overview
+                      </Link>
                     </div>
                     <div className="border-0 bg-surface-cream rounded-2xl p-6 text-center">
-                      <h4 className="text-lg font-bold text-gray-900 mb-2">GetYourGuide</h4>
+                      <h4 className="text-lg font-bold text-gray-900 mb-2">Food & Dining</h4>
                       <p className="text-gray-600 text-sm mb-4">
-                        Guided tours and route-planning options
+                        Pair major sights with a smarter neighborhood meal plan.
                       </p>
-                      {affiliates?.getyourguide ? (
-                        <a
-                          href={affiliates.getyourguide}
-                          target="_blank"
-                          rel="noopener noreferrer sponsored"
-                          className="inline-flex items-center justify-center w-full px-6 py-3 bg-thailand-blue text-white font-semibold rounded-xl hover:bg-thailand-blue-600 transition-colors"
-                        >
-                          View GetYourGuide options
-                        </a>
-                      ) : (
-                        <Link href={`/city/${city.slug}/`} className="inline-flex items-center justify-center w-full px-6 py-3 bg-thailand-blue text-white font-semibold rounded-xl hover:bg-thailand-blue-600 transition-colors">
-                          See City Overview
-                        </Link>
-                      )}
+                      <Link href={`/city/${city.slug}/food/`} className="inline-flex items-center justify-center w-full px-6 py-3 bg-thailand-blue text-white font-semibold rounded-xl hover:bg-thailand-blue-600 transition-colors">
+                        See Food Guide
+                      </Link>
+                    </div>
+                    <div className="border-0 bg-surface-cream rounded-2xl p-6 text-center">
+                      <h4 className="text-lg font-bold text-gray-900 mb-2">Hotels</h4>
+                      <p className="text-gray-600 text-sm mb-4">
+                        Choose a base that cuts down cross-city transfers.
+                      </p>
+                      <Link href={`/city/${city.slug}/hotels/`} className="inline-flex items-center justify-center w-full px-6 py-3 bg-thailand-blue text-white font-semibold rounded-xl hover:bg-thailand-blue-600 transition-colors">
+                        See Hotel Guide
+                      </Link>
                     </div>
                   </div>
-                  <div className="text-center mt-6">
-                    <Link href="/activities/" className="text-thailand-blue hover:text-thailand-red font-medium text-sm transition-colors">
-                      View all activities in Thailand &rarr;
-                    </Link>
-                  </div>
-                  <p className="text-xs text-gray-400 text-center mt-4">
-                    External booking links are optional planning tools. We may earn a commission at no extra cost to you.
-                  </p>
                 </div>
 
                 {/* Quick Navigation */}
@@ -558,16 +532,45 @@ export const getStaticProps: GetStaticProps = async ({ params }) => {
     };
   }
 
-  // Load enhanced attractions data
-  const attractions = getEnhancedAttractionsByCity(slug);
-  
-  const affiliates = getAffiliates(slug);
+  const rawCity = city as any;
+  const sanitizedCity = {
+    id: city.id,
+    slug: city.slug,
+    name: city.name,
+    region: city.region,
+    province: city.province,
+    description: city.description,
+    highlights: city.highlights,
+    image: city.image,
+    images: city.images || null,
+    categories: city.categories,
+    enhanced_description: city.enhanced_description || null,
+    contentSources: rawCity.contentSources || rawCity.content_sources || [],
+    reviewed_by: rawCity.reviewed_by ?? null,
+    reviewed_at: rawCity.reviewed_at ?? null,
+    enhanced_at: rawCity.enhanced_at ?? null,
+    editorialPositioning: rawCity.editorialPositioning ?? null,
+    sourceSummary: rawCity.sourceSummary ?? null,
+  };
+  const attractions = getEnhancedAttractionsByCity(slug).map((attraction) => ({
+    id: attraction.id,
+    slug: attraction.slug,
+    name: attraction.name,
+    type: attraction.type,
+    description: attraction.description,
+    highlights: attraction.highlights,
+    image: attraction.image,
+    visitAccess: typeof attraction.entrance_fee?.thb === 'number'
+      ? (attraction.entrance_fee.thb > 0 ? 'Ticketed' : 'Free')
+      : null,
+    enhanced_description: attraction.enhanced_description || null,
+    googleMapsUrl: attraction.googleMapsUrl || null,
+  }));
 
   return {
     props: {
-      city,
+      city: sanitizedCity,
       attractions,
-      affiliates,
     },
     revalidate: 86400,
   };

@@ -1,25 +1,19 @@
 import { GetStaticProps, GetStaticPaths } from 'next';
 import Link from 'next/link';
-import { useRouter } from 'next/router';
 import { getCityBySlug, getCityStaticPaths, generateBreadcrumbs } from '../../../lib/cities';
 import { getElephantSanctuariesByCity, getAllElephantSanctuaryCities } from '../../../lib/elephant-sanctuaries';
-import { formatPrice } from '../../../lib/price';
 import Breadcrumbs from '../../../components/Breadcrumbs';
 import SEOHead from '../../../components/SEOHead';
 import CityExploreMore from '../../../components/CityExploreMore';
 import CitySupportSources from '../../../components/CitySupportSources';
-import { getAffiliates, CityAffiliates } from '../../../lib/affiliates';
 
 interface Sanctuary {
   name: string;
   slug: string;
-  provider: string;
-  priceFrom: number;
-  currency: string;
   duration: string;
   groupSize: string;
   includes: string[];
-  badge: string;
+  priceTier?: string;
 }
 
 interface CityData {
@@ -49,12 +43,9 @@ interface City {
 interface Props {
   city: City;
   sanctuaryData: CityData | null;
-  affiliates: CityAffiliates | null;
 }
 
-export default function ElephantSanctuariesPage({ city, sanctuaryData, affiliates }: Props) {
-  const { locale } = useRouter();
-  const loc = locale || 'en';
+export default function ElephantSanctuariesPage({ city, sanctuaryData }: Props) {
   if (!city) return <div>Not found</div>;
 
   const breadcrumbs = [
@@ -64,11 +55,8 @@ export default function ElephantSanctuariesPage({ city, sanctuaryData, affiliate
 
   const sanctuaryClasses = sanctuaryData?.classes || [];
   const hasLocalOptions = sanctuaryClasses.length > 0;
-  const priceValues = sanctuaryClasses.map(c => c.priceFrom).filter((price): price is number => typeof price === 'number' && Number.isFinite(price));
-  const minPrice = priceValues.length > 0 ? Math.min(...priceValues) : null;
-  const maxPrice = priceValues.length > 0 ? Math.max(...priceValues) : null;
   const introText = sanctuaryData?.intro?.en || `Elephant sanctuaries are not a core local draw in ${city.name.en}, so this page keeps the focus on honest fit and better alternatives instead of forcing fake listings.`;
-  const editorialPositioning = (city.editorialPositioning || `Ayutthaya is not a core elephant-sanctuary base. The strongest ethical sanctuary options in Thailand are usually concentrated around Chiang Mai, Phuket, and Krabi.`).trim();
+  const editorialPositioning = (city.editorialPositioning || `${city.name.en} is not a core elephant-sanctuary base. The strongest ethical sanctuary options in Thailand are usually concentrated around Chiang Mai, Phuket, and Krabi.`).trim();
   const recommendedAlternatives = city.recommendedAlternatives && city.recommendedAlternatives.length > 0
     ? city.recommendedAlternatives
     : [
@@ -85,8 +73,8 @@ export default function ElephantSanctuariesPage({ city, sanctuaryData, affiliate
   const faqItems = hasLocalOptions
     ? [
         {
-          q: `How much does an elephant sanctuary visit in ${city.name.en} cost?`,
-          a: `Elephant sanctuary experiences in ${city.name.en} range from ${minPrice !== null ? formatPrice(minPrice, loc) : 'unknown'} to ${maxPrice !== null ? formatPrice(maxPrice, loc) : 'unknown'} per person, depending on the program duration and inclusions like meals and hotel transfers.`
+          q: `What makes a sanctuary a good fit?`,
+          a: `A good sanctuary program should explain its animal welfare approach clearly, avoid riding, and be transparent about visitor interaction rules and transport details.`
         },
         {
           q: `Are elephant sanctuaries in ${city.name.en} ethical?`,
@@ -112,7 +100,7 @@ export default function ElephantSanctuariesPage({ city, sanctuaryData, affiliate
         },
         {
           q: `What should I do in ${city.name.en} instead?`,
-          a: `Ayutthaya is a better fit for historical parks, temples, and river dining than for elephant-specific day trips.`,
+          a: `${city.name.en} is a better fit for its strongest local sights and food planning than for elephant-specific day trips.`,
         },
       ];
 
@@ -180,22 +168,16 @@ export default function ElephantSanctuariesPage({ city, sanctuaryData, affiliate
                 <div className="text-sm text-gray-600">Sanctuaries</div>
               </div>
               <div className="bg-white rounded-2xl p-4 text-center shadow-md">
-                <div className="text-3xl font-bold text-thailand-blue">
-                  {minPrice !== null ? formatPrice(minPrice, loc) : 'N/A'}
-                </div>
-                <div className="text-sm text-gray-600">Starting From</div>
-              </div>
-              <div className="bg-white rounded-2xl p-4 text-center shadow-md">
-                <div className="text-3xl font-bold text-thailand-blue">
-                  {new Set(sanctuaryClasses.map(c => c.duration)).size}
-                </div>
+                <div className="text-3xl font-bold text-thailand-blue">{new Set(sanctuaryClasses.map(c => c.duration)).size}</div>
                 <div className="text-sm text-gray-600">Visit Formats</div>
               </div>
               <div className="bg-white rounded-2xl p-4 text-center shadow-md">
-                <div className="text-3xl font-bold text-thailand-blue">
-                  {new Set(sanctuaryClasses.map(c => c.groupSize)).size}
-                </div>
+                <div className="text-3xl font-bold text-thailand-blue">{new Set(sanctuaryClasses.map(c => c.groupSize)).size}</div>
                 <div className="text-sm text-gray-600">Group Styles</div>
+              </div>
+              <div className="bg-white rounded-2xl p-4 text-center shadow-md">
+                <div className="text-3xl font-bold text-thailand-blue">{hasLocalOptions ? 'Strong' : 'Limited'}</div>
+                <div className="text-sm text-gray-600">Local Fit</div>
               </div>
             </div>
 
@@ -229,9 +211,9 @@ export default function ElephantSanctuariesPage({ city, sanctuaryData, affiliate
                               <span className="text-sm font-bold text-white bg-green-600 px-2 py-1 rounded">
                                 #{index + 1}
                               </span>
-                              {sanctuary.badge && (
-                                <span className="text-xs font-semibold text-white bg-green-500 px-2 py-1 rounded">
-                                  {sanctuary.badge}
+                              {sanctuary.priceTier && (
+                                <span className="text-xs font-semibold text-white bg-slate-600 px-2 py-1 rounded">
+                                  {sanctuary.priceTier}
                                 </span>
                               )}
                             </div>
@@ -249,11 +231,8 @@ export default function ElephantSanctuariesPage({ city, sanctuaryData, affiliate
                             </div>
                           </div>
                           <div className="text-right">
-                            <div className="text-right">
-                              <div className="text-sm text-gray-500">From</div>
-                              <div className="text-2xl font-bold text-gray-900">{formatPrice(sanctuary.priceFrom, loc)}</div>
-                              <div className="text-xs text-gray-500">per person</div>
-                            </div>
+                            <div className="text-sm text-gray-500">Planning fit</div>
+                            <div className="text-lg font-bold text-gray-900">{sanctuary.priceTier || 'General'}</div>
                           </div>
                         </div>
                       </div>
@@ -304,38 +283,27 @@ export default function ElephantSanctuariesPage({ city, sanctuaryData, affiliate
             </div>
 
             {hasLocalOptions ? (
-              <div className="bg-surface-dark rounded-2xl p-8 mb-12 text-center text-white">
-                <h2 className="text-3xl font-bold font-heading mb-4">
+              <div className="bg-white rounded-2xl shadow-md p-8 mb-12">
+                <h2 className="text-3xl font-bold font-heading text-gray-900 mb-4 text-center">
                   Optional Planning Links for {city.name.en}
                 </h2>
-                <p className="text-lg mb-6 opacity-90">
-                  Use these links only if you want to check live availability after reviewing the sanctuary formats and ethics notes above.
+                <p className="text-gray-700 text-center mb-6">
+                  Use the internal guides below if you want to compare {city.name.en} with stronger elephant-sanctuary bases before deciding on a day trip.
                 </p>
-                <div className="flex flex-col sm:flex-row gap-4 justify-center">
-                  {affiliates?.getyourguide && (
-                    <a
-                      href={affiliates.getyourguide}
-                      target="_blank"
-                      rel="noopener noreferrer sponsored"
-                      className="inline-flex items-center justify-center px-8 py-3 bg-white text-thailand-blue font-semibold rounded-xl hover:bg-gray-100 transition-colors"
-                    >
-                      View GetYourGuide options
-                    </a>
-                  )}
-                  {affiliates?.klook && (
-                    <a
-                      href={affiliates.klook}
-                      target="_blank"
-                      rel="noopener noreferrer sponsored"
-                      className="inline-flex items-center justify-center px-8 py-3 bg-white/20 text-white font-semibold rounded-xl hover:bg-white/30 transition-colors border border-white/40"
-                    >
-                      View Klook options
-                    </a>
-                  )}
+                <div className="grid grid-cols-1 md:grid-cols-3 gap-4">
+                  <Link href={`/city/${city.slug}/attractions/`} className="rounded-2xl border border-gray-100 bg-surface-cream p-4 hover:shadow-md transition-all duration-300">
+                    <h3 className="font-semibold text-gray-900 mb-1">Attractions</h3>
+                    <p className="text-sm text-gray-600">A better local fit than sanctuary search.</p>
+                  </Link>
+                  <Link href="/city/chiang-mai/elephant-sanctuaries/" className="rounded-2xl border border-gray-100 bg-surface-cream p-4 hover:shadow-md transition-all duration-300">
+                    <h3 className="font-semibold text-gray-900 mb-1">Chiang Mai sanctuaries</h3>
+                    <p className="text-sm text-gray-600">Thailand's strongest sanctuary market.</p>
+                  </Link>
+                  <Link href="/city/phuket/elephant-sanctuaries/" className="rounded-2xl border border-gray-100 bg-surface-cream p-4 hover:shadow-md transition-all duration-300">
+                    <h3 className="font-semibold text-gray-900 mb-1">Phuket sanctuaries</h3>
+                    <p className="text-sm text-gray-600">Another stronger fit for this activity.</p>
+                  </Link>
                 </div>
-                <p className="text-xs text-white/70 mt-4">
-                  External booking links are optional planning tools. We may earn a commission at no extra cost to you.
-                </p>
               </div>
             ) : (
               <div className="bg-white rounded-2xl shadow-md p-8 mb-12">
@@ -343,7 +311,7 @@ export default function ElephantSanctuariesPage({ city, sanctuaryData, affiliate
                   Better sanctuary planning alternatives
                 </h2>
                 <p className="text-gray-700 leading-relaxed mb-6">
-                  If elephant sanctuaries are a priority, Ayutthaya is not the place to anchor that part of the trip.
+                  If elephant sanctuaries are a priority, {city.name.en} is not the place to anchor that part of the trip.
                 </p>
                 <div className="grid grid-cols-1 md:grid-cols-3 gap-4">
                   {recommendedAlternatives.map((item) => (
@@ -425,17 +393,41 @@ export const getStaticProps: GetStaticProps = async ({ params }) => {
   const slug = params?.slug as string;
   const city = getCityBySlug(slug);
   if (!city) return { notFound: true };
+  const rawCity = city as any;
 
   const sanctuaryData = getElephantSanctuariesByCity(slug);
-
-  const affiliates = getAffiliates(params.slug as string);
+  const sanitizedCity = {
+    id: city.id,
+    slug: city.slug,
+    name: city.name,
+    region: city.region,
+    province: city.province,
+    image: city.image,
+    contentSources: rawCity.contentSources || rawCity.content_sources || [],
+    reviewed_by: rawCity.reviewed_by ?? null,
+    reviewed_at: rawCity.reviewed_at ?? null,
+    enhanced_at: rawCity.enhanced_at ?? null,
+    editorialPositioning: rawCity.editorialPositioning ?? null,
+    sourceSummary: rawCity.sourceSummary ?? null,
+    recommendedAlternatives: rawCity.recommendedAlternatives ?? null,
+  };
 
   const sanitizedSanctuaryData = sanctuaryData
     ? {
         ...sanctuaryData,
-        classes: sanctuaryData.classes.map(({ gygPath, ...sanctuary }) => sanctuary),
+        tips: {
+          ...sanctuaryData.tips,
+          en: (sanctuaryData.tips?.en || []).filter((tip) => !/GetYourGuide|price|rating|review/i.test(tip)),
+          nl: (sanctuaryData.tips?.nl || []).filter((tip) => !/GetYourGuide|price|rating|review/i.test(tip)),
+        },
+        classes: sanctuaryData.classes.map(({ priceFrom: _priceFrom, rating, reviews, badge, gygPath, provider, currency, ...sanctuary }) => ({
+          ...sanctuary,
+          priceTier: typeof _priceFrom === 'number'
+            ? (_priceFrom <= 25 ? 'Entry-level' : _priceFrom <= 50 ? 'Mid-range' : 'Premium')
+            : undefined,
+        })),
       }
     : null;
 
-  return { props: { city, sanctuaryData: sanitizedSanctuaryData, affiliates }, revalidate: 86400 };
+  return { props: { city: sanitizedCity, sanctuaryData: sanitizedSanctuaryData }, revalidate: 86400 };
 };
