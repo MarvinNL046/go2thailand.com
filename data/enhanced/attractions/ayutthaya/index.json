@@ -1,7 +1,7 @@
 {
   "city_slug": "ayutthaya",
   "city_name": "Ayutthaya",
-  "total_attractions": 10,
+  "total_attractions": 7,
   "attractions": [
     {
       "id": 1,
@@ -101,54 +101,6 @@
     },
     {
       "id": 5,
-      "slug": "wat-lokayasutharam",
-      "name": {
-        "en": "Wat Lokayasutharam",
-        "nl": "Wat Lokayasutharam"
-      },
-      "type": "temple",
-      "image": "/images/cities/ayutthaya/attractions/Reclining Buddha in Wat Lokayasutharam temple.webp",
-      "description": {
-        "en": "Temple famous for massive 42-meter long reclining Buddha statue",
-        "nl": "Tempel beroemd om massaal 42 meter lang liggend Boeddhabeeld"
-      },
-      "entrance_fee": {
-        "thb": 20,
-        "usd": 1
-      },
-      "highlights": [
-        "42m reclining Buddha",
-        "Outdoor statue",
-        "Ancient temple"
-      ],
-      "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=Wat%20Lokayasutharam%20Ayutthaya%20Thailand"
-    },
-    {
-      "id": 6,
-      "slug": "wat-yai-chai-mongkhon",
-      "name": {
-        "en": "Wat Yai Chai Mongkhon",
-        "nl": "Wat Yai Chai Mongkhon"
-      },
-      "type": "temple",
-      "image": "/images/cities/ayutthaya/attractions/Wat Yai Chai Mongkhon of Ayuthaya.webp",
-      "description": {
-        "en": "Active temple with towering chedi and rows of Buddha statues",
-        "nl": "Actieve tempel met torenhoge chedi en rijen Boeddhabeelden"
-      },
-      "entrance_fee": {
-        "thb": 20,
-        "usd": 1
-      },
-      "highlights": [
-        "Towering chedi",
-        "Active temple",
-        "Buddha statues"
-      ],
-      "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=Wat%20Yai%20Chai%20Mongkhon%20Ayutthaya%20Thailand"
-    },
-    {
-      "id": 7,
       "slug": "bang-pa-in-palace",
       "name": {
         "en": "Bang Pa-In Royal Palace",
@@ -172,7 +124,7 @@
       "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=Bang%20Pa-In%20Royal%20Palace%20Ayutthaya%20Thailand"
     },
     {
-      "id": 8,
+      "id": 6,
       "slug": "chao-sam-phraya-museum",
       "name": {
         "en": "Chao Sam Phraya National Museum",
@@ -196,7 +148,7 @@
       "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=Chao%20Sam%20Phraya%20National%20Museum%20Ayutthaya%20Thailand"
     },
     {
-      "id": 9,
+      "id": 7,
       "slug": "wat-ratchaburana",
       "name": {
         "en": "Wat Ratchaburana",
@@ -218,32 +170,8 @@
         "Ancient murals"
       ],
       "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=Wat%20Ratchaburana%20Ayutthaya%20Thailand"
-    },
-    {
-      "id": 10,
-      "slug": "ayutthaya-elephant-palace",
-      "name": {
-        "en": "Ayutthaya Elephant Palace",
-        "nl": "Ayutthaya Olifanten Paleis"
-      },
-      "type": "attraction",
-      "image": "/images/cities/ayutthaya/attractions/Toeristen rijden olifanten in Ayutthaya, Thailand.webp",
-      "description": {
-        "en": "Elephant camp offering rides and shows in historical setting",
-        "nl": "Olifantenkamp met ritten en shows in historische omgeving"
-      },
-      "entrance_fee": {
-        "thb": 200,
-        "usd": 6
-      },
-      "highlights": [
-        "Elephant rides",
-        "Cultural shows",
-        "Historical setting"
-      ],
-      "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=Ayutthaya%20Elephant%20Palace%20Ayutthaya%20Thailand"
     }
   ],
   "enhanced_at": "2025-05-25T22:38:36.097Z",
-  "enhanced_count": 10
+  "enhanced_count": 7
 }

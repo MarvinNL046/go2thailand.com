@@ -47,19 +47,19 @@
     "travel",
     "tourism"
   ],
-  "enhanced_description": "The Chao Sam Phraya National Museum stands as a testament to the grandeur of the ancient Kingdom of Ayutthaya, showcasing an impressive collection of artifacts that narrate the vibrant history and cultural richness of this former capital. Established in 1961, the museum is named after the nearby Chao Sam Phraya River, which played a significant role in the region's history. Visitors can marvel at exquisite golden Buddha images, royal treasures unearthed from the ruins, and a variety of historical artifacts that reflect the artistic and cultural achievements of the Ayutthaya period. The museum's layout is thoughtfully designed, allowing guests to explore its extensive exhibits at a leisurely pace while gaining a deeper appreciation for Thailand's heritage. With its serene environment and educational offerings, the Chao Sam Phraya National Museum is a must-visit destination for anyone looking to connect with the rich past of Ayutthaya.",
-  "detailed_history": "The Chao Sam Phraya National Museum is situated within the historical heart of Ayutthaya, which flourished as the capital of the Kingdom of Siam from the 14th to the 18th centuries. The museum was established to preserve and display the numerous artifacts discovered during archaeological excavations in the region. Among these treasures are stunning golden Buddha images, jewelry, ceramics, and other items that provide insight into the daily life and religious practices of the Ayutthaya people. The museum serves not only as a repository of history but also as a vital educational resource, showcasing the artistic craftsmanship and cultural exchanges that shaped Thai civilization during its golden era.",
-  "visitor_experience": "Visitors to the Chao Sam Phraya National Museum can expect a well-organized exhibition space divided into several themed areas. The main galleries feature artifacts arranged chronologically, allowing for a seamless flow through Ayutthaya's history. The visit typically lasts around 1 to 2 hours, depending on individual interest levels. Engaging displays and informative signage help guests understand the significance of each piece. Additionally, the museum often hosts temporary exhibitions and educational programs, enriching the visitor experience further.",
+  "enhanced_description": "Chao Sam Phraya National Museum is one of the most useful supporting stops in Ayutthaya because it gives context to the ruins. The museum focuses on recovered artifacts and helps explain why the heritage park matters.",
+  "detailed_history": "Museum Thailand presents the site as an important Ayutthaya museum connected to the preservation of regional heritage. Its role is to keep the archaeology and art history legible after visitors have seen the temples.",
+  "visitor_experience": "Expect a straightforward museum visit with galleries that work best after one or two temple stops. It is a practical way to shift from outdoor heat to indoor context.",
   "best_time_to_visit": {
-    "time_of_day": "Morning is the best time to visit as the museum tends to be less crowded and provides a quieter atmosphere for exploration.",
-    "duration": "A recommended visit duration is 1.5 to 2 hours to fully appreciate the exhibits.",
-    "crowd_level": "Crowd levels are generally moderate, with weekends being busier. Visiting on weekdays is advisable to avoid larger groups."
+    "time_of_day": "Morning is usually the calmest time to visit.",
+    "duration": "Plan around 1 to 2 hours.",
+    "crowd_level": "Weekdays are usually quieter than weekends."
   },
   "photography_tips": [
-    "Best photo spots include the central hall showcasing the golden Buddha images and the beautifully arranged artifact displays.",
-    "Lighting conditions are best in the morning; natural light enhances the beauty of the exhibits.",
-    "Look for Instagram-worthy locations near the entrance, where the museum architecture serves as a great backdrop.",
-    "Photography restrictions may apply in certain exhibit areas; be sure to check signs and respect the rules."
+    "The main galleries and entrance are the most useful photo points.",
+    "Morning light is usually better if the rooms allow natural light.",
+    "Keep the visit focused on the artifact context rather than posing around every display.",
+    "Check the signs before taking photos in exhibit areas."
   ],
   "practical_info": {
     "how_to_get_there": "The museum is easily accessible by tuk-tuk, taxi, or bicycle from central Ayutthaya. Look for signs directing you along Rochana Road.",
@@ -68,19 +68,34 @@
     "shopping": "Souvenir shops selling local handicrafts and traditional Thai products can be found in the vicinity, perfect for picking up mementos."
   },
   "insider_tips": [
-    "Explore the museum's lesser-known artifacts, as some of the most intriguing pieces are often overlooked by tourists.",
-    "To make the most of your visit, consider joining a guided tour or audio tour for deeper insights into the exhibits.",
-    "Many visitors miss the museum's temporary exhibitions, which often feature unique artifacts that are not part of the permanent collection.",
-    "Be respectful of the museum's cultural significance; maintain a quiet demeanor and avoid loud conversations while exploring."
+    "Pair the museum with nearby ruins so the artifacts have real context.",
+    "Keep the visit quiet and unhurried.",
+    "Check current opening days before you go.",
+    "Use it as the historical anchor for a heritage-heavy day."
   ],
   "seasonal_considerations": "The museum experience remains consistent throughout the year, though the best time to visit is during the cooler months (November to February) when the weather is more pleasant for exploring Ayutthaya.",
   "accessibility": "The museum is wheelchair accessible, with ramps and designated areas to assist visitors with mobility issues, ensuring everyone can enjoy the exhibits.",
-  "cultural_significance": "The Chao Sam Phraya National Museum plays a crucial role in preserving the history and culture of Ayutthaya, highlighting the artistic achievements and religious practices of the period, which are fundamental to Thai identity.",
+  "cultural_significance": "The museum helps preserve and interpret Ayutthaya's archaeological record.",
   "fun_facts": [
-    "The museum houses the largest collection of Ayutthaya artifacts in the world, making it a key point of interest for archaeologists and historians.",
-    "One of the golden Buddha images displayed in the museum is believed to date back to the 14th century.",
-    "The museum's architecture itself is a blend of traditional Thai and modern styles, reflecting the cultural evolution of the region.",
-    "Chao Sam Phraya was a prominent figure in Ayutthaya's history, and the museum's name pays homage to his significance in the kingdom's royal lineage."
+    "It is one of the clearest indoor complements to the Ayutthaya ruins.",
+    "The museum helps explain the objects recovered from the heritage zone.",
+    "It is a useful stop when the weather is hot or rainy."
+  ],
+  "contentSources": [
+    {
+      "type": "official museum",
+      "title": "Chao Sam Phraya National Museum",
+      "creator": "Museum Thailand / Department of Fine Arts",
+      "url": "https://www.museumthailand.com/en/museum/Chao-Sam-Phraya-National-Museum",
+      "description": "Used for museum context and curation framing."
+    },
+    {
+      "type": "official heritage",
+      "title": "Historic City of Ayutthaya",
+      "creator": "UNESCO World Heritage Centre",
+      "url": "https://whc.unesco.org/en/list/576/",
+      "description": "Used for the surrounding heritage context."
+    }
   ],
   "enhanced_at": "2025-05-25T22:37:46.307Z"
 }

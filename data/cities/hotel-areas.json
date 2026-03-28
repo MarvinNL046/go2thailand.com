@@ -193,19 +193,35 @@
   "ayutthaya": {
     "areas": [
       {
-        "name": "City Center",
-        "best_for": ["sightseeing", "history buffs", "convenience"],
-        "description": "Central area near historical park with easy access to temples and ruins",
+        "name": "Historical Island",
+        "best_for": ["sightseeing", "history buffs", "cycling"],
+        "description": "The old-city core near Wat Mahathat and Wat Phra Si Sanphet, best for visitors who want the heritage circuit on the doorstep.",
         "price_range": "budget/mid-range",
-        "pros": ["Walking distance to sites", "Local restaurants", "Bike rental nearby", "Authentic atmosphere"],
-        "cons": ["Basic facilities", "Limited nightlife", "Hot during day", "Mosquitoes"]
+        "pros": ["Closest access to major ruins", "Easy bicycle routes", "Good local food access", "Strong heritage atmosphere"],
+        "cons": ["Hot in the middle of the day", "Fewer full-service hotels", "Can feel busy on day-trip hours"]
+      },
+      {
+        "name": "Riverfront",
+        "best_for": ["couples", "design stays", "sunset views"],
+        "description": "Hotels along the river and near the old city that trade convenience for the best atmosphere and evening views.",
+        "price_range": "mid-range/upscale",
+        "pros": ["Best views", "Good for a short splurge", "Strong dinner settings", "Peaceful after day-trippers leave"],
+        "cons": ["Usually pricier", "Needs transport for some sites", "Limited inventory"]
+      },
+      {
+        "name": "Central Ayutthaya / Rojana",
+        "best_for": ["drivers", "business-leisure", "newer hotels"],
+        "description": "The newer commercial side of town with practical hotels, easier parking, and direct road access.",
+        "price_range": "mid-range",
+        "pros": ["Newer hotel stock", "Better parking", "Convenient for drivers", "Useful for longer stays"],
+        "cons": ["Less heritage atmosphere", "More traffic", "Not as walkable for ruins"]
       }
     ],
     "booking_tips": [
-      "Book guesthouses near the historical park",
-      "Many hotels offer bicycle rentals",
-      "Consider staying overnight to avoid day-trip crowds",
-      "Air conditioning essential due to heat"
+      "Book early if you want a riverfront or boutique property.",
+      "Many hotels offer bicycle rentals, which is useful if you stay near the historical island.",
+      "Consider staying overnight to avoid day-trip crowds and heat.",
+      "Choose air conditioning unless you are deliberately booking a very simple guesthouse."
     ],
     "peak_season": "November to February"
   },

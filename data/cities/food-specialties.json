@@ -220,20 +220,26 @@
     "specialties": [
       "Boat Noodles",
       "Roti Sai Mai",
-      "Grilled River Prawns"
+      "Grilled River Prawns",
+      "Hoi Tod",
+      "Market Snacks"
     ],
     "markets": [
       {
         "name": "Ayutthaya Night Market",
         "location": "Near Ayutthaya Historical Park",
         "hours": "Daily 5:00 PM - 10:00 PM",
-        "specialty": "Traditional Thai sweets and boat noodles"
+        "specialty": "Boat noodles, roti sai mai, and easy dinner snacks"
       }
     ],
     "street_food_areas": [
       {
         "name": "Bang Ian Night Market",
-        "description": "Local favorites and river seafood"
+        "description": "Local noodles, sweets, and casual evening bites"
+      },
+      {
+        "name": "Historic island food stalls",
+        "description": "Simple noodle shops and roti sai mai specialists around the heritage core"
       }
     ],
     "vegetarian_friendly": false
