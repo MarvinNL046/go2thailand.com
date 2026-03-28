@@ -3,6 +3,7 @@ import SEOHead from '../../components/SEOHead';
 import Link from 'next/link';
 import { useRouter } from 'next/router';
 import Breadcrumbs from '../../components/Breadcrumbs';
+import PreFooterAffiliateBanner from '../../components/PreFooterAffiliateBanner';
 import { getAllPracticalInfo, getPracticalInfoBySlug, generatePracticalInfoBreadcrumbs } from '../../lib/practical-info';
 
 interface SectionItem {
@@ -40,57 +41,10 @@ interface PracticalInfoPageProps {
   info: PracticalInfo;
 }
 
-// Official sources shown per topic slug
-const officialSources: Record<string, { label: string; url: string }[]> = {
-  'scams-safety': [
-    { label: 'Royal Thai Police', url: 'https://www.royalthaipolice.go.th' },
-    { label: 'Tourist Police Thailand (1155)', url: 'https://www.touristpolice.go.th' },
-    { label: 'UK FCDO Thailand Travel Advice', url: 'https://www.gov.uk/foreign-travel-advice/thailand' },
-  ],
-  'atm-money': [
-    { label: 'Bank of Thailand', url: 'https://www.bot.or.th/en' },
-    { label: 'TAT — Money & Currency', url: 'https://www.tourismthailand.org/Articles/practical-tips-money-currency' },
-  ],
-  'health-vaccinations': [
-    { label: 'Department of Disease Control Thailand', url: 'https://ddc.moph.go.th/en' },
-    { label: 'WHO Thailand', url: 'https://www.who.int/countries/tha/' },
-    { label: 'CDC Traveler Health — Thailand', url: 'https://wwwnc.cdc.gov/travel/destinations/traveler/none/thailand' },
-  ],
-  'packing-list': [
-    { label: 'TAT Official Travel Tips', url: 'https://www.tourismthailand.org/Articles/practical-tips' },
-  ],
-  'etiquette-culture': [
-    { label: 'TAT Culture & Etiquette', url: 'https://www.tourismthailand.org/Articles/thailand-culture' },
-    { label: 'Fine Arts Department Thailand', url: 'https://www.finearts.go.th' },
-  ],
-};
-
-// Related cross-links shown in sidebar
-const relatedLinks = {
-  en: [
-    { label: 'Visa Guide', href: '/visa/' },
-    { label: 'Weather & Climate', href: '/weather/' },
-    { label: 'Getting Around', href: '/transport/' },
-    { label: 'SIM & Connectivity', href: '/esim/' },
-    { label: 'Travel Insurance', href: '/travel-insurance-thailand/' },
-    { label: '← All practical info', href: '/practical-info/' },
-  ],
-  nl: [
-    { label: 'Visum Gids', href: '/visa/' },
-    { label: 'Weer & Klimaat', href: '/weather/' },
-    { label: 'Transport', href: '/transport/' },
-    { label: 'SIM & Verbinding', href: '/esim/' },
-    { label: 'Reisverzekering', href: '/travel-insurance-thailand/' },
-    { label: '← Alle praktische info', href: '/practical-info/' },
-  ],
-};
-
 export default function PracticalInfoDetailPage({ info }: PracticalInfoPageProps) {
   const { locale } = useRouter();
   const lang = (locale === 'nl' ? 'nl' : 'en') as 'en' | 'nl';
   const breadcrumbs = generatePracticalInfoBreadcrumbs(info);
-  const sources = officialSources[info.slug] ?? [];
-  const links = relatedLinks[lang];
 
   const faqJsonLd = {
     "@context": "https://schema.org",
@@ -103,20 +57,6 @@ export default function PracticalInfoDetailPage({ info }: PracticalInfoPageProps
         "text": faq.answer[lang]
       }
     }))
-  };
-
-  const articleJsonLd = {
-    "@context": "https://schema.org",
-    "@type": "Article",
-    "headline": info.title[lang],
-    "description": info.description[lang],
-    "dateModified": info.last_updated,
-    "publisher": {
-      "@type": "Organization",
-      "name": "Go2Thailand",
-      "url": "https://go2-thailand.com"
-    },
-    "url": `https://go2-thailand.com/practical-info/${info.slug}/`
   };
 
   const breadcrumbJsonLd = {
@@ -139,10 +79,6 @@ export default function PracticalInfoDetailPage({ info }: PracticalInfoPageProps
         <script
           type="application/ld+json"
           dangerouslySetInnerHTML={{ __html: JSON.stringify(faqJsonLd) }}
-        />
-        <script
-          type="application/ld+json"
-          dangerouslySetInnerHTML={{ __html: JSON.stringify(articleJsonLd) }}
         />
         <script
           type="application/ld+json"
@@ -173,29 +109,8 @@ export default function PracticalInfoDetailPage({ info }: PracticalInfoPageProps
 
         <div className="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8 py-12">
           <div className="grid lg:grid-cols-3 gap-8">
-
             {/* Main Content */}
             <div className="lg:col-span-2 space-y-12">
-
-              {/* Last updated + source notice */}
-              {info.last_updated && (
-                <div className="bg-blue-50 border border-blue-100 rounded-xl px-5 py-4 text-sm text-blue-800">
-                  {lang === 'nl' ? (
-                    <>
-                      <span className="font-semibold">Bijgewerkt:</span> {info.last_updated}.{' '}
-                      Regelgeving, prijzen en procedures in Thailand kunnen wijzigen.
-                      Controleer altijd officiële bronnen voor je vertrek.
-                    </>
-                  ) : (
-                    <>
-                      <span className="font-semibold">Last updated:</span> {info.last_updated}.{' '}
-                      Rules, prices, and procedures in Thailand can change.
-                      Always verify with official sources before you travel.
-                    </>
-                  )}
-                </div>
-              )}
-
               {/* Content Sections */}
               {info.sections.map((section, sIndex) => (
                 <section key={sIndex}>
@@ -204,7 +119,7 @@ export default function PracticalInfoDetailPage({ info }: PracticalInfoPageProps
                   </h2>
                   <div className="space-y-4">
                     {section.items.map((item, iIndex) => (
-                      <div key={iIndex} className="bg-white rounded-2xl shadow-md p-6">
+                      <div key={iIndex} className="bg-white rounded-2xl shadow-md hover:shadow-xl hover:-translate-y-1 transition-all p-6">
                         <h3 className="text-lg font-bold font-heading text-gray-900 mb-2">{item.name[lang]}</h3>
                         <p className="text-gray-700 mb-3">{item.description[lang]}</p>
                         {item.how_to_avoid && (
@@ -222,155 +137,162 @@ export default function PracticalInfoDetailPage({ info }: PracticalInfoPageProps
               ))}
 
               {/* FAQs */}
-              {info.faqs.length > 0 && (
-                <section>
-                  <h2 className="text-2xl font-bold font-heading text-gray-900 mb-6">
-                    {lang === 'nl' ? 'Veelgestelde Vragen' : 'Frequently Asked Questions'}
-                  </h2>
-                  <div className="space-y-4">
-                    {info.faqs.map((faq, index) => (
-                      <details key={index} className="bg-white rounded-2xl shadow-md group">
-                        <summary className="p-6 cursor-pointer font-bold text-gray-900 flex justify-between items-center">
-                          {faq.question[lang]}
-                          <svg className="w-5 h-5 flex-shrink-0 transform transition-transform group-open:rotate-180" fill="none" stroke="currentColor" viewBox="0 0 24 24">
-                            <path strokeLinecap="round" strokeLinejoin="round" strokeWidth="2" d="M19 9l-7 7-7-7" />
-                          </svg>
-                        </summary>
-                        <div className="px-6 pb-6 text-gray-700">
-                          {faq.answer[lang]}
-                        </div>
-                      </details>
-                    ))}
-                  </div>
-                </section>
-              )}
-
-              {/* Official Sources */}
-              {sources.length > 0 && (
-                <section>
-                  <h2 className="text-xl font-bold font-heading text-gray-900 mb-4">
-                    {lang === 'nl' ? 'Officiële Bronnen' : 'Official Sources'}
-                  </h2>
-                  <div className="bg-white rounded-2xl shadow-md p-6">
-                    <p className="text-sm text-gray-600 mb-4">
-                      {lang === 'nl'
-                        ? 'Verifieer actuele informatie via deze officiële bronnen:'
-                        : 'Verify current information through these official sources:'}
-                    </p>
-                    <ul className="space-y-2">
-                      {sources.map((source, i) => (
-                        <li key={i}>
-                          <a
-                            href={source.url}
-                            target="_blank"
-                            rel="noopener noreferrer"
-                            className="text-thailand-blue hover:underline text-sm flex items-center gap-1"
-                          >
-                            <svg className="w-3 h-3 flex-shrink-0" fill="none" stroke="currentColor" viewBox="0 0 24 24">
-                              <path strokeLinecap="round" strokeLinejoin="round" strokeWidth="2" d="M10 6H6a2 2 0 00-2 2v10a2 2 0 002 2h10a2 2 0 002-2v-4M14 4h6m0 0v6m0-6L10 14" />
-                            </svg>
-                            {source.label}
-                          </a>
-                        </li>
-                      ))}
-                    </ul>
-                  </div>
-                </section>
-              )}
+              <section>
+                <h2 className="text-2xl font-bold font-heading text-gray-900 mb-6">
+                  {lang === 'nl' ? 'Veelgestelde Vragen' : 'Frequently Asked Questions'}
+                </h2>
+                <div className="space-y-4">
+                  {info.faqs.map((faq, index) => (
+                    <details key={index} className="bg-white rounded-2xl shadow-md group">
+                      <summary className="p-6 cursor-pointer font-bold text-gray-900 flex justify-between items-center">
+                        {faq.question[lang]}
+                        <svg className="w-5 h-5 transform transition-transform group-open:rotate-180" fill="none" stroke="currentColor" viewBox="0 0 24 24">
+                          <path strokeLinecap="round" strokeLinejoin="round" strokeWidth="2" d="M19 9l-7 7-7-7" />
+                        </svg>
+                      </summary>
+                      <div className="px-6 pb-6 text-gray-700">
+                        {faq.answer[lang]}
+                      </div>
+                    </details>
+                  ))}
+                </div>
+              </section>
             </div>
 
             {/* Sidebar */}
             <aside>
               <div className="lg:sticky lg:top-4 space-y-6">
+              {/* Tips */}
+              <div className="bg-white rounded-2xl shadow-md p-6">
+                <h3 className="text-xl font-bold font-heading mb-4">
+                  {lang === 'nl' ? 'Snelle Tips' : 'Quick Tips'}
+                </h3>
+                <ul className="space-y-3">
+                  {info.tips.map((tip, index) => (
+                    <li key={index} className="flex items-start gap-2">
+                      <span className="text-yellow-500"></span>
+                      <span className="text-sm text-gray-700">{tip[lang]}</span>
+                    </li>
+                  ))}
+                </ul>
+              </div>
 
-                {/* Quick Tips */}
-                {info.tips.length > 0 && (
-                  <div className="bg-white rounded-2xl shadow-md p-6">
-                    <h3 className="text-xl font-bold font-heading mb-4">
-                      {lang === 'nl' ? 'Snelle Tips' : 'Quick Tips'}
-                    </h3>
-                    <ul className="space-y-3">
-                      {info.tips.map((tip, index) => (
-                        <li key={index} className="flex items-start gap-2">
-                          <span className="text-yellow-500 mt-0.5">&#9679;</span>
-                          <span className="text-sm text-gray-700">{tip[lang]}</span>
-                        </li>
-                      ))}
-                    </ul>
-                  </div>
-                )}
-
-                {/* Related Pages */}
-                <div className="bg-white rounded-2xl shadow-md p-6">
-                  <h3 className="text-xl font-bold font-heading mb-4">
-                    {lang === 'nl' ? 'Gerelateerd' : 'Related'}
-                  </h3>
-                  <div className="space-y-2">
-                    {links.map((link, i) => (
-                      <Link
-                        key={i}
-                        href={link.href}
-                        className="block text-thailand-blue hover:underline text-sm"
-                      >
-                        {link.label}
-                      </Link>
-                    ))}
-                  </div>
+              {/* Related Pages */}
+              <div className="bg-white rounded-2xl shadow-md p-6">
+                <h3 className="text-xl font-bold font-heading mb-4">
+                  {lang === 'nl' ? 'Gerelateerd' : 'Related'}
+                </h3>
+                <div className="space-y-2">
+                  <Link href="/visa/" className="block text-thailand-blue hover:underline text-sm">{lang === 'nl' ? 'Visum Gids' : 'Visa Guide'}</Link>
+                  <Link href="/weather/" className="block text-thailand-blue hover:underline text-sm">{lang === 'nl' ? 'Weer Gids' : 'Weather Guide'}</Link>
+                  <Link href="/transport/" className="block text-thailand-blue hover:underline text-sm">{lang === 'nl' ? 'Transport' : 'Transport'}</Link>
+                  <Link href="/practical-info/" className="block text-thailand-blue hover:underline text-sm">← {lang === 'nl' ? 'Alle praktische info' : 'All practical info'}</Link>
                 </div>
+              </div>
 
-                {/* Travel Insurance — editorial note, no urgency copy */}
-                <div className="bg-surface-dark text-white rounded-2xl p-6">
-                  <h3 className="text-xl font-bold font-heading mb-2">
-                    {lang === 'nl' ? 'Reisverzekering' : 'Travel Insurance'}
-                  </h3>
-                  <p className="text-sm opacity-80 mb-4">
-                    {lang === 'nl'
-                      ? 'Medische zorg in Thailand kan duur zijn voor buitenlanders. Een reisverzekering met medische dekking wordt sterk aanbevolen door zowel de TAT als de meeste ambassades.'
-                      : 'Medical care in Thailand can be expensive for foreign nationals. Travel insurance with medical coverage is strongly recommended by TAT and most embassies.'}
-                  </p>
-                  <Link
-                    href="/travel-insurance-thailand/"
-                    className="block bg-white text-thailand-blue text-center px-4 py-2 rounded-xl font-semibold hover:bg-surface-cream transition-colors text-sm"
+              {/* Travel Insurance */}
+              <div className="bg-surface-dark text-white rounded-2xl p-6">
+                <h3 className="text-xl font-bold font-heading mb-2">{lang === 'nl' ? 'Reisverzekering' : 'Travel Insurance'}</h3>
+                <p className="text-sm opacity-90 mb-4">
+                  {lang === 'nl'
+                    ? 'Bescherm jezelf op reis. Vergelijk de beste reisverzekeringen.'
+                    : 'Protect yourself while traveling. Compare the best travel insurance.'}
+                </p>
+                <Link href="/travel-insurance-thailand/" className="block bg-white text-thailand-blue text-center px-4 py-2 rounded-xl font-semibold hover:bg-surface-cream transition-colors">
+                  {lang === 'nl' ? 'Vergelijk Nu' : 'Compare Now'}
+                </Link>
+              </div>
+
+              {/* eSIM */}
+              <div className="bg-white rounded-2xl shadow-md p-6">
+                <h3 className="text-xl font-bold font-heading mb-2">Thailand eSIM</h3>
+                <p className="text-sm text-gray-600 mb-4">
+                  {lang === 'nl'
+                    ? 'Blijf verbonden in Thailand. Bestel je eSIM vooraf.'
+                    : 'Stay connected in Thailand. Order your eSIM before you go.'}
+                </p>
+                <a
+                  href="https://saily.tpo.lv/rf9lidnE"
+                  target="_blank"
+                  rel="noopener noreferrer"
+                  className="block bg-thailand-blue text-white text-center px-4 py-2 rounded-xl font-semibold hover:bg-thailand-red transition-colors mb-2"
+                >
+                  Saily eSIM
+                </a>
+                <Link href="/esim/" className="block text-thailand-blue text-center text-sm hover:underline">
+                  {lang === 'nl' ? 'Meer eSIM opties →' : 'More eSIM options →'}
+                </Link>
+              </div>
+
+              {/* Book Hotels */}
+              <div className="bg-white rounded-2xl shadow-md p-6">
+                <h3 className="text-xl font-bold font-heading mb-3">
+                  {lang === 'nl' ? 'Boek Hotels' : 'Book Hotels'}
+                </h3>
+                <div className="space-y-3">
+                  <a
+                    href="https://booking.tpo.lv/2PT1kR82"
+                    target="_blank"
+                    rel="noopener noreferrer"
+                    className="block bg-thailand-blue text-white text-center px-4 py-2 rounded-xl font-semibold hover:bg-thailand-red transition-colors text-sm"
                   >
-                    {lang === 'nl' ? 'Vergelijk verzekeringen' : 'Compare insurance options'}
-                  </Link>
-                </div>
-
-                {/* Connectivity */}
-                <div className="bg-white rounded-2xl shadow-md p-6">
-                  <h3 className="text-xl font-bold font-heading mb-2">
-                    {lang === 'nl' ? 'Verblijf Verbonden' : 'Staying Connected'}
-                  </h3>
-                  <p className="text-sm text-gray-600 mb-4">
-                    {lang === 'nl'
-                      ? 'Thaise SIM-kaarten zijn goedkoop en breed verkrijgbaar op de luchthaven en in 7-Eleven winkels. Een eSIM werkt ook voor de meeste moderne telefoons.'
-                      : 'Thai SIM cards are affordable and widely available at the airport and 7-Eleven stores. An eSIM also works for most modern phones.'}
-                  </p>
-                  <Link
-                    href="/esim/"
-                    className="block text-thailand-blue text-sm hover:underline text-center"
+                    Booking.com
+                  </a>
+                  <a
+                    href="https://trip.tpo.lv/TmObooZ5"
+                    target="_blank"
+                    rel="noopener noreferrer"
+                    className="block bg-thailand-blue text-white text-center px-4 py-2 rounded-xl font-semibold hover:bg-thailand-red transition-colors text-sm"
                   >
-                    {lang === 'nl' ? 'SIM & eSIM gids →' : 'SIM & eSIM guide →'}
-                  </Link>
+                    Trip.com
+                  </a>
                 </div>
+                <p className="text-xs text-gray-500 mt-3 text-center">Affiliate links</p>
+              </div>
 
+              {/* Activities */}
+              <div className="bg-white rounded-2xl shadow-md p-6">
+                <h3 className="text-xl font-bold font-heading mb-3">
+                  {lang === 'nl' ? 'Activiteiten' : 'Activities'}
+                </h3>
+                <div className="space-y-3">
+                  <a
+                    href="https://klook.tpo.lv/7Dt6WApj"
+                    target="_blank"
+                    rel="noopener noreferrer"
+                    className="block bg-thailand-red text-white text-center px-4 py-2 rounded-xl font-semibold hover:bg-thailand-blue transition-colors text-sm"
+                  >
+                    Klook Activities
+                  </a>
+                  <a
+                    href="https://getyourguide.tpo.lv/GuAFfGGK"
+                    target="_blank"
+                    rel="noopener noreferrer"
+                    className="block bg-thailand-red text-white text-center px-4 py-2 rounded-xl font-semibold hover:bg-thailand-blue transition-colors text-sm"
+                  >
+                    GetYourGuide Tours
+                  </a>
+                </div>
+                <p className="text-xs text-gray-500 mt-3 text-center">Affiliate links</p>
+              </div>
               </div>
             </aside>
-
           </div>
         </div>
 
-        {/* Footer nav back to hub */}
-        <section className="py-8 bg-white border-t">
-          <div className="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8 text-center">
-            <Link
-              href="/practical-info/"
-              className="text-thailand-blue hover:underline font-medium"
-            >
-              {lang === 'nl' ? '← Terug naar alle praktische info' : '← Back to all practical info'}
-            </Link>
-          </div>
-        </section>
+        <PreFooterAffiliateBanner
+          title={lang === 'nl' ? 'Plan Je Thailand Reis' : 'Plan Your Thailand Trip'}
+          description={lang === 'nl' ? 'Boek hotels, transport en activiteiten' : 'Book hotels, transport and activities'}
+          links={[
+            { label: 'Booking.com', href: 'https://booking.tpo.lv/2PT1kR82' },
+            { label: 'Trip.com', href: 'https://trip.tpo.lv/TmObooZ5' },
+            { label: 'Activities', href: 'https://klook.tpo.lv/7Dt6WApj' },
+            { label: 'Transport', href: 'https://12go.tpo.lv/tNA80urD' },
+            { label: 'eSIM', href: 'https://saily.tpo.lv/rf9lidnE' },
+            { label: 'NordVPN', href: 'https://nordvpn.tpo.lv/ekHF1i55' },
+            { label: 'NordPass', href: 'https://nordvpn.tpo.lv/tp12zNjC' },
+          ]}
+        />
       </div>
     </>
   );

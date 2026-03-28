@@ -1,0 +1,24 @@
+{
+  "lastRun": null,
+  "phase": "city-clusters",
+  "totalCities": 40,
+  "citiesCompleted": [],
+  "citiesPending": [
+    "satun", "bangkok", "chiang-mai", "phuket", "krabi", "pattaya", "koh-samui",
+    "nong-khai", "chiang-rai", "hua-hin", "ayutthaya", "kanchanaburi", "hat-yai",
+    "khon-kaen", "pai", "chanthaburi", "chumphon", "nakhon-si-thammarat",
+    "prachinburi", "mae-hong-son", "bueng-kan", "chiang-khan", "chiang-khong",
+    "mukdahan", "nakhon-phanom", "sukhothai", "surat-thani", "trang", "trat",
+    "rayong", "lampang", "lopburi", "phetchaburi", "phitsanulok",
+    "kamphaeng-phet", "nakhon-ratchasima", "nan", "buriram",
+    "ubon-ratchathani", "udon-thani"
+  ],
+  "templatesFixed": [],
+  "templatesPending": [
+    "nightlife/index",
+    "food/category/index",
+    "province/index",
+    "weather/index",
+    "nightlife/[slug]"
+  ]
+}

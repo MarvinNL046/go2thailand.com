@@ -107,11 +107,130 @@ const WeatherIndex: React.FC<WeatherIndexProps> = ({ cities }) => {
 
         {/* Introduction */}
         <section className="bg-white rounded-2xl shadow-md p-6 mb-8">
-          <p className="text-gray-700 leading-relaxed">
-            Planning your Thailand adventure? Understanding the weather is key to a perfect trip. 
-            Thailand has three main seasons: Cool (November-February), Hot (March-May), and Rainy (June-October). 
+          <p className="text-gray-700 leading-relaxed mb-4">
+            Planning your Thailand adventure? Understanding the weather is key to a perfect trip.
+            Thailand has three main seasons: Cool (November–February), Hot (March–May), and Rainy (June–October).
             Each region and city has its own weather patterns. Use this guide to find the best time to visit each destination.
           </p>
+          <p className="text-gray-700 leading-relaxed mb-4">
+            One of the most important things to understand is that Thailand's two coastlines operate on opposite monsoon schedules. The <strong>Andaman coast</strong> (Phuket, Krabi, Koh Lanta, Koh Phi Phi) receives the southwest monsoon from May to October — this is its wet season, with some beaches and boat services closing entirely in September and October. The <strong>Gulf of Thailand coast</strong> (Koh Samui, Koh Phangan, Koh Tao, Hua Hin) is largely sheltered from the southwest monsoon and instead gets its rain from the northeast monsoon in November and December. This means that when Phuket is at peak season (December–April), Koh Samui's best months are January–September.
+          </p>
+          <p className="text-gray-700 leading-relaxed">
+            Northern Thailand (Chiang Mai, Chiang Rai) follows yet another pattern: a genuine cool season from November to February with temperatures sometimes dropping to 10°C at night in the mountains, a very hot and smoky March–April (burning season), and a green, lush rainy season from June to October that transforms the mountains into excellent trekking terrain.
+          </p>
+        </section>
+
+        {/* Activities by Season */}
+        <section className="bg-white rounded-2xl shadow-md p-6 mb-8">
+          <p className="section-label">Activities</p>
+          <h2 className="text-2xl font-bold font-heading mb-6">Activities by Season</h2>
+          <div className="grid grid-cols-1 md:grid-cols-2 gap-6">
+            <div className="bg-surface-cream rounded-2xl p-5">
+              <h3 className="font-bold font-heading text-lg text-gray-900 mb-3">Scuba Diving & Snorkelling</h3>
+              <p className="text-sm text-gray-700 mb-3">
+                The best diving in Thailand depends entirely on which coast you're visiting. The Andaman Sea (Similan Islands, Koh Bon, Richelieu Rock) has its finest visibility from <strong>November to April</strong> — calm seas, 30m+ visibility, and whale sharks from February to April. The Similan Islands National Park closes entirely May–October. Gulf of Thailand dive sites (Koh Tao, Sail Rock, Chumphon Pinnacle) are diveable year-round, with peak conditions from <strong>March to September</strong>. Koh Tao has some of the cheapest PADI dive certification courses in the world.
+              </p>
+              <p className="text-xs text-thailand-gold font-medium">Best months: Nov–Apr (Andaman) | Mar–Sep (Gulf)</p>
+            </div>
+            <div className="bg-surface-cream rounded-2xl p-5">
+              <h3 className="font-bold font-heading text-lg text-gray-900 mb-3">Trekking & Hiking</h3>
+              <p className="text-sm text-gray-700 mb-3">
+                The cool season (<strong>November to February</strong>) is prime trekking time in northern Thailand. Temperatures in Chiang Mai sit at 15–25°C, jungle trails are dry and manageable, and hill tribe village stays are comfortable. Doi Inthanon, Doi Pha Hom Pok, and the trails around Mae Hong Son are all at their best. Avoid trekking in March–April when forest fires create dangerous smoke and heat. Rainy season (June–October) makes northern jungles lush and photogenic but trails can be slippery and leech-heavy — waterproof boots essential.
+              </p>
+              <p className="text-xs text-thailand-gold font-medium">Best months: Nov–Feb (north), Jun–Oct for lush scenery</p>
+            </div>
+            <div className="bg-surface-cream rounded-2xl p-5">
+              <h3 className="font-bold font-heading text-lg text-gray-900 mb-3">Beach Holidays</h3>
+              <p className="text-sm text-gray-700 mb-3">
+                For the classic Thailand beach holiday — turquoise water, white sand, low waves — timing depends on your destination. <strong>Phuket and Krabi</strong>: December to March is peak season with flat seas and full sun. <strong>Koh Samui and Koh Phangan</strong>: January to September, avoiding the northeast monsoon in November–December. <strong>Koh Chang</strong> (eastern coast): November to May. For families wanting guaranteed beach weather across the whole country, <strong>January and February</strong> are the safest months — both coastlines are simultaneously at their best.
+              </p>
+              <p className="text-xs text-thailand-gold font-medium">Best months: Dec–Mar (Andaman) | Jan–Sep (Gulf coast)</p>
+            </div>
+            <div className="bg-surface-cream rounded-2xl p-5">
+              <h3 className="font-bold font-heading text-lg text-gray-900 mb-3">Festivals & Cultural Events</h3>
+              <p className="text-sm text-gray-700 mb-3">
+                Thailand's festival calendar offers year-round reasons to visit. <strong>Songkran</strong> (Thai New Year water festival) fills Bangkok, Chiang Mai, and every city in April — the world's largest water fight and an unmissable experience. <strong>Loi Krathong</strong> in November (floating candle boats on rivers) is the most visually stunning festival. <strong>Yi Peng</strong> in Chiang Mai (same week as Loi Krathong) releases thousands of sky lanterns — one of the most photographed events on earth. The <strong>Vegetarian Festival</strong> in Phuket (October) involves extreme devotion rituals. <strong>Ubon Candle Festival</strong> (July) draws crowds to Isan.
+              </p>
+              <p className="text-xs text-thailand-gold font-medium">Best months: Apr (Songkran), Nov (Loi Krathong/Yi Peng)</p>
+            </div>
+            <div className="bg-surface-cream rounded-2xl p-5">
+              <h3 className="font-bold font-heading text-lg text-gray-900 mb-3">Wildlife & Birdwatching</h3>
+              <p className="text-sm text-gray-700 mb-3">
+                Khao Yai National Park (UNESCO World Heritage) is best from <strong>November to June</strong> — elephants, gibbons, and hornbills are reliably seen. The rainy season (July–October) brings animals to water sources but trails flood. For whale sharks and manta rays at the Similan Islands, target <strong>February to April</strong>. Doi Inthanon in the north has over 360 bird species; the cool season (November–February) brings rare high-altitude migrants. The Mangrove forests of Krabi and Phang Nga are best explored October–April before the monsoon.
+              </p>
+              <p className="text-xs text-thailand-gold font-medium">Best months: Nov–Apr for most wildlife experiences</p>
+            </div>
+            <div className="bg-surface-cream rounded-2xl p-5">
+              <h3 className="font-bold font-heading text-lg text-gray-900 mb-3">Budget Travel & Fewer Crowds</h3>
+              <p className="text-sm text-gray-700 mb-3">
+                The shoulder and low seasons offer significant savings. <strong>May–June</strong> (just as rains begin) and <strong>September–October</strong> (rainy season peak) see hotel prices drop 30–50% and popular attractions become manageable. Bangkok is always busy, but Phuket in June or Chiang Mai in October feel genuinely uncrowded. The trade-off is weather risk — but in practice, most rainy season days have morning sunshine and afternoon showers, not all-day rain. Budget travellers who can be flexible with activities will find these months excellent value.
+              </p>
+              <p className="text-xs text-thailand-gold font-medium">Best months: May–Jun and Sep–Oct for value</p>
+            </div>
+          </div>
+        </section>
+
+        {/* Monsoon Explained */}
+        <section className="bg-white rounded-2xl shadow-md p-6 mb-8">
+          <p className="section-label">Climate Science</p>
+          <h2 className="text-2xl font-bold font-heading mb-4">The Two Monsoons Explained</h2>
+          <div className="grid grid-cols-1 md:grid-cols-2 gap-6">
+            <div className="border-l-4 border-blue-400 pl-5">
+              <h3 className="font-bold font-heading text-lg text-gray-900 mb-2">Southwest Monsoon (Andaman Coast)</h3>
+              <p className="text-sm text-gray-700 mb-3">
+                Arrives: Late May / June<br />
+                Departs: October / early November
+              </p>
+              <p className="text-sm text-gray-700">
+                The southwest monsoon rolls in from the Indian Ocean, hitting the Andaman coast of Thailand (Phuket, Krabi, Ranong, Trang, Satun) with the full force of tropical rain. June to August brings heavy rain, strong seas, and boat cancellations. September and October are the worst months on this coast. By November, the southwest monsoon retreats and the Andaman Sea becomes a mirror — beginning peak beach season that runs through April.
+              </p>
+            </div>
+            <div className="border-l-4 border-teal-400 pl-5">
+              <h3 className="font-bold font-heading text-lg text-gray-900 mb-2">Northeast Monsoon (Gulf Coast)</h3>
+              <p className="text-sm text-gray-700 mb-3">
+                Arrives: October / November<br />
+                Departs: January / February
+              </p>
+              <p className="text-sm text-gray-700">
+                The northeast monsoon affects the Gulf of Thailand coastline (Koh Samui, Koh Phangan, Koh Tao, Hua Hin). November and December bring significant rain and rough seas to Koh Samui in particular — the island has a notorious reputation for bad weather in December that catches first-timers off guard. The flip side: while the Andaman coast bakes in dry-season sun, the Gulf coast is perfectly calm from January through September, making it the better choice for most of the year.
+              </p>
+            </div>
+          </div>
+          <div className="mt-6 bg-surface-cream rounded-xl p-4">
+            <p className="text-sm text-gray-700">
+              <strong>Practical tip:</strong> If you want to island-hop between the Andaman and Gulf coasts in a single trip, January and February are the safest months when both coasts simultaneously have good weather. December through April is reliably dry on the Andaman; January through September on the Gulf. Avoid flying directly from Phuket to Koh Samui in November or December — there's a high chance both ends of that journey will be wet.
+            </p>
+          </div>
+        </section>
+
+        {/* Festival Calendar */}
+        <section className="bg-white rounded-2xl shadow-md p-6 mb-8">
+          <p className="section-label">Events</p>
+          <h2 className="text-2xl font-bold font-heading mb-6">Thailand Festival Calendar 2026</h2>
+          <div className="space-y-4">
+            {[
+              { month: 'January', festival: 'Bo Sang Umbrella Festival', location: 'Chiang Mai', desc: 'Three-day craft festival celebrating the hand-painted paper umbrella tradition of the Bo Sang village. Miss Bo Sang beauty pageant, craft demonstrations, and cultural parade.' },
+              { month: 'February', festival: 'Chinese New Year / Makha Bucha', location: 'Bangkok (Chinatown), nationwide', desc: 'Chinese New Year fills Yaowarat Road in Bangkok with dragon dances and lanterns. Makha Bucha (Buddhist holy day) sees candlelit circumambulations at every temple nationwide.' },
+              { month: 'March', festival: 'Elephant Festival', location: 'Surin', desc: 'Surin province celebrates its elephant-mahout heritage with parades, historical re-enactments, and elephant demonstrations at the Surin Elephant Study Centre.' },
+              { month: 'April', festival: 'Songkran (Thai New Year)', location: 'Nationwide — biggest in Chiang Mai and Bangkok', desc: 'Thailand\'s biggest celebration — a 3-day water festival marking the Thai New Year (April 13–15). Streets become nationwide water fights. Temple visits, merit-making, and family reunions also central. Chiang Mai\'s Songkran is considered the most spectacular.' },
+              { month: 'May', festival: 'Royal Ploughing Ceremony / Visakha Bucha', location: 'Bangkok / Nationwide', desc: 'The Royal Ploughing Ceremony at Sanam Luang in Bangkok is an ancient Brahman ritual that predicts the year\'s agricultural fortunes. Visakha Bucha (most important Buddhist holiday) involves candlelit processions at temples nationwide.' },
+              { month: 'July', festival: 'Ubon Ratchathani Candle Festival / Asalha Bucha', location: 'Ubon Ratchathani', desc: 'One of the most spectacular regional festivals in Thailand: enormous intricately carved beeswax candles paraded through the city to mark Buddhist Lent (Khao Phansa). Best experienced in Ubon but celebrated across Isan.' },
+              { month: 'October', festival: 'Vegetarian Festival (Tesagan Gin Je)', location: 'Phuket', desc: 'Nine-day Chinese Taoist festival in Phuket involving extreme devotional acts (body piercing, fire-walking), strict vegetarian diet, and street processions. Not for the faint-hearted — one of the most intense ritual experiences in Southeast Asia.' },
+              { month: 'November', festival: 'Loi Krathong & Yi Peng Lantern Festival', location: 'Nationwide — most spectacular in Chiang Mai', desc: 'Loi Krathong (25 November 2026) sees millions of candlelit banana-leaf floats released on rivers and lakes nationwide. In Chiang Mai, the simultaneous Yi Peng festival releases thousands of sky lanterns (khom loi) — one of the most photographed spectacles in Asia. Book accommodation months ahead.' },
+              { month: 'December', festival: 'Lopburi Monkey Festival / King\'s Birthday', location: 'Lopburi / Nationwide', desc: 'Lopburi\'s famous macaque residents get an annual feast (December) in thanks for bringing tourism. Thailand\'s national day on December 5 marks the late King Bhumibol\'s birthday with celebrations and illuminations in Bangkok.' },
+            ].map((item) => (
+              <div key={item.festival} className="flex gap-4 border-b border-gray-100 pb-4 last:border-0">
+                <div className="w-24 flex-shrink-0">
+                  <span className="text-sm font-bold text-thailand-gold">{item.month}</span>
+                </div>
+                <div>
+                  <h3 className="font-semibold text-gray-900">{item.festival}</h3>
+                  <p className="text-xs text-gray-500 mb-1">{item.location}</p>
+                  <p className="text-sm text-gray-700">{item.desc}</p>
+                </div>
+              </div>
+            ))}
+          </div>
         </section>
 
         <div className="grid grid-cols-1 lg:grid-cols-3 gap-8">

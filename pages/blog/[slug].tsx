@@ -1,13 +1,17 @@
 import { GetStaticPaths, GetStaticProps } from 'next';
+import { useEffect } from 'react';
 import Link from 'next/link';
 import Image from 'next/image';
 import { useRouter } from 'next/router';
 import SEOHead from '../../components/SEOHead';
 import Breadcrumbs from '../../components/Breadcrumbs';
+import TripcomWidget from '../../components/TripcomWidget';
+import PreFooterAffiliateBanner from '../../components/PreFooterAffiliateBanner';
 import AuthorBio from '../../components/blog/AuthorBio';
 import Sources from '../../components/blog/Sources';
 import LastUpdated from '../../components/blog/LastUpdated';
 import RelatedPosts from '../../components/blog/RelatedPosts';
+import TravelSecurityAffiliateBlock from '../../components/blog/TravelSecurityAffiliateBlock';
 import ShareButtons from '../../components/ShareButtons';
 import InlineAd from '../../components/ads/InlineAd';
 import { getAllPosts, getPostBySlug, getRelatedPosts } from '../../lib/blog';
@@ -44,12 +48,59 @@ interface BlogPostPageProps {
   relatedPosts: BlogPost[];
 }
 
+// Travelpayouts embed script URLs — keyed by widget type matching data-widget attribute
+// Empty string means no script widget is available; the fallback CTA box will remain visible
+const WIDGET_SCRIPTS: Record<string, string> = {
+  booking: 'https://tpembd.com/content?trs=421888&shmarker=602467&locale=en&sustainable=false&deals=false&border_radius=5&plain=true&powered_by=true&promo_id=2693&campaign_id=84',
+  klook: 'https://tpembd.com/content?currency=USD&trs=421888&shmarker=602467&locale=en&category=4&amount=3&powered_by=true&campaign_id=137&promo_id=4497',
+  getyourguide: 'https://tpembd.com/content?trs=421888&shmarker=602467&locale=en-US&powered_by=true&campaign_id=108&promo_id=4039',
+  viator: 'https://tpembd.com/content?currency=usd&trs=421888&shmarker=602467&powered_by=true&locale=en&lowest_price=&highest_price=&min_lines=5&color_button=%23346A6C&promo_id=5850&campaign_id=47',
+  '12go': 'https://tpembd.com/content?trs=421888&shmarker=602467&locale=en&from=Bangkok&to=Phuket&from_en=Bangkok&to_en=Phuket&powered_by=true&color=black&border=1&campaign_id=44&promo_id=1506',
+  trip: 'https://tpembd.com/content?trs=421888&shmarker=602467&lang=www&layout=S10391&powered_by=true&campaign_id=121&promo_id=4038',
+  saily: '',     // No script widget available, fallback CTA box only
+  nordvpn: '',   // No script widget available, fallback CTA box only
+  nordpass: '',  // No script widget available, fallback CTA box only
+};
+
 function toAbsoluteImageUrl(image: string) {
   return /^https?:\/\//i.test(image) ? image : `https://go2-thailand.com${image}`;
 }
 
 export default function BlogPostPage({ post, relatedPosts }: BlogPostPageProps) {
   const { locale } = useRouter();
+
+  // Hydrate widget placeholders with real Travelpayouts embed scripts on the client
+  useEffect(() => {
+    const contentEl = document.querySelector('[data-blog-content]');
+    if (!contentEl) return;
+
+    const widgetDivs = contentEl.querySelectorAll<HTMLElement>('[data-widget]');
+    widgetDivs.forEach((div) => {
+      const widgetType = div.getAttribute('data-widget');
+      if (!widgetType || !(widgetType in WIDGET_SCRIPTS)) return;
+
+      const scriptSrc = WIDGET_SCRIPTS[widgetType];
+      if (!scriptSrc) return; // No script widget for this type, keep fallback CTA box
+
+      // Create a container for the script widget above the fallback CTA box
+      const scriptContainer = document.createElement('div');
+      scriptContainer.style.margin = '0';
+
+      const script = document.createElement('script');
+      script.src = scriptSrc;
+      script.async = true;
+      script.charset = 'utf-8';
+
+      // When the script loads successfully, hide the fallback CTA box
+      script.onload = () => {
+        const fallback = div.querySelector('[data-widget-fallback]');
+        if (fallback) (fallback as HTMLElement).style.display = 'none';
+      };
+
+      scriptContainer.appendChild(script);
+      div.insertBefore(scriptContainer, div.firstChild);
+    });
+  }, []);
 
   const breadcrumbs = [
     { name: 'Home', href: '/' },
@@ -118,6 +169,7 @@ export default function BlogPostPage({ post, relatedPosts }: BlogPostPageProps) 
         description={post.description}
         ogImage={toAbsoluteImageUrl(post.image)}
       >
+        <meta name="keywords" content={post.tags.join(', ')} />
         <meta property="og:type" content="article" />
         <meta property="article:published_time" content={post.date} />
         <meta property="article:author" content={post.author.name} />
@@ -163,11 +215,11 @@ export default function BlogPostPage({ post, relatedPosts }: BlogPostPageProps) 
                   </Link>
                 </div>
                 <h1 className="text-3xl lg:text-5xl font-bold font-heading mb-6">{post.title}</h1>
-                <div className="flex flex-wrap items-center gap-4 text-lg">
+                <div className="flex items-center gap-6 text-lg">
                   <span>{post.author.name}</span>
-                  <span aria-hidden>·</span>
-                  <time dateTime={post.date}>{post.date}</time>
-                  <span aria-hidden>·</span>
+                  <span>-</span>
+                  <span>{post.date}</span>
+                  <span>-</span>
                   <span>{post.readingTime} min read</span>
                 </div>
               </div>
@@ -201,8 +253,6 @@ export default function BlogPostPage({ post, relatedPosts }: BlogPostPageProps) 
                       image={shareImage}
                     />
                   </div>
-
-                  {/* Article Body */}
                   {post.contentHtml ? (
                     <div
                       data-blog-content
@@ -213,7 +263,7 @@ export default function BlogPostPage({ post, relatedPosts }: BlogPostPageProps) 
                     <p className="text-gray-700">{post.description}</p>
                   )}
 
-                  {/* Sources / References */}
+                  {/* Sources */}
                   {post.sources && post.sources.length > 0 && (
                     <Sources sources={post.sources} locale={locale} />
                   )}
@@ -223,7 +273,7 @@ export default function BlogPostPage({ post, relatedPosts }: BlogPostPageProps) 
 
                   {/* Tags */}
                   <div className="mt-8 pt-8 border-t">
-                    <h3 className="font-bold font-heading mb-4">Topics covered</h3>
+                    <h3 className="font-bold font-heading mb-4">Tags</h3>
                     <div className="flex flex-wrap gap-2">
                       {post.tags.map(tag => {
                         const tagSlug = tag.toLowerCase().trim().replace(/[^a-z0-9]+/g, '-').replace(/^-|-$/g, '');
@@ -259,37 +309,150 @@ export default function BlogPostPage({ post, relatedPosts }: BlogPostPageProps) 
               {/* Sidebar */}
               <aside className="lg:col-span-4 lg:self-start">
                 <div className="lg:sticky lg:top-4 space-y-6">
-                  {/* Related Articles */}
-                  {relatedPosts.length > 0 && (
-                    <div className="bg-white rounded-2xl shadow-md p-6">
-                      <h2 className="font-bold font-heading text-lg mb-4">Related Articles</h2>
-                      <div className="space-y-4">
-                        {relatedPosts.map(relatedPost => (
-                          <article key={relatedPost.slug}>
-                            <Link href={`/blog/${relatedPost.slug}/`} className="group">
-                              <h3 className="font-medium group-hover:text-thailand-blue transition-colors line-clamp-2">
-                                {relatedPost.title}
-                              </h3>
-                              <p className="text-sm text-gray-500 mt-1">{relatedPost.readingTime} min read</p>
-                            </Link>
-                          </article>
-                        ))}
-                      </div>
-                    </div>
-                  )}
+                {/* Newsletter */}
+                <div className="bg-surface-dark text-white rounded-2xl p-6">
+                  <span className="section-label font-script text-thailand-gold text-sm">Stay in the loop</span>
+                  <h3 className="text-xl font-bold font-heading mb-2">Get Thailand Updates</h3>
+                  <p className="mb-4 text-sm opacity-90">Weekly travel tips and guides</p>
+                  <input
+                    type="email"
+                    placeholder="Your email"
+                    className="w-full px-4 py-2 rounded-xl text-gray-900 mb-3"
+                  />
+                  <button className="w-full bg-thailand-red text-white font-medium py-2 rounded-xl hover:bg-thailand-red/90">
+                    Subscribe
+                  </button>
+                </div>
 
-                  {/* Explore More */}
+                {/* Related Posts */}
+                {relatedPosts.length > 0 && (
                   <div className="bg-white rounded-2xl shadow-md p-6">
-                    <h2 className="font-bold font-heading text-lg mb-4">Explore More</h2>
-                    <div className="space-y-2">
-                      <Link href="/islands/" className="block text-thailand-blue hover:underline text-sm">Thailand Islands</Link>
-                      <Link href="/visa/" className="block text-thailand-blue hover:underline text-sm">Visa Guide</Link>
-                      <Link href="/food/" className="block text-thailand-blue hover:underline text-sm">Thai Food</Link>
-                      <Link href="/practical-info/" className="block text-thailand-blue hover:underline text-sm">Practical Info</Link>
-                      <Link href="/transport/" className="block text-thailand-blue hover:underline text-sm">Getting Around</Link>
-                      <Link href="/blog/" className="block text-thailand-blue hover:underline text-sm">← All blog posts</Link>
+                    <h3 className="font-bold font-heading text-lg mb-4">Related Articles</h3>
+                    <div className="space-y-4">
+                      {relatedPosts.map(relatedPost => (
+                        <article key={relatedPost.slug}>
+                          <Link href={`/blog/${relatedPost.slug}/`} className="group">
+                            <h4 className="font-medium group-hover:text-thailand-blue transition-colors line-clamp-2">
+                              {relatedPost.title}
+                            </h4>
+                            <p className="text-sm text-gray-600 mt-1">{relatedPost.readingTime} min read</p>
+                          </Link>
+                        </article>
+                      ))}
                     </div>
                   </div>
+                )}
+
+                <TravelSecurityAffiliateBlock />
+
+                {/* Explore */}
+                <div className="bg-white rounded-2xl shadow-md p-6">
+                  <h3 className="font-bold font-heading text-lg mb-4">Explore More</h3>
+                  <div className="space-y-2">
+                    <Link href="/islands/" className="block text-thailand-blue hover:underline text-sm">Thailand Islands</Link>
+                    <Link href="/visa/" className="block text-thailand-blue hover:underline text-sm">Visa Guide</Link>
+                    <Link href="/food/" className="block text-thailand-blue hover:underline text-sm">Thai Food</Link>
+                    <Link href="/practical-info/" className="block text-thailand-blue hover:underline text-sm">Practical Info</Link>
+                    <Link href="/blog/" className="block text-thailand-blue hover:underline text-sm">← All blog posts</Link>
+                  </div>
+                </div>
+
+                {/* Trip.com Hotel Widget */}
+                <TripcomWidget city="Thailand" type="searchbox" customTitle="Find Thailand Hotels" />
+
+                {/* Book Hotels */}
+                <div className="bg-white rounded-2xl shadow-md p-6">
+                  <h3 className="text-xl font-bold font-heading mb-3">Book Hotels</h3>
+                  <div className="space-y-3">
+                    <a
+                      href="https://booking.tpo.lv/2PT1kR82"
+                      target="_blank"
+                      rel="noopener noreferrer"
+                      className="block bg-thailand-blue text-white text-center px-4 py-2 rounded-xl font-semibold hover:bg-thailand-blue/90 transition-colors text-sm"
+                    >
+                      Booking.com
+                    </a>
+                    <a
+                      href="https://trip.tpo.lv/TmObooZ5"
+                      target="_blank"
+                      rel="noopener noreferrer"
+                      className="block bg-thailand-blue text-white text-center px-4 py-2 rounded-xl font-semibold hover:bg-thailand-blue/90 transition-colors text-sm"
+                    >
+                      Trip.com
+                    </a>
+                  </div>
+                  <p className="text-xs text-gray-500 mt-3 text-center">Affiliate links</p>
+                </div>
+
+                {/* Tours & Activities */}
+                <div className="bg-white rounded-2xl shadow-md p-6">
+                  <h3 className="text-xl font-bold font-heading mb-3">Tours & Activities</h3>
+                  <div className="space-y-3">
+                    <a
+                      href="https://klook.tpo.lv/7Dt6WApj"
+                      target="_blank"
+                      rel="noopener noreferrer"
+                      className="block bg-thailand-red text-white text-center px-4 py-2 rounded-xl font-semibold hover:bg-thailand-red/90 transition-colors text-sm"
+                    >
+                      Klook Activities
+                    </a>
+                    <a
+                      href="https://getyourguide.tpo.lv/GuAFfGGK"
+                      target="_blank"
+                      rel="noopener noreferrer"
+                      className="block bg-thailand-red text-white text-center px-4 py-2 rounded-xl font-semibold hover:bg-thailand-red/90 transition-colors text-sm"
+                    >
+                      GetYourGuide Tours
+                    </a>
+                  </div>
+                  <p className="text-xs text-gray-500 mt-3 text-center">Affiliate links</p>
+                </div>
+
+                {/* eSIM */}
+                <div className="bg-white rounded-2xl shadow-md p-6">
+                  <h3 className="text-xl font-bold font-heading mb-2">Thailand eSIM</h3>
+                  <p className="text-sm text-gray-600 mb-4">
+                    Stay connected in Thailand. Order your eSIM before you go.
+                  </p>
+                  <a
+                    href="https://saily.tpo.lv/rf9lidnE"
+                    target="_blank"
+                    rel="noopener noreferrer"
+                    className="block bg-thailand-blue text-white text-center px-4 py-2 rounded-xl font-semibold hover:bg-thailand-blue/90 transition-colors mb-2"
+                  >
+                    Saily eSIM
+                  </a>
+                  <Link href="/esim/" className="block text-thailand-blue text-center text-sm hover:underline">
+                    More eSIM options →
+                  </Link>
+                </div>
+
+                {/* Travel Insurance */}
+                <div className="bg-surface-dark text-white rounded-2xl p-6">
+                  <h3 className="text-xl font-bold font-heading mb-2">Travel Insurance</h3>
+                  <p className="text-sm opacity-90 mb-4">
+                    Protect yourself while traveling. Compare the best travel insurance.
+                  </p>
+                  <Link href="/travel-insurance-thailand/" className="block bg-thailand-red text-white text-center px-4 py-2 rounded-xl font-semibold hover:bg-thailand-red/90 transition-colors">
+                    Compare Now
+                  </Link>
+                </div>
+
+                {/* Transport */}
+                <div className="bg-white rounded-2xl shadow-md p-6">
+                  <h3 className="text-xl font-bold font-heading mb-3">Transport</h3>
+                  <a
+                    href="https://12go.tpo.lv/tNA80urD"
+                    target="_blank"
+                    rel="noopener noreferrer"
+                    className="block bg-thailand-blue text-white text-center px-4 py-2 rounded-xl font-semibold hover:bg-thailand-blue/90 transition-colors text-sm mb-2"
+                  >
+                    12Go Asia - Book Transport
+                  </a>
+                  <Link href="/transport/" className="block text-thailand-blue text-center text-sm hover:underline">
+                    View all routes →
+                  </Link>
+                </div>
                 </div>
               </aside>
             </div>
@@ -298,6 +461,20 @@ export default function BlogPostPage({ post, relatedPosts }: BlogPostPageProps) 
 
         {/* People Also Read */}
         <RelatedPosts posts={relatedPosts} locale={locale} />
+
+        <PreFooterAffiliateBanner
+          title="Plan Your Thailand Trip"
+          description="Book hotels, transport, activities, and get connected with an eSIM"
+          links={[
+            { label: 'Booking.com', href: 'https://booking.tpo.lv/2PT1kR82' },
+            { label: 'Trip.com', href: 'https://trip.tpo.lv/TmObooZ5' },
+            { label: 'Activities', href: 'https://klook.tpo.lv/7Dt6WApj' },
+            { label: 'Transport', href: 'https://12go.tpo.lv/tNA80urD' },
+            { label: 'eSIM', href: 'https://saily.tpo.lv/rf9lidnE' },
+            { label: 'NordVPN', href: 'https://nordvpn.tpo.lv/ekHF1i55' },
+            { label: 'NordPass', href: 'https://nordvpn.tpo.lv/tp12zNjC' },
+          ]}
+        />
       </article>
     </>
   );
@@ -322,6 +499,7 @@ export const getStaticProps: GetStaticProps = async ({ params, locale }) => {
   const post = await getPostBySlug(slug, lang);
 
   if (!post) {
+    // Try fallback to English if not found in requested locale
     const fallbackPost = await getPostBySlug(slug, 'en');
     if (!fallbackPost) {
       return { notFound: true };

@@ -75,6 +75,12 @@ const nextConfig = {
         destination: '/city/:slug/hotels/',
         permanent: true,
       },
+      // Travel insurance duplicate URL → canonical page
+      {
+        source: '/travel-insurance-thailand/',
+        destination: '/travel-insurance/',
+        permanent: true,
+      },
     ]
   },
   // Optimize for Vercel deployment
