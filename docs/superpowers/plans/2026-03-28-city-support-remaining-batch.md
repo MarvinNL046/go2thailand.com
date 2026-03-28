@@ -6,14 +6,14 @@
 - Use `/home/marvin/Projecten/go2thailand.com/city-support-upgrade-tracker.json` as source of truth
 - Start with `execution.next_pending`
 - Work city by city in sequence
-- Do not mark a city `done` until the full support cluster passes validation
+- Do not mark a city `done` until the full support cluster passes validation, including any routes intentionally kept `noindex`
 - Commit one fully validated city per commit by default; only batch consecutive cities when the same shared-template fix applies cleanly across them, and never include more than 3 fully validated cities in one commit
 - Stop only for blockers that cannot be resolved from the runbook, tracker, local validation, or primary-source research
 - If `execution.next_pending` is empty, the workflow is complete; otherwise keep `execution.next_pending` set to the first city whose status is not `done`
 - Update tracker statuses deterministically: set a route to `in_progress` when it becomes the active route for the city selected by `execution.next_pending`; set it to `done` only after its route-level validation passes; if the final full-cluster validation fails for that route, move it back to `in_progress`
 - If all 9 routes are `done` but the final full-cluster validation pass has not yet succeeded, set the city status to `validation_pending`
 - Recompute the stored city status from the route-status rollup after every route-status change and correct any stale stored value before continuing
-- Record intentional `noindex` decisions during execution in tracker notes using this exact schema: `indexing_decision: noindex; routes: [route-a, route-b]; reason: [brief rationale]; review_date: YYYY-MM-DD`; do not record indexing decisions for routes intended to remain indexable; only mark a city `done` after the full support cluster passes validation
+- Record intentional `noindex` decisions during execution in tracker notes using this exact schema: `indexing_decision: noindex; routes: [route-a, route-b]; reason: [brief rationale]; review_date: YYYY-MM-DD`; do not record indexing decisions for routes intended to remain indexable; a `noindex` route still must return HTTP `200` and pass the same technical/content validation as an indexable route; only mark a city `done` after the full support cluster passes validation
 
 ## Per-City Checklist
 
@@ -24,7 +24,7 @@
 5. Move that route to `done` only after its route-level gates pass
 6. Recompute and correct the stored city status after the route-status change
 7. Repeat steps 3-6 for the next not-yet-done route in that city
-8. Once all 9 routes are `done`, run the final full-cluster validation pass
+8. Once all 9 routes are `done`, run the final full-cluster validation pass, including HTTP `200`, leak-scan, visible-source, and content checks for any intentionally `noindex` routes
 9. If the final full-cluster validation fails, move the failing route back to `in_progress` and correct the city status before continuing
 10. Continue to the next pending city
 
@@ -86,4 +86,4 @@ For any route intentionally kept noindex, run a separate check:
 curl -s "$BASE_URL/city/[slug]/[route]/" | rg -n '<meta[^>]*name="robots"[^>]*content="[^"]*noindex'
 ```
 
-Record the tracker note before marking the city complete using this exact schema: `indexing_decision: noindex; routes: [route-a, route-b]; reason: [brief rationale]; review_date: YYYY-MM-DD`.
+Record the tracker note before marking the city complete using this exact schema: `indexing_decision: noindex; routes: [route-a, route-b]; reason: [brief rationale]; review_date: YYYY-MM-DD`. A `noindex` decision never replaces route-health validation; it only changes indexing treatment.

@@ -153,7 +153,8 @@ Use route status values deterministically during each city pass:
 Apply these transitions exactly:
 
 - when work begins on the city selected by `execution.next_pending`, set the first not-yet-done route in `route_order_within_city` to `in_progress`
-- move `in_progress` -> `done` only after the route renders `200` or is intentionally documented as `noindex`, the leak scan is clean, the visible-source gate passes when supported, and any required indexing decision is recorded
+- move `in_progress` -> `done` only after the route renders `200`, the leak scan is clean, the visible-source gate passes when supported, and any required indexing decision is recorded
+- a route that is intentionally kept `noindex` still must render `200` and pass the same technical and content validation; `noindex` changes indexing treatment only, not route health
 - if the route-level validation for any route fails after it was marked `done`, move that route back to `in_progress` immediately
 
 Derive and correct the stored city status from the route statuses after every route-status change:
@@ -235,13 +236,13 @@ Treat any `missing visible source signal:` output as a failed gate for that rout
 If a route is intentionally kept `noindex`, confirm and document it before the city can be marked done:
 
 - Write the decision in the city support tracker notes as `indexing_decision: noindex` with the route list, reason, and review date. Do not record indexing decisions for routes that are intended to be indexable.
-- Confirm the rendered HTML contains a `meta[name="robots"]` tag whose content includes `noindex`.
-- Keep the route in the same pass only if the page is still strong enough to remain non-thin despite `noindex`.
+- Confirm the rendered HTML contains a `meta[name="robots"]` tag whose content includes `noindex`, and still confirm the route returns HTTP `200`.
+- Keep the route in the same pass only if it also passes the same leak scan, visible-source checks, and content-quality validation as an indexable route; `noindex` does not relax any route-quality gate.
 - If the tracker note and rendered HTML do not match, treat the route as undecided and do not mark the city done.
 
 Mark a city `done` only if all of these are true:
 
-- all 9 support routes render `200` or are intentionally kept noindex with strong non-thin content
+- all 9 support routes render `200`, including any routes intentionally kept `noindex`
 - no first-person AI copy remains in rendered English HTML
 - no stale rating-spam or scrape-era copy remains
 - no stale affiliate-first or booking-first template leak dominates the page
