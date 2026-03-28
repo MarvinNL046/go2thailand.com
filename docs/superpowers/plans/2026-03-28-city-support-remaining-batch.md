@@ -4,7 +4,7 @@
 
 - Follow `/home/marvin/Projecten/go2thailand.com/CITY_SUPPORT_UPGRADE_RUNBOOK.md`
 - Use `/home/marvin/Projecten/go2thailand.com/city-support-upgrade-tracker.json` as source of truth
-- Start with `execution.next_pending`
+- Start with the first city whose status is not `done`
 - Work city by city in sequence
 - Do not mark a city `done` until the full support cluster passes validation
 - Commit after a city passes validation, or after a small contiguous batch of cities has passed without any unresolved shared-template risk
@@ -35,9 +35,15 @@
 ```bash
 jq empty data/enhanced/[slug].json
 npx tsc --noEmit
-for route in food hotels attractions best-time-to-visit budget cooking-classes muay-thai elephant-sanctuaries diving-snorkeling; do
-  test "$(curl -s -o /dev/null -w '%{http_code}' "http://127.0.0.1:3010/city/[slug]/${route}/")" = "200"
-done
+test "$(curl -s -o /dev/null -w '%{http_code}' "http://127.0.0.1:3010/city/[slug]/food/")" = "200"
+test "$(curl -s -o /dev/null -w '%{http_code}' "http://127.0.0.1:3010/city/[slug]/hotels/")" = "200"
+test "$(curl -s -o /dev/null -w '%{http_code}' "http://127.0.0.1:3010/city/[slug]/attractions/")" = "200"
+test "$(curl -s -o /dev/null -w '%{http_code}' "http://127.0.0.1:3010/city/[slug]/best-time-to-visit/")" = "200"
+test "$(curl -s -o /dev/null -w '%{http_code}' "http://127.0.0.1:3010/city/[slug]/budget/")" = "200"
+test "$(curl -s -o /dev/null -w '%{http_code}' "http://127.0.0.1:3010/city/[slug]/cooking-classes/")" = "200"
+test "$(curl -s -o /dev/null -w '%{http_code}' "http://127.0.0.1:3010/city/[slug]/muay-thai/")" = "200"
+test "$(curl -s -o /dev/null -w '%{http_code}' "http://127.0.0.1:3010/city/[slug]/elephant-sanctuaries/")" = "200"
+test "$(curl -s -o /dev/null -w '%{http_code}' "http://127.0.0.1:3010/city/[slug]/diving-snorkeling/")" = "200"
 ```
 
 Render each route and scan the HTML for stale AI copy, scrape leftovers, affiliate-first copy, and missing source signals before marking a city complete:
@@ -45,8 +51,14 @@ Render each route and scan the HTML for stale AI copy, scrape leftovers, affilia
 ```bash
 for route in food hotels attractions best-time-to-visit budget cooking-classes muay-thai elephant-sanctuaries diving-snorkeling; do
   curl -s "http://127.0.0.1:3010/city/[slug]/${route}/" > "/tmp/[slug]-${route}.html"
-  rg -n "TripAdvisor|tp\\.media|review_count|affiliate_url|trip_affiliate_url|book now|current rates|verified hotel data|I visited|I stayed|our insider|first-person|isAccessibleForFree|noindex" "/tmp/[slug]-${route}.html"
+  rg -n "TripAdvisor|tp\\.media|review_count|affiliate_url|trip_affiliate_url|book now|current rates|verified hotel data|I visited|I stayed|our insider|first-person|isAccessibleForFree" "/tmp/[slug]-${route}.html"
 done
 ```
 
-If any route is intentionally noindex, verify the rendered HTML contains a `meta[name="robots"]` tag with `noindex` and record the route plus review date in the tracker before marking the city complete.
+For any route intentionally kept noindex, run a separate check:
+
+```bash
+curl -s "http://127.0.0.1:3010/city/[slug]/[route]/" | rg -n '<meta[^>]*name="robots"[^>]*content="[^"]*noindex'
+```
+
+Record the route plus review date in the tracker before marking the city complete.
