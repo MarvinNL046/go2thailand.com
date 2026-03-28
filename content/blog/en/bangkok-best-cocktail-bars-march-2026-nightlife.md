@@ -10,7 +10,7 @@ image: "/images/blog/thailand-news-default.webp"
 description: "Three of Bangkok's best bars have reinvented their drink menus in early 2026. From rooftop reinventions to hidden speakeasies, here is where to drink in Bangkok right now."
 featured: false
 readingTime: 3
-lastUpdated: "2026-03-22"
+lastUpdated: "2026-03-28"
 sources:
   - name: "BangkokScoop — Bangkok Nightlife 2026: Best Cocktails & Newly Revamped Bars to Visit This March"
     url: "https://bangkokscoop.com/bangkok-nightlife-2026-best-cocktails-newly-revamped-bars-to-visit-this-march/"
@@ -24,31 +24,31 @@ sources:
 
 ## Bangkok's Bar Scene Just Got a Refresh
 
-Bangkok has never been short on places to drink, but early 2026 has brought a fresh wave of reinventions across the city's top cocktail venues. Three high-profile bars have overhauled their menus and concepts, giving visitors a reason to explore beyond the usual rooftop spots.
+[Bangkok](/city/bangkok/) has never been short on places to drink, but early 2026 has brought a fresh wave of reinventions across the city's top cocktail venues. Three high-profile bars have overhauled their menus and concepts, giving visitors a reason to explore beyond the usual [rooftop spots](/travel-guides/nightlife-rooftop-bars-thailand/).
 
-Here is where to head for the best cocktails in Bangkok right now.
+Here is where to head for the best cocktails in [Bangkok](/city/bangkok/top-10-attractions/) right now.
 
 ## Bar.Yard at Kimpton Maa-Lai Bangkok
 
-Bar.Yard, the rooftop venue at the Kimpton Maa-Lai on Langsuan Road, has undergone a bold reinvention under Chef Julio Cesar Concha Munoz. The new programme blends Thai cultural influences with an elevated food and beverage concept. Expect cocktails that incorporate local herbs and Thai flavour profiles alongside creative bar snacks. The rooftop setting with garden vibes makes it one of the more relaxed upscale options in the Chidlom area.
+Bar.Yard, the rooftop venue at the [Kimpton Maa-Lai on Langsuan Road](/blog/chilli-fest-2026-kimpton-maa-lai-bangkok/), has undergone a bold reinvention under Chef Julio Cesar Concha Munoz. The new programme blends Thai cultural influences with an elevated food and beverage concept. Expect cocktails that incorporate local herbs and Thai flavour profiles alongside creative bar snacks. The rooftop setting with garden vibes makes it one of the more relaxed upscale options in the Chidlom area.
 
-**Getting there:** BTS Chidlom, then a five-minute walk south on Langsuan Road.
+**Getting there:** [BTS](/blog/bangkok-public-transport-bts-mrt-tourist-guide-2026/) Chidlom, then a five-minute walk south on Langsuan Road.
 
 ## Aqua Bar at Anantara Siam Bangkok Hotel
 
-One of Bangkok's most established hotel bars recently celebrated its 20th anniversary with a thoughtful reimagining. The new menu features eight distinct "Potions of the Garden" — a cocktail journey inspired by nature and its quiet moods. Each drink tells a botanical story, and the bar's lush, intimate atmosphere near Ratchadamri Road makes it a refined stop for an evening out.
+One of [Bangkok's](/city/bangkok/) most established hotel bars recently celebrated its 20th anniversary with a thoughtful reimagining. The new menu features eight distinct "Potions of the Garden" — a cocktail journey inspired by nature and its quiet moods. Each drink tells a botanical story, and the bar's lush, intimate atmosphere near Ratchadamri Road makes it a refined stop for an evening out.
 
-**Getting there:** BTS Ratchadamri, then a short walk to the Anantara Siam on Rajadamri Road.
+**Getting there:** BTS Ratchadamri, then a short walk to the [Anantara Siam](/blog/anantara-siam-bangkok-50-million-renovation-garden-suites-2026/) on Rajadamri Road.
 
 ## Rabbit Hole in Thonglor
 
-Tucked behind an unmarked door on Thonglor Soi 10, Rabbit Hole remains one of Bangkok's best speakeasies. Run by award-winning Thai bartender Supawit "Palm" Muttaratana, this three-storey bar is known for adventurous, boundary-pushing drinks. The Thonglor location puts it right in the heart of Bangkok's trendiest nightlife strip, close to 72 Courtyard and dozens of other bars and restaurants.
+Tucked behind an unmarked door on Thonglor Soi 10, Rabbit Hole remains one of Bangkok's best speakeasies. Run by award-winning Thai bartender Supawit "Palm" Muttaratana, this three-storey bar is known for adventurous, boundary-pushing drinks. The Thonglor location puts it right in the heart of [Bangkok's trendiest nightlife](/blog/bangkok-new-rooftop-bars-2026-sato-san-sanctuary-iris/) strip, close to 72 Courtyard and dozens of other bars and restaurants.
 
 **Getting there:** BTS Thong Lo, then a short taxi or walk into Soi Thonglor.
 
 ## Quick Tips for Bangkok Nightlife in 2026
 
-- **Last call:** Thailand's extended 4 am closing law applies to designated entertainment zones, but most cocktail bars still close around midnight to 1 am.
+- **Last call:** Thailand's extended [4 am closing law](/blog/thailand-4am-closing-time-nightlife-law-2026/) applies to designated entertainment zones, but most cocktail bars still close around midnight to 1 am.
 - **Dress code:** Smart casual is fine for most venues. Avoid flip-flops and singlets at hotel bars.
-- **Budget:** Craft cocktails in Bangkok range from 350 to 550 baht (roughly $10 to $16 USD). Beer is cheaper at 120 to 200 baht.
-- **Thonglor crawl:** If you want a full night out, start with dinner on Thonglor, move to Rabbit Hole, then finish at 72 Courtyard — all within walking distance.
+- **Budget:** Craft cocktails in [Bangkok](/city/bangkok/food/) range from 350 to 550 baht (roughly $10 to $16 USD). Beer is cheaper at 120 to 200 baht. For a cheaper night, the [craft beer scene](/blog/bangkok-craft-beer-scene-2026-bars-festivals-guide/) is worth exploring too.
+- **Thonglor crawl:** If you want a full night out, start with [dinner on Thonglor](/city/bangkok/top-10-restaurants/), move to Rabbit Hole, then finish at 72 Courtyard — all within walking distance. [Best hotels in Bangkok](/best-hotels/bangkok/) nearby make it easy to stumble home.
