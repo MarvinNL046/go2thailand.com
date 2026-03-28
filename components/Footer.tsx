@@ -172,12 +172,27 @@ const Footer = () => {
           </div>
         </div>
 
-        {/* Large Decorative Brand Text */}
-        <div className="overflow-hidden border-t border-white/5">
-          <div className="container-custom py-6">
-            <p className="font-heading text-6xl lg:text-8xl font-bold text-white/[0.03] select-none whitespace-nowrap tracking-wider">
-              Go2Thailand
+        {/* Go2 Travel Network */}
+        <div className="border-t border-white/5">
+          <div className="container-custom py-8">
+            <h3 className="font-heading text-sm font-semibold text-white tracking-wider uppercase mb-4 text-center">
+              Go2 Travel Network
+            </h3>
+            <p className="text-gray-500 text-xs text-center mb-4">
+              Explore our destination guides across Asia, Europe, Africa, and the Americas
             </p>
+            <div className="flex flex-wrap justify-center gap-x-6 gap-y-2">
+              <a href="https://go2-bali.com" target="_blank" rel="noopener" className="text-gray-400 hover:text-thailand-red text-sm transition-colors">Go2Bali</a>
+              <a href="https://go2-vietnam.com" target="_blank" rel="noopener" className="text-gray-400 hover:text-thailand-red text-sm transition-colors">Go2Vietnam</a>
+              <a href="https://go2-japan.com" target="_blank" rel="noopener" className="text-gray-400 hover:text-thailand-red text-sm transition-colors">Go2Japan</a>
+              <a href="https://go2-china.com" target="_blank" rel="noopener" className="text-gray-400 hover:text-thailand-red text-sm transition-colors">Go2China</a>
+              <a href="https://go2-india.com" target="_blank" rel="noopener" className="text-gray-400 hover:text-thailand-red text-sm transition-colors">Go2India</a>
+              <a href="https://go2-spain.com" target="_blank" rel="noopener" className="text-gray-400 hover:text-thailand-red text-sm transition-colors">Go2Spain</a>
+              <a href="https://go2-france.com" target="_blank" rel="noopener" className="text-gray-400 hover:text-thailand-red text-sm transition-colors">Go2France</a>
+              <a href="https://go2-morocco.com" target="_blank" rel="noopener" className="text-gray-400 hover:text-thailand-red text-sm transition-colors">Go2Morocco</a>
+              <a href="https://go2-mexico.com" target="_blank" rel="noopener" className="text-gray-400 hover:text-thailand-red text-sm transition-colors">Go2Mexico</a>
+              <a href="https://go2-usa.com" target="_blank" rel="noopener" className="text-gray-400 hover:text-thailand-red text-sm transition-colors">Go2USA</a>
+            </div>
           </div>
         </div>
 
