@@ -144,42 +144,43 @@ Do not force indexability onto a weak page, and do not leave `noindex` in place 
 
 ## Local Render Port Convention
 
-Use `127.0.0.1:3010` for all local render validation in this runbook.
+Use `http://127.0.0.1:3010` as the local render base URL in this runbook.
 
 - Run the app on port `3010` before checking routes.
 - Do not mix `3010` and `3001` inside the same validation pass.
-- If the app is already running on a different port, update the whole pass to that one port consistently before you start the checks.
+- If the app is already running on a different port, update the whole pass to that one port consistently before you start the checks, then replace `BASE_URL` in the validation block below once for the full pass.
 
 ## Validation Gates
 
 Before marking a city done, run:
 
 ```bash
+BASE_URL=http://127.0.0.1:3010
 jq empty data/enhanced/[slug].json
 npx tsc --noEmit
-curl -s http://127.0.0.1:3010/city/[slug]/food/
-curl -s http://127.0.0.1:3010/city/[slug]/hotels/
-curl -s http://127.0.0.1:3010/city/[slug]/attractions/
-curl -s http://127.0.0.1:3010/city/[slug]/best-time-to-visit/
-curl -s http://127.0.0.1:3010/city/[slug]/budget/
-curl -s http://127.0.0.1:3010/city/[slug]/cooking-classes/
-curl -s http://127.0.0.1:3010/city/[slug]/muay-thai/
-curl -s http://127.0.0.1:3010/city/[slug]/elephant-sanctuaries/
-curl -s http://127.0.0.1:3010/city/[slug]/diving-snorkeling/
+test "$(curl -s -o /dev/null -w '%{http_code}' "$BASE_URL/city/[slug]/food/")" = "200"
+test "$(curl -s -o /dev/null -w '%{http_code}' "$BASE_URL/city/[slug]/hotels/")" = "200"
+test "$(curl -s -o /dev/null -w '%{http_code}' "$BASE_URL/city/[slug]/attractions/")" = "200"
+test "$(curl -s -o /dev/null -w '%{http_code}' "$BASE_URL/city/[slug]/best-time-to-visit/")" = "200"
+test "$(curl -s -o /dev/null -w '%{http_code}' "$BASE_URL/city/[slug]/budget/")" = "200"
+test "$(curl -s -o /dev/null -w '%{http_code}' "$BASE_URL/city/[slug]/cooking-classes/")" = "200"
+test "$(curl -s -o /dev/null -w '%{http_code}' "$BASE_URL/city/[slug]/muay-thai/")" = "200"
+test "$(curl -s -o /dev/null -w '%{http_code}' "$BASE_URL/city/[slug]/elephant-sanctuaries/")" = "200"
+test "$(curl -s -o /dev/null -w '%{http_code}' "$BASE_URL/city/[slug]/diving-snorkeling/")" = "200"
 ```
 
 Then check the rendered HTML for explicit leak patterns:
 
 ```bash
-curl -s http://127.0.0.1:3010/city/[slug]/food/ | rg -n "TripAdvisor|tp\\.media|review_count|affiliate_url|trip_affiliate_url|current rates|verified hotel data|first-person|I visited|I stayed|our insider|book now"
-curl -s http://127.0.0.1:3010/city/[slug]/hotels/ | rg -n "TripAdvisor|tp\\.media|review_count|affiliate_url|trip_affiliate_url|current rates|verified hotel data|first-person|I visited|I stayed|our insider|book now"
-curl -s http://127.0.0.1:3010/city/[slug]/attractions/ | rg -n "TripAdvisor|tp\\.media|review_count|affiliate_url|trip_affiliate_url|current rates|verified hotel data|first-person|I visited|I stayed|our insider|book now"
-curl -s http://127.0.0.1:3010/city/[slug]/best-time-to-visit/ | rg -n "TripAdvisor|tp\\.media|review_count|affiliate_url|trip_affiliate_url|current rates|verified hotel data|first-person|I visited|I stayed|our insider|book now"
-curl -s http://127.0.0.1:3010/city/[slug]/budget/ | rg -n "TripAdvisor|tp\\.media|review_count|affiliate_url|trip_affiliate_url|current rates|verified hotel data|first-person|I visited|I stayed|our insider|book now"
-curl -s http://127.0.0.1:3010/city/[slug]/cooking-classes/ | rg -n "TripAdvisor|tp\\.media|review_count|affiliate_url|trip_affiliate_url|current rates|verified hotel data|first-person|I visited|I stayed|our insider|book now"
-curl -s http://127.0.0.1:3010/city/[slug]/muay-thai/ | rg -n "TripAdvisor|tp\\.media|review_count|affiliate_url|trip_affiliate_url|current rates|verified hotel data|first-person|I visited|I stayed|our insider|book now"
-curl -s http://127.0.0.1:3010/city/[slug]/elephant-sanctuaries/ | rg -n "TripAdvisor|tp\\.media|review_count|affiliate_url|trip_affiliate_url|current rates|verified hotel data|first-person|I visited|I stayed|our insider|book now"
-curl -s http://127.0.0.1:3010/city/[slug]/diving-snorkeling/ | rg -n "TripAdvisor|tp\\.media|review_count|affiliate_url|trip_affiliate_url|current rates|verified hotel data|first-person|I visited|I stayed|our insider|book now"
+curl -s "$BASE_URL/city/[slug]/food/" | rg -n "TripAdvisor|tp\\.media|review_count|affiliate_url|trip_affiliate_url|current rates|verified hotel data|first-person|I visited|I stayed|our insider|book now"
+curl -s "$BASE_URL/city/[slug]/hotels/" | rg -n "TripAdvisor|tp\\.media|review_count|affiliate_url|trip_affiliate_url|current rates|verified hotel data|first-person|I visited|I stayed|our insider|book now"
+curl -s "$BASE_URL/city/[slug]/attractions/" | rg -n "TripAdvisor|tp\\.media|review_count|affiliate_url|trip_affiliate_url|current rates|verified hotel data|first-person|I visited|I stayed|our insider|book now"
+curl -s "$BASE_URL/city/[slug]/best-time-to-visit/" | rg -n "TripAdvisor|tp\\.media|review_count|affiliate_url|trip_affiliate_url|current rates|verified hotel data|first-person|I visited|I stayed|our insider|book now"
+curl -s "$BASE_URL/city/[slug]/budget/" | rg -n "TripAdvisor|tp\\.media|review_count|affiliate_url|trip_affiliate_url|current rates|verified hotel data|first-person|I visited|I stayed|our insider|book now"
+curl -s "$BASE_URL/city/[slug]/cooking-classes/" | rg -n "TripAdvisor|tp\\.media|review_count|affiliate_url|trip_affiliate_url|current rates|verified hotel data|first-person|I visited|I stayed|our insider|book now"
+curl -s "$BASE_URL/city/[slug]/muay-thai/" | rg -n "TripAdvisor|tp\\.media|review_count|affiliate_url|trip_affiliate_url|current rates|verified hotel data|first-person|I visited|I stayed|our insider|book now"
+curl -s "$BASE_URL/city/[slug]/elephant-sanctuaries/" | rg -n "TripAdvisor|tp\\.media|review_count|affiliate_url|trip_affiliate_url|current rates|verified hotel data|first-person|I visited|I stayed|our insider|book now"
+curl -s "$BASE_URL/city/[slug]/diving-snorkeling/" | rg -n "TripAdvisor|tp\\.media|review_count|affiliate_url|trip_affiliate_url|current rates|verified hotel data|first-person|I visited|I stayed|our insider|book now"
 ```
 
 If a route is intentionally kept `noindex`, confirm and document it before the city can be marked done:
