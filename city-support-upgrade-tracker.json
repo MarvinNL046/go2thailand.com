@@ -29,7 +29,7 @@
     "start_rule": "Start with execution.next_pending and continue top-to-bottom in listed city order. If every city status is done, execution.next_pending must be null.",
     "selection_rule": "Work top-to-bottom in listed city order. Keep next_pending set to the first city whose status is not done, and recompute/correct it before a new pass begins if it has drifted. When no city remains outside done, set next_pending to null.",
     "preflight_rule": "Before any new pass begins, recompute execution.next_pending from the first city whose status is not done; if the stored value differs, correct it before any route work, validation, or status change starts. If no city qualifies, store execution.next_pending as null.",
-    "next_pending": "nakhon-phanom",
+    "next_pending": "nakhon-ratchasima",
     "route_order_within_city": [
       "food",
       "hotels",
@@ -367,19 +367,19 @@
     },
     {
       "slug": "nakhon-phanom",
-      "status": "pending",
+      "status": "done",
       "routes": {
-        "food": "pending",
-        "hotels": "pending",
-        "attractions": "pending",
-        "best-time-to-visit": "pending",
-        "budget": "pending",
-        "cooking-classes": "pending",
-        "muay-thai": "pending",
-        "elephant-sanctuaries": "pending",
-        "diving-snorkeling": "pending"
+        "food": "done",
+        "hotels": "done",
+        "attractions": "done",
+        "best-time-to-visit": "done",
+        "budget": "done",
+        "cooking-classes": "done",
+        "muay-thai": "done",
+        "elephant-sanctuaries": "done",
+        "diving-snorkeling": "done"
       },
-      "notes": ""
+      "notes": "indexing_decision: noindex; routes: [budget, cooking-classes, muay-thai, elephant-sanctuaries, diving-snorkeling]; reason: These routes are honest limited-fit planning pages with visible sources and clean scans, but they remain narrower planning layers rather than standalone destination pillars; review_date: 2026-03-28"
     },
     {
       "slug": "nakhon-ratchasima",
