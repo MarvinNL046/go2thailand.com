@@ -49,9 +49,6 @@ interface Props {
   affiliates: CityAffiliates | null;
 }
 
-const GYG_AFFILIATE = 'https://getyourguide.tpo.lv/6HngJ5FC';
-const KLOOK_AFFILIATE = 'https://klook.tpo.lv/7Dt6WApj';
-
 function StarRating({ rating }: { rating: number }) {
   const fullStars = Math.floor(rating);
   return (
@@ -171,14 +168,16 @@ export default function DivingSnorkelingPage({ city, divingData, affiliates }: P
                       <div className="text-2xl font-bold text-gray-900">{formatPrice(activity.priceFrom, loc)}</div>
                       <div className="text-xs text-gray-500">per person</div>
                     </div>
-                    <a
-                      href={GYG_AFFILIATE}
-                      target="_blank"
-                      rel="noopener noreferrer sponsored"
-                      className="inline-flex items-center px-6 py-2 bg-thailand-blue text-white font-semibold rounded-xl hover:bg-thailand-blue-600 transition-colors text-sm"
-                    >
-                      View on GetYourGuide
-                    </a>
+                    {affiliates?.getyourguide && (
+                      <a
+                        href={affiliates.getyourguide}
+                        target="_blank"
+                        rel="noopener noreferrer sponsored"
+                        className="inline-flex items-center px-6 py-2 bg-thailand-blue text-white font-semibold rounded-xl hover:bg-thailand-blue-600 transition-colors text-sm"
+                      >
+                        View on GetYourGuide
+                      </a>
+                    )}
                   </div>
                 </div>
               </div>
@@ -293,12 +292,16 @@ export default function DivingSnorkelingPage({ city, divingData, affiliates }: P
                 Compare prices and find the perfect underwater experience on these trusted platforms.
               </p>
               <div className="flex flex-col sm:flex-row gap-4 justify-center">
-                <a href={GYG_AFFILIATE} target="_blank" rel="noopener noreferrer sponsored" className="inline-flex items-center justify-center px-8 py-3 bg-white text-thailand-blue font-semibold rounded-xl hover:bg-gray-100 transition-colors">
-                  Browse on GetYourGuide
-                </a>
-                <a href={KLOOK_AFFILIATE} target="_blank" rel="noopener noreferrer sponsored" className="inline-flex items-center justify-center px-8 py-3 bg-white/20 text-white font-semibold rounded-xl hover:bg-white/30 transition-colors border border-white/40">
-                  Browse on Klook
-                </a>
+                {affiliates?.getyourguide && (
+                  <a href={affiliates.getyourguide} target="_blank" rel="noopener noreferrer sponsored" className="inline-flex items-center justify-center px-8 py-3 bg-white text-thailand-blue font-semibold rounded-xl hover:bg-gray-100 transition-colors">
+                    Browse on GetYourGuide
+                  </a>
+                )}
+                {affiliates?.klook && (
+                  <a href={affiliates.klook} target="_blank" rel="noopener noreferrer sponsored" className="inline-flex items-center justify-center px-8 py-3 bg-white/20 text-white font-semibold rounded-xl hover:bg-white/30 transition-colors border border-white/40">
+                    Browse on Klook
+                  </a>
+                )}
               </div>
               <p className="text-xs text-white/70 mt-4">
                 We may earn a commission when you book through our links, at no extra cost to you.

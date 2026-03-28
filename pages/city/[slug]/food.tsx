@@ -9,6 +9,7 @@ import SEOHead from '../../../components/SEOHead';
 import CityExploreMore from '../../../components/CityExploreMore';
 import foodData from '../../../data/enhanced/food/index.json';
 import foodSpecialtiesData from '../../../data/cities/food-specialties.json';
+import { getAffiliates, CityAffiliates } from '../../../lib/affiliates';
 
 function flattenBilingual(data: any): any {
   if (data === null || data === undefined) return data;
@@ -87,9 +88,10 @@ interface CityFoodPageProps {
   city: City;
   cityFoodData?: CityFoodData;
   enhancedRestaurants: EnhancedRestaurant[];
+  affiliates: CityAffiliates | null;
 }
 
-export default function CityFoodPage({ city, cityFoodData, enhancedRestaurants }: CityFoodPageProps) {
+export default function CityFoodPage({ city, cityFoodData, enhancedRestaurants, affiliates }: CityFoodPageProps) {
   if (!city) return <div>City not found</div>;
 
   const breadcrumbs = generateBreadcrumbs(city, 'food');
@@ -424,28 +426,40 @@ export default function CityFoodPage({ city, cityFoodData, enhancedRestaurants }
                   <p className="text-gray-600 text-sm mb-4">
                     Cooking classes and food tours
                   </p>
-                  <a
-                    href="https://klook.tpo.lv/aq6ZFxvc"
-                    target="_blank"
-                    rel="noopener noreferrer sponsored"
-                    className="inline-flex items-center justify-center w-full px-6 py-3 bg-thailand-red text-white font-semibold rounded-xl hover:bg-thailand-red-600 transition-colors"
-                  >
-                    Browse on Klook
-                  </a>
+                  {affiliates?.klook ? (
+                    <a
+                      href={affiliates.klook}
+                      target="_blank"
+                      rel="noopener noreferrer sponsored"
+                      className="inline-flex items-center justify-center w-full px-6 py-3 bg-thailand-red text-white font-semibold rounded-xl hover:bg-thailand-red-600 transition-colors"
+                    >
+                      Browse on Klook
+                    </a>
+                  ) : (
+                    <Link href={`/city/${city.slug}/cooking-classes/`} className="inline-flex items-center justify-center w-full px-6 py-3 bg-thailand-red text-white font-semibold rounded-xl hover:bg-thailand-red-600 transition-colors">
+                      See Cooking Classes
+                    </Link>
+                  )}
                 </div>
                 <div className="border-0 bg-surface-cream rounded-2xl p-6 text-center">
                   <h4 className="text-lg font-bold text-gray-900 mb-2">GetYourGuide</h4>
                   <p className="text-gray-600 text-sm mb-4">
                     Food walking tours
                   </p>
-                  <a
-                    href="https://getyourguide.tpo.lv/GuAFfGGK"
-                    target="_blank"
-                    rel="noopener noreferrer sponsored"
-                    className="inline-flex items-center justify-center w-full px-6 py-3 bg-thailand-blue text-white font-semibold rounded-xl hover:bg-thailand-blue-600 transition-colors"
-                  >
-                    Browse on GetYourGuide
-                  </a>
+                  {affiliates?.getyourguide ? (
+                    <a
+                      href={affiliates.getyourguide}
+                      target="_blank"
+                      rel="noopener noreferrer sponsored"
+                      className="inline-flex items-center justify-center w-full px-6 py-3 bg-thailand-blue text-white font-semibold rounded-xl hover:bg-thailand-blue-600 transition-colors"
+                    >
+                      Browse on GetYourGuide
+                    </a>
+                  ) : (
+                    <Link href={`/city/${city.slug}/attractions/`} className="inline-flex items-center justify-center w-full px-6 py-3 bg-thailand-blue text-white font-semibold rounded-xl hover:bg-thailand-blue-600 transition-colors">
+                      See Nearby Experiences
+                    </Link>
+                  )}
                 </div>
               </div>
               <p className="text-xs text-gray-400 text-center mt-4">
@@ -515,5 +529,7 @@ export const getStaticProps: GetStaticProps = async ({ params }) => {
     // No enhanced data available
   }
 
-  return { props: { city, cityFoodData, enhancedRestaurants }, revalidate: 86400 };
+  const affiliates = getAffiliates(slug);
+
+  return { props: { city, cityFoodData, enhancedRestaurants, affiliates }, revalidate: 86400 };
 };

@@ -5,6 +5,7 @@ import Breadcrumbs from '../../../components/Breadcrumbs';
 import TripcomWidget from '../../../components/TripcomWidget';
 import SEOHead from '../../../components/SEOHead';
 import CityExploreMore from '../../../components/CityExploreMore';
+import { getAffiliates, CityAffiliates } from '../../../lib/affiliates';
 
 interface BudgetTier {
   min: number;
@@ -60,9 +61,10 @@ interface CityBudgetPageProps {
   budgetGuide: BudgetGuide | null;
   budgetReality: BudgetReality | null;
   budgetInfo: BudgetInfo | null;
+  affiliates: CityAffiliates | null;
 }
 
-export default function CityBudgetPage({ city, budgetGuide, budgetReality, budgetInfo }: CityBudgetPageProps) {
+export default function CityBudgetPage({ city, budgetGuide, budgetReality, budgetInfo, affiliates }: CityBudgetPageProps) {
   if (!city) return <div>City not found</div>;
 
   const breadcrumbs = generateBreadcrumbs(city, 'budget');
@@ -393,22 +395,22 @@ export default function CityBudgetPage({ city, budgetGuide, budgetReality, budge
                 Use these booking platforms to compare accommodation options against the budget ranges above.
               </p>
               <div className="flex flex-col sm:flex-row gap-4 justify-center">
-                <a
-                  href="https://trip.tpo.lv/TmObooZ5"
-                  target="_blank"
-                  rel="noopener noreferrer sponsored"
+                {affiliates?.booking && (
+                  <a
+                    href={affiliates.booking}
+                    target="_blank"
+                    rel="noopener noreferrer sponsored"
+                    className="inline-flex items-center justify-center px-8 py-3 bg-thailand-blue text-white font-semibold rounded-xl hover:bg-thailand-blue-600 transition-colors"
+                  >
+                    Search on Booking.com
+                  </a>
+                )}
+                <Link
+                  href={`/city/${city.slug}/hotels/`}
                   className="inline-flex items-center justify-center px-8 py-3 bg-thailand-blue text-white font-semibold rounded-xl hover:bg-thailand-blue-600 transition-colors"
                 >
-                  Search on Trip.com
-                </a>
-                <a
-                  href="https://booking.tpo.lv/2PT1kR82"
-                  target="_blank"
-                  rel="noopener noreferrer sponsored"
-                  className="inline-flex items-center justify-center px-8 py-3 bg-thailand-blue text-white font-semibold rounded-xl hover:bg-thailand-blue-600 transition-colors"
-                >
-                  Search on Booking.com
-                </a>
+                  Compare Hotel Areas
+                </Link>
               </div>
               <p className="text-xs text-gray-400 text-center mt-4">
                 We may earn a commission when you book through our links, at no extra cost to you. This helps us keep the site running.
@@ -529,6 +531,7 @@ export const getStaticProps: GetStaticProps = async ({ params }) => {
       budgetGuide,
       budgetReality,
       budgetInfo,
+      affiliates: getAffiliates(slug),
     },
     revalidate: 86400,
   };

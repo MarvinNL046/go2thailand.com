@@ -5,6 +5,7 @@ import { getCityBySlug, getCityStaticPaths, generateCityMetadata, generateBreadc
 import Breadcrumbs from '../../../components/Breadcrumbs';
 import TripcomWidget from '../../../components/TripcomWidget';
 import SEOHead from '../../../components/SEOHead';
+import { getAffiliates, CityAffiliates } from '../../../lib/affiliates';
 
 interface Attraction {
   id: number;
@@ -70,9 +71,10 @@ interface City {
 interface CityAttractionsPageProps {
   city: City;
   attractions: Attraction[];
+  affiliates: CityAffiliates | null;
 }
 
-export default function CityAttractionsPage({ city, attractions }: CityAttractionsPageProps) {
+export default function CityAttractionsPage({ city, attractions, affiliates }: CityAttractionsPageProps) {
   if (!city) {
     return <div>City not found</div>;
   }
@@ -384,28 +386,40 @@ export default function CityAttractionsPage({ city, attractions }: CityAttractio
                       <p className="text-gray-600 text-sm mb-4">
                         Book tickets and skip-the-line access
                       </p>
-                      <a
-                        href="https://klook.tpo.lv/aq6ZFxvc"
-                        target="_blank"
-                        rel="noopener noreferrer sponsored"
-                        className="inline-flex items-center justify-center w-full px-6 py-3 bg-thailand-red text-white font-semibold rounded-xl hover:bg-thailand-red-600 transition-colors"
-                      >
-                        Browse on Klook
-                      </a>
+                      {affiliates?.klook ? (
+                        <a
+                          href={affiliates.klook}
+                          target="_blank"
+                          rel="noopener noreferrer sponsored"
+                          className="inline-flex items-center justify-center w-full px-6 py-3 bg-thailand-red text-white font-semibold rounded-xl hover:bg-thailand-red-600 transition-colors"
+                        >
+                          Browse on Klook
+                        </a>
+                      ) : (
+                        <Link href="/activities/" className="inline-flex items-center justify-center w-full px-6 py-3 bg-thailand-red text-white font-semibold rounded-xl hover:bg-thailand-red-600 transition-colors">
+                          View Activities
+                        </Link>
+                      )}
                     </div>
                     <div className="border-0 bg-surface-cream rounded-2xl p-6 text-center">
                       <h4 className="text-lg font-bold text-gray-900 mb-2">GetYourGuide</h4>
                       <p className="text-gray-600 text-sm mb-4">
                         Expert-guided tours with free cancellation
                       </p>
-                      <a
-                        href="https://getyourguide.tpo.lv/GuAFfGGK"
-                        target="_blank"
-                        rel="noopener noreferrer sponsored"
-                        className="inline-flex items-center justify-center w-full px-6 py-3 bg-thailand-blue text-white font-semibold rounded-xl hover:bg-thailand-blue-600 transition-colors"
-                      >
-                        Browse on GetYourGuide
-                      </a>
+                      {affiliates?.getyourguide ? (
+                        <a
+                          href={affiliates.getyourguide}
+                          target="_blank"
+                          rel="noopener noreferrer sponsored"
+                          className="inline-flex items-center justify-center w-full px-6 py-3 bg-thailand-blue text-white font-semibold rounded-xl hover:bg-thailand-blue-600 transition-colors"
+                        >
+                          Browse on GetYourGuide
+                        </a>
+                      ) : (
+                        <Link href={`/city/${city.slug}/`} className="inline-flex items-center justify-center w-full px-6 py-3 bg-thailand-blue text-white font-semibold rounded-xl hover:bg-thailand-blue-600 transition-colors">
+                          See City Overview
+                        </Link>
+                      )}
                     </div>
                   </div>
                   <div className="text-center mt-6">
@@ -538,10 +552,13 @@ export const getStaticProps: GetStaticProps = async ({ params }) => {
   // Load enhanced attractions data
   const attractions = getEnhancedAttractionsByCity(slug);
   
+  const affiliates = getAffiliates(slug);
+
   return {
     props: {
       city,
       attractions,
+      affiliates,
     },
     revalidate: 86400,
   };

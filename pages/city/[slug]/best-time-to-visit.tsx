@@ -6,6 +6,7 @@ import TripcomWidget from '../../../components/TripcomWidget';
 import SEOHead from '../../../components/SEOHead';
 import CityExploreMore from '../../../components/CityExploreMore';
 import transportRoutes from '../../../data/transport-routes.json';
+import { getAffiliates, CityAffiliates } from '../../../lib/affiliates';
 
 interface PracticalInfo {
   bestMonths?: string[];
@@ -53,6 +54,7 @@ interface TransportRouteLink {
 interface BestTimeToVisitPageProps {
   city: City;
   topRoutes: TransportRouteLink[];
+  affiliates: CityAffiliates | null;
 }
 
 const ALL_MONTHS = ['Jan', 'Feb', 'Mar', 'Apr', 'May', 'Jun', 'Jul', 'Aug', 'Sep', 'Oct', 'Nov', 'Dec'];
@@ -72,7 +74,7 @@ const MONTH_FULL_NAMES: Record<string, string> = {
   Dec: 'December',
 };
 
-export default function BestTimeToVisitPage({ city, topRoutes }: BestTimeToVisitPageProps) {
+export default function BestTimeToVisitPage({ city, topRoutes, affiliates }: BestTimeToVisitPageProps) {
   if (!city) return <div>City not found</div>;
 
   const cityName = typeof city.name === 'string' ? city.name : city.name?.en || '';
@@ -448,30 +450,28 @@ export default function BestTimeToVisitPage({ city, topRoutes }: BestTimeToVisit
                   Use these booking platforms to compare stay and transport options alongside the timing guidance above.
                 </p>
                 <div className="flex flex-col sm:flex-row gap-4 justify-center">
-                  <a
-                    href="https://trip.tpo.lv/TmObooZ5"
-                    target="_blank"
-                    rel="noopener noreferrer sponsored"
+                  {affiliates?.booking && (
+                    <a
+                      href={affiliates.booking}
+                      target="_blank"
+                      rel="noopener noreferrer sponsored"
+                      className="inline-flex items-center justify-center px-8 py-3 bg-thailand-blue text-white font-semibold rounded-xl hover:bg-thailand-blue-600 transition-colors"
+                    >
+                      Search on Booking.com
+                    </a>
+                  )}
+                  <Link
+                    href={`/city/${city.slug}/hotels/`}
                     className="inline-flex items-center justify-center px-8 py-3 bg-thailand-blue text-white font-semibold rounded-xl hover:bg-thailand-blue-600 transition-colors"
                   >
-                    Search on Trip.com
-                  </a>
-                  <a
-                    href="https://booking.tpo.lv/2PT1kR82"
-                    target="_blank"
-                    rel="noopener noreferrer sponsored"
+                    Compare Hotel Areas
+                  </Link>
+                  <Link
+                    href={topRoutes.length > 0 ? `/transport/${topRoutes[0].slug}/` : `/city/${city.slug}/`}
                     className="inline-flex items-center justify-center px-8 py-3 bg-thailand-blue text-white font-semibold rounded-xl hover:bg-thailand-blue-600 transition-colors"
                   >
-                    Search on Booking.com
-                  </a>
-                  <a
-                    href="https://12go.tpo.lv/tNA80urD"
-                    target="_blank"
-                    rel="noopener noreferrer sponsored"
-                    className="inline-flex items-center justify-center px-8 py-3 bg-thailand-blue text-white font-semibold rounded-xl hover:bg-thailand-blue-600 transition-colors"
-                  >
-                    Book Transport on 12Go
-                  </a>
+                    Review Transport Routes
+                  </Link>
                 </div>
                 <p className="text-xs text-gray-400 text-center mt-4">
                   We may earn a commission when you book through our links, at no extra cost to you. This helps us keep the site running.
@@ -624,6 +624,7 @@ export const getStaticProps: GetStaticProps = async ({ params }) => {
     props: {
       city: JSON.parse(JSON.stringify(city)),
       topRoutes,
+      affiliates: getAffiliates(slug),
     },
     revalidate: 86400,
   };
