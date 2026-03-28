@@ -97,8 +97,6 @@ export default function BestTimeToVisitPage({ city, topRoutes, affiliates }: Bes
     '@type': 'Article',
     headline: metadata.title,
     description: metadata.description,
-    datePublished: '2026-01-15',
-    dateModified: '2026-02-22',
     author: {
       '@type': 'Organization',
       name: 'Go2Thailand',

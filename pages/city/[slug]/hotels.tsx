@@ -207,6 +207,9 @@ export default function CityHotelsPage({ city, hotelData, hasTop10Hotels, enhanc
                 {hotels.length > 0 && (
                   <div>
                     <h2 className="text-3xl font-bold font-heading text-gray-900 mb-8">Recommended Hotels in {city.name.en}</h2>
+                    <p className="text-gray-600 mb-6">
+                      Use these hotel names as area-by-area planning references. Any live booking link on this page opens a city-wide search, not a direct listing for the specific hotel card.
+                    </p>
                     {categoryOrder.map((cat) => {
                       const catHotels = hotelsByCategory[cat];
                       if (!catHotels || catHotels.length === 0) return null;
@@ -215,12 +218,9 @@ export default function CityHotelsPage({ city, hotelData, hasTop10Hotels, enhanc
                           <h3 className="text-2xl font-semibold font-heading text-gray-800 mb-4">{categoryLabels[cat] || cat} Hotels</h3>
                           <div className="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-3 gap-6">
                             {catHotels.map((hotel, idx) => (
-                              <a
+                              <div
                                 key={idx}
-                                href={affiliates?.booking || `/city/${city.slug}/`}
-                                target={affiliates ? '_blank' : undefined}
-                                rel={affiliates ? 'noopener noreferrer sponsored' : undefined}
-                                className="bg-white rounded-2xl shadow-md hover:shadow-xl hover:-translate-y-1 transition-all duration-300 p-6 block"
+                                className="bg-white rounded-2xl shadow-md hover:shadow-xl hover:-translate-y-1 transition-all duration-300 p-6"
                               >
                                 <div className="flex items-start justify-between mb-3">
                                   <h3 className="text-lg font-bold font-heading text-gray-900 flex-1 mr-2">{hotel.name}</h3>
@@ -242,15 +242,24 @@ export default function CityHotelsPage({ city, hotelData, hasTop10Hotels, enhanc
                                   {hotel.priceRange}
                                 </div>
                                 <p className="text-gray-600 text-sm">{hotel.description}</p>
-                                <div className="mt-4 text-thailand-blue text-sm font-medium flex items-center">
-                                  Check stay details
-                                  <svg className="w-4 h-4 ml-1" fill="none" stroke="currentColor" viewBox="0 0 24 24">
-                                    <path strokeLinecap="round" strokeLinejoin="round" strokeWidth="2" d="M9 5l7 7-7 7" />
-                                  </svg>
-                                </div>
-                              </a>
+                              </div>
                             ))}
                           </div>
+                          {affiliates?.booking && (
+                            <div className="mt-6">
+                              <a
+                                href={affiliates.booking}
+                                target="_blank"
+                                rel="noopener noreferrer sponsored"
+                                className="inline-flex items-center text-thailand-blue text-sm font-medium"
+                              >
+                                Open city-wide booking search
+                                <svg className="w-4 h-4 ml-1" fill="none" stroke="currentColor" viewBox="0 0 24 24">
+                                  <path strokeLinecap="round" strokeLinejoin="round" strokeWidth="2" d="M9 5l7 7-7 7" />
+                                </svg>
+                              </a>
+                            </div>
+                          )}
                         </div>
                       );
                     })}
