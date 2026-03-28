@@ -538,9 +538,9 @@ export const getStaticProps: GetStaticProps = async ({ params }) => {
     reviewed_by: (rawCity as any).reviewed_by,
     reviewed_at: (rawCity as any).reviewed_at,
     enhanced_at: (rawCity as any).enhanced_at,
-    editorialPositioning: (rawCity as any).editorialPositioning,
-    sourceSummary: (rawCity as any).sourceSummary,
-    recommendedAlternatives: (rawCity as any).recommendedAlternatives,
+    editorialPositioning: (rawCity as any).editorialPositioning ?? null,
+    sourceSummary: (rawCity as any).sourceSummary ?? null,
+    recommendedAlternatives: (rawCity as any).recommendedAlternatives ?? null,
   };
 
   return {
