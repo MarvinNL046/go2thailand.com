@@ -1,0 +1,561 @@
+{
+  "updated_at": "2026-03-28T00:00:00.000Z",
+  "project": "go2thailand city support cluster upgrade tracker",
+  "goal": "Upgrade all English city support clusters to source-backed, non-thin, AdSense-safe, EEAT-oriented pages.",
+  "scope": [
+    "/city/[slug]/food/",
+    "/city/[slug]/hotels/",
+    "/city/[slug]/attractions/",
+    "/city/[slug]/best-time-to-visit/",
+    "/city/[slug]/budget/",
+    "/city/[slug]/cooking-classes/",
+    "/city/[slug]/muay-thai/",
+    "/city/[slug]/elephant-sanctuaries/",
+    "/city/[slug]/diving-snorkeling/"
+  ],
+  "done_definition": [
+    "all support routes in scope render 200 or remain intentionally noindex with strong content",
+    "rendered English HTML contains no stale first-person AI copy",
+    "rendered English HTML contains no scrape-era review or rating spam",
+    "rendered English HTML contains no affiliate-first template leakage that outruns editorial value",
+    "material unstable claims are web-fact-checked",
+    "source-backed trust signals are present where supported",
+    "internal links point only to strong pages"
+  ],
+  "execution": {
+    "mode": "sequential",
+    "start_rule": "Start with the first pending city and continue in order.",
+    "current_city": "ayutthaya",
+    "next_pending": "ayutthaya"
+  },
+  "cities": [
+    {
+      "slug": "ayutthaya",
+      "status": "pending",
+      "routes": {
+        "food": "pending",
+        "hotels": "pending",
+        "attractions": "pending",
+        "best_time_to_visit": "pending",
+        "budget": "pending",
+        "cooking_classes": "pending",
+        "muay_thai": "pending",
+        "elephant_sanctuaries": "pending",
+        "diving_snorkeling": "pending"
+      },
+      "notes": ""
+    },
+    {
+      "slug": "bangkok",
+      "status": "pending",
+      "routes": {
+        "food": "pending",
+        "hotels": "pending",
+        "attractions": "pending",
+        "best_time_to_visit": "pending",
+        "budget": "pending",
+        "cooking_classes": "pending",
+        "muay_thai": "pending",
+        "elephant_sanctuaries": "pending",
+        "diving_snorkeling": "pending"
+      },
+      "notes": ""
+    },
+    {
+      "slug": "bueng-kan",
+      "status": "pending",
+      "routes": {
+        "food": "pending",
+        "hotels": "pending",
+        "attractions": "pending",
+        "best_time_to_visit": "pending",
+        "budget": "pending",
+        "cooking_classes": "pending",
+        "muay_thai": "pending",
+        "elephant_sanctuaries": "pending",
+        "diving_snorkeling": "pending"
+      },
+      "notes": ""
+    },
+    {
+      "slug": "chanthaburi",
+      "status": "pending",
+      "routes": {
+        "food": "pending",
+        "hotels": "pending",
+        "attractions": "pending",
+        "best_time_to_visit": "pending",
+        "budget": "pending",
+        "cooking_classes": "pending",
+        "muay_thai": "pending",
+        "elephant_sanctuaries": "pending",
+        "diving_snorkeling": "pending"
+      },
+      "notes": ""
+    },
+    {
+      "slug": "chiang-khan",
+      "status": "pending",
+      "routes": {
+        "food": "pending",
+        "hotels": "pending",
+        "attractions": "pending",
+        "best_time_to_visit": "pending",
+        "budget": "pending",
+        "cooking_classes": "pending",
+        "muay_thai": "pending",
+        "elephant_sanctuaries": "pending",
+        "diving_snorkeling": "pending"
+      },
+      "notes": ""
+    },
+    {
+      "slug": "chiang-mai",
+      "status": "pending",
+      "routes": {
+        "food": "pending",
+        "hotels": "pending",
+        "attractions": "pending",
+        "best_time_to_visit": "pending",
+        "budget": "pending",
+        "cooking_classes": "pending",
+        "muay_thai": "pending",
+        "elephant_sanctuaries": "pending",
+        "diving_snorkeling": "pending"
+      },
+      "notes": ""
+    },
+    {
+      "slug": "chiang-rai",
+      "status": "pending",
+      "routes": {
+        "food": "pending",
+        "hotels": "pending",
+        "attractions": "pending",
+        "best_time_to_visit": "pending",
+        "budget": "pending",
+        "cooking_classes": "pending",
+        "muay_thai": "pending",
+        "elephant_sanctuaries": "pending",
+        "diving_snorkeling": "pending"
+      },
+      "notes": ""
+    },
+    {
+      "slug": "chumphon",
+      "status": "pending",
+      "routes": {
+        "food": "pending",
+        "hotels": "pending",
+        "attractions": "pending",
+        "best_time_to_visit": "pending",
+        "budget": "pending",
+        "cooking_classes": "pending",
+        "muay_thai": "pending",
+        "elephant_sanctuaries": "pending",
+        "diving_snorkeling": "pending"
+      },
+      "notes": ""
+    },
+    {
+      "slug": "hat-yai",
+      "status": "pending",
+      "routes": {
+        "food": "pending",
+        "hotels": "pending",
+        "attractions": "pending",
+        "best_time_to_visit": "pending",
+        "budget": "pending",
+        "cooking_classes": "pending",
+        "muay_thai": "pending",
+        "elephant_sanctuaries": "pending",
+        "diving_snorkeling": "pending"
+      },
+      "notes": ""
+    },
+    {
+      "slug": "hua-hin",
+      "status": "pending",
+      "routes": {
+        "food": "pending",
+        "hotels": "pending",
+        "attractions": "pending",
+        "best_time_to_visit": "pending",
+        "budget": "pending",
+        "cooking_classes": "pending",
+        "muay_thai": "pending",
+        "elephant_sanctuaries": "pending",
+        "diving_snorkeling": "pending"
+      },
+      "notes": ""
+    },
+    {
+      "slug": "kanchanaburi",
+      "status": "pending",
+      "routes": {
+        "food": "pending",
+        "hotels": "pending",
+        "attractions": "pending",
+        "best_time_to_visit": "pending",
+        "budget": "pending",
+        "cooking_classes": "pending",
+        "muay_thai": "pending",
+        "elephant_sanctuaries": "pending",
+        "diving_snorkeling": "pending"
+      },
+      "notes": ""
+    },
+    {
+      "slug": "khon-kaen",
+      "status": "pending",
+      "routes": {
+        "food": "pending",
+        "hotels": "pending",
+        "attractions": "pending",
+        "best_time_to_visit": "pending",
+        "budget": "pending",
+        "cooking_classes": "pending",
+        "muay_thai": "pending",
+        "elephant_sanctuaries": "pending",
+        "diving_snorkeling": "pending"
+      },
+      "notes": ""
+    },
+    {
+      "slug": "koh-samui",
+      "status": "pending",
+      "routes": {
+        "food": "pending",
+        "hotels": "pending",
+        "attractions": "pending",
+        "best_time_to_visit": "pending",
+        "budget": "pending",
+        "cooking_classes": "pending",
+        "muay_thai": "pending",
+        "elephant_sanctuaries": "pending",
+        "diving_snorkeling": "pending"
+      },
+      "notes": ""
+    },
+    {
+      "slug": "krabi",
+      "status": "pending",
+      "routes": {
+        "food": "pending",
+        "hotels": "pending",
+        "attractions": "pending",
+        "best_time_to_visit": "pending",
+        "budget": "pending",
+        "cooking_classes": "pending",
+        "muay_thai": "pending",
+        "elephant_sanctuaries": "pending",
+        "diving_snorkeling": "pending"
+      },
+      "notes": ""
+    },
+    {
+      "slug": "lampang",
+      "status": "pending",
+      "routes": {
+        "food": "pending",
+        "hotels": "pending",
+        "attractions": "pending",
+        "best_time_to_visit": "pending",
+        "budget": "pending",
+        "cooking_classes": "pending",
+        "muay_thai": "pending",
+        "elephant_sanctuaries": "pending",
+        "diving_snorkeling": "pending"
+      },
+      "notes": ""
+    },
+    {
+      "slug": "lopburi",
+      "status": "pending",
+      "routes": {
+        "food": "pending",
+        "hotels": "pending",
+        "attractions": "pending",
+        "best_time_to_visit": "pending",
+        "budget": "pending",
+        "cooking_classes": "pending",
+        "muay_thai": "pending",
+        "elephant_sanctuaries": "pending",
+        "diving_snorkeling": "pending"
+      },
+      "notes": ""
+    },
+    {
+      "slug": "mae-hong-son",
+      "status": "pending",
+      "routes": {
+        "food": "pending",
+        "hotels": "pending",
+        "attractions": "pending",
+        "best_time_to_visit": "pending",
+        "budget": "pending",
+        "cooking_classes": "pending",
+        "muay_thai": "pending",
+        "elephant_sanctuaries": "pending",
+        "diving_snorkeling": "pending"
+      },
+      "notes": ""
+    },
+    {
+      "slug": "mukdahan",
+      "status": "pending",
+      "routes": {
+        "food": "pending",
+        "hotels": "pending",
+        "attractions": "pending",
+        "best_time_to_visit": "pending",
+        "budget": "pending",
+        "cooking_classes": "pending",
+        "muay_thai": "pending",
+        "elephant_sanctuaries": "pending",
+        "diving_snorkeling": "pending"
+      },
+      "notes": ""
+    },
+    {
+      "slug": "nakhon-phanom",
+      "status": "pending",
+      "routes": {
+        "food": "pending",
+        "hotels": "pending",
+        "attractions": "pending",
+        "best_time_to_visit": "pending",
+        "budget": "pending",
+        "cooking_classes": "pending",
+        "muay_thai": "pending",
+        "elephant_sanctuaries": "pending",
+        "diving_snorkeling": "pending"
+      },
+      "notes": ""
+    },
+    {
+      "slug": "nakhon-ratchasima",
+      "status": "pending",
+      "routes": {
+        "food": "pending",
+        "hotels": "pending",
+        "attractions": "pending",
+        "best_time_to_visit": "pending",
+        "budget": "pending",
+        "cooking_classes": "pending",
+        "muay_thai": "pending",
+        "elephant_sanctuaries": "pending",
+        "diving_snorkeling": "pending"
+      },
+      "notes": ""
+    },
+    {
+      "slug": "nakhon-si-thammarat",
+      "status": "pending",
+      "routes": {
+        "food": "pending",
+        "hotels": "pending",
+        "attractions": "pending",
+        "best_time_to_visit": "pending",
+        "budget": "pending",
+        "cooking_classes": "pending",
+        "muay_thai": "pending",
+        "elephant_sanctuaries": "pending",
+        "diving_snorkeling": "pending"
+      },
+      "notes": ""
+    },
+    {
+      "slug": "nong-khai",
+      "status": "pending",
+      "routes": {
+        "food": "pending",
+        "hotels": "pending",
+        "attractions": "pending",
+        "best_time_to_visit": "pending",
+        "budget": "pending",
+        "cooking_classes": "pending",
+        "muay_thai": "pending",
+        "elephant_sanctuaries": "pending",
+        "diving_snorkeling": "pending"
+      },
+      "notes": ""
+    },
+    {
+      "slug": "pai",
+      "status": "pending",
+      "routes": {
+        "food": "pending",
+        "hotels": "pending",
+        "attractions": "pending",
+        "best_time_to_visit": "pending",
+        "budget": "pending",
+        "cooking_classes": "pending",
+        "muay_thai": "pending",
+        "elephant_sanctuaries": "pending",
+        "diving_snorkeling": "pending"
+      },
+      "notes": ""
+    },
+    {
+      "slug": "pattaya",
+      "status": "pending",
+      "routes": {
+        "food": "pending",
+        "hotels": "pending",
+        "attractions": "pending",
+        "best_time_to_visit": "pending",
+        "budget": "pending",
+        "cooking_classes": "pending",
+        "muay_thai": "pending",
+        "elephant_sanctuaries": "pending",
+        "diving_snorkeling": "pending"
+      },
+      "notes": ""
+    },
+    {
+      "slug": "phitsanulok",
+      "status": "pending",
+      "routes": {
+        "food": "pending",
+        "hotels": "pending",
+        "attractions": "pending",
+        "best_time_to_visit": "pending",
+        "budget": "pending",
+        "cooking_classes": "pending",
+        "muay_thai": "pending",
+        "elephant_sanctuaries": "pending",
+        "diving_snorkeling": "pending"
+      },
+      "notes": ""
+    },
+    {
+      "slug": "phuket",
+      "status": "pending",
+      "routes": {
+        "food": "pending",
+        "hotels": "pending",
+        "attractions": "pending",
+        "best_time_to_visit": "pending",
+        "budget": "pending",
+        "cooking_classes": "pending",
+        "muay_thai": "pending",
+        "elephant_sanctuaries": "pending",
+        "diving_snorkeling": "pending"
+      },
+      "notes": ""
+    },
+    {
+      "slug": "rayong",
+      "status": "pending",
+      "routes": {
+        "food": "pending",
+        "hotels": "pending",
+        "attractions": "pending",
+        "best_time_to_visit": "pending",
+        "budget": "pending",
+        "cooking_classes": "pending",
+        "muay_thai": "pending",
+        "elephant_sanctuaries": "pending",
+        "diving_snorkeling": "pending"
+      },
+      "notes": ""
+    },
+    {
+      "slug": "sukhothai",
+      "status": "pending",
+      "routes": {
+        "food": "pending",
+        "hotels": "pending",
+        "attractions": "pending",
+        "best_time_to_visit": "pending",
+        "budget": "pending",
+        "cooking_classes": "pending",
+        "muay_thai": "pending",
+        "elephant_sanctuaries": "pending",
+        "diving_snorkeling": "pending"
+      },
+      "notes": ""
+    },
+    {
+      "slug": "surat-thani",
+      "status": "pending",
+      "routes": {
+        "food": "pending",
+        "hotels": "pending",
+        "attractions": "pending",
+        "best_time_to_visit": "pending",
+        "budget": "pending",
+        "cooking_classes": "pending",
+        "muay_thai": "pending",
+        "elephant_sanctuaries": "pending",
+        "diving_snorkeling": "pending"
+      },
+      "notes": ""
+    },
+    {
+      "slug": "trang",
+      "status": "pending",
+      "routes": {
+        "food": "pending",
+        "hotels": "pending",
+        "attractions": "pending",
+        "best_time_to_visit": "pending",
+        "budget": "pending",
+        "cooking_classes": "pending",
+        "muay_thai": "pending",
+        "elephant_sanctuaries": "pending",
+        "diving_snorkeling": "pending"
+      },
+      "notes": ""
+    },
+    {
+      "slug": "trat",
+      "status": "pending",
+      "routes": {
+        "food": "pending",
+        "hotels": "pending",
+        "attractions": "pending",
+        "best_time_to_visit": "pending",
+        "budget": "pending",
+        "cooking_classes": "pending",
+        "muay_thai": "pending",
+        "elephant_sanctuaries": "pending",
+        "diving_snorkeling": "pending"
+      },
+      "notes": ""
+    },
+    {
+      "slug": "ubon-ratchathani",
+      "status": "pending",
+      "routes": {
+        "food": "pending",
+        "hotels": "pending",
+        "attractions": "pending",
+        "best_time_to_visit": "pending",
+        "budget": "pending",
+        "cooking_classes": "pending",
+        "muay_thai": "pending",
+        "elephant_sanctuaries": "pending",
+        "diving_snorkeling": "pending"
+      },
+      "notes": ""
+    },
+    {
+      "slug": "udon-thani",
+      "status": "pending",
+      "routes": {
+        "food": "pending",
+        "hotels": "pending",
+        "attractions": "pending",
+        "best_time_to_visit": "pending",
+        "budget": "pending",
+        "cooking_classes": "pending",
+        "muay_thai": "pending",
+        "elephant_sanctuaries": "pending",
+        "diving_snorkeling": "pending"
+      },
+      "notes": ""
+    }
+  ]
+}
