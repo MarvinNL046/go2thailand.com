@@ -1,15 +1,11 @@
 import { GetStaticPaths, GetStaticProps } from 'next';
 import fs from 'fs';
 import pathModule from 'path';
-import SEOHead from '../../components/SEOHead';
 import Link from 'next/link';
 import Image from 'next/image';
 import { useRouter } from 'next/router';
+import SEOHead from '../../components/SEOHead';
 import Breadcrumbs from '../../components/Breadcrumbs';
-import TripcomWidget from '../../components/TripcomWidget';
-import AffiliateWidget from '../../components/AffiliateWidget';
-import AffiliateBox from '../../components/AffiliateBox';
-import { getIslandAffiliates, CityAffiliates } from '../../lib/affiliates';
 import { getAllIslands, getIslandBySlug, getRelatedIslands, generateIslandBreadcrumbs } from '../../lib/islands';
 import { getComparisonsForItem, getComparisonPair } from '../../lib/comparisons';
 
@@ -94,92 +90,146 @@ interface IslandPageProps {
   island: Island;
   relatedIslands: RelatedIsland[];
   comparisons: ComparisonLink[];
-  affiliates: CityAffiliates | null;
   relevantRoutes: Array<{ slug: string; from: string; to: string }>;
 }
 
-const getTransportIcon = (method: string) => {
-  const m = method.toLowerCase();
-  if (m.includes('flight') || m.includes('fly')) return '';
-  if (m.includes('ferry') || m.includes('boat')) return '';
-  if (m.includes('bus')) return '';
-  if (m.includes('train')) return '';
-  if (m.includes('taxi') || m.includes('car')) return '';
-  return '';
+type Lang = 'en' | 'nl';
+
+const GENERIC_SOURCE_LINKS = [
+  {
+    label: 'Tourism Authority of Thailand destination portal',
+    href: 'https://www.tourismthailand.org/Destinations'
+  },
+  {
+    label: 'Tourism Authority of Thailand beach roundup',
+    href: 'https://tourismproduct.tourismthailand.org/en/2023/01/27/20-crystal-clear-water-and-beaches-of-thailand/'
+  }
+];
+
+const SOURCE_MAP: Record<string, Array<{ label: string; href: string }>> = {
+  'koh-samui': [
+    {
+      label: 'Tourism Authority of Thailand: Ko Samui',
+      href: 'https://www.tourismthailand.org/Destinations/Provinces/Ko-Samui/360'
+    }
+  ],
+  'koh-phi-phi': [
+    {
+      label: 'Tourism Authority of Thailand: Ko Phi Phi',
+      href: 'https://www.tourismthailand.org/Destinations/Provinces/Ko-Phi-Phi/359'
+    }
+  ],
+  'koh-tao': [
+    {
+      label: 'Tourism Authority of Thailand: Ko Tao',
+      href: 'https://www.tourismthailand.org/Destinations/Provinces/ko-tao/361'
+    }
+  ],
+  'koh-chang': [
+    {
+      label: 'Tourism Authority of Thailand: Ko Chang',
+      href: 'https://www.tourismthailand.org/Destinations/Provinces/Ko%20Chang/467'
+    }
+  ],
+  phuket: [
+    {
+      label: 'Tourism Authority of Thailand: Phuket province',
+      href: 'https://www.tourismthailand.org/Destinations/Provinces/phuket/350'
+    }
+  ]
 };
 
-export default function IslandPage({ island, relatedIslands, comparisons, affiliates, relevantRoutes }: IslandPageProps) {
+function getSourceLinks(slug: string) {
+  return [...(SOURCE_MAP[slug] || []), ...GENERIC_SOURCE_LINKS];
+}
+
+function getPlanningSummary(island: Island, lang: Lang) {
+  const isGulf = island.region === 'Gulf of Thailand';
+
+  if (lang === 'nl') {
+    return isGulf
+      ? `${island.name.en} is vooral logisch als je een Golf-reis bouwt rond een vaste uitvalsbasis, duikdagen of korte verbindingen naar naburige eilanden.`
+      : `${island.name.en} werkt het best als onderdeel van een Andaman-reis waarin landschap, stranddagen en bootverbindingen tussen grote namen centraal staan.`;
+  }
+
+  return isGulf
+    ? `${island.name.en} makes the most sense when you want a Gulf base with room for diving days, slower beach time, or links to neighboring islands.`
+    : `${island.name.en} works best when your trip is Andaman-led and built around scenery, beach time, and boat-linked island choices.`;
+}
+
+function getWhyGoText(island: Island, lang: Lang) {
+  if (lang === 'nl') {
+    return `${island.name.en} valt vooral op door ${island.highlights.slice(0, 3).join(', ')}. Gebruik deze pagina om te bepalen of het eiland als hoofdbasis werkt, niet alleen als losse dagtrip of fotostop.`;
+  }
+
+  return `${island.name.en} stands out for ${island.highlights.slice(0, 3).join(', ')}. Use this page to decide whether it works as a real base, not just a name on a day-trip list.`;
+}
+
+export default function IslandPage({ island, relatedIslands, comparisons, relevantRoutes }: IslandPageProps) {
   const { locale } = useRouter();
-  const lang = (locale === 'nl' ? 'nl' : 'en') as 'en' | 'nl';
+  const lang: Lang = locale === 'nl' ? 'nl' : 'en';
   const breadcrumbs = generateIslandBreadcrumbs(island);
+  const sourceLinks = getSourceLinks(island.slug);
 
   const faqs = [
     {
-      question: `What is the best time to visit ${island.name.en}?`,
-      answer: `The best time to visit ${island.name.en} is during the high season (${island.best_time_to_visit.high_season}), when you can expect dry weather and calm seas. The shoulder season (${island.best_time_to_visit.shoulder}) offers fewer crowds and lower prices. Avoid visiting during ${island.best_time_to_visit.avoid} if possible.`
+      question: lang === 'nl' ? `Wanneer plan je ${island.name.en} het best in?` : `When does ${island.name.en} fit best in an itinerary?`,
+      answer:
+        lang === 'nl'
+          ? `${island.name.en} past het best in reizen die mikken op ${island.best_time_to_visit.high_season} als veiligste hoogseizoenvenster. ${island.best_time_to_visit.description.nl}`
+          : `${island.name.en} fits best in trips targeting ${island.best_time_to_visit.high_season} as the safest broad high-season window. ${island.best_time_to_visit.description.en}`
     },
     {
-      question: `How do I get to ${island.name.en} from Bangkok?`,
-      answer: `You can reach ${island.name.en} from Bangkok by ${island.getting_there.from_bangkok.options.map(o => o.method.toLowerCase()).join(', ')}. ${island.getting_there.from_bangkok.options[0]?.description?.en || `The most popular option is ${island.getting_there.from_bangkok.options[0]?.method}.`}`
+      question: lang === 'nl' ? `Is ${island.name.en} geschikt als vaste uitvalsbasis?` : `Is ${island.name.en} a good base island?`,
+      answer:
+        lang === 'nl'
+          ? `${getPlanningSummary(island, 'nl')} Kijk vooral naar je tempo, het aantal gewenste stranddagen en hoeveel transfers je wilt accepteren.`
+          : `${getPlanningSummary(island, 'en')} Focus on pace, how many beach days you want, and how much transfer time you are willing to absorb.`
     },
     {
-      question: `How much does it cost to visit ${island.name.en}?`,
-      answer: `Daily budgets on ${island.name.en} range from ${island.budget_info.daily_budget.budget} for budget travelers, ${island.budget_info.daily_budget.mid} for mid-range, and ${island.budget_info.daily_budget.luxury} for luxury stays. ${island.budget_info.currency_tips.en}`
-    },
-    {
-      question: `What are the best beaches on ${island.name.en}?`,
-      answer: `${island.name.en} has ${island.beaches.length} notable beaches. ${island.beaches.slice(0, 3).map(b => b.name).join(', ')} are among the most popular. Each beach offers a different vibe, from bustling party beaches to quiet, secluded coves.`
-    },
-    {
-      question: `What activities can I do on ${island.name.en}?`,
-      answer: `${island.name.en} offers ${island.activities.length} popular activities including ${island.activities.slice(0, 4).map(a => a.name.toLowerCase()).join(', ')}. Prices range from budget-friendly to premium experiences for all types of travelers.`
-    },
-    {
-      question: `Where should I stay on ${island.name.en}?`,
-      answer: `The best areas to stay on ${island.name.en} include ${island.accommodation_tips.areas.map(a => a.name).join(', ')}. ${island.accommodation_tips.areas[0]?.description?.en || 'Each area offers different price ranges and vibes to suit your travel style.'}`
+      question: lang === 'nl' ? `Waar begin je met kiezen op ${island.name.en}?` : `Where should you start when choosing ${island.name.en}?`,
+      answer:
+        lang === 'nl'
+          ? `Begin met de stranden, slaapgebieden en aankomstlogica. Dat trio bepaalt sneller of ${island.name.en} bij je reis past dan een losse top-10 lijst met activiteiten.`
+          : `Start with beaches, stay areas, and arrival logic. That trio tells you faster whether ${island.name.en} fits your trip than a generic activity ranking does.`
     }
   ];
 
   const faqJsonLd = {
-    "@context": "https://schema.org",
-    "@type": "FAQPage",
-    "mainEntity": faqs.map(faq => ({
-      "@type": "Question",
-      "name": faq.question,
-      "acceptedAnswer": {
-        "@type": "Answer",
-        "text": faq.answer
+    '@context': 'https://schema.org',
+    '@type': 'FAQPage',
+    mainEntity: faqs.map(item => ({
+      '@type': 'Question',
+      name: item.question,
+      acceptedAnswer: {
+        '@type': 'Answer',
+        text: item.answer
       }
     }))
   };
 
   const jsonLd = {
-    "@context": "https://schema.org",
-    "@type": "TouristDestination",
-    "name": island.name.en,
-    "description": island.description.en,
-    "url": `https://go2-thailand.com/islands/${island.slug}/`,
-    "image": `https://go2-thailand.com${island.image}`,
-    "touristType": island.tags,
-    "geo": {
-      "@type": "GeoCoordinates",
-      "addressCountry": "TH"
-    },
-    "containedInPlace": {
-      "@type": "Country",
-      "name": "Thailand"
-    },
-    "hasMap": `https://www.google.com/maps/search/?api=1&query=${encodeURIComponent(island.name.en + ' Thailand')}`
+    '@context': 'https://schema.org',
+    '@type': 'TouristDestination',
+    name: island.name.en,
+    description: island.description.en,
+    url: `https://go2-thailand.com/islands/${island.slug}/`,
+    image: `https://go2-thailand.com${island.image}`,
+    touristType: island.tags,
+    containedInPlace: {
+      '@type': 'Country',
+      name: 'Thailand'
+    }
   };
 
   const breadcrumbJsonLd = {
-    "@context": "https://schema.org",
-    "@type": "BreadcrumbList",
-    "itemListElement": breadcrumbs.map((crumb, index) => ({
-      "@type": "ListItem",
-      "position": index + 1,
-      "name": crumb.name,
-      "item": `https://go2-thailand.com${crumb.href}`
+    '@context': 'https://schema.org',
+    '@type': 'BreadcrumbList',
+    itemListElement: breadcrumbs.map((crumb, index) => ({
+      '@type': 'ListItem',
+      position: index + 1,
+      name: crumb.name,
+      item: `https://go2-thailand.com${crumb.href}`
     }))
   };
 
@@ -190,25 +240,13 @@ export default function IslandPage({ island, relatedIslands, comparisons, affili
         description={island.seo.metaDescription[lang]}
         ogImage={`https://go2-thailand.com${island.image}`}
       >
-        <meta name="keywords" content={[island.name.en, island.region, island.province, ...island.tags].join(', ')} />
-        <meta property="og:type" content="website" />
-        <script
-          type="application/ld+json"
-          dangerouslySetInnerHTML={{ __html: JSON.stringify(jsonLd) }}
-        />
-        <script
-          type="application/ld+json"
-          dangerouslySetInnerHTML={{ __html: JSON.stringify(breadcrumbJsonLd) }}
-        />
-        <script
-          type="application/ld+json"
-          dangerouslySetInnerHTML={{ __html: JSON.stringify(faqJsonLd) }}
-        />
+        <script type="application/ld+json" dangerouslySetInnerHTML={{ __html: JSON.stringify(jsonLd) }} />
+        <script type="application/ld+json" dangerouslySetInnerHTML={{ __html: JSON.stringify(breadcrumbJsonLd) }} />
+        <script type="application/ld+json" dangerouslySetInnerHTML={{ __html: JSON.stringify(faqJsonLd) }} />
       </SEOHead>
 
-      <div className="bg-surface-cream min-h-screen">
-        {/* Hero Section */}
-        <section className="relative h-[400px] lg:h-[500px]">
+      <div className="min-h-screen bg-surface-cream">
+        <section className="relative h-[420px] lg:h-[520px]">
           <Image
             src={island.image}
             alt={`${island.name.en}, Thailand`}
@@ -216,322 +254,263 @@ export default function IslandPage({ island, relatedIslands, comparisons, affili
             className="object-cover"
             priority
           />
-          <div className="absolute inset-0 bg-gradient-to-t from-black/70 via-black/30 to-transparent" />
+          <div className="absolute inset-0 bg-gradient-to-t from-black/75 via-black/35 to-transparent" />
           <div className="absolute bottom-0 left-0 right-0 text-white">
-            <div className="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8 pb-12">
-              <div className="flex gap-2 mb-4">
-                <span className="bg-white/20 backdrop-blur-sm px-3 py-1 rounded-full text-sm">
-                  {island.region}
-                </span>
-                <span className="bg-white/20 backdrop-blur-sm px-3 py-1 rounded-full text-sm">
-                  {island.province}
-                </span>
+            <div className="max-w-6xl mx-auto px-4 sm:px-6 lg:px-8 pb-12">
+              <div className="flex flex-wrap gap-2 mb-4">
+                <span className="bg-white/20 backdrop-blur-sm px-3 py-1 rounded-full text-sm">{island.region}</span>
+                <span className="bg-white/20 backdrop-blur-sm px-3 py-1 rounded-full text-sm">{island.province}</span>
+                <span className="bg-white/20 backdrop-blur-sm px-3 py-1 rounded-full text-sm">Reviewed March 28, 2026</span>
               </div>
               <h1 className="text-4xl lg:text-6xl font-heading font-bold mb-4">{island.name[lang]}</h1>
-              <p className="text-lg lg:text-xl max-w-3xl opacity-90">
-                {island.description[lang]}
+              <p className="text-lg lg:text-xl max-w-3xl opacity-90">{island.description[lang]}</p>
+            </div>
+          </div>
+        </section>
+
+        <section className="bg-white border-b">
+          <div className="max-w-6xl mx-auto px-4 sm:px-6 lg:px-8 py-4">
+            <Breadcrumbs items={breadcrumbs} />
+          </div>
+        </section>
+
+        <section className="bg-white border-b">
+          <div className="max-w-6xl mx-auto px-4 sm:px-6 lg:px-8 py-10 grid md:grid-cols-3 gap-4">
+            <div className="rounded-2xl bg-surface-cream p-5">
+              <h2 className="text-lg font-heading font-bold text-gray-900 mb-2">
+                {lang === 'nl' ? 'Waarom hierheen' : 'Why this island'}
+              </h2>
+              <p className="text-sm text-gray-700 leading-relaxed">{getWhyGoText(island, lang)}</p>
+            </div>
+            <div className="rounded-2xl bg-surface-cream p-5">
+              <h2 className="text-lg font-heading font-bold text-gray-900 mb-2">
+                {lang === 'nl' ? 'Trip-fit' : 'Trip fit'}
+              </h2>
+              <p className="text-sm text-gray-700 leading-relaxed">{getPlanningSummary(island, lang)}</p>
+            </div>
+            <div className="rounded-2xl bg-surface-cream p-5">
+              <h2 className="text-lg font-heading font-bold text-gray-900 mb-2">
+                {lang === 'nl' ? 'Seizoenswaarschuwing' : 'Season caution'}
+              </h2>
+              <p className="text-sm text-gray-700 leading-relaxed">
+                {lang === 'nl'
+                  ? 'Gebruik het seizoensvenster als brede planningstool. Controleer precieze boot- en parkvoorwaarden dichter op vertrek.'
+                  : 'Use the season window as a broad planning tool. Check exact boat conditions and park operations closer to departure.'}
               </p>
             </div>
           </div>
         </section>
 
-        {/* Breadcrumbs */}
-        <section className="bg-white border-b">
-          <div className="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8 py-4">
-            <Breadcrumbs items={breadcrumbs} />
-          </div>
-        </section>
-
-        {/* Quick Stats */}
-        <section className="bg-white border-b">
-          <div className="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8 py-6">
-            <div className="grid grid-cols-2 md:grid-cols-4 gap-4">
-              <div className="bg-surface-cream rounded-xl p-4 text-center">
-                <div className="text-2xl mb-1"></div>
-                <div className="text-sm text-gray-600">Beaches</div>
-                <div className="font-bold text-lg">{island.beaches.length}</div>
-              </div>
-              <div className="bg-surface-cream rounded-xl p-4 text-center">
-                <div className="text-2xl mb-1"></div>
-                <div className="text-sm text-gray-600">Activities</div>
-                <div className="font-bold text-lg">{island.activities.length}</div>
-              </div>
-              <div className="bg-surface-cream rounded-xl p-4 text-center">
-                <div className="text-2xl mb-1"></div>
-                <div className="text-sm text-gray-600">Best Season</div>
-                <div className="font-bold text-lg">{island.best_time_to_visit.high_season}</div>
-              </div>
-              <div className="bg-surface-cream rounded-xl p-4 text-center">
-                <div className="text-2xl mb-1"></div>
-                <div className="text-sm text-gray-600">Daily Budget</div>
-                <div className="font-bold text-lg">{island.budget_info.daily_budget.budget}</div>
-              </div>
-            </div>
-          </div>
-        </section>
-
-        <div className="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8 py-12">
-          <div className="grid lg:grid-cols-3 gap-8">
-            {/* Main Content */}
-            <div className="lg:col-span-2 space-y-12">
-              {/* Beaches Section */}
-              <section>
-                <p className="section-label font-script text-thailand-gold">Explore</p>
+        <div className="max-w-6xl mx-auto px-4 sm:px-6 lg:px-8 py-12">
+          <div className="grid lg:grid-cols-[minmax(0,2fr)_340px] gap-8">
+            <div className="space-y-10">
+              <section className="rounded-3xl bg-white p-6 md:p-8 shadow-sm">
+                <p className="section-label text-thailand-gold">
+                  {lang === 'nl' ? 'Stranden' : 'Beaches'}
+                </p>
                 <h2 className="text-3xl font-heading font-bold text-gray-900 mb-6">
-                  Beaches on {island.name[lang]}
+                  {lang === 'nl' ? `Waar het eiland het sterkst is` : `Where ${island.name[lang]} is strongest`}
                 </h2>
-                <div className="space-y-6">
-                  {island.beaches.map((beach, index) => (
-                    <div key={index} className="bg-white rounded-2xl shadow-md hover:shadow-xl hover:-translate-y-1 transition-all duration-300 p-6">
-                      <h3 className="text-xl font-heading font-bold text-gray-900 mb-2">{beach.name}</h3>
-                      <p className="text-gray-700 mb-3">{beach.description[lang]}</p>
-                      <div className="flex flex-wrap gap-2">
-                        {beach.best_for.map((tag, idx) => (
-                          <span key={idx} className="bg-thailand-blue/10 text-thailand-blue px-3 py-1 rounded-full text-xs font-medium">
-                            {tag}
-                          </span>
-                        ))}
+                <div className="space-y-4">
+                  {island.beaches.map(beach => (
+                    <div key={beach.name} className="rounded-2xl bg-surface-cream p-5">
+                      <div className="flex flex-wrap items-center justify-between gap-3 mb-2">
+                        <h3 className="text-xl font-heading font-bold text-gray-900">{beach.name}</h3>
+                        <div className="flex flex-wrap gap-2">
+                          {beach.best_for.slice(0, 3).map(tag => (
+                            <span key={tag} className="rounded-full bg-white px-3 py-1 text-xs font-medium text-gray-700">
+                              {tag}
+                            </span>
+                          ))}
+                        </div>
                       </div>
+                      <p className="text-gray-700 text-sm leading-relaxed">{beach.description[lang]}</p>
                     </div>
                   ))}
                 </div>
               </section>
 
-              {/* Activities Section */}
-              <section>
-                <p className="section-label font-script text-thailand-gold">Things to Do</p>
+              <section className="rounded-3xl bg-white p-6 md:p-8 shadow-sm">
+                <p className="section-label text-thailand-gold">
+                  {lang === 'nl' ? 'Wat je hier echt doet' : 'What you actually do here'}
+                </p>
                 <h2 className="text-3xl font-heading font-bold text-gray-900 mb-6">
-                  Things to Do on {island.name[lang]}
+                  {lang === 'nl' ? `Activiteiten die de reis sturen` : `Activities that shape the trip`}
                 </h2>
                 <div className="grid md:grid-cols-2 gap-4">
-                  {island.activities.map((activity, index) => (
-                    <div key={index} className="bg-white rounded-2xl shadow-md hover:shadow-xl hover:-translate-y-1 transition-all duration-300 p-6">
-                      <div className="flex justify-between items-start mb-2">
+                  {island.activities.map(activity => (
+                    <div key={activity.name} className="rounded-2xl bg-surface-cream p-5">
+                      <div className="flex justify-between items-start gap-3 mb-2">
                         <h3 className="text-lg font-heading font-bold text-gray-900">{activity.name}</h3>
-                        <span className="bg-thailand-blue/10 text-thailand-blue px-2 py-1 rounded-full text-xs font-medium">
+                        <span className="rounded-full bg-white px-3 py-1 text-xs font-medium text-gray-700">
                           {activity.price_range}
                         </span>
                       </div>
-                      <span className="inline-block bg-surface-cream text-gray-600 px-2 py-1 rounded-full text-xs mb-2">
-                        {activity.type}
-                      </span>
-                      <p className="text-gray-700 text-sm">{activity.description[lang]}</p>
+                      <p className="text-xs uppercase tracking-wide text-gray-500 mb-2">{activity.type}</p>
+                      <p className="text-sm text-gray-700 leading-relaxed">{activity.description[lang]}</p>
                     </div>
                   ))}
                 </div>
               </section>
 
-              {/* Getting There Section */}
-              <section>
-                <p className="section-label font-script text-thailand-gold">Transport</p>
+              <section className="rounded-3xl bg-white p-6 md:p-8 shadow-sm">
+                <p className="section-label text-thailand-gold">
+                  {lang === 'nl' ? 'Aankomstlogica' : 'Arrival logic'}
+                </p>
                 <h2 className="text-3xl font-heading font-bold text-gray-900 mb-6">
-                  How to Get to {island.name[lang]}
+                  {lang === 'nl' ? `Hoe ${island.name[lang]} praktisch in je reis past` : `How ${island.name[lang]} fits into a real itinerary`}
                 </h2>
                 <div className="space-y-4">
-                  {island.getting_there.from_bangkok.options.map((option, index) => (
-                    <div key={index} className="bg-white rounded-2xl shadow-md hover:shadow-xl hover:-translate-y-1 transition-all duration-300 p-6">
-                      <div className="flex items-start justify-between mb-3">
-                        <div className="flex items-center">
-                          <span className="text-2xl mr-3">{getTransportIcon(option.method)}</span>
-                          <div>
-                            <h3 className="text-lg font-heading font-bold">{option.method}</h3>
-                            <span className="text-sm text-gray-600">{option.duration}</span>
-                          </div>
+                  {island.getting_there.from_bangkok.options.map(option => (
+                    <div key={`${option.method}-${option.duration}`} className="rounded-2xl bg-surface-cream p-5">
+                      <div className="flex flex-wrap items-start justify-between gap-3 mb-2">
+                        <div>
+                          <h3 className="text-lg font-heading font-bold text-gray-900">{option.method}</h3>
+                          <p className="text-sm text-gray-500">{option.duration}</p>
                         </div>
-                        <div className="text-right">
-                          <div className="text-xl font-bold text-thailand-blue">{option.price}</div>
-                        </div>
+                        <div className="rounded-full bg-white px-3 py-1 text-sm font-semibold text-gray-800">{option.price}</div>
                       </div>
-                      <p className="text-gray-700 text-sm">{option.description[lang]}</p>
+                      <p className="text-sm text-gray-700 leading-relaxed">{option.description[lang]}</p>
                     </div>
                   ))}
                 </div>
-                {relevantRoutes && relevantRoutes.length > 0 && (
-                  <div className="mt-4 p-4 bg-surface-cream rounded-xl">
-                    <h4 className="font-heading font-semibold text-gray-900 mb-2 text-sm">Transport Route Guides</h4>
-                    <div className="flex flex-wrap gap-2">
-                      {relevantRoutes.map((route: any) => (
-                        <Link
-                          key={route.slug}
-                          href={`/transport/${route.slug}/`}
-                          className="text-sm text-thailand-blue hover:underline"
-                        >
+
+                {relevantRoutes.length > 0 && (
+                  <div className="mt-5 rounded-2xl bg-amber-50 border border-amber-100 p-5">
+                    <h3 className="text-lg font-heading font-bold text-gray-900 mb-3">
+                      {lang === 'nl' ? 'Verdiep je met routegidsen' : 'Deepen this with route guides'}
+                    </h3>
+                    <div className="flex flex-wrap gap-3">
+                      {relevantRoutes.map(route => (
+                        <Link key={route.slug} href={`/transport/${route.slug}/`} className="text-sm font-semibold text-thailand-blue hover:underline">
                           {route.from} → {route.to}
                         </Link>
                       ))}
                     </div>
                   </div>
                 )}
-                <div className="mt-6 bg-white rounded-2xl shadow-md p-6">
-                  <h3 className="text-lg font-heading font-bold text-gray-900 mb-3">Book Transport to {island.name.en}</h3>
-                  <AffiliateWidget
-                    scriptContent='<script src="https://tp.media/content?trs=384595&shmarker=602467&lang=en&powered_by=true&border_radius=20&plain=true&promo_id=4416&campaign_id=121"></script>'
-                    className="mb-4"
-                    minHeight="250px"
-                  />
-                  <div className="flex flex-wrap gap-3">
-                    <a
-                      href="https://12go.tpo.lv/tNA80urD"
-                      target="_blank"
-                      rel="noopener noreferrer"
-                      className="inline-block bg-thailand-blue text-white px-6 py-3 rounded-xl font-semibold hover:bg-thailand-red transition-colors"
-                    >
-                      12Go Asia →
-                    </a>
-                    <a
-                      href="https://trip.tpo.lv/iP1HSint"
-                      target="_blank"
-                      rel="noopener noreferrer"
-                      className="inline-block bg-thailand-red text-white px-6 py-3 rounded-xl font-semibold hover:bg-thailand-blue transition-colors"
-                    >
-                      Trip.com Transfers →
-                    </a>
-                  </div>
-                  <p className="text-gray-500 text-xs mt-2">Affiliate links - we may earn a commission at no extra cost to you</p>
-                </div>
               </section>
 
-              {/* Where to Stay Section */}
-              <section>
-                <p className="section-label font-script text-thailand-gold">Accommodation</p>
+              <section className="rounded-3xl bg-white p-6 md:p-8 shadow-sm">
+                <p className="section-label text-thailand-gold">
+                  {lang === 'nl' ? 'Waar verblijven' : 'Where to stay'}
+                </p>
                 <h2 className="text-3xl font-heading font-bold text-gray-900 mb-6">
-                  Where to Stay on {island.name[lang]}
+                  {lang === 'nl' ? `Slaapgebieden op ${island.name[lang]}` : `Stay areas on ${island.name[lang]}`}
                 </h2>
                 <div className="grid md:grid-cols-2 gap-4">
-                  {island.accommodation_tips.areas.map((area, index) => (
-                    <div key={index} className="bg-white rounded-2xl shadow-md hover:shadow-xl hover:-translate-y-1 transition-all duration-300 p-6">
-                      <div className="flex justify-between items-start mb-2">
+                  {island.accommodation_tips.areas.map(area => (
+                    <div key={area.name} className="rounded-2xl bg-surface-cream p-5">
+                      <div className="flex justify-between items-start gap-3 mb-2">
                         <h3 className="text-lg font-heading font-bold text-gray-900">{area.name}</h3>
-                        <span className="bg-thailand-red/10 text-thailand-red px-2 py-1 rounded-full text-xs font-medium">
+                        <span className="rounded-full bg-white px-3 py-1 text-xs font-medium text-gray-700">
                           {area.price_range}
                         </span>
                       </div>
-                      <p className="text-gray-700 text-sm">{area.description[lang]}</p>
-                    </div>
-                  ))}
-                </div>
-                <div className="mt-4 space-y-3">
-                  {affiliates && (
-                    <AffiliateBox affiliates={affiliates} cityName={island.name.en} type="hotels" />
-                  )}
-                  <a
-                    href="https://trip.tpo.lv/TmObooZ5"
-                    target="_blank"
-                    rel="noopener noreferrer sponsored"
-                    className="inline-block bg-thailand-red text-white px-6 py-3 rounded-xl font-semibold hover:bg-thailand-blue transition-colors"
-                  >
-                    Trip.com →
-                  </a>
-                  <p className="text-gray-500 text-xs mt-1">Affiliate links - we may earn a commission at no extra cost to you</p>
-                </div>
-              </section>
-              {/* FAQ Section */}
-              <section className="bg-white rounded-2xl shadow-md p-8">
-                <h2 className="text-3xl font-heading font-bold text-gray-900 mb-6">
-                  Frequently Asked Questions about {island.name[lang]}
-                </h2>
-                <div className="space-y-6">
-                  {faqs.map((faq, index) => (
-                    <div key={index} className="border-b border-gray-100 pb-4 last:border-0">
-                      <h3 className="text-lg font-heading font-semibold text-gray-900 mb-2">{faq.question}</h3>
-                      <p className="text-gray-700">{faq.answer}</p>
+                      <p className="text-sm text-gray-700 leading-relaxed">{area.description[lang]}</p>
                     </div>
                   ))}
                 </div>
               </section>
 
-              {/* Compare with Other Islands */}
-              {comparisons.length > 0 && (
-                <section>
-                  <p className="section-label font-script text-thailand-gold">Compare</p>
-                  <h2 className="text-3xl font-heading font-bold text-gray-900 mb-6">
-                    Compare {island.name[lang]} with Other Islands
-                  </h2>
-                  <div className="grid grid-cols-2 md:grid-cols-3 gap-3">
-                    {comparisons.map((comp: ComparisonLink) => (
-                      <Link
-                        key={comp.slug}
-                        href={`/compare/${comp.slug}/`}
-                        className="bg-white rounded-2xl shadow-md hover:shadow-xl hover:-translate-y-1 transition-all duration-300 p-4 text-center"
-                      >
-                        <span className="text-sm font-medium text-gray-700">
-                          {island.name[lang]} <span className="text-gray-400">vs</span> {comp.otherName[lang]}
-                        </span>
-                      </Link>
-                    ))}
-                  </div>
-                </section>
-              )}
+              <section className="rounded-3xl bg-white p-6 md:p-8 shadow-sm">
+                <p className="section-label text-thailand-gold">
+                  {lang === 'nl' ? 'Bronnen en review' : 'Sources and review'}
+                </p>
+                <h2 className="text-3xl font-heading font-bold text-gray-900 mb-6">
+                  {lang === 'nl' ? 'Zichtbare bronvermelding' : 'Visible source notes'}
+                </h2>
+                <p className="text-gray-700 leading-relaxed mb-5">
+                  {lang === 'nl'
+                    ? `Deze gids voor ${island.name.en} is op 28 maart 2026 handmatig herzien. Claims over seizoenen en planning zijn bewust algemeen gehouden wanneer precieze operationele details te veranderlijk zijn.`
+                    : `This ${island.name.en} guide was manually revised on March 28, 2026. Season and planning language is intentionally broad where precise operational details are too volatile to present as evergreen facts.`}
+                </p>
+                <ul className="space-y-3">
+                  {sourceLinks.map(source => (
+                    <li key={source.href}>
+                      <a href={source.href} target="_blank" rel="noopener noreferrer" className="text-thailand-blue hover:underline">
+                        {source.label}
+                      </a>
+                    </li>
+                  ))}
+                </ul>
+              </section>
+
+              <section className="rounded-3xl bg-white p-6 md:p-8 shadow-sm">
+                <h2 className="text-3xl font-heading font-bold text-gray-900 mb-6">
+                  {lang === 'nl' ? `Veelgestelde vragen over ${island.name[lang]}` : `Frequently asked questions about ${island.name[lang]}`}
+                </h2>
+                <div className="space-y-4">
+                  {faqs.map(item => (
+                    <details key={item.question} className="rounded-2xl bg-surface-cream p-5">
+                      <summary className="cursor-pointer list-none font-semibold text-gray-900">{item.question}</summary>
+                      <p className="mt-3 text-sm text-gray-700 leading-relaxed">{item.answer}</p>
+                    </details>
+                  ))}
+                </div>
+              </section>
             </div>
 
-            {/* Sidebar */}
-            <aside>
-              <div className="lg:sticky lg:top-4 space-y-6">
-              {/* Best Time to Visit */}
-              <div className="bg-white rounded-2xl shadow-md p-6">
-                <h3 className="text-xl font-heading font-bold mb-4">Best Time to Visit</h3>
-                <div className="space-y-3">
-                  <div className="flex justify-between items-center">
-                    <span className="text-sm text-gray-600">High Season</span>
-                    <span className="font-medium text-thailand-blue">{island.best_time_to_visit.high_season}</span>
+            <aside className="space-y-6 lg:sticky lg:top-4 self-start">
+              <div className="rounded-3xl bg-white p-6 shadow-sm">
+                <h3 className="text-xl font-heading font-bold text-gray-900 mb-4">
+                  {lang === 'nl' ? 'Snelle planning' : 'Quick planning snapshot'}
+                </h3>
+                <div className="space-y-3 text-sm">
+                  <div className="flex justify-between gap-3">
+                    <span className="text-gray-500">{lang === 'nl' ? 'Hoogseizoen' : 'High season'}</span>
+                    <span className="font-semibold text-gray-900">{island.best_time_to_visit.high_season}</span>
                   </div>
-                  <div className="flex justify-between items-center">
-                    <span className="text-sm text-gray-600">Shoulder</span>
-                    <span className="font-medium text-thailand-gold">{island.best_time_to_visit.shoulder}</span>
+                  <div className="flex justify-between gap-3">
+                    <span className="text-gray-500">{lang === 'nl' ? 'Schouderseizoen' : 'Shoulder'}</span>
+                    <span className="font-semibold text-gray-900">{island.best_time_to_visit.shoulder}</span>
                   </div>
-                  <div className="flex justify-between items-center">
-                    <span className="text-sm text-gray-600">Low Season</span>
-                    <span className="font-medium text-orange-600">{island.best_time_to_visit.low_season}</span>
+                  <div className="flex justify-between gap-3">
+                    <span className="text-gray-500">{lang === 'nl' ? 'Rustiger periode' : 'Low season'}</span>
+                    <span className="font-semibold text-gray-900">{island.best_time_to_visit.low_season}</span>
                   </div>
-                  <div className="flex justify-between items-center">
-                    <span className="text-sm text-gray-600">Avoid</span>
-                    <span className="font-medium text-thailand-red">{island.best_time_to_visit.avoid}</span>
-                  </div>
-                </div>
-                <p className="text-sm text-gray-700 mt-4">{island.best_time_to_visit.description[lang]}</p>
-              </div>
-
-              {/* Budget Guide */}
-              <div className="bg-white rounded-2xl shadow-md p-6">
-                <h3 className="text-xl font-heading font-bold mb-4">Daily Budget</h3>
-                <div className="space-y-3">
-                  <div className="flex justify-between items-center">
-                    <span className="text-sm">Budget</span>
-                    <span className="font-bold text-thailand-blue">{island.budget_info.daily_budget.budget}</span>
-                  </div>
-                  <div className="flex justify-between items-center">
-                    <span className="text-sm">Mid-Range</span>
-                    <span className="font-bold text-thailand-blue">{island.budget_info.daily_budget.mid}</span>
-                  </div>
-                  <div className="flex justify-between items-center">
-                    <span className="text-sm">Luxury</span>
-                    <span className="font-bold text-thailand-red">{island.budget_info.daily_budget.luxury}</span>
+                  <div className="flex justify-between gap-3">
+                    <span className="text-gray-500">{lang === 'nl' ? 'Voorzichtig met' : 'Caution window'}</span>
+                    <span className="font-semibold text-gray-900">{island.best_time_to_visit.avoid}</span>
                   </div>
                 </div>
-                <p className="text-sm text-gray-600 mt-4">{island.budget_info.currency_tips[lang]}</p>
+                <p className="mt-4 text-sm text-gray-700 leading-relaxed">{island.best_time_to_visit.description[lang]}</p>
               </div>
 
-              {/* Related Islands */}
+              <div className="rounded-3xl bg-white p-6 shadow-sm">
+                <h3 className="text-xl font-heading font-bold text-gray-900 mb-4">
+                  {lang === 'nl' ? 'Dagbudget' : 'Daily budget'}
+                </h3>
+                <div className="space-y-3 text-sm">
+                  <div className="flex justify-between gap-3">
+                    <span className="text-gray-500">{lang === 'nl' ? 'Budget' : 'Budget'}</span>
+                    <span className="font-semibold text-gray-900">{island.budget_info.daily_budget.budget}</span>
+                  </div>
+                  <div className="flex justify-between gap-3">
+                    <span className="text-gray-500">{lang === 'nl' ? 'Middenklasse' : 'Mid-range'}</span>
+                    <span className="font-semibold text-gray-900">{island.budget_info.daily_budget.mid}</span>
+                  </div>
+                  <div className="flex justify-between gap-3">
+                    <span className="text-gray-500">{lang === 'nl' ? 'Hoog segment' : 'Higher-end'}</span>
+                    <span className="font-semibold text-gray-900">{island.budget_info.daily_budget.luxury}</span>
+                  </div>
+                </div>
+                <p className="mt-4 text-sm text-gray-700 leading-relaxed">{island.budget_info.currency_tips[lang]}</p>
+              </div>
+
               {relatedIslands.length > 0 && (
-                <div className="bg-white rounded-2xl shadow-md p-6">
-                  <h3 className="text-xl font-heading font-bold mb-4">Nearby Islands</h3>
+                <div className="rounded-3xl bg-white p-6 shadow-sm">
+                  <h3 className="text-xl font-heading font-bold text-gray-900 mb-4">
+                    {lang === 'nl' ? 'Verwante eilanden' : 'Related islands'}
+                  </h3>
                   <div className="space-y-4">
                     {relatedIslands.map(related => (
-                      <Link
-                        key={related.slug}
-                        href={`/islands/${related.slug}/`}
-                        className="flex items-center gap-3 group"
-                      >
+                      <Link key={related.slug} href={`/islands/${related.slug}/`} className="flex items-center gap-3 group">
                         <div className="relative w-16 h-16 flex-shrink-0">
-                          <Image
-                            src={related.image}
-                            alt={related.name.en}
-                            fill
-                            className="object-cover rounded-xl"
-                          />
+                          <Image src={related.image} alt={related.name.en} fill className="object-cover rounded-xl" />
                         </div>
                         <div>
-                          <h4 className="font-medium group-hover:text-thailand-blue transition-colors">
+                          <h4 className="font-medium text-gray-900 group-hover:text-thailand-blue transition-colors">
                             {related.name[lang]}
                           </h4>
                           <p className="text-xs text-gray-500">{related.highlights.slice(0, 2).join(', ')}</p>
@@ -542,99 +521,39 @@ export default function IslandPage({ island, relatedIslands, comparisons, affili
                 </div>
               )}
 
-              {/* Trip.com Search Widget */}
-              <TripcomWidget
-                city={island.name.en}
-                type="searchbox"
-                customTitle={`Hotels on ${island.name.en}`}
-              />
-
-              {/* Activities & Tours */}
-              {affiliates && (
-                <AffiliateBox affiliates={affiliates} cityName={island.name.en} type="activities" />
+              {comparisons.length > 0 && (
+                <div className="rounded-3xl bg-white p-6 shadow-sm">
+                  <h3 className="text-xl font-heading font-bold text-gray-900 mb-4">
+                    {lang === 'nl' ? 'Vergelijk slim' : 'Compare intelligently'}
+                  </h3>
+                  <div className="space-y-3">
+                    {comparisons.map(comp => (
+                      <Link key={comp.slug} href={`/compare/${comp.slug}/`} className="block text-sm font-semibold text-thailand-blue hover:underline">
+                        {island.name[lang]} vs {comp.otherName[lang]}
+                      </Link>
+                    ))}
+                  </div>
+                </div>
               )}
 
-              {/* Quick Links */}
-              <div className="bg-surface-dark text-white rounded-2xl p-6">
-                <h3 className="text-xl font-heading font-bold mb-4">Plan Your Visit</h3>
-                <div className="space-y-2">
-                  <a
-                    href="https://12go.tpo.lv/tNA80urD"
-                    target="_blank"
-                    rel="noopener noreferrer"
-                    className="block bg-white/20 hover:bg-white/30 px-4 py-2 rounded-xl text-sm transition-colors"
-                  >
-                    Book Ferry Tickets
-                  </a>
-                  <a
-                    href="https://booking.tpo.lv/2PT1kR82"
-                    target="_blank"
-                    rel="noopener noreferrer"
-                    className="block bg-white/20 hover:bg-white/30 px-4 py-2 rounded-xl text-sm transition-colors"
-                  >
-                    Hotels (Booking.com)
-                  </a>
-                  <a
-                    href="https://trip.tpo.lv/TmObooZ5"
-                    target="_blank"
-                    rel="noopener noreferrer"
-                    className="block bg-white/20 hover:bg-white/30 px-4 py-2 rounded-xl text-sm transition-colors"
-                  >
-                    Hotels (Trip.com)
-                  </a>
-                  <a
-                    href="https://klook.tpo.lv/7Dt6WApj"
-                    target="_blank"
-                    rel="noopener noreferrer"
-                    className="block bg-white/20 hover:bg-white/30 px-4 py-2 rounded-xl text-sm transition-colors"
-                  >
-                    Tours & Activities (Klook)
-                  </a>
-                  <Link
-                    href="/travel-insurance-thailand/"
-                    className="block bg-white/20 hover:bg-white/30 px-4 py-2 rounded-xl text-sm transition-colors"
-                  >
-                    Travel Insurance
+              <div className="rounded-3xl bg-surface-dark text-white p-6">
+                <h3 className="text-xl font-heading font-bold mb-4">
+                  {lang === 'nl' ? 'Sterkere interne routes' : 'Stronger internal routes'}
+                </h3>
+                <div className="space-y-3 text-sm">
+                  <Link href="/islands/" className="block hover:underline">
+                    {lang === 'nl' ? 'Alle eilandengidsen' : 'All island guides'}
                   </Link>
-                  <Link
-                    href={`/region/${island.region}/`}
-                    className="block bg-white/20 hover:bg-white/30 px-4 py-2 rounded-xl text-sm transition-colors"
-                  >
-                    Explore {island.region === 'isaan' ? 'Isaan' : `${island.region.charAt(0).toUpperCase() + island.region.slice(1)}`} Region
+                  <Link href="/thailand-islands/" className="block hover:underline">
+                    {lang === 'nl' ? 'Thailand-eilanden pillar' : 'Thailand islands pillar'}
                   </Link>
-                  <Link
-                    href="/islands/"
-                    className="block bg-white/20 hover:bg-white/30 px-4 py-2 rounded-xl text-sm transition-colors"
-                  >
-                    All Thai Islands
+                  <Link href="/best-beaches-in-thailand/" className="block hover:underline">
+                    {lang === 'nl' ? 'Beste stranden in Thailand' : 'Best beaches in Thailand'}
                   </Link>
-                  <Link
-                    href="/food/"
-                    className="block bg-white/20 hover:bg-white/30 px-4 py-2 rounded-xl text-sm transition-colors"
-                  >
-                    Thai Food Guide
+                  <Link href="/compare/" className="block hover:underline">
+                    {lang === 'nl' ? 'Vergelijk eilanden' : 'Compare islands'}
                   </Link>
-                  <a
-                    href="https://getyourguide.tpo.lv/GuAFfGGK"
-                    target="_blank"
-                    rel="noopener noreferrer"
-                    className="block bg-white/20 hover:bg-white/30 px-4 py-2 rounded-xl text-sm transition-colors"
-                  >
-                    Tours (GetYourGuide)
-                  </a>
-                  <a
-                    href="https://saily.tpo.lv/rf9lidnE"
-                    target="_blank"
-                    rel="noopener noreferrer"
-                    className="block bg-white/20 hover:bg-white/30 px-4 py-2 rounded-xl text-sm transition-colors"
-                  >
-                    Thailand eSIM
-                  </a>
                 </div>
-                <p className="text-white/60 text-xs mt-3">
-                  Some links are affiliate links.
-                </p>
-              </div>
               </div>
             </aside>
           </div>
@@ -646,7 +565,7 @@ export default function IslandPage({ island, relatedIslands, comparisons, affili
 
 export const getStaticPaths: GetStaticPaths = async () => {
   const islands = getAllIslands();
-  const paths = islands.map(island => ({
+  const paths = islands.map((island: { slug: string }) => ({
     params: { slug: island.slug }
   }));
 
@@ -665,27 +584,28 @@ export const getStaticProps: GetStaticProps = async ({ params }) => {
   }
 
   const relatedIslands = getRelatedIslands(island, 3);
-  const affiliates = getIslandAffiliates(params.slug as string);
 
   const comparisonSlugs = getComparisonsForItem(slug, 'island');
-  const comparisons = comparisonSlugs.map((s: string) => {
-    const pair = getComparisonPair(s);
-    if (!pair) return null;
-    const otherSlug = pair.item1Slug === slug ? pair.item2Slug : pair.item1Slug;
-    const islands = getAllIslands();
-    const other = islands.find((i: { slug: string }) => i.slug === otherSlug);
-    return other ? { slug: s, otherName: other.name, otherSlug: other.slug } : null;
-  }).filter(Boolean);
+  const comparisons = comparisonSlugs
+    .map((itemSlug: string) => {
+      const pair = getComparisonPair(itemSlug);
+      if (!pair) return null;
+      const otherSlug = pair.item1Slug === slug ? pair.item2Slug : pair.item1Slug;
+      const islands = getAllIslands();
+      const other = islands.find((item: { slug: string }) => item.slug === otherSlug);
+      return other ? { slug: itemSlug, otherName: other.name, otherSlug: other.slug } : null;
+    })
+    .filter(Boolean);
 
   const transportRoutesPath = pathModule.join(process.cwd(), 'data', 'transport-routes.json');
   const transportData = JSON.parse(fs.readFileSync(transportRoutesPath, 'utf-8'));
   const relevantRoutes = (transportData.routes || [])
-    .filter((r: any) => r.to === slug || r.from === slug)
+    .filter((route: any) => route.to === slug || route.from === slug)
     .slice(0, 3)
-    .map((r: any) => ({
-      slug: r.slug,
-      from: r.from.split('-').map((w: string) => w.charAt(0).toUpperCase() + w.slice(1)).join(' '),
-      to: r.to.split('-').map((w: string) => w.charAt(0).toUpperCase() + w.slice(1)).join(' '),
+    .map((route: any) => ({
+      slug: route.slug,
+      from: route.from.split('-').map((word: string) => word.charAt(0).toUpperCase() + word.slice(1)).join(' '),
+      to: route.to.split('-').map((word: string) => word.charAt(0).toUpperCase() + word.slice(1)).join(' ')
     }));
 
   return {
@@ -693,7 +613,6 @@ export const getStaticProps: GetStaticProps = async ({ params }) => {
       island,
       relatedIslands,
       comparisons,
-      affiliates,
       relevantRoutes
     },
     revalidate: 86400

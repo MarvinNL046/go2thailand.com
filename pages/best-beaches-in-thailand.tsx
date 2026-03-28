@@ -1,11 +1,9 @@
 import { GetStaticProps } from 'next';
-import SEOHead from '../components/SEOHead';
 import Link from 'next/link';
-import Image from 'next/image';
 import { useRouter } from 'next/router';
 import { useState } from 'react';
+import SEOHead from '../components/SEOHead';
 import Breadcrumbs from '../components/Breadcrumbs';
-import TripcomWidget from '../components/TripcomWidget';
 
 interface BeachData {
   rank: number;
@@ -41,11 +39,176 @@ interface BestBeachesProps {
   data: PageData;
 }
 
+type Lang = 'en' | 'nl';
 type FilterCategory = 'all' | 'families' | 'snorkeling' | 'party' | 'relaxation' | 'budget';
+
+const SOURCE_LINKS = [
+  {
+    label: 'Tourism Authority of Thailand: 20 crystal-clear water and beaches of Thailand',
+    href: 'https://tourismproduct.tourismthailand.org/en/2023/01/27/20-crystal-clear-water-and-beaches-of-thailand/'
+  },
+  {
+    label: 'Tourism Authority of Thailand: Phuket province',
+    href: 'https://www.tourismthailand.org/Destinations/Provinces/phuket/350'
+  },
+  {
+    label: 'Tourism Authority of Thailand: Ko Samui',
+    href: 'https://www.tourismthailand.org/Destinations/Provinces/Ko-Samui/360'
+  },
+  {
+    label: 'Tourism Authority of Thailand: Ko Phi Phi',
+    href: 'https://www.tourismthailand.org/Destinations/Provinces/Ko-Phi-Phi/359'
+  },
+  {
+    label: 'Tourism Authority of Thailand: Ko Tao',
+    href: 'https://www.tourismthailand.org/Destinations/Provinces/ko-tao/361'
+  },
+  {
+    label: 'Tourism Authority of Thailand: Ko Chang',
+    href: 'https://www.tourismthailand.org/Destinations/Provinces/Ko%20Chang/467'
+  }
+];
+
+const PLANNING_NOTES: Record<Lang, Array<{ title: string; body: string }>> = {
+  en: [
+    {
+      title: 'Start with the right coast',
+      body: 'The Andaman side is the classic choice for limestone scenery, famous bays, and easy beach-hopping from Phuket or Krabi. The Gulf side works better when you want calmer water, diving-focused trips, or a shoulder-season backup while the west coast is rougher.'
+    },
+    {
+      title: 'Treat this as a shortlist, not a claim to every beach in Thailand',
+      body: 'We kept the list limited to beaches that are defensible for first-trip planning: places with a clear identity, repeat-value, and enough practical context to help you choose between them.'
+    },
+    {
+      title: 'Choose the island before you choose the sand',
+      body: 'A beach can look perfect in photos but still be the wrong base if boat access, crowd levels, or island size do not match your trip. Use the island links below before you lock in an itinerary.'
+    }
+  ],
+  nl: [
+    {
+      title: 'Begin met de juiste kust',
+      body: 'De Andamankust is de klassieke keuze voor kalkstenen kliffen, iconische baaien en makkelijk beach-hoppen vanaf Phuket of Krabi. De Golfkant werkt beter voor rustiger water, duikreizen of een alternatief in het schouderseizoen wanneer de westkust ruwer is.'
+    },
+    {
+      title: 'Zie dit als een shortlist, niet als een claim op elk strand in Thailand',
+      body: 'We houden de lijst bewust beperkt tot stranden die verdedigbaar zijn voor echte reisplanning: plekken met een duidelijk karakter, herhaalwaarde en genoeg context om er een keuze op te baseren.'
+    },
+    {
+      title: 'Kies eerst het eiland, daarna het strand',
+      body: 'Een strand kan er perfect uitzien op foto\'s maar alsnog de verkeerde uitvalsbasis zijn als boottoegang, drukte of eilandgrootte niet bij je reis passen. Gebruik daarom eerst de eilandlinks hieronder.'
+    }
+  ]
+};
+
+const COAST_GUIDE: Record<Lang, Array<{ coast: string; body: string; routes: Array<{ href: string; label: string }> }>> = {
+  en: [
+    {
+      coast: 'Andaman Sea',
+      body: 'Best for iconic scenery, headline beaches, and multi-stop island trips. TAT\'s Phuket and Phi Phi pages support the basic pattern here: headline beaches are easier to reach, but crowd pressure is highest on the best-known stretches.',
+      routes: [
+        { href: '/islands/phuket/', label: 'Phuket guide' },
+        { href: '/islands/koh-phi-phi/', label: 'Koh Phi Phi guide' },
+        { href: '/islands/koh-lanta/', label: 'Koh Lanta guide' }
+      ]
+    },
+    {
+      coast: 'Gulf of Thailand',
+      body: 'Better for travelers choosing between Samui comfort, Phangan variety, Tao diving, or the quieter Trat islands. The Gulf is often the more practical answer when you want one island base instead of a fast-moving hop.',
+      routes: [
+        { href: '/islands/koh-samui/', label: 'Koh Samui guide' },
+        { href: '/islands/koh-tao/', label: 'Koh Tao guide' },
+        { href: '/islands/koh-chang/', label: 'Koh Chang guide' }
+      ]
+    }
+  ],
+  nl: [
+    {
+      coast: 'Andamanzee',
+      body: 'Het sterkst voor iconische landschappen, bekende stranden en eilandroutes met meerdere stops. De officiële TAT-pagina\'s voor Phuket en Phi Phi ondersteunen hetzelfde patroon: de bekendste stranden zijn het makkelijkst bereikbaar, maar ook het drukst.',
+      routes: [
+        { href: '/islands/phuket/', label: 'Phuket-gids' },
+        { href: '/islands/koh-phi-phi/', label: 'Koh Phi Phi-gids' },
+        { href: '/islands/koh-lanta/', label: 'Koh Lanta-gids' }
+      ]
+    },
+    {
+      coast: 'Golf van Thailand',
+      body: 'Sterker voor reizigers die kiezen tussen het comfort van Samui, de variatie van Phangan, het duiken van Tao of de rustigere eilanden bij Trat. De Golf is vaak de praktischere keuze als je een vaste uitvalsbasis wilt in plaats van snel doorhoppen.',
+      routes: [
+        { href: '/islands/koh-samui/', label: 'Koh Samui-gids' },
+        { href: '/islands/koh-tao/', label: 'Koh Tao-gids' },
+        { href: '/islands/koh-chang/', label: 'Koh Chang-gids' }
+      ]
+    }
+  ]
+};
+
+const NEXT_STEPS: Record<Lang, Array<{ href: string; title: string; body: string }>> = {
+  en: [
+    {
+      href: '/thailand-islands/',
+      title: 'Use the island pillar next',
+      body: 'Move from beach dreaming to island selection, with notes on who each island suits and how to narrow the shortlist.'
+    },
+    {
+      href: '/islands/',
+      title: 'Browse every island guide',
+      body: 'Use the discovery hub if you already know you need a deeper island-by-island read before choosing beaches.'
+    },
+    {
+      href: '/compare/',
+      title: 'Compare likely contenders',
+      body: 'Useful when your shortlist is down to two islands and the real question is pace, logistics, and beach style.'
+    }
+  ],
+  nl: [
+    {
+      href: '/thailand-islands/',
+      title: 'Ga daarna naar de eilandengids',
+      body: 'Van strandinspiratie naar eilandkeuze, met uitleg voor welk type reiziger elk eiland het beste werkt.'
+    },
+    {
+      href: '/islands/',
+      title: 'Bekijk alle eilandengidsen',
+      body: 'Gebruik de hub als je eerst per eiland dieper wilt lezen voordat je stranden kiest.'
+    },
+    {
+      href: '/compare/',
+      title: 'Vergelijk je laatste kanshebbers',
+      body: 'Handig wanneer je shortlist nog uit twee eilanden bestaat en het draait om tempo, logistiek en strandtype.'
+    }
+  ]
+};
+
+function getSelectionReason(beach: BeachData, lang: Lang): string {
+  const tags = beach.best_for.map(item => item.toLowerCase());
+
+  if (tags.some(tag => ['snorkeling', 'diving'].includes(tag))) {
+    return lang === 'nl'
+      ? 'Sterke keuze als je strandtijd wilt combineren met snorkelen of duiken.'
+      : 'Strong pick if you want beach time to overlap with snorkeling or diving access.';
+  }
+
+  if (tags.some(tag => ['families', 'swimming'].includes(tag)) || beach.crowd_level === 'low') {
+    return lang === 'nl'
+      ? 'Verdedigbaar voor rustigere stranddagen of reizen met kinderen.'
+      : 'Defensible for calmer beach days or trips with children.';
+  }
+
+  if (tags.some(tag => ['nightlife', 'party', 'fire shows', 'full moon party'].includes(tag))) {
+    return lang === 'nl'
+      ? 'Meer geschikt als je sfeer en avondleven belangrijker vindt dan stilte.'
+      : 'Better suited when atmosphere and evening energy matter more than isolation.';
+  }
+
+  return lang === 'nl'
+    ? 'Een allround keuze met een duidelijk eigen karakter binnen deze shortlist.'
+    : 'An all-rounder with a clear identity inside this shortlist.';
+}
 
 export default function BestBeachesInThailand({ data }: BestBeachesProps) {
   const { locale } = useRouter();
-  const lang = (locale === 'nl' ? 'nl' : 'en') as 'en' | 'nl';
+  const lang: Lang = locale === 'nl' ? 'nl' : 'en';
   const [activeFilter, setActiveFilter] = useState<FilterCategory>('all');
 
   const breadcrumbItems = [
@@ -56,63 +219,40 @@ export default function BestBeachesInThailand({ data }: BestBeachesProps) {
     }
   ];
 
-  const filterBeaches = (beaches: BeachData[]): BeachData[] => {
-    switch (activeFilter) {
-      case 'families':
-        return beaches.filter(b =>
-          b.best_for.some(f =>
-            ['families', 'swimming'].includes(f.toLowerCase())
-          ) && b.crowd_level === 'low'
-        );
-      case 'snorkeling':
-        return beaches.filter(b =>
-          b.best_for.some(f =>
-            ['snorkeling', 'diving'].includes(f.toLowerCase())
-          )
-        );
-      case 'party':
-        return beaches.filter(b =>
-          b.best_for.some(f =>
-            ['nightlife', 'party', 'fire shows', 'full moon party'].includes(f.toLowerCase())
-          )
-        );
-      case 'relaxation':
-        return beaches.filter(b =>
-          b.best_for.some(f =>
-            ['relaxation', 'seclusion', 'romance'].includes(f.toLowerCase())
-          )
-        );
-      case 'budget':
-        return beaches.filter(b => b.budget_level === 'budget');
-      default:
-        return beaches;
-    }
-  };
-
-  const filteredBeaches = filterBeaches(data.beaches);
-
-  const gulfBeaches = data.beaches.filter(b => b.region === 'Gulf of Thailand');
-  const andamanBeaches = data.beaches.filter(b => b.region === 'Andaman Sea');
-
   const filterLabels: Record<FilterCategory, { en: string; nl: string }> = {
-    all: { en: 'All Beaches', nl: 'Alle Stranden' },
+    all: { en: 'All Beaches', nl: 'Alle stranden' },
     families: { en: 'Families', nl: 'Gezinnen' },
-    snorkeling: { en: 'Snorkeling & Diving', nl: 'Snorkelen & Duiken' },
-    party: { en: 'Party & Nightlife', nl: 'Party & Nachtleven' },
-    relaxation: { en: 'Relaxation', nl: 'Ontspanning' },
+    snorkeling: { en: 'Snorkeling & Diving', nl: 'Snorkelen & duiken' },
+    party: { en: 'Party & Nightlife', nl: 'Party & nachtleven' },
+    relaxation: { en: 'Relaxation', nl: 'Rust' },
     budget: { en: 'Budget', nl: 'Budget' }
   };
+
+  const filteredBeaches = data.beaches.filter(beach => {
+    switch (activeFilter) {
+      case 'families':
+        return beach.best_for.some(item => ['families', 'swimming'].includes(item.toLowerCase())) || beach.crowd_level === 'low';
+      case 'snorkeling':
+        return beach.best_for.some(item => ['snorkeling', 'diving'].includes(item.toLowerCase()));
+      case 'party':
+        return beach.best_for.some(item => ['nightlife', 'party', 'fire shows', 'full moon party'].includes(item.toLowerCase()));
+      case 'relaxation':
+        return beach.best_for.some(item => ['relaxation', 'seclusion', 'romance'].includes(item.toLowerCase()));
+      case 'budget':
+        return beach.budget_level === 'budget';
+      default:
+        return true;
+    }
+  });
+
+  const gulfBeaches = data.beaches.filter(beach => beach.region === 'Gulf of Thailand').slice(0, 5);
+  const andamanBeaches = data.beaches.filter(beach => beach.region === 'Andaman Sea').slice(0, 5);
 
   const articleSchema = {
     '@context': 'https://schema.org',
     '@type': 'Article',
     headline: data.title[lang],
-    author: {
-      '@type': 'Organization',
-      name: 'Go2Thailand'
-    },
-    datePublished: '2026-02-18',
-    dateModified: data.last_updated,
+    author: { '@type': 'Organization', name: 'Go2Thailand' },
     publisher: {
       '@type': 'Organization',
       name: 'Go2Thailand',
@@ -121,20 +261,18 @@ export default function BestBeachesInThailand({ data }: BestBeachesProps) {
         url: 'https://go2-thailand.com/logo.png'
       }
     },
-    image: 'https://go2-thailand.com/images/islands/koh-phi-phi.webp',
-    url: 'https://go2-thailand.com/best-beaches-in-thailand'
+    dateModified: data.last_updated,
+    url: 'https://go2-thailand.com/best-beaches-in-thailand/'
   };
 
-  const itemListSchema = {
+  const breadcrumbSchema = {
     '@context': 'https://schema.org',
-    '@type': 'ItemList',
-    name: data.title[lang],
-    numberOfItems: data.beaches.length,
-    itemListElement: data.beaches.map(beach => ({
+    '@type': 'BreadcrumbList',
+    itemListElement: breadcrumbItems.map((item, index) => ({
       '@type': 'ListItem',
-      position: beach.rank,
-      name: beach.name,
-      url: `https://go2-thailand.com/islands/${beach.island_slug}/`
+      position: index + 1,
+      name: item.name,
+      item: `https://go2-thailand.com${item.href}`
     }))
   };
 
@@ -151,86 +289,73 @@ export default function BestBeachesInThailand({ data }: BestBeachesProps) {
     }))
   };
 
-  const breadcrumbSchema = {
-    '@context': 'https://schema.org',
-    '@type': 'BreadcrumbList',
-    itemListElement: breadcrumbItems.map((item, index) => ({
-      '@type': 'ListItem',
-      position: index + 1,
-      name: item.name,
-      item: `https://go2-thailand.com${item.href}`
-    }))
-  };
-
-  const combinedSchema = [articleSchema, itemListSchema, faqSchema, breadcrumbSchema];
+  const combinedSchema = [articleSchema, breadcrumbSchema, faqSchema];
 
   const pageTitle =
     lang === 'nl'
-      ? '25 Beste Stranden in Thailand — Gerangschikte Gids 2026 | Go2Thailand'
-      : 'Best Beaches in Thailand — 25 Must-Visit Spots (2026)';
+      ? 'Beste Stranden in Thailand | Redactionele gids voor strandkeuze'
+      : 'Best Beaches in Thailand | Editorial guide to choosing the right coast';
 
   const pageDescription =
     lang === 'nl'
-      ? 'De 25 mooiste stranden van Thailand, gerangschikt en vergeleken. Van Maya Bay op Koh Phi Phi tot Sunrise Beach op Koh Lipe — vind jouw perfect Thais strand.'
-      : 'The 25 most stunning beaches in Thailand, ranked and compared. From Maya Bay on Koh Phi Phi to Sunrise Beach on Koh Lipe — find your perfect Thai beach.';
+      ? 'Gebruik deze redactionele gids om tussen Thailandse stranden en eilanden te kiezen, met duidelijke kustlogica, shortlist-keuzes en zichtbare bronnen.'
+      : 'Use this editorial guide to choose between Thailand beaches and islands, with clear coast logic, shortlist framing, and visible source signals.';
 
   return (
     <>
-      <SEOHead
-        title={pageTitle}
-        description={pageDescription}
-      >
-        <meta
-          name="keywords"
-          content="best beaches Thailand, Thailand beach guide, Maya Bay, Koh Lipe, Koh Phi Phi beaches, snorkeling Thailand, family beaches Thailand, Thailand beach ranking 2026"
-        />
+      <SEOHead title={pageTitle} description={pageDescription}>
         <script
           type="application/ld+json"
           dangerouslySetInnerHTML={{ __html: JSON.stringify(combinedSchema) }}
         />
       </SEOHead>
 
-      <div className="bg-surface-cream min-h-screen">
-        {/* Hero Section */}
+      <div className="min-h-screen bg-surface-cream">
         <section className="bg-surface-dark text-white">
-          <div className="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8 py-16 md:py-24">
-            <div className="text-center">
-              <p className="font-script text-thailand-gold text-lg mb-2">Sun, Sand & Sea</p>
-              <h1 className="text-4xl lg:text-6xl font-bold font-heading mb-6">
-                {data.title[lang]}
-              </h1>
-              <p className="text-xl lg:text-2xl mb-6 max-w-3xl mx-auto opacity-90">
-                {lang === 'nl'
-                  ? 'De definitieve gerangschikte gids voor Thailand\'s mooiste stranden over 10 eilanden en 2 kustlijnen'
-                  : 'The definitive ranked guide to Thailand\'s most stunning beaches across 10 islands and 2 coastlines'}
+          <div className="max-w-6xl mx-auto px-4 sm:px-6 lg:px-8 py-16 md:py-24">
+            <div className="max-w-4xl">
+              <p className="font-script text-thailand-gold text-lg mb-3">
+                {lang === 'nl' ? 'Redactionele strandgids' : 'Editorial beach planning guide'}
               </p>
-              <div className="flex flex-wrap justify-center gap-4 text-sm font-medium opacity-80">
-                <span className="bg-white/20 px-4 py-2 rounded-full">25 beaches</span>
-                <span className="bg-white/20 px-4 py-2 rounded-full">10 islands</span>
-                <span className="bg-white/20 px-4 py-2 rounded-full">2 coastlines</span>
-                <span className="bg-white/20 px-4 py-2 rounded-full">Updated Feb 2026</span>
+              <h1 className="text-4xl lg:text-6xl font-heading font-bold mb-6">
+                {lang === 'nl' ? 'De stranden die echt helpen bij je keuze' : 'The beaches that actually help you choose'}
+              </h1>
+              <p className="text-lg lg:text-2xl opacity-90 max-w-3xl">
+                {lang === 'nl'
+                  ? 'Niet elk mooi strand is de juiste uitvalsbasis. Deze gids helpt je kiezen tussen Thailand\'s bekendste strandgebieden door kust, eilandtype, drukte en gebruikswaarde naast elkaar te zetten.'
+                  : 'Not every beautiful beach makes sense as a trip base. This guide helps you choose between Thailand\'s headline beach zones by putting coast, island style, crowd pressure, and planning value side by side.'}
+              </p>
+              <div className="flex flex-wrap gap-3 mt-8 text-sm">
+                <span className="bg-white/15 rounded-full px-4 py-2">25 beaches</span>
+                <span className="bg-white/15 rounded-full px-4 py-2">10 island bases</span>
+                <span className="bg-white/15 rounded-full px-4 py-2">Reviewed March 28, 2026</span>
               </div>
             </div>
           </div>
         </section>
 
-        {/* Breadcrumbs */}
         <section className="bg-white border-b">
-          <div className="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8 py-4">
+          <div className="max-w-6xl mx-auto px-4 sm:px-6 lg:px-8 py-4">
             <Breadcrumbs items={breadcrumbItems} />
           </div>
         </section>
 
-        {/* Intro Text */}
-        <section className="bg-white py-8 border-b">
-          <div className="max-w-4xl mx-auto px-4 sm:px-6 lg:px-8">
+        <section className="bg-white border-b">
+          <div className="max-w-4xl mx-auto px-4 sm:px-6 lg:px-8 py-10 space-y-5">
             <p className="text-lg text-gray-700 leading-relaxed">{data.intro[lang]}</p>
+            <div className="grid md:grid-cols-3 gap-4">
+              {PLANNING_NOTES[lang].map(note => (
+                <div key={note.title} className="rounded-2xl bg-surface-cream p-5">
+                  <h2 className="text-lg font-heading font-bold text-gray-900 mb-2">{note.title}</h2>
+                  <p className="text-sm text-gray-700 leading-relaxed">{note.body}</p>
+                </div>
+              ))}
+            </div>
           </div>
         </section>
 
-        {/* Filter Buttons */}
-        <section className="bg-white border-b sticky top-0 z-40 shadow-sm">
-          <div className="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8 py-4">
+        <section className="bg-white border-b sticky top-0 z-30 shadow-sm">
+          <div className="max-w-6xl mx-auto px-4 sm:px-6 lg:px-8 py-4">
             <div className="flex gap-3 overflow-x-auto scrollbar-hide">
               {(Object.keys(filterLabels) as FilterCategory[]).map(category => (
                 <button
@@ -249,586 +374,189 @@ export default function BestBeachesInThailand({ data }: BestBeachesProps) {
           </div>
         </section>
 
-        {/* Beach Cards */}
         <section className="py-12">
-          <div className="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8">
-            {filteredBeaches.length === 0 ? (
-              <div className="text-center py-16 text-gray-500">
-                <p className="text-xl">
-                  {lang === 'nl'
-                    ? 'Geen stranden gevonden voor deze filter.'
-                    : 'No beaches found for this filter.'}
+          <div className="max-w-6xl mx-auto px-4 sm:px-6 lg:px-8">
+            <div className="flex items-end justify-between gap-4 mb-8">
+              <div>
+                <p className="section-label text-thailand-gold">
+                  {lang === 'nl' ? 'Shortlist' : 'Shortlist'}
                 </p>
+                <h2 className="text-3xl font-heading font-bold text-gray-900">
+                  {lang === 'nl'
+                    ? 'Welke stranden horen op je eerste shortlist?'
+                    : 'Which beaches deserve a first-pass shortlist?'}
+                </h2>
               </div>
-            ) : (
-              <div className="space-y-8">
-                {filteredBeaches.map((beach, index) => (
-                  <div key={beach.rank}>
-                    <article className="bg-white rounded-2xl shadow-md overflow-hidden relative hover:shadow-lg transition-shadow">
-                      {/* Rank Badge */}
-                      <div className="absolute top-4 left-4 z-10 bg-thailand-gold text-white w-10 h-10 rounded-full flex items-center justify-center font-bold text-lg shadow-lg">
-                        #{beach.rank}
-                      </div>
+              <Link href="/thailand-islands/" className="text-sm font-semibold text-thailand-blue hover:underline">
+                {lang === 'nl' ? 'Ga door naar de eilandengids' : 'Continue to the island pillar'}
+              </Link>
+            </div>
 
-                      {/* Island Image */}
-                      <div className="relative h-48 md:h-64">
-                        <Image
-                          src={`/images/islands/${beach.island_slug}.webp`}
-                          alt={`${beach.name} - ${beach.island_name[lang]}`}
-                          fill
-                          className="object-cover"
-                          unoptimized
-                        />
-                        <div className="absolute inset-0 bg-gradient-to-t from-black/60 to-transparent" />
-                        <div className="absolute bottom-4 left-4 text-white">
-                          <h2 className="text-2xl font-bold font-heading">{beach.name}</h2>
-                          <div className="flex items-center gap-2 mt-1">
-                            <Link
-                              href={`/islands/${beach.island_slug}/`}
-                              className="text-white/90 hover:text-white underline text-sm"
-                            >
-                              {beach.island_name[lang]}
-                            </Link>
-                            <span className="text-white/70 text-sm">· {beach.region}</span>
-                            <span className="text-white/70 text-sm">· {beach.province}</span>
-                          </div>
+            <div className="space-y-6">
+              {filteredBeaches.map(beach => (
+                <article key={beach.rank} className="bg-white rounded-3xl shadow-sm border border-gray-100 p-6 md:p-8">
+                  <div className="flex flex-col md:flex-row md:items-start md:justify-between gap-5">
+                    <div className="max-w-3xl">
+                      <div className="flex flex-wrap items-center gap-3 mb-3">
+                        <span className="inline-flex h-10 w-10 items-center justify-center rounded-full bg-thailand-blue text-white font-bold">
+                          {beach.rank}
+                        </span>
+                        <div>
+                          <h3 className="text-2xl font-heading font-bold text-gray-900">{beach.name}</h3>
+                          <p className="text-sm text-gray-500">
+                            {beach.island_name[lang]} · {beach.region} · {beach.province}
+                          </p>
                         </div>
                       </div>
+                      <p className="text-gray-700 leading-relaxed mb-4">{beach.description[lang]}</p>
+                      <p className="text-sm font-medium text-thailand-blue mb-4">{getSelectionReason(beach, lang)}</p>
+                    </div>
 
-                      {/* Content */}
-                      <div className="p-6">
-                        {/* Best For Tags */}
-                        <div className="flex flex-wrap gap-2 mb-4">
-                          {beach.best_for.map(tag => (
-                            <span
-                              key={tag}
-                              className="px-3 py-1 bg-blue-50 text-blue-700 rounded-full text-xs font-medium capitalize"
-                            >
-                              {tag}
-                            </span>
-                          ))}
-                        </div>
-
-                        <p className="text-gray-700 mb-4 leading-relaxed">{beach.description[lang]}</p>
-
-                        {/* Info Grid */}
-                        <div className="grid grid-cols-3 gap-3 mb-4 text-sm">
-                          <div className="bg-surface-cream rounded-xl p-3 text-center">
-                            <div className="text-gray-500 text-xs mb-1">
-                              {lang === 'nl' ? 'Beste Maanden' : 'Best Months'}
-                            </div>
-                            <div className="font-semibold text-gray-900">{beach.best_months}</div>
-                          </div>
-                          <div className="bg-surface-cream rounded-xl p-3 text-center">
-                            <div className="text-gray-500 text-xs mb-1">
-                              {lang === 'nl' ? 'Drukte' : 'Crowd Level'}
-                            </div>
-                            <div className="font-semibold text-gray-900 capitalize">{beach.crowd_level}</div>
-                          </div>
-                          <div className="bg-surface-cream rounded-xl p-3 text-center">
-                            <div className="text-gray-500 text-xs mb-1">
-                              {lang === 'nl' ? 'Budget' : 'Budget'}
-                            </div>
-                            <div className="font-semibold text-gray-900 capitalize">{beach.budget_level}</div>
-                          </div>
-                        </div>
-
-                        {/* Highlights */}
-                        <ul className="space-y-1 mb-4">
-                          {beach.highlights[lang].map((highlight, i) => (
-                            <li key={i} className="flex items-start text-sm text-gray-600">
-                              <span className="text-green-500 mr-2 mt-0.5 flex-shrink-0">&#10003;</span>
-                              {highlight}
-                            </li>
-                          ))}
-                        </ul>
-
-                        {/* Pro Tip */}
-                        <div className="bg-amber-50 border-l-4 border-amber-400 p-4 rounded-r-lg">
-                          <span className="font-semibold text-amber-800 text-sm">
-                            {lang === 'nl' ? 'Pro Tip: ' : 'Pro Tip: '}
-                          </span>
-                          <span className="text-amber-900 text-sm">{beach.tip[lang]}</span>
-                        </div>
+                    <div className="grid grid-cols-2 gap-3 md:w-64 text-sm">
+                      <div className="rounded-2xl bg-surface-cream p-3">
+                        <div className="text-gray-500 mb-1">{lang === 'nl' ? 'Beste maanden' : 'Best months'}</div>
+                        <div className="font-semibold text-gray-900">{beach.best_months}</div>
                       </div>
-                    </article>
-
-                    {/* Affiliate CTAs after every 5th beach */}
-                    {beach.rank === 5 && (
-                      <div className="bg-surface-dark rounded-2xl p-6 text-white my-8">
-                        <h3 className="text-xl font-bold font-heading mb-2">
-                          {lang === 'nl' ? 'Boek je Eilandhoppen' : 'Book Your Island Hopping'}
-                        </h3>
-                        <p className="opacity-90 mb-4 text-sm">
-                          {lang === 'nl'
-                            ? 'Veerboten, hotels en tours voor de beste stranden van Thailand'
-                            : "Ferries, hotels & tours for Thailand's best beaches"}
-                        </p>
-                        <div className="flex flex-wrap gap-3">
-                          <a
-                            href="https://12go.tpo.lv/tNA80urD"
-                            target="_blank"
-                            rel="noopener noreferrer nofollow"
-                            className="bg-white text-thailand-blue px-4 py-2 rounded-full font-semibold text-sm hover:bg-gray-100 transition-colors"
-                          >
-                            Book Ferries
-                          </a>
-                          <a
-                            href="https://booking.tpo.lv/2PT1kR82"
-                            target="_blank"
-                            rel="noopener noreferrer nofollow"
-                            className="bg-white text-thailand-blue px-4 py-2 rounded-full font-semibold text-sm hover:bg-gray-100 transition-colors"
-                          >
-                            Booking.com
-                          </a>
-                          <a
-                            href="https://trip.tpo.lv/TmObooZ5"
-                            target="_blank"
-                            rel="noopener noreferrer nofollow"
-                            className="bg-white text-thailand-blue px-4 py-2 rounded-full font-semibold text-sm hover:bg-gray-100 transition-colors"
-                          >
-                            Trip.com Hotels
-                          </a>
-                          <a
-                            href="https://klook.tpo.lv/7Dt6WApj"
-                            target="_blank"
-                            rel="noopener noreferrer nofollow"
-                            className="bg-white text-thailand-blue px-4 py-2 rounded-full font-semibold text-sm hover:bg-gray-100 transition-colors"
-                          >
-                            Tours &amp; Activities
-                          </a>
-                        </div>
+                      <div className="rounded-2xl bg-surface-cream p-3">
+                        <div className="text-gray-500 mb-1">{lang === 'nl' ? 'Drukte' : 'Crowd level'}</div>
+                        <div className="font-semibold text-gray-900 capitalize">{beach.crowd_level}</div>
                       </div>
-                    )}
-
-                    {beach.rank === 10 && (
-                      <div className="my-8">
-                        <TripcomWidget
-                          city="Thailand Islands"
-                          type="searchbox"
-                          customTitle={
-                            lang === 'nl'
-                              ? 'Vind Hotels op de Beste Stranden'
-                              : 'Find Hotels on the Best Beaches'
-                          }
-                        />
+                      <div className="rounded-2xl bg-surface-cream p-3 col-span-2">
+                        <div className="text-gray-500 mb-1">{lang === 'nl' ? 'Strand werkt goed voor' : 'Works best for'}</div>
+                        <div className="font-semibold text-gray-900">{beach.best_for.slice(0, 3).join(', ')}</div>
                       </div>
-                    )}
-
-                    {beach.rank === 15 && (
-                      <div className="bg-surface-dark rounded-2xl p-6 text-white my-8">
-                        <h3 className="text-xl font-bold font-heading mb-2">
-                          {lang === 'nl' ? 'Boek Snorkel &amp; Duik Tours' : 'Book Snorkel & Dive Tours'}
-                        </h3>
-                        <p className="opacity-90 mb-4 text-sm">
-                          {lang === 'nl'
-                            ? 'De beste onderwaterervaringen bij deze stranden'
-                            : 'The best underwater experiences at these beaches'}
-                        </p>
-                        <div className="flex flex-wrap gap-3">
-                          <a
-                            href="https://klook.tpo.lv/7Dt6WApj"
-                            target="_blank"
-                            rel="noopener noreferrer nofollow"
-                            className="bg-white text-thailand-blue px-4 py-2 rounded-full font-semibold text-sm hover:bg-gray-100 transition-colors"
-                          >
-                            Klook Tours
-                          </a>
-                          <a
-                            href="https://getyourguide.tpo.lv/GuAFfGGK"
-                            target="_blank"
-                            rel="noopener noreferrer nofollow"
-                            className="bg-white text-thailand-blue px-4 py-2 rounded-full font-semibold text-sm hover:bg-gray-100 transition-colors"
-                          >
-                            GetYourGuide
-                          </a>
-                          <a
-                            href="https://saily.tpo.lv/rf9lidnE"
-                            target="_blank"
-                            rel="noopener noreferrer nofollow"
-                            className="bg-white text-thailand-blue px-4 py-2 rounded-full font-semibold text-sm hover:bg-gray-100 transition-colors"
-                          >
-                            Get eSIM for Maps
-                          </a>
-                        </div>
-                      </div>
-                    )}
-
-                    {beach.rank === 20 && (
-                      <div className="bg-surface-dark rounded-2xl p-6 text-white my-8">
-                        <h3 className="text-xl font-bold font-heading mb-2">
-                          {lang === 'nl' ? 'Vervoer naar de Eilanden' : 'Transport to the Islands'}
-                        </h3>
-                        <p className="opacity-90 mb-4 text-sm">
-                          {lang === 'nl'
-                            ? 'Veerboten, vluchten en transfers'
-                            : 'Ferries, flights & transfers'}
-                        </p>
-                        <div className="flex flex-wrap gap-3">
-                          <a
-                            href="https://12go.tpo.lv/tNA80urD"
-                            target="_blank"
-                            rel="noopener noreferrer nofollow"
-                            className="bg-white text-thailand-red px-4 py-2 rounded-full font-semibold text-sm hover:bg-gray-100 transition-colors"
-                          >
-                            12go Ferries
-                          </a>
-                          <a
-                            href="https://trip.tpo.lv/iP1HSint"
-                            target="_blank"
-                            rel="noopener noreferrer nofollow"
-                            className="bg-white text-thailand-red px-4 py-2 rounded-full font-semibold text-sm hover:bg-gray-100 transition-colors"
-                          >
-                            Hotel + Flight Bundle
-                          </a>
-                          <a
-                            href="https://trip.tpo.lv/fzIWyBhW"
-                            target="_blank"
-                            rel="noopener noreferrer nofollow"
-                            className="bg-white text-thailand-red px-4 py-2 rounded-full font-semibold text-sm hover:bg-gray-100 transition-colors"
-                          >
-                            Car Rental
-                          </a>
-                        </div>
-                      </div>
-                    )}
+                    </div>
                   </div>
-                ))}
-              </div>
-            )}
-          </div>
-        </section>
 
-        {/* By Region Section */}
-        <section className="py-12 bg-white">
-          <div className="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8">
-            <p className="section-label text-center">Explore</p>
-            <h2 className="text-3xl font-bold font-heading text-gray-900 mb-8 text-center">
-              {lang === 'nl' ? 'Stranden per Regio' : 'Beaches by Region'}
-            </h2>
-            <div className="grid md:grid-cols-2 gap-8">
-              {/* Gulf of Thailand */}
-              <div className="bg-white rounded-2xl p-6 shadow-md">
-                <h3 className="text-xl font-bold font-heading text-blue-800 mb-2">Gulf of Thailand</h3>
-                <p className="text-blue-700 text-sm mb-4">
-                  {lang === 'nl'
-                    ? 'De Golf van Thailand biedt het hele jaar door rustig water met uitstekende duikmogelijkheden. Koh Tao, Koh Samui en Koh Phangan zijn de iconische eilanden van deze kust. Seizoen: jaar rond, beste periode december-maart.'
-                    : 'The Gulf of Thailand offers calm year-round waters with excellent diving conditions. Koh Tao, Koh Samui, and Koh Phangan are the iconic islands of this coast. Season: year-round, best December-March.'}
-                </p>
-                <ul className="space-y-2">
-                  {gulfBeaches.map(beach => (
-                    <li key={beach.rank} className="flex items-center gap-3">
-                      <span className="bg-blue-600 text-white w-7 h-7 rounded-full flex items-center justify-center text-xs font-bold flex-shrink-0">
-                        {beach.rank}
+                  <div className="mt-5 flex flex-wrap gap-2">
+                    {beach.highlights[lang].slice(0, 4).map(highlight => (
+                      <span key={highlight} className="rounded-full bg-thailand-blue/10 px-3 py-1 text-xs font-medium text-thailand-blue">
+                        {highlight}
                       </span>
-                      <div>
-                        <span className="font-medium text-gray-900 text-sm">{beach.name}</span>
-                        <span className="text-gray-500 text-xs ml-2">— {beach.island_name[lang]}</span>
-                      </div>
-                    </li>
-                  ))}
-                </ul>
-              </div>
+                    ))}
+                  </div>
 
-              {/* Andaman Sea */}
-              <div className="bg-white rounded-2xl p-6 shadow-md">
-                <h3 className="text-xl font-bold font-heading text-emerald-800 mb-2">Andaman Sea</h3>
-                <p className="text-emerald-700 text-sm mb-4">
-                  {lang === 'nl'
-                    ? 'De Andamanzee staat bekend om zijn dramatische kalkstenen kliffen, kristalhelder water en levendige koraalriffen. Koh Phi Phi, Koh Lanta en Koh Lipe zijn de pareltjes van deze kust. Beste seizoen: november-april.'
-                    : 'The Andaman Sea is famous for its dramatic limestone cliffs, crystal-clear water, and vibrant coral reefs. Koh Phi Phi, Koh Lanta, and Koh Lipe are the gems of this coast. Best season: November-April.'}
-                </p>
-                <ul className="space-y-2">
-                  {andamanBeaches.map(beach => (
-                    <li key={beach.rank} className="flex items-center gap-3">
-                      <span className="bg-emerald-600 text-white w-7 h-7 rounded-full flex items-center justify-center text-xs font-bold flex-shrink-0">
-                        {beach.rank}
-                      </span>
-                      <div>
-                        <span className="font-medium text-gray-900 text-sm">{beach.name}</span>
-                        <span className="text-gray-500 text-xs ml-2">— {beach.island_name[lang]}</span>
-                      </div>
-                    </li>
-                  ))}
-                </ul>
-              </div>
-            </div>
-          </div>
-        </section>
+                  <div className="mt-5 rounded-2xl bg-amber-50 p-4 border border-amber-100">
+                    <p className="text-sm text-gray-800">
+                      <span className="font-semibold">{lang === 'nl' ? 'Planningstip:' : 'Planning note:'}</span> {beach.tip[lang]}
+                    </p>
+                  </div>
 
-        {/* Practical Tips Section */}
-        <section className="py-12 bg-surface-cream">
-          <div className="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8">
-            <p className="section-label text-center">Good to Know</p>
-            <h2 className="text-3xl font-bold font-heading text-gray-900 mb-8 text-center">
-              {lang === 'nl' ? 'Praktische Tips voor de Stranden van Thailand' : 'Practical Tips for Thailand\'s Beaches'}
-            </h2>
-            <div className="grid md:grid-cols-2 lg:grid-cols-4 gap-6">
-              {/* Best Season */}
-              <div className="bg-white rounded-2xl p-6 shadow-md hover:shadow-xl hover:-translate-y-1 transition-all">
-                <div className="text-3xl mb-3">&#9728;</div>
-                <h3 className="text-lg font-bold font-heading text-gray-900 mb-3">
-                  {lang === 'nl' ? 'Beste Seizoen' : 'Best Season'}
-                </h3>
-                <p className="text-gray-600 text-sm leading-relaxed">
-                  {lang === 'nl'
-                    ? 'Andamanzee: november–april. Golf van Thailand: december–maart, maar het hele jaar door aangenaam. Koh Samet is uniek: zonnig zelfs tijdens het moessonseizoen op het vasteland.'
-                    : 'Andaman Sea: November–April. Gulf of Thailand: December–March, but pleasant year-round. Koh Samet is unique: sunny even during mainland monsoon season thanks to its microclimate.'}
-                </p>
-              </div>
-
-              {/* What to Pack */}
-              <div className="bg-white rounded-2xl p-6 shadow-md hover:shadow-xl hover:-translate-y-1 transition-all">
-                <div className="text-3xl mb-3">&#127956;</div>
-                <h3 className="text-lg font-bold font-heading text-gray-900 mb-3">
-                  {lang === 'nl' ? 'Wat Meenemen' : 'What to Pack'}
-                </h3>
-                <ul className="text-gray-600 text-sm space-y-1">
-                  <li>&#10003; {lang === 'nl' ? 'Rif-veilige zonnebrand (SPF 50+)' : 'Reef-safe sunscreen (SPF 50+)'}</li>
-                  <li>&#10003; {lang === 'nl' ? 'Waterschoenen voor rotsige stranden' : 'Water shoes for rocky beaches'}</li>
-                  <li>&#10003; {lang === 'nl' ? 'Droge tas voor elektronica' : 'Dry bag for electronics'}</li>
-                  <li>&#10003; {lang === 'nl' ? 'Eigen snorkeluitrusting' : 'Own snorkel gear'}</li>
-                  <li>&#10003; eSIM {lang === 'nl' ? 'voor kaarten en navigatie' : 'for maps and navigation'}</li>
-                  <li>&#10003; {lang === 'nl' ? 'Contant geld (kleine eilanden)' : 'Cash (small islands are cash-only)'}</li>
-                </ul>
-              </div>
-
-              {/* Safety Tips */}
-              <div className="bg-white rounded-2xl p-6 shadow-md hover:shadow-xl hover:-translate-y-1 transition-all">
-                <div className="text-3xl mb-3">&#9642;</div>
-                <h3 className="text-lg font-bold font-heading text-gray-900 mb-3">
-                  {lang === 'nl' ? 'Veiligheidstips' : 'Safety Tips'}
-                </h3>
-                <ul className="text-gray-600 text-sm space-y-1">
-                  <li>&#9888; {lang === 'nl' ? 'Let op rode vlaggen — niet zwemmen' : 'Respect red flags — never swim'}</li>
-                  <li>&#9888; {lang === 'nl' ? 'Sterke stroming tijdens moesson' : 'Strong currents during monsoon'}</li>
-                  <li>&#9888; {lang === 'nl' ? 'Kwallen: mei–oktober op sommige stranden' : 'Jellyfish: May–Oct on some beaches'}</li>
-                  <li>&#9888; {lang === 'nl' ? "Nooit alleen zwemmen 's nachts" : 'Never swim alone at night'}</li>
-                  <li>&#9888; {lang === 'nl' ? 'Waardevolle spullen buiten het bereik van het water houden' : 'Keep valuables away from tide'}</li>
-                </ul>
-              </div>
-
-              {/* Budget Tips */}
-              <div className="bg-white rounded-2xl p-6 shadow-md hover:shadow-xl hover:-translate-y-1 transition-all">
-                <div className="text-3xl mb-3">&#128184;</div>
-                <h3 className="text-lg font-bold font-heading text-gray-900 mb-3">
-                  {lang === 'nl' ? 'Budgettips' : 'Budget Tips'}
-                </h3>
-                <ul className="text-gray-600 text-sm space-y-1">
-                  <li>&#128094; {lang === 'nl' ? 'Bezoek buiten het seizoen (mei–okt)' : 'Travel off-season (May–Oct)'}</li>
-                  <li>&#128094; {lang === 'nl' ? 'Koh Tao: goedkoopste PADI-cursus ter wereld' : 'Koh Tao: cheapest PADI worldwide'}</li>
-                  <li>&#128094; {lang === 'nl' ? 'Koh Mak: authenticiteit tegen lagere prijs' : 'Koh Mak: authentic at lower cost'}</li>
-                  <li>&#128094; {lang === 'nl' ? 'Boek ferry + hotel samen voor korting' : 'Bundle ferry + hotel for discount'}</li>
-                  <li>&#128094; {lang === 'nl' ? 'Songthaew voor goedkoop vervoer op de eilanden' : 'Songthaews for cheap island transport'}</li>
-                </ul>
-              </div>
-            </div>
-          </div>
-        </section>
-
-        {/* FAQ Section */}
-        <section className="py-12 bg-white">
-          <div className="max-w-4xl mx-auto px-4 sm:px-6 lg:px-8">
-            <p className="section-label text-center">FAQ</p>
-            <h2 className="text-3xl font-bold font-heading text-gray-900 mb-8 text-center">
-              {lang === 'nl' ? 'Veelgestelde Vragen' : 'Frequently Asked Questions'}
-            </h2>
-            <div className="space-y-4">
-              {data.faq.map((item, i) => (
-                <details key={i} className="mb-4 bg-surface-cream rounded-xl shadow-sm group">
-                  <summary className="p-5 font-semibold cursor-pointer hover:bg-gray-200 rounded-xl list-none flex items-center justify-between transition-colors">
-                    <span className="text-gray-900">{item.question[lang]}</span>
-                    <svg
-                      className="w-5 h-5 text-gray-500 group-open:rotate-180 transition-transform flex-shrink-0 ml-4"
-                      fill="none"
-                      viewBox="0 0 24 24"
-                      stroke="currentColor"
+                  <div className="mt-5 flex flex-wrap gap-3">
+                    <Link
+                      href={`/islands/${beach.island_slug}/`}
+                      className="inline-flex items-center rounded-full bg-thailand-blue px-4 py-2 text-sm font-semibold text-white hover:bg-thailand-red transition-colors"
                     >
-                      <path strokeLinecap="round" strokeLinejoin="round" strokeWidth={2} d="M19 9l-7 7-7-7" />
-                    </svg>
-                  </summary>
-                  <div className="px-5 pb-5 text-gray-700 leading-relaxed text-sm">
-                    {item.answer[lang]}
+                      {lang === 'nl' ? `Lees over ${beach.island_name[lang]}` : `Read the ${beach.island_name[lang]} guide`}
+                    </Link>
+                    <Link
+                      href="/islands/"
+                      className="inline-flex items-center rounded-full bg-surface-cream px-4 py-2 text-sm font-semibold text-gray-800 hover:bg-gray-200 transition-colors"
+                    >
+                      {lang === 'nl' ? 'Bekijk alle eilanden' : 'Browse all island guides'}
+                    </Link>
                   </div>
-                </details>
+                </article>
               ))}
             </div>
           </div>
         </section>
 
-        {/* Full Affiliate CTA Section */}
-        <section className="bg-surface-dark py-12">
-          <div className="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8">
-            <div className="text-center text-white mb-8">
-              <p className="font-script text-thailand-gold text-lg mb-2">Start Planning</p>
-              <h2 className="text-3xl font-bold font-heading mb-3">
-                {lang === 'nl' ? 'Plan je Thaise Strandvakantie' : 'Plan Your Thai Beach Holiday'}
-              </h2>
-              <p className="text-lg opacity-90">
-                {lang === 'nl'
-                  ? 'Boek alles wat je nodig hebt voor je eilandhop-avontuur'
-                  : 'Book everything you need for your island-hopping adventure'}
-              </p>
-            </div>
-            <div className="grid md:grid-cols-2 gap-8 items-start">
-              <TripcomWidget
-                city="Thailand"
-                type="searchbox"
-                customTitle={
-                  lang === 'nl'
-                    ? 'Zoek Hotels bij de Beste Stranden'
-                    : 'Search Hotels Near the Best Beaches'
-                }
-              />
-              <div className="space-y-3">
-                <a
-                  href="https://12go.tpo.lv/tNA80urD"
-                  target="_blank"
-                  rel="noopener noreferrer nofollow"
-                  className="flex items-center justify-between bg-white text-gray-900 px-5 py-4 rounded-xl font-semibold hover:bg-gray-50 transition-colors shadow-sm"
-                >
-                  <span>&#9941; {lang === 'nl' ? 'Boek Veerboten (12go)' : 'Book Ferries (12go)'}</span>
-                  <svg className="w-5 h-5 text-gray-400" fill="none" viewBox="0 0 24 24" stroke="currentColor">
-                    <path strokeLinecap="round" strokeLinejoin="round" strokeWidth={2} d="M9 5l7 7-7 7" />
-                  </svg>
-                </a>
-                <a
-                  href="https://booking.tpo.lv/2PT1kR82"
-                  target="_blank"
-                  rel="noopener noreferrer nofollow"
-                  className="flex items-center justify-between bg-white text-gray-900 px-5 py-4 rounded-xl font-semibold hover:bg-gray-50 transition-colors shadow-sm"
-                >
-                  <span>&#127968; Booking.com</span>
-                  <svg className="w-5 h-5 text-gray-400" fill="none" viewBox="0 0 24 24" stroke="currentColor">
-                    <path strokeLinecap="round" strokeLinejoin="round" strokeWidth={2} d="M9 5l7 7-7 7" />
-                  </svg>
-                </a>
-                <a
-                  href="https://trip.tpo.lv/TmObooZ5"
-                  target="_blank"
-                  rel="noopener noreferrer nofollow"
-                  className="flex items-center justify-between bg-white text-gray-900 px-5 py-4 rounded-xl font-semibold hover:bg-gray-50 transition-colors shadow-sm"
-                >
-                  <span>&#127968; Trip.com Hotels</span>
-                  <svg className="w-5 h-5 text-gray-400" fill="none" viewBox="0 0 24 24" stroke="currentColor">
-                    <path strokeLinecap="round" strokeLinejoin="round" strokeWidth={2} d="M9 5l7 7-7 7" />
-                  </svg>
-                </a>
-                <a
-                  href="https://trip.tpo.lv/iP1HSint"
-                  target="_blank"
-                  rel="noopener noreferrer nofollow"
-                  className="flex items-center justify-between bg-white text-gray-900 px-5 py-4 rounded-xl font-semibold hover:bg-gray-50 transition-colors shadow-sm"
-                >
-                  <span>&#9992; {lang === 'nl' ? 'Hotel + Vlucht Pakket' : 'Hotel + Flight Bundle'}</span>
-                  <svg className="w-5 h-5 text-gray-400" fill="none" viewBox="0 0 24 24" stroke="currentColor">
-                    <path strokeLinecap="round" strokeLinejoin="round" strokeWidth={2} d="M9 5l7 7-7 7" />
-                  </svg>
-                </a>
-                <a
-                  href="https://klook.tpo.lv/7Dt6WApj"
-                  target="_blank"
-                  rel="noopener noreferrer nofollow"
-                  className="flex items-center justify-between bg-white text-gray-900 px-5 py-4 rounded-xl font-semibold hover:bg-gray-50 transition-colors shadow-sm"
-                >
-                  <span>&#127774; {lang === 'nl' ? 'Klook Tours & Activiteiten' : 'Klook Tours & Activities'}</span>
-                  <svg className="w-5 h-5 text-gray-400" fill="none" viewBox="0 0 24 24" stroke="currentColor">
-                    <path strokeLinecap="round" strokeLinejoin="round" strokeWidth={2} d="M9 5l7 7-7 7" />
-                  </svg>
-                </a>
-                <a
-                  href="https://getyourguide.tpo.lv/GuAFfGGK"
-                  target="_blank"
-                  rel="noopener noreferrer nofollow"
-                  className="flex items-center justify-between bg-white text-gray-900 px-5 py-4 rounded-xl font-semibold hover:bg-gray-50 transition-colors shadow-sm"
-                >
-                  <span>&#127774; GetYourGuide {lang === 'nl' ? 'Activiteiten' : 'Activities'}</span>
-                  <svg className="w-5 h-5 text-gray-400" fill="none" viewBox="0 0 24 24" stroke="currentColor">
-                    <path strokeLinecap="round" strokeLinejoin="round" strokeWidth={2} d="M9 5l7 7-7 7" />
-                  </svg>
-                </a>
-                <a
-                  href="https://saily.tpo.lv/rf9lidnE"
-                  target="_blank"
-                  rel="noopener noreferrer nofollow"
-                  className="flex items-center justify-between bg-white text-gray-900 px-5 py-4 rounded-xl font-semibold hover:bg-gray-50 transition-colors shadow-sm"
-                >
-                  <span>&#128242; Saily eSIM {lang === 'nl' ? 'voor Thailand' : 'for Thailand'}</span>
-                  <svg className="w-5 h-5 text-gray-400" fill="none" viewBox="0 0 24 24" stroke="currentColor">
-                    <path strokeLinecap="round" strokeLinejoin="round" strokeWidth={2} d="M9 5l7 7-7 7" />
-                  </svg>
-                </a>
-                <a
-                  href="https://trip.tpo.lv/fzIWyBhW"
-                  target="_blank"
-                  rel="noopener noreferrer nofollow"
-                  className="flex items-center justify-between bg-white text-gray-900 px-5 py-4 rounded-xl font-semibold hover:bg-gray-50 transition-colors shadow-sm"
-                >
-                  <span>&#128664; {lang === 'nl' ? 'Autoverhuur via Trip.com' : 'Car Rental via Trip.com'}</span>
-                  <svg className="w-5 h-5 text-gray-400" fill="none" viewBox="0 0 24 24" stroke="currentColor">
-                    <path strokeLinecap="round" strokeLinejoin="round" strokeWidth={2} d="M9 5l7 7-7 7" />
-                  </svg>
-                </a>
-              </div>
-            </div>
-            <p className="text-white/70 text-xs text-center mt-6">
-              {lang === 'nl'
-                ? 'Sommige links zijn affiliate links. Wij verdienen een commissie zonder extra kosten voor jou.'
-                : 'Some links are affiliate links. We may earn a commission at no extra cost to you.'}
+        <section className="py-12 bg-white">
+          <div className="max-w-6xl mx-auto px-4 sm:px-6 lg:px-8">
+            <p className="section-label text-thailand-gold text-center">
+              {lang === 'nl' ? 'Kustlogica' : 'Coast logic'}
             </p>
+            <h2 className="text-3xl font-heading font-bold text-gray-900 text-center mb-8">
+              {lang === 'nl' ? 'Kies eerst de kust, daarna het strand' : 'Pick the coast first, then the beach'}
+            </h2>
+            <div className="grid md:grid-cols-2 gap-6">
+              {COAST_GUIDE[lang].map(item => (
+                <div key={item.coast} className="rounded-3xl bg-surface-cream p-6">
+                  <h3 className="text-xl font-heading font-bold text-gray-900 mb-3">{item.coast}</h3>
+                  <p className="text-gray-700 leading-relaxed mb-4">{item.body}</p>
+                  <ul className="space-y-2 text-sm">
+                    {(item.coast.includes('Andaman') ? andamanBeaches : gulfBeaches).map(beach => (
+                      <li key={beach.name} className="flex items-center justify-between rounded-2xl bg-white px-4 py-3">
+                        <span className="font-medium text-gray-900">{beach.name}</span>
+                        <span className="text-gray-500">{beach.island_name[lang]}</span>
+                      </li>
+                    ))}
+                  </ul>
+                  <div className="mt-4 flex flex-wrap gap-2">
+                    {item.routes.map(route => (
+                      <Link key={route.href} href={route.href} className="text-sm font-semibold text-thailand-blue hover:underline">
+                        {route.label}
+                      </Link>
+                    ))}
+                  </div>
+                </div>
+              ))}
+            </div>
           </div>
         </section>
 
-        {/* Related Pages Section */}
-        <section className="py-12 bg-white">
-          <div className="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8">
-            <p className="section-label text-center">More Guides</p>
-            <h2 className="text-2xl font-bold font-heading text-gray-900 mb-6 text-center">
-              {lang === 'nl' ? 'Gerelateerde Pagina\'s' : 'Related Pages'}
+        <section className="py-12 bg-surface-cream">
+          <div className="max-w-4xl mx-auto px-4 sm:px-6 lg:px-8">
+            <p className="section-label text-thailand-gold text-center">
+              {lang === 'nl' ? 'Bronnen en review' : 'Sources and review'}
+            </p>
+            <h2 className="text-3xl font-heading font-bold text-gray-900 text-center mb-6">
+              {lang === 'nl' ? 'Waarom je deze shortlist kunt vertrouwen' : 'Why this shortlist is defensible'}
             </h2>
-            <div className="grid md:grid-cols-2 gap-6 max-w-3xl mx-auto">
-              <Link
-                href="/islands/"
-                className="group block bg-white rounded-2xl p-6 border-0 shadow-md hover:shadow-xl hover:-translate-y-1 transition-all"
-              >
-                <div className="text-3xl mb-3">&#127965;</div>
-                <h3 className="text-lg font-bold font-heading text-gray-900 group-hover:text-thailand-blue transition-colors mb-2">
-                  {lang === 'nl' ? 'Verken Alle Thaise Eilanden' : 'Explore All Thai Islands'}
-                </h3>
-                <p className="text-gray-600 text-sm">
-                  {lang === 'nl'
-                    ? 'Complete gidsen voor Koh Samui, Koh Phi Phi, Koh Tao en meer.'
-                    : 'Complete guides for Koh Samui, Koh Phi Phi, Koh Tao, and more.'}
-                </p>
-                <span className="inline-block mt-3 text-thailand-blue text-sm font-medium group-hover:underline">
-                  {lang === 'nl' ? 'Bekijk alle eilanden' : 'View all islands'} &#8594;
-                </span>
-              </Link>
-
-              <Link
-                href="/compare/"
-                className="group block bg-white rounded-2xl p-6 border-0 shadow-md hover:shadow-xl hover:-translate-y-1 transition-all"
-              >
-                <div className="text-3xl mb-3">&#9878;</div>
-                <h3 className="text-lg font-bold font-heading text-gray-900 group-hover:text-thailand-blue transition-colors mb-2">
-                  {lang === 'nl' ? 'Vergelijk Eilanden Naast Elkaar' : 'Compare Islands Side by Side'}
-                </h3>
-                <p className="text-gray-600 text-sm">
-                  {lang === 'nl'
-                    ? 'Niet zeker welk eiland je moet kiezen? Vergelijk ze direct.'
-                    : "Can't decide which island to choose? Compare them directly."}
-                </p>
-                <span className="inline-block mt-3 text-thailand-blue text-sm font-medium group-hover:underline">
-                  {lang === 'nl' ? 'Vergelijk eilanden' : 'Compare islands'} &#8594;
-                </span>
-              </Link>
+            <div className="rounded-3xl bg-white p-6 md:p-8 shadow-sm">
+              <p className="text-gray-700 leading-relaxed mb-5">
+                {lang === 'nl'
+                  ? 'Deze pagina is herschreven als redactionele shortlist en op 28 maart 2026 handmatig gecontroleerd tegen officiële TAT-bestemmingspagina\'s en TAT\'s strandoverzicht. Seizoens- en transportdetails zijn bewust algemeen gehouden wanneer precieze operationele claims te snel veranderen.'
+                  : 'This page was rebuilt as an editorial shortlist and manually reviewed on March 28, 2026 against official TAT destination pages and TAT\'s beach roundup. Seasonality and access notes are intentionally durable where precise operational details change quickly.'}
+              </p>
+              <ul className="space-y-3">
+                {SOURCE_LINKS.map(source => (
+                  <li key={source.href}>
+                    <a href={source.href} target="_blank" rel="noopener noreferrer" className="text-thailand-blue hover:underline">
+                      {source.label}
+                    </a>
+                  </li>
+                ))}
+              </ul>
             </div>
+          </div>
+        </section>
 
-            <div className="grid grid-cols-2 md:grid-cols-4 gap-3 max-w-3xl mx-auto mt-8">
-              <Link href="/thailand-travel-guide/" className="p-3 bg-surface-cream rounded-xl hover:shadow-sm transition-all text-center text-sm font-medium text-gray-800">Travel Guide</Link>
-              <Link href="/thailand-for-first-timers/" className="p-3 bg-surface-cream rounded-xl hover:shadow-sm transition-all text-center text-sm font-medium text-gray-800">First Timers</Link>
-              <Link href="/food/" className="p-3 bg-surface-cream rounded-xl hover:shadow-sm transition-all text-center text-sm font-medium text-gray-800">Thai Food</Link>
-              <Link href="/transport/" className="p-3 bg-surface-cream rounded-xl hover:shadow-sm transition-all text-center text-sm font-medium text-gray-800">Transport</Link>
+        <section className="py-12 bg-white">
+          <div className="max-w-5xl mx-auto px-4 sm:px-6 lg:px-8">
+            <p className="section-label text-thailand-gold text-center">
+              {lang === 'nl' ? 'Volgende stap' : 'Next step'}
+            </p>
+            <h2 className="text-3xl font-heading font-bold text-gray-900 text-center mb-8">
+              {lang === 'nl' ? 'Gebruik de sterkere interne routes' : 'Use the stronger internal routes'}
+            </h2>
+            <div className="grid md:grid-cols-3 gap-6">
+              {NEXT_STEPS[lang].map(item => (
+                <Link key={item.href} href={item.href} className="rounded-3xl bg-surface-cream p-6 hover:shadow-md transition-shadow">
+                  <h3 className="text-xl font-heading font-bold text-gray-900 mb-2">{item.title}</h3>
+                  <p className="text-sm text-gray-700 leading-relaxed">{item.body}</p>
+                </Link>
+              ))}
+            </div>
+          </div>
+        </section>
+
+        <section className="py-12 bg-white">
+          <div className="max-w-4xl mx-auto px-4 sm:px-6 lg:px-8">
+            <p className="section-label text-thailand-gold text-center">FAQ</p>
+            <h2 className="text-3xl font-heading font-bold text-gray-900 text-center mb-8">
+              {lang === 'nl' ? 'Veelgestelde vragen' : 'Frequently asked questions'}
+            </h2>
+            <div className="space-y-4">
+              {data.faq.map((item, index) => (
+                <details key={index} className="rounded-2xl bg-surface-cream p-5">
+                  <summary className="cursor-pointer list-none font-semibold text-gray-900">
+                    {item.question[lang]}
+                  </summary>
+                  <p className="mt-3 text-sm leading-relaxed text-gray-700">{item.answer[lang]}</p>
+                </details>
+              ))}
             </div>
           </div>
         </section>
@@ -837,9 +565,15 @@ export default function BestBeachesInThailand({ data }: BestBeachesProps) {
   );
 }
 
-export const getStaticProps: GetStaticProps = async () => {
-  // eslint-disable-next-line @typescript-eslint/no-require-imports
-  const data = require('../data/beaches/best-beaches.json');
+export const getStaticProps: GetStaticProps = async ({ locale }) => {
+  const fs = require('fs');
+  const path = require('path');
+  const lang = locale || 'en';
+  const localePath = path.join(process.cwd(), 'data', 'beaches', `best-beaches.${lang}.json`);
+  const defaultPath = path.join(process.cwd(), 'data', 'beaches', 'best-beaches.json');
+  const dataPath = lang !== 'en' && fs.existsSync(localePath) ? localePath : defaultPath;
+  const data = JSON.parse(fs.readFileSync(dataPath, 'utf8'));
+
   return {
     props: { data },
     revalidate: 86400

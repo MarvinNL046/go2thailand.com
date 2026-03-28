@@ -1,8 +1,8 @@
 import { GetStaticProps } from 'next';
+import Link from 'next/link';
+import { useState } from 'react';
 import SEOHead from '../components/SEOHead';
 import Breadcrumbs from '../components/Breadcrumbs';
-import TripcomWidget from '../components/TripcomWidget';
-import { useState } from 'react';
 
 interface IslandData {
   rank: number;
@@ -33,20 +33,87 @@ interface ThailandIslandsProps {
 type CoastFilter = 'all' | 'Andaman' | 'Gulf';
 type BestForFilter = 'all' | 'diving' | 'families' | 'budget' | 'couples';
 
-const FAQ_ITEMS = [
+const SOURCE_LINKS = [
   {
-    question: 'What is the best time to visit Thailand\'s islands?',
-    answer: 'It depends on the coast. The Andaman Sea islands (Phuket, Koh Phi Phi, Koh Lipe, Similan Islands) are best from November to April when seas are calm and skies are clear. The Gulf of Thailand islands (Koh Samui, Koh Phangan, Koh Tao) have their peak season from January to August. Koh Samet and Koh Chang are accessible year-round. The monsoon shoulder months (May and October) can offer great deals with manageable weather on the Gulf coast.'
+    label: 'Tourism Authority of Thailand: Ko Samui',
+    href: 'https://www.tourismthailand.org/Destinations/Provinces/Ko-Samui/360'
   },
   {
-    question: 'How do you get to Thailand\'s islands?',
-    answer: 'Only two Thai islands have airports: Phuket (international) and Koh Samui (domestic + regional). All other islands require a ferry or speedboat. The main ferry hubs are Surat Thani and Chumphon for Gulf islands, and Krabi, Phuket, and Pak Bara for Andaman islands. Most ferries take 1-3 hours. Book through 12Go or directly at the pier. During monsoon season, some routes are cancelled or reduced — always check schedules before booking connecting transport.'
+    label: 'Tourism Authority of Thailand: Ko Phi Phi',
+    href: 'https://www.tourismthailand.org/Destinations/Provinces/Ko-Phi-Phi/359'
   },
   {
-    question: 'Which Thai island is best for beginners and first-time visitors?',
-    answer: 'Phuket is the easiest starting point thanks to its international airport, wide range of accommodation from hostels to luxury resorts, and well-developed tourist infrastructure. Koh Samui is a close second with its own airport and a more relaxed atmosphere. If you want a smaller island experience without complicated logistics, Koh Lanta is connected to the mainland by bridge and has a laid-back vibe that suits first-timers. For budget travellers, Koh Tao offers affordable diving courses and a welcoming backpacker scene.'
+    label: 'Tourism Authority of Thailand: Ko Tao',
+    href: 'https://www.tourismthailand.org/Destinations/Provinces/ko-tao/361'
+  },
+  {
+    label: 'Tourism Authority of Thailand: Ko Chang',
+    href: 'https://www.tourismthailand.org/Destinations/Provinces/Ko%20Chang/467'
+  },
+  {
+    label: 'Tourism Authority of Thailand: Phuket province',
+    href: 'https://www.tourismthailand.org/Destinations/Provinces/phuket/350'
   }
 ];
+
+const FAQ_ITEMS = [
+  {
+    question: 'Do you need to island-hop in Thailand to have a good trip?',
+    answer: 'No. Many travelers are better off choosing one island base and adding a day trip or two. Island-hopping only pays off if you want contrast and are comfortable spending part of the trip on transfer days.'
+  },
+  {
+    question: 'How should you choose between the Andaman coast and the Gulf?',
+    answer: 'Use the Andaman coast for dramatic scenery, famous bays, and routes built around Phuket or Krabi. Use the Gulf for Samui, Phangan, and Tao when you want a linked trio with different moods and a season pattern that can work better outside the Andaman sweet spot.'
+  },
+  {
+    question: 'Which islands are the easiest for first-time visitors?',
+    answer: 'Phuket and Koh Samui are the easiest starting points because they function well as full-service bases. They are not the quietest islands, but they reduce logistics risk for a first Thailand trip.'
+  }
+];
+
+const PLANNING_FRAMEWORK = [
+  {
+    title: 'Pick the trip style first',
+    body: 'Choose between a single island base, a two-island contrast, or a faster island-hop. Most weak itineraries start by collecting famous names instead of matching islands to pace and priorities.'
+  },
+  {
+    title: 'Use access as a filter, not an afterthought',
+    body: 'Phuket and Koh Samui absorb mistakes better because they are straightforward arrivals. Smaller islands can be better experiences, but only if you actively want the extra transfer steps.'
+  },
+  {
+    title: 'Keep season notes durable',
+    body: 'This guide uses broad coast patterns and avoids brittle route promises. Exact ferries, marine conditions, and park access can change faster than an editorial page should pretend otherwise.'
+  }
+];
+
+const COAST_NOTES = {
+  Andaman:
+    'The Andaman side is strongest for classic scenery and headline beach imagery. It is where Phuket, Phi Phi, Lanta, Yao Noi, and Lipe start making sense as a cluster rather than one-off picks.',
+  Gulf:
+    'The Gulf gives you a more coherent set of linked identities: Samui for convenience, Phangan for range, Tao for diving, and the eastern islands for slower beach time.'
+};
+
+function matchesBestFor(item: IslandData, filter: BestForFilter) {
+  const tags = item.best_for.map(value => value.toLowerCase());
+
+  switch (filter) {
+    case 'diving':
+      return tags.some(tag => ['diving', 'budget diving', 'snorkeling', 'pristine waters'].includes(tag));
+    case 'families':
+      return tags.some(tag => ['families', 'first-timers'].includes(tag));
+    case 'budget':
+      return tags.some(tag => ['budget', 'budget diving', 'backpackers', 'camping'].includes(tag));
+    case 'couples':
+      return tags.some(tag => ['couples', 'honeymooners', 'relaxation', 'tranquility', 'luxury'].includes(tag));
+    default:
+      return true;
+  }
+}
+
+function internalIslandHref(name: string) {
+  const slug = name.toLowerCase().replace(/\s+/g, '-');
+  return `/islands/${slug}/`;
+}
 
 export default function ThailandIslands({ data }: ThailandIslandsProps) {
   const [coastFilter, setCoastFilter] = useState<CoastFilter>('all');
@@ -57,41 +124,47 @@ export default function ThailandIslands({ data }: ThailandIslandsProps) {
     { name: 'Thailand Islands', href: '/thailand-islands/' }
   ];
 
-  const filterIslands = (islands: IslandData[]): IslandData[] => {
-    let filtered = islands;
+  const filteredIslands = data.items.filter(item => {
+    const coastMatch = coastFilter === 'all' || item.coast === coastFilter;
+    const bestForMatch = matchesBestFor(item, bestForFilter);
+    return coastMatch && bestForMatch;
+  });
 
-    if (coastFilter !== 'all') {
-      filtered = filtered.filter(i => i.coast === coastFilter);
-    }
+  const coastFilters: Array<{ key: CoastFilter; label: string }> = [
+    { key: 'all', label: 'All islands' },
+    { key: 'Andaman', label: 'Andaman coast' },
+    { key: 'Gulf', label: 'Gulf coast' }
+  ];
 
-    if (bestForFilter !== 'all') {
-      const matchMap: Record<string, string[]> = {
-        diving: ['diving', 'budget diving', 'snorkeling', 'pristine waters'],
-        families: ['families', 'first-timers'],
-        budget: ['budget', 'budget diving', 'backpackers', 'camping'],
-        couples: ['couples', 'honeymooners', 'relaxation', 'tranquility']
-      };
-      const keywords = matchMap[bestForFilter] || [];
-      filtered = filtered.filter(i =>
-        i.best_for.some(f => keywords.includes(f.toLowerCase()))
-      );
-    }
-
-    return filtered;
-  };
-
-  const filteredIslands = filterIslands(data.items);
+  const bestForFilters: Array<{ key: BestForFilter; label: string }> = [
+    { key: 'all', label: 'All trip types' },
+    { key: 'diving', label: 'Diving and snorkeling' },
+    { key: 'families', label: 'Families and first trips' },
+    { key: 'budget', label: 'Budget-led trips' },
+    { key: 'couples', label: 'Couples and slower trips' }
+  ];
 
   const itemListSchema = {
     '@context': 'https://schema.org',
     '@type': 'ItemList',
     name: data.title,
     numberOfItems: data.items.length,
-    itemListElement: data.items.map(island => ({
+    itemListElement: data.items.map(item => ({
       '@type': 'ListItem',
-      position: island.rank,
-      name: island.name,
-      url: `https://go2-thailand.com/thailand-islands/`
+      position: item.rank,
+      name: item.name,
+      url: `https://go2-thailand.com${internalIslandHref(item.name)}`
+    }))
+  };
+
+  const breadcrumbSchema = {
+    '@context': 'https://schema.org',
+    '@type': 'BreadcrumbList',
+    itemListElement: breadcrumbItems.map((item, index) => ({
+      '@type': 'ListItem',
+      position: index + 1,
+      name: item.name,
+      item: `https://go2-thailand.com${item.href}`
     }))
   };
 
@@ -108,529 +181,265 @@ export default function ThailandIslands({ data }: ThailandIslandsProps) {
     }))
   };
 
-  const breadcrumbSchema = {
-    '@context': 'https://schema.org',
-    '@type': 'BreadcrumbList',
-    itemListElement: breadcrumbItems.map((item, index) => ({
-      '@type': 'ListItem',
-      position: index + 1,
-      name: item.name,
-      item: `https://go2-thailand.com${item.href}`
-    }))
-  };
-
-  const combinedSchema = [itemListSchema, faqSchema, breadcrumbSchema];
-
-  const coastFilters: { key: CoastFilter; label: string }[] = [
-    { key: 'all', label: 'All Islands' },
-    { key: 'Andaman', label: 'Andaman Coast' },
-    { key: 'Gulf', label: 'Gulf Coast' }
-  ];
-
-  const bestForFilters: { key: BestForFilter; label: string }[] = [
-    { key: 'all', label: 'All Types' },
-    { key: 'diving', label: 'Best for Diving' },
-    { key: 'families', label: 'Best for Families' },
-    { key: 'budget', label: 'Best for Budget' },
-    { key: 'couples', label: 'Best for Couples' }
-  ];
+  const combinedSchema = [itemListSchema, breadcrumbSchema, faqSchema];
 
   return (
     <>
       <SEOHead
-        title="Thailand Islands — 12 Best Islands to Visit (2026 Guide)"
-        description={data.meta_description}
+        title="Thailand Islands | Editorial guide to choosing the right island"
+        description="A planning-first guide to Thailand islands, with coast logic, shortlist filtering, and visible official source signals."
       >
-        <meta
-          name="keywords"
-          content="Thailand islands, best islands Thailand, Koh Phi Phi, Phuket, Koh Samui, Koh Tao, Koh Lipe, Thai island guide, island hopping Thailand 2026"
-        />
         <script
           type="application/ld+json"
           dangerouslySetInnerHTML={{ __html: JSON.stringify(combinedSchema) }}
         />
       </SEOHead>
 
-      <div className="bg-surface-cream min-h-screen">
-        {/* Hero Section */}
+      <div className="min-h-screen bg-surface-cream">
         <section className="bg-surface-dark text-white">
-          <div className="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8 py-16 md:py-24">
-            <div className="text-center">
-              <p className="font-script text-thailand-gold text-lg mb-2">Island Guide</p>
-              <h1 className="text-4xl lg:text-6xl font-bold font-heading mb-6">
-                {data.title}
+          <div className="max-w-6xl mx-auto px-4 sm:px-6 lg:px-8 py-16 md:py-24">
+            <div className="max-w-4xl">
+              <p className="font-script text-thailand-gold text-lg mb-3">Editorial island pillar</p>
+              <h1 className="text-4xl lg:text-6xl font-heading font-bold mb-6">
+                Choose the island before you choose the itinerary
               </h1>
-              <p className="text-xl lg:text-2xl mb-6 max-w-3xl mx-auto opacity-90">
-                From Phuket&apos;s international gateway to Koh Tarutao&apos;s untouched wilderness — find your perfect Thai island
+              <p className="text-lg lg:text-2xl opacity-90">
+                This page is built to narrow decisions, not inflate a ranking. Use it to decide whether your trip belongs on the Andaman coast, the Gulf, or one of the slower eastern islands before you commit to transfers.
               </p>
-              <div className="flex flex-wrap justify-center gap-4 text-sm font-medium opacity-80">
-                <span className="bg-white/20 px-4 py-2 rounded-full">12 islands</span>
-                <span className="bg-white/20 px-4 py-2 rounded-full">2 coastlines</span>
-                <span className="bg-white/20 px-4 py-2 rounded-full">Ranked &amp; reviewed</span>
-                <span className="bg-white/20 px-4 py-2 rounded-full">Updated March 2026</span>
+              <div className="flex flex-wrap gap-3 mt-8 text-sm">
+                <span className="bg-white/15 rounded-full px-4 py-2">12 island profiles</span>
+                <span className="bg-white/15 rounded-full px-4 py-2">Planning-led filters</span>
+                <span className="bg-white/15 rounded-full px-4 py-2">Reviewed March 28, 2026</span>
               </div>
             </div>
           </div>
         </section>
 
-        {/* Breadcrumbs */}
         <section className="bg-white border-b">
-          <div className="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8 py-4">
+          <div className="max-w-6xl mx-auto px-4 sm:px-6 lg:px-8 py-4">
             <Breadcrumbs items={breadcrumbItems} />
           </div>
         </section>
 
-        {/* Intro Text */}
-        <section className="bg-white py-8 border-b">
-          <div className="max-w-4xl mx-auto px-4 sm:px-6 lg:px-8">
+        <section className="bg-white border-b">
+          <div className="max-w-4xl mx-auto px-4 sm:px-6 lg:px-8 py-10 space-y-5">
             <p className="text-lg text-gray-700 leading-relaxed">{data.intro}</p>
-          </div>
-        </section>
-
-        {/* Coast Filter Buttons */}
-        <section className="bg-white border-b sticky top-0 z-40 shadow-sm">
-          <div className="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8 py-4">
-            <div className="flex flex-wrap gap-3 mb-3">
-              {coastFilters.map(f => (
-                <button
-                  key={f.key}
-                  onClick={() => setCoastFilter(f.key)}
-                  className={`px-5 py-2 rounded-full text-sm font-medium whitespace-nowrap transition-colors ${
-                    coastFilter === f.key
-                      ? 'bg-thailand-blue text-white'
-                      : 'bg-surface-cream text-gray-700 hover:bg-gray-200'
-                  }`}
-                >
-                  {f.label}
-                </button>
-              ))}
-            </div>
-            <div className="flex flex-wrap gap-2">
-              {bestForFilters.map(f => (
-                <button
-                  key={f.key}
-                  onClick={() => setBestForFilter(f.key)}
-                  className={`px-4 py-1.5 rounded-full text-xs font-medium whitespace-nowrap transition-colors ${
-                    bestForFilter === f.key
-                      ? 'bg-thailand-gold text-white'
-                      : 'bg-gray-100 text-gray-600 hover:bg-gray-200'
-                  }`}
-                >
-                  {f.label}
-                </button>
-              ))}
-            </div>
-          </div>
-        </section>
-
-        {/* Island Cards */}
-        <section className="py-12">
-          <div className="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8">
-            {filteredIslands.length === 0 ? (
-              <div className="text-center py-16 text-gray-500">
-                <p className="text-xl">No islands found for this filter combination.</p>
-              </div>
-            ) : (
-              <div className="space-y-8">
-                {filteredIslands.map(island => (
-                  <div key={island.rank}>
-                    <article className="bg-white rounded-2xl shadow-md overflow-hidden relative hover:shadow-lg transition-shadow">
-                      {/* Rank Badge */}
-                      <div className="absolute top-4 left-4 z-10 bg-thailand-gold text-white w-10 h-10 rounded-full flex items-center justify-center font-bold text-lg shadow-lg">
-                        #{island.rank}
-                      </div>
-
-                      {/* Header */}
-                      <div className="bg-gradient-to-r from-gray-800 to-gray-900 p-6 pt-8">
-                        <div className="ml-12">
-                          <div className="flex items-center gap-3 mb-2">
-                            <h2 className="text-2xl font-bold font-heading text-white">{island.name}</h2>
-                            <span
-                              className={`px-3 py-1 rounded-full text-xs font-semibold ${
-                                island.coast === 'Andaman'
-                                  ? 'bg-blue-500/30 text-blue-200 border border-blue-400/40'
-                                  : 'bg-teal-500/30 text-teal-200 border border-teal-400/40'
-                              }`}
-                            >
-                              {island.coast === 'Andaman' ? 'Andaman Coast' : 'Gulf Coast'}
-                            </span>
-                          </div>
-                          <p className="text-white/70 text-sm">{island.province} Province</p>
-                        </div>
-                      </div>
-
-                      {/* Content */}
-                      <div className="p-6">
-                        {/* Best For Tags */}
-                        <div className="flex flex-wrap gap-2 mb-4">
-                          {island.best_for.map(tag => (
-                            <span
-                              key={tag}
-                              className={`px-3 py-1 rounded-full text-xs font-medium ${
-                                island.coast === 'Andaman'
-                                  ? 'bg-blue-50 text-blue-700'
-                                  : 'bg-teal-50 text-teal-700'
-                              }`}
-                            >
-                              {tag}
-                            </span>
-                          ))}
-                        </div>
-
-                        <p className="text-gray-700 mb-4 leading-relaxed">{island.description}</p>
-
-                        {/* Info Grid */}
-                        <div className="grid grid-cols-1 sm:grid-cols-3 gap-3 mb-4 text-sm">
-                          <div className="bg-surface-cream rounded-xl p-3 text-center">
-                            <div className="text-gray-500 text-xs mb-1">Best Time to Visit</div>
-                            <div className="font-semibold text-gray-900">{island.best_time}</div>
-                          </div>
-                          <div className="bg-surface-cream rounded-xl p-3 text-center sm:col-span-2">
-                            <div className="text-gray-500 text-xs mb-1">How to Get There</div>
-                            <div className="font-semibold text-gray-900 text-xs sm:text-sm">{island.how_to_get_there}</div>
-                          </div>
-                        </div>
-
-                        {/* Key Facts */}
-                        <div className="flex flex-wrap gap-2 mb-4">
-                          {island.key_facts.map((fact, i) => (
-                            <span
-                              key={i}
-                              className="flex items-start text-sm text-gray-600"
-                            >
-                              <span className="text-green-500 mr-1.5 flex-shrink-0">&#10003;</span>
-                              {fact}
-                              {i < island.key_facts.length - 1 && (
-                                <span className="text-gray-300 ml-2 mr-1">|</span>
-                              )}
-                            </span>
-                          ))}
-                        </div>
-
-                        {/* Google Maps Link */}
-                        <a
-                          href={`https://www.google.com/maps/search/?api=1&query=${encodeURIComponent(island.google_maps_query)}`}
-                          target="_blank"
-                          rel="noopener noreferrer"
-                          className="inline-flex items-center text-sm text-thailand-blue hover:text-thailand-red transition-colors font-medium"
-                        >
-                          <svg className="w-4 h-4 mr-1.5" fill="none" viewBox="0 0 24 24" stroke="currentColor">
-                            <path strokeLinecap="round" strokeLinejoin="round" strokeWidth={2} d="M17.657 16.657L13.414 20.9a1.998 1.998 0 01-2.827 0l-4.244-4.243a8 8 0 1111.314 0z" />
-                            <path strokeLinecap="round" strokeLinejoin="round" strokeWidth={2} d="M15 11a3 3 0 11-6 0 3 3 0 016 0z" />
-                          </svg>
-                          View on Google Maps
-                        </a>
-                      </div>
-                    </article>
-
-                    {/* Affiliate CTA after island 4 */}
-                    {island.rank === 4 && (
-                      <div className="bg-surface-dark rounded-2xl p-6 text-white my-8">
-                        <h3 className="text-xl font-bold font-heading mb-2">
-                          Book Your Island Hopping
-                        </h3>
-                        <p className="opacity-90 mb-4 text-sm">
-                          Ferries, hotels &amp; tours for Thailand&apos;s best islands
-                        </p>
-                        <div className="flex flex-wrap gap-3">
-                          <a
-                            href="https://12go.tpo.lv/tNA80urD"
-                            target="_blank"
-                            rel="noopener noreferrer nofollow"
-                            className="bg-white text-thailand-blue px-4 py-2 rounded-full font-semibold text-sm hover:bg-gray-100 transition-colors"
-                          >
-                            Book Ferries
-                          </a>
-                          <a
-                            href="https://booking.tpo.lv/2PT1kR82"
-                            target="_blank"
-                            rel="noopener noreferrer nofollow"
-                            className="bg-white text-thailand-blue px-4 py-2 rounded-full font-semibold text-sm hover:bg-gray-100 transition-colors"
-                          >
-                            Booking.com
-                          </a>
-                          <a
-                            href="https://klook.tpo.lv/7Dt6WApj"
-                            target="_blank"
-                            rel="noopener noreferrer nofollow"
-                            className="bg-white text-thailand-blue px-4 py-2 rounded-full font-semibold text-sm hover:bg-gray-100 transition-colors"
-                          >
-                            Tours &amp; Activities
-                          </a>
-                        </div>
-                      </div>
-                    )}
-
-                    {/* TripcomWidget after island 8 */}
-                    {island.rank === 8 && (
-                      <div className="my-8">
-                        <TripcomWidget
-                          city="Thailand Islands"
-                          type="searchbox"
-                          customTitle="Find Hotels on Thailand's Islands"
-                        />
-                      </div>
-                    )}
-                  </div>
-                ))}
-              </div>
-            )}
-          </div>
-        </section>
-
-        {/* By Coast Section */}
-        <section className="py-12 bg-white">
-          <div className="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8">
-            <p className="section-label text-center">Explore by Coast</p>
-            <h2 className="text-3xl font-bold font-heading text-gray-900 mb-8 text-center">
-              Islands by Coastline
-            </h2>
-            <div className="grid md:grid-cols-2 gap-8">
-              {/* Andaman Coast */}
-              <div className="bg-white rounded-2xl p-6 shadow-md">
-                <h3 className="text-xl font-bold font-heading text-blue-800 mb-2">Andaman Coast</h3>
-                <p className="text-blue-700 text-sm mb-4">
-                  Thailand&apos;s western seaboard is known for dramatic limestone karsts, crystal-clear water, and vibrant coral reefs. Best visited November to April when seas are calm and visibility peaks. Home to iconic destinations like Phuket, Koh Phi Phi, and the remote Similan Islands.
-                </p>
-                <ul className="space-y-2">
-                  {data.items.filter(i => i.coast === 'Andaman').map(island => (
-                    <li key={island.rank} className="flex items-center gap-3">
-                      <span className="bg-blue-600 text-white w-7 h-7 rounded-full flex items-center justify-center text-xs font-bold flex-shrink-0">
-                        {island.rank}
-                      </span>
-                      <div>
-                        <span className="font-medium text-gray-900 text-sm">{island.name}</span>
-                        <span className="text-gray-500 text-xs ml-2">-- {island.province}</span>
-                      </div>
-                    </li>
-                  ))}
-                </ul>
-              </div>
-
-              {/* Gulf Coast */}
-              <div className="bg-white rounded-2xl p-6 shadow-md">
-                <h3 className="text-xl font-bold font-heading text-teal-800 mb-2">Gulf Coast</h3>
-                <p className="text-teal-700 text-sm mb-4">
-                  The Gulf of Thailand offers calm waters with excellent diving and a longer season. Koh Samui serves as the main hub with its own airport, connecting to Koh Phangan and Koh Tao by ferry. Several Gulf islands are accessible year-round, making them a reliable option outside the Andaman high season.
-                </p>
-                <ul className="space-y-2">
-                  {data.items.filter(i => i.coast === 'Gulf').map(island => (
-                    <li key={island.rank} className="flex items-center gap-3">
-                      <span className="bg-teal-600 text-white w-7 h-7 rounded-full flex items-center justify-center text-xs font-bold flex-shrink-0">
-                        {island.rank}
-                      </span>
-                      <div>
-                        <span className="font-medium text-gray-900 text-sm">{island.name}</span>
-                        <span className="text-gray-500 text-xs ml-2">-- {island.province}</span>
-                      </div>
-                    </li>
-                  ))}
-                </ul>
-              </div>
-            </div>
-          </div>
-        </section>
-
-        {/* Practical Tips Section */}
-        <section className="py-12 bg-surface-cream">
-          <div className="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8">
-            <p className="section-label text-center">Good to Know</p>
-            <h2 className="text-3xl font-bold font-heading text-gray-900 mb-8 text-center">
-              Practical Tips for Thailand&apos;s Islands
-            </h2>
-            <div className="grid md:grid-cols-2 lg:grid-cols-3 gap-6">
-              {data.tips.map((tip, i) => (
-                <div key={i} className="bg-white rounded-2xl p-6 shadow-md hover:shadow-xl hover:-translate-y-1 transition-all">
-                  <div className="flex items-start gap-3">
-                    <span className="bg-thailand-gold text-white w-8 h-8 rounded-full flex items-center justify-center font-bold text-sm flex-shrink-0">
-                      {i + 1}
-                    </span>
-                    <p className="text-gray-700 text-sm leading-relaxed">{tip}</p>
-                  </div>
+            <div className="grid md:grid-cols-3 gap-4">
+              {PLANNING_FRAMEWORK.map(item => (
+                <div key={item.title} className="rounded-2xl bg-surface-cream p-5">
+                  <h2 className="text-lg font-heading font-bold text-gray-900 mb-2">{item.title}</h2>
+                  <p className="text-sm text-gray-700 leading-relaxed">{item.body}</p>
                 </div>
               ))}
             </div>
           </div>
         </section>
 
-        {/* FAQ Section */}
-        <section className="py-12 bg-white">
-          <div className="max-w-4xl mx-auto px-4 sm:px-6 lg:px-8">
-            <p className="section-label text-center">FAQ</p>
-            <h2 className="text-3xl font-bold font-heading text-gray-900 mb-8 text-center">
-              Frequently Asked Questions
-            </h2>
-            <div className="space-y-4">
-              {FAQ_ITEMS.map((item, i) => (
-                <details key={i} className="mb-4 bg-surface-cream rounded-xl shadow-sm group">
-                  <summary className="p-5 font-semibold cursor-pointer hover:bg-gray-200 rounded-xl list-none flex items-center justify-between transition-colors">
-                    <span className="text-gray-900">{item.question}</span>
-                    <svg
-                      className="w-5 h-5 text-gray-500 group-open:rotate-180 transition-transform flex-shrink-0 ml-4"
-                      fill="none"
-                      viewBox="0 0 24 24"
-                      stroke="currentColor"
-                    >
-                      <path strokeLinecap="round" strokeLinejoin="round" strokeWidth={2} d="M19 9l-7 7-7-7" />
-                    </svg>
-                  </summary>
-                  <div className="px-5 pb-5 text-gray-700 leading-relaxed text-sm">
-                    {item.answer}
-                  </div>
-                </details>
+        <section className="bg-white border-b sticky top-0 z-30 shadow-sm">
+          <div className="max-w-6xl mx-auto px-4 sm:px-6 lg:px-8 py-4 space-y-3">
+            <div className="flex flex-wrap gap-3">
+              {coastFilters.map(item => (
+                <button
+                  key={item.key}
+                  onClick={() => setCoastFilter(item.key)}
+                  className={`px-5 py-2 rounded-full text-sm font-medium transition-colors ${
+                    coastFilter === item.key
+                      ? 'bg-thailand-blue text-white'
+                      : 'bg-surface-cream text-gray-700 hover:bg-gray-200'
+                  }`}
+                >
+                  {item.label}
+                </button>
+              ))}
+            </div>
+            <div className="flex flex-wrap gap-2">
+              {bestForFilters.map(item => (
+                <button
+                  key={item.key}
+                  onClick={() => setBestForFilter(item.key)}
+                  className={`px-4 py-1.5 rounded-full text-xs font-medium transition-colors ${
+                    bestForFilter === item.key
+                      ? 'bg-thailand-gold text-white'
+                      : 'bg-gray-100 text-gray-700 hover:bg-gray-200'
+                  }`}
+                >
+                  {item.label}
+                </button>
               ))}
             </div>
           </div>
         </section>
 
-        {/* Full Affiliate CTA Section */}
-        <section className="bg-surface-dark py-12">
-          <div className="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8">
-            <div className="text-center text-white mb-8">
-              <p className="font-script text-thailand-gold text-lg mb-2">Start Planning</p>
-              <h2 className="text-3xl font-bold font-heading mb-3">
-                Plan Your Thai Island Adventure
-              </h2>
-              <p className="text-lg opacity-90">
-                Book everything you need for your island-hopping trip
-              </p>
-            </div>
-            <div className="grid md:grid-cols-2 gap-8 items-start">
-              <TripcomWidget
-                city="Thailand"
-                type="searchbox"
-                customTitle="Search Hotels on Thai Islands"
-              />
-              <div className="space-y-3">
-                <a
-                  href="https://12go.tpo.lv/tNA80urD"
-                  target="_blank"
-                  rel="noopener noreferrer nofollow"
-                  className="flex items-center justify-between bg-white text-gray-900 px-5 py-4 rounded-xl font-semibold hover:bg-gray-50 transition-colors shadow-sm"
-                >
-                  <span>&#9941; Book Ferries (12go)</span>
-                  <svg className="w-5 h-5 text-gray-400" fill="none" viewBox="0 0 24 24" stroke="currentColor">
-                    <path strokeLinecap="round" strokeLinejoin="round" strokeWidth={2} d="M9 5l7 7-7 7" />
-                  </svg>
-                </a>
-                <a
-                  href="https://booking.tpo.lv/2PT1kR82"
-                  target="_blank"
-                  rel="noopener noreferrer nofollow"
-                  className="flex items-center justify-between bg-white text-gray-900 px-5 py-4 rounded-xl font-semibold hover:bg-gray-50 transition-colors shadow-sm"
-                >
-                  <span>&#127968; Booking.com</span>
-                  <svg className="w-5 h-5 text-gray-400" fill="none" viewBox="0 0 24 24" stroke="currentColor">
-                    <path strokeLinecap="round" strokeLinejoin="round" strokeWidth={2} d="M9 5l7 7-7 7" />
-                  </svg>
-                </a>
-                <a
-                  href="https://trip.tpo.lv/TmObooZ5"
-                  target="_blank"
-                  rel="noopener noreferrer nofollow"
-                  className="flex items-center justify-between bg-white text-gray-900 px-5 py-4 rounded-xl font-semibold hover:bg-gray-50 transition-colors shadow-sm"
-                >
-                  <span>&#127968; Trip.com Hotels</span>
-                  <svg className="w-5 h-5 text-gray-400" fill="none" viewBox="0 0 24 24" stroke="currentColor">
-                    <path strokeLinecap="round" strokeLinejoin="round" strokeWidth={2} d="M9 5l7 7-7 7" />
-                  </svg>
-                </a>
-                <a
-                  href="https://klook.tpo.lv/7Dt6WApj"
-                  target="_blank"
-                  rel="noopener noreferrer nofollow"
-                  className="flex items-center justify-between bg-white text-gray-900 px-5 py-4 rounded-xl font-semibold hover:bg-gray-50 transition-colors shadow-sm"
-                >
-                  <span>&#127774; Klook Tours &amp; Activities</span>
-                  <svg className="w-5 h-5 text-gray-400" fill="none" viewBox="0 0 24 24" stroke="currentColor">
-                    <path strokeLinecap="round" strokeLinejoin="round" strokeWidth={2} d="M9 5l7 7-7 7" />
-                  </svg>
-                </a>
-                <a
-                  href="https://getyourguide.tpo.lv/GuAFfGGK"
-                  target="_blank"
-                  rel="noopener noreferrer nofollow"
-                  className="flex items-center justify-between bg-white text-gray-900 px-5 py-4 rounded-xl font-semibold hover:bg-gray-50 transition-colors shadow-sm"
-                >
-                  <span>&#127774; GetYourGuide Activities</span>
-                  <svg className="w-5 h-5 text-gray-400" fill="none" viewBox="0 0 24 24" stroke="currentColor">
-                    <path strokeLinecap="round" strokeLinejoin="round" strokeWidth={2} d="M9 5l7 7-7 7" />
-                  </svg>
-                </a>
-                <a
-                  href="https://saily.tpo.lv/rf9lidnE"
-                  target="_blank"
-                  rel="noopener noreferrer nofollow"
-                  className="flex items-center justify-between bg-white text-gray-900 px-5 py-4 rounded-xl font-semibold hover:bg-gray-50 transition-colors shadow-sm"
-                >
-                  <span>&#128242; Saily eSIM for Thailand</span>
-                  <svg className="w-5 h-5 text-gray-400" fill="none" viewBox="0 0 24 24" stroke="currentColor">
-                    <path strokeLinecap="round" strokeLinejoin="round" strokeWidth={2} d="M9 5l7 7-7 7" />
-                  </svg>
-                </a>
+        <section className="py-12">
+          <div className="max-w-6xl mx-auto px-4 sm:px-6 lg:px-8">
+            <div className="flex items-end justify-between gap-4 mb-8">
+              <div>
+                <p className="section-label text-thailand-gold">Island shortlist</p>
+                <h2 className="text-3xl font-heading font-bold text-gray-900">
+                  Which island shape matches your trip?
+                </h2>
               </div>
+              <Link href="/islands/" className="text-sm font-semibold text-thailand-blue hover:underline">
+                Browse the individual island guides
+              </Link>
             </div>
-            <p className="text-white/70 text-xs text-center mt-6">
-              Some links are affiliate links. We may earn a commission at no extra cost to you.
-            </p>
+
+            <div className="space-y-6">
+              {filteredIslands.map(item => (
+                <article key={item.rank} className="rounded-3xl bg-white border border-gray-100 shadow-sm p-6 md:p-8">
+                  <div className="flex flex-col md:flex-row md:items-start md:justify-between gap-5">
+                    <div className="max-w-3xl">
+                      <div className="flex items-center gap-3 mb-3">
+                        <span className="inline-flex h-10 w-10 items-center justify-center rounded-full bg-thailand-blue text-white font-bold">
+                          {item.rank}
+                        </span>
+                        <div>
+                          <h3 className="text-2xl font-heading font-bold text-gray-900">{item.name}</h3>
+                          <p className="text-sm text-gray-500">
+                            {item.province} · {item.coast === 'Andaman' ? 'Andaman coast' : 'Gulf coast'}
+                          </p>
+                        </div>
+                      </div>
+                      <p className="text-gray-700 leading-relaxed mb-4">{item.description}</p>
+                      <div className="flex flex-wrap gap-2 mb-4">
+                        {item.best_for.map(tag => (
+                          <span key={tag} className="rounded-full bg-thailand-blue/10 px-3 py-1 text-xs font-medium text-thailand-blue">
+                            {tag}
+                          </span>
+                        ))}
+                      </div>
+                      <div className="rounded-2xl bg-surface-cream p-4">
+                        <p className="text-sm text-gray-800">
+                          <span className="font-semibold">Why it makes the list:</span> {item.key_facts.join(' · ')}
+                        </p>
+                      </div>
+                    </div>
+
+                    <div className="grid grid-cols-1 gap-3 md:w-72 text-sm">
+                      <div className="rounded-2xl bg-surface-cream p-4">
+                        <div className="text-gray-500 mb-1">Best broad season</div>
+                        <div className="font-semibold text-gray-900">{item.best_time}</div>
+                      </div>
+                      <div className="rounded-2xl bg-surface-cream p-4">
+                        <div className="text-gray-500 mb-1">Arrival logic</div>
+                        <div className="font-semibold text-gray-900">{item.how_to_get_there}</div>
+                      </div>
+                    </div>
+                  </div>
+
+                  <div className="mt-5 flex flex-wrap gap-3">
+                    <Link
+                      href={internalIslandHref(item.name)}
+                      className="inline-flex items-center rounded-full bg-thailand-blue px-4 py-2 text-sm font-semibold text-white hover:bg-thailand-red transition-colors"
+                    >
+                      Open the {item.name} guide
+                    </Link>
+                    <a
+                      href={`https://www.google.com/maps/search/?api=1&query=${encodeURIComponent(item.google_maps_query)}`}
+                      target="_blank"
+                      rel="noopener noreferrer"
+                      className="inline-flex items-center rounded-full bg-surface-cream px-4 py-2 text-sm font-semibold text-gray-800 hover:bg-gray-200 transition-colors"
+                    >
+                      View map context
+                    </a>
+                  </div>
+                </article>
+              ))}
+            </div>
           </div>
         </section>
 
-        {/* Related Pages Section */}
         <section className="py-12 bg-white">
-          <div className="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8">
-            <p className="section-label text-center">More Guides</p>
-            <h2 className="text-2xl font-bold font-heading text-gray-900 mb-6 text-center">
-              Related Pages
+          <div className="max-w-6xl mx-auto px-4 sm:px-6 lg:px-8">
+            <p className="section-label text-thailand-gold text-center">Coast planning</p>
+            <h2 className="text-3xl font-heading font-bold text-gray-900 text-center mb-8">
+              Choose the coast that matches your trip logic
             </h2>
-            <div className="grid md:grid-cols-3 gap-6 max-w-4xl mx-auto">
-              <a
-                href="/best-beaches-in-thailand/"
-                className="group block bg-white rounded-2xl p-6 border-0 shadow-md hover:shadow-xl hover:-translate-y-1 transition-all"
-              >
-                <div className="text-3xl mb-3">&#127958;</div>
-                <h3 className="text-lg font-bold font-heading text-gray-900 group-hover:text-thailand-blue transition-colors mb-2">
-                  Best Beaches in Thailand
-                </h3>
-                <p className="text-gray-600 text-sm">
-                  25 stunning beaches ranked across 10 islands and 2 coastlines.
-                </p>
-                <span className="inline-block mt-3 text-thailand-blue text-sm font-medium group-hover:underline">
-                  View beach guide &#8594;
-                </span>
-              </a>
+            <div className="grid md:grid-cols-2 gap-6">
+              {(['Andaman', 'Gulf'] as const).map(coast => (
+                <div key={coast} className="rounded-3xl bg-surface-cream p-6">
+                  <h3 className="text-xl font-heading font-bold text-gray-900 mb-3">
+                    {coast === 'Andaman' ? 'Andaman coast' : 'Gulf coast'}
+                  </h3>
+                  <p className="text-gray-700 leading-relaxed mb-4">{COAST_NOTES[coast]}</p>
+                  <ul className="space-y-3">
+                    {data.items
+                      .filter(item => item.coast === coast)
+                      .slice(0, 5)
+                      .map(item => (
+                        <li key={item.name} className="rounded-2xl bg-white px-4 py-3 flex items-center justify-between">
+                          <span className="font-medium text-gray-900">{item.name}</span>
+                          <Link href={internalIslandHref(item.name)} className="text-sm text-thailand-blue hover:underline">
+                            Read guide
+                          </Link>
+                        </li>
+                      ))}
+                  </ul>
+                </div>
+              ))}
+            </div>
+          </div>
+        </section>
 
-              <a
-                href="/islands/"
-                className="group block bg-white rounded-2xl p-6 border-0 shadow-md hover:shadow-xl hover:-translate-y-1 transition-all"
-              >
-                <div className="text-3xl mb-3">&#127965;</div>
-                <h3 className="text-lg font-bold font-heading text-gray-900 group-hover:text-thailand-blue transition-colors mb-2">
-                  Explore Individual Islands
-                </h3>
-                <p className="text-gray-600 text-sm">
-                  In-depth guides for Koh Samui, Koh Phi Phi, Koh Tao, and more.
-                </p>
-                <span className="inline-block mt-3 text-thailand-blue text-sm font-medium group-hover:underline">
-                  View all islands &#8594;
-                </span>
-              </a>
+        <section className="py-12 bg-surface-cream">
+          <div className="max-w-5xl mx-auto px-4 sm:px-6 lg:px-8">
+            <p className="section-label text-thailand-gold text-center">Related routes</p>
+            <h2 className="text-3xl font-heading font-bold text-gray-900 text-center mb-8">
+              Stronger internal routes for the next decision
+            </h2>
+            <div className="grid md:grid-cols-3 gap-6">
+              <Link href="/best-beaches-in-thailand/" className="rounded-3xl bg-white p-6 hover:shadow-md transition-shadow">
+                <h3 className="text-xl font-heading font-bold text-gray-900 mb-2">Best beaches in Thailand</h3>
+                <p className="text-sm text-gray-700">Use the beach pillar when you already know the trip is beach-led and need the shortlist narrowed by vibe and coast.</p>
+              </Link>
+              <Link href="/islands/" className="rounded-3xl bg-white p-6 hover:shadow-md transition-shadow">
+                <h3 className="text-xl font-heading font-bold text-gray-900 mb-2">Islands discovery hub</h3>
+                <p className="text-sm text-gray-700">Browse every island profile as a discovery layer rather than a ranking page.</p>
+              </Link>
+              <Link href="/compare/" className="rounded-3xl bg-white p-6 hover:shadow-md transition-shadow">
+                <h3 className="text-xl font-heading font-bold text-gray-900 mb-2">Island comparisons</h3>
+                <p className="text-sm text-gray-700">Useful once you are deciding between two realistic candidates instead of browsing loosely.</p>
+              </Link>
+            </div>
+          </div>
+        </section>
 
-              <a
-                href="/compare/"
-                className="group block bg-white rounded-2xl p-6 border-0 shadow-md hover:shadow-xl hover:-translate-y-1 transition-all"
-              >
-                <div className="text-3xl mb-3">&#9878;</div>
-                <h3 className="text-lg font-bold font-heading text-gray-900 group-hover:text-thailand-blue transition-colors mb-2">
-                  Compare Islands
-                </h3>
-                <p className="text-gray-600 text-sm">
-                  Can&apos;t decide? Compare Thai islands side by side.
-                </p>
-                <span className="inline-block mt-3 text-thailand-blue text-sm font-medium group-hover:underline">
-                  Compare islands &#8594;
-                </span>
-              </a>
+        <section className="py-12 bg-white">
+          <div className="max-w-4xl mx-auto px-4 sm:px-6 lg:px-8">
+            <p className="section-label text-thailand-gold text-center">Sources and review</p>
+            <h2 className="text-3xl font-heading font-bold text-gray-900 text-center mb-6">
+              Official sources behind the planning notes
+            </h2>
+            <div className="rounded-3xl bg-surface-cream p-6 md:p-8">
+              <p className="text-gray-700 leading-relaxed mb-5">
+                This page was reviewed on March 28, 2026 against official Tourism Authority of Thailand destination pages for the main island anchors in this cluster. Access and seasonal wording is kept broad where exact operating details are unstable.
+              </p>
+              <ul className="space-y-3">
+                {SOURCE_LINKS.map(source => (
+                  <li key={source.href}>
+                    <a href={source.href} target="_blank" rel="noopener noreferrer" className="text-thailand-blue hover:underline">
+                      {source.label}
+                    </a>
+                  </li>
+                ))}
+              </ul>
+            </div>
+          </div>
+        </section>
+
+        <section className="py-12 bg-white">
+          <div className="max-w-4xl mx-auto px-4 sm:px-6 lg:px-8">
+            <p className="section-label text-thailand-gold text-center">FAQ</p>
+            <h2 className="text-3xl font-heading font-bold text-gray-900 text-center mb-8">
+              Frequently asked questions
+            </h2>
+            <div className="space-y-4">
+              {FAQ_ITEMS.map(item => (
+                <details key={item.question} className="rounded-2xl bg-surface-cream p-5">
+                  <summary className="cursor-pointer list-none font-semibold text-gray-900">{item.question}</summary>
+                  <p className="mt-3 text-sm leading-relaxed text-gray-700">{item.answer}</p>
+                </details>
+              ))}
             </div>
           </div>
         </section>
@@ -643,12 +452,11 @@ export const getStaticProps: GetStaticProps = async ({ locale }) => {
   const fs = require('fs');
   const path = require('path');
   const lang = locale || 'en';
-
   const localePath = path.join(process.cwd(), 'data', `islands.${lang}.json`);
   const defaultPath = path.join(process.cwd(), 'data', 'islands.json');
   const dataPath = lang !== 'en' && fs.existsSync(localePath) ? localePath : defaultPath;
-
   const data = JSON.parse(fs.readFileSync(dataPath, 'utf8'));
+
   return {
     props: { data },
     revalidate: 86400
