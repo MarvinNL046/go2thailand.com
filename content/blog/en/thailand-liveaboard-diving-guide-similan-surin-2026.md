@@ -10,7 +10,7 @@ image: "/images/blog/thailand-news-default.webp"
 description: "Everything you need to know about liveaboard diving in Thailand for the 2025-2026 season, from the Similan Islands and Richelieu Rock to brand-new boats like the DiveRACE Class X."
 featured: false
 readingTime: 4
-lastUpdated: "2026-03-23"
+lastUpdated: "2026-03-29"
 sources:
   - name: "LiveAboard.com — Thailand Liveaboard Diving"
     url: "https://www.liveaboard.com/diving/thailand"
@@ -26,18 +26,18 @@ sources:
 
 ## Why Choose a Liveaboard in Thailand?
 
-Thailand's North Andaman Sea is home to some of the healthiest reefs and biggest schools of fish in Southeast Asia. A liveaboard trip lets you reach remote dive sites that day boats simply cannot, including world-famous Richelieu Rock, the Surin Islands and the outer Similan Islands. With water temperatures averaging 27-30 °C and visibility regularly topping 30 metres, this is bucket-list diving at a surprisingly affordable price.
+Thailand's North Andaman Sea is home to some of the healthiest reefs and biggest schools of fish in Southeast Asia. A liveaboard trip lets you reach remote dive sites that day boats simply cannot, including world-famous Richelieu Rock, the Surin Islands and the outer Similan Islands. With water temperatures averaging 27-30 °C and visibility regularly topping 30 metres, this is bucket-list diving at a surprisingly affordable price. Thailand is consistently ranked among [the best diving and snorkelling destinations in the world](/best-diving-snorkeling-in-thailand/), and a liveaboard is the finest way to experience it.
 
 ## When to Go
 
-The liveaboard season runs from **November through May**, after which the Similan and Surin national parks close for the monsoon. The sweet spot for big pelagic encounters — whale sharks and manta rays — is **January to April**, when nutrient-rich currents sweep past Richelieu Rock and Koh Bon. Visibility during this window ranges from 25 to 40 metres.
+The liveaboard season runs from **November through May**, after which the Similan and Surin national parks close for the monsoon. The sweet spot for big pelagic encounters — whale sharks and manta rays — is **January to April**, when nutrient-rich currents sweep past Richelieu Rock and Koh Bon. Visibility during this window ranges from 25 to 40 metres. For a broader overview of when to travel, see our guide on the [best time to visit Thailand](/blog/best-time-to-visit-thailand/).
 
 ## Top Dive Sites
 
 - **Richelieu Rock** — A submerged limestone pinnacle draped in purple soft coral and sea fans. Whale sharks, mantas and dense clouds of barracuda are regular visitors.
 - **Koh Bon** — A reliable manta cleaning station on the western ridge, plus leopard sharks resting on the sandy bottom.
 - **Koh Tachai** — Strong currents attract large pelagics, making this a thrilling drift dive.
-- **Similan Islands (sites 1-9)** — Dramatic granite boulders, swim-throughs and colourful hard-coral gardens teeming with reef fish.
+- **Similan Islands (sites 1-9)** — Dramatic granite boulders, swim-throughs and colourful hard-coral gardens teeming with reef fish. Note that [the Similan Islands have introduced new visitor rules for 2026](/blog/similan-islands-diving-snorkelling-new-rules-2026/) — check these before you book.
 - **Surin Islands** — Shallower reefs with excellent macro life and the chance to visit a Moken sea-gypsy village on the surface interval.
 
 ## New for 2026: MV DiveRACE Class X
@@ -53,7 +53,7 @@ The headline launch this season is the **MV DiveRACE Class X**, a 35-metre steel
 
 ## Budget
 
-Thailand liveaboards are among the most affordable in the world. A four-night trip on a mid-range boat starts at roughly 20,000-25,000 THB (around 550-700 USD), excluding equipment rental and national park fees. Premium boats like the DiveRACE Class X sit at the higher end, but even these remain competitive compared to liveaboard destinations like the Maldives or Raja Ampat.
+Thailand liveaboards are among the most affordable in the world. A four-night trip on a mid-range boat starts at roughly 20,000-25,000 THB (around 550-700 USD), excluding equipment rental and national park fees. Premium boats like the DiveRACE Class X sit at the higher end, but even these remain competitive compared to liveaboard destinations like the Maldives or Raja Ampat. For a full picture of what Thailand travel costs in 2026, check our [Thailand budget guide](/blog/thailand-budget-2026-daily-costs/) and [two-week cost breakdown](/blog/how-much-2-weeks-thailand-cost-2026-budget/).
 
 ## Tips for First-Timers
 
@@ -61,5 +61,7 @@ Thailand liveaboards are among the most affordable in the world. A four-night tr
 2. **Bring reef-safe sunscreen** — Chemical sunscreens damage the corals you came to see.
 3. **Pack motion-sickness remedies** — Crossings can be choppy, particularly early and late in the season.
 4. **Check certification requirements** — Most itineraries are suitable for Open Water divers, but some sites with strong currents recommend Advanced Open Water.
+5. **Sort your visa in advance** — Most nationalities get a 30-day visa exemption; see our [Thailand visa guide 2026](/blog/thailand-visa-guide-2026/) for the latest rules.
+6. **Get travel insurance** — Dive accidents can be expensive. Our [travel insurance guide for Thailand](/blog/travel-insurance-thailand-guide/) covers what to look for.
 
-Whether you are chasing whale sharks at Richelieu Rock or drifting past manta rays at Koh Bon, a Thailand liveaboard trip remains one of the best-value diving adventures on the planet.
+Whether you are chasing whale sharks at Richelieu Rock or drifting past manta rays at Koh Bon, a Thailand liveaboard trip remains one of the best-value diving adventures on the planet. If you want to explore more of the country after your trip, [Phuket](/city/phuket/) makes an excellent base — or combine your liveaboard with an [island-hopping itinerary](/blog/thailand-island-hopping-guide/). Koh Tao is another popular choice for shore-based diving; read about [Koh Tao's coral restoration efforts and eco-diving rules for 2026](/blog/koh-tao-coral-restoration-eco-diving-rules-2026/). Adventurous travellers looking to recover between dives might also be interested in [Thailand's growing wellness retreat scene](/blog/thailand-longevity-anti-aging-retreats-2026/), which pairs well with an Andaman Sea itinerary.

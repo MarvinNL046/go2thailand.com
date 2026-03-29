@@ -10,7 +10,7 @@ image: "/images/blog/thailand-itinerary-first-timers.webp"
 description: "First time in Thailand? This beginner-friendly itinerary covers the must-see highlights in 10-14 days: Bangkok, temples, beaches, and street food."
 featured: false
 readingTime: 10
-lastUpdated: "2026-03-21"
+lastUpdated: "2026-03-29"
 sources:
   - name: "This Remote Corner - 2 Weeks Thailand Itinerary"
     url: "https://thisremotecorner.com/two-week-thailand-itinerary/"
@@ -64,7 +64,7 @@ You can do this route in 10 days (tight but doable) or 14 days (comfortable, wit
 
 **First-timer tip:** Get a Thai SIM card or eSIM at the airport. You'll need data for Grab (Thailand's Uber), Google Maps, and translating menus. AIS and TrueMove offer tourist SIMs for 299–599 THB ($8–17) with 15–30 days of data.
 
-**Evening:** Walk your neighborhood, eat [street food](https://go2-thailand.com/blog/bangkok-street-food-beginners/) for dinner. Try pad kra pao (basil stir-fry with rice and fried egg) — it's Thailand's everyday comfort food. Cost: 50–80 THB ($1.50–2.30).
+**Evening:** Walk your neighborhood, eat [street food](https://go2-thailand.com/blog/bangkok-street-food-beginners/) for dinner. Try pad kra pao (basil stir-fry with rice and fried egg) — it's Thailand's everyday comfort food. Cost: 50–80 THB ($1.50–2.30). Vegan? Look for the [yellow เจ flag for Jay food](https://go2-thailand.com/blog/thailand-jay-food-vegan-street-guide-yellow-flag-2026/) stalls — fully plant-based meals from 50 THB.
 
 ### Day 2: Temples and the Old City
 
@@ -78,9 +78,9 @@ You can do this route in 10 days (tight but doable) or 14 days (comfortable, wit
 
 ### Day 3: Markets, Food, and Modern Bangkok
 
-**Morning:** Visit a floating market (Damnoen Saduak or the smaller, less touristy Amphawa). Book a [day trip from Bangkok](https://go2-thailand.com/blog/best-day-trips-from-bangkok/) or arrange transport via Grab.
+**Morning:** Visit a floating market ([Damnoen Saduak](https://go2-thailand.com/city/bangkok/attractions/damnoen-saduak/) or the smaller, less touristy Amphawa). See our [Bangkok floating markets guide](https://go2-thailand.com/blog/bangkok-floating-markets-guide-damnoen-amphawa-2026/) for what to expect. Book a [day trip from Bangkok](https://go2-thailand.com/blog/best-day-trips-from-bangkok/) or arrange transport via Grab.
 
-**Afternoon:** Explore modern Bangkok — the BTS Skytrain connects malls, neighborhoods, and rooftop bars. Visit Chinatown (Yaowarat Road) for the best [street food in Bangkok](https://go2-thailand.com/blog/best-street-food-markets-bangkok/).
+**Afternoon:** Explore modern Bangkok — the [BTS Skytrain](https://go2-thailand.com/blog/bangkok-public-transport-bts-mrt-tourist-guide-2026/) connects malls, neighborhoods, and rooftop bars. Visit Chinatown (Yaowarat Road) for the best [street food in Bangkok](https://go2-thailand.com/blog/best-street-food-markets-bangkok/).
 
 **First-timer tip:** Download the Grab app before you arrive. It works like Uber and is essential for getting around Bangkok without being overcharged by tuk-tuk drivers. A 15-minute ride costs 60–120 THB ($1.70–3.40).
 
@@ -88,11 +88,11 @@ You can do this route in 10 days (tight but doable) or 14 days (comfortable, wit
 
 ## Part 2: Chiang Mai — 3–4 Days
 
-Fly from Bangkok to [Chiang Mai](https://go2-thailand.com/city/chiang-mai/) (1 hour 15 minutes, 800–1,500 THB/$22–42 on AirAsia, Nok Air, or Thai Lion Air). Book 2–4 weeks ahead for the best prices. The contrast with Bangkok is immediate — Chiang Mai is quieter, greener, and surrounded by mountains.
+Fly from Bangkok to [Chiang Mai](https://go2-thailand.com/city/chiang-mai/) (1 hour 15 minutes, 800–1,500 THB/$22–42 on AirAsia, Nok Air, or Thai Lion Air). On a budget? The [overnight sleeper train from Bangkok to Chiang Mai](https://go2-thailand.com/blog/bangkok-chiang-mai-sleeper-train-guide-2026/) is a popular alternative — 12 hours, from 600 THB. Book 2–4 weeks ahead for the best prices. The contrast with Bangkok is immediate — Chiang Mai is quieter, greener, and surrounded by mountains.
 
 ### Day 4: Temples and the Old City
 
-**Morning:** Explore Chiang Mai's Old City on foot or by rented bicycle (50–100 THB/day). Visit Wat Chedi Luang (free entry, donations welcomed) and Wat Phra Singh (40 THB/$1.10). These are less crowded and more atmospheric than Bangkok's temples.
+**Morning:** Explore [Chiang Mai's Old City](https://go2-thailand.com/city/chiang-mai/attractions/old-city-chiang-mai/) on foot or by rented bicycle (50–100 THB/day). Visit [Wat Chedi Luang](https://go2-thailand.com/city/chiang-mai/attractions/wat-chedi-luang/) (free entry, donations welcomed) and [Wat Phra Singh](https://go2-thailand.com/city/chiang-mai/attractions/wat-phra-singh/) (40 THB/$1.10). These are less crowded and more atmospheric than Bangkok's temples.
 
 **Afternoon:** Walk the narrow streets, browse local art galleries and cafes. Chiang Mai has an excellent coffee scene — try specialty shops in the Nimmanhaemin area.
 
@@ -104,19 +104,19 @@ Fly from Bangkok to [Chiang Mai](https://go2-thailand.com/city/chiang-mai/) (1 h
 
 **Morning & Afternoon:** Take a [Thai cooking class](https://go2-thailand.com/blog/thai-cooking-classes-chiang-mai/). This is consistently rated as one of Thailand's top experiences. Most classes (800–1,500 THB/$22–42) include a market visit where you pick ingredients, then 4–5 hours of hands-on cooking. You'll learn to make [green curry](https://go2-thailand.com/food/green-curry/), [pad thai](https://go2-thailand.com/food/pad-thai/), [tom yum](https://go2-thailand.com/food/tom-yum-goong/), and [mango sticky rice](https://go2-thailand.com/food/mango-sticky-rice/). Book at least a week ahead in peak season.
 
-**Evening:** Visit the Night Bazaar (daily, 6 PM–midnight) on Chang Khlan Road. Try [khao soi](https://go2-thailand.com/blog/khao-soi-chiang-mai-guide/) — Chiang Mai's signature curry noodle soup. It's one of the best dishes in Thailand and almost impossible to find this good outside the north.
+**Evening:** Visit the [Night Bazaar](https://go2-thailand.com/city/chiang-mai/attractions/night-bazaar/) (daily, 6 PM–midnight) on Chang Khlan Road. Try [khao soi](https://go2-thailand.com/blog/khao-soi-chiang-mai-guide/) — Chiang Mai's signature curry noodle soup. It's one of the best dishes in Thailand and almost impossible to find this good outside the north.
 
 ### Day 6: Nature Day
 
-**Option A: Doi Suthep Temple.** Drive or Grab up the mountain to Wat Phra That Doi Suthep (30 THB entry). Climb the 309-step naga staircase for panoramic views over Chiang Mai. Best in the early morning.
+**Option A: Doi Suthep Temple.** Drive or Grab up the mountain to [Wat Phra That Doi Suthep](https://go2-thailand.com/city/chiang-mai/attractions/doi-suthep/) (30 THB entry). Climb the 309-step naga staircase for panoramic views over Chiang Mai. Best in the early morning.
 
-**Option B: Ethical Elephant Sanctuary.** Visit a reputable sanctuary where elephants roam freely — no riding, no chains. Expect to pay 2,000–3,500 THB ($56–98) for a half-day program. Book well in advance. Ask your accommodation for recommendations and avoid any operation that offers elephant rides.
+**Option B: Ethical Elephant Sanctuary.** Visit a reputable sanctuary where elephants roam freely — no riding, no chains. Expect to pay 2,000–3,500 THB ($56–98) for a half-day program. Book well in advance. See our guide to [ethical elephant sanctuaries in Thailand](https://go2-thailand.com/blog/ethical-elephant-sanctuaries-thailand-2026-guide/) to find a responsible operator.
 
 **First-timer tip:** Do NOT rent a motorbike in Chiang Mai unless you have genuine riding experience AND an international driving permit. Police checkpoints are common and fines are 500 THB. Accidents on mountain roads are the number one cause of tourist injuries in northern Thailand.
 
 ### Day 7 (If You Have 14 Days): Extra Day in the North
 
-Use this day for a day trip to Doi Inthanon National Park (Thailand's highest peak, 2,565 meters), the White Temple in Chiang Rai (3 hours by bus), or simply slow down — get a [Thai massage](https://go2-thailand.com/blog/thai-massage-guide-types-prices/) (200–400 THB/$5.60–11 for an hour), explore more food spots, or visit the Chiang Mai night markets you missed.
+Use this day for a day trip to [Doi Inthanon National Park](https://go2-thailand.com/city/chiang-mai/attractions/doi-inthanon/) (Thailand's highest peak, 2,565 meters), the [White Temple in Chiang Rai](https://go2-thailand.com/blog/chiang-rai-white-temple-entrance-fee-doubles-2026/) (3 hours by bus), or simply slow down — get a [Thai massage](https://go2-thailand.com/blog/thai-massage-guide-types-prices/) (200–400 THB/$5.60–11 for an hour), explore more food spots, or visit the Chiang Mai night markets you missed.
 
 ---
 
@@ -163,13 +163,13 @@ These are the errors we see first-time visitors make again and again:
 
 1. **Overbooking your schedule.** You don't need to see everything. Thailand rewards slow travel. Leave gaps in your itinerary for spontaneous discoveries — a random street food stall, a conversation with a local, an unplanned beach.
 
-2. **Skipping street food.** Eating only in hotel restaurants means missing Thailand's greatest strength. [Street food](https://go2-thailand.com/blog/thai-street-food-guide-2026/) is safe (look for busy stalls with high turnover), incredibly cheap, and often better than restaurant food. Read our [street food beginner's guide](https://go2-thailand.com/blog/bangkok-street-food-beginners/).
+2. **Skipping street food.** Eating only in hotel restaurants means missing Thailand's greatest strength. [Street food](https://go2-thailand.com/blog/thai-street-food-guide-2026/) is safe (look for busy stalls with high turnover), incredibly cheap, and often better than restaurant food. Read our [street food beginner's guide](https://go2-thailand.com/blog/bangkok-street-food-beginners/) or check [how to eat like a local for under $5](https://go2-thailand.com/blog/eat-like-local-thailand-under-5-dollars/).
 
 3. **Only visiting tourist areas.** The Grand Palace and Phi Phi are spectacular, but they're also packed. Balance famous sites with quieter spots — [Talad Noi](https://go2-thailand.com/blog/24-hours-talad-noi-bangkok-hidden-gem/) in Bangkok, local temples in Chiang Mai, or a less-visited island like [Koh Chang](https://go2-thailand.com/blog/koh-chang-guide-thailand-eastern-island/).
 
 4. **Packing too much.** Thailand is hot. You need far fewer clothes than you think. Laundry services are everywhere (40–60 THB per kg). Pack light, do laundry, and save luggage space.
 
-5. **Not respecting temple etiquette.** Always cover shoulders and knees at temples. Remove shoes before entering buildings. Don't point your feet at Buddha images. Don't touch monks (especially if you're female). Read up on [Thai etiquette](https://go2-thailand.com/practical-info/etiquette-culture/) before you arrive.
+5. **Not respecting temple etiquette.** Always cover shoulders and knees at temples. Remove shoes before entering buildings. Don't point your feet at Buddha images. Don't touch monks (especially if you're female). Read our full [Thailand temple etiquette and dress code guide](https://go2-thailand.com/blog/thailand-temple-etiquette-dress-code-guide-2026/) before you arrive.
 
 ## Budget Overview: What This Trip Actually Costs
 
@@ -195,6 +195,7 @@ For a detailed daily cost breakdown, check our [Thailand budget guide](https://g
 - Cooking classes in Chiang Mai
 - Ethical elephant sanctuary visits
 - Grand Palace/popular temple tour slots
+- [Travel insurance](https://go2-thailand.com/blog/travel-insurance-thailand-guide/) — sort this before you fly
 
 **Book on arrival or 1–2 days ahead:**
 - Day tours and island trips (via Klook, GetYourGuide, or your hotel)
@@ -207,7 +208,7 @@ For a detailed daily cost breakdown, check our [Thailand budget guide](https://g
 
 - **Grab app** is your best friend. Works for taxis, motorbike taxis, and food delivery. Always cheaper and safer than negotiating with random drivers.
 - **Currency:** Thai Baht (THB). 1 USD is roughly 35 THB (2026 rates). ATMs are everywhere but charge 220 THB ($6.30) per withdrawal. Use ATMs inside bank branches for security. Bring a travel card with low foreign transaction fees.
-- **SIM card or eSIM:** Get one at the airport on arrival. You need mobile data for maps, Grab, and translation apps. Budget 299–599 THB ($8–17) for 15–30 days.
+- **SIM card or eSIM:** Get one at the airport on arrival. You need mobile data for maps, Grab, and translation apps. Budget 299–599 THB ($8–17) for 15–30 days. See our [best SIM card and eSIM guide for Thailand](https://go2-thailand.com/blog/best-sim-card-esim-thailand-tourist-guide-2026/).
 - **Transport apps:** Google Maps works well in Thailand. For intercity buses and trains, book through [12Go Asia](https://12go.asia) — it aggregates routes and lets you compare options.
 - **[Thailand Digital Arrival Card](https://go2-thailand.com/blog/thailand-digital-arrival-card-tdac-guide/):** Complete this online at least 3 days before your flight. It's free and mandatory.
 
@@ -219,7 +220,7 @@ Yes, 10 days is enough to follow this Bangkok → Chiang Mai → Islands route a
 
 ### Which island is best for first-timers?
 
-For a first visit, Krabi or Phuket are the easiest choices — both have airports with direct domestic flights, plenty of accommodation options, and easy access to other islands. If you want a more island-like experience, take a ferry from Krabi to Koh Lanta (2 hours) or Koh Phi Phi (90 minutes).
+For a first visit, [Krabi](https://go2-thailand.com/blog/krabi-travel-guide/) or Phuket are the easiest choices — both have airports with direct domestic flights, plenty of accommodation options, and easy access to other islands. If you want a more island-like experience, take a ferry from Krabi to [Koh Lanta](https://go2-thailand.com/islands/koh-lanta/) (2 hours) or Koh Phi Phi (90 minutes).
 
 ### Is Thailand safe for first-time travelers?
 
@@ -227,7 +228,7 @@ Very safe. Thailand welcomes over 35 million tourists annually and has excellent
 
 ### Can I do this itinerary solo?
 
-Absolutely. Thailand is one of the best countries in the world for [solo travel](https://go2-thailand.com/blog/solo-female-travel-thailand-safety-tips/), including for women. Hostels are social, other travelers are everywhere, and locals are welcoming. You'll never feel truly alone unless you want to.
+Absolutely. Thailand is one of the best countries in the world for [solo travel](https://go2-thailand.com/blog/solo-female-travel-thailand-safety-tips/), including for women. Hostels are social, other travelers are everywhere, and locals are welcoming. Check our [Thailand solo travel boom guide](https://go2-thailand.com/blog/thailand-solo-travel-boom-2026-tips-destinations/) for practical tips. You'll never feel truly alone unless you want to.
 
 ### Should I book a package tour instead?
 
