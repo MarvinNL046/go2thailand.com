@@ -10,7 +10,7 @@ image: "/images/blog/thailand-news-default.webp"
 description: "Koh Larn sits just 7 km off Pattaya with clear water, white sand and cheap ferries. Here is everything you need to plan a day trip in 2026, from ferry times to the best beaches."
 featured: false
 readingTime: 3
-lastUpdated: "2026-03-23"
+lastUpdated: "2026-03-29"
 sources:
   - name: "I Am Koh Chang — How to Visit Koh Larn (Updated March 2026)"
     url: "https://iamkohchang.com/blog/koh-larn-pattaya.html"
@@ -24,25 +24,25 @@ sources:
 
 ## Why Koh Larn?
 
-Pattaya's own beachfront is busy and the water is not the clearest. Koh Larn, a small island just 7 km offshore, fixes both problems. The water is turquoise, the sand is white, and the whole island is only about 4 km long — small enough to explore in a single day. Locals call it Coral Island, and it has been a favourite escape from Pattaya for decades.
+[Pattaya's](/city/pattaya/) own beachfront is busy and the water is not the clearest. Koh Larn, a small island just 7 km offshore, fixes both problems. The water is turquoise, the sand is white, and the whole island is only about 4 km long — small enough to explore in a single day. Locals call it [Coral Island](/city/pattaya/attractions/coral-island/), and it has been a favourite escape from Pattaya for decades.
 
-The island has six named beaches, a fishing village, seafood restaurants, convenience stores and enough infrastructure to spend a comfortable day without roughing it.
+The island has six named beaches, a fishing village, seafood restaurants, convenience stores and enough infrastructure to spend a comfortable day without roughing it. If you are planning a longer stay in the area, check our [Pattaya travel guide](/guides/travel-guide/pattaya/) or browse [where to stay in Pattaya](/guides/where-to-stay/pattaya/).
 
 ## Getting There: Ferry or Speedboat
 
-All boats leave from Bali Hai Pier at the southern end of Walking Street in Pattaya.
+All boats leave from Bali Hai Pier at the southern end of [Walking Street](/city/pattaya/attractions/walking-street/) in Pattaya.
 
 **Public ferry** — Departures run every 30 to 40 minutes from 07:00 to 18:30. The crossing takes about 45 minutes and costs just 30 THB one way. The last return ferry leaves Koh Larn at 18:00, so keep an eye on the time.
 
 **Speedboat** — Faster at around 15 minutes, with tickets at 200 THB one way or 300 THB return. Private speedboat charters cost 2,500 to 3,500 THB return and make sense for groups of four or more.
 
-If you plan to stay for the evening — perhaps for the Pattaya Music Festival weekend on Samae Beach — arrange a speedboat return in advance, as the last public ferry leaves before sunset.
+If you plan to stay for the evening — perhaps for the [Pattaya Music Festival](/blog/pattaya-music-festival-2026-free-beach-concerts-march/) weekend on Samae Beach — arrange a speedboat return in advance, as the last public ferry leaves before sunset.
 
 ## Best Beaches
 
 ### Ta Waen Beach
 
-The most popular and most developed beach on the island. It has restaurants, sun lounger rentals (50 to 100 THB), jet ski hire and banana boat rides. It gets crowded by midday, especially on weekends and holidays. Arrive early for a good spot.
+The most popular and most developed beach on the island. It has restaurants, sun lounger rentals (50 to 100 THB), jet ski hire and banana boat rides. It gets crowded by midday, especially on weekends and holidays. Arrive early for a good spot. For a comparison of Thailand's finest shorelines, see our [best beaches in Thailand](/best-beaches-in-thailand/) guide.
 
 ### Samae Beach
 
@@ -54,7 +54,7 @@ The most peaceful of the accessible beaches. Tien Beach sits on the southern coa
 
 ## Getting Around the Island
 
-Songthaews (covered pickup trucks) wait at the Na Ban pier when ferries arrive. A ride to any beach costs 30 to 50 THB per person. You can also rent a motorbike for about 300 THB per day, though the roads are steep and winding in places — only rent one if you are confident on two wheels.
+Songthaews (covered pickup trucks) wait at the Na Ban pier when ferries arrive. A ride to any beach costs 30 to 50 THB per person. You can also rent a motorbike for about 300 THB per day, though the roads are steep and winding in places — only rent one if you are confident on two wheels. Getting to Pattaya from Bangkok is straightforward; see our [Bangkok to Pattaya transport guide](/transport/bangkok-to-pattaya/) for all options.
 
 ## What to Eat
 
@@ -62,9 +62,9 @@ Seafood is the obvious choice. Beachside restaurants serve grilled prawns, squid
 
 ## Practical Tips
 
-- **Best time to visit:** November to March (dry season) offers the calmest seas and clearest water. The island is accessible year-round, but boat services may be reduced during storms in the rainy season.
-- **Bring cash.** ATMs exist on the island but are limited. Most beach vendors and smaller restaurants do not accept cards.
+- **Best time to visit:** November to March (dry season) offers the calmest seas and clearest water. The island is accessible year-round, but boat services may be reduced during storms in the [rainy season](/blog/thailand-rainy-season-travel-tips-2026/).
+- **Bring cash.** ATMs exist on the island but are limited. Most beach vendors and smaller restaurants do not accept cards. A [Thailand budget breakdown](/blog/thailand-budget-2026-daily-costs/) can help you plan how much to carry.
 - **Sunscreen and water.** There is little natural shade on the main beaches. Bring reef-safe sunscreen and stay hydrated — it gets hot.
-- **Snorkelling gear.** You can rent masks and fins on Ta Waen and Samae beaches for about 100 to 200 THB. The coral is not pristine, but you will see plenty of fish in the shallows.
+- **Snorkelling gear.** You can rent masks and fins on Ta Waen and Samae beaches for about 100 to 200 THB. The coral is not pristine, but you will see plenty of fish in the shallows. For serious diving and snorkelling elsewhere in Thailand, see our [best diving and snorkelling guide](/best-diving-snorkeling-in-thailand/).
 
-Koh Larn works perfectly as a half-day or full-day trip from Pattaya. For 30 THB and 45 minutes, you trade a busy city beach for clear island water — it is one of the easiest and cheapest upgrades you can make on a Thailand trip.
+Koh Larn works perfectly as a half-day or full-day trip from Pattaya. For 30 THB and 45 minutes, you trade a busy city beach for clear island water — it is one of the easiest and cheapest upgrades you can make on a [Thailand trip](/blog/thailand-first-time-visitors-essential-guide-2026/). If you want more island adventures, check our [Thailand island hopping guide](/blog/thailand-island-hopping-guide/) or explore quieter alternatives like [Koh Kood](/blog/koh-kood-quiet-island-guide-trat-2026/) and [Koh Chang](/blog/koh-chang-guide-thailand-eastern-island/) just up the eastern coast. You can also see all [things to do in Pattaya](/things-to-do/pattaya/) for ideas to fill the rest of your stay.

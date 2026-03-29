@@ -10,7 +10,7 @@ image: "/images/blog/thailand-news-default.webp"
 description: "Bangkok Airways is transforming Koh Samui Airport into Thailand's second international flight hub with new routes to Abu Dhabi, Dubai, Shanghai and more. Here is what travellers need to know."
 featured: false
 readingTime: 3
-lastUpdated: "2026-03-23"
+lastUpdated: "2026-03-29"
 sources:
   - name: "Travel And Tour World — Abu Dhabi Unites Chiang Mai, Krabi, and Koh Samui in the Line of New Routes"
     url: "https://www.travelandtourworld.com/news/article/abu-dhabi-unites-chiang-mai-krabi-and-koh-samui-in-the-line-of-new-routes-that-bangkok-airways-is-starting-in-2026/"
@@ -24,9 +24,9 @@ sources:
 
 ## Samui's Tiny Airport Has Big Ambitions
 
-For years, reaching Koh Samui by air meant routing through Bangkok on Bangkok Airways, the airline that built and still privately owns the island's palm-lined airport. That is about to change. Bangkok Airways has announced plans to turn **Samui Airport (USM) into Thailand's second international flight hub**, with a wave of new medium-haul routes launching throughout 2026.
+For years, reaching [Koh Samui](/islands/koh-samui/) by air meant routing through Bangkok on Bangkok Airways, the airline that built and still privately owns the island's palm-lined airport. That is about to change. Bangkok Airways has announced plans to turn **Samui Airport (USM) into Thailand's second international flight hub**, with a wave of new medium-haul routes launching throughout 2026.
 
-If the expansion goes to plan, travellers from the Middle East, China and Southeast Asia will soon be able to fly directly to Samui's beaches without the Bangkok stopover.
+If the expansion goes to plan, travellers from the Middle East, China and Southeast Asia will soon be able to fly directly to [Samui's beaches](/city/koh-samui/attractions/) without the Bangkok stopover.
 
 ## New Routes on the Horizon
 
@@ -38,22 +38,28 @@ Bangkok Airways already operates direct flights from Koh Samui to **Hong Kong an
 - **Bali** — island-to-island connection across Southeast Asia
 - **Kuala Lumpur** — a resumption of a previously suspended route
 
-Domestically, Bangkok Airways is also strengthening Samui connections to **Chiang Mai, Krabi and U-Tapao (Pattaya)**, allowing island-hoppers to skip Bangkok entirely.
+Domestically, Bangkok Airways is also strengthening Samui connections to [**Chiang Mai**](/transport/chiang-mai-to-koh-samui/), [**Krabi**](/transport/koh-samui-to-krabi/) and **U-Tapao (Pattaya)**, allowing island-hoppers to skip Bangkok entirely. The new Pattaya connection ties into the [U-Tapao airport expansion](/blog/u-tapao-pattaya-airport-new-flights-expansion-2026/) that is separately adding capacity to Thailand's Eastern Seaboard.
 
 ## Airport Capacity Upgrades
 
 To handle the growth, Bangkok Airways has increased the permitted daily aircraft movements at Samui Airport from **50 to 60**, with a long-term target of **73 movements per day**. The compact airport — famous for its open-air terminals and golf-cart transfers — will need to balance expansion with the relaxed island character that makes arriving on Samui feel like a holiday the moment you step off the plane.
 
+This push is part of a broader pattern of [new airline routes opening across Thailand in 2026](/blog/new-airline-routes-thailand-2026-flydubai-norse-scoot-chiang-rai/), with carriers racing to capitalise on a recovering tourism market. [Thai Airways is also modernising its fleet](/blog/thai-airways-a321neo-fleet-modernization-32-jets-2026/) with 32 new A321neo jets, adding further capacity to the network. Meanwhile, [Singapore Airlines launched nonstop Chiang Mai flights](/blog/singapore-airlines-chiang-mai-nonstop-flights-2026/) in a sign that premium carriers are confident in Thai demand.
+
 ## What This Means for Travellers
 
-For visitors planning a 2026 trip to Koh Samui, the expansion brings several practical benefits:
+For visitors planning a 2026 trip to [Koh Samui](/destinations/koh-samui/), the expansion brings several practical benefits:
 
 - **Shorter travel times** from the Middle East and Asia, with no need to overnight in Bangkok
-- **More competition** on routes could push fares down over time
-- **Easier multi-destination trips** — fly into Samui, ferry to Koh Phangan or Koh Tao, then fly out from Krabi or Chiang Mai
+- **More competition** on routes could push fares down over time — though be aware that [Thai carriers have raised fares due to fuel costs](/blog/thai-airways-fare-hike-10-15-percent-fuel-costs-2026/)
+- **Easier multi-destination trips** — fly into Samui, ferry to [Koh Phangan](/islands/koh-phangan/) or [Koh Tao](/islands/koh-tao/), then fly out from [Krabi](/blog/krabi-travel-guide/) or Chiang Mai
+
+Planning a [Bangkok to Koh Samui](/transport/bangkok-to-koh-samui/) journey? The [Bangkok to Koh Samui guide](/blog/bangkok-to-koh-samui-guide/) covers all transport options including the overnight bus-ferry combo. For those wanting to [compare Koh Samui with Koh Phangan](/compare/koh-samui-vs-koh-phangan/) before booking, the two islands offer very different vibes despite being just a 30-minute ferry apart.
 
 Scoot (the Singapore Airlines low-cost carrier) also operates a **Singapore to Koh Samui** route on Embraer E190 jets, adding a budget-friendly alternative alongside Bangkok Airways.
 
+If you are combining the islands with a wellness trip, [yoga retreats on Koh Samui and Koh Phangan](/blog/yoga-retreats-koh-samui-koh-phangan-2026-guide/) are among the best in Asia, and direct flights make the journey considerably easier. Luxury travellers might also consider the [Cape Fahn Hotel](/blog/cape-fahn-hotel-koh-samui-private-island-luxury-2026/), a private-island resort reachable directly from the upgraded airport.
+
 ## The Bottom Line
 
-Samui's airport expansion is one of the most significant shifts in Thai aviation since the U-Tapao development near Pattaya. If Bangkok Airways delivers on its 2026 route map, Koh Samui could evolve from a domestic beach-hopping stop into a genuine regional gateway — and getting to those Gulf of Thailand islands just got a whole lot easier.
+Samui's airport expansion is one of the most significant shifts in Thai aviation since the [U-Tapao development near Pattaya](/blog/u-tapao-pattaya-airport-new-flights-expansion-2026/). If Bangkok Airways delivers on its 2026 route map, Koh Samui could evolve from a domestic beach-hopping stop into a genuine regional gateway — and getting to those [Gulf of Thailand islands](/blog/thailand-island-hopping-guide/) just got a whole lot easier.
