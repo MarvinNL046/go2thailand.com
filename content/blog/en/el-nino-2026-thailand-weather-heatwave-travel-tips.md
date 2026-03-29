@@ -10,7 +10,7 @@ image: "/images/blog/thailand-news-default.webp"
 description: "El Nino is expected to develop from May 2026, delaying Thailand's monsoon and pushing temperatures above 42 degrees Celsius. Here is what it means for your trip and how to stay safe."
 featured: false
 readingTime: 3
-lastUpdated: "2026-03-23"
+lastUpdated: "2026-03-29"
 sources:
   - name: "Nation Thailand — Thailand 2026 Summer Forecast Over 42°C"
     url: "https://www.nationthailand.com/blogs/news/general/40061952"
@@ -24,30 +24,36 @@ sources:
 
 ## El Nino Is Back — And It Will Affect Your Trip
 
-The European Centre for Medium-Range Weather Forecasts (ECMWF) predicts El Nino developing from May 2026 onward. For Thailand, this means higher temperatures, a delayed monsoon, and an increased risk of heatwaves and drought compared to recent years. If you are planning a trip between April and July, this is worth paying attention to.
+The European Centre for Medium-Range Weather Forecasts (ECMWF) predicts El Nino developing from May 2026 onward. For Thailand, this means higher temperatures, a delayed monsoon, and an increased risk of heatwaves and drought compared to recent years. If you are planning a trip between April and July, this is worth paying attention to. Our [best time to visit Thailand](/blog/best-time-to-visit-thailand/) guide explains how the seasons break down across the whole country.
 
 ## What the Forecasts Say
 
 Thailand's summer season started roughly two weeks later than usual in 2026, beginning at the end of February instead of mid-February. It is expected to last until mid-May. The average maximum temperature in northern Thailand is forecast to reach 36 to 37 degrees Celsius — above the typical average of 35.4 degrees — and some parts of the country could see peaks above 42 degrees Celsius.
 
-The monsoon, which normally arrives in May and runs through October, may be delayed. This means the hot and dry season could stretch longer than usual, particularly in the north and northeast.
+The monsoon, which normally arrives in May and runs through October, may be delayed. This means the hot and dry season could stretch longer than usual, particularly in the north and northeast. Thailand is also dealing with a [2026 drought and water shortage](/blog/thailand-drought-2026-water-shortage-travel-impact/) that is affecting some rural areas and national parks.
 
 ## How Each Region Is Affected
 
-- **Bangkok and Central Thailand** — Expect intense heat from March through May. Rain, when it comes, tends to arrive in short, heavy bursts in the late afternoon or evening, clearing quickly.
-- **Northern Thailand (Chiang Mai, Chiang Rai)** — The hottest and most drought-prone region. Burning season (crop burning and haze) typically peaks in March and April, and El Nino conditions may worsen air quality.
-- **Andaman Coast (Phuket, Krabi, Koh Lanta)** — Heavier rainfall usually runs from May through October, but a delayed monsoon could mean a drier start to the wet season.
-- **Gulf of Thailand (Koh Samui, Koh Phangan, Koh Tao)** — These islands often stay relatively dry during the early monsoon months, with the wettest period falling between October and December. El Nino may reinforce this pattern.
+- **Bangkok and Central Thailand** — Expect intense heat from March through May. Rain, when it comes, tends to arrive in short, heavy bursts in the late afternoon or evening, clearing quickly. Bangkok's [BTS and MRT](/blog/bangkok-public-transport-bts-mrt-tourist-guide-2026/) are fully air-conditioned and a good way to move around during peak heat hours.
+- **Northern Thailand (Chiang Mai, Chiang Rai)** — The hottest and most drought-prone region. Burning season (crop burning and haze) typically peaks in March and April, and El Nino conditions may worsen air quality. See our [Chiang Mai cheapest digital nomad city guide](/blog/chiang-mai-cheapest-digital-nomad-city-2026/) for tips on living and working there through the hot season.
+- **Andaman Coast ([Phuket](/blog/phuket-travel-guide-2026/), [Krabi](/blog/krabi-travel-guide/), Koh Lanta)** — Heavier rainfall usually runs from May through October, but a delayed monsoon could mean a drier start to the wet season.
+- **Gulf of Thailand ([Koh Samui](/blog/best-hotels/koh-samui/), Koh Phangan, [Koh Tao](/blog/koh-tao-guide-diving-beaches-budget-travel/))** — These islands often stay relatively dry during the early monsoon months, with the wettest period falling between October and December. El Nino may reinforce this pattern.
 
 ## Practical Tips for Travelling in the Heat
 
 1. **Hydrate constantly.** Carry a reusable water bottle and aim for at least two to three litres per day. Dehydration sneaks up fast in 35-plus-degree heat.
-2. **Plan outdoor activities early.** Visit temples, markets, and parks before 10 AM or after 4 PM. Midday heat in April and May can be genuinely dangerous.
+2. **Plan outdoor activities early.** Visit temples, markets, and parks before 10 AM or after 4 PM. Midday heat in April and May can be genuinely dangerous. Our [Thailand temple etiquette guide](/blog/thailand-temple-etiquette-dress-code-guide-2026/) also covers what to wear in the heat while respecting dress codes.
 3. **Wear sunscreen and a hat.** UV levels in Thailand during the hot season are extreme. Reapply sunscreen every two hours if you are outdoors.
-4. **Embrace air conditioning.** Shopping malls, cinemas, and cafes are your best friends during the hottest hours. Bangkok's MRT and BTS are also fully air-conditioned.
+4. **Embrace air conditioning.** Shopping malls, cinemas, and cafes are your best friends during the hottest hours. Bangkok's MRT and BTS are also fully air-conditioned. A [Thai massage](/blog/thai-massage-guide-types-prices/) in a cool, shaded shophouse is another excellent midday escape.
 5. **Check air quality.** If you are heading to Chiang Mai between March and April, download an air quality app (such as IQAir) and consider bringing an N95 mask for smoky days.
-6. **Book accommodation with a pool.** It sounds obvious, but having a pool to cool off in after a day of sightseeing makes a real difference during the hot season.
+6. **Book accommodation with a pool.** It sounds obvious, but having a pool to cool off in after a day of sightseeing makes a real difference during the hot season. Browse the [best hotels in Bangkok](/best-hotels/bangkok/) or [best hotels in Phuket](/best-hotels/phuket/) to find pool-equipped options at every budget.
 
 ## Should You Change Your Travel Dates?
 
-Not necessarily. Thailand is a year-round destination and millions of visitors travel comfortably during the hot season every year. The key is adjusting your expectations and pace. If you prefer cooler weather and fewer crowds, consider visiting between November and February — Thailand's cool and dry season — instead.
+Not necessarily. Thailand is a year-round destination and millions of visitors travel comfortably during the hot season every year. The key is adjusting your expectations and pace. If you prefer cooler weather and fewer crowds, consider visiting between November and February — Thailand's cool and dry season — instead. Our [rainy season travel tips](/blog/thailand-rainy-season-travel-tips-2026/) are also useful if your dates fall in the monsoon window.
+
+Regardless of when you go, sort out [travel insurance for Thailand](/blog/travel-insurance-thailand-guide/) before you fly — medical cover is especially important in extreme heat. Check the current [Thailand visa rules](/blog/thailand-visa-guide-2026/) too, as entry requirements have changed in 2026. For a complete pre-trip checklist, see our [Thailand first-timers guide](/blog/thailand-first-time-visitors-essential-guide-2026/).
+
+If the heat sounds daunting, [Thailand's island-hopping routes](/blog/thailand-island-hopping-guide/) offer plenty of beach and sea time that naturally keeps you cool. And for travellers wondering how El Nino affects overall trip costs, our [Thailand budget 2026 daily costs breakdown](/blog/thailand-budget-2026-daily-costs/) includes accommodation and transport estimates that account for the higher-cost summer months.
+
+If you are visiting Bangkok around late March, the [Earth Hour 2026 event on March 28](/blog/earth-hour-2026-bangkok-thailand-landmarks-lights-off/) is a rare chance to see the city's famous landmarks in darkness — and the Chao Phraya riverfront is a comfortable evening spot even during the hot season.
