@@ -10,7 +10,7 @@ image: "/images/blog/thailand-news-default.webp"
 description: "Skip the beach for a morning and explore Old Town Phuket on foot. This walking guide covers the best Sino-Portuguese streets, murals, cafés and markets in Phuket's colourful historic quarter."
 featured: false
 readingTime: 3
-lastUpdated: "2026-03-23"
+lastUpdated: "2026-03-29"
 sources:
   - name: "Phuket101 — Phuket Old Town: A Local's Guide"
     url: "https://www.phuket101.net/phuket-town-guide/"
@@ -24,19 +24,19 @@ sources:
 
 ## A Different Side of Phuket
 
-Most visitors associate Phuket with beaches and nightlife, but the island's historic heart tells a completely different story. Old Town Phuket — centred around Thalang Road, Soi Romanee and Dibuk Road — is a walkable neighbourhood of pastel-coloured Sino-Portuguese shophouses, street art murals and independent cafés. It takes about two to three hours to explore on foot, and it is one of the most photogenic spots in southern Thailand.
+Most visitors associate [Phuket](/city/phuket/) with beaches and nightlife, but the island's historic heart tells a completely different story. Old Town Phuket — centred around Thalang Road, Soi Romanee and Dibuk Road — is a walkable neighbourhood of pastel-coloured Sino-Portuguese shophouses, street art murals and independent cafés. It takes about two to three hours to explore on foot, and it is one of the most photogenic spots in southern Thailand. If you are still weighing up your trip, our [honest guide to Phuket](/blog/is-phuket-worth-visiting-2026-honest-guide/) covers the full picture.
 
 ## The Streets to Walk
 
-**Thalang Road** is the main artery of Old Town. Lined with restored heritage buildings in shades of yellow, turquoise and pink, it is home to boutique shops, small galleries and some of the area's best-known cafés. On Sundays, the Thalang Road Walking Street Market transforms the strip into a bustling night market with local food, crafts and live music.
+**Thalang Road** is the main artery of Old Town. Lined with restored heritage buildings in shades of yellow, turquoise and pink, it is home to boutique shops, small galleries and some of the area's best-known cafés. On Sundays, the Thalang Road Walking Street Market transforms the strip into a bustling night market with local food, crafts and live music — for a broader look at markets across the island and beyond, see our guide to [night markets in Bangkok, Chiang Mai and Phuket](/blog/night-markets-food-lovers-bangkok-chiang-mai-phuket/).
 
-**Soi Romanee** is a short, narrow lane connecting Thalang and Dibuk roads. Once a red-light district during the tin-mining era, it has been lovingly restored into the most photographed street in Phuket. The pastel facades, potted plants and vintage signage make every angle Instagram-worthy.
+**Soi Romanee** is a short, narrow lane connecting Thalang and Dibuk roads. Once a red-light district during the tin-mining era, it has been lovingly restored into the most photographed street in Phuket. The pastel facades, potted plants and vintage signage make every angle Instagram-worthy. The area is part of the broader [Phuket Old Town](/city/phuket/attractions/phuket-old-town/) district.
 
-**Dibuk Road** is quieter and more authentic. Here you will find working shophouses, local businesses and a handful of old-school restaurants that have been serving Phuket's Hokkien-influenced cuisine for decades.
+**Dibuk Road** is quieter and more authentic. Here you will find working shophouses, local businesses and a handful of old-school restaurants that have been serving Phuket's Hokkien-influenced cuisine for decades. For a full overview of [Phuket's food scene](/city/phuket/food/), including where to eat beyond Old Town, see our city food guide.
 
 ## Street Art and Photo Spots
 
-Phuket Old Town has developed a growing collection of murals, many blending the neighbourhood's multicultural history — Thai, Chinese and Portuguese — with contemporary styles. Keep an eye out for large-scale wall paintings on side streets between Thalang and Phang Nga roads. The mix of crumbling textures, bright paint and ornate shophouse details creates a unique backdrop.
+Phuket Old Town has developed a growing collection of murals, many blending the neighbourhood's multicultural history — Thai, Chinese and Portuguese — with contemporary styles. Keep an eye out for large-scale wall paintings on side streets between Thalang and Phang Nga roads. The mix of crumbling textures, bright paint and ornate shophouse details creates a unique backdrop. Fans of street art should also consider [Chiang Mai's street art walking guide](/blog/chiang-mai-street-art-walking-guide-old-city-nimman-2026/) for a northern counterpart.
 
 ## Where to Eat and Drink
 
@@ -44,10 +44,12 @@ Phuket Old Town has developed a growing collection of murals, many blending the 
 - **Aungku Phuket** — a pretty white café with pink bougainvillea and a menu focused on pastries and local sweets.
 - **Kopitiam by Wilai** — a no-frills local favourite for Hokkien-style coffee and mee hokkien noodles.
 
+Looking for the [best restaurants in Phuket](/city/phuket/top-10-restaurants/)? Our city guide lists the top picks across all neighbourhoods.
+
 ## When to Go
 
-Early morning or late afternoon gives you the best light for photography and avoids the midday heat. The dry season (November to April) is ideal. If you are visiting on a Sunday, time your walk to end at the Walking Street Market, which runs from roughly 16:00 to 22:00.
+Early morning or late afternoon gives you the best light for photography and avoids the midday heat. The [dry season (November to April)](/blog/best-time-to-visit-thailand/) is ideal. If you are visiting on a Sunday, time your walk to end at the Walking Street Market, which runs from roughly 16:00 to 22:00. For a broader Phuket trip, also check what's happening at [Bangla Road](/city/phuket/attractions/bangla-road/) and [Patong Beach](/city/phuket/attractions/patong-beach/) in the evenings.
 
 ## Getting There
 
-Old Town is about 30 minutes by taxi from Patong Beach or 10 minutes from Phuket Airport. The area is compact and best explored on foot once you arrive.
+Old Town is about 30 minutes by taxi from [Patong Beach](/city/phuket/attractions/patong-beach/) or 10 minutes from Phuket Airport. The area is compact and best explored on foot once you arrive. For where to stay, browse our [Phuket hotel guide](/best-hotels/phuket/) to find accommodation close to Old Town or the beaches. If you plan to continue south, [Krabi](/city/krabi/) and the [Phi Phi Islands](/city/phuket/attractions/phi-phi-islands/) are easy day trips or next stops on a southern Thailand route. You can also read our full [Phuket travel guide 2026](/blog/phuket-travel-guide-2026/) for a complete overview of the island.
