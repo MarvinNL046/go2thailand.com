@@ -10,7 +10,7 @@ image: "/images/blog/thailand-news-default.webp"
 description: "S2O Songkran Music Festival returns to Bangkok on April 11-13, 2026 with Zedd, Kygo, Alan Walker and more. Here is everything you need to know about tickets, lineup and what to expect."
 featured: false
 readingTime: 3
-lastUpdated: "2026-03-23"
+lastUpdated: "2026-03-29"
 sources:
   - name: "S2O Songkran Music Festival — Official Website"
     url: "https://www.s2ofestival.com/"
@@ -24,15 +24,15 @@ sources:
 
 ## What Is S2O Songkran Music Festival?
 
-If you thought Thailand's traditional Songkran water festival was fun, imagine combining it with world-class electronic dance music, massive water cannons and a crowd of thousands going wild under the Bangkok sun. That is exactly what S2O Songkran Music Festival delivers every April, and the 2026 edition promises to be the biggest yet.
+If you thought Thailand's traditional [Songkran water festival](/blog/songkran-festival-2026-guide/) was fun, imagine combining it with world-class electronic dance music, massive water cannons and a crowd of thousands going wild under the Bangkok sun. That is exactly what S2O Songkran Music Festival delivers every April, and the 2026 edition promises to be the biggest yet.
 
 S2O (which stands for "Songkran to the World") has grown into one of Asia's most iconic EDM festivals. It takes the joyful chaos of Thailand's New Year water fight and cranks it up to festival scale with giant stage designs, spectacular water effects and headline DJs from around the globe.
 
 ## Dates, Location and Tickets
 
-The 2026 festival runs from **April 11 to 13** in Bangkok. Tickets start from **1,700 Thai baht** (roughly 50 USD) and are available through the official S2O website and Eventpop. Prices go up as tiers sell out, so booking early is strongly recommended.
+The 2026 festival runs from **April 11 to 13** in [Bangkok](/city/bangkok/). Tickets start from **1,700 Thai baht** (roughly 50 USD) and are available through the official S2O website and Eventpop. Prices go up as tiers sell out, so booking early is strongly recommended.
 
-Past editions have sold out completely, and 2026 is expected to follow the same trend given the stacked lineup.
+Past editions have sold out completely, and 2026 is expected to follow the same trend given the stacked lineup. If you are flying in for the event, check out [Songkran discount flights](/blog/songkran-2026-airlines-discount-flights/) to save on airfare.
 
 ## The 2026 Lineup
 
@@ -60,8 +60,17 @@ Think of S2O as a wet rave. Water is sprayed constantly from the stage and from 
 - Use a waterproof phone pouch — this is non-negotiable
 - Stay hydrated despite all the water around you
 - Arrive early to grab a good spot near the stage
-- Book accommodation in central Bangkok since transport gets busy during Songkran week
+- Book accommodation in central Bangkok since [transport gets busy during Songkran week](/blog/bangkok-public-transport-bts-mrt-tourist-guide-2026/) — check our [Bangkok neighbourhood guide](/blog/where-to-stay-bangkok-neighborhood-guide/) to find the best base
+- Be aware of [water gun rules and fines](/blog/songkran-2026-water-gun-rules-fines-safety-guide/) that apply citywide during the festival period
 
 ## Why It Matters for Travellers
 
 S2O gives visitors a reason to experience Songkran beyond the traditional street celebrations. It combines Thai culture with international-level production, making it a standout event for music lovers visiting Thailand in April. If you are already planning a Songkran trip, adding S2O to your itinerary is a no-brainer.
+
+Bangkok has several other Songkran events running simultaneously. The [Siam Songkran Music Festival](/blog/siam-songkran-music-festival-2026-bangkok-guide/) at Siam Paragon is a popular daytime alternative, and the [Silom Edge Songkran](/blog/silom-edge-songkran-2026-bangkok-water-festival-event/) event draws big crowds along Silom Road. The [Bangkok Songkran Khaosan Road safety plan](/blog/bangkok-songkran-2026-khaosan-road-safety-plan/) is also worth reading before you head out. For celebrations across the country, see the [full nationwide Songkran guide covering all 76 provinces](/blog/songkran-2026-76-provinces-nationwide-celebrations-guide/).
+
+If EDM is your thing but you want more options in Thailand, [Tomorrowland Pattaya](/blog/thailand-tomorrowland-pattaya-first-asia-edition-2026/) is another major festival on the 2026 calendar, and the [Pattaya Music Festival](/blog/pattaya-music-festival-2026-free-beach-concerts-march/) offers free beach concerts just down the coast.
+
+If you want to make your Thailand trip more culturally immersive, consider getting a [Sak Yant sacred bamboo tattoo](/blog/sak-yant-bamboo-tattoo-thailand-guide-2026/) while you are in Bangkok — many studios are a short ride from the festival venue.
+
+Before travelling, make sure your paperwork is in order. The [Thailand visa guide](/blog/thailand-visa-guide-2026/) covers entry requirements, and the [Thailand Digital Arrival Card (TDAC)](/blog/thailand-digital-arrival-card-tdac-guide/) is mandatory for all arrivals. A solid [travel insurance policy](/blog/travel-insurance-thailand-guide/) is also strongly recommended for festival trips. First-time visitors should read the [essential Thailand travel guide](/blog/thailand-first-time-visitors-essential-guide-2026/) before arrival.
