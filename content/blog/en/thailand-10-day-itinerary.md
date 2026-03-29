@@ -10,7 +10,7 @@ image: "/images/blog/thailand-10-day-itinerary.webp"
 description: "The perfect 10 day Thailand itinerary covering Bangkok, Chiang Mai, and the islands. Day-by-day route with costs, transport, and insider tips."
 featured: true
 readingTime: 12
-lastUpdated: "2026-03-21"
+lastUpdated: "2026-03-29"
 sources:
   - name: "TAT - Bangkok"
     url: "https://www.tourismthailand.org/destinations/bangkok"
@@ -50,7 +50,7 @@ This itinerary follows a logical north-to-south path: fly into Bangkok, head nor
 
 ### Day 1: Arrive and Ease In
 
-Fly into Suvarnabhumi Airport (BKK) and grab a taxi or the Airport Rail Link to your hotel. If you land before noon, spend the afternoon exploring your neighborhood on foot. Pick up an [eSIM](https://saily.tpo.lv/rf9lidnE) or local SIM card at the airport — data costs about 300 THB ($8.50) for a week.
+Fly into Suvarnabhumi Airport (BKK) and grab a taxi or the Airport Rail Link to your hotel. If you land before noon, spend the afternoon exploring your neighborhood on foot. Pick up an [eSIM](https://saily.tpo.lv/rf9lidnE) or [local SIM card](https://go2-thailand.com/blog/best-sim-card-esim-thailand-tourist-guide-2026/) at the airport — data costs about 300 THB ($8.50) for a week.
 
 For dinner, head to a local street food stall. A plate of pad thai or chicken over rice costs 50–80 THB ($1.40–2.30). If you want a curated introduction, read our [Bangkok street food guide](https://go2-thailand.com/blog/bangkok-street-food-beginners/).
 
@@ -70,7 +70,7 @@ In the evening, explore the [Jodd Fairs night market](https://go2-thailand.com/b
 
 If it's a weekend, spend the morning at [Chatuchak Weekend Market](https://go2-thailand.com/blog/chatuchak-market-bangkok-guide/) — over 15,000 stalls across 27 acres. Get there by 9 AM to beat the heat and crowds. Check out the [Chatuchak food guide](https://go2-thailand.com/blog/chatuchak-weekend-market-food-guide/) for the best bites.
 
-If it's a weekday, consider a [day trip from Bangkok](https://go2-thailand.com/blog/best-day-trips-from-bangkok/) — the floating markets at Damnoen Saduak or the ancient ruins at Ayutthaya (a UNESCO World Heritage Site, 1.5 hours by train).
+If it's a weekday, consider a [day trip from Bangkok](https://go2-thailand.com/blog/best-day-trips-from-bangkok/) — the [floating markets at Damnoen Saduak](https://go2-thailand.com/blog/bangkok-floating-markets-guide-damnoen-amphawa-2026/) or the ancient ruins at [Ayutthaya](https://go2-thailand.com/city/ayutthaya/) (a UNESCO World Heritage Site, 1.5 hours by train — see our [Ayutthaya day trip guide](https://go2-thailand.com/blog/ayutthaya-day-trip-train-bangkok-temples-guide-2026/)).
 
 Spend your last Bangkok evening at a rooftop bar. The views from above put the city's scale into perspective.
 
@@ -84,11 +84,11 @@ Spend your last Bangkok evening at a rooftop bar. The views from above put the c
 
 Book an early morning flight from Bangkok (Don Mueang or Suvarnabhumi) to [Chiang Mai](https://go2-thailand.com/city/chiang-mai/). Airlines like Thai AirAsia and Thai VietJet offer one-way fares from $18–50 if you book 3–4 weeks ahead. The flight takes about 1 hour and 15 minutes.
 
-Check into your hotel in the Old City — the square-mile area inside the ancient moat is walkable, charming, and full of temples, cafes, and guesthouses. Budget hotels start at 400–600 THB ($11–17) per night.
+Check into your hotel in the Old City — the square-mile area inside the ancient moat is walkable, charming, and full of temples, cafes, and guesthouses. Budget hotels start at 400–600 THB ($11–17) per night. See the [best hotels in Chiang Mai](https://go2-thailand.com/best-hotels/chiang-mai/) for options at every price point.
 
-In the afternoon, rent a bicycle (50–100 THB/day) and explore the Old City temples at your own pace. [Wat Chedi Luang](https://go2-thailand.com/city/chiang-mai/) and Wat Phra Singh are within walking distance of each other.
+In the afternoon, rent a bicycle (50–100 THB/day) and explore the Old City temples at your own pace. [Wat Chedi Luang](https://go2-thailand.com/city/chiang-mai/attractions/wat-chedi-luang/) and [Wat Phra Singh](https://go2-thailand.com/city/chiang-mai/attractions/wat-phra-singh/) are within walking distance of each other.
 
-As the sun sets, head to Doi Suthep — the golden temple perched on the mountain overlooking the city. A songthaew (red truck taxi) from the Old City costs about 100 THB per person each way. The temple entry is 30 THB.
+As the sun sets, head to [Doi Suthep](https://go2-thailand.com/city/chiang-mai/attractions/doi-suthep/) — the golden temple perched on the mountain overlooking the city. A songthaew (red truck taxi) from the Old City costs about 100 THB per person each way. The temple entry is 30 THB.
 
 **Day 4 budget:** 1,500–2,500 THB ($43–71) plus flight.
 
@@ -102,7 +102,7 @@ Chiang Mai has over 300 temples within its city limits, but you don't need to se
 
 In the afternoon, book a [Thai cooking class](https://go2-thailand.com/blog/thai-cooking-classes-chiang-mai/) — they typically include a market tour where you learn to select fresh ingredients, followed by 3–4 hours of hands-on cooking. Prices range from 800–1,500 THB ($23–43). You'll learn dishes like [pad thai](https://go2-thailand.com/food/pad-thai/), [green curry](https://go2-thailand.com/blog/thai-curry-guide-green-red-yellow-massaman-panang/), and [tom yum](https://go2-thailand.com/blog/tom-yum-goong-guide/).
 
-In the evening, explore the Night Bazaar on Chang Klan Road — a permanent covered market with handicrafts, clothing, and food stalls. If you're here on a Sunday, the Walking Street market along Ratchadamnoen Road is even better.
+In the evening, explore the [Night Bazaar](https://go2-thailand.com/city/chiang-mai/attractions/night-bazaar/) on Chang Klan Road — a permanent covered market with handicrafts, clothing, and food stalls. If you're here on a Sunday, the Walking Street market along Ratchadamnoen Road is even better.
 
 **Day 5 budget:** 1,200–2,000 THB ($34–57).
 
@@ -110,9 +110,9 @@ In the evening, explore the Night Bazaar on Chang Klan Road — a permanent cove
 
 Use this day for an excursion outside the city. The best options:
 
-- **Doi Inthanon National Park:** Thailand's highest peak (2,565 meters). A full-day tour costs 1,500–2,500 THB and includes twin pagodas, waterfalls, and Karen hill tribe villages.
-- **Ethical elephant sanctuary:** Visit a reputable rescue center where elephants roam freely — no riding, no chains. Half-day visits cost 1,500–2,500 THB ($43–71). Always choose sanctuaries accredited by recognized wildlife organizations.
-- **White Temple (Wat Rong Khun):** If you want a taste of Chiang Rai without a full trip, this surreal temple is about 3 hours from Chiang Mai by car.
+- **[Doi Inthanon National Park](https://go2-thailand.com/city/chiang-mai/attractions/doi-inthanon/):** Thailand's highest peak (2,565 meters). A full-day tour costs 1,500–2,500 THB and includes twin pagodas, waterfalls, and Karen hill tribe villages. Read our [Chiang Dao retreat guide](https://go2-thailand.com/blog/chiang-dao-stargazing-eco-lodges-mountain-retreat-2026/) for northern highland alternatives.
+- **Ethical elephant sanctuary:** Visit a reputable rescue center where elephants roam freely — no riding, no chains. Half-day visits cost 1,500–2,500 THB ($43–71). Check our [ethical elephant sanctuaries guide](https://go2-thailand.com/blog/ethical-elephant-sanctuaries-thailand-2026-guide/) to choose a well-accredited center.
+- **White Temple (Wat Rong Khun):** If you want a taste of [Chiang Rai](https://go2-thailand.com/city/chiang-rai/) without a full trip, this surreal temple is about 3 hours from Chiang Mai by car.
 
 **Day 6 budget:** 1,500–3,000 THB ($43–86) depending on the excursion.
 
@@ -120,11 +120,11 @@ Use this day for an excursion outside the city. The best options:
 
 ## Day 7: Fly South to Krabi
 
-Catch a morning flight from Chiang Mai to Krabi. Direct flights are available on some airlines; otherwise, a quick connection through Bangkok adds about an hour. Fares range from $40–70 one way.
+Catch a morning flight from [Chiang Mai to Krabi](https://go2-thailand.com/transport/chiang-mai-to-krabi/). Direct flights are available on some airlines; otherwise, a quick connection through Bangkok adds about an hour. Fares range from $40–70 one way.
 
-Krabi is the ideal southern base because it offers easy access to Railay Beach, the Phi Phi Islands, and the Four Islands without the overdevelopment of Phuket. From Krabi airport, a shared shuttle to Ao Nang costs about 150 THB ($4.30).
+[Krabi](https://go2-thailand.com/city/krabi/) is the ideal southern base because it offers easy access to Railay Beach, the Phi Phi Islands, and the Four Islands without the overdevelopment of Phuket. Our [Krabi travel guide](https://go2-thailand.com/blog/krabi-travel-guide/) covers everything from beaches to rock climbing. From Krabi airport, a shared shuttle to Ao Nang costs about 150 THB ($4.30).
 
-Spend the afternoon at Ao Nang beach, then take the short longtail boat ride (100 THB) to Railay Beach — a stunning peninsula only accessible by boat, flanked by vertical limestone cliffs. Rock climbers come from around the world for these walls.
+Spend the afternoon at [Ao Nang beach](https://go2-thailand.com/city/krabi/attractions/ao-nang-beach/), then take the short longtail boat ride (100 THB) to [Railay Beach](https://go2-thailand.com/city/krabi/attractions/railay-beach/) — a stunning peninsula only accessible by boat, flanked by vertical limestone cliffs. Rock climbers come from around the world for these walls.
 
 **Day 7 budget:** 1,000–1,800 THB ($29–51) plus flight.
 
@@ -134,7 +134,7 @@ Spend the afternoon at Ao Nang beach, then take the short longtail boat ride (10
 
 ### Day 8: Phi Phi Islands Day Trip
 
-The [Phi Phi Islands](https://go2-thailand.com/islands/) are a must-see, even if the main island has become touristy. Book a speedboat day trip from Ao Nang or Railay — prices range from 1,500–2,500 THB ($43–71) including lunch, snorkeling gear, and stops at Maya Bay, Monkey Beach, and Pileh Lagoon.
+The [Phi Phi Islands](https://go2-thailand.com/blog/phi-phi-islands-guide-beyond-tourist-crowds/) are a must-see, even if the main island has become touristy. Book a speedboat day trip from Ao Nang or Railay — prices range from 1,500–2,500 THB ($43–71) including lunch, snorkeling gear, and stops at Maya Bay, Monkey Beach, and Pileh Lagoon.
 
 Maya Bay (where "The Beach" was filmed) reopened with a visitor cap to protect the recovering coral reef. Expect clear turquoise water and dramatic limestone scenery that looks almost unreal.
 
@@ -147,7 +147,7 @@ You have two good options:
 - **Four Islands Tour:** Visit Koh Tub, Chicken Island, Koh Poda, and Phra Nang Cave Beach. Longtail boat tours cost 800–1,200 THB ($23–34). The sandbar connecting Tub and Chicken Island at low tide is a highlight.
 - **Rest day at Railay:** If you've been moving fast for eight days straight, spend a morning on the beach, get a [Thai massage](https://go2-thailand.com/blog/thai-massage-guide-types-prices/) (300–500 THB for an hour), and kayak through the mangroves in the afternoon.
 
-For those who want more island time, consider a night or two on [Koh Lanta](https://go2-thailand.com/islands/) — it's quieter, less developed, and only a 2-hour ferry from Ao Nang. Our [island hopping guide](https://go2-thailand.com/blog/thailand-island-hopping-guide/) covers the best routes.
+For those who want more island time, consider a night or two on [Koh Lanta](https://go2-thailand.com/blog/koh-lipe-maldives-of-thailand-travel-guide-2026/) — it's quieter, less developed, and only a 2-hour ferry from Ao Nang. Our [island hopping guide](https://go2-thailand.com/blog/thailand-island-hopping-guide/) covers the best routes.
 
 **Day 9 budget:** 1,000–2,500 THB ($29–71).
 
@@ -157,7 +157,7 @@ For those who want more island time, consider a night or two on [Koh Lanta](http
 
 Fly back to Bangkok from Krabi (flights from $30–50, about 1.5 hours). If your international flight departs in the evening, you have time for last-minute shopping at MBK Center or Terminal 21, or a final bowl of boat noodles at Victory Monument.
 
-If you have a morning departure, fly back to Bangkok the night before and stay near the airport. Hotels near Suvarnabhumi start at 600 THB ($17) per night.
+If you have a morning departure, fly back to Bangkok the night before and stay near the airport. Hotels near Suvarnabhumi start at 600 THB ($17) per night. Check our [Bangkok hotel guide](https://go2-thailand.com/best-hotels/bangkok/) for airport-area options.
 
 **Day 10 budget:** 500–1,000 THB ($14–29) plus flight.
 
@@ -188,13 +188,13 @@ These figures don't include international flights. For a detailed daily cost bre
 | Krabi → Bangkok | Flight | $30–50 | 1h 30m |
 | Ao Nang → Railay Beach | Longtail boat | 100–200 THB ($2.85–5.70) | 15m |
 
-Book domestic flights on [12Go Asia](https://12go.tpo.lv/tNA80urD) or directly through airline websites. Booking 3–4 weeks in advance typically saves 30–40% compared to last-minute prices.
+Book domestic flights on [12Go Asia](https://12go.tpo.lv/tNA80urD) or directly through airline websites. Booking 3–4 weeks in advance typically saves 30–40% compared to last-minute prices. For the Bangkok–Chiang Mai overnight option, see our [sleeper train guide](https://go2-thailand.com/blog/bangkok-chiang-mai-sleeper-train-guide-2026/).
 
 ---
 
 ## Accommodation Tips
 
-- **Bangkok:** Stay in Sukhumvit (near BTS Skytrain) for easy access to everything. Budget hostels from 300 THB/night, mid-range hotels 1,500–2,500 THB/night.
+- **Bangkok:** Stay in Sukhumvit (near [BTS Skytrain](https://go2-thailand.com/blog/bangkok-public-transport-bts-mrt-tourist-guide-2026/)) for easy access to everything. Budget hostels from 300 THB/night, mid-range hotels 1,500–2,500 THB/night.
 - **Chiang Mai:** The Old City puts you within walking distance of temples and restaurants. Guesthouses start at 400 THB/night.
 - **Krabi/Ao Nang:** Ao Nang has the widest range of accommodation. Railay Beach is more expensive but worth one night for the sunrise.
 
@@ -210,7 +210,7 @@ The [best time to visit Thailand](https://go2-thailand.com/blog/best-time-to-vis
 
 ## Essential Tips
 
-1. **Fill out the Thailand Digital Arrival Card (TDAC)** online before you arrive — it's free and saves time at immigration.
+1. **Fill out the [Thailand Digital Arrival Card (TDAC)](https://go2-thailand.com/blog/thailand-digital-arrival-card-tdac-guide/)** online before you arrive — it's free and saves time at immigration.
 2. **Carry cash.** Street food stalls, tuk-tuks, and small shops rarely accept cards. ATMs charge 220 THB ($6.30) per withdrawal — withdraw larger amounts less often.
 3. **Dress respectfully at temples.** Cover your shoulders and knees. Many temples provide wraps, but bringing your own saves time.
 4. **Don't ride elephants.** Visit ethical sanctuaries instead. Our [Thailand travel mistakes guide](https://go2-thailand.com/blog/10-biggest-thailand-travel-mistakes/) covers this and other common pitfalls.
@@ -222,7 +222,7 @@ The [best time to visit Thailand](https://go2-thailand.com/blog/best-time-to-vis
 
 ### Is 10 days enough for Thailand?
 
-Yes. Ten days is widely considered the ideal length for a first trip to Thailand. You can comfortably cover Bangkok, Chiang Mai, and one southern beach destination without rushing. For more on trip length planning, see our guide on [how long to spend in Thailand](https://go2-thailand.com/blog/how-long-spend-thailand/).
+Yes. Ten days is widely considered the ideal length for a first trip to Thailand. You can comfortably cover Bangkok, Chiang Mai, and one southern beach destination without rushing. For more on trip length planning, see our guide on [how long to spend in Thailand](https://go2-thailand.com/blog/how-long-spend-thailand/). If you want more flexibility, check the [2-week Thailand itinerary](https://go2-thailand.com/blog/thailand-itinerary-2-weeks/) or the [ultimate Thailand itinerary](https://go2-thailand.com/blog/ultimate-thailand-itinerary-2026/).
 
 ### Should I visit Phuket or Krabi?
 
@@ -230,7 +230,7 @@ For a 10-day itinerary, we recommend Krabi. It offers easier access to Railay Be
 
 ### Can I do this itinerary by train and bus instead of flying?
 
-You can, but it eats into your time significantly. The overnight train from Bangkok to Chiang Mai (12–14 hours) is a great experience, but you'd need to adjust the itinerary to account for travel days. The southern leg is harder without flying — bus from Chiang Mai to Krabi takes 18+ hours.
+You can, but it eats into your time significantly. The [overnight train from Bangkok to Chiang Mai](https://go2-thailand.com/blog/bangkok-chiang-mai-sleeper-train-guide-2026/) (12–14 hours) is a great experience, but you'd need to adjust the itinerary to account for travel days. The southern leg is harder without flying — bus from Chiang Mai to Krabi takes 18+ hours.
 
 ### What should I book in advance?
 
