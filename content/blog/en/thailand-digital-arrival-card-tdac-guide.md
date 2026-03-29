@@ -10,7 +10,7 @@ image: "/images/blog/thailand-digital-arrival-card-tdac-guide.webp"
 description: "Complete guide to Thailand's Digital Arrival Card (TDAC). Step-by-step instructions, fees, common mistakes, and everything you need before arrival."
 featured: false
 readingTime: 9
-lastUpdated: "2026-02-20"
+lastUpdated: "2026-03-29"
 sources:
   - name: "Tourism Authority of Thailand"
     url: "https://www.tourismthailand.org/Articles/tdac"
@@ -23,7 +23,7 @@ sources:
 ---
 # Thailand Digital Arrival Card (TDAC): Complete Step-by-Step Guide 2026
 
-Starting May 1, 2025, all non-Thai nationals entering Thailand by air, land, or sea must complete the **Thailand Digital Arrival Card (TDAC)** online before arrival. This mandatory digital system has replaced the traditional paper TM.6 form, making immigration processing faster and more streamlined than ever before. Whether you're a first-time visitor or a seasoned traveler, understanding how to complete your TDAC correctly is essential to avoiding delays at immigration.
+Starting May 1, 2025, all non-Thai nationals entering Thailand by air, land, or sea must complete the **Thailand Digital Arrival Card (TDAC)** online before arrival. This mandatory digital system has replaced the traditional paper TM.6 form, making immigration processing faster and more streamlined than ever before. Whether you're a [first-time visitor](/blog/thailand-first-time-visitors-essential-guide-2026/) or a seasoned traveler, understanding how to complete your TDAC correctly is essential to avoiding delays at immigration.
 
 ## Key Takeaways
 
@@ -43,16 +43,16 @@ Starting May 1, 2025, all non-Thai nationals entering Thailand by air, land, or 
 
 The **Thailand Digital Arrival Card** is a mandatory online immigration form that all foreign nationals must complete before entering Thailand. It replaces the traditional paper TM.6 arrival card that travelers previously filled out on planes or at immigration counters. The TDAC system is designed to streamline border processing, reduce paperwork, and enhance security by collecting passenger information digitally in advance.
 
-When we first heard about this change during our time living in [Bangkok](https://go2-thailand.com/city/bangkok/), many long-term residents were skeptical. However, the system has proven efficient—immigration officers can now process arrivals faster, and the digital record helps authorities maintain better track of who's entering the country. The system applies to all entry points: airports, land borders, and seaports throughout Thailand.
+When we first heard about this change during our time living in [Bangkok](/city/bangkok/), many long-term residents were skeptical. However, the system has proven efficient—immigration officers can now process arrivals faster, and the digital record helps authorities maintain better track of who's entering the country. The system applies to all entry points: airports, land borders, and seaports throughout Thailand.
 
 ### Who Must Complete the TDAC?
 
 All non-Thai nationals entering Thailand by any means of transport must complete the TDAC. This includes:
 
-- **Tourists** on visa-free entry or tourist visas
+- **Tourists** on [visa-free entry](/visa/visa-free-entry/) or tourist visas
 - **Digital nomads** and long-term visitors
 - **Business travelers** on business visas
-- **Expats** on work permits or retirement visas
+- **Expats** on work permits or [retirement visas](/visa/retirement-visa/)
 - **Children** traveling with parents (parents complete on behalf of minors)
 
 Thai nationals and ASEAN citizens with special agreements may have different requirements—check the official [Thailand Immigration Bureau](https://tdac.immigration.go.th/arrival-card/#/home) website for your specific nationality.
@@ -146,7 +146,7 @@ Enter information about your upcoming trip:
 - **Flight/transport number** (if applicable)
 - **Airline or transport operator name**
 
-If you're arriving by land or sea, you may need to specify the border crossing or port name instead of a flight number.
+If you're arriving by land or sea, you may need to specify the border crossing or port name instead of a flight number. Planning your journey? Check [Bangkok's public transport guide](/blog/bangkok-public-transport-bts-mrt-tourist-guide-2026/) for getting around after arrival.
 
 ### Step 5: Enter Your Thailand Accommodation Address
 
@@ -203,10 +203,10 @@ While the TDAC itself is free, related travel costs include:
 
 - **International flights** to Thailand (varies by origin)
 - **Accommodation** in Thailand (budget hostels from 300-500 THB/night; mid-range hotels 1,500-3,000 THB/night)
-- **Travel insurance** (optional but recommended)
+- **[Travel insurance](/blog/travel-insurance-thailand-guide/)** (optional but recommended)
 - **Visa fees** (if required for your nationality)
 
-The TDAC is not a visa—it's simply an arrival notification system. Depending on your nationality and length of stay, you may still need a separate [Thailand visa](https://go2-thailand.com/visa/) or qualify for visa-free entry.
+The TDAC is not a visa—it's simply an arrival notification system. Depending on your nationality and length of stay, you may still need a separate [Thailand visa](/visa/) or qualify for [visa-free entry](/visa/visa-free-entry/). See also our full [Thailand visa guide 2026](/blog/thailand-visa-guide-2026/) for detailed requirements per nationality.
 
 <div data-widget="trip" style="margin:32px 0;"><div data-widget-fallback style="background:#F0F9FF;border-left:4px solid #0EA5E9;border-radius:12px;padding:20px 24px;margin:32px 0;box-shadow:0 1px 3px rgba(0,0,0,0.1);">
   <div style="display:flex;align-items:flex-start;gap:16px;">
@@ -237,7 +237,7 @@ For travelers who've visited Thailand before May 2025, the TDAC replaces the pap
 | **Time at immigration** | 5-15 minutes | 1-3 minutes |
 | **Error correction** | Difficult after submission | Can be corrected before arrival |
 
-The digital system is significantly faster and more convenient. During our time navigating [Bangkok's](https://go2-thailand.com/city/bangkok/) immigration queues, we've seen processing times drop dramatically since TDAC implementation.
+The digital system is significantly faster and more convenient. During our time navigating [Bangkok's](/city/bangkok/) immigration queues, we've seen processing times drop dramatically since TDAC implementation.
 
 ---
 
@@ -328,7 +328,7 @@ Email the Thailand Immigration Bureau through the official website if you're hav
 
 If all else fails, arrive early at immigration and explain the situation. Have your passport ready and be prepared to provide the details you submitted (arrival date, flight number, accommodation address). Immigration officers can look up your submission in the system.
 
-**Budget Option**: Don't pay third-party "recovery" services claiming they can retrieve your TDAC for a fee. The immigration system is free to access.
+**Budget Option**: Don't pay third-party "recovery" services claiming they can retrieve your TDAC for a fee. The immigration system is free to access. For a broader rundown of scams targeting tourists, see our [Thailand travel scams guide](/blog/thailand-travel-scams-2026/).
 
 ---
 
@@ -346,15 +346,15 @@ If you've obtained a Tourist Visa from a Thai embassy before arrival, you still 
 
 ### Digital Nomad Visa (DTV)
 
-Long-term visitors on the [Digital Nomad Visa](https://go2-thailand.com/visa/digital-nomad-visa/) must also complete the TDAC upon each entry or re-entry into Thailand.
+Long-term visitors on the [Digital Nomad Visa](/visa/digital-nomad-visa/) must also complete the TDAC upon each entry or re-entry into Thailand. Read our guide on [living as a digital nomad in Thailand](/blog/digital-nomad-thailand-2026-dtv-visa-costs-cities/) for more.
 
 ### Retirement Visa
 
-Retirees on the [Retirement Visa](https://go2-thailand.com/visa/retirement-visa/) must complete the TDAC when initially entering Thailand and potentially on re-entries depending on their specific visa conditions.
+Retirees on the [Retirement Visa](/visa/retirement-visa/) must complete the TDAC when initially entering Thailand and potentially on re-entries depending on their specific visa conditions.
 
 ### Education and Work Visas
 
-Students on [Education Visas](https://go2-thailand.com/visa/education-visa/) and workers on employment visas must complete the TDAC upon initial entry.
+Students on [Education Visas](/visa/education-visa/) and workers on employment visas must complete the TDAC upon initial entry.
 
 > **Did You Know?** According to the Immigration Act B.E. 2522, all foreign nationals staying in Thailand longer than 90 days must notify the nearest Immigration Officer of their place of residence. The TDAC system helps immigration track this requirement more efficiently.
 >
@@ -488,7 +488,7 @@ If you're staying in the airport and not clearing immigration, you don't need a 
 
 ### Can I use the TDAC for land border crossings?
 
-Yes, the TDAC is required for all entry points including land borders (e.g., [Bangkok to Chiang Mai](https://go2-thailand.com/transport/bangkok-to-chiang-mai/) overland routes) and seaports. The process is the same regardless of how you enter Thailand.
+Yes, the TDAC is required for all entry points including land borders (e.g., [Bangkok to Chiang Mai](/transport/bangkok-to-chiang-mai/) overland routes) and seaports. The process is the same regardless of how you enter Thailand.
 
 ### What if I don't have an accommodation address yet?
 
@@ -512,8 +512,10 @@ While some travel agencies or hotels may offer to submit it for you, it's safest
 
 The **Thailand Digital Arrival Card** is a straightforward requirement that makes entering Thailand faster and more efficient than ever before. By submitting your TDAC 5-7 days before arrival, you'll breeze through immigration in minutes rather than waiting in long queues.
 
-Remember the key points: submit early, use the official government website at https://tdac.immigration.go.th, ensure your information matches your passport exactly, and save your confirmation QR code. Whether you're heading to [Bangkok](https://go2-thailand.com/city/bangkok/) for city exploration, [Chiang Mai](https://go2-thailand.com/city/chiang-mai/) for cultural experiences, or the [southern islands](https://go2-thailand.com/islands/) for beach relaxation, your TDAC is your first step into Thailand.
+Remember the key points: submit early, use the official government website at https://tdac.immigration.go.th, ensure your information matches your passport exactly, and save your confirmation QR code. Whether you're heading to [Bangkok](/city/bangkok/) for city exploration, [Chiang Mai](/city/chiang-mai/) for cultural experiences, or the [southern islands](/islands/) for beach relaxation, your TDAC is your first step into Thailand.
 
-For more information about visas, entry requirements, and travel planning, visit our comprehensive [Thailand visa guide](https://go2-thailand.com/visa/). Safe travels!
+For more information about visas, entry requirements, and travel planning, visit our comprehensive [Thailand visa guide](/visa/). You may also want to read about the [Thailand eVisa overhaul 2026](/blog/thailand-evisa-overhaul-2026-simplified-categories/) and [whether the 60-day visa-free stay is being cut](/blog/thailand-visa-free-stay-cut-60-to-30-days-2026/). Safe travels!
+
+Once you're in, Thailand's domestic travel scene is thriving — TAT is [pushing hard to get visitors beyond Bangkok](/blog/thailand-domestic-tourism-push-tat-festival-2026/) with subsidies and travel packages in 2026.
 
 **Trust Statement**: The Go2Thailand team has lived and traveled throughout Thailand for over a decade. This guide is based on official government sources, firsthand experience navigating Thai immigration, and current 2026 entry requirements. We update this information regularly to reflect any changes from the Thai Immigration Bureau.
