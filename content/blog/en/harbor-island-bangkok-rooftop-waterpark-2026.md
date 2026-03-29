@@ -10,7 +10,7 @@ image: "/images/blog/thailand-news-default.webp"
 description: "Harbor Island is Southeast Asia's largest rooftop waterpark — 10,000 square meters of slides, a lazy river, and a 100-meter zipline on top of a Bangkok shopping mall."
 featured: false
 readingTime: 3
-lastUpdated: "2026-03-22"
+lastUpdated: "2026-03-29"
 sources:
   - name: "The Smart Local — Massive New Rooftop Waterpark in Bangkok"
     url: "https://thesmartlocal.com/read/harborland-waterpark-bangkok/"
@@ -24,11 +24,11 @@ sources:
 
 ## A Waterpark on Top of a Shopping Mall
 
-Bangkok has never been short on ways to beat the heat, but Harbor Island takes things to a new level — literally. Spanning 10,000 square meters on the rooftop of The Mall Lifestore in Bangkapi, it holds the record for the largest rooftop waterpark in Southeast Asia. The park opened in early 2025 and has quickly become one of the city's most popular family attractions.
+Bangkok has never been short on ways to beat the heat, but Harbor Island takes things to a new level — literally. Spanning 10,000 square meters on the rooftop of The Mall Lifestore in Bangkapi, it holds the record for the largest rooftop waterpark in Southeast Asia. The park opened in early 2025 and has quickly become one of the city's most popular family attractions. If you are planning a family trip to Bangkok, see our [Thailand with kids guide](/blog/thailand-with-kids-family-travel-guide/) and [best day trips from Bangkok](/blog/best-day-trips-from-bangkok/) for more ideas.
 
 ## What Is Inside
 
-Harbor Island is divided into seven themed zones, each designed for different ages and thrill levels. All zones are included in a single ticket — there are no extra charges for tubes, lockers, or towels.
+Harbor Island is divided into seven themed zones, each designed for different ages and thrill levels. All zones are included in a single ticket — there are no extra charges for tubes, lockers, or towels. It is one of several [new attractions opening in Bangkok in 2026](/blog/bangkok-spectacular-2026-awc-thainosaur-museum-chao-phraya/), alongside the [Thainosaur Museum](/blog/thainosaur-museum-bangkok-dinosaur-attraction-2026/) and the [Skyflyers swing ride at Asiatique](/blog/skyflyers-garudapterus-asiatique-bangkok-tallest-swing-ride-2026/).
 
 ### Sky Rider
 
@@ -56,8 +56,10 @@ All zones, lockers, towels, and tubes are included in the ticket price.
 
 ## How to Get There
 
-Harbor Island sits on the 3rd floor of The Mall Lifestore, Bangkapi. The easiest way to get there is via the **MRT Yellow Line** to **Bang Kapi Station** — the mall is directly connected. From central Bangkok, the journey takes about 30 minutes by train.
+Harbor Island sits on the 3rd floor of The Mall Lifestore, Bangkapi. The easiest way to get there is via the **MRT Yellow Line** to **Bang Kapi Station** — the mall is directly connected. From central Bangkok, the journey takes about 30 minutes by train. Our [Bangkok public transport guide](/blog/bangkok-public-transport-bts-mrt-tourist-guide-2026/) covers all BTS, MRT, and monorail lines in detail, including the [Yellow and Pink Line monorail routes](/blog/bangkok-yellow-pink-line-monorail-tourist-guide-2026/).
 
 ## Is It Worth a Visit?
 
-If you are traveling with kids, Harbor Island is a strong half-day or full-day option that does not require leaving Bangkok. Even without children, the Sky Rider zipline and the bigger slides offer genuine thrills. And when you are done, you are already inside a full shopping mall with restaurants and air-conditioned retail therapy waiting downstairs.
+If you are traveling with kids, Harbor Island is a strong half-day or full-day option that does not require leaving Bangkok. Even without children, the Sky Rider zipline and the bigger slides offer genuine thrills. And when you are done, you are already inside a full shopping mall with restaurants and air-conditioned retail therapy waiting downstairs — similar to the shopping experience at [One Bangkok](/blog/one-bangkok-shopping-mall-tourist-guide-2026/), Bangkok's newest mega-development.
+
+For more Bangkok activities, check out our guides to the [Bangkok Art Biennale 2026](/blog/bangkok-art-biennale-2026-angels-mara-guide/), [best night markets in Bangkok](/blog/best-night-markets-bangkok-2026/), and [Bangkok's new rooftop bars](/blog/bangkok-new-rooftop-bars-2026-sato-san-sanctuary-iris/). If you are also thinking about accommodation, browse our [best hotels in Bangkok](/best-hotels/bangkok/) or read our [Bangkok neighborhood guide](/blog/where-to-stay-bangkok-neighborhood-guide/) to find the right area to stay. Planning your full trip? Our [Thailand itinerary for first-timers](/blog/thailand-itinerary-first-timers/) and [how much 2 weeks in Thailand costs](/blog/how-much-2-weeks-thailand-cost-2026-budget/) are good starting points.
