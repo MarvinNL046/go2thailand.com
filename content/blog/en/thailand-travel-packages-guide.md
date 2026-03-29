@@ -158,7 +158,7 @@ Independent travel is almost always cheaper — typically 20–40% less than a c
 
 ### What's the best time to book Thailand packages?
 
-Book 3–4 months before your trip for the best prices. For peak season travel (November–February), book even earlier — 5–6 months ahead. Last-minute deals exist but are unreliable, especially during high season.
+Book 3–4 months before your trip for the best prices. For peak season travel (November–February), book even earlier — 5–6 months ahead. Last-minute deals exist but are unreliable, especially during high season. Note that [Songkran 2026](/blog/songkran-festival-2026-guide/) in April is a peak period — book well in advance or look for dedicated [Songkran discount flights](/blog/songkran-2026-airlines-discount-flights/).
 
 ### Can I customize a Thailand travel package?
 
@@ -166,7 +166,7 @@ Many operators offer customizable or private packages where you choose destinati
 
 ### Are Thailand packages safe for solo female travelers?
 
-Yes. Group packages are actually one of the safest ways for [solo female travelers](https://go2-thailand.com/blog/solo-female-travel-thailand-safety-tips/) to visit Thailand. You're with a group, have a guide, and logistics are handled. That said, Thailand is also very safe for independent solo travel.
+Yes. Group packages are actually one of the safest ways for [solo female travelers](https://go2-thailand.com/blog/solo-female-travel-thailand-safety-tips/) to visit Thailand. You're with a group, have a guide, and logistics are handled. That said, Thailand is also very safe for independent solo travel. Read our [Thailand solo travel boom guide](/blog/thailand-solo-travel-boom-2026-tips-destinations/) for more on traveling alone.
 
 ### Do packages include visa costs?
 
@@ -174,7 +174,7 @@ Almost never. Most Western nationalities get 30–60 days visa-free entry to Tha
 
 ## The Bottom Line
 
-Thailand travel packages are worth it **if** convenience matters more than cost to you. For first-timers with limited time, group travelers, and honeymoon couples, packages deliver a smooth, well-organized experience that's hard to replicate on your own without significant planning effort.
+Thailand travel packages are worth it **if** convenience matters more than cost to you. For first-timers with limited time, group travelers, and honeymoon couples, packages deliver a smooth, well-organized experience that's hard to replicate on your own without significant planning effort. Check what's happening at the [Thailand Travel Fair 2026](/blog/thailand-travel-fair-2026-qsncc-bangkok/) at QSNCC Bangkok — it's a great place to compare packages and find deals in person.
 
 But if you're a confident traveler, on a budget, or staying longer than 10 days, independent travel gives you more freedom, more authentic experiences, and costs significantly less. Thailand is one of the easiest countries in the world to navigate independently — the infrastructure is excellent, locals are welcoming, and you can build your own perfect trip with our [7-day](https://go2-thailand.com/blog/thailand-7-days-itineraries/) or [14-day itineraries](https://go2-thailand.com/blog/thailand-itinerary-2-weeks/).
 

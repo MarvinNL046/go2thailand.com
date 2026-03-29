@@ -10,7 +10,7 @@ image: "/images/blog/thai-curry-guide-green-red-yellow-massaman-panang.webp"
 description: "Master Thai curries: Learn the differences between green, red, yellow, Massaman & Panang. Regional variations, where to find the best, and how to order like a local."
 featured: false
 readingTime: 9
-lastUpdated: "2026-03-08"
+lastUpdated: "2026-03-29"
 sources:
   - name: "Thai Curry - Wikipedia"
     url: "https://en.wikipedia.org/wiki/Thai_curry"
@@ -37,7 +37,7 @@ If you've ever sat in a humid Bangkok alley at dusk, a steaming bowl of **Thai c
 
 ## 1. Understanding Thai Curry: The Foundation
 
-**Thai curry** isn't a single dish—it's a cooking philosophy that dates back centuries, blending Indian spice trade influences with Southeast Asian ingredients and techniques. Each curry type represents a distinct balance of heat, creaminess, and flavor complexity, and understanding the differences transforms how you [experience](https://getyourguide.tpo.lv/GuAFfGGK) Thai food.
+**Thai curry** isn't a single dish—it's a cooking philosophy that dates back centuries, blending Indian spice trade influences with Southeast Asian ingredients and techniques. Each curry type represents a distinct balance of heat, creaminess, and flavor complexity, and understanding the differences transforms how you [experience](https://getyourguide.tpo.lv/GuAFfGGK) Thai food. The [history of Thai cuisine](/blog/history-of-thai-cuisine/) traces how spice trade routes from India, Persia, and China shaped what ended up in the curry pot.
 
 When we first arrived in Thailand, we made the rookie mistake of ordering "curry" without specifying which one. The result? A fiery green curry that left us gasping for coconut milk. That experience taught us that **Thai curry classifications** are deeply rooted in regional preferences, ingredient availability, and the color of the curry paste itself—not arbitrary marketing.
 
@@ -260,11 +260,11 @@ The best Thai curries aren't always in restaurants—they're in markets, family-
 
 ### Bangkok's Curry Scene
 
-[Bangkok](https://go2-thailand.com/city/bangkok/) has curry options ranging from street-level simplicity to Michelin-starred complexity. The markets—particularly Chatuchak Weekend Market and the various neighborhood markets—have stalls serving curry over rice for 40–80 THB ($1.10–$2.20 USD). These are often the best value and most authentic. For sit-down dining, mid-range restaurants in neighborhoods like Ari, Thonglor, and Silom serve excellent curries at 150–250 THB ($4–$7 USD).
+[Bangkok](https://go2-thailand.com/city/bangkok/) has curry options ranging from street-level simplicity to Michelin-starred complexity. The markets—particularly [Chatuchak Weekend Market](/blog/chatuchak-market-bangkok-guide/) and the various neighborhood markets—have stalls serving curry over rice for 40–80 THB ($1.10–$2.20 USD). These are often the best value and most authentic. For sit-down dining, mid-range restaurants in neighborhoods like Ari, Thonglor, and Silom serve excellent curries at 150–250 THB ($4–$7 USD). Our [Bangkok night markets guide](/blog/best-night-markets-bangkok-2026/) covers the best evening food spots.
 
 ### Chiang Mai's Northern Traditions
 
-[Chiang Mai](https://go2-thailand.com/city/chiang-mai/) has its own curry traditions influenced by Burmese and Lao cuisine. The night bazaar area has numerous curry stalls, and the old city's temple neighborhoods have family-run restaurants serving curries that have been made the same way for generations. Prices are slightly lower than Bangkok—expect 50–100 THB ($1.40–$2.80 USD) for street food, 120–200 THB ($3.40–$5.60 USD) for restaurants.
+[Chiang Mai](https://go2-thailand.com/city/chiang-mai/) has its own curry traditions influenced by Burmese and Lao cuisine. The night bazaar area has numerous curry stalls, and the old city's temple neighborhoods have family-run restaurants serving curries that have been made the same way for generations. Prices are slightly lower than Bangkok—expect 50–100 THB ($1.40–$2.80 USD) for street food, 120–200 THB ($3.40–$5.60 USD) for restaurants. The city's signature curry is khao soi—read the [khao soi Chiang Mai guide](/blog/khao-soi-chiang-mai-guide/) for the 7 best restaurants.
 
 ### Southern Island Curries
 
@@ -318,7 +318,7 @@ Ordering curry in Thailand is an art form. Thais customize their curries based o
 </div>
 
 
-This is crucial: **always specify your spice level**. If you're unsure about your tolerance, our guide on [how spicy Thai food really is](/blog/is-thai-food-spicy-guide) explains what to expect at each level. Thais eat curries significantly spicier than most Western visitors can handle. When you order, say:
+This is crucial: **always specify your spice level**. If you're unsure about your tolerance, our guide on [how spicy Thai food really is](/blog/is-thai-food-spicy-guide/) explains what to expect at each level. Thais eat curries significantly spicier than most Western visitors can handle. When you order, say:
 
 - "Pet nit noi" (เผ็ดนิดหน่อย) = A little spicy
 - "Pet nit noi nit noi" (เผ็ดนิดหน่อยนิดหน่อย) = Very mild
@@ -344,7 +344,7 @@ Curries are almost always served with jasmine rice (khao hom mali). You can requ
 - **Khao kratiem** = Garlic rice
 - **Khao pad** = Fried rice (though this is less traditional with curry)
 
-Sides like cucumber salad (ajad) or papaya salad (som tam) provide cooling contrast and are worth ordering.
+Sides like cucumber salad (ajad) or papaya salad ([som tam](/blog/som-tam-regional-variations-thailand/)) provide cooling contrast and are worth ordering. Our [som tam guide](/blog/som-tam-regional-variations-thailand/) covers all eight regional styles and how to order them properly.
 
 - **Local Ordering Tip:** Point at what other customers are eating — it's the most reliable way to communicate
 - **Price Negotiation:** At markets, prices are usually fixed, but at small restaurants, you can sometimes negotiate for multiple dishes
@@ -362,7 +362,7 @@ Quality curry pastes are available at Asian markets and increasingly at mainstre
 
 ### Making Curry Paste from Scratch
 
-Making curry paste requires a mortar and pestle (or food processor) and fresh ingredients: chilies, garlic, shallots, galangal, lemongrass, and shrimp paste. The process is labor-intensive but rewarding. Fresh paste tastes noticeably better than store-bought, with brighter, more complex flavors. If you're staying in Thailand for a while (or taking a [cooking class](https://go2-thailand.com/best-cooking-classes-in-thailand/)), learning to make paste is worthwhile.
+Making curry paste requires a mortar and pestle (or food processor) and fresh ingredients: chilies, garlic, shallots, galangal, lemongrass, and shrimp paste. The process is labor-intensive but rewarding. Fresh paste tastes noticeably better than store-bought, with brighter, more complex flavors. If you're staying in Thailand for a while (or taking a [cooking class in Chiang Mai](/blog/thai-cooking-classes-chiang-mai/)), learning to make paste is worthwhile. Our cooking class guide explains which schools teach paste-making as part of their curriculum.
 
 > **Did You Know?** Thai curry paste can last up to two weeks in the refrigerator and several months in the freezer. Many Thai home cooks make large batches and freeze portions for convenience.
 >
@@ -404,7 +404,7 @@ Yes, but it's better to specify beforehand. If your curry arrives too spicy, ask
 
 The key to mastering Thai curry is simple: ask questions, specify your preferences, and don't be afraid to try something new. Visit [Bangkok's](https://go2-thailand.com/city/bangkok/) markets, explore [Chiang Mai's](https://go2-thailand.com/city/chiang-mai/) night bazaar, or island-hop through the [southern islands](https://go2-thailand.com/islands/) tasting curries at every stop. Each region has its own curry traditions, and each cook has their own secrets.
 
-For more authentic Thai food experiences, explore our comprehensive [Thai food guide](https://go2-thailand.com/food/) and discover other essential dishes like [Pad Thai](https://go2-thailand.com/food/pad-thai/), [Tom Yum Goong](https://go2-thailand.com/food/tom-yum-goong/), and [Mango Sticky Rice](https://go2-thailand.com/food/mango-sticky-rice/). Ready to plan your curry adventure? Check out our [Thailand itineraries](https://go2-thailand.com/itineraries/) for food-focused trips.
+For more authentic Thai food experiences, explore our comprehensive [Thai food guide](https://go2-thailand.com/food/) and discover other essential dishes like [Pad Thai](/blog/pad-thai-street-food-vs-restaurant-homemade/), [Tom Yum Goong](/blog/tom-yum-goong-guide/), and [Mango Sticky Rice](/blog/mango-sticky-rice-season-thailand/). Ready to plan your curry adventure? Check out our [7-day Thailand itineraries](/blog/thailand-7-days-itineraries/) for food-focused trips with curry stops built in. The [Thai street food guide 2026](/blog/thai-street-food-guide-2026/) also ranks the best market curries by city.
 
 **Trust us:** after years of living and eating in Thailand, we can confidently say that understanding curries transforms your entire Thailand experience. You're not just eating—you're participating in a culinary tradition that spans centuries and connects you to the heart of Thai culture.
 

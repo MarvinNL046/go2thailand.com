@@ -48,10 +48,16 @@ Genuine tourists visiting Thailand once or twice a year with normal travel patte
 
 Thailand still welcomes long-term residents, but the government now insists your visa matches the nature of your stay. The main options for 2026 include:
 
-- **Destination Thailand Visa (DTV):** The go-to choice for digital nomads and remote workers. It offers 180 days per entry, is extendable once, and has a five-year validity with multiple entries. You need to show at least 500,000 baht in a personal bank account held for three months.
-- **Long-Term Resident (LTR) Visa:** Designed for wealthy individuals, retirees, and skilled professionals. Income thresholds have been relaxed in 2026, and administrative requirements have been simplified.
+- **Destination Thailand Visa (DTV):** The go-to choice for [digital nomads and remote workers in Thailand](/blog/digital-nomad-thailand-2026-dtv-visa-costs-cities/). It offers 180 days per entry, is extendable once, and has a five-year validity with multiple entries. You need to show at least 500,000 baht in a personal bank account held for three months. [Chiang Mai remains the most cost-effective base for DTV holders](/blog/chiang-mai-cheapest-digital-nomad-city-2026/), with living costs significantly lower than Bangkok.
+- **Long-Term Resident (LTR) Visa:** Designed for wealthy individuals, retirees, and skilled professionals. Income thresholds have been relaxed in 2026, and administrative requirements have been simplified. See the [full Thailand visa guide](/blog/thailand-visa-guide-2026/) for current LTR eligibility thresholds.
 - **Education Visa (ED):** Still available for Thai language courses and other approved programmes.
+
+Thailand also overhauled its entire [e-visa system in 2026, reducing 17 categories to just 7](/blog/thailand-evisa-overhaul-2026-simplified-categories/), which makes applying for a proper long-term visa online considerably simpler than before.
 
 ## The Bottom Line
 
 Thailand is not closing its doors, but it is closing the loophole. If you plan to stay long-term, invest in the right visa from the start. The days of indefinite stays on back-to-back tourist stamps are behind us.
+
+Before you travel, complete the [Thailand Digital Arrival Card (TDAC)](/blog/thailand-digital-arrival-card-tdac-guide/) online — it is now required ahead of all arrivals and speeds up the immigration queue considerably. Make sure you also have [travel insurance](/blog/travel-insurance-thailand-guide/) that covers your full intended stay, since being denied entry or needing to leave early can create costly complications. A [Thailand SIM card or eSIM](/blog/best-sim-card-esim-thailand-tourist-guide-2026/) sorted before arrival will help you stay connected if you need to contact immigration or check visa status on the go.
+
+For anyone still figuring out the true cost of living in Thailand on a proper visa, our [daily budget guide for 2026](/blog/thailand-budget-2026-daily-costs/) breaks down realistic costs for every spending level — and the [2-week Thailand cost breakdown](/blog/how-much-2-weeks-thailand-cost-2026-budget/) is a good benchmark for shorter trips between visa-required stays.

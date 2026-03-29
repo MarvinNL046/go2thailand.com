@@ -10,7 +10,7 @@ image: "/images/blog/is-thai-food-healthy.webp"
 description: "Is Thai food healthy? Many dishes are, but some are loaded with sugar and oil. Learn which Thai dishes are nutritious and which to eat in moderation."
 featured: false
 readingTime: 8
-lastUpdated: "2026-03-21"
+lastUpdated: "2026-03-29"
 sources:
   - name: "Healthline - Is Thai Food Healthy?"
     url: "https://www.healthline.com/nutrition/is-thai-food-healthy"
@@ -22,7 +22,7 @@ sources:
 
 ## Is Thai Food Healthy?
 
-**Thai food has a reputation for being healthy**, and much of that reputation is deserved. The cuisine relies on fresh vegetables, lean proteins, aromatic herbs, and bold spices rather than heavy creams or refined carbohydrates. But the full picture is more nuanced. Some Thai dishes are loaded with **sugar, coconut cream, sodium, and oil**, making them less healthy than they appear. This guide gives you the facts -- which dishes are genuinely nutritious, which ones to eat in moderation, and how to make smart choices when eating in Thailand. For a full overview of Thai cuisine, visit our [food section](/food/).
+**Thai food has a reputation for being healthy**, and much of that reputation is deserved. The cuisine relies on fresh vegetables, lean proteins, aromatic herbs, and bold spices rather than heavy creams or refined carbohydrates. But the full picture is more nuanced. Some Thai dishes are loaded with **sugar, coconut cream, sodium, and oil**, making them less healthy than they appear. This guide gives you the facts -- which dishes are genuinely nutritious, which ones to eat in moderation, and how to make smart choices when eating in Thailand. For a full overview of Thai cuisine, visit our [food section](/food/). To understand the cultural roots of these dishes, read the [history of Thai cuisine](/blog/history-of-thai-cuisine/).
 
 ### Key Takeaways
 
@@ -71,7 +71,7 @@ Used in yellow curries and some Southern Thai dishes, turmeric contains **curcum
 
 ### Chili Peppers
 
-Thai chilies contain **capsaicin**, which has been shown to **boost metabolism, reduce appetite, and provide pain relief**. Capsaicin also promotes the release of endorphins, which may partly explain why spicy food can be so satisfying. Read more about Thai spice levels in our [guide to Thai food spiciness](/blog/is-thai-food-spicy-guide/).
+Thai chilies contain **capsaicin**, which has been shown to **boost metabolism, reduce appetite, and provide pain relief**. Capsaicin also promotes the release of endorphins, which may partly explain why spicy food can be so satisfying. Read more about Thai spice levels in our [guide to Thai food spiciness](/blog/is-thai-food-spicy-guide/) and [what makes Thai food spicy](/blog/what-makes-thai-food-spicy/).
 
 ### Thai Basil, Cilantro, and Mint
 
@@ -87,11 +87,11 @@ If you want to eat well in Thailand, these dishes should be your go-to options:
 
 ### Som Tam (Green Papaya Salad) -- ~150-250 calories
 
-**Som Tam** is one of the healthiest Thai dishes you can order. It is made from shredded green papaya, tomatoes, green beans, peanuts, dried shrimp, lime juice, fish sauce, and chili. It is **low in calories, high in fibre, and rich in vitamins**. The raw papaya provides enzymes that aid digestion. Just be cautious with versions that add salted crab, as these are higher in sodium.
+**[Som Tam](/food/som-tam/)** is one of the healthiest Thai dishes you can order. It is made from shredded green papaya, tomatoes, green beans, peanuts, dried shrimp, lime juice, fish sauce, and chili. It is **low in calories, high in fibre, and rich in vitamins**. The raw papaya provides enzymes that aid digestion. Just be cautious with versions that add salted crab, as these are higher in sodium.
 
 ### Tom Yum Goong (Spicy Prawn Soup) -- ~80-100 calories per cup
 
-**Tom Yum** is a clear, broth-based soup loaded with lemongrass, galangal, kaffir lime leaves, mushrooms, and prawns. It is **extremely low in calories** while delivering a powerful hit of flavour and beneficial herbs. The absence of coconut milk keeps the fat content minimal. Studies have suggested the combination of herbs in Tom Yum has antioxidant properties greater than the individual ingredients alone.
+**[Tom Yum Goong](/food/tom-yum-goong/)** is a clear, broth-based soup loaded with lemongrass, galangal, kaffir lime leaves, mushrooms, and prawns. It is **extremely low in calories** while delivering a powerful hit of flavour and beneficial herbs. The absence of coconut milk keeps the fat content minimal. Studies have suggested the combination of herbs in Tom Yum has antioxidant properties greater than the individual ingredients alone.
 
 ### Larb (Minced Meat Salad) -- ~250-300 calories
 
@@ -178,11 +178,11 @@ Curries are delicious but calorie-dense. Instead of pouring a large serving over
 
 ### 6. Drink Water Instead of Sweet Drinks
 
-Thai iced tea, iced coffee, fruit shakes with condensed milk, and sugary sodas can add **200-400 calories per drink**. Stick to water, unsweetened tea, or fresh coconut water. For more food and drink tips, browse our [Bangkok street food guide](/blog/bangkok-street-food-beginners/).
+Thai iced tea, iced coffee, fruit shakes with condensed milk, and sugary sodas can add **200-400 calories per drink**. Stick to water, unsweetened tea, or fresh [coconut water](/drinks/coconut-water/). For more food and drink tips, browse our [Bangkok street food guide](/blog/bangkok-street-food-beginners/) and [best street food markets in Bangkok](/blog/best-street-food-markets-bangkok/).
 
 ### 7. Eat Where the Locals Eat
 
-Tourist-oriented restaurants often serve **larger, richer portions** adapted for Western tastes. Local Thai restaurants and street stalls tend to serve more traditional (and more balanced) portions. Check our [practical info section](/practical-info/) for tips on finding local spots.
+Tourist-oriented restaurants often serve **larger, richer portions** adapted for Western tastes. Local Thai restaurants and street stalls tend to serve more traditional (and more balanced) portions. Check our [practical info section](/practical-info/) for tips on finding local spots, or read our [guide to eating like a local in Thailand for under $5 a day](/blog/eat-like-local-thailand-under-5-dollars/) -- local food is both cheaper and often healthier.
 
 ## Frequently Asked Questions
 
@@ -208,4 +208,4 @@ Tourist-oriented restaurants often serve **larger, richer portions** adapted for
 
 ---
 
-Thai food offers a **genuinely healthy foundation** -- fresh herbs, lean proteins, aromatic spices, and rice-based staples. The key is choosing the right dishes and being mindful of sugar, coconut cream, and sodium. Stick to grilled proteins, broth-based soups, and fresh salads, and you will eat some of the most flavourful and nutritious food in the world. For more on planning your trip, check our [Thailand travel guides](/practical-info/).
+Thai food offers a **genuinely healthy foundation** -- fresh herbs, lean proteins, aromatic spices, and rice-based staples. The key is choosing the right dishes and being mindful of sugar, coconut cream, and sodium. Stick to grilled proteins, broth-based soups, and fresh salads, and you will eat some of the most flavourful and nutritious food in the world. For more on planning your trip, check our [Thailand travel guides](/practical-info/). If you have specific dietary needs, our [is Thai food gluten free guide](/blog/is-thai-food-gluten-free/) and [vegan Thai food guide](/blog/vegan-thai-food-guide/) cover all the key restrictions. Interested in Thailand's wellness tourism scene? Read about the [Healing Journey Thailand campaign](/blog/healing-journey-thailand-wellness-campaign-2026/) and the [best wellness retreats in Thailand](/blog/best-wellness-retreats-thailand-2026/).

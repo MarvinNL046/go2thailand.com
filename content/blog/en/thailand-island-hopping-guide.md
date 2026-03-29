@@ -14,7 +14,7 @@ image: "/images/cities/phuket/phuket-old-town.webp"
 description: "Plan the perfect Thailand island hopping adventure. Discover the best routes, ferry connections, budget tips, and when to visit Thailand's stunning islands."
 featured: true
 readingTime: 10
-lastUpdated: "2026-02-17"
+lastUpdated: "2026-03-29"
 sources:
   - name: "Tourism Authority of Thailand (TAT) - Islands & Beaches"
     url: "https://www.tourismthailand.org/Activities/Beaches"
@@ -26,7 +26,7 @@ sources:
 
 ## Thailand Island Hopping Guide: Everything You Need to Know
 
-Thailand is home to over 1,400 islands scattered across the **Gulf of Thailand** and the **Andaman Sea**. From the limestone karsts of Krabi to the full-moon parties of Koh Phangan, **island hopping** is one of the most rewarding ways to experience the country. This guide covers the best routes, **transport** options, and practical tips to help you plan an unforgettable island adventure.
+Thailand is home to over 1,400 islands scattered across the **Gulf of Thailand** and the **Andaman Sea**. From the limestone karsts of Krabi to the full-moon parties of Koh Phangan, **island hopping** is one of the most rewarding ways to experience the country. This guide covers the best routes, **transport** options, and practical tips to help you plan an unforgettable island adventure. New to Thailand? Start with our [Thailand first-time visitors essential guide](/blog/thailand-first-time-visitors-essential-guide-2026/) before diving into the islands.
 
 ### Key Takeaways
 
@@ -56,7 +56,7 @@ A popular Gulf route looks like this:
 4. **Koh Tao back to the mainland** -- Night boat to Chumphon, then train or bus to Bangkok
 
 **Highlights of this route:**
-- World-class **diving** at Koh Tao (courses from 9,000 THB)
+- World-class **diving** at Koh Tao (courses from 9,000 THB) — see our [best diving & snorkeling guide](/best-diving-snorkeling-in-thailand/)
 - Full Moon Party on Koh Phangan
 - Luxury resorts and family-friendly **beaches** on [Koh Samui](/islands/koh-samui/)
 - Ang Thong National Marine Park day trip
@@ -151,13 +151,13 @@ Here is a suggested route that covers the best of both coasts:
 - **Days 12-13:** Ferry to [Koh Phi Phi](/islands/koh-phi-phi/), Maya Bay
 - **Day 14:** Ferry to [Krabi](/city/krabi/), depart
 
-This itinerary works best in **January through March**, when both coasts enjoy dry weather. Use the [weather guide](/weather/) to fine-tune your dates, and pick up a [Thai eSIM](/esim/) so you can rebook **ferries** and check conditions on the fly.
+This itinerary works best in **January through March**, when both coasts enjoy dry weather. Use the [weather guide](/weather/) to fine-tune your dates, and pick up a [Thai eSIM](/esim/) so you can rebook **ferries** and check conditions on the fly. For a full two-week plan including Bangkok and Chiang Mai, see our [2-week Thailand itinerary](/blog/thailand-itinerary-2-weeks/) or the comprehensive [ultimate Thailand itinerary 2026](/blog/ultimate-thailand-itinerary-2026/).
 
 ## 8. Final Thoughts
 
 Thailand **island hopping** is one of Southeast Asia's greatest travel experiences. Whether you are a **backpacking** traveller sleeping in bamboo huts or a couple looking for overwater villas, there is a route and budget that works for you. Start by picking your coast, check the [season](/weather/), and book your first **ferry**. The rest will fall into place.
 
-Browse all our [island guides](/islands/) to start planning your route, or read our [Thailand visa guide](/blog/thailand-visa-guide-2026/) to make sure your paperwork is sorted before you go. Do not forget to arrange [travel insurance](/travel-insurance-thailand/) that covers water activities, grab a [Thai eSIM](/esim/) for connectivity, and check the [transport page](/transport/) for the latest ferry schedules.
+Browse all our [island guides](/islands/) to start planning your route, or read our [Thailand visa guide](/blog/thailand-visa-guide-2026/) to make sure your paperwork is sorted before you go. Do not forget to arrange [travel insurance](/travel-insurance-thailand/) that covers water activities, grab a [Thai eSIM](/esim/) for connectivity, and check the [transport page](/transport/) for the latest ferry schedules. Wondering how Thailand's islands compare to Bali? Read our [Thailand vs Bali 2026](/blog/thailand-vs-bali-2026-which-is-better/) comparison. For the best beaches to target, check our [best beaches in Thailand](/blog/best-beaches-thailand/) guide and our tips on [kayaking and paddleboarding spots](/blog/best-kayaking-paddleboarding-spots-thailand-2026/).
 
 ## FAQ
 

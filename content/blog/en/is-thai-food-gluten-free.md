@@ -10,7 +10,7 @@ image: "/images/blog/is-thai-food-gluten-free.webp"
 description: "Traveling to Thailand with celiac disease or gluten sensitivity? Learn which Thai dishes are safe, which to avoid, and how to order gluten-free food in Thailand."
 featured: false
 readingTime: 12
-lastUpdated: "2026-03-21"
+lastUpdated: "2026-03-29"
 sources:
   - name: "Gluten Intolerance Group - Exploring Thai Cuisine on a Gluten-Free Diet"
     url: "https://gluten.org/2021/08/15/exploring-thai-cuisine-on-a-gluten-free-diet/"
@@ -30,7 +30,7 @@ sources:
 
 The good news for anyone with **celiac disease or gluten sensitivity** is that **Thai cuisine is largely rice-based**, making it one of the most gluten-friendly food cultures in the world. Unlike Western cuisines built around wheat bread and pasta, Thai cooking relies on jasmine rice, sticky rice, rice noodles, and rice flour as its foundation.
 
-The bad news? Hidden gluten lurks in several common Thai sauces and condiments, and awareness of celiac disease remains low across Thailand. With the right knowledge, eating safely is absolutely doable -- but you need to go prepared. This guide covers exactly what to eat, what to avoid, and how to communicate your needs in Thai. For a broader look at Thai dishes, visit our [food section](/food/).
+The bad news? Hidden gluten lurks in several common Thai sauces and condiments, and awareness of celiac disease remains low across Thailand. With the right knowledge, eating safely is absolutely doable -- but you need to go prepared. This guide covers exactly what to eat, what to avoid, and how to communicate your needs in Thai. For a broader look at Thai dishes, visit our [food section](/food/). To understand where Thai cuisine comes from and why rice is so central, read the [history of Thai cuisine](/blog/history-of-thai-cuisine/). For overall nutritional information, check out our guide on [whether Thai food is healthy](/blog/is-thai-food-healthy/).
 
 ### Key Takeaways
 
@@ -55,7 +55,7 @@ Many core Thai ingredients are naturally gluten free:
 - **Tamarind paste** -- The base for [Pad Thai](/food/pad-thai/) sauce. Gluten free.
 - **Palm sugar and shrimp paste (kapi)** -- Both naturally gluten free.
 
-But there are hidden dangers you need to know about. If you are also watching spice levels, see our guide on [whether Thai food is spicy](/blog/is-thai-food-spicy-guide/).
+But there are hidden dangers you need to know about. If you are also watching spice levels, see our guide on [whether Thai food is spicy](/blog/is-thai-food-spicy-guide/). And if you want to navigate Bangkok's street food scene with these restrictions, our [Bangkok street food for beginners guide](/blog/bangkok-street-food-beginners/) and [best street food markets in Bangkok](/blog/best-street-food-markets-bangkok/) have practical tips.
 
 ## Hidden Sources of Gluten in Thai Food
 
@@ -173,7 +173,7 @@ Download or print a **gluten-free allergy card in Thai** before your trip. [Celi
 
 ### [Bangkok](/city/bangkok/) -- The Most Options
 
-Bangkok offers the widest selection of gluten-free-friendly restaurants. **Veganerie** (four locations) clearly marks GF options on their menus. Higher-end Thai restaurants are more likely to use fresh curry paste and accommodate requests. International restaurants in Sukhumvit, Silom, and Sathorn often understand gluten-free dining. Supermarkets like **Villa Market**, **Tops**, and **Gourmet Market** stock imported gluten-free products.
+Bangkok offers the widest selection of gluten-free-friendly restaurants. **Veganerie** (four locations) clearly marks GF options on their menus. Higher-end Thai restaurants are more likely to use fresh curry paste and accommodate requests. International restaurants in Sukhumvit, Silom, and Sathorn often understand gluten-free dining. Supermarkets like **Villa Market**, **Tops**, and **Gourmet Market** stock imported gluten-free products. For safe street food choices in Bangkok, see our [Bangkok food guide](/city/bangkok/food/) and [best street food markets in Bangkok](/blog/best-street-food-markets-bangkok/).
 
 ### [Chiang Mai](/city/chiang-mai/) -- The Health-Food Scene
 
@@ -208,13 +208,13 @@ Look for stalls that focus on **grilled meats with sticky rice**, papaya salad, 
 
 ### Book Accommodation with a Kitchen
 
-If you have severe celiac disease, consider accommodation with a kitchen so you can cook with full control over ingredients. A **Thai cooking class** that accommodates dietary restrictions is another great option -- many classes in Bangkok and Chiang Mai will adjust recipes on request.
+If you have severe celiac disease, consider accommodation with a kitchen so you can cook with full control over ingredients. A **Thai cooking class** that accommodates dietary restrictions is another great option -- many classes in Bangkok and Chiang Mai will adjust recipes on request. The [Blue Elephant Cooking School in Bangkok](/blog/blue-elephant-cooking-school-bangkok-review/) is one option known for ingredient transparency. Browse our [best cooking classes in Thailand](/best-cooking-classes-in-thailand/) for more options.
 
 ### Be Cautious with Alcohol
 
 Most Thai beers (Singha, Chang, Leo) are brewed with **barley and contain gluten**. Safer options include rice whiskey (Mekhong), wine, ciders, and spirits. Sato, a traditional Thai rice wine, is naturally gluten free.
 
-Interested in plant-based options while in Thailand? Many gluten-free dishes overlap with vegan ones -- see our [vegan Thai food guide](/blog/vegan-thai-food-guide/).
+Interested in plant-based options while in Thailand? Many gluten-free dishes overlap with vegan ones -- see our [vegan Thai food guide](/blog/vegan-thai-food-guide/). If you are planning your trip timing around food safety and comfort, check our [best time to visit Thailand guide](/blog/best-time-to-visit-thailand/).
 
 ## Frequently Asked Questions
 
@@ -252,4 +252,4 @@ Popular options include **Veganerie** (four locations, labelled GF menu), **Thee
 
 ---
 
-Eating gluten free in Thailand is **very manageable** once you understand the risks and learn how to communicate. The rice-based foundation works in your favour -- print your allergy card, pack your tamari, and get ready to eat well. For more practical travel advice, check our [practical info guides](/practical-info/).
+Eating gluten free in Thailand is **very manageable** once you understand the risks and learn how to communicate. The rice-based foundation works in your favour -- print your allergy card, pack your tamari, and get ready to eat well. For more practical travel advice, check our [practical info guides](/practical-info/). Budget-conscious travellers can also follow our guide to [eating in Thailand for under $5 a day](/blog/eat-like-local-thailand-under-5-dollars/) -- many of the cheapest local dishes are naturally gluten free.

@@ -10,7 +10,7 @@ image: "/images/blog/is-thai-food-spicy-guide.webp"
 description: "Wondering if Thai food is too spicy for you? We break down heat levels of popular dishes, how to order mild food in Thailand, and the best non-spicy Thai dishes."
 featured: false
 readingTime: 12
-lastUpdated: "2026-03-21"
+lastUpdated: "2026-03-29"
 sources:
   - name: "Bird's Eye Chili - Wikipedia"
     url: "https://en.wikipedia.org/wiki/Bird's_eye_chili"
@@ -32,7 +32,7 @@ sources:
 
 ## The Short Answer
 
-Yes, Thai food **can** be very spicy -- but not everything is. In fact, many of Thailand's most beloved dishes contain zero chili at all. [Pad Thai](/food/pad-thai/), mango sticky rice, and [Khao Man Gai](/food/khao-man-gai/) are all naturally mild. The key is knowing what to order and how to communicate your preferences.
+Yes, Thai food **can** be very spicy -- but not everything is. In fact, many of Thailand's most beloved dishes contain zero chili at all. [Pad Thai](/food/pad-thai/), mango sticky rice, and [Khao Man Gai](/food/khao-man-gai/) are all naturally mild. The key is knowing what to order and how to communicate your preferences. Our [Thai street food guide](/blog/thai-street-food-guide-2026/) covers the 15 most popular dishes with spice ratings for each.
 
 Thai cuisine is built around a balance of **five flavours: sweet, sour, salty, bitter, and spicy**. Not every dish leans into heat. Many rely on the first four flavours and use chili only as an optional addition. Whether you are a spice lover or prefer to keep things mild, there is plenty for you on a Thai menu.
 
@@ -63,14 +63,14 @@ This means that Thai spiciness is different from, say, Indian spiciness. Thai he
 
 ## Thai Dishes Ranked by Spice Level
 
-Not sure what to order? Here is a breakdown of popular Thai dishes by heat level. For more dish ideas, read our [Thai curry guide](/blog/thai-curry-guide-green-red-yellow-massaman-panang).
+Not sure what to order? Here is a breakdown of popular Thai dishes by heat level. For more dish ideas, read our [Thai curry guide](/blog/thai-curry-guide-green-red-yellow-massaman-panang/) and the [history of Thai cuisine](/blog/history-of-thai-cuisine/) to understand how these flavours evolved.
 
 ### Mild Thai Dishes (No Spice)
 
 These dishes are reliably gentle and perfect for spice-sensitive eaters or children:
 
 - **[Pad Thai](/food/pad-thai/)** -- Stir-fried rice noodles with tamarind sauce, egg, and protein. Thailand's most famous dish is naturally sweet and sour with no chili in the base recipe. Chili flakes are served on the side.
-- **Mango Sticky Rice (Khao Niaow Mamuang)** -- Sweet sticky rice topped with fresh mango and coconut cream. A beloved dessert with zero heat.
+- **[Mango Sticky Rice](/blog/mango-sticky-rice-season-thailand/) (Khao Niaow Mamuang)** -- Sweet sticky rice topped with fresh mango and coconut cream. A beloved dessert with zero heat. Best eaten during [peak mango season](/blog/mango-sticky-rice-season-thailand/) (April–May).
 - **[Khao Man Gai](/food/khao-man-gai/)** -- Poached chicken over fragrant rice with a mild ginger-garlic dipping sauce. A comforting street food staple.
 - **Spring Rolls (Poh Pia Tod)** -- Crispy fried rolls filled with vegetables and glass noodles. Served with a sweet dipping sauce.
 - **Chicken Satay (Satay Gai)** -- Grilled marinated chicken skewers with peanut sauce. Sweet, savoury, and completely mild.
@@ -92,7 +92,7 @@ These dishes have a moderate kick but can often be ordered mild:
 
 Approach these with caution if you are not used to heat:
 
-- **[Som Tam](/food/som-tam/) (Green Papaya Salad)** -- The default version at Isaan street stalls can include a fistful of Bird's Eye chilies. You can request how many chilies you want, but "Thai spicy" Som Tam is genuinely intense.
+- **[Som Tam](/food/som-tam/) (Green Papaya Salad)** -- The default version at Isaan street stalls can include a fistful of Bird's Eye chilies. You can request how many chilies you want, but "Thai spicy" Som Tam is genuinely intense. Read about the [eight regional varieties of som tam](/blog/som-tam-regional-variations-thailand/) to understand how wildly heat levels differ by region.
 - **Gaeng Pa (Jungle Curry)** -- A thin, broth-based curry with **no coconut milk** to buffer the heat. Made with wild herbs and a generous amount of fresh chili. This is one of the hottest mainstream Thai curries.
 - **Larb (Minced Meat Salad)** -- A northeastern Thai salad dressed with lime, fish sauce, roasted rice powder, and plenty of crushed chili. The heat is sharp and immediate.
 - **Nam Tok (Waterfall Salad)** -- Similar to larb but made with grilled sliced meat. Equally fiery with a smoky char.
@@ -117,7 +117,7 @@ Add **"krap"** (if you are male) or **"ka"** (if you are female) to the end of e
 
 ### Street Stalls vs Restaurants
 
-At **street stalls**, the cook often prepares your food right in front of you. This makes it easy to gesture and communicate your spice preference. Many Som Tam vendors, for example, will ask how many chilies you want -- you can hold up one or two fingers for a mild version.
+At **street stalls**, the cook often prepares your food right in front of you. This makes it easy to gesture and communicate your spice preference. Many Som Tam vendors, for example, will ask how many chilies you want -- you can hold up one or two fingers for a mild version. Our [complete Thai street food guide](/blog/thai-street-food-guide-2026/) explains exactly how to navigate stalls across Bangkok and Chiang Mai.
 
 At **sit-down restaurants**, especially those used to tourists, servers will understand "mai pet" immediately. Some places offer a numbered spice scale from 0 to 5. Level 0 means no spice, level 1 is a gentle warmth, and level 5 is "Thai hot" -- the authentic heat level that locals prefer.
 
@@ -131,11 +131,11 @@ Thai cuisine is not one monolithic style. Each region has a distinct approach to
 
 Northern Thai food, centred around [Chiang Mai](/city/chiang-mai/), is the **gentlest of the four regions**. The cuisine leans into fresh herbs, fermented ingredients, and slow-cooked dishes rather than chili heat. Signature dishes include:
 
-- **[Khao Soi](/food/khao-soi/)** -- A coconut curry noodle soup with Burmese influence. Rich and aromatic rather than fiery.
+- **[Khao Soi](/food/khao-soi/)** -- A coconut curry noodle soup with Burmese influence. Rich and aromatic rather than fiery. See our [Khao Soi Chiang Mai guide](/blog/khao-soi-chiang-mai-guide/) for the best bowls in the city.
 - **Sai Oua** -- Herb-packed northern sausage with lemongrass, galangal, and kaffir lime. Flavourful but not hot.
 - **Prik Noom** -- A roasted green chili dip that is milder than it looks.
 
-If you have a low spice tolerance, Northern Thailand is your safest bet.
+If you have a low spice tolerance, Northern Thailand is your safest bet. A [Thai cooking class in Chiang Mai](/blog/thai-cooking-classes-chiang-mai/) is a great way to understand why northern dishes rely on herbs rather than chilies.
 
 ### Isaan (Northeast) -- The Spiciest Fresh Heat
 
@@ -147,7 +147,7 @@ Isaan cuisine is arguably **Thailand's spiciest regional food**, built around fr
 
 ### Central Thailand -- Balanced Heat
 
-Central Thai food, including what most visitors encounter in [Bangkok](/city/bangkok/), strikes a balance between all five flavour profiles. This region gave the world [Pad Thai](/food/pad-thai/), green curry, and Tom Yum. Dishes are flavourful and can be spicy, but the heat is usually tempered by coconut milk, sugar, or tamarind. This is where you will find the most flexibility in adjusting spice levels.
+Central Thai food, including what most visitors encounter in [Bangkok](/city/bangkok/), strikes a balance between all five flavour profiles. This region gave the world [Pad Thai](/food/pad-thai/), green curry, and Tom Yum. Dishes are flavourful and can be spicy, but the heat is usually tempered by coconut milk, sugar, or tamarind. This is where you will find the most flexibility in adjusting spice levels. The [complete Thai curry guide](/blog/thai-curry-guide-green-red-yellow-massaman-panang/) shows how each curry type differs in heat and creaminess.
 
 ### Southern Thailand -- Spicy with Coconut
 
@@ -161,11 +161,11 @@ Southern Thai food competes with Isaan for the title of spiciest region but deli
 
 If you are worried about handling the heat, these practical tips will help you enjoy Thai food comfortably:
 
-1. **Build up slowly.** Start with mild dishes like [Pad Thai](/food/pad-thai/) and [Khao Man Gai](/food/khao-man-gai/) on your first days. Gradually try dishes with moderate heat as your tolerance adjusts.
+1. **Build up slowly.** Start with mild dishes like [Pad Thai](/food/pad-thai/) and [Khao Man Gai](/food/khao-man-gai/) on your first days. Gradually try dishes with moderate heat as your tolerance adjusts. The [pad thai street food guide](/blog/pad-thai-street-food-vs-restaurant-homemade/) explains how to find the best version on the street.
 2. **Eat rice with spicy food, not water.** Plain steamed rice is far more effective at neutralising capsaicin than water. Water actually spreads the burning sensation around your mouth.
 3. **Drink milk or yoghurt.** The casein protein in dairy products binds to capsaicin and washes it away. A Thai iced tea (which contains condensed milk) also works.
 4. **A spoonful of sugar helps.** Sugar can counteract capsaicin. Many Thai tables have a sugar pot alongside the chili flakes.
-5. **Street food is customisable.** Because street vendors cook each portion individually, they can easily adjust the spice level to your request. Do not be shy about asking.
+5. **Street food is customisable.** Because street vendors cook each portion individually, they can easily adjust the spice level to your request. Do not be shy about asking. Learn more in our [Bangkok street food beginners guide](/blog/bangkok-street-food-beginners/).
 6. **Watch out for condiments.** Even mild dishes can become spicy if you add the wrong table condiment. The small jars of chili flakes (prik pon) and chili in vinegar (prik nam som) are potent.
 7. **Order coconut-based dishes.** Coconut milk naturally tempers chili heat. Curries like [green curry](/food/green-curry/) and [Khao Soi](/food/khao-soi/) are more forgiving than broth-based dishes.
 
@@ -185,15 +185,15 @@ If you are worried about handling the heat, these practical tips will help you e
 
 ### Are Thai curries always spicy?
 
-**No.** Massaman curry and yellow curry (gaeng karee) are both mild and coconut-rich. Even spicier curries like [green curry](/food/green-curry/) can be ordered "mai pet." Read more in our [Thai curry guide](/blog/thai-curry-guide-green-red-yellow-massaman-panang).
+**No.** Massaman curry and yellow curry (gaeng karee) are both mild and coconut-rich. Even spicier curries like [green curry](/food/green-curry/) can be ordered "mai pet." Read more in our [Thai curry guide](/blog/thai-curry-guide-green-red-yellow-massaman-panang/). If you want to learn to cook them yourself, [Chiang Mai cooking classes](/blog/thai-cooking-classes-chiang-mai/) let you make curry paste from scratch.
 
 ### Is Pad Thai spicy?
 
-**No.** Traditional [Pad Thai](/food/pad-thai/) is a sweet-and-sour dish with no chili in the base recipe. Chili flakes and chili in vinegar are served on the table as optional condiments, so you control whether to add heat.
+**No.** Traditional [Pad Thai](/food/pad-thai/) is a sweet-and-sour dish with no chili in the base recipe. Chili flakes and chili in vinegar are served on the table as optional condiments, so you control whether to add heat. Read our breakdown of [street Pad Thai vs restaurant vs homemade](/blog/pad-thai-street-food-vs-restaurant-homemade/) to find out why the street version tastes better.
 
 ### What are the best mild Thai dishes for kids?
 
-**Khao Man Gai** (chicken rice), **Pad See Ew** (sweet soy noodles), **fried rice (khao pad)**, spring rolls, chicken satay, and [Bua Loy](/food/bua-loy/) (sweet rice balls in coconut cream) are all child-friendly with zero spice. Most Thai families feed their young children these same dishes.
+**Khao Man Gai** (chicken rice), **Pad See Ew** (sweet soy noodles), **fried rice (khao pad)**, spring rolls, chicken satay, and [Bua Loy](/food/bua-loy/) (sweet rice balls in coconut cream) are all child-friendly with zero spice. Most Thai families feed their young children these same dishes. For family travel tips in general, see our [Thailand with kids guide](/blog/thailand-with-kids-family-travel-guide/).
 
 ### Do Thai people eat spicy food every meal?
 
@@ -205,4 +205,4 @@ If you are worried about handling the heat, these practical tips will help you e
 
 ---
 
-Whether you love heat or avoid it entirely, **Thai cuisine has something for you**. The key is knowing what to order and how to communicate your preferences. Start mild, build up gradually, and you might find yourself reaching for that extra Bird's Eye chili before your trip is over. For more Thailand travel tips, explore our [practical info guides](/practical-info/).
+Whether you love heat or avoid it entirely, **Thai cuisine has something for you**. The key is knowing what to order and how to communicate your preferences. Start mild, build up gradually, and you might find yourself reaching for that extra Bird's Eye chili before your trip is over. For a deeper dive into flavour, read the [history of Thai cuisine](/blog/history-of-thai-cuisine/) and [what makes Thai food unique](/blog/what-is-thai-food-cuisine-guide/). If you are planning your trip around food, our [7-day Thailand itineraries](/blog/thailand-7-days-itineraries/) include dedicated food days in Bangkok and Chiang Mai. For more Thailand travel tips, explore our [practical info guides](/practical-info/).

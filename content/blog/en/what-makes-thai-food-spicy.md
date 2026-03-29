@@ -10,7 +10,7 @@ image: "/images/blog/what-makes-thai-food-spicy.webp"
 description: "Thai bird's eye chili packs 50,000-100,000 Scoville units. Learn about the different Thai chilies, why Thai food is so spicy, and how to handle the heat."
 featured: false
 readingTime: 5
-lastUpdated: "2026-03-21"
+lastUpdated: "2026-03-29"
 sources:
   - name: "Bird's Eye Chili - Wikipedia"
     url: "https://en.wikipedia.org/wiki/Bird%27s_eye_chili"
@@ -26,7 +26,7 @@ sources:
 
 The short answer: **capsaicin**, a chemical compound found in chili peppers. The longer answer involves a fascinating variety of Thai chilies, centuries of culinary history, and a culture that views spice as essential to a balanced meal. Thailand uses at least **79 different varieties** of chili pepper across three species, and understanding them helps you navigate Thai menus with confidence.
 
-For a broader look at Thai cuisine, see our [essential guide to Thai food](/blog/what-is-thai-food-cuisine-guide/).
+For a broader look at Thai cuisine, see our [essential guide to Thai food](/blog/what-is-thai-food-cuisine-guide/). And if you are planning a trip, our [Thailand first-time visitors guide](/blog/thailand-first-time-visitors-essential-guide-2026/) covers everything from food safety to ordering tips.
 
 ## Types of Thai Chilies
 
@@ -50,7 +50,7 @@ Dried versions of various Thai chilies are essential for curry pastes, chili fla
 
 ### Prik Noom (Northern Green Chili)
 
-A large, mild green chili popular in **northern Thailand**, particularly in Chiang Mai. It has a heat level of roughly **1,000-2,000 SHU** and is fire-roasted to make **Nam Prik Noom**, a beloved northern Thai chili dip.
+A large, mild green chili popular in **northern Thailand**, particularly in [Chiang Mai](/city/chiang-mai/). It has a heat level of roughly **1,000-2,000 SHU** and is fire-roasted to make **Nam Prik Noom**, a beloved northern Thai chili dip.
 
 ## Scoville Scale: How Thai Chilies Compare
 
@@ -84,7 +84,7 @@ Several factors explain Thailand's love of chili heat:
 
 - **Climate** -- In hot, humid tropical climates, spicy food promotes sweating, which helps cool the body. Capsaicin also has **antimicrobial properties** that help preserve food in a climate where refrigeration was historically scarce.
 - **Health benefits** -- Capsaicin boosts metabolism, improves circulation, and has anti-inflammatory properties. Thai traditional medicine has long recognized the health benefits of chilies.
-- **Flavor balance** -- In Thai cuisine, spice is not about raw heat. It is one of five flavors (alongside sweet, sour, salty, and bitter) that must be balanced. The chili heat enhances and brightens the other flavors.
+- **Flavor balance** -- In Thai cuisine, spice is not about raw heat. It is one of five flavors (alongside sweet, sour, salty, and bitter) that must be balanced. The chili heat enhances and brightens the other flavors. Read our [complete Thai cuisine guide](/blog/what-is-thai-food-cuisine-guide/) for a full breakdown of the five-flavor philosophy.
 - **Cultural tradition** -- After Portuguese traders introduced chilies in the 16th century, they quickly replaced peppercorns as the primary source of heat. Within a few generations, spicy food became deeply embedded in Thai identity. Read more about this in our [history of Thai cuisine](/blog/history-of-thai-cuisine/).
 
 ## The Spiciest Thai Dishes
@@ -97,6 +97,8 @@ If you want to test your limits, these are the dishes that bring the most heat:
 4. **Gaeng Som** -- A thin, broth-based sour curry from the south packed with bird's eye chilies and shrimp paste.
 5. **Pad Prik King** -- Stir-fried green beans with red curry paste. Deceptively spicy beneath its simple appearance.
 
+For a full guide to the curries behind many of these dishes, see our [Thai curry guide](/blog/thai-curry-guide-green-red-yellow-massaman-panang/). To experience the spiciest regional food in context, our [Bangkok street food guide](/blog/bangkok-street-food-beginners/) covers where to find Isaan and southern vendors in the capital.
+
 ## How to Cool the Burn
 
 When the heat gets too intense, what you reach for matters.
@@ -105,17 +107,19 @@ When the heat gets too intense, what you reach for matters.
 - **Drink milk or eat yogurt** -- Casein, a protein in dairy, binds to capsaicin and washes it away. This is why Indian cuisine pairs spicy food with lassi and raita.
 - **Eat sugar or sweet fruit** -- A spoonful of sugar or a piece of ripe mango can help counteract the burn.
 - **Do not drink water** -- Water spreads capsaicin around your mouth without dissolving it, making the burn worse. Capsaicin is oil-soluble, not water-soluble.
-- **Do not drink beer** -- Alcohol can intensify the burning sensation. If you want a drink, opt for a sweet Thai iced tea instead.
+- **Do not drink beer** -- Alcohol can intensify the burning sensation. If you want a drink, opt for a sweet [Thai iced tea](https://go2-thailand.com/drinks/thai-iced-tea/) instead.
+
+If you are ordering at a restaurant or food stall in Thailand and want to control the heat level, our [Thai food ordering guide for first-timers](/blog/what-is-thai-food-cuisine-guide/) has practical phrases and tips. For the best spots to try spicy food in Bangkok, see our [Bangkok street food beginners guide](/blog/bangkok-street-food-beginners/) and the [best street food markets in Bangkok](/blog/best-street-food-markets-bangkok/).
 
 ## FAQ
 
 ### Can I ask for less spicy food in Thailand?
 
-Yes. Say **"mai pet"** (not spicy) or **"pet nit noi"** (a little spicy). Most cooks and street vendors will happily adjust the heat level. Be aware that a Thai cook's idea of "a little spicy" may still be hotter than what you are used to.
+Yes. Say **"mai pet"** (not spicy) or **"pet nit noi"** (a little spicy). Most cooks and street vendors will happily adjust the heat level. Be aware that a Thai cook's idea of "a little spicy" may still be hotter than what you are used to. For more ordering tips, read our [Thailand first-time visitors guide](/blog/thailand-first-time-visitors-essential-guide-2026/).
 
 ### Do Thai people all like spicy food?
 
-Most do, but not universally. Children typically eat milder food and gradually build tolerance. Some Thai dishes -- like **Khao Man Gai, Pad Thai**, and **Tom Kha Gai** -- are intentionally mild. Central Thai cuisine tends to be less spicy than Isaan and southern food.
+Most do, but not universally. Children typically eat milder food and gradually build tolerance. Some Thai dishes -- like **Khao Man Gai, Pad Thai**, and **Tom Kha Gai** -- are intentionally mild. Central Thai cuisine tends to be less spicy than Isaan and southern food. See our breakdown of [all regional Thai cuisines](/blog/what-is-thai-food-cuisine-guide/#the-four-regional-cuisines-of-thailand).
 
 ### Will eating spicy Thai food damage my stomach?
 
@@ -123,4 +127,4 @@ For most people, no. Capsaicin does not cause ulcers or permanent damage. It can
 
 ### Which region of Thailand has the spiciest food?
 
-**Southern Thailand** has the spiciest cuisine overall, followed closely by the **Isaan (northeastern)** region. Central and northern Thai food tend to be more moderate in heat. For a full breakdown of regional differences, see our [guide to Thai cuisine](/blog/what-is-thai-food-cuisine-guide/).
+**Southern Thailand** has the spiciest cuisine overall, followed closely by the **Isaan (northeastern)** region. Central and northern Thai food tend to be more moderate in heat. For a full breakdown of regional differences, see our [guide to Thai cuisine](/blog/what-is-thai-food-cuisine-guide/). If you are visiting Thailand and want to explore the food scene, our [ultimate Thailand itinerary 2026](/blog/ultimate-thailand-itinerary-2026/) has food recommendations for each region.

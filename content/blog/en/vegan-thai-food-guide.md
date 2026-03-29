@@ -10,7 +10,7 @@ image: "/images/blog/vegan-thai-food-guide.webp"
 description: "Thailand is a vegan paradise. Discover 20 naturally plant-based Thai dishes, how to order vegan ('jay' vs 'mang sa wirat'), and the best vegan restaurants."
 featured: false
 readingTime: 8
-lastUpdated: "2026-03-21"
+lastUpdated: "2026-03-29"
 sources:
   - name: "CNN Travel - Vegetarian's Guide to Thailand"
     url: "https://www.cnn.com/travel/article/thai-food-vegetarians-guide"
@@ -37,7 +37,7 @@ sources:
 
 ### Why Thailand Is Great for Vegans
 
-Thailand has a long tradition of plant-based eating rooted in **Theravada Buddhism**. Monks eat vegetarian during religious observances, and many Thais follow a strict vegan diet during the annual **Vegetarian Festival** (Tesagan Gin Jay), held every October. During this festival, thousands of restaurants and street stalls across the country switch to an entirely vegan menu, marked by yellow flags with red Chinese characters.
+Thailand has a long tradition of plant-based eating rooted in **Theravada Buddhism**. Monks eat vegetarian during religious observances, and many Thais follow a strict vegan diet during the annual **Vegetarian Festival** (Tesagan Gin Jay), held every October. During this festival, thousands of restaurants and street stalls across the country switch to an entirely vegan menu, marked by yellow flags with red Chinese characters. You can also visit [Thailand's jay street food guide for 2026](/blog/thailand-jay-food-vegan-street-guide-yellow-flag-2026/) for a deeper look at the yellow-flag system.
 
 Beyond the festival, Thailand's tropical climate means fresh fruit, vegetables, and herbs are available year-round at low cost. Tofu, tempeh, mushrooms, and coconut milk are staple ingredients in Thai cooking, making it simple for cooks to prepare vegan versions of classic dishes.
 
@@ -139,15 +139,15 @@ Even dishes that look fully plant-based may contain hidden animal products. Here
 
 ### Best Cities for Vegan Food in Thailand
 
-**Bangkok** -- By far the most options. The Chinatown area (Yaowarat) has many jay restaurants, and neighborhoods like Ari and Ekkamai have modern vegan cafes. Look for the yellow jay flags throughout the city.
+**Bangkok** -- By far the most options. The Chinatown area (Yaowarat) has many jay restaurants, and neighborhoods like Ari and Ekkamai have modern vegan cafes. Look for the yellow jay flags throughout the city. The [Banthat Thong Road food street](/blog/banthat-thong-road-bangkok-food-street-guide-2026/) also has affordable jay options.
 
 **Chiang Mai** -- A haven for health-conscious travelers. The Old City and Nimman Road area are packed with vegan restaurants, smoothie bowls, and organic cafes. The Sunday Walking Street market has many plant-based stall options.
 
-**Phuket** -- Home to the biggest Vegetarian Festival in Thailand every October. During the festival, the entire old town transforms into a vegan food paradise. Year-round, Phuket Town has several dedicated jay restaurants.
+**Phuket** -- Home to the biggest Vegetarian Festival in Thailand every October. During the festival, the entire [Old Town Phuket](/blog/old-town-phuket-walking-guide-street-art-cafes-2026/) transforms into a vegan food paradise. Year-round, Phuket Town has several dedicated jay restaurants.
 
 **Pai** -- This small mountain town in northern Thailand attracts a bohemian crowd, and vegan restaurants are plentiful relative to its size.
 
-**Koh Phangan** -- Known for its wellness and yoga scene, this island has an above-average number of plant-based eateries, especially in the Sri Thanu area.
+**Koh Phangan** -- Known for its wellness and yoga scene, this island has an above-average number of plant-based eateries, especially in the Sri Thanu area. See our [yoga retreats guide for Koh Samui and Koh Phangan](/blog/yoga-retreats-koh-samui-koh-phangan-2026-guide/) for wellness-focused accommodation options.
 
 ---
 
@@ -172,7 +172,7 @@ The Vegetarian Festival (Tesagan Gin Jay) is a nine-day Taoist celebration held 
 
 ### Is Thailand a good destination for vegans?
 
-Yes. Thailand is one of the best countries in Asia for vegan travelers. Buddhist culture encourages plant-based eating, fresh vegetables and tofu are staple ingredients, coconut milk replaces dairy in curries, and dedicated **jay** (vegan) restaurants are found in every city. The annual Vegetarian Festival in October makes it even easier.
+Yes. Thailand is one of the best countries in Asia for vegan travelers. Buddhist culture encourages plant-based eating, fresh vegetables and tofu are staple ingredients, coconut milk replaces dairy in curries, and dedicated **jay** (vegan) restaurants are found in every city. The annual Vegetarian Festival in October makes it even easier. For inspiration on which region to visit, see our [Thailand vs Vietnam comparison](/blog/thailand-vs-vietnam-which-country-visit-2026/) — both countries are strong for plant-based eating.
 
 ### What does "jay" mean in Thai?
 
@@ -189,3 +189,11 @@ Standard Pad Thai is **not vegan**. It typically contains fish sauce, egg, and s
 ### What hidden animal products should vegans watch for in Thai food?
 
 The main culprits are **fish sauce** (nam pla), **oyster sauce** (nam man hoy), **shrimp paste** (kapi), and **egg**. These are added to many dishes that otherwise appear plant-based, including pad Thai, stir-fries, and curry pastes. Always specify "jay" when ordering to avoid all animal-derived ingredients.
+
+### Can I find vegan options at Thai cooking classes?
+
+Yes. Most [cooking classes in Bangkok](/blog/best-cooking-classes-bangkok-market-tour-2026/) and [cooking classes in Chiang Mai](/best-cooking-classes-in-thailand/) can accommodate vegan requests. Inform them when booking and they will prepare jay ingredients. You will still learn the same techniques using plant-based substitutes.
+
+### Is tom yum soup vegan?
+
+Traditional [tom yum goong](/blog/tom-yum-goong-guide/) is not vegan — it uses shrimp and fish sauce. However, **tom yum het** (mushroom tom yum) is the vegan version. Ask for it "jay" to ensure no fish sauce or shrimp paste is used. It is just as aromatic and satisfying.

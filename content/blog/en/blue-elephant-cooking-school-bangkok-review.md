@@ -14,7 +14,7 @@ image: "/images/cities/bangkok/downtown-bangkok.webp"
 description: "We took the Blue Elephant Royal Thai Cooking Class in Bangkok. Here's exactly what the day looks like, what you cook, and whether it's worth the premium price for beginners."
 featured: false
 readingTime: 8
-lastUpdated: "2026-02-20"
+lastUpdated: "2026-03-29"
 sources:
   - name: "Blue Elephant Official"
     url: "https://www.blueelephant.com/"
@@ -24,7 +24,7 @@ sources:
 
 ## Blue Elephant Cooking School Bangkok: What to Expect
 
-If you have ever searched for a **Thai cooking class in Bangkok**, you have probably come across the **Blue Elephant Royal Thai Cooking School**. It is one of the most well-known cooking schools in the country, housed in a stunning **100-year-old heritage building** in the heart of Bangkok. But at around EUR 121 per person, it is also one of the most expensive. We took the class to find out whether it lives up to the reputation -- and whether it is the right choice if you are new to Thai cooking.
+If you have ever searched for a **Thai cooking class in Bangkok**, you have probably come across the **Blue Elephant Royal Thai Cooking School**. It is one of the most well-known cooking schools in the country, housed in a stunning **100-year-old heritage building** in the heart of Bangkok. But at around EUR 121 per person, it is also one of the most expensive. We took the class to find out whether it lives up to the reputation -- and whether it is the right choice if you are new to Thai cooking. For a broader overview of all options across the country, see our [best cooking classes in Thailand guide](/best-cooking-classes-in-thailand/).
 
 ### Key Takeaways
 
@@ -59,7 +59,7 @@ The market itself was impressive. Everything was **pristine** -- fresh fish with
 
 > **Good to know:** The market visit is not about buying ingredients for the class. Blue Elephant works with dedicated suppliers who deliver fresh produce to the school daily. The market tour is educational -- a chance to learn about Thai ingredients, ask questions, and understand what goes into the food you are about to cook.
 
-If you enjoy exploring Thai markets, check out our guide to [Chatuchak Market](/blog/chatuchak-market-bangkok-guide/) and [Bangkok street food](/blog/bangkok-street-food-beginners/) for more market and food experiences in Bangkok.
+If you enjoy exploring Thai markets, check out our guide to [Chatuchak Market](/blog/chatuchak-market-bangkok-guide/) and [Bangkok street food for beginners](/blog/bangkok-street-food-beginners/) for more market and food experiences in Bangkok. To understand the history behind what you cook, read our [history of Thai cuisine](/blog/history-of-thai-cuisine/).
 
 ## 3. The Chef Demonstration
 
@@ -80,7 +80,7 @@ This is the main event. Each person got their own **cooking station** with all i
 
 The most involved dish of the day. We started by chopping chilies, kaffir lime, galangal, shallots, garlic, and coriander root, then pounded everything into a paste using a pestle and mortar. This is **hard physical work** -- getting a smooth paste takes real effort.
 
-For the curry itself, we cooked the paste in rice bran oil, added coconut cream gradually, then chicken stock with herbs. The vegetables went in next: **globe eggplant** (aubergine) and **pea eggplant**, followed by fish sauce and palm sugar for seasoning. The beef -- **Australian tenderloin** -- was added last and cooked for just seconds to keep it tender. A finishing touch of Thai basil and kaffir lime leaves, and done.
+For the curry itself, we cooked the paste in rice bran oil, added coconut cream gradually, then chicken stock with herbs. The vegetables went in next: **globe eggplant** (aubergine) and **pea eggplant**, followed by fish sauce and palm sugar for seasoning. The beef -- **Australian tenderloin** -- was added last and cooked for just seconds to keep it tender. A finishing touch of Thai basil and kaffir lime leaves, and done. To learn more about how [green curry](/food/green-curry/) became a Thai staple, read about the [Indian influence on Thai cuisine](/blog/history-of-thai-cuisine/).
 
 The result was genuinely impressive. Rich, aromatic, perfectly balanced. Even for someone who cooks Thai food regularly, there were useful techniques to pick up here -- particularly around paste preparation and the order of adding coconut milk.
 
@@ -132,16 +132,21 @@ Blue Elephant also sells their handmade **curry pastes** online if you want to r
 
 ## 8. Our Verdict
 
-The Blue Elephant cooking class is a **premium experience** and it feels like one. The heritage building, the knowledgeable staff, the market tour, the quality of ingredients, and the sit-down lunch all justify the higher price compared to budget classes. For someone visiting [Bangkok](/city/bangkok/) for the first time and wanting a polished introduction to Thai cooking, it is hard to beat.
+The Blue Elephant cooking class is a **premium experience** and it feels like one. The heritage building, the knowledgeable staff, the market tour, the quality of ingredients, and the sit-down lunch all justify the higher price compared to budget classes. For someone visiting [Bangkok](/city/bangkok/) for the first time and wanting a polished introduction to Thai cooking, it is hard to beat. Thinking about when to visit? Check our [best time to visit Thailand guide](/blog/best-time-to-visit-thailand/) -- cooking classes run year-round, but the cool season is the most comfortable. And before or after your class, explore the [best street food markets in Bangkok](/blog/best-street-food-markets-bangkok/) to taste these dishes in their natural habitat.
 
 That said, the price is **three to four times higher** than many excellent cooking classes in Bangkok. If budget is a concern, you can get a fantastic cooking experience for EUR 22-37 -- see all options in our [Bangkok cooking classes guide](/city/bangkok/cooking-classes/). For a broader look at cooking classes across the country, read our [best cooking classes in Thailand](/best-cooking-classes-in-thailand/) guide.
 
 ### More Bangkok Experiences
 
 - [Bangkok Street Food for Beginners](/blog/bangkok-street-food-beginners/) -- where to eat and what to try
+- [Best Street Food Markets in Bangkok](/blog/best-street-food-markets-bangkok/) -- from Yaowarat to Or Tor Kor
 - [Chatuchak Market Guide](/blog/chatuchak-market-bangkok-guide/) -- shopping and food at Bangkok's biggest market
 - [Bangkok City Guide](/city/bangkok/) -- everything you need to plan your visit
 - [Best Time to Visit Thailand](/blog/best-time-to-visit-thailand/) -- when to plan your trip
+- [Eat Like a Local in Thailand for Under $5](/blog/eat-like-local-thailand-under-5-dollars/) -- budget food tips
+- [Is Thai Food Healthy?](/blog/is-thai-food-healthy/) -- nutrition breakdown of the dishes you'll cook
+- [History of Thai Cuisine](/blog/history-of-thai-cuisine/) -- where the recipes you'll learn come from
+- [Bangkok Food Scene](/city/bangkok/food/) -- full overview of where to eat in the city
 
 ## FAQ
 

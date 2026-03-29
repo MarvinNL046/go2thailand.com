@@ -10,7 +10,7 @@ image: "/images/blog/tom-yum-goong-guide.webp"
 description: "Master Thailand's iconic spicy shrimp soup. Learn origins, regional variations, where to eat it, and how to order like a local."
 featured: false
 readingTime: 9
-lastUpdated: "2026-03-15"
+lastUpdated: "2026-03-29"
 sources:
   - name: "Wikipedia — Tom Yum"
     url: "https://en.wikipedia.org/wiki/Tom_yum"
@@ -156,9 +156,9 @@ The most authentic and affordable tom yum comes from street vendors and market s
 - **Customers eating there:** Not just takeaway—locals sitting and eating signal confidence
 
 **Best Market Locations:**
-- **Chatuchak Weekend Market** (Bangkok): Multiple vendors, arrive early
+- **[Chatuchak Weekend Market](/blog/chatuchak-market-bangkok-guide/)** (Bangkok): Multiple vendors, arrive early
 - **Warorot Market** (Bangkok Chinatown): Dozens of stalls, lunch hours busiest
-- **Chiang Mai Night Bazaar:** Evening vendors with excellent quality
+- **[Chiang Mai Night Bazaar](https://go2-thailand.com/city/chiang-mai/):** Evening vendors with excellent quality
 - **Krabi Town Market:** Early morning for freshest seafood
 
 ### Restaurant Recommendations (By Region)
@@ -340,7 +340,7 @@ The real nutritional value comes from the herbs and spices:
 
 ### Why Thais Eat It Daily
 
-Tom yum is a staple in Thai cuisine partly because it's light, protein-rich, and packed with beneficial herbs. It's satisfying without being heavy, making it perfect for Thailand's hot climate. The spices aid digestion and promote sweating, which cools the body—a natural adaptation to tropical heat.
+Tom yum is a staple in Thai cuisine partly because it's light, protein-rich, and packed with beneficial herbs. It's satisfying without being heavy, making it perfect for Thailand's hot climate. The spices aid digestion and promote sweating, which cools the body—a natural adaptation to tropical heat. Read more about [is Thai food healthy](/blog/is-thai-food-healthy/) for a deeper look at the nutritional side of Thai cuisine.
 
 **Health Considerations:**
 - **Sodium:** Fish sauce makes tom yum salty; those watching sodium intake should request less
@@ -441,7 +441,7 @@ Year-round—it's eaten daily. However, it's particularly satisfying during cool
 
 ### Is tom yum vegetarian?
 
-Traditional tom yum goong isn't vegetarian (it contains shrimp and fish sauce). However, vegetarian versions exist using vegetable stock and omitting fish sauce (or using soy sauce instead). Ask vendors if they can make it vegetarian.
+Traditional tom yum goong isn't vegetarian (it contains shrimp and fish sauce). However, vegetarian versions exist using vegetable stock and omitting fish sauce (or using soy sauce instead). Ask vendors if they can make it vegetarian. For full vegan ordering phrases, see our [vegan Thai food guide](/blog/vegan-thai-food-guide/).
 
 ---
 
@@ -451,7 +451,7 @@ Traditional tom yum goong isn't vegetarian (it contains shrimp and fish sauce). 
 
 The best tom yum comes from understanding its components: the aromatic herbs that define its character, the fresh shrimp that provide sweetness, the lime juice that brings brightness, and the chilies that deliver heat. When these elements come together in the right balance, you understand why this soup has conquered menus worldwide while remaining authentically Thai.
 
-For deeper exploration of Thai cuisine, check out our [comprehensive Thai food guide](https://go2-thailand.com/food/) and discover other iconic dishes. If you're planning a trip to Thailand, our [Bangkok food guide](https://go2-thailand.com/city/bangkok/food/) and [Chiang Mai food recommendations](https://go2-thailand.com/city/chiang-mai/food/) will help you eat like a local.
+For deeper exploration of Thai cuisine, check out our [comprehensive Thai food guide](https://go2-thailand.com/food/) and discover other iconic dishes — including our guides to [Thai curry varieties](/blog/thai-curry-guide-green-red-yellow-massaman-panang/) and [pad Thai: street food vs restaurant](/blog/pad-thai-street-food-vs-restaurant-homemade/). If you're planning a trip to Thailand, our [Bangkok food guide](https://go2-thailand.com/city/bangkok/food/) and [Chiang Mai food recommendations](https://go2-thailand.com/city/chiang-mai/food/) will help you eat like a local. If you follow a plant-based diet, see our [vegan Thai food guide](/blog/vegan-thai-food-guide/) for how to order tom yum het (mushroom version) instead.
 
 **Ready to experience tom yum in its homeland?** Start with a street stall, take a cooking class to understand the technique, and explore regional variations across Thailand. Your palate—and your appreciation for Thai culture—will be forever changed.
 

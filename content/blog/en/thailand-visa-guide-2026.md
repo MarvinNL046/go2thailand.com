@@ -13,7 +13,7 @@ image: "/images/cities/bangkok/business-district-bangkok.webp"
 description: "Complete Thailand visa guide for 2026. Learn about visa-free entry, tourist visas, the new DTV visa, extensions, and tips for a hassle-free arrival."
 featured: true
 readingTime: 8
-lastUpdated: "2026-03-18"
+lastUpdated: "2026-03-29"
 sources:
   - name: "Thai Immigration Bureau"
     url: "https://www.immigration.go.th/"
@@ -27,7 +27,7 @@ sources:
 
 ## Thailand Visa Guide 2026: Everything You Need to Know
 
-Planning a trip to Thailand and confused by **Thailand visa** rules? You are not alone. Thailand has updated its **immigration** policies several times in recent years, and 2026 brings a set of rules that are actually quite generous for most travellers. This guide breaks down every **visa** option, recent changes, and practical tips for extending your stay.
+Planning a trip to Thailand and confused by **Thailand visa** rules? You are not alone. Thailand has updated its **immigration** policies several times in recent years, and 2026 brings a set of rules that are actually quite generous for most travellers. This guide breaks down every **visa** option, recent changes, and practical tips for extending your stay. If you are a first-time visitor, pair this with our [Thailand first-time visitors guide](/blog/thailand-first-time-visitors-essential-guide-2026/) for a full pre-trip overview.
 
 | Question | Key Answer |
 |----------|------------|
@@ -115,7 +115,7 @@ The **Destination Thailand Visa** launched in 2024 and has been a game-changer f
 
 The **DTV visa** is a **multiple-entry visa**, meaning you can leave and re-enter Thailand during the 180-day period. This makes it ideal for people who want to use Thailand as a base for exploring Southeast Asia -- hop over to neighbouring countries and return without losing your visa status.
 
-Visit our [DTV visa page](/visa/digital-nomad-visa/) for a full application walkthrough. Popular bases for **digital nomads** include [Bangkok](/city/bangkok/) for its urban energy and coworking spaces, and [Chiang Mai](/city/chiang-mai/) for its affordable cost of living and thriving expat community.
+Visit our [DTV visa page](/visa/digital-nomad-visa/) for a full application walkthrough. Popular bases for **digital nomads** include [Bangkok](/city/bangkok/) for its urban energy and coworking spaces, and [Chiang Mai](/city/chiang-mai/) for its affordable cost of living and thriving expat community. Read more in our [digital nomad Thailand guide](/blog/digital-nomad-thailand-2026-dtv-visa-costs-cities/).
 
 ## 5. Other Visa Types
 
@@ -141,7 +141,7 @@ Read our complete [visa types overview](/visa/) for details on each option.
 
 ### 300 Baht Tourism Fee (Arrival)
 
-Thailand has been discussing a **300 THB (~$9 USD) tourism fee** for foreign visitors for years, and it is likely to begin in 2026 — although no start date has been confirmed yet. This fee will be **added to the cost of your flight ticket**, so you will not need to pay anything separately at the airport.
+Thailand has been discussing a **300 THB (~$9 USD) tourism fee** for foreign visitors for years, and it is likely to begin in 2026 — although no start date has been confirmed yet. See our dedicated article on the [300 baht tourist entry fee](/blog/thailand-300-baht-tourist-entry-fee-2026-what-to-know/) for full details. This fee will be **added to the cost of your flight ticket**, so you will not need to pay anything separately at the airport.
 
 The tax is intended to fund tourism infrastructure and general maintenance in tourist areas. Thailand is not alone in this: **Japan, Bali, Mexico**, and many cities across **Europe** already charge visitors a similar tourism fee.
 
@@ -184,7 +184,7 @@ A "border run" means leaving Thailand and re-entering to get a fresh **entry sta
 - Officers can refuse entry if they suspect you are living in Thailand without the proper **visa**
 - If you are a genuine holiday visitor coming and going, you will have **no issues** — they can see how often you come and how long you stay
 
-If you plan to stay long-term, the [DTV visa](/visa/digital-nomad-visa/) or a proper Non-Immigrant visa is a far better option than relying on border runs. For information on getting to and from border crossings, see our [transport guide](/transport/).
+If you plan to stay long-term, the [DTV visa](/visa/digital-nomad-visa/) or a proper Non-Immigrant visa is a far better option than relying on border runs. For information on getting to and from border crossings, see our [transport guide](/transport/). You can also read our article on [how the visa-run era is ending for expats in 2026](/blog/thailand-visa-run-era-ending-2026-expat-guide/).
 
 ## 9. Overstay Penalties
 
@@ -234,7 +234,7 @@ Once you are through **immigration**, make sure to sort out [transport from the 
 
 Thailand's **visa** system continues to evolve in 2026. While the **visa-free entry** is being reduced from 60 to 30 days, the introduction of the **Multiple Entry Visa (MEV)** gives travelers a powerful new option for extended stays. For most short-term visitors, the visa-free entry (plus a 30-day extension) will still be enough to explore the country -- from the temples of [Bangkok](/city/bangkok/) to the beaches of [Koh Phi Phi](/islands/koh-phi-phi/) and the mountains of [Chiang Mai](/city/chiang-mai/). **Digital nomads** and long-stay travellers should look seriously at the **DTV visa**, which offers flexibility that was simply not available a few years ago.
 
-Check our full [visa section](/visa/) for country-specific guides, browse our [practical travel info](/practical-info/) for arrival preparation, or start planning your itinerary with our [Thailand island hopping guide](/blog/thailand-island-hopping-guide/). If you are heading to the islands, our [complete islands overview](/islands/) helps you pick the perfect destination -- whether it is [Koh Samui](/islands/koh-samui/) for luxury resorts, [Koh Tao](/islands/koh-tao/) for diving, or [Koh Lanta](/islands/koh-lanta/) for a laid-back vibe.
+Check our full [visa section](/visa/) for country-specific guides, browse our [practical travel info](/practical-info/) for arrival preparation, or start planning your itinerary with our [Thailand island hopping guide](/blog/thailand-island-hopping-guide/). If tighter visa rules affect your plans, read about [Thailand's new visa restrictions and their impact on Asian travelers](/blog/thailand-visa-restrictions-2026-asian-countries-tourism-impact/). For first-timers, our [2-week Thailand itinerary](/blog/thailand-itinerary-2-weeks/) and [ultimate 2026 itinerary](/blog/ultimate-thailand-itinerary-2026/) help you plan the perfect route once your visa is sorted. If you are heading to the islands, our [complete islands overview](/islands/) helps you pick the perfect destination -- whether it is [Koh Samui](/islands/koh-samui/) for luxury resorts, [Koh Tao](/islands/koh-tao/) for diving, or [Koh Lanta](/islands/koh-lanta/) for a laid-back vibe.
 
 ## FAQ
 

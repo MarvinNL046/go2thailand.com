@@ -10,7 +10,7 @@ image: "/images/blog/thailand-itinerary-2-weeks.webp"
 description: "Complete 14-day Thailand itinerary covering Bangkok, Chiang Mai & islands. Exact costs, transport tips & what to book ahead."
 featured: false
 readingTime: 9
-lastUpdated: "2026-02-21"
+lastUpdated: "2026-03-29"
 sources:
   - name: "TAT - Bangkok"
     url: "https://www.tourismthailand.org/destinations/bangkok"
@@ -25,7 +25,7 @@ sources:
 ---
 Two weeks in Thailand sounds like a dream—and it absolutely can be. But without a solid plan, you'll waste precious days figuring out logistics instead of experiencing the magic. **A Thailand itinerary 2 weeks** is the sweet spot: long enough to escape the tourist treadmill, short enough to stay focused and energized.
 
-We've spent years living in and traveling through Thailand, and we've tested this exact route with dozens of travelers. Here's what works.
+We've spent years living in and traveling through Thailand, and we've tested this exact route with dozens of travelers. Here's what works. For more route options including 7-day and 10-day plans, see our [ultimate Thailand itinerary 2026](/blog/ultimate-thailand-itinerary-2026/).
 
 ## Key Takeaways
 
@@ -43,7 +43,7 @@ We've spent years living in and traveling through Thailand, and we've tested thi
 
 ## 1. Pre-Trip Essentials: Visa, Insurance & Documentation
 
-Before you book a single flight, handle the administrative basics. Most Western nationalities (US, UK, EU, Canada, Australia) qualify for **60-day visa-free entry** to Thailand. You'll need a valid passport with at least 6 months validity from your arrival date.
+Before you book a single flight, handle the administrative basics. Most Western nationalities (US, UK, EU, Canada, Australia) qualify for **60-day visa-free entry** to Thailand. You'll need a valid passport with at least 6 months validity from your arrival date. Check the [Thailand visa guide 2026](/blog/thailand-visa-guide-2026/) for the latest rules, including the planned reduction to 30 days.
 
 Upon arrival, you'll be required to complete the Thailand Digital Arrival Card (TDAC) online at least 3 days before your flight. This replaced the old TM.6 form and takes about 5 minutes. You'll receive a QR code to scan at immigration—no paper required.
 
@@ -88,7 +88,7 @@ Next, visit **Wat Pho** (Temple of the Reclining Buddha), just south across the 
 
 Lunch at a local khao man gai (chicken rice) stall nearby—expect to pay ฿40–60 ($1–2 USD) for a full meal. In the afternoon, explore **Chatuchak Market** (if it's the weekend) or **Talad Noi** (a chaotic old market with narrow alleys, street food, and antiques). Both are free to wander.
 
-Evening: Try [Bangkok street food](https://go2-thailand.com/blog/bangkok-street-food-beginners/) at a night market. **Talad Rod Fai** (Train Market) or **Jodd Fairs** are popular. Expect ฿150–300 ($4–8 USD) for a feast.
+Evening: Try [Bangkok street food](https://go2-thailand.com/blog/bangkok-street-food-beginners/) at a night market. **Talad Rod Fai** (Train Market) or **Jodd Fairs** are popular. Expect ฿150–300 ($4–8 USD) for a feast. Learn about [Thai cuisine](/blog/what-is-thai-food-cuisine-guide/) before you go so you know what to order.
 
 ### Day 3: Culture & Nightlife
 
@@ -206,7 +206,7 @@ From Chiang Mai, fly back to Bangkok (1.5 hours, ฿1,200–2,000/$34–56 USD),
 - **[Koh Tao](https://go2-thailand.com/islands/koh-tao/)** — Best for diving, budget-friendly, small
 - **[Krabi](https://go2-thailand.com/transport/bangkok-to-krabi/)** — Mainland base for island hopping, stunning limestone cliffs
 
-**Our recommendation:** Fly to **Krabi** (4 hours from Bangkok, ฿1,500–2,500/$42–70 USD). From there, take ferries to nearby islands like [Koh Phi Phi](https://go2-thailand.com/islands/koh-phi-phi/) (45 minutes, ฿400/$11 USD) or [Koh Lanta](https://go2-thailand.com/islands/koh-lanta/) (2 hours, ฿300/$8.50 USD).
+**Our recommendation:** Fly to **Krabi** (4 hours from Bangkok, ฿1,500–2,500/$42–70 USD). From there, take ferries to nearby islands like [Koh Phi Phi](https://go2-thailand.com/islands/koh-phi-phi/) (45 minutes, ฿400/$11 USD) or [Koh Lanta](https://go2-thailand.com/islands/koh-lanta/) (2 hours, ฿300/$8.50 USD). See our [Thailand island hopping guide](/blog/thailand-island-hopping-guide/) for full route planning.
 
 <div data-widget="12go" style="margin:32px 0;"><div data-widget-fallback style="background:#FFFBEB;border-left:4px solid #F59E0B;border-radius:12px;padding:20px 24px;margin:32px 0;box-shadow:0 1px 3px rgba(0,0,0,0.1);">
   <div style="display:flex;align-items:flex-start;gap:16px;">
@@ -434,7 +434,7 @@ Yes. Thailand is generally safe. Avoid displaying expensive items, don't accept 
 
 Two weeks in Thailand is enough to experience the country's soul—the chaos of Bangkok, the spirituality of Chiang Mai, and the paradise of the islands. This itinerary balances must-see sights with breathing room for spontaneity. You'll eat incredible food, meet kind locals, and leave wanting to return. Not sure if two weeks is the right length? Our guide on [how long to spend in Thailand](/blog/how-long-spend-thailand) helps you decide based on your travel style.
 
-**Ready to book?** For a broader overview of route options, see our [ultimate Thailand itinerary for 2026](/blog/ultimate-thailand-itinerary-2026). Start with flights, then lock in accommodation in peak season. Use our guides on [Bangkok attractions](https://go2-thailand.com/city/bangkok/attractions/), [Chiang Mai hotels](https://go2-thailand.com/city/chiang-mai/hotels/), and [island comparisons](https://go2-thailand.com/compare/koh-samui-vs-koh-phangan/) to plan each leg.
+**Ready to book?** For a broader overview of route options including 7-day and 10-day plans, see our [ultimate Thailand itinerary for 2026](/blog/ultimate-thailand-itinerary-2026/). Start with flights, then lock in accommodation in peak season. Use our guides on [Bangkok attractions](https://go2-thailand.com/city/bangkok/attractions/), [Chiang Mai hotels](https://go2-thailand.com/city/chiang-mai/hotels/), and [island comparisons](https://go2-thailand.com/compare/koh-samui-vs-koh-phangan/) to plan each leg. Before you travel, review our [Thailand first-time visitors guide](/blog/thailand-first-time-visitors-essential-guide-2026/) and our [Thailand travel scams guide](/blog/thailand-travel-scams-2026/) to stay safe.
 
 Have questions? Check out our comprehensive [Thailand travel guides](https://go2-thailand.com/travel-guides/) or reach out. We've been there—we know what works.
 

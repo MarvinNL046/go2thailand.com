@@ -348,7 +348,7 @@ Use a reputable [Thailand eSIM](https://go2-thailand.com/esim/) or local SIM car
 
 Our three years in Thailand taught us that locals are genuinely warm and helpful—but a small minority exploit tourists' trust. The key is discernment: Say yes to authentic cultural experiences, local recommendations from hotel staff, and verified operators. Say no to street pitches, aggressive salespeople, and deals that seem too good to be true.
 
-For more practical safety information, visit our [Scams & Safety guide](https://go2-thailand.com/practical-info/scams-safety/) or check the [Tourism Authority of Thailand](https://www.tourismthailand.org/) for the latest travel advisories.
+For more practical safety information, visit our [Scams & Safety guide](https://go2-thailand.com/practical-info/scams-safety/) or check the [Tourism Authority of Thailand](https://www.tourismthailand.org/) for the latest travel advisories. You may also want to read our [10 biggest Thailand travel mistakes](/blog/10-biggest-thailand-travel-mistakes/) and our guide to [travel insurance for Thailand](/blog/travel-insurance-thailand-guide/) before you go. For first-time visitors, our [Thailand first-timers essential guide 2026](/blog/thailand-first-time-visitors-essential-guide-2026/) covers everything from visas to transport. Before entering the country, make sure you understand the [Thailand Digital Arrival Card (TDAC)](/blog/thailand-digital-arrival-card-tdac-guide/) requirement.
 
 **Trust your instincts. If something feels off, it probably is.** Safe travels.
 
