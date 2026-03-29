@@ -540,6 +540,6 @@ export const getStaticProps: GetStaticProps = async () => {
       uniqueCitiesCount,
       freeCount,
     },
-    revalidate: 86400,
+    revalidate: 604800,
   };
 };

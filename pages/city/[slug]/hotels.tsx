@@ -397,5 +397,5 @@ export const getStaticProps: GetStaticProps = async ({ params }) => {
   const top10HotelsPath = path.join(process.cwd(), 'data', 'top10', `${slug}-hotels.json`);
   const hasTop10Hotels = fs.existsSync(top10HotelsPath);
 
-  return { props: { city, hotelData, hasTop10Hotels, enhancedHotels }, revalidate: 86400 };
+  return { props: { city, hotelData, hasTop10Hotels, enhancedHotels }, revalidate: 604800 };
 };

@@ -166,4 +166,4 @@ export default function ThailandForFirstTimers() {
   );
 }
 
-export const getStaticProps = async () => ({ props: {}, revalidate: 86400 });
+export const getStaticProps = async () => ({ props: {}, revalidate: 604800 });

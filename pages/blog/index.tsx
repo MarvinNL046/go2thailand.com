@@ -480,6 +480,6 @@ export const getStaticProps: GetStaticProps = async ({ locale }) => {
       posts,
       categories
     },
-    revalidate: 60, // ISR: revalidate every 60 seconds so new posts appear quickly
+    revalidate: 604800, // ISR: daily revalidation
   };
 };

@@ -188,6 +188,6 @@ export const getStaticProps: GetStaticProps = async () => {
   const provinces = getAllProvinceManifests();
   return {
     props: { provinces },
-    revalidate: 86400,
+    revalidate: 604800,
   };
 };

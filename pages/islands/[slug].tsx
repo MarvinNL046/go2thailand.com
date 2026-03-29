@@ -671,6 +671,6 @@ export const getStaticProps: GetStaticProps = async ({ params }) => {
       comparisons,
       relevantRoutes
     },
-    revalidate: 86400
+    revalidate: 604800
   };
 };

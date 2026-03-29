@@ -467,6 +467,6 @@ export const getStaticProps: GetStaticProps = async () => {
       cities: index.cities,
       topSanctuaries
     },
-    revalidate: 86400
+    revalidate: 604800
   };
 };

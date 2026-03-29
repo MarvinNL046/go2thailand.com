@@ -454,5 +454,5 @@ export const getStaticProps: GetStaticProps = async ({ params }) => {
     // No enhanced data available
   }
 
-  return { props: { city, cityFoodData, enhancedRestaurants }, revalidate: 86400 };
+  return { props: { city, cityFoodData, enhancedRestaurants }, revalidate: 604800 };
 };

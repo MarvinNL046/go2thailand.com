@@ -541,6 +541,6 @@ export const getStaticProps: GetStaticProps = async ({ params }) => {
       budgetReality: sanitizedBudgetReality,
       budgetInfo: sanitizedBudgetInfo,
     },
-    revalidate: 86400,
+    revalidate: 604800,
   };
 };

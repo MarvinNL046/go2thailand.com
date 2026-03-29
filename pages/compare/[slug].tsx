@@ -845,6 +845,6 @@ export const getStaticProps: GetStaticProps = async ({ params }) => {
       slug,
       transportRoute,
     },
-    revalidate: 86400,
+    revalidate: 604800,
   };
 };

@@ -462,6 +462,6 @@ export const getStaticProps: GetStaticProps = async ({ params, locale }) => {
       hotelsData,
       editorial,
     },
-    revalidate: 86400 // Revalidate daily
+    revalidate: 604800 // Revalidate daily
   };
 };

@@ -251,6 +251,6 @@ export const getStaticProps: GetStaticProps = async ({ params }) => {
   const data = normalizeTravelGuide(raw);
   return {
     props: { data, affiliates: getAffiliates(slug) },
-    revalidate: 86400,
+    revalidate: 604800,
   };
 };

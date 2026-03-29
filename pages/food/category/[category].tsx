@@ -318,6 +318,6 @@ export const getStaticProps: GetStaticProps = async ({ params }) => {
       category,
       dishes
     },
-    revalidate: 86400
+    revalidate: 604800
   };
 };

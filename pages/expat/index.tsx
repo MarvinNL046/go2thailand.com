@@ -542,6 +542,6 @@ export const getStaticProps: GetStaticProps = async () => {
   const data = require('../../data/expat/expat-guide.json');
   return {
     props: { data },
-    revalidate: 86400
+    revalidate: 604800
   };
 };

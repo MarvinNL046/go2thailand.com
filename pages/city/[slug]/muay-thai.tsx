@@ -543,5 +543,5 @@ export const getStaticProps: GetStaticProps = async ({ params }) => {
       }
     : null;
 
-  return { props: { city: sanitizedCity, muayThaiData: sanitizedMuayThaiData }, revalidate: 86400 };
+  return { props: { city: sanitizedCity, muayThaiData: sanitizedMuayThaiData }, revalidate: 604800 };
 };

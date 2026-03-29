@@ -835,6 +835,6 @@ export const getStaticProps: GetStaticProps = async () => {
   const data = require('../../data/thailand-index.json');
   return {
     props: { data },
-    revalidate: 86400,
+    revalidate: 604800,
   };
 };

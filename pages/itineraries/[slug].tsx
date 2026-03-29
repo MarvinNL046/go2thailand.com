@@ -1106,6 +1106,6 @@ export const getStaticProps: GetStaticProps = async ({ params, locale }) => {
       itinerary,
       relatedItineraries,
     },
-    revalidate: 86400,
+    revalidate: 604800,
   };
 };

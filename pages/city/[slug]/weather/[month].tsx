@@ -401,7 +401,7 @@ export const getStaticProps: GetStaticProps<CityWeatherPageProps> = async ({ par
       nextMonth,
       allMonths
     },
-    revalidate: 86400
+    revalidate: 604800
   };
 };
 

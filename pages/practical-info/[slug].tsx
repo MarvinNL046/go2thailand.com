@@ -320,6 +320,6 @@ export const getStaticProps: GetStaticProps = async ({ params }) => {
 
   return {
     props: { info },
-    revalidate: 86400
+    revalidate: 604800
   };
 };

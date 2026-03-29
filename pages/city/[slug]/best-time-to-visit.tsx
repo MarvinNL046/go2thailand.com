@@ -568,6 +568,6 @@ export const getStaticProps: GetStaticProps = async ({ params }) => {
       city: JSON.parse(JSON.stringify(city)),
       topRoutes,
     },
-    revalidate: 86400,
+    revalidate: 604800,
   };
 };

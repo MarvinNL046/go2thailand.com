@@ -349,7 +349,7 @@ export const getStaticProps: GetStaticProps<TransportIndexProps> = async () => {
       allRoutes,
       cities
     },
-    revalidate: 86400
+    revalidate: 604800
   };
 };
 

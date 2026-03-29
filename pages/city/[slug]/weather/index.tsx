@@ -329,7 +329,7 @@ export const getStaticProps: GetStaticProps<CityWeatherIndexProps> = async ({ pa
       city,
       monthlyWeather
     },
-    revalidate: 86400
+    revalidate: 604800
   };
 };
 

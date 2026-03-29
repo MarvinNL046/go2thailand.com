@@ -719,7 +719,7 @@ export const getStaticProps: GetStaticProps<RoutePageProps> = async ({ params })
       transportOptions,
       comparisonSlug
     },
-    revalidate: 86400
+    revalidate: 604800
   };
 };
 

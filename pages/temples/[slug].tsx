@@ -609,6 +609,6 @@ export const getStaticProps: GetStaticProps = async ({ params, locale: _locale }
       temple,
       nearbyTemples,
     },
-    revalidate: 86400,
+    revalidate: 604800,
   };
 };

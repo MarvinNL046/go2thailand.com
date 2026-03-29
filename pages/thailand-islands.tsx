@@ -546,6 +546,6 @@ export const getStaticProps: GetStaticProps = async ({ locale }) => {
 
   return {
     props: { data },
-    revalidate: 86400
+    revalidate: 604800
   };
 };

@@ -597,6 +597,6 @@ export const getStaticProps: GetStaticProps = async ({ locale }) => {
   const data = JSON.parse(fs.readFileSync(dataPath, 'utf8'));
   return {
     props: { data },
-    revalidate: 86400
+    revalidate: 604800
   };
 };

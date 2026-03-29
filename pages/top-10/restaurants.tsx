@@ -338,6 +338,6 @@ export const getStaticProps: GetStaticProps = async ({ locale }) => {
     props: {
       availableGuides
     },
-    revalidate: 86400
+    revalidate: 604800
   };
 };

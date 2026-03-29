@@ -169,6 +169,6 @@ export const getStaticProps: GetStaticProps = async () => {
   const guides = getAllTravelGuides();
   return {
     props: { guides },
-    revalidate: 86400
+    revalidate: 604800
   };
 };

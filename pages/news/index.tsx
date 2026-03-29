@@ -88,6 +88,6 @@ export const getStaticProps: GetStaticProps<NewsPageProps> = async () => {
 
   return {
     props: { articles },
-    revalidate: 3600,
+    revalidate: 604800,
   };
 };

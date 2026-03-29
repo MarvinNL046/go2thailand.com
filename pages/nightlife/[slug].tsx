@@ -419,6 +419,6 @@ export const getStaticProps: GetStaticProps = async ({ params, locale }) => {
       slug,
       cityName,
     },
-    revalidate: 86400,
+    revalidate: 604800,
   };
 };

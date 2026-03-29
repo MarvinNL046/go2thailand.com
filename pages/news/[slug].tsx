@@ -127,6 +127,6 @@ export const getStaticProps: GetStaticProps<NewsArticlePageProps> = async ({ par
 
   return {
     props: { article },
-    revalidate: 86400,
+    revalidate: 604800,
   };
 };

@@ -556,6 +556,6 @@ export const getStaticProps: GetStaticProps = async ({ params }) => {
       nextMonth,
       popularCities
     },
-    revalidate: 86400
+    revalidate: 604800
   };
 };

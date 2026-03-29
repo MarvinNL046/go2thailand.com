@@ -334,6 +334,6 @@ export const getStaticProps: GetStaticProps = async ({ locale }) => {
       availableGuides,
       featuredGuides
     },
-    revalidate: 86400 // Revalidate daily
+    revalidate: 604800 // Revalidate daily
   };
 };

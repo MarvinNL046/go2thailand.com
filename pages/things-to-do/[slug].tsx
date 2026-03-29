@@ -215,6 +215,6 @@ export const getStaticProps: GetStaticProps = async ({ params }) => {
   if (!data) return { notFound: true };
   return {
     props: { data, affiliates: getAffiliates(slug) },
-    revalidate: 86400,
+    revalidate: 604800,
   };
 };

@@ -406,6 +406,6 @@ export const getStaticProps: GetStaticProps = async () => {
       cityComparisons,
       popularSlugs
     },
-    revalidate: 86400
+    revalidate: 604800
   };
 };

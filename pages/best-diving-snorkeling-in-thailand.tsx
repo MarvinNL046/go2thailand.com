@@ -785,6 +785,6 @@ export const getStaticProps: GetStaticProps = async () => {
       cities: index.cities,
       topActivities
     },
-    revalidate: 86400
+    revalidate: 604800
   };
 };

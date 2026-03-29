@@ -572,6 +572,6 @@ export const getStaticProps: GetStaticProps = async ({ params }) => {
       city: sanitizedCity,
       attractions,
     },
-    revalidate: 86400,
+    revalidate: 604800,
   };
 };

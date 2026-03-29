@@ -2345,6 +2345,6 @@ export const getStaticProps: GetStaticProps = async ({ params }) => {
       transportLinks: cityTransportLinks,
       editorial,
     },
-    revalidate: 86400,
+    revalidate: 604800,
   };
 };

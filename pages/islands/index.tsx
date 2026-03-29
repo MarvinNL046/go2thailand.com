@@ -289,6 +289,6 @@ export const getStaticProps: GetStaticProps = async () => {
     props: {
       islands
     },
-    revalidate: 86400
+    revalidate: 604800
   };
 };

@@ -637,6 +637,6 @@ export const getStaticProps: GetStaticProps = async ({ params }) => {
       citiesForDish: citiesForDish.slice(0, 6),
       editorial,
     },
-    revalidate: 86400
+    revalidate: 604800
   };
 };

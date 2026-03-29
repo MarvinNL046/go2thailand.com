@@ -309,6 +309,6 @@ export const getStaticProps: GetStaticProps = async ({ locale }) => {
     props: {
       itineraries,
     },
-    revalidate: 86400,
+    revalidate: 604800,
   };
 };

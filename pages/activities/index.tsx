@@ -369,6 +369,6 @@ export const getStaticProps: GetStaticProps = async () => {
 
   return {
     props: { activities },
-    revalidate: 86400
+    revalidate: 604800
   };
 };

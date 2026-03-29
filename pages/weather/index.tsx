@@ -504,7 +504,7 @@ export const getStaticProps: GetStaticProps<WeatherIndexProps> = async () => {
     props: {
       cities: citiesData
     },
-    revalidate: 86400
+    revalidate: 604800
   };
 };
 
