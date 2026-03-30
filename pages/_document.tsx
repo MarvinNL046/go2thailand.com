@@ -36,6 +36,7 @@ export default class MyDocument extends Document<MyDocumentProps> {
               crossOrigin="anonymous"
             />
             <meta name="google-adsense-account" content="ca-pub-9667530069853985" />
+            <meta name="p:domain_verify" content="82c2df678f9c93028c81c53ff6ef148d" />
 
             {/* Ahrefs Analytics */}
             <script src="https://analytics.ahrefs.com/analytics.js" data-key="E+8IfL9xrF74c70Fe+NC7w" async />
