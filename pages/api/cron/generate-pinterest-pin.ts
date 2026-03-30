@@ -4,11 +4,14 @@
 
 import type { NextApiRequest, NextApiResponse } from 'next';
 import { getAllPosts } from '../../../lib/blog';
-import { createPin, generatePinImage, listBoards } from '../../../lib/pinterest';
-import { readGitHubFile, writeGitHubFile } from '../../../lib/github-commit';
+import { createPin, generatePinImage } from '../../../lib/pinterest';
+import { commitFilesToGitHub } from '../../../lib/pipeline/github-commit';
 
 const PINTEREST_ACCESS_TOKEN = process.env.PINTEREST_ACCESS_TOKEN || '';
 const PINTEREST_BOARD_ID = process.env.PINTEREST_BOARD_ID || '';
+const GITHUB_TOKEN = process.env.GITHUB_TOKEN;
+const REPO_OWNER = 'MarvinNL046';
+const REPO_NAME = 'go2thailand.com';
 const SITE_URL = 'https://go2-thailand.com';
 const PINS_TRACKER_PATH = 'data/pinterest-pins.json';
 
@@ -25,8 +28,15 @@ interface PinsTracker {
 }
 
 async function loadTracker(): Promise<PinsTracker> {
+  if (!GITHUB_TOKEN) return { pins: [], lastRun: '' };
   try {
-    const content = await readGitHubFile(PINS_TRACKER_PATH);
+    const res = await fetch(
+      `https://api.github.com/repos/${REPO_OWNER}/${REPO_NAME}/contents/${PINS_TRACKER_PATH}`,
+      { headers: { Authorization: `token ${GITHUB_TOKEN}`, Accept: 'application/vnd.github.v3+json' } }
+    );
+    if (!res.ok) return { pins: [], lastRun: '' };
+    const data = await res.json();
+    const content = Buffer.from(data.content, 'base64').toString('utf-8');
     return JSON.parse(content);
   } catch {
     return { pins: [], lastRun: '' };
@@ -34,9 +44,8 @@ async function loadTracker(): Promise<PinsTracker> {
 }
 
 async function saveTracker(tracker: PinsTracker): Promise<void> {
-  await writeGitHubFile(
-    PINS_TRACKER_PATH,
-    JSON.stringify(tracker, null, 2),
+  await commitFilesToGitHub(
+    [{ path: PINS_TRACKER_PATH, content: JSON.stringify(tracker, null, 2) }],
     `pinterest: pin ${tracker.pins[tracker.pins.length - 1]?.slug || 'update'}`
   );
 }
@@ -59,11 +68,10 @@ function buildPinDescription(post: any): string {
 function pickNextPost(posts: any[], pinnedSlugs: Set<string>): any | null {
   const PRIORITY_CATEGORIES = ['food', 'city-guide', 'activities', 'islands', 'temples', 'budget', 'seasonal'];
 
-  const unpinned = posts.filter(p => !pinnedSlugs.has(p.slug));
+  const unpinned = posts.filter((p: any) => !pinnedSlugs.has(p.slug));
   if (unpinned.length === 0) return null;
 
-  // Sort: priority categories first, then by date (newest first)
-  unpinned.sort((a, b) => {
+  unpinned.sort((a: any, b: any) => {
     const aPriority = PRIORITY_CATEGORIES.indexOf(a.category);
     const bPriority = PRIORITY_CATEGORIES.indexOf(b.category);
     const aScore = aPriority >= 0 ? aPriority : 100;
@@ -90,12 +98,10 @@ export default async function handler(req: NextApiRequest, res: NextApiResponse)
   }
 
   try {
-    // Load all blog posts and tracker
     const posts = getAllPosts('en');
     const tracker = await loadTracker();
     const pinnedSlugs = new Set(tracker.pins.map(p => p.slug));
 
-    // Pick next post to pin
     const post = pickNextPost(posts, pinnedSlugs);
     if (!post) {
       return res.status(200).json({ message: 'All posts have been pinned', total: tracker.pins.length });
@@ -103,12 +109,10 @@ export default async function handler(req: NextApiRequest, res: NextApiResponse)
 
     console.log(`Generating pin for: ${post.title} (${post.slug})`);
 
-    // Generate pin image
     const imagePath = post.image || `/images/blog/${post.slug}.webp`;
     const pinImageBuffer = await generatePinImage(imagePath, post.title, post.category);
     const pinImageBase64 = pinImageBuffer.toString('base64');
 
-    // Post to Pinterest
     const pinResult = await createPin(PINTEREST_ACCESS_TOKEN, {
       boardId: PINTEREST_BOARD_ID,
       title: post.title.slice(0, 100),
@@ -120,7 +124,6 @@ export default async function handler(req: NextApiRequest, res: NextApiResponse)
 
     console.log(`Pin created: ${pinResult.id}`);
 
-    // Update tracker
     tracker.pins.push({
       slug: post.slug,
       pinId: pinResult.id,
@@ -133,12 +136,7 @@ export default async function handler(req: NextApiRequest, res: NextApiResponse)
 
     return res.status(200).json({
       message: 'Pin created successfully',
-      pin: {
-        id: pinResult.id,
-        title: post.title,
-        slug: post.slug,
-        link: `${SITE_URL}/blog/${post.slug}/`,
-      },
+      pin: { id: pinResult.id, title: post.title, slug: post.slug },
       progress: `${tracker.pins.length}/${posts.length} posts pinned`,
     });
   } catch (error: any) {
