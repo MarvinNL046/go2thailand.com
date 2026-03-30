@@ -365,7 +365,7 @@ export default function BlogPostPage({ post, relatedPosts }: BlogPostPageProps) 
                   <h3 className="text-xl font-bold font-heading mb-3">Book Hotels</h3>
                   <div className="space-y-3">
                     <a
-                      href="https://booking.tpo.lv/2PT1kR82"
+                      href="https://booking.tpo.lv/2PT1kR82?subid=blog"
                       target="_blank"
                       rel="noopener noreferrer"
                       className="block bg-thailand-blue text-white text-center px-4 py-2 rounded-xl font-semibold hover:bg-thailand-blue/90 transition-colors text-sm"
@@ -373,7 +373,7 @@ export default function BlogPostPage({ post, relatedPosts }: BlogPostPageProps) 
                       Booking.com
                     </a>
                     <a
-                      href="https://trip.tpo.lv/TmObooZ5"
+                      href="https://trip.tpo.lv/TmObooZ5?subid=blog"
                       target="_blank"
                       rel="noopener noreferrer"
                       className="block bg-thailand-blue text-white text-center px-4 py-2 rounded-xl font-semibold hover:bg-thailand-blue/90 transition-colors text-sm"
@@ -389,7 +389,7 @@ export default function BlogPostPage({ post, relatedPosts }: BlogPostPageProps) 
                   <h3 className="text-xl font-bold font-heading mb-3">Tours & Activities</h3>
                   <div className="space-y-3">
                     <a
-                      href="https://klook.tpo.lv/7Dt6WApj"
+                      href="https://klook.tpo.lv/7Dt6WApj?subid=blog"
                       target="_blank"
                       rel="noopener noreferrer"
                       className="block bg-thailand-red text-white text-center px-4 py-2 rounded-xl font-semibold hover:bg-thailand-red/90 transition-colors text-sm"
@@ -397,7 +397,7 @@ export default function BlogPostPage({ post, relatedPosts }: BlogPostPageProps) 
                       Klook Activities
                     </a>
                     <a
-                      href="https://getyourguide.tpo.lv/GuAFfGGK"
+                      href="https://getyourguide.tpo.lv/GuAFfGGK?subid=blog"
                       target="_blank"
                       rel="noopener noreferrer"
                       className="block bg-thailand-red text-white text-center px-4 py-2 rounded-xl font-semibold hover:bg-thailand-red/90 transition-colors text-sm"
@@ -415,7 +415,7 @@ export default function BlogPostPage({ post, relatedPosts }: BlogPostPageProps) 
                     Stay connected in Thailand. Order your eSIM before you go.
                   </p>
                   <a
-                    href="https://saily.tpo.lv/rf9lidnE"
+                    href="https://saily.tpo.lv/rf9lidnE?subid=blog"
                     target="_blank"
                     rel="noopener noreferrer"
                     className="block bg-thailand-blue text-white text-center px-4 py-2 rounded-xl font-semibold hover:bg-thailand-blue/90 transition-colors mb-2"
@@ -442,7 +442,7 @@ export default function BlogPostPage({ post, relatedPosts }: BlogPostPageProps) 
                 <div className="bg-white rounded-2xl shadow-md p-6">
                   <h3 className="text-xl font-bold font-heading mb-3">Transport</h3>
                   <a
-                    href="https://12go.tpo.lv/tNA80urD"
+                    href="https://12go.tpo.lv/tNA80urD?subid=blog"
                     target="_blank"
                     rel="noopener noreferrer"
                     className="block bg-thailand-blue text-white text-center px-4 py-2 rounded-xl font-semibold hover:bg-thailand-blue/90 transition-colors text-sm mb-2"
@@ -466,13 +466,13 @@ export default function BlogPostPage({ post, relatedPosts }: BlogPostPageProps) 
           title="Plan Your Thailand Trip"
           description="Book hotels, transport, activities, and get connected with an eSIM"
           links={[
-            { label: 'Booking.com', href: 'https://booking.tpo.lv/2PT1kR82' },
-            { label: 'Trip.com', href: 'https://trip.tpo.lv/TmObooZ5' },
-            { label: 'Activities', href: 'https://klook.tpo.lv/7Dt6WApj' },
-            { label: 'Transport', href: 'https://12go.tpo.lv/tNA80urD' },
-            { label: 'eSIM', href: 'https://saily.tpo.lv/rf9lidnE' },
-            { label: 'NordVPN', href: 'https://nordvpn.tpo.lv/ekHF1i55' },
-            { label: 'NordPass', href: 'https://nordvpn.tpo.lv/tp12zNjC' },
+            { label: 'Booking.com', href: 'https://booking.tpo.lv/2PT1kR82?subid=blog' },
+            { label: 'Trip.com', href: 'https://trip.tpo.lv/TmObooZ5?subid=blog' },
+            { label: 'Activities', href: 'https://klook.tpo.lv/7Dt6WApj?subid=blog' },
+            { label: 'Transport', href: 'https://12go.tpo.lv/tNA80urD?subid=blog' },
+            { label: 'eSIM', href: 'https://saily.tpo.lv/rf9lidnE?subid=blog' },
+            { label: 'NordVPN', href: 'https://nordvpn.tpo.lv/ekHF1i55?subid=blog' },
+            { label: 'NordPass', href: 'https://nordvpn.tpo.lv/tp12zNjC?subid=blog' },
           ]}
         />
       </article>

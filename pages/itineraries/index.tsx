@@ -217,13 +217,13 @@ export default function ItinerariesPage({ itineraries }: ItinerariesPageProps) {
           description="Book hotels, transport, activities, and get connected with an eSIM"
           sectionClassName="bg-surface-dark py-12"
           links={[
-            { label: 'Booking.com', href: 'https://booking.tpo.lv/2PT1kR82' },
-            { label: 'Trip.com', href: 'https://trip.tpo.lv/TmObooZ5' },
-            { label: 'Activities', href: 'https://klook.tpo.lv/7Dt6WApj' },
-            { label: 'Transport', href: 'https://12go.tpo.lv/tNA80urD' },
+            { label: 'Booking.com', href: 'https://booking.tpo.lv/2PT1kR82?subid=itinerary' },
+            { label: 'Trip.com', href: 'https://trip.tpo.lv/TmObooZ5?subid=itinerary' },
+            { label: 'Activities', href: 'https://klook.tpo.lv/7Dt6WApj?subid=itinerary' },
+            { label: 'Transport', href: 'https://12go.tpo.lv/tNA80urD?subid=itinerary' },
             { label: 'Insurance', href: '/travel-insurance-thailand/', internal: true },
-            { label: 'NordVPN', href: 'https://nordvpn.tpo.lv/ekHF1i55' },
-            { label: 'NordPass', href: 'https://nordvpn.tpo.lv/tp12zNjC' },
+            { label: 'NordVPN', href: 'https://nordvpn.tpo.lv/ekHF1i55?subid=itinerary' },
+            { label: 'NordPass', href: 'https://nordvpn.tpo.lv/tp12zNjC?subid=itinerary' },
           ]}
         />
 

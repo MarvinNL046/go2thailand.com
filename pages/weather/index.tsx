@@ -464,7 +464,7 @@ const WeatherIndex: React.FC<WeatherIndexProps> = ({ cities }) => {
           </p>
           <div className="grid grid-cols-1 md:grid-cols-3 gap-6 mb-6">
             <a
-              href="https://trip.tpo.lv/TmObooZ5"
+              href="https://trip.tpo.lv/TmObooZ5?subid=weather"
               target="_blank"
               rel="noopener noreferrer"
               className="bg-white text-thailand-blue rounded-2xl p-6 text-center hover:shadow-xl hover:-translate-y-1 transition-all block"

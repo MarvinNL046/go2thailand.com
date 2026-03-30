@@ -253,7 +253,7 @@ const TransportIndex: React.FC<TransportIndexProps> = ({ popularRoutes, allRoute
                 </div>
               </div>
               <a
-                href="https://12go.tpo.lv/tNA80urD"
+                href="https://12go.tpo.lv/tNA80urD?subid=transport"
                 target="_blank"
                 rel="noopener noreferrer"
                 className="inline-block bg-thailand-red text-white px-8 py-3 rounded-xl font-semibold hover:bg-thailand-red-600 transition-colors shadow-md"

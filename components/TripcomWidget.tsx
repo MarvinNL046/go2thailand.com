@@ -1,4 +1,6 @@
 import { useEffect, useRef } from 'react';
+import { withSubId } from '../lib/affiliates';
+import { useSubId } from '../lib/useSubId';
 
 interface TripcomWidgetProps {
   city: string;
@@ -9,6 +11,7 @@ interface TripcomWidgetProps {
 
 export default function TripcomWidget({ city, type, className = '', customTitle }: TripcomWidgetProps) {
   const widgetRef = useRef<HTMLDivElement>(null);
+  const subId = useSubId();
 
   useEffect(() => {
     // Load Trip.com widget script
@@ -30,10 +33,10 @@ export default function TripcomWidget({ city, type, className = '', customTitle 
 
   // Affiliate links for different services
   const affiliateLinks = {
-    main: 'https://trip.tpo.lv/TmObooZ5',
-    bundle: 'https://trip.tpo.lv/iP1HSint',
-    transfers: 'https://trip.tpo.lv/iP1HSint',
-    'car-rental': 'https://trip.tpo.lv/fzIWyBhW'
+    main: withSubId('https://trip.tpo.lv/TmObooZ5', subId),
+    bundle: withSubId('https://trip.tpo.lv/iP1HSint', subId),
+    transfers: withSubId('https://trip.tpo.lv/iP1HSint', subId),
+    'car-rental': withSubId('https://trip.tpo.lv/fzIWyBhW', subId),
   };
 
   const getServiceInfo = () => {
@@ -80,7 +83,7 @@ export default function TripcomWidget({ city, type, className = '', customTitle 
         <p className="text-gray-600 mb-4">
           {serviceInfo.description}
         </p>
-        
+
         <div className="grid grid-cols-2 gap-2 sm:grid-cols-4 sm:gap-3">
           <a
             href={affiliateLinks.main}
@@ -115,14 +118,14 @@ export default function TripcomWidget({ city, type, className = '', customTitle 
             Car Rental
           </a>
         </div>
-        
+
         <div className="mt-4 space-y-2">
           <p className="text-xs text-gray-500 text-center">
             We earn a commission when you book through our links
           </p>
           <p className="text-xs text-center">
             <span className="text-gray-400">Powered by </span>
-            <a 
+            <a
               href="https://www.travelpayouts.com/?marker=602467"
               target="_blank"
               rel="noopener noreferrer nofollow"

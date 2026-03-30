@@ -250,7 +250,7 @@ const CityWeatherIndex: React.FC<CityWeatherIndexProps> = ({ city, monthlyWeathe
           </h2>
           <div className="flex flex-col sm:flex-row gap-4 justify-center">
             <a
-              href="https://trip.tpo.lv/TmObooZ5"
+              href="https://trip.tpo.lv/TmObooZ5?subid=city-weather"
               target="_blank"
               rel="noopener noreferrer"
               className="inline-flex items-center justify-center bg-thailand-blue text-white py-3 px-6 rounded-xl font-semibold hover:bg-thailand-blue-600 transition-colors"
@@ -258,7 +258,7 @@ const CityWeatherIndex: React.FC<CityWeatherIndexProps> = ({ city, monthlyWeathe
               Book Hotels
             </a>
             <a
-              href="https://12go.tpo.lv/tNA80urD"
+              href="https://12go.tpo.lv/tNA80urD?subid=city-weather"
               target="_blank"
               rel="noopener noreferrer"
               className="inline-flex items-center justify-center bg-thailand-blue text-white py-3 px-6 rounded-xl hover:bg-thailand-blue-600 font-semibold transition-colors"

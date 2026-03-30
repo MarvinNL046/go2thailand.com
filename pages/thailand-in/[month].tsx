@@ -470,7 +470,7 @@ export default function ThailandMonthlyPage({ guide, previousMonth, nextMonth, p
               </p>
               <div className="grid grid-cols-1 md:grid-cols-3 gap-4 mb-4">
                 <a
-                  href="https://klook.tpo.lv/aq6ZFxvc"
+                  href="https://klook.tpo.lv/aq6ZFxvc?subid=month-guide"
                   target="_blank"
                   rel="noopener noreferrer"
                   className="flex items-center justify-center bg-thailand-red text-white py-3 px-4 rounded-xl font-semibold hover:bg-thailand-blue transition-colors text-sm"
@@ -478,7 +478,7 @@ export default function ThailandMonthlyPage({ guide, previousMonth, nextMonth, p
                   Browse Klook Activities
                 </a>
                 <a
-                  href="https://getyourguide.tpo.lv/GuAFfGGK"
+                  href="https://getyourguide.tpo.lv/GuAFfGGK?subid=month-guide"
                   target="_blank"
                   rel="noopener noreferrer"
                   className="flex items-center justify-center bg-thailand-blue text-white py-3 px-4 rounded-xl font-semibold hover:bg-thailand-red transition-colors text-sm"

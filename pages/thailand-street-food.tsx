@@ -523,7 +523,7 @@ export default function ThailandStreetFood({ data }: StreetFoodProps) {
                           </p>
                           <div className="flex flex-wrap gap-3">
                             <a
-                              href="https://klook.tpo.lv/7Dt6WApj"
+                              href="https://klook.tpo.lv/7Dt6WApj?subid=street-food"
                               target="_blank"
                               rel="noopener noreferrer nofollow"
                               className="bg-white text-thailand-blue px-4 py-2 rounded-full font-semibold text-sm hover:bg-gray-100 transition-colors"
@@ -531,7 +531,7 @@ export default function ThailandStreetFood({ data }: StreetFoodProps) {
                               Cooking Classes
                             </a>
                             <a
-                              href="https://getyourguide.tpo.lv/GuAFfGGK"
+                              href="https://getyourguide.tpo.lv/GuAFfGGK?subid=street-food"
                               target="_blank"
                               rel="noopener noreferrer nofollow"
                               className="bg-white text-thailand-blue px-4 py-2 rounded-full font-semibold text-sm hover:bg-gray-100 transition-colors"
@@ -539,7 +539,7 @@ export default function ThailandStreetFood({ data }: StreetFoodProps) {
                               Food Tours
                             </a>
                             <a
-                              href="https://booking.tpo.lv/2PT1kR82"
+                              href="https://booking.tpo.lv/2PT1kR82?subid=street-food"
                               target="_blank"
                               rel="noopener noreferrer nofollow"
                               className="bg-white text-thailand-blue px-4 py-2 rounded-full font-semibold text-sm hover:bg-gray-100 transition-colors"
@@ -681,7 +681,7 @@ export default function ThailandStreetFood({ data }: StreetFoodProps) {
               />
               <div className="space-y-3">
                 <a
-                  href="https://klook.tpo.lv/7Dt6WApj"
+                  href="https://klook.tpo.lv/7Dt6WApj?subid=street-food"
                   target="_blank"
                   rel="noopener noreferrer nofollow"
                   className="flex items-center justify-between bg-white text-gray-900 px-5 py-4 rounded-xl font-semibold hover:bg-gray-50 transition-colors shadow-sm"
@@ -692,7 +692,7 @@ export default function ThailandStreetFood({ data }: StreetFoodProps) {
                   </svg>
                 </a>
                 <a
-                  href="https://getyourguide.tpo.lv/GuAFfGGK"
+                  href="https://getyourguide.tpo.lv/GuAFfGGK?subid=street-food"
                   target="_blank"
                   rel="noopener noreferrer nofollow"
                   className="flex items-center justify-between bg-white text-gray-900 px-5 py-4 rounded-xl font-semibold hover:bg-gray-50 transition-colors shadow-sm"
@@ -703,7 +703,7 @@ export default function ThailandStreetFood({ data }: StreetFoodProps) {
                   </svg>
                 </a>
                 <a
-                  href="https://booking.tpo.lv/2PT1kR82"
+                  href="https://booking.tpo.lv/2PT1kR82?subid=street-food"
                   target="_blank"
                   rel="noopener noreferrer nofollow"
                   className="flex items-center justify-between bg-white text-gray-900 px-5 py-4 rounded-xl font-semibold hover:bg-gray-50 transition-colors shadow-sm"
@@ -714,7 +714,7 @@ export default function ThailandStreetFood({ data }: StreetFoodProps) {
                   </svg>
                 </a>
                 <a
-                  href="https://saily.tpo.lv/rf9lidnE"
+                  href="https://saily.tpo.lv/rf9lidnE?subid=street-food"
                   target="_blank"
                   rel="noopener noreferrer nofollow"
                   className="flex items-center justify-between bg-white text-gray-900 px-5 py-4 rounded-xl font-semibold hover:bg-gray-50 transition-colors shadow-sm"

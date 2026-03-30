@@ -886,7 +886,7 @@ export default function RegionPage({ region, cities, regionalDishes, regionalIti
                 </div>
                 <h3 className="text-xl font-semibold font-heading text-gray-900 mb-2">Transport & Transfers</h3>
                 <p className="text-gray-600 text-sm mb-4">Book buses, trains, ferries, and flights across {region.name.en}.</p>
-                <a href="https://12go.tpo.lv/tNA80urD" target="_blank" rel="noopener noreferrer" className="block bg-green-600 text-white py-2 px-4 rounded-xl font-medium hover:bg-green-700 transition-colors text-sm">
+                <a href="https://12go.tpo.lv/tNA80urD?subid=region" target="_blank" rel="noopener noreferrer" className="block bg-green-600 text-white py-2 px-4 rounded-xl font-medium hover:bg-green-700 transition-colors text-sm">
                   Book on 12Go Asia
                 </a>
               </div>

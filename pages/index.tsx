@@ -638,7 +638,7 @@ export default function Home({ cities, featuredCities, popularDishes }: HomeProp
               </p>
               <div className="flex flex-col gap-2.5">
                 <a
-                  href="https://trip.tpo.lv/TmObooZ5"
+                  href="https://trip.tpo.lv/TmObooZ5?subid=home"
                   target="_blank"
                   rel="noopener noreferrer"
                   className="block text-center bg-thailand-blue text-white px-4 py-2.5 rounded-xl font-medium hover:bg-thailand-blue-600 transition-colors text-sm"
@@ -646,7 +646,7 @@ export default function Home({ cities, featuredCities, popularDishes }: HomeProp
                   Search on Trip.com
                 </a>
                 <a
-                  href="https://booking.tpo.lv/2PT1kR82"
+                  href="https://booking.tpo.lv/2PT1kR82?subid=home"
                   target="_blank"
                   rel="noopener noreferrer"
                   className="block text-center bg-blue-700 text-white px-4 py-2.5 rounded-xl font-medium hover:bg-blue-800 transition-colors text-sm"
@@ -667,7 +667,7 @@ export default function Home({ cities, featuredCities, popularDishes }: HomeProp
               </p>
               <div className="flex flex-col gap-2.5">
                 <a
-                  href="https://klook.tpo.lv/aq6ZFxvc"
+                  href="https://klook.tpo.lv/aq6ZFxvc?subid=home"
                   target="_blank"
                   rel="noopener noreferrer"
                   className="block text-center bg-orange-500 text-white px-4 py-2.5 rounded-xl font-medium hover:bg-orange-600 transition-colors text-sm"
@@ -675,7 +675,7 @@ export default function Home({ cities, featuredCities, popularDishes }: HomeProp
                   Browse on Klook
                 </a>
                 <a
-                  href="https://getyourguide.tpo.lv/GuAFfGGK"
+                  href="https://getyourguide.tpo.lv/GuAFfGGK?subid=home"
                   target="_blank"
                   rel="noopener noreferrer"
                   className="block text-center bg-blue-600 text-white px-4 py-2.5 rounded-xl font-medium hover:bg-blue-700 transition-colors text-sm"
@@ -696,7 +696,7 @@ export default function Home({ cities, featuredCities, popularDishes }: HomeProp
               </p>
               <div className="flex flex-col gap-2.5">
                 <a
-                  href="https://12go.tpo.lv/tNA80urD"
+                  href="https://12go.tpo.lv/tNA80urD?subid=home"
                   target="_blank"
                   rel="noopener noreferrer"
                   className="block text-center bg-purple-600 text-white px-4 py-2.5 rounded-xl font-medium hover:bg-purple-700 transition-colors text-sm"

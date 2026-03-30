@@ -1,0 +1,1129 @@
+{
+  "generated": "2026-03-30T15:48:46.133Z",
+  "cities": {
+    "ayutthaya": {
+      "booking": "https://booking.tpo.lv/MD886MY6",
+      "klook": "https://klook.tpo.lv/0JiXp35B",
+      "getyourguide": "https://getyourguide.tpo.lv/hIPviHze",
+      "twelveGo": "https://12go.tpo.lv/EwNEvn9M"
+    },
+    "bangkok": {
+      "booking": "https://booking.tpo.lv/pOLaXoYB",
+      "klook": "https://klook.tpo.lv/5BHQ40Kc",
+      "getyourguide": "https://getyourguide.tpo.lv/b1gRUEN7",
+      "twelveGo": "https://12go.tpo.lv/anImtKDC"
+    },
+    "bueng-kan": {
+      "booking": "https://booking.tpo.lv/50C2YcSj",
+      "klook": "https://klook.tpo.lv/BvCHy5aW",
+      "getyourguide": "https://getyourguide.tpo.lv/QXh2IATK",
+      "twelveGo": "https://12go.tpo.lv/4QgR8pId"
+    },
+    "chanthaburi": {
+      "booking": "https://booking.tpo.lv/v6bN8wKW",
+      "klook": "https://klook.tpo.lv/gRmSKp8z",
+      "getyourguide": "https://getyourguide.tpo.lv/5nm6pPnW",
+      "twelveGo": "https://12go.tpo.lv/nuPCwjyc"
+    },
+    "chiang-khan": {
+      "booking": "https://booking.tpo.lv/yqqWtRj7",
+      "klook": "https://klook.tpo.lv/5Ph923AB",
+      "getyourguide": "https://getyourguide.tpo.lv/NWicCBqR",
+      "twelveGo": "https://12go.tpo.lv/mXk14RMk"
+    },
+    "chiang-mai": {
+      "booking": "https://booking.tpo.lv/lEUwZewc",
+      "klook": "https://klook.tpo.lv/NZ1L0Po1",
+      "getyourguide": "https://getyourguide.tpo.lv/36XcnVLp",
+      "twelveGo": "https://12go.tpo.lv/XIuLL5yr"
+    },
+    "chiang-rai": {
+      "booking": "https://booking.tpo.lv/e9hAbOBT",
+      "klook": "https://klook.tpo.lv/oOVsFeR4",
+      "getyourguide": "https://getyourguide.tpo.lv/wVXeTIQ3",
+      "twelveGo": "https://12go.tpo.lv/Dq1aejpj"
+    },
+    "chumphon": {
+      "booking": "https://booking.tpo.lv/urCRQ5mN",
+      "klook": "https://klook.tpo.lv/pY1qP5lB",
+      "getyourguide": "https://getyourguide.tpo.lv/mzSwE50c",
+      "twelveGo": "https://12go.tpo.lv/pt9EXYO1"
+    },
+    "hat-yai": {
+      "booking": "https://booking.tpo.lv/dKR7gtx9",
+      "klook": "https://klook.tpo.lv/Mil13dSW",
+      "getyourguide": "https://getyourguide.tpo.lv/opNPUU5J",
+      "twelveGo": "https://12go.tpo.lv/oeISS6oE"
+    },
+    "hua-hin": {
+      "booking": "https://booking.tpo.lv/NWxB9M36",
+      "klook": "https://klook.tpo.lv/ZemI4PYw",
+      "getyourguide": "https://getyourguide.tpo.lv/1K9quyiv",
+      "twelveGo": "https://12go.tpo.lv/wz578hZX"
+    },
+    "kanchanaburi": {
+      "booking": "https://booking.tpo.lv/OP1cX4mm",
+      "klook": "https://klook.tpo.lv/3mKC3t4y",
+      "getyourguide": "https://getyourguide.tpo.lv/TWXnINyY",
+      "twelveGo": "https://12go.tpo.lv/ZwQ3ra7B"
+    },
+    "khon-kaen": {
+      "booking": "https://booking.tpo.lv/dWfms0T5",
+      "klook": "https://klook.tpo.lv/NPZ2UEUs",
+      "getyourguide": "https://getyourguide.tpo.lv/z12711hg",
+      "twelveGo": "https://12go.tpo.lv/ECeWXkxD"
+    },
+    "koh-samui": {
+      "booking": "https://booking.tpo.lv/StgpQBTS",
+      "klook": "https://klook.tpo.lv/cwdNfqYE",
+      "getyourguide": "https://getyourguide.tpo.lv/Bx77lu7F",
+      "twelveGo": "https://12go.tpo.lv/F8rI7W3h"
+    },
+    "krabi": {
+      "booking": "https://booking.tpo.lv/12BVB5Lw",
+      "klook": "https://klook.tpo.lv/ArQ0pxNB",
+      "getyourguide": "https://getyourguide.tpo.lv/C9aDici6",
+      "twelveGo": "https://12go.tpo.lv/jc2Pwqef"
+    },
+    "lampang": {
+      "booking": "https://booking.tpo.lv/Hs9lLgzx",
+      "klook": "https://klook.tpo.lv/dsdzjsVq",
+      "getyourguide": "https://getyourguide.tpo.lv/9DkR9RJ1",
+      "twelveGo": "https://12go.tpo.lv/JtWo8MaA"
+    },
+    "lopburi": {
+      "booking": "https://booking.tpo.lv/LxuKNeEt",
+      "klook": "https://klook.tpo.lv/8c2tr3Hh",
+      "getyourguide": "https://getyourguide.tpo.lv/OJ8epAtG",
+      "twelveGo": "https://12go.tpo.lv/kFXwoqFR"
+    },
+    "mae-hong-son": {
+      "booking": "https://booking.tpo.lv/7NQYYJFw",
+      "klook": "https://klook.tpo.lv/P5TbKddI",
+      "getyourguide": "https://getyourguide.tpo.lv/VVAnTGa7",
+      "twelveGo": "https://12go.tpo.lv/aodmUWwp"
+    },
+    "mukdahan": {
+      "booking": "https://booking.tpo.lv/mI7CUGIt",
+      "klook": "https://klook.tpo.lv/fQwV1ci7",
+      "getyourguide": "https://getyourguide.tpo.lv/u4Dx2393",
+      "twelveGo": "https://12go.tpo.lv/OiGsq4O8"
+    },
+    "nakhon-phanom": {
+      "booking": "https://booking.tpo.lv/yt2X1DS5",
+      "klook": "https://klook.tpo.lv/R0eYb9bu",
+      "getyourguide": "https://getyourguide.tpo.lv/rXTjpqOd",
+      "twelveGo": "https://12go.tpo.lv/DWBTVfwf"
+    },
+    "nakhon-ratchasima": {
+      "booking": "https://booking.tpo.lv/kh9LqlWa",
+      "klook": "https://klook.tpo.lv/KIhgN2xc",
+      "getyourguide": "https://getyourguide.tpo.lv/QWIR4T3z",
+      "twelveGo": "https://12go.tpo.lv/xPM49Ooq"
+    },
+    "nakhon-si-thammarat": {
+      "booking": "https://booking.tpo.lv/m3XBxH9C",
+      "klook": "https://klook.tpo.lv/BEialfKW",
+      "getyourguide": "https://getyourguide.tpo.lv/UpQ2chhp",
+      "twelveGo": "https://12go.tpo.lv/ymIPrGau"
+    },
+    "nong-khai": {
+      "booking": "https://booking.tpo.lv/IzcbqdCa",
+      "klook": "https://klook.tpo.lv/q7dOrnvU",
+      "getyourguide": "https://getyourguide.tpo.lv/tWW5P5XX",
+      "twelveGo": "https://12go.tpo.lv/qm6KEer9"
+    },
+    "pai": {
+      "booking": "https://booking.tpo.lv/sKi8tHi6",
+      "klook": "https://klook.tpo.lv/1Zz3pt0C",
+      "getyourguide": "https://getyourguide.tpo.lv/QskRawmx",
+      "twelveGo": "https://12go.tpo.lv/0pqtDbf7"
+    },
+    "pattaya": {
+      "booking": "https://booking.tpo.lv/voAcZRL7",
+      "klook": "https://klook.tpo.lv/0776PKKV",
+      "getyourguide": "https://getyourguide.tpo.lv/XL3S0p0C",
+      "twelveGo": "https://12go.tpo.lv/DS7mYOSq"
+    },
+    "phitsanulok": {
+      "booking": "https://booking.tpo.lv/3l8hQ7tP",
+      "klook": "https://klook.tpo.lv/4w7Dr9Mf",
+      "getyourguide": "https://getyourguide.tpo.lv/oTUhnky5",
+      "twelveGo": "https://12go.tpo.lv/bLAYax7f"
+    },
+    "phuket": {
+      "booking": "https://booking.tpo.lv/dv8EjjhA",
+      "klook": "https://klook.tpo.lv/pCBTi39H",
+      "getyourguide": "https://getyourguide.tpo.lv/Snn7mt1S",
+      "twelveGo": "https://12go.tpo.lv/BZUyZO8W"
+    },
+    "rayong": {
+      "booking": "https://booking.tpo.lv/F3e22RXU",
+      "klook": "https://klook.tpo.lv/x9mKLbXv",
+      "getyourguide": "https://getyourguide.tpo.lv/G3bkWWac",
+      "twelveGo": "https://12go.tpo.lv/LjskTUyY"
+    },
+    "sukhothai": {
+      "booking": "https://booking.tpo.lv/XHQFvKr3",
+      "klook": "https://klook.tpo.lv/EkHyhagm",
+      "getyourguide": "https://getyourguide.tpo.lv/l6C6jID1",
+      "twelveGo": "https://12go.tpo.lv/0y2fX7wu"
+    },
+    "surat-thani": {
+      "booking": "https://booking.tpo.lv/3Co1acGT",
+      "klook": "https://klook.tpo.lv/ctDeKOrW",
+      "getyourguide": "https://getyourguide.tpo.lv/m2wO7IHb",
+      "twelveGo": "https://12go.tpo.lv/AFzHUsWs"
+    },
+    "trang": {
+      "booking": "https://booking.tpo.lv/80R3iFUA",
+      "klook": "https://klook.tpo.lv/HBhmrpYV",
+      "getyourguide": "https://getyourguide.tpo.lv/y8GU73g7",
+      "twelveGo": "https://12go.tpo.lv/LRYTN4Ic"
+    },
+    "trat": {
+      "booking": "https://booking.tpo.lv/1SLuOlSz",
+      "klook": "https://klook.tpo.lv/KeQQg5hQ",
+      "getyourguide": "https://getyourguide.tpo.lv/RA9pHvqo",
+      "twelveGo": "https://12go.tpo.lv/qBcxUD3Z"
+    },
+    "ubon-ratchathani": {
+      "booking": "https://booking.tpo.lv/mMA4AHza",
+      "klook": "https://klook.tpo.lv/926ivW2P",
+      "getyourguide": "https://getyourguide.tpo.lv/TX0vzDki",
+      "twelveGo": "https://12go.tpo.lv/JiwYAWZg"
+    },
+    "udon-thani": {
+      "booking": "https://booking.tpo.lv/m8kCILfs",
+      "klook": "https://klook.tpo.lv/sfAs3edK",
+      "getyourguide": "https://getyourguide.tpo.lv/KrUTmlf4",
+      "twelveGo": "https://12go.tpo.lv/7YWnkawm"
+    }
+  },
+  "raw": [
+    {
+      "slug": "ayutthaya",
+      "partner": "booking",
+      "url": "https://www.booking.com/searchresults.html?ss=Ayutthaya%2C%20Thailand",
+      "sub_id": "ayutthaya-booking",
+      "shortlink": "https://booking.tpo.lv/MD886MY6"
+    },
+    {
+      "slug": "ayutthaya",
+      "partner": "klook",
+      "url": "https://www.klook.com/search/result/?keyword=Ayutthaya",
+      "sub_id": "ayutthaya-klook",
+      "shortlink": "https://klook.tpo.lv/0JiXp35B"
+    },
+    {
+      "slug": "ayutthaya",
+      "partner": "getyourguide",
+      "url": "https://www.getyourguide.com/s/?q=Ayutthaya%2C%20Thailand&searchSource=1",
+      "sub_id": "ayutthaya-gyg",
+      "shortlink": "https://getyourguide.tpo.lv/hIPviHze"
+    },
+    {
+      "slug": "ayutthaya",
+      "partner": "twelveGo",
+      "url": "https://12go.asia/en/travel/ayutthaya",
+      "sub_id": "ayutthaya-12go",
+      "shortlink": "https://12go.tpo.lv/EwNEvn9M"
+    },
+    {
+      "slug": "bangkok",
+      "partner": "booking",
+      "url": "https://www.booking.com/searchresults.html?ss=Bangkok%2C%20Thailand",
+      "sub_id": "bangkok-booking",
+      "shortlink": "https://booking.tpo.lv/pOLaXoYB"
+    },
+    {
+      "slug": "bangkok",
+      "partner": "klook",
+      "url": "https://www.klook.com/search/result/?keyword=Bangkok",
+      "sub_id": "bangkok-klook",
+      "shortlink": "https://klook.tpo.lv/5BHQ40Kc"
+    },
+    {
+      "slug": "bangkok",
+      "partner": "getyourguide",
+      "url": "https://www.getyourguide.com/s/?q=Bangkok%2C%20Thailand&searchSource=1",
+      "sub_id": "bangkok-gyg",
+      "shortlink": "https://getyourguide.tpo.lv/b1gRUEN7"
+    },
+    {
+      "slug": "bangkok",
+      "partner": "twelveGo",
+      "url": "https://12go.asia/en/travel/bangkok",
+      "sub_id": "bangkok-12go",
+      "shortlink": "https://12go.tpo.lv/anImtKDC"
+    },
+    {
+      "slug": "bueng-kan",
+      "partner": "booking",
+      "url": "https://www.booking.com/searchresults.html?ss=Bueng%20Kan%2C%20Thailand",
+      "sub_id": "bueng-kan-booking",
+      "shortlink": "https://booking.tpo.lv/50C2YcSj"
+    },
+    {
+      "slug": "bueng-kan",
+      "partner": "klook",
+      "url": "https://www.klook.com/search/result/?keyword=Bueng%20Kan",
+      "sub_id": "bueng-kan-klook",
+      "shortlink": "https://klook.tpo.lv/BvCHy5aW"
+    },
+    {
+      "slug": "bueng-kan",
+      "partner": "getyourguide",
+      "url": "https://www.getyourguide.com/s/?q=Bueng%20Kan%2C%20Thailand&searchSource=1",
+      "sub_id": "bueng-kan-gyg",
+      "shortlink": "https://getyourguide.tpo.lv/QXh2IATK"
+    },
+    {
+      "slug": "bueng-kan",
+      "partner": "twelveGo",
+      "url": "https://12go.asia/en/travel/bueng-kan",
+      "sub_id": "bueng-kan-12go",
+      "shortlink": "https://12go.tpo.lv/4QgR8pId"
+    },
+    {
+      "slug": "chanthaburi",
+      "partner": "booking",
+      "url": "https://www.booking.com/searchresults.html?ss=Chanthaburi%2C%20Thailand",
+      "sub_id": "chanthaburi-booking",
+      "shortlink": "https://booking.tpo.lv/v6bN8wKW"
+    },
+    {
+      "slug": "chanthaburi",
+      "partner": "klook",
+      "url": "https://www.klook.com/search/result/?keyword=Chanthaburi",
+      "sub_id": "chanthaburi-klook",
+      "shortlink": "https://klook.tpo.lv/gRmSKp8z"
+    },
+    {
+      "slug": "chanthaburi",
+      "partner": "getyourguide",
+      "url": "https://www.getyourguide.com/s/?q=Chanthaburi%2C%20Thailand&searchSource=1",
+      "sub_id": "chanthaburi-gyg",
+      "shortlink": "https://getyourguide.tpo.lv/5nm6pPnW"
+    },
+    {
+      "slug": "chanthaburi",
+      "partner": "twelveGo",
+      "url": "https://12go.asia/en/travel/chanthaburi",
+      "sub_id": "chanthaburi-12go",
+      "shortlink": "https://12go.tpo.lv/nuPCwjyc"
+    },
+    {
+      "slug": "chiang-khan",
+      "partner": "booking",
+      "url": "https://www.booking.com/searchresults.html?ss=Chiang%20Khan%2C%20Thailand",
+      "sub_id": "chiang-khan-booking",
+      "shortlink": "https://booking.tpo.lv/yqqWtRj7"
+    },
+    {
+      "slug": "chiang-khan",
+      "partner": "klook",
+      "url": "https://www.klook.com/search/result/?keyword=Chiang%20Khan",
+      "sub_id": "chiang-khan-klook",
+      "shortlink": "https://klook.tpo.lv/5Ph923AB"
+    },
+    {
+      "slug": "chiang-khan",
+      "partner": "getyourguide",
+      "url": "https://www.getyourguide.com/s/?q=Chiang%20Khan%2C%20Thailand&searchSource=1",
+      "sub_id": "chiang-khan-gyg",
+      "shortlink": "https://getyourguide.tpo.lv/NWicCBqR"
+    },
+    {
+      "slug": "chiang-khan",
+      "partner": "twelveGo",
+      "url": "https://12go.asia/en/travel/chiang-khan",
+      "sub_id": "chiang-khan-12go",
+      "shortlink": "https://12go.tpo.lv/mXk14RMk"
+    },
+    {
+      "slug": "chiang-mai",
+      "partner": "booking",
+      "url": "https://www.booking.com/searchresults.html?ss=Chiang%20Mai%2C%20Thailand",
+      "sub_id": "chiang-mai-booking",
+      "shortlink": "https://booking.tpo.lv/lEUwZewc"
+    },
+    {
+      "slug": "chiang-mai",
+      "partner": "klook",
+      "url": "https://www.klook.com/search/result/?keyword=Chiang%20Mai",
+      "sub_id": "chiang-mai-klook",
+      "shortlink": "https://klook.tpo.lv/NZ1L0Po1"
+    },
+    {
+      "slug": "chiang-mai",
+      "partner": "getyourguide",
+      "url": "https://www.getyourguide.com/s/?q=Chiang%20Mai%2C%20Thailand&searchSource=1",
+      "sub_id": "chiang-mai-gyg",
+      "shortlink": "https://getyourguide.tpo.lv/36XcnVLp"
+    },
+    {
+      "slug": "chiang-mai",
+      "partner": "twelveGo",
+      "url": "https://12go.asia/en/travel/chiang-mai",
+      "sub_id": "chiang-mai-12go",
+      "shortlink": "https://12go.tpo.lv/XIuLL5yr"
+    },
+    {
+      "slug": "chiang-rai",
+      "partner": "booking",
+      "url": "https://www.booking.com/searchresults.html?ss=Chiang%20Rai%2C%20Thailand",
+      "sub_id": "chiang-rai-booking",
+      "shortlink": "https://booking.tpo.lv/e9hAbOBT"
+    },
+    {
+      "slug": "chiang-rai",
+      "partner": "klook",
+      "url": "https://www.klook.com/search/result/?keyword=Chiang%20Rai",
+      "sub_id": "chiang-rai-klook",
+      "shortlink": "https://klook.tpo.lv/oOVsFeR4"
+    },
+    {
+      "slug": "chiang-rai",
+      "partner": "getyourguide",
+      "url": "https://www.getyourguide.com/s/?q=Chiang%20Rai%2C%20Thailand&searchSource=1",
+      "sub_id": "chiang-rai-gyg",
+      "shortlink": "https://getyourguide.tpo.lv/wVXeTIQ3"
+    },
+    {
+      "slug": "chiang-rai",
+      "partner": "twelveGo",
+      "url": "https://12go.asia/en/travel/chiang-rai",
+      "sub_id": "chiang-rai-12go",
+      "shortlink": "https://12go.tpo.lv/Dq1aejpj"
+    },
+    {
+      "slug": "chumphon",
+      "partner": "booking",
+      "url": "https://www.booking.com/searchresults.html?ss=Chumphon%2C%20Thailand",
+      "sub_id": "chumphon-booking",
+      "shortlink": "https://booking.tpo.lv/urCRQ5mN"
+    },
+    {
+      "slug": "chumphon",
+      "partner": "klook",
+      "url": "https://www.klook.com/search/result/?keyword=Chumphon",
+      "sub_id": "chumphon-klook",
+      "shortlink": "https://klook.tpo.lv/pY1qP5lB"
+    },
+    {
+      "slug": "chumphon",
+      "partner": "getyourguide",
+      "url": "https://www.getyourguide.com/s/?q=Chumphon%2C%20Thailand&searchSource=1",
+      "sub_id": "chumphon-gyg",
+      "shortlink": "https://getyourguide.tpo.lv/mzSwE50c"
+    },
+    {
+      "slug": "chumphon",
+      "partner": "twelveGo",
+      "url": "https://12go.asia/en/travel/chumphon",
+      "sub_id": "chumphon-12go",
+      "shortlink": "https://12go.tpo.lv/pt9EXYO1"
+    },
+    {
+      "slug": "hat-yai",
+      "partner": "booking",
+      "url": "https://www.booking.com/searchresults.html?ss=Hat%20Yai%2C%20Thailand",
+      "sub_id": "hat-yai-booking",
+      "shortlink": "https://booking.tpo.lv/dKR7gtx9"
+    },
+    {
+      "slug": "hat-yai",
+      "partner": "klook",
+      "url": "https://www.klook.com/search/result/?keyword=Hat%20Yai",
+      "sub_id": "hat-yai-klook",
+      "shortlink": "https://klook.tpo.lv/Mil13dSW"
+    },
+    {
+      "slug": "hat-yai",
+      "partner": "getyourguide",
+      "url": "https://www.getyourguide.com/s/?q=Hat%20Yai%2C%20Thailand&searchSource=1",
+      "sub_id": "hat-yai-gyg",
+      "shortlink": "https://getyourguide.tpo.lv/opNPUU5J"
+    },
+    {
+      "slug": "hat-yai",
+      "partner": "twelveGo",
+      "url": "https://12go.asia/en/travel/hat-yai",
+      "sub_id": "hat-yai-12go",
+      "shortlink": "https://12go.tpo.lv/oeISS6oE"
+    },
+    {
+      "slug": "hua-hin",
+      "partner": "booking",
+      "url": "https://www.booking.com/searchresults.html?ss=Hua%20Hin%2C%20Thailand",
+      "sub_id": "hua-hin-booking",
+      "shortlink": "https://booking.tpo.lv/NWxB9M36"
+    },
+    {
+      "slug": "hua-hin",
+      "partner": "klook",
+      "url": "https://www.klook.com/search/result/?keyword=Hua%20Hin",
+      "sub_id": "hua-hin-klook",
+      "shortlink": "https://klook.tpo.lv/ZemI4PYw"
+    },
+    {
+      "slug": "hua-hin",
+      "partner": "getyourguide",
+      "url": "https://www.getyourguide.com/s/?q=Hua%20Hin%2C%20Thailand&searchSource=1",
+      "sub_id": "hua-hin-gyg",
+      "shortlink": "https://getyourguide.tpo.lv/1K9quyiv"
+    },
+    {
+      "slug": "hua-hin",
+      "partner": "twelveGo",
+      "url": "https://12go.asia/en/travel/hua-hin",
+      "sub_id": "hua-hin-12go",
+      "shortlink": "https://12go.tpo.lv/wz578hZX"
+    },
+    {
+      "slug": "kanchanaburi",
+      "partner": "booking",
+      "url": "https://www.booking.com/searchresults.html?ss=Kanchanaburi%2C%20Thailand",
+      "sub_id": "kanchanaburi-booking",
+      "shortlink": "https://booking.tpo.lv/OP1cX4mm"
+    },
+    {
+      "slug": "kanchanaburi",
+      "partner": "klook",
+      "url": "https://www.klook.com/search/result/?keyword=Kanchanaburi",
+      "sub_id": "kanchanaburi-klook",
+      "shortlink": "https://klook.tpo.lv/3mKC3t4y"
+    },
+    {
+      "slug": "kanchanaburi",
+      "partner": "getyourguide",
+      "url": "https://www.getyourguide.com/s/?q=Kanchanaburi%2C%20Thailand&searchSource=1",
+      "sub_id": "kanchanaburi-gyg",
+      "shortlink": "https://getyourguide.tpo.lv/TWXnINyY"
+    },
+    {
+      "slug": "kanchanaburi",
+      "partner": "twelveGo",
+      "url": "https://12go.asia/en/travel/kanchanaburi",
+      "sub_id": "kanchanaburi-12go",
+      "shortlink": "https://12go.tpo.lv/ZwQ3ra7B"
+    },
+    {
+      "slug": "khon-kaen",
+      "partner": "booking",
+      "url": "https://www.booking.com/searchresults.html?ss=Khon%20Kaen%2C%20Thailand",
+      "sub_id": "khon-kaen-booking",
+      "shortlink": "https://booking.tpo.lv/dWfms0T5"
+    },
+    {
+      "slug": "khon-kaen",
+      "partner": "klook",
+      "url": "https://www.klook.com/search/result/?keyword=Khon%20Kaen",
+      "sub_id": "khon-kaen-klook",
+      "shortlink": "https://klook.tpo.lv/NPZ2UEUs"
+    },
+    {
+      "slug": "khon-kaen",
+      "partner": "getyourguide",
+      "url": "https://www.getyourguide.com/s/?q=Khon%20Kaen%2C%20Thailand&searchSource=1",
+      "sub_id": "khon-kaen-gyg",
+      "shortlink": "https://getyourguide.tpo.lv/z12711hg"
+    },
+    {
+      "slug": "khon-kaen",
+      "partner": "twelveGo",
+      "url": "https://12go.asia/en/travel/khon-kaen",
+      "sub_id": "khon-kaen-12go",
+      "shortlink": "https://12go.tpo.lv/ECeWXkxD"
+    },
+    {
+      "slug": "koh-samui",
+      "partner": "booking",
+      "url": "https://www.booking.com/searchresults.html?ss=Koh%20Samui%2C%20Thailand",
+      "sub_id": "koh-samui-booking",
+      "shortlink": "https://booking.tpo.lv/StgpQBTS"
+    },
+    {
+      "slug": "koh-samui",
+      "partner": "klook",
+      "url": "https://www.klook.com/search/result/?keyword=Koh%20Samui",
+      "sub_id": "koh-samui-klook",
+      "shortlink": "https://klook.tpo.lv/cwdNfqYE"
+    },
+    {
+      "slug": "koh-samui",
+      "partner": "getyourguide",
+      "url": "https://www.getyourguide.com/s/?q=Koh%20Samui%2C%20Thailand&searchSource=1",
+      "sub_id": "koh-samui-gyg",
+      "shortlink": "https://getyourguide.tpo.lv/Bx77lu7F"
+    },
+    {
+      "slug": "koh-samui",
+      "partner": "twelveGo",
+      "url": "https://12go.asia/en/travel/koh-samui",
+      "sub_id": "koh-samui-12go",
+      "shortlink": "https://12go.tpo.lv/F8rI7W3h"
+    },
+    {
+      "slug": "krabi",
+      "partner": "booking",
+      "url": "https://www.booking.com/searchresults.html?ss=Krabi%2C%20Thailand",
+      "sub_id": "krabi-booking",
+      "shortlink": "https://booking.tpo.lv/12BVB5Lw"
+    },
+    {
+      "slug": "krabi",
+      "partner": "klook",
+      "url": "https://www.klook.com/search/result/?keyword=Krabi",
+      "sub_id": "krabi-klook",
+      "shortlink": "https://klook.tpo.lv/ArQ0pxNB"
+    },
+    {
+      "slug": "krabi",
+      "partner": "getyourguide",
+      "url": "https://www.getyourguide.com/s/?q=Krabi%2C%20Thailand&searchSource=1",
+      "sub_id": "krabi-gyg",
+      "shortlink": "https://getyourguide.tpo.lv/C9aDici6"
+    },
+    {
+      "slug": "krabi",
+      "partner": "twelveGo",
+      "url": "https://12go.asia/en/travel/krabi",
+      "sub_id": "krabi-12go",
+      "shortlink": "https://12go.tpo.lv/jc2Pwqef"
+    },
+    {
+      "slug": "lampang",
+      "partner": "booking",
+      "url": "https://www.booking.com/searchresults.html?ss=Lampang%2C%20Thailand",
+      "sub_id": "lampang-booking",
+      "shortlink": "https://booking.tpo.lv/Hs9lLgzx"
+    },
+    {
+      "slug": "lampang",
+      "partner": "klook",
+      "url": "https://www.klook.com/search/result/?keyword=Lampang",
+      "sub_id": "lampang-klook",
+      "shortlink": "https://klook.tpo.lv/dsdzjsVq"
+    },
+    {
+      "slug": "lampang",
+      "partner": "getyourguide",
+      "url": "https://www.getyourguide.com/s/?q=Lampang%2C%20Thailand&searchSource=1",
+      "sub_id": "lampang-gyg",
+      "shortlink": "https://getyourguide.tpo.lv/9DkR9RJ1"
+    },
+    {
+      "slug": "lampang",
+      "partner": "twelveGo",
+      "url": "https://12go.asia/en/travel/lampang",
+      "sub_id": "lampang-12go",
+      "shortlink": "https://12go.tpo.lv/JtWo8MaA"
+    },
+    {
+      "slug": "lopburi",
+      "partner": "booking",
+      "url": "https://www.booking.com/searchresults.html?ss=Lopburi%2C%20Thailand",
+      "sub_id": "lopburi-booking",
+      "shortlink": "https://booking.tpo.lv/LxuKNeEt"
+    },
+    {
+      "slug": "lopburi",
+      "partner": "klook",
+      "url": "https://www.klook.com/search/result/?keyword=Lopburi",
+      "sub_id": "lopburi-klook",
+      "shortlink": "https://klook.tpo.lv/8c2tr3Hh"
+    },
+    {
+      "slug": "lopburi",
+      "partner": "getyourguide",
+      "url": "https://www.getyourguide.com/s/?q=Lopburi%2C%20Thailand&searchSource=1",
+      "sub_id": "lopburi-gyg",
+      "shortlink": "https://getyourguide.tpo.lv/OJ8epAtG"
+    },
+    {
+      "slug": "lopburi",
+      "partner": "twelveGo",
+      "url": "https://12go.asia/en/travel/lopburi",
+      "sub_id": "lopburi-12go",
+      "shortlink": "https://12go.tpo.lv/kFXwoqFR"
+    },
+    {
+      "slug": "mae-hong-son",
+      "partner": "booking",
+      "url": "https://www.booking.com/searchresults.html?ss=Mae%20Hong%20Son%2C%20Thailand",
+      "sub_id": "mae-hong-son-booking",
+      "shortlink": "https://booking.tpo.lv/7NQYYJFw"
+    },
+    {
+      "slug": "mae-hong-son",
+      "partner": "klook",
+      "url": "https://www.klook.com/search/result/?keyword=Mae%20Hong%20Son",
+      "sub_id": "mae-hong-son-klook",
+      "shortlink": "https://klook.tpo.lv/P5TbKddI"
+    },
+    {
+      "slug": "mae-hong-son",
+      "partner": "getyourguide",
+      "url": "https://www.getyourguide.com/s/?q=Mae%20Hong%20Son%2C%20Thailand&searchSource=1",
+      "sub_id": "mae-hong-son-gyg",
+      "shortlink": "https://getyourguide.tpo.lv/VVAnTGa7"
+    },
+    {
+      "slug": "mae-hong-son",
+      "partner": "twelveGo",
+      "url": "https://12go.asia/en/travel/mae-hong-son",
+      "sub_id": "mae-hong-son-12go",
+      "shortlink": "https://12go.tpo.lv/aodmUWwp"
+    },
+    {
+      "slug": "mukdahan",
+      "partner": "booking",
+      "url": "https://www.booking.com/searchresults.html?ss=Mukdahan%2C%20Thailand",
+      "sub_id": "mukdahan-booking",
+      "shortlink": "https://booking.tpo.lv/mI7CUGIt"
+    },
+    {
+      "slug": "mukdahan",
+      "partner": "klook",
+      "url": "https://www.klook.com/search/result/?keyword=Mukdahan",
+      "sub_id": "mukdahan-klook",
+      "shortlink": "https://klook.tpo.lv/fQwV1ci7"
+    },
+    {
+      "slug": "mukdahan",
+      "partner": "getyourguide",
+      "url": "https://www.getyourguide.com/s/?q=Mukdahan%2C%20Thailand&searchSource=1",
+      "sub_id": "mukdahan-gyg",
+      "shortlink": "https://getyourguide.tpo.lv/u4Dx2393"
+    },
+    {
+      "slug": "mukdahan",
+      "partner": "twelveGo",
+      "url": "https://12go.asia/en/travel/mukdahan",
+      "sub_id": "mukdahan-12go",
+      "shortlink": "https://12go.tpo.lv/OiGsq4O8"
+    },
+    {
+      "slug": "nakhon-phanom",
+      "partner": "booking",
+      "url": "https://www.booking.com/searchresults.html?ss=Nakhon%20Phanom%2C%20Thailand",
+      "sub_id": "nakhon-phanom-booking",
+      "shortlink": "https://booking.tpo.lv/yt2X1DS5"
+    },
+    {
+      "slug": "nakhon-phanom",
+      "partner": "klook",
+      "url": "https://www.klook.com/search/result/?keyword=Nakhon%20Phanom",
+      "sub_id": "nakhon-phanom-klook",
+      "shortlink": "https://klook.tpo.lv/R0eYb9bu"
+    },
+    {
+      "slug": "nakhon-phanom",
+      "partner": "getyourguide",
+      "url": "https://www.getyourguide.com/s/?q=Nakhon%20Phanom%2C%20Thailand&searchSource=1",
+      "sub_id": "nakhon-phanom-gyg",
+      "shortlink": "https://getyourguide.tpo.lv/rXTjpqOd"
+    },
+    {
+      "slug": "nakhon-phanom",
+      "partner": "twelveGo",
+      "url": "https://12go.asia/en/travel/nakhon-phanom",
+      "sub_id": "nakhon-phanom-12go",
+      "shortlink": "https://12go.tpo.lv/DWBTVfwf"
+    },
+    {
+      "slug": "nakhon-ratchasima",
+      "partner": "booking",
+      "url": "https://www.booking.com/searchresults.html?ss=Nakhon%20Ratchasima%2C%20Thailand",
+      "sub_id": "nakhon-ratchasima-booking",
+      "shortlink": "https://booking.tpo.lv/kh9LqlWa"
+    },
+    {
+      "slug": "nakhon-ratchasima",
+      "partner": "klook",
+      "url": "https://www.klook.com/search/result/?keyword=Nakhon%20Ratchasima",
+      "sub_id": "nakhon-ratchasima-klook",
+      "shortlink": "https://klook.tpo.lv/KIhgN2xc"
+    },
+    {
+      "slug": "nakhon-ratchasima",
+      "partner": "getyourguide",
+      "url": "https://www.getyourguide.com/s/?q=Nakhon%20Ratchasima%2C%20Thailand&searchSource=1",
+      "sub_id": "nakhon-ratchasima-gyg",
+      "shortlink": "https://getyourguide.tpo.lv/QWIR4T3z"
+    },
+    {
+      "slug": "nakhon-ratchasima",
+      "partner": "twelveGo",
+      "url": "https://12go.asia/en/travel/nakhon-ratchasima",
+      "sub_id": "nakhon-ratchasima-12go",
+      "shortlink": "https://12go.tpo.lv/xPM49Ooq"
+    },
+    {
+      "slug": "nakhon-si-thammarat",
+      "partner": "booking",
+      "url": "https://www.booking.com/searchresults.html?ss=Nakhon%20Si%20Thammarat%2C%20Thailand",
+      "sub_id": "nakhon-si-thammarat-booking",
+      "shortlink": "https://booking.tpo.lv/m3XBxH9C"
+    },
+    {
+      "slug": "nakhon-si-thammarat",
+      "partner": "klook",
+      "url": "https://www.klook.com/search/result/?keyword=Nakhon%20Si%20Thammarat",
+      "sub_id": "nakhon-si-thammarat-klook",
+      "shortlink": "https://klook.tpo.lv/BEialfKW"
+    },
+    {
+      "slug": "nakhon-si-thammarat",
+      "partner": "getyourguide",
+      "url": "https://www.getyourguide.com/s/?q=Nakhon%20Si%20Thammarat%2C%20Thailand&searchSource=1",
+      "sub_id": "nakhon-si-thammarat-gyg",
+      "shortlink": "https://getyourguide.tpo.lv/UpQ2chhp"
+    },
+    {
+      "slug": "nakhon-si-thammarat",
+      "partner": "twelveGo",
+      "url": "https://12go.asia/en/travel/nakhon-si-thammarat",
+      "sub_id": "nakhon-si-thammarat-12go",
+      "shortlink": "https://12go.tpo.lv/ymIPrGau"
+    },
+    {
+      "slug": "nong-khai",
+      "partner": "booking",
+      "url": "https://www.booking.com/searchresults.html?ss=Nong%20Khai%2C%20Thailand",
+      "sub_id": "nong-khai-booking",
+      "shortlink": "https://booking.tpo.lv/IzcbqdCa"
+    },
+    {
+      "slug": "nong-khai",
+      "partner": "klook",
+      "url": "https://www.klook.com/search/result/?keyword=Nong%20Khai",
+      "sub_id": "nong-khai-klook",
+      "shortlink": "https://klook.tpo.lv/q7dOrnvU"
+    },
+    {
+      "slug": "nong-khai",
+      "partner": "getyourguide",
+      "url": "https://www.getyourguide.com/s/?q=Nong%20Khai%2C%20Thailand&searchSource=1",
+      "sub_id": "nong-khai-gyg",
+      "shortlink": "https://getyourguide.tpo.lv/tWW5P5XX"
+    },
+    {
+      "slug": "nong-khai",
+      "partner": "twelveGo",
+      "url": "https://12go.asia/en/travel/nong-khai",
+      "sub_id": "nong-khai-12go",
+      "shortlink": "https://12go.tpo.lv/qm6KEer9"
+    },
+    {
+      "slug": "pai",
+      "partner": "booking",
+      "url": "https://www.booking.com/searchresults.html?ss=Pai%2C%20Thailand",
+      "sub_id": "pai-booking",
+      "shortlink": "https://booking.tpo.lv/sKi8tHi6"
+    },
+    {
+      "slug": "pai",
+      "partner": "klook",
+      "url": "https://www.klook.com/search/result/?keyword=Pai",
+      "sub_id": "pai-klook",
+      "shortlink": "https://klook.tpo.lv/1Zz3pt0C"
+    },
+    {
+      "slug": "pai",
+      "partner": "getyourguide",
+      "url": "https://www.getyourguide.com/s/?q=Pai%2C%20Thailand&searchSource=1",
+      "sub_id": "pai-gyg",
+      "shortlink": "https://getyourguide.tpo.lv/QskRawmx"
+    },
+    {
+      "slug": "pai",
+      "partner": "twelveGo",
+      "url": "https://12go.asia/en/travel/pai",
+      "sub_id": "pai-12go",
+      "shortlink": "https://12go.tpo.lv/0pqtDbf7"
+    },
+    {
+      "slug": "pattaya",
+      "partner": "booking",
+      "url": "https://www.booking.com/searchresults.html?ss=Pattaya%2C%20Thailand",
+      "sub_id": "pattaya-booking",
+      "shortlink": "https://booking.tpo.lv/voAcZRL7"
+    },
+    {
+      "slug": "pattaya",
+      "partner": "klook",
+      "url": "https://www.klook.com/search/result/?keyword=Pattaya",
+      "sub_id": "pattaya-klook",
+      "shortlink": "https://klook.tpo.lv/0776PKKV"
+    },
+    {
+      "slug": "pattaya",
+      "partner": "getyourguide",
+      "url": "https://www.getyourguide.com/s/?q=Pattaya%2C%20Thailand&searchSource=1",
+      "sub_id": "pattaya-gyg",
+      "shortlink": "https://getyourguide.tpo.lv/XL3S0p0C"
+    },
+    {
+      "slug": "pattaya",
+      "partner": "twelveGo",
+      "url": "https://12go.asia/en/travel/pattaya",
+      "sub_id": "pattaya-12go",
+      "shortlink": "https://12go.tpo.lv/DS7mYOSq"
+    },
+    {
+      "slug": "phitsanulok",
+      "partner": "booking",
+      "url": "https://www.booking.com/searchresults.html?ss=Phitsanulok%2C%20Thailand",
+      "sub_id": "phitsanulok-booking",
+      "shortlink": "https://booking.tpo.lv/3l8hQ7tP"
+    },
+    {
+      "slug": "phitsanulok",
+      "partner": "klook",
+      "url": "https://www.klook.com/search/result/?keyword=Phitsanulok",
+      "sub_id": "phitsanulok-klook",
+      "shortlink": "https://klook.tpo.lv/4w7Dr9Mf"
+    },
+    {
+      "slug": "phitsanulok",
+      "partner": "getyourguide",
+      "url": "https://www.getyourguide.com/s/?q=Phitsanulok%2C%20Thailand&searchSource=1",
+      "sub_id": "phitsanulok-gyg",
+      "shortlink": "https://getyourguide.tpo.lv/oTUhnky5"
+    },
+    {
+      "slug": "phitsanulok",
+      "partner": "twelveGo",
+      "url": "https://12go.asia/en/travel/phitsanulok",
+      "sub_id": "phitsanulok-12go",
+      "shortlink": "https://12go.tpo.lv/bLAYax7f"
+    },
+    {
+      "slug": "phuket",
+      "partner": "booking",
+      "url": "https://www.booking.com/searchresults.html?ss=Phuket%2C%20Thailand",
+      "sub_id": "phuket-booking",
+      "shortlink": "https://booking.tpo.lv/dv8EjjhA"
+    },
+    {
+      "slug": "phuket",
+      "partner": "klook",
+      "url": "https://www.klook.com/search/result/?keyword=Phuket",
+      "sub_id": "phuket-klook",
+      "shortlink": "https://klook.tpo.lv/pCBTi39H"
+    },
+    {
+      "slug": "phuket",
+      "partner": "getyourguide",
+      "url": "https://www.getyourguide.com/s/?q=Phuket%2C%20Thailand&searchSource=1",
+      "sub_id": "phuket-gyg",
+      "shortlink": "https://getyourguide.tpo.lv/Snn7mt1S"
+    },
+    {
+      "slug": "phuket",
+      "partner": "twelveGo",
+      "url": "https://12go.asia/en/travel/phuket",
+      "sub_id": "phuket-12go",
+      "shortlink": "https://12go.tpo.lv/BZUyZO8W"
+    },
+    {
+      "slug": "rayong",
+      "partner": "booking",
+      "url": "https://www.booking.com/searchresults.html?ss=Rayong%2C%20Thailand",
+      "sub_id": "rayong-booking",
+      "shortlink": "https://booking.tpo.lv/F3e22RXU"
+    },
+    {
+      "slug": "rayong",
+      "partner": "klook",
+      "url": "https://www.klook.com/search/result/?keyword=Rayong",
+      "sub_id": "rayong-klook",
+      "shortlink": "https://klook.tpo.lv/x9mKLbXv"
+    },
+    {
+      "slug": "rayong",
+      "partner": "getyourguide",
+      "url": "https://www.getyourguide.com/s/?q=Rayong%2C%20Thailand&searchSource=1",
+      "sub_id": "rayong-gyg",
+      "shortlink": "https://getyourguide.tpo.lv/G3bkWWac"
+    },
+    {
+      "slug": "rayong",
+      "partner": "twelveGo",
+      "url": "https://12go.asia/en/travel/rayong",
+      "sub_id": "rayong-12go",
+      "shortlink": "https://12go.tpo.lv/LjskTUyY"
+    },
+    {
+      "slug": "sukhothai",
+      "partner": "booking",
+      "url": "https://www.booking.com/searchresults.html?ss=Sukhothai%2C%20Thailand",
+      "sub_id": "sukhothai-booking",
+      "shortlink": "https://booking.tpo.lv/XHQFvKr3"
+    },
+    {
+      "slug": "sukhothai",
+      "partner": "klook",
+      "url": "https://www.klook.com/search/result/?keyword=Sukhothai",
+      "sub_id": "sukhothai-klook",
+      "shortlink": "https://klook.tpo.lv/EkHyhagm"
+    },
+    {
+      "slug": "sukhothai",
+      "partner": "getyourguide",
+      "url": "https://www.getyourguide.com/s/?q=Sukhothai%2C%20Thailand&searchSource=1",
+      "sub_id": "sukhothai-gyg",
+      "shortlink": "https://getyourguide.tpo.lv/l6C6jID1"
+    },
+    {
+      "slug": "sukhothai",
+      "partner": "twelveGo",
+      "url": "https://12go.asia/en/travel/sukhothai",
+      "sub_id": "sukhothai-12go",
+      "shortlink": "https://12go.tpo.lv/0y2fX7wu"
+    },
+    {
+      "slug": "surat-thani",
+      "partner": "booking",
+      "url": "https://www.booking.com/searchresults.html?ss=Surat%20Thani%2C%20Thailand",
+      "sub_id": "surat-thani-booking",
+      "shortlink": "https://booking.tpo.lv/3Co1acGT"
+    },
+    {
+      "slug": "surat-thani",
+      "partner": "klook",
+      "url": "https://www.klook.com/search/result/?keyword=Surat%20Thani",
+      "sub_id": "surat-thani-klook",
+      "shortlink": "https://klook.tpo.lv/ctDeKOrW"
+    },
+    {
+      "slug": "surat-thani",
+      "partner": "getyourguide",
+      "url": "https://www.getyourguide.com/s/?q=Surat%20Thani%2C%20Thailand&searchSource=1",
+      "sub_id": "surat-thani-gyg",
+      "shortlink": "https://getyourguide.tpo.lv/m2wO7IHb"
+    },
+    {
+      "slug": "surat-thani",
+      "partner": "twelveGo",
+      "url": "https://12go.asia/en/travel/surat-thani",
+      "sub_id": "surat-thani-12go",
+      "shortlink": "https://12go.tpo.lv/AFzHUsWs"
+    },
+    {
+      "slug": "trang",
+      "partner": "booking",
+      "url": "https://www.booking.com/searchresults.html?ss=Trang%2C%20Thailand",
+      "sub_id": "trang-booking",
+      "shortlink": "https://booking.tpo.lv/80R3iFUA"
+    },
+    {
+      "slug": "trang",
+      "partner": "klook",
+      "url": "https://www.klook.com/search/result/?keyword=Trang",
+      "sub_id": "trang-klook",
+      "shortlink": "https://klook.tpo.lv/HBhmrpYV"
+    },
+    {
+      "slug": "trang",
+      "partner": "getyourguide",
+      "url": "https://www.getyourguide.com/s/?q=Trang%2C%20Thailand&searchSource=1",
+      "sub_id": "trang-gyg",
+      "shortlink": "https://getyourguide.tpo.lv/y8GU73g7"
+    },
+    {
+      "slug": "trang",
+      "partner": "twelveGo",
+      "url": "https://12go.asia/en/travel/trang",
+      "sub_id": "trang-12go",
+      "shortlink": "https://12go.tpo.lv/LRYTN4Ic"
+    },
+    {
+      "slug": "trat",
+      "partner": "booking",
+      "url": "https://www.booking.com/searchresults.html?ss=Trat%2C%20Thailand",
+      "sub_id": "trat-booking",
+      "shortlink": "https://booking.tpo.lv/1SLuOlSz"
+    },
+    {
+      "slug": "trat",
+      "partner": "klook",
+      "url": "https://www.klook.com/search/result/?keyword=Trat",
+      "sub_id": "trat-klook",
+      "shortlink": "https://klook.tpo.lv/KeQQg5hQ"
+    },
+    {
+      "slug": "trat",
+      "partner": "getyourguide",
+      "url": "https://www.getyourguide.com/s/?q=Trat%2C%20Thailand&searchSource=1",
+      "sub_id": "trat-gyg",
+      "shortlink": "https://getyourguide.tpo.lv/RA9pHvqo"
+    },
+    {
+      "slug": "trat",
+      "partner": "twelveGo",
+      "url": "https://12go.asia/en/travel/trat",
+      "sub_id": "trat-12go",
+      "shortlink": "https://12go.tpo.lv/qBcxUD3Z"
+    },
+    {
+      "slug": "ubon-ratchathani",
+      "partner": "booking",
+      "url": "https://www.booking.com/searchresults.html?ss=Ubon%20Ratchathani%2C%20Thailand",
+      "sub_id": "ubon-ratchathani-booking",
+      "shortlink": "https://booking.tpo.lv/mMA4AHza"
+    },
+    {
+      "slug": "ubon-ratchathani",
+      "partner": "klook",
+      "url": "https://www.klook.com/search/result/?keyword=Ubon%20Ratchathani",
+      "sub_id": "ubon-ratchathani-klook",
+      "shortlink": "https://klook.tpo.lv/926ivW2P"
+    },
+    {
+      "slug": "ubon-ratchathani",
+      "partner": "getyourguide",
+      "url": "https://www.getyourguide.com/s/?q=Ubon%20Ratchathani%2C%20Thailand&searchSource=1",
+      "sub_id": "ubon-ratchathani-gyg",
+      "shortlink": "https://getyourguide.tpo.lv/TX0vzDki"
+    },
+    {
+      "slug": "ubon-ratchathani",
+      "partner": "twelveGo",
+      "url": "https://12go.asia/en/travel/ubon-ratchathani",
+      "sub_id": "ubon-ratchathani-12go",
+      "shortlink": "https://12go.tpo.lv/JiwYAWZg"
+    },
+    {
+      "slug": "udon-thani",
+      "partner": "booking",
+      "url": "https://www.booking.com/searchresults.html?ss=Udon%20Thani%2C%20Thailand",
+      "sub_id": "udon-thani-booking",
+      "shortlink": "https://booking.tpo.lv/m8kCILfs"
+    },
+    {
+      "slug": "udon-thani",
+      "partner": "klook",
+      "url": "https://www.klook.com/search/result/?keyword=Udon%20Thani",
+      "sub_id": "udon-thani-klook",
+      "shortlink": "https://klook.tpo.lv/sfAs3edK"
+    },
+    {
+      "slug": "udon-thani",
+      "partner": "getyourguide",
+      "url": "https://www.getyourguide.com/s/?q=Udon%20Thani%2C%20Thailand&searchSource=1",
+      "sub_id": "udon-thani-gyg",
+      "shortlink": "https://getyourguide.tpo.lv/KrUTmlf4"
+    },
+    {
+      "slug": "udon-thani",
+      "partner": "twelveGo",
+      "url": "https://12go.asia/en/travel/udon-thani",
+      "sub_id": "udon-thani-12go",
+      "shortlink": "https://12go.tpo.lv/7YWnkawm"
+    }
+  ]
+}

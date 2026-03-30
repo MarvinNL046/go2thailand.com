@@ -1,8 +1,12 @@
 import Link from 'next/link';
+import { withSubId } from '../../lib/affiliates';
+import { useSubId } from '../../lib/useSubId';
 
 const AFFILIATE_REL = 'sponsored nofollow noopener noreferrer';
 
 export default function TravelSecurityAffiliateBlock() {
+  const subId = useSubId();
+
   return (
     <div className="bg-white rounded-2xl shadow-md p-6">
       <span className="section-label font-script text-thailand-gold text-sm">Travel security</span>
@@ -12,7 +16,7 @@ export default function TravelSecurityAffiliateBlock() {
       </p>
       <div className="space-y-3">
         <a
-          href="https://nordvpn.tpo.lv/ekHF1i55"
+          href={withSubId('https://nordvpn.tpo.lv/ekHF1i55', subId)}
           target="_blank"
           rel={AFFILIATE_REL}
           className="block bg-thailand-blue text-white text-center px-4 py-2 rounded-xl font-semibold hover:bg-thailand-blue/90 transition-colors text-sm"
@@ -20,7 +24,7 @@ export default function TravelSecurityAffiliateBlock() {
           NordVPN
         </a>
         <a
-          href="https://nordvpn.tpo.lv/tp12zNjC"
+          href={withSubId('https://nordvpn.tpo.lv/tp12zNjC', subId)}
           target="_blank"
           rel={AFFILIATE_REL}
           className="block bg-surface-dark text-white text-center px-4 py-2 rounded-xl font-semibold hover:bg-surface-dark/90 transition-colors text-sm"

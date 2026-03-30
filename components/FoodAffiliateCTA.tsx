@@ -1,4 +1,6 @@
 import Link from 'next/link';
+import { withSubId } from '../lib/affiliates';
+import { useSubId } from '../lib/useSubId';
 
 const COOKING_CATEGORIES = ['main-dish', 'soup', 'curry', 'salad', 'stir-fry', 'noodle'];
 
@@ -8,6 +10,8 @@ interface FoodAffiliateCTAProps {
 }
 
 export default function FoodAffiliateCTA({ category, dishName }: FoodAffiliateCTAProps) {
+  const subId = useSubId();
+
   if (!COOKING_CATEGORIES.includes(category)) return null;
 
   return (
@@ -20,7 +24,7 @@ export default function FoodAffiliateCTA({ category, dishName }: FoodAffiliateCT
       </p>
       <div className="flex flex-wrap gap-3 mb-3">
         <a
-          href="https://klook.tpo.lv/aq6ZFxvc"
+          href={withSubId('https://klook.tpo.lv/aq6ZFxvc', subId)}
           target="_blank"
           rel="noopener noreferrer sponsored"
           className="inline-flex items-center gap-2 bg-[#FF5722] text-white font-semibold px-5 py-3 rounded-xl hover:bg-[#e64a19] transition-colors"
@@ -28,7 +32,7 @@ export default function FoodAffiliateCTA({ category, dishName }: FoodAffiliateCT
           Cooking Classes on Klook
         </a>
         <a
-          href="https://getyourguide.tpo.lv/GuAFfGGK"
+          href={withSubId('https://getyourguide.tpo.lv/GuAFfGGK', subId)}
           target="_blank"
           rel="noopener noreferrer sponsored"
           className="inline-flex items-center gap-2 bg-[#1B9E3E] text-white font-semibold px-5 py-3 rounded-xl hover:bg-[#157a30] transition-colors"

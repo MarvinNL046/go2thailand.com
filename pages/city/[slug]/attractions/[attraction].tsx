@@ -503,7 +503,7 @@ export default function AttractionDetailPage({ city, attraction }: AttractionDet
                     </p>
                     <div className="flex flex-col sm:flex-row gap-4">
                       <a
-                        href="https://klook.tpo.lv/aq6ZFxvc"
+                        href="https://klook.tpo.lv/aq6ZFxvc?subid=city-attraction"
                         target="_blank"
                         rel="noopener noreferrer"
                         className="flex-1 inline-flex items-center justify-center px-6 py-4 bg-thailand-red text-white font-semibold rounded-xl hover:bg-thailand-red-600 transition-colors shadow-md hover:shadow-xl"
@@ -514,7 +514,7 @@ export default function AttractionDetailPage({ city, attraction }: AttractionDet
                         Book on Klook
                       </a>
                       <a
-                        href="https://getyourguide.tpo.lv/GuAFfGGK"
+                        href="https://getyourguide.tpo.lv/GuAFfGGK?subid=city-attraction"
                         target="_blank"
                         rel="noopener noreferrer"
                         className="flex-1 inline-flex items-center justify-center px-6 py-4 bg-thailand-blue text-white font-semibold rounded-xl hover:bg-thailand-blue-600 transition-colors shadow-md hover:shadow-xl"

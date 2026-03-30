@@ -212,7 +212,7 @@ export default function PracticalInfoDetailPage({ info }: PracticalInfoPageProps
                     : 'Stay connected in Thailand. Order your eSIM before you go.'}
                 </p>
                 <a
-                  href="https://saily.tpo.lv/rf9lidnE"
+                  href="https://saily.tpo.lv/rf9lidnE?subid=practical-info"
                   target="_blank"
                   rel="noopener noreferrer"
                   className="block bg-thailand-blue text-white text-center px-4 py-2 rounded-xl font-semibold hover:bg-thailand-red transition-colors mb-2"
@@ -231,7 +231,7 @@ export default function PracticalInfoDetailPage({ info }: PracticalInfoPageProps
                 </h3>
                 <div className="space-y-3">
                   <a
-                    href="https://booking.tpo.lv/2PT1kR82"
+                    href="https://booking.tpo.lv/2PT1kR82?subid=practical-info"
                     target="_blank"
                     rel="noopener noreferrer"
                     className="block bg-thailand-blue text-white text-center px-4 py-2 rounded-xl font-semibold hover:bg-thailand-red transition-colors text-sm"
@@ -239,7 +239,7 @@ export default function PracticalInfoDetailPage({ info }: PracticalInfoPageProps
                     Booking.com
                   </a>
                   <a
-                    href="https://trip.tpo.lv/TmObooZ5"
+                    href="https://trip.tpo.lv/TmObooZ5?subid=practical-info"
                     target="_blank"
                     rel="noopener noreferrer"
                     className="block bg-thailand-blue text-white text-center px-4 py-2 rounded-xl font-semibold hover:bg-thailand-red transition-colors text-sm"
@@ -257,7 +257,7 @@ export default function PracticalInfoDetailPage({ info }: PracticalInfoPageProps
                 </h3>
                 <div className="space-y-3">
                   <a
-                    href="https://klook.tpo.lv/7Dt6WApj"
+                    href="https://klook.tpo.lv/7Dt6WApj?subid=practical-info"
                     target="_blank"
                     rel="noopener noreferrer"
                     className="block bg-thailand-red text-white text-center px-4 py-2 rounded-xl font-semibold hover:bg-thailand-blue transition-colors text-sm"
@@ -265,7 +265,7 @@ export default function PracticalInfoDetailPage({ info }: PracticalInfoPageProps
                     Klook Activities
                   </a>
                   <a
-                    href="https://getyourguide.tpo.lv/GuAFfGGK"
+                    href="https://getyourguide.tpo.lv/GuAFfGGK?subid=practical-info"
                     target="_blank"
                     rel="noopener noreferrer"
                     className="block bg-thailand-red text-white text-center px-4 py-2 rounded-xl font-semibold hover:bg-thailand-blue transition-colors text-sm"
@@ -284,13 +284,13 @@ export default function PracticalInfoDetailPage({ info }: PracticalInfoPageProps
           title={lang === 'nl' ? 'Plan Je Thailand Reis' : 'Plan Your Thailand Trip'}
           description={lang === 'nl' ? 'Boek hotels, transport en activiteiten' : 'Book hotels, transport and activities'}
           links={[
-            { label: 'Booking.com', href: 'https://booking.tpo.lv/2PT1kR82' },
-            { label: 'Trip.com', href: 'https://trip.tpo.lv/TmObooZ5' },
-            { label: 'Activities', href: 'https://klook.tpo.lv/7Dt6WApj' },
-            { label: 'Transport', href: 'https://12go.tpo.lv/tNA80urD' },
-            { label: 'eSIM', href: 'https://saily.tpo.lv/rf9lidnE' },
-            { label: 'NordVPN', href: 'https://nordvpn.tpo.lv/ekHF1i55' },
-            { label: 'NordPass', href: 'https://nordvpn.tpo.lv/tp12zNjC' },
+            { label: 'Booking.com', href: 'https://booking.tpo.lv/2PT1kR82?subid=practical-info' },
+            { label: 'Trip.com', href: 'https://trip.tpo.lv/TmObooZ5?subid=practical-info' },
+            { label: 'Activities', href: 'https://klook.tpo.lv/7Dt6WApj?subid=practical-info' },
+            { label: 'Transport', href: 'https://12go.tpo.lv/tNA80urD?subid=practical-info' },
+            { label: 'eSIM', href: 'https://saily.tpo.lv/rf9lidnE?subid=practical-info' },
+            { label: 'NordVPN', href: 'https://nordvpn.tpo.lv/ekHF1i55?subid=practical-info' },
+            { label: 'NordPass', href: 'https://nordvpn.tpo.lv/tp12zNjC?subid=practical-info' },
           ]}
         />
       </div>

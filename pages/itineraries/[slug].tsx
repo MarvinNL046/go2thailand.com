@@ -632,7 +632,7 @@ export default function ItineraryPage({ itinerary, relatedItineraries }: Itinera
                     </div>
                     <div className="mt-4">
                       <a
-                        href="https://12go.tpo.lv/tNA80urD"
+                        href="https://12go.tpo.lv/tNA80urD?subid=itinerary"
                         target="_blank"
                         rel="noopener noreferrer"
                         className="inline-block bg-thailand-blue text-white px-6 py-2 rounded-xl font-semibold hover:bg-thailand-red transition-colors text-sm"
@@ -838,34 +838,26 @@ export default function ItineraryPage({ itinerary, relatedItineraries }: Itinera
                     </p>
                     <div className="space-y-3">
                       <a
-                        href="https://booking.tpo.lv/2PT1kR82"
+                        href="https://12go.tpo.lv/tNA80urD?subid=itinerary"
                         target="_blank"
-                        rel="noopener noreferrer"
-                        className="block bg-thailand-blue text-white text-center px-4 py-2 rounded-xl font-semibold hover:bg-thailand-red transition-colors text-sm"
+                        rel="noopener noreferrer sponsored"
+                        className="block bg-[#F59E0B] text-white text-center px-4 py-2 rounded-xl font-semibold hover:bg-[#D97706] transition-colors text-sm"
+                      >
+                        12Go Asia - Buses, Trains & Ferries
+                      </a>
+                      <a
+                        href="https://booking.tpo.lv/2PT1kR82?subid=itinerary"
+                        target="_blank"
+                        rel="noopener noreferrer sponsored"
+                        className="block bg-[#003580] text-white text-center px-4 py-2 rounded-xl font-semibold hover:bg-[#00224f] transition-colors text-sm"
                       >
                         Booking.com - Hotels
                       </a>
                       <a
-                        href="https://trip.tpo.lv/TmObooZ5"
+                        href="https://klook.tpo.lv/7Dt6WApj?subid=itinerary"
                         target="_blank"
-                        rel="noopener noreferrer"
-                        className="block bg-thailand-blue text-white text-center px-4 py-2 rounded-xl font-semibold hover:bg-thailand-red transition-colors text-sm"
-                      >
-                        Trip.com - Hotels & Flights
-                      </a>
-                      <a
-                        href="https://12go.tpo.lv/tNA80urD"
-                        target="_blank"
-                        rel="noopener noreferrer"
-                        className="block bg-thailand-red text-white text-center px-4 py-2 rounded-xl font-semibold hover:bg-thailand-blue transition-colors text-sm"
-                      >
-                        12Go Asia - Transport
-                      </a>
-                      <a
-                        href="https://klook.tpo.lv/7Dt6WApj"
-                        target="_blank"
-                        rel="noopener noreferrer"
-                        className="block bg-thailand-red text-white text-center px-4 py-2 rounded-xl font-semibold hover:bg-thailand-blue transition-colors text-sm"
+                        rel="noopener noreferrer sponsored"
+                        className="block bg-[#FF5722] text-white text-center px-4 py-2 rounded-xl font-semibold hover:bg-[#e64a19] transition-colors text-sm"
                       >
                         Klook - Activities & Tours
                       </a>
@@ -926,7 +918,7 @@ export default function ItineraryPage({ itinerary, relatedItineraries }: Itinera
                       Stay connected during your {itinerary.duration}-day trip. Order your eSIM before you go.
                     </p>
                     <a
-                      href="https://saily.tpo.lv/rf9lidnE"
+                      href="https://saily.tpo.lv/rf9lidnE?subid=itinerary"
                       target="_blank"
                       rel="noopener noreferrer"
                       className="block bg-thailand-blue text-white text-center px-4 py-2 rounded-xl font-semibold hover:bg-thailand-red transition-colors mb-2"
@@ -958,13 +950,13 @@ export default function ItineraryPage({ itinerary, relatedItineraries }: Itinera
           title="Plan Your Thailand Trip"
           description="Book hotels, transport, activities, and get connected with an eSIM"
           links={[
-            { label: 'Booking.com', href: 'https://booking.tpo.lv/2PT1kR82' },
-            { label: 'Trip.com', href: 'https://trip.tpo.lv/TmObooZ5' },
-            { label: 'Activities', href: 'https://klook.tpo.lv/7Dt6WApj' },
-            { label: 'Transport', href: 'https://12go.tpo.lv/tNA80urD' },
-            { label: 'eSIM', href: 'https://saily.tpo.lv/rf9lidnE' },
-            { label: 'NordVPN', href: 'https://nordvpn.tpo.lv/ekHF1i55' },
-            { label: 'NordPass', href: 'https://nordvpn.tpo.lv/tp12zNjC' },
+            { label: 'Booking.com', href: 'https://booking.tpo.lv/2PT1kR82?subid=itinerary' },
+            { label: 'Trip.com', href: 'https://trip.tpo.lv/TmObooZ5?subid=itinerary' },
+            { label: 'Activities', href: 'https://klook.tpo.lv/7Dt6WApj?subid=itinerary' },
+            { label: 'Transport', href: 'https://12go.tpo.lv/tNA80urD?subid=itinerary' },
+            { label: 'eSIM', href: 'https://saily.tpo.lv/rf9lidnE?subid=itinerary' },
+            { label: 'NordVPN', href: 'https://nordvpn.tpo.lv/ekHF1i55?subid=itinerary' },
+            { label: 'NordPass', href: 'https://nordvpn.tpo.lv/tp12zNjC?subid=itinerary' },
           ]}
         />
       </div>

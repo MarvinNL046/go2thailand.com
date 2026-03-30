@@ -162,7 +162,7 @@ export default function TempleDetailPage({ temple, nearbyTemples }: TempleDetail
                   </p>
                   <div className="flex flex-wrap gap-3">
                     <a
-                      href="https://klook.tpo.lv/7Dt6WApj"
+                      href="https://klook.tpo.lv/7Dt6WApj?subid=temples"
                       target="_blank"
                       rel="noopener noreferrer nofollow"
                       className="bg-white text-thailand-blue px-5 py-2.5 rounded-full font-semibold text-sm hover:bg-gray-100 transition-colors"
@@ -170,7 +170,7 @@ export default function TempleDetailPage({ temple, nearbyTemples }: TempleDetail
                       Klook Temple Tours
                     </a>
                     <a
-                      href="https://getyourguide.tpo.lv/GuAFfGGK"
+                      href="https://getyourguide.tpo.lv/GuAFfGGK?subid=temples"
                       target="_blank"
                       rel="noopener noreferrer nofollow"
                       className="bg-white text-thailand-blue px-5 py-2.5 rounded-full font-semibold text-sm hover:bg-gray-100 transition-colors"
@@ -178,7 +178,7 @@ export default function TempleDetailPage({ temple, nearbyTemples }: TempleDetail
                       GetYourGuide
                     </a>
                     <a
-                      href="https://booking.tpo.lv/2PT1kR82"
+                      href="https://booking.tpo.lv/2PT1kR82?subid=temples"
                       target="_blank"
                       rel="noopener noreferrer nofollow"
                       className="bg-white text-thailand-blue px-5 py-2.5 rounded-full font-semibold text-sm hover:bg-gray-100 transition-colors"
@@ -556,7 +556,7 @@ export default function TempleDetailPage({ temple, nearbyTemples }: TempleDetail
             </p>
             <div className="flex flex-wrap justify-center gap-4">
               <a
-                href="https://klook.tpo.lv/7Dt6WApj"
+                href="https://klook.tpo.lv/7Dt6WApj?subid=temples"
                 target="_blank"
                 rel="noopener noreferrer nofollow"
                 className="bg-thailand-gold text-white px-6 py-3 rounded-xl font-semibold hover:bg-thailand-gold/90 transition-colors"
@@ -564,7 +564,7 @@ export default function TempleDetailPage({ temple, nearbyTemples }: TempleDetail
                 Book on Klook
               </a>
               <a
-                href="https://getyourguide.tpo.lv/GuAFfGGK"
+                href="https://getyourguide.tpo.lv/GuAFfGGK?subid=temples"
                 target="_blank"
                 rel="noopener noreferrer nofollow"
                 className="bg-white text-gray-900 px-6 py-3 rounded-xl font-semibold hover:bg-gray-100 transition-colors"
@@ -572,7 +572,7 @@ export default function TempleDetailPage({ temple, nearbyTemples }: TempleDetail
                 GetYourGuide Tours
               </a>
               <a
-                href="https://booking.tpo.lv/2PT1kR82"
+                href="https://booking.tpo.lv/2PT1kR82?subid=temples"
                 target="_blank"
                 rel="noopener noreferrer nofollow"
                 className="bg-white text-gray-900 px-6 py-3 rounded-xl font-semibold hover:bg-gray-100 transition-colors"

@@ -342,7 +342,7 @@ export default function TemplesIndexPage({
             </div>
             <div className="grid sm:grid-cols-2 gap-4 max-w-2xl mx-auto">
               <a
-                href="https://klook.tpo.lv/7Dt6WApj"
+                href="https://klook.tpo.lv/7Dt6WApj?subid=temples"
                 target="_blank"
                 rel="noopener noreferrer nofollow"
                 className="flex items-center justify-between bg-white text-gray-900 px-5 py-4 rounded-xl font-semibold hover:bg-gray-50 transition-colors shadow-sm"
@@ -363,7 +363,7 @@ export default function TemplesIndexPage({
                 </svg>
               </a>
               <a
-                href="https://getyourguide.tpo.lv/GuAFfGGK"
+                href="https://getyourguide.tpo.lv/GuAFfGGK?subid=temples"
                 target="_blank"
                 rel="noopener noreferrer nofollow"
                 className="flex items-center justify-between bg-white text-gray-900 px-5 py-4 rounded-xl font-semibold hover:bg-gray-50 transition-colors shadow-sm"

@@ -965,7 +965,7 @@ export default function CityPage({ city, relatedCities, comparisons, transportLi
                         <h3 className="font-semibold text-gray-900 mb-2">Flight + Hotel</h3>
                         <p className="text-sm text-gray-600 leading-6 mb-4">Save time and often money by bundling the trip basics instead of booking each part separately.</p>
                         <a
-                          href="https://trip.tpo.lv/iP1HSint"
+                          href="https://trip.tpo.lv/iP1HSint?subid=city"
                           target="_blank"
                           rel="noopener noreferrer"
                           className="inline-flex items-center gap-2 text-sm font-semibold text-thailand-red hover:text-thailand-red-600"
@@ -982,7 +982,7 @@ export default function CityPage({ city, relatedCities, comparisons, transportLi
                         <h3 className="font-semibold text-gray-900 mb-2">Airport Transfers</h3>
                         <p className="text-sm text-gray-600 leading-6 mb-4">Useful if you want the easiest arrival flow instead of figuring out transport after a long flight.</p>
                         <a
-                          href="https://trip.tpo.lv/iP1HSint"
+                          href="https://trip.tpo.lv/iP1HSint?subid=city"
                           target="_blank"
                           rel="noopener noreferrer"
                           className="inline-flex items-center gap-2 text-sm font-semibold text-thailand-blue hover:text-cyan-600"
@@ -999,7 +999,7 @@ export default function CityPage({ city, relatedCities, comparisons, transportLi
                         <h3 className="font-semibold text-gray-900 mb-2">Car Rental</h3>
                         <p className="text-sm text-gray-600 leading-6 mb-4">Mostly useful for arrival logistics, day trips, or onward travel beyond {city.name.en} itself.</p>
                         <a
-                          href="https://trip.tpo.lv/fzIWyBhW"
+                          href="https://trip.tpo.lv/fzIWyBhW?subid=city"
                           target="_blank"
                           rel="noopener noreferrer"
                           className="inline-flex items-center gap-2 text-sm font-semibold text-emerald-700 hover:text-teal-600"
@@ -1016,7 +1016,7 @@ export default function CityPage({ city, relatedCities, comparisons, transportLi
                         <h3 className="font-semibold text-gray-900 mb-2">Bus, Train & Ferry</h3>
                         <p className="text-sm text-gray-600 leading-6 mb-4">Best when {city.name.en} is one stop in a broader Thailand route rather than the whole trip.</p>
                         <a
-                          href="https://12go.tpo.lv/tNA80urD"
+                          href="https://12go.tpo.lv/tNA80urD?subid=city"
                           target="_blank"
                           rel="noopener noreferrer"
                           className="inline-flex items-center gap-2 text-sm font-semibold text-violet-700 hover:text-indigo-600"
@@ -1051,7 +1051,7 @@ export default function CityPage({ city, relatedCities, comparisons, transportLi
                     />
                     <div className="mt-4 text-center">
                       <a
-                        href="https://12go.tpo.lv/tNA80urD"
+                        href="https://12go.tpo.lv/tNA80urD?subid=city"
                         target="_blank"
                         rel="noopener noreferrer"
                         className="inline-flex items-center gap-2 rounded-full bg-violet-600 px-6 py-3 font-semibold text-white hover:bg-violet-700 transition-colors"
@@ -1079,13 +1079,13 @@ export default function CityPage({ city, relatedCities, comparisons, transportLi
                     <a
                       href={(() => {
                         const klookLinks: Record<string, string> = {
-                          bangkok: 'https://klook.tpo.lv/FXwAY84o',
-                          phuket: 'https://klook.tpo.lv/7Dt6WApj',
-                          'chiang-mai': 'https://klook.tpo.lv/SrPrBanh',
-                          krabi: 'https://klook.tpo.lv/aq6ZFxvc',
-                          pattaya: 'https://klook.tpo.lv/aq6ZFxvc',
+                          bangkok: 'https://klook.tpo.lv/FXwAY84o?subid=city',
+                          phuket: 'https://klook.tpo.lv/7Dt6WApj?subid=city',
+                          'chiang-mai': 'https://klook.tpo.lv/SrPrBanh?subid=city',
+                          krabi: 'https://klook.tpo.lv/aq6ZFxvc?subid=city',
+                          pattaya: 'https://klook.tpo.lv/aq6ZFxvc?subid=city',
                         };
-                        return klookLinks[city.slug] || 'https://klook.tpo.lv/aq6ZFxvc';
+                        return klookLinks[city.slug] || 'https://klook.tpo.lv/aq6ZFxvc?subid=city';
                       })()}
                       target="_blank"
                       rel="noopener noreferrer"
@@ -1108,13 +1108,13 @@ export default function CityPage({ city, relatedCities, comparisons, transportLi
                     <a
                       href={(() => {
                         const gygLinks: Record<string, string> = {
-                          bangkok: 'https://getyourguide.tpo.lv/PHh5hvej',
-                          phuket: 'https://getyourguide.tpo.lv/8d41f2Fq',
-                          'chiang-mai': 'https://getyourguide.tpo.lv/8d41f2Fq',
-                          krabi: 'https://getyourguide.tpo.lv/GuAFfGGK',
-                          pattaya: 'https://getyourguide.tpo.lv/GuAFfGGK',
+                          bangkok: 'https://getyourguide.tpo.lv/PHh5hvej?subid=city',
+                          phuket: 'https://getyourguide.tpo.lv/8d41f2Fq?subid=city',
+                          'chiang-mai': 'https://getyourguide.tpo.lv/8d41f2Fq?subid=city',
+                          krabi: 'https://getyourguide.tpo.lv/GuAFfGGK?subid=city',
+                          pattaya: 'https://getyourguide.tpo.lv/GuAFfGGK?subid=city',
                         };
-                        return gygLinks[city.slug] || 'https://getyourguide.tpo.lv/GuAFfGGK';
+                        return gygLinks[city.slug] || 'https://getyourguide.tpo.lv/GuAFfGGK?subid=city';
                       })()}
                       target="_blank"
                       rel="noopener noreferrer"

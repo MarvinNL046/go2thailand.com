@@ -504,7 +504,7 @@ export default function ExpatGuide({ data }: ExpatPageProps) {
                   </svg>
                 </Link>
                 <a
-                  href="https://booking.tpo.lv/2PT1kR82"
+                  href="https://booking.tpo.lv/2PT1kR82?subid=expat"
                   target="_blank"
                   rel="noopener noreferrer nofollow"
                   className="flex items-center justify-between bg-white text-gray-900 px-5 py-4 rounded-xl font-semibold hover:bg-gray-50 transition-colors shadow-sm"

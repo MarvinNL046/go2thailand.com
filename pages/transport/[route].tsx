@@ -237,7 +237,7 @@ const TransportRoutePage: React.FC<RoutePageProps> = ({ route, fromCity, toCity,
                       <strong>Frequency:</strong> {option.frequency}
                     </span>
                     <a
-                      href="https://12go.tpo.lv/tNA80urD"
+                      href="https://12go.tpo.lv/tNA80urD?subid=transport-route"
                       target="_blank"
                       rel="noopener noreferrer"
                       className="bg-thailand-red text-white px-4 py-2 rounded-xl text-sm font-medium hover:bg-thailand-red-600 transition-colors"
@@ -386,7 +386,7 @@ const TransportRoutePage: React.FC<RoutePageProps> = ({ route, fromCity, toCity,
                 ))}
               </div>
               <a
-                href="https://12go.tpo.lv/tNA80urD"
+                href="https://12go.tpo.lv/tNA80urD?subid=transport-route"
                 target="_blank"
                 rel="noopener noreferrer"
                 className="block w-full bg-thailand-red text-white text-center py-3 rounded-xl font-semibold hover:bg-thailand-red-600 transition-colors"

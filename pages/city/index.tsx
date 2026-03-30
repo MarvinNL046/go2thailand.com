@@ -290,7 +290,7 @@ export default function CitiesPage({ cities }: CitiesPageProps) {
 
           <div className="grid grid-cols-1 md:grid-cols-3 gap-6 max-w-4xl mx-auto mb-8">
             <a
-              href="https://trip.tpo.lv/TmObooZ5"
+              href="https://trip.tpo.lv/TmObooZ5?subid=city-index"
               target="_blank"
               rel="noopener noreferrer"
               className="flex items-center justify-center gap-2 px-6 py-4 bg-thailand-blue text-white font-medium rounded-xl hover:bg-thailand-blue-600 transition-all shadow-md hover:shadow-lg text-sm"
@@ -300,7 +300,7 @@ export default function CitiesPage({ cities }: CitiesPageProps) {
             </a>
 
             <a
-              href="https://booking.tpo.lv/2PT1kR82"
+              href="https://booking.tpo.lv/2PT1kR82?subid=city-index"
               target="_blank"
               rel="noopener noreferrer"
               className="flex items-center justify-center gap-2 px-6 py-4 bg-blue-700 text-white font-medium rounded-xl hover:bg-blue-800 transition-all shadow-md hover:shadow-lg text-sm"
@@ -310,7 +310,7 @@ export default function CitiesPage({ cities }: CitiesPageProps) {
             </a>
 
             <a
-              href="https://12go.tpo.lv/tNA80urD"
+              href="https://12go.tpo.lv/tNA80urD?subid=city-index"
               target="_blank"
               rel="noopener noreferrer"
               className="flex items-center justify-center gap-2 px-6 py-4 bg-purple-600 text-white font-medium rounded-xl hover:bg-purple-700 transition-all shadow-md hover:shadow-lg text-sm"

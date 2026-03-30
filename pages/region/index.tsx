@@ -232,7 +232,7 @@ export default function RegionsPage({ regions }: RegionsPageProps) {
 
             <div className="grid grid-cols-1 md:grid-cols-3 gap-6 max-w-4xl mx-auto">
               <a
-                href="https://trip.tpo.lv/TmObooZ5"
+                href="https://trip.tpo.lv/TmObooZ5?subid=region"
                 target="_blank"
                 rel="noopener noreferrer"
                 className="flex items-center justify-center px-6 py-4 bg-blue-600 text-white font-semibold rounded-lg hover:bg-blue-700 transition-colors shadow-lg hover:shadow-xl text-center"
@@ -254,7 +254,7 @@ export default function RegionsPage({ regions }: RegionsPageProps) {
               </Link>
 
               <a
-                href="https://12go.tpo.lv/tNA80urD"
+                href="https://12go.tpo.lv/tNA80urD?subid=region"
                 target="_blank"
                 rel="noopener noreferrer"
                 className="flex items-center justify-center px-6 py-4 bg-green-600 text-white font-semibold rounded-lg hover:bg-green-700 transition-colors shadow-lg hover:shadow-xl text-center"

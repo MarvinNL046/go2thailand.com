@@ -321,7 +321,7 @@ export default function VisaDetailPage({ visa }: VisaPageProps) {
                     : 'Stay connected as soon as you land in Thailand'}
                 </p>
                 <a
-                  href="https://saily.tpo.lv/rf9lidnE"
+                  href="https://saily.tpo.lv/rf9lidnE?subid=visa"
                   target="_blank"
                   rel="noopener noreferrer"
                   className="block bg-thailand-blue text-white text-center px-4 py-2 rounded-xl font-semibold hover:bg-thailand-red transition-colors mb-2"
@@ -350,7 +350,7 @@ export default function VisaDetailPage({ visa }: VisaPageProps) {
                 </h3>
                 <div className="space-y-3">
                   <a
-                    href="https://klook.tpo.lv/7Dt6WApj"
+                    href="https://klook.tpo.lv/7Dt6WApj?subid=visa"
                     target="_blank"
                     rel="noopener noreferrer"
                     className="block bg-thailand-red text-white text-center px-4 py-2 rounded-xl font-semibold hover:bg-red-700 transition-colors text-sm"
@@ -358,7 +358,7 @@ export default function VisaDetailPage({ visa }: VisaPageProps) {
                     Klook Activities
                   </a>
                   <a
-                    href="https://getyourguide.tpo.lv/GuAFfGGK"
+                    href="https://getyourguide.tpo.lv/GuAFfGGK?subid=visa"
                     target="_blank"
                     rel="noopener noreferrer"
                     className="block bg-thailand-blue text-white text-center px-4 py-2 rounded-xl font-semibold hover:bg-blue-700 transition-colors text-sm"
@@ -458,13 +458,13 @@ export default function VisaDetailPage({ visa }: VisaPageProps) {
           title={lang === 'nl' ? 'Plan Je Thailand Reis' : 'Plan Your Thailand Trip'}
           description={lang === 'nl' ? 'Boek hotels, transport en activiteiten' : 'Book hotels, transport and activities'}
           links={[
-            { label: 'Booking.com', href: 'https://booking.tpo.lv/2PT1kR82' },
-            { label: 'Trip.com', href: 'https://trip.tpo.lv/TmObooZ5' },
+            { label: 'Booking.com', href: 'https://booking.tpo.lv/2PT1kR82?subid=visa' },
+            { label: 'Trip.com', href: 'https://trip.tpo.lv/TmObooZ5?subid=visa' },
             { label: 'Insurance', href: '/travel-insurance-thailand/', internal: true },
-            { label: 'eSIM', href: 'https://saily.tpo.lv/rf9lidnE' },
-            { label: 'Transport', href: 'https://12go.tpo.lv/tNA80urD' },
-            { label: 'NordVPN', href: 'https://nordvpn.tpo.lv/ekHF1i55' },
-            { label: 'NordPass', href: 'https://nordvpn.tpo.lv/tp12zNjC' },
+            { label: 'eSIM', href: 'https://saily.tpo.lv/rf9lidnE?subid=visa' },
+            { label: 'Transport', href: 'https://12go.tpo.lv/tNA80urD?subid=visa' },
+            { label: 'NordVPN', href: 'https://nordvpn.tpo.lv/ekHF1i55?subid=visa' },
+            { label: 'NordPass', href: 'https://nordvpn.tpo.lv/tp12zNjC?subid=visa' },
           ]}
         />
       </div>

@@ -14,15 +14,15 @@
 // -------------------------------------------------------------------
 
 export const AFFILIATE_LINKS = {
-  booking: "https://booking.tpo.lv/2PT1kR82",
-  klook: "https://klook.tpo.lv/7Dt6WApj",
-  getyourguide: "https://getyourguide.tpo.lv/GuAFfGGK",
-  "12go": "https://12go.tpo.lv/tNA80urD",
-  saily: "https://saily.tpo.lv/rf9lidnE",
-  trip: "https://trip.tpo.lv/TmObooZ5",
-  viator: "https://viator.tpo.lv/TUcQTS5u",
-  nordvpn: "https://nordvpn.tpo.lv/ekHF1i55",
-  nordpass: "https://nordvpn.tpo.lv/tp12zNjC",
+  booking: "https://booking.tpo.lv/2PT1kR82?subid=blog",
+  klook: "https://klook.tpo.lv/7Dt6WApj?subid=blog",
+  getyourguide: "https://getyourguide.tpo.lv/GuAFfGGK?subid=blog",
+  "12go": "https://12go.tpo.lv/tNA80urD?subid=blog",
+  saily: "https://saily.tpo.lv/rf9lidnE?subid=blog",
+  trip: "https://trip.tpo.lv/TmObooZ5?subid=blog",
+  viator: "https://viator.tpo.lv/TUcQTS5u?subid=blog",
+  nordvpn: "https://nordvpn.tpo.lv/ekHF1i55?subid=blog",
+  nordpass: "https://nordvpn.tpo.lv/tp12zNjC?subid=blog",
 } as const;
 
 export type AffiliatePartner = keyof typeof AFFILIATE_LINKS;
@@ -30,14 +30,14 @@ export type AffiliatePartner = keyof typeof AFFILIATE_LINKS;
 // Specific deep links for contextual matching
 export const SPECIFIC_AFFILIATE_LINKS = {
   // Booking.com specific pages
-  "booking-deals": "https://booking.tpo.lv/pDNjHJA1",
-  "booking-flights": "https://booking.tpo.lv/LUkugxWF",
-  "booking-car-rental": "https://booking.tpo.lv/Nmm5XgwI",
+  "booking-deals": "https://booking.tpo.lv/pDNjHJA1?subid=blog",
+  "booking-flights": "https://booking.tpo.lv/LUkugxWF?subid=blog",
+  "booking-car-rental": "https://booking.tpo.lv/Nmm5XgwI?subid=blog",
   // Trip.com specific pages
-  "trip-trains": "https://trip.tpo.lv/gNIdNBmi",
-  "trip-bundles": "https://trip.tpo.lv/L83mcBdE",
-  "trip-airport-transfers": "https://trip.tpo.lv/hY8hOUey",
-  "trip-car-rental": "https://trip.tpo.lv/zGKhdcce",
+  "trip-trains": "https://trip.tpo.lv/gNIdNBmi?subid=blog",
+  "trip-bundles": "https://trip.tpo.lv/L83mcBdE?subid=blog",
+  "trip-airport-transfers": "https://trip.tpo.lv/hY8hOUey?subid=blog",
+  "trip-car-rental": "https://trip.tpo.lv/zGKhdcce?subid=blog",
 } as const;
 
 // -------------------------------------------------------------------
@@ -59,25 +59,25 @@ const AFFILIATE_RULES: AffiliateRule[] = [
     pattern: /\b(car rental|rent a car|hire a car|rental car)\b/i,
     partner: "booking" as AffiliatePartner,
     linkText: "Rent a Car on Booking.com",
-    overrideUrl: "https://booking.tpo.lv/Nmm5XgwI",
+    overrideUrl: "https://booking.tpo.lv/Nmm5XgwI?subid=blog",
   },
   {
     pattern: /\b(airport transfer|airport shuttle|airport taxi|airport pickup|airport drop)\b/i,
     partner: "trip" as AffiliatePartner,
     linkText: "Book Airport Transfer",
-    overrideUrl: "https://trip.tpo.lv/hY8hOUey",
+    overrideUrl: "https://trip.tpo.lv/hY8hOUey?subid=blog",
   },
   {
     pattern: /\b(train to|train from|Thai train|railway|train route|train station|Hua Lamphong|Bang Sue)\b/i,
     partner: "trip" as AffiliatePartner,
     linkText: "Book Train on Trip.com",
-    overrideUrl: "https://trip.tpo.lv/gNIdNBmi",
+    overrideUrl: "https://trip.tpo.lv/gNIdNBmi?subid=blog",
   },
   {
     pattern: /\b(hotel.*deal|travel deal|best deal|discount hotel|cheap hotel|hotel offer|last.?minute)\b/i,
     partner: "booking" as AffiliatePartner,
     linkText: "See Deals on Booking.com",
-    overrideUrl: "https://booking.tpo.lv/pDNjHJA1",
+    overrideUrl: "https://booking.tpo.lv/pDNjHJA1?subid=blog",
   },
   // eSIM / SIM Card → Saily
   {
@@ -211,7 +211,7 @@ const CTA_BOXES: CtaBox[] = [
     heading: "Rent a Car in Thailand",
     body: "Compare car rental prices across Thailand. Pick up at airports or city locations with flexible cancellation.",
     cta: "Compare Car Rentals →",
-    overrideUrl: "https://booking.tpo.lv/Nmm5XgwI",
+    overrideUrl: "https://booking.tpo.lv/Nmm5XgwI?subid=blog",
   },
   {
     partner: "trip" as AffiliatePartner,
@@ -219,7 +219,7 @@ const CTA_BOXES: CtaBox[] = [
     heading: "Book Train Tickets in Thailand",
     body: "Thai railway tickets from Bangkok to Chiang Mai, Hua Hin, and beyond. Book online, skip the queue.",
     cta: "Book Train Tickets →",
-    overrideUrl: "https://trip.tpo.lv/gNIdNBmi",
+    overrideUrl: "https://trip.tpo.lv/gNIdNBmi?subid=blog",
   },
   {
     partner: "trip" as AffiliatePartner,
@@ -227,7 +227,7 @@ const CTA_BOXES: CtaBox[] = [
     heading: "Airport Transfers in Thailand",
     body: "Pre-book your airport pickup in Bangkok, Phuket, or Chiang Mai. No haggling, fixed prices.",
     cta: "Book Airport Transfer →",
-    overrideUrl: "https://trip.tpo.lv/hY8hOUey",
+    overrideUrl: "https://trip.tpo.lv/hY8hOUey?subid=blog",
   },
 ];
 
