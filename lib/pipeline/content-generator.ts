@@ -500,21 +500,40 @@ async function loadSitemapLinks(): Promise<string> {
       if (!p || p === "/") continue;
       const section = p.split("/")[1] || "other";
       if (!groups[section]) groups[section] = [];
-      if (groups[section].length < 12) {
+      if (groups[section].length < 15) {
         groups[section].push(url);
       }
     }
+
+    // Build descriptive anchor text from URL structure
+    const buildAnchor = (url: string, section: string): string => {
+      const parts = url.split("/").filter(Boolean);
+      const lastPart = parts[parts.length - 1] || section;
+      const name = lastPart.replace(/-/g, " ").replace(/\b\w/g, (c: string) => c.toUpperCase());
+      // Add section context for richer anchor text
+      const sectionLabels: Record<string, string> = {
+        city: "travel guide",
+        islands: "island guide",
+        food: "food guide",
+        blog: "",
+        compare: "comparison",
+        region: "region guide",
+        visa: "",
+        "practical-info": "",
+      };
+      const label = sectionLabels[section];
+      if (label && !name.toLowerCase().includes("guide") && !name.toLowerCase().includes(section)) {
+        return `${name} ${label}`;
+      }
+      return name;
+    };
 
     let result = "";
     for (const [section, urls] of Object.entries(groups)) {
       if (urls.length === 0) continue;
       result += `${section}:\n`;
       for (const url of urls) {
-        const parts = url.split("/").filter(Boolean);
-        const lastPart = parts[parts.length - 1] || section;
-        const anchor = lastPart
-          .replace(/-/g, " ")
-          .replace(/\b\w/g, (c) => c.toUpperCase());
+        const anchor = buildAnchor(url, section);
         result += `- [${anchor}](${url})\n`;
       }
       result += "\n";
@@ -735,49 +754,52 @@ RULES:
 - The tip widget text should be a short, practical piece of advice (1-2 sentences max)
 - ALWAYS use HTML comment syntax <!-- WIDGET:type --> — NEVER write WIDGET as plain text, list item, or markdown
 
-8. FAQ SECTION (end of article):
+8. FAQ SECTION (end of article — optimized for Google rich snippets):
 \`\`\`markdown
 ## Frequently Asked Questions
 
 ### Question one here?
-Answer here.
+Answer here in 2-3 concise sentences. Include a specific detail or number.
 
 ### Question two here?
-Answer here.
+Answer here. Link to a relevant internal page for more detail.
 \`\`\`
-3-5 questions matching common Google search queries.
+5-7 questions matching REAL Google "People Also Ask" queries for this topic. Write questions as users would actually type them (e.g., "How much does it cost to visit Koh Samui?" not "Cost information"). Keep answers concise (2-4 sentences) but include at least one specific fact per answer.
 
 9. CONCLUSION:
 Summarize key points, include a clear CTA linking to a relevant go2-thailand.com page, and a trust statement.
 
 ---
 
-INTERNAL LINKING (critical for SEO — MANDATORY: include 5-8 internal links naturally woven throughout the body):
-- Spread links across the article — do NOT put all links in the conclusion
-- Use natural anchor text (e.g., "Bangkok" not "click here")
-- EVERY internal link MUST have a full URL. NEVER write [Link Text] without (https://go2-thailand.com/...). If you're unsure of the URL, use the closest match from the sitemap above or omit the link entirely.
-- Link city mentions to city guide pages: e.g., [Bangkok](https://go2-thailand.com/city/bangkok/)
+INTERNAL LINKING (critical for SEO — MANDATORY: include 10-15 internal links naturally woven throughout the body):
+- Spread links EVENLY across ALL sections — every H2 section should have at least 1 internal link
+- Use DESCRIPTIVE, keyword-rich anchor text — e.g., "our Bangkok travel guide" or "top things to do in Chiang Mai", NOT just "Bangkok" or "click here"
+- Vary anchor text: mix exact city names with longer phrases like "plan your trip to [city]" or "read our [topic] guide"
+- EVERY internal link MUST have a full URL starting with https://go2-thailand.com/. If you're unsure of the URL, use the closest match from the sitemap below or omit the link entirely.
+- Link city mentions to city guide pages: e.g., [explore our Bangkok travel guide](https://go2-thailand.com/city/bangkok/)
 - Link food mentions to food pages: e.g., [Thai street food guide](https://go2-thailand.com/food/)
-- Link island mentions to island pages: e.g., [Koh Samui](https://go2-thailand.com/islands/koh-samui/)
-- Link visa/entry mentions to: [Thailand visa guide](https://go2-thailand.com/visa/)
-- Link transport mentions to practical info: [Getting around Thailand](https://go2-thailand.com/practical-info/)
+- Link island mentions to island pages: e.g., [Koh Samui island guide](https://go2-thailand.com/islands/koh-samui/)
+- Link visa/entry mentions to: [Thailand visa requirements](https://go2-thailand.com/visa/)
+- Link transport mentions to practical info: [getting around Thailand](https://go2-thailand.com/practical-info/)
 - Link eSIM/connectivity mentions to: [Thailand eSIM guide](https://go2-thailand.com/esim/)
-- Pick additional RELEVANT links from the sitemap below
+- Link to RELEVANT blog posts from the sitemap — e.g., if discussing budget, link to a budget blog post
+- DO NOT link the same URL twice with the same anchor text — vary it
 
 Available internal links (use the most relevant ones):
 ${sitemapLinks}
 ${widgetReference ? `\nWRITER REFERENCE (additional context):\n${widgetReference}\n` : ''}
 ---
 
-E-E-A-T SIGNALS (critical for Google trust):
-- EXPERIENCE: Reference hands-on visits ("When we explored...", "Our team spent a week...")
-- EXPERTISE: Use precise, accurate details — prices in THB, distances in km, specific venue names
-- AUTHORITATIVENESS: Cite credible sources (TAT, Lonely Planet, local news) in Did You Know callouts
-- TRUSTWORTHINESS: Be honest about negatives and tourist traps. Say "avoid" when necessary.
-- Every statistic MUST have a source cited.
+E-E-A-T SIGNALS (critical for Google trust and AdSense approval):
+- EXPERIENCE: Every 2-3 sections, include a specific first-person observation ("When we explored...", "Our team spent a week...", "During our last visit in [month]..."). Make these SPECIFIC, not generic — mention weather, crowds, a particular moment.
+- EXPERTISE: Use precise, accurate details — prices in THB and USD, distances in km, travel times. Show deep knowledge of the topic.
+- AUTHORITATIVENESS: Cite 3-5 credible external sources throughout (TAT, Lonely Planet, local news, UNESCO, official sites). Each "Did You Know" callout MUST have a verifiable source.
+- TRUSTWORTHINESS: Be honest about negatives, tourist traps, and when something is overrated. Include a "What to avoid" or "Common mistakes" paragraph. Transparency builds trust.
+- Every statistic MUST have a source cited inline or in a callout.
+- DISCLOSURE: If the article mentions booking anything, include one sentence like: "We may earn a small commission from bookings made through our links, at no extra cost to you. This helps us keep creating free travel guides."
 
 EXTERNAL LINKING:
-Include 3-5 credible external links (TAT, Lonely Planet, bangkokpost.com, tourismthailand.org, official venue websites).
+Include 3-5 credible external links (TAT, Lonely Planet, bangkokpost.com, tourismthailand.org, official venue websites). Open external links in new tabs with target="_blank".
 
 ---
 
@@ -814,8 +836,8 @@ STATISTICS & NUMBERS FACT-CHECK (MANDATORY — apply to EVERY number you write):
 
 ---
 
-TARGET LENGTH: 1800-2500 words of body content (excluding frontmatter).
-TONE: Knowledgeable, warm, practical — like advice from a well-traveled friend who knows Thailand deeply.
+TARGET LENGTH: 2500-3500 words of body content (excluding frontmatter). Longer posts rank better — aim for comprehensive coverage.
+TONE: Knowledgeable, warm, practical — like advice from a well-traveled friend who knows Thailand deeply. Avoid generic AI-sounding phrases like "Whether you're a budget backpacker or luxury traveler" or "Thailand has something for everyone". Be specific and opinionated.
 ${contextSection}
 
 RESPOND WITH THE COMPLETE BLOG POST — frontmatter + Markdown body only. No preamble, no explanation.`;

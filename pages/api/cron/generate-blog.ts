@@ -38,13 +38,8 @@ export default async function handler(
       console.warn(`[fact-check]   ⚠ ${claim.type.toUpperCase()}: "${claim.value}"`);
     }
 
-    // Inject fact-check metadata into frontmatter (before the closing ---)
-    if (factCheck.unverifiedClaims.length > 0) {
-      post.content = post.content.replace(
-        /^(---\s*\n[\s\S]*?)(---)/,
-        `$1factCheck:\n  status: "needs-review"\n  flaggedClaims: ${factCheck.unverifiedClaims.length}\n  riskLevel: "${factCheck.riskLevel}"\n$2`
-      );
-    }
+    // Log fact-check results but do NOT inject into published frontmatter
+    // (fact-check metadata in published posts hurts AdSense/SEO perception)
 
     // 3. Collect files to commit
     const filesToCommit: Array<{ path: string; content: string; encoding?: "utf-8" | "base64" }> = [];
