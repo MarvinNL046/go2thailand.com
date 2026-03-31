@@ -12,6 +12,7 @@ import ExitIntentPopup from '../components/ExitIntentPopup';
 import PushBanner from '../components/PushBanner';
 import Hreflang from '../components/Hreflang';
 import { ToastProvider } from '../components/Toast';
+import { Analytics } from '@vercel/analytics/react';
 import '../styles/globals.css';
 
 export default function App({ Component, pageProps }: AppProps) {
@@ -97,6 +98,7 @@ export default function App({ Component, pageProps }: AppProps) {
           <ExitIntentPopup />
         </div>
       </ToastProvider>
+      <Analytics />
     </>
   );
 }
