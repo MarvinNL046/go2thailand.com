@@ -101,7 +101,7 @@ export default function EmailCapture({
       <div className={`${className}`}>
         <h3 className="text-lg font-bold font-heading text-gray-900 mb-1">{h}</h3>
         <p className="text-sm text-gray-600 mb-3">{s}</p>
-        <form onSubmit={handleSubmit} className="flex gap-2">
+        <form onSubmit={handleSubmit} className="flex flex-col sm:flex-row gap-2">
           <input
             type="email"
             value={email}
@@ -134,7 +134,7 @@ export default function EmailCapture({
           <h3 className="text-lg font-bold font-heading text-gray-900 mb-1">{h}</h3>
           <p className="text-sm text-gray-600">{s}</p>
         </div>
-        <form onSubmit={handleSubmit} className="flex gap-2 sm:min-w-[320px]">
+        <form onSubmit={handleSubmit} className="flex flex-col sm:flex-row gap-2 sm:min-w-[320px]">
           <input
             type="email"
             value={email}

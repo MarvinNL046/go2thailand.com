@@ -127,7 +127,7 @@ export default function Home({ cities, featuredCities, popularDishes }: HomeProp
         <div className="container-custom">
           <div className="grid lg:grid-cols-2 gap-8 lg:gap-12 items-center min-h-[85vh] sm:min-h-[70vh] lg:min-h-[600px] py-12 lg:py-0">
             {/* Left — Text */}
-            <div className="order-2 lg:order-1 text-center lg:text-left">
+            <div className="order-2 lg:order-1 text-center lg:text-left overflow-hidden">
               <span className="section-label">{t('hero.landOfSmiles') || 'Land of Smiles'}</span>
               <h1 className="font-heading text-4xl sm:text-5xl lg:text-6xl xl:text-7xl font-bold text-gray-900 mb-6 leading-tight">
                 {t('hero.title')}
