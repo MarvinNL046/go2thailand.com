@@ -1,10 +1,12 @@
 import { useState } from 'react';
 import Link from 'next/link';
+import { useRouter } from 'next/router';
 import AnnouncementBar from './AnnouncementBar';
 import { useTranslation } from '../hooks/useTranslation';
 import { useToast } from './Toast';
 
 const Footer = () => {
+  const { locale } = useRouter();
   const currentYear = new Date().getFullYear();
   const { t } = useTranslation('common');
   const toast = useToast();
@@ -19,7 +21,7 @@ const Footer = () => {
       const res = await fetch('/api/subscribe', {
         method: 'POST',
         headers: { 'Content-Type': 'application/json' },
-        body: JSON.stringify({ email }),
+        body: JSON.stringify({ email, site: 'go2thailand', locale: locale || 'en' }),
       });
       if (!res.ok) throw new Error();
       setStatus('success');
