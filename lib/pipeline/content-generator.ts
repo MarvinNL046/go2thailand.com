@@ -211,10 +211,10 @@ async function getNextQueuedTopic(): Promise<(QueuedTopic & { category: PostCate
       return n;
     };
 
-    // Check if a normalized word matches anywhere in the slug (also normalized per segment)
+    // Check if a normalized word matches a slug segment (exact segment match only, no substring)
     const wordMatchesSlug = (word: string, slug: string): boolean => {
       const nWord = normalize(word);
-      return slug.split("-").some((seg) => normalize(seg) === nWord || seg.includes(nWord) || nWord.includes(seg));
+      return slug.split("-").some((seg) => normalize(seg) === nWord);
     };
 
     for (const item of sorted) {
@@ -231,14 +231,19 @@ async function getNextQueuedTopic(): Promise<(QueuedTopic & { category: PostCate
         .filter((w) => !STOP_WORDS.has(w) && w.length > 2);
 
       // Check if any existing slug matches:
-      // - 70%+ of keyword words match (was: ALL), OR
-      // - 3+ topic words match AND 40%+ ratio (was: 50%)
+      // - Keyword match: need ALL keyword words to match (exact topic duplicate)
+      // - Topic match: 4+ words AND 50%+ ratio (broader title match)
+      // - Skip matching for very short keywords (1 word) — too many false positives
       const alreadyPublished = existingSlugList.some((slug) => {
         const keywordMatchCount = keywordWords.filter((word) => wordMatchesSlug(word, slug)).length;
         const keywordMatchRatio = keywordWords.length > 0 ? keywordMatchCount / keywordWords.length : 0;
         const topicMatchCount = topicWords.filter((word) => wordMatchesSlug(word, slug)).length;
         const topicMatchRatio = topicWords.length > 0 ? topicMatchCount / topicWords.length : 0;
-        return (keywordMatchRatio >= 0.7) || (topicMatchCount >= 3 && topicMatchRatio >= 0.4);
+        // For short keywords (1-2 words), require exact match
+        if (keywordWords.length <= 2) {
+          return keywordMatchRatio === 1.0;
+        }
+        return (keywordMatchRatio >= 0.85) || (topicMatchCount >= 4 && topicMatchRatio >= 0.5);
       });
 
       if (!alreadyPublished) {
