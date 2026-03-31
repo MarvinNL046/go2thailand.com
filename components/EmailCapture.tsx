@@ -1,5 +1,6 @@
 import { useState } from 'react';
 import { useRouter } from 'next/router';
+import { useToast } from './Toast';
 
 type Variant = 'inline' | 'sidebar' | 'hero';
 
@@ -19,6 +20,7 @@ export default function EmailCapture({
   className = '',
 }: EmailCaptureProps) {
   const { locale } = useRouter();
+  const toast = useToast();
   const [email, setEmail] = useState('');
   const [status, setStatus] = useState<'idle' | 'loading' | 'success' | 'error'>('idle');
 
@@ -58,6 +60,7 @@ export default function EmailCapture({
       if (!res.ok) throw new Error();
       setStatus('success');
       setEmail('');
+      toast.success("You're subscribed! Welcome aboard.");
     } catch {
       setStatus('error');
     }
