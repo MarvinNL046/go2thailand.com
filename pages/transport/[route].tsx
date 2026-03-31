@@ -10,6 +10,7 @@ import Breadcrumbs from '../../components/Breadcrumbs';
 import TripcomWidget from '../../components/TripcomWidget';
 import AffiliateWidget from '../../components/AffiliateWidget';
 import InlineAd from '../../components/ads/InlineAd';
+import { cityAffiliates, islandAffiliateMap, TWELVEGO_GENERIC, withSubId } from '../../lib/affiliates';
 import transportRoutes from '../../data/transport-routes.json';
 import citiesData from '../../data/cities/index.json';
 
@@ -31,6 +32,7 @@ interface RoutePageProps {
   toCity: any;
   transportOptions: TransportOption[];
   comparisonSlug: string | null;
+  twelveGoUrl: string;
 }
 
 const getTransportIcon = (method: string) => {
@@ -49,7 +51,7 @@ const getComfortStars = (rating: number) => {
   return '*'.repeat(rating) + '-'.repeat(5 - rating);
 };
 
-const TransportRoutePage: React.FC<RoutePageProps> = ({ route, fromCity, toCity, transportOptions, comparisonSlug }) => {
+const TransportRoutePage: React.FC<RoutePageProps> = ({ route, fromCity, toCity, transportOptions, comparisonSlug, twelveGoUrl }) => {
   const { locale } = useRouter();
 
   const breadcrumbs = [
@@ -237,7 +239,7 @@ const TransportRoutePage: React.FC<RoutePageProps> = ({ route, fromCity, toCity,
                       <strong>Frequency:</strong> {option.frequency}
                     </span>
                     <a
-                      href="https://12go.tpo.lv/tNA80urD?subid=transport-route"
+                      href={twelveGoUrl}
                       target="_blank"
                       rel="noopener noreferrer"
                       className="bg-thailand-red text-white px-4 py-2 rounded-xl text-sm font-medium hover:bg-thailand-red-600 transition-colors"
@@ -386,7 +388,7 @@ const TransportRoutePage: React.FC<RoutePageProps> = ({ route, fromCity, toCity,
                 ))}
               </div>
               <a
-                href="https://12go.tpo.lv/tNA80urD?subid=transport-route"
+                href={twelveGoUrl}
                 target="_blank"
                 rel="noopener noreferrer"
                 className="block w-full bg-thailand-red text-white text-center py-3 rounded-xl font-semibold hover:bg-thailand-red-600 transition-colors"
@@ -711,13 +713,20 @@ export const getStaticProps: GetStaticProps<RoutePageProps> = async ({ params })
     }
   }
 
+  // Resolve 12Go deep link: try destination city first, then origin, then island mapping, then generic
+  const destAffiliates = cityAffiliates[route.to] || cityAffiliates[islandAffiliateMap[route.to] || ''];
+  const originAffiliates = cityAffiliates[route.from] || cityAffiliates[islandAffiliateMap[route.from] || ''];
+  const twelveGoBase = destAffiliates?.twelveGo || originAffiliates?.twelveGo || TWELVEGO_GENERIC;
+  const twelveGoUrl = withSubId(twelveGoBase, `transport-${route.slug}`);
+
   return {
     props: {
       route,
       fromCity,
       toCity,
       transportOptions,
-      comparisonSlug
+      comparisonSlug,
+      twelveGoUrl
     },
     revalidate: 604800
   };
