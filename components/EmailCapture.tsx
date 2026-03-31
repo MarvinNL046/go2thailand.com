@@ -58,23 +58,13 @@ export default function EmailCapture({
         body: JSON.stringify({ email, site: 'go2thailand', locale: locale || 'en' }),
       });
       if (!res.ok) throw new Error();
-      setStatus('success');
+      setStatus('idle');
       setEmail('');
       toast.success("You're subscribed! Welcome aboard.");
     } catch {
       setStatus('error');
     }
   };
-
-  if (status === 'success') {
-    return (
-      <div className={`rounded-2xl p-6 text-center ${variant === 'sidebar' ? 'bg-surface-dark text-white' : 'bg-green-50 border border-green-200'} ${className}`}>
-        <div className="text-2xl mb-2">✓</div>
-        <p className={`font-semibold ${variant === 'sidebar' ? 'text-white' : 'text-green-800'}`}>You&apos;re subscribed!</p>
-        <p className={`text-sm mt-1 ${variant === 'sidebar' ? 'text-white/80' : 'text-green-600'}`}>Check your inbox for Thailand travel tips.</p>
-      </div>
-    );
-  }
 
   if (variant === 'sidebar') {
     return (
