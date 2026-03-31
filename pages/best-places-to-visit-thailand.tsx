@@ -2,6 +2,7 @@ import { GetStaticProps } from 'next';
 import Link from 'next/link';
 import SEOHead from '../components/SEOHead';
 import Breadcrumbs from '../components/Breadcrumbs';
+import EmailCapture from '../components/EmailCapture';
 
 interface City {
   slug: string;
@@ -92,6 +93,10 @@ export default function BestPlacesPage({ cities }: PageProps) {
             ))}
           </div>
         </section>
+        {/* Email Capture */}
+        <div className="max-w-6xl mx-auto px-4 py-4">
+          <EmailCapture heading="Want more destination tips?" subtext="Get our weekly newsletter with hidden gems, budget hacks, and insider guides for Thailand." />
+        </div>
         {/* Explore More */}
         <section className="bg-white py-12">
           <div className="max-w-6xl mx-auto px-4">

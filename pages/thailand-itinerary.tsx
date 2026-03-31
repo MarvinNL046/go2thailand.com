@@ -2,6 +2,7 @@ import { GetStaticProps } from 'next';
 import Link from 'next/link';
 import SEOHead from '../components/SEOHead';
 import Breadcrumbs from '../components/Breadcrumbs';
+import EmailCapture from '../components/EmailCapture';
 
 interface ItineraryItem {
   slug: string;
@@ -102,6 +103,8 @@ export default function ThailandItineraryPage({ itineraries }: PageProps) {
                 </div>
               </div>
             </section>
+
+            <EmailCapture heading="Planning your trip?" subtext="Get our free itinerary planner tips and hidden-gem routes delivered weekly." />
 
             {itineraries.length > 0 && (
               <section className="mb-12">

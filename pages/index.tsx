@@ -9,6 +9,7 @@ import CityCard from '../components/CityCard';
 import TripcomWidget from '../components/TripcomWidget';
 import AnimatedCounter from '../components/AnimatedCounter';
 import { AirplaneDecoration, CloudDecoration } from '../components/decorations';
+import EmailCapture from '../components/EmailCapture';
 import { useScrollAnimation } from '../hooks/useScrollAnimation';
 import { useTranslation } from '../hooks/useTranslation';
 
@@ -137,7 +138,7 @@ export default function Home({ cities, featuredCities, popularDishes }: HomeProp
               <p className="text-base text-gray-500 mb-8 max-w-lg mx-auto lg:mx-0">
                 {t('hero.seoIntro')}
               </p>
-              <div className="flex flex-col sm:flex-row gap-4 justify-center lg:justify-start">
+              <div className="flex flex-col sm:flex-row gap-4 justify-center lg:justify-start mb-6">
                 <Link href="/city/" className="btn-primary">
                   {t('buttons.exploreCities')}
                   <svg className="w-4 h-4" fill="none" stroke="currentColor" viewBox="0 0 24 24">
@@ -148,6 +149,7 @@ export default function Home({ cities, featuredCities, popularDishes }: HomeProp
                   {t('hero.featuredDestinations')}
                 </Link>
               </div>
+              <EmailCapture variant="hero" className="max-w-lg mx-auto lg:mx-0" />
             </div>
 
             {/* Right — Image slider */}

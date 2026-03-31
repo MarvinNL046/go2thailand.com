@@ -13,6 +13,7 @@ import LastUpdated from '../../components/blog/LastUpdated';
 import RelatedPosts from '../../components/blog/RelatedPosts';
 import TravelSecurityAffiliateBlock from '../../components/blog/TravelSecurityAffiliateBlock';
 import ShareButtons from '../../components/ShareButtons';
+import EmailCapture from '../../components/EmailCapture';
 import InlineAd from '../../components/ads/InlineAd';
 import { getAllPosts, getPostBySlug, getRelatedPosts } from '../../lib/blog';
 
@@ -310,19 +311,7 @@ export default function BlogPostPage({ post, relatedPosts }: BlogPostPageProps) 
               <aside className="lg:col-span-4 lg:self-start">
                 <div className="lg:sticky lg:top-4 space-y-6">
                 {/* Newsletter */}
-                <div className="bg-surface-dark text-white rounded-2xl p-6">
-                  <span className="section-label font-script text-thailand-gold text-sm">Stay in the loop</span>
-                  <h3 className="text-xl font-bold font-heading mb-2">Get Thailand Updates</h3>
-                  <p className="mb-4 text-sm opacity-90">Weekly travel tips and guides</p>
-                  <input
-                    type="email"
-                    placeholder="Your email"
-                    className="w-full px-4 py-2 rounded-xl text-gray-900 mb-3"
-                  />
-                  <button className="w-full bg-thailand-red text-white font-medium py-2 rounded-xl hover:bg-thailand-red/90">
-                    Subscribe
-                  </button>
-                </div>
+                <EmailCapture variant="sidebar" />
 
                 {/* Related Posts */}
                 {relatedPosts.length > 0 && (

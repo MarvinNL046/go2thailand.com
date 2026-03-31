@@ -2,6 +2,7 @@ import { GetStaticProps } from 'next';
 import Link from 'next/link';
 import SEOHead from '../components/SEOHead';
 import Breadcrumbs from '../components/Breadcrumbs';
+import EmailCapture from '../components/EmailCapture';
 
 const topCitiesStatic = [
   { slug: 'bangkok', name: 'Bangkok' },
@@ -149,6 +150,8 @@ export default function ThailandTravelGuide({ topCities, itineraryCount }: Trave
                 Explore all Thai islands →
               </Link>
             </section>
+
+            <EmailCapture heading="Enjoying this guide?" subtext="Get weekly Thailand travel tips, hidden gems, and budget hacks — straight to your inbox." />
 
             <section id="itineraries" className="mb-12">
               <h2 className="text-3xl font-bold font-heading text-gray-900 mb-4">Thailand Itineraries</h2>

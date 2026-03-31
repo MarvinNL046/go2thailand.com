@@ -1,6 +1,7 @@
 import SEOHead from '../components/SEOHead';
 import Breadcrumbs from '../components/Breadcrumbs';
 import Link from 'next/link';
+import EmailCapture from '../components/EmailCapture';
 
 const classicRoute = [
   { city: 'Bangkok', nights: '2–3 nights', desc: 'Start here. Temples, street food, markets, and nightlife. The pulse of Thailand.' },
@@ -93,6 +94,8 @@ export default function ThailandForFirstTimers() {
                 Browse ready-made itineraries →
               </Link>
             </section>
+
+            <EmailCapture heading="First time in Thailand?" subtext="Get our free starter guide with must-knows, packing tips, and budget hacks — delivered to your inbox." />
 
             <section className="mb-12">
               <h2 className="text-2xl font-bold font-heading text-gray-900 mb-6">What to Know Before You Go</h2>

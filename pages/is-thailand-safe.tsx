@@ -1,6 +1,7 @@
 import SEOHead from '../components/SEOHead';
 import Breadcrumbs from '../components/Breadcrumbs';
 import Link from 'next/link';
+import EmailCapture from '../components/EmailCapture';
 
 const faqItems = [
   {
@@ -87,6 +88,8 @@ export default function IsThailandSafePage() {
                 </div>
               ))}
             </div>
+
+            <EmailCapture heading="Stay safe in Thailand" subtext="Get weekly tips on safety, scams to avoid, and insider advice from experienced travelers." />
 
             <h2 className="text-2xl font-bold font-heading text-gray-900 mb-4">Frequently Asked Questions</h2>
             <div className="space-y-6 mb-12">
