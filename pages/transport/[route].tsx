@@ -13,6 +13,7 @@ import InlineAd from '../../components/ads/InlineAd';
 import { cityAffiliates, islandAffiliateMap, TWELVEGO_GENERIC, withSubId } from '../../lib/affiliates';
 import transportRoutes from '../../data/transport-routes.json';
 import citiesData from '../../data/cities/index.json';
+import ContentBridge from '../../components/ContentBridge';
 
 interface TransportOption {
   method: string;
@@ -478,6 +479,11 @@ const TransportRoutePage: React.FC<RoutePageProps> = ({ route, fromCity, toCity,
             </div>
           </aside>
         </div>
+        <ContentBridge
+          context="transport"
+          citySlug={toCity.slug}
+          cityName={toCity.name.en}
+        />
       </main>
     </div>
   );

@@ -6,6 +6,7 @@ import Breadcrumbs from '../../components/Breadcrumbs';
 import PreFooterAffiliateBanner from '../../components/PreFooterAffiliateBanner';
 import TripcomWidget from '../../components/TripcomWidget';
 import { getAllVisas, getVisaBySlug, generateVisaBreadcrumbs } from '../../lib/visas';
+import ContentBridge from '../../components/ContentBridge';
 
 interface Requirement {
   item: { en: string; nl: string };
@@ -454,6 +455,7 @@ export default function VisaDetailPage({ visa }: VisaPageProps) {
           </div>
         </section>
 
+        <ContentBridge context="visa" />
         <PreFooterAffiliateBanner
           title={lang === 'nl' ? 'Plan Je Thailand Reis' : 'Plan Your Thailand Trip'}
           description={lang === 'nl' ? 'Boek hotels, transport en activiteiten' : 'Book hotels, transport and activities'}
