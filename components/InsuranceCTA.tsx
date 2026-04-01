@@ -20,7 +20,7 @@ const CONTEXT_TEXT: Record<string, { heading: string; body: string }> = {
   },
   nomad: {
     heading: 'Nomad Insurance for Thailand',
-    body: 'Monthly subscriptions for digital nomads, or budget coverage from $0.99/day. 190+ countries covered.',
+    body: 'Travel medical insurance for 175+ countries. Covers illness, injury, delays, lost luggage, and trip interruptions. Cancel anytime.',
   },
   general: {
     heading: 'Travel Insurance for Thailand',
@@ -37,6 +37,10 @@ export default function InsuranceCTA({ context = 'general' }: InsuranceCTAProps)
         <h3 className="text-lg font-bold font-heading mb-1">{text.heading}</h3>
         <p className="text-blue-200 text-sm">{text.body}</p>
       </div>
+      {/* SafetyWing branded button banner */}
+      <a href={SAFETYWING_LINK} target="_blank" rel="noopener noreferrer nofollow sponsored" className="block mb-3 rounded-xl overflow-hidden hover:opacity-95 transition-opacity">
+        <img src="/images/affiliates/safetywing/button-horizontal.webp" alt="SafetyWing — Let's get you insured!" className="w-full h-auto" />
+      </a>
       <div className="flex flex-col sm:flex-row gap-3">
         <a
           href={SAFETYWING_LINK}

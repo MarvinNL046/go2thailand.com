@@ -1,5 +1,8 @@
 import Link from 'next/link';
+import Image from 'next/image';
 import TripcomWidget from '../TripcomWidget';
+
+const SAFETYWING_LINK = 'https://safetywing.com/?referenceID=26490463&utm_source=26490463&utm_medium=Ambassador';
 
 interface AffiliateContextSidebarProps {
   slug: string;
@@ -74,6 +77,10 @@ const FoodBlock = () => (
 
 const VisaBlock = () => (
   <>
+    {/* SafetyWing banner */}
+    <a href={SAFETYWING_LINK} target="_blank" rel="noopener noreferrer nofollow sponsored" className="block rounded-2xl overflow-hidden shadow-md hover:shadow-lg transition-shadow">
+      <Image src="/images/affiliates/safetywing/banner-vertical.webp" alt="SafetyWing Nomad Insurance — travel medical insurance for 175+ countries" width={400} height={700} className="w-full h-auto" />
+    </a>
     <div className="bg-surface-dark text-white rounded-2xl p-6">
       <h3 className="text-xl font-bold font-heading mb-2">Travel Insurance</h3>
       <p className="text-sm opacity-90 mb-4">Many visas require travel insurance. Compare the best options for Thailand.</p>
