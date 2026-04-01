@@ -1,4 +1,4 @@
-import { ReactNode } from 'react';
+import { ReactNode, useEffect } from 'react';
 import Link from 'next/link';
 import SEOHead from '../../components/SEOHead';
 import Breadcrumbs from '../../components/Breadcrumbs';
@@ -130,6 +130,28 @@ function SectionCard({
     <div className="rounded-2xl bg-white p-6 shadow-md">
       <h3 className="mb-3 text-xl font-bold font-heading text-gray-900">{title}</h3>
       <div className="space-y-4 text-gray-700">{children}</div>
+    </div>
+  );
+}
+
+function SafetyWingWidget() {
+  useEffect(() => {
+    // Load SafetyWing price widget script
+    const existing = document.querySelector('script[src*="safetywing-price-widget"]');
+    if (existing) return;
+    const script = document.createElement('script');
+    script.src = 'https://storage.googleapis.com/safetywing-static/widget/safetywing-price-widget.js';
+    script.async = true;
+    document.body.appendChild(script);
+  }, []);
+
+  return (
+    <div className="my-6 rounded-2xl border border-gray-200 bg-white p-4 shadow-sm">
+      <div
+        className="safetywing-price-widget"
+        data-safetywingaffiliateid="26490463"
+        data-scale="1.0"
+      />
     </div>
   );
 }
@@ -505,6 +527,7 @@ export default function TravelInsurancePage() {
                       </ul>
                     </div>
                   </div>
+                  <SafetyWingWidget />
                   <div className="flex flex-wrap gap-3">
                     <AffiliateButton href={SAFETYWING_LINK}>
                       Get a Quote from SafetyWing
