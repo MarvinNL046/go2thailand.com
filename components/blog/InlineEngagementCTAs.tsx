@@ -34,6 +34,15 @@ const FALLBACK_CTA: CtaConfig = {
   icon: '🇹🇭',
 };
 
+// Affiliate CTAs — matched to page content intent, max 1 per article
+const AFFILIATE_CTA_MAP: CtaConfig[] = [
+  { keywords: ['where to stay', 'hotel', 'neighborhood', 'accommodation', 'resort', 'hostel'], href: 'https://trip.tpo.lv/TmObooZ5?subid=inline', label: 'Search Thailand Hotels on Trip.com', icon: '🏨' },
+  { keywords: ['bus', 'train', 'flight', 'transport', 'airport', 'bangkok to', 'to phuket', 'to chiang'], href: 'https://12go.tpo.lv/tNA80urD?subid=inline', label: 'Book Transport on 12Go Asia', icon: '🚂' },
+  { keywords: ['market', 'food tour', 'cooking class', 'street food', 'night market'], href: 'https://klook.tpo.lv/7Dt6WApj?subid=inline', label: 'Book a Food Tour on Klook', icon: '🍜' },
+  { keywords: ['island', 'beach', 'diving', 'snorkel', 'boat'], href: 'https://klook.tpo.lv/7Dt6WApj?subid=inline-beach', label: 'Book Island Activities on Klook', icon: '🏝️' },
+  { keywords: ['visa', 'insurance', 'safe', 'digital nomad'], href: 'https://nordvpn.tpo.lv/ekHF1i55?subid=inline', label: 'Stay Secure with NordVPN', icon: '🛡️' },
+];
+
 function findCtaForText(text: string, usedHrefs: Set<string>): CtaConfig {
   const lower = text.toLowerCase();
   for (const cta of CTA_MAP) {
@@ -41,6 +50,37 @@ function findCtaForText(text: string, usedHrefs: Set<string>): CtaConfig {
     if (cta.keywords.some((kw) => lower.includes(kw))) return cta;
   }
   return FALLBACK_CTA;
+}
+
+function findAffiliateCta(fullText: string): CtaConfig | null {
+  const lower = fullText.toLowerCase();
+  for (const cta of AFFILIATE_CTA_MAP) {
+    if (cta.keywords.some((kw) => lower.includes(kw))) return cta;
+  }
+  return null;
+}
+
+function createAffiliateCta(cta: CtaConfig): HTMLElement {
+  const wrapper = document.createElement('div');
+  wrapper.className = 'not-prose my-8 bg-gradient-to-r from-thailand-blue/5 to-thailand-red/5 border border-thailand-blue/20 rounded-xl p-5 hover:shadow-md transition-shadow';
+  wrapper.setAttribute('data-engagement-cta', 'true');
+
+  const link = document.createElement('a');
+  link.href = cta.href;
+  link.target = '_blank';
+  link.rel = 'noopener noreferrer';
+  link.className = 'flex items-center gap-4 w-full no-underline';
+  link.innerHTML = `
+    <span class="text-3xl flex-shrink-0">${cta.icon}</span>
+    <span class="flex-1">
+      <span class="font-bold text-gray-900 block">${cta.label}</span>
+      <span class="text-xs text-gray-500">Affiliate link</span>
+    </span>
+    <span class="bg-thailand-red text-white px-4 py-2 rounded-lg text-sm font-semibold flex-shrink-0">Book Now</span>
+  `;
+
+  wrapper.appendChild(link);
+  return wrapper;
 }
 
 function createCtaElement(cta: CtaConfig): HTMLElement {
@@ -104,6 +144,22 @@ export default function InlineEngagementCTAs() {
         insertBefore = next;
       }
     });
+
+    // Inject 1 affiliate CTA after the 4th H2 (if enough sections)
+    if (headings.length >= 4) {
+      const fullText = contentEl.textContent || '';
+      const affiliateCta = findAffiliateCta(fullText);
+      if (affiliateCta) {
+        const h2 = headings[3]; // 4th H2 (index 3)
+        let lastInSection = h2.nextElementSibling;
+        while (lastInSection && lastInSection.nextElementSibling && lastInSection.nextElementSibling.tagName !== 'H2') {
+          lastInSection = lastInSection.nextElementSibling;
+        }
+        if (lastInSection) {
+          lastInSection.after(createAffiliateCta(affiliateCta));
+        }
+      }
+    }
 
     return () => {
       document.querySelectorAll('[data-engagement-cta]').forEach((el) => el.remove());
