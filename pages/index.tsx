@@ -5,6 +5,7 @@ import Image from 'next/image';
 import { useState, useEffect } from 'react';
 import { getAllCities } from '../lib/cities';
 import { getPopularDishes } from '../lib/food';
+import { getAllPosts } from '../lib/blog';
 import CityCard from '../components/CityCard';
 import TripcomWidget from '../components/TripcomWidget';
 import AnimatedCounter from '../components/AnimatedCounter';
@@ -48,9 +49,18 @@ interface HomeProps {
   cities: City[];
   featuredCities: City[];
   popularDishes: Dish[];
+  latestPosts: Array<{
+    slug: string;
+    title: string;
+    description: string;
+    date: string;
+    category: string;
+    image: string;
+    readingTime: number;
+  }>;
 }
 
-export default function Home({ cities, featuredCities, popularDishes }: HomeProps) {
+export default function Home({ cities, featuredCities, popularDishes, latestPosts }: HomeProps) {
   const { t } = useTranslation('common');
 
   const heroImages = [
@@ -590,6 +600,61 @@ export default function Home({ cities, featuredCities, popularDishes }: HomeProp
       </section>
 
       {/* ============================================
+          LATEST FROM THE BLOG
+          ============================================ */}
+      <section className="section-padding bg-surface-cream">
+        <div className="container-custom">
+          <div className="text-center mb-14">
+            <span className="section-label">Travel Blog</span>
+            <h2 className="section-title mb-4">Latest from the Blog</h2>
+            <p className="text-lg text-gray-600 max-w-2xl mx-auto">
+              Tips, guides, and stories from Thailand — updated weekly.
+            </p>
+          </div>
+
+          <div className="grid grid-cols-1 md:grid-cols-3 gap-8 mb-12">
+            {latestPosts.map((post) => (
+              <Link key={post.slug} href={`/blog/${post.slug}/`} className="group">
+                <div className="bg-white rounded-2xl shadow-md overflow-hidden transition-all duration-300 group-hover:shadow-xl group-hover:-translate-y-1">
+                  <div className="relative h-48 overflow-hidden">
+                    <Image
+                      src={post.image}
+                      alt={post.title}
+                      fill
+                      className="object-cover transition-transform duration-500 group-hover:scale-105"
+                      sizes="(max-width: 768px) 100vw, 33vw"
+                    />
+                    <span className="absolute top-3 left-3 bg-[#2D2A4A] text-white text-xs font-medium px-2.5 py-1 rounded-full capitalize">
+                      {post.category}
+                    </span>
+                  </div>
+                  <div className="p-5">
+                    <h3 className="font-heading text-lg font-bold text-gray-900 mb-2 group-hover:text-thailand-blue transition-colors line-clamp-2">
+                      {post.title}
+                    </h3>
+                    <p className="text-sm text-gray-600 line-clamp-2 mb-3">{post.description}</p>
+                    <div className="flex items-center justify-between text-xs text-gray-500 pt-3 border-t border-gray-100">
+                      <time dateTime={post.date}>{post.date}</time>
+                      <span>{post.readingTime} min read</span>
+                    </div>
+                  </div>
+                </div>
+              </Link>
+            ))}
+          </div>
+
+          <div className="text-center">
+            <Link href="/blog/" className="btn-primary">
+              View All Posts
+              <svg className="w-4 h-4" fill="none" stroke="currentColor" viewBox="0 0 24 24">
+                <path strokeLinecap="round" strokeLinejoin="round" strokeWidth="2" d="M14 5l7 7m0 0l-7 7m7-7H3" />
+              </svg>
+            </Link>
+          </div>
+        </div>
+      </section>
+
+      {/* ============================================
           TRAVEL GUIDES
           ============================================ */}
       {/* Travel Guides */}
@@ -783,11 +848,22 @@ export const getStaticProps: GetStaticProps = async () => {
 
   const featuredCities = cities.slice(0, 6);
 
+  const latestPosts = getAllPosts('en').slice(0, 3).map((p: any) => ({
+    slug: p.slug,
+    title: p.title,
+    description: p.description || '',
+    date: p.date,
+    category: p.category || 'travel',
+    image: p.image,
+    readingTime: p.readingTime || 5,
+  }));
+
   return {
     props: {
       cities,
       featuredCities,
       popularDishes,
+      latestPosts,
     },
   };
 };
