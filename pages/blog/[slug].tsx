@@ -15,7 +15,9 @@ import TravelSecurityAffiliateBlock from '../../components/blog/TravelSecurityAf
 import ShareButtons from '../../components/ShareButtons';
 import EmailCapture from '../../components/EmailCapture';
 import InlineAd from '../../components/ads/InlineAd';
-import { getAllPosts, getPostBySlug, getRelatedPosts } from '../../lib/blog';
+import { getAllPosts, getPostBySlug, getRelatedPosts, getAdjacentPosts } from '../../lib/blog';
+import BlogTableOfContents from '../../components/blog/BlogTableOfContents';
+import InlineEngagementCTAs from '../../components/blog/InlineEngagementCTAs';
 
 interface Source {
   name: string;
@@ -44,9 +46,17 @@ interface BlogPost {
   faqItems?: FaqItem[];
 }
 
+interface AdjacentPost {
+  slug: string;
+  title: string;
+  category: string;
+}
+
 interface BlogPostPageProps {
   post: BlogPost;
   relatedPosts: BlogPost[];
+  prevPost: AdjacentPost | null;
+  nextPost: AdjacentPost | null;
 }
 
 // Travelpayouts embed script URLs — keyed by widget type matching data-widget attribute
@@ -67,7 +77,7 @@ function toAbsoluteImageUrl(image: string) {
   return /^https?:\/\//i.test(image) ? image : `https://go2-thailand.com${image}`;
 }
 
-export default function BlogPostPage({ post, relatedPosts }: BlogPostPageProps) {
+export default function BlogPostPage({ post, relatedPosts, prevPost, nextPost }: BlogPostPageProps) {
   const { locale } = useRouter();
 
   // Hydrate widget placeholders with real Travelpayouts embed scripts on the client
@@ -264,6 +274,9 @@ export default function BlogPostPage({ post, relatedPosts }: BlogPostPageProps) 
                     <p className="text-gray-700">{post.description}</p>
                   )}
 
+                  {/* Inline Engagement CTAs — injected client-side into content */}
+                  <InlineEngagementCTAs />
+
                   {/* Sources */}
                   {post.sources && post.sources.length > 0 && (
                     <Sources sources={post.sources} locale={locale} />
@@ -310,6 +323,9 @@ export default function BlogPostPage({ post, relatedPosts }: BlogPostPageProps) 
               {/* Sidebar */}
               <aside className="lg:col-span-4 lg:self-start">
                 <div className="lg:sticky lg:top-4 space-y-6">
+                {/* Table of Contents */}
+                <BlogTableOfContents />
+
                 {/* Newsletter */}
                 <EmailCapture variant="sidebar" />
 
@@ -449,7 +465,7 @@ export default function BlogPostPage({ post, relatedPosts }: BlogPostPageProps) 
         </section>
 
         {/* People Also Read */}
-        <RelatedPosts posts={relatedPosts} locale={locale} />
+        <RelatedPosts posts={relatedPosts} prevPost={prevPost} nextPost={nextPost} locale={locale} />
 
         <PreFooterAffiliateBanner
           title="Plan Your Thailand Trip"
@@ -494,16 +510,18 @@ export const getStaticProps: GetStaticProps = async ({ params, locale }) => {
       return { notFound: true };
     }
     const relatedPosts = getRelatedPosts(slug, 'en', 4);
+    const { prevPost, nextPost } = getAdjacentPosts(slug, 'en');
     return {
-      props: { post: fallbackPost, relatedPosts },
+      props: { post: fallbackPost, relatedPosts, prevPost, nextPost },
       revalidate: 604800
     };
   }
 
   const relatedPosts = getRelatedPosts(slug, lang, 4);
+  const { prevPost, nextPost } = getAdjacentPosts(slug, lang);
 
   return {
-    props: { post, relatedPosts },
+    props: { post, relatedPosts, prevPost, nextPost },
     revalidate: 604800
   };
 };
