@@ -1,5 +1,6 @@
 import Head from 'next/head';
 import Link from 'next/link';
+import Image from 'next/image';
 import Breadcrumbs from '../components/Breadcrumbs';
 
 export default function AboutPage() {
@@ -19,6 +20,12 @@ export default function AboutPage() {
       description: 'Independent Thailand travel guide helping travelers plan unforgettable trips since 2024.',
       foundingDate: '2024',
       email: 'hello@go2-thailand.com',
+      founder: {
+        '@type': 'Person',
+        name: 'Marvin',
+        jobTitle: 'Founder & Lead Editor',
+        image: 'https://go2-thailand.com/images/team/marvin.webp',
+      },
       areaServed: {
         '@type': 'Country',
         name: 'Thailand',
@@ -101,6 +108,45 @@ export default function AboutPage() {
                   <div className="font-semibold text-gray-900">Travel Blog</div>
                   <div className="text-xs text-gray-600">Tips & stories</div>
                 </Link>
+              </div>
+            </div>
+
+            {/* Meet the Founder */}
+            <div className="bg-white rounded-2xl shadow-md p-8 mb-8">
+              <h2 className="text-2xl font-bold font-heading text-gray-900 mb-6">Meet the Founder</h2>
+              <div className="flex flex-col md:flex-row gap-6 items-start">
+                <div className="flex-shrink-0">
+                  <Image
+                    src="/images/team/marvin.webp"
+                    alt="Marvin — Founder of Go2Thailand.com"
+                    width={180}
+                    height={180}
+                    className="rounded-2xl object-cover"
+                  />
+                </div>
+                <div>
+                  <h3 className="text-xl font-bold font-heading text-gray-900 mb-2">Marvin</h3>
+                  <p className="text-sm text-thailand-blue font-medium mb-3">Founder &amp; Lead Editor</p>
+                  <p className="text-gray-700 mb-3">
+                    Marvin is a Dutch expat and travel technology specialist who has been exploring Thailand extensively
+                    since 2019, visiting over 50 provinces across the country. What started as a personal passion for
+                    Thai culture, food, and off-the-beaten-path destinations grew into Go2Thailand.com — an independent
+                    travel guide built to help fellow travelers plan better trips.
+                  </p>
+                  <p className="text-gray-700 mb-3">
+                    Based between the Netherlands and Southeast Asia, Marvin combines firsthand travel experience with
+                    a background in web development to create data-driven, practical guides. He personally oversees
+                    all editorial content, ensures accuracy of prices and logistics, and maintains the site&apos;s
+                    commitment to honest, unbiased recommendations.
+                  </p>
+                  <p className="text-gray-700">
+                    Marvin also runs the{' '}
+                    <strong>Go2 Travel Network</strong> — a family of destination guides including{' '}
+                    <a href="https://go2-vietnam.com" target="_blank" rel="noopener noreferrer" className="text-thailand-blue hover:underline">Go2Vietnam</a>,{' '}
+                    <a href="https://go2-bali.com" target="_blank" rel="noopener noreferrer" className="text-thailand-blue hover:underline">Go2Bali</a>,{' '}
+                    <a href="https://go2-japan.com" target="_blank" rel="noopener noreferrer" className="text-thailand-blue hover:underline">Go2Japan</a>, and more.
+                  </p>
+                </div>
               </div>
             </div>
 
