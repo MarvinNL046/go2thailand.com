@@ -28,6 +28,15 @@ export default function AffiliateWidget({ scriptContent, className = '', minHeig
     }
   }, [scriptContent]);
 
+  // Fix: Travelpayouts 12Go widget's ".powered" div uses position:relative + bottom:17px
+  // which shifts it over the interactive form elements, blocking all clicks.
+  useEffect(() => {
+    const style = document.createElement('style');
+    style.textContent = '.powered { pointer-events: none !important; } .powered a { pointer-events: auto !important; }';
+    document.head.appendChild(style);
+    return () => { style.remove(); };
+  }, []);
+
   return (
     <div ref={containerRef} className={`affiliate-widget ${className}`} style={{ minHeight }} />
   );
