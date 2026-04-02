@@ -15,6 +15,7 @@ import { useRouter } from 'next/router';
 import { formatNumber, formatPopulation } from '../../../utils/formatNumber';
 import AffiliateWidget from '../../../components/AffiliateWidget';
 import InlineAd from '../../../components/ads/InlineAd';
+import BookingHeroCTA from '../../../components/BookingHeroCTA';
 import transportRoutes from '../../../data/transport-routes.json';
 
 interface City {
@@ -477,7 +478,10 @@ export default function CityPage({ city, relatedCities, comparisons, transportLi
         <section className="bg-white">
           <div className="container-custom py-8">
             <Breadcrumbs items={breadcrumbs} />
-            
+
+            {/* Booking Hero CTA — contextual, referrer-aware */}
+            <BookingHeroCTA slug={city.slug} cityName={city.name.en} citySlug={city.slug} pageType="city" />
+
             <div className="grid grid-cols-1 lg:grid-cols-3 gap-12">
               {/* Main Content */}
               <div className="lg:col-span-2 order-last lg:order-first">

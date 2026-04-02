@@ -14,6 +14,7 @@ import { cityAffiliates, islandAffiliateMap, TWELVEGO_GENERIC, withSubId } from 
 import transportRoutes from '../../data/transport-routes.json';
 import citiesData from '../../data/cities/index.json';
 import ContentBridge from '../../components/ContentBridge';
+import BookingHeroCTA from '../../components/BookingHeroCTA';
 
 interface TransportOption {
   method: string;
@@ -154,6 +155,9 @@ const TransportRoutePage: React.FC<RoutePageProps> = ({ route, fromCity, toCity,
 
       <main className="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8 py-8">
         <Breadcrumbs items={breadcrumbs} />
+
+        {/* Booking Hero CTA — contextual, referrer-aware */}
+        <BookingHeroCTA slug={route.slug} cityName={toCity.name.en} citySlug={toCity.slug} pageType="transport" />
 
         <h1 className="text-4xl font-bold font-heading text-gray-900 mb-4">
           {fromCity.name.en} to {toCity.name.en}

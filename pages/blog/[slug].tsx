@@ -19,6 +19,7 @@ import { getAllPosts, getPostBySlug, getRelatedPosts, getAdjacentPosts } from '.
 import BlogTableOfContents from '../../components/blog/BlogTableOfContents';
 import InlineEngagementCTAs from '../../components/blog/InlineEngagementCTAs';
 import AffiliateContextSidebar from '../../components/blog/AffiliateContextSidebar';
+import BookingHeroCTA from '../../components/BookingHeroCTA';
 
 interface Source {
   name: string;
@@ -248,6 +249,9 @@ export default function BlogPostPage({ post, relatedPosts, prevPost, nextPost }:
             </div>
           </div>
         </section>
+
+        {/* Booking Hero CTA — contextual, referrer-aware */}
+        <BookingHeroCTA slug={post.slug} category={post.category} tags={post.tags} pageType="blog" />
 
         {/* Main Content */}
         <section className="py-12 pb-20 sm:pb-12">
