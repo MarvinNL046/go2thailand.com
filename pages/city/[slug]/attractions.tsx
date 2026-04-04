@@ -539,12 +539,7 @@ export default function CityAttractionsPage({ city, attractions }: CityAttractio
 }
 
 export const getStaticPaths: GetStaticPaths = async () => {
-  const paths = getCityStaticPaths();
-  
-  return {
-    paths,
-    fallback: 'blocking',
-  };
+  return { paths: [], fallback: 'blocking' };
 };
 
 export const getStaticProps: GetStaticProps = async ({ params }) => {

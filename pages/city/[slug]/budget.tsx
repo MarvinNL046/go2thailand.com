@@ -487,8 +487,7 @@ export default function CityBudgetPage({ city, budgetGuide, budgetReality, budge
 }
 
 export const getStaticPaths: GetStaticPaths = async () => {
-  const paths = getCityStaticPaths();
-  return { paths, fallback: 'blocking' };
+  return { paths: [], fallback: 'blocking' };
 };
 
 // Recursively resolve {en, nl} bilingual objects to plain strings.

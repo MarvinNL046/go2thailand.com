@@ -291,12 +291,7 @@ export default function DestinationHubPage({ data, affiliates }: Props) {
 }
 
 export const getStaticPaths: GetStaticPaths = async () => {
-  const { getClusterCities } = await import('../../lib/clusters');
-  const cities = getClusterCities();
-  return {
-    paths: cities.map(slug => ({ params: { slug } })),
-    fallback: 'blocking',
-  };
+  return { paths: [], fallback: 'blocking' };
 };
 
 export const getStaticProps: GetStaticProps = async ({ params }) => {

@@ -751,11 +751,7 @@ const getFerryPrice = (distance: string): string => {
 };
 
 export const getStaticPaths: GetStaticPaths = async () => {
-  const paths = transportRoutes.routes.map(route => ({
-    params: { route: route.slug }
-  }));
-
-  return { paths, fallback: 'blocking' };
+  return { paths: [], fallback: 'blocking' };
 };
 
 export const getStaticProps: GetStaticProps<RoutePageProps> = async ({ params, locale }) => {

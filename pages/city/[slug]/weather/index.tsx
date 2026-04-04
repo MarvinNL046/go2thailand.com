@@ -310,12 +310,7 @@ const CityWeatherIndex: React.FC<CityWeatherIndexProps> = ({ city, monthlyWeathe
 };
 
 export const getStaticPaths: GetStaticPaths = async () => {
-  const cityWeather = cityWeatherData as Record<string, any>;
-  const paths = Object.keys(cityWeather).map(slug => ({
-    params: { slug }
-  }));
-  
-  return { paths, fallback: 'blocking' };
+  return { paths: [], fallback: 'blocking' };
 };
 
 export const getStaticProps: GetStaticProps<CityWeatherIndexProps> = async ({ params }) => {

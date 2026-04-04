@@ -348,12 +348,7 @@ export default function BestHotelsPage({ data, affiliates }: Props) {
 }
 
 export const getStaticPaths: GetStaticPaths = async () => {
-  const { getClusterCities } = await import('../../lib/clusters');
-  const cities = getClusterCities();
-  return {
-    paths: cities.map(city => ({ params: { slug: city } })),
-    fallback: 'blocking',
-  };
+  return { paths: [], fallback: 'blocking' };
 };
 
 export const getStaticProps: GetStaticProps = async ({ params }) => {

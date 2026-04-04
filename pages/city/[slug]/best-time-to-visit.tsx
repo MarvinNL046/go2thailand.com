@@ -529,8 +529,7 @@ export default function BestTimeToVisitPage({ city, topRoutes }: BestTimeToVisit
 }
 
 export const getStaticPaths: GetStaticPaths = async () => {
-  const paths = getCityStaticPaths();
-  return { paths, fallback: 'blocking' };
+  return { paths: [], fallback: 'blocking' };
 };
 
 // Recursively resolve {en, nl} bilingual objects to plain strings.

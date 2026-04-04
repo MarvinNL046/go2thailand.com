@@ -111,15 +111,7 @@ export default function NewsArticlePage({ article }: NewsArticlePageProps) {
 }
 
 export const getStaticPaths: GetStaticPaths = async () => {
-  const articles = getAllNews();
-  const paths = articles.map((article) => ({
-    params: { slug: article.slug },
-  }));
-
-  return {
-    paths,
-    fallback: 'blocking',
-  };
+  return { paths: [], fallback: 'blocking' };
 };
 
 export const getStaticProps: GetStaticProps<NewsArticlePageProps> = async ({ params }) => {

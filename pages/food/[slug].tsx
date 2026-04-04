@@ -582,8 +582,7 @@ export default function DishPage({ dish, relatedDishes, citiesForDish, editorial
 }
 
 export const getStaticPaths: GetStaticPaths = async () => {
-  const paths = getDishStaticPaths();
-  return { paths, fallback: 'blocking' };
+  return { paths: [], fallback: 'blocking' };
 };
 
 export const getStaticProps: GetStaticProps = async ({ params }) => {

@@ -109,12 +109,7 @@ export default function BlogCategoryPage({ category, posts }: CategoryPageProps)
 }
 
 export const getStaticPaths: GetStaticPaths = async () => {
-  const categories = getAllCategories('en');
-  const paths = categories.map(category => ({
-    params: { category }
-  }));
-
-  return { paths, fallback: 'blocking' };
+  return { paths: [], fallback: 'blocking' };
 };
 
 export const getStaticProps: GetStaticProps = async ({ params, locale }) => {

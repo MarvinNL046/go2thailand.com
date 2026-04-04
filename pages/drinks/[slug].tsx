@@ -381,16 +381,7 @@ export default function DrinkPage({ drink }: DrinkPageProps) {
 }
 
 export const getStaticPaths: GetStaticPaths = async () => {
-  const drinks = getAllDrinks();
-
-  const paths = drinks.map(drink => ({
-    params: { slug: drink.slug }
-  }));
-
-  return {
-    paths,
-    fallback: 'blocking'
-  };
+  return { paths: [], fallback: 'blocking' };
 };
 
 export const getStaticProps: GetStaticProps = async ({ params }) => {

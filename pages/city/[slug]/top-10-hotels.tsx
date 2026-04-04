@@ -424,8 +424,7 @@ export default function Top10HotelsPage({ city, hotelsData, editorial }: Top10Ho
 }
 
 export const getStaticPaths: GetStaticPaths = async () => {
-  const paths = getCityStaticPaths();
-  return { paths, fallback: 'blocking' };
+  return { paths: [], fallback: 'blocking' };
 };
 
 export const getStaticProps: GetStaticProps = async ({ params, locale }) => {

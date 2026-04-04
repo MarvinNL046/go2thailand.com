@@ -345,25 +345,7 @@ const CityWeatherPage: React.FC<CityWeatherPageProps> = ({
 };
 
 export const getStaticPaths: GetStaticPaths = async () => {
-  const paths = [];
-  const cityWeather = cityWeatherData as Record<string, any>;
-  
-  for (const citySlug of Object.keys(cityWeather)) {
-    // Skip cities that have the old structure metadata fields at the root
-    const cityData = cityWeather[citySlug];
-    const monthlyData = cityData.monthly_weather || cityData;
-    
-    // Only process valid month keys
-    for (const month of Object.keys(monthNamesEN)) {
-      if (monthlyData[month]) {
-        paths.push({
-          params: { slug: citySlug, month }
-        });
-      }
-    }
-  }
-  
-  return { paths, fallback: 'blocking' };
+  return { paths: [], fallback: 'blocking' };
 };
 
 export const getStaticProps: GetStaticProps<CityWeatherPageProps> = async ({ params }) => {

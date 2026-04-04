@@ -463,8 +463,7 @@ export default function Top10RestaurantsPage({ city, restaurantsData, editorial 
 }
 
 export const getStaticPaths: GetStaticPaths = async () => {
-  const paths = getCityStaticPaths();
-  return { paths, fallback: 'blocking' };
+  return { paths: [], fallback: 'blocking' };
 };
 
 export const getStaticProps: GetStaticProps = async ({ params, locale }) => {

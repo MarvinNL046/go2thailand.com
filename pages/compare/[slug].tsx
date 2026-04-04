@@ -791,9 +791,7 @@ function TableRow({
 // ---- Data fetching ----
 
 export const getStaticPaths: GetStaticPaths = async () => {
-  const comparisons = getAllComparisons();
-  const paths = comparisons.map(c => ({ params: { slug: c.slug } }));
-  return { paths, fallback: 'blocking' };
+  return { paths: [], fallback: 'blocking' };
 };
 
 export const getStaticProps: GetStaticProps = async ({ params }) => {

@@ -490,15 +490,7 @@ export default function BlogPostPage({ post, relatedPosts, prevPost, nextPost }:
 }
 
 export const getStaticPaths: GetStaticPaths = async () => {
-  const posts = getAllPosts('en');
-  const paths = posts.map(post => ({
-    params: { slug: post.slug }
-  }));
-
-  return {
-    paths,
-    fallback: 'blocking'
-  };
+  return { paths: [], fallback: 'blocking' };
 };
 
 export const getStaticProps: GetStaticProps = async ({ params, locale }) => {
