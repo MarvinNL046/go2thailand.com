@@ -1,4 +1,5 @@
 import { GetStaticProps } from 'next';
+import { useRouter } from 'next/router';
 import SEOHead from '../../components/SEOHead';
 import Link from 'next/link';
 import Image from 'next/image';
@@ -32,10 +33,14 @@ interface Top10AttractionsIndexProps {
 }
 
 export default function Top10AttractionsIndex({ availableGuides, featuredGuides }: Top10AttractionsIndexProps) {
+  const { locale } = useRouter();
+  const isNl = locale === 'nl';
+  const lang = isNl ? 'nl' : 'en';
+
   const breadcrumbs = [
     { name: 'Home', href: '/' },
-    { name: 'Top 10 Guides', href: '/top-10/' },
-    { name: 'Attractions', href: '/top-10/attractions/' }
+    { name: isNl ? 'Top 10 Gidsen' : 'Top 10 Guides', href: '/top-10/' },
+    { name: isNl ? 'Bezienswaardigheden' : 'Attractions', href: '/top-10/attractions/' }
   ];
 
   const cities = getAllCities();
@@ -46,7 +51,7 @@ export default function Top10AttractionsIndex({ availableGuides, featuredGuides 
       city: cityBySlug.get(featured.slug)
     }))
     .filter((featured) => featured.city);
-  const browseGuides = [...availableGuides].sort((a, b) => a.city.name.en.localeCompare(b.city.name.en));
+  const browseGuides = [...availableGuides].sort((a, b) => (a.city.name[lang] || a.city.name.en).localeCompare(b.city.name[lang] || b.city.name.en));
 
   return (
     <>
@@ -131,7 +136,7 @@ export default function Top10AttractionsIndex({ availableGuides, featuredGuides 
                       <div className="relative h-44">
                         <Image
                           src={city.image}
-                          alt={`${city.name.en} attractions`}
+                          alt={`${city.name[lang] || city.name.en} attractions`}
                           layout="fill"
                           objectFit="cover"
                           className="brightness-90"
@@ -142,13 +147,13 @@ export default function Top10AttractionsIndex({ availableGuides, featuredGuides 
                       </div>
                       <div className="p-6">
                         <h2 className="text-xl font-bold font-heading text-gray-900 mb-2 group-hover:text-thailand-red transition-colors">
-                          {city.name.en}
+                          {city.name[lang] || city.name.en}
                         </h2>
                         <p className="text-gray-600 text-sm mb-4">
                           {featured.summary}
                         </p>
                         <div className="text-sm font-semibold text-thailand-red">
-                          Open attraction guide →
+                          {isNl ? 'Open bezienswaardighedengids' : 'Open attraction guide'} →
                         </div>
                       </div>
                     </div>
@@ -179,14 +184,14 @@ export default function Top10AttractionsIndex({ availableGuides, featuredGuides 
                           href={`/city/${slug}/top-10-attractions/`}
                           className="rounded-full bg-white px-3 py-1.5 text-sm font-medium text-gray-700 shadow-sm transition-colors hover:bg-gray-50 hover:text-thailand-red"
                         >
-                          {city.name.en}
+                          {city.name[lang] || city.name.en}
                         </Link>
                       );
                     })}
                   </div>
                   {section.inlineSources?.length ? (
                     <div className="mt-4 text-sm text-gray-500">
-                      Selected references:
+                      {isNl ? 'Geselecteerde bronnen:' : 'Selected references:'}
                       {' '}
                       {section.inlineSources.map((source, index) => (
                         <span key={source.label}>
@@ -212,11 +217,11 @@ export default function Top10AttractionsIndex({ availableGuides, featuredGuides 
                 <div>
                   <span className="section-label">Browse Index</span>
                   <h2 className="text-3xl font-bold font-heading text-gray-900 mt-2">
-                    All Attraction Guides
+                    {isNl ? 'Alle Bezienswaardighedengidsen' : 'All Attraction Guides'}
                   </h2>
                 </div>
                 <p className="text-gray-600 max-w-2xl">
-                  A full city index for readers who want to browse the entire attraction library by destination.
+                  {isNl ? 'Een volledig stadsoverzicht voor wie de hele bezienswaardighedenbibliotheek per bestemming wil bekijken.' : 'A full city index for readers who want to browse the entire attraction library by destination.'}
                 </p>
               </div>
 
@@ -227,7 +232,7 @@ export default function Top10AttractionsIndex({ availableGuides, featuredGuides 
                       <div className="relative h-36">
                         <Image
                           src={guide.city.image}
-                          alt={`${guide.city.name.en} attractions`}
+                          alt={`${guide.city.name[lang] || guide.city.name.en} attractions`}
                           layout="fill"
                           objectFit="cover"
                           className="brightness-90"
@@ -238,13 +243,13 @@ export default function Top10AttractionsIndex({ availableGuides, featuredGuides 
                       </div>
                       <div className="p-5">
                         <h3 className="text-lg font-bold font-heading text-gray-900 mb-2 group-hover:text-thailand-red transition-colors">
-                          {guide.city.name.en}
+                          {guide.city.name[lang] || guide.city.name.en}
                         </h3>
                         <p className="text-sm text-gray-600 mb-4">
-                          {guide.city.province} Province
+                          {guide.city.province} {isNl ? 'Provincie' : 'Province'}
                         </p>
                         <div className="text-sm font-medium text-gray-700">
-                          {guide.item_count} attractions
+                          {guide.item_count} {isNl ? 'bezienswaardigheden' : 'attractions'}
                         </div>
                       </div>
                     </div>
@@ -258,11 +263,11 @@ export default function Top10AttractionsIndex({ availableGuides, featuredGuides 
                 <div>
                   <span className="section-label">Sources</span>
                   <h2 className="text-3xl font-bold font-heading text-gray-900 mt-2">
-                    Visible References
+                    {isNl ? 'Zichtbare Bronnen' : 'Visible References'}
                   </h2>
                 </div>
                 <p className="text-gray-600 max-w-2xl">
-                  Selected source references used to shape the route framing and city-level context.
+                  {isNl ? 'Geselecteerde bronverwijzingen gebruikt voor de routekadering en stadsniveau context.' : 'Selected source references used to shape the route framing and city-level context.'}
                 </p>
               </div>
 

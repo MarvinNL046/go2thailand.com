@@ -1,6 +1,7 @@
 import { GetStaticProps } from 'next';
 import SEOHead from '../components/SEOHead';
 import Link from 'next/link';
+import { useRouter } from 'next/router';
 import { useState } from 'react';
 import Breadcrumbs from '../components/Breadcrumbs';
 import TripcomWidget from '../components/TripcomWidget';
@@ -648,20 +649,22 @@ const etiquetteTips = [
 // ─────────────────────────────────────────────────────────────────────────────
 
 export default function ThailandTemples({ data }: ThailandTemplesProps) {
+  const { locale } = useRouter();
+  const isNl = locale === 'nl';
   const [activeFilter, setActiveFilter] = useState<CityFilter>('all');
 
   const breadcrumbItems = [
     { name: 'Home', href: '/' },
-    { name: 'Thailand Temples', href: '/thailand-temples/' }
+    { name: isNl ? 'Thailand Tempels' : 'Thailand Temples', href: '/thailand-temples/' }
   ];
 
   const filterLabels: Record<CityFilter, string> = {
-    all: 'All Temples',
+    all: isNl ? 'Alle Tempels' : 'All Temples',
     bangkok: 'Bangkok',
     'chiang-mai': 'Chiang Mai',
     'chiang-rai': 'Chiang Rai',
     ayutthaya: 'Ayutthaya',
-    other: 'Other Regions'
+    other: isNl ? 'Andere Regio\'s' : 'Other Regions'
   };
 
   const bangkokSlugs = ['wat-phra-kaew', 'wat-pho', 'wat-arun'];
@@ -747,26 +750,28 @@ export default function ThailandTemples({ data }: ThailandTemplesProps) {
           <div className="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8 py-16 md:py-24">
             <div className="text-center">
               <p className="font-script text-thailand-gold text-lg mb-2">
-                Sacred Sites of Thailand
+                {isNl ? 'Heilige Plaatsen van Thailand' : 'Sacred Sites of Thailand'}
               </p>
               <h1 className="text-4xl lg:text-6xl font-bold font-heading mb-6">
-                Thailand Temples
+                {isNl ? 'Thailand Tempels' : 'Thailand Temples'}
               </h1>
               <p className="text-xl lg:text-2xl mb-6 max-w-3xl mx-auto opacity-90">
-                10 most important Buddhist temples — with verified historical dates, architectural context, and practical visitor information
+                {isNl
+                  ? '10 belangrijkste boeddhistische tempels — met geverifieerde historische data, architecturale context en praktische bezoekersinformatie'
+                  : '10 most important Buddhist temples — with verified historical dates, architectural context, and practical visitor information'}
               </p>
               <div className="flex flex-wrap justify-center gap-4 text-sm font-medium opacity-80">
                 <span className="bg-white/20 px-4 py-2 rounded-full">
-                  {templeProfiles.length} temples covered
+                  {isNl ? `${templeProfiles.length} tempels behandeld` : `${templeProfiles.length} temples covered`}
                 </span>
                 <span className="bg-white/20 px-4 py-2 rounded-full">
-                  {uniqueCities.length} regions
+                  {isNl ? `${uniqueCities.length} regio's` : `${uniqueCities.length} regions`}
                 </span>
                 <span className="bg-white/20 px-4 py-2 rounded-full">
-                  2 UNESCO World Heritage Sites
+                  {isNl ? '2 UNESCO Werelderfgoedsites' : '2 UNESCO World Heritage Sites'}
                 </span>
                 <span className="bg-white/20 px-4 py-2 rounded-full">
-                  Updated March 2026
+                  {isNl ? 'Bijgewerkt maart 2026' : 'Updated March 2026'}
                 </span>
               </div>
             </div>
@@ -821,7 +826,7 @@ export default function ThailandTemples({ data }: ThailandTemplesProps) {
           <div className="max-w-4xl mx-auto px-4 sm:px-6 lg:px-8">
             {filteredProfiles.length === 0 ? (
               <div className="text-center py-16 text-gray-500">
-                <p className="text-xl">No temples found for this filter.</p>
+                <p className="text-xl">{isNl ? 'Geen tempels gevonden voor dit filter.' : 'No temples found for this filter.'}</p>
               </div>
             ) : (
               <div className="space-y-16">
@@ -868,19 +873,19 @@ export default function ThailandTemples({ data }: ThailandTemplesProps) {
                         {/* ── Quick Facts Bar ── */}
                         <div className="grid grid-cols-2 md:grid-cols-4 gap-3 mb-6">
                           <div className="bg-surface-cream rounded-lg p-3">
-                            <p className="text-xs text-gray-500 mb-1 font-medium uppercase tracking-wide">Founded</p>
+                            <p className="text-xs text-gray-500 mb-1 font-medium uppercase tracking-wide">{isNl ? 'Gesticht' : 'Founded'}</p>
                             <p className="text-sm text-gray-800 font-semibold leading-tight">{profile.founded}</p>
                           </div>
                           <div className="bg-surface-cream rounded-lg p-3">
-                            <p className="text-xs text-gray-500 mb-1 font-medium uppercase tracking-wide">Entry Fee</p>
+                            <p className="text-xs text-gray-500 mb-1 font-medium uppercase tracking-wide">{isNl ? 'Entree' : 'Entry Fee'}</p>
                             <p className="text-sm text-gray-800 font-semibold">{profile.entryFee}</p>
                           </div>
                           <div className="bg-surface-cream rounded-lg p-3">
-                            <p className="text-xs text-gray-500 mb-1 font-medium uppercase tracking-wide">Opening Hours</p>
+                            <p className="text-xs text-gray-500 mb-1 font-medium uppercase tracking-wide">{isNl ? 'Openingstijden' : 'Opening Hours'}</p>
                             <p className="text-sm text-gray-800 font-semibold">{profile.openingHours}</p>
                           </div>
                           <div className="bg-surface-cream rounded-lg p-3">
-                            <p className="text-xs text-gray-500 mb-1 font-medium uppercase tracking-wide">Time Needed</p>
+                            <p className="text-xs text-gray-500 mb-1 font-medium uppercase tracking-wide">{isNl ? 'Tijd Nodig' : 'Time Needed'}</p>
                             <p className="text-sm text-gray-800 font-semibold">{profile.practicalInfo.timeNeeded}</p>
                           </div>
                         </div>
@@ -896,7 +901,7 @@ export default function ThailandTemples({ data }: ThailandTemplesProps) {
                         )}
 
                         {/* ── Historical Background ── */}
-                        <h3 className="text-lg font-bold font-heading text-gray-900 mb-3">Historical Background</h3>
+                        <h3 className="text-lg font-bold font-heading text-gray-900 mb-3">{isNl ? 'Historische Achtergrond' : 'Historical Background'}</h3>
                         <div className="text-gray-700 leading-relaxed mb-6 space-y-3">
                           {profile.historicalBackground.split('\n\n').map((paragraph, i) => (
                             <p key={i}>{paragraph}</p>
@@ -904,7 +909,7 @@ export default function ThailandTemples({ data }: ThailandTemplesProps) {
                         </div>
 
                         {/* ── What to See ── */}
-                        <h3 className="text-lg font-bold font-heading text-gray-900 mb-3">What to See</h3>
+                        <h3 className="text-lg font-bold font-heading text-gray-900 mb-3">{isNl ? 'Wat te Zien' : 'What to See'}</h3>
                         <ul className="space-y-2 mb-6">
                           {profile.whatToSee.map((item, i) => (
                             <li key={i} className="flex items-start gap-2 text-gray-700 text-sm leading-relaxed">
@@ -928,14 +933,14 @@ export default function ThailandTemples({ data }: ThailandTemplesProps) {
 
                         {/* ── Practical Information ── */}
                         <div className="bg-surface-cream rounded-xl p-5 mb-5">
-                          <h3 className="text-base font-bold font-heading text-gray-900 mb-3">Practical Information</h3>
+                          <h3 className="text-base font-bold font-heading text-gray-900 mb-3">{isNl ? 'Praktische Informatie' : 'Practical Information'}</h3>
                           <div className="space-y-3">
                             <div>
-                              <p className="text-xs font-semibold text-gray-500 uppercase tracking-wide mb-1">Getting There</p>
+                              <p className="text-xs font-semibold text-gray-500 uppercase tracking-wide mb-1">{isNl ? 'Hoe er te komen' : 'Getting There'}</p>
                               <p className="text-sm text-gray-700 leading-relaxed">{profile.practicalInfo.gettingThere}</p>
                             </div>
                             <div>
-                              <p className="text-xs font-semibold text-gray-500 uppercase tracking-wide mb-1">Dress Code</p>
+                              <p className="text-xs font-semibold text-gray-500 uppercase tracking-wide mb-1">{isNl ? 'Kledingvoorschrift' : 'Dress Code'}</p>
                               <p className="text-sm text-gray-700 leading-relaxed">{profile.practicalInfo.dresscode}</p>
                             </div>
                           </div>
@@ -973,7 +978,7 @@ export default function ThailandTemples({ data }: ThailandTemplesProps) {
                                 d="M15 11a3 3 0 11-6 0 3 3 0 016 0z"
                               />
                             </svg>
-                            View on Google Maps
+                            {isNl ? 'Bekijk op Google Maps' : 'View on Google Maps'}
                           </a>
                         </div>
                       </div>
@@ -999,12 +1004,14 @@ export default function ThailandTemples({ data }: ThailandTemplesProps) {
         {/* ─── Temple Etiquette ─── */}
         <section className="py-12 bg-white">
           <div className="max-w-4xl mx-auto px-4 sm:px-6 lg:px-8">
-            <p className="section-label text-center">Good to Know</p>
+            <p className="section-label text-center">{isNl ? 'Goed om te Weten' : 'Good to Know'}</p>
             <h2 className="text-3xl font-bold font-heading text-gray-900 mb-4 text-center">
-              Temple Etiquette in Thailand
+              {isNl ? 'Tempeletiquette in Thailand' : 'Temple Etiquette in Thailand'}
             </h2>
             <p className="text-gray-600 text-center mb-8 max-w-2xl mx-auto">
-              Thai Buddhist temples are active places of worship, not museums. These practices reflect how local visitors behave — observe them and you will be welcomed wherever you go.
+              {isNl
+                ? 'Thaise boeddhistische tempels zijn actieve gebedsplaatsen, geen musea. Deze gewoonten weerspiegelen hoe lokale bezoekers zich gedragen — volg ze en je bent overal welkom.'
+                : 'Thai Buddhist temples are active places of worship, not museums. These practices reflect how local visitors behave — observe them and you will be welcomed wherever you go.'}
             </p>
             <div className="grid md:grid-cols-2 gap-4">
               {etiquetteTips.map((tip, i) => (
@@ -1025,9 +1032,9 @@ export default function ThailandTemples({ data }: ThailandTemplesProps) {
         {/* ─── Regional Temple Context ─── */}
         <section className="py-12 bg-surface-cream">
           <div className="max-w-4xl mx-auto px-4 sm:px-6 lg:px-8">
-            <p className="section-label text-center">Regional Context</p>
+            <p className="section-label text-center">{isNl ? 'Regionale Context' : 'Regional Context'}</p>
             <h2 className="text-3xl font-bold font-heading text-gray-900 mb-6 text-center">
-              Thailand&#39;s Temple Regions
+              {isNl ? 'Thailand\'s Tempelregio\'s' : 'Thailand\u0027s Temple Regions'}
             </h2>
             <div className="space-y-6">
               <div className="bg-white rounded-xl p-6 shadow-sm">
@@ -1063,7 +1070,7 @@ export default function ThailandTemples({ data }: ThailandTemplesProps) {
           <div className="max-w-3xl mx-auto px-4 sm:px-6 lg:px-8">
             <p className="section-label text-center">FAQ</p>
             <h2 className="text-3xl font-bold font-heading text-gray-900 mb-8 text-center">
-              Frequently Asked Questions
+              {isNl ? 'Veelgestelde Vragen' : 'Frequently Asked Questions'}
             </h2>
             <div className="space-y-4">
               {faqItems.map((item, i) => (
@@ -1101,13 +1108,13 @@ export default function ThailandTemples({ data }: ThailandTemplesProps) {
           <div className="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8">
             <div className="text-center text-white mb-8">
               <p className="font-script text-thailand-gold text-lg mb-2">
-                Plan Your Visit
+                {isNl ? 'Plan Je Bezoek' : 'Plan Your Visit'}
               </p>
               <h2 className="text-3xl font-bold font-heading mb-3">
-                Find Hotels Near Thailand&#39;s Temples
+                {isNl ? 'Vind Hotels bij Thailand\'s Tempels' : 'Find Hotels Near Thailand\u0027s Temples'}
               </h2>
               <p className="text-lg opacity-90">
-                Staying close to the temple districts makes early-morning visits far easier
+                {isNl ? 'Dicht bij de tempelwijken verblijven maakt vroege ochtendbezoeken veel makkelijker' : 'Staying close to the temple districts makes early-morning visits far easier'}
               </p>
             </div>
             <div className="grid md:grid-cols-2 gap-8 items-start max-w-4xl mx-auto">
@@ -1131,9 +1138,9 @@ export default function ThailandTemples({ data }: ThailandTemplesProps) {
         {/* ─── Related Pages ─── */}
         <section className="py-12 bg-white">
           <div className="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8">
-            <p className="section-label text-center">More Guides</p>
+            <p className="section-label text-center">{isNl ? 'Meer Gidsen' : 'More Guides'}</p>
             <h2 className="text-2xl font-bold font-heading text-gray-900 mb-6 text-center">
-              Related Pages
+              {isNl ? 'Gerelateerde Pagina\'s' : 'Related Pages'}
             </h2>
             <div className="grid md:grid-cols-3 gap-6 max-w-4xl mx-auto">
               <Link
@@ -1142,13 +1149,13 @@ export default function ThailandTemples({ data }: ThailandTemplesProps) {
               >
                 <div className="text-3xl mb-3">&#127751;</div>
                 <h3 className="text-lg font-bold font-heading text-gray-900 group-hover:text-thailand-blue transition-colors mb-2">
-                  Bangkok City Guide
+                  {isNl ? 'Bangkok Stadsgids' : 'Bangkok City Guide'}
                 </h3>
                 <p className="text-gray-600 text-sm">
-                  Complete guide to Bangkok including Wat Phra Kaew, Wat Pho, Wat Arun, and the surrounding Rattanakosin district.
+                  {isNl ? 'Complete gids voor Bangkok inclusief Wat Phra Kaew, Wat Pho, Wat Arun en het omliggende Rattanakosin-district.' : 'Complete guide to Bangkok including Wat Phra Kaew, Wat Pho, Wat Arun, and the surrounding Rattanakosin district.'}
                 </p>
                 <span className="inline-block mt-3 text-thailand-blue text-sm font-medium group-hover:underline">
-                  Explore Bangkok &#8594;
+                  {isNl ? 'Ontdek Bangkok' : 'Explore Bangkok'} &#8594;
                 </span>
               </Link>
 
@@ -1158,13 +1165,13 @@ export default function ThailandTemples({ data }: ThailandTemplesProps) {
               >
                 <div className="text-3xl mb-3">&#9968;</div>
                 <h3 className="text-lg font-bold font-heading text-gray-900 group-hover:text-thailand-blue transition-colors mb-2">
-                  Chiang Mai City Guide
+                  {isNl ? 'Chiang Mai Stadsgids' : 'Chiang Mai City Guide'}
                 </h3>
                 <p className="text-gray-600 text-sm">
-                  The ancient Lanna capital — home to Doi Suthep, Wat Chedi Luang, and over 30 temples within the old city moat.
+                  {isNl ? 'De oude Lanna-hoofdstad — met Doi Suthep, Wat Chedi Luang en meer dan 30 tempels binnen de oude stadsgracht.' : 'The ancient Lanna capital \u2014 home to Doi Suthep, Wat Chedi Luang, and over 30 temples within the old city moat.'}
                 </p>
                 <span className="inline-block mt-3 text-thailand-blue text-sm font-medium group-hover:underline">
-                  Explore Chiang Mai &#8594;
+                  {isNl ? 'Ontdek Chiang Mai' : 'Explore Chiang Mai'} &#8594;
                 </span>
               </Link>
 
@@ -1174,13 +1181,13 @@ export default function ThailandTemples({ data }: ThailandTemplesProps) {
               >
                 <div className="text-3xl mb-3">&#127988;</div>
                 <h3 className="text-lg font-bold font-heading text-gray-900 group-hover:text-thailand-blue transition-colors mb-2">
-                  Thailand Travel Guide
+                  {isNl ? 'Thailand Reisgids' : 'Thailand Travel Guide'}
                 </h3>
                 <p className="text-gray-600 text-sm">
-                  Everything you need before your trip — visas, transport, costs, seasons, and what to expect.
+                  {isNl ? 'Alles wat je nodig hebt voor je reis — visa, vervoer, kosten, seizoenen en wat te verwachten.' : 'Everything you need before your trip \u2014 visas, transport, costs, seasons, and what to expect.'}
                 </p>
                 <span className="inline-block mt-3 text-thailand-blue text-sm font-medium group-hover:underline">
-                  Read the guide &#8594;
+                  {isNl ? 'Lees de gids' : 'Read the guide'} &#8594;
                 </span>
               </Link>
             </div>

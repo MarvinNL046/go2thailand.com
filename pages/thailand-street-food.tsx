@@ -1,6 +1,7 @@
 import { GetStaticProps } from 'next';
 import SEOHead from '../components/SEOHead';
 import Link from 'next/link';
+import { useRouter } from 'next/router';
 import Breadcrumbs from '../components/Breadcrumbs';
 import TripcomWidget from '../components/TripcomWidget';
 import { useState } from 'react';
@@ -107,12 +108,14 @@ function spiceIndicator(level: string): { label: string; color: string; dots: nu
 }
 
 export default function ThailandStreetFood({ data }: StreetFoodProps) {
+  const { locale } = useRouter();
+  const isNl = locale === 'nl';
   const [typeFilter, setTypeFilter] = useState<TypeFilter>('all');
   const [spiceFilter, setSpiceFilter] = useState<SpiceFilter>('all');
 
   const breadcrumbItems = [
     { name: 'Home', href: '/' },
-    { name: 'Thailand Street Food', href: '/thailand-street-food/' }
+    { name: isNl ? 'Thailand Straatvoedsel' : 'Thailand Street Food', href: '/thailand-street-food/' }
   ];
 
   const filterDishes = (dishes: DishData[]): DishData[] => {
@@ -168,21 +171,21 @@ export default function ThailandStreetFood({ data }: StreetFoodProps) {
   const combinedSchema = [itemListSchema, faqSchema, breadcrumbSchema];
 
   const typeFilters: { key: TypeFilter; label: string }[] = [
-    { key: 'all', label: 'All Dishes' },
-    { key: 'noodles', label: 'Noodles' },
-    { key: 'rice', label: 'Rice' },
-    { key: 'grilled', label: 'Grilled' },
-    { key: 'soup', label: 'Soup' },
-    { key: 'salad', label: 'Salad' },
+    { key: 'all', label: isNl ? 'Alle Gerechten' : 'All Dishes' },
+    { key: 'noodles', label: isNl ? 'Noedels' : 'Noodles' },
+    { key: 'rice', label: isNl ? 'Rijst' : 'Rice' },
+    { key: 'grilled', label: isNl ? 'Gegrild' : 'Grilled' },
+    { key: 'soup', label: isNl ? 'Soep' : 'Soup' },
+    { key: 'salad', label: isNl ? 'Salade' : 'Salad' },
     { key: 'dessert', label: 'Dessert' },
-    { key: 'drink', label: 'Drinks' }
+    { key: 'drink', label: isNl ? 'Dranken' : 'Drinks' }
   ];
 
   const spiceFilters: { key: SpiceFilter; label: string }[] = [
-    { key: 'all', label: 'Any Spice' },
-    { key: 'mild', label: 'Mild' },
-    { key: 'medium', label: 'Medium' },
-    { key: 'hot', label: 'Hot' }
+    { key: 'all', label: isNl ? 'Alle Pittigheid' : 'Any Spice' },
+    { key: 'mild', label: isNl ? 'Mild' : 'Mild' },
+    { key: 'medium', label: isNl ? 'Gemiddeld' : 'Medium' },
+    { key: 'hot', label: isNl ? 'Pittig' : 'Hot' }
   ];
 
   return (
@@ -206,7 +209,7 @@ export default function ThailandStreetFood({ data }: StreetFoodProps) {
         <section className="bg-surface-dark text-white">
           <div className="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8 py-16 md:py-24">
             <div className="text-center">
-              <p className="font-script text-thailand-gold text-lg mb-2">Food Guide</p>
+              <p className="font-script text-thailand-gold text-lg mb-2">{isNl ? 'Eetgids' : 'Food Guide'}</p>
               <h1 className="text-4xl lg:text-6xl font-bold font-heading mb-6">
                 {data.title}
               </h1>
@@ -214,10 +217,10 @@ export default function ThailandStreetFood({ data }: StreetFoodProps) {
                 Yaowarat, Chiang Mai Night Bazaar, Chatuchak — with MICHELIN Bib Gourmand picks and UNESCO heritage context
               </p>
               <div className="flex flex-wrap justify-center gap-4 text-sm font-medium opacity-80">
-                <span className="bg-white/20 px-4 py-2 rounded-full">25 dishes</span>
-                <span className="bg-white/20 px-4 py-2 rounded-full">MICHELIN Bib Gourmand picks</span>
-                <span className="bg-white/20 px-4 py-2 rounded-full">UNESCO heritage context</span>
-                <span className="bg-white/20 px-4 py-2 rounded-full">Real vendor addresses</span>
+                <span className="bg-white/20 px-4 py-2 rounded-full">{isNl ? '25 gerechten' : '25 dishes'}</span>
+                <span className="bg-white/20 px-4 py-2 rounded-full">{isNl ? 'MICHELIN Bib Gourmand keuzes' : 'MICHELIN Bib Gourmand picks'}</span>
+                <span className="bg-white/20 px-4 py-2 rounded-full">{isNl ? 'UNESCO erfgoed context' : 'UNESCO heritage context'}</span>
+                <span className="bg-white/20 px-4 py-2 rounded-full">{isNl ? 'Echte verkoperadressen' : 'Real vendor addresses'}</span>
               </div>
             </div>
           </div>
@@ -270,9 +273,9 @@ export default function ThailandStreetFood({ data }: StreetFoodProps) {
         {/* Location Spotlights */}
         <section className="bg-surface-cream py-12 border-b">
           <div className="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8">
-            <p className="section-label text-center">Where to Eat</p>
+            <p className="section-label text-center">{isNl ? 'Waar Eten' : 'Where to Eat'}</p>
             <h2 className="text-3xl font-bold font-heading text-gray-900 mb-8 text-center">
-              Three Essential Street Food Areas
+              {isNl ? 'Drie Essentiële Straatvoedselgebieden' : 'Three Essential Street Food Areas'}
             </h2>
             <div className="grid md:grid-cols-3 gap-6">
 
@@ -425,7 +428,7 @@ export default function ThailandStreetFood({ data }: StreetFoodProps) {
           <div className="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8">
             {filteredDishes.length === 0 ? (
               <div className="text-center py-16 text-gray-500">
-                <p className="text-xl">No dishes found for this filter combination.</p>
+                <p className="text-xl">{isNl ? 'Geen gerechten gevonden voor deze filtercombinatie.' : 'No dishes found for this filter combination.'}</p>
               </div>
             ) : (
               <div className="space-y-8">
@@ -480,11 +483,11 @@ export default function ThailandStreetFood({ data }: StreetFoodProps) {
                           {/* Info Grid */}
                           <div className="grid grid-cols-1 sm:grid-cols-2 gap-3 mb-4 text-sm">
                             <div className="bg-surface-cream rounded-xl p-3">
-                              <div className="text-gray-500 text-xs mb-1">Where to Find</div>
+                              <div className="text-gray-500 text-xs mb-1">{isNl ? 'Waar te vinden' : 'Where to Find'}</div>
                               <div className="font-semibold text-gray-900 text-xs sm:text-sm">{dish.where_to_find}</div>
                             </div>
                             <div className="bg-surface-cream rounded-xl p-3">
-                              <div className="text-gray-500 text-xs mb-1">Key Facts</div>
+                              <div className="text-gray-500 text-xs mb-1">{isNl ? 'Belangrijke feiten' : 'Key Facts'}</div>
                               <ul className="space-y-1">
                                 {dish.key_facts.map((fact, i) => (
                                   <li key={i} className="text-xs sm:text-sm text-gray-900 flex items-start gap-1.5">
@@ -507,7 +510,7 @@ export default function ThailandStreetFood({ data }: StreetFoodProps) {
                               <path strokeLinecap="round" strokeLinejoin="round" strokeWidth={2} d="M17.657 16.657L13.414 20.9a1.998 1.998 0 01-2.827 0l-4.244-4.243a8 8 0 1111.314 0z" />
                               <path strokeLinecap="round" strokeLinejoin="round" strokeWidth={2} d="M15 11a3 3 0 11-6 0 3 3 0 016 0z" />
                             </svg>
-                            Find on Google Maps
+                            {isNl ? 'Vind op Google Maps' : 'Find on Google Maps'}
                           </a>
                         </div>
                       </article>
@@ -516,10 +519,10 @@ export default function ThailandStreetFood({ data }: StreetFoodProps) {
                       {dish.rank === 8 && (
                         <div className="bg-surface-dark rounded-2xl p-6 text-white my-8">
                           <h3 className="text-xl font-bold font-heading mb-2">
-                            Explore Thai Food Culture
+                            {isNl ? 'Ontdek de Thaise Eetcultuur' : 'Explore Thai Food Culture'}
                           </h3>
                           <p className="opacity-90 mb-4 text-sm">
-                            Cooking classes, food tours &amp; market visits across Thailand
+                            {isNl ? 'Kooklessen, food tours & marktbezoeken door heel Thailand' : 'Cooking classes, food tours & market visits across Thailand'}
                           </p>
                           <div className="flex flex-wrap gap-3">
                             <a
@@ -528,7 +531,7 @@ export default function ThailandStreetFood({ data }: StreetFoodProps) {
                               rel="noopener noreferrer nofollow"
                               className="bg-white text-thailand-blue px-4 py-2 rounded-full font-semibold text-sm hover:bg-gray-100 transition-colors"
                             >
-                              Cooking Classes
+                              {isNl ? 'Kooklessen' : 'Cooking Classes'}
                             </a>
                             <a
                               href="https://getyourguide.tpo.lv/GuAFfGGK?subid=street-food"
@@ -536,7 +539,7 @@ export default function ThailandStreetFood({ data }: StreetFoodProps) {
                               rel="noopener noreferrer nofollow"
                               className="bg-white text-thailand-blue px-4 py-2 rounded-full font-semibold text-sm hover:bg-gray-100 transition-colors"
                             >
-                              Food Tours
+                              {isNl ? 'Food Tours' : 'Food Tours'}
                             </a>
                             <a
                               href="https://booking.tpo.lv/2PT1kR82?subid=street-food"
@@ -544,7 +547,7 @@ export default function ThailandStreetFood({ data }: StreetFoodProps) {
                               rel="noopener noreferrer nofollow"
                               className="bg-white text-thailand-blue px-4 py-2 rounded-full font-semibold text-sm hover:bg-gray-100 transition-colors"
                             >
-                              Hotels near Markets
+                              {isNl ? 'Hotels bij Markten' : 'Hotels near Markets'}
                             </a>
                           </div>
                         </div>
@@ -571,9 +574,9 @@ export default function ThailandStreetFood({ data }: StreetFoodProps) {
         {/* Tips */}
         <section className="py-12 bg-surface-cream">
           <div className="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8">
-            <p className="section-label text-center">Good to Know</p>
+            <p className="section-label text-center">{isNl ? 'Goed om te Weten' : 'Good to Know'}</p>
             <h2 className="text-3xl font-bold font-heading text-gray-900 mb-8 text-center">
-              Street Food Tips
+              {isNl ? 'Straatvoedsel Tips' : 'Street Food Tips'}
             </h2>
             <div className="grid md:grid-cols-2 lg:grid-cols-3 gap-6">
               {data.tips.map((tip, i) => (
@@ -595,7 +598,7 @@ export default function ThailandStreetFood({ data }: StreetFoodProps) {
           <div className="max-w-4xl mx-auto px-4 sm:px-6 lg:px-8">
             <p className="section-label text-center">FAQ</p>
             <h2 className="text-3xl font-bold font-heading text-gray-900 mb-8 text-center">
-              Frequently Asked Questions
+              {isNl ? 'Veelgestelde Vragen' : 'Frequently Asked Questions'}
             </h2>
             <div className="space-y-4">
               {FAQ_ITEMS.map((item, i) => (
@@ -623,7 +626,7 @@ export default function ThailandStreetFood({ data }: StreetFoodProps) {
         {/* Sources */}
         <section className="py-10 bg-surface-cream border-t">
           <div className="max-w-4xl mx-auto px-4 sm:px-6 lg:px-8">
-            <h2 className="text-xl font-bold font-heading text-gray-900 mb-4">Sources &amp; References</h2>
+            <h2 className="text-xl font-bold font-heading text-gray-900 mb-4">{isNl ? 'Bronnen & Referenties' : 'Sources & References'}</h2>
             <ul className="space-y-2 text-sm text-gray-600">
               <li>
                 <a href="https://ich.unesco.org/en/RL/tomyum-kung-01879" target="_blank" rel="noopener noreferrer" className="text-thailand-blue hover:underline font-medium">UNESCO — Tom Yum Kung Intangible Cultural Heritage inscription (ich.unesco.org)</a>
@@ -665,12 +668,12 @@ export default function ThailandStreetFood({ data }: StreetFoodProps) {
         <section className="bg-surface-dark py-12">
           <div className="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8">
             <div className="text-center text-white mb-8">
-              <p className="font-script text-thailand-gold text-lg mb-2">Taste Thailand</p>
+              <p className="font-script text-thailand-gold text-lg mb-2">{isNl ? 'Proef Thailand' : 'Taste Thailand'}</p>
               <h2 className="text-3xl font-bold font-heading mb-3">
-                Book a Thai Food Experience
+                {isNl ? 'Boek een Thaise Eetervaring' : 'Book a Thai Food Experience'}
               </h2>
               <p className="text-lg opacity-90">
-                Cooking classes, market tours &amp; foodie adventures
+                {isNl ? 'Kooklessen, markttours & culinaire avonturen' : 'Cooking classes, market tours & foodie adventures'}
               </p>
             </div>
             <div className="grid md:grid-cols-2 gap-8 items-start">
@@ -735,9 +738,9 @@ export default function ThailandStreetFood({ data }: StreetFoodProps) {
         {/* Related Pages */}
         <section className="py-12 bg-white">
           <div className="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8">
-            <p className="section-label text-center">More Guides</p>
+            <p className="section-label text-center">{isNl ? 'Meer Gidsen' : 'More Guides'}</p>
             <h2 className="text-2xl font-bold font-heading text-gray-900 mb-6 text-center">
-              Related Pages
+              {isNl ? 'Gerelateerde Pagina\'s' : 'Related Pages'}
             </h2>
             <div className="grid md:grid-cols-3 gap-6 max-w-4xl mx-auto">
               <Link
@@ -746,13 +749,13 @@ export default function ThailandStreetFood({ data }: StreetFoodProps) {
               >
                 <div className="text-3xl mb-3">&#127750;</div>
                 <h3 className="text-lg font-bold font-heading text-gray-900 group-hover:text-thailand-blue transition-colors mb-2">
-                  Bangkok Nightlife
+                  {isNl ? 'Bangkok Nachtleven' : 'Bangkok Nightlife'}
                 </h3>
                 <p className="text-gray-600 text-sm">
-                  Night markets, rooftop bars &amp; Bangkok&apos;s after-dark food scene.
+                  {isNl ? 'Nachtmarkten, rooftop bars & Bangkok\'s after-dark food scene.' : 'Night markets, rooftop bars & Bangkok\u0027s after-dark food scene.'}
                 </p>
                 <span className="inline-block mt-3 text-thailand-blue text-sm font-medium group-hover:underline">
-                  Explore nightlife &#8594;
+                  {isNl ? 'Ontdek nachtleven' : 'Explore nightlife'} &#8594;
                 </span>
               </Link>
 
@@ -762,13 +765,13 @@ export default function ThailandStreetFood({ data }: StreetFoodProps) {
               >
                 <div className="text-3xl mb-3">&#127869;</div>
                 <h3 className="text-lg font-bold font-heading text-gray-900 group-hover:text-thailand-blue transition-colors mb-2">
-                  Bangkok Restaurants
+                  {isNl ? 'Bangkok Restaurants' : 'Bangkok Restaurants'}
                 </h3>
                 <p className="text-gray-600 text-sm">
-                  The best sit-down restaurants in Bangkok, from local to fine dining.
+                  {isNl ? 'De beste restaurants in Bangkok, van lokaal tot fine dining.' : 'The best sit-down restaurants in Bangkok, from local to fine dining.'}
                 </p>
                 <span className="inline-block mt-3 text-thailand-blue text-sm font-medium group-hover:underline">
-                  View restaurants &#8594;
+                  {isNl ? 'Bekijk restaurants' : 'View restaurants'} &#8594;
                 </span>
               </Link>
 
@@ -778,13 +781,13 @@ export default function ThailandStreetFood({ data }: StreetFoodProps) {
               >
                 <div className="text-3xl mb-3">&#127758;</div>
                 <h3 className="text-lg font-bold font-heading text-gray-900 group-hover:text-thailand-blue transition-colors mb-2">
-                  Thailand for First-Timers
+                  {isNl ? 'Thailand voor Beginners' : 'Thailand for First-Timers'}
                 </h3>
                 <p className="text-gray-600 text-sm">
-                  Everything you need to know before your first trip to Thailand.
+                  {isNl ? 'Alles wat je moet weten voor je eerste reis naar Thailand.' : 'Everything you need to know before your first trip to Thailand.'}
                 </p>
                 <span className="inline-block mt-3 text-thailand-blue text-sm font-medium group-hover:underline">
-                  Read guide &#8594;
+                  {isNl ? 'Lees gids' : 'Read guide'} &#8594;
                 </span>
               </Link>
             </div>

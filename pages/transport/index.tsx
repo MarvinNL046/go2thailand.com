@@ -1,4 +1,5 @@
 import React, { useState } from 'react';
+import { useRouter } from 'next/router';
 import SEOHead from '../../components/SEOHead';
 import Link from 'next/link';
 import { GetStaticProps } from 'next';
@@ -39,12 +40,16 @@ interface TransportIndexProps {
 }
 
 const TransportIndex: React.FC<TransportIndexProps> = ({ popularRoutes, allRoutes, cities }) => {
+  const { locale } = useRouter();
+  const isNl = locale === 'nl';
+  const lang = isNl ? 'nl' : 'en';
+
   const [fromCity, setFromCity] = useState('');
   const [toCity, setToCity] = useState('');
 
   const breadcrumbs = [
     { name: 'Home', href: '/' },
-    { name: 'Transport Routes', href: '/transport' }
+    { name: isNl ? 'Transportroutes' : 'Transport Routes', href: '/transport' }
   ];
 
   const handleRouteSearch = () => {
@@ -54,7 +59,7 @@ const TransportIndex: React.FC<TransportIndexProps> = ({ popularRoutes, allRoute
       if (route) {
         window.location.href = `/transport/${routeSlug}`;
       } else {
-        alert('This route is not available yet. Please try a different route.');
+        alert(isNl ? 'Deze route is nog niet beschikbaar. Probeer een andere route.' : 'This route is not available yet. Please try a different route.');
       }
     }
   };
@@ -102,26 +107,26 @@ const TransportIndex: React.FC<TransportIndexProps> = ({ popularRoutes, allRoute
       <main className="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8 py-8">
         <Breadcrumbs items={breadcrumbs} />
 
-        <h1 className="text-4xl font-bold font-heading text-gray-900 mb-4">Thailand Transport Routes</h1>
+        <h1 className="text-4xl font-bold font-heading text-gray-900 mb-4">{isNl ? 'Thailand Transportroutes' : 'Thailand Transport Routes'}</h1>
         <p className="text-xl text-gray-600 mb-8">
-          Find the best way to travel between Thai cities. Compare flights, buses, trains, and ferries.
+          {isNl ? 'Vind de beste manier om tussen Thaise steden te reizen. Vergelijk vluchten, bussen, treinen en veerboten.' : 'Find the best way to travel between Thai cities. Compare flights, buses, trains, and ferries.'}
         </p>
 
         {/* 12Go Search Widget */}
         <section className="bg-white rounded-2xl shadow-md p-6 mb-8">
-          <h2 className="text-2xl font-bold font-heading mb-4">Book Buses, Trains & Ferries</h2>
-          <p className="text-gray-600 mb-4">Search and book transport across Thailand with 12Go — compare operators, prices, and schedules.</p>
+          <h2 className="text-2xl font-bold font-heading mb-4">{isNl ? 'Boek Bussen, Treinen & Veerboten' : 'Book Buses, Trains & Ferries'}</h2>
+          <p className="text-gray-600 mb-4">{isNl ? 'Zoek en boek transport door Thailand met 12Go — vergelijk aanbieders, prijzen en schema\'s.' : 'Search and book transport across Thailand with 12Go — compare operators, prices, and schedules.'}</p>
           <AffiliateWidget scriptContent={TWELVEGO_SEARCH_WIDGET} minHeight="300px" />
-          <p className="text-xs text-gray-500 mt-2 text-center">Powered by 12Go — we earn a commission at no extra cost to you</p>
+          <p className="text-xs text-gray-500 mt-2 text-center">{isNl ? 'Mogelijk gemaakt door 12Go — we ontvangen een commissie zonder extra kosten voor jou' : 'Powered by 12Go — we earn a commission at no extra cost to you'}</p>
         </section>
 
         {/* Route Finder */}
         <section className="bg-white rounded-2xl shadow-md p-6 mb-8">
-          <h2 className="text-2xl font-bold font-heading mb-4">Find Your Route</h2>
+          <h2 className="text-2xl font-bold font-heading mb-4">{isNl ? 'Vind Je Route' : 'Find Your Route'}</h2>
           <div className="grid md:grid-cols-3 gap-4">
             <div>
               <label htmlFor="from" className="block text-sm font-medium text-gray-700 mb-2">
-                From
+                {isNl ? 'Van' : 'From'}
               </label>
               <select
                 id="from"
@@ -129,7 +134,7 @@ const TransportIndex: React.FC<TransportIndexProps> = ({ popularRoutes, allRoute
                 onChange={(e) => setFromCity(e.target.value)}
                 className="w-full p-3 border border-gray-300 rounded-xl focus:outline-none focus:ring-2 focus:ring-thailand-red"
               >
-                <option value="">Select departure city</option>
+                <option value="">{isNl ? 'Selecteer vertrekstad' : 'Select departure city'}</option>
                 {cities.map(city => (
                   <option key={city.slug} value={city.slug}>{city.name.en}</option>
                 ))}
@@ -137,7 +142,7 @@ const TransportIndex: React.FC<TransportIndexProps> = ({ popularRoutes, allRoute
             </div>
             <div>
               <label htmlFor="to" className="block text-sm font-medium text-gray-700 mb-2">
-                To
+                {isNl ? 'Naar' : 'To'}
               </label>
               <select
                 id="to"
@@ -145,7 +150,7 @@ const TransportIndex: React.FC<TransportIndexProps> = ({ popularRoutes, allRoute
                 onChange={(e) => setToCity(e.target.value)}
                 className="w-full p-3 border border-gray-300 rounded-xl focus:outline-none focus:ring-2 focus:ring-thailand-red"
               >
-                <option value="">Select destination</option>
+                <option value="">{isNl ? 'Selecteer bestemming' : 'Select destination'}</option>
                 {cities.filter(c => c.slug !== fromCity).map(city => (
                   <option key={city.slug} value={city.slug}>{city.name.en}</option>
                 ))}
@@ -157,7 +162,7 @@ const TransportIndex: React.FC<TransportIndexProps> = ({ popularRoutes, allRoute
                 disabled={!fromCity || !toCity}
                 className="w-full bg-thailand-red text-white py-3 px-6 rounded-xl hover:bg-thailand-red-600 transition-colors disabled:bg-gray-300 disabled:cursor-not-allowed"
               >
-                Search Route
+                {isNl ? 'Zoek Route' : 'Search Route'}
               </button>
             </div>
           </div>
@@ -165,7 +170,7 @@ const TransportIndex: React.FC<TransportIndexProps> = ({ popularRoutes, allRoute
 
         {/* Popular Routes */}
         <section className="mb-12">
-          <h2 className="text-3xl font-bold font-heading mb-6">Popular Routes</h2>
+          <h2 className="text-3xl font-bold font-heading mb-6">{isNl ? 'Populaire Routes' : 'Popular Routes'}</h2>
           <div className="grid md:grid-cols-2 lg:grid-cols-3 gap-4">
             {popularRoutes.map(route => {
               const from = cities.find(c => c.slug === route.from);
@@ -186,8 +191,8 @@ const TransportIndex: React.FC<TransportIndexProps> = ({ popularRoutes, allRoute
                     {from.name.en} → {to.name.en}
                   </h3>
                   <div className="flex justify-between text-sm text-gray-600">
-                    <span>From {route.duration.bus || route.duration.flight || route.duration.train}</span>
-                    <span className="text-thailand-red">View options →</span>
+                    <span>{isNl ? 'Vanaf' : 'From'} {route.duration.bus || route.duration.flight || route.duration.train}</span>
+                    <span className="text-thailand-red">{isNl ? 'Bekijk opties' : 'View options'} →</span>
                   </div>
                 </Link>
               );
@@ -198,12 +203,12 @@ const TransportIndex: React.FC<TransportIndexProps> = ({ popularRoutes, allRoute
 
         {/* All Routes by Region */}
         <section>
-          <h2 className="text-3xl font-bold font-heading mb-6">All Routes by Region</h2>
+          <h2 className="text-3xl font-bold font-heading mb-6">{isNl ? 'Alle Routes per Regio' : 'All Routes by Region'}</h2>
           <div className="space-y-8">
             {Object.entries(groupedRoutes).map(([region, routes]) => (
               <div key={region} className="bg-white rounded-2xl shadow-md p-6">
                 <h3 className="text-2xl font-semibold font-heading mb-4 capitalize">
-                  From {region} Thailand
+                  {isNl ? `Vanuit ${region} Thailand` : `From ${region} Thailand`}
                 </h3>
                 <div className="grid md:grid-cols-2 lg:grid-cols-3 gap-3">
                   {routes.map(route => {
@@ -234,22 +239,22 @@ const TransportIndex: React.FC<TransportIndexProps> = ({ popularRoutes, allRoute
         <section className="mt-12 mb-12">
           <div className="bg-surface-dark rounded-2xl shadow-md p-8 text-white">
             <div className="max-w-3xl mx-auto text-center">
-              <h2 className="text-3xl font-bold font-heading mb-4">Book Thailand Transport Online</h2>
+              <h2 className="text-3xl font-bold font-heading mb-4">{isNl ? 'Boek Thailand Transport Online' : 'Book Thailand Transport Online'}</h2>
               <p className="text-lg mb-6 opacity-90">
-                Book buses, trains, ferries, and transfers across Thailand instantly with 12Go. Compare prices, read reviews, and get e-tickets delivered to your email.
+                {isNl ? 'Boek bussen, treinen, veerboten en transfers door Thailand direct met 12Go. Vergelijk prijzen, lees reviews en ontvang e-tickets per e-mail.' : 'Book buses, trains, ferries, and transfers across Thailand instantly with 12Go. Compare prices, read reviews, and get e-tickets delivered to your email.'}
               </p>
               <div className="flex flex-wrap justify-center gap-4 mb-6">
                 <div className="bg-white/20 backdrop-blur-sm px-4 py-2 rounded-full text-sm font-medium">
-                  Buses & Minivans
+                  {isNl ? 'Bussen & Minivans' : 'Buses & Minivans'}
                 </div>
                 <div className="bg-white/20 backdrop-blur-sm px-4 py-2 rounded-full text-sm font-medium">
-                  Trains & Sleepers
+                  {isNl ? 'Treinen & Slaaptreinen' : 'Trains & Sleepers'}
                 </div>
                 <div className="bg-white/20 backdrop-blur-sm px-4 py-2 rounded-full text-sm font-medium">
-                  Ferries & Speedboats
+                  {isNl ? 'Veerboten & Speedboten' : 'Ferries & Speedboats'}
                 </div>
                 <div className="bg-white/20 backdrop-blur-sm px-4 py-2 rounded-full text-sm font-medium">
-                  Airport Transfers
+                  {isNl ? 'Luchthaventransfers' : 'Airport Transfers'}
                 </div>
               </div>
               <a
@@ -258,10 +263,10 @@ const TransportIndex: React.FC<TransportIndexProps> = ({ popularRoutes, allRoute
                 rel="noopener noreferrer"
                 className="inline-block bg-thailand-red text-white px-8 py-3 rounded-xl font-semibold hover:bg-thailand-red-600 transition-colors shadow-md"
               >
-                Search Routes on 12Go →
+                {isNl ? 'Zoek Routes op 12Go' : 'Search Routes on 12Go'} →
               </a>
               <p className="text-xs mt-4 opacity-75">
-                We earn a commission when you book through our links at no extra cost to you
+                {isNl ? 'We ontvangen een commissie wanneer je boekt via onze links, zonder extra kosten voor jou' : 'We earn a commission when you book through our links at no extra cost to you'}
               </p>
             </div>
           </div>
@@ -269,10 +274,10 @@ const TransportIndex: React.FC<TransportIndexProps> = ({ popularRoutes, allRoute
 
         {/* Transport Tips */}
         <section className="mt-12 bg-white rounded-2xl shadow-md p-6">
-          <h2 className="text-2xl font-bold font-heading mb-4">Thailand Transport Tips</h2>
+          <h2 className="text-2xl font-bold font-heading mb-4">{isNl ? 'Thailand Transport Tips' : 'Thailand Transport Tips'}</h2>
           <div className="grid md:grid-cols-2 gap-6">
             <div>
-              <h3 className="font-semibold font-heading mb-2">Best Transport by Distance</h3>
+              <h3 className="font-semibold font-heading mb-2">{isNl ? 'Beste Transport per Afstand' : 'Best Transport by Distance'}</h3>
               <ul className="space-y-2 text-gray-700">
                 <li>• <strong>&lt; 200km:</strong> Bus or minivan (cheapest)</li>
                 <li>• <strong>200-500km:</strong> Train (scenic) or VIP bus</li>
@@ -281,7 +286,7 @@ const TransportIndex: React.FC<TransportIndexProps> = ({ popularRoutes, allRoute
               </ul>
             </div>
             <div>
-              <h3 className="font-semibold font-heading mb-2">Booking Tips</h3>
+              <h3 className="font-semibold font-heading mb-2">{isNl ? 'Boektips' : 'Booking Tips'}</h3>
               <ul className="space-y-2 text-gray-700">
                 <li>• Book flights 3-4 weeks in advance</li>
                 <li>• Train sleepers fill up fast - book early</li>
@@ -290,7 +295,7 @@ const TransportIndex: React.FC<TransportIndexProps> = ({ popularRoutes, allRoute
               </ul>
             </div>
             <div>
-              <h3 className="font-semibold font-heading mb-2">Comfort Levels</h3>
+              <h3 className="font-semibold font-heading mb-2">{isNl ? 'Comfortniveaus' : 'Comfort Levels'}</h3>
               <ul className="space-y-2 text-gray-700">
                 <li>• <strong>Most comfortable:</strong> Flights, first-class train</li>
                 <li>• <strong>Good comfort:</strong> VIP bus, sleeper train</li>
@@ -299,7 +304,7 @@ const TransportIndex: React.FC<TransportIndexProps> = ({ popularRoutes, allRoute
               </ul>
             </div>
             <div>
-              <h3 className="font-semibold font-heading mb-2">What to Bring</h3>
+              <h3 className="font-semibold font-heading mb-2">{isNl ? 'Wat Mee te Nemen' : 'What to Bring'}</h3>
               <ul className="space-y-2 text-gray-700">
                 <li>• Light jacket (AC can be very cold)</li>
                 <li>• Snacks and water</li>
@@ -312,23 +317,23 @@ const TransportIndex: React.FC<TransportIndexProps> = ({ popularRoutes, allRoute
 
         {/* Explore More */}
         <section className="mt-12 bg-white rounded-2xl shadow-md p-6">
-          <h2 className="text-2xl font-bold font-heading mb-4">Explore Thailand</h2>
+          <h2 className="text-2xl font-bold font-heading mb-4">{isNl ? 'Ontdek Thailand' : 'Explore Thailand'}</h2>
           <div className="grid grid-cols-2 md:grid-cols-4 gap-3">
             <Link href="/islands/" className="p-3 bg-surface-cream rounded-xl hover:shadow-md transition-all text-center">
-              <div className="font-semibold text-gray-900 text-sm">Thai Islands</div>
-              <div className="text-xs text-gray-600">Ferry destinations</div>
+              <div className="font-semibold text-gray-900 text-sm">{isNl ? 'Thaise Eilanden' : 'Thai Islands'}</div>
+              <div className="text-xs text-gray-600">{isNl ? 'Veerbootbestemmingen' : 'Ferry destinations'}</div>
             </Link>
             <Link href="/city/" className="p-3 bg-surface-cream rounded-xl hover:shadow-md transition-all text-center">
-              <div className="font-semibold text-gray-900 text-sm">All Cities</div>
-              <div className="text-xs text-gray-600">Browse destinations</div>
+              <div className="font-semibold text-gray-900 text-sm">{isNl ? 'Alle Steden' : 'All Cities'}</div>
+              <div className="text-xs text-gray-600">{isNl ? 'Bekijk bestemmingen' : 'Browse destinations'}</div>
             </Link>
             <Link href="/region/" className="p-3 bg-surface-cream rounded-xl hover:shadow-md transition-all text-center">
-              <div className="font-semibold text-gray-900 text-sm">Regions</div>
-              <div className="text-xs text-gray-600">North, South, Central</div>
+              <div className="font-semibold text-gray-900 text-sm">{isNl ? "Regio's" : 'Regions'}</div>
+              <div className="text-xs text-gray-600">{isNl ? 'Noord, Zuid, Centraal' : 'North, South, Central'}</div>
             </Link>
             <Link href="/food/" className="p-3 bg-surface-cream rounded-xl hover:shadow-md transition-all text-center">
-              <div className="font-semibold text-gray-900 text-sm">Thai Food</div>
-              <div className="text-xs text-gray-600">Cuisine guide</div>
+              <div className="font-semibold text-gray-900 text-sm">{isNl ? 'Thais Eten' : 'Thai Food'}</div>
+              <div className="text-xs text-gray-600">{isNl ? 'Keuken gids' : 'Cuisine guide'}</div>
             </Link>
           </div>
         </section>

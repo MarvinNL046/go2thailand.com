@@ -111,7 +111,7 @@ export default function SocialPage({ featuredPosts, recentPosts }: SocialPagePro
           <div className="container-custom py-6">
             <Breadcrumbs items={[
               { name: 'Home', href: '/' },
-              { name: 'Social Media', href: '/social' }
+              { name: isNl ? 'Sociale Media' : 'Social Media', href: '/social' }
             ]} />
 
           </div>

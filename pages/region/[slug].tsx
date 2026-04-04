@@ -142,29 +142,30 @@ interface RegionPageProps {
 export default function RegionPage({ region, cities, regionalDishes, regionalItineraries, regionalComparisons, regionalTransportRoutes, featuredCityAffiliates }: RegionPageProps) {
   const { locale } = useRouter();
   const lang = locale || 'en';
+  const isNl = locale === 'nl';
   const contentAnim = useScrollAnimation(0.05);
   const tipsAnim = useScrollAnimation(0.1);
   const planAnim = useScrollAnimation(0.1);
   const exploreAnim = useScrollAnimation(0.1);
 
   if (!region) {
-    return <div>Region not found</div>;
+    return <div>{isNl ? 'Regio niet gevonden' : 'Region not found'}</div>;
   }
 
   const breadcrumbs = [
     { name: 'Home', href: '/' },
-    { name: 'Regions', href: '/region/' },
-    { name: region.name.en, href: `/region/${region.slug}/` }
+    { name: isNl ? "Regio's" : 'Regions', href: '/region/' },
+    { name: (isNl && region.name.nl) ? region.name.nl : (region.name[lang] || region.name.en), href: `/region/${region.slug}/` }
   ];
 
   return (
     <>
       <SEOHead
-        title={region.seo.metaTitle.en}
-        description={region.seo.metaDescription.en || region.description.en}
+        title={region.seo.metaTitle[lang] || region.seo.metaTitle.en}
+        description={(region.seo.metaDescription[lang] || region.seo.metaDescription.en) || (region.description[lang] || (region.description[lang] || region.description.en))}
         ogImage={toAbsoluteImageUrl(region.image)}
       >
-        <meta name="keywords" content={`${region.name.en}, Thailand, ${region.cities.join(', ')}, travel guide, attractions, culture`} />
+        <meta name="keywords" content={`${(region.name[lang] || region.name.en)}, Thailand, ${region.cities.join(', ')}, travel guide, attractions, culture`} />
         <meta property="og:type" content="website" />
       </SEOHead>
 
@@ -174,7 +175,7 @@ export default function RegionPage({ region, cities, regionalDishes, regionalIti
           <div className="absolute inset-0">
             <Image
               src={region.image}
-              alt={`${region.name.en}, Thailand`}
+              alt={`${(region.name[lang] || region.name.en)}, Thailand`}
               fill
               className="object-cover"
               priority
@@ -187,18 +188,18 @@ export default function RegionPage({ region, cities, regionalDishes, regionalIti
               <div className="max-w-4xl">
                 <div className="flex items-center mb-4">
                   <span className="bg-thailand-red text-white px-3 py-1 rounded-xl text-sm font-semibold mr-3">
-                    {cities.length} Cities
+                    {cities.length} {isNl ? 'Steden' : 'Cities'}
                   </span>
                   <span className="text-gray-200 text-sm">
-                    Best time: {t(region.bestTimeToVisit, lang)}
+                    {isNl ? 'Beste tijd' : 'Best time'}: {t(region.bestTimeToVisit, lang)}
                   </span>
                 </div>
-                <span className="font-script text-thailand-red text-lg">Explore the region</span>
+                <span className="font-script text-thailand-red text-lg">{isNl ? 'Ontdek de regio' : 'Explore the region'}</span>
                 <h1 className="text-4xl lg:text-6xl font-bold font-heading mb-4">
-                  {region.name.en}
+                  {(region.name[lang] || region.name.en)}
                 </h1>
                 <p className="text-xl lg:text-2xl text-gray-200 max-w-3xl">
-                  {region.description.en}
+                  {(region.description[lang] || region.description.en)}
                 </p>
               </div>
             </div>
@@ -217,22 +218,22 @@ export default function RegionPage({ region, cities, regionalDishes, regionalIti
                 {/* Region Overview */}
                 <div className={`mb-12 scroll-fade-up ${contentAnim.isVisible ? 'is-visible' : ''}`}>
                   <h2 className="text-3xl font-bold font-heading text-gray-900 mb-6">
-                    About {region.name.en}
+                    {isNl ? `Over ${(region.name[lang] || region.name.en)}` : `About ${(region.name[lang] || region.name.en)}`}
                   </h2>
                   <div className="prose prose-lg max-w-none">
                     <p className="text-gray-700 leading-relaxed mb-6">
-                      {region.description.en}
+                      {(region.description[lang] || region.description.en)}
                     </p>
 
                     <div className="grid grid-cols-2 gap-6 my-8 p-6 bg-white rounded-2xl shadow-sm">
                       <div>
-                        <h4 className="font-semibold font-heading text-gray-900 mb-2">Cities</h4>
+                        <h4 className="font-semibold font-heading text-gray-900 mb-2">{isNl ? 'Steden' : 'Cities'}</h4>
                         <p className="text-2xl font-bold text-thailand-blue">
                           {cities.length}
                         </p>
                       </div>
                       <div>
-                        <h4 className="font-semibold font-heading text-gray-900 mb-2">Best Time</h4>
+                        <h4 className="font-semibold font-heading text-gray-900 mb-2">{isNl ? 'Beste Tijd' : 'Best Time'}</h4>
                         <p className="text-lg font-medium text-thailand-blue">
                           {t(region.bestTimeToVisit, lang)}
                         </p>
@@ -245,7 +246,7 @@ export default function RegionPage({ region, cities, regionalDishes, regionalIti
                 {(region.geography || region.culture) && (
                   <div className={`mb-12 scroll-fade-up ${contentAnim.isVisible ? 'is-visible' : ''}`}>
                     <h2 className="text-3xl font-bold font-heading text-gray-900 mb-6">
-                      Geography & Culture
+                      {isNl ? 'Geografie & Cultuur' : 'Geography & Culture'}
                     </h2>
                     <div className="grid grid-cols-1 md:grid-cols-2 gap-8">
                       {region.geography && (
@@ -256,7 +257,7 @@ export default function RegionPage({ region, cities, regionalDishes, regionalIti
                                 <path strokeLinecap="round" strokeLinejoin="round" strokeWidth="2" d="M3.055 11H5a2 2 0 012 2v1a2 2 0 002 2 2 2 0 012 2v2.945M8 3.935V5.5A2.5 2.5 0 0010.5 8h.5a2 2 0 012 2 2 2 0 104 0 2 2 0 012-2h1.064M15 20.488V18a2 2 0 012-2h3.064" />
                               </svg>
                             </div>
-                            <h3 className="text-xl font-semibold font-heading text-gray-900">Geography</h3>
+                            <h3 className="text-xl font-semibold font-heading text-gray-900">{isNl ? 'Geografie' : 'Geography'}</h3>
                           </div>
                           <p className="text-gray-700 leading-relaxed">{t(region.geography, lang)}</p>
                         </div>
@@ -270,7 +271,7 @@ export default function RegionPage({ region, cities, regionalDishes, regionalIti
                                 <path strokeLinecap="round" strokeLinejoin="round" strokeWidth="2" d="M7 8h10M7 12h4m1 8l-4-4H5a2 2 0 01-2-2V6a2 2 0 012-2h14a2 2 0 012 2v8a2 2 0 01-2 2h-3l-4 4z" />
                               </svg>
                             </div>
-                            <h3 className="text-xl font-semibold font-heading text-gray-900">Culture</h3>
+                            <h3 className="text-xl font-semibold font-heading text-gray-900">{isNl ? 'Cultuur' : 'Culture'}</h3>
                           </div>
                           <p className="text-gray-700 leading-relaxed">{t(region.culture, lang)}</p>
                         </div>
@@ -283,7 +284,7 @@ export default function RegionPage({ region, cities, regionalDishes, regionalIti
                 {(region.cuisine || region.transportation) && (
                   <div className={`mb-12 scroll-fade-up ${contentAnim.isVisible ? 'is-visible' : ''}`}>
                     <h2 className="text-3xl font-bold font-heading text-gray-900 mb-6">
-                      Cuisine & Getting Around
+                      {isNl ? 'Keuken & Vervoer' : 'Cuisine & Getting Around'}
                     </h2>
                     <div className="grid grid-cols-1 md:grid-cols-2 gap-8">
                       {region.cuisine && (
@@ -294,7 +295,7 @@ export default function RegionPage({ region, cities, regionalDishes, regionalIti
                                 <path strokeLinecap="round" strokeLinejoin="round" strokeWidth="2" d="M12 6.253v13m0-13C10.832 5.477 9.246 5 7.5 5S4.168 5.477 3 6.253v13C4.168 18.477 5.754 18 7.5 18s3.332.477 4.5 1.253m0-13C13.168 5.477 14.754 5 16.5 5c1.746 0 3.332.477 4.5 1.253v13C19.832 18.477 18.246 18 16.5 18c-1.746 0-3.332.477-4.5 1.253" />
                               </svg>
                             </div>
-                            <h3 className="text-xl font-semibold font-heading text-gray-900">Local Cuisine</h3>
+                            <h3 className="text-xl font-semibold font-heading text-gray-900">{isNl ? 'Lokale Keuken' : 'Local Cuisine'}</h3>
                           </div>
                           <p className="text-gray-700 leading-relaxed">{t(region.cuisine, lang)}</p>
                         </div>
@@ -308,7 +309,7 @@ export default function RegionPage({ region, cities, regionalDishes, regionalIti
                                 <path strokeLinecap="round" strokeLinejoin="round" strokeWidth="2" d="M13 10V3L4 14h7v7l9-11h-7z" />
                               </svg>
                             </div>
-                            <h3 className="text-xl font-semibold font-heading text-gray-900">Transportation</h3>
+                            <h3 className="text-xl font-semibold font-heading text-gray-900">{isNl ? 'Vervoer' : 'Transportation'}</h3>
                           </div>
                           <p className="text-gray-700 leading-relaxed">{t(region.transportation, lang)}</p>
                         </div>
@@ -321,7 +322,7 @@ export default function RegionPage({ region, cities, regionalDishes, regionalIti
                 {tArr(region.topActivities, lang).length > 0 && (
                   <div className={`mb-12 scroll-fade-up ${contentAnim.isVisible ? 'is-visible' : ''}`}>
                     <h2 className="text-3xl font-bold font-heading text-gray-900 mb-6">
-                      Top Activities
+                      {isNl ? 'Top Activiteiten' : 'Top Activities'}
                     </h2>
                     <div className="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-3 gap-6">
                       {tArr(region.topActivities, lang).map((activity, index) => (
@@ -344,7 +345,7 @@ export default function RegionPage({ region, cities, regionalDishes, regionalIti
                 {tArr(region.hiddenGems, lang).length > 0 && (
                   <div className={`mb-12 scroll-fade-up ${contentAnim.isVisible ? 'is-visible' : ''}`}>
                     <h2 className="text-3xl font-bold font-heading text-gray-900 mb-6">
-                      Hidden Gems
+                      {isNl ? 'Verborgen Parels' : 'Hidden Gems'}
                     </h2>
                     <div className="grid grid-cols-1 md:grid-cols-2 gap-6">
                       {tArr(region.hiddenGems, lang).map((gem, index) => (
@@ -366,7 +367,7 @@ export default function RegionPage({ region, cities, regionalDishes, regionalIti
                 {/* Regional Highlights */}
                 <div className={`mb-12 scroll-fade-up ${contentAnim.isVisible ? 'is-visible' : ''}`}>
                   <h2 className="text-3xl font-bold font-heading text-gray-900 mb-6">
-                    Regional Highlights
+                    {isNl ? 'Regionale Hoogtepunten' : 'Regional Highlights'}
                   </h2>
                   <div className="grid grid-cols-1 md:grid-cols-2 gap-6">
                     {tArr(region.highlights, lang).map((highlight, index) => (
@@ -388,10 +389,10 @@ export default function RegionPage({ region, cities, regionalDishes, regionalIti
                 {/* Cities in Region */}
                 <div className={`mb-12 scroll-fade-up ${contentAnim.isVisible ? 'is-visible' : ''}`}>
                   <h2 className="text-3xl font-bold font-heading text-gray-900 mb-6">
-                    Cities in {region.name.en}
+                    {isNl ? `Steden in ${(region.name[lang] || region.name.en)}` : `Cities in ${(region.name[lang] || region.name.en)}`}
                   </h2>
                   <p className="text-gray-600 mb-8">
-                    Explore {cities.length} amazing cities in {region.name.en}, each offering unique experiences and attractions.
+                    {isNl ? `Ontdek ${cities.length} prachtige steden in ${(region.name[lang] || region.name.en)}, elk met unieke ervaringen en attracties.` : `Explore ${cities.length} amazing cities in ${(region.name[lang] || region.name.en)}, each offering unique experiences and attractions.`}
                   </p>
                   <div className="grid grid-cols-1 md:grid-cols-2 gap-8">
                     {cities.map((city) => (
@@ -421,20 +422,20 @@ export default function RegionPage({ region, cities, regionalDishes, regionalIti
                 {regionalDishes.length > 0 && (
                   <div className={`mb-12 scroll-fade-up ${contentAnim.isVisible ? 'is-visible' : ''}`}>
                     <h2 className="text-3xl font-bold font-heading text-gray-900 mb-6">
-                      Regional Cuisine of {region.name.en}
+                      {isNl ? `Regionale Keuken van ${(region.name[lang] || region.name.en)}` : `Regional Cuisine of ${(region.name[lang] || region.name.en)}`}
                     </h2>
                     <p className="text-gray-600 mb-6">
-                      Discover the signature dishes that make {region.name.en} a culinary destination.
+                      {isNl ? `Ontdek de kenmerkende gerechten die ${(region.name[lang] || region.name.en)} tot een culinaire bestemming maken.` : `Discover the signature dishes that make ${(region.name[lang] || region.name.en)} a culinary destination.`}
                     </p>
                     <div className="grid grid-cols-2 md:grid-cols-3 gap-4">
                       {regionalDishes.map((dish) => (
                         <Link key={dish.slug} href={`/food/${dish.slug}/`} className="group">
                           <div className="bg-white rounded-2xl shadow-sm overflow-hidden hover:shadow-md transition-shadow">
                             <div className="relative h-32">
-                              <Image src={dish.image} alt={dish.name.en} fill className="object-cover group-hover:scale-105 transition-transform" />
+                              <Image src={dish.image} alt={dish.name[lang] || dish.name.en} fill className="object-cover group-hover:scale-105 transition-transform" />
                             </div>
                             <div className="p-3">
-                              <h3 className="font-semibold text-sm text-gray-900 group-hover:text-thailand-blue transition-colors">{dish.name.en}</h3>
+                              <h3 className="font-semibold text-sm text-gray-900 group-hover:text-thailand-blue transition-colors">{dish.name[lang] || dish.name.en}</h3>
                               <span className="text-xs text-gray-500 capitalize">{dish.category.replace('-', ' ')}</span>
                             </div>
                           </div>
@@ -443,7 +444,7 @@ export default function RegionPage({ region, cities, regionalDishes, regionalIti
                     </div>
                     <div className="mt-4 text-center">
                       <Link href="/food/" className="text-thailand-blue font-medium hover:underline text-sm">
-                        Browse all Thai dishes &rarr;
+                        {isNl ? 'Bekijk alle Thaise gerechten' : 'Browse all Thai dishes'} &rarr;
                       </Link>
                     </div>
                   </div>
@@ -453,7 +454,7 @@ export default function RegionPage({ region, cities, regionalDishes, regionalIti
                 {regionalItineraries.length > 0 && (
                   <div className={`mb-12 scroll-fade-up ${contentAnim.isVisible ? 'is-visible' : ''}`}>
                     <h2 className="text-3xl font-bold font-heading text-gray-900 mb-6">
-                      Itineraries for {region.name.en}
+                      {isNl ? `Reisroutes voor ${(region.name[lang] || region.name.en)}` : `Itineraries for ${(region.name[lang] || region.name.en)}`}
                     </h2>
                     <div className="space-y-4">
                       {regionalItineraries.map((it) => (
@@ -463,7 +464,7 @@ export default function RegionPage({ region, cities, regionalDishes, regionalIti
                               <Image src={it.image} alt={it.title.en} fill className="object-cover" />
                             </div>
                             <div className="flex-1 min-w-0">
-                              <h3 className="font-semibold text-gray-900 group-hover:text-thailand-blue transition-colors truncate">{it.title.en}</h3>
+                              <h3 className="font-semibold text-gray-900 group-hover:text-thailand-blue transition-colors truncate">{it.title[lang] || it.title.en}</h3>
                               <span className="text-sm text-gray-500">{it.duration}</span>
                             </div>
                             <svg className="w-5 h-5 text-gray-400 group-hover:text-thailand-blue flex-shrink-0" fill="none" viewBox="0 0 24 24" stroke="currentColor">
@@ -480,7 +481,7 @@ export default function RegionPage({ region, cities, regionalDishes, regionalIti
                 {regionalComparisons.length > 0 && (
                   <div className={`mb-12 scroll-fade-up ${contentAnim.isVisible ? 'is-visible' : ''}`}>
                     <h2 className="text-3xl font-bold font-heading text-gray-900 mb-6">
-                      Compare Cities in {region.name.en}
+                      {isNl ? `Vergelijk Steden in ${(region.name[lang] || region.name.en)}` : `Compare Cities in ${(region.name[lang] || region.name.en)}`}
                     </h2>
                     <div className="grid grid-cols-1 sm:grid-cols-2 gap-4">
                       {regionalComparisons.map((comp) => (
@@ -503,7 +504,7 @@ export default function RegionPage({ region, cities, regionalDishes, regionalIti
                 {regionalTransportRoutes.length > 0 && (
                   <div className={`mb-12 scroll-fade-up ${contentAnim.isVisible ? 'is-visible' : ''}`}>
                     <h2 className="text-3xl font-bold font-heading text-gray-900 mb-6">
-                      Getting Around {region.name.en}
+                      {isNl ? `Vervoer in ${(region.name[lang] || region.name.en)}` : `Getting Around ${(region.name[lang] || region.name.en)}`}
                     </h2>
                     <div className="grid grid-cols-1 sm:grid-cols-2 gap-3">
                       {regionalTransportRoutes.map((route) => (
@@ -530,7 +531,7 @@ export default function RegionPage({ region, cities, regionalDishes, regionalIti
                 {/* Regional Travel Guide */}
                 <div className={`mb-12 scroll-fade-up ${contentAnim.isVisible ? 'is-visible' : ''}`}>
                   <h2 className="text-3xl font-bold font-heading text-gray-900 mb-6">
-                    Travel Guide for {region.name.en}
+                    {isNl ? `Reisgids voor ${(region.name[lang] || region.name.en)}` : `Travel Guide for ${(region.name[lang] || region.name.en)}`}
                   </h2>
 
                   <div className="grid grid-cols-1 md:grid-cols-2 gap-8">
@@ -633,14 +634,14 @@ export default function RegionPage({ region, cities, regionalDishes, regionalIti
               <div className="lg:col-span-1">
                 {/* Quick Facts */}
                 <div className="bg-white rounded-2xl border-0 shadow-md p-6 mb-8">
-                  <h3 className="text-xl font-bold font-heading text-gray-900 mb-4">Quick Facts</h3>
+                  <h3 className="text-xl font-bold font-heading text-gray-900 mb-4">{isNl ? 'Snelle Feiten' : 'Quick Facts'}</h3>
                   <div className="space-y-3">
                     <div className="flex justify-between">
-                      <span className="text-gray-600">Cities:</span>
+                      <span className="text-gray-600">{isNl ? 'Steden:' : 'Cities:'}</span>
                       <span className="font-medium">{cities.length}</span>
                     </div>
                     <div className="flex justify-between">
-                      <span className="text-gray-600">Best Time:</span>
+                      <span className="text-gray-600">{isNl ? 'Beste Tijd:' : 'Best Time:'}</span>
                       <span className="font-medium">{t(region.bestTimeToVisit, lang)}</span>
                     </div>
                     {region.statistics && (
@@ -689,7 +690,7 @@ export default function RegionPage({ region, cities, regionalDishes, regionalIti
                           <path d="M4 4a2 2 0 00-2 2v4a2 2 0 002 2V6h10a2 2 0 00-2-2H4zm2 6a2 2 0 012-2h8a2 2 0 012 2v4a2 2 0 01-2 2H8a2 2 0 01-2-2v-4zm6 4a2 2 0 100-4 2 2 0 000 4z" />
                         </svg>
                       </div>
-                      <h3 className="text-xl font-bold font-heading text-gray-900">Budget Guide</h3>
+                      <h3 className="text-xl font-bold font-heading text-gray-900">{isNl ? 'Budgetgids' : 'Budget Guide'}</h3>
                     </div>
                     <p className="text-gray-700 text-sm leading-relaxed">{t(region.budgetInfo, lang)}</p>
                   </div>
@@ -704,7 +705,7 @@ export default function RegionPage({ region, cities, regionalDishes, regionalIti
                           <path strokeLinecap="round" strokeLinejoin="round" strokeWidth="2" d="M5 3v4M3 5h4M6 17v4m-2-2h4m5-16l2.286 6.857L21 12l-5.714 2.143L13 21l-2.286-6.857L5 12l5.714-2.143L13 3z" />
                         </svg>
                       </div>
-                      <h3 className="text-xl font-bold font-heading text-gray-900">Local Festivals</h3>
+                      <h3 className="text-xl font-bold font-heading text-gray-900">{isNl ? 'Lokale Festivals' : 'Local Festivals'}</h3>
                     </div>
                     <div className="space-y-2">
                       {tArr(region.localFestivals, lang).map((festival, index) => (
@@ -726,7 +727,7 @@ export default function RegionPage({ region, cities, regionalDishes, regionalIti
                           <path strokeLinecap="round" strokeLinejoin="round" strokeWidth="2" d="M9.663 17h4.673M12 3v1m6.364 1.636l-.707.707M21 12h-1M4 12H3m3.343-5.657l-.707-.707m2.828 9.9a5 5 0 117.072 0l-.548.547A3.374 3.374 0 0014 18.469V19a2 2 0 11-4 0v-.531c0-.895-.356-1.754-.988-2.386l-.548-.547z" />
                         </svg>
                       </div>
-                      <h3 className="text-xl font-bold font-heading text-gray-900">Pro Tips</h3>
+                      <h3 className="text-xl font-bold font-heading text-gray-900">{isNl ? 'Pro Tips' : 'Pro Tips'}</h3>
                     </div>
                     <div className="space-y-3">
                       {tArr(region.travelTips, lang).slice(0, 3).map((tip, index) => (
@@ -748,7 +749,7 @@ export default function RegionPage({ region, cities, regionalDishes, regionalIti
                           <path strokeLinecap="round" strokeLinejoin="round" strokeWidth="2" d="M20 7l-8-4-8 4m16 0l-8 4m8-4v10l-8 4m0-10L4 7m8 4v10M4 7v10l8 4" />
                         </svg>
                       </div>
-                      <h3 className="text-xl font-bold font-heading text-gray-900">Packing List</h3>
+                      <h3 className="text-xl font-bold font-heading text-gray-900">{isNl ? 'Paklijst' : 'Packing List'}</h3>
                     </div>
                     <div className="grid grid-cols-1 gap-1">
                       {tArr(region.whatToPack, lang).slice(0, 6).map((item, index) => (
@@ -764,7 +765,7 @@ export default function RegionPage({ region, cities, regionalDishes, regionalIti
 
                 {/* Regional Highlights */}
                 <div className="bg-white rounded-2xl border-0 shadow-md p-6 mb-8">
-                  <h3 className="text-xl font-bold font-heading text-gray-900 mb-4">Regional Specialties</h3>
+                  <h3 className="text-xl font-bold font-heading text-gray-900 mb-4">{isNl ? 'Regionale Specialiteiten' : 'Regional Specialties'}</h3>
                   <div className="space-y-3">
                     {tArr(region.highlights, lang).slice(0, 4).map((highlight, index) => (
                       <div key={index} className="flex items-center">
@@ -777,12 +778,12 @@ export default function RegionPage({ region, cities, regionalDishes, regionalIti
 
                 {/* Popular Cities */}
                 <div className="bg-white rounded-2xl border-0 shadow-md p-6">
-                  <h3 className="text-xl font-bold font-heading text-gray-900 mb-4">Popular Cities</h3>
+                  <h3 className="text-xl font-bold font-heading text-gray-900 mb-4">{isNl ? 'Populaire Steden' : 'Popular Cities'}</h3>
                   <div className="space-y-3">
                     {cities.slice(0, 4).map((city) => (
                       <Link key={city.id} href={`/city/${city.slug}/`}>
                         <div className="flex items-center justify-between p-2 rounded-xl hover:bg-surface-cream transition-colors cursor-pointer">
-                          <span className="text-gray-700 font-medium">{city.name.en}</span>
+                          <span className="text-gray-700 font-medium">{city.name[lang] || city.name.en}</span>
                           <svg className="w-4 h-4 text-gray-400" fill="none" stroke="currentColor" viewBox="0 0 24 24">
                             <path strokeLinecap="round" strokeLinejoin="round" strokeWidth="2" d="M9 5l7 7-7 7" />
                           </svg>
@@ -800,9 +801,9 @@ export default function RegionPage({ region, cities, regionalDishes, regionalIti
         <section className="bg-surface-cream section-padding" ref={tipsAnim.ref}>
           <div className="container-custom">
             <div className={`text-center mb-10 scroll-fade-up ${tipsAnim.isVisible ? 'is-visible' : ''}`}>
-              <span className="section-label">Travel smarter</span>
+              <span className="section-label">{isNl ? 'Reis slimmer' : 'Travel smarter'}</span>
               <h2 className="section-title">
-                Tips for Visiting {region.name.en}
+                {isNl ? `Tips voor een Bezoek aan ${(region.name[lang] || region.name.en)}` : `Tips for Visiting ${(region.name[lang] || region.name.en)}`}
               </h2>
             </div>
 
@@ -813,9 +814,9 @@ export default function RegionPage({ region, cities, regionalDishes, regionalIti
                     <path strokeLinecap="round" strokeLinejoin="round" strokeWidth="2" d="M12 8v4l3 3m6-3a9 9 0 11-18 0 9 9 0 0118 0z" />
                   </svg>
                 </div>
-                <h3 className="text-xl font-semibold font-heading text-gray-900 mb-3">When to Visit</h3>
+                <h3 className="text-xl font-semibold font-heading text-gray-900 mb-3">{isNl ? 'Wanneer Bezoeken' : 'When to Visit'}</h3>
                 <p className="text-gray-600 text-sm leading-relaxed">
-                  {t(region.bestTimeToVisit, lang)} offers the best weather conditions for exploring {region.name.en}.
+                  {t(region.bestTimeToVisit, lang)} offers the best weather conditions for exploring {(region.name[lang] || region.name.en)}.
                   Plan accordingly for the most comfortable experience.
                 </p>
               </div>
@@ -826,10 +827,9 @@ export default function RegionPage({ region, cities, regionalDishes, regionalIti
                     <path strokeLinecap="round" strokeLinejoin="round" strokeWidth="2" d="M17.657 16.657L13.414 20.9a1.998 1.998 0 01-2.827 0l-4.244-4.243a8 8 0 1111.314 0z" />
                   </svg>
                 </div>
-                <h3 className="text-xl font-semibold font-heading text-gray-900 mb-3">Getting Around</h3>
+                <h3 className="text-xl font-semibold font-heading text-gray-900 mb-3">{isNl ? 'Rondreizen' : 'Getting Around'}</h3>
                 <p className="text-gray-600 text-sm leading-relaxed">
-                  Transportation varies by region. Research the best options for moving between
-                  cities and local transport within each destination.
+                  {isNl ? 'Vervoer varieert per regio. Onderzoek de beste opties om tussen steden te reizen en lokaal vervoer binnen elke bestemming.' : 'Transportation varies by region. Research the best options for moving between cities and local transport within each destination.'}
                 </p>
               </div>
 
@@ -839,10 +839,9 @@ export default function RegionPage({ region, cities, regionalDishes, regionalIti
                     <path strokeLinecap="round" strokeLinejoin="round" strokeWidth="2" d="M7 8h10M7 12h4m1 8l-4-4H5a2 2 0 01-2-2V6a2 2 0 012-2h14a2 2 0 012 2v8a2 2 0 01-2 2h-3l-4 4z" />
                   </svg>
                 </div>
-                <h3 className="text-xl font-semibold font-heading text-gray-900 mb-3">Cultural Tips</h3>
+                <h3 className="text-xl font-semibold font-heading text-gray-900 mb-3">{isNl ? 'Culturele Tips' : 'Cultural Tips'}</h3>
                 <p className="text-gray-600 text-sm leading-relaxed">
-                  Each region has unique customs and traditions. Learning basic Thai phrases
-                  and respecting local customs will enhance your experience.
+                  {isNl ? 'Elke regio heeft unieke gebruiken en tradities. Het leren van basiszinnen in het Thai en het respecteren van lokale gewoonten verrijkt je ervaring.' : 'Each region has unique customs and traditions. Learning basic Thai phrases and respecting local customs will enhance your experience.'}
                 </p>
               </div>
             </div>
@@ -853,12 +852,12 @@ export default function RegionPage({ region, cities, regionalDishes, regionalIti
         <section className="bg-white section-padding" ref={planAnim.ref}>
           <div className="container-custom">
             <div className={`text-center mb-10 scroll-fade-up ${planAnim.isVisible ? 'is-visible' : ''}`}>
-              <span className="section-label">Book with confidence</span>
+              <span className="section-label">{isNl ? 'Boek met vertrouwen' : 'Book with confidence'}</span>
               <h2 className="section-title">
-                Plan Your Trip to {region.name.en}
+                {isNl ? `Plan Je Reis naar ${(region.name[lang] || region.name.en)}` : `Plan Your Trip to ${(region.name[lang] || region.name.en)}`}
               </h2>
               <p className="text-gray-600 mt-4 max-w-2xl mx-auto">
-                Find the best deals on hotels, transport, and activities for your {region.name.en} adventure.
+                Find the best deals on hotels, transport, and activities for your {(region.name[lang] || region.name.en)} adventure.
               </p>
             </div>
 
@@ -870,8 +869,8 @@ export default function RegionPage({ region, cities, regionalDishes, regionalIti
                     <path strokeLinecap="round" strokeLinejoin="round" strokeWidth="2" d="M19 21V5a2 2 0 00-2-2H7a2 2 0 00-2 2v16m14 0h2m-2 0h-5m-9 0H3m2 0h5M9 7h1m-1 4h1m4-4h1m-1 4h1m-5 10v-5a1 1 0 011-1h2a1 1 0 011 1v5m-4 0h4" />
                   </svg>
                 </div>
-                <h3 className="text-xl font-semibold font-heading text-gray-900 mb-2">Hotels & Accommodation</h3>
-                <p className="text-gray-600 text-sm mb-4">Compare prices on top booking platforms for {region.name.en}.</p>
+                <h3 className="text-xl font-semibold font-heading text-gray-900 mb-2">{isNl ? 'Hotels & Accommodatie' : 'Hotels & Accommodation'}</h3>
+                <p className="text-gray-600 text-sm mb-4">Compare prices on top booking platforms for {(region.name[lang] || region.name.en)}.</p>
                 {featuredCityAffiliates.map(({ cityName, affiliates }) => (
                   <AffiliateBox key={cityName} affiliates={affiliates} cityName={cityName} type="hotels" />
                 ))}
@@ -884,8 +883,8 @@ export default function RegionPage({ region, cities, regionalDishes, regionalIti
                     <path strokeLinecap="round" strokeLinejoin="round" strokeWidth="2" d="M13 10V3L4 14h7v7l9-11h-7z" />
                   </svg>
                 </div>
-                <h3 className="text-xl font-semibold font-heading text-gray-900 mb-2">Transport & Transfers</h3>
-                <p className="text-gray-600 text-sm mb-4">Book buses, trains, ferries, and flights across {region.name.en}.</p>
+                <h3 className="text-xl font-semibold font-heading text-gray-900 mb-2">{isNl ? 'Vervoer & Transfers' : 'Transport & Transfers'}</h3>
+                <p className="text-gray-600 text-sm mb-4">Book buses, trains, ferries, and flights across {(region.name[lang] || region.name.en)}.</p>
                 <a href="https://12go.tpo.lv/tNA80urD?subid=region" target="_blank" rel="noopener noreferrer" className="block bg-green-600 text-white py-2 px-4 rounded-xl font-medium hover:bg-green-700 transition-colors text-sm">
                   Book on 12Go Asia
                 </a>
@@ -898,10 +897,10 @@ export default function RegionPage({ region, cities, regionalDishes, regionalIti
                     <path strokeLinecap="round" strokeLinejoin="round" strokeWidth="2" d="M5 3v4M3 5h4M6 17v4m-2-2h4m5-16l2.286 6.857L21 12l-5.714 2.143L13 21l-2.286-6.857L5 12l5.714-2.143L13 3z" />
                   </svg>
                 </div>
-                <h3 className="text-xl font-semibold font-heading text-gray-900 mb-2">Tours & Activities</h3>
-                <p className="text-gray-600 text-sm mb-4">Discover the best things to do in {region.name.en}.</p>
+                <h3 className="text-xl font-semibold font-heading text-gray-900 mb-2">{isNl ? 'Tours & Activiteiten' : 'Tours & Activities'}</h3>
+                <p className="text-gray-600 text-sm mb-4">Discover the best things to do in {(region.name[lang] || region.name.en)}.</p>
                 <Link href="/activities/" className="block bg-orange-600 text-white py-2 px-4 rounded-xl font-medium hover:bg-orange-700 transition-colors text-sm">
-                  Browse Activities
+                  {isNl ? 'Bekijk Activiteiten' : 'Browse Activities'}
                 </Link>
               </div>
             </div>
@@ -917,7 +916,7 @@ export default function RegionPage({ region, cities, regionalDishes, regionalIti
             )}
 
             <p className="text-xs text-gray-500 text-center">
-              This section contains affiliate links. We may earn a small commission at no extra cost to you.
+              {isNl ? 'Deze sectie bevat affiliate links. We kunnen een kleine commissie ontvangen zonder extra kosten voor jou.' : 'This section contains affiliate links. We may earn a small commission at no extra cost to you.'}
             </p>
           </div>
         </section>
@@ -926,9 +925,9 @@ export default function RegionPage({ region, cities, regionalDishes, regionalIti
         <section className="bg-surface-cream section-padding" ref={exploreAnim.ref}>
           <div className="container-custom">
             <div className={`text-center mb-10 scroll-fade-up ${exploreAnim.isVisible ? 'is-visible' : ''}`}>
-              <span className="section-label">Keep exploring</span>
+              <span className="section-label">{isNl ? 'Blijf ontdekken' : 'Keep exploring'}</span>
               <h2 className="section-title">
-                Explore More
+                {isNl ? 'Ontdek Meer' : 'Explore More'}
               </h2>
             </div>
 
@@ -941,8 +940,8 @@ export default function RegionPage({ region, cities, regionalDishes, regionalIti
                         <path strokeLinecap="round" strokeLinejoin="round" strokeWidth="2" d="M3.055 11H5a2 2 0 012 2v1a2 2 0 002 2 2 2 0 012 2v2.945M8 3.935V5.5A2.5 2.5 0 0010.5 8h.5a2 2 0 012 2 2 2 0 104 0 2 2 0 012-2h1.064M15 20.488V18a2 2 0 012-2h3.064" />
                       </svg>
                     </div>
-                    <h3 className="font-semibold font-heading text-gray-900 mb-2">All Regions</h3>
-                    <p className="text-gray-600 text-sm">Compare all Thai regions</p>
+                    <h3 className="font-semibold font-heading text-gray-900 mb-2">{isNl ? 'Alle Regio\'s' : 'All Regions'}</h3>
+                    <p className="text-gray-600 text-sm">{isNl ? 'Vergelijk alle Thaise regio\'s' : 'Compare all Thai regions'}</p>
                   </div>
                 </div>
               </Link>
@@ -955,8 +954,8 @@ export default function RegionPage({ region, cities, regionalDishes, regionalIti
                         <path strokeLinecap="round" strokeLinejoin="round" strokeWidth="2" d="M19 21V5a2 2 0 00-2-2H7a2 2 0 00-2 2v16m14 0h2m-2 0h-5m-9 0H3m2 0h5M9 7h1m-1 4h1m4-4h1m-1 4h1m-5 10v-5a1 1 0 011-1h2a1 1 0 011 1v5m-4 0h4" />
                       </svg>
                     </div>
-                    <h3 className="font-semibold font-heading text-gray-900 mb-2">All Cities</h3>
-                    <p className="text-gray-600 text-sm">Browse all destinations</p>
+                    <h3 className="font-semibold font-heading text-gray-900 mb-2">{isNl ? 'Alle Steden' : 'All Cities'}</h3>
+                    <p className="text-gray-600 text-sm">{isNl ? 'Bekijk alle bestemmingen' : 'Browse all destinations'}</p>
                   </div>
                 </div>
               </Link>
@@ -969,8 +968,8 @@ export default function RegionPage({ region, cities, regionalDishes, regionalIti
                         <path strokeLinecap="round" strokeLinejoin="round" strokeWidth="2" d="M12 6.253v13m0-13C10.832 5.477 9.246 5 7.5 5S4.168 5.477 3 6.253v13C4.168 18.477 5.754 18 7.5 18s3.332.477 4.5 1.253m0-13C13.168 5.477 14.754 5 16.5 5c1.746 0 3.332.477 4.5 1.253v13C19.832 18.477 18.246 18 16.5 18c-1.746 0-3.332.477-4.5 1.253" />
                       </svg>
                     </div>
-                    <h3 className="font-semibold font-heading text-gray-900 mb-2">Thai Food</h3>
-                    <p className="text-gray-600 text-sm">Explore Thai cuisine</p>
+                    <h3 className="font-semibold font-heading text-gray-900 mb-2">{isNl ? 'Thais Eten' : 'Thai Food'}</h3>
+                    <p className="text-gray-600 text-sm">{isNl ? 'Ontdek de Thaise keuken' : 'Explore Thai cuisine'}</p>
                   </div>
                 </div>
               </Link>
@@ -983,8 +982,8 @@ export default function RegionPage({ region, cities, regionalDishes, regionalIti
                         <path strokeLinecap="round" strokeLinejoin="round" strokeWidth="2" d="M3 15a4 4 0 004 4h9a5 5 0 10-.1-9.999 5.002 5.002 0 10-9.78 2.096A4.001 4.001 0 003 15z" />
                       </svg>
                     </div>
-                    <h3 className="font-semibold font-heading text-gray-900 mb-2">Thai Islands</h3>
-                    <p className="text-gray-600 text-sm">Beach paradise guide</p>
+                    <h3 className="font-semibold font-heading text-gray-900 mb-2">{isNl ? 'Thaise Eilanden' : 'Thai Islands'}</h3>
+                    <p className="text-gray-600 text-sm">{isNl ? 'Strandparadijs gids' : 'Beach paradise guide'}</p>
                   </div>
                 </div>
               </Link>
@@ -997,8 +996,8 @@ export default function RegionPage({ region, cities, regionalDishes, regionalIti
                         <path strokeLinecap="round" strokeLinejoin="round" strokeWidth="2" d="M5 3v4M3 5h4M6 17v4m-2-2h4m5-16l2.286 6.857L21 12l-5.714 2.143L13 21l-2.286-6.857L5 12l5.714-2.143L13 3z" />
                       </svg>
                     </div>
-                    <h3 className="font-semibold font-heading text-gray-900 mb-2">Top 10 Lists</h3>
-                    <p className="text-gray-600 text-sm">Best attractions & more</p>
+                    <h3 className="font-semibold font-heading text-gray-900 mb-2">{isNl ? 'Top 10 Lijsten' : 'Top 10 Lists'}</h3>
+                    <p className="text-gray-600 text-sm">{isNl ? 'Beste attracties & meer' : 'Best attractions & more'}</p>
                   </div>
                 </div>
               </Link>

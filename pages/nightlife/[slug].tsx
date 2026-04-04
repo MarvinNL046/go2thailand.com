@@ -1,5 +1,6 @@
 import { GetStaticProps, GetStaticPaths } from 'next';
 import Link from 'next/link';
+import { useRouter } from 'next/router';
 import Breadcrumbs from '../../components/Breadcrumbs';
 import SEOHead from '../../components/SEOHead';
 import fs from 'fs';
@@ -64,11 +65,11 @@ function typeBadgeColor(type: string): string {
   }
 }
 
-function priceLevelLabel(level: string): string {
+function priceLevelLabel(level: string, isNl: boolean): string {
   switch (level) {
-    case 'budget': return 'Budget';
-    case 'moderate': return 'Mid-Range';
-    case 'upscale': return 'Upscale';
+    case 'budget': return isNl ? 'Budget' : 'Budget';
+    case 'moderate': return isNl ? 'Middenklasse' : 'Mid-Range';
+    case 'upscale': return isNl ? 'Luxe' : 'Upscale';
     default: return level;
   }
 }
@@ -95,9 +96,12 @@ function generateFAQs(data: NightlifeData, cityName: string) {
 }
 
 export default function NightlifePage({ nightlifeData, slug, cityName }: NightlifePageProps) {
+  const { locale } = useRouter();
+  const isNl = locale === 'nl';
+
   const breadcrumbs = [
     { name: 'Home', href: '/' },
-    { name: 'Nightlife', href: '/nightlife/' },
+    { name: isNl ? 'Nachtleven' : 'Nightlife', href: '/nightlife/' },
     { name: cityName, href: `/nightlife/${slug}/` },
   ];
 
@@ -134,7 +138,7 @@ export default function NightlifePage({ nightlifeData, slug, cityName }: Nightli
           <div className="container-custom py-16 lg:py-20">
             <Breadcrumbs items={breadcrumbs} />
             <div className="text-center max-w-4xl mx-auto">
-              <span className="section-label">Nightlife Guide</span>
+              <span className="section-label">{isNl ? 'Nachtleven Gids' : 'Nightlife Guide'}</span>
               <h1 className="text-4xl lg:text-5xl font-bold font-heading mb-6">
                 {nightlifeData.title}
               </h1>
@@ -170,7 +174,7 @@ export default function NightlifePage({ nightlifeData, slug, cityName }: Nightli
                             {area.type.charAt(0).toUpperCase() + area.type.slice(1)}
                           </span>
                           <span className="px-3 py-1 rounded-full text-sm font-medium bg-gray-100 text-gray-600">
-                            {priceLevelLabel(area.price_level)}
+                            {priceLevelLabel(area.price_level, isNl)}
                           </span>
                         </div>
                       </div>
@@ -198,7 +202,7 @@ export default function NightlifePage({ nightlifeData, slug, cityName }: Nightli
                     {/* Price Range Table */}
                     <div className="bg-surface-cream rounded-xl p-4 mb-6">
                       <h3 className="text-sm font-semibold text-gray-500 uppercase tracking-wide mb-3">
-                        Price Range
+                        {isNl ? 'Prijsklasse' : 'Price Range'}
                       </h3>
                       <div className="grid grid-cols-2 sm:grid-cols-3 gap-3">
                         {Object.entries(area.price_range).map(([key, value]) => (
@@ -214,13 +218,13 @@ export default function NightlifePage({ nightlifeData, slug, cityName }: Nightli
                     <div className="grid sm:grid-cols-2 gap-4 mb-6">
                       <div className="bg-surface-cream rounded-xl p-4">
                         <h3 className="text-sm font-semibold text-gray-500 uppercase tracking-wide mb-1">
-                          Peak Hours
+                          {isNl ? 'Piekuren' : 'Peak Hours'}
                         </h3>
                         <p className="text-gray-900 font-medium">{area.peak_hours}</p>
                       </div>
                       <div className="bg-surface-cream rounded-xl p-4">
                         <h3 className="text-sm font-semibold text-gray-500 uppercase tracking-wide mb-1">
-                          How to Get There
+                          {isNl ? 'Hoe Er Te Komen' : 'How to Get There'}
                         </h3>
                         <p className="text-gray-700 text-sm">{area.how_to_get_there}</p>
                       </div>
@@ -230,7 +234,7 @@ export default function NightlifePage({ nightlifeData, slug, cityName }: Nightli
                     {area.venues.length > 0 && (
                       <div>
                         <h3 className="text-sm font-semibold text-gray-500 uppercase tracking-wide mb-3">
-                          Notable Venues
+                          {isNl ? 'Bekende Uitgaansgelegenheden' : 'Notable Venues'}
                         </h3>
                         <div className="space-y-3">
                           {area.venues.map((venue, idx) => (
@@ -270,7 +274,7 @@ export default function NightlifePage({ nightlifeData, slug, cityName }: Nightli
             <div className="container-custom">
               <div className="max-w-4xl mx-auto">
                 <h2 className="text-3xl font-bold font-heading text-gray-900 mb-6 text-center">
-                  Nightlife Tips for {cityName}
+                  {isNl ? `Nachtleven Tips voor ${cityName}` : `Nightlife Tips for ${cityName}`}
                 </h2>
                 <div className="grid sm:grid-cols-2 gap-4">
                   {nightlifeData.tips.map((tip, idx) => (
@@ -292,7 +296,7 @@ export default function NightlifePage({ nightlifeData, slug, cityName }: Nightli
           <div className="container-custom">
             <div className="max-w-4xl mx-auto">
               <h2 className="text-3xl font-bold font-heading text-gray-900 mb-6 text-center">
-                Frequently Asked Questions
+                {isNl ? 'Veelgestelde Vragen' : 'Frequently Asked Questions'}
               </h2>
               <div className="space-y-4">
                 {faqs.map((faq, idx) => (
@@ -311,14 +315,14 @@ export default function NightlifePage({ nightlifeData, slug, cityName }: Nightli
           <div className="container-custom">
             <div className="max-w-2xl mx-auto text-center">
               <h2 className="text-2xl font-bold font-heading text-gray-900 mb-4">
-                Explore More of {cityName}
+                {isNl ? `Ontdek Meer van ${cityName}` : `Explore More of ${cityName}`}
               </h2>
               <p className="text-gray-600 mb-6">
-                Discover restaurants, attractions, and the complete travel guide for {cityName}.
+                {isNl ? `Ontdek restaurants, bezienswaardigheden en de complete reisgids voor ${cityName}.` : `Discover restaurants, attractions, and the complete travel guide for ${cityName}.`}
               </p>
               <div className="flex flex-col sm:flex-row gap-4 justify-center">
                 <Link href={`/city/${slug}/`} className="btn-primary">
-                  Complete {cityName} Guide
+                  {isNl ? `Complete ${cityName} Gids` : `Complete ${cityName} Guide`}
                 </Link>
                 <Link href={`/city/${slug}/top-10-restaurants/`} className="btn-secondary">
                   Top 10 Restaurants
@@ -333,7 +337,7 @@ export default function NightlifePage({ nightlifeData, slug, cityName }: Nightli
           <div className="container-custom">
             <div className="max-w-4xl mx-auto">
               <h2 className="text-2xl font-bold font-heading text-gray-900 mb-6 text-center">
-                Related Guides
+                {isNl ? 'Gerelateerde Gidsen' : 'Related Guides'}
               </h2>
               <div className="grid sm:grid-cols-2 lg:grid-cols-4 gap-4">
                 <Link
@@ -342,19 +346,19 @@ export default function NightlifePage({ nightlifeData, slug, cityName }: Nightli
                 >
                   <div className="text-2xl mb-2">🌃</div>
                   <h3 className="font-semibold text-gray-900 group-hover:text-thailand-blue transition-colors mb-1">
-                    All Nightlife Guides
+                    {isNl ? 'Alle Nachtleven Gidsen' : 'All Nightlife Guides'}
                   </h3>
-                  <p className="text-sm text-gray-500">Compare nightlife across Thailand's cities</p>
+                  <p className="text-sm text-gray-500">{isNl ? 'Vergelijk nachtleven in Thaise steden' : "Compare nightlife across Thailand's cities"}</p>
                 </Link>
                 <Link
                   href="/drinks/"
                   className="bg-surface-cream rounded-xl p-5 hover:shadow-md border border-transparent hover:border-thailand-gold/30 transition-all group"
                 >
-                  <div className="text-2xl mb-2">🍹</div>
+                  <div className="text-2xl mb-2">���</div>
                   <h3 className="font-semibold text-gray-900 group-hover:text-thailand-blue transition-colors mb-1">
-                    Thai Drinks Guide
+                    {isNl ? 'Thaise Drankjes Gids' : 'Thai Drinks Guide'}
                   </h3>
-                  <p className="text-sm text-gray-500">Cocktails, local spirits & drink prices</p>
+                  <p className="text-sm text-gray-500">{isNl ? 'Cocktails, lokale dranken & prijzen' : 'Cocktails, local spirits & drink prices'}</p>
                 </Link>
                 <Link
                   href="/food/"
@@ -362,9 +366,9 @@ export default function NightlifePage({ nightlifeData, slug, cityName }: Nightli
                 >
                   <div className="text-2xl mb-2">🍜</div>
                   <h3 className="font-semibold text-gray-900 group-hover:text-thailand-blue transition-colors mb-1">
-                    Thai Food Guide
+                    {isNl ? 'Thais Eten Gids' : 'Thai Food Guide'}
                   </h3>
-                  <p className="text-sm text-gray-500">Street food, dishes & where to eat</p>
+                  <p className="text-sm text-gray-500">{isNl ? 'Straatvoedsel, gerechten & waar te eten' : 'Street food, dishes & where to eat'}</p>
                 </Link>
                 <Link
                   href={`/city/${slug}/`}
@@ -372,9 +376,9 @@ export default function NightlifePage({ nightlifeData, slug, cityName }: Nightli
                 >
                   <div className="text-2xl mb-2">🏙️</div>
                   <h3 className="font-semibold text-gray-900 group-hover:text-thailand-blue transition-colors mb-1">
-                    {cityName} City Guide
+                    {cityName} {isNl ? 'Stadsgids' : 'City Guide'}
                   </h3>
-                  <p className="text-sm text-gray-500">Hotels, attractions & travel tips</p>
+                  <p className="text-sm text-gray-500">{isNl ? 'Hotels, bezienswaardigheden & reistips' : 'Hotels, attractions & travel tips'}</p>
                 </Link>
               </div>
             </div>

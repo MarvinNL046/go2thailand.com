@@ -1,6 +1,7 @@
 import { GetStaticProps } from 'next';
 import SEOHead from '../components/SEOHead';
 import Link from 'next/link';
+import { useRouter } from 'next/router';
 import Breadcrumbs from '../components/Breadcrumbs';
 import TripcomWidget from '../components/TripcomWidget';
 import { useState } from 'react';
@@ -92,13 +93,15 @@ function crowdBadge(level: string): { label: string; color: string } {
 }
 
 export default function PhuketBeaches({ data }: PhuketBeachesProps) {
+  const { locale } = useRouter();
+  const isNl = locale === 'nl';
   const [coastFilter, setCoastFilter] = useState<CoastFilter>('all');
   const [vibeFilter, setVibeFilter] = useState<VibeFilter>('all');
 
   const breadcrumbItems = [
     { name: 'Home', href: '/' },
     { name: 'Phuket', href: '/city/phuket/' },
-    { name: 'Phuket Beaches', href: '/phuket-beaches/' }
+    { name: isNl ? 'Phuket Stranden' : 'Phuket Beaches', href: '/phuket-beaches/' }
   ];
 
   const filterBeaches = (beaches: BeachData[]): BeachData[] => {
@@ -154,19 +157,19 @@ export default function PhuketBeaches({ data }: PhuketBeachesProps) {
   const combinedSchema = [itemListSchema, faqSchema, breadcrumbSchema];
 
   const coastFilters: { key: CoastFilter; label: string }[] = [
-    { key: 'all', label: 'All Beaches' },
-    { key: 'west', label: 'West Coast' },
-    { key: 'south', label: 'South' },
-    { key: 'north', label: 'North' },
-    { key: 'east', label: 'East Coast' }
+    { key: 'all', label: isNl ? 'Alle Stranden' : 'All Beaches' },
+    { key: 'west', label: isNl ? 'Westkust' : 'West Coast' },
+    { key: 'south', label: isNl ? 'Zuid' : 'South' },
+    { key: 'north', label: isNl ? 'Noord' : 'North' },
+    { key: 'east', label: isNl ? 'Oostkust' : 'East Coast' }
   ];
 
   const vibeFilters: { key: VibeFilter; label: string }[] = [
-    { key: 'all', label: 'All Vibes' },
-    { key: 'family', label: 'Family-Friendly' },
-    { key: 'quiet', label: 'Quiet & Secluded' },
+    { key: 'all', label: isNl ? 'Alle Sferen' : 'All Vibes' },
+    { key: 'family', label: isNl ? 'Gezinsvriendelijk' : 'Family-Friendly' },
+    { key: 'quiet', label: isNl ? 'Rustig & Afgelegen' : 'Quiet & Secluded' },
     { key: 'snorkeling', label: 'Snorkeling' },
-    { key: 'party', label: 'Party & Nightlife' }
+    { key: 'party', label: isNl ? 'Feest & Nachtleven' : 'Party & Nightlife' }
   ];
 
   return (
@@ -190,18 +193,20 @@ export default function PhuketBeaches({ data }: PhuketBeachesProps) {
         <section className="bg-surface-dark text-white">
           <div className="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8 py-16 md:py-24">
             <div className="text-center">
-              <p className="font-script text-thailand-gold text-lg mb-2">Beach Guide</p>
+              <p className="font-script text-thailand-gold text-lg mb-2">{isNl ? 'Strandengids' : 'Beach Guide'}</p>
               <h1 className="text-4xl lg:text-6xl font-bold font-heading mb-6">
                 {data.title}
               </h1>
               <p className="text-xl lg:text-2xl mb-6 max-w-3xl mx-auto opacity-90">
-                From Kata&apos;s family-friendly shores to hidden Freedom Beach — find your perfect Phuket sand
+                {isNl
+                  ? 'Van Kata\'s gezinsvriendelijke kusten tot het verborgen Freedom Beach — vind jouw perfecte Phuket strand'
+                  : 'From Kata\u0027s family-friendly shores to hidden Freedom Beach \u2014 find your perfect Phuket sand'}
               </p>
               <div className="flex flex-wrap justify-center gap-4 text-sm font-medium opacity-80">
-                <span className="bg-white/20 px-4 py-2 rounded-full">15 beaches</span>
-                <span className="bg-white/20 px-4 py-2 rounded-full">4 coastlines</span>
-                <span className="bg-white/20 px-4 py-2 rounded-full">Ranked &amp; reviewed</span>
-                <span className="bg-white/20 px-4 py-2 rounded-full">Updated March 2026</span>
+                <span className="bg-white/20 px-4 py-2 rounded-full">{isNl ? '15 stranden' : '15 beaches'}</span>
+                <span className="bg-white/20 px-4 py-2 rounded-full">{isNl ? '4 kustlijnen' : '4 coastlines'}</span>
+                <span className="bg-white/20 px-4 py-2 rounded-full">{isNl ? 'Gerangschikt & beoordeeld' : 'Ranked & reviewed'}</span>
+                <span className="bg-white/20 px-4 py-2 rounded-full">{isNl ? 'Bijgewerkt maart 2026' : 'Updated March 2026'}</span>
               </div>
             </div>
           </div>
@@ -262,7 +267,7 @@ export default function PhuketBeaches({ data }: PhuketBeachesProps) {
           <div className="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8">
             {filteredBeaches.length === 0 ? (
               <div className="text-center py-16 text-gray-500">
-                <p className="text-xl">No beaches found for this filter combination.</p>
+                <p className="text-xl">{isNl ? 'Geen stranden gevonden voor deze filtercombinatie.' : 'No beaches found for this filter combination.'}</p>
               </div>
             ) : (
               <div className="space-y-8">
@@ -315,15 +320,15 @@ export default function PhuketBeaches({ data }: PhuketBeachesProps) {
                         {/* Info Grid */}
                         <div className="grid grid-cols-1 sm:grid-cols-3 gap-3 mb-4 text-sm">
                           <div className="bg-surface-cream rounded-xl p-3 text-center">
-                            <div className="text-gray-500 text-xs mb-1">Best Time</div>
+                            <div className="text-gray-500 text-xs mb-1">{isNl ? 'Beste Tijd' : 'Best Time'}</div>
                             <div className="font-semibold text-gray-900">{beach.best_time}</div>
                           </div>
                           <div className="bg-surface-cream rounded-xl p-3 text-center">
-                            <div className="text-gray-500 text-xs mb-1">How to Get There</div>
+                            <div className="text-gray-500 text-xs mb-1">{isNl ? 'Hoe er te komen' : 'How to Get There'}</div>
                             <div className="font-semibold text-gray-900 text-xs sm:text-sm">{beach.access}</div>
                           </div>
                           <div className="bg-surface-cream rounded-xl p-3 text-center">
-                            <div className="text-gray-500 text-xs mb-1">Nearby</div>
+                            <div className="text-gray-500 text-xs mb-1">{isNl ? 'In de buurt' : 'Nearby'}</div>
                             <div className="font-semibold text-gray-900 text-xs sm:text-sm">{beach.nearby}</div>
                           </div>
                         </div>
@@ -339,7 +344,7 @@ export default function PhuketBeaches({ data }: PhuketBeachesProps) {
                             <path strokeLinecap="round" strokeLinejoin="round" strokeWidth={2} d="M17.657 16.657L13.414 20.9a1.998 1.998 0 01-2.827 0l-4.244-4.243a8 8 0 1111.314 0z" />
                             <path strokeLinecap="round" strokeLinejoin="round" strokeWidth={2} d="M15 11a3 3 0 11-6 0 3 3 0 016 0z" />
                           </svg>
-                          View on Google Maps
+                          {isNl ? 'Bekijk op Google Maps' : 'View on Google Maps'}
                         </a>
                       </div>
                     </article>
@@ -348,10 +353,10 @@ export default function PhuketBeaches({ data }: PhuketBeachesProps) {
                     {beach.rank === 5 && (
                       <div className="bg-surface-dark rounded-2xl p-6 text-white my-8">
                         <h3 className="text-xl font-bold font-heading mb-2">
-                          Book Your Phuket Beach Holiday
+                          {isNl ? 'Boek Jouw Phuket Strandvakantie' : 'Book Your Phuket Beach Holiday'}
                         </h3>
                         <p className="opacity-90 mb-4 text-sm">
-                          Hotels, tours &amp; activities near Phuket&apos;s best beaches
+                          {isNl ? 'Hotels, tours & activiteiten bij de beste stranden van Phuket' : 'Hotels, tours & activities near Phuket\u0027s best beaches'}
                         </p>
                         <div className="flex flex-wrap gap-3">
                           <a
@@ -368,7 +373,7 @@ export default function PhuketBeaches({ data }: PhuketBeachesProps) {
                             rel="noopener noreferrer nofollow"
                             className="bg-white text-thailand-blue px-4 py-2 rounded-full font-semibold text-sm hover:bg-gray-100 transition-colors"
                           >
-                            Tours &amp; Activities
+                            {isNl ? 'Tours & Activiteiten' : 'Tours & Activities'}
                           </a>
                           <a
                             href="https://12go.tpo.lv/tNA80urD?subid=beaches"
@@ -376,7 +381,7 @@ export default function PhuketBeaches({ data }: PhuketBeachesProps) {
                             rel="noopener noreferrer nofollow"
                             className="bg-white text-thailand-blue px-4 py-2 rounded-full font-semibold text-sm hover:bg-gray-100 transition-colors"
                           >
-                            Book Ferries
+                            {isNl ? 'Boek Veerboten' : 'Book Ferries'}
                           </a>
                         </div>
                       </div>
@@ -402,9 +407,9 @@ export default function PhuketBeaches({ data }: PhuketBeachesProps) {
         {/* Tips */}
         <section className="py-12 bg-surface-cream">
           <div className="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8">
-            <p className="section-label text-center">Good to Know</p>
+            <p className="section-label text-center">{isNl ? 'Goed om te Weten' : 'Good to Know'}</p>
             <h2 className="text-3xl font-bold font-heading text-gray-900 mb-8 text-center">
-              Phuket Beach Tips
+              {isNl ? 'Phuket Strandtips' : 'Phuket Beach Tips'}
             </h2>
             <div className="grid md:grid-cols-2 lg:grid-cols-3 gap-6">
               {data.tips.map((tip, i) => (
@@ -426,7 +431,7 @@ export default function PhuketBeaches({ data }: PhuketBeachesProps) {
           <div className="max-w-4xl mx-auto px-4 sm:px-6 lg:px-8">
             <p className="section-label text-center">FAQ</p>
             <h2 className="text-3xl font-bold font-heading text-gray-900 mb-8 text-center">
-              Frequently Asked Questions
+              {isNl ? 'Veelgestelde Vragen' : 'Frequently Asked Questions'}
             </h2>
             <div className="space-y-4">
               {FAQ_ITEMS.map((item, i) => (
@@ -455,12 +460,12 @@ export default function PhuketBeaches({ data }: PhuketBeachesProps) {
         <section className="bg-surface-dark py-12">
           <div className="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8">
             <div className="text-center text-white mb-8">
-              <p className="font-script text-thailand-gold text-lg mb-2">Start Planning</p>
+              <p className="font-script text-thailand-gold text-lg mb-2">{isNl ? 'Begin met Plannen' : 'Start Planning'}</p>
               <h2 className="text-3xl font-bold font-heading mb-3">
-                Plan Your Phuket Beach Trip
+                {isNl ? 'Plan Jouw Phuket Strandtrip' : 'Plan Your Phuket Beach Trip'}
               </h2>
               <p className="text-lg opacity-90">
-                Book hotels, tours, and transport for your Phuket holiday
+                {isNl ? 'Boek hotels, tours en vervoer voor jouw Phuket vakantie' : 'Book hotels, tours, and transport for your Phuket holiday'}
               </p>
             </div>
             <div className="grid md:grid-cols-2 gap-8 items-start">
@@ -517,7 +522,7 @@ export default function PhuketBeaches({ data }: PhuketBeachesProps) {
               </div>
             </div>
             <p className="text-white/70 text-xs text-center mt-6">
-              Some links are affiliate links. We may earn a commission at no extra cost to you.
+              {isNl ? 'Sommige links zijn affiliate links. We kunnen een commissie ontvangen zonder extra kosten voor jou.' : 'Some links are affiliate links. We may earn a commission at no extra cost to you.'}
             </p>
           </div>
         </section>
@@ -525,9 +530,9 @@ export default function PhuketBeaches({ data }: PhuketBeachesProps) {
         {/* Related Pages */}
         <section className="py-12 bg-white">
           <div className="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8">
-            <p className="section-label text-center">More Guides</p>
+            <p className="section-label text-center">{isNl ? 'Meer Gidsen' : 'More Guides'}</p>
             <h2 className="text-2xl font-bold font-heading text-gray-900 mb-6 text-center">
-              Related Pages
+              {isNl ? 'Gerelateerde Pagina\'s' : 'Related Pages'}
             </h2>
             <div className="grid md:grid-cols-3 gap-6 max-w-4xl mx-auto">
               <Link
@@ -536,13 +541,13 @@ export default function PhuketBeaches({ data }: PhuketBeachesProps) {
               >
                 <div className="text-3xl mb-3">&#127958;</div>
                 <h3 className="text-lg font-bold font-heading text-gray-900 group-hover:text-thailand-blue transition-colors mb-2">
-                  Best Beaches in Thailand
+                  {isNl ? 'Beste Stranden in Thailand' : 'Best Beaches in Thailand'}
                 </h3>
                 <p className="text-gray-600 text-sm">
-                  25 stunning beaches ranked across 10 islands and 2 coastlines.
+                  {isNl ? '25 prachtige stranden gerangschikt over 10 eilanden en 2 kustlijnen.' : '25 stunning beaches ranked across 10 islands and 2 coastlines.'}
                 </p>
                 <span className="inline-block mt-3 text-thailand-blue text-sm font-medium group-hover:underline">
-                  View beach guide &#8594;
+                  {isNl ? 'Bekijk strandgids' : 'View beach guide'} &#8594;
                 </span>
               </Link>
 
@@ -552,13 +557,13 @@ export default function PhuketBeaches({ data }: PhuketBeachesProps) {
               >
                 <div className="text-3xl mb-3">&#127965;</div>
                 <h3 className="text-lg font-bold font-heading text-gray-900 group-hover:text-thailand-blue transition-colors mb-2">
-                  Phuket Travel Guide
+                  {isNl ? 'Phuket Reisgids' : 'Phuket Travel Guide'}
                 </h3>
                 <p className="text-gray-600 text-sm">
-                  Complete guide to Phuket — attractions, restaurants, hotels &amp; tips.
+                  {isNl ? 'Complete gids voor Phuket — attracties, restaurants, hotels & tips.' : 'Complete guide to Phuket \u2014 attractions, restaurants, hotels & tips.'}
                 </p>
                 <span className="inline-block mt-3 text-thailand-blue text-sm font-medium group-hover:underline">
-                  Explore Phuket &#8594;
+                  {isNl ? 'Ontdek Phuket' : 'Explore Phuket'} &#8594;
                 </span>
               </Link>
 
@@ -568,13 +573,13 @@ export default function PhuketBeaches({ data }: PhuketBeachesProps) {
               >
                 <div className="text-3xl mb-3">&#127754;</div>
                 <h3 className="text-lg font-bold font-heading text-gray-900 group-hover:text-thailand-blue transition-colors mb-2">
-                  Thailand Islands Guide
+                  {isNl ? 'Thailand Eilandengids' : 'Thailand Islands Guide'}
                 </h3>
                 <p className="text-gray-600 text-sm">
-                  12 best Thai islands from Phuket to Koh Lipe, ranked &amp; reviewed.
+                  {isNl ? '12 beste Thaise eilanden van Phuket tot Koh Lipe, gerangschikt & beoordeeld.' : '12 best Thai islands from Phuket to Koh Lipe, ranked & reviewed.'}
                 </p>
                 <span className="inline-block mt-3 text-thailand-blue text-sm font-medium group-hover:underline">
-                  View island guide &#8594;
+                  {isNl ? 'Bekijk eilandgids' : 'View island guide'} &#8594;
                 </span>
               </Link>
             </div>

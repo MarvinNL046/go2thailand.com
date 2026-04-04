@@ -21,9 +21,11 @@ export default function PracticalInfoIndexPage({ items }: PracticalInfoPageProps
   const { locale } = useRouter();
   const lang = (locale === 'nl' ? 'nl' : 'en') as 'en' | 'nl';
 
+  const isNl = locale === 'nl';
+
   const breadcrumbs = [
     { name: 'Home', href: '/' },
-    { name: 'Practical Info', href: '/practical-info/' }
+    { name: isNl ? 'Praktische Info' : 'Practical Info', href: '/practical-info/' }
   ];
 
   const jsonLd = {

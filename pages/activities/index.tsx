@@ -54,10 +54,12 @@ function getCityActivityPath(activitySlug: string, citySlug: string) {
 export default function ActivitiesPage({ activities }: Props) {
   const { locale } = useRouter();
   const loc = locale || 'en';
+  const isNl = locale === 'nl';
+  const lang = isNl ? 'nl' : 'en';
 
   const breadcrumbs = [
     { name: 'Home', href: '/' },
-    { name: 'Activities & Tours', href: '/activities/' }
+    { name: isNl ? 'Activiteiten & Tours' : 'Activities & Tours', href: '/activities/' }
   ];
 
   const totalActivities = activities.reduce((sum, a) => sum + a.totalActivities, 0);
@@ -65,8 +67,10 @@ export default function ActivitiesPage({ activities }: Props) {
   return (
     <>
       <SEOHead
-        title="Things to Do in Thailand — Activity Guides by Destination"
-        description={`Editorial guides to Thailand's best activities: cooking classes, Muay Thai, ethical elephant sanctuaries, and diving. Organised by destination with practical detail.`}
+        title={isNl ? "Wat te doen in Thailand — Activiteitengidsen per Bestemming" : "Things to Do in Thailand — Activity Guides by Destination"}
+        description={isNl
+          ? `Redactionele gidsen voor de beste activiteiten in Thailand: kooklessen, Muay Thai, ethische olifantenopvang en duiken. Georganiseerd per bestemming met praktische details.`
+          : `Editorial guides to Thailand's best activities: cooking classes, Muay Thai, ethical elephant sanctuaries, and diving. Organised by destination with practical detail.`}
       >
         <script
           type="application/ld+json"
@@ -86,12 +90,14 @@ export default function ActivitiesPage({ activities }: Props) {
           <div className="container-custom py-12">
             <Breadcrumbs items={breadcrumbs} />
             <div className="text-center mt-6">
-              <p className="font-script text-thailand-gold text-lg mb-2">Activity guides</p>
+              <p className="font-script text-thailand-gold text-lg mb-2">{isNl ? 'Activiteitengidsen' : 'Activity guides'}</p>
               <h1 className="text-4xl lg:text-5xl font-bold font-heading mb-4">
-                Things to Do in Thailand
+                {isNl ? 'Wat te doen in Thailand' : 'Things to Do in Thailand'}
               </h1>
               <p className="text-xl max-w-3xl mx-auto text-gray-300">
-                Four activity categories worth planning around: cooking classes, Muay Thai, elephant sanctuaries, and diving. Each has its own guide with city-level detail, pricing context, and what to know before you book.
+                {isNl
+                  ? 'Vier activiteitencategorieen die het plannen waard zijn: kooklessen, Muay Thai, olifantenopvang en duiken. Elk met een eigen gids met details per stad, prijscontext en wat je moet weten voor je boekt.'
+                  : 'Four activity categories worth planning around: cooking classes, Muay Thai, elephant sanctuaries, and diving. Each has its own guide with city-level detail, pricing context, and what to know before you book.'}
               </p>
             </div>
           </div>
@@ -100,10 +106,12 @@ export default function ActivitiesPage({ activities }: Props) {
         <section className="section-padding">
           <div className="container-custom">
             {/* Activity Guide Cards */}
-            <p className="section-label">Explore by category</p>
-            <h2 className="text-2xl font-bold font-heading text-gray-900 mb-4">Activity guides</h2>
+            <p className="section-label">{isNl ? 'Ontdek per categorie' : 'Explore by category'}</p>
+            <h2 className="text-2xl font-bold font-heading text-gray-900 mb-4">{isNl ? 'Activiteitengidsen' : 'Activity guides'}</h2>
             <p className="text-gray-600 mb-8 max-w-2xl">
-              Each guide below covers what the activity involves, which cities offer the best versions of it, typical price ranges, and how to find operators worth trusting.
+              {isNl
+                ? 'Elke gids hieronder beschrijft wat de activiteit inhoudt, welke steden de beste versies bieden, typische prijsklassen en hoe je betrouwbare aanbieders vindt.'
+                : 'Each guide below covers what the activity involves, which cities offer the best versions of it, typical price ranges, and how to find operators worth trusting.'}
             </p>
             <div className="grid grid-cols-1 md:grid-cols-2 gap-6 mb-12">
               {activities.map((activity) => (
@@ -120,15 +128,15 @@ export default function ActivitiesPage({ activities }: Props) {
                     <div className="flex gap-3 mb-4">
                       <div className="bg-surface-cream rounded-xl px-3 py-1.5 text-center">
                         <div className="text-sm font-bold text-gray-900">{activity.totalActivities}+</div>
-                        <div className="text-[10px] text-gray-500">Options</div>
+                        <div className="text-[10px] text-gray-500">{isNl ? 'Opties' : 'Options'}</div>
                       </div>
                       <div className="bg-surface-cream rounded-xl px-3 py-1.5 text-center">
                         <div className="text-sm font-bold text-gray-900">{activity.cities.length}</div>
-                        <div className="text-[10px] text-gray-500">Cities</div>
+                        <div className="text-[10px] text-gray-500">{isNl ? 'Steden' : 'Cities'}</div>
                       </div>
                       <div className="bg-surface-cream rounded-xl px-3 py-1.5 text-center">
                         <div className="text-sm font-bold text-gray-900">{formatPrice(activity.lowestPrice, loc)}+</div>
-                        <div className="text-[10px] text-gray-500">From</div>
+                        <div className="text-[10px] text-gray-500">{isNl ? 'Vanaf' : 'From'}</div>
                       </div>
                     </div>
 
@@ -139,7 +147,7 @@ export default function ActivitiesPage({ activities }: Props) {
                           href={getCityActivityPath(activity.slug, city.slug)}
                           className="text-xs bg-surface-cream text-gray-600 px-2 py-1 rounded-full hover:bg-gray-200 transition-colors"
                         >
-                          {city.name.en}
+                          {city.name[lang] || city.name.en}
                         </Link>
                       ))}
                     </div>
@@ -148,7 +156,7 @@ export default function ActivitiesPage({ activities }: Props) {
                       href={activity.guidePath}
                       className="inline-flex items-center px-5 py-2 text-white text-sm font-semibold rounded-xl transition-colors bg-thailand-red hover:bg-red-700"
                     >
-                      Read the {activity.title.toLowerCase()} guide &rarr;
+                      {isNl ? `Lees de ${activity.title.toLowerCase()} gids` : `Read the ${activity.title.toLowerCase()} guide`} &rarr;
                     </Link>
                   </div>
                 </div>
@@ -157,10 +165,12 @@ export default function ActivitiesPage({ activities }: Props) {
 
             {/* Activities by City */}
             <div className="bg-white rounded-2xl shadow-md p-8 mb-12">
-              <p className="section-label">By destination</p>
-              <h2 className="text-2xl font-bold font-heading text-gray-900 mb-3">Activities by city</h2>
+              <p className="section-label">{isNl ? 'Per bestemming' : 'By destination'}</p>
+              <h2 className="text-2xl font-bold font-heading text-gray-900 mb-3">{isNl ? 'Activiteiten per stad' : 'Activities by city'}</h2>
               <p className="text-gray-600 text-sm mb-6">
-                Which city fits your activity mix matters as much as which activity you choose. Bangkok leads for Muay Thai; Chiang Mai for cooking classes and elephant sanctuaries; Phuket and Krabi for diving.
+                {isNl
+                  ? 'Welke stad bij jouw activiteitenmix past is net zo belangrijk als welke activiteit je kiest. Bangkok leidt voor Muay Thai; Chiang Mai voor kooklessen en olifantenopvang; Phuket en Krabi voor duiken.'
+                  : 'Which city fits your activity mix matters as much as which activity you choose. Bangkok leads for Muay Thai; Chiang Mai for cooking classes and elephant sanctuaries; Phuket and Krabi for diving.'}
               </p>
               <div className="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-4 gap-6">
                 {['bangkok', 'chiang-mai', 'phuket', 'krabi'].map((citySlug) => {
@@ -205,10 +215,12 @@ export default function ActivitiesPage({ activities }: Props) {
 
             {/* Booking Platforms — secondary, supporting editorial */}
             <div className="bg-white rounded-2xl shadow-md p-8 mb-12">
-              <p className="section-label">Where to book</p>
-              <h2 className="text-2xl font-bold font-heading text-gray-900 mb-3">Booking platforms used in our guides</h2>
+              <p className="section-label">{isNl ? 'Waar boeken' : 'Where to book'}</p>
+              <h2 className="text-2xl font-bold font-heading text-gray-900 mb-3">{isNl ? 'Boekingsplatforms in onze gidsen' : 'Booking platforms used in our guides'}</h2>
               <p className="text-gray-600 text-sm mb-8">
-                The activity guides on this site link primarily to Klook and GetYourGuide. Both platforms aggregate vetted local operators, offer instant confirmation, and have clear cancellation terms — which matters when plans change. We earn a commission if you book through our links, at no extra cost to you.
+                {isNl
+                  ? 'De activiteitengidsen op deze site verwijzen voornamelijk naar Klook en GetYourGuide. Beide platforms bundelen gecheckte lokale aanbieders, bieden directe bevestiging en hebben duidelijke annuleringsvoorwaarden. Wij ontvangen een commissie als je via onze links boekt, zonder extra kosten voor jou.'
+                  : 'The activity guides on this site link primarily to Klook and GetYourGuide. Both platforms aggregate vetted local operators, offer instant confirmation, and have clear cancellation terms — which matters when plans change. We earn a commission if you book through our links, at no extra cost to you.'}
               </p>
               <div className="grid grid-cols-1 lg:grid-cols-2 gap-8">
                 <div className="bg-surface-cream rounded-2xl p-6 border-0">
@@ -221,7 +233,7 @@ export default function ActivitiesPage({ activities }: Props) {
                   <AffiliateWidget scriptContent={KLOOK_WIDGET} className="mb-4" minHeight="200px" />
                   <a href={KLOOK_AFFILIATE} target="_blank" rel="noopener noreferrer sponsored"
                     className="inline-block bg-thailand-red text-white text-center px-5 py-2 rounded-xl font-semibold hover:bg-red-700 transition-colors text-sm">
-                    Browse Thailand activities on Klook
+                    {isNl ? 'Bekijk Thailand activiteiten op Klook' : 'Browse Thailand activities on Klook'}
                   </a>
                 </div>
                 <div className="bg-surface-cream rounded-2xl p-6 border-0">
@@ -229,12 +241,14 @@ export default function ActivitiesPage({ activities }: Props) {
                     <Image src="/images/partners/getyourguide.svg" alt="GetYourGuide" fill className="object-contain object-left" />
                   </div>
                   <p className="text-gray-600 text-sm mb-4">
-                    GetYourGuide covers a wide range of Thailand tours with a focus on guided experiences, Muay Thai fight tickets, and cultural activities. Good for experiences where guide quality matters.
+                    {isNl
+                      ? 'GetYourGuide biedt een breed scala aan Thailand tours met focus op begeleide ervaringen, Muay Thai-tickets en culturele activiteiten. Geschikt voor ervaringen waar de kwaliteit van de gids belangrijk is.'
+                      : 'GetYourGuide covers a wide range of Thailand tours with a focus on guided experiences, Muay Thai fight tickets, and cultural activities. Good for experiences where guide quality matters.'}
                   </p>
                   <AffiliateWidget scriptContent={GYG_POPULAR_TOURS} className="mb-4" minHeight="200px" />
                   <a href={GYG_AFFILIATE} target="_blank" rel="noopener noreferrer sponsored"
                     className="inline-block bg-thailand-blue text-white text-center px-5 py-2 rounded-xl font-semibold hover:bg-blue-800 transition-colors text-sm">
-                    Browse Thailand activities on GetYourGuide
+                    {isNl ? 'Bekijk Thailand activiteiten op GetYourGuide' : 'Browse Thailand activities on GetYourGuide'}
                   </a>
                 </div>
               </div>
@@ -242,36 +256,42 @@ export default function ActivitiesPage({ activities }: Props) {
 
             {/* Practical planning notes */}
             <div className="bg-white rounded-2xl shadow-md p-8 mb-12">
-              <p className="section-label">Planning notes</p>
-              <h2 className="text-2xl font-bold font-heading text-gray-900 mb-6">What to know before you book</h2>
+              <p className="section-label">{isNl ? 'Planningsnotities' : 'Planning notes'}</p>
+              <h2 className="text-2xl font-bold font-heading text-gray-900 mb-6">{isNl ? 'Wat je moet weten voor je boekt' : 'What to know before you book'}</h2>
               <div className="space-y-6">
                 <div>
-                  <h3 className="text-lg font-semibold font-heading text-gray-900 mb-2">Which activities suit which destinations?</h3>
-                  <p className="text-gray-700">Cooking classes are strongest in Chiang Mai and Bangkok, where market-to-table formats are well established. Muay Thai fight nights are best in Bangkok — Lumpinee and Rajadamnern stadiums are the genuine article. Ethical elephant sanctuaries concentrate around Chiang Mai and a few spots in Kanchanaburi. Diving is centred on Koh Tao (certification courses), the Similan Islands (liveaboards), and the Andaman coast around Krabi and Koh Lanta.</p>
+                  <h3 className="text-lg font-semibold font-heading text-gray-900 mb-2">{isNl ? 'Welke activiteiten passen bij welke bestemmingen?' : 'Which activities suit which destinations?'}</h3>
+                  <p className="text-gray-700">{isNl
+                    ? 'Kooklessen zijn het sterkst in Chiang Mai en Bangkok, waar markt-naar-tafel formats goed zijn ingeburgerd. Muay Thai-avonden zijn het beste in Bangkok — Lumpinee en Rajadamnern stadions zijn het echte werk. Ethische olifantenopvang concentreert zich rond Chiang Mai en enkele plekken in Kanchanaburi. Duiken draait om Koh Tao (certificeringscursussen), de Similan-eilanden (liveaboards) en de Andamankust rond Krabi en Koh Lanta.'
+                    : 'Cooking classes are strongest in Chiang Mai and Bangkok, where market-to-table formats are well established. Muay Thai fight nights are best in Bangkok — Lumpinee and Rajadamnern stadiums are the genuine article. Ethical elephant sanctuaries concentrate around Chiang Mai and a few spots in Kanchanaburi. Diving is centred on Koh Tao (certification courses), the Similan Islands (liveaboards), and the Andaman coast around Krabi and Koh Lanta.'}</p>
                 </div>
                 <div>
-                  <h3 className="text-lg font-semibold font-heading text-gray-900 mb-2">How far in advance should you book?</h3>
-                  <p className="text-gray-700">During peak season (November to February), popular half-day cooking classes and small-group diving trips can fill up three to five days ahead. Muay Thai fight tickets rarely sell out more than a day before, but good seats at major stadiums go early. Elephant sanctuaries with morning bathing slots are often the tightest — book those before flights if the experience is a priority.</p>
+                  <h3 className="text-lg font-semibold font-heading text-gray-900 mb-2">{isNl ? 'Hoe ver van tevoren moet je boeken?' : 'How far in advance should you book?'}</h3>
+                  <p className="text-gray-700">{isNl
+                    ? 'Tijdens het hoogseizoen (november tot februari) kunnen populaire halfdaagse kooklessen en duiktrips in kleine groepen drie tot vijf dagen van tevoren vol raken. Muay Thai-tickets zijn zelden eerder dan een dag van tevoren uitverkocht, maar goede plaatsen in grote stadions gaan snel. Olifantenopvang met ochtend-badslots zijn vaak het snelst vol — boek die voor je vlucht als de ervaring prioriteit heeft.'
+                    : 'During peak season (November to February), popular half-day cooking classes and small-group diving trips can fill up three to five days ahead. Muay Thai fight tickets rarely sell out more than a day before, but good seats at major stadiums go early. Elephant sanctuaries with morning bathing slots are often the tightest — book those before flights if the experience is a priority.'}</p>
                 </div>
                 <div>
-                  <h3 className="text-lg font-semibold font-heading text-gray-900 mb-2">What does the price range mean?</h3>
-                  <p className="text-gray-700">The &ldquo;from&rdquo; price shown per category is the cheapest option indexed across all cities. Budget cooking classes can be under $15 for a group session; premium hands-on courses with farm visits run $60–$90. Diving day trips start around $50 for a two-dive boat; PADI Open Water courses run $300–$400. Use the full guide for each category to understand what the price difference actually buys you.</p>
+                  <h3 className="text-lg font-semibold font-heading text-gray-900 mb-2">{isNl ? 'Wat betekent de prijsklasse?' : 'What does the price range mean?'}</h3>
+                  <p className="text-gray-700">{isNl
+                    ? 'De "vanaf" prijs per categorie is de goedkoopste optie over alle steden. Budget kooklessen kunnen onder $15 zijn voor een groepssessie; premium hands-on cursussen met boerderijbezoek kosten $60–$90. Duikdagtrips beginnen rond $50 voor een tweeduiksboot; PADI Open Water-cursussen kosten $300–$400. Gebruik de volledige gids per categorie om te begrijpen wat het prijsverschil je oplevert.'
+                    : 'The \u201cfrom\u201d price shown per category is the cheapest option indexed across all cities. Budget cooking classes can be under $15 for a group session; premium hands-on courses with farm visits run $60\u2013$90. Diving day trips start around $50 for a two-dive boat; PADI Open Water courses run $300\u2013$400. Use the full guide for each category to understand what the price difference actually buys you.'}</p>
                 </div>
               </div>
             </div>
 
             {/* Related Guides */}
             <div className="mb-8">
-              <p className="section-label">Continue planning</p>
-              <h2 className="text-2xl font-bold font-heading text-gray-900 mb-6">Related guides</h2>
+              <p className="section-label">{isNl ? 'Verder plannen' : 'Continue planning'}</p>
+              <h2 className="text-2xl font-bold font-heading text-gray-900 mb-6">{isNl ? 'Gerelateerde gidsen' : 'Related guides'}</h2>
               <div className="grid gap-4 md:grid-cols-2 lg:grid-cols-3">
                 {[
-                  { href: '/weather/', title: 'Weather by month', description: 'Outdoor activities depend heavily on season. This guide covers regional rain patterns and the best windows for diving, trekking, and elephant sanctuary visits.' },
-                  { href: '/visa/', title: 'Visa guide', description: 'Visa on arrival, e-visa, and exemptions explained — covering most nationalities and the latest entry rules.' },
-                  { href: '/thailand-for-first-timers/', title: "First-timer's guide", description: 'Safety, etiquette, transport, and what to do on a short first trip — a practical foundation before drilling into activities.' },
-                  { href: '/travel-insurance-thailand/', title: 'Travel insurance', description: 'Most standard policies exclude Muay Thai training, certain dive depths, and scooter riding. Check coverage specifics before you book activities.' },
-                  { href: '/compare/', title: 'Compare destinations', description: 'Compare Thai cities on cost, available activities, beaches, and logistics to decide where to base yourself.' },
-                  { href: '/islands/', title: 'Island guides', description: 'If diving or beach activities are the main draw, the island hub covers which coasts suit which itineraries.' },
+                  { href: '/weather/', title: isNl ? 'Weer per maand' : 'Weather by month', description: isNl ? 'Buitenactiviteiten hangen sterk af van het seizoen. Deze gids behandelt regionale regenpatronen en de beste periodes voor duiken, trekking en olifantenopvang.' : 'Outdoor activities depend heavily on season. This guide covers regional rain patterns and the best windows for diving, trekking, and elephant sanctuary visits.' },
+                  { href: '/visa/', title: isNl ? 'Visumgids' : 'Visa guide', description: isNl ? 'Visum bij aankomst, e-visum en vrijstellingen uitgelegd — voor de meeste nationaliteiten en de laatste regels.' : 'Visa on arrival, e-visa, and exemptions explained — covering most nationalities and the latest entry rules.' },
+                  { href: '/thailand-for-first-timers/', title: isNl ? 'Gids voor beginners' : "First-timer's guide", description: isNl ? 'Veiligheid, etiquette, vervoer en wat te doen op een korte eerste reis — een praktische basis voor je activiteiten plant.' : 'Safety, etiquette, transport, and what to do on a short first trip — a practical foundation before drilling into activities.' },
+                  { href: '/travel-insurance-thailand/', title: isNl ? 'Reisverzekering' : 'Travel insurance', description: isNl ? 'De meeste standaard polissen sluiten Muay Thai-training, bepaalde duikdieptes en scooterrijden uit. Controleer de dekking voor je activiteiten boekt.' : 'Most standard policies exclude Muay Thai training, certain dive depths, and scooter riding. Check coverage specifics before you book activities.' },
+                  { href: '/compare/', title: isNl ? 'Bestemmingen vergelijken' : 'Compare destinations', description: isNl ? 'Vergelijk Thaise steden op kosten, beschikbare activiteiten, stranden en logistiek om te bepalen waar je je baseert.' : 'Compare Thai cities on cost, available activities, beaches, and logistics to decide where to base yourself.' },
+                  { href: '/islands/', title: isNl ? 'Eilandgidsen' : 'Island guides', description: isNl ? 'Als duiken of strandactiviteiten de hoofdattractie zijn, behandelt de eilandengids welke kusten bij welke routes passen.' : 'If diving or beach activities are the main draw, the island hub covers which coasts suit which itineraries.' },
                 ].map((guide) => (
                   <Link
                     key={guide.href}
@@ -286,7 +306,9 @@ export default function ActivitiesPage({ activities }: Props) {
             </div>
 
             <p className="text-xs text-gray-400 text-center mt-8">
-              This site earns a commission when you book through affiliate links. This does not affect editorial recommendations or the order in which activities are presented.
+              {isNl
+                ? 'Deze site ontvangt een commissie wanneer je via affiliate links boekt. Dit heeft geen invloed op redactionele aanbevelingen of de volgorde waarin activiteiten worden gepresenteerd.'
+                : 'This site earns a commission when you book through affiliate links. This does not affect editorial recommendations or the order in which activities are presented.'}
             </p>
           </div>
         </section>

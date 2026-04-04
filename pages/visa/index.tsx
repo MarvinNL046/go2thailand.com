@@ -25,9 +25,11 @@ export default function VisaIndexPage({ visas }: VisaPageProps) {
   const { locale } = useRouter();
   const lang = (locale === 'nl' ? 'nl' : 'en') as 'en' | 'nl';
 
+  const isNl = lang === 'nl';
+
   const breadcrumbs = [
     { name: 'Home', href: '/' },
-    { name: 'Visa Guide', href: '/visa/' }
+    { name: isNl ? 'Visum Gids' : 'Visa Guide', href: '/visa/' }
   ];
 
   const categories = [

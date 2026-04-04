@@ -1,5 +1,6 @@
 import { GetStaticPaths, GetStaticProps } from 'next';
 import Link from 'next/link';
+import { useRouter } from 'next/router';
 import SEOHead from '../../components/SEOHead';
 import Breadcrumbs from '../../components/Breadcrumbs';
 import { getTempleBySlug, getTempleSlugs, getNearbyTemples, Temple } from '../../lib/temples';
@@ -9,23 +10,51 @@ interface TempleDetailPageProps {
   nearbyTemples: Temple[];
 }
 
-const visitorTips = [
-  'Cover your shoulders and knees — long pants or a skirt below the knee and a sleeved shirt are required at all Thai temples.',
-  'Remove your shoes before entering any temple building. Look for the pile of shoes at the entrance as your cue.',
-  'Avoid pointing your feet toward Buddha images or monks, as feet are considered the lowest and least sacred part of the body.',
-  'Speak quietly and switch your phone to silent mode inside the temple grounds out of respect for worshippers.',
-  'Visit early morning (before 9am) for cooler temperatures, smaller crowds, and the chance to witness monks\u2019 morning rituals.',
-  'Photography is usually permitted in temple grounds but may be restricted inside certain buildings — look for signs or ask a monk.',
-  'Donations are voluntary but appreciated; place them in the donation boxes rather than handing cash directly to monks.',
-  'Women should never touch or hand anything directly to a monk — place items on a cloth or nearby surface instead.',
+const visitorTips: { en: string; nl: string }[] = [
+  {
+    en: 'Cover your shoulders and knees — long pants or a skirt below the knee and a sleeved shirt are required at all Thai temples.',
+    nl: 'Bedek je schouders en knieën — een lange broek of rok tot onder de knie en een shirt met mouwen zijn verplicht bij alle Thaise tempels.',
+  },
+  {
+    en: 'Remove your shoes before entering any temple building. Look for the pile of shoes at the entrance as your cue.',
+    nl: 'Trek je schoenen uit voordat je een tempelgebouw betreedt. Zoek naar de berg schoenen bij de ingang als aanwijzing.',
+  },
+  {
+    en: 'Avoid pointing your feet toward Buddha images or monks, as feet are considered the lowest and least sacred part of the body.',
+    nl: 'Vermijd het om je voeten naar Boeddhabeelden of monniken te richten, want voeten worden als het laagste en minst heilige lichaamsdeel beschouwd.',
+  },
+  {
+    en: 'Speak quietly and switch your phone to silent mode inside the temple grounds out of respect for worshippers.',
+    nl: 'Praat zachtjes en zet je telefoon op stil op het tempelterrein uit respect voor de gelovigen.',
+  },
+  {
+    en: 'Visit early morning (before 9am) for cooler temperatures, smaller crowds, and the chance to witness monks\u2019 morning rituals.',
+    nl: 'Bezoek de tempel vroeg in de ochtend (voor 9 uur) voor koelere temperaturen, minder drukte en de kans om de ochtendrituelen van monniken te zien.',
+  },
+  {
+    en: 'Photography is usually permitted in temple grounds but may be restricted inside certain buildings — look for signs or ask a monk.',
+    nl: 'Fotograferen is meestal toegestaan op het tempelterrein, maar kan beperkt zijn in bepaalde gebouwen — let op borden of vraag het aan een monnik.',
+  },
+  {
+    en: 'Donations are voluntary but appreciated; place them in the donation boxes rather than handing cash directly to monks.',
+    nl: 'Donaties zijn vrijwillig maar worden gewaardeerd; plaats ze in de donatieboxen in plaats van geld direct aan monniken te geven.',
+  },
+  {
+    en: 'Women should never touch or hand anything directly to a monk — place items on a cloth or nearby surface instead.',
+    nl: 'Vrouwen mogen nooit een monnik aanraken of iets direct overhandigen — leg items op een doek of een nabijgelegen oppervlak.',
+  },
 ];
 
 export default function TempleDetailPage({ temple, nearbyTemples }: TempleDetailPageProps) {
+  const { locale } = useRouter();
+  const isNl = locale === 'nl';
+  const lang = isNl ? 'nl' : 'en';
+
   const isFreeEntry = temple.entry_fee === 'Free' || temple.entry_fee === null;
 
   const breadcrumbItems = [
-    { name: 'Home', href: '/' },
-    { name: 'Temples', href: '/thailand-temples/' },
+    { name: isNl ? 'Home' : 'Home', href: '/' },
+    { name: isNl ? 'Tempels' : 'Temples', href: '/thailand-temples/' },
     { name: temple.name, href: `/temples/${temple.slug}/` },
   ];
 
@@ -51,8 +80,8 @@ export default function TempleDetailPage({ temple, nearbyTemples }: TempleDetail
   return (
     <>
       <SEOHead
-        title={`${temple.name} — Visitor Guide, Entry Fee & Tips (2026)`}
-        description={`${temple.name} in ${temple.city}: entry fee, opening hours, visitor tips and directions. ${temple.description.substring(0, 100)}...`}
+        title={`${temple.name} — ${isNl ? 'Bezoekersgids, Toegangsprijs & Tips' : 'Visitor Guide, Entry Fee & Tips'} (2026)`}
+        description={`${temple.name} in ${temple.city}: ${isNl ? 'toegangsprijs, openingstijden, bezoektips en routebeschrijving' : 'entry fee, opening hours, visitor tips and directions'}. ${temple.description.substring(0, 100)}...`}
       >
         <meta
           name="keywords"
@@ -71,7 +100,7 @@ export default function TempleDetailPage({ temple, nearbyTemples }: TempleDetail
           <div className="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8 py-16 md:py-20">
             <div className="max-w-3xl">
               <p className="font-script text-thailand-gold text-lg mb-2">
-                Sacred Sites of Thailand
+                {isNl ? 'Heilige Plekken van Thailand' : 'Sacred Sites of Thailand'}
               </p>
               <h1 className="text-4xl lg:text-5xl font-bold font-heading mb-4">
                 {temple.name}
@@ -89,7 +118,7 @@ export default function TempleDetailPage({ temple, nearbyTemples }: TempleDetail
                 </span>
                 {isFreeEntry ? (
                   <span className="inline-block bg-green-500/80 text-white px-3 py-1 rounded-full text-sm font-semibold">
-                    Free Entry
+                    {isNl ? 'Gratis Toegang' : 'Free Entry'}
                   </span>
                 ) : (
                   <span className="inline-block bg-amber-500/80 text-white px-3 py-1 rounded-full text-sm font-semibold">
@@ -107,7 +136,7 @@ export default function TempleDetailPage({ temple, nearbyTemples }: TempleDetail
                   <path strokeLinecap="round" strokeLinejoin="round" strokeWidth={2} d="M17.657 16.657L13.414 20.9a1.998 1.998 0 01-2.827 0l-4.244-4.243a8 8 0 1111.314 0z" />
                   <path strokeLinecap="round" strokeLinejoin="round" strokeWidth={2} d="M15 11a3 3 0 11-6 0 3 3 0 016 0z" />
                 </svg>
-                View on Google Maps
+                {isNl ? 'Bekijk op Google Maps' : 'View on Google Maps'}
               </a>
             </div>
           </div>
@@ -130,23 +159,26 @@ export default function TempleDetailPage({ temple, nearbyTemples }: TempleDetail
 
                 {/* Description */}
                 <div className="bg-white rounded-2xl shadow-md p-8">
-                  <p className="section-label">About This Temple</p>
+                  <p className="section-label">{isNl ? 'Over Deze Tempel' : 'About This Temple'}</p>
                   <h2 className="section-title font-heading mb-6">
-                    {temple.name}: What to Expect
+                    {temple.name}: {isNl ? 'Wat Te Verwachten' : 'What to Expect'}
                   </h2>
                   <div className="prose prose-gray max-w-none">
                     <p className="text-gray-700 leading-relaxed text-lg mb-4">
                       {temple.description}
                     </p>
                     <p className="text-gray-700 leading-relaxed">
-                      {temple.name} is one of the most significant {temple.type.toLowerCase()} in{' '}
-                      {temple.city} and a must-visit for anyone travelling through{' '}
-                      <Link href={`/city/${temple.city_slug}/`} className="text-thailand-blue hover:underline font-medium">
-                        {temple.city}
-                      </Link>
-                      . Whether you are a first-time visitor or a seasoned traveller, the atmosphere here
-                      is unlike anything else in Thailand. Arrive early, dress respectfully, and take your
-                      time absorbing the architecture and spiritual energy.
+                      {isNl
+                        ? <>{temple.name} is een van de belangrijkste {temple.type.toLowerCase()} in {temple.city} en een must-visit voor iedereen die door{' '}
+                            <Link href={`/city/${temple.city_slug}/`} className="text-thailand-blue hover:underline font-medium">{temple.city}</Link>
+                            {' '}reist. Of je nu voor het eerst komt of een ervaren reiziger bent, de sfeer hier is anders dan alles in Thailand. Kom vroeg, kleed je respectvol en neem de tijd om de architectuur en spirituele energie op te nemen.</>
+                        : <>{temple.name} is one of the most significant {temple.type.toLowerCase()} in{' '}
+                            {temple.city} and a must-visit for anyone travelling through{' '}
+                            <Link href={`/city/${temple.city_slug}/`} className="text-thailand-blue hover:underline font-medium">{temple.city}</Link>
+                            . Whether you are a first-time visitor or a seasoned traveller, the atmosphere here
+                            is unlike anything else in Thailand. Arrive early, dress respectfully, and take your
+                            time absorbing the architecture and spiritual energy.</>
+                      }
                     </p>
                   </div>
                 </div>
@@ -154,11 +186,12 @@ export default function TempleDetailPage({ temple, nearbyTemples }: TempleDetail
                 {/* Affiliate CTA */}
                 <div className="bg-surface-dark rounded-2xl p-6 text-white">
                   <h3 className="text-xl font-bold font-heading mb-2">
-                    Book Temple Tours &amp; Experiences
+                    {isNl ? 'Boek Tempeltours & Ervaringen' : 'Book Temple Tours & Experiences'}
                   </h3>
                   <p className="opacity-90 mb-5 text-sm leading-relaxed">
-                    Skip the planning and join a guided tour of {temple.name} with expert local guides.
-                    Many tours combine multiple temples in a single day — great value for time-pressed travellers.
+                    {isNl
+                      ? `Sla de planning over en doe mee aan een begeleide tour van ${temple.name} met deskundige lokale gidsen. Veel tours combineren meerdere tempels op één dag — ideaal voor reizigers met weinig tijd.`
+                      : `Skip the planning and join a guided tour of ${temple.name} with expert local guides. Many tours combine multiple temples in a single day — great value for time-pressed travellers.`}
                   </p>
                   <div className="flex flex-wrap gap-3">
                     <a
@@ -167,7 +200,7 @@ export default function TempleDetailPage({ temple, nearbyTemples }: TempleDetail
                       rel="noopener noreferrer nofollow"
                       className="bg-white text-thailand-blue px-5 py-2.5 rounded-full font-semibold text-sm hover:bg-gray-100 transition-colors"
                     >
-                      Klook Temple Tours
+                      {isNl ? 'Klook Tempeltours' : 'Klook Temple Tours'}
                     </a>
                     <a
                       href="https://getyourguide.tpo.lv/GuAFfGGK?subid=temples"
@@ -187,14 +220,14 @@ export default function TempleDetailPage({ temple, nearbyTemples }: TempleDetail
                     </a>
                   </div>
                   <p className="text-white/50 text-xs mt-4">
-                    Affiliate links — we may earn a small commission at no extra cost to you.
+                    {isNl ? 'Affiliate links — we ontvangen mogelijk een kleine commissie zonder extra kosten voor jou.' : 'Affiliate links — we may earn a small commission at no extra cost to you.'}
                   </p>
                 </div>
 
                 {/* Key Facts */}
                 <div className="bg-white rounded-2xl shadow-md p-8">
-                  <p className="section-label">Highlights</p>
-                  <h2 className="section-title font-heading mb-6">Key Facts</h2>
+                  <p className="section-label">{isNl ? 'Hoogtepunten' : 'Highlights'}</p>
+                  <h2 className="section-title font-heading mb-6">{isNl ? 'Belangrijke Feiten' : 'Key Facts'}</h2>
                   <ul className="space-y-3">
                     {temple.key_facts.map((fact, i) => (
                       <li key={i} className="flex items-start gap-3">
@@ -209,27 +242,30 @@ export default function TempleDetailPage({ temple, nearbyTemples }: TempleDetail
 
                 {/* Getting There */}
                 <div className="bg-white rounded-2xl shadow-md p-8">
-                  <p className="section-label">Getting There</p>
-                  <h2 className="section-title font-heading mb-4">How to Reach {temple.name}</h2>
+                  <p className="section-label">{isNl ? 'Hoe Er Te Komen' : 'Getting There'}</p>
+                  <h2 className="section-title font-heading mb-4">{isNl ? `Hoe Bereik Je ${temple.name}` : `How to Reach ${temple.name}`}</h2>
                   {temple.getting_there && (
                     <p className="text-gray-700 leading-relaxed mb-4">
                       {temple.getting_there}
                     </p>
                   )}
                   <p className="text-gray-700 leading-relaxed mb-4">
-                    For full transport options including
-                    buses, tuk-tuks, taxis, and Grab, visit our{' '}
-                    <Link href={`/city/${temple.city_slug}/`} className="text-thailand-blue hover:underline font-medium">
-                      {temple.city} city guide
-                    </Link>
-                    .
+                    {isNl
+                      ? <>Voor alle vervoersopties inclusief bussen, tuk-tuks, taxi&apos;s en Grab, bezoek onze{' '}
+                          <Link href={`/city/${temple.city_slug}/`} className="text-thailand-blue hover:underline font-medium">{temple.city} stadsgids</Link>.</>
+                      : <>For full transport options including buses, tuk-tuks, taxis, and Grab, visit our{' '}
+                          <Link href={`/city/${temple.city_slug}/`} className="text-thailand-blue hover:underline font-medium">{temple.city} city guide</Link>.</>
+                    }
                   </p>
                   <p className="text-gray-700 leading-relaxed mb-5">
-                    Planning to travel between cities? Check our{' '}
-                    <Link href="/transport/" className="text-thailand-blue hover:underline font-medium">
-                      Thailand transport guide
-                    </Link>{' '}
-                    for trains, buses, and domestic flights to and from {temple.city}.
+                    {isNl
+                      ? <>Van plan om tussen steden te reizen? Bekijk onze{' '}
+                          <Link href="/transport/" className="text-thailand-blue hover:underline font-medium">Thailand transportgids</Link>
+                          {' '}voor treinen, bussen en binnenlandse vluchten van en naar {temple.city}.</>
+                      : <>Planning to travel between cities? Check our{' '}
+                          <Link href="/transport/" className="text-thailand-blue hover:underline font-medium">Thailand transport guide</Link>
+                          {' '}for trains, buses, and domestic flights to and from {temple.city}.</>
+                    }
                   </p>
                   <a
                     href={googleMapsUrl}
@@ -241,17 +277,17 @@ export default function TempleDetailPage({ temple, nearbyTemples }: TempleDetail
                       <path strokeLinecap="round" strokeLinejoin="round" strokeWidth={2} d="M17.657 16.657L13.414 20.9a1.998 1.998 0 01-2.827 0l-4.244-4.243a8 8 0 1111.314 0z" />
                       <path strokeLinecap="round" strokeLinejoin="round" strokeWidth={2} d="M15 11a3 3 0 11-6 0 3 3 0 016 0z" />
                     </svg>
-                    Open in Google Maps
+                    {isNl ? 'Open in Google Maps' : 'Open in Google Maps'}
                   </a>
                 </div>
 
                 {/* Visitor Tips */}
                 <div className="bg-white rounded-2xl shadow-md p-8">
-                  <p className="section-label">Etiquette &amp; Advice</p>
-                  <h2 className="section-title font-heading mb-6">Visitor Tips for {temple.name}</h2>
+                  <p className="section-label">{isNl ? 'Etiquette & Advies' : 'Etiquette & Advice'}</p>
+                  <h2 className="section-title font-heading mb-6">{isNl ? `Bezoektips voor ${temple.name}` : `Visitor Tips for ${temple.name}`}</h2>
                   {temple.visitor_tips && temple.visitor_tips.length > 0 && (
                     <div className="mb-6 bg-thailand-gold/10 rounded-xl p-5">
-                      <h3 className="font-bold font-heading text-gray-900 mb-3 text-sm uppercase tracking-wide">Tips Specific to {temple.name}</h3>
+                      <h3 className="font-bold font-heading text-gray-900 mb-3 text-sm uppercase tracking-wide">{isNl ? `Tips Specifiek voor ${temple.name}` : `Tips Specific to ${temple.name}`}</h3>
                       <ul className="space-y-2">
                         {temple.visitor_tips.map((tip, i) => (
                           <li key={i} className="flex items-start gap-2 text-gray-700 text-sm leading-relaxed">
@@ -268,7 +304,7 @@ export default function TempleDetailPage({ temple, nearbyTemples }: TempleDetail
                         <span className="text-thailand-gold font-bold text-base flex-shrink-0 mt-0.5">
                           {i + 1}.
                         </span>
-                        <p className="text-gray-700 text-sm leading-relaxed">{tip}</p>
+                        <p className="text-gray-700 text-sm leading-relaxed">{tip[lang]}</p>
                       </div>
                     ))}
                   </div>
@@ -277,9 +313,9 @@ export default function TempleDetailPage({ temple, nearbyTemples }: TempleDetail
                 {/* Nearby Temples */}
                 {nearbyTemples.length > 0 && (
                   <div className="bg-white rounded-2xl shadow-md p-8">
-                    <p className="section-label">More in {temple.city}</p>
+                    <p className="section-label">{isNl ? `Meer in ${temple.city}` : `More in ${temple.city}`}</p>
                     <h2 className="section-title font-heading mb-6">
-                      Nearby Temples in {temple.city}
+                      {isNl ? `Tempels in de Buurt in ${temple.city}` : `Nearby Temples in ${temple.city}`}
                     </h2>
                     <div className="space-y-4">
                       {nearbyTemples.map((nearby) => {
@@ -308,7 +344,7 @@ export default function TempleDetailPage({ temple, nearbyTemples }: TempleDetail
                             <div className="flex-shrink-0">
                               {nearbyIsFree ? (
                                 <span className="inline-block px-3 py-1 bg-green-100 text-green-800 rounded-full text-xs font-semibold">
-                                  Free
+                                  {isNl ? 'Gratis' : 'Free'}
                                 </span>
                               ) : (
                                 <span className="inline-block px-3 py-1 bg-amber-100 text-amber-800 rounded-full text-xs font-semibold">
@@ -325,7 +361,7 @@ export default function TempleDetailPage({ temple, nearbyTemples }: TempleDetail
                         href="/thailand-temples/"
                         className="inline-flex items-center gap-2 text-thailand-blue hover:underline text-sm font-medium"
                       >
-                        View all temples in Thailand
+                        {isNl ? 'Bekijk alle tempels in Thailand' : 'View all temples in Thailand'}
                         <svg className="w-4 h-4" fill="none" viewBox="0 0 24 24" stroke="currentColor">
                           <path strokeLinecap="round" strokeLinejoin="round" strokeWidth={2} d="M9 5l7 7-7 7" />
                         </svg>
@@ -341,16 +377,16 @@ export default function TempleDetailPage({ temple, nearbyTemples }: TempleDetail
                 {/* Quick Facts Card */}
                 <div className="bg-white rounded-2xl shadow-md p-6 sticky top-6">
                   <h3 className="text-lg font-bold font-heading text-gray-900 mb-4 pb-3 border-b">
-                    Quick Facts
+                    {isNl ? 'Snelle Feiten' : 'Quick Facts'}
                   </h3>
                   <dl className="space-y-4">
                     <div>
                       <dt className="text-xs font-semibold text-gray-500 uppercase tracking-wide mb-1">
-                        Entry Fee
+                        {isNl ? 'Toegangsprijs' : 'Entry Fee'}
                       </dt>
                       <dd className="text-gray-900 font-medium">
                         {isFreeEntry ? (
-                          <span className="text-green-700 font-semibold">Free</span>
+                          <span className="text-green-700 font-semibold">{isNl ? 'Gratis' : 'Free'}</span>
                         ) : (
                           temple.entry_fee
                         )}
@@ -358,31 +394,31 @@ export default function TempleDetailPage({ temple, nearbyTemples }: TempleDetail
                     </div>
                     <div className="border-t pt-4">
                       <dt className="text-xs font-semibold text-gray-500 uppercase tracking-wide mb-1">
-                        Opening Hours
+                        {isNl ? 'Openingstijden' : 'Opening Hours'}
                       </dt>
                       <dd className="text-gray-900 font-medium">
-                        {temple.opening_hours ?? 'Open daily — check locally for holiday hours'}
+                        {temple.opening_hours ?? (isNl ? 'Dagelijks open — controleer lokaal voor feestdagen' : 'Open daily — check locally for holiday hours')}
                       </dd>
                     </div>
                     <div className="border-t pt-4">
                       <dt className="text-xs font-semibold text-gray-500 uppercase tracking-wide mb-1">
-                        Dress Code
+                        {isNl ? 'Kledingvoorschrift' : 'Dress Code'}
                       </dt>
                       <dd className="text-gray-700 text-sm">
-                        {temple.dress_code || 'Shoulders and knees must be covered. Remove shoes before entering buildings.'}
+                        {temple.dress_code || (isNl ? 'Schouders en knieën moeten bedekt zijn. Trek schoenen uit voor het betreden van gebouwen.' : 'Shoulders and knees must be covered. Remove shoes before entering buildings.')}
                       </dd>
                     </div>
                     {temple.address && (
                       <div className="border-t pt-4">
                         <dt className="text-xs font-semibold text-gray-500 uppercase tracking-wide mb-1">
-                          Address
+                          {isNl ? 'Adres' : 'Address'}
                         </dt>
                         <dd className="text-gray-700 text-sm">{temple.address}</dd>
                       </div>
                     )}
                     <div className="border-t pt-4">
                       <dt className="text-xs font-semibold text-gray-500 uppercase tracking-wide mb-1">
-                        Location
+                        {isNl ? 'Locatie' : 'Location'}
                       </dt>
                       <dd className="text-gray-900 font-medium">
                         <Link
@@ -396,18 +432,18 @@ export default function TempleDetailPage({ temple, nearbyTemples }: TempleDetail
                     </div>
                     <div className="border-t pt-4">
                       <dt className="text-xs font-semibold text-gray-500 uppercase tracking-wide mb-1">
-                        Temple Type
+                        {isNl ? 'Tempeltype' : 'Temple Type'}
                       </dt>
                       <dd className="text-gray-900 font-medium">{temple.type}</dd>
                     </div>
                     <div className="border-t pt-4">
                       <dt className="text-xs font-semibold text-gray-500 uppercase tracking-wide mb-1">
-                        Rank
+                        {isNl ? 'Ranglijst' : 'Rank'}
                       </dt>
                       <dd className="text-gray-900 font-medium">
-                        #{temple.rank} on{' '}
+                        #{temple.rank} {isNl ? 'op' : 'on'}{' '}
                         <Link href="/thailand-temples/" className="text-thailand-blue hover:underline">
-                          our temples list
+                          {isNl ? 'onze tempellijst' : 'our temples list'}
                         </Link>
                       </dd>
                     </div>
@@ -423,14 +459,14 @@ export default function TempleDetailPage({ temple, nearbyTemples }: TempleDetail
                         <path strokeLinecap="round" strokeLinejoin="round" strokeWidth={2} d="M17.657 16.657L13.414 20.9a1.998 1.998 0 01-2.827 0l-4.244-4.243a8 8 0 1111.314 0z" />
                         <path strokeLinecap="round" strokeLinejoin="round" strokeWidth={2} d="M15 11a3 3 0 11-6 0 3 3 0 016 0z" />
                       </svg>
-                      Get Directions
+                      {isNl ? 'Routebeschrijving' : 'Get Directions'}
                     </a>
                   </div>
                 </div>
 
                 {/* Key Facts Tags */}
                 <div className="bg-white rounded-2xl shadow-md p-6">
-                  <h3 className="text-base font-bold font-heading text-gray-900 mb-3">Tags</h3>
+                  <h3 className="text-base font-bold font-heading text-gray-900 mb-3">{isNl ? 'Tags' : 'Tags'}</h3>
                   <div className="flex flex-wrap gap-2">
                     {temple.key_facts.map((fact, i) => (
                       <span
@@ -451,9 +487,9 @@ export default function TempleDetailPage({ temple, nearbyTemples }: TempleDetail
         {/* Cross-Links Section */}
         <section className="py-12 bg-white">
           <div className="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8">
-            <p className="section-label text-center">Explore More</p>
+            <p className="section-label text-center">{isNl ? 'Ontdek Meer' : 'Explore More'}</p>
             <h2 className="text-2xl font-bold font-heading text-gray-900 mb-8 text-center section-title">
-              Related Guides &amp; Resources
+              {isNl ? 'Gerelateerde Gidsen & Bronnen' : 'Related Guides & Resources'}
             </h2>
             <div className="grid sm:grid-cols-2 lg:grid-cols-3 gap-5 max-w-5xl mx-auto">
               <Link
@@ -462,11 +498,11 @@ export default function TempleDetailPage({ temple, nearbyTemples }: TempleDetail
               >
                 <div className="text-2xl mb-2">&#9968;</div>
                 <h3 className="font-bold font-heading text-gray-900 group-hover:text-thailand-blue transition-colors mb-1">
-                  All Thailand Temples
+                  {isNl ? 'Alle Thailand Tempels' : 'All Thailand Temples'}
                 </h3>
-                <p className="text-gray-600 text-sm">The complete ranked guide to Thailand&apos;s best temples.</p>
+                <p className="text-gray-600 text-sm">{isNl ? 'De complete ranglijst van de beste tempels van Thailand.' : 'The complete ranked guide to Thailand\'s best temples.'}</p>
                 <span className="inline-block mt-2 text-thailand-blue text-sm font-medium group-hover:underline">
-                  View all temples &#8594;
+                  {isNl ? 'Bekijk alle tempels' : 'View all temples'} &#8594;
                 </span>
               </Link>
 
@@ -476,11 +512,11 @@ export default function TempleDetailPage({ temple, nearbyTemples }: TempleDetail
               >
                 <div className="text-2xl mb-2">&#127755;</div>
                 <h3 className="font-bold font-heading text-gray-900 group-hover:text-thailand-blue transition-colors mb-1">
-                  {temple.city} City Guide
+                  {temple.city} {isNl ? 'Stadsgids' : 'City Guide'}
                 </h3>
-                <p className="text-gray-600 text-sm">Transport, food, hotels, and top attractions in {temple.city}.</p>
+                <p className="text-gray-600 text-sm">{isNl ? `Transport, eten, hotels en topattracties in ${temple.city}.` : `Transport, food, hotels, and top attractions in ${temple.city}.`}</p>
                 <span className="inline-block mt-2 text-thailand-blue text-sm font-medium group-hover:underline">
-                  Explore {temple.city} &#8594;
+                  {isNl ? `Ontdek ${temple.city}` : `Explore ${temple.city}`} &#8594;
                 </span>
               </Link>
 
@@ -490,11 +526,11 @@ export default function TempleDetailPage({ temple, nearbyTemples }: TempleDetail
               >
                 <div className="text-2xl mb-2">&#127988;</div>
                 <h3 className="font-bold font-heading text-gray-900 group-hover:text-thailand-blue transition-colors mb-1">
-                  Thailand Travel Guide
+                  {isNl ? 'Thailand Reisgids' : 'Thailand Travel Guide'}
                 </h3>
-                <p className="text-gray-600 text-sm">Everything to know before your trip to Thailand.</p>
+                <p className="text-gray-600 text-sm">{isNl ? 'Alles wat je moet weten voor je reis naar Thailand.' : 'Everything to know before your trip to Thailand.'}</p>
                 <span className="inline-block mt-2 text-thailand-blue text-sm font-medium group-hover:underline">
-                  Read the guide &#8594;
+                  {isNl ? 'Lees de gids' : 'Read the guide'} &#8594;
                 </span>
               </Link>
 
@@ -504,11 +540,11 @@ export default function TempleDetailPage({ temple, nearbyTemples }: TempleDetail
               >
                 <div className="text-2xl mb-2">&#127857;</div>
                 <h3 className="font-bold font-heading text-gray-900 group-hover:text-thailand-blue transition-colors mb-1">
-                  Thai Food Guide
+                  {isNl ? 'Thais Eten Gids' : 'Thai Food Guide'}
                 </h3>
-                <p className="text-gray-600 text-sm">Discover 46 authentic Thai dishes with recipes and restaurant tips.</p>
+                <p className="text-gray-600 text-sm">{isNl ? 'Ontdek 46 authentieke Thaise gerechten met recepten en restauranttips.' : 'Discover 46 authentic Thai dishes with recipes and restaurant tips.'}</p>
                 <span className="inline-block mt-2 text-thailand-blue text-sm font-medium group-hover:underline">
-                  Explore Thai food &#8594;
+                  {isNl ? 'Ontdek Thais eten' : 'Explore Thai food'} &#8594;
                 </span>
               </Link>
 
@@ -518,11 +554,11 @@ export default function TempleDetailPage({ temple, nearbyTemples }: TempleDetail
               >
                 <div className="text-2xl mb-2">&#128661;</div>
                 <h3 className="font-bold font-heading text-gray-900 group-hover:text-thailand-blue transition-colors mb-1">
-                  Thailand Transport
+                  {isNl ? 'Thailand Transport' : 'Thailand Transport'}
                 </h3>
-                <p className="text-gray-600 text-sm">Trains, buses, boats and flights — 245 routes covered.</p>
+                <p className="text-gray-600 text-sm">{isNl ? 'Treinen, bussen, boten en vluchten — 245 routes.' : 'Trains, buses, boats and flights — 245 routes covered.'}</p>
                 <span className="inline-block mt-2 text-thailand-blue text-sm font-medium group-hover:underline">
-                  Plan your journey &#8594;
+                  {isNl ? 'Plan je reis' : 'Plan your journey'} &#8594;
                 </span>
               </Link>
 
@@ -532,11 +568,11 @@ export default function TempleDetailPage({ temple, nearbyTemples }: TempleDetail
               >
                 <div className="text-2xl mb-2">&#9733;</div>
                 <h3 className="font-bold font-heading text-gray-900 group-hover:text-thailand-blue transition-colors mb-1">
-                  Best Places to Visit
+                  {isNl ? 'Beste Plekken om te Bezoeken' : 'Best Places to Visit'}
                 </h3>
-                <p className="text-gray-600 text-sm">Top destinations in Thailand ranked for every type of traveller.</p>
+                <p className="text-gray-600 text-sm">{isNl ? 'Topbestemmingen in Thailand gerangschikt voor elk type reiziger.' : 'Top destinations in Thailand ranked for every type of traveller.'}</p>
                 <span className="inline-block mt-2 text-thailand-blue text-sm font-medium group-hover:underline">
-                  See top destinations &#8594;
+                  {isNl ? 'Bekijk topbestemmingen' : 'See top destinations'} &#8594;
                 </span>
               </Link>
             </div>
@@ -546,13 +582,14 @@ export default function TempleDetailPage({ temple, nearbyTemples }: TempleDetail
         {/* Bottom CTA */}
         <section className="bg-surface-dark py-12 text-white">
           <div className="max-w-4xl mx-auto px-4 sm:px-6 lg:px-8 text-center">
-            <p className="font-script text-thailand-gold text-lg mb-2">Start Planning</p>
+            <p className="font-script text-thailand-gold text-lg mb-2">{isNl ? 'Begin Met Plannen' : 'Start Planning'}</p>
             <h2 className="text-3xl font-bold font-heading mb-4">
-              Ready to Visit {temple.name}?
+              {isNl ? `Klaar om ${temple.name} te Bezoeken?` : `Ready to Visit ${temple.name}?`}
             </h2>
             <p className="text-lg opacity-90 mb-8 max-w-2xl mx-auto">
-              Book a guided temple tour or find a hotel near {temple.city}&apos;s temple district.
-              Use the links below to plan your visit today.
+              {isNl
+                ? `Boek een begeleide tempeltour of vind een hotel bij het tempeldistrict van ${temple.city}. Gebruik de links hieronder om je bezoek te plannen.`
+                : `Book a guided temple tour or find a hotel near ${temple.city}'s temple district. Use the links below to plan your visit today.`}
             </p>
             <div className="flex flex-wrap justify-center gap-4">
               <a
@@ -561,7 +598,7 @@ export default function TempleDetailPage({ temple, nearbyTemples }: TempleDetail
                 rel="noopener noreferrer nofollow"
                 className="bg-thailand-gold text-white px-6 py-3 rounded-xl font-semibold hover:bg-thailand-gold/90 transition-colors"
               >
-                Book on Klook
+                {isNl ? 'Boek op Klook' : 'Book on Klook'}
               </a>
               <a
                 href="https://getyourguide.tpo.lv/GuAFfGGK?subid=temples"
@@ -569,7 +606,7 @@ export default function TempleDetailPage({ temple, nearbyTemples }: TempleDetail
                 rel="noopener noreferrer nofollow"
                 className="bg-white text-gray-900 px-6 py-3 rounded-xl font-semibold hover:bg-gray-100 transition-colors"
               >
-                GetYourGuide Tours
+                {isNl ? 'GetYourGuide Tours' : 'GetYourGuide Tours'}
               </a>
               <a
                 href="https://booking.tpo.lv/2PT1kR82?subid=temples"
@@ -577,11 +614,11 @@ export default function TempleDetailPage({ temple, nearbyTemples }: TempleDetail
                 rel="noopener noreferrer nofollow"
                 className="bg-white text-gray-900 px-6 py-3 rounded-xl font-semibold hover:bg-gray-100 transition-colors"
               >
-                Find a Hotel
+                {isNl ? 'Vind een Hotel' : 'Find a Hotel'}
               </a>
             </div>
             <p className="text-white/40 text-xs mt-5">
-              Affiliate links — we may earn a small commission at no extra cost to you.
+              {isNl ? 'Affiliate links — we ontvangen mogelijk een kleine commissie zonder extra kosten voor jou.' : 'Affiliate links — we may earn a small commission at no extra cost to you.'}
             </p>
           </div>
         </section>

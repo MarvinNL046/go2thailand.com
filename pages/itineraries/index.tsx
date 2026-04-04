@@ -2,6 +2,7 @@ import { GetStaticProps } from 'next';
 import { useState } from 'react';
 import Link from 'next/link';
 import Image from 'next/image';
+import { useRouter } from 'next/router';
 import SEOHead from '../../components/SEOHead';
 import Breadcrumbs from '../../components/Breadcrumbs';
 import PreFooterAffiliateBanner from '../../components/PreFooterAffiliateBanner';
@@ -22,16 +23,18 @@ interface ItinerariesPageProps {
   itineraries: Itinerary[];
 }
 
-const DURATION_FILTERS = [
-  { label: 'All', value: 0 },
-  { label: '3 Days', value: 3 },
-  { label: '5 Days', value: 5 },
-  { label: '7 Days', value: 7 },
-  { label: '10 Days', value: 10 },
-];
-
 export default function ItinerariesPage({ itineraries }: ItinerariesPageProps) {
+  const { locale } = useRouter();
+  const isNl = locale === 'nl';
   const [activeDuration, setActiveDuration] = useState(0);
+
+  const DURATION_FILTERS = [
+    { label: isNl ? 'Alle' : 'All', value: 0 },
+    { label: isNl ? '3 Dagen' : '3 Days', value: 3 },
+    { label: isNl ? '5 Dagen' : '5 Days', value: 5 },
+    { label: isNl ? '7 Dagen' : '7 Days', value: 7 },
+    { label: isNl ? '10 Dagen' : '10 Days', value: 10 },
+  ];
 
   const filteredItineraries = activeDuration === 0
     ? itineraries
@@ -39,7 +42,7 @@ export default function ItinerariesPage({ itineraries }: ItinerariesPageProps) {
 
   const breadcrumbs = [
     { name: 'Home', href: '/' },
-    { name: 'Itineraries', href: '/itineraries/' }
+    { name: isNl ? 'Reisroutes' : 'Itineraries', href: '/itineraries/' }
   ];
 
   const itemListJsonLd = {
@@ -59,8 +62,8 @@ export default function ItinerariesPage({ itineraries }: ItinerariesPageProps) {
   return (
     <>
       <SEOHead
-        title="Thailand Itineraries 2026: Day-by-Day Travel Plans | Go2Thailand"
-        description="Explore curated Thailand itineraries from 3 to 10+ days. Day-by-day plans with budgets, accommodation tips, and transport guides for every travel style."
+        title={isNl ? "Thailand Reisroutes 2026: Dag-voor-Dag Reisplannen | Go2Thailand" : "Thailand Itineraries 2026: Day-by-Day Travel Plans | Go2Thailand"}
+        description={isNl ? "Ontdek samengestelde Thailand reisroutes van 3 tot 10+ dagen. Dag-voor-dag plannen met budgetten, accommodatietips en vervoersgidsen voor elke reisstijl." : "Explore curated Thailand itineraries from 3 to 10+ days. Day-by-day plans with budgets, accommodation tips, and transport guides for every travel style."}
         ogImage="https://go2-thailand.com/og-default.webp"
       >
         <meta name="keywords" content="Thailand itinerary, Thailand travel plan, Thailand trip planner, Thailand route, Thailand 7 days, Thailand 10 days, Thailand 2 weeks" />
@@ -83,20 +86,20 @@ export default function ItinerariesPage({ itineraries }: ItinerariesPageProps) {
           <div className="relative z-10 h-full flex items-center">
             <div className="container-custom text-white">
               <div className="max-w-3xl">
-                <span className="font-script text-thailand-gold text-lg">Plan your adventure</span>
+                <span className="font-script text-thailand-gold text-lg">{isNl ? 'Plan je avontuur' : 'Plan your adventure'}</span>
                 <div className="flex items-center mb-4 mt-2">
                   <span className="bg-thailand-red text-white px-3 py-1 rounded-xl text-sm font-semibold mr-3">
-                    {itineraries.length} Itineraries
+                    {itineraries.length} {isNl ? 'Reisroutes' : 'Itineraries'}
                   </span>
                   <span className="text-gray-200 text-sm">
-                    Updated for 2026
+                    {isNl ? 'Bijgewerkt voor 2026' : 'Updated for 2026'}
                   </span>
                 </div>
                 <h1 className="text-4xl lg:text-6xl font-bold font-heading mb-4">
-                  Thailand Itineraries
+                  {isNl ? 'Thailand Reisroutes' : 'Thailand Itineraries'}
                 </h1>
                 <p className="text-xl lg:text-2xl text-gray-200 max-w-2xl">
-                  Day-by-day travel plans for every budget and travel style. From quick 3-day trips to epic 10-day adventures.
+                  {isNl ? 'Dag-voor-dag reisplannen voor elk budget en elke reisstijl. Van snelle 3-daagse trips tot epische 10-daagse avonturen.' : 'Day-by-day travel plans for every budget and travel style. From quick 3-day trips to epic 10-day adventures.'}
                 </p>
               </div>
             </div>
@@ -145,7 +148,7 @@ export default function ItinerariesPage({ itineraries }: ItinerariesPageProps) {
                         />
                         <div className="absolute top-3 left-3 flex gap-2">
                           <span className="bg-thailand-blue text-white px-3 py-1 rounded-full text-xs font-bold shadow">
-                            {itinerary.duration} Days
+                            {itinerary.duration} {isNl ? 'Dagen' : 'Days'}
                           </span>
                           <span className="bg-white/90 backdrop-blur-sm text-thailand-blue px-3 py-1 rounded-full text-xs font-semibold shadow">
                             {itinerary.region}
@@ -178,7 +181,7 @@ export default function ItinerariesPage({ itineraries }: ItinerariesPageProps) {
                         {itinerary.budgetRange && (
                           <div className="pt-3 border-t border-gray-100">
                             <div className="flex items-center justify-between text-sm">
-                              <span className="text-gray-500">Budget range</span>
+                              <span className="text-gray-500">{isNl ? 'Budgetklasse' : 'Budget range'}</span>
                               <span className="font-semibold text-thailand-blue">
                                 {itinerary.budgetRange}
                               </span>
@@ -197,15 +200,15 @@ export default function ItinerariesPage({ itineraries }: ItinerariesPageProps) {
                     <path strokeLinecap="round" strokeLinejoin="round" strokeWidth="2" d="M9 5H7a2 2 0 00-2 2v12a2 2 0 002 2h10a2 2 0 002-2V7a2 2 0 00-2-2h-2M9 5a2 2 0 002 2h2a2 2 0 002-2M9 5a2 2 0 012-2h2a2 2 0 012 2" />
                   </svg>
                 </div>
-                <h3 className="text-xl font-semibold font-heading text-gray-900 mb-2">No itineraries found</h3>
+                <h3 className="text-xl font-semibold font-heading text-gray-900 mb-2">{isNl ? 'Geen reisroutes gevonden' : 'No itineraries found'}</h3>
                 <p className="text-gray-600 mb-4">
-                  No itineraries available for this duration yet. Try a different filter.
+                  {isNl ? 'Geen reisroutes beschikbaar voor deze duur. Probeer een ander filter.' : 'No itineraries available for this duration yet. Try a different filter.'}
                 </p>
                 <button
                   onClick={() => setActiveDuration(0)}
                   className="text-thailand-blue font-medium hover:underline"
                 >
-                  View all itineraries
+                  {isNl ? 'Bekijk alle reisroutes' : 'View all itineraries'}
                 </button>
               </div>
             )}
@@ -213,8 +216,8 @@ export default function ItinerariesPage({ itineraries }: ItinerariesPageProps) {
         </section>
 
         <PreFooterAffiliateBanner
-          title="Ready to Plan Your Thailand Trip?"
-          description="Book hotels, transport, activities, and get connected with an eSIM"
+          title={isNl ? "Klaar om je Thailand Reis te Plannen?" : "Ready to Plan Your Thailand Trip?"}
+          description={isNl ? "Boek hotels, vervoer, activiteiten en blijf verbonden met een eSIM" : "Book hotels, transport, activities, and get connected with an eSIM"}
           sectionClassName="bg-surface-dark py-12"
           links={[
             { label: 'Booking.com', href: 'https://booking.tpo.lv/2PT1kR82?subid=itinerary' },
@@ -231,9 +234,9 @@ export default function ItinerariesPage({ itineraries }: ItinerariesPageProps) {
         <section className="bg-surface-cream py-12">
           <div className="container-custom">
             <div className="text-center mb-8">
-              <span className="font-script text-thailand-gold text-lg">Keep exploring</span>
+              <span className="font-script text-thailand-gold text-lg">{isNl ? 'Blijf ontdekken' : 'Keep exploring'}</span>
               <h2 className="text-3xl font-bold font-heading text-gray-900 mt-1">
-                Explore More
+                {isNl ? 'Ontdek Meer' : 'Explore More'}
               </h2>
             </div>
             <div className="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-4 gap-6">
@@ -244,8 +247,8 @@ export default function ItinerariesPage({ itineraries }: ItinerariesPageProps) {
                       <path strokeLinecap="round" strokeLinejoin="round" strokeWidth="2" d="M19 21V5a2 2 0 00-2-2H7a2 2 0 00-2 2v16m14 0h2m-2 0h-5m-9 0H3m2 0h5M9 7h1m-1 4h1m4-4h1m-1 4h1m-5 10v-5a1 1 0 011-1h2a1 1 0 011 1v5m-4 0h4" />
                     </svg>
                   </div>
-                  <h3 className="font-semibold font-heading text-gray-900 mb-2">All Cities</h3>
-                  <p className="text-gray-600 text-sm">Browse all destinations</p>
+                  <h3 className="font-semibold font-heading text-gray-900 mb-2">{isNl ? 'Alle Steden' : 'All Cities'}</h3>
+                  <p className="text-gray-600 text-sm">{isNl ? 'Bekijk alle bestemmingen' : 'Browse all destinations'}</p>
                 </div>
               </Link>
               <Link href="/islands/" className="group">
@@ -255,8 +258,8 @@ export default function ItinerariesPage({ itineraries }: ItinerariesPageProps) {
                       <path strokeLinecap="round" strokeLinejoin="round" strokeWidth="2" d="M3.055 11H5a2 2 0 012 2v1a2 2 0 002 2 2 2 0 012 2v2.945M8 3.935V5.5A2.5 2.5 0 0010.5 8h.5a2 2 0 012 2 2 2 0 104 0 2 2 0 012-2h1.064M15 20.488V18a2 2 0 012-2h3.064" />
                     </svg>
                   </div>
-                  <h3 className="font-semibold font-heading text-gray-900 mb-2">Thai Islands</h3>
-                  <p className="text-gray-600 text-sm">Beach paradise awaits</p>
+                  <h3 className="font-semibold font-heading text-gray-900 mb-2">{isNl ? 'Thaise Eilanden' : 'Thai Islands'}</h3>
+                  <p className="text-gray-600 text-sm">{isNl ? 'Strandparadijs wacht' : 'Beach paradise awaits'}</p>
                 </div>
               </Link>
               <Link href="/transport/" className="group">
@@ -266,8 +269,8 @@ export default function ItinerariesPage({ itineraries }: ItinerariesPageProps) {
                       <path strokeLinecap="round" strokeLinejoin="round" strokeWidth="2" d="M13 10V3L4 14h7v7l9-11h-7z" />
                     </svg>
                   </div>
-                  <h3 className="font-semibold font-heading text-gray-900 mb-2">Transport</h3>
-                  <p className="text-gray-600 text-sm">Getting around Thailand</p>
+                  <h3 className="font-semibold font-heading text-gray-900 mb-2">{isNl ? 'Vervoer' : 'Transport'}</h3>
+                  <p className="text-gray-600 text-sm">{isNl ? 'Reizen door Thailand' : 'Getting around Thailand'}</p>
                 </div>
               </Link>
               <Link href="/blog/" className="group">
@@ -277,8 +280,8 @@ export default function ItinerariesPage({ itineraries }: ItinerariesPageProps) {
                       <path strokeLinecap="round" strokeLinejoin="round" strokeWidth="2" d="M12 6.253v13m0-13C10.832 5.477 9.246 5 7.5 5S4.168 5.477 3 6.253v13C4.168 18.477 5.754 18 7.5 18s3.332.477 4.5 1.253m0-13C13.168 5.477 14.754 5 16.5 5c1.746 0 3.332.477 4.5 1.253v13C19.832 18.477 18.246 18 16.5 18c-1.746 0-3.332.477-4.5 1.253" />
                     </svg>
                   </div>
-                  <h3 className="font-semibold font-heading text-gray-900 mb-2">Travel Blog</h3>
-                  <p className="text-gray-600 text-sm">Tips & stories</p>
+                  <h3 className="font-semibold font-heading text-gray-900 mb-2">{isNl ? 'Reisblog' : 'Travel Blog'}</h3>
+                  <p className="text-gray-600 text-sm">{isNl ? 'Tips & verhalen' : 'Tips & stories'}</p>
                 </div>
               </Link>
             </div>

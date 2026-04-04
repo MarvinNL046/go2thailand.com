@@ -232,9 +232,9 @@ export default function FoodIndexPage({ dishes, categories }: FoodIndexPageProps
                       Pad thai is Thailand&apos;s most internationally famous dish, and for good reason. Thin rice noodles are stir-fried in a searingly hot wok with egg, tofu, dried shrimp, bean sprouts, and your choice of protein — usually shrimp, chicken, or pork. The sauce is a carefully balanced blend of tamarind paste, fish sauce, and palm sugar that gives pad thai its signature sweet-tangy flavor. A squeeze of fresh lime, a sprinkle of crushed peanuts, and a pinch of chili flakes complete the dish. The best pad thai is cooked over charcoal for a subtle smoky flavor the Thais call <em>wok hei</em>. Street food versions cost as little as 40-60 baht, while sit-down restaurants charge 120-200 baht. Bangkok&apos;s Thip Samai on Maha Chai Road has been serving what many consider the best pad thai in the country since 1966 — their signature version wrapped in a thin egg omelet is worth the queue.
                     </p>
                     <div className="bg-gray-50 rounded-xl p-4 text-sm text-gray-600 space-y-1">
-                      <p><strong>Price:</strong> 40-80 baht (street food) | 150-250 baht (restaurant)</p>
-                      <p><strong>Spice level:</strong> Mild — heat is adjustable with condiments</p>
-                      <p><strong>Best in:</strong> Bangkok (Thip Samai, Yaowarat stalls)</p>
+                      <p><strong>{isNl ? 'Prijs:' : 'Price:'}</strong> 40-80 baht ({isNl ? 'straatvoedsel' : 'street food'}) | 150-250 baht ({isNl ? 'restaurant' : 'restaurant'})</p>
+                      <p><strong>{isNl ? 'Pittigheid:' : 'Spice level:'}</strong> {isNl ? 'Mild — pittigheid is aanpasbaar met kruiden' : 'Mild — heat is adjustable with condiments'}</p>
+                      <p><strong>{isNl ? 'Best in:' : 'Best in:'}</strong> Bangkok (Thip Samai, Yaowarat stalls)</p>
                     </div>
                     <p className="mt-3 text-sm">
                       <Link href="/food/pad-thai/" className="text-thailand-blue hover:underline font-semibold">Full pad thai guide →</Link>
@@ -255,9 +255,9 @@ export default function FoodIndexPage({ dishes, categories }: FoodIndexPageProps
                       Som tam is arguably the most eaten dish in Thailand — Thais consume it at every meal, from breakfast to late-night snacking. Shredded unripe papaya is pounded in a clay mortar with garlic, chilies, long beans, tomatoes, dried shrimp, peanuts, lime juice, fish sauce, and palm sugar. The result is an explosive combination of crunchy, spicy, sour, sweet, and salty in every bite. Originating from Isaan (northeastern Thailand), som tam has countless regional variations: som tam thai is the milder, tourist-friendly version with peanuts and dried shrimp; som tam poo adds salted black crab for a funky, intensely savory kick; and som tam pla ra includes fermented fish sauce that locals love but can challenge uninitiated palates. Street vendors across the country pound it fresh to order, typically for 40-60 baht. Watch them adjust the chilies — four or more is standard for Thais, but asking for one or two is perfectly fine.
                     </p>
                     <div className="bg-gray-50 rounded-xl p-4 text-sm text-gray-600 space-y-1">
-                      <p><strong>Price:</strong> 40-60 baht (street food) | 100-180 baht (restaurant)</p>
-                      <p><strong>Spice level:</strong> Medium to very hot — always adjustable</p>
-                      <p><strong>Best in:</strong> Isaan region, Bangkok (any som tam cart), Chiang Mai</p>
+                      <p><strong>{isNl ? 'Prijs:' : 'Price:'}</strong> 40-60 baht ({isNl ? 'straatvoedsel' : 'street food'}) | 100-180 baht ({isNl ? 'restaurant' : 'restaurant'})</p>
+                      <p><strong>{isNl ? 'Pittigheid:' : 'Spice level:'}</strong> {isNl ? 'Gemiddeld tot zeer pittig — altijd aanpasbaar' : 'Medium to very hot — always adjustable'}</p>
+                      <p><strong>{isNl ? 'Best in:' : 'Best in:'}</strong> Isaan region, Bangkok (any som tam cart), Chiang Mai</p>
                     </div>
                     <p className="mt-3 text-sm">
                       <Link href="/food/som-tam/" className="text-thailand-blue hover:underline font-semibold">Full som tam guide →</Link>
@@ -278,9 +278,9 @@ export default function FoodIndexPage({ dishes, categories }: FoodIndexPageProps
                       Tom yum goong is the quintessential Thai soup — a fragrant, sour, spicy broth loaded with plump river prawns, mushrooms, and a holy trinity of Thai aromatics: lemongrass, galangal, and kaffir lime leaves. These ingredients are bruised and simmered to release their essential oils, then the broth is sharpened with fresh lime juice and fish sauce and ignited with bird&apos;s eye chilies. Two versions exist: tom yum nam sai (clear broth) and tom yum nam khon (creamy, with roasted chili paste and evaporated milk). The creamy version is richer and more popular in Bangkok restaurants. A steaming bowl of tom yum goong is the perfect remedy for a rainy evening or a mild cold — the galangal and lemongrass have genuine medicinal properties that Thai traditional medicine has recognized for centuries. Street food stalls serve it for 60-80 baht; restaurants charge 150-300 baht depending on the size of the prawns.
                     </p>
                     <div className="bg-gray-50 rounded-xl p-4 text-sm text-gray-600 space-y-1">
-                      <p><strong>Price:</strong> 60-80 baht (street food) | 150-300 baht (restaurant)</p>
-                      <p><strong>Spice level:</strong> Medium to hot — ask for &quot;mai pet&quot; for mild</p>
-                      <p><strong>Best in:</strong> Bangkok (Pe Aor on Rangnam Road is legendary), coastal cities</p>
+                      <p><strong>{isNl ? 'Prijs:' : 'Price:'}</strong> 60-80 baht ({isNl ? 'straatvoedsel' : 'street food'}) | 150-300 baht ({isNl ? 'restaurant' : 'restaurant'})</p>
+                      <p><strong>{isNl ? 'Pittigheid:' : 'Spice level:'}</strong> {isNl ? 'Gemiddeld tot pittig — vraag om "mai pet" voor mild' : 'Medium to hot — ask for "mai pet" for mild'}</p>
+                      <p><strong>{isNl ? 'Best in:' : 'Best in:'}</strong> Bangkok (Pe Aor on Rangnam Road is legendary), coastal cities</p>
                     </div>
                     <p className="mt-3 text-sm">
                       <Link href="/food/tom-yum-goong/" className="text-thailand-blue hover:underline font-semibold">Full tom yum goong guide →</Link>
@@ -299,9 +299,9 @@ export default function FoodIndexPage({ dishes, categories }: FoodIndexPageProps
                       Massaman curry is Thai cuisine&apos;s most globally acclaimed dish — CNN once named it the best food in the world. This rich, mild curry reflects centuries of cultural exchange with Muslim traders from India, Persia, and the Malay Peninsula. The curry paste combines dried spices rarely found in other Thai curries: cinnamon, cardamom, cloves, star anise, and cumin, along with lemongrass, galangal, and shallots. These are simmered in thick coconut milk with tender chunks of beef or chicken, potatoes, and roasted peanuts. The result is warming, slightly sweet, and deeply aromatic — closer to an Indian-style curry than anything else in Thai cooking, yet unmistakably Thai in its use of fish sauce, tamarind, and palm sugar. Massaman is one of the least spicy Thai curries, making it an excellent choice for travelers who are sensitive to heat. It is most commonly served over steamed jasmine rice.
                     </p>
                     <div className="bg-gray-50 rounded-xl p-4 text-sm text-gray-600 space-y-1">
-                      <p><strong>Price:</strong> 50-70 baht (street food/food court) | 150-280 baht (restaurant)</p>
-                      <p><strong>Spice level:</strong> Mild — one of the least spicy Thai curries</p>
-                      <p><strong>Best in:</strong> Southern Thailand (Phuket, Krabi), Bangkok</p>
+                      <p><strong>{isNl ? 'Prijs:' : 'Price:'}</strong> 50-70 baht ({isNl ? 'straatvoedsel/food court' : 'street food/food court'}) | 150-280 baht ({isNl ? 'restaurant' : 'restaurant'})</p>
+                      <p><strong>{isNl ? 'Pittigheid:' : 'Spice level:'}</strong> {isNl ? 'Mild — een van de minst pittige Thaise curry\'s' : 'Mild — one of the least spicy Thai curries'}</p>
+                      <p><strong>{isNl ? 'Best in:' : 'Best in:'}</strong> Southern Thailand (Phuket, Krabi), Bangkok</p>
                     </div>
                     <p className="mt-3 text-sm">
                       <Link href="/food/massaman-curry/" className="text-thailand-blue hover:underline font-semibold">Full massaman curry guide →</Link>
@@ -320,9 +320,9 @@ export default function FoodIndexPage({ dishes, categories }: FoodIndexPageProps
                       Mango sticky rice is Thailand&apos;s most beloved dessert, and once you try it, you will understand why. Warm glutinous rice is soaked in sweetened coconut cream until each grain is rich and fragrant, then served alongside slices of perfectly ripe nam dok mai mango — a golden, fiberless variety that is intensely sweet and creamy. A drizzle of additional coconut cream and a sprinkle of crispy mung beans or toasted sesame seeds finish the dish. The combination of warm, salty-sweet sticky rice against cool, juicy mango is simple genius. Peak mango season runs from April through June, when the fruit is at its sweetest and most abundant — prices drop and quality soars during these months. Outside of season, vendors still serve it year-round using different mango varieties, but the experience during peak season is unmatched. Street vendors sell portions for 60-100 baht; restaurants charge 120-200 baht.
                     </p>
                     <div className="bg-gray-50 rounded-xl p-4 text-sm text-gray-600 space-y-1">
-                      <p><strong>Price:</strong> 60-100 baht (street food) | 120-200 baht (restaurant)</p>
-                      <p><strong>Best season:</strong> April - June (peak mango season)</p>
-                      <p><strong>Best in:</strong> Available everywhere, but Bangkok&apos;s Yaowarat and night markets excel</p>
+                      <p><strong>{isNl ? 'Prijs:' : 'Price:'}</strong> 60-100 baht ({isNl ? 'straatvoedsel' : 'street food'}) | 120-200 baht ({isNl ? 'restaurant' : 'restaurant'})</p>
+                      <p><strong>{isNl ? 'Beste seizoen:' : 'Best season:'}</strong> April - June ({isNl ? 'piek mango seizoen' : 'peak mango season'})</p>
+                      <p><strong>{isNl ? 'Best in:' : 'Best in:'}</strong> {isNl ? 'Overal verkrijgbaar, maar Bangkok\'s Yaowarat en nachtmarkten blinken uit' : 'Available everywhere, but Bangkok\'s Yaowarat and night markets excel'}</p>
                     </div>
                     <p className="mt-3 text-sm">
                       <Link href="/food/mango-sticky-rice/" className="text-thailand-blue hover:underline font-semibold">Full mango sticky rice guide →</Link>
@@ -343,9 +343,9 @@ export default function FoodIndexPage({ dishes, categories }: FoodIndexPageProps
                       If pad thai is Thailand&apos;s most famous dish abroad, pad krapow is the dish Thais actually eat every day. Minced pork (or chicken, beef, or seafood) is stir-fried with a heavy hand of garlic, fresh chilies, and holy basil — a peppery, slightly anise-flavored herb that is distinctly different from the sweet basil used in Western cooking. The dish is served over steamed jasmine rice and almost always topped with a crispy fried egg (kai dao) with lacy, golden edges. The combination of savory, spicy meat against the fragrant rice and rich egg yolk is deeply satisfying. It is the ultimate Thai comfort food — quick, cheap, and available at every food stall, food court, and canteen in the country. A plate costs 40-60 baht at street stalls and 80-150 baht in restaurants. Ordering it is simple: &quot;pad krapow moo sap kai dao&quot; means basil stir-fry with minced pork and a fried egg.
                     </p>
                     <div className="bg-gray-50 rounded-xl p-4 text-sm text-gray-600 space-y-1">
-                      <p><strong>Price:</strong> 40-60 baht (street food) | 80-150 baht (restaurant)</p>
-                      <p><strong>Spice level:</strong> Medium to hot — holy basil adds its own peppery kick</p>
-                      <p><strong>Tip:</strong> Always add &quot;kai dao&quot; (fried egg) — it makes the dish</p>
+                      <p><strong>{isNl ? 'Prijs:' : 'Price:'}</strong> 40-60 baht ({isNl ? 'straatvoedsel' : 'street food'}) | 80-150 baht ({isNl ? 'restaurant' : 'restaurant'})</p>
+                      <p><strong>{isNl ? 'Pittigheid:' : 'Spice level:'}</strong> {isNl ? 'Gemiddeld tot pittig — heilige basilicum voegt zijn eigen peperige kick toe' : 'Medium to hot — holy basil adds its own peppery kick'}</p>
+                      <p><strong>{isNl ? 'Tip:' : 'Tip:'}</strong> {isNl ? 'Voeg altijd "kai dao" (gebakken ei) toe — het maakt het gerecht' : 'Always add "kai dao" (fried egg) — it makes the dish'}</p>
                     </div>
                     <p className="mt-3 text-sm">
                       <Link href="/food/pad-krapow/" className="text-thailand-blue hover:underline font-semibold">Full pad krapow guide →</Link>
@@ -364,9 +364,9 @@ export default function FoodIndexPage({ dishes, categories }: FoodIndexPageProps
                       Khao soi is Chiang Mai&apos;s signature dish and one of the most compelling reasons to visit northern Thailand. This Burmese-influenced curry noodle soup combines tender egg noodles in a rich, mildly spiced coconut-curry broth with a chicken drumstick (or beef), topped with a tangle of crispy deep-fried noodles that add crunch to every spoonful. Served alongside are pickled mustard greens, shallots, and lime — each condiment adding a different dimension when stirred in. The curry paste uses dried spices like turmeric, coriander, and cumin alongside fresh ingredients, giving it warmth rather than sharp heat. Khao soi is most commonly found in Chiang Mai, Chiang Rai, and other northern provinces, though its popularity has spread to Bangkok in recent years. In Chiang Mai, legendary spots like Khao Soi Khun Yai serve bowls for 40-60 baht. The dish is so beloved in the north that entire food trails and competitions are dedicated to finding the city&apos;s best version.
                     </p>
                     <div className="bg-gray-50 rounded-xl p-4 text-sm text-gray-600 space-y-1">
-                      <p><strong>Price:</strong> 40-60 baht (Chiang Mai street stalls) | 120-200 baht (Bangkok restaurants)</p>
-                      <p><strong>Spice level:</strong> Mild to medium — warm spices, not fiery heat</p>
-                      <p><strong>Best in:</strong> Chiang Mai (Khao Soi Khun Yai, Khao Soi Mae Sai)</p>
+                      <p><strong>{isNl ? 'Prijs:' : 'Price:'}</strong> 40-60 baht (Chiang Mai {isNl ? 'straatvoedsel' : 'street stalls'}) | 120-200 baht (Bangkok {isNl ? 'restaurants' : 'restaurants'})</p>
+                      <p><strong>{isNl ? 'Pittigheid:' : 'Spice level:'}</strong> {isNl ? 'Mild tot gemiddeld — warme specerijen, geen vurige hitte' : 'Mild to medium — warm spices, not fiery heat'}</p>
+                      <p><strong>{isNl ? 'Best in:' : 'Best in:'}</strong> Chiang Mai (Khao Soi Khun Yai, Khao Soi Mae Sai)</p>
                     </div>
                     <p className="mt-3 text-sm">
                       <Link href="/food/khao-soi/" className="text-thailand-blue hover:underline font-semibold">Full khao soi guide →</Link>

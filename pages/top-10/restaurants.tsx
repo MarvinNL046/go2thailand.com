@@ -1,4 +1,5 @@
 import { GetStaticProps } from 'next';
+import { useRouter } from 'next/router';
 import Link from 'next/link';
 import Image from 'next/image';
 import SEOHead from '../../components/SEOHead';
@@ -29,9 +30,13 @@ interface Top10RestaurantsIndexProps {
 }
 
 export default function Top10RestaurantsIndex({ availableGuides }: Top10RestaurantsIndexProps) {
+  const { locale } = useRouter();
+  const isNl = locale === 'nl';
+  const lang = isNl ? 'nl' : 'en';
+
   const breadcrumbs = [
     { name: 'Home', href: '/' },
-    { name: 'Top 10 Guides', href: '/top-10/' },
+    { name: isNl ? 'Top 10 Gidsen' : 'Top 10 Guides', href: '/top-10/' },
     { name: 'Restaurants', href: '/top-10/restaurants/' }
   ];
 
@@ -43,7 +48,7 @@ export default function Top10RestaurantsIndex({ availableGuides }: Top10Restaura
       city: cityBySlug.get(featured.slug)
     }))
     .filter((featured) => featured.city);
-  const browseGuides = [...availableGuides].sort((a, b) => a.city.name.en.localeCompare(b.city.name.en));
+  const browseGuides = [...availableGuides].sort((a, b) => (a.city.name[lang] || a.city.name.en).localeCompare(b.city.name[lang] || b.city.name.en));
 
   return (
     <>
@@ -125,13 +130,13 @@ export default function Top10RestaurantsIndex({ availableGuides }: Top10Restaura
             <section className="mb-12">
               <div className="flex items-end justify-between gap-6 mb-6">
                 <div>
-                  <span className="section-label">Featured Cities</span>
+                  <span className="section-label">{isNl ? 'Uitgelichte Steden' : 'Featured Cities'}</span>
                   <h2 className="text-3xl font-bold font-heading text-gray-900 mt-2">
-                    Start Here
+                    {isNl ? 'Begin Hier' : 'Start Here'}
                   </h2>
                 </div>
                 <p className="text-gray-600 max-w-2xl">
-                  These are the strongest entry points for the city-level restaurant guides.
+                  {isNl ? 'Dit zijn de beste startpunten voor de restaurantgidsen per stad.' : 'These are the strongest entry points for the city-level restaurant guides.'}
                 </p>
               </div>
 
@@ -144,7 +149,7 @@ export default function Top10RestaurantsIndex({ availableGuides }: Top10Restaura
                         <div className="relative h-44">
                           <Image
                             src={city.image}
-                            alt={`${city.name.en} restaurants`}
+                            alt={`${city.name[lang] || city.name.en} restaurants`}
                             layout="fill"
                             objectFit="cover"
                             className="brightness-90"
@@ -155,13 +160,13 @@ export default function Top10RestaurantsIndex({ availableGuides }: Top10Restaura
                         </div>
                         <div className="p-6">
                           <h3 className="text-xl font-bold font-heading text-gray-900 mb-2 group-hover:text-thailand-red transition-colors">
-                            {city.name.en}
+                            {city.name[lang] || city.name.en}
                           </h3>
                           <p className="text-gray-600 text-sm mb-4">
                             {featured.summary}
                           </p>
                           <div className="text-sm font-semibold text-thailand-red">
-                            Open restaurant guide &rarr;
+                            {isNl ? 'Open restaurantgids' : 'Open restaurant guide'} &rarr;
                           </div>
                         </div>
                       </div>
@@ -193,14 +198,14 @@ export default function Top10RestaurantsIndex({ availableGuides }: Top10Restaura
                           href={`/city/${slug}/top-10-restaurants/`}
                           className="rounded-full bg-white px-3 py-1.5 text-sm font-medium text-gray-700 shadow-sm transition-colors hover:bg-gray-50 hover:text-thailand-red"
                         >
-                          {city.name.en}
+                          {city.name[lang] || city.name.en}
                         </Link>
                       );
                     })}
                   </div>
                   {section.inlineSources?.length ? (
                     <div className="mt-4 text-sm text-gray-500">
-                      Selected references:
+                      {isNl ? 'Geselecteerde bronnen:' : 'Selected references:'}
                       {' '}
                       {section.inlineSources.map((source, index) => (
                         <span key={source.label}>
@@ -226,11 +231,11 @@ export default function Top10RestaurantsIndex({ availableGuides }: Top10Restaura
                 <div>
                   <span className="section-label">Browse Index</span>
                   <h2 className="text-3xl font-bold font-heading text-gray-900 mt-2">
-                    All Restaurant Guides
+                    {isNl ? 'Alle Restaurantgidsen' : 'All Restaurant Guides'}
                   </h2>
                 </div>
                 <p className="text-gray-600 max-w-2xl">
-                  A full city index for readers who want to browse the restaurant library by destination.
+                  {isNl ? 'Een volledig stadsoverzicht voor wie de restaurantbibliotheek per bestemming wil bekijken.' : 'A full city index for readers who want to browse the restaurant library by destination.'}
                 </p>
               </div>
 
@@ -241,7 +246,7 @@ export default function Top10RestaurantsIndex({ availableGuides }: Top10Restaura
                       <div className="relative h-36">
                         <Image
                           src={guide.city.image}
-                          alt={`${guide.city.name.en} restaurants`}
+                          alt={`${guide.city.name[lang] || guide.city.name.en} restaurants`}
                           layout="fill"
                           objectFit="cover"
                           className="brightness-90"
@@ -252,10 +257,10 @@ export default function Top10RestaurantsIndex({ availableGuides }: Top10Restaura
                       </div>
                       <div className="p-5">
                         <h3 className="text-lg font-bold font-heading text-gray-900 mb-2 group-hover:text-thailand-red transition-colors">
-                          {guide.city.name.en}
+                          {guide.city.name[lang] || guide.city.name.en}
                         </h3>
                         <p className="text-sm text-gray-600 mb-4">
-                          {guide.city.province} Province
+                          {guide.city.province} {isNl ? 'Provincie' : 'Province'}
                         </p>
                         <div className="text-sm font-medium text-gray-700">
                           {guide.item_count} restaurants
@@ -272,11 +277,11 @@ export default function Top10RestaurantsIndex({ availableGuides }: Top10Restaura
                 <div>
                   <span className="section-label">Sources</span>
                   <h2 className="text-3xl font-bold font-heading text-gray-900 mt-2">
-                    Visible References
+                    {isNl ? 'Zichtbare Bronnen' : 'Visible References'}
                   </h2>
                 </div>
                 <p className="text-gray-600 max-w-2xl">
-                  Selected source references used to shape the route framing and city-level context.
+                  {isNl ? 'Geselecteerde bronverwijzingen gebruikt voor de routekadering en stadsniveau context.' : 'Selected source references used to shape the route framing and city-level context.'}
                 </p>
               </div>
 
