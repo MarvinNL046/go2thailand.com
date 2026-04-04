@@ -18,7 +18,6 @@ import InlineAd from '../../components/ads/InlineAd';
 import { getAllPosts, getPostBySlug, getRelatedPosts, getAdjacentPosts } from '../../lib/blog';
 import BlogTableOfContents from '../../components/blog/BlogTableOfContents';
 import InlineEngagementCTAs from '../../components/blog/InlineEngagementCTAs';
-import AffiliateContextSidebar from '../../components/blog/AffiliateContextSidebar';
 import BookingHeroCTA from '../../components/BookingHeroCTA';
 
 interface Source {
@@ -353,8 +352,116 @@ export default function BlogPostPage({ post, relatedPosts, prevPost, nextPost }:
                   </div>
                 )}
 
-                {/* Context-Aware Affiliate Sidebar */}
-                <AffiliateContextSidebar slug={post.slug} category={post.category} tags={post.tags} />
+                <TravelSecurityAffiliateBlock />
+
+                {/* Explore */}
+                <div className="bg-white rounded-2xl shadow-md p-6">
+                  <h3 className="font-bold font-heading text-lg mb-4">Explore More</h3>
+                  <div className="space-y-2">
+                    <Link href="/islands/" className="block text-thailand-blue hover:underline text-sm">Thailand Islands</Link>
+                    <Link href="/visa/" className="block text-thailand-blue hover:underline text-sm">Visa Guide</Link>
+                    <Link href="/food/" className="block text-thailand-blue hover:underline text-sm">Thai Food</Link>
+                    <Link href="/practical-info/" className="block text-thailand-blue hover:underline text-sm">Practical Info</Link>
+                    <Link href="/blog/" className="block text-thailand-blue hover:underline text-sm">← All blog posts</Link>
+                  </div>
+                </div>
+
+                {/* Trip.com Hotel Widget */}
+                <TripcomWidget city="Thailand" type="searchbox" customTitle="Find Thailand Hotels" />
+
+                {/* Book Hotels */}
+                <div className="bg-white rounded-2xl shadow-md p-6">
+                  <h3 className="text-xl font-bold font-heading mb-3">Book Hotels</h3>
+                  <div className="space-y-3">
+                    <a
+                      href="https://booking.tpo.lv/2PT1kR82?subid=blog"
+                      target="_blank"
+                      rel="noopener noreferrer"
+                      className="block bg-thailand-blue text-white text-center px-4 py-2 rounded-xl font-semibold hover:bg-thailand-blue/90 transition-colors text-sm"
+                    >
+                      Booking.com
+                    </a>
+                    <a
+                      href="https://trip.tpo.lv/TmObooZ5?subid=blog"
+                      target="_blank"
+                      rel="noopener noreferrer"
+                      className="block bg-thailand-blue text-white text-center px-4 py-2 rounded-xl font-semibold hover:bg-thailand-blue/90 transition-colors text-sm"
+                    >
+                      Trip.com
+                    </a>
+                  </div>
+                  <p className="text-xs text-gray-500 mt-3 text-center">Affiliate links</p>
+                </div>
+
+                {/* Tours & Activities */}
+                <div className="bg-white rounded-2xl shadow-md p-6">
+                  <h3 className="text-xl font-bold font-heading mb-3">Tours & Activities</h3>
+                  <div className="space-y-3">
+                    <a
+                      href="https://klook.tpo.lv/7Dt6WApj?subid=blog"
+                      target="_blank"
+                      rel="noopener noreferrer"
+                      className="block bg-thailand-red text-white text-center px-4 py-2 rounded-xl font-semibold hover:bg-thailand-red/90 transition-colors text-sm"
+                    >
+                      Klook Activities
+                    </a>
+                    <a
+                      href="https://getyourguide.tpo.lv/GuAFfGGK?subid=blog"
+                      target="_blank"
+                      rel="noopener noreferrer"
+                      className="block bg-thailand-red text-white text-center px-4 py-2 rounded-xl font-semibold hover:bg-thailand-red/90 transition-colors text-sm"
+                    >
+                      GetYourGuide Tours
+                    </a>
+                  </div>
+                  <p className="text-xs text-gray-500 mt-3 text-center">Affiliate links</p>
+                </div>
+
+                {/* eSIM */}
+                <div className="bg-white rounded-2xl shadow-md p-6">
+                  <h3 className="text-xl font-bold font-heading mb-2">Thailand eSIM</h3>
+                  <p className="text-sm text-gray-600 mb-4">
+                    Stay connected in Thailand. Order your eSIM before you go.
+                  </p>
+                  <a
+                    href="https://saily.tpo.lv/rf9lidnE?subid=blog"
+                    target="_blank"
+                    rel="noopener noreferrer"
+                    className="block bg-thailand-blue text-white text-center px-4 py-2 rounded-xl font-semibold hover:bg-thailand-blue/90 transition-colors mb-2"
+                  >
+                    Saily eSIM
+                  </a>
+                  <Link href="/esim/" className="block text-thailand-blue text-center text-sm hover:underline">
+                    More eSIM options →
+                  </Link>
+                </div>
+
+                {/* Travel Insurance */}
+                <div className="bg-surface-dark text-white rounded-2xl p-6">
+                  <h3 className="text-xl font-bold font-heading mb-2">Travel Insurance</h3>
+                  <p className="text-sm opacity-90 mb-4">
+                    Protect yourself while traveling. Compare the best travel insurance.
+                  </p>
+                  <Link href="/travel-insurance-thailand/" className="block bg-thailand-red text-white text-center px-4 py-2 rounded-xl font-semibold hover:bg-thailand-red/90 transition-colors">
+                    Compare Now
+                  </Link>
+                </div>
+
+                {/* Transport */}
+                <div className="bg-white rounded-2xl shadow-md p-6">
+                  <h3 className="text-xl font-bold font-heading mb-3">Transport</h3>
+                  <a
+                    href="https://12go.tpo.lv/tNA80urD?subid=blog"
+                    target="_blank"
+                    rel="noopener noreferrer"
+                    className="block bg-thailand-blue text-white text-center px-4 py-2 rounded-xl font-semibold hover:bg-thailand-blue/90 transition-colors text-sm mb-2"
+                  >
+                    12Go Asia - Book Transport
+                  </a>
+                  <Link href="/transport/" className="block text-thailand-blue text-center text-sm hover:underline">
+                    View all routes →
+                  </Link>
+                </div>
                 </div>
               </aside>
             </div>

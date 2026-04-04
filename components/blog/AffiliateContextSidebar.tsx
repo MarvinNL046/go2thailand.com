@@ -169,12 +169,34 @@ export default function AffiliateContextSidebar({ slug, category, tags }: Affili
 
   return (
     <>
+      {/* Primary: intent-matched block */}
       {intent === 'hotels' && <HotelBlock />}
       {intent === 'transport' && <TransportBlock />}
       {intent === 'food' && <FoodBlock />}
       {intent === 'visa' && <VisaBlock />}
       {intent === 'beach' && <BeachBlock />}
       {intent === 'default' && <DefaultBlock />}
+
+      {/* Always show hotels if not already primary */}
+      {intent !== 'hotels' && intent !== 'default' && <HotelBlock />}
+
+      {/* Always show tours if not already primary */}
+      {intent !== 'food' && intent !== 'beach' && intent !== 'default' && (
+        <div className="bg-white rounded-2xl shadow-md p-6">
+          <h3 className="text-xl font-bold font-heading mb-3">Tours &amp; Activities</h3>
+          <div className="space-y-3">
+            <a href="https://klook.tpo.lv/7Dt6WApj?subid=blog" target="_blank" rel="noopener noreferrer"
+              className="block bg-thailand-red text-white text-center px-4 py-2 rounded-xl font-semibold hover:bg-thailand-red/90 transition-colors text-sm">
+              Klook Activities
+            </a>
+            <a href="https://getyourguide.tpo.lv/GuAFfGGK?subid=blog" target="_blank" rel="noopener noreferrer"
+              className="block bg-thailand-red text-white text-center px-4 py-2 rounded-xl font-semibold hover:bg-thailand-red/90 transition-colors text-sm">
+              GetYourGuide Tours
+            </a>
+          </div>
+          <p className="text-xs text-gray-500 mt-3 text-center">Affiliate links</p>
+        </div>
+      )}
 
       {/* eSIM — always shown, universally relevant */}
       {intent !== 'visa' && <EsimBlock />}

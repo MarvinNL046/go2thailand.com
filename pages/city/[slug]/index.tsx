@@ -2198,7 +2198,7 @@ export default function CityPage({ city, relatedCities, comparisons, transportLi
 
 export const getStaticPaths: GetStaticPaths = async () => {
   const cities = getCityStaticPaths();
-  const locales = ['en', 'zh', 'de', 'fr', 'ru', 'ja', 'ko', 'th'];
+  const locales = ['en', 'nl'];
   
   // Generate paths for all locales
   const paths = [];

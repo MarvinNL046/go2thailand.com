@@ -337,25 +337,37 @@ export default function VisaDetailPage({ visa }: VisaPageProps) {
                 </Link>
               </div>
 
-              {/* NordVPN — important for travelers in Thailand */}
+              {/* Trip.com Widget */}
+              <TripcomWidget
+                city="Thailand"
+                type="searchbox"
+                customTitle={lang === 'nl' ? 'Boek je Thailand Reis' : 'Book Your Thailand Trip'}
+              />
+
+              {/* Book Activities */}
               <div className="bg-white rounded-2xl shadow-md p-6">
-                <h3 className="text-xl font-bold font-heading mb-2">
-                  {lang === 'nl' ? 'VPN voor Thailand' : 'VPN for Thailand'}
+                <h3 className="text-xl font-bold font-heading mb-3">
+                  {lang === 'nl' ? 'Boek Activiteiten' : 'Book Activities'}
                 </h3>
-                <p className="text-sm text-gray-600 mb-4">
-                  {lang === 'nl'
-                    ? 'Bescherm je online privacy en krijg toegang tot content van thuis.'
-                    : 'Protect your privacy online and access content from home.'}
-                </p>
-                <a
-                  href="https://nordvpn.tpo.lv/ekHF1i55?subid=visa"
-                  target="_blank"
-                  rel="noopener noreferrer"
-                  className="block bg-[#4687FF] text-white text-center px-4 py-2.5 rounded-xl font-semibold hover:opacity-90 transition-colors"
-                >
-                  NordVPN
-                </a>
-                <p className="text-xs text-gray-500 mt-3 text-center">Affiliate link</p>
+                <div className="space-y-3">
+                  <a
+                    href="https://klook.tpo.lv/7Dt6WApj?subid=visa"
+                    target="_blank"
+                    rel="noopener noreferrer"
+                    className="block bg-thailand-red text-white text-center px-4 py-2 rounded-xl font-semibold hover:bg-red-700 transition-colors text-sm"
+                  >
+                    Klook Activities
+                  </a>
+                  <a
+                    href="https://getyourguide.tpo.lv/GuAFfGGK?subid=visa"
+                    target="_blank"
+                    rel="noopener noreferrer"
+                    className="block bg-thailand-blue text-white text-center px-4 py-2 rounded-xl font-semibold hover:bg-blue-700 transition-colors text-sm"
+                  >
+                    GetYourGuide Tours
+                  </a>
+                </div>
+                <p className="text-xs text-gray-500 mt-3 text-center">Affiliate links</p>
               </div>
               </div>
             </aside>

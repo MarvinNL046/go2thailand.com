@@ -399,7 +399,7 @@ export const getStaticPaths: GetStaticPaths = async () => {
   const citySlugs = getAllDivingSnorkelingCities();
   const paths: { params: { slug: string }; locale?: string }[] = [];
 
-  const locales = ['en', 'nl', 'zh', 'de', 'fr', 'ru', 'ja', 'ko', 'th'];
+  const locales = ['en', 'nl'];
   citySlugs.forEach(slug => {
     const city = getCityBySlug(slug);
     if (!city) return;
