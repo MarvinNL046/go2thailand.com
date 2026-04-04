@@ -17,7 +17,7 @@ tags:
   - Isan eten Bangkok
   - Bangkok Chinatown eten
   - Klook foodtour
-image: /images/blog/bangkok-samyan-street-food-tour-klook-hero.png
+image: /images/blog/bangkok-samyan-street-food-tour-ai.jpg
 description: "Eerlijke review van Bangkok's best beoordeelde Samyan streetfoodtour op Klook. 6 stops, tuktuk-ritten, Isan-feest, Chinatown, handgetrokken noedels, rooftopbar met Wat Arun uitzicht — voor $72."
 featured: true
 readingTime: 12
