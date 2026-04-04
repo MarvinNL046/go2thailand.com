@@ -443,9 +443,9 @@ export default function ThingsToDoPage() {
                         : 'Floating markets are one of Thailand\'s most photogenic traditions, and while many are now oriented toward tourism, the experience of buying freshly cooked food from vendors in narrow wooden boats is still magical. The two most accessible options from Bangkok are Damnoen Saduak and Amphawa. Damnoen Saduak (about 100 km southwest of Bangkok) is the larger and more touristic of the two — arrive before 9am to beat the tour buses and see vendors actually trading rather than posing for photos. Amphawa (about 80 km southwest) is the more authentic and locals-preferred option, operating mainly on weekends from late afternoon into the evening. The atmosphere at Amphawa is fantastic: boats selling grilled seafood line the canal, and you eat sitting on the wooden platforms along the bank. After dark, you can take a boat ride to see fireflies along the Mae Klong River. Both markets are easy day trips from Bangkok via minivan or organized tour.'}
                     </p>
                     <div className="bg-gray-50 rounded-xl p-4 text-sm text-gray-600 space-y-1">
-                      <p><strong>Damnoen Saduak:</strong> Daily, best before 9am — about 1.5 hours from Bangkok</p>
-                      <p><strong>Amphawa:</strong> Friday-Sunday, late afternoon to evening — about 1.5 hours from Bangkok</p>
-                      <p><strong>Tip:</strong> Go to Amphawa on a weekend evening for the most authentic experience and the firefly boat tour.</p>
+                      <p><strong>Damnoen Saduak:</strong> {isNl ? 'Dagelijks, best voor 9 uur — circa 1,5 uur vanaf Bangkok' : 'Daily, best before 9am — about 1.5 hours from Bangkok'}</p>
+                      <p><strong>Amphawa:</strong> {isNl ? 'Vrijdag-zondag, late middag tot avond — circa 1,5 uur vanaf Bangkok' : 'Friday-Sunday, late afternoon to evening — about 1.5 hours from Bangkok'}</p>
+                      <p><strong>{isNl ? 'Tip:' : 'Tip:'}</strong> {isNl ? 'Ga op een weekend avond naar Amphawa voor de meest authentieke ervaring en de vuurvliegjes boottocht.' : 'Go to Amphawa on a weekend evening for the most authentic experience and the firefly boat tour.'}</p>
                     </div>
                   </div>
                 </div>
