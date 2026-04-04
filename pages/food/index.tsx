@@ -2,6 +2,7 @@ import { GetStaticProps } from 'next';
 import Link from 'next/link';
 import Image from 'next/image';
 import { useState } from 'react';
+import { useRouter } from 'next/router';
 import { getAllDishes } from '../../lib/food';
 import Breadcrumbs from '../../components/Breadcrumbs';
 import SEOHead from '../../components/SEOHead';
@@ -27,6 +28,10 @@ interface FoodIndexPageProps {
 }
 
 export default function FoodIndexPage({ dishes, categories }: FoodIndexPageProps) {
+  const { locale } = useRouter();
+  const isNl = locale === 'nl';
+  const lang = isNl ? 'nl' : 'en';
+
   // Start with 12 dishes or all dishes if less than 12
   const initialLoad = Math.min(12, dishes.length);
   const [visibleDishes, setVisibleDishes] = useState(initialLoad);
@@ -155,8 +160,12 @@ export default function FoodIndexPage({ dishes, categories }: FoodIndexPageProps
   return (
     <>
       <SEOHead
-        title="Thai Food Guide: Must-Try Dishes, Street Food & Regional Cuisine | Go2Thailand"
-        description={`Discover ${dishes.length} authentic Thai dishes with street food tips, regional cuisine breakdowns, and practical ordering advice. From pad thai to khao soi — your complete Thai food guide.`}
+        title={isNl
+          ? `Thaise Keuken Gids: Must-Try Gerechten, Straatvoedsel & Regionale Keuken | Go2Thailand`
+          : `Thai Food Guide: Must-Try Dishes, Street Food & Regional Cuisine | Go2Thailand`}
+        description={isNl
+          ? `Ontdek ${dishes.length} authentieke Thaise gerechten met straatvoedsel tips, regionale keuken en praktisch besteladvies. Van pad thai tot khao soi — je complete Thaise eetgids.`
+          : `Discover ${dishes.length} authentic Thai dishes with street food tips, regional cuisine breakdowns, and practical ordering advice. From pad thai to khao soi — your complete Thai food guide.`}
       >
         <meta name="keywords" content="thai food, best thai food, thai street food, thai cuisine, thai dishes, pad thai, som tam, tom yum, massaman curry, thai food guide, street food thailand" />
         <script type="application/ld+json" dangerouslySetInnerHTML={{ __html: JSON.stringify(faqJsonLd) }} />
@@ -168,15 +177,17 @@ export default function FoodIndexPage({ dishes, categories }: FoodIndexPageProps
         <section className="bg-white shadow-sm">
           <div className="container-custom py-8">
             <Breadcrumbs items={[
-              { name: 'Home', href: '/' },
-              { name: 'Thai Food Guide', href: '/food' }
+              { name: isNl ? 'Home' : 'Home', href: '/' },
+              { name: isNl ? 'Thaise Keuken Gids' : 'Thai Food Guide', href: '/food' }
             ]} />
             <div className="text-center">
               <h1 className="text-4xl lg:text-5xl font-bold font-heading text-gray-900 mb-4">
-                Thai Food Guide: Must-Try Dishes, Street Food &amp; Regional Cuisine
+                {isNl ? 'Thaise Keuken Gids: Must-Try Gerechten, Straatvoedsel & Regionale Keuken' : 'Thai Food Guide: Must-Try Dishes, Street Food & Regional Cuisine'}
               </h1>
               <p className="text-xl text-gray-600 max-w-3xl mx-auto">
-                Thai cuisine is one of the most celebrated in the world — a masterful balance of sweet, sour, salty, bitter, and spicy that transforms simple ingredients into unforgettable meals. This guide covers the essential dishes, regional styles, street food culture, and practical tips you need to eat well across Thailand.
+                {isNl
+                  ? 'De Thaise keuken is een van de meest gevierde ter wereld — een meesterlijke balans van zoet, zuur, zout, bitter en pikant die eenvoudige ingrediënten transformeert in onvergetelijke maaltijden. Deze gids behandelt de essentiële gerechten, regionale stijlen, straatvoedselcultuur en praktische tips om goed te eten in heel Thailand.'
+                  : 'Thai cuisine is one of the most celebrated in the world — a masterful balance of sweet, sour, salty, bitter, and spicy that transforms simple ingredients into unforgettable meals. This guide covers the essential dishes, regional styles, street food culture, and practical tips you need to eat well across Thailand.'}
               </p>
             </div>
           </div>
@@ -186,14 +197,14 @@ export default function FoodIndexPage({ dishes, categories }: FoodIndexPageProps
           <div className="container-custom max-w-4xl">
             {/* Table of Contents */}
             <nav className="bg-white rounded-2xl shadow-md p-6 mb-10">
-              <h2 className="text-lg font-bold font-heading text-gray-900 mb-4">In this guide</h2>
+              <h2 className="text-lg font-bold font-heading text-gray-900 mb-4">{isNl ? 'In deze gids' : 'In this guide'}</h2>
               <ul className="grid grid-cols-2 gap-2 text-sm">
-                <li><a href="#essential-dishes" className="text-thailand-blue hover:underline">Essential Thai Dishes</a></li>
-                <li><a href="#street-food" className="text-thailand-blue hover:underline">Thai Street Food Guide</a></li>
-                <li><a href="#regional-cuisines" className="text-thailand-blue hover:underline">Regional Thai Cuisines</a></li>
-                <li><a href="#cultural-guide" className="text-thailand-blue hover:underline">Cultural Guide</a></li>
-                <li><a href="#all-dishes" className="text-thailand-blue hover:underline">Browse All {dishes.length} Dishes</a></li>
-                <li><a href="#food-faqs" className="text-thailand-blue hover:underline">Food FAQs</a></li>
+                <li><a href="#essential-dishes" className="text-thailand-blue hover:underline">{isNl ? 'Essentiële Thaise Gerechten' : 'Essential Thai Dishes'}</a></li>
+                <li><a href="#street-food" className="text-thailand-blue hover:underline">{isNl ? 'Thais Straatvoedsel Gids' : 'Thai Street Food Guide'}</a></li>
+                <li><a href="#regional-cuisines" className="text-thailand-blue hover:underline">{isNl ? 'Regionale Thaise Keukens' : 'Regional Thai Cuisines'}</a></li>
+                <li><a href="#cultural-guide" className="text-thailand-blue hover:underline">{isNl ? 'Culturele Gids' : 'Cultural Guide'}</a></li>
+                <li><a href="#all-dishes" className="text-thailand-blue hover:underline">{isNl ? `Bekijk Alle ${dishes.length} Gerechten` : `Browse All ${dishes.length} Dishes`}</a></li>
+                <li><a href="#food-faqs" className="text-thailand-blue hover:underline">{isNl ? 'Veelgestelde Vragen' : 'Food FAQs'}</a></li>
               </ul>
             </nav>
 
@@ -563,42 +574,42 @@ export default function FoodIndexPage({ dishes, categories }: FoodIndexPageProps
         {/* Category Navigation */}
         <section className="bg-white py-8">
           <div className="container-custom">
-            <p className="section-label font-script text-thailand-gold text-center">Categories</p>
-            <h2 className="text-2xl font-heading font-bold text-center mb-6">Browse by Category</h2>
+            <p className="section-label font-script text-thailand-gold text-center">{isNl ? 'Categorieën' : 'Categories'}</p>
+            <h2 className="text-2xl font-heading font-bold text-center mb-6">{isNl ? 'Bekijk per Categorie' : 'Browse by Category'}</h2>
             <div className="grid grid-cols-2 md:grid-cols-5 gap-4">
               <Link href="/food/category/main-dish/" className="group">
                 <div className="bg-surface-cream p-6 rounded-2xl shadow-md hover:shadow-xl hover:-translate-y-1 transition-all text-center">
                   <div className="text-4xl mb-2"></div>
-                  <h3 className="font-heading font-semibold text-gray-900 group-hover:text-thailand-red">Main Dishes</h3>
-                  <p className="text-sm text-gray-600">{dishes.filter(d => d.category === 'main-dish').length} recipes</p>
+                  <h3 className="font-heading font-semibold text-gray-900 group-hover:text-thailand-red">{isNl ? 'Hoofdgerechten' : 'Main Dishes'}</h3>
+                  <p className="text-sm text-gray-600">{dishes.filter(d => d.category === 'main-dish').length} {isNl ? 'recepten' : 'recipes'}</p>
                 </div>
               </Link>
               <Link href="/food/category/soup/" className="group">
                 <div className="bg-surface-cream p-6 rounded-2xl shadow-md hover:shadow-xl hover:-translate-y-1 transition-all text-center">
                   <div className="text-4xl mb-2"></div>
-                  <h3 className="font-heading font-semibold text-gray-900 group-hover:text-thailand-blue">Soups</h3>
-                  <p className="text-sm text-gray-600">{dishes.filter(d => d.category === 'soup').length} recipes</p>
+                  <h3 className="font-heading font-semibold text-gray-900 group-hover:text-thailand-blue">{isNl ? 'Soepen' : 'Soups'}</h3>
+                  <p className="text-sm text-gray-600">{dishes.filter(d => d.category === 'soup').length} {isNl ? 'recepten' : 'recipes'}</p>
                 </div>
               </Link>
               <Link href="/food/category/curry/" className="group">
                 <div className="bg-surface-cream p-6 rounded-2xl shadow-md hover:shadow-xl hover:-translate-y-1 transition-all text-center">
                   <div className="text-4xl mb-2"></div>
-                  <h3 className="font-heading font-semibold text-gray-900 group-hover:text-thailand-red">Curries</h3>
-                  <p className="text-sm text-gray-600">{dishes.filter(d => d.category === 'curry').length} recipes</p>
+                  <h3 className="font-heading font-semibold text-gray-900 group-hover:text-thailand-red">{isNl ? "Curry's" : 'Curries'}</h3>
+                  <p className="text-sm text-gray-600">{dishes.filter(d => d.category === 'curry').length} {isNl ? 'recepten' : 'recipes'}</p>
                 </div>
               </Link>
               <Link href="/food/category/salad/" className="group">
                 <div className="bg-surface-cream p-6 rounded-2xl shadow-md hover:shadow-xl hover:-translate-y-1 transition-all text-center">
                   <div className="text-4xl mb-2"></div>
-                  <h3 className="font-heading font-semibold text-gray-900 group-hover:text-thailand-blue">Salads</h3>
-                  <p className="text-sm text-gray-600">{dishes.filter(d => d.category === 'salad').length} recipes</p>
+                  <h3 className="font-heading font-semibold text-gray-900 group-hover:text-thailand-blue">{isNl ? 'Salades' : 'Salads'}</h3>
+                  <p className="text-sm text-gray-600">{dishes.filter(d => d.category === 'salad').length} {isNl ? 'recepten' : 'recipes'}</p>
                 </div>
               </Link>
               <Link href="/food/category/dessert/" className="group">
                 <div className="bg-surface-cream p-6 rounded-2xl shadow-md hover:shadow-xl hover:-translate-y-1 transition-all text-center">
                   <div className="text-4xl mb-2"></div>
-                  <h3 className="font-heading font-semibold text-gray-900 group-hover:text-thailand-red">Desserts</h3>
-                  <p className="text-sm text-gray-600">{dishes.filter(d => d.category === 'dessert').length} recipes</p>
+                  <h3 className="font-heading font-semibold text-gray-900 group-hover:text-thailand-red">{isNl ? 'Desserts' : 'Desserts'}</h3>
+                  <p className="text-sm text-gray-600">{dishes.filter(d => d.category === 'dessert').length} {isNl ? 'recepten' : 'recipes'}</p>
                 </div>
               </Link>
             </div>
@@ -608,8 +619,8 @@ export default function FoodIndexPage({ dishes, categories }: FoodIndexPageProps
         {/* Dishes Grid */}
         <section id="all-dishes" className="section-padding">
           <div className="container-custom">
-            <p className="section-label font-script text-thailand-gold text-center">Discover</p>
-            <h2 className="text-3xl font-heading font-bold text-center mb-8">All {dishes.length} Thai Dishes</h2>
+            <p className="section-label font-script text-thailand-gold text-center">{isNl ? 'Ontdek' : 'Discover'}</p>
+            <h2 className="text-3xl font-heading font-bold text-center mb-8">{isNl ? `Alle ${dishes.length} Thaise Gerechten` : `All ${dishes.length} Thai Dishes`}</h2>
 
             <div className="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-3 gap-8">
               {dishes.slice(0, visibleDishes).map((dish) => (
@@ -618,14 +629,14 @@ export default function FoodIndexPage({ dishes, categories }: FoodIndexPageProps
                     <div className="relative w-full h-48 overflow-hidden">
                       <Image
                         src={dish.image}
-                        alt={dish.name.en}
+                        alt={dish.name[lang] || dish.name.en}
                         fill
                         className="object-cover group-hover:scale-105 transition-transform duration-300"
                       />
                       <div className="absolute inset-0 bg-black bg-opacity-20 group-hover:bg-opacity-10 transition-opacity duration-300"></div>
                       <div className="absolute top-3 left-3">
                         <span className={`px-2 py-1 rounded-full text-xs font-medium ${getSpiceLevelColor(dish.spice_level)}`}>
-                          {dish.spice_level === 'none' ? 'Not Spicy' : dish.spice_level}
+                          {dish.spice_level === 'none' ? (isNl ? 'Niet Pittig' : 'Not Spicy') : dish.spice_level}
                         </span>
                       </div>
                       <div className="absolute top-3 right-3">
@@ -645,7 +656,7 @@ export default function FoodIndexPage({ dishes, categories }: FoodIndexPageProps
                       </div>
 
                       <h3 className="text-xl font-heading font-bold text-gray-900 mb-2 group-hover:text-thailand-blue transition-colors">
-                        {dish.name.en}
+                        {dish.name[lang] || dish.name.en}
                       </h3>
                       <p className="text-gray-600 text-sm mb-3">
                         {dish.name.thai}
@@ -693,7 +704,7 @@ export default function FoodIndexPage({ dishes, categories }: FoodIndexPageProps
                       Loading...
                     </span>
                   ) : (
-                    `Show More Dishes (${remainingDishes} remaining)`
+                    isNl ? `Meer Gerechten Tonen (${remainingDishes} resterend)` : `Show More Dishes (${remainingDishes} remaining)`
                   )}
                 </button>
               </div>
@@ -703,13 +714,15 @@ export default function FoodIndexPage({ dishes, categories }: FoodIndexPageProps
             {visibleDishes >= dishes.length && (
               <div className="text-center mt-12 p-6 bg-white rounded-2xl">
                 <p className="text-gray-600 mb-4">
-                  You&apos;ve reached the end! That&apos;s all {dishes.length} Thai dishes we have.
+                  {isNl
+                    ? `Je hebt het einde bereikt! Dat zijn alle ${dishes.length} Thaise gerechten die we hebben.`
+                    : `You've reached the end! That's all ${dishes.length} Thai dishes we have.`}
                 </p>
                 <Link
                   href="/food/category/"
                   className="text-thailand-blue hover:text-thailand-red font-semibold underline"
                 >
-                  Browse by Category →
+                  {isNl ? 'Bekijk per Categorie →' : 'Browse by Category →'}
                 </Link>
               </div>
             )}
@@ -720,8 +733,8 @@ export default function FoodIndexPage({ dishes, categories }: FoodIndexPageProps
         <section className="bg-white section-padding">
           <div className="container-custom">
             <div className="text-center mb-8">
-              <p className="section-label font-script text-thailand-gold">By Region</p>
-              <h2 className="text-3xl font-heading font-bold text-gray-900">Explore Thai Food by Region</h2>
+              <p className="section-label font-script text-thailand-gold">{isNl ? 'Per Regio' : 'By Region'}</p>
+              <h2 className="text-3xl font-heading font-bold text-gray-900">{isNl ? 'Ontdek Thais Eten per Regio' : 'Explore Thai Food by Region'}</h2>
             </div>
             <div className="grid grid-cols-1 sm:grid-cols-2 lg:grid-cols-4 gap-4">
               {[
@@ -782,10 +795,10 @@ export default function FoodIndexPage({ dishes, categories }: FoodIndexPageProps
         {/* Drinks Cross-Link */}
         <section className="section-padding">
           <div className="container-custom text-center">
-            <h2 className="text-2xl font-heading font-bold text-gray-900 mb-3">Complete Your Thai Meal</h2>
-            <p className="text-gray-600 mb-6">Discover traditional Thai drinks and beverages to pair with your favorite dishes.</p>
+            <h2 className="text-2xl font-heading font-bold text-gray-900 mb-3">{isNl ? 'Maak Je Thaise Maaltijd Compleet' : 'Complete Your Thai Meal'}</h2>
+            <p className="text-gray-600 mb-6">{isNl ? 'Ontdek traditionele Thaise dranken om te combineren met je favoriete gerechten.' : 'Discover traditional Thai drinks and beverages to pair with your favorite dishes.'}</p>
             <Link href="/drinks/" className="inline-flex items-center gap-2 bg-thailand-blue text-white px-6 py-3 rounded-xl font-semibold hover:bg-thailand-blue/90 transition-colors">
-              Explore Thai Drinks
+              {isNl ? 'Ontdek Thaise Dranken' : 'Explore Thai Drinks'}
             </Link>
           </div>
         </section>
@@ -793,8 +806,8 @@ export default function FoodIndexPage({ dishes, categories }: FoodIndexPageProps
         {/* Cooking Classes Cross-Link */}
         <section className="bg-white section-padding">
           <div className="container-custom text-center">
-            <h2 className="text-2xl font-heading font-bold text-gray-900 mb-3">Learn to Cook Thai Food</h2>
-            <p className="text-gray-600 mb-6">Take a hands-on cooking class and learn to recreate these dishes at home. Bangkok and Chiang Mai have the best options.</p>
+            <h2 className="text-2xl font-heading font-bold text-gray-900 mb-3">{isNl ? 'Leer Thais Koken' : 'Learn to Cook Thai Food'}</h2>
+            <p className="text-gray-600 mb-6">{isNl ? 'Volg een hands-on kookles en leer deze gerechten thuis na te maken. Bangkok en Chiang Mai hebben de beste opties.' : 'Take a hands-on cooking class and learn to recreate these dishes at home. Bangkok and Chiang Mai have the best options.'}</p>
             <div className="flex flex-col sm:flex-row gap-4 justify-center">
               <Link href="/best-cooking-classes-in-thailand/" className="inline-flex items-center gap-2 bg-thailand-red text-white px-6 py-3 rounded-xl font-semibold hover:bg-thailand-red-600 transition-colors">
                 Compare Cooking Classes Across Thailand
@@ -816,7 +829,7 @@ export default function FoodIndexPage({ dishes, categories }: FoodIndexPageProps
         {/* Cross-links to other pillar pages */}
         <section className="section-padding bg-white">
           <div className="container-custom max-w-4xl">
-            <h2 className="text-xl font-bold font-heading text-gray-900 mb-4">Explore More Thailand Guides</h2>
+            <h2 className="text-xl font-bold font-heading text-gray-900 mb-4">{isNl ? 'Ontdek Meer Thailand Gidsen' : 'Explore More Thailand Guides'}</h2>
             <div className="grid grid-cols-2 md:grid-cols-4 gap-3">
               <Link href="/thailand-travel-guide/" className="p-4 bg-surface-cream rounded-xl hover:shadow-md transition-all text-center">
                 <div className="font-semibold text-gray-900 text-sm">Travel Guide</div>
@@ -857,15 +870,15 @@ export default function FoodIndexPage({ dishes, categories }: FoodIndexPageProps
         {/* CTA Section */}
         <section className="bg-surface-dark text-white section-padding">
           <div className="container-custom text-center">
-            <p className="font-script text-thailand-gold mb-2">Explore More</p>
+            <p className="font-script text-thailand-gold mb-2">{isNl ? 'Ontdek Meer' : 'Explore More'}</p>
             <h2 className="text-3xl lg:text-4xl font-heading font-bold mb-6">
-              Ready to Explore Thailand?
+              {isNl ? 'Klaar om Thailand te Ontdekken?' : 'Ready to Explore Thailand?'}
             </h2>
             <p className="text-xl mb-8 max-w-2xl mx-auto opacity-90">
-              Discover the cities where these amazing dishes come from
+              {isNl ? 'Ontdek de steden waar deze geweldige gerechten vandaan komen' : 'Discover the cities where these amazing dishes come from'}
             </p>
             <Link href="/city/" className="bg-white text-thailand-blue px-8 py-3 rounded-xl font-semibold hover:bg-gray-100 transition-colors">
-              Explore Thai Cities
+              {isNl ? 'Ontdek Thaise Steden' : 'Explore Thai Cities'}
             </Link>
           </div>
         </section>

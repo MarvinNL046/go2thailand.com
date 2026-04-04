@@ -34,6 +34,7 @@ interface Dish {
     en: string;
     nl: string;
     thai: string;
+    [key: string]: string;
   };
   category: string;
   region: string;
@@ -61,7 +62,8 @@ interface HomeProps {
 }
 
 export default function Home({ cities, featuredCities, popularDishes, latestPosts }: HomeProps) {
-  const { t } = useTranslation('common');
+  const { t, locale } = useTranslation('common');
+  const lang = locale === 'nl' ? 'nl' : 'en';
 
   const heroImages = [
     '/images/homepageHero/business-district-bangkok.webp',
@@ -138,7 +140,7 @@ export default function Home({ cities, featuredCities, popularDishes, latestPost
           <div className="grid lg:grid-cols-2 gap-8 lg:gap-12 items-center min-h-[85vh] sm:min-h-[70vh] lg:min-h-[600px] py-12 lg:py-0">
             {/* Left — Text */}
             <div className="order-2 lg:order-1 text-center lg:text-left overflow-hidden">
-              <span className="section-label">{t('hero.landOfSmiles') || 'Land of Smiles'}</span>
+              <span className="section-label">{t('hero.landOfSmiles')}</span>
               <h1 className="font-heading text-4xl sm:text-5xl lg:text-6xl xl:text-7xl font-bold text-gray-900 mb-6 leading-tight">
                 {t('hero.title')}
               </h1>
@@ -174,7 +176,7 @@ export default function Home({ cities, featuredCities, popularDishes, latestPost
                   >
                     <Image
                       src={image}
-                      alt={`Beautiful Thailand scenery ${index + 1}`}
+                      alt={`${t('alt.beautifulThailandScenery')} ${index + 1}`}
                       fill
                       className="object-cover"
                       priority={index === 0}
@@ -198,7 +200,7 @@ export default function Home({ cities, featuredCities, popularDishes, latestPost
                         ? 'bg-thailand-red w-6'
                         : 'bg-gray-300 hover:bg-gray-400'
                     }`}
-                    aria-label={`Show image ${index + 1}`}
+                    aria-label={`${t('alt.showImage')} ${index + 1}`}
                   />
                 ))}
               </div>
@@ -268,7 +270,7 @@ export default function Home({ cities, featuredCities, popularDishes, latestPost
       <section id="featured" className="section-padding bg-surface-cream" ref={featuredAnim.ref}>
         <div className="container-custom">
           <div className={`text-center mb-14 scroll-fade-up ${featuredAnim.isVisible ? 'is-visible' : ''}`}>
-            <span className="section-label">{t('hero.featuredDestinations') || 'Featured Destinations'}</span>
+            <span className="section-label">{t('hero.featuredDestinations')}</span>
             <h2 className="section-title mb-4">
               {t('sections.featuredDestinations')}
             </h2>
@@ -476,7 +478,7 @@ export default function Home({ cities, featuredCities, popularDishes, latestPost
                   <div className="relative h-52 overflow-hidden">
                     <Image
                       src={dish.image}
-                      alt={dish.name.en}
+                      alt={dish.name[lang] || dish.name.en}
                       fill
                       className="object-cover transition-transform duration-500 group-hover:scale-105"
                     />
@@ -486,7 +488,7 @@ export default function Home({ cities, featuredCities, popularDishes, latestPost
                         dish.spice_level === 'medium' ? 'bg-orange-500' :
                         dish.spice_level === 'mild' ? 'bg-yellow-500' : 'bg-green-500'
                       }`}>
-                        {dish.spice_level}
+                        {t(`labels.${dish.spice_level}`) || dish.spice_level}
                       </span>
                     </div>
                     <div className="absolute top-4 right-4">
@@ -497,7 +499,7 @@ export default function Home({ cities, featuredCities, popularDishes, latestPost
                   </div>
                   <div className="p-5">
                     <h3 className="font-heading text-lg font-bold text-gray-900 mb-0.5 group-hover:text-thailand-red transition-colors">
-                      {dish.name.en}
+                      {dish.name[lang] || dish.name.en}
                     </h3>
                     <p className="text-sm text-gray-400 mb-3">{dish.name.thai}</p>
                     <div className="flex items-center justify-between mb-3">
@@ -523,7 +525,7 @@ export default function Home({ cities, featuredCities, popularDishes, latestPost
                         dish.difficulty === 'easy' ? 'text-green-600' :
                         dish.difficulty === 'medium' ? 'text-orange-600' : 'text-red-600'
                       }`}>
-                        {dish.difficulty}
+                        {t(`labels.${dish.difficulty}`) || dish.difficulty}
                       </span>
                       <span className="text-thailand-red font-medium text-sm group-hover:text-thailand-red-600 transition-colors inline-flex items-center gap-1">
                         {t('labels.learnRecipe')}
@@ -605,10 +607,10 @@ export default function Home({ cities, featuredCities, popularDishes, latestPost
       <section className="section-padding bg-surface-cream">
         <div className="container-custom">
           <div className="text-center mb-14">
-            <span className="section-label">Travel Blog</span>
-            <h2 className="section-title mb-4">Latest from the Blog</h2>
+            <span className="section-label">{t('blog.travelBlog')}</span>
+            <h2 className="section-title mb-4">{t('blog.latestFromBlog')}</h2>
             <p className="text-lg text-gray-600 max-w-2xl mx-auto">
-              Tips, guides, and stories from Thailand — updated weekly.
+              {t('blog.blogDescription')}
             </p>
           </div>
 
@@ -635,7 +637,7 @@ export default function Home({ cities, featuredCities, popularDishes, latestPost
                     <p className="text-sm text-gray-600 line-clamp-2 mb-3">{post.description}</p>
                     <div className="flex items-center justify-between text-xs text-gray-500 pt-3 border-t border-gray-100">
                       <time dateTime={post.date}>{post.date}</time>
-                      <span>{post.readingTime} min read</span>
+                      <span>{post.readingTime} {t('blog.minRead')}</span>
                     </div>
                   </div>
                 </div>
@@ -645,7 +647,7 @@ export default function Home({ cities, featuredCities, popularDishes, latestPost
 
           <div className="text-center">
             <Link href="/blog/" className="btn-primary">
-              View All Posts
+              {t('blog.viewAllPosts')}
               <svg className="w-4 h-4" fill="none" stroke="currentColor" viewBox="0 0 24 24">
                 <path strokeLinecap="round" strokeLinejoin="round" strokeWidth="2" d="M14 5l7 7m0 0l-7 7m7-7H3" />
               </svg>
@@ -660,18 +662,18 @@ export default function Home({ cities, featuredCities, popularDishes, latestPost
       {/* Travel Guides */}
       <section className="section-padding bg-white">
         <div className="container-custom">
-          <h2 className="text-3xl font-bold font-heading text-gray-900 mb-8 text-center">Thailand Travel Guides</h2>
+          <h2 className="text-3xl font-bold font-heading text-gray-900 mb-8 text-center">{t('guides.thailandTravelGuides')}</h2>
           <div className="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-3 gap-4">
             {([
-              { href: '/thailand-travel-guide/', label: 'Thailand Travel Guide 2026' },
-              { href: '/best-places-to-visit-thailand/', label: 'Best Places to Visit' },
-              { href: '/thailand-itinerary/', label: 'Thailand Itineraries' },
-              { href: '/is-thailand-safe/', label: 'Is Thailand Safe?' },
-              { href: '/thailand-for-first-timers/', label: 'First Timer Guide' },
-              { href: '/thailand-index/', label: 'Thailand Index 2026' },
-            ] as const).map(({ href, label }) => (
+              { href: '/thailand-travel-guide/', labelKey: 'guides.thailandTravelGuide2026' },
+              { href: '/best-places-to-visit-thailand/', labelKey: 'guides.bestPlacesToVisit' },
+              { href: '/thailand-itinerary/', labelKey: 'guides.thailandItineraries' },
+              { href: '/is-thailand-safe/', labelKey: 'guides.isThailandSafe' },
+              { href: '/thailand-for-first-timers/', labelKey: 'guides.firstTimerGuide' },
+              { href: '/thailand-index/', labelKey: 'guides.thailandIndex2026' },
+            ] as Array<{ href: string; labelKey: string }>).map(({ href, labelKey }) => (
               <Link key={href} href={href} className="bg-surface-cream rounded-xl p-5 font-semibold text-thailand-blue hover:shadow-md transition-shadow block">
-                {label} →
+                {t(labelKey)} →
               </Link>
             ))}
           </div>
@@ -684,12 +686,12 @@ export default function Home({ cities, featuredCities, popularDishes, latestPost
       <section className="section-padding bg-surface-cream" ref={planAnim.ref}>
         <div className="container-custom">
           <div className={`text-center mb-14 scroll-fade-up ${planAnim.isVisible ? 'is-visible' : ''}`}>
-            <span className="section-label">Plan Your Trip</span>
+            <span className="section-label">{t('plan.planYourTrip')}</span>
             <h2 className="section-title mb-4">
-              {t('sections.planPerfectTrip') || 'Plan Your Complete Thailand Trip'}
+              {t('sections.planPerfectTrip')}
             </h2>
             <p className="text-lg text-gray-600 max-w-2xl mx-auto">
-              {t('sections.planTripDescription') || 'Everything you need to book, from hotels and tours to transport and connectivity.'}
+              {t('sections.planTripDescription')}
             </p>
           </div>
 
@@ -699,9 +701,9 @@ export default function Home({ cities, featuredCities, popularDishes, latestPost
               <div className="w-12 h-12 bg-thailand-blue/10 rounded-xl flex items-center justify-center mb-4">
                 <span className="text-2xl">🏨</span>
               </div>
-              <h3 className="font-heading text-lg font-bold text-gray-900 mb-2">Hotels &amp; Accommodation</h3>
+              <h3 className="font-heading text-lg font-bold text-gray-900 mb-2">{t('plan.hotelsAccommodation')}</h3>
               <p className="text-gray-600 text-sm mb-5">
-                Compare prices on thousands of hotels, hostels, and resorts across Thailand.
+                {t('plan.hotelsDescription')}
               </p>
               <div className="flex flex-col gap-2.5">
                 <a
@@ -710,7 +712,7 @@ export default function Home({ cities, featuredCities, popularDishes, latestPost
                   rel="noopener noreferrer"
                   className="block text-center bg-thailand-blue text-white px-4 py-2.5 rounded-xl font-medium hover:bg-thailand-blue-600 transition-colors text-sm"
                 >
-                  Search on Trip.com
+                  {t('plan.searchOnTripcom')}
                 </a>
                 <a
                   href="https://booking.tpo.lv/2PT1kR82?subid=home"
@@ -718,7 +720,7 @@ export default function Home({ cities, featuredCities, popularDishes, latestPost
                   rel="noopener noreferrer"
                   className="block text-center bg-blue-700 text-white px-4 py-2.5 rounded-xl font-medium hover:bg-blue-800 transition-colors text-sm"
                 >
-                  Search on Booking.com
+                  {t('plan.searchOnBooking')}
                 </a>
               </div>
             </div>
@@ -728,9 +730,9 @@ export default function Home({ cities, featuredCities, popularDishes, latestPost
               <div className="w-12 h-12 bg-green-500/10 rounded-xl flex items-center justify-center mb-4">
                 <span className="text-2xl">🎯</span>
               </div>
-              <h3 className="font-heading text-lg font-bold text-gray-900 mb-2">Activities &amp; Tours</h3>
+              <h3 className="font-heading text-lg font-bold text-gray-900 mb-2">{t('plan.activitiesTours')}</h3>
               <p className="text-gray-600 text-sm mb-5">
-                Book island hopping, temple tours, cooking classes, and unforgettable experiences.
+                {t('plan.activitiesDescription')}
               </p>
               <div className="flex flex-col gap-2.5">
                 <a
@@ -739,7 +741,7 @@ export default function Home({ cities, featuredCities, popularDishes, latestPost
                   rel="noopener noreferrer"
                   className="block text-center bg-orange-500 text-white px-4 py-2.5 rounded-xl font-medium hover:bg-orange-600 transition-colors text-sm"
                 >
-                  Browse on Klook
+                  {t('plan.browseOnKlook')}
                 </a>
                 <a
                   href="https://getyourguide.tpo.lv/GuAFfGGK?subid=home"
@@ -747,7 +749,7 @@ export default function Home({ cities, featuredCities, popularDishes, latestPost
                   rel="noopener noreferrer"
                   className="block text-center bg-blue-600 text-white px-4 py-2.5 rounded-xl font-medium hover:bg-blue-700 transition-colors text-sm"
                 >
-                  Browse on GetYourGuide
+                  {t('plan.browseOnGetYourGuide')}
                 </a>
               </div>
             </div>
@@ -757,9 +759,9 @@ export default function Home({ cities, featuredCities, popularDishes, latestPost
               <div className="w-12 h-12 bg-purple-500/10 rounded-xl flex items-center justify-center mb-4">
                 <span className="text-2xl">🚂</span>
               </div>
-              <h3 className="font-heading text-lg font-bold text-gray-900 mb-2">Transport</h3>
+              <h3 className="font-heading text-lg font-bold text-gray-900 mb-2">{t('plan.transport')}</h3>
               <p className="text-gray-600 text-sm mb-5">
-                Buses, trains, ferries, and flights between cities — book your routes in advance.
+                {t('plan.transportDescription')}
               </p>
               <div className="flex flex-col gap-2.5">
                 <a
@@ -768,7 +770,7 @@ export default function Home({ cities, featuredCities, popularDishes, latestPost
                   rel="noopener noreferrer"
                   className="block text-center bg-purple-600 text-white px-4 py-2.5 rounded-xl font-medium hover:bg-purple-700 transition-colors text-sm"
                 >
-                  Book on 12Go Asia
+                  {t('plan.bookOn12Go')}
                 </a>
               </div>
             </div>
@@ -778,16 +780,16 @@ export default function Home({ cities, featuredCities, popularDishes, latestPost
               <div className="w-12 h-12 bg-cyan-500/10 rounded-xl flex items-center justify-center mb-4">
                 <span className="text-2xl">📱</span>
               </div>
-              <h3 className="font-heading text-lg font-bold text-gray-900 mb-2">eSIM &amp; Data</h3>
+              <h3 className="font-heading text-lg font-bold text-gray-900 mb-2">{t('plan.esimData')}</h3>
               <p className="text-gray-600 text-sm mb-5">
-                Stay connected with affordable eSIM plans — no physical SIM swap needed.
+                {t('plan.esimDescription')}
               </p>
               <div className="flex flex-col gap-2.5">
                 <Link
                   href="/esim/"
                   className="block text-center bg-cyan-600 text-white px-4 py-2.5 rounded-xl font-medium hover:bg-cyan-700 transition-colors text-sm"
                 >
-                  Compare eSIM Plans
+                  {t('plan.compareEsimPlans')}
                 </Link>
               </div>
             </div>
@@ -797,23 +799,23 @@ export default function Home({ cities, featuredCities, popularDishes, latestPost
               <div className="w-12 h-12 bg-thailand-red/10 rounded-xl flex items-center justify-center mb-4">
                 <span className="text-2xl">🔒</span>
               </div>
-              <h3 className="font-heading text-lg font-bold text-gray-900 mb-2">VPN &amp; Security</h3>
+              <h3 className="font-heading text-lg font-bold text-gray-900 mb-2">{t('plan.vpnSecurity')}</h3>
               <p className="text-gray-600 text-sm mb-5">
-                Protect your data on public Wi-Fi and access your favorite services abroad.
+                {t('plan.vpnDescription')}
               </p>
               <div className="flex flex-col gap-2.5">
                 <Link
                   href="/travel-security/"
                   className="block text-center bg-thailand-red text-white px-4 py-2.5 rounded-xl font-medium hover:bg-thailand-red-600 transition-colors text-sm"
                 >
-                  Travel Security Guide
+                  {t('plan.travelSecurityGuide')}
                 </Link>
               </div>
             </div>
           </div>
 
           <p className="text-xs text-gray-400 text-center max-w-2xl mx-auto">
-            Some of the links above are affiliate links. If you make a booking through these links, we may earn a small commission at no extra cost to you. This helps us keep Go2Thailand free and up-to-date.
+            {t('plan.affiliateDisclaimer')}
           </p>
         </div>
       </section>
@@ -823,12 +825,12 @@ export default function Home({ cities, featuredCities, popularDishes, latestPost
           ============================================ */}
       <section className="bg-surface-dark py-16 lg:py-20">
         <div className="container-custom text-center">
-          <span className="font-script text-thailand-gold text-lg mb-3 block">Start Your Adventure</span>
+          <span className="font-script text-thailand-gold text-lg mb-3 block">{t('cta.startYourAdventure')}</span>
           <h2 className="font-heading text-3xl lg:text-5xl font-bold text-white mb-4">
-            {t('sections.planPerfectTrip') || 'Plan Your Perfect Trip'}
+            {t('sections.planPerfectTrip')}
           </h2>
           <p className="text-gray-400 text-lg max-w-xl mx-auto mb-8">
-            {t('sections.planTripDescription') || 'Discover the best of Thailand with our comprehensive travel guides.'}
+            {t('sections.planTripDescription')}
           </p>
           <Link href="/city/" className="btn-primary text-lg px-8 py-4">
             {t('buttons.startExploringThailand')}

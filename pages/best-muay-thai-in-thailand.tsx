@@ -69,13 +69,19 @@ function TypeBadge({ type }: { type: string }) {
 export default function BestMuayThaiPage({ cities, topActivities }: Props) {
   const { locale } = useRouter();
   const loc = locale || 'en';
+  const isNl = locale === 'nl';
+  const lang = isNl ? 'nl' : 'en';
   const breadcrumbs = [
     { name: 'Home', href: '/' },
-    { name: 'Best Muay Thai in Thailand', href: '/best-muay-thai-in-thailand/' }
+    { name: isNl ? 'Beste Muay Thai in Thailand' : 'Best Muay Thai in Thailand', href: '/best-muay-thai-in-thailand/' }
   ];
 
-  const title = 'Best Muay Thai in Thailand 2026 — Stadiums, Training Camps & Gyms';
-  const description = 'The complete guide to Muay Thai in Thailand: Rajadamnern and Lumpinee stadiums in Bangkok, Tiger Muay Thai in Phuket, Lanna Muay Thai in Chiang Mai. History, training tips, and fight tickets.';
+  const title = isNl
+    ? 'Beste Muay Thai in Thailand 2026 — Stadions, Trainingscentra & Sportscholen'
+    : 'Best Muay Thai in Thailand 2026 — Stadiums, Training Camps & Gyms';
+  const description = isNl
+    ? 'De complete gids voor Muay Thai in Thailand: Rajadamnern en Lumpinee stadions in Bangkok, Tiger Muay Thai in Phuket, Lanna Muay Thai in Chiang Mai. Geschiedenis, trainingstips en kaartjes.'
+    : 'The complete guide to Muay Thai in Thailand: Rajadamnern and Lumpinee stadiums in Bangkok, Tiger Muay Thai in Phuket, Lanna Muay Thai in Chiang Mai. History, training tips, and fight tickets.';
 
   const faqItems = [
     {
@@ -128,12 +134,14 @@ export default function BestMuayThaiPage({ cities, topActivities }: Props) {
           <div className="container-custom py-12">
             <Breadcrumbs items={breadcrumbs} />
             <div className="text-center mt-6">
-              <p className="font-script text-thailand-gold text-lg mb-2">The Art of Eight Limbs</p>
+              <p className="font-script text-thailand-gold text-lg mb-2">{isNl ? 'De Kunst van Acht Ledematen' : 'The Art of Eight Limbs'}</p>
               <h1 className="text-4xl lg:text-5xl font-bold font-heading mb-4">
-                Best Muay Thai in Thailand
+                {isNl ? 'Beste Muay Thai in Thailand' : 'Best Muay Thai in Thailand'}
               </h1>
               <p className="text-xl max-w-3xl mx-auto text-gray-300">
-                From Bangkok&apos;s legendary Rajadamnern Stadium to Phuket&apos;s Tiger Muay Thai — Thailand&apos;s national sport traces its roots to ancient battlefield combat. Here&apos;s everything you need to know about watching and training.
+                {isNl
+                  ? 'Van Bangkok\'s legendarische Rajadamnern Stadium tot Phuket\'s Tiger Muay Thai — Thailand\'s nationale sport vindt zijn oorsprong in oud slagveldgevecht. Hier is alles wat je moet weten over kijken en trainen.'
+                  : 'From Bangkok\'s legendary Rajadamnern Stadium to Phuket\'s Tiger Muay Thai — Thailand\'s national sport traces its roots to ancient battlefield combat. Here\'s everything you need to know about watching and training.'}
               </p>
             </div>
           </div>
@@ -143,18 +151,18 @@ export default function BestMuayThaiPage({ cities, topActivities }: Props) {
           <div className="container-custom">
             {/* Quick Comparison Table */}
             <div className="bg-white rounded-2xl shadow-md overflow-hidden mb-12">
-              <p className="section-label px-6 pt-6">Compare</p>
+              <p className="section-label px-6 pt-6">{isNl ? 'Vergelijk' : 'Compare'}</p>
               <h2 className="text-2xl font-bold font-heading text-gray-900 p-6 pb-0">
-                City Comparison at a Glance
+                {isNl ? 'Steden Vergelijking in een Oogopslag' : 'City Comparison at a Glance'}
               </h2>
               <div className="overflow-x-auto">
                 <table className="w-full text-left">
                   <thead className="bg-surface-cream">
                     <tr>
-                      <th className="px-6 py-4 text-sm font-semibold text-gray-600">City</th>
-                      <th className="px-6 py-4 text-sm font-semibold text-gray-600">Activities</th>
-                      <th className="px-6 py-4 text-sm font-semibold text-gray-600">Price Range</th>
-                      <th className="px-6 py-4 text-sm font-semibold text-gray-600">Best For</th>
+                      <th className="px-6 py-4 text-sm font-semibold text-gray-600">{isNl ? 'Stad' : 'City'}</th>
+                      <th className="px-6 py-4 text-sm font-semibold text-gray-600">{isNl ? 'Activiteiten' : 'Activities'}</th>
+                      <th className="px-6 py-4 text-sm font-semibold text-gray-600">{isNl ? 'Prijsklasse' : 'Price Range'}</th>
+                      <th className="px-6 py-4 text-sm font-semibold text-gray-600">{isNl ? 'Beste Voor' : 'Best For'}</th>
                       <th className="px-6 py-4 text-sm font-semibold text-gray-600"></th>
                     </tr>
                   </thead>
@@ -163,20 +171,20 @@ export default function BestMuayThaiPage({ cities, topActivities }: Props) {
                       <tr key={city.slug} className="hover:bg-gray-50">
                         <td className="px-6 py-4">
                           <Link href={`/city/${city.slug}/muay-thai/`} className="font-semibold text-thailand-red hover:underline">
-                            {city.name.en}
+                            {city.name[lang] || city.name.en}
                           </Link>
                         </td>
                         <td className="px-6 py-4 text-gray-700">{city.classCount}+</td>
                         <td className="px-6 py-4 text-gray-700">
                           {formatPrice(city.priceRange.from, loc)} - {formatPrice(city.priceRange.to, loc)}
                         </td>
-                        <td className="px-6 py-4 text-gray-600 text-sm">{city.highlight.en.split('.')[0]}</td>
+                        <td className="px-6 py-4 text-gray-600 text-sm">{(city.highlight[lang] || city.highlight.en).split('.')[0]}</td>
                         <td className="px-6 py-4">
                           <Link
                             href={`/city/${city.slug}/muay-thai/`}
                             className="text-sm font-semibold text-thailand-red hover:text-red-700"
                           >
-                            View all &rarr;
+                            {isNl ? 'Bekijk alle' : 'View all'} &rarr;
                           </Link>
                         </td>
                       </tr>
@@ -195,25 +203,25 @@ export default function BestMuayThaiPage({ cities, topActivities }: Props) {
                   </span>
                   <h2 className="text-2xl font-bold font-heading text-gray-900">
                     <Link href={`/city/${city.slug}/muay-thai/`} className="hover:text-thailand-red">
-                      Muay Thai in {city.name.en}
+                      Muay Thai in {city.name[lang] || city.name.en}
                     </Link>
                   </h2>
                 </div>
-                <p className="text-gray-700 mb-4">{city.highlight.en}</p>
+                <p className="text-gray-700 mb-4">{city.highlight[lang] || city.highlight.en}</p>
                 <div className="grid grid-cols-3 gap-4 mb-6">
                   <div className="bg-surface-cream rounded-xl p-3 text-center">
                     <div className="text-lg font-bold text-gray-900">{city.classCount}+</div>
-                    <div className="text-xs text-gray-600">Activities</div>
+                    <div className="text-xs text-gray-600">{isNl ? 'Activiteiten' : 'Activities'}</div>
                   </div>
                   <div className="bg-surface-cream rounded-xl p-3 text-center">
                     <div className="text-lg font-bold text-gray-900">
                       {formatPrice(city.priceRange.from, loc)}+
                     </div>
-                    <div className="text-xs text-gray-600">Starting Price</div>
+                    <div className="text-xs text-gray-600">{isNl ? 'Vanafprijs' : 'Starting Price'}</div>
                   </div>
                   <div className="bg-surface-cream rounded-xl p-3 text-center">
                     <div className="text-lg font-bold text-gray-900">{city.topRating}</div>
-                    <div className="text-xs text-gray-600">Top Rating</div>
+                    <div className="text-xs text-gray-600">{isNl ? 'Hoogste Beoordeling' : 'Top Rating'}</div>
                   </div>
                 </div>
 
@@ -253,16 +261,16 @@ export default function BestMuayThaiPage({ cities, topActivities }: Props) {
                   href={`/city/${city.slug}/muay-thai/`}
                   className="inline-flex items-center text-thailand-red font-semibold hover:text-red-700"
                 >
-                  See all {city.classCount} activities in {city.name.en} &rarr;
+                  {isNl ? `Bekijk alle ${city.classCount} activiteiten in ${city.name.nl || city.name.en}` : `See all ${city.classCount} activities in ${city.name.en}`} &rarr;
                 </Link>
               </div>
             ))}
 
             {/* History & Context */}
             <div className="bg-white rounded-2xl shadow-md p-8 mb-8">
-              <p className="section-label">History</p>
+              <p className="section-label">{isNl ? 'Geschiedenis' : 'History'}</p>
               <h2 className="text-2xl font-bold font-heading text-gray-900 mb-4">
-                From Ancient Battlefield to National Sport
+                {isNl ? 'Van Oud Slagveld tot Nationale Sport' : 'From Ancient Battlefield to National Sport'}
               </h2>
               <div className="prose prose-gray max-w-none text-gray-700 space-y-4">
                 <p>
@@ -282,9 +290,9 @@ export default function BestMuayThaiPage({ cities, topActivities }: Props) {
 
             {/* Landmark Stadiums & Gyms */}
             <div className="bg-white rounded-2xl shadow-md p-8 mb-8">
-              <p className="section-label">Must-Know Venues</p>
+              <p className="section-label">{isNl ? 'Belangrijke Locaties' : 'Must-Know Venues'}</p>
               <h2 className="text-2xl font-bold font-heading text-gray-900 mb-6">
-                Legendary Stadiums &amp; Major Training Camps
+                {isNl ? 'Legendarische Stadions & Grote Trainingscentra' : 'Legendary Stadiums & Major Training Camps'}
               </h2>
               <div className="space-y-6">
                 {[
@@ -350,12 +358,14 @@ export default function BestMuayThaiPage({ cities, topActivities }: Props) {
 
             {/* Best Training Gyms */}
             <div className="bg-white rounded-2xl shadow-md p-8 mb-8">
-              <p className="section-label">Training</p>
+              <p className="section-label">{isNl ? 'Training' : 'Training'}</p>
               <h2 className="text-2xl font-bold font-heading text-gray-900 mb-2">
-                Best Muay Thai Training Gyms in Southern Thailand
+                {isNl ? 'Beste Muay Thai Trainingscentra in Zuid-Thailand' : 'Best Muay Thai Training Gyms in Southern Thailand'}
               </h2>
               <p className="text-gray-600 mb-6">
-                Looking to train seriously? These 7 gyms were independently reviewed and scored on facilities, cleanliness, class structure, and coaching quality (max 20 points). Whether you&apos;re a beginner or experienced fighter, these are the best places to train in the south.
+                {isNl
+                  ? 'Serieus willen trainen? Deze 7 sportscholen zijn onafhankelijk beoordeeld op faciliteiten, netheid, lesstructuur en coachingkwaliteit (max 20 punten). Of je nu beginner of ervaren vechter bent, dit zijn de beste plekken om te trainen in het zuiden.'
+                  : 'Looking to train seriously? These 7 gyms were independently reviewed and scored on facilities, cleanliness, class structure, and coaching quality (max 20 points). Whether you\'re a beginner or experienced fighter, these are the best places to train in the south.'}
               </p>
               <div className="space-y-4">
                 {[
@@ -473,21 +483,23 @@ export default function BestMuayThaiPage({ cities, topActivities }: Props) {
 
             {/* Insurance warning */}
             <div className="bg-red-50 rounded-2xl p-6 mb-12 border border-red-200">
-              <h3 className="font-bold text-red-900 mb-2">Insurance Warning for Muay Thai</h3>
+              <h3 className="font-bold text-red-900 mb-2">{isNl ? 'Verzekeringswaarschuwing voor Muay Thai' : 'Insurance Warning for Muay Thai'}</h3>
               <p className="text-sm text-red-800 mb-3">
-                Most travel insurance policies exclude martial arts. SafetyWing&apos;s Description of Coverage lists martial arts among excluded activities. If training or fighting is part of your trip, get written confirmation from the insurer before you buy.
+                {isNl
+                  ? 'De meeste reisverzekeringen sluiten vechtsporten uit. SafetyWing\'s polisvoorwaarden vermelden vechtsporten als uitgesloten activiteiten. Als training of vechten deel uitmaakt van je reis, vraag dan schriftelijke bevestiging van de verzekeraar voordat je koopt.'
+                  : 'Most travel insurance policies exclude martial arts. SafetyWing\'s Description of Coverage lists martial arts among excluded activities. If training or fighting is part of your trip, get written confirmation from the insurer before you buy.'}
               </p>
               <Link href="/travel-insurance-thailand/" className="text-sm font-semibold text-thailand-blue hover:underline">
-                Compare travel insurance for Thailand →
+                {isNl ? 'Vergelijk reisverzekeringen voor Thailand →' : 'Compare travel insurance for Thailand →'}
               </Link>
             </div>
 
             {/* CTA */}
             <div className="bg-surface-dark rounded-2xl p-8 mb-12 text-center text-white">
-              <p className="font-script text-thailand-gold text-lg mb-2">Fight Night</p>
-              <h2 className="text-3xl font-bold font-heading mb-4">Ready to Experience Muay Thai?</h2>
+              <p className="font-script text-thailand-gold text-lg mb-2">{isNl ? 'Gevechtsavond' : 'Fight Night'}</p>
+              <h2 className="text-3xl font-bold font-heading mb-4">{isNl ? 'Klaar om Muay Thai te Ervaren?' : 'Ready to Experience Muay Thai?'}</h2>
               <p className="text-lg mb-6 opacity-90">
-                Browse Muay Thai fights, training sessions, and combo packages across Thailand.
+                {isNl ? 'Bekijk Muay Thai gevechten, trainingen en combopakketten door heel Thailand.' : 'Browse Muay Thai fights, training sessions, and combo packages across Thailand.'}
               </p>
               <div className="flex flex-col sm:flex-row gap-4 justify-center">
                 <a
@@ -508,7 +520,7 @@ export default function BestMuayThaiPage({ cities, topActivities }: Props) {
                 </a>
               </div>
               <p className="text-xs text-white/70 mt-4">
-                We may earn a commission when you book through our links, at no extra cost to you.
+                {isNl ? 'We kunnen een commissie ontvangen wanneer je boekt via onze links, zonder extra kosten voor jou.' : 'We may earn a commission when you book through our links, at no extra cost to you.'}
               </p>
             </div>
 
@@ -516,7 +528,7 @@ export default function BestMuayThaiPage({ cities, topActivities }: Props) {
             <div className="bg-white rounded-2xl shadow-md p-8 mb-12">
               <p className="section-label">FAQ</p>
               <h2 className="text-2xl font-bold font-heading text-gray-900 mb-6">
-                Frequently Asked Questions
+                {isNl ? 'Veelgestelde Vragen' : 'Frequently Asked Questions'}
               </h2>
               <div className="space-y-6">
                 {faqItems.map((item, i) => (
@@ -530,8 +542,8 @@ export default function BestMuayThaiPage({ cities, topActivities }: Props) {
 
             {/* Related Guides */}
             <div className="mb-8">
-              <p className="section-label">Related Guides</p>
-              <h2 className="text-2xl font-bold font-heading text-gray-900 mb-6">Plan Your Trip</h2>
+              <p className="section-label">{isNl ? 'Gerelateerde Gidsen' : 'Related Guides'}</p>
+              <h2 className="text-2xl font-bold font-heading text-gray-900 mb-6">{isNl ? 'Plan je Reis' : 'Plan Your Trip'}</h2>
               <div className="grid gap-4 md:grid-cols-2 lg:grid-cols-3">
                 {[
                   { href: '/food/', title: 'Thai Food Guide', description: 'Explore the flavours of Thailand — street food, regional dishes, and where to eat in every city.' },

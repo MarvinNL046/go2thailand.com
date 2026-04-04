@@ -285,14 +285,20 @@ const seasonTable = [
 export default function BestDivingSnorkelingPage({ cities, topActivities }: Props) {
   const { locale } = useRouter();
   const loc = locale || 'en';
+  const isNl = locale === 'nl';
+  const lang = isNl ? 'nl' : 'en';
 
   const breadcrumbs = [
     { name: 'Home', href: '/' },
-    { name: 'Best Diving & Snorkeling in Thailand', href: '/best-diving-snorkeling-in-thailand/' }
+    { name: isNl ? 'Beste Duiken & Snorkelen in Thailand' : 'Best Diving & Snorkeling in Thailand', href: '/best-diving-snorkeling-in-thailand/' }
   ];
 
-  const title = 'Best Diving & Snorkeling in Thailand 2026 — Complete Guide';
-  const description = 'Comprehensive guide to Thailand\'s top dive sites: Similan Islands, Richelieu Rock, Koh Tao, Sail Rock, Hin Daeng/Hin Muang and more. Seasons, depths, PADI costs, and conservation information.';
+  const title = isNl
+    ? 'Beste Duiken & Snorkelen in Thailand 2026 — Complete Gids'
+    : 'Best Diving & Snorkeling in Thailand 2026 — Complete Guide';
+  const description = isNl
+    ? 'Uitgebreide gids voor Thailand\'s top duiklocaties: Similan eilanden, Richelieu Rock, Koh Tao, Sail Rock, Hin Daeng/Hin Muang en meer. Seizoenen, dieptes, PADI kosten en natuurbehoud informatie.'
+    : 'Comprehensive guide to Thailand\'s top dive sites: Similan Islands, Richelieu Rock, Koh Tao, Sail Rock, Hin Daeng/Hin Muang and more. Seasons, depths, PADI costs, and conservation information.';
 
   const faqItems = [
     {
@@ -353,12 +359,14 @@ export default function BestDivingSnorkelingPage({ cities, topActivities }: Prop
           <div className="container-custom py-12">
             <Breadcrumbs items={breadcrumbs} />
             <div className="text-center mt-6">
-              <p className="font-script text-thailand-gold text-lg mb-2">Diving & Snorkeling</p>
+              <p className="font-script text-thailand-gold text-lg mb-2">{isNl ? 'Duiken & Snorkelen' : 'Diving & Snorkeling'}</p>
               <h1 className="text-4xl lg:text-5xl font-bold font-heading mb-4">
-                Best Diving & Snorkeling in Thailand
+                {isNl ? 'Beste Duiken & Snorkelen in Thailand' : 'Best Diving & Snorkeling in Thailand'}
               </h1>
               <p className="text-xl max-w-3xl mx-auto text-gray-300">
-                From the granite boulders of the Similan Islands to the vertical chimney of Sail Rock — a factual guide to Thailand&apos;s top underwater destinations, with seasons, depths, and certification costs.
+                {isNl
+                  ? 'Van de granieten rotsblokken van de Similan eilanden tot de verticale schoorsteen van Sail Rock — een feitelijke gids voor Thailand\'s top onderwaterbestemmingen, met seizoenen, dieptes en certificeringskosten.'
+                  : 'From the granite boulders of the Similan Islands to the vertical chimney of Sail Rock — a factual guide to Thailand\'s top underwater destinations, with seasons, depths, and certification costs.'}
               </p>
             </div>
           </div>
@@ -369,7 +377,7 @@ export default function BestDivingSnorkelingPage({ cities, topActivities }: Prop
 
             {/* Introduction */}
             <div className="bg-white rounded-2xl shadow-md p-8 mb-10">
-              <h2 className="text-2xl font-bold font-heading text-gray-900 mb-4">Overview</h2>
+              <h2 className="text-2xl font-bold font-heading text-gray-900 mb-4">{isNl ? 'Overzicht' : 'Overview'}</h2>
               <p className="text-gray-700 mb-4">
                 Thailand has two geographically distinct dive regions: the <strong>Andaman Sea</strong> on the west coast and the <strong>Gulf of Thailand</strong> on the east. They run on opposite monsoon cycles, which means the best diving in each region falls in different months — and planning around this is the single most important factor in choosing where and when to go.
               </p>
@@ -384,19 +392,19 @@ export default function BestDivingSnorkelingPage({ cities, topActivities }: Prop
             {/* Seasons Quick Reference */}
             <div className="bg-white rounded-2xl shadow-md overflow-hidden mb-10">
               <div className="px-8 pt-8 pb-4">
-                <p className="section-label">Seasons</p>
-                <h2 className="text-2xl font-bold font-heading text-gray-900 mb-2">Diving Season by Region</h2>
+                <p className="section-label">{isNl ? 'Seizoenen' : 'Seasons'}</p>
+                <h2 className="text-2xl font-bold font-heading text-gray-900 mb-2">{isNl ? 'Duikseizoen per Regio' : 'Diving Season by Region'}</h2>
                 <p className="text-gray-600 text-sm mb-4">Thailand&apos;s two coasts operate on opposite monsoon cycles. Plan your trip around this before booking anything.</p>
               </div>
               <div className="overflow-x-auto">
                 <table className="w-full text-left text-sm">
                   <thead className="bg-surface-cream">
                     <tr>
-                      <th className="px-6 py-4 font-semibold text-gray-700">Region</th>
-                      <th className="px-6 py-4 font-semibold text-gray-700">Key Sites</th>
-                      <th className="px-6 py-4 font-semibold text-gray-700">Dive Season</th>
-                      <th className="px-6 py-4 font-semibold text-gray-700">Peak Conditions</th>
-                      <th className="px-6 py-4 font-semibold text-gray-700">Avoid</th>
+                      <th className="px-6 py-4 font-semibold text-gray-700">{isNl ? 'Regio' : 'Region'}</th>
+                      <th className="px-6 py-4 font-semibold text-gray-700">{isNl ? 'Belangrijkste Locaties' : 'Key Sites'}</th>
+                      <th className="px-6 py-4 font-semibold text-gray-700">{isNl ? 'Duikseizoen' : 'Dive Season'}</th>
+                      <th className="px-6 py-4 font-semibold text-gray-700">{isNl ? 'Piek Condities' : 'Peak Conditions'}</th>
+                      <th className="px-6 py-4 font-semibold text-gray-700">{isNl ? 'Vermijden' : 'Avoid'}</th>
                     </tr>
                   </thead>
                   <tbody className="divide-y divide-gray-100">
@@ -416,8 +424,8 @@ export default function BestDivingSnorkelingPage({ cities, topActivities }: Prop
 
             {/* Individual Dive Site Profiles */}
             <div className="mb-4">
-              <p className="section-label">Dive Sites</p>
-              <h2 className="text-2xl font-bold font-heading text-gray-900 mb-2">Top 10 Dive Sites in Thailand</h2>
+              <p className="section-label">{isNl ? 'Duiklocaties' : 'Dive Sites'}</p>
+              <h2 className="text-2xl font-bold font-heading text-gray-900 mb-2">{isNl ? 'Top 10 Duiklocaties in Thailand' : 'Top 10 Dive Sites in Thailand'}</h2>
               <p className="text-gray-600 text-sm mb-8">Each profile includes verifiable location data, seasonal windows, depth ranges, and conservation context sourced from PADI dive site records, the DNP, and DMCR publications.</p>
             </div>
 
@@ -437,25 +445,25 @@ export default function BestDivingSnorkelingPage({ cities, topActivities }: Prop
                   {/* Quick specs */}
                   <div className="grid grid-cols-2 sm:grid-cols-4 gap-3 mb-6">
                     <div className="bg-surface-cream rounded-xl p-3">
-                      <div className="text-xs text-gray-500 mb-1">Season</div>
+                      <div className="text-xs text-gray-500 mb-1">{isNl ? 'Seizoen' : 'Season'}</div>
                       <div className="text-sm font-semibold text-gray-800">{site.season.split('(')[0].trim()}</div>
                     </div>
                     <div className="bg-surface-cream rounded-xl p-3">
-                      <div className="text-xs text-gray-500 mb-1">Depth</div>
+                      <div className="text-xs text-gray-500 mb-1">{isNl ? 'Diepte' : 'Depth'}</div>
                       <div className="text-sm font-semibold text-gray-800">{site.depth}</div>
                     </div>
                     <div className="bg-surface-cream rounded-xl p-3">
-                      <div className="text-xs text-gray-500 mb-1">Visibility</div>
+                      <div className="text-xs text-gray-500 mb-1">{isNl ? 'Zicht' : 'Visibility'}</div>
                       <div className="text-sm font-semibold text-gray-800">{site.visibility}</div>
                     </div>
                     <div className="bg-surface-cream rounded-xl p-3">
-                      <div className="text-xs text-gray-500 mb-1">Experience</div>
+                      <div className="text-xs text-gray-500 mb-1">{isNl ? 'Ervaringsniveau' : 'Experience'}</div>
                       <div className="text-sm font-semibold text-gray-800">{site.experience.split(';')[0]}</div>
                     </div>
                   </div>
 
                   {/* Highlights */}
-                  <h3 className="font-semibold text-gray-900 mb-3 text-sm uppercase tracking-wide">Key Facts</h3>
+                  <h3 className="font-semibold text-gray-900 mb-3 text-sm uppercase tracking-wide">{isNl ? 'Belangrijkste Feiten' : 'Key Facts'}</h3>
                   <ul className="space-y-2 mb-5">
                     {site.highlights.map((h, i) => (
                       <li key={i} className="flex gap-2 text-gray-700 text-sm">
@@ -467,14 +475,14 @@ export default function BestDivingSnorkelingPage({ cities, topActivities }: Prop
 
                   {/* Conservation */}
                   <div className="bg-green-50 border border-green-200 rounded-xl p-4 mb-4">
-                    <p className="text-xs font-semibold text-green-800 uppercase tracking-wide mb-1">Conservation & Regulations</p>
+                    <p className="text-xs font-semibold text-green-800 uppercase tracking-wide mb-1">{isNl ? 'Natuurbehoud & Regelgeving' : 'Conservation & Regulations'}</p>
                     <p className="text-sm text-green-900">{site.conservation}</p>
                   </div>
 
                   {/* Contextual note */}
                   {site.note && (
                     <div className="bg-amber-50 border border-amber-200 rounded-xl p-4">
-                      <p className="text-xs font-semibold text-amber-800 uppercase tracking-wide mb-1">Editorial Note</p>
+                      <p className="text-xs font-semibold text-amber-800 uppercase tracking-wide mb-1">{isNl ? 'Redactionele Opmerking' : 'Editorial Note'}</p>
                       <p className="text-sm text-amber-900">{site.note}</p>
                     </div>
                   )}
@@ -484,8 +492,8 @@ export default function BestDivingSnorkelingPage({ cities, topActivities }: Prop
 
             {/* Certification Cost Section */}
             <div className="bg-white rounded-2xl shadow-md p-8 mb-10">
-              <p className="section-label">Courses & Costs</p>
-              <h2 className="text-2xl font-bold font-heading text-gray-900 mb-4">PADI Certification Costs in Thailand</h2>
+              <p className="section-label">{isNl ? 'Cursussen & Kosten' : 'Courses & Costs'}</p>
+              <h2 className="text-2xl font-bold font-heading text-gray-900 mb-4">{isNl ? 'PADI Certificeringskosten in Thailand' : 'PADI Certification Costs in Thailand'}</h2>
               <p className="text-gray-700 mb-6">
                 Koh Tao dominates the certification market due to extreme competition among operators. The price advantage is real, but advertised prices are not always all-inclusive. The table below reflects realistic all-in costs based on 2024–2025 market data from multiple Koh Tao dive centres.
               </p>
@@ -493,11 +501,11 @@ export default function BestDivingSnorkelingPage({ cities, topActivities }: Prop
                 <table className="w-full text-left text-sm">
                   <thead className="bg-surface-cream">
                     <tr>
-                      <th className="px-4 py-3 font-semibold text-gray-700">Course</th>
+                      <th className="px-4 py-3 font-semibold text-gray-700">{isNl ? 'Cursus' : 'Course'}</th>
                       <th className="px-4 py-3 font-semibold text-gray-700">Koh Tao (THB)</th>
                       <th className="px-4 py-3 font-semibold text-gray-700">Phuket (THB)</th>
-                      <th className="px-4 py-3 font-semibold text-gray-700">Duration</th>
-                      <th className="px-4 py-3 font-semibold text-gray-700">Prerequisite</th>
+                      <th className="px-4 py-3 font-semibold text-gray-700">{isNl ? 'Duur' : 'Duration'}</th>
+                      <th className="px-4 py-3 font-semibold text-gray-700">{isNl ? 'Vereiste' : 'Prerequisite'}</th>
                     </tr>
                   </thead>
                   <tbody className="divide-y divide-gray-100">
@@ -548,18 +556,18 @@ export default function BestDivingSnorkelingPage({ cities, topActivities }: Prop
             {cities.length > 0 && (
               <div className="bg-white rounded-2xl shadow-md overflow-hidden mb-10">
                 <div className="px-8 pt-8 pb-4">
-                  <p className="section-label">By Destination</p>
-                  <h2 className="text-2xl font-bold font-heading text-gray-900 mb-2">Browse Activities by City</h2>
+                  <p className="section-label">{isNl ? 'Per Bestemming' : 'By Destination'}</p>
+                  <h2 className="text-2xl font-bold font-heading text-gray-900 mb-2">{isNl ? 'Bekijk Activiteiten per Stad' : 'Browse Activities by City'}</h2>
                   <p className="text-gray-600 text-sm mb-4">Compare dive operators, trip prices, and available activities across Thailand&apos;s main dive destinations.</p>
                 </div>
                 <div className="overflow-x-auto">
                   <table className="w-full text-left text-sm">
                     <thead className="bg-surface-cream">
                       <tr>
-                        <th className="px-6 py-4 font-semibold text-gray-600">Destination</th>
-                        <th className="px-6 py-4 font-semibold text-gray-600">Activities Listed</th>
-                        <th className="px-6 py-4 font-semibold text-gray-600">Price Range</th>
-                        <th className="px-6 py-4 font-semibold text-gray-600">Highlight</th>
+                        <th className="px-6 py-4 font-semibold text-gray-600">{isNl ? 'Bestemming' : 'Destination'}</th>
+                        <th className="px-6 py-4 font-semibold text-gray-600">{isNl ? 'Activiteiten' : 'Activities Listed'}</th>
+                        <th className="px-6 py-4 font-semibold text-gray-600">{isNl ? 'Prijsklasse' : 'Price Range'}</th>
+                        <th className="px-6 py-4 font-semibold text-gray-600">{isNl ? 'Hoogtepunt' : 'Highlight'}</th>
                         <th className="px-6 py-4 font-semibold text-gray-600"></th>
                       </tr>
                     </thead>
@@ -568,20 +576,20 @@ export default function BestDivingSnorkelingPage({ cities, topActivities }: Prop
                         <tr key={city.slug} className="hover:bg-gray-50">
                           <td className="px-6 py-4">
                             <Link href={`/city/${city.slug}/diving-snorkeling/`} className="font-semibold text-thailand-blue hover:underline">
-                              {city.name.en}
+                              {city.name[lang] || city.name.en}
                             </Link>
                           </td>
                           <td className="px-6 py-4 text-gray-700">{city.classCount}+</td>
                           <td className="px-6 py-4 text-gray-700">
                             {formatPrice(city.priceRange.from, loc)} – {formatPrice(city.priceRange.to, loc)}
                           </td>
-                          <td className="px-6 py-4 text-gray-600">{city.highlight.en.split('.')[0]}</td>
+                          <td className="px-6 py-4 text-gray-600">{(city.highlight[lang] || city.highlight.en).split('.')[0]}</td>
                           <td className="px-6 py-4">
                             <Link
                               href={`/city/${city.slug}/diving-snorkeling/`}
                               className="text-sm font-semibold text-thailand-blue hover:text-blue-800"
                             >
-                              View all &rarr;
+                              {isNl ? 'Bekijk alle' : 'View all'} &rarr;
                             </Link>
                           </td>
                         </tr>
@@ -606,11 +614,11 @@ export default function BestDivingSnorkelingPage({ cities, topActivities }: Prop
                         </span>
                         <h3 className="text-xl font-bold font-heading text-gray-900">
                           <Link href={`/city/${city.slug}/diving-snorkeling/`} className="hover:text-thailand-blue">
-                            Top Activities in {city.name.en}
+                            {isNl ? `Top Activiteiten in ${city.name.nl || city.name.en}` : `Top Activities in ${city.name.en}`}
                           </Link>
                         </h3>
                       </div>
-                      <p className="text-gray-600 text-sm mb-5">{city.highlight.en}</p>
+                      <p className="text-gray-600 text-sm mb-5">{city.highlight[lang] || city.highlight.en}</p>
                       <div className="space-y-3 mb-5">
                         {cityActivities.map((ta, i) => (
                           <div key={ta.activity.slug} className="flex items-center justify-between p-3 bg-surface-cream rounded-xl">
@@ -638,7 +646,7 @@ export default function BestDivingSnorkelingPage({ cities, topActivities }: Prop
                         href={`/city/${city.slug}/diving-snorkeling/`}
                         className="inline-flex items-center text-thailand-blue font-semibold hover:text-blue-800 text-sm"
                       >
-                        See all {city.classCount} activities in {city.name.en} &rarr;
+                        {isNl ? `Bekijk alle ${city.classCount} activiteiten in ${city.name.nl || city.name.en}` : `See all ${city.classCount} activities in ${city.name.en}`} &rarr;
                       </Link>
                     </div>
                   );
@@ -648,14 +656,14 @@ export default function BestDivingSnorkelingPage({ cities, topActivities }: Prop
 
             {/* Marine Conservation section */}
             <div className="bg-white rounded-2xl shadow-md p-8 mb-10">
-              <p className="section-label">Conservation</p>
-              <h2 className="text-2xl font-bold font-heading text-gray-900 mb-4">Marine Conservation in Thailand</h2>
+              <p className="section-label">{isNl ? 'Natuurbehoud' : 'Conservation'}</p>
+              <h2 className="text-2xl font-bold font-heading text-gray-900 mb-4">{isNl ? 'Zeeleven Bescherming in Thailand' : 'Marine Conservation in Thailand'}</h2>
               <p className="text-gray-700 mb-4">
                 Thailand&apos;s reefs have faced significant pressure from mass tourism, coral bleaching events (particularly the 2010 and 2016 episodes), and coastal development. The government has responded with policy and enforcement changes over the past decade.
               </p>
               <div className="grid md:grid-cols-2 gap-6 mb-4">
                 <div className="bg-surface-cream rounded-xl p-5">
-                  <h3 className="font-semibold text-gray-900 mb-3">Government Bodies</h3>
+                  <h3 className="font-semibold text-gray-900 mb-3">{isNl ? 'Overheidsinstanties' : 'Government Bodies'}</h3>
                   <ul className="space-y-2 text-sm text-gray-700">
                     <li><strong>Department of National Parks (DNP)</strong> — manages all national marine parks including the Similan and Surin Islands; enforces seasonal closures and anchoring bans</li>
                     <li><strong>Department of Marine and Coastal Resources (DMCR)</strong> — responsible for coral reef monitoring, rehabilitation, and the &quot;Reduce, Refrain, Rescue&quot; policy framework across Thai waters</li>
@@ -663,7 +671,7 @@ export default function BestDivingSnorkelingPage({ cities, topActivities }: Prop
                   </ul>
                 </div>
                 <div className="bg-surface-cream rounded-xl p-5">
-                  <h3 className="font-semibold text-gray-900 mb-3">Active NGO Programs</h3>
+                  <h3 className="font-semibold text-gray-900 mb-3">{isNl ? 'Actieve NGO Programma\'s' : 'Active NGO Programs'}</h3>
                   <ul className="space-y-2 text-sm text-gray-700">
                     <li><strong>New Heaven Reef Conservation (Koh Tao)</strong> — long-running reef monitoring and coral gardening, operating since 2011; trains dive professionals in marine survey methodology</li>
                     <li><strong>COREsea (Koh Phangan / Samui Archipelago)</strong> — marine conservation research and education; runs coral nurseries and fish population surveys</li>
@@ -672,7 +680,7 @@ export default function BestDivingSnorkelingPage({ cities, topActivities }: Prop
                 </div>
               </div>
               <div className="bg-blue-50 border border-blue-200 rounded-xl p-5">
-                <h3 className="font-semibold text-blue-900 mb-2">What Divers Can Do</h3>
+                <h3 className="font-semibold text-blue-900 mb-2">{isNl ? 'Wat Duikers Kunnen Doen' : 'What Divers Can Do'}</h3>
                 <ul className="space-y-1 text-sm text-blue-900">
                   <li>— Use reef-safe sunscreen (oxybenzone and octinoxate are banned inside most Thai national parks)</li>
                   <li>— Maintain neutral buoyancy to avoid accidental contact with coral</li>
@@ -686,19 +694,19 @@ export default function BestDivingSnorkelingPage({ cities, topActivities }: Prop
 
             {/* Insurance */}
             <div className="bg-amber-50 rounded-2xl p-6 mb-10 border border-amber-200">
-              <h3 className="font-bold text-amber-900 mb-2">Diving Insurance</h3>
+              <h3 className="font-bold text-amber-900 mb-2">{isNl ? 'Duikverzekering' : 'Diving Insurance'}</h3>
               <p className="text-sm text-amber-800 mb-3">
                 Standard travel insurance policies typically exclude scuba diving below 10 metres. Decompression sickness (DCS) treatment in a hyperbaric chamber costs USD 2,000–10,000 or more and is not covered by most general travel policies. Divers Alert Network (DAN) offers diving-specific medical insurance that covers hyperbaric treatment, medical evacuation, and diving-related injuries globally. DAN Asia-Pacific coverage starts from around USD 75 per year for recreational divers.
               </p>
               <Link href="/travel-insurance-thailand/" className="text-sm font-semibold text-thailand-blue hover:underline">
-                Compare travel insurance options for Thailand &rarr;
+                {isNl ? 'Vergelijk reisverzekeringen voor Thailand' : 'Compare travel insurance options for Thailand'} &rarr;
               </Link>
             </div>
 
             {/* FAQ */}
             <div className="bg-white rounded-2xl shadow-md p-8 mb-12">
               <p className="section-label">FAQ</p>
-              <h2 className="text-2xl font-bold font-heading text-gray-900 mb-6">Frequently Asked Questions</h2>
+              <h2 className="text-2xl font-bold font-heading text-gray-900 mb-6">{isNl ? 'Veelgestelde Vragen' : 'Frequently Asked Questions'}</h2>
               <div className="space-y-7">
                 {faqItems.map((item, i) => (
                   <div key={i}>
@@ -711,7 +719,7 @@ export default function BestDivingSnorkelingPage({ cities, topActivities }: Prop
 
             {/* Sources */}
             <div className="bg-surface-cream rounded-2xl p-6 mb-12 border border-gray-200">
-              <h3 className="font-semibold text-gray-700 mb-3 text-sm uppercase tracking-wide">Sources & References</h3>
+              <h3 className="font-semibold text-gray-700 mb-3 text-sm uppercase tracking-wide">{isNl ? 'Bronnen & Referenties' : 'Sources & References'}</h3>
               <ul className="space-y-1 text-sm text-gray-600">
                 <li>PADI Dive Site: Similan Islands National Marine Park — <a href="https://www.padi.com/dive-site/thailand/similan-islands-national-marine-park/" target="_blank" rel="noopener noreferrer" className="text-thailand-blue hover:underline">padi.com</a></li>
                 <li>PADI Dive Site: Hin Daeng / Hin Muang — <a href="https://www.padi.com/dive-site/thailand/hin-daeng-hin-muang/" target="_blank" rel="noopener noreferrer" className="text-thailand-blue hover:underline">padi.com</a></li>
@@ -731,8 +739,8 @@ export default function BestDivingSnorkelingPage({ cities, topActivities }: Prop
 
             {/* Related Guides */}
             <div className="mb-8">
-              <p className="section-label">Related Guides</p>
-              <h2 className="text-2xl font-bold font-heading text-gray-900 mb-6">Plan Your Thailand Trip</h2>
+              <p className="section-label">{isNl ? 'Gerelateerde Gidsen' : 'Related Guides'}</p>
+              <h2 className="text-2xl font-bold font-heading text-gray-900 mb-6">{isNl ? 'Plan je Thailand Reis' : 'Plan Your Thailand Trip'}</h2>
               <div className="grid gap-4 md:grid-cols-2 lg:grid-cols-3">
                 {[
                   { href: '/islands/', title: 'Thai Islands Guide', description: 'Factual profiles of Thailand\'s main islands — from the Andaman to the Gulf, with transport, costs, and best season.' },

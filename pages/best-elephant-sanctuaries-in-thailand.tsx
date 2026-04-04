@@ -58,13 +58,19 @@ function StarRating({ rating }: { rating: number }) {
 export default function BestElephantSanctuariesPage({ cities, topSanctuaries }: Props) {
   const { locale } = useRouter();
   const loc = locale || 'en';
+  const isNl = locale === 'nl';
+  const lang = isNl ? 'nl' : 'en';
   const breadcrumbs = [
     { name: 'Home', href: '/' },
-    { name: 'Best Elephant Sanctuaries in Thailand', href: '/best-elephant-sanctuaries-in-thailand/' }
+    { name: isNl ? 'Beste Olifanten Opvangcentra in Thailand' : 'Best Elephant Sanctuaries in Thailand', href: '/best-elephant-sanctuaries-in-thailand/' }
   ];
 
-  const title = 'Best Ethical Elephant Sanctuaries in Thailand 2026 — No Riding, No Hooks';
-  const description = 'The complete guide to ethical elephant sanctuaries in Thailand. Elephant Nature Park, Boon Lott\'s, Elephant Jungle Sanctuary — no riding, no shows, genuine rescue and conservation.';
+  const title = isNl
+    ? 'Beste Ethische Olifanten Opvangcentra in Thailand 2026 — Geen Rijden, Geen Haken'
+    : 'Best Ethical Elephant Sanctuaries in Thailand 2026 — No Riding, No Hooks';
+  const description = isNl
+    ? 'De complete gids voor ethische olifanten opvangcentra in Thailand. Elephant Nature Park, Boon Lott\'s, Elephant Jungle Sanctuary — geen rijden, geen shows, echte redding en natuurbehoud.'
+    : 'The complete guide to ethical elephant sanctuaries in Thailand. Elephant Nature Park, Boon Lott\'s, Elephant Jungle Sanctuary — no riding, no shows, genuine rescue and conservation.';
 
   const faqItems = [
     {
@@ -117,12 +123,14 @@ export default function BestElephantSanctuariesPage({ cities, topSanctuaries }: 
           <div className="container-custom py-12">
             <Breadcrumbs items={breadcrumbs} />
             <div className="text-center mt-6">
-              <p className="font-script text-thailand-gold text-lg mb-2">Ethical Wildlife</p>
+              <p className="font-script text-thailand-gold text-lg mb-2">{isNl ? 'Ethisch Wildlife' : 'Ethical Wildlife'}</p>
               <h1 className="text-4xl lg:text-5xl font-bold font-heading mb-4">
-                Best Ethical Elephant Sanctuaries in Thailand
+                {isNl ? 'Beste Ethische Olifanten Opvangcentra in Thailand' : 'Best Ethical Elephant Sanctuaries in Thailand'}
               </h1>
               <p className="text-xl max-w-3xl mx-auto text-gray-300">
-                Thailand has an estimated 4,000 elephants — many rescued from logging and tourism exploitation. These sanctuaries offer genuine welfare-focused visits: no riding, no hooks, no shows. Just elephants living as elephants.
+                {isNl
+                  ? 'Thailand heeft naar schatting 4.000 olifanten — velen gered van houtkap en toerisme-uitbuiting. Deze opvangcentra bieden echte welzijnsgerichte bezoeken: geen rijden, geen haken, geen shows. Gewoon olifanten die leven als olifanten.'
+                  : 'Thailand has an estimated 4,000 elephants — many rescued from logging and tourism exploitation. These sanctuaries offer genuine welfare-focused visits: no riding, no hooks, no shows. Just elephants living as elephants.'}
               </p>
             </div>
           </div>
@@ -132,18 +140,18 @@ export default function BestElephantSanctuariesPage({ cities, topSanctuaries }: 
           <div className="container-custom">
             {/* Quick Comparison Table */}
             <div className="bg-white rounded-2xl shadow-md overflow-hidden mb-12">
-              <p className="section-label px-6 pt-6">Compare</p>
+              <p className="section-label px-6 pt-6">{isNl ? 'Vergelijk' : 'Compare'}</p>
               <h2 className="text-2xl font-bold font-heading text-gray-900 p-6 pb-0">
-                City Comparison at a Glance
+                {isNl ? 'Steden Vergelijking in een Oogopslag' : 'City Comparison at a Glance'}
               </h2>
               <div className="overflow-x-auto">
                 <table className="w-full text-left">
                   <thead className="bg-surface-cream">
                     <tr>
-                      <th className="px-6 py-4 text-sm font-semibold text-gray-600">City</th>
-                      <th className="px-6 py-4 text-sm font-semibold text-gray-600">Sanctuaries</th>
-                      <th className="px-6 py-4 text-sm font-semibold text-gray-600">Price Range</th>
-                      <th className="px-6 py-4 text-sm font-semibold text-gray-600">Best For</th>
+                      <th className="px-6 py-4 text-sm font-semibold text-gray-600">{isNl ? 'Stad' : 'City'}</th>
+                      <th className="px-6 py-4 text-sm font-semibold text-gray-600">{isNl ? 'Opvangcentra' : 'Sanctuaries'}</th>
+                      <th className="px-6 py-4 text-sm font-semibold text-gray-600">{isNl ? 'Prijsklasse' : 'Price Range'}</th>
+                      <th className="px-6 py-4 text-sm font-semibold text-gray-600">{isNl ? 'Beste Voor' : 'Best For'}</th>
                       <th className="px-6 py-4 text-sm font-semibold text-gray-600"></th>
                     </tr>
                   </thead>
@@ -152,20 +160,20 @@ export default function BestElephantSanctuariesPage({ cities, topSanctuaries }: 
                       <tr key={city.slug} className="hover:bg-gray-50">
                         <td className="px-6 py-4">
                           <Link href={`/city/${city.slug}/elephant-sanctuaries/`} className="font-semibold text-thailand-blue hover:underline">
-                            {city.name.en}
+                            {city.name[lang] || city.name.en}
                           </Link>
                         </td>
                         <td className="px-6 py-4 text-gray-700">{city.classCount}+</td>
                         <td className="px-6 py-4 text-gray-700">
                           {formatPrice(city.priceRange.from, loc)} - {formatPrice(city.priceRange.to, loc)}
                         </td>
-                        <td className="px-6 py-4 text-gray-600 text-sm">{city.highlight.en.split('.')[0]}</td>
+                        <td className="px-6 py-4 text-gray-600 text-sm">{(city.highlight[lang] || city.highlight.en).split('.')[0]}</td>
                         <td className="px-6 py-4">
                           <Link
                             href={`/city/${city.slug}/elephant-sanctuaries/`}
                             className="text-sm font-semibold text-thailand-blue hover:text-blue-800"
                           >
-                            View all &rarr;
+                            {isNl ? 'Bekijk alle' : 'View all'} &rarr;
                           </Link>
                         </td>
                       </tr>
@@ -184,25 +192,25 @@ export default function BestElephantSanctuariesPage({ cities, topSanctuaries }: 
                   </span>
                   <h2 className="text-2xl font-bold font-heading text-gray-900">
                     <Link href={`/city/${city.slug}/elephant-sanctuaries/`} className="hover:text-thailand-blue">
-                      Elephant Sanctuaries in {city.name.en}
+                      {isNl ? `Olifanten Opvangcentra in ${city.name.nl || city.name.en}` : `Elephant Sanctuaries in ${city.name.en}`}
                     </Link>
                   </h2>
                 </div>
-                <p className="text-gray-700 mb-4">{city.highlight.en}</p>
+                <p className="text-gray-700 mb-4">{city.highlight[lang] || city.highlight.en}</p>
                 <div className="grid grid-cols-3 gap-4 mb-6">
                   <div className="bg-surface-cream rounded-xl p-3 text-center">
                     <div className="text-lg font-bold text-gray-900">{city.classCount}+</div>
-                    <div className="text-xs text-gray-600">Sanctuaries</div>
+                    <div className="text-xs text-gray-600">{isNl ? 'Opvangcentra' : 'Sanctuaries'}</div>
                   </div>
                   <div className="bg-surface-cream rounded-xl p-3 text-center">
                     <div className="text-lg font-bold text-gray-900">
                       {formatPrice(city.priceRange.from, loc)}+
                     </div>
-                    <div className="text-xs text-gray-600">Starting Price</div>
+                    <div className="text-xs text-gray-600">{isNl ? 'Vanafprijs' : 'Starting Price'}</div>
                   </div>
                   <div className="bg-surface-cream rounded-xl p-3 text-center">
                     <div className="text-lg font-bold text-gray-900">{city.topRating}</div>
-                    <div className="text-xs text-gray-600">Top Rating</div>
+                    <div className="text-xs text-gray-600">{isNl ? 'Hoogste Beoordeling' : 'Top Rating'}</div>
                   </div>
                 </div>
 
@@ -239,16 +247,16 @@ export default function BestElephantSanctuariesPage({ cities, topSanctuaries }: 
                   href={`/city/${city.slug}/elephant-sanctuaries/`}
                   className="inline-flex items-center text-thailand-blue font-semibold hover:text-blue-800"
                 >
-                  See all {city.classCount} sanctuaries in {city.name.en} &rarr;
+                  {isNl ? `Bekijk alle ${city.classCount} opvangcentra in ${city.name.nl || city.name.en}` : `See all ${city.classCount} sanctuaries in ${city.name.en}`} &rarr;
                 </Link>
               </div>
             ))}
 
             {/* Conservation Context */}
             <div className="bg-white rounded-2xl shadow-md p-8 mb-8">
-              <p className="section-label">Conservation</p>
+              <p className="section-label">{isNl ? 'Natuurbehoud' : 'Conservation'}</p>
               <h2 className="text-2xl font-bold font-heading text-gray-900 mb-4">
-                Why Elephant Welfare Matters
+                {isNl ? 'Waarom Olifantenwelzijn Belangrijk Is' : 'Why Elephant Welfare Matters'}
               </h2>
               <div className="prose prose-gray max-w-none text-gray-700 space-y-4">
                 <p>
@@ -281,9 +289,9 @@ export default function BestElephantSanctuariesPage({ cities, topSanctuaries }: 
 
             {/* Featured Sanctuaries */}
             <div className="bg-white rounded-2xl shadow-md p-8 mb-8">
-              <p className="section-label">Featured Sanctuaries</p>
+              <p className="section-label">{isNl ? 'Uitgelichte Opvangcentra' : 'Featured Sanctuaries'}</p>
               <h2 className="text-2xl font-bold font-heading text-gray-900 mb-6">
-                Top Ethical Sanctuaries in Thailand
+                {isNl ? 'Top Ethische Opvangcentra in Thailand' : 'Top Ethical Sanctuaries in Thailand'}
               </h2>
               <div className="space-y-6">
                 {[
@@ -355,10 +363,10 @@ export default function BestElephantSanctuariesPage({ cities, topSanctuaries }: 
 
             {/* CTA */}
             <div className="bg-surface-dark rounded-2xl p-8 mb-12 text-center text-white">
-              <p className="font-script text-thailand-gold text-lg mb-2">Book Your Visit</p>
-              <h2 className="text-3xl font-bold font-heading mb-4">Ready to Meet Thailand&apos;s Elephants?</h2>
+              <p className="font-script text-thailand-gold text-lg mb-2">{isNl ? 'Boek je Bezoek' : 'Book Your Visit'}</p>
+              <h2 className="text-3xl font-bold font-heading mb-4">{isNl ? 'Klaar om Thailand\'s Olifanten te Ontmoeten?' : 'Ready to Meet Thailand\'s Elephants?'}</h2>
               <p className="text-lg mb-6 opacity-90">
-                Browse ethical elephant sanctuaries across Thailand on these trusted booking platforms.
+                {isNl ? 'Bekijk ethische olifanten opvangcentra door heel Thailand op deze vertrouwde boekingsplatformen.' : 'Browse ethical elephant sanctuaries across Thailand on these trusted booking platforms.'}
               </p>
               <div className="flex flex-col sm:flex-row gap-4 justify-center">
                 <a
@@ -379,7 +387,7 @@ export default function BestElephantSanctuariesPage({ cities, topSanctuaries }: 
                 </a>
               </div>
               <p className="text-xs text-white/70 mt-4">
-                We may earn a commission when you book through our links, at no extra cost to you.
+                {isNl ? 'We kunnen een commissie ontvangen wanneer je boekt via onze links, zonder extra kosten voor jou.' : 'We may earn a commission when you book through our links, at no extra cost to you.'}
               </p>
             </div>
 
@@ -387,7 +395,7 @@ export default function BestElephantSanctuariesPage({ cities, topSanctuaries }: 
             <div className="bg-white rounded-2xl shadow-md p-8 mb-12">
               <p className="section-label">FAQ</p>
               <h2 className="text-2xl font-bold font-heading text-gray-900 mb-6">
-                Frequently Asked Questions
+                {isNl ? 'Veelgestelde Vragen' : 'Frequently Asked Questions'}
               </h2>
               <div className="space-y-6">
                 {faqItems.map((item, i) => (
@@ -401,9 +409,9 @@ export default function BestElephantSanctuariesPage({ cities, topSanctuaries }: 
 
             {/* Explore More */}
             <div className="bg-white rounded-2xl shadow-md p-8 mb-12">
-              <p className="section-label">Explore More</p>
+              <p className="section-label">{isNl ? 'Ontdek Meer' : 'Explore More'}</p>
               <h2 className="text-2xl font-bold font-heading text-gray-900 mb-6">
-                Related Guides
+                {isNl ? 'Gerelateerde Gidsen' : 'Related Guides'}
               </h2>
               <div className="grid grid-cols-2 md:grid-cols-4 gap-3">
                 <Link href="/travel-insurance-thailand/" className="p-4 bg-surface-cream rounded-xl hover:shadow-md transition-all">

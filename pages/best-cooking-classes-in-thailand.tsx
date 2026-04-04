@@ -58,13 +58,19 @@ function StarRating({ rating }: { rating: number }) {
 export default function BestCookingClassesPage({ cities, topClasses }: Props) {
   const { locale } = useRouter();
   const loc = locale || 'en';
+  const isNl = locale === 'nl';
+  const lang = isNl ? 'nl' : 'en';
   const breadcrumbs = [
     { name: 'Home', href: '/' },
-    { name: 'Best Cooking Classes in Thailand', href: '/best-cooking-classes-in-thailand/' }
+    { name: isNl ? 'Beste Kooklessen in Thailand' : 'Best Cooking Classes in Thailand', href: '/best-cooking-classes-in-thailand/' }
   ];
 
-  const title = 'Best Cooking Classes in Thailand 2026 — 5 Cities Compared';
-  const description = 'Verified guide to the best Thai cooking schools in Bangkok, Chiang Mai, Phuket, Koh Samui and Krabi. Real schools, real details — from farm-to-table classes to Michelin-recognised kitchens.';
+  const title = isNl
+    ? 'Beste Kooklessen in Thailand 2026 — 5 Steden Vergeleken'
+    : 'Best Cooking Classes in Thailand 2026 — 5 Cities Compared';
+  const description = isNl
+    ? 'Geverifieerde gids voor de beste Thaise kookscholen in Bangkok, Chiang Mai, Phuket, Koh Samui en Krabi. Echte scholen, echte details — van farm-to-table lessen tot Michelin-erkende keukens.'
+    : 'Verified guide to the best Thai cooking schools in Bangkok, Chiang Mai, Phuket, Koh Samui and Krabi. Real schools, real details — from farm-to-table classes to Michelin-recognised kitchens.';
 
   const faqItems = [
     {
@@ -165,12 +171,14 @@ export default function BestCookingClassesPage({ cities, topClasses }: Props) {
           <div className="container-custom py-12">
             <Breadcrumbs items={breadcrumbs} />
             <div className="text-center mt-6">
-              <p className="font-script text-thailand-gold text-lg mb-2">Thai Cuisine</p>
+              <p className="font-script text-thailand-gold text-lg mb-2">{isNl ? 'Thaise Keuken' : 'Thai Cuisine'}</p>
               <h1 className="text-4xl lg:text-5xl font-bold font-heading mb-4">
-                Best Cooking Classes in Thailand
+                {isNl ? 'Beste Kooklessen in Thailand' : 'Best Cooking Classes in Thailand'}
               </h1>
               <p className="text-xl max-w-3xl mx-auto opacity-90">
-                A journalist&apos;s guide to verified Thai cooking schools across five cities — from Chiang Mai&apos;s organic farms to Bangkok&apos;s Michelin-recognised kitchens. Real schools, real details.
+                {isNl
+                  ? 'Een journalistieke gids voor geverifieerde Thaise kookscholen in vijf steden — van Chiang Mai\'s biologische boerderijen tot Bangkok\'s Michelin-erkende keukens. Echte scholen, echte details.'
+                  : 'A journalist\'s guide to verified Thai cooking schools across five cities — from Chiang Mai\'s organic farms to Bangkok\'s Michelin-recognised kitchens. Real schools, real details.'}
               </p>
             </div>
           </div>
@@ -181,9 +189,9 @@ export default function BestCookingClassesPage({ cities, topClasses }: Props) {
 
             {/* Editorial intro */}
             <div className="bg-white rounded-2xl shadow-md p-8 mb-12">
-              <p className="section-label">Editorial Overview</p>
+              <p className="section-label">{isNl ? 'Redactioneel Overzicht' : 'Editorial Overview'}</p>
               <h2 className="text-2xl font-bold font-heading text-gray-900 mb-4">
-                Why Thai Cooking Classes Are Worth Your Time
+                {isNl ? 'Waarom Thaise Kooklessen je Tijd Waard Zijn' : 'Why Thai Cooking Classes Are Worth Your Time'}
               </h2>
               <div className="prose prose-gray max-w-none">
                 <p className="text-gray-700 mb-4">
@@ -203,18 +211,18 @@ export default function BestCookingClassesPage({ cities, topClasses }: Props) {
 
             {/* Quick Comparison Table */}
             <div className="bg-white rounded-2xl shadow-md overflow-hidden mb-12">
-              <p className="section-label px-6 pt-6">Compare</p>
+              <p className="section-label px-6 pt-6">{isNl ? 'Vergelijk' : 'Compare'}</p>
               <h2 className="text-2xl font-bold font-heading text-gray-900 p-6 pb-0">
-                Five Cities at a Glance
+                {isNl ? 'Vijf Steden in een Oogopslag' : 'Five Cities at a Glance'}
               </h2>
               <div className="overflow-x-auto">
                 <table className="w-full text-left">
                   <thead className="bg-surface-cream">
                     <tr>
-                      <th className="px-6 py-4 text-sm font-semibold text-gray-600">City</th>
-                      <th className="px-6 py-4 text-sm font-semibold text-gray-600">Classes</th>
-                      <th className="px-6 py-4 text-sm font-semibold text-gray-600">Price Range</th>
-                      <th className="px-6 py-4 text-sm font-semibold text-gray-600">Best For</th>
+                      <th className="px-6 py-4 text-sm font-semibold text-gray-600">{isNl ? 'Stad' : 'City'}</th>
+                      <th className="px-6 py-4 text-sm font-semibold text-gray-600">{isNl ? 'Lessen' : 'Classes'}</th>
+                      <th className="px-6 py-4 text-sm font-semibold text-gray-600">{isNl ? 'Prijsklasse' : 'Price Range'}</th>
+                      <th className="px-6 py-4 text-sm font-semibold text-gray-600">{isNl ? 'Beste Voor' : 'Best For'}</th>
                       <th className="px-6 py-4 text-sm font-semibold text-gray-600"></th>
                     </tr>
                   </thead>
@@ -223,20 +231,20 @@ export default function BestCookingClassesPage({ cities, topClasses }: Props) {
                       <tr key={city.slug} className="hover:bg-gray-50">
                         <td className="px-6 py-4">
                           <Link href={`/city/${city.slug}/cooking-classes/`} className="font-semibold text-thailand-blue hover:underline">
-                            {city.name.en}
+                            {city.name[lang] || city.name.en}
                           </Link>
                         </td>
                         <td className="px-6 py-4 text-gray-700">{city.classCount}+</td>
                         <td className="px-6 py-4 text-gray-700">
                           {formatPrice(city.priceRange.from, loc)} – {formatPrice(city.priceRange.to, loc)}
                         </td>
-                        <td className="px-6 py-4 text-gray-600 text-sm">{city.highlight.en.split(' — ')[0]}</td>
+                        <td className="px-6 py-4 text-gray-600 text-sm">{(city.highlight[lang] || city.highlight.en).split(' — ')[0]}</td>
                         <td className="px-6 py-4">
                           <Link
                             href={`/city/${city.slug}/cooking-classes/`}
                             className="text-sm font-semibold text-thailand-red hover:text-red-700"
                           >
-                            View classes &rarr;
+                            {isNl ? 'Bekijk lessen' : 'View classes'} &rarr;
                           </Link>
                         </td>
                       </tr>
@@ -345,7 +353,7 @@ export default function BestCookingClassesPage({ cities, topClasses }: Props) {
               </div>
               <div className="mt-4">
                 <Link href="/city/bangkok/cooking-classes/" className="inline-flex items-center text-thailand-red font-semibold hover:text-red-700">
-                  See all Bangkok cooking classes &rarr;
+                  {isNl ? 'Bekijk alle kooklessen in Bangkok' : 'See all Bangkok cooking classes'} &rarr;
                 </Link>
               </div>
             </div>
@@ -485,7 +493,7 @@ export default function BestCookingClassesPage({ cities, topClasses }: Props) {
               </div>
               <div className="mt-4">
                 <Link href="/city/chiang-mai/cooking-classes/" className="inline-flex items-center text-thailand-red font-semibold hover:text-red-700">
-                  See all Chiang Mai cooking classes &rarr;
+                  {isNl ? 'Bekijk alle kooklessen in Chiang Mai' : 'See all Chiang Mai cooking classes'} &rarr;
                 </Link>
               </div>
             </div>
@@ -586,7 +594,7 @@ export default function BestCookingClassesPage({ cities, topClasses }: Props) {
               </div>
               <div className="mt-4">
                 <Link href="/city/phuket/cooking-classes/" className="inline-flex items-center text-thailand-red font-semibold hover:text-red-700">
-                  See all Phuket cooking classes &rarr;
+                  {isNl ? 'Bekijk alle kooklessen in Phuket' : 'See all Phuket cooking classes'} &rarr;
                 </Link>
               </div>
             </div>
@@ -687,7 +695,7 @@ export default function BestCookingClassesPage({ cities, topClasses }: Props) {
               </div>
               <div className="mt-4">
                 <Link href="/city/koh-samui/cooking-classes/" className="inline-flex items-center text-thailand-red font-semibold hover:text-red-700">
-                  See all Koh Samui cooking classes &rarr;
+                  {isNl ? 'Bekijk alle kooklessen in Koh Samui' : 'See all Koh Samui cooking classes'} &rarr;
                 </Link>
               </div>
             </div>
@@ -788,16 +796,16 @@ export default function BestCookingClassesPage({ cities, topClasses }: Props) {
               </div>
               <div className="mt-4">
                 <Link href="/city/krabi/cooking-classes/" className="inline-flex items-center text-thailand-red font-semibold hover:text-red-700">
-                  See all Krabi cooking classes &rarr;
+                  {isNl ? 'Bekijk alle kooklessen in Krabi' : 'See all Krabi cooking classes'} &rarr;
                 </Link>
               </div>
             </div>
 
             {/* What you will learn */}
             <div className="bg-white rounded-2xl shadow-md p-8 mb-12">
-              <p className="section-label">Curriculum</p>
+              <p className="section-label">{isNl ? 'Lesprogramma' : 'Curriculum'}</p>
               <h2 className="text-2xl font-bold font-heading text-gray-900 mb-4">
-                What Thai Cooking Classes Actually Teach You
+                {isNl ? 'Wat je Leert bij Thaise Kooklessen' : 'What Thai Cooking Classes Actually Teach You'}
               </h2>
               <p className="text-gray-700 mb-6">
                 Most Thai cooking classes cover a structured set of dishes chosen to illustrate core techniques: curry paste grinding (the foundation of almost every Thai curry), stir-frying at high heat, hot-and-sour soup balance, and sticky-rice or coconut dessert preparation. Here are the dishes that appear most frequently:
@@ -833,10 +841,10 @@ export default function BestCookingClassesPage({ cities, topClasses }: Props) {
 
             {/* CTA */}
             <div className="bg-surface-dark rounded-2xl p-8 mb-12 text-center text-white">
-              <p className="font-script text-thailand-gold text-lg mb-2">Book Now</p>
-              <h2 className="text-3xl font-bold font-heading mb-4">Ready to Book Your Thai Cooking Class?</h2>
+              <p className="font-script text-thailand-gold text-lg mb-2">{isNl ? 'Boek Nu' : 'Book Now'}</p>
+              <h2 className="text-3xl font-bold font-heading mb-4">{isNl ? 'Klaar om je Thaise Kookles te Boeken?' : 'Ready to Book Your Thai Cooking Class?'}</h2>
               <p className="text-lg mb-6 opacity-90">
-                Browse verified cooking classes across all five cities on these trusted booking platforms.
+                {isNl ? 'Bekijk geverifieerde kooklessen in alle vijf steden op deze vertrouwde boekingsplatformen.' : 'Browse verified cooking classes across all five cities on these trusted booking platforms.'}
               </p>
               <div className="flex flex-col sm:flex-row gap-4 justify-center">
                 <a
@@ -857,7 +865,7 @@ export default function BestCookingClassesPage({ cities, topClasses }: Props) {
                 </a>
               </div>
               <p className="text-xs text-white/70 mt-4">
-                We may earn a commission when you book through our links, at no extra cost to you.
+                {isNl ? 'We kunnen een commissie ontvangen wanneer je boekt via onze links, zonder extra kosten voor jou.' : 'We may earn a commission when you book through our links, at no extra cost to you.'}
               </p>
             </div>
 
@@ -865,7 +873,7 @@ export default function BestCookingClassesPage({ cities, topClasses }: Props) {
             <div className="bg-white rounded-2xl shadow-md p-8 mb-12">
               <p className="section-label">FAQ</p>
               <h2 className="text-2xl font-bold font-heading text-gray-900 mb-6">
-                Frequently Asked Questions
+                {isNl ? 'Veelgestelde Vragen' : 'Frequently Asked Questions'}
               </h2>
               <div className="space-y-6">
                 {faqItems.map((item, i) => (
