@@ -1,4 +1,5 @@
 import { GetStaticProps, GetStaticPaths } from 'next';
+import { useRouter } from 'next/router';
 import Link from 'next/link';
 import { getCityBySlug, getCityStaticPaths, generateCityMetadata, generateBreadcrumbs } from '../../../lib/cities';
 import Breadcrumbs from '../../../components/Breadcrumbs';
@@ -85,7 +86,12 @@ const categoryColors: Record<string, string> = {
 };
 
 export default function CityHotelsPage({ city, hotelData, hasTop10Hotels, enhancedHotels }: CityHotelsPageProps) {
+  const { locale } = useRouter();
+  const lang = locale === 'nl' ? 'nl' : 'en';
+
   if (!city) return <div>City not found</div>;
+
+  const cityName = city.name[lang] || city.name.en;
 
   // Flatten any bilingual objects in enhanced hotels
   const hotels: EnhancedHotel[] = (enhancedHotels || []).map((h: any) => flattenBilingual(h));
@@ -125,10 +131,10 @@ export default function CityHotelsPage({ city, hotelData, hasTop10Hotels, enhanc
             <Breadcrumbs items={breadcrumbs} />
             <div className="text-center">
               <h1 className="text-4xl lg:text-5xl font-bold font-heading text-gray-900 mb-4">
-                Hotels & Stay in {city.name.en}
+                {lang === 'nl' ? `Hotels & Verblijf in ${cityName}` : `Hotels & Stay in ${cityName}`}
               </h1>
               <p className="text-xl text-gray-600 max-w-3xl mx-auto">
-                {city.categories.hotels.en}
+                {lang === 'nl' ? city.categories.hotels.nl : city.categories.hotels.en}
               </p>
             </div>
           </div>
@@ -138,7 +144,7 @@ export default function CityHotelsPage({ city, hotelData, hasTop10Hotels, enhanc
           <section className="section-padding pt-8">
             <div className="container-custom">
               <CitySupportSources
-                cityName={city.name.en}
+                cityName={cityName}
                 contentSources={city.contentSources}
                 reviewedBy={city.reviewed_by}
                 reviewedAt={city.reviewed_at}
@@ -157,7 +163,7 @@ export default function CityHotelsPage({ city, hotelData, hasTop10Hotels, enhanc
                 {/* Best Areas to Stay */}
                 {hotelData && (
                 <div>
-                  <h2 className="text-3xl font-bold font-heading text-gray-900 mb-8">Best Areas to Stay in {city.name.en}</h2>
+                  <h2 className="text-3xl font-bold font-heading text-gray-900 mb-8">{lang === 'nl' ? `Beste Gebieden om te Verblijven in ${cityName}` : `Best Areas to Stay in ${cityName}`}</h2>
                   <div className="grid grid-cols-1 lg:grid-cols-2 gap-6">
                     {hotelData.areas.map((area, index) => (
                       <div key={index} className="bg-white rounded-2xl shadow-md p-6">
@@ -201,22 +207,22 @@ export default function CityHotelsPage({ city, hotelData, hasTop10Hotels, enhanc
                 {/* Accommodation Types */}
                 {hotelData && (
                 <div className="bg-surface-cream rounded-2xl p-8">
-                  <h2 className="text-2xl font-bold font-heading text-gray-900 mb-6">Accommodation Types</h2>
+                  <h2 className="text-2xl font-bold font-heading text-gray-900 mb-6">{lang === 'nl' ? 'Accommodatie Types' : 'Accommodation Types'}</h2>
                   <div className="grid grid-cols-1 md:grid-cols-3 gap-6">
                     <div className="bg-white rounded-2xl p-6">
-                      <h3 className="text-lg font-bold font-heading text-gray-900 mb-2">Budget</h3>
-                      <p className="text-gray-600 mb-2">Basic and practical</p>
-                      <p className="text-sm text-gray-600">Simple chain hotels, guesthouses, and functional rooms where predictability matters more than extras.</p>
+                      <h3 className="text-lg font-bold font-heading text-gray-900 mb-2">{lang === 'nl' ? 'Budget' : 'Budget'}</h3>
+                      <p className="text-gray-600 mb-2">{lang === 'nl' ? 'Basis en praktisch' : 'Basic and practical'}</p>
+                      <p className="text-sm text-gray-600">{lang === 'nl' ? 'Eenvoudige ketenhotels, gasthuizen en functionele kamers waar voorspelbaarheid belangrijker is dan extra\'s.' : 'Simple chain hotels, guesthouses, and functional rooms where predictability matters more than extras.'}</p>
                     </div>
                     <div className="bg-white rounded-2xl p-6">
-                      <h3 className="text-lg font-bold font-heading text-gray-900 mb-2">Mid-Range</h3>
-                      <p className="text-gray-600 mb-2">Balanced comfort</p>
-                      <p className="text-sm text-gray-600">City hotels and riverside stays that add more space, better common areas, or a stronger location logic.</p>
+                      <h3 className="text-lg font-bold font-heading text-gray-900 mb-2">{lang === 'nl' ? 'Midden Klasse' : 'Mid-Range'}</h3>
+                      <p className="text-gray-600 mb-2">{lang === 'nl' ? 'Gebalanceerd comfort' : 'Balanced comfort'}</p>
+                      <p className="text-sm text-gray-600">{lang === 'nl' ? 'Stadshotels en verblijven aan het water met meer ruimte, betere gemeenschappelijke ruimtes of een sterkere locatielogica.' : 'City hotels and riverside stays that add more space, better common areas, or a stronger location logic.'}</p>
                     </div>
                     <div className="bg-white rounded-2xl p-6">
-                      <h3 className="text-lg font-bold font-heading text-gray-900 mb-2">Higher-End</h3>
-                      <p className="text-gray-600 mb-2">More deliberate stay choice</p>
-                      <p className="text-sm text-gray-600">Polished riverside or full-service properties where the hotel itself becomes part of the trip instead of only a bed for the night.</p>
+                      <h3 className="text-lg font-bold font-heading text-gray-900 mb-2">{lang === 'nl' ? 'Luxe' : 'Higher-End'}</h3>
+                      <p className="text-gray-600 mb-2">{lang === 'nl' ? 'Een bewustere verblijfskeuze' : 'More deliberate stay choice'}</p>
+                      <p className="text-sm text-gray-600">{lang === 'nl' ? 'Verfijnde verblijven aan het water of full-service accommodaties waar het hotel zelf onderdeel wordt van de reis in plaats van alleen een bed voor de nacht.' : 'Polished riverside or full-service properties where the hotel itself becomes part of the trip instead of only a bed for the night.'}</p>
                     </div>
                   </div>
                 </div>
@@ -225,9 +231,11 @@ export default function CityHotelsPage({ city, hotelData, hasTop10Hotels, enhanc
                 {/* Recommended Hotels from Enhanced Data */}
                 {hotels.length > 0 && (
                   <div>
-                    <h2 className="text-3xl font-bold font-heading text-gray-900 mb-8">Recommended Hotels in {city.name.en}</h2>
+                    <h2 className="text-3xl font-bold font-heading text-gray-900 mb-8">{lang === 'nl' ? `Aanbevolen Hotels in ${cityName}` : `Recommended Hotels in ${cityName}`}</h2>
                     <p className="text-gray-600 mb-6">
-                      Use these hotel names as area-by-area planning references while you compare stay styles and neighborhood fit.
+                      {lang === 'nl'
+                        ? 'Gebruik deze hotelnamen als wijk-voor-wijk planningsreferenties terwijl je verblijfstijlen en buurtgeschiktheid vergelijkt.'
+                        : 'Use these hotel names as area-by-area planning references while you compare stay styles and neighborhood fit.'}
                     </p>
                     {categoryOrder.map((cat) => {
                       const catHotels = hotelsByCategory[cat];
@@ -273,7 +281,7 @@ export default function CityHotelsPage({ city, hotelData, hasTop10Hotels, enhanc
                 {/* Booking Tips */}
                 {hotelData && (
                 <div>
-                  <h2 className="text-2xl font-bold font-heading text-gray-900 mb-6">Hotel Planning Notes for {city.name.en}</h2>
+                  <h2 className="text-2xl font-bold font-heading text-gray-900 mb-6">{lang === 'nl' ? `Hotel Planning Tips voor ${cityName}` : `Hotel Planning Notes for ${cityName}`}</h2>
                   <div className="bg-white rounded-2xl shadow-md p-6">
                     <ul className="space-y-3">
                       {hotelData.booking_tips.map((tip, index) => (
@@ -297,10 +305,10 @@ export default function CityHotelsPage({ city, hotelData, hasTop10Hotels, enhanc
                 {/* Top 10 Hotels Link */}
                 {hasTop10Hotels && (
                   <div className="bg-surface-dark rounded-2xl p-8 text-center text-white">
-                    <h3 className="text-2xl font-bold font-heading mb-4">Looking for Specific Recommendations?</h3>
-                    <p className="mb-6 text-lg">Check out our curated list of the best hotels in {city.name.en}</p>
+                    <h3 className="text-2xl font-bold font-heading mb-4">{lang === 'nl' ? 'Op Zoek naar Specifieke Aanbevelingen?' : 'Looking for Specific Recommendations?'}</h3>
+                    <p className="mb-6 text-lg">{lang === 'nl' ? `Bekijk onze samengestelde lijst van de beste hotels in ${cityName}` : `Check out our curated list of the best hotels in ${cityName}`}</p>
                     <Link href={`/city/${city.slug}/top-10-hotels/`} className="inline-block bg-white text-thailand-blue px-8 py-3 rounded-xl font-semibold hover:bg-gray-100 transition-colors">
-                      View Top 10 Hotels →
+                      {lang === 'nl' ? 'Bekijk Top 10 Hotels →' : 'View Top 10 Hotels →'}
                     </Link>
                   </div>
                 )}
@@ -315,20 +323,22 @@ export default function CityHotelsPage({ city, hotelData, hasTop10Hotels, enhanc
                     </svg>
                   </div>
                   <h3 className="text-2xl font-bold font-heading text-gray-900 mb-4">
-                    Where to Stay in {city.name.en}
+                    {lang === 'nl' ? `Waar te Verblijven in ${cityName}` : `Where to Stay in ${cityName}`}
                   </h3>
                   <p className="text-gray-600 mb-6">
-                    Detailed hotel guides for {city.name.en} are being prepared. Browse our city overview for travel tips and general accommodation advice.
+                    {lang === 'nl'
+                      ? `Gedetailleerde hotelgidsen voor ${cityName} worden voorbereid. Bekijk ons stadsoverzicht voor reistips en algemeen accommodatieadvies.`
+                      : `Detailed hotel guides for ${cityName} are being prepared. Browse our city overview for travel tips and general accommodation advice.`}
                   </p>
                   <Link href={`/city/${city.slug}/`} className="btn-primary">
-                    ← Back to {city.name.en}
+                    {lang === 'nl' ? `← Terug naar ${cityName}` : `← Back to ${cityName}`}
                   </Link>
                 </div>
               </div>
             )}
             <div className="bg-white rounded-2xl shadow-md p-8">
               <h3 className="text-2xl font-bold font-heading text-gray-900 mb-6 text-center">
-                Explore More of {city.name.en}
+                {lang === 'nl' ? `Ontdek Meer van ${cityName}` : `Explore More of ${cityName}`}
               </h3>
               <div className="grid grid-cols-1 md:grid-cols-2 gap-4">
                 <Link href={`/city/${city.slug}/attractions/`} className="flex items-center p-4 border-0 bg-surface-cream rounded-2xl hover:shadow-md transition-all duration-300">
@@ -338,8 +348,8 @@ export default function CityHotelsPage({ city, hotelData, hasTop10Hotels, enhanc
                     </svg>
                   </div>
                   <div>
-                    <h4 className="font-semibold text-gray-900">Attractions</h4>
-                    <p className="text-gray-600 text-sm">See top attractions</p>
+                    <h4 className="font-semibold text-gray-900">{lang === 'nl' ? 'Bezienswaardigheden' : 'Attractions'}</h4>
+                    <p className="text-gray-600 text-sm">{lang === 'nl' ? 'Bekijk top bezienswaardigheden' : 'See top attractions'}</p>
                   </div>
                 </Link>
                 <Link href={`/city/${city.slug}/food/`} className="flex items-center p-4 border-0 bg-surface-cream rounded-2xl hover:shadow-md transition-all duration-300">
@@ -349,12 +359,12 @@ export default function CityHotelsPage({ city, hotelData, hasTop10Hotels, enhanc
                     </svg>
                   </div>
                   <div>
-                    <h4 className="font-semibold text-gray-900">Food & Dining</h4>
-                    <p className="text-gray-600 text-sm">Discover local cuisine</p>
+                    <h4 className="font-semibold text-gray-900">{lang === 'nl' ? 'Eten & Drinken' : 'Food & Dining'}</h4>
+                    <p className="text-gray-600 text-sm">{lang === 'nl' ? 'Ontdek de lokale keuken' : 'Discover local cuisine'}</p>
                   </div>
                 </Link>
               </div>
-            <CityExploreMore citySlug={city.slug} cityName={city.name.en} currentPage="hotels" />
+            <CityExploreMore citySlug={city.slug} cityName={cityName} currentPage="hotels" />
             </div>
           </div>
         </section>

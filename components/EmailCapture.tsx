@@ -24,21 +24,23 @@ export default function EmailCapture({
   const [email, setEmail] = useState('');
   const [status, setStatus] = useState<'idle' | 'loading' | 'success' | 'error'>('idle');
 
+  const isNl = locale === 'nl';
+
   const defaults: Record<Variant, { heading: string; subtext: string; buttonText: string }> = {
     inline: {
-      heading: 'Get Free Thailand Travel Tips',
-      subtext: 'Join 1,000+ travelers. Weekly guides, hidden gems, and budget hacks — straight to your inbox.',
-      buttonText: 'Subscribe',
+      heading: isNl ? 'Ontvang Gratis Thailand Reistips' : 'Get Free Thailand Travel Tips',
+      subtext: isNl ? 'Sluit je aan bij 1.000+ reizigers. Wekelijkse gidsen, verborgen pareltjes en budget tips \u2014 direct in je inbox.' : 'Join 1,000+ travelers. Weekly guides, hidden gems, and budget hacks \u2014 straight to your inbox.',
+      buttonText: isNl ? 'Abonneren' : 'Subscribe',
     },
     sidebar: {
-      heading: 'Get Thailand Updates',
-      subtext: 'Weekly travel tips and guides',
-      buttonText: 'Subscribe',
+      heading: isNl ? 'Ontvang Thailand Updates' : 'Get Thailand Updates',
+      subtext: isNl ? 'Wekelijkse reistips en gidsen' : 'Weekly travel tips and guides',
+      buttonText: isNl ? 'Abonneren' : 'Subscribe',
     },
     hero: {
-      heading: 'Plan Your Perfect Thailand Trip',
-      subtext: 'Get insider tips, budget hacks, and hidden gems delivered weekly. Free forever.',
-      buttonText: 'Get Free Tips',
+      heading: isNl ? 'Plan je Perfecte Thailand Reis' : 'Plan Your Perfect Thailand Trip',
+      subtext: isNl ? 'Ontvang insidertips, budget hacks en verborgen pareltjes wekelijks. Voor altijd gratis.' : 'Get insider tips, budget hacks, and hidden gems delivered weekly. Free forever.',
+      buttonText: isNl ? 'Ontvang Gratis Tips' : 'Get Free Tips',
     },
   };
 
@@ -60,7 +62,7 @@ export default function EmailCapture({
       if (!res.ok) throw new Error();
       setStatus('idle');
       setEmail('');
-      toast.success("You're subscribed! Welcome aboard.");
+      toast.success(isNl ? 'Je bent geabonneerd! Welkom aan boord.' : "You're subscribed! Welcome aboard.");
     } catch {
       setStatus('error');
     }
@@ -69,7 +71,7 @@ export default function EmailCapture({
   if (variant === 'sidebar') {
     return (
       <div className={`bg-surface-dark text-white rounded-2xl p-6 ${className}`}>
-        <span className="section-label font-script text-thailand-gold text-sm">Stay in the loop</span>
+        <span className="section-label font-script text-thailand-gold text-sm">{isNl ? 'Blijf op de hoogte' : 'Stay in the loop'}</span>
         <h3 className="text-xl font-bold font-heading mb-2">{h}</h3>
         <p className="mb-4 text-sm opacity-90">{s}</p>
         <form onSubmit={handleSubmit}>
@@ -77,7 +79,7 @@ export default function EmailCapture({
             type="email"
             value={email}
             onChange={(e) => { setEmail(e.target.value); setStatus('idle'); }}
-            placeholder="Your email"
+            placeholder={isNl ? 'Je e-mailadres' : 'Your email'}
             required
             className="w-full px-4 py-2 rounded-xl text-gray-900 mb-3"
           />
@@ -86,10 +88,10 @@ export default function EmailCapture({
             disabled={status === 'loading'}
             className="w-full bg-thailand-red text-white font-medium py-2 rounded-xl hover:bg-thailand-red/90 transition-colors disabled:opacity-50"
           >
-            {status === 'loading' ? 'Subscribing...' : b}
+            {status === 'loading' ? (isNl ? 'Bezig met abonneren...' : 'Subscribing...') : b}
           </button>
           {status === 'error' && (
-            <p className="text-red-300 text-xs mt-2 text-center">Something went wrong. Try again.</p>
+            <p className="text-red-300 text-xs mt-2 text-center">{isNl ? 'Er ging iets mis. Probeer opnieuw.' : 'Something went wrong. Try again.'}</p>
           )}
         </form>
       </div>
@@ -106,7 +108,7 @@ export default function EmailCapture({
             type="email"
             value={email}
             onChange={(e) => { setEmail(e.target.value); setStatus('idle'); }}
-            placeholder="your@email.com"
+            placeholder={isNl ? 'je@email.com' : 'your@email.com'}
             required
             className="flex-1 px-4 py-3 rounded-xl border border-gray-200 text-gray-900 text-sm focus:outline-none focus:border-thailand-red focus:ring-1 focus:ring-thailand-red transition-colors"
           />
@@ -119,9 +121,9 @@ export default function EmailCapture({
           </button>
         </form>
         {status === 'error' && (
-          <p className="text-red-500 text-xs mt-2">Something went wrong. Try again.</p>
+          <p className="text-red-500 text-xs mt-2">{isNl ? 'Er ging iets mis. Probeer opnieuw.' : 'Something went wrong. Try again.'}</p>
         )}
-        <p className="text-xs text-gray-400 mt-2">No spam, unsubscribe anytime.</p>
+        <p className="text-xs text-gray-400 mt-2">{isNl ? 'Geen spam, afmelden wanneer je wilt.' : 'No spam, unsubscribe anytime.'}</p>
       </div>
     );
   }
@@ -139,7 +141,7 @@ export default function EmailCapture({
             type="email"
             value={email}
             onChange={(e) => { setEmail(e.target.value); setStatus('idle'); }}
-            placeholder="your@email.com"
+            placeholder={isNl ? 'je@email.com' : 'your@email.com'}
             required
             className="flex-1 px-4 py-2.5 rounded-xl border border-gray-200 text-gray-900 text-sm focus:outline-none focus:border-thailand-red focus:ring-1 focus:ring-thailand-red transition-colors"
           />
@@ -153,9 +155,9 @@ export default function EmailCapture({
         </form>
       </div>
       {status === 'error' && (
-        <p className="text-red-500 text-xs mt-2">Something went wrong. Try again.</p>
+        <p className="text-red-500 text-xs mt-2">{isNl ? 'Er ging iets mis. Probeer opnieuw.' : 'Something went wrong. Try again.'}</p>
       )}
-      <p className="text-xs text-gray-400 mt-2">Free forever. No spam, unsubscribe anytime.</p>
+      <p className="text-xs text-gray-400 mt-2">{isNl ? 'Voor altijd gratis. Geen spam, afmelden wanneer je wilt.' : 'Free forever. No spam, unsubscribe anytime.'}</p>
     </div>
   );
 }

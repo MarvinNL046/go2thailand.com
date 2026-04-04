@@ -99,12 +99,12 @@ export default function BlogPage({ posts, categories }: BlogPageProps) {
         <section className="bg-surface-dark text-white">
           <div className="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8 py-16">
             <div className="text-center">
-              <span className="font-script text-thailand-gold text-lg">Discover Thailand</span>
+              <span className="font-script text-thailand-gold text-lg">{locale === 'nl' ? 'Ontdek Thailand' : 'Discover Thailand'}</span>
               <h1 className="text-4xl lg:text-6xl font-bold font-heading mb-6">
-                Thailand Travel Blog
+                {locale === 'nl' ? 'Thailand Reisblog' : 'Thailand Travel Blog'}
               </h1>
               <p className="text-xl lg:text-2xl mb-8 max-w-3xl mx-auto opacity-90">
-                Stories, tips, and insights from the Land of Smiles
+                {locale === 'nl' ? 'Verhalen, tips en inzichten uit het Land van de Glimlach' : 'Stories, tips, and insights from the Land of Smiles'}
               </p>
             </div>
           </div>
@@ -118,7 +118,7 @@ export default function BlogPage({ posts, categories }: BlogPageProps) {
               <div className="relative w-full md:w-96">
                 <input
                   type="text"
-                  placeholder="Search blog posts..."
+                  placeholder={locale === 'nl' ? 'Zoek blog posts...' : 'Search blog posts...'}
                   value={searchQuery}
                   onChange={(e) => handleSearchChange(e.target.value)}
                   className="w-full px-4 py-2 pr-10 border border-gray-200 rounded-xl focus:outline-none focus:border-thailand-blue"
@@ -143,7 +143,7 @@ export default function BlogPage({ posts, categories }: BlogPageProps) {
                     : 'bg-surface-cream text-gray-700 hover:bg-gray-200'
                 }`}
               >
-                All Posts
+                {locale === 'nl' ? 'Alle Posts' : 'All Posts'}
               </button>
               {categories.map(category => (
                 <button
@@ -180,7 +180,7 @@ export default function BlogPage({ posts, categories }: BlogPageProps) {
                           className="object-cover hover:scale-105 transition-transform duration-300"
                         />
                         <div className="absolute top-4 left-4 bg-thailand-red text-white px-3 py-1 rounded-full text-sm font-medium">
-                          Featured
+                          {locale === 'nl' ? 'Uitgelicht' : 'Featured'}
                         </div>
                       </div>
                     </Link>
@@ -190,7 +190,7 @@ export default function BlogPage({ posts, categories }: BlogPageProps) {
                         <span>-</span>
                         <span>{featuredPost.date}</span>
                         <span>-</span>
-                        <span>{featuredPost.readingTime} min read</span>
+                        <span>{featuredPost.readingTime} {locale === 'nl' ? 'min lezen' : 'min read'}</span>
                       </div>
                       <h2 className="text-3xl font-bold font-heading mb-4">
                         <Link href={`/blog/${featuredPost.slug}/`} className="hover:text-thailand-blue transition-colors">
@@ -203,7 +203,7 @@ export default function BlogPage({ posts, categories }: BlogPageProps) {
                           {featuredPost.category}
                         </span>
                         <Link href={`/blog/${featuredPost.slug}/`} className="text-thailand-blue font-medium hover:underline">
-                          Read More →
+                          {locale === 'nl' ? 'Lees Meer' : 'Read More'} →
                         </Link>
                       </div>
                     </div>
@@ -246,7 +246,7 @@ export default function BlogPage({ posts, categories }: BlogPageProps) {
 
                 {filteredPosts.length === 0 && (
                   <div className="text-center py-12 bg-white rounded-2xl">
-                    <p className="text-gray-600 text-lg">No posts found matching your criteria.</p>
+                    <p className="text-gray-600 text-lg">{locale === 'nl' ? 'Geen posts gevonden die aan je criteria voldoen.' : 'No posts found matching your criteria.'}</p>
                   </div>
                 )}
 
@@ -258,7 +258,7 @@ export default function BlogPage({ posts, categories }: BlogPageProps) {
                       disabled={currentPage === 1}
                       className="px-4 py-2 rounded-lg bg-white shadow-sm border border-gray-200 text-gray-700 hover:bg-gray-50 disabled:opacity-40 disabled:cursor-not-allowed transition-colors"
                     >
-                      ← Previous
+                      {locale === 'nl' ? '← Vorige' : '← Previous'}
                     </button>
 
                     {Array.from({ length: totalPages }, (_, i) => i + 1)
@@ -291,7 +291,7 @@ export default function BlogPage({ posts, categories }: BlogPageProps) {
                       disabled={currentPage === totalPages}
                       className="px-4 py-2 rounded-lg bg-white shadow-sm border border-gray-200 text-gray-700 hover:bg-gray-50 disabled:opacity-40 disabled:cursor-not-allowed transition-colors"
                     >
-                      Next →
+                      {locale === 'nl' ? 'Volgende →' : 'Next →'}
                     </button>
                   </nav>
                 )}
@@ -299,7 +299,9 @@ export default function BlogPage({ posts, categories }: BlogPageProps) {
                 {/* Post count indicator */}
                 {filteredPosts.length > 0 && (
                   <p className="text-center text-sm text-gray-500 mt-4">
-                    Showing {(currentPage - 1) * POSTS_PER_PAGE + 1}–{Math.min(currentPage * POSTS_PER_PAGE, filteredPosts.length)} of {filteredPosts.length} posts
+                    {locale === 'nl'
+                      ? `${(currentPage - 1) * POSTS_PER_PAGE + 1}–${Math.min(currentPage * POSTS_PER_PAGE, filteredPosts.length)} van ${filteredPosts.length} posts weergegeven`
+                      : `Showing ${(currentPage - 1) * POSTS_PER_PAGE + 1}–${Math.min(currentPage * POSTS_PER_PAGE, filteredPosts.length)} of ${filteredPosts.length} posts`}
                   </p>
                 )}
               </div>
@@ -309,24 +311,24 @@ export default function BlogPage({ posts, categories }: BlogPageProps) {
                 <div className="lg:sticky lg:top-16 space-y-8">
                 {/* Newsletter Signup */}
                 <div className="bg-surface-dark text-white rounded-2xl p-6">
-                  <span className="section-label font-script text-thailand-gold text-sm">Stay in the loop</span>
-                  <h3 className="text-xl font-bold font-heading mb-2">Stay Updated</h3>
-                  <p className="mb-4 opacity-90">Get the latest Thailand travel tips delivered to your inbox</p>
+                  <span className="section-label font-script text-thailand-gold text-sm">{locale === 'nl' ? 'Blijf op de hoogte' : 'Stay in the loop'}</span>
+                  <h3 className="text-xl font-bold font-heading mb-2">{locale === 'nl' ? 'Blijf op de Hoogte' : 'Stay Updated'}</h3>
+                  <p className="mb-4 opacity-90">{locale === 'nl' ? 'Ontvang de laatste Thailand reistips in je inbox' : 'Get the latest Thailand travel tips delivered to your inbox'}</p>
                   <form className="space-y-3" onSubmit={e => e.preventDefault()}>
                     <input
                       type="email"
-                      placeholder="Your email address"
+                      placeholder={locale === 'nl' ? 'Je e-mailadres' : 'Your email address'}
                       className="w-full px-4 py-2 rounded-xl text-gray-900 focus:outline-none focus:ring-2 focus:ring-white"
                     />
                     <button className="w-full bg-thailand-red text-white font-medium py-2 rounded-xl hover:bg-thailand-red/90 transition-colors">
-                      Subscribe
+                      {locale === 'nl' ? 'Abonneren' : 'Subscribe'}
                     </button>
                   </form>
                 </div>
 
                 {/* Tags Cloud */}
                 <div className="bg-white rounded-2xl shadow-md p-6">
-                  <h3 className="text-xl font-bold font-heading mb-4">Popular Tags</h3>
+                  <h3 className="text-xl font-bold font-heading mb-4">{locale === 'nl' ? 'Populaire Tags' : 'Popular Tags'}</h3>
                   <div className="flex flex-wrap gap-2">
                     {['islands', 'food', 'budget', 'visa', 'beaches', 'planning', 'backpacking', 'bangkok', 'street-food'].map(tag => (
                       <Link
@@ -342,18 +344,18 @@ export default function BlogPage({ posts, categories }: BlogPageProps) {
 
                 {/* Explore More */}
                 <div className="bg-white rounded-2xl shadow-md p-6">
-                  <h3 className="text-xl font-bold font-heading mb-4">Explore More</h3>
+                  <h3 className="text-xl font-bold font-heading mb-4">{locale === 'nl' ? 'Meer Ontdekken' : 'Explore More'}</h3>
                   <div className="space-y-2">
-                    <Link href="/islands/" className="block text-thailand-blue hover:underline">Thailand Islands</Link>
-                    <Link href="/visa/" className="block text-thailand-blue hover:underline">Visa Guide</Link>
-                    <Link href="/food/" className="block text-thailand-blue hover:underline">Thai Food Guide</Link>
-                    <Link href="/practical-info/" className="block text-thailand-blue hover:underline">Practical Info</Link>
+                    <Link href="/islands/" className="block text-thailand-blue hover:underline">{locale === 'nl' ? 'Thailand Eilanden' : 'Thailand Islands'}</Link>
+                    <Link href="/visa/" className="block text-thailand-blue hover:underline">{locale === 'nl' ? 'Visum Gids' : 'Visa Guide'}</Link>
+                    <Link href="/food/" className="block text-thailand-blue hover:underline">{locale === 'nl' ? 'Thais Eten Gids' : 'Thai Food Guide'}</Link>
+                    <Link href="/practical-info/" className="block text-thailand-blue hover:underline">{locale === 'nl' ? 'Praktische Info' : 'Practical Info'}</Link>
                   </div>
                 </div>
 
                 {/* Book Hotels */}
                 <div className="bg-white rounded-2xl shadow-md p-6">
-                  <h3 className="text-xl font-bold font-heading mb-3">Book Hotels</h3>
+                  <h3 className="text-xl font-bold font-heading mb-3">{locale === 'nl' ? 'Boek Hotels' : 'Book Hotels'}</h3>
                   <div className="space-y-3">
                     <a
                       href="https://booking.tpo.lv/2PT1kR82?subid=blog-index"
@@ -377,7 +379,7 @@ export default function BlogPage({ posts, categories }: BlogPageProps) {
 
                 {/* Tours & Activities */}
                 <div className="bg-white rounded-2xl shadow-md p-6">
-                  <h3 className="text-xl font-bold font-heading mb-3">Tours & Activities</h3>
+                  <h3 className="text-xl font-bold font-heading mb-3">{locale === 'nl' ? 'Tours & Activiteiten' : 'Tours & Activities'}</h3>
                   <div className="space-y-3">
                     <a
                       href="https://klook.tpo.lv/7Dt6WApj?subid=blog-index"
@@ -403,7 +405,7 @@ export default function BlogPage({ posts, categories }: BlogPageProps) {
                 <div className="bg-white rounded-2xl shadow-md p-6">
                   <h3 className="text-xl font-bold font-heading mb-2">Thailand eSIM</h3>
                   <p className="text-sm text-gray-600 mb-4">
-                    Stay connected in Thailand. Order your eSIM before you go.
+                    {locale === 'nl' ? 'Blijf verbonden in Thailand. Bestel je eSIM voordat je gaat.' : 'Stay connected in Thailand. Order your eSIM before you go.'}
                   </p>
                   <a
                     href="https://saily.tpo.lv/rf9lidnE?subid=blog-index"
@@ -414,7 +416,7 @@ export default function BlogPage({ posts, categories }: BlogPageProps) {
                     Saily eSIM
                   </a>
                   <Link href="/esim/" className="block text-thailand-blue text-center text-sm hover:underline">
-                    More eSIM options →
+                    {locale === 'nl' ? 'Meer eSIM opties' : 'More eSIM options'} →
                   </Link>
                 </div>
 
@@ -422,12 +424,12 @@ export default function BlogPage({ posts, categories }: BlogPageProps) {
 
                 {/* Travel Insurance */}
                 <div className="bg-surface-dark text-white rounded-2xl p-6">
-                  <h3 className="text-xl font-bold font-heading mb-2">Travel Insurance</h3>
+                  <h3 className="text-xl font-bold font-heading mb-2">{locale === 'nl' ? 'Reisverzekering' : 'Travel Insurance'}</h3>
                   <p className="text-sm opacity-90 mb-4">
-                    Protect yourself while traveling. Compare the best travel insurance.
+                    {locale === 'nl' ? 'Bescherm jezelf tijdens het reizen. Vergelijk de beste reisverzekeringen.' : 'Protect yourself while traveling. Compare the best travel insurance.'}
                   </p>
                   <Link href="/travel-insurance-thailand/" className="block bg-thailand-red text-white text-center px-4 py-2 rounded-xl font-semibold hover:bg-thailand-red/90 transition-colors">
-                    Compare Now
+                    {locale === 'nl' ? 'Vergelijk Nu' : 'Compare Now'}
                   </Link>
                 </div>
 
@@ -440,10 +442,10 @@ export default function BlogPage({ posts, categories }: BlogPageProps) {
                     rel="noopener noreferrer"
                     className="block bg-thailand-blue text-white text-center px-4 py-2 rounded-xl font-semibold hover:bg-thailand-blue/90 transition-colors text-sm mb-2"
                   >
-                    12Go Asia - Book Transport
+                    {locale === 'nl' ? '12Go Asia - Boek Transport' : '12Go Asia - Book Transport'}
                   </a>
                   <Link href="/transport/" className="block text-thailand-blue text-center text-sm hover:underline">
-                    View all routes →
+                    {locale === 'nl' ? 'Bekijk alle routes' : 'View all routes'} →
                   </Link>
                 </div>
                 </div>
@@ -453,8 +455,8 @@ export default function BlogPage({ posts, categories }: BlogPageProps) {
         </section>
 
         <PreFooterAffiliateBanner
-          title="Plan Your Thailand Trip"
-          description="Book hotels, transport, activities, and get connected with an eSIM"
+          title={locale === 'nl' ? 'Plan je Thailand Reis' : 'Plan Your Thailand Trip'}
+          description={locale === 'nl' ? 'Boek hotels, transport, activiteiten en blijf verbonden met een eSIM' : 'Book hotels, transport, activities, and get connected with an eSIM'}
           links={[
             { label: 'Booking.com', href: 'https://booking.tpo.lv/2PT1kR82?subid=blog-index' },
             { label: 'Trip.com', href: 'https://trip.tpo.lv/TmObooZ5?subid=blog-index' },

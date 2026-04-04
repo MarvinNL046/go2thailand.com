@@ -1,5 +1,6 @@
 import { GetStaticPaths, GetStaticProps } from 'next';
 import { useState } from 'react';
+import { useRouter } from 'next/router';
 import Link from 'next/link';
 import Image from 'next/image';
 import SEOHead from '../../components/SEOHead';
@@ -177,14 +178,16 @@ function getActivityIcon(type?: string) {
 
 export default function ItineraryPage({ itinerary, relatedItineraries }: ItineraryPageProps) {
   const [activeAccomTab, setActiveAccomTab] = useState<'budget' | 'mid' | 'luxury'>('mid');
+  const { locale } = useRouter();
+  const tr = (en: string, nl: string) => locale === 'nl' ? nl : en;
 
   if (!itinerary) {
-    return <div>Itinerary not found</div>;
+    return <div>{tr('Itinerary not found', 'Reisroute niet gevonden')}</div>;
   }
 
   const breadcrumbs = [
-    { name: 'Home', href: '/' },
-    { name: 'Itineraries', href: '/itineraries/' },
+    { name: tr('Home', 'Home'), href: '/' },
+    { name: tr('Itineraries', 'Reisroutes'), href: '/itineraries/' },
     { name: itinerary.title, href: `/itineraries/${itinerary.slug}/` }
   ];
 
@@ -371,32 +374,32 @@ export default function ItineraryPage({ itinerary, relatedItineraries }: Itinera
 
                 {/* Overview & Key Stats */}
                 <div className="bg-white rounded-2xl shadow-md p-8 mb-8">
-                  <h2 className="text-3xl font-bold font-heading text-gray-900 mb-6">Overview</h2>
+                  <h2 className="text-3xl font-bold font-heading text-gray-900 mb-6">{tr('Overview', 'Overzicht')}</h2>
                   <p className="text-gray-700 leading-relaxed mb-6">{itinerary.description}</p>
 
                   <div className="grid grid-cols-2 md:grid-cols-4 gap-4">
                     <div className="bg-surface-cream rounded-xl p-4 text-center">
                       <div className="text-2xl font-bold text-thailand-blue">{itinerary.duration}</div>
-                      <div className="text-sm text-gray-600">Days</div>
+                      <div className="text-sm text-gray-600">{tr('Days', 'Dagen')}</div>
                     </div>
                     <div className="bg-surface-cream rounded-xl p-4 text-center">
                       <div className="text-2xl font-bold text-thailand-red">{itinerary.cities?.length || '-'}</div>
-                      <div className="text-sm text-gray-600">Cities</div>
+                      <div className="text-sm text-gray-600">{tr('Cities', 'Steden')}</div>
                     </div>
                     <div className="bg-surface-cream rounded-xl p-4 text-center">
                       <div className="text-lg font-bold text-thailand-blue">{itinerary.budget?.budget || '-'}</div>
-                      <div className="text-sm text-gray-600">Min Budget</div>
+                      <div className="text-sm text-gray-600">{tr('Min Budget', 'Min Budget')}</div>
                     </div>
                     <div className="bg-surface-cream rounded-xl p-4 text-center">
                       <div className="text-lg font-bold text-thailand-blue">{itinerary.highlights?.length || '-'}</div>
-                      <div className="text-sm text-gray-600">Highlights</div>
+                      <div className="text-sm text-gray-600">{tr('Highlights', 'Hoogtepunten')}</div>
                     </div>
                   </div>
 
                   {/* Highlights */}
                   {itinerary.highlights && itinerary.highlights.length > 0 && (
                     <div className="mt-6">
-                      <h3 className="text-lg font-semibold font-heading text-gray-900 mb-3">Trip Highlights</h3>
+                      <h3 className="text-lg font-semibold font-heading text-gray-900 mb-3">{tr('Trip Highlights', 'Reis Hoogtepunten')}</h3>
                       <div className="grid grid-cols-1 md:grid-cols-2 gap-2">
                         {itinerary.highlights.map((highlight, idx) => (
                           <div key={idx} className="flex items-center">
@@ -413,8 +416,8 @@ export default function ItineraryPage({ itinerary, relatedItineraries }: Itinera
 
                 {/* Day-by-Day Timeline */}
                 <div className="mb-8">
-                  <span className="font-script text-thailand-gold text-lg">Your journey</span>
-                  <h2 className="text-3xl font-bold font-heading text-gray-900 mb-8 mt-1">Day-by-Day Itinerary</h2>
+                  <span className="font-script text-thailand-gold text-lg">{tr('Your journey', 'Jouw reis')}</span>
+                  <h2 className="text-3xl font-bold font-heading text-gray-900 mb-8 mt-1">{tr('Day-by-Day Itinerary', 'Dag-voor-Dag Reisroute')}</h2>
 
                   {itinerary.days && itinerary.days.map((day) => (
                     <div key={day.day} className="relative mb-8">
@@ -455,7 +458,7 @@ export default function ItineraryPage({ itinerary, relatedItineraries }: Itinera
                                 <svg className="w-5 h-5 text-thailand-blue mr-2" fill="none" stroke="currentColor" viewBox="0 0 24 24">
                                   <path strokeLinecap="round" strokeLinejoin="round" strokeWidth="2" d="M9 5H7a2 2 0 00-2 2v12a2 2 0 002 2h10a2 2 0 002-2V7a2 2 0 00-2-2h-2M9 5a2 2 0 002 2h2a2 2 0 002-2M9 5a2 2 0 012-2h2a2 2 0 012 2" />
                                 </svg>
-                                Activities
+                                {tr('Activities', 'Activiteiten')}
                               </h4>
                               <div className="space-y-3">
                                 {day.activities.map((activity, idx) => (
@@ -508,7 +511,7 @@ export default function ItineraryPage({ itinerary, relatedItineraries }: Itinera
                                 <svg className="w-5 h-5 text-orange-500 mr-2" fill="none" stroke="currentColor" viewBox="0 0 24 24">
                                   <path strokeLinecap="round" strokeLinejoin="round" strokeWidth="2" d="M12 6.253v13m0-13C10.832 5.477 9.246 5 7.5 5S4.168 5.477 3 6.253v13C4.168 18.477 5.754 18 7.5 18s3.332.477 4.5 1.253m0-13C13.168 5.477 14.754 5 16.5 5c1.746 0 3.332.477 4.5 1.253v13C19.832 18.477 18.246 18 16.5 18c-1.746 0-3.332.477-4.5 1.253" />
                                 </svg>
-                                Meals
+                                {tr('Meals', 'Maaltijden')}
                               </h4>
                               <div className="grid grid-cols-1 md:grid-cols-3 gap-3">
                                 {day.meals.map((meal, idx) => (
@@ -530,7 +533,7 @@ export default function ItineraryPage({ itinerary, relatedItineraries }: Itinera
                                 <svg className="w-5 h-5 text-indigo-500 mr-2" fill="none" stroke="currentColor" viewBox="0 0 24 24">
                                   <path strokeLinecap="round" strokeLinejoin="round" strokeWidth="2" d="M19 21V5a2 2 0 00-2-2H7a2 2 0 00-2 2v16m14 0h2m-2 0h-5m-9 0H3m2 0h5M9 7h1m-1 4h1m4-4h1m-1 4h1m-5 10v-5a1 1 0 011-1h2a1 1 0 011 1v5m-4 0h4" />
                                 </svg>
-                                Where to Stay
+                                {tr('Where to Stay', 'Waar Verblijven')}
                               </h4>
                               <div className="flex gap-1 mb-3">
                                 {(['budget', 'mid', 'luxury'] as const).map(tab => (
@@ -543,7 +546,7 @@ export default function ItineraryPage({ itinerary, relatedItineraries }: Itinera
                                         : 'bg-gray-100 text-gray-600 hover:bg-gray-200'
                                     }`}
                                   >
-                                    {tab === 'budget' ? 'Budget' : tab === 'mid' ? 'Mid-Range' : 'Luxury'}
+                                    {tab === 'budget' ? 'Budget' : tab === 'mid' ? tr('Mid-Range', 'Midden') : 'Luxury'}
                                   </button>
                                 ))}
                               </div>
@@ -563,7 +566,7 @@ export default function ItineraryPage({ itinerary, relatedItineraries }: Itinera
                                       rel="noopener noreferrer"
                                       className="inline-block mt-2 text-sm text-thailand-blue font-medium hover:underline"
                                     >
-                                      Check availability &rarr;
+                                      {tr('Check availability', 'Beschikbaarheid bekijken')} &rarr;
                                     </a>
                                   )}
                                 </div>
@@ -592,7 +595,7 @@ export default function ItineraryPage({ itinerary, relatedItineraries }: Itinera
                 {itinerary.transport && itinerary.transport.length > 0 && (
                   <div className="bg-white rounded-2xl shadow-md p-8 mb-8">
                     <h2 className="text-2xl font-bold font-heading text-gray-900 mb-6">
-                      Transport Between Cities
+                      {tr('Transport Between Cities', 'Transport Tussen Steden')}
                     </h2>
                     <div className="space-y-4">
                       {itinerary.transport.map((segment, idx) => (
@@ -620,7 +623,7 @@ export default function ItineraryPage({ itinerary, relatedItineraries }: Itinera
                                       rel="noopener noreferrer"
                                       className="text-xs text-thailand-blue hover:underline"
                                     >
-                                      Book now
+                                      {tr('Book now', 'Boek nu')}
                                     </a>
                                   )}
                                 </div>
@@ -637,9 +640,9 @@ export default function ItineraryPage({ itinerary, relatedItineraries }: Itinera
                         rel="noopener noreferrer"
                         className="inline-block bg-thailand-blue text-white px-6 py-2 rounded-xl font-semibold hover:bg-thailand-red transition-colors text-sm"
                       >
-                        Compare all routes on 12Go Asia
+                        {tr('Compare all routes on 12Go Asia', 'Vergelijk alle routes op 12Go Asia')}
                       </a>
-                      <p className="text-xs text-gray-500 mt-2">Affiliate link</p>
+                      <p className="text-xs text-gray-500 mt-2">{tr('Affiliate link', 'Affiliate link')}</p>
                     </div>
                   </div>
                 )}
@@ -648,15 +651,15 @@ export default function ItineraryPage({ itinerary, relatedItineraries }: Itinera
                 {itinerary.budgetBreakdown && itinerary.budgetBreakdown.length > 0 && (
                   <div className="bg-white rounded-2xl shadow-md p-8 mb-8">
                     <h2 className="text-2xl font-bold font-heading text-gray-900 mb-6">
-                      Budget Breakdown
+                      {tr('Budget Breakdown', 'Budget Overzicht')}
                     </h2>
                     <div className="overflow-x-auto">
                       <table className="w-full text-sm">
                         <thead>
                           <tr className="border-b-2 border-gray-200">
-                            <th className="text-left py-3 pr-4 font-semibold text-gray-900">Category</th>
+                            <th className="text-left py-3 pr-4 font-semibold text-gray-900">{tr('Category', 'Categorie')}</th>
                             <th className="text-center py-3 px-4 font-semibold text-thailand-blue">Budget</th>
-                            <th className="text-center py-3 px-4 font-semibold text-thailand-blue">Mid-Range</th>
+                            <th className="text-center py-3 px-4 font-semibold text-thailand-blue">{tr('Mid-Range', 'Midden')}</th>
                             <th className="text-center py-3 px-4 font-semibold text-thailand-red">Luxury</th>
                           </tr>
                         </thead>
@@ -672,7 +675,7 @@ export default function ItineraryPage({ itinerary, relatedItineraries }: Itinera
                         </tbody>
                         <tfoot>
                           <tr className="border-t-2 border-gray-300 bg-surface-cream">
-                            <td className="py-3 pr-4 font-bold text-gray-900">Total</td>
+                            <td className="py-3 pr-4 font-bold text-gray-900">{tr('Total', 'Totaal')}</td>
                             <td className="py-3 px-4 text-center font-bold text-thailand-blue">{itinerary.budget.budget}</td>
                             <td className="py-3 px-4 text-center font-bold text-thailand-blue">{itinerary.budget.mid}</td>
                             <td className="py-3 px-4 text-center font-bold text-thailand-red">{itinerary.budget.luxury}</td>
@@ -687,7 +690,7 @@ export default function ItineraryPage({ itinerary, relatedItineraries }: Itinera
                 {itinerary.packingTips && itinerary.packingTips.length > 0 && (
                   <div className="bg-white rounded-2xl shadow-md p-8 mb-8">
                     <h2 className="text-2xl font-bold font-heading text-gray-900 mb-6">
-                      Packing Tips
+                      {tr('Packing Tips', 'Inpaktips')}
                     </h2>
                     <div className="grid grid-cols-1 md:grid-cols-2 gap-3">
                       {itinerary.packingTips.map((tip, idx) => (
@@ -706,7 +709,7 @@ export default function ItineraryPage({ itinerary, relatedItineraries }: Itinera
                 {allFaqs.length > 0 && (
                   <div className="bg-white rounded-2xl shadow-md p-8 mb-8">
                     <h2 className="text-2xl font-bold font-heading text-gray-900 mb-6">
-                      Frequently Asked Questions
+                      {tr('Frequently Asked Questions', 'Veelgestelde Vragen')}
                     </h2>
                     <div className="space-y-4">
                       {allFaqs.map((faq, idx) => (
@@ -721,66 +724,66 @@ export default function ItineraryPage({ itinerary, relatedItineraries }: Itinera
                 {/* Related Guides */}
                 <div className="bg-surface-cream rounded-2xl p-8 mb-8">
                   <h2 className="text-2xl font-bold font-heading text-gray-900 mb-2">
-                    Plan Your Trip — Related Guides
+                    {tr('Plan Your Trip — Related Guides', 'Plan Je Reis — Gerelateerde Gidsen')}
                   </h2>
                   <p className="text-gray-600 text-sm mb-6">
-                    Everything you need to make the most of your Thailand adventure.
+                    {tr('Everything you need to make the most of your Thailand adventure.', 'Alles wat je nodig hebt om het meeste uit je Thailand avontuur te halen.')}
                   </p>
                   <div className="grid grid-cols-1 sm:grid-cols-2 gap-3">
                     <Link href="/city/" className="flex items-center gap-3 bg-white rounded-xl p-4 hover:shadow-md transition-shadow group">
                       <span className="text-2xl flex-shrink-0">🏙️</span>
                       <div>
-                        <div className="font-semibold text-thailand-blue group-hover:underline text-sm">City Guides</div>
-                        <div className="text-xs text-gray-500">Explore all 33 Thai cities in depth</div>
+                        <div className="font-semibold text-thailand-blue group-hover:underline text-sm">{tr('City Guides', 'Stadsgidsen')}</div>
+                        <div className="text-xs text-gray-500">{tr('Explore all 33 Thai cities in depth', 'Ontdek alle 33 Thaise steden uitgebreid')}</div>
                       </div>
                     </Link>
                     <Link href="/food/" className="flex items-center gap-3 bg-white rounded-xl p-4 hover:shadow-md transition-shadow group">
                       <span className="text-2xl flex-shrink-0">🍜</span>
                       <div>
-                        <div className="font-semibold text-thailand-blue group-hover:underline text-sm">Thai Food Guide</div>
-                        <div className="text-xs text-gray-500">Dishes, street food & where to eat</div>
+                        <div className="font-semibold text-thailand-blue group-hover:underline text-sm">{tr('Thai Food Guide', 'Thais Eten Gids')}</div>
+                        <div className="text-xs text-gray-500">{tr('Dishes, street food & where to eat', 'Gerechten, straateten & waar te eten')}</div>
                       </div>
                     </Link>
                     <Link href="/transport/" className="flex items-center gap-3 bg-white rounded-xl p-4 hover:shadow-md transition-shadow group">
                       <span className="text-2xl flex-shrink-0">🚌</span>
                       <div>
-                        <div className="font-semibold text-thailand-blue group-hover:underline text-sm">Transport Routes</div>
-                        <div className="text-xs text-gray-500">Buses, trains & ferries between cities</div>
+                        <div className="font-semibold text-thailand-blue group-hover:underline text-sm">{tr('Transport Routes', 'Transport Routes')}</div>
+                        <div className="text-xs text-gray-500">{tr('Buses, trains & ferries between cities', 'Bussen, treinen & veerboten tussen steden')}</div>
                       </div>
                     </Link>
                     <Link href="/islands/" className="flex items-center gap-3 bg-white rounded-xl p-4 hover:shadow-md transition-shadow group">
                       <span className="text-2xl flex-shrink-0">🏝️</span>
                       <div>
-                        <div className="font-semibold text-thailand-blue group-hover:underline text-sm">Thai Islands</div>
-                        <div className="text-xs text-gray-500">Best islands, beaches & dive spots</div>
+                        <div className="font-semibold text-thailand-blue group-hover:underline text-sm">{tr('Thai Islands', 'Thaise Eilanden')}</div>
+                        <div className="text-xs text-gray-500">{tr('Best islands, beaches & dive spots', 'Beste eilanden, stranden & duikplekken')}</div>
                       </div>
                     </Link>
                     <Link href="/thailand-index/" className="flex items-center gap-3 bg-white rounded-xl p-4 hover:shadow-md transition-shadow group">
                       <span className="text-2xl flex-shrink-0">📊</span>
                       <div>
-                        <div className="font-semibold text-thailand-blue group-hover:underline text-sm">Thailand Travel Index</div>
-                        <div className="text-xs text-gray-500">Compare costs, weather & rankings</div>
+                        <div className="font-semibold text-thailand-blue group-hover:underline text-sm">{tr('Thailand Travel Index', 'Thailand Reis Index')}</div>
+                        <div className="text-xs text-gray-500">{tr('Compare costs, weather & rankings', 'Vergelijk kosten, weer & ranglijsten')}</div>
                       </div>
                     </Link>
                     <Link href="/weather/" className="flex items-center gap-3 bg-white rounded-xl p-4 hover:shadow-md transition-shadow group">
                       <span className="text-2xl flex-shrink-0">☀️</span>
                       <div>
-                        <div className="font-semibold text-thailand-blue group-hover:underline text-sm">Weather Guide</div>
-                        <div className="text-xs text-gray-500">Best time to visit every region</div>
+                        <div className="font-semibold text-thailand-blue group-hover:underline text-sm">{tr('Weather Guide', 'Weergids')}</div>
+                        <div className="text-xs text-gray-500">{tr('Best time to visit every region', 'Beste tijd om elke regio te bezoeken')}</div>
                       </div>
                     </Link>
                     <Link href="/best-places-to-visit-thailand/" className="flex items-center gap-3 bg-white rounded-xl p-4 hover:shadow-md transition-shadow group">
                       <span className="text-2xl flex-shrink-0">📍</span>
                       <div>
-                        <div className="font-semibold text-thailand-blue group-hover:underline text-sm">Best Places to Visit</div>
-                        <div className="text-xs text-gray-500">Top destinations for every travel style</div>
+                        <div className="font-semibold text-thailand-blue group-hover:underline text-sm">{tr('Best Places to Visit', 'Beste Plekken om te Bezoeken')}</div>
+                        <div className="text-xs text-gray-500">{tr('Top destinations for every travel style', 'Topbestemmingen voor elke reisstijl')}</div>
                       </div>
                     </Link>
                     <Link href="/thailand-for-first-timers/" className="flex items-center gap-3 bg-white rounded-xl p-4 hover:shadow-md transition-shadow group">
                       <span className="text-2xl flex-shrink-0">✈️</span>
                       <div>
-                        <div className="font-semibold text-thailand-blue group-hover:underline text-sm">First Timer's Guide</div>
-                        <div className="text-xs text-gray-500">Essential tips before your first visit</div>
+                        <div className="font-semibold text-thailand-blue group-hover:underline text-sm">{tr("First Timer's Guide", 'Gids voor Eerste Keer')}</div>
+                        <div className="text-xs text-gray-500">{tr('Essential tips before your first visit', 'Essentiële tips voor je eerste bezoek')}</div>
                       </div>
                     </Link>
                   </div>
@@ -793,20 +796,20 @@ export default function ItineraryPage({ itinerary, relatedItineraries }: Itinera
 
                   {/* Quick Facts Card */}
                   <div className="bg-white rounded-2xl shadow-md p-6">
-                    <h3 className="text-xl font-bold font-heading text-gray-900 mb-4">Quick Facts</h3>
+                    <h3 className="text-xl font-bold font-heading text-gray-900 mb-4">{tr('Quick Facts', 'Snelle Feiten')}</h3>
                     <div className="space-y-3">
                       <div className="flex justify-between">
-                        <span className="text-gray-600">Duration:</span>
-                        <span className="font-medium">{itinerary.duration} Days</span>
+                        <span className="text-gray-600">{tr('Duration:', 'Duur:')}</span>
+                        <span className="font-medium">{itinerary.duration} {tr('Days', 'Dagen')}</span>
                       </div>
                       {itinerary.cities && itinerary.cities.length > 0 && (
                         <div className="flex justify-between">
-                          <span className="text-gray-600">Cities:</span>
+                          <span className="text-gray-600">{tr('Cities:', 'Steden:')}</span>
                           <span className="font-medium text-right text-sm">{itinerary.cities.join(', ')}</span>
                         </div>
                       )}
                       <div className="flex justify-between">
-                        <span className="text-gray-600">Region:</span>
+                        <span className="text-gray-600">{tr('Region:', 'Regio:')}</span>
                         <span className="font-medium">{itinerary.region}</span>
                       </div>
                       <div className="flex justify-between">
@@ -814,7 +817,7 @@ export default function ItineraryPage({ itinerary, relatedItineraries }: Itinera
                         <span className="font-medium text-thailand-blue">{itinerary.budget?.budget}</span>
                       </div>
                       <div className="flex justify-between">
-                        <span className="text-gray-600">Mid-Range:</span>
+                        <span className="text-gray-600">{tr('Mid-Range:', 'Midden:')}</span>
                         <span className="font-medium text-thailand-blue">{itinerary.budget?.mid}</span>
                       </div>
                       <div className="flex justify-between">
@@ -823,7 +826,7 @@ export default function ItineraryPage({ itinerary, relatedItineraries }: Itinera
                       </div>
                       {itinerary.bestTime && (
                         <div className="flex justify-between">
-                          <span className="text-gray-600">Best Time:</span>
+                          <span className="text-gray-600">{tr('Best Time:', 'Beste Tijd:')}</span>
                           <span className="font-medium text-sm">{itinerary.bestTime}</span>
                         </div>
                       )}
@@ -832,9 +835,9 @@ export default function ItineraryPage({ itinerary, relatedItineraries }: Itinera
 
                   {/* Book Your Trip Card */}
                   <div className="bg-white rounded-2xl shadow-md p-6">
-                    <h3 className="text-xl font-bold font-heading text-gray-900 mb-3">Book Your Trip</h3>
+                    <h3 className="text-xl font-bold font-heading text-gray-900 mb-3">{tr('Book Your Trip', 'Boek Je Reis')}</h3>
                     <p className="text-gray-600 text-sm mb-4">
-                      Get the best deals on hotels, transport, and activities for this itinerary.
+                      {tr('Get the best deals on hotels, transport, and activities for this itinerary.', 'Vind de beste deals voor hotels, transport en activiteiten voor deze reisroute.')}
                     </p>
                     <div className="space-y-3">
                       <a
@@ -862,7 +865,7 @@ export default function ItineraryPage({ itinerary, relatedItineraries }: Itinera
                         Klook - Activities & Tours
                       </a>
                     </div>
-                    <p className="text-xs text-gray-500 mt-3 text-center">Affiliate links</p>
+                    <p className="text-xs text-gray-500 mt-3 text-center">{tr('Affiliate links', 'Affiliate links')}</p>
                   </div>
 
                   {/* Trip.com Widget */}
@@ -871,7 +874,7 @@ export default function ItineraryPage({ itinerary, relatedItineraries }: Itinera
                   {/* Related Itineraries */}
                   {relatedItineraries.length > 0 && (
                     <div className="bg-white rounded-2xl shadow-md p-6">
-                      <h3 className="text-xl font-bold font-heading text-gray-900 mb-4">Related Itineraries</h3>
+                      <h3 className="text-xl font-bold font-heading text-gray-900 mb-4">{tr('Related Itineraries', 'Gerelateerde Reisroutes')}</h3>
                       <div className="space-y-4">
                         {relatedItineraries.map(related => (
                           <Link
@@ -906,7 +909,7 @@ export default function ItineraryPage({ itinerary, relatedItineraries }: Itinera
                         href="/itineraries/"
                         className="block text-thailand-blue text-center text-sm hover:underline mt-4 font-medium"
                       >
-                        View all itineraries &rarr;
+                        {tr('View all itineraries', 'Bekijk alle reisroutes')} &rarr;
                       </Link>
                     </div>
                   )}
@@ -915,7 +918,10 @@ export default function ItineraryPage({ itinerary, relatedItineraries }: Itinera
                   <div className="bg-white rounded-2xl shadow-md p-6">
                     <h3 className="text-xl font-bold font-heading mb-2">Thailand eSIM</h3>
                     <p className="text-sm text-gray-600 mb-4">
-                      Stay connected during your {itinerary.duration}-day trip. Order your eSIM before you go.
+                      {tr(
+                        `Stay connected during your ${itinerary.duration}-day trip. Order your eSIM before you go.`,
+                        `Blijf verbonden tijdens je ${itinerary.duration}-daagse reis. Bestel je eSIM voordat je vertrekt.`
+                      )}
                     </p>
                     <a
                       href="https://saily.tpo.lv/rf9lidnE?subid=itinerary"
@@ -926,18 +932,18 @@ export default function ItineraryPage({ itinerary, relatedItineraries }: Itinera
                       Saily eSIM
                     </a>
                     <Link href="/esim/" className="block text-thailand-blue text-center text-sm hover:underline">
-                      More eSIM options &rarr;
+                      {tr('More eSIM options', 'Meer eSIM opties')} &rarr;
                     </Link>
                   </div>
 
                   {/* Travel Insurance */}
                   <div className="bg-surface-dark text-white rounded-2xl p-6">
-                    <h3 className="text-xl font-bold font-heading mb-2">Travel Insurance</h3>
+                    <h3 className="text-xl font-bold font-heading mb-2">{tr('Travel Insurance', 'Reisverzekering')}</h3>
                     <p className="text-sm opacity-90 mb-4">
-                      Protect yourself while traveling Thailand. Compare the best travel insurance.
+                      {tr('Protect yourself while traveling Thailand. Compare the best travel insurance.', 'Bescherm jezelf tijdens je reis door Thailand. Vergelijk de beste reisverzekeringen.')}
                     </p>
                     <Link href="/travel-insurance-thailand/" className="block bg-white text-thailand-blue text-center px-4 py-2 rounded-xl font-semibold hover:bg-surface-cream transition-colors">
-                      Compare Now
+                      {tr('Compare Now', 'Vergelijk Nu')}
                     </Link>
                   </div>
                 </div>
@@ -947,8 +953,8 @@ export default function ItineraryPage({ itinerary, relatedItineraries }: Itinera
         </section>
 
         <PreFooterAffiliateBanner
-          title="Plan Your Thailand Trip"
-          description="Book hotels, transport, activities, and get connected with an eSIM"
+          title={tr('Plan Your Thailand Trip', 'Plan Je Thailand Reis')}
+          description={tr('Book hotels, transport, activities, and get connected with an eSIM', 'Boek hotels, transport, activiteiten en blijf verbonden met een eSIM')}
           links={[
             { label: 'Booking.com', href: 'https://booking.tpo.lv/2PT1kR82?subid=itinerary' },
             { label: 'Trip.com', href: 'https://trip.tpo.lv/TmObooZ5?subid=itinerary' },

@@ -1,4 +1,5 @@
 import Link from 'next/link';
+import { useRouter } from 'next/router';
 import { withSubId } from '../../lib/affiliates';
 import { useSubId } from '../../lib/useSubId';
 
@@ -6,13 +7,17 @@ const AFFILIATE_REL = 'sponsored nofollow noopener noreferrer';
 
 export default function TravelSecurityAffiliateBlock() {
   const subId = useSubId();
+  const { locale } = useRouter();
+  const isNl = locale === 'nl';
 
   return (
     <div className="bg-white rounded-2xl shadow-md p-6">
-      <span className="section-label font-script text-thailand-gold text-sm">Travel security</span>
-      <h3 className="text-xl font-bold font-heading mb-2">VPN & Password Manager</h3>
+      <span className="section-label font-script text-thailand-gold text-sm">{isNl ? 'Reis veiligheid' : 'Travel security'}</span>
+      <h3 className="text-xl font-bold font-heading mb-2">{isNl ? 'VPN & Wachtwoordbeheerder' : 'VPN & Password Manager'}</h3>
       <p className="text-sm text-gray-600 mb-4">
-        Protect your travel logins on the road with a VPN for public Wi-Fi and a password manager for stronger account security.
+        {isNl
+          ? 'Bescherm je reisgegevens onderweg met een VPN voor openbare Wi-Fi en een wachtwoordbeheerder voor sterkere accountbeveiliging.'
+          : 'Protect your travel logins on the road with a VPN for public Wi-Fi and a password manager for stronger account security.'}
       </p>
       <div className="space-y-3">
         <a
@@ -33,9 +38,9 @@ export default function TravelSecurityAffiliateBlock() {
         </a>
       </div>
       <Link href="/travel-security/" className="block text-thailand-blue text-center text-sm hover:underline mt-4">
-        See the full travel security guide →
+        {isNl ? 'Bekijk de volledige reisveiligheidsgids →' : 'See the full travel security guide →'}
       </Link>
-      <p className="text-xs text-gray-500 mt-3 text-center">Affiliate links</p>
+      <p className="text-xs text-gray-500 mt-3 text-center">{isNl ? 'Affiliate links' : 'Affiliate links'}</p>
     </div>
   );
 }

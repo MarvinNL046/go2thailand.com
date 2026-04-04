@@ -1,5 +1,6 @@
 import { useState, useEffect } from 'react';
 import Link from 'next/link';
+import { useRouter } from 'next/router';
 
 interface BookingHeroCTAProps {
   slug: string;
@@ -33,57 +34,69 @@ function detectBookingIntent(slug: string, category?: string, tags?: string[], p
   return null;
 }
 
-function getCtaContent(intent: BookingIntent, cityName?: string): CtaContent {
+function getCtaContent(intent: BookingIntent, cityName?: string, locale?: string): CtaContent {
   const city = cityName || 'Thailand';
+  const nl = locale === 'nl';
 
   switch (intent) {
     case 'hotels':
     case 'city':
       return {
         icon: '🏨',
-        heading: `Find Hotels in ${city}`,
-        subtext: `Compare thousands of hotels, hostels, and resorts in ${city}`,
+        heading: nl ? `Hotels Zoeken in ${city}` : `Find Hotels in ${city}`,
+        subtext: nl
+          ? `Vergelijk duizenden hotels, hostels en resorts in ${city}`
+          : `Compare thousands of hotels, hostels, and resorts in ${city}`,
         primaryHref: `https://trip.tpo.lv/TmObooZ5?subid=hero-hotels`,
-        primaryLabel: 'Search on Trip.com',
+        primaryLabel: nl ? 'Zoeken op Trip.com' : 'Search on Trip.com',
         secondaryHref: `https://booking.tpo.lv/2PT1kR82?subid=hero-hotels`,
         secondaryLabel: 'Booking.com',
       };
     case 'transport':
       return {
         icon: '🚂',
-        heading: `Book Your Ticket to ${city}`,
-        subtext: 'Compare buses, trains, ferries & flights — instant e-ticket confirmation',
+        heading: nl ? `Boek je Ticket naar ${city}` : `Book Your Ticket to ${city}`,
+        subtext: nl
+          ? 'Vergelijk bussen, treinen, veerponten & vluchten — direct e-ticket bevestiging'
+          : 'Compare buses, trains, ferries & flights — instant e-ticket confirmation',
         primaryHref: `https://12go.tpo.lv/tNA80urD?subid=hero-transport`,
-        primaryLabel: 'Search on 12Go Asia',
+        primaryLabel: nl ? 'Zoeken op 12Go Asia' : 'Search on 12Go Asia',
       };
     case 'food':
       return {
         icon: '🍜',
-        heading: `Book a Food Tour in ${city}`,
-        subtext: 'Street food walks, cooking classes, and night market tours with local guides',
+        heading: nl ? `Boek een Food Tour in ${city}` : `Book a Food Tour in ${city}`,
+        subtext: nl
+          ? 'Straatvoedsel wandelingen, kooklessen en nachtmarkt tours met lokale gidsen'
+          : 'Street food walks, cooking classes, and night market tours with local guides',
         primaryHref: `https://klook.tpo.lv/7Dt6WApj?subid=hero-food`,
-        primaryLabel: 'Browse on Klook',
+        primaryLabel: nl ? 'Bekijk op Klook' : 'Browse on Klook',
       };
     case 'beach':
       return {
         icon: '🏝️',
-        heading: `Book Island Activities in ${city}`,
-        subtext: 'Snorkeling, diving, island hopping & beach tours',
+        heading: nl ? `Boek Eiland Activiteiten in ${city}` : `Book Island Activities in ${city}`,
+        subtext: nl
+          ? 'Snorkelen, duiken, eilandhoppen & strandtours'
+          : 'Snorkeling, diving, island hopping & beach tours',
         primaryHref: `https://klook.tpo.lv/7Dt6WApj?subid=hero-beach`,
-        primaryLabel: 'Browse on Klook',
+        primaryLabel: nl ? 'Bekijk op Klook' : 'Browse on Klook',
       };
     default:
       return {
         icon: '🇹🇭',
-        heading: 'Plan Your Thailand Trip',
-        subtext: 'Hotels, tours, transport — all in one place',
+        heading: nl ? 'Plan je Thailand Reis' : 'Plan Your Thailand Trip',
+        subtext: nl
+          ? 'Hotels, tours, transport — alles op één plek'
+          : 'Hotels, tours, transport — all in one place',
         primaryHref: `https://trip.tpo.lv/TmObooZ5?subid=hero-generic`,
-        primaryLabel: 'Search on Trip.com',
+        primaryLabel: nl ? 'Zoeken op Trip.com' : 'Search on Trip.com',
       };
   }
 }
 
 export default function BookingHeroCTA({ slug, category, tags, cityName, pageType }: BookingHeroCTAProps) {
+  const { locale } = useRouter();
   const [visible, setVisible] = useState(false);
   const [isSearchReferrer, setIsSearchReferrer] = useState(false);
 
@@ -108,7 +121,7 @@ export default function BookingHeroCTA({ slug, category, tags, cityName, pageTyp
   const intent = detectBookingIntent(slug, category, tags, pageType);
   if (!visible || !intent) return null;
 
-  const cta = getCtaContent(intent, cityName);
+  const cta = getCtaContent(intent, cityName, locale);
 
   const dismiss = () => {
     setVisible(false);

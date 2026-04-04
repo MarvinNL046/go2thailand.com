@@ -70,10 +70,10 @@ const Header = () => {
         { href: '/food/', label: null, tKey: 'nav.thaiFood' },
         { href: '/drinks/', label: null, tKey: 'nav.thaiDrinks' },
         { divider: true },
-        { href: '/food/category/main-dish/', label: 'Main Dishes' },
-        { href: '/food/category/soup/', label: 'Soups & Curries' },
-        { href: '/drinks/category/alcohol/', label: 'Thai Beers & Spirits' },
-        { href: '/drinks/category/tea/', label: 'Thai Teas & Coffee' },
+        { href: '/food/category/main-dish/', label: null, tKey: 'nav.mainDishes' },
+        { href: '/food/category/soup/', label: null, tKey: 'nav.soupsCurries' },
+        { href: '/drinks/category/alcohol/', label: null, tKey: 'nav.thaiBeerSpirits' },
+        { href: '/drinks/category/tea/', label: null, tKey: 'nav.thaiTeasCoffee' },
       ],
     },
     {
@@ -82,10 +82,10 @@ const Header = () => {
         { href: '/travel-insurance-thailand/', label: null, tKey: 'nav.insurance' },
         { href: '/travel-gear/', label: null, tKey: 'nav.gear' },
         { divider: true },
-        { href: '/best-cooking-classes-in-thailand/', label: 'Cooking Classes' },
-        { href: '/best-muay-thai-in-thailand/', label: 'Muay Thai' },
-        { href: '/best-elephant-sanctuaries-in-thailand/', label: 'Elephant Sanctuaries' },
-        { href: '/best-diving-snorkeling-in-thailand/', label: 'Diving & Snorkeling' },
+        { href: '/best-cooking-classes-in-thailand/', label: null, tKey: 'nav.cookingClasses' },
+        { href: '/best-muay-thai-in-thailand/', label: null, tKey: 'nav.muayThai' },
+        { href: '/best-elephant-sanctuaries-in-thailand/', label: null, tKey: 'nav.elephantSanctuaries' },
+        { href: '/best-diving-snorkeling-in-thailand/', label: null, tKey: 'nav.divingSnorkeling' },
         { href: '/travel-security/', label: null, tKey: 'nav.vpnSecurity' },
       ],
     },
@@ -103,7 +103,7 @@ const Header = () => {
     },
     {
       type: 'dropdown', tKey: 'nav.planTrip', items: [
-        { href: '/itineraries/', label: 'Itineraries' },
+        { href: '/itineraries/', label: null, tKey: 'nav.itineraries' },
         { href: '/weather/', label: null, tKey: 'nav.weather' },
         { href: '/transport/', label: null, tKey: 'nav.transport' },
         { divider: true },
@@ -254,7 +254,7 @@ const Header = () => {
             className="inline-flex items-center justify-center p-2.5 rounded-xl text-gray-700 hover:text-thailand-red hover:bg-surface-cream transition-colors duration-200"
             onClick={closeMobile}
           >
-            <span className="sr-only">Close menu</span>
+            <span className="sr-only">{t('nav.closeMenu')}</span>
             <svg className="h-6 w-6" fill="none" viewBox="0 0 24 24" stroke="currentColor" aria-hidden="true">
               <path strokeLinecap="round" strokeLinejoin="round" strokeWidth="2" d="M6 18L18 6M6 6l12 12" />
             </svg>

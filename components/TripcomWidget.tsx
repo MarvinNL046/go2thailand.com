@@ -1,4 +1,5 @@
 import { useEffect, useRef } from 'react';
+import { useRouter } from 'next/router';
 import { withSubId } from '../lib/affiliates';
 import { useSubId } from '../lib/useSubId';
 
@@ -12,6 +13,8 @@ interface TripcomWidgetProps {
 export default function TripcomWidget({ city, type, className = '', customTitle }: TripcomWidgetProps) {
   const widgetRef = useRef<HTMLDivElement>(null);
   const subId = useSubId();
+  const { locale } = useRouter();
+  const isNl = locale === 'nl';
 
   useEffect(() => {
     // Load Trip.com widget script
@@ -43,26 +46,26 @@ export default function TripcomWidget({ city, type, className = '', customTitle 
     switch (type) {
       case 'bundle':
         return {
-          title: 'Hotel & Flight Bundle',
-          description: 'Save more by booking hotel and flight together',
+          title: isNl ? 'Hotel & Vlucht Bundel' : 'Hotel & Flight Bundle',
+          description: isNl ? 'Bespaar meer door hotel en vlucht samen te boeken' : 'Save more by booking hotel and flight together',
           link: affiliateLinks.bundle
         };
       case 'transfers':
         return {
-          title: 'Airport Transfers',
-          description: 'Book reliable airport transfers in advance',
+          title: isNl ? 'Luchthaventransfers' : 'Airport Transfers',
+          description: isNl ? 'Boek betrouwbare luchthaventransfers van tevoren' : 'Book reliable airport transfers in advance',
           link: affiliateLinks.transfers
         };
       case 'car-rental':
         return {
-          title: 'Car Rental',
-          description: 'Rent a car for your trip',
+          title: isNl ? 'Autoverhuur' : 'Car Rental',
+          description: isNl ? 'Huur een auto voor je reis' : 'Rent a car for your trip',
           link: affiliateLinks['car-rental']
         };
       default:
         return {
-          title: 'Search Hotels & Flights',
-          description: `Find the best deals for ${city}`,
+          title: isNl ? 'Zoek Hotels & Vluchten' : 'Search Hotels & Flights',
+          description: isNl ? `Vind de beste deals voor ${city}` : `Find the best deals for ${city}`,
           link: affiliateLinks.main
         };
     }
@@ -99,7 +102,7 @@ export default function TripcomWidget({ city, type, className = '', customTitle 
             rel="noopener noreferrer nofollow"
             className="text-center px-3 py-2 bg-thailand-blue text-white rounded-lg hover:bg-thailand-blue-600 transition-colors text-xs sm:text-sm font-medium"
           >
-            Hotel + Flight
+            {isNl ? 'Hotel + Vlucht' : 'Hotel + Flight'}
           </a>
           <a
             href={affiliateLinks.transfers}
@@ -115,16 +118,16 @@ export default function TripcomWidget({ city, type, className = '', customTitle 
             rel="noopener noreferrer nofollow"
             className="text-center px-3 py-2 bg-thailand-blue text-white rounded-lg hover:bg-thailand-blue-600 transition-colors text-xs sm:text-sm font-medium"
           >
-            Car Rental
+            {isNl ? 'Autoverhuur' : 'Car Rental'}
           </a>
         </div>
 
         <div className="mt-4 space-y-2">
           <p className="text-xs text-gray-500 text-center">
-            We earn a commission when you book through our links
+            {isNl ? 'We verdienen een commissie wanneer je boekt via onze links' : 'We earn a commission when you book through our links'}
           </p>
           <p className="text-xs text-center">
-            <span className="text-gray-400">Powered by </span>
+            <span className="text-gray-400">{isNl ? 'Mogelijk gemaakt door ' : 'Powered by '}</span>
             <a
               href="https://www.travelpayouts.com/?marker=602467"
               target="_blank"
@@ -133,7 +136,7 @@ export default function TripcomWidget({ city, type, className = '', customTitle 
             >
               Travelpayouts
             </a>
-            <span className="text-gray-400"> - Travel Affiliate Network</span>
+            <span className="text-gray-400">{isNl ? ' - Reis Affiliate Netwerk' : ' - Travel Affiliate Network'}</span>
           </p>
         </div>
       </div>

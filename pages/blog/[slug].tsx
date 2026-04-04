@@ -313,7 +313,7 @@ export default function BlogPostPage({ post, relatedPosts, prevPost, nextPost }:
 
                   {/* Share Buttons - Bottom */}
                   <div className="mt-8 pt-8 border-t border-gray-100">
-                    <h3 className="font-bold font-heading mb-4">Share this article</h3>
+                    <h3 className="font-bold font-heading mb-4">{locale === 'nl' ? 'Deel dit artikel' : 'Share this article'}</h3>
                     <ShareButtons
                       url={shareUrl}
                       title={post.title}
@@ -336,7 +336,7 @@ export default function BlogPostPage({ post, relatedPosts, prevPost, nextPost }:
                 {/* Related Posts */}
                 {relatedPosts.length > 0 && (
                   <div className="bg-white rounded-2xl shadow-md p-6">
-                    <h3 className="font-bold font-heading text-lg mb-4">Related Articles</h3>
+                    <h3 className="font-bold font-heading text-lg mb-4">{locale === 'nl' ? 'Gerelateerde Artikelen' : 'Related Articles'}</h3>
                     <div className="space-y-4">
                       {relatedPosts.map(relatedPost => (
                         <article key={relatedPost.slug}>
@@ -356,22 +356,22 @@ export default function BlogPostPage({ post, relatedPosts, prevPost, nextPost }:
 
                 {/* Explore */}
                 <div className="bg-white rounded-2xl shadow-md p-6">
-                  <h3 className="font-bold font-heading text-lg mb-4">Explore More</h3>
+                  <h3 className="font-bold font-heading text-lg mb-4">{locale === 'nl' ? 'Meer Ontdekken' : 'Explore More'}</h3>
                   <div className="space-y-2">
-                    <Link href="/islands/" className="block text-thailand-blue hover:underline text-sm">Thailand Islands</Link>
-                    <Link href="/visa/" className="block text-thailand-blue hover:underline text-sm">Visa Guide</Link>
-                    <Link href="/food/" className="block text-thailand-blue hover:underline text-sm">Thai Food</Link>
-                    <Link href="/practical-info/" className="block text-thailand-blue hover:underline text-sm">Practical Info</Link>
-                    <Link href="/blog/" className="block text-thailand-blue hover:underline text-sm">← All blog posts</Link>
+                    <Link href="/islands/" className="block text-thailand-blue hover:underline text-sm">{locale === 'nl' ? 'Thailand Eilanden' : 'Thailand Islands'}</Link>
+                    <Link href="/visa/" className="block text-thailand-blue hover:underline text-sm">{locale === 'nl' ? 'Visum Gids' : 'Visa Guide'}</Link>
+                    <Link href="/food/" className="block text-thailand-blue hover:underline text-sm">{locale === 'nl' ? 'Thais Eten' : 'Thai Food'}</Link>
+                    <Link href="/practical-info/" className="block text-thailand-blue hover:underline text-sm">{locale === 'nl' ? 'Praktische Info' : 'Practical Info'}</Link>
+                    <Link href="/blog/" className="block text-thailand-blue hover:underline text-sm">{locale === 'nl' ? '← Alle blog posts' : '← All blog posts'}</Link>
                   </div>
                 </div>
 
                 {/* Trip.com Hotel Widget */}
-                <TripcomWidget city="Thailand" type="searchbox" customTitle="Find Thailand Hotels" />
+                <TripcomWidget city="Thailand" type="searchbox" customTitle={locale === 'nl' ? 'Vind Thailand Hotels' : 'Find Thailand Hotels'} />
 
                 {/* Book Hotels */}
                 <div className="bg-white rounded-2xl shadow-md p-6">
-                  <h3 className="text-xl font-bold font-heading mb-3">Book Hotels</h3>
+                  <h3 className="text-xl font-bold font-heading mb-3">{locale === 'nl' ? 'Boek Hotels' : 'Book Hotels'}</h3>
                   <div className="space-y-3">
                     <a
                       href="https://booking.tpo.lv/2PT1kR82?subid=blog"
@@ -395,7 +395,7 @@ export default function BlogPostPage({ post, relatedPosts, prevPost, nextPost }:
 
                 {/* Tours & Activities */}
                 <div className="bg-white rounded-2xl shadow-md p-6">
-                  <h3 className="text-xl font-bold font-heading mb-3">Tours & Activities</h3>
+                  <h3 className="text-xl font-bold font-heading mb-3">{locale === 'nl' ? 'Tours & Activiteiten' : 'Tours & Activities'}</h3>
                   <div className="space-y-3">
                     <a
                       href="https://klook.tpo.lv/7Dt6WApj?subid=blog"
@@ -403,7 +403,7 @@ export default function BlogPostPage({ post, relatedPosts, prevPost, nextPost }:
                       rel="noopener noreferrer"
                       className="block bg-thailand-red text-white text-center px-4 py-2 rounded-xl font-semibold hover:bg-thailand-red/90 transition-colors text-sm"
                     >
-                      Klook Activities
+                      {locale === 'nl' ? 'Klook Activiteiten' : 'Klook Activities'}
                     </a>
                     <a
                       href="https://getyourguide.tpo.lv/GuAFfGGK?subid=blog"
@@ -421,7 +421,7 @@ export default function BlogPostPage({ post, relatedPosts, prevPost, nextPost }:
                 <div className="bg-white rounded-2xl shadow-md p-6">
                   <h3 className="text-xl font-bold font-heading mb-2">Thailand eSIM</h3>
                   <p className="text-sm text-gray-600 mb-4">
-                    Stay connected in Thailand. Order your eSIM before you go.
+                    {locale === 'nl' ? 'Blijf verbonden in Thailand. Bestel je eSIM voor je vertrekt.' : 'Stay connected in Thailand. Order your eSIM before you go.'}
                   </p>
                   <a
                     href="https://saily.tpo.lv/rf9lidnE?subid=blog"
@@ -432,18 +432,18 @@ export default function BlogPostPage({ post, relatedPosts, prevPost, nextPost }:
                     Saily eSIM
                   </a>
                   <Link href="/esim/" className="block text-thailand-blue text-center text-sm hover:underline">
-                    More eSIM options →
+                    {locale === 'nl' ? 'Meer eSIM opties →' : 'More eSIM options →'}
                   </Link>
                 </div>
 
                 {/* Travel Insurance */}
                 <div className="bg-surface-dark text-white rounded-2xl p-6">
-                  <h3 className="text-xl font-bold font-heading mb-2">Travel Insurance</h3>
+                  <h3 className="text-xl font-bold font-heading mb-2">{locale === 'nl' ? 'Reisverzekering' : 'Travel Insurance'}</h3>
                   <p className="text-sm opacity-90 mb-4">
-                    Protect yourself while traveling. Compare the best travel insurance.
+                    {locale === 'nl' ? 'Bescherm jezelf tijdens het reizen. Vergelijk de beste reisverzekeringen.' : 'Protect yourself while traveling. Compare the best travel insurance.'}
                   </p>
                   <Link href="/travel-insurance-thailand/" className="block bg-thailand-red text-white text-center px-4 py-2 rounded-xl font-semibold hover:bg-thailand-red/90 transition-colors">
-                    Compare Now
+                    {locale === 'nl' ? 'Vergelijk Nu' : 'Compare Now'}
                   </Link>
                 </div>
 
@@ -456,10 +456,10 @@ export default function BlogPostPage({ post, relatedPosts, prevPost, nextPost }:
                     rel="noopener noreferrer"
                     className="block bg-thailand-blue text-white text-center px-4 py-2 rounded-xl font-semibold hover:bg-thailand-blue/90 transition-colors text-sm mb-2"
                   >
-                    12Go Asia - Book Transport
+                    {locale === 'nl' ? '12Go Asia - Boek Transport' : '12Go Asia - Book Transport'}
                   </a>
                   <Link href="/transport/" className="block text-thailand-blue text-center text-sm hover:underline">
-                    View all routes →
+                    {locale === 'nl' ? 'Bekijk alle routes →' : 'View all routes →'}
                   </Link>
                 </div>
                 </div>
@@ -472,8 +472,8 @@ export default function BlogPostPage({ post, relatedPosts, prevPost, nextPost }:
         <RelatedPosts posts={relatedPosts} prevPost={prevPost} nextPost={nextPost} locale={locale} />
 
         <PreFooterAffiliateBanner
-          title="Plan Your Thailand Trip"
-          description="Book hotels, transport, activities, and get connected with an eSIM"
+          title={locale === 'nl' ? 'Plan je Thailand Reis' : 'Plan Your Thailand Trip'}
+          description={locale === 'nl' ? 'Boek hotels, transport, activiteiten en blijf verbonden met een eSIM' : 'Book hotels, transport, activities, and get connected with an eSIM'}
           links={[
             { label: 'Booking.com', href: 'https://booking.tpo.lv/2PT1kR82?subid=blog' },
             { label: 'Trip.com', href: 'https://trip.tpo.lv/TmObooZ5?subid=blog' },

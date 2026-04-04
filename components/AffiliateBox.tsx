@@ -1,4 +1,5 @@
 // components/AffiliateBox.tsx
+import { useRouter } from 'next/router';
 import { CityAffiliates, withSubId } from '../lib/affiliates';
 import { useSubId } from '../lib/useSubId';
 
@@ -8,39 +9,41 @@ interface AffiliateBoxProps {
   type: 'hotels' | 'tours' | 'activities' | 'transport';
 }
 
-const config = {
+const config = (nl: boolean) => ({
   hotels: {
-    heading: 'Book Your Hotel',
-    bookingLabel: 'Search Hotels on Booking.com' as string | null,
+    heading: nl ? 'Boek je Hotel' : 'Book Your Hotel',
+    bookingLabel: (nl ? 'Zoek Hotels op Booking.com' : 'Search Hotels on Booking.com') as string | null,
     klookLabel: null as string | null,
     gygLabel: null as string | null,
     twelveGoLabel: null as string | null,
   },
   tours: {
-    heading: 'Book Tours & Experiences',
+    heading: nl ? 'Boek Tours & Ervaringen' : 'Book Tours & Experiences',
     bookingLabel: null as string | null,
-    klookLabel: 'Browse Tours on Klook' as string | null,
-    gygLabel: 'See Tours on GetYourGuide' as string | null,
+    klookLabel: (nl ? 'Bekijk Tours op Klook' : 'Browse Tours on Klook') as string | null,
+    gygLabel: (nl ? 'Bekijk Tours op GetYourGuide' : 'See Tours on GetYourGuide') as string | null,
     twelveGoLabel: null as string | null,
   },
   activities: {
-    heading: 'Book This Activity',
+    heading: nl ? 'Boek deze Activiteit' : 'Book This Activity',
     bookingLabel: null as string | null,
-    klookLabel: 'Book on Klook' as string | null,
-    gygLabel: 'Book on GetYourGuide' as string | null,
+    klookLabel: (nl ? 'Boek op Klook' : 'Book on Klook') as string | null,
+    gygLabel: (nl ? 'Boek op GetYourGuide' : 'Book on GetYourGuide') as string | null,
     twelveGoLabel: null as string | null,
   },
   transport: {
-    heading: 'Book Transport',
+    heading: nl ? 'Boek Transport' : 'Book Transport',
     bookingLabel: null as string | null,
     klookLabel: null as string | null,
     gygLabel: null as string | null,
-    twelveGoLabel: 'Book Buses, Trains & Ferries on 12Go' as string | null,
+    twelveGoLabel: (nl ? 'Boek Bussen, Treinen & Veerboten op 12Go' : 'Book Buses, Trains & Ferries on 12Go') as string | null,
   },
-};
+});
 
 export default function AffiliateBox({ affiliates, cityName, type }: AffiliateBoxProps) {
-  const c = config[type];
+  const { locale } = useRouter();
+  const nl = locale === 'nl';
+  const c = config(nl)[type];
   const subId = useSubId();
   return (
     <div className="bg-thailand-blue/5 border border-thailand-blue/20 rounded-2xl p-6 my-6">
@@ -88,7 +91,9 @@ export default function AffiliateBox({ affiliates, cityName, type }: AffiliateBo
         )}
       </div>
       <p className="text-xs text-gray-500 mt-3">
-        We may earn a commission at no extra cost to you. Prices shown are from partner sites.
+        {nl
+          ? 'We kunnen een commissie verdienen zonder extra kosten voor jou. Prijzen zijn van partnerwebsites.'
+          : 'We may earn a commission at no extra cost to you. Prices shown are from partner sites.'}
       </p>
     </div>
   );

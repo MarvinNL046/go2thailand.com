@@ -1,4 +1,5 @@
 import { GetStaticProps } from 'next';
+import { useRouter } from 'next/router';
 import Breadcrumbs from '../../components/Breadcrumbs';
 import SEOHead from '../../components/SEOHead';
 import Image from 'next/image';
@@ -71,12 +72,20 @@ const comparisonRows = [
   },
 ];
 
-const methodologyPoints = [
-  'We checked official provider pages and help centers on March 25, 2026.',
-  'We treated the prices on this page as sample plan snapshots, not guaranteed future prices.',
-  'We avoided invented ratings and unverified network-speed claims.',
-  'We kept Saily in the comparison, but reduced brand-led NordVPN language to what is factually necessary.',
-];
+const methodologyPoints = {
+  en: [
+    'We checked official provider pages and help centers on March 25, 2026.',
+    'We treated the prices on this page as sample plan snapshots, not guaranteed future prices.',
+    'We avoided invented ratings and unverified network-speed claims.',
+    'We kept Saily in the comparison, but reduced brand-led NordVPN language to what is factually necessary.',
+  ],
+  nl: [
+    'We hebben officiële aanbiederpagina\'s en helpcentra gecontroleerd op 25 maart 2026.',
+    'We behandelden de prijzen op deze pagina als voorbeeldprijzen, niet als gegarandeerde toekomstige prijzen.',
+    'We vermeden verzonnen beoordelingen en ongecontroleerde netwerksnelheidsclaims.',
+    'We hielden Saily in de vergelijking, maar reduceerden merkgerichte NordVPN-taal tot wat feitelijk noodzakelijk is.',
+  ],
+};
 
 const faqData = [
   {
@@ -129,6 +138,9 @@ const globalSources: SourceLink[] = [
 ];
 
 export default function ESIMPage({ providers }: ESIMPageProps) {
+  const { locale } = useRouter();
+  const t = (en: string, nl: string) => locale === 'nl' ? nl : en;
+
   const pageSchema = {
     '@context': 'https://schema.org',
     '@type': 'Article',
@@ -188,22 +200,25 @@ export default function ESIMPage({ providers }: ESIMPageProps) {
         <section className="bg-surface-dark text-white">
           <div className="container-custom py-16">
             <div className="mx-auto max-w-4xl text-center">
-              <p className="font-script text-thailand-gold mb-2">Stay Connected</p>
+              <p className="font-script text-thailand-gold mb-2">{t('Stay Connected', 'Blijf Verbonden')}</p>
               <h1 className="text-4xl lg:text-6xl font-bold font-heading mb-6">
-                Best eSIM for Thailand
+                {t('Best eSIM for Thailand', 'Beste eSIM voor Thailand')}
               </h1>
               <p className="text-xl lg:text-2xl mb-8 opacity-90">
-                A practical comparison of Thailand eSIM options, focused on plan shape, installation ease, and travel fit rather than hype.
+                {t(
+                  'A practical comparison of Thailand eSIM options, focused on plan shape, installation ease, and travel fit rather than hype.',
+                  'Een praktische vergelijking van Thailand eSIM opties, gericht op bundelvorm, installatiegemak en reisgeschiktheid in plaats van hype.'
+                )}
               </p>
               <div className="flex flex-wrap justify-center gap-4">
                 <div className="bg-white bg-opacity-20 px-4 py-2 rounded-full text-sm font-medium">
-                  Sample prices checked {REVIEWED_DATE}
+                  {t(`Sample prices checked ${REVIEWED_DATE}`, `Voorbeeldprijzen gecontroleerd ${REVIEWED_DATE}`)}
                 </div>
                 <div className="bg-white bg-opacity-20 px-4 py-2 rounded-full text-sm font-medium">
-                  Data-only and unlimited options
+                  {t('Data-only and unlimited options', 'Alleen data en onbeperkte opties')}
                 </div>
                 <div className="bg-white bg-opacity-20 px-4 py-2 rounded-full text-sm font-medium">
-                  Source links on-page
+                  {t('Source links on-page', 'Bronlinks op de pagina')}
                 </div>
               </div>
             </div>
@@ -214,28 +229,37 @@ export default function ESIMPage({ providers }: ESIMPageProps) {
           <div className="container-custom py-6">
             <Breadcrumbs
               items={[
-                { name: 'Home', href: '/' },
+                { name: t('Home', 'Home'), href: '/' },
                 { name: 'Thailand eSIM', href: '/esim' },
               ]}
             />
             <div className="mt-4 grid grid-cols-1 lg:grid-cols-[1.6fr,1fr] gap-4">
               <div className="rounded-2xl bg-orange-50 p-5">
-                <p className="text-sm font-semibold text-orange-900 mb-2">Affiliate disclosure</p>
+                <p className="text-sm font-semibold text-orange-900 mb-2">{t('Affiliate disclosure', 'Affiliate verklaring')}</p>
                 <p className="text-sm text-orange-800">
-                  This page contains affiliate links. We may earn a commission at no extra cost to you if you buy through our links. Our comparison method is explained below and in our{' '}
+                  {t(
+                    'This page contains affiliate links. We may earn a commission at no extra cost to you if you buy through our links. Our comparison method is explained below and in our',
+                    'Deze pagina bevat affiliate links. We kunnen een commissie verdienen zonder extra kosten voor jou als je via onze links koopt. Onze vergelijkingsmethode wordt hieronder uitgelegd en in onze'
+                  )}{' '}
                   <Link href="/affiliate-disclosure/" className="font-semibold underline underline-offset-2">
-                    affiliate disclosure
+                    {t('affiliate disclosure', 'affiliate verklaring')}
                   </Link>
                   .
                 </p>
               </div>
               <div className="rounded-2xl bg-thailand-blue-50 p-5">
-                <p className="text-sm font-semibold text-thailand-blue-900 mb-2">Editorial review</p>
+                <p className="text-sm font-semibold text-thailand-blue-900 mb-2">{t('Editorial review', 'Redactionele beoordeling')}</p>
                 <p className="text-sm text-thailand-blue-900">
-                  Last reviewed: <strong>{REVIEWED_DATE}</strong>
+                  {t('Last reviewed:', 'Laatst beoordeeld:')} <strong>{REVIEWED_DATE}</strong>
                 </p>
                 <p className="mt-2 text-sm text-thailand-blue-800">
-                  Reviewed by <strong>Go2Thailand Editorial Team</strong>. Prices below are sample plan snapshots from official provider pages and may change.
+                  {t(
+                    'Reviewed by',
+                    'Beoordeeld door'
+                  )} <strong>Go2Thailand Editorial Team</strong>. {t(
+                    'Prices below are sample plan snapshots from official provider pages and may change.',
+                    'Prijzen hieronder zijn voorbeeldprijzen van officiële aanbiederpagina\'s en kunnen wijzigen.'
+                  )}
                 </p>
               </div>
             </div>
@@ -245,26 +269,38 @@ export default function ESIMPage({ providers }: ESIMPageProps) {
         <section className="bg-white section-padding">
           <div className="container-custom">
             <div className="mx-auto max-w-4xl">
-              <p className="section-label text-center">Why eSIM</p>
+              <p className="section-label text-center">{t('Why eSIM', 'Waarom eSIM')}</p>
               <h2 className="text-3xl font-bold font-heading text-gray-900 mb-4 text-center">
-                Why many Thailand travelers prefer eSIM now
+                {t('Why many Thailand travelers prefer eSIM now', 'Waarom veel Thailand reizigers nu eSIM verkiezen')}
               </h2>
               <p className="text-center text-gray-600 mb-8 max-w-3xl mx-auto">
-                eSIM is mainly about convenience: install ahead of time, keep your usual number, and land with data ready for Grab, maps, banking apps, and hotel messages. Apple also notes that an eSIM cannot be physically removed if the phone is lost or stolen.
+                {t(
+                  'eSIM is mainly about convenience: install ahead of time, keep your usual number, and land with data ready for Grab, maps, banking apps, and hotel messages. Apple also notes that an eSIM cannot be physically removed if the phone is lost or stolen.',
+                  'eSIM draait vooral om gemak: installeer van tevoren, behoud je gebruikelijke nummer en land met data klaar voor Grab, kaarten, bank-apps en hotelberichten. Apple merkt ook op dat een eSIM niet fysiek verwijderd kan worden als de telefoon verloren of gestolen is.'
+                )}
               </p>
               <div className="grid grid-cols-1 md:grid-cols-3 gap-6">
                 {[
                   {
-                    title: 'Install before arrival',
-                    text: 'You can usually set up the travel eSIM while you still have stable Wi-Fi at home or at the airport.',
+                    title: t('Install before arrival', 'Installeer voor aankomst'),
+                    text: t(
+                      'You can usually set up the travel eSIM while you still have stable Wi-Fi at home or at the airport.',
+                      'Je kunt de reis-eSIM meestal instellen terwijl je nog stabiel Wi-Fi hebt thuis of op het vliegveld.'
+                    ),
                   },
                   {
-                    title: 'Keep your main number',
-                    text: 'On supported phones, your home SIM and travel eSIM can often stay active together.',
+                    title: t('Keep your main number', 'Behoud je hoofdnummer'),
+                    text: t(
+                      'On supported phones, your home SIM and travel eSIM can often stay active together.',
+                      'Op ondersteunde telefoons kunnen je thuis-SIM en reis-eSIM vaak samen actief blijven.'
+                    ),
                   },
                   {
-                    title: 'Avoid airport SIM friction',
-                    text: 'You skip kiosk queues, physical SIM swaps, and the risk of misplacing your home SIM card.',
+                    title: t('Avoid airport SIM friction', 'Vermijd SIM-gedoe op het vliegveld'),
+                    text: t(
+                      'You skip kiosk queues, physical SIM swaps, and the risk of misplacing your home SIM card.',
+                      'Je slaat kiosk-wachtrijen, fysieke SIM-wissels en het risico van het kwijtraken van je thuis-SIM over.'
+                    ),
                   },
                 ].map((item) => (
                   <div key={item.title} className="rounded-2xl bg-surface-cream p-6 shadow-md">
@@ -280,12 +316,12 @@ export default function ESIMPage({ providers }: ESIMPageProps) {
         <section className="section-padding">
           <div className="container-custom">
             <div className="mx-auto max-w-4xl rounded-2xl bg-white p-8 shadow-md">
-              <p className="section-label">Methodology</p>
+              <p className="section-label">{t('Methodology', 'Methodologie')}</p>
               <h2 className="text-3xl font-bold font-heading text-gray-900 mb-4">
-                How we compared Thailand eSIM providers
+                {t('How we compared Thailand eSIM providers', 'Hoe we Thailand eSIM aanbieders vergeleken')}
               </h2>
               <div className="grid grid-cols-1 md:grid-cols-2 gap-4">
-                {methodologyPoints.map((item) => (
+                {(locale === 'nl' ? methodologyPoints.nl : methodologyPoints.en).map((item) => (
                   <div key={item} className="rounded-xl bg-thailand-blue-50 p-4 text-sm text-thailand-blue-900">
                     <span className="mr-2 text-green-600">✓</span>
                     {item}
@@ -299,21 +335,27 @@ export default function ESIMPage({ providers }: ESIMPageProps) {
         <section className="bg-white section-padding">
           <div className="container-custom">
             <div className="mx-auto max-w-4xl rounded-2xl bg-surface-cream p-8 shadow-md">
-              <p className="section-label">Context</p>
+              <p className="section-label">{t('Context', 'Context')}</p>
               <h2 className="text-3xl font-bold font-heading text-gray-900 mb-4">
-                When eSIM is not automatically the best choice
+                {t('When eSIM is not automatically the best choice', 'Wanneer eSIM niet automatisch de beste keuze is')}
               </h2>
               <div className="grid grid-cols-1 md:grid-cols-2 gap-4 text-sm">
                 <div className="rounded-xl bg-white p-5">
-                  <p className="font-semibold text-gray-900 mb-2">Airport SIM can still be simpler if</p>
+                  <p className="font-semibold text-gray-900 mb-2">{t('Airport SIM can still be simpler if', 'Vliegveld-SIM kan nog steeds eenvoudiger zijn als')}</p>
                   <p className="text-gray-600">
-                    your phone is not eSIM-compatible, your device is carrier-locked, or you want in-person help the moment you land. This page compares eSIMs, but that does not make them the right answer for every traveler.
+                    {t(
+                      'your phone is not eSIM-compatible, your device is carrier-locked, or you want in-person help the moment you land. This page compares eSIMs, but that does not make them the right answer for every traveler.',
+                      'je telefoon niet eSIM-compatibel is, je apparaat provider-vergrendeld is, of je persoonlijke hulp wilt op het moment dat je landt. Deze pagina vergelijkt eSIMs, maar dat maakt ze niet het juiste antwoord voor elke reiziger.'
+                    )}
                   </p>
                 </div>
                 <div className="rounded-xl bg-white p-5">
-                  <p className="font-semibold text-gray-900 mb-2">What we are not claiming</p>
+                  <p className="font-semibold text-gray-900 mb-2">{t('What we are not claiming', 'Wat we niet beweren')}</p>
                   <p className="text-gray-600">
-                    We are not claiming one provider is always cheapest or fastest. We are showing current plan snapshots, tradeoffs, and setup context so you can verify the live offer that fits your trip.
+                    {t(
+                      'We are not claiming one provider is always cheapest or fastest. We are showing current plan snapshots, tradeoffs, and setup context so you can verify the live offer that fits your trip.',
+                      'We beweren niet dat één aanbieder altijd het goedkoopst of snelst is. We tonen huidige bundelvoorbeelden, afwegingen en installatiecontext zodat je het live aanbod kunt verifiëren dat bij je reis past.'
+                    )}
                   </p>
                 </div>
               </div>
@@ -323,9 +365,9 @@ export default function ESIMPage({ providers }: ESIMPageProps) {
 
         <section className="section-padding">
           <div className="container-custom">
-            <p className="section-label text-center">Providers</p>
+            <p className="section-label text-center">{t('Providers', 'Aanbieders')}</p>
             <h2 className="text-3xl lg:text-4xl font-bold font-heading text-gray-900 mb-8 text-center">
-              Compare Thailand eSIM providers
+              {t('Compare Thailand eSIM providers', 'Vergelijk Thailand eSIM aanbieders')}
             </h2>
             <div className="grid grid-cols-1 xl:grid-cols-3 gap-8">
               {providers.map((provider) => (
@@ -347,7 +389,7 @@ export default function ESIMPage({ providers }: ESIMPageProps) {
                     <p className="text-gray-600 mb-5">{provider.description}</p>
 
                     <div className="rounded-xl bg-surface-cream p-4 mb-5">
-                      <h4 className="font-semibold text-gray-900 mb-3">Sample plans checked {REVIEWED_DATE}</h4>
+                      <h4 className="font-semibold text-gray-900 mb-3">{t(`Sample plans checked ${REVIEWED_DATE}`, `Voorbeeldbundels gecontroleerd ${REVIEWED_DATE}`)}</h4>
                       <div className="space-y-2">
                         {provider.plans.map((plan) => (
                           <div key={`${provider.slug}-${plan.label}`} className="flex items-center justify-between text-sm">
@@ -361,7 +403,7 @@ export default function ESIMPage({ providers }: ESIMPageProps) {
 
                     <div className="grid grid-cols-1 gap-4 mb-6">
                       <div>
-                        <h4 className="font-semibold text-green-700 mb-2">What stands out</h4>
+                        <h4 className="font-semibold text-green-700 mb-2">{t('What stands out', 'Wat opvalt')}</h4>
                         <ul className="space-y-2 text-sm text-gray-600">
                           {provider.highlights.map((item) => (
                             <li key={item} className="flex items-start">
@@ -372,7 +414,7 @@ export default function ESIMPage({ providers }: ESIMPageProps) {
                         </ul>
                       </div>
                       <div>
-                        <h4 className="font-semibold text-orange-700 mb-2">What to watch</h4>
+                        <h4 className="font-semibold text-orange-700 mb-2">{t('What to watch', 'Waar op te letten')}</h4>
                         <ul className="space-y-2 text-sm text-gray-600">
                           {provider.tradeoffs.map((item) => (
                             <li key={item} className="flex items-start">
@@ -394,7 +436,7 @@ export default function ESIMPage({ providers }: ESIMPageProps) {
                     </a>
 
                     <div className="mt-5 border-t border-gray-200 pt-4">
-                      <p className="text-sm font-semibold text-gray-900 mb-3">Official sources checked during review</p>
+                      <p className="text-sm font-semibold text-gray-900 mb-3">{t('Official sources checked during review', 'Officiële bronnen gecontroleerd tijdens beoordeling')}</p>
                       <div className="flex flex-wrap gap-3">
                         {provider.sourceLinks.map((source) => (
                           <span
@@ -416,16 +458,16 @@ export default function ESIMPage({ providers }: ESIMPageProps) {
         <section className="bg-white section-padding">
           <div className="container-custom">
             <div className="mx-auto max-w-6xl">
-              <p className="section-label text-center">Comparison</p>
+              <p className="section-label text-center">{t('Comparison', 'Vergelijking')}</p>
               <h2 className="text-3xl font-bold font-heading text-gray-900 mb-8 text-center">
-                Quick comparison: Airalo vs Yesim vs Saily
+                {t('Quick comparison: Airalo vs Yesim vs Saily', 'Snelle vergelijking: Airalo vs Yesim vs Saily')}
               </h2>
               <div className="overflow-hidden rounded-2xl bg-white shadow-md">
                 <div className="overflow-x-auto">
                   <table className="w-full">
                     <thead className="bg-thailand-blue text-white">
                       <tr>
-                        <th className="px-6 py-4 text-left">Feature</th>
+                        <th className="px-6 py-4 text-left">{t('Feature', 'Kenmerk')}</th>
                         <th className="px-6 py-4 text-left">Airalo</th>
                         <th className="px-6 py-4 text-left">Yesim</th>
                         <th className="px-6 py-4 text-left">Saily</th>
@@ -444,9 +486,12 @@ export default function ESIMPage({ providers }: ESIMPageProps) {
                   </table>
                 </div>
                 <div className="bg-thailand-blue-50 p-6">
-                  <p className="font-semibold text-thailand-blue-900 mb-2">Important note on prices</p>
+                  <p className="font-semibold text-thailand-blue-900 mb-2">{t('Important note on prices', 'Belangrijke opmerking over prijzen')}</p>
                   <p className="text-sm text-thailand-blue-900">
-                    Official provider sites use different currencies, flash promotions, and package mixes. Treat these as sample plan snapshots checked on {REVIEWED_DATE}, then verify the live plan before purchase.
+                    {t(
+                      `Official provider sites use different currencies, flash promotions, and package mixes. Treat these as sample plan snapshots checked on ${REVIEWED_DATE}, then verify the live plan before purchase.`,
+                      `Officiële aanbiedersites gebruiken verschillende valuta's, flash-promoties en bundelcombinaties. Beschouw deze als voorbeeldprijzen gecontroleerd op ${REVIEWED_DATE} en verifieer het live aanbod voor aankoop.`
+                    )}
                   </p>
                 </div>
               </div>
@@ -457,31 +502,43 @@ export default function ESIMPage({ providers }: ESIMPageProps) {
         <section className="bg-white section-padding">
           <div className="container-custom">
             <div className="mx-auto max-w-4xl">
-              <p className="section-label text-center">Installation</p>
+              <p className="section-label text-center">{t('Installation', 'Installatie')}</p>
               <h2 className="text-3xl font-bold font-heading text-gray-900 mb-8 text-center">
-                How to install your Thailand eSIM
+                {t('How to install your Thailand eSIM', 'Hoe installeer je je Thailand eSIM')}
               </h2>
               <div className="grid grid-cols-1 md:grid-cols-4 gap-6">
                 {[
                   {
                     step: '1',
-                    title: 'Check compatibility',
-                    text: 'Make sure your phone supports eSIM and is carrier-unlocked before buying.',
+                    title: t('Check compatibility', 'Controleer compatibiliteit'),
+                    text: t(
+                      'Make sure your phone supports eSIM and is carrier-unlocked before buying.',
+                      'Zorg ervoor dat je telefoon eSIM ondersteunt en provider-ontgrendeld is voor aankoop.'
+                    ),
                   },
                   {
                     step: '2',
-                    title: 'Buy with Wi-Fi available',
-                    text: 'Purchase and install while you still have stable internet, ideally before departure.',
+                    title: t('Buy with Wi-Fi available', 'Koop met Wi-Fi beschikbaar'),
+                    text: t(
+                      'Purchase and install while you still have stable internet, ideally before departure.',
+                      'Koop en installeer terwijl je nog stabiel internet hebt, idealiter voor vertrek.'
+                    ),
                   },
                   {
                     step: '3',
-                    title: 'Follow provider setup',
-                    text: 'Use the provider app, QR code, or manual setup steps exactly as documented.',
+                    title: t('Follow provider setup', 'Volg aanbieder-installatie'),
+                    text: t(
+                      'Use the provider app, QR code, or manual setup steps exactly as documented.',
+                      'Gebruik de aanbieder-app, QR-code of handmatige installatiestappen precies zoals gedocumenteerd.'
+                    ),
                   },
                   {
                     step: '4',
-                    title: 'Enable the line in Thailand',
-                    text: 'Turn on the eSIM and data roaming for that line when you arrive and want to connect.',
+                    title: t('Enable the line in Thailand', 'Activeer de lijn in Thailand'),
+                    text: t(
+                      'Turn on the eSIM and data roaming for that line when you arrive and want to connect.',
+                      'Zet de eSIM en dataroaming voor die lijn aan wanneer je aankomt en verbinding wilt maken.'
+                    ),
                   },
                 ].map((item) => (
                   <div key={item.step} className="text-center rounded-2xl bg-surface-cream p-6 shadow-md">
@@ -502,7 +559,7 @@ export default function ESIMPage({ providers }: ESIMPageProps) {
             <div className="mx-auto max-w-3xl">
               <p className="section-label text-center">FAQ</p>
               <h2 className="text-3xl font-bold font-heading text-gray-900 mb-8 text-center">
-                Frequently asked questions
+                {t('Frequently asked questions', 'Veelgestelde vragen')}
               </h2>
               <div className="space-y-6">
                 {faqData.map((item) => (
@@ -519,32 +576,41 @@ export default function ESIMPage({ providers }: ESIMPageProps) {
         <section className="bg-white section-padding">
           <div className="container-custom">
             <div className="mx-auto max-w-4xl rounded-2xl bg-white p-8 shadow-md">
-              <p className="section-label">Sources</p>
+              <p className="section-label">{t('Sources', 'Bronnen')}</p>
               <h2 className="text-3xl font-bold font-heading text-gray-900 mb-4">
-                Sources, methodology, and transparency
+                {t('Sources, methodology, and transparency', 'Bronnen, methodologie en transparantie')}
               </h2>
               <p className="text-gray-600 mb-6">
-                This page was reviewed on <strong>{REVIEWED_DATE}</strong>. We used official provider pages, help centers, and Apple&apos;s own eSIM travel documentation for the general setup advice. We also disclose the affiliate relationship clearly because these links are commercial.
+                {t(
+                  `This page was reviewed on`,
+                  `Deze pagina is beoordeeld op`
+                )} <strong>{REVIEWED_DATE}</strong>. {t(
+                  'We used official provider pages, help centers, and Apple\'s own eSIM travel documentation for the general setup advice. We also disclose the affiliate relationship clearly because these links are commercial.',
+                  'We gebruikten officiële aanbiederpagina\'s, helpcentra en Apple\'s eigen eSIM-reisdocumentatie voor het algemene installatieadvies. We vermelden de affiliate-relatie ook duidelijk omdat deze links commercieel zijn.'
+                )}
               </p>
               <div className="grid grid-cols-1 md:grid-cols-2 gap-6 mb-6">
                 <div className="rounded-2xl bg-thailand-blue-50 p-5">
-                  <p className="font-semibold text-thailand-blue-900 mb-2">Editorial review</p>
+                  <p className="font-semibold text-thailand-blue-900 mb-2">{t('Editorial review', 'Redactionele beoordeling')}</p>
                   <p className="text-sm text-thailand-blue-900 mb-3">
-                    Reviewed by <strong>Go2Thailand Editorial Team</strong> on <strong>{REVIEWED_DATE}</strong>.
+                    {t('Reviewed by', 'Beoordeeld door')} <strong>Go2Thailand Editorial Team</strong> {t('on', 'op')} <strong>{REVIEWED_DATE}</strong>.
                   </p>
-                  <p className="font-semibold text-thailand-blue-900 mb-2">Editorial standards</p>
+                  <p className="font-semibold text-thailand-blue-900 mb-2">{t('Editorial standards', 'Redactionele standaarden')}</p>
                   <p className="text-sm text-thailand-blue-900">
-                    We avoided invented ratings, unverified support-speed claims, and outdated price points. Where data changes often, we framed it as a checked snapshot rather than a fixed promise.
+                    {t(
+                      'We avoided invented ratings, unverified support-speed claims, and outdated price points. Where data changes often, we framed it as a checked snapshot rather than a fixed promise.',
+                      'We vermeden verzonnen beoordelingen, ongecontroleerde claims over supportsnelheid en verouderde prijspunten. Waar gegevens vaak veranderen, presenteerden we het als een gecontroleerde momentopname in plaats van een vaste belofte.'
+                    )}
                   </p>
                 </div>
                 <div className="rounded-2xl bg-orange-50 p-5">
-                  <p className="font-semibold text-orange-900 mb-2">Policy links</p>
+                  <p className="font-semibold text-orange-900 mb-2">{t('Policy links', 'Beleidslinks')}</p>
                   <div className="space-y-2 text-sm">
                     <Link href="/editorial-policy/" className="block text-orange-900 underline underline-offset-2">
-                      Editorial Policy
+                      {t('Editorial Policy', 'Redactioneel Beleid')}
                     </Link>
                     <Link href="/affiliate-disclosure/" className="block text-orange-900 underline underline-offset-2">
-                      Affiliate Disclosure
+                      {t('Affiliate Disclosure', 'Affiliate Verklaring')}
                     </Link>
                   </div>
                 </div>
@@ -565,31 +631,43 @@ export default function ESIMPage({ providers }: ESIMPageProps) {
 
         <section className="section-padding">
           <div className="container-custom">
-            <p className="section-label text-center">Related Guides</p>
+            <p className="section-label text-center">{t('Related Guides', 'Gerelateerde Gidsen')}</p>
             <h2 className="text-3xl font-bold font-heading text-gray-900 mb-8 text-center">
-              Related Thailand prep guides
+              {t('Related Thailand prep guides', 'Gerelateerde Thailand voorbereidingsgidsen')}
             </h2>
             <div className="grid grid-cols-1 sm:grid-cols-2 lg:grid-cols-4 gap-6">
               {[
                 {
                   href: '/travel-security/',
-                  title: 'Travel security guide',
-                  text: 'VPNs, password managers, and practical digital-safety habits for Thailand.',
+                  title: t('Travel security guide', 'Reisveiligheidsgids'),
+                  text: t(
+                    'VPNs, password managers, and practical digital-safety habits for Thailand.',
+                    'VPN\'s, wachtwoordmanagers en praktische digitale veiligheidsgewoonten voor Thailand.'
+                  ),
                 },
                 {
                   href: '/travel-insurance-thailand/',
-                  title: 'Travel insurance guide',
-                  text: 'Medical and cancellation cover explained in a separate guide.',
+                  title: t('Travel insurance guide', 'Reisverzekeringsgids'),
+                  text: t(
+                    'Medical and cancellation cover explained in a separate guide.',
+                    'Medische en annuleringsdekking uitgelegd in een aparte gids.'
+                  ),
                 },
                 {
                   href: '/thailand-for-first-timers/',
-                  title: 'First-timer guide',
-                  text: 'Plan transport, money, timing, and expectations before you land.',
+                  title: t('First-timer guide', 'Gids voor eerste keer'),
+                  text: t(
+                    'Plan transport, money, timing, and expectations before you land.',
+                    'Plan transport, geld, timing en verwachtingen voordat je landt.'
+                  ),
                 },
                 {
                   href: '/city/',
-                  title: 'Explore destinations',
-                  text: 'Choose Bangkok, Chiang Mai, islands, beach towns, and more.',
+                  title: t('Explore destinations', 'Ontdek bestemmingen'),
+                  text: t(
+                    'Choose Bangkok, Chiang Mai, islands, beach towns, and more.',
+                    'Kies Bangkok, Chiang Mai, eilanden, badplaatsen en meer.'
+                  ),
                 },
               ].map((item) => (
                 <Link

@@ -1,4 +1,5 @@
 import Link from 'next/link';
+import { useRouter } from 'next/router';
 
 type BannerLink = {
   label: string;
@@ -23,6 +24,9 @@ export default function PreFooterAffiliateBanner({
   eyebrow,
   sectionClassName = 'bg-surface-dark',
 }: PreFooterAffiliateBannerProps) {
+  const { locale } = useRouter();
+  const isNl = locale === 'nl';
+
   return (
     <section className={sectionClassName}>
       <div className="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8 py-8">
@@ -57,7 +61,9 @@ export default function PreFooterAffiliateBanner({
           </div>
         </div>
         <p className="text-white/70 text-xs text-center mt-4">
-          Some links are affiliate links. We may earn a commission at no extra cost to you.
+          {isNl
+            ? 'Sommige links zijn affiliate links. We kunnen een commissie verdienen zonder extra kosten voor jou.'
+            : 'Some links are affiliate links. We may earn a commission at no extra cost to you.'}
         </p>
       </div>
     </section>

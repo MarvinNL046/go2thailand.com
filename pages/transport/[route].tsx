@@ -56,10 +56,12 @@ const getComfortStars = (rating: number) => {
 const TransportRoutePage: React.FC<RoutePageProps> = ({ route, fromCity, toCity, transportOptions, comparisonSlug, twelveGoUrl }) => {
   const { locale } = useRouter();
 
+  const t = (en: string, nl: string) => locale === 'nl' ? nl : en;
+
   const breadcrumbs = [
-    { name: 'Home', href: '/' },
-    { name: 'Transport', href: '/transport' },
-    { name: `${fromCity.name.en} to ${toCity.name.en}`, href: `/transport/${route.slug}` }
+    { name: t('Home', 'Home'), href: '/' },
+    { name: t('Transport', 'Transport'), href: '/transport' },
+    { name: `${fromCity.name.en} ${t('to', 'naar')} ${toCity.name.en}`, href: `/transport/${route.slug}` }
   ];
 
   const faqs = [
@@ -165,15 +167,15 @@ const TransportRoutePage: React.FC<RoutePageProps> = ({ route, fromCity, toCity,
         
         <div className="flex flex-wrap gap-4 mb-8">
           <div className="bg-surface-cream px-4 py-2 rounded-xl">
-            <span className="text-sm text-gray-600">Distance:</span>
+            <span className="text-sm text-gray-600">{t('Distance:', 'Afstand:')}</span>
             <span className="ml-2 font-semibold">{route.distance}</span>
           </div>
           <div className="bg-surface-cream px-4 py-2 rounded-xl">
-            <span className="text-sm text-gray-600">Fastest:</span>
+            <span className="text-sm text-gray-600">{t('Fastest:', 'Snelste:')}</span>
             <span className="ml-2 font-semibold">{route.duration.flight || route.duration.taxi || 'N/A'}</span>
           </div>
           <div className="bg-surface-cream px-4 py-2 rounded-xl">
-            <span className="text-sm text-gray-600">Budget:</span>
+            <span className="text-sm text-gray-600">{t('Budget:', 'Budget:')}</span>
             <span className="ml-2 font-semibold">{route.duration.bus || route.duration.train || 'N/A'}</span>
           </div>
         </div>
@@ -190,7 +192,7 @@ const TransportRoutePage: React.FC<RoutePageProps> = ({ route, fromCity, toCity,
                       <div>
                         <h2 className="text-2xl font-bold font-heading">{option.method}</h2>
                         <div className="text-sm text-gray-600">
-                          Comfort: {getComfortStars(option.comfort)}
+                          {t('Comfort:', 'Comfort:')} {getComfortStars(option.comfort)}
                         </div>
                       </div>
                     </div>
@@ -204,7 +206,7 @@ const TransportRoutePage: React.FC<RoutePageProps> = ({ route, fromCity, toCity,
 
                   <div className="grid md:grid-cols-2 gap-4 mb-4">
                     <div>
-                      <h3 className="font-semibold text-green-600 mb-2">Pros</h3>
+                      <h3 className="font-semibold text-green-600 mb-2">{t('Pros', 'Voordelen')}</h3>
                       <ul className="space-y-1">
                         {option.pros.map((pro, idx) => (
                           <li key={idx} className="flex items-start">
@@ -215,7 +217,7 @@ const TransportRoutePage: React.FC<RoutePageProps> = ({ route, fromCity, toCity,
                       </ul>
                     </div>
                     <div>
-                      <h3 className="font-semibold text-red-600 mb-2">Cons</h3>
+                      <h3 className="font-semibold text-red-600 mb-2">{t('Cons', 'Nadelen')}</h3>
                       <ul className="space-y-1">
                         {option.cons.map((con, idx) => (
                           <li key={idx} className="flex items-start">
@@ -228,11 +230,11 @@ const TransportRoutePage: React.FC<RoutePageProps> = ({ route, fromCity, toCity,
                   </div>
 
                   <div className="border-t pt-4">
-                    <h3 className="font-semibold mb-2">Booking Tips</h3>
+                    <h3 className="font-semibold mb-2">{t('Booking Tips', 'Boektips')}</h3>
                     <ul className="space-y-1">
                       {option.bookingTips.map((tip, idx) => (
                         <li key={idx} className="flex items-start">
-                          <span className="text-blue-500 mr-2">Tip:</span>
+                          <span className="text-blue-500 mr-2">{t('Tip:', 'Tip:')}</span>
                           <span className="text-sm text-gray-700">{tip}</span>
                         </li>
                       ))}
@@ -241,7 +243,7 @@ const TransportRoutePage: React.FC<RoutePageProps> = ({ route, fromCity, toCity,
 
                   <div className="mt-4 bg-surface-cream p-3 rounded-xl flex items-center justify-between">
                     <span className="text-sm text-gray-600">
-                      <strong>Frequency:</strong> {option.frequency}
+                      <strong>{t('Frequency:', 'Frequentie:')}</strong> {option.frequency}
                     </span>
                     <a
                       href={twelveGoUrl}
@@ -249,7 +251,7 @@ const TransportRoutePage: React.FC<RoutePageProps> = ({ route, fromCity, toCity,
                       rel="noopener noreferrer"
                       className="bg-thailand-red text-white px-4 py-2 rounded-xl text-sm font-medium hover:bg-thailand-red-600 transition-colors"
                     >
-                      Book on 12Go →
+                      {t('Book on 12Go', 'Boek op 12Go')} →
                     </a>
                   </div>
                 </div>
@@ -261,30 +263,34 @@ const TransportRoutePage: React.FC<RoutePageProps> = ({ route, fromCity, toCity,
 
             {/* Travel Tips */}
             <section className="bg-white rounded-2xl shadow-md p-6 mb-8">
-              <h2 className="text-2xl font-bold font-heading mb-4">Travel Tips</h2>
+              <h2 className="text-2xl font-bold font-heading mb-4">{t('Travel Tips', 'Reistips')}</h2>
               <div className="space-y-4">
                 <div>
-                  <h3 className="font-semibold font-heading mb-2">Best Time to Travel</h3>
+                  <h3 className="font-semibold font-heading mb-2">{t('Best Time to Travel', 'Beste Reistijd')}</h3>
                   <p className="text-gray-700">
-                    Early morning departures (6-8 AM) often have less traffic and cooler temperatures. 
-                    Avoid Friday evenings and Sunday afternoons when traffic is heaviest.
+                    {t(
+                      'Early morning departures (6-8 AM) often have less traffic and cooler temperatures. Avoid Friday evenings and Sunday afternoons when traffic is heaviest.',
+                      'Vroege ochtendvertrekken (6-8 uur) hebben vaak minder verkeer en koelere temperaturen. Vermijd vrijdagavonden en zondagmiddagen wanneer het verkeer het drukst is.'
+                    )}
                   </p>
                 </div>
                 <div>
-                  <h3 className="font-semibold font-heading mb-2">What to Bring</h3>
+                  <h3 className="font-semibold font-heading mb-2">{t('What to Bring', 'Wat Meenemen')}</h3>
                   <ul className="list-disc list-inside text-gray-700 space-y-1">
-                    <li>Valid ID or passport</li>
-                    <li>Snacks and water for long journeys</li>
-                    <li>Entertainment (book, music, downloads)</li>
-                    <li>Neck pillow for comfort</li>
-                    <li>Light jacket (for air-conditioned transport)</li>
+                    <li>{t('Valid ID or passport', 'Geldig ID of paspoort')}</li>
+                    <li>{t('Snacks and water for long journeys', 'Snacks en water voor langere reizen')}</li>
+                    <li>{t('Entertainment (book, music, downloads)', 'Entertainment (boek, muziek, downloads)')}</li>
+                    <li>{t('Neck pillow for comfort', 'Nekkussen voor comfort')}</li>
+                    <li>{t('Light jacket (for air-conditioned transport)', 'Lichte jas voor voertuigen met airco')}</li>
                   </ul>
                 </div>
                 <div>
-                  <h3 className="font-semibold font-heading mb-2">Booking Advice</h3>
+                  <h3 className="font-semibold font-heading mb-2">{t('Booking Advice', 'Boekadvies')}</h3>
                   <p className="text-gray-700">
-                    Book flights 3-4 weeks in advance for best prices. Bus and train tickets can usually be 
-                    purchased 1-2 days ahead, except during Thai holidays when advance booking is essential.
+                    {t(
+                      'Book flights 3-4 weeks in advance for best prices. Bus and train tickets can usually be purchased 1-2 days ahead, except during Thai holidays when advance booking is essential.',
+                      'Boek vluchten 3-4 weken van tevoren voor de beste prijzen. Bus- en treinkaartjes kunnen meestal 1-2 dagen van tevoren gekocht worden, behalve tijdens Thaise feestdagen wanneer vroeg boeken essentieel is.'
+                    )}
                   </p>
                 </div>
               </div>
@@ -292,7 +298,7 @@ const TransportRoutePage: React.FC<RoutePageProps> = ({ route, fromCity, toCity,
 
             {/* FAQ Section */}
             <section className="bg-white rounded-2xl shadow-md p-6 mb-8">
-              <h2 className="text-2xl font-bold font-heading mb-6">Frequently Asked Questions</h2>
+              <h2 className="text-2xl font-bold font-heading mb-6">{t('Frequently Asked Questions', 'Veelgestelde Vragen')}</h2>
               <div className="space-y-6">
                 {faqs.map((faq, index) => (
                   <div key={index} className="border-b border-gray-100 pb-4 last:border-0">
@@ -306,25 +312,28 @@ const TransportRoutePage: React.FC<RoutePageProps> = ({ route, fromCity, toCity,
             {/* Compare These Cities — only shown if a comparison page exists */}
             {comparisonSlug && (
               <section className="bg-white rounded-2xl shadow-md p-6 mb-8">
-                <h2 className="text-xl font-bold font-heading mb-3">Compare {fromCity.name.en} vs {toCity.name.en}</h2>
+                <h2 className="text-xl font-bold font-heading mb-3">{t('Compare', 'Vergelijk')} {fromCity.name.en} vs {toCity.name.en}</h2>
                 <p className="text-gray-600 text-sm mb-4">
-                  Not sure which city to visit? Compare weather, budget, attractions, and more.
+                  {t(
+                    'Not sure which city to visit? Compare weather, budget, attractions, and more.',
+                    'Niet zeker welke stad je wilt bezoeken? Vergelijk weer, budget, attracties en meer.'
+                  )}
                 </p>
                 <Link
                   href={`/compare/${comparisonSlug}/`}
                   className="inline-flex items-center gap-2 bg-thailand-blue text-white px-5 py-2.5 rounded-xl font-semibold hover:bg-blue-700 transition-colors text-sm"
                 >
-                  Compare {fromCity.name.en} & {toCity.name.en} →
+                  {t('Compare', 'Vergelijk')} {fromCity.name.en} & {toCity.name.en} →
                 </Link>
               </section>
             )}
 
             {/* Related Routes */}
             <section className="bg-white rounded-2xl shadow-md p-6">
-              <h2 className="text-2xl font-bold font-heading mb-4">Related Routes</h2>
+              <h2 className="text-2xl font-bold font-heading mb-4">{t('Related Routes', 'Gerelateerde Routes')}</h2>
               <div className="grid gap-3">
                 <div className="mb-2">
-                  <h3 className="text-sm font-semibold text-gray-500 uppercase tracking-wide mb-2">From {fromCity.name.en}</h3>
+                  <h3 className="text-sm font-semibold text-gray-500 uppercase tracking-wide mb-2">{t('From', 'Vanaf')} {fromCity.name.en}</h3>
                   {transportRoutes.routes
                     .filter(r => (r.from === fromCity.slug || r.to === fromCity.slug) && r.slug !== route.slug)
                     .slice(0, 4)
@@ -340,7 +349,7 @@ const TransportRoutePage: React.FC<RoutePageProps> = ({ route, fromCity, toCity,
                     })}
                 </div>
                 <div className="mb-2">
-                  <h3 className="text-sm font-semibold text-gray-500 uppercase tracking-wide mb-2">From {toCity.name.en}</h3>
+                  <h3 className="text-sm font-semibold text-gray-500 uppercase tracking-wide mb-2">{t('From', 'Vanaf')} {toCity.name.en}</h3>
                   {transportRoutes.routes
                     .filter(r => (r.from === toCity.slug || r.to === toCity.slug) && r.slug !== route.slug)
                     .slice(0, 4)
@@ -357,10 +366,10 @@ const TransportRoutePage: React.FC<RoutePageProps> = ({ route, fromCity, toCity,
                 </div>
                 <div className="pt-2 border-t border-gray-100">
                   <Link href={`/city/${fromCity.slug}/`} className="text-thailand-blue hover:text-blue-700 text-sm font-medium mr-4">
-                    Explore {fromCity.name.en} →
+                    {t('Explore', 'Ontdek')} {fromCity.name.en} →
                   </Link>
                   <Link href={`/city/${toCity.slug}/`} className="text-thailand-blue hover:text-blue-700 text-sm font-medium">
-                    Explore {toCity.name.en} →
+                    {t('Explore', 'Ontdek')} {toCity.name.en} →
                   </Link>
                 </div>
               </div>
@@ -372,7 +381,7 @@ const TransportRoutePage: React.FC<RoutePageProps> = ({ route, fromCity, toCity,
             <div className="lg:sticky lg:top-4 space-y-6">
             {/* 12Go Search Widget */}
             <div className="bg-white rounded-2xl shadow-md p-6">
-              <h3 className="text-lg font-semibold font-heading mb-3">Search Transport</h3>
+              <h3 className="text-lg font-semibold font-heading mb-3">{t('Search Transport', 'Zoek Transport')}</h3>
               <AffiliateWidget
                 scriptContent={`<script async src="https://tpembd.com/content?trs=421888&shmarker=602467&locale=en&from=${encodeURIComponent(fromCity.name.en)}&to=${encodeURIComponent(toCity.name.en)}&from_en=${encodeURIComponent(fromCity.name.en)}&to_en=${encodeURIComponent(toCity.name.en)}&powered_by=true&color=black&border=1&campaign_id=44&promo_id=1506" charset="utf-8"></script>`}
                 minHeight="250px"
@@ -381,12 +390,18 @@ const TransportRoutePage: React.FC<RoutePageProps> = ({ route, fromCity, toCity,
 
             {/* 12Go Booking */}
             <div className="bg-surface-cream rounded-2xl shadow-md p-6 border-0">
-              <h3 className="text-lg font-semibold font-heading mb-3">Book Transport</h3>
+              <h3 className="text-lg font-semibold font-heading mb-3">{t('Book Transport', 'Boek Transport')}</h3>
               <p className="text-sm text-gray-600 mb-4">
-                Book buses, trains, and ferries from {fromCity.name.en} to {toCity.name.en} on 12Go — Thailand&apos;s most popular transport booking platform.
+                {t(
+                  `Book buses, trains, and ferries from ${fromCity.name.en} to ${toCity.name.en} on 12Go — Thailand's most popular transport booking platform.`,
+                  `Boek bussen, treinen en veerboten van ${fromCity.name.en} naar ${toCity.name.en} op 12Go — Thailand's populairste transport boekingsplatform.`
+                )}
               </p>
               <div className="space-y-2 mb-4">
-                {['Instant e-ticket confirmation', 'Compare all operators & prices', 'Free cancellation on most tickets', '24/7 customer support'].map((f, i) => (
+                {(locale === 'nl'
+                  ? ['Direct e-ticket bevestiging', 'Vergelijk alle aanbieders & prijzen', 'Gratis annulering op de meeste tickets', '24/7 klantenservice']
+                  : ['Instant e-ticket confirmation', 'Compare all operators & prices', 'Free cancellation on most tickets', '24/7 customer support']
+                ).map((f, i) => (
                   <div key={i} className="flex items-center text-xs text-gray-600">
                     <span className="text-green-500 mr-2">✓</span>{f}
                   </div>
@@ -398,28 +413,28 @@ const TransportRoutePage: React.FC<RoutePageProps> = ({ route, fromCity, toCity,
                 rel="noopener noreferrer"
                 className="block w-full bg-thailand-red text-white text-center py-3 rounded-xl font-semibold hover:bg-thailand-red-600 transition-colors"
               >
-                Search on 12Go →
+                {t('Search on 12Go', 'Zoek op 12Go')} →
               </a>
               <p className="text-xs text-gray-500 mt-2 text-center">
-                Affiliate link — we earn a small commission
+                {t('Affiliate link — we earn a small commission', 'Affiliate link — we verdienen een kleine commissie')}
               </p>
             </div>
 
             {/* Trip.com Widget */}
             <div className="bg-white rounded-2xl shadow-md p-6">
-              <h3 className="text-lg font-semibold font-heading mb-4">Book Your Journey</h3>
+              <h3 className="text-lg font-semibold font-heading mb-4">{t('Book Your Journey', 'Boek Je Reis')}</h3>
               <TripcomWidget city={fromCity.name.en} type="bundle" />
             </div>
 
             {/* Other Routes Selector */}
             <div className="bg-white rounded-2xl shadow-md p-6">
-              <h3 className="text-lg font-semibold font-heading mb-4">Popular Routes</h3>
+              <h3 className="text-lg font-semibold font-heading mb-4">{t('Popular Routes', 'Populaire Routes')}</h3>
               <select 
                 className="w-full p-2 border border-gray-300 rounded-xl text-gray-700 focus:outline-none focus:ring-2 focus:ring-thailand-red mb-4"
                 value={route.slug}
                 onChange={(e) => window.location.href = `/transport/${e.target.value}`}
               >
-                <option value="">Select a route...</option>
+                <option value="">{t('Select a route...', 'Selecteer een route...')}</option>
                 {transportRoutes.routes
                   .filter(r => r.popular)
                   .map(r => (
@@ -430,24 +445,24 @@ const TransportRoutePage: React.FC<RoutePageProps> = ({ route, fromCity, toCity,
                 }
               </select>
               <Link href="/transport" className="text-thailand-red hover:text-thailand-red-600 text-sm">
-                View all routes →
+                {t('View all routes', 'Bekijk alle routes')} →
               </Link>
             </div>
 
             {/* Quick Facts */}
             <div className="bg-white rounded-2xl shadow-md p-6">
-              <h3 className="text-lg font-semibold font-heading mb-4">Quick Facts</h3>
+              <h3 className="text-lg font-semibold font-heading mb-4">{t('Quick Facts', 'Snelle Feiten')}</h3>
               <dl className="space-y-3 text-sm">
                 <div className="flex justify-between">
-                  <dt className="text-gray-600">Distance:</dt>
+                  <dt className="text-gray-600">{t('Distance:', 'Afstand:')}</dt>
                   <dd className="font-medium">{route.distance}</dd>
                 </div>
                 <div className="flex justify-between">
-                  <dt className="text-gray-600">Time Zone:</dt>
+                  <dt className="text-gray-600">{t('Time Zone:', 'Tijdzone:')}</dt>
                   <dd className="font-medium">GMT+7</dd>
                 </div>
                 <div className="flex justify-between">
-                  <dt className="text-gray-600">Currency:</dt>
+                  <dt className="text-gray-600">{t('Currency:', 'Valuta:')}</dt>
                   <dd className="font-medium">Thai Baht (฿)</dd>
                 </div>
               </dl>
@@ -455,21 +470,21 @@ const TransportRoutePage: React.FC<RoutePageProps> = ({ route, fromCity, toCity,
 
             {/* Related Links */}
             <div className="bg-white rounded-2xl shadow-md p-6">
-              <h3 className="text-lg font-semibold font-heading mb-4">Plan Your Trip</h3>
+              <h3 className="text-lg font-semibold font-heading mb-4">{t('Plan Your Trip', 'Plan Je Reis')}</h3>
               <ul className="space-y-2">
                 <li>
                   <Link href={`/city/${fromCity.slug}/weather`} className="text-thailand-red hover:text-thailand-red-600">
-                    {fromCity.name.en} Weather
+                    {fromCity.name.en} {t('Weather', 'Weer')}
                   </Link>
                 </li>
                 <li>
                   <Link href={`/city/${toCity.slug}/weather`} className="text-thailand-red hover:text-thailand-red-600">
-                    {toCity.name.en} Weather
+                    {toCity.name.en} {t('Weather', 'Weer')}
                   </Link>
                 </li>
                 <li>
                   <Link href="/travel-insurance-thailand/" className="text-thailand-red hover:text-thailand-red-600">
-                    Travel Insurance
+                    {t('Travel Insurance', 'Reisverzekering')}
                   </Link>
                 </li>
                 <li>

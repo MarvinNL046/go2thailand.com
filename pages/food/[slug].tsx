@@ -1,5 +1,6 @@
 import { GetStaticProps, GetStaticPaths } from 'next';
 import Link from 'next/link';
+import { useRouter } from 'next/router';
 import fs from 'fs';
 import path from 'path';
 import { getEnhancedDishBySlug, getDishStaticPaths, generateDishMetadata, getRelatedDishes, generateFoodBreadcrumbs } from '../../lib/food';
@@ -85,6 +86,9 @@ interface DishPageProps {
 }
 
 export default function DishPage({ dish, relatedDishes, citiesForDish, editorial }: DishPageProps) {
+  const { locale } = useRouter();
+  const isNl = locale === 'nl';
+
   if (!dish) return <div>Dish not found</div>;
 
   const metadata = generateDishMetadata(dish);
@@ -178,7 +182,7 @@ export default function DishPage({ dish, relatedDishes, citiesForDish, editorial
             <nav className="text-sm text-gray-600">
               <Link href="/" className="hover:text-thailand-blue">Home</Link>
               <span className="mx-2">›</span>
-              <Link href="/food/" className="hover:text-thailand-blue">Thai Food</Link>
+              <Link href="/food/" className="hover:text-thailand-blue">{isNl ? 'Thais Eten' : 'Thai Food'}</Link>
               <span className="mx-2">›</span>
               <span className="text-gray-900">{dish.name.en}</span>
             </nav>
@@ -192,7 +196,7 @@ export default function DishPage({ dish, relatedDishes, citiesForDish, editorial
               <div>
                 <div className="flex items-center gap-4 mb-6">
                   <span className={`px-3 py-1 rounded-full text-sm font-medium ${getSpiceLevelColor(dish.spice_level)}`}>
-                    {dish.spice_level === 'none' ? 'Not Spicy' : dish.spice_level}
+                    {dish.spice_level === 'none' ? (isNl ? 'Niet Pittig' : 'Not Spicy') : dish.spice_level}
                   </span>
                   <span className={`px-3 py-1 rounded-full text-sm font-medium ${getDifficultyColor(dish.difficulty)}`}>
                     {dish.difficulty}
@@ -216,12 +220,12 @@ export default function DishPage({ dish, relatedDishes, citiesForDish, editorial
                 <div className="grid grid-cols-2 md:grid-cols-4 gap-4 text-center">
                   <div className="bg-surface-cream rounded-xl p-4">
                     <div className="text-2xl mb-2"></div>
-                    <div className="text-sm text-gray-600">Prep Time</div>
+                    <div className="text-sm text-gray-600">{isNl ? 'Bereidingstijd' : 'Prep Time'}</div>
                     <div className="font-semibold">{dish.preparation_time}</div>
                   </div>
                   <div className="bg-surface-cream rounded-xl p-4">
                     <div className="text-2xl mb-2"></div>
-                    <div className="text-sm text-gray-600">Region</div>
+                    <div className="text-sm text-gray-600">{isNl ? 'Regio' : 'Region'}</div>
                     <div className="font-semibold capitalize">
                       <Link href={`/region/${dish.region}/`} className="text-thailand-blue hover:underline">
                         {dish.region === 'isaan' ? 'Isaan (Northeast)' : `${dish.region.charAt(0).toUpperCase() + dish.region.slice(1)} Thailand`}
@@ -230,12 +234,12 @@ export default function DishPage({ dish, relatedDishes, citiesForDish, editorial
                   </div>
                   <div className="bg-surface-cream rounded-xl p-4">
                     <div className="text-2xl mb-2"></div>
-                    <div className="text-sm text-gray-600">Price Range</div>
+                    <div className="text-sm text-gray-600">{isNl ? 'Prijsklasse' : 'Price Range'}</div>
                     <div className="font-semibold capitalize">{dish.price_range}</div>
                   </div>
                   <div className="bg-surface-cream rounded-xl p-4">
                     <div className="text-2xl mb-2"></div>
-                    <div className="text-sm text-gray-600">Difficulty</div>
+                    <div className="text-sm text-gray-600">{isNl ? 'Moeilijkheid' : 'Difficulty'}</div>
                     <div className="font-semibold capitalize">{dish.difficulty}</div>
                   </div>
                 </div>
@@ -280,7 +284,7 @@ export default function DishPage({ dish, relatedDishes, citiesForDish, editorial
               <div className="lg:col-span-2 space-y-8">
                 {/* Ingredients */}
                 <div className="bg-white rounded-2xl shadow-md p-8">
-                  <h2 className="text-2xl font-heading font-bold text-gray-900 mb-6">Ingredients</h2>
+                  <h2 className="text-2xl font-heading font-bold text-gray-900 mb-6">{isNl ? 'Ingredi\u00ebnten' : 'Ingredients'}</h2>
                   {dish.detailed_ingredients ? (
                     <div className="space-y-4">
                       {dish.detailed_ingredients.map((ingredient, index) => (
@@ -309,19 +313,19 @@ export default function DishPage({ dish, relatedDishes, citiesForDish, editorial
                 {/* Cooking Method */}
                 {dish.cooking_method && (
                   <div className="bg-white rounded-2xl shadow-md p-8">
-                    <h2 className="text-2xl font-heading font-bold text-gray-900 mb-6">Cooking Method</h2>
+                    <h2 className="text-2xl font-heading font-bold text-gray-900 mb-6">{isNl ? 'Bereidingswijze' : 'Cooking Method'}</h2>
                     <div className="space-y-4">
                       <div>
-                        <h3 className="font-heading font-semibold text-gray-900 mb-2">Technique</h3>
+                        <h3 className="font-heading font-semibold text-gray-900 mb-2">{isNl ? 'Techniek' : 'Technique'}</h3>
                         <p className="text-gray-700">{dish.cooking_method.technique}</p>
                       </div>
                       <div>
-                        <h3 className="font-heading font-semibold text-gray-900 mb-2">Overview</h3>
+                        <h3 className="font-heading font-semibold text-gray-900 mb-2">{isNl ? 'Overzicht' : 'Overview'}</h3>
                         <p className="text-gray-700">{dish.cooking_method.steps_overview}</p>
                       </div>
                       {dish.cooking_method.cooking_tips.length > 0 && (
                         <div>
-                          <h3 className="font-heading font-semibold text-gray-900 mb-2">Cooking Tips</h3>
+                          <h3 className="font-heading font-semibold text-gray-900 mb-2">{isNl ? 'Kooktips' : 'Cooking Tips'}</h3>
                           <ul className="list-disc list-inside space-y-1 text-gray-700">
                             {dish.cooking_method.cooking_tips.map((tip, index) => (
                               <li key={index}>{tip}</li>
@@ -336,19 +340,19 @@ export default function DishPage({ dish, relatedDishes, citiesForDish, editorial
                 {/* Cultural Significance */}
                 {dish.cultural_significance && (
                   <div className="bg-white rounded-2xl shadow-md p-8">
-                    <h2 className="text-2xl font-heading font-bold text-gray-900 mb-6">Cultural Significance</h2>
+                    <h2 className="text-2xl font-heading font-bold text-gray-900 mb-6">{isNl ? 'Culturele Betekenis' : 'Cultural Significance'}</h2>
                     <div className="space-y-4">
                       <div>
-                        <h3 className="font-heading font-semibold text-gray-900 mb-2">Origin Story</h3>
+                        <h3 className="font-heading font-semibold text-gray-900 mb-2">{isNl ? 'Oorsprong' : 'Origin Story'}</h3>
                         <p className="text-gray-700">{dish.cultural_significance.origin_story}</p>
                       </div>
                       <div>
-                        <h3 className="font-heading font-semibold text-gray-900 mb-2">Cultural Importance</h3>
+                        <h3 className="font-heading font-semibold text-gray-900 mb-2">{isNl ? 'Cultureel Belang' : 'Cultural Importance'}</h3>
                         <p className="text-gray-700">{dish.cultural_significance.cultural_importance}</p>
                       </div>
                       {dish.cultural_significance.traditional_occasions.length > 0 && (
                         <div>
-                          <h3 className="font-heading font-semibold text-gray-900 mb-2">Traditional Occasions</h3>
+                          <h3 className="font-heading font-semibold text-gray-900 mb-2">{isNl ? 'Traditionele Gelegenheden' : 'Traditional Occasions'}</h3>
                           <div className="flex flex-wrap gap-2">
                             {dish.cultural_significance.traditional_occasions.map((occasion, index) => (
                               <span key={index} className="bg-thailand-blue/10 text-thailand-blue px-3 py-1 rounded-full text-sm">
@@ -365,7 +369,7 @@ export default function DishPage({ dish, relatedDishes, citiesForDish, editorial
                 {/* Variations */}
                 {dish.variations && dish.variations.length > 0 && (
                   <div className="bg-white rounded-2xl shadow-md p-8">
-                    <h2 className="text-2xl font-heading font-bold text-gray-900 mb-6">Variations</h2>
+                    <h2 className="text-2xl font-heading font-bold text-gray-900 mb-6">{isNl ? 'Variaties' : 'Variations'}</h2>
                     <div className="space-y-4">
                       {dish.variations.map((variation, index) => (
                         <div key={index} className="border-l-4 border-thailand-gold pl-4">
@@ -383,11 +387,11 @@ export default function DishPage({ dish, relatedDishes, citiesForDish, editorial
 
                 {/* Quick Info */}
                 <div className="bg-white rounded-2xl shadow-md p-6">
-                  <h3 className="text-xl font-heading font-bold text-gray-900 mb-4">Quick Info</h3>
+                  <h3 className="text-xl font-heading font-bold text-gray-900 mb-4">{isNl ? 'Snelle Info' : 'Quick Info'}</h3>
                   <div className="space-y-3">
                     {dish.allergens.length > 0 && (
                       <div>
-                        <span className="font-semibold text-gray-900">Allergens:</span>
+                        <span className="font-semibold text-gray-900">{isNl ? 'Allergenen:' : 'Allergens:'}</span>
                         <div className="mt-1">
                           {dish.allergens.map((allergen, index) => (
                             <span key={index} className="inline-block bg-red-100 text-red-800 px-2 py-1 rounded-full text-xs mr-1 mb-1">
@@ -399,7 +403,7 @@ export default function DishPage({ dish, relatedDishes, citiesForDish, editorial
                     )}
                     {dish.dietary.length > 0 && (
                       <div>
-                        <span className="font-semibold text-gray-900">Dietary:</span>
+                        <span className="font-semibold text-gray-900">{isNl ? 'Dieet:' : 'Dietary:'}</span>
                         <div className="mt-1">
                           {dish.dietary.map((diet, index) => (
                             <span key={index} className="inline-block bg-green-100 text-green-800 px-2 py-1 rounded-full text-xs mr-1 mb-1">
@@ -415,11 +419,11 @@ export default function DishPage({ dish, relatedDishes, citiesForDish, editorial
                 {/* Where to Find */}
                 {dish.where_to_find && (
                   <div className="bg-white rounded-2xl shadow-md p-6">
-                    <h3 className="text-xl font-heading font-bold text-gray-900 mb-4">Where to Find</h3>
+                    <h3 className="text-xl font-heading font-bold text-gray-900 mb-4">{isNl ? 'Waar te Vinden' : 'Where to Find'}</h3>
                     <div className="space-y-4">
                       {dish.where_to_find.best_restaurants.length > 0 && (
                         <div>
-                          <h4 className="font-heading font-semibold text-gray-900 mb-2">Best Restaurants</h4>
+                          <h4 className="font-heading font-semibold text-gray-900 mb-2">{isNl ? 'Beste Restaurants' : 'Best Restaurants'}</h4>
                           <ul className="text-gray-700 text-sm space-y-1">
                             {dish.where_to_find.best_restaurants.map((restaurant, index) => (
                               <li key={index}>• {restaurant}</li>
@@ -429,7 +433,7 @@ export default function DishPage({ dish, relatedDishes, citiesForDish, editorial
                       )}
                       {dish.where_to_find.street_food_areas.length > 0 && (
                         <div>
-                          <h4 className="font-heading font-semibold text-gray-900 mb-2">Street Food Areas</h4>
+                          <h4 className="font-heading font-semibold text-gray-900 mb-2">{isNl ? 'Straatvoedsel Gebieden' : 'Street Food Areas'}</h4>
                           <ul className="text-gray-700 text-sm space-y-1">
                             {dish.where_to_find.street_food_areas.map((area, index) => (
                               <li key={index}>• {area}</li>
@@ -438,10 +442,10 @@ export default function DishPage({ dish, relatedDishes, citiesForDish, editorial
                         </div>
                       )}
                       <div>
-                        <h4 className="font-heading font-semibold text-gray-900 mb-2">Price Ranges</h4>
+                        <h4 className="font-heading font-semibold text-gray-900 mb-2">{isNl ? 'Prijsklassen' : 'Price Ranges'}</h4>
                         <div className="text-sm space-y-1">
                           <div className="flex justify-between">
-                            <span>Street Food:</span>
+                            <span>{isNl ? 'Straatvoedsel:' : 'Street Food:'}</span>
                             <span className="font-medium">{dish.where_to_find.price_ranges.street_food}</span>
                           </div>
                           <div className="flex justify-between">
@@ -449,7 +453,7 @@ export default function DishPage({ dish, relatedDishes, citiesForDish, editorial
                             <span className="font-medium">{dish.where_to_find.price_ranges.restaurant}</span>
                           </div>
                           <div className="flex justify-between">
-                            <span>Upscale:</span>
+                            <span>{isNl ? 'Luxe:' : 'Upscale:'}</span>
                             <span className="font-medium">{dish.where_to_find.price_ranges.upscale}</span>
                           </div>
                         </div>
@@ -461,15 +465,15 @@ export default function DishPage({ dish, relatedDishes, citiesForDish, editorial
                 {/* Nutritional Info */}
                 {dish.nutritional_info && (
                   <div className="bg-white rounded-2xl shadow-md p-6">
-                    <h3 className="text-xl font-heading font-bold text-gray-900 mb-4">Nutritional Info</h3>
+                    <h3 className="text-xl font-heading font-bold text-gray-900 mb-4">{isNl ? 'Voedingsinfo' : 'Nutritional Info'}</h3>
                     <div className="space-y-3">
                       <div>
-                        <span className="font-semibold text-gray-900">Calories per serving:</span>
+                        <span className="font-semibold text-gray-900">{isNl ? 'Calorie\u00ebn per portie:' : 'Calories per serving:'}</span>
                         <p className="text-gray-700">{dish.nutritional_info.calories_per_serving}</p>
                       </div>
                       {dish.nutritional_info.health_benefits.length > 0 && (
                         <div>
-                          <span className="font-semibold text-gray-900">Health Benefits:</span>
+                          <span className="font-semibold text-gray-900">{isNl ? 'Gezondheidsvoordelen:' : 'Health Benefits:'}</span>
                           <ul className="text-gray-700 text-sm mt-1 space-y-1">
                             {dish.nutritional_info.health_benefits.map((benefit, index) => (
                               <li key={index}>• {benefit}</li>
@@ -490,7 +494,7 @@ export default function DishPage({ dish, relatedDishes, citiesForDish, editorial
           <section className="bg-white section-padding">
             <div className="container-custom">
               <p className="section-label font-script text-thailand-gold text-center">More Dishes</p>
-              <h2 className="text-3xl font-heading font-bold text-gray-900 mb-8 text-center">Related Dishes</h2>
+              <h2 className="text-3xl font-heading font-bold text-gray-900 mb-8 text-center">{isNl ? 'Gerelateerde Gerechten' : 'Related Dishes'}</h2>
               <div className="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-4 gap-6">
                 {relatedDishes.map((relatedDish) => (
                   <Link key={relatedDish.id} href={`/food/${relatedDish.slug}`} className="group">
@@ -540,20 +544,20 @@ export default function DishPage({ dish, relatedDishes, citiesForDish, editorial
               {dish.name.en} is a {dish.region === 'isaan' ? 'Isaan (Northeast)' : `${dish.region.charAt(0).toUpperCase() + dish.region.slice(1)} Thailand`} Dish
             </h2>
             <p className="text-gray-600 mb-6">
-              Discover more dishes and travel experiences from this region.
+              {isNl ? 'Ontdek meer gerechten en reiservaringen uit deze regio.' : 'Discover more dishes and travel experiences from this region.'}
             </p>
             <div className="flex flex-wrap gap-3 justify-center">
               <Link
                 href={`/region/${dish.region}/`}
                 className="inline-flex items-center gap-2 bg-thailand-blue text-white px-5 py-3 rounded-xl font-semibold hover:bg-thailand-blue/90 transition-colors"
               >
-                Explore {dish.region === 'isaan' ? 'Isaan' : `${dish.region.charAt(0).toUpperCase() + dish.region.slice(1)} Thailand`}
+                {isNl ? 'Ontdek' : 'Explore'} {dish.region === 'isaan' ? 'Isaan' : `${dish.region.charAt(0).toUpperCase() + dish.region.slice(1)} Thailand`}
               </Link>
               <Link
                 href="/drinks/"
                 className="inline-flex items-center gap-2 bg-white border border-gray-200 text-gray-800 px-5 py-3 rounded-xl font-semibold hover:bg-gray-50 transition-colors"
               >
-                Thai Drinks &amp; Beverages
+                {isNl ? 'Thaise Dranken' : 'Thai Drinks & Beverages'}
               </Link>
             </div>
           </div>
@@ -563,12 +567,12 @@ export default function DishPage({ dish, relatedDishes, citiesForDish, editorial
         <section className="bg-surface-dark text-white section-padding">
           <div className="container-custom text-center">
             <p className="font-script text-thailand-gold mb-2">Explore More</p>
-            <h2 className="text-3xl font-heading font-bold mb-6">Explore More Thai Cuisine</h2>
+            <h2 className="text-3xl font-heading font-bold mb-6">{isNl ? 'Ontdek Meer Thaise Keuken' : 'Explore More Thai Cuisine'}</h2>
             <p className="text-xl mb-8 max-w-2xl mx-auto opacity-90">
-              Discover more authentic Thai dishes and their stories
+              {isNl ? 'Ontdek meer authentieke Thaise gerechten en hun verhalen' : 'Discover more authentic Thai dishes and their stories'}
             </p>
             <Link href="/food/" className="bg-white text-thailand-blue px-8 py-3 rounded-xl font-semibold hover:bg-gray-100 transition-colors">
-              Browse All Dishes
+              {isNl ? 'Bekijk Alle Gerechten' : 'Browse All Dishes'}
             </Link>
           </div>
         </section>

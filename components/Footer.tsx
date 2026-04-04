@@ -26,10 +26,10 @@ const Footer = () => {
       if (!res.ok) throw new Error();
       setStatus('success');
       setEmail('');
-      toast.success("You're subscribed! Check your inbox.");
+      toast.success(locale === 'nl' ? 'Je bent geabonneerd! Check je inbox.' : "You're subscribed! Check your inbox.");
     } catch {
       setStatus('error');
-      toast.error('Subscription failed. Please try again.');
+      toast.error(locale === 'nl' ? 'Abonnement mislukt. Probeer opnieuw.' : 'Subscription failed. Please try again.');
     }
   };
 
@@ -120,17 +120,17 @@ const Footer = () => {
             {/* Newsletter Column */}
             <div className="lg:col-span-3">
               <h3 className="font-heading text-sm font-semibold text-white tracking-wider uppercase mb-5">
-                Newsletter
+                {locale === 'nl' ? 'Nieuwsbrief' : 'Newsletter'}
               </h3>
               <p className="text-gray-400 text-sm mb-4">
-                Get the latest Thailand travel tips and guides delivered to your inbox.
+                {locale === 'nl' ? 'Ontvang de laatste Thailand reistips en gidsen in je inbox.' : 'Get the latest Thailand travel tips and guides delivered to your inbox.'}
               </p>
               {status === 'success' ? (
                 <p className="text-green-400 text-sm flex items-center gap-2">
                   <svg className="w-4 h-4" fill="none" stroke="currentColor" viewBox="0 0 24 24">
                     <path strokeLinecap="round" strokeLinejoin="round" strokeWidth="2" d="M5 13l4 4L19 7" />
                   </svg>
-                  You&apos;re subscribed! Check your inbox.
+                  {locale === 'nl' ? 'Je bent geabonneerd! Check je inbox.' : "You\u2019re subscribed! Check your inbox."}
                 </p>
               ) : (
                 <form onSubmit={handleSubscribe} className="flex gap-2">
@@ -138,7 +138,7 @@ const Footer = () => {
                     type="email"
                     value={email}
                     onChange={(e) => { setEmail(e.target.value); setStatus('idle'); }}
-                    placeholder="Your email"
+                    placeholder={locale === 'nl' ? 'Je e-mailadres' : 'Your email'}
                     className="flex-1 px-4 py-2.5 rounded-xl bg-white/10 border border-white/10 text-white placeholder-gray-500 text-sm focus:outline-none focus:border-thailand-red transition-colors"
                     required
                   />
@@ -147,7 +147,7 @@ const Footer = () => {
                     disabled={status === 'loading'}
                     className="px-4 py-2.5 bg-thailand-red text-white rounded-xl text-sm font-medium hover:bg-thailand-red-600 transition-colors flex items-center gap-1 disabled:opacity-50"
                   >
-                    {status === 'loading' ? '...' : 'Subscribe'}
+                    {status === 'loading' ? '...' : (locale === 'nl' ? 'Abonneren' : 'Subscribe')}
                     {status !== 'loading' && (
                       <svg className="w-4 h-4" fill="none" stroke="currentColor" viewBox="0 0 24 24">
                         <path strokeLinecap="round" strokeLinejoin="round" strokeWidth="2" d="M14 5l7 7m0 0l-7 7m7-7H3" />
@@ -157,7 +157,7 @@ const Footer = () => {
                 </form>
               )}
               {status === 'error' && (
-                <p className="text-red-400 text-xs mt-2">Something went wrong. Please try again.</p>
+                <p className="text-red-400 text-xs mt-2">{locale === 'nl' ? 'Er ging iets mis. Probeer opnieuw.' : 'Something went wrong. Please try again.'}</p>
               )}
 
               {/* Transport Routes */}
@@ -181,7 +181,7 @@ const Footer = () => {
               Go2 Travel Network
             </h3>
             <p className="text-gray-500 text-xs text-center mb-4">
-              Explore our destination guides across Asia, Europe, Africa, and the Americas
+              {locale === 'nl' ? 'Ontdek onze bestemmingsgidsen in Azi\u00EB, Europa, Afrika en Amerika' : 'Explore our destination guides across Asia, Europe, Africa, and the Americas'}
             </p>
             <div className="flex flex-wrap justify-center gap-x-6 gap-y-2">
               <a href="https://go2-bali.com" target="_blank" rel="noopener" className="text-gray-400 hover:text-thailand-red text-sm transition-colors">Go2Bali</a>
@@ -207,25 +207,25 @@ const Footer = () => {
               </p>
               <div className="flex flex-wrap items-center gap-x-6 gap-y-2 text-sm">
                 <Link href="/about" className="text-gray-500 hover:text-white transition-colors">
-                  About Us
+                  {locale === 'nl' ? 'Over Ons' : 'About Us'}
                 </Link>
                 <Link href="/contact" className="text-gray-500 hover:text-white transition-colors">
                   Contact
                 </Link>
                 <Link href="/editorial-policy" className="text-gray-500 hover:text-white transition-colors">
-                  Editorial Policy
+                  {locale === 'nl' ? 'Redactioneel Beleid' : 'Editorial Policy'}
                 </Link>
                 <Link href="/affiliate-disclosure" className="text-gray-500 hover:text-white transition-colors">
-                  Affiliate Disclosure
+                  {locale === 'nl' ? 'Affiliate Verklaring' : 'Affiliate Disclosure'}
                 </Link>
                 <Link href="/privacy" className="text-gray-500 hover:text-white transition-colors">
-                  {t('footer.privacy')}
+                  {locale === 'nl' ? 'Privacybeleid' : 'Privacy Policy'}
                 </Link>
                 <Link href="/terms" className="text-gray-500 hover:text-white transition-colors">
                   {t('footer.terms')}
                 </Link>
                 <Link href="/cookie-policy" className="text-gray-500 hover:text-white transition-colors">
-                  Cookie Policy
+                  {locale === 'nl' ? 'Cookie Beleid' : 'Cookie Policy'}
                 </Link>
                 <Link href="/sitemap" className="text-gray-500 hover:text-white transition-colors">
                   Sitemap

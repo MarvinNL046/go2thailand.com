@@ -14,6 +14,8 @@ interface DrinkPageProps {
 
 export default function DrinkPage({ drink }: DrinkPageProps) {
   const router = useRouter();
+  const { locale } = router;
+  const isNl = locale === 'nl';
   const { t } = useTranslation('common');
 
   if (!drink) {
@@ -22,7 +24,14 @@ export default function DrinkPage({ drink }: DrinkPageProps) {
 
   // Helper function for temperature display
   const getTemperatureDisplay = (temp: string) => {
-    const displays: Record<string, string> = {
+    const displays: Record<string, string> = isNl ? {
+      'hot': 'Warm Geserveerd',
+      'cold': 'Koud Geserveerd',
+      'both': 'Warm of Koud',
+      'room': 'Kamertemperatuur',
+      'neat': 'Puur Geserveerd',
+      'mixed': 'Mixdrank'
+    } : {
       'hot': 'Served Hot',
       'cold': 'Served Cold',
       'both': 'Hot or Cold',
@@ -77,7 +86,7 @@ export default function DrinkPage({ drink }: DrinkPageProps) {
           <div className="container-custom">
             <Breadcrumbs items={[
               { name: 'Home', href: '/' },
-              { name: 'Thai Drinks', href: '/drinks' },
+              { name: isNl ? 'Thaise Dranken' : 'Thai Drinks', href: '/drinks' },
               { name: drink.category, href: `/drinks/category/${drink.category}` },
               { name: drink.name.en, href: `/drinks/${drink.slug}` }
             ]} />
@@ -100,12 +109,12 @@ export default function DrinkPage({ drink }: DrinkPageProps) {
                 <div className="absolute top-4 left-4 flex flex-col gap-2">
                   {drink.alcohol_content !== 'none' && (
                     <span className="bg-thailand-red text-white px-3 py-1 rounded-full text-sm font-medium">
-                      {drink.alcohol_content} alcohol
+                      {drink.alcohol_content} {isNl ? 'alcohol' : 'alcohol'}
                     </span>
                   )}
                   {drink.caffeine !== 'none' && (
                     <span className="bg-thailand-blue text-white px-3 py-1 rounded-full text-sm font-medium">
-                      {drink.caffeine} caffeine
+                      {drink.caffeine} {isNl ? 'cafeïne' : 'caffeine'}
                     </span>
                   )}
                   <span className="bg-thailand-blue text-white px-3 py-1 rounded-full text-sm font-medium">
@@ -153,10 +162,10 @@ export default function DrinkPage({ drink }: DrinkPageProps) {
 
                 {/* Quick Info */}
                 <div className="bg-surface-cream p-6 rounded-2xl">
-                  <h3 className="font-heading font-semibold mb-4">Quick Information</h3>
+                  <h3 className="font-heading font-semibold mb-4">{isNl ? 'Snelle Informatie' : 'Quick Information'}</h3>
                   <div className="grid grid-cols-2 gap-4">
                     <div>
-                      <p className="text-sm text-gray-600">Best Occasions</p>
+                      <p className="text-sm text-gray-600">{isNl ? 'Beste Gelegenheden' : 'Best Occasions'}</p>
                       <p className="font-medium">{drink.occasions.join(', ')}</p>
                     </div>
                     <div>
@@ -165,13 +174,13 @@ export default function DrinkPage({ drink }: DrinkPageProps) {
                     </div>
                     {drink.allergens.length > 0 && (
                       <div>
-                        <p className="text-sm text-gray-600">Allergens</p>
+                        <p className="text-sm text-gray-600">{isNl ? 'Allergenen' : 'Allergens'}</p>
                         <p className="font-medium">{drink.allergens.join(', ')}</p>
                       </div>
                     )}
                     {drink.dietary.length > 0 && (
                       <div>
-                        <p className="text-sm text-gray-600">Dietary</p>
+                        <p className="text-sm text-gray-600">{isNl ? 'Dieet' : 'Dietary'}</p>
                         <p className="font-medium">{drink.dietary.join(', ')}</p>
                       </div>
                     )}
@@ -185,8 +194,8 @@ export default function DrinkPage({ drink }: DrinkPageProps) {
         {/* Ingredients Section */}
         <section className="bg-white py-12 border-t">
           <div className="container-custom">
-            <p className="section-label font-script text-thailand-gold">Recipe</p>
-            <h2 className="text-2xl font-heading font-bold mb-6">Ingredients</h2>
+            <p className="section-label font-script text-thailand-gold">{isNl ? 'Recept' : 'Recipe'}</p>
+            <h2 className="text-2xl font-heading font-bold mb-6">{isNl ? 'Ingredi\u00ebnten' : 'Ingredients'}</h2>
             <div className="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-3 gap-4">
               {drink.detailed_ingredients ? (
                 drink.detailed_ingredients.map((ing: any, index: number) => (
@@ -220,13 +229,13 @@ export default function DrinkPage({ drink }: DrinkPageProps) {
         {drink.preparation_method && (
           <section className="bg-surface-cream py-12">
             <div className="container-custom">
-              <p className="section-label font-script text-thailand-gold">How To</p>
-              <h2 className="text-2xl font-heading font-bold mb-6">How to Make {drink.name.en}</h2>
+              <p className="section-label font-script text-thailand-gold">{isNl ? 'Hoe Maak Je' : 'How To'}</p>
+              <h2 className="text-2xl font-heading font-bold mb-6">{isNl ? `Hoe Maak je ${drink.name.en}` : `How to Make ${drink.name.en}`}</h2>
               <div className="bg-white p-8 rounded-2xl">
                 <p className="text-gray-700 mb-6">{drink.preparation_method.overview}</p>
                 {drink.preparation_method.steps && (
                   <div>
-                    <h3 className="font-heading font-semibold mb-4">Steps:</h3>
+                    <h3 className="font-heading font-semibold mb-4">{isNl ? 'Stappen:' : 'Steps:'}</h3>
                     <ol className="space-y-3">
                       {drink.preparation_method.steps.map((step: string, index: number) => (
                         <li key={index} className="flex">
@@ -258,13 +267,13 @@ export default function DrinkPage({ drink }: DrinkPageProps) {
         {drink.cultural_significance && (
           <section className="bg-white py-12">
             <div className="container-custom">
-              <p className="section-label font-script text-thailand-gold">Heritage</p>
-              <h2 className="text-2xl font-heading font-bold mb-6">Cultural Background</h2>
+              <p className="section-label font-script text-thailand-gold">{isNl ? 'Erfgoed' : 'Heritage'}</p>
+              <h2 className="text-2xl font-heading font-bold mb-6">{isNl ? 'Culturele Achtergrond' : 'Cultural Background'}</h2>
               <div className="prose max-w-none">
                 <p className="text-gray-700">{drink.cultural_significance.history}</p>
                 {drink.cultural_significance.occasions && (
                   <div className="mt-6">
-                    <h3 className="font-heading font-semibold mb-3">Traditional Occasions:</h3>
+                    <h3 className="font-heading font-semibold mb-3">{isNl ? 'Traditionele Gelegenheden:' : 'Traditional Occasions:'}</h3>
                     <div className="grid grid-cols-1 md:grid-cols-2 gap-4">
                       {drink.cultural_significance.occasions.map((occasion: any, index: number) => (
                         <div key={index} className="bg-surface-cream p-4 rounded-2xl">
@@ -284,11 +293,11 @@ export default function DrinkPage({ drink }: DrinkPageProps) {
         {drink.where_to_find && (
           <section className="bg-surface-cream py-12">
             <div className="container-custom">
-              <p className="section-label font-script text-thailand-gold">Discover</p>
-              <h2 className="text-2xl font-heading font-bold mb-6">Where to Try {drink.name.en}</h2>
+              <p className="section-label font-script text-thailand-gold">{isNl ? 'Ontdekken' : 'Discover'}</p>
+              <h2 className="text-2xl font-heading font-bold mb-6">{isNl ? `Waar ${drink.name.en} Proberen` : `Where to Try ${drink.name.en}`}</h2>
               <div className="grid grid-cols-1 md:grid-cols-3 gap-6">
                 <div className="bg-white p-6 rounded-2xl shadow-md">
-                  <h3 className="font-heading font-semibold mb-3">Best Locations</h3>
+                  <h3 className="font-heading font-semibold mb-3">{isNl ? 'Beste Locaties' : 'Best Locations'}</h3>
                   <ul className="space-y-2">
                     {drink.where_to_find.best_locations?.map((location: string, index: number) => (
                       <li key={index} className="text-gray-700">• {location}</li>
@@ -296,7 +305,7 @@ export default function DrinkPage({ drink }: DrinkPageProps) {
                   </ul>
                 </div>
                 <div className="bg-white p-6 rounded-2xl shadow-md">
-                  <h3 className="font-heading font-semibold mb-3">Popular Venues</h3>
+                  <h3 className="font-heading font-semibold mb-3">{isNl ? 'Populaire Gelegenheden' : 'Popular Venues'}</h3>
                   <ul className="space-y-2">
                     {drink.where_to_find.popular_venues?.map((venue: string, index: number) => (
                       <li key={index} className="text-gray-700">• {venue}</li>
@@ -304,7 +313,7 @@ export default function DrinkPage({ drink }: DrinkPageProps) {
                   </ul>
                 </div>
                 <div className="bg-white p-6 rounded-2xl shadow-md">
-                  <h3 className="font-heading font-semibold mb-3">Price Range</h3>
+                  <h3 className="font-heading font-semibold mb-3">{isNl ? 'Prijsklasse' : 'Price Range'}</h3>
                   <div className="space-y-2">
                     <p className="text-gray-700">Street vendor: {drink.where_to_find.price_ranges?.street || '20-40 THB'}</p>
                     <p className="text-gray-700">Restaurant: {drink.where_to_find.price_ranges?.restaurant || '60-120 THB'}</p>

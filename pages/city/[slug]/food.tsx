@@ -1,4 +1,5 @@
 import { GetStaticProps, GetStaticPaths } from 'next';
+import { useRouter } from 'next/router';
 import Link from 'next/link';
 import Image from 'next/image';
 import { getCityBySlug, getCityStaticPaths, generateCityMetadata, generateBreadcrumbs } from '../../../lib/cities';
@@ -95,8 +96,12 @@ interface CityFoodPageProps {
 }
 
 export default function CityFoodPage({ city, cityFoodData, enhancedRestaurants }: CityFoodPageProps) {
+  const { locale } = useRouter();
+  const lang = locale === 'nl' ? 'nl' : 'en';
+
   if (!city) return <div>City not found</div>;
 
+  const cityName = city.name[lang] || city.name.en;
   const breadcrumbs = generateBreadcrumbs(city, 'food');
   const baseMetadata = generateCityMetadata(city, 'food');
 
@@ -149,10 +154,10 @@ export default function CityFoodPage({ city, cityFoodData, enhancedRestaurants }
             <Breadcrumbs items={breadcrumbs} />
             <div className="text-center">
               <h1 className="text-4xl lg:text-5xl font-bold font-heading text-gray-900 mb-4">
-                Food & Dining in {city.name.en}
+                {lang === 'nl' ? `Eten & Drinken in ${cityName}` : `Food & Dining in ${cityName}`}
               </h1>
               <p className="text-xl text-gray-600 max-w-3xl mx-auto">
-                {city.categories.food.en}
+                {lang === 'nl' ? city.categories.food.nl : city.categories.food.en}
               </p>
             </div>
           </div>
@@ -162,7 +167,7 @@ export default function CityFoodPage({ city, cityFoodData, enhancedRestaurants }
           <section className="section-padding pt-8">
             <div className="container-custom">
               <CitySupportSources
-                cityName={city.name.en}
+                cityName={cityName}
                 contentSources={city.contentSources}
                 reviewedBy={city.reviewed_by}
                 reviewedAt={city.reviewed_at}
@@ -178,7 +183,7 @@ export default function CityFoodPage({ city, cityFoodData, enhancedRestaurants }
         <section className="section-padding">
           <div className="container-custom">
             <h2 className="text-3xl font-bold font-heading text-gray-900 mb-8 text-center">
-              Popular Thai Dishes
+              {lang === 'nl' ? 'Populaire Thaise Gerechten' : 'Popular Thai Dishes'}
             </h2>
             <div className="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-4 gap-6 mb-12">
               {popularDishes.map((dish) => (
@@ -221,12 +226,13 @@ export default function CityFoodPage({ city, cityFoodData, enhancedRestaurants }
             {cityFoodData && cityFoodData.specialties.length > 0 && (
               <div className="mb-12">
                 <h2 className="text-3xl font-bold font-heading text-gray-900 mb-8 text-center">
-                  Local Specialties
+                  {lang === 'nl' ? 'Lokale Specialiteiten' : 'Local Specialties'}
                 </h2>
                 <div className="bg-white rounded-2xl shadow-md p-8">
                   <p className="text-gray-600 mb-6 text-center">
-                    Discover unique dishes and flavors specific to {city.name.en}. 
-                    From street food favorites to traditional recipes passed down through generations.
+                    {lang === 'nl'
+                      ? `Ontdek unieke gerechten en smaken specifiek voor ${cityName}. Van straatvoedsel favorieten tot traditionele recepten die van generatie op generatie zijn doorgegeven.`
+                      : `Discover unique dishes and flavors specific to ${cityName}. From street food favorites to traditional recipes passed down through generations.`}
                   </p>
                   <div className="grid grid-cols-2 md:grid-cols-3 lg:grid-cols-4 gap-4">
                     {cityFoodData.specialties.map((specialty, index) => (
@@ -251,7 +257,7 @@ export default function CityFoodPage({ city, cityFoodData, enhancedRestaurants }
             {enhancedRestaurants.length > 0 && (
               <div className="mb-12">
                 <h2 className="text-3xl font-bold font-heading text-gray-900 mb-8 text-center">
-                  Best Restaurants in {city.name.en}
+                  {lang === 'nl' ? `Beste Restaurants in ${cityName}` : `Best Restaurants in ${cityName}`}
                 </h2>
                 <div className="grid grid-cols-1 md:grid-cols-2 gap-6">
                   {enhancedRestaurants.map((restaurant, index) => (
@@ -287,14 +293,14 @@ export default function CityFoodPage({ city, cityFoodData, enhancedRestaurants }
             {/* Where to Find the Best Food */}
             <div className="mb-12">
               <h2 className="text-3xl font-bold font-heading text-gray-900 mb-8 text-center">
-                Where to Find the Best Food in {city.name.en}
+                {lang === 'nl' ? `Waar Vind je het Beste Eten in ${cityName}` : `Where to Find the Best Food in ${cityName}`}
               </h2>
               
               {cityFoodData && cityFoodData.markets.length > 0 ? (
                 <>
                   {/* Markets Section */}
                   <div className="mb-8">
-                    <h3 className="text-2xl font-bold font-heading text-gray-800 mb-6">Popular Food Markets</h3>
+                    <h3 className="text-2xl font-bold font-heading text-gray-800 mb-6">{lang === 'nl' ? 'Populaire Voedselmarkten' : 'Popular Food Markets'}</h3>
                     <div className="grid grid-cols-1 md:grid-cols-2 gap-6">
                       {cityFoodData.markets.map((market, index) => (
                         <div key={index} className="bg-white rounded-2xl shadow-md p-6">
@@ -318,7 +324,7 @@ export default function CityFoodPage({ city, cityFoodData, enhancedRestaurants }
                   {/* Street Food Areas Section */}
                   {cityFoodData.street_food_areas.length > 0 && (
                     <div>
-                      <h3 className="text-2xl font-bold font-heading text-gray-800 mb-6">Street Food Areas</h3>
+                      <h3 className="text-2xl font-bold font-heading text-gray-800 mb-6">{lang === 'nl' ? 'Straatvoedsel Gebieden' : 'Street Food Areas'}</h3>
                       <div className="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-3 gap-6">
                         {cityFoodData.street_food_areas.map((area, index) => (
                           <div key={index} className="bg-white rounded-2xl shadow-md p-6">
@@ -344,9 +350,11 @@ export default function CityFoodPage({ city, cityFoodData, enhancedRestaurants }
                         <path strokeLinecap="round" strokeLinejoin="round" strokeWidth="2" d="M3 12l2-2m0 0l7-7 7 7M5 10v10a1 1 0 001 1h3m10-11l2 2m-2-2v10a1 1 0 01-1 1h-3m-6 0a1 1 0 001-1v-4a1 1 0 011-1h2a1 1 0 011 1v4a1 1 0 001 1m-6 0h6" />
                       </svg>
                     </div>
-                    <h3 className="text-xl font-bold font-heading text-gray-900 mb-2 text-center">Street Food Markets</h3>
+                    <h3 className="text-xl font-bold font-heading text-gray-900 mb-2 text-center">{lang === 'nl' ? 'Straatvoedsel Markten' : 'Street Food Markets'}</h3>
                     <p className="text-gray-600 text-center">
-                      Experience authentic Thai flavors at bustling night markets and street food stalls throughout the city.
+                      {lang === 'nl'
+                        ? 'Ervaar authentieke Thaise smaken op bruisende nachtmarkten en straatvoedsel kraampjes door de hele stad.'
+                        : 'Experience authentic Thai flavors at bustling night markets and street food stalls throughout the city.'}
                     </p>
                   </div>
                   <div className="bg-white rounded-2xl shadow-md p-6">
@@ -355,9 +363,11 @@ export default function CityFoodPage({ city, cityFoodData, enhancedRestaurants }
                         <path strokeLinecap="round" strokeLinejoin="round" strokeWidth="2" d="M12 8v4l3 3m6-3a9 9 0 11-18 0 9 9 0 0118 0z" />
                       </svg>
                     </div>
-                    <h3 className="text-xl font-bold font-heading text-gray-900 mb-2 text-center">Local Restaurants</h3>
+                    <h3 className="text-xl font-bold font-heading text-gray-900 mb-2 text-center">{lang === 'nl' ? 'Lokale Restaurants' : 'Local Restaurants'}</h3>
                     <p className="text-gray-600 text-center">
-                      Family-run establishments serving time-honored recipes and regional specialties.
+                      {lang === 'nl'
+                        ? 'Familiebedrijven die traditionele recepten en regionale specialiteiten serveren.'
+                        : 'Family-run establishments serving time-honored recipes and regional specialties.'}
                     </p>
                   </div>
                   <div className="bg-white rounded-2xl shadow-md p-6">
@@ -366,9 +376,11 @@ export default function CityFoodPage({ city, cityFoodData, enhancedRestaurants }
                         <path strokeLinecap="round" strokeLinejoin="round" strokeWidth="2" d="M5 3v4M3 5h4M6 17v4m-2-2h4m5-16l2.286 6.857L21 12l-5.714 2.143L13 21l-2.286-6.857L5 12l5.714-2.143L13 3z" />
                       </svg>
                     </div>
-                    <h3 className="text-xl font-bold font-heading text-gray-900 mb-2 text-center">Fine Dining</h3>
+                    <h3 className="text-xl font-bold font-heading text-gray-900 mb-2 text-center">{'Fine Dining'}</h3>
                     <p className="text-gray-600 text-center">
-                      Modern interpretations of Thai cuisine in elegant settings with innovative presentations.
+                      {lang === 'nl'
+                        ? 'Moderne interpretaties van de Thaise keuken in elegante settings met innovatieve presentaties.'
+                        : 'Modern interpretations of Thai cuisine in elegant settings with innovative presentations.'}
                     </p>
                   </div>
                 </div>
@@ -379,23 +391,24 @@ export default function CityFoodPage({ city, cityFoodData, enhancedRestaurants }
             {/* Call to Action */}
             <div className="bg-white rounded-2xl shadow-md p-8 text-center">
               <h3 className="text-2xl font-bold font-heading text-gray-900 mb-4">
-                Plan Your Culinary Journey
+                {lang === 'nl' ? 'Plan je Culinaire Reis' : 'Plan Your Culinary Journey'}
               </h3>
               <p className="text-gray-600 mb-6 max-w-2xl mx-auto">
-                Ready to explore the best restaurants and food experiences in {city.name.en}? 
-                Check out our curated list of top dining destinations.
+                {lang === 'nl'
+                  ? `Klaar om de beste restaurants en eetervaring in ${cityName} te ontdekken? Bekijk onze samengestelde lijst van top eetbestemmingen.`
+                  : `Ready to explore the best restaurants and food experiences in ${cityName}? Check out our curated list of top dining destinations.`}
               </p>
-              <Link 
-                href={`/city/${city.slug}/top-10-restaurants`} 
+              <Link
+                href={`/city/${city.slug}/top-10-restaurants`}
                 className="btn-primary inline-block"
               >
-                View Top 10 Restaurants →
+                {lang === 'nl' ? 'Bekijk Top 10 Restaurants →' : 'View Top 10 Restaurants →'}
               </Link>
             </div>
             {/* Explore More Section */}
             <div className="mt-12">
               <h3 className="text-2xl font-bold font-heading text-gray-900 mb-6 text-center">
-                Explore More of {city.name.en}
+                {lang === 'nl' ? `Ontdek Meer van ${cityName}` : `Explore More of ${cityName}`}
               </h3>
               <div className="grid grid-cols-1 md:grid-cols-2 gap-4">
                 <Link href={`/city/${city.slug}/attractions/`} className="flex items-center p-4 border-0 bg-surface-cream rounded-2xl hover:shadow-md transition-all duration-300">
@@ -405,8 +418,8 @@ export default function CityFoodPage({ city, cityFoodData, enhancedRestaurants }
                     </svg>
                   </div>
                   <div>
-                    <h4 className="font-semibold text-gray-900">Attractions</h4>
-                    <p className="text-gray-600 text-sm">See top attractions</p>
+                    <h4 className="font-semibold text-gray-900">{lang === 'nl' ? 'Bezienswaardigheden' : 'Attractions'}</h4>
+                    <p className="text-gray-600 text-sm">{lang === 'nl' ? 'Bekijk top bezienswaardigheden' : 'See top attractions'}</p>
                   </div>
                 </Link>
                 <Link href={`/city/${city.slug}/hotels/`} className="flex items-center p-4 border-0 bg-surface-cream rounded-2xl hover:shadow-md transition-all duration-300">
@@ -416,12 +429,12 @@ export default function CityFoodPage({ city, cityFoodData, enhancedRestaurants }
                     </svg>
                   </div>
                   <div>
-                    <h4 className="font-semibold text-gray-900">Hotels & Stay</h4>
-                    <p className="text-gray-600 text-sm">Find accommodation</p>
+                    <h4 className="font-semibold text-gray-900">{lang === 'nl' ? 'Hotels & Verblijf' : 'Hotels & Stay'}</h4>
+                    <p className="text-gray-600 text-sm">{lang === 'nl' ? 'Vind accommodatie' : 'Find accommodation'}</p>
                   </div>
                 </Link>
               </div>
-            <CityExploreMore citySlug={city.slug} cityName={city.name.en} currentPage="food" />
+            <CityExploreMore citySlug={city.slug} cityName={cityName} currentPage="food" />
             </div>
           </div>
         </section>

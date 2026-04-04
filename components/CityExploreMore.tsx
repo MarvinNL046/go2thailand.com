@@ -1,4 +1,5 @@
 import Link from 'next/link';
+import { useTranslation } from '../hooks/useTranslation';
 
 interface CityExploreMoreProps {
   citySlug: string;
@@ -9,24 +10,24 @@ interface CityExploreMoreProps {
 
 interface SubPage {
   slug: string;
-  title: string;
+  tKey: string;
   icon: string;
 }
 
 const coreSubPages: SubPage[] = [
-  { slug: 'top-10-attractions', title: 'Top 10 Attractions', icon: '🏛️' },
-  { slug: 'top-10-hotels', title: 'Top 10 Hotels', icon: '🏨' },
-  { slug: 'top-10-restaurants', title: 'Top 10 Restaurants', icon: '🍽️' },
-  { slug: 'food', title: 'Food Guide', icon: '🥘' },
-  { slug: 'hotels', title: 'Hotels', icon: '🛏️' },
-  { slug: 'best-time-to-visit', title: 'Best Time to Visit', icon: '📅' },
-  { slug: 'budget', title: 'Budget Guide', icon: '💰' },
+  { slug: 'top-10-attractions', tKey: 'nav.top10Attractions', icon: '🏛️' },
+  { slug: 'top-10-hotels', tKey: 'nav.top10Hotels', icon: '🏨' },
+  { slug: 'top-10-restaurants', tKey: 'nav.top10Restaurants', icon: '🍽️' },
+  { slug: 'food', tKey: 'nav.foodGuide', icon: '🥘' },
+  { slug: 'hotels', tKey: 'nav.hotels', icon: '🛏️' },
+  { slug: 'best-time-to-visit', tKey: 'nav.bestTimeToVisit', icon: '📅' },
+  { slug: 'budget', tKey: 'nav.budgetGuide', icon: '💰' },
 ];
 
 const nicheSubPages: SubPage[] = [
-  { slug: 'cooking-classes', title: 'Cooking Classes', icon: '👨‍🍳' },
-  { slug: 'elephant-sanctuaries', title: 'Elephant Sanctuaries', icon: '🐘' },
-  { slug: 'diving-snorkeling', title: 'Diving & Snorkeling', icon: '🤿' },
+  { slug: 'cooking-classes', tKey: 'nav.cookingClasses', icon: '👨‍🍳' },
+  { slug: 'elephant-sanctuaries', tKey: 'nav.elephantSanctuaries', icon: '🐘' },
+  { slug: 'diving-snorkeling', tKey: 'nav.divingSnorkeling', icon: '🤿' },
 ];
 
 export default function CityExploreMore({
@@ -35,6 +36,7 @@ export default function CityExploreMore({
   currentPage,
   hasCluster = false,
 }: CityExploreMoreProps) {
+  const { t } = useTranslation('common');
   const isNichePage = nicheSubPages.some((p) => p.slug === currentPage);
 
   // Show core pages always; include niche pages only if current page is a niche one
@@ -43,8 +45,8 @@ export default function CityExploreMore({
 
   const clusterLinks = hasCluster
     ? [
-        { href: `/destinations/${citySlug}/`, icon: '🗺️', title: 'Destination Guide' },
-        { href: `/things-to-do/${citySlug}/`, icon: '🎯', title: 'Things To Do' },
+        { href: `/destinations/${citySlug}/`, icon: '🗺️', tKey: 'nav.destinationGuide' },
+        { href: `/things-to-do/${citySlug}/`, icon: '🎯', tKey: 'nav.thingsToDo' },
       ]
     : [];
 
@@ -53,7 +55,7 @@ export default function CityExploreMore({
   return (
     <section className="mt-12 mb-8">
       <h2 className="text-2xl font-bold text-gray-900 mb-6">
-        Explore More in {cityName}
+        {t('nav.exploreMoreIn')} {cityName}
       </h2>
       <div className="grid grid-cols-2 md:grid-cols-3 gap-4">
         {clusterLinks.map((link) => (
@@ -66,7 +68,7 @@ export default function CityExploreMore({
               {link.icon}
             </span>
             <span className="text-sm font-medium text-gray-800 leading-tight">
-              {link.title}
+              {t(link.tKey)}
             </span>
           </Link>
         ))}
@@ -80,7 +82,7 @@ export default function CityExploreMore({
               {page.icon}
             </span>
             <span className="text-sm font-medium text-gray-800 leading-tight">
-              {page.title}
+              {t(page.tKey)}
             </span>
           </Link>
         ))}
