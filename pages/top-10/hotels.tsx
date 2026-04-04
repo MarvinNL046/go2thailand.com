@@ -77,7 +77,7 @@ export default function Top10HotelsIndex({ availableGuides }: Top10HotelsIndexPr
                   '@type': 'ListItem',
                   position: index + 1,
                   url: `https://go2-thailand.com/city/${guide.city.slug}/top-10-hotels/`,
-                  name: `${guide.city.name.en} Hotel Guide`
+                  name: isNl ? `${guide.city.name.nl || guide.city.name.en} Hotelgids` : `${guide.city.name.en} Hotel Guide`
                 }))
               }
             })

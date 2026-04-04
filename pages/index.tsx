@@ -113,7 +113,9 @@ export default function Home({ cities, featuredCities, popularDishes, latestPost
               "@type": "WebSite",
               "name": "Go2 Thailand",
               "url": "https://go2-thailand.com",
-              "description": "Your complete Thailand travel guide with city guides, food, transport, and booking.",
+              "description": lang === 'nl'
+                ? "Je complete Thailand reisgids met stadsgidsen, eten, vervoer en boekingen."
+                : "Your complete Thailand travel guide with city guides, food, transport, and booking.",
               "potentialAction": {
                 "@type": "SearchAction",
                 "target": "https://go2-thailand.com/search?q={search_term_string}",

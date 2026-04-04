@@ -83,7 +83,28 @@ export default function BestMuayThaiPage({ cities, topActivities }: Props) {
     ? 'De complete gids voor Muay Thai in Thailand: Rajadamnern en Lumpinee stadions in Bangkok, Tiger Muay Thai in Phuket, Lanna Muay Thai in Chiang Mai. Geschiedenis, trainingstips en kaartjes.'
     : 'The complete guide to Muay Thai in Thailand: Rajadamnern and Lumpinee stadiums in Bangkok, Tiger Muay Thai in Phuket, Lanna Muay Thai in Chiang Mai. History, training tips, and fight tickets.';
 
-  const faqItems = [
+  const faqItems = isNl ? [
+    {
+      q: 'Waar is de beste plek om Muay Thai te kijken in Thailand?',
+      a: 'Bangkok is de ultieme bestemming, met het legendarische Rajadamnern Stadium (geopend 1945) — Thailand\'s oudste opererende Muay Thai arena — en Lumpinee Stadium, algemeen beschouwd als het meest prestigieuze ter wereld. Phuket\'s Bangla Boxing Stadium biedt een even elektrische sfeer voor toeristen in het zuiden.'
+    },
+    {
+      q: 'Kunnen toeristen Muay Thai trainen in Thailand?',
+      a: 'Ja. Alle grote steden bieden beginnersvriendelijke trainingssessies bij professionele sportscholen. Tiger Muay Thai in Phuket heeft 20+ lessen dagelijks vanaf 500 baht per sessie. In Chiang Mai verwelkomen Lanna Muay Thai en Dang Muay Thai alle niveaus. Sessies duren doorgaans 1,5–2,5 uur en alle uitrusting wordt verstrekt.'
+    },
+    {
+      q: 'Hoeveel kosten Muay Thai gevechtstickets?',
+      a: 'Gevechtstickets variëren van ongeveer EUR16 in Chiang Mai tot EUR56+ voor VIP ringzijplaatsen in Bangkok of Phuket. Rajadamnern Stadium biedt tickets vanaf EUR27. Ringzijplaatsen geven het beste uitzicht en sfeer maar zijn snel uitverkocht — boek vooruit.'
+    },
+    {
+      q: 'Wat is de geschiedenis van Muay Thai?',
+      a: 'Muay Thai is geëvolueerd uit Muay Boran, een gevechtssysteem op het slagveld dat werd gebruikt door Siamese legers sinds minstens het 13e-eeuwse Sukhothai Koninkrijk. De beroemdste legende is Nai Khanom Tom, een Thaise gevangene die 9–10 Birmese vechters achtereenvolgens versloeg in 1774. Modern gecodificeerd Muay Thai met regels en handschoenen ontstond onder Koning Rama VII in de jaren 1920–30. In 2024 heeft Thailand Muay Thai formeel voorgedragen voor UNESCO immaterieel cultureel erfgoed.'
+    },
+    {
+      q: 'Wat is het verschil tussen Muay Thai kijken en trainen?',
+      a: 'Kijken betekent een live gevechtsavond bijwonen met professionele wedstrijden — perfect voor toeschouwers die de sfeer, gokcultuur en traditionele muziek willen ervaren. Trainen betekent dat je deelneemt aan een hands-on sessie in een sportschool, waarbij je de acht ledematen (vuisten, ellebogen, knieën, trappen) leert van professionele coaches. Combopakketten combineren beide op één dag.'
+    }
+  ] : [
     {
       q: 'Where is the best place to watch Muay Thai in Thailand?',
       a: 'Bangkok is the ultimate destination, home to the legendary Rajadamnern Stadium (opened 1945) — Thailand\'s oldest operating Muay Thai arena — and Lumpinee Stadium, widely regarded as the most prestigious in the world. Phuket\'s Bangla Boxing Stadium offers an equally electric atmosphere for tourists visiting the south.'

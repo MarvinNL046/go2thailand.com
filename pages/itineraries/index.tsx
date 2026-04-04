@@ -48,8 +48,8 @@ export default function ItinerariesPage({ itineraries }: ItinerariesPageProps) {
   const itemListJsonLd = {
     "@context": "https://schema.org",
     "@type": "ItemList",
-    "name": "Thailand Travel Itineraries",
-    "description": "Curated Thailand itineraries for every travel style and budget",
+    "name": isNl ? "Thailand Reisroutes" : "Thailand Travel Itineraries",
+    "description": isNl ? "Samengestelde Thailand reisroutes voor elke reisstijl en budget" : "Curated Thailand itineraries for every travel style and budget",
     "numberOfItems": itineraries.length,
     "itemListElement": itineraries.map((itinerary, index) => ({
       "@type": "ListItem",

@@ -64,40 +64,71 @@ const TransportRoutePage: React.FC<RoutePageProps> = ({ route, fromCity, toCity,
     { name: `${fromCity.name.en} ${t('to', 'naar')} ${toCity.name.en}`, href: `/transport/${route.slug}` }
   ];
 
+  const cheapestOption = transportOptions.reduce((cheapest, o) => {
+    const price = parseInt(o.price.replace(/[^0-9]/g, ''));
+    const cheapestPrice = parseInt(cheapest.price.replace(/[^0-9]/g, ''));
+    return price < cheapestPrice ? o : cheapest;
+  });
+
   const faqs = [
     {
-      question: `How do I get from ${fromCity.name.en} to ${toCity.name.en}?`,
-      answer: `You can travel from ${fromCity.name.en} to ${toCity.name.en} by ${transportOptions.map(o => o.method.toLowerCase()).join(', ')}. The distance is ${route.distance}.`
+      question: t(
+        `How do I get from ${fromCity.name.en} to ${toCity.name.en}?`,
+        `Hoe kom ik van ${fromCity.name.en} naar ${toCity.name.en}?`
+      ),
+      answer: t(
+        `You can travel from ${fromCity.name.en} to ${toCity.name.en} by ${transportOptions.map(o => o.method.toLowerCase()).join(', ')}. The distance is ${route.distance}.`,
+        `Je kunt van ${fromCity.name.en} naar ${toCity.name.en} reizen met ${transportOptions.map(o => o.method.toLowerCase()).join(', ')}. De afstand is ${route.distance}.`
+      )
     },
     {
-      question: `How long does it take from ${fromCity.name.en} to ${toCity.name.en}?`,
-      answer: `Travel times vary: ${transportOptions.map(o => `${o.method}: ${o.duration}`).join(', ')}.`
+      question: t(
+        `How long does it take from ${fromCity.name.en} to ${toCity.name.en}?`,
+        `Hoe lang duurt de reis van ${fromCity.name.en} naar ${toCity.name.en}?`
+      ),
+      answer: t(
+        `Travel times vary: ${transportOptions.map(o => `${o.method}: ${o.duration}`).join(', ')}.`,
+        `Reistijden variëren: ${transportOptions.map(o => `${o.method}: ${o.duration}`).join(', ')}.`
+      )
     },
     {
-      question: `What is the cheapest way from ${fromCity.name.en} to ${toCity.name.en}?`,
-      answer: `The most budget-friendly option is ${transportOptions.reduce((cheapest, o) => {
-        const price = parseInt(o.price.replace(/[^0-9]/g, ''));
-        const cheapestPrice = parseInt(cheapest.price.replace(/[^0-9]/g, ''));
-        return price < cheapestPrice ? o : cheapest;
-      }).method.toLowerCase()} at ${transportOptions.reduce((cheapest, o) => {
-        const price = parseInt(o.price.replace(/[^0-9]/g, ''));
-        const cheapestPrice = parseInt(cheapest.price.replace(/[^0-9]/g, ''));
-        return price < cheapestPrice ? o : cheapest;
-      }).price}.`
+      question: t(
+        `What is the cheapest way from ${fromCity.name.en} to ${toCity.name.en}?`,
+        `Wat is de goedkoopste manier van ${fromCity.name.en} naar ${toCity.name.en}?`
+      ),
+      answer: t(
+        `The most budget-friendly option is ${cheapestOption.method.toLowerCase()} at ${cheapestOption.price}.`,
+        `De voordeligste optie is ${cheapestOption.method.toLowerCase()} voor ${cheapestOption.price}.`
+      )
     },
     {
-      question: `Can I fly from ${fromCity.name.en} to ${toCity.name.en}?`,
+      question: t(
+        `Can I fly from ${fromCity.name.en} to ${toCity.name.en}?`,
+        `Kan ik vliegen van ${fromCity.name.en} naar ${toCity.name.en}?`
+      ),
       answer: route.duration.flight
-        ? `Yes, flights take approximately ${route.duration.flight} and are the fastest option.`
-        : `There are no direct flights. The best alternatives are ${transportOptions.map(o => o.method.toLowerCase()).join(' or ')}.`
+        ? t(
+            `Yes, flights take approximately ${route.duration.flight} and are the fastest option.`,
+            `Ja, vluchten duren ongeveer ${route.duration.flight} en zijn de snelste optie.`
+          )
+        : t(
+            `There are no direct flights. The best alternatives are ${transportOptions.map(o => o.method.toLowerCase()).join(' or ')}.`,
+            `Er zijn geen directe vluchten. De beste alternatieven zijn ${transportOptions.map(o => o.method.toLowerCase()).join(' of ')}.`
+          )
     }
   ];
 
   return (
     <div className="min-h-screen bg-surface-cream">
       <SEOHead
-        title={`${fromCity.name.en} to ${toCity.name.en} — Best Ways to Travel (2026)`}
-        description={`Compare ${transportOptions.length} ways from ${fromCity.name.en} to ${toCity.name.en}. Buses, trains & flights. Prices from ${transportOptions.reduce((min, o) => { const p = parseInt(o.price.replace(/[^0-9]/g, '')); return p < min ? p : min; }, 99999).toLocaleString()} THB. Book online!`}
+        title={t(
+          `${fromCity.name.en} to ${toCity.name.en} — Best Ways to Travel (2026)`,
+          `${fromCity.name.en} naar ${toCity.name.en} — Beste Manieren om te Reizen (2026)`
+        )}
+        description={t(
+          `Compare ${transportOptions.length} ways from ${fromCity.name.en} to ${toCity.name.en}. Buses, trains & flights. Prices from ${transportOptions.reduce((min, o) => { const p = parseInt(o.price.replace(/[^0-9]/g, '')); return p < min ? p : min; }, 99999).toLocaleString()} THB. Book online!`,
+          `Vergelijk ${transportOptions.length} manieren van ${fromCity.name.en} naar ${toCity.name.en}. Bussen, treinen & vluchten. Prijzen vanaf ${transportOptions.reduce((min, o) => { const p = parseInt(o.price.replace(/[^0-9]/g, '')); return p < min ? p : min; }, 99999).toLocaleString()} THB. Boek online!`
+        )}
       >
         <meta name="keywords" content={`${fromCity.name.en} to ${toCity.name.en}, transport ${fromCity.name.en} ${toCity.name.en}, how to get from ${fromCity.name.en} to ${toCity.name.en}, ${fromCity.name.en} ${toCity.name.en} bus, ${fromCity.name.en} ${toCity.name.en} flight`} />
         <script
@@ -123,8 +154,14 @@ const TransportRoutePage: React.FC<RoutePageProps> = ({ route, fromCity, toCity,
             __html: JSON.stringify({
               "@context": "https://schema.org",
               "@type": "Article",
-              "headline": `${fromCity.name.en} to ${toCity.name.en}: Cheapest Routes & Prices`,
-              "description": `Compare ${transportOptions.length} ways to travel from ${fromCity.name.en} to ${toCity.name.en}. Distance: ${route.distance}.`,
+              "headline": t(
+                `${fromCity.name.en} to ${toCity.name.en}: Cheapest Routes & Prices`,
+                `${fromCity.name.en} naar ${toCity.name.en}: Goedkoopste Routes & Prijzen`
+              ),
+              "description": t(
+                `Compare ${transportOptions.length} ways to travel from ${fromCity.name.en} to ${toCity.name.en}. Distance: ${route.distance}.`,
+                `Vergelijk ${transportOptions.length} manieren om van ${fromCity.name.en} naar ${toCity.name.en} te reizen. Afstand: ${route.distance}.`
+              ),
               "dateModified": new Date().toISOString().split('T')[0],
               "author": { "@type": "Organization", "name": "Go2Thailand", "url": "https://go2-thailand.com" },
               "publisher": { "@type": "Organization", "name": "Go2Thailand", "url": "https://go2-thailand.com", "logo": { "@type": "ImageObject", "url": "https://go2-thailand.com/logo.png" } },
@@ -162,7 +199,7 @@ const TransportRoutePage: React.FC<RoutePageProps> = ({ route, fromCity, toCity,
         <BookingHeroCTA slug={route.slug} cityName={toCity.name.en} citySlug={toCity.slug} pageType="transport" />
 
         <h1 className="text-4xl font-bold font-heading text-gray-900 mb-4">
-          {fromCity.name.en} to {toCity.name.en}
+          {fromCity.name.en} {t('to', 'naar')} {toCity.name.en}
         </h1>
         
         <div className="flex flex-wrap gap-4 mb-8">
@@ -508,35 +545,40 @@ const TransportRoutePage: React.FC<RoutePageProps> = ({ route, fromCity, toCity,
   );
 };
 
-// Generate transport options based on route
-const generateTransportOptions = (route: any): TransportOption[] => {
+// Generate transport options based on route and locale
+const generateTransportOptions = (route: any, locale: string = 'en'): TransportOption[] => {
   const options: TransportOption[] = [];
+  const isNl = locale === 'nl';
+  const t = (en: string, nl: string) => isNl ? nl : en;
 
   if (route.duration.flight) {
     options.push({
-      method: 'Flight',
+      method: t('Flight', 'Vlucht'),
       duration: route.duration.flight,
       price: getFlightPrice(route.distance),
-      frequency: 'Multiple daily flights',
+      frequency: t('Multiple daily flights', 'Meerdere dagelijkse vluchten'),
       comfort: 5,
-      description: 'The fastest and most comfortable way to travel. Direct flights available with several airlines including Thai Airways, Bangkok Airways, and budget carriers.',
+      description: t(
+        'The fastest and most comfortable way to travel. Direct flights available with several airlines including Thai Airways, Bangkok Airways, and budget carriers.',
+        'De snelste en comfortabelste manier om te reizen. Directe vluchten beschikbaar bij diverse luchtvaartmaatschappijen waaronder Thai Airways, Bangkok Airways en budgetmaatschappijen.'
+      ),
       pros: [
-        'Fastest travel time',
-        'Most comfortable',
-        'Reliable schedule',
-        'Airport lounges available'
+        t('Fastest travel time', 'Snelste reistijd'),
+        t('Most comfortable', 'Meest comfortabel'),
+        t('Reliable schedule', 'Betrouwbaar schema'),
+        t('Airport lounges available', 'Luchthavenlounge beschikbaar')
       ],
       cons: [
-        'Most expensive option',
-        'Airport transfer time',
-        'Baggage restrictions',
-        'Check-in time required'
+        t('Most expensive option', 'Duurste optie'),
+        t('Airport transfer time', 'Transfertijd luchthaven'),
+        t('Baggage restrictions', 'Bagagebeperkingen'),
+        t('Check-in time required', 'Inchecktijd vereist')
       ],
       bookingTips: [
-        'Book 3-4 weeks in advance for best prices',
-        'Compare prices on Tuesday/Wednesday',
-        'Consider budget airlines for short flights',
-        'Check baggage allowance before booking'
+        t('Book 3-4 weeks in advance for best prices', 'Boek 3-4 weken van tevoren voor de beste prijzen'),
+        t('Compare prices on Tuesday/Wednesday', 'Vergelijk prijzen op dinsdag/woensdag'),
+        t('Consider budget airlines for short flights', 'Overweeg budgetmaatschappijen voor korte vluchten'),
+        t('Check baggage allowance before booking', 'Controleer de bagagelimiet voor het boeken')
       ]
     });
   }
@@ -546,113 +588,125 @@ const generateTransportOptions = (route: any): TransportOption[] => {
       method: 'Bus',
       duration: route.duration.bus,
       price: getBusPrice(route.distance),
-      frequency: 'Departures every 1-2 hours',
+      frequency: t('Departures every 1-2 hours', 'Vertrek elke 1-2 uur'),
       comfort: 3,
-      description: 'Economical option with various classes available. VIP buses offer reclining seats and meals. Regular buses are basic but functional.',
+      description: t(
+        'Economical option with various classes available. VIP buses offer reclining seats and meals. Regular buses are basic but functional.',
+        'Voordelige optie met verschillende klassen beschikbaar. VIP-bussen bieden verstelbare stoelen en maaltijden. Reguliere bussen zijn eenvoudig maar functioneel.'
+      ),
       pros: [
-        'Budget-friendly',
-        'Frequent departures',
-        'City center terminals',
-        'No booking needed (usually)'
+        t('Budget-friendly', 'Budgetvriendelijk'),
+        t('Frequent departures', 'Frequente vertrekken'),
+        t('City center terminals', 'Terminals in het stadscentrum'),
+        t('No booking needed (usually)', 'Geen boeking nodig (meestal)')
       ],
       cons: [
-        'Long journey time',
-        'Less comfortable',
-        'Possible delays',
-        'Limited luggage space'
+        t('Long journey time', 'Lange reistijd'),
+        t('Less comfortable', 'Minder comfortabel'),
+        t('Possible delays', 'Mogelijke vertragingen'),
+        t('Limited luggage space', 'Beperkte bagageruimte')
       ],
       bookingTips: [
-        'VIP buses worth the extra cost for long journeys',
-        'Book online for popular routes',
-        'Bring snacks and entertainment',
-        'Arrive 30 minutes before departure'
+        t('VIP buses worth the extra cost for long journeys', 'VIP-bussen zijn de extra kosten waard voor lange reizen'),
+        t('Book online for popular routes', 'Boek online voor populaire routes'),
+        t('Bring snacks and entertainment', 'Neem snacks en entertainment mee'),
+        t('Arrive 30 minutes before departure', 'Kom 30 minuten voor vertrek aan')
       ]
     });
   }
 
   if (route.duration.train) {
     options.push({
-      method: 'Train',
+      method: t('Train', 'Trein'),
       duration: route.duration.train,
       price: getTrainPrice(route.distance),
-      frequency: '2-4 departures daily',
+      frequency: t('2-4 departures daily', '2-4 vertrekken per dag'),
       comfort: 4,
-      description: 'Scenic and comfortable journey through Thailand. Sleeper trains available for overnight routes with beds and dining cars.',
+      description: t(
+        'Scenic and comfortable journey through Thailand. Sleeper trains available for overnight routes with beds and dining cars.',
+        'Schilderachtige en comfortabele reis door Thailand. Slaaptreinen beschikbaar voor nachtroutes met bedden en restauratiewagons.'
+      ),
       pros: [
-        'Scenic journey',
-        'Comfortable seats/beds',
-        'Can walk around',
-        'Dining car available'
+        t('Scenic journey', 'Schilderachtige reis'),
+        t('Comfortable seats/beds', 'Comfortabele stoelen/bedden'),
+        t('Can walk around', 'Kun je rondlopen'),
+        t('Dining car available', 'Restauratiewagon beschikbaar')
       ],
       cons: [
-        'Often delayed',
-        'Limited schedule',
-        'Books up quickly',
-        'Slower than bus'
+        t('Often delayed', 'Vaak vertraagd'),
+        t('Limited schedule', 'Beperkt schema'),
+        t('Books up quickly', 'Snel volgeboekt'),
+        t('Slower than bus', 'Langzamer dan de bus')
       ],
       bookingTips: [
-        'Book sleeper berths well in advance',
-        'Lower berths more spacious',
-        'Bring warm clothes for AC carriages',
-        'Food available but bring snacks'
+        t('Book sleeper berths well in advance', 'Boek slaapplaatsen ruim van tevoren'),
+        t('Lower berths more spacious', 'Onderste bedden zijn ruimer'),
+        t('Bring warm clothes for AC carriages', 'Neem warme kleding mee voor wagons met airco'),
+        t('Food available but bring snacks', 'Eten beschikbaar maar neem snacks mee')
       ]
     });
   }
 
   if (route.duration.taxi) {
     options.push({
-      method: 'Taxi/Private Car',
+      method: t('Taxi/Private Car', 'Taxi/Privéauto'),
       duration: route.duration.taxi,
       price: getTaxiPrice(route.distance),
-      frequency: 'Available anytime',
+      frequency: t('Available anytime', 'Altijd beschikbaar'),
       comfort: 4,
-      description: 'Door-to-door convenience with flexibility to stop along the way. Can be shared to reduce costs.',
+      description: t(
+        'Door-to-door convenience with flexibility to stop along the way. Can be shared to reduce costs.',
+        'Deur-tot-deur gemak met de flexibiliteit om onderweg te stoppen. Kan gedeeld worden om kosten te besparen.'
+      ),
       pros: [
-        'Door-to-door service',
-        'Flexible schedule',
-        'Can stop anywhere',
-        'Privacy'
+        t('Door-to-door service', 'Deur-tot-deur service'),
+        t('Flexible schedule', 'Flexibel schema'),
+        t('Can stop anywhere', 'Kan overal stoppen'),
+        t('Privacy', 'Privacy')
       ],
       cons: [
-        'Expensive for solo travelers',
-        'Driver quality varies',
-        'Traffic dependent',
-        'Need to negotiate price'
+        t('Expensive for solo travelers', 'Duur voor solo reizigers'),
+        t('Driver quality varies', 'Kwaliteit chauffeur verschilt'),
+        t('Traffic dependent', 'Afhankelijk van verkeer'),
+        t('Need to negotiate price', 'Prijs moet onderhandeld worden')
       ],
       bookingTips: [
-        'Agree on price before departure',
-        'Use ride-hailing apps for transparency',
-        'Share with others to split cost',
-        'Ask hotel to arrange trusted driver'
+        t('Agree on price before departure', 'Spreek de prijs af voor vertrek'),
+        t('Use ride-hailing apps for transparency', 'Gebruik taxi-apps voor transparantie'),
+        t('Share with others to split cost', 'Deel met anderen om kosten te splitsen'),
+        t('Ask hotel to arrange trusted driver', 'Vraag het hotel een betrouwbare chauffeur te regelen')
       ]
     });
   }
 
   if (route.duration.ferry) {
     options.push({
-      method: 'Ferry',
+      method: t('Ferry', 'Veerboot'),
       duration: route.duration.ferry,
       price: getFerryPrice(route.distance),
-      frequency: '2-4 sailings daily',
+      frequency: t('2-4 sailings daily', '2-4 vaarten per dag'),
       comfort: 3,
-      description: 'Scenic sea journey with outdoor decks. Various classes from basic seating to VIP cabins.',
+      description: t(
+        'Scenic sea journey with outdoor decks. Various classes from basic seating to VIP cabins.',
+        'Schilderachtige zeereis met buitendekken. Diverse klassen van eenvoudige zitplaatsen tot VIP-hutten.'
+      ),
       pros: [
-        'Scenic sea views',
-        'Can walk around',
-        'Fresh air on deck',
-        'Vehicle transport available'
+        t('Scenic sea views', 'Schilderachtig zeezicht'),
+        t('Can walk around', 'Kun je rondlopen'),
+        t('Fresh air on deck', 'Frisse lucht op het dek'),
+        t('Vehicle transport available', 'Voertuigtransport beschikbaar')
       ],
       cons: [
-        'Weather dependent',
-        'Can be rough seas',
-        'Limited schedule',
-        'Possible seasickness'
+        t('Weather dependent', 'Weerafhankelijk'),
+        t('Can be rough seas', 'Kan ruwe zee zijn'),
+        t('Limited schedule', 'Beperkt schema'),
+        t('Possible seasickness', 'Mogelijke zeeziekte')
       ],
       bookingTips: [
-        'Book in advance during high season',
-        'Choose upper deck for less motion',
-        'Bring seasickness medication',
-        'Arrive 1 hour before departure'
+        t('Book in advance during high season', 'Boek van tevoren tijdens het hoogseizoen'),
+        t('Choose upper deck for less motion', 'Kies het bovendek voor minder beweging'),
+        t('Bring seasickness medication', 'Neem zeeziekte-medicatie mee'),
+        t('Arrive 1 hour before departure', 'Kom 1 uur voor vertrek aan')
       ]
     });
   }
@@ -704,9 +758,9 @@ export const getStaticPaths: GetStaticPaths = async () => {
   return { paths, fallback: 'blocking' };
 };
 
-export const getStaticProps: GetStaticProps<RoutePageProps> = async ({ params }) => {
+export const getStaticProps: GetStaticProps<RoutePageProps> = async ({ params, locale }) => {
   const { route: routeSlug } = params as { route: string };
-  
+
   const route = transportRoutes.routes.find(r => r.slug === routeSlug);
   if (!route) {
     return { notFound: true };
@@ -719,7 +773,7 @@ export const getStaticProps: GetStaticProps<RoutePageProps> = async ({ params })
     return { notFound: true };
   }
 
-  const transportOptions = generateTransportOptions(route);
+  const transportOptions = generateTransportOptions(route, locale || 'en');
 
   // Check if a comparison page exists for these two cities
   const comparisonsDir = path.join(process.cwd(), 'data', 'comparisons');

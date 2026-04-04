@@ -36,7 +36,7 @@ interface StreetFoodProps {
 type TypeFilter = 'all' | 'noodles' | 'rice' | 'grilled' | 'soup' | 'salad' | 'dessert' | 'drink';
 type SpiceFilter = 'all' | 'mild' | 'medium' | 'hot';
 
-const FAQ_ITEMS = [
+const FAQ_ITEMS_EN = [
   {
     question: 'Is Thai street food safe to eat?',
     answer: 'Thai street food is generally safe when you follow the same logic locals use: eat where Thai people are eating, prefer stalls that cook to order, and avoid anything that has been sitting in the sun for hours. High turnover is the most reliable signal — a stall moving 200 bowls between 11 AM and 2 PM is refreshing ingredients constantly. Stick to bottled water; ask for ice only at established stalls or in a sealed bag format. Bangkok, Chiang Mai, and other urban centres have active street food vendor oversight from municipal health departments.'
@@ -56,6 +56,29 @@ const FAQ_ITEMS = [
   {
     question: 'What did UNESCO say about Thai street food?',
     answer: 'In December 2024, UNESCO inscribed Tom Yum Kung (tom yum goong) on its Representative List of the Intangible Cultural Heritage of Humanity — the first Thai dish to receive this status, and Thailand\'s fifth item on the list overall (joining Khon masked dance, traditional Thai massage, Nora dance drama, and Songkran). UNESCO\'s documentation describes the dish\'s origin in the Buddhist riverside communities of Central Thailand\'s Chao Phraya basin, where freshwater prawns were the preferred protein and the aromatic herbs (lemongrass, galangal, kaffir lime) were valued for medicinal properties. The first written recipe dates to 1888. Source: ich.unesco.org/en/RL/tomyum-kung-01879'
+  }
+];
+
+const FAQ_ITEMS_NL = [
+  {
+    question: 'Is Thais straatvoedsel veilig om te eten?',
+    answer: 'Thais straatvoedsel is over het algemeen veilig als je dezelfde logica volgt als locals: eet waar Thaise mensen eten, kies kraampjes die op bestelling koken en vermijd alles wat urenlang in de zon heeft gestaan. Hoge omloop is het betrouwbaarste signaal — een kraampje dat 200 kommen verkoopt tussen 11 uur en 14 uur ververst constant de ingrediënten. Gebruik flessenwater; vraag alleen om ijs bij gevestigde kraampjes. Bangkok, Chiang Mai en andere stedelijke centra hebben actief toezicht op straatvoedselverkopers.'
+  },
+  {
+    question: 'Hoeveel kost Thais straatvoedsel in 2026?',
+    answer: 'De meeste gerechten kosten 40-80 THB (ongeveer $1,10-$2,30). Individuele snacks — een moo ping spies, een satay stick, een portie sai krok worst — kosten 5-20 THB per stuk. Een volledige dag straatvoedsel eten, inclusief ontbijt, lunch, tussendoortje en diner, kost ongeveer 150-300 THB ($4,50-$9) in lokale wijken. Toeristische gebieden zoals Khao San Road en Patong Beach rekenen doorgaans 50-100% meer. MICHELIN Bib Gourmand kraampjes serveren tegen dezelfde prijs als gewone straatverkopers.'
+  },
+  {
+    question: 'Welk Thais straatvoedsel moet ik eerst proberen?',
+    answer: 'Begin met gerechten zonder pittigheid: pad thai (40-80 THB), khao mun gai kippenrijst (40-60 THB), of moo ping gegrilde varkenspiezen met kleefrijst (30-50 THB voor een set). Als dessert is mango sticky rice de universele eerste ervaring — Kor Panich in Bangkok, actief sinds 1932 en houder van een MICHELIN Bib Gourmand, is het definitieve adres. Daarna probeer pad kra pao (heilige basilicum roerbak met gebakken ei) — dit is wat de meeste Thais dagelijks als lunch eten.'
+  },
+  {
+    question: 'Welke Bangkok straatvoedselgebieden zijn het beste?',
+    answer: 'Yaowarat Road (Chinatown) is Bangkok\'s rijkste straatvoedselzone — na 17:00 sluit de weg gedeeltelijk en zetten verkopers een grote markt op aan beide kanten. Specialiteiten zijn zeevruchtgrills, oesteromelet (hoy tod), guay jub noedelsoep, pad thai en dim sum. Het Victory Monument gebied is het best voor Isaan eten: boat noodles, som tam, gai yang gegrilde kip en gefermenteerde worst. Chatuchak Weekend Market (35 hectare, 15.000+ kraampjes, alleen zaterdag-zondag) concentreert kokosijs, fruitshakes, gegrild vlees en Thaise desserts op één plek.'
+  },
+  {
+    question: 'Wat heeft UNESCO gezegd over Thais straatvoedsel?',
+    answer: 'In december 2024 heeft UNESCO Tom Yum Kung (tom yum goong) ingeschreven op de Representatieve Lijst van het Immaterieel Cultureel Erfgoed van de Mensheid — het eerste Thaise gerecht dat deze status ontving, en Thailand\'s vijfde item op de lijst. De documentatie beschrijft de oorsprong van het gerecht in de boeddhistische riviergemeenschappen van het Chao Phraya-bekken in Centraal-Thailand, waar zoetwatergarnalen het favoriete eiwit waren. Het eerste geschreven recept dateert uit 1888. Bron: ich.unesco.org/en/RL/tomyum-kung-01879'
   }
 ];
 
@@ -130,6 +153,7 @@ export default function ThailandStreetFood({ data }: StreetFoodProps) {
   };
 
   const filteredDishes = filterDishes(data.items);
+  const FAQ_ITEMS = isNl ? FAQ_ITEMS_NL : FAQ_ITEMS_EN;
 
   const itemListSchema = {
     '@context': 'https://schema.org',

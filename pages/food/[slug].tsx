@@ -134,8 +134,8 @@ export default function DishPage({ dish, relatedDishes, citiesForDish, editorial
             __html: JSON.stringify({
               "@context": "https://schema.org",
               "@type": "Recipe",
-              "name": dish.name.en,
-              "description": dish.enhanced_description || dish.description.en,
+              "name": isNl ? (dish.name.nl || dish.name.en) : dish.name.en,
+              "description": isNl ? (dish.description.nl || dish.enhanced_description || dish.description.en) : (dish.enhanced_description || dish.description.en),
               "author": {
                 "@type": "Organization",
                 "name": "Go2Thailand.com",

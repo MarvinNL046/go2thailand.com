@@ -72,7 +72,28 @@ export default function BestElephantSanctuariesPage({ cities, topSanctuaries }: 
     ? 'De complete gids voor ethische olifanten opvangcentra in Thailand. Elephant Nature Park, Boon Lott\'s, Elephant Jungle Sanctuary — geen rijden, geen shows, echte redding en natuurbehoud.'
     : 'The complete guide to ethical elephant sanctuaries in Thailand. Elephant Nature Park, Boon Lott\'s, Elephant Jungle Sanctuary — no riding, no shows, genuine rescue and conservation.';
 
-  const faqItems = [
+  const faqItems = isNl ? [
+    {
+      q: 'Waar is de beste plek om een ethisch olifantenopvangcentrum te bezoeken in Thailand?',
+      a: 'Chiang Mai is de topbestemming, met Elephant Nature Park — de gouden standaard van olifantenbescherming in Azië, opgericht door Lek Chailert en de Save Elephant Foundation. Het omringende Doi Inthanon hoogland biedt een natuurlijke regenwoudomgeving voor geredde olifanten. Phuket Elephant Sanctuary en opvangcentra in Krabi zijn sterke opties in het zuiden.'
+    },
+    {
+      q: 'Hoeveel kost een bezoek aan een olifantenopvangcentrum in Thailand?',
+      a: 'Ethische opvangbezoeken variëren van EUR18 voor een korte voersessie in Krabi tot EUR105 voor een 2-daags vrijwilligers homestay in Chiang Mai. De meeste betrouwbare halfdagprogramma\'s kosten EUR40–70 en omvatten hoteltransfers, olifanten voeren, wandelen met de kudde en een vegetarische Thaise lunch.'
+    },
+    {
+      q: 'Wat maakt een olifantenopvangcentrum echt ethisch?',
+      a: 'Echte ethische opvangcentra volgen strikte welzijnsstandaarden: niet rijden, geen stierenhaken, geen kettingen, geen kunstjes en geen direct baden dat de olifanten stress bezorgt. Zoek opvangcentra die worden aanbevolen door World Animal Protection. Boon Lott\'s Elephant Sanctuary (BLES) bij Sukhothai was een van de eerste faciliteiten in Thailand die een volledig hands-off observatiemodel adopteerde.'
+    },
+    {
+      q: 'Zijn hoteltransfers inbegrepen bij olifantenopvangcentra?',
+      a: 'Ja, bijna alle olifantenopvangprogramma\'s in Thailand omvatten hotel ophaal- en afzetservice vanuit de belangrijkste toeristische gebieden — inbegrepen in de prijs. Elephant Nature Park biedt ook eigen overnachtingsaccommodatie voor vrijwilligers als je meerdere dagen wilt blijven.'
+    },
+    {
+      q: 'Wat is de beschermingsstatus van Aziatische olifanten in Thailand?',
+      a: 'Aziatische olifanten (Elephas maximus) zijn geclassificeerd als Bedreigd op de IUCN Rode Lijst. Een rapport uit 2025 van Thailand\'s Department of National Parks schatte 4.013–4.422 olifanten in het land, waarvan 3.084–4.422 in het wild in 91 beschermde gebieden. De wereldwijde populatie wordt geschat op 48.000–52.000. Belangrijkste bedreigingen zijn habitatverlies, mens-olifant conflict en stroperij voor ivoor.'
+    }
+  ] : [
     {
       q: 'Where is the best place to visit an ethical elephant sanctuary in Thailand?',
       a: 'Chiang Mai is the top destination, home to Elephant Nature Park — the gold standard of elephant conservation in Asia, founded by Lek Chailert and the Save Elephant Foundation. The surrounding Doi Inthanon highlands provide a natural rainforest setting for rescued elephants to roam free. Phuket Elephant Sanctuary and sanctuaries in Krabi are strong options in the south.'

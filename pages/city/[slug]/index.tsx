@@ -337,8 +337,8 @@ export default function CityPage({ city, relatedCities, comparisons, transportLi
             __html: JSON.stringify({
               "@context": "https://schema.org",
               "@type": "TouristDestination",
-              "name": city.name.en,
-              "description": city.overview || city.description.en,
+              "name": locale === 'nl' ? (city.name.nl || city.name.en) : city.name.en,
+              "description": locale === 'nl' ? (city.description.nl || city.overview || city.description.en) : (city.overview || city.description.en),
               "image": city.image?.startsWith('http') ? city.image : `https://go2-thailand.com${city.image}`,
               "geo": {
                 "@type": "GeoCoordinates",
@@ -397,11 +397,11 @@ export default function CityPage({ city, relatedCities, comparisons, transportLi
             __html: JSON.stringify({
               "@context": "https://schema.org",
               "@type": "TravelGuide",
-              "name": `${city.name.en} Travel Guide`,
-              "description": city.overview || city.description.en,
+              "name": locale === 'nl' ? `${city.name.nl || city.name.en} Reisgids` : `${city.name.en} Travel Guide`,
+              "description": locale === 'nl' ? (city.description.nl || city.overview || city.description.en) : (city.overview || city.description.en),
               "about": {
                 "@type": "City",
-                "name": city.name.en,
+                "name": locale === 'nl' ? (city.name.nl || city.name.en) : city.name.en,
                 "containedInPlace": {
                   "@type": "Country",
                   "name": "Thailand"

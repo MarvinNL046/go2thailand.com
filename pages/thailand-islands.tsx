@@ -30,7 +30,7 @@ export default function ThailandIslandsPage() {
   const itemListJsonLd = {
     '@context': 'https://schema.org',
     '@type': 'ItemList',
-    name: 'Best Thailand Islands to Visit by Type',
+    name: isNl ? 'Beste Thailand Eilanden om te Bezoeken per Type' : 'Best Thailand Islands to Visit by Type',
     numberOfItems: items.length,
     itemListElement: items.map((item) => ({
       '@type': 'ListItem',
@@ -40,7 +40,24 @@ export default function ThailandIslandsPage() {
     })),
   };
 
-  const faqItems = [
+  const faqItems = isNl ? [
+    {
+      question: 'Welk Thais eiland is het mooist?',
+      answer: 'Dat hangt af van wat je het meest waardeert. Koh Lipe scoort consequent het hoogst voor pure strandschoonheid — het poederachtige witte zand en turquoise Andaman water hebben het de bijnaam "Malediven van Thailand" opgeleverd. Voor onderwaterlandschappen bieden de Similan eilanden het beste zicht en koraaldiversiteit in Zuidoost-Azië. Voor dramatisch bovenwater landschap is Koh Phi Phi moeilijk te verslaan — de torenhoge kalkstenen kliffen en smaragdgroene lagunes behoren tot de meest gefotografeerde landschappen in Thailand.',
+    },
+    {
+      question: 'Welk eiland is het beste voor eerste bezoekers?',
+      answer: 'Koh Samui is de meest praktische keuze voor eerste bezoekers van de Thaise eilanden. Het heeft een eigen internationaal vliegveld met directe vluchten vanuit Bangkok, Singapore en Kuala Lumpur. De infrastructuur is het meest ontwikkeld �� internationale ziekenhuizen, betrouwbare 4G/5G dekking, westerse supermarkten en een volledig aanbod van budget tot vijfsterren. De stranden langs de noord- en oostkust (Chaweng, Lamai, Bophut) bieden kalme zwemomstandigheden het grootste deel van het jaar.',
+    },
+    {
+      question: 'Wanneer is de beste tijd om Thaise eilanden te bezoeken?',
+      answer: 'Thailand heeft twee kustlijnen met tegenovergestelde moessonpatronen. De Andamankust (westkant — Phuket, Phi Phi, Koh Lanta, Koh Lipe, Similan eilanden) heeft droog seizoen van november tot april. De Golfkust (oostkant — Koh Samui, Koh Phangan, Koh Tao) is het droogst van januari tot september, met oktober tot december als natste periode. Je kunt dus bijna altijd goed eilandweer vinden in Thailand. De belangrijkste fout is Andaman eilanden boeken in juni-september of Golf eilanden in november-december.',
+    },
+    {
+      question: 'Kun je eilandhoppen met een budget?',
+      answer: 'Ja. Een realistisch budget voor twee weken eilandhoppen is 10.000-15.000 baht (ongeveer $280-420) voor alleen veerponten. De Golfroute (Koh Samui naar Koh Phangan naar Koh Tao) is het goedkoopst, met veerpont tickets van 300-600 baht per rit. De Andaman route (Phuket naar Phi Phi naar Koh Lanta naar Koh Lipe) kost meer, 600-1.500 baht per rit. Via 12Go Asia kun je ferry-aanbieders vergelijken en tickets van tevoren boeken. De grootste budgetbesparingen komen van accommodatie — hostels op Koh Phangan en Koh Tao beginnen vanaf 300 baht per nacht.',
+    },
+  ] : [
     {
       question: 'Which Thai island is the most beautiful?',
       answer: 'It depends on what you value most. Koh Lipe consistently ranks highest for pure beach beauty — its powdery white sand and turquoise Andaman water have earned it the nickname "Maldives of Thailand." For underwater scenery, the Similan Islands offer some of the best visibility and coral diversity in Southeast Asia, with visibility regularly exceeding 30 meters. For dramatic above-water scenery, Koh Phi Phi is hard to beat — the towering limestone karst cliffs, emerald lagoons, and the iconic Phi Phi viewpoint overlooking the twin bays are among the most photographed landscapes in Thailand. Each island offers a genuinely different kind of beauty, which is why many travelers visit more than one.',

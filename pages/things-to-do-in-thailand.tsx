@@ -45,7 +45,7 @@ export default function ThingsToDoPage() {
   const itemListJsonLd = {
     '@context': 'https://schema.org',
     '@type': 'ItemList',
-    name: '25 Best Things to Do in Thailand',
+    name: isNl ? '25 Beste Dingen om te Doen in Thailand' : '25 Best Things to Do in Thailand',
     numberOfItems: 25,
     itemListElement: items.map((item) => ({
       '@type': 'ListItem',
@@ -55,7 +55,28 @@ export default function ThingsToDoPage() {
     })),
   };
 
-  const faqItems = [
+  const faqItems = isNl ? [
+    {
+      question: 'Hoeveel dagen heb je nodig in Thailand?',
+      answer: 'De meeste reizigers vinden 10 tot 14 dagen ideaal voor een veelzijdige Thailand reis. Dat geeft je genoeg tijd voor 2-3 dagen Bangkok, 3-4 dagen Chiang Mai en het noorden, en 4-5 dagen op de zuidelijke eilanden. Als je maar 7 dagen hebt, focus dan op een regio — het noorden (Bangkok plus Chiang Mai) of het zuiden (Bangkok plus eilanden). Langere verblijven van 3-4 weken laten je vertragen en bestemmingen als Pai of Sukhothai toevoegen.',
+    },
+    {
+      question: 'Wat is de beste tijd om Thailand te bezoeken?',
+      answer: 'Het koele seizoen van november tot februari is de comfortabelste tijd, met lagere luchtvochtigheid, minder regen en temperaturen rond 25-30 graden. Dit is het hoogseizoen met hogere prijzen. Het regenseizoen (juni tot oktober) brengt middagbuien maar ook weelderige landschappen, minder drukte en lagere prijzen. Thailand\'s twee zuidelijke kusten hebben tegenovergestelde moessonpatronen: de Andamankant (Phuket, Krabi) is het natst van mei tot oktober, de Golfkant (Koh Samui, Koh Phangan) van oktober tot december.',
+    },
+    {
+      question: 'Heb je een visum nodig voor Thailand?',
+      answer: 'De meeste nationaliteiten krijgen bij aankomst een visumvrijstelling van 30 tot 60 dagen, afhankelijk van je paspoort. Burgers uit de VS, VK, EU, Australië en Canada krijgen doorgaans 60 dagen visumvrij. Je kunt dit met 30 dagen verlengen bij elk immigratiekantoor voor ongeveer 1.900 baht. Digitale nomaden komen mogelijk in aanmerking voor het Destination Thailand Visa (DTV).',
+    },
+    {
+      question: 'Is Thailand veilig voor toeristen?',
+      answer: 'Thailand is over het algemeen zeer veilig voor toeristen, inclusief alleen reizende en gezinnen. Miljoenen bezoekers reizen elk jaar door het land zonder incidenten. De meest voorkomende risico\'s zijn zakkenrollerij, verkeersongelukken (vooral scooterverhuur) en toeristenoplichting. Geweldsmisdrijven tegen toeristen zijn zeldzaam. Ziekenhuizen in grote steden als Bangkok, Chiang Mai en Phuket voldoen aan internationale standaarden.',
+    },
+    {
+      question: 'Hoeveel kost Thailand per dag?',
+      answer: 'Thailand blijft een van de bestemmingen met de beste prijs-kwaliteitverhouding in Zuidoost-Azië. Budgetreizigers komen uit met 1.000-1.500 baht per dag (ongeveer $28-42), met hostels, straatvoedsel en lokaal vervoer. Midden-reizigers besteden 1.500-3.000 baht per dag ($42-85) aan comfortabele hotels, een mix van restaurants en straatvoedsel. Luxe reizen begint rond 5.000 baht per dag ($140+). Bangkok en populaire eilanden zijn 20-30% duurder dan noordelijke steden als Chiang Mai.',
+    },
+  ] : [
     {
       question: 'How many days do you need in Thailand?',
       answer: 'Most travelers find 10 to 14 days ideal for a well-rounded Thailand trip. That gives you enough time for 2-3 days in Bangkok, 3-4 days exploring Chiang Mai and the north, and 4-5 days on the southern islands. If you only have 7 days, focus on one region — either the north (Bangkok plus Chiang Mai) or the south (Bangkok plus the islands). Longer stays of 3-4 weeks let you slow down, add off-the-beaten-path destinations like Pai or Sukhothai, and truly soak in Thai culture without rushing.',

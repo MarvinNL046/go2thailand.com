@@ -31,8 +31,10 @@ export default function PracticalInfoIndexPage({ items }: PracticalInfoPageProps
   const jsonLd = {
     "@context": "https://schema.org",
     "@type": "CollectionPage",
-    "name": "Thailand Practical Travel Info",
-    "description": "Essential practical information for traveling to Thailand. Safety tips, money guide, packing list, health info and cultural etiquette.",
+    "name": isNl ? "Thailand Praktische Reisinformatie" : "Thailand Practical Travel Info",
+    "description": isNl
+      ? "Essentiële praktische informatie voor reizen naar Thailand. Veiligheidstips, geldgids, paklijst, gezondheidsinformatie en culturele etiquette."
+      : "Essential practical information for traveling to Thailand. Safety tips, money guide, packing list, health info and cultural etiquette.",
     "url": "https://go2-thailand.com/practical-info/",
     "breadcrumb": {
       "@type": "BreadcrumbList",

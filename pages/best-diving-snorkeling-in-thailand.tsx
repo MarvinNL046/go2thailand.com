@@ -300,7 +300,36 @@ export default function BestDivingSnorkelingPage({ cities, topActivities }: Prop
     ? 'Uitgebreide gids voor Thailand\'s top duiklocaties: Similan eilanden, Richelieu Rock, Koh Tao, Sail Rock, Hin Daeng/Hin Muang en meer. Seizoenen, dieptes, PADI kosten en natuurbehoud informatie.'
     : 'Comprehensive guide to Thailand\'s top dive sites: Similan Islands, Richelieu Rock, Koh Tao, Sail Rock, Hin Daeng/Hin Muang and more. Seasons, depths, PADI costs, and conservation information.';
 
-  const faqItems = [
+  const faqItems = isNl ? [
+    {
+      q: 'Waar is het beste duiken in Thailand?',
+      a: 'Voor variatie en zicht worden de Similan eilanden (Andamanse Zee, open november–mei) consequent gerangschikt onder de top duikbestemmingen van Azië, met zicht tot 20–30 m en ontmoetingen met walvishaaien en mantaroggen. Richelieu Rock wordt door duikpublicaties beoordeeld als een van de beste individuele duiklocaties ter wereld. In de Golf van Thailand is Chumphon Pinnacle bij Koh Tao de meest geprezen locatie.'
+    },
+    {
+      q: 'Waar is het beste snorkelen in Thailand?',
+      a: 'De Surin eilanden bieden het meest ongerepte snorkelen — zicht gemiddeld 30 m en de ondiepe riffen zijn beschermd in een nationaal park. Racha Yai, 17 km ten zuiden van Phuket, heeft kalme baaien met koraaltuinen. Koh Lipe\'s stranden in Tarutao Marine Park bieden uitstekend snorkelen. Voor een budgetoptie bieden Krabi\'s Hong Islands en 4 Islands tours toegankelijk snorkelen voor beginners.'
+    },
+    {
+      q: 'Hoeveel kost een PADI Open Water certificering in Thailand?',
+      a: 'Koh Tao is een van de meest betaalbare plekken ter wereld voor PADI certificering. Geadverteerde prijzen beginnen rond 6.500 THB maar een realistische all-inclusive prijs inclusief uitrusting, certificeringskaart en duiklocatiekosten is 9.900–12.000 THB (ongeveer USD 270–330). De Discover Scuba Diving introductiecursus kost rond 2.500 THB. Duikcentra in Phuket rekenen doorgaans 15.000–20.000 THB voor dezelfde Open Water cursus.'
+    },
+    {
+      q: 'Wanneer is de beste tijd voor duiken in Thailand?',
+      a: 'Thailand heeft twee verschillende duikseizoenen gescheiden door geografie. De Andamankust (Phuket, Krabi, Khao Lak, Koh Lanta) is het best van november tot april — het Similan eilanden park is wettelijk open van 15 november tot 15 mei. De Golfkust (Koh Tao, Koh Phangan, Koh Samui) is het best van maart tot oktober, met piekomstandigheden mei–september.'
+    },
+    {
+      q: 'Is het veilig om in Thailand te duiken zonder ervaring?',
+      a: 'Ja, met passende begeleiding. De meeste duiklocaties bij Phuket, Krabi en Koh Tao zijn geschikt voor beginners. Een Discover Scuba Diving ervaring (geen certificering vereist) laat beginners duiken tot 12 m met een gecertificeerde instructeur. Een PADI Open Water certificering (minimaal 3 dagen) kwalificeert je om zelfstandig te duiken tot 18 m.'
+    },
+    {
+      q: 'Komen walvishaaien veel voor in Thailand?',
+      a: 'Walvishaai waarnemingen zijn mogelijk maar niet gebruikelijk. Chumphon Pinnacle (Golf van Thailand) registreert gemiddeld 3–4 bevestigde waarnemingen per seizoen. Richelieu Rock en de Similan eilanden bieden de beste Andaman kansen, vooral januari–april. Verantwoordelijke operators volgen DMCR interactierichtlijnen: niet aanraken, niet rijden, minimaal 3 m afstand.'
+    },
+    {
+      q: 'Welke mariene beschermingsregels gelden voor duikers in Thailand?',
+      a: 'Het DMCR en het Department of National Parks handhaven gezamenlijk de beschermde mariene gebieden van Thailand. Belangrijke regels: niet ankeren in aangewezen zones, niet koraal aanraken of verzamelen, chemische zonnebrand verboden in de meeste nationale parkwateren, niet vissen voeren. De Similan en Surin eilanden zijn wettelijk gesloten van 16 mei tot 14 november elk jaar.'
+    },
+  ] : [
     {
       q: 'Where is the best diving in Thailand?',
       a: 'For sheer variety and visibility, the Similan Islands (Andaman Sea, open November–May) are consistently ranked among Asia\'s top dive destinations, with visibility reaching 20–30 m and encounters with whale sharks and manta rays. Richelieu Rock, within Mu Koh Surin National Park, is rated by dive publications as one of the best individual dive sites in the world. In the Gulf of Thailand, Chumphon Pinnacle northwest of Koh Tao is the most acclaimed site, with the highest frequency of whale shark sightings in the Gulf.'

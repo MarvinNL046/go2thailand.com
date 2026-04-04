@@ -55,8 +55,8 @@ export default function DrinkPage({ drink }: DrinkPageProps) {
             __html: JSON.stringify({
               "@context": "https://schema.org",
               "@type": "Recipe",
-              "name": drink.name.en,
-              "description": drink.enhanced_description || drink.description.en,
+              "name": isNl ? (drink.name.nl || drink.name.en) : drink.name.en,
+              "description": isNl ? (drink.description?.nl || drink.enhanced_description || drink.description?.en) : (drink.enhanced_description || drink.description?.en),
               "author": {
                 "@type": "Organization",
                 "name": "Go2Thailand.com",

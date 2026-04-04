@@ -65,11 +65,13 @@ export default function BlogPage({ posts, categories }: BlogPageProps) {
 
   const featuredPost = posts[0];
 
+  const isNl = lang === 'nl';
+
   const jsonLd = {
     "@context": "https://schema.org",
     "@type": "Blog",
-    "name": "Go2Thailand Travel Blog",
-    "description": "Thailand travel tips, guides, and stories",
+    "name": isNl ? "Go2Thailand Reisblog" : "Go2Thailand Travel Blog",
+    "description": isNl ? "Thailand reistips, gidsen en verhalen" : "Thailand travel tips, guides, and stories",
     "url": "https://go2-thailand.com/blog/",
     "blogPost": posts.slice(0, 5).map(post => ({
       "@type": "BlogPosting",

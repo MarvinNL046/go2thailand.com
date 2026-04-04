@@ -43,8 +43,10 @@ export default function VisaIndexPage({ visas }: VisaPageProps) {
   const jsonLd = {
     "@context": "https://schema.org",
     "@type": "CollectionPage",
-    "name": "Thailand Visa Guide 2026",
-    "description": "Complete guide to all Thailand visa types in 2026. Visa-free entry, tourist visa, digital nomad visa, retirement visa and more.",
+    "name": isNl ? "Thailand Visum Gids 2026" : "Thailand Visa Guide 2026",
+    "description": isNl
+      ? "Complete gids voor alle Thailand visum types in 2026. Visumvrije toegang, toeristenvisum, digitale nomade visum, pensioenvisum en meer."
+      : "Complete guide to all Thailand visa types in 2026. Visa-free entry, tourist visa, digital nomad visa, retirement visa and more.",
     "url": "https://go2-thailand.com/visa/",
     "breadcrumb": {
       "@type": "BreadcrumbList",
@@ -57,7 +59,24 @@ export default function VisaIndexPage({ visas }: VisaPageProps) {
     }
   };
 
-  const faqItems = [
+  const faqItems = isNl ? [
+    {
+      question: 'Kan ik Thailand binnenkomen zonder visum?',
+      answer: 'Ja, burgers van 93 landen krijgen 60 dagen visumvrije toegang. Dit geldt voor de meeste paspoorthouders uit Europa, Amerika en Azië-Pacific. Je kunt je verblijf met 30 dagen verlengen (kosten: 1.900 THB) bij elk immigratiekantoor in Thailand.',
+    },
+    {
+      question: 'Hoe lang mag ik als toerist in Thailand verblijven?',
+      answer: 'Met visumvrije toegang kun je 60 dagen blijven, verlengbaar tot 90 dagen bij immigratie. Een toeristenvisum (TR) verkregen bij een Thaise ambassade geeft ook 60 dagen, verlengbaar tot 90. Meerdere binnenkomsten zijn mogelijk met een Multiple Entry Tourist Visa (METV), geldig voor 6 maanden.',
+    },
+    {
+      question: 'Kan ik mijn Thailand visum verlengen?',
+      answer: 'Ja, bezoek een immigratiekantoor in Thailand met je paspoort, een 4x6cm foto, 1.900 THB en een ingevuld TM.7 formulier. Het proces duurt meestal 1-3 uur. Grote kantoren bevinden zich in Bangkok (Chaeng Wattana), Chiang Mai, Phuket en Pattaya.',
+    },
+    {
+      question: 'Heb ik een retourticket nodig om Thailand binnen te komen?',
+      answer: 'Luchtvaartmaatschappijen kunnen om een retour- of doorreisticket vragen voor het boarden, maar Thaise immigratie vraagt er zelden naar. Een boeking hebben (zelfs een restitueerbare) voorkomt mogelijke problemen bij het inchecken.',
+    },
+  ] : [
     {
       question: 'Can I enter Thailand without a visa?',
       answer: 'Yes, citizens of 93 countries get 60-day visa-free entry. This applies to most passport holders from Europe, the Americas, and Asia-Pacific. You can extend your stay by 30 days (cost: 1,900 THB) at any immigration office in Thailand.',

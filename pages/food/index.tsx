@@ -106,7 +106,24 @@ export default function FoodIndexPage({ dishes, categories }: FoodIndexPageProps
     }
   };
 
-  const faqItems = [
+  const faqItems = isNl ? [
+    {
+      question: 'Wat is het populairste Thaise gerecht?',
+      answer: 'Internationaal is pad thai het meest bekende Thaise gerecht — het staat op vrijwel elk Thais restaurantmenu wereldwijd. Maar in Thailand zelf is pad krapow (roergebakken basilicum met gehakt varken of kip over rijst, met een gebakken ei) het dagelijkse basisgerecht. Thais eten het bij straatkraampjes, food courts en kantinekantines vrijwel dagelijks voor de lunch. Het kost slechts 40-50 baht en is het dichtstbijzijnde nationaal comfortvoedsel. Andere gerechten die Thais vaker eten dan pad thai zijn som tam (papajasalade), khao man gai (kippenrijst) en diverse curry-over-rijst combinaties.',
+    },
+    {
+      question: 'Is Thais eten heel pittig?',
+      answer: 'Thais eten beslaat een breed spectrum van pittigheid en niet elk gerecht zet je mond in brand. Centraal-Thaise keuken (Bangkok) is gematigd gekruid met een balans van zoet, zuur en zout. Noord-Thaise gerechten zoals khao soi en sai oua zijn over het algemeen milder. Zuid-Thaise en Isaan keukens zijn het pittigst. Het goede nieuws is dat pittigheid bijna altijd aanpasbaar is. Zeg bij het bestellen "pet nit noi" (een beetje pittig) of "mai pet" (niet pittig).',
+    },
+    {
+      question: 'Is straatvoedsel veilig in Thailand?',
+      answer: 'Ja, straatvoedsel in Thailand is over het algemeen veilig voor toeristen. Bangkok is meerdere keren door CNN uitgeroepen tot beste straatvoedselstad ter wereld en miljoenen Thais eten dagelijks straatvoedsel zonder problemen. De sleutel is verstandig kraampjes kiezen: zoek verkopers met een gestage stroom lokale klanten, wat betekent dat er hoge omloop en verse ingrediënten zijn. Op bestelling gekookte gerechten zijn het veiligst. Vermijd vooraf bereide etenswaren die urenlang in de zon hebben gestaan.',
+    },
+    {
+      question: 'Wat moet ik als eerste eten in Thailand?',
+      answer: 'Begin voor je eerste Thaise maaltijd met iets benaderbaar en universeel geliefd. Pad thai is het klassieke startpunt — roergebakken rijstnoedels met ei, taugé en je keuze uit garnalen of kip, geserveerd met een limoenpartje en gehakte pinda\'s. Een ander uitstekend eerste gerecht is khao man gai (kippenrijst): gepocheerde kip op geurige rijst met een eenvoudige gember-chilisaus. Het is zacht voor de maag en kost rond 40-60 baht bij elk straatkraampje.',
+    },
+  ] : [
     {
       question: 'What is the most popular Thai food?',
       answer: 'Internationally, pad thai is the most recognized Thai dish — it appears on virtually every Thai restaurant menu worldwide. However, within Thailand itself, pad krapow (stir-fried basil with minced pork or chicken over rice, topped with a fried egg) is the everyday staple. Thais eat it at street stalls, food courts, and office canteens for lunch almost daily. It costs as little as 40-50 baht and is the closest thing to a national comfort food. Other dishes that Thais eat more frequently than pad thai include som tam (papaya salad), khao man gai (chicken rice), and various curry-over-rice combinations from neighborhood shops.',
@@ -141,8 +158,12 @@ export default function FoodIndexPage({ dishes, categories }: FoodIndexPageProps
   const articleJsonLd = {
     '@context': 'https://schema.org',
     '@type': 'Article',
-    headline: 'Thai Food Guide: Must-Try Dishes, Street Food & Regional Cuisine',
-    description: `Discover ${dishes.length} authentic Thai dishes with street food tips, regional cuisine breakdowns, and practical ordering advice. Your complete Thai food guide for 2026.`,
+    headline: isNl
+      ? 'Thaise Keuken Gids: Must-Try Gerechten, Straatvoedsel & Regionale Keuken'
+      : 'Thai Food Guide: Must-Try Dishes, Street Food & Regional Cuisine',
+    description: isNl
+      ? `Ontdek ${dishes.length} authentieke Thaise gerechten met straatvoedsel tips, regionale keuken en praktisch besteladvies. Je complete Thaise eetgids voor 2026.`
+      : `Discover ${dishes.length} authentic Thai dishes with street food tips, regional cuisine breakdowns, and practical ordering advice. Your complete Thai food guide for 2026.`,
     author: {
       '@type': 'Organization',
       name: 'Go2Thailand',

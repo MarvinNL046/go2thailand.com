@@ -18,6 +18,7 @@ import '../styles/globals.css';
 export default function App({ Component, pageProps }: AppProps) {
   const isProduction = process.env.NODE_ENV === 'production';
   const router = useRouter();
+  const isNl = router.locale === 'nl';
 
 
   return (
@@ -35,7 +36,9 @@ export default function App({ Component, pageProps }: AppProps) {
               "name": "Go2Thailand.com",
               "url": "https://go2-thailand.com",
               "logo": "https://go2-thailand.com/go2thailand-faviocon.webp",
-              "description": "Your comprehensive guide to Thailand travel",
+              "description": isNl
+                ? "Je complete gids voor reizen naar Thailand"
+                : "Your comprehensive guide to Thailand travel",
               "contactPoint": {
                 "@type": "ContactPoint",
                 "email": "hello@go2-thailand.com",

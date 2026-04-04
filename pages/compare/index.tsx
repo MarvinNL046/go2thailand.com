@@ -131,8 +131,10 @@ export default function CompareIndexPage({ islandComparisons, cityComparisons, p
   const jsonLd = {
     "@context": "https://schema.org",
     "@type": "CollectionPage",
-    "name": "Thailand Destination Comparisons 2026",
-    "description": `Compare ${totalCount} Thai destinations side by side. Islands and cities compared to help you choose the perfect Thailand destination.`,
+    "name": lang === 'nl' ? "Thailand Bestemmingen Vergelijkingen 2026" : "Thailand Destination Comparisons 2026",
+    "description": lang === 'nl'
+      ? `Vergelijk ${totalCount} Thaise bestemmingen zij aan zij. Eilanden en steden vergeleken om je te helpen de perfecte Thailand bestemming te kiezen.`
+      : `Compare ${totalCount} Thai destinations side by side. Islands and cities compared to help you choose the perfect Thailand destination.`,
     "url": "https://go2-thailand.com/compare/",
     "breadcrumb": {
       "@type": "BreadcrumbList",

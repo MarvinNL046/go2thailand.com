@@ -67,7 +67,7 @@ export default function Top10AttractionsIndex({ availableGuides, featuredGuides 
             __html: JSON.stringify({
               "@context": "https://schema.org",
               "@type": "CollectionPage",
-              "name": "Top 10 Attraction Guides Thailand",
+              "name": isNl ? "Top 10 Bezienswaardigheden Gidsen Thailand" : "Top 10 Attraction Guides Thailand",
               "description": attractionsHubContent.description,
               "publisher": {
                 "@type": "Organization",

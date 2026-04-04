@@ -14,7 +14,24 @@ export default function BudgetTravelPage() {
     { name: isNl ? 'Budget Reizen' : 'Budget Travel', href: '/budget-travel/' },
   ];
 
-  const faqItems = [
+  const faqItems = isNl ? [
+    {
+      question: 'Is $50 per dag genoeg in Thailand?',
+      answer: 'Ja, $50 per dag (ongeveer ฿1.750) plaatst je comfortabel in de middenklasse buiten de eilanden. Je kunt een privé airconditioned hotelkamer betalen, een mix van straatvoedsel en restaurants eten, Grab taxi\'s nemen en één betaalde activiteit per dag doen. Op de eilanden is $50 per dag krapper maar nog steeds werkbaar als je in budget gasthuizen verblijft. Backpackers die comfortabel zijn met slaapzalen en straatvoedsel komen uit met $30-40 per dag op het vasteland.',
+    },
+    {
+      question: 'Is Thailand goedkoper dan Bali?',
+      answer: 'Thailand en Bali zijn vergelijkbaar voor budgetreizigers, maar de kostenverdeling verschilt. Thailand heeft goedkoper straatvoedsel (฿30-80 per gerecht versus $2-4 in Bali) en betaalbaarder lokaal vervoer zoals de BTS, songthaews en nachttreinen. Bali heeft vaak goedkopere accommodatie, vooral privé villa\'s. Binnenlandse vluchten in Thailand zijn goedkoper dan reizen tussen Indonesische eilanden. Over het geheel kosten beide bestemmingen ongeveer hetzelfde voor een reis van twee weken.',
+    },
+    {
+      question: 'Wat is de goedkoopste maand om Thailand te bezoeken?',
+      answer: 'September en oktober bieden de laagste prijzen in heel Thailand. Hotels dalen 30-50% vergeleken met het hoogseizoen december-februari. Deze periode valt in het regenseizoen, maar de regen is meestal korte middagbuien — ochtenden zijn doorgaans helder en zonnig. De afweging is dat sommige eilanden aan de Andamankust (Phuket, Krabi, Koh Lanta) in hun natste periode zitten, dus de Golfeilanden (Koh Samui, Koh Phangan, Koh Tao) zijn de betere strandkeuze.',
+    },
+    {
+      question: 'Kan ik creditcards gebruiken in Thailand?',
+      answer: 'In steden, winkelcentra, ketenrestaurants en grotere hotels worden creditcards breed geaccepteerd. Straatvoedselverkopers, kleine lokale winkels, tuk-tuks, marktkramen en veel bedrijven op de eilanden accepteren alleen contant geld. Thaise geldautomaten rekenen een vast tarief van ฿220 per opname. De beste strategie is een reisvriendelijke betaalkaart zoals Wise of Revolut gebruiken zonder wisselkoersopslag. Kies altijd om in Thaise baht te betalen (niet je eigen valuta) om dynamische valutaomrekening van 3-5% te vermijden.',
+    },
+  ] : [
     {
       question: 'Is $50 a day enough in Thailand?',
       answer: 'Yes, $50 a day (approximately ฿1,750) puts you comfortably in the mid-range bracket outside of the islands. You can afford a private air-conditioned hotel room, eat a mix of street food and sit-down restaurants, take Grab taxis, and do one paid activity per day. On the islands, $50 a day is tighter but still workable if you stay in budget guesthouses and eat at local restaurants rather than beachfront tourist spots. Backpackers who are comfortable with hostel dorms, street food, and local transport can manage on $30-40 per day in mainland Thailand, and many long-term travelers sustain this level of spending for months.',

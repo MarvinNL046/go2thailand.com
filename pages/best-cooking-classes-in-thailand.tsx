@@ -72,7 +72,32 @@ export default function BestCookingClassesPage({ cities, topClasses }: Props) {
     ? 'Geverifieerde gids voor de beste Thaise kookscholen in Bangkok, Chiang Mai, Phuket, Koh Samui en Krabi. Echte scholen, echte details — van farm-to-table lessen tot Michelin-erkende keukens.'
     : 'Verified guide to the best Thai cooking schools in Bangkok, Chiang Mai, Phuket, Koh Samui and Krabi. Real schools, real details — from farm-to-table classes to Michelin-recognised kitchens.';
 
-  const faqItems = [
+  const faqItems = isNl ? [
+    {
+      q: 'Waar is de beste plek voor een kookles in Thailand?',
+      a: 'Chiang Mai wordt algemeen beschouwd als de gouden standaard voor kooklessen in Thailand. De stad heeft de hoogste concentratie scholen, de meest concurrerende prijzen en een unieke farm-to-table traditie — meerdere scholen, waaronder Thai Farm Cooking School en Mama Noi, geven les op werkende biologische boerderijen buiten de stad. Bangkok is een goede tweede als je luxe wilt: de Blue Elephant Cooking School in het Sathorn district opereert vanuit een eeuwoud koloniaal herenhuis en is erkend door de Michelin Gids.'
+    },
+    {
+      q: 'Hoeveel kost een Thaise kookles?',
+      a: 'Budgetvriendelijke halve dag lessen in Chiang Mai beginnen rond 1.000 THB (ongeveer USD 27). In Bangkok rekenen middenklasse scholen zoals Silom Thai Cooking School een vergelijkbaar bedrag inclusief marktbezoek. Premium ervaringen — Blue Elephant Bangkok of meerdaagse cursussen — kosten 3.000–5.000 THB of meer. Koh Samui en Krabi zitten in het midden, doorgaans 1.200–2.500 THB voor een halve dag.'
+    },
+    {
+      q: 'Omvatten Thaise kooklessen een marktbezoek?',
+      a: 'Veel wel, en het is de moeite waard om er een te kiezen die dat doet. Over een Thaise versmarkt lopen voor het koken geeft essentiële context: je leert galangal van gember te onderscheiden, ziet hoe verse kokosmelk wordt geperst en begrijpt waarom Thaise koks aandringen op ingrediënten van dezelfde dag. Scholen met markttours zijn onder andere Silom Thai Cooking School (Bangkok), Thai Farm Cooking School (Chiang Mai) en Phuket Thai Cooking Academy.'
+    },
+    {
+      q: 'Zijn Thaise kooklessen geschikt voor vegetariërs en veganisten?',
+      a: 'Ja — de meeste scholen bedienen actief vegetariërs en veganisten. Phuket Thai Cooking Academy heeft een speciaal vegetarisch programma en biedt zelfs een vijfdaagse professionele veganistische Thaise kookcursus. Mama Noi in Chiang Mai heeft een specifiek vegetarisch kookles menu. Vermeld altijd je dieetwensen bij het boeken.'
+    },
+    {
+      q: 'Is Thais eten een UNESCO-erkend culinair erfgoed?',
+      a: 'Ja, op een belangrijke manier. In december 2024 werd Thailand\'s tom yum kung ingeschreven op de UNESCO Representatieve Lijst van het Immaterieel Cultureel Erfgoed van de Mensheid — het eerste Thaise gerecht dat deze eer ontving. Een kookles volgen is een van de meest directe manieren om met deze levende culinaire traditie in contact te komen.'
+    },
+    {
+      q: 'Moet ik een kookles vooraf boeken?',
+      a: 'Ja, vooral tijdens het hoogseizoen (november tot februari). Populaire Chiang Mai scholen zijn een week of meer van tevoren vol. Zelfs in rustigere maanden garandeert twee tot drie dagen van tevoren boeken je gewenste lestijd en geeft de school tijd om hotel ophaalservice te regelen. De meeste scholen bieden gratis annulering tot 24 uur voor de les.'
+    }
+  ] : [
     {
       q: 'Where is the best place to take a cooking class in Thailand?',
       a: 'Chiang Mai is widely considered the gold standard for cooking classes in Thailand. The city has the highest concentration of schools, the most competitive prices, and a unique farm-to-table tradition — several schools, including Thai Farm Cooking School and Mama Noi, run classes on working organic farms outside the city. Bangkok is a close second if you want luxury: the Blue Elephant Cooking School in the Sathorn district operates from a century-old colonial mansion and is recognised by the Michelin Guide.'
@@ -115,8 +140,12 @@ export default function BestCookingClassesPage({ cities, topClasses }: Props) {
   const howToJsonLd = {
     '@context': 'https://schema.org',
     '@type': 'HowTo',
-    'name': 'How to Choose and Book a Thai Cooking Class in Thailand',
-    'description': 'A practical guide to selecting the right Thai cooking class for your trip, based on city, budget, and experience level.',
+    'name': isNl
+      ? 'Hoe Kies en Boek je een Thaise Kookles in Thailand'
+      : 'How to Choose and Book a Thai Cooking Class in Thailand',
+    'description': isNl
+      ? 'Een praktische gids voor het kiezen van de juiste Thaise kookles voor je reis, op basis van stad, budget en ervaringsniveau.'
+      : 'A practical guide to selecting the right Thai cooking class for your trip, based on city, budget, and experience level.',
     'totalTime': 'PT15M',
     'step': [
       {
