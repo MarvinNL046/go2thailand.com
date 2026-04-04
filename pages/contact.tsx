@@ -1,11 +1,15 @@
 import Head from 'next/head';
 import Link from 'next/link';
+import { useRouter } from 'next/router';
 import Breadcrumbs from '../components/Breadcrumbs';
 
 export default function ContactPage() {
+  const { locale } = useRouter();
+  const isNl = locale === 'nl';
+
   const breadcrumbs = [
     { name: 'Home', href: '/' },
-    { name: 'Contact Us', href: '/contact' }
+    { name: isNl ? 'Neem Contact Op' : 'Contact Us', href: '/contact' }
   ];
 
   const jsonLd = {
@@ -26,7 +30,32 @@ export default function ContactPage() {
     },
   };
 
-  const helpCards = [
+  const helpCards = isNl ? [
+    {
+      icon: '&#9888;',
+      title: 'Meld een Fout',
+      description: 'Een verouderde prijs, onjuiste openingstijd of feitelijke fout gezien? Laat het ons weten en we lossen het snel op.',
+      subject: 'Foutmelding',
+    },
+    {
+      icon: '&#127968;',
+      title: 'Stel een Bestemming Voor',
+      description: 'Ken je een verborgen juweeltje in Thailand dat we nog niet behandeld hebben? We horen er graag over.',
+      subject: 'Bestemmingssuggestie',
+    },
+    {
+      icon: '&#129309;',
+      title: 'Samenwerkingen',
+      description: 'Geïnteresseerd in samenwerking? We werken samen met reismerken die aansluiten bij onze waarden en redactionele standaarden.',
+      subject: 'Samenwerkingsverzoek',
+    },
+    {
+      icon: '&#128240;',
+      title: 'Media & Pers',
+      description: 'Journalisten en contentmakers zijn welkom om contact op te nemen voor data, citaten of samenwerking aan Thailand reisverhalen.',
+      subject: 'Media-aanvraag',
+    },
+  ] : [
     {
       icon: '&#9888;',
       title: 'Report an Error',
@@ -53,7 +82,13 @@ export default function ContactPage() {
     },
   ];
 
-  const quickLinks = [
+  const quickLinks = isNl ? [
+    { href: '/about/', label: 'Over Ons' },
+    { href: '/editorial-policy/', label: 'Redactioneel Beleid' },
+    { href: '/affiliate-disclosure/', label: 'Affiliate Verklaring' },
+    { href: '/privacy/', label: 'Privacybeleid' },
+    { href: '/terms/', label: 'Algemene Voorwaarden' },
+  ] : [
     { href: '/about/', label: 'About Us' },
     { href: '/editorial-policy/', label: 'Editorial Policy' },
     { href: '/affiliate-disclosure/', label: 'Affiliate Disclosure' },
@@ -64,10 +99,12 @@ export default function ContactPage() {
   return (
     <>
       <Head>
-        <title>Contact Us - Go2Thailand.com</title>
+        <title>{isNl ? 'Neem Contact Op - Go2Thailand.com' : 'Contact Us - Go2Thailand.com'}</title>
         <meta
           name="description"
-          content="Get in touch with Go2Thailand.com. Report errors, suggest destinations, ask about partnerships, or send media inquiries. We typically respond within 48 hours."
+          content={isNl
+            ? 'Neem contact op met Go2Thailand.com. Meld fouten, stel bestemmingen voor, vraag naar samenwerkingen of stuur mediavragen. We reageren doorgaans binnen 48 uur.'
+            : 'Get in touch with Go2Thailand.com. Report errors, suggest destinations, ask about partnerships, or send media inquiries. We typically respond within 48 hours.'}
         />
         <meta name="robots" content="noindex, follow" />
         <script
@@ -84,39 +121,45 @@ export default function ContactPage() {
 
             {/* Hero */}
             <div className="bg-surface-dark text-white rounded-2xl p-8 md:p-12 mb-8 text-center">
-              <p className="font-script text-thailand-gold text-lg mb-2">We&apos;d Love to Hear From You</p>
-              <h1 className="text-4xl lg:text-5xl font-bold font-heading mb-4">Contact Us</h1>
+              <p className="font-script text-thailand-gold text-lg mb-2">{isNl ? 'We Horen Graag Van Je' : 'We\u0027d Love to Hear From You'}</p>
+              <h1 className="text-4xl lg:text-5xl font-bold font-heading mb-4">{isNl ? 'Neem Contact Op' : 'Contact Us'}</h1>
               <p className="text-xl opacity-90 max-w-2xl mx-auto">
-                Have a question, spotted a mistake, or want to work together? Send us an email — we typically respond within 48 hours.
+                {isNl
+                  ? 'Heb je een vraag, een fout gevonden of wil je samenwerken? Stuur ons een e-mail — we reageren doorgaans binnen 48 uur.'
+                  : 'Have a question, spotted a mistake, or want to work together? Send us an email — we typically respond within 48 hours.'}
               </p>
             </div>
 
             {/* Get in Touch */}
             <div className="bg-white rounded-2xl shadow-md p-8 mb-8">
-              <h2 className="text-2xl font-bold font-heading text-gray-900 mb-4">Get in Touch</h2>
+              <h2 className="text-2xl font-bold font-heading text-gray-900 mb-4">{isNl ? 'Neem Contact Op' : 'Get in Touch'}</h2>
               <p className="text-gray-700 mb-6">
-                The best way to reach us is by email. We read every message and aim to respond within 48 hours on business days.
+                {isNl
+                  ? 'De beste manier om ons te bereiken is per e-mail. We lezen elk bericht en streven ernaar binnen 48 uur te reageren op werkdagen.'
+                  : 'The best way to reach us is by email. We read every message and aim to respond within 48 hours on business days.'}
               </p>
               <div className="flex flex-col sm:flex-row items-start sm:items-center gap-4 p-6 bg-surface-cream rounded-xl">
                 <div className="text-3xl">&#9993;</div>
                 <div>
-                  <div className="text-sm font-semibold text-gray-500 uppercase tracking-wide mb-1">Email us at</div>
+                  <div className="text-sm font-semibold text-gray-500 uppercase tracking-wide mb-1">{isNl ? 'E-mail ons op' : 'Email us at'}</div>
                   <a
                     href="mailto:hello@go2-thailand.com"
                     className="text-2xl font-bold text-thailand-blue hover:underline"
                   >
                     hello@go2-thailand.com
                   </a>
-                  <p className="text-sm text-gray-500 mt-1">We typically respond within 48 hours.</p>
+                  <p className="text-sm text-gray-500 mt-1">{isNl ? 'We reageren doorgaans binnen 48 uur.' : 'We typically respond within 48 hours.'}</p>
                 </div>
               </div>
             </div>
 
             {/* What Can We Help With */}
             <div className="bg-white rounded-2xl shadow-md p-8 mb-8">
-              <h2 className="text-2xl font-bold font-heading text-gray-900 mb-2">What Can We Help With?</h2>
+              <h2 className="text-2xl font-bold font-heading text-gray-900 mb-2">{isNl ? 'Waarmee Kunnen We Helpen?' : 'What Can We Help With?'}</h2>
               <p className="text-gray-600 mb-6">
-                Not sure what to write? Here are the most common reasons people reach out.
+                {isNl
+                  ? 'Niet zeker wat je moet schrijven? Dit zijn de meest voorkomende redenen waarom mensen contact opnemen.'
+                  : 'Not sure what to write? Here are the most common reasons people reach out.'}
               </p>
               <div className="grid grid-cols-1 sm:grid-cols-2 gap-4">
                 {helpCards.map((card) => (
@@ -140,9 +183,11 @@ export default function ContactPage() {
 
             {/* Quick Links */}
             <div className="bg-white rounded-2xl shadow-md p-8 mb-8">
-              <h2 className="text-2xl font-bold font-heading text-gray-900 mb-4">Quick Links</h2>
+              <h2 className="text-2xl font-bold font-heading text-gray-900 mb-4">{isNl ? 'Snelle Links' : 'Quick Links'}</h2>
               <p className="text-gray-700 mb-5">
-                Looking for our policies or more information about how we operate?
+                {isNl
+                  ? 'Op zoek naar ons beleid of meer informatie over hoe we werken?'
+                  : 'Looking for our policies or more information about how we operate?'}
               </p>
               <div className="flex flex-wrap gap-3">
                 {quickLinks.map((link) => (

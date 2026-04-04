@@ -1,5 +1,6 @@
 import React from 'react';
 import { GetStaticPaths, GetStaticProps } from 'next';
+import { useRouter } from 'next/router';
 import Link from 'next/link';
 import Breadcrumbs from '../../../../components/Breadcrumbs';
 import TripcomWidget from '../../../../components/TripcomWidget';
@@ -18,7 +19,7 @@ interface CityWeatherIndexProps {
   }>;
 }
 
-const monthNames = {
+const monthNamesEN: Record<string, string> = {
   'january': 'January',
   'february': 'February',
   'march': 'March',
@@ -33,6 +34,21 @@ const monthNames = {
   'december': 'December'
 };
 
+const monthNamesNL: Record<string, string> = {
+  'january': 'Januari',
+  'february': 'Februari',
+  'march': 'Maart',
+  'april': 'April',
+  'may': 'Mei',
+  'june': 'Juni',
+  'july': 'Juli',
+  'august': 'Augustus',
+  'september': 'September',
+  'october': 'Oktober',
+  'november': 'November',
+  'december': 'December'
+};
+
 const getSeasonColor = (month: string) => {
   const coolSeason = ['november', 'december', 'january', 'february'];
   const hotSeason = ['march', 'april', 'may'];
@@ -43,36 +59,48 @@ const getSeasonColor = (month: string) => {
   return 'bg-green-100 border-green-300';
 };
 
-const getSeasonName = (month: string) => {
+const getSeasonName = (month: string, isNl: boolean) => {
   const coolSeason = ['november', 'december', 'january', 'february'];
   const hotSeason = ['march', 'april', 'may'];
-  
-  if (coolSeason.includes(month)) return 'Cool Season';
-  if (hotSeason.includes(month)) return 'Hot Season';
-  return 'Rainy Season';
+
+  if (coolSeason.includes(month)) return isNl ? 'Koele Seizoen' : 'Cool Season';
+  if (hotSeason.includes(month)) return isNl ? 'Hete Seizoen' : 'Hot Season';
+  return isNl ? 'Regenseizoen' : 'Rainy Season';
 };
 
 const CityWeatherIndex: React.FC<CityWeatherIndexProps> = ({ city, monthlyWeather }) => {
+  const { locale } = useRouter();
+  const isNl = locale === 'nl';
+  const lang = isNl ? 'nl' : 'en';
+  const monthNames = isNl ? monthNamesNL : monthNamesEN;
+  const cityName = city.name[lang] || city.name.en;
+
   const breadcrumbs = [
-    { name: 'Home', href: '/' },
-    { name: city.name.en, href: `/city/${city.slug}` },
-    { name: 'Weather', href: `/city/${city.slug}/weather` }
+    { name: isNl ? 'Home' : 'Home', href: '/' },
+    { name: cityName, href: `/city/${city.slug}` },
+    { name: isNl ? 'Weer' : 'Weather', href: `/city/${city.slug}/weather` }
   ];
 
   return (
     <div className="min-h-screen bg-surface-cream">
       <SEOHead
-        title={`${city.name.en} Weather 2026 — Best Time to Visit by Month`}
-        description={`${city.name.en} weather guide: monthly temperatures, rainfall, and best time to visit in 2026. Plan your Thailand trip with season-by-season tips.`}
+        title={isNl
+          ? `${cityName} Weer 2026 — Beste Reistijd per Maand`
+          : `${cityName} Weather 2026 — Best Time to Visit by Month`}
+        description={isNl
+          ? `${cityName} weergids: maandelijkse temperaturen, regenval en beste reistijd in 2026. Plan je Thailand reis met seizoensgebonden tips.`
+          : `${cityName} weather guide: monthly temperatures, rainfall, and best time to visit in 2026. Plan your Thailand trip with season-by-season tips.`}
       >
-        <meta name="keywords" content={`${city.name.en} weather, ${city.name.en} climate, ${city.name.en} temperature, ${city.name.en} rainfall, ${city.name.en} best time to visit, ${city.name.en} seasons`} />
+        <meta name="keywords" content={isNl
+          ? `${cityName} weer, ${cityName} klimaat, ${cityName} temperatuur, ${cityName} regenval, ${cityName} beste reistijd, ${cityName} seizoenen`
+          : `${cityName} weather, ${cityName} climate, ${cityName} temperature, ${cityName} rainfall, ${cityName} best time to visit, ${cityName} seasons`} />
       </SEOHead>
 
       <main className="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8 py-8">
         <Breadcrumbs items={breadcrumbs} />
 
         <h1 className="text-4xl font-bold font-heading text-gray-900 mb-8">
-          {city.name.en} Weather & Climate Guide
+          {isNl ? `${cityName} Weer & Klimaatgids` : `${cityName} Weather & Climate Guide`}
         </h1>
 
         <div className="grid grid-cols-1 lg:grid-cols-3 gap-8">
@@ -80,30 +108,30 @@ const CityWeatherIndex: React.FC<CityWeatherIndexProps> = ({ city, monthlyWeathe
             {/* Introduction */}
             <section className="bg-white rounded-2xl shadow-md p-6 mb-8">
               <p className="text-gray-700 leading-relaxed">
-                Planning your trip to {city.name.en}? Understanding the weather patterns throughout the year is essential for making the most of your visit. 
-                {city.name.en} experiences three distinct seasons: the cool season (November-February), hot season (March-May), and rainy season (June-October). 
-                Each season offers unique experiences and attractions.
+                {isNl
+                  ? `Ben je je reis naar ${cityName} aan het plannen? Het begrijpen van de weerpatronen gedurende het jaar is essentieel om het meeste uit je bezoek te halen. ${cityName} kent drie verschillende seizoenen: het koele seizoen (november-februari), het hete seizoen (maart-mei) en het regenseizoen (juni-oktober). Elk seizoen biedt unieke ervaringen en bezienswaardigheden.`
+                  : `Planning your trip to ${cityName}? Understanding the weather patterns throughout the year is essential for making the most of your visit. ${cityName} experiences three distinct seasons: the cool season (November-February), hot season (March-May), and rainy season (June-October). Each season offers unique experiences and attractions.`}
               </p>
             </section>
 
             {/* Monthly Weather Grid */}
             <section className="bg-white rounded-2xl shadow-md p-6 mb-8">
-              <h2 className="text-2xl font-bold font-heading mb-6">Weather by Month</h2>
+              <h2 className="text-2xl font-bold font-heading mb-6">{isNl ? 'Weer per Maand' : 'Weather by Month'}</h2>
               <div className="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-3 gap-4">
                 {monthlyWeather.map((data) => (
                   <Link key={data.month} href={`/city/${city.slug}/weather/${data.month}`} className={`block p-4 rounded-lg border-2 hover:shadow-lg transition-shadow ${getSeasonColor(data.month)}`}>
-                    <h3 className="font-semibold font-heading text-lg mb-2">{data.monthName}</h3>
-                    <div className="text-sm text-gray-600 mb-2">{getSeasonName(data.month)}</div>
+                    <h3 className="font-semibold font-heading text-lg mb-2">{monthNames[data.month] || data.monthName}</h3>
+                    <div className="text-sm text-gray-600 mb-2">{getSeasonName(data.month, isNl)}</div>
                     <div className="flex justify-between items-center mb-2">
                       <div className="text-sm">
-                        <span className="font-medium">High:</span> {data.temperature.high}°C
+                        <span className="font-medium">{isNl ? 'Max:' : 'High:'}</span> {data.temperature.high}°C
                       </div>
                       <div className="text-sm">
-                        <span className="font-medium">Low:</span> {data.temperature.low}°C
+                        <span className="font-medium">{isNl ? 'Min:' : 'Low:'}</span> {data.temperature.low}°C
                       </div>
                     </div>
                     <div className="text-sm text-gray-600">
-                      <span className="font-medium">Rainfall:</span> {data.rainfall}mm
+                      <span className="font-medium">{isNl ? 'Regenval:' : 'Rainfall:'}</span> {data.rainfall}mm
                     </div>
                   </Link>
                 ))}
@@ -113,27 +141,33 @@ const CityWeatherIndex: React.FC<CityWeatherIndexProps> = ({ city, monthlyWeathe
 
             {/* Season Overview */}
             <section className="bg-white rounded-2xl shadow-md p-6 mb-8">
-              <h2 className="text-2xl font-bold font-heading mb-6">Seasonal Overview</h2>
-              
+              <h2 className="text-2xl font-bold font-heading mb-6">{isNl ? 'Seizoensoverzicht' : 'Seasonal Overview'}</h2>
+
               <div className="space-y-6">
                 <div className="p-4 bg-blue-50 rounded-lg">
-                  <h3 className="text-xl font-semibold font-heading text-blue-800 mb-2">Cool Season (November - February)</h3>
+                  <h3 className="text-xl font-semibold font-heading text-blue-800 mb-2">{isNl ? 'Koele Seizoen (November - Februari)' : 'Cool Season (November - February)'}</h3>
                   <p className="text-gray-700">
-                    The most popular time to visit {city.name.en}. Temperatures are comfortable, rainfall is minimal, and the weather is perfect for sightseeing and outdoor activities.
+                    {isNl
+                      ? `De populairste tijd om ${cityName} te bezoeken. De temperaturen zijn aangenaam, er valt weinig regen en het weer is perfect voor sightseeing en buitenactiviteiten.`
+                      : `The most popular time to visit ${cityName}. Temperatures are comfortable, rainfall is minimal, and the weather is perfect for sightseeing and outdoor activities.`}
                   </p>
                 </div>
-                
+
                 <div className="p-4 bg-orange-50 rounded-lg">
-                  <h3 className="text-xl font-semibold font-heading text-orange-800 mb-2">Hot Season (March - May)</h3>
+                  <h3 className="text-xl font-semibold font-heading text-orange-800 mb-2">{isNl ? 'Hete Seizoen (Maart - Mei)' : 'Hot Season (March - May)'}</h3>
                   <p className="text-gray-700">
-                    The hottest time of year with temperatures often exceeding 35°C. Great for beach activities but can be challenging for extensive sightseeing. Songkran Festival in April brings festive celebrations.
+                    {isNl
+                      ? 'De warmste tijd van het jaar met temperaturen die regelmatig boven de 35°C uitkomen. Ideaal voor strandactiviteiten maar uitdagend voor uitgebreid sightseeing. Het Songkran Festival in april brengt feestelijke vieringen.'
+                      : 'The hottest time of year with temperatures often exceeding 35°C. Great for beach activities but can be challenging for extensive sightseeing. Songkran Festival in April brings festive celebrations.'}
                   </p>
                 </div>
-                
+
                 <div className="p-4 bg-green-50 rounded-lg">
-                  <h3 className="text-xl font-semibold font-heading text-green-800 mb-2">Rainy Season (June - October)</h3>
+                  <h3 className="text-xl font-semibold font-heading text-green-800 mb-2">{isNl ? 'Regenseizoen (Juni - Oktober)' : 'Rainy Season (June - October)'}</h3>
                   <p className="text-gray-700">
-                    Characterized by afternoon showers and occasional heavy rainfall. Despite the rain, there are many sunny periods. Lower tourist numbers mean better prices and less crowded attractions.
+                    {isNl
+                      ? 'Gekenmerkt door middagbuien en af en toe hevige regenval. Ondanks de regen zijn er veel zonnige periodes. Minder toeristen betekent betere prijzen en minder drukke bezienswaardigheden.'
+                      : 'Characterized by afternoon showers and occasional heavy rainfall. Despite the rain, there are many sunny periods. Lower tourist numbers mean better prices and less crowded attractions.'}
                   </p>
                 </div>
               </div>
@@ -141,19 +175,19 @@ const CityWeatherIndex: React.FC<CityWeatherIndexProps> = ({ city, monthlyWeathe
 
             {/* Best Time to Visit */}
             <section className="bg-white rounded-2xl shadow-md p-6">
-              <h2 className="text-2xl font-bold font-heading mb-4">Best Time to Visit {city.name.en}</h2>
+              <h2 className="text-2xl font-bold font-heading mb-4">{isNl ? `Beste Reistijd voor ${cityName}` : `Best Time to Visit ${cityName}`}</h2>
               <div className="space-y-4">
                 <div>
-                  <h3 className="font-semibold font-heading text-lg mb-2">For Perfect Weather:</h3>
-                  <p className="text-gray-700">November to February - Cool temperatures and minimal rainfall</p>
+                  <h3 className="font-semibold font-heading text-lg mb-2">{isNl ? 'Voor Perfect Weer:' : 'For Perfect Weather:'}</h3>
+                  <p className="text-gray-700">{isNl ? 'November tot februari - Koele temperaturen en minimale regenval' : 'November to February - Cool temperatures and minimal rainfall'}</p>
                 </div>
                 <div>
-                  <h3 className="font-semibold font-heading text-lg mb-2">For Fewer Crowds:</h3>
-                  <p className="text-gray-700">May to October - Rainy season brings fewer tourists</p>
+                  <h3 className="font-semibold font-heading text-lg mb-2">{isNl ? 'Voor Minder Drukte:' : 'For Fewer Crowds:'}</h3>
+                  <p className="text-gray-700">{isNl ? 'Mei tot oktober - Het regenseizoen trekt minder toeristen' : 'May to October - Rainy season brings fewer tourists'}</p>
                 </div>
                 <div>
-                  <h3 className="font-semibold font-heading text-lg mb-2">For Festivals:</h3>
-                  <p className="text-gray-700">April (Songkran) and November (Loy Krathong)</p>
+                  <h3 className="font-semibold font-heading text-lg mb-2">{isNl ? 'Voor Festivals:' : 'For Festivals:'}</h3>
+                  <p className="text-gray-700">{isNl ? 'April (Songkran) en november (Loy Krathong)' : 'April (Songkran) and November (Loy Krathong)'}</p>
                 </div>
               </div>
             </section>
@@ -164,7 +198,7 @@ const CityWeatherIndex: React.FC<CityWeatherIndexProps> = ({ city, monthlyWeathe
             <div className="lg:sticky lg:top-4 space-y-6">
             {/* City Weather Selector */}
             <div className="bg-white rounded-2xl shadow-md p-6">
-              <h3 className="text-lg font-semibold font-heading mb-4">Other Cities Weather</h3>
+              <h3 className="text-lg font-semibold font-heading mb-4">{isNl ? 'Weer in Andere Steden' : 'Other Cities Weather'}</h3>
               <select 
                 className="w-full p-2 border border-gray-300 rounded-lg text-gray-700 focus:outline-none focus:ring-2 focus:ring-thailand-red"
                 value={city.slug}
@@ -185,55 +219,55 @@ const CityWeatherIndex: React.FC<CityWeatherIndexProps> = ({ city, monthlyWeathe
 
             {/* Trip.com Widget */}
             <div className="bg-white rounded-2xl shadow-md p-6">
-              <h3 className="text-lg font-semibold font-heading mb-4">Book Your Trip</h3>
+              <h3 className="text-lg font-semibold font-heading mb-4">{isNl ? 'Boek Je Reis' : 'Book Your Trip'}</h3>
               <TripcomWidget city={city.name.en} type="searchbox" />
             </div>
 
             {/* Quick Weather Stats */}
             <div className="bg-white rounded-2xl shadow-md p-6">
-              <h3 className="text-lg font-semibold font-heading mb-4">Quick Weather Facts</h3>
+              <h3 className="text-lg font-semibold font-heading mb-4">{isNl ? 'Snelle Weerfeiten' : 'Quick Weather Facts'}</h3>
               <ul className="space-y-3 text-sm">
                 <li className="flex justify-between">
-                  <span className="text-gray-600">Hottest Month:</span>
-                  <span className="font-medium">April</span>
+                  <span className="text-gray-600">{isNl ? 'Warmste Maand:' : 'Hottest Month:'}</span>
+                  <span className="font-medium">{isNl ? 'April' : 'April'}</span>
                 </li>
                 <li className="flex justify-between">
-                  <span className="text-gray-600">Coolest Month:</span>
+                  <span className="text-gray-600">{isNl ? 'Koelste Maand:' : 'Coolest Month:'}</span>
                   <span className="font-medium">December</span>
                 </li>
                 <li className="flex justify-between">
-                  <span className="text-gray-600">Wettest Month:</span>
+                  <span className="text-gray-600">{isNl ? 'Natste Maand:' : 'Wettest Month:'}</span>
                   <span className="font-medium">September</span>
                 </li>
                 <li className="flex justify-between">
-                  <span className="text-gray-600">Driest Month:</span>
-                  <span className="font-medium">January</span>
+                  <span className="text-gray-600">{isNl ? 'Droogste Maand:' : 'Driest Month:'}</span>
+                  <span className="font-medium">{isNl ? 'Januari' : 'January'}</span>
                 </li>
               </ul>
             </div>
 
             {/* Related Links */}
             <div className="bg-white rounded-2xl shadow-md p-6">
-              <h3 className="text-lg font-semibold font-heading mb-4">Plan Your Visit</h3>
+              <h3 className="text-lg font-semibold font-heading mb-4">{isNl ? 'Plan Je Bezoek' : 'Plan Your Visit'}</h3>
               <ul className="space-y-2">
                 <li>
                   <Link href={`/city/${city.slug}`} className="text-thailand-red hover:text-thailand-blue">
-                    {city.name.en} City Guide
+                    {isNl ? `${cityName} Stadsgids` : `${cityName} City Guide`}
                   </Link>
                 </li>
                 <li>
                   <Link href={`/city/${city.slug}/attractions`} className="text-thailand-red hover:text-thailand-blue">
-                    Top Attractions
+                    {isNl ? 'Top Bezienswaardigheden' : 'Top Attractions'}
                   </Link>
                 </li>
                 <li>
                   <Link href={`/city/${city.slug}/hotels`} className="text-thailand-red hover:text-thailand-blue">
-                    Where to Stay
+                    {isNl ? 'Waar Verblijven' : 'Where to Stay'}
                   </Link>
                 </li>
                 <li>
                   <Link href={`/city/${city.slug}/food`} className="text-thailand-red hover:text-thailand-blue">
-                    Food & Dining
+                    {isNl ? 'Eten & Restaurants' : 'Food & Dining'}
                   </Link>
                 </li>
               </ul>
@@ -246,7 +280,7 @@ const CityWeatherIndex: React.FC<CityWeatherIndexProps> = ({ city, monthlyWeathe
         {/* Booking CTA */}
         <section className="mt-12 bg-white rounded-2xl shadow-md p-6">
           <h2 className="text-xl font-bold font-heading text-gray-900 mb-4 text-center">
-            Book Your {city.name.en} Trip
+            {isNl ? `Boek Je ${cityName} Reis` : `Book Your ${cityName} Trip`}
           </h2>
           <div className="flex flex-col sm:flex-row gap-4 justify-center">
             <a
@@ -255,7 +289,7 @@ const CityWeatherIndex: React.FC<CityWeatherIndexProps> = ({ city, monthlyWeathe
               rel="noopener noreferrer"
               className="inline-flex items-center justify-center bg-thailand-blue text-white py-3 px-6 rounded-xl font-semibold hover:bg-thailand-blue-600 transition-colors"
             >
-              Book Hotels
+              {isNl ? 'Boek Hotels' : 'Book Hotels'}
             </a>
             <a
               href="https://12go.tpo.lv/tNA80urD?subid=city-weather"
@@ -263,11 +297,11 @@ const CityWeatherIndex: React.FC<CityWeatherIndexProps> = ({ city, monthlyWeathe
               rel="noopener noreferrer"
               className="inline-flex items-center justify-center bg-thailand-blue text-white py-3 px-6 rounded-xl hover:bg-thailand-blue-600 font-semibold transition-colors"
             >
-              Book Transport
+              {isNl ? 'Boek Transport' : 'Book Transport'}
             </a>
           </div>
           <p className="text-xs text-gray-500 text-center mt-3">
-            Affiliate links. We may earn a small commission at no extra cost to you.
+            {isNl ? 'Affiliate links. We kunnen een kleine commissie verdienen zonder extra kosten voor jou.' : 'Affiliate links. We may earn a small commission at no extra cost to you.'}
           </p>
         </section>
       </main>
@@ -297,7 +331,7 @@ export const getStaticProps: GetStaticProps<CityWeatherIndexProps> = async ({ pa
   const cityData = cityWeather[slug];
   const monthlyData = cityData.monthly_weather || cityData;
 
-  const monthlyWeather = Object.entries(monthNames).map(([monthSlug, monthName]) => {
+  const monthlyWeather = Object.entries(monthNamesEN).map(([monthSlug, monthName]) => {
     const data = monthlyData[monthSlug];
     
     // Handle different data structures

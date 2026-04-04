@@ -1,6 +1,7 @@
 import { GetStaticProps } from 'next';
 import Link from 'next/link';
 import { useState } from 'react';
+import { useRouter } from 'next/router';
 import SEOHead from '../../components/SEOHead';
 import Breadcrumbs from '../../components/Breadcrumbs';
 import { getAllTemples, getTemplesPageMeta, Temple } from '../../lib/temples';
@@ -21,12 +22,12 @@ interface TemplesIndexProps {
   freeCount: number;
 }
 
-const filterLabels: Record<CityFilter, string> = {
-  all: 'All Temples',
-  bangkok: 'Bangkok',
-  'chiang-mai': 'Chiang Mai',
-  'chiang-rai': 'Chiang Rai',
-  other: 'Other Cities',
+const filterLabels: Record<CityFilter, { en: string; nl: string }> = {
+  all: { en: 'All Temples', nl: 'Alle Tempels' },
+  bangkok: { en: 'Bangkok', nl: 'Bangkok' },
+  'chiang-mai': { en: 'Chiang Mai', nl: 'Chiang Mai' },
+  'chiang-rai': { en: 'Chiang Rai', nl: 'Chiang Rai' },
+  other: { en: 'Other Cities', nl: 'Andere Steden' },
 };
 
 const MAIN_CITY_SLUGS: CityFilter[] = ['bangkok', 'chiang-mai', 'chiang-rai'];
@@ -46,11 +47,14 @@ export default function TemplesIndexPage({
   uniqueCitiesCount,
   freeCount,
 }: TemplesIndexProps) {
+  const { locale } = useRouter();
+  const isNl = locale === 'nl';
+  const lang = isNl ? 'nl' : 'en';
   const [activeFilter, setActiveFilter] = useState<CityFilter>('all');
 
   const breadcrumbItems = [
     { name: 'Home', href: '/' },
-    { name: 'Temples', href: '/temples/' },
+    { name: isNl ? 'Tempels' : 'Temples', href: '/temples/' },
   ];
 
   const filteredTemples = temples.filter((t) => {
@@ -110,26 +114,26 @@ export default function TemplesIndexPage({
           <div className="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8 py-16 md:py-24">
             <div className="text-center">
               <p className="font-script text-thailand-gold text-lg mb-2">
-                Sacred Sites of Thailand
+                {isNl ? 'Heilige Plaatsen van Thailand' : 'Sacred Sites of Thailand'}
               </p>
               <h1 className="text-4xl lg:text-6xl font-bold font-heading mb-6">
-                Thailand Temples
+                {isNl ? 'Thailand Tempels' : 'Thailand Temples'}
               </h1>
               <p className="text-xl lg:text-2xl mb-8 max-w-3xl mx-auto opacity-90">
                 Your complete hub to Thailand&#39;s most impressive temples — ancient ruins, gilded chedis, and contemporary masterpieces
               </p>
               <div className="flex flex-wrap justify-center gap-4 text-sm font-medium">
                 <span className="bg-white/20 px-4 py-2 rounded-full">
-                  {temples.length} temples
+                  {temples.length} {isNl ? 'tempels' : 'temples'}
                 </span>
                 <span className="bg-white/20 px-4 py-2 rounded-full">
-                  {uniqueCitiesCount} cities
+                  {uniqueCitiesCount} {isNl ? 'steden' : 'cities'}
                 </span>
                 <span className="bg-white/20 px-4 py-2 rounded-full">
-                  {freeCount} free entry
+                  {freeCount} {isNl ? 'gratis toegang' : 'free entry'}
                 </span>
                 <span className="bg-white/20 px-4 py-2 rounded-full">
-                  Updated Mar 2026
+                  {isNl ? 'Bijgewerkt mrt 2026' : 'Updated Mar 2026'}
                 </span>
               </div>
             </div>
@@ -165,7 +169,7 @@ export default function TemplesIndexPage({
                       : 'bg-surface-cream text-gray-700 hover:bg-gray-200'
                   }`}
                 >
-                  {filterLabels[key]}
+                  {filterLabels[key][lang]}
                 </button>
               ))}
             </div>
@@ -177,7 +181,7 @@ export default function TemplesIndexPage({
           <div className="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8">
             {filteredTemples.length === 0 ? (
               <div className="text-center py-16 text-gray-500">
-                <p className="text-xl">No temples found for this filter.</p>
+                <p className="text-xl">{isNl ? 'Geen tempels gevonden voor dit filter.' : 'No temples found for this filter.'}</p>
               </div>
             ) : (
               <div className="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-3 gap-6">
@@ -197,7 +201,7 @@ export default function TemplesIndexPage({
                           {/* Entry fee badge */}
                           {isFree(temple) ? (
                             <span className="px-2 py-0.5 bg-green-100 text-green-800 rounded-full text-xs font-semibold">
-                              Free
+                              {isNl ? 'Gratis' : 'Free'}
                             </span>
                           ) : (
                             <span className="px-2 py-0.5 bg-amber-100 text-amber-800 rounded-full text-xs font-semibold">
@@ -261,7 +265,7 @@ export default function TemplesIndexPage({
                           href={`/temples/${temple.slug}/`}
                           className="text-thailand-blue text-sm font-medium hover:underline"
                         >
-                          Full guide &#8594;
+                          {isNl ? 'Volledige gids' : 'Full guide'} &#8594;
                         </Link>
                         <a
                           href={`https://www.google.com/maps/search/?api=1&query=${encodeURIComponent(
@@ -305,9 +309,9 @@ export default function TemplesIndexPage({
         {/* Tips Section */}
         <section className="py-12 bg-white">
           <div className="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8">
-            <p className="section-label text-center">Good to Know</p>
+            <p className="section-label text-center">{isNl ? 'Goed om te Weten' : 'Good to Know'}</p>
             <h2 className="section-title text-center mb-8">
-              Temple Etiquette &amp; Practical Tips
+              {isNl ? 'Tempel Etiquette & Praktische Tips' : 'Temple Etiquette & Practical Tips'}
             </h2>
             <div className="grid md:grid-cols-2 gap-4 max-w-4xl mx-auto">
               {meta.tips.map((tip, i) => (
@@ -330,14 +334,13 @@ export default function TemplesIndexPage({
           <div className="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8">
             <div className="text-center mb-8">
               <p className="font-script text-thailand-gold text-lg mb-2">
-                Start Planning
+                {isNl ? 'Begin met Plannen' : 'Start Planning'}
               </p>
               <h2 className="text-3xl font-bold font-heading mb-3">
-                Book Temple Tours &amp; Activities
+                {isNl ? 'Boek Tempelrondleidingen & Activiteiten' : 'Book Temple Tours & Activities'}
               </h2>
               <p className="text-lg opacity-90 max-w-2xl mx-auto">
-                Skip the queues with guided temple tours, private day trips, and
-                cultural experiences across Thailand
+                {isNl ? 'Sla de wachtrijen over met begeleide tempelrondleidingen, privédagtrips en culturele ervaringen door heel Thailand' : 'Skip the queues with guided temple tours, private day trips, and cultural experiences across Thailand'}
               </p>
             </div>
             <div className="grid sm:grid-cols-2 gap-4 max-w-2xl mx-auto">
@@ -385,7 +388,7 @@ export default function TemplesIndexPage({
               </a>
             </div>
             <p className="text-white/60 text-xs text-center mt-6">
-              Some links are affiliate links. We may earn a commission at no extra cost to you.
+              {isNl ? 'Sommige links zijn affiliate links. We kunnen een commissie verdienen zonder extra kosten voor jou.' : 'Some links are affiliate links. We may earn a commission at no extra cost to you.'}
             </p>
           </div>
         </section>
@@ -393,9 +396,9 @@ export default function TemplesIndexPage({
         {/* Cross-links */}
         <section className="py-12 bg-white">
           <div className="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8">
-            <p className="section-label text-center">Explore More</p>
+            <p className="section-label text-center">{isNl ? 'Ontdek Meer' : 'Explore More'}</p>
             <h2 className="section-title text-center mb-10">
-              Related Guides &amp; Destinations
+              {isNl ? 'Gerelateerde Gidsen & Bestemmingen' : 'Related Guides & Destinations'}
             </h2>
             <div className="grid grid-cols-1 sm:grid-cols-2 lg:grid-cols-3 gap-6 max-w-5xl mx-auto">
 

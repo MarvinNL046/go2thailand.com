@@ -1,6 +1,7 @@
 import { GetStaticProps, GetStaticPaths } from 'next';
 import Image from 'next/image';
 import Link from 'next/link';
+import { useRouter } from 'next/router';
 import { getCityBySlug, getAttractionBySlug, generateAttractionMetadata, generateAttractionBreadcrumbs, getAllAttractionStaticPaths, toAbsoluteImageUrl } from '../../../../lib/cities';
 import Breadcrumbs from '../../../../components/Breadcrumbs';
 import TripcomWidget from '../../../../components/TripcomWidget';
@@ -80,10 +81,17 @@ interface AttractionDetailPageProps {
 }
 
 export default function AttractionDetailPage({ city, attraction }: AttractionDetailPageProps) {
+  const { locale } = useRouter();
+  const isNl = locale === 'nl';
+  const lang = isNl ? 'nl' : 'en';
+
   if (!city || !attraction) {
-    return <div>Attraction not found</div>;
+    return <div>{isNl ? 'Bezienswaardigheid niet gevonden' : 'Attraction not found'}</div>;
   }
 
+  const cityName = city.name[lang] || city.name.en;
+  const attractionName = attraction.name[lang] || attraction.name.en;
+  const attractionDesc = attraction.description[lang] || attraction.description.en;
   const breadcrumbs = generateAttractionBreadcrumbs(city, attraction);
   const metadata = generateAttractionMetadata(attraction, city);
 
@@ -177,15 +185,15 @@ export default function AttractionDetailPage({ city, attraction }: AttractionDet
                       <path strokeLinecap="round" strokeLinejoin="round" strokeWidth="2" d="M17.657 16.657L13.414 20.9a1.998 1.998 0 01-2.827 0l-4.244-4.243a8 8 0 1111.314 0z" />
                       <path strokeLinecap="round" strokeLinejoin="round" strokeWidth="2" d="M15 11a3 3 0 11-6 0 3 3 0 016 0z" />
                     </svg>
-                    {city.name.en}, Thailand
+                    {cityName}, Thailand
                   </span>
                 </div>
                 <h1 className="text-4xl lg:text-6xl font-bold font-heading mb-4">
-                  {attraction.name.en}
+                  {attractionName}
                 </h1>
                 <p className="text-xl lg:text-2xl text-gray-200 max-w-3xl">
-                  {attraction.enhanced_description?.substring(0, 200) || attraction.description.en}
-                  {(attraction.enhanced_description?.length > 200 || attraction.description.en.length > 200) && '...'}
+                  {attraction.enhanced_description?.substring(0, 200) || attractionDesc}
+                  {(attraction.enhanced_description?.length > 200 || attractionDesc.length > 200) && '...'}
                 </p>
                 
                 {/* Quick Info Bar */}
@@ -261,7 +269,7 @@ export default function AttractionDetailPage({ city, attraction }: AttractionDet
                 {attraction.enhanced_description && (
                   <div className="bg-white rounded-2xl shadow-md p-8">
                     <h2 className="text-3xl font-bold font-heading text-thailand-blue-900 mb-6">
-                      About {attraction.name.en}
+                      {isNl ? `Over ${attractionName}` : `About ${attraction.name.en}`}
                     </h2>
                     <p className="text-gray-700 text-lg leading-relaxed">
                       {attraction.enhanced_description}
@@ -276,7 +284,7 @@ export default function AttractionDetailPage({ city, attraction }: AttractionDet
                       <svg className="w-6 h-6 mr-3 text-thailand-gold" fill="currentColor" viewBox="0 0 20 20">
                         <path fillRule="evenodd" d="M10 18a8 8 0 100-16 8 8 0 000 16zm3.707-9.293a1 1 0 00-1.414-1.414L9 10.586 7.707 9.293a1 1 0 00-1.414 1.414l2 2a1 1 0 001.414 0l4-4z" clipRule="evenodd" />
                       </svg>
-                      Key Highlights
+                      {isNl ? 'Belangrijkste Hoogtepunten' : 'Key Highlights'}
                     </h3>
                     <div className="grid grid-cols-1 md:grid-cols-2 gap-4">
                       {attraction.highlights.map((highlight, index) => (
@@ -300,19 +308,19 @@ export default function AttractionDetailPage({ city, attraction }: AttractionDet
                       <svg className="w-6 h-6 mr-3 text-thailand-gold" fill="none" stroke="currentColor" viewBox="0 0 24 24">
                         <path strokeLinecap="round" strokeLinejoin="round" strokeWidth="2" d="M12 6.253v13m0-13C10.832 5.477 9.246 5 7.5 5S4.168 5.477 3 6.253v13C4.168 18.477 5.754 18 7.5 18s3.332.477 4.5 1.253m0-13C13.168 5.477 14.754 5 16.5 5c1.746 0 3.332.477 4.5 1.253v13C19.832 18.477 18.246 18 16.5 18c-1.746 0-3.332.477-4.5 1.253" />
                       </svg>
-                      History & Cultural Significance
+                      {isNl ? 'Geschiedenis & Culturele Betekenis' : 'History & Cultural Significance'}
                     </h3>
-                    
+
                     {attraction.detailed_history && (
                       <div className="mb-6">
-                        <h4 className="text-xl font-semibold text-thailand-blue-800 mb-3">Historical Background</h4>
+                        <h4 className="text-xl font-semibold text-thailand-blue-800 mb-3">{isNl ? 'Historische Achtergrond' : 'Historical Background'}</h4>
                         <p className="text-gray-700 leading-relaxed">{attraction.detailed_history}</p>
                       </div>
                     )}
                     
                     {attraction.cultural_significance && (
                       <div>
-                        <h4 className="text-xl font-semibold text-thailand-blue-800 mb-3">Cultural Importance</h4>
+                        <h4 className="text-xl font-semibold text-thailand-blue-800 mb-3">{isNl ? 'Cultureel Belang' : 'Cultural Importance'}</h4>
                         <p className="text-gray-700 leading-relaxed">{attraction.cultural_significance}</p>
                       </div>
                     )}
@@ -326,7 +334,7 @@ export default function AttractionDetailPage({ city, attraction }: AttractionDet
                       <svg className="w-6 h-6 mr-3 text-thailand-gold" fill="none" stroke="currentColor" viewBox="0 0 24 24">
                         <path strokeLinecap="round" strokeLinejoin="round" strokeWidth="2" d="M16 7a4 4 0 11-8 0 4 4 0 018 0zM12 14a7 7 0 00-7 7h14a7 7 0 00-7-7z" />
                       </svg>
-                      What to Expect
+                      {isNl ? 'Wat te Verwachten' : 'What to Expect'}
                     </h3>
                     <p className="text-gray-700 leading-relaxed">{attraction.visitor_experience}</p>
                   </div>
@@ -337,7 +345,7 @@ export default function AttractionDetailPage({ city, attraction }: AttractionDet
                     {attraction.hidden_gem_reason && (
                       <div className="xl:col-span-2 bg-white rounded-2xl shadow-md p-8">
                         <h3 className="text-2xl font-bold font-heading text-thailand-blue-900 mb-4">
-                          Why It Is a Hidden Gem in {city.name.en}
+                          {isNl ? `Waarom het een Verborgen Parel is in ${cityName}` : `Why It Is a Hidden Gem in ${city.name.en}`}
                         </h3>
                         <p className="text-gray-700 leading-relaxed">{attraction.hidden_gem_reason}</p>
                       </div>
@@ -346,7 +354,7 @@ export default function AttractionDetailPage({ city, attraction }: AttractionDet
                     {attraction.verified_note && (
                       <div className="bg-surface-cream rounded-2xl p-8">
                         <h3 className="text-xl font-bold font-heading text-thailand-blue-900 mb-4">
-                          Verified Planning Note
+                          {isNl ? 'Geverifieerde Planningsnotitie' : 'Verified Planning Note'}
                         </h3>
                         <p className="text-thailand-blue-800 leading-relaxed text-sm">
                           {attraction.verified_note}
@@ -362,7 +370,7 @@ export default function AttractionDetailPage({ city, attraction }: AttractionDet
                       {attraction.who_should_visit && attraction.who_should_visit.length > 0 && (
                         <div>
                           <h3 className="text-2xl font-bold font-heading text-thailand-blue-900 mb-5">
-                            Who Should Visit
+                            {isNl ? 'Wie Moet Bezoeken' : 'Who Should Visit'}
                           </h3>
                           <div className="space-y-3">
                             {attraction.who_should_visit.map((item, index) => (
@@ -382,7 +390,7 @@ export default function AttractionDetailPage({ city, attraction }: AttractionDet
                       {attraction.who_can_skip && attraction.who_can_skip.length > 0 && (
                         <div>
                           <h3 className="text-2xl font-bold font-heading text-thailand-blue-900 mb-5">
-                            You Can Skip It If
+                            {isNl ? 'Je Kunt Het Overslaan Als' : 'You Can Skip It If'}
                           </h3>
                           <div className="space-y-3">
                             {attraction.who_can_skip.map((item, index) => (
@@ -412,7 +420,7 @@ export default function AttractionDetailPage({ city, attraction }: AttractionDet
                         <path strokeLinecap="round" strokeLinejoin="round" strokeWidth="2" d="M3 9a2 2 0 012-2h.93a2 2 0 001.664-.89l.812-1.22A2 2 0 0110.07 4h3.86a2 2 0 011.664.89l.812 1.22A2 2 0 0018.07 7H19a2 2 0 012 2v9a2 2 0 01-2 2H5a2 2 0 01-2-2V9z" />
                         <path strokeLinecap="round" strokeLinejoin="round" strokeWidth="2" d="M15 13a3 3 0 11-6 0 3 3 0 016 0z" />
                       </svg>
-                      Photography Tips
+                      {isNl ? 'Fotografietips' : 'Photography Tips'}
                     </h3>
                     <div className="space-y-3">
                       {attraction.photography_tips.map((tip, index) => (
@@ -436,7 +444,7 @@ export default function AttractionDetailPage({ city, attraction }: AttractionDet
                       <svg className="w-6 h-6 mr-3 text-thailand-gold" fill="currentColor" viewBox="0 0 20 20">
                         <path fillRule="evenodd" d="M18 10a8 8 0 11-16 0 8 8 0 0116 0zm-7-4a1 1 0 11-2 0 1 1 0 012 0zM9 9a1 1 0 000 2v3a1 1 0 001 1h1a1 1 0 100-2v-3a1 1 0 00-1-1H9z" clipRule="evenodd" />
                       </svg>
-                      Insider Tips
+                      {isNl ? 'Insider Tips' : 'Insider Tips'}
                     </h3>
                     <div className="space-y-3">
                       {attraction.insider_tips.map((tip, index) => (
@@ -464,7 +472,7 @@ export default function AttractionDetailPage({ city, attraction }: AttractionDet
                       <svg className="w-6 h-6 mr-3 text-thailand-gold" fill="currentColor" viewBox="0 0 20 20">
                         <path fillRule="evenodd" d="M11.3 1.046A1 1 0 0112 2v5h4a1 1 0 01.82 1.573l-7 10A1 1 0 018 18v-5H4a1 1 0 01-.82-1.573l7-10a1 1 0 011.12-.38z" clipRule="evenodd" />
                       </svg>
-                      Fun Facts
+                      {isNl ? 'Leuke Weetjes' : 'Fun Facts'}
                     </h3>
                     <div className="grid grid-cols-1 md:grid-cols-2 gap-4">
                       {attraction.fun_facts.map((fact, index) => (
@@ -483,10 +491,12 @@ export default function AttractionDetailPage({ city, attraction }: AttractionDet
                 {showAffiliates && (
                   <div className="bg-surface-cream rounded-2xl p-8">
                     <h3 className="text-2xl font-bold font-heading text-thailand-blue-900 mb-4 text-center">
-                      Save on Hotels & Flights
+                      {isNl ? 'Bespaar op Hotels & Vluchten' : 'Save on Hotels & Flights'}
                     </h3>
                     <p className="text-gray-700 text-center mb-6">
-                      Bundle your {city.name.en} hotel and flight for the best deals
+                      {isNl
+                        ? `Bundel je ${cityName} hotel en vlucht voor de beste deals`
+                        : `Bundle your ${city.name.en} hotel and flight for the best deals`}
                     </p>
                     <TripcomWidget city={city.name.en} type="bundle" />
                   </div>
@@ -496,10 +506,12 @@ export default function AttractionDetailPage({ city, attraction }: AttractionDet
                 {showAffiliates && (
                   <div className="bg-surface-cream rounded-2xl p-8">
                     <h3 className="text-2xl font-bold font-heading text-gray-900 mb-4 text-center">
-                      Book This Experience
+                      {isNl ? 'Boek Deze Ervaring' : 'Book This Experience'}
                     </h3>
                     <p className="text-gray-600 text-center mb-6">
-                      Find tours, tickets, and activities for {attraction.name.en} and other attractions in {city.name.en}.
+                      {isNl
+                        ? `Vind tours, tickets en activiteiten voor ${attractionName} en andere bezienswaardigheden in ${cityName}.`
+                        : `Find tours, tickets, and activities for ${attraction.name.en} and other attractions in ${city.name.en}.`}
                     </p>
                     <div className="flex flex-col sm:flex-row gap-4">
                       <a
@@ -511,7 +523,7 @@ export default function AttractionDetailPage({ city, attraction }: AttractionDet
                         <svg className="w-5 h-5 mr-2" fill="none" stroke="currentColor" viewBox="0 0 24 24">
                           <path strokeLinecap="round" strokeLinejoin="round" strokeWidth="2" d="M15 5v2m0 4v2m0 4v2M5 5a2 2 0 00-2 2v3a2 2 0 110 4v3a2 2 0 002 2h14a2 2 0 002-2v-3a2 2 0 110-4V7a2 2 0 00-2-2H5z" />
                         </svg>
-                        Book on Klook
+                        {isNl ? 'Boek op Klook' : 'Book on Klook'}
                       </a>
                       <a
                         href="https://getyourguide.tpo.lv/GuAFfGGK?subid=city-attraction"
@@ -522,11 +534,13 @@ export default function AttractionDetailPage({ city, attraction }: AttractionDet
                         <svg className="w-5 h-5 mr-2" fill="none" stroke="currentColor" viewBox="0 0 24 24">
                           <path strokeLinecap="round" strokeLinejoin="round" strokeWidth="2" d="M3.055 11H5a2 2 0 012 2v1a2 2 0 002 2 2 2 0 012 2v2.945M8 3.935V5.5A2.5 2.5 0 0010.5 8h.5a2 2 0 012 2 2 2 0 104 0 2 2 0 012-2h1.064M15 20.488V18a2 2 0 012-2h3.064M21 12a9 9 0 11-18 0 9 9 0 0118 0z" />
                         </svg>
-                        Book on GetYourGuide
+                        {isNl ? 'Boek op GetYourGuide' : 'Book on GetYourGuide'}
                       </a>
                     </div>
                     <p className="text-xs text-gray-500 text-center mt-4">
-                      Affiliate disclosure: We may earn a commission when you book through our partner links, at no extra cost to you.
+                      {isNl
+                        ? 'Affiliate melding: We kunnen een commissie verdienen wanneer je boekt via onze partnerlinks, zonder extra kosten voor jou.'
+                        : 'Affiliate disclosure: We may earn a commission when you book through our partner links, at no extra cost to you.'}
                     </p>
                   </div>
                 )}
@@ -541,7 +555,7 @@ export default function AttractionDetailPage({ city, attraction }: AttractionDet
                       <svg className="w-5 h-5 mr-2" fill="none" stroke="currentColor" viewBox="0 0 24 24">
                         <path strokeLinecap="round" strokeLinejoin="round" strokeWidth="2" d="M10 19l-7-7m0 0l7-7m-7 7h18" />
                       </svg>
-                      Back to Attractions
+                      {isNl ? 'Terug naar Bezienswaardigheden' : 'Back to Attractions'}
                     </Link>
 
                     <Link
@@ -551,7 +565,7 @@ export default function AttractionDetailPage({ city, attraction }: AttractionDet
                       <svg className="w-5 h-5 mr-2" fill="none" stroke="currentColor" viewBox="0 0 24 24">
                         <path strokeLinecap="round" strokeLinejoin="round" strokeWidth="2" d="M3 12l2-2m0 0l7-7 7 7M5 10v10a1 1 0 001 1h3m10-11l2 2m-2-2v10a1 1 0 01-1 1h-3m-6 0a1 1 0 001-1v-4a1 1 0 011-1h2a1 1 0 011 1v4a1 1 0 001 1m-6 0h6" />
                       </svg>
-                      {city.name.en} Overview
+                      {isNl ? `${cityName} Overzicht` : `${city.name.en} Overview`}
                     </Link>
                   </div>
                 </div>
@@ -561,40 +575,40 @@ export default function AttractionDetailPage({ city, attraction }: AttractionDet
               <div className="lg:col-span-1">
                 {/* Quick Facts */}
                 <div className="bg-white rounded-2xl shadow-md p-6 mb-8">
-                  <h3 className="text-lg font-bold font-heading text-thailand-blue-900 mb-4">Quick Facts</h3>
+                  <h3 className="text-lg font-bold font-heading text-thailand-blue-900 mb-4">{isNl ? 'Snelle Feiten' : 'Quick Facts'}</h3>
                   <div className="space-y-4">
                     <div>
-                      <div className="text-sm text-gray-600 mb-1">Address:</div>
+                      <div className="text-sm text-gray-600 mb-1">{isNl ? 'Adres:' : 'Address:'}</div>
                       <div className="text-sm font-medium">{attraction.address}</div>
                     </div>
-                    
+
                     {attraction.opening_hours && (
                       <div>
-                        <div className="text-sm text-gray-600 mb-1">Hours:</div>
+                        <div className="text-sm text-gray-600 mb-1">{isNl ? 'Openingstijden:' : 'Hours:'}</div>
                         <div className="text-sm font-medium">{attraction.opening_hours}</div>
                       </div>
                     )}
-                    
+
                     <div>
-                      <div className="text-sm text-gray-600 mb-1">Entrance Fee:</div>
+                      <div className="text-sm text-gray-600 mb-1">{isNl ? 'Toegangsprijs:' : 'Entrance Fee:'}</div>
                       <div className="text-sm font-medium">
                         {attraction.entrance_fee.thb === 0
-                          ? 'Free'
+                          ? (isNl ? 'Gratis' : 'Free')
                           : attraction.entrance_fee.thb == null
-                            ? 'Check current pricing'
+                            ? (isNl ? 'Controleer actuele prijzen' : 'Check current pricing')
                             : `฿${attraction.entrance_fee.thb} / $${attraction.entrance_fee.usd}`}
                       </div>
                     </div>
-                    
+
                     {attraction.best_time_to_visit && (
                       <>
                         <div>
-                          <div className="text-sm text-gray-600 mb-1">Best Time:</div>
+                          <div className="text-sm text-gray-600 mb-1">{isNl ? 'Beste Tijd:' : 'Best Time:'}</div>
                           <div className="text-sm font-medium">{attraction.best_time_to_visit.time_of_day}</div>
                         </div>
-                        
+
                         <div>
-                          <div className="text-sm text-gray-600 mb-1">Duration:</div>
+                          <div className="text-sm text-gray-600 mb-1">{isNl ? 'Duur:' : 'Duration:'}</div>
                           <div className="text-sm font-medium">{attraction.best_time_to_visit.duration}</div>
                         </div>
                       </>
@@ -611,7 +625,7 @@ export default function AttractionDetailPage({ city, attraction }: AttractionDet
                           <svg className="w-4 h-4 mr-2" fill="none" stroke="currentColor" viewBox="0 0 24 24">
                             <path strokeLinecap="round" strokeLinejoin="round" strokeWidth="2" d="M10 6H6a2 2 0 00-2 2v10a2 2 0 002 2h10a2 2 0 002-2v-4M14 4h6m0 0v6m0-6L10 14" />
                           </svg>
-                          Official Website
+                          {isNl ? 'Officiële Website' : 'Official Website'}
                         </a>
                       </div>
                     )}
@@ -621,7 +635,7 @@ export default function AttractionDetailPage({ city, attraction }: AttractionDet
                 {/* Map */}
                 {attraction.location?.lat && attraction.location?.lng && (
                   <div className="bg-white rounded-2xl shadow-md p-6 mb-8">
-                    <h3 className="text-lg font-bold font-heading text-thailand-blue-900 mb-4">Location</h3>
+                    <h3 className="text-lg font-bold font-heading text-thailand-blue-900 mb-4">{isNl ? 'Locatie' : 'Location'}</h3>
                     <a
                       href={attraction.googleMapsUrl || `https://www.google.com/maps/search/?api=1&query=${attraction.location.lat},${attraction.location.lng}`}
                       target="_blank"
@@ -630,7 +644,7 @@ export default function AttractionDetailPage({ city, attraction }: AttractionDet
                     >
                       <img
                         src={`https://maps.googleapis.com/maps/api/staticmap?center=${attraction.location.lat},${attraction.location.lng}&zoom=15&size=400x200&markers=color:red%7C${attraction.location.lat},${attraction.location.lng}&key=`}
-                        alt={`Map of ${attraction.name.en}`}
+                        alt={isNl ? `Kaart van ${attractionName}` : `Map of ${attraction.name.en}`}
                         className="w-full h-full object-cover"
                         loading="lazy"
                         onError={(e) => { (e.target as HTMLImageElement).style.display = 'none'; }}
@@ -639,7 +653,7 @@ export default function AttractionDetailPage({ city, attraction }: AttractionDet
                         <svg className="w-4 h-4 mr-1" viewBox="0 0 24 24" fill="currentColor">
                           <path d="M12 2C8.13 2 5 5.13 5 9c0 5.25 7 13 7 13s7-7.75 7-13c0-3.87-3.13-7-7-7zm0 9.5c-1.38 0-2.5-1.12-2.5-2.5s1.12-2.5 2.5-2.5 2.5 1.12 2.5 2.5-1.12 2.5-2.5 2.5z"/>
                         </svg>
-                        View on Google Maps
+                        {isNl ? 'Bekijk op Google Maps' : 'View on Google Maps'}
                       </div>
                     </a>
                   </div>
@@ -652,10 +666,12 @@ export default function AttractionDetailPage({ city, attraction }: AttractionDet
                       <svg className="w-5 h-5 mr-2 text-thailand-gold" fill="currentColor" viewBox="0 0 20 20">
                         <path fillRule="evenodd" d="M8 4a4 4 0 100 8 4 4 0 000-8zM2 8a6 6 0 1110.89 3.476l4.817 4.817a1 1 0 01-1.414 1.414l-4.816-4.816A6 6 0 012 8z" clipRule="evenodd" />
                       </svg>
-                      Plan Your Visit
+                      {isNl ? 'Plan Je Bezoek' : 'Plan Your Visit'}
                     </h3>
                     <p className="text-sm text-gray-600 mb-4">
-                      Search for hotels, flights, and activities in {city.name.en}
+                      {isNl
+                        ? `Zoek hotels, vluchten en activiteiten in ${cityName}`
+                        : `Search for hotels, flights, and activities in ${city.name.en}`}
                     </p>
                     <TripcomWidget city={city.name.en} type="searchbox" />
                   </div>

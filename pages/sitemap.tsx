@@ -1,5 +1,6 @@
 import Head from 'next/head';
 import Link from 'next/link';
+import { useRouter } from 'next/router';
 import Breadcrumbs from '../components/Breadcrumbs';
 
 interface SitemapLink {
@@ -12,9 +13,9 @@ interface SitemapSection {
   links: SitemapLink[];
 }
 
-const sections: SitemapSection[] = [
+const sections: (SitemapSection & { titleNl: string })[] = [
   {
-    title: 'Main Pages',
+    title: 'Main Pages', titleNl: 'Hoofdpagina\'s',
     links: [
       { label: 'Home', href: '/' },
       { label: 'About Us', href: '/about' },
@@ -29,7 +30,7 @@ const sections: SitemapSection[] = [
     ],
   },
   {
-    title: 'Destinations',
+    title: 'Destinations', titleNl: 'Bestemmingen',
     links: [
       { label: 'All Cities', href: '/city/' },
       { label: 'Thai Islands', href: '/islands/' },
@@ -40,7 +41,7 @@ const sections: SitemapSection[] = [
     ],
   },
   {
-    title: 'Food & Drink',
+    title: 'Food & Drink', titleNl: 'Eten & Drinken',
     links: [
       { label: 'Thai Food Guide', href: '/food/' },
       { label: 'Thai Drinks', href: '/drinks/' },
@@ -48,7 +49,7 @@ const sections: SitemapSection[] = [
     ],
   },
   {
-    title: 'Travel Planning',
+    title: 'Travel Planning', titleNl: 'Reisplanning',
     links: [
       { label: 'Transport Routes', href: '/transport/' },
       { label: 'Weather Guide', href: '/weather/' },
@@ -60,7 +61,7 @@ const sections: SitemapSection[] = [
     ],
   },
   {
-    title: 'Guides',
+    title: 'Guides', titleNl: 'Gidsen',
     links: [
       { label: 'Restaurant Guides', href: '/top-10/restaurants/' },
       { label: 'Hotel Guides', href: '/top-10/hotels/' },
@@ -68,13 +69,13 @@ const sections: SitemapSection[] = [
     ],
   },
   {
-    title: 'Blog',
+    title: 'Blog', titleNl: 'Blog',
     links: [
       { label: 'Travel Blog', href: '/blog/' },
     ],
   },
   {
-    title: 'Legal',
+    title: 'Legal', titleNl: 'Juridisch',
     links: [
       { label: 'Privacy Policy', href: '/privacy' },
       { label: 'Terms of Service', href: '/terms' },
@@ -86,6 +87,9 @@ const sections: SitemapSection[] = [
 ];
 
 export default function SitemapPage() {
+  const { locale } = useRouter();
+  const isNl = locale === 'nl';
+
   const breadcrumbs = [
     { name: 'Home', href: '/' },
     { name: 'Sitemap', href: '/sitemap' },
@@ -97,7 +101,7 @@ export default function SitemapPage() {
         <title>Sitemap - Go2Thailand.com</title>
         <meta
           name="description"
-          content="Full sitemap of Go2Thailand.com — browse all pages including destination guides, food, travel planning, blog posts, and legal information."
+          content={isNl ? "Volledige sitemap van Go2Thailand.com — bekijk alle pagina's inclusief bestemmingsgidsen, eten, reisplanning, blogberichten en juridische informatie." : "Full sitemap of Go2Thailand.com — browse all pages including destination guides, food, travel planning, blog posts, and legal information."}
         />
         <meta name="robots" content="noindex, follow" />
       </Head>
@@ -111,8 +115,9 @@ export default function SitemapPage() {
             <div className="mb-10">
               <h1 className="text-4xl font-bold font-heading text-gray-900 mb-3">Sitemap</h1>
               <p className="text-gray-600 text-lg">
-                A complete overview of all pages on Go2Thailand.com. Use this page to find destination guides,
-                travel planning resources, food guides, and more.
+                {isNl
+                  ? "Een compleet overzicht van alle pagina's op Go2Thailand.com. Gebruik deze pagina om bestemmingsgidsen, reisplanningsbronnen, eetgidsen en meer te vinden."
+                  : 'A complete overview of all pages on Go2Thailand.com. Use this page to find destination guides, travel planning resources, food guides, and more.'}
               </p>
             </div>
 
@@ -124,7 +129,7 @@ export default function SitemapPage() {
                   className="bg-white rounded-2xl shadow-md p-6"
                 >
                   <h2 className="text-lg font-bold font-heading text-gray-900 mb-4 border-b border-gray-100 pb-3">
-                    {section.title}
+                    {isNl ? section.titleNl : section.title}
                   </h2>
                   <ul className="space-y-2">
                     {section.links.map((link) => (

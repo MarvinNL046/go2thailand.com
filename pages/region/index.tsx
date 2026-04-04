@@ -2,6 +2,7 @@ import { GetStaticProps } from 'next';
 import SEOHead from '../../components/SEOHead';
 import Link from 'next/link';
 import { useState } from 'react';
+import { useRouter } from 'next/router';
 import Breadcrumbs from '../../components/Breadcrumbs';
 
 interface Region {
@@ -25,16 +26,20 @@ interface RegionsPageProps {
 }
 
 export default function RegionsPage({ regions }: RegionsPageProps) {
+  const { locale } = useRouter();
+  const isNl = locale === 'nl';
+  const lang = isNl ? 'nl' : 'en';
+
   const breadcrumbs = [
     { name: 'Home', href: '/' },
-    { name: 'Regions', href: '/region/' }
+    { name: isNl ? "Regio's" : 'Regions', href: '/region/' }
   ];
 
   return (
     <>
       <SEOHead
-        title={`Thailand Regions - Complete Travel Guide | Go2Thailand`}
-        description="Explore Thailand's three main regions: Northern, Central, and Southern Thailand. Discover unique attractions, climate, culture, and travel tips for each region."
+        title={isNl ? "Thailand Regio's - Complete Reisgids | Go2Thailand" : "Thailand Regions - Complete Travel Guide | Go2Thailand"}
+        description={isNl ? "Ontdek de drie belangrijkste regio's van Thailand: Noord-, Centraal- en Zuid-Thailand. Ontdek unieke attracties, klimaat, cultuur en reistips voor elke regio." : "Explore Thailand's three main regions: Northern, Central, and Southern Thailand. Discover unique attractions, climate, culture, and travel tips for each region."}
       >
         <meta name="keywords" content="Thailand regions, Northern Thailand, Central Thailand, Southern Thailand, Thailand travel guide, Thai regions" />
       </SEOHead>
@@ -44,15 +49,15 @@ export default function RegionsPage({ regions }: RegionsPageProps) {
         <section className="bg-white shadow-sm">
           <div className="container-custom py-8">
             <Breadcrumbs items={breadcrumbs} />
-            
+
             <div className="text-center mb-8">
               <h1 className="text-4xl lg:text-5xl font-bold text-gray-900 mb-4">
-                Thailand Regions
+                {isNl ? "Thailand Regio's" : 'Thailand Regions'}
               </h1>
               <p className="text-xl text-gray-600 max-w-3xl mx-auto">
-                Discover Thailand's diverse regions, each offering unique experiences, 
-                landscapes, and cultural treasures. From the mountains of the North to 
-                the beaches of the South.
+                {isNl
+                  ? "Ontdek de diverse regio's van Thailand, elk met unieke ervaringen, landschappen en culturele schatten. Van de bergen in het Noorden tot de stranden in het Zuiden."
+                  : "Discover Thailand's diverse regions, each offering unique experiences, landscapes, and cultural treasures. From the mountains of the North to the beaches of the South."}
               </p>
             </div>
           </div>
@@ -77,16 +82,16 @@ export default function RegionsPage({ regions }: RegionsPageProps) {
                   {/* Region Content */}
                   <div className="p-6">
                     <h2 className="text-2xl font-bold text-gray-900 mb-3">
-                      {region.name.en}
+                      {region.name[lang] || region.name.en}
                     </h2>
-                    
+
                     <p className="text-gray-600 mb-4">
-                      {region.description.en}
+                      {region.description[lang] || region.description.en}
                     </p>
 
                     {/* Cities */}
                     <div className="mb-4">
-                      <h3 className="text-sm font-semibold text-gray-700 mb-2">Cities in this region:</h3>
+                      <h3 className="text-sm font-semibold text-gray-700 mb-2">{isNl ? 'Steden in deze regio:' : 'Cities in this region:'}</h3>
                       <div className="flex flex-wrap gap-2">
                         {region.cities.map((city) => (
                           <span
@@ -101,7 +106,7 @@ export default function RegionsPage({ regions }: RegionsPageProps) {
 
                     {/* Highlights */}
                     <div className="mb-6">
-                      <h3 className="text-sm font-semibold text-gray-700 mb-2">Highlights:</h3>
+                      <h3 className="text-sm font-semibold text-gray-700 mb-2">{isNl ? 'Hoogtepunten:' : 'Highlights:'}</h3>
                       <ul className="text-sm text-gray-600 space-y-1">
                         {region.highlights.map((highlight, idx) => (
                           <li key={idx} className="flex items-center">
@@ -115,11 +120,11 @@ export default function RegionsPage({ regions }: RegionsPageProps) {
                     </div>
 
                     {/* CTA Button */}
-                    <Link 
+                    <Link
                       href={`/region/${region.slug}`}
                       className="inline-flex items-center justify-center w-full px-4 py-2 bg-thailand-blue text-white font-medium rounded-md hover:bg-thailand-red transition-colors"
                     >
-                      Explore {region.name.en}
+                      {isNl ? `Ontdek ${region.name[lang] || region.name.en}` : `Explore ${region.name.en}`}
                       <svg className="ml-2 w-4 h-4" fill="none" stroke="currentColor" viewBox="0 0 24 24">
                         <path strokeLinecap="round" strokeLinejoin="round" strokeWidth="2" d="M9 5l7 7-7 7" />
                       </svg>
@@ -136,40 +141,40 @@ export default function RegionsPage({ regions }: RegionsPageProps) {
         <section className="bg-white py-12">
           <div className="container-custom">
             <h2 className="text-3xl font-bold text-gray-900 mb-8 text-center">
-              Compare Thailand's Regions
+              {isNl ? "Vergelijk Thailand's Regio's" : "Compare Thailand's Regions"}
             </h2>
-            
+
             <div className="overflow-x-auto">
               <table className="min-w-full">
                 <thead>
                   <tr className="border-b border-gray-200">
-                    <th className="text-left py-4 px-4 font-semibold text-gray-900">Region</th>
-                    <th className="text-left py-4 px-4 font-semibold text-gray-900">Best For</th>
-                    <th className="text-left py-4 px-4 font-semibold text-gray-900">Climate</th>
-                    <th className="text-left py-4 px-4 font-semibold text-gray-900">Cities</th>
+                    <th className="text-left py-4 px-4 font-semibold text-gray-900">{isNl ? 'Regio' : 'Region'}</th>
+                    <th className="text-left py-4 px-4 font-semibold text-gray-900">{isNl ? 'Beste Voor' : 'Best For'}</th>
+                    <th className="text-left py-4 px-4 font-semibold text-gray-900">{isNl ? 'Klimaat' : 'Climate'}</th>
+                    <th className="text-left py-4 px-4 font-semibold text-gray-900">{isNl ? 'Steden' : 'Cities'}</th>
                   </tr>
                 </thead>
                 <tbody>
                   {regions.map((region) => (
                     <tr key={region.id} className="border-b border-gray-100">
                       <td className="py-4 px-4">
-                        <Link 
+                        <Link
                           href={`/region/${region.slug}`}
                           className="font-medium text-thailand-blue hover:text-thailand-red"
                         >
-                          {region.name.en}
+                          {region.name[lang] || region.name.en}
                         </Link>
                       </td>
                       <td className="py-4 px-4 text-gray-600">
                         {region.highlights.slice(0, 2).join(', ')}
                       </td>
                       <td className="py-4 px-4 text-gray-600">
-                        {region.slug === 'northern' && 'Cooler, dry winters'}
-                        {region.slug === 'central' && 'Hot, tropical monsoon'}
-                        {region.slug === 'southern' && 'Hot, humid, tropical'}
+                        {region.slug === 'northern' && (isNl ? 'Koeler, droge winters' : 'Cooler, dry winters')}
+                        {region.slug === 'central' && (isNl ? 'Heet, tropische moesson' : 'Hot, tropical monsoon')}
+                        {region.slug === 'southern' && (isNl ? 'Heet, vochtig, tropisch' : 'Hot, humid, tropical')}
                       </td>
                       <td className="py-4 px-4 text-gray-600">
-                        {region.cities.length} cities
+                        {region.cities.length} {isNl ? 'steden' : 'cities'}
                       </td>
                     </tr>
                   ))}
@@ -183,37 +188,37 @@ export default function RegionsPage({ regions }: RegionsPageProps) {
         <section className="bg-gray-50 py-12">
           <div className="container-custom">
             <h2 className="text-3xl font-bold text-gray-900 mb-8 text-center">
-              Regional Travel Tips
+              {isNl ? 'Regionale Reistips' : 'Regional Travel Tips'}
             </h2>
 
             <div className="grid grid-cols-1 md:grid-cols-3 gap-8">
               <div className="bg-white p-6 rounded-lg shadow-sm">
-                <h3 className="text-xl font-semibold text-gray-900 mb-4">Northern Thailand</h3>
+                <h3 className="text-xl font-semibold text-gray-900 mb-4">{isNl ? 'Noord-Thailand' : 'Northern Thailand'}</h3>
                 <ul className="text-gray-600 space-y-2">
-                  <li>• Best visited November to February</li>
-                  <li>• Pack warm clothes for evenings</li>
-                  <li>• Perfect for cultural experiences</li>
-                  <li>• Great for trekking and nature</li>
+                  <li>{isNl ? '• Beste bezoektijd november t/m februari' : '• Best visited November to February'}</li>
+                  <li>{isNl ? '• Neem warme kleding mee voor de avonden' : '• Pack warm clothes for evenings'}</li>
+                  <li>{isNl ? '• Perfect voor culturele ervaringen' : '• Perfect for cultural experiences'}</li>
+                  <li>{isNl ? '• Ideaal voor trekking en natuur' : '• Great for trekking and nature'}</li>
                 </ul>
               </div>
 
               <div className="bg-white p-6 rounded-lg shadow-sm">
-                <h3 className="text-xl font-semibold text-gray-900 mb-4">Central Thailand</h3>
+                <h3 className="text-xl font-semibold text-gray-900 mb-4">{isNl ? 'Centraal-Thailand' : 'Central Thailand'}</h3>
                 <ul className="text-gray-600 space-y-2">
-                  <li>• Year-round destination</li>
-                  <li>• Easy transportation links</li>
-                  <li>• Mix of urban and historical sites</li>
-                  <li>• Gateway to other regions</li>
+                  <li>{isNl ? '• Het hele jaar door bestemming' : '• Year-round destination'}</li>
+                  <li>{isNl ? '• Makkelijke vervoersverbindingen' : '• Easy transportation links'}</li>
+                  <li>{isNl ? '• Mix van stedelijk en historisch' : '• Mix of urban and historical sites'}</li>
+                  <li>{isNl ? '• Toegangspoort naar andere regio\'s' : '• Gateway to other regions'}</li>
                 </ul>
               </div>
 
               <div className="bg-white p-6 rounded-lg shadow-sm">
-                <h3 className="text-xl font-semibold text-gray-900 mb-4">Southern Thailand</h3>
+                <h3 className="text-xl font-semibold text-gray-900 mb-4">{isNl ? 'Zuid-Thailand' : 'Southern Thailand'}</h3>
                 <ul className="text-gray-600 space-y-2">
-                  <li>• Best from December to April</li>
-                  <li>• Perfect for beach lovers</li>
-                  <li>• Great for island hopping</li>
-                  <li>• Amazing seafood cuisine</li>
+                  <li>{isNl ? '• Beste periode december t/m april' : '• Best from December to April'}</li>
+                  <li>{isNl ? '• Perfect voor strandliefhebbers' : '• Perfect for beach lovers'}</li>
+                  <li>{isNl ? '• Ideaal voor eilandhoppen' : '• Great for island hopping'}</li>
+                  <li>{isNl ? '• Geweldige zeevruchtenkeuken' : '• Amazing seafood cuisine'}</li>
                 </ul>
               </div>
             </div>
@@ -224,10 +229,10 @@ export default function RegionsPage({ regions }: RegionsPageProps) {
         <section className="bg-gradient-to-r from-thailand-blue-50 to-thailand-red-50 py-12">
           <div className="container-custom">
             <h2 className="text-3xl font-bold text-gray-900 mb-4 text-center">
-              Explore Thailand
+              {isNl ? 'Ontdek Thailand' : 'Explore Thailand'}
             </h2>
             <p className="text-lg text-gray-600 max-w-2xl mx-auto text-center mb-8">
-              Book hotels, discover activities, and arrange transport across all regions of Thailand.
+              {isNl ? "Boek hotels, ontdek activiteiten en regel vervoer door alle regio's van Thailand." : 'Book hotels, discover activities, and arrange transport across all regions of Thailand.'}
             </p>
 
             <div className="grid grid-cols-1 md:grid-cols-3 gap-6 max-w-4xl mx-auto">
@@ -240,7 +245,7 @@ export default function RegionsPage({ regions }: RegionsPageProps) {
                 <svg className="w-5 h-5 mr-2 flex-shrink-0" fill="none" stroke="currentColor" viewBox="0 0 24 24">
                   <path strokeLinecap="round" strokeLinejoin="round" strokeWidth="2" d="M19 21V5a2 2 0 00-2-2H7a2 2 0 00-2 2v16m14 0h2m-2 0h-5m-9 0H3m2 0h5M9 7h1m-1 4h1m4-4h1m-1 4h1m-5 10v-5a1 1 0 011-1h2a1 1 0 011 1v5m-4 0h4" />
                 </svg>
-                Search Hotels on Trip.com
+                {isNl ? 'Zoek Hotels op Trip.com' : 'Search Hotels on Trip.com'}
               </a>
 
               <Link
@@ -250,7 +255,7 @@ export default function RegionsPage({ regions }: RegionsPageProps) {
                 <svg className="w-5 h-5 mr-2 flex-shrink-0" fill="none" stroke="currentColor" viewBox="0 0 24 24">
                   <path strokeLinecap="round" strokeLinejoin="round" strokeWidth="2" d="M14.828 14.828a4 4 0 01-5.656 0M9 10h.01M15 10h.01M21 12a9 9 0 11-18 0 9 9 0 0118 0z" />
                 </svg>
-                Browse Activities
+                {isNl ? 'Bekijk Activiteiten' : 'Browse Activities'}
               </Link>
 
               <a
@@ -262,12 +267,12 @@ export default function RegionsPage({ regions }: RegionsPageProps) {
                 <svg className="w-5 h-5 mr-2 flex-shrink-0" fill="none" stroke="currentColor" viewBox="0 0 24 24">
                   <path strokeLinecap="round" strokeLinejoin="round" strokeWidth="2" d="M8 7h12m0 0l-4-4m4 4l-4 4m0 6H4m0 0l4 4m-4-4l4-4" />
                 </svg>
-                Book Transport on 12Go
+                {isNl ? 'Boek Vervoer op 12Go' : 'Book Transport on 12Go'}
               </a>
             </div>
 
             <p className="text-xs text-gray-500 text-center mt-6">
-              Affiliate disclosure: We may earn a commission when you book through our partner links, at no extra cost to you.
+              {isNl ? 'Affiliate melding: We kunnen een commissie verdienen wanneer je boekt via onze partnerlinks, zonder extra kosten voor jou.' : 'Affiliate disclosure: We may earn a commission when you book through our partner links, at no extra cost to you.'}
             </p>
           </div>
         </section>
@@ -276,10 +281,10 @@ export default function RegionsPage({ regions }: RegionsPageProps) {
         <section className="bg-white py-12">
           <div className="container-custom">
             <h2 className="text-3xl font-bold text-gray-900 mb-4 text-center">
-              Explore More of Thailand
+              {isNl ? 'Ontdek Meer van Thailand' : 'Explore More of Thailand'}
             </h2>
             <p className="text-lg text-gray-600 max-w-2xl mx-auto text-center mb-8">
-              Dive deeper into Thailand's cities, islands, food, transport, and travel data.
+              {isNl ? "Duik dieper in Thailand's steden, eilanden, eten, vervoer en reisdata." : "Dive deeper into Thailand's cities, islands, food, transport, and travel data."}
             </p>
 
             <div className="grid grid-cols-1 sm:grid-cols-2 lg:grid-cols-3 gap-4 max-w-4xl mx-auto">
@@ -293,8 +298,8 @@ export default function RegionsPage({ regions }: RegionsPageProps) {
                   </svg>
                 </div>
                 <div>
-                  <div className="font-semibold text-gray-900 group-hover:text-thailand-blue transition-colors">All City Guides</div>
-                  <div className="text-sm text-gray-500">33 cities covered in depth</div>
+                  <div className="font-semibold text-gray-900 group-hover:text-thailand-blue transition-colors">{isNl ? 'Alle Stadsgidsen' : 'All City Guides'}</div>
+                  <div className="text-sm text-gray-500">{isNl ? '33 steden uitgebreid behandeld' : '33 cities covered in depth'}</div>
                 </div>
               </Link>
 
@@ -308,8 +313,8 @@ export default function RegionsPage({ regions }: RegionsPageProps) {
                   </svg>
                 </div>
                 <div>
-                  <div className="font-semibold text-gray-900 group-hover:text-thailand-blue transition-colors">Thai Islands</div>
-                  <div className="text-sm text-gray-500">Beaches, diving & island hopping</div>
+                  <div className="font-semibold text-gray-900 group-hover:text-thailand-blue transition-colors">{isNl ? 'Thaise Eilanden' : 'Thai Islands'}</div>
+                  <div className="text-sm text-gray-500">{isNl ? 'Stranden, duiken & eilandhoppen' : 'Beaches, diving & island hopping'}</div>
                 </div>
               </Link>
 
@@ -323,8 +328,8 @@ export default function RegionsPage({ regions }: RegionsPageProps) {
                   </svg>
                 </div>
                 <div>
-                  <div className="font-semibold text-gray-900 group-hover:text-thailand-blue transition-colors">Thailand Travel Index</div>
-                  <div className="text-sm text-gray-500">Budget, weather & rankings</div>
+                  <div className="font-semibold text-gray-900 group-hover:text-thailand-blue transition-colors">{isNl ? 'Thailand Reisindex' : 'Thailand Travel Index'}</div>
+                  <div className="text-sm text-gray-500">{isNl ? 'Budget, weer & ranglijsten' : 'Budget, weather & rankings'}</div>
                 </div>
               </Link>
 
@@ -338,8 +343,8 @@ export default function RegionsPage({ regions }: RegionsPageProps) {
                   </svg>
                 </div>
                 <div>
-                  <div className="font-semibold text-gray-900 group-hover:text-thailand-blue transition-colors">Transport Routes</div>
-                  <div className="text-sm text-gray-500">245 routes between cities</div>
+                  <div className="font-semibold text-gray-900 group-hover:text-thailand-blue transition-colors">{isNl ? 'Vervoersroutes' : 'Transport Routes'}</div>
+                  <div className="text-sm text-gray-500">{isNl ? '245 routes tussen steden' : '245 routes between cities'}</div>
                 </div>
               </Link>
 
@@ -353,8 +358,8 @@ export default function RegionsPage({ regions }: RegionsPageProps) {
                   </svg>
                 </div>
                 <div>
-                  <div className="font-semibold text-gray-900 group-hover:text-thailand-blue transition-colors">Weather Guide</div>
-                  <div className="text-sm text-gray-500">Best time to visit each region</div>
+                  <div className="font-semibold text-gray-900 group-hover:text-thailand-blue transition-colors">{isNl ? 'Weergids' : 'Weather Guide'}</div>
+                  <div className="text-sm text-gray-500">{isNl ? 'Beste tijd om elke regio te bezoeken' : 'Best time to visit each region'}</div>
                 </div>
               </Link>
 
@@ -368,8 +373,8 @@ export default function RegionsPage({ regions }: RegionsPageProps) {
                   </svg>
                 </div>
                 <div>
-                  <div className="font-semibold text-gray-900 group-hover:text-thailand-blue transition-colors">Thai Food Guide</div>
-                  <div className="text-sm text-gray-500">Dishes, drinks & street food</div>
+                  <div className="font-semibold text-gray-900 group-hover:text-thailand-blue transition-colors">{isNl ? 'Thaise Eetgids' : 'Thai Food Guide'}</div>
+                  <div className="text-sm text-gray-500">{isNl ? 'Gerechten, dranken & straatvoedsel' : 'Dishes, drinks & street food'}</div>
                 </div>
               </Link>
             </div>

@@ -1,4 +1,5 @@
 import { GetStaticProps, GetStaticPaths } from 'next';
+import { useRouter } from 'next/router';
 import Link from 'next/link';
 import { getCityBySlug, getCityStaticPaths, generateCityMetadata, generateBreadcrumbs } from '../../../lib/cities';
 import Breadcrumbs from '../../../components/Breadcrumbs';
@@ -79,16 +80,24 @@ const MONTH_FULL_NAMES: Record<string, string> = {
 };
 
 export default function BestTimeToVisitPage({ city, topRoutes }: BestTimeToVisitPageProps) {
-  if (!city) return <div>City not found</div>;
+  const { locale } = useRouter();
+  const isNl = locale === 'nl';
+  const lang = isNl ? 'nl' : 'en';
 
-  const cityName = typeof city.name === 'string' ? city.name : city.name?.en || '';
+  if (!city) return <div>{isNl ? 'Stad niet gevonden' : 'City not found'}</div>;
+
+  const cityName = typeof city.name === 'string' ? city.name : (city.name?.[lang] || city.name?.en || '');
   const breadcrumbs = generateBreadcrumbs(city, 'best-time-to-visit');
   const baseMetadata = generateCityMetadata(city, 'best-time-to-visit');
 
   const metadata = {
     ...baseMetadata,
-    title: `Best Time to Visit ${cityName} 2026 \u2014 Month-by-Month Guide`,
-    description: `Find the best time to visit ${cityName}, Thailand. Month-by-month weather guide, festivals, seasonal tips, and travel advice. Plan your perfect trip for 2026.`,
+    title: isNl
+      ? `Beste Reistijd voor ${cityName} 2026 \u2014 Maand-voor-Maand Gids`
+      : `Best Time to Visit ${cityName} 2026 \u2014 Month-by-Month Guide`,
+    description: isNl
+      ? `Ontdek de beste reistijd voor ${cityName}, Thailand. Maandelijkse weergids, festivals, seizoenstips en reisadvies. Plan je perfecte reis voor 2026.`
+      : `Find the best time to visit ${cityName}, Thailand. Month-by-month weather guide, festivals, seasonal tips, and travel advice. Plan your perfect trip for 2026.`,
   };
 
   const bestMonths = city.practicalInfo?.bestMonths || [];
@@ -178,10 +187,12 @@ export default function BestTimeToVisitPage({ city, topRoutes }: BestTimeToVisit
             <Breadcrumbs items={breadcrumbs} />
             <div className="text-center">
               <h1 className="text-4xl lg:text-5xl font-bold font-heading text-gray-900 mb-4">
-                Best Time to Visit {cityName}
+                {isNl ? `Beste Reistijd voor ${cityName}` : `Best Time to Visit ${cityName}`}
               </h1>
               <p className="text-xl text-gray-600 max-w-3xl mx-auto">
-                Your complete month-by-month guide to weather, festivals, and the ideal time to plan your trip to {cityName}, Thailand.
+                {isNl
+                  ? `Je complete maand-voor-maand gids over weer, festivals en het ideale moment om je reis naar ${cityName}, Thailand te plannen.`
+                  : `Your complete month-by-month guide to weather, festivals, and the ideal time to plan your trip to ${cityName}, Thailand.`}
               </p>
             </div>
           </div>
@@ -209,31 +220,31 @@ export default function BestTimeToVisitPage({ city, topRoutes }: BestTimeToVisit
 
               {/* When to Visit - Month Grid */}
               <div>
-                <h2 className="text-3xl font-bold font-heading text-gray-900 mb-6">When to Visit {cityName}</h2>
+                <h2 className="text-3xl font-bold font-heading text-gray-900 mb-6">{isNl ? `Wanneer ${cityName} Bezoeken` : `When to Visit ${cityName}`}</h2>
                 {bestTimeObj && (
                   <div className="bg-white rounded-2xl shadow-md p-6 mb-6">
                     <div className="grid grid-cols-1 sm:grid-cols-2 lg:grid-cols-4 gap-4">
                       {bestTimeObj.season && (
                         <div className="text-center p-4 bg-surface-cream rounded-xl">
-                          <div className="text-sm text-gray-500 mb-1">Best Season</div>
+                          <div className="text-sm text-gray-500 mb-1">{isNl ? 'Beste Seizoen' : 'Best Season'}</div>
                           <div className="font-bold text-gray-900">{bestTimeObj.season}</div>
                         </div>
                       )}
                       {bestTimeObj.months && (
                         <div className="text-center p-4 bg-surface-cream rounded-xl">
-                          <div className="text-sm text-gray-500 mb-1">Best Months</div>
+                          <div className="text-sm text-gray-500 mb-1">{isNl ? 'Beste Maanden' : 'Best Months'}</div>
                           <div className="font-bold text-gray-900">{bestTimeObj.months}</div>
                         </div>
                       )}
                       {bestTimeObj.weather && (
                         <div className="text-center p-4 bg-surface-cream rounded-xl">
-                          <div className="text-sm text-gray-500 mb-1">Weather</div>
+                          <div className="text-sm text-gray-500 mb-1">{isNl ? 'Weer' : 'Weather'}</div>
                           <div className="font-bold text-gray-900">{bestTimeObj.weather}</div>
                         </div>
                       )}
                       {bestTimeObj.reasons && (
                         <div className="text-center p-4 bg-surface-cream rounded-xl">
-                          <div className="text-sm text-gray-500 mb-1">Why Visit Then</div>
+                          <div className="text-sm text-gray-500 mb-1">{isNl ? 'Waarom Dan Bezoeken' : 'Why Visit Then'}</div>
                           <div className="font-bold text-gray-900">{bestTimeObj.reasons}</div>
                         </div>
                       )}
@@ -242,7 +253,7 @@ export default function BestTimeToVisitPage({ city, topRoutes }: BestTimeToVisit
                 )}
 
                 <div className="bg-white rounded-2xl shadow-md p-6">
-                  <h3 className="text-lg font-semibold font-heading text-gray-900 mb-4">Month-by-Month Overview</h3>
+                  <h3 className="text-lg font-semibold font-heading text-gray-900 mb-4">{isNl ? 'Maand-voor-Maand Overzicht' : 'Month-by-Month Overview'}</h3>
                   <div className="grid grid-cols-3 sm:grid-cols-4 md:grid-cols-6 lg:grid-cols-12 gap-2">
                     {ALL_MONTHS.map((month) => {
                       const isBest = bestMonths.includes(month);
@@ -269,11 +280,11 @@ export default function BestTimeToVisitPage({ city, topRoutes }: BestTimeToVisit
                     <div className="mt-4 flex items-center gap-4 text-sm text-gray-600">
                       <div className="flex items-center gap-2">
                         <div className="w-4 h-4 bg-green-100 border-2 border-green-500 rounded"></div>
-                        <span>Best months to visit</span>
+                        <span>{isNl ? 'Beste maanden om te bezoeken' : 'Best months to visit'}</span>
                       </div>
                       <div className="flex items-center gap-2">
                         <div className="w-4 h-4 bg-gray-50 border-2 border-gray-200 rounded"></div>
-                        <span>Other months</span>
+                        <span>{isNl ? 'Overige maanden' : 'Other months'}</span>
                       </div>
                     </div>
                   )}
@@ -283,7 +294,7 @@ export default function BestTimeToVisitPage({ city, topRoutes }: BestTimeToVisit
               {/* Climate Overview */}
               {city.bestTimeToVisit && (
                 <div>
-                  <h2 className="text-3xl font-bold font-heading text-gray-900 mb-6">Climate Overview</h2>
+                  <h2 className="text-3xl font-bold font-heading text-gray-900 mb-6">{isNl ? 'Klimaatoverzicht' : 'Climate Overview'}</h2>
                   <div className="bg-white rounded-2xl shadow-md p-6">
                     <div className="prose prose-lg max-w-none text-gray-700">
                       {city.bestTimeToVisit.split('\n\n').map((paragraph: string, idx: number) => (
@@ -297,7 +308,7 @@ export default function BestTimeToVisitPage({ city, topRoutes }: BestTimeToVisit
               {/* Seasonal Guide */}
               {seasonalSecrets && (seasonalSecrets.best_times || seasonalSecrets.seasonal_foods) && (
                 <div>
-                  <h2 className="text-3xl font-bold font-heading text-gray-900 mb-6">Seasonal Guide</h2>
+                  <h2 className="text-3xl font-bold font-heading text-gray-900 mb-6">{isNl ? 'Seizoensgids' : 'Seasonal Guide'}</h2>
                   <div className="grid grid-cols-1 lg:grid-cols-2 gap-6">
                     {seasonalSecrets.best_times && Object.keys(seasonalSecrets.best_times).length > 0 && (
                       <div className="bg-white rounded-2xl shadow-md p-6">
@@ -305,7 +316,7 @@ export default function BestTimeToVisitPage({ city, topRoutes }: BestTimeToVisit
                           <svg className="w-6 h-6 text-yellow-500 mr-2" fill="none" stroke="currentColor" viewBox="0 0 24 24">
                             <path strokeLinecap="round" strokeLinejoin="round" strokeWidth="2" d="M12 3v1m0 16v1m9-9h-1M4 12H3m15.364 6.364l-.707-.707M6.343 6.343l-.707-.707m12.728 0l-.707.707M6.343 17.657l-.707.707M16 12a4 4 0 11-8 0 4 4 0 018 0z" />
                           </svg>
-                          Best Times by Month
+                          {isNl ? 'Beste Tijden per Maand' : 'Best Times by Month'}
                         </h3>
                         <ul className="space-y-3">
                           {Object.entries(seasonalSecrets.best_times).map(([month, description]) => (
@@ -324,7 +335,7 @@ export default function BestTimeToVisitPage({ city, topRoutes }: BestTimeToVisit
                           <svg className="w-6 h-6 text-orange-500 mr-2" fill="none" stroke="currentColor" viewBox="0 0 24 24">
                             <path strokeLinecap="round" strokeLinejoin="round" strokeWidth="2" d="M12 6.253v13m0-13C10.832 5.477 9.246 5 7.5 5S4.168 5.477 3 6.253v13C4.168 18.477 5.754 18 7.5 18s3.332.477 4.5 1.253m0-13C13.168 5.477 14.754 5 16.5 5c1.746 0 3.332.477 4.5 1.253v13C19.832 18.477 18.246 18 16.5 18c-1.746 0-3.332.477-4.5 1.253" />
                           </svg>
-                          Seasonal Foods
+                          {isNl ? 'Seizoensgebonden Gerechten' : 'Seasonal Foods'}
                         </h3>
                         <ul className="space-y-3">
                           {Object.entries(seasonalSecrets.seasonal_foods).map(([season, food]) => (
@@ -340,7 +351,7 @@ export default function BestTimeToVisitPage({ city, topRoutes }: BestTimeToVisit
 
                   {seasonalSecrets.insider_tips && Object.keys(seasonalSecrets.insider_tips).length > 0 && (
                     <div className="bg-surface-cream rounded-2xl p-6 mt-6">
-                      <h3 className="text-lg font-bold font-heading text-gray-900 mb-3">Insider Tips</h3>
+                      <h3 className="text-lg font-bold font-heading text-gray-900 mb-3">{isNl ? 'Insider Tips' : 'Insider Tips'}</h3>
                       <ul className="space-y-2">
                         {Object.entries(seasonalSecrets.insider_tips).map(([season, tip]) => (
                           <li key={season} className="flex items-start">
@@ -359,10 +370,12 @@ export default function BestTimeToVisitPage({ city, topRoutes }: BestTimeToVisit
               {/* Festivals & Events */}
               {seasonalSecrets?.local_festivals && seasonalSecrets.local_festivals.length > 0 && (
                 <div>
-                  <h2 className="text-3xl font-bold font-heading text-gray-900 mb-6">Festivals & Events</h2>
+                  <h2 className="text-3xl font-bold font-heading text-gray-900 mb-6">{isNl ? 'Festivals & Evenementen' : 'Festivals & Events'}</h2>
                   <div className="bg-white rounded-2xl shadow-md p-6">
                     <p className="text-gray-600 mb-4">
-                      Plan your trip around these local festivals and events in {cityName} for a more immersive experience.
+                      {isNl
+                        ? `Plan je reis rond deze lokale festivals en evenementen in ${cityName} voor een meer meeslepende ervaring.`
+                        : `Plan your trip around these local festivals and events in ${cityName} for a more immersive experience.`}
                     </p>
                     <div className="grid grid-cols-1 sm:grid-cols-2 gap-4">
                       {seasonalSecrets.local_festivals.map((festival, idx) => (
@@ -381,7 +394,7 @@ export default function BestTimeToVisitPage({ city, topRoutes }: BestTimeToVisit
               {/* Getting There */}
               {practicalInfo && (practicalInfo.nearestAirport || practicalInfo.localTransport) && (
                 <div>
-                  <h2 className="text-3xl font-bold font-heading text-gray-900 mb-6">Getting There & Around</h2>
+                  <h2 className="text-3xl font-bold font-heading text-gray-900 mb-6">{isNl ? 'Bereikbaarheid & Vervoer' : 'Getting There & Around'}</h2>
                   <div className="grid grid-cols-1 lg:grid-cols-2 gap-6">
                     {practicalInfo.nearestAirport && (
                       <div className="bg-white rounded-2xl shadow-md p-6">
@@ -389,12 +402,12 @@ export default function BestTimeToVisitPage({ city, topRoutes }: BestTimeToVisit
                           <svg className="w-6 h-6 text-thailand-blue mr-2" fill="none" stroke="currentColor" viewBox="0 0 24 24">
                             <path strokeLinecap="round" strokeLinejoin="round" strokeWidth="2" d="M5 3l14 9-14 9V3z" />
                           </svg>
-                          Nearest Airport
+                          {isNl ? 'Dichtstbijzijnde Luchthaven' : 'Nearest Airport'}
                         </h3>
                         <p className="text-gray-700 font-semibold text-lg mb-2">{practicalInfo.nearestAirport}</p>
                         {practicalInfo.travelTimeFromAirport && (
                           <p className="text-gray-600">
-                            <span className="font-medium">Travel time:</span> {practicalInfo.travelTimeFromAirport}
+                            <span className="font-medium">{isNl ? 'Reistijd:' : 'Travel time:'}</span> {practicalInfo.travelTimeFromAirport}
                           </p>
                         )}
                       </div>
@@ -406,7 +419,7 @@ export default function BestTimeToVisitPage({ city, topRoutes }: BestTimeToVisit
                           <svg className="w-6 h-6 text-thailand-blue mr-2" fill="none" stroke="currentColor" viewBox="0 0 24 24">
                             <path strokeLinecap="round" strokeLinejoin="round" strokeWidth="2" d="M8 7h12m0 0l-4-4m4 4l-4 4m0 6H4m0 0l4 4m-4-4l4-4" />
                           </svg>
-                          Local Transport Options
+                          {isNl ? 'Lokaal Vervoer' : 'Local Transport Options'}
                         </h3>
                         <div className="flex flex-wrap gap-2">
                           {practicalInfo.localTransport.map((transport, idx) => (
@@ -425,10 +438,12 @@ export default function BestTimeToVisitPage({ city, topRoutes }: BestTimeToVisit
               {topRoutes && topRoutes.length > 0 && (
                 <div className="bg-white rounded-2xl shadow-md p-8">
                   <h3 className="text-2xl font-bold font-heading text-gray-900 mb-4">
-                    Getting To {cityName}
+                    {isNl ? `Reizen naar ${cityName}` : `Getting To ${cityName}`}
                   </h3>
                   <p className="text-gray-600 mb-6">
-                    Plan your journey to {cityName} — compare routes, transport options, and travel times.
+                    {isNl
+                      ? `Plan je reis naar ${cityName} — vergelijk routes, vervoersopties en reistijden.`
+                      : `Plan your journey to ${cityName} — compare routes, transport options, and travel times.`}
                   </p>
                   <div className="grid grid-cols-1 sm:grid-cols-2 gap-3">
                     {topRoutes.slice(0, 6).map((route) => (
@@ -453,7 +468,7 @@ export default function BestTimeToVisitPage({ city, topRoutes }: BestTimeToVisit
               {/* Explore More */}
               <div className="bg-white rounded-2xl shadow-md p-8">
                 <h3 className="text-2xl font-bold font-heading text-gray-900 mb-6 text-center">
-                  Explore More of {cityName}
+                  {isNl ? `Ontdek Meer van ${cityName}` : `Explore More of ${cityName}`}
                 </h3>
                 <div className="grid grid-cols-1 md:grid-cols-2 gap-4">
                   <Link href={`/city/${city.slug}/hotels/`} className="flex items-center p-4 border-0 bg-surface-cream rounded-2xl hover:shadow-md transition-all duration-300">
@@ -463,8 +478,8 @@ export default function BestTimeToVisitPage({ city, topRoutes }: BestTimeToVisit
                       </svg>
                     </div>
                     <div>
-                      <h4 className="font-semibold text-gray-900">Hotels & Stay</h4>
-                      <p className="text-gray-600 text-sm">Where to stay in {cityName}</p>
+                      <h4 className="font-semibold text-gray-900">{isNl ? 'Hotels & Verblijf' : 'Hotels & Stay'}</h4>
+                      <p className="text-gray-600 text-sm">{isNl ? `Waar verblijven in ${cityName}` : `Where to stay in ${cityName}`}</p>
                     </div>
                   </Link>
                   <Link href={`/city/${city.slug}/attractions/`} className="flex items-center p-4 border-0 bg-surface-cream rounded-2xl hover:shadow-md transition-all duration-300">
@@ -474,8 +489,8 @@ export default function BestTimeToVisitPage({ city, topRoutes }: BestTimeToVisit
                       </svg>
                     </div>
                     <div>
-                      <h4 className="font-semibold text-gray-900">Attractions</h4>
-                      <p className="text-gray-600 text-sm">Top things to do</p>
+                      <h4 className="font-semibold text-gray-900">{isNl ? 'Bezienswaardigheden' : 'Attractions'}</h4>
+                      <p className="text-gray-600 text-sm">{isNl ? 'Top dingen om te doen' : 'Top things to do'}</p>
                     </div>
                   </Link>
                   <Link href={`/city/${city.slug}/food/`} className="flex items-center p-4 border-0 bg-surface-cream rounded-2xl hover:shadow-md transition-all duration-300">
@@ -485,8 +500,8 @@ export default function BestTimeToVisitPage({ city, topRoutes }: BestTimeToVisit
                       </svg>
                     </div>
                     <div>
-                      <h4 className="font-semibold text-gray-900">Food & Dining</h4>
-                      <p className="text-gray-600 text-sm">Discover local cuisine</p>
+                      <h4 className="font-semibold text-gray-900">{isNl ? 'Eten & Restaurants' : 'Food & Dining'}</h4>
+                      <p className="text-gray-600 text-sm">{isNl ? 'Ontdek de lokale keuken' : 'Discover local cuisine'}</p>
                     </div>
                   </Link>
                   <Link href={`/city/${city.slug}/`} className="flex items-center p-4 border-0 bg-surface-cream rounded-2xl hover:shadow-md transition-all duration-300">
@@ -496,8 +511,8 @@ export default function BestTimeToVisitPage({ city, topRoutes }: BestTimeToVisit
                       </svg>
                     </div>
                     <div>
-                      <h4 className="font-semibold text-gray-900">City Overview</h4>
-                      <p className="text-gray-600 text-sm">Complete guide to {cityName}</p>
+                      <h4 className="font-semibold text-gray-900">{isNl ? 'Stadsoverzicht' : 'City Overview'}</h4>
+                      <p className="text-gray-600 text-sm">{isNl ? `Complete gids voor ${cityName}` : `Complete guide to ${cityName}`}</p>
                     </div>
                   </Link>
                 </div>

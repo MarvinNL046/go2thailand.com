@@ -1,4 +1,5 @@
 import { GetStaticProps } from 'next';
+import { useRouter } from 'next/router';
 import SEOHead from '../../components/SEOHead';
 import Link from 'next/link';
 import Breadcrumbs from '../../components/Breadcrumbs';
@@ -14,10 +15,13 @@ interface ScooterGuideProps {
 }
 
 export default function ScooterRentalThailandPage({ data }: ScooterGuideProps) {
+  const { locale } = useRouter();
+  const isNl = locale === 'nl';
+
   const breadcrumbs = [
     { name: 'Home', href: '/' },
-    { name: 'Travel Guides', href: '/travel-guides' },
-    { name: 'Scooter Rental Thailand', href: '/travel-guides/scooter-rental-thailand' }
+    { name: isNl ? 'Reisgidsen' : 'Travel Guides', href: '/travel-guides' },
+    { name: isNl ? 'Scooter Huur Thailand' : 'Scooter Rental Thailand', href: '/travel-guides/scooter-rental-thailand' }
   ];
 
   const faqSchema = {
@@ -49,9 +53,9 @@ export default function ScooterRentalThailandPage({ data }: ScooterGuideProps) {
           <div className="container-custom py-16">
             <Breadcrumbs items={breadcrumbs} />
             <div className="text-center max-w-4xl mx-auto">
-              <p className="font-script text-thailand-gold mb-2">Travel Guide</p>
+              <p className="font-script text-thailand-gold mb-2">{isNl ? 'Reisgids' : 'Travel Guide'}</p>
               <h1 className="text-4xl lg:text-6xl font-bold font-heading mb-6">
-                Scooter & Motorbike Rental in Thailand
+                {isNl ? 'Scooter & Motor Huur in Thailand' : 'Scooter & Motorbike Rental in Thailand'}
               </h1>
               <p className="text-xl lg:text-2xl mb-8 opacity-90">
                 {data.intro}
@@ -64,7 +68,7 @@ export default function ScooterRentalThailandPage({ data }: ScooterGuideProps) {
         <section className="section-padding bg-white">
           <div className="container-custom">
             <div className="max-w-4xl mx-auto">
-              <p className="section-label text-center">Legal Requirements</p>
+              <p className="section-label text-center">{isNl ? 'Wettelijke Vereisten' : 'Legal Requirements'}</p>
               <h2 className="text-3xl font-bold font-heading text-gray-900 mb-4 text-center">
                 {data.license.title}
               </h2>
@@ -83,7 +87,7 @@ export default function ScooterRentalThailandPage({ data }: ScooterGuideProps) {
               </div>
 
               <div className="bg-red-50 border-l-4 border-red-500 rounded-r-2xl p-6">
-                <p className="font-semibold text-red-800 mb-1">Important Warning</p>
+                <p className="font-semibold text-red-800 mb-1">{isNl ? 'Belangrijke Waarschuwing' : 'Important Warning'}</p>
                 <p className="text-red-700 text-sm">{data.license.warning}</p>
               </div>
             </div>
@@ -93,7 +97,7 @@ export default function ScooterRentalThailandPage({ data }: ScooterGuideProps) {
         {/* Prices by City */}
         <section className="section-padding">
           <div className="container-custom">
-            <p className="section-label text-center">Pricing</p>
+            <p className="section-label text-center">{isNl ? 'Prijzen' : 'Pricing'}</p>
             <h2 className="text-3xl font-bold font-heading text-gray-900 mb-4 text-center">
               {data.prices.title}
             </h2>
@@ -103,12 +107,12 @@ export default function ScooterRentalThailandPage({ data }: ScooterGuideProps) {
               <table className="w-full bg-white rounded-2xl overflow-hidden shadow-md">
                 <thead className="bg-thailand-blue text-white">
                   <tr>
-                    <th className="px-4 py-3 text-left">City</th>
-                    <th className="px-4 py-3 text-center">Daily (THB)</th>
-                    <th className="px-4 py-3 text-center">Weekly</th>
-                    <th className="px-4 py-3 text-center">Monthly</th>
-                    <th className="px-4 py-3 text-center">Deposit</th>
-                    <th className="px-4 py-3 text-left hidden lg:table-cell">Notes</th>
+                    <th className="px-4 py-3 text-left">{isNl ? 'Stad' : 'City'}</th>
+                    <th className="px-4 py-3 text-center">{isNl ? 'Dagelijks (THB)' : 'Daily (THB)'}</th>
+                    <th className="px-4 py-3 text-center">{isNl ? 'Wekelijks' : 'Weekly'}</th>
+                    <th className="px-4 py-3 text-center">{isNl ? 'Maandelijks' : 'Monthly'}</th>
+                    <th className="px-4 py-3 text-center">{isNl ? 'Borg' : 'Deposit'}</th>
+                    <th className="px-4 py-3 text-left hidden lg:table-cell">{isNl ? 'Opmerkingen' : 'Notes'}</th>
                   </tr>
                 </thead>
                 <tbody className="divide-y divide-gray-200">
@@ -129,7 +133,9 @@ export default function ScooterRentalThailandPage({ data }: ScooterGuideProps) {
                 </tbody>
               </table>
             </div>
-            <p className="text-center text-sm text-gray-500 mt-4">Prices in Thai Baht (THB). $1 ≈ 35 THB.</p>
+            <p className="text-center text-sm text-gray-500 mt-4">
+              {isNl ? 'Prijzen in Thaise Baht (THB). $1 \u2248 35 THB.' : 'Prices in Thai Baht (THB). $1 \u2248 35 THB.'}
+            </p>
           </div>
         </section>
 
@@ -137,7 +143,7 @@ export default function ScooterRentalThailandPage({ data }: ScooterGuideProps) {
         <section className="section-padding bg-white">
           <div className="container-custom">
             <div className="max-w-4xl mx-auto">
-              <p className="section-label text-center">Protection</p>
+              <p className="section-label text-center">{isNl ? 'Bescherming' : 'Protection'}</p>
               <h2 className="text-3xl font-bold font-heading text-gray-900 mb-8 text-center">
                 {data.insurance.title}
               </h2>
@@ -153,7 +159,7 @@ export default function ScooterRentalThailandPage({ data }: ScooterGuideProps) {
 
               <p className="text-center mt-6">
                 <Link href="/travel-insurance-thailand/" className="text-thailand-blue hover:underline font-medium">
-                  Compare travel insurance options with motorcycle coverage →
+                  {isNl ? 'Vergelijk reisverzekeringen met motordekking \u2192' : 'Compare travel insurance options with motorcycle coverage \u2192'}
                 </Link>
               </p>
             </div>
@@ -163,7 +169,7 @@ export default function ScooterRentalThailandPage({ data }: ScooterGuideProps) {
         {/* Safety Tips */}
         <section className="section-padding">
           <div className="container-custom">
-            <p className="section-label text-center">Stay Safe</p>
+            <p className="section-label text-center">{isNl ? 'Blijf Veilig' : 'Stay Safe'}</p>
             <h2 className="text-3xl font-bold font-heading text-gray-900 mb-8 text-center">
               {data.safety.title}
             </h2>
@@ -172,7 +178,7 @@ export default function ScooterRentalThailandPage({ data }: ScooterGuideProps) {
               {data.safety.tips.map((tip, i) => (
                 <div key={i} className="bg-white rounded-2xl shadow-md p-6">
                   <div className="flex items-start gap-3">
-                    <span className="text-xl mt-0.5">{i < 4 ? '⚠️' : '💡'}</span>
+                    <span className="text-xl mt-0.5">{i < 4 ? '\u26A0\uFE0F' : '\uD83D\uDCA1'}</span>
                     <div>
                       <h3 className="font-semibold font-heading text-gray-900 mb-1">{tip.title}</h3>
                       <p className="text-gray-600 text-sm">{tip.detail}</p>
@@ -184,7 +190,7 @@ export default function ScooterRentalThailandPage({ data }: ScooterGuideProps) {
 
             <p className="text-center mt-6">
               <Link href="/practical-info/scams-safety/" className="text-thailand-blue hover:underline font-medium">
-                Read our full Thailand scams & safety guide →
+                {isNl ? 'Lees onze volledige Thailand oplichting & veiligheidsgids \u2192' : 'Read our full Thailand scams & safety guide \u2192'}
               </Link>
             </p>
           </div>
@@ -194,7 +200,7 @@ export default function ScooterRentalThailandPage({ data }: ScooterGuideProps) {
         <section className="section-padding bg-white">
           <div className="container-custom">
             <div className="max-w-3xl mx-auto">
-              <p className="section-label text-center">Before You Ride</p>
+              <p className="section-label text-center">{isNl ? 'Voor Je Rijdt' : 'Before You Ride'}</p>
               <h2 className="text-3xl font-bold font-heading text-gray-900 mb-8 text-center">
                 {data.preRentalChecklist.title}
               </h2>
@@ -203,7 +209,7 @@ export default function ScooterRentalThailandPage({ data }: ScooterGuideProps) {
                 <ul className="space-y-3">
                   {data.preRentalChecklist.items.map((item, i) => (
                     <li key={i} className="flex items-start gap-3">
-                      <span className="text-green-500 font-bold mt-0.5">✓</span>
+                      <span className="text-green-500 font-bold mt-0.5">\u2713</span>
                       <span className="text-gray-700">{item}</span>
                     </li>
                   ))}
@@ -216,7 +222,7 @@ export default function ScooterRentalThailandPage({ data }: ScooterGuideProps) {
         {/* Trusted Shops */}
         <section className="section-padding">
           <div className="container-custom">
-            <p className="section-label text-center">Recommended</p>
+            <p className="section-label text-center">{isNl ? 'Aanbevolen' : 'Recommended'}</p>
             <h2 className="text-3xl font-bold font-heading text-gray-900 mb-8 text-center">
               {data.trustedShops.title}
             </h2>
@@ -242,7 +248,7 @@ export default function ScooterRentalThailandPage({ data }: ScooterGuideProps) {
         <section className="section-padding bg-white">
           <div className="container-custom">
             <div className="max-w-4xl mx-auto">
-              <p className="section-label text-center">Not Ready to Ride?</p>
+              <p className="section-label text-center">{isNl ? 'Nog Niet Klaar om te Rijden?' : 'Not Ready to Ride?'}</p>
               <h2 className="text-3xl font-bold font-heading text-gray-900 mb-8 text-center">
                 {data.alternatives.title}
               </h2>
@@ -252,7 +258,7 @@ export default function ScooterRentalThailandPage({ data }: ScooterGuideProps) {
                   <div key={i} className="bg-gray-50 rounded-2xl p-6">
                     <h3 className="font-semibold font-heading text-gray-900 mb-2">{option.name}</h3>
                     <p className="text-gray-600 text-sm mb-3">{option.description}</p>
-                    <p className="text-xs text-gray-500">Best for: {option.bestFor}</p>
+                    <p className="text-xs text-gray-500">{isNl ? 'Beste voor: ' : 'Best for: '}{option.bestFor}</p>
                   </div>
                 ))}
               </div>
@@ -264,9 +270,9 @@ export default function ScooterRentalThailandPage({ data }: ScooterGuideProps) {
         <section className="section-padding">
           <div className="container-custom">
             <div className="max-w-3xl mx-auto">
-              <p className="section-label text-center">Common Questions</p>
+              <p className="section-label text-center">{isNl ? 'Veelgestelde Vragen' : 'Common Questions'}</p>
               <h2 className="text-3xl font-bold font-heading text-gray-900 mb-8 text-center">
-                Frequently Asked Questions
+                {isNl ? 'Veelgestelde Vragen' : 'Frequently Asked Questions'}
               </h2>
 
               <div className="space-y-4">
@@ -274,7 +280,7 @@ export default function ScooterRentalThailandPage({ data }: ScooterGuideProps) {
                   <details key={i} className="bg-white rounded-2xl shadow-md group" open={i === 0}>
                     <summary className="px-6 py-4 cursor-pointer font-semibold text-gray-900 hover:text-thailand-blue transition-colors list-none flex items-center justify-between">
                       {faq.question}
-                      <span className="text-gray-400 group-open:rotate-180 transition-transform">▼</span>
+                      <span className="text-gray-400 group-open:rotate-180 transition-transform">\u25BC</span>
                     </summary>
                     <div className="px-6 pb-4 text-gray-600">
                       {faq.answer}
@@ -289,31 +295,45 @@ export default function ScooterRentalThailandPage({ data }: ScooterGuideProps) {
         {/* CTA */}
         <section className="bg-surface-dark py-12">
           <div className="container-custom">
-            <p className="font-script text-thailand-gold text-center mb-2">Explore More</p>
-            <h2 className="text-3xl font-bold font-heading text-white text-center mb-3">Plan Your Thailand Trip</h2>
+            <p className="font-script text-thailand-gold text-center mb-2">{isNl ? 'Ontdek Meer' : 'Explore More'}</p>
+            <h2 className="text-3xl font-bold font-heading text-white text-center mb-3">
+              {isNl ? 'Plan Je Thailand Reis' : 'Plan Your Thailand Trip'}
+            </h2>
             <p className="text-white/80 text-center mb-8 max-w-2xl mx-auto">
-              Got your scooter sorted? Now plan the rest of your adventure.
+              {isNl ? 'Scooter geregeld? Plan nu de rest van je avontuur.' : 'Got your scooter sorted? Now plan the rest of your adventure.'}
             </p>
             <div className="grid md:grid-cols-3 gap-6 max-w-4xl mx-auto">
               <Link href="/itineraries/" className="group">
                 <div className="bg-white rounded-2xl p-6 text-center hover:shadow-xl hover:-translate-y-1 transition-all h-full">
-                  <div className="text-4xl mb-3">🗺️</div>
-                  <h3 className="font-bold font-heading text-lg mb-2 group-hover:text-thailand-blue transition-colors">Itineraries</h3>
-                  <p className="text-gray-600 text-sm">Day-by-day travel plans for 3 to 14 days</p>
+                  <div className="text-4xl mb-3">\uD83D\uDDFA\uFE0F</div>
+                  <h3 className="font-bold font-heading text-lg mb-2 group-hover:text-thailand-blue transition-colors">
+                    {isNl ? 'Reisroutes' : 'Itineraries'}
+                  </h3>
+                  <p className="text-gray-600 text-sm">
+                    {isNl ? 'Dag-voor-dag reisplannen van 3 tot 14 dagen' : 'Day-by-day travel plans for 3 to 14 days'}
+                  </p>
                 </div>
               </Link>
               <Link href="/travel-guides/sim-card-thailand/" className="group">
                 <div className="bg-white rounded-2xl p-6 text-center hover:shadow-xl hover:-translate-y-1 transition-all h-full">
-                  <div className="text-4xl mb-3">📱</div>
-                  <h3 className="font-bold font-heading text-lg mb-2 group-hover:text-thailand-blue transition-colors">SIM Card Guide</h3>
-                  <p className="text-gray-600 text-sm">Stay connected with the best SIM & eSIM options</p>
+                  <div className="text-4xl mb-3">\uD83D\uDCF1</div>
+                  <h3 className="font-bold font-heading text-lg mb-2 group-hover:text-thailand-blue transition-colors">
+                    {isNl ? 'SIM Kaart Gids' : 'SIM Card Guide'}
+                  </h3>
+                  <p className="text-gray-600 text-sm">
+                    {isNl ? 'Blijf verbonden met de beste SIM & eSIM opties' : 'Stay connected with the best SIM & eSIM options'}
+                  </p>
                 </div>
               </Link>
               <Link href="/travel-insurance-thailand/" className="group">
                 <div className="bg-white rounded-2xl p-6 text-center hover:shadow-xl hover:-translate-y-1 transition-all h-full">
-                  <div className="text-4xl mb-3">🛡️</div>
-                  <h3 className="font-bold font-heading text-lg mb-2 group-hover:text-thailand-blue transition-colors">Travel Insurance</h3>
-                  <p className="text-gray-600 text-sm">Protect yourself with motorcycle-friendly policies</p>
+                  <div className="text-4xl mb-3">\uD83D\uDEE1\uFE0F</div>
+                  <h3 className="font-bold font-heading text-lg mb-2 group-hover:text-thailand-blue transition-colors">
+                    {isNl ? 'Reisverzekering' : 'Travel Insurance'}
+                  </h3>
+                  <p className="text-gray-600 text-sm">
+                    {isNl ? 'Bescherm jezelf met motorvriendelijke polissen' : 'Protect yourself with motorcycle-friendly policies'}
+                  </p>
                 </div>
               </Link>
             </div>

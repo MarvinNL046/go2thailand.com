@@ -1,13 +1,17 @@
 import { GetStaticProps } from 'next';
 import Link from 'next/link';
+import { useRouter } from 'next/router';
 import SEOHead from '../components/SEOHead';
 import Breadcrumbs from '../components/Breadcrumbs';
 import EmailCapture from '../components/EmailCapture';
 
 export default function ItineraryPillarPage() {
+  const { locale } = useRouter();
+  const isNl = locale === 'nl';
+
   const breadcrumbs = [
     { name: 'Home', href: '/' },
-    { name: 'Thailand Itinerary', href: '/itinerary/' },
+    { name: isNl ? 'Thailand Reisroute' : 'Thailand Itinerary', href: '/itinerary/' },
   ];
 
   const faqItems = [
@@ -71,15 +75,15 @@ export default function ItineraryPillarPage() {
           <div className="container-custom max-w-4xl">
             {/* Table of Contents */}
             <nav className="bg-white rounded-2xl shadow-md p-6 mb-10">
-              <h2 className="text-lg font-bold font-heading text-gray-900 mb-4">In this guide</h2>
+              <h2 className="text-lg font-bold font-heading text-gray-900 mb-4">{isNl ? 'In deze gids' : 'In this guide'}</h2>
               <ul className="grid grid-cols-1 md:grid-cols-2 gap-2 text-sm">
-                <li><a href="#7-day" className="text-thailand-blue hover:underline">7-Day Itinerary (Bangkok + Islands)</a></li>
-                <li><a href="#10-day" className="text-thailand-blue hover:underline">10-Day Itinerary (North + South)</a></li>
-                <li><a href="#2-week" className="text-thailand-blue hover:underline">2-Week Itinerary (The Classic Route)</a></li>
-                <li><a href="#3-4-week" className="text-thailand-blue hover:underline">3-4 Week Itinerary (Deep Dive)</a></li>
-                <li><a href="#by-interest" className="text-thailand-blue hover:underline">Itineraries by Interest</a></li>
-                <li><a href="#transport" className="text-thailand-blue hover:underline">Getting Between Destinations</a></li>
-                <li><a href="#faq" className="text-thailand-blue hover:underline">Itinerary FAQs</a></li>
+                <li><a href="#7-day" className="text-thailand-blue hover:underline">{isNl ? '7-Daagse Reisroute (Bangkok + Eilanden)' : '7-Day Itinerary (Bangkok + Islands)'}</a></li>
+                <li><a href="#10-day" className="text-thailand-blue hover:underline">{isNl ? '10-Daagse Reisroute (Noord + Zuid)' : '10-Day Itinerary (North + South)'}</a></li>
+                <li><a href="#2-week" className="text-thailand-blue hover:underline">{isNl ? '2-Weken Reisroute (De Klassieke Route)' : '2-Week Itinerary (The Classic Route)'}</a></li>
+                <li><a href="#3-4-week" className="text-thailand-blue hover:underline">{isNl ? '3-4 Weken Reisroute (Uitgebreid)' : '3-4 Week Itinerary (Deep Dive)'}</a></li>
+                <li><a href="#by-interest" className="text-thailand-blue hover:underline">{isNl ? 'Reisroutes per Interesse' : 'Itineraries by Interest'}</a></li>
+                <li><a href="#transport" className="text-thailand-blue hover:underline">{isNl ? 'Vervoer Tussen Bestemmingen' : 'Getting Between Destinations'}</a></li>
+                <li><a href="#faq" className="text-thailand-blue hover:underline">{isNl ? 'Reisroute FAQ\'s' : 'Itinerary FAQs'}</a></li>
               </ul>
             </nav>
 
@@ -581,7 +585,7 @@ export default function ItineraryPillarPage() {
 
             {/* Cross-links to other pillar pages */}
             <section className="bg-white rounded-2xl shadow-md p-6 mt-8">
-              <h2 className="text-xl font-bold font-heading text-gray-900 mb-4">Explore More Thailand Guides</h2>
+              <h2 className="text-xl font-bold font-heading text-gray-900 mb-4">{isNl ? 'Ontdek Meer Thailand Gidsen' : 'Explore More Thailand Guides'}</h2>
               <div className="grid grid-cols-2 md:grid-cols-4 gap-3">
                 <Link href="/thailand-travel-guide/" className="p-4 bg-surface-cream rounded-xl hover:shadow-md transition-all text-center">
                   <div className="font-semibold text-gray-900 text-sm">Travel Guide</div>

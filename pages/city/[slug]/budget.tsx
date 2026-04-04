@@ -1,4 +1,5 @@
 import { GetStaticProps, GetStaticPaths } from 'next';
+import { useRouter } from 'next/router';
 import Link from 'next/link';
 import { getCityBySlug, getCityStaticPaths, generateCityMetadata, generateBreadcrumbs } from '../../../lib/cities';
 import Breadcrumbs from '../../../components/Breadcrumbs';
@@ -82,15 +83,24 @@ function stripMoneyMentions(text: string | undefined | null): string {
 }
 
 export default function CityBudgetPage({ city, budgetGuide, budgetReality, budgetInfo }: CityBudgetPageProps) {
-  if (!city) return <div>City not found</div>;
+  const { locale } = useRouter();
+  const isNl = locale === 'nl';
+  const lang = isNl ? 'nl' : 'en';
 
+  if (!city) return <div>{isNl ? 'Stad niet gevonden' : 'City not found'}</div>;
+
+  const cityName = city.name[lang] || city.name.en;
   const breadcrumbs = generateBreadcrumbs(city, 'budget');
   const baseMetadata = generateCityMetadata(city, 'budget');
 
   const metadata = {
     ...baseMetadata,
-    title: `Cost of Travel in ${city.name.en} 2026 — Daily Budget Guide`,
-    description: `A practical budget guide for ${city.name.en}, including daily spending patterns, cost pressure points, and smarter ways to plan transport, hotels, and meals.`,
+    title: isNl
+      ? `Reiskosten in ${cityName} 2026 — Dagelijks Budget Gids`
+      : `Cost of Travel in ${cityName} 2026 — Daily Budget Guide`,
+    description: isNl
+      ? `Een praktische budgetgids voor ${cityName}, inclusief dagelijkse uitgavenpatronen, kostenaandachtspunten en slimmere manieren om transport, hotels en maaltijden te plannen.`
+      : `A practical budget guide for ${cityName}, including daily spending patterns, cost pressure points, and smarter ways to plan transport, hotels, and meals.`,
   };
   const budgetRealityObj = typeof budgetReality === 'object' && budgetReality !== null ? budgetReality : null;
   const budgetRealityText = stripMoneyMentions(typeof budgetReality === 'string' ? budgetReality : budgetInfo?.notes || '');
@@ -105,7 +115,14 @@ export default function CityBudgetPage({ city, budgetGuide, budgetReality, budge
     : null;
 
   // Generic money-saving tips as fallback
-  const genericTips = [
+  const genericTips = isNl ? [
+    'Eet bij lokale straateettentjes en markten in plaats van toeristenrestaurants',
+    'Gebruik het openbaar vervoer of huur een scooter in plaats van taxi\'s',
+    'Bezoek tempels en parken die vaak gratis of goedkoop zijn',
+    'Boek accommodatie van tevoren voor betere prijzen, vooral tijdens het hoogseizoen',
+    'Drink water van hervulstations of koop grote flessen bij 7-Eleven',
+    'Onderhandel over prijzen op markten, maar doe dit altijd respectvol',
+  ] : [
     'Eat at local street food stalls and markets instead of tourist restaurants',
     'Use public transportation or rent a scooter instead of taxis',
     'Visit temples and parks which are often free or low-cost',
@@ -125,7 +142,9 @@ export default function CityBudgetPage({ city, budgetGuide, budgetReality, budge
         description={metadata.description}
       >
         <meta name="robots" content="noindex, follow" />
-        <meta name="keywords" content={`${city.name.en} cost, ${city.name.en} budget, how much does ${city.name.en} cost, ${city.name.en} daily budget, ${city.name.en} travel cost 2026`} />
+        <meta name="keywords" content={isNl
+          ? `${cityName} kosten, ${cityName} budget, hoeveel kost ${cityName}, ${cityName} dagelijks budget, ${cityName} reiskosten 2026`
+          : `${cityName} cost, ${cityName} budget, how much does ${cityName} cost, ${cityName} daily budget, ${cityName} travel cost 2026`} />
         <script
           type="application/ld+json"
           dangerouslySetInnerHTML={{
@@ -166,10 +185,12 @@ export default function CityBudgetPage({ city, budgetGuide, budgetReality, budge
             <Breadcrumbs items={breadcrumbs} />
             <div className="text-center">
               <h1 className="text-4xl lg:text-5xl font-bold font-heading text-gray-900 mb-4">
-                How Much Does {city.name.en} Cost?
+                {isNl ? `Hoeveel Kost ${cityName}?` : `How Much Does ${cityName} Cost?`}
               </h1>
               <p className="text-xl text-gray-600 max-w-3xl mx-auto">
-                A practical guide to daily spending in {city.name.en}, including where costs usually stay low and where they rise fastest.
+                {isNl
+                  ? `Een praktische gids voor dagelijkse uitgaven in ${cityName}, inclusief waar kosten laag blijven en waar ze het snelst stijgen.`
+                  : `A practical guide to daily spending in ${cityName}, including where costs usually stay low and where they rise fastest.`}
               </p>
             </div>
           </div>
@@ -179,7 +200,7 @@ export default function CityBudgetPage({ city, budgetGuide, budgetReality, budge
           <section className="section-padding pt-8">
             <div className="container-custom">
               <CitySupportSources
-                cityName={city.name.en}
+                cityName={cityName}
                 contentSources={city.contentSources}
                 reviewedBy={city.reviewed_by}
                 reviewedAt={city.reviewed_at}
@@ -200,7 +221,7 @@ export default function CityBudgetPage({ city, budgetGuide, budgetReality, budge
                 {(budgetGuide || dailyBudgetInfo) && (
                 <div>
                   <h2 className="text-3xl font-bold font-heading text-gray-900 mb-8 text-center">
-                    Daily Budget Overview
+                    {isNl ? 'Dagelijks Budget Overzicht' : 'Daily Budget Overview'}
                   </h2>
                   <div className="grid grid-cols-1 md:grid-cols-3 gap-6">
                     {/* Budget Card */}
@@ -213,9 +234,13 @@ export default function CityBudgetPage({ city, budgetGuide, budgetReality, budge
                         </div>
                         <h3 className="text-xl font-bold font-heading text-green-800">Budget</h3>
                         <p className="text-2xl font-bold text-green-600 mt-2">
-                          {budgetGuide ? 'Lower daily spend' : 'Budget style'}
+                          {budgetGuide
+                            ? (isNl ? 'Lagere dagelijkse uitgaven' : 'Lower daily spend')
+                            : (isNl ? 'Budget stijl' : 'Budget style')}
                         </p>
-                        <p className="text-sm text-green-700 font-medium">{budgetGuide ? 'Best for simpler planning' : 'travel style'}</p>
+                        <p className="text-sm text-green-700 font-medium">{budgetGuide
+                          ? (isNl ? 'Ideaal voor eenvoudige planning' : 'Best for simpler planning')
+                          : (isNl ? 'reisstijl' : 'travel style')}</p>
                       </div>
                       <p className="text-gray-700 text-sm leading-relaxed">
                         {cleanedBudgetDescriptions ? cleanedBudgetDescriptions.budget : 'Use this as a rough planning lane rather than a quoted rate.'}
@@ -230,11 +255,15 @@ export default function CityBudgetPage({ city, budgetGuide, budgetReality, budge
                             <path strokeLinecap="round" strokeLinejoin="round" strokeWidth="2" d="M3 10h18M7 15h1m4 0h1m-7 4h12a3 3 0 003-3V8a3 3 0 00-3-3H6a3 3 0 00-3 3v8a3 3 0 003 3z" />
                           </svg>
                         </div>
-                        <h3 className="text-xl font-bold font-heading text-blue-800">Mid-Range</h3>
+                        <h3 className="text-xl font-bold font-heading text-blue-800">{isNl ? 'Midden Klasse' : 'Mid-Range'}</h3>
                         <p className="text-2xl font-bold text-blue-600 mt-2">
-                          {budgetGuide ? 'Balanced daily spend' : 'Mid-range style'}
+                          {budgetGuide
+                            ? (isNl ? 'Gebalanceerde dagelijkse uitgaven' : 'Balanced daily spend')
+                            : (isNl ? 'Midden klasse stijl' : 'Mid-range style')}
                         </p>
-                        <p className="text-sm text-blue-700 font-medium">{budgetGuide ? 'Good balance of comfort and value' : 'travel style'}</p>
+                        <p className="text-sm text-blue-700 font-medium">{budgetGuide
+                          ? (isNl ? 'Goede balans tussen comfort en waarde' : 'Good balance of comfort and value')
+                          : (isNl ? 'reisstijl' : 'travel style')}</p>
                       </div>
                       <p className="text-gray-700 text-sm leading-relaxed">
                         {cleanedBudgetDescriptions ? cleanedBudgetDescriptions.midrange : 'Use this as a rough planning lane rather than a quoted rate.'}
@@ -249,11 +278,17 @@ export default function CityBudgetPage({ city, budgetGuide, budgetReality, budge
                             <path strokeLinecap="round" strokeLinejoin="round" strokeWidth="2" d="M5 3v4M3 5h4M6 17v4m-2-2h4m5-16l2.286 6.857L21 12l-5.714 2.143L13 21l-2.286-6.857L5 12l5.714-2.143L13 3z" />
                           </svg>
                         </div>
-                        <h3 className="text-xl font-bold font-heading text-purple-800">{budgetGuide ? 'Luxury' : 'Higher Spend'}</h3>
+                        <h3 className="text-xl font-bold font-heading text-purple-800">{budgetGuide
+                          ? (isNl ? 'Luxe' : 'Luxury')
+                          : (isNl ? 'Hogere Uitgaven' : 'Higher Spend')}</h3>
                         <p className="text-2xl font-bold text-purple-600 mt-2">
-                          {budgetGuide ? 'Higher-comfort spend' : 'Higher Spend'}
+                          {budgetGuide
+                            ? (isNl ? 'Hoger comfort uitgaven' : 'Higher-comfort spend')
+                            : (isNl ? 'Hogere Uitgaven' : 'Higher Spend')}
                         </p>
-                        <p className="text-sm text-purple-700 font-medium">{budgetGuide ? 'More room for premium choices' : 'travel style'}</p>
+                        <p className="text-sm text-purple-700 font-medium">{budgetGuide
+                          ? (isNl ? 'Meer ruimte voor premium keuzes' : 'More room for premium choices')
+                          : (isNl ? 'reisstijl' : 'travel style')}</p>
                       </div>
                       <p className="text-gray-700 text-sm leading-relaxed">
                         {cleanedBudgetDescriptions ? cleanedBudgetDescriptions.luxury : 'Use this as a rough planning lane rather than a quoted rate.'}
@@ -266,7 +301,7 @@ export default function CityBudgetPage({ city, budgetGuide, budgetReality, budge
                 {budgetRealityText && (
                   <div className="bg-white rounded-2xl shadow-md p-6 md:p-8">
                     <h2 className="text-3xl font-bold font-heading text-gray-900 mb-4 text-center">
-                      Cost Reality in {city.name.en}
+                      {isNl ? `Kosten Realiteit in ${cityName}` : `Cost Reality in ${cityName}`}
                     </h2>
                     <p className="text-gray-700 leading-relaxed text-center max-w-4xl mx-auto">
                       {budgetRealityText}
@@ -277,7 +312,7 @@ export default function CityBudgetPage({ city, budgetGuide, budgetReality, budge
                 {/* Money-Saving Tips */}
                 <div>
                   <h2 className="text-3xl font-bold font-heading text-gray-900 mb-8 text-center">
-                    Money-Saving Tips for {city.name.en}
+                    {isNl ? `Bespaartips voor ${cityName}` : `Money-Saving Tips for ${cityName}`}
                   </h2>
                   <div className="bg-white rounded-2xl shadow-md p-6 md:p-8">
                     <ul className="space-y-4">
@@ -299,11 +334,13 @@ export default function CityBudgetPage({ city, budgetGuide, budgetReality, budge
                 {budgetRealityObj?.where_to_splurge && budgetRealityObj.where_to_splurge.length > 0 && (
                   <div>
                     <h2 className="text-3xl font-bold font-heading text-gray-900 mb-8 text-center">
-                      Where to Splurge in {city.name.en}
+                      {isNl ? `Waar Uitpakken in ${cityName}` : `Where to Splurge in ${cityName}`}
                     </h2>
                     <div className="bg-surface-cream border-0 rounded-2xl p-6 md:p-8">
                       <p className="text-gray-600 mb-6 text-center">
-                        Some experiences in {city.name.en} are worth spending a little extra on. Here are the main areas to consider.
+                        {isNl
+                          ? `Sommige ervaringen in ${cityName} zijn het waard om iets extra's aan uit te geven. Dit zijn de belangrijkste gebieden om te overwegen.`
+                          : `Some experiences in ${cityName} are worth spending a little extra on. Here are the main areas to consider.`}
                       </p>
                       <div className="grid grid-cols-1 md:grid-cols-2 gap-4">
                         {budgetRealityObj.where_to_splurge.map((item, index) => (
@@ -325,11 +362,13 @@ export default function CityBudgetPage({ city, budgetGuide, budgetReality, budge
                 {budgetRealityObj?.hidden_costs && budgetRealityObj.hidden_costs.length > 0 && (
                   <div>
                     <h2 className="text-3xl font-bold font-heading text-gray-900 mb-8 text-center">
-                      Hidden Costs to Watch For
+                      {isNl ? 'Verborgen Kosten om Op te Letten' : 'Hidden Costs to Watch For'}
                     </h2>
                     <div className="bg-surface-cream border-0 rounded-2xl p-6 md:p-8">
                       <p className="text-gray-600 mb-6 text-center">
-                        Be aware of these common unexpected expenses when visiting {city.name.en}.
+                        {isNl
+                          ? `Let op deze veelvoorkomende onverwachte kosten bij een bezoek aan ${cityName}.`
+                          : `Be aware of these common unexpected expenses when visiting ${cityName}.`}
                       </p>
                       <ul className="space-y-3">
                         {budgetRealityObj.hidden_costs.map((cost, index) => (
@@ -358,13 +397,15 @@ export default function CityBudgetPage({ city, budgetGuide, budgetReality, budge
                     </svg>
                   </div>
                   <h3 className="text-2xl font-bold font-heading text-gray-900 mb-4">
-                    {city.name.en} Budget Guide
+                    {isNl ? `${cityName} Budget Gids` : `${cityName} Budget Guide`}
                   </h3>
                   <p className="text-gray-600 mb-6">
-                    A detailed budget breakdown for {city.name.en} is being prepared. Browse our city overview for general travel costs and tips.
+                    {isNl
+                      ? `Een gedetailleerde budgetoverzicht voor ${cityName} wordt voorbereid. Bekijk ons stadsoverzicht voor algemene reiskosten en tips.`
+                      : `A detailed budget breakdown for ${cityName} is being prepared. Browse our city overview for general travel costs and tips.`}
                   </p>
                   <Link href={`/city/${city.slug}/`} className="btn-primary">
-                    ← Back to {city.name.en}
+                    {isNl ? `← Terug naar ${cityName}` : `← Back to ${cityName}`}
                   </Link>
                 </div>
               </div>
@@ -373,23 +414,25 @@ export default function CityBudgetPage({ city, budgetGuide, budgetReality, budge
             {/* Related Guides */}
             <div className="bg-white rounded-2xl shadow-md p-8 mt-12 mb-8">
               <h3 className="text-2xl font-bold font-heading text-gray-900 mb-4 text-center">
-                Related Guides for {city.name.en}
+                {isNl ? `Gerelateerde Gidsen voor ${cityName}` : `Related Guides for ${cityName}`}
               </h3>
               <p className="text-gray-600 text-center mb-6">
-                Use these internal guides to compare where money typically goes on a trip like this.
+                {isNl
+                  ? 'Gebruik deze interne gidsen om te vergelijken waar het geld doorgaans naartoe gaat op zo\'n reis.'
+                  : 'Use these internal guides to compare where money typically goes on a trip like this.'}
               </p>
               <div className="flex flex-col sm:flex-row gap-4 justify-center">
                 <Link
                   href={`/city/${city.slug}/hotels/`}
                   className="inline-flex items-center justify-center px-8 py-3 bg-thailand-blue text-white font-semibold rounded-xl hover:bg-thailand-blue-600 transition-colors"
                 >
-                  Compare Hotel Areas
+                  {isNl ? 'Vergelijk Hotelgebieden' : 'Compare Hotel Areas'}
                 </Link>
                 <Link
                   href={`/city/${city.slug}/food/`}
                   className="inline-flex items-center justify-center px-8 py-3 bg-thailand-blue text-white font-semibold rounded-xl hover:bg-thailand-blue-600 transition-colors"
                 >
-                  Compare Dining Choices
+                  {isNl ? 'Vergelijk Eetgelegenheden' : 'Compare Dining Choices'}
                 </Link>
               </div>
             </div>
@@ -397,7 +440,7 @@ export default function CityBudgetPage({ city, budgetGuide, budgetReality, budge
             {/* Explore More */}
             <div className="bg-white rounded-2xl shadow-md p-8">
               <h3 className="text-2xl font-bold font-heading text-gray-900 mb-6 text-center">
-                Explore More of {city.name.en}
+                {isNl ? `Ontdek Meer van ${cityName}` : `Explore More of ${cityName}`}
               </h3>
               <div className="grid grid-cols-1 md:grid-cols-3 gap-4">
                 <Link href={`/city/${city.slug}/hotels/`} className="flex items-center p-4 border-0 bg-surface-cream rounded-2xl hover:shadow-md transition-all duration-300">
@@ -407,8 +450,8 @@ export default function CityBudgetPage({ city, budgetGuide, budgetReality, budge
                     </svg>
                   </div>
                   <div>
-                    <h4 className="font-semibold text-gray-900">Hotels & Stay</h4>
-                    <p className="text-gray-600 text-sm">Find accommodation</p>
+                    <h4 className="font-semibold text-gray-900">{isNl ? 'Hotels & Verblijf' : 'Hotels & Stay'}</h4>
+                    <p className="text-gray-600 text-sm">{isNl ? 'Vind accommodatie' : 'Find accommodation'}</p>
                   </div>
                 </Link>
                 <Link href={`/city/${city.slug}/food/`} className="flex items-center p-4 border-0 bg-surface-cream rounded-2xl hover:shadow-md transition-all duration-300">
@@ -418,8 +461,8 @@ export default function CityBudgetPage({ city, budgetGuide, budgetReality, budge
                     </svg>
                   </div>
                   <div>
-                    <h4 className="font-semibold text-gray-900">Food & Dining</h4>
-                    <p className="text-gray-600 text-sm">Discover local cuisine</p>
+                    <h4 className="font-semibold text-gray-900">{isNl ? 'Eten & Restaurants' : 'Food & Dining'}</h4>
+                    <p className="text-gray-600 text-sm">{isNl ? 'Ontdek de lokale keuken' : 'Discover local cuisine'}</p>
                   </div>
                 </Link>
                 <Link href={`/city/${city.slug}/attractions/`} className="flex items-center p-4 border-0 bg-surface-cream rounded-2xl hover:shadow-md transition-all duration-300">
@@ -429,12 +472,12 @@ export default function CityBudgetPage({ city, budgetGuide, budgetReality, budge
                     </svg>
                   </div>
                   <div>
-                    <h4 className="font-semibold text-gray-900">Attractions</h4>
-                    <p className="text-gray-600 text-sm">See top attractions</p>
+                    <h4 className="font-semibold text-gray-900">{isNl ? 'Bezienswaardigheden' : 'Attractions'}</h4>
+                    <p className="text-gray-600 text-sm">{isNl ? 'Bekijk top bezienswaardigheden' : 'See top attractions'}</p>
                   </div>
                 </Link>
               </div>
-            <CityExploreMore citySlug={city.slug} cityName={city.name.en} currentPage="budget" />
+            <CityExploreMore citySlug={city.slug} cityName={cityName} currentPage="budget" />
             </div>
           </div>
         </section>

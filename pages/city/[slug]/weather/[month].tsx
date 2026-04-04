@@ -1,5 +1,6 @@
 import React from 'react';
 import { GetStaticPaths, GetStaticProps } from 'next';
+import { useRouter } from 'next/router';
 import Link from 'next/link';
 import Breadcrumbs from '../../../../components/Breadcrumbs';
 import TripcomWidget from '../../../../components/TripcomWidget';
@@ -32,7 +33,7 @@ interface CityWeatherPageProps {
   allMonths: { slug: string; name: string }[];
 }
 
-const monthNames = {
+const monthNamesEN: Record<string, string> = {
   'january': 'January',
   'february': 'February',
   'march': 'March',
@@ -47,6 +48,21 @@ const monthNames = {
   'december': 'December'
 };
 
+const monthNamesNL: Record<string, string> = {
+  'january': 'Januari',
+  'february': 'Februari',
+  'march': 'Maart',
+  'april': 'April',
+  'may': 'Mei',
+  'june': 'Juni',
+  'july': 'Juli',
+  'august': 'Augustus',
+  'september': 'September',
+  'october': 'Oktober',
+  'november': 'November',
+  'december': 'December'
+};
+
 const CityWeatherPage: React.FC<CityWeatherPageProps> = ({
   city,
   month,
@@ -56,35 +72,48 @@ const CityWeatherPage: React.FC<CityWeatherPageProps> = ({
   nextMonth,
   allMonths
 }) => {
+  const { locale } = useRouter();
+  const isNl = locale === 'nl';
+  const lang = isNl ? 'nl' : 'en';
+  const monthNamesLocale = isNl ? monthNamesNL : monthNamesEN;
+  const cityName = city.name[lang] || city.name.en;
+  const localMonthName = monthNamesLocale[month] || monthName;
+
   const breadcrumbs = [
     { name: 'Home', href: '/' },
-    { name: city.name.en, href: `/city/${city.slug}` },
-    { name: 'Weather', href: `/city/${city.slug}/weather` },
-    { name: monthName, href: `/city/${city.slug}/weather/${month}` }
+    { name: cityName, href: `/city/${city.slug}` },
+    { name: isNl ? 'Weer' : 'Weather', href: `/city/${city.slug}/weather` },
+    { name: localMonthName, href: `/city/${city.slug}/weather/${month}` }
   ];
 
   return (
     <div className="min-h-screen bg-surface-cream">
       <SEOHead
-        title={`${city.name.en} Weather in ${monthName} 2026: Temperatures, Rain & Travel Tips`}
-        description={`${city.name.en} in ${monthName}: ${weatherData.temperature.high}°C highs, ${weatherData.rainfall}mm rain & ${weatherData.humidity}% humidity. Is it worth visiting? Packing tips inside.`}
+        title={isNl
+          ? `${cityName} Weer in ${localMonthName} 2026: Temperaturen, Regen & Reistips`
+          : `${cityName} Weather in ${monthName} 2026: Temperatures, Rain & Travel Tips`}
+        description={isNl
+          ? `${cityName} in ${localMonthName}: ${weatherData.temperature.high}°C max, ${weatherData.rainfall}mm regen & ${weatherData.humidity}% luchtvochtigheid. Is het de moeite waard om te bezoeken? Inpaktips inbegrepen.`
+          : `${cityName} in ${monthName}: ${weatherData.temperature.high}°C highs, ${weatherData.rainfall}mm rain & ${weatherData.humidity}% humidity. Is it worth visiting? Packing tips inside.`}
       >
         <meta name="robots" content="noindex, follow" />
-        <meta name="keywords" content={`${city.name.en} weather ${monthName}, ${city.name.en} temperature ${monthName}, ${city.name.en} rainfall ${monthName}, ${city.name.en} climate ${monthName}, visit ${city.name.en} ${monthName}`} />
+        <meta name="keywords" content={isNl
+          ? `${cityName} weer ${localMonthName}, ${cityName} temperatuur ${localMonthName}, ${cityName} regenval ${localMonthName}, ${cityName} klimaat ${localMonthName}, ${cityName} bezoeken ${localMonthName}`
+          : `${cityName} weather ${monthName}, ${cityName} temperature ${monthName}, ${cityName} rainfall ${monthName}, ${cityName} climate ${monthName}, visit ${cityName} ${monthName}`} />
       </SEOHead>
 
       <main className="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8 py-8">
         <Breadcrumbs items={breadcrumbs} />
 
         <h1 className="text-4xl font-bold font-heading text-gray-900 mb-8">
-          {city.name.en} Weather in {monthName}
+          {isNl ? `${cityName} Weer in ${localMonthName}` : `${cityName} Weather in ${monthName}`}
         </h1>
 
         <div className="grid grid-cols-1 lg:grid-cols-3 gap-8">
           <div className="lg:col-span-2">
             {/* Weather Overview */}
             <section className="bg-white rounded-2xl shadow-md p-6 mb-8">
-              <h2 className="text-2xl font-bold font-heading mb-4">Weather Overview</h2>
+              <h2 className="text-2xl font-bold font-heading mb-4">{isNl ? 'Weeroverzicht' : 'Weather Overview'}</h2>
               <p className="text-gray-700 mb-6">{weatherData.description}</p>
 
               <div className="grid grid-cols-2 md:grid-cols-4 gap-4">
@@ -92,25 +121,25 @@ const CityWeatherPage: React.FC<CityWeatherPageProps> = ({
                   <div className="text-3xl font-bold text-blue-600">
                     {weatherData.temperature.high}°C
                   </div>
-                  <div className="text-sm text-gray-600">Avg High</div>
+                  <div className="text-sm text-gray-600">{isNl ? 'Gem. Max' : 'Avg High'}</div>
                 </div>
                 <div className="text-center p-4 bg-blue-50 rounded-lg">
                   <div className="text-3xl font-bold text-blue-600">
                     {weatherData.temperature.low}°C
                   </div>
-                  <div className="text-sm text-gray-600">Avg Low</div>
+                  <div className="text-sm text-gray-600">{isNl ? 'Gem. Min' : 'Avg Low'}</div>
                 </div>
                 <div className="text-center p-4 bg-gray-50 rounded-lg">
                   <div className="text-3xl font-bold text-gray-600">
                     {weatherData.rainfall}mm
                   </div>
-                  <div className="text-sm text-gray-600">Rainfall</div>
+                  <div className="text-sm text-gray-600">{isNl ? 'Regenval' : 'Rainfall'}</div>
                 </div>
                 <div className="text-center p-4 bg-gray-50 rounded-lg">
                   <div className="text-3xl font-bold text-gray-600">
                     {weatherData.humidity}%
                   </div>
-                  <div className="text-sm text-gray-600">Humidity</div>
+                  <div className="text-sm text-gray-600">{isNl ? 'Luchtvochtigheid' : 'Humidity'}</div>
                 </div>
               </div>
 
@@ -119,7 +148,7 @@ const CityWeatherPage: React.FC<CityWeatherPageProps> = ({
                   <div className="text-2xl font-bold text-cyan-600">
                     {weatherData.seaTemperature}°C
                   </div>
-                  <div className="text-sm text-gray-600">Sea Temperature</div>
+                  <div className="text-sm text-gray-600">{isNl ? 'Zeetemperatuur' : 'Sea Temperature'}</div>
                 </div>
               )}
             </section>
@@ -127,10 +156,10 @@ const CityWeatherPage: React.FC<CityWeatherPageProps> = ({
 
             {/* Pros and Cons */}
             <section className="bg-white rounded-2xl shadow-md p-6 mb-8">
-              <h2 className="text-2xl font-bold font-heading mb-4">Pros & Cons of Visiting in {monthName}</h2>
+              <h2 className="text-2xl font-bold font-heading mb-4">{isNl ? `Voor- & Nadelen van een Bezoek in ${localMonthName}` : `Pros & Cons of Visiting in ${monthName}`}</h2>
               <div className="grid md:grid-cols-2 gap-6">
                 <div>
-                  <h3 className="text-lg font-semibold font-heading text-green-600 mb-3">Advantages</h3>
+                  <h3 className="text-lg font-semibold font-heading text-green-600 mb-3">{isNl ? 'Voordelen' : 'Advantages'}</h3>
                   <ul className="space-y-2">
                     {weatherData.pros.map((pro, index) => (
                       <li key={index} className="flex items-start">
@@ -141,7 +170,7 @@ const CityWeatherPage: React.FC<CityWeatherPageProps> = ({
                   </ul>
                 </div>
                 <div>
-                  <h3 className="text-lg font-semibold font-heading text-red-600 mb-3">Considerations</h3>
+                  <h3 className="text-lg font-semibold font-heading text-red-600 mb-3">{isNl ? 'Aandachtspunten' : 'Considerations'}</h3>
                   <ul className="space-y-2">
                     {weatherData.cons.map((con, index) => (
                       <li key={index} className="flex items-start">
@@ -157,7 +186,7 @@ const CityWeatherPage: React.FC<CityWeatherPageProps> = ({
             {/* Events and Festivals */}
             {weatherData.events.length > 0 && (
               <section className="bg-white rounded-2xl shadow-md p-6 mb-8">
-                <h2 className="text-2xl font-bold font-heading mb-4">Events & Festivals</h2>
+                <h2 className="text-2xl font-bold font-heading mb-4">{isNl ? 'Evenementen & Festivals' : 'Events & Festivals'}</h2>
                 <ul className="space-y-3">
                   {weatherData.events.map((event, index) => (
                     <li key={index} className="flex items-start">
@@ -172,10 +201,12 @@ const CityWeatherPage: React.FC<CityWeatherPageProps> = ({
             {/* Book Your Trip - Affiliate CTA */}
             <div className="bg-surface-cream rounded-2xl shadow-md p-6 mb-8">
               <h3 className="text-xl font-bold font-heading text-gray-900 mb-3 text-center">
-                Book Your Trip to {city.name.en}
+                {isNl ? `Boek Je Reis naar ${cityName}` : `Book Your Trip to ${cityName}`}
               </h3>
               <p className="text-sm text-gray-600 text-center mb-4">
-                Plan your {monthName} visit with the best deals on hotels and transport.
+                {isNl
+                  ? `Plan je bezoek in ${localMonthName} met de beste deals voor hotels en transport.`
+                  : `Plan your ${monthName} visit with the best deals on hotels and transport.`}
               </p>
               <div className="flex flex-col sm:flex-row gap-4">
                 <a
@@ -187,7 +218,7 @@ const CityWeatherPage: React.FC<CityWeatherPageProps> = ({
                   <svg className="w-5 h-5 mr-2" fill="none" stroke="currentColor" viewBox="0 0 24 24">
                     <path strokeLinecap="round" strokeLinejoin="round" strokeWidth="2" d="M19 21V5a2 2 0 00-2-2H7a2 2 0 00-2 2v16m14 0h2m-2 0h-5m-9 0H3m2 0h5M9 7h1m-1 4h1m4-4h1m-1 4h1m-5 10v-5a1 1 0 011-1h2a1 1 0 011 1v5m-4 0h4" />
                   </svg>
-                  Hotels on Trip.com
+                  {isNl ? 'Hotels op Trip.com' : 'Hotels on Trip.com'}
                 </a>
                 <a
                   href="https://12go.tpo.lv/tNA80urD?subid=city-weather"
@@ -198,11 +229,13 @@ const CityWeatherPage: React.FC<CityWeatherPageProps> = ({
                   <svg className="w-5 h-5 mr-2" fill="none" stroke="currentColor" viewBox="0 0 24 24">
                     <path strokeLinecap="round" strokeLinejoin="round" strokeWidth="2" d="M8 7h12m0 0l-4-4m4 4l-4 4m0 6H4m0 0l4 4m-4-4l4-4" />
                   </svg>
-                  Transport on 12Go
+                  {isNl ? 'Transport op 12Go' : 'Transport on 12Go'}
                 </a>
               </div>
               <p className="text-xs text-gray-500 text-center mt-3">
-                Affiliate disclosure: We may earn a commission when you book through our partner links, at no extra cost to you.
+                {isNl
+                  ? 'Affiliate melding: We kunnen een commissie verdienen wanneer je boekt via onze partnerlinks, zonder extra kosten voor jou.'
+                  : 'Affiliate disclosure: We may earn a commission when you book through our partner links, at no extra cost to you.'}
               </p>
             </div>
 
@@ -217,7 +250,7 @@ const CityWeatherPage: React.FC<CityWeatherPageProps> = ({
                 <div></div>
               )}
               <Link href={`/city/${city.slug}/weather`} className="text-gray-600 hover:text-gray-800">
-                All Months
+                {isNl ? 'Alle Maanden' : 'All Months'}
               </Link>
               {nextMonth ? (
                 <Link href={`/city/${city.slug}/weather/${nextMonth.slug}`} className="flex items-center text-thailand-red hover:text-thailand-blue">
@@ -235,7 +268,7 @@ const CityWeatherPage: React.FC<CityWeatherPageProps> = ({
             <div className="lg:sticky lg:top-4 space-y-6">
             {/* City Weather Selector */}
             <div className="bg-white rounded-2xl shadow-md p-6">
-              <h3 className="text-lg font-semibold font-heading mb-4">Other Cities Weather</h3>
+              <h3 className="text-lg font-semibold font-heading mb-4">{isNl ? 'Weer in Andere Steden' : 'Other Cities Weather'}</h3>
               <select 
                 className="w-full p-2 border border-gray-300 rounded-lg text-gray-700 focus:outline-none focus:ring-2 focus:ring-thailand-red"
                 value={city.slug}
@@ -256,13 +289,13 @@ const CityWeatherPage: React.FC<CityWeatherPageProps> = ({
 
             {/* Trip.com Widget */}
             <div className="bg-white rounded-2xl shadow-md p-6">
-              <h3 className="text-lg font-semibold font-heading mb-4">Plan Your Trip</h3>
+              <h3 className="text-lg font-semibold font-heading mb-4">{isNl ? 'Plan Je Reis' : 'Plan Your Trip'}</h3>
               <TripcomWidget city={city.name.en} type="hotels" />
             </div>
 
             {/* Monthly Overview */}
             <div className="bg-white rounded-2xl shadow-md p-6">
-              <h3 className="text-lg font-semibold font-heading mb-4">{city.name.en} Weather by Month</h3>
+              <h3 className="text-lg font-semibold font-heading mb-4">{isNl ? `${cityName} Weer per Maand` : `${cityName} Weather by Month`}</h3>
               <div className="grid grid-cols-3 gap-2 text-sm">
                 {allMonths.map((m) => (
                   <Link key={m.slug} href={`/city/${city.slug}/weather/${m.slug}`} className={`text-center p-2 rounded ${
@@ -278,26 +311,26 @@ const CityWeatherPage: React.FC<CityWeatherPageProps> = ({
 
             {/* Related Links */}
             <div className="bg-white rounded-2xl shadow-md p-6">
-              <h3 className="text-lg font-semibold font-heading mb-4">Explore {city.name.en}</h3>
+              <h3 className="text-lg font-semibold font-heading mb-4">{isNl ? `Ontdek ${cityName}` : `Explore ${cityName}`}</h3>
               <ul className="space-y-2">
                 <li>
                   <Link href={`/city/${city.slug}/attractions`} className="text-thailand-red hover:text-thailand-blue">
-                    Top Attractions
+                    {isNl ? 'Top Bezienswaardigheden' : 'Top Attractions'}
                   </Link>
                 </li>
                 <li>
                   <Link href={`/city/${city.slug}/hotels`} className="text-thailand-red hover:text-thailand-blue">
-                    Where to Stay
+                    {isNl ? 'Waar Verblijven' : 'Where to Stay'}
                   </Link>
                 </li>
                 <li>
                   <Link href={`/city/${city.slug}/food`} className="text-thailand-red hover:text-thailand-blue">
-                    Food & Dining
+                    {isNl ? 'Eten & Restaurants' : 'Food & Dining'}
                   </Link>
                 </li>
                 <li>
                   <Link href={`/thailand-in/${month}`} className="text-thailand-red hover:text-thailand-blue">
-                    Thailand in {monthName}
+                    {isNl ? `Thailand in ${localMonthName}` : `Thailand in ${monthName}`}
                   </Link>
                 </li>
               </ul>
@@ -321,7 +354,7 @@ export const getStaticPaths: GetStaticPaths = async () => {
     const monthlyData = cityData.monthly_weather || cityData;
     
     // Only process valid month keys
-    for (const month of Object.keys(monthNames)) {
+    for (const month of Object.keys(monthNamesEN)) {
       if (monthlyData[month]) {
         paths.push({
           params: { slug: citySlug, month }
@@ -373,29 +406,29 @@ export const getStaticProps: GetStaticProps<CityWeatherPageProps> = async ({ par
     };
   }
 
-  const monthsArray = Object.keys(monthNames);
+  const monthsArray = Object.keys(monthNamesEN);
   const currentIndex = monthsArray.indexOf(month);
   
   const prevMonth = currentIndex > 0 ? {
     slug: monthsArray[currentIndex - 1],
-    name: monthNames[monthsArray[currentIndex - 1] as keyof typeof monthNames]
+    name: monthNamesEN[monthsArray[currentIndex - 1]]
   } : null;
   
   const nextMonth = currentIndex < monthsArray.length - 1 ? {
     slug: monthsArray[currentIndex + 1],
-    name: monthNames[monthsArray[currentIndex + 1] as keyof typeof monthNames]
+    name: monthNamesEN[monthsArray[currentIndex + 1]]
   } : null;
 
   const allMonths = monthsArray.map(m => ({
     slug: m,
-    name: monthNames[m as keyof typeof monthNames]
+    name: monthNamesEN[m]
   }));
 
   return {
     props: {
       city,
       month,
-      monthName: monthNames[month as keyof typeof monthNames],
+      monthName: monthNamesEN[month],
       weatherData,
       prevMonth,
       nextMonth,

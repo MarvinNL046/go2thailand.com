@@ -1,5 +1,6 @@
 import { GetStaticPaths, GetStaticProps } from 'next';
 import Link from 'next/link';
+import { useRouter } from 'next/router';
 import SEOHead from '../../components/SEOHead';
 import Breadcrumbs from '../../components/Breadcrumbs';
 import { getAllNews, getNewsBySlug, NewsArticle } from '../../lib/news';
@@ -8,21 +9,25 @@ interface NewsArticlePageProps {
   article: NewsArticle;
 }
 
-const categoryLabels: Record<string, string> = {
-  economy: 'Economy',
-  tourism: 'Tourism',
-  safety: 'Safety',
-  transport: 'Transport',
-  'visa-immigration': 'Visa & Immigration',
-  culture: 'Culture',
-  weather: 'Weather',
-  general: 'General',
+const categoryLabels: Record<string, { en: string; nl: string }> = {
+  economy: { en: 'Economy', nl: 'Economie' },
+  tourism: { en: 'Tourism', nl: 'Toerisme' },
+  safety: { en: 'Safety', nl: 'Veiligheid' },
+  transport: { en: 'Transport', nl: 'Vervoer' },
+  'visa-immigration': { en: 'Visa & Immigration', nl: 'Visum & Immigratie' },
+  culture: { en: 'Culture', nl: 'Cultuur' },
+  weather: { en: 'Weather', nl: 'Weer' },
+  general: { en: 'General', nl: 'Algemeen' },
 };
 
 export default function NewsArticlePage({ article }: NewsArticlePageProps) {
+  const { locale } = useRouter();
+  const isNl = locale === 'nl';
+  const lang = isNl ? 'nl' : 'en';
+
   const breadcrumbs = [
     { name: 'Home', href: '/' },
-    { name: 'Thailand News', href: '/news/' },
+    { name: isNl ? 'Thailand Nieuws' : 'Thailand News', href: '/news/' },
     { name: article.title, href: `/news/${article.slug}/` },
   ];
 
@@ -64,7 +69,7 @@ export default function NewsArticlePage({ article }: NewsArticlePageProps) {
           <header className="mt-4 mb-8">
             <div className="flex items-center gap-3 mb-4">
               <span className="text-sm font-medium px-3 py-1 rounded-full bg-blue-100 text-blue-800">
-                {categoryLabels[article.category] || article.category}
+                {categoryLabels[article.category]?.[lang] || article.category}
               </span>
               <time className="text-sm text-gray-500">{article.date}</time>
             </div>
@@ -73,7 +78,7 @@ export default function NewsArticlePage({ article }: NewsArticlePageProps) {
             </h1>
             {article.source && (
               <p className="mt-3 text-sm text-gray-500">
-                Source:{' '}
+                {isNl ? 'Bron' : 'Source'}:{' '}
                 <a
                   href={article.source.url}
                   target="_blank"
@@ -96,7 +101,7 @@ export default function NewsArticlePage({ article }: NewsArticlePageProps) {
               href="/news/"
               className="text-blue-600 hover:underline font-medium"
             >
-              ← Back to Thailand News
+              &larr; {isNl ? 'Terug naar Thailand Nieuws' : 'Back to Thailand News'}
             </Link>
           </footer>
         </article>

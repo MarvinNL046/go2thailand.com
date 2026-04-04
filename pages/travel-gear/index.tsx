@@ -1,4 +1,5 @@
 import { GetStaticProps } from 'next';
+import { useRouter } from 'next/router';
 import SEOHead from '../../components/SEOHead';
 import Link from 'next/link';
 import Image from 'next/image';
@@ -32,24 +33,32 @@ interface TravelGearPageProps {
 }
 
 export default function TravelGearPage({ gearItems, categories }: TravelGearPageProps) {
+  const { locale } = useRouter();
+  const isNl = locale === 'nl';
   const [selectedCategory, setSelectedCategory] = useState<string>('all');
-  
+
   const breadcrumbs = [
     { name: 'Home', href: '/' },
-    { name: 'Travel Gear', href: '/travel-gear' }
+    { name: isNl ? 'Reisuitrusting' : 'Travel Gear', href: '/travel-gear' }
   ];
 
-  const filteredItems = selectedCategory === 'all' 
-    ? gearItems 
+  const filteredItems = selectedCategory === 'all'
+    ? gearItems
     : gearItems.filter(item => item.category === selectedCategory);
 
   return (
     <>
       <SEOHead
-        title={`Essential Travel Gear for Thailand 2026 | Packing List & Reviews`}
-        description="The ultimate Thailand packing list. Find the best travel gear including backpacks, mosquito repellent, rain gear, and electronics for your Thailand adventure."
+        title={isNl
+          ? 'Essenti\u00eble Reisuitrusting voor Thailand 2026 | Paklijst & Reviews'
+          : 'Essential Travel Gear for Thailand 2026 | Packing List & Reviews'}
+        description={isNl
+          ? 'De ultieme Thailand paklijst. Vind de beste reisuitrusting inclusief rugzakken, muggenspray, regenkleding en elektronica voor je Thailand avontuur.'
+          : 'The ultimate Thailand packing list. Find the best travel gear including backpacks, mosquito repellent, rain gear, and electronics for your Thailand adventure.'}
       >
-        <meta name="keywords" content="Thailand travel gear, Thailand packing list, best backpack Thailand, mosquito repellent Thailand, travel essentials" />
+        <meta name="keywords" content={isNl
+          ? 'Thailand reisuitrusting, Thailand paklijst, beste rugzak Thailand, muggenspray Thailand, reisbenodigdheden'
+          : 'Thailand travel gear, Thailand packing list, best backpack Thailand, mosquito repellent Thailand, travel essentials'} />
       </SEOHead>
 
       <div className="bg-surface-cream min-h-screen">
@@ -57,22 +66,24 @@ export default function TravelGearPage({ gearItems, categories }: TravelGearPage
         <section className="bg-surface-dark text-white">
           <div className="container-custom py-16">
             <div className="text-center">
-              <p className="font-script text-thailand-gold mb-2">Pack Smart</p>
+              <p className="font-script text-thailand-gold mb-2">{isNl ? 'Slim Inpakken' : 'Pack Smart'}</p>
               <h1 className="text-4xl lg:text-6xl font-bold font-heading mb-6">
-                Essential Travel Gear for Thailand
+                {isNl ? 'Essenti\u00eble Reisuitrusting voor Thailand' : 'Essential Travel Gear for Thailand'}
               </h1>
               <p className="text-xl lg:text-2xl mb-8 max-w-3xl mx-auto opacity-90">
-                Pack smart for your Thailand adventure with our tested gear recommendations
+                {isNl
+                  ? 'Pak slim in voor je Thailand avontuur met onze geteste aanbevelingen'
+                  : 'Pack smart for your Thailand adventure with our tested gear recommendations'}
               </p>
               <div className="flex flex-wrap justify-center gap-4">
                 <div className="bg-white bg-opacity-20 px-4 py-2 rounded-full text-sm font-medium">
-                  Tried & Tested
+                  {isNl ? 'Getest & Bewezen' : 'Tried & Tested'}
                 </div>
                 <div className="bg-white bg-opacity-20 px-4 py-2 rounded-full text-sm font-medium">
-                  Thailand Specific
+                  {isNl ? 'Thailand Specifiek' : 'Thailand Specific'}
                 </div>
                 <div className="bg-white bg-opacity-20 px-4 py-2 rounded-full text-sm font-medium">
-                  Best Value
+                  {isNl ? 'Beste Waarde' : 'Best Value'}
                 </div>
               </div>
             </div>
@@ -84,12 +95,14 @@ export default function TravelGearPage({ gearItems, categories }: TravelGearPage
         <section className="bg-white">
           <div className="container-custom py-6">
             <Breadcrumbs items={breadcrumbs} />
-            
+
             {/* Affiliate Notice */}
             <div className="bg-orange-50 border-0 rounded-2xl mt-4">
               <div className="px-4 py-3">
                 <p className="text-sm text-center text-orange-800">
-                  This page contains affiliate links. As an Amazon Associate, we earn from qualifying purchases at no extra cost to you.
+                  {isNl
+                    ? 'Deze pagina bevat affiliate links. Als Amazon Associate verdienen wij aan kwalificerende aankopen, zonder extra kosten voor jou.'
+                    : 'This page contains affiliate links. As an Amazon Associate, we earn from qualifying purchases at no extra cost to you.'}
                 </p>
               </div>
             </div>
@@ -99,35 +112,45 @@ export default function TravelGearPage({ gearItems, categories }: TravelGearPage
         {/* Quick Essentials Section */}
         <section className="py-12 bg-white">
           <div className="container-custom">
-            <p className="section-label text-center">Essentials</p>
-            <h2 className="text-3xl font-bold font-heading text-center mb-8">Thailand Travel Essentials</h2>
+            <p className="section-label text-center">{isNl ? 'Essenti\u00eble Items' : 'Essentials'}</p>
+            <h2 className="text-3xl font-bold font-heading text-center mb-8">
+              {isNl ? 'Thailand Reisbenodigdheden' : 'Thailand Travel Essentials'}
+            </h2>
             <div className="grid md:grid-cols-4 gap-6 mb-12">
               <div className="text-center">
                 <div className="text-4xl mb-4"></div>
-                <h3 className="font-semibold font-heading mb-2">Mosquito Protection</h3>
+                <h3 className="font-semibold font-heading mb-2">{isNl ? 'Muggenbescherming' : 'Mosquito Protection'}</h3>
                 <p className="text-gray-600 text-sm">
-                  DEET spray is essential, especially during rainy season
+                  {isNl
+                    ? 'DEET spray is essentieel, vooral tijdens het regenseizoen'
+                    : 'DEET spray is essential, especially during rainy season'}
                 </p>
               </div>
               <div className="text-center">
                 <div className="text-4xl mb-4"></div>
-                <h3 className="font-semibold font-heading mb-2">Sun Protection</h3>
+                <h3 className="font-semibold font-heading mb-2">{isNl ? 'Zonbescherming' : 'Sun Protection'}</h3>
                 <p className="text-gray-600 text-sm">
-                  High SPF sunscreen and a good hat are must-haves
+                  {isNl
+                    ? 'Hoge SPF zonnebrandcr\u00e8me en een goede hoed zijn onmisbaar'
+                    : 'High SPF sunscreen and a good hat are must-haves'}
                 </p>
               </div>
               <div className="text-center">
                 <div className="text-4xl mb-4"></div>
-                <h3 className="font-semibold font-heading mb-2">Rain Gear</h3>
+                <h3 className="font-semibold font-heading mb-2">{isNl ? 'Regenkleding' : 'Rain Gear'}</h3>
                 <p className="text-gray-600 text-sm">
-                  Lightweight rain jacket or poncho for sudden downpours
+                  {isNl
+                    ? 'Lichtgewicht regenjack of poncho voor plotselinge buien'
+                    : 'Lightweight rain jacket or poncho for sudden downpours'}
                 </p>
               </div>
               <div className="text-center">
                 <div className="text-4xl mb-4"></div>
-                <h3 className="font-semibold font-heading mb-2">Power Adapter</h3>
+                <h3 className="font-semibold font-heading mb-2">{isNl ? 'Stekkeradapter' : 'Power Adapter'}</h3>
                 <p className="text-gray-600 text-sm">
-                  Thailand uses Type A, B, C plugs - universal adapter needed
+                  {isNl
+                    ? 'Thailand gebruikt Type A, B, C stekkers - universele adapter nodig'
+                    : 'Thailand uses Type A, B, C plugs - universal adapter needed'}
                 </p>
               </div>
             </div>
@@ -146,7 +169,7 @@ export default function TravelGearPage({ gearItems, categories }: TravelGearPage
                     : 'bg-white text-gray-700 hover:bg-gray-100'
                 }`}
               >
-                All Gear
+                {isNl ? 'Alle Uitrusting' : 'All Gear'}
               </button>
               {categories.map((category) => (
                 <button
@@ -175,10 +198,10 @@ export default function TravelGearPage({ gearItems, categories }: TravelGearPage
                   {/* Essential Badge */}
                   {item.essential && (
                     <div className="bg-red-500 text-white text-xs font-bold px-3 py-1 absolute top-4 right-4 rounded-full z-10">
-                      ESSENTIAL
+                      {isNl ? 'ESSENTIEEL' : 'ESSENTIAL'}
                     </div>
                   )}
-                  
+
                   {/* Product Image */}
                   <div className="relative h-64 bg-surface-cream">
                     <Image
@@ -188,7 +211,7 @@ export default function TravelGearPage({ gearItems, categories }: TravelGearPage
                       className="object-contain p-4"
                     />
                   </div>
-                  
+
                   <div className="p-6">
                     {/* Category & Rating */}
                     <div className="flex justify-between items-start mb-2">
@@ -196,37 +219,37 @@ export default function TravelGearPage({ gearItems, categories }: TravelGearPage
                         {categories.find(c => c.id === item.category)?.name}
                       </span>
                       <div className="flex items-center gap-1">
-                        <span className="text-yellow-400">★</span>
+                        <span className="text-yellow-400">\u2605</span>
                         <span className="text-sm font-medium">{item.rating}</span>
                         <span className="text-xs text-gray-500">({item.reviews})</span>
                       </div>
                     </div>
-                    
+
                     {/* Product Name & Price */}
                     <h3 className="text-xl font-bold font-heading mb-2">{item.name}</h3>
                     <p className="text-2xl font-bold text-thailand-blue mb-3">{item.price}</p>
-                    
+
                     {/* Description */}
                     <p className="text-gray-700 mb-4 text-sm">{item.description}</p>
-                    
+
                     {/* Features */}
                     <ul className="mb-4 space-y-1">
                       {item.features.slice(0, 3).map((feature, index) => (
                         <li key={index} className="text-sm text-gray-600 flex items-start">
-                          <span className="text-green-500 mr-2">✓</span>
+                          <span className="text-green-500 mr-2">\u2713</span>
                           <span>{feature}</span>
                         </li>
                       ))}
                     </ul>
-                    
+
                     {/* CTA Button */}
-                    <a 
+                    <a
                       href={item.amazonLink}
                       target="_blank"
                       rel="noopener noreferrer"
                       className="block w-full bg-thailand-red text-white text-center py-3 rounded-xl font-semibold hover:bg-red-700 transition-colors"
                     >
-                      View on Amazon →
+                      {isNl ? 'Bekijk op Amazon \u2192' : 'View on Amazon \u2192'}
                     </a>
                   </div>
                 </div>
@@ -240,55 +263,57 @@ export default function TravelGearPage({ gearItems, categories }: TravelGearPage
         {/* Packing Tips Section */}
         <section className="py-12 bg-white">
           <div className="container-custom">
-            <p className="section-label text-center">Packing Tips</p>
-            <h2 className="text-3xl font-bold font-heading text-center mb-8">Thailand Packing Tips</h2>
+            <p className="section-label text-center">{isNl ? 'Inpaktips' : 'Packing Tips'}</p>
+            <h2 className="text-3xl font-bold font-heading text-center mb-8">
+              {isNl ? 'Thailand Inpaktips' : 'Thailand Packing Tips'}
+            </h2>
             <div className="max-w-3xl mx-auto grid md:grid-cols-2 gap-6">
               <div className="bg-white rounded-2xl shadow-md p-6">
                 <h3 className="font-semibold font-heading mb-3 flex items-center gap-2">
                   <span className="text-2xl"></span>
-                  Island Hopping Essentials
+                  {isNl ? 'Eilandhoppen Essentials' : 'Island Hopping Essentials'}
                 </h3>
                 <ul className="space-y-2 text-sm text-gray-700">
-                  <li>• Dry bag for boat trips</li>
-                  <li>• Reef-safe sunscreen</li>
-                  <li>• Quick-dry towel</li>
-                  <li>• Waterproof phone case</li>
+                  <li>&bull; {isNl ? 'Waterdichte tas voor boottochten' : 'Dry bag for boat trips'}</li>
+                  <li>&bull; {isNl ? 'Rifvriendelijke zonnebrand' : 'Reef-safe sunscreen'}</li>
+                  <li>&bull; {isNl ? 'Sneldrogende handdoek' : 'Quick-dry towel'}</li>
+                  <li>&bull; {isNl ? 'Waterdicht telefoonhoesje' : 'Waterproof phone case'}</li>
                 </ul>
               </div>
               <div className="bg-white rounded-2xl shadow-md p-6">
                 <h3 className="font-semibold font-heading mb-3 flex items-center gap-2">
                   <span className="text-2xl"></span>
-                  Temple Visit Requirements
+                  {isNl ? 'Tempelbezoek Vereisten' : 'Temple Visit Requirements'}
                 </h3>
                 <ul className="space-y-2 text-sm text-gray-700">
-                  <li>• Sarong or long pants</li>
-                  <li>• Shoulders-covering shirt</li>
-                  <li>• Easy-remove shoes</li>
-                  <li>• Small bag for shoes</li>
+                  <li>&bull; {isNl ? 'Sarong of lange broek' : 'Sarong or long pants'}</li>
+                  <li>&bull; {isNl ? 'Schouderbedekkend shirt' : 'Shoulders-covering shirt'}</li>
+                  <li>&bull; {isNl ? 'Makkelijk uit te trekken schoenen' : 'Easy-remove shoes'}</li>
+                  <li>&bull; {isNl ? 'Klein tasje voor schoenen' : 'Small bag for shoes'}</li>
                 </ul>
               </div>
               <div className="bg-white rounded-2xl shadow-md p-6">
                 <h3 className="font-semibold font-heading mb-3 flex items-center gap-2">
                   <span className="text-2xl"></span>
-                  Hot Weather Hacks
+                  {isNl ? 'Hitte Tips' : 'Hot Weather Hacks'}
                 </h3>
                 <ul className="space-y-2 text-sm text-gray-700">
-                  <li>• Cooling towel</li>
-                  <li>• Electrolyte packets</li>
-                  <li>• Breathable fabrics only</li>
-                  <li>• Portable fan</li>
+                  <li>&bull; {isNl ? 'Koelhanddoek' : 'Cooling towel'}</li>
+                  <li>&bull; {isNl ? 'Elektrolytenpakjes' : 'Electrolyte packets'}</li>
+                  <li>&bull; {isNl ? 'Alleen ademende stoffen' : 'Breathable fabrics only'}</li>
+                  <li>&bull; {isNl ? 'Draagbare ventilator' : 'Portable fan'}</li>
                 </ul>
               </div>
               <div className="bg-white rounded-2xl shadow-md p-6">
                 <h3 className="font-semibold font-heading mb-3 flex items-center gap-2">
                   <span className="text-2xl"></span>
-                  Backpacking Must-Haves
+                  {isNl ? 'Backpack Must-Haves' : 'Backpacking Must-Haves'}
                 </h3>
                 <ul className="space-y-2 text-sm text-gray-700">
-                  <li>• Packing cubes</li>
-                  <li>• Laundry detergent sheets</li>
-                  <li>• Padlock for hostels</li>
-                  <li>• First aid kit</li>
+                  <li>&bull; {isNl ? 'Packing cubes' : 'Packing cubes'}</li>
+                  <li>&bull; {isNl ? 'Wasmiddel sheets' : 'Laundry detergent sheets'}</li>
+                  <li>&bull; {isNl ? 'Hangslot voor hostels' : 'Padlock for hostels'}</li>
+                  <li>&bull; {isNl ? 'EHBO-set' : 'First aid kit'}</li>
                 </ul>
               </div>
             </div>
@@ -298,42 +323,78 @@ export default function TravelGearPage({ gearItems, categories }: TravelGearPage
         {/* Plan Your Trip - Internal Links Section */}
         <section className="py-12 bg-white">
           <div className="container-custom">
-            <p className="section-label text-center">Plan Your Trip</p>
-            <h2 className="text-3xl font-bold font-heading text-center mb-3">Related Travel Guides</h2>
+            <p className="section-label text-center">{isNl ? 'Plan Je Reis' : 'Plan Your Trip'}</p>
+            <h2 className="text-3xl font-bold font-heading text-center mb-3">
+              {isNl ? 'Gerelateerde Reisgidsen' : 'Related Travel Guides'}
+            </h2>
             <p className="text-gray-600 text-center mb-8 max-w-2xl mx-auto">
-              Great gear is just the start. Use these guides to plan every detail of your Thailand adventure.
+              {isNl
+                ? 'Goede uitrusting is nog maar het begin. Gebruik deze gidsen om elk detail van je Thailand avontuur te plannen.'
+                : 'Great gear is just the start. Use these guides to plan every detail of your Thailand adventure.'}
             </p>
             <div className="grid md:grid-cols-2 lg:grid-cols-4 gap-5 max-w-5xl mx-auto">
               <Link href="/weather/" className="group">
                 <div className="bg-surface-cream rounded-2xl p-6 hover:shadow-lg hover:-translate-y-1 transition-all h-full flex flex-col">
                   <div className="text-3xl mb-3"></div>
-                  <h3 className="font-bold font-heading text-base mb-2 group-hover:text-thailand-blue transition-colors">Weather Guide</h3>
-                  <p className="text-gray-600 text-sm flex-1">Pack for the right season — know when to bring rain gear or beach essentials.</p>
-                  <span className="text-thailand-blue text-sm font-medium mt-3 inline-block">Check weather →</span>
+                  <h3 className="font-bold font-heading text-base mb-2 group-hover:text-thailand-blue transition-colors">
+                    {isNl ? 'Weergids' : 'Weather Guide'}
+                  </h3>
+                  <p className="text-gray-600 text-sm flex-1">
+                    {isNl
+                      ? 'Pak in voor het juiste seizoen \u2014 weet wanneer je regenkleding of strandspullen nodig hebt.'
+                      : 'Pack for the right season \u2014 know when to bring rain gear or beach essentials.'}
+                  </p>
+                  <span className="text-thailand-blue text-sm font-medium mt-3 inline-block">
+                    {isNl ? 'Bekijk weer \u2192' : 'Check weather \u2192'}
+                  </span>
                 </div>
               </Link>
               <Link href="/city/" className="group">
                 <div className="bg-surface-cream rounded-2xl p-6 hover:shadow-lg hover:-translate-y-1 transition-all h-full flex flex-col">
                   <div className="text-3xl mb-3"></div>
-                  <h3 className="font-bold font-heading text-base mb-2 group-hover:text-thailand-blue transition-colors">City Guides</h3>
-                  <p className="text-gray-600 text-sm flex-1">Explore 33 Thai cities — each with unique gear needs from Bangkok temples to Chiang Mai trekking.</p>
-                  <span className="text-thailand-blue text-sm font-medium mt-3 inline-block">Browse cities →</span>
+                  <h3 className="font-bold font-heading text-base mb-2 group-hover:text-thailand-blue transition-colors">
+                    {isNl ? 'Stadsgidsen' : 'City Guides'}
+                  </h3>
+                  <p className="text-gray-600 text-sm flex-1">
+                    {isNl
+                      ? 'Ontdek 33 Thaise steden \u2014 elk met unieke uitrustingsbehoeften.'
+                      : 'Explore 33 Thai cities \u2014 each with unique gear needs from Bangkok temples to Chiang Mai trekking.'}
+                  </p>
+                  <span className="text-thailand-blue text-sm font-medium mt-3 inline-block">
+                    {isNl ? 'Bekijk steden \u2192' : 'Browse cities \u2192'}
+                  </span>
                 </div>
               </Link>
               <Link href="/islands/" className="group">
                 <div className="bg-surface-cream rounded-2xl p-6 hover:shadow-lg hover:-translate-y-1 transition-all h-full flex flex-col">
                   <div className="text-3xl mb-3"></div>
-                  <h3 className="font-bold font-heading text-base mb-2 group-hover:text-thailand-blue transition-colors">Island Guide</h3>
-                  <p className="text-gray-600 text-sm flex-1">Heading to the beaches? See our island guide for what beach and water gear to pack.</p>
-                  <span className="text-thailand-blue text-sm font-medium mt-3 inline-block">Explore islands →</span>
+                  <h3 className="font-bold font-heading text-base mb-2 group-hover:text-thailand-blue transition-colors">
+                    {isNl ? 'Eilandengids' : 'Island Guide'}
+                  </h3>
+                  <p className="text-gray-600 text-sm flex-1">
+                    {isNl
+                      ? 'Op weg naar het strand? Bekijk onze eilandengids voor strand- en wateruitrusting.'
+                      : 'Heading to the beaches? See our island guide for what beach and water gear to pack.'}
+                  </p>
+                  <span className="text-thailand-blue text-sm font-medium mt-3 inline-block">
+                    {isNl ? 'Ontdek eilanden \u2192' : 'Explore islands \u2192'}
+                  </span>
                 </div>
               </Link>
               <Link href="/thailand-for-first-timers/" className="group">
                 <div className="bg-surface-cream rounded-2xl p-6 hover:shadow-lg hover:-translate-y-1 transition-all h-full flex flex-col">
                   <div className="text-3xl mb-3"></div>
-                  <h3 className="font-bold font-heading text-base mb-2 group-hover:text-thailand-blue transition-colors">First Timer's Guide</h3>
-                  <p className="text-gray-600 text-sm flex-1">First trip to Thailand? This complete guide covers everything you need to know before you go.</p>
-                  <span className="text-thailand-blue text-sm font-medium mt-3 inline-block">Read the guide →</span>
+                  <h3 className="font-bold font-heading text-base mb-2 group-hover:text-thailand-blue transition-colors">
+                    {isNl ? 'Gids voor Beginners' : "First Timer's Guide"}
+                  </h3>
+                  <p className="text-gray-600 text-sm flex-1">
+                    {isNl
+                      ? 'Eerste reis naar Thailand? Deze complete gids behandelt alles wat je moet weten.'
+                      : 'First trip to Thailand? This complete guide covers everything you need to know before you go.'}
+                  </p>
+                  <span className="text-thailand-blue text-sm font-medium mt-3 inline-block">
+                    {isNl ? 'Lees de gids \u2192' : 'Read the guide \u2192'}
+                  </span>
                 </div>
               </Link>
             </div>
@@ -343,43 +404,71 @@ export default function TravelGearPage({ gearItems, categories }: TravelGearPage
         {/* More Travel Essentials - Cross-sell Section */}
         <section className="py-12 bg-surface-cream">
           <div className="container-custom">
-            <p className="section-label text-center">More Essentials</p>
-            <h2 className="text-3xl font-bold font-heading text-center mb-3">More Travel Essentials</h2>
+            <p className="section-label text-center">{isNl ? 'Meer Essentials' : 'More Essentials'}</p>
+            <h2 className="text-3xl font-bold font-heading text-center mb-3">
+              {isNl ? 'Meer Reisbenodigdheden' : 'More Travel Essentials'}
+            </h2>
             <p className="text-gray-600 text-center mb-8 max-w-2xl mx-auto">
-              Beyond gear -- make sure you are fully prepared for Thailand with these essential services
+              {isNl
+                ? 'Naast uitrusting \u2014 zorg dat je volledig voorbereid bent op Thailand met deze essenti\u00eble diensten'
+                : 'Beyond gear -- make sure you are fully prepared for Thailand with these essential services'}
             </p>
             <div className="grid md:grid-cols-4 gap-6 max-w-5xl mx-auto">
               <Link href="/esim/" className="group">
                 <div className="bg-white rounded-2xl shadow-md p-6 text-center hover:shadow-xl hover:-translate-y-1 transition-all h-full">
                   <div className="text-4xl mb-4"></div>
                   <h3 className="font-bold font-heading text-lg mb-2 group-hover:text-thailand-blue transition-colors">Thailand eSIM</h3>
-                  <p className="text-gray-600 text-sm">Stay connected with affordable data plans. No physical SIM needed.</p>
+                  <p className="text-gray-600 text-sm">
+                    {isNl
+                      ? 'Blijf verbonden met betaalbare data-abonnementen. Geen fysieke SIM nodig.'
+                      : 'Stay connected with affordable data plans. No physical SIM needed.'}
+                  </p>
                 </div>
               </Link>
               <Link href="/travel-insurance-thailand/" className="group">
                 <div className="bg-white rounded-2xl shadow-md p-6 text-center hover:shadow-xl hover:-translate-y-1 transition-all h-full">
                   <div className="text-4xl mb-4"></div>
-                  <h3 className="font-bold font-heading text-lg mb-2 group-hover:text-thailand-blue transition-colors">Travel Insurance</h3>
-                  <p className="text-gray-600 text-sm">Protect your trip with comprehensive coverage for Thailand.</p>
+                  <h3 className="font-bold font-heading text-lg mb-2 group-hover:text-thailand-blue transition-colors">
+                    {isNl ? 'Reisverzekering' : 'Travel Insurance'}
+                  </h3>
+                  <p className="text-gray-600 text-sm">
+                    {isNl
+                      ? 'Bescherm je reis met uitgebreide dekking voor Thailand.'
+                      : 'Protect your trip with comprehensive coverage for Thailand.'}
+                  </p>
                 </div>
               </Link>
               <Link href="/travel-security/" className="group">
                 <div className="bg-white rounded-2xl shadow-md p-6 text-center hover:shadow-xl hover:-translate-y-1 transition-all h-full">
                   <div className="text-4xl mb-4"></div>
-                  <h3 className="font-bold font-heading text-lg mb-2 group-hover:text-thailand-blue transition-colors">VPN & Security</h3>
-                  <p className="text-gray-600 text-sm">Stay safe online with a reliable VPN for public Wi-Fi in Thailand.</p>
+                  <h3 className="font-bold font-heading text-lg mb-2 group-hover:text-thailand-blue transition-colors">
+                    {isNl ? 'VPN & Beveiliging' : 'VPN & Security'}
+                  </h3>
+                  <p className="text-gray-600 text-sm">
+                    {isNl
+                      ? 'Blijf veilig online met een betrouwbare VPN voor openbare Wi-Fi in Thailand.'
+                      : 'Stay safe online with a reliable VPN for public Wi-Fi in Thailand.'}
+                  </p>
                 </div>
               </Link>
               <a href="https://trip.tpo.lv/TmObooZ5?subid=travel-gear" target="_blank" rel="noopener noreferrer" className="group">
                 <div className="bg-white rounded-2xl shadow-md p-6 text-center hover:shadow-xl hover:-translate-y-1 transition-all h-full">
                   <div className="text-4xl mb-4"></div>
-                  <h3 className="font-bold font-heading text-lg mb-2 group-hover:text-thailand-blue transition-colors">Book Hotels</h3>
-                  <p className="text-gray-600 text-sm">Find great deals on Thailand hotels and resorts on Trip.com.</p>
+                  <h3 className="font-bold font-heading text-lg mb-2 group-hover:text-thailand-blue transition-colors">
+                    {isNl ? 'Boek Hotels' : 'Book Hotels'}
+                  </h3>
+                  <p className="text-gray-600 text-sm">
+                    {isNl
+                      ? 'Vind geweldige deals voor Thailand hotels en resorts op Trip.com.'
+                      : 'Find great deals on Thailand hotels and resorts on Trip.com.'}
+                  </p>
                 </div>
               </a>
             </div>
             <p className="text-gray-400 text-xs text-center mt-6">
-              Some links are affiliate links. We may earn a commission at no extra cost to you.
+              {isNl
+                ? 'Sommige links zijn affiliate links. We kunnen een commissie verdienen zonder extra kosten voor jou.'
+                : 'Some links are affiliate links. We may earn a commission at no extra cost to you.'}
             </p>
           </div>
         </section>
@@ -389,12 +478,15 @@ export default function TravelGearPage({ gearItems, categories }: TravelGearPage
           <div className="container-custom">
             <div className="max-w-3xl mx-auto text-center">
               <p className="text-sm text-gray-600 mb-2">
-                <strong>Affiliate Disclosure:</strong> As an Amazon Associate, I earn from qualifying purchases. 
-                This means I may receive a commission at no extra cost to you when you purchase through links on this page.
+                <strong>{isNl ? 'Affiliate Verklaring:' : 'Affiliate Disclosure:'}</strong>{' '}
+                {isNl
+                  ? 'Als Amazon Associate verdien ik aan kwalificerende aankopen. Dit betekent dat ik een commissie kan ontvangen zonder extra kosten voor jou wanneer je koopt via links op deze pagina.'
+                  : 'As an Amazon Associate, I earn from qualifying purchases. This means I may receive a commission at no extra cost to you when you purchase through links on this page.'}
               </p>
               <p className="text-xs text-gray-500">
-                All gear recommendations are based on personal experience traveling in Thailand and extensive research. 
-                Prices and availability are subject to change.
+                {isNl
+                  ? 'Alle aanbevelingen zijn gebaseerd op persoonlijke ervaring met reizen in Thailand en uitgebreid onderzoek. Prijzen en beschikbaarheid kunnen wijzigen.'
+                  : 'All gear recommendations are based on personal experience traveling in Thailand and extensive research. Prices and availability are subject to change.'}
               </p>
             </div>
           </div>

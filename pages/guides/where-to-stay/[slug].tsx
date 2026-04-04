@@ -1,4 +1,5 @@
 import { GetStaticPaths, GetStaticProps } from 'next';
+import { useRouter } from 'next/router';
 import Link from 'next/link';
 import SEOHead from '../../../components/SEOHead';
 import Breadcrumbs from '../../../components/Breadcrumbs';
@@ -23,6 +24,7 @@ function getPriceLevelColor(priceLevel: string): string {
 
 // --- Neighborhood Card ---
 function NeighborhoodCard({ neighborhood }: { neighborhood: ClusterNeighborhood }) {
+  const { locale } = useRouter();
   return (
     <div className="bg-white rounded-xl shadow-sm border border-gray-100 p-6">
       <div className="flex flex-wrap items-start justify-between gap-2 mb-3">
@@ -49,7 +51,7 @@ function NeighborhoodCard({ neighborhood }: { neighborhood: ClusterNeighborhood 
       )}
       {neighborhood.recommendedHotels && neighborhood.recommendedHotels.length > 0 && (
         <div className="pt-3 border-t border-gray-100">
-          <p className="text-xs font-semibold text-gray-500 uppercase tracking-wide mb-1">Recommended Hotels</p>
+          <p className="text-xs font-semibold text-gray-500 uppercase tracking-wide mb-1">{locale === 'nl' ? 'Aanbevolen Hotels' : 'Recommended Hotels'}</p>
           <div className="flex flex-wrap gap-2">
             {neighborhood.recommendedHotels.map((hotel, i) => (
               <span key={i} className="text-xs bg-gray-100 text-gray-700 px-2 py-1 rounded-lg">
@@ -69,10 +71,12 @@ interface Props {
 }
 
 export default function WhereToStayPage({ data, affiliates }: Props) {
+  const { locale } = useRouter();
+  const isNl = locale === 'nl';
   const breadcrumbs = [
     { name: 'Home', href: '/' },
-    { name: 'Guides', href: '/guides/' },
-    { name: `Where To Stay in ${data.cityName}`, href: `/guides/where-to-stay/${data.citySlug}/` },
+    { name: isNl ? 'Gidsen' : 'Guides', href: '/guides/' },
+    { name: isNl ? `Waar Verblijven in ${data.cityName}` : `Where To Stay in ${data.cityName}`, href: `/guides/where-to-stay/${data.citySlug}/` },
   ];
 
   return (
@@ -83,7 +87,7 @@ export default function WhereToStayPage({ data, affiliates }: Props) {
           <div className="container-custom py-8">
             <Breadcrumbs items={breadcrumbs} />
             <h1 className="text-4xl lg:text-5xl font-bold font-heading text-gray-900 mb-4">
-              Where To Stay in {data.cityName}: Best Areas &amp; Hotels (2026)
+              {isNl ? `Waar Verblijven in ${data.cityName}: Beste Wijken & Hotels (2026)` : `Where To Stay in ${data.cityName}: Best Areas & Hotels (2026)`}
             </h1>
             <p className="text-lg text-gray-600 max-w-3xl">{data.intro}</p>
           </div>
@@ -95,7 +99,7 @@ export default function WhereToStayPage({ data, affiliates }: Props) {
           {/* Neighborhood cards */}
           <section className="mb-10">
             <h2 className="text-2xl font-bold text-gray-900 mb-6">
-              Best Neighborhoods to Stay in {data.cityName}
+              {isNl ? `Beste Wijken om te Verblijven in ${data.cityName}` : `Best Neighborhoods to Stay in ${data.cityName}`}
             </h2>
             <div className="grid md:grid-cols-2 gap-6">
               {data.neighborhoods.map((neighborhood, i) => (
@@ -113,7 +117,7 @@ export default function WhereToStayPage({ data, affiliates }: Props) {
           {data.generalTips && data.generalTips.length > 0 && (
             <section className="mb-10">
               <h2 className="text-2xl font-bold text-gray-900 mb-4">
-                Tips for Booking Hotels in {data.cityName}
+                {isNl ? `Tips voor het Boeken van Hotels in ${data.cityName}` : `Tips for Booking Hotels in ${data.cityName}`}
               </h2>
               <div className="bg-white rounded-2xl p-6 shadow-sm border border-gray-100">
                 <ul className="space-y-3">
@@ -130,16 +134,16 @@ export default function WhereToStayPage({ data, affiliates }: Props) {
 
           {/* Cross-links */}
           <section className="mb-10">
-            <h2 className="text-2xl font-bold text-gray-900 mb-4">More Hotel Resources</h2>
+            <h2 className="text-2xl font-bold text-gray-900 mb-4">{isNl ? 'Meer Hotelbronnen' : 'More Hotel Resources'}</h2>
             <div className="grid sm:grid-cols-2 gap-4">
               <Link
                 href={`/best-hotels/${data.citySlug}/`}
                 className="bg-white rounded-xl p-5 shadow-sm border border-gray-100 hover:shadow-md hover:border-thailand-blue/30 transition-all group"
               >
                 <h3 className="font-bold text-gray-900 group-hover:text-thailand-blue transition-colors mb-1">
-                  Best Hotels in {data.cityName}
+                  {isNl ? `Beste Hotels in ${data.cityName}` : `Best Hotels in ${data.cityName}`}
                 </h3>
-                <p className="text-sm text-gray-500">Curated picks across all budgets →</p>
+                <p className="text-sm text-gray-500">{isNl ? 'Samengestelde selectie voor alle budgetten →' : 'Curated picks across all budgets →'}</p>
               </Link>
               <Link
                 href={`/city/${data.citySlug}/top-10-hotels/`}
@@ -148,50 +152,50 @@ export default function WhereToStayPage({ data, affiliates }: Props) {
                 <h3 className="font-bold text-gray-900 group-hover:text-thailand-blue transition-colors mb-1">
                   Top 10 Hotels in {data.cityName}
                 </h3>
-                <p className="text-sm text-gray-500">Community-ranked favourites →</p>
+                <p className="text-sm text-gray-500">{isNl ? 'Door de community gerangschikte favorieten →' : 'Community-ranked favourites →'}</p>
               </Link>
             </div>
           </section>
 
           {/* Explore More */}
           <section className="mb-10">
-            <h2 className="text-2xl font-bold text-gray-900 mb-4">Explore More</h2>
+            <h2 className="text-2xl font-bold text-gray-900 mb-4">{isNl ? 'Ontdek Meer' : 'Explore More'}</h2>
             <div className="grid sm:grid-cols-2 gap-4">
               <Link
                 href="/food/"
                 className="bg-white rounded-xl p-5 shadow-sm border border-gray-100 hover:shadow-md hover:border-thailand-blue/30 transition-all group"
               >
                 <h3 className="font-bold text-gray-900 group-hover:text-thailand-blue transition-colors mb-1">
-                  Thai Food Guide
+                  {isNl ? 'Thais Eten Gids' : 'Thai Food Guide'}
                 </h3>
-                <p className="text-sm text-gray-500">Discover the best dishes &amp; where to eat →</p>
+                <p className="text-sm text-gray-500">{isNl ? 'Ontdek de beste gerechten & waar te eten →' : 'Discover the best dishes & where to eat →'}</p>
               </Link>
               <Link
                 href="/city/"
                 className="bg-white rounded-xl p-5 shadow-sm border border-gray-100 hover:shadow-md hover:border-thailand-blue/30 transition-all group"
               >
                 <h3 className="font-bold text-gray-900 group-hover:text-thailand-blue transition-colors mb-1">
-                  City Guides
+                  {isNl ? 'Stadsgidsen' : 'City Guides'}
                 </h3>
-                <p className="text-sm text-gray-500">Browse all 33 Thailand destinations →</p>
+                <p className="text-sm text-gray-500">{isNl ? 'Bekijk alle 33 Thailand bestemmingen →' : 'Browse all 33 Thailand destinations →'}</p>
               </Link>
               <Link
                 href="/travel-insurance-thailand/"
                 className="bg-white rounded-xl p-5 shadow-sm border border-gray-100 hover:shadow-md hover:border-thailand-blue/30 transition-all group"
               >
                 <h3 className="font-bold text-gray-900 group-hover:text-thailand-blue transition-colors mb-1">
-                  Travel Insurance
+                  {isNl ? 'Reisverzekering' : 'Travel Insurance'}
                 </h3>
-                <p className="text-sm text-gray-500">Stay protected on your trip →</p>
+                <p className="text-sm text-gray-500">{isNl ? 'Blijf beschermd op je reis →' : 'Stay protected on your trip →'}</p>
               </Link>
               <Link
                 href="/thailand-for-first-timers/"
                 className="bg-white rounded-xl p-5 shadow-sm border border-gray-100 hover:shadow-md hover:border-thailand-blue/30 transition-all group"
               >
                 <h3 className="font-bold text-gray-900 group-hover:text-thailand-blue transition-colors mb-1">
-                  First Timer&apos;s Guide
+                  {isNl ? 'Gids voor Beginners' : 'First Timer\'s Guide'}
                 </h3>
-                <p className="text-sm text-gray-500">Everything you need before you go →</p>
+                <p className="text-sm text-gray-500">{isNl ? 'Alles wat je moet weten voor je gaat →' : 'Everything you need before you go →'}</p>
               </Link>
             </div>
           </section>

@@ -1,5 +1,6 @@
 import { GetStaticProps } from 'next';
 import Link from 'next/link';
+import { useRouter } from 'next/router';
 import SEOHead from '../../components/SEOHead';
 import Breadcrumbs from '../../components/Breadcrumbs';
 import { getAllNews, NewsArticle } from '../../lib/news';
@@ -8,28 +9,32 @@ interface NewsPageProps {
   articles: NewsArticle[];
 }
 
-const categoryLabels: Record<string, string> = {
-  economy: 'Economy',
-  tourism: 'Tourism',
-  safety: 'Safety',
-  transport: 'Transport',
-  'visa-immigration': 'Visa & Immigration',
-  culture: 'Culture',
-  weather: 'Weather',
-  general: 'General',
+const categoryLabels: Record<string, { en: string; nl: string }> = {
+  economy: { en: 'Economy', nl: 'Economie' },
+  tourism: { en: 'Tourism', nl: 'Toerisme' },
+  safety: { en: 'Safety', nl: 'Veiligheid' },
+  transport: { en: 'Transport', nl: 'Vervoer' },
+  'visa-immigration': { en: 'Visa & Immigration', nl: 'Visum & Immigratie' },
+  culture: { en: 'Culture', nl: 'Cultuur' },
+  weather: { en: 'Weather', nl: 'Weer' },
+  general: { en: 'General', nl: 'Algemeen' },
 };
 
 export default function NewsPage({ articles }: NewsPageProps) {
+  const { locale } = useRouter();
+  const isNl = locale === 'nl';
+  const lang = isNl ? 'nl' : 'en';
+
   const breadcrumbs = [
     { name: 'Home', href: '/' },
-    { name: 'Thailand News', href: '/news/' },
+    { name: isNl ? 'Thailand Nieuws' : 'Thailand News', href: '/news/' },
   ];
 
   return (
     <>
       <SEOHead
-        title="Thailand News — Latest Updates & Stories | Go2Thailand"
-        description="Stay informed with the latest Thailand news: tourism updates, visa changes, safety alerts, and cultural stories. Updated daily."
+        title={isNl ? "Thailand Nieuws — Laatste Updates & Verhalen | Go2Thailand" : "Thailand News — Latest Updates & Stories | Go2Thailand"}
+        description={isNl ? "Blijf op de hoogte van het laatste Thailand nieuws: toerisme-updates, visumwijzigingen, veiligheidswaarschuwingen en culturele verhalen. Dagelijks bijgewerkt." : "Stay informed with the latest Thailand news: tourism updates, visa changes, safety alerts, and cultural stories. Updated daily."}
       />
 
       <div className="bg-surface-cream min-h-screen">
@@ -37,17 +42,17 @@ export default function NewsPage({ articles }: NewsPageProps) {
           <div className="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8 py-12">
             <Breadcrumbs items={breadcrumbs} />
             <h1 className="text-4xl font-bold font-heading text-gray-900 mt-4">
-              Thailand News
+              {isNl ? 'Thailand Nieuws' : 'Thailand News'}
             </h1>
             <p className="mt-3 text-lg text-gray-600 max-w-3xl">
-              The latest news from Thailand — tourism updates, visa changes, economy, safety, and culture. Updated daily from trusted sources.
+              {isNl ? 'Het laatste nieuws uit Thailand — toerisme-updates, visumwijzigingen, economie, veiligheid en cultuur. Dagelijks bijgewerkt uit betrouwbare bronnen.' : 'The latest news from Thailand — tourism updates, visa changes, economy, safety, and culture. Updated daily from trusted sources.'}
             </p>
           </div>
         </section>
 
         <div className="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8 py-8">
           {articles.length === 0 ? (
-            <p className="text-gray-500 text-center py-12">No news articles yet. Check back soon!</p>
+            <p className="text-gray-500 text-center py-12">{isNl ? 'Nog geen nieuwsartikelen. Kom snel terug!' : 'No news articles yet. Check back soon!'}</p>
           ) : (
             <div className="grid gap-6 md:grid-cols-2 lg:grid-cols-3">
               {articles.map((article) => (
@@ -58,7 +63,7 @@ export default function NewsPage({ articles }: NewsPageProps) {
                 >
                   <div className="flex items-center gap-2 mb-3">
                     <span className="text-xs font-medium px-2 py-1 rounded-full bg-blue-100 text-blue-800">
-                      {categoryLabels[article.category] || article.category}
+                      {categoryLabels[article.category]?.[lang] || article.category}
                     </span>
                     <time className="text-xs text-gray-500">{article.date}</time>
                   </div>
@@ -70,7 +75,7 @@ export default function NewsPage({ articles }: NewsPageProps) {
                   </p>
                   {article.source && (
                     <p className="text-xs text-gray-400 mt-3">
-                      Source: {article.source.name}
+                      {isNl ? 'Bron' : 'Source'}: {article.source.name}
                     </p>
                   )}
                 </Link>

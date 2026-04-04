@@ -1,4 +1,5 @@
 import { GetStaticPaths, GetStaticProps } from 'next';
+import { useRouter } from 'next/router';
 import Link from 'next/link';
 import SEOHead from '../../components/SEOHead';
 import Breadcrumbs from '../../components/Breadcrumbs';
@@ -62,10 +63,12 @@ function ActivityCard({ activity }: { activity: ClusterActivity }) {
 }
 
 export default function ThingsToDoPage({ data, affiliates }: Props) {
+  const { locale } = useRouter();
+  const isNl = locale === 'nl';
   const links = getClusterLinks(data.citySlug, data.cityName);
   const breadcrumbs = [
     { name: 'Home', href: '/' },
-    { name: 'Things To Do', href: '/things-to-do/' },
+    { name: isNl ? 'Dingen om te Doen' : 'Things To Do', href: '/things-to-do/' },
     { name: data.cityName, href: `/things-to-do/${data.citySlug}/` },
   ];
 
@@ -85,7 +88,7 @@ export default function ThingsToDoPage({ data, affiliates }: Props) {
           <div className="container-custom py-8">
             <Breadcrumbs items={breadcrumbs} />
             <h1 className="text-4xl lg:text-5xl font-bold font-heading text-gray-900 mb-4">
-              Things To Do in {data.cityName} (2026)
+              {isNl ? `Dingen om te Doen in ${data.cityName} (2026)` : `Things To Do in ${data.cityName} (2026)`}
             </h1>
             <p className="text-lg text-gray-600 max-w-3xl">{data.intro}</p>
           </div>
@@ -146,23 +149,23 @@ export default function ThingsToDoPage({ data, affiliates }: Props) {
           {/* Cross-link to Top 10 Attractions */}
           <div className="bg-white rounded-2xl p-6 shadow-sm border border-gray-100 mb-10 flex flex-col md:flex-row items-start md:items-center justify-between gap-4">
             <div>
-              <h3 className="font-bold text-gray-900 mb-1">Looking for the top sights?</h3>
+              <h3 className="font-bold text-gray-900 mb-1">{isNl ? 'Op zoek naar de topbezienswaardigheden?' : 'Looking for the top sights?'}</h3>
               <p className="text-gray-600 text-sm">
-                See our curated list of the best attractions in {data.cityName}, with tips, opening hours and entrance fees.
+                {isNl ? `Bekijk onze samengestelde lijst van de beste attracties in ${data.cityName}, met tips, openingstijden en toegangsprijzen.` : `See our curated list of the best attractions in ${data.cityName}, with tips, opening hours and entrance fees.`}
               </p>
             </div>
             <Link
               href={links.cityAttractions.href}
               className="shrink-0 inline-flex items-center gap-2 bg-thailand-blue text-white font-semibold px-5 py-3 rounded-xl hover:bg-thailand-blue/90 transition-colors"
             >
-              Top 10 Attractions →
+              {isNl ? 'Top 10 Attracties →' : 'Top 10 Attractions →'}
             </Link>
           </div>
 
           {/* Travel Tips */}
           {data.travelTips && data.travelTips.length > 0 && (
             <section className="mb-10">
-              <h2 className="text-2xl font-bold text-gray-900 mb-4">Travel Tips for {data.cityName}</h2>
+              <h2 className="text-2xl font-bold text-gray-900 mb-4">{isNl ? `Reistips voor ${data.cityName}` : `Travel Tips for ${data.cityName}`}</h2>
               <div className="bg-white rounded-2xl p-6 shadow-sm">
                 <ul className="space-y-3">
                   {data.travelTips.map((tip, i) => (
@@ -187,7 +190,7 @@ export default function ThingsToDoPage({ data, affiliates }: Props) {
               href={links.hub.href}
               className="text-thailand-blue hover:underline font-medium"
             >
-              ← Back to the {data.cityName} Destination Guide
+              {isNl ? `← Terug naar de ${data.cityName} Bestemmingsgids` : `← Back to the ${data.cityName} Destination Guide`}
             </Link>
           </div>
 

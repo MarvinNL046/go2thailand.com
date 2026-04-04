@@ -1,5 +1,6 @@
 import { GetStaticPaths, GetStaticProps } from 'next';
 import Link from 'next/link';
+import { useRouter } from 'next/router';
 import SEOHead from '../../components/SEOHead';
 import Breadcrumbs from '../../components/Breadcrumbs';
 import AffiliateBox from '../../components/AffiliateBox';
@@ -12,23 +13,27 @@ interface Props {
   affiliates: CityAffiliates | null;
 }
 
-const regionLabels: Record<string, string> = {
-  northern: 'Northern Thailand',
-  central: 'Central Thailand',
-  southern: 'Southern Thailand',
-  isaan: 'Isaan (Northeast)',
-  eastern: 'Eastern Thailand',
-  western: 'Western Thailand',
+const regionLabels: Record<string, { en: string; nl: string }> = {
+  northern: { en: 'Northern Thailand', nl: 'Noord-Thailand' },
+  central: { en: 'Central Thailand', nl: 'Centraal-Thailand' },
+  southern: { en: 'Southern Thailand', nl: 'Zuid-Thailand' },
+  isaan: { en: 'Isaan (Northeast)', nl: 'Isaan (Noordoost)' },
+  eastern: { en: 'Eastern Thailand', nl: 'Oost-Thailand' },
+  western: { en: 'Western Thailand', nl: 'West-Thailand' },
 };
 
 export default function ProvincePage({ data, affiliates }: Props) {
+  const { locale } = useRouter();
+  const isNl = locale === 'nl';
+  const lang = isNl ? 'nl' : 'en';
+
   const breadcrumbs = [
     { name: 'Home', href: '/' },
-    { name: 'Provinces', href: '/province/' },
+    { name: isNl ? 'Provincies' : 'Provinces', href: '/province/' },
     { name: data.provinceName, href: `/province/${data.provinceSlug}/` },
   ];
 
-  const regionLabel = regionLabels[data.region] || data.region;
+  const regionLabel = regionLabels[data.region]?.[lang] || regionLabels[data.region]?.en || data.region;
 
   return (
     <>
@@ -49,7 +54,7 @@ export default function ProvincePage({ data, affiliates }: Props) {
                 {regionLabel}
               </Link>
               <span className="text-sm bg-gray-100 text-gray-600 px-3 py-1 rounded-full">
-                Capital: {data.capital}
+                {isNl ? 'Hoofdstad' : 'Capital'}: {data.capital}
               </span>
               <span className="text-sm bg-gray-100 text-gray-600 px-3 py-1 rounded-full">
                 {data.area.toLocaleString()} km²
@@ -58,7 +63,7 @@ export default function ProvincePage({ data, affiliates }: Props) {
                 Pop. {data.population.toLocaleString()} ({data.populationYear})
               </span>
               <span className="text-sm bg-gray-100 text-gray-600 px-3 py-1 rounded-full">
-                {data.districts} districts
+                {data.districts} {isNl ? 'districten' : 'districts'}
               </span>
             </div>
             <p className="text-lg text-gray-600 max-w-3xl">{data.overview}</p>
@@ -68,7 +73,7 @@ export default function ProvincePage({ data, affiliates }: Props) {
         <div className="container-custom py-8">
           {/* Highlights */}
           <section className="mb-10">
-            <h2 className="text-2xl font-bold text-gray-900 mb-4">Why Visit {data.provinceName}?</h2>
+            <h2 className="text-2xl font-bold text-gray-900 mb-4">{isNl ? `Waarom ${data.provinceName} Bezoeken?` : `Why Visit ${data.provinceName}?`}</h2>
             <div className="grid md:grid-cols-2 gap-3">
               {data.highlights.map((h, i) => (
                 <div key={i} className="bg-white rounded-xl p-4 shadow-sm border border-gray-100">
@@ -81,7 +86,7 @@ export default function ProvincePage({ data, affiliates }: Props) {
           {/* Geography */}
           {data.geography && (
             <section className="mb-10">
-              <h2 className="text-2xl font-bold text-gray-900 mb-4">Geography & Landscape</h2>
+              <h2 className="text-2xl font-bold text-gray-900 mb-4">{isNl ? 'Geografie & Landschap' : 'Geography & Landscape'}</h2>
               <div className="bg-white rounded-2xl p-6 shadow-sm">
                 <p className="text-gray-700">{data.geography}</p>
               </div>
@@ -90,12 +95,12 @@ export default function ProvincePage({ data, affiliates }: Props) {
 
           {/* Best Time to Visit */}
           <section className="mb-10">
-            <h2 className="text-2xl font-bold text-gray-900 mb-4">Best Time to Visit {data.provinceName}</h2>
+            <h2 className="text-2xl font-bold text-gray-900 mb-4">{isNl ? `Beste Tijd om ${data.provinceName} te Bezoeken` : `Best Time to Visit ${data.provinceName}`}</h2>
             <div className="bg-white rounded-2xl p-6 shadow-sm">
               <div className="grid md:grid-cols-3 gap-4 mb-4">
-                <div><strong className="text-green-600">Peak Season:</strong> {data.bestTimeToVisit.peak}</div>
-                <div><strong className="text-yellow-600">Shoulder:</strong> {data.bestTimeToVisit.shoulder}</div>
-                <div><strong className="text-orange-600">Low Season:</strong> {data.bestTimeToVisit.lowSeason}</div>
+                <div><strong className="text-green-600">{isNl ? 'Hoogseizoen:' : 'Peak Season:'}</strong> {data.bestTimeToVisit.peak}</div>
+                <div><strong className="text-yellow-600">{isNl ? 'Tussenseizoen:' : 'Shoulder:'}</strong> {data.bestTimeToVisit.shoulder}</div>
+                <div><strong className="text-orange-600">{isNl ? 'Laagseizoen:' : 'Low Season:'}</strong> {data.bestTimeToVisit.lowSeason}</div>
               </div>
               <p className="text-gray-700">{data.bestTimeToVisit.recommendation}</p>
             </div>
@@ -103,14 +108,14 @@ export default function ProvincePage({ data, affiliates }: Props) {
 
           {/* Top Attractions */}
           <section className="mb-10">
-            <h2 className="text-2xl font-bold text-gray-900 mb-4">Top Attractions in {data.provinceName}</h2>
+            <h2 className="text-2xl font-bold text-gray-900 mb-4">{isNl ? `Top Attracties in ${data.provinceName}` : `Top Attractions in ${data.provinceName}`}</h2>
             <div className="grid md:grid-cols-2 gap-4">
               {data.topAttractions.map((a, i) => (
                 <div key={i} className="bg-white rounded-xl p-5 shadow-sm border border-gray-100">
                   <h3 className="font-bold text-gray-900 mb-1">{a.name}</h3>
                   <span className="text-xs text-thailand-blue bg-thailand-blue/10 px-2 py-0.5 rounded-full">{a.type}</span>
                   <p className="text-gray-600 text-sm mt-2">{a.description}</p>
-                  {a.entranceFee && <p className="text-sm text-gray-500 mt-1">Entrance: {a.entranceFee}</p>}
+                  {a.entranceFee && <p className="text-sm text-gray-500 mt-1">{isNl ? 'Toegang' : 'Entrance'}: {a.entranceFee}</p>}
                   {a.googleMapsUrl && (
                     <a href={a.googleMapsUrl} target="_blank" rel="noopener noreferrer" className="text-xs text-thailand-blue hover:underline mt-1 inline-block">
                       View on Google Maps →
@@ -126,7 +131,7 @@ export default function ProvincePage({ data, affiliates }: Props) {
           {/* Cities in this province */}
           {data.cities.length > 0 && (
             <section className="mb-10">
-              <h2 className="text-2xl font-bold text-gray-900 mb-4">Destinations in {data.provinceName}</h2>
+              <h2 className="text-2xl font-bold text-gray-900 mb-4">{isNl ? `Bestemmingen in ${data.provinceName}` : `Destinations in ${data.provinceName}`}</h2>
               <div className="grid sm:grid-cols-2 lg:grid-cols-3 gap-4">
                 {data.cities.map((city, i) => (
                   <div key={i} className="bg-white rounded-xl p-5 shadow-sm border border-gray-100 hover:shadow-md transition-shadow">
@@ -134,12 +139,12 @@ export default function ProvincePage({ data, affiliates }: Props) {
                     <div className="flex flex-wrap gap-2">
                       {city.hasCityPage && (
                         <Link href={`/city/${city.slug}/`} className="text-sm text-thailand-blue hover:underline">
-                          City Guide →
+                          {isNl ? 'Stadsgids' : 'City Guide'} &rarr;
                         </Link>
                       )}
                       {city.hasCluster && (
                         <Link href={`/destinations/${city.slug}/`} className="text-sm text-thailand-blue hover:underline">
-                          Destination Hub →
+                          {isNl ? 'Bestemmingshub' : 'Destination Hub'} &rarr;
                         </Link>
                       )}
                     </div>
@@ -152,7 +157,7 @@ export default function ProvincePage({ data, affiliates }: Props) {
           {/* Local Food */}
           {data.localFood.length > 0 && (
             <section className="mb-10">
-              <h2 className="text-2xl font-bold text-gray-900 mb-4">Local Food & Cuisine</h2>
+              <h2 className="text-2xl font-bold text-gray-900 mb-4">{isNl ? 'Lokaal Eten & Keuken' : 'Local Food & Cuisine'}</h2>
               <div className="bg-white rounded-2xl p-6 shadow-sm">
                 <ul className="grid md:grid-cols-2 gap-2">
                   {data.localFood.map((food, i) => (
@@ -169,7 +174,7 @@ export default function ProvincePage({ data, affiliates }: Props) {
           {/* Culture */}
           {data.culture && (
             <section className="mb-10">
-              <h2 className="text-2xl font-bold text-gray-900 mb-4">Culture & Traditions</h2>
+              <h2 className="text-2xl font-bold text-gray-900 mb-4">{isNl ? 'Cultuur & Tradities' : 'Culture & Traditions'}</h2>
               <div className="bg-white rounded-2xl p-6 shadow-sm">
                 <p className="text-gray-700">{data.culture}</p>
               </div>
@@ -178,17 +183,17 @@ export default function ProvincePage({ data, affiliates }: Props) {
 
           {/* Getting There & Around */}
           <section className="mb-10">
-            <h2 className="text-2xl font-bold text-gray-900 mb-4">Getting There & Around</h2>
+            <h2 className="text-2xl font-bold text-gray-900 mb-4">{isNl ? 'Bereikbaarheid & Vervoer' : 'Getting There & Around'}</h2>
             <div className="bg-white rounded-2xl p-6 shadow-sm grid md:grid-cols-2 gap-6">
-              <div><h3 className="font-bold mb-2">Getting There</h3><p className="text-gray-600">{data.gettingThere}</p></div>
-              <div><h3 className="font-bold mb-2">Getting Around</h3><p className="text-gray-600">{data.gettingAround}</p></div>
+              <div><h3 className="font-bold mb-2">{isNl ? 'Bereikbaarheid' : 'Getting There'}</h3><p className="text-gray-600">{data.gettingThere}</p></div>
+              <div><h3 className="font-bold mb-2">{isNl ? 'Rondreizen' : 'Getting Around'}</h3><p className="text-gray-600">{data.gettingAround}</p></div>
             </div>
           </section>
 
           {/* Travel Tips */}
           {data.travelTips.length > 0 && (
             <section className="mb-10">
-              <h2 className="text-2xl font-bold text-gray-900 mb-4">Travel Tips for {data.provinceName}</h2>
+              <h2 className="text-2xl font-bold text-gray-900 mb-4">{isNl ? `Reistips voor ${data.provinceName}` : `Travel Tips for ${data.provinceName}`}</h2>
               <div className="bg-white rounded-2xl p-6 shadow-sm">
                 <ul className="space-y-3">
                   {data.travelTips.map((tip, i) => (
@@ -207,7 +212,7 @@ export default function ProvincePage({ data, affiliates }: Props) {
           {/* Neighboring Provinces */}
           {data.neighboringProvinces.length > 0 && (
             <section className="mb-10">
-              <h2 className="text-2xl font-bold text-gray-900 mb-4">Neighboring Provinces</h2>
+              <h2 className="text-2xl font-bold text-gray-900 mb-4">{isNl ? 'Aangrenzende Provincies' : 'Neighboring Provinces'}</h2>
               <div className="flex flex-wrap gap-3">
                 {data.neighboringProvinces.map((np, i) => (
                   <Link
@@ -228,7 +233,7 @@ export default function ProvincePage({ data, affiliates }: Props) {
               href={`/region/${data.region}/`}
               className="text-thailand-blue hover:underline font-medium"
             >
-              ← Back to {regionLabel}
+              &larr; {isNl ? `Terug naar ${regionLabel}` : `Back to ${regionLabel}`}
             </Link>
           </div>
         </div>

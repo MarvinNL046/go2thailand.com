@@ -3,6 +3,7 @@ import SEOHead from '../components/SEOHead';
 import Link from 'next/link';
 import Image from 'next/image';
 import { useState } from 'react';
+import { useRouter } from 'next/router';
 import Breadcrumbs from '../components/Breadcrumbs';
 
 interface SocialPost {
@@ -26,16 +27,18 @@ interface SocialPageProps {
 }
 
 export default function SocialPage({ featuredPosts, recentPosts }: SocialPageProps) {
+  const { locale } = useRouter();
+  const isNl = locale === 'nl';
   const [filter, setFilter] = useState<string>('all');
-  
+
   const categories = [
-    { id: 'all', label: 'All Posts', emoji: '' },
-    { id: 'food', label: 'Thai Food', emoji: '' },
-    { id: 'city', label: 'Cities', emoji: '' },
-    { id: 'beach', label: 'Beaches', emoji: '' },
-    { id: 'temple', label: 'Temples', emoji: '' },
-    { id: 'attraction', label: 'Attractions', emoji: '' },
-    { id: 'culture', label: 'Culture', emoji: '' }
+    { id: 'all', label: 'All Posts', labelNl: 'Alle Berichten', emoji: '' },
+    { id: 'food', label: 'Thai Food', labelNl: 'Thais Eten', emoji: '' },
+    { id: 'city', label: 'Cities', labelNl: 'Steden', emoji: '' },
+    { id: 'beach', label: 'Beaches', labelNl: 'Stranden', emoji: '' },
+    { id: 'temple', label: 'Temples', labelNl: 'Tempels', emoji: '' },
+    { id: 'attraction', label: 'Attractions', labelNl: 'Attracties', emoji: '' },
+    { id: 'culture', label: 'Culture', labelNl: 'Cultuur', emoji: '' }
   ];
 
   const filteredPosts = filter === 'all' 
@@ -68,12 +71,12 @@ export default function SocialPage({ featuredPosts, recentPosts }: SocialPagePro
         <section className="bg-surface-dark text-white">
           <div className="container-custom py-16">
             <div className="text-center">
-              <span className="font-script text-thailand-gold text-lg">Stay connected</span>
+              <span className="font-script text-thailand-gold text-lg">{isNl ? 'Blijf verbonden' : 'Stay connected'}</span>
               <h1 className="text-4xl lg:text-6xl font-bold font-heading mb-6 mt-2">
-                Follow Our Thailand Journey
+                {isNl ? 'Volg Onze Thailand Reis' : 'Follow Our Thailand Journey'}
               </h1>
               <p className="text-xl lg:text-2xl mb-8 max-w-3xl mx-auto opacity-90">
-                Daily inspiration from the Land of Smiles - food, beaches, temples, and adventures!
+                {isNl ? 'Dagelijkse inspiratie uit het Land van de Glimlach - eten, stranden, tempels en avonturen!' : 'Daily inspiration from the Land of Smiles - food, beaches, temples, and adventures!'}
               </p>
               <div className="flex flex-wrap justify-center gap-4">
                 <a 
@@ -110,6 +113,7 @@ export default function SocialPage({ featuredPosts, recentPosts }: SocialPagePro
               { name: 'Home', href: '/' },
               { name: 'Social Media', href: '/social' }
             ]} />
+
           </div>
         </section>
 
@@ -117,9 +121,9 @@ export default function SocialPage({ featuredPosts, recentPosts }: SocialPagePro
         <section className="section-padding">
           <div className="container-custom">
             <div className="text-center mb-8">
-              <span className="font-script text-thailand-gold text-lg">Top picks</span>
+              <span className="font-script text-thailand-gold text-lg">{isNl ? 'Topkeuzes' : 'Top picks'}</span>
               <h2 className="text-3xl lg:text-4xl font-bold font-heading text-gray-900 mt-1">
-                Featured Posts
+                {isNl ? 'Uitgelichte Berichten' : 'Featured Posts'}
               </h2>
             </div>
             
@@ -154,7 +158,7 @@ export default function SocialPage({ featuredPosts, recentPosts }: SocialPagePro
                           <span>{post.engagement.shares}</span>
                         </div>
                         <span className="text-thailand-blue font-medium">
-                          Read more →
+                          {isNl ? 'Lees meer' : 'Read more'} &rarr;
                         </span>
                       </div>
                     </div>
@@ -177,7 +181,7 @@ export default function SocialPage({ featuredPosts, recentPosts }: SocialPagePro
                         : 'bg-white text-gray-700 hover:bg-gray-100'
                     }`}
                   >
-                    {category.label}
+                    {isNl ? category.labelNl : category.label}
                   </button>
                 ))}
               </div>
@@ -228,10 +232,10 @@ export default function SocialPage({ featuredPosts, recentPosts }: SocialPagePro
           <div className="container-custom">
             <div className="text-center mb-12">
               <h2 className="text-3xl lg:text-4xl font-bold font-heading text-gray-900 mb-4">
-                Live from Our Social Channels
+                {isNl ? 'Live van Onze Social Kanalen' : 'Live from Our Social Channels'}
               </h2>
               <p className="text-xl text-gray-600 max-w-3xl mx-auto">
-                Join our community of Thailand lovers! Share your own adventures with #Go2Thailand
+                {isNl ? 'Word lid van onze community van Thailand-liefhebbers! Deel je eigen avonturen met #Go2Thailand' : 'Join our community of Thailand lovers! Share your own adventures with #Go2Thailand'}
               </p>
             </div>
 
@@ -242,10 +246,10 @@ export default function SocialPage({ featuredPosts, recentPosts }: SocialPagePro
                   <svg className="w-6 h-6 text-blue-600" fill="currentColor" viewBox="0 0 24 24">
                     <path d="M24 12.073c0-6.627-5.373-12-12-12s-12 5.373-12 12c0 5.99 4.388 10.954 10.125 11.854v-8.385H7.078v-3.47h3.047V9.43c0-3.007 1.792-4.669 4.533-4.669 1.312 0 2.686.235 2.686.235v2.953H15.83c-1.491 0-1.956.925-1.956 1.874v2.25h3.328l-.532 3.47h-2.796v8.385C19.612 23.027 24 18.062 24 12.073z"/>
                   </svg>
-                  Follow on Facebook
+                  {isNl ? 'Volg op Facebook' : 'Follow on Facebook'}
                 </h3>
                 <p className="text-gray-600 mb-4">
-                  Daily travel tips, live Q&As, and community discussions
+                  {isNl ? 'Dagelijkse reistips, live Q&A\'s en community discussies' : 'Daily travel tips, live Q&As, and community discussions'}
                 </p>
                 <a 
                   href="https://facebook.com/go2thailand" 
@@ -253,7 +257,7 @@ export default function SocialPage({ featuredPosts, recentPosts }: SocialPagePro
                   rel="noopener noreferrer"
                   className="inline-block bg-thailand-blue text-white px-6 py-2 rounded-xl font-medium hover:bg-thailand-red transition-colors"
                 >
-                  Like Our Page
+                  {isNl ? 'Like Onze Pagina' : 'Like Our Page'}
                 </a>
               </div>
 
@@ -263,10 +267,10 @@ export default function SocialPage({ featuredPosts, recentPosts }: SocialPagePro
                   <svg className="w-6 h-6 text-pink-600" fill="currentColor" viewBox="0 0 24 24">
                     <path d="M12 2.163c3.204 0 3.584.012 4.85.07 3.252.148 4.771 1.691 4.919 4.919.058 1.265.069 1.645.069 4.849 0 3.205-.012 3.584-.069 4.849-.149 3.225-1.664 4.771-4.919 4.919-1.266.058-1.644.07-4.85.07-3.204 0-3.584-.012-4.849-.07-3.26-.149-4.771-1.699-4.919-4.92-.058-1.265-.07-1.644-.07-4.849 0-3.204.013-3.583.07-4.849.149-3.227 1.664-4.771 4.919-4.919 1.266-.057 1.645-.069 4.849-.069zm0-2.163c-3.259 0-3.667.014-4.947.072-4.358.2-6.78 2.618-6.98 6.98-.059 1.281-.073 1.689-.073 4.948 0 3.259.014 3.668.072 4.948.2 4.358 2.618 6.78 6.98 6.98 1.281.058 1.689.072 4.948.072 3.259 0 3.668-.014 4.948-.072 4.354-.2 6.782-2.618 6.979-6.98.059-1.28.073-1.689.073-4.948 0-3.259-.014-3.667-.072-4.947-.196-4.354-2.617-6.78-6.979-6.98-1.281-.059-1.69-.073-4.949-.073zM5.838 12a6.162 6.162 0 1112.324 0 6.162 6.162 0 01-12.324 0zM12 16a4 4 0 110-8 4 4 0 010 8zm4.965-10.405a1.44 1.44 0 112.881.001 1.44 1.44 0 01-2.881-.001z"/>
                   </svg>
-                  Follow on Instagram
+                  {isNl ? 'Volg op Instagram' : 'Follow on Instagram'}
                 </h3>
                 <p className="text-gray-600 mb-4">
-                  Stunning photos, stories, and reels from around Thailand
+                  {isNl ? 'Prachtige foto\'s, verhalen en reels uit heel Thailand' : 'Stunning photos, stories, and reels from around Thailand'}
                 </p>
                 <a 
                   href="https://instagram.com/go2thailand" 
@@ -274,7 +278,7 @@ export default function SocialPage({ featuredPosts, recentPosts }: SocialPagePro
                   rel="noopener noreferrer"
                   className="inline-block bg-thailand-red text-white px-6 py-2 rounded-xl font-medium hover:bg-thailand-blue transition-colors"
                 >
-                  Follow Us
+                  {isNl ? 'Volg Ons' : 'Follow Us'}
                 </a>
               </div>
             </div>
@@ -285,16 +289,16 @@ export default function SocialPage({ featuredPosts, recentPosts }: SocialPagePro
         <section className="bg-surface-cream py-8">
           <div className="container-custom">
             <div className="flex flex-col sm:flex-row items-center justify-center gap-4 text-center sm:text-left">
-              <p className="text-gray-700 font-semibold">Planning your trip?</p>
+              <p className="text-gray-700 font-semibold">{isNl ? 'Reis je plannen?' : 'Planning your trip?'}</p>
               <div className="flex flex-wrap justify-center gap-3">
                 <Link href="/esim/" className="bg-thailand-blue text-white px-4 py-2 rounded-full text-sm font-medium hover:bg-thailand-blue-dark transition-colors">
-                  Get an eSIM
+                  {isNl ? 'Koop een eSIM' : 'Get an eSIM'}
                 </Link>
                 <Link href="/activities/" className="bg-thailand-blue text-white px-4 py-2 rounded-full text-sm font-medium hover:bg-thailand-blue-dark transition-colors">
-                  Book Activities
+                  {isNl ? 'Boek Activiteiten' : 'Book Activities'}
                 </Link>
                 <Link href="/travel-security/" className="bg-thailand-blue text-white px-4 py-2 rounded-full text-sm font-medium hover:bg-thailand-blue-dark transition-colors">
-                  Stay Secure
+                  {isNl ? 'Blijf Veilig' : 'Stay Secure'}
                 </Link>
               </div>
             </div>
@@ -305,17 +309,17 @@ export default function SocialPage({ featuredPosts, recentPosts }: SocialPagePro
         <section className="bg-surface-dark text-white section-padding">
           <div className="container-custom text-center">
             <h2 className="text-3xl lg:text-4xl font-bold font-heading mb-6">
-              Start Planning Your Thailand Adventure
+              {isNl ? 'Begin met het Plannen van je Thailand Avontuur' : 'Start Planning Your Thailand Adventure'}
             </h2>
             <p className="text-xl mb-8 max-w-2xl mx-auto opacity-90">
-              From social inspiration to real exploration - discover everything Thailand has to offer
+              {isNl ? 'Van sociale inspiratie tot echte verkenning - ontdek alles wat Thailand te bieden heeft' : 'From social inspiration to real exploration - discover everything Thailand has to offer'}
             </p>
             <div className="flex flex-wrap justify-center gap-4">
               <Link href="/city/" className="bg-white text-thailand-blue px-8 py-3 rounded-xl font-semibold hover:bg-surface-cream transition-colors">
-                Explore Cities
+                {isNl ? 'Verken Steden' : 'Explore Cities'}
               </Link>
               <Link href="/food/" className="bg-white bg-opacity-20 text-white border-2 border-white px-8 py-3 rounded-xl font-semibold hover:bg-white hover:text-thailand-blue transition-colors">
-                Discover Food
+                {isNl ? 'Ontdek Eten' : 'Discover Food'}
               </Link>
             </div>
           </div>

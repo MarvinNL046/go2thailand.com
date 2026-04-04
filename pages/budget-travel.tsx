@@ -1,13 +1,17 @@
 import { GetStaticProps } from 'next';
+import { useRouter } from 'next/router';
 import Link from 'next/link';
 import SEOHead from '../components/SEOHead';
 import Breadcrumbs from '../components/Breadcrumbs';
 import EmailCapture from '../components/EmailCapture';
 
 export default function BudgetTravelPage() {
+  const { locale } = useRouter();
+  const isNl = locale === 'nl';
+
   const breadcrumbs = [
     { name: 'Home', href: '/' },
-    { name: 'Budget Travel', href: '/budget-travel/' },
+    { name: isNl ? 'Budget Reizen' : 'Budget Travel', href: '/budget-travel/' },
   ];
 
   const faqItems = [
@@ -58,10 +62,12 @@ export default function BudgetTravelPage() {
             <Breadcrumbs items={breadcrumbs} />
             <div className="text-center">
               <h1 className="text-4xl lg:text-5xl font-bold font-heading text-gray-900 mb-4">
-                Thailand on a Budget: Daily Costs, Tips &amp; Money-Saving Hacks (2026)
+                {isNl ? 'Thailand met een Budget: Dagelijkse Kosten, Tips & Bespaarhacks (2026)' : 'Thailand on a Budget: Daily Costs, Tips & Money-Saving Hacks (2026)'}
               </h1>
               <p className="text-xl text-gray-600 max-w-3xl mx-auto">
-                Thailand remains one of the best-value destinations on the planet. Whether you are backpacking on ฿1,000 a day or traveling comfortably on ฿3,500, this guide breaks down exactly what things cost so you can plan confidently.
+                {isNl
+                  ? 'Thailand blijft een van de bestemmingen met de beste prijs-kwaliteitverhouding ter wereld. Of je nu backpackt op \u0E3F1.000 per dag of comfortabel reist op \u0E3F3.500, deze gids geeft precies weer wat dingen kosten zodat je vol vertrouwen kunt plannen.'
+                  : 'Thailand remains one of the best-value destinations on the planet. Whether you are backpacking on \u0E3F1,000 a day or traveling comfortably on \u0E3F3,500, this guide breaks down exactly what things cost so you can plan confidently.'}
               </p>
             </div>
           </div>
@@ -71,14 +77,14 @@ export default function BudgetTravelPage() {
           <div className="container-custom max-w-4xl">
             {/* Table of Contents */}
             <nav className="bg-white rounded-2xl shadow-md p-6 mb-10">
-              <h2 className="text-lg font-bold font-heading text-gray-900 mb-4">In this guide</h2>
+              <h2 className="text-lg font-bold font-heading text-gray-900 mb-4">{isNl ? 'In deze gids' : 'In this guide'}</h2>
               <ul className="grid grid-cols-2 gap-2 text-sm">
-                <li><a href="#daily-costs" className="text-thailand-blue hover:underline">Daily Costs Breakdown</a></li>
-                <li><a href="#cheapest-places" className="text-thailand-blue hover:underline">Cheapest Places to Visit</a></li>
-                <li><a href="#accommodation" className="text-thailand-blue hover:underline">Budget Accommodation</a></li>
-                <li><a href="#food" className="text-thailand-blue hover:underline">Eating on a Budget</a></li>
-                <li><a href="#transport" className="text-thailand-blue hover:underline">Getting Around Cheaply</a></li>
-                <li><a href="#faqs" className="text-thailand-blue hover:underline">Budget FAQs</a></li>
+                <li><a href="#daily-costs" className="text-thailand-blue hover:underline">{isNl ? 'Dagelijkse Kosten Overzicht' : 'Daily Costs Breakdown'}</a></li>
+                <li><a href="#cheapest-places" className="text-thailand-blue hover:underline">{isNl ? 'Goedkoopste Plekken' : 'Cheapest Places to Visit'}</a></li>
+                <li><a href="#accommodation" className="text-thailand-blue hover:underline">{isNl ? 'Budget Accommodatie' : 'Budget Accommodation'}</a></li>
+                <li><a href="#food" className="text-thailand-blue hover:underline">{isNl ? 'Goedkoop Eten' : 'Eating on a Budget'}</a></li>
+                <li><a href="#transport" className="text-thailand-blue hover:underline">{isNl ? 'Goedkoop Vervoer' : 'Getting Around Cheaply'}</a></li>
+                <li><a href="#faqs" className="text-thailand-blue hover:underline">{isNl ? 'Budget FAQ' : 'Budget FAQs'}</a></li>
               </ul>
             </nav>
 
@@ -95,8 +101,8 @@ export default function BudgetTravelPage() {
             {/* ============================================ */}
             <section id="daily-costs" className="mb-16">
               <div className="border-t-2 border-thailand-blue/20 pt-8 mb-8">
-                <h2 className="text-3xl font-bold font-heading text-gray-900">How Much Does Thailand Cost Per Day?</h2>
-                <p className="text-gray-600 mt-2">Three realistic daily budgets based on verified 2026 prices — from shoestring to splurge.</p>
+                <h2 className="text-3xl font-bold font-heading text-gray-900">{isNl ? 'Hoeveel Kost Thailand Per Dag?' : 'How Much Does Thailand Cost Per Day?'}</h2>
+                <p className="text-gray-600 mt-2">{isNl ? 'Drie realistische dagbudgetten op basis van geverifieerde 2026-prijzen \u2014 van zuinig tot luxe.' : 'Three realistic daily budgets based on verified 2026 prices \u2014 from shoestring to splurge.'}</p>
               </div>
 
               <p className="text-gray-700 leading-relaxed mb-6">
@@ -113,45 +119,45 @@ export default function BudgetTravelPage() {
                   <table className="w-full text-sm">
                     <thead>
                       <tr className="bg-thailand-blue text-white">
-                        <th className="text-left p-4 font-semibold">Category</th>
-                        <th className="text-center p-4 font-semibold">Backpacker</th>
-                        <th className="text-center p-4 font-semibold">Mid-Range</th>
-                        <th className="text-center p-4 font-semibold">Luxury</th>
+                        <th className="text-left p-4 font-semibold">{isNl ? 'Categorie' : 'Category'}</th>
+                        <th className="text-center p-4 font-semibold">{isNl ? 'Backpacker' : 'Backpacker'}</th>
+                        <th className="text-center p-4 font-semibold">{isNl ? 'Middensegment' : 'Mid-Range'}</th>
+                        <th className="text-center p-4 font-semibold">{isNl ? 'Luxe' : 'Luxury'}</th>
                       </tr>
                     </thead>
                     <tbody className="divide-y divide-gray-100">
                       <tr className="hover:bg-gray-50">
-                        <td className="p-4 font-medium text-gray-900">Accommodation</td>
+                        <td className="p-4 font-medium text-gray-900">{isNl ? 'Accommodatie' : 'Accommodation'}</td>
                         <td className="p-4 text-center text-gray-700">฿150-500<br /><span className="text-xs text-gray-500">hostel dorm</span></td>
                         <td className="p-4 text-center text-gray-700">฿800-1,800<br /><span className="text-xs text-gray-500">private hotel room</span></td>
                         <td className="p-4 text-center text-gray-700">฿5,000-17,000<br /><span className="text-xs text-gray-500">5-star resort</span></td>
                       </tr>
                       <tr className="hover:bg-gray-50">
-                        <td className="p-4 font-medium text-gray-900">Food (3 meals)</td>
+                        <td className="p-4 font-medium text-gray-900">{isNl ? 'Eten (3 maaltijden)' : 'Food (3 meals)'}</td>
                         <td className="p-4 text-center text-gray-700">฿120-240<br /><span className="text-xs text-gray-500">street food &amp; 7-Eleven</span></td>
                         <td className="p-4 text-center text-gray-700">฿300-600<br /><span className="text-xs text-gray-500">mix of street &amp; restaurant</span></td>
                         <td className="p-4 text-center text-gray-700">฿1,000-3,000<br /><span className="text-xs text-gray-500">fine dining</span></td>
                       </tr>
                       <tr className="hover:bg-gray-50">
-                        <td className="p-4 font-medium text-gray-900">Transport</td>
+                        <td className="p-4 font-medium text-gray-900">{isNl ? 'Vervoer' : 'Transport'}</td>
                         <td className="p-4 text-center text-gray-700">฿50-150<br /><span className="text-xs text-gray-500">songthaew, bus, BTS</span></td>
                         <td className="p-4 text-center text-gray-700">฿150-400<br /><span className="text-xs text-gray-500">Grab, BTS, occasional taxi</span></td>
                         <td className="p-4 text-center text-gray-700">฿500-2,000<br /><span className="text-xs text-gray-500">private car, domestic flights</span></td>
                       </tr>
                       <tr className="hover:bg-gray-50">
-                        <td className="p-4 font-medium text-gray-900">Activities</td>
+                        <td className="p-4 font-medium text-gray-900">{isNl ? 'Activiteiten' : 'Activities'}</td>
                         <td className="p-4 text-center text-gray-700">฿0-200<br /><span className="text-xs text-gray-500">free temples, beaches</span></td>
                         <td className="p-4 text-center text-gray-700">฿300-800<br /><span className="text-xs text-gray-500">tours, cooking classes</span></td>
                         <td className="p-4 text-center text-gray-700">฿1,500-5,000<br /><span className="text-xs text-gray-500">private tours, spa</span></td>
                       </tr>
                       <tr className="hover:bg-gray-50">
-                        <td className="p-4 font-medium text-gray-900">Drinks</td>
+                        <td className="p-4 font-medium text-gray-900">{isNl ? 'Dranken' : 'Drinks'}</td>
                         <td className="p-4 text-center text-gray-700">฿30-100<br /><span className="text-xs text-gray-500">water, coffee, one beer</span></td>
                         <td className="p-4 text-center text-gray-700">฿100-300<br /><span className="text-xs text-gray-500">cocktails, craft beer</span></td>
                         <td className="p-4 text-center text-gray-700">฿500-1,500<br /><span className="text-xs text-gray-500">rooftop bars, wine</span></td>
                       </tr>
                       <tr className="bg-gray-50 font-bold">
-                        <td className="p-4 text-gray-900">Daily Total</td>
+                        <td className="p-4 text-gray-900">{isNl ? 'Dagelijks Totaal' : 'Daily Total'}</td>
                         <td className="p-4 text-center text-thailand-blue">฿1,000-1,750<br /><span className="text-xs font-normal">($30-50)</span></td>
                         <td className="p-4 text-center text-thailand-blue">฿2,000-3,500<br /><span className="text-xs font-normal">($60-100)</span></td>
                         <td className="p-4 text-center text-thailand-blue">฿7,000+<br /><span className="text-xs font-normal">($200+)</span></td>
@@ -163,7 +169,7 @@ export default function BudgetTravelPage() {
 
               {/* Total trip costs */}
               <div className="mb-8">
-                <h3 className="text-xl font-bold font-heading text-gray-900 mb-4">What Does a Full Trip Cost?</h3>
+                <h3 className="text-xl font-bold font-heading text-gray-900 mb-4">{isNl ? 'Wat Kost een Volledige Reis?' : 'What Does a Full Trip Cost?'}</h3>
                 <p className="text-gray-700 leading-relaxed mb-4">
                   Beyond daily spending, you need to account for flights, visa costs (free for most nationalities on stays under 60 days), travel insurance, and one-time purchases like a local SIM card (฿300-600 for 15-30 days of data). Here is what typical total trip budgets look like:
                 </p>
@@ -246,8 +252,8 @@ export default function BudgetTravelPage() {
             {/* ============================================ */}
             <section id="cheapest-places" className="mb-16">
               <div className="border-t-2 border-thailand-blue/20 pt-8 mb-8">
-                <h2 className="text-3xl font-bold font-heading text-gray-900">Cheapest Places to Visit in Thailand</h2>
-                <p className="text-gray-600 mt-2">Where to go if you want to stretch your baht the furthest — and what to avoid on a tight budget.</p>
+                <h2 className="text-3xl font-bold font-heading text-gray-900">{isNl ? 'Goedkoopste Plekken om te Bezoeken in Thailand' : 'Cheapest Places to Visit in Thailand'}</h2>
+                <p className="text-gray-600 mt-2">{isNl ? 'Waar je heen moet als je je baht zo ver mogelijk wilt oprekken \u2014 en wat je moet vermijden met een krap budget.' : 'Where to go if you want to stretch your baht the furthest \u2014 and what to avoid on a tight budget.'}</p>
               </div>
 
               <p className="text-gray-700 leading-relaxed mb-6">
@@ -361,8 +367,8 @@ export default function BudgetTravelPage() {
             {/* ============================================ */}
             <section id="accommodation" className="mb-16">
               <div className="border-t-2 border-thailand-blue/20 pt-8 mb-8">
-                <h2 className="text-3xl font-bold font-heading text-gray-900">Budget Accommodation in Thailand</h2>
-                <p className="text-gray-600 mt-2">Where to sleep on every budget — from ฿150 hostel dorms to ฿2,000 private apartments.</p>
+                <h2 className="text-3xl font-bold font-heading text-gray-900">{isNl ? 'Budget Accommodatie in Thailand' : 'Budget Accommodation in Thailand'}</h2>
+                <p className="text-gray-600 mt-2">{isNl ? 'Waar slapen voor elk budget \u2014 van \u0E3F150 hostel-slaapzalen tot \u0E3F2.000 priv\u00e9-appartementen.' : 'Where to sleep on every budget \u2014 from \u0E3F150 hostel dorms to \u0E3F2,000 private apartments.'}</p>
               </div>
 
               <p className="text-gray-700 leading-relaxed mb-6">
@@ -430,15 +436,15 @@ export default function BudgetTravelPage() {
             </section>
 
             {/* Mid-page Email Capture */}
-            <EmailCapture heading="Planning a Thailand trip on a budget?" subtext="Get weekly money-saving tips, cheap flight alerts, and budget hacks — straight to your inbox." />
+            <EmailCapture heading={isNl ? 'Een Thailand reis met budget plannen?' : 'Planning a Thailand trip on a budget?'} subtext={isNl ? 'Ontvang wekelijkse bespaartips, goedkope vluchtwaarschuwingen en budget hacks \u2014 direct in je inbox.' : 'Get weekly money-saving tips, cheap flight alerts, and budget hacks \u2014 straight to your inbox.'} />
 
             {/* ============================================ */}
             {/* SECTION 4: Eating on a Budget */}
             {/* ============================================ */}
             <section id="food" className="mb-16">
               <div className="border-t-2 border-thailand-blue/20 pt-8 mb-8">
-                <h2 className="text-3xl font-bold font-heading text-gray-900">Eating on a Budget in Thailand</h2>
-                <p className="text-gray-600 mt-2">How to eat three meals a day for under $7 — and eat incredibly well while doing it.</p>
+                <h2 className="text-3xl font-bold font-heading text-gray-900">{isNl ? 'Goedkoop Eten in Thailand' : 'Eating on a Budget in Thailand'}</h2>
+                <p className="text-gray-600 mt-2">{isNl ? 'Hoe je drie maaltijden per dag eet voor minder dan $7 \u2014 en ongelooflijk goed eet.' : 'How to eat three meals a day for under $7 \u2014 and eat incredibly well while doing it.'}</p>
               </div>
 
               <p className="text-gray-700 leading-relaxed mb-6">
@@ -519,8 +525,8 @@ export default function BudgetTravelPage() {
             {/* ============================================ */}
             <section id="transport" className="mb-16">
               <div className="border-t-2 border-thailand-blue/20 pt-8 mb-8">
-                <h2 className="text-3xl font-bold font-heading text-gray-900">Getting Around Thailand Cheaply</h2>
-                <p className="text-gray-600 mt-2">Budget flights from ฿800, overnight trains from ฿500, and why Grab beats tuk-tuks every time.</p>
+                <h2 className="text-3xl font-bold font-heading text-gray-900">{isNl ? 'Goedkoop Reizen door Thailand' : 'Getting Around Thailand Cheaply'}</h2>
+                <p className="text-gray-600 mt-2">{isNl ? 'Budgetvluchten vanaf \u0E3F800, nachttreinen vanaf \u0E3F500, en waarom Grab altijd beter is dan tuk-tuks.' : 'Budget flights from \u0E3F800, overnight trains from \u0E3F500, and why Grab beats tuk-tuks every time.'}</p>
               </div>
 
               <p className="text-gray-700 leading-relaxed mb-6">
@@ -613,8 +619,8 @@ export default function BudgetTravelPage() {
             {/* ============================================ */}
             <section id="faqs" className="mb-12">
               <div className="border-t-2 border-thailand-blue/20 pt-8 mb-8">
-                <h2 className="text-3xl font-bold font-heading text-gray-900">Thailand Budget FAQs</h2>
-                <p className="text-gray-600 mt-2">Quick answers to the most common budget travel questions about Thailand.</p>
+                <h2 className="text-3xl font-bold font-heading text-gray-900">{isNl ? 'Thailand Budget FAQ' : 'Thailand Budget FAQs'}</h2>
+                <p className="text-gray-600 mt-2">{isNl ? 'Snelle antwoorden op de meest gestelde budget reisvragen over Thailand.' : 'Quick answers to the most common budget travel questions about Thailand.'}</p>
               </div>
 
               <div className="bg-white rounded-2xl shadow-md p-6">
@@ -650,43 +656,43 @@ export default function BudgetTravelPage() {
             </section>
 
             {/* Email Capture */}
-            <EmailCapture heading="Want more budget tips?" subtext="Get our weekly newsletter with cheap flight deals, hidden budget gems, and money-saving hacks for Thailand." />
+            <EmailCapture heading={isNl ? 'Meer budget tips?' : 'Want more budget tips?'} subtext={isNl ? 'Ontvang onze wekelijkse nieuwsbrief met goedkope vliegdeals, verborgen budget pareltjes en bespaarhacks voor Thailand.' : 'Get our weekly newsletter with cheap flight deals, hidden budget gems, and money-saving hacks for Thailand.'} />
 
             {/* Cross-links to other pillar pages */}
             <section className="bg-white rounded-2xl shadow-md p-6 mt-8">
-              <h2 className="text-xl font-bold font-heading text-gray-900 mb-4">Explore More Thailand Guides</h2>
+              <h2 className="text-xl font-bold font-heading text-gray-900 mb-4">{isNl ? 'Ontdek Meer Thailand Gidsen' : 'Explore More Thailand Guides'}</h2>
               <div className="grid grid-cols-2 md:grid-cols-4 gap-3">
                 <Link href="/thailand-travel-guide/" className="p-4 bg-surface-cream rounded-xl hover:shadow-md transition-all text-center">
-                  <div className="font-semibold text-gray-900 text-sm">Travel Guide</div>
-                  <div className="text-xs text-gray-600">Everything you need</div>
+                  <div className="font-semibold text-gray-900 text-sm">{isNl ? 'Reisgids' : 'Travel Guide'}</div>
+                  <div className="text-xs text-gray-600">{isNl ? 'Alles wat je nodig hebt' : 'Everything you need'}</div>
                 </Link>
                 <Link href="/things-to-do-in-thailand/" className="p-4 bg-surface-cream rounded-xl hover:shadow-md transition-all text-center">
-                  <div className="font-semibold text-gray-900 text-sm">Things to Do</div>
-                  <div className="text-xs text-gray-600">25 best experiences</div>
+                  <div className="font-semibold text-gray-900 text-sm">{isNl ? 'Bezienswaardigheden' : 'Things to Do'}</div>
+                  <div className="text-xs text-gray-600">{isNl ? '25 beste ervaringen' : '25 best experiences'}</div>
                 </Link>
                 <Link href="/thailand-itinerary/" className="p-4 bg-surface-cream rounded-xl hover:shadow-md transition-all text-center">
-                  <div className="font-semibold text-gray-900 text-sm">Itineraries</div>
-                  <div className="text-xs text-gray-600">Ready-made routes</div>
+                  <div className="font-semibold text-gray-900 text-sm">{isNl ? 'Reisroutes' : 'Itineraries'}</div>
+                  <div className="text-xs text-gray-600">{isNl ? 'Kant-en-klare routes' : 'Ready-made routes'}</div>
                 </Link>
                 <Link href="/best-time-to-visit/" className="p-4 bg-surface-cream rounded-xl hover:shadow-md transition-all text-center">
-                  <div className="font-semibold text-gray-900 text-sm">Best Time</div>
-                  <div className="text-xs text-gray-600">Month-by-month</div>
+                  <div className="font-semibold text-gray-900 text-sm">{isNl ? 'Beste Reistijd' : 'Best Time'}</div>
+                  <div className="text-xs text-gray-600">{isNl ? 'Maand-per-maand' : 'Month-by-month'}</div>
                 </Link>
                 <Link href="/best-places-to-visit-thailand/" className="p-4 bg-surface-cream rounded-xl hover:shadow-md transition-all text-center">
-                  <div className="font-semibold text-gray-900 text-sm">Best Places</div>
-                  <div className="text-xs text-gray-600">33 destinations</div>
+                  <div className="font-semibold text-gray-900 text-sm">{isNl ? 'Beste Plekken' : 'Best Places'}</div>
+                  <div className="text-xs text-gray-600">{isNl ? '33 bestemmingen' : '33 destinations'}</div>
                 </Link>
                 <Link href="/food/" className="p-4 bg-surface-cream rounded-xl hover:shadow-md transition-all text-center">
-                  <div className="font-semibold text-gray-900 text-sm">Thai Food</div>
-                  <div className="text-xs text-gray-600">Cuisine guide</div>
+                  <div className="font-semibold text-gray-900 text-sm">{isNl ? 'Thais Eten' : 'Thai Food'}</div>
+                  <div className="text-xs text-gray-600">{isNl ? 'Culinaire gids' : 'Cuisine guide'}</div>
                 </Link>
                 <Link href="/transport/" className="p-4 bg-surface-cream rounded-xl hover:shadow-md transition-all text-center">
-                  <div className="font-semibold text-gray-900 text-sm">Transport</div>
-                  <div className="text-xs text-gray-600">Buses, trains, flights</div>
+                  <div className="font-semibold text-gray-900 text-sm">{isNl ? 'Vervoer' : 'Transport'}</div>
+                  <div className="text-xs text-gray-600">{isNl ? 'Bussen, treinen, vluchten' : 'Buses, trains, flights'}</div>
                 </Link>
                 <Link href="/thailand-for-first-timers/" className="p-4 bg-surface-cream rounded-xl hover:shadow-md transition-all text-center">
-                  <div className="font-semibold text-gray-900 text-sm">First Timers</div>
-                  <div className="text-xs text-gray-600">Start here</div>
+                  <div className="font-semibold text-gray-900 text-sm">{isNl ? 'Beginners' : 'First Timers'}</div>
+                  <div className="text-xs text-gray-600">{isNl ? 'Begin hier' : 'Start here'}</div>
                 </Link>
               </div>
             </section>

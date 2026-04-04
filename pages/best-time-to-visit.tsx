@@ -1,13 +1,17 @@
 import { GetStaticProps } from 'next';
+import { useRouter } from 'next/router';
 import Link from 'next/link';
 import SEOHead from '../components/SEOHead';
 import Breadcrumbs from '../components/Breadcrumbs';
 import EmailCapture from '../components/EmailCapture';
 
 export default function BestTimeToVisitPage() {
+  const { locale } = useRouter();
+  const isNl = locale === 'nl';
+
   const breadcrumbs = [
     { name: 'Home', href: '/' },
-    { name: 'Best Time to Visit Thailand', href: '/best-time-to-visit/' },
+    { name: isNl ? 'Beste Reistijd voor Thailand' : 'Best Time to Visit Thailand', href: '/best-time-to-visit/' },
   ];
 
   const faqItems = [
@@ -58,10 +62,12 @@ export default function BestTimeToVisitPage() {
             <Breadcrumbs items={breadcrumbs} />
             <div className="text-center">
               <h1 className="text-4xl lg:text-5xl font-bold font-heading text-gray-900 mb-4">
-                Best Time to Visit Thailand: Season Guide by Region (2026)
+                {isNl ? 'Beste Reistijd voor Thailand: Seizoensgids per Regio (2026)' : 'Best Time to Visit Thailand: Season Guide by Region (2026)'}
               </h1>
               <p className="text-xl text-gray-600 max-w-3xl mx-auto">
-                Thailand has three distinct seasons and two separate monsoon systems. When you should visit depends entirely on where you want to go and what you want to do.
+                {isNl
+                  ? 'Thailand heeft drie verschillende seizoenen en twee aparte moessonsystemen. Wanneer je moet bezoeken hangt volledig af van waar je naartoe wilt en wat je wilt doen.'
+                  : 'Thailand has three distinct seasons and two separate monsoon systems. When you should visit depends entirely on where you want to go and what you want to do.'}
               </p>
             </div>
           </div>
@@ -71,13 +77,13 @@ export default function BestTimeToVisitPage() {
           <div className="container-custom max-w-4xl">
             {/* Table of Contents */}
             <nav className="bg-white rounded-2xl shadow-md p-6 mb-10">
-              <h2 className="text-lg font-bold font-heading text-gray-900 mb-4">In this guide</h2>
+              <h2 className="text-lg font-bold font-heading text-gray-900 mb-4">{isNl ? 'In deze gids' : 'In this guide'}</h2>
               <ul className="grid grid-cols-2 gap-2 text-sm">
-                <li><a href="#seasons" className="text-thailand-blue hover:underline">Thailand&apos;s Three Seasons</a></li>
-                <li><a href="#regions" className="text-thailand-blue hover:underline">Best Time by Region</a></li>
-                <li><a href="#month-by-month" className="text-thailand-blue hover:underline">Month-by-Month Breakdown</a></li>
-                <li><a href="#festivals" className="text-thailand-blue hover:underline">Festivals &amp; Events 2026</a></li>
-                <li><a href="#packing" className="text-thailand-blue hover:underline">Packing Tips by Season</a></li>
+                <li><a href="#seasons" className="text-thailand-blue hover:underline">{isNl ? 'De Drie Seizoenen van Thailand' : "Thailand's Three Seasons"}</a></li>
+                <li><a href="#regions" className="text-thailand-blue hover:underline">{isNl ? 'Beste Reistijd per Regio' : 'Best Time by Region'}</a></li>
+                <li><a href="#month-by-month" className="text-thailand-blue hover:underline">{isNl ? 'Maand-per-Maand Overzicht' : 'Month-by-Month Breakdown'}</a></li>
+                <li><a href="#festivals" className="text-thailand-blue hover:underline">{isNl ? 'Festivals & Evenementen 2026' : 'Festivals & Events 2026'}</a></li>
+                <li><a href="#packing" className="text-thailand-blue hover:underline">{isNl ? 'Inpaktips per Seizoen' : 'Packing Tips by Season'}</a></li>
                 <li><a href="#faq" className="text-thailand-blue hover:underline">FAQ</a></li>
               </ul>
             </nav>
@@ -95,8 +101,8 @@ export default function BestTimeToVisitPage() {
             {/* ============================================ */}
             <section id="seasons" className="mb-16">
               <div className="border-t-2 border-thailand-blue/20 pt-8 mb-8">
-                <h2 className="text-3xl font-bold font-heading text-gray-900">Thailand&apos;s Three Seasons</h2>
-                <p className="text-gray-600 mt-2">Unlike countries with four seasons, Thailand cycles through cool, hot, and rainy. Each has its advantages.</p>
+                <h2 className="text-3xl font-bold font-heading text-gray-900">{isNl ? 'De Drie Seizoenen van Thailand' : "Thailand's Three Seasons"}</h2>
+                <p className="text-gray-600 mt-2">{isNl ? 'In tegenstelling tot landen met vier seizoenen, doorloopt Thailand koel, heet en regen. Elk heeft zijn voordelen.' : 'Unlike countries with four seasons, Thailand cycles through cool, hot, and rainy. Each has its advantages.'}</p>
               </div>
 
               {/* Cool Season */}
@@ -177,8 +183,8 @@ export default function BestTimeToVisitPage() {
             {/* ============================================ */}
             <section id="regions" className="mb-16">
               <div className="border-t-2 border-thailand-blue/20 pt-8 mb-8">
-                <h2 className="text-3xl font-bold font-heading text-gray-900">Best Time to Visit by Region</h2>
-                <p className="text-gray-600 mt-2">This is the most important section of this guide. Thailand&apos;s regions have very different weather patterns, and picking the wrong coast at the wrong time can mean days of rain and closed islands.</p>
+                <h2 className="text-3xl font-bold font-heading text-gray-900">{isNl ? 'Beste Reistijd per Regio' : 'Best Time to Visit by Region'}</h2>
+                <p className="text-gray-600 mt-2">{isNl ? 'Dit is het belangrijkste deel van deze gids. De regio\'s van Thailand hebben heel verschillende weerpatronen, en de verkeerde kust op het verkeerde moment kiezen kan dagen regen en gesloten eilanden betekenen.' : "This is the most important section of this guide. Thailand's regions have very different weather patterns, and picking the wrong coast at the wrong time can mean days of rain and closed islands."}</p>
               </div>
 
               {/* Bangkok & Central */}
@@ -328,15 +334,15 @@ export default function BestTimeToVisitPage() {
             </section>
 
             {/* Mid-page Email Capture */}
-            <EmailCapture heading="Planning your Thailand trip?" subtext="Get weekly travel tips, seasonal updates, and budget hacks \u2014 straight to your inbox." />
+            <EmailCapture heading={isNl ? 'Je Thailand reis plannen?' : 'Planning your Thailand trip?'} subtext={isNl ? 'Ontvang wekelijkse reistips, seizoensupdates en budget hacks \u2014 direct in je inbox.' : 'Get weekly travel tips, seasonal updates, and budget hacks \u2014 straight to your inbox.'} />
 
             {/* ============================================ */}
             {/* SECTION 3: Month-by-Month Breakdown */}
             {/* ============================================ */}
             <section id="month-by-month" className="mb-16">
               <div className="border-t-2 border-thailand-blue/20 pt-8 mb-8">
-                <h2 className="text-3xl font-bold font-heading text-gray-900">Month-by-Month Breakdown</h2>
-                <p className="text-gray-600 mt-2">A practical guide to what each month looks like across Thailand, so you can match your travel dates to the best conditions.</p>
+                <h2 className="text-3xl font-bold font-heading text-gray-900">{isNl ? 'Maand-per-Maand Overzicht' : 'Month-by-Month Breakdown'}</h2>
+                <p className="text-gray-600 mt-2">{isNl ? 'Een praktische gids over hoe elke maand eruitziet in Thailand, zodat je je reisdata kunt afstemmen op de beste omstandigheden.' : 'A practical guide to what each month looks like across Thailand, so you can match your travel dates to the best conditions.'}</p>
               </div>
 
               {/* January / February */}
@@ -504,8 +510,8 @@ export default function BestTimeToVisitPage() {
             {/* ============================================ */}
             <section id="festivals" className="mb-16">
               <div className="border-t-2 border-thailand-blue/20 pt-8 mb-8">
-                <h2 className="text-3xl font-bold font-heading text-gray-900">Major Festivals &amp; Events in 2026</h2>
-                <p className="text-gray-600 mt-2">Thailand&apos;s festivals are reason enough to time your trip around them. Here are the highlights for 2026.</p>
+                <h2 className="text-3xl font-bold font-heading text-gray-900">{isNl ? 'Grote Festivals & Evenementen in 2026' : 'Major Festivals & Events in 2026'}</h2>
+                <p className="text-gray-600 mt-2">{isNl ? 'Thailand\'s festivals zijn reden genoeg om je reis erop af te stemmen. Hier zijn de hoogtepunten voor 2026.' : "Thailand's festivals are reason enough to time your trip around them. Here are the highlights for 2026."}</p>
               </div>
 
               <div className="grid grid-cols-1 md:grid-cols-2 gap-6">
@@ -565,8 +571,8 @@ export default function BestTimeToVisitPage() {
             {/* ============================================ */}
             <section id="packing" className="mb-16">
               <div className="border-t-2 border-thailand-blue/20 pt-8 mb-8">
-                <h2 className="text-3xl font-bold font-heading text-gray-900">What to Pack: Season-by-Season Guide</h2>
-                <p className="text-gray-600 mt-2">Thailand is informal and practical. Pack light, dress for the heat, and remember temple dress codes.</p>
+                <h2 className="text-3xl font-bold font-heading text-gray-900">{isNl ? 'Wat In Te Pakken: Seizoen-per-Seizoen Gids' : 'What to Pack: Season-by-Season Guide'}</h2>
+                <p className="text-gray-600 mt-2">{isNl ? 'Thailand is informeel en praktisch. Pak licht in, kleed je voor de hitte en onthoud de kledingvoorschriften voor tempels.' : 'Thailand is informal and practical. Pack light, dress for the heat, and remember temple dress codes.'}</p>
               </div>
 
               {/* All Seasons */}
@@ -638,8 +644,8 @@ export default function BestTimeToVisitPage() {
             {/* ============================================ */}
             <section id="faq" className="mb-12">
               <div className="border-t-2 border-thailand-blue/20 pt-8 mb-8">
-                <h2 className="text-3xl font-bold font-heading text-gray-900">Frequently Asked Questions</h2>
-                <p className="text-gray-600 mt-2">Quick answers to the most common questions about Thailand&apos;s weather and timing.</p>
+                <h2 className="text-3xl font-bold font-heading text-gray-900">{isNl ? 'Veelgestelde Vragen' : 'Frequently Asked Questions'}</h2>
+                <p className="text-gray-600 mt-2">{isNl ? 'Snelle antwoorden op de meest gestelde vragen over Thailand\'s weer en timing.' : "Quick answers to the most common questions about Thailand's weather and timing."}</p>
               </div>
 
               <div className="bg-white rounded-2xl shadow-md p-6">
@@ -660,43 +666,43 @@ export default function BestTimeToVisitPage() {
             </section>
 
             {/* Email Capture */}
-            <EmailCapture heading="Want seasonal Thailand tips?" subtext="Get our weekly newsletter with weather updates, festival dates, and insider travel advice." />
+            <EmailCapture heading={isNl ? 'Seizoenstips voor Thailand?' : 'Want seasonal Thailand tips?'} subtext={isNl ? 'Ontvang onze wekelijkse nieuwsbrief met weerupdates, festivaldatums en insider reisadvies.' : 'Get our weekly newsletter with weather updates, festival dates, and insider travel advice.'} />
 
             {/* Cross-links to other pillar pages */}
             <section className="bg-white rounded-2xl shadow-md p-6 mt-8">
-              <h2 className="text-xl font-bold font-heading text-gray-900 mb-4">Continue Planning Your Trip</h2>
+              <h2 className="text-xl font-bold font-heading text-gray-900 mb-4">{isNl ? 'Ga Verder met het Plannen van Je Reis' : 'Continue Planning Your Trip'}</h2>
               <div className="grid grid-cols-2 md:grid-cols-4 gap-3">
                 <Link href="/thailand-travel-guide/" className="p-4 bg-surface-cream rounded-xl hover:shadow-md transition-all text-center">
-                  <div className="font-semibold text-gray-900 text-sm">Travel Guide</div>
-                  <div className="text-xs text-gray-600">Everything you need</div>
+                  <div className="font-semibold text-gray-900 text-sm">{isNl ? 'Reisgids' : 'Travel Guide'}</div>
+                  <div className="text-xs text-gray-600">{isNl ? 'Alles wat je nodig hebt' : 'Everything you need'}</div>
                 </Link>
                 <Link href="/best-places-to-visit-thailand/" className="p-4 bg-surface-cream rounded-xl hover:shadow-md transition-all text-center">
-                  <div className="font-semibold text-gray-900 text-sm">Best Places</div>
-                  <div className="text-xs text-gray-600">33 destinations</div>
+                  <div className="font-semibold text-gray-900 text-sm">{isNl ? 'Beste Plekken' : 'Best Places'}</div>
+                  <div className="text-xs text-gray-600">{isNl ? '33 bestemmingen' : '33 destinations'}</div>
                 </Link>
                 <Link href="/things-to-do-in-thailand/" className="p-4 bg-surface-cream rounded-xl hover:shadow-md transition-all text-center">
-                  <div className="font-semibold text-gray-900 text-sm">Things to Do</div>
-                  <div className="text-xs text-gray-600">25 top experiences</div>
+                  <div className="font-semibold text-gray-900 text-sm">{isNl ? 'Bezienswaardigheden' : 'Things to Do'}</div>
+                  <div className="text-xs text-gray-600">{isNl ? '25 top ervaringen' : '25 top experiences'}</div>
                 </Link>
                 <Link href="/thailand-itinerary/" className="p-4 bg-surface-cream rounded-xl hover:shadow-md transition-all text-center">
-                  <div className="font-semibold text-gray-900 text-sm">Itineraries</div>
-                  <div className="text-xs text-gray-600">Ready-made routes</div>
+                  <div className="font-semibold text-gray-900 text-sm">{isNl ? 'Reisroutes' : 'Itineraries'}</div>
+                  <div className="text-xs text-gray-600">{isNl ? 'Kant-en-klare routes' : 'Ready-made routes'}</div>
                 </Link>
                 <Link href="/thailand-islands/" className="p-4 bg-surface-cream rounded-xl hover:shadow-md transition-all text-center">
-                  <div className="font-semibold text-gray-900 text-sm">Thai Islands</div>
-                  <div className="text-xs text-gray-600">Beach paradise</div>
+                  <div className="font-semibold text-gray-900 text-sm">{isNl ? 'Thaise Eilanden' : 'Thai Islands'}</div>
+                  <div className="text-xs text-gray-600">{isNl ? 'Strandparadijs' : 'Beach paradise'}</div>
                 </Link>
                 <Link href="/best-beaches-in-thailand/" className="p-4 bg-surface-cream rounded-xl hover:shadow-md transition-all text-center">
-                  <div className="font-semibold text-gray-900 text-sm">Best Beaches</div>
-                  <div className="text-xs text-gray-600">Sand and surf</div>
+                  <div className="font-semibold text-gray-900 text-sm">{isNl ? 'Beste Stranden' : 'Best Beaches'}</div>
+                  <div className="text-xs text-gray-600">{isNl ? 'Zand en zee' : 'Sand and surf'}</div>
                 </Link>
                 <Link href="/is-thailand-safe/" className="p-4 bg-surface-cream rounded-xl hover:shadow-md transition-all text-center">
-                  <div className="font-semibold text-gray-900 text-sm">Safety Guide</div>
-                  <div className="text-xs text-gray-600">Stay safe</div>
+                  <div className="font-semibold text-gray-900 text-sm">{isNl ? 'Veiligheidsgids' : 'Safety Guide'}</div>
+                  <div className="text-xs text-gray-600">{isNl ? 'Blijf veilig' : 'Stay safe'}</div>
                 </Link>
                 <Link href="/thailand-index/best-time/" className="p-4 bg-surface-cream rounded-xl hover:shadow-md transition-all text-center">
-                  <div className="font-semibold text-gray-900 text-sm">Weather Data</div>
-                  <div className="text-xs text-gray-600">33 cities compared</div>
+                  <div className="font-semibold text-gray-900 text-sm">{isNl ? 'Weerdata' : 'Weather Data'}</div>
+                  <div className="text-xs text-gray-600">{isNl ? '33 steden vergeleken' : '33 cities compared'}</div>
                 </Link>
               </div>
             </section>

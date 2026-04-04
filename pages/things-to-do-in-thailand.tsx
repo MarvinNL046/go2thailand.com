@@ -1,13 +1,17 @@
 import { GetStaticProps } from 'next';
+import { useRouter } from 'next/router';
 import Link from 'next/link';
 import SEOHead from '../components/SEOHead';
 import Breadcrumbs from '../components/Breadcrumbs';
 import EmailCapture from '../components/EmailCapture';
 
 export default function ThingsToDoPage() {
+  const { locale } = useRouter();
+  const isNl = locale === 'nl';
+
   const breadcrumbs = [
     { name: 'Home', href: '/' },
-    { name: 'Things to Do in Thailand', href: '/things-to-do-in-thailand/' },
+    { name: isNl ? 'Dingen om te Doen in Thailand' : 'Things to Do in Thailand', href: '/things-to-do-in-thailand/' },
   ];
 
   const items = [
@@ -117,14 +121,14 @@ export default function ThingsToDoPage() {
           <div className="container-custom max-w-4xl">
             {/* Table of Contents */}
             <nav className="bg-white rounded-2xl shadow-md p-6 mb-10">
-              <h2 className="text-lg font-bold font-heading text-gray-900 mb-4">In this guide</h2>
+              <h2 className="text-lg font-bold font-heading text-gray-900 mb-4">{isNl ? 'In deze gids' : 'In this guide'}</h2>
               <ul className="grid grid-cols-2 gap-2 text-sm">
-                <li><a href="#temples" className="text-thailand-blue hover:underline">Temples &amp; Cultural Sites</a></li>
-                <li><a href="#beaches" className="text-thailand-blue hover:underline">Beaches &amp; Islands</a></li>
-                <li><a href="#food" className="text-thailand-blue hover:underline">Food Experiences</a></li>
-                <li><a href="#nature" className="text-thailand-blue hover:underline">Nature &amp; Adventure</a></li>
-                <li><a href="#culture" className="text-thailand-blue hover:underline">Unique Cultural Experiences</a></li>
-                <li><a href="#planning" className="text-thailand-blue hover:underline">Planning Your Trip (FAQ)</a></li>
+                <li><a href="#temples" className="text-thailand-blue hover:underline">{isNl ? 'Tempels & Culturele Plekken' : 'Temples & Cultural Sites'}</a></li>
+                <li><a href="#beaches" className="text-thailand-blue hover:underline">{isNl ? 'Stranden & Eilanden' : 'Beaches & Islands'}</a></li>
+                <li><a href="#food" className="text-thailand-blue hover:underline">{isNl ? 'Culinaire Ervaringen' : 'Food Experiences'}</a></li>
+                <li><a href="#nature" className="text-thailand-blue hover:underline">{isNl ? 'Natuur & Avontuur' : 'Nature & Adventure'}</a></li>
+                <li><a href="#culture" className="text-thailand-blue hover:underline">{isNl ? 'Unieke Culturele Ervaringen' : 'Unique Cultural Experiences'}</a></li>
+                <li><a href="#planning" className="text-thailand-blue hover:underline">{isNl ? 'Plan Je Reis (FAQ)' : 'Planning Your Trip (FAQ)'}</a></li>
               </ul>
             </nav>
 
@@ -138,8 +142,8 @@ export default function ThingsToDoPage() {
             {/* ============================================ */}
             <section id="temples" className="mb-16">
               <div className="border-t-2 border-thailand-blue/20 pt-8 mb-8">
-                <h2 className="text-3xl font-bold font-heading text-gray-900">Iconic Temples and Cultural Sites</h2>
-                <p className="text-gray-600 mt-2">Thailand is home to over 40,000 Buddhist temples. These five are the ones you should not miss.</p>
+                <h2 className="text-3xl font-bold font-heading text-gray-900">{isNl ? 'Iconische Tempels en Culturele Plekken' : 'Iconic Temples and Cultural Sites'}</h2>
+                <p className="text-gray-600 mt-2">{isNl ? 'Thailand heeft meer dan 40.000 boeddhistische tempels. Deze vijf mag je niet missen.' : 'Thailand is home to over 40,000 Buddhist temples. These five are the ones you should not miss.'}</p>
               </div>
 
               {/* Item 1 */}
@@ -255,8 +259,8 @@ export default function ThingsToDoPage() {
             {/* ============================================ */}
             <section id="beaches" className="mb-16">
               <div className="border-t-2 border-thailand-blue/20 pt-8 mb-8">
-                <h2 className="text-3xl font-bold font-heading text-gray-900">Thailand&apos;s Best Beaches and Islands</h2>
-                <p className="text-gray-600 mt-2">Two coastlines, hundreds of islands, and some of the best beaches in Asia.</p>
+                <h2 className="text-3xl font-bold font-heading text-gray-900">{isNl ? 'Thailand\'s Beste Stranden en Eilanden' : 'Thailand\'s Best Beaches and Islands'}</h2>
+                <p className="text-gray-600 mt-2">{isNl ? 'Twee kustlijnen, honderden eilanden en enkele van de beste stranden in Azië.' : 'Two coastlines, hundreds of islands, and some of the best beaches in Asia.'}</p>
               </div>
 
               {/* Item 6 */}
@@ -377,8 +381,8 @@ export default function ThingsToDoPage() {
             {/* ============================================ */}
             <section id="food" className="mb-16">
               <div className="border-t-2 border-thailand-blue/20 pt-8 mb-8">
-                <h2 className="text-3xl font-bold font-heading text-gray-900">Unforgettable Food Experiences</h2>
-                <p className="text-gray-600 mt-2">Thai cuisine is reason enough to visit the country. These experiences go beyond just eating.</p>
+                <h2 className="text-3xl font-bold font-heading text-gray-900">{isNl ? 'Onvergetelijke Culinaire Ervaringen' : 'Unforgettable Food Experiences'}</h2>
+                <p className="text-gray-600 mt-2">{isNl ? 'De Thaise keuken is op zich al reden genoeg om het land te bezoeken. Deze ervaringen gaan verder dan alleen eten.' : 'Thai cuisine is reason enough to visit the country. These experiences go beyond just eating.'}</p>
               </div>
 
               {/* Item 11 */}
@@ -472,8 +476,8 @@ export default function ThingsToDoPage() {
             {/* ============================================ */}
             <section id="nature" className="mb-16">
               <div className="border-t-2 border-thailand-blue/20 pt-8 mb-8">
-                <h2 className="text-3xl font-bold font-heading text-gray-900">Nature and Adventure Activities</h2>
-                <p className="text-gray-600 mt-2">Thailand&apos;s landscapes range from misty mountains to ancient rainforests and dramatic limestone coasts.</p>
+                <h2 className="text-3xl font-bold font-heading text-gray-900">{isNl ? 'Natuur- en Avontuuractiviteiten' : 'Nature and Adventure Activities'}</h2>
+                <p className="text-gray-600 mt-2">{isNl ? 'Thailand\'s landschappen variëren van mistige bergen tot oeroude regenwouden en dramatische kalksteenkusten.' : 'Thailand\'s landscapes range from misty mountains to ancient rainforests and dramatic limestone coasts.'}</p>
               </div>
 
               {/* Item 15 */}
@@ -578,8 +582,8 @@ export default function ThingsToDoPage() {
             {/* ============================================ */}
             <section id="culture" className="mb-16">
               <div className="border-t-2 border-thailand-blue/20 pt-8 mb-8">
-                <h2 className="text-3xl font-bold font-heading text-gray-900">Unique Cultural Experiences</h2>
-                <p className="text-gray-600 mt-2">Beyond the temples and beaches, these experiences reveal the heartbeat of Thai culture.</p>
+                <h2 className="text-3xl font-bold font-heading text-gray-900">{isNl ? 'Unieke Culturele Ervaringen' : 'Unique Cultural Experiences'}</h2>
+                <p className="text-gray-600 mt-2">{isNl ? 'Voorbij de tempels en stranden onthullen deze ervaringen het kloppend hart van de Thaise cultuur.' : 'Beyond the temples and beaches, these experiences reveal the heartbeat of Thai culture.'}</p>
               </div>
 
               {/* Item 20 */}
@@ -705,8 +709,8 @@ export default function ThingsToDoPage() {
             {/* ============================================ */}
             <section id="planning" className="mb-12">
               <div className="border-t-2 border-thailand-blue/20 pt-8 mb-8">
-                <h2 className="text-3xl font-bold font-heading text-gray-900">Planning Your Thailand Trip</h2>
-                <p className="text-gray-600 mt-2">Answers to the most common questions about visiting Thailand.</p>
+                <h2 className="text-3xl font-bold font-heading text-gray-900">{isNl ? 'Plan Je Thailand Reis' : 'Planning Your Thailand Trip'}</h2>
+                <p className="text-gray-600 mt-2">{isNl ? 'Antwoorden op de meest gestelde vragen over een bezoek aan Thailand.' : 'Answers to the most common questions about visiting Thailand.'}</p>
               </div>
 
               <div className="bg-white rounded-2xl shadow-md p-6">
@@ -751,39 +755,39 @@ export default function ThingsToDoPage() {
 
             {/* Cross-links to other pillar pages */}
             <section className="bg-white rounded-2xl shadow-md p-6 mt-8">
-              <h2 className="text-xl font-bold font-heading text-gray-900 mb-4">Explore More Thailand Guides</h2>
+              <h2 className="text-xl font-bold font-heading text-gray-900 mb-4">{isNl ? 'Ontdek Meer Thailand Gidsen' : 'Explore More Thailand Guides'}</h2>
               <div className="grid grid-cols-2 md:grid-cols-4 gap-3">
                 <Link href="/thailand-travel-guide/" className="p-4 bg-surface-cream rounded-xl hover:shadow-md transition-all text-center">
-                  <div className="font-semibold text-gray-900 text-sm">Travel Guide</div>
-                  <div className="text-xs text-gray-600">Everything you need</div>
+                  <div className="font-semibold text-gray-900 text-sm">{isNl ? 'Reisgids' : 'Travel Guide'}</div>
+                  <div className="text-xs text-gray-600">{isNl ? 'Alles wat je nodig hebt' : 'Everything you need'}</div>
                 </Link>
                 <Link href="/best-places-to-visit-thailand/" className="p-4 bg-surface-cream rounded-xl hover:shadow-md transition-all text-center">
-                  <div className="font-semibold text-gray-900 text-sm">Best Places</div>
-                  <div className="text-xs text-gray-600">33 destinations</div>
+                  <div className="font-semibold text-gray-900 text-sm">{isNl ? 'Beste Plekken' : 'Best Places'}</div>
+                  <div className="text-xs text-gray-600">{isNl ? '33 bestemmingen' : '33 destinations'}</div>
                 </Link>
                 <Link href="/thailand-itinerary/" className="p-4 bg-surface-cream rounded-xl hover:shadow-md transition-all text-center">
-                  <div className="font-semibold text-gray-900 text-sm">Itineraries</div>
-                  <div className="text-xs text-gray-600">Ready-made routes</div>
+                  <div className="font-semibold text-gray-900 text-sm">{isNl ? 'Reisroutes' : 'Itineraries'}</div>
+                  <div className="text-xs text-gray-600">{isNl ? 'Kant-en-klare routes' : 'Ready-made routes'}</div>
                 </Link>
                 <Link href="/thailand-for-first-timers/" className="p-4 bg-surface-cream rounded-xl hover:shadow-md transition-all text-center">
-                  <div className="font-semibold text-gray-900 text-sm">First Timers</div>
-                  <div className="text-xs text-gray-600">Start here</div>
+                  <div className="font-semibold text-gray-900 text-sm">{isNl ? 'Eerste Keer' : 'First Timers'}</div>
+                  <div className="text-xs text-gray-600">{isNl ? 'Begin hier' : 'Start here'}</div>
                 </Link>
                 <Link href="/islands/" className="p-4 bg-surface-cream rounded-xl hover:shadow-md transition-all text-center">
-                  <div className="font-semibold text-gray-900 text-sm">Thai Islands</div>
-                  <div className="text-xs text-gray-600">Beach paradise</div>
+                  <div className="font-semibold text-gray-900 text-sm">{isNl ? 'Thaise Eilanden' : 'Thai Islands'}</div>
+                  <div className="text-xs text-gray-600">{isNl ? 'Strandparadijs' : 'Beach paradise'}</div>
                 </Link>
                 <Link href="/food/" className="p-4 bg-surface-cream rounded-xl hover:shadow-md transition-all text-center">
-                  <div className="font-semibold text-gray-900 text-sm">Thai Food</div>
-                  <div className="text-xs text-gray-600">Cuisine guide</div>
+                  <div className="font-semibold text-gray-900 text-sm">{isNl ? 'Thais Eten' : 'Thai Food'}</div>
+                  <div className="text-xs text-gray-600">{isNl ? 'Keukengids' : 'Cuisine guide'}</div>
                 </Link>
                 <Link href="/is-thailand-safe/" className="p-4 bg-surface-cream rounded-xl hover:shadow-md transition-all text-center">
-                  <div className="font-semibold text-gray-900 text-sm">Safety Guide</div>
-                  <div className="text-xs text-gray-600">Stay safe</div>
+                  <div className="font-semibold text-gray-900 text-sm">{isNl ? 'Veiligheidsgids' : 'Safety Guide'}</div>
+                  <div className="text-xs text-gray-600">{isNl ? 'Blijf veilig' : 'Stay safe'}</div>
                 </Link>
                 <Link href="/transport/" className="p-4 bg-surface-cream rounded-xl hover:shadow-md transition-all text-center">
-                  <div className="font-semibold text-gray-900 text-sm">Transport</div>
-                  <div className="text-xs text-gray-600">Buses, trains, flights</div>
+                  <div className="font-semibold text-gray-900 text-sm">{isNl ? 'Vervoer' : 'Transport'}</div>
+                  <div className="text-xs text-gray-600">{isNl ? 'Bussen, treinen, vluchten' : 'Buses, trains, flights'}</div>
                 </Link>
               </div>
             </section>

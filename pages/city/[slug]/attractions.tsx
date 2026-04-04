@@ -1,6 +1,7 @@
 import { GetStaticProps, GetStaticPaths } from 'next';
 import Image from 'next/image';
 import Link from 'next/link';
+import { useRouter } from 'next/router';
 import { getCityBySlug, getCityStaticPaths, generateCityMetadata, generateBreadcrumbs, getCityImageForSection, getEnhancedAttractionsByCity, toAbsoluteImageUrl } from '../../../lib/cities';
 import Breadcrumbs from '../../../components/Breadcrumbs';
 import SEOHead from '../../../components/SEOHead';
@@ -76,18 +77,27 @@ interface CityAttractionsPageProps {
 }
 
 export default function CityAttractionsPage({ city, attractions }: CityAttractionsPageProps) {
+  const { locale } = useRouter();
+  const isNl = locale === 'nl';
+  const lang = isNl ? 'nl' : 'en';
+
   if (!city) {
-    return <div>City not found</div>;
+    return <div>{isNl ? 'Stad niet gevonden' : 'City not found'}</div>;
   }
 
+  const cityName = city.name[lang] || city.name.en;
   const breadcrumbs = generateBreadcrumbs(city, 'attractions');
   const baseMetadata = generateCityMetadata(city, 'attractions');
 
   // SEO-optimized title & description for attractions pages
   const metadata = {
     ...baseMetadata,
-    title: `Top Attractions in ${city.name.en} 2026 — Must-See Places`,
-    description: `Explore the strongest attractions in ${city.name.en} with practical route logic, local context, and the stops that actually justify your time.`,
+    title: isNl
+      ? `Top Bezienswaardigheden in ${cityName} 2026 — Must-See Plekken`
+      : `Top Attractions in ${city.name.en} 2026 — Must-See Places`,
+    description: isNl
+      ? `Ontdek de beste bezienswaardigheden in ${cityName} met praktische routelogica, lokale context en de stops die je tijd echt waard zijn.`
+      : `Explore the strongest attractions in ${city.name.en} with practical route logic, local context, and the stops that actually justify your time.`,
   };
 
   return (
@@ -106,7 +116,7 @@ export default function CityAttractionsPage({ city, attractions }: CityAttractio
           <div className="absolute inset-0">
             <Image
               src={getCityImageForSection(city, 'attractions')}
-              alt={`Attractions in ${city.name.en}, Thailand`}
+              alt={isNl ? `Bezienswaardigheden in ${cityName}, Thailand` : `Attractions in ${city.name.en}, Thailand`}
               fill
               className="object-cover"
               priority
@@ -122,15 +132,15 @@ export default function CityAttractionsPage({ city, attractions }: CityAttractio
                     {city.region} Thailand
                   </span>
                   <span className="text-gray-200 text-sm">
-                    Attractions Guide
+                    {isNl ? 'Bezienswaardigheden Gids' : 'Attractions Guide'}
                   </span>
                 </div>
-                <p className="font-script text-thailand-gold text-sm mb-2">Discover</p>
+                <p className="font-script text-thailand-gold text-sm mb-2">{isNl ? 'Ontdek' : 'Discover'}</p>
                 <h1 className="text-4xl lg:text-6xl font-bold font-heading mb-4">
-                  Attractions in {city.name.en}
+                  {isNl ? `Bezienswaardigheden in ${cityName}` : `Attractions in ${city.name.en}`}
                 </h1>
                 <p className="text-xl lg:text-2xl text-gray-200 max-w-3xl">
-                  {city.categories.attractions.en}
+                  {city.categories.attractions[lang] || city.categories.attractions.en}
                 </p>
               </div>
             </div>
@@ -154,7 +164,7 @@ export default function CityAttractionsPage({ city, attractions }: CityAttractio
           <section className="section-padding pt-8">
             <div className="container-custom">
               <CitySupportSources
-                cityName={city.name.en}
+                cityName={cityName}
                 contentSources={city.contentSources}
                 reviewedBy={city.reviewed_by}
                 reviewedAt={city.reviewed_at}
@@ -175,14 +185,18 @@ export default function CityAttractionsPage({ city, attractions }: CityAttractio
                 {/* Attractions Overview */}
                 <div className="mb-12">
                   <div className="bg-surface-cream rounded-2xl p-8 mb-8">
-                    <p className="font-script text-thailand-gold text-sm mb-2">Must-See</p>
+                    <p className="font-script text-thailand-gold text-sm mb-2">{isNl ? 'Must-See' : 'Must-See'}</p>
                     <h2 className="text-3xl font-bold font-heading text-thailand-blue-900 mb-4">
-                      Must-Visit Attractions
+                      {isNl ? 'Must-Visit Bezienswaardigheden' : 'Must-Visit Attractions'}
                     </h2>
                     <p className="text-thailand-blue-700 text-lg leading-relaxed">
-                      {city.enhanced_description 
-                        ? `Discover the incredible attractions that make ${city.name.en} special. ${city.enhanced_description.substring(0, 200)}...`
-                        : `Explore the top attractions in ${city.name.en}, from ancient temples to modern landmarks. Each destination offers unique insights into Thai culture and history.`
+                      {city.enhanced_description
+                        ? (isNl
+                            ? `Ontdek de ongelooflijke bezienswaardigheden die ${cityName} bijzonder maken. ${city.enhanced_description.substring(0, 200)}...`
+                            : `Discover the incredible attractions that make ${city.name.en} special. ${city.enhanced_description.substring(0, 200)}...`)
+                        : (isNl
+                            ? `Ontdek de top bezienswaardigheden in ${cityName}, van oude tempels tot moderne landmarks. Elke bestemming biedt unieke inzichten in de Thaise cultuur en geschiedenis.`
+                            : `Explore the top attractions in ${city.name.en}, from ancient temples to modern landmarks. Each destination offers unique insights into Thai culture and history.`)
                       }
                     </p>
                   </div>
@@ -224,7 +238,7 @@ export default function CityAttractionsPage({ city, attractions }: CityAttractio
                             {attraction.visitAccess && (
                               <div className="absolute bottom-4 left-4">
                                 <span className="bg-white/90 backdrop-blur-sm text-thailand-blue-900 px-2 py-1 rounded-lg text-xs font-semibold">
-                                  {attraction.visitAccess}
+                                  {isNl ? (attraction.visitAccess === 'Free' ? 'Gratis' : 'Toegangskaart') : attraction.visitAccess}
                                 </span>
                               </div>
                             )}
@@ -233,11 +247,11 @@ export default function CityAttractionsPage({ city, attractions }: CityAttractio
                           {/* Content */}
                           <div className="p-6">
                             <h3 className="text-xl font-bold font-heading text-thailand-blue-900 mb-3 group-hover:text-thailand-red transition-colors">
-                              {attraction.name.en}
+                              {attraction.name[lang] || attraction.name.en}
                             </h3>
                             <p className="text-gray-600 leading-relaxed mb-4 line-clamp-3">
-                              {attraction.enhanced_description?.substring(0, 150) || attraction.description.en}
-                              {(attraction.enhanced_description?.length > 150 || attraction.description.en.length > 150) && '...'}
+                              {attraction.enhanced_description?.substring(0, 150) || (attraction.description[lang] || attraction.description.en)}
+                              {(attraction.enhanced_description?.length > 150 || (attraction.description[lang] || attraction.description.en).length > 150) && '...'}
                             </p>
                             
                             {/* Highlights */}
@@ -262,7 +276,7 @@ export default function CityAttractionsPage({ city, attractions }: CityAttractio
                                     <path strokeLinecap="round" strokeLinejoin="round" strokeWidth="2" d="M17.657 16.657L13.414 20.9a1.998 1.998 0 01-2.827 0l-4.244-4.243a8 8 0 1111.314 0z" />
                                     <path strokeLinecap="round" strokeLinejoin="round" strokeWidth="2" d="M15 11a3 3 0 11-6 0 3 3 0 016 0z" />
                                   </svg>
-                                  <span>{city.name.en}</span>
+                                  <span>{cityName}</span>
                                 </div>
                                 {attraction.googleMapsUrl && (
                                   <a
@@ -280,7 +294,7 @@ export default function CityAttractionsPage({ city, attractions }: CityAttractio
                                 )}
                               </div>
                               <div className="text-thailand-blue hover:text-thailand-red font-medium text-sm flex items-center transition-colors group">
-                                <span>Learn More</span>
+                                <span>{isNl ? 'Lees Meer' : 'Learn More'}</span>
                                 <svg className="w-4 h-4 ml-1 transform group-hover:translate-x-1 transition-transform" fill="none" stroke="currentColor" viewBox="0 0 24 24">
                                   <path strokeLinecap="round" strokeLinejoin="round" strokeWidth="2" d="M9 5l7 7-7 7" />
                                 </svg>
@@ -299,10 +313,12 @@ export default function CityAttractionsPage({ city, attractions }: CityAttractio
                         </svg>
                       </div>
                       <h3 className="text-2xl font-bold font-heading text-gray-900 mb-4">
-                        Explore {city.name.en} Attractions
+                        {isNl ? `Ontdek ${cityName} Bezienswaardigheden` : `Explore ${city.name.en} Attractions`}
                       </h3>
                       <p className="text-gray-600 mb-6">
-                        Detailed attraction guides for {city.name.en} are being prepared. In the meantime, check out our city overview for highlights and travel tips.
+                        {isNl
+                          ? `Gedetailleerde gidsen voor bezienswaardigheden in ${cityName} worden voorbereid. Bekijk in de tussentijd ons stadsoverzicht voor highlights en reistips.`
+                          : `Detailed attraction guides for ${city.name.en} are being prepared. In the meantime, check out our city overview for highlights and travel tips.`}
                       </p>
                     </div>
                   )}
@@ -318,7 +334,7 @@ export default function CityAttractionsPage({ city, attractions }: CityAttractio
                     <svg className="w-6 h-6 mr-3 text-thailand-gold" fill="currentColor" viewBox="0 0 20 20">
                       <path fillRule="evenodd" d="M18 10a8 8 0 11-16 0 8 8 0 0116 0zm-7-4a1 1 0 11-2 0 1 1 0 012 0zM9 9a1 1 0 000 2v3a1 1 0 001 1h1a1 1 0 100-2v-3a1 1 0 00-1-1H9z" clipRule="evenodd" />
                     </svg>
-                    Tips for Visiting Attractions
+                    {isNl ? 'Tips voor het Bezoeken van Bezienswaardigheden' : 'Tips for Visiting Attractions'}
                   </h3>
                   <div className="grid grid-cols-1 md:grid-cols-2 gap-6">
                     <div className="space-y-4">
@@ -328,7 +344,7 @@ export default function CityAttractionsPage({ city, attractions }: CityAttractio
                             <path fillRule="evenodd" d="M16.707 5.293a1 1 0 010 1.414l-8 8a1 1 0 01-1.414 0l-4-4a1 1 0 011.414-1.414L8 12.586l7.293-7.293a1 1 0 011.414 0z" clipRule="evenodd" />
                           </svg>
                         </div>
-                        <span className="text-gray-700">Visit early morning to avoid crowds</span>
+                        <span className="text-gray-700">{isNl ? 'Bezoek vroeg in de ochtend om drukte te vermijden' : 'Visit early morning to avoid crowds'}</span>
                       </div>
                       <div className="flex items-start">
                         <div className="w-5 h-5 bg-thailand-red rounded-full flex items-center justify-center mr-3 mt-0.5 flex-shrink-0">
@@ -336,7 +352,7 @@ export default function CityAttractionsPage({ city, attractions }: CityAttractio
                             <path fillRule="evenodd" d="M16.707 5.293a1 1 0 010 1.414l-8 8a1 1 0 01-1.414 0l-4-4a1 1 0 011.414-1.414L8 12.586l7.293-7.293a1 1 0 011.414 0z" clipRule="evenodd" />
                           </svg>
                         </div>
-                        <span className="text-gray-700">Dress modestly when visiting temples</span>
+                        <span className="text-gray-700">{isNl ? 'Kleed je bescheiden bij het bezoeken van tempels' : 'Dress modestly when visiting temples'}</span>
                       </div>
                       <div className="flex items-start">
                         <div className="w-5 h-5 bg-thailand-red rounded-full flex items-center justify-center mr-3 mt-0.5 flex-shrink-0">
@@ -344,7 +360,7 @@ export default function CityAttractionsPage({ city, attractions }: CityAttractio
                             <path fillRule="evenodd" d="M16.707 5.293a1 1 0 010 1.414l-8 8a1 1 0 01-1.414 0l-4-4a1 1 0 011.414-1.414L8 12.586l7.293-7.293a1 1 0 011.414 0z" clipRule="evenodd" />
                           </svg>
                         </div>
-                        <span className="text-gray-700">Bring water and stay hydrated</span>
+                        <span className="text-gray-700">{isNl ? 'Neem water mee en blijf gehydrateerd' : 'Bring water and stay hydrated'}</span>
                       </div>
                     </div>
                     <div className="space-y-4">
@@ -354,7 +370,7 @@ export default function CityAttractionsPage({ city, attractions }: CityAttractio
                             <path fillRule="evenodd" d="M16.707 5.293a1 1 0 010 1.414l-8 8a1 1 0 01-1.414 0l-4-4a1 1 0 011.414-1.414L8 12.586l7.293-7.293a1 1 0 011.414 0z" clipRule="evenodd" />
                           </svg>
                         </div>
-                        <span className="text-gray-700">Check opening hours before visiting</span>
+                        <span className="text-gray-700">{isNl ? 'Controleer openingstijden voor je bezoek' : 'Check opening hours before visiting'}</span>
                       </div>
                       <div className="flex items-start">
                         <div className="w-5 h-5 bg-thailand-blue rounded-full flex items-center justify-center mr-3 mt-0.5 flex-shrink-0">
@@ -362,7 +378,7 @@ export default function CityAttractionsPage({ city, attractions }: CityAttractio
                             <path fillRule="evenodd" d="M16.707 5.293a1 1 0 010 1.414l-8 8a1 1 0 01-1.414 0l-4-4a1 1 0 011.414-1.414L8 12.586l7.293-7.293a1 1 0 011.414 0z" clipRule="evenodd" />
                           </svg>
                         </div>
-                        <span className="text-gray-700">Respect local customs and traditions</span>
+                        <span className="text-gray-700">{isNl ? 'Respecteer lokale gewoonten en tradities' : 'Respect local customs and traditions'}</span>
                       </div>
                       <div className="flex items-start">
                         <div className="w-5 h-5 bg-thailand-blue rounded-full flex items-center justify-center mr-3 mt-0.5 flex-shrink-0">
@@ -370,7 +386,7 @@ export default function CityAttractionsPage({ city, attractions }: CityAttractio
                             <path fillRule="evenodd" d="M16.707 5.293a1 1 0 010 1.414l-8 8a1 1 0 01-1.414 0l-4-4a1 1 0 011.414-1.414L8 12.586l7.293-7.293a1 1 0 011.414 0z" clipRule="evenodd" />
                           </svg>
                         </div>
-                        <span className="text-gray-700">Bring comfortable walking shoes</span>
+                        <span className="text-gray-700">{isNl ? 'Neem comfortabele wandelschoenen mee' : 'Bring comfortable walking shoes'}</span>
                       </div>
                     </div>
                   </div>
@@ -379,37 +395,45 @@ export default function CityAttractionsPage({ city, attractions }: CityAttractio
                 {/* Optional Planning Links */}
                 <div className="bg-white rounded-2xl shadow-md p-8 mb-12">
                   <h3 className="text-2xl font-bold font-heading text-thailand-blue-900 mb-4 text-center">
-                    Optional Planning Links for {city.name.en}
+                    {isNl ? `Handige Links voor ${cityName}` : `Optional Planning Links for ${city.name.en}`}
                   </h3>
                   <p className="text-gray-600 text-center mb-8">
-                    Use these internal guides after deciding which neighborhoods and attraction types fit your route.
+                    {isNl
+                      ? 'Gebruik deze interne gidsen nadat je hebt besloten welke wijken en bezienswaardigheden bij je route passen.'
+                      : 'Use these internal guides after deciding which neighborhoods and attraction types fit your route.'}
                   </p>
                   <div className="grid grid-cols-1 md:grid-cols-3 gap-6">
                     <div className="border-0 bg-surface-cream rounded-2xl p-6 text-center">
-                      <h4 className="text-lg font-bold text-gray-900 mb-2">City overview</h4>
+                      <h4 className="text-lg font-bold text-gray-900 mb-2">{isNl ? 'Stadsoverzicht' : 'City overview'}</h4>
                       <p className="text-gray-600 text-sm mb-4">
-                        Rebuild your {city.name.en} route from the strongest district-level context.
+                        {isNl
+                          ? `Bouw je ${cityName} route op vanuit de sterkste wijk-level context.`
+                          : `Rebuild your ${city.name.en} route from the strongest district-level context.`}
                       </p>
                       <Link href={`/city/${city.slug}/`} className="inline-flex items-center justify-center w-full px-6 py-3 bg-thailand-red text-white font-semibold rounded-xl hover:bg-thailand-red-600 transition-colors">
-                        See City Overview
+                        {isNl ? 'Bekijk Stadsoverzicht' : 'See City Overview'}
                       </Link>
                     </div>
                     <div className="border-0 bg-surface-cream rounded-2xl p-6 text-center">
-                      <h4 className="text-lg font-bold text-gray-900 mb-2">Food & Dining</h4>
+                      <h4 className="text-lg font-bold text-gray-900 mb-2">{isNl ? 'Eten & Drinken' : 'Food & Dining'}</h4>
                       <p className="text-gray-600 text-sm mb-4">
-                        Pair major sights with a smarter neighborhood meal plan.
+                        {isNl
+                          ? 'Combineer grote bezienswaardigheden met een slimmer buurt-maaltijdplan.'
+                          : 'Pair major sights with a smarter neighborhood meal plan.'}
                       </p>
                       <Link href={`/city/${city.slug}/food/`} className="inline-flex items-center justify-center w-full px-6 py-3 bg-thailand-blue text-white font-semibold rounded-xl hover:bg-thailand-blue-600 transition-colors">
-                        See Food Guide
+                        {isNl ? 'Bekijk Etengids' : 'See Food Guide'}
                       </Link>
                     </div>
                     <div className="border-0 bg-surface-cream rounded-2xl p-6 text-center">
-                      <h4 className="text-lg font-bold text-gray-900 mb-2">Hotels</h4>
+                      <h4 className="text-lg font-bold text-gray-900 mb-2">{isNl ? 'Hotels' : 'Hotels'}</h4>
                       <p className="text-gray-600 text-sm mb-4">
-                        Choose a base that cuts down cross-city transfers.
+                        {isNl
+                          ? 'Kies een uitvalsbasis die het reizen door de stad beperkt.'
+                          : 'Choose a base that cuts down cross-city transfers.'}
                       </p>
                       <Link href={`/city/${city.slug}/hotels/`} className="inline-flex items-center justify-center w-full px-6 py-3 bg-thailand-blue text-white font-semibold rounded-xl hover:bg-thailand-blue-600 transition-colors">
-                        See Hotel Guide
+                        {isNl ? 'Bekijk Hotelgids' : 'See Hotel Guide'}
                       </Link>
                     </div>
                   </div>
@@ -418,7 +442,7 @@ export default function CityAttractionsPage({ city, attractions }: CityAttractio
                 {/* Quick Navigation */}
                 <div className="bg-white rounded-2xl shadow-md p-8">
                   <h3 className="text-2xl font-bold font-heading text-thailand-blue-900 mb-6 text-center">
-                    Explore More of {city.name.en}
+                    {isNl ? `Ontdek Meer van ${cityName}` : `Explore More of ${city.name.en}`}
                   </h3>
                   <div className="grid grid-cols-1 md:grid-cols-2 gap-6">
                     <Link
@@ -431,8 +455,8 @@ export default function CityAttractionsPage({ city, attractions }: CityAttractio
                         </svg>
                       </div>
                       <div>
-                        <h4 className="font-bold text-thailand-blue-900 group-hover:text-thailand-red text-lg mb-1">Food & Dining</h4>
-                        <p className="text-gray-600 text-sm">{city.categories.food.en}</p>
+                        <h4 className="font-bold text-thailand-blue-900 group-hover:text-thailand-red text-lg mb-1">{isNl ? 'Eten & Drinken' : 'Food & Dining'}</h4>
+                        <p className="text-gray-600 text-sm">{city.categories.food[lang] || city.categories.food.en}</p>
                       </div>
                     </Link>
 
@@ -446,21 +470,21 @@ export default function CityAttractionsPage({ city, attractions }: CityAttractio
                         </svg>
                       </div>
                       <div>
-                        <h4 className="font-bold text-thailand-blue-900 group-hover:text-thailand-red text-lg mb-1">Hotels & Stay</h4>
-                        <p className="text-gray-600 text-sm">{city.categories.hotels.en}</p>
+                        <h4 className="font-bold text-thailand-blue-900 group-hover:text-thailand-red text-lg mb-1">{isNl ? 'Hotels & Verblijf' : 'Hotels & Stay'}</h4>
+                        <p className="text-gray-600 text-sm">{city.categories.hotels[lang] || city.categories.hotels.en}</p>
                       </div>
                     </Link>
                   </div>
 
                   <div className="text-center mt-8">
-                    <Link 
-                      href={`/city/${city.slug}/`} 
+                    <Link
+                      href={`/city/${city.slug}/`}
                       className="inline-flex items-center px-6 py-3 bg-thailand-blue text-white font-semibold rounded-xl hover:bg-thailand-blue-600 transition-all duration-300 shadow-md hover:shadow-xl"
                     >
                       <svg className="w-5 h-5 mr-2" fill="none" stroke="currentColor" viewBox="0 0 24 24">
                         <path strokeLinecap="round" strokeLinejoin="round" strokeWidth="2" d="M10 19l-7-7m0 0l7-7m-7 7h18" />
                       </svg>
-                      Back to {city.name.en} Overview
+                      {isNl ? `Terug naar ${cityName} Overzicht` : `Back to ${city.name.en} Overview`}
                     </Link>
                   </div>
                 </div>
@@ -470,18 +494,18 @@ export default function CityAttractionsPage({ city, attractions }: CityAttractio
               <div className="lg:col-span-1">
                 {/* Quick Stats */}
                 <div className="bg-white rounded-2xl shadow-md p-6 mb-8">
-                  <h3 className="text-lg font-bold font-heading text-thailand-blue-900 mb-4">Quick Info</h3>
+                  <h3 className="text-lg font-bold font-heading text-thailand-blue-900 mb-4">{isNl ? 'Snelle Info' : 'Quick Info'}</h3>
                   <div className="space-y-3">
                     <div className="flex justify-between items-center">
-                      <span className="text-gray-600 text-sm">Total Attractions:</span>
+                      <span className="text-gray-600 text-sm">{isNl ? 'Totaal Bezienswaardigheden:' : 'Total Attractions:'}</span>
                       <span className="font-bold text-thailand-blue">{attractions.length}</span>
                     </div>
                     <div className="flex justify-between items-center">
-                      <span className="text-gray-600 text-sm">Region:</span>
+                      <span className="text-gray-600 text-sm">{isNl ? 'Regio:' : 'Region:'}</span>
                       <span className="font-medium text-thailand-blue">{city.region}</span>
                     </div>
                     <div className="flex justify-between items-center">
-                      <span className="text-gray-600 text-sm">Province:</span>
+                      <span className="text-gray-600 text-sm">{isNl ? 'Provincie:' : 'Province:'}</span>
                       <span className="font-medium text-thailand-blue">{city.province}</span>
                     </div>
                   </div>
@@ -495,11 +519,12 @@ export default function CityAttractionsPage({ city, attractions }: CityAttractio
                     <svg className="w-5 h-5 mr-2 text-thailand-gold-600" fill="currentColor" viewBox="0 0 20 20">
                       <path fillRule="evenodd" d="M3 3a1 1 0 000 2v8a2 2 0 002 2h2.586l-1.293 1.293a1 1 0 101.414 1.414L10 15.414l2.293 2.293a1 1 0 001.414-1.414L12.414 15H15a2 2 0 002-2V5a1 1 0 100-2H3zm11.707 4.707a1 1 0 00-1.414-1.414L10 9.586 8.707 8.293a1 1 0 00-1.414 1.414l2 2a1 1 0 001.414 0l4-4z" clipRule="evenodd" />
                     </svg>
-                    Pro Tip
+                    {isNl ? 'Pro Tip' : 'Pro Tip'}
                   </h3>
                   <p className="text-thailand-blue-700 text-sm leading-relaxed">
-                    Many attractions in {city.name.en} are within walking distance of each other. 
-                    Plan your route to maximize your time and minimize travel between sites.
+                    {isNl
+                      ? `Veel bezienswaardigheden in ${cityName} liggen op loopafstand van elkaar. Plan je route om je tijd te maximaliseren en reistijd tussen locaties te minimaliseren.`
+                      : `Many attractions in ${city.name.en} are within walking distance of each other. Plan your route to maximize your time and minimize travel between sites.`}
                   </p>
                 </div>
               </div>

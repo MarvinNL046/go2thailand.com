@@ -1,4 +1,5 @@
 import Link from 'next/link';
+import { useRouter } from 'next/router';
 import SEOHead from '../../components/SEOHead';
 import Breadcrumbs from '../../components/Breadcrumbs';
 
@@ -56,9 +57,12 @@ const SAFETY_TIPS = [
 ];
 
 export default function NightlifeIndex() {
+  const { locale } = useRouter();
+  const isNl = locale === 'nl';
+
   const breadcrumbs = [
     { name: 'Home', href: '/' },
-    { name: 'Nightlife', href: '/nightlife/' },
+    { name: isNl ? 'Nachtleven' : 'Nightlife', href: '/nightlife/' },
   ];
 
   return (
@@ -74,7 +78,7 @@ export default function NightlifeIndex() {
           <div className="container-custom py-16 lg:py-20">
             <Breadcrumbs items={breadcrumbs} />
             <div className="text-center max-w-3xl mx-auto">
-              <span className="section-label">Nightlife Guides</span>
+              <span className="section-label">{isNl ? 'Nachtleven Gidsen' : 'Nightlife Guides'}</span>
               <h1 className="text-4xl lg:text-5xl font-bold font-heading mb-6">
                 Thailand Nightlife Guide 2026
               </h1>
@@ -113,8 +117,8 @@ export default function NightlifeIndex() {
         <section className="section-padding">
           <div className="container-custom">
             <div className="max-w-4xl mx-auto">
-              <h2 className="text-3xl font-bold font-heading text-gray-900 mb-2 text-center">Types of Nightlife in Thailand</h2>
-              <p className="text-center text-gray-600 mb-10">From cultural markets to mega-clubs — know what you're looking for before you go.</p>
+              <h2 className="text-3xl font-bold font-heading text-gray-900 mb-2 text-center">{isNl ? 'Soorten Nachtleven in Thailand' : 'Types of Nightlife in Thailand'}</h2>
+              <p className="text-center text-gray-600 mb-10">{isNl ? 'Van culturele markten tot megaclubs — weet wat je zoekt voordat je gaat.' : 'From cultural markets to mega-clubs — know what you\'re looking for before you go.'}</p>
               <div className="grid sm:grid-cols-2 gap-6">
                 {NIGHTLIFE_TYPES.map((type) => (
                   <div key={type.title} className="bg-white rounded-2xl shadow-sm p-6 border border-gray-100">
@@ -132,8 +136,8 @@ export default function NightlifeIndex() {
         <section className="section-padding bg-white">
           <div className="container-custom">
             <div className="max-w-4xl mx-auto">
-              <h2 className="text-3xl font-bold font-heading text-gray-900 mb-2 text-center">Nightlife by City</h2>
-              <p className="text-center text-gray-600 mb-10">In-depth guides for Thailand's top nightlife destinations.</p>
+              <h2 className="text-3xl font-bold font-heading text-gray-900 mb-2 text-center">{isNl ? 'Nachtleven per Stad' : 'Nightlife by City'}</h2>
+              <p className="text-center text-gray-600 mb-10">{isNl ? 'Uitgebreide gidsen voor de beste nachtlevenbestemmingen van Thailand.' : 'In-depth guides for Thailand\'s top nightlife destinations.'}</p>
               <div className="grid sm:grid-cols-2 gap-6">
                 {CITIES.map((city) => (
                   <Link
@@ -147,7 +151,7 @@ export default function NightlifeIndex() {
                     <p className="text-thailand-gold text-sm font-medium mb-3">{city.tagline}</p>
                     <p className="text-gray-600 text-sm leading-relaxed mb-4">{city.desc}</p>
                     <span className="text-thailand-gold text-sm font-medium">
-                      View nightlife guide &rarr;
+                      {isNl ? 'Bekijk nachtleven gids' : 'View nightlife guide'} &rarr;
                     </span>
                   </Link>
                 ))}
@@ -160,8 +164,8 @@ export default function NightlifeIndex() {
         <section className="section-padding">
           <div className="container-custom">
             <div className="max-w-3xl mx-auto">
-              <h2 className="text-3xl font-bold font-heading text-gray-900 mb-2 text-center">Nightlife Safety in Thailand</h2>
-              <p className="text-center text-gray-600 mb-10">Thailand is generally safe but a few key precautions make the difference between a great night and a nightmare.</p>
+              <h2 className="text-3xl font-bold font-heading text-gray-900 mb-2 text-center">{isNl ? 'Veiligheid bij Nachtleven in Thailand' : 'Nightlife Safety in Thailand'}</h2>
+              <p className="text-center text-gray-600 mb-10">{isNl ? 'Thailand is over het algemeen veilig, maar een paar belangrijke voorzorgsmaatregelen maken het verschil.' : 'Thailand is generally safe but a few key precautions make the difference between a great night and a nightmare.'}</p>
               <div className="space-y-4">
                 {SAFETY_TIPS.map((item) => (
                   <div key={item.tip} className="bg-white rounded-2xl p-5 shadow-sm border border-gray-100 flex gap-4">
@@ -182,48 +186,48 @@ export default function NightlifeIndex() {
           <div className="container-custom">
             <div className="max-w-4xl mx-auto">
               <h2 className="text-2xl font-bold font-heading text-gray-900 mb-6 text-center">
-                Explore More of Thailand
+                {isNl ? 'Ontdek Meer van Thailand' : 'Explore More of Thailand'}
               </h2>
               <div className="grid sm:grid-cols-2 lg:grid-cols-4 gap-4">
                 <Link
                   href="/food/"
                   className="bg-surface-cream rounded-xl p-5 hover:shadow-md border border-transparent hover:border-thailand-gold/30 transition-all group"
                 >
-                  <div className="text-2xl mb-2">🍜</div>
+                  <div className="text-2xl mb-2">&#127836;</div>
                   <h3 className="font-semibold text-gray-900 group-hover:text-thailand-blue transition-colors mb-1">
-                    Thai Food Guide
+                    {isNl ? 'Thaise Eetgids' : 'Thai Food Guide'}
                   </h3>
-                  <p className="text-sm text-gray-500">Dishes, street food & where to eat</p>
+                  <p className="text-sm text-gray-500">{isNl ? 'Gerechten, straatvoedsel & waar te eten' : 'Dishes, street food & where to eat'}</p>
                 </Link>
                 <Link
                   href="/drinks/"
                   className="bg-surface-cream rounded-xl p-5 hover:shadow-md border border-transparent hover:border-thailand-gold/30 transition-all group"
                 >
-                  <div className="text-2xl mb-2">🍹</div>
+                  <div className="text-2xl mb-2">&#127865;</div>
                   <h3 className="font-semibold text-gray-900 group-hover:text-thailand-blue transition-colors mb-1">
-                    Thai Drinks Guide
+                    {isNl ? 'Thaise Drankengids' : 'Thai Drinks Guide'}
                   </h3>
-                  <p className="text-sm text-gray-500">Cocktails, beers & local drinks</p>
+                  <p className="text-sm text-gray-500">{isNl ? 'Cocktails, bieren & lokale dranken' : 'Cocktails, beers & local drinks'}</p>
                 </Link>
                 <Link
                   href="/city/"
                   className="bg-surface-cream rounded-xl p-5 hover:shadow-md border border-transparent hover:border-thailand-gold/30 transition-all group"
                 >
-                  <div className="text-2xl mb-2">🏙️</div>
+                  <div className="text-2xl mb-2">&#127961;&#65039;</div>
                   <h3 className="font-semibold text-gray-900 group-hover:text-thailand-blue transition-colors mb-1">
-                    All Cities
+                    {isNl ? 'Alle Steden' : 'All Cities'}
                   </h3>
-                  <p className="text-sm text-gray-500">Full travel guides for 33 cities</p>
+                  <p className="text-sm text-gray-500">{isNl ? 'Uitgebreide reisgidsen voor 33 steden' : 'Full travel guides for 33 cities'}</p>
                 </Link>
                 <Link
                   href="/best-places-to-visit-thailand/"
                   className="bg-surface-cream rounded-xl p-5 hover:shadow-md border border-transparent hover:border-thailand-gold/30 transition-all group"
                 >
-                  <div className="text-2xl mb-2">📍</div>
+                  <div className="text-2xl mb-2">&#128205;</div>
                   <h3 className="font-semibold text-gray-900 group-hover:text-thailand-blue transition-colors mb-1">
-                    Best Places to Visit
+                    {isNl ? 'Beste Plekken om te Bezoeken' : 'Best Places to Visit'}
                   </h3>
-                  <p className="text-sm text-gray-500">Top destinations ranked & reviewed</p>
+                  <p className="text-sm text-gray-500">{isNl ? 'Top bestemmingen gerangschikt & beoordeeld' : 'Top destinations ranked & reviewed'}</p>
                 </Link>
               </div>
             </div>
