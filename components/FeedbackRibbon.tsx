@@ -1,4 +1,5 @@
 import React, { useState } from 'react';
+import { useRouter } from 'next/router';
 import { MessageSquare, X, Star, Send } from 'lucide-react';
 import { useToast } from './Toast';
 import { Button } from './ui/button';
@@ -6,6 +7,8 @@ import { Card, CardContent, CardDescription, CardHeader, CardTitle } from './ui/
 import { Input } from './ui/input';
 
 const FeedbackRibbon = () => {
+  const { locale } = useRouter();
+  const isNl = locale === 'nl';
   const toast = useToast();
   const [isOpen, setIsOpen] = useState(false);
   const [rating, setRating] = useState(0);
@@ -53,7 +56,7 @@ const FeedbackRibbon = () => {
       }
     } catch (error) {
       console.error('Error submitting feedback:', error);
-      toast.error('Failed to submit feedback. Please try again.');
+      toast.error(isNl ? 'Feedback verzenden mislukt. Probeer het opnieuw.' : 'Failed to submit feedback. Please try again.');
     } finally {
       setIsSubmitting(false);
     }
@@ -65,7 +68,7 @@ const FeedbackRibbon = () => {
       <button
         onClick={() => setIsOpen(true)}
         className="hidden md:flex fixed right-0 top-1/2 -translate-y-1/2 bg-blue-600 text-white px-3 py-6 rounded-l-lg shadow-lg hover:bg-blue-700 transition-colors z-40 focus:outline-none focus:ring-2 focus:ring-blue-500 focus:ring-offset-2 flex-col items-center"
-        aria-label="Give Feedback"
+        aria-label={isNl ? 'Geef Feedback' : 'Give Feedback'}
       >
         <MessageSquare className="w-5 h-5" />
         <span className="writing-mode-vertical text-sm font-medium mt-2">Feedback</span>
@@ -84,9 +87,9 @@ const FeedbackRibbon = () => {
               >
                 <X className="w-4 h-4" />
               </Button>
-              <CardTitle>Share Your Feedback</CardTitle>
+              <CardTitle>{isNl ? 'Deel je Feedback' : 'Share Your Feedback'}</CardTitle>
               <CardDescription>
-                Help us improve your experience on Go2 Thailand
+                {isNl ? 'Help ons je ervaring op Go2 Thailand te verbeteren' : 'Help us improve your experience on Go2 Thailand'}
               </CardDescription>
             </CardHeader>
             <CardContent>
@@ -95,15 +98,15 @@ const FeedbackRibbon = () => {
                   <div className="w-16 h-16 bg-green-100 rounded-full flex items-center justify-center mx-auto mb-4">
                     <MessageSquare className="w-8 h-8 text-green-600" />
                   </div>
-                  <h3 className="text-lg font-semibold mb-2">Thank You!</h3>
-                  <p className="text-gray-600">Your feedback has been received.</p>
+                  <h3 className="text-lg font-semibold mb-2">{isNl ? 'Bedankt!' : 'Thank You!'}</h3>
+                  <p className="text-gray-600">{isNl ? 'Je feedback is ontvangen.' : 'Your feedback has been received.'}</p>
                 </div>
               ) : (
                 <form onSubmit={handleSubmit} className="space-y-4">
                   {/* Rating */}
                   <div>
                     <label className="block text-sm font-medium mb-2">
-                      How would you rate your experience?
+                      {isNl ? 'Hoe beoordeel je je ervaring?' : 'How would you rate your experience?'}
                     </label>
                     <div className="flex gap-1">
                       {[1, 2, 3, 4, 5].map((star) => (
@@ -128,7 +131,7 @@ const FeedbackRibbon = () => {
                   {/* Message */}
                   <div>
                     <label htmlFor="message" className="block text-sm font-medium mb-2">
-                      Your feedback
+                      {isNl ? 'Jouw feedback' : 'Your feedback'}
                     </label>
                     <textarea
                       id="message"
@@ -136,7 +139,7 @@ const FeedbackRibbon = () => {
                       onChange={(e) => setMessage(e.target.value)}
                       className="w-full px-3 py-2 border border-gray-300 rounded-md focus:outline-none focus:ring-2 focus:ring-blue-500 focus:ring-offset-2"
                       rows={4}
-                      placeholder="Tell us what you think..."
+                      placeholder={isNl ? 'Vertel ons wat je ervan vindt...' : 'Tell us what you think...'}
                       required
                     />
                   </div>
@@ -144,7 +147,7 @@ const FeedbackRibbon = () => {
                   {/* Email (optional) */}
                   <div>
                     <label htmlFor="email" className="block text-sm font-medium mb-2">
-                      Email (optional)
+                      {isNl ? 'E-mail (optioneel)' : 'Email (optional)'}
                     </label>
                     <Input
                       id="email"
@@ -163,11 +166,11 @@ const FeedbackRibbon = () => {
                     disabled={!rating || !message.trim() || isSubmitting}
                   >
                     {isSubmitting ? (
-                      'Sending...'
+                      isNl ? 'Verzenden...' : 'Sending...'
                     ) : (
                       <>
                         <Send className="w-4 h-4 mr-2" />
-                        Send Feedback
+                        {isNl ? 'Feedback Verzenden' : 'Send Feedback'}
                       </>
                     )}
                   </Button>

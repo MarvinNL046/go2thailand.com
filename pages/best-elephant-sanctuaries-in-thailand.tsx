@@ -269,7 +269,9 @@ export default function BestElephantSanctuariesPage({ cities, topSanctuaries }: 
                   A <strong>2017 World Animal Protection study</strong> found that more than 75% of elephants used in Asian tourism were living in cruel conditions. The shift toward ethical sanctuaries — no riding, no chains, no direct contact shows — represents a fundamental change in how Thailand&apos;s tourism industry treats these animals.
                 </p>
                 <p>
-                  The <strong>Save Elephant Foundation</strong>, run by Saengduean &quot;Lek&quot; Chailert, has been central to this shift since founding Elephant Nature Park in 1995. Lek has received multiple international conservation awards for her work rehabilitating elephants traumatised by decades of abuse.
+                  {isNl
+                    ? <>De <strong>Save Elephant Foundation</strong>, geleid door Saengduean &quot;Lek&quot; Chailert, speelt een centrale rol in deze verschuiving sinds de oprichting van Elephant Nature Park in 1995. Lek heeft meerdere internationale natuurbeschermingsprijzen ontvangen voor haar werk met het rehabiliteren van olifanten die decennialang zijn mishandeld.</>
+                    : <>The <strong>Save Elephant Foundation</strong>, run by Saengduean &quot;Lek&quot; Chailert, has been central to this shift since founding Elephant Nature Park in 1995. Lek has received multiple international conservation awards for her work rehabilitating elephants traumatised by decades of abuse.</>}
                 </p>
               </div>
               <div className="mt-6 grid grid-cols-2 md:grid-cols-4 gap-4">

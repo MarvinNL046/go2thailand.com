@@ -1,4 +1,5 @@
 import { GetStaticProps, GetStaticPaths } from 'next';
+import { useRouter } from 'next/router';
 import Link from 'next/link';
 import { getCityBySlug, getCityStaticPaths, generateBreadcrumbs } from '../../../lib/cities';
 import Breadcrumbs from '../../../components/Breadcrumbs';
@@ -74,6 +75,9 @@ interface Top10RestaurantsPageProps {
 }
 
 export default function Top10RestaurantsPage({ city, restaurantsData, editorial }: Top10RestaurantsPageProps) {
+  const { locale } = useRouter();
+  const isNl = locale === 'nl';
+
   if (!city) return <div>City not found</div>;
 
   const breadcrumbs = [
@@ -346,7 +350,7 @@ export default function Top10RestaurantsPage({ city, restaurantsData, editorial 
                           {restaurant.current_info && (
                             <div className="bg-surface-cream border-l-4 border-thailand-red p-4 rounded-xl">
                               <p className="text-gray-700 text-sm">
-                                <strong>Current Info:</strong> {restaurant.current_info}
+                                <strong>{isNl ? 'Actuele Info:' : 'Current Info:'}</strong> {restaurant.current_info}
                               </p>
                             </div>
                           )}

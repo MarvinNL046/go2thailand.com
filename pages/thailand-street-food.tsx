@@ -288,26 +288,28 @@ export default function ThailandStreetFood({ data }: StreetFoodProps) {
                 </div>
                 <div className="p-6 space-y-4">
                   <p className="text-gray-700 text-sm leading-relaxed">
-                    Yaowarat Road anchors Bangkok&apos;s Chinatown, the largest in Southeast Asia. From 5 PM each evening, vendors close traffic lanes and extend their stalls along both sides of the road. Seafood grills, oyster omelettes, pad thai over charcoal, and guay jub noodle soup operate side by side until well past midnight.
+                    {isNl
+                      ? 'Yaowarat Road vormt het hart van Bangkok\'s Chinatown, de grootste in Zuidoost-Azië. Vanaf 17:00 uur sluiten verkopers rijstroken af en breiden hun kraampjes uit langs beide zijden van de weg. Zeevruchtgrills, oesteromelettten, pad thai op houtskool en guay jub noedelsoep staan naast elkaar tot ver na middernacht.'
+                      : 'Yaowarat Road anchors Bangkok\'s Chinatown, the largest in Southeast Asia. From 5 PM each evening, vendors close traffic lanes and extend their stalls along both sides of the road. Seafood grills, oyster omelettes, pad thai over charcoal, and guay jub noodle soup operate side by side until well past midnight.'}
                   </p>
                   <div className="space-y-2">
                     <p className="text-xs font-semibold text-gray-500 uppercase tracking-wide">Notable Addresses</p>
                     <ul className="space-y-1.5 text-sm text-gray-700">
                       <li className="flex items-start gap-2">
                         <span className="text-red-600 font-bold flex-shrink-0">&#9679;</span>
-                        <span><strong>Guay Jub Ouan Pochana</strong> — No. 408 Yaowarat Rd. 50+ years, MICHELIN Bib Gourmand. Peppery rolled noodle soup.</span>
+                        <span><strong>Guay Jub Ouan Pochana</strong> — No. 408 Yaowarat Rd. {isNl ? '50+ jaar, MICHELIN Bib Gourmand. Peperige opgerolde noedelsoep.' : '50+ years, MICHELIN Bib Gourmand. Peppery rolled noodle soup.'}</span>
                       </li>
                       <li className="flex items-start gap-2">
                         <span className="text-red-600 font-bold flex-shrink-0">&#9679;</span>
-                        <span><strong>Nai Mong Hoy Tod</strong> — 30+ years, the benchmark oyster omelette. Ask for &apos;tod krop&apos;.</span>
+                        <span><strong>Nai Mong Hoy Tod</strong> — {isNl ? '30+ jaar, de maatstaf voor oesteromelet. Vraag om \'tod krop\'.' : '30+ years, the benchmark oyster omelette. Ask for \'tod krop\'.'}</span>
                       </li>
                       <li className="flex items-start gap-2">
                         <span className="text-red-600 font-bold flex-shrink-0">&#9679;</span>
-                        <span><strong>T&amp;K Seafood</strong> — Long-running seafood grill and tom yum goong specialist on Yaowarat.</span>
+                        <span><strong>T&amp;K Seafood</strong> — {isNl ? 'Al jarenlang een zeevruchtengrill en tom yum goong specialist op Yaowarat.' : 'Long-running seafood grill and tom yum goong specialist on Yaowarat.'}</span>
                       </li>
                       <li className="flex items-start gap-2">
                         <span className="text-red-600 font-bold flex-shrink-0">&#9679;</span>
-                        <span><strong>Pa Tong Go Savoey</strong> — MICHELIN Bib Gourmand for Chinese doughnuts (pa tong go) with pandan custard.</span>
+                        <span><strong>Pa Tong Go Savoey</strong> — {isNl ? 'MICHELIN Bib Gourmand voor Chinese donuts (pa tong go) met pandan custard.' : 'MICHELIN Bib Gourmand for Chinese doughnuts (pa tong go) with pandan custard.'}</span>
                       </li>
                     </ul>
                   </div>
@@ -324,26 +326,28 @@ export default function ThailandStreetFood({ data }: StreetFoodProps) {
                 </div>
                 <div className="p-6 space-y-4">
                   <p className="text-gray-700 text-sm leading-relaxed">
-                    The Night Bazaar on Chang Klan Road began as a gathering point for Chinese merchants and local traders. Today it runs 5 PM to 11 PM along several blocks, combining craft stalls with street food vendors focused on Northern Thai specialties unavailable in Bangkok. It is the most accessible single location for Northern cuisine.
+                    {isNl
+                      ? 'De Night Bazaar op Chang Klan Road begon als verzamelpunt voor Chinese handelaren en lokale kooplieden. Tegenwoordig loopt het van 17:00 tot 23:00 uur over meerdere blokken, met een combinatie van ambachtskraampjes en straatvoedselverkopers gericht op Noord-Thaise specialiteiten die niet in Bangkok verkrijgbaar zijn. Het is de meest toegankelijke locatie voor Noord-Thaise keuken.'
+                      : 'The Night Bazaar on Chang Klan Road began as a gathering point for Chinese merchants and local traders. Today it runs 5 PM to 11 PM along several blocks, combining craft stalls with street food vendors focused on Northern Thai specialties unavailable in Bangkok. It is the most accessible single location for Northern cuisine.'}
                   </p>
                   <div className="space-y-2">
                     <p className="text-xs font-semibold text-gray-500 uppercase tracking-wide">What to Order</p>
                     <ul className="space-y-1.5 text-sm text-gray-700">
                       <li className="flex items-start gap-2">
                         <span className="text-amber-600 font-bold flex-shrink-0">&#9679;</span>
-                        <span><strong>Khao Soi</strong> — Coconut curry egg noodle soup; the Northern Thai signature dish. Khao Soi Lung Prakit Kad Kom nearby holds a MICHELIN Bib Gourmand.</span>
+                        <span><strong>Khao Soi</strong> — {isNl ? 'Kokoscurry-eiernoedelsoep; het Noord-Thaise signatuurgerecht. Khao Soi Lung Prakit Kad Kom in de buurt heeft een MICHELIN Bib Gourmand.' : 'Coconut curry egg noodle soup; the Northern Thai signature dish. Khao Soi Lung Prakit Kad Kom nearby holds a MICHELIN Bib Gourmand.'}</span>
                       </li>
                       <li className="flex items-start gap-2">
                         <span className="text-amber-600 font-bold flex-shrink-0">&#9679;</span>
-                        <span><strong>Sai Oua</strong> — Northern herbal pork sausage. Aromatic from fresh curry paste, lemongrass, and kaffir lime.</span>
+                        <span><strong>Sai Oua</strong> — {isNl ? 'Noord-Thaise kruiden-varkensworst. Aromatisch door verse currypasta, citroengras en kaffir limoen.' : 'Northern herbal pork sausage. Aromatic from fresh curry paste, lemongrass, and kaffir lime.'}</span>
                       </li>
                       <li className="flex items-start gap-2">
                         <span className="text-amber-600 font-bold flex-shrink-0">&#9679;</span>
-                        <span><strong>Nam Ngiew</strong> — Northern pork and tomato noodle soup with Shan-Burmese influence.</span>
+                        <span><strong>Nam Ngiew</strong> — {isNl ? 'Noord-Thaise varkens- en tomatennoedelsoep met Shan-Birmese invloeden.' : 'Northern pork and tomato noodle soup with Shan-Burmese influence.'}</span>
                       </li>
                       <li className="flex items-start gap-2">
                         <span className="text-amber-600 font-bold flex-shrink-0">&#9679;</span>
-                        <span><strong>Mango Sticky Rice &amp; Satay</strong> — Available throughout; quality is reliable in the bazaar food zone.</span>
+                        <span><strong>Mango Sticky Rice &amp; Satay</strong> — {isNl ? 'Overal verkrijgbaar; de kwaliteit is betrouwbaar in de food zone van de bazaar.' : 'Available throughout; quality is reliable in the bazaar food zone.'}</span>
                       </li>
                     </ul>
                   </div>
@@ -360,22 +364,24 @@ export default function ThailandStreetFood({ data }: StreetFoodProps) {
                 </div>
                 <div className="p-6 space-y-4">
                   <p className="text-gray-700 text-sm leading-relaxed">
-                    Chatuchak is the largest weekend market in Thailand — 35 acres, over 15,000 stalls, and more than 200,000 weekly visitors (Tourism Authority of Thailand). For street food, concentrate on the interior food lanes and the perimeter. Arrive by 9 AM; by noon the heat and crowds are significant. MRT to Chatuchak Park (Exit 1) or Kamphaeng Phet (Exit 2).
+                    {isNl
+                      ? 'Chatuchak is de grootste weekendmarkt van Thailand — 14 hectare, meer dan 15.000 kraampjes en meer dan 200.000 wekelijkse bezoekers (Tourism Authority of Thailand). Voor straatvoedsel kun je het beste naar de binnenste foodlanen en de buitenrand gaan. Kom voor 9 uur; rond het middaguur zijn de hitte en drukte aanzienlijk. MRT naar Chatuchak Park (uitgang 1) of Kamphaeng Phet (uitgang 2).'
+                      : 'Chatuchak is the largest weekend market in Thailand — 35 acres, over 15,000 stalls, and more than 200,000 weekly visitors (Tourism Authority of Thailand). For street food, concentrate on the interior food lanes and the perimeter. Arrive by 9 AM; by noon the heat and crowds are significant. MRT to Chatuchak Park (Exit 1) or Kamphaeng Phet (Exit 2).'}
                   </p>
                   <div className="space-y-2">
                     <p className="text-xs font-semibold text-gray-500 uppercase tracking-wide">Key Food Stops</p>
                     <ul className="space-y-1.5 text-sm text-gray-700">
                       <li className="flex items-start gap-2">
                         <span className="text-green-600 font-bold flex-shrink-0">&#9679;</span>
-                        <span><strong>Coco JJ</strong> — Section 1, Lane 36. Coconut ice cream in a coconut shell. Operating since 2008, one of the market&apos;s most recognised dessert stalls.</span>
+                        <span><strong>Coco JJ</strong> — Section 1, Lane 36. {isNl ? 'Kokosijs in een kokosnootschaal. Actief sinds 2008, een van de bekendste dessertkraampjes van de markt.' : 'Coconut ice cream in a coconut shell. Operating since 2008, one of the market\'s most recognised dessert stalls.'}</span>
                       </li>
                       <li className="flex items-start gap-2">
                         <span className="text-green-600 font-bold flex-shrink-0">&#9679;</span>
-                        <span><strong>Mango Sticky Rice carts</strong> — Multiple vendors throughout the food section; quality is seasonal (best April–June).</span>
+                        <span><strong>Mango Sticky Rice carts</strong> — {isNl ? 'Meerdere verkopers door de hele foodsectie; kwaliteit is seizoensgebonden (beste april-juni).' : 'Multiple vendors throughout the food section; quality is seasonal (best April\u2013June).'}</span>
                       </li>
                       <li className="flex items-start gap-2">
                         <span className="text-green-600 font-bold flex-shrink-0">&#9679;</span>
-                        <span><strong>Grilled pork &amp; fried chicken</strong> — Moo ping and gai tod stalls are scattered throughout the market perimeter.</span>
+                        <span><strong>Grilled pork &amp; fried chicken</strong> — {isNl ? 'Moo ping en gai tod kraampjes zijn verspreid over de hele marktrand.' : 'Moo ping and gai tod stalls are scattered throughout the market perimeter.'}</span>
                       </li>
                     </ul>
                   </div>

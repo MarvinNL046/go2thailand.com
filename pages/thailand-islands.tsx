@@ -178,7 +178,7 @@ export default function ThailandIslandsPage() {
                       <p><strong>Coast:</strong> Andaman Sea (Krabi Province)</p>
                       <p><strong>Best season:</strong> November - April</p>
                       <p><strong>Getting there:</strong> Ferry from Krabi (1.5 hours, ~฿400-600) or Phuket (2 hours, ~฿400-700)</p>
-                      <p><strong>Maya Bay:</strong> Reopened with 2,000/day cap — book in advance, no swimming allowed</p>
+                      <p><strong>Maya Bay:</strong> {isNl ? 'Heropend met 2.000/dag limiet — boek vooraf, zwemmen niet toegestaan' : 'Reopened with 2,000/day cap — book in advance, no swimming allowed'}</p>
                     </div>
                     <p className="mt-3 text-sm">
                       <Link href="/city/krabi/" className="text-thailand-blue hover:underline font-semibold">Explore our Krabi guide →</Link>
@@ -359,9 +359,9 @@ export default function ThailandIslandsPage() {
                       What many visitors do not realize is that Koh Phangan has also spawned Half Moon and Black Moon parties, which happen on the weeks between Full Moon events and offer a more curated experience in jungle venues with electronic music lineups. The island&apos;s party calendar is essentially continuous. But Koh Phangan is not only a party island — the northern and western coasts are home to yoga retreats, wellness centers, and some of the quietest beaches in the Gulf of Thailand. Bottle Beach on the north coast is reachable only by boat or jungle hike and feels like a different island entirely from Haad Rin.
                     </p>
                     <div className="bg-gray-50 rounded-xl p-4 text-sm text-gray-600 space-y-1">
-                      <p><strong>Full Moon Party:</strong> Monthly at Haad Rin Beach, ฿200 entrance</p>
-                      <p><strong>Also:</strong> Half Moon Party, Black Moon Party (jungle venues between full moons)</p>
-                      <p><strong>Tip:</strong> Wear shoes you do not mind ruining, keep valuables at your hotel, drink from sealed containers only</p>
+                      <p><strong>Full Moon Party:</strong> {isNl ? 'Maandelijks op Haad Rin Beach, ฿200 entree' : 'Monthly at Haad Rin Beach, ฿200 entrance'}</p>
+                      <p><strong>{isNl ? 'Ook' : 'Also'}:</strong> {isNl ? 'Half Moon Party, Black Moon Party (junglelocaties tussen full moons)' : 'Half Moon Party, Black Moon Party (jungle venues between full moons)'}</p>
+                      <p><strong>Tip:</strong> {isNl ? 'Draag schoenen die vies mogen worden, bewaar waardevolle spullen in je hotel, drink alleen uit verzegelde verpakkingen' : 'Wear shoes you do not mind ruining, keep valuables at your hotel, drink from sealed containers only'}</p>
                     </div>
                     <p className="mt-3 text-sm">
                       <Link href="/city/koh-phangan/" className="text-thailand-blue hover:underline font-semibold">Explore our Koh Phangan guide →</Link>
@@ -409,9 +409,9 @@ export default function ThailandIslandsPage() {
                       Lamai Beach, Samui&apos;s second-busiest area, has a smaller but more laid-back nightlife strip. Fisherman&apos;s Village in Bophut hosts a Friday Night Market where the atmosphere blends street food, live music, shopping, and people-watching along a charming waterfront street. For a genuinely different experience, several rooftop bars at hillside resorts offer sunset cocktails with panoramic views of the Gulf — Air Bar at InterContinental and The Jungle Club are standouts.
                     </p>
                     <div className="bg-gray-50 rounded-xl p-4 text-sm text-gray-600 space-y-1">
-                      <p><strong>Main nightlife area:</strong> Chaweng Beach Road (nightly)</p>
-                      <p><strong>Cabaret shows:</strong> Paris Follies, Starz Cabaret</p>
-                      <p><strong>Friday Night Market:</strong> Fisherman&apos;s Village, Bophut — street food and live music</p>
+                      <p><strong>{isNl ? 'Belangrijkste uitgaansgebied' : 'Main nightlife area'}:</strong> Chaweng Beach Road ({isNl ? 'elke avond' : 'nightly'})</p>
+                      <p><strong>{isNl ? 'Cabaretshows' : 'Cabaret shows'}:</strong> Paris Follies, Starz Cabaret</p>
+                      <p><strong>Friday Night Market:</strong> Fisherman&apos;s Village, Bophut — {isNl ? 'straatvoedsel en livemuziek' : 'street food and live music'}</p>
                     </div>
                     <p className="mt-3 text-sm">
                       <Link href="/city/koh-samui/" className="text-thailand-blue hover:underline font-semibold">Explore Koh Samui →</Link>

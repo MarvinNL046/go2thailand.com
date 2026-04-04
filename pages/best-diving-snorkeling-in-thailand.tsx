@@ -673,9 +673,9 @@ export default function BestDivingSnorkelingPage({ cities, topActivities }: Prop
                 <div className="bg-surface-cream rounded-xl p-5">
                   <h3 className="font-semibold text-gray-900 mb-3">{isNl ? 'Actieve NGO Programma\'s' : 'Active NGO Programs'}</h3>
                   <ul className="space-y-2 text-sm text-gray-700">
-                    <li><strong>New Heaven Reef Conservation (Koh Tao)</strong> — long-running reef monitoring and coral gardening, operating since 2011; trains dive professionals in marine survey methodology</li>
-                    <li><strong>COREsea (Koh Phangan / Samui Archipelago)</strong> — marine conservation research and education; runs coral nurseries and fish population surveys</li>
-                    <li><strong>Big Blue Conservation (Koh Tao)</strong> — reef survey training and citizen science programs integrated with the dive instructor development centre</li>
+                    <li><strong>New Heaven Reef Conservation (Koh Tao)</strong> — {isNl ? 'langlopend rifmonitoring- en koraaltuinierprogramma, actief sinds 2011; leidt duikprofessionals op in mariene onderzoeksmethodologie' : 'long-running reef monitoring and coral gardening, operating since 2011; trains dive professionals in marine survey methodology'}</li>
+                    <li><strong>COREsea (Koh Phangan / Samui Archipelago)</strong> — {isNl ? 'mariene natuurbeschermingsonderzoek en educatie; beheert koraalkwekerijen en vispopulatie-inventarisaties' : 'marine conservation research and education; runs coral nurseries and fish population surveys'}</li>
+                    <li><strong>Big Blue Conservation (Koh Tao)</strong> — {isNl ? 'rifonderzoekstraining en citizen science-programma\'s, geïntegreerd met het opleidingscentrum voor duikinstructeurs' : 'reef survey training and citizen science programs integrated with the dive instructor development centre'}</li>
                   </ul>
                 </div>
               </div>

@@ -350,7 +350,9 @@ export default function VisaIndexPage({ visas }: VisaPageProps) {
                 <li><strong>Copy of passport</strong> (ID page + current visa stamp)</li>
               </ol>
               <p>
-                Major immigration offices: <strong>Bangkok</strong> (Government Complex, Chaeng Wattana Road), <strong>Chiang Mai</strong> (Promenada Mall), <strong>Phuket</strong> (Phuket Town), <strong>Pattaya</strong> (Soi 5, Jomtien). Processing typically takes 1–3 hours. Arrive early — offices get busy, especially in Bangkok.
+                {isNl
+                  ? <>Belangrijke immigratiekantoren: <strong>Bangkok</strong> (Government Complex, Chaeng Wattana Road), <strong>Chiang Mai</strong> (Promenada Mall), <strong>Phuket</strong> (Phuket Town), <strong>Pattaya</strong> (Soi 5, Jomtien). Verwerking duurt doorgaans 1-3 uur. Kom vroeg — kantoren worden druk, vooral in Bangkok.</>
+                  : <>Major immigration offices: <strong>Bangkok</strong> (Government Complex, Chaeng Wattana Road), <strong>Chiang Mai</strong> (Promenada Mall), <strong>Phuket</strong> (Phuket Town), <strong>Pattaya</strong> (Soi 5, Jomtien). Processing typically takes 1–3 hours. Arrive early — offices get busy, especially in Bangkok.</>}
               </p>
 
               <h3 className="font-heading">Overstay Penalties</h3>
