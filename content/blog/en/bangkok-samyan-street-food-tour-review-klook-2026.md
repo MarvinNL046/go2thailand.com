@@ -54,6 +54,13 @@ So we booked the **[Bangkok Samyan 4-Hour Small Group Street Food Tour](https://
 
 ![Bangkok Samyan Street Food Tour on Klook — 4.8 rating, 6000+ booked, Klook's Choice badge](/images/blog/bangkok-samyan-street-food-tour-klook-hero.png)
 
+<div data-widget="klook" style="margin: 1.5rem 0; text-align: center;">
+<div data-widget-fallback>
+<a href="https://klook.tpo.lv/rvdOEmkN" target="_blank" rel="noopener noreferrer nofollow sponsored" style="display: inline-block; background: #FF5722; color: white; padding: 14px 36px; border-radius: 50px; font-weight: 700; font-size: 16px; text-decoration: none; letter-spacing: 0.5px;">Book Now on Klook →</a>
+<p style="font-size: 12px; color: #999; margin-top: 8px;">Free cancellation up to 24 hours before · Instant confirmation</p>
+</div>
+</div>
+
 ## How We Found This Tour
 
 When searching Klook for Bangkok street food tours, this one stood out immediately:
@@ -213,6 +220,30 @@ If you're visiting Bangkok and want one food experience that covers Isan cuisine
 
 **Rating: 4.8/5** — matching the 483 reviewers before us.
 
+<div data-widget="klook" style="margin: 2rem 0; text-align: center;">
+<div data-widget-fallback>
+<a href="https://klook.tpo.lv/rvdOEmkN" target="_blank" rel="noopener noreferrer nofollow sponsored" style="display: inline-block; background: #FF5722; color: white; padding: 14px 36px; border-radius: 50px; font-weight: 700; font-size: 16px; text-decoration: none; letter-spacing: 0.5px;">Book This Tour on Klook →</a>
+<p style="font-size: 12px; color: #999; margin-top: 8px;">4.8/5 · 6,000+ bookings · Free cancellation</p>
+</div>
+</div>
+
+## Travel Essentials for Bangkok
+
+A night street food tour means navigating Bangkok after dark — public WiFi is unreliable, and you'll want to stay connected and secure. Here's what we use:
+
+### Stay Connected: Get a Thailand eSIM
+
+Don't rely on restaurant WiFi to navigate between stops. An eSIM gives you instant data the moment you land — no kiosk queues, no physical SIM swaps.
+
+**[Get a Thailand eSIM from Saily →](https://saily.tpo.lv/wXiHs82q)**
+
+### Stay Secure: Protect Your Data
+
+You'll be connecting to public WiFi at restaurants, rooftop bars, and markets throughout the tour. A VPN keeps your banking apps, passwords, and personal data safe on unsecured networks.
+
+- **[NordVPN](https://nordvpn.tpo.lv/ekHF1i55)** — encrypt your connection on Bangkok's public WiFi. Essential for mobile banking and booking apps.
+- **[NordPass](https://nordvpn.tpo.lv/tp12zNjC)** — store your travel passwords, booking confirmations, and passport scans securely. Auto-fill on any device.
+
 ---
 
-*This article contains an affiliate link to Klook. We booked and paid for this tour ourselves. If you book through our link, we may earn a small commission at no extra cost to you. All opinions are our own based on firsthand experience.*
+*This article contains affiliate links. If you book through our links, we may earn a small commission at no extra cost to you. All opinions are our own based on firsthand experience.*
