@@ -17,7 +17,7 @@ tags:
   - Isan food Bangkok
   - Bangkok Chinatown food
   - Klook food tour
-image: /images/blog/bangkok-samyan-street-food-tour-ai.jpg
+image: /images/blog/bangkok-samyan-street-food-tour-klook-hero.png
 description: "Honest review of Bangkok's top-rated Samyan street food tour on Klook. 6 stops, tuk-tuk rides, Isan feast, Chinatown, hand-pulled noodles, rooftop bar with Wat Arun view — all for $72."
 featured: true
 readingTime: 12
