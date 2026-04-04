@@ -690,10 +690,10 @@ export default function AttractionDetailPage({ city, attraction }: AttractionDet
 }
 
 export const getStaticPaths: GetStaticPaths = async () => {
-  const paths = getAllAttractionStaticPaths();
-  
+  // Skip pre-rendering at build time — pages are generated on-demand and cached via ISR
+  // This saves ~75s build time (544 pages × 1.76MB each)
   return {
-    paths,
+    paths: [],
     fallback: 'blocking',
   };
 };

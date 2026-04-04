@@ -109,12 +109,9 @@ export default function BlogTagPage({ tag, posts }: TagPageProps) {
 }
 
 export const getStaticPaths: GetStaticPaths = async () => {
-  const tags = getAllTags('en');
-  const paths = tags.map(tag => ({
-    params: { tag }
-  }));
-
-  return { paths, fallback: 'blocking' };
+  // Skip pre-rendering at build time — pages are generated on-demand and cached via ISR
+  // This saves ~267s build time (1100+ tag pages)
+  return { paths: [], fallback: 'blocking' };
 };
 
 export const getStaticProps: GetStaticProps = async ({ params, locale }) => {
