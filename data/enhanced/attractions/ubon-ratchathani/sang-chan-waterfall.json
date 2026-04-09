@@ -1,0 +1,78 @@
+{
+  "id": 13,
+  "slug": "sang-chan-waterfall",
+  "name": {
+    "en": "Sang Chan Waterfall",
+    "nl": "Sang Chan-waterval"
+  },
+  "type": "nature",
+  "city_slug": "ubon-ratchathani",
+  "address": "Pho Klang subdistrict, Khong Chiam District, Ubon Ratchathani",
+  "location": null,
+  "opening_hours": "Covered by local park access and seasonal conditions; recheck current route and safety details before departure.",
+  "entrance_fee": {
+    "thb": null,
+    "usd": null
+  },
+  "description": {
+    "en": "A smaller but distinctive waterfall stop known for water dropping through a rock channel and catching the afternoon light.",
+    "nl": "Een kleinere maar onderscheidende watervalstop die bekendstaat om water dat door een rotskanaal valt en het middaglicht vangt."
+  },
+  "highlights": [
+    "Known locally as Long Ru Waterfall",
+    "Afternoon light through the rock opening",
+    "Useful secondary stop on the Khong Chiam side"
+  ],
+  "image": "/images/cities/generated/ubon-ratchathani.webp",
+  "seo": {
+    "metaTitle": {
+      "en": "Sang Chan Waterfall | Go2Thailand",
+      "nl": "Sang Chan-waterval | Go2Thailand"
+    },
+    "metaDescription": {
+      "en": "Why Sang Chan Waterfall is a distinctive but secondary waterfall stop in the wider Pha Taem and Khong Chiam route.",
+      "nl": "Waarom Sang Chan-waterval een onderscheidende maar secundaire watervalstop is in de bredere Pha Taem- en Khong Chiam-route."
+    }
+  },
+  "tags": [
+    "ubon-ratchathani",
+    "sang-chan",
+    "long-ru",
+    "waterfall",
+    "nature"
+  ],
+  "googleMapsUrl": "https://maps.app.goo.gl/gd8Tj7QfqqiZc",
+  "best_time": "afternoon",
+  "duration_hours": 1.25,
+  "enhanced_description": "Sang Chan is not the biggest waterfall in the route, but it is one of the more visually specific ones. TAT's current Ubon brochure still describes the site through water flowing along a rock channel and looking best when afternoon light passes through the opening and catches the droplets.\n\nThat makes it a worthwhile stop for travelers who like geological details, but it still belongs below Pha Taem itself in the province hierarchy. It is best treated as a carefully chosen add-on, not as the main event.",
+  "detailed_history": "The Ubon Ratchathani e-brochure still identifies Sang Chan, also called Long Ru Waterfall, as a small waterfall shaped by water moving through stony ground and a rock channel, with the most photogenic conditions later in the day when sunlight reaches the opening.",
+  "visitor_experience": "Expect a short nature stop rather than a swimming-focused waterfall day. Its appeal is shape and light more than scale, so timing matters more here than for some broader cliff or river viewpoints.",
+  "best_time_to_visit": {
+    "time_of_day": "Afternoon",
+    "duration": "About 45 to 75 minutes",
+    "crowd_level": "Usually light"
+  },
+  "practical_info": {
+    "how_to_get_there": "Best reached by car or driver as part of the same Khong Chiam-side nature loop as Pha Taem and Soi Sawan.",
+    "nearby_attractions": "Soi Sawan Waterfall, Pha Taem National Park, and Dong Na Tham-side nature viewpoints.",
+    "food_options": "Plan food before or after the route rather than at the waterfall.",
+    "shopping": "No meaningful shopping layer on site."
+  },
+  "insider_tips": [
+    "This one is more about timing and form than about sheer waterfall scale.",
+    "Put it after the main park priorities, not before them.",
+    "Check seasonal flow and access before committing extra drive time."
+  ],
+  "verified_note": "Source-backed summary based on current TAT material for the Pha Taem area. Water flow and lighting conditions can shift by season and time of day.",
+  "cultural_significance": "Sang Chan adds a specific local texture to the Khong Chiam nature circuit by showing how the area's sandstone and seasonal water can create unusual smaller-scale landforms.",
+  "contentSources": [
+    {
+      "name": "E-Brochure Ubon Ratchathani (Eng)",
+      "url": "https://tourismthailand.my/ebook/E-Brochure%20Ubon%20Ratchathani%20%28Eng%29.pdf"
+    },
+    {
+      "name": "Pha Taem National Park",
+      "url": "https://tourismproduct.tourismthailand.org/en/2025/06/20/%E0%B8%AD%E0%B8%B8%E0%B8%97%E0%B8%A2%E0%B8%B2%E0%B8%99%E0%B9%81%E0%B8%AB%E0%B9%88%E0%B8%87%E0%B8%8A%E0%B8%B2%E0%B8%95%E0%B8%B4%E0%B8%9C%E0%B8%B2%E0%B9%81%E0%B8%95%E0%B9%89%E0%B8%A1-2/"
+    }
+  ]
+}

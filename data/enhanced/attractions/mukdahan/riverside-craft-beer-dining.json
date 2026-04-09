@@ -1,0 +1,78 @@
+{
+  "id": 4,
+  "slug": "riverside-craft-beer-dining",
+  "name": {
+    "en": "Riverside Craft Beer and Dining",
+    "nl": "Craft beer en dineren aan de rivier"
+  },
+  "type": "food",
+  "city_slug": "mukdahan",
+  "address": "Mukdahan riverfront and bridge-viewpoint area, Mueang Mukdahan District, Mukdahan",
+  "location": null,
+  "opening_hours": "Individual riverside venues and pop-up evening stalls keep their own hours; current openings should be checked locally.",
+  "entrance_fee": {
+    "thb": 0,
+    "usd": 0
+  },
+  "description": {
+    "en": "An evening dining layer along the riverfront, better understood as an informal zone of Mekong-side eating and drinking than as a single fixed venue.",
+    "nl": "Een avondlijke dineerlaag langs het rivierfront, beter te begrijpen als informele zone van eten en drinken aan de Mekong dan als een enkele vaste zaak."
+  },
+  "highlights": [
+    "Mekong-side evening dining",
+    "Best paired with the riverfront walk",
+    "Informal local venue mix rather than one destination"
+  ],
+  "image": "/images/cities/generated/mukdahan.webp",
+  "seo": {
+    "metaTitle": {
+      "en": "Riverside Craft Beer and Dining | Go2Thailand",
+      "nl": "Craft beer en dineren aan de rivier | Go2Thailand"
+    },
+    "metaDescription": {
+      "en": "How to use Mukdahan's riverside evening dining layer without overclaiming one unstable venue cluster.",
+      "nl": "Hoe je de avondlijke dinerlaag aan de rivier in Mukdahan gebruikt zonder een instabiele venuecluster te overclaimen."
+    }
+  },
+  "tags": [
+    "mukdahan",
+    "food",
+    "riverfront",
+    "mekong",
+    "evening"
+  ],
+  "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=Riverside%20Craft%20Beer%20%26%20Dining%20Mukdahan%20Thailand",
+  "best_time": "evening",
+  "duration_hours": 2,
+  "enhanced_description": "This entry is strongest when written as an evening riverfront food-and-drink layer, not as a promise about one permanent branded beer venue. Mukdahan's river edge and bridge-viewpoint area already support evening strolling and small-scale local commerce, so the dining logic is real even when the exact operators shift.\n\nThat makes it useful for planning, but only if the language stays conservative. Think of it as a zone for sunset drinks and dinner with Mekong views, not as a single must-visit business with fixed offerings.",
+  "detailed_history": "Current Mukdahan brochure coverage of the riverfront and Second Thai-Lao Friendship Bridge viewpoint still describes an evening walking-street rhythm with food and local browsing, which supports the existence of a real riverside dining layer without locking the content to one unstable vendor set.",
+  "visitor_experience": "Expect an informal evening scene rather than a curated craft-beer district. The payoff comes from combining food, riverfront air, and Savannakhet views in one relaxed city-core block.",
+  "best_time_to_visit": {
+    "time_of_day": "Evening",
+    "duration": "About 90 to 120 minutes",
+    "crowd_level": "Light to moderate"
+  },
+  "practical_info": {
+    "how_to_get_there": "Walk the riverfront or start near the bridge viewpoint area and see which venues are active that evening.",
+    "nearby_attractions": "Mekong Riverside Promenade, Second Thai-Lao Friendship Bridge Viewpoint, and Ho Kaeo Mukdahan.",
+    "food_options": "This entry is itself the evening food option, but the exact shops or tents may change.",
+    "shopping": "Light local browsing may be available depending on the night's setup."
+  },
+  "insider_tips": [
+    "Approach this as a flexible evening zone, not a single guaranteed bar or restaurant.",
+    "Go after the heat drops and pair it with a promenade walk.",
+    "Avoid relying on old menu or price claims copied from third-party blogs."
+  ],
+  "verified_note": "Conservative riverfront-dining summary based on current Mukdahan brochure and province context. Specific venue, menu, and price details should be checked locally.",
+  "cultural_significance": "The riverfront dining layer matters because it shows how Mukdahan's Mekong setting is lived socially after dark, not only visited in daylight.",
+  "contentSources": [
+    {
+      "name": "Mukdahan e-brochure",
+      "url": "https://www.wisatathailand.id/images/booklet/E-Brochure%20Mukdahan%20%28Eng%29%20%281%29.pdf"
+    },
+    {
+      "name": "Mukdahan province page",
+      "url": "https://www.tourismthailand.org/Destinations/Provinces/Mukdahan/578"
+    }
+  ]
+}

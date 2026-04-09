@@ -1,0 +1,83 @@
+{
+  "id": 5,
+  "slug": "mekong-riverside-promenade",
+  "name": {
+    "en": "Mekong Riverside Promenade",
+    "nl": "Mekong-rivierpromenade"
+  },
+  "type": "nature",
+  "city_slug": "nong-khai",
+  "address": "Tha Sadet and the Mekong riverfront, Mueang Nong Khai District, Nong Khai",
+  "location": null,
+  "opening_hours": "The riverside itself is public space, but market rhythm and local activity vary by time of day and season.",
+  "entrance_fee": {
+    "thb": 0,
+    "usd": 0
+  },
+  "description": {
+    "en": "The simplest everyday pleasure in Nong Khai: a Mekong-side walk that works best near sunset and ties the market and riverfront together.",
+    "nl": "Het eenvoudigste dagelijkse plezier van Nong Khai: een wandeling langs de Mekong die het best werkt rond zonsondergang en markt en rivierfront met elkaar verbindt."
+  },
+  "highlights": [
+    "Sunset walk logic",
+    "Best paired with Tha Sadet",
+    "Everyday Mekong atmosphere"
+  ],
+  "image": "/images/cities/generated/nong-khai.webp",
+  "official_website": null,
+  "seo": {
+    "metaTitle": {
+      "en": "Mekong Riverside Promenade | Go2Thailand",
+      "nl": "Mekong-rivierpromenade | Go2Thailand"
+    },
+    "metaDescription": {
+      "en": "Why Nong Khai's Mekong riverside promenade is the city's most useful everyday walk and sunset layer.",
+      "nl": "Waarom de Mekong-rivierpromenade van Nong Khai de nuttigste dagelijkse wandeling en zonsondergangslaag van de stad is."
+    }
+  },
+  "tags": [
+    "nong-khai",
+    "mekong",
+    "riverfront",
+    "tha-sadet",
+    "sunset"
+  ],
+  "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=Mekong%20Riverside%20Promenade%20Nong%20Khai%20Thailand",
+  "best_time": "evening",
+  "duration_hours": 1.5,
+  "enhanced_description": "The riverside promenade is where Nong Khai feels easiest and most coherent. It is not a spectacular engineered attraction; it is simply the public Mekong edge where the city's pace, cross-river views, and market logic all start to line up.\n\nThat makes it more valuable than many oversized attraction claims. If you only want one reliable everyday city walk, this is usually the right one, especially when paired with Tha Sadet in the late afternoon or evening.",
+  "detailed_history": "Current TAT destination material for Thailand's northeast still uses Tha Sadet Market as one of the best-known Mekong riverfront stops in Nong Khai, while provincial guidebook coverage continues to position the riverside promenade as part of the city's core walking logic.",
+  "visitor_experience": "Expect a public river walk with local life, cross-river views to Laos, and a better atmosphere near sunset than in the hotter middle of the day. The stop is about rhythm, not spectacle.",
+  "best_time_to_visit": {
+    "time_of_day": "Late afternoon or evening",
+    "duration": "About 60 to 90 minutes",
+    "crowd_level": "Light to moderate"
+  },
+  "practical_info": {
+    "how_to_get_there": "Easy on foot from central Nong Khai or by short ride from elsewhere in town.",
+    "nearby_attractions": "Tha Sadet Market, Wat Pho Chai, and the bridge side of the city.",
+    "food_options": "The promenade works best with a meal or snack stop around Tha Sadet.",
+    "shopping": "Tha Sadet is the stronger shopping layer attached to the walk."
+  },
+  "insider_tips": [
+    "Do this near sunset rather than in the midday heat.",
+    "Use it as your baseline Nong Khai walk if the city is new to you.",
+    "Pair it with market browsing instead of treating it as a standalone destination."
+  ],
+  "verified_note": "Source-backed summary based on current TAT destination and Nong Khai guidebook material.",
+  "cultural_significance": "The promenade matters because it is where Nong Khai's Mekong identity becomes most usable in everyday travel, without needing a ticketed attraction to explain the city.",
+  "contentSources": [
+    {
+      "name": "Northeast Thailand destination page",
+      "url": "https://www.tourismthailand.org/Destinations/north%20east/5"
+    },
+    {
+      "name": "Provincial eBook Nong Khai",
+      "url": "https://amazingthailand.com.au/wp-content/uploads/2022/09/Provincial-eBook-Nongkhai_en_Hyperlink_OK.pdf"
+    },
+    {
+      "name": "Weaving Mekong Guidebook",
+      "url": "https://fliphtml5.com/kmkzf/Weaving-Mekong_EN/Weaving_Mekong_EN/"
+    }
+  ]
+}

@@ -1,0 +1,83 @@
+{
+  "id": 1,
+  "slug": "den-ping-cave",
+  "name": {
+    "en": "Den Ping Cave (Tham Din Phiang)",
+    "nl": "Den Ping-grot (Tham Din Phiang)"
+  },
+  "type": "temple",
+  "city_slug": "nong-khai",
+  "address": "Pha Tang area, Sangkhom District, Nong Khai",
+  "location": null,
+  "opening_hours": "Local cave access, guide arrangements, and current safety conditions should be rechecked before departure.",
+  "entrance_fee": {
+    "thb": null,
+    "usd": null
+  },
+  "description": {
+    "en": "A sacred cave stop on the Sangkhom side, stronger for its Naga belief layer and unusual rock passage than for polished tourist infrastructure.",
+    "nl": "Een heilige grotstop aan de Sangkhom-kant, sterker door de Naga-geloofslaag en ongebruikelijke rotspassage dan door gepolijste toeristische infrastructuur."
+  },
+  "highlights": [
+    "Known as Tham Din Phiang in TAT material",
+    "Naga-belief layer",
+    "Good with the Sangkhom viewpoint route"
+  ],
+  "image": "/images/cities/generated/nong-khai.webp",
+  "official_website": null,
+  "seo": {
+    "metaTitle": {
+      "en": "Den Ping Cave | Go2Thailand",
+      "nl": "Den Ping-grot | Go2Thailand"
+    },
+    "metaDescription": {
+      "en": "Why Den Ping Cave is best treated as a sacred Sangkhom-side add-on rather than a polished showcave attraction.",
+      "nl": "Waarom Den Ping-grot het best werkt als heilige uitstap aan de Sangkhom-kant en niet als gepolijste showcave-attractie."
+    }
+  },
+  "tags": [
+    "nong-khai",
+    "tham-din-phiang",
+    "den-ping-cave",
+    "sangkhom",
+    "naga"
+  ],
+  "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=Den%20Ping%20Cave%20Nong%20Khai%20Thailand",
+  "best_time": "morning",
+  "duration_hours": 1.25,
+  "enhanced_description": "Den Ping Cave is best understood through its local sacred identity rather than through generic adventure-cave copy. TAT's current Nong Khai and Upper Isan trip coverage refers to the site as Tham Din Phiang and frames it as part of a belief-oriented Sangkhom route alongside Mekong viewpoints.\n\nThat is the right scale for it. This is a focused add-on for travelers who want a more local spiritual stop on the river-road side of Nong Khai province, not a large commercial cave attraction.",
+  "detailed_history": "Current TAT trip-planning material for Nong Khai still includes Tham Din Phiang as one of the key Sangkhom-side stops and explicitly links it to local Naga belief, which is more reliable than recycled exact-fee claims from old third-party listings.",
+  "visitor_experience": "Expect a modest sacred cave stop with some uneven local conditions rather than a highly managed show cave. It is strongest when combined with Wat Pha Tak Suea and other Sangkhom-side Mekong viewpoints.",
+  "best_time_to_visit": {
+    "time_of_day": "Morning",
+    "duration": "About 45 to 75 minutes",
+    "crowd_level": "Usually light"
+  },
+  "practical_info": {
+    "how_to_get_there": "Reach it by road on a Sangkhom-side outing from Nong Khai city.",
+    "nearby_attractions": "Wat Pha Tak Suea Skywalk, Phu Huai Isan, and the Mekong river-road viewpoints.",
+    "food_options": "Plan meals around the broader Sangkhom route rather than around the cave stop itself.",
+    "shopping": "Minimal to none."
+  },
+  "insider_tips": [
+    "Treat the cave as a sacred local stop first, not as a major adventure product.",
+    "Do it on the same outing as the main Sangkhom viewpoints.",
+    "Recheck current local access before going, especially in wet conditions."
+  ],
+  "verified_note": "Source-backed summary based on current TAT Nong Khai and Upper Isan route material. Same-day cave access details should still be verified locally.",
+  "cultural_significance": "The cave matters because it connects Nong Khai's river-road landscape to the Naga belief system that shapes much of the province's spiritual identity.",
+  "contentSources": [
+    {
+      "name": "3D2N to Udon Thani and Nong Khai For Beliefs and Beyond",
+      "url": "https://www.tourismthailand.org/Articles/udon-thani-and-nong-khai-en"
+    },
+    {
+      "name": "Provincial eBook Nong Khai",
+      "url": "https://amazingthailand.com.au/wp-content/uploads/2022/09/Provincial-eBook-Nongkhai_en_Hyperlink_OK.pdf"
+    },
+    {
+      "name": "Weaving Mekong Guidebook",
+      "url": "https://fliphtml5.com/kmkzf/Weaving-Mekong_EN/Weaving_Mekong_EN/"
+    }
+  ]
+}

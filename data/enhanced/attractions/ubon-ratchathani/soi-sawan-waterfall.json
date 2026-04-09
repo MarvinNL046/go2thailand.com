@@ -1,0 +1,78 @@
+{
+  "id": 12,
+  "slug": "soi-sawan-waterfall",
+  "name": {
+    "en": "Soi Sawan Waterfall",
+    "nl": "Soi Sawan-waterval"
+  },
+  "type": "nature",
+  "city_slug": "ubon-ratchathani",
+  "address": "Pho Klang subdistrict, Khong Chiam District, Ubon Ratchathani",
+  "location": null,
+  "opening_hours": "Covered by Pha Taem National Park and local trail conditions; confirm current access and seasonal water flow before going.",
+  "entrance_fee": {
+    "thb": null,
+    "usd": null
+  },
+  "description": {
+    "en": "One of the park's better waterfall add-ons, especially in or after the rainy season when the two-stream cascade has real volume.",
+    "nl": "Een van de betere watervaluitstappen van het park, vooral in of na het regenseizoen wanneer de tweestromencascade echt volume heeft."
+  },
+  "highlights": [
+    "Two-stream waterfall",
+    "Better in late rainy and early cool season",
+    "Useful add-on to a focused Pha Taem day"
+  ],
+  "image": "/images/cities/generated/ubon-ratchathani.webp",
+  "seo": {
+    "metaTitle": {
+      "en": "Soi Sawan Waterfall | Go2Thailand",
+      "nl": "Soi Sawan-waterval | Go2Thailand"
+    },
+    "metaDescription": {
+      "en": "Why Soi Sawan Waterfall is a worthwhile seasonal add-on inside the Pha Taem National Park area.",
+      "nl": "Waarom Soi Sawan-waterval een zinvolle seizoensuitbreiding is binnen het gebied van Pha Taem National Park."
+    }
+  },
+  "tags": [
+    "ubon-ratchathani",
+    "pha-taem",
+    "soi-sawan",
+    "waterfall",
+    "nature"
+  ],
+  "googleMapsUrl": "https://maps.app.goo.gl/7EU8P4S4u6smt",
+  "best_time": "morning",
+  "duration_hours": 1.5,
+  "enhanced_description": "Soi Sawan is strongest when you already know you want the wider Pha Taem landscape, not only the escarpment viewpoint. The current TAT brochure still describes it as a larger waterfall formed by two streams meeting after dropping from opposite cliff sides, which gives it more structure than generic rural-waterfall copy.\n\nIt remains seasonal, though. This is not the kind of stop that should be oversold in dry conditions or squeezed into an already overloaded route if the main park highlights are the real priority.",
+  "detailed_history": "TAT's current Ubon e-brochure still lists Soi Sawan Waterfall as a key Pha Taem-area stop and describes it as a roughly 20-metre waterfall formed by Huai Soi and Huai Phai converging, with surrounding wildflowers in the late rainy and early cool season.",
+  "visitor_experience": "Expect a nature stop that rises and falls with the season. In strong flow periods it adds real value to the park circuit; in drier periods it should stay secondary to the park's cliff and rock-art core.",
+  "best_time_to_visit": {
+    "time_of_day": "Morning to late morning",
+    "duration": "About 60 to 90 minutes",
+    "crowd_level": "Usually light outside peak holiday periods"
+  },
+  "practical_info": {
+    "how_to_get_there": "Reached by road and short walking access within the broader Pha Taem area.",
+    "nearby_attractions": "Pha Taem cliff viewpoints, Sang Chan Waterfall, and the Dong Na Tham side of the Khong Chiam route.",
+    "food_options": "Carry water and snacks if you are stacking multiple park stops in one day.",
+    "shopping": "No meaningful shopping layer at the waterfall itself."
+  },
+  "insider_tips": [
+    "Treat this as a seasonal bonus, not as the sole reason for the day.",
+    "The late rainy and early cool season is the clearest window for a stronger visit.",
+    "Check current local conditions before adding it to a tight route."
+  ],
+  "verified_note": "Source-backed summary based on current TAT and Tourism Product material for Pha Taem National Park. Seasonal flow can change the quality of the stop substantially.",
+  "cultural_significance": "Soi Sawan helps show that the Pha Taem side of Ubon is not only cliffs and paintings, but also a wetter seasonal landscape with distinct waterfall and wildflower layers.",
+  "contentSources": [
+    {
+      "name": "Pha Taem National Park",
+      "url": "https://tourismproduct.tourismthailand.org/en/2025/06/20/%E0%B8%AD%E0%B8%B8%E0%B8%97%E0%B8%A2%E0%B8%B2%E0%B8%99%E0%B9%81%E0%B8%AB%E0%B9%88%E0%B8%87%E0%B8%8A%E0%B8%B2%E0%B8%95%E0%B8%B4%E0%B8%9C%E0%B8%B2%E0%B9%81%E0%B8%95%E0%B9%89%E0%B8%A1-2/"
+    },
+    {
+      "name": "E-Brochure Ubon Ratchathani (Eng)",
+      "url": "https://tourismthailand.my/ebook/E-Brochure%20Ubon%20Ratchathani%20%28Eng%29.pdf"
+    }
+  ]
+}

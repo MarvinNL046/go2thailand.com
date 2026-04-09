@@ -1,0 +1,82 @@
+{
+  "id": 10,
+  "slug": "sao-chaliang",
+  "name": {
+    "en": "Sao Chaliang",
+    "nl": "Sao Chaliang"
+  },
+  "type": "nature",
+  "city_slug": "ubon-ratchathani",
+  "address": "Pha Taem National Park, Huai Phai, Khong Chiam District, Ubon Ratchathani",
+  "location": null,
+  "opening_hours": "Covered by Pha Taem National Park operations; recheck current park hours, trail access, and weather conditions before going.",
+  "entrance_fee": {
+    "thb": null,
+    "usd": null
+  },
+  "description": {
+    "en": "One of the park's most distinctive sandstone stops, with pillar-like rock forms that add a genuine geology layer to the Pha Taem route.",
+    "nl": "Een van de meest onderscheidende zandsteenstops van het park, met pilaarachtige rotsvormen die een echte geologielaag toevoegen aan de Pha Taem-route."
+  },
+  "highlights": [
+    "Sandstone pillar formations",
+    "Inside Pha Taem National Park",
+    "Strong geology stop on the Khong Chiam side"
+  ],
+  "image": "/images/cities/generated/ubon-ratchathani.webp",
+  "seo": {
+    "metaTitle": {
+      "en": "Sao Chaliang | Go2Thailand",
+      "nl": "Sao Chaliang | Go2Thailand"
+    },
+    "metaDescription": {
+      "en": "Why Sao Chaliang is a worthwhile sandstone stop inside Pha Taem National Park without overselling it as a standalone day trip.",
+      "nl": "Waarom Sao Chaliang een zinvolle zandsteenstop is in Pha Taem National Park zonder het als losse dagtrip te oversellen."
+    }
+  },
+  "tags": [
+    "ubon-ratchathani",
+    "pha-taem",
+    "sao-chaliang",
+    "sandstone",
+    "nature"
+  ],
+  "googleMapsUrl": "https://maps.app.goo.gl/AXvtP2TJW1zBL",
+  "best_time": "morning",
+  "duration_hours": 1.25,
+  "enhanced_description": "Sao Chaliang works best as part of a focused Pha Taem day, not as a separate headline attraction. The value is in seeing how the park's sandstone landscape changes from escarpment viewpoints and rock art to freestanding pillar formations that look markedly different from the better-known cliff edge.\n\nThat makes it useful for travelers who want more than one quick photo stop from the park. It is still secondary to Pha Taem itself, but it is one of the clearer geological add-ons in the same zone.",
+  "detailed_history": "The current Ubon Ratchathani e-brochure published through TAT material still lists Sao Chaliang among the notable stops inside Pha Taem National Park and explains the name through the local idea of stone pillars shaped by long erosion.",
+  "visitor_experience": "Expect a short to moderate stop on the way through the park rather than a full half-day attraction. It is most rewarding when treated as one layer in a well-edited Khong Chiam and Pha Taem route.",
+  "best_time_to_visit": {
+    "time_of_day": "Morning",
+    "duration": "About 45 to 75 minutes",
+    "crowd_level": "Usually light to moderate"
+  },
+  "practical_info": {
+    "how_to_get_there": "Reach it by road within the Pha Taem National Park circuit, usually by car or driver from Khong Chiam or Ubon city.",
+    "nearby_attractions": "Pha Taem cliff viewpoints, prehistoric paintings, and the park's other Khong Chiam-side nature stops.",
+    "food_options": "Plan meals around the park drive rather than expecting a city-style food layer at the rock formations themselves.",
+    "shopping": "None beyond basic park facilities."
+  },
+  "insider_tips": [
+    "Use Sao Chaliang to deepen a Pha Taem day, not to replace the main cliff and rock-art route.",
+    "Go earlier in the day when heat and light are easier.",
+    "Recheck the current park situation if rain or rough weather matters to your route."
+  ],
+  "verified_note": "Source-backed summary based on current TAT and Tourism Product material for Pha Taem National Park. Exact same-day park operations should still be rechecked locally.",
+  "cultural_significance": "Sao Chaliang matters because it shows that Pha Taem is not only about sunrise and rock paintings, but also about distinctive sandstone landforms shaped over long geological time.",
+  "contentSources": [
+    {
+      "name": "Pha Taem National Park",
+      "url": "https://tourismproduct.tourismthailand.org/en/2025/06/20/%E0%B8%AD%E0%B8%B8%E0%B8%97%E0%B8%A2%E0%B8%B2%E0%B8%99%E0%B9%81%E0%B8%AB%E0%B9%88%E0%B8%87%E0%B8%8A%E0%B8%B2%E0%B8%95%E0%B8%B4%E0%B8%9C%E0%B8%B2%E0%B9%81%E0%B8%95%E0%B9%89%E0%B8%A1-2/"
+    },
+    {
+      "name": "E-Brochure Ubon Ratchathani (Eng)",
+      "url": "https://tourismthailand.my/ebook/E-Brochure%20Ubon%20Ratchathani%20%28Eng%29.pdf"
+    },
+    {
+      "name": "Ubon Ratchathani province page",
+      "url": "https://www.tourismthailand.org/Destinations/Provinces/ubon-ratchathani/587"
+    }
+  ]
+}

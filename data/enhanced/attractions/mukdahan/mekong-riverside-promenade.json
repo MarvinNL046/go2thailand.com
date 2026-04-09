@@ -1,0 +1,78 @@
+{
+  "id": 2,
+  "slug": "mekong-riverside-promenade",
+  "name": {
+    "en": "Mekong Riverside Promenade",
+    "nl": "Mekong-rivierpromenade"
+  },
+  "type": "nature",
+  "city_slug": "mukdahan",
+  "address": "Mukdahan riverfront along the Mekong, Mueang Mukdahan District, Mukdahan",
+  "location": null,
+  "opening_hours": "The riverfront is public space, but local activity, street-food rhythm, and seasonal conditions vary by time of day.",
+  "entrance_fee": {
+    "thb": 0,
+    "usd": 0
+  },
+  "description": {
+    "en": "The easiest everyday way to feel Mukdahan: a Mekong-side walk with views to Savannakhet and a slower border-city pace than the formal landmarks.",
+    "nl": "De makkelijkste dagelijkse manier om Mukdahan te voelen: een wandeling langs de Mekong met uitzicht op Savannakhet en een trager grensstadsritme dan bij de formele landmarks."
+  },
+  "highlights": [
+    "Savannakhet across the river",
+    "Public Mekong walk",
+    "Best near sunset"
+  ],
+  "image": "/images/cities/generated/mukdahan.webp",
+  "seo": {
+    "metaTitle": {
+      "en": "Mekong Riverside Promenade | Go2Thailand",
+      "nl": "Mekong-rivierpromenade | Go2Thailand"
+    },
+    "metaDescription": {
+      "en": "Why Mukdahan's Mekong riverside promenade is one of the city's most useful everyday experiences.",
+      "nl": "Waarom de Mekong-rivierpromenade van Mukdahan een van de nuttigste dagelijkse ervaringen van de stad is."
+    }
+  },
+  "tags": [
+    "mukdahan",
+    "mekong",
+    "riverfront",
+    "savannakhet",
+    "sunset"
+  ],
+  "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=Mekong%20Riverside%20Promenade%20Mukdahan%20Thailand",
+  "best_time": "evening",
+  "duration_hours": 1.5,
+  "enhanced_description": "Mukdahan's riverfront is not flashy, but it is one of the strongest parts of the city. The Mekong edge, the view to Savannakhet, and the slower border-town pacing give the city a distinct identity that you do not get from towers and hilltop monuments alone.\n\nThat is why this should usually be part of the plan even if you also do Ho Kaeo or Phu Manorom. It is the everyday layer that makes Mukdahan feel lived-in rather than purely touristic.",
+  "detailed_history": "Current TAT province material still frames Mukdahan through its Mekong-bank identity and long relationship with Savannakhet across the river, while the official brochure continues to describe public riverside viewpoints and walkways as part of the city's core experience.",
+  "visitor_experience": "Expect a public walk, local atmosphere, and better light near sunset than in the middle of the day. The stop is about pace and setting, not about a single monument.",
+  "best_time_to_visit": {
+    "time_of_day": "Late afternoon or evening",
+    "duration": "About 60 to 90 minutes",
+    "crowd_level": "Light to moderate"
+  },
+  "practical_info": {
+    "how_to_get_there": "Easy on foot from central Mukdahan or by short ride from other parts of the city.",
+    "nearby_attractions": "Ho Kaeo Mukdahan, Wat Si Mongkhon Tai, and the Second Thai-Lao Friendship Bridge viewpoint.",
+    "food_options": "Best paired with riverside dinner or street food rather than treated as a stand-alone stop.",
+    "shopping": "Light browsing only; the value is the riverfront itself."
+  },
+  "insider_tips": [
+    "Use this to slow the itinerary down instead of chasing only headline landmarks.",
+    "Sunset is usually the easiest time to understand the city's river setting.",
+    "Pair it with dinner or a short bridge-side detour."
+  ],
+  "verified_note": "Source-backed summary based on current TAT province and Mukdahan brochure material.",
+  "cultural_significance": "The promenade matters because it turns Mukdahan's border geography into something you can actually feel on foot instead of only reading about in city overviews.",
+  "contentSources": [
+    {
+      "name": "Mukdahan province page",
+      "url": "https://www.tourismthailand.org/Destinations/Provinces/Mukdahan/578"
+    },
+    {
+      "name": "Mukdahan e-brochure",
+      "url": "https://www.wisatathailand.id/images/booklet/E-Brochure%20Mukdahan%20%28Eng%29%20%281%29.pdf"
+    }
+  ]
+}

@@ -1,0 +1,78 @@
+{
+  "id": 4,
+  "slug": "phra-that-phanom-style-stupas",
+  "name": {
+    "en": "Phra That Phanom Style Stupas",
+    "nl": "Phra That Phanom-stijlstupa's"
+  },
+  "type": "temple",
+  "city_slug": "nakhon-phanom",
+  "address": "Across Nakhon Phanom's Mekong-side temple network, anchored by Wat Mahathat and Wat Phra That Phanom",
+  "location": null,
+  "opening_hours": "Because this is an architecture layer rather than a single ticketed site, individual temple hours should be checked locally.",
+  "entrance_fee": {
+    "thb": 0,
+    "usd": 0
+  },
+  "description": {
+    "en": "A useful architectural layer for understanding why temple silhouettes in Nakhon Phanom feel more Lao-facing and more pointed than in much of central Thailand.",
+    "nl": "Een nuttige architectuurlaag om te begrijpen waarom de tempelsilhouetten in Nakhon Phanom meer Lao-georiënteerd en spitser aanvoelen dan in veel delen van Centraal-Thailand."
+  },
+  "highlights": [
+    "Lao-influenced stupa vocabulary",
+    "Best understood through multiple temples",
+    "Anchored by Wat Phra That Phanom and Wat Mahathat"
+  ],
+  "image": "/images/cities/generated/nakhon-phanom.webp",
+  "seo": {
+    "metaTitle": {
+      "en": "Phra That Phanom Style Stupas | Go2Thailand",
+      "nl": "Phra That Phanom-stijlstupa's | Go2Thailand"
+    },
+    "metaDescription": {
+      "en": "How to read the Lao-influenced stupa architecture that gives Nakhon Phanom a distinct sacred skyline.",
+      "nl": "Hoe je de Lao-geinspireerde stupa-architectuur leest die Nakhon Phanom een eigen heilige skyline geeft."
+    }
+  },
+  "tags": [
+    "nakhon-phanom",
+    "phra-that-phanom",
+    "stupa",
+    "architecture",
+    "temple"
+  ],
+  "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=Phra%20That%20Phanom%20Style%20Stupas%20Nakhon%20Phanom%20Thailand",
+  "best_time": "morning",
+  "duration_hours": 1.5,
+  "enhanced_description": "This entry should not be read as one discrete monument. It is better understood as the visual grammar that links several temples in Nakhon Phanom, especially when you compare the city's stupas and tower forms with what travelers may expect elsewhere in Thailand.\n\nThat matters because it helps explain why the province feels so close to the Lao cultural world. The style becomes clearest when you see it across at least two or three temple stops instead of looking for one perfect single-site label.",
+  "detailed_history": "Current TAT province coverage and temple material still center Nakhon Phanom's sacred identity on Wat Phra That Phanom and other Mekong-side temples, which supports reading the province through a shared Lao-influenced stupa style rather than through one isolated object.",
+  "visitor_experience": "Expect this to work as a reading tool for the province rather than as a standalone ticketed attraction. It is strongest when you already plan to visit Wat Mahathat, the riverfront core, or Wat Phra That Phanom.",
+  "best_time_to_visit": {
+    "time_of_day": "Morning or late afternoon",
+    "duration": "About 60 to 90 minutes across one or more temple stops",
+    "crowd_level": "Variable by temple"
+  },
+  "practical_info": {
+    "how_to_get_there": "Use it as a lens across existing temple visits rather than traveling only for this abstract architecture label.",
+    "nearby_attractions": "Wat Mahathat, Wat Phra That Phanom, and the Mekong riverfront temple layer.",
+    "food_options": "Pair temple visits with a city or district meal stop rather than expecting a food layer at every temple.",
+    "shopping": "Minimal; this is an architecture-and-sacred-sites theme."
+  },
+  "insider_tips": [
+    "Think of this as an interpretive layer, not as one single stop.",
+    "The contrast with central-Thai temple forms is part of the point.",
+    "Use it to make your existing temple route feel more coherent."
+  ],
+  "verified_note": "Source-backed architecture summary based on current TAT province and temple coverage for Nakhon Phanom.",
+  "cultural_significance": "This stupa vocabulary matters because it makes the province's Lao-linked Buddhist identity visible in the skyline itself, not only in museum or text-based heritage.",
+  "contentSources": [
+    {
+      "name": "Nakhon Phanom province page",
+      "url": "https://www.tourismthailand.org/Destinations/Provinces/Nakhon-Phanom/579"
+    },
+    {
+      "name": "Wat Phra That Phanom Woramahawihan",
+      "url": "https://www.tourismthailand.org/Articles/power-up-your-life-and-sightseeing"
+    }
+  ]
+}

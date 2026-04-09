@@ -1,0 +1,79 @@
+{
+  "id": 4,
+  "slug": "friendship-bridge-viewpoint",
+  "name": {
+    "en": "Friendship Bridge Viewpoint",
+    "nl": "Vriendschapsbrug-uitzichtpunt"
+  },
+  "type": "culture",
+  "city_slug": "nong-khai",
+  "address": "Near the First Thai-Lao Friendship Bridge, Mueang Nong Khai District, Nong Khai",
+  "location": null,
+  "opening_hours": "Border-area access and surrounding transport operations can change; recheck local conditions if they matter to your visit.",
+  "entrance_fee": {
+    "thb": null,
+    "usd": null
+  },
+  "description": {
+    "en": "A compact viewpoint that makes the bridge's role in Nong Khai's border-city identity easier to read from the Thai side.",
+    "nl": "Een compact uitzichtpunt dat de rol van de brug in de identiteit van Nong Khai als grensstad vanaf de Thaise kant beter leesbaar maakt."
+  },
+  "highlights": [
+    "Views to the First Thai-Lao Friendship Bridge",
+    "Strong border-city context",
+    "Useful short stop near transport logic"
+  ],
+  "image": "/images/cities/generated/nong-khai.webp",
+  "official_website": null,
+  "seo": {
+    "metaTitle": {
+      "en": "Friendship Bridge Viewpoint | Go2Thailand",
+      "nl": "Vriendschapsbrug-uitzichtpunt | Go2Thailand"
+    },
+    "metaDescription": {
+      "en": "Why the Friendship Bridge viewpoint is useful for understanding Nong Khai as a working Mekong border city.",
+      "nl": "Waarom het uitzichtpunt op de Vriendschapsbrug nuttig is om Nong Khai als werkende Mekong-grensstad te begrijpen."
+    }
+  },
+  "tags": [
+    "nong-khai",
+    "friendship-bridge",
+    "mekong",
+    "laos",
+    "border"
+  ],
+  "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=Friendship%20Bridge%20Viewpoint%20Nong%20Khai%20Thailand",
+  "best_time": "afternoon",
+  "duration_hours": 0.75,
+  "enhanced_description": "The Friendship Bridge viewpoint is not the most atmospheric stop in Nong Khai, but it is one of the clearest if you want the city to make sense fast. The bridge is what turns Nong Khai from a pleasant Mekong town into a real cross-border node, and seeing it from the Thai side helps orient the rest of the trip.\n\nThat is why this works better as context than as a headline attraction. Use it briefly, then go back to the riverfront and city core where the trip gets its texture.",
+  "detailed_history": "Guidebook material for Nong Khai continues to frame the First Thai-Lao Friendship Bridge as the key modern link to Laos and the clearest symbol of the city's border identity, which is the right basis for a viewpoint-style stop.",
+  "visitor_experience": "Expect a short context stop, not a long promenade experience. The value is mainly in understanding geography, logistics, and Nong Khai's relationship with Laos.",
+  "best_time_to_visit": {
+    "time_of_day": "Afternoon or early evening",
+    "duration": "About 30 to 45 minutes",
+    "crowd_level": "Variable"
+  },
+  "practical_info": {
+    "how_to_get_there": "Easy by short drive from the city center or as part of a bridge-side logistics loop.",
+    "nearby_attractions": "Tha Sadet Market and Riverfront, Wat Pho Chai, and the rest of central Nong Khai.",
+    "food_options": "The stronger meal layer is back in town, not around the bridge approach.",
+    "shopping": "Tha Sadet remains the stronger shopping zone."
+  },
+  "insider_tips": [
+    "Keep this one short and use it for context.",
+    "It matters most if your trip includes onward Laos travel or rail-border logistics.",
+    "Do not let it replace time on the actual riverfront."
+  ],
+  "verified_note": "Source-backed summary based on current guidebook material for Nong Khai province. Border and transport operations should always be rechecked directly.",
+  "cultural_significance": "The viewpoint matters because it keeps Nong Khai's Mekong-border function visible instead of reducing the city to a generic sunset stop.",
+  "contentSources": [
+    {
+      "name": "Provincial eBook Nong Khai",
+      "url": "https://amazingthailand.com.au/wp-content/uploads/2022/09/Provincial-eBook-Nongkhai_en_Hyperlink_OK.pdf"
+    },
+    {
+      "name": "Weaving Mekong Guidebook",
+      "url": "https://fliphtml5.com/kmkzf/Weaving-Mekong_EN/Weaving_Mekong_EN/"
+    }
+  ]
+}
