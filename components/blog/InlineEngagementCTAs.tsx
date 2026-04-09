@@ -156,12 +156,12 @@ export default function InlineEngagementCTAs() {
       }
     });
 
-    // Inject 1 affiliate CTA after the 4th H2 (if enough sections)
-    if (headings.length >= 4) {
+    // Inject 1 affiliate CTA earlier in the article so high-intent readers see it
+    if (headings.length >= 2) {
       const fullText = contentEl.textContent || '';
       const affiliateCta = findAffiliateCta(fullText);
       if (affiliateCta) {
-        const h2 = headings[3]; // 4th H2 (index 3)
+        const h2 = headings[1]; // 2nd H2 (index 1)
         let lastInSection = h2.nextElementSibling;
         while (lastInSection && lastInSection.nextElementSibling && lastInSection.nextElementSibling.tagName !== 'H2') {
           lastInSection = lastInSection.nextElementSibling;

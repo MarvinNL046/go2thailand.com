@@ -4,6 +4,7 @@ import Link from 'next/link';
 import { useRouter } from 'next/router';
 import Breadcrumbs from '../../components/Breadcrumbs';
 import { getAllTravelGuides } from '../../lib/travel-guides';
+import { TRIP_GENERIC, TWELVEGO_GENERIC, withPlacementSubId } from '../../lib/affiliates';
 
 interface Guide {
   slug: string;
@@ -33,6 +34,8 @@ interface TravelGuidesIndexProps {
 export default function TravelGuidesIndex({ guides }: TravelGuidesIndexProps) {
   const { locale } = useRouter();
   const lang = (locale === 'nl' ? 'nl' : 'en') as 'en' | 'nl';
+  const trackAffiliate = (url: string, placement: string) =>
+    withPlacementSubId(url, 'travel-guides', placement);
 
   const breadcrumbs = [
     { name: 'Home', href: '/' },
@@ -121,7 +124,7 @@ export default function TravelGuidesIndex({ guides }: TravelGuidesIndexProps) {
                 : 'Ready to go? Book everything you need for your Thailand adventure'}
             </p>
             <div className="grid md:grid-cols-3 gap-6 max-w-4xl mx-auto">
-              <a href="https://trip.tpo.lv/TmObooZ5?subid=travel-guides" target="_blank" rel="noopener noreferrer" className="group">
+              <a href={trackAffiliate(TRIP_GENERIC, 'hotels')} target="_blank" rel="noopener noreferrer" className="group">
                 <div className="bg-white rounded-2xl p-6 text-center hover:shadow-xl hover:-translate-y-1 transition-all h-full">
                   <div className="text-4xl mb-3">{'\ud83c\udfe8'}</div>
                   <h3 className="font-bold font-heading text-lg mb-2 group-hover:text-thailand-blue transition-colors">
@@ -132,7 +135,7 @@ export default function TravelGuidesIndex({ guides }: TravelGuidesIndexProps) {
                   </p>
                 </div>
               </a>
-              <a href="https://12go.tpo.lv/tNA80urD?subid=travel-guides" target="_blank" rel="noopener noreferrer" className="group">
+              <a href={trackAffiliate(TWELVEGO_GENERIC, 'transport')} target="_blank" rel="noopener noreferrer" className="group">
                 <div className="bg-white rounded-2xl p-6 text-center hover:shadow-xl hover:-translate-y-1 transition-all h-full">
                   <div className="text-4xl mb-3">{'\ud83d\ude82'}</div>
                   <h3 className="font-bold font-heading text-lg mb-2 group-hover:text-thailand-blue transition-colors">Transport</h3>

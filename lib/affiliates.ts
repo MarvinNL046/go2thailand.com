@@ -10,15 +10,25 @@ export interface CityAffiliates {
 // Travelpayouts affiliate links (marker: 602467, trs: 421888)
 // Generic fallback links (used by blog pipeline + non-city pages)
 export const BOOKING_GENERIC = 'https://booking.tpo.lv/2PT1kR82';
+export const TRIP_GENERIC = 'https://trip.tpo.lv/TmObooZ5';
 export const KLOOK_GENERIC = 'https://klook.tpo.lv/7Dt6WApj';
 export const GYG_GENERIC = 'https://getyourguide.tpo.lv/GuAFfGGK';
 export const TWELVEGO_GENERIC = 'https://12go.tpo.lv/tNA80urD';
+export const SAILY_GENERIC = 'https://saily.tpo.lv/rf9lidnE';
+export const NORDVPN_GENERIC = 'https://nordvpn.tpo.lv/ekHF1i55';
+export const NORDPASS_GENERIC = 'https://nordvpn.tpo.lv/tp12zNjC';
 
 // Append subid tracking parameter to affiliate URLs
 export function withSubId(url: string, subId: string): string {
   if (!subId) return url;
+  if (/[?&]subid=/.test(url)) return url;
   const separator = url.includes('?') ? '&' : '?';
   return `${url}${separator}subid=${encodeURIComponent(subId)}`;
+}
+
+export function withPlacementSubId(url: string, subId: string, placement?: string): string {
+  const trackingSubId = [subId, placement].filter(Boolean).join('-');
+  return withSubId(url, trackingSubId);
 }
 
 // Per-city deep links — generated via scripts/generate-affiliate-deeplinks.js

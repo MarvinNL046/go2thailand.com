@@ -1,6 +1,14 @@
 import { useState, useEffect } from 'react';
 import Link from 'next/link';
 import { useRouter } from 'next/router';
+import {
+  BOOKING_GENERIC,
+  KLOOK_GENERIC,
+  TRIP_GENERIC,
+  TWELVEGO_GENERIC,
+  withPlacementSubId,
+} from '../lib/affiliates';
+import { useSubId } from '../lib/useSubId';
 
 interface BookingHeroCTAProps {
   slug: string;
@@ -18,8 +26,10 @@ interface CtaContent {
   heading: string;
   subtext: string;
   primaryHref: string;
+  primaryPlacement: string;
   primaryLabel: string;
   secondaryHref?: string;
+  secondaryPlacement?: string;
   secondaryLabel?: string;
 }
 
@@ -47,9 +57,11 @@ function getCtaContent(intent: BookingIntent, cityName?: string, locale?: string
         subtext: nl
           ? `Vergelijk duizenden hotels, hostels en resorts in ${city}`
           : `Compare thousands of hotels, hostels, and resorts in ${city}`,
-        primaryHref: `https://trip.tpo.lv/TmObooZ5?subid=hero-hotels`,
+        primaryHref: TRIP_GENERIC,
+        primaryPlacement: 'hero-hotels-primary',
         primaryLabel: nl ? 'Zoeken op Trip.com' : 'Search on Trip.com',
-        secondaryHref: `https://booking.tpo.lv/2PT1kR82?subid=hero-hotels`,
+        secondaryHref: BOOKING_GENERIC,
+        secondaryPlacement: 'hero-hotels-secondary',
         secondaryLabel: 'Booking.com',
       };
     case 'transport':
@@ -59,7 +71,8 @@ function getCtaContent(intent: BookingIntent, cityName?: string, locale?: string
         subtext: nl
           ? 'Vergelijk bussen, treinen, veerponten & vluchten — direct e-ticket bevestiging'
           : 'Compare buses, trains, ferries & flights — instant e-ticket confirmation',
-        primaryHref: `https://12go.tpo.lv/tNA80urD?subid=hero-transport`,
+        primaryHref: TWELVEGO_GENERIC,
+        primaryPlacement: 'hero-transport-primary',
         primaryLabel: nl ? 'Zoeken op 12Go Asia' : 'Search on 12Go Asia',
       };
     case 'food':
@@ -69,7 +82,8 @@ function getCtaContent(intent: BookingIntent, cityName?: string, locale?: string
         subtext: nl
           ? 'Straatvoedsel wandelingen, kooklessen en nachtmarkt tours met lokale gidsen'
           : 'Street food walks, cooking classes, and night market tours with local guides',
-        primaryHref: `https://klook.tpo.lv/7Dt6WApj?subid=hero-food`,
+        primaryHref: KLOOK_GENERIC,
+        primaryPlacement: 'hero-food-primary',
         primaryLabel: nl ? 'Bekijk op Klook' : 'Browse on Klook',
       };
     case 'beach':
@@ -79,7 +93,8 @@ function getCtaContent(intent: BookingIntent, cityName?: string, locale?: string
         subtext: nl
           ? 'Snorkelen, duiken, eilandhoppen & strandtours'
           : 'Snorkeling, diving, island hopping & beach tours',
-        primaryHref: `https://klook.tpo.lv/7Dt6WApj?subid=hero-beach`,
+        primaryHref: KLOOK_GENERIC,
+        primaryPlacement: 'hero-beach-primary',
         primaryLabel: nl ? 'Bekijk op Klook' : 'Browse on Klook',
       };
     default:
@@ -89,7 +104,8 @@ function getCtaContent(intent: BookingIntent, cityName?: string, locale?: string
         subtext: nl
           ? 'Hotels, tours, transport — alles op één plek'
           : 'Hotels, tours, transport — all in one place',
-        primaryHref: `https://trip.tpo.lv/TmObooZ5?subid=hero-generic`,
+        primaryHref: TRIP_GENERIC,
+        primaryPlacement: 'hero-generic-primary',
         primaryLabel: nl ? 'Zoeken op Trip.com' : 'Search on Trip.com',
       };
   }
@@ -97,6 +113,7 @@ function getCtaContent(intent: BookingIntent, cityName?: string, locale?: string
 
 export default function BookingHeroCTA({ slug, category, tags, cityName, pageType }: BookingHeroCTAProps) {
   const { locale } = useRouter();
+  const subId = useSubId();
   const [visible, setVisible] = useState(false);
   const [isSearchReferrer, setIsSearchReferrer] = useState(false);
 
@@ -140,7 +157,7 @@ export default function BookingHeroCTA({ slug, category, tags, cityName, pageTyp
           </div>
           <div className="flex gap-3 flex-shrink-0">
             <a
-              href={cta.primaryHref}
+              href={withPlacementSubId(cta.primaryHref, subId, cta.primaryPlacement)}
               target="_blank"
               rel="noopener noreferrer nofollow sponsored"
               className="bg-white text-thailand-blue px-6 py-2.5 rounded-xl font-semibold text-sm hover:bg-gray-100 transition-colors whitespace-nowrap"
@@ -149,7 +166,7 @@ export default function BookingHeroCTA({ slug, category, tags, cityName, pageTyp
             </a>
             {cta.secondaryHref && (
               <a
-                href={cta.secondaryHref}
+                href={withPlacementSubId(cta.secondaryHref, subId, cta.secondaryPlacement)}
                 target="_blank"
                 rel="noopener noreferrer nofollow sponsored"
                 className="border-2 border-white/60 text-white px-5 py-2.5 rounded-xl font-semibold text-sm hover:bg-white/10 transition-colors whitespace-nowrap hidden sm:inline-flex"
@@ -182,7 +199,7 @@ export default function BookingHeroCTA({ slug, category, tags, cityName, pageTyp
           {cta.heading}
         </span>
         <a
-          href={cta.primaryHref}
+          href={withPlacementSubId(cta.primaryHref, subId, cta.primaryPlacement)}
           target="_blank"
           rel="noopener noreferrer nofollow sponsored"
           className="bg-thailand-blue text-white px-4 py-1.5 rounded-lg font-medium text-xs hover:bg-thailand-blue/90 transition-colors whitespace-nowrap"

@@ -5,6 +5,7 @@ import { useRouter } from 'next/router';
 import Breadcrumbs from '../../components/Breadcrumbs';
 import { getTravelGuideStaticPaths, getTravelGuideBySlug } from '../../lib/travel-guides';
 import InsuranceCTA from '../../components/InsuranceCTA';
+import TravelpayoutsRecoveryPanel from '../../components/TravelpayoutsRecoveryPanel';
 
 // --- Type definitions ---
 
@@ -366,6 +367,18 @@ export default function TravelGuidePage({ guide }: TravelGuidePageProps) {
                 {lang === 'nl' ? 'Laatst bijgewerkt' : 'Last updated'}: {guide.lastUpdated}
               </p>
             </div>
+          </div>
+        </section>
+
+        <section className="container-custom pt-10">
+          <div className="max-w-5xl mx-auto">
+            <TravelpayoutsRecoveryPanel
+              pageType="guide"
+              placement="guide-panel"
+              slug={guide.slug}
+              className=""
+              columns={3}
+            />
           </div>
         </section>
 

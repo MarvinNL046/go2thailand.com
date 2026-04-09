@@ -4,6 +4,7 @@ import Image from 'next/image';
 import SEOHead from '../../../components/SEOHead';
 import Breadcrumbs from '../../../components/Breadcrumbs';
 import PreFooterAffiliateBanner from '../../../components/PreFooterAffiliateBanner';
+import TravelpayoutsRecoveryPanel from '../../../components/TravelpayoutsRecoveryPanel';
 import { getAllCategories, getPostsByCategory } from '../../../lib/blog';
 
 interface BlogPost {
@@ -54,6 +55,18 @@ export default function BlogCategoryPage({ category, posts }: CategoryPageProps)
           </div>
         </section>
 
+        <section className="py-8 bg-white">
+          <div className="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8">
+            <TravelpayoutsRecoveryPanel
+              pageType="blog"
+              placement="blog-category-recovery"
+              category={category}
+              tags={posts.flatMap((post) => post.tags).slice(0, 10)}
+              columns={3}
+            />
+          </div>
+        </section>
+
         <section className="py-12">
           <div className="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8">
             <div className="grid md:grid-cols-2 lg:grid-cols-3 gap-6">
@@ -93,6 +106,7 @@ export default function BlogCategoryPage({ category, posts }: CategoryPageProps)
         <PreFooterAffiliateBanner
           title="Plan Your Thailand Trip"
           description="Book hotels, transport, activities, and get connected with an eSIM"
+          placement="blog-category-prefooter"
           links={[
             { label: 'Booking.com', href: 'https://booking.tpo.lv/2PT1kR82' },
             { label: 'Trip.com', href: 'https://trip.tpo.lv/TmObooZ5' },

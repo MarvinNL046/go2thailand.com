@@ -5,6 +5,7 @@ import { useRouter } from 'next/router';
 import Breadcrumbs from '../../components/Breadcrumbs';
 import EmailCapture from '../../components/EmailCapture';
 import PreFooterAffiliateBanner from '../../components/PreFooterAffiliateBanner';
+import TravelpayoutsRecoveryPanel from '../../components/TravelpayoutsRecoveryPanel';
 import { getAllVisas } from '../../lib/visas';
 
 interface Visa {
@@ -152,6 +153,16 @@ export default function VisaIndexPage({ visas }: VisaPageProps) {
         <section className="bg-white border-b">
           <div className="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8 py-4">
             <Breadcrumbs items={breadcrumbs} />
+          </div>
+        </section>
+
+        <section className="bg-white">
+          <div className="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8 py-8">
+            <TravelpayoutsRecoveryPanel
+              pageType="visa"
+              placement="visa-index-panel"
+              columns={3}
+            />
           </div>
         </section>
 
@@ -506,6 +517,7 @@ export default function VisaIndexPage({ visas }: VisaPageProps) {
         <PreFooterAffiliateBanner
           title={lang === 'nl' ? 'Plan Je Thailand Reis' : 'Plan Your Thailand Trip'}
           description={lang === 'nl' ? 'Boek hotels, transport en meer' : 'Book hotels, transport and more'}
+          placement="visa-index-prefooter"
           links={[
             { label: 'Booking.com', href: 'https://booking.tpo.lv/2PT1kR82' },
             { label: 'Trip.com', href: 'https://trip.tpo.lv/TmObooZ5' },

@@ -7,12 +7,24 @@ import SEOHead from '../../components/SEOHead';
 import Breadcrumbs from '../../components/Breadcrumbs';
 import PreFooterAffiliateBanner from '../../components/PreFooterAffiliateBanner';
 import TripcomWidget from '../../components/TripcomWidget';
+import TravelpayoutsRecoveryPanel from '../../components/TravelpayoutsRecoveryPanel';
+import {
+  BOOKING_GENERIC,
+  KLOOK_GENERIC,
+  NORDPASS_GENERIC,
+  NORDVPN_GENERIC,
+  SAILY_GENERIC,
+  TRIP_GENERIC,
+  TWELVEGO_GENERIC,
+  withPlacementSubId,
+} from '../../lib/affiliates';
 import {
   getAllItineraries,
   getItineraryBySlug,
   getRelatedItineraries,
   toAbsoluteImageUrl
 } from '../../lib/itineraries';
+import { useSubId } from '../../lib/useSubId';
 
 // --- Type definitions ---
 
@@ -179,7 +191,9 @@ function getActivityIcon(type?: string) {
 export default function ItineraryPage({ itinerary, relatedItineraries }: ItineraryPageProps) {
   const [activeAccomTab, setActiveAccomTab] = useState<'budget' | 'mid' | 'luxury'>('mid');
   const { locale } = useRouter();
+  const subId = useSubId();
   const tr = (en: string, nl: string) => locale === 'nl' ? nl : en;
+  const trackAffiliate = (url: string, placement: string) => withPlacementSubId(url, subId, placement);
 
   if (!itinerary) {
     return <div>{tr('Itinerary not found', 'Reisroute niet gevonden')}</div>;
@@ -362,6 +376,18 @@ export default function ItineraryPage({ itinerary, relatedItineraries }: Itinera
         <section className="bg-white border-b">
           <div className="container-custom py-4">
             <Breadcrumbs items={breadcrumbs} />
+          </div>
+        </section>
+
+        <section className="py-8 bg-white">
+          <div className="container-custom">
+            <TravelpayoutsRecoveryPanel
+              pageType="itinerary"
+              placement="itinerary-slug-recovery"
+              slug={itinerary.slug}
+              tags={itinerary.tags}
+              columns={3}
+            />
           </div>
         </section>
 
@@ -635,7 +661,7 @@ export default function ItineraryPage({ itinerary, relatedItineraries }: Itinera
                     </div>
                     <div className="mt-4">
                       <a
-                        href="https://12go.tpo.lv/tNA80urD?subid=itinerary"
+                        href={trackAffiliate(TWELVEGO_GENERIC, 'content-transport')}
                         target="_blank"
                         rel="noopener noreferrer"
                         className="inline-block bg-thailand-blue text-white px-6 py-2 rounded-xl font-semibold hover:bg-thailand-red transition-colors text-sm"
@@ -841,7 +867,7 @@ export default function ItineraryPage({ itinerary, relatedItineraries }: Itinera
                     </p>
                     <div className="space-y-3">
                       <a
-                        href="https://12go.tpo.lv/tNA80urD?subid=itinerary"
+                        href={trackAffiliate(TWELVEGO_GENERIC, 'sidebar-book-trip-primary')}
                         target="_blank"
                         rel="noopener noreferrer sponsored"
                         className="block bg-[#F59E0B] text-white text-center px-4 py-2 rounded-xl font-semibold hover:bg-[#D97706] transition-colors text-sm"
@@ -849,7 +875,7 @@ export default function ItineraryPage({ itinerary, relatedItineraries }: Itinera
                         12Go Asia - Buses, Trains & Ferries
                       </a>
                       <a
-                        href="https://booking.tpo.lv/2PT1kR82?subid=itinerary"
+                        href={trackAffiliate(BOOKING_GENERIC, 'sidebar-book-trip-secondary')}
                         target="_blank"
                         rel="noopener noreferrer sponsored"
                         className="block bg-[#003580] text-white text-center px-4 py-2 rounded-xl font-semibold hover:bg-[#00224f] transition-colors text-sm"
@@ -857,7 +883,7 @@ export default function ItineraryPage({ itinerary, relatedItineraries }: Itinera
                         Booking.com - Hotels
                       </a>
                       <a
-                        href="https://klook.tpo.lv/7Dt6WApj?subid=itinerary"
+                        href={trackAffiliate(KLOOK_GENERIC, 'sidebar-book-trip-tertiary')}
                         target="_blank"
                         rel="noopener noreferrer sponsored"
                         className="block bg-[#FF5722] text-white text-center px-4 py-2 rounded-xl font-semibold hover:bg-[#e64a19] transition-colors text-sm"
@@ -924,7 +950,7 @@ export default function ItineraryPage({ itinerary, relatedItineraries }: Itinera
                       )}
                     </p>
                     <a
-                      href="https://saily.tpo.lv/rf9lidnE?subid=itinerary"
+                      href={trackAffiliate(SAILY_GENERIC, 'sidebar-esim')}
                       target="_blank"
                       rel="noopener noreferrer"
                       className="block bg-thailand-blue text-white text-center px-4 py-2 rounded-xl font-semibold hover:bg-thailand-red transition-colors mb-2"
@@ -955,14 +981,15 @@ export default function ItineraryPage({ itinerary, relatedItineraries }: Itinera
         <PreFooterAffiliateBanner
           title={tr('Plan Your Thailand Trip', 'Plan Je Thailand Reis')}
           description={tr('Book hotels, transport, activities, and get connected with an eSIM', 'Boek hotels, transport, activiteiten en blijf verbonden met een eSIM')}
+          placement="itinerary-slug-prefooter"
           links={[
-            { label: 'Booking.com', href: 'https://booking.tpo.lv/2PT1kR82?subid=itinerary' },
-            { label: 'Trip.com', href: 'https://trip.tpo.lv/TmObooZ5?subid=itinerary' },
-            { label: 'Activities', href: 'https://klook.tpo.lv/7Dt6WApj?subid=itinerary' },
-            { label: 'Transport', href: 'https://12go.tpo.lv/tNA80urD?subid=itinerary' },
-            { label: 'eSIM', href: 'https://saily.tpo.lv/rf9lidnE?subid=itinerary' },
-            { label: 'NordVPN', href: 'https://nordvpn.tpo.lv/ekHF1i55?subid=itinerary' },
-            { label: 'NordPass', href: 'https://nordvpn.tpo.lv/tp12zNjC?subid=itinerary' },
+            { label: 'Booking.com', href: BOOKING_GENERIC },
+            { label: 'Trip.com', href: TRIP_GENERIC },
+            { label: 'Activities', href: KLOOK_GENERIC },
+            { label: 'Transport', href: TWELVEGO_GENERIC },
+            { label: 'eSIM', href: SAILY_GENERIC },
+            { label: 'NordVPN', href: NORDVPN_GENERIC },
+            { label: 'NordPass', href: NORDPASS_GENERIC },
           ]}
         />
       </div>

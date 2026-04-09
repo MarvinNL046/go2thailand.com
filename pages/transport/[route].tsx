@@ -10,6 +10,7 @@ import Breadcrumbs from '../../components/Breadcrumbs';
 import TripcomWidget from '../../components/TripcomWidget';
 import AffiliateWidget from '../../components/AffiliateWidget';
 import InlineAd from '../../components/ads/InlineAd';
+import TravelpayoutsRecoveryPanel from '../../components/TravelpayoutsRecoveryPanel';
 import { cityAffiliates, islandAffiliateMap, TWELVEGO_GENERIC, withSubId } from '../../lib/affiliates';
 import transportRoutes from '../../data/transport-routes.json';
 import citiesData from '../../data/cities/index.json';
@@ -216,6 +217,15 @@ const TransportRoutePage: React.FC<RoutePageProps> = ({ route, fromCity, toCity,
             <span className="ml-2 font-semibold">{route.duration.bus || route.duration.train || 'N/A'}</span>
           </div>
         </div>
+
+        <TravelpayoutsRecoveryPanel
+          pageType="transport"
+          placement="route-panel"
+          slug={route.slug}
+          citySlug={toCity.slug}
+          className="mb-8"
+          columns={3}
+        />
 
         <div className="grid grid-cols-1 lg:grid-cols-3 gap-8">
           <div className="lg:col-span-2">

@@ -5,6 +5,8 @@ import Link from 'next/link';
 import Breadcrumbs from '../../../../components/Breadcrumbs';
 import TripcomWidget from '../../../../components/TripcomWidget';
 import SEOHead from '../../../../components/SEOHead';
+import { TRIP_GENERIC, TWELVEGO_GENERIC, withPlacementSubId } from '../../../../lib/affiliates';
+import { useSubId } from '../../../../lib/useSubId';
 import cityWeatherData from '../../../../data/city-weather.json';
 import citiesData from '../../../../data/cities/index.json';
 
@@ -75,9 +77,12 @@ const CityWeatherPage: React.FC<CityWeatherPageProps> = ({
   const { locale } = useRouter();
   const isNl = locale === 'nl';
   const lang = isNl ? 'nl' : 'en';
+  const subId = useSubId();
   const monthNamesLocale = isNl ? monthNamesNL : monthNamesEN;
   const cityName = city.name[lang] || city.name.en;
   const localMonthName = monthNamesLocale[month] || monthName;
+  const trackAffiliate = (url: string, placement: string) =>
+    withPlacementSubId(url, subId, placement);
 
   const breadcrumbs = [
     { name: 'Home', href: '/' },
@@ -210,7 +215,7 @@ const CityWeatherPage: React.FC<CityWeatherPageProps> = ({
               </p>
               <div className="flex flex-col sm:flex-row gap-4">
                 <a
-                  href="https://trip.tpo.lv/TmObooZ5?subid=city-weather"
+                  href={trackAffiliate(TRIP_GENERIC, 'month-hotels')}
                   target="_blank"
                   rel="noopener noreferrer"
                   className="flex-1 inline-flex items-center justify-center px-5 py-3 bg-thailand-blue text-white font-semibold rounded-xl hover:bg-thailand-blue-600 transition-colors shadow-md"
@@ -221,7 +226,7 @@ const CityWeatherPage: React.FC<CityWeatherPageProps> = ({
                   {isNl ? 'Hotels op Trip.com' : 'Hotels on Trip.com'}
                 </a>
                 <a
-                  href="https://12go.tpo.lv/tNA80urD?subid=city-weather"
+                  href={trackAffiliate(TWELVEGO_GENERIC, 'month-transport')}
                   target="_blank"
                   rel="noopener noreferrer"
                   className="flex-1 inline-flex items-center justify-center px-5 py-3 bg-thailand-blue text-white font-semibold rounded-xl hover:bg-thailand-blue-600 transition-colors shadow-md"

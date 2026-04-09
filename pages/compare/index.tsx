@@ -5,6 +5,7 @@ import Link from 'next/link';
 import { useRouter } from 'next/router';
 import Breadcrumbs from '../../components/Breadcrumbs';
 import PreFooterAffiliateBanner from '../../components/PreFooterAffiliateBanner';
+import TravelpayoutsRecoveryPanel from '../../components/TravelpayoutsRecoveryPanel';
 import { getAllComparisons, getPopularComparisons } from '../../lib/comparisons';
 
 const SITE_URL = 'https://go2-thailand.com';
@@ -196,6 +197,18 @@ export default function CompareIndexPage({ islandComparisons, cityComparisons, p
           </div>
         </section>
 
+        <section className="bg-white py-8">
+          <div className="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8">
+            <div className="max-w-5xl mx-auto">
+              <TravelpayoutsRecoveryPanel
+                pageType="compare"
+                placement="compare-index-panel"
+                columns={3}
+              />
+            </div>
+          </div>
+        </section>
+
         {/* Popular Comparisons */}
         <section className="py-12">
           <div className="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8">
@@ -380,6 +393,7 @@ export default function CompareIndexPage({ islandComparisons, cityComparisons, p
         <PreFooterAffiliateBanner
           title={t.readyToBook}
           description={t.findBestDeals}
+          placement="compare-index-prefooter"
           links={[
             { label: 'Booking.com', href: 'https://booking.tpo.lv/2PT1kR82' },
             { label: 'Trip.com', href: 'https://trip.tpo.lv/TmObooZ5' },

@@ -8,7 +8,8 @@ import { getAllCities, toAbsoluteImageUrl } from '../../lib/cities';
 import { useScrollAnimation } from '../../hooks/useScrollAnimation';
 import { useRouter } from 'next/router';
 import AffiliateBox from '../../components/AffiliateBox';
-import { getAffiliates, regionFeaturedCities, CityAffiliates } from '../../lib/affiliates';
+import { getAffiliates, regionFeaturedCities, CityAffiliates, TWELVEGO_GENERIC, withPlacementSubId } from '../../lib/affiliates';
+import { useSubId } from '../../lib/useSubId';
 const { getAllDishes } = require('../../lib/food');
 const { getAllItineraries } = require('../../lib/itineraries');
 
@@ -143,10 +144,13 @@ export default function RegionPage({ region, cities, regionalDishes, regionalIti
   const { locale } = useRouter();
   const lang = locale || 'en';
   const isNl = locale === 'nl';
+  const subId = useSubId();
   const contentAnim = useScrollAnimation(0.05);
   const tipsAnim = useScrollAnimation(0.1);
   const planAnim = useScrollAnimation(0.1);
   const exploreAnim = useScrollAnimation(0.1);
+  const trackAffiliate = (url: string, placement: string) =>
+    withPlacementSubId(url, subId, placement);
 
   if (!region) {
     return <div>{isNl ? 'Regio niet gevonden' : 'Region not found'}</div>;
@@ -885,7 +889,7 @@ export default function RegionPage({ region, cities, regionalDishes, regionalIti
                 </div>
                 <h3 className="text-xl font-semibold font-heading text-gray-900 mb-2">{isNl ? 'Vervoer & Transfers' : 'Transport & Transfers'}</h3>
                 <p className="text-gray-600 text-sm mb-4">Book buses, trains, ferries, and flights across {(region.name[lang] || region.name.en)}.</p>
-                <a href="https://12go.tpo.lv/tNA80urD?subid=region" target="_blank" rel="noopener noreferrer" className="block bg-green-600 text-white py-2 px-4 rounded-xl font-medium hover:bg-green-700 transition-colors text-sm">
+                <a href={trackAffiliate(TWELVEGO_GENERIC, 'transport-card')} target="_blank" rel="noopener noreferrer" className="block bg-green-600 text-white py-2 px-4 rounded-xl font-medium hover:bg-green-700 transition-colors text-sm">
                   Book on 12Go Asia
                 </a>
               </div>

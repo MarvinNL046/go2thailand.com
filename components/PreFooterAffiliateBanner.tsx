@@ -1,5 +1,7 @@
 import Link from 'next/link';
 import { useRouter } from 'next/router';
+import { withSubId } from '../lib/affiliates';
+import { useSubId } from '../lib/useSubId';
 
 type BannerLink = {
   label: string;
@@ -12,6 +14,7 @@ interface PreFooterAffiliateBannerProps {
   description: string;
   links: BannerLink[];
   eyebrow?: string;
+  placement?: string;
   sectionClassName?: string;
 }
 
@@ -22,10 +25,13 @@ export default function PreFooterAffiliateBanner({
   description,
   links,
   eyebrow,
+  placement = 'prefooter',
   sectionClassName = 'bg-surface-dark',
 }: PreFooterAffiliateBannerProps) {
   const { locale } = useRouter();
+  const subId = useSubId();
   const isNl = locale === 'nl';
+  const trackingSubId = `${subId}-${placement}`;
 
   return (
     <section className={sectionClassName}>
@@ -49,7 +55,7 @@ export default function PreFooterAffiliateBanner({
               ) : (
                 <a
                   key={`${item.label}-${item.href}`}
-                  href={item.href}
+                  href={withSubId(item.href, trackingSubId)}
                   target="_blank"
                   rel={AFFILIATE_REL}
                   className="bg-white text-thailand-blue px-5 py-2 rounded-full font-semibold text-sm hover:bg-gray-100 transition-colors"

@@ -6,8 +6,21 @@ import { useRouter } from 'next/router';
 import SEOHead from '../../components/SEOHead';
 import Breadcrumbs from '../../components/Breadcrumbs';
 import PreFooterAffiliateBanner from '../../components/PreFooterAffiliateBanner';
+import TravelpayoutsRecoveryPanel from '../../components/TravelpayoutsRecoveryPanel';
 import TravelSecurityAffiliateBlock from '../../components/blog/TravelSecurityAffiliateBlock';
+import {
+  BOOKING_GENERIC,
+  GYG_GENERIC,
+  KLOOK_GENERIC,
+  NORDPASS_GENERIC,
+  NORDVPN_GENERIC,
+  SAILY_GENERIC,
+  TRIP_GENERIC,
+  TWELVEGO_GENERIC,
+  withPlacementSubId,
+} from '../../lib/affiliates';
 import { getAllPosts, getAllCategories } from '../../lib/blog';
+import { useSubId } from '../../lib/useSubId';
 
 interface BlogPost {
   slug: string;
@@ -33,6 +46,7 @@ export default function BlogPage({ posts, categories }: BlogPageProps) {
   const [currentPage, setCurrentPage] = useState(1);
   const POSTS_PER_PAGE = 12;
   const { locale } = useRouter();
+  const subId = useSubId();
   const lang = locale === 'nl' ? 'nl' : 'en';
 
   const breadcrumbs = [
@@ -64,6 +78,9 @@ export default function BlogPage({ posts, categories }: BlogPageProps) {
   };
 
   const featuredPost = posts[0];
+  const recoveryCategory = selectedCategory === 'all' ? featuredPost?.category : selectedCategory;
+  const recoveryTags = Array.from(new Set(filteredPosts.slice(0, 5).flatMap((post) => post.tags))).slice(0, 10);
+  const trackAffiliate = (url: string, placement: string) => withPlacementSubId(url, subId, placement);
 
   const isNl = lang === 'nl';
 
@@ -167,6 +184,16 @@ export default function BlogPage({ posts, categories }: BlogPageProps) {
         {/* Main Content */}
         <section className="py-12">
           <div className="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8">
+            <div className="mb-8">
+              <TravelpayoutsRecoveryPanel
+                pageType="blog"
+                placement="blog-index-recovery"
+                category={recoveryCategory}
+                tags={recoveryTags}
+                columns={3}
+              />
+            </div>
+
             <div className="grid lg:grid-cols-3 gap-8">
               {/* Blog Posts */}
               <div className="lg:col-span-2">
@@ -360,7 +387,7 @@ export default function BlogPage({ posts, categories }: BlogPageProps) {
                   <h3 className="text-xl font-bold font-heading mb-3">{locale === 'nl' ? 'Boek Hotels' : 'Book Hotels'}</h3>
                   <div className="space-y-3">
                     <a
-                      href="https://booking.tpo.lv/2PT1kR82?subid=blog-index"
+                      href={trackAffiliate(BOOKING_GENERIC, 'sidebar-hotels-primary')}
                       target="_blank"
                       rel="noopener noreferrer"
                       className="block bg-thailand-blue text-white text-center px-4 py-2 rounded-xl font-semibold hover:bg-thailand-blue/90 transition-colors text-sm"
@@ -368,7 +395,7 @@ export default function BlogPage({ posts, categories }: BlogPageProps) {
                       Booking.com
                     </a>
                     <a
-                      href="https://trip.tpo.lv/TmObooZ5?subid=blog-index"
+                      href={trackAffiliate(TRIP_GENERIC, 'sidebar-hotels-secondary')}
                       target="_blank"
                       rel="noopener noreferrer"
                       className="block bg-thailand-blue text-white text-center px-4 py-2 rounded-xl font-semibold hover:bg-thailand-blue/90 transition-colors text-sm"
@@ -384,7 +411,7 @@ export default function BlogPage({ posts, categories }: BlogPageProps) {
                   <h3 className="text-xl font-bold font-heading mb-3">{locale === 'nl' ? 'Tours & Activiteiten' : 'Tours & Activities'}</h3>
                   <div className="space-y-3">
                     <a
-                      href="https://klook.tpo.lv/7Dt6WApj?subid=blog-index"
+                      href={trackAffiliate(KLOOK_GENERIC, 'sidebar-tours-primary')}
                       target="_blank"
                       rel="noopener noreferrer"
                       className="block bg-thailand-red text-white text-center px-4 py-2 rounded-xl font-semibold hover:bg-thailand-red/90 transition-colors text-sm"
@@ -392,7 +419,7 @@ export default function BlogPage({ posts, categories }: BlogPageProps) {
                       Klook Activities
                     </a>
                     <a
-                      href="https://getyourguide.tpo.lv/GuAFfGGK?subid=blog-index"
+                      href={trackAffiliate(GYG_GENERIC, 'sidebar-tours-secondary')}
                       target="_blank"
                       rel="noopener noreferrer"
                       className="block bg-thailand-red text-white text-center px-4 py-2 rounded-xl font-semibold hover:bg-thailand-red/90 transition-colors text-sm"
@@ -410,7 +437,7 @@ export default function BlogPage({ posts, categories }: BlogPageProps) {
                     {locale === 'nl' ? 'Blijf verbonden in Thailand. Bestel je eSIM voordat je gaat.' : 'Stay connected in Thailand. Order your eSIM before you go.'}
                   </p>
                   <a
-                    href="https://saily.tpo.lv/rf9lidnE?subid=blog-index"
+                    href={trackAffiliate(SAILY_GENERIC, 'sidebar-esim')}
                     target="_blank"
                     rel="noopener noreferrer"
                     className="block bg-thailand-blue text-white text-center px-4 py-2 rounded-xl font-semibold hover:bg-thailand-blue/90 transition-colors mb-2"
@@ -439,7 +466,7 @@ export default function BlogPage({ posts, categories }: BlogPageProps) {
                 <div className="bg-white rounded-2xl shadow-md p-6">
                   <h3 className="text-xl font-bold font-heading mb-3">Transport</h3>
                   <a
-                    href="https://12go.tpo.lv/tNA80urD?subid=blog-index"
+                    href={trackAffiliate(TWELVEGO_GENERIC, 'sidebar-transport')}
                     target="_blank"
                     rel="noopener noreferrer"
                     className="block bg-thailand-blue text-white text-center px-4 py-2 rounded-xl font-semibold hover:bg-thailand-blue/90 transition-colors text-sm mb-2"
@@ -459,14 +486,15 @@ export default function BlogPage({ posts, categories }: BlogPageProps) {
         <PreFooterAffiliateBanner
           title={locale === 'nl' ? 'Plan je Thailand Reis' : 'Plan Your Thailand Trip'}
           description={locale === 'nl' ? 'Boek hotels, transport, activiteiten en blijf verbonden met een eSIM' : 'Book hotels, transport, activities, and get connected with an eSIM'}
+          placement="blog-index-prefooter"
           links={[
-            { label: 'Booking.com', href: 'https://booking.tpo.lv/2PT1kR82?subid=blog-index' },
-            { label: 'Trip.com', href: 'https://trip.tpo.lv/TmObooZ5?subid=blog-index' },
-            { label: 'Activities', href: 'https://klook.tpo.lv/7Dt6WApj?subid=blog-index' },
-            { label: 'Transport', href: 'https://12go.tpo.lv/tNA80urD?subid=blog-index' },
-            { label: 'eSIM', href: 'https://saily.tpo.lv/rf9lidnE?subid=blog-index' },
-            { label: 'NordVPN', href: 'https://nordvpn.tpo.lv/ekHF1i55?subid=blog-index' },
-            { label: 'NordPass', href: 'https://nordvpn.tpo.lv/tp12zNjC?subid=blog-index' },
+            { label: 'Booking.com', href: BOOKING_GENERIC },
+            { label: 'Trip.com', href: TRIP_GENERIC },
+            { label: 'Activities', href: KLOOK_GENERIC },
+            { label: 'Transport', href: TWELVEGO_GENERIC },
+            { label: 'eSIM', href: SAILY_GENERIC },
+            { label: 'NordVPN', href: NORDVPN_GENERIC },
+            { label: 'NordPass', href: NORDPASS_GENERIC },
           ]}
         />
       </div>

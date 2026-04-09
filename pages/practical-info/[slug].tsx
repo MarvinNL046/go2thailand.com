@@ -4,7 +4,20 @@ import Link from 'next/link';
 import { useRouter } from 'next/router';
 import Breadcrumbs from '../../components/Breadcrumbs';
 import PreFooterAffiliateBanner from '../../components/PreFooterAffiliateBanner';
+import TravelpayoutsRecoveryPanel from '../../components/TravelpayoutsRecoveryPanel';
+import {
+  BOOKING_GENERIC,
+  GYG_GENERIC,
+  KLOOK_GENERIC,
+  NORDPASS_GENERIC,
+  NORDVPN_GENERIC,
+  SAILY_GENERIC,
+  TRIP_GENERIC,
+  TWELVEGO_GENERIC,
+  withPlacementSubId,
+} from '../../lib/affiliates';
 import { getAllPracticalInfo, getPracticalInfoBySlug, generatePracticalInfoBreadcrumbs } from '../../lib/practical-info';
+import { useSubId } from '../../lib/useSubId';
 
 interface SectionItem {
   name: { en: string; nl: string };
@@ -43,8 +56,10 @@ interface PracticalInfoPageProps {
 
 export default function PracticalInfoDetailPage({ info }: PracticalInfoPageProps) {
   const { locale } = useRouter();
+  const subId = useSubId();
   const lang = (locale === 'nl' ? 'nl' : 'en') as 'en' | 'nl';
   const breadcrumbs = generatePracticalInfoBreadcrumbs(info);
+  const trackAffiliate = (url: string, placement: string) => withPlacementSubId(url, subId, placement);
 
   const faqJsonLd = {
     "@context": "https://schema.org",
@@ -104,6 +119,17 @@ export default function PracticalInfoDetailPage({ info }: PracticalInfoPageProps
         <section className="bg-white border-b">
           <div className="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8 py-4">
             <Breadcrumbs items={breadcrumbs} />
+          </div>
+        </section>
+
+        <section className="py-8 bg-white">
+          <div className="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8">
+            <TravelpayoutsRecoveryPanel
+              pageType="practical"
+              placement="practical-slug-recovery"
+              slug={info.slug}
+              columns={3}
+            />
           </div>
         </section>
 
@@ -212,7 +238,7 @@ export default function PracticalInfoDetailPage({ info }: PracticalInfoPageProps
                     : 'Stay connected in Thailand. Order your eSIM before you go.'}
                 </p>
                 <a
-                  href="https://saily.tpo.lv/rf9lidnE?subid=practical-info"
+                  href={trackAffiliate(SAILY_GENERIC, 'sidebar-esim')}
                   target="_blank"
                   rel="noopener noreferrer"
                   className="block bg-thailand-blue text-white text-center px-4 py-2 rounded-xl font-semibold hover:bg-thailand-red transition-colors mb-2"
@@ -231,7 +257,7 @@ export default function PracticalInfoDetailPage({ info }: PracticalInfoPageProps
                 </h3>
                 <div className="space-y-3">
                   <a
-                    href="https://booking.tpo.lv/2PT1kR82?subid=practical-info"
+                    href={trackAffiliate(BOOKING_GENERIC, 'sidebar-hotels-primary')}
                     target="_blank"
                     rel="noopener noreferrer"
                     className="block bg-thailand-blue text-white text-center px-4 py-2 rounded-xl font-semibold hover:bg-thailand-red transition-colors text-sm"
@@ -239,7 +265,7 @@ export default function PracticalInfoDetailPage({ info }: PracticalInfoPageProps
                     Booking.com
                   </a>
                   <a
-                    href="https://trip.tpo.lv/TmObooZ5?subid=practical-info"
+                    href={trackAffiliate(TRIP_GENERIC, 'sidebar-hotels-secondary')}
                     target="_blank"
                     rel="noopener noreferrer"
                     className="block bg-thailand-blue text-white text-center px-4 py-2 rounded-xl font-semibold hover:bg-thailand-red transition-colors text-sm"
@@ -257,7 +283,7 @@ export default function PracticalInfoDetailPage({ info }: PracticalInfoPageProps
                 </h3>
                 <div className="space-y-3">
                   <a
-                    href="https://klook.tpo.lv/7Dt6WApj?subid=practical-info"
+                    href={trackAffiliate(KLOOK_GENERIC, 'sidebar-activities-primary')}
                     target="_blank"
                     rel="noopener noreferrer"
                     className="block bg-thailand-red text-white text-center px-4 py-2 rounded-xl font-semibold hover:bg-thailand-blue transition-colors text-sm"
@@ -265,7 +291,7 @@ export default function PracticalInfoDetailPage({ info }: PracticalInfoPageProps
                     Klook Activities
                   </a>
                   <a
-                    href="https://getyourguide.tpo.lv/GuAFfGGK?subid=practical-info"
+                    href={trackAffiliate(GYG_GENERIC, 'sidebar-activities-secondary')}
                     target="_blank"
                     rel="noopener noreferrer"
                     className="block bg-thailand-red text-white text-center px-4 py-2 rounded-xl font-semibold hover:bg-thailand-blue transition-colors text-sm"
@@ -283,14 +309,15 @@ export default function PracticalInfoDetailPage({ info }: PracticalInfoPageProps
         <PreFooterAffiliateBanner
           title={lang === 'nl' ? 'Plan Je Thailand Reis' : 'Plan Your Thailand Trip'}
           description={lang === 'nl' ? 'Boek hotels, transport en activiteiten' : 'Book hotels, transport and activities'}
+          placement="practical-slug-prefooter"
           links={[
-            { label: 'Booking.com', href: 'https://booking.tpo.lv/2PT1kR82?subid=practical-info' },
-            { label: 'Trip.com', href: 'https://trip.tpo.lv/TmObooZ5?subid=practical-info' },
-            { label: 'Activities', href: 'https://klook.tpo.lv/7Dt6WApj?subid=practical-info' },
-            { label: 'Transport', href: 'https://12go.tpo.lv/tNA80urD?subid=practical-info' },
-            { label: 'eSIM', href: 'https://saily.tpo.lv/rf9lidnE?subid=practical-info' },
-            { label: 'NordVPN', href: 'https://nordvpn.tpo.lv/ekHF1i55?subid=practical-info' },
-            { label: 'NordPass', href: 'https://nordvpn.tpo.lv/tp12zNjC?subid=practical-info' },
+            { label: 'Booking.com', href: BOOKING_GENERIC },
+            { label: 'Trip.com', href: TRIP_GENERIC },
+            { label: 'Activities', href: KLOOK_GENERIC },
+            { label: 'Transport', href: TWELVEGO_GENERIC },
+            { label: 'eSIM', href: SAILY_GENERIC },
+            { label: 'NordVPN', href: NORDVPN_GENERIC },
+            { label: 'NordPass', href: NORDPASS_GENERIC },
           ]}
         />
       </div>

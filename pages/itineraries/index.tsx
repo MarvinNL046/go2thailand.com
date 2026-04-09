@@ -6,6 +6,15 @@ import { useRouter } from 'next/router';
 import SEOHead from '../../components/SEOHead';
 import Breadcrumbs from '../../components/Breadcrumbs';
 import PreFooterAffiliateBanner from '../../components/PreFooterAffiliateBanner';
+import TravelpayoutsRecoveryPanel from '../../components/TravelpayoutsRecoveryPanel';
+import {
+  BOOKING_GENERIC,
+  KLOOK_GENERIC,
+  NORDPASS_GENERIC,
+  NORDVPN_GENERIC,
+  TRIP_GENERIC,
+  TWELVEGO_GENERIC,
+} from '../../lib/affiliates';
 import { getAllItineraries, toAbsoluteImageUrl } from '../../lib/itineraries';
 
 interface Itinerary {
@@ -110,6 +119,14 @@ export default function ItinerariesPage({ itineraries }: ItinerariesPageProps) {
         <section className="bg-white">
           <div className="container-custom py-8">
             <Breadcrumbs items={breadcrumbs} />
+
+            <div className="mt-6 mb-8">
+              <TravelpayoutsRecoveryPanel
+                pageType="itinerary"
+                placement="itinerary-index-recovery"
+                columns={3}
+              />
+            </div>
 
             {/* Duration Filter Tabs */}
             <div className="flex flex-wrap gap-2 mb-8">
@@ -218,15 +235,16 @@ export default function ItinerariesPage({ itineraries }: ItinerariesPageProps) {
         <PreFooterAffiliateBanner
           title={isNl ? "Klaar om je Thailand Reis te Plannen?" : "Ready to Plan Your Thailand Trip?"}
           description={isNl ? "Boek hotels, vervoer, activiteiten en blijf verbonden met een eSIM" : "Book hotels, transport, activities, and get connected with an eSIM"}
+          placement="itinerary-index-prefooter"
           sectionClassName="bg-surface-dark py-12"
           links={[
-            { label: 'Booking.com', href: 'https://booking.tpo.lv/2PT1kR82?subid=itinerary' },
-            { label: 'Trip.com', href: 'https://trip.tpo.lv/TmObooZ5?subid=itinerary' },
-            { label: 'Activities', href: 'https://klook.tpo.lv/7Dt6WApj?subid=itinerary' },
-            { label: 'Transport', href: 'https://12go.tpo.lv/tNA80urD?subid=itinerary' },
+            { label: 'Booking.com', href: BOOKING_GENERIC },
+            { label: 'Trip.com', href: TRIP_GENERIC },
+            { label: 'Activities', href: KLOOK_GENERIC },
+            { label: 'Transport', href: TWELVEGO_GENERIC },
             { label: 'Insurance', href: '/travel-insurance-thailand/', internal: true },
-            { label: 'NordVPN', href: 'https://nordvpn.tpo.lv/ekHF1i55?subid=itinerary' },
-            { label: 'NordPass', href: 'https://nordvpn.tpo.lv/tp12zNjC?subid=itinerary' },
+            { label: 'NordVPN', href: NORDVPN_GENERIC },
+            { label: 'NordPass', href: NORDPASS_GENERIC },
           ]}
         />
 

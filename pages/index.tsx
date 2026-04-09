@@ -8,11 +8,14 @@ import { getPopularDishes } from '../lib/food';
 import { getAllPosts } from '../lib/blog';
 import CityCard from '../components/CityCard';
 import TripcomWidget from '../components/TripcomWidget';
+import TravelpayoutsRecoveryPanel from '../components/TravelpayoutsRecoveryPanel';
 import AnimatedCounter from '../components/AnimatedCounter';
 import { AirplaneDecoration, CloudDecoration } from '../components/decorations';
 import EmailCapture from '../components/EmailCapture';
 import { useScrollAnimation } from '../hooks/useScrollAnimation';
 import { useTranslation } from '../hooks/useTranslation';
+import { BOOKING_GENERIC, GYG_GENERIC, TRIP_GENERIC, TWELVEGO_GENERIC, withPlacementSubId } from '../lib/affiliates';
+import { useSubId } from '../lib/useSubId';
 
 interface City {
   id: number;
@@ -64,6 +67,7 @@ interface HomeProps {
 export default function Home({ cities, featuredCities, popularDishes, latestPosts }: HomeProps) {
   const { t, locale } = useTranslation('common');
   const lang = locale === 'nl' ? 'nl' : 'en';
+  const subId = useSubId();
 
   const heroImages = [
     '/images/homepageHero/business-district-bangkok.webp',
@@ -90,6 +94,8 @@ export default function Home({ cities, featuredCities, popularDishes, latestPost
   const foodAnim = useScrollAnimation(0.1);
   const regionsAnim = useScrollAnimation(0.1);
   const planAnim = useScrollAnimation(0.1);
+  const trackAffiliate = (url: string, placement: string) =>
+    withPlacementSubId(url, subId, placement);
 
   return (
     <>
@@ -261,6 +267,18 @@ export default function Home({ cities, featuredCities, popularDishes, latestPost
               city="Thailand"
               type="searchbox"
               className="shadow-xl rounded-2xl"
+            />
+          </div>
+        </div>
+      </section>
+
+      <section className="section-padding bg-surface-cream">
+        <div className="container-custom">
+          <div className="max-w-5xl mx-auto">
+            <TravelpayoutsRecoveryPanel
+              pageType="home"
+              placement="home-panel"
+              columns={3}
             />
           </div>
         </div>
@@ -709,7 +727,7 @@ export default function Home({ cities, featuredCities, popularDishes, latestPost
               </p>
               <div className="flex flex-col gap-2.5">
                 <a
-                  href="https://trip.tpo.lv/TmObooZ5?subid=home"
+                  href={trackAffiliate(TRIP_GENERIC, 'hotels-primary')}
                   target="_blank"
                   rel="noopener noreferrer"
                   className="block text-center bg-thailand-blue text-white px-4 py-2.5 rounded-xl font-medium hover:bg-thailand-blue-600 transition-colors text-sm"
@@ -717,7 +735,7 @@ export default function Home({ cities, featuredCities, popularDishes, latestPost
                   {t('plan.searchOnTripcom')}
                 </a>
                 <a
-                  href="https://booking.tpo.lv/2PT1kR82?subid=home"
+                  href={trackAffiliate(BOOKING_GENERIC, 'hotels-secondary')}
                   target="_blank"
                   rel="noopener noreferrer"
                   className="block text-center bg-blue-700 text-white px-4 py-2.5 rounded-xl font-medium hover:bg-blue-800 transition-colors text-sm"
@@ -738,7 +756,7 @@ export default function Home({ cities, featuredCities, popularDishes, latestPost
               </p>
               <div className="flex flex-col gap-2.5">
                 <a
-                  href="https://klook.tpo.lv/aq6ZFxvc?subid=home"
+                  href={trackAffiliate('https://klook.tpo.lv/aq6ZFxvc', 'activities-primary')}
                   target="_blank"
                   rel="noopener noreferrer"
                   className="block text-center bg-orange-500 text-white px-4 py-2.5 rounded-xl font-medium hover:bg-orange-600 transition-colors text-sm"
@@ -746,7 +764,7 @@ export default function Home({ cities, featuredCities, popularDishes, latestPost
                   {t('plan.browseOnKlook')}
                 </a>
                 <a
-                  href="https://getyourguide.tpo.lv/GuAFfGGK?subid=home"
+                  href={trackAffiliate(GYG_GENERIC, 'activities-secondary')}
                   target="_blank"
                   rel="noopener noreferrer"
                   className="block text-center bg-blue-600 text-white px-4 py-2.5 rounded-xl font-medium hover:bg-blue-700 transition-colors text-sm"
@@ -767,7 +785,7 @@ export default function Home({ cities, featuredCities, popularDishes, latestPost
               </p>
               <div className="flex flex-col gap-2.5">
                 <a
-                  href="https://12go.tpo.lv/tNA80urD?subid=home"
+                  href={trackAffiliate(TWELVEGO_GENERIC, 'transport')}
                   target="_blank"
                   rel="noopener noreferrer"
                   className="block text-center bg-purple-600 text-white px-4 py-2.5 rounded-xl font-medium hover:bg-purple-700 transition-colors text-sm"

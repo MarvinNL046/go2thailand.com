@@ -6,6 +6,7 @@ import Image from 'next/image';
 import { useRouter } from 'next/router';
 import Breadcrumbs from '../../components/Breadcrumbs';
 import TripcomWidget from '../../components/TripcomWidget';
+import TravelpayoutsRecoveryPanel from '../../components/TravelpayoutsRecoveryPanel';
 import { getAllComparisons, getComparisonPair, getComparisonBySlug, getComparisonsForItem } from '../../lib/comparisons';
 import { getIslandBySlug } from '../../lib/islands';
 import { getCityBySlug } from '../../lib/cities';
@@ -589,6 +590,16 @@ export default function ComparisonPage({
               </div>
             </section>
           )}
+
+          <section className="mb-12">
+            <TravelpayoutsRecoveryPanel
+              pageType="compare"
+              placement="compare-panel"
+              slug={slug}
+              className=""
+              columns={3}
+            />
+          </section>
 
           {/* Booking widgets */}
           <section className="mb-12">

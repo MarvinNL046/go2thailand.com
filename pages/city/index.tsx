@@ -7,6 +7,8 @@ import CityCard from '../../components/CityCard';
 import Breadcrumbs from '../../components/Breadcrumbs';
 import SEOHead from '../../components/SEOHead';
 import AnimatedCounter from '../../components/AnimatedCounter';
+import TravelpayoutsRecoveryPanel from '../../components/TravelpayoutsRecoveryPanel';
+import { BOOKING_GENERIC, TRIP_GENERIC, TWELVEGO_GENERIC, withPlacementSubId } from '../../lib/affiliates';
 import { useScrollAnimation } from '../../hooks/useScrollAnimation';
 
 interface City {
@@ -56,6 +58,8 @@ export default function CitiesPage({ cities }: CitiesPageProps) {
 
   const gridAnim = useScrollAnimation(0.05);
   const statsAnim = useScrollAnimation(0.2);
+  const trackAffiliate = (url: string, placement: string) =>
+    withPlacementSubId(url, 'city-index', placement);
 
   return (
     <>
@@ -129,6 +133,18 @@ export default function CitiesPage({ cities }: CitiesPageProps) {
                 ))}
               </div>
             </div>
+          </div>
+        </div>
+      </section>
+
+      <section className="bg-white py-8">
+        <div className="container-custom">
+          <div className="max-w-5xl mx-auto">
+            <TravelpayoutsRecoveryPanel
+              pageType="city"
+              placement="city-index-panel"
+              columns={3}
+            />
           </div>
         </div>
       </section>
@@ -314,7 +330,7 @@ export default function CitiesPage({ cities }: CitiesPageProps) {
 
           <div className="grid grid-cols-1 md:grid-cols-3 gap-6 max-w-4xl mx-auto mb-8">
             <a
-              href="https://trip.tpo.lv/TmObooZ5?subid=city-index"
+              href={trackAffiliate(TRIP_GENERIC, 'hotels-primary')}
               target="_blank"
               rel="noopener noreferrer"
               className="flex items-center justify-center gap-2 px-6 py-4 bg-thailand-blue text-white font-medium rounded-xl hover:bg-thailand-blue-600 transition-all shadow-md hover:shadow-lg text-sm"
@@ -324,7 +340,7 @@ export default function CitiesPage({ cities }: CitiesPageProps) {
             </a>
 
             <a
-              href="https://booking.tpo.lv/2PT1kR82?subid=city-index"
+              href={trackAffiliate(BOOKING_GENERIC, 'hotels-secondary')}
               target="_blank"
               rel="noopener noreferrer"
               className="flex items-center justify-center gap-2 px-6 py-4 bg-blue-700 text-white font-medium rounded-xl hover:bg-blue-800 transition-all shadow-md hover:shadow-lg text-sm"
@@ -334,7 +350,7 @@ export default function CitiesPage({ cities }: CitiesPageProps) {
             </a>
 
             <a
-              href="https://12go.tpo.lv/tNA80urD?subid=city-index"
+              href={trackAffiliate(TWELVEGO_GENERIC, 'transport')}
               target="_blank"
               rel="noopener noreferrer"
               className="flex items-center justify-center gap-2 px-6 py-4 bg-purple-600 text-white font-medium rounded-xl hover:bg-purple-700 transition-all shadow-md hover:shadow-lg text-sm"

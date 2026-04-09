@@ -5,8 +5,21 @@ import { useRouter } from 'next/router';
 import Breadcrumbs from '../../components/Breadcrumbs';
 import PreFooterAffiliateBanner from '../../components/PreFooterAffiliateBanner';
 import TripcomWidget from '../../components/TripcomWidget';
+import TravelpayoutsRecoveryPanel from '../../components/TravelpayoutsRecoveryPanel';
+import {
+  BOOKING_GENERIC,
+  GYG_GENERIC,
+  KLOOK_GENERIC,
+  NORDPASS_GENERIC,
+  NORDVPN_GENERIC,
+  SAILY_GENERIC,
+  TRIP_GENERIC,
+  TWELVEGO_GENERIC,
+  withPlacementSubId,
+} from '../../lib/affiliates';
 import { getAllVisas, getVisaBySlug, generateVisaBreadcrumbs } from '../../lib/visas';
 import ContentBridge from '../../components/ContentBridge';
+import { useSubId } from '../../lib/useSubId';
 
 interface Requirement {
   item: { en: string; nl: string };
@@ -58,8 +71,10 @@ interface VisaPageProps {
 
 export default function VisaDetailPage({ visa }: VisaPageProps) {
   const { locale } = useRouter();
+  const subId = useSubId();
   const lang = (locale === 'nl' ? 'nl' : 'en') as 'en' | 'nl';
   const breadcrumbs = generateVisaBreadcrumbs(visa);
+  const trackAffiliate = (url: string, placement: string) => withPlacementSubId(url, subId, placement);
 
   const faqJsonLd = {
     "@context": "https://schema.org",
@@ -313,6 +328,14 @@ export default function VisaDetailPage({ visa }: VisaPageProps) {
                 </Link>
               </div>
 
+              <TravelpayoutsRecoveryPanel
+                pageType="visa"
+                placement="sidebar-panel"
+                slug={visa.slug}
+                className=""
+                columns={1}
+              />
+
               {/* eSIM CTA */}
               <div className="bg-white rounded-2xl shadow-md p-6">
                 <h3 className="text-xl font-bold font-heading mb-2">Thailand eSIM</h3>
@@ -322,7 +345,7 @@ export default function VisaDetailPage({ visa }: VisaPageProps) {
                     : 'Stay connected as soon as you land in Thailand'}
                 </p>
                 <a
-                  href="https://saily.tpo.lv/rf9lidnE?subid=visa"
+                  href={trackAffiliate(SAILY_GENERIC, 'sidebar-esim')}
                   target="_blank"
                   rel="noopener noreferrer"
                   className="block bg-thailand-blue text-white text-center px-4 py-2 rounded-xl font-semibold hover:bg-thailand-red transition-colors mb-2"
@@ -351,7 +374,7 @@ export default function VisaDetailPage({ visa }: VisaPageProps) {
                 </h3>
                 <div className="space-y-3">
                   <a
-                    href="https://klook.tpo.lv/7Dt6WApj?subid=visa"
+                    href={trackAffiliate(KLOOK_GENERIC, 'sidebar-activities-primary')}
                     target="_blank"
                     rel="noopener noreferrer"
                     className="block bg-thailand-red text-white text-center px-4 py-2 rounded-xl font-semibold hover:bg-red-700 transition-colors text-sm"
@@ -359,7 +382,7 @@ export default function VisaDetailPage({ visa }: VisaPageProps) {
                     Klook Activities
                   </a>
                   <a
-                    href="https://getyourguide.tpo.lv/GuAFfGGK?subid=visa"
+                    href={trackAffiliate(GYG_GENERIC, 'sidebar-activities-secondary')}
                     target="_blank"
                     rel="noopener noreferrer"
                     className="block bg-thailand-blue text-white text-center px-4 py-2 rounded-xl font-semibold hover:bg-blue-700 transition-colors text-sm"
@@ -459,14 +482,15 @@ export default function VisaDetailPage({ visa }: VisaPageProps) {
         <PreFooterAffiliateBanner
           title={lang === 'nl' ? 'Plan Je Thailand Reis' : 'Plan Your Thailand Trip'}
           description={lang === 'nl' ? 'Boek hotels, transport en activiteiten' : 'Book hotels, transport and activities'}
+          placement="visa-slug-prefooter"
           links={[
-            { label: 'Booking.com', href: 'https://booking.tpo.lv/2PT1kR82?subid=visa' },
-            { label: 'Trip.com', href: 'https://trip.tpo.lv/TmObooZ5?subid=visa' },
+            { label: 'Booking.com', href: BOOKING_GENERIC },
+            { label: 'Trip.com', href: TRIP_GENERIC },
             { label: 'Insurance', href: '/travel-insurance-thailand/', internal: true },
-            { label: 'eSIM', href: 'https://saily.tpo.lv/rf9lidnE?subid=visa' },
-            { label: 'Transport', href: 'https://12go.tpo.lv/tNA80urD?subid=visa' },
-            { label: 'NordVPN', href: 'https://nordvpn.tpo.lv/ekHF1i55?subid=visa' },
-            { label: 'NordPass', href: 'https://nordvpn.tpo.lv/tp12zNjC?subid=visa' },
+            { label: 'eSIM', href: SAILY_GENERIC },
+            { label: 'Transport', href: TWELVEGO_GENERIC },
+            { label: 'NordVPN', href: NORDVPN_GENERIC },
+            { label: 'NordPass', href: NORDPASS_GENERIC },
           ]}
         />
       </div>

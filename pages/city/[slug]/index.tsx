@@ -16,6 +16,9 @@ import { formatNumber, formatPopulation } from '../../../utils/formatNumber';
 import AffiliateWidget from '../../../components/AffiliateWidget';
 import InlineAd from '../../../components/ads/InlineAd';
 import BookingHeroCTA from '../../../components/BookingHeroCTA';
+import TravelpayoutsRecoveryPanel from '../../../components/TravelpayoutsRecoveryPanel';
+import { TWELVEGO_GENERIC, withPlacementSubId } from '../../../lib/affiliates';
+import { useSubId } from '../../../lib/useSubId';
 import transportRoutes from '../../../data/transport-routes.json';
 
 interface City {
@@ -232,6 +235,7 @@ interface CityPageProps {
 export default function CityPage({ city, relatedCities, comparisons, transportLinks, editorial }: CityPageProps) {
   const router = useRouter();
   const { locale = 'en' } = router;
+  const subId = useSubId();
   const [showAllHiddenGems, setShowAllHiddenGems] = useState(false);
   const [showAllExperiences, setShowAllExperiences] = useState(false);
   const [showAllFoodAdventures, setShowAllFoodAdventures] = useState(false);
@@ -303,6 +307,8 @@ export default function CityPage({ city, relatedCities, comparisons, transportLi
   const featureCardClass = "group relative overflow-hidden rounded-[28px] border border-gray-100 bg-white p-6 shadow-[0_16px_48px_rgba(15,23,42,0.06)] transition-all duration-300 hover:-translate-y-1 hover:shadow-[0_20px_54px_rgba(15,23,42,0.10)]";
   const sidebarPanelClass = "rounded-[28px] border border-gray-100 bg-white p-6 shadow-[0_14px_38px_rgba(15,23,42,0.06)]";
   const exploreCardClass = "group relative overflow-hidden rounded-[30px] border border-gray-100 bg-white p-6 shadow-[0_18px_44px_rgba(15,23,42,0.06)] transition-all duration-300 hover:-translate-y-1.5 hover:shadow-[0_24px_56px_rgba(15,23,42,0.10)]";
+  const trackAffiliate = (url: string, placement: string) =>
+    withPlacementSubId(url, subId, placement);
   
   // Load Trip.com widget on client side
   useEffect(() => {
@@ -481,6 +487,17 @@ export default function CityPage({ city, relatedCities, comparisons, transportLi
 
             {/* Booking Hero CTA — contextual, referrer-aware */}
             <BookingHeroCTA slug={city.slug} cityName={city.name.en} citySlug={city.slug} pageType="city" />
+
+            <div className="mt-8">
+              <TravelpayoutsRecoveryPanel
+                pageType="city"
+                placement="city-panel"
+                slug={city.slug}
+                citySlug={city.slug}
+                className=""
+                columns={3}
+              />
+            </div>
 
             <div className="grid grid-cols-1 lg:grid-cols-3 gap-12">
               {/* Main Content */}
@@ -969,7 +986,7 @@ export default function CityPage({ city, relatedCities, comparisons, transportLi
                         <h3 className="font-semibold text-gray-900 mb-2">Flight + Hotel</h3>
                         <p className="text-sm text-gray-600 leading-6 mb-4">Save time and often money by bundling the trip basics instead of booking each part separately.</p>
                         <a
-                          href="https://trip.tpo.lv/iP1HSint?subid=city"
+                          href={trackAffiliate('https://trip.tpo.lv/iP1HSint', 'service-bundle')}
                           target="_blank"
                           rel="noopener noreferrer"
                           className="inline-flex items-center gap-2 text-sm font-semibold text-thailand-red hover:text-thailand-red-600"
@@ -986,7 +1003,7 @@ export default function CityPage({ city, relatedCities, comparisons, transportLi
                         <h3 className="font-semibold text-gray-900 mb-2">Airport Transfers</h3>
                         <p className="text-sm text-gray-600 leading-6 mb-4">Useful if you want the easiest arrival flow instead of figuring out transport after a long flight.</p>
                         <a
-                          href="https://trip.tpo.lv/iP1HSint?subid=city"
+                          href={trackAffiliate('https://trip.tpo.lv/iP1HSint', 'service-transfer')}
                           target="_blank"
                           rel="noopener noreferrer"
                           className="inline-flex items-center gap-2 text-sm font-semibold text-thailand-blue hover:text-cyan-600"
@@ -1003,7 +1020,7 @@ export default function CityPage({ city, relatedCities, comparisons, transportLi
                         <h3 className="font-semibold text-gray-900 mb-2">Car Rental</h3>
                         <p className="text-sm text-gray-600 leading-6 mb-4">Mostly useful for arrival logistics, day trips, or onward travel beyond {city.name.en} itself.</p>
                         <a
-                          href="https://trip.tpo.lv/fzIWyBhW?subid=city"
+                          href={trackAffiliate('https://trip.tpo.lv/fzIWyBhW', 'service-car-rental')}
                           target="_blank"
                           rel="noopener noreferrer"
                           className="inline-flex items-center gap-2 text-sm font-semibold text-emerald-700 hover:text-teal-600"
@@ -1020,7 +1037,7 @@ export default function CityPage({ city, relatedCities, comparisons, transportLi
                         <h3 className="font-semibold text-gray-900 mb-2">Bus, Train & Ferry</h3>
                         <p className="text-sm text-gray-600 leading-6 mb-4">Best when {city.name.en} is one stop in a broader Thailand route rather than the whole trip.</p>
                         <a
-                          href="https://12go.tpo.lv/tNA80urD?subid=city"
+                          href={trackAffiliate(TWELVEGO_GENERIC, 'service-transport')}
                           target="_blank"
                           rel="noopener noreferrer"
                           className="inline-flex items-center gap-2 text-sm font-semibold text-violet-700 hover:text-indigo-600"
@@ -1055,7 +1072,7 @@ export default function CityPage({ city, relatedCities, comparisons, transportLi
                     />
                     <div className="mt-4 text-center">
                       <a
-                        href="https://12go.tpo.lv/tNA80urD?subid=city"
+                        href={trackAffiliate(TWELVEGO_GENERIC, 'transport-widget')}
                         target="_blank"
                         rel="noopener noreferrer"
                         className="inline-flex items-center gap-2 rounded-full bg-violet-600 px-6 py-3 font-semibold text-white hover:bg-violet-700 transition-colors"
@@ -1083,13 +1100,13 @@ export default function CityPage({ city, relatedCities, comparisons, transportLi
                     <a
                       href={(() => {
                         const klookLinks: Record<string, string> = {
-                          bangkok: 'https://klook.tpo.lv/FXwAY84o?subid=city',
-                          phuket: 'https://klook.tpo.lv/7Dt6WApj?subid=city',
-                          'chiang-mai': 'https://klook.tpo.lv/SrPrBanh?subid=city',
-                          krabi: 'https://klook.tpo.lv/aq6ZFxvc?subid=city',
-                          pattaya: 'https://klook.tpo.lv/aq6ZFxvc?subid=city',
+                          bangkok: 'https://klook.tpo.lv/FXwAY84o',
+                          phuket: 'https://klook.tpo.lv/7Dt6WApj',
+                          'chiang-mai': 'https://klook.tpo.lv/SrPrBanh',
+                          krabi: 'https://klook.tpo.lv/aq6ZFxvc',
+                          pattaya: 'https://klook.tpo.lv/aq6ZFxvc',
                         };
-                        return klookLinks[city.slug] || 'https://klook.tpo.lv/aq6ZFxvc?subid=city';
+                        return trackAffiliate(klookLinks[city.slug] || 'https://klook.tpo.lv/aq6ZFxvc', 'activities-klook');
                       })()}
                       target="_blank"
                       rel="noopener noreferrer"
@@ -1112,13 +1129,13 @@ export default function CityPage({ city, relatedCities, comparisons, transportLi
                     <a
                       href={(() => {
                         const gygLinks: Record<string, string> = {
-                          bangkok: 'https://getyourguide.tpo.lv/PHh5hvej?subid=city',
-                          phuket: 'https://getyourguide.tpo.lv/8d41f2Fq?subid=city',
-                          'chiang-mai': 'https://getyourguide.tpo.lv/8d41f2Fq?subid=city',
-                          krabi: 'https://getyourguide.tpo.lv/GuAFfGGK?subid=city',
-                          pattaya: 'https://getyourguide.tpo.lv/GuAFfGGK?subid=city',
+                          bangkok: 'https://getyourguide.tpo.lv/PHh5hvej',
+                          phuket: 'https://getyourguide.tpo.lv/8d41f2Fq',
+                          'chiang-mai': 'https://getyourguide.tpo.lv/8d41f2Fq',
+                          krabi: 'https://getyourguide.tpo.lv/GuAFfGGK',
+                          pattaya: 'https://getyourguide.tpo.lv/GuAFfGGK',
                         };
-                        return gygLinks[city.slug] || 'https://getyourguide.tpo.lv/GuAFfGGK?subid=city';
+                        return trackAffiliate(gygLinks[city.slug] || 'https://getyourguide.tpo.lv/GuAFfGGK', 'activities-gyg');
                       })()}
                       target="_blank"
                       rel="noopener noreferrer"

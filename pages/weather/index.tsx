@@ -4,6 +4,7 @@ import { useRouter } from 'next/router';
 import SEOHead from '../../components/SEOHead';
 import Link from 'next/link';
 import Breadcrumbs from '../../components/Breadcrumbs';
+import { TRIP_GENERIC, withPlacementSubId } from '../../lib/affiliates';
 import citiesData from '../../data/cities/index.json';
 
 interface WeatherIndexProps {
@@ -104,6 +105,8 @@ const weatherFaqs = {
 const WeatherIndex: React.FC<WeatherIndexProps> = ({ cities }) => {
   const { locale } = useRouter();
   const isNl = locale === 'nl';
+  const trackAffiliate = (url: string, placement: string) =>
+    withPlacementSubId(url, 'weather', placement);
 
   const currentMonths = isNl ? monthlyHighlights.nl : monthlyHighlights.en;
   const currentFaqs = isNl ? weatherFaqs.nl : weatherFaqs.en;
@@ -533,7 +536,7 @@ const WeatherIndex: React.FC<WeatherIndexProps> = ({ cities }) => {
           </p>
           <div className="grid grid-cols-1 md:grid-cols-3 gap-6 mb-6">
             <a
-              href="https://trip.tpo.lv/TmObooZ5?subid=weather"
+              href={trackAffiliate(TRIP_GENERIC, 'hotels')}
               target="_blank"
               rel="noopener noreferrer"
               className="bg-white text-thailand-blue rounded-2xl p-6 text-center hover:shadow-xl hover:-translate-y-1 transition-all block"

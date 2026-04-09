@@ -5,6 +5,8 @@ import Link from 'next/link';
 import Breadcrumbs from '../../../../components/Breadcrumbs';
 import TripcomWidget from '../../../../components/TripcomWidget';
 import SEOHead from '../../../../components/SEOHead';
+import { TRIP_GENERIC, TWELVEGO_GENERIC, withPlacementSubId } from '../../../../lib/affiliates';
+import { useSubId } from '../../../../lib/useSubId';
 import cityWeatherData from '../../../../data/city-weather.json';
 import citiesData from '../../../../data/cities/index.json';
 
@@ -72,8 +74,11 @@ const CityWeatherIndex: React.FC<CityWeatherIndexProps> = ({ city, monthlyWeathe
   const { locale } = useRouter();
   const isNl = locale === 'nl';
   const lang = isNl ? 'nl' : 'en';
+  const subId = useSubId();
   const monthNames = isNl ? monthNamesNL : monthNamesEN;
   const cityName = city.name[lang] || city.name.en;
+  const trackAffiliate = (url: string, placement: string) =>
+    withPlacementSubId(url, subId, placement);
 
   const breadcrumbs = [
     { name: isNl ? 'Home' : 'Home', href: '/' },
@@ -284,7 +289,7 @@ const CityWeatherIndex: React.FC<CityWeatherIndexProps> = ({ city, monthlyWeathe
           </h2>
           <div className="flex flex-col sm:flex-row gap-4 justify-center">
             <a
-              href="https://trip.tpo.lv/TmObooZ5?subid=city-weather"
+              href={trackAffiliate(TRIP_GENERIC, 'hotels')}
               target="_blank"
               rel="noopener noreferrer"
               className="inline-flex items-center justify-center bg-thailand-blue text-white py-3 px-6 rounded-xl font-semibold hover:bg-thailand-blue-600 transition-colors"
@@ -292,7 +297,7 @@ const CityWeatherIndex: React.FC<CityWeatherIndexProps> = ({ city, monthlyWeathe
               {isNl ? 'Boek Hotels' : 'Book Hotels'}
             </a>
             <a
-              href="https://12go.tpo.lv/tNA80urD?subid=city-weather"
+              href={trackAffiliate(TWELVEGO_GENERIC, 'transport')}
               target="_blank"
               rel="noopener noreferrer"
               className="inline-flex items-center justify-center bg-thailand-blue text-white py-3 px-6 rounded-xl hover:bg-thailand-blue-600 font-semibold transition-colors"
