@@ -47,11 +47,26 @@
   "enhanced_description": "This entry is best treated as a lodging strategy note rather than as a traditional attraction page. A Mekong-side bungalow stay in Mukdahan can make the city feel calmer and more intimate, especially if you want the riverfront to shape the pace of the trip rather than only serve as an evening walk.\n\nThe important discipline here is not to hard-code old room prices or assumptions about exact facilities. Small riverside properties change faster than major attractions, so the value of this page is in the route logic: if you want a slower Mekong base, this kind of stay can work well.",
   "detailed_history": "Current TAT province material still defines Mukdahan through its Mekong-bank identity and cross-river connection to Savannakhet, which is the main reason a riverfront bungalow-style stay can be strategically appealing even when specific operators vary over time.",
   "visitor_experience": "Expect an overnight base with more value in atmosphere and pacing than in sightseeing. This is about how you structure the stay, not about arriving for a single photo stop.",
+  "who_should_visit": [
+    "Travelers who want Mukdahan to feel slower, quieter, and more river-oriented than a standard city stop.",
+    "Couples or remote-working style travelers who value setting and pace over dense nightlife access.",
+    "Visitors building an overnight Mekong route and wanting the river to be part of the stay, not just a short evening walk."
+  ],
+  "who_can_skip": [
+    "Anyone who wants the tightest access to city-center errands, bus links, or late-night dining.",
+    "Travelers who prefer branded hotels with predictable facilities and reception standards.",
+    "Visitors making only a short stop in Mukdahan with no real time to use a slower riverside base."
+  ],
   "best_time_to_visit": {
     "time_of_day": "Best used as an overnight stay choice",
     "duration": "Overnight",
     "crowd_level": "Variable by season and operator"
   },
+  "photography_tips": [
+    "Use early morning light for calmer river-surface shots and softer views across to Laos.",
+    "Photograph the stay as part of a wider Mekong lifestyle story rather than as a standalone luxury property.",
+    "Scout the exact riverside angle after arrival because bungalow spacing and river access differ by operator."
+  ],
   "practical_info": {
     "how_to_get_there": "Choose it as your Mukdahan base if a quieter Mekong-side setting matters more than being in the tightest city-core grid.",
     "nearby_attractions": "Mekong Riverside Promenade, Ho Kaeo Mukdahan, and the bridge-side viewpoint area.",
@@ -63,8 +78,14 @@
     "Do not rely on old web prices or outdated facility claims.",
     "Choose it when the riverfront pace matters more than city-center convenience."
   ],
+  "seasonal_considerations": "This stay style works year-round in principle, but the quality of the experience depends on river conditions, shade, current property upkeep, and how much time you actually have to slow down. It is most rewarding when used as a real overnight pause rather than a rushed one-night transit stop.",
+  "accessibility": "Accessibility varies significantly by property. Travelers who need step-free routes, parking close to the room, or adapted bathrooms should treat those as direct pre-booking questions rather than assumptions.",
   "verified_note": "Conservative stay-area summary based on Mukdahan destination context plus publicly visible place data. Current rates and amenities should always be checked directly with the operator.",
   "cultural_significance": "The bungalow area matters mainly as a way to experience Mukdahan's Mekong-side pace more directly, not as a landmark attraction in its own right.",
+  "fun_facts": [
+    "A riverfront bungalow changes Mukdahan from a quick border-city stop into a slower Mekong overnight.",
+    "For many travelers the main upgrade is psychological: waking near the river makes the city feel less transactional and more place-based."
+  ],
   "contentSources": [
     {
       "name": "Mukdahan province page",
