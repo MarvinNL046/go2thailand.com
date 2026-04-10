@@ -102,31 +102,60 @@ export default function BlogPostPage({ post, relatedPosts, prevPost, nextPost }:
     if (!contentEl) return;
 
     const widgetDivs = contentEl.querySelectorAll<HTMLElement>('[data-widget]');
+    const cleanupFns: Array<() => void> = [];
+
     widgetDivs.forEach((div) => {
       const widgetType = div.getAttribute('data-widget');
       if (!widgetType || !(widgetType in WIDGET_SCRIPTS)) return;
+      if (div.getAttribute('data-widget-hydrated') === 'true') return;
 
       const scriptSrc = WIDGET_SCRIPTS[widgetType];
       if (!scriptSrc) return; // No script widget for this type, keep fallback CTA box
 
+      div.setAttribute('data-widget-hydrated', 'true');
+
       // Create a container for the script widget above the fallback CTA box
       const scriptContainer = document.createElement('div');
       scriptContainer.style.margin = '0';
+      scriptContainer.setAttribute('data-widget-script-container', 'true');
+
+      const fallback = div.querySelector<HTMLElement>('[data-widget-fallback]');
+
+      const hasRenderedWidget = () => {
+        const directChildren = Array.from(div.children);
+
+        return directChildren.some((child) => {
+          if (child === scriptContainer) return false;
+          if (fallback && child === fallback) return false;
+          return true;
+        });
+      };
+
+      const syncFallbackVisibility = () => {
+        if (!fallback) return;
+        fallback.style.display = hasRenderedWidget() ? 'none' : '';
+      };
+
+      const observer = new MutationObserver(() => {
+        syncFallbackVisibility();
+      });
+
+      observer.observe(div, { childList: true, subtree: false });
+      cleanupFns.push(() => observer.disconnect());
 
       const script = document.createElement('script');
       script.src = scriptSrc;
       script.async = true;
       script.charset = 'utf-8';
 
-      // When the script loads successfully, hide the fallback CTA box
-      script.onload = () => {
-        const fallback = div.querySelector('[data-widget-fallback]');
-        if (fallback) (fallback as HTMLElement).style.display = 'none';
-      };
-
       scriptContainer.appendChild(script);
       div.insertBefore(scriptContainer, div.firstChild);
+      syncFallbackVisibility();
     });
+
+    return () => {
+      cleanupFns.forEach((cleanup) => cleanup());
+    };
   }, []);
 
   const breadcrumbs = [
