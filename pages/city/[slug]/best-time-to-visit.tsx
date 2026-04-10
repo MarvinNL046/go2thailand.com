@@ -80,6 +80,7 @@ const MONTH_FULL_NAMES: Record<string, string> = {
 };
 
 export default function BestTimeToVisitPage({ city, topRoutes }: BestTimeToVisitPageProps) {
+  const siteLogoUrl = 'https://go2-thailand.com/images/brand/go2thailand-logo-2026.png';
   const { locale } = useRouter();
   const isNl = locale === 'nl';
   const lang = isNl ? 'nl' : 'en';
@@ -121,7 +122,7 @@ export default function BestTimeToVisitPage({ city, topRoutes }: BestTimeToVisit
       url: 'https://go2-thailand.com',
       logo: {
         '@type': 'ImageObject',
-        url: 'https://go2-thailand.com/logo.png',
+        url: siteLogoUrl,
       },
     },
     mainEntityOfPage: {

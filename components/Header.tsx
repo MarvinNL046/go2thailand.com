@@ -26,6 +26,7 @@ const ChevronDown = () => (
 );
 
 const Header = () => {
+  const brandLogoPath = '/images/brand/go2thailand-logo-2026.png';
   const [isMobileMenuOpen, setIsMobileMenuOpen] = useState(false);
   const [isScrolled, setIsScrolled] = useState(false);
   const { t } = useTranslation('common');
@@ -167,12 +168,12 @@ const Header = () => {
             {/* Logo */}
             <div className="flex-shrink-0">
               <Link href="/" className="flex items-center group">
-                <div className="h-24 w-24 relative transform transition-transform group-hover:scale-105">
+                <div className="h-[72px] w-[108px] relative transform transition-transform group-hover:scale-105">
                   <Image
-                    src="/images/go2thailand-logo-original.webp"
+                    src={brandLogoPath}
                     alt="Go2Thailand - Your Ultimate Thailand Travel Guide"
-                    height={96}
-                    width={96}
+                    height={72}
+                    width={108}
                     className="object-contain"
                     priority
                   />
@@ -245,8 +246,8 @@ const Header = () => {
       >
         <div className="flex items-center justify-between px-4 h-20 border-b border-gray-100">
           <Link href="/" className="flex items-center" onClick={closeMobile}>
-            <div className="h-16 w-16 relative">
-              <Image src="/images/go2thailand-logo-original.webp" alt="Go2Thailand" height={64} width={64} className="object-contain" />
+            <div className="h-12 w-[72px] relative">
+              <Image src={brandLogoPath} alt="Go2Thailand" height={48} width={72} className="object-contain" />
             </div>
           </Link>
           <button

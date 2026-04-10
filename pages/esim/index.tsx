@@ -138,6 +138,7 @@ const globalSources: SourceLink[] = [
 ];
 
 export default function ESIMPage({ providers }: ESIMPageProps) {
+  const siteLogoUrl = 'https://go2-thailand.com/images/brand/go2thailand-logo-2026.png';
   const { locale } = useRouter();
   const t = (en: string, nl: string) => locale === 'nl' ? nl : en;
 
@@ -161,7 +162,7 @@ export default function ESIMPage({ providers }: ESIMPageProps) {
       url: 'https://go2-thailand.com/',
       logo: {
         '@type': 'ImageObject',
-        url: 'https://go2-thailand.com/go2thailand-faviocon.webp',
+        url: siteLogoUrl,
       },
     },
     mainEntityOfPage: 'https://go2-thailand.com/esim/',

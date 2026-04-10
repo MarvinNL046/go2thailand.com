@@ -200,6 +200,7 @@ function SafetyWingWidget() {
 }
 
 export default function TravelInsurancePage() {
+  const siteLogoUrl = 'https://go2-thailand.com/images/brand/go2thailand-logo-2026.png';
   const { locale } = useRouter();
   const isNl = locale === 'nl';
 
@@ -246,7 +247,7 @@ export default function TravelInsurancePage() {
       url: 'https://go2-thailand.com',
       logo: {
         '@type': 'ImageObject',
-        url: 'https://go2-thailand.com/images/logo.png',
+        url: siteLogoUrl,
       },
     },
     mainEntityOfPage: {

@@ -219,6 +219,7 @@ function getSelectionReason(beach: BeachData, lang: Lang): string {
 }
 
 export default function BestBeachesInThailand({ data }: BestBeachesProps) {
+  const siteLogoUrl = 'https://go2-thailand.com/images/brand/go2thailand-logo-2026.png';
   const { locale } = useRouter();
   const lang: Lang = locale === 'nl' ? 'nl' : 'en';
   const [activeFilter, setActiveFilter] = useState<FilterCategory>('all');
@@ -270,7 +271,7 @@ export default function BestBeachesInThailand({ data }: BestBeachesProps) {
       name: 'Go2Thailand',
       logo: {
         '@type': 'ImageObject',
-        url: 'https://go2-thailand.com/logo.png'
+        url: siteLogoUrl
       }
     },
     dateModified: data.last_updated,

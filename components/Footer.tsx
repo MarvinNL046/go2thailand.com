@@ -1,11 +1,13 @@
 import { useState } from 'react';
 import Link from 'next/link';
+import Image from 'next/image';
 import { useRouter } from 'next/router';
 import AnnouncementBar from './AnnouncementBar';
 import { useTranslation } from '../hooks/useTranslation';
 import { useToast } from './Toast';
 
 const Footer = () => {
+  const brandLogoPath = '/images/brand/go2thailand-logo-2026.png';
   const { locale } = useRouter();
   const currentYear = new Date().getFullYear();
   const { t } = useTranslation('common');
@@ -43,9 +45,13 @@ const Footer = () => {
             {/* Brand Column */}
             <div className="lg:col-span-3">
               <Link href="/" className="inline-block mb-4">
-                <span className="font-heading text-2xl font-bold text-white">
-                  Go2<span className="text-thailand-red">Thailand</span>
-                </span>
+                <Image
+                  src={brandLogoPath}
+                  alt="Go2Thailand"
+                  width={180}
+                  height={120}
+                  className="h-auto w-[180px] object-contain"
+                />
               </Link>
               <p className="text-gray-400 text-sm leading-relaxed mb-6">
                 {t('footer.aboutText')}

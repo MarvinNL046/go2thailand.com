@@ -269,6 +269,7 @@ const sourceLinks = [
 ];
 
 export default function TravelSecurityPage() {
+  const siteLogoUrl = 'https://go2-thailand.com/images/brand/go2thailand-logo-2026.png';
   const { locale } = useRouter();
   const isNl = locale === 'nl';
 
@@ -301,7 +302,7 @@ export default function TravelSecurityPage() {
       url: 'https://go2-thailand.com/',
       logo: {
         '@type': 'ImageObject',
-        url: 'https://go2-thailand.com/go2thailand-faviocon.webp',
+        url: siteLogoUrl,
       },
     },
     mainEntityOfPage: 'https://go2-thailand.com/travel-security/',

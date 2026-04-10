@@ -55,6 +55,7 @@ const getComfortStars = (rating: number) => {
 };
 
 const TransportRoutePage: React.FC<RoutePageProps> = ({ route, fromCity, toCity, transportOptions, comparisonSlug, twelveGoUrl }) => {
+  const siteLogoUrl = 'https://go2-thailand.com/images/brand/go2thailand-logo-2026.png';
   const { locale } = useRouter();
 
   const t = (en: string, nl: string) => locale === 'nl' ? nl : en;
@@ -165,7 +166,7 @@ const TransportRoutePage: React.FC<RoutePageProps> = ({ route, fromCity, toCity,
               ),
               "dateModified": new Date().toISOString().split('T')[0],
               "author": { "@type": "Organization", "name": "Go2Thailand", "url": "https://go2-thailand.com" },
-              "publisher": { "@type": "Organization", "name": "Go2Thailand", "url": "https://go2-thailand.com", "logo": { "@type": "ImageObject", "url": "https://go2-thailand.com/logo.png" } },
+              "publisher": { "@type": "Organization", "name": "Go2Thailand", "url": "https://go2-thailand.com", "logo": { "@type": "ImageObject", "url": siteLogoUrl } },
               "mainEntityOfPage": { "@type": "WebPage", "@id": `https://go2-thailand.com/transport/${route.slug}/` }
             })
           }}

@@ -4,6 +4,7 @@ import { useRouter } from 'next/router';
 import Breadcrumbs from '../components/Breadcrumbs';
 
 export default function EditorialPolicy() {
+  const siteLogoUrl = 'https://go2-thailand.com/images/brand/go2thailand-logo-2026.png';
   const { locale } = useRouter();
   const isNl = locale === 'nl';
 
@@ -25,7 +26,7 @@ export default function EditorialPolicy() {
       '@type': 'Organization',
       name: 'Go2Thailand.com',
       url: 'https://go2-thailand.com',
-      logo: 'https://go2-thailand.com/go2thailand-faviocon.webp',
+      logo: siteLogoUrl,
       email: 'hello@go2-thailand.com',
     },
     dateModified: '2026-03-16',

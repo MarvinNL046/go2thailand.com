@@ -92,6 +92,7 @@ function toAbsoluteImageUrl(image: string) {
 }
 
 export default function BlogPostPage({ post, relatedPosts, prevPost, nextPost }: BlogPostPageProps) {
+  const siteLogoUrl = 'https://go2-thailand.com/images/brand/go2thailand-logo-2026.png';
   const { locale } = useRouter();
   const subId = useSubId();
   const trackAffiliate = (url: string, placement: string) => withPlacementSubId(url, subId, placement);
@@ -182,7 +183,7 @@ export default function BlogPostPage({ post, relatedPosts, prevPost, nextPost }:
       "url": "https://go2-thailand.com",
       "logo": {
         "@type": "ImageObject",
-        "url": "https://go2-thailand.com/logo/go2thailand-logo.webp"
+        "url": siteLogoUrl
       }
     },
     "mainEntityOfPage": {

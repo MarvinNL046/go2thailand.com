@@ -232,6 +232,7 @@ export default function ComparisonPage({
   slug,
   transportRoute,
 }: ComparisonPageProps) {
+  const siteLogoUrl = 'https://go2-thailand.com/images/brand/go2thailand-logo-2026.png';
   const { locale } = useRouter();
   const lang = (locale === 'nl' ? 'nl' : 'en') as 'en' | 'nl';
   const isTranslated = TRANSLATED_LOCALES.includes(locale || 'en');
@@ -276,7 +277,7 @@ export default function ComparisonPage({
       '@type': 'Organization',
       name: 'Go2Thailand',
       url: 'https://go2-thailand.com',
-      logo: { '@type': 'ImageObject', url: 'https://go2-thailand.com/logo.png' },
+      logo: { '@type': 'ImageObject', url: siteLogoUrl },
     },
     mainEntityOfPage: { '@type': 'WebPage', '@id': pageUrl },
   };

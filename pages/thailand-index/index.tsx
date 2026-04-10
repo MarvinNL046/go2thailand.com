@@ -103,6 +103,7 @@ const faqItems = [
 ];
 
 export default function ThailandIndexPage({ data }: ThailandIndexPageProps) {
+  const siteLogoUrl = 'https://go2-thailand.com/images/brand/go2thailand-logo-2026.png';
   const { locale } = useRouter();
   const lang = (locale === 'nl' ? 'nl' : 'en') as 'en' | 'nl';
 
@@ -162,7 +163,7 @@ export default function ThailandIndexPage({ data }: ThailandIndexPageProps) {
       name: 'Go2Thailand',
       logo: {
         '@type': 'ImageObject',
-        url: 'https://go2-thailand.com/logo.png',
+        url: siteLogoUrl,
       },
     },
     url: 'https://go2-thailand.com/thailand-index/',

@@ -16,6 +16,7 @@ import { Analytics } from '@vercel/analytics/react';
 import '../styles/globals.css';
 
 export default function App({ Component, pageProps }: AppProps) {
+  const siteLogoUrl = 'https://go2-thailand.com/images/brand/go2thailand-logo-2026.png';
   const isProduction = process.env.NODE_ENV === 'production';
   const router = useRouter();
   const isNl = router.locale === 'nl';
@@ -35,7 +36,7 @@ export default function App({ Component, pageProps }: AppProps) {
               "@type": "Organization",
               "name": "Go2Thailand.com",
               "url": "https://go2-thailand.com",
-              "logo": "https://go2-thailand.com/go2thailand-faviocon.webp",
+              "logo": siteLogoUrl,
               "description": isNl
                 ? "Je complete gids voor reizen naar Thailand"
                 : "Your comprehensive guide to Thailand travel",

@@ -7,7 +7,6 @@ import { getAllCities } from '../lib/cities';
 import { getPopularDishes } from '../lib/food';
 import { getAllPosts } from '../lib/blog';
 import CityCard from '../components/CityCard';
-import TripcomWidget from '../components/TripcomWidget';
 import TravelpayoutsRecoveryPanel from '../components/TravelpayoutsRecoveryPanel';
 import AnimatedCounter from '../components/AnimatedCounter';
 import { AirplaneDecoration, CloudDecoration } from '../components/decorations';
@@ -247,27 +246,6 @@ export default function Home({ cities, featuredCities, popularDishes, latestPost
               </div>
               <div className="text-gray-400 text-sm">{t('stats.travelTips')}</div>
             </div>
-          </div>
-        </div>
-      </section>
-
-      {/* ============================================
-          SEARCH WIDGET — Trip.com
-          ============================================ */}
-      <section className="section-padding bg-white">
-        <div className="container-custom">
-          <div className="text-center mb-10">
-            <span className="section-label">{t('search.findPerfectStay')}</span>
-            <h2 className="section-title mb-3">
-              {t('search.searchCompareHotels')}
-            </h2>
-          </div>
-          <div className="max-w-4xl mx-auto">
-            <TripcomWidget
-              city="Thailand"
-              type="searchbox"
-              className="shadow-xl rounded-2xl"
-            />
           </div>
         </div>
       </section>

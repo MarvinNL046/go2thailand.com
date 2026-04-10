@@ -5,6 +5,7 @@ import { useRouter } from 'next/router';
 import Breadcrumbs from '../components/Breadcrumbs';
 
 export default function AboutPage() {
+  const siteLogoUrl = 'https://go2-thailand.com/images/brand/go2thailand-logo-2026.png';
   const { locale } = useRouter();
   const isNl = locale === 'nl';
 
@@ -20,7 +21,7 @@ export default function AboutPage() {
       '@type': 'Organization',
       name: 'Go2Thailand.com',
       url: 'https://go2-thailand.com',
-      logo: 'https://go2-thailand.com/go2thailand-faviocon.webp',
+      logo: siteLogoUrl,
       description: isNl
         ? 'Onafhankelijke Thailand reisgids die reizigers helpt onvergetelijke reizen te plannen sinds 2024.'
         : 'Independent Thailand travel guide helping travelers plan unforgettable trips since 2024.',
