@@ -132,7 +132,7 @@ Not all packages deliver what they promise. Watch for these issues:
 
 - **Vague hotel descriptions** — "4-star or similar" means they haven't confirmed the hotel yet. Ask for specific hotel names and check reviews independently.
 - **Rushed schedules** — If a 7-day package covers Bangkok, Chiang Mai, Phuket, AND Krabi, you'll spend half your trip in transit. Three destinations in a week is the maximum for a comfortable pace.
-- **"Optional" excursions** — These are where operators make extra margin. A $50 "optional temple tour" might cost $10 if you book it yourself through [Klook](https://www.klook.com/en-US/experiences/list/thailand-tours/g4-cate9/) or [GetYourGuide](https://www.getyourguide.com/thailand-l169040/).
+- **"Optional" excursions** — These are where operators make extra margin. A $50 "optional temple tour" might cost $10 if you book it yourself through [Klook](https://klook.tpo.lv/7Dt6WApj) or [GetYourGuide](https://getyourguide.tpo.lv/GuAFfGGK).
 - **Shopping stops** — Budget packages often include mandatory visits to gem shops, tailor shops, or souvenir stores. The tour company gets a commission. This is a [common scam](https://go2-thailand.com/blog/thailand-travel-scams-2026/) to be aware of.
 - **Single supplement fees** — Solo travelers often pay 30–50% more because packages are priced per person for double occupancy.
 - **Seasonal pricing** — The same package costs 20–40% more during peak season (November–February). Consider traveling in the shoulder season (March–May or September–October) for better deals. Our [best time to visit Thailand](/blog/best-time-to-visit-thailand/) guide breaks this down month by month.
@@ -145,8 +145,8 @@ Here are the most reliable platforms for Thailand travel packages in 2026:
 - **[G Adventures](https://www.gadventures.com/destinations/asia/thailand-tours/)** — Similar to Intrepid, with a younger traveler demographic. Good for solo travelers.
 - **[Exoticca](https://www.exoticca.com/us/asia/southeast-asia/thailand)** — Multi-destination packages with flights included. Mid-range to luxury.
 - **[Expedia](https://www.expedia.com/Thailand.d178.Destination-Travel-Guides)** — Flight + hotel bundles starting from $1,573. Best for DIY packages where you pick components.
-- **[Klook](https://www.klook.com/en-US/experiences/list/thailand-tours/g4-cate9/)** — Best for booking individual tours and activities rather than full packages. Often cheaper than operator add-ons.
-- **[GetYourGuide](https://www.getyourguide.com/thailand-l169040/)** — Curated day tours and multi-day experiences. Strong in Bangkok and Chiang Mai.
+- **[Klook](https://klook.tpo.lv/7Dt6WApj)** — Best for booking individual tours and activities rather than full packages. Often cheaper than operator add-ons.
+- **[GetYourGuide](https://getyourguide.tpo.lv/GuAFfGGK)** — Curated day tours and multi-day experiences. Strong in Bangkok and Chiang Mai.
 
 **Pro tip:** Book your flights separately from your ground package. Flight-inclusive packages lock you into specific dates and airlines. Booking flights independently (3–4 months ahead for the best fares) often saves $200–400 and gives you more flexibility. Keep an eye on [new airline routes to Thailand](/blog/new-airline-routes-thailand-2026-flydubai-norse-scoot-chiang-rai/) for the best deals in 2026.
 

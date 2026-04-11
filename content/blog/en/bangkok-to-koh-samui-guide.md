@@ -100,7 +100,7 @@ You board an overnight bus in Bangkok, sleep through the long drive south, arriv
 - **Lomprayah VIP bus + high-speed catamaran**: 1,400–1,450 THB (~$40–42) — evening departure at 21:00 or morning at 06:00
 - **Budget operators via 12Go Asia**: From 700–900 THB (~$20–26)
 
-For the absolute cheapest option, book through [12Go Asia](https://12go.asia/en/ferry/bangkok/koh-samui) where combined tickets start around **$15–25** depending on the operator and comfort level.
+For the absolute cheapest option, book through [12Go Asia](https://12go.tpo.lv/tNA80urD) where combined tickets start around **$15–25** depending on the operator and comfort level.
 
 ### Ferry Companies
 
@@ -138,7 +138,7 @@ Prices from Bangkok to Surat Thani by train:
 - **1st Class Sleeper (private cabin)**: 1,200–1,500 THB (~$35–43)
 - **3rd Class (seat only)**: 250–300 THB (~$7–9) — not recommended for overnight
 
-Buying tickets at the station is 50–100 THB cheaper than booking online, but online booking through [12Go Asia](https://12go.asia/en/train/bangkok/surat-thani) guarantees you a berth.
+Buying tickets at the station is 50–100 THB cheaper than booking online, but online booking through [12Go Asia](https://12go.tpo.lv/tNA80urD) guarantees you a berth.
 
 ### Important Booking Advice
 
@@ -245,7 +245,7 @@ Yes, the overnight bus is a well-established route used by thousands of traveler
 
 ### Should I book the train to Surat Thani in advance?
 
-**Absolutely.** Sleeper berths on the Bangkok to Surat Thani night train sell out quickly, especially air-conditioned 2nd Class berths during peak season (November–February). Book at least 1–2 weeks ahead through [12Go Asia](https://12go.asia/en/train/bangkok/surat-thani) or at a train station in Thailand.
+**Absolutely.** Sleeper berths on the Bangkok to Surat Thani night train sell out quickly, especially air-conditioned 2nd Class berths during peak season (November–February). Book at least 1–2 weeks ahead through [12Go Asia](https://12go.tpo.lv/tNA80urD) or at a train station in Thailand.
 
 ### Which ferry company is best for Koh Samui?
 

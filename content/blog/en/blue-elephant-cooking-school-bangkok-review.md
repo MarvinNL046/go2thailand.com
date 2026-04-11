@@ -126,7 +126,7 @@ If you are looking for a more **budget-friendly option**, there are excellent Ba
 | **What is included** | Market tour, chef demonstration, hands-on cooking, lunch, recipe booklet, apron, certificate |
 | **Skill level** | Beginner |
 | **Also in** | [Phuket](/city/phuket/cooking-classes/) |
-| **Book** | [Blue Elephant Thai Cooking Class on GetYourGuide](https://www.getyourguide.com/bangkok-l169/bangkok-blue-elephant-thai-cooking-class-t280512/?partner_id=CDNKZ7U&utm_medium=online_publisher) |
+| **Book** | [Blue Elephant Thai Cooking Class on GetYourGuide](https://getyourguide.tpo.lv/GuAFfGGK) |
 
 Blue Elephant also sells their handmade **curry pastes** online if you want to recreate the flavours at home without making the paste from scratch.
 

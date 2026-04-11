@@ -111,13 +111,14 @@ If you plan to rent a scooter — and most travelers in [Chiang Mai](https://go2
 
 Based on coverage, price, and claims experience, here are the top options:
 
-### SafetyWing Nomad Insurance
+### [SafetyWing Nomad Insurance](https://safetywing.com/?referenceID=26490463&utm_source=26490463&utm_medium=Ambassador)
 
 - **Cost:** ~$63/month (ages 10–39), increases with age
 - **Medical coverage:** $250,000
 - **Best for:** Long-term travelers and digital nomads
 - **Scooter coverage:** Covers motorbikes up to 125cc with a valid license
 - **Highlights:** Monthly subscription model, no fixed end date, covers you in your home country for short visits
+- **[Get a SafetyWing quote](https://safetywing.com/?referenceID=26490463&utm_source=26490463&utm_medium=Ambassador)**
 
 ### Genki Traveler
 
@@ -135,13 +136,14 @@ Based on coverage, price, and claims experience, here are the top options:
 - **Scooter coverage:** Covered under Explorer plan with valid license
 - **Highlights:** Covers a wide range of adventure activities, easy to buy and extend while traveling
 
-### EKTA Travel Insurance
+### [EKTA Travel Insurance](https://ektatraveling.tpo.lv/VRqiIZhm)
 
 - **Cost:** From ~$14 for 14 days
 - **Medical coverage:** Varies by plan
-- **Best for:** Budget-conscious travelers on short trips
+- **Best for:** Budget-conscious travelers on short trips to Thailand
 - **Scooter coverage:** Check plan details
-- **Highlights:** Very affordable for short trips, good basic coverage
+- **Highlights:** Very affordable for short trips, good basic coverage, Thailand-specific plans available
+- **[Get an EKTA quote](https://ektatraveling.tpo.lv/VRqiIZhm)**
 
 ---
 
@@ -183,7 +185,7 @@ No. The [300 THB tourist entry fee](/blog/thailand-300-baht-tourist-entry-fee-20
 
 ### Can I buy travel insurance after arriving in Thailand?
 
-Some providers (SafetyWing, Genki, World Nomads) allow you to purchase a policy after your trip has started. However, pre-existing conditions won't be covered, and there may be a waiting period before coverage activates. It's always better to buy before departure.
+Some providers ([SafetyWing](https://safetywing.com/?referenceID=26490463&utm_source=26490463&utm_medium=Ambassador), Genki, World Nomads) allow you to purchase a policy after your trip has started. However, pre-existing conditions won't be covered, and there may be a waiting period before coverage activates. It's always better to buy before departure.
 
 ### Does my credit card travel insurance work in Thailand?
 
@@ -195,7 +197,7 @@ Go to the nearest hospital. In an emergency, call 1669 (Thai emergency number) o
 
 ### How much does travel insurance cost for a 2-week Thailand trip?
 
-For a standard 14-day trip, expect to pay $15–60 depending on your age, coverage level, and provider. EKTA offers plans from around $14 for basic coverage, while more comprehensive policies from SafetyWing or World Nomads run $30–60 for the same period.
+For a standard 14-day trip, expect to pay $15–60 depending on your age, coverage level, and provider. [EKTA](https://ektatraveling.tpo.lv/VRqiIZhm) offers plans from around $14 for basic coverage, while more comprehensive policies from [SafetyWing](https://safetywing.com/?referenceID=26490463&utm_source=26490463&utm_medium=Ambassador) or World Nomads run $30–60 for the same period.
 
 ### I'm just going for a week — do I really need it?
 

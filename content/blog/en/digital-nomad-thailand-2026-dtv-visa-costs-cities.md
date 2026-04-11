@@ -393,7 +393,7 @@ We strongly recommend getting travel insurance or an expat health plan before ar
 - **Expat health plans:** Comprehensive coverage including routine care. Costs 100–300 USD/month.
 - **Thai health insurance:** Available through local insurers; costs vary widely.
 
-Popular providers include World Nomads, SafetyWing, and Allianz. Read the fine print carefully — some policies exclude pre-existing conditions or have high deductibles.
+Popular providers include World Nomads, [SafetyWing](https://safetywing.com/?referenceID=26490463&utm_source=26490463&utm_medium=Ambassador), and Allianz. For shorter stays or budget coverage, [EKTA](https://ektatraveling.tpo.lv/VRqiIZhm) offers Thailand-specific plans starting from ~$14. Read the fine print carefully — some policies exclude pre-existing conditions or have high deductibles.
 
 ### Pharmacies & Dental Care
 

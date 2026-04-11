@@ -579,7 +579,7 @@ Buses are cheapest (฿400–800 for long distances). Trains are more comfortabl
 
 ### Do I need travel insurance?
 
-Yes. Medical costs in Thailand are affordable, but evacuation and emergency flights are expensive. Travel insurance costs ฿2,000–5,000 for 2 weeks and covers these risks.
+Yes. Medical costs in Thailand are affordable, but evacuation and emergency flights are expensive. Travel insurance costs ฿2,000–5,000 for 2 weeks and covers these risks. [SafetyWing](https://safetywing.com/?referenceID=26490463&utm_source=26490463&utm_medium=Ambassador) offers flexible monthly plans from ~$45, and [EKTA](https://ektatraveling.tpo.lv/VRqiIZhm) has budget-friendly 2-week plans starting around $14.
 
 ---
 

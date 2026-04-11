@@ -369,16 +369,16 @@ For a deeper dive, read our complete [best time to visit Thailand](https://go2-t
 Most nationalities receive a **60-day visa exemption** upon arrival (extended from the previous 30-day allowance). You need a passport valid for at least 6 months and a return/onward ticket. Digital nomads can apply for the **Destination Thailand Visa (DTV)**, which grants a 180-day stay. Read our [Thailand visa guide 2026](/blog/thailand-visa-guide-2026/) for the complete breakdown of all visa types and the latest rule changes, including the [planned reduction to 30 days visa-free](/blog/thailand-visa-free-stay-cut-60-to-30-days-2026/).
 
 ### Getting Around Thailand
-- **Domestic flights:** AirAsia, Nok Air, Thai Lion Air, and Bangkok Airways. Book on their apps or via [12Go Asia](https://12go.co.th) for route comparisons.
+- **Domestic flights:** AirAsia, Nok Air, Thai Lion Air, and Bangkok Airways. Book on their apps or via [12Go Asia](https://12go.tpo.lv/tNA80urD) for route comparisons.
 - **Trains:** The State Railway of Thailand runs routes from Bangkok to Chiang Mai (12-14 hours), Surat Thani (9-11 hours), and Ayutthaya (1.5-2 hours). Second-class sleeper berths are comfortable and affordable.
 - **Ferries:** Lomprayah and Seatran operate high-speed catamarans between the Gulf islands. Book at least 2-3 days ahead in peak season.
 - **Buses and minivans:** The cheapest option. Minivans from Bangkok to most nearby cities cost ฿150-350.
 
 ### eSIM and Connectivity
-Pick up a **tourist SIM card** at the airport (AIS, DTAC, or TrueMove H). A 15-day unlimited data SIM costs ฿299-599. Alternatively, buy an eSIM before you leave home through providers like Airalo or Holafly — prices start around $5-8 for 1 GB.
+Pick up a **tourist SIM card** at the airport (AIS, DTAC, or TrueMove H). A 15-day unlimited data SIM costs ฿299-599. Alternatively, buy an eSIM before you leave home through providers like [Saily](https://saily.tpo.lv/rf9lidnE), Airalo, or Holafly — prices start around $5-8 for 1 GB.
 
 ### Travel Insurance
-Strongly recommended. Thailand's private hospitals are excellent but expensive for uninsured visitors. A basic travel insurance policy costs $1-3 per day and covers medical emergencies, trip cancellation, and lost luggage. SafetyWing and World Nomads are popular among backpackers.
+Strongly recommended. Thailand's private hospitals are excellent but expensive for uninsured visitors. A basic travel insurance policy costs $1-3 per day and covers medical emergencies, trip cancellation, and lost luggage. [SafetyWing](https://safetywing.com/?referenceID=26490463&utm_source=26490463&utm_medium=Ambassador) and World Nomads are popular among backpackers, and [EKTA](https://ektatraveling.tpo.lv/VRqiIZhm) is a great budget option for shorter Thailand trips.
 
 ### What to Pack
 - Lightweight, breathable clothing (cotton or linen)

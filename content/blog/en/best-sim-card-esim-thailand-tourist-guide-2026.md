@@ -45,6 +45,7 @@ The **DTAC Happy Tourist eSIM**, available through SimOptions, remains one of th
 Other popular eSIM providers include:
 
 - **Jetpac** — the widest selection with 24 local plans, ranging from 1 GB to 100 GB and durations from 4 to 30 days.
+- **[Saily](https://saily.tpo.lv/rf9lidnE)** — backed by the team behind NordVPN, offering reliable Thailand data plans at competitive prices.
 - **Airalo** — a well-known global eSIM marketplace with affordable Thailand-specific data plans.
 - **Holafly** — offers unlimited data plans, ideal if you stream video or use maps heavily.
 

@@ -38,7 +38,7 @@ Thailand is home to over 1,400 islands scattered across the **Gulf of Thailand**
 | How much does island hopping cost? | Budget travellers spend **700-1,750 THB per day**; read our [backpacker budget guide](/blog/thailand-budget-backpacker-guide/) for savings tips |
 | Do I need a visa? | Most nationalities get 60 days visa-free -- see the [Thailand visa guide 2026](/blog/thailand-visa-guide-2026/) for full details |
 | Is travel insurance necessary? | Yes -- **diving**, **snorkelling**, and boat travel require proper cover; compare plans in our [travel insurance guide](/travel-insurance-thailand/) |
-| How do I stay connected on islands? | Buy a **Thai eSIM** before you go for data on every island -- see our [eSIM guide](/esim/) |
+| How do I stay connected on islands? | Buy a **Thai eSIM** before you go (we recommend [Saily](https://saily.tpo.lv/rf9lidnE)) for data on every island -- see our [eSIM guide](/esim/) |
 
 ## 1. The Two Main Island Hopping Routes
 
@@ -92,7 +92,7 @@ Getting from island to island in Thailand is straightforward once you understand
 ### Booking Tips
 
 - Book **ferries** 1-2 days in advance during peak season (December-January). Outside of peak, you can usually buy at the pier.
-- Check [12Go Asia](https://12go.asia) for schedules and online booking.
+- Check [12Go Asia](https://12go.tpo.lv/tNA80urD) for schedules and online booking.
 - In low season (May-October on the **Andaman** side), many ferry routes are reduced or suspended. Always confirm schedules locally and review the [weather forecast](/weather/).
 - Stay connected while travelling between islands -- grab a **Thai eSIM** from our [eSIM guide](/esim/) so you can check schedules, maps, and booking apps on the go.
 

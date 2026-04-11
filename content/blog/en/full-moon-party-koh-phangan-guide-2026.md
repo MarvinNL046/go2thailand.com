@@ -486,7 +486,7 @@ Thong Sala's morning market (open 6–11 AM) offers authentic Thai street food, 
 1. **Book accommodation** on [Koh Phangan](https://go2-thailand.com/islands/koh-phangan/) using accommodation platforms — see our [best hotels in Koh Samui](/best-hotels/koh-samui/) if you're staging nearby
 2. **Book ferry tickets** (round-trip) from your departure point
 3. **Check visa requirements** via the [Thailand visa guide](/blog/thailand-visa-guide-2026/)
-4. **Arrange travel insurance** covering activities and nightlife-related incidents
+4. **Arrange travel insurance** covering activities and nightlife-related incidents -- [SafetyWing](https://safetywing.com/?referenceID=26490463&utm_source=26490463&utm_medium=Ambassador) or [EKTA](https://ektatraveling.tpo.lv/VRqiIZhm) both offer plans that work well for Thailand party trips
 
 ### 2 Weeks Before
 

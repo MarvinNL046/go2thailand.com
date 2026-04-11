@@ -241,7 +241,7 @@ Thailand's healthcare system is excellent—and shockingly affordable. Private h
 - Hospital stay (private, per night): 3,000-10,000 baht ($84-280 USD)
 - Emergency room: 1,000-5,000 baht ($28-140 USD)
 
-**Recommendation:** Get comprehensive [travel insurance](https://go2-thailand.com/travel-insurance-thailand/) before arrival. It costs 15-30 USD for two weeks and covers medical evacuation, which can cost 100,000+ baht if needed.
+**Recommendation:** Get comprehensive [travel insurance](https://go2-thailand.com/travel-insurance-thailand/) before arrival. It costs 15-30 USD for two weeks and covers medical evacuation, which can cost 100,000+ baht if needed. [SafetyWing](https://safetywing.com/?referenceID=26490463&utm_source=26490463&utm_medium=Ambassador) is a popular choice among long-term travelers, while [EKTA](https://ektatraveling.tpo.lv/VRqiIZhm) offers affordable short-trip plans starting from around $14.
 
 <div data-widget="saily" style="margin:32px 0;"><div data-widget-fallback style="background:#FAF5FF;border-left:4px solid #A855F7;border-radius:12px;padding:20px 24px;margin:32px 0;box-shadow:0 1px 3px rgba(0,0,0,0.1);">
   <div style="display:flex;align-items:flex-start;gap:16px;">
@@ -383,7 +383,7 @@ Internet safety is often overlooked but critical in Thailand. Public WiFi is ubi
 **Public WiFi risks:** Unencrypted networks allow hackers to intercept passwords, banking info, and personal data. We've seen travelers' email accounts compromised after using airport WiFi.
 
 **Solutions:**
-- Use a VPN (Virtual Private Network) on all public WiFi
+- Use a [VPN like NordVPN](https://nordvpn.tpo.lv/ekHF1i55) on all public WiFi
 - Avoid accessing banking or sensitive accounts on public networks
 - Use mobile data instead of WiFi when possible
 - Enable two-factor authentication on all accounts

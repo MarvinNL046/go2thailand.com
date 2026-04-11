@@ -67,7 +67,7 @@ If you plan to stay longer than 30 days, apply for a [Tourist Visa](https://go2-
 
 ### Travel Insurance (Non-Negotiable)
 
-Purchase comprehensive travel insurance before departure. Cost: 800–1,500 THB ($22–42 USD) for 2–3 weeks. This should cover medical emergencies, evacuation, trip cancellation, and theft. We've seen travelers avoid thousands in unexpected costs by having proper coverage.
+Purchase comprehensive travel insurance before departure. Cost: 800–1,500 THB ($22–42 USD) for 2–3 weeks. This should cover medical emergencies, evacuation, trip cancellation, and theft. We've seen travelers avoid thousands in unexpected costs by having proper coverage. Two solid options are [SafetyWing](https://safetywing.com/?referenceID=26490463&utm_source=26490463&utm_medium=Ambassador) (great for longer trips with a flexible monthly subscription) and [EKTA](https://ektatraveling.tpo.lv/VRqiIZhm) (budget-friendly plans from ~$14 for short trips).
 
 <div style="background:#FEF3C7;border-left:4px solid #F59E0B;border-radius:12px;padding:20px 24px;margin:32px 0;box-shadow:0 1px 3px rgba(0,0,0,0.1);">
   <div style="display:flex;align-items:flex-start;gap:12px;">
@@ -291,7 +291,7 @@ Staying connected keeps you safe and sane. Thailand has excellent mobile coverag
 
 **eSIM**: If your phone supports eSIM, services like Saily offer data packages starting at 99 THB ($2.70 USD) for 7 days. Activate before arrival for seamless connectivity.
 
-**WiFi**: Every guesthouse, café, and restaurant has free WiFi. Password-protected networks are standard. Use a VPN if accessing sensitive accounts on public WiFi.
+**WiFi**: Every guesthouse, café, and restaurant has free WiFi. Password-protected networks are standard. Use a [VPN like NordVPN](https://nordvpn.tpo.lv/ekHF1i55) if accessing sensitive accounts on public WiFi.
 
 ### Communication with Home
 

@@ -476,7 +476,7 @@ Thailand has excellent private hospitals with English-speaking doctors. A doctor
 
 - **Pharmacies are everywhere:** You can buy antibiotics and common medications without prescriptions (though you shouldn't self-diagnose)
 - **Hospitals in cities are modern:** Bangkok and Chiang Mai have world-class private hospitals
-- **Travel insurance is non-negotiable:** A serious accident or emergency evacuation can cost 100,000+ THB. Insurance is cheap (20–40 USD for 2 weeks) and essential.
+- **Travel insurance is non-negotiable:** A serious accident or emergency evacuation can cost 100,000+ THB. Insurance is cheap (20–40 USD for 2 weeks) and essential. We recommend [SafetyWing](https://safetywing.com/?referenceID=26490463&utm_source=26490463&utm_medium=Ambassador) for longer stays or [EKTA](https://ektatraveling.tpo.lv/VRqiIZhm) for budget-friendly short-trip coverage.
 - **Dental work is affordable:** Many tourists come for dental tourism; costs are 50–70% cheaper than Western countries
 
 Check our [health and vaccinations guide](https://go2-thailand.com/practical-info/health-vaccinations/) for pre-travel recommendations.

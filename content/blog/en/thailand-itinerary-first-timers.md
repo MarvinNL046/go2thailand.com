@@ -62,7 +62,7 @@ You can do this route in 10 days (tight but doable) or 14 days (comfortable, wit
 
 **What to do:** Land at Suvarnabhumi Airport (BKK). Clear immigration (have your [Thailand Digital Arrival Card](https://go2-thailand.com/blog/thailand-digital-arrival-card-tdac-guide/) QR code ready — you must complete this online at least 3 days before arrival). Take the Airport Rail Link to the city center (45 minutes, 45 THB/$1.30) or grab a metered taxi (300–400 THB/$8–11 to central Bangkok).
 
-**First-timer tip:** Get a Thai SIM card or eSIM at the airport. You'll need data for Grab (Thailand's Uber), Google Maps, and translating menus. AIS and TrueMove offer tourist SIMs for 299–599 THB ($8–17) with 15–30 days of data.
+**First-timer tip:** Get a Thai SIM card or eSIM at the airport. You'll need data for Grab (Thailand's Uber), Google Maps, and translating menus. AIS and TrueMove offer tourist SIMs for 299–599 THB ($8–17) with 15–30 days of data. Prefer eSIM? Grab one from [Saily](https://saily.tpo.lv/rf9lidnE) before you fly and have data the moment you land.
 
 **Evening:** Walk your neighborhood, eat [street food](https://go2-thailand.com/blog/bangkok-street-food-beginners/) for dinner. Try pad kra pao (basil stir-fry with rice and fried egg) — it's Thailand's everyday comfort food. Cost: 50–80 THB ($1.50–2.30). Vegan? Look for the [yellow เจ flag for Jay food](https://go2-thailand.com/blog/thailand-jay-food-vegan-street-guide-yellow-flag-2026/) stalls — fully plant-based meals from 50 THB.
 
@@ -209,7 +209,7 @@ For a detailed daily cost breakdown, check our [Thailand budget guide](https://g
 - **Grab app** is your best friend. Works for taxis, motorbike taxis, and food delivery. Always cheaper and safer than negotiating with random drivers.
 - **Currency:** Thai Baht (THB). 1 USD is roughly 35 THB (2026 rates). ATMs are everywhere but charge 220 THB ($6.30) per withdrawal. Use ATMs inside bank branches for security. Bring a travel card with low foreign transaction fees.
 - **SIM card or eSIM:** Get one at the airport on arrival. You need mobile data for maps, Grab, and translation apps. Budget 299–599 THB ($8–17) for 15–30 days. See our [best SIM card and eSIM guide for Thailand](https://go2-thailand.com/blog/best-sim-card-esim-thailand-tourist-guide-2026/).
-- **Transport apps:** Google Maps works well in Thailand. For intercity buses and trains, book through [12Go Asia](https://12go.asia) — it aggregates routes and lets you compare options.
+- **Transport apps:** Google Maps works well in Thailand. For intercity buses and trains, book through [12Go Asia](https://12go.tpo.lv/tNA80urD) — it aggregates routes and lets you compare options.
 - **[Thailand Digital Arrival Card](https://go2-thailand.com/blog/thailand-digital-arrival-card-tdac-guide/):** Complete this online at least 3 days before your flight. It's free and mandatory.
 
 ## Frequently Asked Questions

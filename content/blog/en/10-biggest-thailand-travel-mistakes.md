@@ -242,7 +242,7 @@ We've also seen travelers skip vaccinations or antimalarial medication, then con
 
 ### Health Essentials Before You Go
 
-- **Get travel insurance** (covers medical evacuation, hospitalization, lost luggage)
+- **Get travel insurance** (covers medical evacuation, hospitalization, lost luggage). Providers like [SafetyWing](https://safetywing.com/?referenceID=26490463&utm_source=26490463&utm_medium=Ambassador) and [EKTA](https://ektatraveling.tpo.lv/VRqiIZhm) offer affordable plans starting from around $40/month and $14 for two weeks, respectively.
 - **Check vaccination requirements** with your doctor 4-6 weeks before travel
 - **Pack a basic first-aid kit** (pain relievers, anti-diarrheal, antihistamine, sunscreen)
 - **Get travel-specific medications** if visiting rural areas

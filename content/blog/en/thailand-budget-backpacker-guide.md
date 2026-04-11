@@ -137,7 +137,7 @@ Read our [Bangkok street food guide](/blog/bangkok-street-food-beginners/) for d
 | Bangkok to Surat Thani | Train (2nd class) | 400-600 | 9 hrs |
 | [Bangkok to Koh Samui](/transport/) | Bus + ferry combo | 600-900 | 14 hrs |
 
-- **Trains** are the most scenic and comfortable budget option. Book sleeper trains at [12Go Asia](https://12go.asia) or at the station 2-3 days ahead. See our full [transport guide](/transport/) for all major routes.
+- **Trains** are the most scenic and comfortable budget option. Book sleeper trains at [12Go Asia](https://12go.tpo.lv/tNA80urD) or at the station 2-3 days ahead. See our full [transport guide](/transport/) for all major routes.
 - **Buses** are cheap but can be uncomfortable for long hauls. VIP buses with reclining seats are worth the small premium.
 - **Budget airlines** (AirAsia, Nok Air, Thai Lion Air) run sales regularly. Booking 2-3 weeks ahead often gets you fares under 1,000 THB.
 
@@ -200,7 +200,7 @@ Keep 2,000-5,000 THB in cash on you for daily expenses. Store extra cash and bac
 
 Staying connected in Thailand is easy and affordable. An **[eSIM](/esim/)** or local SIM card lets you use maps, Grab, translation apps, and messaging without hunting for Wi-Fi.
 
-- **[eSIM](/esim/):** Buy before you leave home. Convenient if your phone supports it -- no need to swap SIM cards.
+- **[eSIM](/esim/):** Buy before you leave home through a provider like [Saily](https://saily.tpo.lv/rf9lidnE). Convenient if your phone supports it -- no need to swap SIM cards.
 - **Local SIM (AIS, TrueMove, DTAC):** Available at any airport or 7-Eleven for 200-400 THB with 15-30 days of data.
 - **Free Wi-Fi:** Available at most **hostels**, cafes, and restaurants. Not always reliable though.
 
@@ -219,7 +219,7 @@ Here is what a realistic 2-week **backpacking Thailand** trip costs:
 
 This works out to about **1,480 THB ($41) per day**, which is a comfortable **budget backpacker** pace. You could go lower by sticking to shoestring accommodation and cooking some meals, or higher by adding diving courses on [Koh Tao](/islands/koh-tao/) and nicer hotels.
 
-Note: This does not include international flights or **[travel insurance](/travel-insurance-thailand/)**, which you should absolutely have. A good **travel insurance** policy costs around $30-50 for a month and covers medical emergencies, theft, and trip cancellations. Do not skip it.
+Note: This does not include international flights or **[travel insurance](/travel-insurance-thailand/)**, which you should absolutely have. A good **travel insurance** policy costs around $30-50 for a month and covers medical emergencies, theft, and trip cancellations. [SafetyWing](https://safetywing.com/?referenceID=26490463&utm_source=26490463&utm_medium=Ambassador) works well for backpackers with its monthly subscription model, and [EKTA](https://ektatraveling.tpo.lv/VRqiIZhm) has budget plans from ~$14 for shorter trips. Do not skip it.
 
 ## 9. Top Money-Saving Tips
 
