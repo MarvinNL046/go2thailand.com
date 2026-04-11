@@ -8,10 +8,13 @@
   "region": "Central",
   "province": "Prachuap Khiri Khan",
   "description": {
-    "en": "A quiet fishing village with one of Thailand's most beautiful and unspoiled beaches. Known for incredibly fresh and cheap seafood, a relaxed Sunday market, and the kind of coastal atmosphere that Hua Hin had 20 years ago.",
-    "nl": "Een rustig vissersdorp met een van de mooiste en meest ongerepte stranden van Thailand. Bekend om ongelooflijk verse en goedkope zeevruchten, een ontspannen zondagsmarkt en de kustsfeer die Hua Hin 20 jaar geleden had."
+    "en": "A quiet fishing village with one of Thailand's most beautiful and unspoiled beaches. Known for incredibly fresh and cheap seafood, a relaxed Sunday market, and the kind of coastal atmosphere that Hua Hin had 20 years ago. Most tourists drive past Ban Krut on the way south without realizing what they're missing.",
+    "nl": "Een rustig vissersdorp met een van de mooiste en meest ongerepte stranden van Thailand. Bekend om verse en goedkope zeevruchten, een ontspannen zondagsmarkt en de kustsfeer die Hua Hin 20 jaar geleden had. De meeste toeristen rijden Ban Krut voorbij op weg naar het zuiden."
   },
+  "enhanced_description": "Ban Krut is the antidote to overdeveloped Thai beach towns. Stretched along approximately 8 kilometers of Gulf of Thailand coastline in the Bang Saphan district of Prachuap Khiri Khan province, this fishing village delivers what travel brochures promise but rarely deliver: wide white sand lined with coconut palms, warm emerald water, and almost no one on the beach — even on weekends. The town's name derives from the bergamot oranges (มะกรูด, má grùut) that once grew abundantly in the area. The beach runs from a fishing village at the foot of Thong Chai Mountain — topped with the dramatic Wat Tang Sai temple and its 9 pagodas built in 1996 to commemorate King Bhumibol's 50th anniversary — to a quieter stretch of coast to the south. The local fishing community keeps seafood absurdly fresh and cheap. Ban Krut has its own train station with direct connections from Bangkok's Krungthep Apiwat Central Station (Special Express #43, departing 07:30, arriving just after midday).",
   "population": 8000,
+  "population_label": "~8,000",
+  "population_note": "Small fishing community — the town feels even quieter than this number suggests",
   "highlights": [
     "Ban Krut Beach",
     "Sunday Walking Market",
@@ -25,26 +28,26 @@
   "image": "/images/cities/phuket/phuket-old-town.webp",
   "seo": {
     "metaTitle": {
-      "en": "Ban Krut Beach Guide 2026 | Hidden Gem in Prachuap Khiri Khan",
-      "nl": "Ban Krut Strand Gids 2026 | Verborgen Parel in Prachuap Khiri Khan"
+      "en": "Ban Krut Beach Guide 2026 | Thailand's Hidden Coastal Paradise",
+      "nl": "Ban Krut Strand Gids 2026 | Thailands Verborgen Kustparadijs"
     },
     "metaDescription": {
-      "en": "Discover Ban Krut — Thailand's best-kept beach secret. Endless white sand, fresh seafood from 100 THB, budget hotels from 800 THB/night. Your complete guide.",
-      "nl": "Ontdek Ban Krut — Thailands best bewaarde strandgeheim. Eindeloos wit zand, verse zeevruchten vanaf 100 THB, budgethotels vanaf 800 THB/nacht."
+      "en": "Discover Ban Krut — Thailand's best-kept beach secret. Endless white sand, seafood from 100 THB, hotels from 800 THB/night. Complete guide with prices, restaurants, and tips.",
+      "nl": "Ontdek Ban Krut — Thailands best bewaarde strandgeheim. Eindeloos wit zand, zeevruchten vanaf 100 THB, hotels vanaf 800 THB/nacht. Complete gids."
     }
   },
   "categories": {
     "food": {
-      "en": "Ban Krut Food Guide: Seafood, Moo Kata & Sunday Market",
-      "nl": "Ban Krut Eetgids: Zeevruchten, Moo Kata & Zondagsmarkt"
+      "en": "Ban Krut Food Guide: Seafood, Moo Kata & Street Food",
+      "nl": "Ban Krut Eetgids: Zeevruchten, Moo Kata & Streetfood"
     },
     "hotels": {
-      "en": "Where to Stay in Ban Krut: Budget to Beachfront",
-      "nl": "Waar overnachten in Ban Krut: Budget tot aan het strand"
+      "en": "Where to Stay in Ban Krut: From 800 THB Budget to Beachfront",
+      "nl": "Waar overnachten in Ban Krut: Van 800 THB budget tot aan het strand"
     },
     "attractions": {
-      "en": "Things to Do in Ban Krut",
-      "nl": "Activiteiten in Ban Krut"
+      "en": "Things to Do in Ban Krut: Beach, Temple & Market",
+      "nl": "Activiteiten in Ban Krut: Strand, Tempel & Markt"
     }
   },
   "tags": [
@@ -56,5 +59,179 @@
     "budget",
     "gulf of thailand",
     "fishing village"
+  ],
+  "top_attractions": [
+    {
+      "name": "Ban Krut Beach",
+      "description": "Kilometers of wide white sand backed by coconut palms. The water turns emerald blue from March to May. Even on weekends you can walk for 20 minutes and see maybe five other people. No jet skis, no beach vendors, no noise — just waves.",
+      "rank": 1,
+      "location": "Central Ban Krut coastline",
+      "entrance_fee": "Free",
+      "highlights": ["Endless white sand", "Crystal clear water", "No crowds even on weekends", "Coconut palm lined"]
+    },
+    {
+      "name": "Wat Tang Sai (Wat Thang Sai)",
+      "description": "Built in 1996 on top of Thong Chai Mountain to commemorate the 50th anniversary of King Bhumibol Adulyadej's accession to the throne. The temple complex features 9 pagodas (representing the 9th king of the Chakri dynasty), a 15-metre tall golden Buddha statue, and panoramic views of the coastline stretching north toward Prachuap Khiri Khan and south toward Bang Saphan. Considered one of the most beautiful temple settings in Thailand. Open daily from 9:00 AM, free admission.",
+      "rank": 2,
+      "location": "Thong Chai Mountain, northern end of Ban Krut Beach",
+      "entrance_fee": "Free (open daily from 9:00 AM)",
+      "highlights": ["9 pagodas for the 9th King", "15-metre golden Buddha", "360° coastal views", "Built 1996 for King's 50th anniversary"]
+    },
+    {
+      "name": "Ban Krut Sunday Market",
+      "description": "Every Sunday the beach road transforms into a walking market. Stalls open around 3 PM (too hot earlier) and the road fills up by 5 PM. Grilled squid, fried mussels, baked shrimp with glass noodles — all from 40 THB. Draws visitors from across the province.",
+      "rank": 3,
+      "location": "Ban Krut Beach Road",
+      "entrance_fee": "Free",
+      "highlights": ["Street seafood from 40 THB", "Local atmosphere", "Every Sunday from 3 PM", "Province-wide draw"]
+    },
+    {
+      "name": "Fisherman's End of the Beach",
+      "description": "The far southern end of Ban Krut Beach where the fishing community lives. A few family-run restaurants serve seafood caught that morning. Swim in the sea while they cook your food. This is Ban Krut at its most authentic.",
+      "rank": 4,
+      "location": "Southern end of Ban Krut Beach",
+      "entrance_fee": "Free",
+      "highlights": ["Fresh-caught seafood", "Swim while food is prepared", "Authentic fishing village", "Zero tourists"]
+    },
+    {
+      "name": "Bo Thong Lang Bay",
+      "description": "A stunning 4-kilometer wide bay located about 18 km south of Ban Krut along the Beach Road. Fine sand and shallow water, and at low tide a sandbar forms leading to a small offshore island — you can walk to it. Much quieter than Ban Krut Beach itself.",
+      "rank": 5,
+      "location": "18 km south of Ban Krut along Beach Road",
+      "entrance_fee": "Free",
+      "highlights": ["4 km wide bay", "Sandbar to offshore island at low tide", "Even more secluded", "Fine sand and shallow water"]
+    },
+    {
+      "name": "Wat Khao Tham Ma Rong",
+      "description": "A temple known for its caves, located near Bo Thong Lang Bay south of Ban Krut. Popular with visitors exploring the southern stretch of the coast. The cave temple offers a cool escape from the midday heat.",
+      "rank": 6,
+      "location": "Near Bo Thong Lang Bay, south of Ban Krut",
+      "entrance_fee": "Free",
+      "highlights": ["Cave temple", "Cool escape from heat", "Less visited", "Near Bo Thong Lang Bay"]
+    }
+  ],
+  "top_restaurants": [
+    {
+      "rank": 1,
+      "name": "Moo Kata Seafood BBQ (by the tamarind tree)",
+      "cuisine_type": "Thai BBQ / Seafood",
+      "description": "Charcoal-fired Thai barbecue where you pick your own fresh seafood and grill it at your table under a tamarind tree. Crab, scallops, large prawns with eggs, glass noodles, vegetables, and pork — all for 270 THB. The charcoal flavor makes everything taste better than gas-grilled alternatives.",
+      "price_range": "270–350 THB ($9–11)",
+      "highlights": ["Choose your own seafood", "Charcoal grilling", "Prawns with eggs", "Under a tamarind tree"]
+    },
+    {
+      "rank": 2,
+      "name": "Raan Pa Jum (Aunt Jum's)",
+      "cuisine_type": "Seafood / Thai",
+      "description": "A fisherman's restaurant at the very end of Ban Krut Beach. The owner catches the seafood herself. Tom Yum with shrimp, squid, and fish for 100 THB — possibly the best value seafood in all of Thailand. You can swim in the sea while they prepare your order.",
+      "location": "End of Ban Krut Beach",
+      "price_range": "100–120 THB ($3–3.50)",
+      "highlights": ["Tom Yum seafood 100 THB", "Owner catches the fish", "Swim while you wait", "Squid in ink sauce 120 THB"]
+    },
+    {
+      "rank": 3,
+      "name": "Sunday Market Street Food",
+      "cuisine_type": "Street Food / Seafood",
+      "description": "Not a restaurant but a weekly food experience. Every Sunday the beach road fills with stalls selling grilled squid (40–50 THB), deep fried mussels (50 THB), baked shrimp with glass noodles (40 THB), and local favorites. Eat on the beach facing the sunset.",
+      "price_range": "40–80 THB ($1.20–2.50)",
+      "highlights": ["Grilled squid 40 THB", "Fried mussels 50 THB", "Eat on the beach", "Every Sunday from 3 PM"]
+    }
+  ],
+  "top_hotels": [
+    {
+      "rank": 1,
+      "name": "Sisina Resort",
+      "price_range": "800–900 THB/night ($23–26)",
+      "description": "Best budget option in Ban Krut. Rooms are 300 meters from the beach (4-minute walk) surrounded by palm trees and tropical gardens. Large rooms with soft beds that feel like they should cost 1,200–1,500 THB. Multi-night discounts available (800 THB for 4+ nights).",
+      "category": "Budget",
+      "highlights": ["900 THB/night", "Tropical garden setting", "4 min walk to beach", "Multi-night discounts"]
+    },
+    {
+      "rank": 2,
+      "name": "Ratchawadee Ban Krut Resort",
+      "price_range": "1,900–2,000 THB/night ($54–57)",
+      "description": "Direct beachfront bungalows among coconut palms — the postcard version of Thailand. New access road recently built. The classic paradise image: wake up, walk 10 steps, you're on white sand with blue water in front of you.",
+      "category": "Mid-range",
+      "highlights": ["Direct beach access", "Coconut palm bungalows", "The 'paradise' image", "New access road"]
+    }
+  ],
+  "travel_tips": [
+    "Rent a scooter (200–300 THB/day) — the town is spread along a single road and walking everywhere isn't practical.",
+    "The Sunday market is the best day to visit — arrive by 4 PM for the best selection before it gets packed at 5 PM.",
+    "Bring cash — most places in Ban Krut don't accept cards. There are ATMs near the main intersection.",
+    "The water is clearest from November to March. Summer months (March–May) bring the most vivid emerald-blue color.",
+    "If you're coming from Bangkok by bus, get off at the Ban Krut intersection and grab a local songthaew to the beach.",
+    "Don't skip the far end of the beach — the fisherman's area has the freshest and cheapest seafood."
+  ],
+  "best_time_to_visit": {
+    "season": "November – April",
+    "weather": "Dry season with calm seas, clear skies, and temperatures around 28–34°C. The water is clearest during these months.",
+    "reasons": "Best swimming conditions, Sunday market operates year-round, and it's the peak of the fishing season — meaning even more seafood variety at the restaurants."
+  },
+  "budget_info": {
+    "daily_budget": {
+      "budget": "1,000–1,500 THB ($28–42): Sisina Resort + street food + Aunt Jum's",
+      "mid": "2,000–3,000 THB ($57–85): Beachfront resort + restaurant meals + scooter",
+      "luxury": "3,000–5,000 THB ($85–142): Premium resort + seafood dinners + day trips"
+    }
+  },
+  "hidden_gems": [
+    {
+      "name": "Raan Pa Jum (Aunt Jum's Restaurant)",
+      "story": "At the very end of Ban Krut Beach, past where the road ends and the fishing boats are parked on the sand, there's a simple restaurant run by a fisherwoman who catches the food herself. A massive bowl of Tom Yum seafood soup — packed with shrimp, squid, fish, and fish roe — costs 100 THB. You can literally swim in the sea while she prepares your meal.",
+      "how_to_find": "Ride to the very end of Ban Krut Beach road, past all the resorts. You'll see fishing boats and a small covered eating area.",
+      "best_time": "Lunchtime — the catch is freshest and the light on the water is beautiful.",
+      "local_insights": ["The squid stir-fried in its own ink (Pla Muek Nam Dam) is 120 THB and exceptional", "Ask what was caught that morning — the menu changes daily", "The cats are friendly"]
+    },
+    {
+      "name": "Evening squid boats",
+      "story": "After dark, the fishing boats head out with bright green lights to attract squid. Watching them dot the horizon from the beach at night — cold beer in hand, sand between your toes — is one of those simple moments that makes you understand why people fall in love with this place.",
+      "how_to_find": "Any point along Ban Krut Beach after 7 PM. Visible from the Sunday market area.",
+      "best_time": "After sunset, any night of the week."
+    }
+  ],
+  "foodie_adventures": [
+    {
+      "name": "The 350 Baht Seafood Feast",
+      "story": "For 350 THB ($10) you get a charcoal-fired Moo Kata grill loaded with crab, scallops, large prawns with eggs, glass noodles, pork, and vegetables. You cook it yourself under a tamarind tree while the evening breeze rolls in from the Gulf. The charcoal can't be controlled — when it burns out you pay a bit extra for more — but the smoky flavor it gives the seafood is worth it.",
+      "dish": "Moo Kata (Thai BBQ) with seafood",
+      "where_to_find": "The Moo Kata spot near central Ban Krut Beach — look for the charcoal grills and the big tamarind tree",
+      "price_range": "270 THB buffet + 80 THB grill grate",
+      "ordering_tips": ["Choose gray shrimp — they're fresher", "Bring your own Suki dipping sauce", "Ask for extra charcoal before the first batch burns out", "The prawns with eggs are the highlight"]
+    },
+    {
+      "name": "Sunday Market Seafood Crawl",
+      "story": "Every Sunday from 3 PM the beach road fills with stalls. The move: grab grilled squid (40 THB) from the first stall, deep fried mussels (50 THB) from the next, then baked shrimp with glass noodles (40 THB) further down. Find a spot on the beach, face the sunset, and eat everything with your hands. Total damage: under 150 THB.",
+      "dish": "Grilled squid, Hoi Tod, Goong Ob Woonsen",
+      "where_to_find": "Ban Krut Beach Road, every Sunday",
+      "price_range": "40–80 THB per dish",
+      "ordering_tips": ["Arrive by 4 PM for best selection", "Traffic doesn't close — watch for motorbikes", "The mussels vendor near the central area is excellent", "Bring wet wipes — no napkins at most stalls"]
+    }
+  ],
+  "authentic_experiences": [
+    {
+      "activity": "Cook your own seafood at Moo Kata",
+      "story": "For Thai people, going to a restaurant where you cook your own food isn't strange — it's an event. Choosing fresh crab and prawns, firing up the charcoal, and sitting under a tree while everything sizzles is somewhere between camping and dining. Solo or with friends, it's one of those experiences that feels uniquely Thai.",
+      "how_to_participate": "Just show up at the Moo Kata place near the beach. Choose your seafood from the display, grab a table, and they'll bring the charcoal grill."
+    },
+    {
+      "activity": "Watch the squid boats at night",
+      "story": "After sunset, Ban Krut's fishing fleet heads out with powerful green lights that attract squid to the surface. From the beach, you can watch dozens of glowing green dots moving across the dark water. It's mesmerizing, free, and completely unique to fishing towns like this.",
+      "how_to_participate": "Walk to any part of Ban Krut Beach after 7 PM. Bring a blanket and a drink."
+    }
+  ],
+  "local_insights": [
+    {
+      "observation": "Hua Hin locals consider Ban Krut their personal secret. They actively try to keep it under the radar to prevent overdevelopment."
+    },
+    {
+      "tip": "The 4-minute walk from budget hotels to the beach isn't a downside — it means you hear birds and wind through palm trees instead of road noise."
+    },
+    {
+      "surprise": "Despite being a beach town, there's no nightlife whatsoever. Restaurants close by 9-10 PM. If you need bars and clubs, this isn't your place — and locals like it that way."
+    },
+    {
+      "tip": "The fishermen at the end of the beach sometimes sell their catch directly. If you're staying somewhere with a kitchen, ask what they have — you'll pay wholesale prices."
+    }
   ]
 }

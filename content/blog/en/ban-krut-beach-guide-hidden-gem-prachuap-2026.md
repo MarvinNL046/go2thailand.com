@@ -16,11 +16,19 @@ sources:
     url: "https://www.youtube.com/watch?v=C7aWxl6JEOw"
   - name: "Tourism Authority of Thailand — Prachuap Khiri Khan"
     url: "https://www.tourismthailand.org/Destinations/Provinces/Prachuap-Khiri-Khan/350"
-  - name: "Booking.com — Ban Krut Hotels"
-    url: "https://www.booking.com/searchresults.html?ss=Ban+Krut"
+  - name: "Travelfish — Independent Guide to Ban Krut"
+    url: "https://www.travelfish.org/location/thailand/southern_thailand/prachuap_khiri_khan/ban_krut"
+  - name: "About Ban Krut — Travel Guide & Wat Tang Sai"
+    url: "https://aboutbankrut.com/"
+  - name: "Rome2Rio — Bangkok to Ban Krut Transport"
+    url: "https://www.rome2rio.com/s/Bangkok/Ban-Krut-Prachuap-Khiri-Khan-Thailand"
+  - name: "12Go Asia — Bus & Train to Ban Krut"
+    url: "https://12go.asia/en/travel/bus-terminal-southern-bangkok/ban-krut"
 ---
 
-There's a stretch of coastline in southern Thailand that most tourists drive straight past on the way to the islands — without realizing they just missed one of the most beautiful beaches in the country. Ban Krut sits in [Prachuap Khiri Khan province](/city/prachuap-khiri-khan/), about 400 km south of [Bangkok](/city/bangkok/), on the Gulf of Thailand. No party scene, no beach clubs, no high-rise hotels. Just endless white sand, crystal-clear water, a fishing village, and some of the cheapest fresh seafood you'll find anywhere in Thailand.
+There's a stretch of coastline in southern Thailand that most tourists drive straight past on the way to the islands — without realizing they just missed one of the most beautiful beaches in the country. Ban Krut sits in the Bang Saphan district of [Prachuap Khiri Khan province](/city/prachuap-khiri-khan/), about 400 km south of [Bangkok](/city/bangkok/) on the Gulf of Thailand. No party scene, no beach clubs, no high-rise hotels. Just approximately 8 kilometers of white sand lined with coconut palms, crystal-clear water, an active fishing village, and some of the cheapest fresh seafood you'll find anywhere in Thailand.
+
+The town's name comes from the bergamot oranges (มะกรูด, *má grùut*) that once grew abundantly in the area. At the northern end of the beach, Thong Chai Mountain rises up with the striking [Wat Tang Sai](/city/ban-krut/) temple — built in 1996 with 9 pagodas to honor King Bhumibol's 50th anniversary — and its 15-metre golden Buddha overlooking the coastline.
 
 People who know [Hua Hin](/city/hua-hin/) say Ban Krut is what Hua Hin looked like 20 years ago — before the resort chains moved in.
 
@@ -113,17 +121,34 @@ Ban Krut Beach is wide, white, and genuinely empty even on weekends. The sand st
 
 The most lively section is the central area near the Sunday market. If you want more seclusion, keep riding south along the coastal road — the beach gets quieter the further you go.
 
+## Beyond the Beach
+
+### Wat Tang Sai (Wat Thang Sai)
+The most striking landmark in the area. Built in 1996 on top of Thong Chai Mountain, this temple complex was constructed to commemorate the 50th anniversary of King Bhumibol Adulyadej's accession to the throne. The 9 pagodas represent the 9th king of the Chakri dynasty, and the 15-metre golden Buddha looks out over the entire coastline. The views stretch north toward Prachuap Khiri Khan city and south toward Bang Saphan. Open daily from 9:00 AM, free admission.
+
+**Tip:** Go at sunset — the golden Buddha glowing against the evening sky with the Gulf of Thailand below is one of the best photo opportunities in the entire province.
+
+### Bo Thong Lang Bay
+About 18 km south of Ban Krut along the Beach Road, this 4-kilometer wide bay is even more secluded. Fine sand, shallow water, and at low tide a sandbar forms that lets you walk to a small offshore island. Worth the scooter ride if you want to feel completely alone on a Thai beach.
+
+### Wat Khao Tham Ma Rong
+A cave temple near Bo Thong Lang Bay, popular with visitors exploring the southern coast. The caves offer a cool escape from the midday heat and a glimpse into the region's Buddhist heritage.
+
 ## How to Get There
 
 Ban Krut is in Prachuap Khiri Khan province, on the Gulf of Thailand coast.
 
 | From | Method | Duration | Cost |
 |------|--------|----------|------|
-| [Bangkok](/city/bangkok/) | Car/bus via Highway 4 | 4–5 hours | Bus ~300–400 THB |
+| [Bangkok](/city/bangkok/) | **Train** (Special Express #43, departs 07:30) | ~5 hours | 200–800 THB depending on class |
+| [Bangkok](/city/bangkok/) | Bus (Southern Bus Terminal) | 5.5 hours | 300–400 THB |
+| [Bangkok](/city/bangkok/) | Car via Highway 4 (Phetkasem Road) | 4–5 hours | — |
 | [Hua Hin](/city/hua-hin/) | Car south on Highway 4 | 2–2.5 hours | — |
-| [Chumphon](/city/chumphon/) | Car north on Highway 4 | 2 hours | — |
+| [Chumphon](/city/chumphon/) | Car north on Highway 4 | 1.5 hours (90 km) | — |
 
-Most visitors drive or take a bus from Bangkok. There's no train station in Ban Krut itself, but Prachuap Khiri Khan city (30 minutes north) has a train station with daily connections to [Bangkok](/city/bangkok/).
+**By train (recommended):** Ban Krut has its own train station, about a 20-minute walk west of the beachside strip. The Special Express #43 from Bangkok's Krungthep Apiwat Central Station departs at 07:30 and arrives just after midday — a comfortable day trip. Avoid overnight trains unless you enjoy arriving at 2–4 AM. Book tickets in advance via [12Go Asia](https://12go.asia/en/travel/bus-terminal-southern-bangkok/ban-krut).
+
+**By bus:** Regular buses from Bangkok's Southern Bus Terminal take about 5.5 hours. Get off at the Ban Krut intersection and grab a local songthaew to the beach.
 
 **Getting around Ban Krut**: You'll want a scooter. The town is spread along a single road and distances between restaurants, the beach, and your hotel can be 1–3 km. Scooter rental is typically 200–300 THB/day.
 
