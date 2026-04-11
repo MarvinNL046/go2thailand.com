@@ -146,7 +146,7 @@ Ban Krut is in Prachuap Khiri Khan province, on the Gulf of Thailand coast.
 | [Hua Hin](/city/hua-hin/) | Car south on Highway 4 | 2–2.5 hours | — |
 | [Chumphon](/city/chumphon/) | Car north on Highway 4 | 1.5 hours (90 km) | — |
 
-**By train (recommended):** Ban Krut has its own train station, about a 20-minute walk west of the beachside strip. The Special Express #43 from Bangkok's Krungthep Apiwat Central Station departs at 07:30 and arrives just after midday — a comfortable day trip. Avoid overnight trains unless you enjoy arriving at 2–4 AM. Book tickets in advance via [12Go Asia](https://12go.asia/en/travel/bus-terminal-southern-bangkok/ban-krut).
+**By train (recommended):** Ban Krut has its own train station, about a 20-minute walk west of the beachside strip. The Special Express #43 from Bangkok's Krungthep Apiwat Central Station departs at 07:30 and arrives just after midday — a comfortable day trip. Avoid overnight trains unless you enjoy arriving at 2–4 AM. Book tickets in advance via [12Go Asia](https://12go.tpo.lv/tNA80urD).
 
 **By bus:** Regular buses from Bangkok's Southern Bus Terminal take about 5.5 hours. Get off at the Ban Krut intersection and grab a local songthaew to the beach.
 
