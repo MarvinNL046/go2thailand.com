@@ -3,7 +3,7 @@ title: "Songkran 2026 Survival Guide: Everything You Need to Know Before the Wat
 slug: "songkran-2026-survival-guide-what-to-know"
 date: "2026-04-11"
 author:
-  name: "Go2Thailand Team"
+  name: "Marvin"
 category: "festivals"
 tags: ["songkran", "songkran-2026", "thai-new-year", "water-festival", "chiang-mai", "bangkok", "thailand-festivals", "travel-tips"]
 image: "/images/blog/songkran-2026-survival-guide.webp"
