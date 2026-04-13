@@ -81,6 +81,12 @@ const nextConfig = {
         destination: '/travel-insurance/',
         permanent: true,
       },
+      // Unsupported locales → English equivalent (we only serve en + nl)
+      { source: '/ja/:path*', destination: '/:path*', permanent: true },
+      { source: '/ko/:path*', destination: '/:path*', permanent: true },
+      { source: '/zh/:path*', destination: '/:path*', permanent: true },
+      { source: '/ru/:path*', destination: '/:path*', permanent: true },
+      { source: '/th/:path*', destination: '/:path*', permanent: true },
     ]
   },
   // Optimize for Vercel deployment

@@ -19,6 +19,7 @@ import {
 } from '../../lib/affiliates';
 import { getAllVisas, getVisaBySlug, generateVisaBreadcrumbs } from '../../lib/visas';
 import ContentBridge from '../../components/ContentBridge';
+import InsuranceCTA from '../../components/InsuranceCTA';
 import { useSubId } from '../../lib/useSubId';
 
 interface Requirement {
@@ -183,6 +184,10 @@ export default function VisaDetailPage({ visa }: VisaPageProps) {
                   ))}
                 </div>
               </section>
+
+              {visa.category === 'long-stay' && (
+                <InsuranceCTA context="health" />
+              )}
 
               {/* Process Steps */}
               <section>
