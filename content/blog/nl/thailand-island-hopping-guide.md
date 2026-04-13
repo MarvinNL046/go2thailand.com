@@ -1,22 +1,25 @@
 ---
-title: "Thailand Eilandhoppen: Routes, Tips & Budget voor 2026"
+title: "Thailand Eilandhoppen: Beste Routes, Tips & Budget voor 2026"
 slug: "thailand-island-hopping-guide"
 date: "2026-02-17"
 author:
   name: "Go2Thailand Team"
 category: "islands"
 tags:
-  - islands
-  - itinerary
-  - backpacking
-  - beaches
+  - eilanden
+  - route
+  - backpacken
+  - stranden
+  - ferry Thailand
+  - beste eilanden Thailand
+  - eilandhoppen tips
 image: "/images/cities/phuket/phuket-old-town.webp"
-description: "Plan het perfecte eilandhop-avontuur in Thailand. Ontdek de beste routes, veerbootverbindingen, budgettips en het ideale reisseizoen voor de Thaise eilanden."
+description: "Plan je perfecte Thailand eilandhoppen avontuur. Ontdek de beste routes, ferryverbindingen, budgettips en wanneer je de prachtige eilanden van Thailand moet bezoeken voor een onvergetelijke vakantie."
 featured: true
 readingTime: 10
-lastUpdated: "2026-02-17"
+lastUpdated: "2026-03-29"
 sources:
-  - name: "Tourism Authority of Thailand (TAT) - Eilanden & Stranden"
+  - name: "Tourism Authority of Thailand (TAT) - Islands & Beaches"
     url: "https://www.tourismthailand.org/Activities/Beaches"
   - name: "Department of National Parks, Wildlife and Plant Conservation"
     url: "https://portal.dnp.go.th/"
@@ -24,137 +27,159 @@ sources:
     url: "https://www.dmcr.go.th/"
 ---
 
-## Thailand Eilandhoppen: Alles Wat Je Moet Weten
+## Thailand Eilandhoppen Gids: Alles Wat Je Moet Weten
 
-Thailand telt meer dan 1.400 eilanden, verspreid over de **Golf van Thailand** en de **Andamanse Zee**. Van de kalksteenrotsen bij Krabi tot de fullmoonfeesten op Koh Phangan -- **eilandhoppen** is een van de mooiste manieren om het land te ontdekken. In deze gids vind je de beste routes, **vervoers**opties en praktische tips voor een onvergetelijke eilandreis.
+Thailand telt meer dan 1.400 eilanden, verspreid over de **Golf van Thailand** en de **Andamanzee**. Van de kalksteenrotsen van Krabi tot de full-moon parties op Koh Phangan is **eilandhoppen** een van de meest lonende manieren om dit land te ervaren. Deze gids bespreekt de beste routes, **vervoersopties** en praktische tips om een onvergetelijke eilandavontuur te plannen. Eerste keer in Thailand? Begin met onze [essentiële gids voor eerste bezoekers van Thailand](/blog/thailand-first-time-visitors-essential-guide-2026/) voordat je de eilanden induikt.
 
 ### Belangrijkste Punten
 
 | Vraag | Antwoord |
 |-------|----------|
-| Wat zijn de twee hoofdroutes? | Thailand heeft een **Golf van Thailand**-route (oostkust) en een **Andamanse Zee**-route (westkust) -- bekijk al onze [eilandgidsen](/islands/) om te vergelijken |
-| Hoe reis je tussen eilanden? | Per **veerboot**, **speedboot** of **longtailboot** -- zie ons volledige [vervoersoverzicht](/transport/) voor alle opties |
-| Wanneer is de beste tijd om te gaan? | **December tot april** werkt voor de meeste eilanden; bekijk de [Thailand weergids](/weather/) voor detail per maand |
-| Hoeveel kost eilandhoppen? | Budgetreizigers besteden **700-1.750 THB per dag**; lees onze [backpacker budgetgids](/blog/thailand-budget-backpacker-guide/) voor bespaartips |
-| Heb ik een visum nodig? | De meeste nationaliteiten krijgen 60 dagen visumvrij -- zie de [Thailand visumgids 2026](/blog/thailand-visa-guide-2026/) voor alle details |
-| Is een reisverzekering noodzakelijk? | Ja -- **duiken**, **snorkelen** en boottransfers vereisen goede dekking; vergelijk opties in onze [reisverzekeringsgids](/travel-insurance-thailand/) |
-| Hoe blijf ik verbonden op de eilanden? | Koop een **Thaise eSIM** voordat je vertrekt voor data op elk eiland -- zie onze [eSIM-gids](/esim/) |
+| Wat zijn de twee belangrijkste routes? | Thailand heeft een route langs de **Golf van Thailand** (oostkust) en een langs de **Andamanzee** (westkust) – bekijk alle [eilandgidsen](/islands/) om te vergelijken |
+| Hoe kom je van eiland naar eiland? | Met **ferry**, **speedboot** of **longtail boot** – zie onze volledige [vervoersoverzicht](/transport/) voor alle opties |
+| Wanneer is de beste reistijd? | **December tot april** werkt voor de meeste eilanden; check de [Thailand weergids](/weather/) voor details per maand |
+| Hoeveel kost eilandhoppen? | Budgetreizigers geven **700-1.750 THB per dag** uit; lees onze [backpacker budgetgids](/blog/thailand-budget-backpacker-guide/) voor bespaartips |
+| Heb ik een visum nodig? | De meeste nationaliteiten krijgen 60 dagen visumvrij – zie de [Thailand visumgids 2026](/blog/thailand-visa-guide-2026/) voor alle details |
+| Is Reisverzekering noodzakelijk? | Ja – **duiken**, **snorkelen** en boottochten vereisen goede dekking; vergelijk polissen in onze [reisverzekeringsgids](/travel-insurance-thailand/) |
+| Hoe blijf ik verbonden op de eilanden? | Koop een **Thaise eSIM** vooraf (wij raden [Saily](https://saily.tpo.lv/rf9lidnE) aan) voor data op elk eiland – zie onze [eSIM-gids](/esim/) |
 
-## 1. De Twee Belangrijkste Eilandhoppen-Routes
+## 1. De Twee Belangrijkste Eilandhoproutes
 
-De Thaise eilanden zijn verdeeld over twee kusten, elk met een eigen karakter, seizoen en **veerboot**netwerk. Welke route je kiest, hangt af van [wanneer je reist](/weather/) en wat voor soort vakantie je zoekt.
+De eilanden van Thailand zijn netjes verdeeld over twee kusten, elk met eigen karakter, seizoen en **ferrynetwerk**. De juiste route kiezen hangt af van [wanneer je reist](/weather/) en welk soort ervaring je zoekt.
 
-### De Golfeilanden-Route (Oostkust)
+### De Golf Eilanden Route (Oostkust)
 
-De eilanden in de **Golf van Thailand** staan bekend om hun rustige wateren, met palmen omzoomde **stranden** en bruisende nachtleven. Deze route is ideaal van **december tot augustus**, wanneer de zee kalm is en de zon schijnt.
+De eilanden in de **Golf van Thailand** staan bekend om hun kalme wateren, kokosnootstranden en bruisend nachtleven. Deze route is ideaal van **december tot augustus**, wanneer de zee rustig is en de hemel helder.
 
-Een populaire Golfroute ziet er als volgt uit:
+Een populaire route in de Golf ziet er zo uit:
 
-1. **Bangkok naar [Koh Samui](/islands/koh-samui/)** -- Rechtstreekse vlucht (1 uur) of een nachtbus-en-veerbootcombi vanuit Surat Thani via een [gecombineerd vervoersticket](/transport/)
-2. **Koh Samui naar [Koh Phangan](/islands/koh-phangan/)** -- 30 minuten met de **speedboot** of 1 uur met de **veerboot** (150-350 THB)
-3. **Koh Phangan naar [Koh Tao](/islands/koh-tao/)** -- 1,5 uur met de **veerboot** (350-600 THB)
-4. **Koh Tao terug naar het vasteland** -- Nachtboot naar Chumphon, dan trein of bus naar Bangkok
+1. **Bangkok naar [Koh Samui](/islands/koh-samui/)** – Vlieg direct (1 uur) of neem een nachttrein met ferry vanaf Surat Thani via een [gecombineerd vervoerbiljet](/transport/)
+2. **Koh Samui naar [Koh Phangan](/islands/koh-phangan/)** – 30 minuten **speedboot** of 1 uur **ferry** (150-350 THB)
+3. **Koh Phangan naar [Koh Tao](/islands/koh-tao/)** – 1,5 uur ferry (350-600 THB)
+4. **Koh Tao terug naar het vasteland** – Nachtboot naar Chumphon, dan trein of bus naar Bangkok
 
 **Hoogtepunten van deze route:**
-- Wereldklasse **duiken** op Koh Tao (duikcursussen vanaf 9.000 THB)
+- Wereldklasse **duiken** op Koh Tao (cursussen vanaf 9.000 THB) – zie onze [beste duik- en snorkelgids](/best-diving-snorkeling-in-thailand/)
 - Full Moon Party op Koh Phangan
-- Luxeresorts en gezinsvriendelijke **stranden** op [Koh Samui](/islands/koh-samui/)
-- Dagtrip naar Ang Thong National Marine Park
+- Luxe resorts en familie-vriendelijke **stranden** op [Koh Samui](/islands/koh-samui/)
+- Dagtocht naar Ang Thong National Marine Park
 
-### De Andaman-Route (Westkust)
+### De Andaman Route (Westkust)
 
-De eilanden in de **Andamanse Zee** zijn beroemd om hun spectaculaire landschappen, kristalhelder water en enkele van de beste **snorkel**plekken in Zuidoost-Azie. Het beste seizoen is hier **november tot april**, wanneer het **moessonseizoen** voorbij is en de veerboten op volle capaciteit varen. Check altijd de [weergids](/weather/) voordat je boekt.
+De eilanden in de **Andamanzee** zijn beroemd om hun dramatische landschappen, kristalhelder water en enkele van de beste **snorkelplekken** in Zuidoost-Azië. Het beste seizoen hier is **november tot april**, wanneer het **regenseizoen** voorbij is en de ferrydiensten op volle kracht draaien. Check altijd de [weergids](/weather/) voordat je boekt.
 
-Een klassieke Andaman-route:
+Een klassieke Andaman route:
 
-1. **Bangkok naar [Phuket](/city/phuket/)** -- Rechtstreekse vlucht (1,5 uur) of bus (12 uur) -- zie [vervoersopties](/transport/)
-2. **Phuket naar [Koh Phi Phi](/islands/koh-phi-phi/)** -- 2 uur met de **veerboot** (350-450 THB)
-3. **Koh Phi Phi naar [Koh Lanta](/islands/koh-lanta/)** -- 1 uur met de **veerboot** (300-400 THB)
-4. **Koh Lanta naar [Krabi](/city/krabi/)** -- 2 uur met de **veerboot** of minivan (250-350 THB)
+1. **Bangkok naar [Phuket](/city/phuket/)** – Vlieg direct (1,5 uur) vanaf Schiphol met KLM of een budgetmaatschappij, of bus (12 uur) – zie [vervoersopties](/transport/)
+2. **Phuket naar [Koh Phi Phi](/islands/koh-phi-phi/)** – 2 uur **ferry** (350-450 THB)
+3. **Koh Phi Phi naar [Koh Lanta](/islands/koh-lanta/)** – 1 uur ferry (300-400 THB)
+4. **Koh Lanta naar [Krabi](/city/krabi/)** – 2 uur ferry of minivan (250-350 THB)
 
 **Hoogtepunten van deze route:**
-- Maya Bay op [Koh Phi Phi](/islands/koh-phi-phi/) (reservering verplicht)
-- Relaxte sfeer en **strand**bars op [Koh Lanta](/islands/koh-lanta/)
+- Maya Bay op [Koh Phi Phi](/islands/koh-phi-phi/) (reservering vereist)
+- Ontspannen sfeer en **strand**bars op [Koh Lanta](/islands/koh-lanta/)
 - Rotsklimmen in Railay vanuit Krabi
-- **Snorkel**-dagtrips naar de Similan-eilanden vanuit [Phuket](/city/phuket/) (alleen november-mei)
+- Snorkeldagtochten naar de Similan Eilanden vanuit [Phuket](/city/phuket/) (november-mei alleen)
 
-> **Pro Tip:** Als je drie weken of meer hebt, kun je beide kusten combineren. Neem een **veerboot** van Koh Lanta naar Trang, steek over land over naar Surat Thani en pak daar een boot naar [Koh Samui](/islands/koh-samui/). Diverse [gecombineerde tickets](/transport/) dekken de hele reis voor zo'n 800-1.200 THB.
+> **Pro Tip:** Heb je drie weken of meer? Verbind dan de twee kusten. Neem een **ferry** van Koh Lanta naar Trang, steek over land naar Surat Thani en pak een boot naar [Koh Samui](/islands/koh-samui/). Verschillende [gecombineerde biljetten](/transport/) dekken de hele reis voor rond de 800-1.200 THB.
 
-## 2. Hoe Kom Je Van Eiland Naar Eiland?
+## 2. Hoe Kom Je Tussen de Eilanden
 
-Van eiland naar eiland reizen in Thailand is vrij eenvoudig zodra je de [vervoersopties](/transport/) kent:
+Van eiland naar eiland reizen in Thailand is eenvoudig zodra je de [vervoersopties](/transport/) begrijpt:
 
-- **Veerboten** -- De meest voorkomende optie. Grote, stabiele boten die 200-600 THB per traject kosten. Boek aan de kade of online via 12Go Asia.
-- **Speedboten** -- Sneller maar hobbeliger. Meestal dubbel de prijs van een gewone **veerboot**. Handig als je snel zeeziek wordt (kortere reistijd).
-- **Longtailboten** -- Voor korte afstanden, zoals Railay **Beach** naar Ao Nang. Meestal 100-200 THB per persoon.
-- **Gecombineerde tickets** -- Bus-en-veerbootcombinaties die je van deur tot deur brengen. Handig maar trager door wachttijden bij overstappunten.
+- **Ferries** – De meest voorkomende optie. Grote, stabiele boten die 200-600 THB per traject kosten. Boek bij de pier of online via 12Go Asia.
+- **Speedboats** – Sneller maar ruiger. Meestal dubbel zo duur als een standaard **ferry**. Handig als je snel zeeziek wordt op langzame boten (kortere blootstelling).
+- **Longtail boats** – Voor korte stukjes, zoals van Railay **Beach** naar Ao Nang. Meestal 100-200 THB per persoon.
+- **Gecombineerde biljetten** – Bus-ferry combinaties die je deur-tot-deur brengen vanaf je hotel. Gemakkelijk maar langzamer door wachttijden bij overstappunten.
 
-### Tips voor het Boeken
+### Boektips
 
-- Boek **veerboten** 1-2 dagen van tevoren in het hoogseizoen (december-januari). Buiten het hoogseizoen kun je meestal gewoon aan de kade terecht.
-- Bekijk [12Go Asia](https://12go.asia) voor dienstregelingen en online boekingen.
-- In het laagseizoen (mei-oktober aan de **Andaman**-kant) worden veel veerbootroutes beperkt of opgeschort. Check altijd lokaal de actuele dienstregeling en raadpleeg de [weersvoorspelling](/weather/).
-- Blijf verbonden onderweg tussen de eilanden -- koop een **Thaise eSIM** via onze [eSIM-gids](/esim/) zodat je onderweg dienstregelingen, kaarten en boekingsapps kunt raadplegen.
+- Boek **ferries** 1-2 dagen van tevoren in het hoogseizoen (december-januari). Buiten het hoogseizoen kun je meestal ter plekke bij de pier kopen.
+- Check [12Go Asia](https://12go.tpo.lv/tNA80urD) voor schema's en online boeking.
+- In het laagseizoen (mei-oktober aan de **Andaman**kant) zijn veel ferryroutes verminderd of opgeschort. Controleer altijd lokaal de schema's en bekijk de [weerberichten](/weather/).
+- Blijf verbonden tijdens het reizen tussen eilanden – pak een **Thaise eSIM** uit onze [eSIM-gids](/esim/) zodat je schema's, kaarten en boekingsapps onderweg kunt checken.
 
-## 3. Beste Tijd om te Gaan Eilandhoppen
+## 3. Beste Tijd voor Eilandhoppen
 
-| Regio | Beste seizoen | Vermijden |
-|-------|--------------|-----------|
-| Golfeilanden | Dec - Aug | Okt - Nov (stormen) |
-| Andaman-eilanden | Nov - Apr | Mei - Okt (**moessonseizoen**) |
+| Regio | Beste Seizoen | Vermijd |
+|-------|---------------|---------|
+| Golf Eilanden | Dec - Aug | Okt - Nov (stormen) |
+| Andaman Eilanden | Nov - Apr | Mei - Okt (**regenseizoen**) |
 
-De **tussenmaanden** (november aan de Golf, april-mei aan de Andaman) kunnen mooie deals bieden met minder drukte. Lees onze volledige gids over de [beste reistijd voor Thailand](/blog/best-time-to-visit-thailand/) voor een maand-voor-maand overzicht, of bekijk de speciale [weerpagina](/weather/) voor seizoensgrafieken en neerslaggegevens.
+De **schouderperiodes** (november in de Golf, april-mei in de Andaman) bieden vaak goede deals met minder drukte. Lees onze volledige [beste reistijd voor Thailand](/blog/best-time-to-visit-thailand/) voor details per maand, of check de speciale [weerpagina](/weather/) voor seizoensgrafieken en neerslaggegevens. Voor Nederlanders is het regenseizoen een belangrijke overweging voor veiligheid en reistijd.
 
-## 4. Budget Overzicht
+## 4. Budgetoverzicht
 
 Dit is wat een typische dag **eilandhoppen** kost voor een budgetreiziger:
 
-| Uitgave | Budget (THB) | Midden (THB) |
-|---------|-------------|--------------|
-| Hostel / gasthuis | 300-500 | 800-1.500 |
+| Uitgave | Budget (THB) | Middenklasse (THB) |
+|---------|--------------|--------------------|
+| Hostel / guesthouse | 300-500 | 800-1.500 |
 | Eten (3 maaltijden) | 200-350 | 500-900 |
-| Veerboot (per traject) | 200-400 | 350-600 |
+| Ferry (per traject) | 200-400 | 350-600 |
 | Activiteiten | 0-500 | 500-1.500 |
-| **Dagtotaal** | **700-1.750** | **2.150-4.500** |
+| **Dagtotal** | **700-1.750** | **2.150-4.500** |
 
-Voor een **eilandhoptocht** van twee weken kun je als budgetreiziger rekenen op **15.000-25.000 THB** (ongeveer 400-700 euro), exclusief vluchten naar Thailand. Bekijk onze [Thailand budgetgids voor backpackers](/blog/thailand-budget-backpacker-guide/) voor meer bespaartips. [Eten](/food/) op de eilanden is iets duurder dan op het vasteland, maar straatkraampjes bij de veerboten bieden nog steeds maaltijden voor 60-80 THB.
+Voor een tweedaagse **eilandhop**trip kun je als budgetreiziger rekenen op **15.000-25.000 THB** (ongeveer € 400-700), exclusief vluchten naar Thailand. Check onze [Thailand budget backpacker gids](/blog/thailand-budget-backpacker-guide/) voor meer bespaartips. Eiland [eten](/food/) is iets duurder dan op het vasteland, maar straatkraampjes bij ferrypiers bieden maaltijden voor 60-80 THB.
 
-## 5. Inpaklijst voor Eilandhoppen
+## 5. Inpak Essentials voor Eilandhoppen
 
-Licht reizen is cruciaal wanneer je van eiland naar eiland springt. **Veerboten**, longtails en **speedboten** bieden beperkte bagageruimte, en je zult je tas langs zandige **stranden** en steile steigertrappen moeten dragen. Bekijk onze [praktische infopagina](/practical-info/) voor een volledige inpakchecklist voor Thailand.
+Licht reizen is cruciaal bij eilandhoppen. **Ferries**, longtails en **speedboats** hebben beperkte bagageruimte, en je sjouwt je tas over zandstranden en steile piertrappen. Bekijk onze [praktische infopagina](/practical-info/) voor een volledige Thailand inpaklijst.
 
-- **Drybag** -- Beschermt je elektronica bij boottransfers. Een 20L-tas kost zo'n 200-400 THB in elke toeristenwinkel.
-- **Rifvriendelijke zonnebrand** -- Veel zeeparken vereisen tegenwoordig rifvriendelijke producten.
-- **Waterdicht telefoonhoesje** -- Onmisbaar voor boottochten en **strand**dagen.
-- **Lichte rugzak (40L of minder)** -- Laat de rolkoffer thuis. Een kleinere tas maakt **backpacken** een stuk makkelijker.
-- **Snorkelmasker** -- Huren kost 100-200 THB per dag; een eigen masker verdient zich snel terug als je veel wilt **snorkelen**.
+- **Droogtas** – Beschermt je elektronica tijdens boottochten. Een 20L tas kost rond de 200-400 THB in elke toeristenwinkel.
+- **Rifveilige zonnebrand** – Veel mariene parken eisen nu rifveilige producten.
+- **Waterdichte telefoonhoes** – Essentieel voor boottochten en **strand**dagen.
+- **Lichte rugzak (40L of minder)** – Laat rolkoffers links liggen. Een kleinere tas maakt **backpacken** transfers pijnloos.
+- **Snorkelmasker** – Huren kost 100-200 THB per dag; zelf kopen loont snel als je veel **snorkelt**.
 
 ## 6. Veiligheidstips
 
-- **Check de [weersomstandigheden](/weather/)** voordat je boten boekt. Als de zee ruw is, stel je reis dan uit -- vooral tijdens het **moessonseizoen**.
-- **Draag altijd een reddingsvest** op elke boot, ook als andere passagiers het overslaan.
-- **[Reisverzekering](/travel-insurance-thailand/)** is een must. Zorg ervoor dat je polis **duiken**, **snorkelen**, wateractiviteiten en medische evacuatie van eilanden dekt. Lees onze [reisverzekeringsgids](/travel-insurance-thailand/) om opties te vergelijken.
-- **Let op kwallen** tijdens het regenseizoen, vooral bij de Golfeilanden tussen juli en oktober.
-- Houd je [visum](/visa/)-geldigheid in de gaten als je een langere **eilandhoppen**-route plant -- bekijk de [Thailand visumgids 2026](/blog/thailand-visa-guide-2026/) voor verlengingsopties.
-- Bewaar voor noodgevallen en [praktische reisinformatie](/practical-info/) de lokale alarmnummers en het contactadres van je ambassade voordat je naar afgelegen eilanden vertrekt.
+- **Check [weercondities](/weather/)** voordat je boten boekt. Bij ruwe zee stel je je trip uit – vooral tijdens het **regenseizoen**.
+- **Draag altijd een zwemvest** op elke boot, ook als andere passagiers het skippen.
+- **[Reisverzekering](/travel-insurance-thailand/)** is verplicht. Zorg dat je polis **duiken**, **snorkelen**, wateractiviteiten en medische evacuatie van eilanden dekt. Lees onze [reisverzekeringsgids](/travel-insurance-thailand/) om polissen te vergelijken.
+- **Pas op voor kwallen** in het regenseizoen, vooral op Goleilanden tussen juli en oktober.
+- Houd de geldigheid van je [visum](/visa/) in de gaten bij een langere **eilandhoproute** – check de [Thailand visumgids 2026](/blog/thailand-visa-guide-2026/) voor verlengingsopties.
+- Voor noodgevallen en [praktische reisinfo](/practical-info/), sla lokale noodnummers en je ambassadecontact op voordat je naar afgelegen eilanden gaat.
 
-## 7. Voorbeeld 2-Weken Eilandhop-Reisschema
+## 7. Voorbeeld 2-Weeks Eilandhoproute
 
-Hier is een suggestieroute die het beste van beide kusten combineert:
+Hier is een voorgestelde route die het beste van beide kusten dekt:
 
-- **Dag 1-2:** Aankomst in [Bangkok](/city/bangkok/), stad verkennen en [straatvoedsel](/food/) proeven
-- **Dag 3-4:** Vliegen naar [Koh Samui](/islands/koh-samui/), **strand** en Ang Thong-dagtrip
-- **Dag 5-6:** **Veerboot** naar [Koh Phangan](/islands/koh-phangan/), Bottle Beach ontdekken
-- **Dag 7-8:** Veerboot naar [Koh Tao](/islands/koh-tao/), **duiken** of **snorkelen**
-- **Dag 9:** Veerboot naar Chumphon, vliegen naar [Phuket](/city/phuket/)
+- **Dag 1-2:** Aankomst in [Bangkok](/city/bangkok/), ontdek de stad en probeer het [streetfood](/food/)
+- **Dag 3-4:** Vlieg naar [Koh Samui](/islands/koh-samui/), **strand**tijd en dagtocht naar Ang Thong
+- **Dag 5-6:** **Ferry** naar [Koh Phangan](/islands/koh-phangan/), verken Bottle Beach
+- **Dag 7-8:** Ferry naar [Koh Tao](/islands/koh-tao/), **duiken** of **snorkelen**
+- **Dag 9:** Ferry naar Chumphon, vlieg naar [Phuket](/city/phuket/)
 - **Dag 10-11:** [Phuket](/city/phuket/) **stranden** en Old Town
-- **Dag 12-13:** Veerboot naar [Koh Phi Phi](/islands/koh-phi-phi/), Maya Bay
-- **Dag 14:** Veerboot naar [Krabi](/city/krabi/), vertrek
+- **Dag 12-13:** Ferry naar [Koh Phi Phi](/islands/koh-phi-phi/), Maya Bay
+- **Dag 14:** Ferry naar [Krabi](/city/krabi/), vertrek
 
-Dit reisschema werkt het best in **januari tot maart**, wanneer beide kusten droog weer hebben. Gebruik de [weergids](/weather/) om je data te finetunen, en koop een [Thaise eSIM](/esim/) zodat je onderweg **veerboten** kunt omboeken en de omstandigheden kunt checken.
+Deze route werkt het best van **januari tot maart**, wanneer beide kusten droog weer hebben. Gebruik de [weergids](/weather/) om je data aan te passen, en haal een [Thaise eSIM](/esim/) om **ferries** te herboeken en condities ter plekke te checken. Voor een volledige tweedaagse planning inclusief Bangkok en Chiang Mai, zie onze [2-weken Thailand route](/blog/thailand-itinerary-2-weeks/) of de uitgebreide [ultieme Thailand route 2026](/blog/ultimate-thailand-itinerary-2026/).
 
-## 8. Tot Slot
+## 8. Slotgedachten
 
-**Eilandhoppen** in Thailand is een van de mooiste reiservaringen die Zuidoost-Azie te bieden heeft. Of je nu een **backpacker** bent die in bamboehutjes slaapt of een stel dat uitkijkt naar luxe strandresorts -- er is een route en budget dat bij je past. Begin met het kiezen van je kust, check het [seizoen](/weather/) en boek je eerste **veerboot**. De rest komt vanzelf.
+Thailand **eilandhoppen** is een van de grootste reiservaringen in Zuidoost-Azië. Of je nu een **backpacker** bent die in bamboehutten slaapt of een stel dat op zoek is naar overwater villas, er is een route en budget dat bij je past. Begin met het kiezen van je kust, check het [seizoen](/weather/), en boek je eerste **ferry**. De rest valt op zijn plek.
 
-Bekijk al onze [eilandgidsen](/islands/) om je route te plannen, of lees onze [Thailand visumgids](/blog/thailand-visa-guide-2026/) om te zorgen dat je papierwerk in orde is. Vergeet niet om een [reisverzekering](/travel-insurance-thailand/) af te sluiten die wateractiviteiten dekt, koop een [Thaise eSIM](/esim/) voor connectiviteit, en bekijk de [vervoerspagina](/transport/) voor de meest actuele veerbootdienstregelingen.
+Bekijk al onze [eilandgidsen](/islands/) om je route te plannen, of lees onze [Thailand visumgids](/blog/thailand-visa-guide-2026/) om je papierwerk op orde te hebben voordat je gaat. Vergeet niet [reisverzekering](/travel-insurance-thailand/) te regelen die wateractiviteiten dekt, pak een [Thaise eSIM](/esim/) voor connectiviteit, en check de [vervoerpagina](/transport/) voor de laatste ferryschema's. Benieuwd hoe de eilanden van Thailand zich verhouden tot Bali? Lees onze [Thailand vs Bali 2026](/blog/thailand-vs-bali-2026-which-is-better/) vergelijking. Voor de beste stranden om te richten, check onze [beste stranden in Thailand](/blog/best-beaches-thailand/) gids en onze tips voor [kayak- en paddleboardplekken](/blog/best-kayaking-paddleboarding-spots-thailand-2026/).
+
+## FAQ
+
+### Wat is de beste eilandhoproute in Thailand?
+
+De populairste route voor eerste bezoekers is de **Golfroute**: Koh Samui naar Koh Phangan naar Koh Tao. Het biedt een mix van luxe stranden, nachtleven en wereldklasse duiken met betrouwbare ferryverbindingen. De **Andamanroute** (Phuket naar Koh Phi Phi naar Koh Lanta) is het best voor dramatische landschappen en snorkelen.
+
+### Hoeveel dagen heb ik nodig voor eilandhoppen in Thailand?
+
+Plan minstens **10-14 dagen** om comfortabel één kust te doen. 2-3 dagen per eiland voorkomt gehaastheid en geeft tijd om te genieten. Wil je beide kusten doen, reken dan op drie weken of meer.
+
+### Wanneer is de beste tijd voor eilandhoppen in Thailand?
+
+**December tot april** werkt voor de meeste eilanden. De Goleilanden (Koh Samui, Koh Phangan, Koh Tao) zijn het best van december tot augustus, terwijl de Andamaneilanden (Phuket, Koh Phi Phi, Koh Lanta) het best zijn van november tot april. Vermijd het regenseizoen wanneer ferrydiensten beperkt zijn.
+
+### Kan ik in Thailand eilandhoppen met de ferry?
+
+Ja. Ferries zijn het hoofdvervoer tussen Thaise eilanden en kosten **200-600 THB per traject**. Grote ferries varen dagelijks tussen grote eilanden in het hoogseizoen. Je kunt boeken bij de pier of online via 12Go Asia. Gecombineerde bus-ferry biljetten zijn ook beschikbaar voor deur-tot-deur gemak.
+
+### Hoeveel kost eilandhoppen in Thailand?
+
+Budgetreizigers geven rond de **700-1.750 THB (€ 20-50) per dag** uit aan accommodatie, eten en ferrybiljetten. Een tweedaagse eilandhoptrip kost ongeveer **15.000-25.000 THB (€ 400-700)** exclusief internationale vluchten. Eilandprijzen liggen iets hoger dan op het vasteland.
