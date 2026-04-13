@@ -1,0 +1,421 @@
+{
+  "id": 2,
+  "slug": "central",
+  "name": {
+    "en": "Central Thailand",
+    "nl": "Centraal-Thailand",
+    "fr": "Thaïlande centrale",
+    "de": "Zentralthailand",
+    "zh": "泰国中部",
+    "ru": "Центральный Таиланд",
+    "ja": "タイ中部",
+    "ko": "태국 중부",
+    "th": "ภาคกลาง"
+  },
+  "description": {
+    "en": "Central Thailand is the beating heart of the Kingdom — a vast, flat river-delta landscape dominated by the mighty Chao Phraya River system and centred on Bangkok, one of Asia's most dynamic megacities. Home to over 10 million people in the metropolitan area, Bangkok is simultaneously the royal capital, commercial engine, and cultural crossroads of the country. The city's skyline reveals the extraordinary contrast that defines Central Thailand: gleaming glass towers stand alongside gilded temple spires, luxury malls border labyrinthine canals, and world-class restaurants coexist with legendary street food stalls. The Grand Palace complex — constructed from 1782 when Bangkok became the capital — houses the sacred Emerald Buddha and remains the spiritual heart of the nation. Nearby Wat Pho, home to a 46-metre reclining Buddha and the birthplace of traditional Thai massage, is Bangkok's oldest temple. Just 86 km north, Ayutthaya served as the Siamese capital for 417 years (1351–1767) until its destruction by Burmese forces. Its UNESCO-listed ruins — crumbling chedis, headless Buddha statues wrapped in tree roots, and partially standing prangs — make for one of Southeast Asia's most atmospheric historical sites, easily reached as a day trip by train or boat. Two hours west of Bangkok, Kanchanaburi offers a sobering WWII history: the infamous Bridge on the River Kwai, the JEATH War Museum, and the Allied War Cemetery where over 6,900 prisoners of war are buried. Beyond history, Kanchanaburi's Erawan National Park contains a stunning seven-tiered turquoise waterfall. Along the Gulf of Thailand coast, Hua Hin has served as the Thai royal family's preferred seaside retreat since the 1920s, offering wide sandy beaches and the historic Hua Hin Railway Station. Pattaya, 140 km southeast of Bangkok, provides one of Asia's most notorious beach resort experiences.",
+    "nl": "Centraal-Thailand is het kloppende hart van het Koninkrijk — een uitgestrekt, vlak rivierdeltalandschap gedomineerd door de machtige Chao Phraya-rivier en gecentreerd op Bangkok, een van Azië's meest dynamische megasteden. De grootstedelijke regio heeft meer dan 10 miljoen inwoners; Bangkok is gelijktijdig de koninklijke hoofdstad, commerciële motor en cultureel kruispunt van het land. De skyline van de stad openbaart het buitengewone contrast dat Centraal-Thailand definieert: glanzende glazen torens naast vergulde tempelspitsen, luxe winkelcentra naast kronkelende kanalen, en wereldklasse restaurants naast legendarische straateetkraampjes. Het Groot Paleis-complex — gebouwd vanaf 1782 toen Bangkok de hoofdstad werd — herbergt de heilige Smaragden Boeddha. Vlakbij staat Wat Pho, thuisbasis van een 46 meter lang liggende Boeddha en de geboorteplaats van de traditionele Thaise massage. Slechts 86 km naar het noorden diende Ayutthaya 417 jaar lang als Siamese hoofdstad (1351–1767) totdat het werd verwoest door Birmese troepen. De UNESCO-genoteerde ruïnes — afbrokkelende chedi's, hoofdloze Boeddhabeelden omwikkeld in boomwortels — zijn een van Zuidoost-Azië's meest indrukwekkende historische sites. Op twee uur rijden van Bangkok biedt Kanchanaburi een ontroerende Tweede Wereldoorlog-geschiedenis: de beruchte Bridge on the River Kwai, het JEATH Oorlogsmuseum en het geallieerde oorlogskerkhof waar meer dan 6.900 krijgsgevangenen begraven liggen. Het naburige Erawan Nationaal Park bevat een verbluffende zevenlaagse turkooizen waterval.",
+    "fr": "Le cœur de la Thaïlande avec Bangkok l'animée, l'historique Ayutthaya et un accès facile aux plages.",
+    "de": "Das Herz Thailands mit dem pulsierenden Bangkok, dem historischen Ayutthaya und einfachem Zugang zu Stränden.",
+    "zh": "泰国的心脏地带，拥有繁华的曼谷、历史悠久的大城府，以及便捷的海滩交通。",
+    "ru": "Сердце Таиланда с оживлённым Бангкоком, историческим Аюттхаей и удобным доступом к пляжам.",
+    "ja": "活気あふれるバンコク、歴史的なアユタヤ、ビーチへのアクセスも良いタイの中心地。",
+    "ko": "활기찬 방콕, 역사적인 아유타야, 해변으로의 편리한 접근성을 갖춘 태국의 심장부.",
+    "th": "ใจกลางประเทศไทย มีกรุงเทพฯ อันคึกคัก อยุธยาอันเก่าแก่ และเดินทางไปชายหาดได้สะดวก"
+  },
+  "highlights": {
+    "en": [
+      "Bangkok: het Groot Paleis, Wat Pho, Wat Arun en wereldberoemde streetfoodscene in Yaowarat (Chinatown) en Or Tor Kor Markt",
+      "Ayutthaya UNESCO Werelderfgoed: 417 jaar de Siamese hoofdstad, met spectaculaire ruïnes inclusief de boomwortel-omwikkelde Boeddha van Wat Mahathat",
+      "Kanchanaburi: Brug over de River Kwai, Geallieerd Oorlogskerkhof en de zevenlaagse Erawan Waterval in een schilderachtig jungle nationaal park",
+      "Hua Hin: het koninklijke badplaatsje geliefd bij de Thaise koninklijke familie sinds de jaren 1920, met brede stranden en het historische koloniale treinstation",
+      "Bangkoks BTS Skytrain en MRT Metro: Zuidoost-Aziës meest uitgebreide stedelijke spoorwegnetwerk dat de hoofdstad zeer toegankelijk maakt"
+    ],
+    "nl": [
+      "Bangkok: het Groot Paleis, Wat Pho, Wat Arun en wereldberoemde streetfoodscene in Yaowarat (Chinatown) en Or Tor Kor Markt",
+      "Ayutthaya UNESCO Werelderfgoed: 417 jaar de Siamese hoofdstad, met spectaculaire ruïnes inclusief de boomwortel-omwikkelde Boeddha van Wat Mahathat",
+      "Kanchanaburi: Bridge on the River Kwai, Geallieerd Oorlogskerkhof en de zevenlaagse Erawan Waterval in een schilderachtig jungle nationaal park",
+      "Hua Hin: het koninklijke badplaatsje geliefd bij de Thaise koninklijke familie sinds de jaren 1920, met brede stranden en een historisch koloniaal treinstation",
+      "Bangkok's BTS Skytrain en MRT Metro: Zuidoost-Azië's meest uitgebreide stedelijke spoorwegnetwerk"
+    ],
+    "fr": [
+      "Capitale Bangkok",
+      "Sites historiques",
+      "Transports faciles",
+      "Attractions culturelles",
+      "Mélange urbain et historique"
+    ],
+    "de": [
+      "Hauptstadt Bangkok",
+      "Historische Stätten",
+      "Ausgezeichneter Transport",
+      "Kulturelle Attraktionen",
+      "Mix aus urban und historisch"
+    ],
+    "zh": [
+      "首都曼谷",
+      "历史遗迹",
+      "便捷交通",
+      "文化景点",
+      "城市与历史的融合"
+    ],
+    "ru": [
+      "Столица Бангкок",
+      "Исторические достопримечательности",
+      "Удобный транспорт",
+      "Культурные достопримечательности",
+      "Сочетание городского и исторического"
+    ],
+    "ja": [
+      "首都バンコク",
+      "歴史的名所",
+      "便利な交通",
+      "文化的観光スポット",
+      "都市と歴史の融合"
+    ],
+    "ko": [
+      "수도 방콕",
+      "역사 유적지",
+      "편리한 교통",
+      "문화 관광지",
+      "도시와 역사의 조화"
+    ],
+    "th": [
+      "เมืองหลวงกรุงเทพฯ",
+      "แหล่งประวัติศาสตร์",
+      "การเดินทางสะดวก",
+      "แหล่งท่องเที่ยวทางวัฒนธรรม",
+      "ผสมผสานความเป็นเมืองและประวัติศาสตร์"
+    ]
+  },
+  "cities": [
+    "Bangkok",
+    "Ayutthaya",
+    "Pattaya",
+    "Kanchanaburi",
+    "Hua Hin",
+    "Lopburi",
+    "Phitsanulok",
+    "Trat",
+    "Rayong",
+    "Chanthaburi"
+  ],
+  "climate": {
+    "en": "Central Thailand has a tropical monsoon climate divided into three seasons. The hot season (March to May) is brutally warm, with temperatures regularly reaching 36–40°C and high humidity, particularly April which is the hottest month. The rainy season (June to October) brings heavy afternoon showers and occasional flooding in Bangkok's low-lying areas, but also lush greenery and fewer tourists. The cool and dry season (November to February) is the most comfortable, with temperatures averaging 25–30°C and low humidity — this is peak tourist season. Bangkok averages 1,400mm of rainfall per year, most falling June–October. Humidity in Bangkok is high year-round (70–85%), making even the 'cool' season feel warm to visitors from temperate climates. Hua Hin and Pattaya are sometimes less rainy than Bangkok due to their Gulf coast exposure.",
+    "nl": "Centraal-Thailand heeft een tropisch moesson klimaat verdeeld in drie seizoenen. Het hete seizoen (maart tot mei) is vermoeiend warm, met temperaturen die regelmatig de 36–40°C bereiken en hoge vochtigheid, met name april dat de warmste maand is. Het regenseizoen (juni tot oktober) brengt zware middagbuien en occasionele overstromingen in Bangkok's laaggelegen gebieden, maar ook weelderig groen en minder toeristen. Het koele en droge seizoen (november tot februari) is het aangenaamste, met temperaturen van gemiddeld 25–30°C en lage vochtigheid — dit is het hoogseizoen. Bangkok heeft gemiddeld 1.400 mm neerslag per jaar, meest vallend van juni tot oktober. De vochtigheid in Bangkok is het hele jaar hoog (70–85%), waardoor zelfs het 'koele' seizoen warm aanvoelt voor bezoekers uit gematigde klimaten.",
+    "fr": "Chaud (mars-mai), pluvieux (juin-oct), frais et sec (nov-fév)",
+    "de": "Heiß (März-Mai), Regenzeit (Juni-Okt), kühl und trocken (Nov-Feb)",
+    "zh": "炎热（3月-5月），雨季（6月-10月），凉爽干燥（11月-2月）",
+    "ru": "Жарко (март-май), дождливо (июнь-октябрь), прохладно и сухо (ноябрь-февраль)",
+    "ja": "暑い（3月〜5月）、雨季（6月〜10月）、涼しく乾燥（11月〜2月）",
+    "ko": "더움 (3월-5월), 우기 (6월-10월), 시원하고 건조함 (11월-2월)",
+    "th": "ร้อน (มี.ค.-พ.ค.), ฝน (มิ.ย.-ต.ค.), เย็นและแห้ง (พ.ย.-ก.พ.)"
+  },
+  "bestTimeToVisit": {
+    "en": "November to February",
+    "nl": "November tot februari",
+    "fr": "Novembre à février",
+    "de": "November bis Februar",
+    "zh": "11月至2月",
+    "ru": "С ноября по февраль",
+    "ja": "11月から2月",
+    "ko": "11월부터 2월",
+    "th": "พฤศจิกายนถึงกุมภาพันธ์"
+  },
+  "image": "/images/regions/central-thailand.webp",
+  "geography": {
+    "en": "Central Thailand occupies the great lowland basin known as the Central Plains — one of Asia's most fertile agricultural regions, formed by alluvial deposits from the Chao Phraya, Ping, Wang, Yom, and Nan rivers converging from the north. The flat terrain rarely exceeds 20 metres above sea level, making it ideal for the paddy fields that once earned the region the title 'Rice Bowl of Asia.' Bangkok sits at virtually sea level (1.5 metres average), making it vulnerable to seasonal flooding and long-term sea-level rise. The Chao Phraya River, 372 km long, is the region's lifeline, flowing through the heart of Bangkok and historically connecting the capital to Ayutthaya and beyond. An intricate canal (khlong) network extends across the plains — many still used for transport and commerce. To the west, the terrain rises toward the forested hills of Kanchanaburi bordering Myanmar. The Gulf of Thailand coastline stretches east and south, with sandy beach resorts at Hua Hin, Pattaya, Ko Samet, and Ko Chang.",
+    "nl": "Centraal-Thailand beslaat het grote laaglandbekken bekend als de Centrale Vlakte — een van Azië's vruchtbaarste landbouwgebieden, gevormd door aanslibbing van de Chao Phraya, Ping, Wang, Yom en Nan rivieren vanuit het noorden. Het vlakke terrein overschrijdt zelden 20 meter boven zeeniveau, ideaal voor de rijstvelden die de regio ooit de titel 'Rijstschaal van Azië' opleverden. Bangkok ligt op vrijwel zeeniveau (gemiddeld 1,5 meter), waardoor het kwetsbaar is voor seizoensoverstromingen. De Chao Phraya-rivier, 372 km lang, is de levensader van de regio en verbindt de hoofdstad historisch met Ayutthaya. Een ingewikkeld kanalennetwerk (khlong) strekt zich uit over de vlakten. Naar het westen stijgt het terrein naar de beboste heuvels van Kanchanaburi op de grens met Myanmar. De Golf van Thailand-kustlijn strekt zich uit naar het oosten en zuiden met strandresorts in Hua Hin, Pattaya, Ko Samet en Ko Chang.",
+    "fr": "Plaines deltaïques plates le long du fleuve Chao Phraya. Étalement urbain autour de Bangkok avec des sites historiques et des marchés flottants.",
+    "de": "Flache Flussdelta-Ebenen entlang des Chao Phraya. Städtische Ausdehnung um Bangkok mit historischen Stätten und schwimmenden Märkten.",
+    "zh": "沿湄南河的平坦河流三角洲平原。曼谷周边城市扩展，拥有历史遗迹和水上市场。",
+    "ru": "Плоские равнины речной дельты вдоль реки Чаопхрая. Городская застройка вокруг Бангкока с историческими памятниками и плавучими рынками.",
+    "ja": "チャオプラヤー川沿いの平坦な河川デルタ平原。バンコク周辺の都市部には歴史的名所や水上マーケットが点在。",
+    "ko": "짜오프라야강을 따라 형성된 평탄한 하천 삼각주 평원. 방콕 주변의 도시 확장 지역에 역사 유적지와 수상 시장이 있다.",
+    "th": "ที่ราบลุ่มแม่น้ำเจ้าพระยา เมืองขยายตัวรอบกรุงเทพฯ มีแหล่งประวัติศาสตร์และตลาดน้ำ"
+  },
+  "culture": {
+    "en": "Central Thailand — and Bangkok in particular — represents the mainstream of Thai national culture, shaped by the Chakri Dynasty (the royal family that has ruled since 1782) and the Central Thai language that became the country's official tongue. Bangkok is home to the Grand Palace, Wat Phra Kaew (Temple of the Emerald Buddha), and Wat Pho, three of Thailand's most sacred sites. Buddhism pervades daily life: monks in saffron robes collect alms at dawn, spirit houses stand outside every building, and temple festivals punctuate the calendar. Yet Bangkok is also one of Asia's most cosmopolitan cities, with a thriving arts scene, world-renowned restaurants (including many earning MICHELIN stars), luxury shopping malls, underground clubs, and a famously vibrant LGBTQ+ community centred around Silom. The city's Chinatown (Yaowarat), one of the oldest and largest in Asia, reflects the dominant role of Sino-Thai culture in commerce and cuisine. Bangkok's floating markets — particularly Amphawa and Damnoen Saduak — preserve a centuries-old tradition of trading from boats along canal networks. The Thai classical arts (khon masked drama, likay folk theatre, classical dance) find their most refined expression in Bangkok's national theatres and cultural centres.",
+    "nl": "Centraal-Thailand — en Bangkok in het bijzonder — vertegenwoordigt de mainstream van de Thaise nationale cultuur, gevormd door de Chakri-dynastie (de koninklijke familie die regeert sinds 1782) en de Centraal-Thaise taal die de officiële taal van het land werd. Bangkok herbergt het Groot Paleis, Wat Phra Kaew (Tempel van de Smaragden Boeddha) en Wat Pho, drie van Thailands meest heilige plaatsen. Boeddhisme doordringt het dagelijks leven: monniken in saffraankleurige gewaden verzamelen aalmoezen bij dageraad, geestenhuisjes staan bij elk gebouw. Toch is Bangkok ook een van Azië's meest kosmopolitische steden, met een bloeiende kunstscene, wereldberoemde restaurants (inclusief vele met MICHELIN-sterren), luxe winkelcentra en een levendig LGBTQ+-gemeenschap. De Chinatown van Bangkok (Yaowarat), een van de oudste en grootste in Azië, weerspiegelt de dominante rol van de Sino-Thaise cultuur in handel en keuken. Bangkok's drijvende markten — met name Amphawa en Damnoen Saduak — bewaren een eeuwenoude traditie van handel vanuit boten langs kanalennetwerken.",
+    "fr": "Mélange de culture thaïlandaise traditionnelle et de mode de vie cosmopolite moderne. Patrimoine royal et temples bouddhistes aux côtés de gratte-ciel.",
+    "de": "Mix aus traditioneller thailändischer Kultur und modernem kosmopolitischem Lebensstil. Königliches Erbe und buddhistische Tempel neben Wolkenkratzern.",
+    "zh": "传统泰国文化与现代国际化生活方式的融合。皇家遗产和佛教寺庙与摩天大楼并存。",
+    "ru": "Сочетание традиционной тайской культуры и современного космополитичного образа жизни. Королевское наследие и буддийские храмы соседствуют с небоскрёбами.",
+    "ja": "伝統的なタイ文化と現代的なコスモポリタンライフスタイルの融合。王室の遺産と仏教寺院が高層ビルと共存。",
+    "ko": "전통 태국 문화와 현대 국제적 생활방식의 조화. 왕실 유산과 불교 사원이 고층 빌딩과 공존.",
+    "th": "ผสมผสานวัฒนธรรมไทยดั้งเดิมกับวิถีชีวิตสมัยใหม่ มรดกราชวงศ์และวัดพุทธอยู่เคียงข้างตึกระฟ้า"
+  },
+  "cuisine": {
+    "en": "Bangkok and Central Thailand form the world's foremost street food destination. The city boasts two MICHELIN-starred street food stalls (Jay Fai and Raan Jay Fai), numerous MICHELIN-recommended casual restaurants, and an unmatched diversity of casual dining. Pad Thai — stir-fried rice noodles with eggs, tofu or shrimp, bean sprouts, and tamarind sauce — originated as a national dish promoted during World War II and has become Thailand's best-known export. Tom Yum Goong (spicy-sour prawn soup with lemongrass, galangal, and kaffir lime) and Tom Kha Gai (coconut milk chicken soup) are quintessential central Thai soups found everywhere from street carts to fine dining. Gaeng Keow Wan (green curry) uses fresh green chillies and coconut milk in a vivid, aromatic sauce. Mango Sticky Rice (khao niao mamuang) — glutinous rice served with fresh ripe mango and sweetened coconut cream — is the definitive Thai dessert, at its best from April to June when Namrok and Mahachanok mangoes peak in flavour. Yaowarat (Bangkok's Chinatown) is famous for fresh seafood barbecue stalls, roast duck, dim sum, and shark fin soup. Or Tor Kor Market near Chatuchak is considered the highest quality fresh market in Bangkok, essential for tasting fresh tropical fruits.",
+    "nl": "Bangkok en Centraal-Thailand vormen de belangrijkste streetfoodbestemming ter wereld. De stad heeft twee MICHELIN-bestemd straateetplaatsen (Jay Fai en Raan Jay Fai) en een ongeëvenaarde diversiteit aan culinaire opties. Pad Thai — gebakken rijstnoedels met eieren, tofu of garnalen, taugé en tamarindesaus — ontstond als nationaal gerecht tijdens de Tweede Wereldoorlog en is Thailands bekendste exportproduct. Tom Yum Goong (pikant-zure garnaalsoep met citroengras, galangal en kaffirlimoenblaad) en Tom Kha Gai (kokosmelk kippensoep) zijn quintessentieel Centraal-Thaise soepen. Gaeng Keow Wan (groene curry) gebruikt verse groene pepers en kokosmelk. Mango Sticky Rice (khao niao mamuang) — kleverige rijst met verse rijpe mango en gezoete kokosroom — is het definitieve Thaise dessert, op zijn best van april tot juni. Yaowarat (Bangkok's Chinatown) staat bekend om verse zeevruchtenbarbecue, gebraden eend en dim sum.",
+    "fr": "Pad Thai, Tom Yum, curry vert, Mango Sticky Rice. Capitale de la street food avec une cuisine internationale variée à Bangkok.",
+    "de": "Pad Thai, Tom Yum, grünes Curry, Mango Sticky Rice. Street-Food-Hauptstadt mit vielfältiger internationaler Küche in Bangkok.",
+    "zh": "泰式炒河粉、冬阴功、绿咖喱、芒果糯米饭。曼谷是街头美食之都，汇聚多元国际美食。",
+    "ru": "Пад Тай, Том Ям, зелёное карри, манго со сладким рисом. Бангкок — столица уличной еды с разнообразной международной кухней.",
+    "ja": "パッタイ、トムヤム、グリーンカレー、マンゴースティッキーライス。バンコクは多彩な国際料理が楽しめるストリートフードの首都。",
+    "ko": "팟타이, 똠얌, 그린 커리, 망고 스티키 라이스. 방콕은 다양한 국제 요리를 즐길 수 있는 길거리 음식의 수도.",
+    "th": "ผัดไทย ต้มยำ แกงเขียวหวาน ข้าวเหนียวมะม่วง กรุงเทพฯ เป็นเมืองหลวงอาหารริมทางที่มีอาหารนานาชาติหลากหลาย"
+  },
+  "transportation": {
+    "en": "Bangkok has Southeast Asia's most extensive urban rail network. The BTS Skytrain has two lines (Sukhumvit and Silom) covering the main tourist and business districts, while the MRT Blue and Purple Lines add further coverage including the Grand Palace area (Sanam Chai station). The Airport Rail Link connects Suvarnabhumi Airport to central Bangkok in 30 minutes for just 45 baht. Bangkok has two international airports: Suvarnabhumi (BKK) — the main hub handling most international flights — and Don Mueang (DMK), primarily used by low-cost carriers. Taxis are metered and affordable (starting 35 baht), and the Grab app is widely used and reliable. Chao Phraya Express boats and canal boats (khlong boats) provide a scenic and fast alternative to road travel, often faster than taxis during rush hour. For excursions from Bangkok: Ayutthaya is reached by train from Hua Lamphong (90 minutes, 20–100 baht), Kanchanaburi by train (2.5 hours) or bus from Mo Chit terminal, and Hua Hin by air-conditioned bus (3.5 hours). Traffic in Bangkok is notorious — the BTS/MRT is always faster during peak hours (7–9am, 5–8pm).",
+    "nl": "Bangkok heeft Zuidoost-Azië's meest uitgebreide stedelijk spoorwegnetwerk. De BTS Skytrain heeft twee lijnen die de belangrijkste toeristische en zakelijke wijken bedekken, terwijl de MRT Blauwe en Paarse Lijn verdere dekking biedt inclusief het Groot Paleis-gebied. De Airport Rail Link verbindt Suvarnabhumi Airport met centraal Bangkok in 30 minuten voor slechts 45 baht. Bangkok heeft twee internationale luchthavens: Suvarnabhumi (BKK) — de belangrijkste hub — en Don Mueang (DMK), voornamelijk voor goedkope maatschappijen. Taxi's zijn verplicht de meter te gebruiken (vanaf 35 baht), en de Grab-app werkt betrouwbaar. Chao Phraya Express-boten en kanaalbootjes bieden een schilderachtig en snel alternatief voor wegverkeer. Voor uitstapjes vanuit Bangkok: Ayutthaya bereikbaar per trein (90 minuten, 20–100 baht), Kanchanaburi per trein (2,5 uur) of bus, en Hua Hin per airconditioned bus (3,5 uur). Het verkeer in Bangkok staat berucht — de BTS/MRT is altijd sneller tijdens spitsuren.",
+    "fr": "Excellent BTS/MRT à Bangkok. Trains vers Ayutthaya. Bus et taxis largement disponibles. Aéroports Don Mueang et Suvarnabhumi.",
+    "de": "Ausgezeichnetes BTS/MRT in Bangkok. Züge nach Ayutthaya. Busse und Taxis weithin verfügbar. Flughäfen Don Mueang und Suvarnabhumi.",
+    "zh": "曼谷拥有优秀的BTS/MRT轻轨系统。火车可达大城府。巴士和出租车随处可见。廊曼机场和素万那普机场。",
+    "ru": "Отличное метро BTS/MRT в Бангкоке. Поезда до Аюттхаи. Автобусы и такси повсеместно доступны. Аэропорты Дон Муанг и Суварнабхуми.",
+    "ja": "バンコクにはBTS/MRTの優れた交通網。アユタヤへの列車あり。バスとタクシーが広く利用可能。ドンムアン空港とスワンナプーム空港。",
+    "ko": "방콕의 우수한 BTS/MRT 교통망. 아유타야행 기차. 버스와 택시 널리 이용 가능. 돈므앙 공항과 수완나품 공항.",
+    "th": "BTS/MRT ในกรุงเทพฯ ดีเยี่ยม รถไฟไปอยุธยา รถบัสและแท็กซี่มีทั่วไป สนามบินดอนเมืองและสุวรรณภูมิ"
+  },
+  "budgetInfo": {
+    "en": "Bangkok and Central Thailand are the most expensive part of Thailand for travellers, though still highly affordable by Western standards. Budget travellers ($30–50/day) can find guesthouses in areas like Khao San Road or Silom for 400–700 baht/night, eat street food for 50–100 baht per meal, and ride the BTS/MRT for 16–59 baht per trip. Mid-range travellers ($50–100/day) can stay at comfortable 3-star hotels (1,500–3,000 baht/night), dine at quality restaurants, and join day tours. Bangkok luxury hotels — Mandarin Oriental, Peninsula, Capella, Rosewood — offer world-class experiences from $200–$600+/night. Key attraction costs: Grand Palace 500 baht, Wat Pho 200 baht, most national museums 200 baht. Day trips to Ayutthaya are budget-friendly (train under 100 baht, entry around 50–220 baht per temple). Shopping at Chatuchak Weekend Market (15,000 stalls) is ideal for budget souvenirs, while high-end malls like IconSiam and Siam Paragon cater to luxury shoppers.",
+    "nl": "Bangkok en Centraal-Thailand zijn het duurste deel van Thailand voor reizigers, maar nog steeds zeer betaalbaar naar westerse maatstaven. Budgetreizigers ($30–50/dag) vinden slaapzalen in gebieden zoals Khao San Road of Silom voor 400–700 baht/nacht, eten straatvoedsel voor 50–100 baht per maaltijd en reizen per BTS/MRT voor 16–59 baht per rit. Middenklasse reizigers ($50–100/dag) kunnen verblijven in comfortabele 3-sterrenhotels (1.500–3.000 baht/nacht). Bangkok luxehotels — Mandarin Oriental, Peninsula, Capella — bieden wereldklasse ervaringen vanaf $200–$600+/nacht. Bezienswaardigheidskosten: Groot Paleis 500 baht, Wat Pho 200 baht. Dagtrips naar Ayutthaya zijn budgetvriendelijk (trein onder 100 baht). Chatuchak Weekend Market (15.000 kraampjes) is ideaal voor budgetbestedingen.",
+    "fr": "Budget : $30-50/jour. Milieu de gamme : $50-100/jour. Luxe : $100+/jour. Bangkok est plus cher que les autres régions.",
+    "de": "Budget: $30-50/Tag. Mittelklasse: $50-100/Tag. Luxus: $100+/Tag. Bangkok ist teurer als andere Regionen.",
+    "zh": "经济型：$30-50/天。中档：$50-100/天。豪华：$100+/天。曼谷消费高于其他地区。",
+    "ru": "Бюджет: $30-50/день. Средний класс: $50-100/день. Люкс: $100+/день. Бангкок дороже других регионов.",
+    "ja": "格安：$30-50/日。中級：$50-100/日。高級：$100+/日。バンコクは他の地域より物価が高い。",
+    "ko": "저예산: $30-50/일. 중급: $50-100/일. 고급: $100+/일. 방콕은 다른 지역보다 물가가 높음.",
+    "th": "ประหยัด: $30-50/วัน ปานกลาง: $50-100/วัน หรูหรา: $100+/วัน กรุงเทพฯ แพงกว่าภูมิภาคอื่น"
+  },
+  "topActivities": {
+    "en": [
+      "Groot Paleis en Wat Phra Kaew: de meest bezochte attractie in Thailand, thuis van de heilige Smaragden Boeddha gehouwen uit één stuk jade",
+      "Wat Pho: Bangkoks oudste tempel met de gigantische 46 meter liggende Boeddha en de school voor traditionele Thaise massage — je kunt ter plaatse een massage krijgen",
+      "Wat Arun (Tempel van de Dageraad): iconische tempel aan de rivier met ingewikkelde porseleinen mozaïekspitsen, het mooist te zien vanaf de overkant bij zonsondergang",
+      "Ayutthaya dagtrip: huur een fiets om de ruïnes van het UNESCO historische park te verkennen, inclusief Wat Mahathat met het beroemde boomwortel-omvatte Boeddhahoofd",
+      "Chatuchak Weekendmarkt: Zuidoost-Aziës grootste markt met meer dan 15.000 kraampjes over 27 secties — van antiek tot levende dieren",
+      "Bangkok streetfoodtour: eet je een weg door Yaowarat Road in Chinatown, Ratchawet Markt en Sukhumvit Soi 38",
+      "Chao Phraya riviercruise: avonddinercruises of overdag snelsnelboten langs tempels, paleizen en traditionele paalwoningen",
+      "Amphawa drijvende markt (weekendavonden): traditionele markt aan het kanaal met vers gekookte zeevruchten van drijvende boten, met vuurvlieg boottochten 's nachts",
+      "Maeklong Spoorwegmarkt: bekijk hoe verkopers hun luifels intrekken als een trein recht door de markt rijdt, en dan meteen weer opzetten"
+    ],
+    "nl": [
+      "Groot Paleis en Wat Phra Kaew: de meest bezochte site van Thailand, thuisbasis van de heilige Smaragden Boeddha gesneden uit één stuk jade",
+      "Wat Pho: Bangkok's oudste tempel met de gigantische 46 meter liggende Boeddha en de school voor traditionele Thaise massage",
+      "Wat Arun (Tempel van de Dageraad): iconische riviertempel met ingewikkelde porseleinen moza-spitsen, het mooist gezien vanaf de overkant bij zonsondergang",
+      "Ayutthaya dagtrip: huur een fiets om de UNESCO historische park ruïnes te verkennen, inclusief Wat Mahathat met het beroemde boomwortel-Boeddhahoofd",
+      "Chatuchak Weekendmarkt: Zuidoost-Azië's grootste markt met meer dan 15.000 kraampjes verspreid over 27 secties",
+      "Bangkok streetfood tour: eet je een weg door Chinatown's Yaowarat Road, Ratchawat Markt en Sukhumvit Soi 38",
+      "Chao Phraya riviercruise: avonddinerscruises of overdag expressboten langs tempels, paleizen en traditionele paalwoningen",
+      "Amphawa drijvende markt (weekendavonden): traditionele kanaalmarkt met vers gekookte zeevruchten van drijvende boten",
+      "Maeklong Spoorwegmarkt: zie hoe verkopers hun luifels terugtrekken terwijl een trein direct door de markt rijdt"
+    ],
+    "fr": [
+      "Visite du Grand Palace, marchés flottants, visites de temples, circuits street food, shopping, croisières fluviales, excursions à Ayutthaya"
+    ],
+    "de": [
+      "Grand Palace besuchen, schwimmende Märkte, Tempeltouren, Street-Food-Touren, Shopping, Flusskreuzfahrten, Tagesausflüge nach Ayutthaya"
+    ],
+    "zh": [
+      "参观大皇宫、水上市场、寺庙巡游、街头美食之旅、购物、河上巡游、大城府一日游"
+    ],
+    "ru": [
+      "Посещение Большого дворца, плавучие рынки, экскурсии по храмам, гастрономические туры по уличной еде, шопинг, речные круизы, однодневные поездки в Аюттхаю"
+    ],
+    "ja": [
+      "王宮見学、水上マーケット、寺院巡り、ストリートフードツアー、ショッピング、リバークルーズ、アユタヤ日帰り旅行"
+    ],
+    "ko": [
+      "왕궁 방문, 수상 시장, 사원 투어, 길거리 음식 투어, 쇼핑, 리버 크루즈, 아유타야 당일치기"
+    ],
+    "th": [
+      "ชมพระบรมมหาราชวัง, ตลาดน้ำ, ทัวร์วัด, ทัวร์อาหารริมทาง, ช้อปปิ้ง, ล่องเรือแม่น้ำ, เที่ยวอยุธยาวันเดียว"
+    ]
+  },
+  "hiddenGems": {
+    "en": [
+      "Amphawa drijvende markt, Bang Krachao groene long, Maeklong Treinmarkt, Wat Paknam glazen chedi, Khlong Lat Mayom"
+    ],
+    "nl": [
+      "Amphawa drijvende markt, Bang Krachao groene long, Train Market Maeklong, Wat Paknam glazen chedi, Khlong Lat Mayom"
+    ],
+    "fr": [
+      "Marché flottant d'Amphawa, poumon vert de Bang Krachao, Train Market Maeklong, chedi de verre de Wat Paknam, Khlong Lat Mayom"
+    ],
+    "de": [
+      "Amphawa schwimmender Markt, Bang Krachao grüne Lunge, Train Market Maeklong, Wat Paknam Glaschedi, Khlong Lat Mayom"
+    ],
+    "zh": [
+      "安帕瓦水上市场、邦喀造绿肺、美功铁道市场、帕南寺玻璃佛塔、空叻玛永水上市场"
+    ],
+    "ru": [
+      "Плавучий рынок Амфава, зелёные лёгкие Банг Крачао, железнодорожный рынок Мэклонг, стеклянная чеди Ват Пакнам, Клонг Лат Майом"
+    ],
+    "ja": [
+      "アンパワー水上マーケット、バーンカチャオの緑の肺、メークロン線路市場、ワットパクナムのガラス仏塔、クローンラットマヨム"
+    ],
+    "ko": [
+      "암파와 수상 시장, 방꺼짜오 녹색 허파, 매끌렁 기찻길 시장, 왓빠끄남 유리 체디, 클롱랏마욤"
+    ],
+    "th": [
+      "ตลาดน้ำอัมพวา, บางกะเจ้าปอดของกรุงเทพฯ, ตลาดร่มหุบแม่กลอง, วัดปากน้ำเจดีย์แก้ว, คลองลัดมะยม"
+    ]
+  },
+  "localFestivals": {
+    "en": [
+      "Songkran (april), Loi Krathong (november), Chinees Nieuwjaar (jan/feb), koninklijke ceremonies, Golden Mount Fair"
+    ],
+    "nl": [
+      "Songkran (april), Loi Krathong (november), Chinees Nieuwjaar (jan/feb), koninklijke ceremonies, Golden Mount Fair"
+    ],
+    "fr": [
+      "Songkran (avril), Loi Krathong (novembre), Nouvel An chinois (jan/fév), cérémonies royales, Golden Mount Fair"
+    ],
+    "de": [
+      "Songkran (April), Loi Krathong (November), Chinesisches Neujahr (Jan/Feb), königliche Zeremonien, Golden Mount Fair"
+    ],
+    "zh": [
+      "泼水节（4月）、水灯节（11月）、春节（1月/2月）、皇家典礼、金山寺庙会"
+    ],
+    "ru": [
+      "Сонгкран (апрель), Лой Кратонг (ноябрь), Китайский Новый год (янв/фев), королевские церемонии, ярмарка Золотой горы"
+    ],
+    "ja": [
+      "ソンクラーン（4月）、ロイクラトン（11月）、旧正月（1月/2月）、王室式典、ゴールデンマウント祭り"
+    ],
+    "ko": [
+      "송끄란 (4월), 로이끄라통 (11월), 설날 (1월/2월), 왕실 의식, 골든마운트 축제"
+    ],
+    "th": [
+      "สงกรานต์ (เมษายน), ลอยกระทง (พฤศจิกายน), ตรุษจีน (ม.ค./ก.พ.), พระราชพิธี, งานวัดภูเขาทอง"
+    ]
+  },
+  "travelTips": {
+    "en": [
+      "Gebruik altijd de BTS Skytrain of MRT tijdens spitsuren (7–9u en 17–20u) — Bangkok verkeer kan volledig vastlopen en een taxirit van 5 km kan meer dan een uur duren",
+      "Bij het Groot Paleis wordt de kledingcode strikt gehandhaafd: schouders en knieën moeten bedekt zijn. Als je onvoldoende gekleed arriveert, zijn sarongverhuur beschikbaar bij de poort — verkopers buiten die 'gratis sarongs' aanbieden zijn oplichters die je proberen om te leiden",
+      "Accepteer nooit 'behulpzame' vreemden bij grote tempels die zeggen dat de attractie gesloten is voor een 'speciale ceremonie' — dit is Bangkoks beruchtste toeristenscam, bedoeld om je naar overpriced juwelen- of souvenirwinkels te brengen",
+      "Alle taxi's moeten volgens de wet de meter gebruiken — als een chauffeur weigert, stap dan uit en neem een andere; metertarieven zijn zeer betaalbaar (50–150 baht voor de meeste ritten in de binnenstad)",
+      "Neem contant geld mee voor streetfood en markten — veel kleine verkopers accepteren geen kaarten, hoewel grotere restaurants en 7-Eleven winkels contactloze betalingen accepteren",
+      "De Chao Phraya Tourist Boat (blauwe vlag) biedt een hele dag hop-on hop-off service voor 200 baht, die alle grote bezienswaardigheden aan de rivier verbindt inclusief Wat Pho, Wat Arun en het gebied rond het Groot Paleis",
+      "Boek op je eerste dag een kookcursus — het verbetert je vermogen om authentieke gerechten te herkennen en te bestellen gedurende je hele reis dramatisch"
+    ],
+    "nl": [
+      "Gebruik altijd de BTS Skytrain of MRT tijdens spitsuren (7–9u en 17–20u) — Bangkok-verkeer kan volledig vastlopen en een taxirit van 5 km kan meer dan een uur duren",
+      "Bij het Groot Paleis wordt de kledingcode strikt gehandhaafd: schouders en knieën moeten bedekt zijn. Als u onvoldoende gekleed aankomt, zijn sarong-verhuren beschikbaar bij de poort — verkopers buiten die 'gratis sarongs' aanbieden zijn oplichters",
+      "Accepteer nooit 'behulpzame' vreemdelingen bij grote tempels die u vertellen dat de site gesloten is voor een 'speciale ceremonie' — dit is Bangkok's beruchtigste toeristische oplichting",
+      "Alle taxi's moeten wettelijk de meter gebruiken — als een bestuurder weigert, stap dan uit en zoek een andere; gemeten tarieven zijn zeer betaalbaar",
+      "Draag contant geld voor straatvoedsel en markten — veel kleine verkopers accepteren geen kaarten",
+      "De Chao Phraya Tourist Boat (blauwe vlag) biedt een hele dag hop-on/hop-off service voor 200 baht en verbindt alle grote riviersites",
+      "Boek een kookles op uw eerste dag — het verbetert dramatisch uw vermogen om authentieke gerechten te identificeren en te bestellen"
+    ],
+    "fr": [
+      "Utilisez le BTS/MRT pour éviter les embouteillages. Négociez les tarifs de taxi. Restez hydraté. Habillez-vous modestement pour les temples. Méfiez-vous des arnaques."
+    ],
+    "de": [
+      "Nutzen Sie BTS/MRT um Staus zu vermeiden. Handeln Sie Taxipreise aus. Trinken Sie genug. Kleiden Sie sich bescheiden für Tempel. Vorsicht vor Betrug."
+    ],
+    "zh": [
+      "乘坐BTS/MRT避开拥堵。协商出租车价格。注意补水。参观寺庙着装端庄。谨防诈骗。"
+    ],
+    "ru": [
+      "Используйте BTS/MRT, чтобы избежать пробок. Торгуйтесь за стоимость такси. Пейте больше воды. Одевайтесь скромно для посещения храмов. Остерегайтесь мошенников."
+    ],
+    "ja": [
+      "渋滞回避にBTS/MRTを活用。タクシー料金は交渉を。水分補給を忘れずに。寺院では控えめな服装で。詐欺に注意。"
+    ],
+    "ko": [
+      "교통 체증을 피하려면 BTS/MRT를 이용하세요. 택시 요금은 흥정하세요. 수분 보충을 잊지 마세요. 사원에서는 단정한 복장을 갖추세요. 사기에 주의하세요."
+    ],
+    "th": [
+      "ใช้ BTS/MRT เลี่ยงรถติด ต่อรองค่าแท็กซี่ ดื่มน้ำให้เพียงพอ แต่งกายสุภาพเข้าวัด ระวังมิจฉาชีพ"
+    ]
+  },
+  "whatToPack": {
+    "en": [
+      "Lichte ademende kleding, comfortabele wandelschoenen, regenjas, bescheiden tempelkleding, mondkapje tegen luchtvervuiling, handdesinfectiemiddel"
+    ],
+    "nl": [
+      "Lichte ademende kleding, comfortabele wandelschoenen, regenjas, bescheiden tempelkleding, mondkapje tegen luchtvervuiling, handgel"
+    ],
+    "fr": [
+      "Vêtements légers et respirants, chaussures de marche confortables, veste de pluie, tenue modeste pour les temples, masque anti-pollution, gel hydroalcoolique"
+    ],
+    "de": [
+      "Leichte atmungsaktive Kleidung, bequeme Wanderschuhe, Regenjacke, bescheidene Tempelkleidung, Atemschutzmaske gegen Luftverschmutzung, Handdesinfektionsmittel"
+    ],
+    "zh": [
+      "轻薄透气衣物、舒适的步行鞋、雨衣、寺庙端庄着装、防雾霾口罩、免洗洗手液"
+    ],
+    "ru": [
+      "Лёгкая дышащая одежда, удобная обувь для прогулок, дождевик, скромная одежда для храмов, маска от загрязнения воздуха, антисептик для рук"
+    ],
+    "ja": [
+      "軽くて通気性の良い服、歩きやすい靴、レインジャケット、寺院用の控えめな服装、大気汚染マスク、手指消毒剤"
+    ],
+    "ko": [
+      "가볍고 통기성 좋은 옷, 편한 워킹화, 레인 재킷, 사원용 단정한 복장, 미세먼지 마스크, 손 소독제"
+    ],
+    "th": [
+      "เสื้อผ้าเบาระบายอากาศ, รองเท้าเดินสบาย, เสื้อกันฝน, ชุดสุภาพสำหรับเข้าวัด, หน้ากากกันฝุ่น, เจลล้างมือ"
+    ]
+  },
+  "seo": {
+    "metaTitle": {
+      "en": "Central Thailand Travel Guide 2026 | Go2Thailand",
+      "nl": "Centraal-Thailand Reisgids 2026 | Go2Thailand",
+      "fr": "Guide de voyage Thaïlande centrale 2026 | Go2Thailand",
+      "de": "Zentralthailand Reiseführer 2026 | Go2Thailand",
+      "zh": "泰国中部旅游指南2026 | Go2Thailand",
+      "ru": "Путеводитель по Центральному Таиланду 2026 | Go2Thailand",
+      "ja": "タイ中部旅行ガイド2026 | Go2Thailand",
+      "ko": "태국 중부 여행 가이드 2026 | Go2Thailand",
+      "th": "คู่มือเที่ยวภาคกลาง 2026 | Go2Thailand"
+    },
+    "metaDescription": {
+      "en": "Central Thailand travel guide 2026. Best cities, attractions, climate, and travel tips for Bangkok, Ayutthaya, Kanchanaburi and more.",
+      "nl": "Centraal-Thailand reisgids 2026. Beste steden, attracties, klimaat en reistips voor Bangkok, Ayutthaya, Kanchanaburi en meer.",
+      "fr": "Guide de voyage Thaïlande centrale 2026. Meilleures villes, attractions, climat et conseils de voyage pour Bangkok, Ayutthaya, Kanchanaburi et plus.",
+      "de": "Zentralthailand Reiseführer 2026. Beste Städte, Sehenswürdigkeiten, Klima und Reisetipps für Bangkok, Ayutthaya, Kanchanaburi und mehr.",
+      "zh": "泰国中部旅游指南2026。曼谷、大城府、北碧等最佳城市、景点、气候和旅行攻略。",
+      "ru": "Путеводитель по Центральному Таиланду 2026. Лучшие города, достопримечательности, климат и советы для Бангкока, Аюттхаи, Канчанабури и других.",
+      "ja": "タイ中部旅行ガイド2026。バンコク、アユタヤ、カンチャナブリーなどのおすすめ都市、観光スポット、気候、旅行のヒント。",
+      "ko": "태국 중부 여행 가이드 2026. 방콕, 아유타야, 깐짜나부리 등 추천 도시, 관광지, 기후, 여행 팁.",
+      "th": "คู่มือเที่ยวภาคกลางประเทศไทย 2026 เมืองน่าเที่ยว สถานที่ท่องเที่ยว สภาพอากาศ และเคล็ดลับการเดินทางสำหรับกรุงเทพฯ อยุธยา กาญจนบุรี และอื่นๆ"
+    }
+  },
+  "categories": {
+    "attractions": {
+      "en": "Top attractions in Central Thailand",
+      "nl": "Top bezienswaardigheden in Centraal-Thailand",
+      "fr": "Principales attractions en Thaïlande centrale",
+      "de": "Top-Sehenswürdigkeiten in Zentralthailand",
+      "zh": "泰国中部热门景点",
+      "ru": "Лучшие достопримечательности Центрального Таиланда",
+      "ja": "タイ中部の人気観光スポット",
+      "ko": "태국 중부 인기 관광지",
+      "th": "สถานที่ท่องเที่ยวยอดนิยมในภาคกลาง"
+    },
+    "cities": {
+      "en": "Best cities to visit in Central Thailand",
+      "nl": "Beste steden om te bezoeken in Centraal-Thailand",
+      "fr": "Meilleures villes à visiter en Thaïlande centrale",
+      "de": "Beste Städte in Zentralthailand",
+      "zh": "泰国中部最佳旅游城市",
+      "ru": "Лучшие города Центрального Таиланда",
+      "ja": "タイ中部のおすすめ都市",
+      "ko": "태국 중부 추천 도시",
+      "th": "เมืองน่าเที่ยวในภาคกลาง"
+    },
+    "climate": {
+      "en": "Climate and weather in Central Thailand",
+      "nl": "Klimaat en weer in Centraal-Thailand",
+      "fr": "Climat et météo en Thaïlande centrale",
+      "de": "Klima und Wetter in Zentralthailand",
+      "zh": "泰国中部气候与天气",
+      "ru": "Климат и погода в Центральном Таиланде",
+      "ja": "タイ中部の気候と天気",
+      "ko": "태국 중부 기후와 날씨",
+      "th": "สภาพอากาศและภูมิอากาศภาคกลาง"
+    }
+  },
+  "tags": [
+    "Thailand",
+    "regio",
+    "reizen",
+    "toerisme",
+    "gids",
+    "centraal"
+  ]
+}

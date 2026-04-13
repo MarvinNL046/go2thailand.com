@@ -1,0 +1,596 @@
+{
+  "slug": "5-days-bangkok-central",
+  "title": {
+    "en": "5 Days Bangkok & Ayutthaya: Central Thailand Explorer",
+    "nl": "5 Dagen Bangkok & Ayutthaya: Centraal Thailand Verkenner"
+  },
+  "duration": 5,
+  "region": "centraal",
+  "budgetLevel": "alle",
+  "description": {
+    "en": "Combine Bangkok's electric energy with the ancient ruins of Ayutthaya in this 5-day Central Thailand itinerary. Explore world-class temples, feast on legendary street food, and step back in time at Thailand's former capital.",
+    "nl": "Combineer de elektrische energie van Bangkok met de oude ruines van Ayutthaya in dit 5-daagse Centraal-Thailand reisschema. Verken wereldklasse tempels, feest op legendarisch straateten en stap terug in de tijd bij Thailand's voormalige hoofdstad."
+  },
+  "image": "/images/cities/bangkok/downtown-bangkok.webp",
+  "highlights": [
+    "Grand Palace",
+    "Chatuchak Market",
+    "Ayutthaya Historical Park",
+    "Wat Mahathat",
+    "Floating Market",
+    "Chinatown"
+  ],
+  "cities": [
+    "bangkok",
+    "ayutthaya"
+  ],
+  "budget": {
+    "budget": {
+      "total": "$200-300",
+      "perDay": "$40-60",
+      "currency": "THB",
+      "totalThb": "7,000-10,500"
+    },
+    "midrange": {
+      "total": "$500-800",
+      "perDay": "$100-160",
+      "currency": "THB",
+      "totalThb": "17,500-28,000"
+    },
+    "luxury": {
+      "total": "$1,200-2,000",
+      "perDay": "$240-400",
+      "currency": "THB",
+      "totalThb": "42,000-70,000"
+    }
+  },
+  "bestTimeToVisit": "November tot februari",
+  "days": [
+    {
+      "day": 1,
+      "title": {
+        "en": "Arrive in Bangkok & Grand Palace Area",
+        "nl": "Aankomst in Bangkok & Grand Palace Gebied"
+      },
+      "city": "bangkok",
+      "activities": [
+        {
+          "name": {
+            "en": "Grand Palace & Wat Phra Kaew",
+            "nl": "Grand Palace & Wat Phra Kaew"
+          },
+          "duration": "2-3 uur",
+          "cost": "500 (€14)",
+          "type": "cultureel",
+          "tip": {
+            "en": "Arrive at opening (8:30 AM). The Emerald Buddha is Thailand's most sacred Buddha image. Dress modestly or rent clothing at the entrance.",
+            "nl": "Kom bij opening (8:30). De Smaragden Boeddha is het heiligste Boeddhabeeld van Thailand. Kleed je bescheiden of huur kleding bij de ingang."
+          }
+        },
+        {
+          "name": {
+            "en": "Wat Pho (Reclining Buddha)",
+            "nl": "Wat Pho (Liggende Boeddha)"
+          },
+          "duration": "1,5 uur",
+          "cost": "200 (€6)",
+          "type": "cultureel",
+          "tip": {
+            "en": "Home to the 46-meter reclining Buddha. Also the birthplace of traditional Thai massage - treat yourself to one here (420 baht/hour).",
+            "nl": "Thuisbasis van de 46 meter lange liggende Boeddha. Ook de geboorteplaats van traditionele Thaise massage - trakteer jezelf hier (420 baht/uur)."
+          }
+        },
+        {
+          "name": {
+            "en": "Wat Arun (Temple of Dawn)",
+            "nl": "Wat Arun (Tempel van de Dageraad)"
+          },
+          "duration": "1 uur",
+          "cost": "100 (€3)",
+          "type": "cultureel",
+          "tip": {
+            "en": "Cross the river by ferry (4 baht). Climb the steep central prang for spectacular river views.",
+            "nl": "Steek de rivier over per veerboot (4 baht). Beklim de steile centrale prang voor spectaculair uitzicht over de rivier."
+          }
+        },
+        {
+          "name": {
+            "en": "Chao Phraya River Boat Tour",
+            "nl": "Chao Phraya Rivier Boottocht"
+          },
+          "duration": "1-2 uur",
+          "cost": "15-50 (€0,45-1,40) voor openbare boot",
+          "type": "ervaring",
+          "tip": {
+            "en": "Take the Chao Phraya Express Boat for a cheap river tour. The orange flag boat (15 baht) stops at all major piers.",
+            "nl": "Neem de Chao Phraya Express Boot voor een goedkope rivier tour. De oranje vlag boot (15 baht) stopt bij alle grote pieren."
+          }
+        }
+      ],
+      "meals": {
+        "breakfast": {
+          "en": "Jok (rice porridge) from a street vendor near your hotel (40-60 baht)",
+          "nl": "Jok (rijstpap) van een straatverkoper bij je hotel (40-60 baht)"
+        },
+        "lunch": {
+          "en": "Pad Thai at Thipsamai near the Grand Palace area (60-100 baht)",
+          "nl": "Pad Thai bij Thipsamai bij het Grand Palace gebied (60-100 baht)"
+        },
+        "dinner": {
+          "en": "Riverside dinner at Eathai at Central Embassy or Supanniga Eating Room (300-600 baht)",
+          "nl": "Diner aan de rivier bij Eathai in Central Embassy of Supanniga Eating Room (300-600 baht)"
+        }
+      },
+      "accommodation": {
+        "budget": {
+          "en": "Hostel on Khao San Road (400-600/night)",
+          "nl": "Hostel aan Khao San Road (400-600/nacht)"
+        },
+        "midrange": {
+          "en": "Boutique hotel in Banglamphu (1,500-3,000/night)",
+          "nl": "Boetiekhotel in Banglamphu (1.500-3.000/nacht)"
+        },
+        "luxury": {
+          "en": "The Peninsula Bangkok (8,000-15,000/night)",
+          "nl": "The Peninsula Bangkok (8.000-15.000/nacht)"
+        }
+      },
+      "transport": {
+        "en": "Airport Rail Link + BTS (45 baht) or taxi from airport (200-400 baht + tolls).",
+        "nl": "Airport Rail Link + BTS (45 baht) of taxi vanaf vliegveld (200-400 baht + tol)."
+      }
+    },
+    {
+      "day": 2,
+      "title": {
+        "en": "Markets & Modern Bangkok",
+        "nl": "Markten & Modern Bangkok"
+      },
+      "city": "bangkok",
+      "activities": [
+        {
+          "name": {
+            "en": "Chatuchak Weekend Market",
+            "nl": "Chatuchak Weekendmarkt"
+          },
+          "duration": "3-4 uur",
+          "cost": "Gratis entree",
+          "type": "winkelen",
+          "tip": {
+            "en": "15,000+ stalls open Sat-Sun. Weekdays visit the smaller Or Tor Kor Market next door for premium Thai produce and food.",
+            "nl": "15.000+ kraampjes open za-zo. Doordeweeks bezoek de kleinere Or Tor Kor Markt ernaast voor premium Thaise producten en eten."
+          }
+        },
+        {
+          "name": {
+            "en": "Jim Thompson House Museum",
+            "nl": "Jim Thompson Huis Museum"
+          },
+          "duration": "1 uur",
+          "cost": "200 (€6)",
+          "type": "cultureel",
+          "tip": {
+            "en": "Beautiful Thai silk merchant's house along a canal. Guided tours in English available every 20 minutes.",
+            "nl": "Prachtig huis van een Thaise zijdehandelaar langs een kanaal. Rondleidingen in het Engels elke 20 minuten."
+          }
+        },
+        {
+          "name": {
+            "en": "Siam Area Shopping & Street Food",
+            "nl": "Siam Gebied Winkelen & Straateten"
+          },
+          "duration": "2-3 uur",
+          "cost": "Gratis (winkelen extra)",
+          "type": "winkelen",
+          "tip": {
+            "en": "Visit Siam Paragon, MBK Center, or Siam Discovery for air-conditioned shopping. Food courts offer great cheap eats (50-100 baht).",
+            "nl": "Bezoek Siam Paragon, MBK Center of Siam Discovery voor winkelen met airco. Food courts bieden geweldig goedkoop eten (50-100 baht)."
+          }
+        },
+        {
+          "name": {
+            "en": "Chinatown (Yaowarat) Evening Food Tour",
+            "nl": "Chinatown (Yaowarat) Avond Foodtour"
+          },
+          "duration": "2-3 uur",
+          "cost": "200-500 (€6-14) voor eten",
+          "type": "eten",
+          "tip": {
+            "en": "Best after 6 PM when stalls open up. Must-try: grilled seafood on Soi Texas, rolled ice cream, and shark fin soup alternatives.",
+            "nl": "Best na 18:00 wanneer kraampjes opengaan. Must-try: gegrilde zeevruchten op Soi Texas, gerolde ijsjes en haaienvinnensoep alternatieven."
+          }
+        }
+      ],
+      "meals": {
+        "breakfast": {
+          "en": "Toast and Thai iced tea at a local cafe (60-100 baht)",
+          "nl": "Toast en Thaise ijsthee bij een lokaal cafe (60-100 baht)"
+        },
+        "lunch": {
+          "en": "Food court at MBK or Siam Paragon (50-150 baht per dish)",
+          "nl": "Food court bij MBK of Siam Paragon (50-150 baht per gerecht)"
+        },
+        "dinner": {
+          "en": "Yaowarat street food crawl - budget 300-500 baht for a full feast",
+          "nl": "Yaowarat streetfood tour - budget 300-500 baht voor een volledig feest"
+        }
+      },
+      "accommodation": {
+        "budget": {
+          "en": "Hostel near Khao San or Chinatown (400-600/night)",
+          "nl": "Hostel bij Khao San of Chinatown (400-600/nacht)"
+        },
+        "midrange": {
+          "en": "Hotel in Siam or Sukhumvit area (1,500-3,500/night)",
+          "nl": "Hotel in Siam of Sukhumvit gebied (1.500-3.500/nacht)"
+        },
+        "luxury": {
+          "en": "Siam Kempinski Hotel Bangkok (7,000-14,000/night)",
+          "nl": "Siam Kempinski Hotel Bangkok (7.000-14.000/nacht)"
+        }
+      },
+      "transport": {
+        "en": "BTS Skytrain all day. 1-day pass: 140 baht. Rabbit card recommended.",
+        "nl": "BTS Skytrain de hele dag. Dagpas: 140 baht. Rabbit kaart aanbevolen."
+      }
+    },
+    {
+      "day": 3,
+      "title": {
+        "en": "Floating Market & Khao San Road",
+        "nl": "Drijvende Markt & Khao San Road"
+      },
+      "city": "bangkok",
+      "activities": [
+        {
+          "name": {
+            "en": "Damnoen Saduak Floating Market",
+            "nl": "Damnoen Saduak Drijvende Markt"
+          },
+          "duration": "4 uur (inclusief vervoer)",
+          "cost": "200 (€6) boot + eten",
+          "type": "cultureel",
+          "tip": {
+            "en": "Depart at 6-7 AM to beat crowds. Book a tour or hire a private taxi (1,500-2,000 baht return). Alternatively visit Amphawa on weekends.",
+            "nl": "Vertrek om 6-7 uur om drukte te vermijden. Boek een tour of huur een privetaxi (1.500-2.000 baht retour). Bezoek anders Amphawa in het weekend."
+          }
+        },
+        {
+          "name": {
+            "en": "Lumpini Park",
+            "nl": "Lumpini Park"
+          },
+          "duration": "1 uur",
+          "cost": "Gratis",
+          "type": "natuur",
+          "tip": {
+            "en": "A peaceful escape from the city chaos. Look for the massive monitor lizards in the lake!",
+            "nl": "Een vreedzame ontsnapping uit de stadschaos. Kijk uit naar de enorme varanen in het meer!"
+          }
+        },
+        {
+          "name": {
+            "en": "Khao San Road & Backpacker Area",
+            "nl": "Khao San Road & Backpackersgebied"
+          },
+          "duration": "2-3 uur",
+          "cost": "Gratis (eten/drankjes extra)",
+          "type": "nachtleven",
+          "tip": {
+            "en": "Iconic backpacker street. Great for cheap food, pad thai carts, fresh fruit shakes (40-60 baht), and meeting fellow travelers.",
+            "nl": "Iconische backpackerstraat. Geweldig voor goedkoop eten, pad thai karren, verse fruitmilkshakes (40-60 baht) en het ontmoeten van medereizigers."
+          }
+        },
+        {
+          "name": {
+            "en": "Rooftop Bar Sunset",
+            "nl": "Rooftopbar Zonsondergang"
+          },
+          "duration": "1,5 uur",
+          "cost": "300-800 (€9-23) per cocktail",
+          "type": "nachtleven",
+          "tip": {
+            "en": "Sky Bar at Lebua State Tower or Vertigo at Banyan Tree. Arrive before sunset for the best views.",
+            "nl": "Sky Bar bij Lebua State Tower of Vertigo bij Banyan Tree. Kom voor zonsondergang voor het beste uitzicht."
+          }
+        }
+      ],
+      "meals": {
+        "breakfast": {
+          "en": "Mango sticky rice and fruit from a market stall (60-100 baht)",
+          "nl": "Mango sticky rice en fruit van een marktkraam (60-100 baht)"
+        },
+        "lunch": {
+          "en": "Floating market food - grilled seafood and noodles from boats (50-150 baht)",
+          "nl": "Drijvende markt eten - gegrilde zeevruchten en noedels van boten (50-150 baht)"
+        },
+        "dinner": {
+          "en": "Khao San Road pad thai and beer (100-200 baht)",
+          "nl": "Khao San Road pad thai en bier (100-200 baht)"
+        }
+      },
+      "accommodation": {
+        "budget": {
+          "en": "Hostel on Khao San Road (400-600/night)",
+          "nl": "Hostel aan Khao San Road (400-600/nacht)"
+        },
+        "midrange": {
+          "en": "Hotel in Banglamphu or Riverside (1,500-3,000/night)",
+          "nl": "Hotel in Banglamphu of Riverside (1.500-3.000/nacht)"
+        },
+        "luxury": {
+          "en": "Mandarin Oriental Bangkok (10,000-20,000/night)",
+          "nl": "Mandarin Oriental Bangkok (10.000-20.000/nacht)"
+        }
+      },
+      "transport": {
+        "en": "Taxi/minivan to floating market. BTS/MRT + tuk-tuk for the rest of the day.",
+        "nl": "Taxi/minibus naar drijvende markt. BTS/MRT + tuk-tuk voor de rest van de dag."
+      }
+    },
+    {
+      "day": 4,
+      "title": {
+        "en": "Day Trip to Ayutthaya",
+        "nl": "Dagtrip naar Ayutthaya"
+      },
+      "city": "ayutthaya",
+      "activities": [
+        {
+          "name": {
+            "en": "Train to Ayutthaya",
+            "nl": "Trein naar Ayutthaya"
+          },
+          "duration": "1,5-2 uur",
+          "cost": "15-345 (€0,45-10) afhankelijk van klasse",
+          "type": "vervoer",
+          "tip": {
+            "en": "Take the train from Bangkok Hua Lamphong station. Third class is just 15 baht! Trains depart roughly every hour.",
+            "nl": "Neem de trein vanaf Bangkok Hua Lamphong station. Derde klasse is slechts 15 baht! Treinen vertrekken ongeveer elk uur."
+          }
+        },
+        {
+          "name": {
+            "en": "Wat Mahathat (Buddha Head in Tree Roots)",
+            "nl": "Wat Mahathat (Boeddhahoofd in Boomwortels)"
+          },
+          "duration": "1 uur",
+          "cost": "50 (€1,40)",
+          "type": "cultureel",
+          "tip": {
+            "en": "Home to the iconic Buddha head entwined in tree roots. Crouch down for your photo to show respect (be lower than the Buddha head).",
+            "nl": "Thuisbasis van het iconische Boeddhahoofd verstrengeld in boomwortels. Hurk neer voor je foto om respect te tonen (wees lager dan het Boeddhahoofd)."
+          }
+        },
+        {
+          "name": {
+            "en": "Wat Chaiwatthanaram",
+            "nl": "Wat Chaiwatthanaram"
+          },
+          "duration": "1 uur",
+          "cost": "50 (€1,40)",
+          "type": "cultureel",
+          "tip": {
+            "en": "The most photogenic temple in Ayutthaya, especially at sunset. Khmer-style architecture along the Chao Phraya River.",
+            "nl": "De meest fotogenieke tempel in Ayutthaya, vooral bij zonsondergang. Khmer-stijl architectuur langs de Chao Phraya Rivier."
+          }
+        },
+        {
+          "name": {
+            "en": "Ayutthaya Historical Park by Bicycle",
+            "nl": "Ayutthaya Historisch Park per Fiets"
+          },
+          "duration": "3-4 uur",
+          "cost": "50-100 (€1,40-3) fietsverhuur",
+          "type": "cultureel",
+          "tip": {
+            "en": "Rent a bicycle near the train station (50 baht/day). The park is flat and perfect for cycling between ruins. Buy a combo ticket (220 baht) for 6 temples.",
+            "nl": "Huur een fiets bij het treinstation (50 baht/dag). Het park is vlak en perfect om tussen de ruines te fietsen. Koop een combticket (220 baht) voor 6 tempels."
+          }
+        },
+        {
+          "name": {
+            "en": "Wat Phra Si Sanphet",
+            "nl": "Wat Phra Si Sanphet"
+          },
+          "duration": "45 minuten",
+          "cost": "50 (€1,40)",
+          "type": "cultureel",
+          "tip": {
+            "en": "The three iconic chedis (bell-shaped stupas) are the symbol of Ayutthaya. Former royal temple of the ancient kingdom.",
+            "nl": "De drie iconische chedi's (klokvormige stupa's) zijn het symbool van Ayutthaya. Voormalige koninklijke tempel van het oude koninkrijk."
+          }
+        }
+      ],
+      "meals": {
+        "breakfast": {
+          "en": "Quick breakfast before catching the train (grab something at Hua Lamphong station)",
+          "nl": "Snel ontbijt voor de trein (haal iets bij Hua Lamphong station)"
+        },
+        "lunch": {
+          "en": "Roti Sai Mai (Ayutthaya's famous cotton candy crepes) and boat noodles (50-100 baht)",
+          "nl": "Roti Sai Mai (Ayutthaya's beroemde suikerspinpannenkoeken) en boat noodles (50-100 baht)"
+        },
+        "dinner": {
+          "en": "Riverside restaurant in Ayutthaya or back in Bangkok (200-400 baht)",
+          "nl": "Rivierrestaurant in Ayutthaya of terug in Bangkok (200-400 baht)"
+        }
+      },
+      "accommodation": {
+        "budget": {
+          "en": "Stay in Bangkok or guesthouse in Ayutthaya (300-500/night)",
+          "nl": "Verblijf in Bangkok of guesthouse in Ayutthaya (300-500/nacht)"
+        },
+        "midrange": {
+          "en": "Classic Kameo Hotel Ayutthaya or return to Bangkok (1,200-2,500/night)",
+          "nl": "Classic Kameo Hotel Ayutthaya of terug naar Bangkok (1.200-2.500/nacht)"
+        },
+        "luxury": {
+          "en": "Sala Ayutthaya boutique hotel on the river (4,000-8,000/night)",
+          "nl": "Sala Ayutthaya boetiekhotel aan de rivier (4.000-8.000/nacht)"
+        }
+      },
+      "transport": {
+        "en": "Train from Bangkok Hua Lamphong: 15-345 baht (1.5-2 hours). Return by minivan: 70-100 baht from Ayutthaya bus station.",
+        "nl": "Trein vanaf Bangkok Hua Lamphong: 15-345 baht (1,5-2 uur). Terug per minibus: 70-100 baht vanaf Ayutthaya busstation."
+      }
+    },
+    {
+      "day": 5,
+      "title": {
+        "en": "Bangkok Wellness & Farewell Shopping",
+        "nl": "Bangkok Wellness & Afscheidsshoppen"
+      },
+      "city": "bangkok",
+      "activities": [
+        {
+          "name": {
+            "en": "Thai Cooking Class",
+            "nl": "Thaise Kookles"
+          },
+          "duration": "3-4 uur",
+          "cost": "1.000-2.500 (€30-75)",
+          "type": "ervaring",
+          "tip": {
+            "en": "Morning classes often include a market visit. Silom Thai Cooking School or Bangkok Bold are popular choices.",
+            "nl": "Ochtenddessen bevatten vaak een marktbezoek. Silom Thai Cooking School of Bangkok Bold zijn populaire keuzes."
+          }
+        },
+        {
+          "name": {
+            "en": "Traditional Thai Massage",
+            "nl": "Traditionele Thaise Massage"
+          },
+          "duration": "2 uur",
+          "cost": "400-800 (€12-23)",
+          "type": "welzijn",
+          "tip": {
+            "en": "Health Land is an excellent mid-range chain. For luxury, try the spa at Oriental Hotel.",
+            "nl": "Health Land is een uitstekende mid-range keten. Voor luxe, probeer de spa bij Oriental Hotel."
+          }
+        },
+        {
+          "name": {
+            "en": "Last-Minute Shopping at Terminal 21",
+            "nl": "Last-Minute Winkelen bij Terminal 21"
+          },
+          "duration": "2 uur",
+          "cost": "Gratis entree",
+          "type": "winkelen",
+          "tip": {
+            "en": "Each floor is themed after a different city. Great food court on the top floor with meals from 35 baht.",
+            "nl": "Elke verdieping heeft een thema van een andere stad. Geweldig food court op de bovenste verdieping met maaltijden vanaf 35 baht."
+          }
+        },
+        {
+          "name": {
+            "en": "Farewell Dinner Cruise on the Chao Phraya",
+            "nl": "Afscheidsdiner Cruise op de Chao Phraya"
+          },
+          "duration": "2 uur",
+          "cost": "1.200-2.500 (€36-75)",
+          "type": "ervaring",
+          "tip": {
+            "en": "Several operators offer dinner cruises past illuminated temples. Book through your hotel or Klook for discounts.",
+            "nl": "Verschillende operators bieden dinercruises langs verlichte tempels. Boek via je hotel of Klook voor kortingen."
+          }
+        }
+      ],
+      "meals": {
+        "breakfast": {
+          "en": "Hotel breakfast or local coffee shop with Thai toast (80-150 baht)",
+          "nl": "Hotelontbijt of lokale koffieshop met Thaise toast (80-150 baht)"
+        },
+        "lunch": {
+          "en": "Cooking class lunch (included) or Terminal 21 food court (35-80 baht)",
+          "nl": "Kookles lunch (inbegrepen) of Terminal 21 food court (35-80 baht)"
+        },
+        "dinner": {
+          "en": "Dinner cruise on the Chao Phraya River (included in cruise price)",
+          "nl": "Diner cruise op de Chao Phraya Rivier (inbegrepen in cruiseprijs)"
+        }
+      },
+      "accommodation": {
+        "budget": {
+          "en": "Hostel near BTS line for easy airport access (400-600/night)",
+          "nl": "Hostel bij BTS lijn voor gemakkelijke toegang tot vliegveld (400-600/nacht)"
+        },
+        "midrange": {
+          "en": "Hotel in Sukhumvit area (1,500-3,000/night)",
+          "nl": "Hotel in Sukhumvit gebied (1.500-3.000/nacht)"
+        },
+        "luxury": {
+          "en": "Shangri-La Bangkok Riverside (7,000-14,000/night)",
+          "nl": "Shangri-La Bangkok Riverside (7.000-14.000/nacht)"
+        }
+      },
+      "transport": {
+        "en": "BTS/MRT for daytime. Taxi to airport: 200-400 baht + tolls. Or Airport Rail Link from Phaya Thai.",
+        "nl": "BTS/MRT overdag. Taxi naar vliegveld: 200-400 baht + tol. Of Airport Rail Link vanaf Phaya Thai."
+      }
+    }
+  ],
+  "transportBetweenCities": [
+    {
+      "from": "bangkok",
+      "to": "ayutthaya",
+      "options": [
+        {
+          "mode": "trein",
+          "duration": "1,5-2 uur",
+          "cost": "15-345"
+        },
+        {
+          "mode": "bus",
+          "duration": "1,5-2 uur",
+          "cost": "50-70"
+        },
+        {
+          "mode": "taxi",
+          "duration": "1-1,5 uur",
+          "cost": "1,500-2,000"
+        }
+      ]
+    }
+  ],
+  "packingTips": {
+    "en": [
+      "Comfortabele wandelschoenen",
+      "Lichte ademende kleding",
+      "Zonnebrand en hoed",
+      "Tempelgeschikte kleding (bedek schouders en knieën)",
+      "Kleine dagtas voor dagtripjes",
+      "Herbruikbare waterfles",
+      "Insectenwerend middel voor Ayutthaya"
+    ],
+    "nl": [
+      "Comfortabele wandelschoenen",
+      "Lichte ademende kleding",
+      "Zonnebrand en hoed",
+      "Tempelgeschikte kleding (bedek schouders en knieën)",
+      "Kleine dagtas voor dagtripjes",
+      "Herbruikbare waterfles",
+      "Insectenwerend middel voor Ayutthaya"
+    ]
+  },
+  "seo": {
+    "metaTitle": {
+      "en": "5 Days Bangkok & Ayutthaya Itinerary 2026: Central Thailand Guide",
+      "nl": "5 Dagen Bangkok & Ayutthaya Reisschema 2026: Centraal Thailand Gids"
+    },
+    "metaDescription": {
+      "en": "5-day Bangkok and Ayutthaya itinerary for 2026. Day-by-day guide covering temples, markets, street food, and ancient ruins with budget tips.",
+      "nl": "5-daags Bangkok en Ayutthaya reisschema voor 2026. Dag-voor-dag gids met tempels, markten, straateten en oude ruines met budgettips."
+    }
+  },
+  "tags": [
+    "bangkok",
+    "ayutthaya",
+    "5 dagen",
+    "centraal thailand",
+    "tempels",
+    "geschiedenis",
+    "street food",
+    "UNESCO"
+  ]
+}

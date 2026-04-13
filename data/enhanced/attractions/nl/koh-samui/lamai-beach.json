@@ -1,0 +1,82 @@
+{
+  "id": 4,
+  "slug": "lamai-beach",
+  "name": {
+    "en": "Lamai Beach",
+    "nl": "Lamai Beach"
+  },
+  "type": "strand",
+  "city_slug": "koh-samui",
+  "address": "Lamai Beach Road, Maret, Ko Samui District, Surat Thani 84310",
+  "location": {
+    "lat": 9.4625485,
+    "lng": 100.0450339
+  },
+  "opening_hours": "Open strandgebied",
+  "entrance_fee": {
+    "thb": 0,
+    "usd": 0
+  },
+  "description": {
+    "en": "A better middle-ground beach zone than many first-timers expect, with enough town life to justify more than a quick swim stop.",
+    "nl": "Een beter middenweg-strandgebied dan veel eerste bezoekers verwachten, met genoeg dorpsleven om meer te rechtvaardigen dan een snelle zwemstop."
+  },
+  "highlights": [
+    "Nuttig ankerpunt op het zuidelijke eiland",
+    "Goede balans tussen strand en stad",
+    "Hin Ta Hin Yai in de buurt"
+  ],
+  "image": "/images/cities/generated/koh-samui.webp",
+  "official_website": null,
+  "seo": {
+    "metaTitle": {
+      "en": "Lamai Beach Koh Samui | Go2Thailand",
+      "nl": "Lamai Beach Koh Samui | Go2Thailand"
+    },
+    "metaDescription": {
+      "en": "Why Lamai Beach is one of Koh Samui's best middle-ground bases and how to pair it with Hin Ta Hin Yai.",
+      "nl": "Waarom Lamai Beach een van de beste middenweg-bases van Koh Samui is en hoe je het combineert met Hin Ta Hin Yai."
+    }
+  },
+  "tags": [
+    "strand",
+    "lamai",
+    "koh samui",
+    "zuidkust",
+    "thailand"
+  ],
+  "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=Lamai%20Beach%20Koh%20Samui%20Thailand",
+  "best_time": "ochtend of late namiddag",
+  "duration_hours": 3,
+  "enhanced_description": "Lamai verdient zijn plaats omdat het Koh Samui een betere middenweg biedt dan veel eerste bezoekers verwachten. Het is minder meedogenloos druk dan Chaweng, maar het is ook geen doodstille hoek. Dat maakt het nuttig voor reizigers die nog steeds een echt strandstadje als basis willen, met een herkenbaar kustlandmerk in de buurt en genoeg restaurants en voorzieningen om de dag gemakkelijk te houden.\n\nDe reisgidsmateriaal van de Tourism Authority of Thailand koppelt deze kant van Samui nog steeds aan Hin Ta Hin Yai, wat de juiste planningslogica is. Lamai werkt het beste als je het behandelt als een blok van strand en zuidkust in plaats van een snelle stop tussen niet-gerelateerde inlandse uitstapjes.",
+  "detailed_history": "Het planningskader van TAT voor Koh Samui plaatst Lamai en Hin Ta Hin Yai nog steeds onder de herkenbare ankerstops van het eiland. Dat doet ertoe omdat Lamai niet alleen een strand is voor ligbedden. Het is een van de duidelijkste voorbeelden van hoe Samui verandert per zone en waarom het eiland gepland moet worden rond kustkeuze in plaats van generieke eilandtaal.",
+  "visitor_experience": "Verwacht een echt strandgebied met ruimte voor zwemmen, wandelen en een ontspannen maaltijd in plaats van een pure landmark-stop. De waarde ligt in het laten ademen van deze kant van het eiland. Lamai is het overtuigendst als je het genoeg tijd geeft om zich te onderscheiden van zowel Chaweng als de meer resort-afgesloten noordkust.",
+  "best_time_to_visit": {
+    "time_of_day": "Ochtend of late namiddag",
+    "duration": "Ongeveer 2 tot 4 uur",
+    "crowd_level": "Matig, met meer blootstelling en hitte rond het middaguur"
+  },
+  "practical_info": {
+    "how_to_get_there": "Bereik het per taxi of ride-hailing vanaf Chaweng, Bophut of andere Samui hotelzones, of bouw het in in een halve dag route op het zuidelijke eiland.",
+    "nearby_attractions": "Hin Ta Hin Yai en kustritten op het zuidelijke eiland.",
+    "food_options": "Beter dan een pure fotostop omdat het gebied een echte lunch of strandpauze ondersteunt.",
+    "shopping": "Praktischer strandstadje browsen dan groot bestemmingswinkelen."
+  },
+  "insider_tips": [
+    "Gebruik Lamai als Chaweng te intens aanvoelt maar je nog steeds een echt strandgebied wilt.",
+    "Koppel het aan Hin Ta Hin Yai in plaats van te bouncen tussen niet-gerelateerde eilandstops.",
+    "Dit werkt beter als een halve dag blok dan als een gehaast checklist-item."
+  ],
+  "verified_note": "Bron-ondersteunde samenvatting gebaseerd op de reisplanning van de Tourism Authority of Thailand en locatieverificatie. Zeecondities en strandcomfort variëren met weer en seizoen.",
+  "cultural_significance": "Lamai helpt bij het uitleggen van de interne geografie van Koh Samui door te tonen dat de strandzones van het eiland niet uitwisselbaar zijn in sfeer of gebruik.",
+  "contentSources": [
+    {
+      "name": "Ko Samui - Surat Thani 4 Days",
+      "url": "https://www.tourismthailand.org/Trip-Planner/Suggestion-Detail/ko-samui-surat-thani-4-days"
+    },
+    {
+      "name": "Anantara Bophut Koh Samui Experiences Guide 2025",
+      "url": "https://www.anantara.com/uploads/minor/anantara/documents/anantara-bophut-koh-samui-resort/leisure/2025/anantara_bophut_koh_samui_experiences_guide_2025.pdf"
+    }
+  ]
+}

@@ -1,0 +1,439 @@
+{
+  "id": 4,
+  "slug": "isaan",
+  "name": {
+    "en": "Isaan (Northeast Thailand)",
+    "nl": "Isaan (Noordoost-Thailand)",
+    "fr": "Isaan (Nord-Est de la Thaïlande)",
+    "de": "Isaan (Nordostthailand)",
+    "zh": "伊桑（泰国东北部）",
+    "ru": "Исан (Северо-Восточный Таиланд)",
+    "ja": "イサーン（タイ東北部）",
+    "ko": "이산 (태국 동북부)",
+    "th": "อีสาน (ภาคตะวันออกเฉียงเหนือ)"
+  },
+  "description": {
+    "en": "Isaan (or Isan) is Thailand's largest and most culturally distinct region, occupying the vast Khorat Plateau that covers the entire northeastern third of the country — roughly the size of England and Wales combined. Bordered by the Mekong River to the north and east (forming the natural boundary with Laos), and Cambodia to the southeast, Isaan has historically been tied more closely to Laos and ancient Khmer civilizations than to Bangkok. This geographical and political isolation shaped a culture that remains fascinatingly distinct: people speak their own language (Phasa Isaan, closely related to Lao), eat different food, celebrate different festivals, and maintain a slower, more communal pace of life that many travellers find deeply refreshing. The region comprises 20 provinces and is home to approximately 22 million people — about one-third of Thailand's total population — yet receives only a fraction of the tourists who flock to Bangkok and the beaches. Between the 9th and 13th centuries, the Khmer Empire covered Isaan in magnificent stone temple complexes, remnants of which survive as some of Southeast Asia's most spectacular ancient monuments. Prasat Hin Khao Phanom Rung — a 10th-century Khmer temple perched on the rim of an extinct volcano at 383 metres elevation — is considered the finest example of Khmer architecture in Thailand, with precision-aligned ceremonial avenues that frame the rising sun at specific times of year. Nearby Prasat Hin Phimai is an equally impressive walled sanctuary predating Angkor Wat. The UNESCO-listed Ban Chiang Archaeological Site in Udon Thani preserves evidence of one of Asia's oldest Bronze Age civilizations, dating back over 5,000 years. For travellers seeking authentic Thailand untouched by mass tourism — village life, ancient ruins, fiery street food, and genuinely warm local hospitality — Isaan is arguably the most rewarding destination in the country.",
+    "nl": "Isaan (of Isan) is Thailands grootste en meest cultureel onderscheidende regio, die het uitgestrekte Khorat-plateau beslaat dat het gehele noordoostelijke derde deel van het land bedekt — ruwweg zo groot als Engeland en Wales samen. Begrensd door de Mekong-rivier in het noorden en oosten (de natuurlijke grens met Laos) en Cambodja in het zuidoosten, heeft Isaan historisch meer verbonden gelegen met Laos en de oude Khmer-beschavingen dan met Bangkok. Deze geografische en politieke isolatie heeft een cultuur gevormd die fascinerend onderscheidend blijft: mensen spreken hun eigen taal (Phasa Isaan, nauw verwant aan Lao), eten ander voedsel, vieren andere festivals en handhaven een langzamer, meer communaal levenstempo. De regio omvat 20 provincies en herbergt circa 22 miljoen mensen — maar ontvangt slechts een fractie van de toeristen die naar Bangkok en de stranden stromen. Tussen de 9e en 13e eeuw bedekte het Khmer-keizerrijk Isaan met prachtige stenen tempelcomplexen. Prasat Hin Khao Phanom Rung — een 10e-eeuwse Khmer-tempel op de rand van een uitgedoofde vulkaan op 383 meter hoogte — wordt beschouwd als het mooiste voorbeeld van Khmer-architectuur in Thailand. Het UNESCO-genoteerde Ban Chiang Archeologisch Site in Udon Thani bewaart bewijs van een van Azië's oudste Bronstijdbeschavingen, meer dan 5.000 jaar oud.",
+    "fr": "Thaïlande rurale authentique avec une culture unique d'influence laotienne, une cuisine épicée et des festivals traditionnels.",
+    "de": "Authentisches ländliches Thailand mit einzigartiger laotisch beeinflusster Kultur, scharfer Küche und traditionellen Festen.",
+    "zh": "原汁原味的泰国乡村，拥有独特的老挝文化影响、辛辣美食和传统节日。",
+    "ru": "Аутентичный сельский Таиланд с уникальной культурой лаосского влияния, острой кухней и традиционными фестивалями.",
+    "ja": "ラオスの影響を受けた独自の文化、スパイシーな料理、伝統的な祭りが特徴のタイの本格的な農村地帯。",
+    "ko": "라오스의 영향을 받은 독특한 문화, 매운 요리, 전통 축제가 특징인 태국의 정통 농촌 지역.",
+    "th": "ประเทศไทยแท้ๆ ในชนบท มีวัฒนธรรมเฉพาะตัวที่ได้รับอิทธิพลจากลาว อาหารรสจัด และเทศกาลประเพณี"
+  },
+  "highlights": {
+    "en": [
+      "Prasat Hin Khao Phanom Rung: Thailands mooiste Khmer-tempel op een vulkaantop, met zon-uitgelijnde ceremoniële avenues die actief zijn tijdens de zonnewende en equinox",
+      "Som Tam, larb en kleefrijst: de bakermat van Thailands meest geliefde gerechten, gegeten bij straatkraampjes door heel de regio voor 30–60 baht",
+      "Steden aan de Mekong-rivier: Nong Khai, Nakhon Phanom en Mukdahan bieden verbluffende riviersondergangen, nachtmarkten en brugovergangen naar Laos",
+      "Ban Chiang UNESCO Archeologisch Erfgoed: een van Aziës oudste Bronstijd-beschavingen (meer dan 5.000 jaar) met opmerkelijk beschilderd aardewerk in de vitrines",
+      "Wilde en spectaculaire festivals: het Bun Bang Fai Raketfestival, Phi Ta Khon Geestenfestival en Ubon Kaarsfestival behoren tot Thailands meest dramatische evenementen"
+    ],
+    "nl": [
+      "Prasat Hin Khao Phanom Rung: Thailands mooiste Khmer-tempel op een vulkaantop, met zon-uitgelijnd ceremonieel pad actief bij zonnewende en equinox",
+      "Som Tam, larb en kleefrijst: de bakermat van Thailands meest geliefde gerechten, gegeten bij straatkraampjes voor 30–60 baht",
+      "Mekong-riviersteden: Nong Khai, Nakhon Phanom en Mukdahan met verbluffende riviersonzondergangen, nachtmarkten en brugverbindingen naar Laos",
+      "Ban Chiang UNESCO Archeologisch Site: een van Azië's oudste Bronstijdbeschavingen (5.000+ jaar) met opmerkelijk geschilderd aardewerk",
+      "Spectaculaire festivals: het Bun Bang Fai Raketfestival, Phi Ta Khon Geestenfestival en Ubon Kaarsfestival behoren tot Thailands meest dramatische evenementen"
+    ],
+    "fr": [
+      "Culture authentique",
+      "Cuisine épicée",
+      "Festivals traditionnels",
+      "Mode de vie rural",
+      "Tissage de la soie",
+      "Ruines khmères anciennes"
+    ],
+    "de": [
+      "Authentische Kultur",
+      "Scharfe Küche",
+      "Traditionelle Feste",
+      "Ländliches Leben",
+      "Seidenweberei",
+      "Alte Khmer-Ruinen"
+    ],
+    "zh": [
+      "原生态文化",
+      "辛辣美食",
+      "传统节日",
+      "乡村生活",
+      "丝绸编织",
+      "古高棉遗迹"
+    ],
+    "ru": [
+      "Аутентичная культура",
+      "Острая кухня",
+      "Традиционные фестивали",
+      "Сельский уклад жизни",
+      "Шёлкоткачество",
+      "Древние кхмерские руины"
+    ],
+    "ja": [
+      "本格的な文化",
+      "スパイシーな料理",
+      "伝統的な祭り",
+      "農村の暮らし",
+      "絹織物",
+      "古代クメール遺跡"
+    ],
+    "ko": [
+      "정통 문화",
+      "매운 요리",
+      "전통 축제",
+      "농촌 생활",
+      "비단 직조",
+      "고대 크메르 유적"
+    ],
+    "th": [
+      "วัฒนธรรมดั้งเดิม",
+      "อาหารรสจัด",
+      "เทศกาลประเพณี",
+      "วิถีชีวิตชนบท",
+      "ทอผ้าไหม",
+      "ปราสาทหินเขมรโบราณ"
+    ]
+  },
+  "cities": [
+    "Khon Kaen",
+    "Udon Thani",
+    "Nakhon Ratchasima",
+    "Ubon Ratchathani",
+    "Chiang Khan",
+    "Nong Khai",
+    "Bueng Kan",
+    "Nakhon Phanom",
+    "Mukdahan"
+  ],
+  "climate": {
+    "en": "Isaan has the most extreme climate of any Thai region. The cool and dry season (November to February) is the most comfortable time to visit, with temperatures averaging 20–30°C and clear skies — though nights can be surprisingly cold (10–15°C) in December and January, especially on higher ground. March to May is intensely hot, with temperatures regularly exceeding 40°C — the hottest period across all of Thailand, made worse by the plateau's exposure and limited tree cover. The rainy season (June to October) transforms the parched plateau into a lush green landscape as monsoon rains arrive from the south; rainfall averages 1,000–1,200mm annually but falls less evenly than in other regions, with periodic drought conditions. The Mekong River rises dramatically during the rainy season, flooding low-lying towns along the riverbank. The famous 'Naga Fireballs' (bung fai phaya nak) appear mysteriously above the Mekong near Nong Khai every October on Buddhist Lent night.",
+    "nl": "Isaan heeft het meest extreme klimaat van elke Thaise regio. Het koele droge seizoen (november tot februari) is de aangenaamste tijd om te bezoeken, met temperaturen van gemiddeld 20–30°C en heldere luchten — hoewel nachten verrassend koud kunnen zijn (10–15°C) in december en januari. Maart tot mei is intensief heet, met temperaturen die regelmatig de 40°C overschrijden — de warmste periode van heel Thailand. Het regenseizoen (juni tot oktober) transformeert het dorre plateau in een weelderig groen landschap naarmate moessonregens arriveren. De Mekong-rivier stijgt dramatisch tijdens het regenseizoen. De beroemde 'Naga-vuurballetjes' (bung fai phaya nak) verschijnen mysterieus boven de Mekong bij Nong Khai elke oktober op de avond van Boeddhistische Vasten.",
+    "fr": "Chaud et sec (nov-fév), très chaud (mars-mai), pluvieux (juin-oct)",
+    "de": "Heiß und trocken (Nov-Feb), sehr heiß (März-Mai), Regenzeit (Juni-Okt)",
+    "zh": "炎热干燥（11月-2月），极热（3月-5月），雨季（6月-10月）",
+    "ru": "Жарко и сухо (ноябрь-февраль), очень жарко (март-май), дождливо (июнь-октябрь)",
+    "ja": "暑く乾燥（11月〜2月）、非常に暑い（3月〜5月）、雨季（6月〜10月）",
+    "ko": "덥고 건조함 (11월-2월), 매우 더움 (3월-5월), 우기 (6월-10월)",
+    "th": "ร้อนแห้ง (พ.ย.-ก.พ.), ร้อนมาก (มี.ค.-พ.ค.), ฝน (มิ.ย.-ต.ค.)"
+  },
+  "bestTimeToVisit": {
+    "en": "November to February",
+    "nl": "November tot februari",
+    "fr": "Novembre à février",
+    "de": "November bis Februar",
+    "zh": "11月至2月",
+    "ru": "С ноября по февраль",
+    "ja": "11月から2月",
+    "ko": "11월부터 2월",
+    "th": "พฤศจิกายนถึงกุมภาพันธ์"
+  },
+  "image": "/images/regions/isaan-thailand.webp",
+  "geography": {
+    "en": "Isaan occupies the Khorat Plateau, a vast elevated plain averaging 150–200 metres above sea level, tilting slightly from northwest to southeast. The region covers approximately 170,000 square kilometres — about one-third of Thailand's total land area — making it the country's largest region. To the north and east, the Mekong River forms a 750-kilometre natural border with Laos, flowing past riverside towns including Nong Khai, Beung Kan, Nakhon Phanom, and Mukdahan. To the south, the Dongrak Mountains mark the border with Cambodia, where the spectacular cliff-perched Khao Phra Viharn temple (shared by both countries) stands. The Mun and Chi rivers drain the plateau westward into the Mekong. The terrain is largely flat and semi-arid, prone to drought; limited natural irrigation has historically made farming difficult, contributing to the region's status as Thailand's least economically developed area. Notable natural areas include the Phu Kradung plateau (1,325m), Pha Taem cliff paintings along the Mekong, and the Khao Yai National Park at the western edge.",
+    "nl": "Isaan beslaat het Khorat-plateau, een uitgestrekte verhoogde vlakte met een gemiddelde hoogte van 150–200 meter, licht kantend van noordwest naar zuidoost. De regio beslaat circa 170.000 km² — ongeveer een derde van Thailands totale landoppervlak. In het noorden en oosten vormt de Mekong-rivier een 750 kilometer lange natuurlijke grens met Laos. In het zuiden markeren de Dongrak-bergen de grens met Cambodja, waar de spectaculaire kliftempel Khao Phra Viharn staat. De Mun- en Chi-rivieren draineren het plateau westwaarts naar de Mekong. Het terrein is grotendeels vlak en semi-aride, gevoelig voor droogte. Opmerkelijke natuurgebieden zijn het Phu Kradung-plateau (1.325 m), de Pha Taem-grottekeningen langs de Mekong, en het Khao Yai Nationaal Park aan de westelijke rand.",
+    "fr": "Plateau élevé à 200 m d'altitude en moyenne. Frontières avec le Laos et le Cambodge. Plus grande région couvrant un tiers de la Thaïlande.",
+    "de": "Hochebene mit durchschnittlich 200 m über dem Meeresspiegel. Grenzt an Laos und Kambodscha. Größte Region, die ein Drittel Thailands einnimmt.",
+    "zh": "平均海拔200米的高原。与老挝和柬埔寨接壤。泰国最大的地区，占国土面积的三分之一。",
+    "ru": "Возвышенное плато со средней высотой 200 м над уровнем моря. Граничит с Лаосом и Камбоджей. Крупнейший регион, занимающий треть территории Таиланда.",
+    "ja": "平均標高200mの高原地帯。ラオスとカンボジアに接する。タイの国土の3分の1を占める最大の地域。",
+    "ko": "해발 평균 200m의 고원 지대. 라오스와 캄보디아에 접경. 태국 국토의 3분의 1을 차지하는 최대 지역.",
+    "th": "ที่ราบสูงเฉลี่ยสูง 200 เมตรเหนือระดับน้ำทะเล มีพรมแดนติดลาวและกัมพูชา เป็นภูมิภาคใหญ่ที่สุดครอบคลุมหนึ่งในสามของประเทศไทย"
+  },
+  "culture": {
+    "en": "Isaan culture is shaped by a complex blend of ancient Khmer heritage, Lao cultural influence from centuries of shared border history, and Thai national identity that was consolidated only in the 20th century. The Isaan language (Phasa Isaan) is closely related to Lao and distinct enough from Central Thai that it functions almost as a separate tongue. Traditional music is dominated by the kaen (bamboo mouth organ), moh lam (call-and-response vocal music), and kantrum, which have a rhythmic, improvisational character quite unlike Bangkok pop. Silk weaving is a centuries-old tradition: Khon Kaen and Surin provinces produce the famous mutmee ikat silk, where resist-dyeing creates intricate geometric patterns in deep jewel tones. Dan Kwian village near Nakhon Ratchasima produces distinctive dark-bronze ceramics from local iron-rich clay, a tradition dating back hundreds of years. Village Buddhist temple fairs (ngan wat) are major social events bringing communities together multiple times per year. Isaan people are renowned across Thailand for their extraordinary warmth and hospitality — their cultural value of 'nam jai' (generous heart) is evident in every interaction.",
+    "nl": "Isaan cultuur wordt gevormd door een complexe mix van oud Khmer-erfgoed, Lao-culturele invloed en Thaise nationale identiteit. De Isaan-taal (Phasa Isaan) is nauw verwant aan Lao en onderscheidend genoeg van Centraal-Thais dat het bijna als een aparte taal functioneert. Traditionele muziek wordt gedomineerd door de kaen (bamboe mondorgel), moh lam (oproep-en-antwoord vocale muziek) en kantrum. Zijdeweven is een eeuwenoude traditie: Khon Kaen en Surin produceren de beroemde mutmee ikat-zijde met ingewikkelde geometrische patronen. Dan Kwian-dorp bij Nakhon Ratchasima produceert uniek donkerbrons aardewerk van lokale ijzerhoudende klei, een traditie die honderden jaren teruggaat. Isaan-mensen staan in heel Thailand bekend om hun buitengewone warmte en gastvrijheid — hun culturele waarde van 'nam jai' (royaalhartig) is zichtbaar in elke interactie.",
+    "fr": "Forte influence laotienne avec une langue, une musique et des traditions distinctes. Connue pour son hospitalité chaleureuse et sa vie communautaire villageoise.",
+    "de": "Starker laotischer Einfluss mit eigener Sprache, Musik und Traditionen. Bekannt für herzliche Gastfreundschaft und dörfliches Gemeinschaftsleben.",
+    "zh": "深受老挝影响，拥有独特的语言、音乐和传统。以热情好客和淳朴的乡村社区生活著称。",
+    "ru": "Сильное лаосское влияние с самобытным языком, музыкой и традициями. Известен тёплым гостеприимством и деревенским укладом жизни.",
+    "ja": "独自の言語、音楽、伝統を持つラオスの強い影響。温かいおもてなしと村のコミュニティ生活で知られる。",
+    "ko": "독자적인 언어, 음악, 전통을 가진 강한 라오스의 영향. 따뜻한 환대와 마을 공동체 생활로 유명.",
+    "th": "ได้รับอิทธิพลจากลาวอย่างเข้มข้น มีภาษา ดนตรี และประเพณีเฉพาะตัว ขึ้นชื่อเรื่องการต้อนรับขับสู้อย่างอบอุ่นและวิถีชุมชนหมู่บ้าน"
+  },
+  "cuisine": {
+    "en": "Isaan food is the most popular regional cuisine in all of Thailand — the dishes that originated here are now eaten nationwide. Som Tam (green papaya salad, ส้มตำ) is the undisputed queen of Isaan cuisine: shredded unripe papaya pounded in a clay mortar with fresh bird's eye chillies, palm sugar, fish sauce, lime, tomatoes, and dried shrimp, finished with crushed peanuts. There are dozens of regional variations, from the classic Isaan style to the Lao-influenced som tam including fermented crab (pu dara). Larb (ลาบ) — a tangy minced meat salad with toasted ground rice, lime juice, fish sauce, fresh mint, and chillies — uses chicken, pork, duck, or beef, and exists in both cooked and raw (larb dip) forms. Sticky rice (khao niaw) is the daily staple across all of Isaan, eaten by hand, rolled into small balls, and dipped into various dishes. Gai Yang (grilled chicken marinated in fish sauce, coriander, and lemongrass) paired with som tam and sticky rice is perhaps the most commonly eaten combination in northeastern Thailand. Moo Ping (pork skewers) and sai krok Isaan (fermented pork sausage with garlic and rice) are ubiquitous street snacks. Jeow (dipping sauces) accompany nearly every meal. Isaan is also famous for more adventurous options: fried insects including crickets, silkworm pupae, and bamboo worms are sold at markets — a crunchy, protein-rich snack.",
+    "nl": "Isaan-eten is de populairste regionale keuken van heel Thailand — de gerechten die hier zijn ontstaan, worden nu door het hele land gegeten. Som Tam (groene papajasalade) is de onbetwiste koningin van de Isaan-keuken: geraspte onrijpe papaja gestampt in een kleien vijzel met verse pepers, palmsuiker, vissaus, limoen, tomaten en gedroogde garnalen. Larb (ลาบ) — een pittige gehakt-vleessalade met geroosterd gemalen rijst, limoen en verse munt — bestaat in tientallen variaties. Kleefrijst (khao niaw) is het dagelijkse basisvoedsel in heel Isaan, met de hand gegeten. Gai Yang (gegrilde kip) gecombineerd met som tam en kleefrijst is de meest gegeten combinatie in noordoost-Thailand. Isaan staat ook bekend om avontuurlijkere opties: gefrituurde insecten waaronder krekels en bamboewormen worden verkocht op markten.",
+    "fr": "Salade de papaye som tam, salade de viande larb, riz gluant, sauces jeow, poisson grillé. La cuisine thaïlandaise la plus épicée et la plus savoureuse.",
+    "de": "Som Tam Papayasalat, Larb Fleischsalat, Klebreis, Jeow Dipsaucen, gegrillter Fisch. Die schärfste und geschmackvollste thailändische Küche.",
+    "zh": "青木瓜沙拉、Larb肉沙拉、糯米饭、Jeow蘸酱、烤鱼。泰国最辣、最有味道的菜系。",
+    "ru": "Салат из папайи сом там, мясной салат ларб, клейкий рис, соусы джео, рыба на гриле. Самая острая и ароматная тайская кухня.",
+    "ja": "ソムタム・パパイヤサラダ、ラープ肉サラダ、もち米、ジェオ・ディップソース、焼き魚。タイ料理で最も辛く、最も風味豊かな地方料理。",
+    "ko": "쏨땀 파파야 샐러드, 랍 고기 샐러드, 찹쌀밥, 쩨오 딥 소스, 생선구이. 태국에서 가장 맵고 풍미 넘치는 지방 요리.",
+    "th": "ส้มตำ ลาบ ข้าวเหนียว แจ่ว ปลาเผา อาหารอีสานเป็นอาหารไทยที่รสจัดและเข้มข้นที่สุด"
+  },
+  "transportation": {
+    "en": "Isaan's main cities have domestic airports with frequent Bangkok connections. Khon Kaen Airport and Udon Thani International Airport offer the most frequent service, with multiple daily flights on Thai AirAsia, Nok Air, and Thai Lion Air (1–1.5 hours, from 500 baht). Ubon Ratchathani, Nakhon Ratchasima (Korat), and Buriram airports offer less frequent but useful connections. Overnight trains from Bangkok's Hua Lamphong station reach Khon Kaen (6–7 hours), Udon Thani (9 hours), and Ubon Ratchathani (11 hours) in comfortable second-class or first-class sleeper carriages for 300–1,300 baht. Long-distance buses from Bangkok's Mo Chit terminal connect to all major Isaan cities with frequent departures, taking 6–12 hours depending on destination. Within Isaan, public transport between cities is primarily by air-conditioned mini-vans (rot tuu) and songthaews — abundant, cheap, but infrequent to rural areas. For visiting temples, ruins, and countryside attractions, renting a motorbike (100–200 baht/day) or car (800–1,200 baht/day with a local agency) gives the most freedom. Roads across Isaan are generally excellent and traffic is light outside of city centres. Nong Khai has a Friendship Bridge crossing to Vientiane, Laos — making it a convenient gateway for overlanders.",
+    "nl": "Isaan's grote steden hebben binnenlandse luchthavens met frequente Bangkok-verbindingen. Khon Kaen Airport en Udon Thani International Airport bieden de meest frequente service, met meerdere dagelijkse vluchten (1–1,5 uur, vanaf 500 baht). Nachtentreinen vanuit Bangkok's Hua Lamphong-station bereiken Khon Kaen (6–7 uur), Udon Thani (9 uur) en Ubon Ratchathani (11 uur) in comfortabele slaaprijtuigen voor 300–1.300 baht. Langeafstandsbussen van Bangkok's Mo Chit-terminal verbinden alle grote Isaan-steden met frequente vertrekken, met reistijden van 6–12 uur. Binnen Isaan is openbaar vervoer tussen steden primair per airconditioned minibesjes (rot tuu) en songthaews. Voor het bezoeken van tempels en ruïnes geeft het huren van een motorfiets (100–200 baht/dag) of auto (800–1.200 baht/dag) de meeste vrijheid. Nong Khai heeft een Vriendschapsbrug naar Vientiane, Laos — een handige doorgang voor overlandreizigers.",
+    "fr": "Vols limités vers les grandes villes. Des bus relient toutes les provinces. Songthaews et tuk-tuks locaux. Location de motos courante.",
+    "de": "Begrenzte Flüge in größere Städte. Busse verbinden alle Provinzen. Lokale Songthaews und Tuk-Tuks. Motorradverleih üblich.",
+    "zh": "飞往主要城市的航班有限。巴士连接各府。当地有双条车和嘟嘟车。摩托车租赁普遍。",
+    "ru": "Ограниченное авиасообщение с крупными городами. Автобусы соединяют все провинции. Местные сонгтэу и тук-туки. Аренда мотоциклов распространена.",
+    "ja": "主要都市への便は限られる。バスが全県を結ぶ。現地ではソンテウやトゥクトゥクが利用可能。バイクレンタルも一般的。",
+    "ko": "주요 도시로의 항공편은 제한적. 버스가 모든 주를 연결. 현지에서는 쏭태우와 툭툭 이용 가능. 오토바이 대여 보편적.",
+    "th": "เที่ยวบินไปเมืองหลักมีจำกัด รถบัสเชื่อมทุกจังหวัด สองแถวและตุ๊กตุ๊กในพื้นที่ เช่ามอเตอร์ไซค์เป็นเรื่องปกติ"
+  },
+  "budgetInfo": {
+    "en": "Isaan is by far the cheapest region in Thailand for travellers, and exceptional value even by Thai standards. Budget travellers can live very comfortably on $15–25/day: a guesthouse room costs 300–500 baht/night, a street food meal of gai yang, som tam, and sticky rice runs 60–80 baht, and intercity buses connect all major towns for 100–300 baht. Mid-range travellers ($25–50/day) can stay at comfortable business hotels in cities like Khon Kaen and Udon Thani (800–1,500 baht/night) which cater primarily to Thai business travellers and offer excellent value. There are no international luxury resorts comparable to Phuket or Chiang Mai, but Kosa Hotel in Khon Kaen and Pullman Khon Kaen offer solid upscale options. Day excursions to Phanom Rung cost just 100 baht entry fee. Local bus and songthaew fares are minimal. Evening meals at riverside restaurants in Nong Khai or Mukdahan — fresh Mekong fish and river prawn — cost 200–400 baht for a full meal. Isaan is ideal for travellers seeking maximum authenticity at minimum expense.",
+    "nl": "Isaan is verreweg de goedkoopste regio in Thailand voor reizigers en uitzonderlijke waarde zelfs naar Thaise normen. Budgetreizigers kunnen zeer comfortabel leven voor $15–25/dag: een gastenkamerkost 300–500 baht/nacht, een maaltijd van gai yang, som tam en kleefrijst 60–80 baht, en intercitybussen verbinden alle grote steden voor 100–300 baht. Middenklasse reizigers ($25–50/dag) kunnen verblijven in comfortabele zakelijke hotels in steden als Khon Kaen en Udon Thani (800–1.500 baht/nacht). Daguitstapjes naar Phanom Rung kosten slechts 100 baht ingang. Avondmaaltijden bij rivierrestaurants in Nong Khai of Mukdahan — verse Mekong-vis en riviergarnalen — kosten 200–400 baht voor een volledige maaltijd.",
+    "fr": "Budget : $15-25/jour. Milieu de gamme : $25-50/jour. Luxe : $50+/jour. Région la moins chère de Thaïlande pour les voyageurs.",
+    "de": "Budget: $15-25/Tag. Mittelklasse: $25-50/Tag. Luxus: $50+/Tag. Günstigste Region Thailands für Reisende.",
+    "zh": "经济型：$15-25/天。中档：$25-50/天。豪华：$50+/天。泰国对旅行者最实惠的地区。",
+    "ru": "Бюджет: $15-25/день. Средний класс: $25-50/день. Люкс: $50+/день. Самый дешёвый регион Таиланда для путешественников.",
+    "ja": "格安：$15-25/日。中級：$25-50/日。高級：$50+/日。タイで最も物価が安い地域。",
+    "ko": "저예산: $15-25/일. 중급: $25-50/일. 고급: $50+/일. 태국에서 여행자에게 가장 저렴한 지역.",
+    "th": "ประหยัด: $15-25/วัน ปานกลาง: $25-50/วัน หรูหรา: $50+/วัน ภูมิภาคที่ถูกที่สุดในไทยสำหรับนักท่องเที่ยว"
+  },
+  "topActivities": {
+    "en": [
+      "Khmer-tempelroute: bezoek Phanom Rung, Phimai en Mueang Tham in een 2-daags circuit — Thailands meest indrukwekkende oude ruïnes buiten Ayutthaya, met vrijwel geen buitenlandse toeristen",
+      "Verkenning van de Mekong-rivier: zonsopgangwandelingen langs de rivier in Nong Khai, Chiang Khan of Mukdahan, gevolgd door een ontbijt met verse riviervis bij rivierrestaurants",
+      "Ban Chiang UNESCO Werelderfgoedsite: het Nationaal Museum toont opmerkelijk beschilderd aardewerk uit een van Aziës oudste Bronstijd-beschavingen (3.600 v.Chr. tot 300 n.Chr.)",
+      "Bezoeken aan zijdeweverijdorpen bij Khon Kaen en Surin: bekijk traditionele handbediende weefgetouwen die ingewikkelde mutmee ikat-zijde produceren en koop direct bij de wevers",
+      "Motorfietsreis door het platteland: rijd over landelijke wegen tussen dorpen, met stops bij kleine wats en rijstveldenlandschappen die het 'echte Thailand' vertegenwoordigen dat toeristen zelden zien",
+      "Avondvoedselmarkten: ervaar de Isaan-keuken in zijn meest authentieke vorm bij stadsnachtmarkten — som tam, larb, sai krok en gegrilde vleessoorten voor minder dan 50 baht per gerecht",
+      "Bezoek aan de Ban Tha Sawang zijdeweverijcoöperatie in Surin: opgericht om traditionele Khmer-Suai zijdetechnieken te behouden, produceert het verfijnde stoffen die door de Thaise koninklijke familie worden gekocht"
+    ],
+    "nl": [
+      "Khmer tempelroute: bezoek Phanom Rung, Phimai en Mueang Tham in een circuit van 2 dagen — Thailands indrukwekkendste oude ruïnes buiten Ayutthaya, met bijna geen buitenlandse toeristen",
+      "Mekong-riviersverkenning: zonsopgangwandelingen langs de rivier in Nong Khai, Chiang Khan of Mukdahan, gevolgd door vers riviervis ontbijt bij rivierrestaurants",
+      "Ban Chiang UNESCO Werelderfgoed: het Nationaal Museum toont opmerkelijk geschilderd aardewerk van een van Azië's oudste Bronstijdbeschavingen (3.600 v.Chr. tot 300 n.Chr.)",
+      "Zijdeweverijdorpsbezoeken bij Khon Kaen en Surin: kijk naar traditionele handgetouwen die ingewikkelde mutmee ikat-zijde produceren",
+      "Platteland motorfietsreis: rijd landwegen tussen dorpen, stoppend bij kleine wats en rijstveldenlandschappen",
+      "Avondvoedselmarkten: ervaar Isaan culinaire cultuur in zijn meest authentieke vorm bij stadsavondmarkten — som tam, larb en gegrilde vleessoorten voor minder dan 50 baht per gerecht",
+      "Bezoek aan Ban Tha Sawang zijdeweven coöperatie in Surin: opgericht om traditionele Khmer-Suai zijdetechnieken te bewaren, die exquisiet stof produceren gekocht door de Thaise koninklijke familie"
+    ],
+    "fr": [
+      "Visites de temples, villages de tissage de soie, marchés traditionnels, exploration de ruines khmères, participation aux festivals, vélo à la campagne"
+    ],
+    "de": [
+      "Tempelbesuche, Seidenweberdörfer, traditionelle Märkte, Khmer-Ruinen erkunden, Festteilnahme, Radfahren auf dem Land"
+    ],
+    "zh": [
+      "寺庙参观、丝绸编织村、传统市场、高棉遗迹探索、节日参与、乡间骑行"
+    ],
+    "ru": [
+      "Посещение храмов, деревни шёлкоткачества, традиционные рынки, исследование кхмерских руин, участие в фестивалях, велопрогулки по сельской местности"
+    ],
+    "ja": [
+      "寺院参拝、絹織物の村、伝統市場、クメール遺跡探訪、祭りへの参加、田園サイクリング"
+    ],
+    "ko": [
+      "사원 방문, 비단 직조 마을, 전통 시장, 크메르 유적 탐방, 축제 참여, 시골 자전거 여행"
+    ],
+    "th": [
+      "ไหว้พระ, หมู่บ้านทอผ้าไหม, ตลาดพื้นเมือง, สำรวจปราสาทหินเขมร, ร่วมงานเทศกาล, ปั่นจักรยานชนบท"
+    ]
+  },
+  "hiddenGems": {
+    "en": [
+      "Prasat Hin Khao Phanom Rung Historisch Park (provincie Buriram): de best bewaarde Khmer-tempel van Thailand, gelegen op een uitgedoofde vulkaan op 383 m hoogte, met een 200 meter lang processiepad dat de zonsopgang inkadert tijdens de equinox — bezocht door tienduizenden Thai maar vrijwel onbekend bij buitenlandse toeristen",
+      "Pha Taem Nationaal Park (Ubon Ratchathani): dramatische 200 meter hoge kliffen boven de Mekong met prehistorische rotstekeningen van meer dan 3.000 jaar oud, en adembenemende uitzichten over de rivier naar Laos",
+      "Chiang Khan (provincie Loei): een zeldzaam bewaard gebleven houten winkelstadje langs de Mekong, met een charmante wandelstraat, ochtendmarkt en een van Thailands mooiste uitzichten op de rivier vanaf de omliggende heuvels",
+      "Phu Kradung Nationaal Park (Loei): een plat zandsteenplateau op 1.325 m hoogte, bereikbaar via een klim van 5,5 km, met dennenbossen, watervallen en prachtige wildebloemenweides — een van Thailands beste wandelbestemmingen, alleen open van oktober tot mei",
+      "Ban Prasat archeologische opgravingsite (Nakhon Ratchasima): een 3.000 jaar oude prehistorische nederzetting met open opgraafputten waar bezoekers menselijke resten en aardewerk op hun oorspronkelijke plek kunnen zien — volledig gratis te bezoeken met vrijwel geen buitenlandse toeristen"
+    ],
+    "nl": [
+      "Prasat Hin Khao Phanom Rung Historisch Park (provincie Buriram): de meest perfect bewaarde Khmer-tempel in Thailand op een uitgedoofde vulkaan op 383 m hoogte, met een 200 meter lang processiepad dat de zonsopgang inkadert bij equinox",
+      "Pha Taem Nationaal Park (Ubon Ratchathani): dramatische kliffen van 200 meter boven de Mekong met prehistorische rotstekeningen van meer dan 3.000 jaar oud, en verbluffend uitzicht over de rivier naar Laos",
+      "Chiang Khan (provincie Loei): een zeldzame bewaarde houten pakhuis stad langs de Mekong, met een charmante wandelstraat en een van Thailands beste uitzichten op de rivier",
+      "Phu Kradung Nationaal Park (Loei): een plat zandsteenplateau op 1.325 m hoogte bereikbaar via een klim van 5,5 km, met dennenbossen en opmerkelijke wildbloemweides",
+      "Ban Prasat archeologische opgraving (Nakhon Ratchasima): een 3.000 jaar oud prehistorisch nederzettingssite met open opgravingsputten waar bezoekers menselijke resten en aardewerk in situ kunnen zien — volledig gratis"
+    ],
+    "fr": [
+      "Phanom Rung Historical Park, Prasat Hin Phimai, parc national de Pha Taem, site archéologique de Ban Chiang, berges de Mukdahan"
+    ],
+    "de": [
+      "Phanom Rung Historical Park, Prasat Hin Phimai, Pha Taem Nationalpark, archäologische Stätte Ban Chiang, Mukdahan am Fluss"
+    ],
+    "zh": [
+      "帕侬蓝历史公园、披迈石宫、帕登国家公园、班清考古遗址、穆达汉河滨"
+    ],
+    "ru": [
+      "Исторический парк Пханом Рунг, Прасат Хин Пхимай, национальный парк Пха Тэм, археологический памятник Бан Чианг, набережная Мукдахана"
+    ],
+    "ja": [
+      "パノムルン歴史公園、プラサート・ヒン・ピマーイ、パーテム国立公園、バーンチエン遺跡、ムクダハーン川沿い"
+    ],
+    "ko": [
+      "파놈룽 역사공원, 쁘라삿 힌 피마이, 파땜 국립공원, 반치앙 고고학 유적지, 묵다한 강변"
+    ],
+    "th": [
+      "อุทยานประวัติศาสตร์พนมรุ้ง, ปราสาทหินพิมาย, อุทยานแห่งชาติผาแต้ม, แหล่งโบราณคดีบ้านเชียง, ริมแม่น้ำมุกดาหาร"
+    ]
+  },
+  "localFestivals": {
+    "en": [
+      "Bun Bang Fai Raketfestival (mei, Yasothon): zelfgemaakte bamboeraketten van 6–9 meter lang worden de lucht in geschoten om regen af te smeken — een van Thailands meest explosieve en chaotische festivals, met dans, muziek en spectaculaire lanceringen",
+      "Phi Ta Khon Geestenfestival (eind juni/begin juli, Dan Sai, Loei): verklede feestgangers in angstaanjagende handgemaakte spookmaskers paraderen door de stad in een 3-daags boeddhistisch verdienstefestival uniek voor dit afgelegen dorp",
+      "Ubon Ratchathani Kaarsfestival (juli, Boeddhistisch Vasten): verfijnd gesneden bijenwaskaarsen, sommige hoger dan 3 meter en versierd met gedetailleerde religieuze scènes, worden door de stad gedragen — een UNESCO-erkend cultureel erfgoed",
+      "Naga-vuurballetjes / Bung Fai Phaya Nak (oktober volle maan, Nong Khai): mysterieuze gloeiende bollen stijgen op uit de Mekong-rivier op de avond van het einde van het Boeddhistische Vasten — een fenomeen dat jaarlijks wetenschappers, journalisten en duizenden toeschouwers aantrekt",
+      "Surin Olifantenrond-up (november): 's werelds grootste olifantenverzameling, met tot 200 olifanten die traditionele demonstraties geven van oude oorlogstactieken, mahout-vaardigheden en touwtrekwedstrijden"
+    ],
+    "nl": [
+      "Bun Bang Fai Raketfestival (mei, Yasothon): zelfgemaakte bamboerakketten van 6–9 meter worden de lucht in geschoten om regen te vragen — een van Thailands meest explosieve festivals",
+      "Phi Ta Khon Geestenfestival (eind juni/begin juli, Dan Sai, Loei): feestgangers in angstaanjagende handgemaakte geestmaskers paraderen door het dorp in een 3-daags boeddhistisch verdienste-festival uniek voor dit afgelegen dorp",
+      "Ubon Ratchathani Kaarsfestival (juli, Boeddhistisch Vasten): uitgebreid gesneden bijenwas-kaarsen, sommige meer dan 3 meter hoog en versierd met ingewikkelde religieuze scènes, worden door de stad geparadeerd — een UNESCO-erkend cultureel erfgoed",
+      "Naga-vuurballetjes / Bung Fai Phaya Nak (volle maan oktober, Nong Khai): mysterieuze gloeiende bollen rijzen op uit de Mekong-rivier op de avond van het einde van Boeddhistisch Vasten",
+      "Surin Olifantenfestival (november): 's werelds grootste olifantenverzameling met tot 200 olifanten die traditionele demonstraties uitvoeren van oude oorlogstactieken en mahout-vaardigheden"
+    ],
+    "fr": [
+      "Festival des fusées Bun Bang Fai (mai), Festival des fantômes Phi Ta Khon (juin), Festival des bougies (juil), Courses de bateaux (oct)"
+    ],
+    "de": [
+      "Bun Bang Fai Raketenfest (Mai), Phi Ta Khon Geisterfest (Juni), Kerzenfest (Juli), Bootsrennen (Okt)"
+    ],
+    "zh": [
+      "邦飞火箭节（5月）、Phi Ta Khon鬼面节（6月）、蜡烛节（7月）、赛船节（10月）"
+    ],
+    "ru": [
+      "Фестиваль ракет Бун Банг Фай (май), фестиваль духов Пхи Та Кхон (июнь), Фестиваль свечей (июль), гонки на лодках (октябрь)"
+    ],
+    "ja": [
+      "ブンバンファイ・ロケット祭り（5月）、ピーターコーン・ゴースト祭り（6月）、ろうそく祭り（7月）、ボートレース（10月）"
+    ],
+    "ko": [
+      "분방파이 로켓 축제 (5월), 피따콘 유령 축제 (6월), 양초 축제 (7월), 보트 레이스 (10월)"
+    ],
+    "th": [
+      "บุญบั้งไฟ (พฤษภาคม), ผีตาโขน (มิถุนายน), แห่เทียนพรรษา (กรกฎาคม), แข่งเรือ (ตุลาคม)"
+    ]
+  },
+  "travelTips": {
+    "en": [
+      "Huur een motorfiets of auto om Isaan volledig te verkennen — openbaar vervoer verbindt de grote steden, maar de beste ervaringen (landelijke tempels, Mekong-rivierdorpjes, Khmer-ruïnes) vereisen eigen vervoer; de wegen zijn over het algemeen uitstekend en het verkeer minimaal buiten de steden",
+      "Khon Kaen en Udon Thani zijn de beste uitvalsbases: beide hebben luchthavens met vluchten vanuit Bangkok (1 uur), goede accommodatie en uitstekende transportverbindingen naar omliggende attracties",
+      "De 'Khmer Tempeldriehoek' nabij de provincies Surin en Buriram — Phanom Rung, Phimai en Mueang Tham — kan in 2 dagen worden bezocht vanuit Nakhon Ratchasima (Korat); huur een lokale gids bij Phanom Rung om de astronomische uitlijningen te begrijpen",
+      "Avondmarkten (talat yen) in Isaan-steden zijn buitengewoon: UD Town in Udon Thani en Ton Tann-markt in Khon Kaen bieden de beste som tam, gegrilde vleessoorten en vers fruit tegen prijzen ver onder die in toeristische gebieden",
+      "Leer een paar woorden in het Isaan-dialect — zelfs eenvoudige begroetingen (sabai dee bor? = hoe gaat het?) wekken buitengewone warmte op bij locals die zelden buitenlandse toeristen ontmoeten",
+      "Het Naga-vuurballetjesfestival in Nong Khai in oktober trekt enorme Thaise menigten — boek accommodatie 3–4 maanden van tevoren als je erheen gaat; de rivierpromenade raakt 's avonds helemaal vol",
+      "Isaan heeft minimale toeristische infrastructuur vergeleken met Bangkok of Chiang Mai — neem contant geld mee want geldautomaten zijn schaars in kleinere steden, en Engels wordt door veel minder mensen gesproken; een eenvoudige vertaalapp is onmisbaar"
+    ],
+    "nl": [
+      "Huur een motorfiets of auto om Isaan volledig te verkennen — openbaar vervoer verbindt grote steden maar de beste ervaringen (landelijke tempels, Mekong-rivierdorpjes, Khmer-ruïnes) vereisen eigen vervoer",
+      "Khon Kaen en Udon Thani zijn de beste basisteden: beide hebben luchthavens met Bangkok-vluchten (1 uur), goede accommodatie en uitstekende transportverbindingen",
+      "De 'Khmer Tempeldriehoek' bij Surin en Buriram — Phanom Rung, Phimai en Mueang Tham — kan in 2 dagen worden bezocht vanuit Nakhon Ratchasima (Korat)",
+      "Avondmarkten (talat yen) in Isaan steden zijn buitengewoon: de UD Town van Udon Thani en Khon Kaen's Ton Tann-markt bieden de beste som tam en gegrild vlees",
+      "Leer een paar woorden in het Isaan-dialect — zelfs eenvoudige begroetingen zullen buitengewone warmte opwekken van locals die zelden buitenlandse toeristen tegenkomen",
+      "Het Naga-vuurballetjesfestival in Nong Khai in oktober trekt enorme Thaise menigten — boek accommodatie 3–4 maanden van tevoren",
+      "Isaan heeft minimale toeristische infrastructuur vergeleken met Bangkok of Chiang Mai — draag contant geld mee want geldautomaten kunnen schaars zijn in kleinere steden"
+    ],
+    "fr": [
+      "Apprenez quelques phrases d'Isaan. Respectez les coutumes rurales. Essayez les marchés alimentaires locaux. Restez hydraté en saison sèche. Négociez avec respect."
+    ],
+    "de": [
+      "Lernen Sie grundlegende Isaan-Phrasen. Respektieren Sie ländliche Bräuche. Probieren Sie lokale Lebensmittelmärkte. Trinken Sie genug in der Trockenzeit. Handeln Sie respektvoll."
+    ],
+    "zh": [
+      "学习基本的伊桑方言。尊重乡村习俗。尝试当地美食市场。旱季注意补水。礼貌地砍价。"
+    ],
+    "ru": [
+      "Выучите базовые фразы на исанском диалекте. Уважайте сельские обычаи. Попробуйте местные продуктовые рынки. Пейте больше воды в сухой сезон. Торгуйтесь уважительно."
+    ],
+    "ja": [
+      "基本的なイサーン方言を覚えておくと便利。農村の習慣を尊重。地元の食品市場を試してみて。乾季は水分補給を忘れずに。丁寧に値段交渉を。"
+    ],
+    "ko": [
+      "기본 이산 방언을 익혀두세요. 시골 관습을 존중하세요. 현지 식품 시장을 방문해 보세요. 건기에는 수분 보충을 잊지 마세요. 정중하게 흥정하세요."
+    ],
+    "th": [
+      "เรียนรู้ภาษาอีสานพื้นฐาน เคารพประเพณีชนบท ลองตลาดอาหารท้องถิ่น ดื่มน้ำมากๆ ในฤดูแล้ง ต่อรองราคาอย่างสุภาพ"
+    ]
+  },
+  "whatToPack": {
+    "en": [
+      "Lichte katoenen kleding, hoed voor zonbescherming, comfortabele sandalen, handdesinfectiemiddel, maagmedicijnen, insectenwerend middel, contant geld"
+    ],
+    "nl": [
+      "Lichte katoenen kleding, hoed tegen de zon, comfortabele sandalen, handgel, maagmedicijnen, insectenspray, contant geld"
+    ],
+    "fr": [
+      "Vêtements légers en coton, chapeau pour la protection solaire, sandales confortables, gel hydroalcoolique, médicaments pour l'estomac, répulsif anti-insectes, espèces"
+    ],
+    "de": [
+      "Leichte Baumwollkleidung, Hut als Sonnenschutz, bequeme Sandalen, Handdesinfektionsmittel, Magenmedizin, Insektenschutzmittel, Bargeld"
+    ],
+    "zh": [
+      "轻薄棉质衣物、遮阳帽、舒适凉鞋、免洗洗手液、胃药、驱虫剂、现金"
+    ],
+    "ru": [
+      "Лёгкая хлопковая одежда, шляпа от солнца, удобные сандалии, антисептик для рук, лекарство для желудка, средство от насекомых, наличные"
+    ],
+    "ja": [
+      "軽い綿の服、日よけ帽子、歩きやすいサンダル、手指消毒剤、胃腸薬、虫除け、現金"
+    ],
+    "ko": [
+      "가벼운 면 옷, 자외선 차단 모자, 편한 샌들, 손 소독제, 위장약, 벌레 퇴치제, 현금"
+    ],
+    "th": [
+      "เสื้อผ้าฝ้ายเบา, หมวกกันแดด, รองเท้าแตะสบาย, เจลล้างมือ, ยาท้อง, ยาทากันยุง, เงินสด"
+    ]
+  },
+  "seo": {
+    "metaTitle": {
+      "en": "Isaan (Northeast Thailand) Travel Guide 2026",
+      "nl": "Isaan (Noordoost-Thailand) Reisgids 2026",
+      "fr": "Isaan (Nord-Est de la Thaïlande) Guide de voyage 2026",
+      "de": "Isaan (Nordostthailand) Reiseführer 2026",
+      "zh": "伊桑（泰国东北部）旅游指南2026",
+      "ru": "Исан (Северо-Восточный Таиланд) — путеводитель 2026",
+      "ja": "イサーン（タイ東北部）旅行ガイド2026",
+      "ko": "이산 (태국 동북부) 여행 가이드 2026",
+      "th": "คู่มือเที่ยวอีสาน (ภาคตะวันออกเฉียงเหนือ) 2026 | Go2Thailand"
+    },
+    "metaDescription": {
+      "en": "Isaan travel guide 2026. Best cities, attractions, culture, and travel tips for Northeast Thailand's authentic destinations.",
+      "nl": "Isaan reisgids 2026. Beste steden, attracties, cultuur en reistips voor de authentieke bestemmingen van Noordoost-Thailand.",
+      "fr": "Guide de voyage Isaan 2026. Meilleures villes, attractions, culture et conseils de voyage pour les destinations authentiques du Nord-Est de la Thaïlande.",
+      "de": "Isaan Reiseführer 2026. Beste Städte, Sehenswürdigkeiten, Kultur und Reisetipps für die authentischen Reiseziele Nordostthailands.",
+      "zh": "伊桑旅游指南2026。泰国东北部原生态目的地的最佳城市、景点、文化和旅行攻略。",
+      "ru": "Путеводитель по Исану 2026. Лучшие города, достопримечательности, культура и советы для аутентичных направлений Северо-Восточного Таиланда.",
+      "ja": "イサーン旅行ガイド2026。タイ東北部の本格的な旅先のおすすめ都市、観光スポット、文化、旅行のヒント。",
+      "ko": "이산 여행 가이드 2026. 태국 동북부의 정통 여행지 추천 도시, 관광지, 문화, 여행 팁.",
+      "th": "คู่มือเที่ยวอีสาน 2026 เมืองน่าเที่ยว สถานที่ท่องเที่ยว วัฒนธรรม และเคล็ดลับการเดินทางสำหรับจุดหมายปลายทางแท้ๆ ของภาคตะวันออกเฉียงเหนือ"
+    }
+  },
+  "categories": {
+    "attractions": {
+      "en": "Top attractions in Isaan (Northeast Thailand)",
+      "nl": "Top bezienswaardigheden in Isaan (Noordoost-Thailand)",
+      "fr": "Principales attractions en Isaan (Nord-Est de la Thaïlande)",
+      "de": "Top-Sehenswürdigkeiten im Isaan (Nordostthailand)",
+      "zh": "伊桑（泰国东北部）热门景点",
+      "ru": "Лучшие достопримечательности Исана (Северо-Восточный Таиланд)",
+      "ja": "イサーン（タイ東北部）の人気観光スポット",
+      "ko": "이산 (태국 동북부) 인기 관광지",
+      "th": "สถานที่ท่องเที่ยวยอดนิยมในอีสาน"
+    },
+    "cities": {
+      "en": "Best cities to visit in Isaan (Northeast Thailand)",
+      "nl": "Beste steden om te bezoeken in Isaan (Noordoost-Thailand)",
+      "fr": "Meilleures villes à visiter en Isaan (Nord-Est de la Thaïlande)",
+      "de": "Beste Städte im Isaan (Nordostthailand)",
+      "zh": "伊桑（泰国东北部）最佳旅游城市",
+      "ru": "Лучшие города Исана (Северо-Восточный Таиланд)",
+      "ja": "イサーン（タイ東北部）のおすすめ都市",
+      "ko": "이산 (태국 동북부) 추천 도시",
+      "th": "เมืองน่าเที่ยวในอีสาน"
+    },
+    "climate": {
+      "en": "Climate and weather in Isaan (Northeast Thailand)",
+      "nl": "Klimaat en weer in Isaan (Noordoost-Thailand)",
+      "fr": "Climat et météo en Isaan (Nord-Est de la Thaïlande)",
+      "de": "Klima und Wetter im Isaan (Nordostthailand)",
+      "zh": "伊桑（泰国东北部）气候与天气",
+      "ru": "Климат и погода в Исане (Северо-Восточный Таиланд)",
+      "ja": "イサーン（タイ東北部）の気候と天気",
+      "ko": "이산 (태국 동북부) 기후와 날씨",
+      "th": "สภาพอากาศและภูมิอากาศอีสาน"
+    }
+  },
+  "tags": [
+    "thailand",
+    "regio",
+    "reizen",
+    "toerisme",
+    "gids",
+    "isaan"
+  ]
+}

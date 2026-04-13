@@ -1,0 +1,82 @@
+{
+  "id": 1,
+  "slug": "railay-beach",
+  "name": {
+    "en": "Railay Beach",
+    "nl": "Railay Beach"
+  },
+  "type": "strand",
+  "city_slug": "krabi",
+  "address": "Railay Peninsula, Ao Nang, Mueang Krabi District, Krabi",
+  "location": {
+    "lat": 8.0167,
+    "lng": 98.8333
+  },
+  "opening_hours": "Open strandgebied; boottoegang hangt af van de omstandigheden en vertrektijden",
+  "entrance_fee": {
+    "thb": 0,
+    "usd": 0
+  },
+  "description": {
+    "en": "Krabi's defining limestone-and-sea landscape, best experienced as a real scenic block rather than a rushed boat stop.",
+    "nl": "Het bepalende kalksteen-en-zeelandschap van Krabi, het best ervaren als echt scenic blok in plaats van een gehaaste bootstop."
+  },
+  "highlights": [
+    "Alleen per boot bereikbaar",
+    "Beste landschappelijke highlight",
+    "Waardevoller dan een gehaast bezoek"
+  ],
+  "image": "/images/cities/krabi/attractions/railayBeach.webp",
+  "official_website": null,
+  "seo": {
+    "metaTitle": {
+      "en": "Railay Beach Krabi | Go2Thailand",
+      "nl": "Railay Beach Krabi | Go2Thailand"
+    },
+    "metaDescription": {
+      "en": "Why Railay is the scenic anchor of Krabi and how to avoid reducing it to a rushed midday boat stop.",
+      "nl": "Waarom Railay het scenic anker van Krabi is en hoe je voorkomt dat het een gehaaste middagstop per boot wordt."
+    }
+  },
+  "tags": [
+    "strand",
+    "railay",
+    "krabi",
+    "andaman",
+    "thailand"
+  ],
+  "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=Railay%20Beach%20Krabi%20Thailand",
+  "best_time": "vroeg in de ochtend of laat in de middag",
+  "duration_hours": 4,
+  "enhanced_description": "Railay is belangrijk omdat het Krabi's duidelijkste beloning van kalksteen en zee biedt. De boottoegang, de kliffen en de afscheiding van het wegennet maken de plek dramatischer dan een gewone strandstop. Dat is ook waarom het zo snel verzwakt bij een gehaast schema. Als je landt, een paar foto's maakt en vertrekt tijdens de drukste middenuren, mis je het grootste deel van wat Railay de moeite waard maakt voor de overtocht.\n\nDe betere aanpak is om Railay een echt blok van de dag te geven. Ga vroeg, blijf laat, of baseer je in de buurt als de reis vooral om landschap draait. De routeplanning van de Tourism Authority of Thailand plaatst Railay nog steeds vooraan in een Krabi-reisplan, en dat is de juiste logica. Het is de schoonste landschappelijke highlight van de provincie en moet ook zo behandeld worden.",
+  "detailed_history": "Huidig route-materiaal van de Tourism Authority of Thailand gebruikt Ao Railay en het nabijgelegen Phra Nang nog steeds als leidende attracties in Krabi's kustroute. Dat is nuttig omdat het bevestigt wat reizigers ter plaatse ontdekken: Railay is niet zomaar een strand onder vele. Het is een van de landschappelijke kenmerken die Krabi's imago definiëren.",
+  "visitor_experience": "Verwacht een strand- en klifsetting gevormd door bootaankomsten in plaats van directe wegtoegang. De waarde ligt in de gecombineerde sfeer van zand, kalksteenwanden en het gevoel even afgesneden te zijn van het vastelandwegennet. Railay werkt het best als je er genoeg tijd voor neemt om het onderscheidend te maken van Ao Nang, in plaats van het als een snelle hokje-aanvink te behandelen.",
+  "best_time_to_visit": {
+    "time_of_day": "Vroeg in de ochtend of laat in de middag",
+    "duration": "Ongeveer een halve dag",
+    "crowd_level": "Kan druk zijn midden op de dag als de bootverkeer piekt"
+  },
+  "practical_info": {
+    "how_to_get_there": "Bereik Railay per longtailboot vanuit Ao Nang of de Krabi-kust; het weer en de zeetoestanden kunnen het comfort van de dienst beïnvloeden.",
+    "nearby_attractions": "Phra Nang, kustuitzichten en Krabi's bredere eiland- en schiereilandroute.",
+    "food_options": "Je kunt hier eten, maar het is sterker om Railay eerst als landschappelijk blok te zien en als eetzone op de tweede plaats.",
+    "shopping": "Beperkt en secundair; dit gaat over landschap en tijd aan de kust, niet over winkelen."
+  },
+  "insider_tips": [
+    "Pers Railay niet in een korte midden-van-de-dag landing als je het kunt vermijden.",
+    "Gebruik het als een echt landschappelijk halve-dag- of overnachtingsblok in plaats van als vulmiddel tussen andere bootstops.",
+    "Als de zee ruw is, blijf flexibel in plaats van de overtocht te forceren."
+  ],
+  "verified_note": "Samenvatting gebaseerd op bronnen van de Tourism Authority of Thailand-routeplanning rond Railay en nabijgelegen Krabi-kuststops. Bootschema's en strandcomfort variëren met weer en seizoen.",
+  "cultural_significance": "Railay is een van Krabi's definiërende landschappen en blijft de duidelijkste uiting van de provincie’s kalksteen-en-strand identiteit.",
+  "contentSources": [
+    {
+      "name": "10 THINGS TO DO IN KRABI",
+      "url": "https://www.tourismthailand.org/Articles/10-things-to-do-in-krabi"
+    },
+    {
+      "name": "Ao Railay (Railay Bay) - Tham Phra Nang Beach - Thale Waek - Ko Po Da - Khao Khanap Nam Viewpoint - Tha Pom - Khlang Cave",
+      "url": "https://www.tourismthailand.org/Trip-Planner/Suggestion-Detail/ao-railay-railay-bay-tham-phra-nang-beach-phra-nang-cave-beach-thale-waek-separated-sea-ko-po-da-khao-khanap-nam-viewpoint-tha-pom-khlang-cave"
+    }
+  ]
+}

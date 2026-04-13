@@ -549,9 +549,9 @@ function flattenBilingual(data: any): any {
   return result;
 }
 
-export const getStaticProps: GetStaticProps = async ({ params }) => {
+export const getStaticProps: GetStaticProps = async ({ params, locale }) => {
   const slug = params?.slug as string;
-  const rawCity = getCityBySlug(slug);
+  const rawCity = getCityBySlug(slug, locale);
 
   if (!rawCity) {
     return { notFound: true };

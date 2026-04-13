@@ -698,12 +698,12 @@ export const getStaticPaths: GetStaticPaths = async () => {
   };
 };
 
-export const getStaticProps: GetStaticProps = async ({ params }) => {
+export const getStaticProps: GetStaticProps = async ({ params, locale }) => {
   const citySlug = params?.slug as string;
   const attractionSlug = params?.attraction as string;
   
-  const city = getCityBySlug(citySlug);
-  const attraction = getAttractionBySlug(citySlug, attractionSlug);
+  const city = getCityBySlug(citySlug, locale);
+  const attraction = getAttractionBySlug(citySlug, attractionSlug, locale);
   
   if (!city || !attraction) {
     return {

@@ -1,0 +1,178 @@
+[
+  {
+    "id": 1,
+    "slug": "koh-samui",
+    "name": {
+      "en": "Koh Samui",
+      "nl": "Koh Samui"
+    },
+    "region": "Golf van Thailand",
+    "province": "Surat Thani",
+    "image": "/images/islands/koh-samui.webp",
+    "highlights": [
+      "Chaweng-strand",
+      "Grote Boeddha",
+      "Ang Thong Marine Park"
+    ]
+  },
+  {
+    "id": 2,
+    "slug": "koh-phangan",
+    "name": {
+      "en": "Koh Phangan",
+      "nl": "Koh Phangan"
+    },
+    "region": "Golf van Thailand",
+    "province": "Surat Thani",
+    "image": "/images/islands/koh-phangan.webp",
+    "highlights": [
+      "Full Moon Party",
+      "Haad Rin-strand",
+      "Thaan Sadet-waterval"
+    ]
+  },
+  {
+    "id": 3,
+    "slug": "koh-tao",
+    "name": {
+      "en": "Koh Tao",
+      "nl": "Koh Tao"
+    },
+    "region": "Golf van Thailand",
+    "province": "Surat Thani",
+    "image": "/images/islands/koh-tao.webp",
+    "highlights": [
+      "Duiken & Snorkelen",
+      "Sairee-strand",
+      "Haaieneiland"
+    ]
+  },
+  {
+    "id": 4,
+    "slug": "koh-phi-phi",
+    "name": {
+      "en": "Koh Phi Phi",
+      "nl": "Koh Phi Phi"
+    },
+    "region": "Andamanse Zee",
+    "province": "Krabi",
+    "image": "/images/islands/koh-phi-phi.webp",
+    "highlights": [
+      "Maya Bay",
+      "Uitzichtpunt Wandeltocht",
+      "Phi Phi Leh"
+    ]
+  },
+  {
+    "id": 5,
+    "slug": "koh-lanta",
+    "name": {
+      "en": "Koh Lanta",
+      "nl": "Koh Lanta"
+    },
+    "region": "Andamanse Zee",
+    "province": "Krabi",
+    "image": "/images/islands/koh-lanta.webp",
+    "highlights": [
+      "Lang Strand",
+      "Nationaal Park Mu Ko Lanta",
+      "Oude Stad"
+    ]
+  },
+  {
+    "id": 6,
+    "slug": "koh-chang",
+    "name": {
+      "en": "Koh Chang",
+      "nl": "Koh Chang"
+    },
+    "region": "Golf van Thailand",
+    "province": "Trat",
+    "image": "/images/islands/koh-chang.webp",
+    "highlights": [
+      "Wit Zandstrand",
+      "Klong Plu-waterval",
+      "Eenzaam Strand"
+    ]
+  },
+  {
+    "id": 7,
+    "slug": "koh-lipe",
+    "name": {
+      "en": "Koh Lipe",
+      "nl": "Koh Lipe"
+    },
+    "region": "Andamanse Zee",
+    "province": "Satun",
+    "image": "/images/islands/koh-lipe.webp",
+    "highlights": [
+      "Pattaya-strand",
+      "Wandelstraat",
+      "Tarutao Marine Park"
+    ]
+  },
+  {
+    "id": 8,
+    "slug": "koh-yao-noi",
+    "name": {
+      "en": "Koh Yao Noi",
+      "nl": "Koh Yao Noi"
+    },
+    "region": "Andamanse Zee",
+    "province": "Phang Nga",
+    "image": "/images/islands/koh-yao-noi.webp",
+    "highlights": [
+      "Uitzichten op Phang Nga Bay",
+      "Rijstvelden",
+      "Kajakken"
+    ]
+  },
+  {
+    "id": 9,
+    "slug": "koh-mak",
+    "name": {
+      "en": "Koh Mak",
+      "nl": "Koh Mak"
+    },
+    "region": "Golf van Thailand",
+    "province": "Trat",
+    "image": "/images/islands/koh-mak.webp",
+    "highlights": [
+      "Ao Kao-strand",
+      "Fietsen",
+      "Ecotoerisme"
+    ]
+  },
+  {
+    "id": 10,
+    "slug": "koh-samet",
+    "name": {
+      "en": "Koh Samet",
+      "nl": "Koh Samet"
+    },
+    "region": "Golf van Thailand",
+    "province": "Rayong",
+    "image": "/images/islands/koh-samet.webp",
+    "highlights": [
+      "Sai Kaew-strand",
+      "Vuurshows",
+      "Weekendje Weg"
+    ]
+  },
+  {
+    "id": 11,
+    "slug": "phuket",
+    "name": {
+      "en": "Phuket",
+      "nl": "Phuket"
+    },
+    "region": "Andamanse Zee",
+    "province": "Phuket",
+    "image": "/images/islands/phuket.webp",
+    "highlights": [
+      "Patong-strand",
+      "Grote Boeddha",
+      "Oude Stad van Phuket"
+    ]
+  }
+]

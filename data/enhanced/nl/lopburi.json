@@ -1,0 +1,615 @@
+{
+  "id": 19,
+  "slug": "lopburi",
+  "name": {
+    "en": "Lopburi",
+    "nl": "Lopburi",
+    "ja": "ロッブリー",
+    "ko": "롭부리",
+    "th": "ลพบุรี",
+    "de": "Lopburi",
+    "fr": "Lopburi",
+    "ru": "Лопбури",
+    "zh": "罗布里"
+  },
+  "region": "Centraal",
+  "province": "Lopburi",
+  "description": {
+    "en": "Lopburi is strongest when you treat it as an old royal-and-Khmer city with a distinctive monkey zone, not just as a novelty stop. The best first version combines the Narai palace quarter, one or two serious ruins, and a selective seasonal detour rather than chasing every monkey photo.",
+    "nl": "Lopburi werkt het best als oude koninklijke en Khmer-stad met een opvallende monkey zone, niet alleen als curiositeit. De beste eerste versie combineert de Narai-paleiszone, een of twee serieuze ruines en een selectieve seizoensdetour in plaats van alleen apenfoto's najagen.",
+    "ja": "ロッブリーは、猿の街という話題性だけで急いで消費するより、ナーラーイ王の宮殿地区とクメール遺跡を軸にゆっくり組み立てた方が魅力が見える中部タイの古都です。",
+    "ko": "롭부리는 원숭이 도시라는 화제성만으로 지나가기보다, 나라이 궁전 구역과 크메르 유적을 중심으로 천천히 묶어 볼 때 더 설득력 있게 보이는 중부 태국의 역사 도시다.",
+    "th": "ลพบุรีเที่ยวได้ดีที่สุดเมื่อมองเป็นเมืองประวัติศาสตร์สายวังนารายณ์และโบราณสถานเขมรที่ยังมีชีวิตร่วมกับย่านลิง มากกว่าจะรีบแวะถ่ายรูปแล้วไปต่อ",
+    "de": "Lopburi wirkt am besten als alte Königs- und Khmerstadt mit eigener Affenzone, nicht nur als kuriose Zwischenstation.",
+    "fr": "Lopburi se comprend mieux comme une ancienne ville royale et khmère avec son quartier des singes, et non comme une simple halte insolite.",
+    "ru": "Лопбури лучше воспринимать как старый королевский и кхмерский город с характерной обезьяньей зоной, а не как курьезную остановку на пару фото.",
+    "zh": "华富里最适合被理解为一座带有猴群街区的古老王都与高棉遗址城市，而不是只停下来拍几张猴子照片的猎奇景点。"
+  },
+  "population": 58000,
+  "highlights": [
+    "Prang Sam Yot",
+    "Phra Narai Ratchaniwet",
+    "Somdet Phra Narai National Museum",
+    "Wichayen House",
+    "Wat Phra Si Rattana Mahathat",
+    "Khao Chin Lae Sunflower Field"
+  ],
+  "location": {
+    "lat": 14.7995,
+    "lng": 100.6534
+  },
+  "image": "/images/cities/generated/lopburi.webp",
+  "seo": {
+    "metaTitle": {
+      "en": "Lopburi Thailand Guide 2026 | Monkeys, Ruins, Hotels",
+      "nl": "Lopburi Thailand Gids 2026 | Apen, ruines en hotels",
+      "ja": "ロッブリー旅行ガイド 2026 | 遺跡、猿、ホテル",
+      "ko": "롭부리 여행 가이드 2026 | 유적, 원숭이, 호텔",
+      "th": "ลพบุรี 2026 | โบราณสถาน ลิง และที่พัก",
+      "de": "Lopburi Thailand Guide 2026 | Ruinen, Affen, Hotels",
+      "fr": "Guide Lopburi 2026 | Ruines, singes et hotels",
+      "ru": "Лопбури 2026 | Руины, обезьяны и отели",
+      "zh": "华富里旅行指南 2026 | 遗址、猴群与酒店"
+    },
+    "metaDescription": {
+      "en": "Plan Lopburi around Prang Sam Yot, Narai's palace quarter, serious Khmer ruins, and the hotels and food picks that fit a compact heritage stay from Bangkok.",
+      "nl": "Plan Lopburi rond Prang Sam Yot, de paleiszone van Narai, sterke Khmer-ruines en hotel- en foodkeuzes die passen bij een compacte erfgoedtrip vanuit Bangkok.",
+      "ja": "プラーン・サームヨート、ナーラーイ宮殿地区、本格的なクメール遺跡、そしてバンコクからの短い歴史旅に合う宿と食事を軸にロッブリーを整理する実用ガイドです。",
+      "ko": "쁘랑 삼욧, 나라이 궁전 구역, 탄탄한 크메르 유적, 그리고 방콕에서 짧게 다녀오기 좋은 숙소와 식사 선택을 중심으로 롭부리를 정리한 가이드다.",
+      "th": "วางแผนเที่ยวลพบุรีโดยยึดพระปรางค์สามยอด ย่านพระนารายณ์ โบราณสถานสำคัญ และตัวเลือกเรื่องกินนอนที่เหมาะกับทริปประวัติศาสตร์จากกรุงเทพฯ",
+      "de": "Planen Sie Lopburi uber Prang Sam Yot, das Narai-Palastviertel, starke Khmer-Ruinen und passende Hotels und Foodstopps fur einen kompakten Kulturerbe-Trip ab Bangkok.",
+      "fr": "Planifiez Lopburi autour de Prang Sam Yot, du quartier du palais de Narai, de vraies ruines khmeres et d'adresses qui conviennent a un court sejour patrimonial depuis Bangkok.",
+      "ru": "Планируйте Лопбури вокруг Prang Sam Yot, дворцового квартала Нарая, сильных кхмерских руин и подходящих отелей и гастрономических остановок для короткой исторической поездки из Бангкока.",
+      "zh": "以三峰塔、那莱王宫区、值得认真看的高棉遗址，以及适合从曼谷短途历史旅行的住宿和餐饮选择来规划华富里。"
+    }
+  },
+  "categories": {
+    "food": {
+      "en": "Best restaurants and local food in Lopburi",
+      "nl": "Beste restaurants en lokaal eten in Lopburi",
+      "ja": "ロッブリーのおすすめレストランとローカルフード",
+      "ko": "롭부리 추천 레스토랑과 로컬 음식",
+      "th": "ร้านอาหารและอาหารท้องถิ่นที่ดีที่สุดในลพบุรี"
+    },
+    "hotels": {
+      "en": "Top hotels in Lopburi | Tips & deals",
+      "nl": "Beste hotels in Lopburi | Tips & aanbiedingen",
+      "ja": "ロッブリーのおすすめホテル | 実用ガイド",
+      "ko": "롭부리 추천 호텔 | 실전 팁",
+      "th": "โรงแรมแนะนำในลพบุรี | เคล็ดลับและดีล"
+    },
+    "attractions": {
+      "en": "Top attractions in Lopburi",
+      "nl": "Top bezienswaardigheden in Lopburi",
+      "ja": "ロッブリーの見どころ",
+      "ko": "롭부리 핵심 명소",
+      "th": "สถานที่ท่องเที่ยวยอดนิยมในลพบุรี"
+    }
+  },
+  "tags": [
+    "centraal",
+    "lopburi",
+    "khmer-ruïnes",
+    "geschiedenis",
+    "apen",
+    "thailand"
+  ],
+  "enhanced_description": "Lopburi wordt te gemakkelijk samengevat in één beeld: apen die over een oud Khmer-monument klimmen. Dat beeld klopt, maar het is niet genoeg op zichzelf. De sterkere versie van de stad begint met het scheiden van drie lagen die op de grond nog steeds goed samenhangen: de apenzone van Prang Sam Yot en San Phra Kan, de paleiskwartier met museum van Narai dat uitlegt waarom Lopburi politiek belangrijk was, en een tweede ring van ruïnes en seizoensafleidingen die diepte toevoegen zodra de hoofdattracties zijn gedaan.\n\nDie structuur doet ertoe omdat Lopburi het beste werkt als een compact erfgoedverblijf in plaats van een hectische checklist vanuit Bangkok. De stad is behapbaar, de oude monumenten liggen dicht genoeg bij elkaar om te voet te verkennen, en de fout bij een kort verblijf is meestal dat je te veel verspreide extra's in één dag propt. Bescherm het paleiskwartier, één serieuze Khmer-ruïne buiten de apenstop, en kies dan of de seizoensextra zonnebloemenvelden of de Pa Sak-kant moet zijn. Zodra je dat doet, voelt Lopburi coherent in plaats van gimmicky.",
+  "overview": "Museum Thailand-materiaal rond Somdet Phra Narai National Museum en Wichayen House schetst Lopburi nog steeds door de regering van koning Narai, de rol van de stad als tweede hoofdstad, en de overgebleven diplomatieke en paleisarchitectuur uit die periode. Officieel TAT-materiaal voegt de andere helft van het verhaal toe: Lopburi is ook een stad van gelaagde Khmer-monumenten, met Wat Phra Si Rattana Mahathat en Prang Sam Yot als het duidelijkste eerste bewijs dat dit meer is dan een apenspektakel.\n\nVoor de meeste eerste bezoeken is één overnachting het praktische zoete punt. Het geeft je ruimte om Prang Sam Yot te doen zonder meteen terug te haasten naar Bangkok, echt tijd door te brengen in het paleis- en museumcomplex, en toch ruimte over te houden voor één extra laag zoals Wichayen House, de ruïnes bij het station, of een seizoensdetour naar Khao Chin Lae of Pa Sak. Een pure dagtrip kan werken, maar het laat Lopburi meestal dunner aanvoelen dan het is.",
+  "hidden_gems": [
+    {
+      "name": "Wat Nakhon Kosa",
+      "story": "Wat Nakhon Kosa is een van de rustigere plekken om de gelaagde geschiedenis van Lopburi te lezen buiten de bekendste apen- en paleisstops.",
+      "how_to_find": "Behandel het als een secundaire ruïne na het paleiskwartier in plaats van als een op zichzelf staande missie.",
+      "best_time": "Ochtend of late namiddag.",
+      "local_insights": [
+        "Dit is sterker voor reizigers die een extra historische laag willen zonder een extra stop met veel drukte.",
+        "Het werkt het beste als je de stad al begrijpt via Prang Sam Yot en Narai's paleis."
+      ]
+    },
+    {
+      "name": "Wat Choeng Tha",
+      "story": "Wat Choeng Tha slaat meer aan als onderdeel van een rustige route door het oude Lopburi dan als een hoofdattractie, maar het voegt nuttige religieuze en restauratiecontext toe.",
+      "how_to_find": "Koppel het aan andere sites in het paleiskwartier in plaats van de stad over te steken alleen voor deze stop.",
+      "best_time": "Ochtend.",
+      "local_insights": [
+        "Dit is een van de betere vervolgstops als het oude centrum te gecomprimeerd aanvoelt in slechts twee monumenten.",
+        "Reizigers die het overslaan missen niet de kern van de stad, maar wie tijd heeft krijgt betere context."
+      ]
+    },
+    {
+      "name": "Sa Kaeo circle and old-town lanes",
+      "story": "De oude-stadstraten rond Sa Kaeo tonen de provinciale kant van Lopburi nadat de monumentenroute uitdooft.",
+      "how_to_find": "Gebruik het voor een avondwandeling of een praktische maaltijd tussen de ruïnes bij het station en het Narai-kwartier.",
+      "best_time": "Late namiddag tot vroege avond.",
+      "local_insights": [
+        "Dit is nuttiger als een tussenliggend stadsblok dan als een bestemming op zich.",
+        "Het helpt Lopburi te voelen als een levende stad in plaats van een erfgoedschikking."
+      ]
+    }
+  ],
+  "authentic_experiences": [
+    {
+      "activity": "Veranker het bezoek met het Narai-paleiskwartier",
+      "story": "Het paleiscomplex en museum voorkomen dat Lopburi aanvoelt als een eenbeeld-stad. Ze leggen uit waarom deze provinciale stop strategisch en diplomatiek belangrijk was in de Ayutthaya-periode.",
+      "cultural_significance": "Museum Thailand en officieel TAT-materiaal blijven Phra Narai Ratchaniwet en Somdet Phra Narai National Museum framen als de belangrijkste historische kern van de stad.",
+      "how_to_participate": "Ga in het koelere deel van de dag, geef het paleis en museum echt tijd, en vermijd het reduceren van het gebied tot een snelle fotostop op de binnenplaats.",
+      "insights": [
+        "Dit is het structurele centrum van een serieus Lopburi-bezoek.",
+        "Als je het paleiskwartier overslaat, wordt de stad veel moeilijker te begrijpen."
+      ],
+      "href": "/city/lopburi/attractions/phra-narai-ratchaniwet-palace/",
+      "cta_label": "Zie de paleisgids"
+    },
+    {
+      "activity": "Behandel Prang Sam Yot als erfgoed eerst en apenzone tweede",
+      "story": "Prang Sam Yot is beroemd vanwege de makaken, maar het blijft een van de sterkste Khmer-landmarks van Lopburi en moet serieus worden genomen als monument.",
+      "cultural_significance": "Officieel toerisme- en museum materiaal gebruikt Prang Sam Yot nog steeds als het duidelijkste stedelijke landmark voor de oudere Khmer-identiteit van Lopburi.",
+      "how_to_participate": "Zorg dat je bezittingen veilig zijn voordat je de apenzone betreedt en geef jezelf genoeg tijd om de architectuur te lezen naast het spektakel.",
+      "insights": [
+        "De beste bezoeken blijven alert zonder de site in een circus te veranderen.",
+        "Vroege of rustigere uren maken het makkelijker om het monument achter de makaken op te merken."
+      ],
+      "href": "/city/lopburi/attractions/prang-sam-yot/",
+      "cta_label": "Zie de Prang Sam Yot-gids"
+    },
+    {
+      "activity": "Voeg één diplomatieke-geschiedenisstop toe bij Wichayen House",
+      "story": "Wichayen House is de plek die het Narai-verhaal verandert van een generiek paleisbezoek in een stad gevormd door buitenlandse gezanten, kooplieden en hofpolitiek.",
+      "cultural_significance": "Museum Thailand identificeert de site als de voormalige koninklijke ontvangstresidentie voor gezanten, verbonden met Constantine Phaulkon en de Franse missies uit de regering van koning Narai.",
+      "how_to_participate": "Koppel het aan het paleis in plaats van het te bewaren voor een aparte halve dag; de waarde zit in het samen zien van beide delen van het verhaal.",
+      "insights": [
+        "Dit is een van de beste toevoegingen in Lopburi als je geïnteresseerd bent in diplomatieke geschiedenis.",
+        "Het is nuttiger dan de dag opvullen met te veel kleine ruïnes."
+      ],
+      "href": "/city/lopburi/attractions/wichayen-house/",
+      "cta_label": "Zie de Wichayen-gids"
+    },
+    {
+      "activity": "Kies één seizoensextra in plaats van detours te verspreiden",
+      "story": "Lopburi wordt beter als je één seizoenslaag buiten de stad kiest, zoals Khao Chin Lae of de Pa Sak-kant, in plaats van beide te proberen vast te plakken aan het oude centrum tijdens een kort verblijf.",
+      "cultural_significance": "TAT Newsroom behandelt de zonnebloemenvelden en de Pa Sak Jolasid-kant nog steeds als het duidelijkste contrast met de historische kern.",
+      "how_to_participate": "Gebruik de extra alleen als het seizoen klopt en houd verwachtingen praktisch; beide werken het beste als gerichte toevoegingen, niet als verplichte hokjes.",
+      "insights": [
+        "Zonnebloemen zijn een timing-afhankelijke beloning, geen jaarronde garantie.",
+        "Pa Sak werkt beter als je trein- of wegplannen van tevoren bevestigt."
+      ],
+      "href": "/city/lopburi/top-10-attractions/",
+      "cta_label": "Vergelijk de beste Lopburi-belevenissen"
+    }
+  ],
+  "foodie_adventures": [
+    {
+      "dish": "Eén ouderwetse lokale Thaise maaltijd in de stad",
+      "location": "Mat Mi of Bua Luang",
+      "story": "Lopburi eten is beter als je leunt op gevestigde lokale namen in plaats van een grote trendgedreven eetscene te verwachten.",
+      "where_to_find": "Gebruik een van de langlopende restaurants in het centrum die nog in officieel TAT Lopburi-materiaal staan en controleer lokaal of ze open zijn.",
+      "price_range": "Budget tot middenklasse",
+      "ordering_tips": [
+        "Behandel deze als betrouwbare stadmaaltijden, niet als bestemmingsfine dining.",
+        "Menu's en openingsuren kunnen veranderen, dus bevestig lokaal op de dag zelf."
+      ],
+      "href": "/city/lopburi/top-10-restaurants/",
+      "cta_label": "Zie meer eetkeuzes"
+    },
+    {
+      "dish": "Eén gemengd-menu vangnet met lokale blijvende kracht",
+      "location": "Lop Buri Steak House",
+      "story": "Een gemengd Thais-en-Westers stadrestaurant kan nuttig zijn in Lopburi als je groep iets breder wil dan een puur lokaal menu.",
+      "where_to_find": "Officieel TAT Lopburi-materiaal somt Lop Buri Steak House nog steeds op als een van de gevestigde eetnamen in de stad.",
+      "price_range": "Middenklasse",
+      "ordering_tips": [
+        "Dit is de praktische compromisstop, niet de reden om naar Lopburi te reizen.",
+        "Gebruik het als je een vertrouwde zit-maaltijd wil na de monumentenroute."
+      ],
+      "href": "/city/lopburi/top-10-restaurants/",
+      "cta_label": "Zie meer eetkeuzes"
+    },
+    {
+      "dish": "Eén oudere-stijl hotelcafé-maaltijd",
+      "location": "Lop Buri Inn Cafe of Watsana",
+      "story": "Hoteldiner in Lopburi is het meest nuttig als je een voorspelbare zit-maaltijd wil nabij de hoofdwegen in plaats van weer te zoeken in verspreide lokale straten.",
+      "where_to_find": "Deze namen staan in officiële TAT Lopburi-restaurantlijsten en zijn het beste te behandelen als praktische klassieke-stadopties.",
+      "price_range": "Middenklasse",
+      "ordering_tips": [
+        "Gebruik hotelcafés voor gemak en airco, niet voor de meest kenmerkende eetpersoonlijkheid van de stad.",
+        "Ze werken goed op aankomst- en vertrekdagen."
+      ],
+      "href": "/city/lopburi/top-10-restaurants/",
+      "cta_label": "Zie meer eetkeuzes"
+    },
+    {
+      "dish": "Een ontbijtgericht verblijf in een centraal hotel of homestay",
+      "location": "Privacy Residence of The Little Lopburi Village",
+      "story": "Als je overnacht, is ontbijt vaak de meest efficiënte manier om de ochtend vrij te houden voor paleis- en ruïnebezoeken voordat de hitte oploopt.",
+      "where_to_find": "Privacy Residence bevat expliciet ontbijt op de officiële site, terwijl The Little Lopburi Village leunt op een host-geleide homestay-sfeer.",
+      "price_range": "Inbegrepen bij verblijf of bescheiden toeslag",
+      "ordering_tips": [
+        "Begin vroeg en ga direct naar het paleiskwartier of Prang Sam Yot voordat tourbussen en middaghitte arriveren.",
+        "Dit gaat om reistempo meer dan om het najagen van een signatuurgerecht."
+      ],
+      "href": "/city/lopburi/top-10-hotels/",
+      "cta_label": "Zie de hotelgids"
+    }
+  ],
+  "local_insights": [
+    "Lopburi voelt substantiëler als het paleiskwartier evenveel tijd krijgt als de apenzone.",
+    "Het stadscentrum is compact, maar de beste dag heeft nog steeds discipline nodig; te veel buitenstedelijke toevoegingen maken de kern gehaast.",
+    "Prang Sam Yot is het makkelijkst vroeg, maar het belangrijkere punt is arriveren zonder los eten of glimmende items.",
+    "Het oude centrum werkt voor een overnachting omdat het de monumenten over koelere uren spreidt in plaats van ze in één middagblok te proppen.",
+    "Zonnebloem- en Pa Sak-extras moeten worden behandeld als seizoensbonussen, niet als gegarandeerde jaarronde redenen om te gaan."
+  ],
+  "seasonal_secrets": "November tot februari is het duidelijkste algemene venster voor Lopburi omdat wandelen door de oude stad makkelijker is en seizoensextras zoals Khao Chin Lae plausibel worden. Eind november brengt ook de apenbanketperiode, maar dat is beter voor reizigers die het spektakel actief willen. Het hete seizoen is nog steeds haalbaar voor een kort geschiedenisverblijf als je de ruïnes vooropstelt en de museum- en hoteltijd intelligent gebruikt.",
+  "budget_reality": "Lopburi blijft een van de makkelijkere overnachtingen in Centraal-Thailand om efficiënt te houden omdat de historische kern geen grote transportkosten vereist. Kosten stijgen vooral als reizigers privévervoer toevoegen voor buitenstedelijke detours, grotere resort-stijl hotels aan de snelwegkant kiezen, of seizoensextras proberen te forceren in een kort verblijf dat anders perfect te voet beheersbaar was.",
+  "top_attractions": [
+    {
+      "rank": 1,
+      "name": "Prang Sam Yot",
+      "description": "Het apenlandmark dat iedereen kent, maar ook een van de duidelijkste Khmer-tijdankers in Centraal Lopburi.",
+      "location": "Oude stad, nabij de monumentenzone bij het station",
+      "entrance_fee": "Controleer huidige monumententoegang bij aankomst",
+      "highlights": [
+        "Khmer-monument",
+        "Het kenmerkende apengebied van Lopburi",
+        "Beste eerste stop"
+      ],
+      "href": "/city/lopburi/attractions/prang-sam-yot/",
+      "cta_label": "Zie de Prang Sam Yot-gids"
+    },
+    {
+      "rank": 2,
+      "name": "Phra Narai Ratchaniwet Palace",
+      "description": "Het paleiskwartier dat de rol van Lopburi als tweede hoofdstad van koning Narai uitlegt en de stad politieke diepte geeft.",
+      "location": "Tha Hin, centraal historisch district",
+      "entrance_fee": "Controleer huidige paleis-en-museumbezoekersregelingen voor je gaat",
+      "highlights": [
+        "Narai-periode koninklijk complex",
+        "Beste historische anker",
+        "Combineert met het museum"
+      ],
+      "href": "/city/lopburi/attractions/phra-narai-ratchaniwet-palace/",
+      "cta_label": "Zie de paleisgids"
+    },
+    {
+      "rank": 3,
+      "name": "Somdet Phra Narai National Museum",
+      "description": "De museumstop die het paleiskwartier en de bredere geschiedenis van Lopburi veel makkelijker te lezen maakt.",
+      "location": "Binnen het Narai-paleiscomplex",
+      "entrance_fee": "Controleer lokaal huidige museumtoegang en openingsdagen",
+      "highlights": [
+        "Paleiscomplex-museum",
+        "Sterke geschiedeniscontext",
+        "Waard echte tijd"
+      ],
+      "href": "/city/lopburi/attractions/somdet-phra-narai-national-museum/",
+      "cta_label": "Zie de museumgids"
+    },
+    {
+      "rank": 4,
+      "name": "Wichayen House",
+      "description": "De diplomatieke-geschiedenisvervolgstop die de Europese connectie van Lopburi in de Narai-tijd toont.",
+      "location": "Wichayan Road, ten noorden van het paleiskwartier",
+      "entrance_fee": "Controleer huidige ticketing voor je bezoekt",
+      "highlights": [
+        "Koninklijke gezantenontvangstresidentie",
+        "Phaulkon-connectie",
+        "Beste secundaire geschiedenisstop"
+      ],
+      "href": "/city/lopburi/attractions/wichayen-house/",
+      "cta_label": "Zie de Wichayen-gids"
+    },
+    {
+      "rank": 5,
+      "name": "Wat Phra Si Rattana Mahathat",
+      "description": "De nuttigste extra ruïne na het paleiskwartier, vooral voor reizigers die nog een serieus Lopburi-monument willen nabij het station.",
+      "location": "Voor Lopburi Railway Station",
+      "entrance_fee": "Controleer huidige monumententoegang ter plaatse",
+      "highlights": [
+        "Station-kant Khmer-tijdcomplex",
+        "Grote prang",
+        "Beste tweede ruïne"
+      ],
+      "href": "/city/lopburi/attractions/wat-phra-si-rattana-mahathat/",
+      "cta_label": "Zie de Mahathat-gids"
+    },
+    {
+      "rank": 6,
+      "name": "Khao Chin Lae Sunflower Field",
+      "description": "De sterkste seizoens toevoeging als je Lopburi-bezoek samenvalt met het bloeiseizoen en je een landschapscontrast met de oude stad wil.",
+      "location": "Khok Tum-kant, buiten centraal Lopburi",
+      "entrance_fee": "Seizoenssite; controleer lokaal huidige toegang en veldcondities",
+      "highlights": [
+        "Beste seizoens fotodetour",
+        "Zonnebloemachtergrond",
+        "Goede wintertoevoeging"
+      ],
+      "href": "/city/lopburi/attractions/khao-chin-lae-sunflower-field/",
+      "cta_label": "Zie de zonnebloemgids"
+    }
+  ],
+  "top_restaurants": [
+    {
+      "rank": 1,
+      "name": "Mat Mi",
+      "price_range": "Budget tot middenklasse",
+      "description": "Een gevestigde lokale Thaise restaurantnaam uit officieel TAT Lopburi-materiaal en een praktische eerste keuze voor een echte stadmaaltijd.",
+      "category": "lokale Thaise",
+      "area": "Phra Si Mahosot Road-gebied",
+      "highlights": [
+        "Officiële TAT Lopburi-vermelding",
+        "Klassieke stadoptie",
+        "Goede praktische lunch of diner"
+      ],
+      "href": "/city/lopburi/top-10-restaurants/",
+      "cta_label": "Zie de eetgids"
+    },
+    {
+      "rank": 2,
+      "name": "Bua Luang",
+      "price_range": "Middenklasse",
+      "description": "Nog een oudere Lopburi-eetnaam die zinvol is als je een meer gevestigde zit-maaltijd wil in plaats van een snelle marktpassage.",
+      "category": "Thais en Chinees",
+      "area": "Tha Sala-kant",
+      "highlights": [
+        "Officiële TAT Lopburi-vermelding",
+        "Langlopende lokale naam",
+        "Handig voor gemengde groepen"
+      ],
+      "href": "/city/lopburi/top-10-restaurants/",
+      "cta_label": "Zie de eetgids"
+    },
+    {
+      "rank": 3,
+      "name": "Lop Buri Steak House",
+      "price_range": "Middenklasse",
+      "description": "Een pragmatisch restaurant met een gemengd menu als je groep na de monumentenroute iets breder wil dan puur lokale Thaise gerechten.",
+      "category": "Thais en Westers",
+      "area": "Tha Sala",
+      "highlights": [
+        "Officiële TAT Lopburi-vermelding",
+        "Gemengd-menu reserve-optie",
+        "Goed na een lange bezichtigingsdag"
+      ],
+      "href": "/city/lopburi/top-10-restaurants/",
+      "cta_label": "Zie de eetgids"
+    },
+    {
+      "rank": 4,
+      "name": "Lop Buri Inn Cafe",
+      "price_range": "Middenklasse",
+      "description": "Een praktische oude-stijl hotelcafé-stop als je een voorspelbare zit-maaltijd wil nabij de hoofdwegen van de stad.",
+      "category": "hotelcafé",
+      "area": "Narai Maharat Road",
+      "highlights": [
+        "Officiële TAT Lopburi-vermelding",
+        "Centrale wegtoegang",
+        "Handige optie voor aankomstdag"
+      ],
+      "href": "/city/lopburi/top-10-restaurants/",
+      "cta_label": "Zie de eetgids"
+    },
+    {
+      "rank": 5,
+      "name": "Watsana at Lop Buri Inn Resort",
+      "price_range": "Middenklasse",
+      "description": "Een eetoptie aan de resort-kant voor reizigers die aan de snelwegkant verblijven of een ruimere zit-setting buiten het oude centrum willen.",
+      "category": "hotelrestaurant",
+      "area": "Tha Sala / snelwegkant",
+      "highlights": [
+        "Officiële TAT Lopburi-vermelding",
+        "Handig voor resortverblijven",
+        "Praktische stop voor roadtrips"
+      ],
+      "href": "/city/lopburi/top-10-restaurants/",
+      "cta_label": "Zie de eetgids"
+    }
+  ],
+  "top_hotels": [
+    {
+      "rank": 1,
+      "name": "HOP INN Lopburi",
+      "price_range": "Budget tot middenklasse",
+      "description": "Het schoonste moderne budget-ketenantwoord in Lopburi als je voorspelbare kamers, een actueel officieel boekingskanaal en eenvoudige wegtoegang wil.",
+      "category": "budget",
+      "area": "Tha Sala",
+      "highlights": [
+        "Officiële hotelwebsite",
+        "79-kamers budget-ketenpand",
+        "Eenvoudige praktische basis"
+      ],
+      "href": "/city/lopburi/top-10-hotels/",
+      "cta_label": "Zie de hotelgids"
+    },
+    {
+      "rank": 2,
+      "name": "The Privacy Residence Lopburi",
+      "price_range": "Middenklasse",
+      "description": "Een stiller in-stad hotel-resort hybride met ontbijt, parkeren en een betere pasvorm voor reizigers die een privé kameropstelling willen zonder de stad helemaal te verlaten.",
+      "category": "middenklasse",
+      "area": "Centraal Lopburi",
+      "highlights": [
+        "Officiële hotelwebsite",
+        "Ontbijt inbegrepen",
+        "24-uurs receptie en parkeren"
+      ],
+      "href": "/city/lopburi/top-10-hotels/",
+      "cta_label": "Zie de hotelgids"
+    },
+    {
+      "rank": 3,
+      "name": "The Little Lopburi Village",
+      "price_range": "Middenklasse",
+      "description": "Een door de gastheer geleide houten-huis verblijf met een persoonlijker homestay-gevoel dan de keten- en wegkant hotelopties.",
+      "category": "boutique",
+      "area": "Pho Kao Ton",
+      "highlights": [
+        "Directe pandpagina",
+        "Klassieke houten-huis stijl",
+        "Goed voor een langzamer overnachting"
+      ],
+      "href": "/city/lopburi/top-10-hotels/",
+      "cta_label": "Zie de hotelgids"
+    },
+    {
+      "rank": 4,
+      "name": "Lop Buri Inn Resort",
+      "price_range": "Middenklasse tot luxe",
+      "description": "Een langlopend groter-formaat Lopburi resort-pand aan de snelwegkant, het meest nuttig als evenementenruimte, parkeren of grotere gronden belangrijker zijn dan beloopbaarheid.",
+      "category": "resort",
+      "area": "Tha Sala / Phaholyothin Road",
+      "highlights": [
+        "Officiële TAT Lopburi accommodatievermelding",
+        "Langlopend resort-pand",
+        "Beter voor automobilisten dan voor oude-stad avonden"
+      ],
+      "href": "/city/lopburi/top-10-hotels/",
+      "cta_label": "Zie de hotelgids"
+    }
+  ],
+  "travel_tips": [
+    "Bescherm de Narai paleiskwartier in je schema; het is wat Lopburi meer maakt dan een apenstop.",
+    "Draag geen zichtbaar eten, bungelende accessoires of glanzende losse items bij Prang Sam Yot en San Phra Kan.",
+    "Een dagtrip werkt, maar één overnachting maakt de stad materieel beter omdat je ruïnes en museumtijd over koelere uren kunt verdelen.",
+    "Als zonnebloemen of Pa Sak deel van het plan zijn, controleer de seizoensgebondenheid voordat je de dag eromheen vastzet.",
+    "Verblijf dichter bij centraal Lopburi als je makkelijker paleis- en oude-stad toegang wil; gebruik de snelwegkant hotels alleen als parkeren of resort-formaat belangrijker is."
+  ],
+  "best_time_to_visit": {
+    "season": "November tot februari is het makkelijkste algemene venster voor een eerste Lopburi-reis, vooral als je beheersbaar weer wil en een kans op zonnebloem-seizoen toevoegingen.",
+    "weather": "Koelere maanden maken de monumentenroute veel comfortabeler, terwijl maart tot mei merkbaar harder is rond het middaguur en strengere vroege starts beloont.",
+    "reasons": "Lopburi is eerst een wandel- en geschiedenisstad, en die structuur verbetert bij lagere temperaturen en realistischere seizoensafwijkingen."
+  },
+  "budget_info": {
+    "daily_budget": {
+      "budget": "Budgetreizigers kunnen Lopburi efficiënt houden met een praktische keten of eenvoudige kamer, lokale maaltijden en een monument-gericht itinerary dat grotendeels in de stad blijft.",
+      "mid": "Een middenklasse verblijf betekent meestal een van de betere centrale hotels, een echte zit-diner en mogelijk één buiten-stad uitstap per auto.",
+      "luxury": "Hogere uitgaven in Lopburi komen meestal van grotere resort-panden, privévervoer en kiezen voor gemak boven compacte stadplanning."
+    }
+  },
+  "thingsToDo": "Bouw Lopburi op rond Prang Sam Yot, het Narai paleis-en-museumkwartier, Wichayen House, en één serieuze ruïne meer zoals Wat Phra Si Rattana Mahathat. Als het seizoen klopt, voeg Khao Chin Lae of de Pa Sak-kant toe, maar forceer niet beide in een kort stadsverblijf.",
+  "whereToStay": "Centraal Lopburi is het beste voor eerste bezoekers die het paleiskwartier, Prang Sam Yot en makkelijkere oude-stad beweging willen. Tha Sala en de snelwegkant werken beter voor automobilisten, keten-hotel comfort of grotere resort-stijl panden. De juiste keuze hangt minder af van ster-categorie dan van of je beloopbaarheid of parkeren en wegtoegang wil.",
+  "whereToEat": [
+    {
+      "name": "Mat Mi",
+      "cuisine": "Lokale Thais",
+      "priceRange": "Budget tot middenklasse",
+      "description": "Een praktische klassieke-stad maaltijd van de officiële TAT Lopburi-lijst."
+    },
+    {
+      "name": "Bua Luang",
+      "cuisine": "Thais en Chinees",
+      "priceRange": "Middenklasse",
+      "description": "Handig voor een meer gevestigde zit-maaltijd aan de Tha Sala-kant."
+    },
+    {
+      "name": "Lop Buri Steak House",
+      "cuisine": "Thais en Westers",
+      "priceRange": "Middenklasse",
+      "description": "Een gemengd-menu reserve-optie die goed werkt voor groepen met bredere voorkeuren."
+    }
+  ],
+  "gettingAround": "Het kernmonumentengebied is compact genoeg om grotendeels te voet af te handelen zodra je in de stad bent, vooral tussen Prang Sam Yot, de station-kant ruïnes en het Narai paleiskwartier. De planningsbreak gebeurt als je Khao Chin Lae, Pa Sak of snelwegkant hotels toevoegt zonder genoeg tijd voor transfers. Houd de oude stad strak en gebruik auto's of hotelhulp alleen voor de buiten-stad stukken.",
+  "bestTimeToVisit": "De koelste maanden van november tot februari blijven het makkelijkst voor Lopburi omdat de stad het best te voet wordt ervaren en seizoensextras realistisch worden. Het hete seizoen kan nog werken als je vroeg begint en de museum- en hotel-downtime gebruikt om de hardste middagstretch te vermijden.",
+  "budgetGuide": {
+    "budget": {
+      "min": 1200,
+      "max": 2500,
+      "description": "Praktische kamer, lokale maaltijden en een grotendeels beloopbaar monumentenplan zonder zwaar privévervoer."
+    },
+    "midrange": {
+      "min": 2800,
+      "max": 5800,
+      "description": "Comfortabel centraal hotel, één of twee zit-maaltijden en mogelijk één bewuste buiten-stad uitstap."
+    },
+    "luxury": {
+      "min": 6500,
+      "max": 14000,
+      "description": "Groter resort-pand, privévervoer en een langzamer bezichtigingstempo opgebouwd rond gemak."
+    }
+  },
+  "safetyTips": "De belangrijkste veiligheidsvariabele in Lopburi is nog steeds de makakenzone rond Prang Sam Yot en San Phra Kan. Draag zo weinig losse spullen als mogelijk, houd eten ingepakt en probeer niet fysiek gestolen items van apen terug te halen. Daarbuiten is de stad een eenvoudige erfgoedstop waar hitte, wegoversteken en overvol geplande dagplanningen eerder problemen veroorzaken dan criminaliteit.",
+  "faq": [
+    {
+      "question": "Is Lopburi een overnachting waard?",
+      "answer": "Ja. Eén overnachting is de schoonste manier om zowel de apenzone als het Narai paleiskwartier te zien zonder de stad in een gehaaste dagtrip te persen."
+    },
+    {
+      "question": "Is Lopburi alleen om apen?",
+      "answer": "Nee. De apen zijn het kopafbeelding, maar het paleiskwartier, museum, Wichayen House en station-kant Khmer-ruïnes maken de stad historisch de moeite waard."
+    },
+    {
+      "question": "Wanneer hebben de zonnebloemvelden zin?",
+      "answer": "Behandel ze als een seizoensbonus, meestal in de koelere maanden, niet als een gegarandeerd jaarrond zicht. Controleer lokaal de bloemsituatie voordat je de dag eromheen bouwt."
+    },
+    {
+      "question": "Waar moet je in Lopburi verblijven?",
+      "answer": "Verblijf centraal als je prioriteit erfgoed bezichtigingen zijn. Kies Tha Sala of snelwegkant panden als parkeren, wegtoegang of resort-formaat belangrijker is dan beloopbaarheid."
+    }
+  ],
+  "practicalInfo": {
+    "arrival": "Lopburi is het makkelijkst te structureren als een directe trein- of roadtrip vanuit Bangkok met één overnachting als je de stad compleet wil laten voelen.",
+    "transport": "Houd de oude-stad dag zoveel mogelijk te voet en bewaar ingehuurd vervoer voor seizoens- of buiten-stad uitstapjes.",
+    "planning": "Denk in lagen: apenlandmark, paleiskwartier, één secundaire ruïne en slechts één optionele extra buiten de stad."
+  },
+  "contentSources": [
+    {
+      "type": "museum",
+      "title": "Bezoek Lopburi, goed van hart en krijg kennis.",
+      "creator": "Museum Thailand",
+      "url": "https://www.museumthailand.com/en/4833/highlight-trip/Visit-Lopburi%2C-A-good-at-heart-and-get-knowledge./",
+      "description": "Gebruikt voor paleiskwartier-framing, de rol van Prang Sam Yot als hoofd stadlandmark, en de relatie tussen het museum, paleis en Wichayen House."
+    },
+    {
+      "type": "museum",
+      "title": "Somdet Phra Narai National Museum",
+      "creator": "Museum Thailand",
+      "url": "https://www.museumthailand.com/en/museum/Somdet-Phra-Narai-National-Museum",
+      "description": "Gebruikt voor museumadres, kaartcoördinaten, Fine Arts managementcontext en paleiscomplex-framing."
+    },
+    {
+      "type": "museum",
+      "title": "Wichayen House",
+      "creator": "Museum Thailand",
+      "url": "https://www.museumthailand.com/en/museum/Wichayen-House",
+      "description": "Gebruikt voor de diplomatieke-geschiedenis achtergrond, adres en kaartcoördinaten voor Wichayen House."
+    },
+    {
+      "type": "toerismekantoor",
+      "title": "Wonderen van Lop Buri combineren Thaise geschiedenis, zonnebloemen en natuurlijke attracties",
+      "creator": "TAT Newsroom",
+      "url": "https://www.tatnews.org/2020/07/wonders-of-lop-buri-combine-thai-history-sunflowers-and-natural-attractions/",
+      "description": "Gebruikt voor actuele officiële toerisme-framing rond Khao Chin Lae zonnebloemvelden, Pa Sak Jolasid Dam en Lopburi's bredere attractiemix."
+    },
+    {
+      "type": "toerismekantoor",
+      "title": "TAT Lopburi PDF-gids",
+      "creator": "Tourism Authority of Thailand",
+      "url": "https://patricklepetit.jalbum.net/LOPBURI/LIBRARY/TAT%20Lopburi.pdf",
+      "description": "Gebruikt voor officiële attractiebeschrijvingen, de Wat Phra Si Rattana Mahathat erfgoed samenvatting en langlopende lokale restaurant- en accommodatie-inventaris."
+    },
+    {
+      "type": "hotel",
+      "title": "HOP INN Lopburi",
+      "creator": "HOP INN Thailand",
+      "url": "https://www.hopinnhotel.com/our-hotels/hop-inn-lopburi",
+      "description": "Gebruikt voor actuele officiële hotelpositionering, adres en kamer-aantal context."
+    },
+    {
+      "type": "hotel",
+      "title": "The Privacy Residence Lopburi",
+      "creator": "The Privacy Residence Lopburi",
+      "url": "https://privacyresidencelopburi.com/",
+      "description": "Gebruikt voor actuele officiële hotelpositionering, ontbijt-inclusie, kamer-type mix en centrale-locatie claims."
+    },
+    {
+      "type": "hotel",
+      "title": "The Little Lopburi Village",
+      "creator": "The Little Lopburi Village",
+      "url": "https://www.homestayinthai.com/1507082/homestay",
+      "description": "Gebruikt als de directe pandpagina voor dit door de gastheer geleide Lopburi-verblijf."
+    }
+  ],
+  "reviewed_by": "Go2Thailand Redactie Team",
+  "enhanced_at": "2026-03-26T00:00:00.000Z",
+  "enrichedAt": "2026-03-26T00:00:00.000Z",
+  "factchecked_at": "2026-03-26T00:00:00.000Z"
+}

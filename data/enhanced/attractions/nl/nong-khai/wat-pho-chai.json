@@ -1,0 +1,75 @@
+{
+  "id": 1,
+  "slug": "wat-pho-chai",
+  "name": {
+    "en": "Wat Pho Chai",
+    "nl": "Wat Pho Chai"
+  },
+  "type": "tempel",
+  "city_slug": "nong-khai",
+  "address": "Pho Chai Road, Mueang Nong Khai, Nong Khai, Thailand",
+  "location": null,
+  "opening_hours": "Dagelijks overdag; controleer lokaal de huidige toegang tot het tempelgebied",
+  "entrance_fee": {
+    "thb": null,
+    "usd": null
+  },
+  "description": {
+    "en": "The city's strongest sacred stop and the clearest place to understand Nong Khai through the Phra Sai Buddha image.",
+    "nl": "De sterkste heilige stop van de stad en de duidelijkste plek om Nong Khai via het Phra Sai-Boeddhabeeld te begrijpen."
+  },
+  "highlights": [
+    "Phra Sai Boeddhabeeld",
+    "Hoofdtempel van de stad",
+    "Beste heilige plek in de stad"
+  ],
+  "image": "/images/cities/generated/nong-khai.webp",
+  "official_website": null,
+  "seo": {
+    "metaTitle": {
+      "en": "Wat Pho Chai | Go2Thailand",
+      "nl": "Wat Pho Chai | Go2Thailand"
+    },
+    "metaDescription": {
+      "en": "Why Wat Pho Chai is the strongest in-town temple stop in Nong Khai and how it anchors the city around the Phra Sai tradition.",
+      "nl": "Waarom Wat Pho Chai de sterkste tempelstop in Nong Khai is en hoe de tempel de stad rond de Phra Sai-traditie verankert."
+    }
+  },
+  "tags": [
+    "nong khai",
+    "wat pho chai",
+    "tempel",
+    "mekong",
+    "isaan"
+  ],
+  "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=Wat%20Pho%20Chai%20Nong%20Khai",
+  "best_time": "ochtend of late namiddag",
+  "duration_hours": 1.5,
+  "enhanced_description": "Wat Pho Chai is de plek die Nong Khai zijn heilige middelpunt geeft. De tempel is belangrijk niet omdat het de grootste stop in de provincie is, maar omdat de stad zelf makkelijker te begrijpen wordt zodra je de rol van Phra Sai begrijpt, het Boeddhabeeld dat het provinciale e-book nog steeds als symbool van Nong Khai beschouwt.\n\nDat maakt Wat Pho Chai de sterkste eerste tempel in de stad. Het werkt het beste als onderdeel van een kernroute door de stad met Tha Sadet en de Mekong-kant, niet als een gehaaste fotostop op weg naar iets verder weg.",
+  "detailed_history": "Het provinciale Nong Khai e-book beschrijft Wat Pho Chai nog steeds als een koninklijke tempel en de thuisbasis van Phra Sai, en koppelt het direct aan de symbolische identiteit van Nong Khai en aan het oudere Lan Xang-verhaal over de Phra Soem, Phra Suk en Phra Sai Boeddhabeelden.",
+  "visitor_experience": "Verwacht eerst een levende tempel en daarna een bezienswaardigheid. Het bezoek is sterker als je rustig beweegt, respectvol gekleed gaat en de tempel genoeg tijd geeft om te registreren als de belangrijkste heilige plek van de stad, in plaats van zomaar een stop op een route door de grensstad.",
+  "best_time_to_visit": {
+    "time_of_day": "Ochtend of late namiddag",
+    "duration": "Ongeveer 60 tot 90 minuten",
+    "crowd_level": "Meestal makkelijker buiten het heetste middaguur"
+  },
+  "practical_info": {
+    "how_to_get_there": "Gemakkelijk bereikbaar vanaf het centrum aan de Mekong-kant met een korte lokale rit of gecombineerde stadswandeling.",
+    "nearby_attractions": "Tha Sadet Market, de rivieroever van de Mekong en andere centrale bezienswaardigheden in Nong Khai.",
+    "food_options": "Gebruik het stadscentrum en de rivieroever voor maaltijden voor of na het tempelbezoek.",
+    "shopping": "Tha Sadet is de handigste nabijgelegen marklaag."
+  },
+  "insider_tips": [
+    "Doe dit voor of na de wandeling langs de rivieroever, niet als een aparte halve dag.",
+    "Behandel de tempel als een echte heilige stop in plaats van een snelle afvink-oefening.",
+    "Controleer lokaal plannen voor feestdagen omdat de ceremoniële timing kan veranderen."
+  ],
+  "verified_note": "Samenvatting gebaseerd op bronnen uit het provinciale Nong Khai e-book. Controleer actuele lokale toegangsinformatie voor je bezoek.",
+  "cultural_significance": "Wat Pho Chai blijft de duidelijkste enkele locatie om de religieuze identiteit van Nong Khai te begrijpen, omdat het de stad centreert op de Phra Sai-traditie in plaats van alleen op grenslogistiek.",
+  "contentSources": [
+    {
+      "name": "Provincial eBook Nong Khai",
+      "url": "https://amazingthailand.com.au/wp-content/uploads/2022/09/Provincial-eBook-Nongkhai_en_Hyperlink_OK.pdf"
+    }
+  ]
+}

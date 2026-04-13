@@ -1,0 +1,823 @@
+{
+  "id": 8,
+  "slug": "hat-yai",
+  "name": {
+    "en": "Hat Yai",
+    "nl": "Hat Yai",
+    "ja": "ハジャイ",
+    "ko": "핫야이",
+    "th": "หาดใหญ่",
+    "de": "Hat Yai",
+    "fr": "Hat Yai",
+    "ru": "Хатъяй",
+    "zh": "合艾"
+  },
+  "region": "Zuidelijk",
+  "province": "Songkhla",
+  "description": {
+    "en": "Southern Thailand's main commercial city, known for Kim Yong Market, Thai-Chinese and Malay-Muslim food, easy airport access, and quick side trips to Songkhla.",
+    "nl": "De belangrijkste handelsstad van Zuid-Thailand, bekend om Kim Yong Market, Thai-Chinese en Maleis-moslimkeukens, vlotte luchthavenverbindingen en snelle uitstappen naar Songkhla.",
+    "ja": "キムヨン市場、タイ中華とマレー系ムスリムの食文化、空港アクセス、ソンクラー方面への小旅行で知られる南タイの商業都市です。",
+    "ko": "킴용 마켓, 태국계 중국식과 말레이 무슬림 음식, 쉬운 공항 접근성, 송클라 방면 반일치기로 알려진 남부 태국의 상업 중심 도시입니다.",
+    "th": "เมืองศูนย์กลางการค้าใหญ่ของภาคใต้ เด่นเรื่องตลาดกิมหยง อาหารไทยเชื้อสายจีนและมลายูมุสลิม การเดินทางสะดวก และต่อทริปไปเมืองสงขลาได้ง่าย",
+    "de": "Die wichtigste Handelsstadt Südthailands, bekannt für den Kim Yong Market, thai-chinesische und malaiisch-muslimische Küche, gute Flughafenanbindung und schnelle Abstecher nach Songkhla.",
+    "fr": "Le principal centre commercial du sud de la Thaïlande, connu pour Kim Yong Market, sa cuisine thaïe-chinoise et malaise musulmane, son accès aéroportuaire pratique et ses excursions faciles vers Songkhla.",
+    "ru": "Главный коммерческий город юга Таиланда, известный рынком Kim Yong, тайско-китайской и малайско-мусульманской кухней, удобным аэропортом и быстрыми выездами в Сонгкхлу.",
+    "zh": "合艾是泰国南部的重要商业城市，以 Kim Yong Market、泰华与马来穆斯林饮食、便利机场连接和前往宋卡的短途行程而知名。"
+  },
+  "population": 157000,
+  "highlights": [
+    "Kim Yong Market",
+    "Khlong Hae Floating Market",
+    "Hat Yai Municipal Park",
+    "Wat Hat Yai Nai",
+    "ASEAN Night Bazaar",
+    "Songkhla Old Town"
+  ],
+  "location": {
+    "lat": 7.0086,
+    "lng": 100.4747
+  },
+  "image": "/images/cities/generated/hat-yai.webp",
+  "seo": {
+    "metaTitle": {
+      "en": "Hat Yai Thailand Guide 2026 | Markets, Food, Hotels, Songkhla Side Trips",
+      "nl": "Ontdek Hat Yai | Wat te doen in Hat Yai?",
+      "ja": "ハジャイ タイ旅行ガイド 2026 | 市場、食事、ホテル、ソンクラー日帰り",
+      "ko": "핫야이 태국 가이드 2026 | 시장, 음식, 호텔, 송클라 반일치기",
+      "th": "หาดใหญ่ ประเทศไทย 2026 | ตลาด ร้านอาหาร โรงแรม และทริปไปสงขลา",
+      "de": "Entdecken Sie Hat Yai | Was tun in Hat Yai?",
+      "fr": "Découvrir Hat Yai | Que faire à Hat Yai ?",
+      "ru": "Путеводитель по Хатъяю 2026 | Рынки, еда, отели и поездки в Сонгкхлу",
+      "zh": "合艾旅游指南 2026 | 市场、美食、酒店与宋卡短途"
+    },
+    "metaDescription": {
+      "en": "Plan Hat Yai properly with Kim Yong Market, Khlong Hae timing, Thai-Chinese and Malay-Muslim food, strong central hotels, airport logistics, and a realistic Songkhla Old Town side trip.",
+      "nl": "Plan Hat Yai slimmer met Kim Yong Market, Khlong Hae-timing, Thai-Chinese en Maleis-moslimeten, sterke centrumhotels, luchthavenlogistiek en een realistische side trip naar Songkhla Old Town.",
+      "ja": "キムヨン市場、คลองแห、南部らしい食文化、中心部ホテル、空港導線、ソンクラー旧市街への現実的な小旅行まで整理したハジャイ実用ガイドです。",
+      "ko": "킴용 마켓, 클롱해 타이밍, 남부식 음식, 중심가 호텔, 공항 이동, 송클라 올드타운 반일치기까지 정리한 핫야이 실전 가이드입니다.",
+      "th": "วางแผนเที่ยวหาดใหญ่ให้ดีขึ้นด้วยตลาดกิมหยง ตลาดน้ำคลองแห อาหารไทยเชื้อสายจีนและมลายูมุสลิม โรงแรมทำเลดี การเดินทางจากสนามบิน และทริปไปเมืองเก่าสงขลา",
+      "de": "Planen Sie Hat Yai besser mit Kim Yong Market, Khlong Hae, thai-chinesischer und malaiisch-muslimischer Küche, starken Stadthotels, Flughafenlogistik und einem realistischen Abstecher nach Songkhla Old Town.",
+      "fr": "Préparez Hat Yai avec Kim Yong Market, les horaires de Khlong Hae, la cuisine thaïe-chinoise et malaise musulmane, de bons hôtels centraux, l'accès aéroport et une vraie excursion vers Songkhla Old Town.",
+      "ru": "Планируйте Хатъяй лучше: Kim Yong Market, график Khlong Hae, тайско-китайская и малайско-мусульманская еда, сильные центральные отели, логистика аэропорта и реальная поездка в старый город Сонгкхлы.",
+      "zh": "从 Kim Yong Market、Khlong Hae 营业节奏、泰华与马来穆斯林美食，到市中心酒店、机场往返和宋卡老城短途，这份指南帮你更好规划合艾。"
+    }
+  },
+  "categories": {
+    "food": {
+      "en": "Best restaurants and street food in Hat Yai",
+      "nl": "Beste restaurants en streetfood in Hat Yai",
+      "ja": "ハジャイのおすすめレストランとストリートフード",
+      "ko": "핫야이 추천 레스토랑과 길거리 음식",
+      "th": "ร้านอาหารและสตรีทฟู้ดที่ดีที่สุดในหาดใหญ่"
+    },
+    "hotels": {
+      "en": "Top hotels in Hat Yai | Tips & deals",
+      "nl": "Beste hotels in Hat Yai | Tips & aanbiedingen",
+      "ja": "ハジャイのおすすめホテル | ヒント＆お得情報",
+      "ko": "핫야이 추천 호텔 | 팁 & 특가",
+      "th": "โรงแรมแนะนำในหาดใหญ่ | เคล็ดลับและดีล"
+    },
+    "attractions": {
+      "en": "Top attractions in Hat Yai",
+      "nl": "Top bezienswaardigheden in Hat Yai",
+      "ja": "ハジャイの人気観光スポット",
+      "ko": "핫야이 인기 관광 명소",
+      "th": "สถานที่ท่องเที่ยวยอดนิยมในหาดใหญ่"
+    }
+  },
+  "tags": [
+    "zuidelijk",
+    "songkhla",
+    "hat-yai",
+    "thailand",
+    "reizen",
+    "eten",
+    "markten"
+  ],
+  "enhanced_description": "Hat Yai werkt het beste als je ophoudt het te vergelijken met de strandbestemmingen van Thailand en begint het te gebruiken waar het echt goed in is: markten, eten, transport, winkelen en efficiënte planning van een zuidelijke stad. Officiële Songkhla- en TAT-materialen presenteren Hat Yai nog steeds als het commerciële en transportcentrum van het zuiden, en dat blijft het meest nuttige uitgangspunt. De stad is bruisend, praktisch en zelden gepolijst in resort-stijl, maar dat is precies waarom het sterker kan zijn dan mensen verwachten.\n\nKim Yong Market en de omliggende binnenstadblokken leggen Hat Yai beter uit dan bijna elke enkele attractie. Hier voelt de stad als een werkende handelsnederzetting in plaats van een in scène gezette toeristenzone. Voeg de Thais-Chinese ontbijtcultuur toe, Maleisisch-Moslimse eetreferenties uit de TAT-halal gids, en de avondmarktlaag van Khlong Hae of ASEAN Night Bazaar, en de stad begint logisch te worden als een eetgerichte stop in plaats van een afvinkbestemming.\n\nHat Yai wordt ook beter als je de omliggende elementen correct plant. Het gemeente park en Wat Hat Yai Nai geven de stad een snelle laag lokale identiteit, Songkhla Old Town maakt een realistische halve dag of dagtrip, en het vliegveld plus treinverbindingen maken aankomsten en vertrekken eenvoudig. De fout is Hat Yai te behandelen als een generieke transitstop of een plek waar elke mall en markt evenveel gewicht verdient. Het is beter als een basis voor één tot drie nachten in het zuiden met bewerkte prioriteiten: één sterke marktocht in de ochtend, één serieuze eetdag, één avondmarkt, en één zorgvuldig gekozen zijtrip.",
+  "overview": "Hat Yai heeft twee bruikbare versies, en de keuze ertussen vormt het hele verblijf. De eerste is centrumgericht: verblijf nabij Lee Gardens Plaza, Kim Yong Market en de centrale straten zodat je te voet naar markten, eten en avondactiviteiten kunt. De tweede is buiten-centrum of vliegveld-kant: gebruik een hotel zoals Hatyai Signature, W3, Crystal of Monkham als parkeren, rustigere nachten of snellere vliegveldtoegang belangrijker is dan direct in de oudere handelskern te zijn. De meeste eerste bezoekers doen het beter met de centrumversie.\n\nDe mix van attracties in de stad is praktisch in plaats van monumentaal. Officiële provinciale materialen wijzen nog steeds naar Hat Yai Municipal Park, Wat Hat Yai Nai, Kim Yong Market, Ton Nga Chang en Khlong Hae, en dat is de juiste schaal om mee te werken. Bouw één dag op rond de stad zelf, één avond rond een markt, en één halve dag rond Songkhla of Ton Nga Chang als je de tijd hebt. Hat Yai is het sterkst als het reisschema bewerkt en stedelijk blijft in plaats van Phuket, Bangkok of een resort-eiland na te bootsen.",
+  "hidden_gems": [
+    {
+      "name": "Use Kim Yong and Santisuk as one downtown block",
+      "story": "Officiële Hat Yai-toerismematerialen wijzen op zowel Kim Yong als Santisuk, en ze werken het beste samen in plaats van als aparte hoofdatracties. Kim Yong geeft je de handelsmarkt-kant, terwijl de omliggende steegjes souvenirs, droge goederen en praktische stadsbewegingen afhandelen.",
+      "how_to_find": "Begin vroeg rond Kim Yong, en blijf lopen in plaats van transport te bellen na de eerste marktpassage.",
+      "best_time": "Ochtend tot vroege lunch.",
+      "local_insights": [
+        "Hat Yai is duidelijker te voet in het oude commerciële centrum dan vanuit een taxi.",
+        "Ochtendmarkttijd is nuttiger dan nog een late mall-stop."
+      ]
+    },
+    {
+      "name": "Khlong Hae only works when you respect the schedule",
+      "story": "De officiële Songkhla-stadsreferentie is hier ongewoon specifiek: Khlong Hae is open van vrijdag tot zondag van 15:00 tot 21:00. Die timingdiscipline doet ertoe omdat veel zwakke Hat Yai-gidsen er nog over praten alsof het de hele dag, elke dag open is.",
+      "how_to_find": "Gebruik het als een laat-middag- of avondplan op de juiste dagen, niet als een flexibele anytime-attractie.",
+      "best_time": "Vrijdag tot zondag, laat in de middag tot avond.",
+      "local_insights": [
+        "Dit is beter als een eet- en sfeerbezoek dan als een shoppingmissie.",
+        "Als je het openingsvenster mist, wissel dan naar centrummarkten in plaats van de trip te forceren."
+      ]
+    },
+    {
+      "name": "Municipal Park is more useful than it first looks",
+      "story": "Het park is niet zomaar een groene pauze. Officiële Songkhla-referenties kaderen het als Hat Yai's belangrijkste openbare recreatiegebied, en in de praktijk is het een van de snelste manieren om de heuveltoporiëntatie van de stad, het Guan Yin-gebied en de bredere stedelijke lay-out te begrijpen.",
+      "how_to_find": "Combineer het met Wat Hat Yai Nai of een centrumavondmarkt in plaats van er een volledige standalone dag aan te geven.",
+      "best_time": "Ochtend of laat in de middag.",
+      "local_insights": [
+        "Het park helpt Hat Yai geografisch leesbaar te maken heel snel.",
+        "Het is lonender als je het gebruikt voor context en uitzichten dan voor afvinken."
+      ]
+    },
+    {
+      "name": "Songkhla Old Town deserves an early start",
+      "story": "Old Town is een van de beste nabijgelegen culturele uitbreidingen, maar het werkt veel beter voordat de hitte opbouwt en voordat je Hat Yai-verkeer de helft van de dag opslokt.",
+      "how_to_find": "Verlaat Hat Yai na het ontbijt, loop door Old Town en een paar erfgoedstraten, en keer terug voor een Hat Yai-diner of nachtmarkt.",
+      "best_time": "Ochtend tot vroege middag.",
+      "local_insights": [
+        "Dit is een van de schoonste manieren om erfgoeddiepte toe te voegen aan een Hat Yai-reis.",
+        "Gebruik het als één gefocuste zijtrip, niet als één stop onder meerdere gehaaste omwegen."
+      ]
+    }
+  ],
+  "authentic_experiences": [
+    {
+      "activity": "Bouw één echte Hat Yai-marktocht in de ochtend op",
+      "story": "Kim Yong Market is geen toeristenprop in officiële Songkhla-materialen; het is een stadssymbool en alledaagse commerciële anker. Het serieus gebruiken van de markt geeft je de sterkste eerste blik op de identiteit van Hat Yai.",
+      "cultural_significance": "De centrummarktzone toont Hat Yai als een grenshandelsstad gevormd door Thais, Chinees en Maleisisch gerichte commercie.",
+      "how_to_participate": "Ga vroeg, loop door Kim Yong en de omliggende centrale steegjes, en houd lunch nabij in plaats van meteen te verhuizen.",
+      "insights": [
+        "Ochtend is een beter gebruik van Hat Yai dan laat slapen en in een mall beginnen.",
+        "De stad wordt coherenter zodra je ziet hoe de marktkern echt functioneert."
+      ],
+      "href": "/city/hat-yai/attractions/kim-yong-market/",
+      "cta_label": "Bekijk Kim Yong Market details"
+    },
+    {
+      "activity": "Splits Hat Yai-eten tussen Thais-Chinees ontbijt en Maleisisch-Moslimse maaltijden",
+      "story": "De TAT-halal gids is nuttig omdat het duidelijk maakt dat de eetidentiteit van Hat Yai niet eentonig is. Gefrituurde kip, dim sum, thee, halal keukens en markteten horen hier allemaal thuis.",
+      "cultural_significance": "Die mix weerspiegelt het zuidelijke grenskarakter van de stad en de overlap tussen Thais-Chinese handelsgeschiedenis en Moslimse eetcultuur.",
+      "how_to_participate": "Doe één dim sum- of ontbijtstop, één halal- of Moslim-gerichte lunch, en één avondmarkt in plaats van één handtekeninggerecht te forceren om de hele stad uit te leggen.",
+      "insights": [
+        "Hat Yai is sterker als een multi-maaltijd stad dan als een stad met één beroemd restaurant.",
+        "Variëteit is hier het punt, niet prestige dineren."
+      ],
+      "href": "/city/hat-yai/top-10-restaurants/",
+      "cta_label": "Bekijk de Hat Yai eetgids"
+    },
+    {
+      "activity": "Gebruik het gemeente park en Wat Hat Yai Nai als de lokale-identiteitslaag van de stad",
+      "story": "Deze twee officiële basisitems zijn het nog steeds waard om te behouden omdat ze een burgerlijke en religieuze dimensie toevoegen die de markt-alleen versie van Hat Yai kan missen.",
+      "cultural_significance": "Het park toont het publieke Hat Yai in ontspanning, terwijl Wat Hat Yai Nai een van de duidelijkste boeddhistische landmarks in het stedelijke gebied blijft.",
+      "how_to_participate": "Doe er één in de ochtend en de andere later op de dag, en keer terug naar het centrum voor diner.",
+      "insights": [
+        "Dit zijn ondersteunende stops, geen redenen om het reisschema op te blazen.",
+        "Samen maken ze de stad completer aanvoelen."
+      ],
+      "href": "/city/hat-yai/attractions/hat-yai-municipal-park/",
+      "cta_label": "Bekijk de gemeente park gids"
+    },
+    {
+      "activity": "Behandel Songkhla Old Town als de beste culturele uitbreiding van Hat Yai",
+      "story": "Als je meer wilt dan markten en winkelen, is Songkhla Old Town het beste nabijgelegen antwoord. Het voegt erfgoedstraten, straatkunst, musea en een veel sterkere historische laag toe dan Hat Yai zelf kan bieden.",
+      "cultural_significance": "Dit is de duidelijkste manier om zuidelijke havenhistorie en architectuur toe te voegen aan een Hat Yai-gebaseerde reis.",
+      "how_to_participate": "Ga in de ochtend, houd de route selectief, en keer terug naar Hat Yai voor je avond eetplan.",
+      "insights": [
+        "Dit is een betere zijtrip dan meerdere kleine stops in één dag proppen.",
+        "Hat Yai plus Songkhla is een sterkere combinatie dan Hat Yai alleen."
+      ],
+      "href": "/city/hat-yai/attractions/songkhla-old-town/",
+      "cta_label": "Bekijk de Songkhla Old Town gids"
+    }
+  ],
+  "foodie_adventures": [
+    {
+      "dish": "Decha-stijl gefrituurde kip en zuidelijke Moslim comfort food",
+      "location": "Decha Fried Chicken & Seafood",
+      "story": "De TAT-halal gids vermeldt Decha Fried Chicken & Seafood direct, wat het een sterkere Hat Yai-referentie maakt dan generieke scraped best-of lijsten. Het past bij de stad omdat de maaltijd zit op de overlap van snelle lokale favoriet, herhaalbare lunchstop en grensstad eetcultuur.",
+      "where_to_find": "Gebruik het als een echte lunch of vroeg diner, niet alleen als een snackstop tussen markten.",
+      "price_range": "Budget tot middenklasse",
+      "ordering_tips": [
+        "Ga voor meer dan één item zodat de maaltijd niet vervlakt tot één gefrituurd gerecht.",
+        "Dit is een beter gebruik van Hat Yai dan geïmporteerd café-eten najagen."
+      ],
+      "href": "/city/hat-yai/top-10-restaurants/",
+      "cta_label": "Bekijk de Hat Yai eetgids"
+    },
+    {
+      "dish": "Dim sum ontbijt met een zuidelijk-stadsritme",
+      "location": "Rafa Dimsum Halal en andere ontbijt-gerichte stops",
+      "story": "De TAT-halal gids benadrukt Rafa Dimsum Halal, en dat doet ertoe omdat het de ontbijtkant van Hat Yai verankert in een primaire bron in plaats van reisforum-roddels.",
+      "where_to_find": "Gebruik dim sum vroeg, ideaal voor het lopen door centrummarkten of een Songkhla-vertrek.",
+      "price_range": "Budget",
+      "ordering_tips": [
+        "Ontbijt werkt beter dan een late brunch als je de stad op vol tempo wilt.",
+        "Dim sum is een van de makkelijkste manieren om de Thais-Chinese kant van Hat Yai te begrijpen."
+      ],
+      "href": "/city/hat-yai/top-10-restaurants/",
+      "cta_label": "Bekijk de Hat Yai eetgids"
+    },
+    {
+      "dish": "Kim Yong snacks, droge goederen, thee en markt grazen",
+      "location": "Kim Yong Market",
+      "story": "Officiële Songkhla-materialen behandelen Kim Yong als een stadssymbool en bron van goedkope goederen en souvenirs. Diezelfde marktlogica is waarom het zo goed werkt voor snack-geleid eetverkennen.",
+      "where_to_find": "Ga in de ochtend en graas licht terwijl je loopt, en houd lunch apart.",
+      "price_range": "Budget",
+      "ordering_tips": [
+        "Gebruik de markt voor variëteit en voorraadkast-stijl aankopen meer dan voor één lange zit-maaltijd.",
+        "Dit is een betere ochtendstop dan een late nacht."
+      ],
+      "href": "/city/hat-yai/attractions/kim-yong-market/",
+      "cta_label": "Bekijk Kim Yong Market details"
+    },
+    {
+      "dish": "Weekend drijvende-markt eten geserveerd in natuurlijke containers",
+      "location": "Khlong Hae Floating Market",
+      "story": "De officiële Songkhla-stadsreferentie noteert specifiek eten verkocht vanuit boten en op land, met veel items geserveerd in kokosnoten en andere natuurlijke containers. Dat is precies het duurzame detail dat waard is om te behouden.",
+      "where_to_find": "Vrijdag tot zondag, laat in de middag tot avond.",
+      "price_range": "Budget",
+      "ordering_tips": [
+        "Bewaar dit niet voor doordeweekse dagen; het schema maakt deel uit van de planning.",
+        "Behandel het als een avond eetstop, niet als een lunch fallback."
+      ],
+      "href": "/city/hat-yai/attractions/hat-yai-floating-market/",
+      "cta_label": "Bekijk drijvende markt details"
+    }
+  ],
+  "local_insights": [
+    {
+      "observation": "Hat Yai is beter als een stad van zones dan als een stad van landmarks.",
+      "tip": "Houd centrummarkten, park-en-tempel stops en Songkhla zijtrips in aparte blokken in plaats van de regio herhaaldelijk over te steken in één dag.",
+      "surprise": "De stad voelt efficiënter aan zodra je ophoudt te verwachten van één handtekeningmonument."
+    },
+    {
+      "observation": "Het centrum is nog steeds de makkelijkste eerste basis.",
+      "tip": "Als dit je eerste Hat Yai-verblijf is, slaap nabij Lee Gardens, Kim Yong of het centrale commerciële gebied tenzij parkeren of vliegveldtiming je hoofdzorg is.",
+      "surprise": "Een stiller hotel buiten het centrum kan slechter zijn als je je hele reis betaalt om terug de stad in te gaan."
+    },
+    {
+      "observation": "Grensweekendvraag is echt.",
+      "tip": "De TAT Hat Yai-richtlijn waarschuwt dat Maleisische feestweekenden de kamervoorraad kunnen aanspannen, dus boek centrale hotels eerder als de vraag piekt.",
+      "surprise": "Hat Yai-vraag wordt vaak meer gedreven door regionale weekendverkeer dan door langeafstandstoerisme."
+    },
+    {
+      "observation": "Eén zijtrip is genoeg bij korte verblijven.",
+      "tip": "Kies Songkhla Old Town of Ton Nga Chang als je maar twee dagen hebt; proberen beide toe te voegen verzwakt meestal de stad zelf.",
+      "surprise": "Hat Yai wordt sterker zodra de dagtrip de stad ondersteunt in plaats van vervangt."
+    }
+  ],
+  "seasonal_secrets": {
+    "best_season": "November tot februari",
+    "why": "Dit is meestal de makkelijkste periode voor markt lopen, hittebeheer in de stad, en combineren van Hat Yai met Songkhla of andere nabijgelegen omwegen.",
+    "local_festivals": [
+      "Songkran brengt grote straatactiviteit rond centrale Hat Yai-wegen.",
+      "Grensoverschrijdende feestweekenden creëren vaak een drukker stadscentrum hotel- en markt sfeer."
+    ],
+    "seasonal_foods": [
+      "Weekend markteten is het sterkst als Khlong Hae open is en het weer droog genoeg om te blijven hangen.",
+      "Hitte-weken maken ontbijt- en avond eetplannen comfortabeler dan zware middag lopen."
+    ],
+    "insider_tips": [
+      "In hetere maanden, doe centrum in de ochtend en markten weer na donker.",
+      "Boek eerder als je reis samenvällt met Maleisisch school- of feestverkeer."
+    ]
+  },
+  "budget_reality": {
+    "budget": "€23-41 per dag",
+    "mid_range": "€50-100 per dag",
+    "luxury": "€115-220 per dag",
+    "examples": [
+      "Budgetreizigers doen het goed met centrale guesthouses, dim sum ontbijten, marktmaaltijden en selectief transportgebruik.",
+      "Middenklasse reizigers profiteren meestal het meest van een sterk centraal hotel en één of twee betere restaurant- of hotel-diner keuzes.",
+      "Luxe uitgeven in Hat Yai gaat meer om hotelcomfort en gemak dan om bestemmingsniveau resort-ervaringen."
+    ],
+    "money_saving_tricks": [
+      "Blijf centraal als je plan vooral markten en eten is, omdat herhaalde transportkosten snel oplopen.",
+      "Gebruik één marktmaaltijd en één lokaal restaurantmaaltijd per dag in plaats van altijd terug te vallen op hotel dineren.",
+      "Kies óf Songkhla óf Ton Nga Chang bij korte verblijven in plaats van te betalen voor meerdere lange autoreizen."
+    ],
+    "hidden_costs": [
+      "Verkeers-tijd taxi's en herhaalde korte stedelijke transfers kunnen meer kosten dan verwacht.",
+      "Vliegveld-kant hotels besparen tijd alleen als vliegveldtiming echt centraal staat in je reis."
+    ]
+  },
+  "top_attractions": [
+    {
+      "rank": 1,
+      "name": "Kim Yong Market",
+      "description": "De markt die Hat Yai nog steeds het beste uitlegt: stadssymbool handelssteegjes, goedkope goederen, en een ochtend eet- en shopping ritme dat lokaal aanvoelt.",
+      "location": "Centraal Hat Yai",
+      "entrance_fee": "Gratis openbare markt",
+      "highlights": [
+        "Hat Yai symboolmarkt",
+        "Beste ochtend stadstop",
+        "Nuttig voor snacks, droge goederen en souvenirs"
+      ],
+      "href": "/city/hat-yai/attractions/kim-yong-market/",
+      "cta_label": "Bekijk attractie details"
+    },
+    {
+      "rank": 2,
+      "name": "Khlong Hae Floating Market",
+      "description": "Een waardevolle laat-middag of avond plan als je het officiële vrijdag-tot-zondag schema respecteert en gaat voor eten en sfeer, niet alleen foto's.",
+      "location": "Khlong Hae",
+      "entrance_fee": "Gratis entree",
+      "highlights": [
+        "Alleen weekend culturele drijvende markt",
+        "Eten geserveerd in natuurlijke containers",
+        "Beste avondmarkt uitbreiding buiten centrum"
+      ],
+      "href": "/city/hat-yai/attractions/hat-yai-floating-market/",
+      "cta_label": "Bekijk attractie details"
+    },
+    {
+      "rank": 3,
+      "name": "Hat Yai Municipal Park",
+      "description": "Een praktische heuveltop-en-burgerlijke stop die uitzichten, publieke-stad context en een makkelijke pauze toevoegt van de centrum commerciële kern.",
+      "location": "Kanchanawanit Road kant",
+      "entrance_fee": "Gratis openbaar park",
+      "highlights": [
+        "Nuttige stadoriëntatie stop",
+        "Heuveltop landmarks en parksetting",
+        "Beste gecombineerd met één andere stadsbezienswaardigheid"
+      ],
+      "href": "/city/hat-yai/attractions/hat-yai-municipal-park/",
+      "cta_label": "Bekijk attractie details"
+    },
+    {
+      "rank": 4,
+      "name": "Wat Hat Yai Nai",
+      "description": "Een van Hat Yai's definiërende boeddhistische landmarks en de makkelijkste tempelstop om betekenisvolle lokale context toe te voegen aan een markt-gericht verblijf.",
+      "location": "Zijde van Phetkasem Road",
+      "entrance_fee": "Gratis",
+      "highlights": [
+        "Grote liggende Boeddha",
+        "Sterke lokale-religieuze context",
+        "Makkelijk bezoek van een halfuur tot een uur"
+      ],
+      "href": "/city/hat-yai/attractions/wat-hat-yai-nai/",
+      "cta_label": "Bekijk details van de bezienswaardigheid"
+    },
+    {
+      "rank": 5,
+      "name": "ASEAN Night Bazaar",
+      "description": "Een praktische avondoptie als je het nachtleven in Hat Yai in marktvorm wilt beleven in plaats van in bars of winkelcentra.",
+      "location": "Stedelijke kern van Hat Yai",
+      "entrance_fee": "Gratis entree",
+      "highlights": [
+        "Avondmarktenergie",
+        "Winkelen plus eten",
+        "Sterke stadstop na zonsondergang"
+      ],
+      "href": "/city/hat-yai/attractions/asean-night-bazaar/",
+      "cta_label": "Bekijk details van de bezienswaardigheid"
+    },
+    {
+      "rank": 6,
+      "name": "Songkhla Old Town",
+      "description": "De beste culturele uitstap vanuit Hat Yai als je erfgoedstraten, musea en een veel sterker architecturaal laagje wilt dan Hat Yai zelf biedt.",
+      "location": "Stad Songkhla",
+      "entrance_fee": "Openbare straten gratis; musea en cafés stellen eigen prijzen vast",
+      "highlights": [
+        "Beste uitstap vanuit Hat Yai",
+        "Historische straten en culturele locaties",
+        "Voegt erfgoeddiepte toe aan een stedelijk verblijf"
+      ],
+      "href": "/city/hat-yai/attractions/songkhla-old-town/",
+      "cta_label": "Bekijk details van de bezienswaardigheid"
+    }
+  ],
+  "top_restaurants": [
+    {
+      "rank": 1,
+      "name": "Decha Fried Chicken & Seafood",
+      "cuisine_type": "Zuid-Thais / moslimvriendelijk comfortfood",
+      "price_range": "Budget tot middenklasse",
+      "location": "Zijde van Supphasan Rangsan Road",
+      "description": "Een klassieker uit Hat Yai op de TAT-lijst die de stad een sterker voedselidentiteit geeft dan generieke recensielijsten.",
+      "highlights": [
+        "Officiële TAT-keuze uit de halal-gids",
+        "Goede anker voor lunch of vroeg diner",
+        "Past bij de zuidelijke grensstad-voedselmix van Hat Yai"
+      ],
+      "href": "/city/hat-yai/top-10-restaurants/",
+      "cta_label": "Bekijk de volledige eetgids voor Hat Yai"
+    },
+    {
+      "rank": 2,
+      "name": "Kim Yong Market food lanes",
+      "cuisine_type": "Markteten / snacks / droge goederen",
+      "price_range": "Budget",
+      "location": "Centraal Hat Yai",
+      "description": "De beste ochtendzone voor eten en handel in de stad als je Hat Yai vanaf het begin lokaal en praktisch wilt ervaren.",
+      "highlights": [
+        "Beste ochtendwandeling voor eten",
+        "Marktsetting als symbool van de stad",
+        "Handig voor snacks en afhaalkoopjes"
+      ],
+      "href": "/city/hat-yai/attractions/kim-yong-market/",
+      "cta_label": "Bekijk details van Kim Yong Market"
+    },
+    {
+      "rank": 3,
+      "name": "Khlong Hae Floating Market",
+      "cuisine_type": "Weekendmarkteten",
+      "price_range": "Budget",
+      "location": "Khlong Hae",
+      "description": "Een sterke weekend-only eetstop voor reizigers die de drijvende-markt-kant van Hat Yai willen zonder te doen alsof het elke dag open is.",
+      "highlights": [
+        "Officiële verwijzing van de stad Songkhla",
+        "Alleen van vrijdag tot zondag",
+        "Eten van boten en landkraampjes"
+      ],
+      "href": "/city/hat-yai/attractions/hat-yai-floating-market/",
+      "cta_label": "Bekijk details van de drijvende markt"
+    },
+    {
+      "rank": 4,
+      "name": "Rafa Dimsum Halal",
+      "cuisine_type": "Dim sum / halal ontbijt",
+      "price_range": "Budget",
+      "location": "Gebied rond Thammanoonvithi Road",
+      "description": "Een van de duidelijkste TAT-ondersteunde ontbijtreferenties als je de ochtenddineerritme van Hat Yai wilt in plaats van een generiek café.",
+      "highlights": [
+        "Officiële TAT-keuze uit de halal-gids",
+        "Goede ontbijtoptie",
+        "Sterke Thaise-Chinese en moslimoverlapping"
+      ],
+      "href": "/city/hat-yai/top-10-restaurants/",
+      "cta_label": "Bekijk de volledige eetgids voor Hat Yai"
+    },
+    {
+      "rank": 5,
+      "name": "Sami Kitchen",
+      "cuisine_type": "Thaise en Chinese keuken",
+      "price_range": "Budget tot middenklasse",
+      "location": "Zijde van Khlong Hae",
+      "description": "Een nuttig lokaal restaurant op de TAT-lijst als je een echte maaltijd wilt buiten de bekendere marktstops om.",
+      "highlights": [
+        "Officiële TAT-keuze uit de halal-gids",
+        "Goede maaltijd in het Khlong Hae-gebied",
+        "Nuttig zitdown-alternatief voor puur marktsnacken"
+      ],
+      "href": "/city/hat-yai/top-10-restaurants/",
+      "cta_label": "Bekijk de volledige eetgids voor Hat Yai"
+    },
+    {
+      "rank": 6,
+      "name": "Salma Restaurant",
+      "cuisine_type": "Thaise keuken / halalvriendelijk lokaal dineren",
+      "price_range": "Budget tot middenklasse",
+      "location": "Gebied rond Prachathipat Road",
+      "description": "Een betrouwbare eetoptie op de TAT-lijst als je een eenvoudige maaltijd in het stadscentrum wilt met lokale in plaats van toeristenprioriteit.",
+      "highlights": [
+        "Officiële TAT-keuze uit de halal-gids",
+        "Goede centrale ligging",
+        "Nuttige betrouwbare eetstop"
+      ],
+      "href": "/city/hat-yai/top-10-restaurants/",
+      "cta_label": "Bekijk de volledige eetgids voor Hat Yai"
+    },
+    {
+      "rank": 7,
+      "name": "Ginger Restaurant at Centara Hotel Hat Yai",
+      "cuisine_type": "Hoteldiner / buffet / internationaal",
+      "price_range": "Middenklasse tot luxe",
+      "location": "Centara Hotel Hat Yai",
+      "description": "Een verstandige centraal gelegen hoteldineeroptie als comfort en locatie belangrijker zijn dan elke maaltijd streetfood-atmosfeer najagen.",
+      "highlights": [
+        "Officiële Centara-restaurantlijst",
+        "Nuttig hoteldiner in het centrum",
+        "Goede back-up voor weer of gemak"
+      ],
+      "href": "/city/hat-yai/top-10-restaurants/",
+      "cta_label": "Bekijk de volledige eetgids voor Hat Yai"
+    },
+    {
+      "rank": 8,
+      "name": "Signature Cafe & Restaurant",
+      "cuisine_type": "Hoteldiner / ontbijt tot diner",
+      "price_range": "Middenklasse",
+      "location": "Hatyai Signature Hotel",
+      "description": "Een officiële huisdineeroptie die goed werkt als je verblijft aan de luchthavenkant of buitenste centrumkant van Hat Yai.",
+      "highlights": [
+        "Officieel hotelrestaurant",
+        "Ontbijt-, lunch- en dinerdienst",
+        "Nuttig buiten het centrum"
+      ],
+      "href": "/city/hat-yai/top-10-restaurants/",
+      "cta_label": "Bekijk de volledige eetgids voor Hat Yai"
+    }
+  ],
+  "top_hotels": [
+    {
+      "rank": 1,
+      "name": "Lee Gardens Plaza Hotel",
+      "price_range": "Middenklasse tot luxe",
+      "category": "middenklasse",
+      "area": "Centrum Hat Yai",
+      "description": "Nog steeds een van de duidelijkste centrale verblijven als wandelbare markttoegang en centrumgemak het hoofddoel van de reis zijn.",
+      "highlights": [
+        "Officiële positionering in het centrum",
+        "Wandelafstand tot Kim Yong Market",
+        "Nuttige basis voor eerste keer in Hat Yai"
+      ],
+      "href": "/city/hat-yai/top-10-hotels/",
+      "cta_label": "Bekijk de hotelgids voor Hat Yai"
+    },
+    {
+      "rank": 2,
+      "name": "Centara Hotel Hat Yai",
+      "price_range": "Luxe",
+      "category": "luxe",
+      "area": "Centraal Hat Yai",
+      "description": "Een goed gelegen full-service stadshotel verbonden met het winkelcentrum, met sterker zakelijk en gemakslogica dan boetiekcharme.",
+      "highlights": [
+        "Officieel landmark in het stadscentrum",
+        "30 minuten van de luchthaven volgens Centara",
+        "Goed voor centraal comfort en vergaderingen"
+      ],
+      "href": "/city/hat-yai/top-10-hotels/",
+      "cta_label": "Bekijk de hotelgids voor Hat Yai"
+    },
+    {
+      "rank": 3,
+      "name": "New Season Square Hotel",
+      "price_range": "Middenklasse tot luxe",
+      "category": "middenklasse",
+      "area": "Centrum Hat Yai",
+      "description": "Een sterke match voor reizigers die een nieuwere downtown hotel willen dicht bij winkels en nachtactiviteit zonder het centrum te verlaten.",
+      "highlights": [
+        "Officiële positionering in het centrum van Hatyai",
+        "Goede stadscentrumvoorzieningen",
+        "Nuttig alternatief voor de oudere centrale torens"
+      ],
+      "href": "/city/hat-yai/top-10-hotels/",
+      "cta_label": "Bekijk de hotelgids voor Hat Yai"
+    },
+    {
+      "rank": 4,
+      "name": "Crystal Hotel Hat Yai",
+      "price_range": "Middenklasse tot luxe",
+      "category": "middenklasse",
+      "area": "Kanchanawanit / Central Festival-kant",
+      "description": "Een praktisch modern hotel als je makkelijker wegtoegang, nabijheid van winkels en luchthaven gemak wilt zonder te vertrouwen op het oudere centrum.",
+      "highlights": [
+        "Officiële nabijheid tot Central Festival",
+        "Zwembad, fitness en diner ter plaatse",
+        "Goed voor bestuurders en zakelijke verblijven"
+      ],
+      "href": "/city/hat-yai/top-10-hotels/",
+      "cta_label": "Bekijk de hotelgids voor Hat Yai"
+    },
+    {
+      "rank": 5,
+      "name": "Monkham Village Hat Yai",
+      "price_range": "Middenklasse boetiek",
+      "category": "middenklasse",
+      "area": "Rajyindee Road",
+      "description": "Een rustigere boetiek-stijl optie aan de Rajyindee-kant voor reizigers die een kalmer verblijf willen zonder te ver van de stedelijke kern te gaan.",
+      "highlights": [
+        "Officieel adres aan Rajyindee Road",
+        "Diner ter plaatse",
+        "Goed alternatief buiten het centrum"
+      ],
+      "href": "/city/hat-yai/top-10-hotels/",
+      "cta_label": "Bekijk de hotelgids voor Hat Yai"
+    },
+    {
+      "rank": 6,
+      "name": "W3 Hotel Hatyai",
+      "price_range": "Middenklasse",
+      "category": "middenklasse",
+      "area": "Rajyindee / buitenste centrum",
+      "description": "Een praktisch verblijf in een rustigere setting die nog steeds claimt binnen vijf minuten in het centrum te zijn, handig voor bestuurders en korte stedelijke stays.",
+      "highlights": [
+        "Officiële positionering op vijf minuten van het centrum",
+        "Kamermix met zwembad-focus",
+        "Goede waarde voor verblijven buiten het centrum"
+      ],
+      "href": "/city/hat-yai/top-10-hotels/",
+      "cta_label": "Bekijk de hotelgids voor Hat Yai"
+    },
+    {
+      "rank": 7,
+      "name": "Hatyai Signature Hotel",
+      "price_range": "Middenklasse tot luxe",
+      "category": "middenklasse",
+      "area": "Buiten Hat Yai / luchthavenkant",
+      "description": "Een solide keuze als luchthaventoegang, parkeren en een meer zelfcontained hotelopzet belangrijker zijn dan overal in het centrum wandelen.",
+      "highlights": [
+        "Officieel drie kilometer van het centrum",
+        "Ongeveer 20 minuten van de luchthaven",
+        "Restaurant, zwembad en fitness ter plaatse"
+      ],
+      "href": "/city/hat-yai/top-10-hotels/",
+      "cta_label": "Bekijk de hotelgids voor Hat Yai"
+    }
+  ],
+  "travel_tips": [
+    "Gebruik het centrum voor je eerste verblijf tenzij luchthav timing of parkeren belangrijker is dan wandelbare markttoegang.",
+    "Doe Kim Yong 's ochtends, niet laat, als je de commerciële kern van Hat Yai op volle sterkte wilt.",
+    "Behandel Khlong Hae als een alleen vrijdag-tot-zondag markt; als het gesloten is, keer terug naar centraal Hat Yai in plaats van de omweg te forceren.",
+    "Houd Songkhla Old Town of Ton Nga Chang als een enkele bewuste uitstap in plaats van beide op te stapelen bij korte verblijven.",
+    "Boek eerder tijdens Maleisische feestdagen in het weekend als centrale Hat Yai-hotels sneller vol raken.",
+    "Splits maaltijden tussen ontbijtcultuur, halal- en moslimvriendelijke keukens, en één avondmarkt in plaats van hetzelfde centrum patroon elke dag te herhalen."
+  ],
+  "best_time_to_visit": {
+    "season": "Koeler en droger seizoen",
+    "months": "November - February",
+    "weather": "Meestal de makkelijkste periode voor markt wandelingen, uitstapjes en omgaan met de hitte en vochtigheid van Hat Yai.",
+    "reasons": "Beste voor eerste bezoeken die downtown wandelen, één markt-zware dag en één praktische excursie naar Songkhla of een parkgebied willen."
+  },
+  "budget_info": {
+    "budget": "€23-41 per dag",
+    "mid_range": "€51-101 per dag",
+    "luxury": "€115-221 per dag",
+    "notes": "Hat Yai blijft goedkoper dan resort-Thailand, maar transportstops en de timing van centraal gelegen hotels kunnen de dagelijkse uitgaven snel veranderen."
+  },
+  "thingsToDo": "Een goed eerste verblijf in Hat Yai vraagt om minder ambitie voor bezienswaardigheden en meer structuur. Begin 's ochtends met Kim Yong Market en het commerciële hart van het centrum, gebruik Hat Yai Municipal Park of Wat Hat Yai Nai voor een burgerlijk en lokaal perspectief, en sluit af met ASEAN Night Bazaar of Khlong Hae afhankelijk van de dag. Als je een tweede volledige dag hebt, kies dan voor Songkhla Old Town voor erfgoed of Ton Nga Chang voor natuur, maar niet beide tenzij je echt extra tijd hebt.",
+  "whereToStay": "Het centrum blijft de meest praktische uitvalsbasis voor een eerste bezoek, omdat Lee Gardens, Kim Yong, Santisuk en veel van Hat Yai's avondleven daar nog steeds samenkomen. Reizigers die rustige nachten, parkeergelegenheid of luchthaven toegang belangrijk vinden, doen het beter aan de Rajyindee, Kanchanawanit of de rand van het centrum, maar die plekken werken het best als je al weet waarom je de loopafstand van het centrum opgeeft.",
+  "whereToEat": [
+    {
+      "name": "Decha Fried Chicken & Seafood",
+      "cuisine": "Zuid-Thais / moslimvriendelijk comforteten",
+      "priceRange": "$$",
+      "description": "Een van de duidelijkste TAT-ondersteunde ankers voor maaltijden in Hat Yai voor een echte lokale lunch of diner."
+    },
+    {
+      "name": "Kim Yong Market food lanes",
+      "cuisine": "Markteten / snacks / droge waren",
+      "priceRange": "$",
+      "description": "De beste zone voor ochtend grazen als je Hat Yai's marktidentiteit het werk wilt laten doen."
+    },
+    {
+      "name": "Rafa Dimsum Halal",
+      "cuisine": "Dim sum / halal ontbijt",
+      "priceRange": "$",
+      "description": "Een ontbijtgericht stoppunt dat Hat Yai's Thais-Chinese en moslim kruising weerspiegelt."
+    },
+    {
+      "name": "Khlong Hae Floating Market",
+      "cuisine": "Weekend markteten",
+      "priceRange": "$",
+      "description": "Beste voor eten laat in de middag of 's avonds wanneer het daadwerkelijk open is."
+    },
+    {
+      "name": "Ginger Restaurant at Centara Hotel Hat Yai",
+      "cuisine": "Hotel dineren / internationaal",
+      "priceRange": "$$$",
+      "description": "Een praktische centrale comfortkeuze wanneer het weer of gemak zwaarder weegt dan de energie van straateet."
+    }
+  ],
+  "gettingAround": "Centraal Hat Yai is te voet te doen in korte blokken rond Lee Gardens, Kim Yong en de oudere commerciële kern, maar de bredere stad leent zich beter voor korte taxiritjes, tuk-tuks, songthaews of hotelauto's. Songkhla Old Town, Khlong Hae, het gemeente park en hotels bij de luchthaven worden makkelijker zodra je accepteert dat Hat Yai een praktische transportstad is in plaats van een compact erfgoedcentrum.",
+  "bestTimeToVisit": "Hat Yai is het makkelijkst van november tot februari, wanneer wandelen door de centrummarkten, een uitstapje naar Songkhla toevoegen en de hitte van de stad hanteren allemaal eenvoudiger worden. Maart tot mei kan nog steeds goed werken als je meer van het plan verschuift naar ochtenden en avonden, maar het midden van de dag wordt zwaarder. De nattere maanden zijn nog steeds bruikbaar voor eetgerichte stadsreizen, maar minder ideaal als de timing van Khlong Hae, parkbezoeken of uitstapjes belangrijk zijn. Voor de meeste eerste bezoeken aan Hat Yai biedt het koelere en drogere seizoen de schoonste balans.",
+  "budgetGuide": {
+    "budget": {
+      "min": 900,
+      "max": 1600,
+      "description": "Budget Hat Yai betekent meestal een eenvoudige centrale kamer, lokaal eten met focus op ontbijt en selectief transport."
+    },
+    "midrange": {
+      "min": 1800,
+      "max": 3500,
+      "description": "Middenklasse reizigers halen de beste waarde uit Hat Yai, vooral met een goed centraal of buiten-centraal hotel en meer flexibiliteit in maaltijden."
+    },
+    "luxury": {
+      "min": 3500,
+      "max": 7000,
+      "description": "Luxe uitgaven gaan in Hat Yai verder in comfort en gemak dan in bestemmingsstijl resort-ervaringen."
+    }
+  },
+  "safetyTips": "Hat Yai is over het algemeen eenvoudig voor korte stadsverblijven, maar de belangrijkste praktische risico's zijn verkeer, hevige regen en slechte routeplanning in plaats van nachtleven-drama. Neem normale stadsvoorzorgsmaatregelen in markten, houd waardevolle spullen dichtbij in drukke gebieden en bouw geen rigide schema's rond alleen-weekend attracties. Als je naar Songkhla of Ton Nga Chang gaat, vertrek met genoeg daglicht om een korte uitstap niet om te zetten in een gehaaste terugkeer.",
+  "faq": [
+    {
+      "question": "Is Hat Yai meer waard dan een tussenstop?",
+      "answer": "Ja, als je het gebruikt voor wat het echt goed doet: markten, eten, efficiënt transport en één slimme uitstap. Eén of twee nachten is vaak genoeg om te bewijzen dat het meer is dan een transitstad."
+    },
+    {
+      "question": "Hoeveel dagen heb je nodig in Hat Yai?",
+      "answer": "Twee nachten is het makkelijkste ritme voor een eerste keer. Dat geeft je één echte stadsdag plus tijd voor Songkhla Old Town, Ton Nga Chang of een rustiger markt- en eet schema."
+    },
+    {
+      "question": "Moeten eerste bezoekers in het centrum verblijven?",
+      "answer": "Meestal ja. Het centrum houdt Kim Yong, Lee Gardens en veel van Hat Yai's praktische eet- en winkelzone binnen handbereik. Verblijf buiten het centrum alleen als je specifiek wegtoegang, luchthaven gemak of rustige nachten wilt."
+    },
+    {
+      "question": "Kun je Songkhla Old Town vanuit Hat Yai doen?",
+      "answer": "Ja. Het is een van de meest realistische en waardevolle uitstapjes vanuit Hat Yai, vooral als je na het ontbijt vertrekt en terugkeert voor diner in de stad."
+    }
+  ],
+  "practicalInfo": {
+    "bestMonths": [
+      "Nov",
+      "Dec",
+      "Jan",
+      "Feb"
+    ],
+    "nearestAirport": "Hat Yai International Airport (HDY)",
+    "travelTimeFromAirport": "Meestal ongeveer 20 tot 30 minuten naar centraal Hat Yai.",
+    "localTransport": [
+      "Taxi en tuk-tuk voor directe stadsverplaatsingen",
+      "Songthaews op lokale routes",
+      "Hoteltransport voor luchthaven- en Songkhla-reizen",
+      "Wandelen in het commerciële centrum"
+    ]
+  },
+  "contentSources": [
+    {
+      "type": "stad-referentie",
+      "title": "Songkhla Province Ebook",
+      "creator": "Songkhla Municipality",
+      "url": "https://www.songkhlacity.go.th/2020/ebook/download/?file=files%2Fcom_ebook%2F2019-04_7b213de368592f5.pdf&id=2457&name=57.pdf",
+      "description": "Gebruikt voor Kim Yong Market, Khlong Hae Floating Market schema en positionering, Hat Yai Municipal Park, Wat Hat Yai Nai en algemene Hat Yai stadscontext."
+    },
+    {
+      "type": "toerisme-kantoor",
+      "title": "Songkhla E-Brochure",
+      "creator": "Tourism Authority of Thailand",
+      "url": "https://api.tat.or.th/upload/multimedia/ebrochure/file/live/Songkhla-Eng-58-1535366530.pdf",
+      "description": "Gebruikt voor Hat Yai stads overzicht, transportcontext, Hat Yai Municipal Park, Wat Hat Yai Nai en Ton Nga Chang positionering."
+    },
+    {
+      "type": "attractie",
+      "title": "Route 6 Songkla-Phattalung",
+      "creator": "Tourism Authority of Thailand",
+      "url": "https://eform.tourismthailand.org/storage/filemanages/218/file_Route-6-Songkla-phattalung.pdf",
+      "description": "Gebruikt voor Songkhla Old Town als officiële toerisme-route anker vanuit Hat Yai."
+    },
+    {
+      "type": "restaurant",
+      "title": "Halal Check-in Thailand",
+      "creator": "Tourism Authority of Thailand Malaysia",
+      "url": "https://www.tourismthailand.my/doc/2015/Halal%20check-in%20Thailand.pdf",
+      "description": "Gebruikt voor Decha Fried Chicken & Seafood, Rafa Dimsum Halal, Sami Kitchen en Salma Restaurant."
+    },
+    {
+      "type": "hotel",
+      "title": "Lee Gardens Plaza Hotel",
+      "creator": "Lee Gardens Plaza Hotel",
+      "url": "https://www.leegardensplaza.com/",
+      "description": "Gebruikt voor officiële centrum positionering en Kim Yong / markt-loopafstand context."
+    },
+    {
+      "type": "hotel",
+      "title": "Centara Hotel Hat Yai",
+      "creator": "Centara Hotels & Resorts",
+      "url": "https://www.centarahotelsresorts.com/centara/chy",
+      "description": "Gebruikt voor officiële stadscentrum positionering, dineren referenties, adres en luchthaven timing context."
+    },
+    {
+      "type": "hotel",
+      "title": "Centara Hotel Hat Yai Brochure",
+      "creator": "Centara Hotels & Resorts",
+      "url": "https://www.centarahotelsresorts.com/centara/sites/centara-centara/files/2022-01/centara-hotel-hat-yai-brochure.pdf",
+      "description": "Gebruikt voor kamer aantal, luchthaven timing en Ginger Restaurant / vergaderingen positionering."
+    },
+    {
+      "type": "hotel",
+      "title": "New Season Square Hotel",
+      "creator": "New Season Square Hotel",
+      "url": "https://www.newseasonhotel.com/new-season-square-hotel",
+      "description": "Gebruikt voor officiële centrum positionering en faciliteiten context."
+    },
+    {
+      "type": "hotel",
+      "title": "Crystal Hotel Hat Yai",
+      "creator": "Crystal Hotel Hat Yai",
+      "url": "https://www.crystalhotelhatyai.com/",
+      "description": "Gebruikt voor officiële locatie, luchthaven-kant context en voorzieningen positionering."
+    },
+    {
+      "type": "hotel",
+      "title": "Monkham Village Hat Yai",
+      "creator": "Monkham Village Hat Yai",
+      "url": "https://www.monkhamhatyai.com/",
+      "description": "Gebruikt voor officiële Rajyindee Road adres en boetiekhotel context."
+    },
+    {
+      "type": "hotel",
+      "title": "W3 Hotel Hatyai",
+      "creator": "W3 Hotel Hatyai",
+      "url": "https://www.w3hatyai.com/",
+      "description": "Gebruikt voor officiële buiten-centrum positionering en vermelde vijf-minuten toegang tot het centrum."
+    },
+    {
+      "type": "hotel",
+      "title": "Hatyai Signature Hotel",
+      "creator": "Hatyai Signature Hotel",
+      "url": "https://www.hatyaisignaturehotel.com/",
+      "description": "Gebruikt voor officiële luchthaven-kant context, Signature Cafe en afstand tot het centrum."
+    },
+    {
+      "type": "attractie",
+      "title": "Ton Nga Chang Wildlife Sanctuary",
+      "creator": "Department of National Parks, Wildlife and Plant Conservation",
+      "url": "https://portal.dnp.go.th/DNP/FileSystem/download?uuid=0a74b582-bcbe-4906-af5b-7a8da447a03f.pdf",
+      "description": "Gebruikt als officiële beschermd-gebied referentie voor Ton Nga Chang Wildlife Sanctuary."
+    }
+  ],
+  "reviewed_by": "Go2Thailand Editorial Team",
+  "enhanced_at": "2026-03-26T00:00:00.000Z",
+  "enrichedAt": "2026-03-26T00:00:00.000Z",
+  "factchecked_at": "2026-03-26T00:00:00.000Z"
+}

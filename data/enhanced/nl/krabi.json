@@ -1,0 +1,745 @@
+{
+  "id": 6,
+  "slug": "krabi",
+  "name": {
+    "en": "Krabi",
+    "nl": "Krabi",
+    "ja": "クラビ",
+    "ko": "끄라비",
+    "th": "กระบี่",
+    "de": "Krabi",
+    "fr": "Krabi",
+    "ru": "Краби",
+    "zh": "甲米"
+  },
+  "region": "Zuidelijk",
+  "province": "Krabi",
+  "description": {
+    "en": "An Andaman coast base that works best when you split it into Ao Nang and Railay for beaches and boat access, Krabi Town for food and practical overnights, and one inland nature day instead of trying to do every island tour at once.",
+    "nl": "Een Andamankust-basis die het best werkt als je Ao Nang en Railay gebruikt voor strand en boten, Krabi Town voor eten en praktische overnachtingen, en een enkele inlandse natuurdagexcursie inplant in plaats van elke eilandtour tegelijk te willen doen.",
+    "ja": "クラビは、アオナンとライレイをビーチとボートアクセスの拠点、クラビタウンを食事と実務的な宿泊の拠点、そして内陸の自然エリアを一日だけ選んで組み込むと最もまとまりやすいアンダマン側の目的地です。",
+    "ko": "끄라비는 아오낭과 라일레이를 해변과 보트 이동의 거점으로, 끄라비 타운을 식사와 실용적인 숙박의 거점으로, 그리고 내륙 자연 지역 하루 코스를 더할 때 가장 잘 맞는 안다만 해안 여행지다.",
+    "th": "กระบี่เที่ยวได้ดีเมื่อแยกทริปออกเป็นอ่าวนางและไร่เลย์สำหรับทะเลและเรือ กระบี่ทาวน์สำหรับอาหารและการพักที่สะดวก และเลือกเดย์ทริปธรรมชาติฝั่งในเพียงหนึ่งวัน แทนการยัดทุกทัวร์เกาะไว้ในทริปเดียว",
+    "de": "Krabi funktioniert am besten, wenn Sie Ao Nang und Railay fur Strand und Bootszugang, Krabi Town fur Essen und praktische Ubernachtungen sowie einen ausgewahlten Inland-Naturtag trennen.",
+    "fr": "Krabi fonctionne mieux lorsqu'on la divise entre Ao Nang et Railay pour les plages et les bateaux, Krabi Town pour la nourriture et les nuits pratiques, puis une seule journee nature a l'interieur.",
+    "ru": "Краби лучше всего работает, когда вы делите поездку на Ао Нанг и Райлей для пляжей и лодок, Краби-Таун для еды и практичных ночевок, а затем добавляете один внутренний природный день вместо попытки уместить все островные туры сразу.",
+    "zh": "甲米最适合按功能分区来安排：奥南和莱利负责海滩与船程，甲米镇负责吃饭和实用住宿，再加上一天内陆自然行程，而不是把所有跳岛团都硬塞进同一次旅行。"
+  },
+  "population": 36000,
+  "highlights": [
+    "Railay Beach",
+    "Tiger Cave Temple",
+    "Emerald Pool",
+    "Khlong Thom Hot Spring Waterfall",
+    "Krabi Walking Street",
+    "Khao Khanap Nam"
+  ],
+  "location": {
+    "lat": 8.0863,
+    "lng": 98.9063
+  },
+  "image": "/images/cities/krabi/krabi-mountain-view.webp",
+  "seo": {
+    "metaTitle": {
+      "en": "Krabi Thailand Guide 2026 | Railay, Hotels, Island Trips",
+      "nl": "Krabi Thailand Gids 2026 | Railay, hotels, eilandtrips",
+      "ja": "クラビ旅行ガイド 2026 | ライレイ、ホテル、島ツアー",
+      "ko": "끄라비 여행 가이드 2026 | 라일레이, 호텔, 아일랜드 트립",
+      "th": "กระบี่ 2026 | ไร่เลย์ ที่พัก และทริปทางทะเล",
+      "de": "Krabi Thailand Guide 2026 | Railay, Hotels, Inseltrips",
+      "fr": "Guide Krabi 2026 | Railay, hotels et sorties en mer",
+      "ru": "Краби 2026 | Райлей, отели и морские выезды",
+      "zh": "甲米旅行指南 2026 | 莱利、酒店与出海行程"
+    },
+    "metaDescription": {
+      "en": "Plan Krabi around Ao Nang and Railay, stronger hotel zones, Krabi Town food stops, and the inland nature detours that add range beyond island tours.",
+      "nl": "Plan Krabi rond Ao Nang en Railay, sterkere hotelzones, foodstops in Krabi Town en inlandse natuurdetours die meer diepte geven dan alleen eilandtours.",
+      "ja": "アオナンとライレイ、ホテル選び、クラビタウンの食事、そして島ツアーだけでは終わらない内陸の自然立ち寄りまで整理した実用ガイドです。",
+      "ko": "아오낭과 라일레이, 더 나은 숙소 구역, 끄라비 타운의 식사 포인트, 그리고 아일랜드 투어 밖의 내륙 자연 코스까지 정리한 실전 가이드다.",
+      "th": "วางแผนเที่ยวกระบี่ให้ดีขึ้นด้วยการแยกอ่าวนาง ไร่เลย์ โซนที่พัก จุดกินในเมืองกระบี่ และทริปธรรมชาติฝั่งในที่ช่วยให้ทริปมีมิติมากกว่าทัวร์เกาะ",
+      "de": "Planen Sie Krabi uber Ao Nang und Railay, bessere Hotelzonen, Krabi-Town-Food-Stops und Inland-Naturausfluge, die mehr bieten als reine Inseltrips.",
+      "fr": "Planifiez Krabi autour d'Ao Nang et Railay, de meilleures zones d'hotel, des etapes food a Krabi Town et des detours nature a l'interieur qui ajoutent une vraie profondeur.",
+      "ru": "Планируйте Краби через Ао Нанг и Райлей, более сильные отельные зоны, гастрономические остановки в Краби-Тауне и природные выезды вглубь материка.",
+      "zh": "从奥南与莱利、住宿分区，到甲米镇的觅食点和内陆自然行程，这份指南帮助你把甲米安排得比单纯跳岛更完整。"
+    }
+  },
+  "categories": {
+    "food": {
+      "en": "Best restaurants and street food in Krabi",
+      "nl": "Beste restaurants en streetfood in Krabi",
+      "ja": "クラビのおすすめレストランとストリートフード",
+      "ko": "끄라비 추천 레스토랑과 길거리 음식",
+      "th": "ร้านอาหารและสตรีทฟู้ดที่ดีที่สุดในกระบี่"
+    },
+    "hotels": {
+      "en": "Top hotels in Krabi | Tips & deals",
+      "nl": "Beste hotels in Krabi | Tips & aanbiedingen",
+      "ja": "クラビのおすすめホテル | 実用ガイド",
+      "ko": "끄라비 추천 호텔 | 실전 팁",
+      "th": "โรงแรมแนะนำในกระบี่ | เคล็ดลับและดีล"
+    },
+    "attractions": {
+      "en": "Top attractions in Krabi",
+      "nl": "Top bezienswaardigheden in Krabi",
+      "ja": "クラビの見どころ",
+      "ko": "끄라비 핵심 명소",
+      "th": "สถานที่ท่องเที่ยวยอดนิยมในกระบี่"
+    }
+  },
+  "tags": [
+    "zuidelijk",
+    "krabi",
+    "Andaman",
+    "railay",
+    "stranden",
+    "Thailand"
+  ],
+  "enhanced_description": "Krabi is het sterkst als je ophoudt het te zien als één uitwisselbare strandprovincie en begint te onderscheiden waar elke zone eigenlijk voor dient. Ao Nang is de praktische basis voor boten en stranden, Railay is de dramatische beloning van kalksteen en zand, Krabi Town is de plek die de reis verbonden houdt met eten en dagelijks leven, en de kant van Khlong Thom is waar de provincie laat zien dat het meer kan dan eilandhoppen. Zodra je die lagen duidelijk ziet, wordt de hele bestemming makkelijker te plannen.\n\nDie structuur doet ertoe omdat Krabi gemakkelijk overbouwd kan worden. Reizigers stapelen vaak te veel boottochten, te veel eilanden en te veel strandstops met veel transfers in hetzelfde korte verblijf. De betere versie is selectiever: kies of de reis Railay-gericht, resort-gericht of stad-plus-dagtochten is, houd dan slechts één of twee echte mariene dagen en één inlandse natuuredag. Dat is meestal genoeg om Krabi breed te laten voelen zonder het om te zetten in een transportschema.",
+  "overview": "Krabi werkt het best als een gesplitste bestemming, niet als een generieke zuidelijke stranddoos. Materialen van de Tourism Authority of Thailand schetsen de provincie nog steeds via Railay, Thale Waek, Ban Ko Klang en stad-rivierlandmarks zoals Khao Khanap Nam, wat nuttig is omdat het laat zien dat de provincie niet alleen een reeks eilandboten is. De sterkste eerste reis combineert meestal één zee-gericht verblijf, één inlandse natuurb lok en ten minste één maaltijd of marktsessie in de stad.\n\nAo Nang blijft de meest praktische basis voor veel eerste bezoeken omdat het longtailboten, transfers en dagtochten eenvoudig houdt. Railay is het visuele hoogtepunt, maar het is beter om het bewust te gebruiken in plaats van als een gehaaste fotostop. Krabi Town verdient ten minste één avond als je wilt dat de reis minder afgesloten voelt in strandstroken, terwijl Khlong Thom en de wildreservaatkant een heel ander soort dag toevoegen.",
+  "hidden_gems": [
+    {
+      "name": "Ban Na Teen craft village",
+      "story": "Ban Na Teen is een van de schonere manieren om Krabi voorbij de stranden te zien, met kokosnootschalen ambachten, batik, fruitteelt en een dorpsritme dat niet is platgeslagen tot resortverpakking.",
+      "how_to_find": "Gebruik het als een korte inlandse omweg vanuit Ao Nang in plaats van als een volledige dagvervanger voor de hoofd kust.",
+      "best_time": "Ochtend of late middag.",
+      "local_insights": [
+        "Dit werkt het best als je een culturele zijtrip wilt zonder ver van Ao Nang te gaan.",
+        "Ban Na Teen is sterker voor gemeenschapsstructuur dan voor checklistbezienswaardigheden."
+      ]
+    },
+    {
+      "name": "Ko Klang community",
+      "story": "Ko Klang geeft Krabi een van zijn beste tegenwichten voor langzaam reizen: mangrove-rand gemeenschapsleven, ambachtsdemonstraties en lokale zeevruchten die de stad-rivierkant distinct maken van Ao Nang.",
+      "how_to_find": "Bereik het per boot vanuit de Krabi Town-kant en houd de dag gericht op de gemeenschap in plaats van het te combineren met meerdere niet-gerelateerde stops.",
+      "best_time": "Overdag, met genoeg tijd voor een maaltijd en één of twee ambachtsbezoeken.",
+      "local_insights": [
+        "Ko Klang is sterker als een langzamere culturele uitstap dan als een snelle transitstop.",
+        "Dit is een van de makkelijkste manieren om Krabi's moslim vissersgemeenschapsidentiteit te voelen."
+      ]
+    },
+    {
+      "name": "Khao Khanap Nam by long-tail",
+      "story": "De tweeling rivierbergen zijn een betere Krabi Town-uitstap dan veel bezoekers verwachten, vooral als je rivierscenerie en grotcontext wilt zonder een extra eilandtransfer.",
+      "how_to_find": "Neem een korte longtailrit vanuit Chao Fa Pier en behandel het als deel van een stad-en-rivierdag.",
+      "best_time": "Vroeger op de dag voordat de hitte opbouwt.",
+      "local_insights": [
+        "De Krabi-rivierkant krijgt meer zin zodra je ophoudt alles direct te vergelijken met stranden.",
+        "Dit is een goede niet-strand visuele anker als je in de stad overnacht."
+      ]
+    }
+  ],
+  "authentic_experiences": [
+    {
+      "activity": "Gebruik Krabi Town voor één avond in plaats van alleen te slapen in strandzones",
+      "story": "Krabi Town is wat de provincie ervan weerhoudt om te veranderen in een pure bootafvaartcorridor. Markten, rivieroeverbeweging en een minder resort-geleid nachtritme geven de reis praktische en culturele reikwijdte.",
+      "cultural_significance": "Dit is waar Krabi het meest voelt als een werkende zuidelijke provincie in plaats van een reeks strandlogistiek.",
+      "how_to_participate": "Breng één avond door rond Krabi Walking Street of de rivieroever in plaats van elke nacht te eten in Ao Nang.",
+      "insights": [
+        "Tijd in de stad voegt meer diepte toe aan Krabi dan een ander generiek strandfrontdiner.",
+        "Eén overnachting of één avond in de stad is vaak genoeg om de hele sfeer van de reis te veranderen."
+      ],
+      "href": "/city/krabi/attractions/krabi-town-night-market/",
+      "cta_label": "Zie de wandelstraatgids"
+    },
+    {
+      "activity": "Behandel Railay als een echte halve dag of overnachting, niet als een gehaaste bootfotostop",
+      "story": "Railay werkt alleen goed als je er tijd voor neemt. De kalksteenwand, strandverschuivingen en boot-only aankomst zijn het punt, maar ze verdwijnen als je de stop comprimeert tot een drukke spitslandingen.",
+      "cultural_significance": "Railay is een van Krabi's definiërende landschappen en nog steeds de duidelijkste kalksteen-en-zee afbeelding van de provincie.",
+      "how_to_participate": "Ga vroeg, blijf laat of slaap in de buurt zodat de kliffen en stranden kunnen ademen buiten de drukste middenuren.",
+      "insights": [
+        "Railay is veel sterker als je een deel van de dag eromheen bouwt in plaats van het vast te plakken aan een andere tour.",
+        "Dit is het duidelijkste scenische anker van een eerste Krabi-reis."
+      ],
+      "href": "/city/krabi/attractions/railay-beach/",
+      "cta_label": "Zie de Railay-gids"
+    },
+    {
+      "activity": "Houd één inlandse Khlong Thom-dag in de planning",
+      "story": "Krabi is gemakkelijk te vereenvoudigen tot boten en stranden, en daarom doet één inlandse dag ertoe. Emerald Pool en de warmwaterbron-kant geven de provincie een ander ritme en voorkomen dat de reis repetitief voelt.",
+      "cultural_significance": "Deze inlandse natuurlaag is een van de hoofredenen waarom Krabi breder is dan een enkel strandstrook.",
+      "how_to_participate": "Combineer Emerald Pool met het warmwaterbron-gebied en vermijd extra eilandtransfers op dezelfde dag.",
+      "insights": [
+        "Dit is een betere contrastdag dan proberen meer kleine eilanden achter elkaar te doen.",
+        "Krabi's inlandse kant is het nuttigst als je het eenvoudig houdt."
+      ],
+      "href": "/city/krabi/attractions/emerald-pool/",
+      "cta_label": "Zie de Emerald Pool-gids"
+    },
+    {
+      "activity": "Gebruik Ko Klang of Ban Na Teen als je een echte lokale tegenhanger wilt",
+      "story": "Krabi heeft gemeenschapszijstops die zinvol zijn als je eigenlijk ambachten, dorpsroutines of een langzamere voedselgerichte halve dag wilt in plaats van een andere mariene itinerary.",
+      "cultural_significance": "Deze gemeenschapsroutes behouden delen van Krabi's moslim kust- en landbouwidentiteit die strandverblijven niet alleen tonen.",
+      "how_to_participate": "Kies slechts één gemeenschapsomweg en laat het op zichzelf staan.",
+      "insights": [
+        "Gemeenschapsroutes werken het best als ze bewust gekozen zijn, niet toegevoegd als vulmiddel.",
+        "Ko Klang is sterker voor langzaam reizen; Ban Na Teen is makkelijker vanuit Ao Nang."
+      ],
+      "href": "/city/krabi/top-10-attractions/",
+      "cta_label": "Zie de bezienswaardigheden-gids"
+    }
+  ],
+  "foodie_adventures": [
+    {
+      "dish": "Eén echte stad-markt diner",
+      "location": "Krabi Walking Street",
+      "story": "Krabi-voedsel verbetert als ten minste één avond toebehoort aan de stadskant in plaats van aan strandfront gemakseten. Walking Street geeft de provincie een meer gegronde voedselritme en houdt de reis flexibel.",
+      "where_to_find": "Gebruik het weekend wandelstraatgebied voor grazen, snacks en eenvoudige zuidelijke gerechten.",
+      "price_range": "Budget tot middenklasse",
+      "ordering_tips": [
+        "Loop eens rond voordat je bestelt zodat je niet settelt op de eerste kraam.",
+        "Dit is de makkelijkste manier om een resort-zwaar Krabi-verblijf te diversifiëren."
+      ],
+      "href": "/city/krabi/attractions/krabi-town-night-market/",
+      "cta_label": "Zie de wandelstraatgids"
+    },
+    {
+      "dish": "Eén Ko Klang zeevruchten of gemeenschapsstijl lunch",
+      "location": "Ko Klang gemeenschap",
+      "story": "De Krabi-rivier-en-mangrove kant is waar de provincie nog steeds bewoond kan voelen. Een eenvoudige Ko Klang-maaltijd doet vaak meer voor de reis dan een ander gepolijst maar vergeetbaar strandstrooklunch.",
+      "where_to_find": "Gebruik Ko Klang als je eten wilt gekoppeld aan een gemeenschapsbezoek in plaats van een resort-itinerary.",
+      "price_range": "Budget tot middenklasse",
+      "ordering_tips": [
+        "Maak de maaltijd deel van een langzamere culturele dag in plaats van een snelle transferstop.",
+        "Gemeenschapsvoedselstops werken het best als je verwachtingen praktisch en lokaal houdt."
+      ],
+      "href": "/city/krabi/top-10-restaurants/",
+      "cta_label": "Zie meer voedselkeuzes"
+    },
+    {
+      "dish": "Eén serieuze bestemmingsdiner in een zee-gericht resort",
+      "location": "Raya Dining, Krua Phranang, Saffron of Jampoon",
+      "story": "Krabi heeft genoeg high-end resortvoorraad dat één gepolijst diner zinvol kan zijn. De fout is dat elke nacht te doen en te eindigen met een reis die nooit uit hotelmodus komt.",
+      "where_to_find": "Gebruik één bestemmingsdiner en houd de rest van het voedselplan losser en lokaler.",
+      "price_range": "Luxe",
+      "ordering_tips": [
+        "Behandel de uitspatting als de uitzondering, niet als de hele restaurantstrategie.",
+        "Krabi is beter als één formeel diner naast eenvoudigere markt- en stadmaaltijden staat."
+      ],
+      "href": "/city/krabi/top-10-restaurants/",
+      "cta_label": "Zie meer voedselkeuzes"
+    },
+    {
+      "dish": "Eén strandlunch alleen als de zone zelf ertoe doet",
+      "location": "Railay of de Klong Muang-kant",
+      "story": "Krabi kan één scenisch geleid lunch rechtvaardigen als het strand of kalksteenlandschap deel is van de reden waarom je kwam. Wat de reis verzwakt is elke maaltijd omzetten in een uitzicht-eerst beslissing.",
+      "where_to_find": "Gebruik dit op een Railay- of resort-kustdag, keer dan terug naar stad- of markteten later.",
+      "price_range": "Middenklasse tot luxe",
+      "ordering_tips": [
+        "Houd de rest van de dag eenvoudig als je al betaalt voor scenografie en transfers.",
+        "Scenische maaltijden werken het best als ze vastzitten aan een sterke route, niet als ze het hele plan zijn."
+      ],
+      "href": "/city/krabi/top-10-restaurants/",
+      "cta_label": "Zie meer voedselkeuzes"
+    }
+  ],
+  "local_insights": [
+    "Krabi wordt veel makkelijker te plannen zodra je kiest tussen Ao Nang gemak, Railay scenografie of een rustigere Klong Muang-stijl resortkust.",
+    "Eén of twee mariene dagen zijn genoeg voor veel eerste bezoeken; daarna geven stad of inlandse natuur betere reikwijdte dan meer bootrepetitie.",
+    "Krabi Town voegt meer praktische en voedselwaarde toe dan veel eerste bezoekers verwachten.",
+    "Railay is beter te gebruiken als een echt tijdblok dan als een gehaaste toevoeging van een drukke dagtour.",
+    "Khlong Thom is de eenvoudigste manier om een Krabi-reis een ander tempo te geven dan de kust."
+  ],
+  "seasonal_secrets": "Krabi's schoonste planningsvenster loopt nog steeds door de drogere Andaman-seizoenmaanden, maar dat maakt de rest van het jaar niet nutteloos. Groen-seizoen reizen kan menigten en hotelprijzen verzachten, hoewel de zeetoestand en eilandtourcomfort variabeler worden. Als het weer minder meewerkt voor boten, worden stadstijd, inlandse natuur en kortere kustgebaseerde uitstapjes waardevoller dan een marien schema forceren dat de omstandigheden niet echt ondersteunen.",
+  "budget_reality": "Krabi kan nog steeds matig worden afgehandeld als je de bootlogica onder controle houdt. Kosten stijgen snel als elke dag een privétransfer, een ander eilandcircuit of een zee-gericht resortdiner bevat. Het betere gebruik van budget is de juiste basis kiezen, slechts één of twee mariene dagen houden, en Krabi Town of marktmaaltijden gebruiken om te voorkomen dat de reis een reeks premium transportbeslissingen wordt.",
+  "top_attractions": [
+    {
+      "rank": 1,
+      "name": "Railay Beach",
+      "description": "Krabi's definiërende kalksteen-en-zee landschap en het duidelijkste scenische anker voor een eerste verblijf.",
+      "location": "Railay-schiereiland",
+      "entrance_fee": "Gratis strandtoegang; boottransfer geldt",
+      "highlights": [
+        "Alleen per boot bereikbaar",
+        "Beste scenische anker",
+        "Waard een echt tijdblok"
+      ],
+      "href": "/city/krabi/attractions/railay-beach/",
+      "cta_label": "Zie de Railay-gids"
+    },
+    {
+      "rank": 2,
+      "name": "Tiger Cave Temple",
+      "description": "De sterkste religieuze-en-uitzichtstop in Krabi, het best vroeg gedaan voordat de hitte opbouwt.",
+      "location": "Nabij Krabi Town",
+      "entrance_fee": "Gratis",
+      "highlights": [
+        "Meer dan 1.200 treden",
+        "Beste tempelbeklimming",
+        "Sterke stadskant-omweg"
+      ],
+      "href": "/city/krabi/attractions/tiger-cave-temple/",
+      "cta_label": "Zie de Tiger Cave-gids"
+    },
+    {
+      "rank": 3,
+      "name": "Emerald Pool",
+      "description": "De nuttigste inlandse natuuroptopping als je Krabi breder wilt laten voelen dan stranden en boten.",
+      "location": "Khlong Thom-kant",
+      "entrance_fee": "Parktoegangsgeld geldt",
+      "highlights": [
+        "Wildreservaat-setting",
+        "Beste inlandse natuuroptopping",
+        "Goed met de warmwaterbronnen"
+      ],
+      "href": "/city/krabi/attractions/emerald-pool/",
+      "cta_label": "Zie de Emerald Pool-gids"
+    },
+    {
+      "rank": 4,
+      "name": "Khlong Thom Hot Spring Waterfall",
+      "description": "Een sterkere metgezel voor Emerald Pool dan een extra eilandtour als de reis één ander soort dag nodig heeft.",
+      "location": "Khlong Thom district",
+      "entrance_fee": "Parktoegangsgeld geldt",
+      "highlights": [
+        "Natuurlijke warmwaterpoelen",
+        "Nuttige inlandse pairing",
+        "Beste als deel van één natuurgdag"
+      ],
+      "href": "/city/krabi/attractions/klong-thom-hot-springs/",
+      "cta_label": "Zie de warmwaterbron-gids"
+    },
+    {
+      "rank": 5,
+      "name": "Krabi Walking Street",
+      "description": "De makkelijkste stadskant-avond voor eten en sfeer als je niet wilt dat elke nacht in strandzones gebeurt.",
+      "location": "Krabi Town",
+      "entrance_fee": "Gratis",
+      "highlights": [
+        "Beste stadavond",
+        "Goed markteten",
+        "Sterk niet-strand anker"
+      ],
+      "href": "/city/krabi/attractions/krabi-town-night-market/",
+      "cta_label": "Zie de wandelstraatgids"
+    },
+    {
+      "rank": 6,
+      "name": "Khao Khanap Nam",
+      "description": "Krabi's rivierlandmark en een betere stadskant bootomweg dan veel eerste bezoekers verwachten.",
+      "location": "Krabi-riviermond",
+      "entrance_fee": "Boothuur geldt",
+      "highlights": [
+        "Tweeling rivierbergen",
+        "Sterke Krabi Town-kant uitstap",
+        "Nuttig met Ko Klang-logica"
+      ],
+      "href": "/city/krabi/attractions/khao-khanap-nam/",
+      "cta_label": "Zie de Khao Khanap Nam-gids"
+    }
+  ],
+  "top_restaurants": [
+    {
+      "rank": 1,
+      "name": "Raya Dining",
+      "description": "Een van de duidelijkste bestemmingsdiners in Krabi als je een serieuze zee-gericht maaltijd wilt in een sterkere resortsetting.",
+      "price_range": "Luxe",
+      "category": "luxe",
+      "area": "Rayavadee",
+      "highlights": [
+        "Officiële restaurantpagina",
+        "Goed speciaal diner",
+        "Nuttige resort-uitspatting"
+      ],
+      "href": "/city/krabi/top-10-restaurants/",
+      "cta_label": "Zie de voedselgids"
+    },
+    {
+      "rank": 2,
+      "name": "Krua Phranang",
+      "description": "Een scherpere Thaise eetkeuze binnen Rayavadee als je één formeel diner wilt dat nog steeds verbonden voelt met de plek.",
+      "price_range": "Luxe",
+      "category": "luxe",
+      "area": "Rayavadee",
+      "highlights": [
+        "Officiële restaurantcontext",
+        "Thais geleid fine dining",
+        "Goede uitzondering voor één nacht"
+      ],
+      "href": "/city/krabi/top-10-restaurants/",
+      "cta_label": "Zie de eetgids"
+    },
+    {
+      "rank": 3,
+      "name": "Saffron",
+      "description": "Een betrouwbaar luxe Thais diner als je één gepolijst resortdiner wilt aan de rustigere kustkant.",
+      "price_range": "Luxe",
+      "category": "luxe",
+      "area": "Banyan Tree Krabi",
+      "highlights": [
+        "Officiële restaurantpagina",
+        "Sterke luxe Thaise plek",
+        "Beter als één geplande avond"
+      ],
+      "href": "/city/krabi/top-10-restaurants/",
+      "cta_label": "Zie de eetgids"
+    },
+    {
+      "rank": 4,
+      "name": "Jampoon",
+      "description": "Een sterke high-end eetzaal als het verblijf of dinerplan draait om Phulay Bay en de Klong Muang-kant.",
+      "price_range": "Luxe",
+      "category": "luxe",
+      "area": "Phulay Bay",
+      "highlights": [
+        "Officiële dinerpagin",
+        "Goede resort-geleide uitspatting",
+        "Past bij rustigere luxe verblijven"
+      ],
+      "href": "/city/krabi/top-10-restaurants/",
+      "cta_label": "Zie de eetgids"
+    },
+    {
+      "rank": 5,
+      "name": "Toh Kin Khaw",
+      "description": "Een praktische resort-dineroptie aan de Klong Muang-kant als je een volledige strandresortmaaltijd wilt zonder het terrein te verlaten.",
+      "price_range": "Middenklasse tot luxe",
+      "category": "resort dining",
+      "area": "Dusit Thani Krabi Beach Resort",
+      "highlights": [
+        "Officiële dinerpagin",
+        "Nuttig Klong Muang-diner",
+        "Goed voor resort-gebaseerde verblijven"
+      ],
+      "href": "/city/krabi/top-10-restaurants/",
+      "cta_label": "Zie de eetgids"
+    },
+    {
+      "rank": 6,
+      "name": "Krabi Walking Street",
+      "description": "De beste stadskant avondetenzone als je de reis breder wilt laten voelen dan alleen strandrestaurants en resort eetkamers.",
+      "price_range": "Budget tot middenklasse",
+      "category": "markt dining",
+      "area": "Krabi Town",
+      "highlights": [
+        "Beste markt-geleide avond",
+        "Goed voor flexibel grazen",
+        "Voegt variatie toe aan strandverblijven"
+      ],
+      "href": "/city/krabi/attractions/krabi-town-night-market/",
+      "cta_label": "Zie de wandelstraatgids"
+    },
+    {
+      "rank": 7,
+      "name": "Ko Klang community seafood lunches",
+      "description": "Een betere eetdetour dan een generiek toeristenmenu als je de rivier- en gemeenschapszijde van Krabi deel van de dag wilt laten zijn.",
+      "price_range": "Budget tot middenklasse",
+      "category": "lokaal favoriet",
+      "area": "Ko Klang community",
+      "highlights": [
+        "Gemeenschapsgebaseerde eetstop",
+        "Betere lokale context",
+        "Past bij een Ko Klang-uitje"
+      ],
+      "href": "/city/krabi/top-10-restaurants/",
+      "cta_label": "Zie de eetgids"
+    }
+  ],
+  "top_hotels": [
+    {
+      "rank": 1,
+      "name": "Rayavadee",
+      "price_range": "Luxe",
+      "description": "Nog steeds een van de duidelijkste top-end Krabi-antwoorden als Railay-zijde afzondering en een bestemmingsresortgevoel deel van de reis zijn.",
+      "category": "luxe",
+      "area": "Railay / Phra Nang side",
+      "highlights": [
+        "Officiële hotelwebsite",
+        "Bekendste Krabi luxe icoon",
+        "Sterk voor scenery-geleide verblijven"
+      ],
+      "href": "/city/krabi/top-10-hotels/",
+      "cta_label": "Zie de hotelgids"
+    },
+    {
+      "rank": 2,
+      "name": "Banyan Tree Krabi",
+      "price_range": "Luxe",
+      "description": "Een slimme rustigere-kust luxe basis als je Krabi privé en resort-geleid wilt laten voelen in plaats van wat Ao Nang biedt.",
+      "category": "luxe",
+      "area": "Tubkaak / Nong Thale side",
+      "highlights": [
+        "Officiële hotelwebsite",
+        "Sterke rustig-kust positionering",
+        "Nuttig voor koppels of volledige resortverblijven"
+      ],
+      "href": "/city/krabi/top-10-hotels/",
+      "cta_label": "Zie de hotelgids"
+    },
+    {
+      "rank": 3,
+      "name": "Phulay Bay, a Ritz-Carlton Reserve",
+      "price_range": "Luxe",
+      "description": "Het duidelijkste ultra-luxe Krabi-antwoord als het hotel zelf een groot deel van de reis moet dragen.",
+      "category": "luxe",
+      "area": "Klong Muang / Tubkaak side",
+      "highlights": [
+        "Officiële hotelwebsite",
+        "Reserve-niveau verblijf",
+        "Beste als afzondering het belangrijkste is"
+      ],
+      "href": "/city/krabi/top-10-hotels/",
+      "cta_label": "Zie de hotelgids"
+    },
+    {
+      "rank": 4,
+      "name": "Dusit Thani Krabi Beach Resort",
+      "price_range": "Luxe",
+      "description": "Een praktisch full-service strandresort als je faciliteiten, familiecomfort en makkelijkere Klong Muang-logistiek wilt.",
+      "category": "luxe",
+      "area": "Klong Muang",
+      "highlights": [
+        "Officiële hotelwebsite",
+        "Sterke familie-vriendelijke basis",
+        "Goede full-service resortoptie"
+      ],
+      "href": "/city/krabi/top-10-hotels/",
+      "cta_label": "Zie de hotelgids"
+    },
+    {
+      "rank": 5,
+      "name": "The Tubkaak Krabi Boutique Resort",
+      "price_range": "Luxe tot luxe",
+      "description": "Een van de betere romantische of rustigere boetiek-resortkeuzes als je de kust privé wilt laten voelen in plaats van Ao Nang.",
+      "category": "luxe",
+      "area": "Tubkaak Beach",
+      "highlights": [
+        "Officiële hotelwebsite",
+        "Boetiek resort sfeer",
+        "Sterker voor een langzamer kustverblijf"
+      ],
+      "href": "/city/krabi/top-10-hotels/",
+      "cta_label": "Zie de hotelgids"
+    },
+    {
+      "rank": 6,
+      "name": "Nakamanda Resort & Spa",
+      "price_range": "Luxe",
+      "description": "Een kalmere laagbouw Klong Muang verblijf als je resortcomfort wilt zonder naar Krabi's hoogste luxeniveau te gaan.",
+      "category": "luxe",
+      "area": "Klong Muang",
+      "highlights": [
+        "Officiële hotelwebsite",
+        "Goede rustig-kust optie",
+        "Gebalanceerde resortkeuze"
+      ],
+      "href": "/city/krabi/top-10-hotels/",
+      "cta_label": "Zie de hotelgids"
+    }
+  ],
+  "travel_tips": [
+    "Kies eerst de basis: Ao Nang voor gemak, Railay voor scenery, of Klong Muang / Tubkaak voor rustigere resorts.",
+    "Houd slechts één of twee echte mariene dagen in een kort Krabi-verblijf; de rest van de reis verbetert als je stad of inlandse natuur toevoegt.",
+    "Als Tiger Cave Temple in het plan zit, begin vroeg en neem de klim serieus in plaats van als een casual middagstop.",
+    "Gebruik Krabi Town voor ten minste één avond als je betere markteten en riviercontext wilt.",
+    "Bootcomfort en eilandzichtbaarheid hangen sterk af van het weer, dus houd flexibiliteit in mariene-dagplanning."
+  ],
+  "best_time_to_visit": {
+    "season": "November tot april is het makkelijkste planningsvenster, terwijl mei tot oktober nog kan werken als je flexibel bent over zeetoestanden.",
+    "weather": "Droogere maanden brengen meestal kalmere bootdagen en duidelijkere strandtoestanden; groen seizoen kan menigten verzachten maar mariene uitjes minder betrouwbaar maken.",
+    "reasons": "Krabi is makkelijker te plannen als boten, viewpoints en inlandse natuur gemengd kunnen worden zonder dagelijkse weersverstoring."
+  },
+  "budget_info": {
+    "daily_budget": {
+      "budget": "Krabi is beheersbaar op een bescheiden budget als je stadmaaltijden, gedeeld transport en niet meer dan één of twee betaalde mariene dagen gebruikt.",
+      "mid": "Een middenklasse Krabi-reis betekent meestal een Ao Nang of stad basis, één inlandse dag, één of twee boottochten en een paar sterkere diners.",
+      "luxury": "Luxe uitgaven in Krabi stijgen het snelst als je rustig-kust resorts, privétransfers en bestemmingsdiners elke nacht combineert."
+    }
+  },
+  "thingsToDo": "Gebruik Railay als het hoofd scenic kustblok, houd één tempel-of-viewpoint ochtend voor Tiger Cave, voeg één inlandse Khlong Thom natuurgdag toe, en laat ruimte voor Krabi Town's rivier-en-marktzijde in plaats van elke dag rond boten te boeken.",
+  "whereToStay": "Ao Nang is nog steeds de makkelijkste eerste basis voor boottoegang en praktische beweging. Railay werkt als scenery belangrijker is dan logistiek. Klong Muang en de Tubkaak-kant passen bij rustigere resortverblijven, terwijl Krabi Town nuttig is voor eetgerichte nachten, luchthaventiming en reizigers die niet alleen in strandzones willen slapen.",
+  "whereToEat": [
+    {
+      "name": "Krabi Walking Street",
+      "cuisine": "Markteten en lokale snacks",
+      "priceRange": "Budget tot middenklasse",
+      "description": "Beste voor één flexibele stadskant avond."
+    },
+    {
+      "name": "Raya Dining",
+      "cuisine": "Bestemmingsresort dining",
+      "priceRange": "Luxe",
+      "description": "Goed voor het ene bewuste uitspattingsdiner."
+    },
+    {
+      "name": "Ko Klang community meals",
+      "cuisine": "Lokale zeevruchten en gemeenschapskeuken",
+      "priceRange": "Budget tot middenklasse",
+      "description": "Beter voor een langzamere rivier-zijdetour dan een gehaaste toeristenstop."
+    }
+  ],
+  "gettingAround": "Ao Nang en Krabi Town zijn makkelijk genoeg per weg te verbinden, maar Railay en verschillende mariene uitjes hangen af van boottiming. Long-tail transfers vormen de kustzijde, terwijl inlandse dagen makkelijker zijn per auto, chauffeur of georganiseerde tour. Krabi wordt vermoeiend als je te vaak van basis wisselt, dus het loont meestal om één hoofd slaapzone te kiezen en dagtrips naar buiten te maken.",
+  "bestTimeToVisit": "De drogere Andaman-seizoen maanden blijven het makkelijkst voor strand-en-bootplanning, maar groen-seizoen verblijven kunnen nog goed werken als je meer leunt op stadstijd, resort downtime en inlandse natuur.",
+  "budgetGuide": {
+    "budget": {
+      "min": 1300,
+      "max": 2300,
+      "description": "Simpel guesthouse of budget hotel, marktmaaltijden en slechts één selectieve betaalde uitje."
+    },
+    "midrange": {
+      "min": 3000,
+      "max": 6500,
+      "description": "Comfortabel hotel, een paar betaalde dagtrips en een mix van stadseten en één sterker diner."
+    },
+    "luxury": {
+      "min": 9000,
+      "max": 25000,
+      "description": "Rustig-kust of Railay luxe resort, privétransfers en bestemmingsdining."
+    }
+  },
+  "safetyTips": "Bootschema's en zeetoestanden doen er in Krabi meer toe dan reizigers soms verwachten, dus lock niet elke dag vast aan mariene plannen. Draag goede schoenen en neem water mee voor Tiger Cave Temple. Wees voorzichtig op natte paden rond Emerald Pool en het warmwaterbron-gebied. Houd waardevolle spullen simpel op long-tail boten en strandtransfers, en overload de itinerary niet met dezelfde-dag kust en inlandse sprongen.",
+  "faq": [
+    {
+      "question": "Is Krabi beter gebaseerd in Ao Nang of Railay?",
+      "answer": "Ao Nang is makkelijker voor de meeste eerste bezoeken omdat het boottoegang, transfers en restaurantkeuze simpel houdt. Railay is sterker als scenery en een meer afgezonderd kustgevoel belangrijker zijn dan puur gemak."
+    },
+    {
+      "question": "Hoeveel eilandtours heb je echt nodig in Krabi?",
+      "answer": "Voor veel eerste reizen zijn één of twee mariene dagen genoeg. Daarna voegt Krabi Town of de Khlong Thom-kant meestal meer variatie toe dan een andere vergelijkbare eilandronde."
+    },
+    {
+      "question": "Is Krabi Town het waard om op te nemen?",
+      "answer": "Ja. Het voegt markteten, riviercontext en een praktischere lokale zijde toe die strand-alleen verblijven vaak missen."
+    },
+    {
+      "question": "Kun je Emerald Pool en de warmwaterbronnen in één dag combineren?",
+      "answer": "Ja. Dat is een van de schoonste inlandse dagstructuren in Krabi en slaat meestal meer aan dan proberen inlandse natuur te mixen met een aparte boottocht."
+    }
+  ],
+  "practicalInfo": {
+    "arrival": "Krabi werkt het best als je besluit of de eerste nacht stadskant, Ao Nang-kant of een rustigere resortkust moet zijn in plaats van de basis onbeslist te laten tot aankomst.",
+    "transport": "Gebruik één hoofd basis en dagtrip naar buiten. Krabi verliest tijd snel als je zones blijft wisselen of te veel dezelfde-dag boot en wegtransfers gebruikt.",
+    "planning": "De provincie beloont geredigeerde planning: één of twee mariene dagen, één inlandse natuurgdag en één stad-markt blok zijn vaak genoeg voor een sterke eerste reis."
+  },
+  "contentSources": [
+    {
+      "type": "toerisme-kantoor",
+      "title": "10 DINGEN OM TE DOEN IN KRABI",
+      "creator": "Tourism Authority of Thailand",
+      "url": "https://www.tourismthailand.org/Articles/10-things-to-do-in-krabi",
+      "description": "Gebruikt voor officiële province-brede attractie-framing rond Railay, Thale Waek en Ban Ko Klang."
+    },
+    {
+      "type": "toerisme-kantoor",
+      "title": "Ao Railay (Railay Bay) - Tham Phra Nang Beach - Thale Waek - Ko Po Da - Khao Khanap Nam Viewpoint - Tha Pom - Khlang Cave",
+      "creator": "Tourism Authority of Thailand",
+      "url": "https://www.tourismthailand.org/Trip-Planner/Suggestion-Detail/ao-railay-railay-bay-tham-phra-nang-beach-phra-nang-cave-beach-thale-waek-separated-sea-ko-po-da-khao-khanap-nam-viewpoint-tha-pom-khlang-cave",
+      "description": "Gebruikt voor officiële Krabi 2-daagse route-framing rond Railay, eilandstops en de rivierzijde."
+    },
+    {
+      "type": "toerisme-kantoor",
+      "title": "aanbevolen-route-voor-een-dag",
+      "creator": "Tourism Authority of Thailand",
+      "url": "https://www.tourismthailand.org/Trip-Planner/Suggestion-Detail/recommended-route-for-one-day",
+      "description": "Gebruikt voor Khao Khanap Nam, Ko Klang en Krabi Walking Street planningslogica."
+    },
+    {
+      "type": "toerisme-kantoor",
+      "title": "Krabi Walking Street",
+      "creator": "Tourism Authority of Thailand",
+      "url": "https://www.tourismthailand.org/Attraction/krabi-walking-street",
+      "description": "Gebruikt voor officiële wandelstraat-referentie."
+    },
+    {
+      "type": "toerisme-kantoor",
+      "title": "Krabi, omarm de charme van de natuur, ontspan en kom tot rust",
+      "creator": "Tourism Authority of Thailand",
+      "url": "https://www.tourismthailand.org/Articles/krabi-embrace-the-charm-of-nature-relax-and-unwind",
+      "description": "Gebruikt voor Ko Klang en de bredere Krabi slow-travel context."
+    },
+    {
+      "type": "toeristenkantoor",
+      "title": "KRABI'S BAKERMAT VAN VAKMANSCHAP",
+      "creator": "Tourism Authority of Thailand",
+      "url": "https://www.tourismthailand.org/Articles/krabi-s-cradle-of-crafts",
+      "description": "Gebruikt voor de Ban Na Teen gemeenschap en de context van het ambachtendorp."
+    },
+    {
+      "type": "bezienswaardigheid",
+      "title": "Emerald Pool",
+      "creator": "7greens door Tourism Authority of Thailand",
+      "url": "https://7greens.tourismthailand.org/2018/11/13/emerald-pool/",
+      "description": "Gebruikt voor de officiële context van de bezienswaardigheid Emerald Pool."
+    },
+    {
+      "type": "bezienswaardigheid",
+      "title": "Khlong Thom Hot Spring Waterfall",
+      "creator": "Toerismeproduct door Tourism Authority of Thailand",
+      "url": "https://tourismproduct.tourismthailand.org/en/2025/06/16/%E0%B8%99%E0%B9%89%E0%B8%B3%E0%B8%95%E0%B8%81%E0%B8%A3%E0%B9%89%E0%B8%AD%E0%B8%99%E0%B8%84%E0%B8%A5%E0%B8%AD%E0%B8%87%E0%B8%97%E0%B9%88%E0%B8%AD%E0%B8%A1%E0%B9%80%E0%B8%AB%E0%B8%99%E0%B8%B7%E0%B8%AD/",
+      "description": "Gebruikt voor de huidige officiële verwijzing naar de warmwaterbronwaterval."
+    },
+    {
+      "type": "hotel",
+      "title": "Welkom bij Rayavadee Krabi, Thailand",
+      "creator": "Rayavadee",
+      "url": "https://www.rayavadee.com/",
+      "description": "Gebruikt voor de officiële positionering van het luxe resort aan de Railay-kant."
+    },
+    {
+      "type": "restaurant",
+      "title": "Rayavadee Krabi Eten en Drinken",
+      "creator": "Rayavadee",
+      "url": "https://www.rayavadee.com/en/dining.php",
+      "description": "Gebruikt voor de officiële eetcontext rond Raya Dining, Krua Phranang en The Grotto."
+    },
+    {
+      "type": "hotel",
+      "title": "Luxe Strandresort in Krabi | Dusit Thani Krabi Beach Resort",
+      "creator": "Dusit Hotels",
+      "url": "https://www.dusit.com/dusitthani-krabibeachresort/",
+      "description": "Gebruikt voor de officiële positionering van het resort in Klong Muang."
+    },
+    {
+      "type": "restaurant",
+      "title": "Strand Eten en Drinken in Krabi | Dusit Thani Krabi Beach Resort",
+      "creator": "Dusit Hotels",
+      "url": "https://www.dusit.com/dusitthani-krabibeachresort/dining/",
+      "description": "Gebruikt voor de officiële eetcontext rond Toh Kin Khaw en Cocovida Pool."
+    },
+    {
+      "type": "hotel",
+      "title": "5-Sterren Krabi Strandvilla Resort | Banyan Tree Krabi",
+      "creator": "Banyan Tree",
+      "url": "https://www.banyantree.com/thailand/Krabi",
+      "description": "Gebruikt voor de officiële positionering van het luxe resort aan de rustige kust."
+    },
+    {
+      "type": "restaurant",
+      "title": "Saffron Thais Restaurant in Krabi | Banyan Tree Krabi",
+      "creator": "Banyan Tree",
+      "url": "https://www.banyantree.com/thailand/krabi/dining/saffron",
+      "description": "Gebruikt voor de officiële eetcontext van Saffron."
+    },
+    {
+      "type": "hotel",
+      "title": "Krabi Hotel | The Tubkaak Resort | Boutique Resort Krabi",
+      "creator": "The Tubkaak Krabi Boutique Resort",
+      "url": "https://www.tubkaakresort.com/",
+      "description": "Gebruikt voor de officiële positionering van het boutique resort aan de Tubkaak-kant."
+    },
+    {
+      "type": "hotel",
+      "title": "Phulay Bay, a Ritz-Carlton Reserve | 5-Sterren Hotel nabij Krabi",
+      "creator": "The Ritz-Carlton",
+      "url": "https://www.ritzcarlton.com/en/hotels/kbvrz-phulay-bay-a-ritz-carlton-reserve/overview/",
+      "description": "Gebruikt voor de officiële positionering van het ultraluxe resort."
+    },
+    {
+      "type": "restaurant",
+      "title": "Phulay Bay Eten en Drinken",
+      "creator": "The Ritz-Carlton",
+      "url": "https://www.ritzcarlton.com/en/hotels/kbvrz-phulay-bay-a-ritz-carlton-reserve/dining/",
+      "description": "Gebruikt voor de officiële eetcontext rond Jampoon en Sri Trang."
+    },
+    {
+      "type": "hotel",
+      "title": "NAKAMANDA Resort and Spa",
+      "creator": "Nakamanda Resort & Spa",
+      "url": "https://www.nakamanda.com/",
+      "description": "Gebruikt voor de officiële positionering van het laagbouw resort aan de Klong Muang-kant."
+    }
+  ],
+  "reviewed_by": "Go2Thailand Redactieteam",
+  "enhanced_at": "2026-03-26T00:00:00.000Z",
+  "enrichedAt": "2026-03-26T00:00:00.000Z",
+  "factchecked_at": "2026-03-26T00:00:00.000Z"
+}

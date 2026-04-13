@@ -631,9 +631,9 @@ export const getStaticPaths: GetStaticPaths = async () => {
   };
 };
 
-export const getStaticProps: GetStaticProps = async ({ params }) => {
+export const getStaticProps: GetStaticProps = async ({ params, locale }) => {
   const slug = params?.slug as string;
-  const island = getIslandBySlug(slug);
+  const island = getIslandBySlug(slug, locale);
 
   if (!island) {
     return { notFound: true };

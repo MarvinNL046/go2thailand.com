@@ -88,8 +88,8 @@ export default function NewsPage({ articles }: NewsPageProps) {
   );
 }
 
-export const getStaticProps: GetStaticProps<NewsPageProps> = async () => {
-  const articles = getAllNews();
+export const getStaticProps: GetStaticProps<NewsPageProps> = async ({ locale }) => {
+  const articles = getAllNews(locale);
 
   return {
     props: { articles },

@@ -1,0 +1,709 @@
+{
+  "id": 25,
+  "slug": "trang",
+  "name": {
+    "en": "Trang",
+    "nl": "Trang",
+    "ja": "トラン",
+    "ko": "뜨랑",
+    "th": "ตรัง",
+    "de": "Trang",
+    "fr": "Trang",
+    "ru": "Trang",
+    "zh": "Trang"
+  },
+  "region": "Zuidelijk",
+  "province": "Trang",
+  "description": {
+    "en": "Trang works best as a food-first southern town with a real city core, one edited Kantang heritage leg, and one deliberate coast-or-island layer rather than as a random Andaman island checklist.",
+    "nl": "Trang werkt het best als een food-first zuidelijke stad met een echte stadskern, een gerichte Kantang-heritagelaag en een bewuste kust- of eilandlaag, niet als een willekeurige Andaman-checklist.",
+    "ja": "トランは、町の朝食文化と旧市街、カンタンの歴史、そして海側の延長を一つ丁寧に組み合わせると理解しやすい南部の都市です。",
+    "ko": "뜨랑은 도시의 아침 식문화와 중심부, 칸땅 쪽의 역사 레이어, 그리고 해안이나 섬 확장 한 가지를 조합해서 보는 편이 훨씬 낫습니다.",
+    "th": "ตรังเหมาะกับการเที่ยวแบบเริ่มจากเมือง อาหารเช้า ย่านเก่า คันตัง และค่อยเพิ่มทะเลหรือเกาะเพียงหนึ่งชั้น มากกว่าการไล่เช็กลิสต์ทั้งจังหวัด",
+    "de": "Trang funktioniert am besten als suedthailaendische Stadt mit starkem Essensfokus, einem klaren Stadtkern, einer gezielten Kantang-Erweiterung und nur einer bewussten Kuesten- oder Insellage.",
+    "fr": "Trang se visite mieux comme une ville du sud axee sur la cuisine, avec un vrai coeur urbain, une extension heritage vers Kantang et une seule vraie couche cote ou ile.",
+    "ru": "Транг лучше планировать как гастрономический южный город: городской центр, один осмысленный выезд в Кантанг и один береговой или островной блок.",
+    "zh": "Trang 更适合按“城市早餐与老城核心 + 一段 Kantang 历史线 + 一段海岸或海岛延伸”来规划，而不是把整省做成零散海岛清单。"
+  },
+  "population": 65000,
+  "population_label": "Stadsschaal referentie",
+  "population_note": "Gebruik dit als een brede stedelijke referentie in plaats van een actueel gemeentelijk totaal.",
+  "highlights": [
+    "Talad Chin Ta en Tanon Street Art",
+    "Phong-O-Cha ontbijt en Trang geroosterd varkensvlees",
+    "Peninsular Botanic Garden bij Thung Khai",
+    "Kantang Railway Station en het Ratsada museum",
+    "Pak Meng en Hat Chao Mai",
+    "Koh Mook en Emerald Cave"
+  ],
+  "location": {
+    "lat": 7.5565,
+    "lng": 99.6114
+  },
+  "image": "/images/cities/generated/trang.webp",
+  "seo": {
+    "metaTitle": {
+      "en": "Trang Thailand Guide 2026 | Breakfast, Kantang, Coast and Islands",
+      "nl": "Trang gids 2026 | Ontbijt, Kantang, kust en eilanden",
+      "ja": "トランを満喫 | トランの観光・見どころガイド",
+      "ko": "뜨랑 태국 가이드 2026 | 아침 문화, 칸땅, 해안과 섬",
+      "th": "ตรัง ประเทศไทย 2026 | อาหารเช้า เมืองเก่า คันตัง และทะเลตรัง",
+      "de": "Trang Thailand Guide 2026 | Fruehstueck, Kantang, Kueste und Inseln",
+      "fr": "Guide de Trang 2026 | Petit-dejeuner, Kantang, cote et iles",
+      "ru": "Путеводитель по Trang 2026 | Завтраки, Кантанг, побережье и острова",
+      "zh": "Trang 旅行指南 2026 | 早餐文化、Kantang、海岸与海岛"
+    },
+    "metaDescription": {
+      "en": "Plan Trang around its breakfast culture, Talad Chin Ta, Kantang heritage, Thung Khai, Pak Meng, and one smart island day instead of relying on thin generic island copy.",
+      "nl": "Plan Trang rond de ontbijtcultuur, Talad Chin Ta, Kantang-erfgoed, Thung Khai, Pak Meng en een slimme eilanddag in plaats van dunne generieke eilandcopy.",
+      "ja": "タイ・トランの旅行ガイド。朝食文化、旧市街、カンタン、植物園、海と島の組み立て方をわかりやすく整理します。",
+      "ko": "뜨랑 여행을 아침 문화, 구시가지, 칸땅, 퉁카이, 팍멩, 그리고 한 번의 섬 일정으로 정리한 가이드입니다.",
+      "th": "คู่มือเที่ยวตรังแบบเน้นเมืองเก่า อาหารเช้า คันตัง ปากเมง และเกาะที่คัดแล้วอย่างมีเหตุผล",
+      "de": "Trang richtig planen: Fruehstueckskultur, Altstadt, Kantang, Thung Khai, Pak Meng und ein bewusst gewaehlerter Inseltag.",
+      "fr": "Comment structurer Trang autour de sa culture du petit-dejeuner, de la vieille ville, de Kantang, de Thung Khai, de Pak Meng et d'une seule vraie sortie ile.",
+      "ru": "Как планировать Trang: завтрак, старый город, Кантанг, Thung Khai, Pak Meng и один продуманный островной день.",
+      "zh": "用早餐文化、老城、Kantang、Thung Khai、Pak Meng 和一次精简海岛日来安排 Trang。"
+    }
+  },
+  "categories": {
+    "food": {
+      "en": "Best restaurants and breakfast culture in Trang",
+      "nl": "Beste restaurants en ontbijtcultuur in Trang",
+      "ja": "トランのおすすめレストラン＆朝食文化",
+      "ko": "뜨랑 추천 레스토랑과 아침 문화",
+      "th": "ร้านอาหารและวัฒนธรรมอาหารเช้าในตรัง"
+    },
+    "hotels": {
+      "en": "Top hotels in Trang | City, coast and island stays",
+      "nl": "Beste hotels in Trang | Stad, kust en eilandverblijven",
+      "ja": "トランのおすすめホテル｜市内・海辺・島の滞在",
+      "ko": "뜨랑 추천 호텔 | 도심, 해안, 섬 숙소",
+      "th": "โรงแรมแนะนำในตรัง | เมือง ชายฝั่ง และเกาะ"
+    },
+    "attractions": {
+      "en": "Top attractions in Trang",
+      "nl": "Top bezienswaardigheden in Trang",
+      "ja": "トランの人気観光スポット",
+      "ko": "뜨랑 인기 관광 명소",
+      "th": "สถานที่ท่องเที่ยวยอดนิยมในตรัง"
+    }
+  },
+  "tags": [
+    "zuidelijk",
+    "trang",
+    "ontbijt",
+    "kantang",
+    "hat-chao-mai",
+    "koh-mook",
+    "thailand"
+  ],
+  "enhanced_description": "Trang wordt zwakker als elke aanbeveling meteen naar offshore eilanden springt. De sterkere versie begint in de stad: geroosterd varkensvlees en dim sum 's ochtends, Talad Chin Ta en Tanon Street Art later op de dag, en het rustigere stedelijke ritme dat de stad nog steeds onderscheidt van Phuket, Krabi of een generieke eiland-transferstop.\n\nVan daaruit is de provincie makkelijker te bewerken. Eén route gaat naar het westen richting Pak Meng, Hat Chao Mai, Koh Mook en Koh Kradan. Een andere gaat zuidwest naar Kantang, waar het bewaarde treinstation en het Phraya Ratsadanupradit Mahison Phakdi Museum meer vorm geven aan de bredere geschiedenis van Trang. Thung Khai voegt een praktische bosrand-pauze toe dicht bij de stad zonder te doen alsof elke natuurbestemming een hele dag verdient.\n\nDie structuur is wat Trang publicabel maakt op een hoger kwaliteitsniveau. Het is nog steeds een Andaman-provincie, maar de reis voelt alleen coherent als ontbijtcultuur, de stadskern, één Kantang-erfgoedblok en één zorgvuldig gekozen kust- of eilandlaag elkaar versterken.",
+  "overview": "Trang is een van de zeldzame zuidelijke Thaise steden waar voedselplanning voor strandplanning moet komen. De artikelen van TAT over Trang blijven om een goede reden terugkeren naar hetzelfde idee: geroosterd varkensvlees, dim sum, rijstnoedels, theehuizen, oude-stadstraten, Talad Chin Ta en de kikkerkop-tuk-tuk-route vertellen je meer over de provincie dan het vullen van de pagina met tien uitwisselbare eilanden.\n\nDe stadskern werkt het best in lagen. Begin met een echt ontbijtstop zoals Phong-O-Cha, gebruik Talad Chin Ta en Tanon Street Art voor de oude-stad-lezing, en beslis dan of het volgende blok Thung Khai moet zijn voor boskruin, Kantang voor bewaard spoor-en-museum-erfgoed, of Pak Meng en Hat Chao Mai voor de vastelandkust. Koh Mook en Koh Kradan doen er nog steeds toe, maar ze moeten binnen die bewerkte structuur passen in plaats van die te vervangen.\n\nHotelkeuze volgt dezelfde logica. Verblijf in de stad als ontbijt, oude-stad-wandelen en Kantang of Thung Khai prioriteit hebben. Verplaats naar Koh Mook of een natuurresort alleen als de overnachting bedoeld is om een specifieke eiland- of bosrand-extensie te ondersteunen, niet omdat de stadspagina's zonder originele ideeën kwamen te zitten.",
+  "hidden_gems": [
+    {
+      "name": "Talad Na Pod",
+      "story": "Het stadartikel van TAT behandelt Talad Na Pod als een echte lokale-productenmarkt in plaats van als een vulmiddel-nachtmarkt. Het werkt omdat groenten, OTOP-goederen en eten allemaal nog bij het lokale dagelijkse leven horen.",
+      "how_to_find": "Gebruik het als een markt-omweg voor of na de stadskern in plaats van het te forceren in een stranddag.",
+      "best_time": "Laat in de middag tot avond",
+      "local_insights": [
+        "Dit is sterker voor browsen en grazen dan voor een enkel vast maal.",
+        "Het geeft de stad een meer lokale retail-laag dan generieke souvenirstops."
+      ]
+    },
+    {
+      "name": "Frog-head tuk-tuk circuit",
+      "story": "De kikkerkop-tuk-tuks van Trang geven de stad nog steeds een onderscheidend lokaal transportidentiteit, en TAT blijft ze framen als deel van de stedelijke bezienswaardigheidservaring in plaats van als een gimmick los van de stad.",
+      "how_to_find": "Gebruik één korte rit om de stationskant, oude stad en marktblokken aan elkaar te naaien als de hitte hoog is.",
+      "best_time": "Laat in de ochtend of laat in de middag",
+      "local_insights": [
+        "Dit werkt beter als een korte stadverbinding dan als een volledige dagtour-vervanger.",
+        "Het is het nuttigst als je al weet welke straten of markten je wilt bezoeken."
+      ]
+    }
+  ],
+  "authentic_experiences": [
+    {
+      "activity": "Begin met Trang-ontbijt, niet met de pier",
+      "story": "De huidige Trang-artikelen van TAT houden ontbijtcultuur vooraan en in het midden omdat geroosterd varkensvlees, dim sum, pap en vroege theewinkels nog steeds een van de duidelijkste uitingen van lokaal leven zijn.",
+      "cultural_significance": "De Thais-Chinese ontbijttraditie van de stad maakt deel uit van de identiteit van Trang, niet een bijzaak voor eilandhoppen.",
+      "how_to_participate": "Gebruik één echt ontbijtstop eerst, en laat de rest van de stadroute daaruit opbouwen.",
+      "insights": [
+        "Phong-O-Cha is een sterkere eerste stop dan meteen naar kustlogistiek springen.",
+        "De voedselcultuur van Trang is een van de redenen waarom de stad een eigen verblijf verdient."
+      ],
+      "href": "/city/trang/top-10-restaurants/",
+      "cta_label": "Zie de voedselgids"
+    },
+    {
+      "activity": "Lees de oude stad via Talad Chin Ta en Tanon Street Art",
+      "story": "De staddekking van TAT gebruikt Talad Chin Ta en de omliggende muurschilderstraten om te laten zien hoe het oudere commerciële centrum van Trang nog steeds een zichtbare lokale identiteit draagt.",
+      "cultural_significance": "Dit is de makkelijkste manier om marktleven, architectuur en de lange commerciële herinnering van de stad te verbinden.",
+      "how_to_participate": "Loop de markt-zijstraten, en houd de route flexibel genoeg voor koffie, dessert of een korte tuk-tuk-sprong.",
+      "insights": [
+        "Dit is de beste erfgoed-licht stedelijke laag van de stad.",
+        "De oude stad slaat meer aan als eten en straatkunst bij elkaar worden gehouden."
+      ],
+      "href": "/city/trang/attractions/talad-chin-ta-and-tanon-street-art/",
+      "cta_label": "Zie de oude-stadsgids"
+    },
+    {
+      "activity": "Houd Kantang als één bewuste erfgoed-etappe",
+      "story": "Kantang hangt samen omdat TAT nog steeds het bewaarde treinstation en het Phraya Ratsadanupradit museum verbindt tot een coherente historische extensie van Trang-stad.",
+      "cultural_significance": "Dit is de schoonste manier om de provincie te begrijpen voorbij stranden en ontbijtcultuur.",
+      "how_to_participate": "Geef het een halve dag of meer in plaats van het te combineren met een gehaaste eilandroute.",
+      "insights": [
+        "Het station en museum leggen meer uit samen dan elk apart.",
+        "Kantang is sterker als een erfgoedroute dan als een snelle fotostop."
+      ],
+      "href": "/city/trang/attractions/kantang-railway-station-and-ratsada-museum/",
+      "cta_label": "Zie de Kantang-gids"
+    },
+    {
+      "activity": "Kies één kust-of-eiland-laag en laat het ademen",
+      "story": "Pak Meng, Hat Chao Mai, Koh Mook en Koh Kradan zijn allemaal sterk, maar de reis verbetert meestal als je één vastelandkustblok of één eiland-dag kiest in plaats van ze plat te slaan in één lijst.",
+      "cultural_significance": "Die selectiviteit houdt Trang weg van uitwisselbare Andaman-kopie.",
+      "how_to_participate": "Gebruik Pak Meng en Hat Chao Mai voor een vasteland-stranddag, of committeer aan Koh Mook en Koh Kradan als een echte eiland-uitje het punt is.",
+      "insights": [
+        "Koh Mook slaat aan voor Emerald Cave en gemeenschapscontext.",
+        "Koh Kradan werkt het best als de schone strand-en-snorkel-tegenhanger."
+      ],
+      "href": "/city/trang/attractions/pak-meng-and-hat-chao-mai/",
+      "cta_label": "Zie de kustgids"
+    }
+  ],
+  "foodie_adventures": [
+    {
+      "dish": "Trang geroosterd varkensvlees en dim sum",
+      "location": "Phong-O-Cha",
+      "story": "De restaurantdekking van TAT gebruikt Phong-O-Cha nog steeds als een van de duidelijkste ontbijtreferenties in de stad, vooral voor geroosterd varkensvlees, dim sum, rijstpap en oude-stijl ochtendeten.",
+      "where_to_find": "Bij de Trang-treinstationskant, het best vroeg op de dag gebruikt.",
+      "price_range": "Budget",
+      "ordering_tips": [
+        "Behandel dit als ontbijt of vroege brunch, niet als een hele-dag-terugvaloptie.",
+        "Bouw de oude-stad-route op na deze stop terwijl de stad nog koeler is."
+      ],
+      "href": "/city/trang/top-10-restaurants/",
+      "cta_label": "Zie de voedselgids"
+    },
+    {
+      "dish": "Zuidelijke curry over khanom jeen",
+      "location": "Kha Nom Jeen Khun Pum",
+      "story": "Het stadartikel van TAT benadrukt dit langlopende noedelsrestaurant voor zuidelijke curries, viscurry en het klassieke Trang-rijstnoedel-ontbijt-naar-lunch-ritme.",
+      "where_to_find": "Trang-stad, makkelijkst als een toegewijde ochtend- of lunchstop.",
+      "price_range": "Budget",
+      "ordering_tips": [
+        "Dit is een betere lokale noedelanker dan het verzinnen van een andere generieke caféstop.",
+        "Gebruik het op een stad-dag of voor vertrek naar Kantang."
+      ],
+      "href": "/city/trang/top-10-restaurants/",
+      "cta_label": "Zie de voedselgids"
+    },
+    {
+      "dish": "Thee, niet alleen koffie, als een stadritueel",
+      "location": "Cha Ko Jaeng Tea House",
+      "story": "TAT behandelt Cha Ko Jaeng als een bewuste theehuis-stop gevormd rond de brouwpraktijk van de eigenaar en de langzamere kant van Trang's stadscultuur.",
+      "where_to_find": "Mueang Trang-kant, maar alleen als de eigenaar open is.",
+      "price_range": "Budget tot middenklasse",
+      "ordering_tips": [
+        "Behandel dit als een bonusstop omdat de opening opzettelijk onregelmatig is.",
+        "Het werkt het best als een pauze tussen ontbijt en de oude-stad-wandeling."
+      ],
+      "href": "/city/trang/top-10-restaurants/",
+      "cta_label": "Zie de voedselgids"
+    },
+    {
+      "dish": "Chinees zeevruchten en jus-noedels in Kantang",
+      "location": "Ran Lor Kung",
+      "story": "Het restaurantartikel van TAT gebruikt Ran Lor Kung om de Chinese-invloede restaurantkant van Kantang te ankeren, vooral het oversized garnalenoedelschotel en bredere zeevruchtenbank.",
+      "where_to_find": "Ratsada Road, Kantang",
+      "price_range": "Middenklasse",
+      "ordering_tips": [
+        "Dit is het sterkst als het wordt ingevouwen in de Kantang-erfgoed halve dag.",
+        "Ga met gezelschap als je meer dan één groter gerecht wilt proeven."
+      ],
+      "href": "/city/trang/top-10-restaurants/",
+      "cta_label": "Zie de voedselgids"
+    }
+  ],
+  "local_insights": [
+    "Trang is sterker als ontbijt de dag leidt en de eilanden later volgen, niet andersom.",
+    "Talad Chin Ta en de muurschilderstraten doen meer voor de stad dan een andere generieke nachtmarktlijst.",
+    "Kantang verdient een echte plek omdat het station en museum een bruikbare erfgoedlaag creëren.",
+    "Pak Meng en Hat Chao Mai zijn het schoonste vastelandkustblok als je geen eiland-alleen schema wilt.",
+    "Kies stadshotels voor stad- en Kantang-planning; gebruik eiland- of bosverblijven alleen als ze die route direct ondersteunen."
+  ],
+  "seasonal_secrets": "November tot april is de makkelijkste algehele fit voor Trang omdat de zee kalmer is, eilandtoegang betrouwbaarder en de stad makkelijker te voet te doen. De huidige Trang-zeedekking van TAT merkt ook jaarlijkse milieusluitingen en weergevoelige toegang op rond delen van Hat Chao Mai, Koh Mook en Koh Kradan, dus regen-seizoen eilandplannen moeten altijd lokaal worden nagecheckt voordat je de dag vastlegt.",
+  "budget_reality": {
+    "budget": "Trang kan betaalbaar blijven als je jezelf baseert in de stad, ontbijthuizen, noedelwinkels en markten goed gebruikt, en vermijdt elke dag om te zetten in een privé eilandtransfer.",
+    "mid_range": "Middenklasse uitgaven stijgen meestal als je een stadshotel mixt met één eiland- of natuurovernachting en een paar meer bewuste maaltijden.",
+    "luxury": "Hogere uitgaven komen meestal van eiland-strandkamers, resort-stijl bosverblijven en bootlogistiek in plaats van uit de stad zelf.",
+    "money_saving_tricks": [
+      "Verblijf in Trang-stad als ontbijtcultuur, oude-stad-wandelen, Kantang en Thung Khai belangrijker zijn dan wakker worden op een eiland.",
+      "Kies eerst de vastelandkust of de eiland-dag in plaats van te proberen voor beide te betalen in een gehaast kort verblijf.",
+      "Gebruik markten en ontbijthuizen voor de laag-uitgaven maaltijden en bewaar de duurdere plek voor één bewuste zeevruchten- of eiland-diner."
+    ],
+    "hidden_costs": [
+      "Boottransfers, gebundelde eilandlogistiek en weergebonden herscheduling kunnen meer kosten dan het stadsdeel.",
+      "Bos- en eilandresorts maken vaak minder zin als je nog steeds plant de meeste van de dag terug in de stad door te brengen."
+    ]
+  },
+  "top_attractions": [
+    {
+      "rank": 1,
+      "name": "Talad Chin Ta and Tanon Street Art",
+      "description": "De sterkste eerste-stad-laag omdat het de markt-zij oude stad, muurschilderstraten en de meest leesbare stedelijke identiteit van Trang combineert.",
+      "location": "Trang stadscentrum",
+      "entrance_fee": "Openbare markt en straat toegang.",
+      "highlights": [
+        "Talad Chin Ta wandelstraat",
+        "Oude-stad straatkunst-zone",
+        "Beste eerste lezing van de stad"
+      ],
+      "href": "/city/trang/attractions/talad-chin-ta-and-tanon-street-art/",
+      "cta_label": "Zie de oude-stadsgids"
+    },
+    {
+      "rank": 2,
+      "name": "Peninsular Botanic Garden at Thung Khai",
+      "description": "Het makkelijkste bos-zij natuurblok dicht bij de stad, met een kruinwandeling en een meer gegronde alternatief voor overgebouwde provincie-omwegen.",
+      "location": "Thung Khai, bij Trang-stad",
+      "entrance_fee": "Check lokaal bij aankomst.",
+      "highlights": [
+        "Kruinwandeling",
+        "Bosbiodiversiteit-paden",
+        "Makkelijke toevoeging vanuit de stad"
+      ],
+      "href": "/city/trang/attractions/peninsular-botanic-garden-thung-khai/",
+      "cta_label": "Zie de Thung Khai-gids"
+    },
+    {
+      "rank": 3,
+      "name": "Kantang Railway Station and the Ratsada museum",
+      "description": "De schoonste erfgoed-extensie van Trang omdat bewaard spoorarchitectuur en het museum de bredere commerciële en politieke geschiedenis van de provincie samen uitleggen.",
+      "location": "Kantang District",
+      "entrance_fee": "Openbare stationtoegang; museumcondities moeten lokaal worden nagecheckt.",
+      "highlights": [
+        "Historisch terminalstation",
+        "Fine Arts Department-geregistreerde structuur",
+        "Kantang erfgoed-paring"
+      ],
+      "href": "/city/trang/attractions/kantang-railway-station-and-ratsada-museum/",
+      "cta_label": "Zie de Kantang-gids"
+    },
+    {
+      "rank": 4,
+      "name": "Pak Meng and Hat Chao Mai",
+      "description": "De beste vasteland-kust-laag voor reizigers die strandscenerie, piers en Trang-zeetoegang willen zonder de hele reis eiland-alleen te maken.",
+      "location": "Sikao en Hat Chao Mai-kant",
+      "entrance_fee": "Strandtoegang is eenvoudig; nationale-park-regels kunnen variëren per gebied en seizoen.",
+      "highlights": [
+        "Pak Meng Pier",
+        "Vasteland strand-dag",
+        "Makkelijke eiland-startpunt"
+      ],
+      "href": "/city/trang/attractions/pak-meng-and-hat-chao-mai/",
+      "cta_label": "Zie de kustgids"
+    },
+    {
+      "rank": 5,
+      "name": "Koh Mook and Emerald Cave",
+      "description": "De bekendste eiland-dag van Trang omdat Emerald Cave echt memorabel is en Koh Mook meer gemeenschapscontext toevoegt dan een pure strandstop.",
+      "location": "Koh Mook, Hat Chao Mai National Park-gebied",
+      "entrance_fee": "Boot- en parklogistiek moeten worden nagecheckt met huidige operators en parkregels.",
+      "highlights": [
+        "Emerald Cave",
+        "Koh Mook gemeenschapscontext",
+        "Vlaggenschip eiland-uitje"
+      ],
+      "href": "/city/trang/attractions/koh-mook-and-emerald-cave/",
+      "cta_label": "Zie de Koh Mook-gids"
+    },
+    {
+      "rank": 6,
+      "name": "Koh Kradan",
+      "description": "De beste pure strand-en-snorkel-tegenhanger van Koh Mook, vooral als je het schonere open-water eilandbeeld wilt waar Trang bekend om staat.",
+      "location": "Koh Kradan, Hat Chao Mai National Park-gebied",
+      "entrance_fee": "Boot- en seizoensgebonden toegang moet lokaal worden nagecheckt.",
+      "highlights": [
+        "Wit-zand strand",
+        "Snorkelen en koraalwater",
+        "Beste schone-strand eiland-dag"
+      ],
+      "href": "/city/trang/attractions/koh-kradan/",
+      "cta_label": "Zie de Koh Kradan-gids"
+    }
+  ],
+  "top_restaurants": [
+    {
+      "rank": 1,
+      "name": "Phong-O-Cha",
+      "description": "De duidelijkste eerste ontbijtstop in de stad als je Trang geroosterd varkensvlees, dim sum en een oude-stijl lokale ochtendritme wilt.",
+      "location": "Phet Kasem Road bij Trang-treinstationskant",
+      "price_range": "Budget",
+      "highlights": [
+        "Trang geroosterd varkensvlees",
+        "Dim sum ontbijt",
+        "Sterke eerste stop"
+      ],
+      "href": "/city/trang/top-10-restaurants/",
+      "cta_label": "Bekijk de eetgids"
+    },
+    {
+      "rank": 2,
+      "name": "Kha Nom Jeen Khun Pum",
+      "description": "Een betere lokale noedelstop dan generieke cafévulling, vooral als je zuidelijke curry over rijstnoedels wilt.",
+      "location": "Trang stad",
+      "price_range": "Budget",
+      "highlights": [
+        "Zuidelijke curry khanom jeen",
+        "Langlopende stadsfavoriet",
+        "Handig van ochtend tot lunch"
+      ],
+      "href": "/city/trang/top-10-restaurants/",
+      "cta_label": "Bekijk de eetgids"
+    },
+    {
+      "rank": 3,
+      "name": "Cha Ko Jaeng Tea House",
+      "description": "De meest kenmerkende drankstop in de stad als je Trang's rustigere theekant wilt begrijpen in plaats van standaard koffie-only cafés.",
+      "location": "Na Ta Luang, Mueang Trang",
+      "price_range": "Budget tot middenklasse",
+      "highlights": [
+        "Theehuiscultuur",
+        "Eigenaar-geleide bereiding",
+        "Handige rustige stadsstop"
+      ],
+      "href": "/city/trang/top-10-restaurants/",
+      "cta_label": "Bekijk de eetgids"
+    },
+    {
+      "rank": 4,
+      "name": "Ran Lor Kung",
+      "description": "De sterkste praktische restaurantuitbreiding in Kantang als het erfgoed van de provincie deel uitmaakt van het plan.",
+      "location": "Ratsada Road, Kantang",
+      "price_range": "Middenklasse",
+      "highlights": [
+        "Chinees-stijl zeevruchten",
+        "Grote-format gedeelde gerechten",
+        "Beste met de Kantang-route"
+      ],
+      "href": "/city/trang/top-10-restaurants/",
+      "cta_label": "Bekijk de eetgids"
+    },
+    {
+      "rank": 5,
+      "name": "Talad Chin Ta",
+      "description": "De beste marktvoedsel-laag in de stad als je wilt grazen, desserts en avondatmosfeer in plaats van één vaste diner-ranking.",
+      "location": "Trang stadscentrum",
+      "price_range": "Budget",
+      "highlights": [
+        "Wandeling-straatvoedsel",
+        "Avondstad ritme",
+        "Werkt goed na de oude stad"
+      ],
+      "href": "/city/trang/top-10-restaurants/",
+      "cta_label": "Bekijk de eetgids"
+    },
+    {
+      "rank": 6,
+      "name": "Tabtieng Old Town Cafe & Bistro",
+      "description": "Een praktische oude-stad koffie-en-snack stop als je een kalmere pauze wilt zonder de stedelijke kern te verlaten.",
+      "location": "Tabtieng oude-stad kant, Trang",
+      "price_range": "Budget tot middenklasse",
+      "highlights": [
+        "Oude-stad setting",
+        "Koffie en lokale zoetigheden",
+        "Handig in het muurschilderingen-straat blok"
+      ],
+      "href": "/city/trang/top-10-restaurants/",
+      "cta_label": "Bekijk de eetgids"
+    }
+  ],
+  "top_hotels": [
+    {
+      "rank": 1,
+      "name": "Thumrin Hotel",
+      "description": "De sterkste praktische stadsbasis als je dicht bij de spoorwegstation-kant wilt blijven en ontbijt, oude stad en vervolgvervoerplanning eenvoudig wilt houden.",
+      "price_range": "Middenklasse",
+      "category": "middenklasse",
+      "area": "Trang spoorwegstation-kant",
+      "highlights": [
+        "Officiële eigendomssite",
+        "Dicht bij Trang Railway Station",
+        "Gratis Wi-Fi en parkeren"
+      ]
+    },
+    {
+      "rank": 2,
+      "name": "Rua Rasada Hotel",
+      "description": "Een groter full-service stadshotel als vergaderruimtes, een breder kamerkeuze en eenvoudige luchthaven- of stationtransfers belangrijker zijn dan oude-stad wandelbaarheid.",
+      "price_range": "Middenklasse tot bovengemiddelde middenklasse",
+      "category": "middenklasse",
+      "area": "Muang Trang wegtoegang-kant",
+      "highlights": [
+        "Officiële hotelsite",
+        "5 tot 15 minuten van luchthaven, busstation en station",
+        "Ter plaatse dineren en grotere faciliteiten"
+      ]
+    },
+    {
+      "rank": 3,
+      "name": "HOP INN Trang",
+      "description": "De eenvoudigste voorspelbare budget-ketenoptie als de kamer vooral een schone stadsbasis is voor een kort Trang verblijf.",
+      "price_range": "Budget",
+      "category": "budget",
+      "area": "Trang stadscentrum-kant",
+      "highlights": [
+        "Officiële ketensite",
+        "Praktisch budgetformaat",
+        "Goede fit voor korte verblijven"
+      ]
+    },
+    {
+      "rank": 4,
+      "name": "Koh Mook Sivalai Beach Resort",
+      "description": "Het meest bewuste eilandovernachting als Koh Mook en Emerald Cave de echte reden zijn om de Trang-reis uit te breiden voorbij de stad.",
+      "price_range": "Middenklasse tot bovengemiddelde middenklasse",
+      "category": "resort",
+      "area": "Koh Mook",
+      "highlights": [
+        "Officiële strandresort site",
+        "Wit-zand schiereiland setting",
+        "Handig voor een echte eilandovernachting"
+      ]
+    },
+    {
+      "rank": 5,
+      "name": "Kachonghills Tented Resort",
+      "description": "De beste geredigeerde natuurverblijf keuze als je een bos-kant overnachting wilt nabij Khao Chong in plaats van een generieke stads kamer.",
+      "price_range": "Middenklasse tot bovengemiddelde middenklasse",
+      "category": "natuur",
+      "area": "Khao Chong kant",
+      "highlights": [
+        "Officiële resort site",
+        "Bos en berg setting",
+        "Goed voor een natuur-geleide uitbreiding"
+      ]
+    }
+  ],
+  "travel_tips": [
+    "Begin met ontbijt. Trang's eetcultuur is een van de weinige plekken waar de ochtendmaaltijd de hele reisroute moet leiden.",
+    "Probeer niet Talad Chin Ta, Kantang, Thung Khai, Pak Meng, Koh Mook en Koh Kradan te dekken in één gehaast kort verblijf.",
+    "Kies stadshotels als ontbijt, oude-stad wandelen, Kantang of Thung Khai het belangrijkste zijn.",
+    "Als je dag afhangt van een boot, controleer dan vlak voor vertrek het huidige weer, parktoegang en operator timing.",
+    "Behandel Cha Ko Jaeng als een bonusstop omdat de openingsritme afhangt van de eigenaar."
+  ],
+  "best_time_to_visit": "November tot april is het makkelijkste seizoen voor Trang omdat stads wandelen comfortabeler is en zeecondities meestal betrouwbaarder. Regenachtige maanden kunnen nog werken voor de stad, eten en Kantang, maar eilandtoegang en sommige nationale-park gebieden moeten altijd lokaal worden gecontroleerd.",
+  "bestTimeToVisit": "November tot april is de veiligste allround fit voor Trang. De stad en eetscene werken nog buiten dat venster, maar eiland- en park-kant plannen worden weergevoeliger en moeten lokaal worden bevestigd.",
+  "budget_info": {
+    "budget_per_day": "Budget",
+    "midrange_per_day": "Middenklasse",
+    "luxury_per_day": "Hogere uitgaven"
+  },
+  "thingsToDo": "Begin met ontbijt en het oude-stad blok, kies dan één uitbreiding: Thung Khai voor nabije natuur, Kantang voor erfgoed, Pak Meng en Hat Chao Mai voor de vastelandkust, of Koh Mook en Koh Kradan voor een echte eiland dag.",
+  "whereToStay": "Verblijf in Trang stad als ontbijtcultuur, Talad Chin Ta, Kantang en flexibele dagtrips het belangrijkste zijn. Verplaats naar Koh Mook alleen als een eilandovernachting centraal staat in het plan, of naar Kachonghills als je een echt bos-kant verblijf wilt.",
+  "whereToEat": [
+    {
+      "name": "Phong-O-Cha",
+      "cuisine": "Trang ontbijt en dim sum",
+      "priceRange": "Budget",
+      "description": "De duidelijkste ontbijtanker voor geroosterd varkensvlees, dim sum en pap."
+    },
+    {
+      "name": "Kha Nom Jeen Khun Pum",
+      "cuisine": "Zuidelijke curry noedels",
+      "priceRange": "Budget",
+      "description": "Een langlopende Trang noedelstop met sterke zuidelijke curry logica."
+    },
+    {
+      "name": "Cha Ko Jaeng Tea House",
+      "cuisine": "Thee en lichte snacks",
+      "priceRange": "Budget tot middenklasse",
+      "description": "Een kenmerkende theehuisstop gevormd rond zorgvuldige bereiding in plaats van generieke cafécultuur."
+    },
+    {
+      "name": "Ran Lor Kung",
+      "cuisine": "Chinese zeevruchten",
+      "priceRange": "Middenklasse",
+      "description": "De beste restaurantanker op de Kantang kant."
+    },
+    {
+      "name": "Talad Chin Ta",
+      "cuisine": "Straatvoedsel en gemengde lokale snacks",
+      "priceRange": "Budget",
+      "description": "Beste voor een avond stadsvoedsel lus in plaats van één vaste zit-diner."
+    }
+  ],
+  "topHotels": [
+    {
+      "name": "Thumrin Hotel",
+      "category": "middenklasse",
+      "priceRange": "Middenklasse",
+      "area": "Trang spoorwegstation-kant",
+      "description": "Een praktische stadsbasis nabij het station met directe-site duidelijkheid."
+    },
+    {
+      "name": "Rua Rasada Hotel",
+      "category": "middenklasse",
+      "priceRange": "Middenklasse tot bovengemiddelde middenklasse",
+      "area": "Muang Trang wegtoegang-kant",
+      "description": "Een groter full-service stadshotel met eenvoudigere luchthaven- en stationtransfer logica."
+    },
+    {
+      "name": "HOP INN Trang",
+      "category": "budget",
+      "priceRange": "Budget",
+      "area": "Trang stadskant",
+      "description": "Een voorspelbare korte-verblijf budget keten."
+    },
+    {
+      "name": "Koh Mook Sivalai Beach Resort",
+      "category": "resort",
+      "priceRange": "Middenklasse tot bovengemiddelde middenklasse",
+      "area": "Koh Mook",
+      "description": "Beste als de eilandovernachting het eigenlijke punt van de reis is."
+    },
+    {
+      "name": "Kachonghills Tented Resort",
+      "category": "natuur",
+      "priceRange": "Middenklasse tot bovengemiddelde middenklasse",
+      "area": "Khao Chong kant",
+      "description": "Een bos-kant glamping-stijl verblijf voor een bewuste natuuruitbreiding."
+    }
+  ],
+  "gettingAround": "Trang stad is beheersbaar met korte lokale ritten plus wandelen zodra je in de oude-stad en marktzone bent. Kantang, Pak Meng, Hat Chao Mai en Thung Khai zijn echte buiten-stad trips die als zodanig moeten worden behandeld. Bootdagen hebben hun eigen timing buffer in plaats van te worden geperst rond stadsbezichtigingen.",
+  "safetyTips": "Trang zelf is meestal eenvoudig, maar actieve tempels, musea en gemeenschapsgebieden vereisen nog steeds respectvol gedrag en kleding. Voor eiland dagen, vertrouw niet op oude statische bootkopie. Bevestig weer, parktoegang en operator timing dezelfde dag, en vermijd het forceren van zeplannen als de condities duidelijk zijn omgeslagen.",
+  "faq": [
+    {
+      "question": "Is Trang een bezoek waard als je geen volledige eilandtrip doet?",
+      "answer": "Ja. Ontbijtcultuur, Talad Chin Ta, Tanon Street Art, Thung Khai en de Kantang erfgoedlaag geven Trang al genoeg vorm voor een waardevol stads-eerst verblijf."
+    },
+    {
+      "question": "Wat moet je eerst doen in Trang?",
+      "answer": "Begin met een echt ontbijtstop zoals Phong-O-Cha, ga dan naar de oude-stad en markt-kant straten voordat je beslist over Kantang, Thung Khai of de kust."
+    },
+    {
+      "question": "Is Koh Mook of Koh Kradan beter?",
+      "answer": "Koh Mook is sterker voor Emerald Cave en een voller gevoel van gemeenschapscontext. Koh Kradan is sterker als de prioriteit een schoner puur-strand en snorkeldag is."
+    },
+    {
+      "question": "Moet je in Trang stad of op een eiland verblijven?",
+      "answer": "Verblijf in de stad als ontbijtcultuur, oude-stad wandelen, Kantang of Thung Khai het belangrijkste zijn. Verblijf op Koh Mook alleen als de eilandovernachting centraal staat in het plan."
+    },
+    {
+      "question": "Hoeveel nachten heeft Trang nodig?",
+      "answer": "Twee nachten kunnen de stad plus één uitbreiding dekken. Drie nachten werken beter als je ontbijtcultuur, een stadsdag, Kantang of Thung Khai en één echte kust- of eilandblok wilt."
+    }
+  ],
+  "practicalInfo": {
+    "bestMonths": [
+      "Nov",
+      "Dec",
+      "Jan",
+      "Feb",
+      "Mar",
+      "Apr"
+    ],
+    "nearestAirport": "Trang Airport",
+    "travelTimeFromAirport": "Meestal ongeveer 15 tot 20 minuten naar de stad, afhankelijk van hotelgebied en verkeer.",
+    "localTransport": [
+      "Korte lokale ritten werken het beste voor beweging tussen de station-kant, oude stad en markten.",
+      "Wandelen is handig zodra je in de Talad Chin Ta en muurschilderingen-straat zone bent.",
+      "Privéauto of geregelde transfer is de praktische fit voor Kantang, Pak Meng, Hat Chao Mai en Thung Khai.",
+      "Bootdagen hebben directe operator timing nodig in plaats van aannames uit oude gidsdata."
+    ],
+    "arrival": "Trang wordt bediend door luchthaven, spoor en snelwegtoegang, daarom wordt het vaak onderschat als alleen een transitpunt.",
+    "transport": "Gebruik stadsverblijven voor stad- en erfgoedplanning, kust-kant transport voor Pak Meng dagen, en eilandtransfers alleen als ze centraal staan in het plan.",
+    "planning": "Denk in lagen: ontbijt en oude stad eerst, één erfgoed- of bosuitbreiding tweede, en één kust-of-eiland blok derde."
+  },
+  "contentSources": [
+    {
+      "type": "reisgids",
+      "title": "FINE DINING, FUN DIVE, AND FASCINATING DISCOVER TRANG",
+      "creator": "Tourism Authority of Thailand",
+      "url": "https://www.tourismthailand.org/Articles/fine-dining-fun-dive-and-fascinating-discover-trang",
+      "description": "Gebruikt voor de algehele stad-versus-kust framing, Trang ontbijtcultuur, Koh Mook, Koh Kradan en de geredigeerde provincie structuur."
+    },
+    {
+      "type": "reisgids",
+      "title": "Voorbij het strand: Waar te eten, reizen en winkelen in Trang",
+      "creator": "Tourism Authority of Thailand",
+      "url": "https://www.tourismthailand.org/Articles/https-www-tourismthailand-org-articles-beyond-the-beach-where-to-eat-travel-and-shop-at-in-trang",
+      "description": "Gebruikt voor Talad Chin Ta, Thung Khai, Phong-O-Cha 2, Cha Ko Jaeng, Kha Nom Jeen Khun Pum, Kantang Railway Station, frog-head tuk-tuks, en Talad Na Pod."
+    },
+    {
+      "type": "reisgids",
+      "title": "Ontdek deze 3 kenmerkende restaurants in Trang",
+      "creator": "Tourism Authority of Thailand",
+      "url": "https://www.tourismthailand.org/Articles/https-www-tourismthailand-org-articles-discoverthese3signaturerestaurantsintrang",
+      "description": "Gebruikt voor Ran Lor Kung, Cha Ko Jaeng Tea House, en Phong-O-Cha als de kernlijst van restaurants."
+    },
+    {
+      "type": "reisgids",
+      "title": "3 Eilanden van de Trang Zee: Een paradijs voor zee liefhebbers",
+      "creator": "Tourism Authority of Thailand",
+      "url": "https://www.tourismthailand.org/Articles/3-islands-of-trang-sea-a-paradise-for-sea-lovers",
+      "description": "Gebruikt voor Pak Meng, Kuan Tung Ku, Koh Mook, Koh Kradan, en seizoensafsluiting context rond de eilanden van Hat Chao Mai National Park."
+    },
+    {
+      "type": "reisgids",
+      "title": "Backpacken naar Koh Kradan",
+      "creator": "Tourism Authority of Thailand",
+      "url": "https://www.tourismthailand.org/Articles/backpacking-to-kradan-island",
+      "description": "Gebruikt voor huidige trein, luchthaven, city-van, pier en planning van toegang tot Kradan."
+    },
+    {
+      "type": "bezienswaardigheid",
+      "title": "Peninsular Botanic Garden (Thung Khai)",
+      "creator": "Tourism Authority of Thailand",
+      "url": "https://www.tourismthailand.org/Attraction/peninsular-botanic-garden-thung-khai",
+      "description": "Gebruikt als de officiële bezienswaardigheidsreferentie voor de detailpagina van Thung Khai."
+    },
+    {
+      "type": "bezienswaardigheid",
+      "title": "Phraya Ratsadanupradit Mahison Phakdi Museum",
+      "creator": "Tourism Authority of Thailand",
+      "url": "https://www.tourismthailand.org/Attraction/phraya-ratsadanupradit-mahison-phakdi-museum",
+      "description": "Gebruikt als de officiële bezienswaardigheidsreferentie voor de museumlaag van Kantang."
+    },
+    {
+      "type": "hotel",
+      "title": "Thumrin Hotel, Trang",
+      "creator": "Thumrin Hotel",
+      "url": "https://thumrinhotel.thumringroup.com/",
+      "description": "Gebruikt voor directe eigendomsdetails, positionering aan de stationkant, gratis Wi-Fi en parkeren."
+    },
+    {
+      "type": "hotel",
+      "title": "Rua Rasada Hotel Trang Thailand",
+      "creator": "Rua Rasada Hotel",
+      "url": "https://www.ruarasadahotel.com/",
+      "description": "Gebruikt voor officiële hotelpositionering, praktische transfers en logica voor groter full-service stedelijk verblijf."
+    },
+    {
+      "type": "hotel",
+      "title": "HOP INN Trang",
+      "creator": "HOP INN Thailand",
+      "url": "https://www.hopinnhotel.com/our-hotels/hop-inn-trang",
+      "description": "Gebruikt voor de huidige budget-keten hoteloptie in Trang."
+    },
+    {
+      "type": "hotel",
+      "title": "Koh Mook Sivalai Beach Resort",
+      "creator": "Koh Mook Sivalai Beach Resort",
+      "url": "https://www.kohmooksivalai.com/",
+      "description": "Gebruikt voor officiële eilandresort-positionering op Koh Mook."
+    },
+    {
+      "type": "hotel",
+      "title": "Kachonghills Tented Resort Trang",
+      "creator": "Kachonghills Tented Resort",
+      "url": "https://kachonghillsresort.com/",
+      "description": "Gebruikt voor officiële natuurresort-positionering nabij de Khao Chong-kant."
+    }
+  ],
+  "reviewed_by": "Go2Thailand Editorial Team",
+  "enhanced_at": "2026-03-27T10:30:00.000Z",
+  "factchecked_at": "2026-03-27T10:30:00.000Z",
+  "enrichedAt": "2026-03-27T10:30:00.000Z"
+}

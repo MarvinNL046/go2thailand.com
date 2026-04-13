@@ -1,0 +1,83 @@
+{
+  "id": 1,
+  "slug": "den-ping-cave",
+  "name": {
+    "en": "Den Ping Cave (Tham Din Phiang)",
+    "nl": "Den Ping-grot (Tham Din Phiang)"
+  },
+  "type": "tempel",
+  "city_slug": "nong-khai",
+  "address": "Pha Tang-gebied, Sangkhom District, Nong Khai",
+  "location": null,
+  "opening_hours": "Controleer voor vertrek de lokale toegang tot de grot, gidsarrangementen en actuele veiligheidsomstandigheden.",
+  "entrance_fee": {
+    "thb": null,
+    "usd": null
+  },
+  "description": {
+    "en": "A sacred cave stop on the Sangkhom side, stronger for its Naga belief layer and unusual rock passage than for polished tourist infrastructure.",
+    "nl": "Een heilige grotstop aan de Sangkhom-kant, sterker door de Naga-geloofslaag en ongebruikelijke rotspassage dan door gepolijste toeristische infrastructuur."
+  },
+  "highlights": [
+    "Bekend als Tham Din Phiang in TAT-materiaal",
+    "Naga-gelooflaag",
+    "Goed te combineren met de Sangkhom-uitzictroute"
+  ],
+  "image": "/images/cities/generated/nong-khai.webp",
+  "official_website": null,
+  "seo": {
+    "metaTitle": {
+      "en": "Den Ping Cave | Go2Thailand",
+      "nl": "Den Ping-grot | Go2Thailand"
+    },
+    "metaDescription": {
+      "en": "Why Den Ping Cave is best treated as a sacred Sangkhom-side add-on rather than a polished showcave attraction.",
+      "nl": "Waarom Den Ping-grot het best werkt als heilige uitstap aan de Sangkhom-kant en niet als gepolijste showcave-attractie."
+    }
+  },
+  "tags": [
+    "nong-khai",
+    "tham-din-phiang",
+    "den-ping-cave",
+    "sangkhom",
+    "naga"
+  ],
+  "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=Den%20Ping%20Cave%20Nong%20Khai%20Thailand",
+  "best_time": "ochtend",
+  "duration_hours": 1.25,
+  "enhanced_description": "De Den Ping Cave beleef je het best via zijn lokale heilige identiteit, in plaats van via standaard avontuurgrot-beschrijvingen. De huidige TAT-informatie over Nong Khai en Upper Isan noemt de locatie Tham Din Phiang en presenteert het als onderdeel van een geloofsgerichte Sangkhom-route naast Mekong-uitzichten.\n\nDat is de juiste schaal. Dit is een gerichte toevoeging voor reizigers die een meer lokale spirituele stop willen aan de rivierwegkant van de provincie Nong Khai, geen grote commerciële grotattractie.",
+  "detailed_history": "De huidige TAT-reisplanning voor Nong Khai bevat Tham Din Phiang nog steeds als een van de belangrijkste stops aan de Sangkhom-kant en koppelt het expliciet aan het lokale Naga-geloof, wat betrouwbaarder is dan hergebruikte precieze kosten uit oude derde-partijlijsten.",
+  "visitor_experience": "Verwacht een bescheiden heilige grotstop met wat ongelijke lokale omstandigheden, in plaats van een sterk beheerde showgrot. Het komt het best tot zijn recht in combinatie met Wat Pha Tak Suea en andere Mekong-uitzichten aan de Sangkhom-kant.",
+  "best_time_to_visit": {
+    "time_of_day": "Ochtend",
+    "duration": "Ongeveer 45 tot 75 minuten",
+    "crowd_level": "Meestal licht"
+  },
+  "practical_info": {
+    "how_to_get_there": "Bereik het per weg tijdens een uitstapje aan de Sangkhom-kant vanuit de stad Nong Khai.",
+    "nearby_attractions": "Wat Pha Tak Suea Skywalk, Phu Huay Isan en de Mekong-rivierweg-uitzichten.",
+    "food_options": "Plan maaltijden rond de bredere Sangkhom-route in plaats van rond de grotstop zelf.",
+    "shopping": "Minimaal tot geen."
+  },
+  "insider_tips": [
+    "Behandel de grot eerst als een heilige lokale stop, niet als een groot avontuurproduct.",
+    "Doe het tijdens dezelfde uitstap als de belangrijkste Sangkhom-uitzichten.",
+    "Controleer voor vertrek de actuele lokale toegang, vooral bij natte omstandigheden."
+  ],
+  "verified_note": "Samenvatting gebaseerd op TAT-bronmateriaal voor Nong Khai en Upper Isan-routes. Details over dezelfde-dag-grottentoegang moeten lokaal worden geverifieerd.",
+  "cultural_significance": "De grot is belangrijk omdat hij het rivierweg-landschap van Nong Khai verbindt met het Naga-geloofssysteem dat veel van de spirituele identiteit van de provincie vormgeeft.",
+  "contentSources": [
+    {
+      "name": "3D2N to Udon Thani and Nong Khai For Beliefs and Beyond",
+      "url": "https://www.tourismthailand.org/Articles/udon-thani-and-nong-khai-en"
+    },
+    {
+      "name": "Provincial eBook Nong Khai",
+      "url": "https://amazingthailand.com.au/wp-content/uploads/2022/09/Provincial-eBook-Nongkhai_en_Hyperlink_OK.pdf"
+    },
+    {
+      "name": "Weaving Mekong Guidebook",
+      "url": "https://fliphtml5.com/kmkzf/Weaving-Mekong_EN/Weaving_Mekong_EN/"
+    }
+  ]
+}

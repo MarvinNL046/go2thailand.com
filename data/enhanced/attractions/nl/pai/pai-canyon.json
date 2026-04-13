@@ -1,0 +1,79 @@
+{
+  "id": 2,
+  "slug": "pai-canyon",
+  "name": {
+    "en": "Pai Canyon",
+    "nl": "Pai Canyon"
+  },
+  "type": "natuur",
+  "city_slug": "pai",
+  "address": "Kong Lan-gebied, Pai District, Mae Hong Son, Thailand",
+  "location": null,
+  "opening_hours": "Openlucht natuursite; bezoeken bij daglicht zijn het meest praktisch en controleer lokaal de actuele toegang",
+  "entrance_fee": {
+    "thb": null,
+    "usd": null
+  },
+  "description": {
+    "en": "Pai's strongest landscape stop, built around a red sandstone ridgeline and broad valley views.",
+    "nl": "Pai's sterkste landschapsstop, opgebouwd rond een rode zandstenen bergkam en brede vallei-uitzichten."
+  },
+  "highlights": [
+    "Rode zandsteenrichel",
+    "Brede vallei-uitzichten",
+    "Ideaal voor zonsopgang of zonsondergang"
+  ],
+  "image": "/images/cities/generated/pai.webp",
+  "official_website": null,
+  "seo": {
+    "metaTitle": {
+      "en": "Pai Canyon | Go2Thailand",
+      "nl": "Pai Canyon | Go2Thailand"
+    },
+    "metaDescription": {
+      "en": "Why Pai Canyon is still the strongest landscape stop in Pai and how to use it without turning the visit into brittle sunset-only copy.",
+      "nl": "Waarom Pai Canyon nog steeds de sterkste landschapsstop in Pai is en hoe je het gebruikt zonder in broze alleen-zonsondergang-copy te vervallen."
+    }
+  },
+  "tags": [
+    "pai",
+    "pai canyon",
+    "kong lan",
+    "uitzichtpunt",
+    "mae hong son"
+  ],
+  "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=Pai%20Canyon%20Pai",
+  "best_time": "zonsopgang of late namiddag",
+  "duration_hours": 1.5,
+  "enhanced_description": "Pai Canyon blijft de eenvoudigste manier om de vallei te beleven als een echt landschap, in plaats van als een losse verzameling cafés en plattelandsuitstapjes. De TAT-benadering is hier nog steeds nuttig: de plek werkt door de dramatische rode zandsteen-topografie en het brede uitzicht dat het biedt op Pai en de omliggende bergen.\n\nDat betekent niet dat elke bezoeker de smalste richelsecties hoeft te trotseren. De beste ervaring krijg je door de hoofd-uitzichten goed te benutten, te gaan als het licht zachter is, en de canyon de vallei laten uitleggen zonder de belevenis te forceren tot adrenaline-spektakel.",
+  "detailed_history": "Het TAT-artikel over Mae Hong Son presenteert Pai Canyon, ook bekend als Kong Lan, nog steeds als de bekendste zonsondergangstop van de provincie en benadrukt de door erosie gevormde rode zandsteenrichel.",
+  "visitor_experience": "Reken op een korte aanloop en een open richel-landschap, niet op een lang formeel wandelpadensysteem. De ervaring is het sterkst als je rekening houdt met je footing en het weer, in plaats van het als een casual stop in sandalen te zien.",
+  "best_time_to_visit": {
+    "time_of_day": "Zonsopgang of late namiddag",
+    "duration": "Ongeveer 60 tot 90 minuten",
+    "crowd_level": "Vaak drukker rond de beste lichtmomenten"
+  },
+  "practical_info": {
+    "how_to_get_there": "Meestal bereikbaar per korte rit of autorit vanuit de stad, gevolgd door een korte wandeling naar het uitzichtgebied.",
+    "nearby_attractions": "Stops aan de zuidkant van Pai zoals Tha Pai Hot Spring of de herdenkingsbrugweg passen in hetzelfde halve dag.",
+    "food_options": "Gebruik centraal Pai voor maaltijden voor of na het bezoek.",
+    "shopping": "Dit is een landschapsstop, geen winkelgebied."
+  },
+  "insider_tips": [
+    "Ga 's ochtends als je een rustiger beeld wilt van de richel en vallei.",
+    "Goede schoenen doen er hier meer toe dan een overvol schema.",
+    "Je hoeft de smalste secties niet te forceren om de canyon te laten werken."
+  ],
+  "verified_note": "Bron-ondersteunde samenvatting gebaseerd op het TAT-artikel over Mae Hong Son. Controleer condities en lokale toegang nog steeds op de dag zelf.",
+  "cultural_significance": "Pai Canyon is uitgegroeid tot de sterkste landschaps-samenvatting van de vallei omdat het het bekken, de richel en de westelijke berglijn toont in één compacte stop.",
+  "contentSources": [
+    {
+      "name": "Mae Hong Son",
+      "url": "https://www.tourismthailand.org/Articles/mae-hong-son"
+    },
+    {
+      "name": "Mae Hong Son and Pai Tourism Map",
+      "url": "https://www.maeheepai.go.th/upload/catalogs_file/catalogs_file_257_17_8_524.pdf"
+    }
+  ]
+}

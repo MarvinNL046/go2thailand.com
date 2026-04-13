@@ -1013,7 +1013,7 @@ export const getStaticProps: GetStaticProps = async ({ params, locale }) => {
   const slug = params?.slug as string;
   const lang = locale || 'en';
 
-  const rawItinerary = getItineraryBySlug(slug);
+  const rawItinerary = getItineraryBySlug(slug, locale);
 
   if (!rawItinerary) {
     return {

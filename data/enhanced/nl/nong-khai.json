@@ -1,0 +1,664 @@
+{
+  "id": 30,
+  "slug": "nong-khai",
+  "name": {
+    "en": "Nong Khai",
+    "nl": "Nong Khai",
+    "ja": "ノーンカーイ",
+    "ko": "농카이",
+    "th": "หนองคาย",
+    "de": "Nong Khai",
+    "fr": "Nong Khai",
+    "ru": "Nong Khai",
+    "zh": "Nong Khai"
+  },
+  "region": "Isaan",
+  "province": "Nong Khai",
+  "description": {
+    "en": "Nong Khai works best as a Mekong border city with a strong riverfront core first, then one deliberate Sangkhom-side viewpoint day. Tha Sadet, Wat Pho Chai, Sala Kaeo Ku, and the Friendship Bridge explain the city far better than padding the itinerary with weak province filler.",
+    "nl": "Nong Khai werkt het best als Mekong-grensstad met eerst een sterke rivierfrontkern en daarna hooguit een bewuste dag naar de uitzichtpunten van Sangkhom. Tha Sadet, Wat Pho Chai, Sala Kaeo Ku en de Vriendschapsbrug geven de stad veel meer vorm dan zwakke provincie-filler.",
+    "ja": "ノーンカーイは、まずメコン川沿いの市街地を丁寧に歩き、その後にサンクム側の展望地を1本だけ加える形で組み立てると理解しやすい国境の町です。",
+    "ko": "농카이는 메콩 강변 도심을 먼저 보고, 그다음 상콤 쪽 전망지 하루를 더하는 방식이 가장 잘 맞는 국경 도시입니다.",
+    "th": "หนองคายเหมาะกับการเที่ยวแบบเริ่มจากเมืองริมโขงก่อน แล้วค่อยต่อด้วยวิวพอยต์ฝั่งสังคมเพียงหนึ่งวันอย่างมีจังหวะ",
+    "de": "Nong Khai funktioniert am besten als Mekong-Grenzstadt mit starkem Flussuferkern und einem gezielten Aussichtstag in Richtung Sangkhom.",
+    "fr": "Nong Khai se visite mieux comme une ville-frontiere du Mekong, avec un coeur urbain au bord du fleuve puis une seule vraie sortie vers les points de vue de Sangkhom.",
+    "ru": "Нонгкхай лучше воспринимать как приграничный город на Меконге: сначала набережная и городской центр, затем одна осмысленная поездка к смотровым площадкам района Сангкхом.",
+    "zh": "廊开更适合按“先看湄公河城市核心，再加一天 Sangkhom 方向观景点”的逻辑来安排，而不是把全省景点硬塞在一起。"
+  },
+  "population": 47000,
+  "highlights": [
+    "Tha Sadet-markt en rivieroever",
+    "Wat Pho Chai",
+    "Sala Kaeo Ku",
+    "Eerste Thais-Lao Vriendschapsbrug",
+    "Wat Pha Tak Suea Skywalk",
+    "Phu Huai Isan"
+  ],
+  "location": {
+    "lat": 17.8783,
+    "lng": 102.745
+  },
+  "image": "/images/cities/generated/nong-khai.webp",
+  "seo": {
+    "metaTitle": {
+      "en": "Nong Khai Thailand Guide 2026 | Mekong Riverfront, Food, Hotels",
+      "nl": "Nong Khai Thailand gids 2026 | Mekong-rivierfront, food en hotels",
+      "ja": "ノーンカーイ観光ガイド 2026 | メコン川、食、ホテル",
+      "ko": "농카이 태국 여행 가이드 2026 | 메콩 강변, 음식, 호텔",
+      "th": "เที่ยวนองคาย 2026 | ริมโขง อาหาร ที่พัก วางแผนง่าย",
+      "de": "Nong Khai Thailand Guide 2026 | Mekong-Ufer, Essen, Hotels",
+      "fr": "Guide Nong Khai 2026 | Mekong, restaurants et hotels",
+      "ru": "Путеводитель по Nong Khai 2026 | Набережная Меконга, еда, отели",
+      "zh": "2026 廊开旅行指南 | 湄公河河岸、美食与住宿"
+    },
+    "metaDescription": {
+      "en": "Plan Nong Khai around Tha Sadet, Wat Pho Chai, Sala Kaeo Ku, the Friendship Bridge, and one deliberate Sangkhom-side viewpoint day.",
+      "nl": "Plan Nong Khai rond Tha Sadet, Wat Pho Chai, Sala Kaeo Ku, de Vriendschapsbrug en hooguit een bewuste dag naar de uitzichtpunten van Sangkhom.",
+      "ja": "ノーンカーイは、タ・サデット、ワット・ポーチャイ、サーラー・ケーオ・クー、友好橋、そしてサンクム側の展望地を1日だけ加える流れで組み立てると分かりやすい町です。",
+      "ko": "농카이는 타 사뎃, 왓 포차이, 살라 깨오꾸, 우정의 다리, 그리고 상콤 쪽 전망지 하루 일정으로 짜면 가장 이해하기 쉬운 도시입니다.",
+      "th": "วางแผนหนองคายให้ชัดด้วยท่าเสด็จ วัดโพธิ์ชัย ศาลาแก้วกู่ สะพานมิตรภาพ และทริปวิวพอยต์ฝั่งสังคมเพียงหนึ่งวัน",
+      "de": "Plane Nong Khai rund um Tha Sadet, Wat Pho Chai, Sala Kaeo Ku, die Freundschaftsbrucke und einen gezielten Aussichtstag in Richtung Sangkhom.",
+      "fr": "Organisez Nong Khai autour de Tha Sadet, de Wat Pho Chai, de Sala Kaeo Ku, du pont de l'Amitie et d'une seule vraie journee vers Sangkhom.",
+      "ru": "Планируйте Nong Khai вокруг Tha Sadet, Wat Pho Chai, Sala Kaeo Ku, Моста дружбы и одной продуманной поездки к смотровым площадкам района Сангкхом.",
+      "zh": "把廊开的行程围绕 Tha Sadet、Wat Pho Chai、Sala Kaeo Ku、友谊桥和一次前往 Sangkhom 方向观景点的外出安排起来。"
+    }
+  },
+  "categories": {
+    "food": {
+      "en": "Best restaurants and Mekong-side food in Nong Khai",
+      "nl": "Beste restaurants en Mekong-side food in Nong Khai",
+      "ja": "ノーンカーイのおすすめレストランとメコン川沿いの食",
+      "ko": "농카이 추천 레스토랑과 메콩 강변 음식",
+      "th": "ร้านอาหารและอาหารริมโขงที่ดีที่สุดในหนองคาย"
+    },
+    "hotels": {
+      "en": "Top hotels in Nong Khai | Tips and deals",
+      "nl": "Beste hotels in Nong Khai | Tips en deals",
+      "ja": "ノーンカーイのおすすめホテルと滞在の考え方",
+      "ko": "농카이 추천 호텔 | 실전 팁",
+      "th": "โรงแรมแนะนำในหนองคาย | เคล็ดลับและดีล"
+    },
+    "attractions": {
+      "en": "Top attractions in Nong Khai",
+      "nl": "Top bezienswaardigheden in Nong Khai",
+      "ja": "ノーンカーイの主要観光スポット",
+      "ko": "농카이 핵심 명소",
+      "th": "สถานที่ท่องเที่ยวยอดนิยมในหนองคาย"
+    }
+  },
+  "tags": [
+    "isaan",
+    "nong-khai",
+    "mekong",
+    "friendship-bridge",
+    "laos-border",
+    "sala-kaeo-ku",
+    "tha-sadet",
+    "thailand"
+  ],
+  "enhanced_description": "Nong Khai wordt zwakker als het wordt gepresenteerd als een alles-in-één Laos-grenschecklijst vol broze prijsclaims, grotmythes en willekeurige districtvullers. De sterkere versie begint met de stad zelf: Tha Sadet en de wandellaag aan de Mekong-kant, Wat Pho Chai als de belangrijkste heilige stop van de stad, Sala Kaeo Ku als de meest onderscheidende culturele toevoeging, en de Eerste Thais-Lao Vriendschapsbrug als het onderdeel dat uitlegt waarom Nong Khai nog steeds telt als grensstad.\n\nPas daarna heeft het zin om één bewuste ochtend aan de Sangkhom-kant toe te voegen. Wat Pha Tak Suea Skywalk en Phu Huai Isan zijn de schoonste hoogwaardige uitbreidingen omdat beide het rivierlandschap veranderen in iets wat reizigers echt kunnen begrijpen. Nong Khai beloont selectiviteit, tijd aan de rivier en een rustig eetplan opgebouwd rond Vietnamese en Mekong-gebonden maaltijden in plaats van generieke ranglijsten.",
+  "overview": "De beste eerste indruk van Nong Khai is nog steeds de kern van de stad aan de rivier. Tha Sadet-markt, de Mekong-promenade en de weg die overgaat in de zaterdagwandelstraat geven de stad haar dagelijkse ritme veel beter dan een lijst met verspreide provinciale stops. Dit is ook het praktische centrum voor eten, rivierzichten en makkelijke verplaatsingen tussen de belangrijkste bezienswaardigheden van de stad.\n\nWat Pho Chai voegt de sterkste heilige laag toe in de stad. De provinciale e-book behandelt de tempel nog steeds als de thuisbasis van Phra Sai, het geadopteerde provinciale symbool van Nong Khai, en dat telt redactioneel omdat het de stad verankert in een echt lokaal religieus centrum in plaats van alleen grenslogistiek. Sala Kaeo Ku voegt dan een heel andere maar even herkenbare dimensie toe: het beeldentuinpark is nog steeds een van de duidelijkste redenen waarom Nong Khai anders aanvoelt dan andere Mekong-steden.\n\nDat laat de bredere provincie over. Stops aan de Sangkhom-kant zoals Wat Pha Tak Suea Skywalk of Phu Huai Isan verdienen absoluut aandacht, maar ze werken beter als één gefocuste halve dag of vroege ochtenduitbreiding dan als deel van een overbelaste route. Nong Khai is sterker als de stadskern echt tijd krijgt voordat de lange rivierweg-uitzichten dat doen.",
+  "hidden_gems": [
+    {
+      "name": "Phrathat La Nong and Tha Ruea Market",
+      "why_special": "De rivieroeverrelikwie en de oude markllaag voegen historische diepte toe zonder de route ver van de stadskern te trekken.",
+      "local_tip": "Integreer het in een rustige Mekong-wandeling na Tha Sadet in plaats van het als een aparte dag te behandelen.",
+      "best_time": "Laat in de middag",
+      "href": "/city/nong-khai/attractions/tha-sadet-market-and-riverfront/",
+      "cta_label": "Zie de rivieroevergids"
+    },
+    {
+      "name": "Wat Hin Mak Peng",
+      "why_special": "Het geeft de Sangkhom-kant route een kalmere contemplatieve stop voorbij de headline skywalk-uitzichten.",
+      "local_tip": "Gebruik het alleen als je een rustigere tempel-en-rivierdag wilt, niet als je tijd krap is.",
+      "best_time": "Ochtend",
+      "href": "/city/nong-khai/top-10-attractions/",
+      "cta_label": "Zie de bezienswaardigheden-gids"
+    }
+  ],
+  "authentic_experiences": [
+    {
+      "activity": "Wandel door de Mekong-stadskern voordat je ergens anders naartoe rijdt",
+      "story": "Tha Sadet, de rivieroeverpromenade en de zaterdagwandelstraatlaag leggen uit waarom Nong Khai een bewoonde Mekong-stad is in plaats van een grenscontrolepunt.",
+      "cultural_significance": "Officieel Nong Khai-gidsmateriaal gebruikt Tha Sadet en de rivieroevermarktlaag nog steeds als een van de duidelijkste identiteitsankers van de stad.",
+      "how_to_participate": "Begin aan de Mekong-kant laat in de middag, en laat dan de markt, het eten en de rivierzichten het tempo bepalen in plaats van de stad tot een doorreisstop te maken.",
+      "insights": [
+        "De stad krijgt meer zin zodra de rivieroever echt tijd krijgt.",
+        "Zaterdag past het beste als je specifiek de wandelstraatversie wilt."
+      ],
+      "href": "/city/nong-khai/attractions/tha-sadet-market-and-riverfront/",
+      "cta_label": "Zie de rivieroevergids"
+    },
+    {
+      "activity": "Gebruik Wat Pho Chai als het heilige centrum van de stad",
+      "story": "Wat Pho Chai telt omdat het Phra Sai herbergt, dat de provinciale e-book nog steeds framet als het symbolische Boeddhabeeld van Nong Khai.",
+      "cultural_significance": "Dat houdt de tempel centraal in de religieuze identiteit van de stad in plaats van Nong Khai te laten afdrijven naar pure grensstad-branding.",
+      "how_to_participate": "Bezoek het als een echte tempelstop nabij de stadskern, niet alleen als een snelle fotopauze op weg naar de markt.",
+      "insights": [
+        "Dit is de sterkste heilige stop in de stad.",
+        "Het past natuurlijk bij Tha Sadet en de Mekong-kant."
+      ],
+      "href": "/city/nong-khai/attractions/wat-pho-chai/",
+      "cta_label": "Zie de Wat Pho Chai-gids"
+    },
+    {
+      "activity": "Behandel Sala Kaeo Ku als een echte culturele stop, niet zomaar een excentrieke fotopark",
+      "story": "Het beeldentuinpark is nog steeds een van de duidelijkste manieren om het overlappen van boeddhistische, brahmaanse en lokale symbolische werelden in Nong Khai te begrijpen.",
+      "cultural_significance": "De provinciale e-book benadrukt de intentie van Luang Pu Bunleua om meerdere geloofssystemen te weerspiegelen door de 208 standbeelden in het park.",
+      "how_to_participate": "Geef het genoeg tijd om langzaam over het terrein te wandelen en de locatie te lezen als een idee-gedreven plek in plaats van een noviteitstop.",
+      "insights": [
+        "Het is een van de weinige echt unieke bezienswaardigheden van de stad.",
+        "Dit is beter overdag te doen dan gehaast naar zonsondergang."
+      ],
+      "href": "/city/nong-khai/attractions/sala-kaeo-ku/",
+      "cta_label": "Zie de Sala Kaeo Ku-gids"
+    },
+    {
+      "activity": "Voeg één Sangkhom-kant uitzichten-ochtend toe",
+      "story": "Wat Pha Tak Suea Skywalk en Phu Huai Isan zijn de sterkste rivierlandschap-uitbreidingen als je de provincie wilt openen voorbij de stad.",
+      "cultural_significance": "Beide officiële Nong Khai-gidsboeken framen de Sangkhom-kant nog steeds door hoge Mekong-uitzichten en koele-seizoen mist-ochtenden.",
+      "how_to_participate": "Kies één zonsopgang- of vroege-dagplan en behandel het als het hoofdgebeurtenis van de dag in plaats van meerdere rivierweg-stops aan elkaar te knopen.",
+      "insights": [
+        "Pha Tak Suea is de makkelijkere headline-stop.",
+        "Phu Huai Isan is sterker als je specifiek dawn en het bredere eiland-bespikkelde Mekong-zicht wilt."
+      ],
+      "href": "/city/nong-khai/attractions/wat-pha-tak-suea-skywalk/",
+      "cta_label": "Zie de skywalk-gids"
+    }
+  ],
+  "foodie_adventures": [
+    {
+      "dish": "Naem nueng en verse Vietnamese wraps",
+      "location": "Daeng Naem Nueng Nong Khai",
+      "story": "De huidige Weaving Mekong-gids gebruikt Daeng Naem Nueng nog steeds als een van de kenmerkende eetnamen van Nong Khai, wat nuttig is omdat het de Vietnamese laag zichtbaar houdt in plaats van decoratief.",
+      "where_to_find": "Beste als een echte lunch- of vroege dinerstop in de stadskern.",
+      "price_range": "Budget tot middenklasse",
+      "ordering_tips": [
+        "Dit is de duidelijkste eerste maaltijd als je de Vietnamese lijn van Nong Khai meteen wilt laten zien.",
+        "Combineer het met Wat Pho Chai of Tha Sadet, niet met een verre provinciale lus."
+      ],
+      "href": "/city/nong-khai/top-10-restaurants/",
+      "cta_label": "Zie de eetgids"
+    },
+    {
+      "dish": "Mekong-vis hotpot",
+      "location": "Khong View Pla Chum",
+      "story": "De officiële eetgids markeert pla jum nog steeds als een van de rivier-gebonden gerechten van Nong Khai, wat helpt om de eetsectie verbonden te houden met de plek.",
+      "where_to_find": "Beter voor een avondmaaltijd na rivieroevertijd dan voor een gehaaste dagstop.",
+      "price_range": "Budget tot middenklasse",
+      "ordering_tips": [
+        "Gebruik dit op een rustige Mekong-avond.",
+        "Het geeft de pagina een sterkere lokale-dinerhoek dan een generiek café."
+      ],
+      "href": "/city/nong-khai/top-10-restaurants/",
+      "cta_label": "Zie de eetgids"
+    },
+    {
+      "dish": "Reuzen Mekong-katvissoep en kruiden-geleide lokale borden",
+      "location": "Huen Hat Kham Restaurant",
+      "story": "Huen Hat Kham helpt om het Mekong-kant eetverhaal zichtbaar te houden voorbij één enkele beroemde Vietnamese naam.",
+      "where_to_find": "Nuttig als een stadmaaltijd voor of na de Hat Kham-kant van de stad.",
+      "price_range": "Budget tot middenklasse",
+      "ordering_tips": [
+        "Beste als je meer rivier-gebonden smaak wilt dan café-stijl eten.",
+        "Een goede tweede maaltijd bij een tweedaags verblijf."
+      ],
+      "href": "/city/nong-khai/top-10-restaurants/",
+      "cta_label": "Zie de eetgids"
+    },
+    {
+      "dish": "Vietnamese café-stijl kleine borden",
+      "location": "Vietnam Cafe Nong Khai",
+      "story": "Vietnam Cafe is een van de duidelijkste ontbijt-tot-lunchnamen in de officiële huidige gids, wat het nuttig maakt voor een lichtere stadskern eetplan.",
+      "where_to_find": "Gebruik het eerder op de dag naast markt- en tempeltijd.",
+      "price_range": "Budget",
+      "ordering_tips": [
+        "Een sterkere keuze dan generieke koffieshop-vuller.",
+        "Werkt vooral goed op de eerste ochtend."
+      ],
+      "href": "/city/nong-khai/top-10-restaurants/",
+      "cta_label": "Zie de eetgids"
+    }
+  ],
+  "local_insights": [
+    "Nong Khai is sterker als Mekong-stad dan als grensformaliteiten-stop.",
+    "Tha Sadet en Wat Pho Chai moeten komen voordat de lange uitzichten-rit.",
+    "Sala Kaeo Ku is een van de weinige bezienswaardigheden hier die echt uniek is in plaats van uitwisselbaar.",
+    "De Sangkhom-kant werkt het beste als één gefocuste uitzichten-ochtend, niet als een opgeblazen route.",
+    "Vietnamese en rivier-gebonden maaltijden zijn het eetplan; generieke ranglijst-kopie niet."
+  ],
+  "seasonal_secrets": "Het koele seizoen van november tot februari is de makkelijkste algehele fit omdat stadswandelingen, rivieroevertijd en vroege vertrekken voor Sangkhom-uitzichten comfortabeler zijn. Het is ook het seizoen waarin officieel Nong Khai-gidsmateriaal nog steeds mist-ochtenden benadrukt op plekken zoals Phu Huai Isan en Wat Pha Tak Suea. Hete maanden werken nog steeds als je plant rond ochtenden en avonden. In het regenseizoen blijft de stad levensvatbaar, maar elke klif- of steile rivierweg-uitstap verdient eerst een lokale check.",
+  "budget_reality": "Nong Khai is meestal beheersbaar op een matig budget als je de reis stad-gericht houdt. Kosten stijgen als je privévervoer toevoegt voor Sangkhom-uitzichten, frequente grensshuttles of premium rivierzicht-kamers die je nauwelijks gebruikt. De betere uitgave is vaak één centraal verblijf, een sterker rivieroever eetplan en één bewuste buitenstad-excursie.",
+  "top_attractions": [
+    {
+      "rank": 1,
+      "name": "Wat Pho Chai",
+      "description": "De sterkste heilige stop van de stad en nog steeds de duidelijkste plek om de Phra Sai-traditie van Nong Khai te begrijpen.",
+      "location": "Centraal Nong Khai",
+      "entrance_fee": "Tempeldonaties zijn gebruikelijk",
+      "highlights": [
+        "Phra Sai Boeddhabeeld",
+        "Hoofdtempel van de stad",
+        "Beste heilige laag in de stad"
+      ],
+      "href": "/city/nong-khai/attractions/wat-pho-chai/",
+      "cta_label": "Zie de Wat Pho Chai-gids"
+    },
+    {
+      "rank": 2,
+      "name": "Tha Sadet Market and riverfront",
+      "description": "De beste eerste wandeling in Nong Khai omdat de markt, promenade en Mekong-kant ritme elkaar versterken.",
+      "location": "Mekong-rivieroever in centraal Nong Khai",
+      "entrance_fee": "Openbare rivieroevertoegang is eenvoudig",
+      "highlights": [
+        "Mekong-zichten",
+        "Markt- en wandellaag",
+        "Beste stadskern-tempo"
+      ],
+      "href": "/city/nong-khai/attractions/tha-sadet-market-and-riverfront/",
+      "cta_label": "Zie de rivieroevergids"
+    },
+    {
+      "rank": 3,
+      "name": "Sala Kaeo Ku",
+      "description": "De meest onderscheidende culturele attractie van Nong Khai, met een beeldentuinpark opgebouwd rond overlappende religieuze beelden.",
+      "location": "Wat That-gebied buiten de stadskern",
+      "entrance_fee": "Servicekosten gelden en moeten lokaal worden gecontroleerd",
+      "highlights": [
+        "208 grote beelden",
+        "Boeddhistische en hindoeïstische beelden",
+        "Unieke visuele identiteit"
+      ],
+      "href": "/city/nong-khai/attractions/sala-kaeo-ku/",
+      "cta_label": "Zie de Sala Kaeo Ku-gids"
+    },
+    {
+      "rank": 4,
+      "name": "First Thai-Lao Friendship Bridge",
+      "description": "Het grensstad-landmark dat de regionale rol van Nong Khai veel beter uitlegt dan generieke gateway-kopie.",
+      "location": "Oost van centraal Nong Khai",
+      "entrance_fee": "Vervoer en grensprocedures variëren; controleer huidige operators direct",
+      "highlights": [
+        "Grensoverschrijdende context",
+        "Spoor- en wegverbinding",
+        "Kernidentiteit van Nong Khai"
+      ],
+      "href": "/city/nong-khai/attractions/first-thai-lao-friendship-bridge/",
+      "cta_label": "Zie de brug-gids"
+    },
+    {
+      "rank": 5,
+      "name": "Wat Pha Tak Suea Skywalk",
+      "description": "Het headline Sangkhom-kant uitzichten, het beste gebruikt als één gefocuste halve dag of zonsopgang-stijl uitbreiding.",
+      "location": "Sangkhom District",
+      "entrance_fee": "Lokale toegangdetails moeten worden gecontroleerd voor vertrek",
+      "highlights": [
+        "Klifrand glas skywalk",
+        "Breed Mekong-panoramisch uitzicht",
+        "Koele-seizoen mistpotentieel"
+      ],
+      "href": "/city/nong-khai/attractions/wat-pha-tak-suea-skywalk/",
+      "cta_label": "Zie de skywalk-gids"
+    },
+    {
+      "rank": 6,
+      "name": "Phu Huai Isan",
+      "description": "Het sterkere zonsopgang-stijl uitzichten als je dawn, eilanden in de Mekong en een echte vroege-start excursie wilt.",
+      "location": "Sangkhom District",
+      "entrance_fee": "Lokaal vervoer en toegangcondities moeten worden gecontroleerd voor vertrek",
+      "highlights": [
+        "Beste zonsopgang-logica",
+        "Zee-van-mist potentieel",
+        "Eiland-bespikkeld Mekong-zicht"
+      ],
+      "href": "/city/nong-khai/attractions/phu-huai-isan/",
+      "cta_label": "Zie de Phu Huai Isan-gids"
+    }
+  ],
+  "top_restaurants": [
+    {
+      "rank": 1,
+      "name": "Daeng Naem Nueng Nong Khai",
+      "cuisine": "Vietnamees",
+      "description": "De duidelijkste kenmerkende maaltijd in de stad als je de Vietnamese lijn van Nong Khai meteen wilt laten zien.",
+      "location": "Nai Mueang, centraal Nong Khai",
+      "price_range": "Budget tot middenklasse",
+      "highlights": [
+        "Officiële gidskeuze",
+        "Sterke eerste maaltijd",
+        "Klassieke naem nueng-stop"
+      ],
+      "href": "/city/nong-khai/top-10-restaurants/",
+      "cta_label": "Zie de eetgids"
+    },
+    {
+      "rank": 2,
+      "name": "Vietnam Cafe Nong Khai",
+      "cuisine": "Vietnamese café-stijl",
+      "description": "Een lichtere ontbijt- of lunchoptie die de Vietnamese eetidentiteit van de stad zichtbaar houdt zonder het plan te compliceren.",
+      "location": "Nai Mueang, centraal Nong Khai",
+      "price_range": "Budget",
+      "highlights": [
+        "Ontbijt-tot-lunch fit",
+        "Officiële gidskeuze",
+        "Nuttige eerste-ochtendstop"
+      ],
+      "href": "/city/nong-khai/top-10-restaurants/",
+      "cta_label": "Bekijk de eetgids"
+    },
+    {
+      "rank": 3,
+      "name": "Huen Hat Kham Restaurant",
+      "cuisine": "Thaise en Mekong-vis",
+      "description": "Een praktische lokale maaltijd met sterker riviergerelateerde gerechten dan generieke cafévulling.",
+      "location": "Hat Kham-kant van Nong Khai",
+      "price_range": "Budget tot middenklasse",
+      "highlights": [
+        "Reuzen-Mekong-katvissoep",
+        "Goede maaltijd voor de tweede avond",
+        "Officiële gidskeuze"
+      ],
+      "href": "/city/nong-khai/top-10-restaurants/",
+      "cta_label": "Bekijk de eetgids"
+    },
+    {
+      "rank": 4,
+      "name": "Mae Paed Kitchen Nong Khai",
+      "cuisine": "Thaise en Mekong-vis",
+      "description": "Een stevigere lunch- of dinerstops wanneer je een lokale hartige maaltijd wilt die nog steeds geworteld voelt in de plek.",
+      "location": "Mueang Mi-gebied",
+      "price_range": "Budget tot middenklasse",
+      "highlights": [
+        "Zachtgeschaalde rivier-vis",
+        "Officiële gidskeuze",
+        "Goede niet-café ankerpunt"
+      ],
+      "href": "/city/nong-khai/top-10-restaurants/",
+      "cta_label": "Bekijk de eetgids"
+    },
+    {
+      "rank": 5,
+      "name": "Khong View Pla Chum",
+      "cuisine": "Pla jum en lokale diner",
+      "description": "Een slimmere Mekong-avondsmaaltijd dan een generiek internationaal menu, vooral als je het riviergerelateerde voedselverhaal zichtbaar wilt houden.",
+      "location": "Nai Mueang, Nong Khai",
+      "price_range": "Budget tot middenklasse",
+      "highlights": [
+        "Pla jum-focus",
+        "Avondpassend",
+        "Officiële gidskeuze"
+      ],
+      "href": "/city/nong-khai/top-10-restaurants/",
+      "cta_label": "Bekijk de eetgids"
+    },
+    {
+      "rank": 6,
+      "name": "Chang Yim Pla Chum",
+      "cuisine": "Vis hotpot",
+      "description": "Een eenvoudige lokale dineroptie wanneer je de Nong Khai hotpot-hoek wilt zonder dat het diner een zoektocht wordt.",
+      "location": "Mueang Nong Khai",
+      "price_range": "Budget",
+      "highlights": [
+        "Mekong-vis hotpot",
+        "Eenvoudige lokale dinerlogica",
+        "Officiële gidskeuze"
+      ],
+      "href": "/city/nong-khai/top-10-restaurants/",
+      "cta_label": "Bekijk de eetgids"
+    }
+  ],
+  "top_hotels": [
+    {
+      "rank": 1,
+      "name": "Narimkhong Riverview",
+      "price_range": "Middenklasse",
+      "description": "Een van de duidelijkste rivieroeverkeuzes als je dicht bij Tha Sadet en het Mekong-avondritme wilt blijven.",
+      "category": "middenklasse",
+      "area": "Rivieroever nabij Tha Sadet",
+      "highlights": [
+        "Officiële hotelwebsite",
+        "Nabij Tha Sadet",
+        "Rivieroeverpositionering"
+      ],
+      "href": "/city/nong-khai/top-10-hotels/",
+      "cta_label": "Bekijk de hotelgids"
+    },
+    {
+      "rank": 2,
+      "name": "HOP INN Nong Khai",
+      "price_range": "Budget",
+      "description": "De sterkste eenvoudige ketenbasis wanneer je voorspelbare kamers en een makkelijke stedelijke verblijf wilt zonder te veel na te denken over het hotel.",
+      "category": "budget",
+      "area": "Nai Mueang",
+      "highlights": [
+        "Officiële hotelwebsite",
+        "79 kamers",
+        "Praktische kortverblijf basis"
+      ],
+      "href": "/city/nong-khai/top-10-hotels/",
+      "cta_label": "Bekijk de hotelgids"
+    },
+    {
+      "rank": 3,
+      "name": "Mut Mee Garden Guest House",
+      "price_range": "Budget tot middenklasse",
+      "description": "Een langlopende guesthouse-keuze voor reizigers die karakter, tuinatmosfeer en een centrale Nong Khai-basis verkiezen boven ketenuniformiteit.",
+      "category": "budget",
+      "area": "Centraal Nong Khai aan de Mekong",
+      "highlights": [
+        "Officiële guesthouse-website",
+        "Tuinsetting",
+        "Langdurige stadscentrum basis"
+      ],
+      "href": "/city/nong-khai/top-10-hotels/",
+      "cta_label": "Bekijk de hotelgids"
+    },
+    {
+      "rank": 4,
+      "name": "The Maceo Hotel Nong Khai",
+      "price_range": "Middenklasse",
+      "description": "Een nuttige stadscentrumoptie wanneer je snelle toegang wilt tot de brugkant en Tha Sadet-gebied zonder naar de verre rand van de stad te verhuizen.",
+      "category": "middenklasse",
+      "area": "Stadscentrum",
+      "highlights": [
+        "Officiële toeristische gidsvermelding",
+        "Nabij brug en markt kant",
+        "Makkelijke toegang basis"
+      ],
+      "href": "/city/nong-khai/top-10-hotels/",
+      "cta_label": "Bekijk de hotelgids"
+    },
+    {
+      "rank": 5,
+      "name": "Asawann Hotel",
+      "price_range": "Middenklasse",
+      "description": "Een praktische grotere hoteloptie als treinverbinding en bredere provinciale beweging belangrijker zijn dan een pure rivieroeververblijf.",
+      "category": "middenklasse",
+      "area": "Nabij Nong Khai treinstation",
+      "highlights": [
+        "Officiële toeristische gidsvermelding",
+        "Nabij treinstation",
+        "Goede transportlogica"
+      ],
+      "href": "/city/nong-khai/top-10-hotels/",
+      "cta_label": "Bekijk de hotelgids"
+    },
+    {
+      "rank": 6,
+      "name": "Vana Wellness Resort Nong Khai",
+      "price_range": "Middenklasse",
+      "description": "Een kalmere verblijfspatroon voor reizigers die meer om resort-stijl ontspanning geven dan om direct in de markt-en-rivieroever kern te blijven.",
+      "category": "middenklasse",
+      "area": "Hat Kham-kant",
+      "highlights": [
+        "Officiële toeristische gidsvermelding",
+        "Spa en welzijn positionering",
+        "Beter voor een langzamer verblijf"
+      ],
+      "href": "/city/nong-khai/top-10-hotels/",
+      "cta_label": "Bekijk de hotelgids"
+    }
+  ],
+  "travel_tips": [
+    "Houd de eerste dag stadgericht: Tha Sadet, de rivieroever en Wat Pho Chai moeten komen vóór de lange rivierweg-uitzichten.",
+    "Als je Laos binnen gaat, controleer dan de huidige brug-, trein- en immigratieprocedures direct vóór de reis omdat die details kunnen veranderen.",
+    "Behandel Sangkhom-kant attracties als één bewuste uitstap, niet als vulling tussen stadstops.",
+    "Zaterdag is de beste keuze als je specifiek de Nong Khai wandelstraatversie van de rivieroever wilt.",
+    "Kies hotels op basis van of je Mekong-avonden te voet wilt of een praktischere transportbasis."
+  ],
+  "best_time_to_visit": {
+    "season": "November tot februari",
+    "weather": "Koelere ochtenden, makkelijkere stadswandelingen en de sterkste condities voor rivieruitzichten en mistige ochtenden.",
+    "reasons": "Dit is het makkelijkste seizoen om Tha Sadet, Wat Pho Chai, Sala Kaeo Ku en een Sangkhom-kant uitzichttdag te combineren zonder te vechten tegen middaghitte."
+  },
+  "budget_info": {
+    "daily_budget": {
+      "budget": "Budget verblijven zijn realistisch als je jezelf in de stad baseert, eet rond de rivieroever en markt kant, en transport eenvoudig houdt.",
+      "mid": "Middenklasse uitgaven gaan meestal naar een betere rivieroeverkamer, een privéauto voor Sangkhom, of een meer gepolijst dinerplan.",
+      "luxury": "Hogere uitgaven in Nong Khai komen minder van ultra-luxe aanbod en meer van geüpgradede transport, betere kamers en gemak-gericht plannen."
+    }
+  },
+  "whereToStay": "Voor de meeste eerste reizen is de beste basis nog steeds centraal Nong Khai nabij de Mekong-kant en Tha Sadet. Dat houdt de rivieroever, markt en avondetenlaag binnen handbereik. Kies een transportgerichte hotel nabij het station alleen als je verblijf vooral om doorreis per trein of weg draait in plaats van stadskern wandelen.",
+  "whereToEat": [
+    {
+      "name": "Daeng Naem Nueng Nong Khai",
+      "cuisine": "Vietnamees",
+      "priceRange": "Budget tot middenklasse",
+      "description": "De duidelijkste kenmerkende Vietnameese maaltijd in de stad."
+    },
+    {
+      "name": "Vietnam Cafe Nong Khai",
+      "cuisine": "Vietnamees café-stijl",
+      "priceRange": "Budget",
+      "description": "Een lichtere ontbijt- of lunchstop met een duidelijke stadskern passendheid."
+    },
+    {
+      "name": "Huen Hat Kham Restaurant",
+      "cuisine": "Thaise en Mekong-vis",
+      "priceRange": "Budget tot middenklasse",
+      "description": "Een nuttige riviergerelateerde lokale maaltijd voorbij de voor de hand liggende beroemde namen."
+    },
+    {
+      "name": "Khong View Pla Chum",
+      "cuisine": "Pla jum en lokale diner",
+      "priceRange": "Budget tot middenklasse",
+      "description": "Een sterkere Mekong-avondsdiner dan generieke ranglijstvulling."
+    }
+  ],
+  "topHotels": [
+    {
+      "name": "Narimkhong Riverview",
+      "category": "middenklasse",
+      "priceRange": "Middenklasse",
+      "area": "Rivieroever nabij Tha Sadet",
+      "description": "Een sterkere rivieroeverbasis voor reizigers die het Mekong-kant avondpatroon te voet willen."
+    },
+    {
+      "name": "HOP INN Nong Khai",
+      "category": "budget",
+      "priceRange": "Budget",
+      "area": "Nai Mueang",
+      "description": "Een voorspelbare ketenoptie voor een schoon, eenvoudig stedelijk verblijf."
+    },
+    {
+      "name": "Mut Mee Garden Guest House",
+      "category": "budget",
+      "priceRange": "Budget tot middenklasse",
+      "area": "Centraal Nong Khai",
+      "description": "Een langlopende guesthouse met meer persoonlijkheid dan een standaard ketenkamer."
+    },
+    {
+      "name": "The Maceo Hotel Nong Khai",
+      "category": "middenklasse",
+      "priceRange": "Middenklasse",
+      "area": "Stadscentrum",
+      "description": "Een praktische stadscentrum basis nabij de brug en markt kant."
+    },
+    {
+      "name": "Asawann Hotel",
+      "category": "middenklasse",
+      "priceRange": "Middenklasse",
+      "area": "Nabij Nong Khai treinstation",
+      "description": "Een nuttige grotere hoteloptie voor transportgeleide verblijven."
+    }
+  ],
+  "thingsToDo": "Begin met Tha Sadet, de Mekong-kant wandeling en Wat Pho Chai, gebruik dan Sala Kaeo Ku als de duidelijkste culturele toevoeging van de stad. Als je meer tijd hebt, kies één Sangkhom-kant uitzichttmorgen zoals Wat Pha Tak Suea Skywalk of Phu Huai Isan in plaats van elke provinciale stop in één haal te proberen.",
+  "gettingAround": "De stadskern is het makkelijkst te voet of met korte lokale ritten zodra je gebaseerd bent nabij de rivieroeverkant. Een auto, chauffeur of bewuste lokale transportplan wordt nuttiger zodra je de bruggebied of Sangkhom-kant uitzichten toevoegt. Als je reis afhangt van trein- of grens timing, verifieer de huidige operator schema direct in plaats van op oude statische gidsen te vertrouwen.",
+  "bestTimeToVisit": "November tot februari is de makkelijkste algehele fit voor Nong Khai omdat stadswandelingen, rivieravonden en Sangkhom-kant uitzichten comfortabeler zijn. Zaterdag is vooral nuttig als je de wandelstraatversie van de Mekong-kant wilt. Hete maanden werken nog steeds als je plant rond ochtenden en avonden.",
+  "safetyTips": "Nong Khai is over het algemeen rustig, maar rivieroever en grens gezond verstand blijven belangrijk. Kleed je respectvol bij actieve tempels, improviseer geen steile of klifkant uitzichtenbezoeken in slecht weer, en behandel grenslogistiek als iets om direct vóór je reis te controleren. Als je een zonsopgang run naar Phu Huai Isan of een Sangkhom-rit plant, laat genoeg marge voor veranderende lokale condities.",
+  "faq": [
+    {
+      "question": "Hoeveel nachten heb je nodig in Nong Khai?",
+      "answer": "Twee nachten is de sterkste eerste reis omdat het je één echte stadskern dag geeft en één venster voor Sala Kaeo Ku of een Sangkhom-kant uitzich. Eén nacht kan werken, maar de stad is makkelijker te begrijpen als de Mekong-kant meer tijd krijgt."
+    },
+    {
+      "question": "Wat is de beste eerste attractie in Nong Khai?",
+      "answer": "Voor de meeste reizigers is het de gecombineerde Tha Sadet en Wat Pho Chai volgorde, omdat dat paar Nong Khai beter uitlegt als Mekong-stad dan beginnen met een lange rit uit de stad."
+    },
+    {
+      "question": "Is Nong Khai voornamelijk een Laos-oversteek stop?",
+      "answer": "Nee. De Friendship Bridge doet ertoe, maar de sterkere reis geeft ook tijd aan de rivieroever, Wat Pho Chai, Sala Kaeo Ku en de Vietnamees en Mekong-gerelateerde voedsel-laag van de stad."
+    },
+    {
+      "question": "Heb je een auto nodig in Nong Khai?",
+      "answer": "Niet voor de stadskern zelf. Je hebt er vooral een nodig zodra je Sangkhom-kant uitzichten toevoegt of een ambitieuzere provinciale circuit wilt."
+    },
+    {
+      "question": "Welk eten moet je prioriteren in Nong Khai?",
+      "answer": "Houd de Vietnamees en Mekong hoeken zichtbaar: naem nueng, lichtere Vietnamees kleine gerechten, en ten minste één lokale vis of pla jum diner."
+    }
+  ],
+  "practicalInfo": {
+    "arrival": "Nong Khai wordt vaak bereikt per trein en weg vanuit Bangkok en andere Isaan-steden. Als je plan afhangt van huidige trein-, bus- of grens timings, bevestig ze direct bij de operator vóór de reis.",
+    "transport": "Loop de stadskern, voeg dan een auto of chauffeur toe voor Sangkhom-kant uitzichten of langere provinciale bewegingen.",
+    "planning": "Denk in lagen: Mekong stadskern eerst, Sala Kaeo Ku tweede, en slechts één serieuze buiten-stad uitzichblok daarna."
+  },
+  "contentSources": [
+    {
+      "type": "toerismekantoor",
+      "title": "Provinciale eBook Nong Khai",
+      "creator": "Tourism Authority of Thailand",
+      "url": "https://amazingthailand.com.au/wp-content/uploads/2022/09/Provincial-eBook-Nongkhai_en_Hyperlink_OK.pdf",
+      "description": "Gebruikt voor Wat Pho Chai, Sala Kaeo Ku, Phrathat La Nong, de First Thai-Lao Friendship Bridge, Wat Hin Mak Peng, Wat Pha Tak Suea Skywalk, Phu Huai Isan, en Tha Sadet achtergrond."
+    },
+    {
+      "type": "toerismekantoor",
+      "title": "Weaving Mekong Gidsboek",
+      "creator": "Department of Tourism",
+      "url": "https://fliphtml5.com/kmkzf/Weaving-Mekong_EN/Weaving_Mekong_EN/",
+      "description": "Gebruikt voor huidige Nong Khai restaurant- en hotel listings, stad-route framing, Tha Sadet en wandelstraat context, trein toegang notities, en huidige grens-oversteek plannings taal."
+    },
+    {
+      "type": "toeristenkantoor",
+      "title": "Naka Route Nong Khai - Bueng Kan",
+      "creator": "Tourism Authority of Thailand",
+      "url": "https://tourismproduct.tourismthailand.org/2024/03/21/%E0%B8%A1%E0%B8%B9%E0%B9%83%E0%B8%AB%E0%B9%89%E0%B9%80%E0%B8%AE%E0%B8%87-%E0%B9%80%E0%B8%97%E0%B8%B5%E0%B9%88%E0%B8%A2%E0%B8%A7%E0%B9%83%E0%B8%AB%E0%B9%89-%E0%B8%A3%E0%B8%B1%E0%B8%9A%E0%B8%9E%E0%B8%A5%E0%B8%B1%E0%B8%87%E0%B9%81%E0%B8%9A%E0%B8%9A%E0%B8%A3%E0%B8%B1%E0%B8%81%E0%B8%A9%E0%B9%8C%E0%B9%82%E0%B8%A5%E0%B8%81-naka-route-%E0%B9%80%E0%B8%AA%E0%B9%89%E0%B8%99%E0%B8%97%E0%B8%B2%E0%B8%87%E0%B9%80%E0%B8%8A%E0%B8%B7%E0%B9%88%E0%B8%AD%E0%B8%A1%E0%B9%82%E0%B8%A2%E0%B8%87-%E0%B8%AB%E0%B8%99%E0%B8%AD%E0%B8%87%E0%B8%84%E0%B8%B2%E0%B8%A2-%E0%B8%9A%E0%B8%B6%E0%B8%87%E0%B8%81%E0%B8%B2%E0%B8%AC/",
+      "description": "Gebruikt om de huidige officiële bezienswaardigheden van Nong Khai te bevestigen, inclusief Wat Pho Chai en Sala Kaeo Ku."
+    },
+    {
+      "type": "hotel",
+      "title": "HOP INN Nong Khai",
+      "creator": "HOP INN Thailand",
+      "url": "https://www.hopinnhotel.com/our-hotels/hop-inn-nong-khai",
+      "description": "Gebruikt voor directe hoteldetails, inclusief huidig adres en aantal kamers."
+    },
+    {
+      "type": "hotel",
+      "title": "Mut Mee Garden Guest House",
+      "creator": "Mut Mee Guest House",
+      "url": "https://www.mutmee.com/",
+      "description": "Gebruikt voor directe positionering van de guesthouse in het centrum van Nong Khai en de huidige context van de accommodatie."
+    },
+    {
+      "type": "hotel",
+      "title": "Narimkhong Riverview",
+      "creator": "Narimkhong Riverview",
+      "url": "https://narimkhongriverview.com/",
+      "description": "Gebruikt voor directe positionering van het rivierfront hotel nabij Tha Sadet en de wandelstraatgebieden van Nong Khai."
+    }
+  ],
+  "reviewed_by": "Go2Thailand Editorial Team",
+  "enhanced_at": "2026-03-26T00:00:00.000Z",
+  "factchecked_at": "2026-03-26T00:00:00.000Z",
+  "enrichedAt": "2026-03-26T00:00:00.000Z"
+}

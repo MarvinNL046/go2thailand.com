@@ -1,0 +1,82 @@
+{
+  "id": 2,
+  "slug": "mu-ko-chumphon-national-park",
+  "name": {
+    "en": "Mu Ko Chumphon National Park",
+    "nl": "Mu Ko Chumphon Nationaal Park"
+  },
+  "type": "natuur",
+  "city_slug": "chumphon",
+  "address": "Nationaal Park Mu Ko Chumphon, Chumphon, Thailand",
+  "location": {
+    "lat": 10.5,
+    "lng": 99.3
+  },
+  "opening_hours": "Verschilt per bootoperator en zeetoestanden",
+  "entrance_fee": {
+    "thb": 200,
+    "usd": 6
+  },
+  "description": {
+    "en": "The marine-park archipelago off Chumphon's coast, known for island day trips, reefs, snorkeling, and diving.",
+    "nl": "De mariene archipel voor de kust van Chumphon, bekend om eiland-dagtrips, riffen, snorkelen en duiken."
+  },
+  "highlights": [
+    "Eilandengroep in marien park",
+    "Plannen voor snorkelen en duiken",
+    "Het best als een dagtocht op zee"
+  ],
+  "image": "/images/cities/generated/chumphon.webp",
+  "official_website": null,
+  "seo": {
+    "metaTitle": {
+      "en": "Mu Ko Chumphon National Park | Go2Thailand",
+      "nl": "Mu Ko Chumphon Nationaal Park | Go2Thailand"
+    },
+    "metaDescription": {
+      "en": "How to think about Mu Ko Chumphon National Park as Chumphon's main reef-and-island day.",
+      "nl": "Hoe je Mu Ko Chumphon Nationaal Park ziet als de belangrijkste rif- en eilanddag van Chumphon."
+    }
+  },
+  "tags": [
+    "natuur",
+    "marijn park",
+    "chumphon",
+    "thailand",
+    "bezienswaardigheid"
+  ],
+  "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=Mu%20Ko%20Chumphon%20National%20Park%20Thailand",
+  "best_time": "dagtocht",
+  "duration_hours": 7,
+  "enhanced_description": "Mu Ko Chumphon is de bezienswaardigheid die Chumphon echte diepgang geeft voorbij de veerbootroute. De Chumphon-gids van TAT beschrijft het mariene gebied als een breed archipel van eilanden en duikplekken, en dat is de nuttige manier om het te zien. Dit is geen snelle wegopstopping. Het is de volledige zeedag van de provincie: riffen, eilanden, bootlogistiek, en het gevoel dat Chumphon deel uitmaakt van een groter marien landschap in plaats van alleen de vastelandstranden.\n\nDe grootste planningsfout is proberen het park te behandelen als een kleine toevoeging tussen aankomst en vertrek. Reserveer de tijd goed of sla het over. Wanneer de zee meewerkt, is Mu Ko Chumphon een van de duidelijkste redenen om Chumphon te kiezen boven een pure transferstop. Wanneer de omstandigheden slecht zijn, schakel over naar landgebaseerde kustplannen in plaats van het te forceren.",
+  "detailed_history": "Het artikel van TAT '10 Dingen om te Doen in Chumphon' beschrijft Mu Ko Chumphon via zijn verspreiding van eilanden en duikplekken, inclusief het bredere rif-en-eilandensysteem voor de kust van de provincie. Die benadering is duurzamer dan het park reduceren tot één enkele eilandnaam of één operatorroute.",
+  "visitor_experience": "Verwacht een transportgeleide marinedag in plaats van een attractie waar je naartoe kunt lopen. De meeste bezoekers beleven het park via snorkel- of duiktochten die vanaf de kust zijn geregeld, daarom doen het weer, de kwaliteit van de operator en realistische timing er hier meer toe dan bij landattracties.",
+  "best_time_to_visit": {
+    "time_of_day": "Ochtendvertrek",
+    "duration": "Volledige dag",
+    "crowd_level": "Verschilt per seizoen en operator"
+  },
+  "practical_info": {
+    "how_to_get_there": "Meestal bereikbaar per boot vanaf de kust van Chumphon via lokale operators.",
+    "nearby_attractions": "Thung Wua Laen, Pak Nam, en andere kustbases die mariene vertrekken ondersteunen.",
+    "food_options": "De meeste maaltijden hangen af van de operator of je vertrekbasis.",
+    "shopping": "Geen shoppingstop."
+  },
+  "insider_tips": [
+    "Reserveer één volledige dag in plaats van proberen het park te proppen rond de veerboottijden.",
+    "Bevestig de huidige zeetoestanden en operatorroutes voordat je boekt.",
+    "Als het weer omslaat, schakel over naar vastelandkustplannen in plaats van een slechte marinedag te forceren."
+  ],
+  "verified_note": "TAT-bezienswaardighedenmateriaal bevestigt het mariene-park- en eilandkarakter van Mu Ko Chumphon. Toegang en operatorarrangementen kunnen veranderen, dus controleer de huidige prijzen en routes voor vertrek.",
+  "cultural_significance": "Mu Ko Chumphon is wat de provincie verbonden houdt met de bredere Golf-mariene identiteit van Thailand in plaats van alleen een transportstop te zijn voor Koh Tao.",
+  "contentSources": [
+    {
+      "name": "10 Things to Do in Chumphon",
+      "url": "https://www.tourismthailand.org/Articles/10-things-to-do-in-chumphon"
+    },
+    {
+      "name": "Year-round trips to the beautiful seas around Thailand",
+      "url": "https://www.tourismthailand.org/Articles/year-round-trips-to-the-beautiful-seas-around-thailand"
+    }
+  ]
+}

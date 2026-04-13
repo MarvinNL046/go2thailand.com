@@ -1,0 +1,757 @@
+{
+  "id": 14,
+  "slug": "khon-kaen",
+  "name": {
+    "en": "Khon Kaen",
+    "nl": "Khon Kaen",
+    "ja": "コーンケーン",
+    "ko": "콘깬",
+    "th": "ขอนแก่น",
+    "de": "Khon Kaen",
+    "fr": "Khon Kaen",
+    "ru": "Кхон Каен",
+    "zh": "孔敬"
+  },
+  "region": "Isaan",
+  "province": "Khon Kaen",
+  "description": {
+    "en": "An Isaan city that works best as a food-and-urban-culture base, with a lakefront core, strong temple layer, and a few selective day trips that actually justify leaving town.",
+    "nl": "Een Isaan-stad die het sterkst werkt als uitvalsbasis voor eten en stedelijke cultuur, met een kern rond het meer, een sterke tempellaag en een paar gerichte dagtrips die echt de moeite waard zijn.",
+    "ja": "イサーンを代表する都市のひとつで、湖畔の街並み、寺院、食文化、そして選んで行くべき郊外の見どころがバランスよくまとまっています。",
+    "ko": "호숫가 도심, 사원, 강한 이산 음식 문화, 그리고 선별해서 갈 만한 근교 명소가 잘 맞물리는 이산의 핵심 도시입니다.",
+    "th": "ขอนแก่นเป็นเมืองอีสานที่เหมาะกับการเที่ยวแบบเมืองจริงจัง มีทั้งย่านริมบึง วัดเด่น อาหารอีสาน และทริปนอกเมืองที่คัดมาแล้วว่าไปแล้วคุ้ม",
+    "de": "Khon Kaen funktioniert am besten als Isan-Stadtbasis mit Seeufer, Tempeln, starkem Essen und wenigen, gezielt ausgewählten Ausflügen.",
+    "fr": "Khon Kaen fonctionne surtout comme base urbaine de l'Isan, avec un front de lac, des temples solides, une vraie scène culinaire et quelques excursions choisies avec soin.",
+    "ru": "Кхон Каен лучше всего воспринимать как городскую базу Исана: озеро, храмы, сильная гастрономическая сцена и несколько действительно стоящих выездов за пределы центра.",
+    "zh": "孔敬更适合作为一座真正的伊森城市来规划：湖区、寺庙、美食，以及少数值得专程安排的周边行程。"
+  },
+  "population": 400000,
+  "highlights": [
+    "Bueng Kaen Nakhon",
+    "Wat Nong Wang",
+    "Phu Wiang Dinosaur Museum",
+    "Wat Thung Setthi",
+    "Sim Wat Chai Si",
+    "Isaan eten en Michelin-aanbevelingen"
+  ],
+  "location": {
+    "lat": 16.4322,
+    "lng": 102.8236
+  },
+  "image": "/images/cities/generated/khon-kaen.webp",
+  "seo": {
+    "metaTitle": {
+      "en": "Khon Kaen Thailand Guide 2026 | Isaan Food, Temples, Hotels",
+      "nl": "Khon Kaen Thailand Gids 2026 | Isaan food, tempels, hotels",
+      "ja": "コーンケーン旅行ガイド 2026 | イサーン料理、寺院、ホテル",
+      "ko": "콘깬 여행 가이드 2026 | 이산 음식, 사원, 호텔",
+      "th": "ขอนแก่น 2026 | อาหารอีสาน วัด และที่พัก",
+      "de": "Khon Kaen Thailand Guide 2026 | Isan-Food, Tempel, Hotels",
+      "fr": "Guide Khon Kaen 2026 | cuisine isan, temples et hotels",
+      "ru": "Кхон Каен 2026 | еда Исана, храмы и отели",
+      "zh": "孔敬旅行指南 2026 | 伊森美食、寺庙与酒店"
+    },
+    "metaDescription": {
+      "en": "Plan Khon Kaen around the lakefront, Wat Nong Wang, curated Isaan food picks, and the day trips that actually suit a first stay in the city's orbit.",
+      "nl": "Plan Khon Kaen rond het meer, Wat Nong Wang, sterke Isaan food picks en de dagtrips die echt passen bij een eerste verblijf in en rond de stad.",
+      "ja": "湖畔エリア、ワット・ノーン・ワン、厳選したイサーン料理、そして初訪問に合う郊外スポットまで整理したコーンケーン実用ガイドです。",
+      "ko": "호숫가, 왓 농 왕, 선별한 이산 음식, 그리고 첫 방문에 맞는 근교 코스까지 정리한 콘깬 실전 가이드입니다.",
+      "th": "วางแผนเที่ยวขอนแก่นด้วยโซนริมบึง วัดหนองแวง ร้านอาหารอีสานที่คัดแล้ว และทริปนอกเมืองที่เหมาะกับการมาเที่ยวครั้งแรก",
+      "de": "Planen Sie Khon Kaen mit Seeufer, Wat Nong Wang, guten Isan-Restaurants und passenden Ausflugen fur den ersten Aufenthalt.",
+      "fr": "Planifiez Khon Kaen autour du lac, de Wat Nong Wang, d'adresses isan solides et d'excursions adaptees a un premier sejour.",
+      "ru": "Планируйте Кхон Каен вокруг набережной озера, Wat Nong Wang, сильных гастрономических адресов и тех выездов, которые действительно подходят первой поездке.",
+      "zh": "从湖区、龙旺寺、精选伊森餐厅到真正适合初访的周边行程，这份指南帮你更合理地规划孔敬。"
+    }
+  },
+  "categories": {
+    "food": {
+      "en": "Best restaurants and street food in Khon Kaen",
+      "nl": "Beste restaurants en streetfood in Khon Kaen",
+      "ja": "コーンケーンのおすすめレストランとストリートフード",
+      "ko": "콘깬 추천 레스토랑과 길거리 음식",
+      "th": "ร้านอาหารและสตรีทฟู้ดที่ดีที่สุดในขอนแก่น"
+    },
+    "hotels": {
+      "en": "Top hotels in Khon Kaen | Tips & deals",
+      "nl": "Beste hotels in Khon Kaen | Tips & aanbiedingen",
+      "ja": "コーンケーンのおすすめホテル | ヒント＆お得情報",
+      "ko": "콘깬 추천 호텔 | 팁 & 특가",
+      "th": "โรงแรมแนะนำในขอนแก่น | เคล็ดลับและดีล"
+    },
+    "attractions": {
+      "en": "Top attractions in Khon Kaen",
+      "nl": "Top bezienswaardigheden in Khon Kaen",
+      "ja": "コーンケーンの人気観光スポット",
+      "ko": "콘깬 인기 관광 명소",
+      "th": "สถานที่ท่องเที่ยวยอดนิยมในขอนแก่น"
+    }
+  },
+  "tags": [
+    "isaan",
+    "khon kaen",
+    "thailand",
+    "eten",
+    "tempels",
+    "stedelijk"
+  ],
+  "enhanced_description": "Khon Kaen is een van de makkelijkst te onderschatten Thaise steden. Reizigers zien het vaak als een doorgangsstop met een meer, een tempel en een dagtrip naar een museum. Dat negeert de reden waarom de stad zo goed werkt: het is een bewoond Isaan-stedelijk centrum waar eten, universitaire energie, lokaal zakelijk reizen en avondroutines rond Bueng Kaen Nakhon belangrijker zijn dan het najagen van een lange lijst bezienswaardigheden. Zodra je het op die manier plant, wordt Khon Kaen veel duidelijker.\n\nDe stadskant is compact genoeg om te structureren rond Bueng Kaen Nakhon en Wat Nong Wang. Het meer is de plek waar Khon Kaens dag herstart in de vroege ochtend en weer na zonsondergang, terwijl de tempel het meest herkenbare skyline-punt in de stad biedt. Van daaruit gaat het niet om hoeveel extra tempels je in een dag kunt proppen, maar welke uitstapjes buiten de stad echt diepte toevoegen. Voor de meeste eerste bezoeken betekent dat kiezen tussen de fossiel- en dinosauruslaag bij Phu Wiang, de meer hedendaagse visuele dramatiek van Wat Thung Setthi, of een cultuurgestuurde stop zoals Sim Wat Chai Si en de zijderoute van Chonnabot.\n\nEten is wat Khon Kaen voorkomt dat het dun aanvoelt. De sterkste maaltijden hier zijn geen generieke café-hops of geïmporteerde stads-trends, maar Isaan-geleide restaurants en markten die nog steeds geworteld voelen in de regio. De huidige Khon Kaen-selectie van MICHELIN helpt om de echte uitschieters te scheiden van vulmiddel, en het past bij het bredere stadsritme: gegrilde kip, kruidenrijke Isaan-gerechten, scherpe pittigheid, late-night marktenenergie, en een paar slimmere hotel- of design-restaurants als je één gepolijste maaltijd wilt zonder de stadskern te verlaten.",
+  "overview": "Khon Kaen werkt het beste als een stedelijke Isaan-basis in plaats van een klassieke bezichtingsstad. Materialen van de Tourism Authority of Thailand kaderen het nog steeds via Wat Nong Wang, Phu Wiang, Ton Tann Market, zijde, en een handvol culturele stops buiten de stad, wat nuttig is omdat het de stad verankert in een praktische mix van eten, religie, lokale cultuur en één of twee selectieve dagtrips. Dat is de juiste lens voor een eerste verblijf.\n\nDe stad heeft geen opgeblazen lijst van attracties nodig. Wat het nodig heeft, is een duidelijke hiërarchie. In de stad geef prioriteit aan Bueng Kaen Nakhon, Wat Nong Wang, en één avondmarkt-ritme. Buiten de stad kies je voor de fossiel- en museumkant ten westen van de stad of een meer cultuurgestuurde stop zoals Wat Chai Si of Chonnabot. De kwaliteitszet is om één goede route buiten de stad te kiezen, in plaats van te doen alsof elke provinciale stop in dezelfde gehaaste lus hoort.",
+  "hidden_gems": [
+    {
+      "name": "Wat Thung Setthi",
+      "story": "Wat Thung Setthi is het beste antwoord als je één tempel in Khon Kaen wilt die visueel anders aanvoelt dan de standaard stadscircuit. De architectuur is moderner en symbolischer dan de klassiekers aan het meer, dus het werkt als een bewuste tegenhanger in plaats van een duplicaat.",
+      "how_to_find": "Gebruik het als een korte omweg buiten de directe meer-en-centrum-lus.",
+      "best_time": "Laat in de middag.",
+      "local_insights": [
+        "Het voegt visuele variatie toe zonder een volledige tempelmarathon af te dwingen.",
+        "Dit is sterker als één geplande stop dan als een gehaaste toevoeging tussen maaltijden."
+      ]
+    },
+    {
+      "name": "Sim Wat Chai Si",
+      "story": "Wat Chai Si doet ertoe omdat het Khon Kaen een oudere muurschilder- en vertel-laag geeft die de meeste korte stadsverblijven nooit bereiken. Het is een van de betere cultuurgestuurde omwegen als je iets regionaal specifieks wilt in plaats van nog een downtown-tempel.",
+      "how_to_find": "Het beste met een auto of chauffeur als deel van een halve dag culturele route.",
+      "best_time": "Ochtend of laat in de middag.",
+      "local_insights": [
+        "Ga voor de muurschilderingen en sfeer, niet voor checklist-toerisme.",
+        "Dit is een van de schoonste manieren om de reis uit te breiden voorbij de meerfront."
+      ]
+    },
+    {
+      "name": "Sri Muang Thong market run",
+      "story": "Sri Muang Thong is nuttig als je Khon Kaen wilt ervaren op lokale eet-termen in plaats van alleen via gepolijste dinerkeuzes. Het is het sterkst als een ritme van groenten- en snackmarkt, niet als een netjes toeristische attractie.",
+      "how_to_find": "Gebruik het 's ochtends als je de markt-kant van de stad echt wilt laten voelen.",
+      "best_time": "Vroege ochtend.",
+      "local_insights": [
+        "Het is beter voor sfeer en productassortiment dan voor één enkele beroemde kraam.",
+        "Dit is de markt-tegenhanger van de avondscène bij Ton Tann."
+      ]
+    },
+    {
+      "name": "One western museum day only",
+      "story": "De ondergewaardeerde zet in Khon Kaen is terughoudendheid. Als je de Phu Wiang-kant kiest, geef het dan genoeg tijd en overload de rest van de dag niet met elke mogelijke tempel en markt in de stad.",
+      "how_to_find": "Behandel de westwaartse museumroute als de hoofdbetrokkenheid van de dag.",
+      "best_time": "Vertrek 's ochtends in het droge seizoen.",
+      "local_insights": [
+        "Khon Kaen wordt beter als je ophoudt met proberen de hele provincie in één vlakke itinerary te proppen.",
+        "Eén goede halve dag of dagtrip is meestal genoeg voor een kort eerste verblijf."
+      ]
+    }
+  ],
+  "authentic_experiences": [
+    {
+      "activity": "Gebruik Bueng Kaen Nakhon en Wat Nong Wang als de stadskern",
+      "story": "Het meerfront en de negenverdiepingen-tempel zijn de duidelijkste manier om het dagelijkse ritme van Khon Kaen te begrijpen. Ze zijn geen geïsoleerde bezienswaardigheden; samen geven ze de stad zijn meest leesbare openbare ruimte en skyline.",
+      "cultural_significance": "Dit is waar stedelijk Khon Kaen het meest openbaar, lokaal en herkenbaar zichzelf voelt.",
+      "how_to_participate": "Loop rond het meer in de koelere uren, en koppel het dan aan Wat Nong Wang in plaats van elk als een aparte missie te behandelen.",
+      "insights": [
+        "Dit is de schoonste eerste zet voor elk kort Khon Kaen-verblijf.",
+        "De stad krijgt meer zin als je begint met sfeer in plaats van alleen museum-logica."
+      ],
+      "href": "/city/khon-kaen/attractions/bueng-kaen-nakhon/",
+      "cta_label": "Bekijk de meerfront-gids"
+    },
+    {
+      "activity": "Kies één serieuze stop buiten de stad, niet drie zwakke",
+      "story": "De provincie Khon Kaen heeft genoeg cultureel en museum-materiaal om een korte itinerary te overbelasten. De betere zet is om één echte richting te kiezen zoals Phu Wiang, Wat Chai Si of Chonnabot en het de dag vorm te laten geven.",
+      "cultural_significance": "Die aanpak respecteert de schaal van de provincie in plaats van het te verflauwen tot vulstops.",
+      "how_to_participate": "Kies één halve dag of hele dag route op basis van je interesse: fossielen, muurschilderingen, zijde of tempels.",
+      "insights": [
+        "De stad is sterker als de dagtrip-logica selectief blijft.",
+        "Dit is de beste correctie voor eerste bezoekers die te veel plannen."
+      ],
+      "href": "/city/khon-kaen/top-10-attractions/",
+      "cta_label": "Bekijk de attractie-gids"
+    },
+    {
+      "activity": "Behandel eten als deel van de reisstructuur, niet als een bijzaak",
+      "story": "De sterkste identiteit van Khon Kaen is culinair. De huidige stadskeuzes van MICHELIN en de markt-kadering van TAT wijzen allebei dezelfde kant op: Isaan-eten en markt-ritme zijn een kernreden om hier te zijn, niet zomaar een handige avondtoevoeging.",
+      "cultural_significance": "Eten is een van de duidelijkste manieren waarop Khon Kaen regionale identiteit uitdrukt zonder voor toeristen op te treden.",
+      "how_to_participate": "Meng één of twee gerichte restaurantmaaltijden met Ton Tann of een groentenmarkt-rondje in plaats van elke maaltijd in malls of hotels te eten.",
+      "insights": [
+        "De stad verbetert snel als je ruimte maakt voor zowel gecureerde als informele maaltijden.",
+        "Khon Kaen zou moeten voelen als Isaan, niet als een generieke secundaire stad."
+      ],
+      "href": "/city/khon-kaen/top-10-restaurants/",
+      "cta_label": "Bekijk de eet-gids"
+    },
+    {
+      "activity": "Verblijf centraal tenzij het hotel zelf de reden is dat je boekt",
+      "story": "De hotel-geografie van Khon Kaen is eenvoudiger dan in resort-steden. De meeste reizigers doen het het beste met een centrale basis nabij het meer, dineren en hoofdwegen, en gebruiken dan pas een meer karaktervol verblijf als het design of resort-setting echt telt.",
+      "cultural_significance": "Dit weerspiegelt hoe de stad daadwerkelijk gebruikt wordt: als een praktische stedelijke basis, niet als een strand-stijl hotelbestemming.",
+      "how_to_participate": "Kies een centraal stadshotel voor een eerste verblijf, of schakel over naar een design- of rivierresort alleen als een rustiger tempo het punt is.",
+      "insights": [
+        "Hotel-gemak telt hier zwaarder dan ansichtkaart-uitzichten.",
+        "Khon Kaen beloont een goede basis meer dan een overgecompliceerd gesplitst verblijf."
+      ],
+      "href": "/city/khon-kaen/top-10-hotels/",
+      "cta_label": "Bekijk de hotel-gids"
+    }
+  ],
+  "foodie_adventures": [
+    {
+      "dish": "Moderne Isaan-keuken met actuele MICHELIN-ondersteuning",
+      "location": "Kaen, See Na Nuan Cafe, Kaprao E Jae",
+      "story": "De betere restaurantlaag van Khon Kaen is geen generieke fusion of geïmporteerde ketens. Het is hedendaags of streng gefocust Isaan-eten dat de regionale kruiding, kruidenprofiel en tempo intact houdt.",
+      "where_to_find": "Gebruik de huidige MICHELIN-geselecteerde stad-restaurants voor de sterkste zit-maaltijden.",
+      "price_range": "Budget tot middenklasse",
+      "ordering_tips": [
+        "Bestel voor de tafel en laat één gerecht de pittigheid dragen terwijl een ander het balanceert.",
+        "Khon Kaen is het sterkst als je leunt op Isaan in plaats van het te vermijden."
+      ],
+      "href": "/city/khon-kaen/top-10-restaurants/",
+      "cta_label": "Bekijk de restaurant-gids"
+    },
+    {
+      "dish": "Kai yang als regionale benchmark-maaltijd",
+      "location": "Kai Yang Wanna en gegrilde-kip-specialisten rond de provincie",
+      "story": "Gegrilde kip is een van de makkelijkste manieren om de regionale eet-identiteit snel te voelen. In Khon Kaen hoort het bij kleefrijst, tam-stijl salades, en een bredere Isaan-tafel in plaats van als een losse snack.",
+      "where_to_find": "Gebruik een MICHELIN-ondersteunde gegrilde-kip-stop of de markt-circuit voor de meest betrouwbare versie.",
+      "price_range": "Budget",
+      "ordering_tips": [
+        "Voeg kleefrijst en één scherpe som tam of kruidenrijke salade toe voor balans.",
+        "Dit is een betere lunch-anker dan een late chique diner."
+      ],
+      "href": "/city/khon-kaen/top-10-restaurants/",
+      "cta_label": "Bekijk meer eet-keuzes"
+    },
+    {
+      "dish": "Ton Tann avond grazen in plaats van nog één formeel diner",
+      "location": "Ton Tann Market",
+      "story": "Ton Tann is nuttig omdat het Khon Kaen een avond openbaar-eten-ritme geeft. Het gaat minder om één beroemde kraam en meer om de stad sociaal, casual en makkelijk in rondes te eten te houden.",
+      "where_to_find": "Het beste na donker als een flexibele diner of tweede-diner-zet.",
+      "price_range": "Budget",
+      "ordering_tips": [
+        "Loop eerst en eet in rondes in plaats van meteen te bestellen.",
+        "Gebruik dit om zwaardere zit-maaltijden te onderbreken."
+      ],
+      "href": "/city/khon-kaen/top-10-restaurants/",
+      "cta_label": "Bekijk meer eet-keuzes"
+    },
+    {
+      "dish": "Eén gepolijste hotel-maaltijd als gemak telt",
+      "location": "Avani Khon Kaen of Ad Lib Khon Kaen",
+      "story": "Khon Kaen hoeft niet elke diner hyper-lokaal te zijn. Eén officiële hotel-eetzaal kan zinvol zijn als je laat aankomt, zakelijke meetings hebt, of een schonere overgang wilt tussen stads-werk en reizen.",
+      "where_to_find": "Gebruik een officiële hotel-eetlocatie nabij je basis in plaats van de hele reis eromheen te bouwen.",
+      "price_range": "Middenklasse tot upscale",
+      "ordering_tips": [
+        "Houd hotel-eten als een nuttige sleuf, niet als het hele culinaire plan.",
+        "Meng het met markt- of MICHELIN-geleide maaltijden zodat de reis zijn regionale identiteit behoudt."
+      ],
+      "href": "/city/khon-kaen/top-10-restaurants/",
+      "cta_label": "Bekijk meer eet-keuzes"
+    }
+  ],
+  "local_insights": [
+    "Khon Kaen is sterker als een stadsbreak met één selectieve dagtrip dan als een provincie-brede checklist.",
+    "Bueng Kaen Nakhon telt het meest in de koelere uren, niet midden op de dag.",
+    "Wat Nong Wang is het beste te behandelen als deel van de meerfront-sequentie, niet als een geïsoleerde stop.",
+    "Gebruik MICHELIN en officiële hotel-pagina's om eet- en hotel-keuzes te filteren; oudere scraped ranking-lagen rond deze stad waren vooral rumoerig.",
+    "Voor eerste bezoekers is de grootste fout overcommitment aan stops buiten de stad en onderbenutting van de stad zelf."
+  ],
+  "seasonal_secrets": "Khon Kaen is het makkelijkst van november tot februari, wanneer het meerfront, tempelbezoeken en elke westwaartse museum- of culturomweg veel minder strafbaar zijn in de hitte. Maart tot mei kan nog werken, maar de openlucht-markt en meer-routines van de stad verschuiven harder naar vroege ochtend en na donker. Het regenseizoen is nog bruikbaar omdat Khon Kaen een stedelijke basis is, maar het maakt langere provinciale lussen minder elegant en beloont een stad-eerst itinerary.",
+  "budget_reality": "Khon Kaen is meestal goedkoper dan de headline-bestemmingen van Thailand, maar dat betekent niet dat elke goedkope optie de moeite waard is. De stad beloont selectief uitgeven: één sterker centraal hotel, verschillende budget-tot-middenklasse Isaan-maaltijden, en één betaald museum of dagtrip produceren vaak een betere reis dan het verspreiden van hetzelfde budget over te veel taxi's en zwakke attracties. Hotel-uitgaven tellen hier zwaarder dan eet-uitgaven, en transportkosten stijgen alleen als je meerdere omwegen buiten de stad stapelt.",
+  "top_attractions": [
+    {
+      "rank": 1,
+      "name": "Bueng Kaen Nakhon",
+      "description": "Het openbare meerfront van de stad en de eenvoudigste manier om het dagelijkse ritme van Khon Kaen te begrijpen voordat je de stad verlaat.",
+      "location": "Meerfront-kern",
+      "entrance_fee": "Gratis",
+      "highlights": [
+        "Beste stads-lus",
+        "Ochtend- en avond-sfeer",
+        "Combineert natuurlijk met Wat Nong Wang"
+      ],
+      "href": "/city/khon-kaen/attractions/bueng-kaen-nakhon/",
+      "cta_label": "Bekijk de meerfront-gids"
+    },
+    {
+      "rank": 2,
+      "name": "Wat Nong Wang",
+      "description": "De bekendste tempel van Khon Kaen en de sterkste skyline-stop rond het meer.",
+      "location": "Rand van Bueng Kaen Nakhon",
+      "entrance_fee": "Meestal gratis",
+      "highlights": [
+        "Negenverdiepingen-tempel",
+        "Beste panoramisch stadscontext",
+        "Makkelijke eerste stop"
+      ],
+      "href": "/city/khon-kaen/attractions/wat-nong-wang/",
+      "cta_label": "Bekijk de Wat Nong Wang-gids"
+    },
+    {
+      "rank": 3,
+      "name": "Phu Wiang Dinosaur Museum",
+      "description": "De overtuigendste museum-dagtrip van de provincie en de duidelijkste reden om ten westen van de stad te gaan.",
+      "location": "Phu Wiang-kant",
+      "entrance_fee": "Museum-toegang geldt",
+      "highlights": [
+        "Sterke focus op fossielen en dinosaurussen",
+        "Beste wetenschapsgeleide dagtrip",
+        "Officieel DMR-museum"
+      ],
+      "href": "/city/khon-kaen/attractions/phu-wiang-dinosaur-museum/",
+      "cta_label": "Bekijk de Phu Wiang-gids"
+    },
+    {
+      "rank": 4,
+      "name": "Wat Thung Setthi",
+      "description": "Een moderne, visueel onderscheidende tempel-stop die diepte toevoegt aan de religieuze laag van de stad.",
+      "location": "Oosten van het centrum",
+      "entrance_fee": "Meestal gratis",
+      "highlights": [
+        "Hedendaags symbolisch design",
+        "Goede tegenhanger voor Wat Nong Wang",
+        "Korte omweg buiten de kern"
+      ],
+      "href": "/city/khon-kaen/attractions/wat-thung-setthi/",
+      "cta_label": "Bekijk de Wat Thung Setthi-gids"
+    },
+    {
+      "rank": 5,
+      "name": "Sim Wat Chai Si",
+      "description": "Een van de betere cultuurgestuurde omwegen voor Isaan-muurschilderkunst en oudere lokale tempel-verhalen.",
+      "location": "Ban Sawathi-kant",
+      "entrance_fee": "Meestal gratis",
+      "highlights": [
+        "Historische muurschilder-hal",
+        "Beter voor cultuur dan voor drukte",
+        "Sterke halve dag-omweg"
+      ],
+      "href": "/city/khon-kaen/attractions/sim-wat-chai-si/",
+      "cta_label": "Bekijk de Wat Chai Si-gids"
+    },
+    {
+      "rank": 6,
+      "name": "Natural History Museum, Khon Kaen University",
+      "description": "Een slimme in-stad museum-optie als je een kortere wetenschaps- en educatiestop wilt zonder je te committeren aan Phu Wiang.",
+      "location": "Khon Kaen University",
+      "entrance_fee": "Controleer lokaal",
+      "highlights": [
+        "Universiteitsmuseum-setting",
+        "Goede kortere museum-optie",
+        "Makkelijk te combineren met stadstijd"
+      ],
+      "href": "/city/khon-kaen/attractions/natural-history-museum-khon-kaen-university/",
+      "cta_label": "Bekijk de museum-gids"
+    }
+  ],
+  "top_restaurants": [
+    {
+      "rank": 1,
+      "name": "Kaen",
+      "cuisine_type": "Hedendaagse Thaise en Isaan",
+      "description": "Een van de sterkste huidige restaurantnamen in Khon Kaen als je een meer bewuste zit-maaltijd wilt met een echt regionaal perspectief.",
+      "location": "Khon Kaen stad",
+      "price_range": "Middenklasse",
+      "highlights": [
+        "Huidige MICHELIN-erkende keuze",
+        "Sterker dan standaard hotelmaaltijden",
+        "Goed geplande diner"
+      ],
+      "href": "/city/khon-kaen/top-10-restaurants/",
+      "cta_label": "Bekijk meer culinaire tips"
+    },
+    {
+      "rank": 2,
+      "name": "See Na Nuan Cafe",
+      "cuisine_type": "Thais en Isaan",
+      "description": "Een nuttig restaurant in Khon Kaen als je een ontspannen stedelijke maaltijd wilt die nog steeds binnen de huidige MICHELIN-sfeer valt.",
+      "location": "Khon Kaen stad",
+      "price_range": "Budget tot middenklasse",
+      "highlights": [
+        "Huidige MICHELIN-erkende keuze",
+        "Goede informele zit-optie",
+        "Nuttig voor een maaltijd overdag of vroeg in de avond"
+      ],
+      "href": "/city/khon-kaen/top-10-restaurants/",
+      "cta_label": "Bekijk meer culinaire tips"
+    },
+    {
+      "rank": 3,
+      "name": "Kai Yang Wanna",
+      "cuisine_type": "Gegrilde kip Isaan-stijl",
+      "description": "Een slimme benchmark-stop voor de gegrilde kipkant van de regio als je één klassieke Isaan-maaltijd wilt rond een signatuurgerecht.",
+      "location": "Provincie Khon Kaen",
+      "price_range": "Budget",
+      "highlights": [
+        "Huidige MICHELIN-erkende keuze",
+        "Beste voor kai yang-logica",
+        "Sterke lunchstop"
+      ],
+      "href": "/city/khon-kaen/top-10-restaurants/",
+      "cta_label": "Bekijk meer culinaire tips"
+    },
+    {
+      "rank": 4,
+      "name": "Kaprao E Jae",
+      "cuisine_type": "Thaise roerbak en comfortgerechten",
+      "description": "Een gericht lokaal restaurant dat goed werkt als je één betrouwbare, door MICHELIN gesteunde dagelijkse maaltijd wilt in plaats van een groot diner.",
+      "location": "Khon Kaen stad",
+      "price_range": "Budget",
+      "highlights": [
+        "Huidige MICHELIN-erkende keuze",
+        "Goede alledaagse eetoptie",
+        "Beter dan standaard mall-maaltijden"
+      ],
+      "href": "/city/khon-kaen/top-10-restaurants/",
+      "cta_label": "Bekijk meer culinaire tips"
+    },
+    {
+      "rank": 5,
+      "name": "Sookjailand",
+      "cuisine_type": "Thaise regionale keuken",
+      "description": "Een nuttig restaurant buiten het centrum voor reizigers die bereid zijn het kerngebied te verlaten voor één extra door bronnen gesteunde maaltijd met sterker lokaal karakter.",
+      "location": "Ban Fang-kant",
+      "price_range": "Budget tot middenklasse",
+      "highlights": [
+        "Huidige MICHELIN-erkende keuze",
+        "Goed als eten de reden is voor de omweg",
+        "Niet zomaar een gemaksstop"
+      ],
+      "href": "/city/khon-kaen/top-10-restaurants/",
+      "cta_label": "Bekijk meer culinaire tips"
+    },
+    {
+      "rank": 6,
+      "name": "Ton Tann Market",
+      "cuisine_type": "Streetfood en snacks",
+      "description": "Het makkelijkste flexibele avondeten-gebied in Khon Kaen als je wilt dat de stad sociaal, lokaal en makkelijk in rondes te eten voelt.",
+      "location": "Ton Tann-gebied",
+      "price_range": "Budget",
+      "highlights": [
+        "Beste avondmarkt-ritme",
+        "Makkelijk informeel diner",
+        "Nuttig na donker"
+      ],
+      "href": "/city/khon-kaen/top-10-restaurants/",
+      "cta_label": "Bekijk meer culinaire tips"
+    },
+    {
+      "rank": 7,
+      "name": "Sri Muang Thong Market",
+      "cuisine_type": "Producten, snacks en lokale markteten",
+      "description": "Meer een marktloop dan een gepolijst restaurant, maar een van de betere manieren om de voedselidentiteit van Khon Kaen te verankeren in alledaagse lokale handel en producten.",
+      "location": "Khon Kaen stad",
+      "price_range": "Budget",
+      "highlights": [
+        "Ochtendmarkt-energie",
+        "Sterk lokaal context",
+        "Beste voor producten- en snackgeleid browsen"
+      ],
+      "href": "/city/khon-kaen/top-10-restaurants/",
+      "cta_label": "Bekijk meer culinaire tips"
+    }
+  ],
+  "top_hotels": [
+    {
+      "rank": 1,
+      "name": "Ad Lib Khon Kaen",
+      "description": "Een van de schoonste huidige keuzes in Khon Kaen als je een designgericht, centraal verblijf wilt zonder praktische toegang tot de stadskern te verliezen.",
+      "price_range": "Luxe",
+      "category": "luxe",
+      "area": "Centraal Khon Kaen",
+      "highlights": [
+        "Officiële hotelwebsite",
+        "Designgericht stedelijk verblijf",
+        "Sterke centrale basis"
+      ],
+      "href": "/city/khon-kaen/top-10-hotels/",
+      "cta_label": "Bekijk de hotelgids"
+    },
+    {
+      "rank": 2,
+      "name": "Avani Khon Kaen Hotel & Convention Centre",
+      "description": "Een praktisch full-service stadshotel dat past bij reizigers die een sterke centrale basis, officiële faciliteiten en makkelijke luchthavenaccess willen.",
+      "price_range": "Middenklasse tot luxe",
+      "category": "middenklasse",
+      "area": "Centraal Khon Kaen",
+      "highlights": [
+        "Officiële hotelwebsite",
+        "Groot full-service eigendom",
+        "Nuttig voor zaken of langere verblijven"
+      ],
+      "href": "/city/khon-kaen/top-10-hotels/",
+      "cta_label": "Bekijk de hotelgids"
+    },
+    {
+      "rank": 3,
+      "name": "Nadee 10 Resort & Hotel",
+      "description": "Een goede match als je een meer zelfcontained modern verblijf wilt zonder terug te vallen op de grotere conventiehotel-stijl van de stad.",
+      "price_range": "Middenklasse",
+      "category": "middenklasse",
+      "area": "Stadskant resort-setting",
+      "highlights": [
+        "Officiële hotelwebsite",
+        "Moderne designgerichte kamers",
+        "Goede balans van comfort en rust"
+      ],
+      "href": "/city/khon-kaen/top-10-hotels/",
+      "cta_label": "Bekijk de hotelgids"
+    },
+    {
+      "rank": 4,
+      "name": "Kosa Hotel",
+      "description": "Een langlopende centrale optie die nog steeds zinvol is als locatie en stadspraktijk belangrijker zijn dan boetiekstyling.",
+      "price_range": "Middenklasse",
+      "category": "middenklasse",
+      "area": "Centraal Khon Kaen",
+      "highlights": [
+        "Officiële hotelwebsite",
+        "Vastgesteld stadscentrum-basis",
+        "Nuttig voor korte praktische verblijven"
+      ],
+      "href": "/city/khon-kaen/top-10-hotels/",
+      "cta_label": "Bekijk de hotelgids"
+    },
+    {
+      "rank": 5,
+      "name": "Wishing Tree Resort",
+      "description": "Het duidelijkste antwoord op een rustiger tempo als je groen en een meer resortachtige sfeer wilt zonder de reis in een volledig gesplitst verblijf te veranderen.",
+      "price_range": "Middenklasse tot luxe",
+      "category": "speciaal verblijf",
+      "area": "Buiten het centrum",
+      "highlights": [
+        "Officiële resortwebsite",
+        "Meer afgezonderde sfeer",
+        "Beste als een rustiger verblijf telt"
+      ],
+      "href": "/city/khon-kaen/top-10-hotels/",
+      "cta_label": "Bekijk de hotelgids"
+    }
+  ],
+  "travel_tips": [
+    "Behandel Khon Kaen eerst als een stedelijk verblijf en daarna als een provinciale omweg; dat houdt de reisroute coherent.",
+    "Gebruik Bueng Kaen Nakhon en Wat Nong Wang in de koelere uren en laat zware bewegingen voor de ochtend of avond.",
+    "Kies één serieuze prioriteit buiten de stad zoals Phu Wiang, Wat Chai Si of de zijderoute in plaats van zwakke extra's op te stapelen.",
+    "Houd één marktmaaltijd en één geplande zit-Isaan-maaltijd in de reisroute zodat de eetkant echt werk doet.",
+    "Boek centraal tenzij het hotel zelf deel uitmaakt van de reden voor de reis."
+  ],
+  "best_time_to_visit": {
+    "season": "Koel seizoen",
+    "months": "November - februari",
+    "weather": "Meestal de makkelijkste periode voor wandelen langs het meerfront, tempelbezoeken, markten en elke museum- of cultuurgestuurde dagtrip buiten het centrum.",
+    "reasons": "Beste voor eerste bezoekers die de stadskern plus één selectieve provinciale omweg willen zonder zware hitte."
+  },
+  "budget_info": {
+    "budget": "€18-37 per dag",
+    "mid_range": "€41-101 per dag",
+    "luxury": "€110-221 per dag",
+    "notes": "Eten blijft betaalbaar in Khon Kaen; hotelkeuze en auto-gebaseerde omwegen veranderen het budget veel sneller dan maaltijden."
+  },
+  "thingsToDo": "Begin Khon Kaen met het meerfront in plaats van de stad te behandelen als een transportknooppunt waar je alleen slaapt. Bueng Kaen Nakhon en Wat Nong Wang geven de schoonste eerste structuur: een openbaar stadslus, de tempel-silhouet en genoeg context om te begrijpen hoe Khon Kaen beweegt. Daarna is de slimme beslissing om één serieuze secundaire laag te kiezen. Phu Wiang is de sterkste full-museum-omweg. Wat Thung Setthi werkt als een kort design-en-tempel-contrast. Sim Wat Chai Si of de Chonnabot-zijderoute passen beter als je cultuur wilt in plaats van fossielen.\n\nDe stad wordt veel beter als eten centraal staat in het plan. Bouw één huidige MICHELIN-gesteunde maaltijd, één marktgeleide avond en één lichtere stadswandelblok rond het meer of de universiteitskant in. Dat produceert een Khon Kaen-reis met echte vorm: niet alleen bezienswaardigheden, maar stedelijk ritme, regionale keuken en één buiten-de-stad-hoek die echt bij je interesses past.",
+  "whereToStay": "De hotelstrategie voor Khon Kaen is eenvoudig vergeleken met resortbestemmingen. De meeste eerste bezoekers moeten centraal verblijven, waar het meerfront, hoofdwegen, restaurantopties en praktische stadsmovement allemaal makkelijk blijven. Daarom maken Ad Lib, Avani, Nadee 10 en Kosa meer zin voor veel reizigers dan het overdenken van gesplitste verblijven.\n\nGebruik een rustiger resort-stijl eigendom zoals Wishing Tree alleen als de sfeer deel uitmaakt van het doel van de reis. Anders is centrale toegang het betere gebruik van tijd. Khon Kaen is een stad waar gemak meestal scenery verslaat.",
+  "whereToEat": [
+    {
+      "name": "Kaen",
+      "cuisine": "Hedendaags Thais en Isaan",
+      "priceRange": "$$",
+      "description": "Een sterke geplande diner als je de huidige hogere-end regionale-voedsel-laag van Khon Kaen wilt."
+    },
+    {
+      "name": "See Na Nuan Cafe",
+      "cuisine": "Thais en Isaan",
+      "priceRange": "$-$$",
+      "description": "Een nuttige informele zit-optie met huidige MICHELIN-erkenning."
+    },
+    {
+      "name": "Kai Yang Wanna",
+      "cuisine": "Gegrilde kip Isaan-stijl",
+      "priceRange": "$",
+      "description": "Een van de beste manieren om een maaltijd rond een regionaal basisgerecht te verankeren."
+    },
+    {
+      "name": "Kaprao E Jae",
+      "cuisine": "Thaise comfortgerechten",
+      "priceRange": "$",
+      "description": "Een goede huidige alledaagse-eetkeuze binnen de MICHELIN-laag van de stad."
+    },
+    {
+      "name": "Ton Tann Market",
+      "cuisine": "Streetfood en snacks",
+      "priceRange": "$",
+      "description": "De makkelijkste avondmarkt-dinerzet in Khon Kaen."
+    },
+    {
+      "name": "Sri Muang Thong Market",
+      "cuisine": "Markteten en producten",
+      "priceRange": "$",
+      "description": "Beste voor een vroege marktloop in plaats van een formele maaltijd."
+    }
+  ],
+  "gettingAround": "Khon Kaen is makkelijker dan veel provinciale Thaise steden zodra je de stadskern scheidt van de buiten-de-stad-laag. Rond Bueng Kaen Nakhon, de tempel, centrale hotels en veel restaurants zijn korte taxi- of ride-hailing-sprongen meestal genoeg. Wandelen werkt het beste in korte stukken rond het meer in plaats van als een hele-dag-stadsstrategie.\n\nBuiten-de-stad-stops zoals Phu Wiang, Wat Chai Si of Chonnabot zijn een andere vraag. Die zijn beter te hanteren met auto, chauffeur of een duidelijk geplande dag in plaats van door te improviseren met meerdere punt-tot-punt-ritten. De praktische regel is eenvoudig: houd de stad compact en behandel elke buiten-stad-stop als een bewuste transportverplichting.",
+  "bestTimeToVisit": "Khon Kaen is het makkelijkst van november tot februari, wanneer het meerfront, tempelbezoeken en elke museum- of muurschildering-omweg comfortabeler zijn overdag. Maart tot mei kan nog steeds werken voor een kort stedelijk verblijf, maar de beste delen van de dag verschuiven naar vroeg in de ochtend en na zonsondergang. Regenseizoen is beheersbaar omdat de bestemming stedelijk is, maar het beloont kortere stad-gebaseerde plannen en één selectieve omweg in plaats van lange verspreide lussen rond de provincie.",
+  "budgetGuide": {
+    "budget": {
+      "min": 20,
+      "max": 40,
+      "description": "Budget Khon Kaen betekent meestal een eenvoudig centraal hotel, markt-zware maaltijden en een stad-eerst-reisroute met slechts één betaald museum of dagtrip."
+    },
+    "midrange": {
+      "min": 45,
+      "max": 110,
+      "description": "Middenklasse-budgetten kopen de beste versie van Khon Kaen voor de meeste reizigers: een sterker centraal hotel, verschillende gerichte restaurantmaaltijden en genoeg transportflexibiliteit voor één juiste provinciale omweg."
+    },
+    "luxury": {
+      "min": 120,
+      "max": 240,
+      "description": "Hogere budgetten in Khon Kaen gaan vooral over betere hotels, soepelere auto-gebaseerde beweging en één of twee gepolijste maaltijden in plaats van ultra-luxe bezienswaardigheden."
+    }
+  },
+  "safetyTips": "Khon Kaen is over het algemeen eenvoudig voor bezoekers, en het grotere reisrisico is verspilde tijd in plaats van persoonlijke veiligheid. Plan buiten-stad-transport voordat je vertrekt, vooral voor museum- of cultuurops in de verte van het centrum. Kleed je respectvol voor tempelbezoeken, wees voorzichtig rond wegen bij beweging tussen het meer en nabijgelegen districten, en bewaar de zwaarste buitenwandelingen voor koelere uren. Als je marktgebieden na donker gebruikt, houd dan de gebruikelijke stadsbewustzijn maar maak de stad niet ingewikkelder als een hoog-risico-bestemming.",
+  "faq": [
+    {
+      "question": "Is Khon Kaen een bezoek waard als ik het niet alleen als doorreisstop gebruik?",
+      "answer": "Ja. Khon Kaen is het sterkst als een stedelijke Isaan-basis met een meerfront-kern, sterke voedselidentiteit en één of twee selectieve dagtrips."
+    },
+    {
+      "question": "Hoeveel nachten heb ik nodig in Khon Kaen?",
+      "answer": "Twee nachten is een goed eerste verblijf als je de stad plus één buiten-stad-stop wilt. Eén nacht werkt alleen als de reis voornamelijk in de stad blijft."
+    },
+    {
+      "question": "Wat zijn de belangrijkste bezienswaardigheden in Khon Kaen zelf?",
+      "answer": "Voor de meeste eerste bezoeken zijn Bueng Kaen Nakhon en Wat Nong Wang de essentiële stadskern-stops."
+    },
+    {
+      "question": "Is Phu Wiang een trip waard vanuit Khon Kaen stad?",
+      "answer": "Ja, als fossielen en museum-kwaliteit interpretatie je interesseren. Het is de sterkste wetenschap-geleide dagtrip vanuit de stad."
+    },
+    {
+      "question": "Wat is de beste voedselstrategie in Khon Kaen?",
+      "answer": "Meng één of twee huidige MICHELIN-gesteunde restaurants met ten minste één marktgeleide maaltijd. Dat geeft de stad zowel structuur als lokale textuur."
+    },
+    {
+      "question": "Moet ik centraal of buiten de stad verblijven?",
+      "answer": "Centraal is meestal beter voor een eerste verblijf. Kies een rustiger buiten-centrum-resort alleen als de hotelsfeer deel uitmaakt van het doel van de reis."
+    }
+  ],
+  "practicalInfo": {
+    "bestMonths": [
+      "Nov",
+      "Dec",
+      "Jan",
+      "Feb"
+    ],
+    "nearestAirport": "Luchthaven Khon Kaen",
+    "travelTimeFromAirport": "Meestal rond 15 tot 25 minuten naar centraal Khon Kaen afhankelijk van verkeer en hotelpositie.",
+    "localTransport": [
+      "Korte taxi- of ride-hailing-trips binnen de stad",
+      "Wandelen rond het meerfront in korte stukken",
+      "Privéauto of chauffeur voor Phu Wiang, Wat Chai Si of Chonnabot",
+      "Hotel-geregeld transport voor buiten-stad-maaltijden of verblijven indien nodig",
+      "Buiten-stad-stops beperken tot één hoofrichting per dag"
+    ]
+  },
+  "contentSources": [
+    {
+      "type": "toeristenkantoor",
+      "title": "10 Dingen om te Doen in Khon Kaen",
+      "creator": "Toerisme Autoriteit van Thailand",
+      "url": "https://www.tourismthailand.org/Articles/10-things-to-do-in-khon-kaen",
+      "description": "Gebruikt voor officiële bestemmingsomschrijving, kernbezienswaardigheden, Ton Tann-context en een breder perspectief voor eerste bezoekers aan Khon Kaen."
+    },
+    {
+      "type": "toerismebureau",
+      "title": "Khon Kaen E-Brochure",
+      "creator": "Tourism Authority of Thailand",
+      "url": "https://tourismthailand.my/ebook/E-Brochure%20Khon%20kaen%20%28En%29.pdf",
+      "description": "Gebruikt voor brede officiële context van stad en provincie en hiërarchie van bezienswaardigheden."
+    },
+    {
+      "type": "bezienswaardigheid",
+      "title": "Fossil Research Center and Dinosaur Museum, Khon Kaen",
+      "creator": "Department of Mineral Resources, Thailand",
+      "url": "https://uat-es.dmr.go.th/en/rcmk-en/",
+      "description": "Gebruikt voor officiële Phu Wiang-fossielonderzoek en museumcontext."
+    },
+    {
+      "type": "bezienswaardigheid",
+      "title": "Natural History Museum Khon Kaen University",
+      "creator": "Tourism Authority of Thailand",
+      "url": "https://www.tourismthailand.org/Tourism-Product/Attraction/natural-history-museum-khon-kaen-university",
+      "description": "Gebruikt voor officiële museumcontext in de stad."
+    },
+    {
+      "type": "bezienswaardigheid",
+      "title": "Khonkaen-Udonthani Silk",
+      "creator": "Tourism Authority of Thailand",
+      "url": "https://www.tourismthailand.org/Articles/khonkaen-udonthani-silk",
+      "description": "Gebruikt voor Chonnabot en regionale zijdecontext."
+    },
+    {
+      "type": "restaurant",
+      "title": "Kaen",
+      "creator": "MICHELIN Guide",
+      "url": "https://guide.michelin.com/us/en/khon-kaen-region/khon-kaen/restaurant/kaen",
+      "description": "Gebruikt voor huidige MICHELIN-restaurantstatus en de meer bewuste regionale eetlaag van Khon Kaen."
+    },
+    {
+      "type": "restaurant",
+      "title": "Kai Yang Wanna",
+      "creator": "MICHELIN Guide",
+      "url": "https://guide.michelin.com/tr/en/khon-kaen-region/khon-kaen/restaurant/kai-yang-wanna",
+      "description": "Gebruikt voor huidige MICHELIN-restaurantstatus en officiële restaurantlijstcontext."
+    },
+    {
+      "type": "restaurant",
+      "title": "See Na Nuan Cafe",
+      "creator": "MICHELIN Guide",
+      "url": "https://guide.michelin.com/us/en/khon-kaen-region/khon-kaen/restaurant/see-na-nuan-cafe-kangsadarn",
+      "description": "Gebruikt voor huidige MICHELIN-restaurantstatus en curatie van het eten in de stad."
+    },
+    {
+      "type": "restaurant",
+      "title": "Kaprao E Jae",
+      "creator": "MICHELIN Guide",
+      "url": "https://guide.michelin.com/pt/pt_PT/khon-kaen-region/khon-kaen/restaurant/kaprao-e-jae",
+      "description": "Gebruikt voor huidige MICHELIN-restaurantstatus en positionering van casual lokaal eten."
+    },
+    {
+      "type": "restaurant",
+      "title": "Sookjailand",
+      "creator": "MICHELIN Guide",
+      "url": "https://guide.michelin.com/us/en/khon-kaen-region/khon-kaen/restaurant/sookjailand",
+      "description": "Gebruikt voor huidige MICHELIN-restaurantstatus en eetcontext buiten het centrum."
+    },
+    {
+      "type": "hotel",
+      "title": "Ad Lib Khon Kaen Hotel, Officiële Hotelwebsite",
+      "creator": "Ad Lib Hotels",
+      "url": "https://www.adlibhotels.co/khon-kaen/",
+      "description": "Gebruikt voor officiële hotelpositionering in centraal Khon Kaen."
+    },
+    {
+      "type": "hotel",
+      "title": "Avani Khon Kaen Hotel & Convention Centre Feitenblad",
+      "creator": "Avani Hotels",
+      "url": "https://www.avanihotels.com/uploads/minor/avani/documents/vkkc/avani_khon_kaen_fact_sheet_for_-web_eng_2024.pdf",
+      "description": "Gebruikt voor officiële context van kamers, eten en luchthavenaccess."
+    },
+    {
+      "type": "hotel",
+      "title": "Nadee 10 Hotel | Luxe hotel in Khon Kaen",
+      "creator": "Nadee 10 Resort & Hotel",
+      "url": "https://www.nadee10.com/",
+      "description": "Gebruikt voor officiële hotelpositionering en eigendomcontext."
+    },
+    {
+      "type": "hotel",
+      "title": "Kosa Hotel Khon Kaen",
+      "creator": "Kosa Hotel",
+      "url": "https://www.kosahotel.com/",
+      "description": "Gebruikt voor officiële referentie van hotel in stadscentrum."
+    },
+    {
+      "type": "hotel",
+      "title": "Wishing Tree Resort",
+      "creator": "Wishing Tree Resort",
+      "url": "https://www.wishingtreeresort.com/en/about.html",
+      "description": "Gebruikt voor officiële resortcontext buiten het stadscentrum."
+    }
+  ],
+  "reviewed_by": "Go2Thailand Redactieteam",
+  "enhanced_at": "2026-03-26T00:00:00.000Z",
+  "enrichedAt": "2026-03-26T00:00:00.000Z",
+  "factchecked_at": "2026-03-26T00:00:00.000Z"
+}

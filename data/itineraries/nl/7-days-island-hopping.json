@@ -1,0 +1,738 @@
+{
+  "slug": "7-days-island-hopping",
+  "title": {
+    "en": "7 Days Island Hopping: Thailand's Best Beaches",
+    "nl": "7 Dagen Eilandhoppen: Thailand's Mooiste Stranden"
+  },
+  "duration": 7,
+  "region": "zuidelijk",
+  "budgetLevel": "alle",
+  "description": {
+    "en": "A week of pure tropical bliss hopping between Thailand's most beautiful islands and coastal gems. From Phuket's lively beach scene to Krabi's dramatic cliffs, with boat trips to the Phi Phi Islands, Railay Beach, and the four islands of Krabi. Sun, sand, and turquoise water every single day.",
+    "nl": "Een week pure tropische gelukzaligheid tussen Thailand's mooiste eilanden en kustjuwelen. Van Phuket's levendige strandscene tot Krabi's dramatische kliffen, met boottochten naar de Phi Phi Eilanden, Railay Beach en de vier eilanden van Krabi. Zon, zand en turquoise water elke dag."
+  },
+  "image": "/images/cities/krabi/krabi-mountain-view.webp",
+  "highlights": [
+    "Phi Phi Islands",
+    "Railay Beach",
+    "James Bond Island",
+    "Four Islands Tour",
+    "Koh Lanta",
+    "Ao Nang"
+  ],
+  "cities": [
+    "Phuket",
+    "Krabi"
+  ],
+  "budget": {
+    "budget": {
+      "total": "$350-500",
+      "perDay": "$50-72",
+      "currency": "THB",
+      "totalThb": "12,250-17,500"
+    },
+    "midrange": {
+      "total": "$800-1,300",
+      "perDay": "$115-186",
+      "currency": "THB",
+      "totalThb": "28,000-45,500"
+    },
+    "luxury": {
+      "total": "$2,000-4,000",
+      "perDay": "$286-572",
+      "currency": "THB",
+      "totalThb": "70,000-140,000"
+    }
+  },
+  "bestTimeToVisit": "November tot april",
+  "days": [
+    {
+      "day": 1,
+      "title": {
+        "en": "Arrive in Phuket & Kata Beach",
+        "nl": "Aankomst in Phuket & Kata Beach"
+      },
+      "city": "Phuket",
+      "activities": [
+        {
+          "name": {
+            "en": "Kata Beach Relaxation",
+            "nl": "Kata Beach Ontspanning"
+          },
+          "duration": "3 uur",
+          "cost": "Gratis (ligbed 200/dag)",
+          "type": "strand",
+          "tip": {
+            "en": "One of Phuket's best beaches for swimming. Less crowded than Patong with a relaxed family-friendly vibe.",
+            "nl": "Een van Phuket's beste stranden om te zwemmen. Minder druk dan Patong met een ontspannen familievriendelijke sfeer."
+          }
+        },
+        {
+          "name": {
+            "en": "Karon Viewpoint",
+            "nl": "Karon Viewpoint"
+          },
+          "duration": "30 minuten",
+          "cost": "Gratis",
+          "type": "natuur",
+          "tip": {
+            "en": "Panoramic views of three beaches (Kata Noi, Kata, and Karon). Best at sunset.",
+            "nl": "Panoramisch uitzicht op drie stranden (Kata Noi, Kata en Karon). Mooiste bij zonsondergang."
+          }
+        },
+        {
+          "name": {
+            "en": "Phuket Old Town Dinner",
+            "nl": "Phuket Old Town Diner"
+          },
+          "duration": "2 uur",
+          "cost": "Gratis (eten 150-400)",
+          "type": "eten",
+          "tip": {
+            "en": "Explore the charming Sino-Portuguese streets and dine at One Chun or Raya restaurant for authentic Phuket cuisine.",
+            "nl": "Verken de charmante Sino-Portugese straten en dineer bij One Chun of Raya restaurant voor authentieke Phuket keuken."
+          }
+        }
+      ],
+      "meals": {
+        "breakfast": {
+          "en": "Fresh Roti with banana and Nutella at the airport (30-60 baht)",
+          "nl": "Verse Roti met banaan en Nutella op het vliegveld (30-60 baht)"
+        },
+        "lunch": {
+          "en": "Beachfront restaurant at Kata (150-300 baht)",
+          "nl": "Strandfront restaurant in Kata (150-300 baht)"
+        },
+        "dinner": {
+          "en": "One Chun in Old Town for authentic Phuket food (150-350 baht)",
+          "nl": "One Chun in Old Town voor authentiek Phuket eten (150-350 baht)"
+        }
+      },
+      "accommodation": {
+        "budget": {
+          "en": "Guesthouse near Kata Beach (500-900/night)",
+          "nl": "Guesthouse bij Kata Beach (500-900/nacht)"
+        },
+        "midrange": {
+          "en": "Hotel in Kata Beach (1,500-3,500/night)",
+          "nl": "Hotel in Kata Beach (1.500-3.500/nacht)"
+        },
+        "luxury": {
+          "en": "The Shore at Katathani (8,000-20,000/night)",
+          "nl": "The Shore at Katathani (8.000-20.000/nacht)"
+        }
+      },
+      "transport": {
+        "en": "Airport taxi to Kata: 700-900 baht. Or airport minibus: 200 baht.",
+        "nl": "Vliegveld taxi naar Kata: 700-900 baht. Of vliegveld minibus: 200 baht."
+      }
+    },
+    {
+      "day": 2,
+      "title": {
+        "en": "Phi Phi Islands Day Trip",
+        "nl": "Phi Phi Eilanden Dagtrip"
+      },
+      "city": "Phuket",
+      "activities": [
+        {
+          "name": {
+            "en": "Phi Phi Islands Speedboat Tour",
+            "nl": "Phi Phi Eilanden Speedboottour"
+          },
+          "duration": "8-10 uur",
+          "cost": "1.500-3.500 (€41-97)",
+          "type": "avontuur",
+          "tip": {
+            "en": "Full day visiting Maya Bay, Pileh Lagoon, Monkey Beach, Viking Cave, and Bamboo Island. Speedboat recommended over ferry for more time at each spot.",
+            "nl": "Hele dag bezoek aan Maya Bay, Pileh Lagoon, Monkey Beach, Viking Cave en Bamboo Island. Speedboot aanbevolen boven veerboot voor meer tijd op elke plek."
+          }
+        },
+        {
+          "name": {
+            "en": "Snorkeling at Multiple Spots",
+            "nl": "Snorkelen op Meerdere Plekken"
+          },
+          "duration": "Inbegrepen in tour",
+          "cost": "Inbegrepen",
+          "type": "avontuur",
+          "tip": {
+            "en": "Equipment provided. Look for clownfish, parrotfish, and coral gardens.",
+            "nl": "Uitrusting inbegrepen. Zoek naar clownvissen, papegaaivissen en koraaltuinen."
+          }
+        },
+        {
+          "name": {
+            "en": "Maya Bay Swimming",
+            "nl": "Maya Bay Zwemmen"
+          },
+          "duration": "Inbegrepen in tour",
+          "cost": "400 (€11) parkfee",
+          "type": "natuur",
+          "tip": {
+            "en": "Limited daily visitors since restoration. Early tours have the best chance of uncrowded experience.",
+            "nl": "Beperkt dagelijks bezoekersaantal sinds restauratie. Vroege tours hebben de beste kans op een ondrukke ervaring."
+          }
+        }
+      ],
+      "meals": {
+        "breakfast": {
+          "en": "Early hotel breakfast (tours depart 7-8 AM)",
+          "nl": "Vroeg hotelontbijt (tours vertrekken 7-8 uur)"
+        },
+        "lunch": {
+          "en": "Buffet lunch on Phi Phi Don (included)",
+          "nl": "Buffetlunch op Phi Phi Don (inbegrepen)"
+        },
+        "dinner": {
+          "en": "Thai-Italian fusion at Capannina in Kata (300-600 baht)",
+          "nl": "Thais-Italiaanse fusie bij Capannina in Kata (300-600 baht)"
+        }
+      },
+      "accommodation": {
+        "budget": {
+          "en": "Guesthouse near Kata (500-900/night)",
+          "nl": "Guesthouse bij Kata (500-900/nacht)"
+        },
+        "midrange": {
+          "en": "Hotel in Kata Beach (1,500-3,500/night)",
+          "nl": "Hotel in Kata Beach (1.500-3.500/nacht)"
+        },
+        "luxury": {
+          "en": "Kata Rocks (8,000-20,000/night)",
+          "nl": "Kata Rocks (8.000-20.000/nacht)"
+        }
+      },
+      "transport": {
+        "en": "Tour includes hotel pickup and drop-off.",
+        "nl": "Tour inclusief hotel ophalen en terugbrengen."
+      }
+    },
+    {
+      "day": 3,
+      "title": {
+        "en": "James Bond Island & Phang Nga Bay",
+        "nl": "James Bond Eiland & Phang Nga Baai"
+      },
+      "city": "Phuket",
+      "activities": [
+        {
+          "name": {
+            "en": "Phang Nga Bay & James Bond Island Tour",
+            "nl": "Phang Nga Baai & James Bond Eiland Tour"
+          },
+          "duration": "8-9 uur",
+          "cost": "1.500-3.000 (€41-83)",
+          "type": "avontuur",
+          "tip": {
+            "en": "Visit the iconic limestone needle (Koh Tapu) from The Man with the Golden Gun. Kayak through sea caves and mangroves. One of Thailand's most scenic day trips.",
+            "nl": "Bezoek de iconische kalksteennaald (Koh Tapu) uit The Man with the Golden Gun. Kajak door zeerutten en mangroves. Een van Thailand's meest schilderachtige dagtripjes."
+          }
+        },
+        {
+          "name": {
+            "en": "Sea Cave Kayaking",
+            "nl": "Zeegrot Kajakken"
+          },
+          "duration": "Inbegrepen in tour",
+          "cost": "Inbegrepen",
+          "type": "avontuur",
+          "tip": {
+            "en": "Paddle through limestone caves and hidden lagoons (hongs). Magical experience at any tide level.",
+            "nl": "Peddel door kalksteengrotten en verborgen lagunes (hongs). Magische ervaring bij elk getij."
+          }
+        },
+        {
+          "name": {
+            "en": "Koh Panyee Floating Village",
+            "nl": "Koh Panyee Drijvend Dorp"
+          },
+          "duration": "Inbegrepen in tour",
+          "cost": "Inbegrepen",
+          "type": "cultureel",
+          "tip": {
+            "en": "Muslim fishing village built entirely on stilts. Lunch is usually served here. The community has lived here for over 200 years.",
+            "nl": "Moslim vissersdorp geheel gebouwd op palen. Lunch wordt hier meestal geserveerd. De gemeenschap leeft hier al meer dan 200 jaar."
+          }
+        }
+      ],
+      "meals": {
+        "breakfast": {
+          "en": "Hotel breakfast (tours depart 7:30-8:30 AM)",
+          "nl": "Hotelontbijt (tours vertrekken 7:30-8:30 uur)"
+        },
+        "lunch": {
+          "en": "Lunch at Koh Panyee floating village (included in tour)",
+          "nl": "Lunch bij Koh Panyee drijvend dorp (inbegrepen in tour)"
+        },
+        "dinner": {
+          "en": "Sunset dinner at After Beach Bar in Kata (200-500 baht)",
+          "nl": "Zonsondergangdiner bij After Beach Bar in Kata (200-500 baht)"
+        }
+      },
+      "accommodation": {
+        "budget": {
+          "en": "Guesthouse near Kata (500-900/night)",
+          "nl": "Guesthouse bij Kata (500-900/nacht)"
+        },
+        "midrange": {
+          "en": "Hotel in Kata or Karon (1,500-3,500/night)",
+          "nl": "Hotel in Kata of Karon (1.500-3.500/nacht)"
+        },
+        "luxury": {
+          "en": "Trisara Phuket (15,000-35,000/night)",
+          "nl": "Trisara Phuket (15.000-35.000/nacht)"
+        }
+      },
+      "transport": {
+        "en": "Tour includes hotel pickup.",
+        "nl": "Tour inclusief hotel ophalen."
+      }
+    },
+    {
+      "day": 4,
+      "title": {
+        "en": "Beach Day & Transfer to Krabi",
+        "nl": "Stranddag & Transfer naar Krabi"
+      },
+      "city": "Krabi",
+      "activities": [
+        {
+          "name": {
+            "en": "Morning at Karon Beach",
+            "nl": "Ochtend bij Karon Beach"
+          },
+          "duration": "2 uur",
+          "cost": "Gratis",
+          "type": "strand",
+          "tip": {
+            "en": "Wide, long beach with fewer crowds. Great for a morning swim before heading to Krabi.",
+            "nl": "Breed, lang strand met minder drukte. Geweldig voor een ochtendzwempartij voor vertrek naar Krabi."
+          }
+        },
+        {
+          "name": {
+            "en": "Transfer to Krabi (Ao Nang)",
+            "nl": "Transfer naar Krabi (Ao Nang)"
+          },
+          "duration": "2,5-3 uur",
+          "cost": "300-600 (€8-17)",
+          "type": "vervoer",
+          "tip": {
+            "en": "Minivan or ferry from Phuket. Afternoon departure lets you enjoy a morning beach session.",
+            "nl": "Minibus of veerboot vanaf Phuket. Middagvertrek laat je genieten van een ochtendsessie op het strand."
+          }
+        },
+        {
+          "name": {
+            "en": "Ao Nang Beach Walk",
+            "nl": "Ao Nang Strandwandeling"
+          },
+          "duration": "1,5 uur",
+          "cost": "Gratis",
+          "type": "strand",
+          "tip": {
+            "en": "Walk the beachfront promenade as the sun sets. Limestone karsts make a dramatic backdrop.",
+            "nl": "Wandel over de strandboulevard terwijl de zon ondergaat. Kalksteenkarsten vormen een dramatisch decor."
+          }
+        },
+        {
+          "name": {
+            "en": "Ao Nang Night Market",
+            "nl": "Ao Nang Nachtmarkt"
+          },
+          "duration": "1,5 uur",
+          "cost": "Gratis entree (eten extra)",
+          "type": "eten",
+          "tip": {
+            "en": "Small but charming night market with great seafood BBQ stalls and fresh fruit shakes.",
+            "nl": "Kleine maar charmante nachtmarkt met geweldige zeevruichten BBQ kraampjes en verse fruitmilkshakes."
+          }
+        }
+      ],
+      "meals": {
+        "breakfast": {
+          "en": "Hotel breakfast in Phuket",
+          "nl": "Hotelontbijt in Phuket"
+        },
+        "lunch": {
+          "en": "En route or upon arrival in Ao Nang (80-200 baht)",
+          "nl": "Onderweg of bij aankomst in Ao Nang (80-200 baht)"
+        },
+        "dinner": {
+          "en": "Night market street food in Ao Nang (100-250 baht)",
+          "nl": "Nachtmarkt straateten in Ao Nang (100-250 baht)"
+        }
+      },
+      "accommodation": {
+        "budget": {
+          "en": "Guesthouse in Ao Nang (400-800/night)",
+          "nl": "Guesthouse in Ao Nang (400-800/nacht)"
+        },
+        "midrange": {
+          "en": "Hotel in Ao Nang (1,500-3,500/night)",
+          "nl": "Hotel in Ao Nang (1.500-3.500/nacht)"
+        },
+        "luxury": {
+          "en": "Sofitel Krabi Phokeethra (6,000-15,000/night)",
+          "nl": "Sofitel Krabi Phokeethra (6.000-15.000/nacht)"
+        }
+      },
+      "transport": {
+        "en": "Minivan Phuket to Krabi: 300-600 baht. Ferry: 400-800 baht.",
+        "nl": "Minibus Phuket naar Krabi: 300-600 baht. Veerboot: 400-800 baht."
+      }
+    },
+    {
+      "day": 5,
+      "title": {
+        "en": "Railay Beach Full Day",
+        "nl": "Railay Beach Hele Dag"
+      },
+      "city": "Krabi",
+      "activities": [
+        {
+          "name": {
+            "en": "Longtail Boat to Railay",
+            "nl": "Longtailboot naar Railay"
+          },
+          "duration": "15 minuten",
+          "cost": "200 (€6) retour",
+          "type": "vervoer",
+          "tip": {
+            "en": "One of the world's most beautiful beaches, surrounded by towering limestone cliffs. Only accessible by boat.",
+            "nl": "Een van 's werelds mooiste stranden, omringd door torenhoge kalkstenen kliffen. Alleen bereikbaar per boot."
+          }
+        },
+        {
+          "name": {
+            "en": "Phra Nang Cave Beach",
+            "nl": "Phra Nang Cave Beach"
+          },
+          "duration": "2-3 uur",
+          "cost": "Gratis",
+          "type": "strand",
+          "tip": {
+            "en": "The most spectacular beach in Krabi. Limestone cave with a shrine, crystal clear water, and stunning rock formations.",
+            "nl": "Het meest spectaculaire strand in Krabi. Kalksteengrot met een schrijn, kristalhelder water en prachtige rotsformaties."
+          }
+        },
+        {
+          "name": {
+            "en": "Rock Climbing at Tonsai",
+            "nl": "Rotsklimmen bij Tonsai"
+          },
+          "duration": "3 uur",
+          "cost": "1.000-2.500 (€28-69)",
+          "type": "avontuur",
+          "tip": {
+            "en": "World-famous climbing on limestone karsts. Beginner courses available. All equipment provided.",
+            "nl": "Wereldberoemd klimmen op kalksteenkarsten. Beginnerscursussen beschikbaar. Alle uitrusting inbegrepen."
+          }
+        },
+        {
+          "name": {
+            "en": "Railay Viewpoint & Lagoon",
+            "nl": "Railay Viewpoint & Lagune"
+          },
+          "duration": "1,5 uur",
+          "cost": "Gratis",
+          "type": "natuur",
+          "tip": {
+            "en": "Adventurous hike through jungle to a hidden lagoon and viewpoint. Muddy and steep but rewarding.",
+            "nl": "Avontuurlijke wandeling door jungle naar een verborgen lagune en uitzichtpunt. Modderig en steil maar belonend."
+          }
+        }
+      ],
+      "meals": {
+        "breakfast": {
+          "en": "Breakfast at Ao Nang hotel (or eat at Railay)",
+          "nl": "Ontbijt bij Ao Nang hotel (of eet bij Railay)"
+        },
+        "lunch": {
+          "en": "Thai food at a Railay restaurant with sea views (150-300 baht)",
+          "nl": "Thais eten bij een Railay restaurant met zeezicht (150-300 baht)"
+        },
+        "dinner": {
+          "en": "Sunset dinner at The Grotto, Railay (400-800 baht)",
+          "nl": "Zonsondergangdiner bij The Grotto, Railay (400-800 baht)"
+        }
+      },
+      "accommodation": {
+        "budget": {
+          "en": "Bungalow on Railay East or Tonsai (600-1,200/night)",
+          "nl": "Bungalow op Railay East of Tonsai (600-1.200/nacht)"
+        },
+        "midrange": {
+          "en": "Railay Village Resort (2,000-4,000/night)",
+          "nl": "Railay Village Resort (2.000-4.000/nacht)"
+        },
+        "luxury": {
+          "en": "Rayavadee Resort (12,000-30,000/night)",
+          "nl": "Rayavadee Resort (12.000-30.000/nacht)"
+        }
+      },
+      "transport": {
+        "en": "Longtail boat Ao Nang to Railay: 100-200 baht each way.",
+        "nl": "Longtailboot Ao Nang naar Railay: 100-200 baht enkele reis."
+      }
+    },
+    {
+      "day": 6,
+      "title": {
+        "en": "Four Islands Tour",
+        "nl": "Vier Eilanden Tour"
+      },
+      "city": "Krabi",
+      "activities": [
+        {
+          "name": {
+            "en": "Four Islands Tour by Longtail Boat",
+            "nl": "Vier Eilanden Tour per Longtailboot"
+          },
+          "duration": "7-8 uur",
+          "cost": "800-1.800 (€22-50)",
+          "type": "avontuur",
+          "tip": {
+            "en": "Visit Koh Tup, Koh Mor (connected by sandbar at low tide), Koh Poda, and Phra Nang Cave Beach. Longtail boat is the most authentic way.",
+            "nl": "Bezoek Koh Tup, Koh Mor (verbonden door zandbank bij eb), Koh Poda en Phra Nang Cave Beach. Longtailboot is de meest authentieke manier."
+          }
+        },
+        {
+          "name": {
+            "en": "Walking the Sandbar (Koh Tup to Koh Mor)",
+            "nl": "Wandelen over de Zandbank (Koh Tup naar Koh Mor)"
+          },
+          "duration": "Inbegrepen in tour",
+          "cost": "Inbegrepen",
+          "type": "natuur",
+          "tip": {
+            "en": "At low tide, a sandbar appears connecting the two islands. Check tide times - this only works at specific hours.",
+            "nl": "Bij eb verschijnt een zandbank die de twee eilanden verbindt. Controleer getijden - dit werkt alleen op specifieke tijden."
+          }
+        },
+        {
+          "name": {
+            "en": "Snorkeling at Koh Poda",
+            "nl": "Snorkelen bij Koh Poda"
+          },
+          "duration": "Inbegrepen in tour",
+          "cost": "Inbegrepen",
+          "type": "avontuur",
+          "tip": {
+            "en": "Beautiful coral reef and clear water. Snorkeling gear usually included in tour price.",
+            "nl": "Prachtig koraalrif en helder water. Snorkeluitrusting meestal inbegrepen in de tourprijs."
+          }
+        },
+        {
+          "name": {
+            "en": "Sunset at Ao Nang Beach",
+            "nl": "Zonsondergang bij Ao Nang Beach"
+          },
+          "duration": "1 uur",
+          "cost": "Gratis",
+          "type": "strand",
+          "tip": {
+            "en": "Return from the tour and watch another stunning Andaman sunset from Ao Nang's beachfront bars.",
+            "nl": "Terug van de tour en bekijk nog een prachtige Andaman zonsondergang vanaf de strandfront bars van Ao Nang."
+          }
+        }
+      ],
+      "meals": {
+        "breakfast": {
+          "en": "Hotel breakfast before tour departure",
+          "nl": "Hotelontbijt voor tourvertrek"
+        },
+        "lunch": {
+          "en": "Beach picnic lunch on Koh Poda (usually included in tour)",
+          "nl": "Strandpicknick lunch op Koh Poda (meestal inbegrepen in tour)"
+        },
+        "dinner": {
+          "en": "Seafood BBQ at Ao Nang beachfront (200-500 baht)",
+          "nl": "Zeevruichten BBQ bij Ao Nang strandfront (200-500 baht)"
+        }
+      },
+      "accommodation": {
+        "budget": {
+          "en": "Guesthouse in Ao Nang (400-800/night)",
+          "nl": "Guesthouse in Ao Nang (400-800/nacht)"
+        },
+        "midrange": {
+          "en": "Hotel in Ao Nang (1,500-3,500/night)",
+          "nl": "Hotel in Ao Nang (1.500-3.500/nacht)"
+        },
+        "luxury": {
+          "en": "Phulay Bay, Ritz-Carlton Reserve (15,000-35,000/night)",
+          "nl": "Phulay Bay, Ritz-Carlton Reserve (15.000-35.000/nacht)"
+        }
+      },
+      "transport": {
+        "en": "Tour includes pickup. Longtail boats depart from Ao Nang beach.",
+        "nl": "Tour inclusief ophalen. Longtailboten vertrekken vanaf Ao Nang strand."
+      }
+    },
+    {
+      "day": 7,
+      "title": {
+        "en": "Emerald Pool, Hot Springs & Farewell",
+        "nl": "Emerald Pool, Warmwaterbronnen & Afscheid"
+      },
+      "city": "Krabi",
+      "activities": [
+        {
+          "name": {
+            "en": "Emerald Pool (Sa Morakot)",
+            "nl": "Emerald Pool (Sa Morakot)"
+          },
+          "duration": "1,5 uur",
+          "cost": "200 (€6)",
+          "type": "natuur",
+          "tip": {
+            "en": "Arrive early (8-9 AM) to swim in this crystal clear natural pool before the crowds. Walk further to find the Blue Pool.",
+            "nl": "Kom vroeg (8-9 uur) om te zwemmen in dit kristalheldere natuurlijke zwembad voor de drukte. Loop verder om de Blue Pool te vinden."
+          }
+        },
+        {
+          "name": {
+            "en": "Klong Thom Hot Springs",
+            "nl": "Klong Thom Warmwaterbronnen"
+          },
+          "duration": "1 uur",
+          "cost": "200 (€6)",
+          "type": "natuur",
+          "tip": {
+            "en": "Natural jungle hot springs near the Emerald Pool. Soak in 40-42 degree water surrounded by rainforest.",
+            "nl": "Natuurlijke jungle warmwaterbronnen bij de Emerald Pool. Week in 40-42 graden water omringd door regenwoud."
+          }
+        },
+        {
+          "name": {
+            "en": "Tiger Cave Temple (Wat Tham Suea)",
+            "nl": "Tiger Cave Tempel (Wat Tham Suea)"
+          },
+          "duration": "2 uur",
+          "cost": "Gratis",
+          "type": "cultureel",
+          "tip": {
+            "en": "1,237 steps to the top with a golden Buddha and panoramic views. A challenging but unforgettable climb.",
+            "nl": "1.237 treden naar de top met een gouden Boeddha en panoramisch uitzicht. Een uitdagende maar onvergetelijke klim."
+          }
+        },
+        {
+          "name": {
+            "en": "Final Sunset at Ao Nang",
+            "nl": "Laatste Zonsondergang bij Ao Nang"
+          },
+          "duration": "1 uur",
+          "cost": "Gratis",
+          "type": "strand",
+          "tip": {
+            "en": "One last Andaman sunset from Last Bar or a beachfront restaurant.",
+            "nl": "Een laatste Andaman zonsondergang vanaf Last Bar of een strandfront restaurant."
+          }
+        }
+      ],
+      "meals": {
+        "breakfast": {
+          "en": "Early breakfast at hotel (60-150 baht)",
+          "nl": "Vroeg ontbijt in hotel (60-150 baht)"
+        },
+        "lunch": {
+          "en": "Local restaurant near Emerald Pool (80-200 baht)",
+          "nl": "Lokaal restaurant bij Emerald Pool (80-200 baht)"
+        },
+        "dinner": {
+          "en": "Farewell seafood dinner at Lae Lay Grill (400-800 baht)",
+          "nl": "Afscheids zeevruchtendiner bij Lae Lay Grill (400-800 baht)"
+        }
+      },
+      "accommodation": {
+        "budget": {
+          "en": "Guesthouse in Ao Nang (400-800/night)",
+          "nl": "Guesthouse in Ao Nang (400-800/nacht)"
+        },
+        "midrange": {
+          "en": "Hotel in Ao Nang (1,500-3,500/night)",
+          "nl": "Hotel in Ao Nang (1.500-3.500/nacht)"
+        },
+        "luxury": {
+          "en": "Sofitel Krabi (6,000-15,000/night)",
+          "nl": "Sofitel Krabi (6.000-15.000/nacht)"
+        }
+      },
+      "transport": {
+        "en": "Hire taxi for day trip to Emerald Pool, Hot Springs, and Tiger Cave: 1,500-2,000 baht. Krabi airport is 30 minutes from Ao Nang (taxi 500-700 baht).",
+        "nl": "Huur taxi voor dagtrip naar Emerald Pool, Warmwaterbronnen en Tiger Cave: 1.500-2.000 baht. Krabi vliegveld is 30 minuten van Ao Nang (taxi 500-700 baht)."
+      }
+    }
+  ],
+  "transportBetweenCities": [
+    {
+      "from": "Phuket",
+      "to": "Krabi",
+      "options": [
+        {
+          "mode": "bus",
+          "duration": "3-4 uur",
+          "cost": "200-400"
+        },
+        {
+          "mode": "taxi",
+          "duration": "2,5-3 uur",
+          "cost": "2,000-2,500"
+        },
+        {
+          "mode": "ferry",
+          "duration": "2-3 uur",
+          "cost": "400-800"
+        }
+      ]
+    }
+  ],
+  "packingTips": {
+    "en": [
+      "Rifvriendelijke zonnebrandcrème (essentieel!)",
+      "Meerdere badpakken",
+      "Rashguard voor zonbescherming",
+      "Waterdicht telefoonhoesje",
+      "Droogtas voor boottochten",
+      "Waterschoenen",
+      "Snorkelmasker (tours bieden maar eigen is beter)",
+      "Lichte wandelschoenen voor Tiger Cave",
+      "Insectenwerend middel voor junglegebieden"
+    ],
+    "nl": [
+      "Rifvriendelijke zonnebrand (essentieel!)",
+      "Meerdere zwempakken",
+      "Rashguard voor zonbescherming",
+      "Waterdicht telefoonhoesje",
+      "Droge tas voor boottochten",
+      "Watershoenen",
+      "Snorkelmasker (tours bieden maar eigen is beter)",
+      "Lichte wandelschoenen voor Tiger Cave",
+      "Insectenwerend middel voor junglegebieden"
+    ]
+  },
+  "seo": {
+    "metaTitle": {
+      "en": "7 Days Island Hopping Thailand Itinerary 2026: Phuket to Krabi",
+      "nl": "7 Dagen Eilandhoppen Thailand Reisschema 2026: Phuket naar Krabi"
+    },
+    "metaDescription": {
+      "en": "Ultimate 7-day island hopping itinerary for Thailand 2026. Phi Phi Islands, Railay Beach, James Bond Island, and Four Islands Tour with daily costs.",
+      "nl": "Ultiem 7-daags eilandhoppen reisschema voor Thailand 2026. Phi Phi Eilanden, Railay Beach, James Bond Eiland en Vier Eilanden Tour met dagelijkse kosten."
+    }
+  },
+  "tags": [
+    "Phuket",
+    "Krabi",
+    "7 dagen",
+    "eilandhoppen",
+    "stranden",
+    "Phi Phi",
+    "Railay",
+    "James Bond Island",
+    "snorkelen",
+    "duiken"
+  ]
+}

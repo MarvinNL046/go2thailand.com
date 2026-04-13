@@ -1,0 +1,668 @@
+{
+  "id": 20,
+  "slug": "phitsanulok",
+  "name": {
+    "en": "Phitsanulok",
+    "nl": "Phitsanulok",
+    "ja": "ピッサヌローク",
+    "ko": "핏사눌록",
+    "th": "พิษณุโลก",
+    "de": "Phitsanulok",
+    "fr": "Phitsanulok",
+    "ru": "Phitsanulok",
+    "zh": "Phitsanulok"
+  },
+  "region": "Noordelijk",
+  "province": "Phitsanulok",
+  "description": {
+    "en": "Phitsanulok works best as a Lower Northern city with a compact temple-and-river core first, then one deliberate outer nature day such as Phu Hin Rong Kla. Wat Phra Si Rattana Mahathat, Wat Ratchaburana, Wat Nang Phaya, the Nan River evening side, and a handful of old-school local food stops explain the city far better than using it only as a transport gateway.",
+    "nl": "Phitsanulok werkt het best als een stad in Noord-Thailand met eerst een compacte tempel- en rivierskern en daarna hooguit een bewuste natuuruitstap zoals Phu Hin Rong Kla.",
+    "ja": "ピッサヌロークは、交通の通過点として消費するより、ワット・ヤイを軸にした寺院群、ナーン川沿いの夕方の街並み、そして必要ならプーヒンロンカー方面の自然を一つ足す形で組み立てると理解しやすい都市です。",
+    "ko": "핏사눌록은 단순 경유지가 아니라, 왓 야이를 중심으로 한 사원권과 난강 저녁 동선, 그리고 필요하면 푸힌롱끌라 같은 한 가지 외곽 자연 코스로 짜는 편이 훨씬 낫습니다.",
+    "th": "พิษณุโลกเหมาะกับการเที่ยวแบบเริ่มจากแกนเมืองเก่าริมน้ำน่าน วัดสำคัญ และค่อยเพิ่มทริปธรรมชาติอย่างภูหินร่องกล้าเพียงหนึ่งทริป มากกว่าการมองเป็นแค่เมืองผ่านทาง",
+    "de": "Phitsanulok funktioniert am besten als Stadt in Nordthailand mit kompaktem Tempel- und Flusskern und hoechstens einem gezielten Naturausflug wie Phu Hin Rong Kla.",
+    "fr": "Phitsanulok se visite mieux comme une ville du nord inferieur avec un coeur compact de temples et de rive, puis une seule vraie extension nature comme Phu Hin Rong Kla.",
+    "ru": "Пхитсанулок лучше планировать как компактный город Нижнего Севера: храмовое ядро, вечерний берег Нан и максимум одна осмысленная природная вылазка вроде Phu Hin Rong Kla.",
+    "zh": "Phitsanulok 更适合按“寺庙老城核心 + Nan 河傍晚动线 + 一次认真外出自然日”的逻辑来安排，而不是只把它当作交通中转站。"
+  },
+  "population": 84000,
+  "highlights": [
+    "Wat Phra Si Rattana Mahathat (Wat Yai)",
+    "Wat Ratchaburana",
+    "Wat Nang Phaya",
+    "Wat Chulamani",
+    "Phitsanulok Ruamjai Market",
+    "Phu Hin Rong Kla National Park"
+  ],
+  "location": {
+    "lat": 16.8211,
+    "lng": 100.2659
+  },
+  "image": "/images/cities/generated/phitsanulok.webp",
+  "seo": {
+    "metaTitle": {
+      "en": "Phitsanulok Thailand Guide 2026 | Wat Yai, Food, Hotels, Phu Hin Rong Kla",
+      "nl": "Ontdek Phitsanulok | Wat te doen in Phitsanulok?",
+      "ja": "ピッサヌロークを満喫 | ピッサヌロークの観光・見どころガイド",
+      "ko": "핏사눌록 태국 여행 가이드 2026",
+      "th": "พิษณุโลก ประเทศไทย — คู่มือท่องเที่ยวฉบับสมบูรณ์ 2026",
+      "de": "Phitsanulok entdecken | Was tun in Phitsanulok?",
+      "fr": "Découvrez Phitsanulok | Que faire à Phitsanulok ?",
+      "ru": "Откройте для себя Фитсанулок | Что сделать во Фитсанулоке?",
+      "zh": "探索 Phitsanulok | 在 Phitsanulok 可以做什么？"
+    },
+    "metaDescription": {
+      "en": "Plan Phitsanulok around Wat Yai, Wat Ratchaburana, Wat Nang Phaya, the Nan River market side, and one deliberate Phu Hin Rong Kla day.",
+      "nl": "Jouw gids voor Phitsanulok, Thailand – tips, highlights, eten en hotels.",
+      "ja": "タイ・ピッサヌロークの旅行ガイド — ワット・ヤイ、寺院群、ナーン川沿い、食、ホテル情報を整理して紹介します。",
+      "ko": "왓 야이, 랏차부라나, 난강 저녁 동선, 푸힌롱끌라 일정까지 한 번에 정리한 핏사눌록 여행 가이드입니다.",
+      "th": "วางแผนพิษณุโลกด้วยวัดใหญ่ วัดราชบูรณะ วัดนางพญา ตลาดเย็นริมแม่น้ำน่าน และวันธรรมชาติที่ภูหินร่องกล้า",
+      "de": "Planen Sie Phitsanulok rund um Wat Yai, Wat Ratchaburana, die Flussseite, Essen und einen gezielten Tag in Phu Hin Rong Kla.",
+      "fr": "Organisez Phitsanulok autour de Wat Yai, Wat Ratchaburana, du soir au bord de la Nan, de la gastronomie et d'une journee a Phu Hin Rong Kla.",
+      "ru": "Планируйте Пхитсанулок вокруг Wat Yai, храмового ядра, вечернего берега Нан, локальной еды и одного дня в Phu Hin Rong Kla.",
+      "zh": "把 Phitsanulok 的行程围绕 Wat Yai、寺庙核心、Nan 河傍晚市场和一次 Phu Hin Rong Kla 外出日来安排。"
+    }
+  },
+  "categories": {
+    "food": {
+      "en": "Best restaurants and local food in Phitsanulok",
+      "nl": "Beste restaurants en lokaal eten in Phitsanulok",
+      "ja": "ピッサヌロークのおすすめレストランとローカルフード",
+      "ko": "핏사눌록 추천 레스토랑과 로컬 음식",
+      "th": "ร้านอาหารและของกินท้องถิ่นที่ดีที่สุดในพิษณุโลก"
+    },
+    "hotels": {
+      "en": "Top hotels in Phitsanulok | Tips & deals",
+      "nl": "Beste hotels in Phitsanulok | Tips & aanbiedingen",
+      "ja": "ピッサヌロークのおすすめホテル｜お得な情報＆アドバイス",
+      "ko": "핏사눌록 추천 호텔 | 팁 & 특가",
+      "th": "โรงแรมแนะนำในพิษณุโลก | เคล็ดลับและดีล"
+    },
+    "attractions": {
+      "en": "Top attractions in Phitsanulok",
+      "nl": "Top bezienswaardigheden in Phitsanulok",
+      "ja": "ピッサヌロークの人気観光スポット",
+      "ko": "핏사눌록 인기 관광 명소",
+      "th": "สถานที่ท่องเที่ยวยอดนิยมในพิษณุโลก"
+    }
+  },
+  "tags": [
+    "noordelijk",
+    "phitsanulok",
+    "wat-yai",
+    "nan-river",
+    "phu-hin-rong-kla",
+    "thailand"
+  ],
+  "enhanced_description": "Phitsanulok wordt minder aantrekkelijk als het wordt verkocht als een generieke doorgang tussen Bangkok, Sukhothai en het noorden. De sterkere versie begint in de stad zelf: Wat Phra Si Rattana Mahathat voor het beeld van Phra Buddha Chinnarat, de korte tempelreeks rond Wat Ratchaburana en Wat Nang Phaya, dan de Nan River en de marktkant voor het avondeten ritme dat de plek voorkomt om alleen als dagstop te voelen.\n\nDiezelfde redactie-regel geldt voor de bredere provincie. Wat Chulamani is de schoonste extra tempel zodra de oude kern is gedaan, maar de ene uitbreiding buiten de stad die de reis echt verandert is Phu Hin Rong Kla National Park. TAT behandelt het nog steeds via zijn ongebruikelijke rotsachtige terrein, koel-weer landschap en historische bergcontext, wat het een betere besteding van een hele dag maakt dan het vullen van de reisroute met willekeurige provinciale pins.\n\nHotelkeuze zou dezelfde logica moeten volgen. Verblijf nabij de oude-kern rivierkant als tempeltoegang en wandelbare avonden het belangrijkste zijn, of gebruik een westkant stadshotel of budgetketen als je vooral een praktische basis wilt voor weg, luchthaven of volgende-dag vervolgreis. Phitsanulok is niet moeilijk te plannen zodra je stopt met proberen het ergens anders te maken.",
+  "overview": "Phitsanulok is een van de makkelijkere steden in het Beneden-Noorden om te begrijpen zodra je stopt met het behandelen als een tussenstop. De historische kern ligt rond de Nan River en de Wat Yai-kant van de stad, waar Wat Phra Si Rattana Mahathat, Wat Ratchaburana en Wat Nang Phaya kunnen worden gezien als één compact erfgoedblok in plaats van geïsoleerde tempelbezoeken. Die cluster is nog steeds de sterkste eerste halve dag omdat het zowel de religieuze importantie van de stad als zijn oudere stedelijke vorm uitlegt.\n\nDe avondlaag doet er bijna evenveel toe. TAT's Phitsanulok-materiaal behandelt de Ruamjai Market en de bredere nachtmarkt-kant nog steeds als een praktische manier om lokaal eten te begrijpen, en dat is een betere framing dan proberen willekeurige cafés te rangschikken of reviewplatforms af te schrapen. Hier voelt Phitsanulok als een bewoonde stad in plaats van een historische voetnoot.\n\nDaarna heeft de provincie terughoudendheid nodig. Wat Chulamani is een waardevolle secundaire tempel als je nog één religieuze stop wilt zonder Mueang Phitsanulok te verlaten, terwijl Phu Hin Rong Kla de enige echte hele-dag natuur richting is die de rit verdient. De stad wordt veel sterker als die lagen bewust blijven in plaats van een overladen lijst te worden.",
+  "hidden_gems": [
+    {
+      "name": "Buranathai Buddha Making Factory",
+      "why_special": "Het geeft de stad een werkende ambachtslaag die natuurlijk past bij Wat Yai en de oude tempelwijk in plaats van te voelen als een los museumstop.",
+      "local_tip": "Gebruik het alleen als je al de oude-stad erfgoedreeks doet, niet als een aparte kruis-stad omweg.",
+      "best_time": "Laat in de ochtend of vroeg in de middag",
+      "href": "/city/phitsanulok/top-10-attractions/",
+      "cta_label": "Zie de bezienswaardigheden gids"
+    },
+    {
+      "name": "Sergeant Major Thawee Folk Museum",
+      "why_special": "Het is nog steeds een van de duidelijkere oude-school cultuurstops als je gereedschappen, ambacht en provinciale herinnering wilt in plaats van nog een foto-alleen landmark.",
+      "local_tip": "Combineer het met de gieterij of houd het als een selectief museumstop na de lunch, niet als een must-do voor elke korte verblijf.",
+      "best_time": "Middag",
+      "href": "/city/phitsanulok/top-10-attractions/",
+      "cta_label": "Zie de bezienswaardigheden gids"
+    }
+  ],
+  "authentic_experiences": [
+    {
+      "activity": "Behandel Wat Yai, Wat Ratchaburana en Wat Nang Phaya als één compact erfgoedblok",
+      "story": "TAT's huidige en gearchiveerde Phitsanulok-materiaal houdt die tempels nog steeds dicht bij elkaar om een reden: ze lezen het best als één geredigeerde stadskern-reeks, niet als aparte kop-dagen.",
+      "cultural_significance": "Dit is de kortste route die nog steeds uitlegt waarom Phitsanulok religieus en historisch belangrijk is.",
+      "how_to_participate": "Ga in de koelere uren, kleed je proper voor actieve tempels, en houd de route wandelbaar in plaats van transport te overgebruiken.",
+      "insights": [
+        "Dit is de sterkste eerste filter van de stad.",
+        "Wat Ratchaburana en Wat Nang Phaya maken meer zin na Wat Yai, niet ervoor."
+      ],
+      "href": "/city/phitsanulok/attractions/wat-phra-si-rattana-mahathat/",
+      "cta_label": "Zie de Wat Yai gids"
+    },
+    {
+      "activity": "Gebruik de Nan River en marktkant voor de avondmaaltijd in plaats van een review-site diner rangschikking te forceren",
+      "story": "TAT's Phitsanulok nachtmarkt en reisroute stukken houden de marktkant zichtbaar omdat het de echte na-donker ritme van de stad beter weerspiegelt dan generieke top-tien lijsten.",
+      "cultural_significance": "Hier voelt de stad lokaal en actueel in plaats van puur historisch.",
+      "how_to_participate": "Gebruik de markt voor diner of dessert na de tempelronde en houd de avond gecentreerd in de stad.",
+      "insights": [
+        "Een stadmarkt maaltijd voegt meestal meer toe dan nog één formele restaurant boeking.",
+        "De spoorwegstation-kant werkt het best later op de dag."
+      ],
+      "href": "/city/phitsanulok/attractions/phitsanulok-ruamjai-market-and-nan-river/",
+      "cta_label": "Zie de markt gids"
+    },
+    {
+      "activity": "Voeg Wat Chulamani alleen toe als je nog één serieuze tempel wilt na de oude kern",
+      "story": "De TAT-provincie framing houdt Wat Chulamani nog steeds onder de betekenisvolle tempelnamen van de provincie, maar het werkt het best als een gemeten toevoeging in plaats van een vervanging voor de stadskern.",
+      "cultural_significance": "Het voegt religieuze diepte toe zonder de hele dag in een verre provincie lus te trekken.",
+      "how_to_participate": "Gebruik het na de oude-kern tempels of op een tweede ochtend voor vertrek.",
+      "insights": [
+        "Dit is de beste secundaire tempel na de oude-kern trio.",
+        "Laat het niet de Wat Yai of de rivierkant-avond verdringen."
+      ],
+      "href": "/city/phitsanulok/attractions/wat-chulamani/",
+      "cta_label": "Zie de Wat Chulamani gids"
+    },
+    {
+      "activity": "Houd Phu Hin Rong Kla als de enige echte natuur dag",
+      "story": "TAT presenteert Phu Hin Rong Kla nog steeds via Lan Hin Taek, koele bergcondities en voormalige conflict-tijdperk berggeschiedenis, wat het een duidelijkere identiteit geeft dan zwakkere buiten-provincie vulling.",
+      "cultural_significance": "Het is de sterkste manier om een landschap-en-geschiedenis contrast toe te voegen aan het stadverblijf.",
+      "how_to_participate": "Vertrek vroeg, controleer huidige parkcondities, en geef de uitstap een juiste halve dag of hele dag.",
+      "insights": [
+        "Dit is de beste geredigeerde natuur uitbreiding van de provincie.",
+        "Het verdient zijn eigen dag in plaats van gestapeld te worden met meer stadstempels."
+      ],
+      "href": "/city/phitsanulok/attractions/phu-hin-rong-kla-national-park/",
+      "cta_label": "Zie de park gids"
+    }
+  ],
+  "foodie_adventures": [
+    {
+      "dish": "Sukhothai-stijl tom yum noedels nabij de tempelkern",
+      "location": "Hoikha Rimnan Noodles",
+      "story": "TAT's Phitsanulok reisroute markeert Hoikha Rimnan nog steeds als een van de meest praktische tempelkern maaltijdstops en wijst bezoekers expliciet op zijn Sukhothai tom yum noedels.",
+      "where_to_find": "Wat Yai kant van centraal Phitsanulok.",
+      "price_range": "Budget",
+      "ordering_tips": [
+        "Dit is het best gebruikt als een lunchpauze tijdens de oude-stad tempelreeks.",
+        "Houd de stop eenvoudig en stadskern-gericht."
+      ],
+      "href": "/city/phitsanulok/top-10-restaurants/",
+      "cta_label": "Zie de eten gids"
+    },
+    {
+      "dish": "Avondmarkt grazen en dessert stops",
+      "location": "Phitsanulok Ruamjai Market",
+      "story": "TAT's reisroute en nachtmarkt framing houden Ruamjai Market zichtbaar als de meest praktische avondeten laag van de stad nabij de station-kant.",
+      "where_to_find": "Spoorwegstation-kant van Phitsanulok.",
+      "price_range": "Budget",
+      "ordering_tips": [
+        "Gebruik dit voor diner in etappes in plaats van vast te zitten in één grote maaltijd meteen."
+      ],
+      "href": "/city/phitsanulok/top-10-restaurants/",
+      "cta_label": "Zie de eten gids"
+    },
+    {
+      "dish": "Ochtend dumplings, broodjes, noedels en curry's",
+      "location": "Kanokphan Phitsanulok",
+      "story": "TAT's 3-daagse Phitsanulok route presenteert Kanokphan nog steeds als een van de klassiekers voor ontbijt-en-vroeg-lunch van de stad, vooral voor dumplings en broodjes.",
+      "where_to_find": "Phitsanulok stad wegkant ontbijtzone.",
+      "price_range": "Budget",
+      "ordering_tips": [
+        "Ga eerder op de dag en gebruik het als de maaltijd die de stad start in plaats van eindigt."
+      ],
+      "href": "/city/phitsanulok/top-10-restaurants/",
+      "cta_label": "Zie de eten gids"
+    },
+    {
+      "dish": "Rivierkant hotel dineren met een kalmere setting",
+      "location": "Amore Restaurant at Yodia Heritage Hotel",
+      "story": "Yodia's directe site en contactpagina houden Amore Restaurant nog steeds zichtbaar aan de Nan River kant, wat het een betere gepolijste diner toevoeging maakt dan een afgeschraapte anonieme lijst entry.",
+      "where_to_find": "Phutthabucha Road, oude-kern rivierkant.",
+      "price_range": "Middenklasse",
+      "ordering_tips": [
+        "Gebruik dit als je één langzamer zit-diner wilt nabij de oude kern."
+      ],
+      "href": "/city/phitsanulok/top-10-restaurants/",
+      "cta_label": "Zie de eten gids"
+    }
+  ],
+  "local_insights": [
+    "Phitsanulok is sterker als stad op zich dan als Sukhothai overloop basis.",
+    "Wat Yai zou de reis moeten leiden, maar de oude-kern reeks is beter als Wat Ratchaburana en Wat Nang Phaya eraan vast blijven.",
+    "De station-kant nachtmarkt doet meer voor de stad dan nog één generieke restaurant rangschikking te forceren.",
+    "Wat Chulamani is de schoonste extra tempel na de kern, niet de eerste.",
+    "Phu Hin Rong Kla is de enige buiten-provincie omweg die duidelijk een toegewijde dag verdient."
+  ],
+  "seasonal_secrets": "November tot februari is het makkelijkste seizoen overall omdat tempelwandelen, marktavonden en de rit omhoog naar Phu Hin Rong Kla allemaal comfortabeler zijn. Maart tot mei kan nog steeds werken, maar de midday stad hitte verandert Phitsanulok in een vroeg-en-laat schema bestemming. Het regenseizoen kan de provincie groener maken en de park-kant moodyer, maar weg- en padcondities moeten lokaal worden gecontroleerd voordat je de hele dag bouwt rond de berg rit.",
+  "budget_reality": "Phitsanulok is niet moeilijk betaalbaar te houden als je stad-eerst blijft en weerstand biedt aan het overbouwen van de provincie. Kosten blijven bescheiden als het oude-stad tempelblok, lokaal ontbijt of markt maaltijden, en een praktisch hotel het meeste werk doen. De grotere uitgave komt van privévervoer, resort-stijl kamerkeuzes, of een langere park uitstap met extra stops die nooit nodig waren in de eerste plaats.",
+  "top_attractions": [
+    {
+      "rank": 1,
+      "name": "Wat Phra Si Rattana Mahathat (Wat Yai)",
+      "description": "De belangrijkste heilige stop van de stad en nog steeds de duidelijkste reden om een eerste bezoek in Phitsanulok zelf te starten.",
+      "location": "Naresuan Road, centraal oude-stad kant",
+      "entrance_fee": "Tempeltoegang is over het algemeen eenvoudig; donaties en huidige toegang details moeten lokaal worden gecontroleerd",
+      "highlights": [
+        "Phra Buddha Chinnarat beeld",
+        "Belangrijkste stadstempel",
+        "Beste eerste stop"
+      ],
+      "href": "/city/phitsanulok/attractions/wat-phra-si-rattana-mahathat/",
+      "cta_label": "Zie de Wat Yai gids"
+    },
+    {
+      "rank": 2,
+      "name": "Wat Ratchaburana",
+      "description": "De sterkste secundaire tempel na Wat Yai, vooral omdat het dichtbij genoeg ligt om in dezelfde oude-kern wandeling te blijven.",
+      "location": "Nan River kant nabij Wat Yai",
+      "entrance_fee": "Tempel donaties zijn gebruikelijk",
+      "highlights": [
+        "Oude stadskern tempel",
+        "Beste gecombineerd met Wat Yai",
+        "Nan River setting"
+      ],
+      "href": "/city/phitsanulok/attractions/wat-ratchaburana/",
+      "cta_label": "Zie de Wat Ratchaburana gids"
+    },
+    {
+      "rank": 3,
+      "name": "Wat Nang Phaya",
+      "description": "Een compacte oude-kern tempelstop die werkt omdat het textuur toevoegt aan het erfgoedblok zonder zijn eigen aparte reisroute nodig te hebben.",
+      "location": "Tegenover de Wat Ratchaburana kant van de oude kern",
+      "entrance_fee": "Tempel donaties zijn gebruikelijk",
+      "highlights": [
+        "Historische tempel stof",
+        "Makkelijke oude-kern toevoeging",
+        "Beste na Wat Ratchaburana"
+      ],
+      "href": "/city/phitsanulok/attractions/wat-nang-phaya/",
+      "cta_label": "Zie de Wat Nang Phaya gids"
+    },
+    {
+      "rank": 4,
+      "name": "Wat Chulamani",
+      "description": "De beste secundaire tempel zodra de oude kern al is behandeld en je nog één serieuze religieuze stop wilt in Mueang Phitsanulok.",
+      "location": "Tha Thong kant van Mueang Phitsanulok",
+      "entrance_fee": "Tempeltoegang is over het algemeen eenvoudig; controleer lokaal voor speciale-evenement regelingen",
+      "highlights": [
+        "Beste secundaire tempel",
+        "Betekenisvolle toevoeging na de kern",
+        "Nog steeds binnen de stad orbita"
+      ],
+      "href": "/city/phitsanulok/attractions/wat-chulamani/",
+      "cta_label": "Zie de Wat Chulamani gids"
+    },
+    {
+      "rank": 5,
+      "name": "Phitsanulok Ruamjai Market and Nan River evening side",
+      "description": "De meest nuttige avond stad laag omdat het eten, beweging en een actuelere lezing van Phitsanulok toevoegt na de tempels.",
+      "location": "Spoorwegstation en rivierkant avondzone",
+      "entrance_fee": "Publieke markt toegang",
+      "highlights": [
+        "Sterkste avond eten laag",
+        "Station-kant markt ritme",
+        "Beste na de tempelkern"
+      ],
+      "href": "/city/phitsanulok/attractions/phitsanulok-ruamjai-market-and-nan-river/",
+      "cta_label": "Zie de markt gids"
+    },
+    {
+      "rank": 6,
+      "name": "Phu Hin Rong Kla National Park",
+      "description": "De sterkste geredigeerde natuur dag van de provincie, gebouwd rond ongebruikelijk rotsachtig terrein, koele bergcondities en historische bergcontext.",
+      "location": "Phu Hin Rong Kla berggebied",
+      "entrance_fee": "Beschermd-gebied fees kunnen veranderen; verifieer huidige condities voor vertrek",
+      "highlights": [
+        "Lan Hin Taek rotsachtig terrein",
+        "Koel-weer berg contrast",
+        "Beste hele-dag uitbreiding"
+      ],
+      "href": "/city/phitsanulok/attractions/phu-hin-rong-kla-national-park/",
+      "cta_label": "Zie de park gids"
+    }
+  ],
+  "top_restaurants": [
+    {
+      "rank": 1,
+      "name": "Phitsanulok Ruamjai Market",
+      "description": "Het beste eerste-nacht eten plan omdat het de werkelijke avond ritme van de stad beter weerspiegelt dan een afgeschraapte restaurant rangschikking.",
+      "cuisine_type": "Straateten, snacks, desserts en gemengde lokale gerechten",
+      "price_range": "Budget",
+      "highlights": [
+        "TAT-ondersteunde markt keuze",
+        "Station-kant avond eten",
+        "Beste praktische diner laag"
+      ]
+    },
+    {
+      "rank": 2,
+      "name": "Hoikha Rimnan Noodles",
+      "description": "Een sterkere lunch toevoeging dan generieke lijst vulling omdat TAT het nog steeds direct plaatst in de tempelkern eetreeks.",
+      "cuisine_type": "Noedels, Thaise lunch gerechten en desserts",
+      "price_range": "Budget",
+      "highlights": [
+        "TAT reisroute keuze",
+        "Nabij Wat Yai",
+        "Goede lunch stop"
+      ]
+    },
+    {
+      "rank": 3,
+      "name": "Kanokphan Phitsanulok",
+      "description": "Een van de betere ontbijt-stijl toevoegingen omdat TAT het nog steeds frameert rond dumplings, broodjes, noedels en vroeg-dag lokaal ritme.",
+      "cuisine_type": "Ontbijt gerechten, dumplings, broodjes, noedels en curry's",
+      "price_range": "Budget",
+      "highlights": [
+        "TAT reisroute keuze",
+        "Ochtend-vriendelijk",
+        "Oude-school lokaal ontbijt logica"
+      ]
+    },
+    {
+      "rank": 4,
+      "name": "Amore Restaurant",
+      "description": "Een kalmere rivierkant diner optie in Yodia Heritage Hotel als je één gepolijste zit-maaltijd wilt nabij de oude kern.",
+      "cuisine_type": "Hotel dineren en gemengd menu",
+      "price_range": "Middenklasse",
+      "highlights": [
+        "Officieel hotelrestaurant contact",
+        "Locatie aan de Nan-rivier",
+        "Goede verfijnde dineroptie"
+      ]
+    },
+    {
+      "rank": 5,
+      "name": "Chaliang Cuisine",
+      "description": "Een directe restaurantopname van de site die helpt de pagina gegrond te houden bij echte huidige exploitanten in plaats van kopieën vol review-spam.",
+      "cuisine_type": "Thais en internationaal eten de hele dag",
+      "price_range": "Middenklasse",
+      "highlights": [
+        "Officiële restaurantpagina",
+        "Eten de hele dag",
+        "Hotelrestaurant aan de Wat Chan-kant"
+      ]
+    }
+  ],
+  "top_hotels": [
+    {
+      "rank": 1,
+      "name": "Yodia Heritage Hotel",
+      "description": "De duidelijkste rivierlocatie in het oude centrum als tempeltoegang en de historische kant van de stad het belangrijkste zijn.",
+      "price_range": "Middenklasse tot bovengemiddeld middenklasse",
+      "category": "luxe",
+      "highlights": [
+        "Officiële hotelwebsite",
+        "Locatie aan de Nan-rivier",
+        "Hart van het historische deel van de stad"
+      ]
+    },
+    {
+      "rank": 2,
+      "name": "Topland Hotel & Convention Centre",
+      "description": "Een praktische keuze voor een centraal stadshotel als je een volledige service wilt nabij het oude kerngebied zonder volledig resort-stijl.",
+      "price_range": "Middenklasse",
+      "category": "middenklasse",
+      "highlights": [
+        "Officiële hotelwebsite",
+        "Centraal adres",
+        "Eet- en congresfaciliteiten"
+      ]
+    },
+    {
+      "rank": 3,
+      "name": "Pattara Resort & Spa",
+      "description": "De sterkere resort-stijl optie als je een groener eigendomgevoel wilt terwijl je nog steeds binnen de Phitsanulok-stadssfeer blijft.",
+      "price_range": "Bovengemiddeld middenklasse",
+      "category": "luxe",
+      "highlights": [
+        "Officiële hotelwebsite",
+        "Resort-positionering in het stadscentrum",
+        "Meer eigendom-geleide verblijf"
+      ]
+    },
+    {
+      "rank": 4,
+      "name": "Shinnabhura Historic Boutique Hotel",
+      "description": "Een erfgoed-gericht boetiekoptie aan de Wat Chan-kant als je karakter wilt in plaats van een generieke stadskameropzet.",
+      "price_range": "Middenklasse",
+      "category": "middenklasse",
+      "highlights": [
+        "Officiële hotelwebsite",
+        "Historische boetiek-positionering",
+        "Chaliang Cuisine ter plaatse"
+      ]
+    },
+    {
+      "rank": 5,
+      "name": "HOP INN Phitsanulok",
+      "description": "De sterkste eenvoudige budget-ketenbasis als je vooral een betrouwbare kamer nodig hebt voor een kort stadsstop of vervolgreis per weg en trein.",
+      "price_range": "Budget",
+      "category": "budget",
+      "highlights": [
+        "Officiële hotelwebsite",
+        "Betaalbare kamers",
+        "Voorspelbare kortverblijf basis"
+      ]
+    }
+  ],
+  "travel_tips": [
+    "Begin aan de Wat Yai-kant voordat je beslist of de stad nog een tempel, museum of marktafternoon verdient.",
+    "Maak van Phitsanulok geen gehaaste wachtkamer voor Sukhothai. Het oude centrum kan op zichzelf een halve dag of meer rechtvaardigen.",
+    "Gebruik de avondmarktlaag in plaats van elke avond een extra verfijnd diner te forceren.",
+    "Houd Phu Hin Rong Kla als een toegewijde uitstap en controleer de huidige parkcondities voordat je de stad verlaat.",
+    "Kies je hotel op basis van de reisvorm: oude-centrum rivierkant voor erfgoed en avondwandelbaarheid, westkant praktische hotels voor gemak bij vervolgreizen."
+  ],
+  "best_time_to_visit": {
+    "season": "Koel seizoen",
+    "months": "November tot februari",
+    "weather": "Koelere ochtenden, makkelijkere tempelwandelingen en comfortabelere rijomstandigheden voor dagtrips naar de bergkant.",
+    "reasons": "Dit is het schoonste seizoen om het oude tempelcentrum, avondmarkten en één geredigeerde natuuredag te combineren zonder de hele reis om hitte of zware regen te bouwen."
+  },
+  "budget_info": {
+    "daily_budget": {
+      "budget": "Phitsanulok is beheersbaar op een bescheiden budget als je marktmaaltijden, lokale ontbijtstops en een praktische hotelbasis gebruikt.",
+      "mid": "Middenklasse uitgaven betekenen meestal een beter gelegen stadshotel, één rustiger zitdiner en makkelijkere transport voor een dag buiten de provincie.",
+      "luxury": "Hogere uitgaven gaan vooral naar rivier- of resort-stijl kamers en privétransport in plaats van luxe inventaris van de grote stad."
+    }
+  },
+  "thingsToDo": "Begin met Wat Phra Si Rattana Mahathat, houd dan de oude-kern volgorde strak met Wat Ratchaburana en Wat Nang Phaya. Gebruik de Nan-rivier en Ruamjai Market-kant voor de avondmaaltijd en stadssfeer, voeg Wat Chulamani alleen toe als je nog een serieuze tempel wilt, en bewaar de volledige energie buiten de stad voor Phu Hin Rong Kla National Park in plaats van meerdere zwakkere provinciale omwegen op te stapelen.",
+  "whereToStay": "De sterkste eerste basis is meestal het oude centrum of de rivierkant, waar Wat Yai, de Nan-rivier en avondetenstops makkelijker in het verblijf passen. Ga naar de westkant stadshotels of budgetketens als je meer om parkeren, wegtoegang, luchthaven gemak of een kort overnachting met minimale wrijving geeft.",
+  "whereToEat": [
+    {
+      "name": "Phitsanulok Ruamjai Market",
+      "cuisine": "Streetfood en gemengde lokale gerechten",
+      "priceRange": "Budget",
+      "description": "Beste voor een geredigeerde stadavond gebouwd rond markteten in plaats van één vast restaurant."
+    },
+    {
+      "name": "Hoikha Rimnan Noodles",
+      "cuisine": "Noedels en Thaise lunchgerechten",
+      "priceRange": "Budget",
+      "description": "Een praktische lunchstop in het tempelcentrum nabij Wat Yai."
+    },
+    {
+      "name": "Kanokphan Phitsanulok",
+      "cuisine": "Ontbijtgerechten, dumplings, broodjes, noedels en curries",
+      "priceRange": "Budget",
+      "description": "Een nuttige vroege-dag lokale maaltijd als je wilt dat de stad begint met eten, niet alleen tempels."
+    },
+    {
+      "name": "Amore Restaurant",
+      "cuisine": "Hotelrestaurant en gemengd menu",
+      "priceRange": "Middenklasse",
+      "description": "Een rustiger zitdinerkeuze nabij de oude-centrum rivierkant."
+    },
+    {
+      "name": "Chaliang Cuisine",
+      "cuisine": "Thais en internationaal eten de hele dag",
+      "priceRange": "Middenklasse",
+      "description": "Een directe restaurantoptie van de site die één betrouwbare hotel-eetopname toevoegt."
+    }
+  ],
+  "topHotels": [
+    {
+      "name": "Yodia Heritage Hotel",
+      "category": "luxe",
+      "priceRange": "Middenklasse tot bovengemiddeld middenklasse",
+      "area": "Oude-centrum Nan-rivier kant",
+      "description": "Het sterkste erfgoed-gerichte rivierverblijf voor een eerste Phitsanulok-reis."
+    },
+    {
+      "name": "Topland Hotel & Convention Centre",
+      "category": "middenklasse",
+      "priceRange": "Middenklasse",
+      "area": "Centraal oude-centrum kant",
+      "description": "Een praktische full-service stadshotelbasis dicht bij het hoofd tempelkwartier."
+    },
+    {
+      "name": "Pattara Resort & Spa",
+      "category": "luxe",
+      "priceRange": "Bovengemiddeld middenklasse",
+      "area": "Breder stadscentrum resort-kant",
+      "description": "Beste als het eigendom zelf belangrijker is dan pure wandelbaarheid."
+    },
+    {
+      "name": "Shinnabhura Historic Boutique Hotel",
+      "category": "middenklasse",
+      "priceRange": "Middenklasse",
+      "area": "Wat Chan-kant",
+      "description": "Een karakter-geleid boetiekverblijf met een sterker gevoel van plek dan generieke stadshotels."
+    },
+    {
+      "name": "HOP INN Phitsanulok",
+      "category": "budget",
+      "priceRange": "Budget",
+      "area": "Siharat Decho Chai Road / praktische stadskant",
+      "description": "Een betrouwbare budget-ketenoptie voor korte verblijven en vervolgreizen."
+    }
+  ],
+  "gettingAround": "Het oude tempelcentrum is compact genoeg voor korte ritten en wat wandelen zodra je aan de Wat Yai-kant bent. Phitsanulok Airport ligt buiten het hoofd erfgoedblok, en de trein駅-kant is gescheiden genoeg dat hotelkeuze beïnvloedt hoe vaak je transport nodig hebt. Gebruik korte lokale ritten voor oversteekbewegingen in de stad en behandel Phu Hin Rong Kla als een bewuste dagtrip-rit in plaats van iets om laat te improviseren.",
+  "bestTimeToVisit": "November tot februari is de makkelijkste algehele fit voor Phitsanulok omdat tempelwandelingen, avondmarkten en de rit naar Phu Hin Rong Kla allemaal comfortabeler zijn. Hete maanden werken nog steeds als je bezienswaardigheden houdt voor vroege en late uren. Het regenseizoen kan aantrekkelijk zijn voor groener berglandschap, maar park-kant condities en timing moeten lokaal worden gecontroleerd.",
+  "safetyTips": "Phitsanulok zelf is meestal eenvoudig, maar actieve tempels vereisen nog steeds respectvolle kleding en gedrag, en marktgebieden verdienen normale stadszorg met waardevolle spullen. Als je rijdt naar Phu Hin Rong Kla of andere buitenroutes, bouw weermarge in en controleer huidige toegangscondities voordat je vertrekt in plaats van oude gidsgegevens als accuraat te veronderstellen.",
+  "faq": [
+    {
+      "question": "Hoeveel nachten heb je nodig in Phitsanulok?",
+      "answer": "Eén nacht is genoeg voor het tempelcentrum en een avondmarkt, maar twee nachten werkt beter als je ook Wat Chulamani of een echte Phu Hin Rong Kla-dag wilt."
+    },
+    {
+      "question": "Wat is het beste eerste om te doen in Phitsanulok?",
+      "answer": "Begin met Wat Phra Si Rattana Mahathat, houd dan de oude-kern tempels gekoppeld aan dat eerste bezoek in plaats van ze over meerdere halve dagen te verspreiden."
+    },
+    {
+      "question": "Is Phitsanulok alleen een gateway-stad?",
+      "answer": "Nee. Het kan zo functioneren, maar de stad is sterker als je zijn eigen tempelcentrum, rivierkant avondlaag en eetstops gebruikt voordat je aan vervolgreizen denkt."
+    },
+    {
+      "question": "Is Phu Hin Rong Kla het waard om vanuit Phitsanulok te doen?",
+      "answer": "Ja, als je één echte natuuredag wilt. Het is de sterkste geredigeerde buiten-provincie uitbreiding, maar het verdient zijn eigen blok tijd in plaats van casual toegevoegd te worden."
+    },
+    {
+      "question": "Waar moet je verblijven in Phitsanulok?",
+      "answer": "Verblijf aan de oude-centrum of rivierkant voor tempels en avondeten, of gebruik een praktischer stadshotel als je vooral makkelijk parkeren, luchthaventoegang of een kort overnachting nodig hebt."
+    }
+  ],
+  "practicalInfo": {
+    "bestMonths": [
+      "Nov",
+      "Dec",
+      "Jan",
+      "Feb"
+    ],
+    "nearestAirport": "Phitsanulok Airport",
+    "travelTimeFromAirport": "Meestal een korte stadstransfer, afhankelijk van hotelgebied en verkeer",
+    "localTransport": [
+      "Korte lokale ritten werken het beste voor oversteekbewegingen in de stad",
+      "Wandelen is mogelijk in het oude tempelcentrum zodra je er bent",
+      "Privéauto of chauffeur is de praktische fit voor Phu Hin Rong Kla"
+    ],
+    "arrival": "Phitsanulok wordt bediend door luchthaven, spoor en snelwegtoegang, wat precies de reden is waarom het vaak wordt onderschat als een echte stadsstop.",
+    "transport": "Gebruik hotelpositie intelligent: oude-centrum verblijven verminderen de noodzaak voor herhaalde ritten, terwijl park- of luchthaven-gerichte plannen profiteren van makkelijkere weg-kant bases.",
+    "planning": "Bouw de reis in lagen: oude-kern tempels eerst, één avondmarkt tweede, dan pas één serieuze buiten-stad uitbreiding."
+  },
+  "contentSources": [
+    {
+      "type": "toeristenkantoor",
+      "title": "Phitsanulok",
+      "creator": "Tourism Authority of Thailand",
+      "url": "https://www.tourismthailand.org/Destinations/Provinces/Phitsanulok/112",
+      "description": "Gebruikt voor officiële provinciale framing en de huidige hiërarchie van stad- en provinciale hoogtepunten."
+    },
+    {
+      "type": "toeristenkantoor",
+      "title": "Phitsanulok ervaren in 3 dagen en 2 nachten",
+      "creator": "Tourism Authority of Thailand",
+      "url": "https://www.tourismthailand.org/Articles/https-www-tourismthailand-org-articles-experiencing-phitsanulok-3-days-and-2-nights",
+      "description": "Gebruikt voor de stadskern tempelvolgorde, markt-kant eetlogica en specifieke lokale eet- en erfgoedstop-referenties."
+    },
+    {
+      "type": "toeristenkantoor",
+      "title": "De bruisende nachtbazaars van Phitsanulok",
+      "creator": "Tourism Authority of Thailand",
+      "url": "https://www.tourismthailand.org/Articles/phitsanulok-s-vibrant-night-bazaars",
+      "description": "Gebruikt voor huidige nachtbazaar en avondmarkt-framing."
+    },
+    {
+      "type": "toeristenkantoor",
+      "title": "Wat Phra Si Rattana Mahathat",
+      "creator": "Tourism Authority of Thailand",
+      "url": "https://www.tourismthailand.org/Attraction/wat-phra-si-rattana-mahathat",
+      "description": "Gebruikt als de officiële attractiereferentie voor Wat Yai."
+    },
+    {
+      "type": "toeristenkantoor",
+      "title": "Wat Ratchaburana",
+      "creator": "Tourism Authority of Thailand",
+      "url": "https://www.tourismthailand.org/Attraction/wat-ratchaburana",
+      "description": "Gebruikt als de officiële attractiereferentie voor Wat Ratchaburana."
+    },
+    {
+      "type": "toeristenkantoor",
+      "title": "LAN HIN TAEK, THE AMAZING ROCK TERRAIN, PHU HIN RONG KLA, PHITSANULOK",
+      "creator": "Tourism Authority of Thailand",
+      "url": "https://www.tourismthailand.org/Articles/lan-hin-taek-the-amazing-rock-terrain-phu-hin-rong-kla-phitsanulok",
+      "description": "Gebruikt voor het rotsachtige terrein van het park, bergsetting en historische context."
+    },
+    {
+      "type": "toeristenkantoor",
+      "title": "Tempel van Wat Phra Si Rattana Mahathat",
+      "creator": "HOP INN Hotel",
+      "url": "https://www.hopinnhotel.com/attractions/temple-of-wat-phra-si-rattana-mahathat",
+      "description": "Gebruikt voor ondersteunende huidige praktische context rond Wat Yai."
+    },
+    {
+      "type": "hotel",
+      "title": "Yodia Heritage Hotel",
+      "creator": "Yodia Heritage Hotel",
+      "url": "https://yodiaheritagehotel.com/",
+      "description": "Gebruikt voor de oude-centrum rivierhotel-positionering en adresdetails."
+    },
+    {
+      "type": "restaurant",
+      "title": "Yodia Heritage Hotel Contacten",
+      "creator": "Yodia Heritage Hotel",
+      "url": "https://yodiaheritagehotel.com/contacts/",
+      "description": "Gebruikt voor directe bevestiging van Amore Restaurant en huidige contactdetails."
+    },
+    {
+      "type": "hotel",
+      "title": "Topland Hotel & Convention Centre",
+      "creator": "Topland Hotel & Convention Centre",
+      "url": "https://www.toplandhotel.com/",
+      "description": "Gebruikt voor directe positionering van het centrale hotel, adres en contactgegevens."
+    },
+    {
+      "type": "hotel",
+      "title": "Pattara Resort & Spa",
+      "creator": "Pattara Resort & Spa",
+      "url": "https://www.pattararesort.com/",
+      "description": "Gebruikt voor directe positionering van het city-resort in Phitsanulok."
+    },
+    {
+      "type": "hotel",
+      "title": "Chaliang Cuisine At Shinnabhura Historic Boutique Hotel",
+      "creator": "Shinnabhura Historic Boutique Hotel",
+      "url": "https://shinnabhura.com/chaliang-cuisine.html",
+      "description": "Gebruikt voor directe bevestiging van restaurant en boutique-hotel."
+    },
+    {
+      "type": "hotel",
+      "title": "HOP INN Phitsanulok",
+      "creator": "HOP INN Hotel",
+      "url": "https://www.hopinnhotel.com/our-hotels/hop-inn-phitsanulok",
+      "description": "Gebruikt voor huidig adres en eigendomsdetails van budgethotel."
+    }
+  ],
+  "reviewed_by": "Go2Thailand Editorial Team",
+  "enhanced_at": "2026-03-27T00:00:00.000Z",
+  "enrichedAt": "2026-03-27T00:00:00.000Z",
+  "factchecked_at": "2026-03-27T00:00:00.000Z"
+}

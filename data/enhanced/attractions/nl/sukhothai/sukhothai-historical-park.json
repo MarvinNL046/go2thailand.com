@@ -1,0 +1,86 @@
+{
+  "id": 1,
+  "slug": "sukhothai-historical-park",
+  "name": {
+    "en": "Sukhothai Historical Park",
+    "nl": "Sukhothai Historisch Park"
+  },
+  "type": "historisch",
+  "city_slug": "sukhothai",
+  "address": "Mueang Kao, Mueang Sukhothai District, Sukhothai, Thailand",
+  "location": {
+    "lat": 17.0078,
+    "lng": 99.8237
+  },
+  "opening_hours": "Openingstijden en ticketregelingen worden beheerd door de parkautoriteit; controleer de actuele tijden lokaal voordat je vroeg of laat op bezoek gaat.",
+  "entrance_fee": {
+    "thb": null,
+    "usd": null
+  },
+  "description": {
+    "en": "The UNESCO-listed old city that gives Sukhothai its essential shape through walls, ponds, and a layered temple landscape.",
+    "nl": "De UNESCO-oude stad die Sukhothai zijn vorm geeft via muren, vijvers en een gelaagd tempellandschap."
+  },
+  "highlights": [
+    "UNESCO kern",
+    "Oriëntatielus van de centrale zone",
+    "Beste eerste halve dag"
+  ],
+  "image": "/images/cities/sukhothai/attractions/Sukhothai Historical Park panorama.webp",
+  "official_website": "https://virtualhistoricalpark.finearts.go.th/sukhothai/index.php/en/map.html",
+  "seo": {
+    "metaTitle": {
+      "en": "Sukhothai Historical Park | Go2Thailand",
+      "nl": "Sukhothai Historisch Park | Go2Thailand"
+    },
+    "metaDescription": {
+      "en": "Why Sukhothai Historical Park is the core of any Sukhothai trip and how to read the central, northern, and western zones without turning the site into a checklist.",
+      "nl": "Waarom Sukhothai Historical Park de kern van elke Sukhothai-trip is en hoe je de centrale, noordelijke en westelijke zones leest zonder het park tot checklist te maken."
+    }
+  },
+  "tags": [
+    "sukhothai",
+    "historisch park",
+    "unesco",
+    "oude stad",
+    "erfgoed"
+  ],
+  "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=Sukhothai%20Historical%20Park",
+  "best_time": "vroeg in de ochtend",
+  "duration_hours": 4,
+  "enhanced_description": "Het Sukhothai Historisch Park is niet zomaar één bezienswaardigheid op je lijst. Het vormt het kader dat de hele stad begrijpelijk maakt. UNESCO beschrijft Sukhothai als de hoofdstad van het eerste Koninkrijk Siam, en dat telt hier omdat de locatie nog steeds leesbaar is als een gepland historisch landschap in plaats van een losse verzameling ruïnes.\n\nDe meest nuttige eerste stap is de centrale zone. Die geeft je een idee van de schaal van de oude muren, vijvers, axiale structuur en ceremoniële kern voordat je besluit of je volgende blok naar het noorden gaat naar Wat Si Chum of naar het westen naar Wat Saphan Hin.",
+  "detailed_history": "De UNESCO-vermelding voor de Historische Stad Sukhothai en Geassocieerde Historische Steden kader de site als het begin van de Thaise architectuur onder het eerste Siamese koninkrijk. Het Ministerie van Schone Kunsten beheert het park nog steeds als een multi-zone erfgoedgebied met aparte routes door verschillende sectoren in plaats van als één enkel monument.",
+  "visitor_experience": "Verwacht een breed erfgoedlandschap, geen kort tempelbezoekje in en uit. De centrale zone is het makkelijkst voor oriëntatie, terwijl de buitenste zones pas echt zinvol zijn als je de schaal en opbouw van de oude stad al begrijpt.",
+  "best_time_to_visit": {
+    "time_of_day": "Vroege ochtend",
+    "duration": "Halve dag voor de kern, langer als je noord- of westzones toevoegt",
+    "crowd_level": "Meestal het makkelijkst in de eerste uren van de dag en drukker tijdens festivalperiodes"
+  },
+  "practical_info": {
+    "how_to_get_there": "De meeste reizigers bereiken het park per lokale rit, chauffeur of fiets vanuit een verblijf in de oude stad. Hotels in de nieuwe stad vereisen een bewuste transfer in plaats van een casual wandeling.",
+    "nearby_attractions": "Wat Mahathat, Wat Sa Si, Wat Si Chum en Wat Saphan Hin zijn het beste te begrijpen als afzonderlijke lagen binnen of rond het parksysteem.",
+    "food_options": "Plan lunch buiten de monumentenroute of na de centrale zone, in plaats van te verwachten dat elke maaltijd in het erfgoedgebied plaatsvindt.",
+    "shopping": "Gebruik de gemeenschapslaag van de oude stad en het museumgebied voor context en kleine aankopen, in plaats van te vertrouwen op de kernmonumenten voor shoppen."
+  },
+  "insider_tips": [
+    "Doe de centrale zone eerst, zodat de buitenste zones doelgericht aanvoelen in plaats van willekeurig.",
+    "Probeer niet het hele park en Si Satchanalai in één gehaaste dag te combineren.",
+    "Neem water mee en houd rekening met de hitte als je te voet of per fiets tussen sectoren reist."
+  ],
+  "verified_note": "Samenvatting gebaseerd op bronnen van UNESCO en het Ministerie van Schone Kunsten. Bevestig actuele parkuren, tickets en lokaal transport voor je reis.",
+  "cultural_significance": "Dit is de belangrijkste plek waar de historische betekenis van Sukhothai tastbaar wordt als een stedelijk en ceremonieel landschap, niet zomaar als een verzameling fotogenieke ruïnes.",
+  "contentSources": [
+    {
+      "name": "Historic Town of Sukhothai and Associated Historic Towns",
+      "url": "https://whc.unesco.org/en/list/574/"
+    },
+    {
+      "name": "Sukhothai Historical Park Contact and Map",
+      "url": "https://virtualhistoricalpark.finearts.go.th/sukhothai/index.php/en/map.html"
+    },
+    {
+      "name": "Sukhothai Province Page",
+      "url": "https://www.tourismthailand.org/Destinations/Provinces/Sukhothai/114"
+    }
+  ]
+}

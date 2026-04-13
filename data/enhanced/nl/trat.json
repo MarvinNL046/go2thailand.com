@@ -1,0 +1,730 @@
+{
+  "id": 21,
+  "slug": "trat",
+  "name": {
+    "en": "Trat",
+    "nl": "Trat",
+    "ja": "トラート",
+    "ko": "뜨랏",
+    "th": "ตราด",
+    "de": "Trat",
+    "fr": "Trat",
+    "ru": "Trat",
+    "zh": "Trat"
+  },
+  "region": "Oost",
+  "province": "Trat",
+  "description": {
+    "en": "Trat works best as an eastern coastal town with a real mainland core, food identity, and a few selective sea-facing extensions, not as a thin ferry waiting room for Koh Chang and beyond.",
+    "nl": "Trat werkt het best als een oostelijke kuststad met een echte mainland-kern, een duidelijke food-identiteit en een paar selectieve zee-extensies, niet als een dunne ferry-wachtruimte voor Koh Chang en verder.",
+    "ja": "トラートは、ただ島へ渡るための通過点としてではなく、旧市街、食文化、港町の周縁部、そして一つか二つの海側延長を組み合わせてこそ理解しやすい町です。",
+    "ko": "뜨랏은 코창으로 가는 단순 환승지가 아니라, 도심의 오래된 구역과 음식 문화, 램응옵과 공동체 마을, 그리고 선택적인 섬 확장을 함께 봐야 제대로 읽히는 도시입니다.",
+    "th": "ตราดเหมาะกับการเที่ยวแบบเน้นเมือง อาหาร ตลาด ชุมชน และต่อยอดไปทะเลเพียงบางส่วน มากกว่ามองเป็นแค่ทางผ่านไปเกาะช้าง",
+    "de": "Trat funktioniert am besten als oestliche Kuestenstadt mit echtem Festlandkern, eigener Esskultur und wenigen gezielten Meeres-Erweiterungen statt als duenne Faehrendrehscheibe.",
+    "fr": "Trat se visite mieux comme une ville cotiere de l'Est avec un vrai coeur terrestre, une identite culinaire et quelques extensions maritimes choisies, pas comme une simple salle d'attente pour les ferries.",
+    "ru": "Трат лучше воспринимать как приморский город восточного Таиланда с собственным центром, едой и выборочными морскими выездами, а не как пустую пересадку на Ко Чанг.",
+    "zh": "Trat 更适合被理解为一座有老城、市场、美食和少量海边延伸的东部海岸城市，而不是去 Koh Chang 前的空洞中转站。"
+  },
+  "population": 22000,
+  "population_label": "Referentie op stadsniveau",
+  "population_note": "Gebruik dit als een brede stedelijke oriëntatiepunt in plaats van een actuele gemeentelijke telling.",
+  "highlights": [
+    "Trat City Museum en de oude wijk",
+    "Rak Khlong Bang Phra kanaalgemeenschap",
+    "Yai Saeng inktvis en Sukhumvit krabnoedels",
+    "Ban Nam Chiao gemeenschap",
+    "Laem Ngop oostelijkste-land uitkijkpunt",
+    "Eén selectieve Koh Chang of Koh Mak uitbreiding"
+  ],
+  "location": {
+    "lat": 12.2431,
+    "lng": 102.5149
+  },
+  "image": "/images/cities/generated/trat.webp",
+  "seo": {
+    "metaTitle": {
+      "en": "Trat Thailand Guide 2026 | Old Town, Food, Laem Ngop and Island Links",
+      "nl": "Trat gids 2026 | Oude stad, eten, Laem Ngop en eilanden",
+      "ja": "トラートを満喫 | 旧市街・食・港町・島のつなぎ方ガイド",
+      "ko": "뜨랏 태국 가이드 2026 | 올드타운, 음식, 램응옵과 섬 연결",
+      "th": "ตราด 2026 | เมืองเก่า อาหาร แหลมงอบ และเส้นทางต่อเกาะ",
+      "de": "Trat Thailand Guide 2026 | Altstadt, Essen, Laem Ngop und Inselrouten",
+      "fr": "Guide de Trat 2026 | Vieille ville, cuisine, Laem Ngop et iles",
+      "ru": "Путеводитель по Trat 2026 | Старый город, еда, Лаем Нгоп и острова",
+      "zh": "Trat 旅行指南 2026 | 老城、美食、Laem Ngop 与海岛衔接"
+    },
+    "metaDescription": {
+      "en": "Plan Trat around its old quarter, city museum, canal communities, seafood-and-snack layer, Laem Ngop, and one edited island extension instead of relying on generic Koh Chang gateway copy.",
+      "nl": "Plan Trat rond de oude stad, het stadsmuseum, kanaalgemeenschappen, de seafood- en snacklaag, Laem Ngop en één gerichte eilandextensie in plaats van generieke gateway-copy.",
+      "ja": "トラートを、旧市街、博物館、運河沿いのコミュニティ、地元料理、レームンゴップ、そして一つの海側延長で整理するためのガイドです。",
+      "ko": "뜨랏을 올드타운, 박물관, 운하 공동체, 현지 음식, 램응옵, 그리고 한 가지 섬 확장으로 정리하는 가이드입니다.",
+      "th": "คู่มือเที่ยวตราดแบบเน้นเมืองเก่า พิพิธภัณฑ์ ชุมชน อาหาร แหลมงอบ และต่อเกาะอย่างมีเหตุผล",
+      "de": "Trat richtig planen: Altstadt, Stadtmuseum, Kanalgemeinden, lokale Kueche, Laem Ngop und eine bewusst gewaehlte Insel-Erweiterung.",
+      "fr": "Comment structurer Trat autour de la vieille ville, du musee, des communautes de canal, de la cuisine locale, de Laem Ngop et d'une seule extension insulaire.",
+      "ru": "Как планировать Trat: старый квартал, музей, канальные сообщества, местная еда, Лаем Нгоп и одно продуманное островное продолжение.",
+      "zh": "用老城、博物馆、运河社区、本地小吃、Laem Ngop 和一次精简海岛延伸来规划 Trat。"
+    }
+  },
+  "categories": {
+    "food": {
+      "en": "Best restaurants and local dishes in Trat",
+      "nl": "Beste restaurants en lokale gerechten in Trat",
+      "ja": "トラートのおすすめレストラン＆郷土料理",
+      "ko": "뜨랏 추천 레스토랑과 지역 음식",
+      "th": "ร้านอาหารและอาหารท้องถิ่นที่ดีที่สุดในตราด"
+    },
+    "hotels": {
+      "en": "Top hotels in Trat | City and island stays",
+      "nl": "Beste hotels in Trat | Stad en eilandverblijven",
+      "ja": "トラートのおすすめホテル｜市内と島の滞在",
+      "ko": "뜨랏 추천 호텔 | 도심과 섬 숙소",
+      "th": "โรงแรมแนะนำในตราด | เมืองและเกาะ"
+    },
+    "attractions": {
+      "en": "Top attractions in Trat",
+      "nl": "Top bezienswaardigheden in Trat",
+      "ja": "トラートの人気観光スポット",
+      "ko": "뜨랏 인기 관광 명소",
+      "th": "สถานที่ท่องเที่ยวยอดนิยมในตราด"
+    }
+  },
+  "tags": [
+    "trat",
+    "oost",
+    "oude-stad",
+    "laem-ngop",
+    "ban-nam-chiao",
+    "koh-chang",
+    "thailand"
+  ],
+  "enhanced_description": "Trat wordt zwakker als alles geschreven is alsof de stad alleen maar bestaat om mensen naar Koh Chang, Koh Mak of Koh Kood te sturen. De sterkere versie begint in de stad zelf: het museum en de oude wijk, de eeuwenoude houten huizen en snackcultuur van Rak Khlong Bang Phra, de kleine maar nuttige markt- en noedellaag, en de kustkant bij Laem Ngop waar het vasteland echt de zee ontmoet.\n\nVan daaruit wordt de provincie makkelijker te bewerken. Ban Nam Chiao voegt een gemeenschapsroute toe met echte culturele diepgang in plaats van generieke ecotoerisme-vulling. Koh Chang kan nog steeds deel uitmaken van de reis, maar de beste toepassing hier is selectief: de gondelroute van Salak Khok of één bewerkte westkust-resortverblijf in plaats van de hele eiland in een stadsgids te proppen.\n\nDat is de versie die het waard is om op hoger kwaliteitsniveau te publiceren. Trat is een startpunt, maar het is ook een stad van markten, gemengde culturele erfenis en oostelijke-Golf-kustgemeenschappen die gelezen moeten worden voordat de veerboot vertrekt.",
+  "overview": "Trat is beter als je het in lagen plant in plaats van direct naar de pier te gaan. De provinciale dekking van TAT behandelt Trat nog steeds als het belangrijkste startpunt voor de Koh Chang eilandengroep, maar hetzelfde officiële materiaal maakt ook duidelijk dat de stad zelf telt: markten, oude houten straten, stadsmusea en kusthandel definiëren de plek nog steeds.\n\nEten is de tweede laag. De restaurantdekking van TAT en de Trat-special van MICHELIN wijzen beide in dezelfde richting: gegrilde inktvis, krabnoedels, oude-wijk-zoetigheden, mangrove-gebonden gerechten, salacca-producten en gemeenschaps-snacks zijn wat Trat memorabel maken aan de vastelandkant. Die lokale gerechten doen meer voor de stad dan de pagina vullen met geïmporteerde eilandrestaurant-rankings.\n\nNa het centrum zijn de beste toevoegingen Ban Nam Chiao en Laem Ngop aan het vasteland, plus één bewuste eilanduitbreiding. Koh Chang werkt als je de rustigere Salak Khok-kant gebruikt of een doordacht resortverblijf. Koh Mak werkt als het lage-dichtheid eilandritme het echte punt is. Trat verbetert zodra je ophoudt met het proberen te dekken van elk eiland en het vastelandstadje eerst de reis bij elkaar houdt.",
+  "hidden_gems": [
+    {
+      "name": "Rak Khlong Bang Phra",
+      "story": "De Trat-special van MICHELIN gebruikt Rak Khlong Bang Phra om te laten zien hoe de stad nog steeds houten huizen, kanaalleven, straatkunst en snackcultuur behoudt op een manier die de oude poort-alleen kop helemaal miste.",
+      "how_to_find": "Gebruik het na het museum en de oude wijk in plaats van het af te splitsen in een aparte dag.",
+      "best_time": "Laat in de ochtend of laat in de middag",
+      "local_insights": [
+        "Dit is sterker als een rustige wandeling met snacks dan als een snelle fotostop.",
+        "Het geeft Trat een specifiekere stedelijke karakter dan generieke markt-vulling."
+      ]
+    },
+    {
+      "name": "Ba Na's grilled banana stall",
+      "story": "TAT behandelt deze oude-wijk-zoetighedenstop nog steeds als een van Trat's klassieke voedsel-landmerken, wat helpt om de stad gegrond te houden in specifieke kleine hapjes in plaats van uitwisselbare dessert-kopie.",
+      "how_to_find": "Vouw het in de oude-wijk en Lak Muang Road voedsel-lus.",
+      "best_time": "Middag tot laat in de middag",
+      "local_insights": [
+        "Dit is een snackstop, geen bestemmingsmaaltijd.",
+        "De oude wijk krijgt meer zin als je deze kleinere voedselstops de wandeling laat leiden."
+      ]
+    }
+  ],
+  "authentic_experiences": [
+    {
+      "activity": "Begin in de oude wijk en het museum voordat je naar de piers gaat",
+      "story": "Het stadsmuseum en de oude wijk leggen Trat's handel, kustgeschiedenis en lokale identiteit veel beter uit dan direct naar Koh Chang te haasten.",
+      "cultural_significance": "Zowel TAT als MICHELIN behandelen nog steeds het Trat Museum en de oudere stadslag als sleutel om de culturele mix van de provincie te begrijpen.",
+      "how_to_participate": "Loop eerst de oude-kern-kant, laat dan snacks, markten en kanaalstops daarop bouwen.",
+      "insights": [
+        "Dit zou het eerste halve dag moeten zijn, niet het restant voor een veerboot.",
+        "Trat wordt makkelijker te plannen zodra het vastelandstadje mag tellen."
+      ],
+      "href": "/city/trat/attractions/trat-city-museum-and-old-quarter/",
+      "cta_label": "Zie de oude-wijk gids"
+    },
+    {
+      "activity": "Gebruik Ban Nam Chiao als de belangrijkste gemeenschapsuitbreiding",
+      "story": "Ban Nam Chiao blijft bij elkaar houden omdat de officiële Trat-dekking het consistent behandelt als een echte gemengde-cultuur gemeenschap met eten, ambacht en mangrove-activiteiten.",
+      "cultural_significance": "Het dorp blijft een van Trat's duidelijkste voorbeelden van boeddhistische, moslim- en Chinese erfenis die samenleeft in één kustgemeenschap.",
+      "how_to_participate": "Geef het zijn eigen tijdsblok in plaats van het te reduceren tot één brugfoto.",
+      "insights": [
+        "Dit is de sterkste vasteland-gemeenschapsdag vanuit Trat stad.",
+        "Het voegt meer echte diepgang toe dan het plan vullen met nog één eilandtransfer."
+      ],
+      "href": "/city/trat/attractions/ban-nam-chiao-community/",
+      "cta_label": "Zie de Ban Nam Chiao gids"
+    },
+    {
+      "activity": "Houd Laem Ngop als de vasteland-zeekant",
+      "story": "Laem Ngop is nuttig omdat het Trat de zee laat ontmoeten aan de vastelandkant voordat de veerboot-logica overneemt.",
+      "cultural_significance": "Het oostelijkste-land uitkijkpunt en de marine-herinneringslaag geven de kustkant meer betekenis dan een simpele weg-naar-pier vertelling.",
+      "how_to_participate": "Koppel het aan een zeevruchtenmaaltijd en één kuststop in plaats van het alleen als transfercorridor te behandelen.",
+      "insights": [
+        "Dit is het schoonste vasteland-zeezijde blok in de Trat-cluster.",
+        "De zonsondergang en fotostop-logica krijgen meer zin zodra de stad al behandeld is."
+      ],
+      "href": "/city/trat/attractions/laem-ngop-and-the-easternmost-land/",
+      "cta_label": "Zie de Laem Ngop gids"
+    },
+    {
+      "activity": "Voeg slechts één eilandlaag toe en kies het zorgvuldig",
+      "story": "Koh Chang en Koh Mak kunnen beide werken, maar de reis wordt meestal sterker als één eilanduitbreiding selectief blijft in plaats van de hele Trat-verhaal over te nemen.",
+      "cultural_significance": "Die selectiviteit beschermt de stad- en gemeenschaps-kant tegen verdwijnen achter generieke eiland-kopie.",
+      "how_to_participate": "Gebruik Salak Khok op Koh Chang voor een meer gemeenschapsgeleide zee-uitbreiding, of Koh Mak als lage-dichtheid eilandritme het punt is.",
+      "insights": [
+        "Niet elk Trat verblijf heeft meerdere eilanden nodig.",
+        "De vastelandkant zou nog steeds het meeste uitleggende werk moeten doen."
+      ],
+      "href": "/city/trat/attractions/salak-khok-gondola-and-east-koh-chang/",
+      "cta_label": "Zie de eiland-uitbreidingsgids"
+    }
+  ],
+  "foodie_adventures": [
+    {
+      "dish": "Gegrilde inktvis met rode saus",
+      "location": "Yai Saeng Grilled Cuttlefish",
+      "story": "TAT behandelt de kraam van Yai Saeng nog steeds als een van Trat's kenmerkende kleine-hapjes stops omdat het de stad direct verbindt met verse lokale zeevruchten en houtskool-gegrilde snackcultuur.",
+      "where_to_find": "Bang Phra kant van de stad, het beste als een latere-dag snackstop.",
+      "price_range": "Budget",
+      "ordering_tips": [
+        "Behandel dit als een specifieke snackstop, niet als je hoofdmaaltijd.",
+        "Het werkt goed binnen de oude-kern voedsel-lus."
+      ],
+      "href": "/city/trat/top-10-restaurants/",
+      "cta_label": "Zie de voedselgids"
+    },
+    {
+      "dish": "Krabnoedels en mantisgarnaal-rijst",
+      "location": "Sukhumvit Crab Noodles",
+      "story": "Het huidige restaurantartikel van TAT gebruikt Sukhumvit Crab Noodles nog steeds als een van Trat's duidelijkste zeevruchten-noedel referenties aan de vastelandkant.",
+      "where_to_find": "Soi Sukhumvit, Trat stad",
+      "price_range": "Budget tot middenklasse",
+      "ordering_tips": [
+        "Dit is een sterkere stadmaaltijd dan terugvallen op een eiland-zeevruchtenrestaurant.",
+        "Gebruik het voor de lunch in plaats van als een hele-dag fallback."
+      ],
+      "href": "/city/trat/top-10-restaurants/",
+      "cta_label": "Zie de voedselgids"
+    },
+    {
+      "dish": "Oude-wijk-zoetigheden en gegrilde bananen",
+      "location": "Ba Na's gegrilde bananen kraam",
+      "story": "Deze oude-stad zoetighedenstop telt nog steeds omdat het Trat's voedselverhaal verbonden houdt met de straten en oudere winkelpanden, niet alleen met zeevruchten en veerbootroutes.",
+      "where_to_find": "Lak Muang Road / oude Trat kant",
+      "price_range": "Budget",
+      "ordering_tips": [
+        "Gebruik het tussen het museum en Rak Khlong Bang Phra in plaats van een aparte trip te maken.",
+        "Het beste als een snack, niet als een formele dessertbestemming."
+      ],
+      "href": "/city/trat/top-10-restaurants/",
+      "cta_label": "Zie de voedselgids"
+    },
+    {
+      "dish": "Tom yum noedels met mantisgarnaal en gemengde zeevruchten",
+      "location": "Rim Kheuan Tom Yum Noodles",
+      "story": "TAT positioneert Rim Kheuan nog steeds als een van de sterkere vollere maaltijden in Trat als je zeevruchten-geleide noedels wilt in plaats van alleen straat-snacks.",
+      "where_to_find": "Reservoir-kant weg, Nong Samed",
+      "price_range": "Budget tot middenklasse",
+      "ordering_tips": [
+        "Dit werkt beter als een bestemmingslunch dan als een casual stop die je erin perst na de eilanden.",
+        "Ga met genoeg tijd voor een volledige maaltijd."
+      ],
+      "href": "/city/trat/top-10-restaurants/",
+      "cta_label": "Zie de voedselgids"
+    }
+  ],
+  "local_insights": [
+    "Trat is sterker als een vastelandstad met één zee-uitbreiding dan als een eiland-veerboot checklist.",
+    "Het museum, de oude wijk en Rak Khlong Bang Phra zouden voor elke pier-logica moeten komen.",
+    "Ban Nam Chiao is de beste vasteland-gemeenschapsuitbreiding omdat het eten, ambacht en gemengde culturele geschiedenis toevoegt.",
+    "Laem Ngop geeft de cluster zijn schoonste vasteland-zeekant.",
+    "Koh Chang werkt hier beter via Salak Khok of één bewerkte resort-verblijf dan via generieke party-strand kopie."
+  ],
+  "seasonal_secrets": "November tot april is de makkelijkste algehele fit voor Trat omdat stadswandelen comfortabeler is en zee-toegang meestal betrouwbaarder. De provinciale pagina van TAT merkt nog steeds op dat mei tot oktober transport naar sommige eilanden kan beperken en de westelijke zeekant ruwer maakt, dus weersgevoelige vasteland-naar-eiland plannen moeten altijd vlak voor vertrek opnieuw gecontroleerd worden.",
+  "budget_reality": {
+    "budget": "Trat kan betaalbaar blijven als je het verblijf stad-eerst houdt, kleine lokale voedselstops goed gebruikt en vermijdt om elke dag in een aparte transfer-zware eilandrun te veranderen.",
+    "mid_range": "Middenklasse uitgaven stijgen als je een praktisch stadshotel koppelt aan één bewerkte eiland- of kustdag en een paar meer bewuste zeevruchtenmaaltijden.",
+    "luxury": "De grotere uitgaven-druk komt meestal van Koh Chang of Koh Mak resort-aanbod in plaats van van Trat stad zelf.",
+    "money_saving_tricks": [
+      "Verblijf in de stad als de oude wijk, het museum en Ban Nam Chiao belangrijker zijn dan wakker worden op een eiland.",
+      "Kies één eilanduitbreiding in plaats van te betalen voor meerdere aparte boot- en hotelverschuivingen.",
+      "Gebruik vasteland-zeevruchten en snackstops goed voordat je resort-niveau geld uitgeeft offshore."
+    ],
+    "hidden_costs": [
+      "Eilandtransfers en zee-afhankelijke schema-veranderingen kunnen meer kosten dan het stadsgedeelte zelf.",
+      "Het gebruik van een eilandhotel als basis voor een stad-eerst Trat-reis creëert meestal onnodige transportfrictie."
+    ]
+  },
+  "top_attractions": [
+    {
+      "rank": 1,
+      "name": "Trat City Museum and the old quarter",
+      "description": "De beste eerste-stop vastelandlaag omdat het Trat een echte handel-en-stad identiteit geeft voordat de eilandroutes overnemen.",
+      "location": "Trat stadscentrum",
+      "entrance_fee": "Controleer lokaal bij aankomst.",
+      "highlights": [
+        "Trat City Museum",
+        "Oude houten wijk",
+        "Beste eerste lees van de stad"
+      ],
+      "href": "/city/trat/attractions/trat-city-museum-and-old-quarter/",
+      "cta_label": "Zie de oude-wijk gids"
+    },
+    {
+      "rank": 2,
+      "name": "Rak Khlong Bang Phra",
+      "description": "Het nuttigste creatieve-kanaal district in Trat, met straatkunst, eeuwenoude houten huizen en specifieke lokale snacks in plaats van generieke markt-vulling.",
+      "location": "Khlong Bang Phra kant, Trat",
+      "entrance_fee": "Openbaar gebied.",
+      "highlights": [
+        "Eeuwenoude houten huizen",
+        "Straatkunst en kanaallaag",
+        "Snackstops"
+      ],
+      "href": "/city/trat/attractions/rak-khlong-bang-phra-community/",
+      "cta_label": "Zie de kanaal-gemeenschapsgids"
+    },
+    {
+      "rank": 3,
+      "name": "Ban Nam Chiao community",
+      "description": "De sterkste vasteland-gemeenschapsuitbreiding vanuit Trat stad omdat gemengde boeddhistische, moslim- en Chinese erfenis het dorp nog steeds zichtbaar vormt.",
+      "location": "Laem Ngop District, Trat Province",
+      "entrance_fee": "Gemeenschapsactiviteiten variëren.",
+      "highlights": [
+        "Gemengde-erfenis kustdorp",
+        "Saphan Wat Chai",
+        "Eten en ambachttradities"
+      ],
+      "href": "/city/trat/attractions/ban-nam-chiao-community/",
+      "cta_label": "Zie de Ban Nam Chiao gids"
+    },
+    {
+      "rank": 4,
+      "name": "Laem Ngop and the easternmost land",
+      "description": "De schoonste vasteland-zeezijde stop in Trat, nuttig om te begrijpen waar de provincie echt opent naar de eilandgordel.",
+      "location": "Laem Ngop",
+      "entrance_fee": "Openbaar uitkijkpunt toegang.",
+      "highlights": [
+        "Oostelijkste-land uitkijkpunt",
+        "Vuurtoren landmark",
+        "Vasteland zee-kant stop"
+      ],
+      "href": "/city/trat/attractions/laem-ngop-and-the-easternmost-land/",
+      "cta_label": "Zie de Laem Ngop gids"
+    },
+    {
+      "rank": 5,
+      "name": "Salak Khok gondola and east Koh Chang",
+      "description": "De beste bewerkte Koh Chang uitbreiding voor deze cluster omdat het een gemeenschaps- en mangrove-laag toevoegt in plaats van generieke strand-kopie herhaling.",
+      "location": "Salak Khok, Koh Chang",
+      "entrance_fee": "Gemeenschapsboot opzet varieert.",
+      "highlights": [
+        "Thaise-stijl gondelroute",
+        "Mangrove dorp setting",
+        "Beter dan standaard westkust-vulling"
+      ],
+      "href": "/city/trat/attractions/salak-khok-gondola-and-east-koh-chang/",
+      "cta_label": "Zie de Koh Chang uitbreidingsgids"
+    },
+    {
+      "rank": 6,
+      "name": "Koh Mak low-density island day",
+      "description": "Een nuttig alternatief voor Koh Chang als het doel een rustigere eilanduitbreiding is met fietsen, stranden en lagere-intensiteit toerisme.",
+      "location": "Koh Mak, Trat Province",
+      "entrance_fee": "Boot en eiland logistiek variëren.",
+      "highlights": [
+        "Lage-dichtheid eilandritme",
+        "Fietsen en rustige stranden",
+        "Sterker voor een langzamere zeedag"
+      ],
+      "href": "/city/trat/attractions/koh-mak-island-day/",
+      "cta_label": "Zie de Koh Mak gids"
+    }
+  ],
+  "top_restaurants": [
+    {
+      "rank": 1,
+      "name": "Yai Saeng Grilled Cuttlefish",
+      "description": "De duidelijkste zeevruchten-snackstop in Trat als je iets wilt waar de stad echt bekend om staat in plaats van nog een generieke barbecue-entree.",
+      "location": "Bang Phra kant, Mueang Trat",
+      "price_range": "Budget",
+      "highlights": [
+        "Houtskool-gegrilde inktvis",
+        "Klassieke Trat snack",
+        "Goede stop later op de dag"
+      ],
+      "href": "/city/trat/top-10-restaurants/",
+      "cta_label": "Bekijk de eetgids"
+    },
+    {
+      "rank": 2,
+      "name": "Sukhumvit Crab Noodles",
+      "description": "Een van de handigste vastelandmaaltijden in Trat, want krabnoedels en zeevruchtenrijst behouden de unieke, lokale eetidentiteit van de stad.",
+      "location": "Soi Sukhumvit, Trat",
+      "price_range": "Budget tot middenklasse",
+      "highlights": [
+        "Krabnoedels",
+        "Lunch met zeevruchten in de hoofdrol",
+        "Sterke stop aan de stadskant"
+      ],
+      "href": "/city/trat/top-10-restaurants/",
+      "cta_label": "Bekijk de eetgids"
+    },
+    {
+      "rank": 3,
+      "name": "Ba Na's grilled banana stall",
+      "description": "Een zoete stop in de oude wijk die de eetroute van Trat verankerd houdt in zijn straten en langdurige cultuur van kleine hapjes.",
+      "location": "Lak Muang Road, old Trat",
+      "price_range": "Budget",
+      "highlights": [
+        "Geroosterde bananen",
+        "Snackstop in de oude stad",
+        "Beste als toevoeging aan een wandelroute"
+      ],
+      "href": "/city/trat/top-10-restaurants/",
+      "cta_label": "Bekijk de eetgids"
+    },
+    {
+      "rank": 4,
+      "name": "Rim Kheuan Tom Yum Noodles",
+      "description": "Een vollere maaltijd met zeevruchtennoedels als je meer wilt dan snacks, maar de maaltijd toch geworteld wilt houden in Trat-ingrediënten en -stijl.",
+      "location": "Nong Samed, Trat",
+      "price_range": "Budget tot middenklasse",
+      "highlights": [
+        "Tom yum noedels",
+        "Mantisgarnalen en zeevruchtengerechten",
+        "Lunchbestemming"
+      ],
+      "href": "/city/trat/top-10-restaurants/",
+      "cta_label": "Bekijk de eetgids"
+    },
+    {
+      "rank": 5,
+      "name": "Rimtalay Seafood & Resort",
+      "description": "De duidelijkste zeevruchtenstop in Laem Ngop als je de kust van het vasteland wilt opnemen in je eetplanning in plaats van alleen als transfercorridor.",
+      "location": "Laem Ngop",
+      "price_range": "Middenklasse",
+      "highlights": [
+        "Zeevruchten van de vastelandkust",
+        "Goed met de Laem Ngop-route",
+        "Sterker dan willekeurige eiland-zeevruchtenlijsten"
+      ],
+      "href": "/city/trat/top-10-restaurants/",
+      "cta_label": "Bekijk de eetgids"
+    },
+    {
+      "rank": 6,
+      "name": "Ban Nam Chiao community food layer",
+      "description": "Beste gebruikt als gemeenschaps-eetstop voor roerbaknoedels van Ban Nam Chiao, lokale snacks en Tang Mae Krob in plaats van als één vaste restaurant.",
+      "location": "Ban Nam Chiao",
+      "price_range": "Budget",
+      "highlights": [
+        "Gemeenschapseetstops",
+        "Tang Mae Krob",
+        "Beste met de dorpsroute"
+      ],
+      "href": "/city/trat/top-10-restaurants/",
+      "cta_label": "Bekijk de eetgids"
+    }
+  ],
+  "top_hotels": [
+    {
+      "rank": 1,
+      "name": "Trat City Hotel",
+      "description": "De sterkste praktische stadbasis als je een echt stedelijk verblijf wilt met directe officiële contacten en gemakkelijk toegang tot de kern van het vasteland.",
+      "price_range": "Middenklasse",
+      "category": "middenklasse",
+      "area": "Wang Krajae, Mueang Trat",
+      "highlights": [
+        "Officiële eigendomssite",
+        "Locatie met prioriteit aan de stad",
+        "Beste voor een vastelandverblijf in Trat"
+      ]
+    },
+    {
+      "rank": 2,
+      "name": "Chivapuri Residence Trat",
+      "description": "Een nuttig stadshotel als wandelbaarheid naar de bushalte-kant, nachtmarkt en lokale restaurants belangrijker is dan resort-stijl voorzieningen.",
+      "price_range": "Budget tot middenklasse",
+      "category": "middenklasse",
+      "area": "Trat stadscentrum / bushalte-kant",
+      "highlights": [
+        "Officiële hotelsite",
+        "5 minuten lopen van het busstation",
+        "Gratis Wi-Fi en parkeren"
+      ]
+    },
+    {
+      "rank": 3,
+      "name": "Avada Hotel",
+      "description": "Een praktisch modern stedelijk verblijf als je een eenvoudige kamerbasis nabij de stad wilt zonder dat het hotel de hele reis wordt.",
+      "price_range": "Budget tot middenklasse",
+      "category": "budget",
+      "area": "Sukhumvit Road, Mueang Trat",
+      "highlights": [
+        "Officiële eigendomssite",
+        "Moderne stadskamerstijl",
+        "Nuttig voor korte verblijven"
+      ]
+    },
+    {
+      "rank": 4,
+      "name": "Koh Chang Paradise Resort & Spa",
+      "description": "Een sterkere resort-geleide eilandoptie als de Koh Chang-uitbreiding een opzettelijke overnachting is in plaats van een gehaaste toevoeging.",
+      "price_range": "Middenklasse tot bovengemiddelde middenklasse",
+      "category": "resort",
+      "area": "Klong Prao Beach, Koh Chang",
+      "highlights": [
+        "Officiële resortsite",
+        "Klong Prao strandbasis",
+        "Nuttige eilandovernachting"
+      ]
+    },
+    {
+      "rank": 5,
+      "name": "AWA Koh Chang",
+      "description": "Een meer gepolijst verblijf in Kai Bae als je de eilanduitbreiding modern en strandgericht wilt maken zonder directe-site duidelijkheid te verliezen.",
+      "price_range": "Middenklasse tot bovengemiddelde middenklasse",
+      "category": "resort",
+      "area": "Kai Bae Beach, Koh Chang",
+      "highlights": [
+        "Officiële resortsite",
+        "Kai Bae strandlocatie",
+        "Goed voor een selectieve eilanduitspatting"
+      ]
+    }
+  ],
+  "travel_tips": [
+    "Doe de stad eerst. Trat wordt zwakker als het museum en de oude wijk worden uitgesteld tot na de ferry-klusjes.",
+    "Gebruik Ban Nam Chiao of Laem Ngop als eerste vastelanduitbreiding voordat je beslist of een eilandovernachting zelfs nodig is.",
+    "Behandel Koh Chang als één bewerkte uitbreiding, niet als reden om de stad van de pagina te wissen.",
+    "Houd de eetroute vasteland-eerst: zeevruchtensnacks, noedels, zoetigheden en gemeenschapsgerechten werken allemaal beter voordat je offshore gaat.",
+    "Als het plan afhangt van boten, controleer dan het huidige weer en de operator-timing vlak voor vertrek opnieuw."
+  ],
+  "best_time_to_visit": "November tot april is het gemakkelijkste seizoen voor Trat omdat stadswandelingen en vasteland-kuststops comfortabeler zijn en de zeetoestanden meestal betrouwbaarder. Regenachtige maanden kunnen nog werken voor de stad en gemeenschapsroutes, maar eilandplannen moeten als weergevoeliger worden behandeld.",
+  "bestTimeToVisit": "November tot april is de veiligste allround fit voor Trat. De stad zelf werkt nog buiten dat venster, maar kust- en eilandtiming wordt weergevorderlijker en moet lokaal worden gecontroleerd.",
+  "budget_info": {
+    "budget_per_day": "Budget",
+    "midrange_per_day": "Middenklasse",
+    "luxury_per_day": "Hogere uitgaven"
+  },
+  "thingsToDo": "Begin met het museum en de oude wijk, voeg dan Rak Khlong Bang Phra toe, één vastelandgemeenschapsblok zoals Ban Nam Chiao of Laem Ngop, en beslis pas dan of Koh Chang of Koh Mak de zee-uitbreiding verdient.",
+  "whereToStay": "Verblijf in Trat stad als eten, het museum, oude straten en vastelandgemeenschapsroutes prioriteit hebben. Verplaats naar Koh Chang alleen als de eilandovernachting centraal staat in het plan in plaats van een automatische standaard.",
+  "whereToEat": [
+    {
+      "name": "Yai Saeng Grilled Cuttlefish",
+      "cuisine": "Zeevruchtensnack",
+      "priceRange": "Budget",
+      "description": "De sterkste stop voor houtskoolgegrilde zeevruchtensnacks in de stad."
+    },
+    {
+      "name": "Sukhumvit Crab Noodles",
+      "cuisine": "Zeevruchtennoedels",
+      "priceRange": "Budget tot middenklasse",
+      "description": "Een praktische stadslunch voor krabnoedels en zeevruchtenrijst."
+    },
+    {
+      "name": "Ba Na's grilled banana stall",
+      "cuisine": "Oude stad zoetigheden",
+      "priceRange": "Budget",
+      "description": "Een klassieke snackstop in de oude wijk."
+    },
+    {
+      "name": "Rim Kheuan Tom Yum Noodles",
+      "cuisine": "Zeevruchtennoedels en gemengde gerechten",
+      "priceRange": "Budget tot middenklasse",
+      "description": "Een sterker, voller maaltijd opgebouwd rond Trat-stijl zeevruchtennoedels."
+    },
+    {
+      "name": "Rimtalay Seafood & Resort",
+      "cuisine": "Zeevruchten",
+      "priceRange": "Middenklasse",
+      "description": "Beste gebruikt met de Laem Ngop vasteland-kustroute."
+    }
+  ],
+  "topHotels": [
+    {
+      "name": "Trat City Hotel",
+      "category": "middenklasse",
+      "priceRange": "Middenklasse",
+      "area": "Mueang Trat",
+      "description": "Een praktische vasteland-stad basis met directe officiële contacten."
+    },
+    {
+      "name": "Chivapuri Residence Trat",
+      "category": "middenklasse",
+      "priceRange": "Budget tot middenklasse",
+      "area": "Busstation / stadscentrum-kant",
+      "description": "Een eenvoudig stedelijk verblijf nabij het busstation, de markt en lokale restaurants."
+    },
+    {
+      "name": "Avada Hotel",
+      "category": "budget",
+      "priceRange": "Budget tot middenklasse",
+      "area": "Sukhumvit Road, Mueang Trat",
+      "description": "Een moderne optie voor kort verblijf in de stad."
+    },
+    {
+      "name": "Koh Chang Paradise Resort & Spa",
+      "category": "resort",
+      "priceRange": "Middenklasse tot bovengemiddelde middenklasse",
+      "area": "Klong Prao Beach, Koh Chang",
+      "description": "Een goede eilandovernachting als de Koh Chang-etappe doelbewust is."
+    },
+    {
+      "name": "AWA Koh Chang",
+      "category": "resort",
+      "priceRange": "Middenklasse tot bovengemiddelde middenklasse",
+      "area": "Kai Bae Beach, Koh Chang",
+      "description": "Een meer gepolijst strandverblijf op Koh Chang."
+    }
+  ],
+  "gettingAround": "Trat stad is beheersbaar met korte lokale ritten plus wandelen zodra je in de oude wijk en markt-kant bent. Ban Nam Chiao en Laem Ngop zijn echte vasteland-etappes en moeten zo behandeld worden. Iland-uitbreidingen hebben hun eigen transfer-timing nodig in plaats van ingeklemd tussen stadstops.",
+  "safetyTips": "Trat zelf is meestal eenvoudig, maar dezelfde gezond verstand zorg geldt in markten en transportknopen. Als je dag afhangt van ferries of gemeenschapsbootritten, verifieer dan het huidige weer en operator-condities in plaats van te vertrouwen op oudere statische gids-aannames.",
+  "faq": [
+    {
+      "question": "Is Trat het waard om te bezoeken als je niet op Koh Chang verblijft?",
+      "answer": "Ja. Het museum, oude wijk, Rak Khlong Bang Phra, Ban Nam Chiao, Laem Ngop en de culinaire laag van de stad geven Trat al genoeg substantie voor een vasteland-eerst verblijf."
+    },
+    {
+      "question": "Wat moet je eerst doen in Trat?",
+      "answer": "Begin met de oude wijk en het Trat City Museum, bouw dan uit naar Rak Khlong Bang Phra, Ban Nam Chiao of Laem Ngop zodra de stad zelf logisch is."
+    },
+    {
+      "question": "Moet je verblijven in Trat stad of op Koh Chang?",
+      "answer": "Verblijf in de stad als prioriteit ligt bij eten, markten, het museum en vastelandgemeenschapsroutes. Verblijf op Koh Chang alleen als de eilandovernachting het werkelijke doel is van dat deel van de reis."
+    },
+    {
+      "question": "Waar is Trat bekend om qua eten?",
+      "answer": "Trat is het sterkst in zeevruchtensnacks, krabnoedels, oude stad zoetigheden, salacca-gebonden gerechten en gemeenschapseten zoals specialiteiten van Ban Nam Chiao in plaats van één generieke restaurantstrook."
+    },
+    {
+      "question": "Hoeveel nachten heeft Trat nodig?",
+      "answer": "Twee nachten kunnen de stad plus één vasteland- of eilanduitbreiding dekken. Drie nachten werken beter als je de stad, Ban Nam Chiao of Laem Ngop en één selectief Koh Chang of Koh Mak blok wilt."
+    }
+  ],
+  "practicalInfo": {
+    "bestMonths": [
+      "Nov",
+      "Dec",
+      "Jan",
+      "Feb",
+      "Mar",
+      "Apr"
+    ],
+    "nearestAirport": "Trat Airport",
+    "travelTimeFromAirport": "De luchthaven ligt in Khao Saming; timing varieert per stadshotel of ferry-kant transfer.",
+    "localTransport": [
+      "Korte lokale ritten werken het best voor de oude wijk en markt-kant.",
+      "Wandelen is nuttig zodra je in de straten van het oude centrum bent.",
+      "Privéauto of geregelde transfer is de praktische fit voor Ban Nam Chiao en Laem Ngop.",
+      "Iland-etappes hebben aparte ferry- of bootplanning nodig."
+    ],
+    "arrival": "Trat Airport wordt eigendom en geëxploiteerd door Bangkok Airways en ligt aan de vastelandkant in Khao Saming, niet in de stad zelf.",
+    "transport": "Houd vasteland stadstijd en ferry transfer-tijd apart in het plan in plaats van ze te mengen in één vage Trat-dag.",
+    "planning": "Denk in lagen: stad en museum eerst, één vastelandgemeenschap of kustuitbreiding tweede, en één eilandblok alleen als het de tijd echt verdient."
+  },
+  "contentSources": [
+    {
+      "type": "provincie",
+      "title": "Trat Provincie Pagina",
+      "creator": "Tourism Authority of Thailand",
+      "url": "https://www.tourismthailand.org/Destinations/Provinces/Trat/466",
+      "description": "Gebruikt voor de bredere provincie-framing, vasteland-versus-eiland structuur, en seizoensgebonden zee-transport waarschuwingen."
+    },
+    {
+      "type": "reisgids",
+      "title": "10 Dingen om te Doen in Trat",
+      "creator": "Tourism Authority of Thailand",
+      "url": "https://www.tourismthailand.org/Articles/10-things-to-do-in-trat",
+      "description": "Gebruikt voor Laem Ngop, Ban Nam Chiao, en de versterkte bewerkte attractielaag rond het vasteland van Trat en de rustigere kant van Koh Chang."
+    },
+    {
+      "type": "kenmerk",
+      "title": "Cultureel Feest en Genietmomenten in Trat",
+      "creator": "MICHELIN Gids",
+      "url": "https://guide.michelin.com/th/en/article/features/gastronomy-journey-the-series-of-thailand-ep-7-cultural-feast-and-treats-at-trat",
+      "description": "Gebruikt voor Trat Museum, Ban Nam Chiao, Rak Khlong Bang Phra, salacca, en de framing van eten en cultuur in de stad."
+    },
+    {
+      "type": "bezienswaardigheid",
+      "title": "Trat City Museum",
+      "creator": "Tourism Authority of Thailand",
+      "url": "https://www.tourismthailand.org/Attraction/trat-city-museum",
+      "description": "Gebruikt als officiële referentie voor de museumlaag."
+    },
+    {
+      "type": "bezienswaardigheid",
+      "title": "Ban Nam Chiao Tourism Community Venture",
+      "creator": "Tourism Authority of Thailand",
+      "url": "https://www.tourismthailand.org/Attraction/ban-nam-chiao-tourism-community-venture",
+      "description": "Gebruikt als officiële attractiereferentie voor Ban Nam Chiao."
+    },
+    {
+      "type": "restaurant",
+      "title": "Mis Deze 5 Restaurants in Trat Niet",
+      "creator": "Tourism Authority of Thailand",
+      "url": "https://www.tourismthailand.org/Articles/https-www-tourismthailand-org-articles-don-tmissthese5restaurantsintrat",
+      "description": "Gebruikt voor Yai Saeng Grilled Cuttlefish, Sukhumvit Crab Noodles, Ba Na's grilled banana, Rim Kheuan Tom Yum Noodles, en Rimtalay Seafood & Resort."
+    },
+    {
+      "type": "eiland",
+      "title": "Koh Chang Provincie Pagina",
+      "creator": "Tourism Authority of Thailand",
+      "url": "https://www.tourismthailand.org/Destinations/Provinces/Ko%20Chang/467",
+      "description": "Gebruikt voor de rol van Koh Chang binnen de Trat-cluster en de algemene toegang framing."
+    },
+    {
+      "type": "eiland",
+      "title": "Vaart Stijlvol op de Gondel van Koh Chang",
+      "creator": "Tourism Authority of Thailand",
+      "url": "https://www.tourismthailand.org/Articles/cruise-in-style-on-koh-chang-s-gondola",
+      "description": "Gebruikt voor de gondeluitbreiding van de Salak Khok-community op Koh Chang."
+    },
+    {
+      "type": "eiland",
+      "title": "De Golf van Thailand. Koh Mak, Trat",
+      "creator": "Tourism Authority of Thailand",
+      "url": "https://www.tourismthailand.org/Articles/the-gulf-of-thailand-koh-mak-trat",
+      "description": "Gebruikt voor de rustigere eilandpositionering van Koh Mak binnen de Trat-cluster."
+    },
+    {
+      "type": "luchthaven",
+      "title": "Trat Airport",
+      "creator": "Bangkok Airways",
+      "url": "https://www.bangkokair.com/boutique-airports/trat-airport",
+      "description": "Gebruikt voor de huidige officiële luchthaveneigendom en locatiecontext."
+    },
+    {
+      "type": "hotel",
+      "title": "Trat City Hotel",
+      "creator": "Trat City Hotel",
+      "url": "https://www.tratcityhotel.com/contact_us",
+      "description": "Gebruikt voor directe eigendomscontactgegevens en stadslocatie."
+    },
+    {
+      "type": "hotel",
+      "title": "Chivapuri Residence Trat",
+      "creator": "Chivapuri Residence Trat",
+      "url": "https://www.chivapuriresidence.com/",
+      "description": "Gebruikt voor officiële locatie, nabijheid van het busstation, en parkeer- en Wi-Fi-gegevens."
+    },
+    {
+      "type": "hotel",
+      "title": "Avada Hotel Trat",
+      "creator": "Avada Hotel Trat",
+      "url": "https://www.avadahotel.com/book-a-room",
+      "description": "Gebruikt voor de officiële stadhoteloptie en directe eigendomscontactgegevens."
+    },
+    {
+      "type": "hotel",
+      "title": "Koh Chang Paradise Resort & Spa",
+      "creator": "Koh Chang Paradise Resort & Spa",
+      "url": "https://kohchangparadise.com/contact-us/",
+      "description": "Gebruikt voor de officiële Koh Chang resortoptie en eilandtoegang framing."
+    },
+    {
+      "type": "hotel",
+      "title": "AWA Koh Chang",
+      "creator": "AWA Koh Chang",
+      "url": "https://www.awakohchang.com/",
+      "description": "Gebruikt voor de officiële Kai Bae resortoptie."
+    }
+  ],
+  "reviewed_by": "Go2Thailand Redactie Team",
+  "enhanced_at": "2026-03-27T13:10:00.000Z",
+  "factchecked_at": "2026-03-27T13:10:00.000Z",
+  "enrichedAt": "2026-03-27T13:10:00.000Z"
+}

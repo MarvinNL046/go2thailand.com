@@ -1,0 +1,681 @@
+{
+  "id": 11,
+  "slug": "pai",
+  "name": {
+    "en": "Pai",
+    "nl": "Pai",
+    "ja": "パーイ",
+    "ko": "빠이",
+    "th": "ปาย",
+    "de": "Pai",
+    "fr": "Pai",
+    "ru": "Pai",
+    "zh": "Pai"
+  },
+  "region": "Noordelijk",
+  "province": "Mae Hong Son",
+  "description": {
+    "en": "Pai works best as a small Mae Hong Son valley town with a compact walking-street core, a few strong viewpoints and hot-spring stops, and one or two deliberate rural extensions instead of a backpacker-myth checklist.",
+    "nl": "Pai werkt het best als klein valleidorp in Mae Hong Son met een compact walking-street-hart, een paar sterke uitzicht- en warmwaterbronstops en hooguit een of twee bewuste landelijke uitstappen.",
+    "ja": "パーイは、バックパッカー神話の寄せ集めではなく、歩きやすい町の中心、数か所の強い展望地と温泉、そして厳選した郊外寄りの寄り道で組み立てると理解しやすい谷あいの町です。",
+    "ko": "빠이는 막연한 배낭여행 신화보다, 워킹스트리트 중심지와 몇 개의 강한 전망 포인트, 온천, 그리고 소수의 신중한 외곽 코스로 짜는 편이 훨씬 낫습니다.",
+    "th": "ปายเหมาะกับการเที่ยวแบบเมืองเล็กในหุบเขาที่มีแกนกลางชัดเจนอย่างถนนคนเดิน จุดชมวิวเด่น น้ำพุร้อน และทริปรอบนอกที่คัดมาแล้ว มากกว่าการไล่เช็กลิสต์แบบหลวม ๆ",
+    "de": "Pai funktioniert am besten als kleines Talstädtchen in Mae Hong Son mit klarer Walking-Street-Mitte, einigen starken Aussichtspunkten und Thermalstopps sowie nur ein oder zwei gezielten Ausflügen ins Umland.",
+    "fr": "Pai se visite mieux comme une petite ville de vallee a Mae Hong Son, avec un centre lisible autour de la walking street, quelques bons points de vue et sources chaudes, puis une ou deux extensions rurales choisies.",
+    "ru": "Пай лучше воспринимать как небольшой город в долине провинции Мэхонгсон: компактный центр вокруг walking street, несколько сильных смотровых точек и горячих источников, плюс одна-две продуманные вылазки за город.",
+    "zh": "Pai 更适合按“小山谷城镇”的逻辑来安排：以步行街核心、少量强势观景点与温泉，再加一两条有选择的乡间延伸，而不是套用背包客神话式清单。"
+  },
+  "population": 2200,
+  "highlights": [
+    "Pai Walking Street",
+    "Pai Canyon",
+    "Tha Pai Hot Spring",
+    "Wat Phra That Mae Yen",
+    "Santichon and Yun Lai",
+    "Kho Ku So Merit Bridge"
+  ],
+  "location": {
+    "lat": 19.3622,
+    "lng": 98.4406
+  },
+  "image": "/images/cities/generated/pai.webp",
+  "seo": {
+    "metaTitle": {
+      "en": "Pai Thailand Guide 2026 | Canyon, Hot Springs, Hotels, Food",
+      "nl": "Ontdek Pai | Wat te doen in Pai?",
+      "ja": "パーイを満喫 | パーイの観光・見どころガイド",
+      "ko": "빠이 태국 — 산간 마을 여행 가이드 2026",
+      "th": "ปาย ประเทศไทย — คู่มือท่องเที่ยวฉบับสมบูรณ์ 2026",
+      "de": "Pai entdecken | Was tun in Pai?",
+      "fr": "Découvrez Pai | Que faire à Pai ?",
+      "ru": "Откройте Pai | Чем заняться в Pai?",
+      "zh": "发现 Pai | 在 Pai 能做什么？"
+    },
+    "metaDescription": {
+      "en": "Plan Pai around Walking Street, Pai Canyon, Tha Pai Hot Spring, Wat Phra That Mae Yen, and one deliberate Santichon or Kho Ku So side trip.",
+      "nl": "Jouw gids voor Pai, Thailand – tips, highlights, eten, hotels en het mooiste berglandschap.",
+      "ja": "タイ・パーイの旅行ガイド — おすすめスポット、グルメ、ホテル、山間の絶景情報をご紹介。",
+      "ko": "빠이(태국) 완벽 여행 가이드: 캐니언, 온천, 야시장, 폭포. 가격, 팁, 치앙마이에서 가는 법.",
+      "th": "คู่มือท่องเที่ยวปาย ประเทศไทย — สถานที่ท่องเที่ยว อาหาร ที่พัก และเคล็ดลับ อัปเดต 2026",
+      "de": "Ihr Reiseführer zu Pai, Thailand – Tipps, Highlights, Essen, Hotels und die beste Berglandschaft.",
+      "fr": "Votre guide de Pai, Thaïlande – conseils, points forts, gastronomie, hôtels et les plus beaux paysages de montagne.",
+      "ru": "Ваш гид по Pai, Таиланд — советы, главные достопримечательности, еда, отели и лучшие горные пейзажи.",
+      "zh": "您的 Pai，泰国旅游指南——贴士、亮点、美食、酒店，以及最美的山景。"
+    }
+  },
+  "categories": {
+    "food": {
+      "en": "Best restaurants and street food in Pai",
+      "nl": "Beste restaurants en streetfood in Pai",
+      "ja": "パーイのおすすめレストラン＆ストリートフード",
+      "ko": "빠이 추천 레스토랑과 길거리 음식",
+      "th": "ร้านอาหารและสตรีทฟู้ดที่ดีที่สุดในปาย"
+    },
+    "hotels": {
+      "en": "Top hotels in Pai | Tips & deals",
+      "nl": "Beste hotels in Pai | Tips & aanbiedingen",
+      "ja": "パーイのおすすめホテル｜お得な情報＆アドバイス",
+      "ko": "빠이 추천 호텔 | 팁 & 특가",
+      "th": "โรงแรมแนะนำในปาย | เคล็ดลับและดีล"
+    },
+    "attractions": {
+      "en": "Top attractions in Pai",
+      "nl": "Top bezienswaardigheden in Pai",
+      "ja": "パーイの人気観光スポット",
+      "ko": "빠이 인기 관광 명소",
+      "th": "สถานที่ท่องเที่ยวยอดนิยมในปาย"
+    }
+  },
+  "tags": [
+    "noordelijk",
+    "pai",
+    "Thailand",
+    "mae-hong-son",
+    "walking-street",
+    "pai-canyon",
+    "hot-springs"
+  ],
+  "enhanced_description": "Pai is nog steeds makkelijker te plannen als je de backpacker-mythes weglaat en het behandelt als een compact dalstadje met een sterk centrum. De duidelijkste volgorde begint in de stad: Walking Street en de omliggende steegjes voor eten en avondritme, Wat Phra That Mae Yen voor het uitzicht op het dal en de tempellaag, en Pai Canyon als de landschapsstop die meteen het bredere bekken uitlegt.\n\nDaarna wordt de reis sterker als je hem bewerkt. Tha Pai Hot Spring is de eenvoudigste natuur-en-rust toevoeging dicht bij de stad, terwijl Santichon en Yun Lai het best werken als één bewuste ochtend aan de noordkant in plaats van als afzonderlijke checklist-items. Kho Ku So Merit Bridge geeft je de rijstvelden- en klooster rand van Pai, maar het moet worden gebruikt als een enkele landelijke uitbreiding, niet als onderdeel van een overbelaste dag vol watervallen, bruggen, cafés en willekeurige wegstops.\n\nDiezelfde selectiviteit verbetert ook het verblijf. Slaap dicht bij het centrum als de avondmarkt belangrijk is, verplaats naar een rustigere rivier- of tuinlocatie als je langzamere ochtenden wilt, en houd de reisroute klein genoeg zodat Pai nog steeds als Pai aanvoelt in plaats van een geforceerde provinciale sweep.",
+  "overview": "Pai is klein genoeg dat de kwaliteit van de reis meer afhangt van de volgorde dan van het volume. Het stadscentrum draait nog steeds om de bushalte-kant, Chaisongkhram en Rungsiyanon, en de nachtelijke Walking Street-laag die het centrum omtovert in de makkelijkste plek voor eten, korte wandelingen en casual avondplanning. Hier moeten eerste bezoekers hun oriëntatie krijgen voordat ze verder het dal in rijden.\n\nDe beste ondersteunende attracties zijn degenen die duidelijk leesbaar zijn vanaf dat centrum. Pai Canyon blijft de sterkste landschapsstop omdat het het dal visueel uitlegt zonder veel voorbereiding. Wat Phra That Mae Yen voegt de essentiële tempel-en-uitzichtpunt-laag toe, terwijl Tha Pai Hot Spring Pai een langzamere herstelstop geeft die nog steeds past in een kort verblijf. Dit zijn de plekken die de reis vormgeven, niet vage claims over contre-cultuur of eindeloze digital-nomad levensstijl.\n\nDe buitenste ring heeft terughoudendheid nodig. Santichon en Yun Lai werken het best als één ochtend aan de noordkant, en Kho Ku So Merit Bridge is nuttig als je een rijstveld-kloosterwandeling wilt zonder de dag om te zetten in een versnipperde plattelandslus. Het punt is niet om elke Pai-pin op de kaart te verzamelen; het is om het dal leesbaar en de moeite waard te houden om er een nacht te blijven.",
+  "hidden_gems": [
+    {
+      "name": "Wat Nam Hu",
+      "why_special": "Het voegt een rustigere heilige stop toe ten noorden van de stad zonder een aparte halve dag te forceren.",
+      "local_tip": "Integreer het in de Santichon- en Yun Lai-kant van Pai in plaats van het als een standalone attractie te behandelen.",
+      "best_time": "Ochtend",
+      "href": "/city/pai/top-10-attractions/",
+      "cta_label": "Bekijk de attractiegids"
+    },
+    {
+      "name": "Land Split",
+      "why_special": "Het is een van de weinige plattelandstops aan de Pai-kant die nog steeds werkt als een snelle, nieuwsgierige omweg zonder een volledig avontuurscript nodig te hebben.",
+      "local_tip": "Gebruik het alleen als je al aan de zuidelijke plattelandskant bent met Kho Ku So of de warmwaterbronweg.",
+      "best_time": "Laat in de ochtend",
+      "href": "/city/pai/top-10-attractions/",
+      "cta_label": "Bekijk de attractiegids"
+    }
+  ],
+  "authentic_experiences": [
+    {
+      "activity": "Gebruik Walking Street als je avondanker in plaats van als een wegwerp nachtmarktstop",
+      "story": "De Tourism Authority of Thailand presenteert Pai Walking Street nog steeds als het hart van het lokale nachtleven en avondstraateten, wat het juiste redactionele centrum is voor de stad na donker.",
+      "cultural_significance": "De marktlaag doet ertoe omdat Pai's centrum 's avonds te voet veel meer gelezen wordt dan door grote attracties.",
+      "how_to_participate": "Aankomen voor de piek in de late avond, in fasen eten, en laat de markt de nacht definiëren in plaats van te racen naar bars en buitenwegstops.",
+      "insights": [
+        "Dit is de duidelijkste eerste nachtmove in Pai.",
+        "Een centraal hotelbasis verbetert het hele avondritme."
+      ],
+      "href": "/city/pai/attractions/pai-walking-street/",
+      "cta_label": "Bekijk de Walking Street-gids"
+    },
+    {
+      "activity": "Behandel Pai Canyon als een echte dal-leesstop, niet alleen als een zonsondergang selfie-punt",
+      "story": "TAT positioneert Pai Canyon nog steeds als de bekendste zonsondergangstop van de provincie, maar de sterkere lezing is de rode zandstenenrichel en het volledige bekkenuitzicht over het Pai-dal.",
+      "cultural_significance": "Het is de landschapsafkorting voor Pai geworden omdat het het dal, de bergen en de erosie-gevormde richel samenvat in één korte wandeling.",
+      "how_to_participate": "Ga vroeg of laat, draag goede schoenen, en behandel de veiligere uitzichtgebieden als voldoende als de smalle richel niet bij je past.",
+      "insights": [
+        "Ochtend is sterker als je minder mensen wilt.",
+        "Je hebt geen lang bezoek nodig om het te laten werken."
+      ],
+      "href": "/city/pai/attractions/pai-canyon/",
+      "cta_label": "Bekijk de canyon-gids"
+    },
+    {
+      "activity": "Gebruik Wat Phra That Mae Yen om de reis een tempel-en-uitzichtpunt-laag te geven",
+      "story": "De officiële toerismekaart van Mae Hee markeert Phra That Mae Yen nog steeds als een van Pai's headline bezienswaardigheden, en het blijft de schoonste manier om een spirituele stop met een echt dalpanorama toe te voegen.",
+      "cultural_significance": "De tempel voorkomt dat Pai instort in pure markt-en-natuur branding.",
+      "how_to_participate": "Bezoek laat op de dag of 's ochtends, kleed je respectvol, en koppel het aan het stadscentrum in plaats van aan een verre buitenval-drijvingsrit.",
+      "insights": [
+        "Dit is de beste tempelstop voor een kort Pai-verblijf.",
+        "Het werkt vooral goed op aankomstdag of vertrekochtend."
+      ],
+      "href": "/city/pai/attractions/wat-phra-that-mae-yen/",
+      "cta_label": "Bekijk de Mae Yen-gids"
+    },
+    {
+      "activity": "Houd Santichon en Yun Lai als één bewuste ochtend aan de noordkant",
+      "story": "De officiële toerismekaart van Mae Hee en de Pai-cultuurlaag van Amazing Thailand houden Yun Lai zichtbaar in de noordelijke Pai-cluster.",
+      "cultural_significance": "Die kant van Pai toont de Yunnan-gekoppelde nederzettingslaag van de stad duidelijker dan generieke café-hopping ooit zal doen.",
+      "how_to_participate": "Ga 's ochtends, houd de route kort, en bouw die kant van de stad niet op met te veel stops.",
+      "insights": [
+        "Behandel Santichon en Yun Lai als één gecombineerde uitstap.",
+        "Dit werkt beter dan zowel een warmwaterbron als een lange waterval lus in dezelfde dag te forceren."
+      ],
+      "href": "/city/pai/attractions/santichon-and-yun-lai-viewpoint/",
+      "cta_label": "Bekijk de Santichon-gids"
+    }
+  ],
+  "foodie_adventures": [
+    {
+      "dish": "Street-food grazen en licht avondeten",
+      "location": "Pai Walking Street",
+      "story": "TAT presenteert Walking Street nog steeds als het hart van Pai's eten-en-ambacht avondritme, wat het de sterkste eerste nacht eetplan maakt.",
+      "where_to_find": "Stadscentrum, rond de Walking Street en aangrenzende steegjes.",
+      "price_range": "Budget",
+      "ordering_tips": [
+        "Eet in kleinere rondes in plaats van meteen één volledig diner te kiezen.",
+        "Dit is de makkelijkste manier om Pai's avond gecentreerd te houden in de stad."
+      ],
+      "href": "/city/pai/top-10-restaurants/",
+      "cta_label": "Bekijk de eetgids"
+    },
+    {
+      "dish": "Tuincafé brunch met vegetarisch-vriendelijk assortiment",
+      "location": "Om Garden Cafe",
+      "story": "De listing van Amazing Thailand positioneert Om Garden nog steeds als een tuinenrestaurant in het hart van Pai met Westerse, Mediterrane, Aziatische, vegetarische en vegan opties.",
+      "where_to_find": "Wiang Tai, centraal Pai.",
+      "price_range": "Budget tot middenklasse",
+      "ordering_tips": [
+        "Het best gebruikt voor een langzamer ontbijt of lunch, niet als een gehaaste stop tussen ritten."
+      ],
+      "href": "/city/pai/top-10-restaurants/",
+      "cta_label": "Bekijk de eetgids"
+    },
+    {
+      "dish": "Thaise en Myanmarese gerechten met een plattelandssetting",
+      "location": "Two Sisters Restaurant",
+      "story": "De directe site van het restaurant positioneert het rond Thais en Myanmars eten met berguitzichten, wat de Pai eetpagina een sterkere regionale rand geeft dan een generiek internationaal café.",
+      "where_to_find": "Mae Hi-kant van Pai.",
+      "price_range": "Budget tot middenklasse",
+      "ordering_tips": [
+        "Gebruik dit als je een maaltijd wilt die meer geworteld aanvoelt dan het casual markt-snacken in het centrum."
+      ],
+      "href": "/city/pai/top-10-restaurants/",
+      "cta_label": "Bekijk de eetgids"
+    },
+    {
+      "dish": "Een gepolijst diner dicht bij het centrum",
+      "location": "The Blue Ox Steak House",
+      "story": "De directe eetpagina van Pai Village presenteert The Blue Ox nog steeds als een avondrestaurant met steaks, pasta's, Thaise gerechten en een diepere dranklijst.",
+      "where_to_find": "Pai Village Boutique Resort, Wiang Tai.",
+      "price_range": "Middenklasse",
+      "ordering_tips": [
+        "Gebruik dit als je een meer gestructureerd zit-diner wilt na markt- of canyon-tijd."
+      ],
+      "href": "/city/pai/top-10-restaurants/",
+      "cta_label": "Bekijk de eetgids"
+    }
+  ],
+  "local_insights": [
+    "Pai is beter als het centrum echt tijd krijgt voordat je het dal in rijdt.",
+    "Walking Street is de avondruggengraat, geen optionele toevoeging.",
+    "Pai Canyon en Mae Yen doen meer voor een kort verblijf dan meerdere watervallen stapelen.",
+    "Santichon en Yun Lai zijn het sterkst als één ochtend, niet als afzonderlijke headline attracties.",
+    "Een centraal verblijf wint meestal van een verafgelegen resort tenzij je specifiek rustige ochtenden wilt boven wandelbare avonden."
+  ],
+  "seasonal_secrets": "November tot februari is nog steeds het makkelijkste seizoen voor Pai omdat canyon-wandelingen, tempelbeklimmingen, warmwaterbron-stops en vroege daluitzichten allemaal comfortabeler zijn. Maart en april kunnen veel waziger zijn door noordelijke rookseizoen-condities, dus zichtbaarheid moet als veranderlijk worden behandeld in plaats van gegarandeerd. Het regenseizoen kan het dal groener en zachter maken, maar timing van buitenwegen en modderige paden moet lokaal worden nagecheckt voordat je een hele dag eromheen bouwt.",
+  "budget_reality": "Pai kan nog steeds op een bescheiden budget worden gedaan als je dicht bij het centrum verblijft, de markt en casual cafés goed gebruikt, en transport eenvoudig houdt. Kosten stijgen als je een voertuig huurt voor elke beweging, een buiten-de-stad resort boekt en toch elke nacht naar het centrum pendelt, of een kort verblijf omzet in een reeks betaalde zijtrips. Het betere gebruik van geld is meestal één goed gelegen kamer, één goed zit-diner, en een selectief attractieplan.",
+  "top_attractions": [
+    {
+      "rank": 1,
+      "name": "Pai Walking Street",
+      "description": "De duidelijkste eerste stop in Pai na donker, omdat het de stad zijn eten, ambacht en avondtempo tegelijk geeft.",
+      "location": "Chaisongkhram en Rungsiyanon-gebied, centraal Pai",
+      "entrance_fee": "Openbare straatmarkttoegang",
+      "highlights": [
+        "Avondmarkt ritme",
+        "Straateten en ambachten",
+        "Beste eerste-nacht anker"
+      ],
+      "href": "/city/pai/attractions/pai-walking-street/",
+      "cta_label": "Bekijk de Walking Street-gids"
+    },
+    {
+      "rank": 2,
+      "name": "Pai Canyon",
+      "description": "De sterkste landschapsstop in Pai, met rode zandstenenrichel en een duidelijk uitzicht over het dal.",
+      "location": "Zuidwest van centraal Pai",
+      "entrance_fee": "Typisch eenvoudige openbare toegang; controleer lokaal de huidige site-opzet",
+      "highlights": [
+        "Rode zandstenenrichel",
+        "Breed daluitzicht",
+        "Sterke zonsopgang- of zonsondergang-logica"
+      ],
+      "href": "/city/pai/attractions/pai-canyon/",
+      "cta_label": "Bekijk de canyon-gids"
+    },
+    {
+      "rank": 3,
+      "name": "Tha Pai Hot Spring",
+      "description": "De makkelijkste herstel-natuurstop dicht bij de stad, met natuurlijke poelen en een kalmer tempo dan Pai's uitzichtpunt-circuit.",
+      "location": "Tha Pai-kant van het dal",
+      "entrance_fee": "Beschermde-gebiedsfees kunnen veranderen; verifieer lokaal voor bezoek",
+      "highlights": [
+        "Natuurlijke warmwaterbronpoelen",
+        "Dicht bij de stad",
+        "Goede halve dag natuurstop"
+      ],
+      "href": "/city/pai/attractions/pai-hot-springs/",
+      "cta_label": "Bekijk de warmwaterbron-gids"
+    },
+    {
+      "rank": 4,
+      "name": "Wat Phra That Mae Yen",
+      "description": "Pai's sterkste tempel-en-uitzichtpunt-stop, die de stad een duidelijke heilige laag en een sterk daloverzicht geeft.",
+      "location": "Mae Hee-kant van Pai",
+      "entrance_fee": "Tempeldonaties zijn gebruikelijk",
+      "highlights": [
+        "Witte Boeddha heuvelzicht",
+        "Beste tempelstop in Pai",
+        "Nuttige late-dag klim"
+      ],
+      "href": "/city/pai/attractions/wat-phra-that-mae-yen/",
+      "cta_label": "Bekijk de Mae Yen-gids"
+    },
+    {
+      "rank": 5,
+      "name": "Santichon and Yun Lai Viewpoint",
+      "description": "De sterkste noordkant-uitbreiding als je Yunnan-gekoppeld dorpcontext en een bewerkte zonsopgang-uitzichtpunt-ochtend wilt.",
+      "location": "Noord van centraal Pai",
+      "entrance_fee": "Kleine lokale fees kunnen gelden bij sommige stops; verifieer bij aankomst",
+      "highlights": [
+        "Yunnan culturele laag",
+        "Zonsopgang-uitzichtpunt koppel",
+        "Het best gedaan als één ochtend"
+      ],
+      "href": "/city/pai/attractions/santichon-and-yun-lai-viewpoint/",
+      "cta_label": "Bekijk de Santichon-gids"
+    },
+    {
+      "rank": 6,
+      "name": "Kho Ku So Merit Bridge",
+      "description": "Een rustigere rijstveld- en klooster-kant wandeling als je één landelijke uitbreiding wilt zonder Pai om te zetten in een volledige plattelandslus.",
+      "location": "Pam Bok-kant van Pai District",
+      "entrance_fee": "Lokale toegangcondities kunnen veranderen; controleer ter plaatse",
+      "highlights": [
+        "Rijstveld-looppad",
+        "Kloostersetting",
+        "Enkele sterke landelijke toevoeging"
+      ],
+      "href": "/city/pai/attractions/kho-ku-so-merit-bridge/",
+      "cta_label": "Bekijk de brug-gids"
+    }
+  ],
+  "top_restaurants": [
+    {
+      "rank": 1,
+      "name": "Pai Walking Street food stalls",
+      "description": "Het nuttigste eerste-nacht eetplan in Pai omdat het past bij het echte avondritme van de stad.",
+      "cuisine_type": "Thais straateten en snacks",
+      "price_range": "Budget",
+      "highlights": [
+        "Sterkste eerste-nacht maaltijdpatroon",
+        "Street-food variëteit",
+        "Centraal avondsetting"
+      ]
+    },
+    {
+      "rank": 2,
+      "name": "Om Garden Cafe",
+      "description": "Een betrouwbare ontbijt- of lunchstop met tuinzitplaatsen en een breder vegetarisch-vriendelijk menu dan de meeste Pai snelle stops.",
+      "cuisine_type": "Café, vegetarisch-vriendelijk, gemengd menu",
+      "price_range": "Budget tot middenklasse",
+      "highlights": [
+        "Amazing Thailand listing",
+        "Tuinsetting",
+        "Brunch-vriendelijk"
+      ]
+    },
+    {
+      "rank": 3,
+      "name": "Two Sisters Restaurant",
+      "description": "Een sterkere eetpagina-inclusie dan generieke ranking copy omdat de eigen site van het restaurant de Thaise en Myanmarese hoek zichtbaar houdt.",
+      "cuisine_type": "Thais en Myanmars",
+      "price_range": "Budget tot middenklasse",
+      "highlights": [
+        "Officiële restaurantsite",
+        "Thaise en Myanmarese gerechten",
+        "Mae Hi-kant setting"
+      ]
+    },
+    {
+      "rank": 4,
+      "name": "The Blue Ox Steak House",
+      "description": "Een gepolijste zit-diner optie dicht bij het centrum als je een meer gestructureerde avondmaaltijd wilt dan markt grazen.",
+      "cuisine_type": "Steakhouse, Thais, pasta en grill",
+      "price_range": "Middenklasse",
+      "highlights": [
+        "Officiële dinerpagina",
+        "Goede optie voor het diner",
+        "Dicht bij Walking Street"
+      ]
+    },
+    {
+      "rank": 5,
+      "name": "Limoncello Pai",
+      "description": "Een nuttige tweede gepolijste dineroptie als je verblijf in Pai meer neigt naar wijnbar- en pasta-avonden in plaats van alleen markteten.",
+      "cuisine_type": "Italiaans en wijnbar",
+      "price_range": "Middenklasse",
+      "highlights": [
+        "Officiële dinerpagina",
+        "Italiaans menu",
+        "Centrale ligging aan het resortgebied"
+      ]
+    }
+  ],
+  "top_hotels": [
+    {
+      "rank": 1,
+      "name": "Pai Village Boutique Resort",
+      "description": "De duidelijkste centrale accommodatie als je toegang tot Walking Street wilt zonder af te zien van een rustigere tuinachtige setting.",
+      "price_range": "Middenklasse",
+      "category": "middenklasse",
+      "highlights": [
+        "Officiële hotelwebsite",
+        "Op loopafstand van Walking Street",
+        "Tuinresort-setting"
+      ]
+    },
+    {
+      "rank": 2,
+      "name": "Rim Pai Cottage",
+      "description": "Een sterkere rivieroeverbasis dan generieke lijstvullers als je de markt dichtbij wilt maar niet pal in het drukste centrum.",
+      "price_range": "Middenklasse",
+      "category": "middenklasse",
+      "highlights": [
+        "Officiële hotelwebsite",
+        "Rand van de Pai-rivier",
+        "Walking Street vlakbij"
+      ]
+    },
+    {
+      "rank": 3,
+      "name": "Family House Zen Boutique Resort",
+      "description": "Een kleine boetiekoptie voor reizigers die een vredige tuinbasis willen die nog steeds dicht bij de stad en Wat Phra That Mae Yen ligt.",
+      "price_range": "Middenklasse",
+      "category": "middenklasse",
+      "highlights": [
+        "Officiële hotelwebsite",
+        "Vredige tuinatmosfeer",
+        "Dicht bij de stad"
+      ]
+    },
+    {
+      "rank": 4,
+      "name": "Ai Pai Hotel",
+      "description": "Een praktisch centraal hotel als je directe toegang wilt tot de nachtmarkt en de bushalte-kant van de stad.",
+      "price_range": "Middenklasse",
+      "category": "middenklasse",
+      "highlights": [
+        "Amazing Thailand-vermelding",
+        "Dicht bij Pai Night Market",
+        "Dicht bij Pai busstation"
+      ]
+    },
+    {
+      "rank": 5,
+      "name": "Pai Hotsprings Spa Resort",
+      "description": "Een betere keuze als je prioriteit geeft aan een rustigere natuurgerichte accommodatie in plaats van midden in de avondmarktloop.",
+      "price_range": "Budget tot middenklasse",
+      "category": "middenklasse",
+      "highlights": [
+        "Officiële hotelwebsite",
+        "Ligging aan de rivieroever",
+        "Warmwaterbronnen"
+      ]
+    },
+    {
+      "rank": 6,
+      "name": "Montis Resort",
+      "description": "Een resort-stijl optie voor reizigers die meer waarde hechten aan privacy, bergomlijsting en een groter perceelgevoel dan aan overal lopen.",
+      "price_range": "Middenklasse tot bovengemiddelde middenklasse",
+      "category": "luxe",
+      "highlights": [
+        "Officiële hotelwebsite",
+        "Ligging in bergketen",
+        "Groter resortoppervlak"
+      ]
+    }
+  ],
+  "travel_tips": [
+    "Pai is compact in de stad, maar de buitenattracties liggen ver genoeg uit elkaar dat je vooraf moet beslissen of je loopt, rijdt of een chauffeur regelt.",
+    "De weg naar Chiang Mai vereist nog steeds planning voor reisziekte als je gevoelig bent voor bochtige bergwegen.",
+    "Overlaad geen dag met canyon, warmwaterbronnen, Santichon, een landelijke brug en een zonsondergangbeklimming. Pai wordt zwakker als de route een speed-run wordt.",
+    "Verblijf dicht bij het centrum als Walking Street elke avond belangrijk is. Verblijf verder naar buiten alleen als rustige ochtenden belangrijker zijn dan wandelbare avonden.",
+    "Gebruik geschikte schoenen voor Pai Canyon en de Mae Yen-beklimming, vooral buiten de droogste maanden."
+  ],
+  "best_time_to_visit": {
+    "season": "November tot februari",
+    "weather": "Koelere ochtenden, helderdere vallei-uitzichten en de makkelijkste omstandigheden voor canyonwandelingen, tempelbeklimmingen en warmwaterbronbezoeken.",
+    "reasons": "Dit is het schoonste seizoen om de stadskern te combineren met een of twee buitenvallei-stops zonder de hele dag op te bouwen rond hitte of regen."
+  },
+  "budget_info": {
+    "daily_budget": {
+      "budget": "Pai kan nog steeds betaalbaar worden gedaan als je centraal verblijft, Walking Street goed gebruikt en transportkeuzes eenvoudig houdt.",
+      "mid": "Middenklasse-uitgaven gaan meestal naar een betere hotelbasis, meer zit-etentjes en makkelijker transport voor buitenvallei-stops.",
+      "luxury": "Hogere uitgaven in Pai betekenen vooral resortcomfort en privétransport in plaats van grootstedelijke luxevoorraad."
+    }
+  },
+  "thingsToDo": "Begin met de stadskern en avondritme van Pai, bouw dan voorzichtig uitwaarts. Pai Walking Street is de duidelijke eerste-avondankert, Pai Canyon is de sterkste landschapsstop, Wat Phra That Mae Yen voegt de nodige tempel-en-uitzichtlaag toe, en Tha Pai Hot Spring geeft de reis een langzamere herstellende halve dag. Als je nog een echte uitbreiding wilt, kies dan voor de Santichon- en Yun Lai-kant of Kho Ku So Merit Bridge in plaats van de hele vallei in één trip te proberen.",
+  "whereToStay": "De sterkste eerste basis is nog steeds dicht bij centraal Pai, waar Walking Street, de bushalte-kant en de belangrijkste avondetenlaag gemakkelijk bereikbaar zijn. Verplaats je verder naar buiten alleen als je specifiek een rustigere resortochtend wilt en comfortabel bent met het inruilen van de mogelijkheid om 's nachts terug te lopen vanaf de markt of restaurants.",
+  "whereToEat": [
+    {
+      "name": "Pai Walking Street food stalls",
+      "cuisine": "Straateten en snacks",
+      "priceRange": "Budget",
+      "description": "Beste voor een eerste-avond grazen opgebouwd rond het avondmarktritme van Pai."
+    },
+    {
+      "name": "Om Garden Cafe",
+      "cuisine": "Café en vegetarisch-vriendelijk gemengd menu",
+      "priceRange": "Budget tot middenklasse",
+      "description": "Een nuttige ontbijt- of lunchstop in centraal Pai."
+    },
+    {
+      "name": "Two Sisters Restaurant",
+      "cuisine": "Thais en Myanmars",
+      "priceRange": "Budget tot middenklasse",
+      "description": "Een van de sterkere niet-marktmaaltijden als je regionale smaken wilt met een duidelijk standpunt."
+    },
+    {
+      "name": "The Blue Ox Steak House",
+      "cuisine": "Steakhouse en breder dinermenu",
+      "priceRange": "Middenklasse",
+      "description": "Een gepolijste avondoptie dicht bij het centrum."
+    }
+  ],
+  "topHotels": [
+    {
+      "name": "Pai Village Boutique Resort",
+      "category": "middenklasse",
+      "priceRange": "Middenklasse",
+      "area": "Centraal Pai / Walking Street-kant",
+      "description": "De sterkste allround centrale accommodatie voor de meeste eerste reizen."
+    },
+    {
+      "name": "Rim Pai Cottage",
+      "category": "middenklasse",
+      "priceRange": "Middenklasse",
+      "area": "Pai-rivier rand dicht bij het centrum",
+      "description": "Een goede rivieroeverbasis met sterke toegang tot Walking Street."
+    },
+    {
+      "name": "Family House Zen Boutique Resort",
+      "category": "middenklasse",
+      "priceRange": "Middenklasse",
+      "area": "Mae Hee-kant dicht bij de stad",
+      "description": "Een rustigere boetiekoptie nog steeds dicht genoeg bij centraal Pai."
+    },
+    {
+      "name": "Ai Pai Hotel",
+      "category": "middenklasse",
+      "priceRange": "Middenklasse",
+      "area": "Dicht bij Pai busstation en nachtmarkt",
+      "description": "Een praktisch centraal hotel voor kortere verblijven en makkelijke aankomsten."
+    },
+    {
+      "name": "Pai Hotsprings Spa Resort",
+      "category": "middenklasse",
+      "priceRange": "Budget tot middenklasse",
+      "area": "Buiten het centrum aan de warmwaterbron-kant",
+      "description": "Beter voor rustigere resorttijd dan voor nachtelijke markt wandelingen."
+    },
+    {
+      "name": "Montis Resort",
+      "category": "luxe",
+      "priceRange": "Middenklasse tot bovengemiddelde middenklasse",
+      "area": "Buiten Pai-vallei",
+      "description": "Een grotere resort-stijl optie met meer privacy en bergomlijsting."
+    }
+  ],
+  "gettingAround": "Pai-stad zelf is gemakkelijk te voet als je dicht bij het centrum verblijft, maar de buitenvallei vereist meer bewuste transportkeuzes. Veel bezoekers rijden of regelen lokale chauffeurs voor canyon, warmwaterbronnen, brug en noordkant-uitzicht trips. Als je plan afhangt van actuele minivan-tijden vanuit Chiang Mai of vervolgtransport, controleer dan direct bij de operator voor de reisdag in plaats van te vertrouwen op oudere statische gidsen.",
+  "bestTimeToVisit": "November tot februari is de makkelijkste algehele fit voor Pai omdat canyonwandelingen, tempelbeklimmingen, warmwaterbronstops en vroege vallei-uitzichten comfortabeler zijn. Maart en april kunnen neveliger zijn in het noorden, dus zichtbaarheid moet als veranderlijk worden behandeld in plaats van gegarandeerd. Het regenseizoen kan nog steeds werken als je de reis selectiever houdt en buitenwegcondities lokaal hercontroleert.",
+  "safetyTips": "Pai is meestal eenvoudig, maar de echte risico's komen van transport en terrein in plaats van de stad zelf. Rijd voorzichtig op valleiwegen, vermijd het forceren van smalle richels of steile tempelbeklimmingen in slechte omstandigheden, en behandel beschermde-gebied of warmwaterbron-toegang niet als vast zonder een lokale hercontrole op dezelfde dag. Respecteer actieve tempels, houd waardevolle spullen veilig op de nachtmarkt, en geef jezelf marge op de Chiang Mai-weg als je vatbaar bent voor reisziekte of vertragingen.",
+  "faq": [
+    {
+      "question": "Hoeveel nachten heb je nodig in Pai?",
+      "answer": "Twee nachten is de minimale sterke versie omdat het je één echte stadavond plus één echte dag geeft voor canyon, tempel, warmwaterbron of een noordkant-ochtend. Drie nachten werkt beter als je een rustiger tempo wilt."
+    },
+    {
+      "question": "Wat is het beste eerste om te doen in Pai?",
+      "answer": "Voor de meeste reizigers is het gewoon aankomen, settelen dicht bij het centrum en Pai Walking Street gebruiken als eerste-avondanker. Dat geeft de stad meteen vorm."
+    },
+    {
+      "question": "Heb je een scooter of auto nodig in Pai?",
+      "answer": "Niet voor het centrum zelf, maar je hebt meestal een rit, huur of chauffeur nodig zodra je Pai Canyon, warmwaterbronnen, Santichon of buitenvallei-stops toevoegt."
+    },
+    {
+      "question": "Wat moet je prioriteren als je maar één volle dag hebt?",
+      "answer": "Houd het bewerkt: Pai Canyon, Wat Phra That Mae Yen, één eetblok in de stad, en óf Tha Pai Hot Spring óf één Santichon- en Yun Lai-ochtend."
+    },
+    {
+      "question": "Is Pai voornamelijk een backpackerstad?",
+      "answer": "Die reputatie bestaat, maar het is een onvolledige manier om de reis te plannen. Pai is sterker als een kleine vallei-stad met een leesbaar centrum, een paar echte uitzichten en selectieve landelijke uitbreidingen."
+    }
+  ],
+  "practicalInfo": {
+    "bestMonths": [
+      "Nov",
+      "Dec",
+      "Jan",
+      "Feb"
+    ],
+    "arrival": "De meeste bezoekers bereiken Pai over de weg vanuit Chiang Mai. Als je afhankelijk bent van exacte vertrektijden, verifieer dan het huidige operatorschema voor de reisdag.",
+    "transport": "Loop het centrum, gebruik dan een scooter, lokale chauffeur of geregelde rit voor canyon, warmwaterbron en buitenvallei-stops.",
+    "planning": "Bouw Pai in lagen op: centrum eerst, één uitzicht- of tempelblok tweede, en pas daarna één echte buitenvallei-uitbreiding."
+  },
+  "contentSources": [
+    {
+      "type": "toeristenkantoor",
+      "title": "Mae Hong Son",
+      "creator": "Tourism Authority of Thailand",
+      "url": "https://www.tourismthailand.org/Articles/mae-hong-son",
+      "description": "Gebruikt voor Pai Canyon en Pai Walking Street framing, plus algemene Pai-vallei planninglogica."
+    },
+    {
+      "type": "toeristenkantoor",
+      "title": "Warmwaterbronnen in Pai, Mae Hong Son, Thailand",
+      "creator": "Amazing Thailand",
+      "url": "https://amazingthailand.com/hot-springs-in-pai-mae-hong-son-thailand",
+      "description": "Gebruikt voor Tha Pai Hot Spring positionering en actuele duurzame warmwaterbroncontext."
+    },
+    {
+      "type": "toeristenkantoor",
+      "title": "Cultuur, Pai",
+      "creator": "Amazing Thailand",
+      "url": "https://amazingthailand.com/culture?source=axghzp",
+      "description": "Gebruikt voor actuele Yun Lai-uitzichtbevestiging in de cultuurlaag van Pai."
+    },
+    {
+      "type": "toeristenkantoor",
+      "title": "Mae Hong Son en Pai Toerismekaart",
+      "creator": "Mae Hee Subdistrict Municipality / TAT Mae Hong Son Office",
+      "url": "https://www.maeheepai.go.th/upload/catalogs_file/catalogs_file_257_17_8_524.pdf",
+      "description": "Gebruikt om actuele Pai-highlightnamen te bevestigen inclusief Phra That Mae Yen, Kong Lan, Tha Pai Hot Spring, Mo Paeng, Wat Nam Hu, Santichon, Yun Lai, en Kho Ku So Merit Bridge."
+    },
+    {
+      "type": "restaurant",
+      "title": "Om Garden Cafe",
+      "creator": "Amazing Thailand",
+      "url": "https://amazingthailand.com/om-garden-cafe",
+      "description": "Gebruikt voor Om Garden's adres, menu positionering en centrale-tuinsetting."
+    },
+    {
+      "type": "restaurant",
+      "title": "Two Sisters Restaurant",
+      "creator": "Two Sisters Restaurant",
+      "url": "https://twosistersrestaurant.shop/",
+      "description": "Gebruikt voor de directe Thais en Myanmars positionering, adres en contactgegevens van het restaurant."
+    },
+    {
+      "type": "restaurant",
+      "title": "The Blue Ox Steak House",
+      "creator": "Pai Village Boutique Resort",
+      "url": "https://www.paivillage.com/the-blue-ox-steak-house.php",
+      "description": "Gebruikt voor Blue Ox's actuele dinerpositionering en centrale Pai-locatie."
+    },
+    {
+      "type": "restaurant",
+      "title": "Limoncello Pai",
+      "creator": "Pai Village Boutique Resort",
+      "url": "https://www.paivillage.com/limoncello-pai.php",
+      "description": "Gebruikt voor actuele Italiaanse dining en wijnbar-positionering in centraal Pai."
+    },
+    {
+      "type": "hotel",
+      "title": "Pai Village Boutique Resort",
+      "creator": "Pai Village Boutique Resort",
+      "url": "https://www.paivillage.com/",
+      "description": "Gebruikt voor directe hotelpositionering nabij Walking Street en het adres van de resort."
+    },
+    {
+      "type": "hotel",
+      "title": "Rim Pai Cottage",
+      "creator": "Rim Pai Cottage",
+      "url": "https://www.rimpaicottage.com/",
+      "description": "Gebruikt voor directe positionering aan de rivier, nabijheid van Walking Street en contactgegevens van het hotel."
+    },
+    {
+      "type": "hotel",
+      "title": "Family House Zen Boutique Resort",
+      "creator": "Family House Zen Boutique Resort",
+      "url": "https://familyhousezen.com/",
+      "description": "Gebruikt voor directe positionering van het boutique-resort nabij de stad en Wat Phra That Mae Yen."
+    },
+    {
+      "type": "hotel",
+      "title": "Pai Hotsprings Spa Resort",
+      "creator": "Pai Hotsprings Spa Resort",
+      "url": "https://paihotspring.com/",
+      "description": "Gebruikt voor directe hoteldetails, positionering aan de rivieroever en context van het warmwaterbronnenbad."
+    },
+    {
+      "type": "hotel",
+      "title": "Montis Resort Pai",
+      "creator": "Montis Resort",
+      "url": "https://www.montisresort.com/",
+      "description": "Gebruikt voor de directe positionering van de resort in bergachtige setting en het adres."
+    },
+    {
+      "type": "hotel",
+      "title": "Ai Pai Hotel",
+      "creator": "Amazing Thailand",
+      "url": "https://amazingthailand.com/ai-pai-hotel",
+      "description": "Gebruikt voor de huidige context van centrale ligging nabij Pai Night Market, busstation en Wat Phra That Mae Yen."
+    }
+  ],
+  "reviewed_by": "Go2Thailand Editorial Team",
+  "enhanced_at": "2026-03-26T00:00:00.000Z",
+  "enrichedAt": "2026-03-26T00:00:00.000Z",
+  "factchecked_at": "2026-03-26T00:00:00.000Z"
+}

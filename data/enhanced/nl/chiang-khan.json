@@ -1,0 +1,779 @@
+{
+  "id": 29,
+  "slug": "chiang-khan",
+  "name": {
+    "en": "Chiang Khan",
+    "nl": "Chiang Khan",
+    "ja": "チエンカーン",
+    "ko": "치앙칸",
+    "th": "เชียงคาน",
+    "de": "Chiang Khan",
+    "fr": "Chiang Khan",
+    "ru": "Chiang Khan",
+    "zh": "Chiang Khan"
+  },
+  "region": "Isaan",
+  "province": "Loei",
+  "description": {
+    "en": "A Mekong riverside town in Loei known for its preserved wooden shophouses, dawn alms-giving, walking street, misty viewpoints, and slow domestic-travel atmosphere.",
+    "nl": "Een stadje aan de Mekong in Loei dat bekendstaat om bewaarde houten shophouses, ochtendlijke aalmoezen, de walking street, mistige uitzichtpunten en een rustig binnenlands reisritme.",
+    "ja": "ルーイ県のメコン川沿いにある町で、木造商家の街並み、早朝の托鉢、ウォーキングストリート、朝霧の展望地、ゆったりした空気感で知られています。",
+    "ko": "러이 주 메콩 강변에 자리한 소도시로, 보존된 목조 상가, 새벽 탁발, 워킹 스트리트, 안개 낀 전망대, 느린 국내 여행 분위기로 알려져 있습니다.",
+    "th": "เมืองริมแม่น้ำโขงในจังหวัดเลย ที่เด่นเรื่องบ้านไม้เก่า ถนนคนเดิน ตักบาตรข้าวเหนียวยามเช้า จุดชมทะเลหมอก และบรรยากาศท่องเที่ยวแบบเรียบง่าย",
+    "de": "Eine Mekong-Uferstadt in Loei, bekannt für erhaltene Holzshophouses, morgendliche Almosengaben, Walking Street, Nebel-Aussichtspunkte und ein entschleunigtes Inlandsreisegefühl.",
+    "fr": "Une ville au bord du Mékong dans la province de Loei, connue pour ses maisons en bois préservées, l'aumône matinale, la walking street, les points de vue dans la brume et son rythme de voyage paisible.",
+    "ru": "Небольшой город на берегу Меконга в провинции Лоэй, известный деревянными шопхаусами, утренним подаянием монахам, walking street, туманными смотровыми точками и неторопливой атмосферой.",
+    "zh": "位于黎府湄公河畔的小镇，以保存完好的木质店屋、清晨布施、步行街、云海观景点以及慢节奏的本地旅行氛围闻名。"
+  },
+  "population": 42000,
+  "highlights": [
+    "Chiang Khan Walking Street",
+    "Ochtend aalmoezenronde",
+    "Phu Tok zonsopgang uitkijkpunt",
+    "Kaeng Khut Khu rivieroeverstop",
+    "Grote Boeddha bij Phu Kok Ngio en Skywalk"
+  ],
+  "location": {
+    "lat": 17.8944,
+    "lng": 101.6639
+  },
+  "image": "/images/cities/generated/chiang-khan.webp",
+  "seo": {
+    "metaTitle": {
+      "en": "Chiang Khan Thailand Guide 2026 | Mekong Old Town, Phu Tok, Food",
+      "nl": "Ontdek Chiang Khan | Wat te doen in Chiang Khan?",
+      "ja": "チエンカーン タイ — メコン旧市街ガイド 2026",
+      "ko": "치앙칸 태국 — 메콩 올드타운 & 푸톡 가이드",
+      "th": "เชียงคาน ประเทศไทย — คู่มือท่องเที่ยวฉบับสมบูรณ์ 2026",
+      "de": "Entdecken Sie Chiang Khan | Was tun in Chiang Khan?",
+      "fr": "Découvrez Chiang Khan | Que faire à Chiang Khan ?",
+      "ru": "Откройте для себя Чианг-Хан | Чем заняться в Чианг-Хане?",
+      "zh": "发现 Chiang Khan | 在 Chiang Khan 做什么？"
+    },
+    "metaDescription": {
+      "en": "Plan Chiang Khan better with walking-street timing, dawn alms, Phu Tok mist views, Kaeng Khut Khu seasonality, Mekong food stops, and hotel picks for 2026.",
+      "nl": "Jouw gids voor Chiang Khan, Thailand – houten huizen, almsgiving, Mekong-zonsondergangen en uitkijkpunten.",
+      "ja": "チエンカーン旅行ガイド — ウォーキングストリート、托鉢、プートック、メコン川の町歩き情報。2026年更新。",
+      "ko": "치앙칸 가이드 — 워킹 스트리트, 탁발, 푸톡, 메콩 강변 산책과 숙소 정보.",
+      "th": "คู่มือท่องเที่ยวเชียงคาน ประเทศไทย — สถานที่ท่องเที่ยว อาหาร ที่พัก และเคล็ดลับ อัปเดต 2026",
+      "de": "Ihr Reiseführer für Chiang Khan, Thailand – Holzhäuser, Almosengaben, Mekong-Sonnenuntergänge und Aussichtspunkte.",
+      "fr": "Votre guide pour Chiang Khan, Thaïlande – maisons en bois, aumône matinale, couchers de soleil sur le Mékong et points de vue.",
+      "ru": "Ваш гид по Чианг-Хану, Таиланд — деревянные дома, утреннее подаяние, закаты над Меконгом и смотровые точки.",
+      "zh": "您的 Chiang Khan 指南——木屋老街、清晨布施、湄公河日落与观景点。"
+    }
+  },
+  "categories": {
+    "food": {
+      "en": "Best restaurants and street food in Chiang Khan",
+      "nl": "Beste restaurants en streetfood in Chiang Khan",
+      "ja": "チエンカーンのおすすめレストランとストリートフード",
+      "ko": "치앙칸 추천 레스토랑과 길거리 음식",
+      "th": "ร้านอาหารและสตรีทฟู้ดที่ดีที่สุดในเชียงคาน"
+    },
+    "hotels": {
+      "en": "Top hotels in Chiang Khan | Tips & deals",
+      "nl": "Beste hotels in Chiang Khan | Tips & aanbiedingen",
+      "ja": "チエンカーンのおすすめホテル | ヒント＆お得情報",
+      "ko": "치앙칸 추천 호텔 | 팁 & 특가",
+      "th": "โรงแรมแนะนำในเชียงคาน | เคล็ดลับและดีล"
+    },
+    "attractions": {
+      "en": "Top attractions in Chiang Khan",
+      "nl": "Top bezienswaardigheden in Chiang Khan",
+      "ja": "チエンカーンの人気観光スポット",
+      "ko": "치앙칸 인기 관광 명소",
+      "th": "สถานที่ท่องเที่ยวยอดนิยมในเชียงคาน"
+    }
+  },
+  "tags": [
+    "chiang-khan",
+    "loei",
+    "mekong",
+    "isaan",
+    "walking-street",
+    "phu-thok",
+    "thailand",
+    "reizen",
+    "toerisme",
+    "gids"
+  ],
+  "enhanced_description": "Chiang Khan komt het best tot zijn recht als je ophoudt het te zien als een generieke Mekong-fotostop en begint te plannen rond het echte ritme van de plaats. Dit is een stadje met oude houten straten, ochtendmerit-making, uitzichten op mist en trage avondwandelingen langs de rivier, geen plek die beloont met haasten tussen losse checklists. De Loei-materialen van TAT en nieuwere bestemmingscasestudies wijzen allemaal op dezelfde kernidentiteit: erfgoedwinkels, lokale gerechten, de Mekong-oever en gemeenschapsgestuurd toerisme dat nog steeds meer lokaal dan internationaal aanvoelt.\n\nDat ritme is belangrijk voor hoe je het bezoekt. Walking Street is het sterkst van late middag tot avond. De aalmoezenroute hoort bij de dageraad en moet rustig en respectvol benaderd worden. Phu Tok heeft het meeste zin als een vroeg-morgenuitkijkpunt in plaats van een middagstop. Kaeng Khut Khu is aantrekkelijker in het droge seizoen wanneer de Mekong zakt en de rotsformatie goed zichtbaar is. Als je Chiang Khan opbouwt rond die tijdsblokken, voelt de stad coherent in plaats van dunnetjes.\n\nHet helpt ook om realistisch te blijven over de beroemde uitstapjes. De glazen skywalk bij Phu Kok Ngio is populair en mooi, maar het is geen stadscentrumattractie die je even tussen ontbijt en zonsondergang propt. Het is een aparte uitstap langs de Mekong. Chiang Khan is het sterkst als de reis eerst geworteld blijft in het oude stadje, en dan één of twee goed gekozen uitzichten toevoegt in plaats van elke Loei-foto in één keer te jagen.",
+  "overview": "Chiang Khan is een van de makkelijkste Thaise stadjes om te overromantiseren en een van de makkelijkste om goed te krijgen als je het eenvoudig plant. De kernattractie is geen mysterie. Het is de bewaarde Chai Khong rivierweg, de rij oude houten huizen die nu hergebruikt worden als guesthouses, cafés en kleine winkels, de ochtendtraditie van kleefrijst-aalmoezen, en de manier waarop de Mekong het tempo van de plek bepaalt. De Loei-gids van TAT is hier nuttig omdat die de stad framed door haar dagelijkse cyclus: dageraad-aalmoezen, middag rivierleven, avond walking street, en nabije uitkijkpunten zoals Phu Tok en Kaeng Khut Khu.\n\nDat betekent dat Chiang Khan beter is als een trage stop van één of twee nachten dan als een gehaaste omweg. Blijf binnen wandelafstand van de oude straat als sfeer het belangrijkste is. Blijf iets buiten de dichtste rivierstrook alleen als je parkeren, stillere nachten of makkelijker wegtoegang naar Phu Tok en de skywalk-route wilt. De stad blijft veel meer een toon van binnenlands reizen dan de resortcircuits van Thailand, wat deel van de aantrekkingskracht is en ook de reden waarom het bescheiden verwachtingen en goede timing beloont.",
+  "hidden_gems": [
+    {
+      "name": "Morning market and breakfast-coupon network",
+      "story": "Een van de interessantere lokale-toerisme-ideeën van Chiang Khan is het ontbijt-bon-systeem dat sommige guesthouses en kleine hotels gebruiken, wat reizigers aanmoedigt om naar buurtontbijtshops te gaan in plaats van elke maaltijd binnen één accommodatie te houden.",
+      "how_to_find": "Vraag je accommodatie waar lokale ontbijtbonnen geaccepteerd worden in plaats van te kiezen voor het dichtstbijzijnde café op de hoofdstraat.",
+      "best_time": "Vroeg in de ochtend na de aalmoezen en voordat het oude stadje volledig omschakelt naar toeristenmodus.",
+      "local_insights": [
+        "Dit is een van de makkelijkste manieren om de ochtend lokaal te laten voelen in plaats van in scène gezet.",
+        "Ontbijt in Chiang Khan is vaak sterker als een shop-naar-shop-routine dan als één groot brunch."
+      ]
+    },
+    {
+      "name": "Coconut-sweet stalls on the road to Kaeng Khut Khu",
+      "story": "De route naar Kaeng Khut Khu gaat niet alleen om de rivieroeverstop. De Loei-brochure van TAT wijst specifiek op lokale kokoszoetigheden langs Highway 211, wat de rit een echte culinaire identiteit geeft in plaats van het te veranderen in een wegwerp-transfer.",
+      "how_to_find": "Bewaar dit voor de Kaeng Khut Khu-uitstap in plaats van het te forceren in de wandellus in het stadscentrum.",
+      "best_time": "Laat in de ochtend of middag, als je al langs de rivierweg op weg bent.",
+      "local_insights": [
+        "Dit is nuttiger als een snack-en-cadeau-stop dan als een grote attractie.",
+        "Het helpt de Kaeng Khut Khu-route te voelen als een Chiang Khan-dag in plaats van een enkel-uitzicht-klusje."
+      ]
+    },
+    {
+      "name": "Quiet Mekong stretches east of the main walking street",
+      "story": "Het stadscentrum krijgt de aandacht, maar een deel van de betere riviersfeer komt van wandelen net voorbij de drukste erfgoedblokken, waar de Mekong het focus blijft en de winkeldichtheid afneemt.",
+      "how_to_find": "Blijf doorwandelen voorbij het meest gefotografeerde houten-huis-gedeelte in plaats van terug te keren bij de eerste cluster cafés.",
+      "best_time": "Late middag tot zonsondergang.",
+      "local_insights": [
+        "Hier begint Chiang Khan weer te voelen als een bewoond rivierstadje.",
+        "Dit is vaak een betere zonsondergangwandeling dan de meest drukke fotohoeken."
+      ]
+    },
+    {
+      "name": "Phu Tok on a weekday sunrise",
+      "story": "Phu Tok is niet letterlijk verborgen, maar het doen op een doordeweekse dageraad-run in plaats van een piek binnenlands-reizen-ochtend verandert de ervaring volledig.",
+      "how_to_find": "Gebruik de door het district beheerde transfer vanaf de parkeerplaats en ga vroeg genoeg dat het uitkijkpunt het doel is, niet de rij.",
+      "best_time": "Oktober tot december is het klassieke mistvenster, maar elke zonsopgang in het heldere seizoen kan nog steeds de klim waard zijn.",
+      "local_insights": [
+        "Dit werkt het best als de eerste activiteit van de dag, niet als een nasleep.",
+        "Kom terug naar de stad voor ontbijt in plaats van te proberen te veel stops te stapelen voor de middag."
+      ]
+    }
+  ],
+  "authentic_experiences": [
+    {
+      "activity": "Behandel aalmoezen als een ritueel, niet als een spektakel",
+      "story": "De dageraad kleefrijst-aalmoezentraditie van Chiang Khan blijft een van de definiërende praktijken van de stad, maar het houdt alleen stand als ervaring als je het rustig benadert zonder de route om te zetten in een fotosessie.",
+      "cultural_significance": "Tak Bat Khao Niao is een van de sterkste overlevende markers van de Lao-Isaan identiteit van Chiang Khan en het dagelijkse boeddhistische ritme.",
+      "how_to_participate": "Vraag je guesthouse hoe de route werkt, kleed je bescheiden, houd afstand van de monniken, en laat de ceremonie lokaal blijven zelfs als je respectvol deelneemt.",
+      "insights": [
+        "Goed kijken is vaak beter dan slecht deelnemen.",
+        "De stad voelt daarna anders omdat de riviestraat al één volle dag geleefd heeft voor het ontbijt."
+      ],
+      "href": "/city/chiang-khan/attractions/alms-giving-ceremony/",
+      "cta_label": "Zie de aalmoezen-gids"
+    },
+    {
+      "activity": "Gebruik Walking Street op het juiste tijdslot",
+      "story": "Te veel eerste bezoekers passeren op het verkeerde tijdstip van de dag en vragen zich dan af waarom de stad overhyped voelt. De officiële Loei-brochure is duidelijk dat de straat tot leven komt vanaf de late middag, en dat is wanneer de hergebruikte houten huizen, snacks en rivieroever-omwegen echt verbinden.",
+      "cultural_significance": "De oude shophouse-strook is het duidelijkste bouwerfgoed van Chiang Khan en de plek waar toerisme, lokale handel en nostalgie samenkomen.",
+      "how_to_participate": "Wandel het in de late middag, blijf door tot diner, en houd ruimte voor een tweede, stillere passage nadat de eerste menigte afneemt.",
+      "insights": [
+        "Je hoeft niet veel te winkelen om de straat te laten werken.",
+        "Het is sterker als een trage lus met eetstops dan als een eenmalige selfie-strook."
+      ],
+      "href": "/city/chiang-khan/attractions/walking-street/",
+      "cta_label": "Zie de walking-street gids"
+    },
+    {
+      "activity": "Doe één zonsopgang-uitzicht, niet allemaal",
+      "story": "Phu Tok is de coherentere stad-gebaseerde dageraad-optie omdat het direct aansluit op ontbijt en oude-stad-ochtenden. De skywalk kan mooi zijn, maar behandel het als een aparte excursie in plaats van het te verwarren met de kern zonsopgang-routine van de stad.",
+      "cultural_significance": "De uitkijkcultuur rond Chiang Khan is deel van hoe Loei-toerisme de provincie verkoopt, maar lokale pacing telt nog steeds meer dan het ruwe aantal uitzichten.",
+      "how_to_participate": "Kies Phu Tok als je de klassieke Chiang Khan-dageraad wilt. Kies de skywalk alleen als je bewust een uitstap eromheen bouwt.",
+      "insights": [
+        "Proberen Phu Tok, de skywalk en walking street in één dag te doen verzwakt meestal alle drie.",
+        "De beste Chiang Khan-reizen redigeren agressief."
+      ],
+      "href": "/city/chiang-khan/attractions/phu-thok/",
+      "cta_label": "Zie de Phu Tok-gids"
+    },
+    {
+      "activity": "Gebruik Kaeng Khut Khu seizoensgebonden",
+      "story": "Kaeng Khut Khu is makkelijk te onderschatten als je arriveert bij het verkeerde waterpeil. De officiële Loei-gids maakt de seizoensafhankelijkheid duidelijk: het droge-seizoen-venster is wanneer de rotsformatie en rivierbocht het best leesbaar zijn.",
+      "cultural_significance": "Deze stop verbindt de stad met de Mekong als landschap en voedselcorridor, niet alleen als zonsondergang-achtergrond.",
+      "how_to_participate": "Combineer de rivieroeverstop met lokale gerechten of zoetigheden op de weg ernaartoe in plaats van het te behandelen als een vijf-minuten-fotobreak.",
+      "insights": [
+        "Dit is een van de meest timing-afhankelijke attracties van Chiang Khan.",
+        "Het werkt beter als een halve trip met eten dan als een standalone landmark."
+      ],
+      "href": "/city/chiang-khan/attractions/kaeng-khut-khu/",
+      "cta_label": "Zie de Kaeng Khut Khu-gids"
+    }
+  ],
+  "foodie_adventures": [
+    {
+      "dish": "Ontbijt na aalmoezen",
+      "location": "Mae Ngam Imm Aroi en andere ochtendshops",
+      "story": "De ontbijtcultuur van Chiang Khan is beter te begrijpen als een lokaal netwerk dan als één kenmerkend restaurant. TAT noemt Mae Ngam Imm Aroi direct, terwijl lokale hotel ontbijt-bon-systemen hetzelfde idee versterken: ochtendeten hoort bij buurtshops, niet bij resort-buffetten.",
+      "where_to_find": "Eet net na dageraad-activiteiten, via de bon-partners van je guesthouse of door naar een bekende lokale ontbijtstop te gaan.",
+      "price_range": "Budget",
+      "ordering_tips": [
+        "Houd ontbijt praktisch en lokaal in plaats van te wachten op een late café-maaltijd.",
+        "Dit is het makkelijkste maaltijdtijdslot om Chiang Khan specifiek te laten voelen."
+      ],
+      "href": "/city/chiang-khan/top-10-restaurants/",
+      "cta_label": "Zie de Chiang Khan eetgids"
+    },
+    {
+      "dish": "Walking Street snacks en zoetigheden",
+      "location": "Chai Khong Road",
+      "story": "De avond eetscène van de stad gaat niet om één must-boek-restaurant. Het gaat om bewegen tussen snacks, zoetigheden, gegrilde items en kleine shopfront-diners terwijl de oude straat van karakter verandert na 16u.",
+      "where_to_find": "Gebruik de walking street zelf in plaats van de erfgoedstrook te vroeg te verlaten voor diner.",
+      "price_range": "Budget tot middenklasse",
+      "ordering_tips": [
+        "Eet in kleinere rondes in plaats van één oversized maaltijd aan het begin te kiezen.",
+        "Bewaar ruimte voor zoetigheden en simpele riviersnacks."
+      ],
+      "href": "/city/chiang-khan/top-10-restaurants/",
+      "cta_label": "Zie de Chiang Khan eetgids"
+    },
+    {
+      "dish": "Rivieroever vis-en-Isaan lunch",
+      "location": "Kaeng Khut Khu rivieroeverrestaurants",
+      "story": "De officiële Loei-toerisme-gids behandelt Kaeng Khut Khu nog steeds als zowel een scenery-stop als een lokale-eten-zone, wat de juiste manier is om het te begrijpen. De attractie verbetert als je gaat zitten voor lunch in plaats van alleen het uitkijkpunt te checken.",
+      "where_to_find": "Combineer lunch met de Kaeng Khut Khu-uitstap in de drogere maanden.",
+      "price_range": "Budget tot middenklasse",
+      "ordering_tips": [
+        "Dit werkt het best als een gedeelde-tafel lunchstop.",
+        "Gebruik het op de rivieruitstap, niet als vervanging voor oude-stad-diner."
+      ],
+      "href": "/city/chiang-khan/top-10-restaurants/",
+      "cta_label": "Zie de Chiang Khan eetgids"
+    },
+    {
+      "dish": "Hotel-en-café Mekong resets",
+      "location": "Rivieroeverhotels en cafés",
+      "story": "De riviergerichte hotels van Chiang Khan zijn niet alleen voor slapen. Ze zijn ook nuttig voor een koffiestop, een stillere lunch, of een weer-reset als de hoofdstraat te heet of druk wordt.",
+      "where_to_find": "Gebruik rivieroever-eigendommen zoals River Tree Resort of vergelijkbare Mekong-kant hotels als je een schonere break in het midden van de dag wilt.",
+      "price_range": "Middenklasse",
+      "ordering_tips": [
+        "Dit is een reset-stop, niet het hele eetverhaal.",
+        "Gebruik hotelcafés om pacing te ondersteunen, niet om het lokale ontbijt en walking-street-ritme te vervangen."
+      ],
+      "href": "/city/chiang-khan/top-10-restaurants/",
+      "cta_label": "Zie de Chiang Khan eetgids"
+    }
+  ],
+  "local_insights": [
+    {
+      "observation": "Chiang Khan is meer een timing-stad dan een checklist-stad.",
+      "tip": "Koppel dageraad aan aalmoezen of Phu Tok, late middag aan Walking Street, en houd de heetste uren voor een tragere maaltijd of hotelbreak.",
+      "surprise": "Dezelfde stad kan dun of uitstekend voelen afhankelijk van wanneer je er wandelt."
+    },
+    {
+      "observation": "Droog seizoen en mistseizoen zijn niet hetzelfde.",
+      "tip": "Gebruik oktober tot december voor dageraad-nevel en Phu Tok-sfeer, maar onthoud dat Kaeng Khut Khu beter leest als Mekong-peilen later in het droge seizoen dalen.",
+      "surprise": "Een Chiang Khan-plan opgebouwd rond de verkeerde riviercondities kan snel onderpresteren."
+    },
+    {
+      "observation": "De skywalk is niet stadscentrum-Chiang Khan.",
+      "tip": "Behandel het als een aparte Loei-kant excursie en houd het oude stadje als het hoofdanker van de reis.",
+      "surprise": "Veel gehaaste itineraries mislukken omdat ze een scenic uitstap verwarren met de kernidentiteit van de stad."
+    },
+    {
+      "observation": "Waar je slaapt verandert de stad meer dan waar je foto's maakt.",
+      "tip": "Blijf nabij de oude straat voor sfeer of iets erbuiten voor parkeren en makkelijkere dageraad-vertrekken, maar beslis die afweging voor het boeken.",
+      "surprise": "De juiste basis kan meer tellen dan één attractie extra toevoegen."
+    }
+  ],
+  "seasonal_secrets": {
+    "best_times": {
+      "November-February": "Meestal de makkelijkste periode voor eerste bezoeken, met koelere ochtenden, sterker wandelweer, en betrouwbare oude-stad-pacing.",
+      "October-December": "Het best bekend om Phu Tok zonsopgang-mist en atmosferische dageraad-uitzichten.",
+      "February-May": "Meestal het betere Kaeng Khut Khu-venster, wanneer lagere Mekong-peilen de rotsformatie duidelijker onthullen."
+    },
+    "local_festivals": [
+      "Loy Krathong - meestal november",
+      "Binnenlands-reizen lange weekends kunnen de walking street veel drukker maken dan normale doordeweekse dagen"
+    ],
+    "seasonal_foods": {
+      "cool_season": "Walking-street snacks en dageraad-ontbijten voelen makkelijker en prettiger in koeler weer.",
+      "dry_season": "Kaeng Khut Khu lunches en rivierweg-snackstops zijn belonender bij lagere waterpeilen.",
+      "year_round": "Ochtend lokale ontbijten en avond walking-street eten blijven deel van de stadidentiteit in elk seizoen."
+    },
+    "insider_tips": {
+      "mist_season": "Boek vroege starts en flexibele ochtenden als Phu Tok belangrijk voor je is.",
+      "hot_season": "Bescherm het midden van de dag en leun harder op riviercafés, hotelbreaks en late-dag wandelingen.",
+      "weekends": "Verwacht meer binnenlandse bezoekers op de oude straat en boek karaktervolle verblijven eerder."
+    }
+  },
+  "budget_reality": {
+    "budget": "€18-37/dag",
+    "mid_range": "€41-87/dag",
+    "luxury": "€101-202/dag",
+    "examples": [
+      "Budgetreizen betekenen meestal een eenvoudig guesthouse, straat- of ontbijtshop-maaltijden, en één geplande zonsopgang of rivieruitstap.",
+      "Middenklasse uitgaven in Chiang Khan gaan meestal naar een betere kamerlocatie en tragere eetpacing in plaats van dure attracties.",
+      "Hogere uitgaven gaan vooral om erfgoedkamers, riviergerichte hotels, of een gepolijste uitstap-dag in plaats van resort-stijl luxe."
+    ],
+    "money_saving_tricks": [
+      "Blijf binnen wandelafstand van de oude straat zodat je niet betaalt voor herhaalde korte transfers.",
+      "Gebruik één dageraad-uitzicht en één rivieruitstap in plaats van elke betaalde of gemotoriseerde uitstap in één verblijf te stapelen."
+    ],
+    "hidden_costs": [
+      "Privévervoer naar de skywalk of andere Loei-kant omwegen kan het dagelijkse budget sneller opdrijven dan stadssightseeing zelf.",
+      "Weekend- en feestdagenvraag kan tarieven verhogen op de meest atmosferische houten-huis-verblijven."
+    ]
+  },
+  "top_attractions": [
+    {
+      "rank": 1,
+      "name": "Chiang Khan Walking Street",
+      "description": "De oude houten-huis-ruggengraat van de stad en de duidelijkste reden waarom Chiang Khan verschilt van andere Mekong-stops.",
+      "location": "Chai Khong Road / oude stad",
+      "entrance_fee": "Gratis",
+      "highlights": [
+        "Historische houten shophouses",
+        "Avond eet-en-wandel sfeer",
+        "Beste manier om de stadidentiteit te lezen"
+      ],
+      "href": "/city/chiang-khan/attractions/walking-street/",
+      "cta_label": "Zie de walking-street gids"
+    },
+    {
+      "rank": 2,
+      "name": "Morning alms-giving ceremony",
+      "description": "Het belangrijkste ritueel van de stad en de sterkste reden om voor zonsopgang wakker te worden in Chiang Khan.",
+      "location": "Walking Street en nabije tempelroute",
+      "entrance_fee": "Observeren is gratis; neem alleen respectvol deel",
+      "highlights": [
+        "Tak Bat Khao Niao traditie",
+        "Kern boeddhistische praktijk",
+        "Beste bij dageraad"
+      ],
+      "href": "/city/chiang-khan/attractions/alms-giving-ceremony/",
+      "cta_label": "Zie de aalmoezen-gids"
+    },
+    {
+      "rank": 3,
+      "name": "Phu Tok viewpoint",
+      "description": "Het klassieke Chiang Khan zonsopgang-uitkijkpunt voor mist, Mekong-bochten, en een beter gevoel van het dal rond de stad.",
+      "location": "Phu Tok / Chiang Khan kant",
+      "entrance_fee": "Door het district beheerde transport en toegang kan veranderen; check lokaal voor vertrek",
+      "highlights": [
+        "Bekendste dageraad-uitzicht",
+        "Beloning van het mistseizoen",
+        "Makkelijk te combineren met een ontbijt in de stad"
+      ],
+      "href": "/city/chiang-khan/attractions/phu-thok/",
+      "cta_label": "Bekijk de Phu Tok-gids"
+    },
+    {
+      "rank": 4,
+      "name": "Kaeng Khut Khu",
+      "description": "Een stop aan de Mekong-kant die het beste werkt in het droge seizoen, wanneer de rivier de rotsformatie onthult en de lunchstop zinvol is.",
+      "location": "Ban Noi / rivierweg vanaf de stad",
+      "entrance_fee": "Gratis te bezoeken; eten en boottochten variëren",
+      "highlights": [
+        "Rivierscenerie in het droge seizoen",
+        "Handige eetstop",
+        "Beter als halve trip dan als fotostop"
+      ],
+      "href": "/city/chiang-khan/attractions/kaeng-khut-khu/",
+      "cta_label": "Bekijk de Kaeng Khut Khu-gids"
+    },
+    {
+      "rank": 5,
+      "name": "Big Buddha at Phu Kok Ngio and Chiang Khan Skywalk",
+      "description": "Een schilderachtige uitstap aan de Loei-kant met een glazen skywalk en brede uitzichten langs de Mekong-grens, het beste als aparte excursie in plaats van een stop in het stadscentrum.",
+      "location": "Phu Kok Ngio / Pak Tom-kant van Loei Province",
+      "entrance_fee": "Controleer de actuele lokale ticketprijzen voor vertrek",
+      "highlights": [
+        "Panorama langs de Mekong-grens",
+        "Grote Boeddha-landmark",
+        "Populaire zijtrip vanuit Chiang Khan"
+      ],
+      "href": "/city/chiang-khan/attractions/skywalk/",
+      "cta_label": "Bekijk de skywalk-gids"
+    }
+  ],
+  "top_restaurants": [
+    {
+      "rank": 1,
+      "name": "Chiang Khan Walking Street food stalls",
+      "description": "De sterkste plek om te beginnen met eten in de stad, omdat je er snacks, zoetigheden en kleine maaltijden kunt proeven zonder de erfgoedstrook te verlaten.",
+      "cuisine_type": "Street food / snacks / desserts",
+      "price_range": "Budget",
+      "location": "Chai Khong Road",
+      "highlights": [
+        "Beste eetzone 's avonds",
+        "Past bij het ritme van de stad",
+        "Nuttiger dan één headline-restaurant najagen"
+      ],
+      "href": "/city/chiang-khan/top-10-restaurants/",
+      "cta_label": "Bekijk de volledige Chiang Khan-voedselgids"
+    },
+    {
+      "rank": 2,
+      "name": "Mae Ngam Imm Aroi",
+      "description": "Een verdedigbare lokale ontbijtstop met directe TAT-erkenning en een betere match voor Chiang Khan-ochtenden dan generieke cafébrunches.",
+      "cuisine_type": "Thai ontbijt / lokale gerechten",
+      "price_range": "Budget",
+      "location": "Chiang Khan stad",
+      "highlights": [
+        "Officiële TAT-vermelding",
+        "Sterke ontbijtkeuze",
+        "Beste activiteiten na zonsopgang"
+      ],
+      "href": "/city/chiang-khan/top-10-restaurants/",
+      "cta_label": "Bekijk de volledige Chiang Khan-voedselgids"
+    },
+    {
+      "rank": 3,
+      "name": "Look Phochana",
+      "description": "Een van de lokale ontbijt-coupon-netwerknamen die uitlegt hoe Chiang Khan overnachtende gasten naar buurteten leidt in plaats van alleen naar hotelrestaurants.",
+      "cuisine_type": "Thai / ontbijt / alledaagse lokale maaltijden",
+      "price_range": "Budget",
+      "location": "Chiang Khan stad",
+      "highlights": [
+        "Nuttige stop in de ontbijtcultuur",
+        "Goede keuze voor lokale routine",
+        "Beter 's ochtends dan laat 's nachts"
+      ],
+      "href": "/city/chiang-khan/top-10-restaurants/",
+      "cta_label": "Bekijk de volledige Chiang Khan-voedselgids"
+    },
+    {
+      "rank": 4,
+      "name": "Kaeng Khut Khu riverside restaurants",
+      "description": "Een praktische lunchzone voor gegrilde vis, gedeelde Isaan-gerechten en een rivierstop die completer aanvoelt als je echt gaat zitten om te eten.",
+      "cuisine_type": "Thai / Isaan / rivierlunch",
+      "price_range": "Budget tot middenklasse",
+      "location": "Kaeng Khut Khu",
+      "highlights": [
+        "Beste te combineren met de attractie zelf",
+        "Gedeeld-gerechtformaat",
+        "Voegt substantie toe aan de rivieruitstap"
+      ],
+      "href": "/city/chiang-khan/top-10-restaurants/",
+      "cta_label": "Bekijk de volledige Chiang Khan-voedselgids"
+    },
+    {
+      "rank": 5,
+      "name": "River Tree Resort dining",
+      "description": "Een nuttige riviergerichte café- en maaltijdoptie als je een rustigere reset wilt, een echte stoel of een midday-break van de oude straat.",
+      "cuisine_type": "Café / Thai / hotel dineren",
+      "price_range": "Middenklasse",
+      "location": "Mekong-rivierkant, oost van de oude straat",
+      "highlights": [
+        "Rivierzicht-setting",
+        "Goede resetstop",
+        "Werkt voor lunch of koffie"
+      ],
+      "href": "/city/chiang-khan/top-10-restaurants/",
+      "cta_label": "Bekijk de volledige Chiang Khan-voedselgids"
+    }
+  ],
+  "top_hotels": [
+    {
+      "rank": 1,
+      "name": "The Old Chiangkhan",
+      "description": "De sterkste erfgoedgerichte overnachting in de oude stad als je de behouden-huisatmosfeer wilt als deel van het hotel zelf.",
+      "price_range": "Middenklasse boetiek",
+      "category": "luxe",
+      "area": "Walking Street / Mekong-rand",
+      "highlights": [
+        "100 jaar oude houten-huisidentiteit",
+        "Prime oude-stadsetting",
+        "Beste voor sfeergerichte overnachtingen"
+      ],
+      "href": "/city/chiang-khan/top-10-hotels/",
+      "cta_label": "Bekijk de Chiang Khan hotelgids"
+    },
+    {
+      "rank": 2,
+      "name": "U Rim Khong",
+      "description": "Een sterke rivierkeuze voor reizigers die Mekong-uitzichten willen terwijl ze direct verbonden blijven met de walking-street-zone.",
+      "price_range": "Middenklasse tot luxe",
+      "category": "luxe",
+      "area": "Walking Street / rivierfront",
+      "highlights": [
+        "Directe Mekong-gericht kamers",
+        "Walking-street voorgevel",
+        "Nuttig voor korte sfeervolle overnachtingen"
+      ],
+      "href": "/city/chiang-khan/top-10-hotels/",
+      "cta_label": "Bekijk de Chiang Khan hotelgids"
+    },
+    {
+      "rank": 3,
+      "name": "River Tree Resort",
+      "description": "Een betere match als je een kalmere Mekong-basis wilt met resortfaciliteiten, een zwembad en iets makkelijkere scheiding van het drukste oude-stadsblok.",
+      "price_range": "Middenklasse",
+      "category": "middenklasse",
+      "area": "Rivierkant oost van stadscentrum",
+      "highlights": [
+        "Zwembad- en tuinsetting",
+        "Rivierfront oriëntatie",
+        "Goede comfortgerichte basis"
+      ],
+      "href": "/city/chiang-khan/top-10-hotels/",
+      "cta_label": "Bekijk de Chiang Khan hotelgids"
+    },
+    {
+      "rank": 4,
+      "name": "U Chiang Khan",
+      "description": "Een praktische kleine-stadsbasis als je ontbijtondersteuning, gratis fietsen en een korte wandeling naar de erfgoedstrook wilt zonder op de drukste voorgevel te slapen.",
+      "price_range": "Budget tot middenklasse",
+      "category": "budget",
+      "area": "Centraal Chiang Khan",
+      "highlights": [
+        "Goede waarde-basis",
+        "Ontbijt-coupon-opzet",
+        "Korte wandeling naar Walking Street"
+      ],
+      "href": "/city/chiang-khan/top-10-hotels/",
+      "cta_label": "Bekijk de Chiang Khan hotelgids"
+    },
+    {
+      "rank": 5,
+      "name": "U Villa",
+      "description": "Een betere optie voor families of kleine groepen die meer ruimte willen en niet direct op het oudste rivierfrontblok hoeven te slapen.",
+      "price_range": "Middenklasse groepsverblijf",
+      "category": "middenklasse",
+      "area": "Centraal Chiang Khan",
+      "highlights": [
+        "Familievriendelijke indeling",
+        "Wandelafstand naar de oude straat",
+        "Goed voor groepsreizen"
+      ],
+      "href": "/city/chiang-khan/top-10-hotels/",
+      "cta_label": "Bekijk de Chiang Khan hotelgids"
+    },
+    {
+      "rank": 6,
+      "name": "Norn Nab Dao Rim Phu Resort",
+      "description": "Een verstandige heuvelgebied-overnachting als Phu Tok en dawn-vertrekken belangrijker zijn dan slapen in de oude houten kern.",
+      "price_range": "Budget tot middenklasse",
+      "category": "middenklasse",
+      "area": "Nabij Phu Tok",
+      "highlights": [
+        "Beter voor uitzichttrips",
+        "Rustiger buiten-centrum setting",
+        "Nuttig voor zonsopgangplanning"
+      ],
+      "href": "/city/chiang-khan/top-10-hotels/",
+      "cta_label": "Bekijk de Chiang Khan hotelgids"
+    }
+  ],
+  "travel_tips": [
+    "Plan Chiang Khan op tijd van de dag, niet alleen op attractielijst.",
+    "Bewaar de dawn voor aalmoezen geven of Phu Tok, en keer dan terug naar de stad voor ontbijt.",
+    "Gebruik Walking Street van late middag tot avond in plaats van als midday-stop.",
+    "Behandel de skywalk als aparte excursie buiten de oude-stadkern.",
+    "Wekdagen zijn rustiger als je het langzame-stads-karakter van Chiang Khan wilt zonder piek binnenlandse-reisdrukte."
+  ],
+  "best_time_to_visit": {
+    "season": "Koel Seizoen",
+    "months": "November - February",
+    "weather": "Koelere ochtenden en makkelijkere wandelomstandigheden voor de oude stad, rivierfront en dawn-starts",
+    "reasons": "Beste voor eerste bezoekers die de hoofdervaringen van Chiang Khan willen zonder zware hitte of regenverstoring"
+  },
+  "budget_info": {
+    "budget": "€18-37 per dag",
+    "mid_range": "€41-87 per dag",
+    "luxury": "€101-202 per dag",
+    "notes": "Chiang Khan is meestal betaalbaar; de belangrijkste budgetverschillen komen van kamerkarakter, weekendvraag en of je privé zijtrip-transport toevoegt."
+  },
+  "enhanced_at": "2026-03-26T00:00:00.000Z",
+  "reviewed_by": "Go2Thailand Redactie Team",
+  "thingsToDo": "Begin Chiang Khan met één duidelijke dawn-keuze. Als het rituele aspect van de stad het belangrijkste is, word wakker voor de aalmoezen-route en houd de focus op respectvolle observatie. Als het landschap belangrijker is, ga naar Phu Tok voor zonsopgang en kom terug naar de stad voor ontbijt. Hoe dan ook, de oude stad slaat meer aan na dawn dan ervoor, omdat je de straat al in gebruik hebt gezien voor iets anders dan toerisme.\n\nLater op de dag, houd het plan eenvoudig. Loop Chai Khong Road, pauzeer voor eten in plaats van constant sightseeing te forceren, en voeg slechts één extra uitstap toe zoals Kaeng Khut Khu of de skywalk-route. Chiang Khan is beter als het voelt als één verbonden rivierstad met een paar zijnotities, niet als een Loei-provincie speed-run waar elk uitzicht hetzelfde uur krijgt.",
+  "whereToStay": "Hotelkeuze in Chiang Khan hangt af van of je sfeer, gemak of zonsopganglogistiek wilt. Verblijf op of naast de oude walking-street-strook als je houten-huiskarakter, Mekong-uitzichten en de mogelijkheid wilt om direct de avondstad in te stappen. Verblijf iets landinwaarts of richting Phu Tok als je meer om parkeren, stillere nachten en makkelijkere dawn-vertrekken geeft.\n\nVoor de meeste eerste bezoeken is de sterkste compromis een verblijf dichtbij genoeg om naar de oude stad te wandelen zonder in het drukste late-avondgedeelte te slapen. Erfgoedhuizen en rivierfront-boetieks zijn het waard als dat gevoel van plek centraal staat in de reis. Praktischere hotels maken meer zin als Chiang Khan één stop is op een bredere Loei- of Mekong-wegroute.",
+  "whereToEat": [
+    {
+      "name": "Chiang Khan Walking Street food stalls",
+      "cuisine": "Street food / snacks / desserts",
+      "priceRange": "$",
+      "description": "De nuttigste avond-eetzone in de stad en de beste plek om te grazen in plaats van over te plannen."
+    },
+    {
+      "name": "Mae Ngam Imm Aroi",
+      "cuisine": "Thai ontbijt / lokale gerechten",
+      "priceRange": "$",
+      "description": "Een ochtendgerichte lokale stop met directe TAT-erkenning."
+    },
+    {
+      "name": "Look Phochana",
+      "cuisine": "Thai / ontbijt / alledaagse maaltijden",
+      "priceRange": "$",
+      "description": "Een praktische ontbijtcultuur-keuze verbonden met het lokale verblijfnetwerk."
+    },
+    {
+      "name": "Kaeng Khut Khu riverside restaurants",
+      "cuisine": "Thai / Isaan / rivierlunch",
+      "priceRange": "$-$$",
+      "description": "Beste te gebruiken als deel van de rivieruitstap in plaats van als onafhankelijke dinerbestemming."
+    },
+    {
+      "name": "River Tree Resort dining",
+      "cuisine": "Café / Thai / hotel dineren",
+      "priceRange": "$$",
+      "description": "Een nuttige midday-reset als je een stillere riviergerichte maaltijd wilt."
+    }
+  ],
+  "topHotels": [
+    {
+      "name": "The Old Chiangkhan",
+      "category": "luxe",
+      "priceRange": "$$-$$$",
+      "area": "Walking Street / Mekong-rand",
+      "description": "De sterkste erfgoed-overnachting als je de oude-stadsetting wilt die de hele reis vormt."
+    },
+    {
+      "name": "U Rim Khong",
+      "category": "luxe",
+      "priceRange": "$$-$$$",
+      "area": "Walking Street / rivierfront",
+      "description": "Een sterke rivierkeuze voor Mekong-uitzichten en directe walking-street-toegang."
+    },
+    {
+      "name": "River Tree Resort",
+      "category": "middenklasse",
+      "priceRange": "$$",
+      "area": "Rivierkant oost van stadscentrum",
+      "description": "Een comfortgerichte basis met meer resort-gevoel en minder oude-stad-dichtheid."
+    },
+    {
+      "name": "U Chiang Khan",
+      "category": "budget",
+      "priceRange": "$-$$",
+      "area": "Centraal Chiang Khan",
+      "description": "Een praktische kleine-hoteloptie met ontbijtondersteuning en gratis fietsen."
+    },
+    {
+      "name": "U Villa",
+      "category": "middenklasse",
+      "priceRange": "$$",
+      "area": "Centraal Chiang Khan",
+      "description": "Een ruimere familie- of groepsoptie dicht bij de oude straat."
+    },
+    {
+      "name": "Norn Nab Dao Rim Phu Resort",
+      "category": "middenklasse",
+      "priceRange": "$-$$",
+      "area": "Nabij Phu Tok",
+      "description": "Een betere buiten-centrum-basis als zonsopgang-uitzichttoegang belangrijker is dan oude-stad-voorgevel."
+    }
+  ],
+  "gettingAround": "Chiang Khan zelf is makkelijk te verkennen te voet zodra je in de oude stad bent. Fietsen zijn zinvol voor een bredere rivierstrek, terwijl motorfietsen en privéauto's nuttiger zijn voor Phu Tok, Kaeng Khut Khu en andere Loei-kant-omwegen. De officiële Loei-toerisme-gids vermeldt district-gerunde transport naar Phu Tok vanaf de parkeerplaats, wat de verstandige manier is voor die zonsopgangstop in plaats van zelf de laatste streek te rijden.\n\nVoor aankomsten komen de meeste bezoekers over land vanuit Bangkok of combineren Loei Airport met een wegtransfer naar de stad. Vanuit Nederland vlieg je vanaf Schiphol met KLM naar Bangkok en dan over land door, of via Loei Airport. Houd de formulering flexibel omdat vluchtschema's en busbedrijven veranderen, maar de basisplanning blijft hetzelfde: Chiang Khan is een weggebaseerde bestemming zelfs als je in de provincie vliegt.",
+  "bestTimeToVisit": "Chiang Khan is het makkelijkst in het koele seizoen van november tot februari, wanneer wandelingen door de oude stad, avonden aan de rivier en vroege ochtenden allemaal soepeler verlopen. Oktober tot december is de bekendere periode voor mist bij Phu Tok. Kaeng Khut Khu beloont later in het droge seizoen beter, wanneer de Mekong lager staat en de rotsformatie duidelijker zichtbaar is. Lange weekenden en Thaise feestdagen brengen meer binnenlands verkeer, dus midweeks verblijven voelen meestal rustiger en authentieker.",
+  "budgetGuide": {
+    "budget": {
+      "min": 20,
+      "max": 40,
+      "description": "Budgetreizigers kunnen Chiang Khan betaalbaar houden met een eenvoudige guesthouse, maaltijden in ontbijtshops, snacks op de wandelstraat en één zonsopgang-uitje in plaats van meerdere transport-intensieve zijtrips."
+    },
+    "midrange": {
+      "min": 45,
+      "max": 95,
+      "description": "Middenklasse verblijven bieden meestal een betere kamerlocatie, een comfortabeler hotel aan de rivier en een rustiger tempo met één of twee geplande maaltijden en één zijtrip."
+    },
+    "luxury": {
+      "min": 110,
+      "max": 220,
+      "description": "Hogere budgetten in Chiang Khan gaan meer naar erfgoed-kamerkwaliteit, betere uitzichten en extra transportgemak dan naar luxe infrastructuur."
+    }
+  },
+  "safetyTips": "Chiang Khan is over het algemeen laag in wrijving en stress, maar dat verwijdert niet de noodzaak voor basis oordeel. Houd de aalmoezenroute respectvol en vermijd het dringen bij monniken voor foto's. Wees voorzichtig op zonsopgang-wegen als je de stad verlaat in het donker voor Phu Tok of de skywalk. Rond de Mekong, onthoud dat rivieromstandigheden en oevers met het seizoen veranderen, en Kaeng Khut Khu is nuttiger als uitkijkpunt-en-lunchstop dan als plek om casual te gedragen rond bewegend water. Als je een motorfiets rijdt, is het grootste risico 's ochtends vroeg zichtbaarheid en onbekende wegen, niet stedelijk verkeer.",
+  "faq": [
+    {
+      "question": "Hoeveel nachten moet ik in Chiang Khan blijven?",
+      "answer": "Eén nacht kan werken als je timing goed is, maar twee nachten past veel beter als je zowel een zonsopgang-ervaring als een ontspannen wandelstraat-avond wilt zonder alles te comprimeren."
+    },
+    {
+      "question": "Wat is de beste tijd voor Chiang Khan Walking Street?",
+      "answer": "Laat in de middag tot avond is de sterkste periode. De officiële Loei toerismebrochure vermeldt dat de wandelstraat dagelijks om 4 uur 's middags opent, en dat past veel beter bij het ritme van de stad dan een middagbezoek."
+    },
+    {
+      "question": "Is de ochtend aalmoezen-ceremonie nog steeds de moeite waard om te zien?",
+      "answer": "Ja, maar alleen als je het benadert als een lokale ritueel. Het is de moeite waard omdat het nog steeds de identiteit van de stad verankert, niet omdat het dramatische foto's garandeert."
+    },
+    {
+      "question": "Moet ik Phu Tok of de skywalk kiezen?",
+      "answer": "Kies Phu Tok als je de klassieke Chiang Khan zonsopgang wilt. Kies de skywalk als je specifiek een aparte scenic zijtrip wilt met bredere grensrivier-uitzichten."
+    },
+    {
+      "question": "Wanneer is Kaeng Khut Khu op zijn best?",
+      "answer": "Het is over het algemeen belonender in het drogere deel van het jaar wanneer de Mekong niveaus dalen en de rotsige rivierformatie makkelijker te zien is."
+    },
+    {
+      "question": "Wat is de makkelijkste manier om Chiang Khan te verkennen?",
+      "answer": "Loop door de oude stad, voeg dan fietsen, een motorfiets of een privéauto toe alleen voor uit-de-stad uitkijkpunten en rivierdetours."
+    }
+  ],
+  "practicalInfo": {
+    "bestMonths": [
+      "Nov",
+      "Dec",
+      "Jan",
+      "Feb"
+    ],
+    "nearestAirport": "Loei Airport, gevolgd door een wegtransfer naar Chiang Khan",
+    "travelTimeFromAirport": "Meestal rond 1 tot 1,5 uur per weg, afhankelijk van de transferregeling",
+    "localTransport": [
+      "Wandelen in de oude stad",
+      "Fiets voor bredere rivieroeverdekking",
+      "Motorbike of privéauto voor Phu Tok, Kaeng Khut Khu en uit-de-stad detours",
+      "District-bediende transfer voor het Phu Tok uitkijkpunt",
+      "Overland bus of van verbindingen naar Chiang Khan"
+    ]
+  },
+  "contentSources": [
+    {
+      "type": "gids",
+      "title": "E-Brochure eBook Loei",
+      "creator": "Amazing Thailand / Tourism Authority of Thailand",
+      "url": "https://amazingthailand.com.au/wp-content/uploads/2023/07/E-Brochure-eBook-Loei_EN_Hyperlink3.pdf",
+      "description": "Gebruikt voor Walking Street timing, dawn alms timing, Kaeng Khut Khu seasonality, Phu Tok access context, en de Phu Kok Ngio skywalk framing."
+    },
+    {
+      "type": "case-study",
+      "title": "Top 100 2024 - GPS Chiang Khan - From Breakfast Coupons to Chiang Khan's Economic Linkage",
+      "creator": "Green Destinations / Designated Areas for Sustainable Tourism Administration",
+      "url": "https://www.greendestinations.org/wp-content/uploads/2024/10/Top-100-2024-GPS-Chiang-Khan-From-Breakfast-Coupons-to-Chiang-Khans-Economic-Linkage.pdf",
+      "description": "Gebruikt voor huidige bestemmingsframing en de breakfast-coupon lokale-economie context."
+    },
+    {
+      "type": "restaurant",
+      "title": "Mae Ngam Imm Aroi",
+      "creator": "Tourism Authority of Thailand",
+      "url": "https://www.tourismthailand.org/Restaurant/mae-ngam-imm-aroi",
+      "description": "Gebruikt voor een directe officiële restaurantverwijzing in Chiang Khan."
+    },
+    {
+      "type": "hotel",
+      "title": "The Old Chiangkhan",
+      "creator": "The Old Chiangkhan Boutique Hotel",
+      "url": "https://theoldchiangkhan.com/",
+      "description": "Gebruikt voor officiële erfgoed-hotel positionering op Walking Street."
+    },
+    {
+      "type": "hotel",
+      "title": "U Chiang Khan",
+      "creator": "U Chiangkhan Hotel",
+      "url": "https://www.uchiangkhanhotel.com/branch/u-chiang-khan-%E0%B9%82%E0%B8%A3%E0%B8%87%E0%B9%81%E0%B8%A3%E0%B8%A1%E0%B9%83%E0%B8%88%E0%B8%81%E0%B8%A5%E0%B8%B2%E0%B8%87%E0%B9%80%E0%B8%A1%E0%B8%B7%E0%B8%AD%E0%B8%87/",
+      "description": "Gebruikt voor officiële centrale-hotel positionering en breakfast-coupon context."
+    },
+    {
+      "type": "hotel",
+      "title": "U Rim Khong",
+      "creator": "U Chiangkhan Hotel",
+      "url": "https://www.uchiangkhanhotel.com/branch/u-rim-khong-pre-%E0%B9%82%E0%B8%A3%E0%B8%87%E0%B9%81%E0%B8%A3%E0%B8%A1%E0%B8%95%E0%B8%B4%E0%B8%94%E0%B9%81%E0%B8%A1%E0%B9%88%E0%B8%99%E0%B9%89%E0%B8%B3%E0%B9%82%E0%B8%82%E0%B8%87/",
+      "description": "Gebruikt voor officiële rivieroever-hotel positionering aan de wandelstraat-kant."
+    },
+    {
+      "type": "hotel",
+      "title": "U Villa",
+      "creator": "U Chiangkhan Hotel",
+      "url": "https://www.uchiangkhanhotel.com/branch/u-villa-new-building/",
+      "description": "Gebruikt voor officiële familie-en-groep verblijf positionering."
+    },
+    {
+      "type": "hotel",
+      "title": "River Tree Resort",
+      "creator": "River Tree Resort",
+      "url": "https://en.rivertreeresort.com/",
+      "description": "Gebruikt voor officiële Mekong-kant resort positionering en on-site dining context."
+    },
+    {
+      "type": "hotel",
+      "title": "Norn Nab Dao Rim Phu Resort",
+      "creator": "River Tree Resort",
+      "url": "https://en.rivertreeresort.com/%E0%B8%AA%E0%B8%B3%E0%B9%80%E0%B8%99%E0%B8%B2%E0%B8%82%E0%B8%AD%E0%B8%87-%E0%B9%82%E0%B8%A3%E0%B8%87%E0%B9%81%E0%B8%A3%E0%B8%A1%E0%B8%99%E0%B8%AD%E0%B8%99%E0%B8%99-%E0%B8%9A%E0%B8%94%E0%B8%B2%E0%B8%A7",
+      "description": "Gebruikt voor officiële heuvelrug resort positionering nabij Phu Tok."
+    }
+  ],
+  "enrichedAt": "2026-03-26T00:00:00.000Z",
+  "factchecked_at": "2026-03-26T00:00:00.000Z"
+}

@@ -1,0 +1,759 @@
+{
+  "id": 31,
+  "slug": "bueng-kan",
+  "name": {
+    "en": "Bueng Kan",
+    "nl": "Bueng Kan",
+    "ja": "ブンカーン",
+    "ko": "붕칸",
+    "th": "บึงกาฬ",
+    "de": "Bueng Kan",
+    "fr": "Bueng Kan",
+    "ru": "Буэн Кан",
+    "zh": "布恩干"
+  },
+  "region": "Isaan",
+  "province": "Bueng Kan",
+  "description": {
+    "en": "A Mekong-border province in northeast Thailand known for sandstone viewpoints, forest trails, wetlands, and quieter domestic travel routes.",
+    "nl": "Een Mekong-provincie in Noordoost-Thailand die bekendstaat om zandstenen uitzichtpunten, bospaden, wetlands en rustigere binnenlandse reisroutes.",
+    "ja": "メコン川沿いのタイ東北部の県で、砂岩の展望地、森林トレイル、湿地、落ち着いた国内旅行ルートで知られています。",
+    "ko": "사암 전망대, 숲길, 습지, 비교적 한적한 국내 여행 동선으로 알려진 태국 북동부 메콩 접경 지역입니다.",
+    "th": "จังหวัดชายแดนลุ่มน้ำโขงในภาคอีสาน ที่เด่นเรื่องภูเขาหินทราย เส้นทางเดินป่า พื้นที่ชุ่มน้ำ และบรรยากาศท่องเที่ยวที่ยังไม่พลุกพล่าน",
+    "de": "Eine Mekong-Grenzprovinz im Nordosten Thailands, bekannt für Sandstein-Aussichtspunkte, Waldpfade, Feuchtgebiete und ruhigere Inlandsreiserouten.",
+    "fr": "Une province frontalière du Mékong dans le nord-est de la Thaïlande, connue pour ses points de vue en grès, ses sentiers forestiers, ses zones humides et ses itinéraires domestiques plus calmes.",
+    "ru": "Пограничная с Меконгом провинция на северо-востоке Таиланда, известная песчаниковыми смотровыми площадками, лесными тропами, водно-болотными угодьями и более спокойными внутренними маршрутами.",
+    "zh": "泰国东北部的湄公河边境省份，以砂岩观景点、森林步道、湿地和相对安静的本地旅行线路闻名。"
+  },
+  "population": 42000,
+  "highlights": [
+    "Hin Sam Wan (Drie Walvisrots)",
+    "Wat Phu Tok",
+    "Naka Cave",
+    "Nong Kut Ting",
+    "Mekong-grenslandschap"
+  ],
+  "location": {
+    "lat": 18.3609,
+    "lng": 103.6466
+  },
+  "image": "/images/cities/generated/bueng-kan.webp",
+  "seo": {
+    "metaTitle": {
+      "en": "Bueng Kan Thailand Guide 2026 | Hin Sam Wan, Naka Cave, Mekong",
+      "nl": "Ontdek Bueng Kan | Drie Walvisrots & Mekong Gids",
+      "ja": "ブンカーン タイ — 三頭クジラ岩＆メコン川ガイド",
+      "ko": "붕칸 태국 — 고래 바위 & 메콩 가이드",
+      "th": "บึงกาฬ ประเทศไทย — คู่มือท่องเที่ยวฉบับสมบูรณ์ 2026",
+      "de": "Entdecken Sie Bueng Kan | Three Whale Rock & Mekong Reiseführer",
+      "fr": "Découvrez Bueng Kan | Three Whale Rock et Guide du Mékong",
+      "ru": "Откройте для себя Буэн Кан | Three Whale Rock и гид по Меконгу",
+      "zh": "发现布恩干 | 三鲸岩与湄公河指南"
+    },
+    "metaDescription": {
+      "en": "Plan a smarter trip to Bueng Kan: Hin Sam Wan, Wat Phu Tok, Naka Cave, Mekong viewpoints, Bueng Khong Long stays, and practical transport advice for 2026.",
+      "nl": "Jouw gids voor Bueng Kan — afgelegen Isaan-provincie met de prachtige Drie Walvisrots, 75 miljoen jaar oude zandsteenformaties, mistig regenwoud en Mekong-uitzichten.",
+      "ja": "ブンカーン旅行ガイド — 壮大な三頭クジラ岩、7500万年の地質遺産、メコン川沿いの秘境イサーン県。2026年更新。",
+      "ko": "붕칸 가이드 — 7,500만 년 된 사암 형성물 고래 바위, 안개 낀 열대우림, 메콩 강 전망이 있는 외진 이산 주.",
+      "th": "คู่มือท่องเที่ยวบึงกาฬ ประเทศไทย — สถานที่ท่องเที่ยว อาหาร ที่พัก และเคล็ดลับ อัปเดต 2026",
+      "de": "Ihr Reiseführer zu Bueng Kan — abgelegene Isan‑Provinz mit dem beeindruckenden Three Whale Rock, 75 Millionen Jahre alten Sandsteinformationen, nebeligem Regenwald und Blick auf den Mekong.",
+      "fr": "Votre guide pour Bueng Kan — province isolée de l'Isan avec le spectaculaire Three Whale Rock, des formations de grès vieux de 75 millions d'années, une forêt tropicale brumeuse et des vues sur le fleuve Mékong.",
+      "ru": "Ваш путеводитель по Буэн Кан — удалённая провинция Иссан с впечатляющими образованиями «Three Whale Rock», песчаниковыми образованиями красного цвета возрастом 75 миллионов лет, окружёнными туманным тропическим лесом и видами на реку Меконг.",
+      "zh": "前往布恩干的指南——偏远的伊桑省，拥有壮观的三鲸岩、7500万年历史的红砂岩地貌、迷雾缭绕的热带雨林，以及湄公河的景色。"
+    }
+  },
+  "categories": {
+    "food": {
+      "en": "Best restaurants and local food in Bueng Kan",
+      "nl": "Beste restaurants en lokaal eten in Bueng Kan",
+      "ja": "ブンカーンのおすすめレストランと地元グルメ",
+      "ko": "붕칸 추천 레스토랑과 현지 음식",
+      "th": "ร้านอาหารและสตรีทฟู้ดที่ดีที่สุดในบึงกาฬ"
+    },
+    "hotels": {
+      "en": "Top hotels and bungalows in Bueng Kan",
+      "nl": "Beste hotels en bungalows in Bueng Kan",
+      "ja": "ブンカーンのおすすめホテル＆バンガロー",
+      "ko": "붕칸 추천 호텔과 방갈로",
+      "th": "โรงแรมแนะนำในบึงกาฬ | เคล็ดลับและดีล"
+    },
+    "attractions": {
+      "en": "Top attractions in Bueng Kan",
+      "nl": "Top bezienswaardigheden in Bueng Kan",
+      "ja": "ブンカーンの人気観光スポット",
+      "ko": "붕칸 인기 관광 명소",
+      "th": "สถานที่ท่องเที่ยวยอดนิยมในบึงกาฬ"
+    }
+  },
+  "tags": [
+    "isaan",
+    "bueng-kan",
+    "mekong",
+    "hin-sam-wan",
+    "naka-cave",
+    "natuur",
+    "thailand",
+    "reizen",
+    "toerisme",
+    "gids"
+  ],
+  "enhanced_description": "Bueng Kan is het makkelijkst te begrijpen als een provinciereis in plaats van een compacte stedentrip. De stad aan de Mekong fungeert als uitvalsbasis, maar de beste dagen combineren vaak meer dan één district: een zandstenen uitkijkpunt in het Phu Sing-gebied, een tempelbeklimming bij Wat Phu Tok, een wetland- of rivieroeverstop nabij de stad, of een overnachting in Bueng Khong Long als Naka Cave je hoofddoel is.\n\nDat is wat Bueng Kan onderscheidt van bekendere Thaise bestemmingen. Dit is geen plek om cafés, winkelcentra en nachtleven in één dicht opeengepakte route te proppen. Het is sterker als je reist langs het landschap: zandstenen ruggen, moerasland, uitzicht op de Mekong langs de weg en kleine gemeenschapsstops die nog steeds voelen als puur Thais binnenlands leven in plaats van toeristische producten.\n\nHet beloont ook realistische planning. Afstanden binnen de provincie zijn niet extreem per weg, maar lang genoeg dat slechte sequencing een dag snel verspilt. Reizigers die Bueng Kan-stad combineren met Nong Kut Ting en de Mekong, en een aparte dag wijden aan Hin Sam Wan of Naka Cave, halen meestal veel meer uit de provincie dan zij die alles in één lus proberen te persen.",
+  "overview": "Bueng Kan is een van de betere keuzes in Noordoost-Thailand als je landschap en sfeer wilt zonder de druk van een groot resortgebied. De provincie ligt langs de Mekong tegenover Laos en is bekender bij Thaise reizigers dan bij internationale bezoekers. De belangrijkste attracties zijn natuurlijk in plaats van stedelijk: Hin Sam Wan in het Phu Sing-gebied, de klifpaden van Wat Phu Tok, Naka Cave nabij Bueng Khong Long, en het Ramsar-wetland bij Nong Kut Ting vlakbij de provinciestad.\n\nDie mix geeft Bueng Kan een heel ander ritme dan Chiang Mai, Phuket of zelfs de meer gevestigde Mekong-steden verder naar het westen. Een nuttig bezoek hier draait om het sequentiëren van districten, dicht bij de juiste startpunten blijven en accepteren dat de provincie verspreid ligt. Bueng Kan-stad is praktisch voor avonden aan de rivier en transportverbindingen. Bueng Khong Long is handiger als je plan draait om Naka Cave of verblijven rond het meer. Met de juiste basis voelt de provincie coherenter dan de kaart initially suggereert.",
+  "hidden_gems": [
+    {
+      "name": "Wat Ahong Silawat",
+      "story": "Wat Ahong Silawat is een van de lonender rustige Mekong-stops omdat het rivierzichten combineert met echt lokaal religieus gebruik in plaats van alleen als fotostop te dienen. Het is vooral nuttig als je één rivieroevertempel wilt die geworteld voelt in de provincie in plaats van alleen toegevoegd aan een route omdat het in de buurt ligt.",
+      "how_to_find": "Plan het als deel van een Mekong-wegtak ten westen van Bueng Kan-stad in plaats van als snelle toevoeging tussen de hoofd-zandsteenattracties.",
+      "best_time": "Ochtendvroeg of laat in de middag is het licht het best geschikt voor de riviersetting.",
+      "local_insights": [
+        "Dit werkt beter als deel van een langzamere Mekong-dag dan als gehaaste stop op weg naar Bueng Khong Long.",
+        "Kleed je voor een actieve tempelbezoek, niet alleen voor een uitkijkpuntstop."
+      ]
+    },
+    {
+      "name": "Nong Kut Ting",
+      "story": "Nong Kut Ting doet ertoe omdat het Bueng Kan toont als meer dan een provincie van klifpaden en zandstenen ruggen. Het wetland is een Ramsar-site en een van de nuttigste plekken om de ecologische kant van de provincie te begrijpen, vooral als je vogelleven, moeraslandschap en een rustiger halve dag nabij de stad wilt.",
+      "how_to_find": "Het ligt binnen handbereik van de provinciestad en is het best te combineren met een markt of rivieroeverstop in plaats van met de langere ritten naar Phu Sing of Bueng Khong Long.",
+      "best_time": "Ochtend is het sterkst voor koelere lucht en een actiever wetland-atmosfeer.",
+      "local_insights": [
+        "Dit is een van de makkelijkste natuurophaltes om in te passen in een aankomst- of vertrekdag.",
+        "Het balanceert de provincie goed als je route anders alleen maar startpunten en uitzichten is."
+      ]
+    },
+    {
+      "name": "Ban Sa Ngor weaving community",
+      "story": "Ban Sa Ngor is een van de betere culturele zijstops als je iets tastbaars en lokaal gemaakt wilt in plaats van weer een uitkijkpunt. TAT-routes benadrukken het dorp voor gemeenschapsweven, wat het een nuttige manier maakt om ambachtelijke context toe te voegen aan een provincie die de meeste bezoekers alleen benaderen via landschapsiconen.",
+      "how_to_find": "Bouw het in een bredere districtroute in plaats van te verwachten dat het een standalone halve dag vult.",
+      "best_time": "Laat in de ochtend of middag werkt zodra je al een zonsopgang-uitzicht hebt gedaan.",
+      "local_insights": [
+        "Het is betekenisvoller als je echt geïnteresseerd bent in lokaal textielwerk, niet alleen souvenirs verzamelt.",
+        "Dit vormt een goed contrast na een meer fysiek veeleisende natuurochtend."
+      ]
+    },
+    {
+      "name": "White Sand Dune at Khong River",
+      "story": "De rivieroeverzandbank en Khong-rivierzichten zijn een van de betere voorbeelden van hoe Bueng Kan nog steeds eenvoudige landschapsstops beloont. Het is geen grootschalige attractie, maar het voegt nuttige variatie toe als je een mildere rivieroeversegment wilt tussen tempel-, grot- en uitzichttdagen.",
+      "how_to_find": "Behandel het als een schilderachtig weg- of korte-stop-omweg in dezelfde districtsequentie als andere Mekong-attracties.",
+      "best_time": "Droogseizoenmiddagen en vroege avonden zijn meestal de makkelijkste tijd om te bezoeken.",
+      "local_insights": [
+        "Dit gaat om open landschap en rivieratmosfeer, niet om een lange activiteitsblok.",
+        "Het werkt het best op dezelfde dag als een tempel- of stadmarktstop."
+      ]
+    }
+  ],
+  "authentic_experiences": [
+    {
+      "activity": "Gebruik Bueng Khong Long als overnachtingsbasis voor de Naka-route in plaats van forenzen vanuit de stad",
+      "story": "Naka Cave en het omliggende Bueng Khong Long-gebied voelen veel minder gehaast als je in de buurt slaapt en vroeg begint. Dit is een van de duidelijkste voorbeelden in Bueng Kan waar de juiste basis de tripkwaliteit meer verandert dan het toevoegen van een extra attractie ooit zou kunnen.",
+      "cultural_significance": "De Naka-routecircuit is een betekenisvolle binnenlandse-reisattractie geworden, vooral voor Thaise reizigers die natuur en geloofgerichte stops combineren.",
+      "how_to_participate": "Verblijf nabij Bueng Khong Long, bevestig de huidige padtoegang de dag ervoor, en houd de rest van de dag licht in plaats van een dezelfde-dag provincielus te forceren.",
+      "insights": [
+        "Dit is meestal beter dan Naka Cave als zware dagtrip vanuit Bueng Kan-stad te doen.",
+        "Het laat ruimte voor een maaltijd aan het meer of een kortere secundaire stop in plaats van een lange nachtrit terug."
+      ],
+      "href": "/city/bueng-kan/top-10-hotels/",
+      "cta_label": "Bekijk Bueng Kan hotelkeuzes"
+    },
+    {
+      "activity": "Beklim Wat Phu Tok vroeg en houd de rest van de dag rustig",
+      "story": "Wat Phu Tok is een van die plekken waar timing en pacing belangrijker zijn dan snelheid. Vroege bezoeken vermijden de hevigste hitte en maken de klifpaden kalmer en veiliger aanvoelen dan middaypogingen.",
+      "cultural_significance": "De site blijft een van de grote boeddhistische landmarks van de provincie en is centraal in haar identiteit in Thais binnenlands reizen.",
+      "how_to_participate": "Ga vroeg, draag geschikte schoenen, en behandel de beklimming als de hoofdinspanning van de dag in plaats van meer moeilijke wandelingen direct erna te stapelen.",
+      "insights": [
+        "Natte omstandigheden veranderen materieel hoe de wandeling aanvoelt.",
+        "Dit is beter te combineren met een makkelijke rivieroever- of markтавond dan met een andere zware beklimming."
+      ],
+      "href": "/city/bueng-kan/top-10-attractions/",
+      "cta_label": "Plan de Bueng Kan attractiecircuit"
+    },
+    {
+      "activity": "Bouw één Mekong-dag op rond stad, rivierweg en tempelstops",
+      "story": "Bueng Kan slaat meer aan als je de Mekong een eigen dag geeft in plaats van het als achtergrondlandschap te behandelen. De rivierstadweg, Wat Ahong Silawat, Thais-Laos handelscontext en avondeten behoren allemaal tot hetzelfde provinciale verhaal.",
+      "cultural_significance": "De Mekong is de grens, handelsroute en landschapsanker van de provincie, niet zomaar een optioneel uitzichttpunt.",
+      "how_to_participate": "Gebruik Bueng Kan-stad als start, voeg één tempel en één rivieroeveretenstop toe, en houd de dag licht qua transfers.",
+      "insights": [
+        "Dit is de beste manier om een Bueng Kan-route te voorkomen dat het alleen maar startpunten en parkeerplaatsen wordt.",
+        "Een eenvoudige rivierdag wordt vaak een van de memorabelste delen van de provincie."
+      ],
+      "href": "/city/bueng-kan/food/",
+      "cta_label": "Bekijk Bueng Kan eetstops"
+    },
+    {
+      "activity": "Behandel Hin Sam Wan als een weersafhankelijk uitzichttpunt, niet als gegarandeerde ansichtkaart",
+      "story": "Three Whale Rock is de hoofdreden waarom veel reizigers komen, maar de ervaring hangt sterk af van licht, mist en wegcondities. Het accepteren van die variabiliteit is deel van het beste uit de site halen in plaats van teleurgesteld te zijn door een rigide fotochecklist.",
+      "cultural_significance": "De zandsteenformatie is het kenmerkende visuele landmark van de provincie geworden en centraal in haar toerisme-identiteit.",
+      "how_to_participate": "Kies een dag met de beste beschikbare condities, ga vroeg als je sfeer najaagt, en laat ruimte voor aanpassing als het weer omslaat.",
+      "insights": [
+        "Dit is een van de weinige attracties in de provincie waar het weer de ervaring echt kan verbeteren.",
+        "Een sterke Hin Sam Wan-ochtend is beter dan het in een zwakke midday-sleuf te proppen."
+      ],
+      "href": "/city/bueng-kan/top-10-attractions/",
+      "cta_label": "Bekijk de top Bueng Kan uitzichten"
+    }
+  ],
+  "foodie_adventures": [
+    {
+      "dish": "Gegrilde Mekong-vis en Isaan-gerechten",
+      "location": "Thanon Khao Mao rivierrestaurantstrook",
+      "story": "De meest regionaal specifieke Bueng Kan-maaltijd is nog steeds een tafel met uitzicht op de Mekong met gegrilde vis, pittige salades en het soort gerechten dat lokale families echt bestellen om te delen. TAT's Bueng Kan-materiaal benadrukt rivierrestaurants langs de stadweg, wat de juiste plek is om te beginnen als je diner gekoppeld wilt aan het landschap.",
+      "where_to_find": "Gebruik de Mekong-gericht restaurantstrook langs Thanon Khao Mao in Bueng Kan-stad in plaats van terug te vallen op keteneten.",
+      "price_range": "Budget tot middenklasse",
+      "ordering_tips": [
+        "Bestel om te delen in plaats van de maaltijd te behandelen als één hoofdgerecht per persoon.",
+        "Zonsondergang is de sterkste tijd als je wilt dat het rivierzicht ertoe doet."
+      ],
+      "href": "/city/bueng-kan/top-10-restaurants/",
+      "cta_label": "Bekijk de Bueng Kan eetgids"
+    },
+    {
+      "dish": "Thais-Laos marktontbijt",
+      "location": "Thai-Lao Market, Bueng Kan Road",
+      "story": "Een van de nuttigste eetstops van de provincie is helemaal geen formeel restaurant. De Thai-Lao Market geeft je het ochtendhandelsritme dat Bueng Kan laat voelen als een echte grensprovincie, niet zomaar een lijst natuuroorden.",
+      "where_to_find": "Ga naar de Thai-Lao Market 's ochtends op marktdagen in plaats van een wekelijkse toeristenopzet te verwachten.",
+      "price_range": "Budget",
+      "ordering_tips": [
+        "Ga vroeg; dit is sterker als echte marktstop dan als late brunchvervanger.",
+        "Behandel het als ontbijt en snacken, niet als lange zitmaaltijd."
+      ],
+      "href": "/city/bueng-kan/top-10-restaurants/",
+      "cta_label": "Bekijk de Bueng Kan eetgids"
+    },
+    {
+      "dish": "Meerfront koffie en lichte maaltijden",
+      "location": "Z Cafe & Restaurant at Zenery Lake Resort",
+      "story": "Rond Bueng Khong Long maakt een lichtere meerfrontcaféstop vaak meer zin dan jagen op een formeel bestemmingsmaal. Z Cafe & Restaurant is nuttig omdat het past bij het overnachtings-en-padritme van het gebied.",
+      "where_to_find": "Gebruik de on-site café en restaurant van Zenery Lake Resort als je in de buurt verblijft of baseert rond Bueng Khong Long.",
+      "price_range": "Budget tot middenklasse",
+      "ordering_tips": [
+        "Dit werkt het best voor ontbijt, koffie of een lichte vroege diner rond een wandeldag.",
+        "Maak de stop niet te ingewikkeld; de setting is deel van de aantrekkingskracht."
+      ],
+      "href": "/city/bueng-kan/top-10-restaurants/",
+      "cta_label": "Bekijk de Bueng Kan eetgids"
+    },
+    {
+      "dish": "Gemeenschapsstijl lokale maaltijd",
+      "location": "Bueng Kan Living Community Museum-gebied",
+      "story": "TAT-route materiaal positioneert het gemeenschapsmuseum als meer dan een kijkstop, en dat geldt ook voor eten. Als het goed geregeld is, ligt de waarde in een lokaal gewortelde maaltijdcontext in plaats van zoeken naar een gepolijst restaurantconcept.",
+      "where_to_find": "Plan het alleen als je route al het museum en bredere gemeenschapsroute omvat, niet als willekeurige omweg.",
+      "price_range": "Variërend per regeling",
+      "ordering_tips": [
+        "Dit is het best te behandelen als voorgeplande gemeenschapsstop, niet als walk-in restaurantgarantie.",
+        "Gebruik het als je context en lokale producten wilt meer dan een conventionele eetkamer."
+      ],
+      "href": "/city/bueng-kan/top-10-restaurants/",
+      "cta_label": "Bekijk de Bueng Kan eetgids"
+    }
+  ],
+  "local_insights": [
+    {
+      "observation": "Bueng Kan spreidt zich uit over duidelijke reisgebieden, niet één dichte stadroute.",
+      "tip": "Scheid Bueng Kan-stad en Mekong-stops zo veel mogelijk van Bueng Khong Long- en Phu Sing-dagen.",
+      "surprise": "Reizigers verliezen vaak meer tijd door slechte sequencing dan door werkelijke roadafstand."
+    },
+    {
+      "observation": "De provincie is sterker als overnachtingsroute dan als dezelfde-dag checklist.",
+      "tip": "Als Naka Cave op het plan staat, slaap nabij Bueng Khong Long in plaats van forenzen vanuit de stad als je schema het toelaat.",
+      "surprise": "Een een-nacht verschuiving in basis verbetert vaak de hele trip meer dan één extra attractie toevoegen."
+    },
+    {
+      "observation": "Mekong-landschap is deel van de identiteit van de provincie, niet zomaar achtergrond.",
+      "tip": "Houd één langzaam rivieroeverblok in de route voor een tempel, markt of diner aan de rivier.",
+      "surprise": "Sommige van de memorabelste uren in Bueng Kan zijn de minst ambitieuze op papier."
+    },
+    {
+      "observation": "Weer verandert de feel van de provincie op een heel praktische manier.",
+      "tip": "Behandel zandsteenuitzichten en klifwandelingen als conditie-afhankelijk in plaats van vaste-uur verplichtingen.",
+      "surprise": "Wolken en mist kunnen Hin Sam Wan dramatisch verbeteren, maar regen verandert padveiligheid snel."
+    }
+  ],
+  "seasonal_secrets": {
+    "best_times": {
+      "November-February": "Meestal de makkelijkste periode voor eerste bezoekers omdat de luchtvochtigheid lager is, wegreizen eenvoudiger en wandeldagen beheersbaarder.",
+      "July-October": "De provincie kan groener en atmospherischer ogen, vooral rond zandsteenuitzichten, maar gladde paden en zwaardere regen vereisen meer flexibiliteit."
+    },
+    "local_festivals": [
+      "Songkran - 13-15 april",
+      "Loy Krathong - meestal november"
+    ],
+    "seasonal_foods": {
+      "cool_season": "Koelere avonden passen bij rivier maaltijden en langere buitenzichts dagen.",
+      "year_round": "Mekong-visgerechten, Isaan-salades en marktontbijten zijn praktische redenen om het hele jaar lokaal te eten."
+    },
+    "insider_tips": {
+      "hot_season": "In maart tot mei, zet beklimmingen en open uitzichten voor in de ochtend.",
+      "wet_season": "Sta meer buffer toe voor wegen, schoenen en padcondities als regen actief is.",
+      "festival_periods": "Thaise feestperiodes kunnen de betere Bueng Khong Long-kamers sneller vullen dan internationale reizigers verwachten."
+    }
+  },
+  "budget_reality": {
+    "budget": "€23-41/dag",
+    "mid_range": "€46-101/dag",
+    "luxury": "€110-202/dag",
+    "examples": [
+      "Budgetdagen betekenen meestal een eenvoudig guesthouse of wegrestaurant, lokale maaltijden en zelfrijdend of gedeeld overland transport.",
+      "Middenklasse uitgaven dekken typisch een beter meer-gebied verblijf, een privéautodag of chauffeur, en een bewuster diner aan de rivier of het meer.",
+      "Echte luxe is beperkt hier; hogere budgetten kopen vooral comfort, privétransport en de beste beschikbare kamer categorieën in plaats van klassiek vijfsterren inventaris."
+    ],
+    "money_saving_tricks": [
+      "Gebruik Bueng Kan-stad voor de eerste nacht en verschuif naar Bueng Khong Long alleen als de route het echt nodig heeft.",
+      "Groepeer nabije stops per district in plaats van de provincie herhaaldelijk per weg te kruisen."
+    ],
+    "hidden_costs": [
+      "Last-minute privétransport kan kosten snel opdrijven omdat de provincie niet gebouwd is rond makkelijke on-demand toeristen transfers.",
+      "Weergerelateerde routeveranderingen kunnen een extra overnachting of duurdere rit forceren dan gepland."
+    ]
+  },
+  "top_attractions": [
+    {
+      "rank": 1,
+      "name": "Hin Sam Wan (Three Whale Rock)",
+      "description": "Het kenmerkende zandsteenuitzichttpunt van de provincie en de duidelijkste hoofdreden om Bueng Kan te bezoeken.",
+      "location": "Phu Sing Forest Park-gebied",
+      "entrance_fee": "Controleer huidige parkvoertuig- en entree regelingen voor je gaat",
+      "highlights": [
+        "Iconische zandsteenformatie",
+        "Beste bekende Bueng Kan-uitzicht",
+        "Meest weersafhankelijke highlight"
+      ],
+      "href": "/city/bueng-kan/top-10-attractions/",
+      "cta_label": "Bekijk de Bueng Kan attractiegids"
+    },
+    {
+      "rank": 2,
+      "name": "Wat Phu Tok",
+      "description": "Een van de meest onderscheidende tempelbeklimmingen in Noordoost-Thailand, bekend om klifzijde houten paden en een sterk gevoel van plek.",
+      "location": "Si Wilai District",
+      "entrance_fee": "Kleed bescheiden en bevestig lokale condities bij aankomst",
+      "highlights": [
+        "Klifzijde padensysteem",
+        "Grote provinciale landmark",
+        "Het best vroeg gedaan"
+      ],
+      "href": "/city/bueng-kan/top-10-attractions/",
+      "cta_label": "Bekijk de Bueng Kan attractiegids"
+    },
+    {
+      "rank": 3,
+      "name": "Naka Cave",
+      "description": "Een geloof-en-natuur attractie nabij Bueng Khong Long die het best werkt als je de hele dag eromheen plant.",
+      "location": "Bueng Khong Long-gebied",
+      "entrance_fee": "Padtoegangsregels en ticketing kunnen veranderen; controleer huidige parkadviezen voor vertrek",
+      "highlights": [
+        "Naka-schaal rotsformaties",
+        "Binnenlandse reis favoriet",
+        "Sterke overnachting paring met Bueng Khong Long"
+      ],
+      "href": "/city/bueng-kan/top-10-attractions/",
+      "cta_label": "Bekijk de Bueng Kan bezienswaardigheden gids"
+    },
+    {
+      "rank": 4,
+      "name": "Nong Kut Ting",
+      "description": "Een door Ramsar erkend wetland dat Bueng Kan ecologische diepgang geeft voorbij de beter bekende klif- en grottenlocaties.",
+      "location": "Nabij Bueng Kan stad",
+      "entrance_fee": "Meestal benaderd als een lokale natuurbestemming in plaats van een formele attractie met entreekaartjes",
+      "highlights": [
+        "Ramsar wetland",
+        "Makkelijke natuurbestemming aan de rand van de stad",
+        "Goed voor vogels en moeraslandschap"
+      ],
+      "href": "/city/bueng-kan/top-10-attractions/",
+      "cta_label": "Bekijk de Bueng Kan bezienswaardigheden gids"
+    },
+    {
+      "rank": 5,
+      "name": "Wat Ahong Silawat",
+      "description": "Een nuttige tempelstop aan de Mekong die een rustigere riviersfeer toevoegt aan een route door de hele provincie.",
+      "location": "Mekong corridor ten westen van de stad",
+      "entrance_fee": "Donaties aan de tempel zijn gepast; kleed je respectvol",
+      "highlights": [
+        "Riviersetting",
+        "Actieve tempelsfeer",
+        "Goede toevoeging voor een Mekong-dag"
+      ],
+      "href": "/city/bueng-kan/top-10-attractions/",
+      "cta_label": "Bekijk de Bueng Kan bezienswaardigheden gids"
+    },
+    {
+      "rank": 6,
+      "name": "White Sand Dune at Khong River",
+      "description": "Een lichtere scenic stop die goed past in een bredere Mekong-route door het district.",
+      "location": "Khong River / Mekong-zijde",
+      "entrance_fee": "Geen grote planning met entreekaartjes nodig",
+      "highlights": [
+        "Open rivierlandschap",
+        "Aantrekkelijk in het droge seizoen",
+        "Makkelijke detourstop"
+      ],
+      "href": "/city/bueng-kan/top-10-attractions/",
+      "cta_label": "Bekijk de Bueng Kan bezienswaardigheden gids"
+    }
+  ],
+  "top_restaurants": [
+    {
+      "rank": 1,
+      "name": "Krua Ban Pa",
+      "description": "Een sterke route-gebaseerde eetstop voor reizigers die een maaltijd willen die echt bij een Bueng Kan-reis hoort in plaats van generiek eten langs de weg.",
+      "cuisine_type": "Thai / Isaan",
+      "price_range": "Budget tot middenklasse",
+      "location": "Bueng Kan route-stop",
+      "highlights": [
+        "Opgenomen in de TAT Bueng Kan route",
+        "Werkt als een echte reistop",
+        "Beter dan willekeurig eten langs de snelweg"
+      ],
+      "href": "/city/bueng-kan/top-10-restaurants/",
+      "cta_label": "Bekijk de volledige Bueng Kan eetgids"
+    },
+    {
+      "rank": 2,
+      "name": "Thanon Khao Mao riverside restaurants",
+      "description": "De meest nuttige plek om te beginnen voor diners met uitzicht op de Mekong en alledaags eten in Bueng Kan stad.",
+      "cuisine_type": "Thai / Isaan / Mekong-vis",
+      "price_range": "Budget tot middenklasse",
+      "location": "Bueng Kan stad rivierweg",
+      "highlights": [
+        "Uitzichten op de Mekong",
+        "Beste algemene avondetenzone",
+        "Goed voor gedeelde gerechten"
+      ],
+      "href": "/city/bueng-kan/top-10-restaurants/",
+      "cta_label": "Bekijk de volledige Bueng Kan eetgids"
+    },
+    {
+      "rank": 3,
+      "name": "Thai-Lao Market",
+      "description": "Een betere ochtend eetstop dan veel formele restaurants als je Bueng Kan wilt ervaren als een werkende grensstad.",
+      "cuisine_type": "Marktontbijt en snacks",
+      "price_range": "Budget",
+      "location": "Bueng Kan Road, rivierzijde van de stad",
+      "highlights": [
+        "Beste marktcontext",
+        "Sterkte in de ochtend",
+        "Nuttige grenshandelssfeer"
+      ],
+      "href": "/city/bueng-kan/top-10-restaurants/",
+      "cta_label": "Bekijk de volledige Bueng Kan eetgids"
+    },
+    {
+      "rank": 4,
+      "name": "Z Cafe & Restaurant",
+      "description": "Een praktische Bueng Khong Long stop voor reizigers die bij het meer verblijven of de dag rond Naka Cave structureren.",
+      "cuisine_type": "Café en Thaise maaltijden",
+      "price_range": "Budget tot middenklasse",
+      "location": "Zenery Lake Resort, Bueng Khong Long",
+      "highlights": [
+        "Gemak in het meergebied",
+        "Goed ontbijt of lichte dinner",
+        "Nuttig voor overnachtingen bij Naka Cave"
+      ],
+      "href": "/city/bueng-kan/top-10-restaurants/",
+      "cta_label": "Bekijk de volledige Bueng Kan eetgids"
+    },
+    {
+      "rank": 5,
+      "name": "Bueng Kan Living Community Museum meal stop",
+      "description": "Een context-rijke lokale maaltijdoptie die zinvol is in combinatie met het museum en de community route, niet als willekeurige restaurantjacht.",
+      "cuisine_type": "Lokale community eten",
+      "price_range": "Varieert per regeling",
+      "location": "Community museum route",
+      "highlights": [
+        "Beste voor context-rijke reizen",
+        "Combineert met lokale producten",
+        "Betekenisvoller dan gepolijst dineren"
+      ],
+      "href": "/city/bueng-kan/top-10-restaurants/",
+      "cta_label": "Bekijk de volledige Bueng Kan eetgids"
+    }
+  ],
+  "top_hotels": [
+    {
+      "rank": 1,
+      "name": "The One Hotel Bueng Kan",
+      "description": "De duidelijkste full-service basis in of nabij de provinciale stad als je eenvoudige comfort en makkelijke toegang tot de Mekong-zijde stedelijke kern wilt.",
+      "price_range": "Middenklasse",
+      "category": "middenklasse",
+      "area": "Bueng Kan stad",
+      "highlights": [
+        "Meest praktische stadbasis",
+        "Bekendste hotelprofiel in de stad",
+        "Nuttig voor korte provinciale overnachtingen"
+      ],
+      "href": "/city/bueng-kan/top-10-hotels/",
+      "cta_label": "Bekijk de Bueng Kan hotelgids"
+    },
+    {
+      "rank": 2,
+      "name": "Zenery Lake Resort",
+      "description": "Een betere keuze dan de stad voor reizigers die Bueng Khong Long en een rustiger meergebied verblijf prioriteren.",
+      "price_range": "Middenklasse",
+      "category": "middenklasse",
+      "area": "Bueng Khong Long",
+      "highlights": [
+        "Meerfront oriëntatie",
+        "Dichtbij de Naka route",
+        "Goed overnachtingstempo"
+      ],
+      "href": "/city/bueng-kan/top-10-hotels/",
+      "cta_label": "Bekijk de Bueng Kan hotelgids"
+    },
+    {
+      "rank": 3,
+      "name": "Lake House Naka Cave",
+      "description": "Een kleinere verblijfsoptie die zinvol is als je reis rond Bueng Khong Long is opgebouwd in plaats van de provinciale stad.",
+      "price_range": "Middenklasse boutique",
+      "category": "upscale",
+      "area": "Bueng Khong Long",
+      "highlights": [
+        "Goede positionering bij Naka Cave",
+        "Klein-scale verblijf",
+        "Beste voor route-gebaseerde reizigers"
+      ],
+      "href": "/city/bueng-kan/top-10-hotels/",
+      "cta_label": "Bekijk de Bueng Kan hotelgids"
+    },
+    {
+      "rank": 4,
+      "name": "Buengngarm Resort",
+      "description": "Een eenvoudige Bueng Khong Long-gebied resort voor reizigers die parkeren, simpele kamers en een drama-vrije overnachting nabij het meerdistrict willen.",
+      "price_range": "Budget tot middenklasse",
+      "category": "budget",
+      "area": "Bueng Khong Long",
+      "highlights": [
+        "Praktisch road-trip verblijf",
+        "Nuttig voor bestuurders",
+        "Simpel regionaal overnachting"
+      ],
+      "href": "/city/bueng-kan/top-10-hotels/",
+      "cta_label": "Bekijk de Bueng Kan hotelgids"
+    },
+    {
+      "rank": 5,
+      "name": "Onjira Resort",
+      "description": "Een functioneel gebiedsverblijf dat past bij reizigers die meer om locatie en gemak geven dan om design-gericht hotelkarakter.",
+      "price_range": "Budget tot middenklasse",
+      "category": "budget",
+      "area": "Bueng Khong Long",
+      "highlights": [
+        "Gemak-voorop optie",
+        "Werkt voor korte trail-nachten",
+        "Laag-frictie overnachtingsbasis"
+      ],
+      "href": "/city/bueng-kan/top-10-hotels/",
+      "cta_label": "Bekijk de Bueng Kan hotelgids"
+    }
+  ],
+  "travel_tips": [
+    "Plan Bueng Kan per district, niet op basis van het aantal attracties.",
+    "Gebruik Bueng Kan stad voor Mekong- en markt dagen, en Bueng Khong Long voor Naka-gerichte overnachtingen.",
+    "Controleer toegang tot trails en weer voordat je je committeert aan klifwandelingen of grottochten.",
+    "Neem water, mobiele data back-up en offline kaarten mee voor langere wegsecties.",
+    "Vermijd het forceren van Hin Sam Wan, Wat Phu Tok en Naka Cave in één gehaaste dag."
+  ],
+  "best_time_to_visit": {
+    "season": "Koel Seizoen",
+    "months": "November - Februari",
+    "weather": "Algemeen de makkelijkste periode voor wegreizen, uitzichten en open wandelingen",
+    "reasons": "Beste voor eerste bezoekers die de belangrijkste buitenlocaties van de provincie willen zonder groot risico op zware regen"
+  },
+  "budget_info": {
+    "budget": "€23-41 per dag",
+    "mid_range": "€46-101 per dag",
+    "luxury": "€110-202 per dag",
+    "notes": "Bueng Kan is meestal betaalbaar volgens Thaise reisnormen, maar transportkeuzes en de juiste overnachtingsbasis bepalen het budget meer dan entreegelden."
+  },
+  "enhanced_at": "2026-03-26T00:00:00.000Z",
+  "reviewed_by": "Go2Thailand Redactie Team",
+  "thingsToDo": "Begin met beslissen welke versie van Bueng Kan je echt wilt. Als je komt voor de kenmerkende visuals van de provincie, zijn Hin Sam Wan en Wat Phu Tok nog steeds de duidelijkste prioriteiten, maar behandel ze niet als uitwisselbare snelle stops. Hin Sam Wan is een dag voor weer en uitzichten. Wat Phu Tok is een tempelbeklimming die beloont met een vroege start en een lichtere middag. Naka Cave is een eigen planningsblok en werkt meestal het beste met een overnachting in Bueng Khong Long in plaats van een gehaaste terugkeer dezelfde dag vanuit de stad.\n\nDe provincie wordt ook beter als je ruimte laat voor minder intensieve stops. Nong Kut Ting geeft je een wetland en ecologische tegenhanger voor de klif- en zandsteenbeelden. Een Mekong-dag rond de rivierweg, Thai-Lao Market en één rustigere tempelstop voorkomt dat de reis vervlakt tot alleen parkeerplaatsen en trailheads. Als je Bueng Kan compleet wilt laten voelen, combineer één headline natuurbestemming, één rivier- of wetlandsegment, en één lokaal eetblok.",
+  "whereToStay": "De meeste reizigers zouden moeten kiezen tussen twee bases: Bueng Kan stad of Bueng Khong Long. De stad is de praktische keuze als je rivieravonden, makkelijkere aankomsten en een conventionele provinciale basis wilt. Het werkt goed voor kortere trips gericht op de Mekong, Nong Kut Ting en één dag naar de grote uitzichten. Als je makkelijker toegang wilt tot Naka Cave en meer-gebied scenery, is Bueng Khong Long de sterkere overnachtingskeuze.\n\nDe provincie is geen diepgaande luxe-hotelmarkt, dus de betere strategie is om eerst de juiste locatie te kiezen en dan de kamer categorie. Stadhotels zijn logisch voor gemak. Meer-gebied resorts voor tempo en scenery. Voor de meeste routes is één goede nacht in het juiste district beter dan proberen één basis te gebruiken voor elk deel van de provincie.",
+  "whereToEat": [
+    {
+      "name": "Krua Ban Pa",
+      "cuisine": "Thai / Isaan",
+      "priceRange": "$$",
+      "description": "Een nuttige route-gebaseerde maaltijdstop die meer zin heeft dan willekeurig eten langs de snelweg."
+    },
+    {
+      "name": "Thanon Khao Mao riverside restaurants",
+      "cuisine": "Thai / Isaan / Vis",
+      "priceRange": "$-$$",
+      "description": "De beste algemene dineren zone in Bueng Kan stad voor Mekong-uitzichten en gedeelde lokale gerechten."
+    },
+    {
+      "name": "Thai-Lao Market",
+      "cuisine": "Marktontbijt en snacks",
+      "priceRange": "$",
+      "description": "Een sterkere eetcontext stop dan veel formele restaurants als je de grensstad ritme wilt voelen."
+    },
+    {
+      "name": "Z Cafe & Restaurant",
+      "cuisine": "Café / Thai",
+      "priceRange": "$-$$",
+      "description": "Een praktische Bueng Khong Long maaltijdstop voor reizigers die nabij het meer slapen of Naka Cave hiken."
+    }
+  ],
+  "topHotels": [
+    {
+      "name": "The One Hotel Bueng Kan",
+      "category": "middenklasse",
+      "priceRange": "$$",
+      "area": "Bueng Kan stad",
+      "description": "De meest praktische stadbasis als je een eenvoudige hotelverblijf wilt in plaats van een route-specifiek resort."
+    },
+    {
+      "name": "Zenery Lake Resort",
+      "category": "middenklasse",
+      "priceRange": "$$",
+      "area": "Bueng Khong Long",
+      "description": "Een betere fit voor Naka-route reizigers en iedereen die een meer-gebied overnachting prioriteert."
+    },
+    {
+      "name": "Lake House Naka Cave",
+      "category": "upscale",
+      "priceRange": "$$-$$$",
+      "area": "Bueng Khong Long",
+      "description": "Een klein-scale verblijf dat zinvol is als je reis rond Bueng Khong Long is opgebouwd in plaats van de stad."
+    },
+    {
+      "name": "Buengngarm Resort",
+      "category": "budget",
+      "priceRange": "$-$$",
+      "area": "Bueng Khong Long",
+      "description": "Een simpele road-trip overnachting met praktische toegang tot het bredere meerdistrict."
+    }
+  ],
+  "gettingAround": "Bueng Kan is het beste te bereizen met een privéauto, chauffeur of een zorgvuldig geplande volgorde van lokaal overland transport in plaats van te veronderstellen dat er makkelijke point-to-point toerisme-infrastructuur is. De TAT Bueng Kan richtlijnen vermelden lokale drie-wieler services in de stad, plus songthaews en commuter vans voor bredere districtreizen, maar deze zijn nuttiger voor eenvoudige lokale bewegingen dan voor ambitieuze multi-stop bezienswaardigheidsdagen. Als je plan Hin Sam Wan, Wat Phu Tok en Bueng Khong Long omvat, maakt een zelf-rijden of huurauto de provincie meestal veel efficiënter.",
+  "bestTimeToVisit": "November tot en met februari is meestal het makkelijkste eerste raam omdat wegreizen eenvoudiger is, buitenwandelen comfortabeler en de belangrijkste natuursites van de provincie makkelijker te sequencen zonder groot risico op zware regen. Dit is het veiligste seizoen als je Hin Sam Wan, Wat Phu Tok, één Mekong-dag en een Bueng Khong Long overnachting wilt combineren.\n\nJuli tot en met oktober kan groener en atmospherischer lijken, vooral rond zandsteen-uitzichten en de Naka route, maar condities worden minder voorspelbaar. Dat maakt de provincie geen slechte regen-seizoen bestemming. Het betekent gewoon dat schoeisel, weerbuffer en een flexibelere reisroute veel belangrijker zijn dan in het koele seizoen.",
+  "budgetGuide": {
+    "budget": {
+      "min": 25,
+      "max": 45,
+      "description": "Budget reizen in Bueng Kan betekent meestal eenvoudige lokale accommodatie, markt- of wegkantmaaltijden, en zorgvuldige routeplanning zodat transport niet de verborgen kostenpost wordt."
+    },
+    "midrange": {
+      "min": 50,
+      "max": 110,
+      "description": "Middenklasse trips dekken over het algemeen een sterker stadhotel of meer-gebied resort, één of twee geplande eetstops, en flexibeler privétransport."
+    },
+    "luxury": {
+      "min": 120,
+      "max": 220,
+      "description": "Hogere uitgaven in Bueng Kan kopen comfort en logistiek in plaats van klassiek luxe aanbod, omdat de provincie niet is opgebouwd rond vijf-sterren resort keuze."
+    }
+  },
+  "safetyTips": "Bueng Kan is over het algemeen rustig, maar de belangrijkste risico's van de provincie zijn praktisch in plaats van stedelijk. Klifwandelingen en steile trappen bij Wat Phu Tok verdienen goed schoeisel en extra voorzichtigheid in natte condities. Naka Cave en zandsteen-uitzicht dagen moeten worden behandeld als trail dagen, niet als casual flip-flop uitjes. Weer kan snel veranderen, mobiele dekking is minder betrouwbaar in sommige stukken dan in grote Thaise steden, en lange wegtransfers zijn gebruikelijk genoeg dat brandstof, water en offline navigatie ertoe doen. Rond de Mekong, bewonder de rivier in plaats van het als zwemplek te behandelen, en bevestig huidige toegangregels voordat je naar populaire natuursites gaat.",
+  "faq": [
+    {
+      "question": "Is Bueng Kan het waard om te bezoeken als je niet op zoek bent naar obscure Thailand?",
+      "answer": "Ja, maar alleen als je echt scenery, rustigere wegreizen en een provincie wilt die is opgebouwd rond landschap in plaats van nachtleven of resort-dichtheid. Bueng Kan is het sterkst voor reizigers die route-gebaseerde trips leuk vinden."
+    },
+    {
+      "question": "Moet je in Bueng Kan stad of Bueng Khong Long verblijven?",
+      "answer": "Bueng Kan stad is de betere algemene basis. Bueng Khong Long is beter als Naka Cave en het meergebied centraal staan in de reis en je een makkelijkere vroege start daar wilt."
+    },
+    {
+      "question": "Kun je Hin Sam Wan, Wat Phu Tok en Naka Cave in één dag doen?",
+      "answer": "Je kunt het forceren met de auto, maar het verlaagt meestal de reis kwaliteit. De meeste reizigers zouden die prioriteiten over minstens twee dagen of een overnachtingsbasis wisseling moeten spreiden."
+    },
+    {
+      "question": "Welk eten moet je prioriteren in Bueng Kan?",
+      "answer": "Begin met visgerechten met uitzicht op de Mekong, gedeelde Isaan-gerechten en één echt marktontbijt, in plaats van te zoeken naar een gepolijste fine-dining scène waarin de provincie niet echt gespecialiseerd is."
+    },
+    {
+      "question": "Wat is de makkelijkste manier om Bueng Kan te bereiken?",
+      "answer": "Bueng Kan heeft geen directe commerciële luchthaven. TAT-advies wijst de meeste luchtreizigers naar Udon Thani eerst en vervolgens per weg naar de provincie."
+    }
+  ],
+  "practicalInfo": {
+    "bestMonths": [
+      "Nov",
+      "Dec",
+      "Jan",
+      "Feb"
+    ],
+    "nearestAirport": "Udon Thani International Airport (meest voorkomende vluchthaven)",
+    "travelTimeFromAirport": "Meestal rond de 3-4 uur per weg, afhankelijk van je einddistrict en transportopstelling",
+    "localTransport": [
+      "Privéauto of chauffeur",
+      "Songthaew op lokale routes",
+      "Pendeltaxi",
+      "Driewielertaxi in de stad",
+      "Zelf te rijden auto"
+    ]
+  },
+  "contentSources": [
+    {
+      "type": "officieel toerisme",
+      "title": "Bueng Kan",
+      "creator": "Tourism Authority of Thailand",
+      "url": "https://www.tourismthailand.org/Destinations/Provinces/Bueng-Kan/590",
+      "description": "Gebruikt voor positionering op provinciaal niveau, officiële hoogtepunten en algemene bestemmingskadering."
+    },
+    {
+      "type": "officieel toerisme",
+      "title": "3 Dagen 2 Nachten: Aanbevolen Route in Bueng Kan",
+      "creator": "Tourism Authority of Thailand",
+      "url": "https://www.tourismthailand.org/Trip-Planner/Suggestion-Detail/3-days-2-nights-recommended-route-in-bueng-kan",
+      "description": "Gebruikt voor de officiële routestructuur met Phu Sing, Phu Thok, Krua Ban Pa en gemeenschapsstops."
+    },
+    {
+      "type": "officieel toerisme",
+      "title": "Groene Seizoen: Waar Naartoe Dit Regenseizoen of Het Volgende",
+      "creator": "Tourism Authority of Thailand",
+      "url": "https://www.tourismthailand.org/Articles/green-season-where-to-go-this-rainy-season-or-the-next",
+      "description": "Gebruikt voor de context van de Naka Cave-route en duurzame regenseizoen-kadering."
+    },
+    {
+      "type": "officieel toerisme",
+      "title": "Bueng Kan TAT Gids (PDF)",
+      "creator": "Tourism Authority of Thailand",
+      "url": "https://patricklepetit.jalbum.net/BUENG%20KAN/LIBRARY/Bueng%20Khan%20TAT%202020.pdf",
+      "description": "Gebruikt voor transportcontext, Nong Kut Ting-details, notities over de Thai-Lao Markt en Mekong-wegreferenties."
+    },
+    {
+      "type": "officieel toerisme",
+      "title": "Naka Route: Nong Khai - Bueng Kan",
+      "creator": "Tourism Products Division, Tourism Authority of Thailand",
+      "url": "https://tourismproduct.tourismthailand.org/en/2024/03/25/%E0%B9%80%E0%B8%AA%E0%B9%89%E0%B8%99%E0%B8%97%E0%B8%B2%E0%B8%87%E0%B8%97%E0%B9%88%E0%B8%AD%E0%B8%87%E0%B9%80%E0%B8%97%E0%B8%B5%E0%B9%88%E0%B8%A2%E0%B8%A7-%E0%B8%A1%E0%B8%B9%E0%B9%83%E0%B8%AB%E0%B9%89%E0%B9%80%E0%B8%AE%E0%B8%87-%E0%B9%80%E0%B8%97%E0%B8%B5%E0%B9%88%E0%B8%A2%E0%B8%A7%E0%B9%83%E0%B8%AB%E0%B9%89-%E0%B8%A3%E0%B8%B1%E0%B8%9A%E0%B8%9E%E0%B8%A5%E0%B8%B1%E0%B8%87%E0%B9%81%E0%B8%9A%E0%B8%9A%E0%B8%A3%E0%B8%B1%E0%B8%81%E0%B8%A9%E0%B9%8C%E0%B9%82%E0%B8%A5%E0%B8%81-naka-route-%E0%B9%80%E0%B8%AA%E0%B9%89%E0%B8%99%E0%B8%97%E0%B8%B2%E0%B8%87%E0%B9%80%E0%B8%8A%E0%B8%B7%E0%B9%88%E0%B8%AD%E0%B8%A1%E0%B9%82%E0%B8%A2%E0%B8%87-%E0%B8%AB%E0%B8%99%E0%B8%AD%E0%B8%87%E0%B8%84%E0%B8%B2%E0%B8%A2-%E0%B8%9A%E0%B8%B6%E0%B8%87%E0%B8%81%E0%B8%B2%E0%B8%AC/",
+      "description": "Gebruikt voor actuele TAT-routehoogtepunten inclusief Hin Sam Wan, Hat Kham Somboon en Naka Cave."
+    },
+    {
+      "type": "officieel hotel",
+      "title": "The One Hotel Bueng Kan",
+      "creator": "The One Hotel Bueng Kan",
+      "url": "https://www.facebook.com/hoteltheone/",
+      "description": "Gebruikt voor officiële hotelpositionering in Bueng Kan stad."
+    },
+    {
+      "type": "officieel hotel",
+      "title": "Zenery Lake Resort",
+      "creator": "Zenery Lake Resort",
+      "url": "https://www.facebook.com/zenery.lake.resort/",
+      "description": "Gebruikt voor officiële verblijfplaats aan het meer en context voor eten ter plaatse."
+    },
+    {
+      "type": "officieel hotel",
+      "title": "Lake House Naka Cave",
+      "creator": "Lake House ถ้ำนาคา",
+      "url": "https://www.facebook.com/LakehouseNakaCave/",
+      "description": "Gebruikt voor officiële positionering van verblijf in Bueng Khong Long."
+    },
+    {
+      "type": "hotel directory",
+      "title": "Buengngarm Resort",
+      "creator": "Booking.com",
+      "url": "https://www.booking.com/hotel/th/buengngarm-resort.html",
+      "description": "Gebruikt als bron-vulmiddel voor een praktisch profiel van accommodatie in Bueng Khong Long wanneer er geen duidelijke standalone officiële pagina beschikbaar was."
+    },
+    {
+      "type": "hotel directory",
+      "title": "Onjira Resort",
+      "creator": "Expedia",
+      "url": "https://www.expedia.com/Bung-Khong-Long-Hotels-Onjira-Resort.h102500816.Hotel-Information",
+      "description": "Gebruikt als bron-vulmiddel voor accommodatiecontext in het Bueng Khong Long-gebied."
+    }
+  ],
+  "enrichedAt": "2026-03-26T00:00:00.000Z",
+  "factchecked_at": "2026-03-26T00:00:00.000Z"
+}

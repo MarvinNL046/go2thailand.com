@@ -1,0 +1,887 @@
+{
+  "id": 18,
+  "slug": "hua-hin",
+  "name": {
+    "en": "Hua Hin",
+    "nl": "Hua Hin",
+    "ja": "ホアヒン",
+    "ko": "후아힌",
+    "th": "หัวหิน",
+    "de": "Hua Hin",
+    "fr": "Hua Hin",
+    "ru": "Хуа-Хин",
+    "zh": "华欣"
+  },
+  "region": "Centraal",
+  "province": "Prachuap Khiri Khan",
+  "description": {
+    "en": "Thailand's original royal beach resort, known for Hua Hin Beach, Khao Takiab, weekend art markets, practical Bangkok access, and easy day trips to Sam Roi Yot.",
+    "nl": "Thailands oorspronkelijke koninklijke badplaats, bekend om Hua Hin Beach, Khao Takiab, weekendkunstmarkten, praktische bereikbaarheid vanuit Bangkok en makkelijke dagtrips naar Sam Roi Yot.",
+    "ja": "ホアヒンビーチ、カオタキアップ、週末マーケット、バンコクからのアクセスの良さ、サムローイヨート方面の日帰りで知られるタイ最古の王室系ビーチリゾートです。",
+    "ko": "후아힌 비치, 카오 따끼압, 주말 아트 마켓, 방콕 접근성, 삼 로이 욧 당일치기로 알려진 태국의 대표적인 왕실 해변 휴양지입니다.",
+    "th": "หัวหินคือเมืองตากอากาศชายทะเลเก่าแก่ของไทย เด่นเรื่องชายหาด เขาตะเกียบ ตลาดสุดสัปดาห์ การเดินทางสะดวกจากกรุงเทพฯ และต่อทริปไปสามร้อยยอดได้ง่าย",
+    "de": "Thailands ursprünglicher königlicher Badeort, bekannt für Hua Hin Beach, Khao Takiab, Wochenendmärkte, gute Bangkok-Anbindung und einfache Tagesausflüge nach Sam Roi Yot.",
+    "fr": "La station balnéaire royale historique de Thaïlande, connue pour Hua Hin Beach, Khao Takiab, ses marchés du week-end, son accès pratique depuis Bangkok et les excursions vers Sam Roi Yot.",
+    "ru": "Старинный королевский морской курорт Таиланда, известный пляжем Хуа Хин, холмом Кхао Такиаб, уикенд-рынками, удобным доступом из Бангкока и поездками в Сам Рой Йот.",
+    "zh": "华欣是泰国经典的皇家海滨度假地，以 Hua Hin Beach、Khao Takiab、周末创意市集、便捷曼谷交通和前往三百峰国家公园的日游而知名。"
+  },
+  "population": 60000,
+  "highlights": [
+    "Strand van Hua Hin",
+    "Khao Takiab",
+    "Cicada Market",
+    "Nachtmarkt van Hua Hin",
+    "Maruekhathaiyawan Palace",
+    "Nationaal Park Khao Sam Roi Yot"
+  ],
+  "location": {
+    "lat": 12.5684,
+    "lng": 99.9577
+  },
+  "image": "/images/cities/generated/hua-hin.webp",
+  "seo": {
+    "metaTitle": {
+      "en": "Hua Hin Thailand Guide 2026 | Beach, Markets, Hotels, Sam Roi Yot",
+      "nl": "Ontdek Hua Hin | Wat te doen in Hua Hin?",
+      "ja": "ホアヒン タイ旅行ガイド 2026 | ビーチ、市場、ホテル、サムローイヨート",
+      "ko": "후아힌 태국 가이드 2026 | 해변, 마켓, 호텔, 삼 로이 욧",
+      "th": "หัวหิน เที่ยวไทย 2026 | ชายหาด ตลาด โรงแรม และสามร้อยยอด",
+      "de": "Hua Hin Thailand Guide 2026 | Strand, Märkte, Hotels, Sam Roi Yot",
+      "fr": "Guide Hua Hin 2026 | Plage, marchés, hôtels et Sam Roi Yot",
+      "ru": "Путеводитель по Хуа Хину 2026 | Пляж, рынки, отели и Сам Рой Йот",
+      "zh": "华欣旅游指南 2026 | 海滩、市集、酒店与三百峰"
+    },
+    "metaDescription": {
+      "en": "Plan Hua Hin properly with beach-vs-market timing, Khao Takiab, Cicada weekends, strong resort choices, and a realistic Sam Roi Yot day trip.",
+      "nl": "Plan Hua Hin slimmer met strand- en markttiming, Khao Takiab, Cicada-weekenden, sterke resorts en een realistische dagtrip naar Sam Roi Yot.",
+      "ja": "ビーチと市場の使い分け、カオタキアップ、シカダの週末営業、ホテル選び、サムローイヨート日帰りまで整理したホアヒン実用ガイドです。",
+      "ko": "해변과 마켓 타이밍, 카오 따끼압, 시카다 주말 일정, 호텔 선택, 삼 로이 욧 당일치기까지 정리한 후아힌 실전 가이드입니다.",
+      "th": "วางแผนเที่ยวหัวหินให้ดีขึ้นด้วยจังหวะเที่ยวชายหาดและตลาด เขาตะเกียบ ตลาดซิเคด้า โรงแรมทำเลดี และเดย์ทริปสามร้อยยอดที่ทำได้จริง",
+      "de": "Planen Sie Hua Hin besser mit Strand- und Markt-Timing, Khao Takiab, Cicada am Wochenende, starken Resorts und einem realistischen Sam Roi Yot Tagesausflug.",
+      "fr": "Préparez Hua Hin avec le bon rythme plage-marchés, Khao Takiab, Cicada le week-end, de bons resorts et une vraie excursion à Sam Roi Yot.",
+      "ru": "Планируйте Хуа Хин лучше: ритм пляжа и рынков, Кхао Такиаб, выходные в Cicada, хорошие отели и реальная поездка в Сам Рой Йот.",
+      "zh": "从海滩与夜市节奏、Khao Takiab、Cicada 周末开放，到度假酒店和三百峰日游，这份指南帮你更好规划华欣。"
+    }
+  },
+  "categories": {
+    "food": {
+      "en": "Best restaurants and street food in Hua Hin",
+      "nl": "Beste restaurants en streetfood in Hua Hin",
+      "ja": "ホアヒンのおすすめレストランとストリートフード",
+      "ko": "후아힌 추천 레스토랑과 길거리 음식",
+      "th": "ร้านอาหารและสตรีทฟู้ดที่ดีที่สุดในหัวหิน"
+    },
+    "hotels": {
+      "en": "Top hotels in Hua Hin | Tips & deals",
+      "nl": "Beste hotels in Hua Hin | Tips & aanbiedingen",
+      "ja": "ホアヒンのおすすめホテル | ヒント＆お得情報",
+      "ko": "후아힌 추천 호텔 | 팁 & 특가",
+      "th": "โรงแรมแนะนำในหัวหิน | เคล็ดลับและดีล"
+    },
+    "attractions": {
+      "en": "Top attractions in Hua Hin",
+      "nl": "Top bezienswaardigheden in Hua Hin",
+      "ja": "ホアヒンの人気観光スポット",
+      "ko": "후아힌 인기 관광 명소",
+      "th": "สถานที่ท่องเที่ยวยอดนิยมในหัวหิน"
+    }
+  },
+  "tags": [
+    "centraal",
+    "hua-hin",
+    "prachuap-khiri-khan",
+    "thailand",
+    "reizen",
+    "strand",
+    "markten"
+  ],
+  "enhanced_description": "Hua Hin werkt het beste als je ophoudt het te zien als een generiek stranduitje en begint de stad te gebruiken voor de mix die het echt biedt: een stedelijk strandfront, erfgoed van een koninklijk resort uit het verleden, betrouwbare weekendmarkten en een of twee zorgvuldig gekozen uitstapjes. Officiële TAT-materiaal presenteert Hua Hin nog steeds als een verfijnd kustontsnapping in plaats van een feestbestemming, en dat blijft het meest nuttige startpunt. Het is rustiger dan Pattaya, makkelijker te bereiken dan de zuidelijke eilanden en gestructureerder dan veel eerste bezoekers verwachten.\n\nHet sterkste ritme van de stad is eenvoudig. Gebruik het strand en het stadscentrum vroeg, wanneer het zand, de promenades en de marktstraten nog lokaal en beheersbaar aanvoelen. Plaats Khao Takiab, Cicada, Tamarind of de nachtmarktlaag in de late middag en avond, wanneer Hua Hin socialer en beter getimed wordt. Bewaar Sam Roi Yot of een ander uitstapje aan de rand voor een bewuste dag in plaats van het in een strandmiddag te proppen.\n\nDaarom is Hua Hin vaak beter dan zijn zwakste reisbeschrijvingen suggereren. Het probeert niet te winnen op nachtleven-exces of op verreiland-fantasie. Het wint op bewerkbaarheid: één strandochtend, één markavond, één erfgoedstop, één gepolijst resortverblijf of praktisch stadshotel, en één echte dagtrip als je de tijd hebt.",
+  "overview": "Hua Hin heeft drie bruikbare versies, en de juiste hangt af van waar je slaapt. De stadscentrumversie is het sterkst voor eerste bezoekers: je kunt het hoofdstrand, de nachtmarkt, het spoorwegerfgoed en de oudere commerciële straten combineren zonder transport nodig te hebben voor elke stap. De zuid-Hua-Hin-versie rond Nong Kae en Khao Takiab werkt beter als je resorttijd, een rustiger strandrand en makkelijker toegang tot Cicada, Tamarind en de heuvel wilt. De noordkant- of Cha-am-gericht versie past bij reizigers die meer om grotere resorts geven en minder om het lopen de stad in.\n\nDe fout is proberen Hua Hin alles even goed te laten doen. Het is beter te beslissen of je verblijf vooral stad-en-markt, resort-en-strand of dagtrip-en-diner is. Zodra die keuze duidelijk is, wordt de stad veel makkelijker te plannen. Een reis van twee of drie nachten is genoeg voor het strand, Khao Takiab, een of twee avondmarkten en een selectieve culturele of natuurextensie zoals Maruekhathaiyawan Palace of Khao Sam Roi Yot.",
+  "hidden_gems": [
+    {
+      "name": "Use Chat Chai Market before you do the beach",
+      "story": "Hua Hin-ochtenden zijn sterker als je begint in de werkmarkt en pas daarna naar het water drijft. Chat Chai geeft je fruit, ontbijt, zeevruchtenhandelaren en het lokale tempo dat het strandfront kan verbergen.",
+      "how_to_find": "Begin rond het marktgebied in het stadscentrum, loop of rijd dan naar het strand zodra de dag opengaat.",
+      "best_time": "Vroege ochtend tot ontbijt.",
+      "local_insights": [
+        "Een markt-voor-ochtend laat Hua Hin meer aanvoelen als een Thaise stad en minder als een hotelstrook.",
+        "Dit is een van de schoonste manieren om niet te slapen door het beste deel van de stad heen."
+      ]
+    },
+    {
+      "name": "Cicada works better when you pair it with Tamarind",
+      "story": "Officiële en lokale Hua Hin-beschrijvingen splitsen de twee markten vaak in aparte ideeën, maar in de praktijk lossen ze verschillende delen van dezelfde avond op. Cicada behandelt de kunst-en-ontwerp-sfeer, terwijl Tamarind de voedselkant praktischer maakt.",
+      "how_to_find": "Behandel ze als één gedeeld weekendgebied in plaats van twee aparte marktnachten te maken tenzij je extra tijd hebt.",
+      "best_time": "Vrijdag tot zondagavonden.",
+      "local_insights": [
+        "Cicada alleen kan te gecureerd aanvoelen als diner belangrijker is dan browsen.",
+        "Tamarind is het betere antwoord als de hele groep snellere, makkelijkere voedselkeuzes wil."
+      ]
+    },
+    {
+      "name": "The south end of the beach is often the smarter one",
+      "story": "Veel eerste bezoekers kiezen standaard voor het centrale strandfront, maar de Khao Takiab-kant geeft vaak een betere strand-en-uitzicht-combinatie, vooral als je ook resorttijd en makkelijkere markttoegang wilt.",
+      "how_to_find": "Vestig je ten zuiden van het oudere centrum als het strand belangrijker is dan kunnen lopen naar elke nachtmarktblok.",
+      "best_time": "Ochtend en late middag.",
+      "local_insights": [
+        "Stadscentrum-Hua Hin is makkelijker voor lopen, maar zuid-Hua Hin voelt vaak beter voor verblijven.",
+        "Dit is vooral nuttig voor herhaalbezoekers die het centrum niet meer als hun hele reis nodig hebben."
+      ]
+    },
+    {
+      "name": "Sam Roi Yot needs a whole day, not a rushed add-on",
+      "story": "Het nationale park is een van de sterkste extensies van Hua Hin, maar alleen als je de reistijd accepteert en het genoeg daglicht geeft. Het is geen casual extra na een luie strandochtend.",
+      "how_to_find": "Vertrek na het ontbijt en bouw de dag rond het park in plaats van meerdere randstops op te stapelen.",
+      "best_time": "Ochtendvertrek, terug tegen late middag of vroege avond.",
+      "local_insights": [
+        "Een gefocuste Sam Roi Yot-dag is beter dan drie half-gebonden omwegen.",
+        "Als het weer onstabiel lijkt, houd de dag in Hua Hin en verschuif het park naar een andere reis."
+      ]
+    }
+  ],
+  "authentic_experiences": [
+    {
+      "activity": "Loop over het strand voordat Hua Hin een resortstad voor de dag wordt",
+      "story": "Het strand is niet alleen voor luierende en hotelgasten. Vroeg hoort het bij wandelaars, lokale sportgroepen en werkstad-beweging voordat de latere vrijetijdslaag overneemt.",
+      "cultural_significance": "Die splitsing tussen lokaal ochtendgebruik en latere resortgebruik verklaart de identiteit van Hua Hin beter dan een enkele strandfoto-stop.",
+      "how_to_participate": "Ga vroeg, houd ontbijt in de stad of bij Chat Chai, en beslis pas daarna of je op het strand blijft of verdergaat.",
+      "insights": [
+        "Het beste stranduur is vaak het eerste bruikbare.",
+        "Dit is de makkelijkste manier om een kort Hua Hin-verblijf gegrond te laten voelen."
+      ],
+      "href": "/city/hua-hin/attractions/hua-hin-beach/",
+      "cta_label": "Bekijk strand details"
+    },
+    {
+      "activity": "Gebruik Khao Takiab als het uitzichtpunt en tempelstop van de stad",
+      "story": "Khao Takiab doet er nog steeds toe omdat het kustuitzichten, lokaal tempelleven en de zuidkant-geografie van Hua Hin samendrukt in één makkelijke stop.",
+      "cultural_significance": "Het geeft Hua Hin een sterkere lokale en religieuze laag dan het strand of de winkelstraten alleen kunnen bieden.",
+      "how_to_participate": "Bezoek late middag of vroege ochtend, houd verwachtingen realistisch, en behandel de apen als een beheersingskwestie in plaats van de hoofdattraction.",
+      "insights": [
+        "Dit is een van de weinige Hua Hin-stops die meteen de indeling van de stad verduidelijkt.",
+        "Het werkt beter als een korte gefocuste stop dan als een halve dag uitstap."
+      ],
+      "href": "/city/hua-hin/attractions/khao-takiab/",
+      "cta_label": "Bekijk Khao Takiab details"
+    },
+    {
+      "activity": "Bouw één echte weekendavond op rond Cicada en Tamarind",
+      "story": "De reputatie van Cicada is verdiend als je het gebruikt voor wat het echt goed doet: een zachtere, meer gecureerde avond met live optredens, ontwerpkramen en een marktmenigte die anders aanvoelt dan de nachtelijke voedselstraten van Hua Hin.",
+      "cultural_significance": "De markt toont de Bangkok-weekender-kant van Hua Hin zonder de stad te verflauwen tot generieke luxe branding.",
+      "how_to_participate": "Browse Cicada eerst, eet dan over het bredere marktgebied als diner prioriteit wordt.",
+      "insights": [
+        "Dit is beter als één samengestelde avond dan als een snelle blik na diner elders.",
+        "Doordeweekse bezoekers moeten hun hele voedselplan niet opbouwen rond een alleen-weekendmarkt."
+      ],
+      "href": "/city/hua-hin/attractions/cicada-market/",
+      "cta_label": "Bekijk Cicada details"
+    },
+    {
+      "activity": "Gebruik Sam Roi Yot als de echte natuurgdag van Hua Hin",
+      "story": "Hua Hin alleen is geen wildernisbestemming, en precies daarom doet Sam Roi Yot er zo toe. Het park voegt karstlandschap, grot-dramatiek, wetlands en een heel andere schaal van landschap toe.",
+      "cultural_significance": "Het geeft een strandverblijf toegang tot een van de meest onderscheidende beschermde gebieden aan de Golfkust.",
+      "how_to_participate": "Vertrek met een plan, comfortabele schoenen en genoeg tijd om het park het hoofdgebeurtenis van de dag te laten zijn.",
+      "insights": [
+        "Dit is de schoonste manier om bereik toe te voegen aan een twee- of dranacht-Hua Hin-verblijf.",
+        "Het park is een beter gebruik van een volle reserve-dag dan het najagen van kleine attracties rond de stad."
+      ],
+      "href": "/city/hua-hin/attractions/khao-sam-roi-yot/",
+      "cta_label": "Bekijk park details"
+    }
+  ],
+  "foodie_adventures": [
+    {
+      "dish": "Nachtmarkt-zeevruchten en gegrilde straatvoedsel-staples",
+      "location": "Nachtmarkt van Hua Hin",
+      "story": "De oude stadsnachtmarkt blijft het duidelijkste enkele antwoord op waarom de voedselreputatie van Hua Hin er nog toe doet. Het geeft je de zeevruchten-en-snack-identiteit van de stad zonder een luxe-hotel-diner te vereisen.",
+      "where_to_find": "Ga na donker wanneer de steegjes en zittende zeevruchtenrijen volledig actief zijn.",
+      "price_range": "Budget tot middenklasse",
+      "ordering_tips": [
+        "Gebruik de markt voor variatie in plaats van je te binden aan de eerste zeevruchtentafel die je ziet.",
+        "Dit is meestal een betere eerste-nacht-maaltijd dan direct in resort-diner springen."
+      ],
+      "href": "/city/hua-hin/attractions/hua-hin-night-market/",
+      "cta_label": "Bekijk nachtmarkt details"
+    },
+    {
+      "dish": "Ontbijtmarktvoedsel, fruit en lokale dagelijkse-stalletjes",
+      "location": "Chat Chai Market",
+      "story": "Chat Chai doet ertoe omdat het Hua Hin verbonden houdt met lokaal dagelijks leven in plaats van alleen met toeristengericht dineren. Het is het sterkste ochtendvoedseltegenwicht voor de resortversie van de stad.",
+      "where_to_find": "Gebruik het voor het strand, voor een stationbezoek of voor vertrek naar een dagtrip.",
+      "price_range": "Budget",
+      "ordering_tips": [
+        "Ga vroeg en houd het flexibel in plaats van één beroemd stalletje na te jagen.",
+        "Dit is beter voor ontbijtritme dan voor een late lunch."
+      ],
+      "href": "/city/hua-hin/top-10-restaurants/",
+      "cta_label": "Bekijk de Hua Hin voedselgids"
+    },
+    {
+      "dish": "Weekendmarkt grazen over Cicada en Tamarind",
+      "location": "Cicada Market zone",
+      "story": "Het Cicada-gebied werkt als je accepteert dat de kunstmarkt en de voedselzone verschillende behoeften oplossen. Samen maken ze de beste weekendavond van Hua Hin voor groepen met gemengde smaken.",
+      "where_to_find": "Vrijdag tot zondagavonden in het zuid-Hua-Hin-marktgebied.",
+      "price_range": "Budget tot middenklasse",
+      "ordering_tips": [
+        "Browse eerst en committeer aan diner tweede, zodat de avond nog aanvoelt als een markt in plaats van een rij.",
+        "Als je alleen voedsel wilt, doet Tamarind dat deel meestal directer."
+      ],
+      "href": "/city/hua-hin/attractions/cicada-market/",
+      "cta_label": "Bekijk Cicada details"
+    },
+    {
+      "dish": "Klassiek resort dineren in een erfgoed- of strandfront-setting",
+      "location": "Centara, Hyatt, Marriott, The Standard, Anantara en Putahracsa eetzalen",
+      "story": "Hua Hin is een van de Thaise strandsteden waar hotel dineren echt in de planning kan horen, vooral als het pand erfgoedgewicht, strandfrontpositie of een sterke all-day setup heeft.",
+      "where_to_find": "Stadscentrum- en zuid-Hua-Hin-resorts, afhankelijk van waar je verblijft.",
+      "price_range": "Middenklasse tot upscale",
+      "ordering_tips": [
+        "Gebruik één gepolijste resortmaaltijd als contrast, niet elke maaltijd van de reis.",
+        "Een hotel diner is het meest nuttig na een dagtrip of wanneer weer openluchtmarkten minder aantrekkelijk maakt."
+      ],
+      "href": "/city/hua-hin/top-10-restaurants/",
+      "cta_label": "Bekijk de Hua Hin voedselgids"
+    }
+  ],
+  "local_insights": [
+    {
+      "observation": "Hua Hin is makkelijker zodra je stadscentrum of zuidkant eerst kiest.",
+      "tip": "Verblijf nabij het centrum voor spoorwegerfgoed, de nachtmarkt en beloopbaarheid; verblijf zuid voor Khao Takiab, Cicada, Tamarind en meer resort-geleide strandtijd.",
+      "surprise": "Een goed Hua Hin-verblijf wordt meestal meer gevormd door hotelzone dan door een enkele attractie."
+    },
+    {
+      "observation": "Weekends verbeteren sommige delen van Hua Hin en compliceren anderen.",
+      "tip": "Weekendavonden zijn beter voor Cicada en de volledige Bangkok-weekender-sfeer, maar hotelprijzen en wegverkeer kunnen minder vergevingsgezind zijn.",
+      "surprise": "Doordeweekse Hua Hin kan rustiger en praktischer zijn als je reis om strand, dineren en dagtrips gaat in plaats van markt-sfeer."
+    },
+    {
+      "observation": "De beste uren zijn vaak vroeg en laat, niet midden op de dag.",
+      "tip": "Gebruik ochtenden voor het strand, markten of vertrek naar Sam Roi Yot, en gebruik late middag voor Khao Takiab, Cicada of een resort diner.",
+      "surprise": "Veel zwakke Hua Hin-reisplannen mislukken omdat ze de minst geschikte uren vullen met de meest blootgestelde activiteiten."
+    }
+  ],
+  "seasonal_secrets": {
+    "best_season": "November tot februari",
+    "why": "Dit is meestal de makkelijkste periode voor strandochtenden, Khao Takiab, markavonden en dagtrips naar Sam Roi Yot of Cha-am-kant-erfgoedstops.",
+    "local_festivals": [
+      "Songkran en lange Thaise feestdagen brengen een drukker binnenlands-reis-atmosfeer naar Hua Hin.",
+      "Bangkok-geleide lange weekends kunnen resort-beschikbaarheid aanspannen en centrale-kamer-vraag opdrijven."
+    ],
+    "seasonal_foods": [
+      "Koelere avonden maken de nachtmarkt, Cicada en Tamarind veel makkelijker om langzaam te genieten.",
+      "Regenachtige periodes kunnen nog steeds werken voor Hua Hin, maar ze maken openluchtmarktplannen en lange strandsessies minder betrouwbaar."
+    ],
+    "insider_tips": [
+      "Als je reist in warmere maanden, duw strand- en uitzichtstops eerder en verschuif diner later.",
+      "Schouder- en regenachtige maanden kunnen nog steeds goede waarde bieden in Hua Hin, maar je hebt een flexibeler avondplan nodig."
+    ]
+  },
+  "budget_reality": {
+    "budget": "€32-55 per dag",
+    "mid_range": "€74-147 per dag",
+    "luxury": "€175-387 per dag",
+    "daily_costs": {
+      "Simple town room": "$20-35",
+      "Comfortable resort or boutique hotel": "$65-140",
+      "Polished beachfront luxury": "$180+",
+      "Market or local meal": "$3-8",
+      "Resort dinner or cocktails": "$18-45",
+      "Local ride or short transfer": "$3-10"
+    },
+    "examples": [
+      "Doordeweeks stadshotel: meestal betere waarde dan vrijdag- en zaterdagnachten",
+      "Weekend resort-tarief: stijgt vaak sneller als Bangkok-vraag sterk is",
+      "Nachtmarkt diner: een van de makkelijkste manieren om Hua Hin betaalbaar te houden",
+      "Sam Roi Yot dag: transport is vaak de kosten die het budget het meest verschuift"
+    ],
+    "money_saving_tricks": [
+      "Slaap in de stad als de meeste van je plan het strand, nachtmarkt en oudere centrum is, omdat herhaalde resort-naar-stad-transfers snel oplopen.",
+      "Gebruik één resortmaaltijd voor sfeer en laat de rest van de reis leunen op markten of lokale restaurants.",
+      "Als je Cicada, Tamarind en Khao Takiab wilt, kan zuid verblijven herhaalde transportkosten verminderen."
+    ],
+    "where_to_splurge": [
+      "Eén erfgoed- of strandfront-resortverblijf als hotel-sfeer deel van de reis is",
+      "Eén gepolijst resort diner na een markt-zwaar of park-zware dag"
+    ],
+    "hidden_costs": [
+      "Bangkok-weekend-vraag kan hotelprijzen meer verplaatsen dan eerste bezoekers verwachten.",
+      "Langere dagtrips zijn betaalbaar alleen tot privétransport noodzakelijk wordt."
+    ]
+  },
+  "top_attractions": [
+    {
+      "rank": 1,
+      "name": "Hua Hin Beach",
+      "description": "Het hoofdstedelijke strand werkt nog steeds het beste als een ochtend- en late-middag-actief, vooral als je het gebruikt als deel van een breder stadplan in plaats van als een volle-dag resortclaim.",
+      "location": "Stadscentrum tot Khao Takiab-strek",
+      "entrance_fee": "Gratis openbaar strand",
+      "highlights": [
+        "Beste vroege-dag stad-strand-stop",
+        "Makkelijk te combineren met markten en cafés",
+        "Werkt voor zowel centrale als zuidkant-verblijven"
+      ],
+      "href": "/city/hua-hin/attractions/hua-hin-beach/",
+      "cta_label": "Bekijk attractie details"
+    },
+    {
+      "rank": 2,
+      "name": "Khao Takiab",
+      "description": "De meest nuttige korte attractie in Hua Hin als je een uitzichtpunt, tempelcontext en een duidelijker gevoel voor de zuidkant-geografie van de stad wilt.",
+      "location": "Zuid Hua Hin / Nong Kae",
+      "entrance_fee": "Gratis; tempeldonaties optioneel",
+      "highlights": [
+        "Panoramische kustuitzichten",
+        "Makkelijke korte klim",
+        "Goed tegenwicht voor een puur stranddag"
+      ],
+      "href": "/city/hua-hin/attractions/khao-takiab/",
+      "cta_label": "Bekijk attractie details"
+    },
+    {
+      "rank": 3,
+      "name": "Cicada Market",
+      "description": "De beste alleen-weekend Hua Hin-markt als je kunst, design, live optredens en een meer geredigeerde sfeer wilt dan een standaard nachtmarkt.",
+      "location": "Zuid Hua Hin / Nong Kae",
+      "entrance_fee": "Gratis entree",
+      "highlights": [
+        "Weekend kunst-en-design markt",
+        "Beste gepaard met Tamarind voedselzone",
+        "Sterke Bangkok-weekender energie"
+      ],
+      "href": "/city/hua-hin/attractions/cicada-market/",
+      "cta_label": "Bekijk attractie details"
+    },
+    {
+      "rank": 4,
+      "name": "Maruekhathaiyawan Palace",
+      "description": "Een sterke erfgoedstop ten noorden van de stad die koninklijke geschiedenis en teak-architectuurdiepte toevoegt aan een Hua Hin-verblijf.",
+      "location": "Cha-am-zijde",
+      "entrance_fee": "Betaalde historische locatie; controleer de actuele paleisprijzen voordat je gaat",
+      "highlights": [
+        "Koninklijke teaken architectuur",
+        "Handige halve dag culturele stop",
+        "Beste gecombineerd met een uitstap aan de noordkant"
+      ]
+    },
+    {
+      "rank": 5,
+      "name": "Hua Hin Night Market",
+      "description": "Nog steeds de makkelijkste one-stop oplossing voor Hua Hin na zonsondergang, vooral als eten net zo belangrijk is als winkelen.",
+      "location": "Dechanuchit Road / oudere centrum",
+      "entrance_fee": "Gratis entree",
+      "highlights": [
+        "Anker voor de avond in het stadscentrum",
+        "Zeevruchten en streetfood-lanen",
+        "Makkelijke eerste-avond plan"
+      ],
+      "href": "/city/hua-hin/attractions/hua-hin-night-market/",
+      "cta_label": "Bekijk details van de attractie"
+    },
+    {
+      "rank": 6,
+      "name": "Khao Sam Roi Yot National Park",
+      "description": "Hua Hins meest waardevolle natuuredag als je kustkarstlandschappen, grotavontuur en een echte verandering van omgeving wilt.",
+      "location": "Zuid van Hua Hin",
+      "entrance_fee": "Nationale park entree geldt",
+      "highlights": [
+        "Beste Hua Hin natuuredag",
+        "Phraya Nakhon Cave en kustlandschap",
+        "Waard een volledige uitstap"
+      ],
+      "href": "/city/hua-hin/attractions/khao-sam-roi-yot/",
+      "cta_label": "Bekijk details van de attractie"
+    }
+  ],
+  "top_restaurants": [
+    {
+      "rank": 1,
+      "name": "Hua Hin Night Market seafood lanes",
+      "cuisine_type": "Zeevruchten / Thaise streetfood",
+      "price_range": "Budget tot middenklasse",
+      "location": "Dechanuchit Road",
+      "description": "Het meest praktische eerste-avond eetplan in Hua Hin als je zeevruchten, snacks en lokale avondenergie in één wandelgebied wilt.",
+      "highlights": [
+        "Beste klassieke Hua Hin avond eetstop",
+        "Goed voor variëteit boven prestige diner",
+        "Makkelijke stadscentrumlocatie"
+      ],
+      "href": "/city/hua-hin/attractions/hua-hin-night-market/",
+      "cta_label": "Bekijk nachtmarkt details"
+    },
+    {
+      "rank": 2,
+      "name": "Chat Chai Market breakfast lanes",
+      "cuisine_type": "Ontbijtmarkt / lokale producten / eenvoudige Thaise maaltijden",
+      "price_range": "Budget",
+      "location": "Stadscentrum marktzone",
+      "description": "Een sterkere ochtend eetstap dan een ander hotelbuffet als je Hua Hin wilt laten voelen als een werkende Thaise stad voordat de stranddag begint.",
+      "highlights": [
+        "Beste markt ontbijtoptie",
+        "Handig voor het strand of een dagtrip",
+        "Goede stop voor fruit en markt-snacks"
+      ],
+      "href": "/city/hua-hin/top-10-restaurants/",
+      "cta_label": "Bekijk de volledige Hua Hin eetgids"
+    },
+    {
+      "rank": 3,
+      "name": "Cicada and Tamarind market food zone",
+      "cuisine_type": "Weekendmarkt eten / snacks / casual diner",
+      "price_range": "Budget tot middenklasse",
+      "location": "Zuid Hua Hin",
+      "description": "Het beste weekendantwoord voor groepen die meer dan één eetstijl willen zonder een formeel restaurant te boeken.",
+      "highlights": [
+        "Alleen weekendkracht",
+        "Goed voor gemixte groepen en makkelijk delen",
+        "Combineert kunst bekijken met diner"
+      ],
+      "href": "/city/hua-hin/attractions/cicada-market/",
+      "cta_label": "Bekijk Cicada details"
+    },
+    {
+      "rank": 4,
+      "name": "Railway Restaurant at Centara Grand Beach Resort & Villas Hua Hin",
+      "cuisine_type": "Erfgoed hotel diner / Thais en internationaal",
+      "price_range": "Luxe",
+      "location": "Centara Grand Beach Resort & Villas Hua Hin",
+      "description": "Een van de betere resort-eetopties in de stad als je de erfgoed-hotel sfeer van Hua Hin deel wilt maken van de maaltijd.",
+      "highlights": [
+        "Sterke erfgoedsfeer",
+        "Handige stadscentrum resort maaltijd",
+        "Goed contrast met marktgericht eten"
+      ],
+      "href": "/city/hua-hin/top-10-restaurants/",
+      "cta_label": "Bekijk de volledige Hua Hin eetgids"
+    },
+    {
+      "rank": 5,
+      "name": "McFarland House at Hyatt Regency Hua Hin",
+      "cuisine_type": "Strandresort diner",
+      "price_range": "Luxe",
+      "location": "Zuid Hua Hin / Hyatt Regency",
+      "description": "Een gepolijst strandrestaurant als je één langzamer, design-gericht diner wilt inbouwen in een verblijf aan de zuidkant van Hua Hin.",
+      "highlights": [
+        "Historisch huis aan zee",
+        "Goed voor verblijven aan de zuidkant van resorts",
+        "Beste als de locatie al past bij je reis"
+      ],
+      "href": "/city/hua-hin/top-10-restaurants/",
+      "cta_label": "Bekijk de volledige Hua Hin eetgids"
+    },
+    {
+      "rank": 6,
+      "name": "Praca at The Standard, Hua Hin",
+      "cuisine_type": "Thais restaurant / resort diner",
+      "price_range": "Middenklasse tot luxe",
+      "location": "The Standard, Hua Hin",
+      "description": "Een design-gericht dineroptie die past bij de gepolijste kant van Hua Hin zonder los te staan van de strandstadcontext.",
+      "highlights": [
+        "Sterke design-hotel sfeer",
+        "Handig voor diner of cocktails",
+        "Werkt goed voor centrale strandverblijven"
+      ],
+      "href": "/city/hua-hin/top-10-restaurants/",
+      "cta_label": "Bekijk de volledige Hua Hin eetgids"
+    },
+    {
+      "rank": 7,
+      "name": "Amber Kitchen at Hua Hin Marriott Resort & Spa",
+      "cuisine_type": "Hele dag diner / Thais en internationaal",
+      "price_range": "Middenklasse tot luxe",
+      "location": "Hua Hin Marriott Resort & Spa",
+      "description": "Een praktische hoog-comfort eetoptie als weer, familie-logistiek of resort-timing belangrijker zijn dan markt-sfeer.",
+      "highlights": [
+        "Handig hele dag hotelrestaurant",
+        "Goed voor families en centrale resort verblijven",
+        "Sterke keuze op basis van gemak"
+      ],
+      "href": "/city/hua-hin/top-10-restaurants/",
+      "cta_label": "Bekijk de volledige Hua Hin eetgids"
+    },
+    {
+      "rank": 8,
+      "name": "Sea Fire Salt at Anantara Hua Hin Resort",
+      "cuisine_type": "Strand Thais en zeevruchten-gericht diner",
+      "price_range": "Luxe",
+      "location": "Anantara Hua Hin Resort",
+      "description": "Een waardevolle diner aan de noordkant van het resort als het hotelgebied al past bij je verblijf of je één strandmaaltijd buiten het centrum wilt.",
+      "highlights": [
+        "Goed voor resortgasten aan de noordkant",
+        "Strandsfeer",
+        "Handige splurge maaltijd in plaats van een alledaagse standaard"
+      ],
+      "href": "/city/hua-hin/top-10-restaurants/",
+      "cta_label": "Bekijk de volledige Hua Hin eetgids"
+    }
+  ],
+  "top_hotels": [
+    {
+      "rank": 1,
+      "name": "Centara Grand Beach Resort & Villas Hua Hin",
+      "price_range": "Luxe",
+      "category": "luxe",
+      "area": "Stadscentrum strand",
+      "description": "De sterkste erfgoed-resort keuze in Hua Hin als je de oude Railway Hotel-erfenis, strandtoegang en wandelbare stadspositie samen wilt.",
+      "highlights": [
+        "Voormalige Railway Hotel erfgoed",
+        "Strand met stadstoegang",
+        "Beste allround eerste luxe keuze"
+      ],
+      "href": "/city/hua-hin/top-10-hotels/",
+      "cta_label": "Bekijk de Hua Hin hotelgids"
+    },
+    {
+      "rank": 2,
+      "name": "Hua Hin Marriott Resort & Spa",
+      "price_range": "Luxe",
+      "category": "luxe",
+      "area": "Centraal strand",
+      "description": "Een gepolijst modern resort dat goed werkt voor families en reizigers die een groot strandpand willen zonder het centrale Hua Hin achter te laten.",
+      "highlights": [
+        "Sterke centrale strandpositie",
+        "Goede familie-resort logica",
+        "Makkelijke balans tussen resort en stad"
+      ],
+      "href": "/city/hua-hin/top-10-hotels/",
+      "cta_label": "Bekijk de Hua Hin hotelgids"
+    },
+    {
+      "rank": 3,
+      "name": "Hyatt Regency Hua Hin",
+      "price_range": "Luxe",
+      "category": "luxe",
+      "area": "Zuid Hua Hin / Nong Kae",
+      "description": "Een betere keuze voor reizigers die een meer zelfcontained resort basis aan de zuidkant willen met strandtoegang en makkelijkere planning rond Khao Takiab.",
+      "highlights": [
+        "Sterke resort sfeer aan de zuidkant",
+        "Goed voor langzamere strandgerichte verblijven",
+        "Handig als Cicada en Khao Takiab ertoe doen"
+      ],
+      "href": "/city/hua-hin/top-10-hotels/",
+      "cta_label": "Bekijk de Hua Hin hotelgids"
+    },
+    {
+      "rank": 4,
+      "name": "InterContinental Hua Hin Resort",
+      "price_range": "Luxe",
+      "category": "luxe",
+      "area": "Zuid-centraal Hua Hin",
+      "description": "Een sterke premium keuze voor reizigers die gepolijste resort infrastructuur willen met makkelijkere toegang terug naar de hoofdstraat van de stad.",
+      "highlights": [
+        "Hoog-comfort gebrand resort",
+        "Goed voor gepolijste strandverblijven",
+        "Gemakkelijk voor BluPort en stadstoegang"
+      ],
+      "href": "/city/hua-hin/top-10-hotels/",
+      "cta_label": "Bekijk de Hua Hin hotelgids"
+    },
+    {
+      "rank": 5,
+      "name": "Putahracsa Hua Hin",
+      "price_range": "Luxe boetiek",
+      "category": "middenklasse",
+      "area": "Dicht bij het centrum",
+      "description": "Een handig boetiek-stijl verblijf als je iets intiemers wilt dan een groot resort terwijl je dicht bij het oudere centrum blijft.",
+      "highlights": [
+        "Boetiek schaal",
+        "Goede stadskant positionering",
+        "Handig voor koppels en terugkerende bezoekers"
+      ],
+      "href": "/city/hua-hin/top-10-hotels/",
+      "cta_label": "Bekijk de Hua Hin hotelgids"
+    },
+    {
+      "rank": 6,
+      "name": "The Standard, Hua Hin",
+      "price_range": "Luxe tot luxe",
+      "category": "luxe",
+      "area": "Centraal strand",
+      "description": "Een design-gericht strandverblijf voor reizigers die stijl en sociale energie willen zonder de centrale Hua Hin-zone te verlaten.",
+      "highlights": [
+        "Sterke design identiteit",
+        "Handige centrale strandlocatie",
+        "Goed voor koppels en korte leisure verblijven"
+      ],
+      "href": "/city/hua-hin/top-10-hotels/",
+      "cta_label": "Bekijk de Hua Hin hotelgids"
+    },
+    {
+      "rank": 7,
+      "name": "Anantara Hua Hin Resort",
+      "price_range": "Luxe",
+      "category": "luxe",
+      "area": "Noord Hua Hin / Cha-am-zijde",
+      "description": "Een betere keuze als je een grotere tuin-resort sfeer prefereert aan de rustigere noordkant en niet herhaaldelijk de stad in hoeft te lopen.",
+      "highlights": [
+        "Tuin-resort sfeer",
+        "Goede noordkant retraite",
+        "Handig voor langzamere resort-geleide reizen"
+      ],
+      "href": "/city/hua-hin/top-10-hotels/",
+      "cta_label": "Bekijk de Hua Hin hotelgids"
+    }
+  ],
+  "travel_tips": [
+    "Beslis eerst of je een stadscentrum verblijf wilt of een resort aan de zuidkant van Hua Hin, want die keuze bepaalt bijna elke transportbeslissing.",
+    "Gebruik het strand, Chat Chai of vertrekken voor dagtrips 's ochtends, en verplaats zwaardere bezienswaardigheden of marktplannen naar later op de dag.",
+    "Bouw geen hele itinerary rond Cicada als je er niet in het weekend bent.",
+    "Behandel Sam Roi Yot als een dedicated uitstap met weersflexibiliteit in plaats van een snelle optionele omweg.",
+    "Als je op vrijdag of zaterdag aankomt, reken op meer verkeer van Bangkok-weekendjes en minder vergevingsgezinde hotelprijzen.",
+    "Houd één dinerplek open voor de nachtmarkt, zelfs als je ook één resort maaltijd wilt."
+  ],
+  "best_time_to_visit": {
+    "season": "Koeler en droger seizoen",
+    "months": "November - February",
+    "weather": "Meestal de makkelijkste periode voor strandwandelingen, marktavonden en dagtrips met minder hitte druk.",
+    "reasons": "Beste voor eerste bezoeken die een goede balans willen van strandtijd, Khao Takiab en één uitstap buiten de stad."
+  },
+  "budget_info": {
+    "budget": "€32-55 per dag",
+    "mid_range": "€75-150 per dag",
+    "luxury": "€175-390 per dag",
+    "notes": "Hua Hin kan in weekenden met veel mensen uit Bangkok veel duurder aanvoelen dan op gewone doordeweekse dagen, vooral in strandresorts.",
+    "daily_budget": {
+      "budget": "$35-60",
+      "mid": "$80-160",
+      "luxury": "$190-420"
+    }
+  },
+  "thingsToDo": "Een sterke eerste Hua Hin-reis heeft slechts een paar prioriteiten nodig: een ochtend aan het strand, een uitkijkpunt of erfstop, een marktrijke avond en een optionele hele dag voor Sam Roi Yot of een paleisbezoek aan de noordkant. De stad wordt zwakker als je tijd vult met tweederangs bezienswaardigheden.",
+  "whereToStay": "Het centrumstrand en het oude centrum zijn het beste voor eerste bezoekers die te voet toegang willen tot de nachtmarkt, het strand en klassieke Hua Hin-kenmerken. Zuid-Hua Hin rond Nong Kae en Khao Takiab is sterker voor resorttijd, Cicada, Tamarind en een rustiger strandgericht verblijf. Resorts aan de noordkant werken het beste als je een retraitegevoel wilt en het niet erg vindt om naar de stad te rijden.",
+  "whereToEat": [
+    {
+      "name": "Hua Hin Night Market seafood lanes",
+      "cuisine": "Zeekost / Thaise straateten",
+      "priceRange": "$$",
+      "description": "Het makkelijkste avondetenpunt in de stad voor variatie, zeekost en lokale sfeer."
+    },
+    {
+      "name": "Chat Chai Market breakfast lanes",
+      "cuisine": "Ontbijtmarkt / eenvoudige Thaise maaltijden",
+      "priceRange": "$",
+      "description": "Een betere ochtendoptie dan elke dag een hotelbuffet."
+    },
+    {
+      "name": "Cicada and Tamarind market zone",
+      "cuisine": "Weekendmarkteten",
+      "priceRange": "$$",
+      "description": "Het juiste eetplan voor een weekendavond als de marktzones aan de zuidkant actief zijn."
+    },
+    {
+      "name": "Railway Restaurant at Centara Grand Beach Resort & Villas Hua Hin",
+      "cuisine": "Erfhotel dineren",
+      "priceRange": "$$$",
+      "description": "Een verfijnde resortmaaltijd met sterker gevoel van plek dan een generiek upscale restaurant."
+    },
+    {
+      "name": "McFarland House at Hyatt Regency Hua Hin",
+      "cuisine": "Strandresort dineren",
+      "priceRange": "$$$",
+      "description": "Handig als je al verblijft of tijd doorbrengt aan de zuidkant."
+    }
+  ],
+  "topHotels": [
+    {
+      "name": "Centara Grand Beach Resort & Villas Hua Hin",
+      "category": "Luxe",
+      "priceRange": "$$$$",
+      "area": "Centrumstrand",
+      "description": "Het duidelijkste erf-luxe verblijf in Hua Hin en nog steeds een van de meest complete keuzes voor eerste bezoekers."
+    },
+    {
+      "name": "Hua Hin Marriott Resort & Spa",
+      "category": "Luxe",
+      "priceRange": "$$$$",
+      "area": "Centraal strand",
+      "description": "Een sterk modern resort als je centrale toegang wilt zonder resortinfrastructuur op te geven."
+    },
+    {
+      "name": "Hyatt Regency Hua Hin",
+      "category": "Luxe",
+      "priceRange": "$$$$",
+      "area": "Zuid-Hua Hin / Nong Kae",
+      "description": "Beter voor langzamere resortverblijven en makkelijker toegang tot de markt-en-strandzone aan de zuidkant."
+    },
+    {
+      "name": "Putahracsa Hua Hin",
+      "category": "Boutique upscale",
+      "priceRange": "$$$",
+      "area": "Dicht bij het centrum",
+      "description": "Een goede boutique-stijl keuze als je het centrum wilt zonder een groot resortoppervlak."
+    },
+    {
+      "name": "The Standard, Hua Hin",
+      "category": "Design luxe",
+      "priceRange": "$$$$",
+      "area": "Centraal strand",
+      "description": "Een designgericht verblijf dat vooral goed werkt voor korte koppelsreizen en centrale strandtijd."
+    }
+  ],
+  "gettingAround": "Centraal Hua Hin is te voet beheersbaar in korte secties, maar zuid-Hua Hin, Khao Takiab, Cicada, resortzones en dagtrips aan de rand maken korte ritten snel nodig. Songthaews, tuk-tuks, ride-hailing en hoteltransport zijn allemaal nuttig afhankelijk van hoe ver je gaat. Als je Sam Roi Yot of meerdere stops buiten de stad plant, tellen transportlogistiek meer dan bezichtigingen in de stad.",
+  "bestTimeToVisit": "Hua Hin is het makkelijkst van november tot februari, wanneer het strand comfortabeler is, markavonden prettiger en dagtrips naar Khao Sam Roi Yot of Maruekhathaiyawan Palace beter in de dag passen. Maart tot mei kan nog werken als je de reis verschuift naar ochtenden, zwembaden en latere diners. Schouder- en nattere maanden bieden vaak betere waarde dan het hoogseizoen, maar openluchtmarkten en lange stranddagen worden weersafhankelijker.",
+  "budgetGuide": {
+    "budget": {
+      "min": 35,
+      "max": 60,
+      "description": "Budget Hua Hin betekent meestal een eenvoudige kamer buiten premium strandresorts, marktmaaltijden en selectieve korte ritten in plaats van constante transfers."
+    },
+    "midrange": {
+      "min": 80,
+      "max": 160,
+      "description": "Middenklasse reizigers krijgen vaak de beste balans in Hua Hin, vooral met een slim gekozen boutiquehotel of een goedkoper resort buiten piekweekenden."
+    },
+    "luxury": {
+      "min": 190,
+      "max": 420,
+      "description": "Luxe uitgeven in Hua Hin gaat vooral naar strandresorts, merkenservice en verfijnd dineren in plaats van dure attractietickets."
+    }
+  },
+  "safetyTips": "Hua Hin is over het algemeen eenvoudig voor korte strandstadverblijven, maar praktische risico's zijn zon, verkeer, apen rond Khao Takiab en overambitieuze dagplannen in plaats van nachtlevenstoerisme. Houd waardevolle spullen dichtbij op markten, wees voorzichtig met telefoons en eten rond de apen, en laat genoeg daglicht over voor terugkeer buiten de stad. Weer veranderingen tellen meer op strand- en parkdagen dan in de stad zelf.",
+  "faq": [
+    {
+      "question": "Is Hua Hin een bezoek waard als je al Phuket of Pattaya hebt gedaan?",
+      "answer": "Ja, als je een kalmere Thaise strandstad wilt met sterkere weekendmarktcultuur, makkelijkere toegang vanuit Bangkok en een meer gebalanceerde resort-en-stadverhouding. Hua Hin is meestal niet de keuze voor nachtlevenintensiteit, maar kan beter zijn voor een kortere, makkelijkere kustbreak."
+    },
+    {
+      "question": "Hoeveel dagen heb je nodig in Hua Hin?",
+      "answer": "Twee of drie nachten is het makkelijkste eerste ritme. Dat geeft tijd voor het strand, Khao Takiab of een erfstop, een of twee markavonden en een echte dagtrip als je Sam Roi Yot wilt."
+    },
+    {
+      "question": "Moeten eerste bezoekers in het centrum of bij Khao Takiab verblijven?",
+      "answer": "Het centrum is meestal makkelijker voor een eerste reis omdat het het strand, de nachtmarkt en het oude stadsgedeelte binnen bereik houdt. Khao Takiab en de zuidkant zijn sterker als resorttijd, Cicada en een rustiger strandrand belangrijker zijn dan walkability."
+    },
+    {
+      "question": "Heb je een auto nodig in Hua Hin?",
+      "answer": "Niet voor een kort stadgericht verblijf. Lopen plus korte lokale ritten zijn meestal genoeg in Hua Hin. Een auto wordt nuttiger alleen als je de reis bouwt rond meerdere stops buiten de stad of ver buiten het centrum verblijft."
+    }
+  ],
+  "practicalInfo": {
+    "bestMonths": [
+      "Nov",
+      "Dec",
+      "Jan",
+      "Feb"
+    ],
+    "nearestAirport": "Hua Hin Airport (beperkte service) of Bangkok-luchthavens voor overland aankomsten",
+    "travelTimeFromAirport": "Meestal 15 tot 25 minuten van Hua Hin Airport naar de stad; overland aankomsten vanuit Bangkok variëren veel meer.",
+    "localTransport": [
+      "Songthaews en gedeeld lokaal transport op stad- en zuidkant routes",
+      "Tuk-tuks en lokale taxi-achtige ritten voor directe hops",
+      "Ride-hailing voor resort-naar-stad of stad-naar-resort transfers",
+      "Hotelauto's voor Sam Roi Yot, Cha-am of luchthaventransfers",
+      "Lopen in het oude centrum en strandstroken"
+    ]
+  },
+  "contentSources": [
+    {
+      "type": "bestemming",
+      "title": "Hua Hin Provincie Pagina",
+      "creator": "Tourism Authority of Thailand",
+      "url": "https://www.tourismthailand.org/Destinations/Provinces/Hua-Hin/240",
+      "description": "Gebruikt voor officiële bestemmingskaders, stadprofiel en praktische Hua Hin-context."
+    },
+    {
+      "type": "officieel klimaat",
+      "title": "Klimaatgrafiek",
+      "creator": "Thai Meteorological Department",
+      "url": "https://www.tmd.go.th/en/ClimateChart",
+      "description": "Gebruikt voor seizoensplanning en Hua Hins koele / hete / natte seizoenplanning."
+    },
+    {
+      "type": "toerisme-kantoor",
+      "title": "Hua Hin: Een Juweel aan Zee",
+      "creator": "Amazing Thailand",
+      "url": "https://amazingthailand.com/hua-hin-a-jewel-by-the-sea",
+      "description": "Gebruikt voor officiële attractiekaders inclusief Hua Hin Beach, Khao Takiab en de bredere stadidentiteit."
+    },
+    {
+      "type": "toerisme-kantoor",
+      "title": "Bruisende Nacht in Hua Hin",
+      "creator": "Tourism Authority of Thailand",
+      "url": "https://www.tourismthailand.org/Articles/vibrant-night-in-hua-hin",
+      "description": "Gebruikt voor nachtmarkt- en avondetencontext in het oude centrum."
+    },
+    {
+      "type": "markt",
+      "title": "Cicada Market",
+      "creator": "Cicada Market Hua Hin",
+      "url": "https://www.cicadamarket.com/",
+      "description": "Gebruikt voor officiële weekendmarktpositionering en evenementmarktcontext."
+    },
+    {
+      "type": "attractie",
+      "title": "Mrigadayavan Palace",
+      "creator": "Mrigadayavan Palace Foundation",
+      "url": "https://mrigadayavan.or.th/landing/english/eng_home.html",
+      "description": "Gebruikt voor de officiële paleisreferentie en koninklijk-erf framing."
+    },
+    {
+      "type": "attractie",
+      "title": "Khao Sam Roi Yot National Park",
+      "creator": "Amazing Thailand",
+      "url": "https://amazingthailand.com/khao-sam-roi-yot-national-park",
+      "description": "Gebruikt voor officiële parkframing, Phraya Nakhon Cave en natuurdagpositionering."
+    },
+    {
+      "type": "attractie",
+      "title": "Vana Nava Hua Hin",
+      "creator": "Vana Nava Water Jungle",
+      "url": "https://www.vananavahuahin.com/",
+      "description": "Gebruikt voor officiële familie-attractiecontext en waterparkpositionering."
+    },
+    {
+      "type": "hotel",
+      "title": "Centara Grand Beach Resort & Villas Hua Hin",
+      "creator": "Centara Hotels & Resorts",
+      "url": "https://www.centarahotelsresorts.com/centaragrand/chbr",
+      "description": "Gebruikt voor erfhotelpositionering, strandtoegang en Railway Restaurant context."
+    },
+    {
+      "type": "hotel",
+      "title": "Hyatt Regency Hua Hin Fact Sheet",
+      "creator": "Hyatt Regency Hua Hin",
+      "url": "https://assets.hyatt.com/content/dam/hyatt/hyattdam/documents/2020/10/01/1630/Hyatt-Regency-Hua-Hin-Fact-Sheet-English.pdf",
+      "description": "Gebruikt voor zuid-Hua Hin resortpositionering en McFarland House referentie."
+    },
+    {
+      "type": "hotel",
+      "title": "Hua Hin Marriott Resort & Spa",
+      "creator": "Marriott",
+      "url": "https://www.marriott.com/en-us/hotels/hhqmr-hua-hin-marriott-resort-and-spa/overview/",
+      "description": "Gebruikt voor centraal strandresortpositionering en Amber Kitchen context."
+    },
+    {
+      "type": "hotel",
+      "title": "InterContinental Hua Hin Resort",
+      "creator": "IHG",
+      "url": "https://huahin.intercontinental.com/",
+      "description": "Gebruikt voor officiële resortlocatie en premium-verblijfcontext."
+    },
+    {
+      "type": "hotel",
+      "title": "Putahracsa Hua Hin",
+      "creator": "Putahracsa Hua Hin",
+      "url": "https://www.putahracsa.com/",
+      "description": "Gebruikt voor boutiquehotelpositionering dicht bij het centrum."
+    },
+    {
+      "type": "hotel",
+      "title": "The Standard, Hua Hin",
+      "creator": "The Standard",
+      "url": "https://www.standardhotels.com/hua-hin",
+      "description": "Gebruikt voor designhotelpositionering en Praca restaurant context."
+    },
+    {
+      "type": "hotel",
+      "title": "Anantara Hua Hin Resort Fact Sheet",
+      "creator": "Anantara Hua Hin Resort",
+      "url": "https://www.anantara.com/uploads/minor/anantara/documents/anantara-hua-hin-resort/hotel-info/anantara-hua-hin-resort_fact-_sheet-2026-compressed.pdf",
+      "description": "Gebruikt voor noordkant resortpositionering en Sea Fire Salt restaurant context."
+    }
+  ],
+  "reviewed_by": "Go2Thailand Redactie Team",
+  "reviewed_at": "2026-03-28T00:00:00.000Z",
+  "sourceSummary": "Gekoppeld aan TAT, Amazing Thailand, officiële venue- en hotelpagina's en TMD klimaatmaterialen; smalle activiteitsroutes blijven noindex als beperkte planninglagen.",
+  "enhanced_at": "2026-03-26T00:00:00.000Z",
+  "factchecked_at": "2026-03-28T00:00:00.000Z"
+}

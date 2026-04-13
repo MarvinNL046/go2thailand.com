@@ -1,0 +1,82 @@
+{
+  "id": 1,
+  "slug": "bueng-kaen-nakhon",
+  "name": {
+    "en": "Bueng Kaen Nakhon",
+    "nl": "Bueng Kaen Nakhon"
+  },
+  "type": "park",
+  "city_slug": "khon-kaen",
+  "address": "Mueang Kao, Mueang Khon Kaen, Khon Kaen 40000",
+  "location": {
+    "lat": 16.4128272,
+    "lng": 102.8383596
+  },
+  "opening_hours": "Openbaar meerfront",
+  "entrance_fee": {
+    "thb": 0,
+    "usd": 0
+  },
+  "description": {
+    "en": "Khon Kaen's defining lakefront and the easiest way to feel the city's public rhythm.",
+    "nl": "De bepalende lakefront van Khon Kaen en de makkelijkste manier om het publieke ritme van de stad te voelen."
+  },
+  "highlights": [
+    "Openbare wandelroute langs het meer",
+    "Beste sfeer 's ochtends en 's avonds",
+    "Combineert natuurlijk met Wat Nong Wang"
+  ],
+  "image": "/images/cities/generated/khon-kaen.webp",
+  "official_website": null,
+  "seo": {
+    "metaTitle": {
+      "en": "Bueng Kaen Nakhon | Go2Thailand",
+      "nl": "Bueng Kaen Nakhon | Go2Thailand"
+    },
+    "metaDescription": {
+      "en": "Why Bueng Kaen Nakhon is the best first stop for understanding Khon Kaen's city rhythm.",
+      "nl": "Waarom Bueng Kaen Nakhon de beste eerste stop is om het ritme van Khon Kaen te begrijpen."
+    }
+  },
+  "tags": [
+    "park",
+    "meerfront",
+    "khon kaen",
+    "isaan",
+    "thailand"
+  ],
+  "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=Bueng%20Kaen%20Nakhon%20Khon%20Kaen%20Thailand",
+  "best_time": "vroeg in de ochtend of 's avonds",
+  "duration_hours": 1.5,
+  "enhanced_description": "Bueng Kaen Nakhon telt omdat het Khon Kaen een zichtbaar publiek centrum schenkt dat eerst lokaal aanvoelt, voordat het toeristisch wordt. Dit is de plek waar de stad ademt in de koelere uren: wandelaars, sportgroepen, tempelbezoeken en het algemene ritme dat Khon Kaen laat aanvoelen als een echte stedelijke basis in plaats van een doorreisplaats.\n\nHet meer komt het best tot zijn recht als oriëntatiepunt. Maak een wandeling langs een deel van de lus, en koppel het aan Wat Nong Wang zodat het markante skyline-punt en de stadsatmosfeer elkaar versterken. Zo wordt het de ideale start voor je eerste verblijf in Khon Kaen.",
+  "detailed_history": "Promotiemateriaal van de Tourism Authority of Thailand framed nog altijd de meer-en-tempel-combinatie als kern van de identiteit van Khon Kaen. Dat is handig, want het sluit aan bij hoe je de stad echt ervaart op de grond: niet via één losse bezienswaardigheid, maar door een sequentie van openbaar meerfront.",
+  "visitor_experience": "Verwacht een openbare stedelijke ruimte in plaats van een verzorgd attractiepark. De waarde ligt in de sfeer, het stadsritme en de combinatie met de nabijgelegen tempel en eetlaag.",
+  "best_time_to_visit": {
+    "time_of_day": "Vroeg in de ochtend of na zonsondergang",
+    "duration": "1 tot 2 uur",
+    "crowd_level": "Matig tot bruisend in de koelere uren"
+  },
+  "practical_info": {
+    "how_to_get_there": "Bereik het gemakkelijk met een korte taxirit of rit met ride-hailing vanaf de meeste centrale hotels in Khon Kaen.",
+    "nearby_attractions": "Wat Nong Wang, stadswandelingen langs het meer en centrale eetgebieden.",
+    "food_options": "Stadsrestaurants en snacks zijn gemakkelijk te combineren voor of na de wandeling.",
+    "shopping": "Beperkt; dit is sterker voor sfeer en beweging dan voor het kopen van souvenirs."
+  },
+  "insider_tips": [
+    "Oordeel niet over het meerfront midden op de dag; het is het sterkst in de koelere uren.",
+    "Combineer het met Wat Nong Wang in plaats van beide als aparte taxiriten te behandelen.",
+    "Gebruik het meer om je dag vorm te geven in plaats van te zoeken naar één enkel iconisch fotospot."
+  ],
+  "verified_note": "Samenvatting gebaseerd op bronnen van de Tourism Authority of Thailand. Exacte evenementenactiviteiten rond het meer kunnen variëren per dag en seizoen.",
+  "cultural_significance": "Bueng Kaen Nakhon biedt de helderste expressie van openbare ruimte voor het lokale stedelijke ritme van Khon Kaen en is een van de makkelijkste manieren om de stad te leren kennen voorbij het transport of zakenreizen.",
+  "contentSources": [
+    {
+      "name": "10 Things to Do in Khon Kaen",
+      "url": "https://www.tourismthailand.org/Articles/10-things-to-do-in-khon-kaen"
+    },
+    {
+      "name": "Khon Kaen E-Brochure",
+      "url": "https://tourismthailand.my/ebook/E-Brochure%20Khon%20kaen%20%28En%29.pdf"
+    }
+  ]
+}

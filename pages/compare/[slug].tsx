@@ -806,7 +806,7 @@ export const getStaticPaths: GetStaticPaths = async () => {
   return { paths: [], fallback: 'blocking' };
 };
 
-export const getStaticProps: GetStaticProps = async ({ params }) => {
+export const getStaticProps: GetStaticProps = async ({ params, locale }) => {
   const slug = params?.slug as string;
 
   const pair = getComparisonPair(slug);
@@ -820,11 +820,11 @@ export const getStaticProps: GetStaticProps = async ({ params }) => {
   let item2: Island | City | null = null;
 
   if (type === 'island') {
-    item1 = getIslandBySlug(item1Slug);
-    item2 = getIslandBySlug(item2Slug);
+    item1 = getIslandBySlug(item1Slug, locale);
+    item2 = getIslandBySlug(item2Slug, locale);
   } else {
-    item1 = getCityBySlug(item1Slug);
-    item2 = getCityBySlug(item2Slug);
+    item1 = getCityBySlug(item1Slug, locale);
+    item2 = getCityBySlug(item2Slug, locale);
   }
 
   if (!item1 || !item2) {

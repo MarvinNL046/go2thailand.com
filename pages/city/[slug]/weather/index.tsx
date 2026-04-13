@@ -318,7 +318,7 @@ export const getStaticPaths: GetStaticPaths = async () => {
   return { paths: [], fallback: 'blocking' };
 };
 
-export const getStaticProps: GetStaticProps<CityWeatherIndexProps> = async ({ params }) => {
+export const getStaticProps: GetStaticProps<CityWeatherIndexProps> = async ({ params, locale }) => {
   const { slug } = params as { slug: string };
   const cityWeather = cityWeatherData as Record<string, any>;
   

@@ -1,0 +1,753 @@
+{
+  "id": 9,
+  "slug": "sukhothai",
+  "name": {
+    "en": "Sukhothai",
+    "nl": "Sukhothai",
+    "ja": "スコータイ",
+    "ko": "수코타이",
+    "th": "สุโขทัย",
+    "de": "Sukhothai",
+    "fr": "Sukhothai",
+    "ru": "Sukhothai",
+    "zh": "素可泰"
+  },
+  "region": "Noordelijk",
+  "province": "Sukhothai",
+  "description": {
+    "en": "Sukhothai is strongest when you plan it around the UNESCO old city first, then split the historical park into a central loop, one north-or-west temple extension, and at most one Si Satchanalai day. The trip gets thinner when the new town, the old town, and the wider province are all thrown together without a clear historical core.",
+    "nl": "Sukhothai werkt het best wanneer je het rond de UNESCO-oude stad plant, met eerst de centrale parkzone, daarna een noord- of westtempeluitstap en hooguit één dag naar Si Satchanalai. De trip wordt dun zodra new town, old town en de hele provincie zonder duidelijke historische kern door elkaar lopen.",
+    "ja": "スコータイは、まず世界遺産の旧都を中心に組み立て、そのうえで中央区画、北または西の寺院群、必要ならシーサッチャナーライを一日足す形にすると最も分かりやすい町です。",
+    "ko": "수코타이는 유네스코 구도시를 중심으로 짜고, 중앙 구역과 북쪽 또는 서쪽 사원군, 필요하면 시 사차날라이 하루를 더하는 방식이 가장 설득력 있습니다.",
+    "th": "สุโขทัยเหมาะกับการวางแผนเที่ยวโดยเริ่มจากเมืองเก่าและอุทยานประวัติศาสตร์ ก่อนค่อยเพิ่มโซนเหนือหรือโซนตะวันตก และหากมีเวลาเพียงพอจึงค่อยต่อไปศรีสัชนาลัย",
+    "de": "Sukhothai funktioniert am besten mit der UNESCO-Altstadt als Kern, dann einer klaren Aufteilung in Zentralzone, Nord- oder Westtempel und hoechstens einem Tag in Si Satchanalai.",
+    "fr": "Sukhothai se planifie mieux autour de la vieille ville UNESCO, puis d'une vraie boucle centrale, d'un ajout nord ou ouest, et au maximum d'une journee a Si Satchanalai.",
+    "ru": "Сукхотай лучше планировать вокруг зоны ЮНЕСКО: центральный блок, затем один северный или западный храмовый выезд и максимум один день в Si Satchanalai.",
+    "zh": "Sukhothai 最适合按“世界遗产古城核心 + 中央区 + 一段北区或西区寺庙补充 + 最多一天 Si Satchanalai”的逻辑来安排。"
+  },
+  "population": 37000,
+  "population_note": "Gemeentelijke schaalverwijzing gebruikt voor de context van de stadspagina, niet voor de bredere provincie.",
+  "highlights": [
+    "Sukhothai Historical Park",
+    "Wat Mahathat",
+    "Wat Si Chum",
+    "Wat Sa Si",
+    "Wat Saphan Hin",
+    "Si Satchanalai Historical Park"
+  ],
+  "location": {
+    "lat": 17.0078,
+    "lng": 99.8237
+  },
+  "image": "/images/cities/generated/sukhothai.webp",
+  "seo": {
+    "metaTitle": {
+      "en": "Sukhothai Thailand Guide 2026 | Historical Park, Food, Hotels, Si Satchanalai",
+      "nl": "Sukhothai Thailand gids 2026 | Historical Park, food, hotels en Si Satchanalai",
+      "ja": "スコータイ旅行ガイド 2026 | 歴史公園・寺院・食・ホテル",
+      "ko": "수코타이 태국 여행 가이드 2026",
+      "th": "สุโขทัย ประเทศไทย — คู่มือท่องเที่ยวฉบับสมบูรณ์ 2026",
+      "de": "Sukhothai Thailand Guide 2026 | Historischer Park, Essen, Hotels",
+      "fr": "Guide Sukhothai 2026 | Parc historique, gastronomie, hotels",
+      "ru": "Сукхотай 2026 | Исторический парк, еда, отели",
+      "zh": "素可泰旅行指南 2026 | 历史公园、美食与住宿"
+    },
+    "metaDescription": {
+      "en": "Plan Sukhothai around the UNESCO historical park, Wat Mahathat, Wat Si Chum, one west-side temple climb, real Sukhothai food, and a deliberate Si Satchanalai extension.",
+      "nl": "Plan Sukhothai rond het UNESCO historical park, Wat Mahathat, Wat Si Chum, een westelijke tempelklim, echt Sukhothai-eten en een bewuste Si Satchanalai-uitstap.",
+      "ja": "世界遺産スコータイ歴史公園、ワット・マハータート、ワット・シーチュム、地元料理、シーサッチャナーライまで含めて整理した実用ガイドです。",
+      "ko": "유네스코 역사공원, 왓 마하탓, 왓 시춤, 수코타이 로컬 음식, 시 사차날라이 확장까지 한 번에 정리한 실전형 가이드입니다.",
+      "th": "วางแผนสุโขทัยด้วยอุทยานประวัติศาสตร์ วัดมหาธาตุ วัดศรีชุม อาหารท้องถิ่น และทริปต่อศรีสัชนาลัยอย่างเป็นระบบ",
+      "de": "Planen Sie Sukhothai rund um den UNESCO-Park, Wat Mahathat, Wat Si Chum, lokales Essen und einen gezielten Abstecher nach Si Satchanalai.",
+      "fr": "Organisez Sukhothai autour du parc historique UNESCO, Wat Mahathat, Wat Si Chum, la cuisine locale et une extension a Si Satchanalai.",
+      "ru": "Планируйте Сукхотай вокруг исторического парка ЮНЕСКО, Wat Mahathat, Wat Si Chum, локальной еды и одного выезда в Si Satchanalai.",
+      "zh": "把素可泰的行程围绕世界遗产历史公园、Wat Mahathat、Wat Si Chum、在地食物和一次 Si Satchanalai 延伸日来安排。"
+    }
+  },
+  "categories": {
+    "food": {
+      "en": "Best restaurants and local food in Sukhothai",
+      "nl": "Beste restaurants en lokaal eten in Sukhothai",
+      "ja": "スコータイのおすすめレストランとローカルフード",
+      "ko": "수코타이 추천 레스토랑과 로컬 음식",
+      "th": "ร้านอาหารและของกินท้องถิ่นที่ดีที่สุดในสุโขทัย"
+    },
+    "hotels": {
+      "en": "Top hotels in Sukhothai | Old city and practical stopovers",
+      "nl": "Beste hotels in Sukhothai | Old city en praktische overnachtingen",
+      "ja": "スコータイのおすすめホテル",
+      "ko": "수코타이 추천 호텔 | 올드시티와 실용적인 숙소",
+      "th": "โรงแรมแนะนำในสุโขทัย | เมืองเก่าและที่พักใช้งานจริง"
+    },
+    "attractions": {
+      "en": "Top attractions in Sukhothai",
+      "nl": "Top bezienswaardigheden in Sukhothai",
+      "ja": "スコータイの人気観光スポット",
+      "ko": "수코타이 핵심 명소",
+      "th": "สถานที่ท่องเที่ยวยอดนิยมในสุโขทัย"
+    }
+  },
+  "tags": [
+    "sukhothai",
+    "historisch park",
+    "unesco",
+    "wat mahathat",
+    "wat si chum",
+    "si satchanalai",
+    "sukhothai noodles",
+    "thailand"
+  ],
+  "enhanced_description": "Sukhothai hangt echt alleen samen als de oude stad het middelpunt van de reis blijft. Het UNESCO-geregistreerde historische park is geen enkele stop, maar een gelaagd archeologisch landschap: de centrale zone voor oriëntatie en schaal, het noorden voor Wat Si Chum en het sprekende Boedda-beeld, het westen voor de klim naar de heuvel bij Wat Saphan Hin, en dan één bewuste keuze of een tweede dag naar Si Satchanalai moet of dichter bij de stad blijft.\n\nDie structuur maakt ook het eten en hoteladvies duidelijker. Echt Sukhothai-eten is een van de grootste troeven van de provincie, en de huidige foodie-kaart van TAT is nuttig juist omdat hij specifieke lokale namen benadrukt in plaats van anonieme kopie van ranglijstsites. Hotelkeuze is vergelijkbaar geografisch. De sterkste eerste overnachtingen liggen nog steeds rond Mueang Kao en de oude-stadkant, terwijl de luchthaven-en-rijstvelden-gordel alleen zinvol is als je Sukhothai met Si Satchanalai verbindt of in- en uitvliegt op een krap schema.",
+  "overview": "UNESCO beschrijft Sukhothai als de hoofdstad van het eerste Koninkrijk Siam in de 13e en 14e eeuw, met monumenten die de begintijd van de Thaise architectuur illustreren. Dat is het juiste startpunt voor planning omdat het de stad verankert in wat ze echt biedt: een van de duidelijkste historische landschappen van Thailand in plaats van een generieke noordelijke stop met een paar verspreide ruïnes.\n\nDe oude stad is waar de reis het snelst logisch wordt. De huidige provinciale pagina van TAT promoot nog steeds het historische park, Wat Si Chum en de ambachtelijke en keramiekidentiteit van Si Satchanalai, en dat blijft een nuttige hiërarchie. Begin met de centrale zone voor Wat Mahathat en Wat Sa Si, en beslis dan of het volgende blok naar het noorden gaat voor Wat Si Chum of naar het westen voor Wat Saphan Hin. Die volgorde doet er meer toe dan proberen elk monument af te vinken in één gehaaste ronde.\n\nDe nieuwere stad doet er nog steeds toe, maar vooral als praktische basis en eetlaag. De 2024 foodie-kaart van TAT geeft Sukhothai een sterkere eetidentiteit dan veel oudere gidsen deden, vooral rond Sukhothai-noodles, oude recepten, zoetwater-visbereidingen en traditionele zoetigheden. Gecombineerd met een selectieve hotellaag maakt dat Sukhothai een sterkere overnachtingsbestemming dan alleen een dagtrip.",
+  "hidden_gems": [
+    {
+      "name": "Ramkhamhaeng National Museum after the temple loop",
+      "story": "Het museum werkt het beste na minstens één rondgang door het park, omdat de beeldhouwstijlen, inscripties en fragmenten meer zin krijgen zodra je de architectonische vormen buiten al hebt gezien.",
+      "how_to_find": "Gebruik het als een tweede stop nabij de parkgrens in plaats van als het eerste wat je doet bij aankomst.",
+      "best_time": "Laat in de ochtend of vroeg in de middag",
+      "local_insights": [
+        "Nuttiger voor context dan voor spektakel",
+        "Het best gecombineerd met de tempels in de centrale zone, niet met een lange dag in Si Satchanalai"
+      ]
+    },
+    {
+      "name": "Mueang Kao community layer around the park",
+      "story": "De gemeenschappen in de oude stad worden zichtbaarder als je één eenvoudige lokale activiteit toevoegt in plaats van de hele zone alleen als archeologisch complex te behandelen. De door prijzen gesteunde gemeenschaps-pagina van TAT behandelt nog steeds tramgeschiedenis, lokale zoetigheden en kleine culturele workshops als deel van het gebied.",
+      "how_to_find": "Houd het nabij Mueang Kao en voeg het alleen toe als je al genoeg tijd hebt besteed aan de grote parktempels.",
+      "best_time": "Ochtend",
+      "local_insights": [
+        "Dit moet de parkdag ondersteunen, niet vervangen",
+        "Werkt het best voor reizigers die in de oude stad verblijven"
+      ]
+    }
+  ],
+  "authentic_experiences": [
+    {
+      "activity": "Fiets of rijd door de centrale zone voordat je uitbreidt naar buiten",
+      "story": "Sukhothai Historical Park is groot genoeg dat de centrale zone moet worden begrepen als een echte oriëntatieronde in plaats van een snelle tempelstop. Die eerste passage geeft schaal aan de stadsmuren, vijvers en axiale planning.",
+      "cultural_significance": "UNESCO kader de site als de plek waar de vroege Sukhothai-stijl opkwam, en dat is precies waarom de algehele indeling even belangrijk is als elke individuele tempel.",
+      "how_to_participate": "Begin vroeg, houd de eerste ronde gericht op Wat Mahathat en Wat Sa Si, en bewaar de noord- of westzones voor een tweede blok.",
+      "insights": [
+        "De centrale zone is de filter die de rest van Sukhothai leesbaar maakt.",
+        "Breng niet al het beste ochtendlicht door in transit tussen aparte ticketpoortjes."
+      ],
+      "href": "/city/sukhothai/attractions/sukhothai-historical-park/",
+      "cta_label": "Zie de park gids"
+    },
+    {
+      "activity": "Gebruik Wat Si Chum en één klim aan de westkant als de bewerkte tweede laag",
+      "story": "De provinciale pagina van TAT noemt nog steeds Phra Achana bij Wat Si Chum, en dat blijft de duidelijkste tweede zet na de centrale monumenten. Het combineren met Wat Saphan Hin geeft je schaal, contrast en één echt uitzichtpunt zonder dat de dag opgeblazen aanvoelt.",
+      "cultural_significance": "Dit is de snelste manier om te begrijpen hoe het park verandert van ceremoniële kern naar buitenliggend religieus landschap.",
+      "how_to_participate": "Ga eerst naar het noorden voor Wat Si Chum, en beslis dan of het weer en de tijd de klim aan de westkant later op de dag rechtvaardigen.",
+      "insights": [
+        "Je hebt niet elke externe zone nodig om de dag compleet te laten voelen.",
+        "Wat Saphan Hin is beter als één gemeten klim dan als deel van een monumentenlijstje."
+      ],
+      "href": "/city/sukhothai/attractions/wat-si-chum/",
+      "cta_label": "Zie de Wat Si Chum gids"
+    },
+    {
+      "activity": "Behandel Sukhothai-noodles als een kernonderdeel van de stad, niet als een generieke lunchrij",
+      "story": "De huidige foodie-kaart van TAT houdt expliciet Je Hae Sukhothai Noodles, Mai Klang Krung, Mee Khao Pan Pak en Jay Pao in de shortlist voor lokaal eten. Dat is nuttig omdat het de reis verankert in gerechten en namen die echt aan de provincie gebonden zijn.",
+      "cultural_significance": "Sukhothai-eten is een van de sterkste niet-monumentredenen om te overnachten in plaats van na het park meteen weer weg te haasten.",
+      "how_to_participate": "Gebruik één noodle-stop rond de lunch, en houd het diner voor een lokale visspecialist of een rustiger restaurant in een oud-stadhotel.",
+      "insights": [
+        "Sukhothai-noodles verdienen een toegewijde stop, niet zomaar een back-upmaaltijd.",
+        "De stad wordt sterker als lunch en tempelroutes elkaar ondersteunen."
+      ],
+      "href": "/city/sukhothai/top-10-restaurants/",
+      "cta_label": "Zie de eten gids"
+    },
+    {
+      "activity": "Geef Si Satchanalai zijn eigen dag als je het al toevoegt",
+      "story": "UNESCO lijst Si Satchanalai met Sukhothai als deel van hetzelfde Werelderfgoed-ensemble, maar dat betekent niet dat het in de marges van een eerste parkdag geperst moet worden. Het werkt alleen als het behandeld wordt als een apart historisch landschap met zijn eigen ritme.",
+      "cultural_significance": "Zowel UNESCO als TAT kaderen Si Satchanalai als deel van het bredere Sukhothai-koninkrijksverhaal, en daarom is het de enige uitbreiding die de reis echt verdiept.",
+      "how_to_participate": "Doe het op een tweede dag, ideaal als je hotel- en transportkeuze de extra afstand redelijk maken.",
+      "insights": [
+        "Een volledige Si Satchanalai-dag is beter dan een gehaaste toevoeging na Wat Mahathat.",
+        "Hotels aan de luchthavenzijde worden nuttiger als deze uitbreiding in je plan zit."
+      ],
+      "href": "/city/sukhothai/attractions/si-satchanalai-historical-park/",
+      "cta_label": "Zie de Si Satchanalai gids"
+    }
+  ],
+  "foodie_adventures": [
+    {
+      "dish": "Sukhothai noodles",
+      "location": "Je Hae Sukhothai Noodles",
+      "story": "De 2024 foodie-kaart van TAT merkt op dat Je Hae sinds 1994 open is en benadrukt de huisgemaakte noodles, rode varkensvlees, geroosterde chili en pinda's die de kom zijn kenmerkende zoet-zure profiel geven.",
+      "where_to_find": "Het best gebruikt als directe lunchstop in plaats van een casual snack tussen langere transfers.",
+      "price_range": "Budget",
+      "ordering_tips": [
+        "Houd de eerste kom klassiek voordat je een tweede, pittigere variant toevoegt.",
+        "Dit is het meest nuttig na de ochtendparkronde, niet ervoor."
+      ],
+      "href": "/city/sukhothai/top-10-restaurants/",
+      "cta_label": "Zie de eten gids"
+    },
+    {
+      "dish": "Sukhothai pad thai en khao kriap pak mor",
+      "location": "Mai Klang Krung Restaurant",
+      "story": "De foodie-kaart van TAT gebruikt Mai Klang Krung om te laten zien hoe provinciale ingrediënten en oudere familie-recepten nog steeds de Sukhothai-keuken vormen buiten noodle-soep alleen.",
+      "where_to_find": "Een goede midday- of vroege middagstop als je een breder menu wilt dan een enkele noodle-specialist.",
+      "price_range": "Budget tot middenklasse",
+      "ordering_tips": [
+        "Dit is de betere keuze als je groep meer dan één stijl lokaal gerecht wil.",
+        "Gebruik het als een eten-eerst-stop, niet als een decoratieve erfgoedtoevoeging."
+      ],
+      "href": "/city/sukhothai/top-10-restaurants/",
+      "cta_label": "Zie de eten gids"
+    },
+    {
+      "dish": "Zoetwater-visbereidingen van lokale vangst",
+      "location": "Jay Pao Restaurant",
+      "story": "De foodie-kaart van TAT houdt Jay Pao voor zijn langlopende visgerichte keuken en gebruik van lokale vangst, wat Sukhothai een regionalere identiteit geeft dan een generieke Thaise-restaurantlijst.",
+      "where_to_find": "Het best als een echt diner als je één maaltijd wilt die niet tempel-aangrenzende noodles is.",
+      "price_range": "Middenklasse",
+      "ordering_tips": [
+        "Dit is sterker als gedeelde-tafel-diner dan als solo snelle stop.",
+        "Kies het als je een lokaal hoofdgerecht wilt buiten het noodlepatroon."
+      ],
+      "href": "/city/sukhothai/top-10-restaurants/",
+      "cta_label": "Zie de eten gids"
+    },
+    {
+      "dish": "Traditionele zoetigheden en lokale desserttiming",
+      "location": "Khanom Wong Mae Prapai",
+      "story": "De foodie-kaart van TAT selecteert deze kleine dessertwinkel voor een traditioneel noordelijk zoetigheid gemaakt van een familie-recept, wat Sukhothai een specifiekere middag-etenslaag geeft dan een koffie-stop.",
+      "where_to_find": "Het best als korte midday- of vroege middagdessertpauze in plaats van als bestemmingsdiner.",
+      "price_range": "Budget",
+      "ordering_tips": [
+        "Gebruik het als extra etenslaag op een tweedaags verblijf.",
+        "Dit past beter in een rustiger schema dan in een enkele gehaaste dag."
+      ],
+      "href": "/city/sukhothai/top-10-restaurants/",
+      "cta_label": "Zie de eten gids"
+    }
+  ],
+  "local_insights": [
+    "Sukhothai wordt veel makkelijker te plannen zodra je accepteert dat de oude stad, niet de nieuwe stad, het middelpunt van de reis is.",
+    "De centrale parkzone moet eerst komen; anders voelen de buitenste tempels losgekoppeld.",
+    "Wat Si Chum is de duidelijkste tweede zet na Wat Mahathat.",
+    "Si Satchanalai is de enige uitbreiding die de reis echt verdiept, maar alleen als het zijn eigen dag krijgt.",
+    "Sukhothai-noodles zijn geen generieke noordelijke noodles; ze verdienen een bewuste stop.",
+    "Oud-stadhotels zijn meestal sterker dan nieuwe-stadhotels als erftoegang belangrijker is dan busstation-gemak."
+  ],
+  "seasonal_secrets": {
+    "best_season": "November tot februari",
+    "why": "Koeler weer maakt de centrale parkronde, de buitenste tempelzones en langere fiets- of wandelsecties veel makkelijker.",
+    "local_festivals": [
+      "Loy Krathong blijft de kenmerkende festivalperiode van de provincie en wordt nog steeds door TAT benadrukt als een van de grote seizoensattracties van Sukhothai."
+    ],
+    "seasonal_foods": [
+      "Koel-seizoen ochtenden passen beter bij noodles en marktontbijten dan de hetere maanden.",
+      "Traditionele zoetigheden en langzamere oud-stad eetstops zijn makkelijker te genieten buiten piek midday hitte."
+    ],
+    "insider_tips": [
+      "Het hete seizoen kan nog steeds werken als je de centrale zone voorop zet en binnen- of langzamere maaltijden voor de middag bewaart.",
+      "Festivalperiodes brengen sfeer maar ook meer druk op kamers en transport, dus oud-stadverblijven moeten eerder geboekt worden."
+    ]
+  },
+  "budget_reality": {
+    "budget": "Budget",
+    "mid_range": "Middenklasse",
+    "luxury": "Luxe",
+    "examples": [
+      "Sukhothai is makkelijker betaalbaar te houden dan veel erfgoedbestemmingen omdat eten lokaal-first blijft in plaats van resort-only.",
+      "Oud-stadfietsen, eenvoudig transport en compacte tempelvolgorde doen meer voor waarde dan transport huren voor elke korte beweging.",
+      "De grootste kostenstijging komt meestal van het kiezen van een resort-stijl verblijf of het toevoegen van een volledige Si Satchanalai-transferdag."
+    ],
+    "money_saving_tricks": [
+      "Baseer jezelf nabij de oude stad als het park het hoofdpunt van de reis is; het bespaart tijd en onnodig heen-en-weer transport.",
+      "Houd Si Satchanalai als één serieuze toevoeging alleen als je echt de extra dag hebt."
+    ],
+    "hidden_costs": [
+      "Historisch-parktoegang, fiets- of transportkosten en aparte buitenzone-bewegingen kunnen oplopen als je de schaal van de site onderschat.",
+      "Luchthaven-zijde en tussen-de-parken resorts zijn handig alleen als je route echt die geografie gebruikt."
+    ]
+  },
+  "top_attractions": [
+    {
+      "rank": 1,
+      "name": "Sukhothai Historical Park",
+      "description": "Het onmisbare startpunt omdat de stadsmuren, vijvers en centrale monumenten de schaal van de eerste Siamese hoofdstad beter uitleggen dan elke geïsoleerde tempelstop kan.",
+      "location": "Mueang Kao, oude stad",
+      "entrance_fee": "Historisch-parktoegang geldt; controleer huidige zone en vaste-tarief tickets voordat je gaat.",
+      "highlights": [
+        "UNESCO kern",
+        "Centrale-zone oriëntatieronde",
+        "Beste eerste halve dag in Sukhothai"
+      ],
+      "href": "/city/sukhothai/attractions/sukhothai-historical-park/",
+      "cta_label": "Zie de park gids"
+    },
+    {
+      "rank": 2,
+      "name": "Wat Mahathat",
+      "description": "Het kernmonument in de centrale zone en de duidelijkste enkele uitdrukking van de Sukhothai-stijl binnen de oude stad.",
+      "location": "Centrale zone, Sukhothai Historical Park",
+      "entrance_fee": "Inbegrepen in historisch-parktoegang; controleer lokaal de huidige ticketstructuur.",
+      "highlights": [
+        "Centrale-zone anker",
+        "Iconische lotusknop-chedi",
+        "Beste eerste tempel in het park"
+      ],
+      "href": "/city/sukhothai/attractions/wat-mahathat-sukhothai/",
+      "cta_label": "Zie de Wat Mahathat gids"
+    },
+    {
+      "rank": 3,
+      "name": "Wat Si Chum",
+      "description": "De sterkste tweede-stop tempel omdat het Phra Achana-beeld de noordelijke zone een heel andere schaal en sfeer geeft dan de centrale monumenten.",
+      "location": "Noordelijke zone, Sukhothai Historical Park",
+      "entrance_fee": "Noordelijke-zone parktoegang geldt; controleer officiële parkinfo voordat je reist.",
+      "highlights": [
+        "Phra Achana beeld",
+        "Beste noord-zone landmark",
+        "Een duidelijk contrast met Wat Mahathat"
+      ],
+      "href": "/city/sukhothai/attractions/wat-si-chum/",
+      "cta_label": "Zie de Wat Si Chum gids"
+    },
+    {
+      "rank": 4,
+      "name": "Wat Sa Si",
+      "description": "Een van de centrale-zone tempels die echt tijd verdient omdat de eiland-achtige setting en reflecterende water de planning van de oude stad makkelijker leesbaar maken.",
+      "location": "Centrale zone, Sukhothai Historical Park",
+      "entrance_fee": "Inbegrepen in historisch-parktoegang.",
+      "highlights": [
+        "Water-en-tempel setting",
+        "Sterke zonsopgang of zachter-licht stop",
+        "Het best gecombineerd met Wat Mahathat"
+      ],
+      "href": "/city/sukhothai/attractions/wat-sa-si/",
+      "cta_label": "Zie de Wat Sa Si gids"
+    },
+    {
+      "rank": 5,
+      "name": "Wat Saphan Hin",
+      "description": "De enige klim die de reis betekenisvol verandert omdat het je uit de vlakke ceremoniële kern trekt en de westkant een echt uitzichtpunt geeft.",
+      "location": "Westelijke zone, Sukhothai Historical Park",
+      "entrance_fee": "Westelijke-zone toegang geldt; verifieer huidige regelingen voor de reisdag.",
+      "highlights": [
+        "Heuveltop staande Boeddha",
+        "West-zone contrast",
+        "Beste één-klim toevoeging"
+      ],
+      "href": "/city/sukhothai/attractions/wat-saphan-hin/",
+      "cta_label": "Zie de Wat Saphan Hin gids"
+    },
+    {
+      "rank": 6,
+      "name": "Si Satchanalai Historical Park",
+      "description": "De enige uitbreiding die het Sukhothai-koninkrijksverhaal echt verdiept, maar alleen als het als aparte dag behandeld wordt in plaats van een gehaaste toevoeging.",
+      "location": "Si Satchanalai District, Sukhothai Province",
+      "entrance_fee": "Aparte historisch-parktoegang geldt; controleer officiële parkinfo voordat je gaat.",
+      "highlights": [
+        "Geassocieerde UNESCO-stad",
+        "Erfgoeduitbreiding voor de tweede dag",
+        "Beste langere historische toevoeging"
+      ],
+      "href": "/city/sukhothai/attractions/si-satchanalai-historical-park/",
+      "cta_label": "Bekijk de Si Satchanalai-gids"
+    }
+  ],
+  "top_restaurants": [
+    {
+      "rank": 1,
+      "name": "Je Hae Sukhothai Noodles",
+      "description": "De duidelijkste eerste eetstop als je een echte Sukhothai-noedelsmaaltijd wilt, gebaseerd op de huidige TAT-foodiekaart in plaats van generieke oude-stad-vullers.",
+      "location": "Sukhothai-stadsgebied",
+      "price_range": "Budget",
+      "highlights": [
+        "Klassieke Sukhothai-noedels",
+        "Huisgemaakte ingrediënten",
+        "Beste eerste lunchstop"
+      ],
+      "href": "/city/sukhothai/top-10-restaurants/",
+      "cta_label": "Bekijk de eetgids"
+    },
+    {
+      "rank": 2,
+      "name": "Mai Klang Krung Restaurant",
+      "description": "Een sterkere lokale-menustop als je meer wilt dan noedelsoup, vooral voor gerechten met Sukhothai-ingrediënten en oudere familierecepten.",
+      "location": "Sukhothai-stadsgebied",
+      "price_range": "Budget tot middenklasse",
+      "highlights": [
+        "Sukhothai pad thai",
+        "Khao kriap pak mor",
+        "Goed breder lokaal menu"
+      ],
+      "href": "/city/sukhothai/top-10-restaurants/",
+      "cta_label": "Bekijk de eetgids"
+    },
+    {
+      "rank": 3,
+      "name": "Mee Khao Pan Pak",
+      "description": "Een van de duidelijkste specialiteitsgerechtnamen in Sukhothai als je iets specifieks uit de provincie wilt in plaats van een standaard Thais menu.",
+      "location": "Sukhothai-stadsgebied",
+      "price_range": "Budget",
+      "highlights": [
+        "Khao perp en gewrapte rijstmeelgerechten",
+        "Speciale lokale variant",
+        "Goede langzamere lunchstop"
+      ],
+      "href": "/city/sukhothai/top-10-restaurants/",
+      "cta_label": "Bekijk de eetgids"
+    },
+    {
+      "rank": 4,
+      "name": "Jay Pao Restaurant",
+      "description": "Een echte diner-niveau lokale keuze omdat TAT het nog steeds benadrukt voor zoetwater-visbereidingen op basis van lokale vangst in plaats van populariteit op ranglijstsites.",
+      "location": "Sukhothai-stadsgebied",
+      "price_range": "Middenklasse",
+      "highlights": [
+        "Lokale visgerechten",
+        "Deelbare dinerstop",
+        "Beste niet-noedel lokale maaltijd"
+      ],
+      "href": "/city/sukhothai/top-10-restaurants/",
+      "cta_label": "Bekijk de eetgids"
+    },
+    {
+      "rank": 5,
+      "name": "Nam Khang Restaurant",
+      "description": "Het sterkste gepolijste oude-stad-restaurant als je één rustiger zit-maaltijd bij het park wilt zonder terug te vallen op anoniem resort-eten.",
+      "location": "Legendha Sukhothai Resort, Mueang Kao",
+      "price_range": "Middenklasse",
+      "highlights": [
+        "Houten-balkon dineren over de Mae Rampan-kanaal",
+        "Oude-stad-locatie",
+        "Nuttige langzamere diner"
+      ],
+      "href": "/city/sukhothai/top-10-restaurants/",
+      "cta_label": "Bekijk de eetgids"
+    },
+    {
+      "rank": 6,
+      "name": "Ruean Ther Restaurant & Bar",
+      "description": "Een praktisch nieuwe-stad-hotelrestaurant als je een betrouwbaar diner nodig hebt rond een stadsverblijf in plaats van nog een transfer terug naar de oude stad.",
+      "location": "Ruean Thai Hotel, New Sukhothai",
+      "price_range": "Middenklasse",
+      "highlights": [
+        "Hele dag service",
+        "Klassiek Thais en internationaal menu",
+        "Nuttig voor nieuwe-stad-overnachtingen"
+      ],
+      "href": "/city/sukhothai/top-10-restaurants/",
+      "cta_label": "Bekijk de eetgids"
+    }
+  ],
+  "top_hotels": [
+    {
+      "rank": 1,
+      "name": "Sriwilai Sukhothai Resort & Spa",
+      "description": "Het sterkste design-geleide oude-stad-verblijf als rijstveld-uitzichten, een rustiger resort-sfeer en nauwe toegang tot het park belangrijker zijn dan pure praktischheid.",
+      "price_range": "Luxe",
+      "category": "luxe",
+      "area": "Mueang Kao, nabij het historische park",
+      "highlights": [
+        "Uitzicht op rijstvelden en Wat Chedi Sung",
+        "1,8 km van het historische park",
+        "Beste geselecteerde uitspatting nabij de oude stad"
+      ]
+    },
+    {
+      "rank": 2,
+      "name": "Legendha Sukhothai Resort",
+      "description": "Het duidelijkste oude-stad-erfgoedverblijf als je dicht bij het park wilt zijn en het hotel zelf afgestemd op de historische setting.",
+      "price_range": "Middenklasse tot luxe",
+      "category": "middenklasse",
+      "area": "Mueang Kao, oude stad",
+      "highlights": [
+        "Ongeveer 900 meter van het historische park",
+        "Thais-dorpssetting",
+        "Sterke eerste oude-stad-basis"
+      ]
+    },
+    {
+      "rank": 3,
+      "name": "Le Charme Sukhothai Resort",
+      "description": "Een praktisch oude-stad-resort als je eenvoudige erftoegang, lotusvijver-omgeving en een boetiekformaat dicht bij de hoofdpoort wilt.",
+      "price_range": "Middenklasse",
+      "category": "middenklasse",
+      "area": "Mueang Kao, nabij centraal zone",
+      "highlights": [
+        "Ongeveer 1 km van het historische park",
+        "Lotusvijvers en tropische tuinen",
+        "Goed park-gericht verblijf"
+      ]
+    },
+    {
+      "rank": 4,
+      "name": "Tharaburi Resort",
+      "description": "Een betrouwbare oude-stad-optie als je een rustigere boetiekbasis nabij het park wilt zonder in de duurste resort-categorie te gaan.",
+      "price_range": "Middenklasse",
+      "category": "middenklasse",
+      "area": "Mueang Kao, oude stad",
+      "highlights": [
+        "Dicht bij de Werelderfgoed-site",
+        "Oude-stad-locatie",
+        "Goed voor erfgoed-gerichte verblijven"
+      ]
+    },
+    {
+      "rank": 5,
+      "name": "Ruean Thai Hotel",
+      "description": "Het sterkste traditionele-stijl nieuwe-stad-verblijf als je busstation-gemak, een stadsbasis en een hotel met meer karakter dan een eenvoudige ketenstop nodig hebt.",
+      "price_range": "Budget tot middenklasse",
+      "category": "budget",
+      "area": "New Sukhothai",
+      "highlights": [
+        "Traditionele teakhouten stijl",
+        "Gratis transfer naar busstation",
+        "Beste karakterverblijf in nieuwe stad"
+      ]
+    },
+    {
+      "rank": 6,
+      "name": "Sukhothai Heritage Resort",
+      "description": "De beste optie tussen de parken als je vliegt, Sukhothai Airport gebruikt of Sukhothai en Si Satchanalai in één route combineert.",
+      "price_range": "Middenklasse tot luxe",
+      "category": "middenklasse",
+      "area": "Khlong Krachong, nabij Sukhothai Airport",
+      "highlights": [
+        "Aangrenzend aan Sukhothai Airport",
+        "Tussen Sukhothai en Si Satchanalai",
+        "Beste route-logica verblijf voor twee-park-reizen"
+      ]
+    }
+  ],
+  "travel_tips": [
+    "Begin met de centrale zone. Sukhothai wordt zwakker als Wat Si Chum of Si Satchanalai komt voordat je de hoofdpark-indeling begrijpt.",
+    "Houd de tweede blok selectief: noord voor Wat Si Chum, of west voor Wat Saphan Hin. Je hoeft niet elke buitenzone op de eerste dag te doen.",
+    "Behandel Si Satchanalai als een aparte dag als je het al toevoegt.",
+    "Gebruik lokaal eten bewust. Sukhothai-noedels, specialiteitsrijstmeelgerechten en één visdiner zijn sterker dan generiek café-hoppen.",
+    "Als je vliegt, controleer dan de huidige Bangkok Airways-schema's en luchthavenvervoer direct voor de reis."
+  ],
+  "best_time_to_visit": "November tot februari is het makkelijkste seizoen voor Sukhothai omdat fietsen, tempelwandelingen en oude-stad-avonden comfortabeler zijn. Het hete seizoen werkt nog steeds als je het park vooraan plant. Reizen in het festivalsaison rond Loy Krathong kan lonend zijn, maar kamerdruk en menigtes stijgen scherp.",
+  "bestTimeToVisit": "November tot februari past het meest vergevingsgezind bij Sukhothai. Hete maanden vereisen eerdere starts en langere middagpauzes. Loy Krathong kan spectaculair zijn, maar transport en hotelplanning moeten eerder vastliggen.",
+  "budget_info": {
+    "budget_per_day": "Budget",
+    "midrange_per_day": "Middenklasse",
+    "luxury_per_day": "Luxe"
+  },
+  "thingsToDo": "Begin met Sukhothai Historical Park en houd de eerste lus gericht op Wat Mahathat en Wat Sa Si. Voeg Wat Si Chum of Wat Saphan Hin toe als tweede laag, en beslis dan of een tweede dag lokaal blijft met musea en eten of naar Si Satchanalai gaat.",
+  "whereToStay": "Verblijf in Mueang Kao als het park de reden van je komst is. Gebruik New Sukhothai vooral voor busgemak, een snelle praktische overnachting, of als je een stads-hotel-ritme prefereert boven resort-omgeving. Luchthaven-zijde verblijven maken alleen zin als je vliegt of Sukhothai met Si Satchanalai linkt.",
+  "whereToEat": [
+    {
+      "name": "Je Hae Sukhothai Noodles",
+      "cuisine": "Sukhothai-noedels",
+      "priceRange": "Budget",
+      "description": "De duidelijkste eerste lunchstop voor de kenmerkende noedelstijl van Sukhothai."
+    },
+    {
+      "name": "Mai Klang Krung Restaurant",
+      "cuisine": "Regionale Thaise en Sukhothai-specialiteiten",
+      "priceRange": "Budget tot middenklasse",
+      "description": "Een breder lokale-menustop met TAT-ondersteunde provinciale gerechten."
+    },
+    {
+      "name": "Mee Khao Pan Pak",
+      "cuisine": "Lokale rijstmeel- en noedelspecialiteiten",
+      "priceRange": "Budget",
+      "description": "Een nuttige specialiteitenstop als je iets voorbij noedels wilt."
+    },
+    {
+      "name": "Jay Pao Restaurant",
+      "cuisine": "Lokale visgerechten",
+      "priceRange": "Middenklasse",
+      "description": "Een sterkere diner-niveau lokale keuze rond lokale zoetwater-vis."
+    },
+    {
+      "name": "Nam Khang Restaurant",
+      "cuisine": "Thaise keuken",
+      "priceRange": "Middenklasse",
+      "description": "Een gepolijst oude-stad-restaurant voor een rustiger zit-maaltijd."
+    }
+  ],
+  "topHotels": [
+    {
+      "name": "Sriwilai Sukhothai Resort & Spa",
+      "category": "luxe",
+      "priceRange": "Luxe",
+      "area": "Mueang Kao",
+      "description": "Een design-geleide oude-stad-uitspatting met rijstveld-uitzichten."
+    },
+    {
+      "name": "Legendha Sukhothai Resort",
+      "category": "middenklasse",
+      "priceRange": "Middenklasse tot luxe",
+      "area": "Mueang Kao",
+      "description": "Een erfgoed-gericht oude-stad-resort dicht bij het park."
+    },
+    {
+      "name": "Le Charme Sukhothai Resort",
+      "category": "middenklasse",
+      "priceRange": "Middenklasse",
+      "area": "Mueang Kao",
+      "description": "Een boetiek oude-stad-verblijf nabij de centrale parkzone."
+    },
+    {
+      "name": "Tharaburi Resort",
+      "category": "middenklasse",
+      "priceRange": "Middenklasse",
+      "area": "Mueang Kao",
+      "description": "Een rustigere boetiek oude-stad-basis nabij het erfgoedcentrum."
+    },
+    {
+      "name": "Ruean Thai Hotel",
+      "category": "budget",
+      "priceRange": "Budget tot middenklasse",
+      "area": "New Sukhothai",
+      "description": "Een karaktervol stads-zijde verblijf met busgemak."
+    }
+  ],
+  "gettingAround": "Oude-stad-verkenning is het makkelijkst per fiets, korte lokale ritten of een chauffeur als je tussen zones beweegt. New Sukhothai en Mueang Kao zijn gescheiden genoeg dat je niet moet aannemen dat ze gemakkelijk te belopen zijn. Als je Si Satchanalai toevoegt of via Sukhothai Airport vliegt, wordt transportplanning veel belangrijker.",
+  "safetyTips": "Sukhothai is meestal eenvoudig, maar de gebruikelijke erfgoed-site gezond verstand geldt nog steeds: respecteer actieve tempelruimtes, kleed je gepast, vermijd gehaaste klimmen zoals Wat Saphan Hin in slecht licht of slecht weer, en verifieer huidige openingsregelingen voor zeer vroege of late bezoeken. Als je fietst binnen of tussen parkzones, neem water mee en houd marge voor hitte.",
+  "faq": [
+    {
+      "question": "Is één dag genoeg voor Sukhothai?",
+      "answer": "Eén dag dekt het centrale historische park goed als je de planning selectief houdt. Twee dagen is sterker als je Wat Si Chum, Wat Saphan Hin, echt lokaal eten en een mogelijke Si Satchanalai-uitbreiding wilt."
+    },
+    {
+      "question": "Moet je in de oude stad of de nieuwe stad verblijven?",
+      "answer": "Verblijf in de oude stad als het park de hoofreden van de reis is. Nieuwe-stad-verblijven gaan meer om busgemak, praktische overnachting of een ander stadsritme."
+    },
+    {
+      "question": "Welk eten moet je prioriteren in Sukhothai?",
+      "answer": "Begin met Sukhothai-noedels, voeg dan één breder lokale-menustop of een vis-gericht diner toe. De TAT-foodiekaart is hier een veel betere filter dan scraped ranglijsten."
+    },
+    {
+      "question": "Is Si Satchanalai het waard om toe te voegen?",
+      "answer": "Ja, maar alleen als je er echte tijd voor kunt vrijmaken. Het is de enige uitbreiding die het Sukhothai-koninkrijksverhaal echt verdiept, maar het verzwakt de reis als het geperst wordt in het einde van een al volle parkdag."
+    },
+    {
+      "question": "Hoe kom je in Sukhothai?",
+      "answer": "De meeste reizigers arriveren per weg, maar Bangkok Airways bedient ook Sukhothai Airport en positioneert het als toegangspoort tot de historische en culturele erfgoed van de provincie. Controleer huidige schema's en luchthavenvervoer direct voor de reis."
+    }
+  ],
+  "practicalInfo": {
+    "arrival": "Bangkok Airways positioneert Sukhothai Airport nog steeds als toegangspoort tot de historische en culturele erfgoed van de provincie. Per weg is het belangrijkste praktische onderscheid of je naar New Sukhothai of direct naar Mueang Kao gaat.",
+    "transport": "Fietsen en korte lokale ritten werken goed rond de oude stad. Langere hotel-naar-park of luchthaven-naar-resort transfers moeten als echte transportetappes worden behandeld in plaats van casual wandelingen.",
+    "planning": "Denk in lagen: centrale zone eerst, één buitenzone-toevoeging tweede, en Si Satchanalai alleen als je echt die extra dag hebt."
+  },
+  "contentSources": [
+    {
+      "type": "toerismebureau",
+      "title": "Pagina over de provincie Sukhothai",
+      "creator": "Toerismeautoriteit van Thailand",
+      "url": "https://www.tourismthailand.org/Destinations/Provinces/Sukhothai/114",
+      "description": "Gebruikt voor de provinciale context rond Sukhothai Historical Park, Wat Si Chum, het keramisch erfgoed en de positionering van Loy Krathong."
+    },
+    {
+      "type": "wereld-erfgoed",
+      "title": "Historische Stad Sukhothai en Aangrenzende Historische Steden",
+      "creator": "UNESCO Werelderfgoedcentrum",
+      "url": "https://whc.unesco.org/en/list/574/",
+      "description": "Gebruikt voor de historische context van Sukhothai als hoofdstad van het eerste Koninkrijk Siam en de bredere Sukhothai-stijl."
+    },
+    {
+      "type": "bezienswaardigheid",
+      "title": "Contact en Kaart Sukhothai Historical Park",
+      "creator": "Departement voor Schone Kunsten",
+      "url": "https://virtualhistoricalpark.finearts.go.th/sukhothai/index.php/en/map.html",
+      "description": "Gebruikt voor de officiële parkautoriteit, de zone-indeling en de huidige notitie dat openingstijden en entree door het park zelf worden beheerd."
+    },
+    {
+      "type": "toerismebureau",
+      "title": "Ontdek Thaise Smaak Thaise Foodie Kaart 2.0",
+      "creator": "Toerismeautoriteit van Thailand",
+      "url": "https://www.tourismthailand.org/Articles/explore-thai-taste-thai-foodie-map-2-0-en",
+      "description": "Gebruikt voor de huidige Sukhothai-korte lijst van Je Hae Sukhothai Noodles, Mai Klang Krung, Mee Khao Pan Pak, Jay Pao en Khanom Wong Mae Prapai."
+    },
+    {
+      "type": "gemeenschap",
+      "title": "Mueang Kao Sukhothai Community Based Tourism Club",
+      "creator": "Toerisme Productie Divisie, Toerismeautoriteit van Thailand",
+      "url": "https://tourismproduct.tourismthailand.org/en/2025/06/23/%E0%B8%8A%E0%B8%A1%E0%B8%A3%E0%B8%A1%E0%B8%AA%E0%B9%88%E0%B8%87%E0%B9%80%E0%B8%AA%E0%B8%A3%E0%B8%B4%E0%B8%A1%E0%B8%81%E0%B8%B2%E0%B8%A3%E0%B8%97%E0%B9%88%E0%B8%AD%E0%B8%87%E0%B9%80%E0%B8%97%E0%B8%B5%E0%B9%88%E0%B8%A2%E0%B8%A7%E0%B9%82%E0%B8%94%E0%B8%A2%E0%B8%8A%E0%B8%B8%E0%B8%A1%E0%B8%8A%E0%B8%99%E0%B9%80%E0%B8%A1%E0%B8%B7%E0%B8%AD%E0%B8%87%E0%B9%80%E0%B8%81%E0%B9%88%E0%B8%B2%E0%B8%AA%E0%B8%B8%E0%B9%82%E0%B8%82%E0%B8%97%E0%B8%B1%E0%B8%A2/",
+      "description": "Gebruikt voor de huidige Mueang Kao-gemeenschapsactiviteiten en de culturele laag van de oude stad rond het park."
+    },
+    {
+      "type": "vervoer",
+      "title": "Luchthaven Sukhothai",
+      "creator": "Bangkok Airways",
+      "url": "https://www.bangkokair.com/boutique-airports/sukhothai-airport",
+      "description": "Gebruikt voor de huidige luchthaveneigendom en de context van de luchthaven als toegangspoort."
+    },
+    {
+      "type": "vervoer",
+      "title": "Luchthaven Bedrijfsvoering",
+      "creator": "Bangkok Airways",
+      "url": "https://investor.bangkokair.com/en/company-overview/business-overview/airport-business",
+      "description": "Gebruikt voor de huidige verklaring dat Bangkok Airways de Luchthaven Sukhothai bezit en beheert als toegangspoort tot de erfgoedregio in het centrale noorden."
+    },
+    {
+      "type": "hotel",
+      "title": "Sriwilai Sukhothai Resort & Spa",
+      "creator": "Sriwilai Sukhothai Resort & Spa",
+      "url": "https://sriwilaisukhothai.com/",
+      "description": "Gebruikt voor de positionering van het resort in de oude stad, uitzicht op rijstvelden en nabijheid tot het park."
+    },
+    {
+      "type": "hotel",
+      "title": "Legendha Sukhothai Resort",
+      "creator": "Legendha Sukhothai Resort",
+      "url": "https://www.legendhasukhothai.com/",
+      "description": "Gebruikt voor de positionering van het hotel in de oude stad, het Thaise-dorpconcept en nabijheid tot het historische park."
+    },
+    {
+      "type": "restaurant",
+      "title": "Diner bij Legendha Sukhothai",
+      "creator": "Legendha Sukhothai Resort",
+      "url": "https://www.legendhasukhothai.com/sukhothai-dining/",
+      "description": "Gebruikt voor Nam Khang Restaurant en de context van dineren aan het kanaal in de oude stad."
+    },
+    {
+      "type": "hotel",
+      "title": "Le Charme Sukhothai Resort",
+      "creator": "Le Charme Sukhothai Resort",
+      "url": "https://www.lecharmesukhothai.com/",
+      "description": "Gebruikt voor de boutique-positionering in de oude stad, omliggende lotusvijvers en context op loopafstand."
+    },
+    {
+      "type": "hotel",
+      "title": "Contact Tharaburi Resort",
+      "creator": "Tharaburi Resort",
+      "url": "https://tharaburiresort.com/contact-us/",
+      "description": "Gebruikt voor de locatie in de oude stad, nabijheid tot het historische park en context voor luchthaventransfer."
+    },
+    {
+      "type": "hotel",
+      "title": "Ruean Thai Hotel Sukhothai",
+      "creator": "Ruean Thai Hotel",
+      "url": "https://rueanthaihotel.com/",
+      "description": "Gebruikt voor de positionering van het hotel in nieuwe-stijl stad met traditionele look, busverbindingen en context voor Ruean Ther restaurant."
+    },
+    {
+      "type": "restaurant",
+      "title": "Diensten Ruean Thai Hotel",
+      "creator": "Ruean Thai Hotel",
+      "url": "https://rueanthaihotel.com/services/",
+      "description": "Gebruikt voor Ruean Ther Restaurant & Bar en de hele dag open in nieuwe Sukhothai."
+    },
+    {
+      "type": "hotel",
+      "title": "Sukhothai Heritage Resort",
+      "creator": "Sukhothai Heritage Resort",
+      "url": "https://sabaisabaihospitality.com/heritageresort/en/index.php",
+      "description": "Gebruikt voor de locatie naast de luchthaven tussen Sukhothai en Si Satchanalai."
+    },
+    {
+      "type": "hotel",
+      "title": "Sabai Sabai Sukhothai",
+      "creator": "Sabai Sabai Hospitality Group",
+      "url": "https://www.sabaisabaihospitality.com/sukhothai/en/",
+      "description": "Gebruikt als secundaire bevestiging voor de accommodatieband aan de luchthavenkant en tussen de parken in Sawankhalok."
+    }
+  ],
+  "reviewed_by": "Go2Thailand Redactie Team",
+  "enhanced_at": "2026-03-27T00:00:00.000Z",
+  "factchecked_at": "2026-03-27T00:00:00.000Z",
+  "enrichedAt": "2026-03-27T00:00:00.000Z"
+}

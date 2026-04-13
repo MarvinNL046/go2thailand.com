@@ -2252,9 +2252,9 @@ function flattenBilingual(data: any): any {
   return result;
 }
 
-export const getStaticProps: GetStaticProps = async ({ params }) => {
+export const getStaticProps: GetStaticProps = async ({ params, locale }) => {
   const slug = params?.slug as string;
-  const rawCity = getCityBySlug(slug);
+  const rawCity = getCityBySlug(slug, locale);
 
   if (!rawCity) {
     return {
@@ -2352,9 +2352,8 @@ export const getStaticProps: GetStaticProps = async ({ params }) => {
     const fs = require('fs');
     if (fs.existsSync(editorialsPath)) {
       const editorials = JSON.parse(fs.readFileSync(editorialsPath, 'utf8'));
-      if (editorials[slug]?.en) {
-        editorial = editorials[slug].en;
-      }
+      const entry = editorials[slug] || {};
+      editorial = (locale && entry[locale]) || entry.en || '';
     }
   } catch {}
 

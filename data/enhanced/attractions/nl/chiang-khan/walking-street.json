@@ -1,0 +1,50 @@
+{
+  "id": 1,
+  "slug": "walking-street",
+  "name": {
+    "en": "Chiang Khan Walking Street",
+    "nl": "Chiang Khan Walking Street"
+  },
+  "type": "cultuur",
+  "city_slug": "chiang-khan",
+  "address": "Chiang Khan, Thailand",
+  "location": null,
+  "opening_hours": null,
+  "entrance_fee": {
+    "thb": 0,
+    "usd": 0
+  },
+  "description": {
+    "en": "Charming evening walking street along Soi 1 with local food stalls, handmade crafts, and traditional wooden shophouses",
+    "nl": "Charmante avondmarkt langs Soi 1 met lokale eetkraampjes, handgemaakte ambachten en traditionele houten winkelpanden"
+  },
+  "highlights": [
+    "Nachtmarkt",
+    "Lokale straathapjes",
+    "Traditionele houten huizen",
+    "Handgemaakte ambachten"
+  ],
+  "image": "/images/cities/chiangmai/chiang-mai-temple.webp",
+  "official_website": null,
+  "seo": {
+    "metaTitle": {
+      "en": "Chiang Khan Walking Street - Top Attraction in Chiang Khan | Go2Thailand",
+      "nl": "Chiang Khan Walking Street - Top Attractie in Chiang Khan | Go2Thailand"
+    },
+    "metaDescription": {
+      "en": "Discover Chiang Khan Walking Street in Chiang Khan. Charming evening walking street along Soi 1 with local food stalls, handmade crafts, and traditional wooden shophouses",
+      "nl": "Ontdek Chiang Khan Walking Street in Chiang Khan. Charmante avondmarkt langs Soi 1 met lokale eetkraampjes, handgemaakte ambachten en traditionele houten winkelpanden"
+    }
+  },
+  "tags": [
+    "cultuur",
+    "chiang-khan",
+    "thailand",
+    "bezienswaardigheid",
+    "reizen",
+    "toerisme"
+  ],
+  "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=Chiang%20Khan%20Walking%20Street%20Chiang%20Khan%20Thailand",
+  "best_time": "avond",
+  "duration_hours": 2
+}

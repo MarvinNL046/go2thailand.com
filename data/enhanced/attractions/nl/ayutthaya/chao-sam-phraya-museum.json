@@ -1,0 +1,101 @@
+{
+  "id": 8,
+  "slug": "chao-sam-phraya-museum",
+  "name": {
+    "en": "Chao Sam Phraya National Museum",
+    "nl": "Chao Sam Phraya Nationaal Museum"
+  },
+  "type": "museum",
+  "city_slug": "ayutthaya",
+  "address": "Rochana Road, Pratu Chai, Phra Nakhon Si Ayutthaya",
+  "location": {
+    "lat": 14.3542,
+    "lng": 100.5542
+  },
+  "opening_hours": "09:00-16:00",
+  "entrance_fee": {
+    "thb": 150,
+    "usd": 4
+  },
+  "description": {
+    "en": "Museum showcasing Ayutthaya artifacts including golden Buddha images and royal treasures",
+    "nl": "Museum met Ayutthaya artefacten inclusief gouden Boeddhabeelden en koninklijke schatten"
+  },
+  "highlights": [
+    "Gouden Boeddha-beelden",
+    "Koninklijke schatten",
+    "Historische artefacten",
+    "Cultureel museum"
+  ],
+  "image": "/images/cities/ayutthaya/ayutthaya-historical-park.webp",
+  "official_website": null,
+  "seo": {
+    "metaTitle": {
+      "en": "Chao Sam Phraya National Museum - Top Attraction in Ayutthaya | Go2Thailand",
+      "nl": "Chao Sam Phraya Nationaal Museum - Top Attractie in Ayutthaya | Go2Thailand"
+    },
+    "metaDescription": {
+      "en": "Discover Chao Sam Phraya National Museum in Ayutthaya. Museum showcasing Ayutthaya artifacts including golden Buddha images and royal treasures...",
+      "nl": "Ontdek Chao Sam Phraya Nationaal Museum in Ayutthaya. Museum met Ayutthaya artefacten inclusief gouden Boeddhabeelden en koninklijke schatten..."
+    }
+  },
+  "tags": [
+    "museum",
+    "Ayutthaya",
+    "Thailand",
+    "bezienswaardigheid",
+    "reizen",
+    "toerisme"
+  ],
+  "enhanced_description": "Het Chao Sam Phraya National Museum is een van de meest nuttige tussenstops in Ayutthaya, omdat het context biedt voor de ruïnes. Het museum richt zich op herontdekte artefacten en helpt uitleggen waarom het erfgoedpark zo belangrijk is.",
+  "detailed_history": "Museum Thailand presenteert de locatie als een belangrijk Ayutthaya-museum dat verbonden is met de behoud van regionaal erfgoed. De rol ervan is om de archeologie en kunstgeschiedenis begrijpelijk te houden nadat bezoekers de tempels hebben gezien.",
+  "visitor_experience": "Verwacht een eenvoudige museumbezoek met galerijen die het beste werken na een of twee tempelstops. Het is een praktische manier om over te schakelen van buitenhitte naar binnencontext.",
+  "best_time_to_visit": {
+    "time_of_day": "De ochtend is meestal de rustigste tijd om te bezoeken.",
+    "duration": "Plan 1 tot 2 uur in.",
+    "crowd_level": "Werkdagen zijn meestal rustiger dan weekenden."
+  },
+  "photography_tips": [
+    "De hoofdgalerijen en de ingang zijn de meest nuttige fotopunten.",
+    "Ochtendlicht is meestal beter als de ruimtes natuurlijk licht toelaten.",
+    "Houd het bezoek gericht op de context van de artefacten in plaats van poseren bij elke vitrine.",
+    "Controleer de borden voordat je foto’s maakt in de tentoonstellingsruimtes."
+  ],
+  "practical_info": {
+    "how_to_get_there": "Het museum is gemakkelijk bereikbaar per tuk-tuk, taxi of fiets vanuit het centrum van Ayutthaya. Zoek naar borden die je langs Rochana Road wijzen.",
+    "nearby_attractions": "In de buurt vind je bezienswaardigheden zoals Wat Phra Si Sanphet, Wat Mahathat en het Ayutthaya Historical Park, allemaal op korte wandelafstand.",
+    "food_options": "Er zijn lokale eetkraampjes en restaurants in de buurt die traditionele Thaise gerechten serveren, inclusief populaire gerechten zoals Pad Thai en Tom Yum.",
+    "shopping": "Souvenirwinkels met lokale handwerkproducten en traditionele Thaise artikelen vind je in de omgeving, perfect om souvenirs op te pikken."
+  },
+  "insider_tips": [
+    "Combineer het museum met nabijgelegen ruïnes zodat de artefacten echte context krijgen.",
+    "Houd het bezoek rustig en onthaast.",
+    "Controleer de actuele openingsdagen voordat je gaat.",
+    "Gebruik het als historische anker voor een dag vol erfgoed."
+  ],
+  "seasonal_considerations": "De museumervaring blijft het hele jaar consistent, hoewel de beste tijd om te bezoeken is tijdens de koelere maanden (november tot februari) wanneer het weer prettiger is om Ayutthaya te verkennen.",
+  "accessibility": "Het museum is rolstoeltoegankelijk, met hellingbanen en aangewezen gebieden om bezoekers met mobiliteitsproblemen te helpen, zodat iedereen van de tentoonstellingen kan genieten.",
+  "cultural_significance": "Het museum helpt bij het behoud en de interpretatie van de archeologische geschiedenis van Ayutthaya.",
+  "fun_facts": [
+    "Het is een van de duidelijkste binnenshuis complementen voor de Ayutthaya-ruïnes.",
+    "Het museum helpt de objecten uit het erfgoedgebied uit te leggen.",
+    "Het is een nuttige stop als het weer heet of regenachtig is."
+  ],
+  "contentSources": [
+    {
+      "type": "officieel museum",
+      "title": "Chao Sam Phraya National Museum",
+      "creator": "Museum Thailand / Department of Fine Arts",
+      "url": "https://www.museumthailand.com/en/museum/Chao-Sam-Phraya-National-Museum",
+      "description": "Gebruikt voor museumcontext en curatieframing."
+    },
+    {
+      "type": "officieel erfgoed",
+      "title": "Historic City of Ayutthaya",
+      "creator": "UNESCO World Heritage Centre",
+      "url": "https://whc.unesco.org/en/list/576/",
+      "description": "Gebruikt voor de omliggende erfgoedcontext."
+    }
+  ],
+  "enhanced_at": "2025-05-25T22:37:46.307Z"
+}

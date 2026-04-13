@@ -1,0 +1,82 @@
+{
+  "id": 2,
+  "slug": "wat-nong-wang",
+  "name": {
+    "en": "Wat Nong Wang",
+    "nl": "Wat Nong Wang"
+  },
+  "type": "tempel",
+  "city_slug": "khon-kaen",
+  "address": "Mueang Kao, Mueang Khon Kaen, Khon Kaen 40000",
+  "location": {
+    "lat": 16.4100122,
+    "lng": 102.834374
+  },
+  "opening_hours": "Toegang tot de tempel is over het algemeen dagelijks beschikbaar",
+  "entrance_fee": {
+    "thb": 0,
+    "usd": 0
+  },
+  "description": {
+    "en": "Khon Kaen's best-known temple, rising beside the lake and giving the clearest skyline stop in the city core.",
+    "nl": "De bekendste tempel van Khon Kaen, naast het meer, en de duidelijkste skyline-stop in de stadskern."
+  },
+  "highlights": [
+    "Tempel met negen verdiepingen",
+    "Panoramisch stadsbeeld",
+    "Gemakkelijk te combineren met de oever van het meer"
+  ],
+  "image": "/images/cities/generated/khon-kaen.webp",
+  "official_website": null,
+  "seo": {
+    "metaTitle": {
+      "en": "Wat Nong Wang | Go2Thailand",
+      "nl": "Wat Nong Wang | Go2Thailand"
+    },
+    "metaDescription": {
+      "en": "Why Wat Nong Wang is still the most useful temple stop in central Khon Kaen.",
+      "nl": "Waarom Wat Nong Wang nog steeds de nuttigste tempelstop is in centraal Khon Kaen."
+    }
+  },
+  "tags": [
+    "tempel",
+    "khon kaen",
+    "isaan",
+    "oever van het meer",
+    "thailand"
+  ],
+  "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=Wat%20Nong%20Wang%20Khon%20Kaen%20Thailand",
+  "best_time": "ochtend of late namiddag",
+  "duration_hours": 1.5,
+  "enhanced_description": "Wat Nong Wang hoort bovenaan elk Khon Kaen-reisschema omdat het de stad zowel een zichtbaar religieus baken als een praktisch overzicht van het centrum biedt. De waarde ligt niet alleen in de tempel zelf, maar in hoe gemakkelijk het aansluit bij Bueng Kaen Nakhon en de omliggende stedelijke kern.\n\nDit is de tempel om te prioriteren als je één essentiële religieuze stop in de stad wilt. In plaats van een lange tempellijst op te stellen, gebruik Wat Nong Wang als het belangrijkste anker en beslis dan of de reis nog een contrastrijke stop nodig heeft, zoals Wat Thung Setthi.",
+  "detailed_history": "De Tourism Authority of Thailand presenteert Wat Nong Wang nog steeds als een van de kernbezienswaardigheden van Khon Kaen. Dat is een verstandige keuze omdat het de tempel is die het nauwst verbonden is met het meerbeeld van de stad en de publieke skyline.",
+  "visitor_experience": "Verwacht een actieve tempel in plaats van een museumstuk. Het beste bezoek is rustig, respectvol en gecombineerd met tijd rond het meer, in plaats van gehaast in een tempelhopcircuit.",
+  "best_time_to_visit": {
+    "time_of_day": "Ochtend of late namiddag",
+    "duration": "1 tot 1,5 uur",
+    "crowd_level": "Gemiddeld en drukst rond de belangrijkste lokale bezoekuren"
+  },
+  "practical_info": {
+    "how_to_get_there": "Gemakkelijk bereikbaar vanaf de oever van het meer en het centrale Khon Kaen per korte lokale rit of te voet als je al bij Bueng Kaen Nakhon bent.",
+    "nearby_attractions": "Bueng Kaen Nakhon, wandelingen langs de oever van de stad en centrale eetgebieden.",
+    "food_options": "Beter om rond het bredere stadscentrum te eten voor of na de tempelstop.",
+    "shopping": "Houd dit bezoek gericht op de tempel in plaats van souvenirjacht."
+  },
+  "insider_tips": [
+    "Beschouw het als onderdeel van de meersequentie, niet als een standalone lang bezoek.",
+    "Kleed je respectvol en houd het bezoek rustig, zelfs als de tempel druk is.",
+    "Eén sterke tempel is genoeg voor de meeste eerste stadsreisschema's."
+  ],
+  "verified_note": "Samenvatting gebaseerd op bronnen van de Tourism Authority of Thailand. Exacte gebedactiviteit en toegang tot de bovenste uitzichtniveaus kunnen lokaal variëren.",
+  "cultural_significance": "Wat Nong Wang blijft de duidelijkste tempelbezienswaardigheid van Khon Kaen en een van de gemakkelijkste manieren waarop de stad zijn religieuze identiteit uitdrukt binnen de stedelijke kern.",
+  "contentSources": [
+    {
+      "name": "10 Things to Do in Khon Kaen",
+      "url": "https://www.tourismthailand.org/Articles/10-things-to-do-in-khon-kaen"
+    },
+    {
+      "name": "Khon Kaen E-Brochure",
+      "url": "https://tourismthailand.my/ebook/E-Brochure%20Khon%20kaen%20%28En%29.pdf"
+    }
+  ]
+}

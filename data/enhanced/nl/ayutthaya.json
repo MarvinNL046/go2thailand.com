@@ -1,0 +1,838 @@
+{
+  "id": 5,
+  "slug": "ayutthaya",
+  "name": {
+    "en": "Ayutthaya",
+    "nl": "Ayutthaya",
+    "ja": "アユタヤ",
+    "ko": "아유타야",
+    "th": "อยุธยา",
+    "de": "Ayutthaya",
+    "fr": "Ayutthaya",
+    "ru": "Ayutthaya",
+    "zh": "Ayutthaya"
+  },
+  "region": "Centraal",
+  "province": "Ayutthaya",
+  "description": {
+    "en": "Historic former capital, UNESCO World Heritage, with ancient temples and ruins.",
+    "nl": "Historische oude hoofdstad, UNESCO Werelderfgoed, met oude tempels en ruïnes.",
+    "ja": "歴史的な旧首都、ユネスコ世界遺産。古代寺院と遺跡が点在。",
+    "ko": "역사적인 옛 수도, 유네스코 세계문화유산. 고대 사원과 유적이 산재.",
+    "th": "อดีตราชธานีของไทย มีวัดโบราณและโบราณสถานที่งดงามมากมาย เป็นมรดกโลกของยูเนสโก",
+    "de": "Historische ehemalige Hauptstadt, UNESCO-Weltkulturerbe, mit antiken Tempeln und Ruinen.",
+    "fr": "Ancienne capitale historique, site du patrimoine mondial de l'UNESCO, avec des temples antiques et des ruines.",
+    "ru": "Историческая бывшая столица, объект Всемирного наследия ЮНЕСКО, с древними храмами и руинами.",
+    "zh": "历史上曾经的首都，联合国教科文组织世界遗产，拥有古老的寺庙和遗址。"
+  },
+  "population": 75200,
+  "highlights": [
+    "Ayutthaya Historisch Park",
+    "Wat Mahathat",
+    "Wat Chaiwatthanaram"
+  ],
+  "location": {
+    "lat": 14.3532,
+    "lng": 100.5689
+  },
+  "image": "/images/cities/ayutthaya/ayutthaya-historical-park.webp",
+  "seo": {
+    "metaTitle": {
+      "en": "Ayutthaya Thailand — Ancient Capital Guide 2026",
+      "nl": "Ontdek Ayutthaya | Wat te doen in Ayutthaya?",
+      "ja": "アユタヤ タイ — 古都観光ガイド 2026",
+      "ko": "아유타야 태국 — 고대 수도 관광 가이드 2026",
+      "th": "อยุธยา ประเทศไทย — คู่มือท่องเที่ยวฉบับสมบูรณ์ 2026",
+      "de": "Ayutthaya, Thailand – Leitfaden zur alten Hauptstadt 2026",
+      "fr": "Ayutthaya, Thaïlande — Guide de l’ancienne capitale 2026",
+      "ru": "Ayutthaya, Таиланд — Руководство по древней столице 2026",
+      "zh": "Ayutthaya, 泰国 — 古都指南 2026"
+    },
+    "metaDescription": {
+      "en": "Plan your visit to Ayutthaya, Thailand's ancient capital. Temple ruins, historical parks, river cruises & day trip tips from Bangkok. Updated 2026.",
+      "nl": "Jouw gids voor Ayutthaya, Thailand – tips, highlights, eten, hotels.",
+      "ja": "タイの古都アユタヤへの旅行を計画。寺院遺跡、歴史公園、リバークルーズ、バンコクからの日帰りツアー情報。2026年更新。",
+      "ko": "태국의 고대 수도 아유타야 여행을 계획하세요. 사원 유적, 역사 공원, 리버 크루즈, 방콕 당일치기 정보. 2026년 업데이트.",
+      "th": "คู่มือท่องเที่ยวอยุธยา ประเทศไทย — สถานที่ท่องเที่ยว อาหาร ที่พัก และเคล็ดลับ อัปเดต 2026",
+      "de": "Planen Sie Ihren Besuch in Ayutthaya, der alten Hauptstadt Thailands. Tempelruinen, historische Parks, Flusskreuzfahrten und Tipps für Tagestouren von Bangkok. Aktualisiert 2026.",
+      "fr": "Planifiez votre visite à Ayutthaya, l'ancienne capitale de la Thaïlande. Ruines de temples, parcs historiques, croisières sur le fleuve et conseils pour des excursions d'une journée au départ de Bangkok. Mis à jour 2026.",
+      "ru": "Планируйте посещение Ayutthaya, древней столицы Таиланда. Развалины храмов, исторические парки, речные круизы и советы по однодневным поездкам из Бангкока. Обновлено 2026.",
+      "zh": "计划前往 Ayutthaya，泰国的古都。寺庙遗址、历史公园、河上巡游，以及从曼谷出发的一日游小贴士。更新至 2026 年。"
+    }
+  },
+  "categories": {
+    "food": {
+      "en": "Best restaurants and street food in Ayutthaya",
+      "nl": "Beste restaurants en streetfood in Ayutthaya",
+      "ja": "アユタヤのおすすめレストランとストリートフード",
+      "ko": "아유타야 추천 레스토랑과 길거리 음식",
+      "th": "ร้านอาหารและสตรีทฟู้ดที่ดีที่สุดในอยุธยา"
+    },
+    "hotels": {
+      "en": "Top hotels in Ayutthaya | Tips & deals",
+      "nl": "Beste hotels in Ayutthaya | Tips & aanbiedingen",
+      "ja": "アユタヤのおすすめホテル | ヒント＆お得情報",
+      "ko": "아유타야 추천 호텔 | 팁 & 특가",
+      "th": "โรงแรมแนะนำในอยุธยา | เคล็ดลับและดีล"
+    },
+    "attractions": {
+      "en": "Top attractions in Ayutthaya",
+      "nl": "Top bezienswaardigheden in Ayutthaya",
+      "ja": "アユタヤの人気観光スポット",
+      "ko": "아유타야 인기 관광 명소",
+      "th": "สถานที่ท่องเที่ยวยอดนิยมในอยุธยา"
+    }
+  },
+  "tags": [
+    "centraal",
+    "ayutthaya",
+    "thailand",
+    "reizen",
+    "toerisme",
+    "gids"
+  ],
+  "enhanced_description": "Ayutthaya komt het beste tot zijn recht als je het behandelt als een erfstad met verschillende clusters in plaats van als één compact oud stadje. Het historische eiland herbergt de dichtste concentratie van de belangrijkste ruïnes, maar sommige van de meest waardevolle stops liggen buiten die eerste lus: Wat Chaiwatthanaram aan de overkant van de rivier voor het late licht, Wat Ratchaburana in de centrale kern, en Bang Pa-In verder naar het zuiden als je een contrast wilt tussen paleis en tuinen tegenover bakstenen ruïnes.\n\nWat Ayutthaya sterker maakt dan een simpele dagtrip vanuit Bangkok, is de manier waarop geschiedenis, rivieraardrijkskunde en levende lokale cultuur nog steeds overlappen. UNESCO-geregistreerde ruïnes en musea van het Ministerie van Schone Kunsten zijn hier belangrijk, maar net zozeer de roti sai mai uit langlopende specialistische winkels, kommen bootnoedels, riviergarnalenrestaurants en rustigere tempelcomplexen waar de eredienst nog actief aanvoelt in plaats van in scène gezet voor bezoekers.\n\nHet beloont ook praktische planning meer dan afvinkgedrag. Begin tempelzware ochtenden vroeg, groepeer bezienswaardigheden per zone en laat ruimte voor een rustiger museum- of eetblok zodra de hitte opbouwt. Veel eerste bezoekers haasten zich door te veel ruïnes midden op de dag; Ayutthaya is beter als je één of twee sterke clusters, één maaltijd die de reis waard is, en één stop aan de rivier laat in de middag de dag vormgeven.",
+  "hidden_gems": [
+    {
+      "name": "Wat Ratchaburana",
+      "story": "Wat Ratchaburana wordt vaak samengevoegd tot een snelle fotostop bij Mahathat, maar het verdient meer dan dat. De gerestaureerde prang, de cryptgeschiedenis en de ligging nabij de historische kern maken het een van de beste plekken om te begrijpen hoe de grote ruïnes van Ayutthaya met elkaar verbonden zijn in plaats van als geïsoleerde ansichtkaartstops.",
+      "how_to_find": "Het ligt net ten oosten van Wat Mahathat binnen het centrale historische eiland, dus het is het makkelijkst te bezoeken te voet of per fiets als onderdeel van een lus door de centrale ruïnes.",
+      "best_time": "Ga vroeg in de ochtend, ideaal voor de golf van toeristenbussen de centrale parkomgeving bereikt.",
+      "local_insights": [
+        "Dit is een van de beste plekken om later op de dag te combineren met het museum, omdat de context van het schattenverhaal doorgaat.",
+        "Het is sterker als een langzamere architectuurstop dan als een vijf-minuten toevoeging."
+      ]
+    },
+    {
+      "name": "Wat Phu Khao Thong",
+      "story": "Wat Phu Khao Thong biedt je een opener, minder compact Ayutthaya-landschap dan de ruïnes op het centrale eiland. De grote witte chedi en de bredere omgeving maken het anders aanvoelen dan de dichtere bakstenen-kernmonumenten en zijn vooral nuttig als je één ruïne wilt die ruimtelijk expansief aanvoelt.",
+      "how_to_find": "Ga noordwestelijk van het historische eiland per tuk-tuk, fiets of privévervoer in plaats van te verwachten dat het netjes past in een centrale wandelroute.",
+      "best_time": "Ochtend is het beste voor zachter licht en een koelere benadering.",
+      "local_insights": [
+        "Dit werkt beter als je het plant als een eigen stop in plaats van het in een lunchpauze op het centrale eiland te proppen.",
+        "Het is een van de makkelijkere plekken om de randen van het oude Ayutthaya te voelen buiten de meest gefotografeerde kern."
+      ]
+    },
+    {
+      "name": "Wat Na Phra Men",
+      "story": "Wat Na Phra Men is een van de meest nuttige rustigere tempelstops in Ayutthaya omdat het nog steeds aanvoelt als een actieve tempel in de eerste plaats en een bezienswaardigheid in de tweede. Het biedt ook een nuttig contrast met de ruïne-zware circuit, vooral voor reizigers die ten minste één site willen die levende religieuze continuïteit toont in plaats van alleen archeologische resten.",
+      "how_to_find": "Het ligt aan de overkant van de gracht ten noorden van het oude paleisgebied en is het makkelijkst te bereiken per tuk-tuk, fiets of korte rit vanaf de museumkant van de stad.",
+      "best_time": "Laat in de ochtend of laat in de middag voelt meestal rustiger dan de drukste uren in het centrale park.",
+      "local_insights": [
+        "Kleed je voor een actieve tempel, niet alleen voor een ruïne-fotostop.",
+        "Dit combineert natuurlijk met Chao Sam Phraya National Museum en Wat Lokayasutharam."
+      ]
+    },
+    {
+      "name": "Chao Phrom Market",
+      "story": "Chao Phrom Market is belangrijk omdat het laat zien hoe Ayutthaya eruitziet buiten het camerahoekje van de erfzone. Het is nuttig voor marktsnacks, dagelijkse producten en een duidelijker gevoel van lokale beweging rond het station en de brugkant van de stad.",
+      "how_to_find": "Zoek nabij het Chao Phrom-gebied dicht bij het commerciële district aan de stationkant in plaats van binnen het centrale historische park.",
+      "best_time": "Ochtend is het beste als je de markt wilt zien functioneren als een echte lokale winkelstop.",
+      "local_insights": [
+        "Dit is beter voor oriëntatie, snacks en lokaal ritme dan voor souvenirshoppen.",
+        "Het werkt vooral goed voor of na treinreizen in plaats van als een speciale omweg dwars door de stad."
+      ]
+    }
+  ],
+  "authentic_experiences": [
+    {
+      "activity": "Fiets tussen de tempelclusters van het historische eiland",
+      "story": "Ayutthaya is een van Thailands meest intuïtieve erfsteden voor langzaam fietsen omdat het centrale eiland je laat bewegen tussen grote ruïnes, kleinere tempelresten en eetpauzes zonder de dag om te zetten in een lange transferoefening. Het is de duidelijkste manier om te voelen hoe de oude hoofdstad was aangelegd over wegen, grachten en waterwegen.",
+      "cultural_significance": "Fietsen bespaart hier niet alleen geld; het helpt bezoekers om Ayutthaya te lezen als een stedelijk landschap in plaats van als een reeks losse kaartjesloketten.",
+      "how_to_participate": "Huur een fiets nabij het station, de oude stad of je hotel en bouw een realistische halve-dagroute in plaats van proberen elke grote ruïne in één haal te dekken.",
+      "insights": [
+        "Vroege starts wegen zwaarder dan gemiddelde snelheid omdat schaduw snel schaars wordt.",
+        "Dit is de sterkste zelfgeleide optie als je je voornamelijk richt op het historische eiland."
+      ],
+      "href": "/city/ayutthaya/top-10-attractions/",
+      "cta_label": "Plan het Ayutthaya-bezienswaardigheden-circuit"
+    },
+    {
+      "activity": "Maak een rivierlus rond de oude hoofdstad in het gouden uur",
+      "story": "De rivieren van Ayutthaya maken deel uit van de identiteit van de stad, niet alleen een achtergrond. Een korte riviercruise of privé longtail-lus maakt de oude hoofdstad makkelijker te begrijpen, vooral als tempelsilhouetten, veerpontoversteken en rivieroevergemeenschappen allemaal in hetzelfde kader zitten.",
+      "cultural_significance": "De stad groeide door rivierhandel en rivierverdediging, dus Ayutthaya vanaf het water zien herstelt een deel van het perspectief dat tempelhoppen over land kan missen.",
+      "how_to_participate": "Gebruik een gerenommeerde lokale operator voor een korte cruise laat in de middag, of regel een simpele lus die prioriteit geeft aan uitzichten op Wat Chaiwatthanaram en de erfzone aan de rivier.",
+      "insights": [
+        "Dit is het sterkst laat op de dag, niet om de middag.",
+        "Het vult een ruïnedag het beste aan als reset, niet als vervanging voor de kernsites."
+      ],
+      "href": "/city/ayutthaya/attractions/",
+      "cta_label": "Ontdek meer Ayutthaya-bezienswaardigheden"
+    },
+    {
+      "activity": "Behandel roti sai mai en bootnoedels als deel van de bestemming, niet alleen als snacks",
+      "story": "De eetcultuur van Ayutthaya wordt veel memorabeler als je actief prioriteit geeft aan de specifieke specialiteiten in plaats van te vallen op generieke Thaise restaurantmenu's. Roti sai mai weerspiegelt de lange moslimvoedselerfgoed van de stad, terwijl bootnoedels een van de duidelijkste alledaagse gerechten blijven die verbonden zijn met de lokale identiteit van Ayutthaya.",
+      "cultural_significance": "Dit zijn geen willekeurige toeristenvoedsel. Ze weerspiegelen handelsroutes, gemeenschapsgeschiedenis en het soort verweven eetcultuur dat de oude hoofdstad kosmopolitischer maakte dan veel korte bezoeken suggereren.",
+      "how_to_participate": "Bouw één eetstop in het midden van een bezichtigingsdag en één aan het eind van de dag in, in plaats van je alleen te verlaten tot wat het dichtst bij je laatste ruïne ligt.",
+      "insights": [
+        "Kleine kommen bootnoedels zijn bedoeld om in meerdere te eten, niet als één oversized maaltijd.",
+        "Roti sai mai is het waard om vers te kopen bij gevestigde specialistische winkels in plaats van als een gehaaste roadside toevoeging."
+      ],
+      "href": "/city/ayutthaya/top-10-restaurants/",
+      "cta_label": "Bekijk de Ayutthaya-eetselecties"
+    },
+    {
+      "activity": "Combineer de ruïnes met Chao Sam Phraya National Museum",
+      "story": "De combinatie van museum en ruïnes is een van de meest onderschatte ervaringen in Ayutthaya omdat het bakstenen schillen historisch leesbaar maakt. Artefacten, sculptuurfragmenten en objecten uit de Ayutthaya-periode zien na een bezoek aan de belangrijkste tempels geeft de stad veel meer diepte dan een alleen-foto-circuit.",
+      "cultural_significance": "De ruïnes van Ayutthaya krijgen het meeste betekenis als archeologische resten en museumcontext samen gelezen worden in plaats van apart.",
+      "how_to_participate": "Bezoek eerst één of twee kern tempels, ga dan naar het museum voor de heetste middaguren of na de lunch.",
+      "insights": [
+        "Dit is een van de makkelijkste manieren om een overnachting substantiëler te laten voelen dan een standaard dagtrip vanuit Bangkok.",
+        "Wat Mahathat en Wat Ratchaburana zijn vooral goede stops om voor of na het museum te combineren."
+      ],
+      "href": "/city/ayutthaya/attractions/chao-sam-phraya-museum/",
+      "cta_label": "Lees de museumgids"
+    }
+  ],
+  "foodie_adventures": [
+    {
+      "dish": "Bootnoedels",
+      "location": "Pa Lek Boat Noodles",
+      "story": "De kleine-kommen bootnoedels van Ayutthaya zijn nog steeds een van de meest nuttige redenen op gerechtniveau om te blijven voor een echte maaltijd in plaats van alleen tempelfoto's te maken. Pa Lek is een sterke benchmark omdat het formaat eenvoudig, lokaal en makkelijk in te passen in een bezichtigingsdag blijft.",
+      "where_to_find": "Ga naar Pa Lek Boat Noodles op Bang-Ain Road in het Tha Wasukri-gebied voor een van de bekendste klassieke kommen van de stad.",
+      "price_range": "Budget",
+      "ordering_tips": [
+        "Bestel meer dan één kom als je een echte maaltijd wilt; de porties zijn bewust klein.",
+        "Dit is een betere lunch- of laat-ochtendstop dan een zware diner aan het eind van de dag."
+      ],
+      "href": "/city/ayutthaya/top-10-restaurants/",
+      "cta_label": "Bekijk de Ayutthaya-restaurantgids"
+    },
+    {
+      "dish": "Roti sai mai",
+      "location": "Roti Sai Mai Abeedeen-Pranom Sangaroon",
+      "story": "Roti sai mai is een van de duidelijkste kenmerkende zoetigheden van Ayutthaya en een van de makkelijkste manieren om de moslimculinaire invloed van de stad te zien die nog steeds aanwezig is in de dagelijkse handel. De beste versies voelen licht, vers en gemaakt voor onmiddellijke consumatie in plaats van als een verpakt souvenir-naspijs.",
+      "where_to_find": "Gebruik een van de gevestigde specialistische winkels rond U Thong Road en de kant van Ayutthaya Hospital, inclusief Abeedeen-Pranom Sangaroon.",
+      "price_range": "Budget snack",
+      "ordering_tips": [
+        "Koop het vers en eet wat op dezelfde dag in plaats van het alleen als takeaway te behandelen.",
+        "Als er verschillende kleuren beschikbaar zijn, kies dan voor versheid boven nieuwigheid."
+      ],
+      "href": "/city/ayutthaya/top-10-restaurants/",
+      "cta_label": "Bekijk de Ayutthaya-restaurantgids"
+    },
+    {
+      "dish": "Kolengrill riviergarnalen",
+      "location": "Phae Krung Kao en Baan Pomphet",
+      "story": "Grote riviergarnalen zijn een van de sterkste uitspattingsgerechten van Ayutthaya en een van de duidelijkste redenen om ten minste één echte zit-maaltijd te plannen. De betere versies gaan over rokerig grillen, zoet vlees en een sterke rivierkantsetting in plaats van fine-dining theater.",
+      "where_to_find": "Kijk naar rivierkantrestaurants zoals Phae Krung Kao of Baan Pomphet als je een bestemmingsmaaltijd wilt in plaats van een snelle tempelpauze.",
+      "price_range": "Middenklasse tot uitspatting",
+      "ordering_tips": [
+        "Dit is het waard om te bestellen als een gedeeld tafelgerecht, niet als een gehaaste solo toevoeging.",
+        "Lunch of vroeg diner werkt beter dan de drukste late-avondslot als uitzichten ertoe doen."
+      ],
+      "href": "/city/ayutthaya/top-10-restaurants/",
+      "cta_label": "Bekijk de Ayutthaya-restaurantgids"
+    },
+    {
+      "dish": "Hoi tod",
+      "location": "Hoi Tod Singha Buri",
+      "story": "Knisperende oesteromelet-stijl hoi tod voegt een nuttig straatvoedselcontrast toe aan de noedel- en riviergarnalen-specialiteiten van Ayutthaya. Het is een van de beste keuzes als je een duidelijk Thais eetstop wilt die nog steeds casual, lokaal en snel aanvoelt.",
+      "where_to_find": "Hoi Tod Singha Buri is een sterke avondmarkt-stijl keuze binnen de bekendere lokale eetcircuit van Ayutthaya.",
+      "price_range": "Budget tot laag middenklasse",
+      "ordering_tips": [
+        "Ga als je zin hebt in een heet, gegrild gerecht in plaats van een lichte snack.",
+        "Dit is het sterkst als deel van een bredere grazende avond, niet als het enige wat je de hele nacht eet."
+      ],
+      "href": "/city/ayutthaya/top-10-restaurants/",
+      "cta_label": "Bekijk de Ayutthaya-restaurantgids"
+    }
+  ],
+  "local_insights": [
+    {
+      "observation": "Ayutthaya kan compact lijken op een kaart, maar de belangrijke bezienswaardigheden liggen verspreid over verschillende planningszones.",
+      "tip": "Denk in termen van ruïnes op het centrale eiland, zuidoostelijke tempelstops, zonsondergangsbezienswaardigheden aan de rivier en de kant van Bang Pa-In in plaats van één reusachtige wandellus.",
+      "surprise": "Veel eerste bezoekers onderschatten hoezeer transport-efficiëntie de kwaliteit van de dag beïnvloedt."
+    },
+    {
+      "observation": "De beste bezichtigingstijden van de stad zijn vroeger dan veel bezoekers verwachten.",
+      "tip": "Gebruik het koelste deel van de ochtend voor open ruïnecomplexen en bewaar museumtijd, lunch of hotelrust voor het hetere midden van de dag.",
+      "surprise": "Ayutthaya voelt veel kalmer en fotogenieker aan voor de hoofdgolf van dagtrips vanuit Bangkok zich vestigt."
+    },
+    {
+      "observation": "Niet elk tempelbezoek hier levert hetzelfde soort ervaring op.",
+      "tip": "Meng beroemde ruïnes met ten minste één actieve tempel of museumstop zodat de stad niet vervlakt tot herhaalde baksteen-en-chedi taferelen.",
+      "surprise": "Eén rustigere tempel zoals Wat Na Phra Men kan meer diepte toevoegen dan een gehaaste extra ruïne."
+    },
+    {
+      "observation": "Eten is een van de makkelijkste manieren om Ayutthaya distinct te laten voelen van een pure erfstop.",
+      "tip": "Prioriteer bootnoedels, roti sai mai en één rivier-prime maaltijd in plaats van te vallen op generieke Thaise menu's nabij de drukste kaartjesloketten.",
+      "surprise": "De eetidentiteit van de stad is sterker en specifieker dan veel korte itineraries suggereren."
+    },
+    {
+      "observation": "Een overnachting verandert het ritme van Ayutthaya meer dan de meeste reizigers verwachten.",
+      "tip": "Als je schema het toelaat, blijf één nacht zodat je de ruïnes vroeg of laat kunt zien zonder vast te zitten aan de terugreis vanuit Bangkok.",
+      "surprise": "Ayutthaya voelt vaak coherenter aan als een een-nacht erfbreak dan als een gehaaste daglus."
+    }
+  ],
+  "seasonal_secrets": {
+    "best_times": {
+      "November-February": "Meestal de makkelijkste periode voor tempelcircuits, fietsen en uitstapjes naar de kant van Bang Pa-In omdat hitte en vochtigheid beter te managen zijn.",
+      "June-October": "Groenere scenery en zachtere menigtes kunnen Ayutthaya kalmer laten voelen, maar middagregen en gladde grond wegen zwaarder voor ruïne-zware dagen."
+    },
+    "local_festivals": [
+      "Loy Krathong - meestal november",
+      "Songkran - 13-15 april"
+    ],
+    "seasonal_foods": {
+      "cool_season": "Koelere avonden zijn vooral goed voor rivierfront diners en marktzwerven na de ruïnes.",
+      "year_round": "Roti sai mai en bootnoedels zijn geen seizoensredenen om een reis uit te stellen; ze werken in elke maand."
+    },
+    "insider_tips": {
+      "hot_season": "In maart tot mei, bouw de dag rond een heel vroege start en plan schaduw of airco tegen de middag.",
+      "wet_season": "Neem lichte regenbescherming mee en reken op wat flexibiliteit als je voornamelijk per fiets reist.",
+      "festival_periods": "Boek sleutel rivierkant hotels en avonddiners eerder als je verblijf overlapt met Loy Krathong of feestweekends."
+    }
+  },
+  "budget_reality": {
+    "daily_costs": {
+      "breakfast": "Lokale ontbijtstallen en marktnoedels houden de eerste maaltijd van de dag laag in kosten.",
+      "lunch": "Casuele noedelwinkels en rijst-met-curry lunches zijn meestal de makkelijkste manier om binnen budget te blijven.",
+      "dinner": "Diner blijft matig als je lokaal eet, maar rivierkant maaltijden en hotel dineren kunnen de dag in een hogere uitgavenklasse duwen."
+    },
+    "money_saving_tricks": [
+      "Gebruik fietsen voor het centrale eiland in plaats van herhaalde korte tuk-tuk hops binnen hetzelfde cluster te betalen.",
+      "Neem de trein vanuit Bangkok als gemak minder belangrijk is dan kosten.",
+      "Koop alleen extra tempel- of transport toevoegingen als ze passen in de route die je echt plant."
+    ],
+    "where_to_splurge": [
+      "Een rivierfront maaltijd of één sterke boutique-hotel nacht voegt meestal meer waarde toe dan zwaar uitgeven aan transport de hele dag."
+    ],
+    "hidden_costs": [
+      "Tuk-tuk charters tussen verspreide bezienswaardigheden kunnen sneller oplopen dan eerste bezoekers verwachten.",
+      "Koude dranken, museumkaartjes en transport naar Bang Pa-In veranderen vaak een goedkoop lijkende dagtrip in een middenklasse uitgave."
+    ]
+  },
+  "top_attractions": [
+    {
+      "rank": 1,
+      "name": "Ayutthaya Historical Park",
+      "description": "Het UNESCO-geregistreerde historische park vormt de ruggengraat van elke Ayutthaya-reis en brengt de kern ruïneclusters van de oude hoofdstad samen over het eiland en nabije rivierranden.",
+      "location": "Historisch eiland en omliggende erfzones",
+      "entrance_fee": "Grote betaalde sites zijn typisch 50 THB per stuk, met een gecombineerd ticket vaak beschikbaar voor de belangrijkste ruïnes",
+      "highlights": [
+        "UNESCO Werelderfgoed site",
+        "Beste eerste oriëntatie",
+        "Werkt goed per fiets"
+      ],
+      "href": "/city/ayutthaya/attractions/ayutthaya-historical-park/",
+      "cta_label": "Lees de gids voor het Historisch Park"
+    },
+    {
+      "rank": 2,
+      "name": "Wat Mahathat",
+      "description": "De bekendste ruïne van Ayutthaya blijft essentieel voor eerste bezoekers vanwege de centrale rol in de oude hoofdstad en het beroemde Boeddhakopje in boomwortels.",
+      "location": "Centraal historisch eiland",
+      "entrance_fee": "Typisch 50 THB voor buitenlandse bezoekers",
+      "highlights": [
+        "Iconisch Boeddhakopje in boomwortels",
+        "Historisch koninklijk klooster",
+        "Makkelijk te combineren met Wat Ratchaburana"
+      ],
+      "href": "/city/ayutthaya/attractions/wat-mahathat/",
+      "cta_label": "Lees de gids voor Wat Mahathat"
+    },
+    {
+      "rank": 3,
+      "name": "Wat Chaiwatthanaram",
+      "description": "Het rivierkant Khmer-stijl complex is een van de meest visueel complete grote tempels van Ayutthaya en een van de sterkste stops laat in de middag in de stad.",
+      "location": "Westelijke oever van de Chao Phraya River",
+      "entrance_fee": "Typisch 50 THB voor buitenlandse bezoekers",
+      "highlights": [
+        "Rivierkant ligging",
+        "Sterke zonsondergangsfeer",
+        "Groot gerestaureerd prang complex"
+      ],
+      "href": "/city/ayutthaya/attractions/wat-chaiwatthanaram/",
+      "cta_label": "Lees de gids voor Wat Chaiwatthanaram"
+    },
+    {
+      "rank": 4,
+      "name": "Wat Phra Si Sanphet",
+      "description": "De voormalige koninklijke tempel is een van de duidelijkste headline stops in Ayutthaya om de schaal en ceremoniële importantie van de hoofdstad in het hof-tijdperk te begrijpen.",
+      "location": "Oude paleiskant van het historische eiland",
+      "entrance_fee": "Typisch 50 THB voor buitenlandse bezoekers",
+      "highlights": [
+        "Drie kenmerkende chedi's",
+        "Koninklijke tempelomgeving",
+        "Gemakkelijk te combineren met nabijgelegen paleisresten"
+      ],
+      "href": "/city/ayutthaya/attractions/wat-phra-si-sanphet/",
+      "cta_label": "Lees de gids over Wat Phra Si Sanphet"
+    },
+    {
+      "rank": 5,
+      "name": "Wat Yai Chai Mongkhon",
+      "description": "Dit actieve tempelcomplex geeft Ayutthaya een ander ritme dan de centrale ruïnekern, met een nog steeds levendige religieuze sfeer en een van de steilste chedi-beklimmingen in de stad.",
+      "location": "Zuidoostelijk van het historische eiland",
+      "entrance_fee": "Toegang tot de tempel tegen betaling; controleer de actuele prijs aan de kassa",
+      "highlights": [
+        "Actief tempelcomplex",
+        "Grote chedi en rijen zittende Boeddha's",
+        "Nuttig contrast met de centrale ruïnes"
+      ],
+      "href": "/city/ayutthaya/attractions/wat-yai-chai-mongkhon/",
+      "cta_label": "Lees de gids over Wat Yai Chai Mongkhon"
+    },
+    {
+      "rank": 6,
+      "name": "Wat Ratchaburana",
+      "description": "Een van de meest lonende secundaire hoofdruïnes, vooral voor reizigers die meer architecturale diepgang en sterker historisch kader willen dan de snelste fototocht biedt.",
+      "location": "Naast Wat Mahathat op het historische eiland",
+      "entrance_fee": "Normaal 50 THB voor buitenlandse bezoekers",
+      "highlights": [
+        "Belangrijke prang",
+        "Belangrijk historisch en schatcontext",
+        "Goede museumcombinatie"
+      ],
+      "href": "/city/ayutthaya/attractions/wat-ratchaburana/",
+      "cta_label": "Lees de gids over Wat Ratchaburana"
+    },
+    {
+      "rank": 7,
+      "name": "Bang Pa-In Palace",
+      "description": "Bang Pa-In voegt een koninklijke tuinen- en architectuurdetour toe die zinvol is zodra je meer wilt dan bakstenen ruïnes en tempels tijdens een verblijf in Ayutthaya.",
+      "location": "Bang Pa-In District, ten zuiden van Ayutthaya stad",
+      "entrance_fee": "Controleer de actuele paleisentoegang en kledingvoorschriften voor je bezoek",
+      "highlights": [
+        "Thaise, Chinese en Europese beïnvloede architectuur",
+        "Gronden van het koninklijke zomerpaleis",
+        "Beste als een halve dag uitstap"
+      ],
+      "href": "/city/ayutthaya/attractions/bang-pa-in-palace/",
+      "cta_label": "Lees de gids over Bang Pa-In"
+    },
+    {
+      "rank": 8,
+      "name": "Chao Sam Phraya National Museum",
+      "description": "Het museum is een van de belangrijkste ondersteunende stops in Ayutthaya omdat het echte context geeft aan wat je ziet in de ruïneverzamelingen.",
+      "location": "Noordkant van het historische eiland nabij het paleisgebied",
+      "entrance_fee": "Museumentree geldt; controleer het actuele tarief en openingsdag voor je bezoek",
+      "highlights": [
+        "Teruggevonden artefacten uit Ayutthaya",
+        "Beste stop voor historisch context",
+        "Uitstekend te combineren met nabijgelegen ruïnes"
+      ],
+      "href": "/city/ayutthaya/attractions/chao-sam-phraya-museum/",
+      "cta_label": "Lees de gids over het Chao Sam Phraya Museum"
+    }
+  ],
+  "top_restaurants": [
+    {
+      "rank": 1,
+      "name": "Pa Lek Boat Noodles",
+      "description": "Een van de meest verdedigbare alledaagse eetstops in Ayutthaya als je wilt dat de stad lokaal specifiek aanvoelt in plaats van generiek Thais.",
+      "cuisine_type": "Bootnoedels",
+      "price_range": "Budget",
+      "location": "Tha Wasukri-gebied",
+      "highlights": [
+        "MICHELIN Bib Gourmand",
+        "Klassiek formaat in kleine kommen",
+        "Beste voor een gerichte gerechtstop"
+      ],
+      "href": "/city/ayutthaya/top-10-restaurants/",
+      "cta_label": "Bekijk de volledige Ayutthaya-restaurantgids"
+    },
+    {
+      "rank": 2,
+      "name": "Phae Krung Kao",
+      "description": "Een sterke rivierklassieker als je Centrale Thaise gerechten en Ayutthaya-riviergarnalen wilt in een setting die nog steeds geworteld voelt in de plaats.",
+      "cuisine_type": "Thais",
+      "price_range": "Middenklasse",
+      "location": "Ho Rattanachai rivieroever",
+      "highlights": [
+        "MICHELIN vermeld",
+        "Terras aan de rivier",
+        "Bekend om riviergarnalen"
+      ],
+      "href": "/city/ayutthaya/top-10-restaurants/",
+      "cta_label": "Bekijk de volledige Ayutthaya-restaurantgids"
+    },
+    {
+      "rank": 3,
+      "name": "Baan Mai Rim Nahm",
+      "description": "Een van de meest nuttige keuzes als je een Ayutthaya-maaltijd wilt die zowel lokaal geworteld als iets bewuster aanvoelt dan een casual noedelstop.",
+      "cuisine_type": "Thais",
+      "price_range": "Middenklasse",
+      "location": "U Thong Road-zijde",
+      "highlights": [
+        "MICHELIN vermeld",
+        "Sterke reputatie voor lokale ingrediënten",
+        "Goede stap omhoog van een casual lunch"
+      ],
+      "href": "/city/ayutthaya/top-10-restaurants/",
+      "cta_label": "Bekijk de volledige Ayutthaya-restaurantgids"
+    },
+    {
+      "rank": 4,
+      "name": "Baan Pomphet",
+      "description": "Een sterke Ayutthaya-dinerbestemming als rivierzichten, gegrilde garnalen en een meer gepolijste erfgoednabije setting voor je tellen.",
+      "cuisine_type": "Thais",
+      "price_range": "Middenklasse tot luxe",
+      "location": "Pom Phet rivieroever",
+      "highlights": [
+        "MICHELIN vermeld",
+        "Rivierfront hotelrestaurant",
+        "Beste om van tevoren te reserveren voor diner"
+      ],
+      "href": "/city/ayutthaya/top-10-restaurants/",
+      "cta_label": "Bekijk de volledige Ayutthaya-restaurantgids"
+    },
+    {
+      "rank": 5,
+      "name": "sala ayutthaya Eatery and Bar",
+      "description": "Een nuttige riviergerichte maaltijd als je sfeer en een sterk tempelzicht wilt, vooral voor lunch, zonsondergang of een meer hotel-gepolijst diner.",
+      "cuisine_type": "Thais en westers",
+      "price_range": "Middenklasse tot luxe",
+      "location": "U Thong Road rivieroever",
+      "highlights": [
+        "Groots rivierzicht",
+        "Goed voor zonsondergangtiming",
+        "Werkt goed als een geplande panoramische maaltijd"
+      ],
+      "href": "/city/ayutthaya/top-10-restaurants/",
+      "cta_label": "Bekijk de volledige Ayutthaya-restaurantgids"
+    }
+  ],
+  "top_hotels": [
+    {
+      "rank": 1,
+      "name": "sala ayutthaya",
+      "description": "De duidelijkste high-design Ayutthaya-overnachting als rivieroeveratmosfeer en directe erfgoedzichten belangrijker zijn dan maximaliseren van kamerenaantal of resortfaciliteiten.",
+      "price_range": "Luxe tot superieur",
+      "category": "luxe",
+      "area": "Rivieroever nabij het historische eiland",
+      "highlights": [
+        "Rivierzichten gericht op tempels",
+        "Design-geleid boetiekverblijf",
+        "Beste voor koppels of een korte uitspatting"
+      ],
+      "href": "/city/ayutthaya/top-10-hotels/",
+      "cta_label": "Bekijk de Ayutthaya hotelgids"
+    },
+    {
+      "rank": 2,
+      "name": "Baan Tye Wang",
+      "description": "Een sterke boetieke keuze voor reizigers die een kleinschalig, kalm Ayutthaya-verblijf willen zonder afstand te doen van toegang tot het hoofd-erfgoedcircuit.",
+      "price_range": "Bovenmiddenklasse boetiek",
+      "category": "luxe",
+      "area": "Kanaaloever net buiten de kern",
+      "highlights": [
+        "Kleinschalige boetiek",
+        "Vredige kanaalsetting",
+        "Goede match voor langzamere verblijven"
+      ],
+      "href": "/city/ayutthaya/top-10-hotels/",
+      "cta_label": "Bekijk de Ayutthaya hotelgids"
+    },
+    {
+      "rank": 3,
+      "name": "Baan Pomphet",
+      "description": "Een van de meest karaktervolle kleine Ayutthaya-verblijven als je rivieroeverdesign, eten en een erfgoedgerichte setting in één pakket wilt.",
+      "price_range": "Luxe boetiek",
+      "category": "luxe",
+      "area": "Pom Phet rivieroever",
+      "highlights": [
+        "Sterke designidentiteit",
+        "Geïntegreerd restaurant en verblijf",
+        "Goed voor korte romantische breaks"
+      ],
+      "href": "/city/ayutthaya/top-10-hotels/",
+      "cta_label": "Bekijk de Ayutthaya hotelgids"
+    },
+    {
+      "rank": 4,
+      "name": "Baan Thai House",
+      "description": "Een betrouwbare traditionele optie als je groen, Thais-huis karakter en een zachter resortgevoel wilt zonder ver buiten de stad te gaan.",
+      "price_range": "Middenklasse",
+      "category": "middenklasse",
+      "area": "Oost-zuidoost van het historische eiland",
+      "highlights": [
+        "Traditionele Thais-huis stijl",
+        "Tuinsetting",
+        "Goede waarde voor een langzamere overnachting"
+      ],
+      "href": "/city/ayutthaya/top-10-hotels/",
+      "cta_label": "Bekijk de Ayutthaya hotelgids"
+    },
+    {
+      "rank": 5,
+      "name": "Centara Ayutthaya",
+      "description": "Een praktische moderne keuze als je nieuwere kamers en eenvoudige comfort wilt in plaats van een erfgoed-boetiekervaring.",
+      "price_range": "Middenklasse tot luxe",
+      "category": "middenklasse",
+      "area": "Rojana / Centrale Ayutthaya-zijde",
+      "highlights": [
+        "Moderne full-service sfeer",
+        "Goed voor automobilisten of korte business-leisure verblijven",
+        "Newer eigendom dan veel stadopties"
+      ],
+      "href": "/city/ayutthaya/top-10-hotels/",
+      "cta_label": "Bekijk de Ayutthaya hotelgids"
+    }
+  ],
+  "travel_tips": [
+    "Begin het hoofdruïnecircuit vroeg en laat de meest blootgestelde sites voor de heetste middagperiode.",
+    "Plan per zone: het centrale eiland, riviergerichte zonsondergangstops en Bang Pa-In zijn geen enkel eenvoudig wandelblok.",
+    "Als je wilt dat de stad meer aanvoelt dan een fotostop, combineer ruïnes met het museum en één eetbestemming.",
+    "Kleed je voor actieve tempels en ruïnes; schouders en knieën moeten bedekt zijn waar gepast.",
+    "Eén overnachting geeft Ayutthaya meestal een veel beter ritme dan een gehaaste terugkeer naar Bangkok."
+  ],
+  "best_time_to_visit": {
+    "season": "Koelseizoen",
+    "months": "November - februari",
+    "weather": "Droger en over het algemeen makkelijker voor tempelrondleidingen in de open lucht",
+    "reasons": "Beste voor fietsen, ruïnecircuits, rivieravonden en eerste bezoeken"
+  },
+  "budget_info": {
+    "budget": "Ca. €23-41 per dag",
+    "mid_range": "Ca. €55-119 per dag",
+    "luxury": "Ca. €165+ per dag",
+    "notes": "Ayutthaya is meestal betaalbaar als je leunt op lokaal eten, fietsen en gedeeld vervoer. Kosten stijgen zodra je gecharterde tuktuks, Bang Pa-In of rivieroeverdiners en boetiekverblijven toevoegt."
+  },
+  "enhanced_at": "2026-03-26T00:00:00.000Z",
+  "reviewed_by": "Go2Thailand Redactie Team",
+  "overview": "Ayutthaya is een van de meest lonende korte erfgoedbreaks in Thailand, maar het heeft meer zin als een stad van planningszones dan als één groot openluchtmuseum. Het historische eiland herbergt de beroemdste ruïnes, waaronder Wat Mahathat, Wat Phra Si Sanphet en Wat Ratchaburana, terwijl belangrijke uitbreidingen zoals Wat Chaiwatthanaram, Wat Yai Chai Mongkhon en Bang Pa-In de reis verbreden voorbij het eerste centrale circuit.\n\nDat is ook waarom Ayutthaya sterker is als een overnachting of bijna-overnachting dan veel eerste bezoekers aannemen. Het ligt dicht genoeg bij Bangkok voor eenvoudige toegang, maar de stad voelt veel beter zodra je tijd hebt voor vroeg tempellicht, een museumbezoek en één riviergerichte maaltijd. Goed gedaan is het niet zomaar een ruïnedestinctie. Het is een plek waar hofgeschiedenis, rivierleven, actieve tempels en specifieke lokale eettradities nog steeds overlappen op een zeer bruikbare manier voor reizigers.",
+  "thingsToDo": "Begin met het historische eiland, maar maak Ayutthaya niet plat tot alleen de centrale UNESCO-kernlus. Wat Mahathat en Wat Phra Si Sanphet zijn nog steeds essentieel omdat ze de historische logica van de stad voor eerste bezoekers verankeren, terwijl Wat Ratchaburana sterker architectonisch en archeologisch context toevoegt dan veel snelle itineraries erkennen. Wat Chaiwatthanaram is de beste laat-middag erfgoedstop als je een sterkere riviersetting en bredere visuele dramatiek wilt.\n\nBuiten de ruïnes is het Chao Sam Phraya National Museum een van de meest nuttige toevoegingen aan een kort verblijf omdat het helpt om het tempelcircuit historisch logisch te maken. Wat Yai Chai Mongkhon voegt een ander ritme toe als actieve tempel, en Bang Pa-In Palace is zinvol als je een halve dag uitbreiding wilt die het baksteenruïnespatroon doorbreekt met koninklijke architectuur en formele gronden. Eten moet ook deel uitmaken van het itinerarium, niet zomaar een vulling tussen tempels. Bootnoedels, roti sai mai en één serieuze rivieroevermaaltijd maken de stad veel specifieker.",
+  "whereToStay": "De meeste reizigers moeten eerst beslissen of ze een rivieroever boetiekverblijf, een klein kanaalzijdig hotel of een praktischere moderne basis willen. De rand van de oude stad werkt het beste voor sfeer en korte wandel- of fietslussen, terwijl riviergerichte eigendommen het sterkste gevoel van plaats toevoegen.\n\nAls kamer grootte, parkeren of nieuwere full-service gemak belangrijker zijn dan erfgoedsfeer, kan de Centrale Ayutthaya en Rojana-zijde van de stad meer zin hebben dan een verblijf forceren in de historische kern. Voor een kort design-geleid verblijf wint de rivieroever. Voor waarde, makkelijker parkeren of business-leisure crossover is de nieuwere hotelstrook meestal de praktischere keuze.",
+  "whereToEat": [
+    {
+      "name": "Pa Lek Boat Noodles",
+      "cuisine": "Bootnoedels",
+      "priceRange": "$",
+      "description": "Een benchmark Ayutthaya-kom als je een echt lokale gerechtstop wilt in plaats van een generieke Thaise lunch."
+    },
+    {
+      "name": "Phae Krung Kao",
+      "cuisine": "Thais",
+      "priceRange": "$$",
+      "description": "Een betrouwbare rivieroeverkeuze voor Centrale Thaise gerechten en het soort gegrilde riviergarnalen waar mensen echt voor omrijden."
+    },
+    {
+      "name": "Roti Sai Mai specialists",
+      "cuisine": "Dessert",
+      "priceRange": "$",
+      "description": "Ayutthaya's kenmerkende zoete stop, het beste eenvoudig en vers gehouden."
+    },
+    {
+      "name": "sala ayutthaya Eatery and Bar",
+      "cuisine": "Thais en westers",
+      "priceRange": "$$$",
+      "description": "Een panoramische rivieroevermaaltijd die het beste werkt voor sfeer, lunch, zonsondergang of een opgedofte dinerblok."
+    },
+    {
+      "name": "Baan Thai House dining",
+      "cuisine": "Thais",
+      "priceRange": "$$",
+      "description": "Een eenvoudige hotelgebaseerde maaltijdoptie als je een low-key diner wilt nabij een traditioneel verblijf."
+    }
+  ],
+  "topHotels": [
+    {
+      "name": "sala ayutthaya",
+      "category": "luxe",
+      "priceRange": "Luxe tot superieur",
+      "area": "Rivieroever nabij het historische eiland",
+      "description": "Het sterkste Ayutthaya-designverblijf als directe erfgoedzichten en boetiekatmosfeer de hoofdprioriteit zijn."
+    },
+    {
+      "name": "Baan Tye Wang",
+      "category": "luxe",
+      "priceRange": "Bovenmiddenklasse boetiek",
+      "area": "Kanaaloever",
+      "description": "Een kalm kleinschalig boetiekhotel dat zinvol is voor reizigers die willen dat Ayutthaya rustiger en persoonlijker aanvoelt."
+    },
+    {
+      "name": "Kantary Hotel Ayutthaya",
+      "category": "middenklasse tot luxe",
+      "priceRange": "Middenklasse tot luxe",
+      "area": "Stadszijde / Rojana corridor",
+      "description": "Een serviced-hoteloptie die goed werkt voor langere verblijven en makkelijkere wegtoegang."
+    },
+    {
+      "name": "Baan Thai House",
+      "category": "middenklasse",
+      "priceRange": "Middenklasse",
+      "area": "Oost-zuidoost van de oude stad",
+      "description": "Een handige traditionele optie voor reizigers die groen en karakter willen zonder de volle prijs van een luxe boetiekhotel te betalen."
+    },
+    {
+      "name": "Centara Ayutthaya",
+      "category": "middenklasse",
+      "priceRange": "Middenklasse tot luxe",
+      "area": "Rojana / Centrale Ayutthaya-kant",
+      "description": "Een praktisch nieuw hotel voor bezoekers die prioriteit geven aan comfort, parkeren en eenvoudige kamernormen."
+    }
+  ],
+  "gettingAround": "Ayutthaya werkt het beste met gemengd vervoer. Het historische eiland is geschikt voor fietsen, korte tuktuk-ritten en wat wandelen tussen geclusterde ruïnes, maar de stad als geheel is geen pure wandelbestemming. Grab kan handig zijn voor verplaatsingen van punt naar punt, tuktuks blijven praktisch voor tempelrondjes, en privéauto's of gecharterd vervoer zijn logischer zodra Bang Pa-In of buitenste tempelzones in je planning komen. Bezoekers die per trein arriveren, kunnen het stationgebied ook gebruiken als startpunt voor een fiets of tuktuk in plaats van de hele sightsee-dag te voet vanaf daar te proberen.",
+  "bestTimeToVisit": "November tot en met februari is het makkelijkste seizoen voor de meeste reizigers, omdat Ayutthaya's beste bezienswaardigheden blootliggen en hittebeheersing telt. Koelere ochtenden maken fietsen, langere ruïnelussen en avonden aan de rivier veel aangenamer. Dit is het beste tijdvenster voor eerste bezoekers als je meerdere grote tempels wilt combineren zonder constant in de schaduw te duiken.\n\nMaart tot en met mei kan nog werken, maar alleen als je de dag opbouwt rond heel vroege starts en realistische middagpauzes. Juni tot en met oktober brengt groener landschap en minder drukte, al kan regen fietsgerichte plannen verstoren en oppervlakken glad maken. Ayutthaya wordt in de nattere maanden niet onbezoekbaar, maar het beloont een flexibeler tempo.",
+  "budgetGuide": {
+    "budget": {
+      "min": 25,
+      "max": 45,
+      "description": "Budgetreizigers kunnen Ayutthaya betaalbaar houden door vanuit Bangkok per trein te arriveren, fietsen te gebruiken voor het historische eiland, lokale noedels en markteten te eten, en te overnachten in eenvoudige guesthouses of value hotels."
+    },
+    "midrange": {
+      "min": 60,
+      "max": 130,
+      "description": "Middenklasse reizen draaien meestal om één comfortabele hotelnacht, gemengd tuktuk- en Grab-vervoer, entreekaarten voor musea en tempels, en minstens één stevig diner aan tafel."
+    },
+    "luxury": {
+      "min": 180,
+      "max": 400,
+      "description": "Luxe uitgaven in Ayutthaya komen doorgaans van boetiek rivierhotels, privé chauffeurs, verfijnde maaltijden aan de rivier en een meer hotelgerichte korte vakantie."
+    }
+  },
+  "safetyTips": "Ayutthaya is over het algemeen eenvoudig voor bezoekers, maar de echte risico's zijn praktisch in plaats van dramatisch. Hitteblootstelling, uitdroging en overambitieuze ruïne-hops midden op de dag zijn veelvoorkomender dan criminaliteit. Neem water mee, gebruik zonbescherming en vermijd het om blootgestelde tempelterreinen om te zetten in een middag uithoudingstest.\n\nVerkeer en het oversteken van wegen vereisen ook meer aandacht dan veel eerste bezoekers verwachten, vooral bij het wisselen tussen fietsen, tuktuks en hoofdwegen bij bruggen of aan de stationkant. Bewaar waardevolle spullen veilig in drukke gebieden en behandel actieve tempels met het nodige respect: bescheiden kleding, rustig gedrag en schoenen uit waar vereist.",
+  "faq": [
+    {
+      "question": "Is Ayutthaya de moeite waard als dagtrip vanuit Bangkok?",
+      "answer": "Ja, maar Ayutthaya komt meestal beter tot zijn recht met minstens één nacht of een heel volle dag. Een dagtrip kan de belangrijkste ruïnes dekken, maar vaak gaat het museum, eetdetours en het betere vroege of late licht eraan verloren."
+    },
+    {
+      "question": "Heb je een fiets nodig in Ayutthaya?",
+      "answer": "Nee, maar fietsen zijn een van de beste manieren om het historische eiland efficiënt te verkennen. Ze zijn het meest zinvol als je plan zich richt op de centrale ruïneclusters en het weer meespeelt."
+    },
+    {
+      "question": "Hoeveel tempels kun je realistisch in één dag doen?",
+      "answer": "De meeste reizigers doen het beter met drie tot vijf betekenisvolle stops dan met een te lange lijst. Ayutthaya wordt snel repetitief als je te veel blootgestelde ruïnes zonder variatie afraffelt."
+    },
+    {
+      "question": "Welk eten moet je prioriteren in Ayutthaya?",
+      "answer": "Bootnoedels, roti sai mai en minstens één maaltijd met riviergarnalen zijn de meest nuttige eerste prioriteiten als je wilt dat de stad specifiek aanvoelt in plaats van generiek Thais."
+    },
+    {
+      "question": "Wat is de beste manier om van Bangkok naar Ayutthaya te reizen?",
+      "answer": "De trein is de eenvoudigste low-cost optie voor veel reizigers, terwijl een privéauto of tourvervoer het makkelijkst is als je Bang Pa-In of verspreide buitenstops op dezelfde dag wilt."
+    }
+  ],
+  "practicalInfo": {
+    "bestMonths": [
+      "Nov",
+      "Dec",
+      "Jan",
+      "Feb"
+    ],
+    "nearestAirport": "Don Mueang International Airport (DMK), Bangkok",
+    "travelTimeFromAirport": "Ongeveer 1,5-2 uur per weg, afhankelijk van het verkeer en je exacte stop in Ayutthaya",
+    "localTransport": [
+      "Tuk-tuk",
+      "Fietsverhuur",
+      "Grab",
+      "Privéauto of chauffeur",
+      "Wandelen binnen geclusterde ruïnes",
+      "Trein vanuit Bangkok"
+    ]
+  },
+  "contentSources": [
+    {
+      "type": "officieel erfgoed",
+      "title": "Historische Stad van Ayutthaya",
+      "creator": "UNESCO Werelderfgoedcentrum",
+      "url": "https://whc.unesco.org/en/list/576/",
+      "description": "Gebruikt voor UNESCO-status, kern erfgoedframing en de betekenis van Ayutthaya als voormalige hoofdstad."
+    },
+    {
+      "type": "officieel toerisme",
+      "title": "Ayutthaya bestemmingsPagina",
+      "creator": "Tourism Authority of Thailand",
+      "url": "https://www.tourismthailand.org/Destinations/Ayutthaya",
+      "description": "Gebruikt voor oriëntatie op stadsniveau en bestemmingsframing."
+    },
+    {
+      "type": "officieel toerisme",
+      "title": "Ayutthaya Historical Park",
+      "creator": "Go Ayutthaya",
+      "url": "https://go.ayutthaya.go.th/en/tourist-attraction/ayutthaya-historical-park/",
+      "description": "Gebruikt voor parkcontext en officiële lokale toerismeframing."
+    },
+    {
+      "type": "officieel toerisme",
+      "title": "Wat Mahathat, Phra Nakhon Si Ayutthaya",
+      "creator": "Go Ayutthaya",
+      "url": "https://go.ayutthaya.go.th/en/tourist-attraction/wat-mahathat-phra-nakhon-si-ayutthaya/",
+      "description": "Gebruikt voor positionering van Mahathat en tempelcontext op stadsniveau."
+    },
+    {
+      "type": "officieel toerisme",
+      "title": "Wat Chaiwatthanaram",
+      "creator": "Go Ayutthaya",
+      "url": "https://go.ayutthaya.go.th/en/tourist-attraction/wat-chaiwatthanaram/",
+      "description": "Gebruikt voor context van Chaiwatthanaram en erfgoedframing aan de rivier."
+    },
+    {
+      "type": "officieel toerisme",
+      "title": "Bang Pa-in Palace",
+      "creator": "Go Ayutthaya",
+      "url": "https://go.ayutthaya.go.th/en/tourist-attraction/no-temple-touring/bang-pa-in-palace/",
+      "description": "Gebruikt voor positionering van het paleis, kledingvoorschriften en tripframing voor Bang Pa-In."
+    },
+    {
+      "type": "officieel museum",
+      "title": "Chao Sam Phraya National Museum",
+      "creator": "Museum Thailand / Department of Fine Arts",
+      "url": "https://www.museumthailand.com/en/museum/Chao-Sam-Phraya-National-Museum",
+      "description": "Gebruikt voor museumbeheer, rol en bevestiging van bezoekerscontext."
+    },
+    {
+      "type": "officieel toerisme",
+      "title": "Roti Sai Mai: De Zoete Traktatie van Ayutthaya",
+      "creator": "Tourism Authority of Thailand",
+      "url": "https://www.tourismthailand.org/Articles/roti-sai-mai-sweet-treat-of-ayutthaya",
+      "description": "Gebruikt voor de rol van roti sai mai in de voedselcultuur van Ayutthaya."
+    },
+    {
+      "type": "restaurantgids",
+      "title": "Pa Lek Boat Noodles",
+      "creator": "MICHELIN Guide",
+      "url": "https://guide.michelin.com/us/en/phra-nakhon-si-syutthaya-region/phra-nakhon-si-ayutthaya/restaurant/pa-lek-boat-noodles",
+      "description": "Gebruikt voor positionering van bootnoedels en duurzame restaurantcontext."
+    },
+    {
+      "type": "restaurantgids",
+      "title": "Phae Krung Kao",
+      "creator": "MICHELIN Guide",
+      "url": "https://guide.michelin.com/en/phra-nakhon-si-syutthaya-region/phra-nakhon-si-ayutthaya/restaurant/phae-krung-kao",
+      "description": "Gebruikt voor context van riviergarnalen en dineren aan de rivier."
+    },
+    {
+      "type": "officieel hotel",
+      "title": "sala ayutthaya hotel",
+      "creator": "SALA Hospitality",
+      "url": "https://www.salahospitality.com/ayutthaya/",
+      "description": "Gebruikt voor hotelpositionering en rivierverblijfcontext."
+    },
+    {
+      "type": "officieel hotel",
+      "title": "Baan Tye Wang",
+      "creator": "Baan Tye Wang",
+      "url": "https://baantyewang.top/",
+      "description": "Gebruikt voor positionering van boetiekhotel en verblijf aan het kanaal."
+    },
+    {
+      "type": "officieel hotel",
+      "title": "Baan Thai House",
+      "creator": "Baan Thai House",
+      "url": "http://www.baanthaihouse.com/",
+      "description": "Gebruikt voor context van traditioneel middenklasse verblijf."
+    },
+    {
+      "type": "officieel hotel",
+      "title": "Centara Ayutthaya",
+      "creator": "Centara Hotels & Resorts",
+      "url": "https://www.centarahotelsresorts.com/centara/cay",
+      "description": "Gebruikt voor positionering van nieuw full-service hotel."
+    },
+    {
+      "type": "officieel hotel",
+      "title": "Kantary Hotel Ayutthaya",
+      "creator": "Kantary Collection",
+      "url": "https://www.kantarycollection.com/kantaryhotel-ayutthaya/",
+      "description": "Gebruikt voor positionering van serviced hotel in de Ayutthaya-markt."
+    }
+  ],
+  "sourceSummary": "Stadsniveau copy is verankerd aan UNESCO, Tourism Authority of Thailand, Go Ayutthaya, Museum Thailand, MICHELIN Guide en officiële hotelpagina's. De formulering is duurzaam gehouden en vermijdt bewust broze insiderclaims.",
+  "reviewed_at": "2026-03-28T00:00:00.000Z",
+  "enrichedAt": "2026-03-26T00:00:00.000Z",
+  "factchecked_at": "2026-03-26T00:00:00.000Z"
+}

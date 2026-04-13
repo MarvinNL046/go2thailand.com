@@ -1,0 +1,82 @@
+{
+  "id": 10,
+  "slug": "sao-chaliang",
+  "name": {
+    "en": "Sao Chaliang",
+    "nl": "Sao Chaliang"
+  },
+  "type": "natuur",
+  "city_slug": "ubon-ratchathani",
+  "address": "Pha Taem National Park, Huai Phai, Khong Chiam District, Ubon Ratchathani",
+  "location": null,
+  "opening_hours": "Valt onder de werking van Pha Taem National Park; controleer de huidige parkuren, toegang tot wandelpaden en weersomstandigheden voordat je gaat.",
+  "entrance_fee": {
+    "thb": null,
+    "usd": null
+  },
+  "description": {
+    "en": "One of the park's most distinctive sandstone stops, with pillar-like rock forms that add a genuine geology layer to the Pha Taem route.",
+    "nl": "Een van de meest onderscheidende zandsteenstops van het park, met pilaarachtige rotsvormen die een echte geologielaag toevoegen aan de Pha Taem-route."
+  },
+  "highlights": [
+    "Zandsteenpijlerformaties",
+    "Binnen Pha Taem National Park",
+    "Sterke geologie-stop aan de Khong Chiam-kant"
+  ],
+  "image": "/images/cities/generated/ubon-ratchathani.webp",
+  "seo": {
+    "metaTitle": {
+      "en": "Sao Chaliang | Go2Thailand",
+      "nl": "Sao Chaliang | Go2Thailand"
+    },
+    "metaDescription": {
+      "en": "Why Sao Chaliang is a worthwhile sandstone stop inside Pha Taem National Park without overselling it as a standalone day trip.",
+      "nl": "Waarom Sao Chaliang een zinvolle zandsteenstop is in Pha Taem National Park zonder het als losse dagtrip te oversellen."
+    }
+  },
+  "tags": [
+    "ubon-ratchathani",
+    "pha-taem",
+    "sao-chaliang",
+    "zandsteen",
+    "natuur"
+  ],
+  "googleMapsUrl": "https://maps.app.goo.gl/AXvtP2TJW1zBL",
+  "best_time": "ochtend",
+  "duration_hours": 1.25,
+  "enhanced_description": "Sao Chaliang werkt het beste als onderdeel van een gefocuste dag in Pha Taem, niet als een aparte hoofdbezienswaardigheid. De waarde zit in het beleven hoe het zandsteenlandschap van het park verandert van uitzichtpunten op de rotswand en rotstekeningen naar vrijstaande pijlerformaties die duidelijk anders zijn dan de bekendere klifrand.\n\nDat maakt het ideaal voor reizigers die meer dan één snelle fotostop willen uit het park. Het blijft secundair aan Pha Taem zelf, maar het is een van de duidelijkere geologische extra's in dezelfde zone.",
+  "detailed_history": "De huidige e-brochure van Ubon Ratchathani, gepubliceerd via TAT-materiaal, noemt Sao Chaliang nog steeds als een opmerkelijke stop binnen Pha Taem National Park en legt de naam uit via het lokale idee van stenen pilaren gevormd door langdurige erosie.",
+  "visitor_experience": "Richt je op een korte tot matige stop onderweg door het park, in plaats van een volledige halve dag. Het is het meest lonend als je het ziet als één laag in een goed samengestelde route door Khong Chiam en Pha Taem.",
+  "best_time_to_visit": {
+    "time_of_day": "Ochtend",
+    "duration": "Ongeveer 45 tot 75 minuten",
+    "crowd_level": "Meestal licht tot matig"
+  },
+  "practical_info": {
+    "how_to_get_there": "Bereik het per weg binnen het circuit van Pha Taem National Park, meestal met de auto of chauffeur vanuit Khong Chiam of Ubon-stad.",
+    "nearby_attractions": "Uitzichtpunten op de Pha Taem-klif, prehistorische schilderingen en de andere natuuraanraders aan de Khong Chiam-kant van het park.",
+    "food_options": "Plan maaltijden rond de parkrit in plaats van te verwachten dat er een stedelijk eetgebeuren is bij de rotsformaties zelf.",
+    "shopping": "Geen extra's buiten de basisvoorzieningen van het park."
+  },
+  "insider_tips": [
+    "Gebruik Sao Chaliang om een Pha Taem-dag te verdiepen, niet om de hoofdroute met klif en rotstekeningen te vervangen.",
+    "Ga vroeg op de dag als hitte en licht makkelijker zijn.",
+    "Controleer de huidige parksituatie als regen of ruw weer invloed heeft op je route."
+  ],
+  "verified_note": "Samenvatting gebaseerd op bronnen uit TAT en toerismeproductmateriaal voor Pha Taem National Park. De exacte parkactiviteiten op dezelfde dag moeten lokaal worden nagevraagd.",
+  "cultural_significance": "Sao Chaliang is bijzonder omdat het laat zien dat Pha Taem niet alleen draait om zonsopgang en rotsschilderingen, maar ook om unieke zandsteenlandschappen gevormd over lange geologische periodes.",
+  "contentSources": [
+    {
+      "name": "Pha Taem National Park",
+      "url": "https://tourismproduct.tourismthailand.org/en/2025/06/20/%E0%B8%AD%E0%B8%B8%E0%B8%97%E0%B8%A2%E0%B8%B2%E0%B8%99%E0%B9%81%E0%B8%AB%E0%B9%88%E0%B8%87%E0%B8%8A%E0%B8%B2%E0%B8%95%E0%B8%B4%E0%B8%9C%E0%B8%B2%E0%B9%81%E0%B8%95%E0%B9%89%E0%B8%A1-2/"
+    },
+    {
+      "name": "E-Brochure Ubon Ratchathani (Eng)",
+      "url": "https://tourismthailand.my/ebook/E-Brochure%20Ubon%20Ratchathani%20%28Eng%29.pdf"
+    },
+    {
+      "name": "Ubon Ratchathani province page",
+      "url": "https://www.tourismthailand.org/Destinations/Provinces/ubon-ratchathani/587"
+    }
+  ]
+}

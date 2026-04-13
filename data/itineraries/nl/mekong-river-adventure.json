@@ -1,0 +1,1268 @@
+{
+  "slug": "mekong-river-adventure",
+  "title": {
+    "en": "Mekong River Adventure: Thailand's Hidden Border Route",
+    "nl": "Mekong Rivier Avontuur: Thailand's Verborgen Grensroute"
+  },
+  "duration": 14,
+  "region": "Isaan",
+  "budgetLevel": "budget",
+  "description": {
+    "en": "Follow the mighty Mekong River for over 800 kilometers along the natural border between Thailand and Laos. This off-the-beaten-path motorcycle or road trip takes you through charming riverside towns, ancient temples, morning alms giving ceremonies, and some of the most authentic Thai experiences you'll find anywhere. From the misty mornings of Chiang Khan to the hidden villages of Isaan, this is the Thailand most tourists never see.",
+    "nl": "Volg de machtige Mekong-rivier over meer dan 800 kilometer langs de natuurlijke grens tussen Thailand en Laos. Deze motorfiets- of autoreis afzijdig van het gebaande pad brengt je langs charmante rivierstadjes, oude tempels, ochtendlijke aalmoezenceremonies en enkele van de meest authentieke Thaise ervaringen die je kunt vinden. Van de mistige ochtenden van Chiang Khan tot de verborgen dorpjes van Isaan — dit is het Thailand dat de meeste toeristen nooit zien."
+  },
+  "image": "/images/cities/bangkok/downtown-bangkok.webp",
+  "highlights": [
+    "Uitzichten op de Mekongrivier",
+    "Ochtendlijke bedelronde",
+    "Chiang Khan Skywalk",
+    "Tempelfestivals",
+    "Bootswedstrijden",
+    "Authentiek Isaan-eten",
+    "Traditionele houten huizen",
+    "Zonsondergang boven Laos",
+    "Den Ping Cave",
+    "Vriendschapsbrug",
+    "Jungle-tractoravontuur",
+    "Three Whale Rock",
+    "Beeldenpark",
+    "Onder water gezakte stupa",
+    "Wat Phu Tok",
+    "Naga Cave",
+    "Tham Phra-waterval",
+    "Ho Chi Minh Huis",
+    "Mekong-zonsondergangscruise",
+    "Vietnamees-Thais eten",
+    "Naga-tempel & Grote Boeddha",
+    "Loy Krathong-festival",
+    "Pha Taem Nationaal Park",
+    "Prehistorische grottekeningen",
+    "Twee-kleurige rivierpunt"
+  ],
+  "cities": [
+    "chiang-khan",
+    "nong-khai",
+    "bueng-kan",
+    "nakhon-phanom",
+    "mukdahan",
+    "ubon-ratchathani"
+  ],
+  "budget": {
+    "budget": {
+      "total": "$300-500",
+      "perDay": "$20-35",
+      "currency": "THB",
+      "totalThb": "10,500-17,500"
+    },
+    "midrange": {
+      "total": "$600-900",
+      "perDay": "$40-65",
+      "currency": "THB",
+      "totalThb": "21,000-31,500"
+    },
+    "luxury": {
+      "total": "$1,000-1,500",
+      "perDay": "$70-110",
+      "currency": "THB",
+      "totalThb": "35,000-52,500"
+    }
+  },
+  "bestTimeToVisit": "November tot februari (koel seizoen)",
+  "days": [
+    {
+      "day": 1,
+      "title": {
+        "en": "Arrive in Chiang Khan & First Mekong Sunset",
+        "nl": "Aankomst in Chiang Khan & Eerste Mekong Zonsondergang"
+      },
+      "city": "chiang-khan",
+      "activities": [
+        {
+          "name": {
+            "en": "Chiang Khan Skywalk",
+            "nl": "Chiang Khan Skywalk"
+          },
+          "duration": "1 uur",
+          "cost": "60 THB (€1,56)",
+          "type": "bezienswaardigheid",
+          "tip": {
+            "en": "Glass walkway over the Mekong with views of both Thailand and Laos. You'll get slippers to protect the glass. Don't miss the golden Buddha statue and traditional ghost mask displays at the entrance.",
+            "nl": "Glazen loopbrug over de Mekong met uitzicht op Thailand en Laos. Je krijgt slippers om het glas te beschermen. Mis het gouden Boeddhabeeld en de traditionele spookmasker-displays bij de ingang niet."
+          }
+        },
+        {
+          "name": {
+            "en": "Explore Walking Street",
+            "nl": "Verken Walking Street"
+          },
+          "duration": "2-3 uur",
+          "cost": "Gratis (etenbudget: 100-300 THB)",
+          "type": "cultureel",
+          "tip": {
+            "en": "Beautiful traditional wooden houses line this street. Full of street food vendors selling unique regional dishes you won't find in Bangkok. In the evening it becomes a lively night market.",
+            "nl": "Prachtige traditionele houten huizen langs deze straat. Vol met streetfoodverkopers met unieke regionale gerechten die je niet in Bangkok vindt. 's Avonds wordt het een levendige avondmarkt."
+          }
+        },
+        {
+          "name": {
+            "en": "Sunset on the Mekong Promenade",
+            "nl": "Zonsondergang aan de Mekong Promenade"
+          },
+          "duration": "1-2 uur",
+          "cost": "100-200 THB (voor een biertje)",
+          "type": "ontspanning",
+          "tip": {
+            "en": "Find a spot at one of the craft beer bars along the river promenade. Watch the sun set directly over Laos on the opposite bank. This is one of the most peaceful sunset spots in all of Thailand.",
+            "nl": "Zoek een plekje bij een van de craftbier-bars langs de rivierpromenade. Kijk hoe de zon ondergaat boven Laos aan de overkant. Dit is een van de meest vredige zonsondergangplekken in heel Thailand."
+          }
+        }
+      ],
+      "meals": {
+        "breakfast": {
+          "en": "Grab lunch at a local stall after arriving — rice porridge and fried chicken",
+          "nl": "Pak lunch bij een lokale kraam na aankomst — rijstepap en gefrituurde kip"
+        },
+        "lunch": {
+          "en": "Street food on Walking Street — try the unique regional snacks",
+          "nl": "Streetfood op Walking Street — probeer de unieke regionale snacks"
+        },
+        "dinner": {
+          "en": "Night market on Walking Street or riverside restaurant",
+          "nl": "Avondmarkt op Walking Street of rivierrestaurant"
+        }
+      },
+      "accommodation": {
+        "budget": {
+          "en": "Guesthouse on Walking Street (350-700 THB/night)",
+          "nl": "Guesthouse aan Walking Street (350-700 THB/nacht)"
+        },
+        "midrange": {
+          "en": "Siong Boutique Hotel — 10 min walk from center, English-speaking owner, great tips (1,100 THB/night)",
+          "nl": "Siong Boutique Hotel — 10 min lopen van centrum, Engelssprekende eigenaar, goede tips (1.100 THB/nacht)"
+        },
+        "luxury": {
+          "en": "Riverside boutique hotel with Mekong views (1,200-2,100 THB/night)",
+          "nl": "Boetiekhotel aan de rivier met Mekong-uitzicht (1.200-2.100 THB/nacht)"
+        }
+      },
+      "transport": {
+        "en": "Bus from Bangkok (8-9 hours from Mo Chit) or fly to Loei Airport then 1 hour minivan. If road-tripping, scenic drive from Loei town.",
+        "nl": "Bus vanuit Bangkok (8-9 uur vanaf Mo Chit) of vliegen naar Loei Airport dan 1 uur minivan. Bij een roadtrip, schilderachtige rit vanuit Loei stad."
+      }
+    },
+    {
+      "day": 2,
+      "title": {
+        "en": "Morning Alms, Temple Festival & Boat Races",
+        "nl": "Ochtend Aalmoes, Tempelfestival & Botenraces"
+      },
+      "city": "chiang-khan",
+      "activities": [
+        {
+          "name": {
+            "en": "Morning Alms Giving Ceremony (Tak Bat)",
+            "nl": "Ochtendlijke Aalmoezenceremonie (Tak Bat)"
+          },
+          "duration": "1 uur",
+          "cost": "Gratis om te kijken, 20-50 THB voor offermandje",
+          "type": "cultureel",
+          "tip": {
+            "en": "Be at the river by 6:00 AM. Watch the mist rise over the Mekong while monks chant in temples on both the Thai and Lao sides. Monks walk the streets collecting food from locals. Buy an offering basket from a nearby shop to participate. Much more authentic than Luang Prabang.",
+            "nl": "Wees om 6:00 uur bij de rivier. Zie de mist opstijgen boven de Mekong terwijl monniken chanten in tempels aan zowel de Thaise als Laotiaanse kant. Monniken lopen door de straten en verzamelen eten van bewoners. Koop een offerandemandje bij een nabijgelegen winkel om mee te doen. Veel authentieker dan Luang Prabang."
+          }
+        },
+        {
+          "name": {
+            "en": "Local Breakfast",
+            "nl": "Lokaal Ontbijt"
+          },
+          "duration": "30-45 minuten",
+          "cost": "40-80 THB",
+          "type": "eten",
+          "tip": {
+            "en": "After the alms giving, find a bustling local breakfast stall. Look for crowds of Thai locals — that's your quality signal. Try rice porridge (jok) and fresh baguettes.",
+            "nl": "Na de aalmoezenceremonie, zoek een drukke lokale ontbijtkraam. Zoek naar groepen Thaise bewoners — dat is je kwaliteitssignaal. Probeer rijstepap (jok) en verse baguettes."
+          }
+        },
+        {
+          "name": {
+            "en": "Explore Local Temples & River Viewpoints",
+            "nl": "Verken Lokale Tempels & Rivieruitzichtpunten"
+          },
+          "duration": "2-3 uur",
+          "cost": "Gratis",
+          "type": "cultureel",
+          "tip": {
+            "en": "Ride or walk to the local temples where you can witness village life. Temples here serve as community centers — listen for the speaker broadcasting village news. Visit the riverside viewpoint where locals gather to relax, drink, and collect flowers.",
+            "nl": "Rijd of wandel naar de lokale tempels waar je het dorpsleven kunt meemaken. Tempels dienen hier als gemeenschapscentra — luister naar de luidsprekers die dorpsnieuws omroepen. Bezoek het uitzichtpunt aan de rivier waar bewoners samenkomen om te relaxen."
+          }
+        },
+        {
+          "name": {
+            "en": "Temple Festival & Evening Parade",
+            "nl": "Tempelfestival & Avondparade"
+          },
+          "duration": "3-4 uur",
+          "cost": "Gratis",
+          "type": "cultureel",
+          "tip": {
+            "en": "If you're lucky enough to visit during a festival, the temple market is one of the most authentic Thai markets you'll ever experience. Nine temples compete with candle wax designs and boat races on the Mekong. Evening features live music and parades through town.",
+            "nl": "Als je het geluk hebt tijdens een festival te bezoeken, is de tempelmarkt een van de meest authentieke Thaise markten die je ooit zult meemaken. Negen tempels strijden met kaarswasontwerpen en botenraces op de Mekong. 's Avonds is er livemuziek en een parade door de stad."
+          }
+        }
+      ],
+      "meals": {
+        "breakfast": {
+          "en": "Local breakfast stall after alms giving — jok rice porridge and baguettes (40-80 THB)",
+          "nl": "Lokale ontbijtkraam na de aalmoezenceremonie — jok rijstepap en baguettes (40-80 THB)"
+        },
+        "lunch": {
+          "en": "Walking Street street food or riverside restaurant",
+          "nl": "Walking Street streetfood of rivierrestaurant"
+        },
+        "dinner": {
+          "en": "Temple festival night market (if available) or Walking Street market",
+          "nl": "Tempelfestival avondmarkt (indien beschikbaar) of Walking Street markt"
+        }
+      },
+      "accommodation": {
+        "budget": {
+          "en": "Same guesthouse — Chiang Khan rewards 2-night stays",
+          "nl": "Hetzelfde guesthouse — Chiang Khan beloont 2 nachten verblijf"
+        },
+        "midrange": {
+          "en": "Siong Boutique Hotel — second night (1,100 THB/night)",
+          "nl": "Siong Boutique Hotel — tweede nacht (1.100 THB/nacht)"
+        },
+        "luxury": {
+          "en": "Same riverside hotel",
+          "nl": "Hetzelfde rivierhotel"
+        }
+      },
+      "transport": {
+        "en": "Everything is walkable today. Rent a motorbike only if you want to explore viewpoints outside town.",
+        "nl": "Alles is vandaag lopend bereikbaar. Huur alleen een motor als je uitzichtpunten buiten het stadje wilt verkennen."
+      }
+    },
+    {
+      "day": 3,
+      "title": {
+        "en": "Chiang Khan to Riverside Village (Route 212 along the Mekong)",
+        "nl": "Chiang Khan naar Rivierdorpje (Route 212 langs de Mekong)"
+      },
+      "city": "chiang-khan",
+      "activities": [
+        {
+          "name": {
+            "en": "Ride Route 212 along the Mekong",
+            "nl": "Rijd Route 212 langs de Mekong"
+          },
+          "duration": "halve dag",
+          "cost": "Gratis",
+          "type": "avontuur",
+          "tip": {
+            "en": "The main road 212 follows the Mekong closely, but take the small detours off the highway to ride right along the water. In October the river is full, brown and fast-flowing with sediment from upstream. In dry season, islands and extra riverbanks are exposed. Watch for farming paths connecting riverside communities.",
+            "nl": "De hoofdweg 212 volgt de Mekong op de voet, maar neem de kleine omwegen van de snelweg om recht langs het water te rijden. In oktober is de rivier vol, bruin en snelstromend met sediment van stroomopwaarts. In het droge seizoen komen eilanden en extra rivieroevers bloot te liggen. Let op landbouwpaden die riviergemeenschappen verbinden."
+          }
+        },
+        {
+          "name": {
+            "en": "Jungle Tractor Adventure",
+            "nl": "Jungle Tractor Avontuur"
+          },
+          "duration": "2-3 uur",
+          "cost": "500 THB",
+          "type": "avontuur",
+          "tip": {
+            "en": "In small villages along Route 212, look for the 'Chitty Chitty Bang Bang' tractors — homemade wooden vehicles with lawnmower engines. For 500 Baht, a local drives you through streams, rubber plantations, and deep into the jungle to hidden swimming spots and waterfalls. One of the most unique, unforgettable experiences in Thailand. Use Google Translate to communicate.",
+            "nl": "In kleine dorpjes langs Route 212, zoek naar de 'Chitty Chitty Bang Bang'-tractoren — zelfgemaakte houten voertuigen met grasmaaier-motoren. Voor 500 Baht rijdt een local je door beken, rubberplantages en diep de jungle in naar verborgen zwemplekken en watervallen. Een van de meest unieke, onvergetelijke ervaringen in Thailand. Gebruik Google Translate om te communiceren."
+          }
+        },
+        {
+          "name": {
+            "en": "White Marble Reclining Buddha Temple",
+            "nl": "Witte Marmeren Liggende Boeddha Tempel"
+          },
+          "duration": "1-2 uur",
+          "cost": "Gratis",
+          "type": "cultureel",
+          "tip": {
+            "en": "Watch for a blue roof on a mountain as you ride — this temple houses a 20-meter reclining Buddha made entirely of white marble imported from Italy. Free to enter. He calls it 'a top 10 temple in Thailand — if this were in Bangkok, it would be the #1 temple.' The setting overlooking the Mekong basin makes it breathtaking. Monks meditate here, so be quiet and respectful.",
+            "nl": "Let op een blauw dak op een berg terwijl je rijdt — deze tempel herbergt een 20 meter lange liggende Boeddha volledig gemaakt van wit marmer geimporteerd uit Italie. Gratis toegang. Hij noemt het 'een top 10 tempel in Thailand — als deze in Bangkok stond, zou het de #1 tempel zijn.' De ligging met uitzicht over het Mekong-bekken maakt het adembenemend. Monniken mediteren hier, dus wees stil en respectvol."
+          }
+        }
+      ],
+      "meals": {
+        "breakfast": {
+          "en": "Early start from Chiang Khan — grab rice porridge or baguettes from a local stall (40-60 THB)",
+          "nl": "Vroege start vanuit Chiang Khan — pak rijstepap of baguettes bij een lokale kraam (40-60 THB)"
+        },
+        "lunch": {
+          "en": "Riverside restaurant at one of the small Mekong villages (80-150 THB)",
+          "nl": "Rivierrestaurant bij een van de kleine Mekong-dorpjes (80-150 THB)"
+        },
+        "dinner": {
+          "en": "Small village restaurant near your riverside hotel",
+          "nl": "Klein dorpsrestaurant bij je rivierhotel"
+        }
+      },
+      "accommodation": {
+        "budget": {
+          "en": "Basic riverside guesthouse (500-700 THB/night)",
+          "nl": "Eenvoudig guesthouse aan de rivier (500-700 THB/nacht)"
+        },
+        "midrange": {
+          "en": "Riverside hotel with Mekong views — small village charm (700-1,000 THB/night)",
+          "nl": "Rivierhotel met Mekong-uitzicht — kleine dorpscharme (700-1.000 THB/nacht)"
+        },
+        "luxury": {
+          "en": "Best riverside hotel you can find along Route 212 (1,200-2,000 THB/night)",
+          "nl": "Beste rivierhotel dat je kunt vinden langs Route 212 (1.200-2.000 THB/nacht)"
+        }
+      },
+      "transport": {
+        "en": "Motorbike or car along Route 212 from Chiang Khan heading east toward Nong Khai. The road follows the Mekong closely. Allow detours on small farming paths for the best river views.",
+        "nl": "Motor of auto langs Route 212 vanuit Chiang Khan richting het oosten naar Nong Khai. De weg volgt de Mekong op de voet. Neem omwegen via kleine landbouwpaden voor het beste rivieruitzicht."
+      }
+    },
+    {
+      "day": 4,
+      "title": {
+        "en": "Riverside Village to Nong Khai",
+        "nl": "Rivierdorpje naar Nong Khai"
+      },
+      "city": "nong-khai",
+      "activities": [
+        {
+          "name": {
+            "en": "Sunrise over the Mekong",
+            "nl": "Zonsopgang boven de Mekong"
+          },
+          "duration": "30 min",
+          "cost": "Gratis",
+          "type": "ontspanning",
+          "tip": {
+            "en": "Wake early for one of the most spectacular sunrises in Thailand. The Mekong turns golden and blue as the storms clear. Worth setting your alarm for.",
+            "nl": "Sta vroeg op voor een van de meest spectaculaire zonsopgangen in Thailand. De Mekong kleurt goud en blauw als de stormen opklaren. Het waard om je wekker voor te zetten."
+          }
+        },
+        {
+          "name": {
+            "en": "Cliff Temple & Mountain Viewpoint",
+            "nl": "Kliftempel & Berg Uitkijkpunt"
+          },
+          "duration": "1-2 uur",
+          "cost": "Gratis",
+          "type": "cultureel",
+          "tip": {
+            "en": "Use a drone or just your eyes to spot temples perched on dramatic cliffs overlooking the Mekong. The viewpoint gives a panoramic view of the river, surrounding villages, and the road you've been riding. A monk meditates and chants here. He described this province as 'like Barnsley or Huddersfield in England — on paper there's nothing here — but unlike those places, Thailand delivers incredible experiences everywhere you go.'",
+            "nl": "Gebruik een drone of gewoon je ogen om tempels te spotten op dramatische kliffen met uitzicht over de Mekong. Het uitkijkpunt biedt een panoramisch uitzicht op de rivier, omliggende dorpen en de weg die je hebt gereden. Een monnik mediteert en chant hier. Hij beschreef deze provincie als 'zoals Barnsley of Huddersfield in Engeland — op papier is hier niets — maar in tegenstelling tot die plekken levert Thailand overal ongelooflijke ervaringen.'"
+          }
+        },
+        {
+          "name": {
+            "en": "Den Ping Cave Exploration",
+            "nl": "Den Ping Grot Verkenning"
+          },
+          "duration": "1-2 uur",
+          "cost": "100 THB donatie + fooi",
+          "type": "avontuur",
+          "tip": {
+            "en": "A raw, unpolished cave experience with a young local guide and nothing but a phone flashlight. No safety equipment, no English, just Google Translate and pure adventure. You'll wade through water, squeeze through tight spaces, and see illuminated silk-worm threads and a hidden Buddha statue deep inside. Claustrophobic but unforgettable. Tip your guide generously (300 THB recommended) — their eyes will light up.",
+            "nl": "Een rauwe, ongepolijste grotervaring met een jonge lokale gids en niets anders dan een telefoonzaklamp. Geen veiligheidsuitrusting, geen Engels, alleen Google Translate en puur avontuur. Je waadt door water, perst je door nauwe ruimtes en ziet verlichte zijderupsendraden en een verborgen Boeddhabeeld diep binnenin. Claustrofobisch maar onvergetelijk. Geef je gids een ruime fooi (300 THB aanbevolen) — hun ogen zullen oplichten."
+          }
+        },
+        {
+          "name": {
+            "en": "Arrive in Nong Khai City",
+            "nl": "Aankomst in Nong Khai Stad"
+          },
+          "duration": "avond",
+          "cost": "Gratis",
+          "type": "cultureel",
+          "tip": {
+            "en": "Nong Khai is a major city connecting Thailand to Laos via the Friendship Bridge. All trade, oil, goods, services and people cross here. The Mekong has very few bridges between the countries, and this is one of them.",
+            "nl": "Nong Khai is een grote stad die Thailand met Laos verbindt via de Vriendschapsbrug. Alle handel, olie, goederen, diensten en mensen steken hier over. De Mekong heeft heel weinig bruggen tussen de landen, en dit is er een van."
+          }
+        }
+      ],
+      "meals": {
+        "breakfast": {
+          "en": "Watch the sunrise and eat at your riverside hotel (50-100 THB)",
+          "nl": "Bekijk de zonsopgang en eet bij je rivierhotel (50-100 THB)"
+        },
+        "lunch": {
+          "en": "Stop at a village stall along Route 212 (60-120 THB)",
+          "nl": "Stop bij een dorpskraam langs Route 212 (60-120 THB)"
+        },
+        "dinner": {
+          "en": "Nong Khai riverside restaurant — celebrate arriving in the big city (150-400 THB)",
+          "nl": "Nong Khai rivierrestaurant — vier je aankomst in de grote stad (150-400 THB)"
+        }
+      },
+      "accommodation": {
+        "budget": {
+          "en": "Nong Khai guesthouse near the river (400-700 THB/night)",
+          "nl": "Nong Khai guesthouse bij de rivier (400-700 THB/nacht)"
+        },
+        "midrange": {
+          "en": "Riverside hotel in Nong Khai with Mekong views (800-1,500 THB/night)",
+          "nl": "Rivierhotel in Nong Khai met Mekong-uitzicht (800-1.500 THB/nacht)"
+        },
+        "luxury": {
+          "en": "Premium riverside hotel near Friendship Bridge (1,500-3,000 THB/night)",
+          "nl": "Premium rivierhotel bij de Vriendschapsbrug (1.500-3.000 THB/nacht)"
+        }
+      },
+      "transport": {
+        "en": "Continue east on Route 212 from your riverside stop to Nong Khai. The road becomes busier as you approach the city. Nong Khai is about 2-3 hours riding from the midpoint villages.",
+        "nl": "Ga verder naar het oosten over Route 212 vanuit je rivierstop naar Nong Khai. De weg wordt drukker naarmate je de stad nadert. Nong Khai ligt op ongeveer 2-3 uur rijden van de tussenliggende dorpen."
+      }
+    },
+    {
+      "day": 5,
+      "title": {
+        "en": "Explore Nong Khai",
+        "nl": "Verken Nong Khai"
+      },
+      "city": "nong-khai",
+      "activities": [
+        {
+          "name": {
+            "en": "Sculpture Park / Buddha Park",
+            "nl": "Beeldenpark / Boeddhapark"
+          },
+          "duration": "2 uur",
+          "cost": "40 THB",
+          "type": "cultureel",
+          "tip": {
+            "en": "Beautiful gardens full of fascinating sculptures telling stories of Buddhist and Hindu mythology. A lake full of enormous catfish — you get a bread roll with your ticket to feed them. You could spend the whole day here admiring the art in the peaceful countryside setting just outside Nong Khai city.",
+            "nl": "Prachtige tuinen vol fascinerende sculpturen die verhalen vertellen over boeddhistische en hindoeïstische mythologie. Een meer vol enorme meervallen — je krijgt een broodje bij je ticket om ze te voeren. Je kunt hier de hele dag doorbrengen met het bewonderen van de kunst in de vredige landelijke omgeving net buiten Nong Khai stad."
+          }
+        },
+        {
+          "name": {
+            "en": "Sunken Stupa - Phra That Klang Nam",
+            "nl": "Verzonken Stupa - Phra That Klang Nam"
+          },
+          "duration": "1 uur",
+          "cost": "Gratis aan de wal / boottocht 100-200 THB",
+          "type": "cultureel",
+          "tip": {
+            "en": "A famous 15th-century stupa that once contained relics of the Buddha. Over centuries, the Mekong changed course and erosion caused it to collapse into the river. In dry season (Nov-Feb), take a boat to see fragments above the waterline — locals drape it in robes. A replica has been built on shore showing what it looked like. Even in high water, boats circle the underwater stupa for prayers.",
+            "nl": "Een beroemde 15e-eeuwse stupa die ooit relikwieën van de Boeddha bevatte. Gedurende eeuwen veranderde de Mekong van koers en veroorzaakte erosie dat hij in de rivier stortte. In het droge seizoen (nov-feb) kun je een boot nemen om fragmenten boven de waterlijn te zien — bewoners hangen er gewaden overheen. Er is een replica op de oever gebouwd die laat zien hoe hij eruitzag. Zelfs bij hoog water varen boten rond de onderwater stupa voor gebeden."
+          }
+        },
+        {
+          "name": {
+            "en": "Mekong Boulevard Sunset Walk",
+            "nl": "Mekong Boulevard Zonsondergangswandeling"
+          },
+          "duration": "2-3 uur",
+          "cost": "Gratis",
+          "type": "ontspanning",
+          "tip": {
+            "en": "Nong Khai's waterfront promenade is one of the most relaxed spots in Thailand. Walk along at sunset with live traditional Isaan music playing. If you're lucky, you'll catch a festival — the End of Buddhist Lent (Ok Phansa) celebration fills the boulevard with night markets, a ladyboy beauty contest with 1000+ spectators on the main street, a carnival for kids, and incredible traditional food.",
+            "nl": "De waterkantpromenade van Nong Khai is een van de meest ontspannen plekken in Thailand. Wandel er bij zonsondergang langs met live traditionele Isaan-muziek. Als je geluk hebt, maak je een festival mee — de viering van het Einde van de Boeddhistische Vasten (Ok Phansa) vult de boulevard met avondmarkten, een ladyboy-schoonheidswedstrijd met 1000+ toeschouwers op de hoofdstraat, een kermis voor kinderen en ongelooflijk traditioneel eten."
+          }
+        }
+      ],
+      "meals": {
+        "breakfast": {
+          "en": "Hotel breakfast or local market stall (40-80 THB)",
+          "nl": "Hotelontbijt of lokale marktkraam (40-80 THB)"
+        },
+        "lunch": {
+          "en": "Restaurant near the Sculpture Park (80-150 THB)",
+          "nl": "Restaurant bij het Beeldenpark (80-150 THB)"
+        },
+        "dinner": {
+          "en": "Nong Khai night market on the boulevard — try everything from the Isaan food stalls (100-300 THB)",
+          "nl": "Nong Khai avondmarkt op de boulevard — probeer alles van de Isaan-eetstalletjes (100-300 THB)"
+        }
+      },
+      "accommodation": {
+        "budget": {
+          "en": "Nong Khai guesthouse (400-700 THB/night)",
+          "nl": "Nong Khai guesthouse (400-700 THB/nacht)"
+        },
+        "midrange": {
+          "en": "Riverside hotel near the boulevard (800-1,500 THB/night)",
+          "nl": "Rivierhotel bij de boulevard (800-1.500 THB/nacht)"
+        },
+        "luxury": {
+          "en": "Best riverside hotel in Nong Khai (1,500-3,000 THB/night)",
+          "nl": "Beste rivierhotel in Nong Khai (1.500-3.000 THB/nacht)"
+        }
+      },
+      "transport": {
+        "en": "Everything in Nong Khai is reachable by motorbike or tuk-tuk. The Sculpture Park is just outside the city.",
+        "nl": "Alles in Nong Khai is bereikbaar per motor of tuk-tuk. Het Beeldenpark ligt net buiten de stad."
+      }
+    },
+    {
+      "day": 6,
+      "title": {
+        "en": "Nong Khai to Bueng Kan & Three Whale Rock",
+        "nl": "Nong Khai naar Bueng Kan & Three Whale Rock"
+      },
+      "city": "bueng-kan",
+      "activities": [
+        {
+          "name": {
+            "en": "Scenic Ride from Nong Khai to Bueng Kan",
+            "nl": "Schilderachtige Rit van Nong Khai naar Bueng Kan"
+          },
+          "duration": "3-4 uur rijden",
+          "cost": "Gratis",
+          "type": "avontuur",
+          "tip": {
+            "en": "Follow Route 212 east along the Mekong. The landscape transforms into rice paddies, bamboo bridges connecting temples to villages, and lotus flowers on the river. Pass through tiny villages where grandmas rest on wooden beds outside and kids cycle around freely. Watch the weather — dramatic storms can roll in quickly but never last long.",
+            "nl": "Volg Route 212 naar het oosten langs de Mekong. Het landschap verandert in rijstvelden, bamboebruggen die tempels met dorpen verbinden en lotusbloemen op de rivier. Rijd door kleine dorpjes waar oma's buiten rusten op houten bedden en kinderen vrij rondietsen. Let op het weer — dramatische stormen kunnen snel opkomen maar duren nooit lang."
+          }
+        },
+        {
+          "name": {
+            "en": "Three Whale Rock / Hin Sam Wan",
+            "nl": "Three Whale Rock / Hin Sam Wan"
+          },
+          "duration": "2-3 uur",
+          "cost": "100 THB entree + 500 THB vrachtwagen",
+          "type": "natuur",
+          "tip": {
+            "en": "One of Thailand's most iconic natural monuments, hidden deep in Isaan. Ancient 75-million-year-old red sandstone formations (Cretaceous period) shaped like three swimming whales — mama, papa, and baby. The iron oxide gives them a Mars-like red glow. A truck takes you to 4-5 viewpoints across the mountain — the distances are huge, 20 minutes between stops. Share the truck to split the 500 THB cost. After rain, the mist rising from the rainforest makes it feel like Jurassic Park. Bring a drone if you have one — the aerial views are spectacular. Be careful on the rocks — extremely slippery when wet.",
+            "nl": "Een van Thailand's meest iconische natuurmonumenten, verborgen diep in Isaan. Oude 75 miljoen jaar oude rode zandsteenformaties (Krijttijdperk) gevormd als drie zwemmende walvissen — mama, papa en baby. Het ijzeroxide geeft ze een Mars-achtige rode gloed. Een truck brengt je naar 4-5 uitkijkpunten over de berg — de afstanden zijn enorm, 20 minuten tussen de stops. Deel de truck om de 500 THB kosten te splitsen. Na regen maakt de mist die opstijgt uit het regenwoud het als Jurassic Park. Neem een drone mee als je er een hebt — de luchtfoto's zijn spectaculair. Wees voorzichtig op de rotsen — extreem glad als het nat is."
+          }
+        }
+      ],
+      "meals": {
+        "breakfast": {
+          "en": "Early breakfast in Nong Khai before departure (40-80 THB)",
+          "nl": "Vroeg ontbijt in Nong Khai voor vertrek (40-80 THB)"
+        },
+        "lunch": {
+          "en": "Stop at a village stall along Route 212 — rice and simple Thai dishes (50-100 THB)",
+          "nl": "Stop bij een dorpskraam langs Route 212 — rijst en eenvoudige Thaise gerechten (50-100 THB)"
+        },
+        "dinner": {
+          "en": "Small restaurant near your bungalow at Three Whale Rock (80-150 THB)",
+          "nl": "Klein restaurant bij je bungalow bij Three Whale Rock (80-150 THB)"
+        }
+      },
+      "accommodation": {
+        "budget": {
+          "en": "Bungalow near Three Whale Rock — 400 THB/night with AC and shower. Basic but perfectly located.",
+          "nl": "Bungalow bij Three Whale Rock — 400 THB/nacht met airco en douche. Basic maar perfect gelegen."
+        },
+        "midrange": {
+          "en": "Guesthouse in Bueng Kan town (600-1,000 THB/night)",
+          "nl": "Guesthouse in Bueng Kan stad (600-1.000 THB/nacht)"
+        },
+        "luxury": {
+          "en": "Best available accommodation in the area (1,000-1,500 THB/night) — options are limited in this remote area",
+          "nl": "Beste beschikbare accommodatie in het gebied (1.000-1.500 THB/nacht) — opties zijn beperkt in dit afgelegen gebied"
+        }
+      },
+      "transport": {
+        "en": "Motorbike or car along Route 212 from Nong Khai heading east. The road follows the Mekong through beautiful countryside. At Three Whale Rock, you need the 500 THB truck to reach the viewpoints — distances between stops are too far to walk.",
+        "nl": "Motor of auto langs Route 212 vanuit Nong Khai richting het oosten. De weg volgt de Mekong door prachtig platteland. Bij Three Whale Rock heb je de 500 THB truck nodig om de uitkijkpunten te bereiken — de afstanden tussen de stops zijn te ver om te lopen."
+      }
+    },
+    {
+      "day": 7,
+      "title": {
+        "en": "Wat Phu Tok & Natural Waterfall Slides",
+        "nl": "Wat Phu Tok & Tham Phra Waterval"
+      },
+      "city": "bueng-kan",
+      "activities": [
+        {
+          "name": {
+            "en": "Morning Drone at Three Whale Rock",
+            "nl": "Ochtend Drone bij Three Whale Rock"
+          },
+          "duration": "30 min",
+          "cost": "Gratis",
+          "type": "fotografie",
+          "tip": {
+            "en": "If you have a drone, the early morning light on the red sandstone is spectacular. You can fly from the nearby rubber plantations without needing park entry. Great for capturing the scale of the rock wall and the Mekong beyond.",
+            "nl": "Als je een drone hebt, is het vroege ochtendlicht op het rode zandsteen spectaculair. Je kunt opstijgen vanaf de nabijgelegen rubberplantages zonder parktoegang nodig te hebben. Geweldig om de schaal van de rotswand en de Mekong erachter vast te leggen."
+          }
+        },
+        {
+          "name": {
+            "en": "Wat Phu Tok Cliff Temple",
+            "nl": "Wat Phu Tok Kliftempel"
+          },
+          "duration": "2-3 uur",
+          "cost": "Gratis",
+          "type": "cultureel",
+          "tip": {
+            "en": "One of Thailand's most beautiful AND most dangerous temples, built on a dramatic rock formation rising from the flat Isaan plains. Wooden walkways, ladders, and bridges are bolted to the cliff face at terrifying heights. Multiple levels with shrines, Buddha statues, and mysterious locked vaults with CCTV. Opens 8:00 AM — go early to beat the heat. Easy to get lost at the top where it becomes a forest. The views are world-class. '90% of people who come to Thailand don't know this exists.'",
+            "nl": "Een van de mooiste EN gevaarlijkste tempels van Thailand, gebouwd op een dramatische rotsformatie die oprijst uit de vlakke Isaan-vlaktes. Houten loopbruggen, ladders en bruggen zijn op duizelingwekkende hoogte aan de rotswand bevestigd. Meerdere niveaus met heiligdommen, Boeddhabeelden en mysterieuze afgesloten kluizen met CCTV. Opent om 8:00 uur — ga vroeg om de hitte voor te zijn. Makkelijk om te verdwalen aan de top waar het een bos wordt. De uitzichten zijn van wereldklasse. '90% van de mensen die naar Thailand komen weet niet dat dit bestaat.'"
+          }
+        },
+        {
+          "name": {
+            "en": "Tham Phra Waterfall",
+            "nl": "Tham Phra Waterval"
+          },
+          "duration": "3-4 uur",
+          "cost": "50 THB boot + 200 THB parkentree",
+          "type": "avontuur",
+          "tip": {
+            "en": "About 2 hours riding from Wat Phu Tok. Take a peaceful boat ride upstream through the forest — a mini safari with monkeys, birds, and fish. The waterfall has incredibly smooth rock that creates natural water slides. Follow the local kids — they know the best sliding spots. VERY slippery, injuries happen (someone got hurt while he was there). Bring lunch, sunscreen, and a swimsuit — you can spend the whole afternoon here. '10/10 beauty, 10/10 adventure, 0 for safety.'",
+            "nl": "Ongeveer 2 uur rijden vanaf Wat Phu Tok. Maak een rustige boottocht stroomopwaarts door het bos — een mini-safari met apen, vogels en vissen. De waterval heeft ongelooflijk glad gesteente dat natuurlijke glijbanen creëert. Volg de lokale kinderen — zij kennen de beste glijplekken. HEEL glad, blessures komen voor (iemand raakte gewond terwijl hij er was). Neem lunch, zonnebrand en een zwempak mee — je kunt hier de hele middag doorbrengen. '10/10 schoonheid, 10/10 avontuur, 0 voor veiligheid.'"
+          }
+        }
+      ],
+      "meals": {
+        "breakfast": {
+          "en": "Early breakfast at your guesthouse near Three Whale Rock (40-60 THB)",
+          "nl": "Vroeg ontbijt bij je guesthouse bij Three Whale Rock (40-60 THB)"
+        },
+        "lunch": {
+          "en": "Pack a lunch for the waterfall — no restaurants inside the park",
+          "nl": "Neem een lunch mee voor de waterval — geen restaurants in het park"
+        },
+        "dinner": {
+          "en": "Small restaurant near your accommodation (80-150 THB)",
+          "nl": "Klein restaurant bij je accommodatie (80-150 THB)"
+        }
+      },
+      "accommodation": {
+        "budget": {
+          "en": "Same bungalow near Three Whale Rock or guesthouse near Naga Cave area (400-600 THB/night)",
+          "nl": "Dezelfde bungalow bij Three Whale Rock of guesthouse bij het Naga Cave-gebied (400-600 THB/nacht)"
+        },
+        "midrange": {
+          "en": "Guesthouse in Bueng Kan town (600-1,000 THB/night)",
+          "nl": "Guesthouse in Bueng Kan stad (600-1.000 THB/nacht)"
+        },
+        "luxury": {
+          "en": "Best available accommodation in the area (1,000-1,500 THB/night)",
+          "nl": "Beste beschikbare accommodatie in het gebied (1.000-1.500 THB/nacht)"
+        }
+      },
+      "transport": {
+        "en": "Motorbike essential for exploring Bueng Kan province. Distances between attractions are significant (1-2 hours riding). The roads are scenic with rice paddies and small villages.",
+        "nl": "Motor essentieel voor het verkennen van de provincie Bueng Kan. Afstanden tussen attracties zijn aanzienlijk (1-2 uur rijden). De wegen zijn schilderachtig met rijstvelden en kleine dorpjes."
+      }
+    },
+    {
+      "day": 8,
+      "title": {
+        "en": "Naga Cave Trail & Depart Bueng Kan",
+        "nl": "Naga Cave Trail & Vertrek uit Bueng Kan"
+      },
+      "city": "bueng-kan",
+      "activities": [
+        {
+          "name": {
+            "en": "Naga Cave Trail",
+            "nl": "Naga Cave Trail"
+          },
+          "duration": "3-4 uur",
+          "cost": "100 THB park + 500 THB verplichte gids",
+          "type": "avontuur",
+          "tip": {
+            "en": "Opens at 6:00 AM — be there at opening. STRICT 2:00 PM deadline for entry (he missed it by 20 minutes the first day and had to come back). The mandatory guide leads you through rock formations that look exactly like giant naga/snake scales — ladders built between crevices, caves with sacred Buddha statues, and the 'head of the naga' where you can whisper a wish into its ear. At the top: a golden stupa with panoramic views of Three Whale Rock, Wat Phu Tok, and the surrounding lakes. 'One of the coolest things I've done in Thailand.' Go early to beat the heat — you'll be climbing and sweating.",
+            "nl": "Opent om 6:00 uur — wees er bij opening. STRIKTE deadline van 14:00 uur voor toegang (hij miste het met 20 minuten op de eerste dag en moest terugkomen). De verplichte gids leidt je door rotsformaties die er precies uitzien als reusachtige naga/slangeschubben — ladders gebouwd tussen spleten, grotten met heilige Boeddhabeelden en de 'kop van de naga' waar je een wens in zijn oor kunt fluisteren. Aan de top: een gouden stupa met panoramisch uitzicht op Three Whale Rock, Wat Phu Tok en de omliggende meren. 'Een van de coolste dingen die ik in Thailand heb gedaan.' Ga vroeg om de hitte voor te zijn — je zult klimmen en zweten."
+          }
+        },
+        {
+          "name": {
+            "en": "Evening Ride toward Nakhon Phanom",
+            "nl": "Avondrit richting Nakhon Phanom"
+          },
+          "duration": "2-3 uur",
+          "cost": "Gratis",
+          "type": "avontuur",
+          "tip": {
+            "en": "After the Naga Cave, continue following Route 212 east along the Mekong toward Nakhon Phanom. The road passes through beautiful countryside with rice paddies, lotus flowers, and tiny Mekong-side villages. Look for golden temples glinting on distant cliffs — there's always something to discover.",
+            "nl": "Na de Naga Cave, vervolg Route 212 naar het oosten langs de Mekong richting Nakhon Phanom. De weg gaat door prachtig platteland met rijstvelden, lotusbloemen en kleine dorpjes aan de Mekong. Kijk uit naar gouden tempels die glinsteren op verre kliffen — er valt altijd iets te ontdekken."
+          }
+        }
+      ],
+      "meals": {
+        "breakfast": {
+          "en": "Very early breakfast before Naga Cave — pack snacks and water for the trail",
+          "nl": "Heel vroeg ontbijt voor de Naga Cave — neem snacks en water mee voor het pad"
+        },
+        "lunch": {
+          "en": "Late lunch at a village restaurant after descending from Naga Cave (60-120 THB)",
+          "nl": "Late lunch bij een dorpsrestaurant na de afdaling van Naga Cave (60-120 THB)"
+        },
+        "dinner": {
+          "en": "Riverside restaurant en route to or arriving in Nakhon Phanom (100-250 THB)",
+          "nl": "Rivierrestaurant onderweg naar of bij aankomst in Nakhon Phanom (100-250 THB)"
+        }
+      },
+      "accommodation": {
+        "budget": {
+          "en": "Guesthouse along the Mekong between Bueng Kan and Nakhon Phanom (400-700 THB/night)",
+          "nl": "Guesthouse langs de Mekong tussen Bueng Kan en Nakhon Phanom (400-700 THB/nacht)"
+        },
+        "midrange": {
+          "en": "Small hotel in a riverside town (700-1,200 THB/night)",
+          "nl": "Klein hotel in een rivierstadje (700-1.200 THB/nacht)"
+        },
+        "luxury": {
+          "en": "Best riverside hotel you can find (1,200-2,000 THB/night)",
+          "nl": "Beste rivierhotel dat je kunt vinden (1.200-2.000 THB/nacht)"
+        }
+      },
+      "transport": {
+        "en": "Motorbike along Route 212 east from Bueng Kan toward Nakhon Phanom. Allow 2-3 hours for the ride, but take your time — the scenery along the Mekong is spectacular.",
+        "nl": "Motor langs Route 212 naar het oosten vanuit Bueng Kan richting Nakhon Phanom. Reken op 2-3 uur voor de rit, maar neem je tijd — het landschap langs de Mekong is spectaculair."
+      }
+    },
+    {
+      "day": 9,
+      "title": {
+        "en": "Arrive in Nakhon Phanom & Vietnamese Heritage",
+        "nl": "Aankomst in Nakhon Phanom & Vietnamese Erfgoed"
+      },
+      "city": "nakhon-phanom",
+      "activities": [
+        {
+          "name": {
+            "en": "Sacred Lake Boat Trip",
+            "nl": "Heilig Meer Boottocht"
+          },
+          "duration": "1-2 uur",
+          "cost": "50 THB boot + 30 THB entree",
+          "type": "cultureel",
+          "tip": {
+            "en": "On the way from Bueng Kan, stop at a sacred lake where locals take boat trips to pray at temple islands and a holy water source. According to local belief, a powerful Naga spirit lives beneath the lake and protects the region. Locals come to pray, make offerings, and even ask for lucky lottery numbers. Boats leave from multiple entry points — just 50 THB for the ride.",
+            "nl": "Op weg vanuit Bueng Kan, stop bij een heilig meer waar bewoners boottochten maken om te bidden bij tempeleilanden en een heilige waterbron. Volgens lokaal geloof leeft er een krachtige Naga-geest onder het meer die de regio beschermt. Bewoners komen om te bidden, offers te brengen en zelfs om geluksnummers voor de loterij te vragen. Boten vertrekken vanaf meerdere instappunten — slechts 50 THB voor de rit."
+          }
+        },
+        {
+          "name": {
+            "en": "Golden Lao-Style Stupas along the Mekong",
+            "nl": "Gouden Laotiaanse Stupa's langs de Mekong"
+          },
+          "duration": "1 uur",
+          "cost": "Gratis",
+          "type": "cultureel",
+          "tip": {
+            "en": "You'll notice these pointed white-and-gold stupas are unique to this region — different from temples elsewhere in Thailand. The shape symbolizes the upward direction toward enlightenment. You'll see four or five along this stretch of the Mekong, with the Laotian Tha Khek mountains as a dramatic backdrop.",
+            "nl": "Je zult merken dat deze puntige wit-gouden stupa's uniek zijn voor deze regio — anders dan tempels elders in Thailand. De vorm symboliseert de opwaartse richting naar verlichting. Je ziet er vier of vijf langs dit stuk van de Mekong, met de Laotiaanse Tha Khek-bergen als dramatisch decor."
+          }
+        },
+        {
+          "name": {
+            "en": "Ho Chi Minh House",
+            "nl": "Ho Chi Minh Huis"
+          },
+          "duration": "1-2 uur",
+          "cost": "30-200 THB",
+          "type": "cultureel",
+          "tip": {
+            "en": "A quiet wooden house where Ho Chi Minh lived in exile in the 1920s while secretly organizing Vietnamese independence movements. The house has been reconstructed in original style with wooden walls, thatched roof, and simple furniture. The gardens are full of fruit trees he planted by hand — pomelo, guava, jackfruit, karamoa. A fascinating piece of Vietnamese history hidden in rural Thailand. Explains why Nakhon Phanom has such strong Vietnamese cultural connections.",
+            "nl": "Een stil houten huis waar Ho Chi Minh in ballingschap woonde in de jaren 1920 terwijl hij in het geheim Vietnamese onafhankelijkheidsbewegingen organiseerde. Het huis is gereconstrueerd in originele stijl met houten muren, rieten dak en eenvoudig meubilair. De tuinen staan vol met fruitbomen die hij eigenhandig plantte — pomelo, guave, jackfruit, karamoa. Een fascinerend stukje Vietnamese geschiedenis verborgen in landelijk Thailand. Verklaart waarom Nakhon Phanom zulke sterke Vietnamese culturele banden heeft."
+          }
+        }
+      ],
+      "meals": {
+        "breakfast": {
+          "en": "Stop at a village stall during the morning ride (40-80 THB)",
+          "nl": "Stop bij een dorpskraam tijdens de ochtendrit (40-80 THB)"
+        },
+        "lunch": {
+          "en": "Vietnamese-Thai restaurant in Nakhon Phanom — try the rice congee with roasted pork (80-150 THB)",
+          "nl": "Vietnamees-Thais restaurant in Nakhon Phanom — probeer de rijstcongee met geroosterd varkensvlees (80-150 THB)"
+        },
+        "dinner": {
+          "en": "Riverside restaurant on the Mekong promenade (150-300 THB)",
+          "nl": "Rivierrestaurant aan de Mekong-promenade (150-300 THB)"
+        }
+      },
+      "accommodation": {
+        "budget": {
+          "en": "Riverside guesthouse with Mekong views (500-800 THB/night)",
+          "nl": "Guesthouse aan de rivier met Mekong-uitzicht (500-800 THB/nacht)"
+        },
+        "midrange": {
+          "en": "Hotel near the promenade — he stayed in the same room as 3 years ago (800-1,500 THB/night)",
+          "nl": "Hotel bij de promenade — hij verbleef in dezelfde kamer als 3 jaar geleden (800-1.500 THB/nacht)"
+        },
+        "luxury": {
+          "en": "Best riverside hotel with mountain views across to Laos (1,500-3,000 THB/night)",
+          "nl": "Beste rivierhotel met bergzicht naar Laos (1.500-3.000 THB/nacht)"
+        }
+      },
+      "transport": {
+        "en": "Ride from Bueng Kan along Route 212 — long but scenic. Alternatively, fly from Bangkok to Nakhon Phanom Airport (short flight). In town, everything is reachable by bicycle or motorbike.",
+        "nl": "Rit vanuit Bueng Kan langs Route 212 — lang maar schilderachtig. Je kunt ook vliegen vanuit Bangkok naar Nakhon Phanom Airport (korte vlucht). In de stad is alles bereikbaar per fiets of motor."
+      }
+    },
+    {
+      "day": 10,
+      "title": {
+        "en": "Nakhon Phanom Food Tour & Mekong Sunset Cruise",
+        "nl": "Nakhon Phanom Food Tour & Mekong Zonsondergangscruise"
+      },
+      "city": "nakhon-phanom",
+      "activities": [
+        {
+          "name": {
+            "en": "Triple Breakfast Food Tour",
+            "nl": "Drievoudig Ontbijt Food Tour"
+          },
+          "duration": "2-3 uur",
+          "cost": "200-400 THB totaal",
+          "type": "eten",
+          "tip": {
+            "en": "Nakhon Phanom's food scene is incredible — do three breakfast stops like the video: 1) Wooden house restaurant for rice congee with roasted pork and banana (traditional Thai-Vietnamese), 2) Noodle restaurant next door, 3) Vietnamese pancakes and dumplings place (the best one). The food is a unique fusion of Thai and Vietnamese cuisine you won't find anywhere else in Thailand.",
+            "nl": "De foodscene van Nakhon Phanom is ongelooflijk — doe drie ontbijtstops zoals in de video: 1) Houten huisrestaurant voor rijstcongee met geroosterd varkensvlees en banaan (traditioneel Thais-Vietnamees), 2) Noedelrestaurant ernaast, 3) Vietnamese pannenkoeken- en dumplingzaak (de beste). Het eten is een unieke fusie van Thaise en Vietnamese keuken die je nergens anders in Thailand vindt."
+          }
+        },
+        {
+          "name": {
+            "en": "Explore Nakhon Phanom by Bicycle",
+            "nl": "Verken Nakhon Phanom per Fiets"
+          },
+          "duration": "2-3 uur",
+          "cost": "Gratis of fietsverhuur",
+          "type": "ontspanning",
+          "tip": {
+            "en": "Cycle along the Mekong promenade, explore the backstreets, and discover the Vietnamese cultural influences everywhere — in the food sold, faces on the street, and even the language spoken by some locals. The architecture is beautiful with golden flashes of art and temples. 'The perfect culinary escape from busy Bangkok.'",
+            "nl": "Fiets langs de Mekong-promenade, verken de achterstraatjes en ontdek overal de Vietnamese culturele invloeden — in het eten dat verkocht wordt, de gezichten op straat en zelfs de taal die door sommige bewoners gesproken wordt. De architectuur is prachtig met gouden flitsen van kunst en tempels. 'De perfecte culinaire ontsnapping uit het drukke Bangkok.'"
+          }
+        },
+        {
+          "name": {
+            "en": "Mekong Sunset Boat Cruise",
+            "nl": "Mekong Zonsondergangs Boottocht"
+          },
+          "duration": "1,5-2 uur",
+          "cost": "150 THB",
+          "type": "ontspanning",
+          "tip": {
+            "en": "Depart at 5:30 PM from near the golden Naga statue on the main road along the Mekong. The 150 THB boat cruise includes beer, drinks, and food. Watch the sunset paint the Mekong gold while the Laotian mountains glow in the distance. An unforgettable way to spend an evening. Night market and live music on the promenade afterward.",
+            "nl": "Vertrek om 17:30 uur bij het gouden Naga-beeld aan de hoofdweg langs de Mekong. De boottocht van 150 THB is inclusief bier, drankjes en eten. Kijk hoe de zonsondergang de Mekong goud kleurt terwijl de Laotiaanse bergen in de verte gloeien. Een onvergetelijke manier om een avond door te brengen. Avondmarkt en livemuziek op de promenade daarna."
+          }
+        }
+      ],
+      "meals": {
+        "breakfast": {
+          "en": "Triple breakfast food tour — congee, noodles, and Vietnamese pancakes (200-400 THB)",
+          "nl": "Drievoudige ontbijt food tour — congee, noedels en Vietnamese pannenkoeken (200-400 THB)"
+        },
+        "lunch": {
+          "en": "Banana bread food truck along the promenade — bread baked over coals with flavorful fillings (50-100 THB)",
+          "nl": "Bananenbrood foodtruck langs de promenade — brood gebakken op kolen met smaakvolle vullingen (50-100 THB)"
+        },
+        "dinner": {
+          "en": "Dinner on the Mekong sunset boat cruise (included in 150 THB), plus night market snacks after",
+          "nl": "Diner op de Mekong zonsondergangscruise (inbegrepen bij 150 THB), plus avondmarktsnacks daarna"
+        }
+      },
+      "accommodation": {
+        "budget": {
+          "en": "Same riverside guesthouse — stay a second night (500-800 THB/night)",
+          "nl": "Hetzelfde guesthouse aan de rivier — blijf een tweede nacht (500-800 THB/nacht)"
+        },
+        "midrange": {
+          "en": "Same hotel near the promenade (800-1,500 THB/night)",
+          "nl": "Hetzelfde hotel bij de promenade (800-1.500 THB/nacht)"
+        },
+        "luxury": {
+          "en": "Same luxury riverside hotel (1,500-3,000 THB/night)",
+          "nl": "Hetzelfde luxe rivierhotel (1.500-3.000 THB/nacht)"
+        }
+      },
+      "transport": {
+        "en": "Everything in Nakhon Phanom is reachable by bicycle. Rent one for the day. The sunset cruise departs from near the golden Naga statue on the main riverside road.",
+        "nl": "Alles in Nakhon Phanom is bereikbaar per fiets. Huur er een voor de dag. De zonsondergangscruise vertrekt bij het gouden Naga-beeld aan de hoofdweg langs de rivier."
+      }
+    },
+    {
+      "day": 11,
+      "title": {
+        "en": "Nakhon Phanom to Mukdahan",
+        "nl": "Nakhon Phanom naar Mukdahan"
+      },
+      "city": "mukdahan",
+      "activities": [
+        {
+          "name": {
+            "en": "Riverside Coffee & Vietnamese Breakfast in Nakhon Phanom",
+            "nl": "Koffie aan de Rivier & Vietnamees Ontbijt in Nakhon Phanom"
+          },
+          "duration": "1,5 uur",
+          "cost": "100-200 THB",
+          "type": "eten",
+          "tip": {
+            "en": "Start with coffee at the riverside vendor who sets up every morning from 6 AM to 1 PM with Nepalese flags, picnic tables, and loungers right by the Mekong. Then get Vietnamese pancakes stuffed with pork and chai, and the ones with fried egg in the middle — 'worth coming to Nakhon Phanom just for these.' Locations linked in the video description.",
+            "nl": "Begin met koffie bij de verkoper aan de rivier die elke ochtend van 6 tot 13 uur een kraam opzet met Nepalese vlaggen, picknicktafels en ligstoelen recht aan de Mekong. Neem dan Vietnamese pannenkoeken gevuld met varkensvlees en chai, en die met gebakken ei in het midden — 'alleen hiervoor al de moeite waard om naar Nakhon Phanom te komen.' Locaties gelinkt in de videobeschrijving."
+          }
+        },
+        {
+          "name": {
+            "en": "Golden Lao-Style Temple Stop",
+            "nl": "Stop bij Gouden Laotiaanse Tempel"
+          },
+          "duration": "30 min",
+          "cost": "Gratis",
+          "type": "cultureel",
+          "tip": {
+            "en": "Along the route to Mukdahan, watch for golden Lao-style pointed stupas glinting in the sunlight. This stretch has some of the most stunning ones. If you find one that's open, step inside — one had 13+ golden statues glittering under candlelight and chandeliers. 'You don't get temple fatigue here because they're so unique.'",
+            "nl": "Langs de route naar Mukdahan, let op gouden Laotiaanse puntige stupa's die glinsteren in het zonlicht. Dit stuk heeft enkele van de meest indrukwekkende. Als je er een vindt die open is, ga naar binnen — eentje had 13+ gouden beelden die glinsterde onder kaarslicht en kroonluchters. 'Je krijgt hier geen tempelmoeheid omdat ze zo uniek zijn.'"
+          }
+        },
+        {
+          "name": {
+            "en": "Arrive in Mukdahan & Check Into Riverside Bungalow",
+            "nl": "Aankomst in Mukdahan & Inchecken bij Bungalow aan de Rivier"
+          },
+          "duration": "1 uur",
+          "cost": "Gratis",
+          "type": "ontspanning",
+          "tip": {
+            "en": "Find a riverside bungalow directly on the Mekong — 800 THB/night gets you a cute bungalow with garden, beanbag chairs under shady trees, free coffee, and wifi. Executive huts available for 1,200 THB. The breeze off the Mekong is heavenly. Walk the path along the river into town. Gates close at 9 PM.",
+            "nl": "Zoek een bungalow aan de rivier direct aan de Mekong — 800 THB/nacht geeft je een schattige bungalow met tuin, zitzakken onder schaduwrijke bomen, gratis koffie en wifi. Executive hutten beschikbaar voor 1.200 THB. De bries van de Mekong is hemels. Loop het pad langs de rivier naar het stadje. Hekken sluiten om 21:00 uur."
+          }
+        }
+      ],
+      "meals": {
+        "breakfast": {
+          "en": "Vietnamese pancakes and dumplings in Nakhon Phanom — the best breakfast on the Mekong (80-150 THB)",
+          "nl": "Vietnamese pannenkoeken en dumplings in Nakhon Phanom — het beste ontbijt aan de Mekong (80-150 THB)"
+        },
+        "lunch": {
+          "en": "Pit stop at Café Amazon at a gas station in That Phanom — iced tea and snacks (60-100 THB)",
+          "nl": "Pitstop bij Café Amazon bij een tankstation in That Phanom — ijsthee en snacks (60-100 THB)"
+        },
+        "dinner": {
+          "en": "Riverside restaurant in Mukdahan — laab, kale with pork belly, sticky rice, cold beer (150-300 THB)",
+          "nl": "Rivierrestaurant in Mukdahan — laab, boerenkool met buikspek, kleefrijst, koud bier (150-300 THB)"
+        }
+      },
+      "accommodation": {
+        "budget": {
+          "en": "Riverside bungalow on the Mekong with garden and beanbags (800 THB/night)",
+          "nl": "Bungalow aan de rivier op de Mekong met tuin en zitzakken (800 THB/nacht)"
+        },
+        "midrange": {
+          "en": "Executive riverside bungalow with more space (1,200 THB/night)",
+          "nl": "Executive bungalow aan de rivier met meer ruimte (1.200 THB/nacht)"
+        },
+        "luxury": {
+          "en": "Best hotel in Mukdahan with river views (1,500-2,500 THB/night)",
+          "nl": "Beste hotel in Mukdahan met rivieruitzicht (1.500-2.500 THB/nacht)"
+        }
+      },
+      "transport": {
+        "en": "Ride Route 212 south from Nakhon Phanom through That Phanom to Mukdahan. Mostly flat agricultural land and main road. Take the quieter riverside roads when possible for more intimate views of farming life and small villages.",
+        "nl": "Rijd Route 212 naar het zuiden vanuit Nakhon Phanom via That Phanom naar Mukdahan. Voornamelijk vlak landbouwgebied en hoofdweg. Neem de rustigere wegen langs de rivier wanneer mogelijk voor een intiemer zicht op het boerenleven en kleine dorpjes."
+      }
+    },
+    {
+      "day": 12,
+      "title": {
+        "en": "Mukdahan — Naga Temple, Big Buddha & Loy Krathong",
+        "nl": "Mukdahan — Nagatempel, Grote Boeddha & Loy Krathong"
+      },
+      "city": "mukdahan",
+      "activities": [
+        {
+          "name": {
+            "en": "Naga Temple & Big Buddha",
+            "nl": "Nagatempel & Grote Boeddha"
+          },
+          "duration": "2-3 uur",
+          "cost": "Gratis + 100 THB donatie",
+          "type": "cultureel",
+          "tip": {
+            "en": "Free entry with a free shuttle bus up the hill. The colorful Naga statue sits on lava-like rock with red prayer ribbons tied to trees — whisper a wish with a pure heart and the Naga carries it down the Mekong. The enormous white Big Buddha statue (finished in recent years) has panoramic views of Mukdahan, the Mekong, and Savannakhet in Laos. Touch the Buddha's fingers for a gesture of deep respect. Come during the golden hour for the best light.",
+            "nl": "Gratis toegang met een gratis pendelbus de heuvel op. Het kleurrijke Nagabeeld zit op lava-achtig gesteente met rode gebedslintjes aan de bomen — fluister een wens met een puur hart en de Naga draagt het de Mekong af. Het enorme witte Grote Boeddhabeeld (in de afgelopen jaren voltooid) biedt panoramisch uitzicht op Mukdahan, de Mekong en Savannakhet in Laos. Raak de vingers van de Boeddha aan als gebaar van diep respect. Kom tijdens het gouden uur voor het mooiste licht."
+          }
+        },
+        {
+          "name": {
+            "en": "Relaxation Day at the Bungalow",
+            "nl": "Relaxdag bij de Bungalow"
+          },
+          "duration": "middag",
+          "cost": "Gratis",
+          "type": "ontspanning",
+          "tip": {
+            "en": "Not every day on a road trip needs to be action-packed. Spend the afternoon on a beanbag under a shady tree by the Mekong, feeling the heavenly breeze. The perfect spot for a nap, journaling, or planning the next leg of your trip.",
+            "nl": "Niet elke dag op een roadtrip hoeft vol actie te zitten. Breng de middag door op een zitzak onder een schaduwrijke boom aan de Mekong, genietend van de hemelse bries. De perfecte plek voor een dutje, journaling of het plannen van het volgende deel van je reis."
+          }
+        },
+        {
+          "name": {
+            "en": "Loy Krathong Evening on the Mekong",
+            "nl": "Loy Krathong Avond op de Mekong"
+          },
+          "duration": "2-3 uur",
+          "cost": "20 THB voor krathong",
+          "type": "cultureel",
+          "tip": {
+            "en": "If you're here during the full moon in November, join families floating krathongs on the Mekong. Buy a fish-food krathong (20 THB, better for the environment) from vendors by the river. Light the incense, make a wish, and push your krathong into the current. Watch local kids fish out floating krathongs hoping to find money inside. Even without the big festivities, it's a beautiful, intimate family event under the full moon. Craft beer tent and live music at the riverside afterward.",
+            "nl": "Als je hier bent tijdens volle maan in november, doe dan mee met families die krathongs laten drijven op de Mekong. Koop een krathong van visvoer (20 THB, beter voor het milieu) bij verkopers aan de rivier. Steek de wierook aan, doe een wens en duw je krathong de stroom in. Kijk hoe lokale kinderen drijvende krathongs opvissen in de hoop geld te vinden. Zelfs zonder de grote festiviteiten is het een prachtig, intiem familieevenement onder de volle maan. Craftbiertent en livemuziek aan de rivier daarna."
+          }
+        }
+      ],
+      "meals": {
+        "breakfast": {
+          "en": "Breakfast at your bungalow or a local stall in town (40-80 THB)",
+          "nl": "Ontbijt bij je bungalow of een lokale kraam in het stadje (40-80 THB)"
+        },
+        "lunch": {
+          "en": "Light lunch in Mukdahan town (60-120 THB)",
+          "nl": "Lichte lunch in het stadje Mukdahan (60-120 THB)"
+        },
+        "dinner": {
+          "en": "Riverside restaurant before Loy Krathong — laab, sticky rice, cold beer (150-300 THB)",
+          "nl": "Rivierrestaurant voor Loy Krathong — laab, kleefrijst, koud bier (150-300 THB)"
+        }
+      },
+      "accommodation": {
+        "budget": {
+          "en": "Same riverside bungalow — second night (800 THB/night)",
+          "nl": "Dezelfde bungalow aan de rivier — tweede nacht (800 THB/nacht)"
+        },
+        "midrange": {
+          "en": "Same executive bungalow (1,200 THB/night)",
+          "nl": "Dezelfde executive bungalow (1.200 THB/nacht)"
+        },
+        "luxury": {
+          "en": "Same luxury hotel (1,500-2,500 THB/night)",
+          "nl": "Hetzelfde luxehotel (1.500-2.500 THB/nacht)"
+        }
+      },
+      "transport": {
+        "en": "Everything in Mukdahan is walkable or a short motorbike ride. The Naga Temple has a free shuttle bus. Walk the riverside path between your bungalow and the town center.",
+        "nl": "Alles in Mukdahan is lopend bereikbaar of een korte motorrit. De Nagatempel heeft een gratis pendelbus. Loop het pad langs de rivier tussen je bungalow en het stadscentrum."
+      }
+    },
+    {
+      "day": 13,
+      "title": {
+        "en": "Mukdahan to Ubon — Pha Taem National Park",
+        "nl": "Mukdahan naar Ubon — Pha Taem Nationaal Park"
+      },
+      "city": "ubon-ratchathani",
+      "activities": [
+        {
+          "name": {
+            "en": "Long Ride from Mukdahan to Pha Taem Area",
+            "nl": "Lange Rit van Mukdahan naar Pha Taem Gebied"
+          },
+          "duration": "5-6 uur",
+          "cost": "Gratis",
+          "type": "avontuur",
+          "tip": {
+            "en": "This is the longest riding day — about 6 hours through beautiful harvest-season farmland. Watch rice harvesters in the fields and stop at golden and red Lao-style stupas along the way. Pass through police checkpoints where officers just want to know which football club you support. Fill up at gas stations with Café Amazon (120 THB to fill a motorbike, iced tea for the road). Book accommodation near Pha Taem — PK Riverside Resort has stunning views of Laos cliffs, a futuristic Memory Cafe with glass walls, and rooms from 1,300 THB/night with breakfast.",
+            "nl": "Dit is de langste rijdag — ongeveer 6 uur door prachtig boerenland in het oogstseizoen. Kijk naar rijstoogsters in de velden en stop bij gouden en rode Laotiaanse stupa's onderweg. Passeer politiecontroleposten waar agenten alleen willen weten welke voetbalclub je steunt. Tank bij benzinestations met Café Amazon (120 THB om een motor vol te tanken, ijsthee voor onderweg). Boek accommodatie bij Pha Taem — PK Riverside Resort heeft adembenemend uitzicht op de Laotiaanse kliffen, een futuristisch Memory Cafe met glazen wanden en kamers vanaf 1.300 THB/nacht met ontbijt."
+          }
+        },
+        {
+          "name": {
+            "en": "Arrive & Relax at Riverside Resort",
+            "nl": "Aankomst & Ontspannen bij Riverside Resort"
+          },
+          "duration": "avond",
+          "cost": "Gratis",
+          "type": "ontspanning",
+          "tip": {
+            "en": "After the long ride, settle into your riverside accommodation. The resort sits right on the Mekong with views of dramatic Laotian cliffs. Enjoy the Memory Cafe — a beautiful glass-walled space with chocolate banana drinks and uninterrupted river views. Perfect for resting up before tomorrow's national park adventures.",
+            "nl": "Na de lange rit, installeer je in je accommodatie aan de rivier. Het resort ligt direct aan de Mekong met uitzicht op de dramatische Laotiaanse kliffen. Geniet van het Memory Cafe — een prachtige ruimte met glazen wanden, chocolade-bananendranken en ononderbroken rivieruitzicht. Perfect om uit te rusten voor de avonturen in het nationaal park van morgen."
+          }
+        }
+      ],
+      "meals": {
+        "breakfast": {
+          "en": "Final Vietnamese breakfast in Mukdahan before departure (80-150 THB)",
+          "nl": "Laatste Vietnamees ontbijt in Mukdahan voor vertrek (80-150 THB)"
+        },
+        "lunch": {
+          "en": "Café Amazon at a gas station along the way — iced tea and snacks (60-100 THB)",
+          "nl": "Café Amazon bij een tankstation onderweg — ijsthee en snacks (60-100 THB)"
+        },
+        "dinner": {
+          "en": "Restaurant at your riverside resort near Pha Taem (150-300 THB)",
+          "nl": "Restaurant bij je riverside resort nabij Pha Taem (150-300 THB)"
+        }
+      },
+      "accommodation": {
+        "budget": {
+          "en": "Basic accommodation near Pha Taem National Park (500-800 THB/night)",
+          "nl": "Eenvoudige accommodatie bij Pha Taem Nationaal Park (500-800 THB/nacht)"
+        },
+        "midrange": {
+          "en": "PK Riverside Resort — stunning Mekong views, Memory Cafe, breakfast included (1,300 THB/night)",
+          "nl": "PK Riverside Resort — adembenemend Mekong-uitzicht, Memory Cafe, ontbijt inbegrepen (1.300 THB/nacht)"
+        },
+        "luxury": {
+          "en": "Best resort near Pha Taem with river views (1,500-2,500 THB/night)",
+          "nl": "Beste resort bij Pha Taem met rivieruitzicht (1.500-2.500 THB/nacht)"
+        }
+      },
+      "transport": {
+        "en": "Long ride south from Mukdahan through agricultural Isaan. Mostly main roads through flat farmland. Allow the full day — it's farther than expected.",
+        "nl": "Lange rit naar het zuiden vanuit Mukdahan door agrarisch Isaan. Voornamelijk hoofdwegen door vlak boerenland. Reken op de hele dag — het is verder dan verwacht."
+      }
+    },
+    {
+      "day": 14,
+      "title": {
+        "en": "Pha Taem National Park & The Mekong Finale",
+        "nl": "Pha Taem Nationaal Park & De Mekong Finale"
+      },
+      "city": "ubon-ratchathani",
+      "activities": [
+        {
+          "name": {
+            "en": "Sao Chaliang Rock Formations",
+            "nl": "Sao Chaliang Rotsformaties"
+          },
+          "duration": "1-2 uur",
+          "cost": "200 THB entree nationaal park",
+          "type": "natuur",
+          "tip": {
+            "en": "Dramatic geological formations that look like an alien planet — cracks and fissures in the earth's crust unlike anything else in Thailand. The most easterly point of Thailand, meaning you can see the country's first sunrise here. Viewpoints over the Mekong and Laos. Explore the crevices — they're fascinating.",
+            "nl": "Dramatische geologische formaties die eruitzien als een buitenaardse planeet — scheuren en spleten in de aardkorst anders dan wat dan ook in Thailand. Het meest oostelijke punt van Thailand, wat betekent dat je hier de eerste zonsopgang van het land kunt zien. Uitzichtpunten over de Mekong en Laos. Verken de spleten — ze zijn fascinerend."
+          }
+        },
+        {
+          "name": {
+            "en": "Prehistoric Cave Paintings at Pha Mon Noi",
+            "nl": "Prehistorische Grotschilderingen bij Pha Mon Noi"
+          },
+          "duration": "1 uur",
+          "cost": "Inbegrepen bij parKentree",
+          "type": "cultureel",
+          "tip": {
+            "en": "Walk through the cliffside forest to find 3,000+ year old cave paintings showing elephants, turtles, palm trees, human figures, and mysterious handprints. Four or five different painting groups along the cliffs. Hard to spot — keep your eyes open. The humanoid figures with triangular heads are the most intriguing.",
+            "nl": "Wandel door het bos langs de kliffen om 3.000+ jaar oude grotschilderingen te vinden met olifanten, schildpadden, palmbomen, menselijke figuren en mysterieuze handafdrukken. Vier of vijf verschillende schildergroepen langs de kliffen. Moeilijk te zien — houd je ogen open. De mensachtige figuren met driehoekige hoofden zijn het meest intrigerend."
+          }
+        },
+        {
+          "name": {
+            "en": "Soi Sawan & Sang Chan Waterfalls",
+            "nl": "Soi Sawan & Sang Chan Watervallen"
+          },
+          "duration": "2-3 uur",
+          "cost": "Inbegrepen bij parKentree",
+          "type": "natuur",
+          "tip": {
+            "en": "Two unique waterfalls in the national park. Soi Sawan has natural rock slides but is VERY slippery — someone was injured while filming. Sang Chan is truly unique: watch the water disappear into a hole from above, then go below to see it emerge spectacularly. Allow 20 minutes driving between waterfalls.",
+            "nl": "Twee unieke watervallen in het nationaal park. Soi Sawan heeft natuurlijke rotsglijbanen maar is ERG glad — iemand raakte gewond tijdens het filmen. Sang Chan is echt uniek: kijk hoe het water van bovenaf in een gat verdwijnt en ga dan naar beneden om het er spectaculair uit te zien komen. Reken op 20 minuten rijden tussen de watervallen."
+          }
+        },
+        {
+          "name": {
+            "en": "Two-Color River View Point — The Mekong Finale",
+            "nl": "Tweekleurig Rivieruitzichtpunt — De Mekong Finale"
+          },
+          "duration": "1 uur",
+          "cost": "Gratis",
+          "type": "cultureel",
+          "tip": {
+            "en": "Where the Mun River meets the Mekong — the point where the Mekong leaves Thailand after 800km through 7 provinces. The two rivers have different colors (brown Mekong, sometimes blue Mun). Beautiful temple grounds with golden statues and Naga. A profoundly emotional endpoint to an incredible journey. 'One of the most fantastic trips I've ever made — there's something in the air in this region you won't understand until you're here.'",
+            "nl": "Waar de Mun-rivier de Mekong ontmoet — het punt waar de Mekong Thailand verlaat na 800 km door 7 provincies. De twee rivieren hebben verschillende kleuren (bruine Mekong, soms blauwe Mun). Prachtige tempelgronden met gouden beelden en Naga. Een diep emotioneel eindpunt van een ongelooflijke reis. 'Een van de meest fantastische reizen die ik ooit heb gemaakt — er hangt iets in de lucht in deze regio dat je pas begrijpt als je er bent.'"
+          }
+        }
+      ],
+      "meals": {
+        "breakfast": {
+          "en": "Early breakfast at your resort before the national park (included or 60-100 THB)",
+          "nl": "Vroeg ontbijt bij je resort voor het nationaal park (inbegrepen of 60-100 THB)"
+        },
+        "lunch": {
+          "en": "Pack lunch or eat at a stall inside the national park",
+          "nl": "Neem lunch mee of eet bij een kraam in het nationaal park"
+        },
+        "dinner": {
+          "en": "Celebratory dinner in Ubon Ratchathani city — you've completed the Mekong! (200-400 THB)",
+          "nl": "Feestelijk diner in Ubon Ratchathani stad — je hebt de Mekong voltooid! (200-400 THB)"
+        }
+      },
+      "accommodation": {
+        "budget": {
+          "en": "Guesthouse in Ubon Ratchathani city (400-700 THB/night)",
+          "nl": "Guesthouse in Ubon Ratchathani stad (400-700 THB/nacht)"
+        },
+        "midrange": {
+          "en": "Hotel in Ubon Ratchathani (800-1,500 THB/night)",
+          "nl": "Hotel in Ubon Ratchathani (800-1.500 THB/nacht)"
+        },
+        "luxury": {
+          "en": "Best hotel in Ubon Ratchathani (1,500-3,000 THB/night)",
+          "nl": "Beste hotel in Ubon Ratchathani (1.500-3.000 THB/nacht)"
+        }
+      },
+      "transport": {
+        "en": "Motorbike or car to Pha Taem National Park. Multiple stops within the park are spread out — allow 20 minutes between attractions. The Two-Color River Point is about 4.5km from the resort. From Ubon, you can fly back to Bangkok or continue to other destinations.",
+        "nl": "Motor of auto naar Pha Taem Nationaal Park. Meerdere stops in het park liggen verspreid — reken op 20 minuten tussen attracties. Het Tweekleurig Rivieruitzichtpunt ligt op ongeveer 4,5 km van het resort. Vanuit Ubon kun je terugvliegen naar Bangkok of doorreizen naar andere bestemmingen."
+      }
+    }
+  ],
+  "contentSources": [
+    {
+      "type": "video",
+      "title": "Mekong Avontuur Aflevering 1: Chiang Khan",
+      "creator": "Paddy Doyle - Live Love Thailand",
+      "url": "https://www.youtube.com/watch?v=5tYAPJomJ1o",
+      "description": "Eerstehands reiservaring langs de Mekong per motorfiets door Isaan Thailand."
+    },
+    {
+      "type": "video",
+      "title": "Mekong Avontuur Aflevering 2: Chiang Khan naar Nong Khai",
+      "creator": "Paddy Doyle - Live Love Thailand",
+      "url": "https://www.youtube.com/watch?v=7QAy5WMejrA",
+      "description": "Twee dagen rijden van Chiang Khan naar Nong Khai langs Route 212, met jungle tractor avonturen, grotverkenning en tempels op kliftoppen."
+    },
+    {
+      "type": "video",
+      "title": "Mekong Avontuur Aflevering 3: Nong Khai naar Bueng Kan",
+      "creator": "Paddy Doyle - Live Love Thailand",
+      "url": "https://www.youtube.com/watch?v=lBMMNQ816Ro",
+      "description": "Verkenning van Nong Khai's beeldentuin, ondergelopen stupa en festivals voordat we per motorfiets naar Bueng Kan's Three Whale Rock rijden."
+    },
+    {
+      "type": "video",
+      "title": "Mekong Avontuur Aflevering 4: Bueng Kan Deep Dive",
+      "creator": "Paddy Doyle - Live Love Thailand",
+      "url": "https://www.youtube.com/watch?v=0DeWTAHtp9Y",
+      "description": "Verkenning van Bueng Kan's verborgen parels: Wat Phu Tok klif tempel, natuurlijke waterval glijbanen en de legendarische Naga Cave trail."
+    },
+    {
+      "type": "video",
+      "title": "Mekong Avontuur Aflevering 5: Nakhon Phanom",
+      "creator": "Paddy Doyle - Live Love Thailand",
+      "url": "https://www.youtube.com/watch?v=gBwnkvnKjEA",
+      "description": "Verkenning van Nakhon Phanom's Vietnamese erfgoed, culinaire scene en zonsondergang Mekong cruises."
+    },
+    {
+      "type": "video",
+      "title": "Mekong Avontuur Aflevering 6: Nakhon Phanom naar Mukdahan",
+      "creator": "Paddy Doyle - Live Love Thailand",
+      "url": "https://www.youtube.com/watch?v=pmAQ9q92G0M",
+      "description": "Rijden van Nakhon Phanom naar Mukdahan, gouden stupas, Naga tempel, Big Buddha en Loy Krathong aan de Mekong."
+    },
+    {
+      "type": "video",
+      "title": "Mekong Avontuur Aflevering 7: Mukdahan naar Ubon (Finale)",
+      "creator": "Paddy Doyle - Live Love Thailand",
+      "url": "https://www.youtube.com/watch?v=f3y4nb4zwfA",
+      "description": "Het grote slot: Pha Taem National Park met prehistorische schilderingen, dramatische watervallen en de Two-Color River Point waar de Mekong Thailand verlaat."
+    }
+  ],
+  "seo": {
+    "metaTitle": {
+      "en": "Mekong River Adventure: Thailand's Hidden Border Route | 14-Day Itinerary",
+      "nl": "Mekong Rivier Avontuur: Thailand's Verborgen Grensroute | 14-Dagen Reisschema"
+    },
+    "metaDescription": {
+      "en": "Follow the Mekong River 800km along Thailand's border with Laos. Discover charming riverside towns, morning alms giving, boat races, and authentic Isaan culture.",
+      "nl": "Volg de Mekong-rivier 800km langs de grens van Thailand met Laos. Ontdek charmante rivierstadjes, aalmoezenceremonies, botenraces en authentieke Isaan-cultuur."
+    }
+  }
+}

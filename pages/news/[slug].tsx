@@ -114,9 +114,9 @@ export const getStaticPaths: GetStaticPaths = async () => {
   return { paths: [], fallback: 'blocking' };
 };
 
-export const getStaticProps: GetStaticProps<NewsArticlePageProps> = async ({ params }) => {
+export const getStaticProps: GetStaticProps<NewsArticlePageProps> = async ({ params, locale }) => {
   const slug = params?.slug as string;
-  const article = await getNewsBySlug(slug);
+  const article = await getNewsBySlug(slug, locale);
 
   if (!article) {
     return { notFound: true };

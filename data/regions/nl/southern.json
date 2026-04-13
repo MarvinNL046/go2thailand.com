@@ -1,0 +1,419 @@
+{
+  "id": 3,
+  "slug": "southern",
+  "name": {
+    "en": "Southern Thailand",
+    "nl": "Zuid-Thailand",
+    "fr": "Thaïlande du Sud",
+    "de": "Südthailand",
+    "zh": "泰国南部",
+    "ru": "Южный Таиланд",
+    "ja": "タイ南部",
+    "ko": "태국 남부",
+    "th": "ภาคใต้"
+  },
+  "description": {
+    "en": "Southern Thailand stretches over 1,000 kilometres from Chumphon down to the Malaysian border, occupying the slender Kra Peninsula flanked by two coastlines that each offer a completely different experience. The Andaman Sea coast to the west — encompassing Phuket, Krabi, Ko Phi Phi, Ko Lanta, and the Similan Islands — is famed for its dramatic limestone karst scenery, crystal-clear turquoise water, and world-class diving and snorkelling. The Gulf of Thailand coast to the east — including Ko Samui, Ko Pha-Ngan (home to the legendary Full Moon Party), Ko Tao, and Koh Chang — offers its own pristine beaches and a more laid-back atmosphere. Phuket, Thailand's largest island at 543 square kilometres, is connected to the mainland by a causeway and serves as the region's main hub, receiving over 9 million international visitors annually with direct flights from across Asia, Europe, and the Middle East. Krabi province's Railay Beach, accessible only by longtail boat due to surrounding limestone cliffs, is considered one of Thailand's most beautiful locations and a world-renowned rock climbing destination with over 700 routes. The Similan Islands National Marine Park, rated among Asia's top 10 dive sites, protects extraordinary coral reefs with visibility sometimes exceeding 30 metres. Ko Tao, though small (21 sq km), is one of the world's leading scuba diving training centres, with some of the cheapest PADI certification courses globally. Away from the beaches, Khao Sok National Park — covering 739 square kilometres of ancient rainforest older than the Amazon — offers jungle trekking, kayaking on Cheow Lan Lake, and wildlife spotting. The far south — Pattani, Yala, Narathiwat, and Satun provinces — has a distinct Malay-Muslim cultural identity, with Jawi script, halal cuisine, and ornate mosques reflecting the region's heritage.",
+    "nl": "Zuid-Thailand strekt zich meer dan 1.000 kilometer uit van Chumphon tot aan de Maleisische grens, op het smalle Kra-schiereiland met twee kusten die elk een compleet andere ervaring bieden. De Andamanzee-kust in het westen — met Phuket, Krabi, Ko Phi Phi, Ko Lanta en de Similan-eilanden — staat bekend om dramatische kalksteenkarstlandschappen, kristalhelder turkoois water en wereldklasse duiken en snorkelen. De Golf van Thailand-kust in het oosten — met Ko Samui, Ko Pha-Ngan (thuisbasis van de legendarische Full Moon Party) en Ko Tao — biedt zijn eigen ongerepte stranden en een meer ontspannen sfeer. Phuket, Thailands grootste eiland met 543 km², is verbonden met het vasteland via een brug en ontvangt jaarlijks meer dan 9 miljoen internationale bezoekers. Krabi's Railay Beach, alleen bereikbaar per longtailboot vanwege omringende kalksteinrotsen, wordt beschouwd als een van Thailands mooiste plekken en is een weltberoemde rotsklimbestemming met meer dan 700 routes. De Similan-eilanden, beoordeeld als een van Azië's top-10 duikplaatsen, beschermen buitengewone koraalriffen met zichtbaarheid tot soms 30 meter. Ko Tao is een van 's werelds toonaangevende duikopleidingscentra. Khao Sok Nationaal Park — 739 km² oeroud regenwoud ouder dan de Amazone — biedt jungletrekking, kajakken op het Cheow Lan-meer en dierenwaarneming.",
+    "fr": "Paradis tropical avec des plages magnifiques, des îles, une vie marine riche et une vie nocturne animée.",
+    "de": "Tropisches Paradies mit atemberaubenden Stränden, Inseln, Meeresleben und pulsierendem Nachtleben.",
+    "zh": "热带天堂，拥有迷人的海滩、岛屿、海洋生物和热闹的夜生活。",
+    "ru": "Тропический рай с потрясающими пляжами, островами, морской фауной и яркой ночной жизнью.",
+    "ja": "美しいビーチ、島々、海洋生物、活気あるナイトライフが楽しめるトロピカルパラダイス。",
+    "ko": "아름다운 해변, 섬, 해양 생물, 활기찬 나이트라이프를 즐길 수 있는 열대 낙원.",
+    "th": "สวรรค์แห่งเขตร้อนที่มีชายหาดสวยงาม เกาะต่างๆ สัตว์ทะเล และไนท์ไลฟ์คึกคัก"
+  },
+  "highlights": {
+    "en": [
+      "Phuket: het grootste eiland van Thailand met de stranden Patong, Kata en Karon plus bruisend nachtleven, luxe resorts en directe internationale vluchten",
+      "Krabi en Railay Beach: wereldberoemde kalksteenkarstlandschappen, rotsklimmen (meer dan 700 routes) en adembenemende dagtrips naar de Phi Phi-eilanden",
+      "Ko Samui, Ko Pha-Ngan, Ko Tao: de 'Eilanddriehoek' in de Golf — van luxe Ko Samui tot Full Moon Party op Ko Pha-Ngan tot duiktraining op Ko Tao",
+      "Similan Islands Marine National Park: gerangschikt onder de top 10 duiklocaties van Azië, met zicht tot 30 meter en ongerepte koraaltuinen",
+      "Khao Sok National Park: 739 km² oerwoud ouder dan de Amazone, met jungletrekkingen en overnachtingen in drijvende bungalows op het Cheow Lan-meer"
+    ],
+    "nl": [
+      "Phuket: Thailands grootste eiland met Patong-, Kata- en Karon-stranden, levendig nachtleven, luxe resorts en directe internationale vluchten",
+      "Krabi en Railay Beach: wereldberoemde kalksteenkarstlandschappen, rotsklimmen (700+ routes) en verbluffende Phi Phi-eilanden dagtrips",
+      "Ko Samui, Ko Pha-Ngan, Ko Tao: de Golf 'Eilanddriehoek' — van luxe Ko Samui tot Full Moon Party Ko Pha-Ngan tot duikopleiding Ko Tao",
+      "Similan-eilanden Mariene Nationaal Park: een van Azië's top-10 duikplaatsen, met zichtbaarheid tot 30 meter en ongerepte koraaltuinen",
+      "Khao Sok Nationaal Park: 739 km² oeroud regenwoud ouder dan de Amazone, met jungletrekking en drijvende bungalows op het Cheow Lan-meer"
+    ],
+    "fr": [
+      "Plages magnifiques",
+      "Excursions entre les îles",
+      "Activités marines",
+      "Climat tropical",
+      "Cuisine aux fruits de mer"
+    ],
+    "de": [
+      "Wunderschöne Strände",
+      "Inselhopping",
+      "Meeresaktivitäten",
+      "Tropisches Klima",
+      "Meeresfrüchte-Küche"
+    ],
+    "zh": [
+      "美丽海滩",
+      "跳岛游",
+      "海洋活动",
+      "热带气候",
+      "海鲜美食"
+    ],
+    "ru": [
+      "Прекрасные пляжи",
+      "Островной хоппинг",
+      "Морские развлечения",
+      "Тропический климат",
+      "Кухня из морепродуктов"
+    ],
+    "ja": [
+      "美しいビーチ",
+      "アイランドホッピング",
+      "マリンアクティビティ",
+      "熱帯気候",
+      "シーフード料理"
+    ],
+    "ko": [
+      "아름다운 해변",
+      "섬 투어",
+      "해양 액티비티",
+      "열대 기후",
+      "해산물 요리"
+    ],
+    "th": [
+      "ชายหาดสวยงาม",
+      "เที่ยวเกาะ",
+      "กิจกรรมทางทะเล",
+      "อากาศร้อนชื้นแบบเขตร้อน",
+      "อาหารทะเล"
+    ]
+  },
+  "cities": [
+    "Phuket",
+    "Krabi",
+    "Hat Yai",
+    "Surat Thani",
+    "Koh Samui",
+    "Nakhon Si Thammarat",
+    "Trang",
+    "Chumphon"
+  ],
+  "climate": {
+    "en": "Southern Thailand's climate differs significantly between its two coasts and is crucial for travel planning. The Andaman Sea coast (Phuket, Krabi, Ko Lanta) has its best weather December to April, with calm seas, minimal rain, and excellent visibility for diving. May to November brings the southwest monsoon, with strong waves making some beaches dangerous for swimming; Ko Phi Phi and the Similan Islands close their marine parks entirely October–November for safety. The Gulf of Thailand coast (Ko Samui, Ko Pha-Ngan, Ko Tao) follows the opposite pattern: October to December can be its wettest period, but January to September is generally dry and pleasant. This means there is rarely a time when ALL of southern Thailand is in monsoon season — savvy travellers switch coasts accordingly. Year-round temperatures hover between 28–35°C with high humidity. Dive season for the Similan Islands runs November to May only.",
+    "nl": "Het klimaat van Zuid-Thailand verschilt sterk tussen de twee kusten en is cruciaal voor reisplanning. De Andamanzee-kust (Phuket, Krabi, Ko Lanta) heeft het beste weer van december tot april, met kalme zeeën en minimale regen. Mei tot november brengt de zuidwestmoesson, met sterke golven die sommige stranden gevaarlijk maken; Ko Phi Phi en de Similan-eilanden sluiten hun mariene parken geheel in oktober-november. De Golf van Thailand-kust (Ko Samui, Ko Pha-Ngan, Ko Tao) volgt het tegenovergestelde patroon: oktober tot december kan het natste zijn, maar januari tot september is over het algemeen droog en aangenaam. Dit betekent dat er zelden een moment is waarop HEEL Zuid-Thailand in het moessonseizoen is — slimme reizigers wisselen dienovereenkomstig van kust. Temperaturen het hele jaar door: 28–35°C met hoge luchtvochtigheid.",
+    "fr": "Chaud et humide toute l'année, sec (déc-avr), pluvieux (mai-nov)",
+    "de": "Heiß und feucht das ganze Jahr, trocken (Dez-Apr), Regenzeit (Mai-Nov)",
+    "zh": "全年炎热潮湿，干季（12月-4月），雨季（5月-11月）",
+    "ru": "Жарко и влажно круглый год, сухой сезон (дек-апр), дождливый сезон (май-ноябрь)",
+    "ja": "年間を通じて高温多湿、乾季（12月〜4月）、雨季（5月〜11月）",
+    "ko": "연중 덥고 습함, 건기 (12월-4월), 우기 (5월-11월)",
+    "th": "ร้อนชื้นตลอดปี, แล้ง (ธ.ค.-เม.ย.), ฝน (พ.ค.-พ.ย.)"
+  },
+  "bestTimeToVisit": {
+    "en": "December to April",
+    "nl": "December tot april",
+    "fr": "Décembre à avril",
+    "de": "Dezember bis April",
+    "zh": "12月至4月",
+    "ru": "С декабря по апрель",
+    "ja": "12月から4月",
+    "ko": "12월부터 4월",
+    "th": "ธันวาคมถึงเมษายน"
+  },
+  "image": "/images/regions/southern-thailand.webp",
+  "geography": {
+    "en": "Southern Thailand occupies the narrow Kra Peninsula, which at its narrowest point (the Kra Isthmus) is only 44 kilometres wide. The region has over 3,000 kilometres of combined coastline along the Andaman Sea to the west and the Gulf of Thailand to the east. The landscape is defined by two dramatic geological features: the limestone karst formations of the Andaman coast, where sheer cliffs rise directly from the sea creating the iconic scenery of Phang Nga Bay and Krabi, and the rolling hills and forested interior that form the backbone of the peninsula. Over 900 islands dot the surrounding waters, from tiny rocky outcrops to Phuket (543 sq km) and Ko Samui (228 sq km). Khao Luang mountain in Nakhon Si Thammarat reaches 1,835 metres, the highest point in the south. Mangrove forests line many estuaries, serving as critical nurseries for marine life. The waters around the Similan and Surin island groups contain some of the world's most biodiverse coral reef systems.",
+    "nl": "Zuid-Thailand beslaat het smalle Kra-schiereiland, dat op zijn smalste punt (de Kra-landengte) slechts 44 kilometer breed is. De regio heeft meer dan 3.000 kilometer gecombineerde kustlijn langs de Andamanzee in het westen en de Golf van Thailand in het oosten. Het landschap wordt gedefinieerd door twee dramatische geologische kenmerken: de kalksteenkarstformaties van de Andamanzee-kust en de glooiende heuvels en beboste binnenlanden. Meer dan 900 eilanden liggen verspreid in de omringende wateren. Khao Luang in Nakhon Si Thammarat bereikt 1.835 meter, het hoogste punt in het zuiden. Mangrovebossen langs estuaria dienen als kritische kinderkamers voor zeeleven. De wateren rondom de Similan- en Surin-eilanden bevatten enkele van 's werelds meest biodiverse koraalrifstelsels.",
+    "fr": "Deux côtes : mer d'Andaman (ouest) et golfe de Thaïlande (est). Karsts calcaires, plages immaculées et îles tropicales.",
+    "de": "Zwei Küstenlinien: Andamanensee (Westen) und Golf von Thailand (Osten). Kalksteinkarste, unberührte Strände und tropische Inseln.",
+    "zh": "两条海岸线：安达曼海（西部）和泰国湾（东部）。石灰岩喀斯特地貌、原始海滩和热带岛屿。",
+    "ru": "Два побережья: Андаманское море (запад) и Сиамский залив (восток). Известняковые карстовые образования, нетронутые пляжи и тропические острова.",
+    "ja": "2つの海岸線：アンダマン海（西側）とタイ湾（東側）。石灰岩カルスト、手つかずのビーチ、熱帯の島々。",
+    "ko": "두 해안선: 안다만해 (서쪽)와 태국만 (동쪽). 석회암 카르스트 지형, 청정 해변, 열대 섬들.",
+    "th": "สองชายฝั่ง: ทะเลอันดามัน (ตะวันตก) และอ่าวไทย (ตะวันออก) ภูเขาหินปูน ชายหาดบริสุทธิ์ และเกาะเขตร้อน"
+  },
+  "culture": {
+    "en": "Southern Thailand's culture is shaped by its geography as a maritime crossroads. The upper south (Surat Thani, Nakhon Si Thammarat, Chumphon) is ethnically Thai-Buddhist and blends seamlessly with Central Thai culture. Moving south, Malay-Muslim culture becomes increasingly prominent. The four southernmost provinces — Pattani, Yala, Narathiwat, and Satun — have majority Malay-speaking Muslim populations, with mosques outnumbering Buddhist temples, Jawi script appearing on shop signs alongside Thai, and halal food the standard. Phuket has a distinct Chinese-Thai heritage — its Peranakan (Baba-Nyonya) culture, visible in the Sino-Portuguese shophouses of Phuket Old Town and the dramatic Vegetarian Festival (Nine Emperor Gods Festival) held every October, when Chinese-Thai devotees perform extreme acts of self-mortification. Ko Samui and Phuket have developed distinct tourism cultures over decades — international beach resort communities with significant expat populations and English widely spoken. The Chak Phra Festival in Surat Thani (October) sees giant decorated barges carry Buddhist relics along the Tapi River in one of southern Thailand's most colourful religious events.",
+    "nl": "De cultuur van Zuid-Thailand wordt gevormd door zijn geografie als maritiem kruispunt. Het bovenste zuiden (Surat Thani, Nakhon Si Thammarat) is etnisch Thais-Boeddhistisch. Verder naar het zuiden wordt de Maleis-moslimcultuur steeds prominenter. De vier meest zuidelijke provincies — Pattani, Yala, Narathiwat en Satun — hebben meerderheidsbevolkingen van Maleisisch sprekende moslims, met moskeeën die boeddhistische tempels overtreffen in aantal, Jawi-schrift op winkelborden en halal-eten als standaard. Phuket heeft een uniek Chinees-Thais erfgoed — de Peranakan (Baba-Nyonya) cultuur, zichtbaar in de Sino-Portugese pakhuis van Phuket Old Town en het dramatische Vegetarische Festival in oktober, wanneer Chinees-Thaise gelovigen extreme daden van zelf-versterving uitvoeren. Ko Samui en Phuket hebben eigen toeristische culturen ontwikkeld over decennia — internationale strandresortgemeenschappen met aanzienlijke expatbevolkingen.",
+    "fr": "Culture balnéaire décontractée mêlée d'influences musulmanes dans le sud. Communautés de pêcheurs et zones touristiques.",
+    "de": "Entspannte Strandkultur gemischt mit muslimischen Einflüssen im Süden. Fischergemeinden und tourismusorientierte Gebiete.",
+    "zh": "悠闲的海滩文化与南部穆斯林文化的融合。渔村社区和旅游重点区域。",
+    "ru": "Расслабленная пляжная культура с мусульманским влиянием на юге. Рыбацкие общины и туристические зоны.",
+    "ja": "リラックスしたビーチカルチャーと南部のイスラム文化が融合。漁村コミュニティと観光エリア。",
+    "ko": "남부의 무슬림 영향이 섞인 여유로운 해변 문화. 어촌 마을과 관광 중심 지역.",
+    "th": "วัฒนธรรมชายหาดสบายๆ ผสมผสานกับวัฒนธรรมมุสลิมทางตอนใต้ ชุมชนชาวประมงและพื้นที่ท่องเที่ยว"
+  },
+  "cuisine": {
+    "en": "Southern Thai cuisine is considered the spiciest of all Thailand's regional cuisines, making liberal use of fresh bird's eye chillies (phrik khee nu), turmeric, shrimp paste (kapi), and aromatic herbs. Coconut milk features heavily but in a different way than central Thai cuisine — southern curries tend to be drier and more intensely flavoured. Gaeng Tai Pla (fermented fish viscera curry) is southern Thailand's most pungent and distinctive dish. Massaman curry — actually originating from the Muslim south — is a rich, mild curry using dried spices (cinnamon, cardamom, cloves) with Muslim-Malay influence, and was named the world's best food by CNN Travel. Khao Yam (southern rice salad) mixes rice with fresh herbs, dried shrimp, toasted coconut, and fruit in a unique preparation found nowhere else. Roti — unleavened flatbread of Indian-Muslim origin — is a southern staple served sweet (with condensed milk and banana) or savoury alongside curries. Phuket has developed a sophisticated dining scene including MICHELIN-starred restaurants like Suay. Fresh grilled seafood at beachside restaurants is one of southern Thailand's greatest pleasures: Tiger prawns, squid, barracuda, and red snapper sold by weight.",
+    "nl": "Zuid-Thaise keuken wordt beschouwd als de pittigste van alle regionale keukens van Thailand, met ruim gebruik van verse pepers, kurkuma, garnalendeeg (kapi) en aromatische kruiden. Kokosnootmelk speelt een grote rol maar anders dan in de centrale Thaise keuken — zuidelijke curry's zijn droger en intenser van smaak. Gaeng Tai Pla (gefermenteerde visvisceracurry) is het meest prikkelende en karakteristieke gerecht van Zuid-Thailand. Massaman curry — afkomstig uit het moslimzuiden — is een rijke, milde curry met gedroogde specerijen en werd door CNN Travel uitgeroepen tot 's werelds beste eten. Roti — ongedesemd platbrood van Indiaas-moslimafkomst — is een zuidelijk basisvoedsel geserveerd zoet (met gecondenseerde melk en banaan) of hartig bij curry's. Vers gegrilde zeevruchten bij strandrestaurants is een van Zuid-Thailands grootste geneugten: tijgergarnalen, inktvis en rode snapper per gewicht verkocht.",
+    "fr": "Fruits de mer frais, currys du sud, plats à base de noix de coco, fruits tropicaux. Plus épicé que la cuisine du nord avec des influences malaises.",
+    "de": "Frische Meeresfrüchte, südliche Currys, Gerichte auf Kokosnussbasis, tropische Früchte. Schärfer als die nördliche Küche mit malaiischen Einflüssen.",
+    "zh": "新鲜海鲜、南方咖喱、椰奶菜肴、热带水果。比北方菜更辣，受马来美食影响。",
+    "ru": "Свежие морепродукты, южные карри, блюда на основе кокоса, тропические фрукты. Острее северной кухни, с малайским влиянием.",
+    "ja": "新鮮なシーフード、南部カレー、ココナッツベースの料理、トロピカルフルーツ。北部料理より辛く、マレー料理の影響を受ける。",
+    "ko": "신선한 해산물, 남부 커리, 코코넛 기반 요리, 열대 과일. 북부 요리보다 매우며 말레이 요리의 영향을 받음.",
+    "th": "อาหารทะเลสด แกงใต้ อาหารกะทิ ผลไม้เมืองร้อน รสจัดกว่าอาหารเหนือ ได้รับอิทธิพลจากอาหารมลายู"
+  },
+  "transportation": {
+    "en": "Southern Thailand has excellent air connections: Phuket International Airport (HKT) receives direct flights from across Asia, Europe, Australia, and the Middle East, with major carriers including Thai Airways, AirAsia, Singapore Airlines, Emirates, and Etihad. Krabi Airport (KBV) and Koh Samui Airport (USM, operated privately by Bangkok Airways) offer additional island access. From Bangkok, budget flights on AirAsia, Nok Air, or Thai Lion Air reach Phuket in 1 hour 20 minutes for 500–2,500 baht depending on timing. Overland, air-conditioned VIP buses from Bangkok's Southern Bus Terminal (Sai Tai Mai) run overnight to Phuket (12 hours), Surat Thani (9 hours), and Hat Yai (13 hours) for 600–1,200 baht. The overnight train from Bangkok to Surat Thani (gateway to Ko Samui and Ko Pha-Ngan) takes approximately 10–12 hours in sleeper class. Island connections use speedboats and ferries: Bangkok Surat Thani Pier or Don Sak serves Ko Samui (45 min speedboat, 600 baht) and Ko Pha-Ngan (2 hours, 600 baht); Ko Tao is 1.5 hours further by high-speed catamaran. Ferries from Ao Nang pier in Krabi serve Ko Phi Phi (1.5 hours) and Ko Lanta (2 hours). Within islands, motorbike rental (150–200 baht/day) and songthaews are the primary local transport; Phuket has tuk-tuks and metered taxis, and Grab operates in Phuket.",
+    "nl": "Zuid-Thailand heeft uitstekende luchtverbindingen: Phuket International Airport (HKT) ontvangt directe vluchten vanuit heel Azië, Europa, Australië en het Midden-Oosten. Vanuit Bangkok bereiken budgetvluchten op AirAsia, Nok Air of Thai Lion Air Phuket in 1 uur 20 minuten voor 500–2.500 baht. Overland rijden airconditioning VIP-bussen van Bangkok's Zuidelijk Busstation dag en nacht naar Phuket (12 uur), Surat Thani (9 uur) en Hat Yai (13 uur) voor 600–1.200 baht. De nachttrein van Bangkok naar Surat Thani (toegangspoort tot Ko Samui en Ko Pha-Ngan) duurt circa 10–12 uur. Eilandverbindingen gebruiken speedboten en veerponten. Binnen eilanden zijn motorverhuur (150–200 baht/dag) en songthaews het primaire lokale vervoer; Phuket heeft tuk-tuks en meters taxi's, en Grab werkt op Phuket.",
+    "fr": "Vols intérieurs vers Phuket/Krabi/Surat Thani. Ferries vers les îles. Bus le long de la côte. Bateaux longtail et hors-bord.",
+    "de": "Inlandsflüge nach Phuket/Krabi/Surat Thani. Fähren zu den Inseln. Busse entlang der Küste. Longtailboote und Schnellboote.",
+    "zh": "国内航班飞往普吉/甲米/素叻他尼。渡轮前往各岛屿。沿海巴士。长尾船和快艇。",
+    "ru": "Внутренние рейсы до Пхукета/Краби/Сураттхани. Паромы на острова. Автобусы вдоль побережья. Лодки-длиннохвостки и скоростные катера.",
+    "ja": "プーケット/クラビ/スラータニーへの国内線。島へのフェリー。沿岸バス。ロングテールボートとスピードボート。",
+    "ko": "푸켓/끄라비/수랏타니행 국내선. 섬으로 가는 페리. 해안 따라 버스 운행. 롱테일 보트와 스피드보트.",
+    "th": "เที่ยวบินในประเทศไปภูเก็ต/กระบี่/สุราษฎร์ธานี เรือเฟอร์รี่ไปเกาะต่างๆ รถบัสตามแนวชายฝั่ง เรือหางยาวและสปีดโบ๊ท"
+  },
+  "budgetInfo": {
+    "en": "Costs vary enormously across southern Thailand. Phuket is the most expensive area, where budget accommodation starts at 500–800 baht/night (still affordable by global standards), a beach chair and umbrella rental costs 100–200 baht, and a grilled fish dinner at a beachfront restaurant runs 300–600 baht. Ko Samui is similarly priced. Ko Tao and Ko Pha-Ngan offer better budget options: dorm beds from 300 baht, PADI Open Water dive courses from 9,000–11,000 baht (among the world's cheapest). Ko Lipe and the Similan Islands cost more due to remoteness, with speedboat transfers adding 1,500–2,500 baht. Krabi's Ao Nang offers mid-range value with guesthouses from 600–1,500 baht. Luxury in the south is genuinely extraordinary: Phuket has some of the world's best resort hotels (Amanpuri, Trisara, COMO Point Yamu) from $400–1,500+/night, and Ko Samui's Four Seasons and Vana Belle offer overwater and hillside villas with private pools.",
+    "nl": "Kosten variëren enorm in heel Zuid-Thailand. Phuket is de duurste regio, maar budgetaccommodatie begint al bij 500–800 baht/nacht. Een strandstoel en parasolverhuur kost 100–200 baht, een gegrilde vis bij een strandrestaurant 300–600 baht. Ko Samui is vergelijkbaar geprijsd. Ko Tao en Ko Pha-Ngan bieden betere budgetopties: slaapzalen vanaf 300 baht, PADI Open Water-cursussen vanaf 9.000–11.000 baht (een van 's werelds goedkoopste). Ko Lipe en de Similan-eilanden kosten meer vanwege afstand. Krabi's Ao Nang biedt mid-range waarde met pensions vanaf 600–1.500 baht. Luxe in het zuiden is uitzonderlijk: Phuket heeft enkele van 's werelds beste resorthotels (Amanpuri, Trisara) vanaf $400–1.500+/nacht.",
+    "fr": "Budget : $20-35/jour. Milieu de gamme : $35-70/jour. Luxe : $70+/jour. Les prix sur les îles sont plus élevés, surtout à Phuket.",
+    "de": "Budget: $20-35/Tag. Mittelklasse: $35-70/Tag. Luxus: $70+/Tag. Inselpreise sind höher, besonders Phuket.",
+    "zh": "经济型：$20-35/天。中档：$35-70/天。豪华：$70+/天。岛屿价格较高，尤其是普吉岛。",
+    "ru": "Бюджет: $20-35/день. Средний класс: $35-70/день. Люкс: $70+/день. Цены на островах выше, особенно на Пхукете.",
+    "ja": "格安：$20-35/日。中級：$35-70/日。高級：$70+/日。島の物価は高め、特にプーケット。",
+    "ko": "저예산: $20-35/일. 중급: $35-70/일. 고급: $70+/일. 섬 물가가 더 높으며, 특히 푸켓.",
+    "th": "ประหยัด: $20-35/วัน ปานกลาง: $35-70/วัน หรูหรา: $70+/วัน ราคาบนเกาะแพงกว่า โดยเฉพาะภูเก็ต"
+  },
+  "topActivities": {
+    "en": [
+      "Scuba duiken en snorkelen: Ko Tao is een van de meest betaalbare PADI-certificeringscentra ter wereld; de Similan-eilanden (gerangschikt in de top 10 van Azië) zijn geopend van november tot mei voor liveaboard-duiktochten",
+      "Eilandhoppen vanuit Krabi: speedboot-dagtours naar Ko Phi Phi, Maya Bay (nu open met bezoekerslimieten), de smaragdgroene grot van Ko Mook en vier-eilandtours vanuit Ao Nang",
+      "Rotsklimmen bij Railay Beach: meer dan 700 gedocumenteerde routes op verticale kalksteenkarstkliffen, alleen bereikbaar per longtailboot — wereldklasse klimmen voor alle niveaus",
+      "Verkenning van Phuket Old Town: Sino-Portugese shophouses, straatkunst, bruisende caféscene en het dramatische Negen Keizersgoden (Vegetarisch) Festival in oktober",
+      "Khao Sok National Park: begeleide jungletrekkingen, nachtsafaris om wilde olifanten en neushoornvogels te spotten, en verblijven in drijvende bungalows op het Cheow Lan-meer omringd door oerbos",
+      "Full Moon Party op Ko Pha-Ngan (maandelijks): 's werelds beroemdste strandfeest dat 10.000–30.000 mensen naar Haad Rin Beach trekt onder de volle maan",
+      "Zeekajakken in Phang Nga Bay: peddel door kalksteen zeegrotten, verborgen lagunes (hongs) en mangrovebossen met uitzicht op het iconische James Bond Island (Ko Tapu)",
+      "Zonsondergangcruise vanuit Phuket of Krabi: gecharterde longtailboten of catamarantochten met verse zeevruchten en cocktails terwijl je de Andaman-zonsondergang bekijkt",
+      "Surfen bij Kata Beach en Surin Beach, Phuket: het beste van september–november wanneer moessonzwellen de meest consistente golven van het zuiden bieden"
+    ],
+    "nl": [
+      "Scuba duiken en snorkelen: Ko Tao is een van 's werelds meest betaalbare PADI-certificeringscentra; de Similan-eilanden (Asia top-10) zijn open november–mei voor liveaboard-duiktochten",
+      "Eilandhoppen vanuit Krabi: speedboot-dagtouren naar Ko Phi Phi, Maya Bay, de smaragdgroene grot van Ko Mook en vier-eilandtours vanuit Ao Nang",
+      "Rotsklimmen bij Railay Beach: 700+ gedocumenteerde routes op verticale kalksteenklifs bereikbaar alleen per longtailboot — wereldklasse klimmen voor alle niveaus",
+      "Phuket Old Town verkenning: Sino-Portugese pakhuis, straatkunst, levendige cafésscene en het dramatische Negen Keizers Goden (Vegetarisch) Festival in oktober",
+      "Khao Sok Nationaal Park: geleide jungletrekking, nachtsafari's om wilde olifanten en neushoorndieren te spotten, en drijvende bungalow-verblijven op het Cheow Lan-meer",
+      "Full Moon Party op Ko Pha-Ngan (maandelijks): 's werelds beroemdste strandfeest dat 10.000–30.000 mensen trekt naar Haad Rin Beach",
+      "Zeekajakken in de baai van Phang Nga: peddel door kalkstenen zeegrotten, verborgen lagunen en mangrovebossen met uitzicht op het iconische James Bond Island",
+      "Zonsondergangcruise vanuit Phuket of Krabi: gecharterde longtailboten of catamaranzeiltrips met verse zeevruchten en cocktails bij de Andaman-zonsondergang",
+      "Surfen bij Kata Beach en Surin Beach, Phuket: het beste van september–november wanneer moessonzwellen de meest consistente golven van het zuiden bieden"
+    ],
+    "fr": [
+      "Plages, snorkeling, plongée, excursions en île, escalade, kayak de mer, croisières au coucher du soleil, fêtes sur la plage"
+    ],
+    "de": [
+      "Strandhopping, Schnorcheln, Tauchen, Inseltouren, Klettern, Seekajak, Sonnenuntergangskreuzfahrten, Strandpartys"
+    ],
+    "zh": [
+      "海滩巡游、浮潜、潜水、跳岛游、攀岩、海上皮划艇、日落巡航、海滩派对"
+    ],
+    "ru": [
+      "Пляжный отдых, снорклинг, дайвинг, островные туры, скалолазание, морской каякинг, круизы на закате, пляжные вечеринки"
+    ],
+    "ja": [
+      "ビーチ巡り、シュノーケリング、ダイビング、アイランドツアー、ロッククライミング、シーカヤック、サンセットクルーズ、ビーチパーティー"
+    ],
+    "ko": [
+      "해변 탐방, 스노클링, 다이빙, 섬 투어, 암벽 등반, 씨 카약, 선셋 크루즈, 비치 파티"
+    ],
+    "th": [
+      "เที่ยวชายหาด, ดำน้ำตื้น, ดำน้ำลึก, ทัวร์เกาะ, ปีนหน้าผา, พายเรือคายัค, ล่องเรือชมพระอาทิตย์ตก, ปาร์ตี้ริมหาด"
+    ]
+  },
+  "hiddenGems": {
+    "en": [
+      "Koh Lipe, duiken bij Koh Tao, klimmen bij Railay Beach, Khao Sok National Park, James Bond Island, Similan Islands"
+    ],
+    "nl": [
+      "Koh Lipe, duiken bij Koh Tao, klimmen bij Railay Beach, Khao Sok National Park, James Bond Island, Similan Islands"
+    ],
+    "fr": [
+      "Koh Lipe, plongée à Koh Tao, escalade à Railay Beach, parc national de Khao Sok, James Bond Island, îles Similan"
+    ],
+    "de": [
+      "Koh Lipe, Tauchen bei Koh Tao, Klettern am Railay Beach, Khao Sok Nationalpark, James Bond Island, Similan-Inseln"
+    ],
+    "zh": [
+      "丽贝岛、涛岛潜水、莱利海滩攀岩、考索国家公园、詹姆斯邦德岛、斯米兰群岛"
+    ],
+    "ru": [
+      "Ко Липе, дайвинг на Ко Тао, скалолазание на Рейли Бич, национальный парк Кхао Сок, остров Джеймса Бонда, Симиланские острова"
+    ],
+    "ja": [
+      "リペ島、タオ島でのダイビング、ライレービーチでのクライミング、カオソック国立公園、ジェームズボンド島、シミラン諸島"
+    ],
+    "ko": [
+      "꼬리뻬, 꼬따오 다이빙, 라일레이 비치 클라이밍, 카오속 국립공원, 제임스 본드 섬, 시밀란 제도"
+    ],
+    "th": [
+      "เกาะหลีเป๊ะ, ดำน้ำเกาะเต่า, ปีนผาหาดไร่เลย์, อุทยานแห่งชาติเขาสก, เกาะเจมส์บอนด์, หมู่เกาะสิมิลัน"
+    ]
+  },
+  "localFestivals": {
+    "en": [
+      "Full Moon Party (maandelijks), Songkran (april), Chak Phra Festival (okt), Vegetarisch Festival (okt), Loi Krathong (nov)"
+    ],
+    "nl": [
+      "Full Moon Party (maandelijks), Songkran (april), Chak Phra Festival (okt), Vegetarisch Festival (okt), Loi Krathong (nov)"
+    ],
+    "fr": [
+      "Full Moon Party (mensuelle), Songkran (avril), Festival Chak Phra (oct), Festival végétarien (oct), Loi Krathong (nov)"
+    ],
+    "de": [
+      "Full Moon Party (monatlich), Songkran (April), Chak Phra Festival (Okt), Vegetarisches Festival (Okt), Loi Krathong (Nov)"
+    ],
+    "zh": [
+      "满月派对（每月）、泼水节（4月）、Chak Phra节（10月）、素食节（10月）、水灯节（11月）"
+    ],
+    "ru": [
+      "Full Moon Party (ежемесячно), Сонгкран (апрель), фестиваль Чак Пхра (окт), Вегетарианский фестиваль (окт), Лой Кратонг (ноябрь)"
+    ],
+    "ja": [
+      "フルムーンパーティー（毎月）、ソンクラーン（4月）、チャークプラー祭り（10月）、ベジタリアン・フェスティバル（10月）、ロイクラトン（11月）"
+    ],
+    "ko": [
+      "풀문 파티 (매월), 송끄란 (4월), 짝프라 축제 (10월), 채식 축제 (10월), 로이끄라통 (11월)"
+    ],
+    "th": [
+      "ฟูลมูนปาร์ตี้ (ทุกเดือน), สงกรานต์ (เมษายน), ชักพระ (ต.ค.), เทศกาลกินเจ (ต.ค.), ลอยกระทง (พ.ย.)"
+    ]
+  },
+  "travelTips": {
+    "en": [
+      "Controleer altijd welk kustgebied in het seizoen is voordat je boekt: de Andamankust (Phuket, Krabi) is het beste van december–april, terwijl de Golfkust (Ko Samui, Ko Tao) beter is van mei–september — verkeerd kiezen kan leiden tot ruwe zeeën en gesloten duiklocaties",
+      "Gebruik alleen rifveilige zonnebrandcrème (mineraalgebaseerd, vrij van oxybenzon en octinoxaat) — chemische zonnebrandcrèmes beschadigen koraalriffen en zijn verboden in verschillende eilandnatuurparken",
+      "Op Ko Pha-Ngan, wees extreem voorzichtig bij de Full Moon Party: drinkspiking en diefstal worden jaarlijks gemeld — bewaar waardevolle spullen in je accommodatie, gebruik de polsbandenservice van je resort indien beschikbaar, en reis met vrienden",
+      "Let op rode vlaggen op stranden — zelfs kalm uitziend water kan gevaarlijke ripstromingen hebben; gele of rode vlaggen betekenen 'zwem met voorzichtigheid' of 'niet zwemmen', en verdrinkingsslachtoffers komen elk jaar voor onder toeristen die waarschuwingen negeren",
+      "Longtailboten en speedboten naar buiteneilanden hebben niet altijd juiste zwemvesten of weermonitoring — controleer de omstandigheden voor het instappen en aarzel niet om te annuleren als de zee ruw lijkt",
+      "Bij Patong Beach in Phuket en Chaweng Beach op Ko Samui zijn motorfietshuur-scams gebruikelijk: fotografeer altijd bestaande schade voordat je een motor neemt, laat nooit je paspoort als borg achter (gebruik een contante borg in plaats daarvan), en eis een schriftelijke huurovereenkomst",
+      "De piersteden (Ao Nang voor Krabi, Donsak voor Ko Samui, Chumphon voor Ko Tao) hebben veerboten die meerdere keren per dag varen — bevestig altijd schema's van tevoren tijdens het moessonseizoen omdat diensten kunnen worden geannuleerd"
+    ],
+    "nl": [
+      "Controleer altijd welke kust in het seizoen is voor het boeken: de Andamanzee-kust (Phuket, Krabi) is het beste van december tot april, terwijl de Golfkust (Ko Samui, Ko Tao) beter is van mei tot september",
+      "Gebruik alleen rifsafe zonnebrandcrème (mineraalbasis, vrij van oxybenzoon) — chemische zonnebrandmiddelen beschadigen koraalriffen en zijn verboden in verschillende eilandnatuurparken",
+      "Op Ko Pha-Ngan: wees extreem voorzichtig bij de Full Moon Party — drinkspiking en diefstal worden jaarlijks gemeld",
+      "Let op rode vlaggen op stranden — zelfs kalm ogende wateren kunnen gevaarlijke stromingen hebben; gele of rode vlaggen betekenen 'zwem voorzichtig' of 'niet zwemmen'",
+      "Longtailboten en speedboten naar buiteneilanden hebben niet altijd proper zwemvesten — controleer omstandigheden voor het instappen",
+      "Bij Phuket's Patong Beach en Ko Samui's Chaweng Beach zijn motorverhuur-scams gebruikelijk: fotografeer bestaande schade voordat u een motorfiets neemt en laat nooit uw paspoort als aanbetaling achter",
+      "Pier steden hebben veerboten die meerdere keren per dag vertrekken — bevestig altijd schema's van tevoren tijdens het moessonseizoen want diensten kunnen worden geannuleerd"
+    ],
+    "fr": [
+      "Réservez le transport vers les îles à l'avance. Respectez la vie marine. Restez hydraté. Utilisez une crème solaire respectueuse des récifs. Vérifiez les conditions météo."
+    ],
+    "de": [
+      "Buchen Sie Inseltransport im Voraus. Respektieren Sie das Meeresleben. Trinken Sie genug. Verwenden Sie rifffreundliche Sonnencreme. Prüfen Sie die Wetterbedingungen."
+    ],
+    "zh": [
+      "提前预订岛屿交通。爱护海洋生物。注意补水。使用珊瑚友好型防晒霜。查看天气状况。"
+    ],
+    "ru": [
+      "Бронируйте транспорт на острова заранее. Берегите морскую фауну. Пейте больше воды. Используйте безопасный для рифов солнцезащитный крем. Проверяйте прогноз погоды."
+    ],
+    "ja": [
+      "島への交通手段は事前予約を。海洋生物を大切に。水分補給を忘れずに。サンゴに優しい日焼け止めを使用。天気予報を確認。"
+    ],
+    "ko": [
+      "섬 교통편은 미리 예약하세요. 해양 생물을 보호하세요. 수분 보충을 잊지 마세요. 산호에 안전한 자외선 차단제를 사용하세요. 기상 상태를 확인하세요."
+    ],
+    "th": [
+      "จองเรือไปเกาะล่วงหน้า รักษาสิ่งแวดล้อมทางทะเล ดื่มน้ำให้เพียงพอ ใช้ครีมกันแดดที่ปลอดภัยต่อปะการัง ตรวจสอบสภาพอากาศ"
+    ]
+  },
+  "whatToPack": {
+    "en": [
+      "Zwemkleding, rifveilige zonnebrandcrème, waterschoenen, sneldrogende kleding, regenjas, snorkeluitrusting, lichte avondkleding, muggenspray"
+    ],
+    "nl": [
+      "Zwemkleding, rifvriendelijke zonnebrand, waterschoenen, sneldrogende kleding, regenjas, snorkelspullen, lichte avondkleding, muggenspray"
+    ],
+    "fr": [
+      "Maillot de bain, crème solaire respectueuse des récifs, chaussures aquatiques, vêtements à séchage rapide, veste de pluie, équipement de snorkeling, tenue légère de soirée, spray anti-moustiques"
+    ],
+    "de": [
+      "Badekleidung, rifffreundliche Sonnencreme, Wasserschuhe, schnelltrocknende Kleidung, Regenjacke, Schnorchelausrüstung, leichte Abendgarderobe, Mückenspray"
+    ],
+    "zh": [
+      "泳装、珊瑚友好型防晒霜、涉水鞋、速干衣物、雨衣、浮潜装备、轻便晚装、驱蚊喷雾"
+    ],
+    "ru": [
+      "Купальник, безопасный для рифов солнцезащитный крем, аквашузы, быстросохнущая одежда, дождевик, снаряжение для снорклинга, лёгкая вечерняя одежда, спрей от комаров"
+    ],
+    "ja": [
+      "水着、サンゴに優しい日焼け止め、ウォーターシューズ、速乾性の服、レインジャケット、シュノーケリング用品、軽めの夜用ウェア、虫除けスプレー"
+    ],
+    "ko": [
+      "수영복, 산호 보호 자외선 차단제, 아쿠아슈즈, 속건성 옷, 레인 재킷, 스노클링 장비, 가벼운 저녁 복장, 모기 퇴치 스프레이"
+    ],
+    "th": [
+      "ชุดว่ายน้ำ, ครีมกันแดดที่ปลอดภัยต่อปะการัง, รองเท้าลุยน้ำ, เสื้อผ้าแห้งเร็ว, เสื้อกันฝน, อุปกรณ์ดำน้ำตื้น, ชุดใส่ตอนเย็นเบาๆ, สเปรย์กันยุง"
+    ]
+  },
+  "seo": {
+    "metaTitle": {
+      "en": "Southern Thailand Travel Guide 2026 | Go2Thailand",
+      "nl": "Zuid-Thailand Reisgids 2026 | Go2Thailand",
+      "fr": "Guide de voyage Thaïlande du Sud 2026 | Go2Thailand",
+      "de": "Südthailand Reiseführer 2026 | Go2Thailand",
+      "zh": "泰国南部旅游指南2026 | Go2Thailand",
+      "ru": "Путеводитель по Южному Таиланду 2026 | Go2Thailand",
+      "ja": "タイ南部旅行ガイド2026 | Go2Thailand",
+      "ko": "태국 남부 여행 가이드 2026 | Go2Thailand",
+      "th": "คู่มือเที่ยวภาคใต้ 2026 | Go2Thailand"
+    },
+    "metaDescription": {
+      "en": "Southern Thailand travel guide 2026. Best cities, islands, beaches, and travel tips for Phuket, Krabi, Koh Samui and more.",
+      "nl": "Zuid-Thailand reisgids 2026. Beste steden, eilanden, stranden en reistips voor Phuket, Krabi, Koh Samui en meer.",
+      "fr": "Guide de voyage Thaïlande du Sud 2026. Meilleures villes, îles, plages et conseils de voyage pour Phuket, Krabi, Koh Samui et plus.",
+      "de": "Südthailand Reiseführer 2026. Beste Städte, Inseln, Strände und Reisetipps für Phuket, Krabi, Koh Samui und mehr.",
+      "zh": "泰国南部旅游指南2026。普吉岛、甲米、苏梅岛等最佳城市、岛屿、海滩和旅行攻略。",
+      "ru": "Путеводитель по Южному Таиланду 2026. Лучшие города, острова, пляжи и советы для Пхукета, Краби, Ко Самуи и других.",
+      "ja": "タイ南部旅行ガイド2026。プーケット、クラビ、サムイ島などのおすすめ都市、島、ビーチ、旅行のヒント。",
+      "ko": "태국 남부 여행 가이드 2026. 푸켓, 끄라비, 꼬사무이 등 추천 도시, 섬, 해변, 여행 팁.",
+      "th": "คู่มือเที่ยวภาคใต้ประเทศไทย 2026 เมืองน่าเที่ยว เกาะ ชายหาด และเคล็ดลับการเดินทางสำหรับภูเก็ต กระบี่ เกาะสมุย และอื่นๆ"
+    }
+  },
+  "categories": {
+    "attractions": {
+      "en": "Top attractions in Southern Thailand",
+      "nl": "Top bezienswaardigheden in Zuid-Thailand",
+      "fr": "Principales attractions en Thaïlande du Sud",
+      "de": "Top-Sehenswürdigkeiten in Südthailand",
+      "zh": "泰国南部热门景点",
+      "ru": "Лучшие достопримечательности Южного Таиланда",
+      "ja": "タイ南部の人気観光スポット",
+      "ko": "태국 남부 인기 관광지",
+      "th": "สถานที่ท่องเที่ยวยอดนิยมในภาคใต้"
+    },
+    "cities": {
+      "en": "Best cities to visit in Southern Thailand",
+      "nl": "Beste steden om te bezoeken in Zuid-Thailand",
+      "fr": "Meilleures villes à visiter en Thaïlande du Sud",
+      "de": "Beste Städte in Südthailand",
+      "zh": "泰国南部最佳旅游城市",
+      "ru": "Лучшие города Южного Таиланда",
+      "ja": "タイ南部のおすすめ都市",
+      "ko": "태국 남부 추천 도시",
+      "th": "เมืองน่าเที่ยวในภาคใต้"
+    },
+    "climate": {
+      "en": "Climate and weather in Southern Thailand",
+      "nl": "Klimaat en weer in Zuid-Thailand",
+      "fr": "Climat et météo en Thaïlande du Sud",
+      "de": "Klima und Wetter in Südthailand",
+      "zh": "泰国南部气候与天气",
+      "ru": "Климат и погода в Южном Таиланде",
+      "ja": "タイ南部の気候と天気",
+      "ko": "태국 남부 기후와 날씨",
+      "th": "สภาพอากาศและภูมิอากาศภาคใต้"
+    }
+  },
+  "tags": [
+    "Thailand",
+    "regio",
+    "reizen",
+    "toerisme",
+    "gids",
+    "zuidelijk"
+  ]
+}

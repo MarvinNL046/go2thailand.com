@@ -1,0 +1,708 @@
+{
+  "id": 10,
+  "slug": "surat-thani",
+  "name": {
+    "en": "Surat Thani",
+    "nl": "Surat Thani",
+    "ja": "スラーターニー",
+    "ko": "수랏타니",
+    "th": "สุราษฎร์ธานี",
+    "de": "Surat Thani",
+    "fr": "Surat Thani",
+    "ru": "Surat Thani",
+    "zh": "素叻他尼"
+  },
+  "region": "Zuidelijk",
+  "province": "Surat Thani",
+  "description": {
+    "en": "Surat Thani works best as a real southern river city with an old-town core, market culture, and a few smart mainland extensions, not just as a ferry handoff to the Gulf islands.",
+    "nl": "Surat Thani werkt het best als een echte zuidelijke rivierstad met een old-townkern, marktleven en een paar slimme mainland-extensies, niet alleen als overstappunt naar de Golf-eilanden.",
+    "ja": "サムイ島、パンガン島、タオ島など人気の島々へのフェリー拠点となる交通の要所です。",
+    "ko": "코사무이, 코팡안, 코타오 등 인기 섬들로 가는 교통 허브입니다.",
+    "th": "เมืองคนดี ประตูสู่เกาะสมุย เกาะพะงัน และเกาะเต่า มีอาหารใต้แท้ๆ",
+    "de": "Verkehrsknotenpunkt zu Inseln wie Koh Samui, Koh Phangan und Koh Tao.",
+    "fr": "Centre de transport vers des îles comme Koh Samui, Koh Phangan et Koh Tao.",
+    "ru": "Транспортный узел к островам, таким как Ко Самуи, Ко Фанган и Ко Тао.",
+    "zh": "前往苏梅岛、帕岸岛和涛岛等岛屿的交通枢纽。"
+  },
+  "population": 132000,
+  "population_label": "Referentie op stadsniveau",
+  "population_note": "Gebruik dit als een brede stedelijke oriëntatiepunt in plaats van een actuele gemeentelijke telling.",
+  "highlights": [
+    "Talat Lang en de 100-Year Arch Bridge",
+    "Surat Thani City Pillar Shrine",
+    "Talad San Chao en de nachtmarktlaag",
+    "Bang Bai Mai en Khlong Roi Sai",
+    "Wat Phra Borommathat Chaiya",
+    "Pum Riang en Laem Pho"
+  ],
+  "location": {
+    "lat": 9.14,
+    "lng": 99.3331
+  },
+  "image": "/images/cities/generated/surat-thani.webp",
+  "seo": {
+    "metaTitle": {
+      "en": "Surat Thani Thailand Guide 2026 | Old Town, Food, Hotels",
+      "nl": "Surat Thani gids 2026 | Old town, eten en hotels",
+      "ja": "スラーターニーを満喫 | スラーターニーの観光・見どころガイド",
+      "ko": "수랏타니 태국 — 섬 여행 관문 가이드 2026",
+      "th": "สุราษฎร์ธานี ประเทศไทย — คู่มือท่องเที่ยวฉบับสมบูรณ์ 2026",
+      "de": "Entdecken Sie Surat Thani | Was tun in Surat Thani?",
+      "fr": "Découvrez Surat Thani | Que faire à Surat Thani ?",
+      "ru": "Откройте для себя Сурат Тхани | Что делать в Сурат Тхани?",
+      "zh": "发现素叻他尼 | 在素叻他尼可以做什么？"
+    },
+    "metaDescription": {
+      "en": "Plan Surat Thani around the old town, southern food, Bang Bai Mai, Wat Phra Borommathat Chaiya, and practical city stays instead of treating it as a pure ferry stop.",
+      "nl": "Plan Surat Thani rond de old town, zuidelijk eten, Bang Bai Mai, Wat Phra Borommathat Chaiya en praktische city stays in plaats van alleen als ferry-overstap.",
+      "ja": "タイ・スラーターニーの旅行ガイド — おすすめスポット、グルメ、ホテル情報をご紹介。",
+      "ko": "수랏타니(태국) 완벽 여행 가이드: 코사무이·코팡안·코타오 페리, 카오속 국립공원. 가격, 팁, 가는 법.",
+      "th": "คู่มือท่องเที่ยวสุราษฎร์ธานี ประเทศไทย — สถานที่ท่องเที่ยว อาหาร ที่พัก และเคล็ดลับ อัปเดต 2026",
+      "de": "Ihr Reiseführer für Surat Thani, Thailand – Tipps, Highlights, Essen, Hotels.",
+      "fr": "Votre guide pour Surat Thani, Thaïlande – conseils, points forts, gastronomie, hôtels.",
+      "ru": "Ваш гид по Сурат Тхани, Таиланд — советы, достопримечательности, еда, отели.",
+      "zh": "泰国素叻他尼指南——小贴士、亮点、美食、酒店。"
+    }
+  },
+  "categories": {
+    "food": {
+      "en": "Best restaurants and southern Thai food in Surat Thani",
+      "nl": "Beste restaurants en zuidelijk Thais eten in Surat Thani",
+      "ja": "スラーターニーのおすすめレストラン＆ストリートフード",
+      "ko": "수랏타니 추천 레스토랑과 길거리 음식",
+      "th": "ร้านอาหารและสตรีทฟู้ดที่ดีที่สุดในสุราษฎร์ธานี"
+    },
+    "hotels": {
+      "en": "Top hotels in Surat Thani | Practical city stays",
+      "nl": "Beste hotels in Surat Thani | Praktische city stays",
+      "ja": "スラーターニーのおすすめホテル｜お得な情報＆アドバイス",
+      "ko": "수랏타니 추천 호텔 | 팁 & 특가",
+      "th": "โรงแรมแนะนำในสุราษฎร์ธานี | เคล็ดลับและดีล"
+    },
+    "attractions": {
+      "en": "Top attractions in Surat Thani",
+      "nl": "Top bezienswaardigheden in Surat Thani",
+      "ja": "スラーターニーの人気観光スポット",
+      "ko": "수랏타니 인기 관광 명소",
+      "th": "สถานที่ท่องเที่ยวยอดนิยมในสุราษฎร์ธานี"
+    }
+  },
+  "tags": [
+    "zuidelijk",
+    "surat-thani",
+    "oude-stad",
+    "markten",
+    "bang-bai-mai",
+    "chaiya",
+    "thailand"
+  ],
+  "enhanced_description": "Surat Thani wordt zwakker als alles geschreven is alsof de stad alleen maar bestaat om mensen door te sturen naar Samui, Phangan, Tao, Khao Sok of Cheow Lan. De sterkere versie begint in de stad: Talat Lang, de Na Dan-gemeenschap, de 100-Year Arch Bridge, de stadspilaar en de rivierkanttempellaag, en het markt ritme dat de stad aan het vasteland nog steeds zijn eigen karakter geeft.\n\nVan daaruit wordt de route veel duidelijker. De huidige stadsgids van MICHELIN leunt op de straten van de oude stad, de erfgebouwenlaag en nabijgelegen lokale restaurants in plaats van generieke veerbootkopie. De huidige Surat Thani-gemeenschapsdekking van TAT doet hetzelfde aan de kant van het vasteland, vooral in Bang Bai Mai en Khlong Roi Sai, waar het kanaalleven en het ambachtelijke aspect een veel betere dag maken dan het plan opvullen met zwakke transportvulling.\n\nDat is de versie die het waard is om te publiceren. Surat Thani is nog steeds nuttig voor eilanden en langere zuidelijke routes, maar de stad verdient zijn eigen verblijf zodra je het structureert rond de oude stad, markteten, één Bang Bai Mai-gemeenschapsblok en één serieuze erfuitbreiding aan de Chaiya-kant.",
+  "overview": "De beste eerste kennismaking met Surat Thani is stedelijk en vastelandgericht. De huidige stadsgids van MICHELIN behandelt Talat Lang, de Na Dan-gemeenschap, oude winkelstraatjes, straatkunst en de 100-Year Arch Bridge als de kernidentiteit van de stad, wat nuttiger is dan meteen door te gaan naar veerbootterminals of ver-westelijke nationale-park kopie.\n\nDe tweede laag is eten. Surat Thani heeft een sterkere restaurantkeuze dan zijn oude generieke pagina's ooit suggereerden: gefrituurd deeg bij Lian Tai, oud-markt dumplings bij Khao Kriab Pak Mor, barbecues-varkensrijst bij Heng Khao Moo Daeng, en een reeks serieuze zuidelijke keukens die MICHELIN nog steeds volgt over de stad en de vastelandgordel. Dat doet ertoe omdat de stad makkelijker te begrijpen is als eten en straten samen gepland worden.\n\nNa het centrum is de beste uitbreiding Bang Bai Mai en Khlong Roi Sai als je een rustiger vastelandgemeenschapsroute wilt, of Wat Phra Borommathat Chaiya als geschiedenis prioriteit heeft. Pum Riang en Laem Pho passen als een textiel- en zeevruchten toevoeging daarna. Surat Thani wordt beter als je ophoudt met het proberen te dekken van elke provinciale klassieker in één keer en in plaats daarvan de stad, één kanaalgemeenschap en één erfblok aan de Chaiya-kant in balans houdt.",
+  "hidden_gems": [
+    {
+      "name": "Talat San Chao and the riverside market layer",
+      "story": "De marktzone werkt omdat hij verbonden is met de oude stad in plaats van als een losstaand toeristisch evenement te worden opgezet. MICHELIN gebruikt nog steeds de Na San Jao-markt als een levend eten-referentiepunt, en het gebied krijgt meer zin als het in een avondwandeling wordt gevouwen dan als een checklist-stop.",
+      "how_to_find": "Gebruik het na Talat Lang en de 100-Year Arch Bridge, en houd het diner in de buurt in plaats van weer de stad over te steken.",
+      "best_time": "Late middag tot avond",
+      "local_insights": [
+        "Het oudere deel van de stad leest het best te voet.",
+        "Dit is een van de makkelijkste plekken om straatetens met de erfgoedstraten te verbinden."
+      ]
+    },
+    {
+      "name": "Bang Bai Mai community route",
+      "story": "De huidige Surat Thani-gemeenschapsdekking van TAT geeft Bang Bai Mai meer substantie dan de oude veerbootzware stadskopie ooit deed. De waarde ligt niet in één enkel landmark maar in het kanaal, Wat Bang Bai Mai, de drijvende-marktkant en de oudere rivierkantlevensstijl die bewaard is in Khlong Roi Sai.",
+      "how_to_find": "Behandel het als één toegewijde halve dag vanuit de stad in plaats van een gehaaste fotostop.",
+      "best_time": "Ochtend of een rustiger late-namiddagslot",
+      "local_insights": [
+        "Zondag past het best als de gemeenschapsmarkt ertoe doet in je plan.",
+        "Dit werkt veel beter dan het stapelen van verschillende niet-gerelateerde provinciale omwegen in dezelfde dag."
+      ]
+    }
+  ],
+  "authentic_experiences": [
+    {
+      "activity": "Lees de stad door Talat Lang voordat je de stad verlaat",
+      "story": "Talat Lang, de Na Dan-gemeenschap en de 100-Year Arch Bridge zijn de duidelijkste manier om te begrijpen waarom Surat Thani meer is dan een logistieke stop.",
+      "cultural_significance": "De huidige Surat Thani-gids van MICHELIN gebruikt dit blok voor de historische architectuur van de stad, steegjes met straatkunst en de oudere gemeenschapstextuur.",
+      "how_to_participate": "Loop eerst de straten van de oude stad, en laat de eetstops natuurlijk in de route vallen.",
+      "insights": [
+        "Dit zou de eerste halve dag moeten zijn, niet het overgebleven slot.",
+        "De stad wordt veel makkelijker te plannen zodra deze laag eerst gedaan is."
+      ],
+      "href": "/city/surat-thani/attractions/surat-thani-old-town-and-100-year-arch-bridge/",
+      "cta_label": "Zie de oude-stadgids"
+    },
+    {
+      "activity": "Gebruik Bang Bai Mai als de belangrijkste vastelandgemeenschapsdag",
+      "story": "Bang Bai Mai hangt samen omdat de huidige Engelstalige feature van TAT al Wat Bang Bai Mai, de drijvende markt, ambachten en Khlong Roi Sai in één coherente gemeenschapsroute verbindt.",
+      "cultural_significance": "De gemeenschap behoudt nog steeds een ouder kanaalgebaseerd levensstijl en lokale kokos-, ambacht- en markttradities die Surat Thani een echt vastelandidentiteit geven.",
+      "how_to_participate": "Ga met genoeg tijd voor het kanaalgedeelte en vermijd het reduceren tot een drive-by tempelstop.",
+      "insights": [
+        "Dit is de sterkste zachtere-natuuruitbreiding vanuit de stad.",
+        "Het is beter dan Surat Thani alleen als een transportoverdracht te gebruiken."
+      ],
+      "href": "/city/surat-thani/attractions/bang-bai-mai-and-khlong-roi-sai/",
+      "cta_label": "Zie de Bang Bai Mai-gids"
+    },
+    {
+      "activity": "Houd één serieus Chaiya-erfblok",
+      "story": "Wat Phra Borommathat Chaiya is de uitbreiding die de reis echt verdiept omdat zowel MICHELIN als TAT het nog steeds behandelen als een van de belangrijke heilige plaatsen in Zuid-Thailand.",
+      "cultural_significance": "De tempel uit de Srivijaya-periode is een van de duidelijkste historische ankers van de provincie en een veel sterkere uitbreiding dan generieke transportkantvulling.",
+      "how_to_participate": "Gebruik het als een bewuste halve dag, idealiter zonder te veel andere districtstops eromheen te pakken.",
+      "insights": [
+        "Dit is de beste erfgoedtegenwicht voor de oude-stadwandeling.",
+        "Begraaf het niet in een overbouwd provinciaal loop."
+      ],
+      "href": "/city/surat-thani/attractions/wat-phra-borommathat-chaiya/",
+      "cta_label": "Zie de Chaiya-gids"
+    },
+    {
+      "activity": "Plan eten rond MICHELIN-ondersteunde ontbijt- en lunchstops",
+      "story": "Het sterkste stadseten van Surat Thani is geen generieke cafévulling. Lian Tai, Khao Kriab Pak Mor, Heng Khao Moo Daeng en de zuidelijke-keukennamen rond de stad geven de stad nog steeds een duidelijke eetidentiteit.",
+      "cultural_significance": "Deze restaurants weerspiegelen de Thaise-Chinese ontbijtlaag van de stad, markteten en serieuze zuidelijke vastelandkeuken.",
+      "how_to_participate": "Gebruik één ontbijt-stijl stop, één markt- of noedelsstop en één volledige zuidelijke diner in plaats van willekeurige restaurantnamen te verzamelen.",
+      "insights": [
+        "De reis wordt sterker zodra eten deel wordt van de routestructuur.",
+        "MICHELIN is hier een veel betere filter dan schraaprankings."
+      ],
+      "href": "/city/surat-thani/top-10-restaurants/",
+      "cta_label": "Zie de eetgids"
+    }
+  ],
+  "foodie_adventures": [
+    {
+      "dish": "Patongo en de ontbijt-kleine-hapjeslaag",
+      "location": "Lian Tai",
+      "story": "De Surat Thani-dekking van MICHELIN in 2025 behandelt Lian Tai nog steeds als de legendarische patongo-stop, wat nuttig is omdat het de stad gegrond houdt in een echte ontbijtcultuur in plaats van generieke brunchkopie.",
+      "where_to_find": "Gebruik het vroeg en koppel het aan het oude-stadsblok.",
+      "price_range": "Budget",
+      "ordering_tips": [
+        "Dit is een ochtendstop, geen hele-dag fallback.",
+        "Het werkt het best voor de hitte en voor de oude stad vol raakt."
+      ],
+      "href": "/city/surat-thani/top-10-restaurants/",
+      "cta_label": "Zie de eetgids"
+    },
+    {
+      "dish": "Gestoomde dumplings van de Na San Jao-markt",
+      "location": "Khao Kriab Pak Mor",
+      "story": "MICHELIN framet dit nog steeds als een veteraan-marktkar gebouwd rond zoet-zoute gestoomde rijstdumplings, wat het een van de duidelijkste marktetenankers in de stad maakt.",
+      "where_to_find": "Het beste in de Talad San Chao-kant van de stad gevouwen.",
+      "price_range": "Budget",
+      "ordering_tips": [
+        "Gebruik het als een kleine maaltijd of gedeelde stop in plaats van het hele avondplan.",
+        "Het werkt goed met een oude-stadwandeling."
+      ],
+      "href": "/city/surat-thani/top-10-restaurants/",
+      "cta_label": "Zie de eetgids"
+    },
+    {
+      "dish": "Barbecues-varkensrijst en Thais-Chinees lunch",
+      "location": "Heng Khao Moo Daeng",
+      "story": "De MICHELIN Guide benadrukt Heng Khao Moo Daeng nog steeds als een bruisende lokale lunchroom, wat helpt om de stadscentrum eetidentiteit van Surat Thani specifiek en praktisch te houden.",
+      "where_to_find": "Het beste als een vroeg lunch op een stadsdag.",
+      "price_range": "Budget",
+      "ordering_tips": [
+        "Ga vroeg als je het sterkste lunchritme wilt.",
+        "Dit is een betere stadmaaltijd dan afdwalen in generiek mall-dinen."
+      ],
+      "href": "/city/surat-thani/top-10-restaurants/",
+      "cta_label": "Zie de eetgids"
+    },
+    {
+      "dish": "Een serieus zuidelijk diner met rivier- of heuvelzichten",
+      "location": "Nampetch, Sum Gradang Nga, Phunisa of Lam Phu 2",
+      "story": "Surat Thani wordt sterker zodra één volledig zuidelijk diner deel is van het plan. De huidige selecties van MICHELIN houden nog steeds verschillende stad- en vastelandsnamen in spel, van de ingrediënt-geleide zuidelijke keuken van Nampetch tot het Tapi-rivieruitzicht van Phunisa.",
+      "where_to_find": "Kies degene die bij je route past in plaats van ze allemaal te proberen te verzamelen.",
+      "price_range": "Middenklasse",
+      "ordering_tips": [
+        "Gebruik een stadrestaurant voor de oude-stadsdag en een rivierzichtplek alleen als je route natuurlijk die kant op gaat.",
+        "Hier stopt de stad met het voelen als een transitknooppunt."
+      ],
+      "href": "/city/surat-thani/top-10-restaurants/",
+      "cta_label": "Zie de eetgids"
+    }
+  ],
+  "local_insights": [
+    "Surat Thani is sterker als een vastelandstad-en-gemeenschapsreis dan als een wachtkamer voor de eilanden.",
+    "Het oude-stadsblok zou voor de veerbootlogica moeten komen, niet erna.",
+    "Bang Bai Mai is de beste gemeenschapsuitbreiding omdat het kanaalleven, ambachten en eten toevoegt zonder in vulling te verzakken.",
+    "Wat Phra Borommathat Chaiya is de duidelijkste erfgoedtoevoeging; het verdient de rit meer dan zwakkere districtstops.",
+    "Eetplanning doet er hiertoe: ontbijt, markt kleine hapjes en één serieus zuidelijk diner geven de stad echte vorm."
+  ],
+  "seasonal_secrets": "November tot februari is de makkelijkste algehele fit omdat oude-stadwandelen, marktbrowsen en Bang Bai Mai-kanaaltijd comfortabeler zijn. Hete maanden werken nog steeds als je de stads wandelingen vooropstelt en de zwaardere districtbewegingen voor vroeg of laat op de dag bewaart. Regenachtige maanden kunnen sfeervol zijn aan de vastelandkant, maar kanaal- en wegcondities verdienen een snelle lokale nacheck.",
+  "budget_reality": {
+    "budget": "De stad Surat Thani zelf kan nog steeds goedkoop worden afgehandeld als je het verblijf stadgericht houdt, eet bij lokale ontbijt- en lunchplekken en de route niet overbouwt met lange privétransfers.",
+    "mid_range": "Middenklasse uitgaven stijgen meestal als je meerdere districtuitbreidingen toevoegt, grotere ketenhotels kiest of het vastelandverblijf verandert in een veerboot-en-auto logistieke keten.",
+    "luxury": "De grotere uitgaven druk komt meestal van eiland- of resortomwegen in plaats van van de stad zelf.",
+    "money_saving_tricks": [
+      "Baseer jezelf in de stad als de oude stad en restaurants prioriteit hebben; betaal geen eiland-transfer gemakskosten voor een vastelandverblijf.",
+      "Gebruik één Bang Bai Mai- of Chaiya-uitbreiding in plaats van verschillende lange districtritten in dezelfde reis te stapelen.",
+      "Laat ontbijt en lunch komen uit de MICHELIN kleine-hapjeslaag en bewaar het hogere-uitgaven slot voor één echt zuidelijk diner alleen als het het waard is."
+    ],
+    "hidden_costs": [
+      "Privétransfers en onnodige veerbootkant hotelkeuzes kunnen meer kosten dan de stad zelf.",
+      "Provinciebrede omwegen tellen snel op als je probeert Chaiya, Bang Bai Mai, Donsak en Khao Sok in één kort verblijf te combineren."
+    ]
+  },
+  "top_attractions": [
+    {
+      "rank": 1,
+      "name": "Talat Lang and the 100-Year Arch Bridge",
+      "description": "De beste eerste-stadslaag omdat het historische straten, straatkunst, de Na Dan-gemeenschap en de meest leesbare oude-stadsatmosfeer combineert in één wandelbare passage.",
+      "location": "Centraal Surat Thani oude stad",
+      "entrance_fee": "Openbare straten en brugtoegang zijn eenvoudig.",
+      "highlights": [
+        "Talat Lang oude-stadsstraten",
+        "100-Year Arch Bridge",
+        "Beste eerste kennismaking met de stad"
+      ],
+      "href": "/city/surat-thani/attractions/surat-thani-old-town-and-100-year-arch-bridge/",
+      "cta_label": "Zie de oude-stadgids"
+    },
+    {
+      "rank": 2,
+      "name": "Surat Thani City Pillar Shrine",
+      "description": "De duidelijkste heilige stop in de stad als je een korte maar betekenisvolle stadscentrum-landmark wilt in plaats van een andere dunne transportkantattractie.",
+      "location": "Centraal Surat Thani",
+      "entrance_fee": "TAT lijst de shrine als een openbare culturele stop; donaties zijn gebruikelijk.",
+      "highlights": [
+        "Beschermgeest-shrine",
+        "Makkelijke centraal-stadsstop",
+        "Nuttig met de oude-stadwandeling"
+      ],
+      "href": "/city/surat-thani/attractions/surat-thani-city-pillar-shrine/",
+      "cta_label": "Zie de shrine-gids"
+    },
+    {
+      "rank": 3,
+      "name": "Talad San Chao and the night-market layer",
+      "description": "De sterkste eten-en-avondstop in de stad omdat het marktleven direct verbindt met de oudere stad in plaats van met generieke nachtbazaar kopie.",
+      "location": "Na San Jao-markt en nabijgelegen rivierfrontstraten",
+      "entrance_fee": "Openbare markttoegang is eenvoudig; eetuitgaven hangen af van wat je bestelt.",
+      "highlights": [
+        "Na San Jao-markt",
+        "Straatetenlaag",
+        "Beste avondstedelijk ritme"
+      ],
+      "href": "/city/surat-thani/attractions/surat-thani-night-market-and-talad-san-chao/",
+      "cta_label": "Zie de markt-gids"
+    },
+    {
+      "rank": 4,
+      "name": "Bang Bai Mai and Khlong Roi Sai",
+      "description": "De beste zachte-natuur en gemeenschapsuitbreiding vanuit de stad, met kanaalleven, Wat Bang Bai Mai, drijvende-marktcontext en een rustiger vastelandroute dan de gebruikelijke transitkopie suggereert.",
+      "location": "Bang Bai Mai, Mueang Surat Thani District",
+      "entrance_fee": "Gemeenschapsactiviteitskosten variëren; check huidige boot- of marktafspraken lokaal.",
+      "highlights": [
+        "Kanaalgemeenschap",
+        "Wat Bang Bai Mai",
+        "Khlong Roi Sai boot-en-ambachtlaag"
+      ],
+      "href": "/city/surat-thani/attractions/bang-bai-mai-and-khlong-roi-sai/",
+      "cta_label": "Zie de Bang Bai Mai-gids"
+    },
+    {
+      "rank": 5,
+      "name": "Wat Phra Borommathat Chaiya",
+      "description": "De beste erfgoeduitbreiding vanuit de stad en nog steeds een van de belangrijkere heilige plaatsen in Zuid-Thailand in de huidige MICHELIN- en TAT-dekking.",
+      "location": "Chaiya District",
+      "entrance_fee": "Tempeltoegang is meestal eenvoudig; lokale donatienormen gelden.",
+      "highlights": [
+        "Srivijaya-periode stupa",
+        "Beste erfgoeduitbreiding",
+        "Serieus zuidelijke tempelstop"
+      ],
+      "href": "/city/surat-thani/attractions/wat-phra-borommathat-chaiya/",
+      "cta_label": "Zie de Chaiya-gids"
+    },
+    {
+      "rank": 6,
+      "name": "Pum Riang Village and Laem Pho",
+      "description": "Een slimme textiel-en-zeevruchtenuitbreiding als je één vastelandkustomweg wilt met lokale zijde, zeevruchten en een duidelijker plaatsverhaal dan generieke strandvulling.",
+      "location": "Pum Riang en Laem Pho, Chaiya District",
+      "entrance_fee": "Openbare dorp- en parktoegang zijn eenvoudig; uitgaven hangen af van eten of shoppen.",
+      "highlights": [
+        "Pum Riang zijde",
+        "Laem Pho krab-landmark",
+        "Vasteland zeevruchten-en-ambachtuitbreiding"
+      ],
+      "href": "/city/surat-thani/attractions/pum-riang-village-and-laem-pho/",
+      "cta_label": "Zie de Pum Riang-gids"
+    }
+  ],
+  "top_restaurants": [
+    {
+      "rank": 1,
+      "name": "Lian Tai",
+      "description": "De duidelijkste ontbijtankers in de stad als je de oude stad wilt beginnen met een echt lokale kleine-hapjesstop.",
+      "location": "Chonkasem Road, Talat",
+      "price_range": "Budget",
+      "highlights": [
+        "MICHELIN-erkende patongo",
+        "Beste ontbijtstart",
+        "Vriendelijke ligging in de oude stad"
+      ],
+      "href": "/city/surat-thani/top-10-restaurants/",
+      "cta_label": "Bekijk de eetgids"
+    },
+    {
+      "rank": 2,
+      "name": "Khao Kriab Pak Mor",
+      "description": "Een echte stop bij de Na San Jao-markt, opgebouwd rond klassieke gestoomde dumplings in plaats van generieke nachtmarkt-vullers.",
+      "location": "Na San Jao Market, Tonpo Road",
+      "price_range": "Budget",
+      "highlights": [
+        "MICHELIN-marktkeuze",
+        "Gestoomde dumplings",
+        "Handig bij de avondmarkt-route"
+      ],
+      "href": "/city/surat-thani/top-10-restaurants/",
+      "cta_label": "Bekijk de eetgids"
+    },
+    {
+      "rank": 3,
+      "name": "Heng Khao Moo Daeng",
+      "description": "Een van de beste stedelijke lunchklassiekers als je een snelle, betrouwbare Thais-Chinese maaltijd wilt met echte lokale aantrekkingskracht.",
+      "location": "Namueang Road, Talat",
+      "price_range": "Budget",
+      "highlights": [
+        "MICHELIN-straatvoedselkeuze",
+        "Geroosterde varkensvleesrijst",
+        "Sterke vroege lunchstop"
+      ],
+      "href": "/city/surat-thani/top-10-restaurants/",
+      "cta_label": "Bekijk de eetgids"
+    },
+    {
+      "rank": 4,
+      "name": "Keo Pla",
+      "description": "Een nuttige noedeloptie als tegenwicht wanneer je iets lichters wilt dan een volledige zuidelijke diner, maar sterker dan willekeurige cafévullers.",
+      "location": "Surat Thani stad",
+      "price_range": "Budget",
+      "highlights": [
+        "MICHELIN-erkende noedels",
+        "Goede eetstop in het stadscentrum",
+        "Eenvoudig in te passen in de stedelijke route"
+      ],
+      "href": "/city/surat-thani/top-10-restaurants/",
+      "cta_label": "Bekijk de eetgids"
+    },
+    {
+      "rank": 5,
+      "name": "Sum Gradang Nga",
+      "description": "De beste stedelijke zuidelijke dinerkeuze als je gedurfde lokale smaken wilt zonder het stadscentrum te verlaten.",
+      "location": "Donnok Road-gebied",
+      "price_range": "Middenklasse",
+      "highlights": [
+        "MICHELIN Bib Gourmand",
+        "Ernstige zuidelijke Thaise keuken",
+        "Goede avond zitmaaltijd"
+      ],
+      "href": "/city/surat-thani/top-10-restaurants/",
+      "cta_label": "Bekijk de eetgids"
+    },
+    {
+      "rank": 6,
+      "name": "Nampetch",
+      "description": "Een sterker vasteland-zuidelijk restaurant als je ingrediënt-geleide kookkunst en een bewuste maaltijd wilt in plaats van een snelle stop in de stad.",
+      "location": "Bangnaimai Road-gebied",
+      "price_range": "Middenklasse",
+      "highlights": [
+        "MICHELIN Bib Gourmand",
+        "Lokale-producten-geleide zuidelijke keuken",
+        "Goede toegewijde dinerbestemming"
+      ],
+      "href": "/city/surat-thani/top-10-restaurants/",
+      "cta_label": "Bekijk de eetgids"
+    }
+  ],
+  "top_hotels": [
+    {
+      "rank": 1,
+      "name": "Sleep Station Surat Thani",
+      "description": "De sterkste geredigeerde stedelijke basis als je een schoon, modern, praktisch verblijf wilt met directe officiële boekingsondersteuning en een ligging die werkt voor vasteland-stedelijke routing.",
+      "price_range": "Budget tot middenklasse",
+      "category": "middenklasse",
+      "area": "Mueang Surat Thani",
+      "highlights": [
+        "Officiële eigendomssite",
+        "Beveiligd parkeren en gratis Wi-Fi",
+        "Sterke praktische stedelijke basis"
+      ]
+    },
+    {
+      "rank": 2,
+      "name": "HOP INN Surat Thani",
+      "description": "De meest voorspelbare budget-ketenkeuze als de kamer vooral een schone basis is voor een kort vastelandverblijf.",
+      "price_range": "Budget",
+      "category": "budget",
+      "area": "Makham Tia, Mueang Surat Thani",
+      "highlights": [
+        "Officiële directe-boekingspagina",
+        "Eenvoudig budgetformaat",
+        "Nuttige korte verblijfsbasis"
+      ]
+    },
+    {
+      "rank": 3,
+      "name": "B2 Surat Thani Premier Hotel",
+      "description": "Een groter budgetvriendelijk stadshotel als je gemakkelijk parkeren, ketenvoorspelbaarheid en eenvoudige toegang wilt voor vasteland-roadtrips.",
+      "price_range": "Budget tot middenklasse",
+      "category": "budget",
+      "area": "Mueang Surat Thani",
+      "highlights": [
+        "Officiële hotelpagina",
+        "Gratis Wi-Fi en parkeren op de directe site",
+        "Beter voor auto-gebaseerde itineraries"
+      ]
+    },
+    {
+      "rank": 4,
+      "name": "Sleep Hotel Surat Thani",
+      "description": "Een praktisch modern stedelijk verblijf als je een iets gepolijster in-stad-kamer wilt zonder de hotelkeuze tot de hele reis te maken.",
+      "price_range": "Middenklasse",
+      "category": "middenklasse",
+      "area": "Mueang Surat Thani",
+      "highlights": [
+        "Officiële hotelgroepsite",
+        "Moderne kamer-types",
+        "Goede stadscentrum-praktisch nut"
+      ]
+    }
+  ],
+  "travel_tips": [
+    "Begin met de oude stad. Surat Thani wordt zwakker als Talat Lang tot na de transportklusjes wordt uitgesteld.",
+    "Kies Bang Bai Mai of Chaiya als de belangrijkste uitbreiding. De meeste korte verblijven hebben niet beide plus extra provinciale omwegen nodig.",
+    "Gebruik ontbijt en lunch bewust. De MICHELIN-laag van kleine hapjes is een van de duidelijkste sterke punten van de stad.",
+    "Behandel Donsak en eilandpiern als transportinfrastructuur, niet als het emotionele centrum van het stedelijke verblijf.",
+    "Als de veertijtijd ertoe doet, controleer dan de huidige Seatran- of operatorroosters direct voor de reis dag."
+  ],
+  "best_time_to_visit": "November tot februari is het gemakkelijkste seizoen voor Surat Thani omdat oude-stad-wandelingen, stedelijke eetlussen en Bang Bai Mai-kanaaltijd comfortabeler zijn. De hetere maanden werken nog steeds als je ochtenden en avonden goed plant, terwijl regenachtige periodes lonend kunnen zijn aan de vastelandkant zolang je marge houdt voor weersgerelateerde timingwijzigingen.",
+  "bestTimeToVisit": "November tot februari is de veiligste allround fit voor Surat Thani. Hete maanden belonen vroegere starts, en regenachtige maanden kunnen nog steeds goed werken als je kanaal-, weg- en veercondities controleert voor je een strak schema committeert.",
+  "budget_info": {
+    "budget_per_day": "Budget",
+    "midrange_per_day": "Middenklasse",
+    "luxury_per_day": "Hogere uitgaven"
+  },
+  "thingsToDo": "Begin met Talat Lang, de 100-Year Arch Bridge, de stadspilaar en marktlaag, kies dan één bewuste uitbreiding: Bang Bai Mai voor kanaal-gemeenschapsleven of Wat Phra Borommathat Chaiya voor erfgoed. Voeg Pum Riang en Laem Pho alleen toe als je genoeg tijd hebt voor een tweede vastelandblok.",
+  "whereToStay": "Verblijf in de stad als de oude stad, markten en vasteland-eetscene de echte reden voor de reis zijn. Gebruik alleen luchthaven-weg- of auto-gerichte accommodaties als je echt vroege vertrekken, gemakkelijk parkeren of een korte transitstop nodig hebt. Veer-kant gemakverblijven maken minder zin als het doel is om Surat Thani zelf te ervaren.",
+  "whereToEat": [
+    {
+      "name": "Lian Tai",
+      "cuisine": "Kleine hapjes en ontbijt",
+      "priceRange": "Budget",
+      "description": "Het duidelijkste ontbijtankerpunt in de stad."
+    },
+    {
+      "name": "Khao Kriab Pak Mor",
+      "cuisine": "Straatvoedsel",
+      "priceRange": "Budget",
+      "description": "Een langlopende Na San Jao-markt dumplingkraam."
+    },
+    {
+      "name": "Heng Khao Moo Daeng",
+      "cuisine": "Thais-Chinees",
+      "priceRange": "Budget",
+      "description": "Een drukke lunchfavoriet voor geroosterde varkensvleesrijst."
+    },
+    {
+      "name": "Sum Gradang Nga",
+      "cuisine": "Zuidelijk Thais",
+      "priceRange": "Middenklasse",
+      "description": "Een van de beste stedelijke zuidelijke dinerkeuzes."
+    },
+    {
+      "name": "Nampetch",
+      "cuisine": "Zuidelijk Thais",
+      "priceRange": "Middenklasse",
+      "description": "Een sterker producten-geleide zuidelijke kookbestemming."
+    }
+  ],
+  "topHotels": [
+    {
+      "name": "Sleep Station Surat Thani",
+      "category": "middenklasse",
+      "priceRange": "Budget tot middenklasse",
+      "area": "Mueang Surat Thani",
+      "description": "Een schoon, modern, praktisch stedelijk verblijf met directe boekingsondersteuning."
+    },
+    {
+      "name": "HOP INN Surat Thani",
+      "category": "budget",
+      "priceRange": "Budget",
+      "area": "Makham Tia",
+      "description": "Een voorspelbare budget-ketenbasis voor korte verblijven."
+    },
+    {
+      "name": "B2 Surat Thani Premier Hotel",
+      "category": "budget",
+      "priceRange": "Budget tot middenklasse",
+      "area": "Mueang Surat Thani",
+      "description": "Een eenvoudige keten-stijl verblijf met parkeren en directe-site duidelijkheid."
+    },
+    {
+      "name": "Sleep Hotel Surat Thani",
+      "category": "middenklasse",
+      "priceRange": "Middenklasse",
+      "area": "Mueang Surat Thani",
+      "description": "Een gepolijster stedelijke optie zonder het praktische vastelandgebied te verlaten."
+    }
+  ],
+  "gettingAround": "Het stadscentrum is beheersbaar met korte ritten plus wandelen zodra je in Talat Lang bent. Bang Bai Mai en Chaiya zijn echte buiten-stad-potjes en moeten zo gepland worden. Veer-geografie is weer apart: Seatran's eigen routestructuur maakt duidelijk dat Donsak en eilandpiern transportknooppunten zijn, geen downtown-stadsaantrekkingskracht.",
+  "safetyTips": "Surat Thani is meestal eenvoudig, maar hetzelfde praktische gezond verstand geldt hier als elders: houd waardevolle spullen dichtbij in drukke markten, respecteer kledingcodes bij actieve heiligdommen en tempels, en vermijd het om donkere rurale of kanaalsecties om te zetten in geïmproviseerde late-nacht-omwegen. Als je plan afhangt van veerboten, boten of weergevoelige vasteland-rijden, bevestig dan condities direct op de dag in plaats van te vertrouwen op statische gidskopie.",
+  "faq": [
+    {
+      "question": "Is Surat Thani meer waard dan een transitstop?",
+      "answer": "Ja, als je het plant als een vastelandstad eerst. Talat Lang, de 100-Year Arch Bridge, markteten, Bang Bai Mai en een Chaiya-kant erfgoeduitbreiding geven de stad meer substantie dan een eenvoudige veer-overnachting."
+    },
+    {
+      "question": "Wat moet je eerst prioriteren in Surat Thani?",
+      "answer": "Begin met het oude-stad-blok en zijn eetlaag. Dat geeft de stad een identiteit voordat je besluit of Bang Bai Mai of Wat Phra Borommathat Chaiya de volgende halve dag verdient."
+    },
+    {
+      "question": "Is Bang Bai Mai het waard om toe te voegen?",
+      "answer": "Ja. TAT's huidige Engelse feature maakt een sterk geval voor Bang Bai Mai omdat het kanaal, ambachten, Wat Bang Bai Mai en marktlaag een coherente vasteland-gemeenschapsroute vormen."
+    },
+    {
+      "question": "Welk eten moet je prioriteren in Surat Thani?",
+      "answer": "Gebruik één ontbijt kleine-hapjes-stop zoals Lian Tai, één markt- of lunchstop zoals Khao Kriab Pak Mor of Heng Khao Moo Daeng, dan één echte zuidelijke diner uit de huidige MICHELIN-gevolgde restaurantset."
+    },
+    {
+      "question": "Hoe passen veerroutes in een Surat Thani-stedelijk verblijf?",
+      "answer": "Ze doen er logistiek toe, maar ze zouden het stadsplan niet moeten domineren. Seatran's officiële routemap maakt duidelijk dat Donsak en de eilandpiern aparte transportpotjes zijn, dus behandel ze als infrastructuur in plaats van als de hoofdattraction."
+    }
+  ],
+  "practicalInfo": {
+    "arrival": "Surat Thani werkt het best als je aankomstlogistiek scheidt van bezienswaardigheden. Oude-stad- en markt-tijd horen in de stad; veer- en eilandverbindingen horen in hun eigen transportblok.",
+    "transport": "Downtown-verkenning is het gemakkelijkst zodra je in Talat Lang of de markt-kant bent gedropt. Bang Bai Mai, Pum Riang en Chaiya moeten behandeld worden als echte buiten-stad-potjes, niet als casual walk-up toevoegingen.",
+    "planning": "Denk in drie lagen: stadskern eerst, één vasteland-gemeenschap of erfgoeduitbreiding tweede, en veer- of eilandlogistiek alleen als ze echt deel zijn van je vervolgroute."
+  },
+  "contentSources": [
+    {
+      "type": "reisgids",
+      "title": "Een Gids voor Surat Thani: Thaise Zuidelijke Juweel Waarvoor de White Lotus-productie de Oceaan Stak",
+      "creator": "MICHELIN Guide",
+      "url": "https://guide.michelin.com/th/en/article/travel/a-guide-to-surat-thani",
+      "description": "Gebruikt voor de oude-stad-framing rond Talat Lang, Na Dan, de 100-Year Arch Bridge, straatkunst, Wat Phra Borommathat Chaiya, en de huidige eet- en marktidentiteit van de stad."
+    },
+    {
+      "type": "toerisme-kantoor",
+      "title": "Check-in in Surat Thani voor 2 Dagen en 1 Nacht: Genieten Zonder de Zee",
+      "creator": "Tourism Product Division, Tourism Authority of Thailand",
+      "url": "https://tourismproduct.tourismthailand.org/en/2024/08/31/%E0%B9%80%E0%B8%8A%E0%B9%87%E0%B8%81%E0%B8%AD%E0%B8%B4%E0%B8%99-%E0%B8%AA%E0%B8%B8%E0%B8%A3%E0%B8%B2%E0%B8%A9%E0%B8%8E%E0%B8%A3%E0%B9%8C%E0%B8%98%E0%B8%B2%E0%B8%99%E0%B8%B5-2-%E0%B8%A7%E0%B8%B1-2-2/",
+      "description": "Gebruikt voor Bang Bai Mai, Pracharat Bang Bai Mai Floating Market, Khlong Roi Sai, Wat Bang Bai Mai, Laem Pho, en Pum Riang dorp."
+    },
+    {
+      "type": "toerisme-kantoor",
+      "title": "Surat Thani Route Hoogtepunten",
+      "creator": "Tourism Product Division, Tourism Authority of Thailand",
+      "url": "https://tourismproduct.tourismthailand.org/2024/03/31/%E0%B9%80%E0%B8%AA%E0%B9%89%E0%B8%99%E0%B8%97%E0%B8%B2%E0%B8%87%E0%B8%97%E0%B9%88%E0%B8%AD%E0%B8%87%E0%B9%80%E0%B8%97%E0%B8%B5%E0%B9%88%E0%B8%A2%E0%B8%A7-%E0%B8%88-%E0%B8%AA%E0%B8%B8%E0%B8%A3%E0%B8%B2%E0%B8%A9%E0%B8%8E%E0%B8%A3%E0%B9%8C%E0%B8%98%E0%B8%B2%E0%B8%99%E0%B8%B5/",
+      "description": "Gebruikt voor TAT's 2024 geredigeerde vasteland-kortlijst inclusief Wat Bang Bai Mai, Laem Pho, Pum Riang, en Khlong Roi Sai."
+    },
+    {
+      "type": "bezienswaardigheid",
+      "title": "The City Pillar Shrine, Surat Thani",
+      "creator": "Tourism Authority of Thailand",
+      "url": "https://www.tourismthailand.org/Attraction/the-city-pillar-shrine-surat-thani",
+      "description": "Gebruikt als het officiële referentiepunt voor de stadspilaar-bezienswaardigheidspagina en heiligdomspositionering."
+    },
+    {
+      "type": "bezienswaardigheid",
+      "title": "Wat Phra Borommathat Chaiya",
+      "creator": "Tourism Authority of Thailand",
+      "url": "https://www.tourismthailand.org/Attraction/wat-phra-borommathat-chaiya",
+      "description": "Gebruikt als de officiële bezienswaardigheidsreferentie voor de Chaiya-tempelpagina."
+    },
+    {
+      "type": "restaurant",
+      "title": "Lian Tai",
+      "creator": "MICHELIN Guide",
+      "url": "https://guide.michelin.com/us/en/cchanghwad-suraasdrthaanii/suraasdrthaanii_2719394/restaurant/lian-tai",
+      "description": "Gebruikt voor de ontbijt-kleine-hapjes-laag en de huidige Surat Thani-stad restaurantkortlijst."
+    },
+    {
+      "type": "restaurant",
+      "title": "Khao Kriab Pak Mor",
+      "creator": "MICHELIN Guide",
+      "url": "https://guide.michelin.com/en/cchanghwad-suraasdrthaanii/suraasdrthaanii_2719394/restaurant/khao-kriab-pak-mor-talat-na-san-jao",
+      "description": "Gebruikt voor de Na San Jao markt voedselpresentatie en de veteran dumpling kraam."
+    },
+    {
+      "type": "restaurant",
+      "title": "Heng Khao Moo Daeng",
+      "creator": "MICHELIN Guide",
+      "url": "https://guide.michelin.com/en/cchanghwad-suraasdrthaanii/suraasdrthaanii_2719394/restaurant/heng-khao-moo-daeng",
+      "description": "Gebruikt voor de Thais-Chinese lunchlaag en de huidige Surat Thani voedselplanning."
+    },
+    {
+      "type": "restaurant",
+      "title": "Sum Gradang Nga",
+      "creator": "MICHELIN Guide",
+      "url": "https://guide.michelin.com/en/cchanghwad-suraasdrthaanii/suraasdrthaanii_2719394/restaurant/sum-gradang-nga",
+      "description": "Gebruikt voor de huidige Bib Gourmand zuidelijke-diner positionering in de stad Surat Thani."
+    },
+    {
+      "type": "restaurant",
+      "title": "Nampetch",
+      "creator": "MICHELIN Guide",
+      "url": "https://guide.michelin.com/en/cchanghwad-suraasdrthaanii/suraasdrthaanii_2719394/restaurant/nampetch",
+      "description": "Gebruikt voor ingrediënt-geleide zuidelijke Thaise keuken in het bredere Surat Thani vasteland restaurantensemble."
+    },
+    {
+      "type": "restaurant",
+      "title": "Phunisa",
+      "creator": "MICHELIN Guide",
+      "url": "https://guide.michelin.com/us/en/cchanghwad-suraasdrthaanii/suraasdrthaanii_2719394/restaurant/phunisa",
+      "description": "Gebruikt voor de Tapi River uitzicht restaurantoptie en de buiten-vasteland dinerlaag."
+    },
+    {
+      "type": "restaurant",
+      "title": "Lam Phu 2",
+      "creator": "MICHELIN Guide",
+      "url": "https://guide.michelin.com/us/en/cchanghwad-suraasdrthaanii/suraasdrthaanii_2719394/restaurant/lam-phu-2",
+      "description": "Gebruikt voor de rivier-uitzicht lokale zeevruchtenoptie in de vasteland restaurantlaag."
+    },
+    {
+      "type": "hotel",
+      "title": "Sleep Station Surat Thani",
+      "creator": "Sleep Station Surat Thani",
+      "url": "https://sleepstation.sleephotelgroup.com/",
+      "description": "Gebruikt voor directe eigendomsdetails, adres, parkeren en praktische stadverblijf positionering."
+    },
+    {
+      "type": "hotel",
+      "title": "Sleep Hotel Group, Surat Thani",
+      "creator": "Sleep Hotel Group",
+      "url": "https://sleephotelgroup.com/",
+      "description": "Gebruikt voor directe bevestiging van Sleep Hotel kamer types, parkeren en in-stad Surat Thani positionering."
+    },
+    {
+      "type": "hotel",
+      "title": "HOP INN Surat Thani",
+      "creator": "HOP INN Thailand",
+      "url": "https://www.hopinnhotel.com/our-hotels/hop-inn-surat-thani",
+      "description": "Gebruikt voor directe budget-hotel positionering, Makham Tia adres en boekingsondersteuning."
+    },
+    {
+      "type": "hotel",
+      "title": "B2 Surat Thani Premier Hotel",
+      "creator": "B2 Boutique and Budget Hotels",
+      "url": "https://www.b2hotel.com/surat-thani/b2-surat-thani-premier-hotel/",
+      "description": "Gebruikt voor officiële parkeer- en gratis Wi-Fi bevestiging op de directe site."
+    },
+    {
+      "type": "vervoer",
+      "title": "Seatran Ferry",
+      "creator": "Seatran Ferry",
+      "url": "https://www.seatranferry.com/",
+      "description": "Gebruikt voor de huidige Donsak-naar-eiland route structuur zodat veerbootlogistiek wordt behandeld als vervoer, niet als stadsbezichtiging."
+    }
+  ],
+  "reviewed_by": "Go2Thailand Editorial Team",
+  "enhanced_at": "2026-03-27T00:00:00.000Z",
+  "factchecked_at": "2026-03-27T00:00:00.000Z",
+  "enrichedAt": "2026-03-27T00:00:00.000Z"
+}

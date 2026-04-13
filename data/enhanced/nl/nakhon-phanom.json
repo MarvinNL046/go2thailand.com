@@ -1,0 +1,586 @@
+{
+  "id": 32,
+  "slug": "nakhon-phanom",
+  "name": {
+    "en": "Nakhon Phanom",
+    "nl": "Nakhon Phanom",
+    "ja": "ナコーンパノム",
+    "ko": "나콘파놈",
+    "th": "นครพนม",
+    "de": "Nakhon Phanom",
+    "fr": "Nakhon Phanom",
+    "ru": "Nakhon Phanom",
+    "zh": "Nakhon Phanom"
+  },
+  "region": "Isaan",
+  "province": "Nakhon Phanom",
+  "description": {
+    "en": "Nakhon Phanom works best as a walkable Mekong city with a Vietnamese-heritage core first, then one deliberate outer-province temple or river stop. The strongest first trip combines the riverfront, Wat Mahathat, Ho Chi Minh House, and Vietnamese-led food before you decide whether Phra That Phanom or another province stop deserves the extra drive.",
+    "nl": "Nakhon Phanom werkt het best als een beloopbare Mekongstad met eerst een Vietnamese erfgoedkern en daarna hooguit een bewuste extra tempel- of rivieruitstap in de provincie.",
+    "ja": "メコン川沿いの静かな旧市街、ベトナム系コミュニティの食文化、そしてプラタート・パノムへ続く信仰の流れが重なる、タイ東北部でも独特の空気を持つ町です。",
+    "ko": "메콩 강변 산책, 베트남계 음식 문화, 그리고 프라탓 파놈으로 이어지는 신앙 동선이 겹치는 이산의 차분한 강변 도시입니다.",
+    "th": "นครพนมเหมาะกับการเที่ยวแบบค่อยเป็นค่อยไป เริ่มจากเมืองริมน้ำโขง ย่านวัฒนธรรมเวียดนาม และค่อยต่อด้วยพระธาตุสำคัญนอกเมืองอย่างมีจังหวะ",
+    "de": "Nakhon Phanom funktioniert am besten als gut begehbare Mekong-Stadt mit vietnamesischem Kulturerbe im Stadtkern und einem gezielt gewahlten Tempel- oder Flussausflug auBerhalb der Stadt.",
+    "fr": "Nakhon Phanom se visite mieux comme une ville marchable du Mekong, avec un coeur marque par l'heritage vietnamien puis une seule grande sortie religieuse ou fluviale hors du centre.",
+    "ru": "Накхон Пханом лучше всего воспринимать как компактный город на Меконге с заметным вьетнамским наследием и лишь одной осмысленной выездной святыней за пределами центра.",
+    "zh": "那空帕侬最适合按“步行河城 + 越南文化核心 + 一次认真外出寺庙行程”的逻辑来规划，而不是把整省硬塞进一趟行程里。"
+  },
+  "population": 80000,
+  "highlights": [
+    "Phaya Sisattanakarat rivieroever",
+    "Wat Mahathat (Phrathat Nakhon)",
+    "Ho Chi Minh Huis",
+    "Vietnamese Gedenkkloktoren",
+    "Sint Anna Nong Saeng Katholieke Kerk",
+    "Wat Phra That Phanom Woramahawihan"
+  ],
+  "location": {
+    "lat": 17.3947,
+    "lng": 104.7698
+  },
+  "image": "/images/cities/generated/nakhon-phanom.webp",
+  "seo": {
+    "metaTitle": {
+      "en": "Nakhon Phanom Thailand Guide 2026 | Mekong Riverfront, Food, Hotels",
+      "nl": "Nakhon Phanom Thailand Gids 2026 | Mekong rivierfront, food en hotels",
+      "ja": "ナコーンパノム観光ガイド 2026 | メコン川沿い、食、ホテル",
+      "ko": "나콘파놈 태국 여행 가이드 2026 | 메콩 강변, 음식, 호텔",
+      "th": "เที่ยวนครพนม 2026 | ริมโขง อาหาร ที่พัก วางแผนง่าย",
+      "de": "Nakhon Phanom Thailand Guide 2026 | Mekong-Ufer, Essen, Hotels",
+      "fr": "Guide Nakhon Phanom 2026 | Bord du Mekong, restaurants et hotels",
+      "ru": "Путеводитель по Nakhon Phanom 2026 | Набережная Меконга, еда, отели",
+      "zh": "2026 那空帕侬旅行指南 | 湄公河河岸、美食与住宿"
+    },
+    "metaDescription": {
+      "en": "Plan Nakhon Phanom around the Mekong riverfront, Wat Mahathat, Ho Chi Minh House, Vietnamese-heritage food, and a deliberate side trip to Phra That Phanom.",
+      "nl": "Plan Nakhon Phanom rond het Mekong-rivierfront, Wat Mahathat, Ho Chi Minh House, Vietnamees erfgoedfood en een bewuste uitstap naar Phra That Phanom.",
+      "ja": "ナコーンパノムは、メコン川沿いの散策、ワット・マハータート、ホーチミンハウス、ベトナム系の食、そしてプラタート・パノムへの一日を軸に組み立てると分かりやすい町です。",
+      "ko": "나콘파놈은 메콩 강변, 왓 마하탓, 호치민 하우스, 베트남계 음식, 프라탓 파놈 일정으로 짜면 가장 이해하기 쉬운 도시입니다.",
+      "th": "วางแผนนครพนมให้ชัดด้วยริมโขง วัดมหาธาตุ บ้านลุงโฮ อาหารสายเวียดนาม และทริปไปพระธาตุพนม",
+      "de": "Plane Nakhon Phanom rund um die Mekong-Promenade, Wat Mahathat, Ho Chi Minh House, vietnamesisch gepragte Kulinarik und einen gezielten Abstecher nach Phra That Phanom.",
+      "fr": "Organisez Nakhon Phanom autour de la promenade du Mekong, de Wat Mahathat, de la maison de Ho Chi Minh, de la cuisine d'heritage vietnamien et d'une sortie a Phra That Phanom.",
+      "ru": "Планируйте Nakhon Phanom вокруг набережной Меконга, Wat Mahathat, дома Хо Ши Мина, вьетнамской гастрономической линии и осознанной поездки к Phra That Phanom.",
+      "zh": "把那空帕侬的行程围绕湄公河步道、Wat Mahathat、胡志明故居、越南风味餐馆和一次前往 Phra That Phanom 的外出安排起来。"
+    }
+  },
+  "categories": {
+    "food": {
+      "en": "Best restaurants and Vietnamese-heritage food in Nakhon Phanom",
+      "nl": "Beste restaurants en Vietnamees erfgoedfood in Nakhon Phanom",
+      "ja": "ナコーンパノムのおすすめレストランとベトナム系ローカルフード",
+      "ko": "나콘파놈 추천 레스토랑과 베트남계 로컬 음식",
+      "th": "ร้านอาหารและอาหารสายเวียดนามที่ดีที่สุดในนครพนม"
+    },
+    "hotels": {
+      "en": "Top hotels in Nakhon Phanom | Tips and deals",
+      "nl": "Beste hotels in Nakhon Phanom | Tips en deals",
+      "ja": "ナコーンパノムのおすすめホテルと滞在の考え方",
+      "ko": "나콘파놈 추천 호텔 | 실전 팁",
+      "th": "โรงแรมแนะนำในนครพนม | เคล็ดลับและดีล"
+    },
+    "attractions": {
+      "en": "Top attractions in Nakhon Phanom",
+      "nl": "Top bezienswaardigheden in Nakhon Phanom",
+      "ja": "ナコーンパノムの主要観光スポット",
+      "ko": "나콘파놈 핵심 명소",
+      "th": "สถานที่ท่องเที่ยวยอดนิยมในนครพนม"
+    }
+  },
+  "tags": [
+    "isaan",
+    "nakhon-phanom",
+    "mekong",
+    "vietnamese-heritage",
+    "rivieroever",
+    "phra-that-phanom",
+    "thailand"
+  ],
+  "enhanced_description": "Nakhon Phanom wordt zwakker als het wordt verkocht als een generieke Mekong-zonsondergangstad met een hoop onbewezen claims over cruises, prijzen en anekdotes. De sterkere versie begint met de kern van de rivieroeverstad: Phaya Sisattanakarat, Sunthon Wichit Road, Wat Mahathat, de Vietnamese Gedenkkloktoren en het Ho Chi Minh Huis. Die groep legt de stad veel beter uit dan het najagen van elke district-stop op dag één.\n\nDaarna wordt de planning duidelijker. Vietnamees beïnvloed eten is hier geen decoratie; het is een van de echte structurele voordelen van de stad, en de huidige Foodie Map van TAT behandelt Nakhon Phanom nog steeds door die lens. Pas dan heeft het zin om één bewuste tempelstop buiten de provincie toe te voegen, zoals Wat Phra That Phanom Woramahawihan. Nakhon Phanom beloont selectiviteit, een langzamere rivieroeveravond en een verblijf lang genoeg om de stadskern te laten ademen.",
+  "overview": "De huidige TAT-provinciepagina framed Nakhon Phanom nog steeds als een Mekong-stad gevormd door het oude Sri Kotrabun-koninkrijk, Lao-invloed en de bergen die oprijzen voorbij Thakhek aan de Lao-kant. Die framing is nuttig omdat het de stad gegrond houdt in wat er op de grond nog steeds toe doet: de westelijke oever van de Mekong, een rivieroever gebouwd voor wandelingen en een culturele mix die doorklinkt in architectuur, eten en dagelijks ritme in plaats van alleen in festivalmarketing.\n\nDe sterkste eerste indruk is nog steeds de stadskern. De rivieroever rond Phaya Sisattanakarat en Sunthon Wichit Road is waar de skyline, de naga-symboliek, de Lao-gericht uitzicht en het avondtempo samenkomen. Vandaar voegt Wat Mahathat de belangrijkste heilige laag van de stad toe, terwijl het Ho Chi Minh Huis en de Vietnamese Gedenkkloktoren de Vietnamese historische draad zichtbaar houden zonder de route te dwingen tot een museumrondleiding.\n\nDie volgorde doet ertoe omdat het Nakhon Phanom voorkomt om een dunne lijst van provinciebrede attracties te worden. Als je maar één of twee nachten hebt, is het meestal slimmer om het verblijf rond de stad zelf op te bouwen en dan één serieuze tempel- of districtstop buiten de stad toe te voegen. Wat Phra That Phanom is de voor de hand liggende hoogwaardige uitbreiding omdat TAT het nog steeds behandelt als een van de heiligste sites in noordoost-Thailand, maar het werkt het best als een bewuste extra, niet als een vervanging voor het eerst begrijpen van de stad.",
+  "hidden_gems": [
+    {
+      "name": "Saint Anna Nong Saeng Catholic Church",
+      "why_special": "Het voegt een echt andere religieuze en architectonische laag toe aan de stadskern en is nog steeds een van de officiële provinciehoogtepunten op de bestemmings-pagina van TAT.",
+      "local_tip": "Integreer het in de rivieroever- en erfgoedwandeling in plaats van het als een aparte uitstap te behandelen.",
+      "best_time": "Late namiddag",
+      "href": "/city/nakhon-phanom/attractions/saint-anna-nong-saeng-catholic-church/",
+      "cta_label": "Zie de Sint Anna-gids"
+    },
+    {
+      "name": "Vietnamese Memorial Clock Tower",
+      "why_special": "De kloktoren is een van de duidelijkste herinneringen dat de Vietnamese geschiedenis in Nakhon Phanom geen abstracte achtergrond is, maar nog steeds zichtbaar in de stad zelf.",
+      "local_tip": "Combineer het met het Ho Chi Minh Huis en een Vietnamees ontbijt of vroege lunch.",
+      "best_time": "Ochtend of vroege avond",
+      "href": "/city/nakhon-phanom/attractions/vietnamese-memorial-clock-tower/",
+      "cta_label": "Zie de kloktoren-gids"
+    }
+  ],
+  "authentic_experiences": [
+    {
+      "activity": "Bouw de eerste halve dag op rond de rivieroeverkern",
+      "story": "Phaya Sisattanakarat, Sunthon Wichit Road en de Mekong-promenade zijn de schoonste manier om Nakhon Phanom te lezen als een echte rivierstad in plaats van een provinciechecklist.",
+      "cultural_significance": "De huidige wandeltoer en provincieframing van TAT houden de rivieroever als de identiteitsanker van de stad, met naga-symboliek, Lao-gericht uitzicht en een oud-stad ritme allemaal geconcentreerd hier.",
+      "how_to_participate": "Begin bij de rivieroever-landmarkzone, wandel dan naar het zuiden of noorden naar Wat Mahathat en de erfgoedlaag in plaats van direct te springen in transport-zware zijtrips.",
+      "insights": [
+        "Dit is de beste structuur voor de eerste avond of eerste ochtend.",
+        "De stad wordt sterker als de Mekong-kant echte tijd krijgt."
+      ],
+      "href": "/city/nakhon-phanom/attractions/phaya-sisattanakarat-riverfront/",
+      "cta_label": "Zie de rivieroever-gids"
+    },
+    {
+      "activity": "Gebruik Wat Mahathat om het heilige centrum van de stad te begrijpen",
+      "story": "Wat Mahathat doet ertoe omdat het niet zomaar een rivieroever-tempel is. TAT presenteert Phrathat Nakhon hier nog steeds als de belangrijkste heilige stupa van de stad en koppelt het direct aan de identiteit van Nakhon Phanom.",
+      "cultural_significance": "Het TAT Mahathat-artikel van 2025 positioneert Wat Mahathat als de stadstempel van Nakhon Phanom en een geboortedag-stupa voor mensen geboren op zaterdag.",
+      "how_to_participate": "Behandel het als een echte tempelstop, niet alleen als een fotopauze tussen rivieroever-landmarks.",
+      "insights": [
+        "Dit is de sterkste heilige stop in de stad.",
+        "Het werkt vooral goed te voet vanaf de promenade."
+      ],
+      "href": "/city/nakhon-phanom/attractions/wat-mahathat-phrathat-nakhon/",
+      "cta_label": "Zie de Wat Mahathat-gids"
+    },
+    {
+      "activity": "Houd de Vietnamese erfgoeddraad zichtbaar",
+      "story": "Het Ho Chi Minh Huis en de Vietnamese Gedenkkloktoren maken de grensoverschrijdende geschiedenis van de stad leesbaar op een manier die generieke Mekong-tekst nooit doet.",
+      "cultural_significance": "De Nakhon Phanom wandeltoer-route van TAT gebruikt beide stops nog steeds als deel van de kern-erfgoedvolgorde van de stad.",
+      "how_to_participate": "Doe ze op dezelfde dag als een Vietnamees ontbijt of lunch, zodat de eten- en geschiedenislagen elkaar versterken.",
+      "insights": [
+        "Dit is wat Nakhon Phanom anders maakt dan een standaard rivierstad.",
+        "De erfgoedlaag leest beter als het gepaard gaat met eten, niet geïsoleerd ervan."
+      ],
+      "href": "/city/nakhon-phanom/attractions/ho-chi-minh-house/",
+      "cta_label": "Zie de Ho Chi Minh Huis-gids"
+    },
+    {
+      "activity": "Voeg één serieuze tempel buiten de provincie toe, niet vijf",
+      "story": "Wat Phra That Phanom is de schoonste hoogwaardige uitbreiding omdat TAT het nog steeds behandelt als een van de meest vereerde boeddhistische sites in noordoost-Thailand.",
+      "cultural_significance": "De spirituele-reisdekking van TAT positioneert Wat Phra That Phanom nog steeds als een van de heiligste sites in de regio.",
+      "how_to_participate": "Gebruik het als een bewuste halve dag of langere uitstap nadat je de stadskern al hebt gedaan.",
+      "insights": [
+        "Dit is de voor de hand liggende toevoeging zodra de stad zelf is behandeld.",
+        "Het zou de reis moeten aanscherpen, niet de stad vervangen."
+      ],
+      "href": "/city/nakhon-phanom/attractions/wat-phra-that-phanom-woramahawihan/",
+      "cta_label": "Zie de Phra That Phanom-gids"
+    }
+  ],
+  "foodie_adventures": [
+    {
+      "dish": "Pak mor en ontbijt-stijl Vietnamese dumplings",
+      "location": "Sri Thep Vietnamese Dumplings",
+      "story": "De Foodie Map van TAT uit 2024 behandelt Sri Thep nog steeds als een van de must-eat namen van Nakhon Phanom, wat ertoe doet omdat het de Vietnamese eetidentiteit van de stad vanaf het begin zichtbaar houdt.",
+      "where_to_find": "Gebruik het voor ontbijt of een vroege lichte maaltijd in plaats van als een generieke hele-dag stop.",
+      "price_range": "Budget",
+      "ordering_tips": [
+        "Dit is een van de beste manieren om het erfgoed van de stad direct op tafel te laten verschijnen.",
+        "Combineer het met de Vietnamese Gedenkkloktoren of het Ho Chi Minh Huis."
+      ],
+      "href": "/city/nakhon-phanom/top-10-restaurants/",
+      "cta_label": "Zie de eetgids"
+    },
+    {
+      "dish": "Rivieren-gekoppelde visnoedels",
+      "location": "Kuay Teow Moo Pla Pho Luk Song",
+      "story": "De Foodie Map beschrijft deze stop via zijn Mekong-vislogica, wat helpt om de stadse etensectie verankerd te houden in de plaats in plaats van te dwalen in willekeurige ranglijsten.",
+      "where_to_find": "Beste als een gefocuste lunch of laat ontbijt stop.",
+      "price_range": "Budget",
+      "ordering_tips": [
+        "Gebruik dit als je de rivier- en etenslagen op een concrete manier wilt verbinden.",
+        "Het is een sterkere planningskeuze dan een ander generiek café."
+      ],
+      "href": "/city/nakhon-phanom/top-10-restaurants/",
+      "cta_label": "Zie de eetgids"
+    },
+    {
+      "dish": "Eén directe Vietnamese maaltijd voorbij het ontbijt",
+      "location": "Vietnamese Kitchen",
+      "story": "TAT omvat Vietnamese Kitchen nog steeds in de huidige Nakhon Phanom-lijn, wat helpt bevestigen dat de Vietnamese invloed niet beperkt is tot één beroemd ontbijtzaakje.",
+      "where_to_find": "Gebruik het als een lunch- of dinertegenwicht voor de meer tempel-zware kant van de route.",
+      "price_range": "Budget tot middenklasse",
+      "ordering_tips": [
+        "Nuttig bij een tweedaags verblijf als je variatie wilt zonder de kern eetidentiteit van de stad te verlaten.",
+        "Beste behandeld als een echte maaltijd, niet als een back-up."
+      ],
+      "href": "/city/nakhon-phanom/top-10-restaurants/",
+      "cta_label": "Zie de eetgids"
+    },
+    {
+      "dish": "Gefermenteerde-rijst-noedel lokale specialiteit",
+      "location": "Khanom Jeen Pisamai",
+      "story": "Khanom Jeen Pisamai geeft de pagina een Isaan-geworteld tegenwicht aan de Vietnamese namen terwijl het nog steeds komt van de huidige gecureerde lijst van TAT.",
+      "where_to_find": "Beter als een dagtijd eetstop dan een laat-avond plan.",
+      "price_range": "Budget",
+      "ordering_tips": [
+        "Dit is nuttig als de reis één gerecht nodig heeft dat meer provinciaal aanvoelt en minder alleen rivieroever-erfgoed.",
+        "Goed om het eetplan over twee dagen in balans te houden."
+      ],
+      "href": "/city/nakhon-phanom/top-10-restaurants/",
+      "cta_label": "Zie de eetgids"
+    }
+  ],
+  "local_insights": [
+    "Nakhon Phanom is sterker als rivieroever-erfgoedstad dan als provinciebrede checklist.",
+    "De stadskern zou voor de lange tempelrit moeten komen, niet erna.",
+    "Vietnamees eten is een van de echte structurele sterktes van de stad, geen zijnoot.",
+    "Wat Mahathat is de beste heilige stop in de stad; Phra That Phanom is de beste bewuste uitbreiding.",
+    "Een wandelbare Mekong-avond doet meer voor de reis dan de route opvullen met zwakke extra stops."
+  ],
+  "seasonal_secrets": "Het koele seizoen van november tot februari is de makkelijkste algehele fit omdat de promenade, tempelwandelingen en langere districtritten comfortabeler zijn en de bergachtergrond aan de Lao-kant meestal duidelijker is. Het regenseizoen kan de Mekong-rand moodyer en groener maken, maar het verhoogt ook de kosten van improviseren op rivieroever-tijd en tempeltochten buiten de stad. Hete maanden werken nog steeds als je de stad respecteert als een vroeg-en-laat schema bestemming.",
+  "budget_reality": "Nakhon Phanom zelf is niet moeilijk betaalbaar te houden. De grotere kosten komen van transportkeuzes en van het overbouwen van de route: meerdere district-omwegen toevoegen, privéautotijd voor tempels buiten de provincie, of meer betalen voor een rivierzicht-kamer die je nauwelijks gebruikt. Een stad-eerst plan met één bewuste uitbreiding is meestal de betere uitgave.",
+  "top_attractions": [
+    {
+      "rank": 1,
+      "name": "Phaya Sisattanakarat and the riverfront core",
+      "description": "De beste eerste-stop stadlaag omdat het de naga-landmark combineert, Sunthon Wichit Road en het Mekong-gericht avondritme.",
+      "location": "Centraal Mekong rivieroever",
+      "entrance_fee": "Openbare rivieroevertoegang is eenvoudig",
+      "highlights": [
+        "Phaya Sisattanakarat landmark",
+        "Sunthon Wichit Road wandeling",
+        "Beste eerste lezing van de stad"
+      ],
+      "href": "/city/nakhon-phanom/attractions/phaya-sisattanakarat-riverfront/",
+      "cta_label": "Zie de rivieroever-gids"
+    },
+    {
+      "rank": 2,
+      "name": "Wat Mahathat (Phrathat Nakhon)",
+      "description": "De belangrijkste heilige stop van de stad, nog steeds gepositioneerd door TAT als de kern Mahathat-tempel van Nakhon Phanom aan de Mekong-kant.",
+      "location": "Rivieroever-kant van centraal Nakhon Phanom",
+      "entrance_fee": "TAT vermeldt geen entreefee; donaties zijn gebruikelijk",
+      "highlights": [
+        "Phrathat Nakhon stupa",
+        "Rivieroever tempelsetting",
+        "Sterkste heilige laag in de stad"
+      ],
+      "href": "/city/nakhon-phanom/attractions/wat-mahathat-phrathat-nakhon/",
+      "cta_label": "Zie de Wat Mahathat-gids"
+    },
+    {
+      "rank": 3,
+      "name": "Ho Chi Minh House",
+      "description": "De duidelijkste museum-stijl stop om de Vietnamese historische draad van de stad te begrijpen zonder de kern stedelijke zone te verlaten.",
+      "location": "Nakhon Phanom stad",
+      "entrance_fee": "Controleer huidige lokale ticketing of donatie-arrangementen bij aankomst",
+      "highlights": [
+        "Vietnamese-geschiedenislayer",
+        "Nuttige erfgoedstop",
+        "Beste gepaard met Vietnamees eten"
+      ],
+      "href": "/city/nakhon-phanom/attractions/ho-chi-minh-house/",
+      "cta_label": "Zie de Ho Chi Minh Huis-gids"
+    },
+    {
+      "rank": 4,
+      "name": "Vietnamese Memorial Clock Tower",
+      "description": "Een compacte maar betekenisvolle erfgoedstop die helpt de Vietnamese verhaal van de stad zichtbaar te houden in de route.",
+      "location": "Nakhon Phanom stad",
+      "entrance_fee": "Openbare landmarktoegang is eenvoudig",
+      "highlights": [
+        "Vietnamese gedenklayer",
+        "Makkelijke stadskern-stop",
+        "Werkt goed met eetplanning"
+      ],
+      "href": "/city/nakhon-phanom/attractions/vietnamese-memorial-clock-tower/",
+      "cta_label": "Zie de kloktoren-gids"
+    },
+    {
+      "rank": 5,
+      "name": "Saint Anna Nong Saeng Catholic Church",
+      "description": "Een van de officiële provinciehoogtepunten en een nuttige herinnering dat het religieuze landschap van Nakhon Phanom breder is dan alleen rivier-tempels.",
+      "location": "Nong Saeng kant van de stad",
+      "entrance_fee": "Kerktoegang hangt af van huidige eredienstactiviteit; bezoek respectvol",
+      "highlights": [
+        "Officieel TAT provinciehoogtepunt",
+        "Onderscheidende architectuur",
+        "Sterke erfgoedtoevoeging"
+      ],
+      "href": "/city/nakhon-phanom/attractions/saint-anna-nong-saeng-catholic-church/",
+      "cta_label": "Zie de Sint Anna-gids"
+    },
+    {
+      "rank": 6,
+      "name": "Wat Phra That Phanom Woramahawihan",
+      "description": "De belangrijkste bewuste tempeluitbreiding vanaf de stad en nog steeds een van de meest vereerde boeddhistische sites in noordoost-Thailand.",
+      "location": "That Phanom District",
+      "entrance_fee": "Tempeltoegang is over het algemeen eenvoudig; controleer huidige lokale arrangementen bij aankomst",
+      "highlights": [
+        "Een van de belangrijkste heilige sites in de regio",
+        "Beste grote tempeltoevoeging",
+        "Waard een bewuste halve dag"
+      ],
+      "href": "/city/nakhon-phanom/attractions/wat-phra-that-phanom-woramahawihan/",
+      "cta_label": "Zie de Phra That Phanom-gids"
+    }
+  ],
+  "top_restaurants": [
+    {
+      "rank": 1,
+      "name": "Sri Thep Vietnamese Dumplings",
+      "price_range": "Budget",
+      "description": "De duidelijkste ontbijt-stijl Vietnamese stop in de huidige Nakhon Phanom eetlijn van TAT.",
+      "category": "Vietnamees",
+      "area": "Nakhon Phanom stad",
+      "highlights": [
+        "TAT Foodie Map keuze",
+        "Handgemaakte pak mor focus",
+        "Beste in de ochtend"
+      ],
+      "href": "/city/nakhon-phanom/top-10-restaurants/",
+      "cta_label": "Zie de eetgids"
+    },
+    {
+      "rank": 2,
+      "name": "Kuay Teow Moo Pla Pho Luk Song",
+      "price_range": "Budget",
+      "description": "Een vis-noedel stop van de huidige lijst van TAT die de rivierlogica van de stad zichtbaar houdt in de eetplanning.",
+      "category": "Noodles",
+      "area": "Nakhon Phanom stad",
+      "highlights": [
+        "TAT Foodie Map keuze",
+        "Rivieren-gekoppeld ingrediëntverhaal",
+        "Goede lunch of laat ontbijt"
+      ],
+      "href": "/city/nakhon-phanom/top-10-restaurants/",
+      "cta_label": "Zie de eetgids"
+    },
+    {
+      "rank": 3,
+      "name": "Vietnamese Kitchen",
+      "price_range": "Budget tot middenklasse",
+      "description": "Een actuele TAT-geselecteerde Vietnamese restaurantnaam die de stad verankert in echt erfgoedeten in plaats van generieke ranglijsten.",
+      "category": "Vietnamese",
+      "area": "Nakhon Phanom stad",
+      "highlights": [
+        "TAT Foodie Map keuze",
+        "Nuttige tweede Vietnamese maaltijd",
+        "Geschikt voor een verblijf van twee nachten"
+      ],
+      "href": "/city/nakhon-phanom/top-10-restaurants/",
+      "cta_label": "Bekijk de eetgids"
+    },
+    {
+      "rank": 4,
+      "name": "Khanom Jeen Pisamai",
+      "price_range": "Budget",
+      "description": "Een TAT-genoteerde noedelpauze die de pagina een sterkere lokale Isaan-tegenwicht geeft tegenover de Vietnamese namen in de stad.",
+      "category": "Khanom jeen",
+      "area": "Nakhon Phanom provincie",
+      "highlights": [
+        "TAT Foodie Map keuze",
+        "Goede dagstop",
+        "Nuttig assortiment buiten Vietnamese gerechten"
+      ],
+      "href": "/city/nakhon-phanom/top-10-restaurants/",
+      "cta_label": "Bekijk de eetgids"
+    },
+    {
+      "rank": 5,
+      "name": "Yat Larb Ped",
+      "price_range": "Budget tot middenklasse",
+      "description": "De sterkste TAT-genoteerde eend-en-Isaan dineroptie als je één maaltijd wilt die geworteld is in lokale hartige keuken in plaats van alleen erfgoedontbijt.",
+      "category": "Isaan",
+      "area": "Nakhon Phanom stad",
+      "highlights": [
+        "TAT Foodie Map keuze",
+        "Eend-gericht signatuurgerecht",
+        "Nuttige avondmaaltijd"
+      ],
+      "href": "/city/nakhon-phanom/top-10-restaurants/",
+      "cta_label": "Bekijk de eetgids"
+    }
+  ],
+  "top_hotels": [
+    {
+      "rank": 1,
+      "name": "VELA Dhi Nakhon Panom",
+      "price_range": "Middenklasse tot luxe",
+      "description": "Het duidelijkste directe hotel met gepolijste faciliteiten als je een bewuste Mekong-rivierbasis wilt.",
+      "category": "riverside hotel",
+      "area": "Nakhonphanom - Thatphanom Road",
+      "highlights": [
+        "Officiële hotelwebsite",
+        "Mekong-rivierpositie",
+        "Directe boekpagina"
+      ],
+      "href": "/city/nakhon-phanom/top-10-hotels/",
+      "cta_label": "Bekijk de hotelgids"
+    },
+    {
+      "rank": 2,
+      "name": "Fortune River View Hotel Nakhon Phanom",
+      "price_range": "Middenklasse",
+      "description": "Een direct-site rivierfront hotel met volledige service als je een groter eigendom wilt met kamers, eten en faciliteiten op één officieel platform.",
+      "category": "riverfront city hotel",
+      "area": "Nakhon Phanom riverfront",
+      "highlights": [
+        "Officiële hotelwebsite",
+        "Rivierzichtpositie",
+        "Kamers, eten en faciliteiten pagina's live op de directe site"
+      ],
+      "href": "/city/nakhon-phanom/top-10-hotels/",
+      "cta_label": "Bekijk de hotelgids"
+    },
+    {
+      "rank": 3,
+      "name": "HOP INN Nakhon Phanom",
+      "price_range": "Budget",
+      "description": "De sterkste eenvoudige-keten budgetoptie als je schone kamers, gratis Wi-Fi en een voorspelbaar verblijf wilt met een directe officiële pagina.",
+      "category": "budget chain hotel",
+      "area": "Nittayo Road, Nai Mueang",
+      "highlights": [
+        "Officiële hotelwebsite",
+        "Gratis Wi-Fi op de directe site",
+        "Eenvoudige logica voor kort verblijf"
+      ],
+      "href": "/city/nakhon-phanom/top-10-hotels/",
+      "cta_label": "Bekijk de hotelgids"
+    }
+  ],
+  "travel_tips": [
+    "Eén of twee nachten is het juiste eerste verblijf in Nakhon Phanom voor de meeste reizigers.",
+    "Doe eerst de rivierfront kern voordat je de lange tempelrit naar het zuiden maakt.",
+    "Houd de Vietnamese eetlaag zichtbaar in plaats van terug te vallen op generieke Thaise restaurantkeuzes.",
+    "Gebruik een auto of chauffeur voor Phra That Phanom, Wat That Renu of een bredere provinceroute.",
+    "Controleer actuele tempeluren, luchthavenschema's en lokale evenementafsluitingen direct voordat je vertrouwt op exacte daglogistiek."
+  ],
+  "best_time_to_visit": {
+    "season": "November tot februari is het makkelijkste algemene venster omdat rivierfront wandelingen en tempelplanning comfortabeler zijn en de Mekong-zijde uitzichten meestal helderder.",
+    "weather": "Hete maanden werken nog steeds als je de dag structureert rond vroege en late uren. Regenachtige maanden maken de rivierfront sfeervoller en groener, maar verhogen de kosten van lange provinceritten zonder condities te checken.",
+    "reasons": "Nakhon Phanom is een stad die profiteert van buitencomfort, omdat de rivierfront en erfgoedlaag deel uitmaken van de kernervaring in plaats van optionele vulling."
+  },
+  "budget_info": {
+    "daily_budget": {
+      "budget": "Een budgetverblijf in Nakhon Phanom is realistisch met een eenvoudige kamer, erfgoedeetstops en een stad-eerst plan dat onnodig langeafstandsvervoer vermijdt.",
+      "mid": "Middenklasse uitgaven betekenen meestal een sterker rivierfront hotel, een mix van Vietnamese en lokale zitmaaltijden, en één bewuste tempelrun buiten het centrum.",
+      "luxury": "Hogere uitgaven komen hier vooral van kamerkeuze en transportbeslissingen, niet van zware attractieticketkosten."
+    }
+  },
+  "thingsToDo": "Begin met de rivierfront kern rond Phaya Sisattanakarat, Sunthon Wichit Road en Wat Mahathat, voeg dan Ho Chi Minh House en de Vietnamese Memorial Clock Tower toe om de erfgoedlaag coherent te houden. Als je meer tijd hebt, kies één echte uitbreiding zoals Wat Phra That Phanom Woramahawihan, de Third Thai-Lao Friendship Bridge zone of Wat That Renu in plaats van alle drie in een gehaaste passage te proppen.",
+  "whereToStay": "Als het verblijf draait om de promenade en avondeten, is een rivierfront of nabij-rivier hotel de juiste keuze. Als de kamer vooral een praktische basis is voor een korte stop of vervolgrit, werkt een eenvoudiger budget-keten eigendom beter dan extra betalen voor een uitzicht dat je nauwelijks gebruikt.",
+  "whereToEat": [
+    {
+      "name": "Sri Thep Vietnamese Dumplings",
+      "cuisine": "Vietnamese",
+      "priceRange": "Budget",
+      "description": "Een van de duidelijkste ontbijt-achtige erfgoedeetstops in de stad."
+    },
+    {
+      "name": "Kuay Teow Moo Pla Pho Luk Song",
+      "cuisine": "Noodles",
+      "priceRange": "Budget",
+      "description": "Een rivier-gekoppeld noedelpauze die de eetlaag van de stad verbonden houdt met de plek."
+    },
+    {
+      "name": "Vietnamese Kitchen",
+      "cuisine": "Vietnamese",
+      "priceRange": "Budget tot middenklasse",
+      "description": "Een nuttige tweede Vietnamese maaltijd om de erfgoedaspect over een tweedaags verblijf zichtbaar te houden."
+    },
+    {
+      "name": "Khanom Jeen Pisamai",
+      "cuisine": "Khanom jeen",
+      "priceRange": "Budget",
+      "description": "Een Isaan-gewortelde noedelpauze die variatie toevoegt aan het eetplan."
+    },
+    {
+      "name": "Yat Larb Ped",
+      "cuisine": "Isaan",
+      "priceRange": "Budget tot middenklasse",
+      "description": "Een sterkere lokale hartige dineroptie dan generieke rivierfront vulling."
+    }
+  ],
+  "gettingAround": "Zodra je gebaseerd bent in de stadskern, is de Mekong-zijde makkelijk te voet te doen. Wat Mahathat, de rivierfront landmark zone en verschillende erfgoedstops liggen natuurlijk in dezelfde wandelbare laag. Een auto of chauffeur wordt nuttiger zodra je Wat Phra That Phanom, Wat That Renu of de brugzone buiten het directe centrum toevoegt. Nakhon Phanom Airport blijft de dichtstbijzijnde luchtpoort voor de meeste vliegreizen.",
+  "bestTimeToVisit": "Het koele seizoen van november tot februari is de makkelijkste algemene fit voor Nakhon Phanom omdat promenade wandelingen, tempeltijd en zijtrips comfortabeler zijn. Heet seizoen kan nog werken als je focust op ochtend- en avondvensters. In het regenseizoen blijft de stad haalbaar, maar elke bredere provinceroute verdient eerst een lokale weers- en wegconditiecheck.",
+  "safetyTips": "Nakhon Phanom is over het algemeen rustig en laaggekeyd, maar rivierfront gezond verstand telt nog steeds. Behandel de Mekong rand niet als zwemgebied, kleed je respectvol bij actieve tempels en kerken, en houd dagtrip transport realistisch in plaats van lange district runs laat op de middag te improviseren. Als je de reis bouwt rond lokale evenementen of tijdelijke rivierfront activiteit, check actuele operaties direct voordat je gaat.",
+  "faq": [
+    {
+      "question": "Hoeveel nachten heb je nodig in Nakhon Phanom?",
+      "answer": "Eén nacht kan de rivierfront en een gefocuste erfgoedeetpassage dekken, maar twee nachten is de sterkere eerste reis omdat het de stadskern laat ademen voordat je een serieuze tempel- of districtuitstap toevoegt."
+    },
+    {
+      "question": "Wat is de beste eerste attractie in Nakhon Phanom?",
+      "answer": "Voor de meeste reizigers is het de rivierfront kern rond Phaya Sisattanakarat en Wat Mahathat, omdat die sequentie de stad veel beter uitlegt dan beginnen met een lange rit uit de stad."
+    },
+    {
+      "question": "Gaat Nakhon Phanom vooral om tempels?",
+      "answer": "Nee. De sterkere stadlogica is de combinatie van de Mekong-zijde, Vietnamese-erfgoed geschiedenis en eten. Tempels doen ertoe, maar ze zijn slechts één laag van het bezoek."
+    },
+    {
+      "question": "Heb je een auto nodig in Nakhon Phanom?",
+      "answer": "Niet voor de rivierfront kern zelf. Je hebt er vooral een nodig zodra je Phra That Phanom, Wat That Renu, de brugzone of andere bredere provincie stops toevoegt."
+    },
+    {
+      "question": "Welk eten moet je prioriteren in Nakhon Phanom?",
+      "answer": "Houd de Vietnamese en rivier-gekoppeld invalshoek zichtbaar: een pak mor ontbijt, één noedelpauze verbonden met het Mekong visverhaal, en één lokale Isaan maaltijd zoals Yat Larb Ped."
+    }
+  ],
+  "practicalInfo": {
+    "arrival": "Nakhon Phanom Airport is de dichtstbijzijnde luchtpoort, en wegankomsten uit andere Isaan steden zijn ook gebruikelijk. Definitieve schema details moeten altijd direct worden gecontroleerd bij de huidige luchtvaartmaatschappij of luchthavenbron voordat de reis dag.",
+    "transport": "Loop de stadskern, gebruik dan een auto of chauffeur voor district tempels of bredere provincielussen.",
+    "planning": "Denk in lagen: rivierfront kern, één Vietnamese-erfgoed passage, en maximaal één serieuze buiten-stad tempel of district stop."
+  },
+  "contentSources": [
+    {
+      "type": "tourism-office",
+      "title": "Nakhon Phanom provinciepagina",
+      "creator": "Tourism Authority of Thailand",
+      "url": "https://www.tourismthailand.org/Destinations/Provinces/Nakhon-Phanom/579",
+      "description": "Gebruikt voor officiële provincie framing, highlight selectie, Mekong setting en stad-van-bergen context."
+    },
+    {
+      "type": "tourism-office",
+      "title": "Ontdek 9 Heilige Mahathat Tempels voor Zegeningen",
+      "creator": "Tourism Authority of Thailand",
+      "url": "https://www.tourismthailand.org/Articles/discover-9-sacred-mahathat-temples-for-blessings",
+      "description": "Gebruikt voor actuele officiële positionering rond Wat Mahathat (Phrathat Nakhon), inclusief zijn rol als de principale Mahathat tempel van de stad."
+    },
+    {
+      "type": "tourism-office",
+      "title": "Boost Je Leven en Bezichtigingen",
+      "creator": "Tourism Authority of Thailand",
+      "url": "https://www.tourismthailand.org/Articles/power-up-your-life-and-sightseeing",
+      "description": "Gebruikt voor TAT's actuele spirituele-reis framing rond Wat Phra That Phanom als een van de grote heilige sites in noordoost Thailand."
+    },
+    {
+      "type": "tourism-office",
+      "title": "Verken Thaise Smaak Thaise Foodie Map 2.0",
+      "creator": "Tourism Authority of Thailand",
+      "url": "https://www.tourismthailand.org/Articles/explore-thai-taste-thai-foodie-map-2-0-en",
+      "description": "Gebruikt voor de actuele gecureerde restaurant line-up en voor TAT's ondersteunende attractie shortlist inclusief de Third Thai-Lao Friendship Bridge, Nakhon Phanom Walking Street, Wat That Renu en Wat Phrathat Phanom."
+    },
+    {
+      "type": "hotel",
+      "title": "VELA Dhi Nakhon Panom",
+      "creator": "VELA Dhi Nakhon Panom",
+      "url": "https://www.veladhinakhonphanom.com/",
+      "description": "Gebruikt voor directe riverside hotel positionering, adres, kaartcoördinaten en boekpagina bevestiging."
+    },
+    {
+      "type": "hotel",
+      "title": "Fortune River View Hotel Nakhon Phanom",
+      "creator": "Fortune Hotel Group",
+      "url": "https://www.fortunehotelgroup.com/fortune-riverview-hotel-nakhon-phanom/en/",
+      "description": "Gebruikt voor directe hotel-site bevestiging dat het eigendom actuele Engelse pagina's onderhoudt voor kamers, faciliteiten, eten en locatie."
+    },
+    {
+      "type": "hotel",
+      "title": "HOP INN Nakhon Phanom",
+      "creator": "HOP INN Thailand",
+      "url": "https://www.hopinnhotel.com/our-hotels/hop-inn-nakhon-phanom",
+      "description": "Gebruikt voor directe hotel details inclusief schone kamers, gratis Wi-Fi en adres bevestiging."
+    },
+    {
+      "type": "transport",
+      "title": "Nakhon Phanom Airport",
+      "creator": "Department of Airports",
+      "url": "https://nakhonphanom.airports.go.th/",
+      "description": "Gebruikt als de officiële luchthavenbron voor de dichtstbijzijnde luchtpoort van de stad."
+    }
+  ],
+  "reviewed_by": "Go2Thailand Redactie Team",
+  "enhanced_at": "2026-03-26T00:00:00.000Z",
+  "factchecked_at": "2026-03-26T00:00:00.000Z",
+  "enrichedAt": "2026-03-26T00:00:00.000Z"
+}

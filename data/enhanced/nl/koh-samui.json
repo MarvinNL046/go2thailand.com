@@ -1,0 +1,777 @@
+{
+  "id": 23,
+  "slug": "koh-samui",
+  "name": {
+    "en": "Koh Samui",
+    "nl": "Koh Samui",
+    "ja": "サムイ島",
+    "ko": "코사무이",
+    "th": "เกาะสมุย",
+    "de": "Koh Samui",
+    "fr": "Koh Samui",
+    "ru": "Ко Самуи",
+    "zh": "苏梅岛"
+  },
+  "region": "Zuidelijk",
+  "province": "Surat Thani",
+  "description": {
+    "en": "A Gulf island that works best when you choose the right coast and hotel zone first: Chaweng for energy, Bophut and Choeng Mon for calmer resort comfort, and Ang Thong or the south coast for the day that breaks up beach time properly.",
+    "nl": "Een golfeiland dat het best werkt als je eerst de juiste kust en hotelzone kiest: Chaweng voor energie, Bophut en Choeng Mon voor rustiger resortcomfort, en Ang Thong of de zuidkust voor de dagtrip die strandtijd echt goed afwisselt.",
+    "ja": "サムイ島は、まずどの海岸と滞在エリアを選ぶかで旅の質が決まる島です。チャウエンは賑やかさ、ボープットとチョンモンは落ち着いたリゾート感、そしてアントン海洋公園や南側はビーチ以外の一日を作るための軸になります。",
+    "ko": "사무이는 먼저 어느 해안과 숙소 구역을 잡느냐에 따라 여행의 성격이 달라지는 섬이다. 차웽은 활기, 보풋과 청몬은 더 차분한 리조트 무드, 앙통과 남부 해안은 해변 일정에 변화를 주는 핵심이다.",
+    "th": "สมุยเป็นเกาะที่เที่ยวได้ดีมากเมื่อเลือกโซนพักให้ถูกก่อน ชายหาดอย่างเฉวงเหมาะกับความคึกคัก ส่วนบ่อผุดและเชิงมนเหมาะกับรีสอร์ตที่สงบกว่า และทริปอย่างอ่างทองหรือฝั่งใต้ช่วยให้เกาะนี้ไม่กลายเป็นทริปนอนหาดอย่างเดียว",
+    "de": "Koh Samui funktioniert am besten, wenn Sie zuerst die richtige Kuste und Hotelzone wahlen: Chaweng fur Energie, Bophut und Choeng Mon fur ruhigeren Resort-Komfort und Ang Thong oder die Sudkuste fur den passenden Tagesausflug.",
+    "fr": "Koh Samui fonctionne surtout lorsqu'on choisit d'abord la bonne cote et la bonne zone d'hotel: Chaweng pour l'energie, Bophut et Choeng Mon pour un confort plus calme, et Ang Thong ou la cote sud pour une vraie journee hors plage.",
+    "ru": "Самуи лучше всего работает, когда вы сначала выбираете правильную часть острова и отельную зону: Чавенг для энергии, Бопхут и Чонг Мон для более спокойного курортного ритма, а Анг Тхонг или южное побережье для осмысленной вылазки за пределы пляжа.",
+    "zh": "苏梅岛最适合先选对海岸与住宿区：查汶适合热闹，波普和崇蒙更适合安静的度假节奏，而安通海洋公园或南海岸则是打破纯海滩行程的关键一天。"
+  },
+  "population": 63000,
+  "highlights": [
+    "Wat Phra Yai",
+    "Mu Ko Ang Thong Marine National Park",
+    "Fisherman's Village Bophut",
+    "Lamai Beach en Hin Ta Hin Yai",
+    "Wat Plai Laem",
+    "Verblijf in Choeng Mon en Bophut resorts"
+  ],
+  "location": {
+    "lat": 9.512,
+    "lng": 100.0136
+  },
+  "image": "/images/cities/generated/koh-samui.webp",
+  "seo": {
+    "metaTitle": {
+      "en": "Koh Samui Thailand Guide 2026 | Beaches, Hotels, Day Trips",
+      "nl": "Koh Samui Thailand Gids 2026 | Stranden, hotels, dagtrips",
+      "ja": "サムイ島旅行ガイド 2026 | ビーチ、ホテル、日帰りプラン",
+      "ko": "코사무이 여행 가이드 2026 | 해변, 호텔, 데이트립",
+      "th": "เกาะสมุย 2026 | ชายหาด ที่พัก และเดย์ทริป",
+      "de": "Koh Samui Thailand Guide 2026 | Strande, Hotels, Ausfluge",
+      "fr": "Guide Koh Samui 2026 | plages, hotels et excursions",
+      "ru": "Самуи 2026 | пляжи, отели и выезды",
+      "zh": "苏梅岛旅行指南 2026 | 海滩、酒店与一日游"
+    },
+    "metaDescription": {
+      "en": "Plan Koh Samui around the right beach zone, stronger hotel picks, Fisherman's Village, Big Buddha, and the day trips that actually add range beyond resort time.",
+      "nl": "Plan Koh Samui rond de juiste strandzone, sterkere hotelkeuzes, Fisherman's Village, de Big Buddha en de dagtrips die echt iets toevoegen naast resorttijd.",
+      "ja": "どのビーチエリアに泊まるか、どのホテルを選ぶか、フィッシャーマンズ・ビレッジやビッグブッダ、そして本当に価値のある日帰りプランまで整理したサムイ島実用ガイドです。",
+      "ko": "어느 해변 구역에 머물지, 어떤 호텔을 고를지, 피셔맨스 빌리지와 빅 부다, 그리고 진짜로 가치 있는 데이트립까지 정리한 코사무이 실전 가이드다.",
+      "th": "วางแผนเที่ยวสมุยให้ดีขึ้นด้วยการเลือกโซนหาดให้ถูก ที่พักที่เหมาะกว่า ฟิชเชอร์แมนส์ วิลเลจ บิ๊กบุดดา และเดย์ทริปที่ช่วยให้ทริปไม่จบแค่รีสอร์ต",
+      "de": "Planen Sie Koh Samui uber die richtige Strandzone, bessere Hotels, Fisherman's Village, Big Buddha und die Ausfluge, die wirklich Abwechslung bringen.",
+      "fr": "Planifiez Koh Samui autour de la bonne zone de plage, de meilleurs hotels, de Fisherman's Village, du Big Buddha et des excursions qui ajoutent une vraie profondeur au sejour.",
+      "ru": "Планируйте Самуи через правильную пляжную зону, более сильные отельные варианты, Fisherman's Village, Big Buddha и те выезды, которые действительно расширяют поездку за пределы резорта.",
+      "zh": "从正确的海滩区域、较强的酒店选择，到渔人村、大佛寺与真正值得安排的出海日，这份指南帮你更合理地规划苏梅岛。"
+    }
+  },
+  "categories": {
+    "food": {
+      "en": "Best restaurants and street food in Koh Samui",
+      "nl": "Beste restaurants en streetfood op Koh Samui",
+      "ja": "サムイ島のおすすめレストランとストリートフード",
+      "ko": "코사무이 추천 레스토랑과 길거리 음식",
+      "th": "ร้านอาหารและสตรีทฟู้ดที่ดีที่สุดในเกาะสมุย"
+    },
+    "hotels": {
+      "en": "Top hotels in Koh Samui | Tips & deals",
+      "nl": "Beste hotels op Koh Samui | Tips & aanbiedingen",
+      "ja": "サムイ島のおすすめホテル | 実用ガイド",
+      "ko": "코사무이 추천 호텔 | 실전 팁",
+      "th": "โรงแรมแนะนำในเกาะสมุย | เคล็ดลับและดีล"
+    },
+    "attractions": {
+      "en": "Top attractions in Koh Samui",
+      "nl": "Top bezienswaardigheden op Koh Samui",
+      "ja": "サムイ島の見どころ",
+      "ko": "코사무이 핵심 명소",
+      "th": "สถานที่ท่องเที่ยวยอดนิยมในเกาะสมุย"
+    }
+  },
+  "tags": [
+    "zuidelijk",
+    "koh samui",
+    "golf eilanden",
+    "stranden",
+    "resorts",
+    "thailand"
+  ],
+  "enhanced_description": "Koh Samui wordt te vaak verkocht als één uitwisselbaar tropisch eiland waar elk strand, resort en daguitstap zonder gevolgen door elkaar gehaald kan worden. In de praktijk draait het eiland veel meer om het kiezen van de juiste zone. Chaweng is nog steeds het makkelijkste strand voor eerste bezoekers als je op zoek bent naar levendige energie, nachtleven en een breed scala aan hotels. Bophut en het nabijgelegen Choeng Mon zijn logischer als de reis draait om rustiger water, betere luxe verblijven en makkelijkere avonden die niet om clubs draaien. Lamai zit tussen die twee versies van Samui in en past vaak bij reizigers die een stranddorp willen zonder de volledige intensiteit van Chaweng.\n\nDie keuze van het gebied doet ertoe omdat Samui een van de comfortabelste eilandbases van Thailand is, niet een van de ruigste. Het eiland heeft echte infrastructuur, een volwaardig vliegveld, een sterk aanbod aan resorts en een gepolijste service die het makkelijk maakt voor families, koppels en kortverblijf-reizigers om te landen en snel te settelen. Dat comfort is deel van de aantrekkingskracht, maar het betekent ook dat de reis beter wordt als je bewust één dag toevoegt die niet alleen strand- en hotel-tijd is. Voor de meeste bezoekers is het beste antwoord Mu Ko Ang Thong Marine National Park. Daarna zijn de sterkste ankers aan eilandzijde Wat Phra Yai, Wat Plai Laem, Fisherman's Village en één zuidelijke of inlandse omweg zoals Lamai met Hin Ta Hin Yai of de Secret Buddha Garden.",
+  "overview": "Koh Samui werkt het best als je het plant als een gepolijst Golf-eiland met duidelijke verblijfszones in plaats van als een pure backpack-strandroute of een zogenaamd verborgen tropisch ontsnappingspunt. Materialen van de Tourism Authority of Thailand schetsen het eiland nog steeds via Mu Ko Ang Thong Marine National Park, Phra Yai, Lamai, Hin Ta Hin Yai en Laem Sor, wat nuttig is omdat het Samui verankert in een mix van stranden, tempels en een of twee selectieve excursies in plaats van het eiland plat te slaan tot resort-marketing.\n\nDe juiste eerste reis is meestal eenvoudig. Kies je hotelgebied zorgvuldig, houd één volledige boottocht of parkdag, en gebruik Bophut, Lamai of het noordoostelijke tempelcluster om het eiland wat variatie te geven voorbij de pooltijd. Samui heeft geen opgeblazen lijst van attracties nodig. Het heeft betere sequencing nodig: hotelzone eerst, één serieuze daguitstap tweede, dan een paar slimme eilandstops die passen bij de kust die je al gekozen hebt.",
+  "hidden_gems": [
+    {
+      "name": "Laem Sor side at sunset",
+      "story": "Het zuiden van Koh Samui is nog steeds de makkelijkste manier om het eiland minder gepolijst en minder herhalend te laten voelen. Laem Sor en de rustigere zuidkust werken goed als je één stuk Samui wilt dat minder gevormd is rond beachclubs en resort-dichtheid.",
+      "how_to_find": "Gebruik het als deel van een zuidelijke lus in plaats van als een standalone lange missie.",
+      "best_time": "Laat in de middag tot zonsondergang.",
+      "local_insights": [
+        "De zuidkant is nuttiger voor sfeer dan voor een stapel must-see landmarks.",
+        "Dit is de beste pauze van het resort-ritme in Chaweng of Bophut."
+      ]
+    },
+    {
+      "name": "Secret Buddha Garden",
+      "story": "Het binnenland doet ertoe als Samui te kustgericht en te gepolijst begint te voelen. Secret Buddha Garden is het sterkst als een heuvel-land-detour die de stemming van het eiland verandert in plaats van als een marquee-attractie op zich.",
+      "how_to_find": "Gebruik het met een chauffeur of als deel van een bewuste inlandse lus bij droog weer.",
+      "best_time": "Ochtend of laat in de middag.",
+      "local_insights": [
+        "Dit is beter voor variatie dan voor first-timer icoon-status.",
+        "Voeg het alleen toe als je Samui breder wilt laten voelen dan stranden en resorts."
+      ]
+    },
+    {
+      "name": "One Bophut evening outside Friday market peak",
+      "story": "Fisherman's Village staat bekend om vrijdagavond, maar Bophut is ook nuttig op rustigere avonden als de eetstraat, boetieklaag en strandweg makkelijker te navigeren zijn zonder markt-dichtheid.",
+      "how_to_find": "Gebruik het voor één langzamere dinernacht als je verblijft aan de noordkust.",
+      "best_time": "Doordeweekse avond of eerder op vrijdag voor de markt helemaal volloopt.",
+      "local_insights": [
+        "Bophut is sterker als je het gebruikt als avondzone, niet als een dagtijd sightseeing-missie.",
+        "Dit is het schonere alternatief voor elke avond in Chaweng door te brengen."
+      ]
+    },
+    {
+      "name": "One inland or south-island half-day only",
+      "story": "De ondergewaardeerde Samui-move is terughoudendheid. Het binnenland en de zuidkust kunnen echte variatie toevoegen, maar de dag wordt zwakker als je probeert watervallen, pagodes, overlappende stenen en viewpoints in één lange taxilus te proppen.",
+      "how_to_find": "Kies één inlandse focus of één zuidkust-focus, niet beide in dezelfde korte uitstap.",
+      "best_time": "Droogseizoen ochtend of laat in de middag.",
+      "local_insights": [
+        "Samui wordt beter als je ophoudt met het behandelen van elke wegstop als verplicht.",
+        "Eén selectieve halve dag is meestal genoeg buiten de hoofdstructuur van strand en boot."
+      ]
+    }
+  ],
+  "authentic_experiences": [
+    {
+      "activity": "Kies de juiste kust voordat je het hotelmerk kiest",
+      "story": "De grootste planningfout van Koh Samui gebeurt voordat iemand zelfs landt. Reizigers vergelijken resorts zonder te beslissen of de reis moet voelen als Chaweng, Bophut, Choeng Mon of Lamai. Op Samui vormt de keuze van het gebied het hele eiland meer dan de naam op de boekings pagina.",
+      "cultural_significance": "Dit weerspiegelt hoe Samui in de praktijk ervaren wordt: via strandzones en avondritme, niet alleen via een generiek eilandlabel.",
+      "how_to_participate": "Kies Chaweng voor energie, Bophut of Choeng Mon voor rustigere luxe verblijven, of Lamai voor een middenweg met meer ademruimte.",
+      "insights": [
+        "Dit is de belangrijkste correctie voor eerste bezoekers op het eiland.",
+        "De geografie van Samui-hotels doet er meer toe dan veel reizigers verwachten."
+      ],
+      "href": "/city/koh-samui/top-10-hotels/",
+      "cta_label": "Bekijk de hotelgids"
+    },
+    {
+      "activity": "Gebruik Ang Thong als de ene volledige dag die het eiland opent",
+      "story": "Mu Ko Ang Thong Marine National Park is de daguitstap die Samui echte variatie geeft. Het vervangt één extra pool-dag met kalksteen eilanden, viewpoints, boten en een breder gevoel van de Golf.",
+      "cultural_significance": "Het park blijft de sterkste beschermde-landschap tegenwicht voor de resort-identiteit van Samui.",
+      "how_to_participate": "Houd één echte boetdag in de reis in plaats van meerdere kleinere inlandse Samui-stops in dezelfde periode te proberen.",
+      "insights": [
+        "Dit is de beste enkele excursie voor de meeste eerste bezoeken.",
+        "Eén echte daguitstap doet meer voor Samui dan het stapelen van kleine wegstoppen."
+      ],
+      "href": "/city/koh-samui/attractions/ang-thong-marine-park/",
+      "cta_label": "Bekijk de Ang Thong gids"
+    },
+    {
+      "activity": "Laat Bophut één avond van de reis dragen",
+      "story": "Fisherman's Village werkt omdat het Samui één avondzone geeft die minder club-gericht en meer gelaagd voelt. Dineren, wandelen, markten en boetiekwinkels liggen allemaal dicht genoeg bij elkaar om de nacht makkelijk te laten voelen in plaats van in scène gezet.",
+      "cultural_significance": "Bophut is een van de duidelijkste reminders dat Samui niet alleen strandresorts en nachtlevenstrassen is.",
+      "how_to_participate": "Gebruik het voor één markt- of dinavond, vooral als je verblijft aan de noord- of noordoostkant.",
+      "insights": [
+        "Dit is de makkelijkste manier om het nachtritme van Samui te diversifiëren.",
+        "Bophut is meestal sterker voor avonden dan voor middag sightseeing."
+      ],
+      "href": "/city/koh-samui/attractions/fishermans-village-bophut/",
+      "cta_label": "Bekijk de Bophut gids"
+    },
+    {
+      "activity": "Behandel het tempelcluster als een korte noordoostelijke circuit",
+      "story": "Wat Phra Yai en Wat Plai Laem zijn het nuttigst als ze behandeld worden als één compact noordoostelijk tempelblok in plaats van als aparte kruis-eiland klusjes.",
+      "cultural_significance": "Samen geven ze Samui's bekendste tempel en zijn meest fotogenieke aanvullende stop in één coherent lusje.",
+      "how_to_participate": "Doe beide in dezelfde uitstap, ideaal buiten de heetste middenuren.",
+      "insights": [
+        "Dit is een beter gebruik van tijd dan een verspreide tempel-checklist.",
+        "Het duo werkt omdat het contrast visueel en geografisch is, niet omdat er veel tempels zijn."
+      ],
+      "href": "/city/koh-samui/attractions/big-buddha-temple/",
+      "cta_label": "Bekijk de Big Buddha gids"
+    }
+  ],
+  "foodie_adventures": [
+    {
+      "dish": "Eén serieuze Michelin-geleide dinner boven strandstrip-gemak",
+      "location": "Koh Thai Kitchen, Saffron, Long Dtai",
+      "story": "Samui heeft genoeg resort-aanbod om dinner uitwisselbaar te laten voelen. Het eiland wordt beter als ten minste één maaltijd gekozen wordt omdat het restaurant zelf ertoe doet, niet alleen omdat het dicht bij de kamer is.",
+      "where_to_find": "Gebruik één Michelin-erkend restaurant of een sterker hotel eetgedeelte voor je geplande dinner.",
+      "price_range": "Middenklasse tot luxe",
+      "ordering_tips": [
+        "Behandel één dinner als het voedselanker van het eiland in plaats van elke nacht uit gemak te eten.",
+        "De betere eetlaag van Samui zit vaak in zijn sterkere resorts."
+      ],
+      "href": "/city/koh-samui/top-10-restaurants/",
+      "cta_label": "Bekijk de voedselgids"
+    },
+    {
+      "dish": "Vrijdagmarkt grazen in Fisherman's Village",
+      "location": "Fisherman's Village Bophut",
+      "story": "De makkelijkste manier om Samui te voorkomen dat het puur resort-dineren wordt, is één avond van markt- en straatkant grazen in Bophut. Het voegt beweging, variatie en een minder geïsoleerde versie toe van de avondvoedselcultuur van het eiland.",
+      "where_to_find": "Beste op vrijdagavond, of gebruik Bophut meer algemeen voor een lossere noordkust dinernacht.",
+      "price_range": "Budget tot middenklasse",
+      "ordering_tips": [
+        "Wandel eerst en eet in rondes in plaats van vast te zitten aan de eerste tafel die je ziet.",
+        "Dit werkt beter als één avondzone dan als een dagtijd voedselmissie."
+      ],
+      "href": "/city/koh-samui/attractions/fishermans-village-bophut/",
+      "cta_label": "Bekijk de Bophut gids"
+    },
+    {
+      "dish": "Eén zuidelijke of lokale-zeevruchten lunch voorbij resortrijen",
+      "location": "Baan Suan Lung Khai of Jun Hom",
+      "story": "De betere lokale voedsel-laag van Samui zit vaak buiten de meest voor de hand liggende strandstrip eetrijen. Daarom kan een Michelin-ondersteunde lunch weg van generieke strandmenu's de hele kwaliteit van de reis verschuiven.",
+      "where_to_find": "Gebruik één van de sterkere huidige Michelin-erkende lokale restaurants van het eiland voor lunch.",
+      "price_range": "Budget tot middenklasse",
+      "ordering_tips": [
+        "Lunch is vaak de beste plek voor de meer lokale voedselkant van Samui.",
+        "Verwacht niet dat elke sterke maaltijd op de meest toeristische strandweg zit."
+      ],
+      "href": "/city/koh-samui/top-10-restaurants/",
+      "cta_label": "Bekijk meer voedseltips"
+    },
+    {
+      "dish": "Eén boomtop- of uitzicht-geleide dinner als de setting deel is van de reis",
+      "location": "Tree Tops Signature Dining of heuvelresort dineren",
+      "story": "Samui is een van de weinige Thaise eilanden waar een uitzicht-geleide dinner nog zinvol kan zijn als de setting echt deel van het punt is. De fout is dat elke nacht te doen en te eindigen met stijl maar geen variatie.",
+      "where_to_find": "Gebruik één verhoogd, setting-geleid restaurant en ga dan terug naar simpelere maaltijden de volgende dag.",
+      "price_range": "Luxe",
+      "ordering_tips": [
+        "Houd dit als de uitzondering, niet het hele voedselplan.",
+        "Eén memorabele setting is genoeg voor een kort Samui-verblijf."
+      ],
+      "href": "/city/koh-samui/top-10-restaurants/",
+      "cta_label": "Bekijk meer voedseltips"
+    }
+  ],
+  "local_insights": [
+    "Samui is makkelijker te genieten als je je committeert aan één kust in plaats van proberen elk strand in één kort verblijf te proeven.",
+    "Chaweng, Bophut, Choeng Mon en Lamai zijn niet uitwisselbaar; elk verandert de stemming van de reis.",
+    "Ang Thong is meestal de sterkste volledige excursie, sterker dan het stapelen van meerdere kleinere inlandse stops.",
+    "Bophut werkt beter als een avondzone dan als een dagtijd sightseeing-stop.",
+    "De gepolijste infrastructuur van het eiland is een feature, maar de reis heeft nog steeds één of twee niet-resort ankers nodig om compleet te voelen."
+  ],
+  "seasonal_secrets": "De weerglogica van Koh Samui verschilt van de Andaman-kant van Thailand, wat een reden is waarom het nuttig blijft als andere eilanden minder aantrekkelijk zijn. Dat betekent niet dat elke maand uitwisselbaar is, maar het betekent wel dat Samui een praktische Golf-optie kan zijn als reizigers makkelijkere eilandtoegang willen buiten de westkust-piek. Bootcondities en zeekwaliteit doen er nog steeds toe voor Ang Thong en eilandexcursies, dus de schoonste move is het gebruiken van kalmere weervensters voor de volledige dag marine-uitstap en het bewaren van inlandse of Bophut-tijd voor minder stabiele dagen.",
+  "budget_reality": "Koh Samui kan nog steeds matig gedaan worden, maar het is niet langer een natuurlijk goedkoop eiland tenzij je bewust het hotelniveau laag houdt en vermijdt elke maaltijd en transfer in een resort-prijsbeslissing te veranderen. Het vliegveld en het sterkere hotel-aanbod duwen de basislijn sneller omhoog dan op veel vastelandstrandbestemmingen. Het beste gebruik van budget is meestal één betere hotelgebiedkeuze, één sterkere daguitstap en selectief restaurant-uitgeven in plaats van proberen elke dinner, transfer en beachclub premium te laten voelen.",
+  "top_attractions": [
+    {
+      "rank": 1,
+      "name": "Wat Phra Yai (Big Buddha Temple)",
+      "description": "Samui's bekendste tempel en de duidelijkste noordoostelijke landmark, het sterkst als het gepaard gaat met Wat Plai Laem in plaats van geïsoleerd bezocht.",
+      "location": "Noordoostkust",
+      "entrance_fee": "Gratis",
+      "highlights": [
+        "Icoon tempelstop",
+        "Bekendste Samui-landmark",
+        "Werkt als deel van een korte tempelcircuit"
+      ],
+      "href": "/city/koh-samui/attractions/big-buddha-temple/",
+      "cta_label": "Bekijk de Big Buddha gids"
+    },
+    {
+      "rank": 2,
+      "name": "Mu Ko Ang Thong Marine National Park",
+      "description": "De sterkste daguitstap van Samui en de duidelijkste manier om het eiland echte variatie te geven voorbij strandtijd.",
+      "location": "West van Samui in de Golf",
+      "entrance_fee": "Parktoegangskosten van toepassing",
+      "highlights": [
+        "Beste Samui daguitstap",
+        "Kalksteen-eiland landschap",
+        "Boot-dag anker"
+      ],
+      "href": "/city/koh-samui/attractions/ang-thong-marine-park/",
+      "cta_label": "Bekijk de Ang Thong gids"
+    },
+    {
+      "rank": 3,
+      "name": "Fisherman's Village Bophut",
+      "description": "De nuttigste avondzone van het eiland als je Samui breder wilt laten voelen dan resorts en Chaweng nachtleven.",
+      "location": "Bophut noordkust",
+      "entrance_fee": "Gratis",
+      "highlights": [
+        "Beste voor één avond",
+        "Vrijdagmarkt en eetstraat",
+        "Nuttig noordkust tegenwicht voor Chaweng"
+      ],
+      "href": "/city/koh-samui/attractions/fishermans-village-bophut/",
+      "cta_label": "Bekijk de Bophut gids"
+    },
+    {
+      "rank": 4,
+      "name": "Lamai Beach and Hin Ta Hin Yai",
+      "description": "Een betere midden-intensiteit strandzone dan veel eerste bezoekers verwachten, vooral als je één zuid-eiland dag wilt met strandtijd en een herkenbare rotsstop.",
+      "location": "Zuidoostkust",
+      "entrance_fee": "Gratis",
+      "highlights": [
+        "Nuttige zuid-eiland strandbasis",
+        "Hin Ta Hin Yai nabij",
+        "Goede middenweg tussen rustig en druk"
+      ],
+      "href": "/city/koh-samui/attractions/lamai-beach/",
+      "cta_label": "Bekijk de Lamai gids"
+    },
+    {
+      "rank": 5,
+      "name": "Wat Plai Laem",
+      "description": "Het visuele complement voor Big Buddha en een slimme korte stop in hetzelfde noordoostelijke circuit.",
+      "location": "Noordoostkust",
+      "entrance_fee": "Gratis",
+      "highlights": [
+        "Beste gepaard met Big Buddha",
+        "Fotogenieke tempelsetting",
+        "Korte makkelijke detour"
+      ],
+      "href": "/city/koh-samui/attractions/wat-plai-laem/",
+      "cta_label": "Bekijk de Wat Plai Laem gids"
+    },
+    {
+      "rank": 6,
+      "name": "Secret Buddha Garden",
+      "description": "Een inlandse contraststop die alleen werkt als je het eiland breder wilt laten voelen dan zijn stranden en resorts.",
+      "location": "Eiland binnenland",
+      "entrance_fee": "Lokale kosten van toepassing",
+      "highlights": [
+        "Heuvel-land detour",
+        "Inlandse stemmingverandering",
+        "Beste voor een selectieve halve dag"
+      ],
+      "href": "/city/koh-samui/top-10-attractions/",
+      "cta_label": "Bekijk de attractiegids"
+    }
+  ],
+  "top_restaurants": [
+    {
+      "rank": 1,
+      "name": "Koh Thai Kitchen",
+      "description": "Een van de sterkste bestemmingsmaaltijden op Samui als je een serieus restaurant wilt in plaats van nog een generiek resort-diner.",
+      "price_range": "Luxe",
+      "category": "luxe",
+      "area": "Noordwest heuvelhelling",
+      "highlights": [
+        "Huidige MICHELIN-erkende restaurant",
+        "Four Seasons-setting",
+        "Goede basis voor een gepland diner"
+      ],
+      "href": "/city/koh-samui/top-10-restaurants/",
+      "cta_label": "Bekijk meer eetgelegenheden"
+    },
+    {
+      "rank": 2,
+      "name": "Baan Suan Lung Khai",
+      "description": "Een sterkere keuze voor lokale gerechten als je wilt dat Samui minder geïsoleerd aanvoelt door resort-restaurants.",
+      "price_range": "Budget tot middenklasse",
+      "category": "lokale favoriet",
+      "area": "Zuidwestkant",
+      "highlights": [
+        "Huidige MICHELIN Bib Gourmand",
+        "Beter voor lunch of een maaltijd met lokale gids",
+        "Goed tegenwicht voor resort-voedsel"
+      ],
+      "href": "/city/koh-samui/top-10-restaurants/",
+      "cta_label": "Bekijk meer eetgelegenheden"
+    },
+    {
+      "rank": 3,
+      "name": "Jun Hom",
+      "description": "Een van de betere huidige Michelin-ondersteunde lokale keuzes als je een maaltijd wilt met echte eiland-specifieke kenmerken.",
+      "price_range": "Budget tot middenklasse",
+      "category": "lokale favoriet",
+      "area": "Noordkust",
+      "highlights": [
+        "Huidige MICHELIN Bib Gourmand",
+        "Nuttige stop voor lokale gerechten",
+        "Goed weg van generieke strandmenu's"
+      ],
+      "href": "/city/koh-samui/top-10-restaurants/",
+      "cta_label": "Bekijk meer eetgelegenheden"
+    },
+    {
+      "rank": 4,
+      "name": "Long Dtai",
+      "description": "Een hoogwaardig eilanddiner als de setting en keuken ertoe doen en je één gepolijste Samui-avond uit wilt beleven.",
+      "price_range": "Luxe",
+      "category": "luxe",
+      "area": "Noordoostkust",
+      "highlights": [
+        "Huidig MICHELIN-erkend restaurant",
+        "Goed voor één speciaal diner",
+        "Sterke moderne Thaise optie"
+      ],
+      "href": "/city/koh-samui/top-10-restaurants/",
+      "cta_label": "Bekijk meer eetgelegenheden"
+    },
+    {
+      "rank": 5,
+      "name": "Saffron",
+      "description": "Een betrouwbaar luxe Thais dinerantwoord als je één klassiek resort-restaurant op hoog niveau wilt uitvoeren.",
+      "price_range": "Luxe",
+      "category": "luxe",
+      "area": "Zuid- of zuidoost-resortzone",
+      "highlights": [
+        "Huidig MICHELIN-erkend restaurant",
+        "Klassiek luxe Thais resortdiner",
+        "Beste als één geplande avond"
+      ],
+      "href": "/city/koh-samui/top-10-restaurants/",
+      "cta_label": "Bekijk meer eetgelegenheden"
+    },
+    {
+      "rank": 6,
+      "name": "Tree Tops Signature Dining",
+      "description": "De Samui-uitzichtgerichte uitspatting die zinvol is als je één memorabele setting wilt en accepteert dat de sfeer deel van het punt is.",
+      "price_range": "Luxe",
+      "category": "speciaal gelegenheid",
+      "area": "Chaweng noordkant",
+      "highlights": [
+        "Boomtop-setting",
+        "Sterke speciaal-occasie plek",
+        "Nuttige uitzondering voor één nacht op eenvoudigere maaltijden"
+      ],
+      "href": "/city/koh-samui/top-10-restaurants/",
+      "cta_label": "Bekijk meer eetgelegenheden"
+    },
+    {
+      "rank": 7,
+      "name": "Fisherman's Village Friday market",
+      "description": "Een betere zone voor eten en avond dan veel van Samui's generieke stranddinerrijen als je variatie en beweging op één plek wilt.",
+      "price_range": "Budget tot middenklasse",
+      "category": "markt dineren",
+      "area": "Bophut",
+      "highlights": [
+        "Beste markavond",
+        "Goede mix van snacks en zitplaatsen",
+        "Makkelijke sociale nacht zonder Chaweng-clubs"
+      ],
+      "href": "/city/koh-samui/attractions/fishermans-village-bophut/",
+      "cta_label": "Bekijk de Bophut-gids"
+    }
+  ],
+  "top_hotels": [
+    {
+      "rank": 1,
+      "name": "Four Seasons Resort Koh Samui",
+      "description": "Nog steeds een van de duidelijkste topklasse Samui-antwoorden als de reis draait om een echt resortverblijf in plaats van wandelbare strandstad.",
+      "price_range": "Luxe",
+      "category": "luxe",
+      "area": "Noordwest heuvelkust",
+      "highlights": [
+        "Officiële hotelwebsite",
+        "Sterk resort-geleid verblijf",
+        "Beste als het eigendom zelf de reis is"
+      ],
+      "href": "/city/koh-samui/top-10-hotels/",
+      "cta_label": "Bekijk de hotelgids"
+    },
+    {
+      "rank": 2,
+      "name": "Centara Reserve Samui",
+      "description": "Een slimme Chaweng-luxe keuze als je een gepolijst strandresort wilt zonder afstand te doen van makkelijke toegang tot het drukste first-timer-gebied van het eiland.",
+      "price_range": "Luxe",
+      "category": "luxe",
+      "area": "Chaweng",
+      "highlights": [
+        "Officiële hotelwebsite",
+        "Beste hoogwaardige Chaweng-optie",
+        "Nuttige mix van polish en locatie"
+      ],
+      "href": "/city/koh-samui/top-10-hotels/",
+      "cta_label": "Bekijk de hotelgids"
+    },
+    {
+      "rank": 3,
+      "name": "Bo Phut Resort & Spa",
+      "description": "Een van de netste Bophut-verblijven als je een zachtere noordkuststemming wilt zonder resortkwaliteit te verliezen.",
+      "price_range": "Luxe",
+      "category": "luxe",
+      "area": "Bophut",
+      "highlights": [
+        "Officiële hotelwebsite",
+        "Sterke Bophut-positionering",
+        "Goed voor kalmere resortcomfort"
+      ],
+      "href": "/city/koh-samui/top-10-hotels/",
+      "cta_label": "Bekijk de hotelgids"
+    },
+    {
+      "rank": 4,
+      "name": "Kimpton Kitalay Samui",
+      "description": "Een sterke Choeng Mon-optie als je een meer design-geleid, familie- en koppels-vriendelijk noordoostverblijf wilt.",
+      "price_range": "Luxe tot luxe",
+      "category": "luxe",
+      "area": "Choeng Mon",
+      "highlights": [
+        "Officiële hotelwebsite",
+        "Goede noordoostkustbasis",
+        "Design-geleid resortgevoel"
+      ],
+      "href": "/city/koh-samui/top-10-hotels/",
+      "cta_label": "Bekijk de hotelgids"
+    },
+    {
+      "rank": 5,
+      "name": "Hansar Samui",
+      "description": "Een praktische luxe Bophut-basis als je makkelijke toegang tot Fisherman's Village wilt zonder in party-strip hotel-logica te glijden.",
+      "price_range": "Luxe",
+      "category": "luxe",
+      "area": "Bophut",
+      "highlights": [
+        "Officiële hotelwebsite",
+        "Goede Bophut-avondtoegang",
+        "Nuttig voor kortere verblijven"
+      ],
+      "href": "/city/koh-samui/top-10-hotels/",
+      "cta_label": "Bekijk de hotelgids"
+    },
+    {
+      "rank": 6,
+      "name": "Bandara Resort & Spa Samui",
+      "description": "Een van de makkelijkere familie-vriendelijke of midden-luxe Bophut-antwoorden als je een strandresort wilt zonder volledig ultra-luxe te gaan.",
+      "price_range": "Middenklasse tot luxe",
+      "category": "middenklasse",
+      "area": "Bophut",
+      "highlights": [
+        "Officiële hotelwebsite",
+        "Goede familie-vriendelijke positionering",
+        "Meer gebalanceerd budget dan het hoogste niveau van het eiland"
+      ],
+      "href": "/city/koh-samui/top-10-hotels/",
+      "cta_label": "Bekijk de hotelgids"
+    }
+  ],
+  "travel_tips": [
+    "Kies je hotelzone voordat je hotelmerken vergelijkt; op Samui vormt de gebiedsbeslissing de reis meer dan het logo.",
+    "Houd één volledige dag over voor Ang Thong of een boottocht als je wilt dat het eiland breder aanvoelt dan resorttijd.",
+    "Doe het noordoostelijke tempelpaar samen: Big Buddha en Wat Plai Laem in één korte uitstap.",
+    "Gebruik Bophut voor ten minste één avond als Chaweng je hoofdbasis is.",
+    "Bouw niet te veel op aan inlandse en zuid-eilandlussen; één selectieve halve dag is meestal genoeg."
+  ],
+  "best_time_to_visit": {
+    "season": "Droger Golf-eilandvenster",
+    "months": "Januari - September",
+    "weather": "Meestal de makkelijkste periode voor stranddagen, tempelstops en Ang Thong-boottochten, hoewel de zeetoestanden nog variëren.",
+    "reasons": "Beste voor eerste bezoekers die resortcomfort plus één of twee betrouwbare buiten dagen willen."
+  },
+  "budget_info": {
+    "budget": "€41-73 per dag",
+    "mid_range": "€110-240 per dag",
+    "luxury": "€320-830 per dag",
+    "notes": "Vluchten, transfers en hotelniveau verplaatsen Samui-budgetten veel sneller dan eten dat doet."
+  },
+  "thingsToDo": "De sterkste eerste Samui-reis begint met beslissen welk soort eilandverblijf je echt wilt. Als het antwoord wandelbare energie, beach clubs en een breed hotelaanbod is, gebruik Chaweng. Als het antwoord kalmere luxe resorttijd met makkelijkere avonden is, gebruik Bophut of Choeng Mon. Lamai is de middenweg-strand als je wat leven wilt zonder de volledige intensiteit van Chaweng. Zodra dat duidelijk is, houd één volledige dag over voor Mu Ko Ang Thong Marine National Park en gebruik de rest van het eiland selectief.\n\nOp-eiland bezienswaardigheden moeten compact blijven. Big Buddha en Wat Plai Laem horen samen als één noordoostelijke tempellus. Fisherman's Village is het sterkst voor één avond. Lamai en Hin Ta Hin Yai werken als je een zuidkant-stranddag wilt die niet alleen resorttijd is. Daarna voeg je alleen inlandse of zuidkust-extra's toe als je Samui echt breder wilt laten aanvoelen dan zijn stranden. Dat is wanneer plekken als Secret Buddha Garden of Laem Sor de moeite waard worden in plaats van willekeurige vulling.",
+  "whereToStay": "Koh Samui-hotels hebben alleen zin als de zones van het eiland duidelijk zijn. Chaweng is voor energie, makkelijkere nachtleven en first-timer gemak. Bophut en nabijgelegen Choeng Mon zijn voor kalmere resortcomfort, betere noordkustavonden en een meer gepolijste versie van het eiland. Lamai kan werken als compromis als je een levendiger strand wilt maar Chaweng niet op vol volume nodig hebt.\n\nVoor veel reizigers wordt Samui beter als je ophoudt met proberen elke kust tegelijk te optimaliseren. Kies één zone en laat de rest van het eiland dagtrips worden. De grootste fout is verblijven in het verkeerde gebied voor je avonden en dan het hele eiland de schuld geven.",
+  "whereToEat": [
+    {
+      "name": "Koh Thai Kitchen",
+      "cuisine": "Thais en luxe resort dineren",
+      "priceRange": "$$$",
+      "description": "Een sterker gepland diner dan de gemiddelde Samui-resortmaaltijd."
+    },
+    {
+      "name": "Baan Suan Lung Khai",
+      "cuisine": "Lokale Thaise keuken",
+      "priceRange": "$-$$",
+      "description": "Een betere lokale-gerechten zet als je wilt dat Samui minder geïsoleerd aanvoelt."
+    },
+    {
+      "name": "Jun Hom",
+      "cuisine": "Thais en eilandkeuken",
+      "priceRange": "$-$$",
+      "description": "Een Michelin-ondersteunde lunch of diner weg van generieke strandmenu's."
+    },
+    {
+      "name": "Long Dtai",
+      "cuisine": "Moderne Thais",
+      "priceRange": "$$$",
+      "description": "Een gepolijst speciaal-occasie diner als het restaurant zelf ertoe doet."
+    },
+    {
+      "name": "Tree Tops Signature Dining",
+      "cuisine": "Uitzicht-geleid fine dining",
+      "priceRange": "$$$",
+      "description": "Een goede één-nacht uitspatting als de setting deel van de reden is."
+    },
+    {
+      "name": "Fisherman's Village Friday market",
+      "cuisine": "Marktvoedsel en casual dineren",
+      "priceRange": "$-$$",
+      "description": "De makkelijkste Samui-voedselzone voor één gevarieerde avond."
+    }
+  ],
+  "gettingAround": "Koh Samui is eenvoudig in theorie en verspillend in de praktijk als je blijft stuiteren tussen kusten. De ringweg maakt het eiland compact lijken, maar de keuze van het hotelgebied doet er nog steeds toe omdat Chaweng, Bophut, Choeng Mon en Lamai heel verschillende avondpatronen creëren. Korte eilandverblijven zijn meestal beter als je één hoofdbasis houdt en auto's, hoteltransfers of georganiseerde tours gebruikt voor Ang Thong, tempellussen of zuidelijke omwegen.\n\nDe praktische regel is eenvoudig. Loop binnen je hotelzone, niet over het eiland. Gebruik lokaal transport voor korte bewegingen binnen dezelfde kant van Samui, en gebruik georganiseerde transfers of geplande chauffeurs voor alles dat het eiland oversteekt of bootvertrek betreft.",
+  "bestTimeToVisit": "Koh Samui werkt vaak het beste in drogere Golf-eilandvensters, vooral van januari tot september, wanneer strandtijd en Ang Thong-bootdagen makkelijker te coördineren zijn. Dat maakt niet elke dag uitwisselbaar, en zeetoestanden doen er nog toe, maar het betekent wel dat Samui een praktische eilandkeuze blijft als reizigers een comfortabeler weervenster willen dan de westkust van Thailand vaak biedt. Voor de meeste eerste bezoeken is het netste plan een seizoen kiezen dat zowel strandtijd als één betrouwbare excursiedag ondersteunt.",
+  "budgetGuide": {
+    "budget": {
+      "min": 45,
+      "max": 80,
+      "description": "Budget Samui betekent meestal een eenvoudiger hotel buiten het hoogste resortniveau, casual lokale maaltijden en zorgvuldig gekozen transport in plaats van impulsieve eiland-hoppen."
+    },
+    "midrange": {
+      "min": 120,
+      "max": 260,
+      "description": "Middenklasse-budgetten kopen de versie van Samui die de meeste reizigers echt willen: een beter strandgebied, één georganiseerde bootdag en een paar sterkere restaurantkeuzes zonder volledig luxe te gaan."
+    },
+    "luxury": {
+      "min": 350,
+      "max": 900,
+      "description": "Hogere budgetten op Samui gaan vooral over resortniveau, privétransfers en speciaal-diner of bootdag-comfort in plaats van meer attracties ontgrendelen."
+    }
+  },
+  "safetyTips": "Koh Samui is over het algemeen eenvoudig, maar het echte risico is eilandtransport nonchalant behandelen. Plan bootdagen rond omstandigheden, wees realistisch over kruis-eiland reistijden, en ga niet ervan uit dat elke inlandse of zuidelijke stop op dezelfde dag hoort. Rond tempels, kleed je respectvol. Rond nachtlevengebieden, gebruik normale resort-stad bewustzijn in plaats van het eiland als ongewoon riskant te overdrijven. Als je een scooter huurt, onthoud dat Samui's wegvertrouwen scherp varieert zodra je de makkelijkste kuststukken verlaat.",
+  "faq": [
+    {
+      "question": "Welk deel van Koh Samui is het beste voor een eerste verblijf?",
+      "answer": "Voor veel eerste bezoekers is Chaweng de makkelijkste basis als je energie en strandgemak wilt. Bophut of Choeng Mon zijn beter als je een kalmere, meer luxe verblijf wilt."
+    },
+    {
+      "question": "Is Ang Thong het waard om te doen vanuit Koh Samui?",
+      "answer": "Ja. Het is de sterkste volledige dag excursie voor de meeste eerste bezoeken en doet meer voor de reis dan het opstapelen van kleine inlandse stops."
+    },
+    {
+      "question": "Moet ik in Chaweng of Bophut verblijven?",
+      "answer": "Verblijf in Chaweng voor wandelbare energie en nachtleven. Verblijf in Bophut voor kalmere avonden, sterkere noordkust resortcomfort en makkelijkere Fisherman's Village-toegang."
+    },
+    {
+      "question": "Heb ik een scooter nodig op Koh Samui?",
+      "answer": "Nee. Voor korte verblijven is één hoofdbasis plus georganiseerde transfers, taxi's of chauffeurs vaak de nettere optie."
+    },
+    {
+      "question": "Wat zijn de belangrijkste niet-strand stops op Samui?",
+      "answer": "Wat Phra Yai, Wat Plai Laem, Fisherman's Village en Mu Ko Ang Thong Marine National Park zijn de meest nuttige eerste prioriteiten naast strandtijd."
+    },
+    {
+      "question": "Is Koh Samui een goed eiland voor families of koppels?",
+      "answer": "Ja. De kracht van Samui is comfort, infrastructuur en hotelvariëteit, daarom werkt het vaak bijzonder goed voor koppels en families die nog steeds een gepolijst eilandverblijf willen."
+    }
+  ],
+  "practicalInfo": {
+    "bestMonths": [
+      "Jan",
+      "Feb",
+      "Mrt",
+      "Apr",
+      "Mei",
+      "Jun",
+      "jul",
+      "aug",
+      "sep"
+    ],
+    "nearestAirport": "Samui Airport",
+    "travelTimeFromAirport": "Meestal ongeveer 10 tot 20 minuten naar Bophut of Choeng Mon, en ruwweg 15 tot 30 minuten naar Chaweng of Lamai, afhankelijk van het verkeer en de hotelpositie.",
+    "localTransport": [
+      "Luchthaventransfers en hotelauto's",
+      "Korte taxiritjes of songthaew-sprongen binnen dezelfde kustzone",
+      "Georganiseerde boottochten voor Ang Thong en nabijgelegen eilandtrips",
+      "Privé-chauffeurs voor zuid-eiland- of binnenlandlussen",
+      "Alleen te voet binnen je directe strand- of dorpsbasis"
+    ]
+  },
+  "contentSources": [
+    {
+      "type": "toeristenkantoor",
+      "title": "Ko Samui - Surat Thani 4 Dagen",
+      "creator": "Tourism Authority of Thailand",
+      "url": "https://www.tourismthailand.org/Trip-Planner/Suggestion-Detail/ko-samui-surat-thani-4-days",
+      "description": "Gebruikt voor officiële attractiereeks rond Mu Ko Ang Thong, Phra Yai, Hin Ta Hin Yai, Laem So en Lamai."
+    },
+    {
+      "type": "vervoer",
+      "title": "Passagiersservicecentrum",
+      "creator": "Samui International Airport",
+      "url": "https://www.samuiairport.com/en/passengerservicecenter",
+      "description": "Gebruikt voor officiële luchthavenpositionering, passagiersservice-context en vervoerskadering."
+    },
+    {
+      "type": "attractie",
+      "title": "Mu Ko Ang Thong National Park",
+      "creator": "Department of National Parks, Wildlife and Plant Conservation",
+      "url": "https://www.dnp.go.th/parkreserve/asp/style1/default.asp?npid=201&lg=2",
+      "description": "Gebruikt voor officiële parkautoriteitsverwijzing voor Ang Thong."
+    },
+    {
+      "type": "restaurant",
+      "title": "Koh Thai Kitchen",
+      "creator": "MICHELIN Guide",
+      "url": "https://guide.michelin.com/us/en/cchanghwad-suraasdrthaanii/koh-samui_7770005/restaurant/koh-thai-kitchen",
+      "description": "Gebruikt voor actuele MICHELIN-status en Samui fine-dining context."
+    },
+    {
+      "type": "restaurant",
+      "title": "Baan Suan Lung Khai",
+      "creator": "MICHELIN Guide",
+      "url": "https://guide.michelin.com/us/en/cchanghwad-suraasdrthaanii/koh-samui_7770005/restaurant/baan-suan-lung-khai",
+      "description": "Gebruikt voor actuele MICHELIN Bib Gourmand-status en lokale voedselcuratie."
+    },
+    {
+      "type": "restaurant",
+      "title": "Jun Hom",
+      "creator": "MICHELIN Guide",
+      "url": "https://guide.michelin.com/us/en/cchanghwad-suraasdrthaanii/koh-samui_7770005/restaurant/jun-hom",
+      "description": "Gebruikt voor actuele MICHELIN Bib Gourmand-status en noordkust lokale voedselcuratie."
+    },
+    {
+      "type": "restaurant",
+      "title": "Long Dtai",
+      "creator": "MICHELIN Guide",
+      "url": "https://guide.michelin.com/us/en/cchanghwad-suraasdrthaanii/koh-samui_7770005/restaurant/long-dtai",
+      "description": "Gebruikt voor actuele MICHELIN-erkende upscale Thaise dining context."
+    },
+    {
+      "type": "restaurant",
+      "title": "Saffron",
+      "creator": "MICHELIN Guide",
+      "url": "https://guide.michelin.com/us/en/cchanghwad-suraasdrthaanii/koh-samui_7770005/restaurant/saffron-1204714",
+      "description": "Gebruikt voor actuele MICHELIN-erkende upscale Thaise dining context."
+    },
+    {
+      "type": "restaurant",
+      "title": "ANANTARA LAWANA KOH SAMUI RESORT fact sheet",
+      "creator": "Anantara Lawana Koh Samui Resort",
+      "url": "https://www.anantara.com/uploads/minor/anantara/documents/anantara-lawana-koh-samui-resort/hotel-info/als-sm_factsheetmay2024.pdf",
+      "description": "Gebruikt voor officiële Tree Tops Signature Dining context."
+    },
+    {
+      "type": "hotel",
+      "title": "Luxe Resort Thailand | Koh Samui Strandresort | Four Seasons",
+      "creator": "Four Seasons",
+      "url": "https://www.fourseasons.com/kohsamui/",
+      "description": "Gebruikt voor officiële resortpositionering aan de noordwestkust."
+    },
+    {
+      "type": "hotel",
+      "title": "Centara Reserve Samui - Luxe Strandresort in Koh Samui",
+      "creator": "Centara Hotels & Resorts",
+      "url": "https://www.centarahotelsresorts.com/centarareserve/crs",
+      "description": "Gebruikt voor officiële Chaweng luxe-resort positionering."
+    },
+    {
+      "type": "hotel",
+      "title": "Bo Phut Resort & Spa Koh Samui-Thailand hotel samui",
+      "creator": "Bo Phut Resort & Spa",
+      "url": "https://www.bophutresort.com/",
+      "description": "Gebruikt voor officiële Bophut resortpositionering."
+    },
+    {
+      "type": "hotel",
+      "title": "Beste Luxe Resorts en Spa - 5 Sterren Hotel in Koh Samui - Hansar Samui",
+      "creator": "Hansar Samui",
+      "url": "https://www.hansarsamui.com/",
+      "description": "Gebruikt voor officiële Bophut resortpositionering."
+    },
+    {
+      "type": "hotel",
+      "title": "Kimpton Kitalay Samui | Oceanfront Resort in Koh Samui",
+      "creator": "Kimpton Kitalay Samui",
+      "url": "https://www.kimptonkitalaysamui.com/",
+      "description": "Gebruikt voor officiële Choeng Mon resortpositionering."
+    },
+    {
+      "type": "hotel",
+      "title": "Home - Bandara Spa Resort & Pool Villas, Samui",
+      "creator": "Bandara Group",
+      "url": "https://www.bandaragroup.com/bandara-samui-resort/",
+      "description": "Gebruikt voor officiële Bophut resortpositionering."
+    }
+  ],
+  "reviewed_by": "Go2Thailand Redactie Team",
+  "enhanced_at": "2026-03-26T00:00:00.000Z",
+  "enrichedAt": "2026-03-26T00:00:00.000Z",
+  "factchecked_at": "2026-03-26T00:00:00.000Z"
+}

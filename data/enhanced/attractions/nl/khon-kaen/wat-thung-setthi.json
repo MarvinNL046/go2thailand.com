@@ -1,0 +1,82 @@
+{
+  "id": 4,
+  "slug": "wat-thung-setthi",
+  "name": {
+    "en": "Wat Thung Setthi",
+    "nl": "Wat Thung Setthi"
+  },
+  "type": "tempel",
+  "city_slug": "khon-kaen",
+  "address": "Phra Lap, Mueang Khon Kaen, Khon Kaen",
+  "location": {
+    "lat": 16.4112827,
+    "lng": 102.8836728
+  },
+  "opening_hours": "Toegang tot de tempel is over het algemeen dagelijks beschikbaar",
+  "entrance_fee": {
+    "thb": 0,
+    "usd": 0
+  },
+  "description": {
+    "en": "A visually distinct contemporary temple that adds modern symbolic architecture to the Khon Kaen mix.",
+    "nl": "Een visueel uitgesproken moderne tempel die moderne symbolische architectuur toevoegt aan de mix van Khon Kaen."
+  },
+  "highlights": [
+    "Modern tempelontwerp",
+    "Goede korte omweg",
+    "Sterk contrast met Wat Nong Wang"
+  ],
+  "image": "/images/cities/generated/khon-kaen.webp",
+  "official_website": null,
+  "seo": {
+    "metaTitle": {
+      "en": "Wat Thung Setthi | Go2Thailand",
+      "nl": "Wat Thung Setthi | Go2Thailand"
+    },
+    "metaDescription": {
+      "en": "Why Wat Thung Setthi is the right second temple stop in Khon Kaen.",
+      "nl": "Waarom Wat Thung Setthi de juiste tweede tempelstop is in Khon Kaen."
+    }
+  },
+  "tags": [
+    "tempel",
+    "khon kaen",
+    "architectuur",
+    "isaan",
+    "thailand"
+  ],
+  "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=Wat%20Thung%20Setthi%20Khon%20Kaen%20Thailand",
+  "best_time": "laat in de middag",
+  "duration_hours": 1.5,
+  "enhanced_description": "Wat Thung Setthi is de tempelstop die je alleen toevoegt als je de religieuze laag van Khon Kaen visueel wilt verbreden. Het werkt omdat het niet aanvoelt als een duplicaat van Wat Nong Wang. Het ontwerp is moderner en symbolischer, dus de stop voegt variatie toe in plaats van alleen je checklist op te blazen.\n\nDat is de juiste manier om het te gebruiken: als één contrasterende tempelomweg, niet als onderdeel van een lange, herhalende route. Khon Kaen komt sterker over als deze stop selectief blijft.",
+  "detailed_history": "De bestemmingsframing van de Tourism Authority of Thailand omvat nieuwere en visueel onderscheidendere bezienswaardigheden in de bredere Khon Kaen-mix, daarom blijft Wat Thung Setthi nuttig voor reizigers die nog één tempel willen zonder de belangrijkste stadslocatie te herhalen.",
+  "visitor_experience": "Verwacht een korter, visueel gericht tempelbezoek. Deze stop is het sterkst wanneer je hem combineert met een andere stadactiviteit in plaats van hem uit te rekken tot een aparte halve dag.",
+  "best_time_to_visit": {
+    "time_of_day": "Laat in de middag",
+    "duration": "1 tot 1,5 uur",
+    "crowd_level": "Meestal haalbaar buiten lokale piekuren voor aanbidding"
+  },
+  "practical_info": {
+    "how_to_get_there": "Het best bereikbaar per korte taxirit of ride-hailing vanaf centraal Khon Kaen.",
+    "nearby_attractions": "Stadszijde tempel en meerfront circuit in plaats van een aparte verre zone.",
+    "food_options": "Beter om terug te keren naar de stadskern voor betere eetopties.",
+    "shopping": "Geen stop gericht op winkelen."
+  },
+  "insider_tips": [
+    "Gebruik dit als contraststop, niet als vervanging voor Wat Nong Wang.",
+    "Laat in de middag biedt de beste balans tussen licht en comfort.",
+    "Dit is een van de makkelijkste manieren om je stadsdag te diversifiëren zonder hem te overdrijven."
+  ],
+  "verified_note": "Samenvatting gesteund door bronnen op basis van officiële bestemmingsframing. Exacte aanbiddingsactiviteiten en eventuele tijdelijke toegangsbeperkingen kunnen lokaal variëren.",
+  "cultural_significance": "Wat Thung Setthi verbreedt de tempellaag van Khon Kaen door een moderner visueel en symbolisch expression te tonen binnen het religieuze landschap van de provincie.",
+  "contentSources": [
+    {
+      "name": "10 Things to Do in Khon Kaen",
+      "url": "https://www.tourismthailand.org/Articles/10-things-to-do-in-khon-kaen"
+    },
+    {
+      "name": "Khon Kaen E-Brochure",
+      "url": "https://tourismthailand.my/ebook/E-Brochure%20Khon%20kaen%20%28En%29.pdf"
+    }
+  ]
+}

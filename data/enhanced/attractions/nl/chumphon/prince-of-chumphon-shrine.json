@@ -1,0 +1,82 @@
+{
+  "id": 5,
+  "slug": "prince-of-chumphon-shrine",
+  "name": {
+    "en": "Prince of Chumphon Shrine",
+    "nl": "Heiligdom van de Prins van Chumphon"
+  },
+  "type": "cultureel",
+  "city_slug": "chumphon",
+  "address": "Hat Sai Ri, Mueang Chumphon, Chumphon 86000",
+  "location": {
+    "lat": 10.518,
+    "lng": 99.205
+  },
+  "opening_hours": "Dagelijks",
+  "entrance_fee": {
+    "thb": 0,
+    "usd": 0
+  },
+  "description": {
+    "en": "A key Hat Sai Ri landmark dedicated to Admiral Prince Abhakara Kiartivongse, one of Chumphon's most important historical and devotional sites.",
+    "nl": "Een belangrijke landmark bij Hat Sai Ri, gewijd aan admiraal prins Abhakara Kiartivongse, een van Chumphons belangrijkste historische en devotionele plekken."
+  },
+  "highlights": [
+    "Een van de kenmerkende bezienswaardigheden van Chumphon",
+    "Historische en devotionele stop",
+    "Makkelijke combinatie met de kust van Hat Sai Ri"
+  ],
+  "image": "/images/cities/generated/chumphon.webp",
+  "official_website": null,
+  "seo": {
+    "metaTitle": {
+      "en": "Prince of Chumphon Shrine | Go2Thailand",
+      "nl": "Heiligdom van de Prins van Chumphon | Go2Thailand"
+    },
+    "metaDescription": {
+      "en": "Why the Prince of Chumphon Shrine matters on a Chumphon coast itinerary.",
+      "nl": "Waarom het heiligdom van de Prins van Chumphon belangrijk is in een kustroute door Chumphon."
+    }
+  },
+  "tags": [
+    "cultureel",
+    "schrijn",
+    "hat sai ri",
+    "chumphon",
+    "thailand"
+  ],
+  "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=Prince%20of%20Chumphon%20Shrine%20Thailand",
+  "best_time": "ochtend of late namiddag",
+  "duration_hours": 1,
+  "enhanced_description": "De Schrein van de Prins van Chumphon is belangrijk omdat het Chumphon meer diepgang geeft dan alleen een strand- en pierstop. Artikelen van TAT over Chumphon beschrijven het nog steeds als een van de spirituele ankers van de provincie, en dat is een nuttige manier om het te begrijpen. Dit is geen groot complex dat een halve dag vereist, maar het is een van de plekken die de Hat Sai Ri-kant geworteld doen voelen in de lokale geschiedenis in plaats van alleen in het landschap.\n\nAls je al langs de kust rijdt, is de schrijn gemakkelijk toe te voegen. Dat is precies waarom het past in een korte reisroute. Het biedt historische context, een devotionele sfeer en een sterker gevoel van plek zonder een ingewikkelde omweg te forceren. Chumphon werkt beter wanneer een stop zoals deze de strandritme doorbreekt.",
+  "detailed_history": "Materiaal van de Tourism Authority of Thailand identificeert de schrijn met Admiraal Prins Abhakara Kiartivongse, de Prins van Chumphon en Vader van de Koninklijke Thaise Marine. Die marine-historische rol is waarom de locatie lokale betekenis heeft voorbij gewone bezienswaardigheden.",
+  "visitor_experience": "Verwacht een respectvol lokaal landmark in plaats van een zwaar geïnterpreteerde museumattractie. De stop is kort, maar werkt het beste als je het benadert als deel van een Hat Sai Ri en kustweg lus in plaats van alleen zeezichten najagen.",
+  "best_time_to_visit": {
+    "time_of_day": "Ochtend of late namiddag",
+    "duration": "30 tot 60 minuten",
+    "crowd_level": "Kan drukker zijn in weekenden en lokale feestdagen"
+  },
+  "practical_info": {
+    "how_to_get_there": "Bereikbaar per weg aan de Hat Sai Ri-kant van Chumphon.",
+    "nearby_attractions": "Hat Sai Ri, Khao Matsee, Ao Thung Makham, and Thung Makham Noi Pier.",
+    "food_options": "Combineer met zeevruchtenstops aan de kustkant.",
+    "shopping": "Minimaal; de waarde hier is historisch en lokaal context."
+  },
+  "insider_tips": [
+    "Kleed je en gedraag je zoals bij een actieve lokale schrijn, niet als een puur panoramisch uitzichtpunt.",
+    "Combineer de stop met de bredere Hat Sai Ri kustlus voor betere reisstroom.",
+    "Het is een sterkere stop voor context dan voor lang ter plaatse doorbrengen."
+  ],
+  "verified_note": "Bron-ondersteunde samenvatting gebaseerd op Tourism Authority of Thailand Chumphon attractieartikelen. Lokale schema's en activiteit op feestdagen kunnen variëren.",
+  "cultural_significance": "De schrijn blijft een van de duidelijkste uitingen van Chumphons lokale identiteit, die de provincie verbindt met marinegeschiedenis en voortdurende publieke eerbied.",
+  "contentSources": [
+    {
+      "name": "10 Things to Do in Chumphon",
+      "url": "https://www.tourismthailand.org/Articles/10-things-to-do-in-chumphon"
+    },
+    {
+      "name": "Experience the 4 aspects of Chumphon",
+      "url": "https://www.tourismthailand.org/Articles/https-www-tourismthailand-org-articlesexperience-the-4-aspects-of-chumphon-view-the-sea-of-mist-on-top-of-the-mountain-pay-respect-to-the-province-s-spiritual-anchor-and-be-a-part-of-a-local-fishing-community"
+    }
+  ]
+}

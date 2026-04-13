@@ -1,0 +1,720 @@
+{
+  "id": 16,
+  "slug": "nakhon-ratchasima",
+  "name": {
+    "en": "Nakhon Ratchasima (Korat)",
+    "nl": "Nakhon Ratchasima (Korat)",
+    "ja": "ナコーンラーチャシーマー（コラート）",
+    "ko": "나콘랏차시마 (코랏)",
+    "th": "นครราชสีมา",
+    "de": "Nakhon Ratchasima (Korat)",
+    "fr": "Nakhon Ratchasima (Korat)",
+    "ru": "Накхонратчасима (Корат)",
+    "zh": "呵叻府府城那空叻差是玛（Korat）"
+  },
+  "region": "Isaan",
+  "province": "Nakhon Ratchasima",
+  "description": {
+    "en": "An Isaan city that works best as a practical urban base with a strong Ya Mo city core, one serious Khmer heritage extension, and selective Khao Yai or geopark detours.",
+    "nl": "Een Isaan-stad die het sterkst werkt als praktische stedelijke basis met een duidelijke Ya Mo-kern, een serieuze Khmer-erfgoeduitstap en gerichte Khao Yai- of geoparkdetours.",
+    "ja": "ヤーモー周辺の都市核を軸に、ピマーイのクメール遺跡やカオヤイ方面を選んで組み立てると最もわかりやすいイサーンの実用都市です。",
+    "ko": "야모 기념비 중심의 도심, 하나의 강한 크메르 유적 확장 코스, 그리고 선별된 카오야이 또는 지질공원 루트로 짜는 것이 가장 좋은 이산 도시입니다.",
+    "th": "โคราชเหมาะที่สุดเมื่อวางแผนแบบเมืองจริง มีแกนกลางรอบย่าโมและประตูเมือง แล้วค่อยเลือกทริปเสริมอย่างพิมาย เขาใหญ่ หรือจีโอพาร์คอย่างมีเหตุผล",
+    "de": "Korat funktioniert am besten als praktische Isan-Stadtbasis mit Ya-Mo-Kern, einem starken Khmer-Ausflug und gezielten Khao-Yai- oder Geopark-Erweiterungen.",
+    "fr": "Korat fonctionne surtout comme base urbaine pratique avec un vrai noyau autour de Ya Mo, une extension khmere solide et quelques detours choisis vers Khao Yai ou le geoparc.",
+    "ru": "Корат лучше всего планировать как практичную городскую базу: центр вокруг Я Мо, один сильный кхмерский выезд и выборочный выезд в Кхао Яй или геопарк.",
+    "zh": "如果把行程先围绕亚莫纪念碑一带的城市核心，再择一安排披迈、高艾或地质公园延伸，呵叻会清晰得多。"
+  },
+  "population": 461000,
+  "highlights": [
+    "Thao Suranaree Monument",
+    "Wat Sala Loi",
+    "Phimai Historical Park",
+    "Phimai National Museum",
+    "Khao Yai National Park",
+    "Save One Market"
+  ],
+  "location": {
+    "lat": 14.9799,
+    "lng": 102.0978
+  },
+  "image": "/images/cities/generated/nakhon-ratchasima.webp",
+  "seo": {
+    "metaTitle": {
+      "en": "Nakhon Ratchasima (Korat) Thailand Guide 2026 | Ya Mo, Phimai, Khao Yai",
+      "nl": "Nakhon Ratchasima (Korat) Thailand Gids 2026 | Ya Mo, Phimai, Khao Yai",
+      "ja": "コラート旅行ガイド 2026 | ヤーモー、ピマーイ、カオヤイ",
+      "ko": "코랏 여행 가이드 2026 | 야모, 피마이, 카오야이",
+      "th": "โคราช 2026 | ย่าโม พิมาย เขาใหญ่ และที่พัก",
+      "de": "Korat Guide 2026 | Ya Mo, Phimai und Khao Yai",
+      "fr": "Guide Korat 2026 | Ya Mo, Phimai et Khao Yai",
+      "ru": "Корат 2026 | Я Мо, Пхимай и Кхао Яй",
+      "zh": "呵叻旅行指南 2026 | 亚莫、披迈与高艾"
+    },
+    "metaDescription": {
+      "en": "Plan Korat around the Ya Mo city core, Wat Sala Loi, one proper Phimai heritage day, and selective Khao Yai or geopark extensions that actually fit a first stay.",
+      "nl": "Plan Korat rond de Ya Mo-stadskern, Wat Sala Loi, een echte Phimai-erfgoeddag en gerichte Khao Yai- of geoparkuitstappen die echt passen bij een eerste verblijf.",
+      "ja": "ヤーモー周辺の街歩き、ワット・サラーロイ、しっかり時間を取るピマーイ、そして必要に応じてカオヤイや地質公園を組み合わせる実用ガイドです。",
+      "ko": "야모 중심 도심, 왓 살라로이, 제대로 보는 피마이, 그리고 필요할 때만 더하는 카오야이·지질공원 루트를 정리한 실전 가이드입니다.",
+      "th": "วางแผนเที่ยวโคราชด้วยแกนกลางรอบย่าโม วัดศาลาลอย ทริปพิมายแบบจริงจัง และทริปเสริมเขาใหญ่หรือจีโอพาร์คที่เหมาะกับการมาเที่ยวครั้งแรก",
+      "de": "Planen Sie Korat mit Ya-Mo-Kern, Wat Sala Loi, einem guten Phimai-Tag und gezielten Khao-Yai- oder Geopark-Ausflugen.",
+      "fr": "Planifiez Korat autour du noyau Ya Mo, de Wat Sala Loi, d'une vraie journee a Phimai et d'extensions choisies vers Khao Yai ou le geoparc.",
+      "ru": "Планируйте Корат вокруг центра Я Мо, Wat Sala Loi, полноценного дня в Пхимае и выборочных выездов в Кхао Яй или геопарк.",
+      "zh": "从亚莫核心区、萨拉洛伊寺、完整的披迈行程，到真正适合首访的高艾或地质公园延伸，这份指南帮你更合理地规划呵叻。"
+    }
+  },
+  "categories": {
+    "food": {
+      "en": "Best restaurants and food markets in Korat",
+      "nl": "Beste restaurants en food markets in Korat",
+      "ja": "コラートのおすすめレストランとフードマーケット",
+      "ko": "코랏 추천 레스토랑과 시장 음식",
+      "th": "ร้านอาหารและตลาดกินดื่มที่ดีที่สุดในโคราช"
+    },
+    "hotels": {
+      "en": "Top hotels in Korat | Practical city and Khao Yai stays",
+      "nl": "Beste hotels in Korat | Praktische city- en Khao Yai-verblijven",
+      "ja": "コラートのおすすめホテル | 街泊とカオヤイ滞在",
+      "ko": "코랏 추천 호텔 | 도심과 카오야이 숙소",
+      "th": "โรงแรมแนะนำในโคราช | พักในเมืองและฝั่งเขาใหญ่"
+    },
+    "attractions": {
+      "en": "Top attractions in Korat",
+      "nl": "Top bezienswaardigheden in Korat",
+      "ja": "コラートの人気観光スポット",
+      "ko": "코랏 인기 관광 명소",
+      "th": "สถานที่ท่องเที่ยวยอดนิยมในโคราช"
+    }
+  },
+  "tags": [
+    "isaan",
+    "korat",
+    "nakhon ratchasima",
+    "ya mo",
+    "phimai",
+    "khao yai"
+  ],
+  "enhanced_description": "Korat komt beter tot zijn recht zodra je ophoudt het alleen te beschrijven als de poort naar Isaan. Die benaming klopt, maar het is niet genoeg. De stad zelf heeft nog steeds een echt burgerlijk centrum rond het Thao Suranaree Monument, de Chum Phon Gate, de stadspilaar en Wat Sala Loi. Materialen van de Tourism Authority of Thailand plaatsen Ya Mo nog steeds in het hart van het Korat-verhaal, en de stad blijft het gemakkelijkst te begrijpen als je daar begint in plaats van meteen naar de randen van de provincie te vertrekken.\n\nDie focus op de stad eerst is belangrijk omdat de provincie te veel mogelijke omwegen biedt. Phimai, Khao Yai, Dan Kwian en het Khorat Geopark trekken allemaal in verschillende richtingen, en niet allemaal horen ze in hetzelfde korte verblijf. Voor de meeste eerste bezoeken is het sterkste plan eenvoudig: gebruik het stadscentrum goed, voeg een serieuze erfgoeddag toe in Phimai als geschiedenis de prioriteit is, of kies Khao Yai als beschermd landschap de belangrijkste reden is waarom je kwam. De geopark-laag is sterk, maar meer gespecialiseerd en moet selectief blijven.\n\nKeuzes voor eten en hotels moeten diezelfde logica volgen. Korat is geen bestemming waar ruis in ranglijsten of vaag denken over het aantal recensies helpt. Marktmaaltijden zoals Save One doen er nog steeds toe omdat ze de reis verbonden houden met het lokale stadsleven, terwijl betere hotel- en resortdiners alleen zinvol zijn in een paar bewuste momenten. Aan de verblijfskant moeten de meeste reizigers praktisch en centraal in de stad blijven, tenzij een Khao Yai-resort expliciet deel uitmaakt van de reden om te komen.",
+  "overview": "Nakhon Ratchasima is het sterkst als een stedelijke basis met een duidelijke interne hiërarchie, niet als een opgeblazen provinciale checklist. De provinciale brochure van de TAT kadert de stad nog steeds via Ya Mo, Wat Sala Loi, Phimai, Dan Kwian en Khao Yai, en dat blijft de juiste brede kaart. De sleutel is kiezen welke van die lagen daadwerkelijk in hetzelfde verblijf horen.\n\nIn de stad zelf doet de sequentie van monument en oude poort het echte oriëntatiewerk. Buiten de stad is Phimai de beste geschiedenisgerichte uitbreiding, terwijl Khao Yai de belangrijkste natuurgerichte uitbreiding is. Khorat Geopark is een waardevolle derde richting alleen als fossielen, geologie en paleontologie echte interesses zijn. De kwaliteitsstap is één uitbreiding kiezen die bij de reis past, in plaats van te doen alsof de hele provincie goed te dekken is in een gehaaste rondrit.",
+  "hidden_gems": [
+    {
+      "name": "Pratu Chum Phon and the old wall context",
+      "story": "Pratu Chum Phon werkt omdat het het Ya Mo-gebied aanscherpt tot een echte historische stadskernsequentie in plaats van een enkel-monument fotostopje.",
+      "how_to_find": "Loop het meteen na het monument in plaats van het voor later te bewaren.",
+      "best_time": "Ochtend of late middag.",
+      "local_insights": [
+        "Dit is een van de netste manieren om centraal Korat coherent te laten voelen.",
+        "Het is beter als deel van een korte wandeling dan als een op zichzelf staande bestemming."
+      ]
+    },
+    {
+      "name": "Dan Kwian Pottery Village",
+      "story": "Dan Kwian is een van de nuttigere cultuur- en ambachten-add-ons als je iets tastbaars en regio-specifieks wilt zonder je te committeren aan een volledige Khao Yai-dag.",
+      "how_to_find": "Het best met een auto of chauffeur als een korte halve-daguitbreiding ten zuiden van de stad.",
+      "best_time": "Overdag.",
+      "local_insights": [
+        "Ga voor de ambachtenidentiteit, niet omdat je nog een verplichte attractie nodig hebt.",
+        "Dit is sterker voor bezoekers die echt om keramiek en design geven."
+      ]
+    },
+    {
+      "name": "Save One as a real city evening",
+      "story": "Save One is nuttiger dan veel gepolijste dinerkeuzes omdat het Korat sociaal en bewoond laat voelen na zonsondergang.",
+      "how_to_find": "Gebruik het na de stadskern-dag of als het dineranker voor een vroege vertrek.",
+      "best_time": "Avond.",
+      "local_insights": [
+        "Loop eerst rond en eet in rondes in plaats van te snel één vaste kraam te kiezen.",
+        "Dit is de makkelijkste manier om de reis verbonden te houden met het lokale stadsleven."
+      ]
+    },
+    {
+      "name": "Khorat Geopark only if it is truly your thing",
+      "story": "Het geopark is een sterke specialistische omweg, maar het verbetert de reis alleen als geologie of fossielen een echte interesse zijn in plaats van een willekeurige add-on.",
+      "how_to_find": "Behandel het als een eigen thema, niet als een vulstop op de terugweg van ergens anders.",
+      "best_time": "Droogseizoen ochtend of overdag.",
+      "local_insights": [
+        "Dit is een van de makkelijkste plekken in Korat om te overdrijven als de interesse niet oprecht is.",
+        "Kies het bewust en het wordt veel sterker."
+      ]
+    }
+  ],
+  "authentic_experiences": [
+    {
+      "activity": "Begin Korat met Ya Mo, de oude poort en Wat Sala Loi",
+      "story": "Dit is de netste manier om de stad voor zichzelf te laten spreken voordat de provincie je naar buiten trekt.",
+      "cultural_significance": "Ya Mo vormt nog steeds het anker van Korats publieke geheugen, en Wat Sala Loi houdt dat burgerlijke verhaal verbonden met een echte tempellaag.",
+      "how_to_participate": "Loop eerst het monumentgebied, voeg Chum Phon Gate toe, en gebruik dan Wat Sala Loi als de belangrijkste tempelstop van de stad.",
+      "insights": [
+        "Dit laat Korat als een stad voelen, niet alleen als een transportknooppunt.",
+        "Het is de juiste eerste-dagzet voor de meeste reizigers."
+      ],
+      "href": "/city/nakhon-ratchasima/attractions/thao-suranaree-monument/",
+      "cta_label": "Zie de Ya Mo-gids"
+    },
+    {
+      "activity": "Kies Phimai als erfgoed de reden is om de stad te verlaten",
+      "story": "Phimai is de sterkste geschiedenisgerichte uitbreiding en heeft geen opvulling nodig met meerdere zwakkere stops om de reis te rechtvaardigen.",
+      "cultural_significance": "Het geeft de Korat-provincie een serieuze Khmer-laag met echte architecturale en museumdiepgang.",
+      "how_to_participate": "Combineer het historische park met het museum en laat de dag gefocust blijven.",
+      "insights": [
+        "Phimai verdient tijd, niet checklist-snelheid.",
+        "Dit is de beste erfgoedrichting vanuit Korat."
+      ],
+      "href": "/city/nakhon-ratchasima/attractions/phimai-historical-park/",
+      "cta_label": "Zie de Phimai-gids"
+    },
+    {
+      "activity": "Behandel Khao Yai als een volledige landschapsbeslissing",
+      "story": "Khao Yai werkt als het de belangrijkste natuurgedag is, niet als het geperst wordt in een al overbelaste reisplanning met stad en erfgoedstops.",
+      "cultural_significance": "Het is het grootste beschermde-landschapsvermogen van de provincie en een van Thailands definiërende parknamen.",
+      "how_to_participate": "Ga alleen als je het park echte tijd kunt geven of als je aan de Pak Chong-kant verblijft.",
+      "insights": [
+        "Dit is een aparte dag voor de meeste reizigers.",
+        "Doe niet alsof het een kleine stop is vanuit het stadscentrum."
+      ],
+      "href": "/city/nakhon-ratchasima/attractions/khao-yai-national-park/",
+      "cta_label": "Zie de Khao Yai-gids"
+    },
+    {
+      "activity": "Houd één marktafavond in de planning",
+      "story": "Save One en vergelijkbare stadsvoedselmarktritmes doen meer voor Korat dan alleen gepolijste eetzalen najagen.",
+      "cultural_significance": "Markten houden de stad verbonden met alledaagse handel, snacks en avondelijks sociaal leven.",
+      "how_to_participate": "Gebruik één avond voor Save One of een andere marktgeleide diner in plaats van elke nacht naar het hotel te defaulten.",
+      "insights": [
+        "Dit is een van de makkelijkste upgrades voor een kort Korat-verblijf.",
+        "Eten werkt hier beter als het verbonden blijft met de stad."
+      ],
+      "href": "/city/nakhon-ratchasima/top-10-restaurants/",
+      "cta_label": "Zie de eetgids"
+    }
+  ],
+  "foodie_adventures": [
+    {
+      "dish": "Pad Mee Korat en stadsmarkteten",
+      "location": "Save One en stadsvoedselzones",
+      "story": "Korat-voedsel mag niet gereduceerd worden tot generieke Isaan-clichés. Het punt is om ten minste één lokale noedelidentiteit te mixen met een marktgeleid diner dat nog steeds geworteld voelt in de stad.",
+      "where_to_find": "Gebruik Save One voor variatie en een gerichte stadsmidday voor de rest van de voedselstructuur.",
+      "price_range": "Budget tot middenklasse",
+      "ordering_tips": [
+        "Gebruik markten voor breedte en zit-restaurants voor één duidelijker maaltijdfocus.",
+        "Maak niet elke maaltijd hotel-gebaseerd tenzij het hotel zelf het punt is."
+      ],
+      "href": "/city/nakhon-ratchasima/top-10-restaurants/",
+      "cta_label": "Zie de restaurantgids"
+    },
+    {
+      "dish": "Eén gepolijst stadsdiner in een echt hotelbasis",
+      "location": "Kantary of een andere sterkere Korat-hoteldinerzaal",
+      "story": "Een gepolijst Korat-diner werkt het best als het gemak of een dak-terras-stadsstemming dient, niet als het de lokale voedsel-laag van de stad volledig vervangt.",
+      "where_to_find": "Gebruik een sterker officieel hotelrestaurant voor één bewuste dinerslot.",
+      "price_range": "Middenklasse tot upscale",
+      "ordering_tips": [
+        "Houd dit bij één maaltijd als je de reis nog steeds als Korat wilt laten voelen.",
+        "Dit is nuttiger op de aankomstnacht dan als het hele plan."
+      ],
+      "href": "/city/nakhon-ratchasima/top-10-restaurants/",
+      "cta_label": "Zie meer eetkeuzes"
+    },
+    {
+      "dish": "Khao Yai-wijngaard en resort-diner",
+      "location": "PB Valley en resort-diner aan de Pak Chong-kant",
+      "story": "Deze dinerlaag hoort bij de Khao Yai-uitbreiding, niet bij de stadskern. Het werkt als de route al natuur- of resort-geleid is, niet als vervanging voor Korats stadsvoedselidentiteit.",
+      "where_to_find": "Gebruik het alleen als je al aan de Pak Chong- of Khao Yai-kant bent.",
+      "price_range": "Middenklasse tot upscale",
+      "ordering_tips": [
+        "Behandel dit als een route-specifieke maaltijd, niet als het standaard Korat-antwoord.",
+        "Het heeft meer zin op een Khao Yai-dag of resortverblijf."
+      ],
+      "href": "/city/nakhon-ratchasima/top-10-restaurants/",
+      "cta_label": "Zie meer eetkeuzes"
+    },
+    {
+      "dish": "Eén speciaal Khao Yai-diner als het resort deel uitmaakt van de reis",
+      "location": "InterContinental Khao Yai dining",
+      "story": "Resort-diner bij Khao Yai kan uitstekend zijn, maar het hoort alleen in de planning als het hotel of de landschaps setting al belangrijk is voor het verblijf.",
+      "where_to_find": "Gebruik Somying's Kitchen of Poirot als deel van een Khao Yai-hotelnacht, niet als een geforceerde omweg vanuit centraal Korat.",
+      "price_range": "Upscale",
+      "ordering_tips": [
+        "Boek dit als deel van de verblijfslogica, niet als een geïsoleerde jacht op een naam.",
+        "Het is het sterkst als de resortatmosfeer het punt is."
+      ],
+      "href": "/city/nakhon-ratchasima/top-10-restaurants/",
+      "cta_label": "Zie meer eetkeuzes"
+    }
+  ],
+  "local_insights": [
+    "Korat krijgt veel meer zin zodra Ya Mo en de oude poort echte tijd krijgen voordat een provinciale omweg begint.",
+    "Phimai en Khao Yai horen niet in hetzelfde gehaaste een-nachtplan.",
+    "De stadskant is beter voor praktische eerste verblijven; de Khao Yai-kant is beter als het resort of park de reden is waarom je kwam.",
+    "Save One is nuttiger dan een generiek café als je de reis lokaal wilt laten voelen na zonsondergang.",
+    "Khorat Geopark is een kwalitatieve specialistische omweg, geen verplichte stop voor eerste bezoekers."
+  ],
+  "seasonal_secrets": "Korat is het makkelijkst van november tot februari, wanneer stads wandelingen, tempelbezoeken en langere dagtrips comfortabeler blijven. Maart tot mei werkt nog steeds als je de stadskern verschuift naar vroege en late uren, maar het maakt blootgestelde sites en hele-dag ritten zwaarder aanvoelen. Het regenseizoen kan nog steeds passen bij een stad-eerst verblijf, maar het maakt Khao Yai en langere weg-gebaseerde provinciale lussen variabeler en beloont een strakkere reisplanning.",
+  "budget_reality": "Korat is meestal goedkoop, maar de reis wordt het snelst duur als je lange ritten, resort-stijl verblijven en te veel gesplitste richtingen begint op te stapelen. Eten kan matig blijven als je markten en één of twee gerichte zit-maaltijden gebruikt. De echte budgethendel is de transport-en-hotelbeslissing: een centraal Korat-verblijf is meestal efficiënter, terwijl Khao Yai de reis snel omhoog duwt.",
+  "top_attractions": [
+    {
+      "rank": 1,
+      "name": "Thao Suranaree Monument",
+      "description": "De sterkste eerste stop in Korat en het anker voor de oude-poort stadsequentie.",
+      "location": "Centraal Korat",
+      "entrance_fee": "Gratis",
+      "highlights": [
+        "Beste eerste stop",
+        "Ya Mo burgerlijke kern",
+        "Combineert met Chum Phon Gate"
+      ],
+      "href": "/city/nakhon-ratchasima/attractions/thao-suranaree-monument/",
+      "cta_label": "Zie de Ya Mo-gids"
+    },
+    {
+      "rank": 2,
+      "name": "Wat Sala Loi",
+      "description": "De meest betekenisvolle tempelstop van de stad na Ya Mo, met sterkere architectuur en historische context dan een generieke tempeladd-on.",
+      "location": "Dicht bij het centrum",
+      "entrance_fee": "Meestal gratis",
+      "highlights": [
+        "Beste stadstempel",
+        "Kenmerkende golfvormige zaal",
+        "Sterke Ya Mo-link"
+      ],
+      "href": "/city/nakhon-ratchasima/attractions/wat-sala-loi/",
+      "cta_label": "Zie de Wat Sala Loi-gids"
+    },
+    {
+      "rank": 3,
+      "name": "Phimai Historical Park",
+      "description": "De beste erfgoeduitbreiding van de provincie en de duidelijkste geschiedenisgerichte reden om de stad te verlaten.",
+      "location": "Phimai district",
+      "entrance_fee": "Controleer huidige officiële ticketing",
+      "highlights": [
+        "Grootste Khmer stenen tempel in Thailand",
+        "Beste erfgoed dagtrip",
+        "Werkt met het museum"
+      ],
+      "href": "/city/nakhon-ratchasima/attractions/phimai-historical-park/",
+      "cta_label": "Zie de Phimai-gids"
+    },
+    {
+      "rank": 4,
+      "name": "Phimai National Museum",
+      "description": "Het ondersteunende museum dat de Phimai-trip verandert in een sterkere historische dag in plaats van alleen een tempelfotostop.",
+      "location": "Phimai stad",
+      "entrance_fee": "Controleer huidige officiële ticketing",
+      "highlights": [
+        "Beste metgezel voor Phimai",
+        "Archeologie en sculptuurcontext",
+        "Museum met echte interpretatiewaarde"
+      ],
+      "href": "/city/nakhon-ratchasima/attractions/phimai-national-museum/",
+      "cta_label": "Zie de museumgids"
+    },
+    {
+      "rank": 5,
+      "name": "Khao Yai National Park",
+      "description": "De vlaggenschip natuurbestemming van de provincie en een aparte landschapsdag van de stadskern.",
+      "location": "Pak Chong kant",
+      "entrance_fee": "Huidige parkfees gelden",
+      "highlights": [
+        "Eerste nationale park van Thailand",
+        "UNESCO Werelderfgoed boscomplex",
+        "Beste natuuruitbreiding"
+      ],
+      "href": "/city/nakhon-ratchasima/attractions/khao-yai-national-park/",
+      "cta_label": "Zie de Khao Yai-gids"
+    },
+    {
+      "rank": 6,
+      "name": "Khorat UNESCO Global Geopark",
+      "description": "Een specialistische fossiel-en-geologie richting die bereik toevoegt als je meer wilt dan tempels en scenery.",
+      "location": "Grotere Korat-gebied",
+      "entrance_fee": "Varieert per venue",
+      "highlights": [
+        "UNESCO Global Geopark framing",
+        "Sterke paleontologiehoek",
+        "Beste specialistische omweg"
+      ],
+      "href": "/city/nakhon-ratchasima/attractions/khorat-geopark/",
+      "cta_label": "Zie de geopark-gids"
+    }
+  ],
+  "top_restaurants": [
+    {
+      "rank": 1,
+      "name": "Save One Market",
+      "cuisine_type": "Street food en markteten",
+      "description": "De sterkste makkelijke eetanker in Korat als je één avond wilt die nog steeds geworteld voelt in de stad in plaats van in een hotelbaan.",
+      "location": "Korat stad",
+      "price_range": "Budget",
+      "highlights": [
+        "Beste markt diner ritme",
+        "Grote nachtmarkt",
+        "Sterke lokale stadsatmosfeer"
+      ],
+      "href": "/city/nakhon-ratchasima/top-10-restaurants/",
+      "cta_label": "Bekijk meer eetopties"
+    },
+    {
+      "rank": 2,
+      "name": "The Grill Room Korat",
+      "cuisine_type": "Steakhouse en dakrestaurant",
+      "description": "Een stijlvolle keuze voor een diner in de stad als je nog één formele maaltijd wilt zonder de praktische Korat-hotelwereld te verlaten.",
+      "location": "Kantary Hotel Korat",
+      "price_range": "Middenklasse tot luxe",
+      "highlights": [
+        "Officiële hotelrestaurantpagina",
+        "Daklocatie",
+        "Beste stijlvolle stadsdiner"
+      ],
+      "href": "/city/nakhon-ratchasima/top-10-restaurants/",
+      "cta_label": "Bekijk meer eetopties"
+    },
+    {
+      "rank": 3,
+      "name": "The Orchard Restaurant",
+      "cuisine_type": "Internationaal hotelrestaurant",
+      "description": "Een praktisch Korat-hotelrestaurant als gemak belangrijker is dan op zoek gaan naar nog een marktmaaltijd.",
+      "location": "Kantary Hotel Korat",
+      "price_range": "Middenklasse",
+      "highlights": [
+        "Officiële hotelrestaurantpagina",
+        "Handige hele dag eetgelegenheid",
+        "Goed voor aankomst- of zakenvakanties"
+      ],
+      "href": "/city/nakhon-ratchasima/top-10-restaurants/",
+      "cta_label": "Bekijk meer eetopties"
+    },
+    {
+      "rank": 4,
+      "name": "Tapestry Chinese Restaurant",
+      "cuisine_type": "Chinees restaurant",
+      "description": "Een sterkere optie als je één gefocuste eetzaal wilt in de Korat-stadhotelwereld in plaats van een vage algemene keuze.",
+      "location": "Kantary Hotel Korat",
+      "price_range": "Middenklasse tot luxe",
+      "highlights": [
+        "Officiële hotelrestaurantpagina",
+        "Gefocuste keuken",
+        "Handige optie voor groepsdiner"
+      ],
+      "href": "/city/nakhon-ratchasima/top-10-restaurants/",
+      "cta_label": "Bekijk meer eetopties"
+    },
+    {
+      "rank": 5,
+      "name": "Great Hornbill Grill",
+      "cuisine_type": "Wijnmakerij en grillrestaurant",
+      "description": "Een verstandige maaltijd aan de Khao Yai-kant als de wijnmakerijcontext deel uitmaakt van de route en je al aan de Pak Chong-kant bent.",
+      "location": "PB Valley, Khao Yai",
+      "price_range": "Middenklasse tot luxe",
+      "highlights": [
+        "Officiële wijnmakerijrestaurantcontext",
+        "Beste te gebruiken op een Khao Yai-route",
+        "Goede landschap-geleide maaltijd"
+      ],
+      "href": "/city/nakhon-ratchasima/top-10-restaurants/",
+      "cta_label": "Bekijk meer eetopties"
+    },
+    {
+      "rank": 6,
+      "name": "Somying's Kitchen",
+      "cuisine_type": "Thais en resortrestaurant",
+      "description": "Een goede Khao Yai-resortkeuze als je al in het InterContinental verblijft en een sterkere huismaaltijd wilt.",
+      "location": "InterContinental Khao Yai Resort",
+      "price_range": "Luxe",
+      "highlights": [
+        "Officiële resortrestaurantpagina",
+        "Werkt het best met een overnachting",
+        "Handig resort-geleid diner"
+      ],
+      "href": "/city/nakhon-ratchasima/top-10-restaurants/",
+      "cta_label": "Bekijk meer eetopties"
+    },
+    {
+      "rank": 7,
+      "name": "Poirot",
+      "cuisine_type": "Europees fine dining",
+      "description": "De juiste uitspatting alleen als de Khao Yai-resortatmosfeer al deel uitmaakt van de reis en je één bewuste fine-diningmoment wilt.",
+      "location": "InterContinental Khao Yai Resort",
+      "price_range": "Luxe",
+      "highlights": [
+        "Officiële resortrestaurantpagina",
+        "Europese fine-dining positionering",
+        "Beste als bestemmingsdiner met verblijf"
+      ],
+      "href": "/city/nakhon-ratchasima/top-10-restaurants/",
+      "cta_label": "Bekijk meer eetopties"
+    }
+  ],
+  "top_hotels": [
+    {
+      "rank": 1,
+      "name": "Centre Point Hotel Terminal21 Korat",
+      "description": "Een van de sterkste eerste verblijven in Korat omdat het het stadscentrum, malltoegang en praktische verplaatsingen eenvoudig houdt.",
+      "price_range": "Middenklasse tot luxe",
+      "category": "middenklasse",
+      "area": "Centraal Korat",
+      "highlights": [
+        "Officiële hotelwebsite",
+        "Aangesloten aan Terminal21 Korat",
+        "Sterke praktische stadsbasis"
+      ],
+      "href": "/city/nakhon-ratchasima/top-10-hotels/",
+      "cta_label": "Bekijk de hotelgids"
+    },
+    {
+      "rank": 2,
+      "name": "Kantary Hotel Korat",
+      "description": "Een sterke stadshotelkeuze als je een conventioneel full-service verblijf wilt met meerdere huisrestaurantopties.",
+      "price_range": "Middenklasse tot luxe",
+      "category": "middenklasse",
+      "area": "Korat stad",
+      "highlights": [
+        "Officiële hotelwebsite",
+        "Meerdere eetgelegenheden",
+        "Goed praktisch stadsverblijf"
+      ],
+      "href": "/city/nakhon-ratchasima/top-10-hotels/",
+      "cta_label": "Bekijk de hotelgids"
+    },
+    {
+      "rank": 3,
+      "name": "Centara Korat",
+      "description": "Een nieuwere stadshotel als je een moderner full-service basis wilt aangesloten aan een groot winkelcomplex.",
+      "price_range": "Luxe",
+      "category": "luxe",
+      "area": "Centraal Korat",
+      "highlights": [
+        "Officiële hotelwebsite",
+        "Aangesloten aan Central Korat",
+        "Goed faciliteiten-geleid verblijf"
+      ],
+      "href": "/city/nakhon-ratchasima/top-10-hotels/",
+      "cta_label": "Bekijk de hotelgids"
+    },
+    {
+      "rank": 4,
+      "name": "InterContinental Khao Yai Resort",
+      "description": "Een bestemmingsverblijf voor reizigers wiens Korat-reis bewust zwaarder weegt naar de Khao Yai-kant in plaats van het stadscentrum.",
+      "price_range": "Luxe",
+      "category": "speciaal verblijf",
+      "area": "Khao Yai-kant",
+      "highlights": [
+        "Officiële resortwebsite",
+        "Bestemmingsresortatmosfeer",
+        "Beste met een Khao Yai-gefocuste reisroute"
+      ],
+      "href": "/city/nakhon-ratchasima/top-10-hotels/",
+      "cta_label": "Bekijk de hotelgids"
+    },
+    {
+      "rank": 5,
+      "name": "Mövenpick Resort Khao Yai",
+      "description": "Een goede Khao Yai-kant resortkeuze als landschapsstemming en resorttijd belangrijker zijn dan nabij het Korat-stadscentrum.",
+      "price_range": "Luxe",
+      "category": "speciaal verblijf",
+      "area": "Khao Yai-kant",
+      "highlights": [
+        "Officiële resortwebsite",
+        "Landschap-geleide resortsetting",
+        "Beste voor een resort-zwaar verblijf"
+      ],
+      "href": "/city/nakhon-ratchasima/top-10-hotels/",
+      "cta_label": "Bekijk de hotelgids"
+    }
+  ],
+  "travel_tips": [
+    "Begin met Ya Mo en de oude poort voordat je je committeert aan een detour in de provincie.",
+    "Kies Phimai of Khao Yai voor een kort eerste verblijf; beide proberen verzwakt beide.",
+    "Verblijf centraal tenzij een Khao Yai-resort expliciet deel uitmaakt van het reisdoel.",
+    "Gebruik één markt-avond om de eetkant geworteld te houden in het Korat-stadsleven.",
+    "Controleer actuele park-, museum- en ticketdetails direct voordat je een lange rit maakt.",
+    "Behandel het geopark als een specialistische interesse-route, niet als verplichte vulling."
+  ],
+  "best_time_to_visit": {
+    "season": "November tot februari is het makkelijkste overall venster omdat stads wandelingen, tempelbezoeken en langere Phimai- of Khao Yai-dagen comfortabeler zijn.",
+    "weather": "Hete maanden werken nog steeds als je het stadscentrum verschuift naar vroege en late uren, maar ze maken open erfgoed- en landschapsstops vermoeiender. Regenachtige maanden passen nog steeds bij een stad-eerst reis, hoewel langere ritten minder elegant worden.",
+    "reasons": "Korat beloont schone sequencing en tijd buiten, dus comfort in het stadscentrum en op dagtrips telt hier meer dan in een puur indoor zakencity."
+  },
+  "budget_info": {
+    "daily_budget": {
+      "budget": "Een budget Korat-reis is realistisch met een eenvoudige centrale kamer, markt-zware eetgelegenheden en een stad-eerst reisroute die lange betaalde transfers beperkt.",
+      "mid": "Middenklasse uitgaven betekenen meestal een sterker centraal hotel, een mix van markt- en zittende maaltijden, en één echte uit-de-stad dag zoals Phimai of Khao Yai.",
+      "luxury": "Hogere uitgaven in Korat komen vooral van resortkeuze, privétransfers en Khao Yai-kant hotels in plaats van alleen attractietickets."
+    }
+  },
+  "thingsToDo": "Korat heeft geen oversized checklist nodig. Begin met het Thao Suranaree Monument, Chum Phon Gate en Wat Sala Loi zodat de stad zelf coherent aanvoelt. Daarna kies je één sterke uitbreiding. Phimai is de beste geschiedenis-geleide dag. Khao Yai is de beste landschap-geleide dag. Khorat Geopark is een specialistische invalshoek als fossielen en geologie belangrijker zijn dan nog een tempel. Save One hoort in de avond omdat het de reis verbonden houdt met lokaal stadsleven in plaats van elke nacht om te zetten in hotel-downtime.",
+  "whereToStay": "De meeste eerste bezoekers moeten in centraal Korat verblijven, waar stadsverkeer, toegang tot de oude kern, mall-gemak en restaurantopties allemaal eenvoudig blijven. Daarom maken Centre Point, Kantary en Centara meer zin voor veel korte verblijven dan direct springen naar een resort. Gebruik de Khao Yai-kant alleen als het park of de resortatmosfeer deel uitmaakt van het reisdoel, want zodra je daar slaapt worden de stad- en erfgoeddagen andere logistiek.",
+  "whereToEat": [
+    {
+      "name": "Save One Market",
+      "cuisine": "Straatvoedsel en lokale marktmaaltijden",
+      "priceRange": "$",
+      "description": "De sterkste avond-eetanker in de stad als je Korat lokaal wilt laten voelen na donker."
+    },
+    {
+      "name": "The Grill Room Korat",
+      "cuisine": "Steakhouse en dakrestaurant",
+      "priceRange": "$$-$$$",
+      "description": "Een stijlvol stadsdiner als je nog één formele maaltijd wilt in een praktische hotelsetting."
+    },
+    {
+      "name": "The Orchard Restaurant",
+      "cuisine": "Internationaal hotelrestaurant",
+      "priceRange": "$$",
+      "description": "Handig voor aankomstaavond of zakelijk gemak zonder het te oversellen als het hele Korat-eetverhaal."
+    },
+    {
+      "name": "Great Hornbill Grill",
+      "cuisine": "Wijnmakerij en grillrestaurant",
+      "priceRange": "$$-$$$",
+      "description": "Een Khao Yai-kant maaltijd die alleen zin heeft als je al op die route bent."
+    },
+    {
+      "name": "Somying's Kitchen",
+      "cuisine": "Thais en resortrestaurant",
+      "priceRange": "$$$",
+      "description": "Een verstandig in-resort diner als InterContinental deel uitmaakt van je verblijf."
+    },
+    {
+      "name": "Poirot",
+      "cuisine": "Europees fine dining",
+      "priceRange": "$$$",
+      "description": "Een bestemmingsdiner alleen als de Khao Yai-resortlaag al het punt is."
+    }
+  ],
+  "gettingAround": "Korat is praktisch zodra je het stadscentrum scheidt van de provincie-uitbreidingen. Rond Ya Mo, de oude poort, centrale hotels en veel eetstops zijn korte taxi- of ride-hailing ritten meestal genoeg, en delen van de kern kunnen in korte blokken worden gelopen. Phimai, Khao Yai, Dan Kwian en de geopark-laag zijn andere vragen en werken beter met een auto, chauffeur of duidelijk geplande bus-en-terug logica. De praktische regel is eenvoudig: houd de stad compact en behandel elke buiten-stad stop als een echte transportverplichting.",
+  "bestTimeToVisit": "Korat is het sterkst van november tot februari, wanneer het stadscentrum, tempelstops en langere Phimai- of Khao Yai-routes allemaal comfortabeler zijn. Heet-seizoen reizen is nog mogelijk, maar het beloont vroege starts en kortere midday-exposure. Regenachtige maanden kunnen nog werken voor een stad-eerst plan, hoewel ze langere natuur-geleide dagen variabeler maken.",
+  "safetyTips": "Korat is over het algemeen eenvoudig voor bezoekers, en het grotere risico is tijd verspillen aan overbuilt reisroutes in plaats van op ongebruikelijke veiligheidsproblemen stuiten. Gebruik normale stadsbewustzijn op markten na donker, spreek langere transportplannen af voordat je de stad verlaat, kleed je respectvol bij tempels en controleer actuele park- of museumoperaties voordat je een lange rit maakt. Als je richting Khao Yai gaat, plan conservatief en behandel parkcondities als iets om lokaal te verifiëren in plaats van aan te nemen.",
+  "faq": [
+    {
+      "question": "Is Korat een bezoek waard als ik het niet alleen als gateway gebruik?",
+      "answer": "Ja. Korat is het sterkst als je de stad zelf als deel van de reis behandelt, vooral rond Ya Mo, de oude poort, Wat Sala Loi en één goede marktavond."
+    },
+    {
+      "question": "Hoeveel nachten heb ik nodig in Korat?",
+      "answer": "Twee nachten is een goed eerste verblijf als je het stadscentrum plus één serieuze uitbreiding wilt zoals Phimai of Khao Yai. Eén nacht werkt alleen als de reis vooral in de stad blijft."
+    },
+    {
+      "question": "Moet ik Phimai of Khao Yai eerst kiezen?",
+      "answer": "Kies Phimai als erfgoed de prioriteit is en Khao Yai als landschap en parktijd de prioriteit zijn. Op een kort verblijf verzwakt het doen van beide meestal de reis."
+    },
+    {
+      "question": "Wat zijn de belangrijkste bezienswaardigheden in Korat stad zelf?",
+      "answer": "Voor de meeste eerste bezoeken is de essentiële stadssequentie het Thao Suranaree Monument, Chum Phon Gate en Wat Sala Loi."
+    },
+    {
+      "question": "Is Save One de moeite waard om toe te voegen als ik al restaurantplannen heb?",
+      "answer": "Meestal ja. Eén marktavond helpt Korat veel lokaler te voelen en minder als een hotel-en-dagtrip reisroute."
+    },
+    {
+      "question": "Waar moet ik verblijven bij een eerste bezoek?",
+      "answer": "Centraal Korat is meestal de beste eerste basis. Verblijf aan de Khao Yai-kant alleen als het park of de resortatmosfeer deel uitmaakt van de hoofreden voor de reis."
+    }
+  ],
+  "practicalInfo": {
+    "bestMonths": [
+      "Nov",
+      "Dec",
+      "Jan",
+      "Feb"
+    ],
+    "nearestAirport": "De meeste reizigers bereiken Korat over land vanuit Bangkok in plaats van via een regelmatig gebruikt lokaal commercieel vliegveld.",
+    "travelTimeFromAirport": "Plan weg- of treinankomst vanuit Bangkok als het standaard toegangspatroon voor de meeste internationale en binnenlandse bezoekers.",
+    "localTransport": [
+      "Korte taxi- of ride-hailing hops binnen centraal Korat",
+      "Lopen van de Ya Mo- en oude-poort kern in korte blokken",
+      "Auto of chauffeur voor Phimai, Dan Kwian, Khao Yai of geopark-routes",
+      "Trein- of bus-toegang vanuit Bangkok voor de hoofdintercity-etappe",
+      "Buiten-stad richtingen beperken tot één hoofdroute per dag"
+    ]
+  },
+  "contentSources": [
+    {
+      "type": "toerisme-kantoor",
+      "title": "Provinciale Brochure: Nakhon Ratchasima",
+      "creator": "Tourism Authority of Thailand",
+      "url": "https://www.turismotailandes.org.pt/WebRoot/Store/Shops/1032-180719/MediaGallery/Nova_pasta1/Nova_pasta/Provincial_Brochure_A5_Nakhon_Ratchasima_En.pdf",
+      "description": "Gebruikt voor officiële Korat-stadsframing, Ya Mo, Wat Sala Loi, Dan Kwian, Khao Yai en algemene transportcontext."
+    },
+    {
+      "type": "erfgoed-site",
+      "title": "Phimai Historical Park",
+      "creator": "Fine Arts Department, Thailand",
+      "url": "https://virtualhistoricalpark.finearts.go.th/phimai/index.php/en/",
+      "description": "Gebruikt voor officiële historische context rond Prasat Hin Phimai."
+    },
+    {
+      "type": "museum",
+      "title": "Phimai National Museum",
+      "creator": "Fine Arts Department, Thailand",
+      "url": "https://www.finearts.go.th/phimaimuseum",
+      "description": "Gebruikt voor officiële museumverwijzing en huidige institutionele status."
+    },
+    {
+      "type": "wereld-erfgoed",
+      "title": "Dong Phayayen-Khao Yai Forest Complex",
+      "creator": "UNESCO World Heritage Centre",
+      "url": "https://whc.unesco.org/en/list/590/",
+      "description": "Gebruikt voor officiële UNESCO-context rond de Werelderfgoedstatus van Khao Yai."
+    },
+    {
+      "type": "geopark",
+      "title": "Khorat UNESCO Global Geopark",
+      "creator": "Khorat UNESCO Global Geopark",
+      "url": "https://www.khoratgeopark.com/en/",
+      "description": "Gebruikt voor officiële geopark-positionering en paleontologie-context."
+    },
+    {
+      "type": "hotel",
+      "title": "Centre Point Hotel Terminal21 Korat",
+      "creator": "Centre Point",
+      "url": "https://www.centrepoint.com/korat",
+      "description": "Gebruikt voor officiële positionering van stadshotel, adres en praktische logica voor centraal verblijf."
+    },
+    {
+      "type": "food-market",
+      "title": "Save One Market",
+      "creator": "Centre Point",
+      "url": "https://www.centrepoint.com/korat/dontmiss/save-one-market",
+      "description": "Gebruikt voor huidige marktcontext gebaseerd op bronnen en Korat avondeten-context."
+    },
+    {
+      "type": "hotel",
+      "title": "Kantary Hotel, Korat",
+      "creator": "Cape and Kantary Hotels",
+      "url": "https://www.kantaryhotel-korat.com/",
+      "description": "Gebruikt voor officiële positionering van stadshotel en verwijzingen naar diner in het hotel."
+    },
+    {
+      "type": "hotel",
+      "title": "Centara Korat",
+      "creator": "Centara Hotels & Resorts",
+      "url": "https://www.centarahotelsresorts.com/centara/cko",
+      "description": "Gebruikt voor officiële positionering van stadshotel en verbinding met Central Korat."
+    },
+    {
+      "type": "resort",
+      "title": "InterContinental Khao Yai Resort",
+      "creator": "InterContinental Hotels & Resorts",
+      "url": "https://khaoyai.intercontinental.com/",
+      "description": "Gebruikt voor officiële positionering van Khao Yai resort en resort-dinercontext."
+    },
+    {
+      "type": "resort",
+      "title": "InterContinental Dining, Cafes & Khao Yai Restaurants",
+      "creator": "InterContinental Khao Yai Resort",
+      "url": "https://khaoyai.intercontinental.com/dining/",
+      "description": "Gebruikt voor officiële huidige dineropties inclusief Poirot en Somying's Kitchen."
+    },
+    {
+      "type": "resort",
+      "title": "Mövenpick Resort Khao Yai Location & Contact",
+      "creator": "Mövenpick Hotels & Resorts",
+      "url": "https://movenpick.accor.com/en/asia/thailand/khao-yai/resort-khao-yai/location.html",
+      "description": "Gebruikt voor officiële locatiecontext van Khao Yai resort ten opzichte van het nationale park."
+    }
+  ],
+  "reviewed_by": "Go2Thailand Editorial Team",
+  "enhanced_at": "2026-03-26T00:00:00.000Z",
+  "factchecked_at": "2026-03-26T00:00:00.000Z",
+  "enrichedAt": "2026-03-26T00:00:00.000Z"
+}

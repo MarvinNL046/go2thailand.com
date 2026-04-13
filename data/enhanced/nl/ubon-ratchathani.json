@@ -1,0 +1,722 @@
+{
+  "id": 27,
+  "slug": "ubon-ratchathani",
+  "name": {
+    "en": "Ubon Ratchathani",
+    "nl": "Ubon Ratchathani",
+    "ja": "ウボンラーチャターニー",
+    "ko": "우본랏차타니",
+    "th": "อุบลราชธานี",
+    "de": "Ubon Ratchathani",
+    "fr": "Ubon Ratchathani",
+    "ru": "Ubon Ratchathani",
+    "zh": "Ubon Ratchathani"
+  },
+  "region": "Isaan",
+  "province": "Ubon Ratchathani",
+  "description": {
+    "en": "Ubon Ratchathani works best as a city-first Isaan base with a strong temple-and-food core, a meaningful candle-craft layer, and one deliberate Mekong-side nature day such as Khong Chiam and Pha Taem rather than as a loose festival-and-canyon checklist.",
+    "nl": "Ubon Ratchathani werkt het best als een city-first Isaan-basis met een sterke tempel- en foodkern, een betekenisvolle candle-craftlaag en één bewuste Mekong-natuurdag zoals Khong Chiam en Pha Taem, niet als een losse festival- en canyonchecklist.",
+    "ja": "ウボンラーチャターニーは、祭りや奇岩だけを並べるより、国立博物館、主要寺院、食文化、ろうそく彫刻の文脈、そして一度だけ本気で出かけるコーンチアムやパーテーム方面で組み立てると理解しやすい都市です。",
+    "ko": "우본랏차타니는 축제와 협곡을 늘어놓는 방식보다 국립박물관, 핵심 사원, 음식 문화, 촛불 조각 전통, 그리고 한 번의 진지한 콩찌암-파탬 자연 일정을 묶어 보는 편이 훨씬 낫습니다.",
+    "th": "อุบลราชธานีเหมาะกับการเที่ยวแบบเริ่มจากตัวเมือง วัด อาหาร และงานเทียน ก่อนค่อยต่อยอดไปโขงเจียมและผาแต้ม มากกว่าการรวมทุกอย่างเป็นเช็กลิสต์ธรรมชาติ",
+    "de": "Ubon Ratchathani funktioniert am besten als Isaan-Stadt mit starkem Tempel- und Essenskern, Candle-Craft-Tradition und nur einem gezielten Mekong-Naturtag wie Khong Chiam und Pha Taem.",
+    "fr": "Ubon Ratchathani se visite mieux comme une base urbaine de l'Isaan avec un vrai coeur de temples et de cuisine, une couche artisanale autour des bougies, puis une seule vraie journee Mekong vers Khong Chiam et Pha Taem.",
+    "ru": "Убон Ратчатхани лучше планировать как городской центр Исана: музеи, храмы, еда, традиция восковых свечей и один осмысленный день на Меконге в сторону Кхонг Чиама и Пха Тэма.",
+    "zh": "Ubon Ratchathani 更适合按“城市寺庙与美食核心 + 蜡烛雕刻传统 + 一次认真前往 Khong Chiam 与 Pha Taem 的湄公河自然日”来安排，而不是把节庆和峡谷景点硬拼成清单。"
+  },
+  "population": 191000,
+  "population_label": "Referentie op stadsniveau",
+  "population_note": "Gebruik dit als een brede stedelijke oriëntatiepunt in plaats van een actuele gemeentelijke telling.",
+  "highlights": [
+    "Nationaal Museum van Ubon Ratchathani en de oude binnenstad-laag",
+    "Wat Thung Si Mueang",
+    "Wat Phra That Nong Bua",
+    "Kaarsambacht en het Thung Si Mueang-veld",
+    "Khong Chiam en de Twee-Kleurige Rivier",
+    "Pha Taem National Park"
+  ],
+  "location": {
+    "lat": 15.2287,
+    "lng": 104.8564
+  },
+  "image": "/images/cities/generated/ubon-ratchathani.webp",
+  "seo": {
+    "metaTitle": {
+      "en": "Ubon Ratchathani Thailand Guide 2026 | Temples, Food, Candle Craft and Pha Taem",
+      "nl": "Ubon Ratchathani gids 2026 | Tempels, eten, kaarskunst en Pha Taem",
+      "ja": "ウボンラーチャターニー観光ガイド 2026 | 寺院、食、ろうそく文化、パーテーム",
+      "ko": "우본랏차타니 가이드 2026 | 사원, 음식, 촛불 공예, 파탬",
+      "th": "อุบลราชธานี 2026 | วัด อาหาร งานเทียน และผาแต้ม",
+      "de": "Ubon Ratchathani Guide 2026 | Tempel, Essen, Kerzenkunst und Pha Taem",
+      "fr": "Guide d'Ubon Ratchathani 2026 | Temples, cuisine, cire et Pha Taem",
+      "ru": "Путеводитель по Ubon Ratchathani 2026 | Храмы, еда, свечи и Pha Taem",
+      "zh": "Ubon Ratchathani 旅行指南 2026 | 寺庙、美食、蜡烛工艺与 Pha Taem"
+    },
+    "metaDescription": {
+      "en": "Plan Ubon Ratchathani around its museum, temple core, MICHELIN-backed food, candle-craft tradition, and one edited Khong Chiam–Pha Taem day instead of relying on thin festival or canyon filler.",
+      "nl": "Plan Ubon Ratchathani rond museum, tempelkern, MICHELIN-gedragen food, de candle-crafttraditie en één gerichte Khong Chiam–Pha Taem-dag in plaats van dun festival- of canyonfiller.",
+      "ja": "ウボンラーチャターニーを、博物館、寺院、食、ろうそく文化、そしてコーンチアムとパーテームの一日で整理するガイドです。",
+      "ko": "우본랏차타니를 박물관, 사원, 음식, 촛불 문화, 그리고 콩찌암-파탬 하루 일정으로 정리하는 가이드입니다.",
+      "th": "คู่มือเที่ยวอุบลราชธานีแบบเน้นพิพิธภัณฑ์ วัด อาหาร งานเทียน และวันเดียวที่โขงเจียม-ผาแต้ม",
+      "de": "Ubon Ratchathani richtig planen: Museum, Tempel, Essen, Kerzenkunst und ein bewusster Khong-Chiam-Pha-Taem-Tag.",
+      "fr": "Comment structurer Ubon Ratchathani autour du musee, des temples, de la cuisine, des bougies et d'une seule journee Khong Chiam-Pha Taem.",
+      "ru": "Как планировать Ubon Ratchathani: музей, храмы, еда, свечная традиция и один продуманный день в Khong Chiam и Pha Taem.",
+      "zh": "用博物馆、寺庙、美食、蜡烛传统以及一次 Khong Chiam–Pha Taem 自然日来规划 Ubon Ratchathani。"
+    }
+  },
+  "categories": {
+    "food": {
+      "en": "Best restaurants and local dishes in Ubon Ratchathani",
+      "nl": "Beste restaurants en lokale gerechten in Ubon Ratchathani",
+      "ja": "ウボンラーチャターニーのおすすめレストラン＆郷土料理",
+      "ko": "우본랏차타니 추천 레스토랑과 지역 음식",
+      "th": "ร้านอาหารและอาหารท้องถิ่นที่ดีที่สุดในอุบลราชธานี"
+    },
+    "hotels": {
+      "en": "Top hotels in Ubon Ratchathani | City and Mekong-side stays",
+      "nl": "Beste hotels in Ubon Ratchathani | Stad en Mekong-verblijven",
+      "ja": "ウボンラーチャターニーのおすすめホテル｜市内とメコン側の滞在",
+      "ko": "우본랏차타니 추천 호텔 | 도심과 메콩 강변 숙소",
+      "th": "โรงแรมแนะนำในอุบลราชธานี | เมืองและฝั่งโขง"
+    },
+    "attractions": {
+      "en": "Top attractions in Ubon Ratchathani",
+      "nl": "Top bezienswaardigheden in Ubon Ratchathani",
+      "ja": "ウボンラーチャターニーの人気観光スポット",
+      "ko": "우본랏차타니 인기 관광 명소",
+      "th": "สถานที่ท่องเที่ยวยอดนิยมในอุบลราชธานี"
+    }
+  },
+  "tags": [
+    "ubon-ratchathani",
+    "isaan",
+    "mekong",
+    "pha-taem",
+    "candle-festival",
+    "temples",
+    "thailand"
+  ],
+  "enhanced_description": "Ubon Ratchathani wordt zwakker als de hele stad wordt teruggebracht tot drie standaardideeën: het Kaarsfestival, Pha Taem en Sam Phan Bok. Die dingen doen ertoe, maar de sterkere versie begint in de stad zelf: het nationale museum, Wat Thung Si Mueang, Wat Phra That Nong Bua en een eetscène die de MICHELIN Guide nog steeds serieus genoeg neemt om de stad een echte culinaire identiteit te geven.\n\nVan daaruit wordt de provincie makkelijker te benaderen. De kaarslaag doet ertoe omdat die de ambachtstraditie van de stad en de boeddhistische kalender uitlegt, in plaats van omdat er één festivalweekend is. Khong Chiam en Pha Taem doen ertoe omdat ze één coherente oostelijke Mekong-dag vormen, vooral als de Twee-Kleurige Rivier en de klifuitzichten worden behandeld als deel van dezelfde route in plaats van als verspreide natuurbestemmingen.\n\nDie structuur is wat Ubon publicabel maakt op het juiste kwaliteitsniveau. Het is eerst een grote Isaan-stad, dan een centrum voor kaarsambacht, en dan een Mekong-natuurbase met één serieuze dag buiten de stad. Zodra die lagen in balans blijven, voelt de reis niet meer generiek.",
+  "overview": "Ubon Ratchathani is het sterkst als de stad zelf de reisroute leidt. Het nationale museum en de oude binnenstad-laag leggen de culturele herinnering van de provincie beter uit dan direct springen naar klif- en canyongeschriften in de buitenwijken, en Wat Thung Si Mueang plus Wat Phra That Nong Bua geven de stad een religieus en architectonisch kern dat nog steeds specifiek aanvoelt.\n\nEten is de tweede laag. De huidige Ubon-selecties van MICHELIN maken de eetscène van de stad veel duidelijker dan de oude geschaafde pagina's ooit deden: guay jub bij Guay Jub Ubon, Isaan-klassiekers bij Krua Samchai en Som Tum Jinda, Vietnamese dumplings bij Pak Mor Robot, en bredere stadse diners bij Chomjan of Santi Pochana. Dat geeft Ubon een echte stedelijke maaltijdstructuur in plaats van een generieke toeristenrestaurant-ranglijst.\n\nNa het centrum is de beste uitbreiding Khong Chiam en Pha Taem als één echte Mekong-dag. Sam Phan Bok kan nog steeds de moeite waard zijn als de waterstanden en timing kloppen, maar het mag de stad of de Khong Chiam-sequentie niet verdringen. Ubon wordt beter zodra je ophoudt met het oversellen van de buitenprovincie en de stad zelf meer werk laat doen.",
+  "hidden_gems": [
+    {
+      "name": "Pak Mor Robot",
+      "story": "MICHELIN behandelt Pak Mor Robot nog steeds als een van de meest kenmerkende kleine-eetstops van de stad, wat helpt om de Vietnamese-invloede zijde van Ubons eetcultuur uit te leggen.",
+      "how_to_find": "Gebruik het 's ochtends of tijdens de lunch in de stadroute nabij het museum en de oude binnenstad-kant.",
+      "best_time": "Ochtend tot begin middag",
+      "local_insights": [
+        "Dit is een van de duidelijkste niet-festivalmanieren om de stad te voelen.",
+        "De dumpling-stop is sterker dan het verzinnen van een generieke café-pauze."
+      ]
+    },
+    {
+      "name": "Thung Si Mueang field and candle-craft layer",
+      "story": "Zelfs buiten de headline festivaldagen helpt Thung Si Mueang nog steeds om uit te leggen hoe diep de kaars- en boeddhistische-vasten-traditie is ingebouwd in de burgerlijke identiteit van Ubon.",
+      "how_to_find": "Combineer het met Wat Thung Si Mueang en de museum-kant in plaats van het te isoleren als een enkele seizoensstop.",
+      "best_time": "Einde middag",
+      "local_insights": [
+        "Het veld doet er het meest toe als je het leest als deel van de stadskern.",
+        "Festival-timing kan de reis verheffen, maar de stad werkt nog steeds zonder."
+      ]
+    }
+  ],
+  "authentic_experiences": [
+    {
+      "activity": "Begin met het nationale museum en de oude binnenstad-laag",
+      "story": "Het Fine Arts-museum en de omliggende oudere wijk geven Ubon een historisch kader dat de oude generieke pagina's negeerden.",
+      "cultural_significance": "Dit is het beste startpunt om Ubon te begrijpen als een grote Isaan-stad, niet alleen als een natuurpoort.",
+      "how_to_participate": "Gebruik het museum en nabijgelegen straten eerst, ga dan over op tempels en eten zonder het centrum te snel te verlaten.",
+      "insights": [
+        "Dit zou het eerste halve dag moeten zijn, niet het overgebleven tijdslot.",
+        "De stad leest duidelijker zodra de culturele kern eerst is gedaan."
+      ],
+      "href": "/city/ubon-ratchathani/attractions/ubon-ratchathani-national-museum/",
+      "cta_label": "Zie de museumgids"
+    },
+    {
+      "activity": "Houd Wat Thung Si Mueang en Wat Phra That Nong Bua als het tempelpaar",
+      "story": "De ene tempel legt de oude stad uit; de andere geeft Ubon zijn meest herkenbare moderne heilige landmark. Samen zijn ze sterker dan het behandelen van elke tempel in de provincie als gelijk.",
+      "cultural_significance": "Dit paar geeft de stad zowel historische diepte als een hedendaags religieus anker.",
+      "how_to_participate": "Doe de oude-binnenstad-tempel eerst, dan de grotere Nong Bua-kant later op de dag of de volgende ochtend.",
+      "insights": [
+        "De stadstempel-laag werkt het best als een paar, niet als een lange tempelchecklist.",
+        "Ze maken meer zin voor elke buitennatuur-dag."
+      ],
+      "href": "/city/ubon-ratchathani/attractions/wat-thung-si-mueang/",
+      "cta_label": "Zie de tempelgids"
+    },
+    {
+      "activity": "Lees de kaarstraditie door de stad, niet alleen door één paradeweekend",
+      "story": "De kaarslaag doet ertoe omdat die is verbonden met de burgerlijke en religieuze cultuur van Ubon, niet vanwege één jaarlijkse toerismespiike.",
+      "cultural_significance": "De boeddhistische-vasten-kaarstraditie van de stad is een van de duidelijkste redenen waarom Ubon nog steeds een distincte regionale identiteit draagt.",
+      "how_to_participate": "Gebruik het Thung Si Mueang-veld en de omliggende stadskern-context als de interpretatielaag, voeg dan festival-timing alleen toe als het echt past.",
+      "insights": [
+        "De ambachtstraditie doet meer toe dan alleen festivalhype.",
+        "Dit geeft Ubon een sterkere stadidentiteit dan ooit buitenprovincie-vulling kon."
+      ],
+      "href": "/city/ubon-ratchathani/attractions/candle-festival-venue/",
+      "cta_label": "Zie de kaarsgids"
+    },
+    {
+      "activity": "Maak van Khong Chiam en Pha Taem één bewuste Mekong-dag",
+      "story": "De Ubon-dekking van TAT presenteert Pha Taem, de Twee-Kleurige Rivier en de bredere Khong Chiam-kant nog steeds als het sterkste oostelijke natuurbestanddeel van de provincie.",
+      "cultural_significance": "Dit is het Mekong-gerichte tegenwicht voor de stad, en het verdient een volle dag als de route selectief blijft.",
+      "how_to_participate": "Vertrek vroeg, houd de stops bewerkt en stap niet te veel secundaire watervallen en rotsformaties in dezelfde dag.",
+      "insights": [
+        "Dit is de beste uitbreiding buiten de stad.",
+        "Eén serieuze Mekong-dag is sterker dan een verspreide provincie-checklist."
+      ],
+      "href": "/city/ubon-ratchathani/attractions/khong-jiam-two-color-river/",
+      "cta_label": "Zie de Mekong-daggids"
+    }
+  ],
+  "foodie_adventures": [
+    {
+      "dish": "Guay jub in donkere vijfkruidenbouillon",
+      "location": "Guay Jub Ubon",
+      "story": "MICHELIN behandelt Guay Jub Ubon nog steeds als een stadsclassic, vooral voor rijstnoedels met varkensinnards in donkere vijfkruidenbouillon.",
+      "where_to_find": "Phrommathep Road, Nai Mueang",
+      "price_range": "Budget",
+      "ordering_tips": [
+        "Dit is het sterkst als een dagtijdse stadmaaltijd, niet als een late-nacht-terugval.",
+        "Gebruik het vroeg in de stadroute."
+      ],
+      "href": "/city/ubon-ratchathani/top-10-restaurants/",
+      "cta_label": "Zie de eetgids"
+    },
+    {
+      "dish": "Vietnamese dumplings en gebakken-ei pak mor",
+      "location": "Pak Mor Robot",
+      "story": "MICHELIN framet Pak Mor Robot nog steeds als een van de definiërende kleine-eetstops van Ubon en een duidelijke uiting van de Vietnamese-invloede eetlaag van de stad.",
+      "where_to_find": "Benchama Road, Nai Mueang",
+      "price_range": "Budget",
+      "ordering_tips": [
+        "Het best als een ontbijt- of lunchstop.",
+        "Begraaf dit niet onder generieke café-aanbevelingen."
+      ],
+      "href": "/city/ubon-ratchathani/top-10-restaurants/",
+      "cta_label": "Zie de eetgids"
+    },
+    {
+      "dish": "Klassieke Isaan-lunch met gegrilde kip en rivier-vis",
+      "location": "Krua Samchai",
+      "story": "De huidige pagina van MICHELIN gebruikt Krua Samchai nog steeds als een van de meest overtuigende Isaan-benchmarks van de stad, vooral voor gegrilde kip en kruidige visgerechten.",
+      "where_to_find": "Phalochai Road, Nai Mueang",
+      "price_range": "Middenklasse",
+      "ordering_tips": [
+        "Dit is een sterkere lunch of vroeg diner dan een ander generiek hotelrestaurant.",
+        "Ga met gezelschap als je meer dan één signatuur-gerecht wilt proeven."
+      ],
+      "href": "/city/ubon-ratchathani/top-10-restaurants/",
+      "cta_label": "Zie de eetgids"
+    },
+    {
+      "dish": "Som tum en diepere Isaan-smaken",
+      "location": "Som Tum Jinda en Santi Pochana",
+      "story": "MICHELIN houdt zowel Som Tum Jinda als Santi Pochana nog steeds in het spel, wat Ubon een sterkere Isaan-dinerlaag geeft dan de oude geschaafde restaurantlijst ooit had.",
+      "where_to_find": "Centraal Ubon Ratchathani",
+      "price_range": "Budget tot middenklasse",
+      "ordering_tips": [
+        "Kies er een afhankelijk van of je een som tum-specialist wilt of een bredere traditionele maaltijd.",
+        "Dit is de juiste plek om Ubon te laten smaken als Isaan."
+      ],
+      "href": "/city/ubon-ratchathani/top-10-restaurants/",
+      "cta_label": "Zie de eetgids"
+    }
+  ],
+  "local_insights": [
+    "Ubon is sterker als een grote Isaan-stad dan als een alleen-festivalbestemming.",
+    "Het museum, Wat Thung Si Mueang en Wat Phra That Nong Bua zouden voor elke buiten-Mekong-dag moeten komen.",
+    "De kaarslaag doet ertoe zelfs buiten het hoofdparadeweekend.",
+    "Khong Chiam en Pha Taem horen bij elkaar als de sterkste bewerkte natuuuitbreiding.",
+    "De eetscène is beter verankerd door huidige MICHELIN-keuzes dan door oude recensie-site-ranglijsten."
+  ],
+  "seasonal_secrets": "November tot februari is de makkelijkste algehele fit voor Ubon Ratchathani omdat stadswandelingen, tempelbezoeken en de Khong Chiam–Pha Taem-rit allemaal comfortabeler zijn. Kaarsfestival-seizoen kan een sterke reden zijn om te bezoeken tijdens de boeddhistische vasten als het echt past bij je kalender, terwijl Sam Phan Bok en andere Mekong-rotsformaties gevoeliger zijn voor waterstanden en nooit als vaste jaarronde zekerheden moeten worden behandeld.",
+  "budget_reality": {
+    "budget": "Ubon blijft beheersbaar als je de verblijf stad-eerst houdt, lokale noedel- en kleine-eetstops goed gebruikt, en slechts één echte buitenprovincie-dag doet.",
+    "mid_range": "Middenklasse-uitgaven betekenen meestal een beter stadshotel, een paar meer bewuste MICHELIN-ondersteunde maaltijden, en een privé- of semi-privé Khong Chiam–Pha Taem-dag.",
+    "luxury": "Hogere uitgaven komen meestal van grotere stadshotels of Mekong-zijde resortverblijven in plaats van non-stop premium voorraad.",
+    "money_saving_tricks": [
+      "Verblijf in de stad als tempels, musea en eten de prioriteit zijn; verplaats de basis niet tenzij de Mekong-kant het echte punt is.",
+      "Gebruik één bewerkte natuurgdag in plaats van Sam Phan Bok, Pha Taem, watervallen en rotszuilen in hetzelfde gehaaste schema te stapelen.",
+      "Leun op MICHELIN-ondersteunde kleine eet- en lunchstops voordat je betaalt voor grotere hotel-diners."
+    ],
+    "hidden_costs": [
+      "Privévervoer voor Khong Chiam en Pha Taem kan meer kosten dan het stadsgedeelte zelf.",
+      "Proberen te veel buitenprovincie-stops in één dag te combineren voegt transportkosten toe zonder kwaliteit toe te voegen."
+    ]
+  },
+  "top_attractions": [
+    {
+      "rank": 1,
+      "name": "Ubon Ratchathani National Museum and old-center layer",
+      "description": "De beste eerste-stad-laag omdat die de bredere geschiedenis van Ubon uitlegt voordat een tempel, festival of Mekong-dag-uitbreiding de reis overneemt.",
+      "location": "Centraal Ubon Ratchathani",
+      "entrance_fee": "Museumcondities moeten lokaal worden nagecheckt.",
+      "highlights": [
+        "Nationaal Museum",
+        "Oude-binnenstad-context",
+        "Beste eerste lezing van de stad"
+      ],
+      "href": "/city/ubon-ratchathani/attractions/ubon-ratchathani-national-museum/",
+      "cta_label": "Zie de museumgids"
+    },
+    {
+      "rank": 2,
+      "name": "Wat Thung Si Mueang",
+      "description": "De duidelijkste oude-binnenstad-tempel in Ubon, vooral voor de geschriftenopslag en zijn rol in de oudere religieuze identiteit van de stad.",
+      "location": "Thung Si Mueang-kant, centraal Ubon",
+      "entrance_fee": "Tempeltoegang is over het algemeen eenvoudig; donaties zijn gebruikelijk.",
+      "highlights": [
+        "Oude-binnenstad-tempel",
+        "Geschriftenopslag",
+        "Nuttig met de stadskern"
+      ],
+      "href": "/city/ubon-ratchathani/attractions/wat-thung-si-mueang/",
+      "cta_label": "Zie de tempelgids"
+    },
+    {
+      "rank": 3,
+      "name": "Wat Phra That Nong Bua",
+      "description": "Ubons sterkste grotere-formaat stadstempel en het beste tegenwicht voor de kleinere oude-binnenstad-tempel-laag.",
+      "location": "Nong Bua-kant, Ubon Ratchathani",
+      "entrance_fee": "Tempeltoegang is over het algemeen eenvoudig; donaties zijn gebruikelijk.",
+      "highlights": [
+        "Grote chedi-landmark",
+        "Sterk stadstempel-paar",
+        "Nuttige tweede heilige stop"
+      ],
+      "href": "/city/ubon-ratchathani/attractions/wat-nong-bua/",
+      "cta_label": "Zie de Nong Bua-gids"
+    },
+    {
+      "rank": 4,
+      "name": "Candle craft and Thung Si Mueang field",
+      "description": "De beste manier om Ubons kaarstraditie te lezen zonder de stad te reduceren tot één paradeweekend.",
+      "location": "Thung Si Mueang-veld en stadscentrum",
+      "entrance_fee": "Seizoensopstelling varieert.",
+      "highlights": [
+        "Kaarsambacht-context",
+        "Festival-identiteit",
+        "Beste burgercultuur-laag"
+      ],
+      "href": "/city/ubon-ratchathani/attractions/candle-festival-venue/",
+      "cta_label": "Zie de kaarsgids"
+    },
+    {
+      "rank": 5,
+      "name": "Khong Chiam and the Two-Color River",
+      "description": "De schoonste buitenstad-Mekong-uitbreiding omdat de stad en het samenstroompunt helpen om de oostelijke kant van de provincie zinvol te maken als één route.",
+      "location": "Khong Chiam District",
+      "entrance_fee": "Openbare uitzichttoegang varieert per stop.",
+      "highlights": [
+        "Twee-Kleurige Rivier-uitzichtpunt",
+        "Khong Chiam-stad-context",
+        "Beste Mekong-zijde-uitbreiding"
+      ],
+      "href": "/city/ubon-ratchathani/attractions/khong-jiam-two-color-river/",
+      "cta_label": "Zie de Khong Chiam-gids"
+    },
+    {
+      "rank": 6,
+      "name": "Pha Taem National Park",
+      "description": "De sterkste serieuze natuurgdag vanuit Ubon omdat de klif-schilderingen, zonsopgangpunt en rotsformaties de provincie één echt landschaps-tegenwicht voor de stad geven.",
+      "location": "Khong Chiam District, Ubon Ratchathani",
+      "entrance_fee": "Nationale-parkkosten en huidige condities moeten lokaal worden nagecheckt.",
+      "highlights": [
+        "Prehistorische rots-schilderingen",
+        "Thailand's eerste zonsopgangpunt",
+        "Beste volle natuurgdag"
+      ],
+      "href": "/city/ubon-ratchathani/attractions/pha-taem-national-park/",
+      "cta_label": "Zie de Pha Taem-gids"
+    }
+  ],
+  "top_restaurants": [
+    {
+      "rank": 1,
+      "name": "Guay Jub Ubon",
+      "description": "De duidelijkste eerste-stop noedel-classic in de stad als je wilt dat Ubons eetidentiteit begint met iets echt gevestigds.",
+      "location": "7 Phrommathep Road, Nai Mueang",
+      "price_range": "Budget",
+      "highlights": [
+        "MICHELIN straateet-keuze",
+        "Donkere vijfkruidenbouillon",
+        "Beste dagstart met noedels"
+      ],
+      "href": "/city/ubon-ratchathani/top-10-restaurants/",
+      "cta_label": "Bekijk de eetgids"
+    },
+    {
+      "rank": 2,
+      "name": "Pak Mor Robot",
+      "description": "Een van de sterkste stops voor kleine hapjes in Ubon, omdat de stad nog duidelijk doorklinkt in zijn Vietnamese dumpling-traditie.",
+      "location": "82 Benchama Road, Nai Mueang",
+      "price_range": "Budget",
+      "highlights": [
+        "MICHELIN-keuze voor kleine hapjes",
+        "Vietnamese dumplings",
+        "Beste stop voor ontbijt of lunch"
+      ],
+      "href": "/city/ubon-ratchathani/top-10-restaurants/",
+      "cta_label": "Bekijk de eetgids"
+    },
+    {
+      "rank": 3,
+      "name": "Krua Samchai",
+      "description": "De sterkste bredere Isaan-lunch in de stad als gegrilde kip, rivier-vis en echte regionale gerechten belangrijker zijn dan gepolijst generiek dineren.",
+      "location": "282/1 Phalochai Road, Nai Mueang",
+      "price_range": "Middenklasse",
+      "highlights": [
+        "MICHELIN Isaan-keuze",
+        "Gegrilde kip en rivier-vis",
+        "Sterke keuze voor groepsmaaltijd"
+      ],
+      "href": "/city/ubon-ratchathani/top-10-restaurants/",
+      "cta_label": "Bekijk de eetgids"
+    },
+    {
+      "rank": 4,
+      "name": "Som Tum Jinda",
+      "description": "Een duidelijke Isaan-specialist als je som tum en scherpere noordoostelijke smaken als middelpunt van de maaltijd wilt.",
+      "location": "63/1-2 Phichit Rangsan Road, Nai Mueang",
+      "price_range": "Budget tot middenklasse",
+      "highlights": [
+        "MICHELIN Bib Gourmand",
+        "Som tum-specialist",
+        "Sterke benchmark voor downtown-smaken"
+      ],
+      "href": "/city/ubon-ratchathani/top-10-restaurants/",
+      "cta_label": "Bekijk de eetgids"
+    },
+    {
+      "rank": 5,
+      "name": "Santi Pochana",
+      "description": "Een sterkere traditionele stadmaaltijd als je voorbij noedels en papajasalade wilt gaan zonder Ubons lokale kookgebied te verlaten.",
+      "location": "101-107 Chawala Nok Road, Nai Mueang",
+      "price_range": "Middenklasse",
+      "highlights": [
+        "MICHELIN-erkende stadsklassieker",
+        "Bredere traditionele menukaart",
+        "Nuttig tegenwicht voor diner"
+      ],
+      "href": "/city/ubon-ratchathani/top-10-restaurants/",
+      "cta_label": "Bekijk de eetgids"
+    },
+    {
+      "rank": 6,
+      "name": "Chomjan",
+      "description": "De beste riviergerichte dineroptie als je nog één gepolijste maaltijd wilt zonder lokale vis en Thais-Isaan-context te verlaten.",
+      "location": "119/1 Mu 8, Niwatwithi Road, Kham Nam Saep, Warin Chamrap",
+      "price_range": "Middenklasse",
+      "highlights": [
+        "MICHELIN Thaise keuze",
+        "Mun River-setting",
+        "Goede dineroptie aan de zonsondergangkant"
+      ],
+      "href": "/city/ubon-ratchathani/top-10-restaurants/",
+      "cta_label": "Bekijk de eetgids"
+    }
+  ],
+  "top_hotels": [
+    {
+      "rank": 1,
+      "name": "HOP INN Ubon Ratchathani",
+      "description": "De meest voorspelbare budget-stadshub als je een schone kamer en een eenvoudige korte Ubon-verblijf wilt zonder het hotel als hoofdonderdeel te maken.",
+      "price_range": "Budget",
+      "category": "budget",
+      "area": "Chaeramae / stadscentrumkant",
+      "highlights": [
+        "Officiële hotelpagina",
+        "Dicht bij het stadscentrum",
+        "Eenvoudig budgetformaat"
+      ]
+    },
+    {
+      "rank": 2,
+      "name": "B2 Ubon Premier Hotel",
+      "description": "Een praktisch stadshotel als parkeren, eenvoudige wegtoegang en een voorspelbare moderne kamer belangrijker zijn dan boetiekkarakter.",
+      "price_range": "Budget tot middenklasse",
+      "category": "budget",
+      "area": "Mueang Road, Nai Mueang",
+      "highlights": [
+        "Officiële hotelpagina",
+        "Gratis Wi-Fi op de directe site",
+        "Nuttige wegkant-stadshub"
+      ]
+    },
+    {
+      "rank": 3,
+      "name": "Centara Ubon",
+      "description": "Het sterkste grotere formaat stadsovernachting als je een gepolijster hotel wilt met luchthaven- en winkelgemak aan de zuidelijke Isaan-stadskant.",
+      "price_range": "Middenklasse tot bovengemiddeld middenklasse",
+      "category": "middenklasse",
+      "area": "Central Ubon / luchthavenkant",
+      "highlights": [
+        "Officiële Centara-bron",
+        "Dicht bij Central Ubon",
+        "Luchthaven-gemak met volledige service-optie"
+      ]
+    },
+    {
+      "rank": 4,
+      "name": "Tohsang Heritage Khongjiam",
+      "description": "De beste Mekong-kant overnachting als de Khong Chiam- en Pha Taem-dag centraal genoeg is om aan de rivierkant te slapen in plaats van in de stad.",
+      "price_range": "Middenklasse tot bovengemiddeld middenklasse",
+      "category": "resort",
+      "area": "Khong Chiam / Mekong-kant",
+      "highlights": [
+        "Officiële eigendom bron",
+        "Mekong River-uitzicht",
+        "Beste voor een Khong Chiam-basis"
+      ]
+    }
+  ],
+  "travel_tips": [
+    "Doe de stad eerst. Ubon wordt zwakker als museum, tempels en eten worden uitgesteld tot na de dag in de buitenwijken.",
+    "Behoud de kaarsentraditie als een stadlaag, zelfs als je niet tijdens het hoofd festival bezoekt.",
+    "Gebruik Khong Chiam en Pha Taem als één geredigeerde Mekong-dag in plaats van elke rotsformatie en waterval in de provincie op te stapelen.",
+    "Laat MICHELIN's keuzes voor kleine hapjes en Isaan leiden voor de eetlaag in plaats van generieke recensie-site rankings.",
+    "Als rivierniveaus belangrijk zijn voor een Sam Phan Bok toevoeging, controleer dan de huidige lokale omstandigheden voordat je committeert."
+  ],
+  "best_time_to_visit": "November tot februari is het makkelijkste seizoen voor Ubon Ratchathani omdat stadswandelingen, tempelbezoeken en de rit naar Khong Chiam en Pha Taem allemaal comfortabeler zijn. Festival timing kan een bonus zijn tijdens Boeddhistische Lent, maar behandel het als een echt kalenderafhankelijk evenement in plaats van een permanente achtergrondclaim.",
+  "bestTimeToVisit": "November tot februari is de veiligste allround fit voor Ubon. De stad werkt het hele jaar, maar de buiten-Mekong-dag en waterniveau-gevoelige rotsformaties zijn makkelijker te plannen in de koelere maanden.",
+  "budget_info": {
+    "budget_per_day": "Budget",
+    "midrange_per_day": "Middenklasse",
+    "luxury_per_day": "Hogere uitgaven"
+  },
+  "thingsToDo": "Begin met het museum en de oude-centrumlaag, voeg Wat Thung Si Mueang en Wat Phra That Nong Bua toe, gebruik één eet-zware stadavond, en committeer dan één volle dag aan Khong Chiam en Pha Taem als je de sterkste buitenuitbreiding wilt.",
+  "whereToStay": "Verblijf in de stad als tempels, musea, eten en de kaarslaag de echte prioriteit zijn. Verplaats naar Khong Chiam alleen als de Mekong-kant overnachting centraal genoeg is om de stadshub achter te laten.",
+  "whereToEat": [
+    {
+      "name": "Guay Jub Ubon",
+      "cuisine": "Straatvoedsel noedels",
+      "priceRange": "Budget",
+      "description": "Een klassieke guay jub-beker in donkere vijfkruidenbouillon."
+    },
+    {
+      "name": "Pak Mor Robot",
+      "cuisine": "Kleine hapjes en Vietnamese dumplings",
+      "priceRange": "Budget",
+      "description": "Een stadsklassieker voor Vietnamees geïnfluenceerde dumplings."
+    },
+    {
+      "name": "Krua Samchai",
+      "cuisine": "Isaan",
+      "priceRange": "Middenklasse",
+      "description": "Een sterkere bredere Isaan-lunch en vroege-dinerstop."
+    },
+    {
+      "name": "Som Tum Jinda",
+      "cuisine": "Isaan",
+      "priceRange": "Budget tot middenklasse",
+      "description": "Een specialist in som tum en scherpere noordoostelijke smaken."
+    },
+    {
+      "name": "Chomjan",
+      "cuisine": "Thais en Isaan",
+      "priceRange": "Middenklasse",
+      "description": "Een riviergerichte dinerkeuze met lokale vis en bredere menudiepte."
+    }
+  ],
+  "topHotels": [
+    {
+      "name": "HOP INN Ubon Ratchathani",
+      "category": "budget",
+      "priceRange": "Budget",
+      "area": "Chaeramae / stadscentrumkant",
+      "description": "Een voorspelbare budgetketen dicht bij het stadscentrum."
+    },
+    {
+      "name": "B2 Ubon Premier Hotel",
+      "category": "budget",
+      "priceRange": "Budget tot middenklasse",
+      "area": "Nai Mueang",
+      "description": "Een praktische stadshub met parkeren en directe-site duidelijkheid."
+    },
+    {
+      "name": "Centara Ubon",
+      "category": "middenklasse",
+      "priceRange": "Middenklasse tot bovengemiddeld middenklasse",
+      "area": "Central Ubon / luchthavenkant",
+      "description": "Een gepolijster full-service stadshotel."
+    },
+    {
+      "name": "Tohsang Heritage Khongjiam",
+      "category": "resort",
+      "priceRange": "Middenklasse tot bovengemiddeld middenklasse",
+      "area": "Khong Chiam",
+      "description": "Een Mekong-kant resortverblijf als de buitendag een overnachting wordt."
+    }
+  ],
+  "gettingAround": "Het stadscentrum is beheersbaar met korte lokale ritten zodra je bij het museum en de Wat Thung Si Mueang-kant bent. Wat Phra That Nong Bua is een aparte stedelijke etappe, en Khong Chiam plus Pha Taem moet worden behandeld als een echte buitenstedelijke dag met toegewijde transport.",
+  "safetyTips": "Ubon zelf is eenvoudig, maar de gebruikelijke gezond verstand geldt nog steeds in markten en tempelterreinen. Voor de Mekong-dag, vertrouw niet op oude statische aannames over waterniveaus, routecondities of daglicht timing rond viewpoints en rotsformaties.",
+  "faq": [
+    {
+      "question": "Is Ubon Ratchathani een bezoek waard buiten het Kaarsfestival-seizoen?",
+      "answer": "Ja. De stad heeft genoeg gewicht door zijn museum, tempels, eetscene en één sterke Mekong-kant dag, zelfs zonder het hoofd festival weekend."
+    },
+    {
+      "question": "Wat moet je eerst doen in Ubon Ratchathani?",
+      "answer": "Begin met het nationale museum en de oude-centrumlaag, ga dan naar Wat Thung Si Mueang en de stadseetroute voordat je beslist over de buitendag."
+    },
+    {
+      "question": "Is Pha Taem het waard om vanuit Ubon stad te doen?",
+      "answer": "Ja, vooral als je het combineert met Khong Chiam als één bewuste Mekong-dag. Het is de sterkste buiten-stad uitbreiding als je de route selectief houdt."
+    },
+    {
+      "question": "Moet je in de stad of in Khong Chiam verblijven?",
+      "answer": "Verblijf in de stad als Ubons tempels, eten en museum het belangrijkste zijn. Verblijf in Khong Chiam alleen als de Mekong-kant overnachting het echte punt is van dat deel van de reis."
+    },
+    {
+      "question": "Welk eten moet je prioriteren in Ubon?",
+      "answer": "Prioriteer guay jub, Vietnamese dumplings, echte Isaan-lunchgerechten, som tum en één sterkere Thais-Isaan diner gesteund door MICHELIN's huidige Ubon-selectie."
+    }
+  ],
+  "practicalInfo": {
+    "bestMonths": [
+      "Nov",
+      "Dec",
+      "Jan",
+      "Feb"
+    ],
+    "nearestAirport": "Ubon Ratchathani Airport",
+    "travelTimeFromAirport": "Luchthaven timing varieert per hotelgebied, maar de stad en luchthaven zijn dichtbij genoeg voor een praktische stedelijke hub.",
+    "localTransport": [
+      "Korte lokale ritten werken het best in het stadscentrum.",
+      "Wandelen is nuttig zodra je in de museum- en oude-centrumzone bent.",
+      "Privétransport is de praktische fit voor Khong Chiam en Pha Taem.",
+      "Behandel buitenprovincie-natuur routes als een volle dag transportblok."
+    ],
+    "arrival": "Ubon Ratchathani blijft een van de makkelijkste Isaan-steden om als echte stedelijke hub te gebruiken omdat de luchthaven en stad nauw verbonden zijn.",
+    "transport": "Scheid stadstijd van de buiten-Mekong-dag in plaats van ze te mengen in één lange gehaaste lus.",
+    "planning": "Denk in drie lagen: stadserfgoed eerst, eten en kaarsidentiteit tweede, dan één selectieve Mekong-natuurdag."
+  },
+  "contentSources": [
+    {
+      "type": "provincie",
+      "title": "Ubon Ratchathani Provincie Pagina",
+      "creator": "Tourism Authority of Thailand",
+      "url": "https://www.tourismthailand.org/Destinations/Provinces/ubon-ratchathani/587",
+      "description": "Gebruikt voor de provincie framing, Kaarsfestival positionering, Pha Taem, Sam Pan Boak, en de bredere Ubon stad-versus-Mekong structuur."
+    },
+    {
+      "type": "museum",
+      "title": "Ubon Ratchathani National Museum",
+      "creator": "Fine Arts Department",
+      "url": "https://finearts.go.th/ubonmuseum",
+      "description": "Gebruikt als officiële referentie voor het museum en stadsgeschiedenislaag."
+    },
+    {
+      "type": "reisgids",
+      "title": "Mekong, A River for Indochina",
+      "creator": "Tourism Authority of Thailand / Tourism Product",
+      "url": "https://tourismproduct.tourismthailand.org/wp-content/uploads/2023/01/ASEAN-HT_3_Mekong_Online-Spread144.pdf",
+      "description": "Gebruikt voor Wat Thung Si Mueang, Wat Supattanaram, en de bredere tempel-stad framing."
+    },
+    {
+      "type": "natuur",
+      "title": "Pha Taem National Park",
+      "creator": "Tourism Product Division, Tourism Authority of Thailand",
+      "url": "https://tourismproduct.tourismthailand.org/en/2025/06/20/%E0%B8%AD%E0%B8%B8%E0%B8%97%E0%B8%A2%E0%B8%B2%E0%B8%99%E0%B9%81%E0%B8%AB%E0%B9%88%E0%B8%87%E0%B8%8A%E0%B8%B2%E0%B8%95%E0%B8%B4%E0%B8%9C%E0%B8%B2%E0%B9%81%E0%B8%95%E0%B9%89%E0%B8%A1-2/",
+      "description": "Gebruikt voor de huidige park-niveau framing rond prehistorische schilderijen, zonsopgangpunten en geologische kenmerken."
+    },
+    {
+      "type": "reisgids",
+      "title": "Ontdek de E-Sarn regio met een onvergetelijke reis naar Ubon Ratchathani",
+      "creator": "Divisie Toerismeproducten, Tourism Authority of Thailand",
+      "url": "https://tourismproduct.tourismthailand.org/en/2023/01/27/explore-the-e-sarn-region-with-a-memorable-trip-to-ubon-ratchathani/",
+      "description": "Gebruikt voor Sam Pan Bok en de bewerkte route langs de Mekong."
+    },
+    {
+      "type": "reisgids",
+      "title": "5 Inspirerende Bestemmingen, Hoogtepunt Bezienswaardigheden en Must-Do Activiteiten",
+      "creator": "Divisie Toerismeproducten, Tourism Authority of Thailand",
+      "url": "https://tourismproduct.tourismthailand.org/en/2024/07/02/5-%E0%B8%AA%E0%B8%96%E0%B8%B2%E0%B8%99%E0%B8%97%E0%B8%B5%E0%B9%88%E0%B9%80%E0%B8%97%E0%B8%B5%E0%B9%88%E0%B8%A2%E0%B8%A7%E0%B9%81%E0%B8%99%E0%B8%A7%E0%B8%84%E0%B8%B4%E0%B8%94%E0%B8%94%E0%B8%B5-2-2/",
+      "description": "Gebruikt voor de betere framing van het district aan de Khong Chiam-kant, verder dan alleen Pha Taem."
+    },
+    {
+      "type": "restaurant",
+      "title": "Guay Jub Ubon",
+      "creator": "MICHELIN Guide",
+      "url": "https://guide.michelin.com/us/en/ubon-ratchathani-province/ubon-ratchathani/restaurant/guay-jub-ubon",
+      "description": "Gebruikt als anker voor de klassieke guay jub-noedels in de stad."
+    },
+    {
+      "type": "restaurant",
+      "title": "Pak Mor Robot",
+      "creator": "MICHELIN Guide",
+      "url": "https://guide.michelin.com/en/ubon-ratchathani-province/ubon-ratchathani/restaurant/pak-mor-robot",
+      "description": "Gebruikt voor de laag met Vietnamese dumplings en kleine gerechten."
+    },
+    {
+      "type": "restaurant",
+      "title": "Krua Samchai",
+      "creator": "MICHELIN Guide",
+      "url": "https://guide.michelin.com/us/en/ubon-ratchathani-province/ubon-ratchathani/restaurant/krua-samchai",
+      "description": "Gebruikt voor de basislaag met Isaan-lunch en gegrilde kip."
+    },
+    {
+      "type": "restaurant",
+      "title": "Som Tum Jinda",
+      "creator": "MICHELIN Guide",
+      "url": "https://guide.michelin.com/us/en/ubon-ratchathani-province/ubon-ratchathani/restaurant/som-tum-jinda",
+      "description": "Gebruikt voor de som tum specialist en Bib Gourmand laag."
+    },
+    {
+      "type": "restaurant",
+      "title": "Santi Pochana",
+      "creator": "MICHELIN Guide",
+      "url": "https://guide.michelin.com/us/en/ubon-ratchathani-province/ubon-ratchathani/restaurant/santi-pochana",
+      "description": "Gebruikt voor de bredere laag met traditionele stadsgerechten."
+    },
+    {
+      "type": "restaurant",
+      "title": "Chomjan",
+      "creator": "MICHELIN Guide",
+      "url": "https://guide.michelin.com/us/en/ubon-ratchathani-province/ubon-ratchathani/restaurant/chomjan",
+      "description": "Gebruikt voor de laag met diners aan de Mun River."
+    },
+    {
+      "type": "luchthaven",
+      "title": "Ubon Luchthaven Verkeer en Officiële Luchthaven Netwerk Referentie",
+      "creator": "Departement van Luchthavens",
+      "url": "https://doa.airports.go.th/upload/download/file_c895333f291d187b42ac0882587ff8da.pdf",
+      "description": "Gebruikt als actuele officiële referentie voor het luchthavennetwerk voor de status van Ubon en Udon luchthavens binnen het systeem van het Departement van Luchthavens."
+    },
+    {
+      "type": "hotel",
+      "title": "HOP INN Ubon Ratchathani",
+      "creator": "HOP INN Thailand",
+      "url": "https://www.hopinnhotel.com/our-hotels/hop-inn-ubon-ratchathani",
+      "description": "Gebruikt voor de huidige budget-stad hotel optie en nabijheid van het stadscentrum."
+    },
+    {
+      "type": "hotel",
+      "title": "B2 Ubon Premier Hotel",
+      "creator": "B2 Boutique and Budget Hotels",
+      "url": "https://www.b2hotel.com/ubon-ratchathani/b2-ubon-premier-hotel/",
+      "description": "Gebruikt voor de officiële locatie en Wi-Fi-ondersteunde positionering als stadshotel."
+    },
+    {
+      "type": "hotel",
+      "title": "Officiële Opening van Centara Ubon",
+      "creator": "Centara Hotels & Resorts",
+      "url": "https://www.centarahotelsresorts.com/centara/centara-spotlight/official-opening-of-centara%20-ubon",
+      "description": "Gebruikt voor de officiële positionering van Centara Ubon als stadshotel nabij Central Ubon en de luchthavenkant."
+    },
+    {
+      "type": "hotel",
+      "title": "Tohsang Heritage Khongjiam",
+      "creator": "Tohsang Heritage",
+      "url": "https://www.tohsang.com/tohsang-heritage-khongjiam/",
+      "description": "Gebruikt voor de resort optie aan de Mekong-kant in Khong Chiam."
+    }
+  ],
+  "reviewed_by": "Redactieteam van Go2Thailand",
+  "enhanced_at": "2026-03-27T14:10:00.000Z",
+  "factchecked_at": "2026-03-27T14:10:00.000Z",
+  "enrichedAt": "2026-03-27T14:10:00.000Z"
+}

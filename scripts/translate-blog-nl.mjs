@@ -19,8 +19,10 @@ import OpenAI from 'openai';
 
 const __dirname = path.dirname(fileURLToPath(import.meta.url));
 const ROOT = path.resolve(__dirname, '..');
-const EN_DIR = path.join(ROOT, 'content/blog/en');
-const NL_DIR = path.join(ROOT, 'content/blog/nl');
+const argsRaw = process.argv.slice(2);
+const getArgRaw = (flag, def) => { const i = argsRaw.indexOf(flag); return i >= 0 ? argsRaw[i + 1] : def; };
+const EN_DIR = path.join(ROOT, getArgRaw('--src-dir', 'content/blog/en'));
+const NL_DIR = path.join(ROOT, getArgRaw('--out-dir', 'content/blog/nl'));
 
 // Load .env.local
 const envPath = path.join(ROOT, '.env.local');

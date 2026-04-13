@@ -429,7 +429,7 @@ export const getStaticPaths: GetStaticPaths = async () => {
 
 export const getStaticProps: GetStaticProps = async ({ params, locale }) => {
   const slug = params?.slug as string;
-  const city = getCityBySlug(slug);
+  const city = getCityBySlug(slug, locale);
 
   if (!city) return { notFound: true };
 

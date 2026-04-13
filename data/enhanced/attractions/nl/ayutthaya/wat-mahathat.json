@@ -1,0 +1,108 @@
+{
+  "id": 2,
+  "slug": "wat-mahathat",
+  "name": {
+    "en": "Wat Mahathat",
+    "nl": "Wat Mahathat"
+  },
+  "type": "tempel",
+  "city_slug": "ayutthaya",
+  "address": "Chikun Road, Phra Nakhon Si Ayutthaya",
+  "location": {
+    "lat": 14.3569,
+    "lng": 100.5681
+  },
+  "opening_hours": "08:00-18:00",
+  "entrance_fee": {
+    "thb": 50,
+    "usd": 1
+  },
+  "description": {
+    "en": "Famous temple ruins with Buddha head entwined in tree roots",
+    "nl": "Beroemde tempelruïnes met Boeddhahoofd verweven in boomwortels"
+  },
+  "highlights": [
+    "Boeddhakop in boom",
+    "Oude ruïnes",
+    "Iconische fotoplek",
+    "Historische tempel"
+  ],
+  "image": "/images/cities/ayutthaya/attractions/Wat Mahathat temple, Thailand.webp",
+  "official_website": null,
+  "seo": {
+    "metaTitle": {
+      "en": "Wat Mahathat - Top Attraction in Ayutthaya | Go2Thailand",
+      "nl": "Wat Mahathat - Top Attractie in Ayutthaya | Go2Thailand"
+    },
+    "metaDescription": {
+      "en": "Discover Wat Mahathat in Ayutthaya. Famous temple ruins with Buddha head entwined in tree roots...",
+      "nl": "Ontdek Wat Mahathat in Ayutthaya. Beroemde tempelruïnes met Boeddhahoofd verweven in boomwortels..."
+    }
+  },
+  "tags": [
+    "tempel",
+    "ayutthaya",
+    "thailand",
+    "bezienswaardigheid",
+    "reizen",
+    "toerisme"
+  ],
+  "enhanced_description": "Wat Mahathat is een van de kenmerkende ruïnes van Ayutthaya en de bekendste tempel van de stad voor eerste bezoekers. De locatie is beroemd om de Boeddhakop in boomwortels, maar het is ook belangrijk als onderdeel van de historische tempelkern die de oude hoofdstad vormde.",
+  "detailed_history": "Go Ayutthaya plaatst Wat Mahathat binnen het historische park en behandelt het als een belangrijke tempellocatie in de oude stad. De resten helpen om de religieuze en politieke schaal van Ayutthaya uit te leggen toen de hoofdstad op zijn hoogtepunt was.",
+  "visitor_experience": "Verwacht open ruïnes, korte wandellussen en een compact bezoek dat goed past bij nabijgelegen tempels in het historische park. De locatie is het beste langzaam te verkennen in plaats van alleen als snelle fotostop.",
+  "best_time_to_visit": {
+    "time_of_day": "De ochtend is het beste voor koelere temperaturen en zachter licht.",
+    "duration": "1 tot 2 uur wordt aanbevolen om de locatie volledig te beleven.",
+    "crowd_level": "Ochtenden zijn minder druk, terwijl middagen vol kunnen zitten met toeristen. Een bezoek op weekdagen helpt ook om drukte te vermijden."
+  },
+  "photography_tips": [
+    "De beste fotoplekken zijn de Boeddhakop in de boom en de omliggende ruïnes.",
+    "Vroeg in de ochtend biedt het zachtste licht en minder mensen.",
+    "Gebruik de locatie als onderdeel van een bredere route door het historische park in plaats van als losse stop.",
+    "Respecteer fotografiebeperkingen en tempel-etiquette."
+  ],
+  "practical_info": {
+    "how_to_get_there": "Wat Mahathat ligt binnen het Ayutthaya Historical Park. Het is bereikbaar per tuk-tuk, fiets of te voet als je in de buurt verblijft. Vanuit het Ayutthaya treinstation is het ongeveer 10 minuten rijden.",
+    "nearby_attractions": "1. Wat Ratchaburana, 2. Wat Phra Si Sanphet, 3. Wat Chaiwatthanaram.",
+    "food_options": "Er zijn lokale straatkraampjes met eten in de buurt, evenals restaurants die traditionele Thaise gerechten serveren op loopafstand.",
+    "shopping": "Bekijk lokale markten voor souvenirs, vooral die met handgemaakte ambachten en traditionele items."
+  },
+  "insider_tips": [
+    "Bezoek vroeg in de ochtend om de grootste drukte te vermijden.",
+    "Combineer het met Wat Ratchaburana of de bredere route door het historische park.",
+    "Kleed je respectvol en houd het bezoek gericht op het erfgoed in plaats van op sociale media.",
+    "Draag comfortabele schoenen omdat de grond oneffen is."
+  ],
+  "seasonal_considerations": "In het droge seizoen (november tot februari) is het weer aangenaam voor een bezoek. Tijdens het regenseizoen (mei tot oktober) kan de tempel rustiger zijn, maar met modderige paden. Elk seizoen biedt een andere sfeer, dus overweeg je voorkeuren.",
+  "accessibility": "Hoewel de hoofdgebieden van Wat Mahathat toegankelijk zijn, kunnen oneffen terreinen uitdagingen vormen voor bezoekers met mobiliteitsproblemen. Het is aan te raden om met een begeleider te bezoeken die kan helpen.",
+  "cultural_significance": "Wat Mahathat is een van de duidelijkste symbolen van de religieuze en architectonische importantie van Ayutthaya.",
+  "fun_facts": [
+    "De Boeddhakop in boomwortels is een van de bekendste beelden van Ayutthaya.",
+    "Wat Mahathat ligt in de historische kern van de oude hoofdstad.",
+    "Het blijft een van de meest bezochte ruïnes in de stad."
+  ],
+  "contentSources": [
+    {
+      "type": "official heritage",
+      "title": "Historic City of Ayutthaya",
+      "creator": "UNESCO World Heritage Centre",
+      "url": "https://whc.unesco.org/en/list/576/",
+      "description": "Used for the UNESCO heritage framing of the old capital."
+    },
+    {
+      "type": "official tourism",
+      "title": "Wat Mahathat, Phra Nakhon Si Ayutthaya",
+      "creator": "Go Ayutthaya",
+      "url": "https://go.ayutthaya.go.th/en/tourist-attraction/wat-mahathat-phra-nakhon-si-ayutthaya/",
+      "description": "Used for temple context and local tourism framing."
+    },
+    {
+      "type": "official tourism",
+      "title": "Ayutthaya destination page",
+      "creator": "Tourism Authority of Thailand",
+      "url": "https://www.tourismthailand.org/Destinations/Ayutthaya",
+      "description": "Used for city-level context."
+    }
+  ],
+  "enhanced_at": "2025-05-25T22:35:52.157Z"
+}

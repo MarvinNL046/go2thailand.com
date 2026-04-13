@@ -377,9 +377,9 @@ export const getStaticPaths: GetStaticPaths = async () => {
   return { paths: [], fallback: 'blocking' };
 };
 
-export const getStaticProps: GetStaticProps = async ({ params }) => {
+export const getStaticProps: GetStaticProps = async ({ params, locale }) => {
   const slug = params?.slug as string;
-  const city = getCityBySlug(slug);
+  const city = getCityBySlug(slug, locale);
   if (!city) return { notFound: true };
 
   // Get hotel data for the city

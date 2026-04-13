@@ -1,0 +1,76 @@
+{
+  "id": 1,
+  "slug": "udon-thani-museum",
+  "name": {
+    "en": "Udon Thani Museum",
+    "nl": "Udon Thani Museum"
+  },
+  "type": "museum",
+  "city_slug": "udon-thani",
+  "address": "Pho Sri Road-gebied, centraal Udon Thani",
+  "location": null,
+  "opening_hours": "Controleer de museumregelingen vlak voor je bezoek als je op exacte tijden rekent voor diezelfde dag.",
+  "entrance_fee": {
+    "thb": null,
+    "usd": null
+  },
+  "description": {
+    "en": "The strongest first-stop city layer because it gives Udon historical and civic context before outer-day logistics take over.",
+    "nl": "De sterkste eerste stadslaag omdat die Udon historische en civiele context geeft voordat buitenstedelijke dagtochten het overnemen."
+  },
+  "highlights": [
+    "Historisch museumgebouw",
+    "Beste eerste kennismaking met de stad",
+    "Combineert goed met Nong Prajak"
+  ],
+  "image": "/images/cities/generated/udon-thani.webp",
+  "seo": {
+    "metaTitle": {
+      "en": "Udon Thani Museum | Go2Thailand",
+      "nl": "Udon Thani Museum | Go2Thailand"
+    },
+    "metaDescription": {
+      "en": "Why Udon Thani Museum is the right first-stop layer for understanding the city.",
+      "nl": "Waarom Udon Thani Museum de juiste eerste stop is om de stad te begrijpen."
+    }
+  },
+  "tags": [
+    "udon-thani",
+    "museum",
+    "isaan"
+  ],
+  "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=Udon%20Thani%20Museum",
+  "best_time": "Ochtend of late namiddag",
+  "duration_hours": 1.5,
+  "enhanced_description": "Het Udon Thani Museum is dé stop die de stad coherent houdt, weg van de losse hype rond het lotus-seizoen en dagtrips naar buiten. Begin hier, en de rest valt op zijn plek: Nong Prajak als het ware publieke hart, de lokale eetscene met echte roots, en Ban Chiang plus Phu Phrabat als natuurlijke uitbreidingen van de stad zelf.",
+  "detailed_history": "De huidige Udon-stadsinfo van Tourism Thailand zet het museum nog in de kernroute van de stad, en dat is cruciaal: het geeft Udon een stevige historische basis in plaats van alleen seizoensbloemenpraat en standaard poort-tot-Isaan taal.",
+  "visitor_experience": "Verwacht geen reusachtig museum voor een hele dag, maar een compact stadsmuseum. Perfect als startpunt voor een route door centraal Udon, gevolgd door Nong Prajak en een lekkere eetstop.",
+  "best_time_to_visit": {
+    "time_of_day": "Ochtend of late namiddag",
+    "duration": "Ongeveer 60 tot 90 minuten",
+    "crowd_level": "Meestal rustig"
+  },
+  "practical_info": {
+    "how_to_get_there": "Vanuit het centrum van Udon gemakkelijk per korte rit, of als onderdeel van een rondje door de stadskern.",
+    "nearby_attractions": "Nong Prajak Public Park en de omliggende eetgelegenheden in het stadscentrum.",
+    "food_options": "Plan een stop voor Vietnamees eten of noedels voor of na het museumbezoek.",
+    "shopping": "Focus op het erfgoed, niet op winkelen."
+  },
+  "insider_tips": [
+    "Begin hier als je de stad snel een logisch geheel wilt ervaren.",
+    "Combineer het met Nong Prajak, in plaats van het museum als een geïsoleerd uitje te zien.",
+    "Check de actuele openingstijden, want die kunnen veranderen."
+  ],
+  "verified_note": "Samenvatting gesteund door bronnen, gebaseerd op de huidige Tourism Thailand info over centraal Udon Thani.",
+  "cultural_significance": "Het museum is belangrijk omdat het Udon neerzet als een echte provinciale hoofdstad met diepe geschiedenis, niet zomaar een doorgang naar Ban Chiang, Nong Khai of de Rode Lotuszee.",
+  "contentSources": [
+    {
+      "name": "Explore Udon Thani",
+      "url": "https://www.tourismthailand.org/Articles/https-www-tourismthailand-org-articles-explore-udon-thani"
+    },
+    {
+      "name": "Udon Thani Province Page",
+      "url": "https://www.tourismthailand.org/Destinations/Provinces/Udon%20Thani/588"
+    }
+  ]
+}

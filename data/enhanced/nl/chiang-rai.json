@@ -1,0 +1,864 @@
+{
+  "id": 7,
+  "slug": "chiang-rai",
+  "name": {
+    "en": "Chiang Rai",
+    "nl": "Chiang Rai",
+    "ja": "チェンライ",
+    "ko": "치앙라이",
+    "th": "เชียงราย",
+    "de": "Chiang Rai",
+    "fr": "Chiang Rai",
+    "ru": "Chiang Rai",
+    "zh": "清莱"
+  },
+  "region": "Noordelijk",
+  "province": "Chiang Rai",
+  "description": {
+    "en": "Northern Thailand's art-and-border gateway, known for the White Temple, Blue Temple, riverside hotels, night bazaar evenings, and day trips toward Doi Tung and the Golden Triangle.",
+    "nl": "De noordelijke kunst- en grensgateway van Thailand, bekend om de Witte Tempel, Blauwe Tempel, rivierhotels, avondmarkten en dagtrips naar Doi Tung en de Gouden Driehoek.",
+    "ja": "ホワイトテンプル、ブルーテンプル、川沿いのホテル、ナイトバザール、ドイトゥンやゴールデントライアングルへの日帰り旅で知られる、タイ北部の玄関都市です。",
+    "ko": "화이트 템플, 블루 템플, 강변 호텔, 나이트 바자, 도이퉁과 골든 트라이앵글 당일치기로 알려진 태국 북부의 관문 도시입니다.",
+    "th": "ประตูสู่ภาคเหนือและเขตชายแดน โดดเด่นเรื่องวัดร่องขุ่น วัดร่องเสือเต้น ไนท์บาซาร์ โรงแรมริมแม่น้ำ และทริปไปดอยตุงหรือสามเหลี่ยมทองคำ",
+    "de": "Nordthailands Kunst- und Grenzportal, bekannt für den Weißen Tempel, den Blauen Tempel, Flusshotels, den Nachtbasar und Tagesausflüge nach Doi Tung und zum Goldenen Dreieck.",
+    "fr": "La porte d'entrée artistique et frontalière du nord de la Thaïlande, connue pour le Temple Blanc, le Temple Bleu, les hôtels au bord de la rivière, le night bazaar et les excursions vers Doi Tung et le Triangle d'Or.",
+    "ru": "Северный художественный и пограничный центр Таиланда, известный Белым храмом, Синим храмом, отелями у реки, ночным базаром и поездками к Дой Тунгу и Золотому треугольнику.",
+    "zh": "泰国北部兼具艺术与边境门户气质的城市，以白庙、蓝庙、河畔酒店、夜市以及前往都统皇宫和金三角的一日游闻名。"
+  },
+  "population": 75847,
+  "highlights": [
+    "White Temple",
+    "Blue Temple",
+    "Black House",
+    "Wat Phra Kaew",
+    "Chiang Rai Night Bazaar",
+    "Golden Triangle",
+    "Doi Tung Royal Villa"
+  ],
+  "location": {
+    "lat": 19.9105,
+    "lng": 99.8406
+  },
+  "image": "/images/cities/chiang-rai/chiang-rai-temple-front.webp",
+  "seo": {
+    "metaTitle": {
+      "en": "Chiang Rai Thailand Guide 2026 | White Temple, Night Bazaar, Hotels",
+      "nl": "Ontdek Chiang Rai | Wat te doen in Chiang Rai?",
+      "ja": "チェンライ タイ — ホワイトテンプルとゴールデントライアングルの旅ガイド 2026",
+      "ko": "치앙라이 태국 — 화이트 템플과 골든 트라이앵글 가이드 2026",
+      "th": "เชียงราย ประเทศไทย — คู่มือท่องเที่ยวฉบับสมบูรณ์ 2026",
+      "de": "Chiang Rai entdecken | Was tun in Chiang Rai?",
+      "fr": "Découvrez Chiang Rai | Que faire à Chiang Rai ?",
+      "ru": "Откройте для себя Чианг Рай | Что сделать в Чианг Рае?",
+      "zh": "发现清莱 | 在清莱做什么？"
+    },
+    "metaDescription": {
+      "en": "Plan Chiang Rai better with the White-Blue-Black temple circuit, old-town nights, Golden Triangle and Doi Tung day trips, hotel picks, and food stops for 2026.",
+      "nl": "Jouw gids voor Chiang Rai, Thailand – tempels, night bazaar, hotels, eten en slimme dagtripkeuzes.",
+      "ja": "チェンライ旅行ガイド — ホワイトテンプル、ブルーテンプル、ナイトバザール、ドイトゥン、ホテルと食事情報。2026年更新。",
+      "ko": "치앙라이 가이드 — 화이트 템플, 블루 템플, 나이트 바자, 도이퉁, 호텔과 식당 정보.",
+      "th": "คู่มือท่องเที่ยวเชียงราย ประเทศไทย — วัดร่องขุ่น วัดร่องเสือเต้น ไนท์บาซาร์ ที่พัก อาหาร และเดย์ทริป อัปเดต 2026",
+      "de": "Ihr Reiseführer für Chiang Rai, Thailand – Tempel, Nachtbasar, Hotels, Essen und Tagesausflüge.",
+      "fr": "Votre guide pour Chiang Rai, Thaïlande – temples, night bazaar, hôtels, restaurants et idées d'excursions.",
+      "ru": "Ваш гид по Чианг Рай, Таиланд — храмы, ночной базар, отели, еда и лучшие однодневные поездки.",
+      "zh": "您的清莱指南——寺庙、夜市、酒店、美食以及实用一日游建议。"
+    }
+  },
+  "categories": {
+    "food": {
+      "en": "Best restaurants and street food in Chiang Rai",
+      "nl": "Beste restaurants en streetfood in Chiang Rai",
+      "ja": "チェンライのおすすめレストランとストリートフード",
+      "ko": "치앙라이 추천 레스토랑과 길거리 음식",
+      "th": "ร้านอาหารและสตรีทฟู้ดที่ดีที่สุดในเชียงราย"
+    },
+    "hotels": {
+      "en": "Top hotels in Chiang Rai | Tips & deals",
+      "nl": "Beste hotels in Chiang Rai | Tips & aanbiedingen",
+      "ja": "チェンライのおすすめホテル | ヒント＆お得情報",
+      "ko": "치앙라이 추천 호텔 | 팁 & 특가",
+      "th": "โรงแรมแนะนำในเชียงราย | เคล็ดลับและดีล"
+    },
+    "attractions": {
+      "en": "Top attractions in Chiang Rai",
+      "nl": "Top bezienswaardigheden in Chiang Rai",
+      "ja": "チェンライの人気観光スポット",
+      "ko": "치앙라이 인기 관광 명소",
+      "th": "สถานที่ท่องเที่ยวยอดนิยมในเชียงราย"
+    }
+  },
+  "tags": [
+    "noordelijk",
+    "chiang rai",
+    "white temple",
+    "blue temple",
+    "golden triangle",
+    "thailand",
+    "reizen",
+    "toerisme",
+    "gids"
+  ],
+  "enhanced_description": "Chiang Rai komt beter tot zijn recht als je het plant als een selectieve noordelijke uitvalsbasis in plaats van een vaag idee van heuvelstammen en bergen. De stad zelf biedt praktische hotels, ontspannen avonden op de night bazaar en een compact oud centrum met ankers zoals Wat Phra Kaew. Rond dat kerngebied ligt de moderne tempel- en kunstroute die de meeste eerste reizen nu definieert: Wat Rong Khun, Wat Rong Suea Ten en Baan Dam. En als je tijd hebt, opent Chiang Rai zich naar langere ritten noordwaarts naar Doi Tung of de Golden Triangle.\n\nDat onderscheid is belangrijk omdat Chiang Rai vaak wordt onderschat als een slaperig uitstapje vanuit Chiang Mai. In de praktijk werkt het beter als een eigen stop van twee of drie nachten. De TAT-materialen over Chiang Rai benadrukken nog steeds de provincie via kunst, grensgeografie en noordelijke cultuur, terwijl de officiële luchthaveninformatie bevestigt dat Mae Fah Luang Chiang Rai International Airport een eenvoudige toegangspoort blijft voor dit deel van het noorden. Wat de stad bijeenhoudt, is niet de lengte van een checklist, maar het kiezen van de juiste combinatie van tempelroute, oude-stad-avond, één eetritme en één grote dagtrip.\n\nDe grootste planningsfout is proberen alles in één lange dag te doen. White Temple, Blue Temple, Black House, Doi Tung en de Golden Triangle zijn geen varianten van dezelfde stop. Sommige zijn snelle bezoeken in de stad; andere zijn volledige ritten met hun eigen logica. Behandel Chiang Rai als een stad met een sterke stedelijke basis en een paar zorgvuldig gekozen buitenringen, en het voelt coherent in plaats van verspreid.",
+  "overview": "Chiang Rai is een van de makkelijkste noordelijke steden om verkeerd te interpreteren via sociale media. Het stadscentrum is geen reusachtig oud stadje en geen resortbestemming. Wat het goed doet, is een beheersbare basis bieden voor Noord-Thaise kunsttempel-bezienswaardigheden, lokaal nachtmarkt-eten en langere dagtrips naar de grenslandschappen van de provincie. Daarom doet de hotel-locatie er hier toe: verblijven nabij het oude centrum, de Kok River of de night-bazaar-kant maakt avonden makkelijker, terwijl de meeste topattracties buiten de stad korte ritten vereisen in plaats van volledige logistieke acrobatiek.\n\nDe lokale toerisme-aanpak is nuttig omdat het stedelijke attracties scheidt van provinciale uitstapjes. White Temple en Blue Temple zijn prioriteiten in de stad. Wat Phra Kaew en de night bazaar houden het centrum gegrond. Golden Triangle en Doi Tung behoren tot een andere schaal van een dag. Dat betekent dat Chiang Rai het best werkt als je vroeg beslist of je reis vooral stedelijk-met-tempels is, tempel-plus-eten, of stad-basis-plus-één-lange-excursie. De stad beloont geredigeerde itineraries veel meer dan maximalistische.",
+  "hidden_gems": [
+    {
+      "name": "Wat Phra Kaew Chiang Rai",
+      "story": "De White Temple krijgt de aandacht, maar Wat Phra Kaew is de betere plek om Chiang Rai's oudere religieuze identiteit in de stad zelf te begrijpen. De TAT-pagina over Chiang Rai benadrukt het nog steeds vanwege de geschiedenis van de Emerald Buddha en de kalmere tempelsetting.",
+      "how_to_find": "Houd het als een stop in het oude centrum voor het diner of na het night bazaar-gebied, niet als een aparte missie dwars door de stad.",
+      "best_time": "Laat in de middag of een rustiger doordeweekse ochtend.",
+      "local_insights": [
+        "Dit is een betere tegenhanger voor Chiang Rai's moderne tempelroute dan nog een foto-gedreven stop.",
+        "Het helpt de stad minder als een pure excursie-basis te voelen en meer als een echt noordelijk centrum."
+      ]
+    },
+    {
+      "name": "Mae Fah Luang Art and Cultural Park",
+      "story": "Dit is een van Chiang Rai's nuttigere ondergeboekte cultuirstops als je iets geworteld in Lanna-kunst en rustigere gelande gronden wilt in plaats van nog een snelle tempelfoto-lus.",
+      "how_to_find": "Gebruik het als je de grote tempels al hebt gedaan of een kalmere halve dag in het stadgebied wilt.",
+      "best_time": "Ochtend of latere middag als de gronden makkelijker te belopen zijn.",
+      "local_insights": [
+        "Het werkt het best voor reizigers die een meer gemeten museum-en-tuin-stop willen.",
+        "Dit is een van de makkelijkste manieren om diepte toe te voegen zonder een lange rit."
+      ]
+    },
+    {
+      "name": "Late-night rice-gruel circuit",
+      "story": "De lokale restaurantlijsten van Chiang Rai maken duidelijk dat rijstpapwinkels deel uitmaken van het echte eetritme van de stad, niet alleen back-up maaltijden. Plekken zoals Chor Charernchai, Nai Kor en Meena zijn een nuttigere uitdrukking van stadsleven dan nog een generieke caféstop.",
+      "how_to_find": "Bewaar dit voor diner of een late maaltijd na de night bazaar in plaats van elke diner-sleuf aan hotelrestaurants te besteden.",
+      "best_time": "Avond tot late lokale eeturen.",
+      "local_insights": [
+        "Rijstpap is een van de makkelijkste manieren om Chiang Rai bewoond te laten voelen in plaats van gecureerd.",
+        "Dit is een sterkere zet dan jagen op één overhyped alles-in-één 'beste restaurant'."
+      ]
+    },
+    {
+      "name": "Rim Kok riverfront breaks",
+      "story": "Het gebied rond de Kok River is nuttig als Chiang Rai's tempelroute te stop-start begint te voelen. Riviercafés en hotel-eetkamers geven de stad een zachter midday-ritme dan alleen van parkeerplaats naar parkeerplaats stuiteren.",
+      "how_to_find": "Gebruik het tussen tempelstops of als een langzamere lunch in plaats van de hele kunstroute achter elkaar te stapelen.",
+      "best_time": "Midday-reset of vroege avond voor terugkeer naar het centrum.",
+      "local_insights": [
+        "Hier begint Chiang Rai als een plek om te blijven voelen, niet alleen om te touren.",
+        "Een rivierpauze verbetert de hele dag vaak meer dan nog een attractie toevoegen."
+      ]
+    }
+  ],
+  "authentic_experiences": [
+    {
+      "activity": "Behandel de White-Blue-Black-route als drie verschillende ervaringen",
+      "story": "De lokale toerismepagina's beschrijven White Temple, Blue Temple en Black House als distincte delen van Chiang Rai's kunstidentiteit, en zo moeten ze ook bezocht worden. White Temple is de grootste trekpleister, Blue Temple is een snellere kleur-en-ontwerp-stop, en Black House voegt een donkerder museum-stijl contrast toe.",
+      "cultural_significance": "Deze route is de duidelijkste uitdrukking van Chiang Rai's moderne visuele identiteit en de reden waarom de stad zich onderscheidt van conventioneerdere noordelijke tempelsteden.",
+      "how_to_participate": "Doe de route met echte pauzes tussen stops, ideaal beginnend vroeg en ruimte latend voor lunch of een rivierpauze in plaats van elke stop in één ononderbroken foto-lus te forceren.",
+      "insights": [
+        "Deze sites vullen elkaar het best aan als je niet dezelfde stemming van alle drie verwacht.",
+        "Chiang Rai's kunstkant is een van de sterkste redenen om in de stad te overnachten."
+      ],
+      "href": "/city/chiang-rai/top-10-attractions/",
+      "cta_label": "Bekijk de Chiang Rai attractiegids"
+    },
+    {
+      "activity": "Gebruik het oude centrum van Chiang Rai na donker, niet alleen tijdens tempeluren",
+      "story": "Het centrum van Chiang Rai komt 's avonds samen via de night bazaar, nabijgelegen dining en belbare hotelzones. De TAT-pagina over de night bazaar presenteert het nog steeds als een mix van handwerk, eten en optredens, wat het een van de makkelijkste manieren maakt om de stad meer dan een transferbasis te laten voelen.",
+      "cultural_significance": "De night bazaar houdt lokale handel, voedselcultuur en bezoekersvriendelijk stadsleven in één compact avondgebied.",
+      "how_to_participate": "Gebruik het oude centrum voor diner, markt-browseren en een langzamere tweede wandeling in plaats van direct na de laatste tempelstop terug te keren naar het hotel.",
+      "insights": [
+        "Chiang Rai verbetert meteen als je één avond volledig aan het centrum wijdt.",
+        "Dit is een van de meest praktische low-effort ervaringen van de stad."
+      ],
+      "href": "/city/chiang-rai/top-10-restaurants/",
+      "cta_label": "Bekijk de Chiang Rai eetgids"
+    },
+    {
+      "activity": "Kies één lange noordelijke dagtrip, niet allemaal",
+      "story": "Golden Triangle en Doi Tung zijn beide de moeite waard, maar ze doen verschillende dingen. Golden Triangle gaat over grensgeografie, Mekong-uitzichten en de opiumgeschiedenis van de regio. Doi Tung voegt koninklijke-projectgeschiedenis, bergtuinen en een koelere, meer gelande ervaring toe.",
+      "cultural_significance": "Deze buitenring-trips verklaren Chiang Rai's rol als noordelijke poort in plaats van alleen een tempelstad.",
+      "how_to_participate": "Kies degene die het best bij je reis past: Golden Triangle voor grens-geschiedeniscontext, Doi Tung voor bergcultuur en koninklijke-ontwikkelingserfgoed.",
+      "insights": [
+        "De meeste gehaaste Chiang Rai-itineraries worden zwakker omdat ze proberen beide in een kort verblijf te proppen.",
+        "Een enkele goed gekozen excursie verslaat meestal twee gecomprimeerde."
+      ],
+      "href": "/city/chiang-rai/top-10-attractions/",
+      "cta_label": "Bekijk de Chiang Rai attractiegids"
+    },
+    {
+      "activity": "Houd één maaltijd geworteld in lokale stadsbasis",
+      "story": "De officiële restaurantlijsten van Chiang Rai wijzen nog steeds eerst naar alledaagse noordelijke noedels, rijstpapwinkels en gevestigde lokale keukens. Dat is een betere aanwijzing dan alleen gepolijst hotel-dining of café-esthetiek najagen.",
+      "cultural_significance": "Noordelijke noedelkommen, rijstpap en praktisch lokaal dinen zijn deel van wat Chiang Rai als een functionerende stad laat voelen in plaats van een pure bezienswaardigheidslus.",
+      "how_to_participate": "Veranker één maaltijd rond khao soi of late rijstpap, gebruik dan mooiere rivier- of hotel-dining als tweede-laag optie in plaats van als het hele voedselverhaal.",
+      "insights": [
+        "Chiang Rai is een van de makkelijkere Thaise steden om te over-café en under-eat.",
+        "De simpelste maaltijden doen vaak het beste werk om de reis te gronden."
+      ],
+      "href": "/city/chiang-rai/top-10-restaurants/",
+      "cta_label": "Bekijk de Chiang Rai eetgids"
+    }
+  ],
+  "foodie_adventures": [
+    {
+      "dish": "Khao soi en nam ngiao ochtenden",
+      "location": "Kaw Soi Po Jai en andere lokale noedelwinkels",
+      "story": "De TAT-restaurantlijst van Chiang Rai plaatst Kaw Soi Po Jai nog steeds hoog onder stadsbasis, wat logisch is omdat Chiang Rai een van de makkelijkste plekken is om ontbijt of lunch geworteld te houden in noordelijke noedelcultuur in plaats van generieke brunch.",
+      "where_to_find": "Gebruik een noedelstop eerder op de dag of als praktische lunch tussen tempelbezoeken.",
+      "price_range": "Budget",
+      "ordering_tips": [
+        "Houd deze maaltijd simpel en lokaal in plaats van het op te bouwen.",
+        "Een noedelstop werkt het best voor de zwaardere late-dag stadsritme begint."
+      ],
+      "href": "/city/chiang-rai/top-10-restaurants/",
+      "cta_label": "Bekijk de Chiang Rai eetgids"
+    },
+    {
+      "dish": "Rijstpap na de night bazaar",
+      "location": "Chor Charernchai, Nai Kor en Meena rijstpap",
+      "story": "De officiële restaurantlijsten van Chiang Rai maken rijstpap tot een echt stadspecialiteit in plaats van een bijgedachte. Dat doet ertoe omdat het het centrum een late-avond voedselidentiteit geeft voorbij snacks en souvenirkraampjes.",
+      "where_to_find": "Bewaar dit voor diner of een tweede maaltijd na markt-browseren.",
+      "price_range": "Budget",
+      "ordering_tips": [
+        "Dit is een van de makkelijkste manieren om te eten alsof de stad nog steeds van de locals is.",
+        "Gebruik rijstpapwinkels als je substantie wilt na een lichte marktgraze."
+      ],
+      "href": "/city/chiang-rai/top-10-restaurants/",
+      "cta_label": "Bekijk de Chiang Rai eetgids"
+    },
+    {
+      "dish": "Riviercafé-en-bistro-pauze",
+      "location": "Chivit Thamma Da en andere Kok River-stops",
+      "story": "Het eigen menu van Chivit Thamma Da en de TAT-listing bevestigen beide de rol als riviercafé-en-maaltijdstop, wat nuttig is omdat Chiang Rai anders in een hele-dag transportlus kan veranderen zonder echte pauze.",
+      "where_to_find": "Pas dit tussen stadgebied-attracties of gebruik het als zachtere lunch voor terugkeer naar het centrum.",
+      "price_range": "Mid-range",
+      "ordering_tips": [
+        "Dit is een pacing-stop, niet de hele lokale-voedselstrategie.",
+        "Gebruik het als je setting en comfort wilt zonder de riviercontext op te geven."
+      ],
+      "href": "/city/chiang-rai/top-10-restaurants/",
+      "cta_label": "Bekijk de Chiang Rai eetgids"
+    },
+    {
+      "dish": "Night Bazaar grazen in plaats van één vast diner",
+      "location": "Chiang Rai Night Bazaar",
+      "story": "De markt werkt het best als je het als avond-voedselzone behandelt in plaats van alleen een shopping-stop. De eigen TAT-beschrijving van de night bazaar wijst op eten, souvenirs en optredens samen, en die combinatie geeft het stadscentrum zijn makkelijkste avondritme.",
+      "where_to_find": "Gebruik de bazaar voor een eerste ronde, beslis dan of je daar afmaakt of naar een echt zit-diner in de buurt gaat.",
+      "price_range": "Budget tot mid-range",
+      "ordering_tips": [
+        "Eet in kleinere rondes in plaats van te vroeg vast te zitten aan één kraam.",
+        "Dit is het sterkst als flexibele avond, niet als harde reserveringssleuf."
+      ],
+      "href": "/city/chiang-rai/top-10-restaurants/",
+      "cta_label": "Bekijk de Chiang Rai eetgids"
+    }
+  ],
+  "local_insights": [
+    {
+      "observation": "Chiang Rai is 's nachts compact maar overdag verspreid.",
+      "tip": "Verblijf nabij het centrum of de rivier, plan dan korte ritten voor White Temple, Blue Temple en andere buiten-stad-stops in plaats van een wandelende stad-brede itinerary te verwachten.",
+      "surprise": "De avonden kunnen makkelijk en lokaal voelen zelfs als de dagroute auto-afhankelijk is."
+    },
+    {
+      "observation": "De topattracties zijn niet uitwisselbaar.",
+      "tip": "Behandel White Temple, Blue Temple, Black House, Doi Tung en Golden Triangle niet als vijf gelijke hokjes om af te vinken.",
+      "surprise": "Eén stop schrappen verbetert vaak de hele Chiang Rai-reis."
+    },
+    {
+      "observation": "Eetplanning doet er meer toe dan veel eerste bezoekers verwachten.",
+      "tip": "Gebruik één noordelijke noedelstop, één rijstpap of klassiek lokaal diner, en pas dan hotel-dining of café-tijd toe.",
+      "surprise": "Chiang Rai voelt platter als elke maaltijd een gemaksbeslissing is."
+    },
+    {
+      "observation": "Een stadscentrum-hotel is meestal de slimste eerste boeking.",
+      "tip": "Tenzij je prioriteit pure rivierfront-resorttijd is, boeken nabij de night bazaar, oude centrum of Kok River-bruggebieden geeft meestal de beste balans.",
+      "surprise": "De juiste basis kan hier meer uitmaken dan nog een attractie toevoegen."
+    }
+  ],
+  "seasonal_secrets": {
+    "best_times": {
+      "November-February": "Meestal het makkelijkste seizoen voor tempelbezoeken, avondwandelingen en lange noordelijke ritten met minder hitte-stress.",
+      "June-October": "Groenere scenery kan Doi Tung en omliggende berg routes helpen, maar regen maakt lange excursiedagen minder voorspelbaar.",
+      "Year-round": "Stadgebied-tempels en night-bazaar-avonden blijven bruikbaar in elk seizoen als je de dag goed paced."
+    },
+    "local_festivals": [
+      "Loy Krathong en koelseizoen-avondevenementen maken stadnachten meestal atmospherischer",
+      "Grote Thaise feestperiodes kunnen binnenlands-reisvraag en dagtrip-verkeer verhogen"
+    ],
+    "seasonal_foods": {
+      "cool_season": "Nachtmarkt-eten, rivierfront-dining en volle-dag excursie-schedules voelen makkelijker in koeler weer.",
+      "rainy_season": "Bergtuinen en noordelijke landschappen kunnen groener ogen, maar itinerary-flexibiliteit wordt belangrijker.",
+      "year_round": "Noordelijke noedels, rijstpap en lokaal stads-dinen blijven deel van Chiang Rai's alledaagse voedselidentiteit."
+    },
+    "insider_tips": {
+      "cool_season": "Boek sterkere centrum- of rivierfront-hotels eerder, vooral rond feestdata.",
+      "wet_season": "Bouw zachtere staduren in bij elke Doi Tung- of Golden Triangle-dag in plaats van te vertrouwen op een volgepropte ritschema.",
+      "weekends": "Verwacht meer activiteit rond de night bazaar en populaire tempelstops."
+    }
+  },
+  "budget_reality": {
+    "budget": "€23-41/dag",
+    "mid_range": "€50-110/dag",
+    "luxury": "€120-240/dag",
+    "examples": [
+      "Budget Chiang Rai betekent meestal een simpel centraal hotel, lokale noedel- of rijstpap-maaltijden en één geplande dagtrip in plaats van meerdere transport-zware uitstapjes.",
+      "Mid-range uitgaven gaan vaak naar een sterker stad- of rivierhotel, een comfortabeler privé-transfer-dag en één gepolijste maaltijd naast lokale voedselstops.",
+      "Hogere uitgaven in Chiang Rai gaan meestal over resort-comfort, betere kamer-categorieën en privé-tours in plaats van luxury shopping."
+    ],
+    "money_saving_tricks": [
+      "Blijf in de stad en doe Doi Tung of Golden Triangle als één gefocuste excursie in plaats van hotel-hoppen.",
+      "Combineer stadgebied-tempelstops in één route voor je betaalt voor een aparte lange noordelijke dag."
+    ],
+    "hidden_costs": [
+      "Privé-transport voor buitenring-attracties is waar Chiang Rai-begrotingen snel kunnen springen.",
+      "Piek koelseizoen-weekends kunnen tarieven verhogen bij de betere rivierfront- en centrum-hotels."
+    ]
+  },
+  "top_attractions": [
+    {
+      "rank": 1,
+      "name": "White Temple (Wat Rong Khun)",
+      "description": "Chiang Rai's definiërende moderne landmark en de sterkste enkele reden waarom de stad nu op veel noordelijke Thailand-itineraries staat.",
+      "location": "Zuidelijk van centraal Chiang Rai",
+      "entrance_fee": "Controleer actuele ticketing voor je gaat",
+      "highlights": [
+        "Hedendaagse boeddhistische kunst",
+        "Kenmerkende Chiang Rai-landmark",
+        "Het best vroeg op de dag"
+      ]
+    },
+    {
+      "rank": 2,
+      "name": "Blue Temple (Wat Rong Suea Ten)",
+      "description": "Een snellere maar hoogst onderscheidende stop die kleur, schaal en een andere visuele taal toevoegt aan de Chiang Rai-tempelroute.",
+      "location": "Rim Kok-gebied",
+      "entrance_fee": "Meestal benaderd als gratis tempelbezoek; donaties zijn gebruikelijk",
+      "highlights": [
+        "Blauw-en-goud interieur",
+        "Makkelijke stadgebied-stop",
+        "Combineert goed met andere tempels"
+      ]
+    },
+    {
+      "rank": 3,
+      "name": "Black House (Baan Dam Museum)",
+      "description": "Het donkerdere, provocantere tegenpunt van Chiang Rai's tempels en een van de meest onderscheidende kunstspaces van de stad.",
+      "location": "Nang Lae-gebied",
+      "entrance_fee": "Controleer actuele toelating voor je bezoekt",
+      "highlights": [
+        "Museum-stijl kunstcomplex",
+        "Sterker contrast met de tempelroute",
+        "Ideaal voor reizigers die meer willen dan alleen tempels"
+      ]
+    },
+    {
+      "rank": 4,
+      "name": "Wat Phra Kaew Chiang Rai",
+      "description": "Een rustiger tempel in de oude stad met sterkere historische waarde in het hart van Chiang Rai zelf, vooral als je balans zoekt na de moderne kunsttempels.",
+      "location": "Chiang Rai stadscentrum",
+      "entrance_fee": "Gratis entree is gebruikelijk; kleed je respectvol",
+      "highlights": [
+        "Geschiedenis van de Smaragd Boeddha",
+        "Oudere tempelsfeer",
+        "Makkelijke stop in het oude centrum"
+      ]
+    },
+    {
+      "rank": 5,
+      "name": "Chiang Rai Night Bazaar",
+      "description": "De eenvoudigste en meest praktische avondanker in de stad, met eten, winkelen en ontspannen lokale sfeer in één.",
+      "location": "Phahonyothin Road nabij Bus Terminal 1",
+      "entrance_fee": "Gratis",
+      "highlights": [
+        "Makkelijk avondplan",
+        "Eten en handwerk",
+        "Beste nachtstop in het oude centrum"
+      ]
+    },
+    {
+      "rank": 6,
+      "name": "Golden Triangle",
+      "description": "Een waardevolle noordelijke uitstap als grensgeografie, Mekong-uitzichten en opiumhandel-geschiedenis belangrijker zijn dan nog een stadstop inplannen.",
+      "location": "Chiang Saen district",
+      "entrance_fee": "Het uitzichtpunt is gratis; museum en boottochten variëren in prijs",
+      "highlights": [
+        "Geografie van drie landen",
+        "Mekong-ligging",
+        "Sterke context van grensgeschiedenis"
+      ]
+    },
+    {
+      "rank": 7,
+      "name": "Doi Tung Royal Villa",
+      "description": "Een van de beste langere uitjes vanuit Chiang Rai voor frisse berglucht, geschiedenis van de Prinses Moeder en een koninklijk project landschap dat anders aanvoelt dan de tempelroute.",
+      "location": "Mae Fa Luang district",
+      "entrance_fee": "Controleer actuele ticketpakketten voor vertrek",
+      "highlights": [
+        "Koninklijke villa en tuin ligging",
+        "Koelere bergsfeer",
+        "Beste als bewuste dagtrip"
+      ]
+    }
+  ],
+  "top_restaurants": [
+    {
+      "rank": 1,
+      "name": "Kaw Soi Po Jai",
+      "description": "Een van de duidelijkste officiële lokale eetreferenties in Chiang Rai en een sterke plek om de reis geworteld te houden in noordelijke noedels.",
+      "cuisine_type": "Noord-Thaise noedels",
+      "price_range": "Budget",
+      "location": "Chiang Rai stad",
+      "highlights": [
+        "Officiële TAT restaurant vermelding",
+        "Nuttige lokale eetanker",
+        "Beste voor khao soi of nam ngiao"
+      ],
+      "href": "/city/chiang-rai/top-10-restaurants/",
+      "cta_label": "Bekijk de volledige Chiang Rai eetgids"
+    },
+    {
+      "rank": 2,
+      "name": "Chor Charernchai",
+      "description": "Een langlopende praktische lokale naam die beter past bij de identiteit van Chiang Rai met rijstpap en alledaagse maaltijden dan generieke toeristenmenu's.",
+      "cuisine_type": "Rijstpap / Thais-Chinees",
+      "price_range": "Budget",
+      "location": "Sanambin Road gebied",
+      "highlights": [
+        "Klassiek stadsbasisgerecht",
+        "Goede optie voor avondmaaltijd",
+        "Nuttig na marktbezoek"
+      ],
+      "href": "/city/chiang-rai/top-10-restaurants/",
+      "cta_label": "Bekijk de volledige Chiang Rai eetgids"
+    },
+    {
+      "rank": 3,
+      "name": "Nai Kor rice gruel",
+      "description": "Een van de duidelijkere late-maaltijd referenties op de officiële Chiang Rai restaurantlijst en een betrouwbare manier om mee te eten met het ritme van de stad.",
+      "cuisine_type": "Rijstpap / Thais",
+      "price_range": "Budget",
+      "location": "Phaholyothin Road gebied",
+      "highlights": [
+        "Late-maaltijd stadsbasis",
+        "Goed lokaal alternatief voor markt grazen",
+        "Eenvoudig maar nuttig"
+      ],
+      "href": "/city/chiang-rai/top-10-restaurants/",
+      "cta_label": "Bekijk de volledige Chiang Rai eetgids"
+    },
+    {
+      "rank": 4,
+      "name": "Chivit Thamma Da Coffee House",
+      "description": "Een sterke stop aan de Kok River voor reizigers die één gepolijste café-en-bistro pauze willen zonder de lokale sfeer van Chiang Rai op te geven.",
+      "cuisine_type": "Café / bakkerij / fusion",
+      "price_range": "Middenklasse",
+      "location": "Rim Kok",
+      "highlights": [
+        "Rivierzijde ligging",
+        "Officiële TAT restaurant vermelding",
+        "Nuttige midday reset"
+      ],
+      "href": "/city/chiang-rai/top-10-restaurants/",
+      "cta_label": "Bekijk de volledige Chiang Rai eetgids"
+    },
+    {
+      "rank": 5,
+      "name": "Krua Kled Pla",
+      "description": "Een sterkere optie voor lokale tafel als je een echte Thaise maaltijd wilt voorbij noedels en rijstpap, vooral rond de Rim Kok kant van de stad.",
+      "cuisine_type": "Thais",
+      "price_range": "Budget tot middenklasse",
+      "location": "Rim Kok gebied",
+      "highlights": [
+        "Officiële TAT restaurant vermelding",
+        "Goede stop voor gedeelde gerechten",
+        "Werkt goed op een stadsdag"
+      ],
+      "href": "/city/chiang-rai/top-10-restaurants/",
+      "cta_label": "Bekijk de volledige Chiang Rai eetgids"
+    },
+    {
+      "rank": 6,
+      "name": "Chiang Rai Night Bazaar food zone",
+      "description": "Het meest flexibele avond eetgebied in de stad als je eten, browsen en mensen kijken wilt in één ontspannen plan.",
+      "cuisine_type": "Markt eten / snacks / gemengde lokale gerechten",
+      "price_range": "Budget",
+      "location": "Night Bazaar",
+      "highlights": [
+        "Beste makkelijke avondoptie",
+        "Goed voor grazen",
+        "Combineert goed met centrale hotels"
+      ],
+      "href": "/city/chiang-rai/top-10-restaurants/",
+      "cta_label": "Bekijk de volledige Chiang Rai eetgids"
+    }
+  ],
+  "top_hotels": [
+    {
+      "rank": 1,
+      "name": "The Riverie by Katathani",
+      "description": "Het sterkste resort-stijl verblijf in de stad als je ruimte aan de Kok River, familie-vriendelijke faciliteiten en een meer zelfvoorzienende luxe basis wilt.",
+      "price_range": "Luxe resort",
+      "category": "luxe",
+      "area": "Kok River / stadszijde",
+      "highlights": [
+        "Officiële rivier resort positionering",
+        "Goed voor resort comfort",
+        "Nuttig voor langere verblijven in Chiang Rai"
+      ],
+      "href": "/city/chiang-rai/top-10-hotels/",
+      "cta_label": "Bekijk de Chiang Rai hotelgids"
+    },
+    {
+      "rank": 2,
+      "name": "Le Patta Chiang Rai Hotel",
+      "description": "Een zeer praktische keuze in het stadscentrum als nabijheid van de night bazaar, wandelstraatgebied en kloktorenkant belangrijker is dan resortterreinen.",
+      "price_range": "Middenklasse tot luxe",
+      "category": "luxe",
+      "area": "Stadscentrum / night bazaar gebied",
+      "highlights": [
+        "Sterke centrale ligging",
+        "Beste voor wandelbare avonden",
+        "Goede basis voor eerste verblijf"
+      ],
+      "href": "/city/chiang-rai/top-10-hotels/",
+      "cta_label": "Bekijk de Chiang Rai hotelgids"
+    },
+    {
+      "rank": 3,
+      "name": "The Legend Chiang Rai",
+      "description": "Een rivier-gericht resort optie die goed werkt voor reizigers die groen, stillere nachten en een makkelijke verbinding tussen stadstoegang en resort sfeer willen.",
+      "price_range": "Luxe rivier resort",
+      "category": "luxe",
+      "area": "Kok River / Koh Loi zijde",
+      "highlights": [
+        "Officiële rivierfront positionering",
+        "Beter voor rustiger verblijven",
+        "Goede balans tussen stad en retraite"
+      ],
+      "href": "/city/chiang-rai/top-10-hotels/",
+      "cta_label": "Bekijk de Chiang Rai hotelgids"
+    },
+    {
+      "rank": 4,
+      "name": "Riva Vista Riverfront Resort Chiang Rai",
+      "description": "Een gepolijste nieuwere rivierfront optie met sterke Kok River ligging en on-site dining, ideaal voor koppels en kortere comfortgerichte verblijven.",
+      "price_range": "Middenklasse tot luxe",
+      "category": "middenklasse",
+      "area": "Kok River",
+      "highlights": [
+        "61-kamer officiële resort positionering",
+        "Rivierfront ligging",
+        "Nuttig voor comfort-eerst verblijven"
+      ],
+      "href": "/city/chiang-rai/top-10-hotels/",
+      "cta_label": "Bekijk de Chiang Rai hotelgids"
+    },
+    {
+      "rank": 5,
+      "name": "Le Meridien Chiang Rai Resort",
+      "description": "Een sterke internationale-merk rivierbasis als je full-service resort standaarden wilt maar Chiang Rai nog steeds als actieve bezienswaardighedenbasis gebruikt.",
+      "price_range": "Luxe",
+      "category": "luxe",
+      "area": "Kok River",
+      "highlights": [
+        "Internationale full-service optie",
+        "Goed voor gepolijste resort standaarden",
+        "Nuttig voor reizigers met punten of loyaliteit"
+      ],
+      "href": "/city/chiang-rai/top-10-hotels/",
+      "cta_label": "Bekijk de Chiang Rai hotelgids"
+    },
+    {
+      "rank": 6,
+      "name": "The Imperial River House Resort",
+      "description": "Een verdedigbare riviergebied optie van de officiële accommodatielijst als je makkelijkere prijzen wilt dan top luxe namen, zonder de Kok River zone te verlaten.",
+      "price_range": "Middenklasse",
+      "category": "middenklasse",
+      "area": "Mae Kok Road / Rim Kok",
+      "highlights": [
+        "Officiële TAT accommodatie vermelding",
+        "Riviergebied ligging",
+        "Nuttig waarde alternatief"
+      ],
+      "href": "/city/chiang-rai/top-10-hotels/",
+      "cta_label": "Bekijk de Chiang Rai hotelgids"
+    }
+  ],
+  "travel_tips": [
+    "Vestig jezelf nabij het stadscentrum of de Kok River voor de makkelijkste avonden en kortste terugkeer na dagtrips.",
+    "Probeer niet White Temple, Blue Temple, Black House, Doi Tung en Golden Triangle in één gehaast verblijf te proppen.",
+    "Gebruik één avond voor de night bazaar en nabijgelegen lokale dining zodat Chiang Rai aanvoelt als een echte stad, niet alleen een overstappunt.",
+    "Houd ten minste één maaltijd geworteld in noordelijke noedels of rijstpap voordat je terugvalt op alleen hotel- of café-eten.",
+    "Reserveer privévervoer of ride-hailing voor het tempelcircuit in de stad en langere noordelijke uitstapjes."
+  ],
+  "best_time_to_visit": {
+    "season": "Koel Seizoen",
+    "months": "November - February",
+    "weather": "Koelere ochtenden, makkelijkere tempelbezoeken en comfortabelere nachtmarkt- en dagtripcondities",
+    "reasons": "Beste voor eerste Chiang Rai reizen die stadssightseeing combineren met één of twee langere uitstapjes"
+  },
+  "budget_info": {
+    "budget": "€23-41 per dag",
+    "mid_range": "€51-110 per dag",
+    "luxury": "€120-239 per dag",
+    "notes": "Chiang Rai blijft betaalbaar in het centrum, maar transport in de buitenwijken en rivierresortkeuzes drijven de kosten meestal op."
+  },
+  "enhanced_at": "2026-03-26T00:00:00.000Z",
+  "reviewed_by": "Go2Thailand Editorial Team",
+  "thingsToDo": "De meest logische Chiang Rai reis begint met het circuit in de stad en breidt dan pas uit. Geef White Temple, Blue Temple en óf Black House óf Wat Phra Kaew de eerste echte tijdblok. Neem een goede lunchpauze in plaats van elke stop als snelle fotostop te zien. Dan voelt de stad niet meer versnipperd en wordt het een kunst- en cultuurbasis met een prettig dagritme.\n\nBeslis dan voor je tweede dag. Als noordelijke grensgeografie en opiumgeschiedenis je aanspreken, maak Golden Triangle je uitstap. Voor berglucht, tuinen en geschiedenis van de Prinses Moeder kies je Doi Tung. Eindig minstens één avond in het centrum bij de night bazaar met een echte lokale maaltijd, zodat Chiang Rai meer is dan een reeks autotochten.",
+  "whereToStay": "De keuze voor een hotel in Chiang Rai draait om wandelbare stadavonden of een resort-achtige rivierbasis. Centrale hotels nabij de night bazaar, kloktorenkant en oudere commerciële kern zijn beter als je 's avonds wilt wandelen voor diner en markt zonder transport in het donker. Rivierfront accommodaties langs de Kok bieden meer ruimte, groen en on-site dining, maar maken de reis hotelgerichter.\n\nVoor een eerste bezoek is een centraal of nabij-rivier hotel vaak de beste compromis, met makkelijke toegang tot de avondstad. Kies een volledig resort alleen als het hotel zelf deel van het plan is. Anders ondersteunt je kamer in Chiang Rai het best de stad en dagtrips in plaats van ze te vervangen.",
+  "whereToEat": [
+    {
+      "name": "Kaw Soi Po Jai",
+      "cuisine": "Noord-Thaise noedels",
+      "priceRange": "$",
+      "description": "Een van de duidelijkste officiële lokale eetkeuzes voor khao soi en nam ngiao."
+    },
+    {
+      "name": "Chor Charernchai",
+      "cuisine": "Rijstpap / Thais-Chinees",
+      "priceRange": "$",
+      "description": "Een nuttige late-dag stadsbasis die past bij het praktische lokale eetritme van Chiang Rai."
+    },
+    {
+      "name": "Nai Kor rice gruel",
+      "cuisine": "Rijstpap / Thais",
+      "priceRange": "$",
+      "description": "Een sterke lokale optie als alternatief voor alleen markteten of hotel dinertjes."
+    },
+    {
+      "name": "Chivit Thamma Da Coffee House",
+      "cuisine": "Café / bakkerij / fusion",
+      "priceRange": "$$",
+      "description": "Een gepolijste pauze aan de Kok River voor lunch, koffie of een rustige midday reset."
+    },
+    {
+      "name": "Krua Kled Pla",
+      "cuisine": "Thais",
+      "priceRange": "$-$$",
+      "description": "Een praktische optie voor gedeelde gerechten als je een echte lokale-tafelmaaltijd wilt."
+    },
+    {
+      "name": "Chiang Rai Night Bazaar food zone",
+      "cuisine": "Markt eten / snacks / gemengde gerechten",
+      "priceRange": "$",
+      "description": "Het makkelijkste flexibele avond eetgebied in het stadscentrum."
+    }
+  ],
+  "topHotels": [
+    {
+      "name": "The Riverie by Katathani",
+      "category": "luxe",
+      "priceRange": "$$$",
+      "area": "Kok River / stadszijde",
+      "description": "Het sterkste resort-achtige stedelijke verblijf als rivierruimte en faciliteiten het belangrijkste zijn."
+    },
+    {
+      "name": "Le Patta Chiang Rai Hotel",
+      "category": "luxe",
+      "priceRange": "$$-$$$",
+      "area": "Stadscentrum / nachtbazaar-gebied",
+      "description": "Een slimme centrale uitvalsbasis voor wandelavonden en efficiënte eerste verblijven."
+    },
+    {
+      "name": "The Legend Chiang Rai",
+      "category": "luxe",
+      "priceRange": "$$-$$$",
+      "area": "Kok River / Koh Loi-zijde",
+      "description": "Een groener rivierfrontverblijf dat resort-sfeer combineert met bruikbare stadsbereikbaarheid."
+    },
+    {
+      "name": "Riva Vista Riverfront Resort Chiang Rai",
+      "category": "middenklasse",
+      "priceRange": "$$-$$$",
+      "area": "Kok River",
+      "description": "Een verfijnde rivierfrontoptie met hedendaagse kamers en eetgelegenheid ter plaatse."
+    },
+    {
+      "name": "Le Meridien Chiang Rai Resort",
+      "category": "luxe",
+      "priceRange": "$$$",
+      "area": "Kok River",
+      "description": "Een full-service internationaal merk rivierresort voor comfortgerichte Chiang Rai-verblijven."
+    },
+    {
+      "name": "The Imperial River House Resort",
+      "category": "middenklasse",
+      "priceRange": "$$",
+      "area": "Mae Kok Road / Rim Kok",
+      "description": "Een nuttig alternatief in het riviergebied als je goedkopere prijzen wilt dan de top-luxenamen."
+    }
+  ],
+  "gettingAround": "Centraal Chiang Rai is eenvoudig als je in het juiste gebied bent, vooral rond de nachtbazaar, het oude commerciële centrum en sommige Kok River-hotelzones. Maar de belangrijkste attracties van de stad zijn niet allemaal te voet bereikbaar vanaf elkaar. White Temple, Blue Temple en Black House zijn meestal logischer met ride-hailing, taxi, chauffeur of privéauto dan te voet te improviseren. Doi Tung en Golden Triangle zijn volledige excursieroutes en moeten zo gepland worden in plaats van als korte stedelijke uitstapjes.\n\nMae Fah Luang Chiang Rai International Airport ligt dichtbij genoeg om aankomsten eenvoudig te houden, en Airports of Thailand beschrijft het als de belangrijkste luchthaven van de provincie. Voor de meeste bezoekers is de praktische regel simpel: loop 's avonds door het centrum, gebruik korte wegtransport voor stadattracties overdag, en beperk langere noordelijke routes tot één bewuste excursie tegelijk.",
+  "bestTimeToVisit": "Chiang Rai is het makkelijkst in het koele seizoen van november tot februari, wanneer tempelbezoeken, avonden op de nachtbazaar en lange noordelijke ritten allemaal werken met minder hitte. De regenachtige maanden kunnen het uitzicht op berg- en tuinuitjes zoals Doi Tung verbeteren, maar ze maken langere dagtochten ook minder voorspelbaar. Als dit je eerste Chiang Rai-reis is, biedt het koele seizoen de schoonste versie van de stad-plus-excursiebalans.",
+  "budgetGuide": {
+    "budget": {
+      "min": 25,
+      "max": 45,
+      "description": "Budget Chiang Rai betekent meestal een eenvoudig centraal verblijf, lokale noedel- en rijstpapmaaltijden, en één zorgvuldig gekozen excursie in plaats van meerdere privéautodagen."
+    },
+    "midrange": {
+      "min": 55,
+      "max": 120,
+      "description": "Middenklasse-budgetten kopen meestal een betere hotelpositie, comfortabeler lokaal transport, en één of twee verfijnde maaltijden bovenop het dagelijkse stadsvoedsel."
+    },
+    "luxury": {
+      "min": 130,
+      "max": 260,
+      "description": "Hogere budgetten in Chiang Rai gaan vooral naar betere rivierfronthotels, privétoercomfort en resortfaciliteiten in plaats van luxe winkelen of nachtleven."
+    }
+  },
+  "safetyTips": "Chiang Rai is over het algemeen makkelijker dan de grotere steden van Thailand, maar de belangrijkste planningsrisico's zijn nog steeds praktisch in plaats van dramatisch. Respecteer tempelkledingnormen en loop niet in actieve worshipgebieden voor foto's. Wees extra voorzichtig bij lange dagtochten in nat weer of na donker, vooral op berg routes naar Doi Tung. Als je een motorfiets huurt, is het grotere probleem de wegkennis en afstand tussen attracties, niet de stadsdrukte. Op de nachtbazaar en transportknooppunten, houd dezelfde gewone tas- en telefoonwaakzaamheid als in elk druk toeristengebied.",
+  "faq": [
+    {
+      "question": "Hoeveel nachten moet ik in Chiang Rai blijven?",
+      "answer": "Twee nachten is het praktische minimum als je de tempelroute, één echte avond in het centrum en één langere excursie wilt zonder de reis gehaast te maken."
+    },
+    {
+      "question": "Is Chiang Rai de moeite waard als ik al in Chiang Mai ben geweest?",
+      "answer": "Ja, maar om verschillende redenen. Chiang Rai gaat minder om oude-stadsschaal en meer om hedendaagse tempelkunst, grensregiomcontext en geselecteerde dagtochten."
+    },
+    {
+      "question": "Moet ik Doi Tung of Golden Triangle kiezen?",
+      "answer": "Kies Doi Tung voor bergtuinen, koninklijke-projectgeschiedenis en een koelere scenic dag. Kies Golden Triangle voor grensgeografie, Mekong-uitzichten en opium-geschiedeniscontext."
+    },
+    {
+      "question": "Kan ik White Temple, Blue Temple en Black House in één dag doen?",
+      "answer": "Ja, maar alleen als je ruimte laat voor transport en een echte pauze. Het proberen toe te voegen van grote buitenring-dagtochten daarop verzwakt meestal de reisplanning."
+    },
+    {
+      "question": "Wat is het beste gebied om in Chiang Rai te verblijven?",
+      "answer": "Voor de meeste eerste bezoeken zijn de beste gebieden nabij het stadscentrum, de nachtbazaar of de Kok River als je nog steeds makkelijke avondtoegang wilt."
+    },
+    {
+      "question": "Wat is de makkelijkste manier om Chiang Rai te verkennen?",
+      "answer": "Loop 's avonds door het centrum, gebruik dan korte autoritten of ride-hailing voor stadattracties en aparte transport voor Doi Tung of Golden Triangle."
+    }
+  ],
+  "practicalInfo": {
+    "bestMonths": [
+      "Nov",
+      "Dec",
+      "Jan",
+      "Feb"
+    ],
+    "nearestAirport": "Mae Fah Luang Chiang Rai International Airport (CEI)",
+    "travelTimeFromAirport": "Meestal onder de 30 minuten over de weg naar centraal Chiang Rai, afhankelijk van verkeer en hotelpositie",
+    "localTransport": [
+      "Wandelen in het stadscentrum en nachtbazaar-gebied",
+      "Taxi of ride-hailing voor White Temple, Blue Temple en Black House",
+      "Privé-chauffeur of georganiseerd transport voor Doi Tung en Golden Triangle",
+      "Hotelauto of luchthaventransfer vanaf CEI",
+      "Songthaew en lokaal wegtransport waar beschikbaar"
+    ]
+  },
+  "contentSources": [
+    {
+      "type": "toerismekantoor",
+      "title": "Chiang Rai",
+      "creator": "Tourism Authority of Thailand - Chiang Rai Office",
+      "url": "https://www.tourismchiangrai-phayao.com/en/chiang-rai/",
+      "description": "Gebruikt voor Chiang Rai-bestemmingskadering, provinciale positionering en stad-versus-excursiecontext."
+    },
+    {
+      "type": "luchthaven",
+      "title": "Mae Fah Luang-Chiang Rai International Airport",
+      "creator": "Airports of Thailand",
+      "url": "https://www.airportthai.co.th/en/contact-aot/mae-fah-luang-chiang-rai-international-airport/",
+      "description": "Gebruikt voor de officiële luchthavenpoortreferentie en CEI-identificatie."
+    },
+    {
+      "type": "attractie",
+      "title": "White Temple",
+      "creator": "Tourism Authority of Thailand - Chiang Rai Office",
+      "url": "https://www.tourismchiangrai-phayao.com/en/2022/07/06/wat-rong-khun-white-temple/",
+      "description": "Gebruikt voor White Temple-positionering binnen de belangrijkste attractieroute van Chiang Rai."
+    },
+    {
+      "type": "attractie",
+      "title": "The Blue Temple",
+      "creator": "Tourism Authority of Thailand - Chiang Rai Office",
+      "url": "https://www.tourismchiangrai-phayao.com/en/2022/05/11/the-blue-temple-wat-rong-suea-ten/",
+      "description": "Gebruikt voor Blue Temple-geschiedenis, locatiecontext en stadspositionering."
+    },
+    {
+      "type": "attractie",
+      "title": "Wat Phra Kaew",
+      "creator": "Tourism Authority of Thailand - Chiang Rai Office",
+      "url": "https://www.tourismchiangrai-phayao.com/en/2022/07/05/wat-phra-kaew/",
+      "description": "Gebruikt voor oude-stadstempelcontext en Emerald Buddha-geschiedenis."
+    },
+    {
+      "type": "attractie",
+      "title": "Golden Triangle",
+      "creator": "Tourism Authority of Thailand - Chiang Rai Office",
+      "url": "https://www.tourismchiangrai-phayao.com/en/2022/07/15/golden-triangle/",
+      "description": "Gebruikt voor grensgeografiekadering en Golden Triangle-dagtochtcontext."
+    },
+    {
+      "type": "attractie",
+      "title": "Doi Tung Royal Villa",
+      "creator": "Tourism Authority of Thailand - Chiang Rai Office",
+      "url": "https://www.tourismchiangrai-phayao.com/en/2022/05/29/doi-tung-royal-villa/",
+      "description": "Gebruikt voor koninklijke-villa, tuin en berg-dagtochtcontext."
+    },
+    {
+      "type": "attractie",
+      "title": "Chiang Rai Night Bazaar",
+      "creator": "Tourism Authority of Thailand - Chiang Rai Office",
+      "url": "https://www.tourismchiangrai-phayao.com/en/2022/05/26/chiang-rai-night-bazaar/",
+      "description": "Gebruikt voor stadscentrumavond, markt en optredencontext."
+    },
+    {
+      "type": "restaurant",
+      "title": "Chiang Rai Restaurants",
+      "creator": "Tourism Authority of Thailand - Chiang Rai Office",
+      "url": "https://www.tourismchiangrai-phayao.com/en/chiang-rai/restaurants/",
+      "description": "Gebruikt voor de officiële restaurantlijst met Kaw Soi Po Jai, Chor Charernchai, Nai Kor, Meena, Krua Kled Pla en Chivit Thamma Da."
+    },
+    {
+      "type": "restaurant",
+      "title": "Chivit Thamma Da Menu",
+      "creator": "Chivit Thamma Da Coffee House",
+      "url": "https://www.chivitthammada.com/onewebmedia/Chivit%20Thamma%20Da%20FOOD%20MENU.pdf",
+      "description": "Gebruikt voor Chivit Thamma Da-locatie en openingsurenbevestiging."
+    },
+    {
+      "type": "hotel",
+      "title": "The Riverie by Katathani",
+      "creator": "The Riverie by Katathani",
+      "url": "https://www.theriverie.com/",
+      "description": "Gebruikt voor officiële Kok River-resortpositionering en luchthaventransfercontext."
+    },
+    {
+      "type": "hotel",
+      "title": "Le Patta Chiang Rai Hotel",
+      "creator": "Le Patta Chiang Rai Hotel",
+      "url": "https://lepattachiangrai.com/",
+      "description": "Gebruikt voor officiële stadscentrum- en nachtbazaar-zijde hotelpositionering."
+    },
+    {
+      "type": "hotel",
+      "title": "The Legend Chiang Rai",
+      "creator": "The Legend Chiang Rai",
+      "url": "https://thelegend-chiangrai.com/",
+      "description": "Gebruikt voor officiële rivierfront-resortpositionering."
+    },
+    {
+      "type": "hotel",
+      "title": "Riva Vista Riverfront Resort Chiang Rai",
+      "creator": "Riva Vista Riverfront Resort Chiang Rai",
+      "url": "https://rivavistachiangrai.com/",
+      "description": "Gebruikt voor officiële rivierfront-hotelpositionering, kamerenaantal en on-site Varee Restaurant-context."
+    },
+    {
+      "type": "hotel",
+      "title": "Chiang Rai Accommodation",
+      "creator": "Tourism Authority of Thailand - Chiang Rai Office",
+      "url": "https://www.tourismchiangrai-phayao.com/en/chiang-rai/accommodation/",
+      "description": "Gebruikt voor officiële accommodatiereferenties met The Riverie, The Legend en The Imperial River House Resort."
+    },
+    {
+      "type": "hotel",
+      "title": "Le Meridien Chiang Rai Resort, Thailand",
+      "creator": "Marriott",
+      "url": "https://www.marriott.com/en-us/hotels/ceimd-le-meridien-chiang-rai-resort-thailand/overview/",
+      "description": "Gebruikt voor officiële internationale-merk-resortreferentie in Chiang Rai."
+    }
+  ],
+  "enrichedAt": "2026-03-26T00:00:00.000Z",
+  "factchecked_at": "2026-03-26T00:00:00.000Z"
+}

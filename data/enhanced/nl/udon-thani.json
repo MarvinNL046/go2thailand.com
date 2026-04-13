@@ -1,0 +1,693 @@
+{
+  "id": 15,
+  "slug": "udon-thani",
+  "name": {
+    "en": "Udon Thani",
+    "nl": "Udon Thani",
+    "ja": "ウドーンターニー",
+    "ko": "우돈타니",
+    "th": "อุดรธานี",
+    "de": "Udon Thani",
+    "fr": "Udon Thani",
+    "ru": "Udon Thani",
+    "zh": "乌隆他尼"
+  },
+  "region": "Isaan",
+  "province": "Udon Thani",
+  "description": {
+    "en": "Udon Thani works best as a northern Isaan city break built around its museum-and-lake core, a strong Vietnamese-and-Isaan food layer, and two serious UNESCO-backed heritage extensions in Ban Chiang and Phu Phrabat, with Red Lotus Sea treated as a seasonal dawn add-on rather than the whole story.",
+    "nl": "Udon Thani werkt het best als een noordelijke Isaan-citytrip rond de museum- en meerkern, een sterke Vietnamees-Isaan foodlaag en twee serieuze UNESCO-gedragen heritage-uitstappen naar Ban Chiang en Phu Phrabat, terwijl de Red Lotus Sea een seizoensgebonden dageraadsextensie blijft in plaats van het hele verhaal.",
+    "ja": "ウドーンターニーは、博物館と湖畔の市街地、ベトナム系とイサーン料理、そしてバンチェンとプープラバットという二つの本格的なユネスコ系遺産拡張で組み立てると最もわかりやすく、紅い蓮の海は季節限定の早朝追加要素として扱うのが適切です。",
+    "ko": "우돈타니는 박물관과 호수 공원 중심의 도심, 베트남계와 이산 음식층, 그리고 반치앙과 푸프라밧이라는 두 개의 진지한 유네스코 유산 확장으로 이해하는 편이 훨씬 낫고, 홍련의 바다는 계절 한정 새벽 추가 일정으로 다루는 것이 맞습니다.",
+    "th": "อุดรธานีเหมาะกับการเที่ยวแบบเริ่มจากแกนกลางของเมืองรอบพิพิธภัณฑ์และหนองประจักษ์ ต่อด้วยอาหารเวียดนาม-อีสาน และขยายออกไปยังบ้านเชียงกับภูพระบาทซึ่งมีน้ำหนักจริงด้านมรดกโลก ส่วนทะเลบัวแดงควรเป็นทริปเช้าตามฤดูกาล ไม่ใช่ทั้งเรื่องของจังหวัด",
+    "de": "Udon Thani funktioniert am besten als nördlicher Isaan-Städtetrip mit Museums- und Seenkern, starker vietnamesisch-isaanischer Esskultur und zwei ernsthaften UNESCO-bezogenen Erweiterungen nach Ban Chiang und Phu Phrabat. Das Rote Lotusmeer bleibt dabei ein saisonaler Morgenzusatz, nicht die ganze Geschichte.",
+    "fr": "Udon Thani se visite mieux comme une ville de l'Isaan du Nord avec un noyau musee-et-lac, une vraie couche culinaire vietnamo-isaan, puis deux extensions patrimoniales solides vers Ban Chiang et Phu Phrabat. La mer de lotus rouges doit rester une sortie saisonniere a l'aube, pas l'ensemble du recit.",
+    "ru": "Udon Thani лучше планировать как городской маршрут северного Исана: музей и озерный парк в центре, вьетнамско-исанская еда, а затем две серьезные исторические вылазки в Ban Chiang и Phu Phrabat. Красное море лотосов стоит оставлять как сезонную поездку на рассвете, а не как весь смысл поездки.",
+    "zh": "Udon Thani 更适合按“博物馆与湖畔城市核心 + 越南与伊桑美食层 + Ban Chiang 和 Phu Phrabat 两个真正有分量的 UNESCO 遗产延伸”来安排，而红莲海更适合作为季节性的清晨加项，而不是整座城市的全部叙事。"
+  },
+  "population": 290000,
+  "population_label": "Brede stedelijke referentie",
+  "population_note": "Gebruik dit als een algemene oriëntatie op stadsschaal in plaats van een actueel gemeentelijk totaal.",
+  "highlights": [
+    "Udon Thani Museum en de kern van de stad Nong Prajak",
+    "Vietnamees en Isaan eten ondersteund door MICHELIN-aandacht",
+    "Ban Chiang Archeologische Site en Nationaal Museum",
+    "Phu Phrabat Historisch Park",
+    "Red Lotus Sea in het seizoen",
+    "Kham Chanot als een selectieve spirituele toevoeging"
+  ],
+  "location": {
+    "lat": 17.4156,
+    "lng": 102.7872
+  },
+  "image": "/images/cities/generated/udon-thani.webp",
+  "seo": {
+    "metaTitle": {
+      "en": "Udon Thani Thailand Guide 2026 | Museum Core, Ban Chiang, Phu Phrabat and Food",
+      "nl": "Udon Thani gids 2026 | Museumkern, Ban Chiang, Phu Phrabat en food",
+      "ja": "ウドーンターニー観光ガイド 2026 | 博物館、バンチェン、プープラバット、食",
+      "ko": "우돈타니 가이드 2026 | 박물관 코어, 반치앙, 푸프라밧, 음식",
+      "th": "อุดรธานี 2026 | พิพิธภัณฑ์ บ้านเชียง ภูพระบาท และอาหาร",
+      "de": "Udon Thani Guide 2026 | Museum, Ban Chiang, Phu Phrabat und Essen",
+      "fr": "Guide d'Udon Thani 2026 | Musee, Ban Chiang, Phu Phrabat et cuisine",
+      "ru": "Путеводитель по Udon Thani 2026 | Музей, Ban Chiang, Phu Phrabat и еда",
+      "zh": "Udon Thani 旅行指南 2026 | 博物馆核心、Ban Chiang、Phu Phrabat 与美食"
+    },
+    "metaDescription": {
+      "en": "Plan Udon Thani around its museum-and-lake city core, MICHELIN-backed Vietnamese and Isaan food, Ban Chiang, Phu Phrabat, and one seasonal Red Lotus Sea dawn trip instead of thin expat or flower-only filler.",
+      "nl": "Plan Udon Thani rond de museum-en-meer-stadskern, MICHELIN-gedragen Vietnamees en Isaan eten, Ban Chiang, Phu Phrabat en één seizoensgebonden Red Lotus Sea-ochtendsessie in plaats van dunne expat- of bloemenfiller.",
+      "ja": "ウドーンターニーを、博物館と湖畔、市内の食、バンチェン、プープラバット、そして季節限定の紅い蓮の海で整理するガイドです。",
+      "ko": "우돈타니를 박물관과 호수 공원, 도시 음식층, 반치앙, 푸프라밧, 그리고 계절 한정 홍련의 바다 일정으로 정리하는 가이드입니다.",
+      "th": "คู่มือเที่ยวอุดรธานีแบบเน้นพิพิธภัณฑ์ หนองประจักษ์ อาหาร บ้านเชียง ภูพระบาท และทะเลบัวแดงตามฤดูกาล",
+      "de": "So planen Sie Udon Thani richtig: Museum, Seepark, Essen, Ban Chiang, Phu Phrabat und ein saisonaler Lotusmorgen.",
+      "fr": "Comment structurer Udon Thani autour du musee, du lac, de la cuisine, de Ban Chiang, de Phu Phrabat et d'une sortie saisonniere a la mer de lotus.",
+      "ru": "Как планировать Udon Thani: музей, озерный парк, еда, Ban Chiang, Phu Phrabat и сезонная поездка к морю лотосов.",
+      "zh": "用博物馆、湖畔公园、美食、Ban Chiang、Phu Phrabat 以及一次季节性的红莲海清晨行程来规划 Udon Thani。"
+    }
+  },
+  "categories": {
+    "food": {
+      "en": "Best restaurants and local dishes in Udon Thani",
+      "nl": "Beste restaurants en lokale gerechten in Udon Thani",
+      "ja": "ウドーンターニーのおすすめレストラン＆郷土料理",
+      "ko": "우돈타니 추천 레스토랑과 지역 음식",
+      "th": "ร้านอาหารและอาหารท้องถิ่นที่ดีที่สุดในอุดรธานี"
+    },
+    "hotels": {
+      "en": "Top hotels in Udon Thani | City bases and practical stays",
+      "nl": "Beste hotels in Udon Thani | Stadbases en praktische verblijven",
+      "ja": "ウドーンターニーのおすすめホテル｜市内拠点と実用的な滞在",
+      "ko": "우돈타니 추천 호텔 | 도심 베이스와 실용적 숙소",
+      "th": "โรงแรมแนะนำในอุดรธานี | ที่พักในเมืองและที่พักใช้งานจริง"
+    },
+    "attractions": {
+      "en": "Top attractions in Udon Thani",
+      "nl": "Top bezienswaardigheden in Udon Thani",
+      "ja": "ウドーンターニーの人気観光スポット",
+      "ko": "우돈타니 인기 관광 명소",
+      "th": "สถานที่ท่องเที่ยวยอดนิยมในอุดรธานี"
+    }
+  },
+  "tags": [
+    "udon-thani",
+    "isaan",
+    "ban-chiang",
+    "phu-phrabat",
+    "red-lotus-sea",
+    "vietnamese-food",
+    "thailand"
+  ],
+  "enhanced_description": "Udon Thani wordt zwakker als het wordt teruggebracht tot drie vermoeiende ideeën: de expatscene, de luchthavenpoort en de Red Lotus Sea. Die lagen bestaan, maar de stad wordt veel coherenter zodra je begint in het centrum zelf: Udon Thani Museum, de Nong Prajak-lakefront en een culinaire identiteit die nog steeds logisch is via Vietnamees-Udon-instellingen en MICHELIN-ondersteunde Isaan-namen.\n\nVan daaruit wordt de provincie makkelijker te bewerken. Ban Chiang is de sterkste archeologische halve dag omdat de UNESCO-laag echt en specifiek is, geen gerecyclede prehistorische hype. Phu Phrabat is de tweede grote uitbreiding omdat het nu werelderfgoedgewicht draagt door zijn rotswoningen, grensstenen en boeddhistische landschap, waardoor Udon een serieuze erfgoed-en-natuurtegenhanger krijgt in plaats van een opgeblazen provinciale checklist.\n\nDie structuur maakt Udon publicabel op het juiste kwaliteitsniveau. Het is eerst een noordelijke Isaan-stad, dan een eetstad, dan een plek met twee erfgoeduitbreidingen en één seizoensgebonden dagbloemenreis. Zodra die lagen in balans blijven, voelt de cluster niet meer generiek.",
+  "overview": "Udon Thani werkt het best als de stad zelf de reis leidt. De oude generatorversie overdreef individuele prijzen, transporttrucs en persoonlijke anekdotes, maar de sterkere structuur is eenvoudig: gebruik het museum en de Nong Prajak-kant om de stad te lezen, en laat de eetscene uitleggen waarom Udon meer is dan een tussenstop. De Vietnamees-laag is hier niet bijkomstig, en de bredere Isaan-eetscene ook niet.\n\nNa de stadskern geven Ban Chiang en Phu Phrabat Udon de twee sterkste redenen om langer te blijven buiten de stad. Ban Chiang draagt het bekendere archeologische gewicht, terwijl Phu Phrabat nu nog meer telt omdat UNESCO-erkenning het een sterkere, duurzamere plek geeft in de identiteit van de provincie. Geen van beide zou moeten worden afgevlakt tot een snelle drive-by.\n\nRed Lotus Sea hoort nog steeds in de cluster, maar alleen als een seizoensgebonden zonsopgangreis. Als de timing van de lotusbloei niet klopt, staat Udon nog steeds op zijn stadskern, eten en erfgoeddagen. Dat is precies het soort structuur dat voorkomt dat de pagina instort in dun seizoensgebonden vulsel.",
+  "hidden_gems": [
+    {
+      "name": "Wat Pa Ban Tat",
+      "story": "Wat Pa Ban Tat geeft Udon een stillere contemplatieve laag verbonden met de Thaise bos-traditie, wat sterker is dan het forceren van nog een generieke tempelranglijst in de stadspagina.",
+      "how_to_find": "Gebruik het alleen als je echt een stillere religieuze stop wilt buiten de hoofdstadslus.",
+      "best_time": "Ochtend",
+      "local_insights": [
+        "Dit is beter als een selectieve toevoeging dan als een must voor elk eerste bezoek.",
+        "Het werkt voor reizigers die een meer contemplatieve stop willen na de stadskern."
+      ]
+    },
+    {
+      "name": "Ban Na Kha textile market layer",
+      "story": "Ban Na Kha geeft de provincie nog steeds een textiel-en-shoppinglaag als geweven stof en lokale marktomloop meer voor je betekenen dan nog een cafékwartier in de stad.",
+      "how_to_find": "Behandel het als een optionele ambachten-marktuitbreiding, niet als een vervanging voor Ban Chiang of Phu Phrabat.",
+      "best_time": "Ochtend tot middag",
+      "local_insights": [
+        "Dit is het meest nuttig voor terugkerende bezoekers of shoppers met een duidelijke reden om te gaan.",
+        "Laat het niet de museum-en-eten stadspas verdringen op een korte eerste reis."
+      ]
+    }
+  ],
+  "authentic_experiences": [
+    {
+      "activity": "Begin met Udon Thani Museum en de Nong Prajak stadskernlus",
+      "story": "De stad wordt veel makkelijker te begrijpen zodra het museum en de lakefront worden behandeld als de eerste ronde in plaats van vulsel rond buitenstedelijke dagtrips.",
+      "cultural_significance": "Dit is de duidelijkste manier om Udon te lezen als een echte provinciale hoofdstad met zijn eigen burgerlijke ritme in plaats van alleen als lanceerpunt naar ergens anders.",
+      "how_to_participate": "Gebruik het museum eerst, loop of rij rond Nong Prajak, en laat lunch of diner de route meenemen in de eetlaag.",
+      "insights": [
+        "Dit zou moeten komen vóór Ban Chiang en vóór de logistiek van Red Lotus Sea.",
+        "De lakefront doet ertoe omdat het laat zien hoe de stad openbare ruimte daadwerkelijk gebruikt."
+      ],
+      "href": "/city/udon-thani/attractions/udon-thani-museum/",
+      "cta_label": "Zie de museumgids"
+    },
+    {
+      "activity": "Behandel Ban Chiang als een echte erfgoed halve dag, niet als een vinkje",
+      "story": "Ban Chiang telt nog steeds omdat de UNESCO-archeologische laag een van de sterkste redenen is waarom Udon internationaal erfgoedgewicht heeft.",
+      "cultural_significance": "Dit is de duidelijkste prehistorische identiteitslaag van de provincie en de reden waarom Udon niet alleen als een moderne stad geschreven zou moeten worden.",
+      "how_to_participate": "Laat genoeg tijd voor zowel het museum als de bredere archeologische context in plaats van de stop te reduceren tot een roadside foto.",
+      "insights": [
+        "Ban Chiang is sterker wanneer het gepaard gaat met stadsgeschiedenis, niet wanneer het geïsoleerd is ervan.",
+        "Een gehaaste bezoek verzwakt een van de beste activa van de provincie."
+      ],
+      "href": "/city/udon-thani/attractions/ban-chiang-national-museum/",
+      "cta_label": "Zie de Ban Chiang-gids"
+    },
+    {
+      "activity": "Geef Phu Phrabat zijn eigen serieuze dagslot",
+      "story": "Phu Phrabat is niet langer alleen een vreemde-rots omweg; UNESCO-erkenning geeft het bredere heilige landschap veel meer gewicht.",
+      "cultural_significance": "Het verbindt natuurlijke zandsteenformaties, prehistorische sporen en boeddhistische rituele geografie in één erfgoedlandschap.",
+      "how_to_participate": "Ga met genoeg tijd, houd de dag selectief en combineer het niet met te veel zwakkere districtstops.",
+      "insights": [
+        "Dit is de sterkste buiten-erfgoedtegenhanger voor Ban Chiang.",
+        "Het verdient meer tijd dan de oude dunne pagina's het ooit gaven."
+      ],
+      "href": "/city/udon-thani/attractions/phu-phrabat-historical-park/",
+      "cta_label": "Zie de Phu Phrabat-gids"
+    },
+    {
+      "activity": "Gebruik Red Lotus Sea alleen wanneer het seizoen het echt ondersteunt",
+      "story": "De zonsopgang bootreis kan nog steeds memorabel zijn, maar alleen wanneer winterbloeiomstandigheden kloppen en je bereid bent vroeg te beginnen.",
+      "cultural_significance": "Dit is een seizoensgebonden natuurlaag, niet de jaarrond burgerlijke identiteit van Udon.",
+      "how_to_participate": "Behandel het als een vroege-ochtend toevoeging in het bloeiseizoen en laat het helemaal weg als de seizoensomstandigheden er niet zijn.",
+      "insights": [
+        "Dit zou nooit de stad en erfgoedkern moeten vervangen.",
+        "De reis verbetert wanneer je de seasonaliteit eerlijk laat zijn in plaats van overbeloofd."
+      ],
+      "href": "/city/udon-thani/attractions/red-lotus-sea/",
+      "cta_label": "Zie de lotusgids"
+    }
+  ],
+  "foodie_adventures": [
+    {
+      "dish": "Vietnamese gehaktbal wraps en loempia's",
+      "location": "VT Namnueng (Posri)",
+      "story": "MICHELIN's huidige Udon-feature behandelt VT Namnueng nog steeds als een van de duidelijkste Vietnameze ankers in de stad, wat telt omdat Udon's culinaire identiteit niet puur Isaan is.",
+      "where_to_find": "Posri Road, Mak Khaeng",
+      "price_range": "Budget tot middenklasse",
+      "ordering_tips": [
+        "Dit is een van de meest nuttige eerste maaltijden als je wilt dat de stad snel onderscheidend smaakt.",
+        "Ga met gezelschap als je wraps, loempia's en meeneemsets wilt proberen."
+      ],
+      "href": "/city/udon-thani/top-10-restaurants/",
+      "cta_label": "Zie de eetgids"
+    },
+    {
+      "dish": "Klassiek Isaan familie-tafel koken",
+      "location": "Krua Khun Nid",
+      "story": "Krua Khun Nid is een van de sterkste manieren om de pagina geworteld te laten voelen in Udon's bredere Isaan culinaire identiteit in plaats van alleen in snackstops.",
+      "where_to_find": "Soi Wat Pa Non Niwet, Mak Khaeng",
+      "price_range": "Middenklasse",
+      "ordering_tips": [
+        "Het best met een groep of met genoeg eetlust om meer dan één signatuurgerecht te bestellen.",
+        "Dit is sterker als lunch of vroege diner dan als een gehaaste stop."
+      ],
+      "href": "/city/udon-thani/top-10-restaurants/",
+      "cta_label": "Zie de eetgids"
+    },
+    {
+      "dish": "Lab en sterkere noordoostelijke salades",
+      "location": "Lab Nua",
+      "story": "MICHELIN's Udon eetdekking gebruikt Lab Nua nog steeds om de scherpere Isaan-kant van de stad te tonen, vooral geroosterde-rijst diepte en gefermenteerde-vis zelfvertrouwen.",
+      "where_to_find": "Phachauthit Road, Mak Khaeng",
+      "price_range": "Budget",
+      "ordering_tips": [
+        "Dit is de juiste stop wanneer je wilt dat de maaltijd onmiskenbaar Isaan smaakt.",
+        "Het werkt het best als een gefocuste lunch in plaats van na te veel eerdere snackstops."
+      ],
+      "href": "/city/udon-thani/top-10-restaurants/",
+      "cta_label": "Zie de eetgids"
+    },
+    {
+      "dish": "Ontbijt-tot-lunch Vietnamees en Thais crossover gerechten",
+      "location": "Madam Pahtehh (Tumruaj)",
+      "story": "Madam Pahtehh helpt uitleggen hoe Udon Vietnamees, Thais, Lao, Frans en Chinees beïnvloedingen mengt zonder generieke brunchvulling te worden.",
+      "where_to_find": "Tumruaj Road, Mak Khaeng",
+      "price_range": "Budget tot middenklasse",
+      "ordering_tips": [
+        "Gebruik het in het ontbijt- of lunchvenster.",
+        "De waarde is de grensoverschrijdende menuidentiteit, niet café-esthetiek."
+      ],
+      "href": "/city/udon-thani/top-10-restaurants/",
+      "cta_label": "Zie de eetgids"
+    }
+  ],
+  "local_insights": [
+    "Udon is sterker als een stadsuitje dan als een generieke Laos-poortstop.",
+    "Het museum en Nong Prajak zouden moeten komen vóór enige buiten-dag logistiek.",
+    "Ban Chiang en Phu Phrabat zijn de twee erfgoeduitbreidingen die hun afstand van de stad echt verdienen.",
+    "Vietnamees eten is deel van de identiteit van de stad, niet zomaar een zijnoot.",
+    "Red Lotus Sea zou seizoensgebonden en optioneel moeten blijven, niet jaarrond kerncopy."
+  ],
+  "seasonal_secrets": "November tot februari is de veiligste algemene fit voor Udon Thani omdat stadswandelingen, museumtijd en buitenstedelijke erfgoedsroutes allemaal makkelijker zijn in koeler weer. Red Lotus Sea is het sterkst alleen in het winterbloeivenster en alleen bij zonsopgang, terwijl Phu Phrabat en Ban Chiang duurzamere jaarrond prioriteiten zijn. Als de lotusbloeitiming zwak is, houdt de stad nog steeds stand zonder de bloemlaag te forceren.",
+  "budget_reality": {
+    "budget": "Udon blijft beheersbaar als je de basis in de stad houdt, de sterke lokale en MICHELIN-ondersteunde alledaagse eetlaag goed gebruikt, en kiest voor één of twee buiten-erfgoeddagen in plaats van onnodige province-brede kilometer te betalen.",
+    "mid_range": "Middenklasse uitgaven betekenen meestal een sterker centraal hotel, een paar meer bewuste lunch- of dinerpicks, en privétransport voor Ban Chiang, Phu Phrabat of een seizoensgebonden lotusochtend.",
+    "luxury": "Hogere uitgaven in Udon komen meer van het kiezen van een voller-service stadshotel en meer privétransport dan van enige diepe luxe-inventarislaag.",
+    "money_saving_tricks": [
+      "Blijf in de stad tenzij een heel specifieke buiten-district overnachting het hele punt is.",
+      "Behandel Red Lotus Sea als optioneel in plaats van ervoor te betalen in het verkeerde seizoen.",
+      "Gebruik de Vietnamees en Isaan-instellingen van de stad vóór het betalen voor hotel dineren."
+    ],
+    "hidden_costs": [
+      "Privétransport voor Ban Chiang, Phu Phrabat en seizoensgebonden zonsopgangvertrekken kan snel oplopen.",
+      "Proberen te veel buitenroutes in één dag te combineren kost meestal meer en verzwakt de ervaring."
+    ]
+  },
+  "top_attractions": [
+    {
+      "rank": 1,
+      "name": "Udon Thani Museum and the Nong Prajak city core",
+      "description": "De sterkste eerste stedelijke laag omdat het de stad historische en burgerlijke context geeft vóór enige buiten-erfgoeddag overneemt.",
+      "location": "Centraal Udon Thani",
+      "entrance_fee": "Museumarrangementen zouden lokaal moeten worden nagecheckt.",
+      "highlights": [
+        "Historisch museumgebouw",
+        "Beste eerste lezing van de stad",
+        "Combineert met de lakefront lus"
+      ],
+      "href": "/city/udon-thani/attractions/udon-thani-museum/",
+      "cta_label": "Zie de museumgids"
+    },
+    {
+      "rank": 2,
+      "name": "Nong Prajak Public Park",
+      "description": "De duidelijkste alledaagse stadstop omdat de lakefront laat zien hoe Udon openbare ruimte daadwerkelijk gebruikt voorbij malls en markten.",
+      "location": "Centraal Udon Thani",
+      "entrance_fee": "Toegang tot het openbare park is eenvoudig.",
+      "highlights": [
+        "Stad-meer lus",
+        "Beste openbare-ruimtelagen",
+        "Nuttige ochtend- of avondstop"
+      ],
+      "href": "/city/udon-thani/attractions/nong-prajak-public-park/",
+      "cta_label": "Zie de parkgids"
+    },
+    {
+      "rank": 3,
+      "name": "Ban Chiang National Museum and archaeological site",
+      "description": "De sterkste prehistorische halve dag omdat de UNESCO-laag echt, duurzaam en specifiek genoeg is om de stad te verlaten te rechtvaardigen.",
+      "location": "Nong Han District, Udon Thani",
+      "entrance_fee": "Museum- en site-omstandigheden zouden lokaal moeten worden nagecheckt.",
+      "highlights": [
+        "UNESCO Werelderfgoed",
+        "Ban Chiang aardewerk en archeologie",
+        "Beste prehistorische uitbreiding"
+      ],
+      "href": "/city/udon-thani/attractions/ban-chiang-national-museum/",
+      "cta_label": "Zie de Ban Chiang-gids"
+    },
+    {
+      "rank": 4,
+      "name": "Phu Phrabat Historical Park",
+      "description": "De sterkste tweede erfgoeddag omdat de zandsteenformaties, rituele landschap en UNESCO-erkenning allemaal nog steeds standhouden.",
+      "location": "Ban Phue District, Udon Thani",
+      "entrance_fee": "Huidige park- en erfgoed-site-omstandigheden zouden lokaal moeten worden nagecheckt.",
+      "highlights": [
+        "UNESCO Werelderfgoed",
+        "Zandsteenwoningen en grensstenen",
+        "Beste serieuze buiten-erfgoeddag"
+      ],
+      "href": "/city/udon-thani/attractions/phu-phrabat-historical-park/",
+      "cta_label": "Zie de Phu Phrabat-gids"
+    },
+    {
+      "rank": 5,
+      "name": "Red Lotus Sea",
+      "description": "Een waardevolle seizoensgebonden zonsopgang extra wanneer winterbloeiomstandigheden het ondersteunen, maar niet de basis van de hele Udon-reisroute.",
+      "location": "Kumphawapi District, Udon Thani",
+      "entrance_fee": "Bootprijzen en bloeiomstandigheden zouden lokaal moeten worden nagecheckt.",
+      "highlights": [
+        "Seizoensgebonden zonsopgang bootreis",
+        "Winter lotusbloei",
+        "Beste als een selectieve toevoeging"
+      ],
+      "href": "/city/udon-thani/attractions/red-lotus-sea/",
+      "cta_label": "Zie de lotusgids"
+    },
+    {
+      "rank": 6,
+      "name": "Kham Chanot",
+      "description": "Een selectieve spirituele uitbreiding wanneer je nog een ritueel landschapsstop wilt met lokale devotionele gewicht in plaats van nog een generieke natuurlocatie.",
+      "location": "Ban Dung District, Udon Thani",
+      "entrance_fee": "Huidige heiligdomtoegang en wachtrijomstandigheden zouden lokaal moeten worden gecontroleerd.",
+      "highlights": [
+        "Belangrijk naga-verbonden heiligdomlandschap",
+        "Sterke devotionele identiteit",
+        "Selectieve spirituele toevoeging"
+      ],
+      "href": "/city/udon-thani/attractions/kham-chanot/",
+      "cta_label": "Zie de Kham Chanot-gids"
+    }
+  ],
+  "top_restaurants": [
+    {
+      "rank": 1,
+      "name": "VT Namnueng (Posri)",
+      "description": "Het duidelijkste Vietnamees-Udon anker en nog steeds een van de sterkste eerste maaltijden als je wilt dat de stad snel onderscheidend smaakt.",
+      "location": "345/1-3 Posri Road, Mak Khaeng",
+      "price_range": "Budget tot middenklasse",
+      "highlights": [
+        "MICHELIN feature pick",
+        "Vietnamese gehaktbal wraps",
+        "Handige eerste stadsmaaltijd"
+      ],
+      "href": "/city/udon-thani/top-10-restaurants/",
+      "cta_label": "Bekijk de eetgids"
+    },
+    {
+      "rank": 2,
+      "name": "Krua Khun Nid",
+      "description": "Een van de sterkste uitgebreide Isaan-tafelmaaltijden in de stad wanneer lokale hartige gerechten belangrijker zijn dan trendgedreven dineren.",
+      "location": "64 Soi Wat Pa Non Niwet, Udon Dussadi Road, Mak Khaeng",
+      "price_range": "Middelklasse",
+      "highlights": [
+        "MICHELIN Gids vermelding",
+        "Familie-stijl Isaan-koken",
+        "Sterke lunch of vroege dinner"
+      ],
+      "href": "/city/udon-thani/top-10-restaurants/",
+      "cta_label": "Bekijk de eetgids"
+    },
+    {
+      "rank": 3,
+      "name": "Lab Nua",
+      "description": "De schoonste specialistische keuze voor lab, som tum en scherpere noordoostelijke smaken die Udon onmiskenbaar Isaan laten voelen.",
+      "location": "24 Phachauthit Road, Mak Khaeng",
+      "price_range": "Budget",
+      "highlights": [
+        "MICHELIN aanbevolen keuze",
+        "Focus op lab en papayasalade",
+        "Beste voor scherpere Isaan-smaak"
+      ],
+      "href": "/city/udon-thani/top-10-restaurants/",
+      "cta_label": "Bekijk de eetgids"
+    },
+    {
+      "rank": 4,
+      "name": "Peng Duck Noodles",
+      "description": "Een sterkere noedel-tegenhanger voor de Vietnamese laag, vooral als je een klassieke soepgebaseerde maaltijd in de rotatie wilt.",
+      "location": "Nong Tao Lek Road, Ban Lueam",
+      "price_range": "Budget",
+      "highlights": [
+        "MICHELIN aanbevolen keuze",
+        "Eendennoedels en eendenrijst",
+        "Langlopende lokale specialist"
+      ],
+      "href": "/city/udon-thani/top-10-restaurants/",
+      "cta_label": "Bekijk de eetgids"
+    },
+    {
+      "rank": 5,
+      "name": "Madam Pahtehh (Tumruaj)",
+      "description": "Een nuttige ontbijt-tot-lunchstop omdat het menu de Vietnamese, Thaise, Laotiaanse, Franse en Chinese invloeden weerspiegelt die nog steeds Udon's eetidentiteit vormen.",
+      "location": "34/1-3 Tumruaj Road, Mak Khaeng",
+      "price_range": "Budget tot middelklasse",
+      "highlights": [
+        "MICHELIN aanbevolen keuze",
+        "Sterkte in ontbijt en lunch",
+        "Grensoverschrijdende menuidentiteit"
+      ],
+      "href": "/city/udon-thani/top-10-restaurants/",
+      "cta_label": "Bekijk de eetgids"
+    },
+    {
+      "rank": 6,
+      "name": "Rabiang Patchanee",
+      "description": "Een van de betere volledige maaltijden in de stad als je een bewuste zittende lunch of dinner wilt zonder terug te vallen op recensie-site vulsel.",
+      "location": "Mueang Udon Thani, Udon Thani",
+      "price_range": "Middelklasse",
+      "highlights": [
+        "MICHELIN Gids vermelding",
+        "Uitgebreidere zittende maaltijd",
+        "Nuttige dinner-tegenhanger"
+      ],
+      "href": "/city/udon-thani/top-10-restaurants/",
+      "cta_label": "Bekijk de eetgids"
+    }
+  ],
+  "top_hotels": [
+    {
+      "rank": 1,
+      "name": "Centara Udon",
+      "description": "De sterkste grotere stadsovernachting als je een gepolijst hotel naast Central Plaza wilt met directe luchthaven- en treinverbindingen.",
+      "price_range": "Middelklasse tot bovengemiddelde middelklasse",
+      "category": "middelklasse",
+      "area": "Prajaksillapakhom Road / Central Plaza-kant",
+      "highlights": [
+        "Officiële hotelbron",
+        "Aangrenzend aan Central Plaza",
+        "Nuttig voor een praktische stad basis"
+      ]
+    },
+    {
+      "rank": 2,
+      "name": "Civilize Hotel",
+      "description": "Een sterkere boetiek-gericht stadoptie als je een centrale Udon-basis wilt met restaurant- en bar-gemak in plaats van een groot ketenprofiel.",
+      "price_range": "Middelklasse",
+      "category": "middelklasse",
+      "area": "Mak Khaeng / stadscentrum-kant",
+      "highlights": [
+        "Officiële hotelbron",
+        "Stadscentrum-positionering",
+        "Goede fit voor korte stedelijke verblijven"
+      ]
+    },
+    {
+      "rank": 3,
+      "name": "HOP INN Udon Thani",
+      "description": "De duidelijkste betrouwbare budgetbasis als de kamer er is om museum, eten en dagtrip-logistiek te ondersteunen in plaats van het hoofdevenement te worden.",
+      "price_range": "Budget",
+      "category": "budget",
+      "area": "Luchthaven en stadscentrum-toegangskant",
+      "highlights": [
+        "Officiële hotelbron",
+        "Dicht bij luchthaven en stadscentrum",
+        "Eenvoudig budgetformaat"
+      ]
+    },
+    {
+      "rank": 4,
+      "name": "B2 Udon Boutique & Budget Hotel",
+      "description": "Een praktische low-cost stadoptie als winkelen, wegtoegang en een voorspelbare budgetkamersetup belangrijker zijn dan karakter.",
+      "price_range": "Budget",
+      "category": "budget",
+      "area": "Mak Khaeng / winkelgebied",
+      "highlights": [
+        "Officiële hotelbron",
+        "Winkel- en cultuurgebied-positionering",
+        "Voorspelbaar budgetverblijf"
+      ]
+    }
+  ],
+  "thingsToDo": "Begin met het museum en de Nong Prajak stadskernlus, gebruik de eetscene om de stad echte identiteit te geven, kies dan Ban Chiang en Phu Phrabat als de twee sterkste buiten-erfgoeddagen. Voeg Red Lotus Sea alleen toe als het seizoen echt een dawn-trip ondersteunt.",
+  "whereToStay": "Verblijf in centraal Udon als het museum, Nong Prajak, eten en beide erfgoeddagen de echte prioriteit zijn. De stad is de praktische basis, en de meeste reizigers hoeven nachten niet te splitsen tenzij een heel specifieke dawn-vertrek of buitenwijkplan dat vereist.",
+  "whereToEat": [
+    {
+      "name": "VT Namnueng (Posri)",
+      "cuisine": "Vietnamees",
+      "priceRange": "Budget tot middelklasse",
+      "description": "Een stad-definiërende stop voor gehaktbal-wraps, loempia's en de Vietnamese kant van Udon."
+    },
+    {
+      "name": "Krua Khun Nid",
+      "cuisine": "Isaan en Thais",
+      "priceRange": "Middelklasse",
+      "description": "Een sterkere familie-tafel Isaan-maaltijd als je diepgang wilt voorbij snacks."
+    },
+    {
+      "name": "Lab Nua",
+      "cuisine": "Isaan-salades",
+      "priceRange": "Budget",
+      "description": "Een scherpere Isaan-specialist voor lab, tam en geroosterde-rijst-zware smaken."
+    },
+    {
+      "name": "Peng Duck Noodles",
+      "cuisine": "Noedels",
+      "priceRange": "Budget",
+      "description": "Een langlopend eendennoedelhuis dat een andere duidelijke alledaagse-stad anker toevoegt."
+    },
+    {
+      "name": "Madam Pahtehh (Tumruaj)",
+      "cuisine": "Vietnamees-Thais kruispunt",
+      "priceRange": "Budget tot middelklasse",
+      "description": "Een ontbijt- en lunchstop die Udon's gemengde regionale invloeden vastlegt."
+    }
+  ],
+  "topHotels": [
+    {
+      "name": "Centara Udon",
+      "category": "middelklasse",
+      "priceRange": "Middelklasse tot bovengemiddelde middelklasse",
+      "area": "Central Plaza-kant",
+      "description": "Een full-service stadshotel naast het winkelcentrum en dicht bij het station."
+    },
+    {
+      "name": "Civilize Hotel",
+      "category": "middelklasse",
+      "priceRange": "Middelklasse",
+      "area": "Mak Khaeng",
+      "description": "Een centrale boetiek-gerichte overnachting met restaurant- en bar-gemak."
+    },
+    {
+      "name": "HOP INN Udon Thani",
+      "category": "budget",
+      "priceRange": "Budget",
+      "area": "Luchthaven en stadscentrum-toegangskant",
+      "description": "Een voorspelbare budgetketen voor praktische korte verblijven."
+    },
+    {
+      "name": "B2 Udon Boutique & Budget Hotel",
+      "category": "budget",
+      "priceRange": "Budget",
+      "area": "Winkel- en cultuurgebied",
+      "description": "Een eenvoudige low-cost stadsbasis met rechttoe rechtaan faciliteiten."
+    }
+  ],
+  "gettingAround": "Korte lokale ritten werken goed zodra je in de stadskern bent, en de luchthaven, station, museumkant, Nong Prajak en centrale hotelzone verbinden allemaal gemakkelijk. Ban Chiang, Phu Phrabat, Kham Chanot en winterdawn-vertrekken naar Red Lotus Sea moeten worden behandeld als echte buiten-de-stad transportblokken in plaats van als casual stadserrands.",
+  "bestTimeToVisit": "November tot februari is de veiligste allround fit voor Udon Thani. Die maanden maken stadswandelen makkelijker, houden lange buiten-dag ritten comfortabeler, en zijn het enige realistische venster voor een Red Lotus Sea dawn-trip als bloeicondities kloppen.",
+  "budget_info": {
+    "budget_per_day": "Budget",
+    "midrange_per_day": "Middelklasse",
+    "luxury_per_day": "Hogere uitgaven"
+  },
+  "travel_tips": [
+    "Doe de stad eerst. Udon wordt zwakker als Ban Chiang of Red Lotus Sea de museum-en-meer kern vervangt.",
+    "Houd Ban Chiang en Phu Phrabat als de twee serieuze buiten-prioriteiten in plaats van de provincie te overbelasten met zwakkere zijtrips.",
+    "Gebruik de Vietnamese en Isaan eetlaag om de stad te begrijpen; laat de pagina niet instorten in expat-bar vulsel.",
+    "Behandel Red Lotus Sea als seizoens- en dawn-afhankelijk in plaats van het te beloven als een vaste jaarrond headline.",
+    "Als je Kham Chanot toevoegt, houd het selectief zodat de erfgoeddagen en stadskern de reis nog steeds dragen."
+  ],
+  "safetyTips": "Udon zelf is eenvoudig, maar standaardzorg telt nog steeds in markten, transportknopen en nachtstraten. Voor buiten-dag trips, vertrouw niet op verouderde aannames over bloeitiming, wachtrijsystemen of vaste routetijden. Begin vroeg voor dawn-vertrekken, gebruik betrouwbaar transport, en houd religieuze sites respectvol in plaats van gehaast.",
+  "faq": [
+    {
+      "question": "Is Udon Thani een bezoek waard als Red Lotus Sea uit het seizoen is?",
+      "answer": "Ja. De stad staat nog steeds op zijn museum-en-meer kern, Vietnamese en Isaan eten, Ban Chiang en Phu Phrabat."
+    },
+    {
+      "question": "Wat moet je eerst doen in Udon Thani?",
+      "answer": "Begin met Udon Thani Museum en de Nong Prajak-kant, laat dan lunch of dinner de stad in zijn eetlaag brengen voordat je buiten-dagen plant."
+    },
+    {
+      "question": "Is Ban Chiang of Phu Phrabat belangrijker?",
+      "answer": "Beide doen ertoe, maar op verschillende manieren. Ban Chiang is de prehistorische archeologische anker, terwijl Phu Phrabat de sterkere landschap-en-heilig-erfgoed dag is."
+    },
+    {
+      "question": "Moet je bij de luchthaven of in centraal Udon verblijven?",
+      "answer": "De meeste reizigers zijn beter af in of nabij centraal Udon omdat de luchthaven al dichtbij genoeg is voor een praktische stadsbasis."
+    },
+    {
+      "question": "Welk eten moet je prioriteren in Udon?",
+      "answer": "Prioriteer Vietnamese gehaktbal-wraps en loempia's, echte Isaan-salades en familie-tafel koken, één sterke noedelmealtijd, en een ontbijt- of lunchstop die de gemengde eetgeschiedenis van de stad weerspiegelt."
+    }
+  ],
+  "practicalInfo": {
+    "bestMonths": [
+      "Nov",
+      "Dec",
+      "Jan",
+      "Feb"
+    ],
+    "nearestAirport": "Udon Thani International Airport",
+    "travelTimeFromAirport": "Luchthaventiming varieert per hotelgebied, maar de luchthaven en stad zijn dichtbij genoeg om een praktische centrale basis te ondersteunen.",
+    "localTransport": [
+      "Korte lokale ritten werken het best in het museum, Nong Prajak en centrale hotelzones.",
+      "Wandelen is nuttig zodra je in de Nong Prajak en museumkant van de stad bent.",
+      "Privétransport is de praktische fit voor Ban Chiang, Phu Phrabat, Kham Chanot en seizoensdawn-vertrekken.",
+      "Behandel buiten-routes als volledige transportblokken in plaats van snelle add-ons."
+    ],
+    "arrival": "Udon blijft een van de makkelijkere noordelijke Isaan-steden om als echte stedelijke basis te gebruiken omdat de luchthaven en centrale hotelzone nauw verbonden zijn.",
+    "transport": "Splits de stadsdag af van buiten-erfgoeddagen in plaats van proberen Ban Chiang, Phu Phrabat en Red Lotus Sea in één gehaaste plan te stikken.",
+    "planning": "Denk in vier lagen: stadskern eerst, eten tweede, Ban Chiang en Phu Phrabat daarna, dan seizoenslotus of selectieve spirituele add-ons alleen als ze passen."
+  },
+  "contentSources": [
+    {
+      "type": "provincie",
+      "title": "Udon Thani Provincie Pagina",
+      "creator": "Tourism Authority of Thailand",
+      "url": "https://www.tourismthailand.org/Destinations/Provinces/Udon%20Thani/588",
+      "description": "Gebruikt voor de huidige provincie-framing en de bredere stad-versus-erfgoed structuur."
+    },
+    {
+      "type": "reisgids",
+      "title": "10 Dingen om te Doen in Udon Thani",
+      "creator": "Tourism Authority of Thailand",
+      "url": "https://www.tourismthailand.org/Articles/10-things-to-do-in-udon-thani",
+      "description": "Gebruikt voor de huidige stad, Red Lotus Sea en Kham Chanot framing."
+    },
+    {
+      "type": "reisgids",
+      "title": "Ontdek Udon Thani",
+      "creator": "Tourism Authority of Thailand",
+      "url": "https://www.tourismthailand.org/Articles/https-www-tourismthailand-org-articles-explore-udon-thani",
+      "description": "Gebruikt voor de museum en Nong Prajak stadskern-framing."
+    },
+    {
+      "type": "erfgoed",
+      "title": "Ban Chiang Archeologische Site",
+      "creator": "UNESCO World Heritage Centre",
+      "url": "https://whc.unesco.org/en/list/575/",
+      "description": "Gebruikt voor de officiële Ban Chiang erfgoed-referentie."
+    },
+    {
+      "type": "erfgoed",
+      "title": "Phu Phrabat Historisch Park",
+      "creator": "UNESCO Werelderfgoedcentrum",
+      "url": "https://whc.unesco.org/en/list/1688/",
+      "description": "Gebruikt voor de huidige UNESCO-referentie voor Phu Phrabat Historical Park."
+    },
+    {
+      "type": "restaurant",
+      "title": "7 Heerlijk Betaalbare Plekken om te Proeven in Udon Thani",
+      "creator": "MICHELIN Gids",
+      "url": "https://guide.michelin.com/th/en/article/dining-out/7-deliciously-affordable-spots-to-try-in-udon-thani",
+      "description": "Gebruikt voor VT Namnueng, Lab Nua, Peng Duck Noodles en Madam Pahtehh plus bredere huidige voedselcontext."
+    },
+    {
+      "type": "restaurant",
+      "title": "Krua Khun Nid",
+      "creator": "MICHELIN Gids",
+      "url": "https://guide.michelin.com/us/en/udon-thani-region/udon-thani/restaurant/krua-khun-nid",
+      "description": "Gebruikt voor de bredere Isaan-tafelmaaltijdanker van de stad."
+    },
+    {
+      "type": "restaurant",
+      "title": "Rabiang Patchanee",
+      "creator": "MICHELIN Gids",
+      "url": "https://guide.michelin.com/en/udon-thani-region/udon-thani/restaurant/rabiang-patchanee",
+      "description": "Gebruikt voor de bredere zit-avondmaal-laag."
+    },
+    {
+      "type": "luchthaven",
+      "title": "Referentie PDF Luchthavens van Thailand",
+      "creator": "Luchthavens van Thailand",
+      "url": "https://www.airports.go.th/backend/uploads/files/309fdf1b73677c8efe55d34b17a384a4.pdf",
+      "description": "Gebruikt als officiële luchthavennetwerk-referentie voor de actieve luchthavenstatus van Udon."
+    },
+    {
+      "type": "hotel",
+      "title": "Centara Udon",
+      "creator": "Centara Hotels & Resorts",
+      "url": "https://www.centarahotelsresorts.com/centara/cud",
+      "description": "Gebruikt voor officiële stadshotel-positionering naast Central Plaza en huidige voorzieningencontext."
+    },
+    {
+      "type": "hotel",
+      "title": "Civilize Hotel",
+      "creator": "Civilize Hotel",
+      "url": "https://www.civilizehotel.com/",
+      "description": "Gebruikt voor de centrale, boutique-gerichte stadsovernightingsoptie."
+    },
+    {
+      "type": "hotel",
+      "title": "HOP INN Udon Thani",
+      "creator": "HOP INN Thailand",
+      "url": "https://www.hopinnhotel.com/our-hotels/hop-inn-udon-thani",
+      "description": "Gebruikt voor de praktische budgethoteloptie nabij luchthaven en stad."
+    },
+    {
+      "type": "hotel",
+      "title": "B2 Udon Boutique & Budget Hotel",
+      "creator": "B2 Boutique and Budget Hotels",
+      "url": "https://www.b2hotel.com/udon-thani/b2-udon-boutique-budget-hotel/",
+      "description": "Gebruikt voor budgetverblijf in winkelgebied en directe site-positionering."
+    }
+  ],
+  "reviewed_by": "Go2Thailand Redactioneel Team",
+  "enhanced_at": "2026-03-27T16:40:00.000Z",
+  "enrichedAt": "2026-03-27T16:40:00.000Z",
+  "factchecked_at": "2026-03-27T16:40:00.000Z"
+}

@@ -1,0 +1,317 @@
+[
+  {
+    "slug": "thailand-weather",
+    "title": {
+      "en": "Thailand Weather by Month",
+      "nl": "Thailand Weer per Maand"
+    },
+    "description": {
+      "en": "Complete monthly weather guide with temperatures, rainfall, and best times to visit",
+      "nl": "Compleet maandelijks weerbericht met temperaturen, regenval en beste reistijden"
+    },
+    "icon": "☀️",
+    "category": "planning",
+    "static": true
+  },
+  {
+    "slug": "scooter-rental-thailand",
+    "title": {
+      "en": "Scooter & Motorbike Rental",
+      "nl": "Scooter & Motor Huren"
+    },
+    "description": {
+      "en": "Prices per city, license requirements, insurance, safety tips, and trusted rental shops",
+      "nl": "Prijzen per stad, rijbewijsvereisten, verzekering, veiligheidstips en betrouwbare verhuurders"
+    },
+    "icon": "🛵",
+    "category": "vervoer",
+    "static": true
+  },
+  {
+    "slug": "sim-card-thailand",
+    "title": {
+      "en": "SIM Card & eSIM Guide",
+      "nl": "SIM Kaart & eSIM Gids"
+    },
+    "description": {
+      "en": "Compare AIS, TrueMove & dtac plans, airport buying guide, and eSIM setup steps",
+      "nl": "Vergelijk AIS, TrueMove & dtac, luchthaven koopgids en eSIM installatie"
+    },
+    "icon": "📱",
+    "category": "connectiviteit",
+    "static": true
+  },
+  {
+    "slug": "vpn-thailand",
+    "title": {
+      "en": "VPN in Thailand: Do You Need One?",
+      "nl": "VPN in Thailand: Heb Je er Een Nodig?"
+    },
+    "description": {
+      "en": "Is VPN legal? Which sites are blocked? Public WiFi security risks, streaming access, and setup tips for travelers and digital nomads",
+      "nl": "Is VPN legaal? Welke sites zijn geblokkeerd? Openbaar WiFi-risico's, streaming-toegang en setuptips voor reizigers en nomaden"
+    },
+    "icon": "🔒",
+    "category": "connectiviteit"
+  },
+  {
+    "slug": "expat-long-stay-thailand",
+    "title": {
+      "en": "Expat & Long-Stay Guide",
+      "nl": "Expat & Langverblijf Gids"
+    },
+    "description": {
+      "en": "Visa types, banking, taxes, health insurance, driving license, and cost of living for long-term stays",
+      "nl": "Visum types, bankzaken, belastingen, zorgverzekering, rijbewijs en kosten van levensonderhoud"
+    },
+    "icon": "🏠",
+    "category": "planning"
+  },
+  {
+    "slug": "health-hospitals-thailand",
+    "title": {
+      "en": "Health & Hospitals Guide",
+      "nl": "Gezondheid & Ziekenhuizen Gids"
+    },
+    "description": {
+      "en": "Top hospitals by city, pharmacy guide, dengue & malaria prevention, insurance, and emergency numbers",
+      "nl": "Top ziekenhuizen per stad, apotheek gids, dengue & malaria preventie, verzekering en alarmnummers"
+    },
+    "icon": "🏥",
+    "category": "gezondheid-veiligheid"
+  },
+  {
+    "slug": "diving-snorkeling-thailand",
+    "title": {
+      "en": "Diving & Snorkeling Guide",
+      "nl": "Duik & Snorkel Gids"
+    },
+    "description": {
+      "en": "Top dive sites, PADI certification costs, best seasons, gear rental, and snorkel vs dive comparison",
+      "nl": "Beste duikplekken, PADI kosten, beste seizoenen, materiaal huur en snorkelen vs duiken"
+    },
+    "icon": "🤿",
+    "category": "activiteiten"
+  },
+  {
+    "slug": "hiking-trekking-thailand",
+    "title": {
+      "en": "Hiking & Trekking Guide",
+      "nl": "Wandelen & Trekking Gids"
+    },
+    "description": {
+      "en": "Doi Inthanon, Khao Sok, jungle treks Chiang Mai, gear, guides, difficulty levels, and leech prevention",
+      "nl": "Doi Inthanon, Khao Sok, jungletochten Chiang Mai, uitrusting, gidsen en moeilijkheidsgraden"
+    },
+    "icon": "🧳",
+    "category": "activiteiten"
+  },
+  {
+    "slug": "festivals-events-thailand",
+    "title": {
+      "en": "Festivals & Events Guide",
+      "nl": "Festivals & Evenementen Gids"
+    },
+    "description": {
+      "en": "Songkran, Loy Krathong, Yi Peng, Full Moon Party, Vegetarian Festival, and more month-by-month",
+      "nl": "Songkran, Loy Krathong, Yi Peng, Full Moon Party, Vegetarisch Festival en meer per maand"
+    },
+    "icon": "🎊",
+    "category": "cultuur"
+  },
+  {
+    "slug": "shopping-markets-thailand",
+    "title": {
+      "en": "Shopping & Markets Guide",
+      "nl": "Winkelen & Markten Gids"
+    },
+    "description": {
+      "en": "Night markets, floating markets, malls, bargaining tips, what to buy, and best shopping areas by city",
+      "nl": "Nachtmarkten, drijvende markten, winkelcentra, afdingen, wat te kopen en beste winkelgebieden"
+    },
+    "icon": "🛍️",
+    "category": "cultuur"
+  },
+  {
+    "slug": "dangerous-animals-thailand",
+    "title": {
+      "en": "Dangerous Animals in Thailand",
+      "nl": "Gevaarlijke Dieren in Thailand"
+    },
+    "description": {
+      "en": "Snakes, jellyfish, mosquitoes, stray dogs, scorpions — identification, risk levels, and what to do if bitten",
+      "nl": "Slangen, kwallen, muggen, zwerfhonden, schorpioenen — herkenning, risiconiveaus en wat te doen"
+    },
+    "icon": "🐍",
+    "category": "gezondheid-veiligheid"
+  },
+  {
+    "slug": "national-parks-thailand",
+    "title": {
+      "en": "National Parks Guide",
+      "nl": "Nationale Parken Gids"
+    },
+    "description": {
+      "en": "Top 10 parks, entry fees, camping, best time to visit, wildlife spotting, and practical tips",
+      "nl": "Top 10 parken, toegangsprijzen, kamperen, beste reistijd, wildlife spotten en praktische tips"
+    },
+    "icon": "🌳",
+    "category": "activiteiten"
+  },
+  {
+    "slug": "nightlife-rooftop-bars-thailand",
+    "title": {
+      "en": "Nightlife & Rooftop Bars Guide",
+      "nl": "Nachtleven & Rooftop Bars Gids"
+    },
+    "description": {
+      "en": "Rooftop bars by city, nightlife areas, safety tips, dress codes, drink prices, and local etiquette",
+      "nl": "Rooftop bars per stad, uitgaansgebieden, veiligheidstips, dresscodes, drankprijzen en lokale etiquette"
+    },
+    "icon": "🌃",
+    "category": "cultuur"
+  },
+  {
+    "slug": "first-time-thailand",
+    "title": {
+      "en": "First Time in Thailand: 20 Things to Know",
+      "nl": "Eerste Keer Thailand: 20 Dingen om te Weten"
+    },
+    "description": {
+      "en": "Essential beginner guide covering visa basics, currency, safety, cultural norms, scams, and everything first-time visitors need to know",
+      "nl": "Essentiële beginnersgids over visum, valuta, veiligheid, culturele normen, oplichtingstrucs en alles wat je moet weten"
+    },
+    "icon": "🌟",
+    "category": "planning"
+  },
+  {
+    "slug": "thailand-with-kids",
+    "title": {
+      "en": "Thailand with Kids & Family",
+      "nl": "Thailand met Kinderen & Gezin"
+    },
+    "description": {
+      "en": "Family-friendly destinations, kid-safe beaches, resorts with kids clubs, health tips for children, and family itineraries",
+      "nl": "Kindvriendelijke bestemmingen, veilige stranden, resorts met kinderclub, gezondheidstips en gezinsroutes"
+    },
+    "icon": "👨‍👩‍👧‍👦",
+    "category": "planning"
+  },
+  {
+    "slug": "solo-female-travel-thailand",
+    "title": {
+      "en": "Solo Female Travel Thailand",
+      "nl": "Solo Reizen als Vrouw in Thailand"
+    },
+    "description": {
+      "en": "Safety tips, best cities for solo women, accommodation advice, scam awareness, transport safety, and meeting other travelers",
+      "nl": "Veiligheidstips, beste steden voor vrouwen, accommodatie-advies, oplichting herkennen, vervoer en andere reizigers ontmoeten"
+    },
+    "icon": "💪",
+    "category": "planning"
+  },
+  {
+    "slug": "thai-etiquette-dos-donts",
+    "title": {
+      "en": "Thai Etiquette: Do's & Don'ts",
+      "nl": "Thaise Etiquette: Do's & Don'ts"
+    },
+    "description": {
+      "en": "Temple rules, royal family respect, cultural taboos, wai greeting, monk interaction, tipping, dress codes, and Thai smile culture",
+      "nl": "Tempelregels, respect voor koninklijk huis, culturele taboes, wai-begroeting, monniken, fooien, dresscode en Thaise glimlachcultuur"
+    },
+    "icon": "🙏",
+    "category": "cultuur"
+  },
+  {
+    "slug": "vaccinations-travel-health-thailand",
+    "title": {
+      "en": "Vaccinations & Travel Health",
+      "nl": "Vaccinaties & Reisgezondheid"
+    },
+    "description": {
+      "en": "Required and recommended vaccines, malaria prophylaxis, travel pharmacy essentials, insect protection, and travel clinic prep timeline",
+      "nl": "Verplichte en aanbevolen vaccinaties, malariaprofylaxe, reisapotheek, insectenbescherming en tijdlijn voor reiskliniek"
+    },
+    "icon": "💉",
+    "category": "gezondheid-veiligheid"
+  },
+  {
+    "slug": "thai-phrases-language",
+    "title": {
+      "en": "Basic Thai Phrases & Language",
+      "nl": "Basis Thaise Zinnen & Taal"
+    },
+    "description": {
+      "en": "Essential greetings, numbers, directions, food ordering, bargaining phrases, tone marks, and useful language apps",
+      "nl": "Essentiële begroetingen, cijfers, richtingen, eten bestellen, afdingzinnen, toontekens en handige taalapps"
+    },
+    "icon": "🗣️",
+    "category": "cultuur"
+  },
+  {
+    "slug": "vegetarian-vegan-thailand",
+    "title": {
+      "en": "Vegetarian & Vegan Guide Thailand",
+      "nl": "Vegetarische & Vegan Gids Thailand"
+    },
+    "description": {
+      "en": "Jay vs vegetarian distinction, common dishes, ordering phrases, 7-Eleven options, vegan restaurants by city, and allergen tips",
+      "nl": "Jay vs vegetarisch verschil, gangbare gerechten, bestelfrasen, 7-Eleven opties, vegan restaurants per stad en allergeentips"
+    },
+    "icon": "🥬",
+    "category": "eten-drinken"
+  },
+  {
+    "slug": "thai-cuisine-food-guide",
+    "title": {
+      "en": "Thai Cuisine & Street Food Guide",
+      "nl": "Thaise Keuken & Straateten Gids"
+    },
+    "description": {
+      "en": "4 regional cuisines, must-try dishes, street food safety, food courts, spice levels, night markets, and cooking classes",
+      "nl": "4 regionale keukens, must-try gerechten, straateten veiligheid, foodcourts, pittig niveaus, nachtmarkten en kooklessen"
+    },
+    "icon": "🍜",
+    "category": "eten-drinken"
+  },
+  {
+    "slug": "7-eleven-thailand",
+    "title": {
+      "en": "7-Eleven Guide Thailand",
+      "nl": "7-Eleven Gids Thailand"
+    },
+    "description": {
+      "en": "Unique Thai 7-Eleven culture, best snacks and drinks, ready meals, useful services, prices, and souvenir-worthy products",
+      "nl": "Unieke Thaise 7-Eleven cultuur, beste snacks en drankjes, kant-en-klaar maaltijden, handige diensten, prijzen en souvenirs"
+    },
+    "icon": "🏪",
+    "category": "cultuur"
+  },
+  {
+    "slug": "hidden-gems-off-beaten-path-thailand",
+    "title": {
+      "en": "Hidden Gems & Off the Beaten Path",
+      "nl": "Verborgen Parels & Onontdekt Thailand"
+    },
+    "description": {
+      "en": "Lesser-known destinations: Koh Kood, Sangkhlaburi, Nan, Koh Phayam, Trang islands, and more — why they're special and how to get there",
+      "nl": "Onbekendere bestemmingen: Koh Kood, Sangkhlaburi, Nan, Koh Phayam, Trang-eilanden en meer — waarom ze bijzonder zijn"
+    },
+    "icon": "💎",
+    "category": "activiteiten"
+  },
+  {
+    "slug": "history-culture-thailand",
+    "title": {
+      "en": "History & Culture of Thailand",
+      "nl": "Geschiedenis & Cultuur van Thailand"
+    },
+    "description": {
+      "en": "Sukhothai Kingdom, Ayutthaya era, Buddhism, temple architecture, silk weaving, Muay Thai origins, and UNESCO World Heritage sites",
+      "nl": "Sukhothai-koninkrijk, Ayutthaya-tijdperk, boeddhisme, tempelarchitectuur, zijdeweverij, Muay Thai en UNESCO-werelderfgoed"
+    },
+    "icon": "🏛️",
+    "category": "cultuur"
+  }
+]

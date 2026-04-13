@@ -1,0 +1,76 @@
+{
+  "id": 5,
+  "slug": "khao-yai-national-park",
+  "name": {
+    "en": "Khao Yai National Park",
+    "nl": "Khao Yai National Park"
+  },
+  "type": "natuur",
+  "city_slug": "nakhon-ratchasima",
+  "address": "Pak Chong-kant, Nakhon Ratchasima en omliggende provincies",
+  "location": null,
+  "opening_hours": "Controleer voor vertrek uit Korat de actuele officiële parkactiviteiten, kosten en toegangseisen.",
+  "entrance_fee": {
+    "thb": null,
+    "usd": null
+  },
+  "description": {
+    "en": "Thailand's first national park and the province's major protected-landscape extension.",
+    "nl": "Thailand's eerste nationale park en de grote beschermde landschapsuitstap van de provincie."
+  },
+  "highlights": [
+    "Thailands eerste nationale park",
+    "UNESCO-werelderfgoed boscomplex",
+    "Beste natuuruitbreiding vanuit Korat"
+  ],
+  "image": "/images/cities/generated/nakhon-ratchasima.webp",
+  "seo": {
+    "metaTitle": {
+      "en": "Khao Yai National Park | Go2Thailand",
+      "nl": "Khao Yai National Park | Go2Thailand"
+    },
+    "metaDescription": {
+      "en": "Why Khao Yai should be treated as a full landscape day from Korat, not a quick add-on.",
+      "nl": "Waarom Khao Yai als volledige landschapsdag vanuit Korat moet worden gezien en niet als snelle add-on."
+    }
+  },
+  "tags": [
+    "korat",
+    "khao-yai",
+    "nationaal-park"
+  ],
+  "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=Khao%20Yai%20National%20Park",
+  "best_time": "ochtend",
+  "duration_hours": 6,
+  "enhanced_description": "Behandel Khao Yai als een volledige landschapsbelevenis, niet als een klein uitje vanuit de stad Korat. UNESCO blijft het Dong Phayayen-Khao Yai Forest Complex erkennen als werelderfgoed, en de Korat-materialen van TAT presenteren Khao Yai nog steeds als een van de kenmerkende attracties van de provincie. Precies daarom verdient het een toegewijde dag of een verblijf aan de Pak Chong-kant.\n\nAls je voor Khao Yai kiest, laat het de dag vormgeven. Pogingen om het park in hetzelfde gehaaste schema te proppen als Ya Mo en Phimai laten meestal alle drie er mager uitzien dan ze zouden moeten.",
+  "detailed_history": "UNESCO blijft het Dong Phayayen-Khao Yai Forest Complex erkennen als werelderfgoed, terwijl de provinciale Korat-brochure van TAT Khao Yai nog steeds noemt als Thailands eerste nationale park en een van de belangrijkste landschapsattracties van de provincie.",
+  "visitor_experience": "Verwacht een echte landschapsdag in plaats van een uitje aan de stadskant. Het park komt het best tot zijn recht als het tijd krijgt en wordt behandeld als het belangrijkste natuuronderdeel van de reisroute.",
+  "best_time_to_visit": {
+    "time_of_day": "Ochtendstart",
+    "duration": "Halve dag tot hele dag",
+    "crowd_level": "Variabel"
+  },
+  "practical_info": {
+    "how_to_get_there": "Beste per auto, chauffeur, of een verblijf dat al gepositioneerd is aan de Pak Chong- of Khao Yai-kant.",
+    "nearby_attractions": "Werkt met wijnproeverijen of resort-maaltijden alleen als de route al Khao Yai-gericht is.",
+    "food_options": "Plan maaltijden rond de route of je verblijf aan de Khao Yai-kant.",
+    "shopping": "Geen uitje gericht op winkelen."
+  },
+  "insider_tips": [
+    "Behandel dit niet als een snelle tussenstop vanuit centraal Korat.",
+    "Controleer voor vertrek de actuele toegang en parkdetails.",
+    "Kies dit in plaats van een andere lange dagtrip, niet in aanvulling op allemaal."
+  ],
+  "verified_note": "Samenvatting gesteund door bronnen op basis van UNESCO en actuele TAT-provinciale Korat-materialen.",
+  "cultural_significance": "Khao Yai geeft Nakhon Ratchasima zijn grootste beschermde-landschapsdimensie en een van Thailands meest erkende parknamen.",
+  "contentSources": [
+    {
+      "name": "Dong Phayayen-Khao Yai Forest Complex",
+      "url": "https://whc.unesco.org/en/list/590/"
+    },
+    {
+      "name": "Provincial Brochure: Nakhon Ratchasima",
+      "url": "https://www.turismotailandes.org.pt/WebRoot/Store/Shops/1032-180719/MediaGallery/Nova_pasta1/Nova_pasta/Provincial_Brochure_A5_Nakhon_Ratchasima_En.pdf"
+    }
+  ]
+}

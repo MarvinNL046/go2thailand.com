@@ -1,0 +1,337 @@
+[
+  {
+    "slug": "3-days-bangkok",
+    "title": {
+      "en": "3 Days in Bangkok: The Perfect Short Trip",
+      "nl": "3 Dagen in Bangkok: De Perfecte Korte Trip"
+    },
+    "duration": 3,
+    "region": "centraal",
+    "image": "/images/cities/bangkok/downtown-bangkok.webp",
+    "cities": [
+      "Bangkok"
+    ],
+    "highlights": [
+      "Grand Palace",
+      "Wat Pho",
+      "Chatuchak Market",
+      "Khao San Road",
+      "Straatvoedsel in Chinatown"
+    ],
+    "budgetRange": "$150-1,200"
+  },
+  {
+    "slug": "3-days-northern",
+    "title": {
+      "en": "3 Days in Chiang Mai: Northern Quick Escape",
+      "nl": "3 Dagen in Chiang Mai: Snelle Noordelijke Ontsnapping"
+    },
+    "duration": 3,
+    "region": "noordelijk",
+    "image": "/images/cities/chiangmai/chiang-mai-park.webp",
+    "cities": [
+      "Chiang Mai"
+    ],
+    "highlights": [
+      "Doi Suthep Tempel",
+      "Olifantenopvang",
+      "Zondag Nachtmarkt",
+      "Tempels Oude Stad",
+      "Thaise Kookles"
+    ],
+    "budgetRange": "$100-1,000"
+  },
+  {
+    "slug": "3-days-islands",
+    "title": {
+      "en": "3 Days Island Getaway: Phuket & Krabi",
+      "nl": "3 Dagen Eilandontsnapping: Phuket & Krabi"
+    },
+    "duration": 3,
+    "region": "zuidelijk",
+    "image": "/images/cities/phuket/phuket-old-town.webp",
+    "cities": [
+      "Phuket",
+      "Krabi"
+    ],
+    "highlights": [
+      "Patong Beach",
+      "Phi Phi Eilanden",
+      "Railay Beach",
+      "Grote Boeddha",
+      "Ao Nang"
+    ],
+    "budgetRange": "$150-1,500"
+  },
+  {
+    "slug": "5-days-bangkok-central",
+    "title": {
+      "en": "5 Days Bangkok & Ayutthaya: Central Thailand Explorer",
+      "nl": "5 Dagen Bangkok & Ayutthaya: Centraal Thailand Verkenner"
+    },
+    "duration": 5,
+    "region": "centraal",
+    "image": "/images/cities/bangkok/downtown-bangkok.webp",
+    "cities": [
+      "Bangkok",
+      "Ayutthaya"
+    ],
+    "highlights": [
+      "Grand Palace",
+      "Chatuchak Market",
+      "Historisch Park Ayutthaya",
+      "Wat Mahathat",
+      "Drijvende Markt",
+      "Chinatown"
+    ],
+    "budgetRange": "$200-2,000"
+  },
+  {
+    "slug": "5-days-northern",
+    "title": {
+      "en": "5 Days Northern Adventure: Chiang Mai & Chiang Rai",
+      "nl": "5 Dagen Noordelijk Avontuur: Chiang Mai & Chiang Rai"
+    },
+    "duration": 5,
+    "region": "noordelijk",
+    "image": "/images/cities/chiangmai/chiang-mai-park.webp",
+    "cities": [
+      "Chiang Mai",
+      "Chiang Rai"
+    ],
+    "highlights": [
+      "Doi Suthep",
+      "Olifantenopvang",
+      "Witte Tempel",
+      "Gouden Driehoek",
+      "Blauwe Tempel",
+      "Nachtmarkten"
+    ],
+    "budgetRange": "$180-1,800"
+  },
+  {
+    "slug": "5-days-southern-beaches",
+    "title": {
+      "en": "5 Days Southern Beaches: Phuket & Krabi",
+      "nl": "5 Dagen Zuidelijke Stranden: Phuket & Krabi"
+    },
+    "duration": 5,
+    "region": "zuidelijk",
+    "image": "/images/cities/phuket/phuket-old-town.webp",
+    "cities": [
+      "Phuket",
+      "Krabi"
+    ],
+    "highlights": [
+      "Phi Phi Eilanden",
+      "Railay Beach",
+      "Patong Beach",
+      "Smaragdpoel",
+      "Tijgergrot Tempel",
+      "Ao Nang"
+    ],
+    "budgetRange": "$250-2,800"
+  },
+  {
+    "slug": "7-days-bangkok-north",
+    "title": {
+      "en": "7 Days Bangkok to the North: Capital to Mountains",
+      "nl": "7 Dagen Bangkok naar het Noorden: Hoofdstad naar Bergen"
+    },
+    "duration": 7,
+    "region": "centraal-noordelijk",
+    "image": "/images/cities/bangkok/downtown-bangkok.webp",
+    "cities": [
+      "Bangkok",
+      "Chiang Mai",
+      "Chiang Rai"
+    ],
+    "highlights": [
+      "Grand Palace",
+      "Chatuchak Market",
+      "Doi Suthep",
+      "Olifantenopvang",
+      "Witte Tempel",
+      "Chiang Mai Nachtmarkt"
+    ],
+    "budgetRange": "$300-3,000"
+  },
+  {
+    "slug": "7-days-bangkok-south",
+    "title": {
+      "en": "7 Days Bangkok to the South: City to Beach Paradise",
+      "nl": "7 Dagen Bangkok naar het Zuiden: Stad naar Strandparadijs"
+    },
+    "duration": 7,
+    "region": "centraal-zuidelijk",
+    "image": "/images/cities/phuket/phuket-old-town.webp",
+    "cities": [
+      "Bangkok",
+      "Phuket",
+      "Krabi"
+    ],
+    "highlights": [
+      "Grand Palace",
+      "Chatuchak Market",
+      "Phi Phi Eilanden",
+      "Railay Beach",
+      "Patong Beach",
+      "Tijgergrot Tempel"
+    ],
+    "budgetRange": "$350-3,500"
+  },
+  {
+    "slug": "7-days-island-hopping",
+    "title": {
+      "en": "7 Days Island Hopping: Thailand's Best Beaches",
+      "nl": "7 Dagen Eilandhoppen: Thailand's Mooiste Stranden"
+    },
+    "duration": 7,
+    "region": "zuidelijk",
+    "image": "/images/cities/krabi/krabi-mountain-view.webp",
+    "cities": [
+      "Phuket",
+      "Krabi"
+    ],
+    "highlights": [
+      "Phi Phi Eilanden",
+      "Railay Beach",
+      "James Bond Eiland",
+      "Tour Vier Eilanden",
+      "Koh Lanta",
+      "Ao Nang"
+    ],
+    "budgetRange": "$350-4,000"
+  },
+  {
+    "slug": "10-days-north-south",
+    "title": {
+      "en": "10 Days North to South: The Ultimate Thailand Tour",
+      "nl": "10 Dagen Noord naar Zuid: De Ultieme Thailand Tour"
+    },
+    "duration": 10,
+    "region": "meerdere regio's",
+    "image": "/images/cities/chiangmai/chiang-mai-park.webp",
+    "cities": [
+      "Chiang Mai",
+      "Chiang Rai",
+      "Bangkok",
+      "Krabi"
+    ],
+    "highlights": [
+      "Doi Suthep",
+      "Witte Tempel",
+      "Gouden Driehoek",
+      "Grand Palace",
+      "Chatuchak Market",
+      "Phi Phi Eilanden",
+      "Railay Beach"
+    ],
+    "budgetRange": "$450-5,000"
+  },
+  {
+    "slug": "10-days-beach-culture",
+    "title": {
+      "en": "10 Days Beach & Culture Mix: The Best of Both Worlds",
+      "nl": "10 Dagen Strand & Cultuur Mix: Het Beste van Twee Werelden"
+    },
+    "duration": 10,
+    "region": "meerdere regio's",
+    "image": "/images/cities/bangkok/downtown-bangkok.webp",
+    "cities": [
+      "Bangkok",
+      "Ayutthaya",
+      "Phuket",
+      "Krabi"
+    ],
+    "highlights": [
+      "Grand Palace",
+      "Ruïnes van Ayutthaya",
+      "Chatuchak Market",
+      "Phi Phi Eilanden",
+      "Railay Beach",
+      "Smaragdpoel",
+      "Grote Boeddha"
+    ],
+    "budgetRange": "$450-5,500"
+  },
+  {
+    "slug": "10-days-adventure",
+    "title": {
+      "en": "10 Days Adventure Thailand: Thrills from Mountains to Sea",
+      "nl": "10 Dagen Avontuurlijk Thailand: Spanning van Bergen tot Zee"
+    },
+    "duration": 10,
+    "region": "meerdere regio's",
+    "image": "/images/cities/chiangmai/chiang-mai-park.webp",
+    "cities": [
+      "Chiang Mai",
+      "Chiang Rai",
+      "Bangkok",
+      "Phuket",
+      "Krabi"
+    ],
+    "highlights": [
+      "Wandeling Doi Inthanon",
+      "Olifantenopvang",
+      "Witte Tempel",
+      "Rotsklimmen in Railay",
+      "Snorkelen bij Phi Phi",
+      "Tijgergrot Tempel",
+      "Kajakken in Phang Nga Baai"
+    ],
+    "budgetRange": "$500-5,500"
+  },
+  {
+    "slug": "mekong-river-adventure",
+    "title": {
+      "en": "Mekong River Adventure: Thailand's Hidden Border Route",
+      "nl": "Mekong Rivier Avontuur: Thailand's Verborgen Grensroute"
+    },
+    "duration": 14,
+    "region": "Isaan",
+    "image": "/images/cities/bangkok/downtown-bangkok.webp",
+    "cities": [
+      "Chiang Khan"
+    ],
+    "highlights": [
+      "Uitzichten op de Mekongrivier",
+      "Ochtend aalmoezenronde",
+      "Chiang Khan Skywalk",
+      "Tempelfestivals",
+      "Bootraces",
+      "Authentiek Isaan Eten",
+      "Traditionele Houten Huizen",
+      "Zonsondergang over Laos"
+    ],
+    "budgetRange": "$300-1,500"
+  },
+  {
+    "slug": "14-days-complete-thailand",
+    "title": {
+      "en": "14 Days Complete Thailand: Bangkok to the South",
+      "nl": "14 Dagen Compleet Thailand: Bangkok tot het Zuiden"
+    },
+    "duration": 14,
+    "region": "meerdere regio's",
+    "image": "/images/cities/bangkok/downtown-bangkok.webp",
+    "cities": [
+      "Bangkok",
+      "Ayutthaya",
+      "Chiang Mai",
+      "Phuket",
+      "Krabi"
+    ],
+    "highlights": [
+      "Grand Palace",
+      "Ruïnes van Ayutthaya",
+      "Doi Suthep",
+      "Olifantenopvang",
+      "Phi Phi Eilanden",
+      "Railay Beach",
+      "Thaise Kookles",
+      "Nachtmarkten"
+    ],
+    "budgetRange": "$600-7,000"
+  }
+]

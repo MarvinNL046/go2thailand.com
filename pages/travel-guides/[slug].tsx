@@ -465,9 +465,9 @@ export const getStaticPaths: GetStaticPaths = async () => {
   };
 };
 
-export const getStaticProps: GetStaticProps = async ({ params }) => {
+export const getStaticProps: GetStaticProps = async ({ params, locale }) => {
   const slug = params?.slug as string;
-  const guide = getTravelGuideBySlug(slug);
+  const guide = getTravelGuideBySlug(slug, locale);
 
   if (!guide) {
     return { notFound: true };

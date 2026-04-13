@@ -1,0 +1,818 @@
+{
+  "id": 28,
+  "slug": "chanthaburi",
+  "name": {
+    "en": "Chanthaburi",
+    "nl": "Chanthaburi",
+    "ja": "チャンタブリー",
+    "ko": "찬타부리",
+    "th": "จันทบุรี",
+    "de": "Chanthaburi",
+    "fr": "Chanthaburi",
+    "ru": "Chanthaburi",
+    "zh": "Chanthaburi"
+  },
+  "region": "Centraal",
+  "province": "Chanthaburi",
+  "description": {
+    "en": "An eastern Thai riverside city known for the gem trade, old waterfront streets, Catholic heritage, tropical fruit, and access to waterfalls and coast.",
+    "nl": "Een oostelijke Thaise rivierstad die bekendstaat om de edelsteenhandel, oude waterfrontstraten, katholiek erfgoed, tropisch fruit en toegang tot watervallen en kust.",
+    "ja": "宝石取引、川沿いの旧市街、カトリック遺産、熱帯果物、滝や海岸へのアクセスで知られるタイ東部の川辺の町です。",
+    "ko": "보석 거래, 강변 올드타운, 가톨릭 유산, 열대 과일, 폭포와 해안 접근성으로 알려진 태국 동부의 강변 도시입니다.",
+    "th": "เมืองริมแม่น้ำในภาคตะวันออกของไทย ที่เด่นเรื่องอัญมณี ชุมชนเก่าริมน้ำ มรดกคาทอลิก ผลไม้เมืองร้อน และการเดินทางต่อสู่น้ำตกกับชายฝั่ง",
+    "de": "Eine Flussstadt im Osten Thailands, bekannt für Edelsteinhandel, alte Uferstraßen, katholisches Erbe, tropische Früchte sowie den Zugang zu Wasserfällen und Küste.",
+    "fr": "Une ville fluviale de l'est de la Thaïlande connue pour le commerce des gemmes, les vieilles rues du front de rivière, l'héritage catholique, les fruits tropicaux et l'accès aux cascades et au littoral.",
+    "ru": "Речной город на востоке Таиланда, известный торговлей драгоценными камнями, старой набережной, католическим наследием, тропическими фруктами и доступом к водопадам и побережью.",
+    "zh": "泰国东部的河畔城市，以宝石贸易、老河岸街区、天主教遗产、热带水果以及通往瀑布和海岸的便利而闻名。"
+  },
+  "population": 35897,
+  "highlights": [
+    "Chanthaburi Gems Market",
+    "Cathedral of the Immaculate Conception",
+    "Chanthaboon Waterfront Community",
+    "Namtok Phlio National Park",
+    "Fruit-boomseizoen"
+  ],
+  "location": {
+    "lat": 12.6113,
+    "lng": 102.1032
+  },
+  "image": "/images/cities/generated/chanthaburi.webp",
+  "seo": {
+    "metaTitle": {
+      "en": "Chanthaburi Thailand Guide 2026 | Gems, Old Town, Fruit, Waterfalls",
+      "nl": "Ontdek Chanthaburi | Wat te doen in Chanthaburi?",
+      "ja": "チャンタブリー タイ — 宝石の都観光ガイド 2026",
+      "ko": "찬타부리 태국 — 보석 시장 & 열대 과일 가이드",
+      "th": "จันทบุรี ประเทศไทย — คู่มือท่องเที่ยวฉบับสมบูรณ์ 2026",
+      "de": "Entdecken Sie Chanthaburi | Was tun in Chanthaburi?",
+      "fr": "Découvrez Chanthaburi | Que faire à Chanthaburi ?",
+      "ru": "Откройте для себя Чантхабури | Чем заняться в Чантхабури?",
+      "zh": "发现 Chanthaburi | 在 Chanthaburi 做什么？"
+    },
+    "metaDescription": {
+      "en": "Plan a smarter Chanthaburi trip with gem-market timing, Chanthaboon old town, cathedral, fruit season, Namtok Phlio, coastal detours, and stay advice for 2026.",
+      "nl": "Jouw gids voor Chanthaburi, Thailand – edelsteenmarkt, kathedraal, tropisch fruit en watervallen.",
+      "ja": "チャンタブリー（タイ）旅行ガイド — 宝石市場、大聖堂、トロピカルフルーツ、滝情報。2026年更新。",
+      "ko": "찬타부리 가이드 — 보석 시장, 대성당, 열대 과일, 폭포 정보.",
+      "th": "คู่มือท่องเที่ยวจันทบุรี ประเทศไทย — สถานที่ท่องเที่ยว อาหาร ที่พัก และเคล็ดลับ อัปเดต 2026",
+      "de": "Ihr Reiseführer durch Chanthaburi, Thailand – Edelsteinmarkt, Kathedrale, tropische Früchte und Wasserfälle.",
+      "fr": "Votre guide pour Chanthaburi, Thaïlande – marché des gemmes, cathédrale, fruits tropicaux et cascades.",
+      "ru": "Ваш гид по Чантхабури, Таиланд — рынок драгоценных камней, кафедральный собор, тропические фрукты и водопады.",
+      "zh": "您的 Chanthaburi 指南，泰国——宝石市场、教堂、热带水果与瀑布。"
+    }
+  },
+  "categories": {
+    "food": {
+      "en": "Best restaurants and street food in Chanthaburi",
+      "nl": "Beste restaurants en streetfood in Chanthaburi",
+      "ja": "チャンタブリーのおすすめレストランとストリートフード",
+      "ko": "찬타부리 추천 레스토랑과 길거리 음식",
+      "th": "ร้านอาหารและสตรีทฟู้ดที่ดีที่สุดในจันทบุรี"
+    },
+    "hotels": {
+      "en": "Top hotels in Chanthaburi | Tips & deals",
+      "nl": "Beste hotels in Chanthaburi | Tips & aanbiedingen",
+      "ja": "チャンタブリーのおすすめホテル | ヒント＆お得情報",
+      "ko": "찬타부리 추천 호텔 | 팁 & 특가",
+      "th": "โรงแรมแนะนำในจันทบุรี | เคล็ดลับและดีล"
+    },
+    "attractions": {
+      "en": "Top attractions in Chanthaburi",
+      "nl": "Top bezienswaardigheden in Chanthaburi",
+      "ja": "チャンタブリーの人気観光スポット",
+      "ko": "찬타부리 인기 관광 명소",
+      "th": "สถานที่ท่องเที่ยวยอดนิยมในจันทบุรี"
+    }
+  },
+  "tags": [
+    "chanthaburi",
+    "oost-thailand",
+    "edelstenen",
+    "oude-stad",
+    "fruit",
+    "watervallen",
+    "thailand",
+    "reizen",
+    "toerisme",
+    "gids"
+  ],
+  "enhanced_description": "Chanthaburi is een van de makkelijkst te onderschatten steden in Thailand, omdat geen van zijn sterke punten in één opvallende headline is verpakt. Het is een edelsteenhandelstad, een fruitprovincie, een oude riviergemeenschap, een katholiek erfgoedcentrum en een toegangspoort tot zowel watervallen als de kust. Die mix is precies waarom de stad het beste werkt als je hem plant als een gelaagde stop in oost-Thailand, in plaats van als een snelle weekenduitbreiding op Bangkok met een of twee beroemde foto's.\n\nDe rivierkant van de stad is waar de stad het meest onderscheidend wordt. Chanthaboon Waterfront Community, de kathedraal, oudere winkelpanden, Vietnamees en Chinees erfgoed, en riviergerichte eetgelegenheden liggen allemaal dicht genoeg bij elkaar om wandelen te belonen. De edelsteenmarkt geeft Chanthaburi zijn commerciële identiteit, maar de stad krijgt pas volledig zin als je ook tijd doorbrengt in de oude stad en lokaal eet, in plaats van de markt als het enige punt van het bezoek te zien.\n\nHet beloont ook realistische timing. Weekendactiviteit op de edelsteenmarkt, het fruitseizoen van ruwweg mei tot juli, en groener watervalcondities in nattere maanden veranderen allemaal welk soort Chanthaburi-reis je eigenlijk maakt. Reizigers die vroeg beslissen of ze een oude-stad verblijf willen, een fruitseizoen route of een kust-en-natuur mix, halen meestal veel meer uit de provincie dan degenen die proberen alles tegelijk af te vinken.",
+  "overview": "Chanthaburi is een van de sterkste steden voor een kort uitje in oost-Thailand als je geschiedenis, eten en regionale identiteit wilt zonder een resort-zware sfeer. De bestemmingsmaterialen van TAT benadrukken de provincie via edelstenen, fruit, religieus erfgoed en gemengde Thais-Chinese-Vietnamese geschiedenis, en dat is de juiste aanpak. De kathedraal en de oude waterfront zijn de kerncultuurankers van de stad. De edelsteenmarkt legt de commerciële reputatie uit. Fruitboomgaarden, Namtok Phlio National Park en de kust verbreden de reis voorbij het stadscentrum.\n\nDie variëteit betekent ook dat de stad het beste werkt met een duidelijke basisstrategie. Verblijf rond de rivier en de oude stad als je het meest om sfeer, eten en wandelbaar erfgoed geeft. Kies voor een modern stadshotel als je eenvoudige parkeergelegenheid en makkelijke toegang tot zowel de stad als provinciale roadtrips wilt. Ga alleen naar Chao Lao Beach als de kust echt deel van het plan is. Chanthaburi is beter als een stad-plus-regio reisplan dan als een pure stadsbreak of een pure stranddetour.",
+  "hidden_gems": [
+    {
+      "name": "Nam Pu Market",
+      "story": "Nam Pu Market is een van de nuttigste stops voor eten en lokaal leven in Chanthaburi, omdat het direct aansluit bij de rivieridentiteit van de stad en traditionele producten, in plaats van te functioneren als een generieke marktaanbeveling.",
+      "how_to_find": "Integreer het in een wandeling langs de Chanthaboon Waterfront in plaats van het als een aparte excursie door de stad te behandelen.",
+      "best_time": "De ochtend is het sterkst als je de markt in werkmodus wilt zien in plaats van in wandelmodus.",
+      "local_insights": [
+        "Dit is beter voor snacks, zoetigheden en lokaal ritme dan voor een lange zit-maaltijd.",
+        "Het werkt vooral goed als je al de rivierwijk verkent."
+      ]
+    },
+    {
+      "name": "Baan Luang Rajamaitri Historic Inn",
+      "story": "Zelfs als je hier niet overnacht, is de herberg een van de duidelijkste manieren om te begrijpen hoe het erfgoedarchitectuur van Chanthaboon is behouden door gemeenschapsgeleide hergebruik in plaats van een losstaand museum-aanpak.",
+      "how_to_find": "Zoek het binnen de oude waterfrontgemeenschap in plaats van een groot onafhankelijk attractiecomplex te verwachten.",
+      "best_time": "Laat in de middag past het beste bij de oude-stadstraten en de rivierzijde.",
+      "local_insights": [
+        "Dit is een van de beste voorbeelden van hoe het erfgoed van Chanthaburi wordt beleefd in plaats van in scène gezet.",
+        "Het combineert natuurlijk met de kathedraal en waterfront eetstops."
+      ]
+    },
+    {
+      "name": "Native sweet shops around Chanthaboon",
+      "story": "De Chanthaburi-voedselartikelen van TAT hebben gelijk dat ze lokale zoetigheden benadrukken, omdat ze de oude stad specifiek laten voelen op een manier die koffietent-en-foto itineraries niet doen. Ze zijn een praktische manier om de stad te verankeren in lokale smaak in plaats van generieke cafécultuur.",
+      "how_to_find": "Verken de oude stad en de zijstraatjes van Nam Pu te voet in plaats van alleen te zoeken naar één vlaggenschipdessertkamer.",
+      "best_time": "Laat in de ochtend tot middag werkt goed als deel van een trage rivierwandeling.",
+      "local_insights": [
+        "Koop kleine hoeveelheden bij verschillende winkels in plaats van één stop als de volledige ervaring te behandelen.",
+        "Dit is een van de makkelijkste manieren om een erfgoedwandeling om te zetten in een echte voedselroute."
+      ]
+    },
+    {
+      "name": "Kung Krabaen boardwalk",
+      "story": "Veel bezoekers zeggen dat ze naar de kust gaan, maar de mangrove-loopplank bij Kung Krabaen is vaak de meer onderscheidende stop, omdat het ecologie en landschapsbegrip toevoegt in plaats van alleen nog een strandzicht.",
+      "how_to_find": "Behandel het als een dag aan de kust van Tha Mai in plaats van als een snelle toevoeging vanuit het rivierfront stadscentrum.",
+      "best_time": "Ochtend of late middag voelt meestal beter dan de piek midday hitte.",
+      "local_insights": [
+        "Dit is lonender als je een natuurlopen wilt dan als je alleen wilt zwemmen.",
+        "Het combineert goed met Chao Lao Beach of een zeevruchtenlunch aan dezelfde kant van de provincie."
+      ]
+    }
+  ],
+  "authentic_experiences": [
+    {
+      "activity": "Zie Chanthaburi eerst als een rivierstad, niet alleen als een edelsteenstop",
+      "story": "De stad wordt veel coherenter als je begint aan de Chanthaboon-kant met de kathedraal, waterfrontgemeenschap, marktstops en rivierzijde dineren, in plaats van te leiden met de edelsteenmarkt en de rest als optionele vulling te behandelen.",
+      "cultural_significance": "Dit is het deel van Chanthaburi waar Chinese, Vietnamese, katholieke en Thaise invloeden het makkelijkst samen te lezen zijn.",
+      "how_to_participate": "Loop door de oude stad, controleer je route met de markt timing, en laat ruimte voor zowel een voedselstop als een langzamere kerk- of museumnabije pauze.",
+      "insights": [
+        "Eén langzamere rivierdag leert vaak meer over de stad dan een gehaaste markt-plus-waterval lus.",
+        "De oude stad is het sterkst te voet, niet door met de auto tussen punten te springen."
+      ],
+      "href": "/city/chanthaburi/top-10-attractions/",
+      "cta_label": "Bekijk de Chanthaburi bezienswaardigheden gids"
+    },
+    {
+      "activity": "Gebruik weekend timing als edelstenen een echte prioriteit zijn",
+      "story": "De edelsteenmarkt is centraal voor de identiteit van Chanthaburi, maar het is geen zeven dagen identieke ervaring. Weekend timing doet ertoe als je de handel op zijn meest actieve wilt zien in plaats van alleen de stad eromheen.",
+      "cultural_significance": "Edelsteenhandel is een van de definiërende economische tradities van de provincie en vormt nog steeds hoe Chanthaburi nationaal en internationaal wordt gezien.",
+      "how_to_participate": "Als de edelsteenmarkt voor jou telt, plan de stad eromheen in plaats van te hopen dat het midden in de week hetzelfde voelt.",
+      "insights": [
+        "Dit is het waard om voor te plannen, zelfs als je niets koopt.",
+        "De markt is sterker als een observatie- en contextstop dan als een impulsieve winkelsessie."
+      ],
+      "href": "/city/chanthaburi/top-10-attractions/",
+      "cta_label": "Bekijk de Chanthaburi bezienswaardigheden gids"
+    },
+    {
+      "activity": "Behandel het fruitseizoen als een andere Chanthaburi-reis, niet alleen als een weernotitie",
+      "story": "De oost-fruit dekking van TAT maakt duidelijk dat mei tot juli de provincie verandert. Boomgaarden, proeverijen, roadside fruit kopen en seizoensverkeerpatronen worden allemaal deel van de ervaring.",
+      "cultural_significance": "Fruit is geen bijzaak in Chanthaburi. Het is deel van de identiteit van de provincie en een van de sterkste redenen waarom binnenlandse reizigers seizoensreizen hier plannen.",
+      "how_to_participate": "Als je reist in het fruitseizoen, bouw boomgaardtijd in en accepteer dat dit de hoofdmoot van de reis kan worden.",
+      "insights": [
+        "Het fruitseizoen kan een reden zijn om te komen, niet alleen een leuke bonus.",
+        "Buiten het fruitseizoen, houd boomgaarden secundair en focus meer op stad, rivier en natuur."
+      ],
+      "href": "/city/chanthaburi/best-time-to-visit/",
+      "cta_label": "Bekijk de seizoensplanning gids"
+    },
+    {
+      "activity": "Gebruik de stad als hub voor één gerichte natuurbuitenweg",
+      "story": "Chanthaburi werkt het beste met één zorgvuldig gekozen natuurtoevoeging zoals Namtok Phlio of Kung Krabaen, in plaats van een overbouwd provinciebrede dag van kust, watervallen en boomgaarden tegelijk.",
+      "cultural_significance": "De kracht van de stad is dat het stedelijk erfgoed en oost-Thaise natuur binnen één korte reis laat passen.",
+      "how_to_participate": "Kies één natuurkant op basis van weer en interesses, en keer dan terug naar de stad voor diner in plaats van door te gaan tot het donker is.",
+      "insights": [
+        "Eén goede detour verslaat meestal drie zwakke.",
+        "Dit is een stad die beloning geeft voor redactie, niet voor maximaliseren."
+      ],
+      "href": "/city/chanthaburi/top-10-attractions/",
+      "cta_label": "Plan de Chanthaburi natuurstops"
+    }
+  ],
+  "foodie_adventures": [
+    {
+      "dish": "Chanthaburi lokale set gerechten en zeevruchten",
+      "location": "Krua Maneechan",
+      "story": "Krua Maneechan is een van de duidelijkste plekken om te beginnen als je een gepolijst maar nog steeds lokaal geworteld overzicht van Chanthaburi-koken wilt, in plaats van generieke Thaise menuvulling.",
+      "where_to_find": "Gebruik het restaurant van Maneechan Resort als je een betrouwbare stadsmiddag wilt met oost-Thaise identiteit en makkelijk groep bestellen.",
+      "price_range": "Middenklasse",
+      "ordering_tips": [
+        "Dit werkt goed als de geplande zit-maaltijd van de reis in plaats van als een snelle lunchpauze.",
+        "Bestel om te delen zodat het lokale en zeevruchten assortiment echt zinvol wordt."
+      ],
+      "href": "/city/chanthaburi/top-10-restaurants/",
+      "cta_label": "Bekijk de Chanthaburi eten gids"
+    },
+    {
+      "dish": "Chanthaburi Thaise klassiekers aan de rivier",
+      "location": "Chanthorn Phochana",
+      "story": "Chanthorn is een van de meest verdedigbare klassieke namen van de stad, omdat het verankerd is in de eigen restaurantcultuur van Chanthaburi, niet in gekopieerde toeristenbranding.",
+      "where_to_find": "Ga naar Chanthorn als je een bekende lokale restaurant wilt die verbonden is met de rivierstad-identiteit, in plaats van een kust-alleen zeevruchtendetour.",
+      "price_range": "Middenklasse",
+      "ordering_tips": [
+        "Dit is een betere dineranker dan een tussendoor snackstop.",
+        "Ga erin met een lokale stijl gedeelde-tafel mindset."
+      ],
+      "href": "/city/chanthaburi/top-10-restaurants/",
+      "cta_label": "Bekijk de Chanthaburi eten gids"
+    },
+    {
+      "dish": "Oude-stad zoetigheden en snacks",
+      "location": "Chanthaboon Waterfront en Nam Pu Market",
+      "story": "De voedseldekking van TAT maakt duidelijk dat inheemse zoetigheden en snackstops deel zijn van hoe Chanthaburi gegeten moet worden. Ze veranderen de oude stad van een fotowandeling in een echte proeverijroute.",
+      "where_to_find": "Loop door de oude waterfront en markt zijstraatjes in plaats van te vertrouwen op één enkele dessertstop.",
+      "price_range": "Budget",
+      "ordering_tips": [
+        "Proef kleine porties bij verschillende plekken in plaats van één oversized bestelling.",
+        "Dit is het sterkst bij daglicht als de waterfront al deel van het plan is."
+      ],
+      "href": "/city/chanthaburi/top-10-restaurants/",
+      "cta_label": "Bekijk de Chanthaburi eten gids"
+    },
+    {
+      "dish": "Fruitseizoen boomgaard proeverijen",
+      "location": "Chanthaburi boomgaard routes",
+      "story": "Mei tot juli is de duidelijkste seizoensreden voor eten om Chanthaburi te bezoeken, en boomgaardtijd moet behandeld worden als een echte culinaire activiteit, niet alleen als roadside shopping.",
+      "where_to_find": "Gebruik boomgaardbezoeken tijdens het hoofdfruitvenster als dat seizoen een centrale reden voor de reis is.",
+      "price_range": "Varieert per boomgaard en seizoen",
+      "ordering_tips": [
+        "Prioriteer dit alleen in het fruitseizoen; buiten dat venster, houd voedselplannen verankerd in de stad.",
+        "Behandel boomgaard proeven niet als uitwisselbaar met een normale restaurantmaaltijd."
+      ],
+      "href": "/city/chanthaburi/best-time-to-visit/",
+      "cta_label": "Bekijk de seizoensplanning gids"
+    }
+  ],
+  "local_insights": [
+    {
+      "observation": "Chanthaburi is sterker als een gemixte stad-en-provincie stop dan als een pure oude-stad break.",
+      "tip": "Gebruik de stad als anker, en voeg dan alleen één goed gekozen natuur- of kustdetour toe.",
+      "surprise": "Proberen edelstenen, oude stad, watervallen, kust en boomgaarden in één kort verblijf te dekken, maakt de reis meestal plat."
+    },
+    {
+      "observation": "De oude waterfront is het beste organiserende district van de stad.",
+      "tip": "Zet de kathedraal, markt snacks, erfgoedstops en rivier maaltijd in hetzelfde wandelblok.",
+      "surprise": "Zodra je die kant goed plant, voelt Chanthaburi veel completer dan zijn bescheiden skyline suggereert."
+    },
+    {
+      "observation": "Weekend timing telt als edelstenen deel van je reden om te komen zijn.",
+      "tip": "Ga niet ervan uit dat de edelsteenmarkt sfeer elke dag identiek is.",
+      "surprise": "Zelfs reizigers die nooit stenen kopen, vinden de handelsomgeving vaak een van de meest memorabele ervaringen van de stad."
+    },
+    {
+      "observation": "Seizoen verandert de identiteit van de reis hier meer dan in veel Thaise secundaire steden.",
+      "tip": "Beslis vroeg of je Chanthaburi een koel-seizoen erfgoedstop, een fruitreis of een groen-seizoen watervaldetour is.",
+      "surprise": "De juiste timing kan net zoveel tellen als het juiste hotel."
+    }
+  ],
+  "seasonal_secrets": {
+    "best_times": {
+      "November-February": "Meestal de makkelijkste periode voor oude-stad wandelen, kathedraalbezoeken en gemixte stad-plus-natuur itineraries.",
+      "May-July": "Het definiërende fruitvenster, wanneer boomgaardbezoeken en fruit kopen een van de hoofdattracties van de provincie worden."
+    },
+    "local_festivals": [
+      "Fruitseizoen fairs en boomgaard events zijn meestal geconcentreerd rond late lente tot vroege regenseizoen",
+      "Loy Krathong - meestal november"
+    ],
+    "seasonal_foods": {
+      "fruit_season": "Durian, mangosteen, rambutan en andere tropische vruchten zijn de hoofdreden om een Chanthaburi voedselreis in dit venster te plannen.",
+      "year_round": "Oude-stad zoetigheden, rivierzijde dineren en Chanthaburi lokale gerechten blijven nuttig in elk seizoen."
+    },
+    "insider_tips": {
+      "hot_season": "Houd oude-stad wandelen vroeg of laat en gebruik interieurs zoals de kathedraal en cafés als resets.",
+      "wet_season": "Watervallen kunnen sterker en groener voelen, maar weg-en-pad plannen hebben meer flexibiliteit nodig.",
+      "gem_weekends": "Als de edelsteenmarkt telt, bescherm die timing eerst voordat je het hotel boekt."
+    }
+  },
+  "budget_reality": {
+    "budget": "€23-41 per dag",
+    "mid_range": "€46-101 per dag",
+    "luxury": "€110-221 per dag",
+    "examples": [
+      "Budgetdagen betekenen meestal een eenvoudig stadverblijf, lokaal eten en één betaalde natuur- of museumachtige stop.",
+      "Middenklasse uitgaven dekken typisch een sterker stadshotel, één geplande restaurantmaaltijd en een auto-gebaseerde detour naar watervallen of kust.",
+      "Hogere uitgaven in Chanthaburi gaan vaak naar een beter hotel, kustgerichte kamer of fruitseizoen toevoegingen, in plaats van naar klassiek luxe shopping."
+    ],
+    "money_saving_tricks": [
+      "Verblijf in de stad en doe de kust of waterval als een dagtrip, tenzij het strand de echte prioriteit is.",
+      "Loop door het oude waterfront district in plaats van te betalen voor herhaalde korte transfers daar."
+    ],
+    "hidden_costs": [
+      "Privévervoer voor watervallen, boomgaarden en kustdetours kan het budget sneller opsouperen dan de stadsbezichtigingen zelf.",
+      "Het fruitseizoen kan de accommodatievraag in de provincie hoger duwen dan eerste bezoekers verwachten."
+    ]
+  },
+  "top_attractions": [
+    {
+      "rank": 1,
+      "name": "Chanthaburi Gems Market",
+      "description": "De kenmerkende commerciële landmark van de stad en de duidelijkste reden om Chanthaburi rond een weekend te plannen.",
+      "location": "Chanthaburi stad",
+      "entrance_fee": "Gratis om te browsen; kopen vereist expertise en geduld",
+      "highlights": [
+        "Weekend edelsteenhandel sfeer",
+        "Kern stad identiteit",
+        "Beste als een observatiestop zelfs voor niet-kopers"
+      ],
+      "href": "/city/chanthaburi/top-10-attractions/",
+      "cta_label": "Bekijk de Chanthaburi bezienswaardigheden gids"
+    },
+    {
+      "rank": 2,
+      "name": "Cathedral of the Immaculate Conception",
+      "description": "Een definiërende Chanthaburi landmark en een sleutelreden waarom de oude rivierwijk anders voelt dan de meeste Thaise secundaire steden.",
+      "location": "Chanthaboon riviergebied",
+      "entrance_fee": "Kleed je respectvol en check gebruik voor eredienst voor binnenkomst",
+      "highlights": [
+        "Grootste katholieke kathedraal in Thailand",
+        "Belangrijk erfgoedmerk",
+        "Beste gecombineerd met een waterfront wandeling"
+      ],
+      "href": "/city/chanthaburi/top-10-attractions/",
+      "cta_label": "Bekijk de Chanthaburi bezienswaardigheden gids"
+    },
+    {
+      "rank": 3,
+      "name": "Chanthaboon Waterfront Community",
+      "description": "Het beste district om te begrijpen hoe de handel, eten, religie en architectuur van Chanthaburi samenhangen.",
+      "location": "Chan River / oude stad",
+      "entrance_fee": "Geen grote toelatingplanning is meestal nodig",
+      "highlights": [
+        "Historisch rivierdistrict",
+        "Wandelbaar erfgoedkern",
+        "Beste zone voor eten en sfeer"
+      ],
+      "href": "/city/chanthaburi/top-10-attractions/",
+      "cta_label": "Bekijk de Chanthaburi bezienswaardigheden gids"
+    },
+    {
+      "rank": 4,
+      "name": "Namtok Phlio National Park",
+      "description": "De makkelijkste waardevolle natuuruitstap vanuit de stad en een van de meest betrouwbare watervalstops in de provincie.",
+      "location": "Laem Sing-kant van de provincie",
+      "entrance_fee": "Controleer de huidige entreeprijs voor het nationale park voor je bezoek",
+      "highlights": [
+        "Toegankelijke watervaluitstap",
+        "Sterke beloning in het groene seizoen",
+        "Beste keuze voor één natuurstop vanuit de stad"
+      ],
+      "href": "/city/chanthaburi/top-10-attractions/",
+      "cta_label": "Bekijk de Chanthaburi bezienswaardigheden gids"
+    },
+    {
+      "rank": 5,
+      "name": "Kung Krabaen Bay Royal Development Study Center",
+      "description": "Een sterke kust-mangrove en ecologie stop die meer diepgang toevoegt dan een simpele strand-uitstap.",
+      "location": "Tha Mai District",
+      "entrance_fee": "Meestal benaderd als een educatieve natuurbijeenkomst in plaats van een dure attractie",
+      "highlights": [
+        "Mangrove promenade",
+        "Koninklijk ontwikkelingsproject context",
+        "Goede combinatie met de kust"
+      ],
+      "href": "/city/chanthaburi/top-10-attractions/",
+      "cta_label": "Bekijk de Chanthaburi bezienswaardigheden gids"
+    },
+    {
+      "rank": 6,
+      "name": "Fruit orchards in season",
+      "description": "Een van de duidelijkste redenen om specifiek Chanthaburi te bezoeken in het late voorjaar en het vroege regenseizoen.",
+      "location": "Provinciale boomgaardroutes",
+      "entrance_fee": "Verschilt per boomgaard en seizoen",
+      "highlights": [
+        "Beste seizoensreden om te bezoeken",
+        "Fruitproeverijroutes",
+        "Kern van de provinciale identiteit"
+      ],
+      "href": "/city/chanthaburi/best-time-to-visit/",
+      "cta_label": "Bekijk de seizoensplanning gids"
+    }
+  ],
+  "top_restaurants": [
+    {
+      "rank": 1,
+      "name": "Krua Maneechan",
+      "description": "Een betrouwbare gepolijste stop voor lokale Chanthaburi-gerechten, zeevruchten en Oost-Thaise smaken in een setting die nog steeds geworteld voelt in de provincie.",
+      "cuisine_type": "Thais / Chinees / Zeevruchten",
+      "price_range": "Middenklasse",
+      "location": "Maneechan Resort gebied",
+      "highlights": [
+        "Officiële positionering voor lokale keuken",
+        "Goed voor groepen",
+        "Betrouwbare eerste zit-stopt keuze"
+      ],
+      "href": "/city/chanthaburi/top-10-restaurants/",
+      "cta_label": "Bekijk de volledige Chanthaburi eetgids"
+    },
+    {
+      "rank": 2,
+      "name": "Chanthorn Phochana",
+      "description": "Een van de meest gevestigde klassieke lokale namen in de stad en een goede manier om een Chanthaburi-reis gecentreerd te houden op de rivierstad eetcultuur.",
+      "cuisine_type": "Thais",
+      "price_range": "Middenklasse",
+      "location": "Chanthaburi stad",
+      "highlights": [
+        "Bekende lokale instelling",
+        "Sterke gedeelde-gerechten stop",
+        "Stad-identiteit restaurant"
+      ],
+      "href": "/city/chanthaburi/top-10-restaurants/",
+      "cta_label": "Bekijk de volledige Chanthaburi eetgids"
+    },
+    {
+      "rank": 3,
+      "name": "Tamajun Restaurant",
+      "description": "Een nuttige rivier-aangrenzende maaltijd als je de oude-stad setting wilt laten doorlopen naar het diner en niet alleen naar bezichtigingen.",
+      "cuisine_type": "Thais",
+      "price_range": "Middenklasse",
+      "location": "Chanthaboon riviergebied",
+      "highlights": [
+        "Rivier setting",
+        "Past goed bij oude-stad wandelingen",
+        "Beter gepland dan incidenteel"
+      ],
+      "href": "/city/chanthaburi/top-10-restaurants/",
+      "cta_label": "Bekijk de volledige Chanthaburi eetgids"
+    },
+    {
+      "rank": 4,
+      "name": "Koff House Coffee Bar & Eatery",
+      "description": "Een praktische rivierkant café-en-maaltijd stop als je een meer casual oude-stad pauze wilt zonder het rivierkwartier te verlaten.",
+      "cuisine_type": "Café / Thais / lichte maaltijden",
+      "price_range": "Budget tot middenklasse",
+      "location": "Chan River",
+      "highlights": [
+        "Rivierkant zitplaatsen",
+        "Goede oude-stad reset",
+        "Nuttige dagstop"
+      ],
+      "href": "/city/chanthaburi/top-10-restaurants/",
+      "cta_label": "Bekijk de volledige Chanthaburi eetgids"
+    },
+    {
+      "rank": 5,
+      "name": "Nam Pu Market and old-town sweets",
+      "description": "Een betere eetcontext stop dan veel generieke restaurantlijsten omdat het direct aansluit bij de rivierkwartier identiteit van Chanthaburi en traditionele snacks.",
+      "cuisine_type": "Markt snacks en zoetigheden",
+      "price_range": "Budget",
+      "location": "Chanthaboon / Nam Pu zijstraten",
+      "highlights": [
+        "Beste voor proeverijroute waarde",
+        "Goede erfgoed-eten pairing",
+        "Werkt te voet"
+      ],
+      "href": "/city/chanthaburi/top-10-restaurants/",
+      "cta_label": "Bekijk de volledige Chanthaburi eetgids"
+    }
+  ],
+  "top_hotels": [
+    {
+      "rank": 1,
+      "name": "Maneechan Resort",
+      "description": "Een van de sterkste allround Chanthaburi bases als je een comfortabel stadsverblijf wilt met eetgelegenheden ter plaatse en makkelijke regionale toegang.",
+      "price_range": "Middenklasse tot luxe",
+      "category": "luxe",
+      "area": "Chanthaburi stad",
+      "highlights": [
+        "Gevestigd stadresort",
+        "Goed eten ter plaatse",
+        "Nuttige allround basis"
+      ],
+      "href": "/city/chanthaburi/top-10-hotels/",
+      "cta_label": "Bekijk de Chanthaburi hotelgids"
+    },
+    {
+      "rank": 2,
+      "name": "Rimnaam Klangchan Hotel",
+      "description": "Een praktisch rivierkant hotel voor reizigers die nieuwere comfort willen dicht bij het stadscentrum zonder naar de strandkant te verhuizen.",
+      "price_range": "Middenklasse",
+      "category": "middenklasse",
+      "area": "Chanthaburi riviergebied",
+      "highlights": [
+        "Rivierkant positie",
+        "Goed stadscomfort",
+        "Makkelijke toegang voor gemengde itineraries"
+      ],
+      "href": "/city/chanthaburi/top-10-hotels/",
+      "cta_label": "Bekijk de Chanthaburi hotelgids"
+    },
+    {
+      "rank": 3,
+      "name": "Baan Luang Rajamaitri Historic Inn",
+      "description": "Het meest karaktervolle erfgoedverblijf in de oude stad als sfeer en historische setting belangrijker zijn dan resortfaciliteiten.",
+      "price_range": "Middenklasse boetiek",
+      "category": "luxe",
+      "area": "Chanthaboon Waterfront",
+      "highlights": [
+        "Historische-herberg identiteit",
+        "Beste oude-stad sfeer",
+        "Sterk gevoel van plaats"
+      ],
+      "href": "/city/chanthaburi/top-10-hotels/",
+      "cta_label": "Bekijk de Chanthaburi hotelgids"
+    },
+    {
+      "rank": 4,
+      "name": "Blue Rabbit Hotel",
+      "description": "Een slimme, moderne optie als je meer waarde hecht aan eenvoudige comfort, parkeren en efficiënte stads toegang dan aan erfgoedstyling.",
+      "price_range": "Middenklasse",
+      "category": "middenklasse",
+      "area": "Chanthaburi stad",
+      "highlights": [
+        "Moderne kamergevoel",
+        "Goede praktische basis",
+        "Makkelijke stads toegang"
+      ],
+      "href": "/city/chanthaburi/top-10-hotels/",
+      "cta_label": "Bekijk de Chanthaburi hotelgids"
+    },
+    {
+      "rank": 5,
+      "name": "Tamajun Hotel",
+      "description": "Een kleiner rivier-gericht verblijf dat het beste werkt voor reizigers die de oude-stad wijk centraal willen houden in de reis.",
+      "price_range": "Middenklasse boetiek",
+      "category": "middenklasse",
+      "area": "Chanthaboon riviergebied",
+      "highlights": [
+        "Oude-stad setting",
+        "Rivier-aangrenzend verblijf",
+        "Goed voor kortere erfgoedbreaks"
+      ],
+      "href": "/city/chanthaburi/top-10-hotels/",
+      "cta_label": "Bekijk de Chanthaburi hotelgids"
+    },
+    {
+      "rank": 6,
+      "name": "Chaolao Cabana Resort",
+      "description": "Een betere keuze dan stadhotels alleen als Chao Lao Beach echt deel uitmaakt van het plan in plaats van een token zijuitstap.",
+      "price_range": "Middenklasse strandresort",
+      "category": "middenklasse",
+      "area": "Chao Lao Beach",
+      "highlights": [
+        "Strandfront oriëntatie",
+        "Beste voor kust-eerst verblijven",
+        "Nuttig alleen als het strand ertoe doet"
+      ],
+      "href": "/city/chanthaburi/top-10-hotels/",
+      "cta_label": "Bekijk de Chanthaburi hotelgids"
+    }
+  ],
+  "travel_tips": [
+    "Beslis vroeg of de reis edelsteen-geleid, erfgoed-geleid, fruitseizoen-geleid of kust-en-natuur-geleid is.",
+    "Gebruik weekendtiming als je om de edelstenenmarkt geeft.",
+    "Houd de oude waterfront wandelbaar en overdrijf geen taxi's binnen het rivierkwartier.",
+    "Kies óf waterval óf kust voor de hoofd zijuitstap tenzij je genoeg tijd hebt voor beide.",
+    "In het fruitseizoen, boek het hotel voordat je boomgaard-zware weekendplannen finaliseert."
+  ],
+  "best_time_to_visit": {
+    "season": "Koel Seizoen en Fruit Seizoen",
+    "months": "November - Februari voor makkelijkste weer; Mei - Juli voor fruit",
+    "weather": "Koelseizoen is makkelijkst voor wandelen en gemengde itineraries, terwijl late voorjaar en vroeg nat seizoen het sterkst zijn voor boomgaarden",
+    "reasons": "Kies op basis van reistype: comfort en erfgoed in koelseizoen, fruit en boomgaardreizen in late voorjaar"
+  },
+  "budget_info": {
+    "budget": "€23-41 per dag",
+    "mid_range": "€46-101 per dag",
+    "luxury": "€110-221 per dag",
+    "notes": "Chanthaburi zelf blijft beheersbaar, maar kusttransfers, privé chauffeurs en seizoenskeuzes verschuiven kosten sneller dan de stadskern."
+  },
+  "enhanced_at": "2026-03-26T00:00:00.000Z",
+  "reviewed_by": "Go2Thailand Redactie Team",
+  "thingsToDo": "Begin met het rivierkwartier van Chanthaburi omdat daar de stad onderscheidend wordt. De kathedraal, Chanthaboon Waterfront Community, Nam Pu zijstraten en rivierkant restaurants behoren allemaal tot hetzelfde wandelblok. Als de edelsteenhandel voor je telt, bescherm weekendtiming en behandel de markt als een echte cultureel-economische stop, niet zomaar een boodschappenklus.\n\nZodra de stadskern op zijn plaats staat, voeg slechts één provinciale uitbreiding toe tenzij je langer blijft. Namtok Phlio is de makkelijkste watervaldag vanuit de stad. Kung Krabaen en Chao Lao Beach werken beter op een kust-dag. Fruitboomgaarden verdienen hun eigen logica in het seizoen. Chanthaburi is het sterkst als één stedendag en één goed geredigeerde regionale dag de itinerary vormen.",
+  "whereToStay": "De meeste bezoekers moeten kiezen tussen een oude-stad erfgoedverblijf, een praktisch modern stadshotel of een kust-eerst resort. Erfgoedherbergen rond Chanthaboon werken het beste als je sfeer, wandeltoegang en een stadsbreak wilt opgebouwd rond het rivierkwartier. Moderne stadshotels maken meer zin als je rijdt, eenvoudiger parkeren wilt of plant om stad te mengen met waterval- en boomgaarduitstappen.\n\nVerhuis naar Chao Lao Beach alleen als strandtijd echt deel uitmaakt van het plan. Anders houdt een stadsbasis de reis coherenter en bespaart onnodige transfer tijd. Chanthaburi is meestal op zijn best als de rivier en oude stad centraal blijven in plaats van gereduceerd tot een korte stop tussen boomgaard- en strandroutes.",
+  "whereToEat": [
+    {
+      "name": "Krua Maneechan",
+      "cuisine": "Thais / Chinees / Zeevruchten",
+      "priceRange": "$$",
+      "description": "Een betrouwbare eerste zit-stopt voor lokale Chanthaburi-gerechten en zeevruchten in een gepolijste maar nog steeds provinciale setting."
+    },
+    {
+      "name": "Chanthorn Phochana",
+      "cuisine": "Thais",
+      "priceRange": "$$",
+      "description": "Een klassieke lokale naam die de eetkant van de stad gegrond houdt in Chanthaburi's eigen restaurantcultuur."
+    },
+    {
+      "name": "Tamajun Restaurant",
+      "cuisine": "Thais",
+      "priceRange": "$$",
+      "description": "Een riviergebied maaltijd die natuurlijk past bij een oude-stad of kathedraal wandeling."
+    },
+    {
+      "name": "Koff House Coffee Bar & Eatery",
+      "cuisine": "Café / Thais",
+      "priceRange": "$-$$",
+      "description": "Een nuttige rivierkant reset voor koffie, licht eten en een casual oude-stad pauze."
+    },
+    {
+      "name": "Nam Pu Market and old-town sweets",
+      "cuisine": "Markt snacks en zoetigheden",
+      "priceRange": "$",
+      "description": "Een van de beste manieren om het erfgoedkwartier te laten voelen als een echte proeverijroute in plaats van zomaar een fotodistrict."
+    }
+  ],
+  "topHotels": [
+    {
+      "name": "Maneechan Resort",
+      "category": "luxe",
+      "priceRange": "$$-$$$",
+      "area": "Chanthaburi stad",
+      "description": "Een sterke allround stadsbasis als je comfort, eten ter plaatse en makkelijke toegang in meerdere richtingen wilt."
+    },
+    {
+      "name": "Rimnaam Klangchan Hotel",
+      "category": "middenklasse",
+      "priceRange": "$$",
+      "area": "Rivierkant stadsgebied",
+      "description": "Een praktisch modern rivierkant verblijf voor reizigers die stadscomfort willen zonder over te schakelen naar de strandkant."
+    },
+    {
+      "name": "Baan Luang Rajamaitri Historic Inn",
+      "category": "luxe",
+      "priceRange": "$$",
+      "area": "Chanthaboon Waterfront",
+      "description": "De beste keuze voor sfeer en erfgoedkarakter in de oude stad."
+    },
+    {
+      "name": "Blue Rabbit Hotel",
+      "category": "middenklasse",
+      "priceRange": "$$",
+      "area": "Chanthaburi stad",
+      "description": "Een praktisch modern hotel als comfort en parkeren belangrijker zijn dan oude-stad karakter."
+    }
+  ],
+  "gettingAround": "Chanthaburi's oude waterfront en kathedraal district zijn het beste te voet te doen, maar de bredere provincie is geen wandelbestemming. De meeste bezoekers die vanuit Bangkok arriveren, gaan over land per weg door, en zodra je watervallen, boomgaarden, kust of mangrove uitstappen toevoegt, wordt een privéauto, huurauto of chauffeur veel nuttiger dan alleen te vertrouwen op korte lokale ritten. Houd het rivierkwartier als één wandelblok, gebruik dan voertuigtijd alleen voor de buitendorp delen.",
+  "bestTimeToVisit": "November tot Februari is het makkelijkste allround seizoen voor de meeste reizigers omdat oude-stad wandelen, kathedraalbezoeken en gemengde stad-plus-natuur itineraries comfortabeler zijn. Als je Chanthaburi vooral wilt als een erfgoed-en-eten stad, is dit het veiligste standaardvenster.\n\nMei tot Juli verandert de logica van de reis omdat fruit een van de hoofd attracties van de provincie wordt. Dat kan een reden zijn om te gaan, niet zomaar een weernotitie. De nattere maanden maken watervallen en groener landschappen aantrekkelijker, maar eisen meer flexibiliteit. Chanthaburi is een van die steden waar het seizoen gekozen moet worden op basis van het reisthema, niet alleen op de temperatuur.",
+  "budgetGuide": {
+    "budget": {
+      "min": 25,
+      "max": 45,
+      "description": "Budgetreizen in Chanthaburi betekent meestal een eenvoudig verblijf in de stad, lokaal eten en één zorgvuldig gekozen uitstapje buiten de stad in plaats van herhaalde privétransfers."
+    },
+    "midrange": {
+      "min": 50,
+      "max": 110,
+      "description": "Middenklasse reizen omvatten doorgaans een beter stadshotel, één of twee culinaire hoogtepunten en flexibeler vervoer naar watervallen, boomgaarden of de kust."
+    },
+    "luxury": {
+      "min": 120,
+      "max": 240,
+      "description": "Een hoger budget in Chanthaburi levert meestal een betere kamer, comfortabeler regionaal vervoer en een verfijnder verblijf op, in plaats van klassiek luxe-stadsshopping."
+    }
+  },
+  "safetyTips": "Chanthaburi is over het algemeen probleemloos, maar de risico's verschuiven zodra je de oude stad verlaat. Edelsteen kopen is de duidelijkste niet-fysieke waarschuwing: kijk gerust rond, maar koop alleen als je weet wat je doet of betrouwbare hulp hebt. Tijdens het fruitseizoen en op de boomgaardwegen kan het verkeer en parkeren drukker zijn dan de kalme sfeer van de stad doet vermoeden. Bezoeken aan watervallen en mangrovebossen vereisen de gebruikelijke voorzichtigheid op natte oppervlakken, vooral in de groenere maanden. In het oude waterfrontdistrict, wees respectvol rond gebedsplaatsen, privé gemeenschapshuizen en smalle steegjes die nog steeds residentieel zijn naast toeristisch.",
+  "faq": [
+    {
+      "question": "Is Chanthaburi een bezoek waard als je geen edelstenen koopt?",
+      "answer": "Ja. De edelsteenhandel is deel van de identiteit van de stad, maar Chanthaburi springt er ook uit met de kathedraal, het oude waterfront, eten, het fruitseizoen en makkelijke natuurexcursies."
+    },
+    {
+      "question": "Hoeveel dagen heb je nodig in Chanthaburi?",
+      "answer": "Twee volle dagen is een stevig minimum voor de meeste bezoekers: één voor de rivierstad en één voor watervallen, boomgaarden of de kust."
+    },
+    {
+      "question": "Waar moet je verblijven in Chanthaburi?",
+      "answer": "Verblijf nabij de oude stad of het centrale stadsdeel voor de meeste routes. Ga alleen naar Chao Lao Beach als de kust echt prioriteit heeft in plaats van een bijgedachte."
+    },
+    {
+      "question": "Wanneer is de beste tijd voor fruit in Chanthaburi?",
+      "answer": "De beste periode voor fruit is meestal van mei tot juli, wanneer bezoeken aan boomgaarden en fruit kopen een groot deel van de reis uitmaken."
+    },
+    {
+      "question": "Heb je een auto nodig in Chanthaburi?",
+      "answer": "Niet voor het oude waterfront zelf, maar een auto of chauffeur is zeer nuttig zodra je watervallen, boomgaarden of kustuitstapjes buiten het stadscentrum toevoegt."
+    }
+  ],
+  "practicalInfo": {
+    "bestMonths": [
+      "Nov",
+      "Dec",
+      "Jan",
+      "Feb",
+      "May",
+      "Jun",
+      "Jul"
+    ],
+    "nearestAirport": "Trat Airport of U-Tapao, hoewel de meeste bezoekers nog steeds over land vanuit Bangkok arriveren",
+    "travelTimeFromAirport": "Ongeveer 1,5-3 uur per weg, afhankelijk van de toegangspoort en eindstop",
+    "localTransport": [
+      "Lopen in de oude stad",
+      "Privéauto of chauffeur",
+      "Huurauto",
+      "Songthaew en korte lokale ritten",
+      "Overland bus of van vanuit Bangkok"
+    ]
+  },
+  "contentSources": [
+    {
+      "type": "officieel toerisme",
+      "title": "Chanthaburi",
+      "creator": "Tourism Authority of Thailand",
+      "url": "https://www.tourismthailand.org/Destinations/Provinces/Chanthaburi/463",
+      "description": "Gebruikt voor identiteit op provinciaal niveau, context van de kathedraal en framing van de bestemming."
+    },
+    {
+      "type": "officieel toerisme",
+      "title": "Gems Market",
+      "creator": "Tourism Authority of Thailand",
+      "url": "https://www.tourismthailand.org/Attraction/gems-market",
+      "description": "Gebruikt voor officiële positionering van de edelstenenmarkt en context van het weekend handelen."
+    },
+    {
+      "type": "officieel toerisme",
+      "title": "Mae Nam Chan (Chanthaburi River)",
+      "creator": "Tourism Authority of Thailand",
+      "url": "https://www.tourismthailand.org/Articles/https-www-tourismthailand-org-articles-mae-nam-chan-chanthaburi-river-be-a-part-of-the-close-to-nature-lifestyle-alongside-the-river",
+      "description": "Gebruikt voor de geschiedenis van de Chanthaboon Waterfront Community en framing van de stad op basis van de rivier."
+    },
+    {
+      "type": "officieel toerisme",
+      "title": "Chanthaburi - Rayong: tropisch fruit en weelderig groen",
+      "creator": "Tourism Authority of Thailand",
+      "url": "https://www.tourismthailand.org/Articles/chanthaburi-rayong",
+      "description": "Gebruikt voor timing van het fruitseizoen, context van boomgaarden en framing van de route in oost-Thailand."
+    },
+    {
+      "type": "officieel toerisme",
+      "title": "Nam Pu Market: een plek waar al het lekkers samenkomt",
+      "creator": "Tourism Authority of Thailand",
+      "url": "https://www.tourismthailand.org/Articles/https-www-tourismthailand-org-articles-nam-pu-market-a-place-where-all-deliciousness-converges",
+      "description": "Gebruikt voor positionering van markteten in de oude stad."
+    },
+    {
+      "type": "officieel toerisme",
+      "title": "Native Sweet Treats of Chanthaburi",
+      "creator": "Tourism Authority of Thailand",
+      "url": "https://www.tourismthailand.org/Articles/https-www-tourismthailand-org-articles-native-sweet-treats-of-chanthaburi",
+      "description": "Gebruikt voor traditionele zoetigheden en context van de snackroute in de oude stad."
+    },
+    {
+      "type": "officieel toerisme",
+      "title": "Namtok Phlio National Park",
+      "creator": "Tourism Authority of Thailand",
+      "url": "https://www.tourismthailand.org/Attraction/namtok-phlio-national-park",
+      "description": "Gebruikt voor de belangrijkste watervaluitstap in de provincie."
+    },
+    {
+      "type": "officieel toerisme",
+      "title": "Kung Krabaen Bay Royal Development Study Center",
+      "creator": "Tourism Authority of Thailand",
+      "url": "https://www.tourismthailand.org/Attraction/kung-krabaen-bay-royal-development-study-center",
+      "description": "Gebruikt voor positionering van de mangroveboardwalk en kustecologie."
+    },
+    {
+      "type": "officiële ontwikkeling",
+      "title": "Kung Krabaen Bay Royal Development Study Centre",
+      "creator": "Office of the Royal Development Projects Board",
+      "url": "https://www.rdpb.go.th/en/Studycenter/royal-development-study-centres-rdscs-c60/kung-krabaen-bay-royal-development-study-centre-v71?qow37i/",
+      "description": "Gebruikt voor de officiële koninklijke ontwikkelingscontext en ecologie van Kung Krabaen."
+    },
+    {
+      "type": "officieel hotel",
+      "title": "Maneechan Resort",
+      "creator": "Maneechan Resort",
+      "url": "https://maneechan.com/",
+      "description": "Gebruikt voor officiële positionering van het stadresort en restaurant."
+    },
+    {
+      "type": "officieel hotel",
+      "title": "Blue Rabbit Hotel",
+      "creator": "Blue Rabbit Hotel",
+      "url": "https://bluerabbit-hotel.com/",
+      "description": "Gebruikt voor officiële positionering van het slimme hotel en stadbasis."
+    },
+    {
+      "type": "officieel hotel",
+      "title": "Rimnaam Klangchan Hotel",
+      "creator": "Rimnaam Klangchan Hotel",
+      "url": "https://www.rimnaamklangchan.com/th-home.php",
+      "description": "Gebruikt voor officiële positionering van het rivierhotel."
+    },
+    {
+      "type": "officieel hotel",
+      "title": "Tamajun Hotel",
+      "creator": "Tamajun Hotel",
+      "url": "https://www.tamajunhotel.com/",
+      "description": "Gebruikt voor officiële positionering van het verblijf in de oude stad."
+    },
+    {
+      "type": "officieel hotel",
+      "title": "Baan Luang Rajamaitri Historic Inn",
+      "creator": "Baan Luang Rajamaitri Historic Inn",
+      "url": "https://www.baanluangrajamaitri.com/en/",
+      "description": "Gebruikt voor officiële positionering van de erfgoedherberg in Chanthaboon."
+    },
+    {
+      "type": "officieel hotel",
+      "title": "Chaolao Cabana Resort",
+      "creator": "Chaolao Cabana Resort",
+      "url": "https://www.sunggroupinchan.com/chaolaocabanaresort/",
+      "description": "Gebruikt voor officiële positionering van het strandverblijf in Chao Lao."
+    }
+  ],
+  "enrichedAt": "2026-03-26T00:00:00.000Z",
+  "factchecked_at": "2026-03-26T00:00:00.000Z"
+}

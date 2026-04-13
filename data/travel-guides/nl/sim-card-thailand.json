@@ -1,0 +1,272 @@
+{
+  "slug": "sim-card-thailand",
+  "title": "SIM-kaart & eSIM in Thailand: Complete Gids 2026",
+  "seo": {
+    "metaTitle": "SIM-kaart & eSIM Thailand 2026: Beste Abonnementen, Prijzen & Installatiegids",
+    "metaDescription": "Volledige gids voor het krijgen van een SIM-kaart of eSIM in Thailand. Vergelijk AIS, TrueMove en dtac abonnementen, gids voor kopen op de luchthaven, opties bij 7-Eleven en stappen voor eSIM-installatie.",
+    "keywords": "Thailand SIM-kaart, eSIM Thailand, AIS toeristen SIM, TrueMove toeristenabonnement, dtac Thailand, SIM-kaart kopen Bangkok luchthaven, Thailand 4G 5G"
+  },
+  "intro": "Verbonden blijven in Thailand is eenvoudig en betaalbaar. Je hebt twee hoofdmogelijkheden: koop een fysieke SIM-kaart op de luchthaven of bij een 7-Eleven, of activeer een eSIM voordat je zelfs aan boord gaat van je vlucht vanuit Nederland. Deze gids behandelt beide opties, de drie grote netwerken en precies hoe je alles installeert.",
+  "esimVsPhysical": {
+    "title": "eSIM vs Fysieke SIM: Welke Kies Je?",
+    "comparison": [
+      {
+        "feature": "Installatietijd",
+        "esim": "5 minuten vanaf je telefoon",
+        "physical": "15-30 minuten bij luchthavenbalie"
+      },
+      {
+        "feature": "Beschikbaarheid",
+        "esim": "Online kopen voor vertrek",
+        "physical": "Luchthavenbalies, 7-Eleven, telefoonwinkels"
+      },
+      {
+        "feature": "Telefooncompatibiliteit",
+        "esim": "iPhone XR+ / Pixel 3+ / Samsung S20+",
+        "physical": "Elke unlocked telefoon"
+      },
+      {
+        "feature": "Huisnummer behouden",
+        "esim": "Ja — gebruik beide SIMs tegelijk",
+        "physical": "Nee — moet SIMs wisselen of dual-SIM telefoon gebruiken"
+      },
+      {
+        "feature": "Prijs (8-daags abonnement)",
+        "esim": "300-600 THB (€8-16)",
+        "physical": "299-599 THB (€8-16)"
+      },
+      {
+        "feature": "Opwaardeeropties",
+        "esim": "App of online",
+        "physical": "7-Eleven, app of USSD-codes"
+      },
+      {
+        "feature": "Thais telefoonnummer",
+        "esim": "Soms (afhankelijk van provider)",
+        "physical": "Altijd inbegrepen"
+      },
+      {
+        "feature": "Beste voor",
+        "esim": "Korte reizen, tech-savvy reizigers",
+        "physical": "Langere verblijven, Thais nummer nodig voor apps"
+      }
+    ]
+  },
+  "networks": {
+    "title": "De 3 Mobiele Netwerken van Thailand",
+    "carriers": [
+      {
+        "name": "AIS",
+        "marketShare": "44%",
+        "coverage": "Beste dekking in het algemeen, vooral in landelijke gebieden en op eilanden",
+        "speed": "4G/5G — snelste gemiddelde snelheden in speedtests",
+        "touristPlan": "Traveller SIM: 15GB / 8 dagen voor 299 THB, 30GB / 15 dagen voor 599 THB",
+        "verdict": "Beste keuze voor de meeste reizigers. Sterkste signaal op eilanden en in het noorden."
+      },
+      {
+        "name": "TrueMove H",
+        "marketShare": "33%",
+        "coverage": "Uitstekend in steden en toeristische gebieden, iets zwakker in afgelegen gebieden",
+        "speed": "4G/5G — gefuseerd met dtac in 2023, netwerk nog in integratie",
+        "touristPlan": "Tourist SIM: 15GB / 8 dagen voor 299 THB, onbeperkte data / 10 dagen voor 599 THB",
+        "verdict": "Geweldige waarde met onbeperkte data-opties. Goed als je in grote toeristische gebieden blijft."
+      },
+      {
+        "name": "dtac (now True Corp)",
+        "marketShare": "23%",
+        "coverage": "Goed in stedelijke gebieden, zwakst in landelijk Thailand",
+        "speed": "4G/5G — deelt TrueMove-netwerk na fusie",
+        "touristPlan": "Happy Tourist SIM: 15GB / 8 dagen voor 299 THB, 30GB / 15 dagen voor 499 THB",
+        "verdict": "Budgetoptie. Goed voor steden maar overweeg AIS als je van de gebaande paden afgaat."
+      }
+    ]
+  },
+  "airportGuide": {
+    "title": "Een SIM-kaart Kopen op de Luchthaven",
+    "airports": [
+      {
+        "name": "Suvarnabhumi (BKK)",
+        "location": "Aankomsthal, niveau 2 — balies voor AIS, TrueMove en dtac direct na douane",
+        "hours": "24/7 (alle drie de providers)",
+        "process": "Laat je paspoort zien, kies een abonnement, personeel installeert en activeert de SIM. Duurt 10-15 minuten.",
+        "tip": "Balies zijn direct na het verlaten van de douane. Prijzen zijn hetzelfde als in de stad — geen luchthavenopslag. Personeel spreekt Engels."
+      },
+      {
+        "name": "Don Mueang (DMK)",
+        "location": "Aankomsthal, na douane — AIS en TrueMove balies links",
+        "hours": "6:00 - middernacht (sommige sluiten eerder)",
+        "process": "Zelfde als BKK. Paspoort vereist. Personeel regelt installatie.",
+        "tip": "Als je 's nachts laat aankomt, haal dan een SIM bij een willekeurige 7-Eleven op weg naar je hotel."
+      },
+      {
+        "name": "Phuket (HKT)",
+        "location": "Aankomsthal — AIS-balie bij uitgang, TrueMove-balie in de buurt",
+        "hours": "Afgestemd op vluchtschema's, meestal 7:00 - 23:00",
+        "process": "Standaard installatie met paspoort. Iets kleiner assortiment dan Bangkok-luchthavens.",
+        "tip": "Rijen kunnen lang zijn in het hoogseizoen (december-februari). Overweeg een eSIM te kopen voor je vlucht om de rij over te slaan."
+      },
+      {
+        "name": "Chiang Mai (CNX)",
+        "location": "Kleine balies in aankomstgebied",
+        "hours": "Verschilt — niet 24/7",
+        "process": "Standaard paspoort + SIM-installatie",
+        "tip": "Beperkte voorraad tijdens drukke periodes. De 7-Eleven op Nimmanhaemin Road is een betrouwbare back-up."
+      }
+    ]
+  },
+  "sevenElevenGuide": {
+    "title": "Een SIM-kaart Kopen bij 7-Eleven",
+    "content": "Er zijn meer dan 13.000 7-Eleven-winkels in Thailand — je bent nooit ver van een verwijderd. Elke winkel verkoopt AIS- en TrueMove-SIM-kaarten.",
+    "steps": [
+      "Vraag naar een 'toeristen SIM' — personeel weet wat je bedoelt",
+      "Laat je paspoort zien (vereist door Thaise wet sinds 2015)",
+      "Kies je abonnement (personeel kan opties uitleggen in basis Engels)",
+      "Personeel installeert de SIM en activeert deze — wacht op de bevestigings-SMS",
+      "Bewaar de SIM-verpakking — daarop staat je telefoonnummer en opwaardeer-instructies"
+    ],
+    "pricing": "Zelfde prijzen als luchthavenbalies. Je kunt ook krediet opwaarderen bij 7-Eleven — zeg gewoon 'top up' met je telefoonnummer en bedrag tegen de caissière.",
+    "tip": "Als het 7-Eleven-personeel onzeker lijkt, probeer dan een speciale telefoonwinkel of de volgende 7-Eleven. Niet al het personeel is getraind in SIM-activaties."
+  },
+  "touristPlans": {
+    "title": "Beste Toeristenabonnementen Vergelijken",
+    "plans": [
+      {
+        "carrier": "AIS",
+        "plan": "Traveller SIM",
+        "data": "15 GB",
+        "validity": "8 dagen",
+        "calls": "100 THB krediet",
+        "price": "299 THB (€8)",
+        "highlight": "Beste dekking"
+      },
+      {
+        "carrier": "AIS",
+        "plan": "Traveller SIM Plus",
+        "data": "30 GB",
+        "validity": "15 dagen",
+        "calls": "100 THB krediet",
+        "price": "599 THB (€16)",
+        "highlight": "Beste voor 2-weken-reizen"
+      },
+      {
+        "carrier": "TrueMove",
+        "plan": "Tourist SIM",
+        "data": "15 GB",
+        "validity": "8 dagen",
+        "calls": "100 THB krediet",
+        "price": "299 THB (€8)",
+        "highlight": "Goede allrounder"
+      },
+      {
+        "carrier": "TrueMove",
+        "plan": "Tourist Unlimited",
+        "data": "Onbeperkt (5G)",
+        "validity": "10 dagen",
+        "calls": "100 THB krediet",
+        "price": "599 THB (€16)",
+        "highlight": "Onbeperkte data"
+      },
+      {
+        "carrier": "dtac",
+        "plan": "Happy Tourist",
+        "data": "15 GB",
+        "validity": "8 dagen",
+        "calls": "100 THB krediet",
+        "price": "299 THB (€8)",
+        "highlight": "Budgetvriendelijk"
+      },
+      {
+        "carrier": "dtac",
+        "plan": "Happy Tourist Max",
+        "data": "30 GB",
+        "validity": "15 dagen",
+        "calls": "100 THB krediet",
+        "price": "499 THB (€13)",
+        "highlight": "Goedkoopste 15-daagse abonnement"
+      }
+    ]
+  },
+  "esimSetup": {
+    "title": "Hoe Je een eSIM Installeert voor Thailand",
+    "steps": [
+      {
+        "step": 1,
+        "title": "Controleer telefooncompatibiliteit",
+        "detail": "Je telefoon moet eSIM ondersteunen. Compatibel: iPhone XR en nieuwer, Google Pixel 3 en nieuwer, Samsung Galaxy S20 en nieuwer. Controleer Instellingen → Mobiel/Cellulair → eSIM Toevoegen om te bevestigen."
+      },
+      {
+        "step": 2,
+        "title": "Kies een provider",
+        "detail": "Populaire eSIM-providers voor Thailand: Airalo, Holafly, Nomad eSIM en de eigen apps van de providers (AIS eSIM, TrueMove eSIM). Airalo is het populairst bij reizigers."
+      },
+      {
+        "step": 3,
+        "title": "Koop en download",
+        "detail": "Koop je eSIM-abonnement online of via de app van de provider. Je ontvangt een QR-code per e-mail. Download terwijl je verbonden bent met WiFi — je hebt internet nodig om te activeren."
+      },
+      {
+        "step": 4,
+        "title": "Scan de QR-code",
+        "detail": "Ga naar Instellingen → Mobiel/Cellulair → eSIM Toevoegen → QR-code Scannen. Label het 'Thailand' voor eenvoudige herkenning. Activeer het nog niet als je niet in Thailand bent."
+      },
+      {
+        "step": 5,
+        "title": "Activeer bij aankomst",
+        "detail": "Zodra je in Thailand bent, ga naar Instellingen → Mobiel/Cellulair en schakel je Thailand eSIM in als primaire data-lijn. Schakel data-roaming uit op je thuissim om kosten te vermijden."
+      },
+      {
+        "step": 6,
+        "title": "Test je verbinding",
+        "detail": "Open een browser en controleer je verbinding. Je zou 4G/5G in de statusbalk moeten zien. Zo niet, herstart je telefoon. De meeste eSIMs activeren binnen 5 minuten."
+      }
+    ]
+  },
+  "tips": [
+    {
+      "title": "Registreer je SIM",
+      "detail": "Thaise wet vereist SIM-registratie met paspoort. Luchthaven- en 7-Eleven-personeel regelt dit automatisch. Niet-geregistreerde SIMs worden na een paar dagen gedeactiveerd."
+    },
+    {
+      "title": "Waarderen voor expiratie",
+      "detail": "Toeristen-SIMs verlopen na hun geldigheidsperiode. Waardeer op via de app van de provider, bij 7-Eleven of door *123# te bellen (AIS) of *123# (TrueMove) voor expiratie om je nummer actief te houden."
+    },
+    {
+      "title": "WiFi is overal",
+      "detail": "De meeste hotels, cafés en restaurants hebben gratis WiFi. Als je vooral in toeristische gebieden bent, is een kleiner data-abonnement misschien voldoende."
+    },
+    {
+      "title": "Heb je een Thais nummer nodig voor apps?",
+      "detail": "Sommige Thaise apps (Grab, Food Panda, Line) werken beter met een Thais telefoonnummer. Als je een eSIM gebruikt zonder nummer, overweeg dan ook een goedkope fysieke SIM te nemen."
+    },
+    {
+      "title": "Langverblijvende bezoekers",
+      "detail": "Voor verblijven langer dan 30 dagen, neem een maandelijks postpaid abonnement. AIS en TrueMove bieden onbeperkte data-abonnementen vanaf 599-899 THB/maand met paspoortregistratie bij elke vestiging."
+    }
+  ],
+  "faqs": [
+    {
+      "question": "Wat is de beste SIM-kaart voor toeristen in Thailand?",
+      "answer": "De AIS Traveller SIM is de beste algemene keuze voor de meeste toeristen. Het heeft de breedste dekking in Thailand (44% marktaandeel), inclusief landelijke gebieden en eilanden waar andere netwerken spotty kunnen zijn. Het 15GB / 8-daagse abonnement kost 299 THB (€8). Voor langere reizen is het 30GB / 15-daagse abonnement 599 THB (€16)."
+    },
+    {
+      "question": "Kan ik eSIM gebruiken in Thailand?",
+      "answer": "Ja. Thailand ondersteunt eSIM via AIS, TrueMove en internationale providers zoals Airalo en Holafly. Je telefoon moet eSIM-compatibel zijn (iPhone XR+, Pixel 3+, Samsung S20+). Je kunt je eSIM kopen en installeren voordat je vanuit Nederland vertrekt en activeren bij aankomst in Thailand."
+    },
+    {
+      "question": "Hoeveel kost een Thaise SIM-kaart?",
+      "answer": "Toeristen-SIM-kaarten beginnen bij 299 THB (€8) voor 15GB over 8 dagen. Een 15-daags abonnement met 30GB kost 499-599 THB (€13-16). Je kunt ze kopen bij luchthavenbalies, 7-Eleven-winkels of telefoonwinkels. Prijzen zijn overal hetzelfde — er is geen luchthavenopslag."
+    },
+    {
+      "question": "Heb ik mijn paspoort nodig om een SIM-kaart te kopen in Thailand?",
+      "answer": "Ja. Thaise wet vereist dat alle SIM-kaarten worden geregistreerd met een geldig paspoort. Dit geldt voor zowel luchthavenbalies als 7-Eleven-aankopen. Het personeel scant je paspoort en registreert de SIM — het duurt ongeveer 5 minuten."
+    },
+    {
+      "question": "Is 5G beschikbaar in Thailand?",
+      "answer": "Ja, 5G is beschikbaar in Bangkok, Chiang Mai, Phuket en andere grote steden via AIS en TrueMove. Dekking breidt uit maar is nog beperkt tot stedelijke gebieden. 4G LTE dekt vrijwel alle toeristische bestemmingen en biedt snelheden van 20-50 Mbps — meer dan genoeg voor videogesprekken, streamen en navigatie."
+    },
+    {
+      "question": "Moet ik een SIM-kaart nemen of alleen WiFi gebruiken in Thailand?",
+      "answer": "We raden aan een SIM-kaart of eSIM te nemen. Hoewel WiFi ruim beschikbaar is in hotels en cafés, is mobiele data essentieel voor Google Maps-navigatie, de Grab-taxi-app, real-time vertaling en verbonden blijven tijdens dagtrips. Voor slechts €8 voor 8 dagen data is het een kleine investering die het waard is."
+    }
+  ]
+}

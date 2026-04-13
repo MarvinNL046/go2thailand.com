@@ -1,0 +1,77 @@
+{
+  "id": 1,
+  "slug": "trat-city-museum-and-old-quarter",
+  "name": {
+    "en": "Trat City Museum and the old quarter",
+    "nl": "Trat City Museum en de oude stad"
+  },
+  "type": "erfgoed",
+  "city_slug": "trat",
+  "address": "Trat stadscentrum",
+  "location": null,
+  "opening_hours": "Controleer de openingstijden van het museum lokaal bij aankomst. De omliggende oude wijk is een openbaar stedelijk gebied dat het beste te voet te verkennen is overdag of in de late middag.",
+  "entrance_fee": {
+    "thb": null,
+    "usd": null
+  },
+  "description": {
+    "en": "The strongest first-stop mainland layer in Trat, built around the city museum, old wooden streets, and the town's longer trade history.",
+    "nl": "De sterkste eerste mainland-laag in Trat, rond het stadsmuseum, oude houten straten en de langere handelshistorie van de stad."
+  },
+  "highlights": [
+    "Stadsmuseum",
+    "Oude houten straten",
+    "Beste eerste kennismaking met Trat"
+  ],
+  "image": "/images/cities/generated/trat.webp",
+  "seo": {
+    "metaTitle": {
+      "en": "Trat City Museum and Old Quarter | Go2Thailand",
+      "nl": "Trat City Museum en oude stad | Go2Thailand"
+    },
+    "metaDescription": {
+      "en": "Why Trat City Museum and the old quarter should anchor a mainland-first Trat trip.",
+      "nl": "Waarom Trat City Museum en de oude stad de basis moeten vormen van een mainland-first Trat-trip."
+    }
+  },
+  "tags": [
+    "trat",
+    "oude-wijk",
+    "museum",
+    "erfgoed"
+  ],
+  "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=Trat+City+Museum",
+  "best_time": "laat in de ochtend of laat in de middag",
+  "duration_hours": 2,
+  "enhanced_description": "Dit is het deel van Trat dat de stad behoedt voor het instorten tot een simpele veerbootoverstap. MICHELIN gebruikt nog steeds het Trat Museum als centraal cultureel hoogtepunt, en de oude wijk eromheen geeft de stad een stedelijke textuur die generieke eilandpoortpagina's consequent missen.\n\nDat doet ertoe omdat zodra het museum en de straten logisch zijn, de rest van de stad op zijn plek valt. Eetgelegenheden, kanaalgemeenschappen en zelfs de kuststrook van Laem Ngop voelen aan als uitbreidingen van een echte stad in plaats van losse pins op een kaart.",
+  "detailed_history": "Het Trat Museum legt de natuurlijke en culturele erfenis van de provincie uit in een voormalig overheidsgebouw uit die tijd. De omliggende oude-stadstraten behouden nog steeds de kleinschalige commerciële structuur die ooit Trat's binnenlandse en kusthandel verbond.",
+  "visitor_experience": "Verwacht een compact erfgoedblok in plaats van een monumentaal museumdistrict. De waarde ligt in het combineren van het museum met een wandeling door de oudere straten en dan naturally overgaan op eetstops of kanaalgemeenschappen.",
+  "best_time_to_visit": {
+    "time_of_day": "Laat in de ochtend of laat in de middag",
+    "duration": "Ongeveer 90 tot 120 minuten",
+    "crowd_level": "Meestal licht"
+  },
+  "practical_info": {
+    "how_to_get_there": "Eenvoudig met een korte lokale rit naar het stadscentrum, daarna het beste te voet.",
+    "nearby_attractions": "Rak Khlong Bang Phra, de gegrilde bananenstal van Ba Na, en de bredere eetroute in het oude centrum.",
+    "food_options": "Het beste te combineren met oude-wijk snacks of een noodle-stop in plaats van met een gehaaste veerbootoverstap.",
+    "shopping": "De wijk is sterker voor wandelen en snuffelen dan voor bestemmingswinkelen."
+  },
+  "insider_tips": [
+    "Doe dit eerst als je Trat wilt ervaren als een echte stad in plaats van als een pier.",
+    "Houd het museum verbonden met de oude straten, niet geïsoleerd ervan.",
+    "De eetroute wordt sterker zodra deze erfgoedlaag eerst is gedaan."
+  ],
+  "verified_note": "Samenvatting gebaseerd op bronnen van de officiële Tourism Authority of Thailand museumreferentie en MICHELIN's huidige Trat-artikel.",
+  "cultural_significance": "Het Trat Stadsmuseum en de oude wijk behouden de vastlandse identiteit die de provincie substantie geeft voorbij de eilanden.",
+  "contentSources": [
+    {
+      "name": "Trat City Museum",
+      "url": "https://www.tourismthailand.org/Attraction/trat-city-museum"
+    },
+    {
+      "name": "Cultural Feast And Treats At Trat",
+      "url": "https://guide.michelin.com/th/en/article/features/gastronomy-journey-the-series-of-thailand-ep-7-cultural-feast-and-treats-at-trat"
+    }
+  ]
+}

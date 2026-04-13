@@ -1,0 +1,617 @@
+{
+  "id": 12,
+  "slug": "mae-hong-son",
+  "name": {
+    "en": "Mae Hong Son",
+    "nl": "Mae Hong Son",
+    "ja": "メーホンソーン",
+    "ko": "매홍손",
+    "th": "แม่ฮ่องสอน",
+    "de": "Mae Hong Son",
+    "fr": "Mae Hong Son",
+    "ru": "Мэ Хонг Сон",
+    "zh": "夜丰颂"
+  },
+  "region": "Noordelijk",
+  "province": "Mae Hong Son",
+  "description": {
+    "en": "Mae Hong Son works best when you plan it around the compact town core first and only then add one or two outer-valley detours. The strongest first visit combines Nong Jong Kham, Doi Kong Mu, a bamboo-bridge sunrise or cave day, and a sleep strategy that matches whether you want a walkable town stay or a quieter resort edge.",
+    "nl": "Mae Hong Son werkt het best wanneer je eerst de compacte stadskern plant en daarna pas een of twee buitenvallei-detours toevoegt. De sterkste eerste trip combineert Nong Jong Kham, Doi Kong Mu, een sunrise bij de bamboebrug of een grot-dag, en een hotelkeuze die past bij loopbaarheid of juist rust buiten de kern.",
+    "ja": "メーホンソーンは、まず湖畔の町中心部を軸に組み、その後で郊外の谷や山の寄り道を足すほうがまとまりやすい町です。",
+    "ko": "매홍손은 먼저 호수 주변의 작은 도심 코어를 잡고, 그 다음에 외곽 계곡과 산악 우회지를 얹는 방식이 가장 설득력 있다.",
+    "th": "แม่ฮ่องสอนเที่ยวได้ดีที่สุดเมื่อเริ่มจากแกนเมืองรอบหนองจองคำก่อน แล้วค่อยเพิ่มทริปออกนอกเมืองแบบพอดี ไม่ยัดทุกอย่างไว้ในวันเดียว",
+    "de": "Mae Hong Son funktioniert am besten, wenn Sie zuerst den kompakten Stadtkern und erst danach ein oder zwei Ausfluge ins Umland planen.",
+    "fr": "Mae Hong Son se comprend mieux en commençant par le coeur compact de la ville avant d'ajouter un ou deux detours dans la vallee.",
+    "ru": "Мэ Хонг Сон лучше планировать от компактного городского ядра, а уже потом добавлять одну-две вылазки в окружающие долины.",
+    "zh": "夜丰颂最适合先围绕紧凑的镇中心安排行程，再增加一两个外谷地带的支线。"
+  },
+  "population": 10000,
+  "highlights": [
+    "Wat Jong Kham en Wat Jong Klang",
+    "Wat Phra That Doi Kong Mu",
+    "Su Tong Pae Bridge",
+    "Tham Lod Cave",
+    "Ban Rak Thai",
+    "Pang Ung"
+  ],
+  "location": {
+    "lat": 19.299,
+    "lng": 97.9684
+  },
+  "image": "/images/cities/generated/mae-hong-son.webp",
+  "seo": {
+    "metaTitle": {
+      "en": "Mae Hong Son Thailand Guide 2026 | Temples, Mist, Hotels",
+      "nl": "Mae Hong Son Thailand Gids 2026 | Tempels, mist en hotels",
+      "ja": "メーホンソーン旅行ガイド 2026 | 寺院、霧、ホテル",
+      "ko": "매홍손 여행 가이드 2026 | 사원, 안개, 호텔",
+      "th": "แม่ฮ่องสอน 2026 | วัด หมอก และที่พัก",
+      "de": "Mae Hong Son Thailand Guide 2026 | Tempel, Nebel, Hotels",
+      "fr": "Guide Mae Hong Son 2026 | Temples, brume et hotels",
+      "ru": "Мэ Хонг Сон 2026 | Храмы, туман и отели",
+      "zh": "夜丰颂旅行指南 2026 | 寺庙、晨雾与酒店"
+    },
+    "metaDescription": {
+      "en": "Plan Mae Hong Son around the lakeside Shan temples, Doi Kong Mu, one strong outer-valley day trip, and the hotels and food picks that fit a slower northern Thailand stay.",
+      "nl": "Plan Mae Hong Son rond de Shan-tempels aan het meer, Doi Kong Mu, een sterke buitenvallei-dagtrip en hotel- en foodkeuzes die passen bij een tragere Noord-Thailand stay.",
+      "ja": "湖畔のシャン寺院、ドイ・コンム、郊外の一日トリップ、そして滞在に合う宿と食事を軸にメーホンソーンを整理する実用ガイドです。",
+      "ko": "호숫가 샨 사원, 도이 콩 무, 외곽 데이트립 하나, 그리고 느린 북부 태국 체류에 맞는 숙소와 식사 선택을 중심으로 매홍손을 정리한 가이드다.",
+      "th": "วางแผนเที่ยวแม่ฮ่องสอนโดยยึดวัดไทใหญ่ริมหนอง ดอยกองมู เดย์ทริปนอกเมืองแบบคัดแล้ว และตัวเลือกเรื่องกินนอนที่เหมาะกับการเที่ยวช้าๆ",
+      "de": "Planen Sie Mae Hong Son uber die Shan-Tempel am See, Doi Kong Mu, einen guten Ausflug ins Umland und passende Hotels und Foodstopps fur einen langsameren Nordthailand-Aufenthalt.",
+      "fr": "Planifiez Mae Hong Son autour des temples shan au bord du lac, de Doi Kong Mu, d'une excursion exterieure bien choisie et d'adresses adaptees a un sejour plus lent dans le nord de la Thailande.",
+      "ru": "Планируйте Мэ Хонг Сон вокруг шанских храмов у озера, Doi Kong Mu, одной сильной вылазки за город и тех отелей и гастрономических остановок, которые подходят для более медленного северного маршрута.",
+      "zh": "以湖边掸族寺庙、Doi Kong Mu、一条真正值得做的外谷一日线，以及适合慢节奏北泰停留的住宿和餐饮选择来规划夜丰颂。"
+    }
+  },
+  "categories": {
+    "food": {
+      "en": "Best restaurants and local food in Mae Hong Son",
+      "nl": "Beste restaurants en lokaal eten in Mae Hong Son",
+      "ja": "メーホンソーンのおすすめレストランとローカルフード",
+      "ko": "매홍손 추천 레스토랑과 로컬 음식",
+      "th": "ร้านอาหารและอาหารท้องถิ่นที่ดีที่สุดในแม่ฮ่องสอน"
+    },
+    "hotels": {
+      "en": "Top hotels in Mae Hong Son | Tips & deals",
+      "nl": "Beste hotels in Mae Hong Son | Tips & aanbiedingen",
+      "ja": "メーホンソーンのおすすめホテル | 実用ガイド",
+      "ko": "매홍손 추천 호텔 | 실전 팁",
+      "th": "โรงแรมแนะนำในแม่ฮ่องสอน | เคล็ดลับและดีล"
+    },
+    "attractions": {
+      "en": "Top attractions in Mae Hong Son",
+      "nl": "Top bezienswaardigheden in Mae Hong Son",
+      "ja": "メーホンソーンの見どころ",
+      "ko": "매홍손 핵심 명소",
+      "th": "สถานที่ท่องเที่ยวยอดนิยมในแม่ฮ่องสอน"
+    }
+  },
+  "tags": [
+    "noordelijk",
+    "mae-hong-son",
+    "shan-cultuur",
+    "bergen",
+    "mist",
+    "thailand"
+  ],
+  "enhanced_description": "Mae Hong Son verliest aan kracht als het wordt verkocht als een vaag afgelegen bergprovincie waar alles sfeervol klinkt maar niets prioriteit krijgt. De sterkere versie begint met de stad zelf: Nong Jong Kham en de tweeling Shan-tempels aan het meer, het uitzichtpunt en tempellogica op de heuveltop bij Doi Kong Mu, en een traag stadsritme dat wandelen, ochtendlicht en één echte maaltijd verkiest boven constante reistijd.\n\nDaarna opent de stad zich in duidelijke lagen naar buiten. Su Tong Pae is de schoonste zonsopgang-aanvulling vlakbij de stad. Tham Lod fungeert als de sterkste serieuze natuurexcursie van een dag als je geologie en een langere reisdag wilt. Ban Rak Thai en Pang Ung horen bij elkaar als de koelere, thee-en-reservoir-kant van de provincie, maar ze verbeteren de reis alleen als je de reistijd accepteert en niet probeert elke stop in een buitenvallei in één gehaaste lus te proppen. Mae Hong Son beloont selectiviteit veel meer dan volume.",
+  "overview": "De Tourism Authority of Thailand presenteert Mae Hong Son nog steeds als de stad van de drie misten, een provinciaal kapitaal omringd door bergen met Shan-invloede tempelarchitectuur en een benadering per weg die deel uitmaakt van de reislogica. Die officiële framing is nuttig omdat het de bezoeken gegrond houdt in wat nog steeds het sterkst overkomt ter plaatse: de reflecterende meer-kern bij Nong Jong Kham, de panoramische klim naar Wat Phra That Doi Kong Mu, en een trager stadsritme dan bezoekers krijgen in Pai of Chiang Mai.\n\nVoor de meeste eerste bezoeken is twee nachten het praktische zoete punt. Het geeft je één middag en avond in de stad rond het meer, één zonsopgang of heuveltop-tempelvenster, en ruimte voor óf een brug-en-marktdag dichtbij de stad óf een grotere rit naar een buitenvallei naar Tham Lod, Ban Rak Thai of Pang Ung. Eén nacht kan werken als je al onderweg bent in de Mae Hong Son Loop, maar het verandert de stad meestal in een doorreisstop in plaats van een plek met eigen interne structuur.",
+  "hidden_gems": [
+    {
+      "name": "Mae Hong Son Morning Market",
+      "story": "De ochtendmarkt werkt beter dan de avondlijke toeristen-voedselroute als je de stad wilt zien ontwaken en het alledaagse ritme wilt begrijpen.",
+      "how_to_find": "Ga vroeg naar de Phanit Wattana en Sai Yut-kant in plaats van het ontbijt uit te stellen tot na de tempelroute.",
+      "best_time": "Vroege ochtend.",
+      "local_insights": [
+        "Hier voelt Mae Hong Son het meest bewoond aan in plaats van het meest gefotografeerd.",
+        "Het past natuurlijk bij een ochtend aan het meer of bij Doi Kong Mu."
+      ]
+    },
+    {
+      "name": "Wat Hua Wiang",
+      "story": "Wat Hua Wiang voegt een extra laag religieuze architectuur in het stadscentrum toe zodra de bekendere meer-tempels zijn gedaan.",
+      "how_to_find": "Behandel het als een korte toevoeging in de stad in plaats van als een op zichzelf staande bestemming.",
+      "best_time": "Late ochtend of late middag.",
+      "local_insights": [
+        "Nuttig voor reizigers die nog één stadstempel willen zonder het kerngebied te verlaten.",
+        "Het werkt het best als je al beweegt tussen het meer en je hotel."
+      ]
+    },
+    {
+      "name": "Nong Chong Kham walking-street area",
+      "story": "Het wandelstraatgebied is niet de reden om Mae Hong Son te bezoeken, maar het geeft de kleine stad een kalmere avondlaag nadat het meerfront is opgeruimd.",
+      "how_to_find": "Gebruik het na zonsondergang voor een korte wandeling in plaats van het om te vormen tot een volledig avondentertainmentplan.",
+      "best_time": "Avond.",
+      "local_insights": [
+        "Mae Hong Son is stil van ontwerp; dit gebied is voor lichte beweging, niet voor nachtleven.",
+        "Het is het sterkst als je bescheiden verwachtingen houdt en het gebruikt als deel van de meer-route."
+      ]
+    }
+  ],
+  "authentic_experiences": [
+    {
+      "activity": "Begin met de meerfront-tempelkern bij Nong Jong Kham",
+      "story": "De stad wordt pas coherent als Wat Jong Kham en Wat Jong Klang worden behandeld als het anker, niet als een snelle fotostop voordat je ergens anders heen rijdt.",
+      "cultural_significance": "TAT-materiaal blijft de meer en de tweeling Shan-stijl tempels framen als het definiërende visuele en culturele centrum van de stad Mae Hong Son.",
+      "how_to_participate": "Wandel rond het meer op verschillende momenten van de dag, stap respectvol de tempelgebieden binnen, en laat de stad het tempo bepalen voordat je langere wegafwijkingen toevoegt.",
+      "insights": [
+        "Dit is de duidelijkste manier om Mae Hong Son te zien als een stad in plaats van alleen als een lus-stop.",
+        "Vroege avond en eerste licht werken beide om verschillende redenen."
+      ],
+      "href": "/city/mae-hong-son/attractions/wat-jong-kham-and-jong-klang/",
+      "cta_label": "Zie de meer-tempelgids"
+    },
+    {
+      "activity": "Gebruik Doi Kong Mu om de vorm van de vallei te begrijpen",
+      "story": "De heuveltop-tempel is niet zomaar een uitzichtpunt. Het legt uit hoe klein de stad echt is, hoe het meerfront in het bekken ligt, en waarom Mae Hong Son een trager, selectiever plan beloont.",
+      "cultural_significance": "Officiële TAT-dekking blijft Wat Phra That Doi Kong Mu gebruiken als het belangrijkste panoramische overzicht van de stad en vallei.",
+      "how_to_participate": "Ga in de ochtend of bij zachter laat-daglicht en gebruik het om de rest van het verblijf te oriënteren in plaats van het te behandelen als een vinkje-zonsondergang-rit.",
+      "insights": [
+        "Dit is de beste structurele eerste-dag- of eerste-ochtendstop.",
+        "Het werkt vooral goed voordat je beslist of een dag in de buitenvallei de moeite waard is."
+      ],
+      "href": "/city/mae-hong-son/attractions/wat-phra-that-doi-kong-mu/",
+      "cta_label": "Zie de Doi Kong Mu-gids"
+    },
+    {
+      "activity": "Kies óf een zonsopgang vlakbij de stad óf een langere grotdag",
+      "story": "Mae Hong Son wordt beter als je beslist welk soort dag je wilt: een makkelijke zonsopgangwandeling bij Su Tong Pae of een toegewijde weg-en-grot-dag naar Tham Lod.",
+      "cultural_significance": "TAT en lokaal toerismemateriaal houden Su Tong Pae en Tham Lod in verschillende rollen: één als een iconisch brugtafereel vlakbij de stad, de ander als een van de sterkste natuurlijke excursies van de provincie.",
+      "how_to_participate": "Probeer niet beide in één dag te proppen tenzij Mae Hong Son alleen een doorreispunt is en je de compromis accepteert.",
+      "insights": [
+        "Su Tong Pae draait om sfeer en timing.",
+        "Tham Lod draait om het accepteren van afstand en commitment aan de rit."
+      ],
+      "href": "/city/mae-hong-son/top-10-attractions/",
+      "cta_label": "Vergelijk de beste bezienswaardigheden van Mae Hong Son"
+    },
+    {
+      "activity": "Houd Ban Rak Thai en Pang Ung als de koelere klimaatkant van de reis",
+      "story": "De Yunnan-invloede dorp- en reservoir-kant van Mae Hong Son is de afstand waard als je echt een trager, koeler, thee-en-mist toevoeging wilt in plaats van nog een gehaaste bezienswaardigenaftelling.",
+      "cultural_significance": "Officieel TAT-materiaal frameert Ban Rak Thai nog steeds als het Yunnan-dorpsverblijf en Pang Ung als een gecontroleerde reservoir-natuurstop die planning vereist.",
+      "how_to_participate": "Behandel ze als een gelinkte zone, laat genoeg reistijd, en ga alleen als het weer en je schema een tragere dag ondersteunen.",
+      "insights": [
+        "Deze kant draait om stemming, niet om tempo.",
+        "Het is sterker met één overnachting in de stad al veiliggesteld."
+      ],
+      "href": "/city/mae-hong-son/attractions/ban-rak-thai/",
+      "cta_label": "Zie de Ban Rak Thai-gids"
+    }
+  ],
+  "foodie_adventures": [
+    {
+      "dish": "Een stadsdiner opgebouwd rond Bi Fern Restaurant",
+      "location": "Dichtbij de wandelstraat- en bibliotheekkant van de stad",
+      "story": "TAT noemt Bi Fern nog steeds als een van de herkenbare Mae Hong Son-restaurants, wat het een van de betere ankers maakt voor een echte zit-maaltijd in de stad.",
+      "where_to_find": "Gebruik het als een eerste-nacht-diner als je een echt restaurant wilt in plaats van te improviseren met kleine verspreide stalletjes.",
+      "price_range": "Budget tot middenklasse",
+      "ordering_tips": [
+        "Behandel het als een betrouwbare stadsmake, niet als een fine-dining bestemming.",
+        "Controleer lokaal de huidige openingstijden omdat kleinere noordelijke handels patronen in steden kunnen verschuiven."
+      ],
+      "href": "/city/mae-hong-son/top-10-restaurants/",
+      "cta_label": "Zie meer eet-tips"
+    },
+    {
+      "dish": "Eén noedelstop die past bij het tempo van de stad",
+      "location": "Pa Hom Noodles of een andere ochtendmarkt-eerste noedelstop",
+      "story": "Mae Hong Son eetplanning werkt als je accepteert dat noedels, eenvoudige Shan-invloede ontbijten en bescheiden stadsmake vaak beter passen dan opgeblazen diner-verwachtingen.",
+      "where_to_find": "Pa Hom verschijnt in officiële toerisme-eetdekking, terwijl de officiële stadskaart het centrale markt-en-koffiepatroon rond de stad versterkt.",
+      "price_range": "Budget",
+      "ordering_tips": [
+        "Doe dit vroeg op de dag voordat je vertrekt voor een brug, heuveltop of buitenvallei-rit.",
+        "Stadsontbijt en noedels cultuur doen er hier meer toe dan het najagen van een groot-avond-restaurantsfeer."
+      ],
+      "href": "/city/mae-hong-son/top-10-restaurants/",
+      "cta_label": "Zie meer eet-tips"
+    },
+    {
+      "dish": "Eén koffiepauze die het tragere stadsritme ondersteunt",
+      "location": "Coffee Morning of Little Good Things",
+      "story": "Mae Hong Son beloont één bewuste koffiepauze meer dan een constante ronde van generieke cafés. Deze namen blijven zichtbaar in officiële toerisme- en stad-referenties voor het centrum.",
+      "where_to_find": "Gebruik ze tussen het meerfront en het hotel, of na de ochtendmarkt voordat je de heuvel op gaat.",
+      "price_range": "Budget tot middenklasse",
+      "ordering_tips": [
+        "Houd dit als een tempostop, niet als het hoofdeetmoment van de dag.",
+        "Kleine cafés zijn vaak het sterkst in de tragere ochtend of vroege middagperiode."
+      ],
+      "href": "/city/mae-hong-son/top-10-restaurants/",
+      "cta_label": "Zie meer eet-tips"
+    }
+  ],
+  "local_insights": [
+    "Mae Hong Son voelt kleiner en kalmer aan dan veel eerste bezoekers verwachten; de juiste zet is meestal minder doen, niet meer.",
+    "Het meerfront en Doi Kong Mu moeten worden behandeld als de vaste kern van de stad voordat buitenvallei-ideeën worden toegevoegd.",
+    "Reistijd is de echte kostenpost hier, niet alleen geld. Elke omweg moet de uren rechtvaardigen.",
+    "De beste overnachtingsstrategie hangt af van of je een wandelbare stadavond waardeert of een stillere resort-setting buiten de stad.",
+    "Als je gevoelig bent voor bochtige wegen, geloof de officiële waarschuwing en plan eromheen in plaats van te hopen dat je onderweg aanpast."
+  ],
+  "seasonal_secrets": "Koelere maanden blijven het makkelijkste algemene venster omdat ochtendmist, duidelijkere stads wandelingen, en de Ban Rak Thai en Pang Ung-kant allemaal meer zin hebben als de lucht koeler is. Regen kan het landschap groener en zachter maken, maar het vertraagt ook reisdagen. Late droge-seizoen waas kan lange uitzichten plat maken, dus de scenic kant van de provincie is het sterkst als je flexibel blijft in plaats van jezelf ansichtkaart-condities te beloven.",
+  "budget_reality": "Mae Hong Son zelf is geen moeilijke stad om betaalbaar te houden. De grotere uitgave komt van transportbeslissingen: privé-chauffeurs, lus-routing, langere bergtransfers, en het kiezen van buitenvallei-hotelbases die meer beweging toevoegen dan de stadskern echt nodig heeft. Budgetverblijven en bescheiden maaltijden zijn nog steeds realistisch als je de reis gecentreerd houdt op de meerfront-stad en slechts één echte excursie.",
+  "top_attractions": [
+    {
+      "rank": 1,
+      "name": "Wat Jong Kham and Wat Jong Klang",
+      "description": "De meer-tweelingtempel-kern die Mae Hong Son stad visueel en cultureel definieert.",
+      "location": "Nong Jong Kham, centraal in de stad",
+      "entrance_fee": "Toegang tot het tempelgebied is over het algemeen eenvoudig; bevestig ter plaatse eventuele museum- of zijgebouw-regelingen",
+      "highlights": [
+        "Tweeling Shan-stijl tempels",
+        "Beste stadscentrum-ancker",
+        "Sterke ochtend- en avondatmosfeer"
+      ],
+      "href": "/city/mae-hong-son/attractions/wat-jong-kham-and-jong-klang/",
+      "cta_label": "Zie de meer-tempelgids"
+    },
+    {
+      "rank": 2,
+      "name": "Wat Phra That Doi Kong Mu",
+      "description": "De heuveltop-tempel en panorama die de vorm van het hele Mae Hong Son-bekken uitlegt.",
+      "location": "Doi Kong Mu heuvelhelling",
+      "entrance_fee": "Tempeltoegang is meestal eenvoudig; controleer lokaal eventuele huidige parkeer- of bezoekersregelingen",
+      "highlights": [
+        "Beste vallei-uitzichtpunt",
+        "Stadsoriëntatiestop",
+        "Heuveltop-tempelatmosfeer"
+      ],
+      "href": "/city/mae-hong-son/attractions/wat-phra-that-doi-kong-mu/",
+      "cta_label": "Zie de Doi Kong Mu-gids"
+    },
+    {
+      "rank": 3,
+      "name": "Su Tong Pae Bridge",
+      "description": "De zonsopgangbrug vlakbij de stad die fungeert als de makkelijkste atmosferische toevoeging van Mae Hong Son.",
+      "location": "Buiten de stad naar de rijstveld-kant",
+      "entrance_fee": "Controleer bij aankomst de huidige lokale donatie- of toegangsregelingen",
+      "highlights": [
+        "Bamboebrug over velden",
+        "Beste zonsopgang-toevoeging",
+        "Makkelijke halve-dag extra"
+      ],
+      "href": "/city/mae-hong-son/attractions/su-tong-pae-bridge/",
+      "cta_label": "Zie de Su Tong Pae-gids"
+    },
+    {
+      "rank": 4,
+      "name": "Tham Lod Cave",
+      "description": "De sterkste serieuze buitenvallei-natuurexcursie van een dag voor reizigers die zich willen committeren aan de rit.",
+      "location": "Pang Mapha-kant",
+      "entrance_fee": "Beheerde grotkosten en gidsregelingen kunnen veranderen; bevestig de huidige opzet voordat je gaat",
+      "highlights": [
+        "Grote grot-excursie",
+        "Beste geologie-daguitstap",
+        "Waard echte planning"
+      ],
+      "href": "/city/mae-hong-son/attractions/tham-lod-cave/",
+      "cta_label": "Zie de Tham Lod-gids"
+    },
+    {
+      "rank": 5,
+      "name": "Ban Rak Thai",
+      "description": "Het Yunnan-invloede grensdorp dat thee, mist en een trager reservoir-meer-stemming toevoegt aan het Mae Hong Son-verblijf.",
+      "location": "Grensvallei-kant noordwest van de stad",
+      "entrance_fee": "Dorpstoegang is eenvoudig; controleer boot-, thee- en homestay-regelingen direct bij de aanbieders",
+      "highlights": [
+        "Thee-dorpatmosfeer",
+        "Yunnan eten en meer-setting",
+        "Goede koelere-klimaat-omweg"
+      ],
+      "href": "/city/mae-hong-son/attractions/ban-rak-thai/",
+      "cta_label": "Zie de Ban Rak Thai-gids"
+    },
+    {
+      "rank": 6,
+      "name": "Pang Ung",
+      "description": "De reservoir-volg-op die het best past bij de Ban Rak Thai-kant als je een koelere, stillere natuurlaag wilt.",
+      "location": "Pang Tong-kant",
+      "entrance_fee": "Officiële regelingen kunnen veranderen; bevestig huidige toegang en overnachtingsregels voordat je eromheen plant",
+      "highlights": [
+        "Reservoir en dennen-setting",
+        "Koel-seizoen-atmosfeer",
+        "Goede gelinkte omweg"
+      ],
+      "href": "/city/mae-hong-son/attractions/pang-ung/",
+      "cta_label": "Zie de Pang Ung-gids"
+    }
+  ],
+  "top_restaurants": [
+    {
+      "rank": 1,
+      "name": "Bi Fern Restaurant",
+      "price_range": "Budget tot middenklasse",
+      "description": "Een van de duidelijkste huidige stad-restaurant-anckers uit officiële toerismedekking, nuttig voor een echte eerste-nacht-zit-maaltijd.",
+      "category": "Thais en lokale specialiteiten",
+      "area": "Stadscentrum dichtbij de wandelstraat-kant",
+      "highlights": [
+        "Uitgelicht door TAT",
+        "Vastgesteld stadsrestaurant",
+        "Goed diner-ancker"
+      ],
+      "href": "/city/mae-hong-son/top-10-restaurants/",
+      "cta_label": "Zie de eetgids"
+    },
+    {
+      "rank": 2,
+      "name": "Pa Hom Noodles",
+      "price_range": "Budget",
+      "description": "Een praktische noedelstop uit officiële toerismedekking die goed past bij het lichtere lunchritme van Mae Hong Son.",
+      "category": "noedels",
+      "area": "Centraal in de stad",
+      "highlights": [
+        "Uitgelicht door TAT",
+        "Makkelijke lunch-logica",
+        "Goed voor of na stadsbezienswaardigheden"
+      ],
+      "href": "/city/mae-hong-son/top-10-restaurants/",
+      "cta_label": "Zie de eetgids"
+    },
+    {
+      "rank": 3,
+      "name": "Coffee Morning",
+      "price_range": "Budget tot middenklasse",
+      "description": "Een café-en-hostel-stijl stop uit officiële toerismedekking die goed werkt voor koffie, een pauze en een lichtere meer-reset.",
+      "category": "café",
+      "area": "Dicht bij Wat Jong Kham en Wat Jong Klang",
+      "highlights": [
+        "Uitgelicht door TAT",
+        "Dicht bij de kern van het stadje",
+        "Goed om de dag rustig te verdelen"
+      ],
+      "href": "/city/mae-hong-son/top-10-restaurants/",
+      "cta_label": "Zie de eetgids"
+    },
+    {
+      "rank": 4,
+      "name": "Little Good Things",
+      "price_range": "Budget tot middenklasse",
+      "description": "Een klein centraal café dat nog steeds op de officiële stadskaart staat en dient als praktische reserve voor koffie en lichte maaltijden.",
+      "category": "café en lichte maaltijden",
+      "area": "Stadscentrum",
+      "highlights": [
+        "Officiële vermelding op de stadskaart",
+        "Handige dagreserve",
+        "Gemakkelijk te combineren met de oever van het meer"
+      ],
+      "href": "/city/mae-hong-son/top-10-restaurants/",
+      "cta_label": "Zie de eetgids"
+    },
+    {
+      "rank": 5,
+      "name": "Fern Restaurant",
+      "price_range": "Middenklasse",
+      "description": "Een rustigere eetoptie aan de resortkant die meer zin heeft als je al buiten het compacte stadscentrum verblijft.",
+      "category": "resort dining",
+      "area": "Fern Resort-kant van de stad",
+      "highlights": [
+        "Officiële vermelding op de stadskaart",
+        "Goed voor resortverblijven",
+        "Handig als je niet in het centrum eet"
+      ],
+      "href": "/city/mae-hong-son/top-10-restaurants/",
+      "cta_label": "Zie de eetgids"
+    }
+  ],
+  "top_hotels": [
+    {
+      "rank": 1,
+      "name": "Fern Resort Mae Hong Son",
+      "price_range": "Middenklasse tot luxe",
+      "description": "De duidelijkste, door bronnen gesteunde keuze voor een rustig resort buiten de stad als je een kalmere setting wilt en een directe officiële boekingskanaal.",
+      "category": "resort",
+      "area": "Groene zone buiten de stad",
+      "highlights": [
+        "Officiële boekingswebsite",
+        "Beter voor een rustiger resortverblijf",
+        "Sterker dan een generieke kamer in de stad als de setting belangrijk is"
+      ],
+      "href": "/city/mae-hong-son/top-10-hotels/",
+      "cta_label": "Zie de hotelgids"
+    },
+    {
+      "rank": 2,
+      "name": "The Imperial Mae Hong Son Resort",
+      "price_range": "Middenklasse",
+      "description": "Een groter full-service resort met een officiële hotelpagina, lokale etnische decor en een traditioneler eigendomsformaat dan de guesthouses in de stad.",
+      "category": "resort",
+      "area": "Pang Mu-kant",
+      "highlights": [
+        "Officiële hotelwebsite",
+        "104-kamer resort",
+        "Vrijvormig zwembad en gemakkelijkere wegtoegang"
+      ],
+      "href": "/city/mae-hong-son/top-10-hotels/",
+      "cta_label": "Zie de hotelgids"
+    },
+    {
+      "rank": 3,
+      "name": "B2 Mae Hong Son Premier Resort",
+      "price_range": "Budget tot middenklasse",
+      "description": "Een meer gestandaardiseerde moderne resortoptie met een directe officiële pagina, handig als je een voorspelbare kamerindeling wilt en eenvoudige korte autorit naar de belangrijkste bezienswaardigheden.",
+      "category": "budget-keten resort",
+      "area": "Siri Mongkol Road-kant",
+      "highlights": [
+        "Officiële hotelwebsite",
+        "42 kamers en zwembad",
+        "Gemakkelijke korte autorit naar luchthaven en belangrijke bezienswaardigheden"
+      ],
+      "href": "/city/mae-hong-son/top-10-hotels/",
+      "cta_label": "Zie de hotelgids"
+    },
+    {
+      "rank": 4,
+      "name": "Piya Guest House",
+      "price_range": "Budget",
+      "description": "Een pragmatische guesthouse aan het meer die nog steeds op de officiële Mae Hong Son-stadskaart staat, waardoor het een van de betere wandelbare basisopties is om op je shortlist te houden.",
+      "category": "guesthouse",
+      "area": "Dicht bij Chong Kham Lake",
+      "highlights": [
+        "Officiële vermelding op de stadskaart",
+        "Wandelbare stad-basis logica",
+        "Handig voor eenvoudige overnachtingen"
+      ],
+      "href": "/city/mae-hong-son/top-10-hotels/",
+      "cta_label": "Zie de hotelgids"
+    },
+    {
+      "rank": 5,
+      "name": "Panorama Hotel",
+      "price_range": "Budget tot middenklasse",
+      "description": "Nog een hotelnaam in het stadscentrum op de officiële kaart die zin heeft als je prioriteit een praktische centrale overnachting is in plaats van een resortatmosfeer.",
+      "category": "stadshotel",
+      "area": "Centraal Mae Hong Son",
+      "highlights": [
+        "Officiële vermelding op de stadskaart",
+        "Stadscentrum-logica",
+        "Beter voor wandelbaarheid dan voor resortatmosfeer"
+      ],
+      "href": "/city/mae-hong-son/top-10-hotels/",
+      "cta_label": "Zie de hotelgids"
+    }
+  ],
+  "travel_tips": [
+    "Twee nachten is de netste structuur voor een eerste reis naar Mae Hong Son omdat het de stadskern en één echte excursie aparte tijd geeft.",
+    "Als reisziekte een probleem is, plan eromheen voordat je de bergwegen begint; TAT waarschuwt nog steeds expliciet voor de bochtige aanpak.",
+    "Probeer niet Su Tong Pae, Doi Kong Mu, Tham Lod, Ban Rak Thai en Pang Ung allemaal in één gecomprimeerd verblijf te doen.",
+    "Verblijf in de stad als je de oever van het meer en eenvoudige avondwandelingen wilt. Verblijf alleen aan de resortrand als rustige gronden belangrijker zijn dan wandelbaarheid.",
+    "Als je plant rond luchthavenaccess, bevestig de huidige dienst voordat je erop vertrouwt; wegankomst telt nog steeds in Mae Hong Son."
+  ],
+  "best_time_to_visit": {
+    "season": "Koelere maanden zijn de makkelijkste algemene fit voor Mae Hong Son omdat stadswandelingen, vroege starts en de Ban Rak Thai- en Pang Ung-kant allemaal profiteren van helderder, koelere lucht.",
+    "weather": "De provincie kan mooi zijn in regen en mist, maar reistijd en zichtbaarheid worden variabeler, dus flexibiliteit telt meer dan exacte itineraries.",
+    "reasons": "Mae Hong Son is een plek waar atmosfeer telt. Koelere ochtenden, zachter licht en langzamere wegcondities verbeteren de reis meer dan een volgepropte checklist ooit zal doen."
+  },
+  "budget_info": {
+    "daily_budget": {
+      "budget": "Een budgetverblijf in Mae Hong Son is nog steeds realistisch met een eenvoudige stadskamer, noedel- en marktmaaltijden, en een plan gericht op de oever van het meer en één bescheiden excursie.",
+      "mid": "Middenklasse uitgaven betekenen meestal een sterkere hotelkeuze, één zit-down diner, en óf een grotdag óf een Ban Rak Thai- en Pang Ung-run.",
+      "luxury": "Hogere uitgaven komen hier meestal van resorteigendommen, privé-chauffeurs of het toevoegen van meerdere bergwegregeldagen in plaats van van stadscentrumprijzen zelf."
+    }
+  },
+  "thingsToDo": "Begin met Wat Jong Kham en Wat Jong Klang rond Nong Jong Kham, voeg Doi Kong Mu toe voor het valleioverzicht, en beslis dan welk extra je echt wilt: Su Tong Pae voor een eenvoudige zonsopgang, Tham Lod voor een serieuze natuuredag, of Ban Rak Thai en Pang Ung voor de koelere reservoir-en-thee-kant van de provincie.",
+  "whereToStay": "De beste eerste beslissing in Mae Hong Son is of je stadswandelbaarheid wilt of een rustigere resortrand. Meer-gebied en centraal-stad guesthouses maken de avond en vroege ochtend gemakkelijk. Fern, Imperial en B2-stijl resorteigendommen passen bij reizigers die meer om gronden, parkeren en een kalmere slaapomgeving geven dan om direct naar de oever van het meer te wandelen.",
+  "whereToEat": [
+    {
+      "name": "Bi Fern Restaurant",
+      "cuisine": "Thaise en lokale specialiteiten",
+      "priceRange": "Budget tot middenklasse",
+      "description": "Een solide dineranker in de stad uit officiële toerismedekking."
+    },
+    {
+      "name": "Pa Hom Noodles",
+      "cuisine": "Noedels",
+      "priceRange": "Budget",
+      "description": "Een praktische, lichtere stop in de stad die goed past bij het Mae Hong Son-tempo."
+    },
+    {
+      "name": "Coffee Morning",
+      "cuisine": "Café en lichte maaltijden",
+      "priceRange": "Budget tot middenklasse",
+      "description": "Een kalme koffiestop nabij het meer die werkt tussen de stadsbezienswaardigheden."
+    }
+  ],
+  "gettingAround": "Het centrum van Mae Hong Son is gemakkelijk te voet te doen zodra je rond de oever van het meer en het hoofd-stadsgedeelte bent. De moeilijkheid begint als je de stad verlaat: Doi Kong Mu is een korte heuvelopwaartse rit, Su Tong Pae is een eenvoudige nabij-stad transfer, en de Ban Rak Thai, Pang Ung en Tham Lod-kant hangen allemaal af van het accepteren van echte bergwegtijd. De meeste reizigers doen het het beste met een auto, chauffeur of zelfverzekerde scooterplanning voor de buiten-vallei stukken.",
+  "bestTimeToVisit": "Het koelste deel van het jaar is meestal de netste fit voor Mae Hong Son omdat de provincie om atmosfeer, bergwegen en vroeg licht gaat in plaats van nachtleven of hele-dag winkelen. Flexibele timing telt meer dan het persen in de heetste mogelijke seizoen met een rigide checklist.",
+  "budgetGuide": {
+    "budget": {
+      "min": 1500,
+      "max": 2800,
+      "description": "Eenvoudige stadskamer, bescheiden maaltijden en een reis gericht op de centrale oever van het meer en één zorgvuldig gekozen toevoeging."
+    },
+    "midrange": {
+      "min": 3200,
+      "max": 6800,
+      "description": "Een sterker hotel of resort, één echt diner en genoeg transportbudget voor een betekenisvolle buiten-vallei dag."
+    },
+    "luxury": {
+      "min": 7500,
+      "max": 15000,
+      "description": "Privétransport, betere resorteigendommen en een rustiger tempo gebouwd rond comfort in plaats van kilometerstand."
+    }
+  },
+  "safetyTips": "Het grootste risico in Mae Hong Son is het wegennet, niet de stad zelf. Bergbochten, veranderend weer en te lange dagplannen creëren meer problemen dan criminaliteit. Als je een scooter rijdt, wees eerlijk over je bergwegervaring. Bij Su Tong Pae en tempelsites, houd het bezoek respectvol en onthaast. Bij Tham Lod, gebruik de beheerde lokale gidsopzet en draag praktische schoenen in plaats van de grot als een casual flip-flop stop te behandelen.",
+  "faq": [
+    {
+      "question": "Hoeveel nachten heb je nodig in Mae Hong Son?",
+      "answer": "Twee nachten is de sterkste structuur voor een eerste reis omdat het je één echte stad-gebaseerde dag en één echte excursievenster geeft zonder de provincie te reduceren tot transit."
+    },
+    {
+      "question": "Heb je een auto nodig in Mae Hong Son?",
+      "answer": "Niet voor de stadskern zelf, maar het wordt veel nuttiger zodra je Su Tong Pae, Ban Rak Thai, Pang Ung of Tham Lod wilt. Hoe verder je gaat, hoe belangrijker wegplanning wordt."
+    },
+    {
+      "question": "Is Mae Hong Son beter dan Pai voor een rustig verblijf?",
+      "answer": "Voor veel reizigers, ja. Mae Hong Son is over het algemeen rustiger, langzamer en meer tempel-en-vallei georiënteerd, terwijl Pai een drukker reizigersscene en meer café-stad energie heeft."
+    },
+    {
+      "question": "Welk eten moet je prioriteren in Mae Hong Son?",
+      "answer": "Houd het eenvoudig: één solide diner in de stad, één noedelstop en één langzamere koffie- of ontbijtbreak. Mae Hong Son is beter in bescheiden, goed getimede maaltijden dan in een lange lijst bestemmingsrestaurants."
+    }
+  ],
+  "practicalInfo": {
+    "arrival": "Wegtoegang blijft een echt deel van de planning. Als je van plan bent te vliegen, bevestig de huidige dienst direct voordat je de hele reis eromheen bouwt.",
+    "transport": "Wandel de stadskern. Bewaar serieuze transporttijd voor één gekozen buiten-vallei dag in plaats van veel kleine verspreide omwegen.",
+    "planning": "Denk in lagen: stad meer-oever, heuveltop overzicht, één nabij-stad extra of één volledige buiten-vallei dag."
+  },
+  "contentSources": [
+    {
+      "type": "toerismekantoor",
+      "title": "Mae Hong Son",
+      "creator": "Tourism Authority of Thailand",
+      "url": "https://www.tourismthailand.org/Destinations/Provinces/Mae-Hong-Son/106",
+      "description": "Gebruikt voor officiële provinciale framing, de stad-van-drie-misten positionering, Pang Ung planning noot en de bochtige-weg waarschuwing."
+    },
+    {
+      "type": "toerismekantoor",
+      "title": "MAE HONG SON-PAI: EEN SAMENVATTING ONTSNAPPING NAAR HET DAL VAN ETNISCHE GROEPEN",
+      "creator": "Tourism Authority of Thailand",
+      "url": "https://www.tourismthailand.org/Articles/mae-hong-son-pai-a-summary-escape-to-the-valley-of-ethnic-groups-2",
+      "description": "Gebruikt voor de Nong Jong Kham, Wat Jong Kham en Wat Jong Klang, Doi Kong Mu, Ban Rak Thai en Highway 1095 route framing."
+    },
+    {
+      "type": "toerismekantoor",
+      "title": "4 natuurlijke toeristische attracties in Mae Hong Son",
+      "creator": "Tourism Authority of Thailand",
+      "url": "https://www.tourismthailand.org/Articles/4-natural-tourist-attractions-in-mae-hong-son",
+      "description": "Gebruikt voor buiten-vallei natuur framing rond Pang Ung, Lod Cave en gerelateerde Mae Hong Son dagtrip structuur."
+    },
+    {
+      "type": "toerismekantoor",
+      "title": "5 Restaurants met Heerlijke Gerechten in Mae Hong Son",
+      "creator": "Tourism Authority of Thailand",
+      "url": "https://www.tourismthailand.org/Articles/https-www-tourismthailand-org-articles-5restaurantswithdeliciousdisheinmaehongson",
+      "description": "Gebruikt voor huidige toerisme-ondersteunde restaurant positionering rond Bi Fern Restaurant, Pa Hom Noodles en Coffee Morning."
+    },
+    {
+      "type": "toerismekantoor",
+      "title": "Officiële Mae Hong Son stadskaart",
+      "creator": "Mae Hong Son Provinciale Kantoor voor Toerisme en Sport",
+      "url": "https://www.maeheepai.go.th/upload/catalogs_file/catalogs_file_257_17_8_524.pdf",
+      "description": "Gebruikt voor de officiële inventaris in de stad van restaurants, hotels, luchthavenlocatie en ondersteunende stad landmarks."
+    },
+    {
+      "type": "hotel",
+      "title": "Fern Resort Mae Hong Son",
+      "creator": "Fern Resort Mae Hong Son",
+      "url": "https://reservation.roomscope.com/1810/en",
+      "description": "Gebruikt als de directe officiële boekings pagina voor Fern Resort Mae Hong Son."
+    },
+    {
+      "type": "hotel",
+      "title": "The Imperial Mae Hong Son Resort",
+      "creator": "The Imperial Hotels and Resorts",
+      "url": "https://www.imperialhotels.com/find-us/our-hotels/the-imperial-mae-hong-son-resort",
+      "description": "Gebruikt voor officiële hotel positionering, kamer-aantal context en resort faciliteiten."
+    },
+    {
+      "type": "hotel",
+      "title": "B2 Mae Hong Son Premier Resort",
+      "creator": "B2 Boutique and Budget Hotels",
+      "url": "https://www.b2hotel.com/mae-hong-son/b2-mae-hong-son-premier-resort",
+      "description": "Gebruikt voor officiële kamer-aantal context, faciliteiten en korte-rit positionering ten opzichte van Mae Hong Son Luchthaven en de belangrijkste stad landmarks."
+    }
+  ],
+  "reviewed_by": "Go2Thailand Redactie Team",
+  "enhanced_at": "2026-03-26T00:00:00.000Z",
+  "enrichedAt": "2026-03-26T00:00:00.000Z",
+  "factchecked_at": "2026-03-26T00:00:00.000Z"
+}

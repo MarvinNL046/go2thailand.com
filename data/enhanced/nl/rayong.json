@@ -1,0 +1,732 @@
+{
+  "id": 22,
+  "slug": "rayong",
+  "name": {
+    "en": "Rayong",
+    "nl": "Rayong",
+    "ja": "ラヨーン",
+    "ko": "라용",
+    "th": "ระยอง",
+    "de": "Rayong",
+    "fr": "Rayong",
+    "ru": "Rayong",
+    "zh": "罗勇"
+  },
+  "region": "Centraal",
+  "province": "Rayong",
+  "description": {
+    "en": "Rayong works best as an eastern Gulf coast base built around Khao Laem Ya, Ban Phe and Mae Ramphueng first, then one deliberate Koh Samet or Prasae-side extension. The province gets stronger when you keep the mainland coast, old-town layer and fruit-season identity visible instead of treating everything as a ferry stop.",
+    "nl": "Rayong werkt het best als basis aan de oostelijke Golfkust, met eerst Khao Laem Ya, Ban Phe en Mae Ramphueng, en daarna hooguit een bewuste Koh Samet- of Prasae-zijuitstap. De provincie wordt sterker zodra je de vastelandkust, het old-town laagje en het fruitseizoen zichtbaar houdt in plaats van alles als ferry-stop te verkopen.",
+    "ja": "バンコクの東に位置する海岸沿いの県ラヨーンは、人気のサメット島への玄関口であり、フルーツ農園やシーフードでも有名です。",
+    "ko": "방콕 동쪽의 해안 지방으로, 인기 있는 꼬사멧 섬의 관문입니다. 열대 과일 농장, 긴 모래 해변, 신선한 해산물, 관광객 인파에서 벗어난 여유로운 분위기로 유명합니다.",
+    "th": "จังหวัดชายทะเลตะวันออก มีเกาะเสม็ด ทุเรียน ผลไม้สด และหาดทรายสะอาด",
+    "de": "Die Küstenprovinz östlich von Bangkok, Tor zur beliebten Insel Koh Samet. Bekannt für tropische Obstgärten, lange Sandstrände, frische Meeresfrüchte und eine entspannte Atmosphäre fernab der Touristenmassen.",
+    "fr": "Province côtière à l’est de Bangkok, porte d’entrée vers la populaire île Koh Samet. Connue pour ses vergers de fruits tropicaux, ses longues plages de sable, ses fruits de mer frais et une ambiance détendue loin des foules.",
+    "ru": "Прибрежная провинция к востоку от Бангкока, ворота к популярному острову Ко Самет. Известна тропическими фруктовыми садами, длинными песчаными пляжами, свежими морепродуктами и непринуждённой атмосферой вдали от туристических толп.",
+    "zh": "海岸省份，位于曼谷以东，是前往热门考沙美岛的门户，以水果园、海鲜和较轻松的海边节奏闻名。"
+  },
+  "population": 65000,
+  "population_note": "Referentie naar de bevolkingsomvang op gemeentelijk niveau gebruikt voor de context van de stadspagina.",
+  "highlights": [
+    "Khao Laem Ya",
+    "Koh Samet",
+    "Mae Ramphueng Beach",
+    "Rayong Botanical Garden",
+    "Thung Prong Thong",
+    "Yomjinda Road"
+  ],
+  "location": {
+    "lat": 12.6814,
+    "lng": 101.2816
+  },
+  "image": "/images/cities/generated/rayong.webp",
+  "seo": {
+    "metaTitle": {
+      "en": "Rayong Thailand Guide 2026 | Mainland Coast, Koh Samet, Food, Hotels",
+      "nl": "Rayong Thailand gids 2026 | Vastelandkust, Koh Samet, food en hotels",
+      "ja": "ラヨーンを満喫 | ラヨーンの観光・見どころガイド",
+      "ko": "라용 태국 여행 가이드 2026",
+      "th": "ระยอง ประเทศไทย — คู่มือท่องเที่ยวฉบับสมบูรณ์ 2026",
+      "de": "Entdecken Sie Rayong | Was tun in Rayong?",
+      "fr": "Découvrez Rayong | Que faire à Rayong ?",
+      "ru": "Откройте для себя Районг | Что делать в Районге?",
+      "zh": "发现罗勇 | 在罗勇做什么？"
+    },
+    "metaDescription": {
+      "en": "Plan Rayong around Khao Laem Ya, Ban Phe, Mae Ramphueng, the Prasae mangrove side, and one deliberate Koh Samet extension instead of thin ferry-only copy.",
+      "nl": "Plan Rayong rond Khao Laem Ya, Ban Phe, Mae Ramphueng, de Prasae-mangrovekant en hooguit één bewuste Koh Samet-uitstap, in plaats van dunne ferry-only copy.",
+      "ja": "タイ・ラヨーンの旅行ガイド — おすすめスポット、グルメ、ホテル情報をご紹介。",
+      "ko": "라용(태국) 완벽 여행 가이드: 꼬사멧 섬, 과일 농장, 해산물, 해변. 팁과 동선을 정리한 실전형 가이드.",
+      "th": "คู่มือท่องเที่ยวระยอง ประเทศไทย — สถานที่ท่องเที่ยว อาหาร ที่พัก และเคล็ดลับ อัปเดต 2026",
+      "de": "Ihr Guide zu Rayong, Thailand – Tipps, Highlights, Essen, Hotels.",
+      "fr": "Votre guide pour Rayong, Thaïlande – conseils, points forts, gastronomie, hôtels.",
+      "ru": "Ваш гид по Районгу, Таиланд — советы, достопримечательности, еда, отели.",
+      "zh": "您的泰国罗勇指南——海岸、景点、美食与住宿。"
+    }
+  },
+  "categories": {
+    "food": {
+      "en": "Best restaurants and seafood-focused food in Rayong",
+      "nl": "Beste restaurants en seafood-focused food in Rayong",
+      "ja": "ラヨーンのおすすめレストラン＆フード",
+      "ko": "라용 추천 레스토랑과 음식",
+      "th": "ร้านอาหารและอาหารทะเลที่ดีที่สุดในระยอง"
+    },
+    "hotels": {
+      "en": "Top hotels in Rayong | City, beach and island stays",
+      "nl": "Beste hotels in Rayong | City-, beach- en island-stays",
+      "ja": "ラヨーンのおすすめホテル",
+      "ko": "라용 추천 호텔 | 시내·비치·섬 숙소",
+      "th": "โรงแรมแนะนำในระยอง | ตัวเมือง ชายหาด และเกาะ"
+    },
+    "attractions": {
+      "en": "Top attractions in Rayong",
+      "nl": "Top bezienswaardigheden in Rayong",
+      "ja": "ラヨーンの人気観光スポット",
+      "ko": "라용 핵심 명소",
+      "th": "สถานที่ท่องเที่ยวยอดนิยมในระยอง"
+    }
+  },
+  "tags": [
+    "rayong",
+    "oostelijke golf",
+    "koh samet",
+    "ban phe",
+    "khao laem ya",
+    "thung prong thong",
+    "rayong botanical garden",
+    "thailand"
+  ],
+  "enhanced_description": "Rayong wordt zwakker als het wordt gereduceerd tot een snelle veerbootovertocht naar Koh Samet. De provincie is beter te begrijpen als een gelaagde reis aan de oostkust: het vasteland als scharnierpunt rond Ban Phe en Khao Laem Ya, het lange, ontspannen strandritme bij Mae Ramphueng, een bescheiden maar nuttige oude-stad-laag op Yomjinda Road, en dan één bewuste uitbreiding, óf naar Koh Samet óf naar het mangrove- en wetlandlandschap aan de Prasae-kant.\n\nDie benadering maakt ook het advies over eten en hotels duidelijker. Rayong is een van de makkelijkere provincies aan de Golf-kant voor verse zeevruchten, seizoensreizen met fruit en planning met gesplitste overnachtingen, omdat stadshotels, strandresorts op het vasteland en één overnachting op een eiland allemaal zinvol kunnen zijn voor verschillende versies van de reis. De pagina's zijn sterker als ze die keuze weerspiegelen in plaats van de reisroute op te vullen met gekopieerde ranglijsten, broze prijsclaims en vulmiddel over 'verborgen paradijsstranden' die allemaal hetzelfde klinken.",
+  "overview": "Rayong ligt in een nuttig middengebied tussen de gemakken van Bangkok en een echte kustverandering van tempo. Het vasteland is de sleutel om het te begrijpen. Khao Laem Ya en Ban Phe verklaren de relatie van de provincie met Koh Samet, terwijl Mae Ramphueng je een lang, eenvoudig strand biedt zonder dat je überhaupt een boot hoeft te nemen. Dit is het deel van Rayong dat het makkelijkst verkeerd wordt begrepen als elke gids begint en eindigt met het eiland.\n\nDe stad zelf draait niet om grootse monumenten, maar heeft wel genoeg substantie om de reis niet uitwisselbaar te laten voelen. Yomjinda Road en het oude-stadszakje eromheen geven Rayong een werkbare erfgoedlaag, en het cluster van stadshotels is praktisch voor korte breaks, vergaderingen en eerste nachten bij aankomst voordat je naar de kust trekt.\n\nDan opent de provincie zich naar buiten. De huidige framing van TAT voor Rayong houdt fruit-tuinen, Thung Prong Thong en de wetland-kant relevant, en dat doet ertoe omdat het de provincie een echte ecologische en seizoensgebonden identiteit geeft voorbij alleen stranden. Als je twee of drie nachten hebt, wordt Rayong veel sterker als je één dag aan de vastelandkust houdt en één bewerkte uitbreidingsdag, in plaats van alles overhaast in Koh Samet te proppen.",
+  "hidden_gems": [
+    {
+      "name": "Hat Saeng Chan for a city-side sea break",
+      "story": "De kust aan de stadszijde van Rayong is sterker dan veel eerste bezoekers verwachten. Hat Saeng Chan ligt dicht genoeg bij de stad voor een snelle uitstap naar zee, wat het nuttig maakt als je water en lucht wilt zonder de hele dag te committeren aan Ban Phe of Koh Samet.",
+      "how_to_find": "Gebruik het als een korte kustaanvulling vanuit een hotel in het stadscentrum in plaats van als de headline-stranddag van de provincie.",
+      "best_time": "Late namiddag",
+      "local_insights": [
+        "Beter voor een korte break dan voor een volledige provinciedag",
+        "Werkt goed met stadshotels en Yomjinda"
+      ]
+    },
+    {
+      "name": "Fruit-garden timing instead of generic orchard filler",
+      "story": "De huidige planning van TAT voor Rayong houdt fruit-tuinen zichtbaar om een goede reden. Een echte stop bij een boomgaard werkt alleen als het seizoen klopt, en dat is precies waarom het meer waarde toevoegt dan een zoveelste jaarrond generieke attractie.",
+      "how_to_find": "Plan het alleen in de piekmaanden voor fruit en koppel het aan de vastelandkust of stadszijde, niet aan een volgepakte eiland-dag.",
+      "best_time": "April tot juni",
+      "local_insights": [
+        "Beste seizoensgebonden gebruikt, niet als permanente vulling",
+        "Nuttiger voor lunch of dagreizen dan voor late namiddag"
+      ]
+    }
+  ],
+  "authentic_experiences": [
+    {
+      "activity": "Behandel Ban Phe en Khao Laem Ya als het scharnierpunt van het vasteland in de reis",
+      "story": "Dit is de sterkste manier om te begrijpen waarom Rayong ertoe doet voorbij Koh Samet. Het schiereiland, de beweging rond de pier en de laag van zeevruchten en garnalenpasta rond Ban Phe verklaren de provincie duidelijker dan een gehaaste eilandovertocht.",
+      "cultural_significance": "TAT framet Rayong nog steeds via Koh Samet, zeevruchten, Ban Phe-producten en de vastelandkust samen, in plaats van alleen via eilandmarketing.",
+      "how_to_participate": "Geef de vastelandzijde één echt blok tijd voordat je beslist of Koh Samet een overnachting moet zijn of alleen een bewuste uitbreiding.",
+      "insights": [
+        "De vastelandzijde verduidelijkt de provincie beter dan planning die begint met de veerboot",
+        "Zonsondergang-timing is het sterkst bij Khao Laem Ya"
+      ],
+      "href": "/city/rayong/attractions/khao-laem-ya/",
+      "cta_label": "Zie de Khao Laem Ya-gids"
+    },
+    {
+      "activity": "Gebruik het fruitseizoen als een planningsinstrument, niet alleen als slogan",
+      "story": "De fruitidentiteit van Rayong is echt, maar wordt nuttig alleen als het de vorm van de reis verandert. TAT koppelt nog steeds april-tot-juni-reizen aan fruit-tuinen en de jaarlijkse festivalperiode, wat boomgaard-stops de moeite waard maakt als seizoensgebonden zet in plaats van permanente vulling.",
+      "cultural_significance": "De provinci pagina benadrukt nog steeds de Rayong Fruit Festival en het fruitseizoen als kern van de lokale identiteit.",
+      "how_to_participate": "Als je reist in het fruitseizoen, bouw dan één boomgaard-stop in de dag. Als dat niet zo is, verschuif de focus terug naar kust, wetlands en eten.",
+      "insights": [
+        "Beste in late lente tot vroege regenseizoen-schouder-maanden",
+        "Houd het als één bewerkte stop, niet als een volle dag agritoerisme-vulling"
+      ],
+      "href": "/city/rayong/top-10-attractions/",
+      "cta_label": "Zie de attracties-gids"
+    },
+    {
+      "activity": "Vertraag op de mangrove- en wetlandroute aan de Prasae-kant",
+      "story": "Rayong Botanical Garden en Thung Prong Thong geven de provincie zijn sterkste ecologische tegenwicht aan de strandzijde. Deze route werkt omdat het verschilt in textuur, tempo en landschap van de kust gericht op Samet.",
+      "cultural_significance": "De huidige EEC- en Rayong-planning van TAT selecteert nog steeds de botanische tuin en Thung Prong Thong als duurzame natuur-stops.",
+      "how_to_participate": "Gebruik dit als één bewerkte dag in de richting van Klaeng en Prasae, ideaal met de botanische tuin eerst en de mangrove-loopplank later in de namiddag.",
+      "insights": [
+        "Beste voor reizigers die de hoofdkust al hebben gedaan",
+        "Laat licht verbetert Thung Prong Thong"
+      ],
+      "href": "/city/rayong/attractions/thung-prong-thong/",
+      "cta_label": "Zie de Thung Prong Thong-gids"
+    },
+    {
+      "activity": "Houd één stedelijke wandeling in Rayong in de planning",
+      "story": "Yomjinda Road is geen blockbuster-bezienswaardigheid, maar het voorkomt dat de stad instort tot pure resort-logistiek. De oude gebouwen, kleine museumlaag en nachtmarkt-ritme geven Rayong een leesbaarder stadscentrum dan de meeste snelle-stop-gidsen toegeven.",
+      "cultural_significance": "De huidige lokale gids van Novotel Rayong Star behandelt Yomjinda nog steeds als de oude-stad-wandeling van de stad met erfgoed-gebouwen, museumcontext en nachtmarkt-leven.",
+      "how_to_participate": "Gebruik het als een late-namiddag- of avondwandeling rond een hotelverblijf in de stad in plaats van het te forceren in een kustzware dag.",
+      "insights": [
+        "Beter als pacing-apparaat dan als volledige standalone dag",
+        "Nuttig op aankomst- of vertrekdagen"
+      ],
+      "href": "/city/rayong/attractions/yomjinda-road/",
+      "cta_label": "Zie de Yomjinda-gids"
+    }
+  ],
+  "foodie_adventures": [
+    {
+      "dish": "Zeevruchten en Ban Phe-marktproducten",
+      "location": "Ban Phe-kant",
+      "story": "TAT benadrukt Rayong nog steeds als een zeevruchtenprovincie en noemt specifiek Ban Phe-producten zoals garnalenpasta, gedroogde garnalen, gedroogde inktvis en gezouten vis. Dat maakt Ban Phe meer dan een pier; het is ook deel van de voedselidentiteit van de provincie.",
+      "where_to_find": "Beste als een vasteland-kust-maaltijd of shopping-stop voor of na Khao Laem Ya in plaats van als een gehaaste veerboot-snack.",
+      "price_range": "Budget tot middenklasse",
+      "ordering_tips": [
+        "Houd zeevruchtenmaaltijden op het vasteland als je de provinci karakter van Rayong duidelijk wilt laten zien",
+        "Gebruik Ban Phe voor producten en een praktische lunch, niet alleen voor bootinstappen"
+      ],
+      "href": "/city/rayong/top-10-restaurants/",
+      "cta_label": "Zie de eten-gids"
+    },
+    {
+      "dish": "Oude-stad-noedels, snacks en avondhapjes",
+      "location": "Yomjinda Road",
+      "story": "Yomjinda is een van de duidelijkste plekken om de eetplanning van Rayong te houden weg van alleen resort-dining. De oude-stad-steeg werkt beter als een avondwandeling met verschillende kleinere stops dan als één vaste formele maaltijd.",
+      "where_to_find": "Beste na zonsondergang of in de late namiddag wanneer de oude-stad-wandeling zelf deel van de aantrekkingskracht is.",
+      "price_range": "Budget",
+      "ordering_tips": [
+        "Wandel eerst en commit later in plaats van vast te zitten aan de eerste tafel",
+        "Gebruik dit op een stadsaavond, niet op dezelfde avond als een kustresort-diner"
+      ],
+      "href": "/city/rayong/attractions/yomjinda-road/",
+      "cta_label": "Zie de Yomjinda-gids"
+    },
+    {
+      "dish": "Een geplande diner in een stadscentrum-hotel",
+      "location": "Holiday Inn & Suites Rayong City Centre",
+      "story": "De sterkere stedelijke diner-optie is geen scraped ranglijst meer. Het is één bewuste maaltijd in het stadscentrum waar de hotel-restaurants echt planningswaarde toevoegen, vooral als je in de stad verblijft op de eerste of laatste nacht.",
+      "where_to_find": "Beste voor aankomstnachten, werkreizen of regenachtige avonden wanneer een betrouwbaar diner in de stad belangrijker is dan een langere kusttransfer.",
+      "price_range": "Middenklasse tot upscale",
+      "ordering_tips": [
+        "Kies The Brasserie als je breedte wilt en een buffet-geleid diner",
+        "Kies Elementi als het punt de rooftop-timing is en een meer geplande avond"
+      ],
+      "href": "/city/rayong/top-10-restaurants/",
+      "cta_label": "Zie de eten-gids"
+    },
+    {
+      "dish": "Een kust- of eiland-zonsondergang-diner",
+      "location": "Rayong Marriott of Ao Prao Resort",
+      "story": "Rayong werkt het best als je precies één zonsondergang-gericht diner reserveert voor de kust. De Wang Kaew-kant van Marriott en de westkust-eilandsetting van Ao Prao maken beide zin als het diner wordt behandeld als een echte bestemming in plaats van vulling rond de hotelkamer.",
+      "where_to_find": "Gebruik dit als één speciale avond alleen, niet als elk-avond resort-dining.",
+      "price_range": "Upscale",
+      "ordering_tips": [
+        "Marriott past bij een vasteland-resort-verblijf",
+        "Ao Prao past bij de één-nacht Koh Samet-versie van de reis"
+      ],
+      "href": "/city/rayong/top-10-restaurants/",
+      "cta_label": "Zie de eten-gids"
+    }
+  ],
+  "local_insights": [
+    "Rayong is sterker als vastelandkust plus één uitbreiding, niet als een Koh Samet-alleen pagina.",
+    "Ban Phe en Khao Laem Ya verklaren de provincie beter dan een gehaaste boottransfer.",
+    "Mae Ramphueng is het makkelijkste vasteland-strandantwoord als je niet op een eiland hoeft te slapen.",
+    "De mangrove- en botanische route aan de Prasae-kant is het beste natuur-tegenwicht aan de strandlaag.",
+    "Yomjinda is nuttig omdat het Rayong een stadswandeling geeft, niet omdat het een groot monument is.",
+    "Het fruitseizoen doet ertoe als het de planning echt verandert; buiten die maanden mag het de pagina niet domineren."
+  ],
+  "seasonal_secrets": "November tot februari is de makkelijkste allround-periode voor Rayong omdat de vastelandkust, Khao Laem Ya en Yomjinda-wandelingen comfortabeler zijn en TAT nog steeds wijst op die maanden als het sterkste algemene bezoekvenster. April tot juni is de betekenisvolle seizoensuitzondering omdat fruit-tuin-reizen dan relevant worden. Het regenseizoen verwijdert Rayong niet uit overweging, maar eilandoversteken, wetland-uitjes en late kustplannen moeten flexibeler worden behandeld.",
+  "budget_reality": {
+    "budget": "Budget",
+    "mid_range": "Middenklasse",
+    "luxury": "Upscale",
+    "examples": [
+      "Stadverblijven zijn meestal makkelijker betaalbaar te houden dan eiland- of privé-strand-verblijven.",
+      "Een vasteland-kust-dag is vaak beter waarde dan elke nacht om te zetten in een eiland-premium.",
+      "Eén geplande splurge-diner is genoeg; Rayong heeft geen constante resort-uitgaven nodig om te werken."
+    ],
+    "money_saving_tricks": [
+      "Slaap in de stad voor praktische aankomst- of vertrek-nachten en trek alleen naar de kust als het de reis materieel verbetert.",
+      "Gebruik de vastelandkust en Ban Phe-voedsel-laag voordat je eiland-premiums betaalt voor elke maaltijd."
+    ],
+    "hidden_costs": [
+      "Ilandtransfers, parkfees en resort-logistiek kunnen een korte Koh Samet-aanvulling duurder maken dan reizigers verwachten.",
+      "Privévervoer wordt relevanter zodra je de botanische-tuin- en Prasae-kant-route toevoegt."
+    ]
+  },
+  "top_attractions": [
+    {
+      "rank": 1,
+      "name": "Khao Laem Ya",
+      "description": "De duidelijkste vasteland-headline-stop omdat het de kust van Rayong, Ban Phe en Koh Samet-uitzichten verbindt in één leesbare plek.",
+      "location": "Khao Laem Ya-Mu Ko Samet National Park vastelandsectie",
+      "entrance_fee": "Parktoegang geldt; controleer de officiële parkinfo voordat je gaat.",
+      "highlights": [
+        "Vasteland-schiereiland",
+        "Zonsondergang-logica",
+        "Beste Ban Phe-kant-uitzichtpunt"
+      ],
+      "href": "/city/rayong/attractions/khao-laem-ya/",
+      "cta_label": "Zie de Khao Laem Ya-gids"
+    },
+    {
+      "rank": 2,
+      "name": "Koh Samet",
+      "description": "Een sterke Rayong-uitbreiding als je het behandelt als een bewuste eiland-overnachting of dagtrip, niet als het enige wat de provincie biedt.",
+      "location": "Voor Ban Phe",
+      "entrance_fee": "Boot- en parkkosten variëren; verifieer actuele regelingen voor de reis.",
+      "highlights": [
+        "Makkelijke eiland-uitbreiding",
+        "Sai Kaew en Ao Prao contrast",
+        "Beste als bewerkte aanvulling"
+      ],
+      "href": "/city/rayong/attractions/koh-samet/",
+      "cta_label": "Zie de Koh Samet-gids"
+    },
+    {
+      "rank": 3,
+      "name": "Mae Ramphueng Beach",
+      "description": "Het makkelijkste vasteland-strandantwoord in Rayong als je zee-tijd wilt zonder de dag om te zetten in een veerboot-en-eiland-operatie.",
+      "location": "Zuidwest van Ban Phe en Rayong-stad",
+      "entrance_fee": "Openbare strandtoegang",
+      "highlights": [
+        "Lang vastelandstrand",
+        "Makkelijke zeevruchten-lunch-dag",
+        "Goed zonder eiland-logistiek"
+      ],
+      "href": "/city/rayong/attractions/mae-ramphueng-beach/",
+      "cta_label": "Zie de Mae Ramphueng-gids"
+    },
+    {
+      "rank": 4,
+      "name": "Rayong Botanical Garden",
+      "description": "De sterkste wetland-stop van Rayong, vooral als je een langzamere natuurdag wilt opgebouwd rond boottoegang, lokale plantenleven en het Prasae-kant-landschap.",
+      "location": "Chak Phong-kant, Klaeng District",
+      "entrance_fee": "Controleer actuele lokale boot- en entree-regelingen voor de reis.",
+      "highlights": [
+        "Wetland-landschap",
+        "Zonne-energie-boot-tours",
+        "Goed ecologisch tegenwicht aan het strand"
+      ],
+      "href": "/city/rayong/attractions/rayong-botanical-garden/",
+      "cta_label": "Zie de botanische tuin-gids"
+    },
+    {
+      "rank": 5,
+      "name": "Thung Prong Thong",
+      "description": "Een sterke late-namiddag-mangrove-stop aan de Prasae-kant, nuttig als je Rayong breder wilt laten voelen dan alleen stranden.",
+      "location": "Pak Nam Prasae-gebied",
+      "entrance_fee": "Openbare natuurplaats-toegang; controleer actuele lokale regelingen.",
+      "highlights": [
+        "Mangrove-loopplank",
+        "Gouden-licht-timing",
+        "Beste als deel van een Prasae-kant-dag"
+      ],
+      "href": "/city/rayong/attractions/thung-prong-thong/",
+      "cta_label": "Zie de Thung Prong Thong-gids"
+    },
+    {
+      "rank": 6,
+      "name": "Yomjinda Road",
+      "description": "De nuttigste oude-stad-wandeling van Rayong, met erfgoed-gebouwen, lokale kraampjes en genoeg avondritme om één stadskern-stop te rechtvaardigen.",
+      "location": "Tha Pradu, centraal Rayong",
+      "entrance_fee": "Openbare straat-toegang",
+      "highlights": [
+        "Oude-stad-straat",
+        "Rayong Museum-kant",
+        "Nachtmarkt- en wandelstraat-ritme"
+      ],
+      "href": "/city/rayong/attractions/yomjinda-road/",
+      "cta_label": "Zie de Yomjinda-gids"
+    }
+  ],
+  "top_restaurants": [
+    {
+      "rank": 1,
+      "name": "Yomjinda Road food walk",
+      "description": "De sterkste non-resort-diner-zone als je Rayong wilt laten voelen als een stad met lokaal eten en avondbeweging in plaats van alleen een hotelcluster.",
+      "location": "Yomjinda Road oude stad",
+      "price_range": "Budget",
+      "highlights": [
+        "Oude-stadssfeer",
+        "Snacken en wandelen-formaat",
+        "Beste keuze voor stedelijk avondeten"
+      ],
+      "href": "/city/rayong/attractions/yomjinda-road/",
+      "cta_label": "Bekijk de Yomjinda-gids"
+    },
+    {
+      "rank": 2,
+      "name": "Laem Charoen Seafood",
+      "description": "Een van de duidelijkste officiële zeevruchtenkeuzes om de kustidentiteit van Rayong te verankeren in een duurzaam lokaal merk.",
+      "location": "Rayong-filiaal",
+      "price_range": "Middenklasse",
+      "highlights": [
+        "Officieel Rayong-filiaal",
+        "Zeevruchten-gedomineerde maaltijd",
+        "Goede betrouwbare stop voor hoofdgerechten"
+      ],
+      "href": "/city/rayong/top-10-restaurants/",
+      "cta_label": "Bekijk de eetgids"
+    },
+    {
+      "rank": 3,
+      "name": "The Brasserie",
+      "description": "Een handig restaurant in een stadscentrumhotel als je variatie wilt, een betrouwbaar ontbijt of een geplande buffetdiner tijdens je verblijf in de stad.",
+      "location": "Holiday Inn & Suites Rayong City Centre",
+      "price_range": "Middenklasse tot luxe",
+      "highlights": [
+        "Eetruimte op niveau 5",
+        "Ontbijt- en buffetlogica",
+        "Sterk restaurant voor een stedelijk verblijf"
+      ],
+      "href": "/city/rayong/top-10-restaurants/",
+      "cta_label": "Bekijk de eetgids"
+    },
+    {
+      "rank": 4,
+      "name": "Elementi Rooftop Restaurant & Bar",
+      "description": "De scherpere stedelijke uitspatting als het punt een zeezicht-dakterras-timing is in plaats van een willekeurige dinertafel.",
+      "location": "Holiday Inn & Suites Rayong City Centre",
+      "price_range": "Luxe",
+      "highlights": [
+        "Dakterras-setting",
+        "Italiaanse keuken",
+        "Handige zonsondergang- of avondslot"
+      ],
+      "href": "/city/rayong/top-10-restaurants/",
+      "cta_label": "Bekijk de eetgids"
+    },
+    {
+      "rank": 5,
+      "name": "Fish Bar",
+      "description": "Het betere vasteland-resort zeevruchtendiner als je een kusttafel wilt zonder op Koh Samet te hoeven overnachten.",
+      "location": "Rayong Marriott Resort & Spa",
+      "price_range": "Luxe",
+      "highlights": [
+        "Zeevruchten-focus",
+        "Open-keukenopstelling",
+        "Goed diner aan de Wang Kaew-kant"
+      ],
+      "href": "/city/rayong/top-10-restaurants/",
+      "cta_label": "Bekijk de eetgids"
+    },
+    {
+      "rank": 6,
+      "name": "Ao Prao Resort Restaurant",
+      "description": "De schoonste eiland-kant dinerkeuze als je daadwerkelijk verblijft aan de rustigere westkust van Koh Samet en de zonsondergang-setting wilt laten tellen.",
+      "location": "Ao Prao Resort, Koh Samet",
+      "price_range": "Luxe",
+      "highlights": [
+        "Strandlocatie",
+        "Thaise, zeevruchten- en BBQ-menus",
+        "Beste voor de eilandnachtversie van Rayong"
+      ],
+      "href": "/city/rayong/top-10-restaurants/",
+      "cta_label": "Bekijk de eetgids"
+    }
+  ],
+  "top_hotels": [
+    {
+      "rank": 1,
+      "name": "Holiday Inn & Suites Rayong City Centre",
+      "description": "De duidelijkste stadscentrum-basis voor eerste aankomsten, gemengde werk-en-vrije-tijd verblijven en reizigers die de stedelijke kant van Rayong praktisch willen houden.",
+      "price_range": "Middenklasse tot luxe",
+      "category": "middenklasse",
+      "area": "Centraal Rayong",
+      "highlights": [
+        "Hart-van-de-stad locatie",
+        "Kamers, suites, zwembad en fitnesscentrum",
+        "Sterke basis voor de eerste nacht"
+      ]
+    },
+    {
+      "rank": 2,
+      "name": "Rayong Marriott Resort & Spa",
+      "description": "Het sterkste vasteland-resort antwoord als Wang Kaew Beach, een privé-strandgevoel en kustgerechten ter plaatse het punt van het verblijf zijn.",
+      "price_range": "Luxe",
+      "category": "luxe",
+      "area": "Wang Kaew Beach, Klaeng-kant",
+      "highlights": [
+        "Strandresort",
+        "Privé-balkons",
+        "Goede vasteland-uitspatting voor verblijf"
+      ]
+    },
+    {
+      "rank": 3,
+      "name": "Novotel Rayong Star Convention Centre",
+      "description": "Een slimme stedelijke alternatief als je een centraal Rayong-hotel wilt met moderne faciliteiten, markttoegang en een schonere brug tussen zaken en vrije tijd.",
+      "price_range": "Middenklasse tot luxe",
+      "category": "middenklasse",
+      "area": "Tha Pradu, centraal Rayong",
+      "highlights": [
+        "Hart-van-de-stad locatie",
+        "Food Exchange en After 8 Bar",
+        "Goed voor stedelijke verblijven met faciliteiten"
+      ]
+    },
+    {
+      "rank": 4,
+      "name": "Novotel Rayong Rim Pae Resort",
+      "description": "Een handig oostkust-strandresort als je de rust van Rim Pae wilt, familie-faciliteiten en eenvoudige toegang tot de Ban Phe en Klaeng-kustgordel.",
+      "price_range": "Middenklasse",
+      "category": "middenklasse",
+      "area": "Rim Pae Beach, Klaeng",
+      "highlights": [
+        "Strandresort",
+        "Familievriendelijke faciliteiten",
+        "Goed voor een rustiger kustverblijf"
+      ]
+    },
+    {
+      "rank": 5,
+      "name": "Ao Prao Resort",
+      "description": "Het beste eiland-verblijf als je Koh Samet kalmer, westkust- en zonsondergang-gericht wilt laten voelen in plaats van gecentreerd op de drukkere Sai Kaew-zone.",
+      "price_range": "Luxe",
+      "category": "luxe",
+      "area": "Ao Prao Beach, Koh Samet",
+      "highlights": [
+        "Rustig westkust-strand",
+        "Palmen-omzoomde setting",
+        "Sterke keuze voor overnachting op het eiland"
+      ]
+    },
+    {
+      "rank": 6,
+      "name": "HOP INN Rayong",
+      "description": "Het meest praktische low-cost stedelijke verblijf als je een schone basis aan Sukhumvit Road wilt zonder te doen alsof het hotel zelf de reis is.",
+      "price_range": "Budget",
+      "category": "budget",
+      "area": "Noen Phra, Rayong stadskant",
+      "highlights": [
+        "75-kamers budgethotel",
+        "Eenvoudige stedelijke toegang",
+        "Goed voor korte praktische verblijven"
+      ]
+    }
+  ],
+  "travel_tips": [
+    "Begin met het vasteland. Khao Laem Ya, Ban Phe en Mae Ramphueng leggen Rayong beter uit dan starten met Koh Samet-logistiek.",
+    "Behandel Koh Samet als een bewerkte uitbreiding. Bootroosters, parkentree-regelingen en weersafhankelijke timing zijn het waard om direct voor je reis te controleren.",
+    "Fruit-tuin stops zijn het sterkst van april tot juni. Buiten het fruitseizoen, laat boomgaard-promotie niet de reisroute domineren.",
+    "Gebruik Yomjinda Road op een aankomst- of vertrekavond als je in de stad overnacht; het werkt beter als een stedelijke wandeling dan als een geforceerde dagtitel.",
+    "Als je de Prasae-kant route doet, bundel de botanische tuin en Thung Prong Thong in één langere natuuredag in plaats van ze te combineren met Koh Samet."
+  ],
+  "best_time_to_visit": "November tot februari is de makkelijkste allround periode voor Rayong omdat kust, stadswandelingen en vasteland-uitzichten comfortabeler zijn. April tot juni is het betekenisvolle fruitseizoen-venster. Reizen in het regenseizoen kan nog werken, maar eiland- en wetland-plannen verdienen meer flexibiliteit.",
+  "bestTimeToVisit": "November tot februari is de makkelijkste allround fit voor Rayong. April tot juni is de betekenisvolle fruitseizoen-uitzondering. Als je plan afhangt van Koh Samet-boten of wetland-uitjes, controleer dan actuele omstandigheden in plaats van te vertrouwen op statische seizoensveronderstellingen.",
+  "budget_info": {
+    "budget_per_day": "Budget",
+    "midrange_per_day": "Middenklasse",
+    "luxury_per_day": "Luxe"
+  },
+  "thingsToDo": "Begin met Khao Laem Ya, Ban Phe en Mae Ramphueng, kies dan één bewerkte uitbreiding: of Koh Samet, of de Prasae-kant route door Rayong Botanical Garden en Thung Prong Thong. Voeg Yomjinda Road toe als je in de stad overnacht en één nuttige stedelijke wandeling wilt.",
+  "whereToStay": "Kies een Rayong-stadshotel als dit een praktische korte break is, een aankomstdag of een gemengde werk-en-vrije-tijd reis. Verplaats naar Wang Kaew, Rim Pae of Koh Samet alleen als het strand zelf de reden voor het verblijf is. Het beste patroon voor veel eerste bezoeken is één stad- of vasteland-kustbasis plus maximaal één eilandnacht.",
+  "whereToEat": [
+    {
+      "name": "Yomjinda Road food walk",
+      "cuisine": "Streetfood en lokale snacks",
+      "priceRange": "Budget",
+      "description": "De duidelijkste stedelijke avondeten keuze in Rayong."
+    },
+    {
+      "name": "Laem Charoen Seafood",
+      "cuisine": "Zeevruchten",
+      "priceRange": "Middenklasse",
+      "description": "Een duurzaam officiële zeevruchtenstop in Rayong."
+    },
+    {
+      "name": "The Brasserie",
+      "cuisine": "Internationaal en Thais",
+      "priceRange": "Middenklasse tot luxe",
+      "description": "Een praktische stadscentrum ontbijt- of buffetdineroptie."
+    },
+    {
+      "name": "Elementi Rooftop Restaurant & Bar",
+      "cuisine": "Italiaans en dakterras-cocktails",
+      "priceRange": "Luxe",
+      "description": "De scherpere stedelijke diner als dakterras-timing telt."
+    },
+    {
+      "name": "Fish Bar",
+      "cuisine": "Zeevruchten",
+      "priceRange": "Luxe",
+      "description": "Een sterk vasteland-resort zeevruchtendiner aan de Wang Kaew-kant."
+    }
+  ],
+  "topHotels": [
+    {
+      "name": "Holiday Inn & Suites Rayong City Centre",
+      "category": "middenklasse",
+      "priceRange": "Middenklasse tot luxe",
+      "area": "Centraal Rayong",
+      "description": "De duidelijkste stadscentrum-basis voor korte praktische verblijven."
+    },
+    {
+      "name": "Rayong Marriott Resort & Spa",
+      "category": "luxe",
+      "priceRange": "Luxe",
+      "area": "Wang Kaew Beach",
+      "description": "Een echt vasteland-resort verblijf op een rustiger stuk kust."
+    },
+    {
+      "name": "Novotel Rayong Star Convention Centre",
+      "category": "middenklasse",
+      "priceRange": "Middenklasse tot luxe",
+      "area": "Tha Pradu",
+      "description": "Een gepolijst stadshotel met faciliteiten en centrale toegang."
+    },
+    {
+      "name": "Novotel Rayong Rim Pae Resort",
+      "category": "middenklasse",
+      "priceRange": "Middenklasse",
+      "area": "Rim Pae Beach",
+      "description": "Een familievriendelijk strandresort aan de rustiger oostkust."
+    },
+    {
+      "name": "Ao Prao Resort",
+      "category": "luxe",
+      "priceRange": "Luxe",
+      "area": "Ao Prao Beach, Koh Samet",
+      "description": "Het beste eiland-verblijf voor een rustiger westkust Koh Samet-nacht."
+    }
+  ],
+  "gettingAround": "Rayong stad zelf is beheersbaar met korte ritten als je in de stad bent gevestigd, maar de provincie wordt veel makkelijker met een auto of chauffeur als je Ban Phe, Khao Laem Ya, Rim Pae of de Prasae-kant wetland-route toevoegt. Als je een Koh Samet-uitbreiding plant, verifieer dan actuele boot-timing en pier-regelingen direct voor je reis.",
+  "safetyTips": "Rayong is over het algemeen eenvoudig, maar kustgezond verstand telt nog steeds. Controleer zeetoestanden voor elke eilandtransfer, respecteer actieve tempel- en schrijnruimtes als je stadstops toevoegt, en behandel mangrove-looppaden, wetland-bootroutes of rotsige zonsondergangspunten niet als plekken om te haasten in slecht weer of bij weinig licht.",
+  "faq": [
+    {
+      "question": "Is Rayong alleen de moeite waard voor Koh Samet?",
+      "answer": "Nee. Koh Samet is de bekendste uitbreiding, maar Rayong is sterker als je ook tijd geeft aan Khao Laem Ya, Ban Phe, Mae Ramphueng, en óf Yomjinda óf de Prasae-kant wetland-route."
+    },
+    {
+      "question": "Hoeveel nachten heb je nodig in Rayong?",
+      "answer": "Twee of drie nachten is de sterkste eerste reis. Dat geeft je één vasteland-kustdag, één bewerkte uitbreidingsdag, en genoeg ruimte voor een stedelijke of oude-stad avond als je in de stad verblijft."
+    },
+    {
+      "question": "Moet je op Koh Samet verblijven?",
+      "answer": "Niet altijd. Een vasteland-verblijf werkt vaak beter als je Rayong zelf zichtbaar wilt houden. Een eilandnacht heeft alleen zin als westkust-strandtijd of een vollere Samet-dag echt deel van het plan is."
+    },
+    {
+      "question": "Welk eten moet je prioriteren in Rayong?",
+      "answer": "Houd zeevruchten, Ban Phe-marktproducten en één echte lokale of oude-stad maaltijd zichtbaar. Rayong wordt zwakker als elke maaltijd generiek hotel- of ranglijst-kopie wordt."
+    },
+    {
+      "question": "Wanneer plan je een fruit-tuin stop in Rayong?",
+      "answer": "Fruit-tuinen tellen het meest van april tot juni, wanneer TAT Rayong nog steeds frameert door boomgaard-bezoeken en fruitseizoen-reizen. Buiten die maanden verdienen kust- en wetland-stops meestal meer gewicht."
+    }
+  ],
+  "practicalInfo": {
+    "arrival": "Rayong wordt vaak per weg bereikt vanuit Bangkok. Als je plan afhangt van een dezelfde-dag eilanduitbreiding, laat marge voor transfer-timing in plaats van te veronderstellen dat elke pier-verbinding netjes aansluit.",
+    "transport": "Stedelijke verblijven werken met korte lokale ritten, maar Ban Phe, Khao Laem Ya, Rim Pae en de Prasae-kant zijn makkelijker met je eigen auto, een chauffeur of een bewuste hele-dag transportplan.",
+    "planning": "Denk in lagen: vasteland-kust eerst, dan één bewerkte uitbreiding alleen. Dat houdt Rayong coherent en voorkomt dat de provincie verandert in een dunne kust-naar-eiland checklist."
+  },
+  "contentSources": [
+    {
+      "type": "toerisme-kantoor",
+      "title": "Rayong Provincie Pagina",
+      "creator": "Tourism Authority of Thailand",
+      "url": "https://www.tourismthailand.org/Accessibility/Destinations/Provinces/Rayong/465",
+      "description": "Gebruikt voor Rayong-brede framing rond Koh Samet, Ban Phe zeevruchtenproducten, fruitfestival-timing, Thung Prong Thong, en het beste-maanden bezoekvenster."
+    },
+    {
+      "type": "toerisme-kantoor",
+      "title": "Rayong 2 Dagen",
+      "creator": "Tourism Authority of Thailand",
+      "url": "https://www.tourismthailand.org/Trip-Planner/Suggestion-Detail/rayong-2-days",
+      "description": "Gebruikt voor Hat Saeng Chan, Suan Suphatthra fruit-tuin timing, Hat Mae Ramphueng, en Thung Prong Thong route-groepering."
+    },
+    {
+      "type": "toeristenkantoor",
+      "title": "Laten we de EEC Select Beste Service Bestemmingen verkennen in Rayong, Chonburi & Chachoengsao",
+      "creator": "Tourism Authority of Thailand",
+      "url": "https://www.tourismthailand.org/Articles/eec-en",
+      "description": "Gebruikt voor Rayong Botanical Garden en de zonne-energie boot-tour context."
+    },
+    {
+      "type": "toeristenkantoor",
+      "title": "Khao Laem Ya: De Rustige Kant van Samet",
+      "creator": "Tourism Authority of Thailand",
+      "url": "https://www.tourismthailand.org/Articles/khao-laem-ya-the-serene-side-of-samet",
+      "description": "Gebruikt voor de rol van Khao Laem Ya als vasteland-hoofland en de relatie tot de Samet-gericht kust."
+    },
+    {
+      "type": "hotel",
+      "title": "Holiday Inn & Suites Rayong City Centre",
+      "creator": "Holiday Inn & Suites Rayong City Centre",
+      "url": "https://rayong.holidayinn.com/",
+      "description": "Gebruikt voor officiële stadscentrum hotel positionering, faciliteiten, en Elementi dakterras context."
+    },
+    {
+      "type": "restaurant",
+      "title": "The Brasserie - Global Cuisine Restaurant",
+      "creator": "Holiday Inn & Suites Rayong City Centre",
+      "url": "https://rayong.holidayinn.com/dining/the-brasserie-global-dining",
+      "description": "Gebruikt voor The Brasserie eetprofiel, locatie, en operationele context."
+    },
+    {
+      "type": "hotel",
+      "title": "Rayong Marriott Resort & Spa",
+      "creator": "Marriott",
+      "url": "https://www.marriott.com/en-us/hotels/bkkrr-rayong-marriott-resort-and-spa/overview/",
+      "description": "Gebruikt voor strandpositie Wang Kaew, kameruitzicht, en vasteland-resort context."
+    },
+    {
+      "type": "restaurant",
+      "title": "Eten bij Rayong Marriott Resort & Spa",
+      "creator": "Marriott",
+      "url": "https://www.marriott.com/en-us/hotels/bkkrr-rayong-marriott-resort-and-spa/dining/",
+      "description": "Gebruikt voor C-Salt Cafe, Fish Bar, Java+, en andere officiële restaurantdetails op het terrein."
+    },
+    {
+      "type": "hotel",
+      "title": "Novotel Rayong Star Convention Centre",
+      "creator": "Novotel Rayong Star Convention Centre",
+      "url": "https://www.novotelrayongstarconventioncentre.com/",
+      "description": "Gebruikt voor centrale Rayong hotel positionering, faciliteiten, Food Exchange en After 8 Bar context."
+    },
+    {
+      "type": "bezienswaardigheid",
+      "title": "Yomjinda Road",
+      "creator": "Novotel Rayong Star Convention Centre",
+      "url": "https://www.novotelrayongstarconventioncentre.com/places/yomjinda-road/",
+      "description": "Gebruikt voor Yomjinda oude-stad context, Rayong Museum verwijzing, en de nachtmarkt wandeling."
+    },
+    {
+      "type": "hotel",
+      "title": "Novotel Rayong Rim Pae Resort",
+      "creator": "Novotel Rayong Rim Pae Resort",
+      "url": "https://novotelrayong.com/en/",
+      "description": "Gebruikt voor Rim Pae strandpositie, familie faciliteiten, en resort context."
+    },
+    {
+      "type": "hotel",
+      "title": "HOP INN Rayong",
+      "creator": "HOP INN Thailand",
+      "url": "https://www.hopinnhotel.com/our-hotels/hop-inn-rayong",
+      "description": "Gebruikt voor Rayong budget-hotel positionering op Sukhumvit Road en het huidige aantal kamers."
+    },
+    {
+      "type": "hotel",
+      "title": "Ao Prao Resort",
+      "creator": "Ao Prao Resort",
+      "url": "https://www.aopraoresort.com/",
+      "description": "Gebruikt voor rustige westkust Koh Samet verblijf positionering en officiële eiland hotel informatie."
+    },
+    {
+      "type": "restaurant",
+      "title": "Restaurants bij Ao Prao Resort",
+      "creator": "Ao Prao Resort",
+      "url": "https://www.aopraoresort.com/restaurants/",
+      "description": "Gebruikt voor strand-eetgelegenheden, zeevruchten, BBQ, en zonsondergang-gericht restaurant context op Ao Prao Beach."
+    },
+    {
+      "type": "restaurant",
+      "title": "Filialen van Laem Charoen Seafood",
+      "creator": "Laem Charoen Seafood",
+      "url": "https://www.laemcharoenseafood.com/branch/",
+      "description": "Gebruikt om de huidige officiële aanwezigheid van de Rayong filialen te bevestigen."
+    }
+  ],
+  "reviewed_by": "Go2Thailand Redactie Team",
+  "enhanced_at": "2026-03-27T00:00:00.000Z",
+  "factchecked_at": "2026-03-27T00:00:00.000Z",
+  "enrichedAt": "2026-03-27T00:00:00.000Z"
+}

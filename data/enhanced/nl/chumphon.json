@@ -1,0 +1,812 @@
+{
+  "id": 26,
+  "slug": "chumphon",
+  "name": {
+    "en": "Chumphon",
+    "nl": "Chumphon",
+    "ja": "チュムポーン",
+    "ko": "춤폰",
+    "th": "ชุมพร",
+    "de": "Chumphon",
+    "fr": "Chumphon",
+    "ru": "Чумпхон",
+    "zh": "春蓬"
+  },
+  "region": "Zuidelijk",
+  "province": "Chumphon",
+  "description": {
+    "en": "A Gulf-coast mainland base known for Thung Wua Laen Beach, reef trips into Mu Ko Chumphon National Park, Koh Tao ferry connections, and a far quieter coastal rhythm than the islands.",
+    "nl": "Een rustige kustbasis aan de Golf van Thailand, bekend om Thung Wua Laen Beach, riftrips naar Mu Ko Chumphon National Park, ferryverbindingen naar Koh Tao en een veel kalmer ritme dan op de eilanden.",
+    "ja": "トゥンウアレンビーチ、ムーコー・チュムポーン国立公園の海、コタオ方面フェリー、本土らしい落ち着いた海辺の雰囲気で知られるタイ湾岸の町です。",
+    "ko": "텅 우아 랜 해변, 무꼬춤폰 국립공원 바다, 꼬따오행 페리, 그리고 섬보다 훨씬 차분한 해안 분위기로 알려진 걸프 연안의 본토 거점입니다.",
+    "th": "เมืองชายฝั่งอ่าวไทยที่เด่นเรื่องหาดทุ่งวัวแล่น ทริปทะเลหมู่เกาะชุมพร ท่าเรือไปเกาะเต่า และบรรยากาศชายทะเลที่สงบกว่าหมู่เกาะยอดนิยม",
+    "de": "Ein ruhiger Festlandstützpunkt am Golf von Thailand, bekannt für Thung Wua Laen Beach, Ausflüge in den Mu Ko Chumphon Nationalpark, Fährverbindungen nach Koh Tao und ein viel entspannteres Küstengefühl als auf den Inseln.",
+    "fr": "Une base côtière sur le golfe de Thaïlande, connue pour Thung Wua Laen Beach, les sorties vers le parc national marin de Mu Ko Chumphon, les ferries pour Koh Tao et un rythme bien plus calme que sur les îles.",
+    "ru": "Спокойная материковая база на побережье Сиамского залива, известная пляжем Тхунг Вуа Лаен, морскими поездками в национальный парк Му Ко Чумпхон, паромами на Ко Тао и более неторопливой атмосферой, чем на островах.",
+    "zh": "春蓬是泰国湾沿岸一处节奏安静的本土海滨据点，以通往穆哥春蓬国家公园的海上行程、通往龟岛的码头以及 Thung Wua Laen 海滩闻名。"
+  },
+  "population": 34000,
+  "highlights": [
+    "Thung Wua Laen Strand",
+    "Mu Ko Chumphon National Park",
+    "Prince of Chumphon Shrine",
+    "Khao Matsee Uitzichtpunt",
+    "Chumphon Nachtmarkt",
+    "Thung Makham Noi Pier"
+  ],
+  "location": {
+    "lat": 10.493,
+    "lng": 99.18
+  },
+  "image": "/images/cities/generated/chumphon.webp",
+  "seo": {
+    "metaTitle": {
+      "en": "Chumphon Thailand Guide 2026 | Beaches, Koh Tao Ferries, Hotels",
+      "nl": "Ontdek Chumphon | Wat te doen in Chumphon?",
+      "ja": "チュムポーン タイ — ビーチ、フェリー、食事、ホテルガイド 2026",
+      "ko": "춤폰 태국 가이드 2026 | 해변, 꼬따오 페리, 호텔",
+      "th": "ชุมพร ประเทศไทย — คู่มือเที่ยวทะเล ที่พัก และท่าเรือ 2026",
+      "de": "Entdecken Sie Chumphon | Was tun in Chumphon?",
+      "fr": "Découvrez Chumphon | Que faire à Chumphon ?",
+      "ru": "Откройте для себя Чумпхон | Что делать в Чумпхоне?",
+      "zh": "发现春蓬 | 春蓬海滩、码头与酒店指南"
+    },
+    "metaDescription": {
+      "en": "Plan Chumphon properly with Thung Wua Laen Beach, Mu Ko Chumphon reef trips, ferry-pier logistics, seafood stops, and hotel picks that fit a mainland Gulf-coast stay.",
+      "nl": "Plan Chumphon slimmer met Thung Wua Laen Beach, Mu Ko Chumphon, ferry-pieren, seafoodstops en hotels die passen bij een rustige Golfkust-trip.",
+      "ja": "チュムポーン旅行を実用的に計画。トゥンウアレンビーチ、ムーコー・チュムポーン、フェリーピア、海鮮、ホテル情報を整理しました。",
+      "ko": "텅 우아 랜 해변, 무꼬춤폰 바다, 페리 부두, 해산물 식당, 숙소 선택까지 정리한 춤폰 가이드입니다.",
+      "th": "วางแผนเที่ยวชุมพรให้ดีขึ้นด้วยหาดทุ่งวัวแล่น ทริปทะเลหมู่เกาะชุมพร ท่าเรือไปเกาะเต่า ร้านอาหารทะเล และที่พักที่เหมาะกับการพักฝั่งแผ่นดินใหญ่",
+      "de": "Planen Sie Chumphon besser mit Thung Wua Laen Beach, Mu Ko Chumphon, Fährpier-Logistik, Seafood-Stopps und Hoteltipps für einen Festlandaufenthalt am Golf.",
+      "fr": "Préparez mieux Chumphon avec Thung Wua Laen Beach, les sorties vers Mu Ko Chumphon, la logistique des ferries, les adresses seafood et les bons hôtels.",
+      "ru": "Планируйте Чумпхон лучше: пляж Тхунг Вуа Лаен, морские поездки в Му Ко Чумпхон, логистика паромов, морепродукты и подходящие отели.",
+      "zh": "从 Thung Wua Laen 海滩、穆哥春蓬海上行程、前往龟岛的码头，到海鲜餐厅与酒店选择，这份指南帮你更好规划春蓬。"
+    }
+  },
+  "categories": {
+    "food": {
+      "en": "Best restaurants and street food in Chumphon",
+      "nl": "Beste restaurants en streetfood in Chumphon",
+      "ja": "チュムポーンのおすすめレストランとストリートフード",
+      "ko": "춤폰 추천 레스토랑과 길거리 음식",
+      "th": "ร้านอาหารและสตรีทฟู้ดที่ดีที่สุดในชุมพร"
+    },
+    "hotels": {
+      "en": "Top hotels in Chumphon | Tips & deals",
+      "nl": "Beste hotels in Chumphon | Tips & aanbiedingen",
+      "ja": "チュムポーンのおすすめホテル | ヒント＆お得情報",
+      "ko": "춤폰 추천 호텔 | 팁 & 특가",
+      "th": "โรงแรมแนะนำในชุมพร | เคล็ดลับและดีล"
+    },
+    "attractions": {
+      "en": "Top attractions in Chumphon",
+      "nl": "Top bezienswaardigheden in Chumphon",
+      "ja": "チュムポーンの人気観光スポット",
+      "ko": "춤폰 인기 관광 명소",
+      "th": "สถานที่ท่องเที่ยวยอดนิยมในชุมพร"
+    }
+  },
+  "tags": [
+    "zuidelijk",
+    "golfkust",
+    "chumphon",
+    "thailand",
+    "reizen",
+    "toerisme",
+    "gids"
+  ],
+  "enhanced_description": "Chumphon is veel beter als je het niet meer ziet als een wachtkamer voor de veerboot. De meeste reizigers kennen de provincie vanwege Lomprayah en andere eilandverbindingen die de kust hier gebruiken voor transfers naar Koh Tao, maar de sterkere versie van Chumphon is een vastelandstop aan de Golf met eigen strandritme, zeevruchtenidentiteit en logische korte verblijven. De Chumphon-materialen van TAT keren steeds terug naar hetzelfde patroon om een reden: één goed strand, één dag in het marinepark, één stop bij een heiligdom of uitzichtpunt, en één echte lokale eetervaring zijn meestal genoeg om de provincie coherent te laten voelen.\n\nDat doet ertoe omdat Chumphon gemakkelijk ondergewaardeerd raakt. Thung Wua Laen biedt je de toegankelijke strandbasis. Mu Ko Chumphon National Park voegt de riffen-en-eilandenlaag toe. Hat Sai Ri, Khao Matsee en de pierzone rond Pak Nam en Thung Makham Noi verklaren waarom deze kust nog steeds verbonden voelt met visserij en transport in plaats van alleen toerisme. De stad zelf is praktischer dan sfeervol, maar dat is deel van de aantrekkingskracht: hotels zijn eenvoudig, eten voelt nog steeds lokaal-geprioriteerd, en je hebt geen resortbubbel nodig om de plek te laten werken.\n\nDe planningsfout is proberen Chumphon precies te gebruiken zoals de eilanden. Het is geen nachtlevenstrandstad en geen bestemming waar elke stop uitwisselbaar is. Chumphon werkt het best als een vastelandbasis van één tot drie nachten met bewerkte prioriteiten: strand plus pier, park plus eten, of een rustige overnachting voor of na een Golf-oversteek.",
+  "overview": "Chumphon heeft twee heel verschillende identiteiten, en goede planning betekent dat je weet welke je daadwerkelijk boekt. De eerste is transport-gericht: aankomst per nachttrein of auto, veerboottransfer bij Thung Makham Noi Pier, dan door naar Koh Tao. De tweede is kust-gericht: een ontspannen strandverblijf rond Thung Wua Laen of de Hat Sai Ri-kant, met één dag gereserveerd voor de Mu Ko Chumphon-marinezone en een andere voor zeevruchten, uitzichten of bezoeken aan heiligdommen. De tweede versie is degene die de meeste reizigers missen.\n\nDe Chumphon-artikelen van TAT uit 2020 kaderen de provincie nog steeds via stranden, mariene attracties, zeevruchten en een paar inlandse uitzichten, en dat blijft de meest nuttige manier om erover na te denken. Je komt hier niet voor een dichte checklist van bezienswaardigheden. Je komt omdat de kust nog steeds leesbaar is: vissersgemeenschappen, openbare stranden, veerbootpieren, met de auto bereikbare zeevruchten en mariene dagtrips liggen allemaal in een compact gebied. Daarom voelt Chumphon beter als je de reisroute selectief houdt in plaats van hem op te blazen tot een grote stadsbreak.",
+  "hidden_gems": [
+    {
+      "name": "Ao Thung Makham seafood edge",
+      "story": "De Thung Makham-kant is een van de duidelijkste herinneringen dat Chumphon nog steeds werkt als een werkende kust. Het is nuttig niet omdat het gepolijst is, maar omdat zeevruchtenrestaurants, pierverkeer en de zee allemaal nog dezelfde strook delen.",
+      "how_to_find": "Gebruik het als een lunch- of laat-middagafstap van de kust in plaats van al je eetmomenten te bewaren voor het stadscentrum.",
+      "best_time": "Van late ochtend tot zonsondergang.",
+      "local_insights": [
+        "Dit is sterker als een vastlandse zeevruchtenstop dan als een strand-voor-zwemmen stop.",
+        "Het combineert goed met veerboot-pierlogistiek of de Hat Sai Ri-kant."
+      ]
+    },
+    {
+      "name": "Khao Matsee after the pier run",
+      "story": "Khao Matsee is nuttiger dan het op het eerste gezicht lijkt omdat het de riviermond, visserspieren en lange zandlijn in één blik uitlegt in plaats van nog een losse stop.",
+      "how_to_find": "Ga ernaartoe na Pak Nam of Thung Makham Noi, niet als een aparte missie dwars door de stad.",
+      "best_time": "Laat in de middag of net voor zonsondergang.",
+      "local_insights": [
+        "Het uitzichtpunt maakt de Chumphon-kust heel snel leesbaar.",
+        "Een korte stop hier verbetert vaak de hele reis meer dan nog een café."
+      ]
+    },
+    {
+      "name": "Ao Kram community stay logic",
+      "story": "Het '4 aspecten'-artikel van TAT over Chumphon benadrukt Ao Kram omdat het de vissersgemeenschaps-kant van de provincie beter toont dan de meer voor de hand liggende strandstrook.",
+      "how_to_find": "Behandel het als een gemeenschapservaring of zachte afstap als je lokale-kustcontext wilt, niet als een vervanging voor Thung Wua Laen.",
+      "best_time": "Droogseizoen gemeenschapsbezoeken of een overnachting van tevoren geregeld.",
+      "local_insights": [
+        "Ao Kram voegt menselijke textuur toe aan een Chumphon-reis die anders alleen strand-en-pier zou blijven.",
+        "Dit is beter voor reizigers die een langzamere lokale laag willen."
+      ]
+    },
+    {
+      "name": "Night market as a real meal, not a backup",
+      "story": "De Chumphon Nachtmarkt wordt vaak gezien als iets om doorheen te lopen na aankomst, maar het eetartikel van TAT maakt duidelijk dat het een van de echte eetankers van de provincie is.",
+      "how_to_find": "Gebruik het voor één volledig diner-moment in plaats van alleen een snackstop voor het slapengaan.",
+      "best_time": "Na donker, als de eetkant het drukst is.",
+      "local_insights": [
+        "De markt werkt het best als je in rondes graast, niet als je het overhaast.",
+        "Het is een van de makkelijkste manieren om de reis lokaal-geprioriteerd te houden."
+      ]
+    }
+  ],
+  "authentic_experiences": [
+    {
+      "activity": "Gebruik Chumphon als een vastelandkust, niet alleen als veerboottransfer",
+      "story": "De officiële Chumphon-kantoorvermelding van Lomprayah en de eilandplanningsmaterialen van TAT bevestigen beide de veerbootrol, maar dat zou het startpunt van de reis moeten zijn in plaats van het hele verhaal.",
+      "cultural_significance": "De transportrol van Chumphon verklaart waarom de provincie praktisch en verbonden blijft zonder een pure resortkust te worden.",
+      "how_to_participate": "Als je tijd hebt, voeg dan één strandnacht of één halve dag zeevruchten-en-uitzicht toe voor of na je eilandoversteek.",
+      "insights": [
+        "Zelfs één extra nacht verandert Chumphon van logistiek in plek.",
+        "De provincie wordt beter als je ophoudt met erdoorheen te haasten."
+      ],
+      "href": "/city/chumphon/attractions/pak-nam-chumphon/",
+      "cta_label": "Bekijk de Chumphon-kustgids"
+    },
+    {
+      "activity": "Bouw de reis rond één strand en één marinedag",
+      "story": "De attractiematerialen van TAT over Chumphon keren steeds terug naar dezelfde koppeling: Hat Thung Wua Laen op het land en Mu Ko Chumphon offshore. Dat is nog steeds de duidelijkste structuur voor een eerste keer.",
+      "cultural_significance": "Deze koppeling toont de vasteland-strand- en rif-eilandidentiteiten van de provincie samen, zonder een ingewikkelde reisroute af te dwingen.",
+      "how_to_participate": "Verblijf nabij het strand, en reserveer dan één dag voor boot-, snorkel- of duikplannen in het marineparkgebied.",
+      "insights": [
+        "Dit is de meest coherente versie van een kort Chumphon-verblijf.",
+        "Probeer niet elke kuststop evenveel prioriteit te geven."
+      ],
+      "href": "/city/chumphon/top-10-attractions/",
+      "cta_label": "Bekijk de Chumphon-attractiegids"
+    },
+    {
+      "activity": "Laat zeevruchten en lokaal ontbijt de eetplannen verdelen",
+      "story": "De officiële Chumphon-eetgids is nuttig omdat hij niet één enkel keukenverhaal afdwingt. De provincie werkt via zeevruchten, kaeng som-noedels, dim sum, roti, koffie en marktetens.",
+      "cultural_significance": "Die mix weerspiegelt de positie van Chumphon tussen vissers-kustgewoonten en alledaags eten in een zuidelijke stad.",
+      "how_to_participate": "Doe één zeevruchtenmaaltijd aan de kust, één stadse lokale maaltijd, en één markt- of caféstop met Chumphon-koffie.",
+      "insights": [
+        "Je hebt geen fine dining nodig om goed te eten in Chumphon.",
+        "De eetidentiteit van de provincie is breder dan alleen zeevruchten."
+      ],
+      "href": "/city/chumphon/top-10-restaurants/",
+      "cta_label": "Bekijk de Chumphon-eetgids"
+    },
+    {
+      "activity": "Houd één kustuitzichtpunt of heiligdom in de reisroute",
+      "story": "Prince of Chumphon Shrine en Khao Matsee maken beide zin omdat ze oriëntatie en lokale identiteit toevoegen aan een reis die anders alleen strand zou blijven.",
+      "cultural_significance": "Het heiligdom blijft een van de spirituele ankers van de provincie, terwijl het uitzichtpunt de vissersriviermond en kust visueel verbindt.",
+      "how_to_participate": "Kies het heiligdom voor lokale betekenis, Khao Matsee voor kustlezen, of doe beide in één makkelijke Hat Sai Ri-lus.",
+      "insights": [
+        "Dit zijn beter als korte betekenisvolle stops dan als lange bestemmingsankers.",
+        "Ze helpen Chumphon te voelen als een provincie, niet zomaar een strook strand."
+      ],
+      "href": "/city/chumphon/attractions/prince-of-chumphon-shrine/",
+      "cta_label": "Bekijk de heiligdomgids"
+    }
+  ],
+  "foodie_adventures": [
+    {
+      "dish": "Zeevruchten aan de kust in plaats van het stadscentrum",
+      "location": "San Sai Seafood, Clean Wave, View Seafood en andere kustkeukens",
+      "story": "De restaurantlijst van TAT en de officiële Chumphon-brochure wijzen beide terug naar de kustlijn voor de bekendste zeevruchtenmaaltijden van de provincie. Dat is het juiste signaal om te volgen.",
+      "where_to_find": "Gebruik het strand en de Pak Nam-kant voor gedeelde zeevruchtentafels in plaats van elke maaltijd te bewaren voor het stadscentrum.",
+      "price_range": "Budget tot middenklasse",
+      "ordering_tips": [
+        "Deze maaltijd werkt het best met een groep of ten minste twee gerechten om te delen.",
+        "Zeevruchten zijn sterker als ze verbonden zijn met de kust, niet alleen met hotelgemak."
+      ],
+      "href": "/city/chumphon/top-10-restaurants/",
+      "cta_label": "Bekijk de Chumphon-eetgids"
+    },
+    {
+      "dish": "Kaeng som-noedels en andere lokale alledaagse maaltijden",
+      "location": "Jae Muai Kaeng Som Noodles en stadscentrumkeukens",
+      "story": "De Chumphon-eetkeuzes van TAT maken duidelijk dat de provincie niet alleen om gegrilde vis en zee-uitzichten gaat. De zeevruchten-zure-soepnoedels van Jae Muai zijn een betere uitdrukking van zuidelijk-stadseten dan nog een generiek caféstop.",
+      "where_to_find": "Gebruik dit als een stadslunch of vroeg diner voordat je teruggaat naar de kust of markt.",
+      "price_range": "Budget",
+      "ordering_tips": [
+        "Behandel lokale noedel- en soepmaaltijden als de ruggengraat van eten in de stad.",
+        "Dit is een van de makkelijkste manieren om de reis gegrond te houden."
+      ],
+      "href": "/city/chumphon/top-10-restaurants/",
+      "cta_label": "Bekijk de Chumphon-eetgids"
+    },
+    {
+      "dish": "Dim sum en roti aan de transit-stadskant",
+      "location": "Hor Jiah Dim Sum en Roti Faridah",
+      "story": "Deze TAT-genoteerde keuzes werken omdat ze passen bij het praktische reistempo van de provincie: ontbijt, wegmaaltijd of late snack in plaats van formele bestemmingsdinering.",
+      "where_to_find": "Gebruik dim sum 's ochtends en roti later op de dag, vooral rond marktijd.",
+      "price_range": "Budget",
+      "ordering_tips": [
+        "Dit is een beter gebruik van Chumphon dan jagen op upscale dinering.",
+        "Roti en dim sum maken korte verblijven heel snel lokaal aanvoelend."
+      ],
+      "href": "/city/chumphon/top-10-restaurants/",
+      "cta_label": "Bekijk de Chumphon-eetgids"
+    },
+    {
+      "dish": "Koffie-met-uitzicht stop bij Khao Mutsea",
+      "location": "Tham Sing Cafe bij Khao Mutsea",
+      "story": "Het restaurantartikel van TAT behandelt Tham Sing Cafe zowel als koffiestop als uitzichtbeweging, en dat is precies hoe het gebruikt moet worden.",
+      "where_to_find": "Combineer het met Khao Matsee of de Hat Sai Ri-kant, niet als een standalone bestemming diep in de stad.",
+      "price_range": "Budget tot middenklasse",
+      "ordering_tips": [
+        "Gebruik het als een getempoceerde scenic stop, niet als het hele eetplan voor de dag.",
+        "Dit is een van de nuttigere niet-zeevruchten breaks in de provincie."
+      ],
+      "href": "/city/chumphon/top-10-restaurants/",
+      "cta_label": "Bekijk de Chumphon-eetgids"
+    }
+  ],
+  "local_insights": [
+    {
+      "observation": "Chumphon is sterker aan de kust dan in het centrum.",
+      "tip": "Gebruik stadshotels als je transportgemak nodig hebt, maar verblijf nabij Thung Wua Laen of de Hat Sai Ri-kant als de zee het punt van de reis is.",
+      "surprise": "De stad zelf is meestal een functionele basis, niet de ster."
+    },
+    {
+      "observation": "De pier en het strand doen verschillende dingen.",
+      "tip": "Verwar de logistiek van Thung Makham Noi Pier niet met een strandverblijf. Gebruik de pier voor veerboten en het strand voor tijd op het land.",
+      "surprise": "Veel korte Chumphon-reisroutes worden zwakker omdat ze die rollen vervagen."
+    },
+    {
+      "observation": "Eén marinedag is meestal genoeg.",
+      "tip": "Als je Mu Ko Chumphon toevoegt, bouw de rest van het verblijf rond makkelijkere landstops in plaats van elke dag een bootdag te maken.",
+      "surprise": "Chumphon wordt beter als de zedag in balans is met simpelere vastelandtijd."
+    },
+    {
+      "observation": "Eetvariatie doet er meer toe dan één 'beste restaurant'.",
+      "tip": "Verdeel maaltijden over zeevruchten, noedels, dim sum, roti en de nachtmarkt in plaats van te jagen op één alleskunner.",
+      "surprise": "Die mix geeft Chumphon een duidelijkere identiteit dan welk enkelvoudig venue dan ook."
+    }
+  ],
+  "seasonal_secrets": {
+    "best_times": {
+      "November-February": "Meestal het makkelijkste eerste-bezoekvenster voor strandweer, wegbeweging en comfortabel sightseeing aan de kust.",
+      "March-May": "Goed voor duidelijkere marinedagen als de zeetoestanden meewerken, maar hitte bouwt snel op aan land.",
+      "September-October": "Meest nuttig als je geïnteresseerd bent in roofvogelmigratie bij Khao Dinsor en geen bezwaar hebt tegen meer weervariabiliteit."
+    },
+    "local_festivals": [
+      "Herdenkingsperiodes van de Prince of Chumphon brengen meer activiteit rond Hat Sai Ri.",
+      "Lange Thaise feestweekenden kunnen strandstroken en veerbootverbindingen drukker maken dan gewone werkdagen."
+    ],
+    "seasonal_foods": {
+      "cool_season": "Kustzeevruchtenmaaltijden, strandwandelingen en marktmiddagen zijn op hun makkelijkst.",
+      "hot_season": "Ochtendmarineplannen en langzamere schaduwrijke lunches doen er meer toe dan lange middagweg-lussen.",
+      "rainy_periods": "Bootplannen en offshore zichtbaarheid kunnen snel veranderen, dus vastlandse eten- en uitzichtplannen worden nuttiger."
+    },
+    "insider_tips": {
+      "ferry_season": "Boek vroeg als je Chumphon coördineert met vertrekken naar Koh Tao.",
+      "birdwatching": "Gebruik september tot oktober als Khao Dinsor-migratie deel is van je plan.",
+      "monsoon_variability": "Houd één shore-based back-updag in gedachten als marinecondities omslaan."
+    }
+  },
+  "budget_reality": {
+    "budget": "€18-37/dag",
+    "mid_range": "€41-87/dag",
+    "luxury": "€101-202/dag",
+    "examples": [
+      "Budget Chumphon betekent meestal een praktische kamer, lokale maaltijden, één stranddag en zorgvuldige veerbootcoördinatie in plaats van constante transfers.",
+      "Middenklasse budgetten kopen normaal een betere kustkamer, makkelijkere transfers en één of twee sterkere zeevruchtenmaaltijden.",
+      "Hogere uitgaven gaan naar strandfront suites, resortcomfort en privétransport meer dan naar nachtleven of winkelen."
+    ],
+    "money_saving_tricks": [
+      "Verblijf nabij het deel van de kust of pier dat je echt nodig hebt in plaats van te betalen voor herhaalde transfers tussen stad, strand en veerbootpunt.",
+      "Gebruik lokale-etensstops en de nachtmarkt om etensuitgaven sane te houden voor of na eilandreizen."
+    ],
+    "hidden_costs": [
+      "Piertransfers en last-minute veerbootcoördinatie kunnen het budget sneller verplaatsen dan accommodatie.",
+      "Marinetrips zijn de belangrijkste variabele kosten in Chumphon; land sightseeing is relatief licht."
+    ]
+  },
+  "top_attractions": [
+    {
+      "rank": 1,
+      "name": "Thung Wua Laen Beach",
+      "description": "Het duidelijkste geval voor verblijven op het vasteland: een praktisch, low-key strand met zwemmen, duikshops, eenvoudige resorts en een veel rustiger ritme dan de eilanden.",
+      "location": "Saphli / Pathio kust",
+      "entrance_fee": "Gratis openbaar strand",
+      "highlights": [
+        "Beste strandbasis in de provincie",
+        "Goed voor eenvoudige overnachtingen",
+        "Nuttig voor duik- en snorkelvertrekken"
+      ],
+      "href": "/city/chumphon/attractions/thung-wua-laen-beach/",
+      "cta_label": "Bekijk attractiedetails"
+    },
+    {
+      "rank": 2,
+      "name": "Mu Ko Chumphon National Park",
+      "description": "De marinelaag die Chumphon echte diepte geeft, vooral als je rif-, eiland-, snorkel- of duiktijd wilt zonder direct naar Koh Tao te gaan.",
+      "location": "Offshore van de Chumphon-kust",
+      "entrance_fee": "Controleer actuele park- en bootprijzen voor vertrek",
+      "highlights": [
+        "Marinepark-eilandcircuit",
+        "Snorkel- en duiklogica",
+        "Beste gereserveerd als één volledige zedag"
+      ],
+      "href": "/city/chumphon/attractions/mu-ko-chumphon-national-park/",
+      "cta_label": "Bekijk attractiedetails"
+    },
+    {
+      "rank": 3,
+      "name": "Prince of Chumphon Shrine",
+      "description": "Een korte maar betekenisvolle Hat Sai Ri-stop die de provincie historische en lokale-spirituele gewicht geeft voorbij de strandstrook.",
+      "location": "Hat Sai Ri",
+      "entrance_fee": "Gratis",
+      "highlights": [
+        "Een van de definiërende landmarks van Chumphon",
+        "Beste gecombineerd met de kustweg",
+        "Nuttig voor eerste-keer context"
+      ],
+      "href": "/city/chumphon/attractions/prince-of-chumphon-shrine/",
+      "cta_label": "Bekijk details van de bezienswaardigheid"
+    },
+    {
+      "rank": 4,
+      "name": "Khao Matsee Viewpoint",
+      "description": "Het beste snelle overzicht van de riviermond, visserpieren en kust als je Chumphon snel visueel wilt begrijpen.",
+      "location": "Pak Nam-kant",
+      "entrance_fee": "Gratis",
+      "highlights": [
+        "360-graden kustoverzicht",
+        "Makelijke zonsondergangstop",
+        "Combineert goed met de pierzone"
+      ],
+      "href": "/city/chumphon/attractions/khao-matsee-viewpoint/",
+      "cta_label": "Bekijk details van de bezienswaardigheid"
+    },
+    {
+      "rank": 5,
+      "name": "Ao Thung Makham",
+      "description": "Een betere stop voor eten en kust dan een puur zwemstrand, handig voor zeevruchten, de veerbootkant en een authentiekere werkkust-sfeer.",
+      "location": "Hat Sai Ri / pier-kant",
+      "entrance_fee": "Gratis openbare toegang",
+      "highlights": [
+        "Zeevruchten en kuststrook",
+        "Dichtbij Thung Makham Noi logistiek",
+        "Meer lokaal-werkende sfeer"
+      ],
+      "href": "/city/chumphon/attractions/ao-thung-makham/",
+      "cta_label": "Bekijk details van de bezienswaardigheid"
+    },
+    {
+      "rank": 6,
+      "name": "Pak Nam Chumphon",
+      "description": "Een handig gebied bij riviermond en pier om te zien hoe visserijverkeer, lokale zeevruchten en eilandtransfers echt samenkomen op de grond.",
+      "location": "Pak Nam / Hat Sai Ri benadering",
+      "entrance_fee": "Gratis openbaar gebied",
+      "highlights": [
+        "Riviermond en pier context",
+        "Ondersteuning voor zeevruchtenroute",
+        "Beter voor oriëntatie dan voor een hele dag blijven hangen"
+      ],
+      "href": "/city/chumphon/attractions/pak-nam-chumphon/",
+      "cta_label": "Bekijk details van de bezienswaardigheid"
+    }
+  ],
+  "top_restaurants": [
+    {
+      "rank": 1,
+      "name": "San Sai Seafood Restaurant",
+      "description": "Een door TAT vermeld kustmaal met de juiste Chumphon-logica: zeevruchten, strandsetting en het duidelijke gevoel dat je nog op een vastelandviskust bent.",
+      "cuisine_type": "Zeevruchten / Zuid-Thais",
+      "price_range": "Middenklasse",
+      "location": "Pak Nam Lang Suan-kant",
+      "highlights": [
+        "Officiële TAT-restaurantkeuze",
+        "Sterke zeevruchtenidentiteit",
+        "Beste als de kust deel uitmaakt van de maaltijd"
+      ],
+      "href": "/city/chumphon/top-10-restaurants/",
+      "cta_label": "Bekijk de volledige Chumphon eetgids"
+    },
+    {
+      "rank": 2,
+      "name": "Jae Muai Kaeng Som Noodles",
+      "description": "Een van de beste officiële eetreferenties om te laten zien dat Chumphon niet alleen om zeevruchten gaat, maar ook om praktisch eten in een zuidelijk stadje.",
+      "cuisine_type": "Zuid-Thaise noedels",
+      "price_range": "Budget",
+      "location": "Chumphon stad",
+      "highlights": [
+        "Officiële TAT-restaurantkeuze",
+        "Beste lokale soep-en-noedelstop",
+        "Handige stedelijke maaltijd"
+      ],
+      "href": "/city/chumphon/top-10-restaurants/",
+      "cta_label": "Bekijk de volledige Chumphon eetgids"
+    },
+    {
+      "rank": 3,
+      "name": "Hor Jiah Dim Sum",
+      "description": "Een goede optie voor ontbijt of vroeg in de dag als je Chumphon wilt laten voelen als een echt zuidelijk doorgangsstadje in plaats van alleen een strandbestemming.",
+      "cuisine_type": "Dim sum / Thais-Chinees",
+      "price_range": "Budget",
+      "location": "Chumphon stad",
+      "highlights": [
+        "Officiële TAT-restaurantkeuze",
+        "Handige ochtendmaaltijd",
+        "Goede afwisseling van herhaalde zeevruchten"
+      ],
+      "href": "/city/chumphon/top-10-restaurants/",
+      "cta_label": "Bekijk de volledige Chumphon eetgids"
+    },
+    {
+      "rank": 4,
+      "name": "Roti Faridah",
+      "description": "Een praktische en goed gelegen lokale stop voor roti, thee en lichtere hapjes aan de marktkant van de stad.",
+      "cuisine_type": "Roti / thee / snackmaaltijden",
+      "price_range": "Budget",
+      "location": "Dichtbij de nachtmarkt",
+      "highlights": [
+        "Officiële TAT-restaurantkeuze",
+        "Werkt goed rond markturen",
+        "Handige niet-zeevruchtenstop"
+      ],
+      "href": "/city/chumphon/top-10-restaurants/",
+      "cta_label": "Bekijk de volledige Chumphon eetgids"
+    },
+    {
+      "rank": 5,
+      "name": "Tham Sing Cafe at Khao Mutsea",
+      "description": "Een viewpoint-café in plaats van een bestemmingsmaaltijd, maar een van de betere panoramische koffiestops in de provincie op het juiste moment.",
+      "cuisine_type": "Café / koffie / licht eten",
+      "price_range": "Budget tot middenklasse",
+      "location": "Khao Mutsea / Khao Matsee-kant",
+      "highlights": [
+        "Officiële TAT-restaurantkeuze",
+        "Beste voor een panoramische pauze",
+        "Combineert met een viewpoint-ronde"
+      ],
+      "href": "/city/chumphon/top-10-restaurants/",
+      "cta_label": "Bekijk de volledige Chumphon eetgids"
+    },
+    {
+      "rank": 6,
+      "name": "Chumphon Night Market",
+      "description": "De makkelijkste flexibele dinerzone in de provincie als je lokale eetvariatie wilt zonder vast te zitten aan één volledig restaurantmaal.",
+      "cuisine_type": "Markteten / Thaise straatrecepten",
+      "price_range": "Budget",
+      "location": "Chumphon stad",
+      "highlights": [
+        "Officiële TAT-restaurantkeuze",
+        "Goed voor grazen",
+        "Beste avondetenzone in de stad"
+      ],
+      "href": "/city/chumphon/top-10-restaurants/",
+      "cta_label": "Bekijk de volledige Chumphon eetgids"
+    },
+    {
+      "rank": 7,
+      "name": "Clean Wave",
+      "description": "Een in de brochure vermelde Thung Wua Laen zeevruchtenstop die zinvol is als je lunch direct op het strand wilt in plaats van terug naar het binnenland.",
+      "cuisine_type": "Thais / zeevruchten",
+      "price_range": "Budget tot middenklasse",
+      "location": "Hat Thung Wua Laen",
+      "highlights": [
+        "Officiële TAT-brochurevermelding",
+        "Handige strandlunchoptie",
+        "Past bij een Thung Wua Laen verblijf"
+      ],
+      "href": "/city/chumphon/top-10-restaurants/",
+      "cta_label": "Bekijk de volledige Chumphon eetgids"
+    }
+  ],
+  "top_hotels": [
+    {
+      "rank": 1,
+      "name": "Chumphon Cabana Resort",
+      "description": "Een sterke Thung Wua Laen basis als het hoofddoel een strandverblijf met directe kustatmosfeer is in plaats van een kamer in de stad.",
+      "price_range": "Middenklasse strandfront",
+      "category": "middenklasse",
+      "area": "Thung Wua Laen Beach",
+      "highlights": [
+        "Officieel strandfrontresort",
+        "Beste voor verblijf direct op het strand",
+        "Handig voor duik-en-strandtempo"
+      ],
+      "href": "/city/chumphon/top-10-hotels/",
+      "cta_label": "Bekijk de Chumphon hotelgids"
+    },
+    {
+      "rank": 2,
+      "name": "Sara Beachfront Boutique Resort",
+      "description": "Een van de meest onderscheidende luxe kustverblijven in de provincie als je een rustiger strandfront suite-ervaring wilt aan de luchthavankant.",
+      "price_range": "Luxe boetiek strandfront",
+      "category": "luxe",
+      "area": "Pathio / Banathap beach",
+      "highlights": [
+        "Officieel boetiek strandfrontresort",
+        "Sterk voor koppels en langere kustverblijven",
+        "Handig als het hotel deel van de reis is"
+      ],
+      "href": "/city/chumphon/top-10-hotels/",
+      "cta_label": "Bekijk de Chumphon hotelgids"
+    },
+    {
+      "rank": 3,
+      "name": "Novotel Chumphon Beach Resort and Golf",
+      "description": "Een grotere resort-stijl optie voor reizigers die volledige faciliteiten willen en niet om het stadscentrum geven.",
+      "price_range": "Luxe resort",
+      "category": "luxe",
+      "area": "Hat Pharadonphap / Pak Nam-kant",
+      "highlights": [
+        "Officiële TAT-brochurevermelding",
+        "Volledig resortformaat",
+        "Goed voor comfortgerichte vastelandverblijven"
+      ],
+      "href": "/city/chumphon/top-10-hotels/",
+      "cta_label": "Bekijk de Chumphon hotelgids"
+    },
+    {
+      "rank": 4,
+      "name": "Retro Box Hotel",
+      "description": "Een van de duidelijkste praktische stadscentrumverblijven als je trein-, markt- en bus toegang nodig hebt meer dan een strandfrontadres.",
+      "price_range": "Budget tot middenklasse",
+      "category": "middenklasse",
+      "area": "Chumphon stadscentrum",
+      "highlights": [
+        "Officiële stadscentrumpositie",
+        "Handig voor station- en markttoegang",
+        "Goede basis voor veerbootnacht of doorgangsnacht"
+      ],
+      "href": "/city/chumphon/top-10-hotels/",
+      "cta_label": "Bekijk de Chumphon hotelgids"
+    },
+    {
+      "rank": 5,
+      "name": "Palm Sweet Resort",
+      "description": "Een praktische resort-stijl optie aan de stadskant als je makkelijk parkeren en wegtoegang wilt zonder te betalen voor een strandfrontadres.",
+      "price_range": "Budget tot middenklasse",
+      "category": "middenklasse",
+      "area": "Bang Luek / buitenstad",
+      "highlights": [
+        "Officiële hotelwebsite",
+        "Goed voor roadtrip-logistiek",
+        "Handig waarde-alternatief voor het strand"
+      ],
+      "href": "/city/chumphon/top-10-hotels/",
+      "cta_label": "Bekijk de Chumphon hotelgids"
+    },
+    {
+      "rank": 6,
+      "name": "Clean Wave Resort",
+      "description": "Een handige Thung Wua Laen waarde-verblijf als je op de strandstrook wilt slapen zonder vast te zitten aan de grotere strandresorts.",
+      "price_range": "Budget tot middenklasse strandfront",
+      "category": "middenklasse",
+      "area": "Thung Wua Laen Beach",
+      "highlights": [
+        "Officiële TAT-brochurevermelding",
+        "Strandstrookpositie",
+        "Goed voor eenvoudigere kustovernachtingen"
+      ],
+      "href": "/city/chumphon/top-10-hotels/",
+      "cta_label": "Bekijk de Chumphon hotelgids"
+    },
+    {
+      "rank": 7,
+      "name": "Nana Buri Hotel",
+      "description": "Een betrouwbaar stadverblijf uit de officiële TAT-brochure als je Chumphon eerst als transportbasis wilt en tweede als bezienswaardighedenbasis.",
+      "price_range": "Middenklasse",
+      "category": "middenklasse",
+      "area": "Tha Taphao / stadscentrum",
+      "highlights": [
+        "Officiële TAT-brochurevermelding",
+        "Centraal praktische ligging",
+        "Goed voor overnachtingsdoorgangsverblijven"
+      ],
+      "href": "/city/chumphon/top-10-hotels/",
+      "cta_label": "Bekijk de Chumphon hotelgids"
+    }
+  ],
+  "travel_tips": [
+    "Beslis vroeg of Chumphon een strandstop, een veerbootdoorgangsstop of beide is, want de hotelkeuze verandert volledig op basis van dat antwoord.",
+    "Gebruik Thung Wua Laen voor een echt kustverblijf en Thung Makham Noi alleen als veerbootlogistiek prioriteit heeft.",
+    "Houd één maritieme dag en één landdag in plaats van elke kuststop in non-stop transport te proppen.",
+    "Gebruik lokale eetvariatie, niet alleen zeevruchten, om de provincie minder als een eendimensionale tussenstop te laten voelen.",
+    "Als de zeetoestanden zwak lijken, schakel over naar viewpoints, heiligdombezoeken en markteten in plaats van een teleurstellende boottocht te forceren."
+  ],
+  "best_time_to_visit": {
+    "season": "Koelseizoen",
+    "months": "November - Februari",
+    "weather": "Meestal de makkelijkste periode voor strandtijd, wegverkeer en combineren van vastelandstops met pier- of eilandlogistiek.",
+    "reasons": "Beste voor eerste Chumphon-reizen die één strandverblijf, één maritieme optie en soepele vastelandreizen willen."
+  },
+  "budget_info": {
+    "budget": "€18-37 per dag",
+    "mid_range": "€41-87 per dag",
+    "luxury": "€101-202 per dag",
+    "notes": "Accommodatie blijft redelijk op het vasteland; maritieme trips en gecoördineerde transfers zijn wat de dagelijkse uitgaven in Chumphon het meest beïnvloeden."
+  },
+  "thingsToDo": "De netste Chumphon-reisroute begint met het kiezen van één kustbasis. Als je het beste eenvoudige strandverblijf wilt, kies Thung Wua Laen en geef het een nacht. Gebruik datzelfde verblijf om te beslissen of je een maritieme dag naar Mu Ko Chumphon wilt of dat de reis beter werkt met één landgebaseerde kustronde. Op het land is de beste korte volgorde meestal Prince of Chumphon Shrine, Khao Matsee, Pak Nam of Ao Thung Makham, dan diner terug aan de kust of in de stad.\n\nAls Chumphon deel is van een Koh Tao-transfer, houd verwachtingen gedisciplineerd. Verblijf waar je veerboottiming zinvol is, voeg dan één maaltijd of één kuststop toe die de provincie meer dan alleen doorgang laat voelen. Als je twee of drie nachten hebt, wordt Chumphon veel beter: strand eerst, maritieme dag tweede, dan eten en viewpoints rond de Hat Sai Ri en Pak Nam-kant.",
+  "whereToStay": "Chumphon accommodatiekeuze is vooral een kwestie van functie. Thung Wua Laen en andere kustverblijven werken het best als je echt strandtijd, duikshop-toegang en een rustiger vasteland-zeeritme wilt. Stadshotels zijn beter als trein-, bus-, markt- of volgende-morgen-transfer-efficiëntie belangrijker is dan sfeer. De Pathio-kant werkt voor reizigers die een rustiger boetiek kustverblijf en makkelijkere luchthaven nabijheid willen.\n\nVoor een eerste vrijetijdsgerichte bezoek geeft verblijven aan de kust Chumphon meestal de beste versie van zichzelf. Voor een een-nacht-doorgangsstop is het centrum vaak praktischer. De fout is boeken in het binnenland als je een zeeverblijf wilt, of boeken ver aan de kust als je echte reis een vroege veerbootvertrek is.",
+  "whereToEat": [
+    {
+      "name": "San Sai Seafood Restaurant",
+      "cuisine": "Zeevruchten / Zuid-Thais",
+      "priceRange": "$$",
+      "description": "Een door TAT vermelde zeevruchtenstop die het beste werkt als de kust deel uitmaakt van de maaltijd."
+    },
+    {
+      "name": "Jae Muai Kaeng Som Noodles",
+      "cuisine": "Zuid-Thaise noedels",
+      "priceRange": "$",
+      "description": "Een stevige stedelijke maaltijd voor de zeevruchten-zure-soep-noedelkant van Chumphon."
+    },
+    {
+      "name": "Hor Jiah Dim Sum",
+      "cuisine": "Dim sum / Thais-Chinees",
+      "priceRange": "$",
+      "description": "Een van de beste keuzes voor ochtend en ontbijt in de stad."
+    },
+    {
+      "name": "Roti Faridah",
+      "cuisine": "Roti / thee / snackmaaltijden",
+      "priceRange": "$",
+      "description": "Een handige lokale stop aan de markt die goed past bij korte verblijven in Chumphon."
+    },
+    {
+      "name": "Tham Sing Cafe at Khao Mutsea",
+      "cuisine": "Café / koffie / lichte maaltijden",
+      "priceRange": "$-$$",
+      "description": "Een panoramisch koffiestop verbonden met het uitzichtpunt van de provincie."
+    },
+    {
+      "name": "Chumphon Night Market",
+      "cuisine": "Markteten / Thaise straatrecepten",
+      "priceRange": "$",
+      "description": "De makkelijkste flexibele avondetenzone in de stad."
+    }
+  ],
+  "gettingAround": "Rondreizen in Chumphon is eenvoudig zodra je accepteert dat de provincie verspreid is over praktische kustknooppunten in plaats van één dicht wandelbaar centrum. Stad, Thung Wua Laen, Hat Sai Ri, Pak Nam en Thung Makham Noi doen elk verschillende dingen. Dat betekent dat je niet moet aannemen dat één hotelpositie alles even makkelijk maakt. Als je in de stad verblijft, verwacht korte wegtransfers voor stranden en pieren. Als je aan de kust verblijft, verwacht meer bewuste beweging voor treinen, busverbindingen of centrale klusjes.\n\nLomprayah vermeldt zijn Chumphon-kantoor bij Thungmakham Noi Pier in Hat Sai Ri, wat nuttig is omdat het duidelijk maakt dat de belangrijkste Koh Tao-ferrylogistiek aan die kant van de kust ligt. Voor de meeste reizigers is de regel eenvoudig: loop alleen waar je verblijft, en gebruik dan wegvervoer voor de rest. Chumphon is meer een provincie voor rijden en transfers dan voor wandelen in een stadscentrum.",
+  "bestTimeToVisit": "Chumphon is het makkelijkst van november tot februari, wanneer strandtijd, stadsklusjes en kustwegstops allemaal samenkomen met minder hitte en minder weersverrassingen. Maart tot mei kan nog steeds goed werken voor mariene plannen, maar land sightseeing wordt zwaarder midden op de dag. September tot oktober wordt interessanter als vogeltrek bij Khao Dinsor voor je telt, hoewel boottoestanden minder voorspelbaar zijn. Voor de meeste eerste bezoeken geeft het koele seizoen de schoonste balans.",
+  "budgetGuide": {
+    "budget": {
+      "min": 20,
+      "max": 40,
+      "description": "Budget Chumphon betekent meestal een eenvoudig hotel, lokale maaltijden en een selectieve landgebaseerde reisroute zonder dure mariene toevoegingen."
+    },
+    "midrange": {
+      "min": 45,
+      "max": 95,
+      "description": "Middenklasse budgetten kopen meestal een betere kustkamer, soepelere transfers en één sterkere zeevruchtenmaaltijd of marinedag."
+    },
+    "luxury": {
+      "min": 110,
+      "max": 220,
+      "description": "Hogere Chumphon-budgetten gaan vooral over strandfront suites, boetiekverblijven en betalen voor comfort rond een rustige kustreis."
+    }
+  },
+  "safetyTips": "Chumphon is over het algemeen laag in drama, maar de echte risico's zijn transport en zeetoestanden in plaats van stedelijke stress. Improviseer geen mariene trips bij slecht weer, en bevestig pier-timing direct bij je operator als een ferry belangrijk is. Op openbare stranden en uitzichtpuntwegen geldt nog steeds de gebruikelijke Thaise wegvoorzichtigheid, vooral rond schemering en in regenperiodes. Bij de shrine en andere actieve lokale sites, kleed je respectvol en gedraag je dienovereenkomstig. Als je een motorbike huurt, onthoud dat Chumphons afstanden en weg blootstelling meer uitmaken dan congestie.",
+  "faq": [
+    {
+      "question": "Is Chumphon meer waard dan een ferry-stop?",
+      "answer": "Ja, als je er minstens één extra nacht aan geeft. De provincie wordt veel sterker zodra je een echt strandverblijf, één zeevruchtenmaaltijd of één marinedag toevoegt in plaats van het alleen voor de pier te gebruiken."
+    },
+    {
+      "question": "Waar moet ik in Chumphon verblijven voor het strand?",
+      "answer": "Thung Wua Laen is meestal de meest praktische strandbasis voor eerste bezoekers die de duidelijkste mix van zee, eenvoudige resorts en duik- of snorkeltoegang willen."
+    },
+    {
+      "question": "Waar moet ik verblijven als ik een vroege ferry naar Koh Tao heb?",
+      "answer": "Verblijf dicht bij de kant van de kust die past bij je operator en vertrektiming, vooral rond Thung Makham Noi als ferrylogistiek prioriteit heeft."
+    },
+    {
+      "question": "Wat zijn de beste bezienswaardigheden van Chumphon?",
+      "answer": "Voor de meeste reizigers is de sterkste mix Thung Wua Laen Beach, Mu Ko Chumphon National Park, Prince of Chumphon Shrine, Khao Matsee en één pier-of-zeevruchten kuststop."
+    },
+    {
+      "question": "Hoeveel nachten heb ik nodig in Chumphon?",
+      "answer": "Eén nacht werkt voor transferlogistiek, twee nachten is veel beter om de kust goed te zien, en drie nachten heeft alleen zin als strandtijd of een marinedag centraal staat in de reis."
+    },
+    {
+      "question": "Waar is Chumphon het bekendst voor qua eten?",
+      "answer": "Zeevruchten is de duidelijke attractie, maar Chumphon werkt ook goed voor zuidelijke stijl noedels, dim sum, roti, markteten en koffiestops verbonden met de kust."
+    }
+  ],
+  "practicalInfo": {
+    "bestMonths": [
+      "Nov",
+      "Dec",
+      "Jan",
+      "Feb"
+    ],
+    "nearestAirport": "Chumphon Airport (CJM)",
+    "travelTimeFromAirport": "Meestal onder een uur naar de meeste hoofdkustbases, afhankelijk van waar je verblijft.",
+    "localTransport": [
+      "Privétransfer of taxi tussen stad, kust en pier",
+      "Hotel-gerangschikte transport voor strand- en ferryverbindingen",
+      "Zelf rijden of motorbike voor zelfverzekerde rijders",
+      "Operator transfers voor ferryvertrekken",
+      "Wandelen alleen binnen je directe hotelgebied"
+    ]
+  },
+  "contentSources": [
+    {
+      "type": "tourism-office",
+      "title": "Provinciale Brochure Chumphon",
+      "creator": "Tourism Authority of Thailand",
+      "url": "https://www.turismotailandes.org.pt/WebRoot/Store/Shops/1032-180719/MediaGallery/Nova_pasta1/Nova_pasta/Provincial_Brochure_A5_Chumphon_En.pdf",
+      "description": "Gebruikt voor Chumphon stad framing plus officiële hotel- en restaurantlijsten in de stad, Thung Wua Laen, Pak Nam en Lang Suan."
+    },
+    {
+      "type": "attraction",
+      "title": "10 Dingen om te Doen in Chumphon",
+      "creator": "Tourism Authority of Thailand",
+      "url": "https://www.tourismthailand.org/Articles/10-things-to-do-in-chumphon",
+      "description": "Gebruikt voor Thung Wua Laen, Mu Ko Chumphon, Khao Matsee, Prince of Chumphon Shrine en algemene bezienswaardigheden positionering."
+    },
+    {
+      "type": "attraction",
+      "title": "Ervaar de 4 aspecten van Chumphon",
+      "creator": "Tourism Authority of Thailand",
+      "url": "https://www.tourismthailand.org/Articles/https-www-tourismthailand-org-articlesexperience-the-4-aspects-of-chumphon-view-the-sea-of-mist-on-top-of-the-mountain-pay-respect-to-the-province-s-spiritual-anchor-and-be-a-part-of-a-local-fishing-community",
+      "description": "Gebruikt voor Krom Luang Chumphon Khet Udomsak Shrine, Ao Kram en Khao Dinsor seizoensplanning context."
+    },
+    {
+      "type": "restaurant",
+      "title": "6 Beste Restaurants in Chumphon",
+      "creator": "Tourism Authority of Thailand",
+      "url": "https://www.tourismthailand.org/Articles/https-www-tourismthailand-org-articles-6-best-restaurants-in-chumphon",
+      "description": "Gebruikt voor San Sai Seafood, Jae Muai Kaeng Som Noodles, Hor Jiah Dim Sum, Roti Faridah, Tham Sing Cafe en de Chumphon Night Market."
+    },
+    {
+      "type": "transport",
+      "title": "Het hele jaar door reizen naar de prachtige zeeën rond Thailand",
+      "creator": "Tourism Authority of Thailand",
+      "url": "https://www.tourismthailand.org/Articles/year-round-trips-to-the-beautiful-seas-around-thailand",
+      "description": "Gebruikt voor Thung Makham Noi ferry context en Chumphon als vastelandroute naar Koh Tao."
+    },
+    {
+      "type": "transport",
+      "title": "Lomprayah Contact Us",
+      "creator": "Lomprayah High Speed Ferries",
+      "url": "https://www.lomprayah.com/contact-us",
+      "description": "Gebruikt voor het officiële Thungmakham Noi Pier adres en huidige Chumphon kantoor contact context."
+    },
+    {
+      "type": "hotel",
+      "title": "Chumphon Cabana Resort",
+      "creator": "Chumphon Cabana Resort",
+      "url": "https://www.chumphoncabana.net/",
+      "description": "Gebruikt voor officiële Thung Wua Laen strandfront positionering, adres en kamerstijl context."
+    },
+    {
+      "type": "hotel",
+      "title": "SARA Beachfront Boutique Resort",
+      "creator": "SARA Beachfront Boutique Resort",
+      "url": "https://sara-resort-chumphon.com/",
+      "description": "Gebruikt voor officiële strandfront-boetiek positionering, luchthaven nabijheid en suite-stijl verblijf context."
+    },
+    {
+      "type": "hotel",
+      "title": "Retro Box Hotel",
+      "creator": "Retro Box Hotel",
+      "url": "https://retroboxhotel.com/?lang=en",
+      "description": "Gebruikt voor stadscentrum hotel positionering nabij het station, de markt en de nachtmarkt."
+    },
+    {
+      "type": "hotel",
+      "title": "Palm Sweet Resort",
+      "creator": "Palm Sweet Resort",
+      "url": "https://www.palmsweetresort.com/",
+      "description": "Gebruikt voor officiële buiten-stad resort referentie en contactbevestiging."
+    },
+    {
+      "type": "hotel",
+      "title": "Chumphon Accommodatie Lijsten",
+      "creator": "Tourism Authority of Thailand",
+      "url": "https://www.turismotailandes.org.pt/WebRoot/Store/Shops/1032-180719/MediaGallery/Nova_pasta1/Nova_pasta/Provincial_Brochure_A5_Chumphon_En.pdf",
+      "description": "Gebruikt voor Nana Buri Hotel, Novotel Chumphon Beach Resort and Golf en Clean Wave Resort als officiële accommodatie referenties."
+    }
+  ],
+  "reviewed_by": "Go2Thailand Editorial Team",
+  "enhanced_at": "2026-03-26T00:00:00.000Z",
+  "enrichedAt": "2026-03-26T00:00:00.000Z",
+  "factchecked_at": "2026-03-26T00:00:00.000Z"
+}

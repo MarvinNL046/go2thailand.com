@@ -1,0 +1,118 @@
+[
+  {
+    "id": 1,
+    "slug": "northern",
+    "name": {
+      "en": "Northern Thailand",
+      "nl": "Noord-Thailand"
+    },
+    "description": {
+      "en": "Northern Thailand is a captivating mountainous region where the ancient Lanna Kingdom (founded 1296) blends with living hill tribe cultures. Chiang Mai — the cultural capital — offers 300+ Buddhist temples, world-renowned cooking classes, and ethical elephant sanctuaries. The region shares borders with Myanmar and Laos, boasts Thailand's highest peak (Doi Inthanon, 2,565m), and has a genuine cool season (November–February) with temperatures dropping to 10°C.",
+      "nl": "Noord-Thailand is een fascinerende bergachtige regio waar het oude Lanna-koninkrijk (gesticht 1296) samengaat met levende bergstamculturen. Chiang Mai — de culturele hoofdstad — biedt 300+ boeddhistische tempels, wereldberoemde kooklessen en ethische olifantensanctuaria. De regio grenst aan Myanmar en Laos, heeft Thailands hoogste top (Doi Inthanon, 2.565m), en kent een echte koele periode (november–februari) met temperaturen die dalen tot 10°C."
+    },
+    "image": "/images/regions/northern-thailand.webp",
+    "cities": [
+      "Chiang Mai",
+      "Chiang Rai",
+      "Sukhothai",
+      "Pai",
+      "Mae Hong Son",
+      "Lampang"
+    ],
+    "highlights": [
+      "Meer dan 300 Lanna-boeddhistische tempels, inclusief de heilige Doi Suthep op 1.073 m",
+      "Zeven bergstamgroepen: Akha, Hmong, Karen, Lisu, Lahu, Yao, Lawa",
+      "Yi Peng Lantaarnfestival — een van de mooiste evenementen ter wereld",
+      "Ethische olifantenopvangcentra (Elephant Nature Park)",
+      "Mae Hong Son Loop: iconische 600 km motorfietsroute"
+    ]
+  },
+  {
+    "id": 2,
+    "slug": "central",
+    "name": {
+      "en": "Central Thailand",
+      "nl": "Centraal-Thailand"
+    },
+    "description": {
+      "en": "Central Thailand centres on Bangkok — a megacity of 10+ million with Southeast Asia's best urban rail network, world-class street food (2 MICHELIN-starred street stalls), and proximity to the UNESCO-listed Ayutthaya ruins (417-year former capital). Kanchanaburi offers WWII history and the Bridge on the River Kwai, while Hua Hin is the royal seaside resort favoured since the 1920s.",
+      "nl": "Centraal-Thailand draait om Bangkok — een metropolis met 10+ miljoen inwoners, Zuidoost-Azië's beste stedelijk spoorwegnetwerk, wereldklasse straatvoedsel (2 MICHELIN-bestemd straatstalletjes) en nabijheid van de UNESCO-genoteerde Ayutthaya ruïnes (417 jaar voormalige hoofdstad). Kanchanaburi biedt Tweede Wereldoorlog-geschiedenis en de Brug op de Kwai."
+    },
+    "image": "/images/regions/central-thailand.webp",
+    "cities": [
+      "Bangkok",
+      "Ayutthaya",
+      "Pattaya",
+      "Kanchanaburi",
+      "Hua Hin",
+      "Lopburi",
+      "Phitsanulok",
+      "Trat",
+      "Rayong",
+      "Chanthaburi"
+    ],
+    "highlights": [
+      "Grand Palace en Wat Phra Kaew (Emerald Buddha) — de meest bezochte attractie van Thailand",
+      "Ayutthaya UNESCO-werelderfgoedsite — voormalige hoofdstad van 417 jaar, 86 km van Bangkok",
+      "BTS Skytrain en MRT Metro — het meest uitgebreide stedelijke spoornetwerk in Zuidoost-Azië",
+      "Werelds beste straatvoedselscène: 2 MICHELIN-sterred straatkraampjes, Yaowarat Chinatown",
+      "Kanchanaburi: Brug over de River Kwai, Erawan-waterval met 7 niveaus"
+    ]
+  },
+  {
+    "id": 3,
+    "slug": "southern",
+    "name": {
+      "en": "Southern Thailand",
+      "nl": "Zuid-Thailand"
+    },
+    "description": {
+      "en": "Southern Thailand stretches 1,000km along the Kra Peninsula with two coastlines: the Andaman Sea (Phuket, Krabi, Similan Islands) and Gulf of Thailand (Ko Samui, Ko Pha-Ngan, Ko Tao). Over 900 islands, world-class diving, and ancient rainforests like Khao Sok. Phuket alone receives 9+ million international visitors annually with direct global flights.",
+      "nl": "Zuid-Thailand strekt zich 1.000 km uit langs het Kra-schiereiland met twee kusten: de Andamanzee (Phuket, Krabi, Similan-eilanden) en Golf van Thailand (Ko Samui, Ko Pha-Ngan, Ko Tao). Meer dan 900 eilanden, wereldklasse duiken en oerwouden zoals Khao Sok. Phuket alleen ontvangt jaarlijks 9+ miljoen internationale bezoekers."
+    },
+    "image": "/images/regions/southern-thailand.webp",
+    "cities": [
+      "Phuket",
+      "Krabi",
+      "Hat Yai",
+      "Surat Thani",
+      "Koh Samui",
+      "Nakhon Si Thammarat",
+      "Trang",
+      "Chumphon"
+    ],
+    "highlights": [
+      "Phuket: meer dan 9 miljoen bezoekers per jaar, directe internationale vluchten, luxe resorts (Amanpuri)",
+      "Krabi en Railay Beach: meer dan 700 rotsklimroutes, iconisch kalksteenkarstlandschap",
+      "Similan-eilanden: een van de top 10 duiklocaties in Azië, zicht tot 30 m",
+      "Ko Samui, Ko Pha-Ngan, Ko Tao: luxe, Full Moon Party, 's werelds goedkoopste duikcursussen",
+      "Khao Sok National Park: 739 km² regenwoud ouder dan de Amazone"
+    ]
+  },
+  {
+    "id": 4,
+    "slug": "isaan",
+    "name": {
+      "en": "Isaan (Northeast Thailand)",
+      "nl": "Isaan (Noordoost-Thailand)"
+    },
+    "description": {
+      "en": "Isaan is Thailand's largest and most culturally distinct region — a vast plateau covering one-third of the country, bordering Laos and Cambodia along the Mekong River. Famous for som tam and larb (the world's most popular Thai dishes originate here), spectacular Khmer temples (Phanom Rung), the UNESCO-listed Ban Chiang Bronze Age site, and extraordinary festivals. Thailand's most affordable region for travellers.",
+      "nl": "Isaan is Thailands grootste en meest cultureel onderscheidende regio — een uitgestrekt plateau dat een derde van het land beslaat, grenzend aan Laos en Cambodja langs de Mekong. Beroemd om som tam en larb (de meest populaire Thaise gerechten zijn hier ontstaan), spectaculaire Khmer-tempels (Phanom Rung), het UNESCO Ban Chiang Bronstijdsite en buitengewone festivals. Thailands meest betaalbare regio voor reizigers."
+    },
+    "image": "/images/regions/isaan-thailand.webp",
+    "cities": [
+      "Khon Kaen",
+      "Udon Thani",
+      "Nakhon Ratchasima",
+      "Ubon Ratchathani"
+    ],
+    "highlights": [
+      "Geboorteplaats van som tam, larb en kleefrijst — Thailand's populairste gerechten",
+      "Prasat Hin Khao Phanom Rung: het mooiste Khmer-tempel in Thailand op een vulkaanpiek",
+      "Ban Chiang UNESCO-site: een van de oudste Bronstijdcivilisaties in Azië (meer dan 5.000 jaar)",
+      "Bun Bang Fai Raketfestival en Phi Ta Khon Spookfestival — uniek spectaculaire evenementen",
+      "Thailand's meest betaalbare regio: budgetreizen vanaf €14 per dag"
+    ]
+  }
+]

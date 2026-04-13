@@ -1,0 +1,1078 @@
+{
+  "slug": "10-days-adventure",
+  "title": {
+    "en": "10 Days Adventure Thailand: Thrills from Mountains to Sea",
+    "nl": "10 Dagen Avontuurlijk Thailand: Spanning van Bergen tot Zee"
+  },
+  "duration": 10,
+  "region": "meerdere regio's",
+  "budgetLevel": "alles",
+  "description": {
+    "en": "An action-packed 10-day adventure through Thailand for thrill-seekers and nature lovers. Trek through northern mountains, visit elephant sanctuaries, explore ancient ruins, kayak through sea caves, climb limestone cliffs at Railay, and snorkel crystal-clear waters. This is Thailand for the active traveler.",
+    "nl": "Een actiegepakte 10-daagse avontuur door Thailand voor sensatiezoekers en natuurliefhebbers. Trek door noordelijke bergen, bezoek olifantenreservaten, verken oude ruines, kajak door zeerutten, klim kalkstenen kliffen bij Railay en snorkel in kristalhelder water. Dit is Thailand voor de actieve reiziger."
+  },
+  "image": "/images/cities/chiangmai/chiang-mai-park.webp",
+  "highlights": [
+    "Doi Inthanon Trek",
+    "Elephant Sanctuary",
+    "White Temple",
+    "Rock Climbing Railay",
+    "Phi Phi Snorkeling",
+    "Tiger Cave Temple",
+    "Kayaking Phang Nga Bay"
+  ],
+  "cities": [
+    "chiang-mai",
+    "chiang-rai",
+    "bangkok",
+    "phuket",
+    "krabi"
+  ],
+  "budget": {
+    "budget": {
+      "total": "$500-750",
+      "perDay": "$50-75",
+      "currency": "THB",
+      "totalThb": "17,500-26,250"
+    },
+    "midrange": {
+      "total": "$1,300-2,000",
+      "perDay": "$130-200",
+      "currency": "THB",
+      "totalThb": "45,500-70,000"
+    },
+    "luxury": {
+      "total": "$3,000-5,500",
+      "perDay": "$300-550",
+      "currency": "THB",
+      "totalThb": "105,000-192,500"
+    }
+  },
+  "bestTimeToVisit": "November tot maart",
+  "days": [
+    {
+      "day": 1,
+      "title": {
+        "en": "Arrive in Chiang Mai & Old City Temples",
+        "nl": "Aankomst in Chiang Mai & Oude Stad Tempels"
+      },
+      "city": "chiang-mai",
+      "activities": [
+        {
+          "name": {
+            "en": "Wat Phra Singh & Wat Chedi Luang",
+            "nl": "Wat Phra Singh & Wat Chedi Luang"
+          },
+          "duration": "2 uur",
+          "cost": "80 (€2,20) totaal",
+          "type": "cultureel",
+          "tip": {
+            "en": "Explore the Old City's most important temples on foot. Join the Monk Chat at Wat Chedi Luang (9AM-12PM).",
+            "nl": "Verken de belangrijkste tempels van de Oude Stad te voet. Doe mee met het Monk Chat bij Wat Chedi Luang (9:00-12:00)."
+          }
+        },
+        {
+          "name": {
+            "en": "Old City Bike Tour",
+            "nl": "Oude Stad Fietstour"
+          },
+          "duration": "2-3 uur",
+          "cost": "50-100 (€1,40-2,80) fietsverhuur",
+          "type": "ervaring",
+          "tip": {
+            "en": "Cycle through the moated Old City, visiting smaller temples, local markets, and hidden alleys.",
+            "nl": "Fiets door de Oude Stad met gracht, langs kleinere tempels, lokale markten en verborgen steegjes."
+          }
+        },
+        {
+          "name": {
+            "en": "Muay Thai Class",
+            "nl": "Muay Thai Les"
+          },
+          "duration": "2 uur",
+          "cost": "400-800 (€11-22)",
+          "type": "avontuur",
+          "tip": {
+            "en": "Take an introductory Muay Thai boxing class. Lanna Muay Thai and Kawila Boxing are beginner-friendly.",
+            "nl": "Neem een introductie Muay Thai boksles. Lanna Muay Thai en Kawila Boxing zijn beginnersvriendelijk."
+          }
+        },
+        {
+          "name": {
+            "en": "Night Market",
+            "nl": "Nachtmarkt"
+          },
+          "duration": "2 uur",
+          "cost": "Gratis entree",
+          "type": "winkelen",
+          "tip": {
+            "en": "Sunday Walking Street for the best experience, or daily Night Bazaar on Chang Klan.",
+            "nl": "Zondag Walking Street voor de beste ervaring, of dagelijkse Night Bazaar op Chang Klan."
+          }
+        }
+      ],
+      "meals": {
+        "breakfast": {
+          "en": "Khao Soi at Khao Soi Khun Yai (50-80 baht)",
+          "nl": "Khao Soi bij Khao Soi Khun Yai (50-80 baht)"
+        },
+        "lunch": {
+          "en": "SP Chicken for grilled chicken and sticky rice (60-100 baht)",
+          "nl": "SP Chicken voor gegrilde kip en sticky rice (60-100 baht)"
+        },
+        "dinner": {
+          "en": "Night market street food (100-200 baht)",
+          "nl": "Nachtmarkt straateten (100-200 baht)"
+        }
+      },
+      "accommodation": {
+        "budget": {
+          "en": "Guesthouse in Old City (300-500/night)",
+          "nl": "Guesthouse in Oude Stad (300-500/nacht)"
+        },
+        "midrange": {
+          "en": "Hotel in Old City or Nimman (1,200-2,500/night)",
+          "nl": "Hotel in Oude Stad of Nimman (1.200-2.500/nacht)"
+        },
+        "luxury": {
+          "en": "Dhara Dhevi Chiang Mai (10,000-25,000/night)",
+          "nl": "Dhara Dhevi Chiang Mai (10.000-25.000/nacht)"
+        }
+      },
+      "transport": {
+        "en": "Taxi from airport: 150-200 baht. Red songthaew: 30-50 baht.",
+        "nl": "Taxi vanaf vliegveld: 150-200 baht. Rode songthaew: 30-50 baht."
+      }
+    },
+    {
+      "day": 2,
+      "title": {
+        "en": "Doi Inthanon Trek & Waterfalls",
+        "nl": "Doi Inthanon Trek & Watervallen"
+      },
+      "city": "chiang-mai",
+      "activities": [
+        {
+          "name": {
+            "en": "Doi Inthanon National Park Day Trip",
+            "nl": "Doi Inthanon Nationaal Park Dagtrip"
+          },
+          "duration": "8-9 uur",
+          "cost": "1.200-2.500 (€33-69) begeleide tour",
+          "type": "avontuur",
+          "tip": {
+            "en": "Thailand's highest peak (2,565m). The guided tour includes trekking through cloud forest, visiting hill tribe villages, and swimming in waterfalls. Bring a jacket - it's cool at the top!",
+            "nl": "Thailand's hoogste piek (2.565m). De begeleide tour omvat trekking door wolkenbos, bezoek aan bergstammendorpen en zwemmen in watervallen. Neem een jas mee - het is koel op de top!"
+          }
+        },
+        {
+          "name": {
+            "en": "Wachirathan Waterfall",
+            "nl": "Wachirathan Waterval"
+          },
+          "duration": "Inbegrepen in tour",
+          "cost": "Inbegrepen (parkentree 300)",
+          "type": "natuur",
+          "tip": {
+            "en": "Powerful 80-meter waterfall. Swim in the pool at the base (if conditions allow).",
+            "nl": "Krachtige 80 meter waterval. Zwem in het zwembad aan de basis (indien omstandigheden het toelaten)."
+          }
+        },
+        {
+          "name": {
+            "en": "Twin Royal Pagodas",
+            "nl": "Dubbele Koninklijke Pagodes"
+          },
+          "duration": "Inbegrepen in tour",
+          "cost": "Inbegrepen",
+          "type": "cultureel",
+          "tip": {
+            "en": "Beautiful pagodas near the summit with ornate gardens. Views stretch to the Myanmar border on clear days.",
+            "nl": "Prachtige pagodes bij de top met sierlijke tuinen. Uitzicht strekt zich uit tot de grens met Myanmar op heldere dagen."
+          }
+        },
+        {
+          "name": {
+            "en": "Karen Hill Tribe Village",
+            "nl": "Karen Bergstammendorp"
+          },
+          "duration": "Inbegrepen in tour",
+          "cost": "Inbegrepen",
+          "type": "cultureel",
+          "tip": {
+            "en": "Visit an authentic Karen village and learn about their traditional farming and weaving practices.",
+            "nl": "Bezoek een authentiek Karen dorp en leer over hun traditionele landbouw- en weefpraktijken."
+          }
+        }
+      ],
+      "meals": {
+        "breakfast": {
+          "en": "Hotel breakfast or grab a pastry on the go (60-100 baht)",
+          "nl": "Hotelontbijt of haal een gebakje onderweg (60-100 baht)"
+        },
+        "lunch": {
+          "en": "Local restaurant near the park (included in most tours or 80-200 baht)",
+          "nl": "Lokaal restaurant bij het park (inbegrepen in de meeste tours of 80-200 baht)"
+        },
+        "dinner": {
+          "en": "Dash! Restaurant for Thai fusion in Nimman (200-400 baht)",
+          "nl": "Dash! Restaurant voor Thaise fusie in Nimman (200-400 baht)"
+        }
+      },
+      "accommodation": {
+        "budget": {
+          "en": "Guesthouse in Old City (300-500/night)",
+          "nl": "Guesthouse in Oude Stad (300-500/nacht)"
+        },
+        "midrange": {
+          "en": "Hotel in Nimman (1,200-2,500/night)",
+          "nl": "Hotel in Nimman (1.200-2.500/nacht)"
+        },
+        "luxury": {
+          "en": "Akyra Manor (5,000-10,000/night)",
+          "nl": "Akyra Manor (5.000-10.000/nacht)"
+        }
+      },
+      "transport": {
+        "en": "Tour includes hotel pickup. Doi Inthanon is 90 km southwest of Chiang Mai.",
+        "nl": "Tour inclusief hotel ophalen. Doi Inthanon is 90 km ten zuidwesten van Chiang Mai."
+      }
+    },
+    {
+      "day": 3,
+      "title": {
+        "en": "Elephant Sanctuary & Doi Suthep",
+        "nl": "Olifantenreservaat & Doi Suthep"
+      },
+      "city": "chiang-mai",
+      "activities": [
+        {
+          "name": {
+            "en": "Elephant Nature Park (Half Day Morning)",
+            "nl": "Elephant Nature Park (Halve Dag Ochtend)"
+          },
+          "duration": "4-5 uur",
+          "cost": "2.500-3.500 (€69-97)",
+          "type": "natuur",
+          "tip": {
+            "en": "Morning visit to the ethical elephant sanctuary. Feed, bathe, and walk with rescued elephants. Book well in advance!",
+            "nl": "Ochtendbezoek aan het ethische olifantenreservaat. Voer, baad en wandel met geredde olifanten. Boek ruim van tevoren!"
+          }
+        },
+        {
+          "name": {
+            "en": "Wat Phra That Doi Suthep (Afternoon)",
+            "nl": "Wat Phra That Doi Suthep (Middag)"
+          },
+          "duration": "2 uur",
+          "cost": "30 + vervoer 100",
+          "type": "cultureel",
+          "tip": {
+            "en": "Chiang Mai's most important temple at 1,055 meters. 306 steps up or funicular (50 baht).",
+            "nl": "Chiang Mai's belangrijkste tempel op 1.055 meter. 306 treden omhoog of kabelbaan (50 baht)."
+          }
+        },
+        {
+          "name": {
+            "en": "Evening: Chiang Mai Night Bazaar",
+            "nl": "Avond: Chiang Mai Night Bazaar"
+          },
+          "duration": "2 uur",
+          "cost": "Gratis entree",
+          "type": "winkelen",
+          "tip": {
+            "en": "Open every night on Chang Klan Road. Great for souvenirs and street food.",
+            "nl": "Elke avond geopend op Chang Klan Road. Geweldig voor souvenirs en straateten."
+          }
+        }
+      ],
+      "meals": {
+        "breakfast": {
+          "en": "Hotel breakfast (early pickup for elephants around 8 AM)",
+          "nl": "Hotelontbijt (vroege pickup voor olifanten rond 8 uur)"
+        },
+        "lunch": {
+          "en": "Elephant sanctuary lunch (included) or grab food after",
+          "nl": "Olifantenreservaat lunch (inbegrepen) of haal eten daarna"
+        },
+        "dinner": {
+          "en": "Huen Phen for authentic Lanna cuisine (150-350 baht)",
+          "nl": "Huen Phen voor authentieke Lanna keuken (150-350 baht)"
+        }
+      },
+      "accommodation": {
+        "budget": {
+          "en": "Guesthouse in Old City (300-500/night)",
+          "nl": "Guesthouse in Oude Stad (300-500/nacht)"
+        },
+        "midrange": {
+          "en": "Hotel near Night Bazaar (1,200-2,500/night)",
+          "nl": "Hotel bij Night Bazaar (1.200-2.500/nacht)"
+        },
+        "luxury": {
+          "en": "137 Pillars House (8,000-15,000/night)",
+          "nl": "137 Pillars House (8.000-15.000/nacht)"
+        }
+      },
+      "transport": {
+        "en": "Elephant sanctuary: pickup included. Songthaew to Doi Suthep: 50-80 baht.",
+        "nl": "Olifantenreservaat: ophalen inbegrepen. Songthaew naar Doi Suthep: 50-80 baht."
+      }
+    },
+    {
+      "day": 4,
+      "title": {
+        "en": "White Temple, Blue Temple & Chiang Rai",
+        "nl": "Witte Tempel, Blauwe Tempel & Chiang Rai"
+      },
+      "city": "chiang-rai",
+      "activities": [
+        {
+          "name": {
+            "en": "Bus to Chiang Rai (via White Temple)",
+            "nl": "Bus naar Chiang Rai (via Witte Tempel)"
+          },
+          "duration": "3-4 uur",
+          "cost": "200-350 (€5,50-9,20)",
+          "type": "vervoer",
+          "tip": {
+            "en": "Green Bus from Arcade Terminal. Ask to be dropped at the White Temple on the way (15 km before town).",
+            "nl": "Green Bus vanaf Arcade Terminal. Vraag om afgezet te worden bij de Witte Tempel onderweg (15 km voor de stad)."
+          }
+        },
+        {
+          "name": {
+            "en": "Wat Rong Khun (White Temple)",
+            "nl": "Wat Rong Khun (Witte Tempel)"
+          },
+          "duration": "1,5 uur",
+          "cost": "100 (€2,80)",
+          "type": "cultureel",
+          "tip": {
+            "en": "Mind-blowing contemporary art temple. Gleaming white with intricate sculptures and surreal details.",
+            "nl": "Verbluffende hedendaagse kunsttempel. Glanzend wit met ingewikkelde beelden en surrealistische details."
+          }
+        },
+        {
+          "name": {
+            "en": "Wat Rong Suea Ten (Blue Temple)",
+            "nl": "Wat Rong Suea Ten (Blauwe Tempel)"
+          },
+          "duration": "45 minuten",
+          "cost": "Gratis",
+          "type": "cultureel",
+          "tip": {
+            "en": "Electric blue interior that's mesmerizing. Made by a student of the White Temple's artist.",
+            "nl": "Elektrisch blauw interieur dat betoverend is. Gemaakt door een leerling van de kunstenaar van de Witte Tempel."
+          }
+        },
+        {
+          "name": {
+            "en": "Chiang Rai Night Bazaar",
+            "nl": "Chiang Rai Night Bazaar"
+          },
+          "duration": "2 uur",
+          "cost": "Gratis entree",
+          "type": "winkelen",
+          "tip": {
+            "en": "Authentic night market with hill tribe crafts and live traditional music.",
+            "nl": "Authentieke nachtmarkt met bergstammen ambachten en live traditionele muziek."
+          }
+        }
+      ],
+      "meals": {
+        "breakfast": {
+          "en": "Grab breakfast in Chiang Mai before bus (60-100 baht)",
+          "nl": "Haal ontbijt in Chiang Mai voor de bus (60-100 baht)"
+        },
+        "lunch": {
+          "en": "Restaurant near White Temple or in Chiang Rai (60-150 baht)",
+          "nl": "Restaurant bij Witte Tempel of in Chiang Rai (60-150 baht)"
+        },
+        "dinner": {
+          "en": "Night Bazaar food stalls - Khao Soi and Sai Ua (80-150 baht)",
+          "nl": "Night Bazaar eetkraampjes - Khao Soi en Sai Ua (80-150 baht)"
+        }
+      },
+      "accommodation": {
+        "budget": {
+          "en": "Guesthouse in Chiang Rai (300-500/night)",
+          "nl": "Guesthouse in Chiang Rai (300-500/nacht)"
+        },
+        "midrange": {
+          "en": "Le Meridien Chiang Rai (1,500-3,000/night)",
+          "nl": "Le Meridien Chiang Rai (1.500-3.000/nacht)"
+        },
+        "luxury": {
+          "en": "Anantara Golden Triangle (15,000-35,000/night)",
+          "nl": "Anantara Golden Triangle (15.000-35.000/nacht)"
+        }
+      },
+      "transport": {
+        "en": "Bus Chiang Mai to Chiang Rai: 200-350 baht (3-4 hours). Tuk-tuk in town: 20-60 baht.",
+        "nl": "Bus Chiang Mai naar Chiang Rai: 200-350 baht (3-4 uur). Tuk-tuk in de stad: 20-60 baht."
+      }
+    },
+    {
+      "day": 5,
+      "title": {
+        "en": "Golden Triangle & Hill Tribe Trek",
+        "nl": "Gouden Driehoek & Bergstammen Trek"
+      },
+      "city": "chiang-rai",
+      "activities": [
+        {
+          "name": {
+            "en": "Golden Triangle Boat Trip",
+            "nl": "Gouden Driehoek Boottocht"
+          },
+          "duration": "2 uur",
+          "cost": "400 (€11) boot + Gratis viewpoint",
+          "type": "avontuur",
+          "tip": {
+            "en": "Where three countries meet at the Mekong. Take a boat to a Laotian island and visit the Opium Museum.",
+            "nl": "Waar drie landen samenkomen bij de Mekong. Neem een boot naar een Laotiaans eiland en bezoek het Opiummuseum."
+          }
+        },
+        {
+          "name": {
+            "en": "Baan Dam (Black House Museum)",
+            "nl": "Baan Dam (Zwarte Huis Museum)"
+          },
+          "duration": "1 uur",
+          "cost": "80 (€2,20)",
+          "type": "cultureel",
+          "tip": {
+            "en": "Complex of 40 dark art buildings filled with animal skins, bones, and artistic installations.",
+            "nl": "Complex van 40 donkere kunstgebouwen gevuld met dierenhuiden, botten en artistieke installaties."
+          }
+        },
+        {
+          "name": {
+            "en": "Doi Tung Hill Tribe Experience",
+            "nl": "Doi Tung Bergstammen Ervaring"
+          },
+          "duration": "2-3 uur",
+          "cost": "200-500 (€5,50-13,80)",
+          "type": "cultureel",
+          "tip": {
+            "en": "Visit the Royal Villa and Mae Fah Luang Garden. Learn about the hill tribe communities and their crafts. Beautiful mountain views.",
+            "nl": "Bezoek de Royal Villa en Mae Fah Luang Tuin. Leer over de bergstammen gemeenschappen en hun ambachten. Prachtig uitzicht op de bergen."
+          }
+        },
+        {
+          "name": {
+            "en": "Singha Park",
+            "nl": "Singha Park"
+          },
+          "duration": "1 uur",
+          "cost": "Gratis",
+          "type": "natuur",
+          "tip": {
+            "en": "Tea and coffee plantation with cycling trails and a zipline. Free shuttle around the park.",
+            "nl": "Thee- en koffieplantage met fietspaden en een zipline. Gratis shuttle door het park."
+          }
+        }
+      ],
+      "meals": {
+        "breakfast": {
+          "en": "Hotel breakfast (50-100 baht)",
+          "nl": "Hotelontbijt (50-100 baht)"
+        },
+        "lunch": {
+          "en": "Local restaurant near Golden Triangle (100-250 baht)",
+          "nl": "Lokaal restaurant bij Gouden Driehoek (100-250 baht)"
+        },
+        "dinner": {
+          "en": "Chivit Thamma Da riverside (200-500 baht)",
+          "nl": "Chivit Thamma Da aan de rivier (200-500 baht)"
+        }
+      },
+      "accommodation": {
+        "budget": {
+          "en": "Guesthouse in Chiang Rai (300-500/night)",
+          "nl": "Guesthouse in Chiang Rai (300-500/nacht)"
+        },
+        "midrange": {
+          "en": "The Riverie by Katathani (1,500-3,000/night)",
+          "nl": "The Riverie by Katathani (1.500-3.000/nacht)"
+        },
+        "luxury": {
+          "en": "Four Seasons Tented Camp (25,000-50,000/night)",
+          "nl": "Four Seasons Tented Camp (25.000-50.000/nacht)"
+        }
+      },
+      "transport": {
+        "en": "Hire car/driver for the day: 1,500-2,500 baht for Golden Triangle, Black House, and Doi Tung circuit.",
+        "nl": "Huur auto/chauffeur voor de dag: 1.500-2.500 baht voor Gouden Driehoek, Zwarte Huis en Doi Tung circuit."
+      }
+    },
+    {
+      "day": 6,
+      "title": {
+        "en": "Fly to Bangkok & Quick Explore",
+        "nl": "Vliegen naar Bangkok & Snel Verkennen"
+      },
+      "city": "bangkok",
+      "activities": [
+        {
+          "name": {
+            "en": "Morning Flight to Bangkok",
+            "nl": "Ochtendvlucht naar Bangkok"
+          },
+          "duration": "1,5 uur",
+          "cost": "1.500-4.000 (€41-110)",
+          "type": "vervoer",
+          "tip": {
+            "en": "Direct flights from Mae Fah Luang Airport to Don Mueang or Suvarnabhumi.",
+            "nl": "Directe vluchten vanaf Mae Fah Luang Vliegveld naar Don Mueang of Suvarnabhumi."
+          }
+        },
+        {
+          "name": {
+            "en": "Grand Palace & Wat Pho",
+            "nl": "Grand Palace & Wat Pho"
+          },
+          "duration": "3 uur",
+          "cost": "700 (€19) totaal",
+          "type": "cultureel",
+          "tip": {
+            "en": "Bangkok's two must-see temples in one visit. Grand Palace + Wat Pho are walking distance.",
+            "nl": "Bangkok's twee must-see tempels in een bezoek. Grand Palace + Wat Pho zijn op loopafstand."
+          }
+        },
+        {
+          "name": {
+            "en": "Chinatown (Yaowarat) Street Food Tour",
+            "nl": "Chinatown (Yaowarat) Streetfood Tour"
+          },
+          "duration": "2-3 uur",
+          "cost": "200-500 (€5,50-13,80)",
+          "type": "eten",
+          "tip": {
+            "en": "Bangkok's best street food after dark. Grilled seafood, dim sum, and more on Yaowarat Road.",
+            "nl": "Bangkok's beste straateten na zonsondergang. Gegrilde zeevruchten, dim sum en meer op Yaowarat Road."
+          }
+        },
+        {
+          "name": {
+            "en": "Muay Thai Fight Night (Optional)",
+            "nl": "Muay Thai Gevechtsnacht (Optioneel)"
+          },
+          "duration": "3 uur",
+          "cost": "1.000-2.000 (€28-55)",
+          "type": "avontuur",
+          "tip": {
+            "en": "Watch live Muay Thai at Rajadamnern or Lumpinee Stadium. A true Thai sporting experience. Book ringside for the best view.",
+            "nl": "Kijk live Muay Thai bij Rajadamnern of Lumpinee Stadium. Een echte Thaise sportervaring. Boek ringside voor het beste uitzicht."
+          }
+        }
+      ],
+      "meals": {
+        "breakfast": {
+          "en": "Airport or hotel in Chiang Rai before flight",
+          "nl": "Vliegveld of hotel in Chiang Rai voor de vlucht"
+        },
+        "lunch": {
+          "en": "Thipsamai for Pad Thai (60-100 baht) or food court at Terminal 21 (35-80 baht)",
+          "nl": "Thipsamai voor Pad Thai (60-100 baht) of food court bij Terminal 21 (35-80 baht)"
+        },
+        "dinner": {
+          "en": "Chinatown street food feast (200-500 baht)",
+          "nl": "Chinatown streetfood festijn (200-500 baht)"
+        }
+      },
+      "accommodation": {
+        "budget": {
+          "en": "Hostel on Khao San Road (400-600/night)",
+          "nl": "Hostel aan Khao San Road (400-600/nacht)"
+        },
+        "midrange": {
+          "en": "Hotel in Sukhumvit (1,500-3,500/night)",
+          "nl": "Hotel in Sukhumvit (1.500-3.500/nacht)"
+        },
+        "luxury": {
+          "en": "The Peninsula Bangkok (8,000-15,000/night)",
+          "nl": "The Peninsula Bangkok (8.000-15.000/nacht)"
+        }
+      },
+      "transport": {
+        "en": "Flight Chiang Rai to Bangkok: 1,500-4,000 baht. Airport Rail Link + BTS.",
+        "nl": "Vlucht Chiang Rai naar Bangkok: 1.500-4.000 baht. Airport Rail Link + BTS."
+      }
+    },
+    {
+      "day": 7,
+      "title": {
+        "en": "Fly to Phuket & Phang Nga Bay Kayaking",
+        "nl": "Vliegen naar Phuket & Phang Nga Baai Kajakken"
+      },
+      "city": "phuket",
+      "activities": [
+        {
+          "name": {
+            "en": "Morning Flight to Phuket",
+            "nl": "Ochtendvlucht naar Phuket"
+          },
+          "duration": "1,5 uur",
+          "cost": "1.500-4.000 (€41-110)",
+          "type": "vervoer",
+          "tip": {
+            "en": "Book early for cheap fares. Multiple airlines operate this popular route.",
+            "nl": "Boek vroeg voor goedkope tarieven. Meerdere luchtvaartmaatschappijen bedienen deze populaire route."
+          }
+        },
+        {
+          "name": {
+            "en": "Phang Nga Bay Sea Cave Kayaking",
+            "nl": "Phang Nga Baai Zeegrot Kajakken"
+          },
+          "duration": "6-7 uur (middagtour)",
+          "cost": "1.500-3.000 (€41-83)",
+          "type": "avontuur",
+          "tip": {
+            "en": "Paddle through limestone sea caves and hidden lagoons (hongs). See James Bond Island and Koh Panyee floating village. Book the afternoon starlight tour for a magical experience.",
+            "nl": "Peddel door kalkstenen zeerutten en verborgen lagunes (hongs). Zie James Bond Eiland en Koh Panyee drijvend dorp. Boek de middag starlight tour voor een magische ervaring."
+          }
+        },
+        {
+          "name": {
+            "en": "James Bond Island (Koh Tapu)",
+            "nl": "James Bond Eiland (Koh Tapu)"
+          },
+          "duration": "Inbegrepen in tour",
+          "cost": "Inbegrepen",
+          "type": "avontuur",
+          "tip": {
+            "en": "The famous limestone needle from The Man with the Golden Gun.",
+            "nl": "De beroemde kalksteennaald uit The Man with the Golden Gun."
+          }
+        }
+      ],
+      "meals": {
+        "breakfast": {
+          "en": "Airport breakfast or grab on the go",
+          "nl": "Ontbijt op vliegveld of onderweg"
+        },
+        "lunch": {
+          "en": "Lunch at Koh Panyee floating village (included in tour)",
+          "nl": "Lunch bij Koh Panyee drijvend dorp (inbegrepen in tour)"
+        },
+        "dinner": {
+          "en": "Fresh seafood at a Phuket restaurant (200-500 baht)",
+          "nl": "Verse zeevruchten bij een Phuket restaurant (200-500 baht)"
+        }
+      },
+      "accommodation": {
+        "budget": {
+          "en": "Hostel in Patong or Kata (400-800/night)",
+          "nl": "Hostel in Patong of Kata (400-800/nacht)"
+        },
+        "midrange": {
+          "en": "Hotel in Kata Beach (1,500-3,500/night)",
+          "nl": "Hotel in Kata Beach (1.500-3.500/nacht)"
+        },
+        "luxury": {
+          "en": "Trisara Phuket (15,000-35,000/night)",
+          "nl": "Trisara Phuket (15.000-35.000/nacht)"
+        }
+      },
+      "transport": {
+        "en": "Flight Bangkok to Phuket: 1,500-4,000 baht. Airport taxi: 600-900 baht. Tour includes pickup.",
+        "nl": "Vlucht Bangkok naar Phuket: 1.500-4.000 baht. Vliegveld taxi: 600-900 baht. Tour inclusief ophalen."
+      }
+    },
+    {
+      "day": 8,
+      "title": {
+        "en": "Phi Phi Islands Snorkeling & Diving",
+        "nl": "Phi Phi Eilanden Snorkelen & Duiken"
+      },
+      "city": "phuket",
+      "activities": [
+        {
+          "name": {
+            "en": "Phi Phi Islands Speedboat Tour",
+            "nl": "Phi Phi Eilanden Speedboottour"
+          },
+          "duration": "8-10 uur",
+          "cost": "1.500-3.500 (€41-97)",
+          "type": "avontuur",
+          "tip": {
+            "en": "Snorkeling at multiple spots. Upgrade to a diving experience for certified divers (extra 1,500-3,000 baht).",
+            "nl": "Snorkelen op meerdere plekken. Upgrade naar een duikervaring voor gecertificeerde duikers (extra 1.500-3.000 baht)."
+          }
+        },
+        {
+          "name": {
+            "en": "Maya Bay Swimming",
+            "nl": "Maya Bay Zwemmen"
+          },
+          "duration": "Inbegrepen",
+          "cost": "400 (€11) parkentree",
+          "type": "natuur",
+          "tip": {
+            "en": "Swim in the crystal clear waters of the famous beach. Limited visitors ensure a better experience.",
+            "nl": "Zwem in het kristalheldere water van het beroemde strand. Beperkte bezoekers zorgen voor een betere ervaring."
+          }
+        },
+        {
+          "name": {
+            "en": "Snorkeling at Shark Point & Bamboo Island",
+            "nl": "Snorkelen bij Shark Point & Bamboo Island"
+          },
+          "duration": "Inbegrepen",
+          "cost": "Inbegrepen",
+          "type": "avontuur",
+          "tip": {
+            "en": "Look for blacktip reef sharks, sea turtles, and leopard sharks at Shark Point (for divers).",
+            "nl": "Zoek naar zwartpuntrifhaaien, zeeschildpadden en luipaardhaaien bij Shark Point (voor duikers)."
+          }
+        }
+      ],
+      "meals": {
+        "breakfast": {
+          "en": "Early hotel breakfast (tours depart 7-8 AM)",
+          "nl": "Vroeg hotelontbijt (tours vertrekken 7-8 uur)"
+        },
+        "lunch": {
+          "en": "Beach buffet on Phi Phi (included)",
+          "nl": "Strandbuffet op Phi Phi (inbegrepen)"
+        },
+        "dinner": {
+          "en": "Beachfront BBQ seafood at Kata (200-500 baht)",
+          "nl": "Strandfront BBQ zeevruchten bij Kata (200-500 baht)"
+        }
+      },
+      "accommodation": {
+        "budget": {
+          "en": "Guesthouse in Kata (400-800/night)",
+          "nl": "Guesthouse in Kata (400-800/nacht)"
+        },
+        "midrange": {
+          "en": "Hotel in Kata Beach (1,500-3,500/night)",
+          "nl": "Hotel in Kata Beach (1.500-3.500/nacht)"
+        },
+        "luxury": {
+          "en": "Kata Rocks (8,000-20,000/night)",
+          "nl": "Kata Rocks (8.000-20.000/nacht)"
+        }
+      },
+      "transport": {
+        "en": "Tour includes hotel pickup.",
+        "nl": "Tour inclusief hotel ophalen."
+      }
+    },
+    {
+      "day": 9,
+      "title": {
+        "en": "Transfer to Krabi & Rock Climbing Railay",
+        "nl": "Transfer naar Krabi & Rotsklimmen Railay"
+      },
+      "city": "krabi",
+      "activities": [
+        {
+          "name": {
+            "en": "Transfer to Krabi",
+            "nl": "Transfer naar Krabi"
+          },
+          "duration": "2,5-3 uur",
+          "cost": "300-600 (€8,30-16,50)",
+          "type": "vervoer",
+          "tip": {
+            "en": "Morning minivan from Phuket. Arrive in Ao Nang by lunch.",
+            "nl": "Ochtend minibus vanuit Phuket. Aankomst in Ao Nang tegen lunch."
+          }
+        },
+        {
+          "name": {
+            "en": "Longtail Boat to Railay Beach",
+            "nl": "Longtailboot naar Railay Beach"
+          },
+          "duration": "15 minuten",
+          "cost": "200 (€5,50) retour",
+          "type": "vervoer",
+          "tip": {
+            "en": "Head straight to Railay for the afternoon climbing session.",
+            "nl": "Ga direct naar Railay voor de middag klimsessie."
+          }
+        },
+        {
+          "name": {
+            "en": "Rock Climbing at Railay (Half Day)",
+            "nl": "Rotsklimmen bij Railay (Halve Dag)"
+          },
+          "duration": "3-4 uur",
+          "cost": "1.200-2.500 (€33-69)",
+          "type": "avontuur",
+          "tip": {
+            "en": "World-renowned limestone climbing. Beginners welcome - experienced guides and all equipment provided. Routes from grade 4 to 8a.",
+            "nl": "Wereldberoemd kalksteenklimmen. Beginners welkom - ervaren gidsen en alle uitrusting inbegrepen. Routes van graad 4 tot 8a."
+          }
+        },
+        {
+          "name": {
+            "en": "Phra Nang Cave Beach Sunset",
+            "nl": "Phra Nang Cave Beach Zonsondergang"
+          },
+          "duration": "1,5 uur",
+          "cost": "Gratis",
+          "type": "strand",
+          "tip": {
+            "en": "After climbing, cool off at Thailand's most dramatic beach. Turquoise water against towering cliffs.",
+            "nl": "Na het klimmen, koel af bij Thailand's meest dramatische strand. Turquoise water tegen torenhoge kliffen."
+          }
+        }
+      ],
+      "meals": {
+        "breakfast": {
+          "en": "Breakfast in Phuket before departure (60-150 baht)",
+          "nl": "Ontbijt in Phuket voor vertrek (60-150 baht)"
+        },
+        "lunch": {
+          "en": "Quick lunch at Ao Nang or Railay (100-250 baht)",
+          "nl": "Snelle lunch in Ao Nang of Railay (100-250 baht)"
+        },
+        "dinner": {
+          "en": "The Grotto at Railay or Ao Nang seafood (300-700 baht)",
+          "nl": "The Grotto bij Railay of Ao Nang zeevruchten (300-700 baht)"
+        }
+      },
+      "accommodation": {
+        "budget": {
+          "en": "Bungalow on Railay or Tonsai (600-1,200/night)",
+          "nl": "Bungalow op Railay of Tonsai (600-1.200/nacht)"
+        },
+        "midrange": {
+          "en": "Railay Village Resort or Ao Nang hotel (2,000-4,000/night)",
+          "nl": "Railay Village Resort of Ao Nang hotel (2.000-4.000/nacht)"
+        },
+        "luxury": {
+          "en": "Rayavadee Resort (12,000-30,000/night)",
+          "nl": "Rayavadee Resort (12.000-30.000/nacht)"
+        }
+      },
+      "transport": {
+        "en": "Minivan Phuket to Krabi: 300-600 baht. Longtail to Railay: 100-200 baht.",
+        "nl": "Minibus Phuket naar Krabi: 300-600 baht. Longtail naar Railay: 100-200 baht."
+      }
+    },
+    {
+      "day": 10,
+      "title": {
+        "en": "Tiger Cave Temple, Emerald Pool & Farewell",
+        "nl": "Tiger Cave Tempel, Emerald Pool & Afscheid"
+      },
+      "city": "krabi",
+      "activities": [
+        {
+          "name": {
+            "en": "Tiger Cave Temple (Wat Tham Suea)",
+            "nl": "Tiger Cave Tempel (Wat Tham Suea)"
+          },
+          "duration": "2,5 uur",
+          "cost": "Gratis",
+          "type": "avontuur",
+          "tip": {
+            "en": "1,237 steps to the summit - the ultimate fitness challenge! Start at 6:30-7 AM. Golden Buddha and 360-degree panorama at the top. Bring 2 liters of water.",
+            "nl": "1.237 treden naar de top - de ultieme fitness uitdaging! Begin om 6:30-7 uur. Gouden Boeddha en 360 graden panorama op de top. Neem 2 liter water mee."
+          }
+        },
+        {
+          "name": {
+            "en": "Emerald Pool Swimming",
+            "nl": "Emerald Pool Zwemmen"
+          },
+          "duration": "1,5 uur",
+          "cost": "200 (€5,50)",
+          "type": "natuur",
+          "tip": {
+            "en": "Cool off in the crystal-clear natural pool in the rainforest. The Blue Pool is a short walk further.",
+            "nl": "Koel af in het kristalheldere natuurlijke zwembad in het regenwoud. De Blue Pool is een kort stukje verder."
+          }
+        },
+        {
+          "name": {
+            "en": "Klong Thom Hot Springs",
+            "nl": "Klong Thom Warmwaterbronnen"
+          },
+          "duration": "1 uur",
+          "cost": "200 (€5,50)",
+          "type": "natuur",
+          "tip": {
+            "en": "Soak in natural jungle hot springs after your Tiger Cave workout. The perfect recovery!",
+            "nl": "Week in natuurlijke jungle warmwaterbronnen na je Tiger Cave workout. Het perfecte herstel!"
+          }
+        },
+        {
+          "name": {
+            "en": "Final Sunset at Ao Nang",
+            "nl": "Laatste Zonsondergang bij Ao Nang"
+          },
+          "duration": "1 uur",
+          "cost": "Gratis",
+          "type": "strand",
+          "tip": {
+            "en": "Watch the sun set over the Andaman Sea one final time. What an adventure!",
+            "nl": "Kijk hoe de zon voor de laatste keer ondergaat boven de Andamanse Zee. Wat een avontuur!"
+          }
+        }
+      ],
+      "meals": {
+        "breakfast": {
+          "en": "Very early breakfast (6-6:30 AM) before Tiger Cave",
+          "nl": "Zeer vroeg ontbijt (6-6:30 uur) voor Tiger Cave"
+        },
+        "lunch": {
+          "en": "Local restaurant near Emerald Pool (80-200 baht)",
+          "nl": "Lokaal restaurant bij Emerald Pool (80-200 baht)"
+        },
+        "dinner": {
+          "en": "Farewell celebration dinner at Lae Lay Grill with sea views (400-800 baht)",
+          "nl": "Afscheids vieringsdiner bij Lae Lay Grill met zeezicht (400-800 baht)"
+        }
+      },
+      "accommodation": {
+        "budget": {
+          "en": "Guesthouse in Ao Nang (400-800/night)",
+          "nl": "Guesthouse in Ao Nang (400-800/nacht)"
+        },
+        "midrange": {
+          "en": "Hotel in Ao Nang (1,500-3,500/night)",
+          "nl": "Hotel in Ao Nang (1.500-3.500/nacht)"
+        },
+        "luxury": {
+          "en": "Phulay Bay, Ritz-Carlton Reserve (15,000-35,000/night)",
+          "nl": "Phulay Bay, Ritz-Carlton Reserve (15.000-35.000/nacht)"
+        }
+      },
+      "transport": {
+        "en": "Hire taxi for day trip: 1,500-2,000 baht. Krabi airport taxi: 500-700 baht from Ao Nang.",
+        "nl": "Huur taxi voor dagtrip: 1.500-2.000 baht. Krabi vliegveld taxi: 500-700 baht vanaf Ao Nang."
+      }
+    }
+  ],
+  "transportBetweenCities": [
+    {
+      "from": "chiang-mai",
+      "to": "chiang-rai",
+      "options": [
+        {
+          "mode": "bus",
+          "duration": "3-4 uur",
+          "cost": "200-350"
+        },
+        {
+          "mode": "taxi",
+          "duration": "3 uur",
+          "cost": "2,500-3,500"
+        }
+      ]
+    },
+    {
+      "from": "chiang-rai",
+      "to": "bangkok",
+      "options": [
+        {
+          "mode": "vlucht",
+          "duration": "1,5 uur",
+          "cost": "1,500-4,000"
+        },
+        {
+          "mode": "bus",
+          "duration": "10-12 uur",
+          "cost": "500-800"
+        }
+      ]
+    },
+    {
+      "from": "bangkok",
+      "to": "phuket",
+      "options": [
+        {
+          "mode": "vlucht",
+          "duration": "1,5 uur",
+          "cost": "1,500-4,000"
+        },
+        {
+          "mode": "bus",
+          "duration": "12-14 uur",
+          "cost": "500-900"
+        }
+      ]
+    },
+    {
+      "from": "Phuket",
+      "to": "Krabi",
+      "options": [
+        {
+          "mode": "bus",
+          "duration": "3-4 uur",
+          "cost": "200-400"
+        },
+        {
+          "mode": "taxi",
+          "duration": "2,5-3 uur",
+          "cost": "2,000-2,500"
+        },
+        {
+          "mode": "ferry",
+          "duration": "2-3 uur",
+          "cost": "400-800"
+        }
+      ]
+    }
+  ],
+  "packingTips": {
+    "en": [
+      "Wandelschoenen of stevige trailschoenen",
+      "Sneldrogende kleding",
+      "Warme laag voor noordelijke bergen",
+      "Zwempak en rashguard",
+      "Rifvriendelijke zonnebrand",
+      "Waterdicht telefoonhoesje en droge tas",
+      "Insectenwerend middel (DEET-gebaseerd)",
+      "Waterschoenen voor warmwaterbronnen en stranden",
+      "Lichte klimhandschoenen (optioneel)",
+      "Hoofdlamp voor vroege Tiger Cave start",
+      "Basis EHBO-kit"
+    ],
+    "nl": [
+      "Wandelschoenen of stevige trailschoenen",
+      "Sneldrogende kleding",
+      "Warme laag voor noordelijke bergen",
+      "Zwempak en rashguard",
+      "Rifvriendelijke zonnebrand",
+      "Waterdicht telefoonhoesje en droge tas",
+      "Insectenwerend middel (DEET-gebaseerd)",
+      "Waterschoenen voor warmwaterbronnen en stranden",
+      "Lichte klimhandschoenen (optioneel)",
+      "Hoofdlamp voor vroege Tiger Cave start",
+      "Basis EHBO-kit"
+    ]
+  },
+  "seo": {
+    "metaTitle": {
+      "en": "10 Days Adventure Thailand Itinerary 2026: Mountains to Sea",
+      "nl": "10 Dagen Avontuur Thailand Reisschema 2026: Bergen tot Zee"
+    },
+    "metaDescription": {
+      "en": "Action-packed 10-day Thailand adventure itinerary. Trekking, elephant sanctuary, rock climbing, kayaking, snorkeling, and more. Complete guide with costs.",
+      "nl": "Actiegepakt 10-daags Thailand avontuur reisschema. Trekking, olifantenreservaat, rotsklimmen, kajakken, snorkelen en meer. Complete gids met kosten."
+    }
+  },
+  "tags": [
+    "10 dagen",
+    "avontuur",
+    "trekking",
+    "rotsklimmen",
+    "kajakken",
+    "snorkelen",
+    "olifanten",
+    "Muay Thai",
+    "Chiang Mai",
+    "Krabi",
+    "Phuket",
+    "actief reizen"
+  ]
+}

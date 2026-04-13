@@ -1,0 +1,76 @@
+{
+  "id": 3,
+  "slug": "phimai-historical-park",
+  "name": {
+    "en": "Phimai Historical Park",
+    "nl": "Phimai Historical Park"
+  },
+  "type": "historisch",
+  "city_slug": "nakhon-ratchasima",
+  "address": "Phimai District, Nakhon Ratchasima",
+  "location": null,
+  "opening_hours": "Bekijk de actuele officiële informatie over het historische park voordat je Korat verlaat, vooral als je dag afhankelijk is van het combineren van het park met het museum.",
+  "entrance_fee": {
+    "thb": null,
+    "usd": null
+  },
+  "description": {
+    "en": "The province's strongest Khmer heritage site and the best history-led extension from Korat.",
+    "nl": "De sterkste Khmer-erfgoedsite van de provincie en de beste geschiedenisgerichte uitstap vanuit Korat."
+  },
+  "highlights": [
+    "Grootste Khmer stenen tempel in Thailand",
+    "Beste erfgoed dagtrip vanuit Korat",
+    "Sterk als je het combineert met het museum"
+  ],
+  "image": "/images/cities/generated/nakhon-ratchasima.webp",
+  "seo": {
+    "metaTitle": {
+      "en": "Phimai Historical Park | Go2Thailand",
+      "nl": "Phimai Historical Park | Go2Thailand"
+    },
+    "metaDescription": {
+      "en": "Why Phimai Historical Park is the strongest heritage extension from Korat.",
+      "nl": "Waarom Phimai Historical Park de sterkste erfgoeduitstap vanuit Korat is."
+    }
+  },
+  "tags": [
+    "korat",
+    "phimai",
+    "khmer-erfgoed"
+  ],
+  "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=Phimai%20Historical%20Park",
+  "best_time": "ochtend",
+  "duration_hours": 3,
+  "enhanced_description": "Phimai is de ideale erfgoed-uitbreiding vanuit Korat omdat het geen opgeblazen verhalen nodig heeft om de afstand te rechtvaardigen. Materialen van de Fine Arts Department presenteren het nog steeds als de grootste Khmer stenen tempel in Thailand, en de context van de officiële site maakt duidelijk dat dit een serieuze historische stop is in plaats van een decoratieve ruïne langs de weg.\n\nDe beste aanpak is om er een goed tijdsblok voor te reserveren en, indien mogelijk, het te combineren met het museum. Dat houdt de trip historisch in plaats van slechts fotogeniek en voorkomt de veelgemaakte fout om Phimai in dezelfde gehaaste dag te proppen met te veel stadstops.",
+  "detailed_history": "Materialen van de Fine Arts Department blijven Prasat Hin Phimai positioneren als de grootste Khmer stenen tempel in Thailand en een sleutelsite voor Khmer religie. De Korat-brochure van TAT benadrukt ook de schaal van het heiligdom, de zuidelijke oriëntatie en de centrale betekenis in de erfgoedlaag van de provincie.",
+  "visitor_experience": "Verwacht een serieuze erfgoedlocatie met voldoende schaal en details om een gefocust bezoek te rechtvaardigen. Het is sterker als je arriveert met tijd om het rustig te beleven in plaats van na een al volle ochtend in de stad.",
+  "best_time_to_visit": {
+    "time_of_day": "Ochtend",
+    "duration": "Ongeveer 2,5 tot 3 uur",
+    "crowd_level": "Matig"
+  },
+  "practical_info": {
+    "how_to_get_there": "Beste per auto, chauffeur of een duidelijk geplande busroute vanuit Korat.",
+    "nearby_attractions": "Combineer het met het Phimai National Museum in plaats van te veel zwakkere stops toe te voegen.",
+    "food_options": "Plan een eenvoudige maaltijd in de stad rond het blok van het historische park.",
+    "shopping": "Houd de dag gericht op erfgoed in plaats van op winkelen."
+  },
+  "insider_tips": [
+    "Laat Phimai het hoofdgebeurtenis van de dag zijn.",
+    "Voeg het museum toe als je wilt dat de ruïnes meer interpretatieve diepgang krijgen.",
+    "Haast niet terug naar de stad voordat je de erfgoedlaag behoorlijk hebt afgerond."
+  ],
+  "verified_note": "Bron-ondersteunde samenvatting gebaseerd op actueel materiaal van Fine Arts Department en TAT Korat.",
+  "cultural_significance": "Phimai geeft de provincie Korat haar duidelijkste Khmer erfgoed dimensie en is de sterkste geschiedenis-geleide uitbreiding vanuit de stad.",
+  "contentSources": [
+    {
+      "name": "Phimai Historical Park",
+      "url": "https://virtualhistoricalpark.finearts.go.th/phimai/index.php/en/"
+    },
+    {
+      "name": "Provincial Brochure: Nakhon Ratchasima",
+      "url": "https://www.turismotailandes.org.pt/WebRoot/Store/Shops/1032-180719/MediaGallery/Nova_pasta1/Nova_pasta/Provincial_Brochure_A5_Nakhon_Ratchasima_En.pdf"
+    }
+  ]
+}
