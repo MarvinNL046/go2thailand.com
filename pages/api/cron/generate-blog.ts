@@ -23,7 +23,7 @@ export default async function handler(
 
     // 1. Generate the blog post directly (no internal HTTP call)
     const post = await generateBlogPost({
-      model: "claude-haiku",
+      model: "grok-writer",
       generateImage: true,
       scrapeContext: true,
     });

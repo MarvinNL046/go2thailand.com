@@ -392,7 +392,7 @@ export async function generateBlogPost(
 export async function translatePost(
   post: GeneratedPost,
   targetLocale: TranslationLocale,
-  model: AiModel = "claude-haiku"
+  model: AiModel = "grok-translator"
 ): Promise<TranslatedPost> {
   const localeNames: Record<TranslationLocale, string> = {
     nl: "Dutch",
@@ -438,7 +438,7 @@ ${post.content}`;
 // Translate a post to ALL 7 non-English locales
 export async function translatePostToAllLocales(
   post: GeneratedPost,
-  model: AiModel = "claude-haiku"
+  model: AiModel = "grok-translator"
 ): Promise<TranslatedPost[]> {
   const results: TranslatedPost[] = [];
 

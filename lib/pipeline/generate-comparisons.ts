@@ -139,7 +139,7 @@ DUTCH TRANSLATION QUALITY:
 IMPORTANT: Output ONLY valid JSON, no markdown formatting.`;
 
   const rawResponse = await generateContent(prompt, {
-    model: "claude-haiku",
+    model: "grok-writer",
     maxTokens: 8192,
     temperature: 0.7,
   });

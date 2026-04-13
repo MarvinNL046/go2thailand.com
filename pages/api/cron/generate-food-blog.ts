@@ -168,7 +168,7 @@ export default async function handler(
     const post = await generateBlogPost({
       topic: nextTopic.topic,
       category: "food",
-      model: "claude-haiku",
+      model: "grok-writer",
       generateImage: true,
       scrapeContext: true,
       scrapeUrls: nextTopic.scrapeUrls.length > 0 ? nextTopic.scrapeUrls : undefined,
