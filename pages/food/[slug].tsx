@@ -214,7 +214,7 @@ export default function DishPage({ dish, relatedDishes, citiesForDish, editorial
                 </p>
 
                 <p className="text-xl text-gray-700 mb-8 leading-relaxed">
-                  {dish.enhanced_description || dish.description.en}
+                  {(isNl && dish.description?.nl) || dish.enhanced_description || dish.description?.en}
                 </p>
 
                 <div className="grid grid-cols-2 md:grid-cols-4 gap-4 text-center">

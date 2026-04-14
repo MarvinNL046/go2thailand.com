@@ -156,7 +156,7 @@ export default function DrinkPage({ drink }: DrinkPageProps) {
 
                 <FadeInText delay={300}>
                   <p className="text-lg text-gray-700 mb-6">
-                    {drink.enhanced_description || drink.description.en}
+                    {(isNl && drink.description?.nl) || drink.enhanced_description || drink.description?.en}
                   </p>
                 </FadeInText>
 

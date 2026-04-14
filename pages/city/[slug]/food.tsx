@@ -210,7 +210,7 @@ export default function CityFoodPage({ city, cityFoodData, enhancedRestaurants }
                     <p className="text-sm text-gray-500 mb-2">{dish.name.thai}</p>
                     {dish.description && (
                       <p className="text-sm text-gray-600 mb-3 line-clamp-2">
-                        {dish.description.en}
+                        {dish.description[lang] || dish.description.en}
                       </p>
                     )}
                     <div className="flex items-center justify-between text-sm">
