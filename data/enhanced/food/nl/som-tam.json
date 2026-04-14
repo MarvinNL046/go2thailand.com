@@ -1,0 +1,907 @@
+{
+  "id": 2,
+  "slug": "som-tam",
+  "name": {
+    "en": "Som Tam",
+    "nl": "Som Tam",
+    "thai": "ส้มตำ"
+  },
+  "category": "salade",
+  "region": "noordoostelijk",
+  "spice_level": "medium",
+  "description": {
+    "en": "Spicy green papaya salad with tomatoes lime juice fish sauce and peanuts",
+    "nl": "Pittige groene papajasalade met tomaten limoensap vissaus en pinda's"
+  },
+  "ingredients": [
+    "groene papaja",
+    "tomaten",
+    "limoensap",
+    "vissaus",
+    "pinda's",
+    "chili"
+  ],
+  "allergens": [
+    "noten"
+  ],
+  "dietary": [
+    "vegetarische optie"
+  ],
+  "image": "/images/food/som-tam.webp",
+  "preparation_time": "10 minuten",
+  "difficulty": "makkelijk",
+  "price_range": "budget",
+  "seo": {
+    "metaTitle": {
+      "en": "Som Tam Recipe | Authentic Thai salad",
+      "nl": "Som Tam Recept | Authentieke Thaise salad"
+    },
+    "metaDescription": {
+      "en": "Learn about Som Tam (ส้มตำ) - Spicy green papaya salad with tomatoes lime juice fish sauce and peanuts...",
+      "nl": "Leer over Som Tam (ส้มตำ) - Pittige groene papajasalade met tomaten limoensap vissaus en pinda's..."
+    }
+  },
+  "tags": [
+    "thais-eten",
+    "thailand",
+    "salade",
+    "noordoostelijk",
+    "medium",
+    "makkelijk",
+    "budget",
+    "groene-papaja",
+    "tomaten",
+    "limoen-sap"
+  ],
+  "cooking": {
+    "preparation_time": "10 minuten",
+    "difficulty": "makkelijk",
+    "spice_level": "medium",
+    "serves": "2-4 personen"
+  },
+  "nutrition": {
+    "allergens": [
+      "noten"
+    ],
+    "dietary": [
+      "vegetarische optie"
+    ],
+    "price_range": "budget"
+  },
+  "enhanced_description": "Som Tam (Groene Papajasalade) is Isaans geschenk aan de wereld — een explosieve combinatie van smaken die al je smaakpapillen tegelijkertijd aanvalt. Deze gestampte salade is ontstaan in Laos en Noordoost-Thailand, waar het ritmische 'pok pok' geluid van de vijzel en stamper de soundtrack is van elke markt. Het is verfrissend, pittig, funky en verslavend — de perfecte balans van texturen en smaken.",
+  "detailed_ingredients": [
+    {
+      "name": "Green Papaya",
+      "purpose": "Biedt knapperige textuur en milde smaak die de dressing opneemt",
+      "substitutes": [
+        "Groene mango",
+        "Komkommer- en wortelmix",
+        "Koolrabi",
+        "Groene appel voor zoetheid"
+      ]
+    },
+    {
+      "name": "Pla Ra (Fermented Fish)",
+      "purpose": "Het funky, umami-hart van Isaan-stijl som tam",
+      "substitutes": [
+        "Vissaus (mildere smaak)",
+        "Garnalenpasta",
+        "Ansjovis",
+        "Sojasaus voor vegetarisch"
+      ]
+    },
+    {
+      "name": "Thai Chilies",
+      "purpose": "Brengt de hitte die deze salade legendarisch maakt",
+      "substitutes": [
+        "Serranopepers",
+        "Bird's eye chilies",
+        "Jalapeños (veel milder)"
+      ]
+    }
+  ],
+  "cooking_method": {
+    "technique": "Stampen in een kleien vijzel (khrok)",
+    "steps_overview": "De magie gebeurt in de vijzel. Elk ingrediënt wordt gekneusd, niet geplet, waardoor smaken vrijkomen terwijl de textuur behouden blijft. De stampvolgorde is belangrijk — knoflook en chilies eerst, dan de kruiden, tot slot de papaja, terwijl je met een lepel mengt.",
+    "cooking_tips": [
+      "Gebruik een kleien vijzel, geen hout — die grijpt ingrediënten beter",
+      "Stamp en vouw, niet pletten — behoud de textuur",
+      "Proef voortdurend en pas aan — elke batch is uniek",
+      "De papaja moet gekneusd maar nog steeds knapperig zijn",
+      "Maak het pittiger dan je denkt — de zoetheid balanceert het"
+    ]
+  },
+  "cultural_significance": {
+    "origin_story": "Ontstaan in Laos en verspreid door heel Isaan (noordoostelijk Thailand). Plattelandsgemeenschappen creëerden het als manier om onrijpe papaja te gebruiken en vis te conserveren. Het gerecht vertegenwoordigt de vindingrijkheid van het Isaan-volk.",
+    "cultural_importance": "Som Tam is meer dan eten — het is een sociaal ritueel. Groepen verzamelen zich rond de som tam-verkoper, passen hun bestelling aan en delen borden. Het is het meest bestelde gerecht in Thailand, dagelijks gegeten door miljoenen.",
+    "traditional_occasions": [
+      "Lunchhoofdgerecht met kleefrijst",
+      "Drinkvoer met bier",
+      "Oogstvieringen",
+      "Tempelfestivals"
+    ]
+  },
+  "variations": [
+    {
+      "name": "Som Tam Thai",
+      "description": "De 'veilige' versie met gedroogde garnalen, pinda's en vissaus"
+    },
+    {
+      "name": "Som Tam Poo Pla Ra",
+      "description": "Isaan-stijl met gefermenteerde vis en veldkrabben — voor dappere zielen"
+    },
+    {
+      "name": "Som Tam Ponlamai",
+      "description": "Fruitsaladeversie met appels, druiven en pinda's"
+    }
+  ],
+  "serving_suggestions": {
+    "traditional_accompaniments": [
+      "Jasmijnrijst",
+      "Verse groenten"
+    ],
+    "presentation": "Geserveerd warm in traditionele Thaise stijl",
+    "eating_etiquette": "Genieten met vork en lepel"
+  },
+  "nutritional_info": {
+    "calories_per_serving": "Verschilt per bereiding",
+    "health_benefits": [
+      "Rijk aan Thaise kruiden en specerijen",
+      "Gebalanceerde smaken"
+    ],
+    "dietary_notes": [
+      "vegetarische optie"
+    ]
+  },
+  "where_to_find": {
+    "best_restaurants": [
+      "Som Tam Nua (Bangkok) - Moderne Isaan-restaurantketen",
+      "Laab Ubon (Bangkok) - Authentieke Isaan-smaken",
+      "Elk Isaan-restaurant met plastic krukjes"
+    ],
+    "street_food_areas": [
+      "Soi 38 Night Market, Bangkok",
+      "JJ Green Night Market",
+      "Elke bouwplaats tijdens de lunch (volg de arbeiders)"
+    ],
+    "price_ranges": {
+      "street_food": "30-50 THB (€0,83-€1,38)",
+      "restaurant": "60-120 THB (€1,66-€3,31)",
+      "upscale": "150-300 THB (€4,14-€8,28)"
+    }
+  },
+  "enhanced_at": "2025-05-25T21:51:02.697Z",
+  "translations": {
+    "nl": {
+      "enhanced_description": "Som Tam (Groene Papajasalade) is Isaans geschenk aan de wereld — een explosieve combinatie van smaken die al je smaakpapillen tegelijkertijd aanvalt. Deze gestampte salade is ontstaan in Laos en Noordoost-Thailand, waar het ritmische 'pok pok' geluid van de vijzel en stamper de soundtrack is van elke markt. Het is verfrissend, pittig, funky en verslavend — de perfecte balans van texturen en smaken.",
+      "detailed_ingredients": [
+        {
+          "name": "Groene papaja",
+          "purpose": "Zorgt voor knapperige textuur en milde smaak die de dressing absorbeert",
+          "substitutes": [
+            "Groene mango",
+            "Komkommer- en wortelmix",
+            "Koolrabi",
+            "Groene appel voor zoetheid"
+          ]
+        },
+        {
+          "name": "Pla Ra (gefermenteerde vis)",
+          "purpose": "Het funky, umami-hart van Isaan-stijl som tam",
+          "substitutes": [
+            "Vissaus (mildere smaak)",
+            "Garnalenpasta",
+            "Ansjovis",
+            "Sojasaus voor vegetarische versie"
+          ]
+        },
+        {
+          "name": "Thaise pepers",
+          "purpose": "Brengt de hitte die deze salade legendarisch maakt",
+          "substitutes": [
+            "Serranopepers",
+            "Vogelpepers",
+            "Jalapeños (veel milder)"
+          ]
+        }
+      ],
+      "cooking_method": {
+        "technique": "Stampen in een kleienvijzel (khrok)",
+        "steps_overview": "De magie gebeurt in de vijzel. Elk ingrediënt wordt gekneusd, niet geplet, waardoor smaken vrijkomen terwijl de textuur behouden blijft. De stampvolgorde is belangrijk — knoflook en pepers eerst, dan kruiden, tot slot de papaja, alles terwijl je met een lepel mengt.",
+        "cooking_tips": [
+          "Gebruik een kleivijzel, geen houten — die grijpt ingrediënten beter vast",
+          "Stamp en vouw, niet pletten — behoud de textuur",
+          "Proef voortdurend en pas aan — elke portie is uniek",
+          "De papaja moet gekneusd maar nog steeds knapperig zijn",
+          "Maak het pittiger dan je denkt — de zoetheid brengt het in balans"
+        ]
+      },
+      "cultural_significance": {
+        "origin_story": "Ontstaan in Laos en verspreid door heel Isaan (Noordoost-Thailand). Plattelandsgemeenschappen creëerden het als manier om onrijpe papaja te gebruiken en vis te conserveren. Het gerecht vertegenwoordigt de vindingrijkheid van het Isaan-volk.",
+        "cultural_importance": "Som Tam is meer dan eten — het is een sociaal ritueel. Groepen verzamelen zich rond de som tam-verkoper, passen hun bestelling aan en delen borden. Het is het meest bestelde gerecht in Thailand, dagelijks gegeten door miljoenen.",
+        "traditional_occasions": [
+          "Lunch-vaste waarde met kleefrijst",
+          "Drinkvoedsel bij bier",
+          "Oogstvieringen",
+          "Tempelfestivals"
+        ]
+      },
+      "variations": [
+        {
+          "name": "Som Tam Thai",
+          "description": "De 'veilige' versie met gedroogde garnalen, pinda's en vissaus"
+        },
+        {
+          "name": "Som Tam Poo Pla Ra",
+          "description": "Isaan-stijl met gefermenteerde vis en veldkrabben — voor dappere zielen"
+        },
+        {
+          "name": "Som Tam Ponlamai",
+          "description": "Fruitsaladeversie met appels, druiven en pinda's"
+        }
+      ],
+      "serving_suggestions": {
+        "traditional_accompaniments": [
+          "Jasmijnrijst",
+          "Verse groenten"
+        ],
+        "presentation": "Warm geserveerd in traditionele Thaise stijl",
+        "eating_etiquette": "Gegeten met vork en lepel"
+      },
+      "where_to_find": {
+        "best_restaurants": [
+          "Som Tam Nua (Bangkok) — Moderne Isaan-restaurantketen",
+          "Laab Ubon (Bangkok) — Authentieke Isaan-smaken",
+          "Elk Isaan-restaurant met plastic krukjes"
+        ],
+        "street_food_areas": [
+          "Soi 38 Night Market, Bangkok",
+          "JJ Green Night Market",
+          "Elke bouwplaats tijdens de lunch (volg de arbeiders)"
+        ]
+      },
+      "translated_at": "2026-03-10T00:00:00.000Z"
+    },
+    "fr": {
+      "enhanced_description": "Som Tam (Groene Papajasalade) is Isaans geschenk aan de wereld — een explosieve combinatie van smaken die al je smaakpapillen tegelijkertijd aanvalt. Deze gestampte salade is ontstaan in Laos en Noordoost-Thailand, waar het ritmische 'pok pok' geluid van de vijzel en stamper de soundtrack is van elke markt. Het is verfrissend, pittig, funky en verslavend — de perfecte balans van texturen en smaken.",
+      "detailed_ingredients": [
+        {
+          "name": "Papaye verte",
+          "purpose": "Biedt een knapperige textuur en milde smaak die de dressing opneemt",
+          "substitutes": [
+            "Groene mango",
+            "Komkommer- en wortelmix",
+            "Koolrabi",
+            "Groene appel voor zoetheid"
+          ]
+        },
+        {
+          "name": "Pla Ra (poisson fermenté)",
+          "purpose": "Het funky, umami-hart van Isaan-stijl som tam",
+          "substitutes": [
+            "Vissaus (mildere smaak)",
+            "Garnalenpasta",
+            "Ansjovis",
+            "Sojasaus voor vegetarische versie"
+          ]
+        },
+        {
+          "name": "Piments thaï",
+          "purpose": "Brengt de hitte die deze salade legendarisch maakt",
+          "substitutes": [
+            "Serranopepers",
+            "Bird's eye chilies",
+            "Jalapeños (veel milder)"
+          ]
+        }
+      ],
+      "cooking_method": {
+        "technique": "Stampen in een kleien vijzel (khrok)",
+        "steps_overview": "De magie gebeurt in de vijzel. Elk ingrediënt wordt gekneusd, niet geplet, waardoor smaken vrijkomen terwijl de textuur behouden blijft. De stampvolgorde is belangrijk — knoflook en pepers eerst, dan de kruiden, tot slot de papaja, terwijl je met een lepel mengt.",
+        "cooking_tips": [
+          "Gebruik een kleien vijzel, geen hout — die grijpt ingrediënten beter",
+          "Stamp en vouw, niet pletten — behoud de textuur",
+          "Proef voortdurend en pas aan — elke portie is uniek",
+          "De papaja moet gekneusd maar nog steeds knapperig zijn",
+          "Maak het pittiger dan je denkt — de zoetheid balanceert het"
+        ]
+      },
+      "cultural_significance": {
+        "origin_story": "Ontstaan in Laos en verspreid door heel Isaan (Noordoost-Thailand). Plattelandsgemeenschappen creëerden het als manier om onrijpe papaja te gebruiken en vis te conserveren. Het gerecht vertegenwoordigt de vindingrijkheid van het Isaan-volk.",
+        "cultural_importance": "Som Tam is meer dan eten — het is een sociaal ritueel. Groepen verzamelen zich rond de som tam-verkoper, passen hun bestelling aan en delen borden. Het is het meest bestelde gerecht in Thailand, dagelijks gegeten door miljoenen.",
+        "traditional_occasions": [
+          "Lunchhoofdgerecht met kleefrijst",
+          "Begeleider bij bier",
+          "Oogstvieringen",
+          "Tempelfestivals"
+        ]
+      },
+      "variations": [
+        {
+          "name": "Som Tam Thai",
+          "description": "De 'veilige' versie met gedroogde garnalen, pinda's en vissaus"
+        },
+        {
+          "name": "Som Tam Poo Pla Ra",
+          "description": "Isaan-stijl met gefermenteerde vis en veldkrabben — voor dappere zielen"
+        },
+        {
+          "name": "Som Tam Ponlamai",
+          "description": "Versie fruitsalade met appels, rozijnen en pinda's"
+        }
+      ],
+      "serving_suggestions": {
+        "traditional_accompaniments": [
+          "Jasmijnrijst",
+          "Verse groenten"
+        ],
+        "presentation": "Geserveerd warm in de traditionele Thaise stijl",
+        "eating_etiquette": "Gegeten met vork en lepel"
+      },
+      "where_to_find": {
+        "best_restaurants": [
+          "Som Tam Nua (Bangkok) — Moderne keten van Isaan-restaurants",
+          "Laab Ubon (Bangkok) — Authentieke Isaan-smaken",
+          "Elk Isaan-restaurant met plastic krukjes"
+        ],
+        "street_food_areas": [
+          "Soi 38 Night Market, Bangkok",
+          "JJ Green Night Market",
+          "Elke bouwplaats tijdens de lunchtijd (volg de arbeiders)"
+        ]
+      },
+      "translated_at": "2026-03-10T00:00:00.000Z"
+    },
+    "de": {
+      "enhanced_description": "Som Tam (groene papayasalade) is Isaans geschenk aan de wereld — een explosieve combinatie van aroma's die alle smaakpapillen tegelijkertijd aanvalt. Deze gestampte salade ontstond in Laos en Noord-Oost-Thailand, waar het ritmische 'Pok Pok' van vijzel en stamper de soundtrack van elke markt is. Het is verfrissend, pittig, funky en verslavend — de perfecte balans van texturen en smaken.",
+      "detailed_ingredients": [
+        {
+          "name": "Grüne Papaya",
+          "purpose": "Levert knapperige textuur en milde smaak die de dressing opneemt",
+          "substitutes": [
+            "Groene mango",
+            "Komkommer-wortelmix",
+            "Koolrabi",
+            "Groene appel voor zoetheid"
+          ]
+        },
+        {
+          "name": "Pla Ra (fermentierter Fisch)",
+          "purpose": "Het funky umami-hart van de Isaan-stijl Som Tam",
+          "substitutes": [
+            "Vis sauce (mildere smaak)",
+            "Garnalenpasta",
+            "Ansjovis",
+            "Sojasaus voor de vegetarische versie"
+          ]
+        },
+        {
+          "name": "Thai-Chilis",
+          "purpose": "Brengt de pittigheid die deze salade legendarisch maakt",
+          "substitutes": [
+            "Serrano-peper",
+            "Bird's Eye Chilis",
+            "Jalapeños (veel milder)"
+          ]
+        }
+      ],
+      "cooking_method": {
+        "technique": "Stampen in de kleien vijzel (Khrok)",
+        "steps_overview": "De magie gebeurt in de vijzel. Elke ingrediënt wordt gestampt, niet geplet, waardoor aroma's vrijkomen en de textuur behouden blijft. De volgorde van stampen is belangrijk — eerst knoflook en chilis, dan specerijen, tot slot de papaya, terwijl je met een lepel roert.",
+        "cooking_tips": [
+          "Gebruik een kleien vijzel, geen houten — hij grijpt de ingrediënten beter",
+          "Stampen en vouwen, niet pletten — de textuur behouden",
+          "Continu proeven en aanpassen — elke portie is uniek",
+          "De papaya moet gestampt zijn, maar nog knapperig",
+          "Maak het pittiger dan je denkt — de zoetheid balanceert het uit"
+        ]
+      },
+      "cultural_significance": {
+        "origin_story": "Ontstaan in Laos en verspreid door heel Isaan (Noord-Oost-Thailand). Landelijke gemeenschappen creëerden het als manier om onrijpe papaya te gebruiken en vis te conserveren. Het gerecht belichaamt de vindingrijkheid van de Isaan-bevolking.",
+        "cultural_importance": "Som Tam is meer dan eten — het is een sociaal ritueel. Groepen verzamelen zich rond de Som Tam-verkoopster, passen hun bestelling aan en delen borden. Het is het meest bestelde gerecht in Thailand, dagelijks gegeten door miljoenen.",
+        "traditional_occasions": [
+          "Lunch-basis met kleefrijst",
+          "Begeleider bij bier",
+          "Oogstfeesten",
+          "Tempelfestivals"
+        ]
+      },
+      "variations": [
+        {
+          "name": "Som Tam Thai",
+          "description": "De 'veilige' versie met gedroogde garnalen, pinda's en vis sauce"
+        },
+        {
+          "name": "Som Tam Poo Pla Ra",
+          "description": "Isaan-stijl met gefermenteerde vis en veldkrabben — voor dappere zielen"
+        },
+        {
+          "name": "Som Tam Ponlamai",
+          "description": "Fruitsalade-versie met appels, druiven en pinda's"
+        }
+      ],
+      "serving_suggestions": {
+        "traditional_accompaniments": [
+          "Jasmijnrijst",
+          "Verse groenten"
+        ],
+        "presentation": "Warm geserveerd in de traditionele Thaise stijl",
+        "eating_etiquette": "Gegeten met vork en lepel"
+      },
+      "where_to_find": {
+        "best_restaurants": [
+          "Som Tam Nua (Bangkok) — Moderne keten van Isaan-restaurants",
+          "Laab Ubon (Bangkok) — Authentieke Isaan-smaken",
+          "Elk Isaan-restaurant met plastic krukjes"
+        ],
+        "street_food_areas": [
+          "Soi 38 Night Market, Bangkok",
+          "JJ Green Night Market",
+          "Elke bouwplaats tijdens de lunchtijd (volg de arbeiders)"
+        ]
+      },
+      "translated_at": "2026-03-10T00:00:00.000Z"
+    },
+    "zh": {
+      "enhanced_description": "Som Tam (groene papayasalade) is Isaans geschenk aan de wereld — een explosieve combinatie van aroma's die alle smaakpapillen tegelijkertijd aanvalt. Deze gestampte salade ontstond in Laos en Noord-Oost-Thailand, waar het ritmische 'Pok Pok' van vijzel en stamper de soundtrack van elke markt is. Het is verfrissend, pittig, funky en verslavend — de perfecte balans van texturen en smaken.",
+      "detailed_ingredients": [
+        {
+          "name": "青木瓜",
+          "purpose": "Levert knapperige textuur en milde smaak die de dressing opneemt",
+          "substitutes": [
+            "Groene mango",
+            "Komkommer-wortelmix",
+            "Koolrabi",
+            "Groene appel voor zoetheid"
+          ]
+        },
+        {
+          "name": "Pla Ra（发酵鱼露）",
+          "purpose": "Het funky umami-hart van de Isaan-stijl Som Tam",
+          "substitutes": [
+            "Vis sauce (mildere smaak)",
+            "Garnalenpasta",
+            "Ansjovis",
+            "Sojasaus voor de vegetarische versie"
+          ]
+        },
+        {
+          "name": "泰国辣椒",
+          "purpose": "Brengt de pittigheid die deze salade legendarisch maakt",
+          "substitutes": [
+            "Serrano-peper",
+            "Bird's Eye Chilis",
+            "Jalapeños (veel milder)"
+          ]
+        }
+      ],
+      "cooking_method": {
+        "technique": "Stampen in de kleien vijzel (Khrok)",
+        "steps_overview": "De magie gebeurt in de vijzel. Elke ingrediënt wordt gestampt, niet geplet, waardoor aroma's vrijkomen en de textuur behouden blijft. De volgorde van stampen is belangrijk — eerst knoflook en chilis, dan specerijen, tot slot de papaya, terwijl je met een lepel roert.",
+        "cooking_tips": [
+          "Gebruik een kleien vijzel, geen houten — hij grijpt de ingrediënten beter",
+          "Stampen en vouwen, niet pletten — de textuur behouden",
+          "Continu proeven en aanpassen — elke portie is uniek",
+          "De papaya moet gestampt zijn, maar nog knapperig",
+          "Maak het pittiger dan je denkt — de zoetheid balanceert het uit"
+        ]
+      },
+      "cultural_significance": {
+        "origin_story": "Ontstaan in Laos en verspreid door heel Isaan (Noord-Oost-Thailand). Landelijke gemeenschappen creëerden het als manier om onrijpe papaya te gebruiken en vis te conserveren. Het gerecht belichaamt de vindingrijkheid van de Isaan-bevolking.",
+        "cultural_importance": "Som Tam is meer dan eten — het is een sociaal ritueel. Groepen verzamelen zich rond de Som Tam-verkoopster, passen hun bestelling aan en delen borden. Het is het meest bestelde gerecht in Thailand, dagelijks gegeten door miljoenen.",
+        "traditional_occasions": [
+          "Lunch-basis met kleefrijst",
+          "Begeleider bij bier",
+          "Oogstfeesten",
+          "Tempelfestivals"
+        ]
+      },
+      "variations": [
+        {
+          "name": "Som Tam Thai",
+          "description": "De 'veilige' versie met gedroogde garnalen, pinda's en vis sauce"
+        },
+        {
+          "name": "Som Tam Poo Pla Ra",
+          "description": "Isaan-stijl met gefermenteerde vis en veldkrabben — voor dappere zielen"
+        },
+        {
+          "name": "Som Tam Ponlamai",
+          "description": "Fruitsalade-versie met appels, druiven en pinda's"
+        }
+      ],
+      "serving_suggestions": {
+        "traditional_accompaniments": [
+          "Jasmijnrijst",
+          "Verse groenten"
+        ],
+        "presentation": "Warm geserveerd in de traditionele Thaise stijl",
+        "eating_etiquette": "Gegeten met vork en lepel"
+      },
+      "where_to_find": {
+        "best_restaurants": [
+          "Som Tam Nua (Bangkok) — Moderne keten van Isaan-restaurants",
+          "Laab Ubon (Bangkok) — Authentieke Isaan-smaken",
+          "Elk Isaan-restaurant met plastic krukjes"
+        ],
+        "street_food_areas": [
+          "Soi 38 Night Market, Bangkok",
+          "JJ Green Night Market",
+          "Elke bouwplaats tijdens de lunchtijd (volg de arbeiders)"
+        ]
+      },
+      "translated_at": "2026-03-11T00:00:00.000Z"
+    },
+    "ru": {
+      "enhanced_description": "Som Tam (groene papayasalade) is Isaans geschenk aan de wereld — een explosieve combinatie van aroma's die alle smaakpapillen tegelijkertijd aanvalt. Deze gestampte salade ontstond in Laos en Noord-Oost-Thailand, waar het ritmische 'Pok Pok' van vijzel en stamper de soundtrack van elke markt is. Het is verfrissend, pittig, funky en verslavend — de perfecte balans van texturen en smaken.",
+      "detailed_ingredients": [
+        {
+          "name": "Зелёная папайя",
+          "purpose": "Levert knapperige textuur en milde smaak die de dressing opneemt",
+          "substitutes": [
+            "Groene mango",
+            "Komkommer-wortelmix",
+            "Koolrabi",
+            "Groene appel voor zoetheid"
+          ]
+        },
+        {
+          "name": "Пла Ра (ферментированная рыба)",
+          "purpose": "Het funky umami-hart van de Isaan-stijl Som Tam",
+          "substitutes": [
+            "Vis sauce (mildere smaak)",
+            "Garnalenpasta",
+            "Ansjovis",
+            "Sojasaus voor de vegetarische versie"
+          ]
+        },
+        {
+          "name": "Тайский перец чили",
+          "purpose": "Brengt de pittigheid die deze salade legendarisch maakt",
+          "substitutes": [
+            "Serrano-peper",
+            "Bird's Eye Chilis",
+            "Jalapeños (veel milder)"
+          ]
+        }
+      ],
+      "cooking_method": {
+        "technique": "Stampen in de kleien vijzel (Khrok)",
+        "steps_overview": "De magie gebeurt in de vijzel. Elke ingrediënt wordt gestampt, niet geplet, waardoor aroma's vrijkomen en de textuur behouden blijft. De volgorde van stampen is belangrijk — eerst knoflook en chilis, dan specerijen, tot slot de papaya, terwijl je met een lepel roert.",
+        "cooking_tips": [
+          "Gebruik een kleien vijzel, geen houten — hij grijpt de ingrediënten beter",
+          "Stampen en vouwen, niet pletten — de textuur behouden",
+          "Continu proeven en aanpassen — elke portie is uniek",
+          "De papaya moet gestampt zijn, maar nog knapperig",
+          "Maak het pittiger dan je denkt — de zoetheid balanceert het uit"
+        ]
+      },
+      "cultural_significance": {
+        "origin_story": "Ontstaan in Laos en verspreid door heel Isaan (Noord-Oost-Thailand). Landelijke gemeenschappen creëerden het als manier om onrijpe papaya te gebruiken en vis te conserveren. Het gerecht belichaamt de vindingrijkheid van de Isaan-bevolking.",
+        "cultural_importance": "Som Tam is meer dan eten — het is een sociaal ritueel. Groepen verzamelen zich rond de Som Tam-verkoopster, passen hun bestelling aan en delen borden. Het is het meest bestelde gerecht in Thailand, dagelijks gegeten door miljoenen.",
+        "traditional_occasions": [
+          "Lunch-basis met kleefrijst",
+          "Begeleider bij bier",
+          "Oogstfeesten",
+          "Tempelfestivals"
+        ]
+      },
+      "variations": [
+        {
+          "name": "Som Tam Thai",
+          "description": "De 'veilige' versie met gedroogde garnalen, pinda's en vis sauce"
+        },
+        {
+          "name": "Som Tam Poo Pla Ra",
+          "description": "Isaan-stijl met gefermenteerde vis en veldkrabben — voor dappere zielen"
+        },
+        {
+          "name": "Som Tam Ponlamai",
+          "description": "Fruitsalade-versie met appels, druiven en pinda's"
+        }
+      ],
+      "serving_suggestions": {
+        "traditional_accompaniments": [
+          "Jasmijnrijst",
+          "Verse groenten"
+        ],
+        "presentation": "Warm geserveerd in de traditionele Thaise stijl",
+        "eating_etiquette": "Gegeten met vork en lepel"
+      },
+      "where_to_find": {
+        "best_restaurants": [
+          "Som Tam Nua (Bangkok) — Moderne keten van Isaan-restaurants",
+          "Laab Ubon (Bangkok) — Authentieke Isaan-smaken",
+          "Elk Isaan-restaurant met plastic krukjes"
+        ],
+        "street_food_areas": [
+          "Soi 38 Night Market, Bangkok",
+          "JJ Green Night Market",
+          "Elke bouwplaats tijdens de lunchtijd (volg de arbeiders)"
+        ]
+      },
+      "translated_at": "2026-03-11T00:00:00.000Z"
+    },
+    "ko": {
+      "enhanced_description": "Som Tam (papayasalade) is Isaans geschenk aan de wereld — een explosieve combinatie van smaken die alle smaakpapillen tegelijkertijd aanvalt. Deze gestampte salade ontstond in Laos en Noord-Oost-Thailand, waar het ritmische 'Pok Pok' van vijzel en stamper de soundtrack van elke markt is. Het is verfrissend, pittig, intens en verslavend — de perfecte balans van texturen en smaken.",
+      "detailed_ingredients": [
+        {
+          "name": "덜 익은 파파야",
+          "purpose": "Levert knapperige textuur en milde smaak die de dressing opneemt",
+          "substitutes": [
+            "Onrijpe mango",
+            "Komkommer-wortelmix",
+            "Koolrabi",
+            "Groene appel (voor een vleugje zoetheid)"
+          ]
+        },
+        {
+          "name": "쁠라라 (발효 생선)",
+          "purpose": "Het intense umami-hart van de Isaan-stijl Som Tam — ingrediënt dat unieke gefermenteerde smaken toevoegt",
+          "substitutes": [
+            "Vis sauce (mildere smaak)",
+            "Garnalenpasta",
+            "Ansjovis",
+            "Sojasaus (voor vegetarisch)"
+          ]
+        },
+        {
+          "name": "쥐눈이 고추 (프릭키누)",
+          "purpose": "Brengt de intense pittigheid die deze salade legendarisch maakt",
+          "substitutes": [
+            "Serrano-peper",
+            "Bird's Eye Chilis",
+            "Jalapeños (veel milder)"
+          ]
+        }
+      ],
+      "cooking_method": {
+        "technique": "Stampen in de kleien vijzel (Khrok)",
+        "steps_overview": "De magie gebeurt in de vijzel. Plet elke ingrediënt niet, maar 'lichtjes wrijf' om de smaak te extraheren terwijl de textuur behouden blijft. De volgorde van pletten is belangrijk — knoflook en chili eerst, dan de kruiden, en tot slot de papaja toevoegen en met een lepel omdraaien terwijl je plett.",
+        "cooking_tips": [
+          "Gebruik een aardewerken vijzel, geen houten — die grijpt de ingrediënten beter vast",
+          "Plet maar moes er niet van — behoud de textuur",
+          "Proef voortdurend en pas aan — elke batch smaakt anders",
+          "De papaja moet licht beschadigd zijn maar nog steeds knapperig",
+          "Maak het heter dan je denkt — de zoetheid brengt balans"
+        ]
+      },
+      "cultural_significance": {
+        "origin_story": "Het begon in Laos en verspreidde zich over heel Isaan (Noordoost-Thailand). Landelijke gemeenschappen maakten het om onrijpe papaja te gebruiken en vis te conserveren, en het vertegenwoordigt de creativiteit en vindingrijkheid van de Isaan-mensen.",
+        "cultural_importance": "Som tam is meer dan alleen eten — het is een sociale ritueel. Mensen verzamelen zich rond som tam-kraampjes, bestellen op maat en delen samen. Het is het meest bestelde gerecht in Thailand, dat dagelijks door miljoenen wordt gegeten.",
+        "traditional_occasions": [
+          "Basis lunchmenu met kleefrijst",
+          "Biertje erbij",
+          "Oogstfeesten",
+          "Tempelgebeurtenissen"
+        ]
+      },
+      "variations": [
+        {
+          "name": "쏨땀 타이",
+          "description": "'Veilige' versie met gedroogde garnalen, pinda's en vissaus — de meest aanbevolen stijl voor buitenlanders."
+        },
+        {
+          "name": "쏨땀 뿌 쁠라라",
+          "description": "Isaan-authentieke stijl met gefermenteerde vis (pla ra) en rijstveldkrabben (puu) — voor dappere smaakpapillen."
+        },
+        {
+          "name": "쏨땀 뽄라마이",
+          "description": "Fruit saladeversie met appel, druiven en pinda's."
+        }
+      ],
+      "serving_suggestions": {
+        "traditional_accompaniments": [
+          "Kleefrijst (khao niao) — essentieel",
+          "Geroosterde kip op houtskool (gai yang)",
+          "Verse groenten (kool, sperziebonen, basilicum)"
+        ],
+        "presentation": "Direct uit de vijzel op het bord serveren",
+        "eating_etiquette": "Vorm de kleefrijst tot balletjes en dip in de som tam, of eet met vork en lepel. De pittigheid pas je aan bij het bestellen door het aantal chili's."
+      },
+      "where_to_find": {
+        "best_restaurants": [
+          "Som Tam Nua (Bangkok) — Moderne Isaan-restaurantketen",
+          "Laab Ubon (Bangkok) — Authentieke Isaan-smaken",
+          "Elk Isaan-restaurant met plastic stoelen"
+        ],
+        "street_food_areas": [
+          "Soi 38 Nachtmarkt, Bangkok",
+          "JJ Green Nachtmarkt",
+          "Elke bouwplaats tijdens lunchtijd (volg de arbeiders)"
+        ]
+      },
+      "translated_at": "2026-03-14T00:00:00.000Z"
+    },
+    "th": {
+      "enhanced_description": "Som tam is een wereldberoemde Thaise salade. Onrijpe papaja wordt geraspt en geplet in een vijzel met tomaat, pinda's, limoensap, vissaus en chili. Zuur, pittig, zout en zoet — een complete smaakbom. Het is een Isaan-gerecht dat nationaal icoon werd.",
+      "detailed_ingredients": [
+        {
+          "name": "Green Papaya",
+          "purpose": "Biedt knapperige textuur en milde smaak die de dressing opneemt",
+          "substitutes": [
+            "Groene mango",
+            "Komkommer en wortel mix",
+            "Koolrabi",
+            "Groene appel voor zoetheid"
+          ]
+        },
+        {
+          "name": "Pla Ra (Fermented Fish)",
+          "purpose": "De funky, umami kern van Isaan-stijl som tam",
+          "substitutes": [
+            "Vissaus (mildere smaak)",
+            "Garnalenpasta",
+            "Ansjovis",
+            "Sojasaus voor vegetarisch"
+          ]
+        },
+        {
+          "name": "Thai Chilies",
+          "purpose": "Brengt de hitte die deze salade legendarisch maakt",
+          "substitutes": [
+            "Serrano pepers",
+            "Bird's eye chilies",
+            "Jalapeños (veel milder)"
+          ]
+        }
+      ],
+      "cooking_method": {
+        "technique": "Plet in een aardewerken vijzel (khrok)",
+        "steps_overview": "Plet de kruiden één voor één in de vijzel: begin met knoflook en chili, voeg dan pinda's, tomaat en onrijpe papaja toe. Breng op smaak met vissaus, limoensap en palmsuiker.",
+        "cooking_tips": [
+          "Gebruik een aardewerken vijzel, geen hout — het grijpt ingrediënten beter",
+          "Plet en vouw, moes niet — behoud de textuur",
+          "Proef voortdurend en pas aan — elke batch is uniek",
+          "De papaja moet beurs zijn maar nog knapperig",
+          "Maak het pittiger dan je denkt — de zoetheid balanceert het"
+        ]
+      },
+      "cultural_significance": {
+        "origin_story": "Som tam vindt zijn oorsprong in het Isaan-gebied van Thailand. Het is een lokaal boerengerecht gemaakt van lokale ingrediënten. Tegenwoordig is het een nationaal gerecht dat de hele wereld kent.",
+        "cultural_importance": "Som tam belichaamt de geest van Thaise keuken — een perfecte mix van contrasterende smaken in één bord.",
+        "traditional_occasions": [
+          "Lunchbasis met kleefrijst",
+          "Drinkvoer met bier",
+          "Oogstvieringen",
+          "Tempelfestivals"
+        ]
+      },
+      "variations": [
+        {
+          "name": "Som Tam Thai",
+          "description": "De 'veilige' versie met gedroogde garnalen, pinda's en vissaus"
+        },
+        {
+          "name": "Som Tam Poo Pla Ra",
+          "description": "Isaan-stijl met gefermenteerde vis en veldkrabben — voor dappere zielen"
+        },
+        {
+          "name": "Som Tam Ponlamai",
+          "description": "Fruit saladeversie met appels, druiven en pinda's"
+        }
+      ],
+      "serving_suggestions": {
+        "traditional_accompaniments": [
+          "Jasmijnrijst",
+          "Verse groenten"
+        ],
+        "presentation": "Serveren in traditionele Thaise warme stijl",
+        "eating_etiquette": "Eten met vork en lepel"
+      },
+      "where_to_find": {
+        "best_restaurants": [
+          "Som Tam Nua (Bangkok) — Moderne Isaan-restaurantketen",
+          "Laab Ubon (Bangkok) — Authentieke Isaan-smaken",
+          "Elk Isaan-restaurant met plastic stoelen"
+        ],
+        "street_food_areas": [
+          "Soi 38 Night Market, Bangkok",
+          "JJ Green Night Market",
+          "Elke bouwplaats tijdens lunch (volg de arbeiders)"
+        ],
+        "price_ranges": {
+          "street_food": "30-50 THB (€0,83-€1,38)",
+          "restaurant": "60-120 THB (€1,66-€3,31)",
+          "upscale": "150-300 THB (€4,14-€8,28)"
+        }
+      },
+      "translated_at": "2026-03-14T00:00:00.000Z"
+    },
+    "ja": {
+      "enhanced_description": "Som Tam (groene papajasalade) is een van de gerechten die Isaan aan de wereld heeft gegeven. Een explosieve combinatie van smaken die je smaakpapillen tegelijkertijd prikkelt. Deze geplette salade vindt zijn oorsprong in Laos en Noord-Oost-Thailand, waar het ritmische 'pok pok'-geluid van vijzel en stamper de soundtrack van de markten vormt. Verfrissend pittig, funky verslavend, met perfecte balans tussen textuur en smaak.",
+      "detailed_ingredients": [
+        {
+          "name": "Green Papaya（グリーンパパイヤ）",
+          "purpose": "Biedt knapperige textuur en milde smaak die de dressing opneemt",
+          "substitutes": [
+            "Groene mango",
+            "Komkommer en wortel mengsel",
+            "Koolrabi",
+            "Groene appel voor zoetheid"
+          ]
+        },
+        {
+          "name": "Pla Ra（プラ・ラー／発酵魚）",
+          "purpose": "De funky umami kern van Isaan-stijl som tam",
+          "substitutes": [
+            "Vissaus (mildere smaak)",
+            "Garnalenpasta",
+            "Ansjovis",
+            "Sojasaus voor vegetariërs"
+          ]
+        },
+        {
+          "name": "Thai Chilies（タイ唐辛子）",
+          "purpose": "Brengt de legendarische pittigheid van deze salade",
+          "substitutes": [
+            "Serrano pepers",
+            "Bird's eye chilies",
+            "Jalapeños (veel milder)"
+          ]
+        }
+      ],
+      "cooking_method": {
+        "technique": "Plettechniek in een aardewerken vijzel (khrok)",
+        "steps_overview": "In de vijzel gebeurt de magie. Plet de ingrediënten niet te hard, maar lichtjes om de smaak te extraheren terwijl de textuur behouden blijft. De volgorde is belangrijk: eerst knoflook en chili, dan de smaakmakers, en tot slot papaja toevoegen en met een lepel mengen terwijl je plett.",
+        "cooking_tips": [
+          "Gebruik een aardewerken vijzel, niet van hout — grijpt ingrediënten beter vast",
+          "Plet en vouw, niet moes maken — behoud de textuur",
+          "Proef altijd en pas aan — elke batch verschilt in smaak",
+          "Papaja licht beurs maar nog met bite",
+          "Maak het heter dan je denkt — zoetheid brengt balans"
+        ]
+      },
+      "cultural_significance": {
+        "origin_story": "Oorsprong in Laos, verspreid over heel Isaan (Oost-Noord-Thailand). Landelijke gemeenschappen creëerden het om onrijpe papaja te gebruiken en vis te bewaren. Dit gerecht symboliseert de vindingrijkheid en taaiheid van de Isaan-mensen.",
+        "cultural_importance": "Som tam is meer dan eten — een sociale ritueel. Mensen verzamelen rond kraampjes, passen bestellingen aan en delen borden. Het meest bestelde gerecht in Thailand, dagelijks gegeten door miljoenen.",
+        "traditional_occasions": [
+          "Lunchklassieker met kleefrijst",
+          "Bierhapje",
+          "Oogstfeesten",
+          "Tempelfestivals"
+        ]
+      },
+      "variations": [
+        {
+          "name": "Som Tam Thai",
+          "description": "'Veilige' versie met gedroogde garnalen, pinda's en vissaus"
+        },
+        {
+          "name": "Som Tam Poo Pla Ra",
+          "description": "Isaan-stijl met gefermenteerde vis en veldkrabben — voor moedigen"
+        },
+        {
+          "name": "Som Tam Ponlamai",
+          "description": "Fruit saladeversie met appel, druiven en pinda's"
+        }
+      ],
+      "serving_suggestions": {
+        "traditional_accompaniments": [
+          "Jasmijnrijst",
+          "Verse groenten"
+        ],
+        "presentation": "Serveren warm in traditionele Thaise stijl",
+        "eating_etiquette": "Genieten met vork en lepel"
+      },
+      "where_to_find": {
+        "best_restaurants": [
+          "Som Tam Nua (Bangkok) — Moderne Isaan-keten",
+          "Laab Ubon (Bangkok) — Authentieke Isaan-smaken",
+          "Elk Isaan-restaurant met plastic stoelen"
+        ],
+        "street_food_areas": [
+          "Soi 38 Night Market, Bangkok",
+          "JJ Green Night Market",
+          "Elke bouwplaats tijdens lunch (volg de arbeiders)"
+        ],
+        "price_ranges": {
+          "street_food": "30-50 THB (€0,83-€1,38)",
+          "restaurant": "60-120 THB (€1,66-€3,31)",
+          "upscale": "150-300 THB (€4,14-€8,28)"
+        }
+      },
+      "translated_at": "2026-03-14T00:00:00.000Z"
+    }
+  }
+}

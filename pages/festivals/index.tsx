@@ -176,15 +176,13 @@ export default function FestivalsPage() {
         {/* Hero */}
         <header className="mt-6 mb-12">
           <p className="text-sm font-bold uppercase tracking-widest text-blue-600 mb-3">
-            Thailand Festival Calendar 2026
+            {t("s001_thailand_festival_calendar_2026")}
           </p>
           <h1 className="text-4xl sm:text-5xl font-bold font-heading text-gray-900 leading-tight">
-            Every Festival Worth Planning a Trip Around
+            {t("s002_every_festival_worth_planning")}
           </h1>
           <p className="mt-4 text-lg text-gray-600 max-w-3xl leading-relaxed">
-            Thailand celebrates dozens of festivals throughout the year — from the world-famous
-            Songkran water fight to ghost parades in remote Isan villages. This guide covers every
-            major festival in 2026 with exact dates, locations, and what to expect when you get there.
+            {t("s003_thailand_celebrates_dozens_of")}
           </p>
         </header>
 
@@ -228,8 +226,7 @@ export default function FestivalsPage() {
         <section className="mb-16">
           <h2 className="text-3xl font-bold font-heading mb-2">{t("s002_the_big_three_festivals")}</h2>
           <p className="text-gray-600 mb-8 max-w-2xl">
-            If you can only plan your trip around one festival, make it one of these. They're the most
-            visually spectacular, most accessible, and most culturally significant celebrations in the country.
+            {t("s004_if_you_can_only")}
           </p>
 
           <div className="grid gap-6 md:grid-cols-3">
@@ -252,7 +249,7 @@ export default function FestivalsPage() {
                   </ul>
                   {f.blogSlug && (
                     <Link href={`/blog/${f.blogSlug}`} className="inline-flex items-center gap-1.5 text-sm font-semibold text-blue-600 hover:text-blue-700">
-                      Read the full guide →
+                      {t("s005_read_the_full_guide")}
                     </Link>
                   )}
                 </div>
@@ -265,8 +262,7 @@ export default function FestivalsPage() {
         <section className="mb-16">
           <h2 className="text-3xl font-bold font-heading mb-2">{t("s003_month_by_month_festival")}</h2>
           <p className="text-gray-600 mb-8 max-w-2xl">
-            Plan your Thailand trip around the festivals that interest you most.
-            Each month has something worth seeing.
+            {t("s006_plan_your_thailand_trip")}
           </p>
 
           <div className="space-y-6">
@@ -318,31 +314,25 @@ export default function FestivalsPage() {
             <div>
               <h3 className="font-bold text-gray-900 mb-2">{t("s005_book_early")}</h3>
               <p className="text-sm text-gray-600 leading-relaxed">
-                Accommodation near major festivals books out weeks in advance. Songkran in Chiang Mai,
-                Yi Peng, and Vegetarian Festival in Phuket are especially competitive. Book at least
-                a month ahead for the best rates.
+                {t("s007_accommodation_near_major_festivals")}
               </p>
             </div>
             <div>
               <h3 className="font-bold text-gray-900 mb-2">{t("s006_alcohol_bans")}</h3>
               <p className="text-sm text-gray-600 leading-relaxed">
-                Buddhist holy days (Makha Bucha, Visakha Bucha, Asanha Bucha) have nationwide
-                alcohol sales bans. Bars and restaurants won't serve alcohol. Stock up the day before if needed.
+                {t("s008_buddhist_holy_days_makha")}
               </p>
             </div>
             <div>
               <h3 className="font-bold text-gray-900 mb-2">{t("s007_temple_etiquette")}</h3>
               <p className="text-sm text-gray-600 leading-relaxed">
-                Cover shoulders and knees at temples. Remove shoes before entering buildings.
-                Don't point your feet at Buddha images. Dress respectfully — this is especially
-                important during religious festivals.
+                {t("s009_cover_shoulders_and_knees")}
               </p>
             </div>
             <div>
               <h3 className="font-bold text-gray-900 mb-2">{t("s008_transport_chaos")}</h3>
               <p className="text-sm text-gray-600 leading-relaxed">
-                Major festivals cause massive traffic. Songkran week sees millions travel between
-                Bangkok and their home provinces. Book <Link href="/transport" className="text-blue-600 hover:underline">buses and trains</Link> early,
+                {t("s010_major_festivals_cause_massive")} <Link href="/transport" className="text-blue-600 hover:underline">buses and trains</Link> early,
                 and expect delays during peak festival days.
               </p>
             </div>
@@ -379,32 +369,32 @@ export default function FestivalsPage() {
           <ul className="space-y-1.5 text-sm text-gray-500">
             <li>
               <a href="https://www.tatnews.org/2026/03/songkran-festival-2026-to-proceed-nationwide-welcoming-global-visitors-to-thailands-unesco-recognised-new-year-celebration/" target="_blank" rel="noopener noreferrer" className="hover:text-blue-600">
-                TAT Newsroom — Songkran Festival 2026
+                {t("s011_tat_newsroom_songkran_festival")}
               </a>
             </li>
             <li>
               <a href="https://www.thailandroutes.com/en/thailand-festival-calendar-2026-a-complete-guide-to-the-countrys-most-iconic-celebrations/" target="_blank" rel="noopener noreferrer" className="hover:text-blue-600">
-                Thailand Routes — Festival Calendar 2026
+                {t("s012_thailand_routes_festival_calendar")}
               </a>
             </li>
             <li>
               <a href="https://www.chiangraitimes.com/learning/thailand-culture-festivals-in-2026/" target="_blank" rel="noopener noreferrer" className="hover:text-blue-600">
-                Chiang Rai Times — Thailand Culture Festivals 2026
+                {t("s013_chiang_rai_times_thailand")}
               </a>
             </li>
             <li>
               <a href="https://expatsthai.com/culture/thai-festivals" target="_blank" rel="noopener noreferrer" className="hover:text-blue-600">
-                Expats Thailand — Thai Festivals Calendar
+                {t("s014_expats_thailand_thai_festivals")}
               </a>
             </li>
             <li>
               <a href="https://www.carnifest.com/phi-ta-khon-festival-2026/" target="_blank" rel="noopener noreferrer" className="hover:text-blue-600">
-                Carnifest — Phi Ta Khon Festival 2026
+                {t("s015_carnifest_phi_ta_khon")}
               </a>
             </li>
             <li>
               <a href="https://thecoloursofthailand.com/explore-thailand/thailand-events-and-festivals-2026/" target="_blank" rel="noopener noreferrer" className="hover:text-blue-600">
-                The Colours of Thailand — Events and Festivals 2026
+                {t("s016_the_colours_of_thailand")}
               </a>
             </li>
           </ul>

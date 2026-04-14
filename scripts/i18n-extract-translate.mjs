@@ -49,6 +49,11 @@ const FILE = getArg('--file');
 const DRY_RUN = args.includes('--dry-run');
 const VERBOSE = args.includes('--verbose');
 const SLUG_OVERRIDE = getArg('--slug');
+// --merge: file was already partly i18n'd. Skip the `const t` conflict guard,
+// reuse the existing lib/i18n/<slug>.ts strings, and only translate + patch
+// strings that are NEW since the last run. Essential when you re-run after
+// tightening the regex (e.g. to catch multi-line JSX text nodes).
+const MERGE = args.includes('--merge');
 
 if (!FILE) { console.error('Pass --file <path/to/file.tsx>'); process.exit(1); }
 
@@ -57,11 +62,19 @@ if (!fs.existsSync(filePath)) { console.error(`File not found: ${filePath}`); pr
 
 // Abort early if file already binds `t` via its own i18n framework (e.g. useTranslation).
 // Our replacement would redeclare `t` and break compilation.
+// With --merge: allow `const t = useT(i18nStrings)` (that is OUR marker from a
+// previous run — we just want to catch newly-matched strings).
 const preCheck = fs.readFileSync(filePath, 'utf8');
-if (/useTranslation\s*\(/.test(preCheck)
-  || /const\s*\{\s*t\s*[,}]/.test(preCheck)
-  || /const\s+t\s*=\s*(?!useT\(i18nStrings\))/.test(preCheck)) {
-  console.log(`Skipping ${FILE} — already declares \`t\` locally (or via useTranslation).`);
+if (!MERGE) {
+  if (/useTranslation\s*\(/.test(preCheck)
+    || /const\s*\{\s*t\s*[,}]/.test(preCheck)
+    || /const\s+t\s*=\s*(?!useT\(i18nStrings\))/.test(preCheck)) {
+    console.log(`Skipping ${FILE} — already declares \`t\` locally (or via useTranslation).`);
+    process.exit(0);
+  }
+} else if (/useTranslation\s*\(/.test(preCheck)
+  || /const\s*\{\s*t\s*[,}]/.test(preCheck)) {
+  console.log(`Skipping ${FILE} — uses foreign \`t\` (useTranslation); --merge cannot help.`);
   process.exit(0);
 }
 
@@ -113,9 +126,10 @@ const MAX_LEN = 900;          // Cap to avoid catching huge blocks
 
 const candidates = [];
 
-// 1. JSX text nodes: between > and <, not containing <, >, { or }
-//    Pattern: `>([^<>{}]{MIN..MAX})<`
-const jsxTextRegex = />([^<>{}\n][^<>{}]{0,900})</g;
+// 1. JSX text nodes: between > and <, not containing <, >, { or }.
+//    Multi-line text (e.g. hero paragraphs that wrap over several lines) is
+//    captured — we only break on tag or expression boundaries, not on newlines.
+const jsxTextRegex = />([^<>{}][^<>{}]{0,900})</g;
 
 for (const m of source.matchAll(jsxTextRegex)) {
   const raw = m[1];
@@ -231,6 +245,36 @@ for (const c of final) {
   else c.key = valueToKey.get(c.value);
 }
 
+// --- Merge with existing lib/i18n/<slug>.ts ---
+// Read existing file (if any) to harvest keys we already translated. In
+// --merge mode we skip re-translating those values and reuse their keys when
+// patching the source (so newly-found spots referring to existing strings do
+// not create duplicate entries).
+const existingEn = {};
+const existingNl = {};
+if (fs.existsSync(i18nFile)) {
+  const src = fs.readFileSync(i18nFile, 'utf8');
+  // Naive but robust enough: match "key": "value" pairs inside en/nl blocks.
+  const enBlock = src.match(/en:\s*\{([\s\S]*?)\n\s*\},/);
+  const nlBlock = src.match(/nl:\s*\{([\s\S]*?)\n\s*\},/);
+  const pairRegex = /"([^"\\]+)"\s*:\s*"((?:[^"\\]|\\.)*)"/g;
+  if (enBlock) for (const m of enBlock[1].matchAll(pairRegex)) existingEn[m[1]] = JSON.parse(`"${m[2]}"`);
+  if (nlBlock) for (const m of nlBlock[1].matchAll(pairRegex)) existingNl[m[1]] = JSON.parse(`"${m[2]}"`);
+}
+const existingValueToKey = new Map(Object.entries(existingEn).map(([k, v]) => [v, k]));
+
+// Rewrite candidate keys: if this exact value already has a key in the existing
+// strings file, reuse it instead of generating a new s### key.
+for (const c of final) {
+  if (existingValueToKey.has(c.value)) c.key = existingValueToKey.get(c.value);
+}
+// Refresh valueToKey with any reused keys, then re-dedupe.
+valueToKey.clear();
+for (const c of final) {
+  if (!valueToKey.has(c.value)) valueToKey.set(c.value, c.key);
+  else c.key = valueToKey.get(c.value);
+}
+
 // --- Translation via Grok ---
 
 const client = new OpenAI({
@@ -286,30 +330,52 @@ async function translateStrings(strings) {
   };
 }
 
-// Unique values only for translation (since we dedupe keys by value)
+// Unique values only for translation — skip anything we already have an NL
+// value for in the existing strings file (merge mode).
 const uniqueValues = [];
 const seenValues = new Set();
 for (const c of final) {
-  if (!seenValues.has(c.value)) { seenValues.add(c.value); uniqueValues.push({ value: c.value }); }
+  if (seenValues.has(c.value)) continue;
+  seenValues.add(c.value);
+  if (existingValueToKey.has(c.value)) continue;    // already translated
+  uniqueValues.push({ value: c.value });
 }
 
-console.log(`Translating ${uniqueValues.length} unique strings (from ${final.length} occurrences) ...`);
-const { translations, usage } = await translateStrings(uniqueValues);
-console.log(`Tokens: ${usage.prompt_tokens}+${usage.completion_tokens}  ≈ $${((usage.prompt_tokens / 1e6) * 0.2 + (usage.completion_tokens / 1e6) * 0.5).toFixed(4)}`);
-
 const valueToNl = new Map();
-uniqueValues.forEach((u, i) => valueToNl.set(u.value, translations[i]));
+// Seed the map with existing NL translations so the writer can still emit them.
+for (const [val, key] of existingValueToKey.entries()) {
+  if (existingNl[key]) valueToNl.set(val, existingNl[key]);
+}
+
+let usage = { prompt_tokens: 0, completion_tokens: 0 };
+if (uniqueValues.length) {
+  console.log(`Translating ${uniqueValues.length} NEW unique strings (from ${final.length} occurrences, ${Object.keys(existingEn).length} reused from existing) ...`);
+  const r = await translateStrings(uniqueValues);
+  usage = r.usage;
+  r.translations.forEach((t, i) => valueToNl.set(uniqueValues[i].value, t));
+  console.log(`Tokens: ${usage.prompt_tokens}+${usage.completion_tokens}  ≈ $${((usage.prompt_tokens / 1e6) * 0.2 + (usage.completion_tokens / 1e6) * 0.5).toFixed(4)}`);
+} else {
+  console.log(`All ${final.length} strings already translated (nothing new).`);
+}
 
 // --- Produce lib/i18n/<slug>.ts ---
-
+// Include existing keys (so re-running doesn't drop translations) plus any
+// new keys discovered in this run.
 const enEntries = [];
 const nlEntries = [];
 const writtenKeys = new Set();
+// Preserve existing keys first (keeps ordering stable across runs).
+for (const [key, val] of Object.entries(existingEn)) {
+  writtenKeys.add(key);
+  enEntries.push(`  ${JSON.stringify(key)}: ${JSON.stringify(val)},`);
+  nlEntries.push(`  ${JSON.stringify(key)}: ${JSON.stringify(existingNl[key] ?? valueToNl.get(val) ?? val)},`);
+}
+// Append newly-found keys.
 for (const c of final) {
   if (writtenKeys.has(c.key)) continue;
   writtenKeys.add(c.key);
   enEntries.push(`  ${JSON.stringify(c.key)}: ${JSON.stringify(c.value)},`);
-  nlEntries.push(`  ${JSON.stringify(c.key)}: ${JSON.stringify(valueToNl.get(c.value))},`);
+  nlEntries.push(`  ${JSON.stringify(c.key)}: ${JSON.stringify(valueToNl.get(c.value) ?? c.value)},`);
 }
 
 const i18nSource = `// Auto-generated by scripts/i18n-extract-translate.mjs

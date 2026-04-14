@@ -1,0 +1,974 @@
+{
+  "id": 15,
+  "slug": "nam-prik-ong",
+  "name": {
+    "en": "Nam Prik Ong",
+    "nl": "Nam Prik Ong",
+    "thai": "น้ำพริกอ่อง"
+  },
+  "category": "hoofdgerecht",
+  "region": "noordelijk",
+  "spice_level": "gemiddeld",
+  "description": {
+    "en": "Tomato and minced pork chili dip served with vegetables",
+    "nl": "Tomaten-chili dip met varkensgehakt geserveerd met groenten"
+  },
+  "ingredients": [
+    "tomaten",
+    "varkensgehakt",
+    "sjalotten",
+    "knoflook",
+    "gedroogde chili",
+    "garnalenpasta"
+  ],
+  "allergens": [],
+  "dietary": [],
+  "image": "/images/food/nam-prik-ong.webp",
+  "preparation_time": "25 minuten",
+  "difficulty": "eenvoudig",
+  "price_range": "budget",
+  "seo": {
+    "metaTitle": {
+      "en": "Nam Prik Ong Recipe | Authentic Thai main dish",
+      "nl": "Nam Prik Ong Recept | Authentieke Thaise main dish"
+    },
+    "metaDescription": {
+      "en": "Learn about Nam Prik Ong (น้ำพริกอ่อง) - Tomato and minced pork chili dip served with vegetables...",
+      "nl": "Leer over Nam Prik Ong (น้ำพริกอ่อง) - Tomaten-chili dip met varkensgehakt geserveerd met groenten..."
+    }
+  },
+  "tags": [
+    "Thaise keuken",
+    "Thailand",
+    "hoofdgerecht",
+    "noordelijk",
+    "gemiddeld",
+    "eenvoudig",
+    "budget",
+    "tomaten",
+    "varkensgehakt",
+    "sjalotten"
+  ],
+  "cooking": {
+    "preparation_time": "25 minuten",
+    "difficulty": "eenvoudig",
+    "spice_level": "gemiddeld",
+    "serves": "2-4 personen"
+  },
+  "nutrition": {
+    "allergens": [],
+    "dietary": [],
+    "price_range": "budget"
+  },
+  "enhanced_description": "Nam Prik Ong is een geliefd stevig en smaakvol hoofdgerecht uit Noord-Thailand met een aangename pittige kick. Tomaten-chili dip met varkensgehakt geserveerd met groenten. Dit eenvoudige recept vergt ongeveer 25 minuten bereidingstijd en vertegenwoordigt de authentieke smaken van de Noord-Thaise keuken, gekenmerkt door mildere smaken, kleefrijst en kruiden. De combinatie van tomaten, varkensgehakt en sjalotten creëert een harmonieuze mix die dit gerecht tot een favoriet heeft gemaakt onder zowel locals als bezoekers. Perfect voor wie op zoek is naar betaalbare authentieke Thaise keuken.",
+  "detailed_ingredients": [
+    {
+      "name": "Tomatoes",
+      "purpose": "Essentieel voor de authentieke Nam Prik Ong smaak",
+      "substitutes": [
+        "Verse tomaten",
+        "Gedroogde tomaten",
+        "tomatenpuree"
+      ]
+    },
+    {
+      "name": "Minced pork",
+      "purpose": "Essentieel voor de authentieke Nam Prik Ong smaak",
+      "substitutes": [
+        "Vers varkensgehakt",
+        "Gedroogd varkensgehakt",
+        "varkensgehaktpasta"
+      ]
+    },
+    {
+      "name": "Shallots",
+      "purpose": "Essentieel voor de authentieke Nam Prik Ong smaak",
+      "substitutes": [
+        "Verse sjalotten",
+        "Gedroogde sjalotten",
+        "sjalottenpasta"
+      ]
+    },
+    {
+      "name": "Garlic",
+      "purpose": "Essentieel voor de authentieke Nam Prik Ong smaak",
+      "substitutes": [
+        "Verse knoflook",
+        "Gedroogde knoflook",
+        "knoflookpasta"
+      ]
+    }
+  ],
+  "cooking_method": {
+    "technique": "Roerbakken of grillen",
+    "steps_overview": "Het bereiden van Nam Prik Ong vereist aandacht voor detail en goede timing. De sleutel is het balanceren van alle smaken terwijl de textuur van elk ingrediënt behouden blijft. Traditionele methoden die van generatie op generatie zijn doorgegeven, garanderen een authentieke smaak.",
+    "cooking_tips": [
+      "Gebruik verse tomaten voor het beste resultaat",
+      "Pas het pittigheidsgehalte aan naar je voorkeur",
+      "Kook niet te lang om de textuur te behouden",
+      "Proef en pas de kruiding aan voor het serveren"
+    ]
+  },
+  "cultural_significance": {
+    "origin_story": "Nam Prik Ong is al generaties lang een vast onderdeel van de Noord-Thaise keuken en weerspiegelt de unieke culinaire tradities en lokale ingrediënten van de regio.",
+    "cultural_importance": "Dit gerecht vertegenwoordigt het hart van de Noord-Thaise kookkunst en toont de balans en harmonie waarmee de Thaise keuken wereldwijd beroemd is.",
+    "traditional_occasions": [
+      "Familiebijeenkomsten",
+      "Lokale festivals",
+      "Straatvoedselmarkten",
+      "Bijzondere vieringen"
+    ]
+  },
+  "variations": [
+    {
+      "name": "Nam Prik Ong Classic",
+      "description": "De traditionele versie zoals geserveerd in lokale huishoudens"
+    },
+    {
+      "name": "Nam Prik Ong Modern",
+      "description": "Hedendaagse variant met premium ingrediënten"
+    },
+    {
+      "name": "Vegetarian Nam Prik Ong",
+      "description": "Plantaardige versie met tofu of paddenstoelen"
+    }
+  ],
+  "serving_suggestions": {
+    "traditional_accompaniments": [
+      "Jasmijnrijst",
+      "Verse groenten",
+      "Thaise kruiden"
+    ],
+    "presentation": "Geserveerd op een bord in traditionele Thaise stijl",
+    "eating_etiquette": "Genoten met vork en lepel volgens Thais gebruik"
+  },
+  "nutritional_info": {
+    "calories_per_serving": "300-500 calorieën",
+    "health_benefits": [
+      "Rijk aan Thaise kruiden en specerijen",
+      "Bron van eiwitten en groenten",
+      "Gebalanceerde smaken en voedingsstoffen"
+    ],
+    "dietary_notes": []
+  },
+  "where_to_find": {
+    "best_restaurants": [
+      "Lokale Noord-Thaise restaurants",
+      "Authentieke straatvoedselkramen",
+      "Traditionele markten",
+      "Familiegerunde eetgelegenheden"
+    ],
+    "street_food_areas": [
+      "Nachtmarkten",
+      "Ochtendverse markten",
+      "Lokale food courts"
+    ],
+    "price_ranges": {
+      "street_vendor": "30-50 THB",
+      "market_stall": "40-60 THB",
+      "restaurant": "60-100 THB"
+    }
+  },
+  "translations": {
+    "nl": {
+      "enhanced_description": "Nam Prik Ong is een geliefd stevig en smaakvol hoofdgerecht uit Noord-Thailand met een aangename pittige kick. Tomaten-chili dip met varkensgehakt geserveerd met groenten. Dit eenvoudige recept vergt ongeveer 25 minuten bereidingstijd en vertegenwoordigt de authentieke smaken van de Noord-Thaise keuken, gekenmerkt door mildere smaken, kleefrijst en kruiden. De combinatie van tomaten, varkensgehakt en sjalotten creëert een harmonieuze mix die dit gerecht tot een favoriet heeft gemaakt onder zowel locals als bezoekers. Perfect voor wie op zoek is naar betaalbare authentieke Thaise keuken.",
+      "detailed_ingredients": [
+        {
+          "name": "Tomaten",
+          "purpose": "Essentieel voor de authentieke Nam Prik Ong smaak",
+          "substitutes": [
+            "Verse tomaten",
+            "Gedroogde tomaten",
+            "Tomatenpuree"
+          ]
+        },
+        {
+          "name": "Varkensgehakt",
+          "purpose": "Essentieel voor de authentieke Nam Prik Ong smaak",
+          "substitutes": [
+            "Vers varkensgehakt",
+            "Kipgehakt",
+            "Tofu (voor vegetarische versie)"
+          ]
+        },
+        {
+          "name": "Sjalotten",
+          "purpose": "Essentieel voor de authentieke Nam Prik Ong smaak",
+          "substitutes": [
+            "Verse sjalotten",
+            "Gedroogde sjalotten",
+            "Rode ui"
+          ]
+        },
+        {
+          "name": "Knoflook",
+          "purpose": "Essentieel voor de authentieke Nam Prik Ong smaak",
+          "substitutes": [
+            "Verse knoflook",
+            "Gedroogde knoflook",
+            "Knoflookpasta"
+          ]
+        }
+      ],
+      "cooking_method": {
+        "technique": "Roerbakken en stampen",
+        "steps_overview": "Het bereiden van Nam Prik Ong vereist aandacht voor detail en goede timing. De sleutel is het balanceren van alle smaken terwijl de textuur van elk ingrediënt behouden blijft. Traditionele methoden die van generatie op generatie zijn doorgegeven, garanderen een authentieke smaak.",
+        "cooking_tips": [
+          "Gebruik verse tomaten voor het beste resultaat",
+          "Pas het pittigheidsgehalte aan naar je voorkeur",
+          "Kook niet te lang om de textuur te behouden",
+          "Proef en pas de kruiding aan voor het serveren"
+        ]
+      },
+      "cultural_significance": {
+        "origin_story": "Nam Prik Ong is al generaties lang een vast onderdeel van de Noord-Thaise keuken en weerspiegelt de unieke culinaire tradities en lokale ingrediënten van de regio.",
+        "cultural_importance": "Dit gerecht vertegenwoordigt het hart van de Noord-Thaise kookkunst en toont de balans en harmonie waarmee de Thaise keuken wereldwijd beroemd is.",
+        "traditional_occasions": [
+          "Familiebijeenkomsten",
+          "Lokale festivals",
+          "Straatvoedselmarkten",
+          "Bijzondere vieringen"
+        ]
+      },
+      "variations": [
+        {
+          "name": "Nam Prik Ong Klassiek",
+          "description": "De traditionele versie zoals geserveerd in lokale huishoudens"
+        },
+        {
+          "name": "Nam Prik Ong Modern",
+          "description": "Hedendaagse variant met premium ingrediënten"
+        },
+        {
+          "name": "Vegetarische Nam Prik Ong",
+          "description": "Plantaardige versie met tofu of paddenstoelen"
+        }
+      ],
+      "serving_suggestions": {
+        "traditional_accompaniments": [
+          "Jasmijnrijst",
+          "Verse groenten",
+          "Thaise kruiden"
+        ],
+        "presentation": "Geserveerd op een bord in traditionele Noord-Thaise stijl",
+        "eating_etiquette": "Gegeten met vork en lepel volgens Thais gebruik"
+      },
+      "where_to_find": {
+        "best_restaurants": [
+          "Lokale Noord-Thaise restaurants",
+          "Authentieke straatvoedselkramen",
+          "Traditionele markten",
+          "Familiebedrijfjes"
+        ],
+        "street_food_areas": [
+          "Nachtmarkten",
+          "Ochtendverse markten",
+          "Lokale food courts"
+        ]
+      },
+      "translated_at": "2026-03-10T00:00:00.000Z"
+    },
+    "fr": {
+      "enhanced_description": "Nam Prik Ong is een geliefd stevig en smaakvol hoofdgerecht uit Noord-Thailand met een aangename pittige kick. Tomaten-chili dip met varkensgehakt geserveerd met groenten. Dit eenvoudige recept vergt ongeveer 25 minuten bereidingstijd en vertegenwoordigt de authentieke smaken van de Noord-Thaise keuken, gekenmerkt door mildere smaken, kleefrijst en kruiden. De combinatie van tomaten, varkensgehakt en sjalotten creëert een harmonieuze mix die dit gerecht tot een favoriet heeft gemaakt onder zowel locals als bezoekers. Perfect voor wie op zoek is naar betaalbare authentieke Thaise keuken.",
+      "detailed_ingredients": [
+        {
+          "name": "Tomates",
+          "purpose": "Essentieel voor de authentieke Nam Prik Ong smaak",
+          "substitutes": [
+            "Verse tomaten",
+            "Gedroogde tomaten",
+            "Tomatenpuree"
+          ]
+        },
+        {
+          "name": "Porc haché",
+          "purpose": "Essentieel voor de authentieke Nam Prik Ong smaak",
+          "substitutes": [
+            "Vers varkensgehakt",
+            "Kipgehakt",
+            "Tofu (voor vegetarische versie)"
+          ]
+        },
+        {
+          "name": "Échalotes",
+          "purpose": "Essentieel voor de authentieke Nam Prik Ong smaak",
+          "substitutes": [
+            "Verse sjalotten",
+            "Gedroogde sjalotten",
+            "Rode ui"
+          ]
+        },
+        {
+          "name": "Ail",
+          "purpose": "Essentieel voor de authentieke Nam Prik Ong smaak",
+          "substitutes": [
+            "Verse knoflook",
+            "Gedroogde knoflook",
+            "Knoflookpasta"
+          ]
+        }
+      ],
+      "cooking_method": {
+        "technique": "Roerbakken en stampen",
+        "steps_overview": "Het bereiden van Nam Prik Ong vereist aandacht voor detail en goede timing. De sleutel is het balanceren van alle smaken terwijl de textuur van elk ingrediënt behouden blijft. Traditionele methoden die van generatie op generatie zijn doorgegeven, garanderen een authentieke smaak.",
+        "cooking_tips": [
+          "Gebruik verse tomaten voor het beste resultaat",
+          "Pas het pittigheidsgehalte aan naar je voorkeur",
+          "Kook niet te lang om de textuur te behouden",
+          "Proef en pas de kruiding aan voor het serveren"
+        ]
+      },
+      "cultural_significance": {
+        "origin_story": "Nam Prik Ong is al generaties lang een vast onderdeel van de Noord-Thaise keuken en weerspiegelt de unieke culinaire tradities en lokale ingrediënten van de regio.",
+        "cultural_importance": "Dit gerecht vertegenwoordigt het hart van de Noord-Thaise kookkunst en toont de balans en harmonie waarmee de Thaise keuken wereldwijd beroemd is.",
+        "traditional_occasions": [
+          "Familiebijeenkomsten",
+          "Lokale festivals",
+          "Straatvoedselmarkten",
+          "Bijzondere vieringen"
+        ]
+      },
+      "variations": [
+        {
+          "name": "Nam Prik Ong Classique",
+          "description": "De traditionele versie zoals geserveerd in lokale huishoudens"
+        },
+        {
+          "name": "Nam Prik Ong Moderne",
+          "description": "Hedendaagse variant met premium ingrediënten"
+        },
+        {
+          "name": "Nam Prik Ong Végétarien",
+          "description": "Plantaardige versie met tofu of paddenstoelen"
+        }
+      ],
+      "serving_suggestions": {
+        "traditional_accompaniments": [
+          "Jasmijnrijst",
+          "Verse groenten",
+          "Thaise kruiden"
+        ],
+        "presentation": "Geserveerd op een bord in de traditionele stijl van Noord-Thailand",
+        "eating_etiquette": "Geniet ervan met vork en lepel volgens de Thaise gewoonte"
+      },
+      "where_to_find": {
+        "best_restaurants": [
+          "Lokale restaurants in Noord-Thailand",
+          "Authentieke straatkraampjes",
+          "Traditionele markten",
+          "Familierestaurants"
+        ],
+        "street_food_areas": [
+          "Nachtmarkten",
+          "Verse ochtendmarkten",
+          "Lokale foodcourts"
+        ]
+      },
+      "translated_at": "2026-03-10T00:00:00.000Z"
+    },
+    "de": {
+      "enhanced_description": "Nam Prik Ong is een geliefd, hartig en vullend hoofdgerecht uit Noord-Thailand met een aangename pittigheid. Een tomaten-chili-dip met gehakt varkensvlees, geserveerd met groenten. Dit eenvoudige recept vereist ongeveer 25 minuten bereidingstijd en belichaamt de authentieke smaken van de Noord-Thaise keuken, gekenmerkt door mildere tonen, kleefrijst en kruiden. De combinatie van tomaten, gehakt varkensvlees en sjalotten creëert een harmonieuze mix die dit gerecht tot favoriet maakt bij zowel locals als bezoekers. Perfect voor wie betaalbare authentieke Thaise keuken zoekt.",
+      "detailed_ingredients": [
+        {
+          "name": "Tomaten",
+          "purpose": "Onmisbaar voor de authentieke Nam Prik Ong-smaak",
+          "substitutes": [
+            "Verse tomaten",
+            "Gedroogde tomaten",
+            "Tomatencrème"
+          ]
+        },
+        {
+          "name": "Schweinehackfleisch",
+          "purpose": "Onmisbaar voor de authentieke Nam Prik Ong-smaak",
+          "substitutes": [
+            "Vers gehakt varkensvlees",
+            "Gehakt kippenvlees",
+            "Tofu (voor de vegetarische versie)"
+          ]
+        },
+        {
+          "name": "Schalotten",
+          "purpose": "Onmisbaar voor de authentieke Nam Prik Ong-smaak",
+          "substitutes": [
+            "Verse sjalotten",
+            "Gedroogde sjalotten",
+            "Rode ui"
+          ]
+        },
+        {
+          "name": "Knoblauch",
+          "purpose": "Onmisbaar voor de authentieke Nam Prik Ong-smaak",
+          "substitutes": [
+            "Verse knoflook",
+            "Gedroogde knoflook",
+            "Knoflookpasta"
+          ]
+        }
+      ],
+      "cooking_method": {
+        "technique": "Bakken en stampen",
+        "steps_overview": "De bereiding van Nam Prik Ong vereist aandacht voor details en goed timing. De sleutel ligt in het balanceren van alle smaken en tegelijkertijd het behouden van de textuur van elke ingrediënt. Traditionele methoden, doorgegeven van generatie op generatie, garanderen een authentieke smaak.",
+        "cooking_tips": [
+          "Gebruik verse tomaten voor het beste resultaat",
+          "Pas de pittigheid aan naar smaak",
+          "Niet te lang koken om de textuur te behouden",
+          "Proef en breng op smaak voor het serveren"
+        ]
+      },
+      "cultural_significance": {
+        "origin_story": "Nam Prik Ong is al generaties lang een vast onderdeel van de Noord-Thaise keuken en weerspiegelt de unieke culinaire tradities en lokale ingrediënten van de regio.",
+        "cultural_importance": "Dit gerecht belichaamt het hart van de Noord-Thaise kookkunst en toont de balans en harmonie waarvoor de Thaise keuken wereldwijd beroemd is.",
+        "traditional_occasions": [
+          "Familiebijeenkomsten",
+          "Lokale feesten",
+          "Straatvoedselmarkten",
+          "Speciale vieringen"
+        ]
+      },
+      "variations": [
+        {
+          "name": "Nam Prik Ong Klassisch",
+          "description": "De traditionele versie zoals geserveerd in lokale huishoudens"
+        },
+        {
+          "name": "Nam Prik Ong Modern",
+          "description": "Moderne variant met hoogwaardige ingrediënten"
+        },
+        {
+          "name": "Vegetarische Nam Prik Ong",
+          "description": "Plantaardige versie met tofu of paddenstoelen"
+        }
+      ],
+      "serving_suggestions": {
+        "traditional_accompaniments": [
+          "Jasmijnrijst",
+          "Verse groenten",
+          "Thaise kruiden"
+        ],
+        "presentation": "Geserveerd op een bord in de traditionele Noord-Thaise stijl",
+        "eating_etiquette": "Gegeten met vork en lepel volgens Thaise traditie"
+      },
+      "where_to_find": {
+        "best_restaurants": [
+          "Lokale Noord-Thaise restaurants",
+          "Authentieke straatkraampjes",
+          "Traditionele markten",
+          "Familiegerunde etablissementen"
+        ],
+        "street_food_areas": [
+          "Nachtmarkten",
+          "Verse ochtendmarkten",
+          "Lokale foodcourts"
+        ]
+      },
+      "translated_at": "2026-03-10T00:00:00.000Z"
+    },
+    "zh": {
+      "enhanced_description": "Nam Prik Ong is een geliefd, overvloedig hoofdgerecht uit Noord-Thailand met een prettige pittigheid. Het is een pittige dipsaus op basis van tomaten en gehakt varkensvlees, geserveerd met groenten. Dit eenvoudige recept duurt ongeveer 25 minuten en vertegenwoordigt de authentieke smaken van de Noord-Thaise keuken – gekenmerkt door milde tonen, kleefrijst en kruiden. De combinatie van tomaten, gehakt varkensvlees en sjalotten creëert een harmonieuze smaak die geliefd is bij zowel locals als toeristen. Ideaal voor wie betaalbare authentieke Thaise gerechten zoekt.",
+      "detailed_ingredients": [
+        {
+          "name": "番茄",
+          "purpose": "Sleutelingrediënten voor de authentieke Nam Prik Ong-smaak",
+          "substitutes": [
+            "Verse tomaten",
+            "Tomatendroog",
+            "Tomatensaus"
+          ]
+        },
+        {
+          "name": "猪肉末",
+          "purpose": "Sleutelingrediënten voor de authentieke Nam Prik Ong-smaak",
+          "substitutes": [
+            "Vers gehakt varkensvlees",
+            "Gehakt kippenvlees",
+            "Tofu (vegetarische versie)"
+          ]
+        },
+        {
+          "name": "红葱头",
+          "purpose": "Sleutelingrediënten voor de authentieke Nam Prik Ong-smaak",
+          "substitutes": [
+            "Verse sjalotten",
+            "Gedroogde sjalotten",
+            "Rode ui"
+          ]
+        },
+        {
+          "name": "大蒜",
+          "purpose": "Sleutelingrediënten voor de authentieke Nam Prik Ong-smaak",
+          "substitutes": [
+            "Verse knoflook",
+            "Knoflookpoeder",
+            "Knoflookpasta"
+          ]
+        }
+      ],
+      "cooking_method": {
+        "technique": "Roerbakken en pletten",
+        "steps_overview": "Het maken van Nam Prik Ong vereist aandacht voor details en goed tijdbeheer. De sleutel is het balanceren van alle smaken terwijl de textuur van elk ingrediënt behouden blijft. Traditionele methoden, doorgegeven door generaties, zorgen voor een authentieke smaak.",
+        "cooking_tips": [
+          "Gebruik verse tomaten voor de beste smaak",
+          "Pas de pittigheid aan naar persoonlijke voorkeur",
+          "Kook niet te lang om de textuur te behouden",
+          "Proef en pas de kruiden aan voor het serveren"
+        ]
+      },
+      "cultural_significance": {
+        "origin_story": "Nam Prik Ong is al generaties lang een basisgerecht in de Noord-Thaise keuken en weerspiegelt de unieke culinaire tradities en lokale ingrediënten van de regio.",
+        "cultural_importance": "Dit gerecht vertegenwoordigt de essentie van Noord-Thaise kookkunst en toont de wereldberoemde balans en harmonie van de Thaise keuken.",
+        "traditional_occasions": [
+          "Familiebijeenkomsten",
+          "Lokale festivals",
+          "Straatvoedselmarkten",
+          "Speciale vieringen"
+        ]
+      },
+      "variations": [
+        {
+          "name": "经典Nam Prik Ong",
+          "description": "De traditionele versie zoals bereid in lokale families"
+        },
+        {
+          "name": "现代Nam Prik Ong",
+          "description": "Moderne innovatieve versie met premium ingrediënten"
+        },
+        {
+          "name": "素食Nam Prik Ong",
+          "description": "Vegetarische versie met tofu of paddenstoelen"
+        }
+      ],
+      "serving_suggestions": {
+        "traditional_accompaniments": [
+          "Jasmijnrijst",
+          "Verse groenten",
+          "Thaise kruiden"
+        ],
+        "presentation": "Geserveerd op een bord in traditionele Noord-Thaise stijl",
+        "eating_etiquette": "Gegeten met vork en lepel volgens Thaise gewoonte"
+      },
+      "where_to_find": {
+        "best_restaurants": [
+          "Lokale Noord-Thaise restaurants",
+          "Authentieke straatvoedselkraampjes",
+          "Traditionele markten",
+          "Familiegerunde kleine restaurants"
+        ],
+        "street_food_areas": [
+          "Nachtmarkten",
+          "Ochtendmarkten",
+          "Lokale foodcourts"
+        ]
+      },
+      "translated_at": "2026-03-11T00:00:00.000Z"
+    },
+    "ru": {
+      "enhanced_description": "Nam Prik Ong is een geliefd, vullend en rijk hoofdgerecht uit Noord-Thailand met een prettige pittigheid. Een pittige tomatensaus-dip met gehakt varkensvlees, geserveerd met groenten. Dit eenvoudige recept vereist ongeveer 25 minuten bereiding en vertegenwoordigt de authentieke smaken van de Noord-Thaise keuken, gekenmerkt door zachte tonen, kleefrijst en kruiden. De combinatie van tomaten, gehakt varkensvlees en sjalotten creëert een harmonieuze smaak die dit gerecht favoriet maakt bij zowel locals als gasten. Ideaal voor wie betaalbare authentieke Thaise keuken zoekt.",
+      "detailed_ingredients": [
+        {
+          "name": "Помидоры",
+          "purpose": "Noodzakelijk voor de authentieke Nam Prik Ong-smaak",
+          "substitutes": [
+            "Verse tomaten",
+            "Gedroogde tomaten",
+            "Tomatencrème"
+          ]
+        },
+        {
+          "name": "Свиной фарш",
+          "purpose": "Noodzakelijk voor de authentieke Nam Prik Ong-smaak",
+          "substitutes": [
+            "Vers gehakt varkensvlees",
+            "Gehakt kippenvlees",
+            "Tofu (voor de vegetarische versie)"
+          ]
+        },
+        {
+          "name": "Шалот",
+          "purpose": "Noodzakelijk voor de authentieke Nam Prik Ong-smaak",
+          "substitutes": [
+            "Verse sjalotten",
+            "Gedroogde sjalotten",
+            "Rode ui"
+          ]
+        },
+        {
+          "name": "Чеснок",
+          "purpose": "Noodzakelijk voor de authentieke Nam Prik Ong-smaak",
+          "substitutes": [
+            "Verse knoflook",
+            "Gedroogde knoflook",
+            "Knoflookpasta"
+          ]
+        }
+      ],
+      "cooking_method": {
+        "technique": "Bakken en wrijven",
+        "steps_overview": "Het bereiden van Nam Prik Ong vereist aandacht voor details en correcte tijdcalculatie. Het belangrijkste is het balanceren van alle smaken terwijl de textuur van elk ingrediënt behouden blijft. Traditionele methoden, doorgegeven van generatie op generatie, zorgen voor een authentieke smaak.",
+        "cooking_tips": [
+          "Gebruik verse tomaten voor het beste resultaat",
+          "Pas de pittigheid aan naar smaak",
+          "Bak niet te lang om de textuur te behouden",
+          "Proef en corrigeer de kruiden voor het serveren"
+        ]
+      },
+      "cultural_significance": {
+        "origin_story": "Nam Prik Ong is al generaties lang de basis van de Noord-Thaise keuken en weerspiegelt de unieke culinaire tradities van de regio en lokale ingrediënten.",
+        "cultural_importance": "Dit gerecht belichaamt de essentie van de Noord-Thaise culinaire kunst en demonstreert de balans en harmonie waarvoor de Thaise keuken wereldwijd bekendstaat.",
+        "traditional_occasions": [
+          "Familiebijeenkomsten",
+          "Lokale festivals",
+          "Markten voor straatvoedsel",
+          "Speciale vieringen"
+        ]
+      },
+      "variations": [
+        {
+          "name": "Классический Nam Prik Ong",
+          "description": "De traditionele versie zoals bereid in lokale huizen"
+        },
+        {
+          "name": "Современный Nam Prik Ong",
+          "description": "Moderne interpretatie met premium ingrediënten"
+        },
+        {
+          "name": "Вегетарианский Nam Prik Ong",
+          "description": "Plantaardige versie met tofu of paddenstoelen"
+        }
+      ],
+      "serving_suggestions": {
+        "traditional_accompaniments": [
+          "Jasmijnrijst",
+          "Verse groenten",
+          "Thaise kruiden"
+        ],
+        "presentation": "Geserveerd op een bord in traditionele Noord-Thaise stijl",
+        "eating_etiquette": "Gegeten met vork en lepel volgens Thaise gewoonte"
+      },
+      "where_to_find": {
+        "best_restaurants": [
+          "Lokale Noord-Thaise restaurants",
+          "Authentieke straatkarren",
+          "Traditionele markten",
+          "Familie-snackbars"
+        ],
+        "street_food_areas": [
+          "Nachtmarkten",
+          "Ochtendproductmarkten",
+          "Lokale foodcourts"
+        ]
+      },
+      "translated_at": "2026-03-11T00:00:00.000Z"
+    },
+    "ko": {
+      "enhanced_description": "Nam Prik Ong is een representatieve chili-dip uit de Lanna-regio in Noord-Thailand, een dikke en smaakvolle saus gemaakt door gehakt varkensvlees en tomaten te roerbakken met gedroogde chili-pasta. Een eenvoudig recept dat in ongeveer 25 minuten klaar is, vaak vergeleken met 'Thaise bolognese' maar met veel complexere smaken. De natuurlijke zuurheid van tomaten, de umami van gehakt varkensvlees en de subtiele pittigheid van gedroogde chili's vormen een harmonie, en geserveerd met kleefrijst en verse groenten is het een perfecte maaltijd. Samen met Nam Prik Num en Sai Ua vormt het de kern van drie sets in Lanna-maaltijden.",
+      "detailed_ingredients": [
+        {
+          "name": "다진 돼지고기",
+          "purpose": "Basis voor umami en eiwit, het hoofdingrediënt",
+          "substitutes": [
+            "Gehakt varkensvlees",
+            "Gehakt kippenvlees",
+            "Tofu kruimels (vegetarisch alternatief)"
+          ]
+        },
+        {
+          "name": "토마토",
+          "purpose": "Essentieel ingrediënt dat natuurlijke zuurheid, vocht en rode kleur toevoegt",
+          "substitutes": [
+            "Verse tomaten",
+            "Kersentomaten",
+            "Tomatopasta"
+          ]
+        },
+        {
+          "name": "건고추 페이스트",
+          "purpose": "Kruidenbasis voor pittige smaak en diepe kleur",
+          "substitutes": [
+            "Gedroogde chili + garnalenpasta",
+            "Gochujang (Koreaanse vervanger)",
+            "Chili pasta"
+          ]
+        },
+        {
+          "name": "마늘과 샬롯",
+          "purpose": "Basis kruiden voor diepte in aroma en smaak",
+          "substitutes": [
+            "Verse knoflook + sjalotten",
+            "Rode ui",
+            "Ui"
+          ]
+        }
+      ],
+      "cooking_method": {
+        "technique": "Roerbakken (curry pasta roerbakken)",
+        "steps_overview": "Om Nam Prik Ong te maken, maal je eerst gedroogde chili's, knoflook, sjalotten en garnalenpasta in een vijzel tot currypasta. Verhit olie in een wok of pan en bak de pasta tot hij geurig is, voeg dan gehakt varkensvlees toe en bak gaar. Voeg gehakte tomaten toe en bak tot de tomaten zacht zijn en de saus indikt. Breng op smaak met vissaus en palmsuiker om het af te maken.",
+        "cooking_tips": [
+          "Gebruik rijpe tomaten voor een natuurlijke zuurheid",
+          "Bak de currypasta lang genoeg tot de olie scheidt voor een diepere aroma",
+          "Bak niet te lang, anders smelt de tomaat en wordt het een soep; stop bij de juiste dikte",
+          "Lekkerst met kleefrijst en kap muu (gefrituurd varkensvel)"
+        ]
+      },
+      "cultural_significance": {
+        "origin_story": "Nam Prik Ong is een traditioneel gerecht uit het noorden van Thailand, het Lanna-koninkrijk, met invloeden uit de Birmese (Myanmarijse) keuken. Er zijn verschillende theorieën over de oorsprong van de naam 'Ong', en het is een relatief modern gerecht dat zich ontwikkelde na de introductie van tomaten in Zuidoost-Azië.",
+        "cultural_importance": "Nam Prik Ong wordt samen met Nam Prik Num en Sai Ua beschouwd als een van de 'drie essentiële elementen' van een Lanna-maaltijd. Het mag niet ontbreken bij een kan tok (Lanna-traditionele maaltijd) diner en is een must-try voor reizigers die Chiang Mai bezoeken, als代表 van de noordelijke Thaise keuken.",
+        "traditional_occasions": [
+          "Kan tok diner",
+          "Lanna traditioneel festival",
+          "Dagelijkse huisgerechten",
+          "Tempelceremonie gerechten"
+        ]
+      },
+      "variations": [
+        {
+          "name": "남프릭옹 전통식",
+          "description": "De meest traditionele Lanna-stijl gemaakt met gehakt varkensvlees en tomaten."
+        },
+        {
+          "name": "남프릭옹 닭고기",
+          "description": "Een lichtere variant met gehakt kippenvlees."
+        },
+        {
+          "name": "채식 남프릭옹",
+          "description": "Vegetarische versie met tofu kruimels en tomaten."
+        }
+      ],
+      "serving_suggestions": {
+        "traditional_accompaniments": [
+          "Kleefrijst (khao niao)",
+          "Kap muu (gefrituurd varkensvel)",
+          "Verse groenten (komkommer, aubergine, kool)",
+          "Gekookte groenten"
+        ],
+        "presentation": "Serveer Nam Prik in kleine schaaltjes met kleefrijst en groenten in kan tok-stijl",
+        "eating_etiquette": "Vorm kleefrijst tot balletjes met de hand, dip in Nam Prik of leg op groenten"
+      },
+      "where_to_find": {
+        "best_restaurants": [
+          "Chiang Mai kan tok diner restaurants",
+          "Noordelijke Thaise traditionele eetgelegenheden",
+          "Warorot markt bijgerecht kraampjes",
+          "Familiebediende restaurants"
+        ],
+        "street_food_areas": [
+          "Chiang Mai ochtendmarkt",
+          "Chiang Rai nachtmarkt",
+          "Lokale foodcourts"
+        ],
+        "price_ranges": {
+          "street_vendor": "25-40 THB",
+          "market_stall": "30-50 THB",
+          "restaurant": "50-80 THB"
+        }
+      },
+      "translated_at": "2026-03-14T00:00:00.000Z"
+    },
+    "th": {
+      "enhanced_description": "Nam Prik Ong is een milde noordelijke Nam Prik gemaakt met tomaten en gehakt varkensvlees, met een zoet-pittige smaak. Geserveerd met verse groenten en kap muu, geschikt voor alle leeftijden.",
+      "detailed_ingredients": [
+        {
+          "name": "Tomatoes",
+          "purpose": "Essentieel voor de authentieke smaak van Nam Prik Ong",
+          "substitutes": [
+            "Verse tomaten",
+            "Gedroogde tomaten",
+            "Tomatopasta"
+          ]
+        },
+        {
+          "name": "Minced pork",
+          "purpose": "Essentieel voor de authentieke smaak van Nam Prik Ong",
+          "substitutes": [
+            "Verse gehakt varkensvlees",
+            "Gedroogd gehakt varkensvlees",
+            "Gehakt varkensvlees pasta"
+          ]
+        },
+        {
+          "name": "Shallots",
+          "purpose": "Essentieel voor de authentieke smaak van Nam Prik Ong",
+          "substitutes": [
+            "Verse sjalotten",
+            "Gedroogde sjalotten",
+            "Sjalotten pasta"
+          ]
+        },
+        {
+          "name": "Garlic",
+          "purpose": "Essentieel voor de authentieke smaak van Nam Prik Ong",
+          "substitutes": [
+            "Verse knoflook",
+            "Gedroogde knoflook",
+            "Knoflook pasta"
+          ]
+        }
+      ],
+      "cooking_method": {
+        "technique": "Roerbakken of grillen",
+        "steps_overview": "De bereiding van Nam Prik Ong vereist aandacht voor details en de juiste timing. Het is belangrijk om alle smaken in balans te brengen terwijl de textuur van elk ingrediënt behouden blijft. De traditionele methode, doorgegeven door generaties, garandeert de authentieke smaak.",
+        "cooking_tips": [
+          "Gebruik verse tomaten voor het beste resultaat",
+          "Pas de pittigheid aan naar smaak",
+          "Kook niet te lang om de textuur te behouden",
+          "Proef en breng op smaak voor het serveren"
+        ]
+      },
+      "cultural_significance": {
+        "origin_story": "Dit gerecht is al generaties lang deel van de noordelijke Thaise voedselcultuur en weerspiegelt de unieke kooktradities en lokale ingrediënten van de regio.",
+        "cultural_importance": "Dit gerecht vormt het hart van de noordelijke Thaise keuken en toont de balans en harmonie waar Thaise gerechten wereldwijd beroemd om zijn.",
+        "traditional_occasions": [
+          "Familiebijeenkomsten",
+          "Lokale festivals",
+          "Straatvoedselmarkten",
+          "Speciale vieringen"
+        ]
+      },
+      "variations": [
+        {
+          "name": "Nam Prik Ong Classic",
+          "description": "Traditionele versie geserveerd in lokale huizen"
+        },
+        {
+          "name": "Nam Prik Ong Modern",
+          "description": "Moderne versie met premium ingrediënten"
+        },
+        {
+          "name": "Vegetarian Nam Prik Ong",
+          "description": "Vegetarische versie met tofu of paddenstoelen"
+        }
+      ],
+      "serving_suggestions": {
+        "traditional_accompaniments": [
+          "Jasmijnrijst",
+          "Verse groenten",
+          "Thaise kruiden"
+        ],
+        "presentation": "Geserveerd op traditionele Thaise borden",
+        "eating_etiquette": "Eet met lepel en vork volgens Thaise traditie"
+      },
+      "where_to_find": {
+        "best_restaurants": [
+          "Lokale noordelijke Thaise restaurants",
+          "Authentieke straatkraampjes",
+          "Traditionele markten",
+          "Familiegerunde eetgelegenheden"
+        ],
+        "street_food_areas": [
+          "Nachtmarkten",
+          "Ochtendverse markten",
+          "Lokale foodcourts"
+        ],
+        "price_ranges": {
+          "street_vendor": "30-50 THB",
+          "market_stall": "40-60 THB",
+          "restaurant": "60-100 THB"
+        }
+      },
+      "translated_at": "2026-03-14T00:00:00.000Z"
+    },
+    "ja": {
+      "enhanced_description": "Nam Prik Ong is al lang een geliefd huishoudgerecht in Noord-Thailand, een hoofdgerecht met een aangename pittigheid. Het is een chili-dip gemaakt met tomaten en gehakt varkensvlees, geserveerd met groenten. Dit recept duurt ongeveer 25 minuten en belichaamt de authentieke smaak van Noord-Thaise keuken, met milde smaken, kleefrijst en kruiden. De combinatie van tomaten, varkensvlees, ui (sjalotten) en knoflook creëert een harmonieuze smaak, geliefd bij locals en bezoekers. Ideaal voor wie betaalbare authentieke Thaise gerechten wil proeven.",
+      "detailed_ingredients": [
+        {
+          "name": "トマト",
+          "purpose": "Basis ingrediënten voor de authentieke smaak van Nam Prik Ong",
+          "substitutes": [
+            "Verse tomaten",
+            "Gedroogde tomaten",
+            "Tomatopasta"
+          ]
+        },
+        {
+          "name": "豚ひき肉",
+          "purpose": "Essentiële ingrediënten voor de smaak van Nam Prik Ong",
+          "substitutes": [
+            "Verse gehakt varkensvlees",
+            "Gedroogd gehakt varkensvlees",
+            "Gehakt varkensvlees pasta"
+          ]
+        },
+        {
+          "name": "シャロット（小玉ねぎ）",
+          "purpose": "Essentiële ingrediënten voor de smaak van Nam Prik Ong",
+          "substitutes": [
+            "Verse sjalotten",
+            "Gedroogde sjalotten",
+            "Sjalotten pasta"
+          ]
+        },
+        {
+          "name": "にんにく",
+          "purpose": "Essentiële ingrediënten voor de smaak van Nam Prik Ong",
+          "substitutes": [
+            "Verse knoflook",
+            "Gedroogde knoflook",
+            "Knoflook pasta"
+          ]
+        }
+      ],
+      "cooking_method": {
+        "technique": "Roerbakken of grillen/bakken",
+        "steps_overview": "Het maken van Nam Prik Ong vereist aandacht voor details en de juiste timing. Het balanceren van alle smaken terwijl de textuur van elk ingrediënt behouden blijft, is de sleutel. De traditionele methode, doorgegeven door generaties, garandeert de authentieke smaak.",
+        "cooking_tips": [
+          "Gebruik verse tomaten voor het beste resultaat",
+          "Pas de pittigheid aan naar wens",
+          "Verhit niet te veel om de textuur te behouden",
+          "Proef en pas de smaak aan voor het serveren"
+        ]
+      },
+      "cultural_significance": {
+        "origin_story": "Nam Prik Ong is een traditioneel hoofdgerecht in de Noord-Thaise keuken, geliefd over generaties, en weerspiegelt de unieke kooktradities en lokale ingrediënten van de regio.",
+        "cultural_importance": "Dit gerecht vormt het centrum van de Noord-Thaise keuken en belichaamt de harmonie en balans waar Thaise gerechten wereldwijd beroemd om zijn.",
+        "traditional_occasions": [
+          "Familiebijeenkomsten",
+          "Lokale festivals",
+          "Straatmarkten",
+          "Speciale vieringen"
+        ]
+      },
+      "variations": [
+        {
+          "name": "Nam Prik Ong Classic",
+          "description": "Traditionele versie geserveerd in lokale huizen"
+        },
+        {
+          "name": "Nam Prik Ong Modern",
+          "description": "Moderne versie met premium ingrediënten"
+        },
+        {
+          "name": "Vegetarian Nam Prik Ong",
+          "description": "Plantaardige versie met tofu of paddenstoelen"
+        }
+      ],
+      "serving_suggestions": {
+        "traditional_accompaniments": [
+          "Jasmijnrijst",
+          "Verse groenten",
+          "Thaise kruiden"
+        ],
+        "presentation": "Geserveerd op traditionele Thaise borden",
+        "eating_etiquette": "Eet met vork en lepel volgens Thaise gewoonten"
+      },
+      "where_to_find": {
+        "best_restaurants": [
+          "Lokale noordelijke Thaise restaurants",
+          "Authentieke straatkraampjes",
+          "Traditionele markten",
+          "Familiegerunde eetgelegenheden"
+        ],
+        "street_food_areas": [
+          "Nachtmarkten",
+          "Ochtendverse markten",
+          "Lokale foodcourts"
+        ],
+        "price_ranges": {
+          "street_vendor": "30-50 THB",
+          "market_stall": "40-60 THB",
+          "restaurant": "60-100 THB"
+        }
+      },
+      "translated_at": "2026-03-14T00:00:00.000Z"
+    }
+  }
+}

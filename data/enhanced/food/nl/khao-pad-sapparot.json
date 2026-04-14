@@ -1,0 +1,977 @@
+{
+  "id": 25,
+  "slug": "khao-pad-sapparot",
+  "name": {
+    "en": "Khao Pad Sapparot",
+    "nl": "Khao Pad Sapparot",
+    "thai": "ข้าวผัดสับปะรด"
+  },
+  "category": "hoofdgerecht",
+  "region": "centraal",
+  "spice_level": "mild",
+  "description": {
+    "en": "Pineapple fried rice served in pineapple shell",
+    "nl": "Ananas gebakken rijst geserveerd in ananasschil"
+  },
+  "ingredients": [
+    "rijst",
+    "ananas",
+    "garnalen",
+    "cashewnoten",
+    "kerriepoeder",
+    "rozijnen"
+  ],
+  "allergens": [
+    "noten zeevruchten"
+  ],
+  "dietary": [],
+  "image": "/images/food/khao-pad-sapparot.webp",
+  "preparation_time": "20 minuten",
+  "difficulty": "gemiddeld",
+  "price_range": "middenklasse",
+  "seo": {
+    "metaTitle": {
+      "en": "Khao Pad Sapparot Recipe | Authentic Thai main dish",
+      "nl": "Khao Pad Sapparot Recept | Authentieke Thaise main dish"
+    },
+    "metaDescription": {
+      "en": "Learn about Khao Pad Sapparot (ข้าวผัดสับปะรด) - Pineapple fried rice served in pineapple shell...",
+      "nl": "Leer over Khao Pad Sapparot (ข้าวผัดสับปะรด) - Ananas gebakken rijst geserveerd in ananasschil..."
+    }
+  },
+  "tags": [
+    "thais-eten",
+    "thailand",
+    "hoofdgerecht",
+    "centraal",
+    "mild",
+    "gemiddeld",
+    "middenklasse",
+    "rijst",
+    "ananas",
+    "garnalen"
+  ],
+  "cooking": {
+    "preparation_time": "20 minuten",
+    "difficulty": "gemiddeld",
+    "spice_level": "mild",
+    "serves": "2-4 personen"
+  },
+  "nutrition": {
+    "allergens": [
+      "noten zeevruchten"
+    ],
+    "dietary": [],
+    "price_range": "middenklasse"
+  },
+  "enhanced_description": "Khao Pad Sapparot is een geliefd stevig en smaakvol hoofdgerecht uit Centraal-Thailand met een subtiele warmte. Ananas gebakken rijst geserveerd in ananasschil. Dit recept met gemiddelde moeilijkheidsgraad vergt ongeveer 20 minuten bereidingstijd en vertegenwoordigt de authentieke smaken van de Centraal-Thaise keuken die zoet, zuur, zout en pittig perfect in balans brengt. De combinatie van rijst, ananas en garnalen creëert een harmonieuze mix die dit gerecht tot een favoriet heeft gemaakt onder zowel locals als bezoekers. Perfect voor wie op zoek is naar betaalbare authentieke Thaise keuken.",
+  "detailed_ingredients": [
+    {
+      "name": "Rice",
+      "purpose": "Essentieel voor authentieke Khao Pad Sapparot smaak",
+      "substitutes": [
+        "Verse rijst",
+        "Gedroogde rijst",
+        "rijstpasta"
+      ]
+    },
+    {
+      "name": "Pineapple",
+      "purpose": "Essentieel voor authentieke Khao Pad Sapparot smaak",
+      "substitutes": [
+        "Verse ananas",
+        "Gedroogde ananas",
+        "ananaspasta"
+      ]
+    },
+    {
+      "name": "Shrimp",
+      "purpose": "Essentieel voor authentieke Khao Pad Sapparot smaak",
+      "substitutes": [
+        "Verse garnalen",
+        "Gedroogde garnalen",
+        "garnalenpasta"
+      ]
+    },
+    {
+      "name": "Cashew nuts",
+      "purpose": "Essentieel voor authentieke Khao Pad Sapparot smaak",
+      "substitutes": [
+        "Verse cashewnoten",
+        "Gedroogde cashewnoten",
+        "cashewnotenpasta"
+      ]
+    }
+  ],
+  "cooking_method": {
+    "technique": "Roerbakken of grillen",
+    "steps_overview": "Het bereiden van Khao Pad Sapparot vereist aandacht voor detail en juiste timing. De sleutel is het balanceren van alle smaken terwijl de textuur van elk ingrediënt behouden blijft. Traditionele methoden die van generatie op generatie zijn doorgegeven, zorgen voor een authentieke smaak.",
+    "cooking_tips": [
+      "Gebruik verse rijst voor het beste resultaat",
+      "Pas het pittigheidsniveau aan naar voorkeur",
+      "Kook niet te lang om textuur te behouden",
+      "Proef en pas kruiding aan voor serveren"
+    ]
+  },
+  "cultural_significance": {
+    "origin_story": "Khao Pad Sapparot is al generaties lang een basisgerecht in de Centraal-Thaise keuken en weerspiegelt de unieke culinaire tradities en lokale ingrediënten van de regio.",
+    "cultural_importance": "Dit gerecht vertegenwoordigt het hart van de Centraal-Thaise kookkunst en toont de balans en harmonie waarvoor de Thaise keuken wereldwijd beroemd is.",
+    "traditional_occasions": [
+      "Familiebijeenkomsten",
+      "Lokale festivals",
+      "Straatvoedselmarkten",
+      "Speciale vieringen"
+    ]
+  },
+  "variations": [
+    {
+      "name": "Khao Pad Sapparot Classic",
+      "description": "De traditionele versie zoals geserveerd in lokale huizen"
+    },
+    {
+      "name": "Khao Pad Sapparot Modern",
+      "description": "Moderne twist met premium ingrediënten"
+    },
+    {
+      "name": "Vegetarian Khao Pad Sapparot",
+      "description": "Plantaardige versie met tofu of paddenstoelen"
+    }
+  ],
+  "serving_suggestions": {
+    "traditional_accompaniments": [
+      "Jasmijnrijst",
+      "Verse groenten",
+      "Thaise kruiden"
+    ],
+    "presentation": "Geserveerd op een bord in traditionele Thaise stijl",
+    "eating_etiquette": "Genoten met vork en lepel volgens Thais gebruik"
+  },
+  "nutritional_info": {
+    "calories_per_serving": "300-500 calorieën",
+    "health_benefits": [
+      "Rijk aan Thaise kruiden en specerijen",
+      "Bron van eiwitten en groenten",
+      "Gebalanceerde smaken en voedingsstoffen"
+    ],
+    "dietary_notes": []
+  },
+  "where_to_find": {
+    "best_restaurants": [
+      "Lokale Centraal-Thaise restaurants",
+      "Authentieke straatvoedselkraampjes",
+      "Traditionele markten",
+      "Familiegerunde eetgelegenheden"
+    ],
+    "street_food_areas": [
+      "Nachtmarkten",
+      "Ochtendverse markten",
+      "Lokale food courts"
+    ],
+    "price_ranges": {
+      "street_vendor": "50-80 THB",
+      "market_stall": "60-100 THB",
+      "restaurant": "100-200 THB"
+    }
+  },
+  "translations": {
+    "nl": {
+      "enhanced_description": "Khao Pad Sapparot is een geliefd stevig en smaakvol hoofdgerecht uit Centraal-Thailand met een subtiele warmte. Ananas gebakken rijst geserveerd in ananasschil. Dit recept met gemiddelde moeilijkheidsgraad vergt ongeveer 20 minuten bereidingstijd en vertegenwoordigt de authentieke smaken van de Centraal-Thaise keuken die zoet, zuur, zout en pittig perfect in balans brengt. De combinatie van rijst, ananas en garnalen creëert een harmonieuze mix die dit gerecht tot een favoriet heeft gemaakt onder zowel locals als bezoekers. Perfect voor wie op zoek is naar betaalbare authentieke Thaise keuken.",
+      "detailed_ingredients": [
+        {
+          "name": "Rijst",
+          "purpose": "Essentieel voor de authentieke Khao Pad Sapparot smaak",
+          "substitutes": [
+            "Jasmijnrijst",
+            "Dag-oude rijst",
+            "Langkorrelige rijst"
+          ]
+        },
+        {
+          "name": "Ananas",
+          "purpose": "Essentieel voor de authentieke Khao Pad Sapparot smaak",
+          "substitutes": [
+            "Verse ananas",
+            "Ananas uit blik",
+            "Gedroogde ananas"
+          ]
+        },
+        {
+          "name": "Garnalen",
+          "purpose": "Essentieel voor de authentieke Khao Pad Sapparot smaak",
+          "substitutes": [
+            "Verse garnalen",
+            "Gedroogde garnalen",
+            "Garnalenpasta"
+          ]
+        },
+        {
+          "name": "Cashewnoten",
+          "purpose": "Essentieel voor de authentieke Khao Pad Sapparot smaak",
+          "substitutes": [
+            "Verse cashewnoten",
+            "Geroosterde cashewnoten",
+            "Pinda's"
+          ]
+        }
+      ],
+      "cooking_method": {
+        "technique": "Roerbakken",
+        "steps_overview": "Het bereiden van Khao Pad Sapparot vereist aandacht voor detail en goede timing. De sleutel is het balanceren van alle smaken terwijl de textuur van elk ingrediënt behouden blijft. Traditionele methoden die van generatie op generatie zijn doorgegeven, garanderen een authentieke smaak.",
+        "cooking_tips": [
+          "Gebruik dag-oude rijst voor het beste resultaat",
+          "Pas het pittigheidsgehalte aan naar je voorkeur",
+          "Kook niet te lang om de textuur te behouden",
+          "Proef en pas de kruiding aan voor het serveren"
+        ]
+      },
+      "cultural_significance": {
+        "origin_story": "Khao Pad Sapparot is al generaties lang een vast onderdeel van de Centraal-Thaise keuken en weerspiegelt de unieke culinaire tradities en lokale ingrediënten van de regio.",
+        "cultural_importance": "Dit gerecht vertegenwoordigt het hart van de Centraal-Thaise kookkunst en toont de balans en harmonie waarmee de Thaise keuken wereldwijd beroemd is.",
+        "traditional_occasions": [
+          "Familiebijeenkomsten",
+          "Lokale festivals",
+          "Straatvoedselmarkten",
+          "Bijzondere vieringen"
+        ]
+      },
+      "variations": [
+        {
+          "name": "Khao Pad Sapparot Klassiek",
+          "description": "De traditionele versie zoals geserveerd in lokale huishoudens"
+        },
+        {
+          "name": "Khao Pad Sapparot Modern",
+          "description": "Hedendaagse variant met premium ingrediënten"
+        },
+        {
+          "name": "Vegetarische Khao Pad Sapparot",
+          "description": "Plantaardige versie met tofu of paddenstoelen"
+        }
+      ],
+      "serving_suggestions": {
+        "traditional_accompaniments": [
+          "Geserveerd in ananasschil",
+          "Verse groenten",
+          "Thaise kruiden"
+        ],
+        "presentation": "Geserveerd in een uitgehold ananasschil in traditionele Thaise stijl",
+        "eating_etiquette": "Gegeten met vork en lepel volgens Thais gebruik"
+      },
+      "where_to_find": {
+        "best_restaurants": [
+          "Lokale Centraal-Thaise restaurants",
+          "Authentieke straatvoedselkramen",
+          "Traditionele markten",
+          "Familiebedrijfjes"
+        ],
+        "street_food_areas": [
+          "Nachtmarkten",
+          "Ochtendverse markten",
+          "Lokale food courts"
+        ]
+      },
+      "translated_at": "2026-03-10T00:00:00.000Z"
+    },
+    "fr": {
+      "enhanced_description": "Khao Pad Sapparot is een geliefd stevig en smaakvol hoofdgerecht uit Centraal-Thailand met een subtiele warmte. Ananas gebakken rijst geserveerd in ananasschil. Dit recept met gemiddelde moeilijkheidsgraad vergt ongeveer 20 minuten bereidingstijd en vertegenwoordigt de authentieke smaken van de Centraal-Thaise keuken die zoet, zuur, zout en pittig perfect in balans brengt. De combinatie van rijst, ananas en garnalen creëert een harmonieuze mix die dit gerecht tot een favoriet heeft gemaakt onder zowel locals als bezoekers. Perfect voor wie op zoek is naar betaalbare authentieke Thaise keuken.",
+      "detailed_ingredients": [
+        {
+          "name": "Riz",
+          "purpose": "Essentieel voor de authentieke Khao Pad Sapparot smaak",
+          "substitutes": [
+            "Jasmijnrijst",
+            "Rijst van de vorige dag",
+            "Langkorrelige rijst"
+          ]
+        },
+        {
+          "name": "Ananas",
+          "purpose": "Essentieel voor de authentieke Khao Pad Sapparot smaak",
+          "substitutes": [
+            "Verse ananas",
+            "Ananas uit blik",
+            "Gedroogde ananas"
+          ]
+        },
+        {
+          "name": "Crevettes",
+          "purpose": "Essentieel voor de authentieke Khao Pad Sapparot smaak",
+          "substitutes": [
+            "Verse garnalen",
+            "Gedroogde garnalen",
+            "Garnalenpasta"
+          ]
+        },
+        {
+          "name": "Noix de cajou",
+          "purpose": "Essentieel voor de authentieke Khao Pad Sapparot smaak",
+          "substitutes": [
+            "Verse cashewnoten",
+            "Geroosterde cashewnoten",
+            "Pinda's"
+          ]
+        }
+      ],
+      "cooking_method": {
+        "technique": "Roerbakken in een wok",
+        "steps_overview": "Het bereiden van Khao Pad Sapparot vereist aandacht voor details en een goede timing. De sleutel is het balanceren van alle smaken terwijl de textuur van elk ingrediënt behouden blijft. Traditionele methoden die van generatie op generatie zijn doorgegeven, garanderen een authentieke smaak.",
+        "cooking_tips": [
+          "Gebruik rijst van de vorige dag voor het beste resultaat",
+          "Pas het pittigheidsniveau aan volgens je voorkeur",
+          "Kook niet te lang om de textuur te behouden",
+          "Proef en pas de kruiding aan voor het serveren"
+        ]
+      },
+      "cultural_significance": {
+        "origin_story": "Khao Pad Sapparot is al generaties lang een pijler van de Centraal-Thaise keuken en weerspiegelt de unieke culinaire tradities en lokale ingrediënten van de regio.",
+        "cultural_importance": "Dit gerecht vertegenwoordigt het hart van de Centraal-Thaise keuken en illustreert de balans en harmonie die de Thaise keuken wereldwijd beroemd hebben gemaakt.",
+        "traditional_occasions": [
+          "Familiebijeenkomsten",
+          "Lokale festivals",
+          "Straatvoedselmarkten",
+          "Speciale vieringen"
+        ]
+      },
+      "variations": [
+        {
+          "name": "Khao Pad Sapparot Classique",
+          "description": "De traditionele versie zoals geserveerd in lokale huishoudens"
+        },
+        {
+          "name": "Khao Pad Sapparot Moderne",
+          "description": "Moderne versie met premium ingrediënten"
+        },
+        {
+          "name": "Khao Pad Sapparot Végétarien",
+          "description": "Vegetarische versie met tofu of paddenstoelen"
+        }
+      ],
+      "serving_suggestions": {
+        "traditional_accompaniments": [
+          "Geserveerd in een ananasbolster",
+          "Verse groenten",
+          "Thaise kruiden"
+        ],
+        "presentation": "Geserveerd in een uitgeholde ananas in de traditionele Thaise stijl",
+        "eating_etiquette": "Genuttigd met vork en lepel volgens de Thaise traditie"
+      },
+      "where_to_find": {
+        "best_restaurants": [
+          "Lokale restaurants in het centrum van Thailand",
+          "Authentieke straatkraampjes",
+          "Traditionele markten",
+          "Familierestaurants"
+        ],
+        "street_food_areas": [
+          "Nachtmarkten",
+          "Verse ochtendmarkten",
+          "Lokale foodcourts"
+        ]
+      },
+      "translated_at": "2026-03-10T00:00:00.000Z"
+    },
+    "de": {
+      "enhanced_description": "Khao Pad Sapparot is een geliefd, stevig en smaakvol hoofdgerecht uit Midden-Thailand met een subtiele pittigheid. Ananasgebakken rijst geserveerd in een ananasbolster. Dit recept van gemiddelde moeilijkheid vereist ongeveer 20 minuten bereidingstijd en belichaamt de authentieke smaken van de Midden-Thaise keuken, perfect in balans tussen zoet, zuur, zout en scherp. De combinatie van rijst, ananas en garnalen creëert een harmonieuze mix die dit gerecht even geliefd maakt bij locals als bij bezoekers. Perfect voor wie betaalbare authentieke Thaise keuken zoekt.",
+      "detailed_ingredients": [
+        {
+          "name": "Reis",
+          "purpose": "Onmisbaar voor de authentieke Khao Pad Sapparot-smaak",
+          "substitutes": [
+            "Verse rijst",
+            "Gedroogde rijst",
+            "Rijstpasta"
+          ]
+        },
+        {
+          "name": "Ananas",
+          "purpose": "Onmisbaar voor de authentieke Khao Pad Sapparot-smaak",
+          "substitutes": [
+            "Verse ananas",
+            "Gedroogde ananas",
+            "Ananas pasta"
+          ]
+        },
+        {
+          "name": "Garnelen",
+          "purpose": "Onmisbaar voor de authentieke Khao Pad Sapparot-smaak",
+          "substitutes": [
+            "Verse garnalen",
+            "Gedroogde garnalen",
+            "Garnalenpasta"
+          ]
+        },
+        {
+          "name": "Cashewnüsse",
+          "purpose": "Onmisbaar voor de authentieke Khao Pad Sapparot-smaak",
+          "substitutes": [
+            "Verse cashewnoten",
+            "Geroosterde cashewnoten",
+            "Cashewnotenpasta"
+          ]
+        }
+      ],
+      "cooking_method": {
+        "technique": "Roerbakken in de wok",
+        "steps_overview": "De bereiding van Khao Pad Sapparot vraagt om oog voor detail en goed timing. De sleutel ligt in het balanceren van alle smaken terwijl de textuur van elke ingrediënt behouden blijft. Traditionele methoden, doorgegeven via generaties, garanderen een authentieke smaak.",
+        "cooking_tips": [
+          "Gebruik verse rijst voor het beste resultaat",
+          "Pas de pittigheid aan naar smaak",
+          "Niet te lang koken om de textuur te behouden",
+          "Proef en breng op smaak voor het serveren"
+        ]
+      },
+      "cultural_significance": {
+        "origin_story": "Khao Pad Sapparot is al generaties lang een vast onderdeel van de Midden-Thaise keuken en weerspiegelt de unieke culinaire tradities en lokale ingrediënten van de regio.",
+        "cultural_importance": "Dit gerecht vormt het hart van de Midden-Thaise kookkunst en toont de balans en harmonie waarvoor de Thaise keuken wereldwijd beroemd is.",
+        "traditional_occasions": [
+          "Familiebijeenkomsten",
+          "Lokale festivals",
+          "Straatvoedselmarkten",
+          "Speciale vieringen"
+        ]
+      },
+      "variations": [
+        {
+          "name": "Khao Pad Sapparot Klassisch",
+          "description": "De traditionele versie zoals geserveerd in lokale huishoudens"
+        },
+        {
+          "name": "Khao Pad Sapparot Modern",
+          "description": "Moderne variant met premium ingrediënten"
+        },
+        {
+          "name": "Vegetarisches Khao Pad Sapparot",
+          "description": "Plantaardige versie met tofu of paddenstoelen"
+        }
+      ],
+      "serving_suggestions": {
+        "traditional_accompaniments": [
+          "Jasmijnrijst",
+          "Verse groenten",
+          "Thaise kruiden"
+        ],
+        "presentation": "Geserveerd in een uitgeholde ananas in de traditionele Thaise stijl",
+        "eating_etiquette": "Gegeten met vork en lepel volgens Thaise gewoonte"
+      },
+      "where_to_find": {
+        "best_restaurants": [
+          "Lokale Midden-Thaise restaurants",
+          "Authentieke straatkraampjes",
+          "Traditionele markten",
+          "Familiegerunde etablissementen"
+        ],
+        "street_food_areas": [
+          "Nachtmarkten",
+          "Verse ochtendmarkten",
+          "Lokale foodcourts"
+        ]
+      },
+      "translated_at": "2026-03-10T00:00:00.000Z"
+    },
+    "zh": {
+      "enhanced_description": "Khao Pad Sapparot is een geliefd, stevig hoofdgerecht uit Midden-Thailand met een subtiele warmte. Ananasgebakken rijst geserveerd in een uitgeholde ananasbolster. Dit recept van gemiddelde moeilijkheid duurt ongeveer 20 minuten en vertegenwoordigt de authentieke smaken van de Midden-Thaise keuken, perfect in balans tussen zoet, zuur, zout en pittig. De mix van rijst, ananas en garnalen creëert harmonie, geliefd bij locals en toeristen. Ideaal voor wie betaalbare authentieke Thaise gerechten zoekt.",
+      "detailed_ingredients": [
+        {
+          "name": "米饭",
+          "purpose": "Kern-ingrediënt voor de authentieke Khao Pad Sapparot-smaak",
+          "substitutes": [
+            "Jasmijnrijst",
+            "Overnight rijst",
+            "Langkorrelige rijst"
+          ]
+        },
+        {
+          "name": "菠萝",
+          "purpose": "Kern-ingrediënt voor de authentieke Khao Pad Sapparot-smaak",
+          "substitutes": [
+            "Verse ananas",
+            "Ananas uit blik",
+            "Gedroogde ananas"
+          ]
+        },
+        {
+          "name": "鲜虾",
+          "purpose": "Kern-ingrediënt voor de authentieke Khao Pad Sapparot-smaak",
+          "substitutes": [
+            "Verse garnalen",
+            "Gedroogde garnalen",
+            "Garnalensaus"
+          ]
+        },
+        {
+          "name": "腰果",
+          "purpose": "Kern-ingrediënt voor de authentieke Khao Pad Sapparot-smaak",
+          "substitutes": [
+            "Verse cashewnoten",
+            "Geroosterde cashewnoten",
+            "Pinda's"
+          ]
+        }
+      ],
+      "cooking_method": {
+        "technique": "Roerbakken",
+        "steps_overview": "Het maken van Khao Pad Sapparot vereist aandacht voor details en juiste timing. De sleutel is het balanceren van smaken terwijl de textuur van ingrediënten behouden blijft. Traditionele methoden, doorgegeven via generaties, zorgen voor authentieke smaak.",
+        "cooking_tips": [
+          "Gebruik overnight rijst voor het beste resultaat",
+          "Pas de pittigheid aan naar persoonlijke voorkeur",
+          "Niet te lang roerbakken om textuur te behouden",
+          "Proef en pas kruiden aan voor het serveren"
+        ]
+      },
+      "cultural_significance": {
+        "origin_story": "Khao Pad Sapparot is al generaties een klassieker in de Midden-Thaise keuken en belichaamt de unieke culinaire tradities en lokale ingrediënten van de regio.",
+        "cultural_importance": "Dit gerecht vertegenwoordigt de essentie van Midden-Thaise kookkunst en toont de balans en harmonie waarvoor Thaise keuken wereldwijd bekendstaat.",
+        "traditional_occasions": [
+          "Familiebijeenkomsten",
+          "Lokale feesten",
+          "Straatvoedselmarkten",
+          "Speciale gelegenheden"
+        ]
+      },
+      "variations": [
+        {
+          "name": "经典Khao Pad Sapparot",
+          "description": "Traditionele bereiding in lokale huishoudens"
+        },
+        {
+          "name": "创新Khao Pad Sapparot",
+          "description": "Moderne innovatie met premium ingrediënten"
+        },
+        {
+          "name": "素食Khao Pad Sapparot",
+          "description": "Vegetarische versie met tofu of paddenstoelen"
+        }
+      ],
+      "serving_suggestions": {
+        "traditional_accompaniments": [
+          "Jasmijnrijst",
+          "Verse groenten",
+          "Thaise kruiden"
+        ],
+        "presentation": "Geserveerd in een uitgeholde ananasbolster in traditionele Thaise stijl",
+        "eating_etiquette": "Genuttigd met vork en lepel volgens Thaise traditie"
+      },
+      "where_to_find": {
+        "best_restaurants": [
+          "Lokale Midden-Thaise restaurants",
+          "Authentieke straatsnacks",
+          "Traditionele markten",
+          "Familiegerunde zaakjes"
+        ],
+        "street_food_areas": [
+          "Nachtmarkten",
+          "Ochtendmarkten",
+          "Lokale eetpleinen"
+        ]
+      },
+      "translated_at": "2026-03-11T00:00:00.000Z"
+    },
+    "ru": {
+      "enhanced_description": "Khao Pad Sapparot is een geliefd, vullend en smakelijk hoofdgerecht uit Midden-Thailand met een milde warmte. Ananasgebakken rijst in een ananasbolster. Dit recept van gemiddelde complexiteit duurt circa 20 minuten en weerspiegelt de authentieke smaken van de Midden-Thaise keuken, perfect gebalanceerd in zoet, zuur, zout en pittig. De combinatie van rijst, ananas en garnalen creëert harmonie, favoriet bij locals en gasten. Ideaal voor wie authentieke Thaise keuken zoekt tegen redelijke prijs.",
+      "detailed_ingredients": [
+        {
+          "name": "Рис",
+          "purpose": "Hoofdingrediënt voor de authentieke Khao Pad Sapparot-smaak",
+          "substitutes": [
+            "Verse rijst",
+            "Gedroogde rijst",
+            "Rijstpasta"
+          ]
+        },
+        {
+          "name": "Ананас",
+          "purpose": "Hoofdingrediënt voor de authentieke Khao Pad Sapparot-smaak",
+          "substitutes": [
+            "Verse ananas",
+            "Gedroogde ananas",
+            "Ananas pasta"
+          ]
+        },
+        {
+          "name": "Креветки",
+          "purpose": "Hoofdingrediënt voor de authentieke Khao Pad Sapparot-smaak",
+          "substitutes": [
+            "Verse garnalen",
+            "Gedroogde garnalen",
+            "Garnalenpasta"
+          ]
+        },
+        {
+          "name": "Кешью",
+          "purpose": "Hoofdingrediënt voor de authentieke Khao Pad Sapparot-smaak",
+          "substitutes": [
+            "Verse cashewnoten",
+            "Gedroogde cashewnoten",
+            "Cashewnotenpasta"
+          ]
+        }
+      ],
+      "cooking_method": {
+        "technique": "Bakken in de wok of op de grill",
+        "steps_overview": "Het bereiden van Khao Pad Sapparot vraagt aandacht voor details en juiste timing. De sleutel is het balanceren van smaken met behoud van textuur per ingrediënt. Traditionele methoden, doorgegeven via generaties, zorgen voor authentieke smaak.",
+        "cooking_tips": [
+          "Gebruik verse rijst voor het beste resultaat",
+          "Pas de pittigheid aan naar smaak",
+          "Niet te lang bakken om textuur te behouden",
+          "Proef en pas kruiden aan voor het serveren"
+        ]
+      },
+      "cultural_significance": {
+        "origin_story": "Khao Pad Sapparot is al generaties de basis van de Midden-Thaise keuken en weerspiegelt de unieke culinaire tradities en lokale ingrediënten van de regio.",
+        "cultural_importance": "Dit gerecht belichaamt het hart van de Midden-Thaise culinaire kunst en toont de balans en harmonie waarvoor de Thaise keuken wereldwijd beroemd is.",
+        "traditional_occasions": [
+          "Familiediners",
+          "Lokale festivals",
+          "Straatvoedselmarkten",
+          "Speciale feesten"
+        ]
+      },
+      "variations": [
+        {
+          "name": "Khao Pad Sapparot классический",
+          "description": "Traditionele versie zoals in lokale huizen geserveerd"
+        },
+        {
+          "name": "Khao Pad Sapparot современный",
+          "description": "Moderne interpretatie met premium ingrediënten"
+        },
+        {
+          "name": "Вегетарианский Khao Pad Sapparot",
+          "description": "Plantaardige versie met tofu of paddenstoelen"
+        }
+      ],
+      "serving_suggestions": {
+        "traditional_accompaniments": [
+          "Jasmijnrijst",
+          "Verse groenten",
+          "Thaise kruiden"
+        ],
+        "presentation": "Geserveerd op een bord in traditionele Thaise stijl",
+        "eating_etiquette": "Gegeten met vork en lepel volgens Thaise gewoonte"
+      },
+      "where_to_find": {
+        "best_restaurants": [
+          "Lokale Midden-Thaise restaurants",
+          "Authentieke straatkraampjes",
+          "Traditionele markten",
+          "Familie-eetgelegenheden"
+        ],
+        "street_food_areas": [
+          "Nachtmarkten",
+          "Verse ochtendmarkten",
+          "Lokale foodcourts"
+        ]
+      },
+      "translated_at": "2026-03-11T00:00:00.000Z"
+    },
+    "ko": {
+      "enhanced_description": "Khao Pad Sapparot is een iconisch gebakken rijstgerecht uit Midden-Thailand, waar de zoetzure ananas, umami van garnalen en nootachtige cashewnoten perfect samenkomen in een spectaculair menu. Dit eenvoudige recept is in ongeveer 20 minuten klaar, met een indrukwekkende presentatie in een uitgeholde ananas. De subtiele curry-aroma's, zoetheid van rozijnen en smaken van garnalen en cashewnoten harmoniëren met de rijst, en tonen de perfecte balans van zoet-zout-zuur in de Thaise keuken. Geliefd bij toeristen en locals.",
+      "detailed_ingredients": [
+        {
+          "name": "밥 (하루 묵은 밥)",
+          "purpose": "Basis voor gebakken rijst; een dag oude rijst geeft de beste textuur",
+          "substitutes": [
+            "Jasmijnrijst",
+            "Jasmijnrijst",
+            "Bruine rijst (gezonde vervanger)"
+          ]
+        },
+        {
+          "name": "파인애플",
+          "purpose": "Belangrijk ingrediënt dat zoetzure smaak en tropische fruitsmaak toevoegt",
+          "substitutes": [
+            "Verse ananas",
+            "Ananas uit blik",
+            "Gedroogde ananas"
+          ]
+        },
+        {
+          "name": "새우",
+          "purpose": "Hoofdingrediënt dat umami en eiwitten van zeevruchten toevoegt",
+          "substitutes": [
+            "Verse garnalen",
+            "Diepvriesgarnalen",
+            "Kip (vervanger)"
+          ]
+        },
+        {
+          "name": "캐슈넛",
+          "purpose": "Topping die nootachtige smaak en knapperige textuur toevoegt",
+          "substitutes": [
+            "Geroosterde cashewnoten",
+            "Pinda's",
+            "Macadamianoten (luxe vervanger)"
+          ]
+        }
+      ],
+      "cooking_method": {
+        "technique": "Wok-roerbakken (hoge temperatuur, korte tijd)",
+        "steps_overview": "Om Khao Pad Sapparot te maken, snijd je de ananas eerst in de lengte doormidden en hol je de inhoud uit. Verhit olie in een hete wok, roerbak knoflook en voeg dan garnalen toe om te bakken. Voeg dagoud rijst toe en kruid met currypoeder, sojasaus en vissaus. Voeg ananasstukjes, rozijnen en cashewnoten toe en roerbak snel. Serveer in de ananasschil om af te maken.",
+        "cooking_tips": [
+          "Gebruik dagoud rijst om te voorkomen dat het tijdens het roerbakken papperig wordt",
+          "Voeg de ananas pas op het laatst toe, anders wordt hij te zacht",
+          "Gebruik slechts een klein beetje currypoeder om de ananassmaak te behouden",
+          "Rooster de cashewnoten van tevoren voor extra nootachtige smaak"
+        ]
+      },
+      "cultural_significance": {
+        "origin_story": "Khao Pad Sapparot is een Thais gerecht dat de rijke tropische fruitcultuur en de traditie van roerbakrijst combineert. Het is vooral populair geworden als representatief visueel menu in de toerisme-industrie. De unieke presentatie in de ananasschil is het symbool van dit gerecht.",
+        "cultural_importance": "Dit gerecht toont de creativiteit en presentatiezin van de Thaise keuken. De balans tussen zoet, zout en zuur vat de kern van de Thaise kookfilosofie samen en is bijzonder populair in strandrestaurants en toeristische gebieden.",
+        "traditional_occasions": [
+          "Welkomstdiner voor toeristen",
+          "Strandrestaurant",
+          "Familie-uit eten",
+          "Feestmaal"
+        ]
+      },
+      "variations": [
+        {
+          "name": "카오팟 싸빠롯 새우 (전통식)",
+          "description": "De meest traditionele en populaire versie met garnalen en cashewnoten."
+        },
+        {
+          "name": "카오팟 싸빠롯 닭고기",
+          "description": "Variatie met kip in plaats van garnalen, ideaal voor mensen met een allergie voor zeevruchten."
+        },
+        {
+          "name": "채식 카오팟 싸빠롯",
+          "description": "Vegetarische versie met tofu en groenten."
+        }
+      ],
+      "serving_suggestions": {
+        "traditional_accompaniments": [
+          "Kommersnitten",
+          "Limoenpartjes",
+          "Chilisaus"
+        ],
+        "presentation": "Geserveerd in de uitgeholde ananasschil voor een spectaculaire presentatie",
+        "eating_etiquette": "Eet met vork en lepel volgens Thaise traditie"
+      },
+      "where_to_find": {
+        "best_restaurants": [
+          "Strandrestaurant",
+          "Thais restaurant in toeristisch gebied",
+          "Nachtmarkt",
+          "Hotelrestaurant"
+        ],
+        "street_food_areas": [
+          "Nachtmarkt",
+          "Strandkraampje",
+          "Lokale foodcourt"
+        ],
+        "price_ranges": {
+          "street_vendor": "50-80 THB",
+          "market_stall": "60-100 THB",
+          "restaurant": "100-200 THB"
+        }
+      },
+      "translated_at": "2026-03-14T00:00:00.000Z"
+    },
+    "th": {
+      "enhanced_description": "Khao Pad Sapparot is een opvallend Thais gerecht dat wordt geserveerd in de ananasschil. Jasmine rijst geroerbakt met ananas, cashewnoten, rozijnen en currypoeder, met een zoetzure, hartige en geurige smaak.",
+      "detailed_ingredients": [
+        {
+          "name": "Rice",
+          "purpose": "Belangrijk voor de authentieke smaak van Khao Pad Sapparot",
+          "substitutes": [
+            "Verse rijst",
+            "Gedroogde rijst",
+            "Rijstpasta"
+          ]
+        },
+        {
+          "name": "Pineapple",
+          "purpose": "Belangrijk voor de authentieke smaak van Khao Pad Sapparot",
+          "substitutes": [
+            "Verse ananas",
+            "Gedroogde ananas",
+            "Ananaspasta"
+          ]
+        },
+        {
+          "name": "Shrimp",
+          "purpose": "Belangrijk voor de authentieke smaak van Khao Pad Sapparot",
+          "substitutes": [
+            "Verse garnalen",
+            "Gedroogde garnalen",
+            "Garnalenpasta"
+          ]
+        },
+        {
+          "name": "Cashew nuts",
+          "purpose": "Belangrijk voor de authentieke smaak van Khao Pad Sapparot",
+          "substitutes": [
+            "Verse cashewnoten",
+            "Gedroogde cashewnoten",
+            "Cashewnotenpasta"
+          ]
+        }
+      ],
+      "cooking_method": {
+        "technique": "Roerbakken of grillen",
+        "steps_overview": "De bereiding van Khao Pad Sapparot vereist aandacht voor details en timing. Het is cruciaal om alle smaken in balans te brengen terwijl de textuur van elk ingrediënt behouden blijft. De traditionele methode, doorgegeven door generaties, garandeert authentieke smaak.",
+        "cooking_tips": [
+          "Gebruik verse rijst voor het beste resultaat",
+          "Pas de pittigheid aan naar smaak",
+          "Bak niet te lang om de textuur te behouden",
+          "Proef en kruid af voor het serveren"
+        ]
+      },
+      "cultural_significance": {
+        "origin_story": "Dit gerecht is al generaties lang deel van de centrale Thaise voedselcultuur en weerspiegelt de unieke kooktradities en lokale ingrediënten van de regio.",
+        "cultural_importance": "Dit gerecht is het hart van de centrale Thaise keuken en toont de balans en harmonie waar Thaise gerechten wereldwijd om bekendstaan.",
+        "traditional_occasions": [
+          "Familiebijeenkomst",
+          "Lokale festival",
+          "Straatvoedselmarkt",
+          "Speciale viering"
+        ]
+      },
+      "variations": [
+        {
+          "name": "Khao Pad Sapparot Classic",
+          "description": "Traditionele versie geserveerd in lokale huizen"
+        },
+        {
+          "name": "Khao Pad Sapparot Modern",
+          "description": "Moderne versie met premium ingrediënten"
+        },
+        {
+          "name": "Vegetarian Khao Pad Sapparot",
+          "description": "Vegetarische versie met tofu of paddenstoelen"
+        }
+      ],
+      "serving_suggestions": {
+        "traditional_accompaniments": [
+          "Jasmine rijst",
+          "Verse groenten",
+          "Thaise kruiden"
+        ],
+        "presentation": "Geserveerd op traditionele Thaise wijze in een schaal",
+        "eating_etiquette": "Eet met lepel en vork volgens Thaise gewoonte"
+      },
+      "where_to_find": {
+        "best_restaurants": [
+          "Centrale Thais restaurant",
+          "Authentiek straatrestantaurant",
+          "Traditionele markt",
+          "Familierestaurant"
+        ],
+        "street_food_areas": [
+          "Nachtmarkt",
+          "Ochtendmarkt",
+          "Lokale voedselcentrum"
+        ],
+        "price_ranges": {
+          "street_vendor": "50-80 THB",
+          "market_stall": "60-100 THB",
+          "restaurant": "100-200 THB"
+        }
+      },
+      "translated_at": "2026-03-14T00:00:00.000Z"
+    },
+    "ja": {
+      "enhanced_description": "Khao Pad Sapparot is een klassieker uit het centrale Thailand, geliefd als hartverwarmend hoofdgerecht. Het is ananasgeroerbakte rijst geserveerd in de ananasschil. Dit recept is middelzwaar en duurt ongeveer 20 minuten, en brengt de authentieke smaak van centrale Thaise keuken tot leven met perfecte balans van zoet, zuur, zout en pittig. De combinatie van rijst, ananas en garnalen creëert een harmonieuze symfonie en is populair bij zowel locals als bezoekers. Ideaal voor wie betaalbare authentieke Thaise keuken zoekt.",
+      "detailed_ingredients": [
+        {
+          "name": "米",
+          "purpose": "Onmisbaar voor de authentieke smaak van Khao Pad Sapparot",
+          "substitutes": [
+            "Nieuwe rijst",
+            "Gedroogde rijst",
+            "Rijstpaste"
+          ]
+        },
+        {
+          "name": "パイナップル",
+          "purpose": "Onmisbaar voor de authentieke smaak van Khao Pad Sapparot",
+          "substitutes": [
+            "Verse ananas",
+            "Gedroogde ananas",
+            "Ananas paste"
+          ]
+        },
+        {
+          "name": "エビ",
+          "purpose": "Onmisbaar voor de authentieke smaak van Khao Pad Sapparot",
+          "substitutes": [
+            "Verse garnalen",
+            "Gedroogde garnalen",
+            "Garnalen paste"
+          ]
+        },
+        {
+          "name": "カシューナッツ",
+          "purpose": "Onmisbaar voor de authentieke smaak van Khao Pad Sapparot",
+          "substitutes": [
+            "Verse cashewnoten",
+            "Gedroogde cashewnoten",
+            "Cashewnoten paste"
+          ]
+        }
+      ],
+      "cooking_method": {
+        "technique": "Techniek: roerbakken (of grillen)",
+        "steps_overview": "De voorbereiding van Khao Pad Sapparot vereist aandacht voor details en juiste timing. Het balanceren van alle smaken terwijl de textuur van elk ingrediënt behouden blijft, is de sleutel. De traditionele methode, doorgegeven door generaties, zorgt voor authentieke smaak.",
+        "cooking_tips": [
+          "Gebruik zo vers mogelijke rijst voor het beste resultaat",
+          "Pas de pittigheid aan naar wens",
+          "Verhit niet te lang om de textuur te behouden",
+          "Proef en pas de smaak aan voor het serveren"
+        ]
+      },
+      "cultural_significance": {
+        "origin_story": "Khao Pad Sapparot is al generaties lang een klassieker in de centrale Thaise keuken en weerspiegelt de unieke kooktradities en lokale ingrediënten van de regio.",
+        "cultural_importance": "Dit gerecht vertegenwoordigt het hart van de centrale Thaise keuken en toont de balans en harmonie waar Thaise gerechten wereldwijd om bekendstaan.",
+        "traditional_occasions": [
+          "Familiebijeenkomst",
+          "Lokale festival",
+          "Kraam markt",
+          "Speciale viering"
+        ]
+      },
+      "variations": [
+        {
+          "name": "Khao Pad Sapparot Classic",
+          "description": "Traditionele versie geserveerd in regionale huizen"
+        },
+        {
+          "name": "Khao Pad Sapparot Modern",
+          "description": "Moderne versie met premium ingrediënten"
+        },
+        {
+          "name": "Vegetarian Khao Pad Sapparot",
+          "description": "Plantaardige versie met tofu of paddenstoelen"
+        }
+      ],
+      "serving_suggestions": {
+        "traditional_accompaniments": [
+          "Jasmijnrijst",
+          "Verse groenten",
+          "Thaise kruiden"
+        ],
+        "presentation": "Geserveerd op Thaise traditionele wijze in een schaal",
+        "eating_etiquette": "Eet met vork en lepel volgens Thaise traditie"
+      },
+      "where_to_find": {
+        "best_restaurants": [
+          "Lokale centrale Thais restaurant",
+          "Authentiek kraamrestaurant",
+          "Traditionele markt",
+          "Familiebedrijf eetgelegenheid"
+        ],
+        "street_food_areas": [
+          "Nachtmarkt",
+          "Ochtendmarkt",
+          "Lokale foodcourt"
+        ],
+        "price_ranges": {
+          "street_vendor": "50-80 THB",
+          "market_stall": "60-100 THB",
+          "restaurant": "100-200 THB"
+        }
+      },
+      "translated_at": "2026-03-14T00:00:00.000Z"
+    }
+  }
+}

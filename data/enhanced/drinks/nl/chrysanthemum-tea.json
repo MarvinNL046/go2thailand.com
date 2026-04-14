@@ -1,0 +1,52 @@
+{
+  "id": 20,
+  "slug": "chrysanthemum-tea",
+  "name": {
+    "en": "Chrysanthemum Tea",
+    "nl": "Chrysanten Thee",
+    "thai": "ชาเก๊กฮวย"
+  },
+  "category": "kruiden",
+  "type": "beide",
+  "description": {
+    "en": "Cooling floral tea",
+    "nl": "Verkoelende bloementhee"
+  },
+  "ingredients": [
+    "gedroogde chrysantenbloemen",
+    "rotsuiker"
+  ],
+  "allergens": [],
+  "dietary": [
+    "vegan"
+  ],
+  "image": "/images/drinks/chrysanthemum-tea.webp",
+  "temperature": "beide",
+  "alcohol_content": "geen",
+  "caffeine": "geen",
+  "price_range": "budget",
+  "region": "chinees-thais",
+  "occasions": [
+    "verkoelend",
+    "gezondheid"
+  ],
+  "seo": {
+    "metaTitle": {
+      "en": "Chrysanthemum Tea Recipe | Authentic Thai herbal",
+      "nl": "Chrysanten Thee Recept | Authentieke Thaise herbal"
+    },
+    "metaDescription": {
+      "en": "Learn about Chrysanthemum Tea (ชาเก๊กฮวย) - Cooling floral tea",
+      "nl": "Leer over Chrysanten Thee (ชาเก๊กฮวย) - Verkoelende bloementhee"
+    }
+  },
+  "tags": [
+    "thaise-dranken",
+    "Thailand",
+    "kruiden",
+    "beide",
+    "beide",
+    "verkoelend",
+    "gezondheid"
+  ]
+}

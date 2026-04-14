@@ -1,0 +1,976 @@
+{
+  "id": 22,
+  "slug": "hoy-tod",
+  "name": {
+    "en": "Hoy Tod",
+    "nl": "Hoy Tod",
+    "thai": "หอยทอด"
+  },
+  "category": "hoofdgerecht",
+  "region": "centraal",
+  "spice_level": "mild",
+  "description": {
+    "en": "Crispy mussel or oyster pancake with bean sprouts",
+    "nl": "Knapperige mossel- of oesterpannenkoek met taugé"
+  },
+  "ingredients": [
+    "mosselen of oesters",
+    "bloem",
+    "ei",
+    "taugé",
+    "Chinese bieslook"
+  ],
+  "allergens": [
+    "zeevruchten"
+  ],
+  "dietary": [],
+  "image": "/images/food/hoy-tod.webp",
+  "preparation_time": "15 minuten",
+  "difficulty": "gemiddeld",
+  "price_range": "budget",
+  "seo": {
+    "metaTitle": {
+      "en": "Hoy Tod Recipe | Authentic Thai main dish",
+      "nl": "Hoy Tod Recept | Authentieke Thaise main dish"
+    },
+    "metaDescription": {
+      "en": "Learn about Hoy Tod (หอยทอด) - Crispy mussel or oyster pancake with bean sprouts...",
+      "nl": "Leer over Hoy Tod (หอยทอด) - Knapperige mossel- of oesterpannenkoek met taugé..."
+    }
+  },
+  "tags": [
+    "Thais eten",
+    "Thailand",
+    "hoofdgerecht",
+    "centraal",
+    "mild",
+    "gemiddeld",
+    "budget",
+    "mosselen of oesters",
+    "bloem",
+    "ei"
+  ],
+  "cooking": {
+    "preparation_time": "15 minuten",
+    "difficulty": "gemiddeld",
+    "spice_level": "mild",
+    "serves": "2-4 personen"
+  },
+  "nutrition": {
+    "allergens": [
+      "zeevruchten"
+    ],
+    "dietary": [],
+    "price_range": "budget"
+  },
+  "enhanced_description": "Hoy Tod is een geliefd stevig en bevredigend hoofdgerecht uit Centraal-Thailand met een subtiele warmte. Knapperige mossel- of oesterpannenkoek met taugé. Dit gemiddelde recept duurt ongeveer 15 minuten om te bereiden en vertegenwoordigt de authentieke smaken van de Centraal-Thaise keuken die zoet, zuur, zout en pittig perfect in balans brengt. De combinatie van mosselen of oesters, bloem en ei creëert een harmonieuze mix die dit gerecht een favoriet heeft gemaakt onder locals en bezoekers. Perfect voor wie op zoek is naar betaalbare authentieke Thaise keuken.",
+  "detailed_ingredients": [
+    {
+      "name": "Mussels or oysters",
+      "purpose": "Essentieel voor authentieke Hoy Tod smaak",
+      "substitutes": [
+        "Verse mosselen of oesters",
+        "Gedroogde mosselen of oesters",
+        "mosselen of oesters pasta"
+      ]
+    },
+    {
+      "name": "Flour",
+      "purpose": "Essentieel voor authentieke Hoy Tod smaak",
+      "substitutes": [
+        "Verse bloem",
+        "Gedroogde bloem",
+        "bloem pasta"
+      ]
+    },
+    {
+      "name": "Egg",
+      "purpose": "Essentieel voor authentieke Hoy Tod smaak",
+      "substitutes": [
+        "Vers ei",
+        "Gedroogd ei",
+        "ei pasta"
+      ]
+    },
+    {
+      "name": "Bean sprouts",
+      "purpose": "Essentieel voor authentieke Hoy Tod smaak",
+      "substitutes": [
+        "Verse taugé",
+        "Gedroogde taugé",
+        "taugé pasta"
+      ]
+    }
+  ],
+  "cooking_method": {
+    "technique": "Roerbakken of grillen",
+    "steps_overview": "Het bereiden van Hoy Tod vereist aandacht voor detail en juiste timing. De sleutel is het balanceren van alle smaken terwijl de textuur van elk ingrediënt behouden blijft. Traditionele methoden die van generatie op generatie zijn doorgegeven, zorgen voor authentieke smaak.",
+    "cooking_tips": [
+      "Gebruik verse mosselen of oesters voor het beste resultaat",
+      "Pas het pittigheidsniveau aan naar voorkeur",
+      "Kook niet te lang door om textuur te behouden",
+      "Proef en pas kruiding aan voor serveren"
+    ]
+  },
+  "cultural_significance": {
+    "origin_story": "Hoy Tod is al generaties lang een basis van de Centraal-Thaise keuken en weerspiegelt de unieke culinaire tradities en lokale ingrediënten van de regio.",
+    "cultural_importance": "Dit gerecht vertegenwoordigt het hart van de Centraal-Thaise kookkunst en toont de balans en harmonie waarvoor de Thaise keuken wereldwijd beroemd is.",
+    "traditional_occasions": [
+      "Familiebijeenkomsten",
+      "Lokale festivals",
+      "Streetfoodmarkten",
+      "Speciale vieringen"
+    ]
+  },
+  "variations": [
+    {
+      "name": "Hoy Tod Classic",
+      "description": "De traditionele versie zoals geserveerd in lokale huizen"
+    },
+    {
+      "name": "Hoy Tod Modern",
+      "description": "Moderne twist met premium ingrediënten"
+    },
+    {
+      "name": "Vegetarian Hoy Tod",
+      "description": "Plantaardige versie met tofu of paddenstoelen"
+    }
+  ],
+  "serving_suggestions": {
+    "traditional_accompaniments": [
+      "Jasmijnrijst",
+      "Verse groenten",
+      "Thaise kruiden"
+    ],
+    "presentation": "Geserveerd op een bord in traditionele Thaise stijl",
+    "eating_etiquette": "Genoten met vork en lepel volgens Thais gebruik"
+  },
+  "nutritional_info": {
+    "calories_per_serving": "300-500 calorieën",
+    "health_benefits": [
+      "Rijk aan Thaise kruiden en specerijen",
+      "Bron van eiwitten en groenten",
+      "Gebalanceerde smaken en voedingsstoffen"
+    ],
+    "dietary_notes": []
+  },
+  "where_to_find": {
+    "best_restaurants": [
+      "Lokale Centraal-Thaise restaurants",
+      "Authentieke streetfoodkraampjes",
+      "Traditionele markten",
+      "Familiegerunde eetgelegenheden"
+    ],
+    "street_food_areas": [
+      "Nachtmarkten",
+      "Ochtendverse markten",
+      "Lokale foodcourts"
+    ],
+    "price_ranges": {
+      "street_vendor": "30-50 THB",
+      "market_stall": "40-60 THB",
+      "restaurant": "60-100 THB"
+    }
+  },
+  "translations": {
+    "nl": {
+      "enhanced_description": "Hoy Tod is een geliefd stevig en smaakvol hoofdgerecht uit Centraal-Thailand met een subtiele warmte. Knapperige mossel- of oesterpannenkoek met taugé. Dit recept met gemiddelde moeilijkheidsgraad vergt ongeveer 15 minuten bereidingstijd en vertegenwoordigt de authentieke smaken van de Centraal-Thaise keuken die zoet, zuur, zout en pittig perfect in balans brengt. De combinatie van mosselen of oesters, meel en ei creëert een harmonieuze mix die dit gerecht tot een favoriet heeft gemaakt onder zowel locals als bezoekers. Perfect voor wie op zoek is naar betaalbare authentieke Thaise keuken.",
+      "detailed_ingredients": [
+        {
+          "name": "Mosselen of oesters",
+          "purpose": "Essentieel voor de authentieke Hoy Tod smaak",
+          "substitutes": [
+            "Verse mosselen of oesters",
+            "Gedroogde mosselen of oesters",
+            "Mosselen- of oesterpasta"
+          ]
+        },
+        {
+          "name": "Meel",
+          "purpose": "Essentieel voor de authentieke Hoy Tod smaak",
+          "substitutes": [
+            "Tarwebloem",
+            "Rijstmeel",
+            "Tapiocameel"
+          ]
+        },
+        {
+          "name": "Ei",
+          "purpose": "Essentieel voor de authentieke Hoy Tod smaak",
+          "substitutes": [
+            "Vers ei",
+            "Eiwit",
+            "Eigeel"
+          ]
+        },
+        {
+          "name": "Taugé",
+          "purpose": "Essentieel voor de authentieke Hoy Tod smaak",
+          "substitutes": [
+            "Verse taugé",
+            "Gedroogde taugé",
+            "Sojascheutjes"
+          ]
+        }
+      ],
+      "cooking_method": {
+        "technique": "Bakken in de pan",
+        "steps_overview": "Het bereiden van Hoy Tod vereist aandacht voor detail en goede timing. De sleutel is het balanceren van alle smaken terwijl de textuur van elk ingrediënt behouden blijft. Traditionele methoden die van generatie op generatie zijn doorgegeven, garanderen een authentieke smaak.",
+        "cooking_tips": [
+          "Gebruik verse mosselen of oesters voor het beste resultaat",
+          "Pas het pittigheidsgehalte aan naar je voorkeur",
+          "Kook niet te lang om de textuur te behouden",
+          "Proef en pas de kruiding aan voor het serveren"
+        ]
+      },
+      "cultural_significance": {
+        "origin_story": "Hoy Tod is al generaties lang een vast onderdeel van de Centraal-Thaise keuken en weerspiegelt de unieke culinaire tradities en lokale ingrediënten van de regio.",
+        "cultural_importance": "Dit gerecht vertegenwoordigt het hart van de Centraal-Thaise kookkunst en toont de balans en harmonie waarmee de Thaise keuken wereldwijd beroemd is.",
+        "traditional_occasions": [
+          "Familiebijeenkomsten",
+          "Lokale festivals",
+          "Straatvoedselmarkten",
+          "Bijzondere vieringen"
+        ]
+      },
+      "variations": [
+        {
+          "name": "Hoy Tod Klassiek",
+          "description": "De traditionele versie zoals geserveerd in lokale huishoudens"
+        },
+        {
+          "name": "Hoy Tod Modern",
+          "description": "Hedendaagse variant met premium ingrediënten"
+        },
+        {
+          "name": "Vegetarische Hoy Tod",
+          "description": "Plantaardige versie met tofu of paddenstoelen"
+        }
+      ],
+      "serving_suggestions": {
+        "traditional_accompaniments": [
+          "Jasmijnrijst",
+          "Verse groenten",
+          "Thaise kruiden"
+        ],
+        "presentation": "Geserveerd op een bord in traditionele Thaise stijl",
+        "eating_etiquette": "Gegeten met vork en lepel volgens Thais gebruik"
+      },
+      "where_to_find": {
+        "best_restaurants": [
+          "Lokale Centraal-Thaise restaurants",
+          "Authentieke straatvoedselkramen",
+          "Traditionele markten",
+          "Familiebedrijfjes"
+        ],
+        "street_food_areas": [
+          "Nachtmarkten",
+          "Ochtendverse markten",
+          "Lokale food courts"
+        ]
+      },
+      "translated_at": "2026-03-10T00:00:00.000Z"
+    },
+    "fr": {
+      "enhanced_description": "Hoy Tod is een geliefd stevig en smaakvol hoofdgerecht uit Centraal-Thailand met een subtiele warmte. Knapperige mossel- of oestercrêpe met taugé. Dit recept van gemiddelde moeilijkheidsgraad vereist ongeveer 15 minuten voorbereiding en vertegenwoordigt de authentieke smaken van de Centraal-Thaise keuken die zoet, zuur, zout en pittig perfect in balans brengt. De combinatie van mosselen of oesters, bloem en ei creëert een harmonieuze mix die dit gerecht een favoriet heeft gemaakt bij zowel locals als bezoekers. Perfect voor wie authentieke Thaise keuken zoekt tegen een betaalbare prijs.",
+      "detailed_ingredients": [
+        {
+          "name": "Moules ou huîtres",
+          "purpose": "Essentieel voor de authentieke Hoy Tod smaak",
+          "substitutes": [
+            "Verse mosselen of oesters",
+            "Gedroogde mosselen of oesters",
+            "Mosselen- of oesterpasta"
+          ]
+        },
+        {
+          "name": "Farine",
+          "purpose": "Essentieel voor de authentieke Hoy Tod smaak",
+          "substitutes": [
+            "Tarwebloem",
+            "Rijstmeel",
+            "Tapiocameel"
+          ]
+        },
+        {
+          "name": "Œuf",
+          "purpose": "Essentieel voor de authentieke Hoy Tod smaak",
+          "substitutes": [
+            "Vers ei",
+            "Eiwit",
+            "Eigeel"
+          ]
+        },
+        {
+          "name": "Germes de soja",
+          "purpose": "Essentieel voor de authentieke Hoy Tod smaak",
+          "substitutes": [
+            "Verse taugé",
+            "Gedroogde taugé",
+            "Sojascheuten"
+          ]
+        }
+      ],
+      "cooking_method": {
+        "technique": "Bakken in de pan",
+        "steps_overview": "Het bereiden van Hoy Tod vereist aandacht voor details en goed timing. De sleutel is het evenwichtigen van alle smaken terwijl de textuur van elk ingrediënt behouden blijft. Traditionele methoden die van generatie op generatie zijn doorgegeven, garanderen een authentieke smaak.",
+        "cooking_tips": [
+          "Gebruik verse mosselen of oesters voor het beste resultaat",
+          "Pas het pittigheidsniveau aan volgens je voorkeur",
+          "Kook niet te lang om de textuur te behouden",
+          "Proef en pas de kruiding aan voor het serveren"
+        ]
+      },
+      "cultural_significance": {
+        "origin_story": "Hoy Tod is al generaties lang een pijler van de Centraal-Thaise keuken en weerspiegelt de unieke culinaire tradities en lokale ingrediënten van de regio.",
+        "cultural_importance": "Dit gerecht vertegenwoordigt het hart van de Centraal-Thaise keuken en illustreert de balans en harmonie die de Thaise keuken wereldwijd beroemd hebben gemaakt.",
+        "traditional_occasions": [
+          "Familiebijeenkomsten",
+          "Lokale festivals",
+          "Straatvoedselmarkten",
+          "Speciale vieringen"
+        ]
+      },
+      "variations": [
+        {
+          "name": "Hoy Tod Classique",
+          "description": "De traditionele versie zoals geserveerd in lokale huizen"
+        },
+        {
+          "name": "Hoy Tod Moderne",
+          "description": "Moderne versie met premium ingrediënten"
+        },
+        {
+          "name": "Hoy Tod Végétarien",
+          "description": "Vegetarische versie met tofu of champignons"
+        }
+      ],
+      "serving_suggestions": {
+        "traditional_accompaniments": [
+          "Jasmijnrijst",
+          "Verse groenten",
+          "Thaise kruiden"
+        ],
+        "presentation": "Geserveerd op een bord in de traditionele Thaise stijl",
+        "eating_etiquette": "Genuttigd met vork en lepel volgens Thaise traditie"
+      },
+      "where_to_find": {
+        "best_restaurants": [
+          "Lokale restaurants in het centrum van Thailand",
+          "Authentieke straatkiosken",
+          "Traditionele markten",
+          "Familierestaurants"
+        ],
+        "street_food_areas": [
+          "Nachtmarkten",
+          "Verse ochtendmarkten",
+          "Lokale food courts"
+        ]
+      },
+      "translated_at": "2026-03-10T00:00:00.000Z"
+    },
+    "de": {
+      "enhanced_description": "Hoy Tod is een populair stevig en smakelijk hoofdgerecht uit Midden-Thailand met een subtiele warmte. Knapperige mossel- of oesterpannenkoek met sojacheuten. Dit recept van gemiddelde moeilijkheid vereist ongeveer 15 minuten voorbereidingstijd en vertegenwoordigt de authentieke smaken van de Midden-Thaise keuken, die zoet, zuur, zout en pittig perfect in balans houdt. De combinatie van mosselen of oesters, bloem en ei geeft een harmonieuze mengeling die dit gerecht geliefd maakt bij zowel locals als bezoekers. Perfect voor wie betaalbare authentieke Thaise keuken zoekt.",
+      "detailed_ingredients": [
+        {
+          "name": "Muscheln oder Austern",
+          "purpose": "Onmisbaar voor de authentieke Hoy Tod-smaak",
+          "substitutes": [
+            "Verse mosselen of oesters",
+            "Gedroogde mosselen of oesters",
+            "Mossel- of oesterpasta"
+          ]
+        },
+        {
+          "name": "Mehl",
+          "purpose": "Onmisbaar voor de authentieke Hoy Tod-smaak",
+          "substitutes": [
+            "Tarwebloem",
+            "Rijstbloem",
+            "Tapiocabloem"
+          ]
+        },
+        {
+          "name": "Ei",
+          "purpose": "Onmisbaar voor de authentieke Hoy Tod-smaak",
+          "substitutes": [
+            "Vers ei",
+            "Eiwit",
+            "Dooiers"
+          ]
+        },
+        {
+          "name": "Sojasprossen",
+          "purpose": "Onmisbaar voor de authentieke Hoy Tod-smaak",
+          "substitutes": [
+            "Verse sojacheuten",
+            "Gedroogde sojacheuten",
+            "Mungbooncheuten"
+          ]
+        }
+      ],
+      "cooking_method": {
+        "technique": "Bakken in de pan",
+        "steps_overview": "De bereiding van Hoy Tod vereist aandacht voor detail en goed timen. De sleutel ligt in het balanceren van alle smaken terwijl de textuur van elke ingrediënt behouden blijft. Traditionele methoden, doorgegeven over generaties, garanderen authentieke smaak.",
+        "cooking_tips": [
+          "Gebruik verse mosselen of oesters voor het beste resultaat",
+          "Pas de pittigheid aan naar smaak",
+          "Niet te lang koken om de textuur te behouden",
+          "Proeven en op smaak brengen voor het serveren"
+        ]
+      },
+      "cultural_significance": {
+        "origin_story": "Hoy Tod is al generaties lang een vast onderdeel van de Midden-Thaise keuken en weerspiegelt de unieke culinaire tradities en lokale ingrediënten van de regio.",
+        "cultural_importance": "Dit gerecht vertegenwoordigt het hart van de Midden-Thaise kookkunst en toont de balans en harmonie waarvoor de Thaise keuken wereldwijd beroemd is.",
+        "traditional_occasions": [
+          "Familiebijeenkomsten",
+          "Lokale festivals",
+          "Straatkeukens-markten",
+          "Speciale vieringen"
+        ]
+      },
+      "variations": [
+        {
+          "name": "Hoy Tod Klassisch",
+          "description": "De traditionele versie zoals geserveerd in lokale huishoudens"
+        },
+        {
+          "name": "Hoy Tod Modern",
+          "description": "Contemporaine variant met premium ingrediënten"
+        },
+        {
+          "name": "Vegetarisches Hoy Tod",
+          "description": "Plantaardige versie met tofu of paddenstoelen"
+        }
+      ],
+      "serving_suggestions": {
+        "traditional_accompaniments": [
+          "Jasmijnrijst",
+          "Verse groenten",
+          "Thaise kruiden"
+        ],
+        "presentation": "Geserveerd op een bord in de traditionele Thaise stijl",
+        "eating_etiquette": "Gegeten met vork en lepel volgens Thaise gewoonte"
+      },
+      "where_to_find": {
+        "best_restaurants": [
+          "Lokale Midden-Thaise restaurants",
+          "Authentieke straatkiosken",
+          "Traditionele markten",
+          "Familiegerunde etablissementen"
+        ],
+        "street_food_areas": [
+          "Nachtmarkten",
+          "Ochtendverse markten",
+          "Lokale food courts"
+        ]
+      },
+      "translated_at": "2026-03-10T00:00:00.000Z"
+    },
+    "zh": {
+      "enhanced_description": "Hoy Tod is een geliefd stevig hoofdgerecht uit Midden-Thailand met een subtiele warmte. Knapperige mossel- of oesterpannenkoek met cheuten. Dit recept van gemiddelde moeilijkheid duurt ongeveer 15 minuten voorbereiding en vertegenwoordigt de authentieke smaken van de Midden-Thaise keuken, met perfecte balans van zoet, zuur, zout en pittig. De combinatie van mosselen of oesters, bloem en ei creëert een harmonieuze smaak die dit gerecht favoriet maakt bij locals en toeristen. Ideaal voor wie betaalbare authentieke Thaise gerechten zoekt.",
+      "detailed_ingredients": [
+        {
+          "name": "贻贝或牡蛎",
+          "purpose": "Sleutelingrediënt voor de authentieke Hoy Tod-smaak",
+          "substitutes": [
+            "Verse mosselen of oesters",
+            "Gedroogde mosselen of oesters",
+            "Mossel- of oesterpasta"
+          ]
+        },
+        {
+          "name": "面粉",
+          "purpose": "Sleutelingrediënt voor de authentieke Hoy Tod-smaak",
+          "substitutes": [
+            "Tarwebloem",
+            "Rijstbloem",
+            "Tapiocabloem"
+          ]
+        },
+        {
+          "name": "鸡蛋",
+          "purpose": "Sleutelingrediënt voor de authentieke Hoy Tod-smaak",
+          "substitutes": [
+            "Vers ei",
+            "Eiwit",
+            "Dooiers"
+          ]
+        },
+        {
+          "name": "豆芽",
+          "purpose": "Sleutelingrediënt voor de authentieke Hoy Tod-smaak",
+          "substitutes": [
+            "Verse cheuten",
+            "Gedroogde cheuten",
+            "Mungbooncheuten"
+          ]
+        }
+      ],
+      "cooking_method": {
+        "technique": "Bakken in de pan",
+        "steps_overview": "Het maken van Hoy Tod vereist aandacht voor details en goed timen. De sleutel is het balanceren van smaken terwijl de textuur van ingrediënten behouden blijft. Traditionele kookmethoden, doorgegeven over generaties, zorgen voor authentieke smaak.",
+        "cooking_tips": [
+          "Gebruik verse mosselen of oesters voor het beste resultaat",
+          "Pas de pittigheid aan naar persoonlijke smaak",
+          "Vermijd overkoken om textuur te behouden",
+          "Proeven en op smaak brengen voor het serveren"
+        ]
+      },
+      "cultural_significance": {
+        "origin_story": "Hoy Tod is al generaties een klassieker in de Midden-Thaise keuken en belichaamt de unieke kooktradities en lokale ingrediënten van de regio.",
+        "cultural_importance": "Dit gerecht vertegenwoordigt de essentie van Midden-Thaise kookkunst en toont de balans en harmonie die de Thaise keuken wereldwijd beroemd maken.",
+        "traditional_occasions": [
+          "Familiebijeenkomsten",
+          "Lokale feesten",
+          "Straatvoedselmarkten",
+          "Speciale vieringen"
+        ]
+      },
+      "variations": [
+        {
+          "name": "经典Hoy Tod",
+          "description": "De klassieke versie uit lokale families"
+        },
+        {
+          "name": "现代Hoy Tod",
+          "description": "Moderne versie met premium ingrediënten"
+        },
+        {
+          "name": "素食Hoy Tod",
+          "description": "Plantaardige versie met tofu of paddenstoelen"
+        }
+      ],
+      "serving_suggestions": {
+        "traditional_accompaniments": [
+          "Jasmijnrijst",
+          "Verse groenten",
+          "Thaise kruiden"
+        ],
+        "presentation": "Geserveerd op een bord in traditionele Thaise stijl",
+        "eating_etiquette": "Gegeten met vork en lepel volgens Thaise gewoonte"
+      },
+      "where_to_find": {
+        "best_restaurants": [
+          "Lokale Midden-Thaise restaurants",
+          "Authentieke straatsnacks",
+          "Traditionele markten",
+          "Familiegerunde eettentjes"
+        ],
+        "street_food_areas": [
+          "Nachtmarkten",
+          "Ochtendmarkten",
+          "Lokale voedselpleinen"
+        ]
+      },
+      "translated_at": "2026-03-11T00:00:00.000Z"
+    },
+    "ru": {
+      "enhanced_description": "Hoy Tod is een geliefd stevig en smakelijk hoofdgerecht uit Midden-Thailand met zachte warmte. Knapperige pannenkoek met mosselen of oesters en bonenscheuten. Dit recept van gemiddelde complexiteit duurt ongeveer 15 minuten bereiding en vertegenwoordigt de authentieke smaken van de Midden-Thaise keuken, met ideale balans van zoet, zuur, zout en pittig. De mix van mosselen of oesters, bloem en ei creëert harmonie die dit gerecht favoriet maakt bij locals en gasten. Ideaal voor wie betaalbare authentieke Thaise keuken zoekt.",
+      "detailed_ingredients": [
+        {
+          "name": "Мидии или устрицы",
+          "purpose": "Hoofdingrediënt voor authentieke Hoy Tod-smaak",
+          "substitutes": [
+            "Verse mosselen of oesters",
+            "Gedroogde mosselen of oesters",
+            "Pasta van mosselen of oesters"
+          ]
+        },
+        {
+          "name": "Мука",
+          "purpose": "Hoofdingrediënt voor authentieke Hoy Tod-smaak",
+          "substitutes": [
+            "Tarwebloem",
+            "Rijstbloem",
+            "Tapiocameel"
+          ]
+        },
+        {
+          "name": "Яйцо",
+          "purpose": "Hoofdingrediënt voor authentieke Hoy Tod-smaak",
+          "substitutes": [
+            "Vers ei",
+            "Kwarteleieren",
+            "Eimengsel"
+          ]
+        },
+        {
+          "name": "Ростки фасоли",
+          "purpose": "Hoofdingrediënt voor authentieke Hoy Tod-smaak",
+          "substitutes": [
+            "Verse bonenscheuten",
+            "Gedroogde bonenscheuten",
+            "Pasta van bonenscheuten"
+          ]
+        }
+      ],
+      "cooking_method": {
+        "technique": "Bakken in wok of grill",
+        "steps_overview": "Het bereiden van Hoy Tod vereist aandacht voor details en juiste timing. De sleutel is het balanceren van smaken terwijl de textuur van elk ingrediënt behouden blijft. Traditionele methoden, doorgegeven over generaties, zorgen voor authentieke smaak.",
+        "cooking_tips": [
+          "Gebruik verse mosselen of oesters voor het beste resultaat",
+          "Pas de pittigheid aan naar smaak",
+          "Niet te lang bakken om textuur te behouden",
+          "Proeven en kruiden aanpassen voor het serveren"
+        ]
+      },
+      "cultural_significance": {
+        "origin_story": "Hoy Tod is al vele generaties de basis van de Midden-Thaise keuken en weerspiegelt de unieke culinaire tradities en lokale ingrediënten van de regio.",
+        "cultural_importance": "Dit gerecht belichaamt het hart van de Midden-Thaise culinaire kunst en toont de balans en harmonie waarvoor de Thaise keuken wereldwijd bekendstaat.",
+        "traditional_occasions": [
+          "Familiediners",
+          "Lokale festivals",
+          "Straatvoedselmarkten",
+          "Speciale gelegenheden"
+        ]
+      },
+      "variations": [
+        {
+          "name": "Hoy Tod классический",
+          "description": "Traditionele versie zoals in lokale huizen geserveerd"
+        },
+        {
+          "name": "Hoy Tod современный",
+          "description": "Moderne interpretatie met premium ingrediënten"
+        },
+        {
+          "name": "Вегетарианский Hoy Tod",
+          "description": "Plantaardige versie met tofu of paddenstoelen"
+        }
+      ],
+      "serving_suggestions": {
+        "traditional_accompaniments": [
+          "Jasmijnrijst",
+          "Verse groenten",
+          "Thaise kruiden"
+        ],
+        "presentation": "Geserveerd op een bord in traditionele Thaise stijl",
+        "eating_etiquette": "Gegeten met vork en lepel volgens Thaise traditie"
+      },
+      "where_to_find": {
+        "best_restaurants": [
+          "Lokale Midden-Thaise restaurants",
+          "Authentieke straatkraampjes",
+          "Traditionele markten",
+          "Familie-eetgelegenheden"
+        ],
+        "street_food_areas": [
+          "Nachtmarkten",
+          "Ochtendverse markten",
+          "Lokale food courts"
+        ]
+      },
+      "translated_at": "2026-03-11T00:00:00.000Z"
+    },
+    "ko": {
+      "enhanced_description": "Hoy Tod is een populaire straatfood uit Midden-Thailand, een knapperige zeevruchtenpannenkoek met mosselen of oesters in beslag. In ongeveer 15 minuten klaar, toont het de perfecte balans van zoet-zuur-zout-pittig in de Midden-Thaise keuken. De mix van mosselen of oesters, bloem en ei geeft een knapperige buitenkant en zachte binnenkant, met cheuten en bieslook voor extra crunch. Een populaire keuze voor betaalbare authentieke Thaise zeevruchten.",
+      "detailed_ingredients": [
+        {
+          "name": "홍합 또는 굴",
+          "purpose": "Hoofdingrediënt voor umami van zeevruchten",
+          "substitutes": [
+            "Verse mosselen",
+            "Verse oesters",
+            "Garnalen (vervanging)"
+          ]
+        },
+        {
+          "name": "밀가루/타피오카 전분 혼합",
+          "purpose": "Basis voor het beslag dat de knapperige buitenkant maakt",
+          "substitutes": [
+            "Rijstmeel",
+            "Tapiocazetmeel",
+            "Maïzena"
+          ]
+        },
+        {
+          "name": "달걀",
+          "purpose": "Rol die het beslag bindt en smaak toevoegt",
+          "substitutes": [
+            "Eenden ei",
+            "Eiwit",
+            "Dooiers"
+          ]
+        },
+        {
+          "name": "숙주나물",
+          "purpose": "Topping die knapperige textuur en frisheid toevoegt",
+          "substitutes": [
+            "Taogé",
+            "Chinese bieslook",
+            "Bosui"
+          ]
+        }
+      ],
+      "cooking_method": {
+        "technique": "Pan-fried (op een hete plaat)",
+        "steps_overview": "Om hoi tod te maken, meng je bloem en tapiocazetmeel met water tot een dun beslag. Giet ruim olie op een hete plaat en schenk het beslag erop, voeg mosselen of oesters toe. Als het knapperig wordt, giet je ei erover en voeg taogé en Chinese bieslook toe, vouw het op en klaar. De knapperige randen zijn essentieel.",
+        "cooking_tips": [
+          "Je moet ruim olie gebruiken om een knapperige textuur te krijgen",
+          "Spreid het beslag dun uit om het knapperig te bakken",
+          "Pas op dat mosselen of oesters niet te lang gekookt worden, anders worden ze taai",
+          "Geniet ervan met sriracha saus of chilisaus"
+        ]
+      },
+      "cultural_significance": {
+        "origin_story": "Hoi tod komt uit de Chinese gemeenschap in het centrale Thailand en is een Thaise versie van de Chinese zeevruchtenomelet (蚵仔煎). Het heeft zich over generaties ontwikkeld tot een uniek Thais gerecht met eigen smaak en stijl.",
+        "cultural_importance": "Dit gerecht vertegenwoordigt de kern van de Thaise straatreceptuur en is een must op nachtmarkten en straatkraampjes. De knapperige textuur en zeevruchtensmaak tonen de Thaise smaak.",
+        "traditional_occasions": [
+          "Nachtmarkt snacks",
+          "Familie uit eten",
+          "Straatvoedsel",
+          "Festival eten"
+        ]
+      },
+      "variations": [
+        {
+          "name": "호이똣 (바삭한 버전)",
+          "description": "De meest populaire versie waarbij het beslag dun wordt uitgespreid en knapperig gebakken."
+        },
+        {
+          "name": "호이남넝 (부드러운 버전)",
+          "description": "Een variant waarbij het beslag dikker is voor een zachte omeletstijl."
+        },
+        {
+          "name": "채식 호이똣",
+          "description": "Vegetarische versie met tofu en paddenstoelen in plaats van zeevruchten."
+        }
+      ],
+      "serving_suggestions": {
+        "traditional_accompaniments": [
+          "Sriracha saus",
+          "Taogé",
+          "Chinese bieslook"
+        ],
+        "presentation": "Serveren op een bord in traditionele Thaise stijl",
+        "eating_etiquette": "Volgens Thaise gewoonten eten met vork en lepel"
+      },
+      "where_to_find": {
+        "best_restaurants": [
+          "Lokale centrale Thaise restaurants",
+          "Nachtmarkt kraampjes",
+          "Traditionele markten",
+          "Familiegerunde eettentjes"
+        ],
+        "street_food_areas": [
+          "Nachtmarkten",
+          "Ochtendmarkten",
+          "Lokale food courts"
+        ],
+        "price_ranges": {
+          "street_vendor": "30-50 THB",
+          "market_stall": "40-60 THB",
+          "restaurant": "60-100 THB"
+        }
+      },
+      "translated_at": "2026-03-14T00:00:00.000Z"
+    },
+    "th": {
+      "enhanced_description": "หอยทอดเป็นอาหารริมทางยอดนิยมของไทย ทำจากหอยแมลงภู่หรือหอยนางรมผสมแป้งทอดกรอบ เสิร์ฟกับถั่วงอกสดและน้ำจิ้ม กรอบนอกนุ่มใน เป็นเมนูที่หาทานได้ทั่วไปตามตลาดนัดและร้านริมทาง",
+      "detailed_ingredients": [
+        {
+          "name": "Mussels or oysters",
+          "purpose": "Belangrijk voor de authentieke smaak van Hoi Tod",
+          "substitutes": [
+            "Verse mosselen of oesters",
+            "Gedroogde mosselen of oesters",
+            "Mosselen of oesters pasta"
+          ]
+        },
+        {
+          "name": "Flour",
+          "purpose": "Belangrijk voor de authentieke smaak van Hoi Tod",
+          "substitutes": [
+            "Vers meel",
+            "Gedroogd meel",
+            "Meelpasta"
+          ]
+        },
+        {
+          "name": "Egg",
+          "purpose": "Belangrijk voor de authentieke smaak van Hoi Tod",
+          "substitutes": [
+            "Vers ei",
+            "Gedroogd ei",
+            "Eipasta"
+          ]
+        },
+        {
+          "name": "Bean sprouts",
+          "purpose": "Belangrijk voor de authentieke smaak van Hoi Tod",
+          "substitutes": [
+            "Verse taogé",
+            "Gedroogde taogé",
+            "Taogé pasta"
+          ]
+        }
+      ],
+      "cooking_method": {
+        "technique": "Roerbakken of grillen",
+        "steps_overview": "Het bereiden van Hoi Tod vereist aandacht voor details en de juiste timing. Het belangrijkste is de balans van alle smaken te behouden terwijl de textuur van elk ingrediënt intact blijft. De traditionele methode, doorgegeven over generaties, garandeert authentieke smaak.",
+        "cooking_tips": [
+          "Gebruik verse mosselen of oesters voor het beste resultaat",
+          "Pas de pittigheid aan naar smaak",
+          "Kook niet te lang om de textuur te behouden",
+          "Proef en breng op smaak voor het serveren"
+        ]
+      },
+      "cultural_significance": {
+        "origin_story": "Dit gerecht is al generaties lang deel van de centrale Thaise voedselcultuur en weerspiegelt de unieke kooktradities en lokale ingrediënten van de regio.",
+        "cultural_importance": "Dit gerecht is het hart van de centrale Thaise keuken en toont de balans en harmonie waar Thaise gerechten wereldwijd beroemd om zijn.",
+        "traditional_occasions": [
+          "Familiebijeenkomsten",
+          "Lokale festivals",
+          "Straatvoedselmarkten",
+          "Speciale vieringen"
+        ]
+      },
+      "variations": [
+        {
+          "name": "Hoy Tod Classic",
+          "description": "Traditionele versie geserveerd in lokale huizen"
+        },
+        {
+          "name": "Hoy Tod Modern",
+          "description": "Moderne versie met premium ingrediënten"
+        },
+        {
+          "name": "Vegetarian Hoy Tod",
+          "description": "Vegetarische versie met tofu of paddenstoelen"
+        }
+      ],
+      "serving_suggestions": {
+        "traditional_accompaniments": [
+          "Jasmijnrijst",
+          "Verse groenten",
+          "Thaise kruiden"
+        ],
+        "presentation": "Serveren op een traditioneel Thais bord",
+        "eating_etiquette": "Eten met lepel en vork volgens Thaise traditie"
+      },
+      "where_to_find": {
+        "best_restaurants": [
+          "Centrale Thaise restaurants",
+          "Authentieke straatkraampjes",
+          "Traditionele markten",
+          "Familiegerunde restaurants"
+        ],
+        "street_food_areas": [
+          "Nachtmarkten",
+          "Ochtendmarkten",
+          "Lokale voedselcentra"
+        ],
+        "price_ranges": {
+          "street_vendor": "30-50 THB",
+          "market_stall": "40-60 THB",
+          "restaurant": "60-100 THB"
+        }
+      },
+      "translated_at": "2026-03-14T00:00:00.000Z"
+    },
+    "ja": {
+      "enhanced_description": "Hoy Tod is een geliefd hoofdgerecht in centrale Thaise huishoudens dat een vullend en bevredigend gevoel biedt met een aangename warmte. Het is een knapperige pannenkoek van mosselen of oesters met taogé. Dit recept duurt ongeveer 15 minuten om te bereiden en brengt de authentieke smaak van centrale Thaise keuken perfect tot uitdrukking met een balans van zoet, zuur, zout en pittig. De combinatie van mosselen of oesters, bloem en ei creëert een harmonieuze smaak die geliefd is bij locals en bezoekers. Ideaal voor wie betaalbare en authentieke Thaise gerechten zoekt.",
+      "detailed_ingredients": [
+        {
+          "name": "ムール貝またはカキ",
+          "purpose": "Essentieel voor de authentieke smaak van Hoy Tod",
+          "substitutes": [
+            "Verse mosselen of oesters",
+            "Gedroogde mosselen of oesters",
+            "Mosselen of oesters pasta"
+          ]
+        },
+        {
+          "name": "小麦粉",
+          "purpose": "Essentieel voor de authentieke smaak van Hoy Tod",
+          "substitutes": [
+            "Vers bloem",
+            "Gedroogde bloem",
+            "Bloempasta"
+          ]
+        },
+        {
+          "name": "卵",
+          "purpose": "Essentieel voor de authentieke smaak van Hoy Tod",
+          "substitutes": [
+            "Vers ei",
+            "Gedroogd ei",
+            "Eipasta"
+          ]
+        },
+        {
+          "name": "もやし",
+          "purpose": "Essentieel voor de authentieke smaak van Hoy Tod",
+          "substitutes": [
+            "Verse taogé",
+            "Gedroogde taogé",
+            "Taogé pasta"
+          ]
+        }
+      ],
+      "cooking_method": {
+        "technique": "Bakken of grillen",
+        "steps_overview": "Het bereiden van Hoy Tod vereist aandacht voor details en de juiste timing. De sleutel is het behouden van de balans van alle smaken terwijl de textuur van elk ingrediënt behouden blijft. De traditionele methode, doorgegeven over generaties, garandeert authentieke smaak.",
+        "cooking_tips": [
+          "Gebruik verse mosselen of oesters voor het beste resultaat",
+          "Pas de pittigheid aan naar wens",
+          "Kook niet te lang om de textuur te behouden",
+          "Breng op smaak voor het serveren"
+        ]
+      },
+      "cultural_significance": {
+        "origin_story": "Hoy Tod is al generaties lang een vast gerecht in de centrale Thaise keuken en weerspiegelt de unieke kooktradities en lokale ingrediënten van de regio.",
+        "cultural_importance": "Dit gerecht symboliseert het hart van de centrale Thaise keuken met de balans en harmonie waar Thaise gerechten wereldwijd beroemd om zijn.",
+        "traditional_occasions": [
+          "Familiebijeenkomsten",
+          "Lokale festivals",
+          "Straatvoedselmarkten",
+          "Speciale vieringen"
+        ]
+      },
+      "variations": [
+        {
+          "name": "Hoy Tod クラシック",
+          "description": "Traditionele versie geserveerd in lokale huizen"
+        },
+        {
+          "name": "Hoy Tod モダン",
+          "description": "Moderne versie met premium ingrediënten"
+        },
+        {
+          "name": "Vegetarian Hoy Tod",
+          "description": "Plantaardige versie met tofu of paddenstoelen"
+        }
+      ],
+      "serving_suggestions": {
+        "traditional_accompaniments": [
+          "Jasmijnrijst",
+          "Verse groenten",
+          "Thaise kruiden"
+        ],
+        "presentation": "Serveren op een traditioneel Thais bord",
+        "eating_etiquette": "Eten met vork en lepel volgens Thaise gewoonten"
+      },
+      "where_to_find": {
+        "best_restaurants": [
+          "Lokale centrale Thaise restaurants",
+          "Authentieke straatkraampjes",
+          "Traditionele markten",
+          "Familiegerunde eettentjes"
+        ],
+        "street_food_areas": [
+          "Nachtmarkten",
+          "Verse ochtendmarkten",
+          "Lokale food courts"
+        ],
+        "price_ranges": {
+          "street_vendor": "30-50 THB",
+          "market_stall": "40-60 THB",
+          "restaurant": "60-100 THB"
+        }
+      },
+      "translated_at": "2026-03-14T00:00:00.000Z"
+    }
+  }
+}

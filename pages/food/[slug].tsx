@@ -585,9 +585,9 @@ export const getStaticPaths: GetStaticPaths = async () => {
   return { paths: [], fallback: 'blocking' };
 };
 
-export const getStaticProps: GetStaticProps = async ({ params }) => {
+export const getStaticProps: GetStaticProps = async ({ params, locale }) => {
   const slug = params?.slug as string;
-  const dish = getEnhancedDishBySlug(slug);
+  const dish = getEnhancedDishBySlug(slug, locale);
   if (!dish) return { notFound: true };
 
   const relatedDishes = getRelatedDishes(dish, 4);

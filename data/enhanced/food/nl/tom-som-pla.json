@@ -1,0 +1,985 @@
+{
+  "id": 30,
+  "slug": "tom-som-pla",
+  "name": {
+    "en": "Tom Som Pla",
+    "nl": "Tom Som Pla",
+    "thai": "ต้มส้มปลา"
+  },
+  "category": "soep",
+  "region": "zuidelijk",
+  "spice_level": "gemiddeld",
+  "description": {
+    "en": "Sour and spicy fish soup with turmeric",
+    "nl": "Zure en pittige vissoep met kurkuma"
+  },
+  "ingredients": [
+    "vis",
+    "kurkuma",
+    "tamarinde",
+    "chili",
+    "sjalotten",
+    "citroengras"
+  ],
+  "allergens": [
+    "zeevruchten"
+  ],
+  "dietary": [],
+  "image": "/images/food/tom-som-pla.webp",
+  "preparation_time": "25 minuten",
+  "difficulty": "gemiddeld",
+  "price_range": "budget",
+  "seo": {
+    "metaTitle": {
+      "en": "Tom Som Pla Recipe | Authentic Thai soup",
+      "nl": "Tom Som Pla Recept | Authentieke Thaise soup"
+    },
+    "metaDescription": {
+      "en": "Learn about Tom Som Pla (ต้มส้มปลา) - Sour and spicy fish soup with turmeric...",
+      "nl": "Leer over Tom Som Pla (ต้มส้มปลา) - Zure en pittige vissoep met kurkuma..."
+    }
+  },
+  "tags": [
+    "thaise-keuken",
+    "Thailand",
+    "soep",
+    "zuidelijk",
+    "gemiddeld",
+    "gemiddeld",
+    "budget",
+    "vis",
+    "kurkuma",
+    "tamarinde"
+  ],
+  "cooking": {
+    "preparation_time": "25 minuten",
+    "difficulty": "gemiddeld",
+    "spice_level": "gemiddeld",
+    "serves": "2-4 personen"
+  },
+  "nutrition": {
+    "allergens": [
+      "zeevruchten"
+    ],
+    "dietary": [],
+    "price_range": "budget"
+  },
+  "enhanced_description": "Tom Som Pla is een geliefde zielsverwarmende soep uit Zuid-Thailand met een aangename pittige kick. Zure en pittige vissoep met kurkuma. Dit recept met gemiddelde moeilijkheidsgraad vergt ongeveer 25 minuten bereidingstijd en vertegenwoordigt de authentieke smaken van de Zuid-Thaise keuken, gekenmerkt door intense kruiden, zeevruchten en curries op basis van kokosnoot. De combinatie van vis, kurkuma en tamarinde creëert een harmonieuze mix die dit gerecht tot een favoriet heeft gemaakt onder zowel locals als bezoekers. Perfect voor wie op zoek is naar betaalbare authentieke Thaise keuken.",
+  "detailed_ingredients": [
+    {
+      "name": "Fish",
+      "purpose": "Essentieel voor authentieke Tom Som Pla smaak",
+      "substitutes": [
+        "Verse vis",
+        "Gedroogde vis",
+        "vispasta"
+      ]
+    },
+    {
+      "name": "Turmeric",
+      "purpose": "Essentieel voor authentieke Tom Som Pla smaak",
+      "substitutes": [
+        "Verse kurkuma",
+        "Gedroogde kurkuma",
+        "kurkumapasta"
+      ]
+    },
+    {
+      "name": "Tamarind",
+      "purpose": "Essentieel voor authentieke Tom Som Pla smaak",
+      "substitutes": [
+        "Verse tamarinde",
+        "Gedroogde tamarinde",
+        "tamarindepasta"
+      ]
+    },
+    {
+      "name": "Chili",
+      "purpose": "Essentieel voor authentieke Tom Som Pla smaak",
+      "substitutes": [
+        "Verse chili",
+        "Gedroogde chili",
+        "chilipasta"
+      ]
+    }
+  ],
+  "cooking_method": {
+    "technique": "Sudderen en smaken opbouwen",
+    "steps_overview": "Het bereiden van Tom Som Pla vereist aandacht voor detail en goede timing. De sleutel is het balanceren van alle smaken terwijl de textuur van elk ingrediënt behouden blijft. Traditionele methoden die van generatie op generatie zijn doorgegeven, garanderen een authentieke smaak.",
+    "cooking_tips": [
+      "Gebruik verse vis voor het beste resultaat",
+      "Pas het pittigheidsgehalte aan naar je voorkeur",
+      "Kook niet te lang om de textuur te behouden",
+      "Proef en pas de kruiding aan voor het serveren"
+    ]
+  },
+  "cultural_significance": {
+    "origin_story": "Tom Som Pla is al generaties lang een vast onderdeel van de Zuid-Thaise keuken en weerspiegelt de unieke culinaire tradities en lokale ingrediënten van de regio.",
+    "cultural_importance": "Dit gerecht vertegenwoordigt het hart van de Zuid-Thaise kookkunst en toont de balans en harmonie waarmee de Thaise keuken wereldwijd beroemd is.",
+    "traditional_occasions": [
+      "Familiebijeenkomsten",
+      "Lokale festivals",
+      "Straatvoedselmarkten",
+      "Bijzondere vieringen"
+    ]
+  },
+  "variations": [
+    {
+      "name": "Tom Som Pla Classic",
+      "description": "De traditionele versie zoals geserveerd in lokale huishoudens"
+    },
+    {
+      "name": "Tom Som Pla Modern",
+      "description": "Hedendaagse variant met premium ingrediënten"
+    },
+    {
+      "name": "Vegetarian Tom Som Pla",
+      "description": "Plantaardige versie met tofu of paddenstoelen"
+    }
+  ],
+  "serving_suggestions": {
+    "traditional_accompaniments": [
+      "Jasmijnrijst",
+      "Verse groenten",
+      "Thaise kruiden"
+    ],
+    "presentation": "Geserveerd in een kom in traditionele Thaise stijl",
+    "eating_etiquette": "Gegeten met vork en lepel volgens Thais gebruik"
+  },
+  "nutritional_info": {
+    "calories_per_serving": "300-500 calorieën",
+    "health_benefits": [
+      "Rijk aan Thaise kruiden en specerijen",
+      "Bron van eiwitten en groenten",
+      "Gebalanceerde smaken en voedingsstoffen"
+    ],
+    "dietary_notes": []
+  },
+  "where_to_find": {
+    "best_restaurants": [
+      "Lokale Zuid-Thaise restaurants",
+      "Authentieke straatvoedselkramen",
+      "Traditionele markten",
+      "Familiegerunde eetgelegenheden"
+    ],
+    "street_food_areas": [
+      "Nachtmarkten",
+      "Ochtendverse markten",
+      "Lokale food courts"
+    ],
+    "price_ranges": {
+      "street_vendor": "30-50 THB",
+      "market_stall": "40-60 THB",
+      "restaurant": "60-100 THB"
+    }
+  },
+  "translations": {
+    "nl": {
+      "enhanced_description": "Tom Som Pla is een geliefde zielsverwarmende soep uit Zuid-Thailand met een aangename pittige kick. Zure en pittige vissoep met kurkuma. Dit recept met gemiddelde moeilijkheidsgraad vergt ongeveer 25 minuten bereidingstijd en vertegenwoordigt de authentieke smaken van de Zuid-Thaise keuken, gekenmerkt door intense kruiden, zeevruchten en curries op basis van kokosnoot. De combinatie van vis, kurkuma en tamarinde creëert een harmonieuze mix die dit gerecht tot een favoriet heeft gemaakt onder zowel locals als bezoekers. Perfect voor wie op zoek is naar betaalbare authentieke Thaise keuken.",
+      "detailed_ingredients": [
+        {
+          "name": "Vis",
+          "purpose": "Essentieel voor de authentieke Tom Som Pla smaak",
+          "substitutes": [
+            "Verse vis",
+            "Gedroogde vis",
+            "Vispasta"
+          ]
+        },
+        {
+          "name": "Kurkuma",
+          "purpose": "Essentieel voor de authentieke Tom Som Pla smaak",
+          "substitutes": [
+            "Verse kurkuma",
+            "Gedroogde kurkuma",
+            "Kurkumapasta"
+          ]
+        },
+        {
+          "name": "Tamarinde",
+          "purpose": "Essentieel voor de authentieke Tom Som Pla smaak",
+          "substitutes": [
+            "Verse tamarinde",
+            "Gedroogde tamarinde",
+            "Tamarindepasta"
+          ]
+        },
+        {
+          "name": "Chili",
+          "purpose": "Essentieel voor de authentieke Tom Som Pla smaak",
+          "substitutes": [
+            "Verse chili",
+            "Gedroogde chili",
+            "Chilipasta"
+          ]
+        }
+      ],
+      "cooking_method": {
+        "technique": "Sudderen en smaken opbouwen",
+        "steps_overview": "Het bereiden van Tom Som Pla vereist aandacht voor detail en goede timing. De sleutel is het balanceren van alle smaken terwijl de textuur van elk ingrediënt behouden blijft. Traditionele methoden die van generatie op generatie zijn doorgegeven, garanderen een authentieke smaak.",
+        "cooking_tips": [
+          "Gebruik verse vis voor het beste resultaat",
+          "Pas het pittigheidsgehalte aan naar je voorkeur",
+          "Kook niet te lang om de textuur te behouden",
+          "Proef en pas de kruiding aan voor het serveren"
+        ]
+      },
+      "cultural_significance": {
+        "origin_story": "Tom Som Pla is al generaties lang een vast onderdeel van de Zuid-Thaise keuken en weerspiegelt de unieke culinaire tradities en lokale ingrediënten van de regio.",
+        "cultural_importance": "Dit gerecht vertegenwoordigt het hart van de Zuid-Thaise kookkunst en toont de balans en harmonie waarmee de Thaise keuken wereldwijd beroemd is.",
+        "traditional_occasions": [
+          "Familiebijeenkomsten",
+          "Lokale festivals",
+          "Straatvoedselmarkten",
+          "Bijzondere vieringen"
+        ]
+      },
+      "variations": [
+        {
+          "name": "Tom Som Pla Klassiek",
+          "description": "De traditionele versie zoals geserveerd in lokale huishoudens"
+        },
+        {
+          "name": "Tom Som Pla Modern",
+          "description": "Hedendaagse variant met premium ingrediënten"
+        },
+        {
+          "name": "Vegetarische Tom Som Pla",
+          "description": "Plantaardige versie met tofu of paddenstoelen"
+        }
+      ],
+      "serving_suggestions": {
+        "traditional_accompaniments": [
+          "Jasmijnrijst",
+          "Verse groenten",
+          "Thaise kruiden"
+        ],
+        "presentation": "Geserveerd in een kom in traditionele Zuid-Thaise stijl",
+        "eating_etiquette": "Gegeten met vork en lepel volgens Thais gebruik"
+      },
+      "where_to_find": {
+        "best_restaurants": [
+          "Lokale Zuid-Thaise restaurants",
+          "Authentieke straatvoedselkramen",
+          "Traditionele markten",
+          "Familiebedrijfjes"
+        ],
+        "street_food_areas": [
+          "Nachtmarkten",
+          "Ochtendverse markten",
+          "Lokale food courts"
+        ]
+      },
+      "translated_at": "2026-03-10T00:00:00.000Z"
+    },
+    "fr": {
+      "enhanced_description": "Tom Som Pla is een geliefde zielsverwarmende soep uit Zuid-Thailand met een aangename pittige kick. Zure en pittige vissoep met kurkuma. Dit recept met gemiddelde moeilijkheidsgraad vergt ongeveer 25 minuten bereidingstijd en vertegenwoordigt de authentieke smaken van de Zuid-Thaise keuken, gekenmerkt door intense kruiden, zeevruchten en curries op basis van kokosnoot. De combinatie van vis, kurkuma en tamarinde creëert een harmonieuze mix die dit gerecht tot een favoriet heeft gemaakt onder zowel locals als bezoekers. Perfect voor wie op zoek is naar betaalbare authentieke Thaise keuken.",
+      "detailed_ingredients": [
+        {
+          "name": "Poisson",
+          "purpose": "Essentieel voor de authentieke Tom Som Pla smaak",
+          "substitutes": [
+            "Verse vis",
+            "Gedroogde vis",
+            "Vispasta"
+          ]
+        },
+        {
+          "name": "Curcuma",
+          "purpose": "Essentieel voor de authentieke Tom Som Pla smaak",
+          "substitutes": [
+            "Verse kurkuma",
+            "Gedroogde kurkuma",
+            "Kurkumapasta"
+          ]
+        },
+        {
+          "name": "Tamarin",
+          "purpose": "Essentieel voor de authentieke Tom Som Pla smaak",
+          "substitutes": [
+            "Verse tamarinde",
+            "Gedroogde tamarinde",
+            "Tamarindepasta"
+          ]
+        },
+        {
+          "name": "Piment",
+          "purpose": "Essentieel voor de authentieke Tom Som Pla smaak",
+          "substitutes": [
+            "Verse chili",
+            "Gedroogde chili",
+            "Chilipasta"
+          ]
+        }
+      ],
+      "cooking_method": {
+        "technique": "Sudderen en smaken opbouwen",
+        "steps_overview": "Het bereiden van Tom Som Pla vereist aandacht voor detail en goede timing. De sleutel is het balanceren van alle smaken terwijl de textuur van elk ingrediënt behouden blijft. Traditionele methoden die van generatie op generatie zijn doorgegeven, garanderen een authentieke smaak.",
+        "cooking_tips": [
+          "Gebruik verse vis voor het beste resultaat",
+          "Pas het pittigheidsgehalte aan naar je voorkeur",
+          "Kook niet te lang om de textuur te behouden",
+          "Proef en pas de kruiding aan voor het serveren"
+        ]
+      },
+      "cultural_significance": {
+        "origin_story": "Tom Som Pla is al generaties lang een vast onderdeel van de Zuid-Thaise keuken en weerspiegelt de unieke culinaire tradities en lokale ingrediënten van de regio.",
+        "cultural_importance": "Dit gerecht vertegenwoordigt het hart van de Zuid-Thaise kookkunst en toont de balans en harmonie waarmee de Thaise keuken wereldwijd beroemd is.",
+        "traditional_occasions": [
+          "Familiebijeenkomsten",
+          "Lokale festivals",
+          "Straatvoedselmarkten",
+          "Bijzondere vieringen"
+        ]
+      },
+      "variations": [
+        {
+          "name": "Tom Som Pla Classique",
+          "description": "De traditionele versie zoals geserveerd in lokale huishoudens"
+        },
+        {
+          "name": "Tom Som Pla Moderne",
+          "description": "Moderne versie met premium ingrediënten"
+        },
+        {
+          "name": "Tom Som Pla Végétarien",
+          "description": "Plantaardige versie met tofu of paddenstoelen"
+        }
+      ],
+      "serving_suggestions": {
+        "traditional_accompaniments": [
+          "Jasmijnrijst",
+          "Verse groenten",
+          "Thaise kruiden"
+        ],
+        "presentation": "Geserveerd in een kom in de traditionele stijl van Zuid-Thailand",
+        "eating_etiquette": "Genoten met vork en lepel volgens Thaise gewoonte"
+      },
+      "where_to_find": {
+        "best_restaurants": [
+          "Lokale restaurants in Zuid-Thailand",
+          "Authentieke straatkiosken",
+          "Traditionele markten",
+          "Familierestaurants"
+        ],
+        "street_food_areas": [
+          "Nachtmarkten",
+          "Verse ochtendmarkten",
+          "Lokale food courts"
+        ]
+      },
+      "translated_at": "2026-03-10T00:00:00.000Z"
+    },
+    "de": {
+      "enhanced_description": "Tom Som Pla is een populaire hartverwarmende soep uit Zuid-Thailand met een aangename pittigheid. Zure en pittige vissoep met kurkuma. Dit recept van gemiddelde moeilijkheidsgraad vereist ongeveer 25 minuten bereidingstijd en vertegenwoordigt de authentieke smaken van de Zuid-Thaise keuken, die zich kenmerkt door intense kruiden, zeevruchten en kokosbasis curries. De combinatie van vis, kurkuma en tamarinde creëert een harmonieuze mix die dit gerecht even geliefd heeft gemaakt bij locals en bezoekers. Perfect voor iedereen die betaalbare authentieke Thaise keuken zoekt.",
+      "detailed_ingredients": [
+        {
+          "name": "Fisch",
+          "purpose": "Onmisbaar voor de authentieke Tom Som Pla smaak",
+          "substitutes": [
+            "Verse vis",
+            "Gedroogde vis",
+            "Vispasta"
+          ]
+        },
+        {
+          "name": "Kurkuma",
+          "purpose": "Onmisbaar voor de authentieke Tom Som Pla smaak",
+          "substitutes": [
+            "Verse kurkuma",
+            "Gedroogde kurkuma",
+            "Kurkumapasta"
+          ]
+        },
+        {
+          "name": "Tamarinde",
+          "purpose": "Onmisbaar voor de authentieke Tom Som Pla smaak",
+          "substitutes": [
+            "Verse tamarinde",
+            "Gedroogde tamarinde",
+            "Tamarindepasta"
+          ]
+        },
+        {
+          "name": "Chili",
+          "purpose": "Onmisbaar voor de authentieke Tom Som Pla smaak",
+          "substitutes": [
+            "Verse chili",
+            "Gedroogde chili",
+            "Chilipasta"
+          ]
+        }
+      ],
+      "cooking_method": {
+        "technique": "Laten sudderen en smaken opbouwen",
+        "steps_overview": "De bereiding van Tom Som Pla vereist liefde voor detail en goed timing. De sleutel ligt in het balanceren van alle smaken terwijl de textuur van elke ingrediënt behouden blijft. Traditionele methoden, doorgegeven van generatie op generatie, garanderen een authentieke smaak.",
+        "cooking_tips": [
+          "Gebruik verse vis voor het beste resultaat",
+          "Pas de pittigheid aan naar smaak",
+          "Niet te lang koken om de textuur te behouden",
+          "Proeven en op smaak brengen voor het serveren"
+        ]
+      },
+      "cultural_significance": {
+        "origin_story": "Tom Som Pla is al generaties lang een vast onderdeel van de Zuid-Thaise keuken en weerspiegelt de unieke culinaire tradities en lokale ingrediënten van de regio.",
+        "cultural_importance": "Dit gerecht vertegenwoordigt het hart van de Zuid-Thaise kookkunst en toont de balans en harmonie waarvoor de Thaise keuken wereldwijd beroemd is.",
+        "traditional_occasions": [
+          "Familiebijeenkomsten",
+          "Lokale feesten",
+          "Straatvoedselmarkten",
+          "Speciale vieringen"
+        ]
+      },
+      "variations": [
+        {
+          "name": "Tom Som Pla Klassisch",
+          "description": "De traditionele versie, zoals geserveerd in lokale huishoudens"
+        },
+        {
+          "name": "Tom Som Pla Modern",
+          "description": "Contemporaine variant met premium ingrediënten"
+        },
+        {
+          "name": "Vegetarische Tom Som Pla",
+          "description": "Plantaardige versie met tofu of paddenstoelen"
+        }
+      ],
+      "serving_suggestions": {
+        "traditional_accompaniments": [
+          "Jasmijnrijst",
+          "Verse groenten",
+          "Thaise kruiden"
+        ],
+        "presentation": "Geserveerd in een kom in de traditionele Zuid-Thaise stijl",
+        "eating_etiquette": "Genoten met vork en lepel volgens Thaise traditie"
+      },
+      "where_to_find": {
+        "best_restaurants": [
+          "Lokale Zuid-Thaise restaurants",
+          "Authentieke straatkraampjes",
+          "Traditionele markten",
+          "Familiegerunde etablissementen"
+        ],
+        "street_food_areas": [
+          "Nachtmarkten",
+          "Verse ochtendmarkten",
+          "Lokale food courts"
+        ]
+      },
+      "translated_at": "2026-03-10T00:00:00.000Z"
+    },
+    "zh": {
+      "enhanced_description": "Tom Som Pla is een geliefde hartverwarmende soep uit Zuid-Thailand met een prettige pittigheid. Dit is een zure en pittige vissoep met kurkuma. Dit recept van gemiddelde moeilijkheid vereist ongeveer 25 minuten bereidingstijd en belichaamt de authentieke smaken van de Zuid-Thaise keuken, die zich onderscheidt door intense kruiden, zeevruchten en kokos curries. De combinatie van vis, kurkuma en tamarinde creëert een harmonieuze smaak die dit gerecht even populair maakt bij locals en toeristen. Perfect voor wie betaalbare authentieke Thaise gerechten zoekt.",
+      "detailed_ingredients": [
+        {
+          "name": "鱼",
+          "purpose": "Essentiële ingrediënten voor de authentieke Tom Som Pla smaak",
+          "substitutes": [
+            "Verse vis",
+            "Gedroogde vis",
+            "Vis酱"
+          ]
+        },
+        {
+          "name": "姜黄",
+          "purpose": "Essentiële ingrediënten voor de authentieke Tom Som Pla smaak",
+          "substitutes": [
+            "Verse kurkuma",
+            "Gedroogde kurkuma",
+            "Kurkumasaus"
+          ]
+        },
+        {
+          "name": "罗望子",
+          "purpose": "Essentiële ingrediënten voor de authentieke Tom Som Pla smaak",
+          "substitutes": [
+            "Verse tamarinde",
+            "Gedroogde tamarinde",
+            "Tamarindesaus"
+          ]
+        },
+        {
+          "name": "辣椒",
+          "purpose": "Essentiële ingrediënten voor de authentieke Tom Som Pla smaak",
+          "substitutes": [
+            "Verse peper",
+            "Gedroogde peper",
+            "Peper酱"
+          ]
+        }
+      ],
+      "cooking_method": {
+        "technique": "Laten sudderen en smaken opbouwen",
+        "steps_overview": "Het bereiden van Tom Som Pla vereist aandacht voor details en goed tijdbeheer. De sleutel is het balanceren van alle smaken terwijl de textuur van elk ingrediënt behouden blijft. Traditionele methoden, doorgegeven van generatie op generatie, zorgen voor een authentieke smaak.",
+        "cooking_tips": [
+          "Gebruik verse vis voor het beste effect",
+          "Pas de pittigheid aan naar persoonlijke voorkeur",
+          "Niet te lang koken om de textuur te behouden",
+          "Proeven en kruiden aanpassen voor het serveren"
+        ]
+      },
+      "cultural_significance": {
+        "origin_story": "Tom Som Pla is al generaties lang een pijler van de Zuid-Thaise keuken en weerspiegelt de unieke culinaire tradities en lokale ingrediënten van de regio.",
+        "cultural_importance": "Dit gerecht belichaamt de essentie van de Zuid-Thaise kookkunst en toont de balans en harmonie waarvoor de Thaise keuken wereldwijd bekendstaat.",
+        "traditional_occasions": [
+          "Familiebijeenkomsten",
+          "Lokale festivals",
+          "Straatvoedselmarkten",
+          "Speciale vieringen"
+        ]
+      },
+      "variations": [
+        {
+          "name": "经典Tom Som Pla",
+          "description": "De traditionele versie zoals geserveerd in lokale families"
+        },
+        {
+          "name": "现代Tom Som Pla",
+          "description": "Moderne innovatieve versie met premium ingrediënten"
+        },
+        {
+          "name": "素食Tom Som Pla",
+          "description": "Plantaardige versie met tofu of paddenstoelen"
+        }
+      ],
+      "serving_suggestions": {
+        "traditional_accompaniments": [
+          "Jasmijnrijst",
+          "Verse groenten",
+          "Thaise kruiden"
+        ],
+        "presentation": "Geserveerd in een kom in de traditionele Zuid-Thaise stijl",
+        "eating_etiquette": "Eten met vork en lepel volgens Thaise gewoonte"
+      },
+      "where_to_find": {
+        "best_restaurants": [
+          "Lokale Zuid-Thaise restaurants",
+          "Authentieke straatvoedselkraampjes",
+          "Traditionele markten",
+          "Familiegerunde kleine restaurants"
+        ],
+        "street_food_areas": [
+          "Nachtmarkten",
+          "Ochtendverse markten",
+          "Lokale eetpleinen"
+        ]
+      },
+      "translated_at": "2026-03-11T00:00:00.000Z"
+    },
+    "ru": {
+      "enhanced_description": "Tom Som Pla is een geliefde verwarmende soep uit Zuid-Thailand met een prettige scherpte. Zure en scherpe vissoep met kurkuma. Dit recept van gemiddelde complexiteit duurt ongeveer 25 minuten en belichaamt de authentieke smaken van de Zuid-Thaise keuken, die zich kenmerkt door verzadigde kruiden, zeevruchten en kokos curries. De combinatie van vis, kurkuma en tamarinde creëert een harmonieuze smaak die dit gerecht geliefd maakt bij zowel locals als toeristen. Uitstekende keuze voor wie betaalbare authentieke Thaise keuken zoekt.",
+      "detailed_ingredients": [
+        {
+          "name": "Рыба",
+          "purpose": "Basis voor de authentieke Tom Som Pla smaak",
+          "substitutes": [
+            "Verse vis",
+            "Gedroogde vis",
+            "Vispasta"
+          ]
+        },
+        {
+          "name": "Куркума",
+          "purpose": "Basis voor de authentieke Tom Som Pla smaak",
+          "substitutes": [
+            "Verse kurkuma",
+            "Gedroogde kurkuma",
+            "Kurkumapasta"
+          ]
+        },
+        {
+          "name": "Тамаринд",
+          "purpose": "Basis voor de authentieke Tom Som Pla smaak",
+          "substitutes": [
+            "Verse tamarinde",
+            "Gedroogde tamarinde",
+            "Tamarindepasta"
+          ]
+        },
+        {
+          "name": "Чили",
+          "purpose": "Basis voor de authentieke Tom Som Pla smaak",
+          "substitutes": [
+            "Verse chili",
+            "Gedroogde chili",
+            "Chilipasta"
+          ]
+        }
+      ],
+      "cooking_method": {
+        "technique": "Laten sudderen en smaken opbouwen",
+        "steps_overview": "Het bereiden van Tom Som Pla vereist aandacht voor details en precieze tijdcontrole. De sleutel is het balanceren van alle smaken terwijl de textuur van elk ingrediënt behouden blijft. Traditionele methoden, doorgegeven van generatie op generatie, garanderen een authentieke smaak.",
+        "cooking_tips": [
+          "Gebruik verse vis voor het beste resultaat",
+          "Pas de scherpte aan naar smaak",
+          "Niet doorkoken om de textuur te behouden",
+          "Proeven en kruiden aanpassen voor het serveren"
+        ]
+      },
+      "cultural_significance": {
+        "origin_story": "Tom Som Pla is al vele generaties een onmisbaar onderdeel van de Zuid-Thaise keuken en weerspiegelt de unieke culinaire tradities en lokale ingrediënten van de regio.",
+        "cultural_importance": "Dit gerecht belichaamt de essentie van de Zuid-Thaise culinaire kunst en demonstreert de balans en harmonie waarvoor de Thaise keuken wereldwijd beroemd is.",
+        "traditional_occasions": [
+          "Familiebijeenkomsten",
+          "Lokale festivals",
+          "Markten met straatvoedsel",
+          "Speciale feesten"
+        ]
+      },
+      "variations": [
+        {
+          "name": "Классический Том Сом Пла",
+          "description": "De traditionele versie, zoals bereid in lokale families"
+        },
+        {
+          "name": "Современный Том Сом Пла",
+          "description": "Moderne variatie met premium ingrediënten"
+        },
+        {
+          "name": "Вегетарианский Том Сом Пла",
+          "description": "Plantaardige versie met tofu of paddenstoelen"
+        }
+      ],
+      "serving_suggestions": {
+        "traditional_accompaniments": [
+          "Jasmijnrijst",
+          "Verse groenten",
+          "Thaise kruiden"
+        ],
+        "presentation": "Geserveerd in een kom in de traditionele Zuid-Thaise stijl",
+        "eating_etiquette": "Eten met vork en lepel volgens Thaise gewoonte"
+      },
+      "where_to_find": {
+        "best_restaurants": [
+          "Lokale restaurants met Zuid-Thaise keuken",
+          "Authentieke straatkarren",
+          "Traditionele markten",
+          "Familieetablissementen"
+        ],
+        "street_food_areas": [
+          "Nachtmarkten",
+          "Ochtendmarkten met verse producten",
+          "Lokale food courts"
+        ]
+      },
+      "translated_at": "2026-03-11T00:00:00.000Z"
+    },
+    "ko": {
+      "enhanced_description": "Tom Som Pla is een huishoudelijke soep uit Zuid-Thailand, waarbij 'Tom' (koken) en 'Som' (zuur) de kern vormen met een zure smaak. In tegenstelling tot Tom Yum Kung dat citroengras en limoen gebruikt voor zuur, gebruikt Tom Som Pla de diepe, zachte zuurheid van tamarinde. Kurkuma geeft de bouillon een gouden kleur, verse vis biedt milde eiwitten, en sjalotten en citroengras voltooien de aroma. Het is bijzonder geliefd in de moslimgemeenschappen en vissersdorpen van Zuid-Thailand, en een van de beste manieren om pas gevangen vis te genieten.",
+      "detailed_ingredients": [
+        {
+          "name": "신선한 흰살 생선 (쁠라까퐁 또는 쁠라닌)",
+          "purpose": "Hoofdingrediënt van de soep — milde witte vis past het beste bij de zure bouillon",
+          "substitutes": [
+            "Barracuda",
+            "zeebrasem",
+            "tilapia",
+            "katvis"
+          ]
+        },
+        {
+          "name": "강황 (커민)",
+          "purpose": "Gouden kleur en aardse, warme geur die een essentieel specerij is in de zuidelijke Thaise keuken",
+          "substitutes": [
+            "kurkumapoeder (vers kurkuma als alternatief)",
+            "kurkumapasta"
+          ]
+        },
+        {
+          "name": "타마린드 물 (남마캄)",
+          "purpose": "Essentiële smaakmaker die een diepere, mildere zuurheid biedt dan citroen of limoen",
+          "substitutes": [
+            "Tamarindepasta opgelost in water",
+            "limoensap (verschilt in smaak)"
+          ]
+        },
+        {
+          "name": "샬롯과 고추",
+          "purpose": "Smaakmaker die de basis vormt voor zoet en pittig",
+          "substitutes": [
+            "rode ui",
+            "gedroogde chili"
+          ]
+        },
+        {
+          "name": "레몬그라스",
+          "purpose": "Kruid met citrusaroma dat de visgeur neutraliseert en frisheid toevoegt",
+          "substitutes": [
+            "citroenschil (niet hetzelfde, maar kan als alternatief)"
+          ]
+        }
+      ],
+      "cooking_method": {
+        "technique": "Koken en opbouwen van smaaklagen",
+        "steps_overview": "Kook eerst citroengras, sjalotten en kurkuma in water om de aroma's te extraheren. Voeg de vis toe en kook op middelhoog vuur tot hij gaar is, voeg dan tamarindewater, vissaus en chili toe om de balans van zuur-zout-pittig te bereiken. Wees voorzichtig met roeren om te voorkomen dat de vis uit elkaar valt.",
+        "cooking_tips": [
+          "Gebruik altijd verse vis — de kwaliteit van de vis bepaalt de smaak van deze soep",
+          "Verse kurkuma geeft een veel rijkere aroma dan gedroogde",
+          "Pas de zuurheid aan met de hoeveelheid tamarinde — zuidelijke stijl is behoorlijk zuur",
+          "Kook de vis niet te lang — het vlees valt uit elkaar",
+          "Voeg aan het eind vissaus toe om de zoutheid fijn af te stellen"
+        ]
+      },
+      "cultural_significance": {
+        "origin_story": "Tom Som Pla is een gerecht uit de vissersdorpen van zuidelijk Thailand, ontwikkeld om pas gevangen vis eenvoudig en smakelijk te bereiden. Zuidelijk Thailand is een schiereiland omringd door zeeën, rijk aan verse zeevruchten, en het gebruik van kurkuma in gerechten is beïnvloed door Maleisische en Indiase keuken.",
+        "cultural_importance": "Een alledaagse soep in zuidelijke Thaise huishoudens, vooral op regenachtige dagen of bij ziekte gezien als verwarmend tonicum. Dankzij de ontstekingsremmende eigenschappen van kurkuma is het ook populair als gezond eten.",
+        "traditional_occasions": [
+          "Alledaagse huissoot",
+          "Tonicum op regenachtige dagen",
+          "Ontbijt in vissersdorp",
+          "Herstelmaaltijd"
+        ]
+      },
+      "variations": [
+        {
+          "name": "똠쏨쁠라 까퐁",
+          "description": "De meest voorkomende versie met barramundi (pla kapong), met een milde en schone smaak."
+        },
+        {
+          "name": "똠쏨쁠라 투",
+          "description": "Een volkse versie met tonijn (pla thu), met een intensere smaak en lagere prijs."
+        },
+        {
+          "name": "똠쏨 채식",
+          "description": "Vegetarische versie met paddenstoelen en tofu in plaats van vis, geïnspireerd op kloostermaaltijden."
+        }
+      ],
+      "serving_suggestions": {
+        "traditional_accompaniments": [
+          "jasmijnrijst",
+          "Verse groenten (boontjes, sperziebonen)",
+          "chili-vissaus (prik nam pla)",
+          "Samen met andere zuidelijke bijgerechten"
+        ],
+        "presentation": "Serveer de vis en bouillon in diepe kommen met rijst",
+        "eating_etiquette": "Schep bouillon over de rijst of wissel af tussen rijst en soep. Pas de smaak aan met vissaus en chili."
+      },
+      "where_to_find": {
+        "best_restaurants": [
+          "Lokale restaurants in Nakhon Si Thammarat",
+          "Restaurants in vissersdorpen van Songkhla",
+          "Zuidelijke Thaise restaurants in Phuket Old Town",
+          "Bijgerechtenkraampjes op de ochtendmarkt in Hat Yai"
+        ],
+        "street_food_areas": [
+          "Ochtendmarkten in zuidelijk Thailand (talat sat)",
+          "Nachtmarkt in Nakhon Si Thammarat",
+          "Restaurants rond het meer van Songkhla",
+          "Eetstraatjes in Phuket Old Town"
+        ],
+        "price_ranges": {
+          "street_vendor": "30-50 THB",
+          "market_stall": "40-60 THB",
+          "restaurant": "60-120 THB"
+        }
+      },
+      "translated_at": "2026-03-14T00:00:00.000Z"
+    },
+    "th": {
+      "enhanced_description": "Tom som pla is een Thaise vissoep met intense zure smaak van verse tamarinde, geurig met gouden verse kurkuma, heldere bouillon met ronde, gebalanceerde smaak. Het is een gezond en licht verteerbaar gerecht.",
+      "detailed_ingredients": [
+        {
+          "name": "Fish",
+          "purpose": "Essentieel voor de authentieke smaak van Tom Som Pla",
+          "substitutes": [
+            "Verse vis",
+            "Gedroogde vis",
+            "vispasta"
+          ]
+        },
+        {
+          "name": "Turmeric",
+          "purpose": "Essentieel voor de authentieke smaak van Tom Som Pla",
+          "substitutes": [
+            "Verse kurkuma",
+            "Gedroogde kurkuma",
+            "kurkumapasta"
+          ]
+        },
+        {
+          "name": "Tamarind",
+          "purpose": "Essentieel voor de authentieke smaak van Tom Som Pla",
+          "substitutes": [
+            "Verse tamarinde",
+            "Gedroogde tamarinde",
+            "tamarindepasta"
+          ]
+        },
+        {
+          "name": "Chili",
+          "purpose": "Essentieel voor de authentieke smaak van Tom Som Pla",
+          "substitutes": [
+            "Verse chili",
+            "Gedroogde chili",
+            "chilipasta"
+          ]
+        }
+      ],
+      "cooking_method": {
+        "technique": "Smoren en opbouwen van smaaklagen",
+        "steps_overview": "De bereiding van Tom Som Pla vereist aandacht voor details en het juiste tijdstip. Het is belangrijk om alle smaken in balans te brengen terwijl de textuur van elke ingrediënt behouden blijft. De traditionele methode, doorgegeven door generaties, garandeert de authentieke smaak.",
+        "cooking_tips": [
+          "Gebruik verse vis voor het beste resultaat",
+          "Pas de pittigheid aan naar smaak",
+          "Kook niet te lang om de textuur te behouden",
+          "Proef en breng op smaak voor het serveren"
+        ]
+      },
+      "cultural_significance": {
+        "origin_story": "Dit gerecht is al generaties lang deel van de zuidelijke Thaise voedselcultuur en weerspiegelt de unieke kooktradities en lokale ingrediënten van de regio.",
+        "cultural_importance": "Dit gerecht vormt het hart van de zuidelijke Thaise keuken en toont de balans en harmonie waar Thaise gerechten wereldwijd om geprezen worden.",
+        "traditional_occasions": [
+          "Familiebijeenkomsten",
+          "Lokale festivals",
+          "Straatvoedselmarkten",
+          "Speciale vieringen"
+        ]
+      },
+      "variations": [
+        {
+          "name": "Tom Som Pla Classic",
+          "description": "Traditionele versie geserveerd in lokale huizen"
+        },
+        {
+          "name": "Tom Som Pla Modern",
+          "description": "Moderne versie met premium ingrediënten"
+        },
+        {
+          "name": "Vegetarian Tom Som Pla",
+          "description": "Vegetarische versie met tofu of paddenstoelen"
+        }
+      ],
+      "serving_suggestions": {
+        "traditional_accompaniments": [
+          "jasmijnrijst",
+          "Verse groenten",
+          "Thaise kruiden"
+        ],
+        "presentation": "Serveer in traditionele Thaise kommen",
+        "eating_etiquette": "Eet met lepel en vork volgens Thaise traditie"
+      },
+      "where_to_find": {
+        "best_restaurants": [
+          "Lokale zuidelijke restaurants",
+          "Authentieke straatkraampjes",
+          "Traditionele markten",
+          "Familierestaurants"
+        ],
+        "street_food_areas": [
+          "Nachtmarkten",
+          "Ochtendmarkten",
+          "Lokale food courts"
+        ],
+        "price_ranges": {
+          "street_vendor": "30-50 THB",
+          "market_stall": "40-60 THB",
+          "restaurant": "60-100 THB"
+        }
+      },
+      "translated_at": "2026-03-14T00:00:00.000Z"
+    },
+    "ja": {
+      "enhanced_description": "Tom Som Pla is een hartverwarmende geliefde soep uit zuidelijk Thailand met een aangename pittigheid. Het is een vissoep met zure en pittige smaken op basis van kurkuma. Recept van gemiddelde moeilijkheidsgraad, bereidingstijd circa 25 minuten. Het belichaamt de smaken van authentieke zuidelijke Thaise keuken met intense specerijen, zeevruchten en kokosbasis curry's. De combinatie van vis, kurkuma en tamarinde creëert een harmonieuze smaak, populair bij locals en toeristen. Ideaal voor wie betaalbare authentieke Thaise gerechten zoekt.",
+      "detailed_ingredients": [
+        {
+          "name": "魚",
+          "purpose": "Essentieel voor de authentieke smaak van Tom Som Pla",
+          "substitutes": [
+            "Verse vis",
+            "Gedroogde vis",
+            "visgehakt"
+          ]
+        },
+        {
+          "name": "ウコン",
+          "purpose": "Essentieel voor de authentieke smaak van Tom Som Pla",
+          "substitutes": [
+            "Verse kurkuma",
+            "Gedroogde kurkuma",
+            "kurkumapasta"
+          ]
+        },
+        {
+          "name": "タマリンド",
+          "purpose": "Essentieel voor de authentieke smaak van Tom Som Pla",
+          "substitutes": [
+            "Verse tamarinde",
+            "Gedroogde tamarinde",
+            "tamarindepasta"
+          ]
+        },
+        {
+          "name": "唐辛子",
+          "purpose": "Essentieel voor de authentieke smaak van Tom Som Pla",
+          "substitutes": [
+            "Verse chili",
+            "Gedroogde chili",
+            "chilipasta"
+          ]
+        }
+      ],
+      "cooking_method": {
+        "technique": "Smoren en opbouwen van smaaklagen",
+        "steps_overview": "De bereiding van Tom Som Pla vereist aandacht voor details en het juiste tijdstip. Het is belangrijk om alle smaken in balans te brengen terwijl de textuur van elke ingrediënt behouden blijft. De traditionele methode, doorgegeven door generaties, garandeert de authentieke smaak.",
+        "cooking_tips": [
+          "Gebruik verse vis voor het beste resultaat",
+          "Pas de pittigheid aan naar smaak",
+          "Kook niet te lang om de textuur te behouden",
+          "Proef en breng op smaak voor het serveren"
+        ]
+      },
+      "cultural_significance": {
+        "origin_story": "Tom Som Pla is al generaties lang een basisgerecht in de zuidelijke Thaise keuken en weerspiegelt de unieke kooktradities en lokale ingrediënten van de regio.",
+        "cultural_importance": "Dit gerecht vormt het hart van de zuidelijke Thaise keuken en toont de balans en harmonie waar Thaise gerechten wereldwijd om geprezen worden.",
+        "traditional_occasions": [
+          "Familiebijeenkomsten",
+          "Lokale festivals",
+          "Straatmarkten",
+          "Speciale vieringen"
+        ]
+      },
+      "variations": [
+        {
+          "name": "Tom Som Pla クラシック",
+          "description": "Traditionele versie geserveerd in lokale huizen"
+        },
+        {
+          "name": "Tom Som Pla モダン",
+          "description": "Moderne versie met premium ingrediënten"
+        },
+        {
+          "name": "ベジタリアン Tom Som Pla",
+          "description": "Vegetarische versie met tofu of paddenstoelen"
+        }
+      ],
+      "serving_suggestions": {
+        "traditional_accompaniments": [
+          "jasmijnrijst",
+          "Verse groenten",
+          "Thaise kruiden"
+        ],
+        "presentation": "Serveer in traditionele Thaise kommen",
+        "eating_etiquette": "Eet met vork en lepel volgens Thaise traditie"
+      },
+      "where_to_find": {
+        "best_restaurants": [
+          "Lokale zuidelijke Thaise restaurants",
+          "Authentieke straatkraampjes",
+          "Traditionele markten",
+          "Familiegerunde eetgelegenheden"
+        ],
+        "street_food_areas": [
+          "Nachtmarkten",
+          "Ochtendmarkten",
+          "Lokale food courts"
+        ],
+        "price_ranges": {
+          "street_vendor": "30-50 THB",
+          "market_stall": "40-60 THB",
+          "restaurant": "60-100 THB"
+        }
+      },
+      "translated_at": "2026-03-14T00:00:00.000Z"
+    }
+  }
+}

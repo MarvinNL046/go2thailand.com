@@ -1,0 +1,54 @@
+{
+  "id": 23,
+  "slug": "oliang",
+  "name": {
+    "en": "Thai Black Coffee",
+    "nl": "Thaise Zwarte Koffie",
+    "thai": "โอเลี้ยง"
+  },
+  "category": "koffie",
+  "type": "beide",
+  "description": {
+    "en": "Traditional Thai coffee with added grains",
+    "nl": "Traditionele Thaise koffie met toegevoegde granen"
+  },
+  "ingredients": [
+    "koffie",
+    "maïs",
+    "sojabonen",
+    "sesam"
+  ],
+  "allergens": [],
+  "dietary": [
+    "vegan"
+  ],
+  "image": "/images/drinks/oliang.webp",
+  "temperature": "beide",
+  "alcohol_content": "geen",
+  "caffeine": "hoog",
+  "price_range": "budget",
+  "region": "centraal",
+  "occasions": [
+    "ontbijt",
+    "traditioneel"
+  ],
+  "seo": {
+    "metaTitle": {
+      "en": "Thai Black Coffee Recipe | Authentic Thai coffee",
+      "nl": "Thaise Zwarte Koffie Recept | Authentieke Thaise coffee"
+    },
+    "metaDescription": {
+      "en": "Learn about Thai Black Coffee (โอเลี้ยง) - Traditional Thai coffee with added grains",
+      "nl": "Leer over Thaise Zwarte Koffie (โอเลี้ยง) - Traditionele Thaise koffie met toegevoegde granen"
+    }
+  },
+  "tags": [
+    "thaise-dranken",
+    "thailand",
+    "koffie",
+    "beide",
+    "beide",
+    "ontbijt",
+    "traditioneel"
+  ]
+}

@@ -1,0 +1,871 @@
+{
+  "id": 6,
+  "slug": "mango-sticky-rice",
+  "name": {
+    "en": "Mango Sticky Rice",
+    "nl": "Mango Sticky Rice",
+    "thai": "ข้าวเหนียวมะม่วง"
+  },
+  "category": "nagerecht",
+  "region": "centraal",
+  "spice_level": "geen",
+  "description": {
+    "en": "Sweet sticky rice served with fresh mango slices and coconut cream",
+    "nl": "Zoete kleefrijst geserveerd met verse mangoplakjes en kokosroom"
+  },
+  "ingredients": [
+    "kleefrijst",
+    "mango",
+    "kokosmelk",
+    "palmsuiker",
+    "zout"
+  ],
+  "allergens": [],
+  "dietary": [
+    "vegetarisch"
+  ],
+  "image": "/images/food/mango-sticky-rice.webp",
+  "preparation_time": "30 minuten",
+  "difficulty": "makkelijk",
+  "price_range": "budget",
+  "seo": {
+    "metaTitle": {
+      "en": "Mango Sticky Rice Recipe | Authentic Thai dessert",
+      "nl": "Mango Sticky Rice Recept | Authentieke Thaise dessert"
+    },
+    "metaDescription": {
+      "en": "Learn about Mango Sticky Rice (ข้าวเหนียวมะม่วง) - Sweet sticky rice served with fresh mango slices and coconut cream...",
+      "nl": "Leer over Mango Sticky Rice (ข้าวเหนียวมะม่วง) - Zoete kleefrijst geserveerd met verse mangoplakjes en kokosroom..."
+    }
+  },
+  "tags": [
+    "thaise-keuken",
+    "thailand",
+    "nagerecht",
+    "centraal",
+    "makkelijk",
+    "budget",
+    "kleefrijst",
+    "mango",
+    "kokosmelk"
+  ],
+  "cooking": {
+    "preparation_time": "30 minuten",
+    "difficulty": "makkelijk",
+    "spice_level": "geen",
+    "serves": "2-4 personen"
+  },
+  "nutrition": {
+    "allergens": [],
+    "dietary": [
+      "vegetarisch"
+    ],
+    "price_range": "budget"
+  },
+  "enhanced_description": "Khao Niao Mamuang (Mango Sticky Rice) is het meest geliefde dessert van Thailand — een ogenschijnlijk eenvoudige combinatie die perfectie bereikt door kwaliteitsingrediënten en precieze techniek. Zoete kleefrijst gedrenkt in kokos, gecombineerd met perfect rijpe mango, creëert een harmonie van smaken en texturen die de essentie van Thaise desserts vat: niet te zoet, natuurlijk gearomatiseerd en seizoensgebonden.",
+  "detailed_ingredients": [
+    {
+      "name": "Nam Dok Mai Mango",
+      "purpose": "De premium Thaise mangovariant — zoet, glad en zonder vezels",
+      "substitutes": [
+        "Ok Rong mango",
+        "Ataulfo mango",
+        "Elke rijpe, zoete mango"
+      ]
+    },
+    {
+      "name": "Glutinous Rice",
+      "purpose": "Speciale kleefrijst die romig wordt bij het koken",
+      "substitutes": [
+        "Geen echte vervanging — gewone rijst werkt niet",
+        "Japanse mochirijst (andere textuur)"
+      ]
+    },
+    {
+      "name": "Coconut Cream",
+      "purpose": "Rijke topping die alles samenbrengt",
+      "substitutes": [
+        "Dikke kokosmelk",
+        "Cashewroom voor een lichtere versie"
+      ]
+    }
+  ],
+  "cooking_method": {
+    "technique": "Stomen en zorgvuldige timing",
+    "steps_overview": "Kleefrijst wordt een nacht geweekt en daarna gestoomd in bamboemandjes. Terwijl het nog warm is, wordt het gemengd met gezoete kokosmelk, waarbij de smaken worden opgenomen. De mango moet perfect rijp zijn — stevig genoeg om te snijden maar zoet en aromatisch.",
+    "cooking_tips": [
+      "Week de rijst minstens 8 uur — een hele nacht is het beste",
+      "Stoom in bamboe voor een authentieke smaak",
+      "Meng de kokossaus terwijl de rijst nog warm is",
+      "Kies mango's die zoet ruiken bij de steel",
+      "Serveer op kamertemperatuur, niet koud"
+    ]
+  },
+  "cultural_significance": {
+    "origin_story": "Ontstaan aan het koninklijk hof waar de beste mango's gereserveerd waren voor de adel. Het gerecht viert het mangoseizoen (april-mei), dat samenvalt met Thais Nieuwjaar (Songkran).",
+    "cultural_importance": "Dit dessert vertegenwoordigt de Thaise agrarische overvloed en het belang van seizoensgebondenheid. Het is een van de weinige Thaise gerechten dat niet is aangepast of het hele jaar door beschikbaar is — je eet het wanneer de mango's klaar zijn.",
+    "traditional_occasions": [
+      "Songkran-festival",
+      "Viering van het mangoseizoen",
+      "Tempeloffers",
+      "Dessert bij speciale gelegenheden"
+    ]
+  },
+  "variations": [
+    {
+      "name": "Khao Niao Thurian",
+      "description": "Durianversie — voor doorgewinterde fruitliefhebbers"
+    },
+    {
+      "name": "Khao Niao Dam",
+      "description": "Gemaakt met zwarte kleefrijst — nootachtiger van smaak"
+    },
+    {
+      "name": "Khao Niao Moon",
+      "description": "Met extra pandan-gearomatiseerde custard"
+    }
+  ],
+  "serving_suggestions": {
+    "traditional_accompaniments": [
+      "Jasmijnrijst",
+      "Verse groenten"
+    ],
+    "presentation": "Geserveerd warm in traditionele Thaise stijl",
+    "eating_etiquette": "Genoten met vork en lepel"
+  },
+  "nutritional_info": {
+    "calories_per_serving": "Verschilt per bereiding",
+    "health_benefits": [
+      "Rijk aan Thaise kruiden en specerijen",
+      "Gebalanceerde smaken"
+    ],
+    "dietary_notes": [
+      "vegetarisch"
+    ]
+  },
+  "where_to_find": {
+    "best_restaurants": [
+      "Mae Varee (Bangkok) — Meest beroemde mango sticky rice winkel",
+      "Kor Panich (Bangkok) — Sinds 1947",
+      "After You Dessert Cafe — Moderne interpretatie"
+    ],
+    "street_food_areas": [
+      "Thonglor-straatverkopers (april-juni)",
+      "Chatuchak Weekend Market",
+      "Elke versmarkt tijdens het mangoseizoen"
+    ],
+    "price_ranges": {
+      "street_food": "50-80 THB (€1,40-€2,20)",
+      "restaurant": "120-200 THB (€3,30-€5,50)",
+      "upscale": "250-400 THB (€6,90-€11)"
+    }
+  },
+  "enhanced_at": "2025-05-25T21:52:03.357Z",
+  "translations": {
+    "nl": {
+      "enhanced_description": "Khao Niao Mamuang (Mango Sticky Rice) is het meest geliefde dessert van Thailand — een ogenschijnlijk eenvoudige combinatie die perfectie bereikt door kwaliteitsingrediënten en precieze techniek. Zoete kleefrijst gedrenkt in kokos, gecombineerd met perfect rijpe mango, creëert een harmonie van smaken en texturen die de essentie van Thaise desserts vat: niet te zoet, natuurlijk gearomatiseerd en seizoensgebonden.",
+      "detailed_ingredients": [
+        {
+          "name": "Nam Dok Mai mango",
+          "purpose": "De premium Thaise mangovariant — zoet, glad en zonder vezels",
+          "substitutes": [
+            "Ok Rong mango",
+            "Ataulfo mango",
+            "Elke rijpe, zoete mango"
+          ]
+        },
+        {
+          "name": "Kleefrijst",
+          "purpose": "Speciale kleefrijst die romig wordt bij het koken",
+          "substitutes": [
+            "Geen echte vervanging — gewone rijst werkt niet",
+            "Japanse mochirijst (andere textuur)"
+          ]
+        },
+        {
+          "name": "Kokosroom",
+          "purpose": "Rijke topping die alles samenbrengt",
+          "substitutes": [
+            "Dikke kokosmelk",
+            "Cashewroom voor een lichtere versie"
+          ]
+        }
+      ],
+      "cooking_method": {
+        "technique": "Stomen en zorgvuldige timing",
+        "steps_overview": "Kleefrijst wordt een nacht geweekt en daarna gestoomd in bamboemandjes. Terwijl het nog warm is, wordt het gemengd met gezoete kokosmelk, waarbij de smaken worden opgenomen. De mango moet perfect rijp zijn — stevig genoeg om te snijden maar zoet en aromatisch.",
+        "cooking_tips": [
+          "Week de rijst minstens 8 uur — een hele nacht is het beste",
+          "Stoom in bamboe voor een authentieke smaak",
+          "Meng de kokossaus terwijl de rijst nog warm is",
+          "Kies mango's die zoet ruiken bij de steel",
+          "Serveer op kamertemperatuur, niet koud"
+        ]
+      },
+      "cultural_significance": {
+        "origin_story": "Ontstaan aan het koninklijk hof waar de beste mango's gereserveerd waren voor de adel. Het gerecht viert het mangoseizoen (april-mei), dat samenvalt met Thais Nieuwjaar (Songkran).",
+        "cultural_importance": "Dit dessert vertegenwoordigt de Thaise agrarische overvloed en het belang van seizoensgebondenheid. Het is een van de weinige Thaise gerechten dat niet is aangepast of het hele jaar door beschikbaar is — je eet het wanneer de mango's klaar zijn.",
+        "traditional_occasions": [
+          "Songkran-festival",
+          "Viering van het mangoseizoen",
+          "Tempeloffers",
+          "Dessert bij speciale gelegenheden"
+        ]
+      },
+      "variations": [
+        {
+          "name": "Khao Niao Thurian",
+          "description": "Durianversie — voor doorgewinterde fruitliefhebbers"
+        },
+        {
+          "name": "Khao Niao Dam",
+          "description": "Gemaakt met zwarte kleefrijst — nootachtiger van smaak"
+        },
+        {
+          "name": "Khao Niao Moon",
+          "description": "Met extra pandan-gearomatiseerde custard"
+        }
+      ],
+      "serving_suggestions": {
+        "traditional_accompaniments": [
+          "Verse mango",
+          "Extra kokosroom"
+        ],
+        "presentation": "Geserveerd op kamertemperatuur in traditionele Thaise stijl",
+        "eating_etiquette": "Gegeten met vork en lepel"
+      },
+      "where_to_find": {
+        "best_restaurants": [
+          "Mae Varee (Bangkok) — Beroemdste mango sticky rice winkel",
+          "Kor Panich (Bangkok) — Sinds 1947",
+          "After You Dessert Cafe — Moderne interpretatie"
+        ],
+        "street_food_areas": [
+          "Thonglor straatverkopers (april-juni)",
+          "Chatuchak Weekend Market",
+          "Elke versmarkt tijdens het mangoseizoen"
+        ]
+      },
+      "translated_at": "2026-03-10T00:00:00.000Z"
+    },
+    "fr": {
+      "enhanced_description": "Khao Niao Mamuang (Mango Sticky Rice) is het meest geliefde dessert van Thailand — een ogenschijnlijk eenvoudige combinatie die perfectie bereikt door kwaliteitsingrediënten en precieze techniek. Zoete kleefrijst gedrenkt in kokos, gecombineerd met perfect rijpe mango, creëert een harmonie van smaken en texturen die de essentie van Thaise desserts vat: niet te zoet, natuurlijk gearomatiseerd en seizoensgebonden.",
+      "detailed_ingredients": [
+        {
+          "name": "Mangue Nam Dok Mai",
+          "purpose": "De premium Thaise mangovariant — zoet, glad en zonder vezels",
+          "substitutes": [
+            "Ok Rong mango",
+            "Ataulfo mango",
+            "Elke rijpe, zoete mango"
+          ]
+        },
+        {
+          "name": "Riz gluant",
+          "purpose": "Speciale kleefrijst die romig wordt bij het koken",
+          "substitutes": [
+            "Geen echte vervanging — gewone rijst werkt niet",
+            "Japanse mochirijst (andere textuur)"
+          ]
+        },
+        {
+          "name": "Crème de coco",
+          "purpose": "Rijke topping die alles samenbrengt",
+          "substitutes": [
+            "Dikke kokosmelk",
+            "Cashewroom voor een lichtere versie"
+          ]
+        }
+      ],
+      "cooking_method": {
+        "technique": "Stomen en zorgvuldige timing",
+        "steps_overview": "Kleefrijst wordt een nacht geweekt en daarna gestoomd in bamboemandjes. Terwijl het nog warm is, wordt het gemengd met gezoete kokosmelk, waarbij de smaken worden opgenomen. De mango moet perfect rijp zijn — stevig genoeg om te snijden maar zoet en aromatisch.",
+        "cooking_tips": [
+          "Week de rijst minstens 8 uur — een hele nacht is het beste",
+          "Stoom in bamboe voor een authentieke smaak",
+          "Meng de kokossaus terwijl de rijst nog warm is",
+          "Kies mango's die zoet ruiken bij de steel",
+          "Serveer op kamertemperatuur, niet koud"
+        ]
+      },
+      "cultural_significance": {
+        "origin_story": "Ontstaan aan het koninklijk hof waar de beste mango's gereserveerd waren voor de adel. Het gerecht viert het mangoseizoen (april-mei), dat samenvalt met Thais Nieuwjaar (Songkran).",
+        "cultural_importance": "Dit dessert vertegenwoordigt de Thaise agrarische overvloed en het belang van seizoensgebondenheid. Het is een van de weinige Thaise gerechten dat niet is aangepast of het hele jaar door beschikbaar is — je eet het wanneer de mango's klaar zijn.",
+        "traditional_occasions": [
+          "Songkran-festival",
+          "Viering van het mangoseizoen",
+          "Tempeloffers",
+          "Dessert bij speciale gelegenheden"
+        ]
+      },
+      "variations": [
+        {
+          "name": "Khao Niao Thurian",
+          "description": "Durianversie — voor doorgewinterde fruitliefhebbers"
+        },
+        {
+          "name": "Khao Niao Dam",
+          "description": "Gemaakt met zwarte kleefrijst — nootachtiger van smaak"
+        },
+        {
+          "name": "Khao Niao Moon",
+          "description": "Met extra pandan-gearomatiseerde custard"
+        }
+      ],
+      "serving_suggestions": {
+        "traditional_accompaniments": [
+          "Verse mango",
+          "Extra kokosroom"
+        ],
+        "presentation": "Geserveerd op kamertemperatuur in traditionele Thaise stijl",
+        "eating_etiquette": "Gegeten met vork en lepel"
+      },
+      "where_to_find": {
+        "best_restaurants": [
+          "Mae Varee (Bangkok) — Meest beroemde mango sticky rice winkel",
+          "Kor Panich (Bangkok) — Sinds 1947",
+          "After You Dessert Cafe — Moderne interpretatie"
+        ],
+        "street_food_areas": [
+          "Thonglor-straatverkopers (april-juni)",
+          "Chatuchak Weekend Market",
+          "Elke versmarkt tijdens het mangoseizoen"
+        ]
+      },
+      "translated_at": "2026-03-10T00:00:00.000Z"
+    },
+    "de": {
+      "enhanced_description": "Khao Niao Mamuang (Mango Sticky Rice) is het meest geliefde dessert van Thailand — een ogenschijnlijk eenvoudige combinatie die perfectie bereikt door kwaliteitsingrediënten en precieze techniek. Zoete kleefrijst gedrenkt in kokos, gecombineerd met perfect rijpe mango, creëert een harmonie van smaken en texturen die de essentie van Thaise desserts vat: niet te zoet, natuurlijk gearomatiseerd en seizoensgebonden.",
+      "detailed_ingredients": [
+        {
+          "name": "Nam Dok Mai Mango",
+          "purpose": "De premium Thaise mangovariant — zoet, glad en zonder vezels",
+          "substitutes": [
+            "Ok Rong mango",
+            "Ataulfo mango",
+            "Elke rijpe, zoete mango"
+          ]
+        },
+        {
+          "name": "Klebreis",
+          "purpose": "Speciale kleefrijst die romig wordt tijdens het koken",
+          "substitutes": [
+            "Geen echte vervanger — gewone rijst werkt niet",
+            "Japanse mochi-rijst (andere textuur)"
+          ]
+        },
+        {
+          "name": "Kokoscreme",
+          "purpose": "Rijk topping dat alles samenbrengt",
+          "substitutes": [
+            "Dikke kokosmelk",
+            "Cashewcrème voor een lichtere versie"
+          ]
+        }
+      ],
+      "cooking_method": {
+        "technique": "Stomen en zorgvuldige timing",
+        "steps_overview": "Kleefrijst wordt een nacht geweekt en dan gestoomd in bamboe mandjes. Zolang het nog warm is, wordt het gemengd met zoete kokosmelk en absorbeert het de aroma's. De mango moet perfect rijp zijn — stevig genoeg om te snijden, maar zoet en aromatisch.",
+        "cooking_tips": [
+          "Rijst minstens 8 uur weken — een nacht is het beste",
+          "Stomen in bamboe voor authentieke smaak",
+          "Kokossaus mengen zolang de rijst nog warm is",
+          "Mangos kiezen die zoet ruiken bij de steel",
+          "Serveren op kamertemperatuur, niet koud"
+        ]
+      },
+      "cultural_significance": {
+        "origin_story": "Ontstaan aan het koninklijk hof, waar de beste mangos voor de adel waren gereserveerd. Het gerecht viert het mangoseizoen (april–mei), dat samenvalt met het Thaise nieuwjaar (Songkran).",
+        "cultural_importance": "Dit dessert vertegenwoordigt de landbouwrijke overvloed van Thailand en het belang van seizoensgebondenheid. Het is een van de weinige Thaise gerechten die niet zijn aangepast of het hele jaar door beschikbaar gemaakt — je eet het wanneer de mangos rijp zijn.",
+        "traditional_occasions": [
+          "Songkran-festival",
+          "Viering van het mangoseizoen",
+          "Tempeloffers",
+          "Dessert voor speciale gelegenheden"
+        ]
+      },
+      "variations": [
+        {
+          "name": "Khao Niao Thurian",
+          "description": "Durian-versie — voor doorgewinterde fruitliefhebbers"
+        },
+        {
+          "name": "Khao Niao Dam",
+          "description": "Gemaakt met zwarte kleefrijst — nootachtiger smaak"
+        },
+        {
+          "name": "Khao Niao Moon",
+          "description": "Met extra pandan-gearomatiseerde pudding"
+        }
+      ],
+      "serving_suggestions": {
+        "traditional_accompaniments": [
+          "Verse mango",
+          "Extra kokoscrème"
+        ],
+        "presentation": "Geserveerd op kamertemperatuur in traditionele Thaise stijl",
+        "eating_etiquette": "Gegeten met vork en lepel"
+      },
+      "where_to_find": {
+        "best_restaurants": [
+          "Mae Varee (Bangkok) — Beroemdste mango sticky rice winkel",
+          "Kor Panich (Bangkok) — Sinds 1947",
+          "After You Dessert Cafe — Moderne interpretatie"
+        ],
+        "street_food_areas": [
+          "Thonglor-straatverkopers (april–juni)",
+          "Chatuchak Weekend Market",
+          "Elke versmarkt tijdens het mangoseizoen"
+        ]
+      },
+      "translated_at": "2026-03-10T00:00:00.000Z"
+    },
+    "zh": {
+      "enhanced_description": "Khao Niao Mamuang (芒果糯米饭) is het meest geliefde dessert van Thailand — een schijnbaar eenvoudige combinatie die perfectie bereikt dankzij kwaliteitsingrediënten en precieze techniek. Zoete kleefrijst, doordrenkt met kokosmelk, gepaard met perfect rijpe mango, creëert een harmonie van smaken en texturen die de essentie van Thaise desserts vangt: niet te zoet, natuurlijk gearomatiseerd en afhankelijk van het seizoen.",
+      "detailed_ingredients": [
+        {
+          "name": "Nam Dok Mai芒果",
+          "purpose": "De premium Thaise mangosoort — zoet, glad en vezelvrij",
+          "substitutes": [
+            "Ok Rong mango",
+            "Ataulfo mango",
+            "Elke rijpe, zoete mango"
+          ]
+        },
+        {
+          "name": "糯米",
+          "purpose": "Speciale kleefrijst die romig wordt na het stomen",
+          "substitutes": [
+            "Geen echte vervanger — gewone rijst kan niet",
+            "Japanse mochi-rijst (andere textuur)"
+          ]
+        },
+        {
+          "name": "椰浆",
+          "purpose": "Rijk topping dat alle smaken samenbrengt",
+          "substitutes": [
+            "Dikke kokosmelk",
+            "Cashewcrème (voor een lichtere versie)"
+          ]
+        }
+      ],
+      "cooking_method": {
+        "technique": "Stomen en precieze tijdcontrole",
+        "steps_overview": "Kleefrijst een nacht weken en dan stomen in een bamboesteamer. Meng zoete kokosmelk erdoor terwijl het warm is, zodat de rijst de smaken absorbeert. De mango moet perfect rijp zijn — stevig genoeg om te snijden maar zoet en geurig.",
+        "cooking_tips": [
+          "Rijst minstens 8 uur weken — een nacht is het beste",
+          "Stomen in bamboe voor authentieke smaak",
+          "Kokosmelk mengen terwijl de rijst nog warm is",
+          "Kies mangos die zoet ruiken bij de steel",
+          "Serveren op kamertemperatuur, niet gekoeld"
+        ]
+      },
+      "cultural_significance": {
+        "origin_story": "Oorsprong in het paleis, waar de beste mangos voor de adel waren. Dit dessert viert het mangoseizoen (april tot mei), dat samenvalt met het Thaise nieuwjaar (Songkran).",
+        "cultural_importance": "Dit dessert symboliseert de agrarische overvloed van Thailand en het belang van seizoensproducten. Het is een van de weinige Thaise gerechten die niet zijn aangepast voor jaarrond beschikbaarheid — geniet ervan wanneer de mangos rijp zijn.",
+        "traditional_occasions": [
+          "Songkran (泼水节)",
+          "Viering van het mangoseizoen",
+          "Tempeloffers",
+          "Dessert voor speciale gelegenheden"
+        ]
+      },
+      "variations": [
+        {
+          "name": "Khao Niao Thurian",
+          "description": "Durian-versie — voor fanatieke fruitliefhebbers"
+        },
+        {
+          "name": "Khao Niao Dam",
+          "description": "Gemaakt met zwarte kleefrijst — nootachtiger smaak"
+        },
+        {
+          "name": "Khao Niao Moon",
+          "description": "Met extra pandan-gearomatiseerde pudding"
+        }
+      ],
+      "serving_suggestions": {
+        "traditional_accompaniments": [
+          "Verse mango",
+          "Extra kokosmelk"
+        ],
+        "presentation": "Geserveerd op kamertemperatuur in traditionele Thaise stijl",
+        "eating_etiquette": "Genieten met vork en lepel"
+      },
+      "where_to_find": {
+        "best_restaurants": [
+          "Mae Varee (Bangkok) — Meest beroemde mango sticky rice winkel",
+          "Kor Panich (Bangkok) — Sinds 1947",
+          "After You Dessert Cafe — Moderne interpretatie"
+        ],
+        "street_food_areas": [
+          "Thonglor-straatverkopers (april tot juni)",
+          "Chatuchak Weekend Market",
+          "Elke versmarkt tijdens het mangoseizoen"
+        ]
+      },
+      "translated_at": "2026-03-11T00:00:00.000Z"
+    },
+    "ru": {
+      "enhanced_description": "Khao Niao Mamuang (Mango Sticky Rice) is het meest geliefde dessert van Thailand, een schijnbaar eenvoudige combinatie die perfectie bereikt dankzij kwaliteitsingrediënten en precieze techniek. Zoete kleefrijst, doordrenkt met kokosmelk, gepaard met perfect rijpe mango, creëert een harmonie van smaken en texturen die de essentie van Thaise desserts overbrengt: niet te zoet, natuurlijk aroma en afhankelijk van het seizoen.",
+      "detailed_ingredients": [
+        {
+          "name": "Манго Nam Dok Mai",
+          "purpose": "Premium Thaise mangosoort — zoet, glad en zonder vezels",
+          "substitutes": [
+            "Ok Rong mango",
+            "Ataulfo mango",
+            "Elke rijpe zoete mango"
+          ]
+        },
+        {
+          "name": "Клейкий рис",
+          "purpose": "Speciale kleefrijst die romig wordt bij het koken",
+          "substitutes": [
+            "Geen echte vervanger — gewone rijst past niet",
+            "Japanse mochi-rijst (andere textuur)"
+          ]
+        },
+        {
+          "name": "Кокосовые сливки",
+          "purpose": "Rijk sausje dat alle smaken bundelt",
+          "substitutes": [
+            "Dikke kokosmelk",
+            "Cashewcrème voor een lichtere versie"
+          ]
+        }
+      ],
+      "cooking_method": {
+        "technique": "Stomen en precieze tijdplanning",
+        "steps_overview": "Kleefrijst een nacht weken, dan stomen in bamboe mandjes. Meng met zoete kokosmelk terwijl het warm is — het absorbeert alle aroma's. Mango moet perfect rijp zijn — stevig genoeg om te snijden, maar zoet en aromatisch.",
+        "cooking_tips": [
+          "Week rijst minstens 8 uur — een nacht is het beste",
+          "Stomen in bamboe voor authentieke smaak",
+          "Voeg kokossaus toe terwijl rijst nog warm is",
+          "Kies mangos die zoet ruiken bij de steel",
+          "Serveren op kamertemperatuur, niet koud"
+        ]
+      },
+      "cultural_significance": {
+        "origin_story": "Ontstaan aan het koninklijk hof, waar de beste mangos voor de adel waren. Het gerecht markeert het mangoseizoen (april–mei), dat samenvalt met het Thaise nieuwjaar (Songkran).",
+        "cultural_importance": "Dit dessert belichaamt de agrarische overvloed van Thailand en het belang van seizoensgebondenheid. Het is een van de weinige Thaise gerechten die niet is aangepast voor jaarrond beschikbaarheid — eet het wanneer mango rijp is.",
+        "traditional_occasions": [
+          "Songkran-festival",
+          "Viering van het mangoseizoen",
+          "Offers in tempels",
+          "Dessert voor speciale gelegenheden"
+        ]
+      },
+      "variations": [
+        {
+          "name": "Khao Niao Thurian",
+          "description": "Versie met durian — voor echte fruitliefhebbers"
+        },
+        {
+          "name": "Khao Niao Dam",
+          "description": "Van zwarte kleefrijst — nootachtiger smaak"
+        },
+        {
+          "name": "Khao Niao Moon",
+          "description": "Met extra pandan-gearomatiseerde custard"
+        }
+      ],
+      "serving_suggestions": {
+        "traditional_accompaniments": [
+          "Verse mango",
+          "Extra kokosroom"
+        ],
+        "presentation": "Geserveerd op kamertemperatuur in traditionele Thaise stijl",
+        "eating_etiquette": "Gegeten met vork en lepel"
+      },
+      "where_to_find": {
+        "best_restaurants": [
+          "Mae Varee (Bangkok) — Meest beroemde mango sticky rice winkel",
+          "Kor Panich (Bangkok) — Sinds 1947",
+          "After You Dessert Cafe — Moderne interpretatie"
+        ],
+        "street_food_areas": [
+          "Straatverkopers op Thonglor (april–juni)",
+          "Chatuchak Weekend Market",
+          "Elke versmarkt in het mangoseizoen"
+        ]
+      },
+      "translated_at": "2026-03-11T00:00:00.000Z"
+    },
+    "ko": {
+      "enhanced_description": "Khao Niao Mamuang (망고 스티키 라이스)은 태국에서 가장 사랑받는 디저트로, 단순해 보이지만 최고의 재료와 정밀한 기술로 완벽함을 이루는 요리입니다. 코코넛 밀크에 절인 달콤한 찹쌀에 완벽하게 익은 망고를 곁들이면, 태국 디저트의 정수를 담은 풍미와 식감의 조화가 탄생합니다 — 지나치게 달지 않고, 자연의 맛을 살리며, 제철에만 즐길 수 있는 특별한 디저트입니다.",
+      "detailed_ingredients": [
+        {
+          "name": "남독마이 망고",
+          "purpose": "De premium Thaise mangosoort — zoet, glad en zonder vezels",
+          "substitutes": [
+            "Ok Rong mango",
+            "Ataulfo mango",
+            "Elke rijpe zoete mangosoort"
+          ]
+        },
+        {
+          "name": "찹쌀 (카오니아오)",
+          "purpose": "Speciale kleefrijst die romig wordt na het koken — de kern van dit dessert",
+          "substitutes": [
+            "Geen vervanger — gewone rijst is niet mogelijk",
+            "Japanse mochi-rijst (andere textuur)"
+          ]
+        },
+        {
+          "name": "코코넛 크림",
+          "purpose": "Rijk topping dat alle smaken samenbrengt",
+          "substitutes": [
+            "Dikke kokosmelk",
+            "Cashewcrème (voor lichte versie)"
+          ]
+        }
+      ],
+      "cooking_method": {
+        "technique": "Stomen en zorgvuldige timing",
+        "steps_overview": "Kleefrijst een nacht weken en dan stomen in bamboe mandjes. Meng zoete kokosmelk erdoor terwijl het warm is, zodat de rijst de smaken absorbeert. Mango moet perfect rijp zijn — stevig genoeg om te snijden, maar zoet en geurig.",
+        "cooking_tips": [
+          "Rijst minstens 8 uur weken — een nacht is het beste",
+          "Stomen in bamboe voor authentieke smaak",
+          "Kokossaus mengen terwijl rijst nog warm is voor goede absorptie",
+          "Kies mangos die zoet ruiken bij de steel",
+          "Serveren op kamertemperatuur, niet koud"
+        ]
+      },
+      "cultural_significance": {
+        "origin_story": "Oorsprong in de koninklijke keuken, waar de beste mangos voor de adel werden bewaard. Dit dessert viert het mangoseizoen (4-5 maand) dat samenvalt met het Thaise nieuwjaar (Songkran).",
+        "cultural_importance": "Dit dessert symboliseert de agrarische overvloed van Thailand en het belang van seizoensgerechten. Het is een van de weinige Thaise gerechten die niet is aangepast voor het hele jaar — een speciaal seizoensdessert dat je alleen eet wanneer mango rijp is.",
+        "traditional_occasions": [
+          "Songkran-festival",
+          "Viering van het mangoseizoen",
+          "Tempeloffers",
+          "Dessert voor speciale dagen"
+        ]
+      },
+      "variations": [
+        {
+          "name": "카오니아오 투리안",
+          "description": "Durian-versie — keuze voor tropisch fruitmaniakken."
+        },
+        {
+          "name": "카오니아오 담 (흑미)",
+          "description": "Versie gemaakt met zwarte kleefrijst — met nootachtige smaak."
+        },
+        {
+          "name": "카오니아오 문",
+          "description": "Versie met toegevoegde pandan-geurige custard."
+        }
+      ],
+      "serving_suggestions": {
+        "traditional_accompaniments": [
+          "Kokoscrème",
+          "Geroosterde mungbonen",
+          "Gepocheerd ijs (zomer)"
+        ],
+        "presentation": "Serveer kleefrijst op een bord met mangoschijven en kokoscrème erbovenop",
+        "eating_etiquette": "Eet met een lepel: schep kleefrijst, mango en kokoscrème samen op"
+      },
+      "where_to_find": {
+        "best_restaurants": [
+          "Mae Varee (Bangkok) — Meest beroemde specialist",
+          "Traditionele dessertwinkel",
+          "Straatstalletje bij tempel",
+          "Dessertkraam op nachtmarkt"
+        ],
+        "street_food_areas": [
+          "Khao San Road (Bangkok)",
+          "Chatuchak Market",
+          "Nachtmarkten door heel het land"
+        ],
+        "price_ranges": {
+          "street_vendor": "40-80 THB",
+          "market_stall": "60-100 THB",
+          "restaurant": "100-200 THB"
+        }
+      },
+      "translated_at": "2026-03-14T00:00:00.000Z"
+    },
+    "th": {
+      "enhanced_description": "ข้าวเหนียวมะม่วงเป็นของหวานไทยที่โด่งดังไปทั่วโลก ข้าวเหนียวนึ่งราดกะทิหวานเค็ม เสิร์ฟกับมะม่วงน้ำดอกไม้สุกหอมหวาน โรยถั่วเหลืองทอด เป็นของหวานประจำฤดูร้อนของไทย",
+      "detailed_ingredients": [
+        {
+          "name": "Nam Dok Mai Mango",
+          "purpose": "De premium Thaise mangosoort - zoet, glad en vezelvrij",
+          "substitutes": [
+            "Ok Rong mango",
+            "Ataulfo mango",
+            "Elke rijpe, zoete mango"
+          ]
+        },
+        {
+          "name": "Glutinous Rice",
+          "purpose": "Speciale kleefrijst die romig wordt tijdens het koken",
+          "substitutes": [
+            "Geen echte vervanger - gewone rijst werkt niet",
+            "Japanse mochi-rijst (andere textuur)"
+          ]
+        },
+        {
+          "name": "Coconut Cream",
+          "purpose": "Rijke topping die alles samenbrengt",
+          "substitutes": [
+            "Dikke kokosmelk",
+            "Cashewcrème voor lichtere versie"
+          ]
+        }
+      ],
+      "cooking_method": {
+        "technique": "Stomen en zorgvuldige timing",
+        "steps_overview": "Kleefrijst wordt een nacht geweekt en dan gestoomd in bamboemandjes. Nog warm wordt het gemengd met gezoete kokosmelk, waardoor het de smaken opneemt. De mango moet perfect rijp zijn - stevig genoeg om te snijden maar zoet en aromatisch.",
+        "cooking_tips": [
+          "Week de rijst minstens 8 uur - een nacht is het beste",
+          "Stoom in bamboe voor authentieke smaak",
+          "Meng kokossaus terwijl de rijst nog warm is",
+          "Kies mango's die zoet ruiken bij de steel",
+          "Serveer op kamertemperatuur, niet koud"
+        ]
+      },
+      "cultural_significance": {
+        "origin_story": "ข้าวเหนียวมะม่วงเป็นของหวานไทยที่ผูกพันกับฤดูร้อน ช่วงเดือนเมษายน-พฤษภาคมที่มะม่วงน้ำดอกไม้สุกหอม เป็นของหวานที่สะท้อนวิถีเกษตรกรรมไทย",
+        "cultural_importance": "Dit dessert vertegenwoordigt de Thaise agrarische overvloed en het belang van seizoensgebondenheid. Het is een van de weinige Thaise gerechten die niet is aangepast of het hele jaar door beschikbaar is - je eet het wanneer de mango's rijp zijn.",
+        "traditional_occasions": [
+          "Songkran-festival",
+          "Viering van het mangoseizoen",
+          "Tempeloffers",
+          "Dessert voor speciale gelegenheden"
+        ]
+      },
+      "variations": [
+        {
+          "name": "Khao Niao Thurian",
+          "description": "Durianversie - voor hardcore fruitliefhebbers"
+        },
+        {
+          "name": "Khao Niao Dam",
+          "description": "Gemaakt met zwarte kleefrijst - nootachtiger smaak"
+        },
+        {
+          "name": "Khao Niao Moon",
+          "description": "Met extra pandan-gearomatiseerde custard"
+        }
+      ],
+      "serving_suggestions": {
+        "traditional_accompaniments": [
+          "ข้าวหอมมะลิ",
+          "ผักสด"
+        ],
+        "presentation": "เสิร์ฟร้อนๆ แบบไทยดั้งเดิม",
+        "eating_etiquette": "ทานด้วยช้อนส้อม"
+      },
+      "where_to_find": {
+        "best_restaurants": [
+          "Mae Varee (Bangkok) - Bekendste mango sticky rice-winkel",
+          "Kor Panich (Bangkok) - Sinds 1947",
+          "After You Dessert Cafe - Moderne interpretatie"
+        ],
+        "street_food_areas": [
+          "Straatverkopers op Thonglor (april-juni)",
+          "Chatuchak Weekend Market",
+          "Elke verse markt tijdens het mangoseizoen"
+        ],
+        "price_ranges": {
+          "street_food": "50-80 THB (€1,40-€2,20)",
+          "restaurant": "120-200 THB (€3,30-€5,50)",
+          "upscale": "250-400 THB (€6,90-€11,00)"
+        }
+      },
+      "translated_at": "2026-03-14T00:00:00.000Z"
+    },
+    "ja": {
+      "enhanced_description": "カオ・ニャオ・マムアン（マンゴー・スティッキー・ライス）はタイで最も愛されるデザートで、質の高い材料と正確な技術によって成立する、見た目にはシンプルな組み合わせです。甘いココナツミルクに包まれたもち米と、完熟したマンゴーが風味と食感の調和を生み出し、タイ菓子の本質をとらえています。甘さは強すぎず、自然な香りづけで、季節の変化に依存します。",
+      "detailed_ingredients": [
+        {
+          "name": "Nam Dok Mai Mango（ナム・ドーク・マイ・マンゴー）",
+          "purpose": "タイ産の高級マンゴー品種で、甘く滑らか、繊維が少ない",
+          "substitutes": [
+            "Ok Rongマンゴー（オークロンマンゴー）",
+            "Ataulfoマンゴー",
+            "熟して甘いマンゴーなら何でも"
+          ]
+        },
+        {
+          "name": "Glutinous Rice（もち米）",
+          "purpose": "蒸すとクリーミーになる特別なもち米",
+          "substitutes": [
+            "代替となる実質的なものはなし - 普通のお米では代用不可",
+            "日本のもち米（食感が異なる）"
+          ]
+        },
+        {
+          "name": "Coconut Cream（ココナッツクリーム）",
+          "purpose": "全体をまとめるリッチなトッピング",
+          "substitutes": [
+            "濃厚なココナッツミルク",
+            "軽めにはカシューナッツクリーム"
+          ]
+        }
+      ],
+      "cooking_method": {
+        "technique": "蒸しと丁寧なタイミング",
+        "steps_overview": "もち米は一晩以上水に浸してから竹籠で蒸します。温かいうちに砂糖で味付けしたココナッツミルクと混ぜ、風味を米に吸収させます。マンゴーは完熟度が高く、切りやすく香り高い状態である必要があります。",
+        "cooking_tips": [
+          "米は最低8時間以上浸水させる - 一晩が最適です",
+          "本格的な風味のため竹籠で蒸す",
+          "米が温かいうちにココナッツソースを混ぜる",
+          "茎元から甘い香りがするマンゴーを選ぶ",
+          "室温で提供、冷たくしない"
+        ]
+      },
+      "cultural_significance": {
+        "origin_story": "起源は王宮で、最高級のマンゴーが貴族のために温存されていた時代にさかのぼります。この料理はマンゴーの季節（4月〜5月）を祝うもので、タイの新年ソンクランと重なる時期でもあります。",
+        "cultural_importance": "このデザートはタイの農業の豊穣さと季節性の重要性を象徴します。年中常に提供されているわけではなく、マンゴーが熟した時期にしか味わえない貴重な一品です。",
+        "traditional_occasions": [
+          "ソンクラン祭り",
+          "マンゴーの季節の祝い",
+          "寺院への供え物",
+          "特別な occasion デザート"
+        ]
+      },
+      "variations": [
+        {
+          "name": "Khao Niao Thurian（カオニオ・トゥリアン）",
+          "description": "デュリアン版 - 果物愛好者向け"
+        },
+        {
+          "name": "Khao Niao Dam（カオニオ・ダム）",
+          "description": "黒もち米を使ったよりナッツのような風味のバージョン"
+        },
+        {
+          "name": "Khao Niao Moon（カオニオ・ムーン）",
+          "description": "追加のパンダン風味カスタードを加えたバージョン"
+        }
+      ],
+      "serving_suggestions": {
+        "traditional_accompaniments": [
+          "ジャスミンライス",
+          "新鮮な野菜"
+        ],
+        "presentation": "伝統的なタイ風の熱々で盛り付ける",
+        "eating_etiquette": "フォークとスプーンを使って食べる"
+      },
+      "where_to_find": {
+        "best_restaurants": [
+          "Mae Varee (Bangkok) - 最も有名なマンゴー・スティッキー・ライスのお店",
+          "Kor Panich (Bangkok) - 1947年創業",
+          "After You Dessert Cafe - 現代的な解釈"
+        ],
+        "street_food_areas": [
+          "Thonglor Street vendors（4月-6月）",
+          "Chatuchak Weekend Market（チャトゥチャック・ウィークエンド・マーケット）",
+          "マンゴーの季節には、どの新鮮市場でも"
+        ],
+        "price_ranges": {
+          "street_food": "50-80 THB ($1.50-$2.40)",
+          "restaurant": "120-200 THB ($3.60-$6)",
+          "upscale": "250-400 THB ($7.50-$12)"
+        }
+      },
+      "translated_at": "2026-03-14T00:00:00.000Z"
+    }
+  }
+}

@@ -7,6 +7,8 @@ import EmailCapture from '../../components/EmailCapture';
 import PreFooterAffiliateBanner from '../../components/PreFooterAffiliateBanner';
 import TravelpayoutsRecoveryPanel from '../../components/TravelpayoutsRecoveryPanel';
 import { getAllVisas } from '../../lib/visas';
+import { useT } from '../../lib/i18n';
+import { strings as i18nStrings } from '../../lib/i18n/visa-index';
 
 interface Visa {
   id: number;
@@ -23,6 +25,7 @@ interface VisaPageProps {
 }
 
 export default function VisaIndexPage({ visas }: VisaPageProps) {
+  const t = useT(i18nStrings);
   const { locale } = useRouter();
   const lang = (locale === 'nl' ? 'nl' : 'en') as 'en' | 'nl';
 
@@ -112,10 +115,10 @@ export default function VisaIndexPage({ visas }: VisaPageProps) {
   return (
     <>
       <SEOHead
-        title="Thailand Visa Guide 2026: Requirements, Exemptions & How to Apply | Go2Thailand"
-        description="Complete Thailand visa guide 2026. 93 countries qualify for 60-day visa-free entry. Tourist visa, digital nomad visa (DTV), retirement visa — requirements, costs, extensions & overstay rules."
+        title={t("s001_thailand_visa_guide_2026")}
+        description={t("s002_complete_thailand_visa_guide")}
       >
-        <meta name="keywords" content="Thailand visa, Thailand visa 2026, visa free Thailand, tourist visa Thailand, digital nomad visa Thailand, DTV Thailand, thailand visa for us citizens, thailand visa extension" />
+        <meta name="keywords" content={t("s003_thailand_visa_thailand_visa")} />
         <script
           type="application/ld+json"
           dangerouslySetInnerHTML={{ __html: JSON.stringify(jsonLd) }}
@@ -131,9 +134,9 @@ export default function VisaIndexPage({ visas }: VisaPageProps) {
         <section className="bg-surface-dark text-white">
           <div className="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8 py-16">
             <div className="text-center">
-              <p className="font-script text-thailand-gold mb-2">Visa Info</p>
+              <p className="font-script text-thailand-gold mb-2">{t("s004_visa_info")}</p>
               <h1 className="text-4xl lg:text-6xl font-bold font-heading mb-6">
-                Thailand Visa Guide 2026
+                {t("s005_thailand_visa_guide_2026")}
               </h1>
               <p className="text-xl lg:text-2xl mb-4 max-w-3xl mx-auto opacity-90">
                 {lang === 'nl'
@@ -225,19 +228,19 @@ export default function VisaIndexPage({ visas }: VisaPageProps) {
         {/* Do You Need a Visa? */}
         <section className="py-12 bg-white border-t" id="do-you-need-a-visa">
           <div className="max-w-4xl mx-auto px-4 sm:px-6 lg:px-8">
-            <h2 className="text-3xl font-bold font-heading text-gray-900 mb-6">Do You Need a Visa for Thailand?</h2>
+            <h2 className="text-3xl font-bold font-heading text-gray-900 mb-6">{t("s006_do_you_need_a")}</h2>
             <div className="prose prose-lg max-w-none text-gray-700">
               <p>
-                Most tourists <strong>do not need a visa</strong> to visit Thailand. Since 2024, citizens of 93 countries can enter Thailand visa-free for up to 60 days — double the previous 30-day allowance. This covers most passport holders from Europe, North America, Australia, and parts of Asia and South America.
+                {t("s007_most_tourists")} <strong>do not need a visa</strong> to visit Thailand. Since 2024, citizens of 93 countries can enter Thailand visa-free for up to 60 days — double the previous 30-day allowance. This covers most passport holders from Europe, North America, Australia, and parts of Asia and South America.
               </p>
               <p>
-                If 60 days is not enough, you can extend your stay by 30 days at any Thai immigration office for ฿1,900, giving you a total of 90 days without ever applying for a visa. For even longer stays, Thailand offers a range of visa options including the <Link href="/visa/tourist-visa/">Tourist Visa (TR)</Link>, <Link href="/visa/digital-nomad-visa/">Digital Nomad Visa (DTV)</Link>, and <Link href="/visa/retirement-visa/">Retirement Visa</Link>.
+                {t("s008_if_60_days_is")} <Link href="/visa/tourist-visa/">{t("s009_tourist_visa_tr")}</Link>, <Link href="/visa/digital-nomad-visa/">{t("s010_digital_nomad_visa_dtv")}</Link>, and <Link href="/visa/retirement-visa/">{t("s011_retirement_visa")}</Link>.
               </p>
               <div className="bg-amber-50 border border-amber-200 rounded-xl p-4 not-prose my-6">
-                <p className="text-amber-800 text-sm font-medium">⚠️ <strong>April 2026 update:</strong> The Thai government is reviewing a possible reduction from 60 to 30 days for visa-free entry. As of April 2026, the 60-day rule is still active — no changes have taken effect. We will update this page if the policy changes.</p>
+                <p className="text-amber-800 text-sm font-medium">⚠️ <strong>{t("s012_april_2026_update")}</strong> {t("s013_the_thai_government_is")}</p>
               </div>
               <p>
-                For nationalities not on the exemption list, <strong>Visa on Arrival (VOA)</strong> is available for citizens of 19 additional countries at a cost of ฿2,000 for 15 days. Thailand has also replaced the paper TM.6 arrival card with the <Link href="/visa/digital-arrival-card/">Thailand Digital Arrival Card (TDAC)</Link>, which you can fill out online before your trip.
+                {t("s014_for_nationalities_not_on")} <strong>{t("s015_visa_on_arrival_voa")}</strong> is available for citizens of 19 additional countries at a cost of ฿2,000 for 15 days. Thailand has also replaced the paper TM.6 arrival card with the <Link href="/visa/digital-arrival-card/">{t("s016_thailand_digital_arrival_card")}</Link>, which you can fill out online before your trip.
               </p>
             </div>
           </div>
@@ -246,56 +249,56 @@ export default function VisaIndexPage({ visas }: VisaPageProps) {
         {/* Visa Exemption Countries */}
         <section className="py-12 border-t" id="visa-exemption">
           <div className="max-w-4xl mx-auto px-4 sm:px-6 lg:px-8">
-            <h2 className="text-3xl font-bold font-heading text-gray-900 mb-6">Visa Exemption: 60-Day Free Entry</h2>
-            <p className="text-gray-600 mb-8">Citizens of 93 countries can enter Thailand without a visa for up to 60 days. Here are the major countries grouped by region:</p>
+            <h2 className="text-3xl font-bold font-heading text-gray-900 mb-6">{t("s017_visa_exemption_60_day")}</h2>
+            <p className="text-gray-600 mb-8">{t("s018_citizens_of_93_countries")}</p>
 
             <div className="grid md:grid-cols-2 gap-6 mb-8">
               <div className="bg-white rounded-xl shadow-md p-6">
                 <h3 className="font-bold font-heading text-gray-900 mb-3">🇪🇺 Europe</h3>
-                <p className="text-sm text-gray-600">UK, France, Germany, Netherlands, Belgium, Italy, Spain, Sweden, Switzerland, Norway, Denmark, Finland, Austria, Ireland, Poland, Czech Republic, Portugal, Greece, Hungary, Iceland, Luxembourg, and more</p>
+                <p className="text-sm text-gray-600">{t("s019_uk_france_germany_netherlands")}</p>
               </div>
               <div className="bg-white rounded-xl shadow-md p-6">
                 <h3 className="font-bold font-heading text-gray-900 mb-3">🇺🇸 Americas</h3>
-                <p className="text-sm text-gray-600">United States, Canada, Brazil, Argentina, Chile, Mexico, Peru, Costa Rica, Honduras, Uruguay</p>
+                <p className="text-sm text-gray-600">{t("s020_united_states_canada_brazil")}</p>
               </div>
               <div className="bg-white rounded-xl shadow-md p-6">
                 <h3 className="font-bold font-heading text-gray-900 mb-3">🌏 Asia-Pacific</h3>
-                <p className="text-sm text-gray-600">Australia, New Zealand, Japan, South Korea (90 days), Hong Kong, Macao, Taiwan, Israel</p>
+                <p className="text-sm text-gray-600">{t("s021_australia_new_zealand_japan")}</p>
               </div>
               <div className="bg-white rounded-xl shadow-md p-6">
                 <h3 className="font-bold font-heading text-gray-900 mb-3">🌍 Middle East & Africa</h3>
-                <p className="text-sm text-gray-600">UAE, Qatar, Kuwait, Bahrain, Oman, Saudi Arabia, South Africa</p>
+                <p className="text-sm text-gray-600">{t("s022_uae_qatar_kuwait_bahrain")}</p>
               </div>
             </div>
 
             <div className="bg-blue-50 rounded-xl p-4 mb-6">
-              <p className="text-blue-800 text-sm"><strong>ASEAN countries:</strong> Laos, Vietnam, and Timor-Leste get 30 days. Cambodia and Myanmar get 14 days. Singapore, Malaysia, Indonesia, Philippines, and Brunei get 30 days under separate bilateral agreements.</p>
+              <p className="text-blue-800 text-sm"><strong>{t("s023_asean_countries")}</strong> {t("s024_laos_vietnam_and_timor")}</p>
             </div>
 
-            <p className="text-gray-600">For the complete official list, check the <a href="https://www.mfa.go.th" target="_blank" rel="noopener noreferrer" className="text-thailand-blue hover:underline">Thai Ministry of Foreign Affairs</a> website. You can also read our detailed <Link href="/visa/visa-free-entry/" className="text-thailand-blue hover:underline">visa-free entry guide</Link>.</p>
+            <p className="text-gray-600">{t("s025_for_the_complete_official")} <a href="https://www.mfa.go.th" target="_blank" rel="noopener noreferrer" className="text-thailand-blue hover:underline">{t("s026_thai_ministry_of_foreign")}</a> website. You can also read our detailed <Link href="/visa/visa-free-entry/" className="text-thailand-blue hover:underline">visa-free entry guide</Link>.</p>
           </div>
         </section>
 
         {/* Thailand Visa for US Citizens */}
         <section className="py-12 bg-white border-t" id="us-citizens">
           <div className="max-w-4xl mx-auto px-4 sm:px-6 lg:px-8">
-            <h2 className="text-3xl font-bold font-heading text-gray-900 mb-6">Thailand Visa for US Citizens</h2>
+            <h2 className="text-3xl font-bold font-heading text-gray-900 mb-6">{t("s027_thailand_visa_for_us")}</h2>
             <div className="prose prose-lg max-w-none text-gray-700">
               <p>
-                US citizens can enter Thailand <strong>without a visa for 60 days</strong>. No application, no embassy visit, no fee — just show your passport at immigration. This makes Thailand one of the easiest countries in Southeast Asia for Americans to visit.
+                {t("s028_us_citizens_can_enter")} <strong>without a visa for 60 days</strong>. No application, no embassy visit, no fee — just show your passport at immigration. This makes Thailand one of the easiest countries in Southeast Asia for Americans to visit.
               </p>
-              <h3 className="font-heading">Extending Your Stay</h3>
+              <h3 className="font-heading">{t("s029_extending_your_stay")}</h3>
               <p>
-                If 60 days is not enough, visit any immigration office to extend for 30 more days (฿1,900). You will need your passport, a 4×6cm photo, the completed TM.7 form, and the fee. The process typically takes 1–3 hours. Major immigration offices are in Bangkok (Chaeng Wattana), Chiang Mai, Phuket, and Pattaya.
+                {t("s030_if_60_days_is")}
               </p>
-              <h3 className="font-heading">Longer Stays for US Citizens</h3>
+              <h3 className="font-heading">{t("s031_longer_stays_for_us")}</h3>
               <ul>
-                <li><Link href="/visa/tourist-visa/"><strong>Tourist Visa (TR)</strong></Link> — Apply at a Thai embassy before your trip. Gives 60 days, extendable by 30. Cost: approximately $40.</li>
-                <li><Link href="/visa/digital-nomad-visa/"><strong>Digital Nomad Visa (DTV)</strong></Link> — For remote workers. Up to 180 days. Cost: ฿10,000. Requires proof of remote employment or freelance income.</li>
-                <li><Link href="/visa/retirement-visa/"><strong>Retirement Visa (O-A)</strong></Link> — For those aged 50+. 1-year stay with financial requirements (฿800,000 in Thai bank or ฿65,000/month income).</li>
+                <li><Link href="/visa/tourist-visa/"><strong>{t("s009_tourist_visa_tr")}</strong></Link> — Apply at a Thai embassy before your trip. Gives 60 days, extendable by 30. Cost: approximately $40.</li>
+                <li><Link href="/visa/digital-nomad-visa/"><strong>{t("s010_digital_nomad_visa_dtv")}</strong></Link> — For remote workers. Up to 180 days. Cost: ฿10,000. Requires proof of remote employment or freelance income.</li>
+                <li><Link href="/visa/retirement-visa/"><strong>{t("s034_retirement_visa_o_a")}</strong></Link> — For those aged 50+. 1-year stay with financial requirements (฿800,000 in Thai bank or ฿65,000/month income).</li>
               </ul>
               <p>
-                For more on planning a longer stay, read our guide on the <Link href="/blog/digital-nomad-thailand-2026-dtv-visa-costs-cities/">Thailand Digital Nomad Visa</Link>.
+                {t("s035_for_more_on_planning")} <Link href="/blog/digital-nomad-thailand-2026-dtv-visa-costs-cities/">{t("s036_thailand_digital_nomad_visa")}</Link>.
               </p>
             </div>
           </div>
@@ -304,12 +307,12 @@ export default function VisaIndexPage({ visas }: VisaPageProps) {
         {/* Visa Costs & Processing */}
         <section className="py-12 border-t" id="costs">
           <div className="max-w-4xl mx-auto px-4 sm:px-6 lg:px-8">
-            <h2 className="text-3xl font-bold font-heading text-gray-900 mb-6">Visa Costs and Processing Times</h2>
+            <h2 className="text-3xl font-bold font-heading text-gray-900 mb-6">{t("s037_visa_costs_and_processing")}</h2>
             <div className="overflow-x-auto">
               <table className="w-full text-left border-collapse">
                 <thead>
                   <tr className="border-b-2 border-gray-200">
-                    <th className="py-3 pr-4 font-bold text-gray-900">Visa Type</th>
+                    <th className="py-3 pr-4 font-bold text-gray-900">{t("s038_visa_type")}</th>
                     <th className="py-3 pr-4 font-bold text-gray-900">Cost</th>
                     <th className="py-3 pr-4 font-bold text-gray-900">Duration</th>
                     <th className="py-3 font-bold text-gray-900">Processing</th>
@@ -317,43 +320,43 @@ export default function VisaIndexPage({ visas }: VisaPageProps) {
                 </thead>
                 <tbody className="text-gray-700">
                   <tr className="border-b border-gray-100">
-                    <td className="py-3 pr-4">Visa-Free Entry</td>
+                    <td className="py-3 pr-4">{t("s039_visa_free_entry")}</td>
                     <td className="py-3 pr-4 text-green-600 font-medium">Free</td>
                     <td className="py-3 pr-4">60 days</td>
-                    <td className="py-3">Instant at border</td>
+                    <td className="py-3">{t("s040_instant_at_border")}</td>
                   </tr>
                   <tr className="border-b border-gray-100">
-                    <td className="py-3 pr-4">Visa on Arrival (VOA)</td>
+                    <td className="py-3 pr-4">{t("s015_visa_on_arrival_voa")}</td>
                     <td className="py-3 pr-4">฿2,000</td>
                     <td className="py-3 pr-4">15 days</td>
-                    <td className="py-3">At airport</td>
+                    <td className="py-3">{t("s042_at_airport")}</td>
                   </tr>
                   <tr className="border-b border-gray-100">
-                    <td className="py-3 pr-4"><Link href="/visa/tourist-visa/" className="text-thailand-blue hover:underline">Tourist Visa (TR)</Link></td>
+                    <td className="py-3 pr-4"><Link href="/visa/tourist-visa/" className="text-thailand-blue hover:underline">{t("s009_tourist_visa_tr")}</Link></td>
                     <td className="py-3 pr-4">~$40 / ฿1,500</td>
                     <td className="py-3 pr-4">60 days</td>
                     <td className="py-3">3–5 business days</td>
                   </tr>
                   <tr className="border-b border-gray-100">
-                    <td className="py-3 pr-4"><Link href="/visa/digital-nomad-visa/" className="text-thailand-blue hover:underline">Digital Nomad (DTV)</Link></td>
+                    <td className="py-3 pr-4"><Link href="/visa/digital-nomad-visa/" className="text-thailand-blue hover:underline">{t("s044_digital_nomad_dtv")}</Link></td>
                     <td className="py-3 pr-4">฿10,000</td>
                     <td className="py-3 pr-4">180 days</td>
                     <td className="py-3">5–15 business days</td>
                   </tr>
                   <tr className="border-b border-gray-100">
-                    <td className="py-3 pr-4"><Link href="/visa/visa-extension/" className="text-thailand-blue hover:underline">Extension (any type)</Link></td>
+                    <td className="py-3 pr-4"><Link href="/visa/visa-extension/" className="text-thailand-blue hover:underline">{t("s045_extension_any_type")}</Link></td>
                     <td className="py-3 pr-4">฿1,900</td>
                     <td className="py-3 pr-4">+30 days</td>
-                    <td className="py-3">Same day</td>
+                    <td className="py-3">{t("s046_same_day")}</td>
                   </tr>
                   <tr className="border-b border-gray-100">
-                    <td className="py-3 pr-4"><Link href="/visa/retirement-visa/" className="text-thailand-blue hover:underline">Retirement (O-A)</Link></td>
+                    <td className="py-3 pr-4"><Link href="/visa/retirement-visa/" className="text-thailand-blue hover:underline">{t("s047_retirement_o_a")}</Link></td>
                     <td className="py-3 pr-4">~$80 / ฿2,000</td>
                     <td className="py-3 pr-4">1 year</td>
-                    <td className="py-3">Varies by embassy</td>
+                    <td className="py-3">{t("s048_varies_by_embassy")}</td>
                   </tr>
                   <tr>
-                    <td className="py-3 pr-4"><Link href="/visa/education-visa/" className="text-thailand-blue hover:underline">Education (ED)</Link></td>
+                    <td className="py-3 pr-4"><Link href="/visa/education-visa/" className="text-thailand-blue hover:underline">{t("s049_education_ed")}</Link></td>
                     <td className="py-3 pr-4">~$80 / ฿2,000</td>
                     <td className="py-3 pr-4">90 days (renewable)</td>
                     <td className="py-3">Varies</td>
@@ -361,53 +364,53 @@ export default function VisaIndexPage({ visas }: VisaPageProps) {
                 </tbody>
               </table>
             </div>
-            <p className="text-sm text-gray-500 mt-4">Costs are approximate and may vary by embassy. All extensions are processed at Thai immigration offices inside Thailand.</p>
+            <p className="text-sm text-gray-500 mt-4">{t("s050_costs_are_approximate_and")}</p>
           </div>
         </section>
 
         {/* Extension & Overstay */}
         <section className="py-12 bg-white border-t" id="extension-overstay">
           <div className="max-w-4xl mx-auto px-4 sm:px-6 lg:px-8">
-            <h2 className="text-3xl font-bold font-heading text-gray-900 mb-6">Visa Extension and Overstay Rules</h2>
+            <h2 className="text-3xl font-bold font-heading text-gray-900 mb-6">{t("s051_visa_extension_and_overstay")}</h2>
             <div className="prose prose-lg max-w-none text-gray-700">
-              <h3 className="font-heading">How to Extend at Immigration</h3>
-              <p>You can extend most visa types by 30 days at any Thai immigration office. Here is what you need:</p>
+              <h3 className="font-heading">{t("s052_how_to_extend_at")}</h3>
+              <p>{t("s053_you_can_extend_most")}</p>
               <ol>
                 <li><strong>Passport</strong> with at least 6 months validity</li>
                 <li><strong>4×6cm photo</strong> (available at immigration offices for ฿100–200)</li>
-                <li><strong>TM.7 application form</strong> (available at the office or downloadable)</li>
+                <li><strong>{t("s054_tm_7_application_form")}</strong> (available at the office or downloadable)</li>
                 <li><strong>฿1,900</strong> in cash</li>
-                <li><strong>Copy of passport</strong> (ID page + current visa stamp)</li>
+                <li><strong>{t("s055_copy_of_passport")}</strong> (ID page + current visa stamp)</li>
               </ol>
               <p>
                 {isNl
                   ? <>Belangrijke immigratiekantoren: <strong>Bangkok</strong> (Government Complex, Chaeng Wattana Road), <strong>Chiang Mai</strong> (Promenada Mall), <strong>Phuket</strong> (Phuket Town), <strong>Pattaya</strong> (Soi 5, Jomtien). Verwerking duurt doorgaans 1-3 uur. Kom vroeg — kantoren worden druk, vooral in Bangkok.</>
-                  : <>Major immigration offices: <strong>Bangkok</strong> (Government Complex, Chaeng Wattana Road), <strong>Chiang Mai</strong> (Promenada Mall), <strong>Phuket</strong> (Phuket Town), <strong>Pattaya</strong> (Soi 5, Jomtien). Processing typically takes 1–3 hours. Arrive early — offices get busy, especially in Bangkok.</>}
+                  : <>{t("s056_major_immigration_offices")} <strong>Bangkok</strong> (Government Complex, Chaeng Wattana Road), <strong>{t("s057_chiang_mai")}</strong> (Promenada Mall), <strong>Phuket</strong> (Phuket Town), <strong>Pattaya</strong> (Soi 5, Jomtien). Processing typically takes 1–3 hours. Arrive early — offices get busy, especially in Bangkok.</>}
               </p>
 
-              <h3 className="font-heading">Overstay Penalties</h3>
+              <h3 className="font-heading">{t("s058_overstay_penalties")}</h3>
               <div className="bg-red-50 border border-red-200 rounded-xl p-4 not-prose my-4">
-                <p className="text-red-800 text-sm font-medium">⚠️ <strong>Overstaying is serious.</strong> Thailand enforces strict overstay penalties including fines, detention, and re-entry bans.</p>
+                <p className="text-red-800 text-sm font-medium">⚠️ <strong>{t("s059_overstaying_is_serious")}</strong> {t("s060_thailand_enforces_strict_overstay")}</p>
               </div>
               <ul>
                 <li><strong>Fine:</strong> ฿500 per day, maximum ฿20,000 if you self-report at the airport</li>
-                <li><strong>Re-entry bans</strong> if caught (not self-reporting):
+                <li><strong>{t("s061_re_entry_bans")}</strong> if caught (not self-reporting):
                   <ul>
-                    <li>Less than 1 year overstay → 5-year ban</li>
-                    <li>Over 1 year → 10-year ban</li>
+                    <li>{t("s062_less_than_1_year")}</li>
+                    <li>{t("s063_over_1_year_10")}</li>
                   </ul>
                 </li>
-                <li><strong>Re-entry bans</strong> if self-reporting at departure:
+                <li><strong>{t("s061_re_entry_bans")}</strong> if self-reporting at departure:
                   <ul>
                     <li>90 days – 1 year overstay → 1-year ban</li>
                     <li>1–3 years → 3-year ban</li>
                     <li>3–5 years → 5-year ban</li>
-                    <li>Over 5 years → 10-year ban</li>
+                    <li>{t("s065_over_5_years_10")}</li>
                   </ul>
                 </li>
               </ul>
               <p>
-                <strong>Bottom line:</strong> Never overstay. If you need more time, extend at immigration before your permitted stay expires. Read our detailed <Link href="/visa/visa-extension/">visa extension guide</Link> for step-by-step instructions.
+                <strong>{t("s066_bottom_line")}</strong> {t("s067_never_overstay_if_you")} <Link href="/visa/visa-extension/">visa extension guide</Link> for step-by-step instructions.
               </p>
             </div>
           </div>
@@ -416,7 +419,7 @@ export default function VisaIndexPage({ visas }: VisaPageProps) {
         {/* FAQ Section */}
         <section className="py-12 border-t" id="faq">
           <div className="max-w-4xl mx-auto px-4 sm:px-6 lg:px-8">
-            <h2 className="text-3xl font-bold font-heading text-gray-900 mb-8">Visa FAQs</h2>
+            <h2 className="text-3xl font-bold font-heading text-gray-900 mb-8">{t("s068_visa_faqs")}</h2>
             <div className="space-y-6">
               {faqItems.map((item, i) => (
                 <div key={i} className="bg-white rounded-xl shadow-md p-6">

@@ -1,0 +1,976 @@
+{
+  "id": 40,
+  "slug": "kaeng-liang",
+  "name": {
+    "en": "Kaeng Liang",
+    "nl": "Kaeng Liang",
+    "thai": "แกงเลียง"
+  },
+  "category": "soep",
+  "region": "noordelijk",
+  "spice_level": "medium",
+  "description": {
+    "en": "Spicy vegetable soup with shrimp",
+    "nl": "Pittige groentesoep met garnalen"
+  },
+  "ingredients": [
+    "gemengde groenten",
+    "garnalen",
+    "garnalenpasta",
+    "sjalotten",
+    "witte peper"
+  ],
+  "allergens": [
+    "zeevruchten"
+  ],
+  "dietary": [],
+  "image": "/images/food/kaeng-liang.webp",
+  "preparation_time": "25 minuten",
+  "difficulty": "eenvoudig",
+  "price_range": "budget",
+  "seo": {
+    "metaTitle": {
+      "en": "Kaeng Liang Recipe | Authentic Thai soup",
+      "nl": "Kaeng Liang Recept | Authentieke Thaise soup"
+    },
+    "metaDescription": {
+      "en": "Learn about Kaeng Liang (แกงเลียง) - Spicy vegetable soup with shrimp...",
+      "nl": "Leer over Kaeng Liang (แกงเลียง) - Pittige groentesoep met garnalen..."
+    }
+  },
+  "tags": [
+    "thaise-keuken",
+    "Thailand",
+    "soep",
+    "noordelijk",
+    "medium",
+    "eenvoudig",
+    "budget",
+    "gemengde-groenten",
+    "garnalen",
+    "garnalenpasta"
+  ],
+  "cooking": {
+    "preparation_time": "25 minuten",
+    "difficulty": "eenvoudig",
+    "spice_level": "medium",
+    "serves": "2-4 personen"
+  },
+  "nutrition": {
+    "allergens": [
+      "zeevruchten"
+    ],
+    "dietary": [],
+    "price_range": "budget"
+  },
+  "enhanced_description": "Kaeng Liang is een geliefde zielsverwarmende soep uit Noord-Thailand met een aangename pittige kick. Pittige groentesoep met garnalen. Dit eenvoudige recept vergt ongeveer 25 minuten bereidingstijd en vertegenwoordigt de authentieke smaken van de Noord-Thaise keuken, gekenmerkt door mildere smaken, kleefrijst en kruiden. De combinatie van gemengde groenten, garnalen en garnalenpasta creëert een harmonieuze mix die dit gerecht tot een favoriet heeft gemaakt onder zowel locals als bezoekers. Perfect voor wie op zoek is naar betaalbare authentieke Thaise keuken.",
+  "detailed_ingredients": [
+    {
+      "name": "Mixed vegetables",
+      "purpose": "Essentieel voor authentieke Kaeng Liang smaak",
+      "substitutes": [
+        "Verse gemengde groenten",
+        "Gedroogde gemengde groenten",
+        "groentepasta"
+      ]
+    },
+    {
+      "name": "Shrimp",
+      "purpose": "Essentieel voor authentieke Kaeng Liang smaak",
+      "substitutes": [
+        "Verse garnalen",
+        "Gedroogde garnalen",
+        "garnalenpasta"
+      ]
+    },
+    {
+      "name": "Shrimp paste",
+      "purpose": "Essentieel voor authentieke Kaeng Liang smaak",
+      "substitutes": [
+        "Verse garnalenpasta",
+        "Gedroogde garnalenpasta",
+        "garnalenpasta pasta"
+      ]
+    },
+    {
+      "name": "Shallots",
+      "purpose": "Essentieel voor authentieke Kaeng Liang smaak",
+      "substitutes": [
+        "Verse sjalotten",
+        "Gedroogde sjalotten",
+        "sjalottenpasta"
+      ]
+    }
+  ],
+  "cooking_method": {
+    "technique": "Sudderen en smaken opbouwen",
+    "steps_overview": "Het bereiden van Kaeng Liang vereist aandacht voor detail en goede timing. De sleutel is het balanceren van alle smaken terwijl de textuur van elk ingrediënt behouden blijft. Traditionele methoden die van generatie op generatie zijn doorgegeven, garanderen een authentieke smaak.",
+    "cooking_tips": [
+      "Gebruik verse gemengde groenten voor het beste resultaat",
+      "Pas het pittigheidsgehalte aan naar je voorkeur",
+      "Kook niet te lang om de textuur te behouden",
+      "Proef en pas de kruiding aan voor het serveren"
+    ]
+  },
+  "cultural_significance": {
+    "origin_story": "Kaeng Liang is al generaties lang een vast onderdeel van de Noord-Thaise keuken en weerspiegelt de unieke culinaire tradities en lokale ingrediënten van de regio.",
+    "cultural_importance": "Dit gerecht vertegenwoordigt het hart van de Noord-Thaise kookkunst en toont de balans en harmonie waarmee de Thaise keuken wereldwijd beroemd is.",
+    "traditional_occasions": [
+      "Familiebijeenkomsten",
+      "Lokale festivals",
+      "Straatvoedselmarkten",
+      "Bijzondere vieringen"
+    ]
+  },
+  "variations": [
+    {
+      "name": "Kaeng Liang Classic",
+      "description": "De traditionele versie zoals geserveerd in lokale huishoudens"
+    },
+    {
+      "name": "Kaeng Liang Modern",
+      "description": "Hedendaagse variant met premium ingrediënten"
+    },
+    {
+      "name": "Vegetarian Kaeng Liang",
+      "description": "Plantaardige versie met tofu of paddenstoelen"
+    }
+  ],
+  "serving_suggestions": {
+    "traditional_accompaniments": [
+      "Jasmijnrijst",
+      "Verse groenten",
+      "Thaise kruiden"
+    ],
+    "presentation": "Geserveerd in een kom in traditionele Thaise stijl",
+    "eating_etiquette": "Gegeten met vork en lepel volgens Thais gebruik"
+  },
+  "nutritional_info": {
+    "calories_per_serving": "300-500 calorieën",
+    "health_benefits": [
+      "Rijk aan Thaise kruiden en specerijen",
+      "Bron van eiwitten en groenten",
+      "Gebalanceerde smaken en voedingsstoffen"
+    ],
+    "dietary_notes": []
+  },
+  "where_to_find": {
+    "best_restaurants": [
+      "Lokale Noord-Thaise restaurants",
+      "Authentieke straatvoedselkramen",
+      "Traditionele markten",
+      "Familiebedrijfjes"
+    ],
+    "street_food_areas": [
+      "Nachtmarkten",
+      "Ochtendverse markten",
+      "Lokale food courts"
+    ],
+    "price_ranges": {
+      "street_vendor": "30-50 THB",
+      "market_stall": "40-60 THB",
+      "restaurant": "60-100 THB"
+    }
+  },
+  "translations": {
+    "nl": {
+      "enhanced_description": "Kaeng Liang is een geliefde zielsverwarmende soep uit Noord-Thailand met een aangename pittige kick. Pittige groentesoep met garnalen. Dit eenvoudige recept vergt ongeveer 25 minuten bereidingstijd en vertegenwoordigt de authentieke smaken van de Noord-Thaise keuken, gekenmerkt door mildere smaken, kleefrijst en kruiden. De combinatie van gemengde groenten, garnalen en garnalenpasta creëert een harmonieuze mix die dit gerecht tot een favoriet heeft gemaakt onder zowel locals als bezoekers. Perfect voor wie op zoek is naar betaalbare authentieke Thaise keuken.",
+      "detailed_ingredients": [
+        {
+          "name": "Gemengde groenten",
+          "purpose": "Essentieel voor de authentieke Kaeng Liang smaak",
+          "substitutes": [
+            "Verse gemengde groenten",
+            "Gedroogde gemengde groenten",
+            "Groentepasta"
+          ]
+        },
+        {
+          "name": "Garnalen",
+          "purpose": "Essentieel voor de authentieke Kaeng Liang smaak",
+          "substitutes": [
+            "Verse garnalen",
+            "Gedroogde garnalen",
+            "Garnalenpasta"
+          ]
+        },
+        {
+          "name": "Garnalenpasta",
+          "purpose": "Essentieel voor de authentieke Kaeng Liang smaak",
+          "substitutes": [
+            "Verse garnalenpasta",
+            "Gedroogde garnalenpasta",
+            "Trassi"
+          ]
+        },
+        {
+          "name": "Sjalotten",
+          "purpose": "Essentieel voor de authentieke Kaeng Liang smaak",
+          "substitutes": [
+            "Verse sjalotten",
+            "Gedroogde sjalotten",
+            "Sjalottenpasta"
+          ]
+        }
+      ],
+      "cooking_method": {
+        "technique": "Sudderen en smaken opbouwen",
+        "steps_overview": "Het bereiden van Kaeng Liang vereist aandacht voor detail en goede timing. De sleutel is het balanceren van alle smaken terwijl de textuur van elk ingrediënt behouden blijft. Traditionele methoden die van generatie op generatie zijn doorgegeven, garanderen een authentieke smaak.",
+        "cooking_tips": [
+          "Gebruik verse gemengde groenten voor het beste resultaat",
+          "Pas het pittigheidsgehalte aan naar je voorkeur",
+          "Kook niet te lang om de textuur te behouden",
+          "Proef en pas de kruiding aan voor het serveren"
+        ]
+      },
+      "cultural_significance": {
+        "origin_story": "Kaeng Liang is al generaties lang een vast onderdeel van de Noord-Thaise keuken en weerspiegelt de unieke culinaire tradities en lokale ingrediënten van de regio.",
+        "cultural_importance": "Dit gerecht vertegenwoordigt het hart van de Noord-Thaise kookkunst en toont de balans en harmonie waarmee de Thaise keuken wereldwijd beroemd is.",
+        "traditional_occasions": [
+          "Familiebijeenkomsten",
+          "Lokale festivals",
+          "Straatvoedselmarkten",
+          "Bijzondere vieringen"
+        ]
+      },
+      "variations": [
+        {
+          "name": "Kaeng Liang Klassiek",
+          "description": "De traditionele versie zoals geserveerd in lokale huishoudens"
+        },
+        {
+          "name": "Kaeng Liang Modern",
+          "description": "Hedendaagse variant met premium ingrediënten"
+        },
+        {
+          "name": "Vegetarische Kaeng Liang",
+          "description": "Plantaardige versie met tofu of paddenstoelen"
+        }
+      ],
+      "serving_suggestions": {
+        "traditional_accompaniments": [
+          "Jasmijnrijst",
+          "Verse groenten",
+          "Thaise kruiden"
+        ],
+        "presentation": "Geserveerd in een kom in traditionele Thaise stijl",
+        "eating_etiquette": "Gegeten met vork en lepel volgens Thais gebruik"
+      },
+      "where_to_find": {
+        "best_restaurants": [
+          "300-500 calorieën",
+          "Rijk aan Thaise kruiden en specerijen",
+          "Bron van eiwitten en groenten",
+          "Gebalanceerde smaken en voedingsstoffen"
+        ],
+        "street_food_areas": [
+          "Lokale Noord-Thaise restaurants",
+          "Authentieke straatvoedselkramen",
+          "Traditionele markten"
+        ]
+      },
+      "translated_at": "2026-03-10T00:00:00.000Z"
+    },
+    "fr": {
+      "enhanced_description": "Familiebedrijfjes",
+      "detailed_ingredients": [
+        {
+          "name": "Légumes variés",
+          "purpose": "Nachtmarkten",
+          "substitutes": [
+            "Ochtendverse markten",
+            "Lokale food courts",
+            "Kaeng Liang is een geliefde zielsverwarmende soep uit Noord-Thailand met een aangename pittige kick. Pittige groentesoep met garnalen. Dit eenvoudige recept vergt ongeveer 25 minuten bereidingstijd en vertegenwoordigt de authentieke smaken van de Noord-Thaise keuken, gekenmerkt door mildere smaken, kleefrijst en kruiden. De combinatie van gemengde groenten, garnalen en garnalenpasta creëert een harmonieuze mix die dit gerecht tot een favoriet heeft gemaakt onder zowel locals als bezoekers. Perfect voor wie op zoek is naar betaalbare authentieke Thaise keuken."
+          ]
+        },
+        {
+          "name": "Crevettes",
+          "purpose": "Essentieel voor de authentieke Kaeng Liang smaak",
+          "substitutes": [
+            "Verse gemengde groenten",
+            "Gedroogde gemengde groenten",
+            "Groentepasta"
+          ]
+        },
+        {
+          "name": "Pâte de crevettes",
+          "purpose": "Essentieel voor de authentieke Kaeng Liang smaak",
+          "substitutes": [
+            "Verse garnalen",
+            "Gedroogde garnalen",
+            "Garnalenpasta"
+          ]
+        },
+        {
+          "name": "Échalotes",
+          "purpose": "Essentieel voor de authentieke Kaeng Liang smaak",
+          "substitutes": [
+            "Verse garnalenpasta",
+            "Gedroogde garnalenpasta",
+            "Trassi"
+          ]
+        }
+      ],
+      "cooking_method": {
+        "technique": "Essentieel voor de authentieke Kaeng Liang smaak",
+        "steps_overview": "Verse sjalotten",
+        "cooking_tips": [
+          "Gedroogde sjalotten",
+          "Sjalottenpasta",
+          "Sudderen en smaken opbouwen",
+          "Het bereiden van Kaeng Liang vereist aandacht voor detail en goede timing. De sleutel is het balanceren van alle smaken terwijl de textuur van elk ingrediënt behouden blijft. Traditionele methoden die van generatie op generatie zijn doorgegeven, garanderen een authentieke smaak."
+        ]
+      },
+      "cultural_significance": {
+        "origin_story": "Gebruik verse gemengde groenten voor het beste resultaat",
+        "cultural_importance": "Pas het pittigheidsgehalte aan naar je voorkeur",
+        "traditional_occasions": [
+          "Kook niet te lang om de textuur te behouden",
+          "Proef en pas de kruiding aan voor het serveren",
+          "Kaeng Liang is al generaties lang een vast onderdeel van de Noord-Thaise keuken en weerspiegelt de unieke culinaire tradities en lokale ingrediënten van de regio.",
+          "Dit gerecht vertegenwoordigt het hart van de Noord-Thaise kookkunst en toont de balans en harmonie waarmee de Thaise keuken wereldwijd beroemd is."
+        ]
+      },
+      "variations": [
+        {
+          "name": "Kaeng Liang Classique",
+          "description": "Familiebijeenkomsten"
+        },
+        {
+          "name": "Kaeng Liang Moderne",
+          "description": "Moderne versie met premium ingrediënten"
+        },
+        {
+          "name": "Kaeng Liang Végétarien",
+          "description": "Plantaardige versie met tofu of paddenstoelen"
+        }
+      ],
+      "serving_suggestions": {
+        "traditional_accompaniments": [
+          "Jasmijnrijst",
+          "Verse groenten",
+          "Thaise kruiden"
+        ],
+        "presentation": "Geserveerd in een kom in de traditionele Thaise stijl",
+        "eating_etiquette": "Gegeten met vork en lepel volgens Thaise traditie"
+      },
+      "where_to_find": {
+        "best_restaurants": [
+          "Lokale restaurants in Noord-Thailand",
+          "Authentieke straatkraampjes",
+          "Traditionele markten",
+          "Familierestaurants"
+        ],
+        "street_food_areas": [
+          "Nachtmarkten",
+          "Verse ochtendmarkten",
+          "Lokale foodcourts"
+        ]
+      },
+      "translated_at": "2026-03-10T00:00:00.000Z"
+    },
+    "de": {
+      "enhanced_description": "Kaeng Liang is een populaire hartverwarmende soep uit Noord-Thailand met een aangename pittigheid. Pittige groentesoep met garnalen. Dit eenvoudige recept vereist ongeveer 25 minuten bereidingstijd en vertegenwoordigt de authentieke smaken van de Noord-Thaise keuken, die zich kenmerkt door mildere smaaktonen, kleefrijst en kruiden. De combinatie van gemengde groenten, garnalen en garnalenpasta creëert een harmonieuze mengeling die dit gerecht tot een favoriet heeft gemaakt bij zowel locals als bezoekers. Perfect voor wie betaalbare authentieke Thaise keuken zoekt.",
+      "detailed_ingredients": [
+        {
+          "name": "Gemischtes Gemüse",
+          "purpose": "Onmisbaar voor de authentieke Kaeng Liang-smaak",
+          "substitutes": [
+            "Verse gemengde groenten",
+            "Gedroogde gemengde groenten",
+            "Groentenpasta"
+          ]
+        },
+        {
+          "name": "Garnelen",
+          "purpose": "Onmisbaar voor de authentieke Kaeng Liang-smaak",
+          "substitutes": [
+            "Verse garnalen",
+            "Gedroogde garnalen",
+            "Garnalenpasta"
+          ]
+        },
+        {
+          "name": "Garnelenpaste",
+          "purpose": "Onmisbaar voor de authentieke Kaeng Liang-smaak",
+          "substitutes": [
+            "Verse garnalenpasta",
+            "Gedroogde garnalenpasta",
+            "Trassi"
+          ]
+        },
+        {
+          "name": "Schalotten",
+          "purpose": "Onmisbaar voor de authentieke Kaeng Liang-smaak",
+          "substitutes": [
+            "Verse sjalotten",
+            "Gedroogde sjalotten",
+            "Sjalottenpasta"
+          ]
+        }
+      ],
+      "cooking_method": {
+        "technique": "Laten sudderen en smaken opbouwen",
+        "steps_overview": "De bereiding van Kaeng Liang vereist aandacht voor detail en goed timen. De sleutel ligt in het balanceren van alle smaken terwijl de textuur van elke ingrediënt behouden blijft. Traditionele methoden, doorgegeven over generaties, garanderen authentieke smaak.",
+        "cooking_tips": [
+          "Gebruik verse gemengde groenten voor het beste resultaat",
+          "Pas de pittigheid aan naar smaak",
+          "Niet te lang koken om de textuur te behouden",
+          "Proeven en op smaak brengen voor het serveren"
+        ]
+      },
+      "cultural_significance": {
+        "origin_story": "Kaeng Liang is al generaties lang een vast onderdeel van de Noord-Thaise keuken en weerspiegelt de unieke culinaire tradities en lokale ingrediënten van de regio.",
+        "cultural_importance": "Dit gerecht vertegenwoordigt het hart van de Noord-Thaise kookkunst en toont de balans en harmonie waarvoor de Thaise keuken wereldwijd beroemd is.",
+        "traditional_occasions": [
+          "Familiebijeenkomsten",
+          "Lokale festivals",
+          "Straatkeukens-markten",
+          "Speciale vieringen"
+        ]
+      },
+      "variations": [
+        {
+          "name": "Kaeng Liang Klassisch",
+          "description": "De traditionele versie zoals geserveerd in lokale huishoudens"
+        },
+        {
+          "name": "Kaeng Liang Modern",
+          "description": "Contemporaine variant met premium ingrediënten"
+        },
+        {
+          "name": "Vegetarisches Kaeng Liang",
+          "description": "Plantaardige versie met tofu of paddenstoelen"
+        }
+      ],
+      "serving_suggestions": {
+        "traditional_accompaniments": [
+          "Jasmijnrijst",
+          "Verse groenten",
+          "Thaise kruiden"
+        ],
+        "presentation": "Geserveerd in een kom in de traditionele Thaise stijl",
+        "eating_etiquette": "Gegeten met vork en lepel volgens Thaise gewoonte"
+      },
+      "where_to_find": {
+        "best_restaurants": [
+          "Lokale Noord-Thaise restaurants",
+          "Authentieke straatkraampjes",
+          "Traditionele markten",
+          "Familiegerunde etablissementen"
+        ],
+        "street_food_areas": [
+          "Nachtmarkten",
+          "Ochtendverse markten",
+          "Lokale foodcourts"
+        ]
+      },
+      "translated_at": "2026-03-10T00:00:00.000Z"
+    },
+    "zh": {
+      "enhanced_description": "Kaeng Liang is een geliefde hartverwarmende soep uit Noord-Thailand met een prettige pittigheid. Pittige groentesoep met garnalen. Dit eenvoudige recept duurt ongeveer 25 minuten bereiding en vertegenwoordigt de authentieke smaken van de Noord-Thaise keuken, gekenmerkt door milde tonen, kleefrijst en kruiden. De combinatie van gemengde groenten, garnalen en garnalenpasta creëert een harmonieuze smaak die dit gerecht favoriet maakt bij locals en toeristen. Ideaal voor wie betaalbare authentieke Thaise gerechten zoekt.",
+      "detailed_ingredients": [
+        {
+          "name": "混合蔬菜",
+          "purpose": "Sleutelingrediënt voor de authentieke Kaeng Liang-smaak",
+          "substitutes": [
+            "Verse gemengde groenten",
+            "Gedroogde gemengde groenten",
+            "Groentenpasta"
+          ]
+        },
+        {
+          "name": "鲜虾",
+          "purpose": "Sleutelingrediënt voor de authentieke Kaeng Liang-smaak",
+          "substitutes": [
+            "Verse garnalen",
+            "Gedroogde garnalen",
+            "Garnalenpasta"
+          ]
+        },
+        {
+          "name": "虾酱",
+          "purpose": "Sleutelingrediënt voor de authentieke Kaeng Liang-smaak",
+          "substitutes": [
+            "Verse garnalenpasta",
+            "Gedroogde garnalenpasta",
+            "Trassi"
+          ]
+        },
+        {
+          "name": "红葱头",
+          "purpose": "Sleutelingrediënt voor de authentieke Kaeng Liang-smaak",
+          "substitutes": [
+            "Verse sjalotten",
+            "Gedroogde sjalotten",
+            "Sjalottenpasta"
+          ]
+        }
+      ],
+      "cooking_method": {
+        "technique": "Laten sudderen en smaken opbouwen",
+        "steps_overview": "De bereiding van Kaeng Liang vereist aandacht voor details en goed timen. De sleutel is het balanceren van smaken terwijl de textuur van ingrediënten behouden blijft. Traditionele methoden, doorgegeven over generaties, zorgen voor authentieke smaak.",
+        "cooking_tips": [
+          "Gebruik verse gemengde groenten voor het beste resultaat",
+          "Pas de pittigheid aan naar persoonlijke smaak",
+          "Vermijd te lang koken om textuur te behouden",
+          "Proeven en op smaak brengen voor het serveren"
+        ]
+      },
+      "cultural_significance": {
+        "origin_story": "Kaeng Liang is al generaties een klassieker in de Noord-Thaise keuken en belichaamt de unieke culinaire tradities en lokale ingrediënten van de regio.",
+        "cultural_importance": "Dit gerecht belichaamt de essentie van Noord-Thaise kookkunst en toont de balans en harmonie die de Thaise keuken wereldwijd beroemd maken.",
+        "traditional_occasions": [
+          "Familiebijeenkomsten",
+          "Lokale feesten",
+          "Straatvoedselmarkten",
+          "Speciale vieringen"
+        ]
+      },
+      "variations": [
+        {
+          "name": "经典Kaeng Liang",
+          "description": "De klassieke versie uit traditionele lokale keukens"
+        },
+        {
+          "name": "现代Kaeng Liang",
+          "description": "Moderne versie met premium ingrediënten"
+        },
+        {
+          "name": "素食Kaeng Liang",
+          "description": "Plantaardige versie met tofu of paddenstoelen"
+        }
+      ],
+      "serving_suggestions": {
+        "traditional_accompaniments": [
+          "Jasmijnrijst",
+          "Verse groenten",
+          "Thaise kruiden"
+        ],
+        "presentation": "Geserveerd in een kom in traditionele Thaise stijl",
+        "eating_etiquette": "Gegeten met vork en lepel volgens Thaise traditie"
+      },
+      "where_to_find": {
+        "best_restaurants": [
+          "Lokale Noord-Thaise restaurants",
+          "Authentieke straatsnacks",
+          "Traditionele markten",
+          "Familiegerunde eettentjes"
+        ],
+        "street_food_areas": [
+          "Nachtmarkten",
+          "Ochtendmarkten",
+          "Lokale foodcourts"
+        ]
+      },
+      "translated_at": "2026-03-11T00:00:00.000Z"
+    },
+    "ru": {
+      "enhanced_description": "Kaeng Liang is een geliefde hartverwarmende soep uit Noord-Thailand met een prettige pittigheid. Pittige groentesoep met garnalen. Dit eenvoudige recept duurt ongeveer 25 minuten en vertegenwoordigt de authentieke smaken van de Noord-Thaise keuken, met mildere tonen, kleefrijst en kruiden. De mix van diverse groenten, garnalen en garnalenpasta creëert harmonie, geliefd bij locals en gasten. Perfect voor betaalbare authentieke Thaise keuken.",
+      "detailed_ingredients": [
+        {
+          "name": "Овощное ассорти",
+          "purpose": "Belangrijk ingrediënt voor de authentieke Kaeng Liang-smaak",
+          "substitutes": [
+            "Verse gemengde groenten",
+            "Gedroogde gemengde groenten",
+            "Groentenpasta"
+          ]
+        },
+        {
+          "name": "Креветки",
+          "purpose": "Belangrijk ingrediënt voor de authentieke Kaeng Liang-smaak",
+          "substitutes": [
+            "Verse garnalen",
+            "Gedroogde garnalen",
+            "Garnalenpasta"
+          ]
+        },
+        {
+          "name": "Креветочная паста",
+          "purpose": "Belangrijk ingrediënt voor de authentieke Kaeng Liang-smaak",
+          "substitutes": [
+            "Verse garnalenpasta",
+            "Gedroogde garnalenpasta",
+            "Garnalenpasta-concentraat"
+          ]
+        },
+        {
+          "name": "Лук-шалот",
+          "purpose": "Belangrijk ingrediënt voor de authentieke Kaeng Liang-smaak",
+          "substitutes": [
+            "Verse sjalotten",
+            "Gedroogde sjalotten",
+            "Sjalottenpasta"
+          ]
+        }
+      ],
+      "cooking_method": {
+        "technique": "Sudderen en smaken opbouwen",
+        "steps_overview": "Het bereiden van Kaeng Liang vraagt om aandacht voor details en goed timen. De sleutel is balanceren van smaken en behouden van textuur. Traditionele methoden, doorgegeven over generaties, zorgen voor authentieke smaak.",
+        "cooking_tips": [
+          "Gebruik verse groenten voor het beste resultaat",
+          "Pas de pittigheid aan naar smaak",
+          "Niet te lang koken om textuur te behouden",
+          "Proeven en kruiden aanpassen voor serveren"
+        ]
+      },
+      "cultural_significance": {
+        "origin_story": "Kaeng Liang is al generaties de basis van Noord-Thaise keuken en weerspiegelt unieke tradities en lokale ingrediënten.",
+        "cultural_importance": "Dit gerecht belichaamt het hart van Noord-Thaise culinaire kunst en toont de balans en harmonie van Thaise keuken wereldwijd.",
+        "traditional_occasions": [
+          "Familie-etentjes",
+          "Lokale festivals",
+          "Straatvoedselmarkten",
+          "Speciale gelegenheden"
+        ]
+      },
+      "variations": [
+        {
+          "name": "Kaeng Liang классический",
+          "description": "Traditionele versie zoals in lokale huizen geserveerd"
+        },
+        {
+          "name": "Kaeng Liang современный",
+          "description": "Moderne interpretatie met premium ingrediënten"
+        },
+        {
+          "name": "Вегетарианский Kaeng Liang",
+          "description": "Plantaardige versie met tofu of paddenstoelen"
+        }
+      ],
+      "serving_suggestions": {
+        "traditional_accompaniments": [
+          "Jasmijnrijst",
+          "Verse groenten",
+          "Thaise kruiden"
+        ],
+        "presentation": "Geserveerd in een kom in traditionele Thaise stijl",
+        "eating_etiquette": "Gegeten met vork en lepel volgens Thaise gewoonte"
+      },
+      "where_to_find": {
+        "best_restaurants": [
+          "Lokale Noord-Thaise restaurants",
+          "Authentieke straatkraampjes",
+          "Traditionele markten",
+          "Familie-eettentjes"
+        ],
+        "street_food_areas": [
+          "Nachtmarkten",
+          "Ochtendverse markten",
+          "Lokale foodcourts"
+        ]
+      },
+      "translated_at": "2026-03-11T00:00:00.000Z"
+    },
+    "ko": {
+      "enhanced_description": "Kaeng Liang is een traditionele Thaise groentesoep, pittig gekookt met diverse groenten en garnalen in garnalenpasta en witte peper, vol voedingsstoffen en gezond. Dit eenvoudige recept is in ongeveer 25 minuten klaar en toont de essentie van Thaise huisgerechten. De mix van groenten, garnalen en pasta creëert diepe umami en harmonie, een traditionele soep die Thai eten voor gezondheid. Geniet van authentieke Thaise huiskeuken voor een redelijke prijs.",
+      "detailed_ingredients": [
+        {
+          "name": "각종 채소 (호박, 옥수수, 바질 등)",
+          "purpose": "Belangrijk ingrediënt voor de voedingswaarde en textuur van de soep",
+          "substitutes": [
+            "Spinazie",
+            "Courgette",
+            "Kool"
+          ]
+        },
+        {
+          "name": "새우",
+          "purpose": "Ingrediënt dat umami en eiwitten van zeevruchten toevoegt",
+          "substitutes": [
+            "Gedroogde garnalen",
+            "Garnalenvlees",
+            "Tofu (vegetarisch alternatief)"
+          ]
+        },
+        {
+          "name": "까삐 (새우 페이스트)",
+          "purpose": "Belangrijkste smaakmaker die de basis vormt voor diepe umami",
+          "substitutes": [
+            "Garnalenpasta",
+            "Vissaus",
+            "Sojapasta (alternatief)"
+          ]
+        },
+        {
+          "name": "백후추",
+          "purpose": "Kruiden die een subtiele, warme pittigheid toevoegen",
+          "substitutes": [
+            "Witte peperpoeder",
+            "Peperkorrels",
+            "Zwarte peper (alternatief)"
+          ]
+        }
+      ],
+      "cooking_method": {
+        "technique": "Koken (soepbereiding)",
+        "steps_overview": "Om kaeng liang te maken, maal je eerst krachai, sjalotten en witte peper in een vijzel tot een pasta. Kook water, voeg de pasta toe en doe de stevige groenten er in volgorde bij om te garen. Voeg garnalen toe en als ze gaar zijn, leg je basilicumblaadjes erop om af te maken.",
+        "cooking_tips": [
+          "Voeg groenten in volgorde van stevigheid toe zodat ze gelijkmatig garen",
+          "Los krachai eerst goed op voor een diepere umami-smaak",
+          "Voeg garnalen als laatste toe om overkoken te voorkomen",
+          "Voeg basilicum toe vlak voor het uitzetten van het vuur om de aroma te behouden"
+        ]
+      },
+      "cultural_significance": {
+        "origin_story": "Kaeng liang is een traditionele Thaise huissoup, vooral bekend als postpartum maaltijd voor moeders. Witte peper en diverse groenten worden geacht het lichaam te verwarmen en te voeden.",
+        "cultural_importance": "Deze soep vertegenwoordigt de wijsheid van Thaise thuiskoken en toont de gezonde kant van Thaise keuken. Het wordt gezien als medicinale maaltijd bij ziekte of voor herstel van energie.",
+        "traditional_occasions": [
+          "Postpartum herstel",
+          "Familiedagelijkse maaltijd",
+          "Herstelperiode",
+          "Warme maaltijd in het regenseizoen"
+        ]
+      },
+      "variations": [
+        {
+          "name": "깽리앙 전통식",
+          "description": "De meest traditionele versie met diverse seizoensgroenten en garnalen."
+        },
+        {
+          "name": "깽리앙 채식",
+          "description": "Vegetarische versie zonder garnalen en krachai, vervangen door sojapasta."
+        },
+        {
+          "name": "깽리앙 해산물",
+          "description": "Variant met garnalen, plus inktvis en schelpdieren voor een overvloed aan zeevruchten."
+        }
+      ],
+      "serving_suggestions": {
+        "traditional_accompaniments": [
+          "Jasmijnrijst",
+          "Verse groenten",
+          "Thaise omelet"
+        ],
+        "presentation": "Serveren in een kom in traditionele Thaise stijl, warm",
+        "eating_etiquette": "Volgens Thaise gewoonten eten met lepel samen met rijst"
+      },
+      "where_to_find": {
+        "best_restaurants": [
+          "Lokale huiskamerrestaurant",
+          "Traditioneel Thais restaurant",
+          "Restaurant in de markt",
+          "Familiegerund restaurant"
+        ],
+        "street_food_areas": [
+          "Ochtendmarkt",
+          "Lokale foodcourt",
+          "Universiteitsrestaurant"
+        ],
+        "price_ranges": {
+          "street_vendor": "30-50 THB",
+          "market_stall": "40-60 THB",
+          "restaurant": "60-100 THB"
+        }
+      },
+      "translated_at": "2026-03-14T00:00:00.000Z"
+    },
+    "th": {
+      "enhanced_description": "Kaeng liang is een authentieke Thaise kruidensoep met heldere, pittige bouillon van peper, geurig met holy basil, gevuld met diverse groenten en garnalen. Het is een gezonde maaltijd die Thai's graag eten, vooral vrouwen na de bevalling.",
+      "detailed_ingredients": [
+        {
+          "name": "Mixed vegetables",
+          "purpose": "Essentieel voor de authentieke smaak van Kaeng Liang",
+          "substitutes": [
+            "Verse gemengde groenten",
+            "Gedroogde gemengde groenten",
+            "Pasta van gemengde groenten"
+          ]
+        },
+        {
+          "name": "Shrimp",
+          "purpose": "Essentieel voor de authentieke smaak van Kaeng Liang",
+          "substitutes": [
+            "Verse garnalen",
+            "Gedroogde garnalen",
+            "Garnalenpasta"
+          ]
+        },
+        {
+          "name": "Shrimp paste",
+          "purpose": "Essentieel voor de authentieke smaak van Kaeng Liang",
+          "substitutes": [
+            "Verse garnalenpasta",
+            "Gedroogde garnalenpasta",
+            "Garnalenpasta"
+          ]
+        },
+        {
+          "name": "Shallots",
+          "purpose": "Essentieel voor de authentieke smaak van Kaeng Liang",
+          "substitutes": [
+            "Verse sjalotten",
+            "Gedroogde sjalotten",
+            "Sjalottenpasta"
+          ]
+        }
+      ],
+      "cooking_method": {
+        "technique": "Smoren en laag voor laag smaak toevoegen",
+        "steps_overview": "De bereiding van Kaeng Liang vereist aandacht voor details en het juiste tijdstip. Het belangrijkste is de balans van alle smaken te behouden terwijl de textuur van elk ingrediënt intact blijft. De traditionele methode, doorgegeven door generaties, garandeert authentieke smaak.",
+        "cooking_tips": [
+          "Gebruik verse gemengde groenten voor het beste resultaat",
+          "Pas de pittigheid aan naar smaak",
+          "Kook niet te lang om textuur te behouden",
+          "Proef en breng op smaak voor het serveren"
+        ]
+      },
+      "cultural_significance": {
+        "origin_story": "Dit gerecht is al generaties lang deel van de noordelijke Thaise voedselcultuur en weerspiegelt de unieke kooktradities en lokale ingrediënten van de regio.",
+        "cultural_importance": "Dit gerecht is het hart van de noordelijke Thaise keuken en toont de balans en harmonie waarvoor Thaise keuken wereldwijd beroemd is.",
+        "traditional_occasions": [
+          "Familiebijeenkomst",
+          "Lokale festivals",
+          "Straatvoedselmarkt",
+          "Speciale vieringen"
+        ]
+      },
+      "variations": [
+        {
+          "name": "Kaeng Liang Classic",
+          "description": "Traditionele versie geserveerd in lokale huizen"
+        },
+        {
+          "name": "Kaeng Liang Modern",
+          "description": "Moderne versie met premium ingrediënten"
+        },
+        {
+          "name": "Vegetarian Kaeng Liang",
+          "description": "Vegetarische versie met tofu of paddenstoelen"
+        }
+      ],
+      "serving_suggestions": {
+        "traditional_accompaniments": [
+          "Jasmijnrijst",
+          "Verse groenten",
+          "Thaise kruiden"
+        ],
+        "presentation": "Serveren in traditionele Thaise kom",
+        "eating_etiquette": "Eten met lepel en vork volgens Thaise traditie"
+      },
+      "where_to_find": {
+        "best_restaurants": [
+          "Lokale noordelijke restaurant",
+          "Authentiek straatrestantaurant",
+          "Traditionele markt",
+          "Familierestaurant"
+        ],
+        "street_food_areas": [
+          "Nachtmarkt",
+          "Ochtendmarkt",
+          "Lokale voedselcentrum"
+        ],
+        "price_ranges": {
+          "street_vendor": "30-50 THB",
+          "market_stall": "40-60 THB",
+          "restaurant": "60-100 THB"
+        }
+      },
+      "translated_at": "2026-03-14T00:00:00.000Z"
+    },
+    "ja": {
+      "enhanced_description": "Kaeng Liang is een hartverwarmende standaardsoep uit Noord-Thailand met een prettige pittigheid als accent. Pittige groentensoep met garnalen. Dit eenvoudige recept is in ongeveer 25 minuten klaar en belichaamt de authentieke smaak van Noord-Thaise keuken. De noordelijke smaken kenmerken zich door milde aroma's, kleefrijst en kruiden. De combinatie van gemengde groenten, garnalen en garnalenpasta creëert een harmonieuze smaak, geliefd bij locals en toeristen. Ideaal voor wie betaalbare authentieke Thaise keuken wil proeven.",
+      "detailed_ingredients": [
+        {
+          "name": "Mixed vegetables",
+          "purpose": "Onmisbaar voor de authentieke smaak van Kaeng Liang",
+          "substitutes": [
+            "Verse gemengde groenten",
+            "Gedroogde gemengde groenten",
+            "Pasta van gemengde groenten"
+          ]
+        },
+        {
+          "name": "Shrimp",
+          "purpose": "Onmisbaar voor de authentieke smaak van Kaeng Liang",
+          "substitutes": [
+            "Verse garnalen",
+            "Gedroogde garnalen",
+            "Garnalenpasta"
+          ]
+        },
+        {
+          "name": "Shrimp paste",
+          "purpose": "Onmisbaar voor de authentieke smaak van Kaeng Liang",
+          "substitutes": [
+            "Verse garnalenpasta",
+            "Gedroogde garnalenpasta",
+            "Garnalenpasta zelf"
+          ]
+        },
+        {
+          "name": "Shallots",
+          "purpose": "Onmisbaar voor de authentieke smaak van Kaeng Liang",
+          "substitutes": [
+            "Verse sjalotten",
+            "Gedroogde sjalotten",
+            "Sjalottenpasta"
+          ]
+        }
+      ],
+      "cooking_method": {
+        "technique": "Smoren en lagen van smaak opbouwen",
+        "steps_overview": "De bereiding van Kaeng Liang vereist aandacht voor details en juiste timing. Het punt is alle smaken in balans te brengen terwijl de textuur van elk ingrediënt behouden blijft. De traditionele methode, doorgegeven door generaties, garandeert authentieke smaak.",
+        "cooking_tips": [
+          "Gebruik verse gemengde groenten voor het beste resultaat",
+          "Pas de pittigheid aan naar smaak",
+          "Kook niet te lang om textuur te behouden",
+          "Proef en breng op smaak voor het serveren"
+        ]
+      },
+      "cultural_significance": {
+        "origin_story": "Kaeng Liang is een essentieel gerecht in de lange geschiedenis van Noord-Thaise keuken en weerspiegelt de regionale kooktradities en lokale ingrediënten.",
+        "cultural_importance": "Dit gerecht symboliseert het centrum van Noord-Thaise keuken en belichaamt de 'harmonie en balans' waarvoor Thaise keuken wereldwijd geprezen wordt.",
+        "traditional_occasions": [
+          "Familiebijeenkomst",
+          "Lokale festivals",
+          "Kraamstraatmarkt",
+          "Speciale vieringen"
+        ]
+      },
+      "variations": [
+        {
+          "name": "Kaeng Liang Classic",
+          "description": "Traditionele versie geserveerd in regionale huizen"
+        },
+        {
+          "name": "Kaeng Liang Modern",
+          "description": "Moderne versie met hoogwaardige ingrediënten"
+        },
+        {
+          "name": "Vegetarian Kaeng Liang",
+          "description": "Plantaardige versie met tofu of paddenstoelen"
+        }
+      ],
+      "serving_suggestions": {
+        "traditional_accompaniments": [
+          "Jasmijnrijst",
+          "Verse groenten",
+          "Thaise kruiden"
+        ],
+        "presentation": "Serveren in traditionele Thaise schaal",
+        "eating_etiquette": "Eten met vork en lepel volgens Thaise gewoonten"
+      },
+      "where_to_find": {
+        "best_restaurants": [
+          "Lokale Noord-Thaise restaurant",
+          "Authentieke kraam",
+          "Traditionele markt",
+          "Familiegerund eettentje"
+        ],
+        "street_food_areas": [
+          "Nachtmarkt",
+          "Ochtendmarkt",
+          "Lokale foodcourt"
+        ],
+        "price_ranges": {
+          "street_vendor": "30-50 THB",
+          "market_stall": "40-60 THB",
+          "restaurant": "60-100 THB"
+        }
+      },
+      "translated_at": "2026-03-14T00:00:00.000Z"
+    }
+  }
+}

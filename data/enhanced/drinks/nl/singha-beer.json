@@ -1,0 +1,53 @@
+{
+  "id": 8,
+  "slug": "singha-beer",
+  "name": {
+    "en": "Singha Beer",
+    "nl": "Singha Bier",
+    "thai": "เบียร์สิงห์"
+  },
+  "category": "alcohol",
+  "type": "koud",
+  "description": {
+    "en": "Thailand's premium lager beer",
+    "nl": "Thailand's premium pils bier"
+  },
+  "ingredients": [
+    "gerst",
+    "hop",
+    "water"
+  ],
+  "allergens": [
+    "gluten"
+  ],
+  "dietary": [],
+  "image": "/images/drinks/singha-beer.webp",
+  "temperature": "koud",
+  "alcohol_content": "5%",
+  "caffeine": "geen",
+  "price_range": "middenklasse",
+  "region": "alle",
+  "occasions": [
+    "sociaal",
+    "diner"
+  ],
+  "seo": {
+    "metaTitle": {
+      "en": "Singha Beer Recipe | Authentic Thai alcohol",
+      "nl": "Singha Bier Recept | Authentieke Thaise alcohol"
+    },
+    "metaDescription": {
+      "en": "Learn about Singha Beer (เบียร์สิงห์) - Thailand's premium lager beer",
+      "nl": "Leer over Singha Bier (เบียร์สิงห์) - Thailand's premium pils bier"
+    }
+  },
+  "tags": [
+    "Thaise dranken",
+    "Thailand",
+    "alcohol",
+    "koud",
+    "koud",
+    "sociaal",
+    "diner"
+  ]
+}

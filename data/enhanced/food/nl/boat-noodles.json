@@ -1,0 +1,966 @@
+{
+  "id": 12,
+  "slug": "boat-noodles",
+  "name": {
+    "en": "Boat Noodles",
+    "nl": "Boot Noedels",
+    "thai": "ก๋วยเตี๋ยวเรือ"
+  },
+  "category": "soep",
+  "region": "centraal",
+  "spice_level": "gemiddeld",
+  "description": {
+    "en": "Rich pork or beef noodle soup traditionally served in small portions",
+    "nl": "Rijke varkens- of rundvlees noedelsoep traditioneel geserveerd in kleine porties"
+  },
+  "ingredients": [
+    "rijstnoedels",
+    "varkens- of rundvlees",
+    "donkere sojasaus",
+    "chinees vijfkruidenpoeder",
+    "waterspinazie",
+    "tauge"
+  ],
+  "allergens": [],
+  "dietary": [],
+  "image": "/images/food/boat-noodles.webp",
+  "preparation_time": "30 minuten",
+  "difficulty": "gemiddeld",
+  "price_range": "budget",
+  "seo": {
+    "metaTitle": {
+      "en": "Boat Noodles Recipe | Authentic Thai soup",
+      "nl": "Boot Noedels Recept | Authentieke Thaise soup"
+    },
+    "metaDescription": {
+      "en": "Learn about Boat Noodles (ก๋วยเตี๋ยวเรือ) - Rich pork or beef noodle soup traditionally served in small portions...",
+      "nl": "Leer over Boot Noedels (ก๋วยเตี๋ยวเรือ) - Rijke varkens- of rundvlees noedelsoep traditioneel geserveerd in kleine porties..."
+    }
+  },
+  "tags": [
+    "thais-eten",
+    "Thailand",
+    "soep",
+    "centraal",
+    "gemiddeld",
+    "gemiddeld",
+    "budget",
+    "rijstnoedels",
+    "varkens- of rundvlees",
+    "donkere sojasaus"
+  ],
+  "cooking": {
+    "preparation_time": "30 minuten",
+    "difficulty": "gemiddeld",
+    "spice_level": "gemiddeld",
+    "serves": "2-4 personen"
+  },
+  "nutrition": {
+    "allergens": [],
+    "dietary": [],
+    "price_range": "budget"
+  },
+  "enhanced_description": "Boot Noedels is een geliefde, zielsverwarmende soep uit Centraal-Thailand met een aangename pittige kick. Rijke varkens- of rundvlees noedelsoep die traditioneel in kleine porties wordt geserveerd. Dit recept met gemiddelde moeilijkheidsgraad vergt ongeveer 30 minuten bereidingstijd en vertegenwoordigt de authentieke smaken van de Centraal-Thaise keuken die zoet, zuur, zout en pittig perfect in balans brengt. De combinatie van rijstnoedels, varkens- of rundvlees en donkere sojasaus creëert een harmonieuze mix die dit gerecht tot een favoriet heeft gemaakt onder zowel locals als bezoekers. Perfect voor wie op zoek is naar betaalbare authentieke Thaise keuken.",
+  "detailed_ingredients": [
+    {
+      "name": "Rice noodles",
+      "purpose": "Essentieel voor de authentieke Boot Noedels smaak",
+      "substitutes": [
+        "Verse rijstnoedels",
+        "Gedroogde rijstnoedels",
+        "rijstnoedelpasta"
+      ]
+    },
+    {
+      "name": "Pork or beef",
+      "purpose": "Essentieel voor de authentieke Boot Noedels smaak",
+      "substitutes": [
+        "Vers varkens- of rundvlees",
+        "Gedroogd varkens- of rundvlees",
+        "varkens- of rundvleespasta"
+      ]
+    },
+    {
+      "name": "Dark soy sauce",
+      "purpose": "Essentieel voor de authentieke Boot Noedels smaak",
+      "substitutes": [
+        "Verse donkere sojasaus",
+        "Gedroogde donkere sojasaus",
+        "donkere sojasaus pasta"
+      ]
+    },
+    {
+      "name": "Chinese five spice",
+      "purpose": "Essentieel voor de authentieke Boot Noedels smaak",
+      "substitutes": [
+        "Vers chinees vijfkruidenpoeder",
+        "Gedroogd chinees vijfkruidenpoeder",
+        "chinees vijfkruidenpoeder pasta"
+      ]
+    }
+  ],
+  "cooking_method": {
+    "technique": "Sudderen en smaken opbouwen",
+    "steps_overview": "Het bereiden van Boot Noedels vereist aandacht voor detail en goede timing. De sleutel is het balanceren van alle smaken terwijl de textuur van elk ingrediënt behouden blijft. Traditionele methoden die van generatie op generatie zijn doorgegeven, garanderen een authentieke smaak.",
+    "cooking_tips": [
+      "Gebruik verse rijstnoedels voor het beste resultaat",
+      "Pas het pittigheidsgehalte aan naar je voorkeur",
+      "Kook niet te lang om de textuur te behouden",
+      "Proef en pas de kruiding aan voor het serveren"
+    ]
+  },
+  "cultural_significance": {
+    "origin_story": "Boot Noedels is al generaties lang een vast onderdeel van de Centraal-Thaise keuken en weerspiegelt de unieke culinaire tradities en lokale ingrediënten van de regio.",
+    "cultural_importance": "Dit gerecht vertegenwoordigt het hart van de Centraal-Thaise kookkunst en toont de balans en harmonie waarmee de Thaise keuken wereldwijd beroemd is.",
+    "traditional_occasions": [
+      "Familiebijeenkomsten",
+      "Lokale festivals",
+      "Straatvoedselmarkten",
+      "Bijzondere vieringen"
+    ]
+  },
+  "variations": [
+    {
+      "name": "Boat Noodles Classic",
+      "description": "De traditionele versie zoals geserveerd in lokale huizen"
+    },
+    {
+      "name": "Boat Noodles Modern",
+      "description": "Hedendaagse twist met premium ingrediënten"
+    },
+    {
+      "name": "Vegetarian Boat Noodles",
+      "description": "Plantaardige versie met tofu of paddenstoelen"
+    }
+  ],
+  "serving_suggestions": {
+    "traditional_accompaniments": [
+      "Jasmijnrijst",
+      "Verse groenten",
+      "Thaise kruiden"
+    ],
+    "presentation": "Geserveerd in een kom in traditionele Thaise stijl",
+    "eating_etiquette": "Genoten met vork en lepel volgens Thais gebruik"
+  },
+  "nutritional_info": {
+    "calories_per_serving": "300-500 calorieën",
+    "health_benefits": [
+      "Rijk aan Thaise kruiden en specerijen",
+      "Bron van eiwitten en groenten",
+      "Gebalanceerde smaken en voedingsstoffen"
+    ],
+    "dietary_notes": []
+  },
+  "where_to_find": {
+    "best_restaurants": [
+      "Lokale Centraal-Thaise restaurants",
+      "Authentieke straatvoedselstalletjes",
+      "Traditionele markten",
+      "Familiegerunde eetgelegenheden"
+    ],
+    "street_food_areas": [
+      "Nachtmarkten",
+      "Ochtendverse markten",
+      "Lokale food courts"
+    ],
+    "price_ranges": {
+      "street_vendor": "30-50 THB",
+      "market_stall": "40-60 THB",
+      "restaurant": "60-100 THB"
+    }
+  },
+  "translations": {
+    "nl": {
+      "enhanced_description": "Boot Noedels is een geliefde, zielsverwarmende soep uit Centraal-Thailand met een aangename pittige kick. Rijke varkens- of rundvlees noedelsoep die traditioneel in kleine porties wordt geserveerd. Dit recept met gemiddelde moeilijkheidsgraad vergt ongeveer 30 minuten bereidingstijd en vertegenwoordigt de authentieke smaken van de Centraal-Thaise keuken die zoet, zuur, zout en pittig perfect in balans brengt. De combinatie van rijstnoedels, varkens- of rundvlees en donkere sojasaus creëert een harmonieuze mix die dit gerecht tot een favoriet heeft gemaakt onder zowel locals als bezoekers. Perfect voor wie op zoek is naar betaalbare authentieke Thaise keuken.",
+      "detailed_ingredients": [
+        {
+          "name": "Rijstnoedels",
+          "purpose": "Essentieel voor de authentieke Boot Noedels smaak",
+          "substitutes": [
+            "Verse rijstnoedels",
+            "Gedroogde rijstnoedels",
+            "Rijstnoedelpasta"
+          ]
+        },
+        {
+          "name": "Varkens- of rundvlees",
+          "purpose": "Essentieel voor de authentieke Boot Noedels smaak",
+          "substitutes": [
+            "Vers varkens- of rundvlees",
+            "Gedroogd varkens- of rundvlees",
+            "Varkens- of rundvleespasta"
+          ]
+        },
+        {
+          "name": "Donkere sojasaus",
+          "purpose": "Essentieel voor de authentieke Boot Noedels smaak",
+          "substitutes": [
+            "Verse donkere sojasaus",
+            "Gedroogde donkere sojasaus",
+            "Donkere sojasauspasta"
+          ]
+        },
+        {
+          "name": "Chinees vijfkruidenpoeder",
+          "purpose": "Essentieel voor de authentieke Boot Noedels smaak",
+          "substitutes": [
+            "Vers Chinees vijfkruidenpoeder",
+            "Gedroogd Chinees vijfkruidenpoeder",
+            "Chinees vijfkruidenpasta"
+          ]
+        }
+      ],
+      "cooking_method": {
+        "technique": "Sudderen en smaken opbouwen",
+        "steps_overview": "Het bereiden van Boot Noedels vereist aandacht voor detail en goede timing. De sleutel is het balanceren van alle smaken terwijl de textuur van elk ingrediënt behouden blijft. Traditionele methoden die van generatie op generatie zijn doorgegeven, garanderen een authentieke smaak.",
+        "cooking_tips": [
+          "Gebruik verse rijstnoedels voor het beste resultaat",
+          "Pas het pittigheidsgehalte aan naar je voorkeur",
+          "Kook niet te lang om de textuur te behouden",
+          "Proef en pas de kruiding aan voor het serveren"
+        ]
+      },
+      "cultural_significance": {
+        "origin_story": "Boot Noedels is al generaties lang een vast onderdeel van de Centraal-Thaise keuken en weerspiegelt de unieke culinaire tradities en lokale ingrediënten van de regio.",
+        "cultural_importance": "Dit gerecht vertegenwoordigt het hart van de Centraal-Thaise kookkunst en toont de balans en harmonie waarmee de Thaise keuken wereldwijd beroemd is.",
+        "traditional_occasions": [
+          "Familiebijeenkomsten",
+          "Lokale festivals",
+          "Straatvoedselmarkten",
+          "Bijzondere vieringen"
+        ]
+      },
+      "variations": [
+        {
+          "name": "Boot Noedels Klassiek",
+          "description": "De traditionele versie zoals geserveerd in lokale huishoudens"
+        },
+        {
+          "name": "Boot Noedels Modern",
+          "description": "Hedendaagse variant met premium ingrediënten"
+        },
+        {
+          "name": "Vegetarische Boot Noedels",
+          "description": "Plantaardige versie met tofu of paddenstoelen"
+        }
+      ],
+      "serving_suggestions": {
+        "traditional_accompaniments": [
+          "Jasmijnrijst",
+          "Verse groenten",
+          "Thaise kruiden"
+        ],
+        "presentation": "Geserveerd in een kom in traditionele Thaise stijl",
+        "eating_etiquette": "Gegeten met vork en lepel volgens Thais gebruik"
+      },
+      "where_to_find": {
+        "best_restaurants": [
+          "Lokale Centraal-Thaise restaurants",
+          "Authentieke straatvoedselkramen",
+          "Traditionele markten",
+          "Familiebedrijfjes"
+        ],
+        "street_food_areas": [
+          "Nachtmarkten",
+          "Ochtendverse markten",
+          "Lokale food courts"
+        ]
+      },
+      "translated_at": "2026-03-10T00:00:00.000Z"
+    },
+    "fr": {
+      "enhanced_description": "Boot Noedels is een geliefde, zielsverwarmende soep uit Centraal-Thailand met een aangename pittige kick. Rijke varkens- of rundvlees noedelsoep die traditioneel in kleine porties wordt geserveerd. Dit recept met gemiddelde moeilijkheidsgraad vergt ongeveer 30 minuten bereidingstijd en vertegenwoordigt de authentieke smaken van de Centraal-Thaise keuken die zoet, zuur, zout en pittig perfect in balans brengt. De combinatie van rijstnoedels, varkens- of rundvlees en donkere sojasaus creëert een harmonieuze mix die dit gerecht tot een favoriet heeft gemaakt onder zowel locals als bezoekers. Perfect voor wie op zoek is naar betaalbare authentieke Thaise keuken.",
+      "detailed_ingredients": [
+        {
+          "name": "Nouilles de riz",
+          "purpose": "Essentieel voor de authentieke Boot Noedels smaak",
+          "substitutes": [
+            "Verse rijstnoedels",
+            "Gedroogde rijstnoedels",
+            "Rijstnoedelpasta"
+          ]
+        },
+        {
+          "name": "Porc ou bœuf",
+          "purpose": "Essentieel voor de authentieke Boot Noedels smaak",
+          "substitutes": [
+            "Vers varkens- of rundvlees",
+            "Gedroogd varkens- of rundvlees",
+            "Varkens- of rundvleespasta"
+          ]
+        },
+        {
+          "name": "Sauce soja foncée",
+          "purpose": "Essentieel voor de authentieke Boot Noedels smaak",
+          "substitutes": [
+            "Verse donkere sojasaus",
+            "Gedroogde donkere sojasaus",
+            "Donkere sojasaus pasta"
+          ]
+        },
+        {
+          "name": "Cinq-épices chinois",
+          "purpose": "Essentieel voor de authentieke Boot Noedels smaak",
+          "substitutes": [
+            "Vers Chinees vijfkruidenpoeder",
+            "Gedroogd Chinees vijfkruidenpoeder",
+            "Chinees vijfkruidenpoeder pasta"
+          ]
+        }
+      ],
+      "cooking_method": {
+        "technique": "Sudderen en smaken opbouwen",
+        "steps_overview": "Het bereiden van Boot Noedels vereist aandacht voor detail en goede timing. De sleutel is het balanceren van alle smaken terwijl de textuur van elk ingrediënt behouden blijft. Traditionele methoden die van generatie op generatie zijn doorgegeven, garanderen een authentieke smaak.",
+        "cooking_tips": [
+          "Gebruik verse rijstnoedels voor het beste resultaat",
+          "Pas het pittigheidsgehalte aan naar je voorkeur",
+          "Kook niet te lang om de textuur te behouden",
+          "Proef en pas de kruiding aan voor het serveren"
+        ]
+      },
+      "cultural_significance": {
+        "origin_story": "Boot Noedels is al generaties lang een vast onderdeel van de Centraal-Thaise keuken en weerspiegelt de unieke culinaire tradities en lokale ingrediënten van de regio.",
+        "cultural_importance": "Dit gerecht vertegenwoordigt het hart van de Centraal-Thaise kookkunst en toont de balans en harmonie waarmee de Thaise keuken wereldwijd beroemd is.",
+        "traditional_occasions": [
+          "Familiebijeenkomsten",
+          "Lokale festivals",
+          "Straatvoedselmarkten",
+          "Bijzondere vieringen"
+        ]
+      },
+      "variations": [
+        {
+          "name": "Boat Noodles Classiques",
+          "description": "De traditionele versie zoals geserveerd in lokale huizen"
+        },
+        {
+          "name": "Boat Noodles Modernes",
+          "description": "Hedendaagse variant met premium ingrediënten"
+        },
+        {
+          "name": "Boat Noodles Végétariennes",
+          "description": "Plantaardige versie met tofu of paddenstoelen"
+        }
+      ],
+      "serving_suggestions": {
+        "traditional_accompaniments": [
+          "Jasmijnrijst",
+          "Verse groenten",
+          "Thaise kruiden"
+        ],
+        "presentation": "Geserveerd in een kom in de traditionele Thaise stijl",
+        "eating_etiquette": "Genuttigd met vork en lepel volgens de Thaise traditie"
+      },
+      "where_to_find": {
+        "best_restaurants": [
+          "Lokale restaurants in het centrum van Thailand",
+          "Authentieke straatkiosken",
+          "Traditionele markten",
+          "Familierestaurants"
+        ],
+        "street_food_areas": [
+          "Nachtmarkten",
+          "Verse ochtendmarkten",
+          "Lokale foodcourts"
+        ]
+      },
+      "translated_at": "2026-03-10T00:00:00.000Z"
+    },
+    "de": {
+      "enhanced_description": "Bootnoedels is een geliefde, hartverwarmende soep uit Centraal-Thailand met een prettige pittigheid. Deze rijke varkens- of rundvleesnoedelsoep wordt traditioneel in kleine porties geserveerd. Dit recept van gemiddelde moeilijkheid vereist ongeveer 30 minuten bereidingstijd en belichaamt de authentieke smaken van de Centraal-Thaise keuken, die zoet, zuur, zout en pittig perfect in balans houdt. De combinatie van rijstnoedels, varkens- of rundvlees en donkere sojasaus creëert een harmonieuze mix die dit gerecht tot een favoriet maakt bij zowel locals als bezoekers. Perfect voor wie betaalbare authentieke Thaise keuken zoekt.",
+      "detailed_ingredients": [
+        {
+          "name": "Reisnudeln",
+          "purpose": "Onmisbaar voor de authentieke Bootnoedels-smaak",
+          "substitutes": [
+            "Verse rijstnoedels",
+            "Gedroogde rijstnoedels",
+            "Rijstnoedel pasta"
+          ]
+        },
+        {
+          "name": "Schweine- oder Rindfleisch",
+          "purpose": "Onmisbaar voor de authentieke Bootnoedels-smaak",
+          "substitutes": [
+            "Vers varkens- of rundvlees",
+            "Gedroogd varkens- of rundvlees",
+            "Varkens- of rundvlees pasta"
+          ]
+        },
+        {
+          "name": "Dunkle Sojasauce",
+          "purpose": "Onmisbaar voor de authentieke Bootnoedels-smaak",
+          "substitutes": [
+            "Verse donkere sojasaus",
+            "Gedroogde donkere sojasaus",
+            "Donkere sojasaus pasta"
+          ]
+        },
+        {
+          "name": "Chinesisches Fünf-Gewürze-Pulver",
+          "purpose": "Onmisbaar voor de authentieke Bootnoedels-smaak",
+          "substitutes": [
+            "Vers Chinees vijfkruidenpoeder",
+            "Gedroogd Chinees vijfkruidenpoeder",
+            "Chinese vijfkruiden pasta"
+          ]
+        }
+      ],
+      "cooking_method": {
+        "technique": "Laten sudderen en smaken opbouwen",
+        "steps_overview": "De bereiding van Bootnoedels vereist liefde voor detail en goed timing. De sleutel ligt in het balanceren van alle smaken terwijl de textuur van elke ingrediënt behouden blijft. Traditionele methoden, doorgegeven over generaties, zorgen voor authentieke smaak.",
+        "cooking_tips": [
+          "Gebruik verse rijstnoedels voor het beste resultaat",
+          "Pas de pittigheid aan naar smaak",
+          "Niet te lang koken om de textuur te behouden",
+          "Proeven en op smaak brengen voor het serveren"
+        ]
+      },
+      "cultural_significance": {
+        "origin_story": "Bootnoedels zijn al generaties lang een vast onderdeel van de Centraal-Thaise keuken en weerspiegelen de unieke culinaire tradities en lokale ingrediënten van de regio.",
+        "cultural_importance": "Dit gerecht belichaamt het hart van de Centraal-Thaise kookkunst en toont de balans en harmonie waarvoor de Thaise keuken wereldwijd beroemd is.",
+        "traditional_occasions": [
+          "Familiebijeenkomsten",
+          "Lokale feesten",
+          "Straatvoedselmarkten",
+          "Speciale vieringen"
+        ]
+      },
+      "variations": [
+        {
+          "name": "Boat Noodles Klassisch",
+          "description": "De traditionele versie zoals geserveerd in lokale huishoudens"
+        },
+        {
+          "name": "Boat Noodles Modern",
+          "description": "Moderne variant met premium ingrediënten"
+        },
+        {
+          "name": "Vegetarische Boat Noodles",
+          "description": "Plantaardige versie met tofu of paddenstoelen"
+        }
+      ],
+      "serving_suggestions": {
+        "traditional_accompaniments": [
+          "Jasmijnrijst",
+          "Verse groenten",
+          "Thaise kruiden"
+        ],
+        "presentation": "Geserveerd in een kom in de traditionele Thaise stijl",
+        "eating_etiquette": "Genuttigd met vork en lepel volgens de Thaise traditie"
+      },
+      "where_to_find": {
+        "best_restaurants": [
+          "Lokale Centraal-Thaise restaurants",
+          "Authentieke straatkiosken",
+          "Traditionele markten",
+          "Familiegerunde eetgelegenheden"
+        ],
+        "street_food_areas": [
+          "Nachtmarkten",
+          "Verse ochtendmarkten",
+          "Lokale foodcourts"
+        ]
+      },
+      "translated_at": "2026-03-10T00:00:00.000Z"
+    },
+    "zh": {
+      "enhanced_description": "Bootnoedels is een geliefde, hartverwarmende soep uit Centraal-Thailand met een prettige pittigheid. Deze rijke varkens- of rundvleesnoedelsoep wordt traditioneel in kleine porties geserveerd. Dit recept van gemiddelde moeilijkheid vereist ongeveer 30 minuten bereidingstijd en belichaamt de authentieke smaken van de Centraal-Thaise keuken, die zoet, zuur, zout en pittig perfect in balans houdt. De combinatie van rijstnoedels, varkens- of rundvlees en donkere sojasaus creëert een harmonieuze mix die dit gerecht tot een favoriet maakt bij zowel locals als bezoekers. Perfect voor wie betaalbare authentieke Thaise keuken zoekt.",
+      "detailed_ingredients": [
+        {
+          "name": "米粉",
+          "purpose": "Onmisbaar voor de authentieke Bootnoedels-smaak",
+          "substitutes": [
+            "Verse rijstnoedels",
+            "Gedroogde rijstnoedels",
+            "Rijstnoedel pasta"
+          ]
+        },
+        {
+          "name": "猪肉或牛肉",
+          "purpose": "Onmisbaar voor de authentieke Bootnoedels-smaak",
+          "substitutes": [
+            "Vers varkens- of rundvlees",
+            "Gedroogd varkens- of rundvlees",
+            "Varkens- of rundvlees pasta"
+          ]
+        },
+        {
+          "name": "老抽",
+          "purpose": "Onmisbaar voor de authentieke Bootnoedels-smaak",
+          "substitutes": [
+            "Verse donkere sojasaus",
+            "Gedroogde donkere sojasaus",
+            "Donkere sojasaus pasta"
+          ]
+        },
+        {
+          "name": "五香粉",
+          "purpose": "Onmisbaar voor de authentieke Bootnoedels-smaak",
+          "substitutes": [
+            "Vers Chinees vijfkruidenpoeder",
+            "Gedroogd Chinees vijfkruidenpoeder",
+            "Chinese vijfkruiden pasta"
+          ]
+        }
+      ],
+      "cooking_method": {
+        "technique": "Laten sudderen en smaken opbouwen",
+        "steps_overview": "De bereiding van Bootnoedels vereist liefde voor detail en goed timing. De sleutel ligt in het balanceren van alle smaken terwijl de textuur van elke ingrediënt behouden blijft. Traditionele methoden, doorgegeven over generaties, zorgen voor authentieke smaak.",
+        "cooking_tips": [
+          "Gebruik verse rijstnoedels voor het beste resultaat",
+          "Pas de pittigheid aan naar smaak",
+          "Niet te lang koken om de textuur te behouden",
+          "Proeven en op smaak brengen voor het serveren"
+        ]
+      },
+      "cultural_significance": {
+        "origin_story": "Bootnoedels zijn al generaties lang een vast onderdeel van de Centraal-Thaise keuken en weerspiegelen de unieke culinaire tradities en lokale ingrediënten van de regio.",
+        "cultural_importance": "Dit gerecht belichaamt het hart van de Centraal-Thaise kookkunst en toont de balans en harmonie waarvoor de Thaise keuken wereldwijd beroemd is.",
+        "traditional_occasions": [
+          "Familiebijeenkomsten",
+          "Lokale feesten",
+          "Straatvoedselmarkten",
+          "Speciale vieringen"
+        ]
+      },
+      "variations": [
+        {
+          "name": "经典船面",
+          "description": "De traditionele versie zoals geserveerd in lokale huishoudens"
+        },
+        {
+          "name": "现代船面",
+          "description": "Moderne variant met premium ingrediënten"
+        },
+        {
+          "name": "素食船面",
+          "description": "Plantaardige versie met tofu of paddenstoelen"
+        }
+      ],
+      "serving_suggestions": {
+        "traditional_accompaniments": [
+          "Jasmijnrijst",
+          "Verse groenten",
+          "Thaise kruiden"
+        ],
+        "presentation": "Geserveerd in een kom in de traditionele Thaise stijl",
+        "eating_etiquette": "Genuttigd met vork en lepel volgens de Thaise traditie"
+      },
+      "where_to_find": {
+        "best_restaurants": [
+          "Lokale Centraal-Thaise restaurants",
+          "Authentieke straatkiosken",
+          "Traditionele markten",
+          "Familiegerunde eetgelegenheden"
+        ],
+        "street_food_areas": [
+          "Nachtmarkten",
+          "Verse ochtendmarkten",
+          "Lokale foodcourts"
+        ]
+      },
+      "translated_at": "2026-03-11T00:00:00.000Z"
+    },
+    "ru": {
+      "enhanced_description": "Bootnoedels is een geliefde, hartverwarmende soep uit Centraal-Thailand met een prettige pittigheid. Deze rijke varkens- of rundvleesnoedelsoep wordt traditioneel in kleine porties geserveerd. Dit recept van gemiddelde moeilijkheid vereist ongeveer 30 minuten bereidingstijd en belichaamt de authentieke smaken van de Centraal-Thaise keuken, die zoet, zuur, zout en pittig perfect in balans houdt. De combinatie van rijstnoedels, varkens- of rundvlees en donkere sojasaus creëert een harmonieuze mix die dit gerecht tot een favoriet maakt bij zowel locals als bezoekers. Perfect voor wie betaalbare authentieke Thaise keuken zoekt.",
+      "detailed_ingredients": [
+        {
+          "name": "Рисовая лапша",
+          "purpose": "Onmisbaar voor de authentieke Bootnoedels-smaak",
+          "substitutes": [
+            "Verse rijstnoedels",
+            "Gedroogde rijstnoedels",
+            "Rijstnoedel pasta"
+          ]
+        },
+        {
+          "name": "Свинина или говядина",
+          "purpose": "Onmisbaar voor de authentieke Bootnoedels-smaak",
+          "substitutes": [
+            "Vers varkens- of rundvlees",
+            "Gedroogd varkens- of rundvlees",
+            "Varkens- of rundvlees pasta"
+          ]
+        },
+        {
+          "name": "Тёмный соевый соус",
+          "purpose": "Onmisbaar voor de authentieke Bootnoedels-smaak",
+          "substitutes": [
+            "Verse donkere sojasaus",
+            "Gedroogde donkere sojasaus",
+            "Donkere sojasaus pasta"
+          ]
+        },
+        {
+          "name": "Китайская смесь пяти специй",
+          "purpose": "Onmisbaar voor de authentieke Bootnoedels-smaak",
+          "substitutes": [
+            "Vers Chinees vijfkruidenpoeder",
+            "Gedroogd Chinees vijfkruidenpoeder",
+            "Chinese vijfkruiden pasta"
+          ]
+        }
+      ],
+      "cooking_method": {
+        "technique": "Laten sudderen en smaken opbouwen",
+        "steps_overview": "De bereiding van Bootnoedels vereist liefde voor detail en goed timing. De sleutel ligt in het balanceren van alle smaken terwijl de textuur van elke ingrediënt behouden blijft. Traditionele methoden, doorgegeven over generaties, zorgen voor authentieke smaak.",
+        "cooking_tips": [
+          "Gebruik verse rijstnoedels voor het beste resultaat",
+          "Pas de pittigheid aan naar smaak",
+          "Niet te lang koken om de textuur te behouden",
+          "Proeven en op smaak brengen voor het serveren"
+        ]
+      },
+      "cultural_significance": {
+        "origin_story": "Bootnoedels zijn al generaties lang een vast onderdeel van de Centraal-Thaise keuken en weerspiegelen de unieke culinaire tradities en lokale ingrediënten van de regio.",
+        "cultural_importance": "Dit gerecht belichaamt het hart van de Centraal-Thaise kookkunst en toont de balans en harmonie waarvoor de Thaise keuken wereldwijd beroemd is.",
+        "traditional_occasions": [
+          "Familiebijeenkomsten",
+          "Lokale feesten",
+          "Straatvoedselmarkten",
+          "Speciale vieringen"
+        ]
+      },
+      "variations": [
+        {
+          "name": "Классическая лодочная лапша",
+          "description": "De traditionele versie zoals geserveerd in lokale huishoudens"
+        },
+        {
+          "name": "Современная лодочная лапша",
+          "description": "Moderne variant met premium ingrediënten"
+        },
+        {
+          "name": "Вегетарианская лодочная лапша",
+          "description": "Plantaardige versie met tofu of paddenstoelen"
+        }
+      ],
+      "serving_suggestions": {
+        "traditional_accompaniments": [
+          "Jasmijnrijst",
+          "Verse groenten",
+          "Thaise kruiden"
+        ],
+        "presentation": "Geserveerd in een kom in de traditionele Thaise stijl",
+        "eating_etiquette": "Genuttigd met vork en lepel volgens de Thaise traditie"
+      },
+      "where_to_find": {
+        "best_restaurants": [
+          "Lokale Centraal-Thaise restaurants",
+          "Authentieke straatkiosken",
+          "Traditionele markten",
+          "Familiegerunde eetgelegenheden"
+        ],
+        "street_food_areas": [
+          "Nachtmarkten",
+          "Verse ochtendmarkten",
+          "Lokale foodcourts"
+        ]
+      },
+      "translated_at": "2026-03-11T00:00:00.000Z"
+    },
+    "ko": {
+      "enhanced_description": "Bootnoedels is een geliefde, hartverwarmende soep uit Centraal-Thailand met een prettige pittigheid. Deze rijke varkens- of rundvleesnoedelsoep wordt traditioneel in kleine porties geserveerd. Dit recept van gemiddelde moeilijkheid vereist ongeveer 30 minuten bereidingstijd. Oorspronkelijk verkocht vanaf boten op de kanalen, vandaar de naam, en nog steeds te genieten in traditionele markten in Bangkok voor slechts 10-15 THB per kom. Het is traditie om meerdere kommen te bestellen om te proeven.",
+      "detailed_ingredients": [
+        {
+          "name": "쌀국수",
+          "purpose": "Onmisbaar voor de authentieke Bootnoedels-smaak",
+          "substitutes": [
+            "Verse rijstnoedels",
+            "Gedroogde rijstnoedels"
+          ]
+        },
+        {
+          "name": "돼지고기 또는 소고기",
+          "purpose": "Onmisbaar voor de authentieke Bootnoedels-smaak",
+          "substitutes": [
+            "생 돼지고기",
+            "소고기 볼"
+          ]
+        },
+        {
+          "name": "진간장",
+          "purpose": "깊은 색과 풍미 부여",
+          "substitutes": [
+            "일반 간장",
+            "타마리"
+          ]
+        },
+        {
+          "name": "오향분",
+          "purpose": "독특한 향신료 풍미 부여",
+          "substitutes": [
+            "계피와 팔각 조합"
+          ]
+        }
+      ],
+      "cooking_method": {
+        "technique": "끓이기와 맛 층 쌓기",
+        "steps_overview": "보트 누들 준비에는 세심한 주의와 적절한 타이밍이 필요합니다. 핵심은 각 재료의 식감을 유지하면서 모든 맛의 균형을 맞추는 것입니다. 세대를 거쳐 전해진 전통 방법이 정통 맛을 보장합니다.",
+        "cooking_tips": [
+          "최고의 결과를 위해 생 쌀국수를 사용하세요",
+          "취향에 맞게 매운 정도를 조절하세요",
+          "국물은 천천히 오래 끓여야 깊은 맛이 납니다"
+        ]
+      },
+      "cultural_significance": {
+        "origin_story": "보트 누들은 세대에 걸쳐 태국 중부 요리의 주요 음식으로, 이 지역의 독특한 요리 전통과 현지 재료를 반영합니다.",
+        "cultural_importance": "이 요리는 태국 중부 요리의 핵심을 대표하며, 태국 요리가 세계적으로 유명한 균형과 조화를 보여줍니다.",
+        "traditional_occasions": [
+          "가족 모임",
+          "현지 축제",
+          "일상 식사"
+        ]
+      },
+      "variations": [
+        {
+          "name": "보트 누들 클래식",
+          "description": "현지 가정에서 제공되는 전통 버전"
+        },
+        {
+          "name": "보트 누들 모던",
+          "description": "프리미엄 재료를 사용한 현대적 변형"
+        },
+        {
+          "name": "채식 보트 누들",
+          "description": "두부나 버섯을 사용한 식물성 버전"
+        }
+      ],
+      "serving_suggestions": {
+        "traditional_accompaniments": [
+          "자스민 라이스",
+          "신선한 채소",
+          "태국 허브"
+        ],
+        "presentation": "태국 전통 방식으로 작은 그릇에 제공",
+        "eating_etiquette": "태국 관습에 따라 포크와 숟가락으로 즐깁니다"
+      },
+      "where_to_find": {
+        "best_restaurants": [
+          "현지 태국 중부 식당",
+          "정통 길거리 음식 노점",
+          "전통 시장",
+          "가족 운영 식당"
+        ],
+        "street_food_areas": [
+          "야시장",
+          "아침 시장",
+          "현지 푸드코트"
+        ],
+        "price_ranges": {
+          "street_vendor": "30-50 THB",
+          "market_stall": "40-60 THB",
+          "restaurant": "60-100 THB"
+        }
+      },
+      "translated_at": "2026-03-14T00:00:00.000Z"
+    },
+    "th": {
+      "enhanced_description": "ก๋วยเตี๋ยวเรือเป็นอาหารไทยที่ได้รับความนิยมมายาวนาน เป็นก๋วยเตี๋ยวน้ำซุปเข้มข้นจากเครื่องเทศและเลือดหมูหรือเนื้อ เสิร์ฟในถ้วยเล็กตามธรรมเนียมดั้งเดิม มีรสชาติกลมกล่อมทั้งหวาน เค็ม และเผ็ดอ่อนๆ เป็นอาหารริมทางที่หาทานได้ทั่วไปในภาคกลางของไทย ราคาไม่แพง",
+      "detailed_ingredients": [
+        {
+          "name": "Rice noodles",
+          "purpose": "중요한สำหรับรสชาติBoat Noodlesแท้",
+          "substitutes": [
+            "Verse rijstnoedels",
+            "Gedroogde rijstnoedels",
+            "Rijstnoedel pasta"
+          ]
+        },
+        {
+          "name": "Pork or beef",
+          "purpose": "중요한สำหรับรสชาติBoat Noodlesแท้",
+          "substitutes": [
+            "Vers varkensvlees of rundvlees",
+            "Gedroogd varkensvlees of rundvlees",
+            "Varkens- of rundvlees pasta"
+          ]
+        },
+        {
+          "name": "Dark soy sauce",
+          "purpose": "중요한สำหรับรสชาติBoat Noodlesแท้",
+          "substitutes": [
+            "Verse donkere sojasaus",
+            "Gedroogde donkere sojasaus",
+            "Donkere sojasaus pasta"
+          ]
+        },
+        {
+          "name": "Chinese five spice",
+          "purpose": "중요한สำหรับรสชาติBoat Noodlesแท้",
+          "substitutes": [
+            "Verse Chinese vijfkruidenpoeder",
+            "Gedroogd Chinese vijfkruidenpoeder",
+            "Chinese vijfkruidenpoeder pasta"
+          ]
+        }
+      ],
+      "cooking_method": {
+        "technique": "การเคี่ยวและการเพิ่มรสชาติทีละชั้น",
+        "steps_overview": "การเตรียมBoat Noodlesต้องใส่ใจรายละเอียดและจังหวะเวลาที่เหมาะสม สิ่งสำคัญคือการสมดุลรสชาติทั้งหมดในขณะที่รักษาเนื้อสัมผัสของเครื่องปรุงแต่ละอย่าง วิธีดั้งเดิมที่สืบทอดมาหลายชั่วอายุคนรับประกันรสชาติแท้",
+        "cooking_tips": [
+          "ใช้เส้นก๋วยเตี๋ยวสดเพื่อผลลัพธ์ที่ดีที่สุด",
+          "ปรับระดับความเผ็ดตามชอบ",
+          "อย่าปรุงนานเกินไปเพื่อรักษาเนื้อสัมผัส",
+          "ชิมและปรุงรสก่อนเสิร์ฟ"
+        ]
+      },
+      "cultural_significance": {
+        "origin_story": "อาหารจานนี้เป็นส่วนหนึ่งของวัฒนธรรมอาหารภาคกลางมาหลายชั่วอายุคน สะท้อนประเพณีการทำอาหารที่เป็นเอกลักษณ์และวัตถุดิบท้องถิ่นของภูมิภาค",
+        "cultural_importance": "อาหารจานนี้เป็นหัวใจของการทำอาหารภาคกลาง แสดงให้เห็นถึงความสมดุลและความกลมกล่อมที่อาหารไทยมีชื่อเสียงไปทั่วโลก",
+        "traditional_occasions": [
+          "งานรวมญาติ",
+          "เทศกาลท้องถิ่น",
+          "ตลาดอาหารริมทาง",
+          "งานฉลองพิเศษ"
+        ]
+      },
+      "variations": [
+        {
+          "name": "Boat Noodles Classic",
+          "description": "เวอร์ชันดั้งเดิมที่เสิร์ฟในบ้านท้องถิ่น"
+        },
+        {
+          "name": "Boat Noodles Modern",
+          "description": "เวอร์ชันร่วมสมัยกับวัตถุดิบพรีเมียม"
+        },
+        {
+          "name": "Vegetarian Boat Noodles",
+          "description": "เวอร์ชันมังสวิรัติใช้เต้าหู้หรือเห็ด"
+        }
+      ],
+      "serving_suggestions": {
+        "traditional_accompaniments": [
+          "ข้าวหอมมะลิ",
+          "ผักสด",
+          "สมุนไพรไทย"
+        ],
+        "presentation": "เสิร์ฟในชามแบบไทยดั้งเดิม",
+        "eating_etiquette": "ทานด้วยช้อนส้อมตามธรรมเนียมไทย"
+      },
+      "where_to_find": {
+        "best_restaurants": [
+          "ร้านอาหารไทยภาคกลาง",
+          "ร้านอาหารริมทางแท้",
+          "ตลาดดั้งเดิม",
+          "ร้านอาหารครอบครัว"
+        ],
+        "street_food_areas": [
+          "ตลาดนัดกลางคืน",
+          "ตลาดเช้า",
+          "ศูนย์อาหารท้องถิ่น"
+        ],
+        "price_ranges": {
+          "street_vendor": "30-50 THB",
+          "market_stall": "40-60 THB",
+          "restaurant": "60-100 THB"
+        }
+      },
+      "translated_at": "2026-03-14T00:00:00.000Z"
+    },
+    "ja": {
+      "enhanced_description": "ボートヌードルは、中央タイの心を温める愛されるスープで、心地よい辛さが特徴です。豚肉または牛肉を使った濃厚な麺スープを、伝統的に小さなポーションで提供します。この中程度のレシピは約30分で準備でき、中央タイ料理の本格的な味を表現します。甘味・酸味・塩味・辛味のバランスが完璧で、米麺と豚肉/牛肉、黒醤油の組み合わせが調和のとれた風味を生み出し、地元の人々と訪問者の双方に愛されています。手頃で本格的なタイ料理を求める人に最適です。",
+      "detailed_ingredients": [
+        {
+          "name": "ライスヌードル",
+          "purpose": "ボートヌードルの本格風味に不可欠",
+          "substitutes": [
+            "新鮮なライスヌードル",
+            "乾燥ライスヌードル",
+            "ライスヌードルペースト"
+          ]
+        },
+        {
+          "name": "豚肉または牛肉",
+          "purpose": "ボートヌードルの本格風味に不可欠",
+          "substitutes": [
+            "新鮮な豚肉または牛肉",
+            "乾燥豚肉または牛肉",
+            "豚肉または牛肉ペースト"
+          ]
+        },
+        {
+          "name": "黒醤油",
+          "purpose": "ボートヌードルの本格風味に不可欠",
+          "substitutes": [
+            "新鮮な黒醤油",
+            "乾燥黒醤油",
+            "黒醤油ペースト"
+          ]
+        },
+        {
+          "name": "中華五香粉",
+          "purpose": "ボートヌードルの本格風味に不可欠",
+          "substitutes": [
+            "新鮮な中華五香粉",
+            "乾燥中華五香粉",
+            "五香粉ペースト"
+          ]
+        }
+      ],
+      "cooking_method": {
+        "technique": "煮込みと風味を重ねる技法",
+        "steps_overview": "ボートヌードルを作るには細部への注意と適切なタイミングが必要です。要点は、各材料の食感を保ちながら、すべての風味のバランスを取ることです。代々伝えられてきた伝統的な手法が、本格的な味を保証します。",
+        "cooking_tips": [
+          "最良の結果のために新鮮なライスヌードルを使用する",
+          "好みに合わせて辛さを調整する",
+          "食感を保つために過剰に煮過ぎない",
+          "提供前に味を確認し、味付けを調整する"
+        ]
+      },
+      "cultural_significance": {
+        "origin_story": "ボートヌードルは長年、中央タイ料理の重要な一品であり、その地域特有の料理伝統と地元の食材を反映しています。",
+        "cultural_importance": "この料理は中央タイ料理の心臓部を象徴し、世界中で有名なタイ料理のバランスと調和を示しています。",
+        "traditional_occasions": [
+          "家族での集まり",
+          "地域の祭り",
+          "屋台市場",
+          "特別な祝い事"
+        ]
+      },
+      "variations": [
+        {
+          "name": "Boat Noodles Classic",
+          "description": "地元の家庭で提供される伝統的なバージョン"
+        },
+        {
+          "name": "Boat Noodles Modern",
+          "description": "プレミアム食材を使った現代風のひねり"
+        },
+        {
+          "name": "Vegetarian Boat Noodles",
+          "description": "豆腐やきのこを使った植物ベースのバージョン"
+        }
+      ],
+      "serving_suggestions": {
+        "traditional_accompaniments": [
+          "ジャスミンライス",
+          "新鮮な野菜",
+          "タイのハーブ"
+        ],
+        "presentation": "伝統的なタイ風のボウルで提供",
+        "eating_etiquette": "タイの習慣に従い、フォークとスプーンで食べる"
+      },
+      "where_to_find": {
+        "best_restaurants": [
+          "Lokale Midden-Thaise restaurants",
+          "Authentieke straatvoedselkraampjes",
+          "Traditionele markten",
+          "Familiegerunde eetgelegenheden"
+        ],
+        "street_food_areas": [
+          "Nachtmarkten",
+          "Ochtendverse markten",
+          "Lokale foodcourts"
+        ],
+        "price_ranges": {
+          "street_vendor": "30-50 THB",
+          "market_stall": "40-60 THB",
+          "restaurant": "60-100 THB"
+        }
+      },
+      "translated_at": "2026-03-14T00:00:00.000Z"
+    }
+  }
+}

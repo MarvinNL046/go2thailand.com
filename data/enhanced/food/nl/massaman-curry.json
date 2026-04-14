@@ -1,0 +1,945 @@
+{
+  "id": 7,
+  "slug": "massaman-curry",
+  "name": {
+    "en": "Massaman Curry",
+    "nl": "Massaman Curry",
+    "thai": "แกงมัสมั่น"
+  },
+  "category": "curry",
+  "region": "zuidelijk",
+  "spice_level": "middel",
+  "description": {
+    "en": "Rich and mild curry with Persian influences containing potatoes and peanuts",
+    "nl": "Rijke en milde curry met Perzische invloeden met aardappelen en pinda's"
+  },
+  "ingredients": [
+    "massamanpasta",
+    "kokosmelk",
+    "rundvlees",
+    "aardappelen",
+    "pinda's",
+    "tamarinde"
+  ],
+  "allergens": [
+    "noten"
+  ],
+  "dietary": [],
+  "image": "/images/food/massaman-curry.webp",
+  "preparation_time": "45 minuten",
+  "difficulty": "middel",
+  "price_range": "middenklasse",
+  "seo": {
+    "metaTitle": {
+      "en": "Massaman Curry Recipe | Authentic Thai curry",
+      "nl": "Massaman Curry Recept | Authentieke Thaise curry"
+    },
+    "metaDescription": {
+      "en": "Learn about Massaman Curry (แกงมัสมั่น) - Rich and mild curry with Persian influences containing potatoes and peanuts...",
+      "nl": "Leer over Massaman Curry (แกงมัสมั่น) - Rijke en milde curry met Perzische invloeden met aardappelen en pinda's..."
+    }
+  },
+  "tags": [
+    "thais-voedsel",
+    "thailand",
+    "curry",
+    "zuidelijk",
+    "middel",
+    "middel",
+    "middenklasse",
+    "massaman-pasta",
+    "kokosmelk",
+    "rundvlees"
+  ],
+  "cooking": {
+    "preparation_time": "45 minuten",
+    "difficulty": "middel",
+    "spice_level": "middel",
+    "serves": "2-4 personen"
+  },
+  "nutrition": {
+    "allergens": [
+      "noten"
+    ],
+    "dietary": [],
+    "price_range": "middenklasse"
+  },
+  "enhanced_description": "Massaman Curry is de meest complexe curry van Thailand, een prachtige fusie van Thaise en Indisch-Perzische smaken die het verhaal vertelt van oude handelsroutes. Deze rijke, milde curry combineert verwarmende specerijen als kardemom en kaneel met Thaise ingrediënten, wat een gerecht oplevert dat zowel exotisch als troostrijk is. CNN noemde het ooit het lekkerste gerecht ter wereld, en één hap verklaart waarom.",
+  "detailed_ingredients": [
+    {
+      "name": "Massaman Curry Paste",
+      "purpose": "Complex kruidenmengsel met ongebruikelijke Thaise ingrediënten zoals nootmuskaat",
+      "substitutes": [
+        "Kant-en-klaar (merk Maesri aanbevolen)",
+        "Indiase garam masala met Thaise elementen"
+      ]
+    },
+    {
+      "name": "Whole Spices",
+      "purpose": "Kardemom, kaneel, steranijs voegen Perzische invloed toe",
+      "substitutes": [
+        "Gemalen versies (minder aromatisch)",
+        "Chinees vijfkruidenpoeder"
+      ]
+    },
+    {
+      "name": "Tamarind Paste",
+      "purpose": "Zorgt voor de pittig-zoete smaak die kenmerkend is voor het gerecht",
+      "substitutes": [
+        "Limoensap met palmsuiker",
+        "Worcestershiresaus"
+      ]
+    },
+    {
+      "name": "Peanuts",
+      "purpose": "Voegt textuur en nootachtige rijkheid toe",
+      "substitutes": [
+        "Cashewnoten",
+        "Amandelen",
+        "Weglaten bij allergie"
+      ]
+    }
+  ],
+  "cooking_method": {
+    "technique": "Langzaam stoven en specerijen roosteren",
+    "steps_overview": "Massaman vereist geduld — het is een langzaam gekookte curry waarbij taai vlees mals wordt en specerijen versmelten tot een complexe harmonie. Hele specerijen worden geroosterd, pasta wordt gebakken, en alles suddert zachtjes urenlang.",
+    "cooking_tips": [
+      "Rooster hele specerijen voordat je ze toevoegt om oliën vrij te maken",
+      "Gebruik taaie stukken rundvlees — ze worden ongelooflijk mals",
+      "Kook laag en langzaam — haasten verpest het",
+      "Balanceer zoet, zuur en zout gedurende het hele kookproces",
+      "Laat het een nacht rusten — nog lekkerder de volgende dag"
+    ]
+  },
+  "cultural_significance": {
+    "origin_story": "Kwam in de 17e eeuw naar Thailand via Perzisch-Indiase moslimhandelaren. De naam komt van 'Mussulman', een archaïsche term voor moslims. Thaise paleiskoks pasten het aan met lokale ingrediënten.",
+    "cultural_importance": "Massaman vertegenwoordigt de openheid van Thailand voor buitenlandse invloeden terwijl de Thaise identiteit behouden blijft. Het wordt geserveerd bij diplomatieke diners en vertegenwoordigt de culinaire verfijning van Thailand.",
+    "traditional_occasions": [
+      "Eid-vieringen in Zuid-Thailand",
+      "Koninklijke banketten",
+      "Bruiloftsfeesten",
+      "Belangrijke zakelijke diners"
+    ]
+  },
+  "variations": [
+    {
+      "name": "Massaman Nuea",
+      "description": "Rundvleesversie — de meest traditionele en populaire"
+    },
+    {
+      "name": "Massaman Gai",
+      "description": "Kipversie — sneller klaar voor dagelijkse maaltijden"
+    },
+    {
+      "name": "Massaman Lamb",
+      "description": "Luxueuze versie populair in upscale restaurants"
+    }
+  ],
+  "serving_suggestions": {
+    "traditional_accompaniments": [
+      "Jasmijnrijst",
+      "Verse groenten"
+    ],
+    "presentation": "Warm geserveerd in traditionele Thaise stijl",
+    "eating_etiquette": "Gegeten met vork en lepel"
+  },
+  "nutritional_info": {
+    "calories_per_serving": "Verschilt per bereiding",
+    "health_benefits": [
+      "Rijk aan Thaise kruiden en specerijen",
+      "Gebalanceerde smaken"
+    ],
+    "dietary_notes": [
+      "Bevat traditionele Thaise ingrediënten"
+    ]
+  },
+  "where_to_find": {
+    "best_restaurants": [
+      "Nahm (Bangkok) — Michelinster-perfectie",
+      "Blue Elephant (Bangkok) — Koninklijke Thaise keuken",
+      "Moslimrestaurants aan Charoen Krung Road"
+    ],
+    "street_food_areas": [
+      "Zelden als straatvoedsel vanwege de lange bereidingstijd",
+      "Enkele verkopers op Or Tor Kor Market",
+      "Moslim-voedselcentra in Bangkok"
+    ],
+    "price_ranges": {
+      "street_food": "80-120 THB (€2,21-€3,31) wanneer beschikbaar",
+      "restaurant": "200-400 THB (€5,52-€11,04)",
+      "upscale": "500-1200 THB (€13,80-€33,12)"
+    }
+  },
+  "enhanced_at": "2025-05-25T21:52:21.686Z",
+  "translations": {
+    "nl": {
+      "enhanced_description": "Massaman Curry is de meest complexe curry van Thailand, een prachtige fusie van Thaise en Indisch-Perzische smaken die het verhaal vertelt van oude handelsroutes. Deze rijke, milde curry combineert verwarmende specerijen als kardemom en kaneel met Thaise ingrediënten, wat een gerecht oplevert dat zowel exotisch als troostrijk is. CNN noemde het ooit het lekkerste gerecht ter wereld, en één hap verklaart waarom.",
+      "detailed_ingredients": [
+        {
+          "name": "Massaman currypasta",
+          "purpose": "Complex kruidenmengsel met ongebruikelijke Thaise ingrediënten zoals nootmuskaat",
+          "substitutes": [
+            "Kant-en-klaar (merk Maesri aanbevolen)",
+            "Indiase garam masala met Thaise elementen"
+          ]
+        },
+        {
+          "name": "Hele specerijen",
+          "purpose": "Kardemom, kaneel, steranijs voegen Perzische invloed toe",
+          "substitutes": [
+            "Gemalen versies (minder aromatisch)",
+            "Chinees vijfkruidenpoeder"
+          ]
+        },
+        {
+          "name": "Tamarindepasta",
+          "purpose": "Zorgt voor de pittig-zoete smaak die kenmerkend is voor het gerecht",
+          "substitutes": [
+            "Limoensap met palmsuiker",
+            "Worcestershiresaus"
+          ]
+        },
+        {
+          "name": "Pinda's",
+          "purpose": "Voegt textuur en nootachtige rijkheid toe",
+          "substitutes": [
+            "Cashewnoten",
+            "Amandelen",
+            "Weglaten bij allergie"
+          ]
+        }
+      ],
+      "cooking_method": {
+        "technique": "Langzaam stoven en specerijen roosteren",
+        "steps_overview": "Massaman vereist geduld — het is een langzaam gekookte curry waarbij taai vlees mals wordt en specerijen versmelten tot een complexe harmonie. Hele specerijen worden geroosterd, pasta wordt gebakken, en alles suddert zachtjes urenlang.",
+        "cooking_tips": [
+          "Rooster hele specerijen voordat je ze toevoegt om oliën vrij te maken",
+          "Gebruik taaie stukken rundvlees — ze worden ongelooflijk mals",
+          "Kook laag en langzaam — haasten verpest het",
+          "Balanceer zoet, zuur en zout gedurende het hele kookproces",
+          "Laat het een nacht rusten — nog lekkerder de volgende dag"
+        ]
+      },
+      "cultural_significance": {
+        "origin_story": "Kwam in de 17e eeuw naar Thailand via Perzisch-Indiase moslimhandelaren. De naam komt van 'Mussulman', een archaïsche term voor moslims. Thaise paleiskoks pasten het aan met lokale ingrediënten.",
+        "cultural_importance": "Massaman vertegenwoordigt de openheid van Thailand voor buitenlandse invloeden terwijl de Thaise identiteit behouden blijft. Het wordt geserveerd bij diplomatieke diners en vertegenwoordigt de culinaire verfijning van Thailand.",
+        "traditional_occasions": [
+          "Eid-vieringen in Zuid-Thailand",
+          "Koninklijke banketten",
+          "Bruiloftsfeesten",
+          "Belangrijke zakelijke diners"
+        ]
+      },
+      "variations": [
+        {
+          "name": "Massaman Nuea",
+          "description": "Rundvleesversie — de meest traditionele en populaire"
+        },
+        {
+          "name": "Massaman Gai",
+          "description": "Kipversie — sneller klaar voor dagelijkse maaltijden"
+        },
+        {
+          "name": "Massaman Lam",
+          "description": "Luxueuze versie populair in upscale restaurants"
+        }
+      ],
+      "serving_suggestions": {
+        "traditional_accompaniments": [
+          "Jasmijnrijst",
+          "Verse groenten"
+        ],
+        "presentation": "Warm geserveerd in traditionele Thaise stijl",
+        "eating_etiquette": "Gegeten met vork en lepel"
+      },
+      "where_to_find": {
+        "best_restaurants": [
+          "Nahm (Bangkok) — Michelinster-perfectie",
+          "Blue Elephant (Bangkok) — Koninklijke Thaise keuken",
+          "Moslimrestaurants aan Charoen Krung Road"
+        ],
+        "street_food_areas": [
+          "Zelden als straatvoedsel vanwege de lange bereidingstijd",
+          "Enkele verkopers op Or Tor Kor Market",
+          "Moslim-voedselcentra in Bangkok"
+        ]
+      },
+      "translated_at": "2026-03-10T00:00:00.000Z"
+    },
+    "fr": {
+      "enhanced_description": "Massaman Curry is de meest complexe curry van Thailand, een prachtige fusie van Thaise en Indisch-Perzische smaken die het verhaal vertelt van oude handelsroutes. Deze rijke, milde curry combineert verwarmende specerijen als kardemom en kaneel met Thaise ingrediënten, wat een gerecht oplevert dat zowel exotisch als troostrijk is. CNN noemde het ooit het lekkerste gerecht ter wereld, en één hap verklaart waarom.",
+      "detailed_ingredients": [
+        {
+          "name": "Pâte de curry Massaman",
+          "purpose": "Complex kruidenmengsel met ongebruikelijke Thaise ingrediënten zoals nootmuskaat",
+          "substitutes": [
+            "Kant-en-klaar (merk Maesri aanbevolen)",
+            "Indiase garam masala met Thaise elementen"
+          ]
+        },
+        {
+          "name": "Épices entières",
+          "purpose": "Kardemom, kaneel, steranijs voegen Perzische invloed toe",
+          "substitutes": [
+            "Gemalen versies (minder aromatisch)",
+            "Chinees vijfkruidenpoeder"
+          ]
+        },
+        {
+          "name": "Pâte de tamarin",
+          "purpose": "Zorgt voor de pittig-zoete smaak die kenmerkend is voor het gerecht",
+          "substitutes": [
+            "Limoensap met palmsuiker",
+            "Worcestershiresaus"
+          ]
+        },
+        {
+          "name": "Cacahuètes",
+          "purpose": "Voegt textuur en nootachtige rijkheid toe",
+          "substitutes": [
+            "Cashewnoten",
+            "Amandelen",
+            "Weglaten bij allergie"
+          ]
+        }
+      ],
+      "cooking_method": {
+        "technique": "Langzaam stoven en specerijen roosteren",
+        "steps_overview": "Massaman vereist geduld — het is een langzaam gekookte curry waarbij taai vlees mals wordt en specerijen versmelten tot een complexe harmonie. Hele specerijen worden geroosterd, pasta wordt gebakken, en alles suddert zachtjes urenlang.",
+        "cooking_tips": [
+          "Rooster hele specerijen voordat je ze toevoegt om oliën vrij te maken",
+          "Gebruik taaie stukken rundvlees — ze worden ongelooflijk mals",
+          "Kook laag en langzaam — haasten verpest het",
+          "Balanceer zoet, zuur en zout gedurende het hele kookproces",
+          "Laat het een nacht rusten — nog lekkerder de volgende dag"
+        ]
+      },
+      "cultural_significance": {
+        "origin_story": "Kwam in de 17e eeuw naar Thailand via Perzisch-Indiase moslimhandelaren. De naam komt van 'Mussulman', een archaïsche term voor moslims. Thaise paleiskoks pasten het aan met lokale ingrediënten.",
+        "cultural_importance": "Massaman vertegenwoordigt de openheid van Thailand voor buitenlandse invloeden terwijl de Thaise identiteit behouden blijft. Het wordt geserveerd bij diplomatieke diners en vertegenwoordigt de culinaire verfijning van Thailand.",
+        "traditional_occasions": [
+          "Eid-vieringen in Zuid-Thailand",
+          "Koninklijke banketten",
+          "Bruiloftsfeesten",
+          "Belangrijke zakelijke diners"
+        ]
+      },
+      "variations": [
+        {
+          "name": "Massaman Nuea",
+          "description": "Rundvleesversie — de meest traditionele en populaire"
+        },
+        {
+          "name": "Massaman Gai",
+          "description": "Kipversie — sneller klaar voor dagelijkse maaltijden"
+        },
+        {
+          "name": "Massaman à l'agneau",
+          "description": "Luxueuze versie populair in upscale restaurants"
+        }
+      ],
+      "serving_suggestions": {
+        "traditional_accompaniments": [
+          "Jasmijnrijst",
+          "Verse groenten"
+        ],
+        "presentation": "Warm geserveerd in traditionele Thaise stijl",
+        "eating_etiquette": "Gegeten met vork en lepel"
+      },
+      "where_to_find": {
+        "best_restaurants": [
+          "Nahm (Bangkok) — Michelin-sterrenperfectie",
+          "Blue Elephant (Bangkok) — Koninklijke Thaise keuken",
+          "Moslimrestaurants op Charoen Krung Road"
+        ],
+        "street_food_areas": [
+          "Zelden te vinden in straatkoken vanwege de lange kooktijd",
+          "Enkele verkopers op Or Tor Kor Market",
+          "Moslimrestaurants in Bangkok"
+        ]
+      },
+      "translated_at": "2026-03-10T00:00:00.000Z"
+    },
+    "de": {
+      "enhanced_description": "Massaman Curry is de meest complexe curry van Thailand — een prachtige fusie van Thaise en Indiaas-Perzische smaken die het verhaal vertelt van oude handelsroutes. Deze rijke, milde curry combineert verwarmende specerijen zoals kardemom en kaneel met Thaise ingrediënten en creëert een gerecht dat tegelijk exotisch en troostend is. CNN koos het ooit uit als het lekkerste gerecht ter wereld, en één hap verklaart waarom.",
+      "detailed_ingredients": [
+        {
+          "name": "Massaman Currypaste",
+          "purpose": "Complexe specerijenmix met ongebruikelijke Thaise ingrediënten zoals nootmuskaat",
+          "substitutes": [
+            "Kant-en-klaar product (merk Maesri aanbevolen)",
+            "Indiase garam masala met Thaise elementen"
+          ]
+        },
+        {
+          "name": "Ganze Gewürze",
+          "purpose": "Kardemom, kaneel en steranijs geven de Perzische invloed",
+          "substitutes": [
+            "Gemalen versies (minder aromatisch)",
+            "Chinees vijfkruidenpoeder"
+          ]
+        },
+        {
+          "name": "Tamarindenpaste",
+          "purpose": "Geeft de zure zoetheid die kenmerkend is voor het gerecht",
+          "substitutes": [
+            "Limoensap met palmsuiker",
+            "Worcestersaus"
+          ]
+        },
+        {
+          "name": "Erdnüsse",
+          "purpose": "Geeft textuur en nootachtige rijkdom",
+          "substitutes": [
+            "Cashewnoten",
+            "Amandelen",
+            "Bij allergie weglaten"
+          ]
+        }
+      ],
+      "cooking_method": {
+        "technique": "Langzaam stoven en specerijen roosteren",
+        "steps_overview": "Massaman vereist geduld — het is een langzaam gekookte curry waarbij taai vlees mals wordt en specerijen samensmelten tot een complexe harmonie. Gehele specerijen worden geroosterd, de pasta wordt aangebraden en alles suddert zachtjes urenlang.",
+        "cooking_tips": [
+          "Rooster hele specerijen voor het toevoegen om de oliën vrij te maken",
+          "Gebruik taaie stukken rundvlees — ze worden ongelooflijk mals",
+          "Kook langzaam op laag vuur — haast bederft alles",
+          "Balans zoet, zuur en zout tijdens het hele kookproces",
+          "Laat een nacht rusten — de volgende dag nog beter"
+        ]
+      },
+      "cultural_significance": {
+        "origin_story": "Kwam in de 17e eeuw naar Thailand via Perzisch-Indiase moslimhandelaren. De naam komt van 'Mussulman', een archaïsch woord voor moslims. Thaise paleiskoks pasten het aan met lokale ingrediënten.",
+        "cultural_importance": "Massaman vertegenwoordigt Thailands openheid voor buitenlandse invloeden terwijl de Thaise identiteit behouden blijft. Het wordt geserveerd bij diplomatieke diners en staat voor de culinaire verfijning van Thailand.",
+        "traditional_occasions": [
+          "Eid-vieringen in Zuid-Thailand",
+          "Koninklijke banketten",
+          "Huwelijksfeesten",
+          "Belangrijke zaken diners"
+        ]
+      },
+      "variations": [
+        {
+          "name": "Massaman Nuea",
+          "description": "Rundvleesversie — de meest traditionele en populairste"
+        },
+        {
+          "name": "Massaman Gai",
+          "description": "Kipversie — sneller bereid voor dagelijkse maaltijden"
+        },
+        {
+          "name": "Massaman Lamm",
+          "description": "Luxe versie, populair in chique restaurants"
+        }
+      ],
+      "serving_suggestions": {
+        "traditional_accompaniments": [
+          "Jasmijnrijst",
+          "Verse groenten"
+        ],
+        "presentation": "Warm geserveerd in traditionele Thaise stijl",
+        "eating_etiquette": "Gegeten met vork en lepel"
+      },
+      "where_to_find": {
+        "best_restaurants": [
+          "Nahm (Bangkok) — Michelin-sterrenperfectie",
+          "Blue Elephant (Bangkok) — Koninklijke Thaise keuken",
+          "Moslimrestaurants aan Charoen Krung Road"
+        ],
+        "street_food_areas": [
+          "Zelden als straatrecht vanwege de lange kooktijd",
+          "Enkele verkopers bij Or Tor Kor Market",
+          "Moslimfoodcentra in Bangkok"
+        ]
+      },
+      "translated_at": "2026-03-10T00:00:00.000Z"
+    },
+    "zh": {
+      "enhanced_description": "Massaman Curry is de meest complexe curry van Thailand, een prachtige fusie van Thaise en Indiaas-Perzische smaken die het verhaal vertelt van oude handelsroutes. Deze rijke, milde curry combineert verwarmende specerijen zoals kardemom en kaneel met Thaise ingrediënten en creëert een gerecht dat tegelijk exotisch en troostend is. CNN koos het ooit uit als het lekkerste gerecht ter wereld, en één hap verklaart waarom.",
+      "detailed_ingredients": [
+        {
+          "name": "玛莎曼咖喱酱",
+          "purpose": "Complexe specerijenmix met niet-traditionele Thaise ingrediënten zoals nootmuskaat",
+          "substitutes": [
+            "Kant-en-klaar currysaus (Maesri-merk aanbevolen)",
+            "Indiase garam masala met Thaise elementen"
+          ]
+        },
+        {
+          "name": "整粒香料",
+          "purpose": "Kardemom, kaneel en steranijs geven Perzische smaak",
+          "substitutes": [
+            "Gemalen versie (zwakkere aroma)",
+            "Chinees vijfkruidenpoeder"
+          ]
+        },
+        {
+          "name": "罗望子酱",
+          "purpose": "Geeft de kenmerkende zure zoetheid van dit gerecht",
+          "substitutes": [
+            "Limoensap met palmsuiker",
+            "Worcestersaus"
+          ]
+        },
+        {
+          "name": "花生",
+          "purpose": "Voegt textuur en nootachtige rijkdom toe",
+          "substitutes": [
+            "Cashewnoten",
+            "Amandelen",
+            "Allergiepatiënten kunnen het weglaten"
+          ]
+        }
+      ],
+      "cooking_method": {
+        "technique": "Langzaam stoven en specerijen roosteren",
+        "steps_overview": "Massaman Curry vereist geduld — het is een langzaam gestoofde curry waarbij taai vlees zacht wordt en specerijen samensmelten tot een complexe harmonie. Gehele specerijen worden geroosterd, de currysaus wordt gefrituurd en alle ingrediënten sudderen zachtjes urenlang.",
+        "cooking_tips": [
+          "Rooster hele specerijen voor het toevoegen om essentiële oliën vrij te maken",
+          "Gebruik taaie stukken rundvlees — ze worden extreem mals na stoven",
+          "Stoof op laag vuur — haast verpest het gerecht",
+          "Balans zoet, zuur en zout tijdens het hele kookproces",
+          "Laat een nacht staan — de volgende dag smaakt het beter"
+        ]
+      },
+      "cultural_significance": {
+        "origin_story": "Kwam in de 17e eeuw naar Thailand via Perzisch-Indiase moslimhandelaren. De naam komt van 'Mussulman', een oud woord voor moslims. Thaise paleiskoks verbeterden het met lokale ingrediënten.",
+        "cultural_importance": "Massaman Curry vertegenwoordigt Thailands openheid voor buitenlandse invloeden terwijl de eigen identiteit behouden blijft. Het verschijnt op diplomatieke banketten en vertegenwoordigt de culinaire essentie van Thailand.",
+        "traditional_occasions": [
+          "Eid-vieringen in Zuid-Thailand",
+          "Koninklijke banketten",
+          "Huwelijksbanketten",
+          "Belangrijke zakelijke diners"
+        ]
+      },
+      "variations": [
+        {
+          "name": "Massaman Nuea",
+          "description": "Rundvleesversie — de meest traditionele en populairste"
+        },
+        {
+          "name": "Massaman Gai",
+          "description": "Kipversie — sneller te bereiden voor dagelijkse maaltijden"
+        },
+        {
+          "name": "Massaman羊肉",
+          "description": "Luxe versie, populair in high-end restaurants"
+        }
+      ],
+      "serving_suggestions": {
+        "traditional_accompaniments": [
+          "Jasmijnrijst",
+          "Verse groenten"
+        ],
+        "presentation": "Geserveerd warm in traditionele Thaise stijl",
+        "eating_etiquette": "Genieten met vork en lepel"
+      },
+      "where_to_find": {
+        "best_restaurants": [
+          "Nahm (Bangkok) — Perfecte Michelin-presentatie",
+          "Blue Elephant (Bangkok) — Koninklijke Thaise gerechten",
+          "Moslimrestaurants op Charoen Krung Road"
+        ],
+        "street_food_areas": [
+          "Vanwege de lange kooktijd zelden als straatrecht verkrijgbaar",
+          "Weinig kraampjes op Or Tor Kor Market",
+          "Moslimfoodcentra in Bangkok"
+        ]
+      },
+      "translated_at": "2026-03-11T00:00:00.000Z"
+    },
+    "ru": {
+      "enhanced_description": "Massaman Curry is de meest complexe curry van Thailand, een prachtige fusie van Thaise en Indiaas-Perzische smaken die het verhaal vertelt van oude handelsroutes. Deze rijke, milde curry combineert verwarmende specerijen zoals kardemom en kaneel met Thaise ingrediënten en creëert een gerecht dat tegelijk exotisch en knus is. CNN noemde het ooit het lekkerste gerecht ter wereld, en één hap is genoeg om te begrijpen waarom.",
+      "detailed_ingredients": [
+        {
+          "name": "Паста массаман карри",
+          "purpose": "Complexe specerijenmix inclusief niet-traditionele Thaise ingrediënten zoals nootmuskaat",
+          "substitutes": [
+            "Kant-en-klaar pasta (merk Maesri aanbevolen)",
+            "Indiase garam masala met Thaise elementen"
+          ]
+        },
+        {
+          "name": "Цельные специи",
+          "purpose": "Kardemom, kaneel en steranijs brengen Perzische invloed",
+          "substitutes": [
+            "Gemalen versies (minder aromatisch)",
+            "Chinees vijfkruidenmengsel"
+          ]
+        },
+        {
+          "name": "Паста тамаринда",
+          "purpose": "Geeft de kenmerkende zure zoetheid van dit gerecht",
+          "substitutes": [
+            "Limoensap met palmsuiker",
+            "Worcestersaus"
+          ]
+        },
+        {
+          "name": "Арахис",
+          "purpose": "Voegt textuur en nootachtige verzadiging toe",
+          "substitutes": [
+            "Cashewnoten",
+            "Amandelen",
+            "Weglaten bij allergie"
+          ]
+        }
+      ],
+      "cooking_method": {
+        "technique": "Langzaam stoven en specerijen bakken",
+        "steps_overview": "Massaman vereist geduld — het is een langzaam gestoofde curry waarbij taaie stukken vlees mals worden en specerijen samensmelten tot een complexe harmonie. Gehele specerijen worden gebakken, de pasta wordt aangebraden en alles suddert langzaam enkele uren.",
+        "cooking_tips": [
+          "Bak hele specerijen voor het toevoegen om de oliën vrij te maken",
+          "Gebruik taaie rundvleesstukken — ze worden ongelooflijk mals",
+          "Kook op laag vuur — haast verpest alles",
+          "Balans zoet, zuur en zout gedurende het hele bereidingsproces",
+          "Laat een nacht intrekken — de volgende dag nog lekkerder"
+        ]
+      },
+      "cultural_significance": {
+        "origin_story": "Kwam in de 17e eeuw naar Thailand via Perzisch-Indiase moslimhandelaren. De naam komt van 'mussulman' — een archaïsch woord voor moslims. Thaise hofkoks pasten het aan met lokale ingrediënten.",
+        "cultural_importance": "Massaman belichaamt Thailands openheid voor buitenlandse invloeden bij behoud van de Thaise identiteit. Het wordt geserveerd bij diplomatieke diners en vertegenwoordigt het culinaire vakmanschap van Thailand.",
+        "traditional_occasions": [
+          "Eid-vieringen in Zuid-Thailand",
+          "Koninklijke banketten",
+          "Huwelijksfeesten",
+          "Belangrijke zakelijke diners"
+        ]
+      },
+      "variations": [
+        {
+          "name": "Massaman Nuea",
+          "description": "Rundvleesversie — de meest traditionele en populaire"
+        },
+        {
+          "name": "Massaman Gai",
+          "description": "Kipversie — sneller te bereiden voor alledaagse gerechten"
+        },
+        {
+          "name": "Массаман с бараниной",
+          "description": "Luxe versie, populair in fine dining restaurants"
+        }
+      ],
+      "serving_suggestions": {
+        "traditional_accompaniments": [
+          "Jasmijnrijst",
+          "Verse groenten"
+        ],
+        "presentation": "Geserveerd warm in traditionele Thaise stijl",
+        "eating_etiquette": "Gegeten met vork en lepel"
+      },
+      "where_to_find": {
+        "best_restaurants": [
+          "Nahm (Bangkok) — Michelin-perfectie",
+          "Blue Elephant (Bangkok) — Koninklijke Thaise keuken",
+          "Moslimrestaurants op Charoen Krung Road"
+        ],
+        "street_food_areas": [
+          "Zelden als straatrecht vanwege de lange bereidingstijd",
+          "Enkele handelaren op Or Tor Kor Market",
+          "Moslimfoodcentra in Bangkok"
+        ]
+      },
+      "translated_at": "2026-03-11T00:00:00.000Z"
+    },
+    "ko": {
+      "enhanced_description": "Massaman Curry is de meest complexe curry van Thailand, een majestueuze fusie van Thaise en Indiaas-Perzische smaken die het verhaal vertelt van oude handelsroutes. Kardemom en kaneel zoals warme specerijen combineren met Thaise ingrediënten om een exotisch en comfortabel gerecht te creëren. CNN koos het ooit als 's werelds lekkerste eten, en één hap onthult de reden.",
+      "detailed_ingredients": [
+        {
+          "name": "마사만 커리 페이스트",
+          "purpose": "Complexe specerijenblend met ongebruikelijke Thaise ingrediënten zoals nootmuskaat",
+          "substitutes": [
+            "Kant-en-klaar pasta (Maesri-merk aanbevolen)",
+            "Indiase garam masala met toegevoegde Thaise ingrediënten"
+          ]
+        },
+        {
+          "name": "통향신료 (카다멈, 계피, 팔각)",
+          "purpose": "Warme en geurige specerijen die Perzische invloed toevoegen",
+          "substitutes": [
+            "Poedervorm (minder geurig)",
+            "Chinees vijfkruidenpoeder"
+          ]
+        },
+        {
+          "name": "타마린드 페이스트",
+          "purpose": "Belangrijk ingrediënt dat de kenmerkende zure zoetheid creëert",
+          "substitutes": [
+            "Limoensap + palmsuiker",
+            "Worcestersaus"
+          ]
+        },
+        {
+          "name": "땅콩",
+          "purpose": "Ingrediënt dat textuur en nootachtige smaak toevoegt",
+          "substitutes": [
+            "Cashewnoten",
+            "Amandelen",
+            "Bij allergie weglaten"
+          ]
+        }
+      ],
+      "cooking_method": {
+        "technique": "Langzaam sudderen en specerijen roosteren",
+        "steps_overview": "Massaman Curry vereist geduld — het is een langzaam gekookte curry waarbij taai vlees mals wordt en specerijen een complexe harmonie vormen. Rooster hele specerijen, bak de pasta en laat alles urenlang zachtjes koken.",
+        "cooking_tips": [
+          "Rooster hele specerijen eerst om de oliën vrij te maken",
+          "Gebruik taaie stukken rundvlees — ze worden verbazingwekkend mals",
+          "Kook langzaam op laag vuur — haast bederft de smaak",
+          "Balans zoet, zuur en zout gedurende het hele kookproces",
+          "Laat een nacht rijpen — de volgende dag is het het lekkerst"
+        ]
+      },
+      "cultural_significance": {
+        "origin_story": "Kwam in de 17e eeuw naar Thailand via Perzisch-Indiase moslimhandelaren. De naam 'Massaman' komt van 'Mussulman', een oude term voor moslims. Thaise paleiskoks ontwikkelden het verder met lokale ingrediënten.",
+        "cultural_importance": "Massaman symboliseert Thailands open houding tegenover buitenlandse culturen terwijl de eigen identiteit behouden blijft. Het wordt geserveerd bij diplomatieke diners en vertegenwoordigt de verfijning van de Thaise keuken.",
+        "traditional_occasions": [
+          "Eid-vieringen in Zuid-Thailand",
+          "Koninklijk banket",
+          "Huwelijksfeest",
+          "Belangrijke zakendiners"
+        ]
+      },
+      "variations": [
+        {
+          "name": "마사만 느아 (소고기)",
+          "description": "De meest traditionele en populaire versie met rundvlees."
+        },
+        {
+          "name": "마사만 가이 (닭고기)",
+          "description": "Een lichtere en snellere versie met kip."
+        },
+        {
+          "name": "채식 마사만",
+          "description": "Vegetarische versie met tofu en diverse groenten."
+        }
+      ],
+      "serving_suggestions": {
+        "traditional_accompaniments": [
+          "Jasmijnrijst",
+          "Roti (platbrood)",
+          "Ingelegde groenten"
+        ],
+        "presentation": "Serveren in een kom met rijst in traditionele Thaise stijl",
+        "eating_etiquette": "Eten met vork en lepel met rijst volgens Thaise gewoonten"
+      },
+      "where_to_find": {
+        "best_restaurants": [
+          "Krua apsorn (Bangkok) — Hof-Thaise keuken",
+          "Zuid-Thais moslimrestaurant",
+          "Traditioneel Thais restaurant",
+          "Hotelrestaurant"
+        ],
+        "street_food_areas": [
+          "Foodcourt",
+          "Nachtmarkt",
+          "Eetgelegenheden in moslimwijken"
+        ],
+        "price_ranges": {
+          "street_food": "60-100 THB",
+          "restaurant": "150-300 THB",
+          "upscale": "350-600 THB"
+        }
+      },
+      "translated_at": "2026-03-14T00:00:00.000Z"
+    },
+    "th": {
+      "enhanced_description": "Massaman-curry is een Thaise curry met Perzische invloeden, met een zoet-zoute, ronde smaak die niet erg pittig is. Het bevat aardappelen, pinda's, kaneel en kruidnagel. Het is een curry die wordt geprezen als het lekkerste ter wereld.",
+      "detailed_ingredients": [
+        {
+          "name": "Massaman Curry Paste",
+          "purpose": "Complexe kruidenmix inclusief ongebruikelijke Thaise ingrediënten zoals nootmuskaat",
+          "substitutes": [
+            "Kant-en-klaar (Maesri-merk aanbevolen)",
+            "Indiase garam masala met Thaise elementen"
+          ]
+        },
+        {
+          "name": "Whole Spices",
+          "purpose": "Kardemom, kaneel en steranijs voegen Perzische invloeden toe",
+          "substitutes": [
+            "Gemalen versies (minder aromatisch)",
+            "Chinese vijfkruidenmix"
+          ]
+        },
+        {
+          "name": "Tamarind Paste",
+          "purpose": "Biedt de zure zoetheid die kenmerkend is voor het gerecht",
+          "substitutes": [
+            "Limoensap met palmsuiker",
+            "Worcestersaus"
+          ]
+        },
+        {
+          "name": "Peanuts",
+          "purpose": "Voegt textuur en nootachtige rijkdom toe",
+          "substitutes": [
+            "Cashewnoten",
+            "Amandelen",
+            "Overslaan bij allergieën"
+          ]
+        }
+      ],
+      "cooking_method": {
+        "technique": "Langzaam stoven en kruiden roosteren",
+        "steps_overview": "Massaman vereist geduld - het is een langzaam gekookte curry waarbij taaie stukken vlees mals worden en de kruiden samensmelten tot een complexe harmonie. Gehele kruiden worden geroosterd, de pasta wordt gebakken en alles suddert zachtjes urenlang.",
+        "cooking_tips": [
+          "Rooster hele kruiden voordat je ze toevoegt om de oliën vrij te maken",
+          "Gebruik taaie stukken rundvlees - ze worden ongelooflijk mals",
+          "Kook laag en langzaam - haasten verpest het",
+          "Balans zoet, zuur en zout gedurende het koken",
+          "Laat het een nacht rusten - nog beter de volgende dag"
+        ]
+      },
+      "cultural_significance": {
+        "origin_story": "Massaman-curry werd beïnvloed door Perzische en moslimhandelaren die in de Ayutthaya-periode handelden. Het combineert Midden-Oosterse kruiden met Thaise ingrediënten en is bewijs van culturele uitwisseling in de Thaise keuken.",
+        "cultural_importance": "Massaman vertegenwoordigt de openheid van Thailand voor buitenlandse invloeden terwijl de Thaise identiteit behouden blijft. Het wordt geserveerd bij diplomatieke diners en symboliseert de verfijning van de Thaise keuken.",
+        "traditional_occasions": [
+          "Eid-vieringen in Zuid-Thailand",
+          "Koninklijke banketten",
+          "Huwelijksfeesten",
+          "Belangrijke zakendiners"
+        ]
+      },
+      "variations": [
+        {
+          "name": "Massaman Nuea",
+          "description": "Rundvleesversie - de meest traditionele en populaire"
+        },
+        {
+          "name": "Massaman Gai",
+          "description": "Kipversie - snellere bereiding voor alledaagse maaltijden"
+        },
+        {
+          "name": "Massaman Lamb",
+          "description": "Luxe versie populair in upscale restaurants"
+        }
+      ],
+      "serving_suggestions": {
+        "traditional_accompaniments": [
+          "Jasmijnrijst",
+          "Verse groenten"
+        ],
+        "presentation": "Serveren warm in traditionele Thaise stijl",
+        "eating_etiquette": "Eten met vork en lepel"
+      },
+      "where_to_find": {
+        "best_restaurants": [
+          "Nahm (Bangkok) - Michelin-ster perfectie",
+          "Blue Elephant (Bangkok) - Koninklijke Thaise keuken",
+          "Moslimrestaurants op Charoen Krung Road"
+        ],
+        "street_food_areas": [
+          "Zelden te vinden als straatrecht vanwege lange kooktijd",
+          "Sommige verkopers op Or Tor Kor Market",
+          "Moslim-voedselcentra in Bangkok"
+        ],
+        "price_ranges": {
+          "street_food": "80-120 THB (€2,20-€3,30) indien beschikbaar",
+          "restaurant": "200-400 THB (€6-€12)",
+          "upscale": "500-1200 THB (€15-€36)"
+        }
+      },
+      "translated_at": "2026-03-14T00:00:00.000Z"
+    },
+    "ja": {
+      "enhanced_description": "Massaman Curry is de meest complexe curry in Thailand, waarbij Thaise en Indiaas-Perzische smaken prachtig versmelten. Het werd in de 17e eeuw via Perzisch-Indiase moslimhandelaren naar Thailand gebracht en de naam komt van het oude woord 'Mussulman' voor moslims. Thaise hofkoks pasten het aan met lokale ingrediënten. Deze rijke curry combineert verwarmende kruiden zoals kardemom en kaneel met Thaise ingrediënten voor een exotisch maar aangenaam gerecht. CNN noemde het ooit het lekkerste gerecht ter wereld en de aantrekkingskracht is direct begrijpelijk.",
+      "detailed_ingredients": [
+        {
+          "name": "Massaman Curry Paste",
+          "purpose": "Complexe kruidenmix inclusief zeldzame Thaise ingrediënten (zoals nootmuskaat)",
+          "substitutes": [
+            "Kant-en-klaar (Maesri-merk aanbevolen)",
+            "Indiase garam masala met Thaise elementen"
+          ]
+        },
+        {
+          "name": "Whole Spices",
+          "purpose": "Kardemom, kaneel en steranijs toevoegen voor Perzische invloed",
+          "substitutes": [
+            "Poedervorm (minder geurig)",
+            "Chinese vijfkruidenpoeder"
+          ]
+        },
+        {
+          "name": "Tamarind Paste",
+          "purpose": "Biedt de kenmerkende zure zoetheid van het gerecht",
+          "substitutes": [
+            "Limoensap en palmsuiker",
+            "Worcestersaus"
+          ]
+        },
+        {
+          "name": "Peanuts",
+          "purpose": "Voegt textuur en nootachtige smaak toe",
+          "substitutes": [
+            "Cashewnoten",
+            "Amandelen",
+            "Overslaan bij allergieën"
+          ]
+        }
+      ],
+      "cooking_method": {
+        "technique": "Langzaam stoven en kruiden roosteren",
+        "steps_overview": "Massaman vereist geduld. Het is een langzaam gekookte curry waarbij taaie stukken vlees mals worden en kruiden samensmelten tot een complexe harmonie. Hele kruiden worden geroosterd, de pasta gebakken en alles urenlang zachtjes gesudderd.",
+        "cooking_tips": [
+          "Rooster hele kruiden voor het toevoegen om aroma vrij te maken",
+          "Gebruik taaie stukken rundvlees - ze worden heel mals door stoven",
+          "Kook laag en langzaam. Haasten verpest het.",
+          "Houd tijdens het koken balans tussen zoet, zuur en zout",
+          "Laat een nacht rusten voor nog betere smaak"
+        ]
+      },
+      "cultural_significance": {
+        "origin_story": "In de 17e eeuw gebracht naar Thailand door Perzisch-Indiase moslimhandelaren. Naam komt van 'Mussulman', oud woord voor moslims. Thaise hofkoks pasten het aan met lokale ingrediënten.",
+        "cultural_importance": "Massaman symboliseert Thailand's openheid voor buitenlandse invloeden terwijl de eigen identiteit behouden blijft. Het wordt geserveerd bij diplomatieke diners en belichaamt de geavanceerde technieken van de Thaise keuken.",
+        "traditional_occasions": [
+          "Eid-vieringen in Zuid-Thailand",
+          "Koninklijke banketten",
+          "Huwelijksfeesten",
+          "Belangrijke zakendiners"
+        ]
+      },
+      "variations": [
+        {
+          "name": "Massaman Nuea",
+          "description": "Rundvleesversie. De meest traditionele en populaire versie."
+        },
+        {
+          "name": "Massaman Gai",
+          "description": "Kipversie - geschikt voor alledaagse maaltijden door kortere bereidingstijd"
+        },
+        {
+          "name": "Massaman Lamb",
+          "description": "Luxe versie. Populair in high-end restaurants."
+        }
+      ],
+      "serving_suggestions": {
+        "traditional_accompaniments": [
+          "Jasmijnrijst",
+          "Verse groenten"
+        ],
+        "presentation": "Serveren warm in traditionele Thaise stijl",
+        "eating_etiquette": "Eten met vork en lepel"
+      },
+      "where_to_find": {
+        "best_restaurants": [
+          "Nahm (Bangkok) - Michelin-ster topkwaliteit",
+          "Blue Elephant (Bangkok) - Koninklijke Thaise keuken",
+          "Moslimrestaurants op Charoen Krung Road"
+        ],
+        "street_food_areas": [
+          "Vanwege de lange kooktijd zelden te vinden bij straatkramen",
+          "Sommige kraampjes op Or Tor Kor Market",
+          "Moslim-voedselcentra in Bangkok"
+        ],
+        "price_ranges": {
+          "street_food": "Indien beschikbaar, prijzen bij kraampjes 80-120 THB (ca. €2,20-€3,30)",
+          "restaurant": "200-400 THB (ca. €6-€12)",
+          "upscale": "500-1200 THB (ca. €15-€36)"
+        }
+      },
+      "translated_at": "2026-03-14T00:00:00.000Z"
+    }
+  }
+}

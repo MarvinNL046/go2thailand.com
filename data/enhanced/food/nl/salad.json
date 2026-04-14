@@ -1,0 +1,401 @@
+[
+  {
+    "id": 2,
+    "slug": "som-tam",
+    "name": {
+      "en": "Som Tam",
+      "nl": "Som Tam",
+      "thai": "ส้มตำ"
+    },
+    "category": "salade",
+    "region": "noordoostelijk",
+    "spice_level": "medium",
+    "description": {
+      "en": "Spicy green papaya salad with tomatoes lime juice fish sauce and peanuts",
+      "nl": "Pittige groene papajasalade met tomaten limoensap vissaus en pinda's"
+    },
+    "ingredients": [
+      "groene papaja",
+      "tomaten",
+      "limoensap",
+      "vissaus",
+      "pinda's",
+      "chili"
+    ],
+    "allergens": [
+      "noten"
+    ],
+    "dietary": [
+      "vegetarische optie"
+    ],
+    "image": "/images/food/som-tam.webp",
+    "preparation_time": "10 minuten",
+    "difficulty": "makkelijk",
+    "price_range": "budget",
+    "seo": {
+      "metaTitle": {
+        "en": "Som Tam Recipe | Authentic Thai salad",
+        "nl": "Som Tam Recept | Authentieke Thaise salad"
+      },
+      "metaDescription": {
+        "en": "Learn about Som Tam (ส้มตำ) - Spicy green papaya salad with tomatoes lime juice fish sauce and peanuts...",
+        "nl": "Leer over Som Tam (ส้มตำ) - Pittige groene papajasalade met tomaten limoensap vissaus en pinda's..."
+      }
+    },
+    "tags": [
+      "thais-eten",
+      "Thailand",
+      "salade",
+      "noordoostelijk",
+      "medium",
+      "makkelijk",
+      "budget",
+      "groene-papaja",
+      "tomaten",
+      "limoensap"
+    ],
+    "cooking": {
+      "preparation_time": "10 minuten",
+      "difficulty": "makkelijk",
+      "spice_level": "medium",
+      "serves": "2-4 personen"
+    },
+    "nutrition": {
+      "allergens": [
+        "noten"
+      ],
+      "dietary": [
+        "vegetarische optie"
+      ],
+      "price_range": "budget"
+    }
+  },
+  {
+    "id": 8,
+    "slug": "larb",
+    "name": {
+      "en": "Larb",
+      "nl": "Larb",
+      "thai": "ลาบ"
+    },
+    "category": "salade",
+    "region": "noordoostelijk",
+    "spice_level": "pittig",
+    "description": {
+      "en": "Spicy meat salad with herbs lime juice and toasted rice powder",
+      "nl": "Pittige vleessalade met kruiden limoensap en geroosterd rijstpoeder"
+    },
+    "ingredients": [
+      "gehakt varkensvlees",
+      "munt",
+      "koriander",
+      "limoensap",
+      "vissaus",
+      "chili",
+      "geroosterde rijst"
+    ],
+    "allergens": [],
+    "dietary": [],
+    "image": "/images/food/larb.webp",
+    "preparation_time": "15 minuten",
+    "difficulty": "makkelijk",
+    "price_range": "budget",
+    "seo": {
+      "metaTitle": {
+        "en": "Larb Recipe | Authentic Thai salad",
+        "nl": "Larb Recept | Authentieke Thaise salad"
+      },
+      "metaDescription": {
+        "en": "Learn about Larb (ลาบ) - Spicy meat salad with herbs lime juice and toasted rice powder...",
+        "nl": "Leer over Larb (ลาบ) - Pittige vleessalade met kruiden limoensap en geroosterd rijstpoeder..."
+      }
+    },
+    "tags": [
+      "thais-eten",
+      "Thailand",
+      "salade",
+      "noordoostelijk",
+      "pittig",
+      "makkelijk",
+      "budget",
+      "gehakt-varkensvlees",
+      "munt",
+      "koriander"
+    ],
+    "cooking": {
+      "preparation_time": "15 minuten",
+      "difficulty": "makkelijk",
+      "spice_level": "pittig",
+      "serves": "2-4 personen"
+    },
+    "nutrition": {
+      "allergens": [],
+      "dietary": [],
+      "price_range": "budget"
+    }
+  },
+  {
+    "id": 24,
+    "slug": "yam-woon-sen",
+    "name": {
+      "en": "Yam Woon Sen",
+      "nl": "Yam Woon Sen",
+      "thai": "ยำวุ้นเส้น"
+    },
+    "category": "salade",
+    "region": "centraal",
+    "spice_level": "medium",
+    "description": {
+      "en": "Glass noodle salad with shrimp and ground pork",
+      "nl": "Glasnoedelsalade met garnalen en varkensgehakt"
+    },
+    "ingredients": [
+      "glasnoedels",
+      "garnalen",
+      "gemalen varkensvlees",
+      "tomaten",
+      "ui",
+      "koriander",
+      "limoensap"
+    ],
+    "allergens": [
+      "zeevruchten"
+    ],
+    "dietary": [],
+    "image": "/images/food/yam-woon-sen.webp",
+    "preparation_time": "20 minuten",
+    "difficulty": "makkelijk",
+    "price_range": "budget",
+    "seo": {
+      "metaTitle": {
+        "en": "Yam Woon Sen Recipe | Authentic Thai salad",
+        "nl": "Yam Woon Sen Recept | Authentieke Thaise salad"
+      },
+      "metaDescription": {
+        "en": "Learn about Yam Woon Sen (ยำวุ้นเส้น) - Glass noodle salad with shrimp and ground pork...",
+        "nl": "Leer over Yam Woon Sen (ยำวุ้นเส้น) - Glasnoedelsalade met garnalen en varkensgehakt..."
+      }
+    },
+    "tags": [
+      "thais-eten",
+      "Thailand",
+      "salade",
+      "centraal",
+      "medium",
+      "makkelijk",
+      "budget",
+      "glasnoedels",
+      "garnalen",
+      "gemalen-varkensvlees"
+    ],
+    "cooking": {
+      "preparation_time": "20 minuten",
+      "difficulty": "makkelijk",
+      "spice_level": "medium",
+      "serves": "2-4 personen"
+    },
+    "nutrition": {
+      "allergens": [
+        "zeevruchten"
+      ],
+      "dietary": [],
+      "price_range": "budget"
+    }
+  },
+  {
+    "id": 32,
+    "slug": "khao-yam",
+    "name": {
+      "en": "Khao Yam",
+      "nl": "Khao Yam",
+      "thai": "ข้าวยำ"
+    },
+    "category": "salade",
+    "region": "zuidelijk",
+    "spice_level": "mild",
+    "description": {
+      "en": "Southern Thai rice salad with herbs and coconut",
+      "nl": "Zuidelijke Thaise rijstsalade met kruiden en kokos"
+    },
+    "ingredients": [
+      "rijst",
+      "kokos",
+      "kruiden",
+      "gedroogde garnalen",
+      "vissaus",
+      "limoen"
+    ],
+    "allergens": [
+      "zeevruchten"
+    ],
+    "dietary": [],
+    "image": "/images/food/khao-yam.webp",
+    "preparation_time": "30 minuten",
+    "difficulty": "medium",
+    "price_range": "budget",
+    "seo": {
+      "metaTitle": {
+        "en": "Khao Yam Recipe | Authentic Thai salad",
+        "nl": "Khao Yam Recept | Authentieke Thaise salad"
+      },
+      "metaDescription": {
+        "en": "Learn about Khao Yam (ข้าวยำ) - Southern Thai rice salad with herbs and coconut...",
+        "nl": "Leer over Khao Yam (ข้าวยำ) - Zuidelijke Thaise rijstsalade met kruiden en kokos..."
+      }
+    },
+    "tags": [
+      "thais-eten",
+      "Thailand",
+      "salade",
+      "zuidelijk",
+      "mild",
+      "medium",
+      "budget",
+      "rijst",
+      "kokos",
+      "kruiden"
+    ],
+    "cooking": {
+      "preparation_time": "30 minuten",
+      "difficulty": "medium",
+      "spice_level": "mild",
+      "serves": "2-4 personen"
+    },
+    "nutrition": {
+      "allergens": [
+        "zeevruchten"
+      ],
+      "dietary": [],
+      "price_range": "budget"
+    }
+  },
+  {
+    "id": 34,
+    "slug": "laab-kua",
+    "name": {
+      "en": "Laab Kua",
+      "nl": "Laab Kua",
+      "thai": "ลาบคั่ว"
+    },
+    "category": "salade",
+    "region": "noordelijk",
+    "spice_level": "pittig",
+    "description": {
+      "en": "Northern style meat salad with spices and herbs",
+      "nl": "Noordelijke stijl vleessalade met specerijen en kruiden"
+    },
+    "ingredients": [
+      "gehakt varken of rund",
+      "gedroogde specerijen",
+      "kruiden",
+      "limoensap",
+      "vissaus"
+    ],
+    "allergens": [],
+    "dietary": [],
+    "image": "/images/food/laab-kua.webp",
+    "preparation_time": "20 minuten",
+    "difficulty": "medium",
+    "price_range": "budget",
+    "seo": {
+      "metaTitle": {
+        "en": "Laab Kua Recipe | Authentic Thai salad",
+        "nl": "Laab Kua Recept | Authentieke Thaise salad"
+      },
+      "metaDescription": {
+        "en": "Learn about Laab Kua (ลาบคั่ว) - Northern style meat salad with spices and herbs...",
+        "nl": "Leer over Laab Kua (ลาบคั่ว) - Noordelijke stijl vleessalade met specerijen en kruiden..."
+      }
+    },
+    "tags": [
+      "thais-eten",
+      "Thailand",
+      "salade",
+      "noordelijk",
+      "pittig",
+      "medium",
+      "budget",
+      "gehakt-varken of rund",
+      "gedroogde-specerijen",
+      "kruiden"
+    ],
+    "cooking": {
+      "preparation_time": "20 minuten",
+      "difficulty": "medium",
+      "spice_level": "pittig",
+      "serves": "2-4 personen"
+    },
+    "nutrition": {
+      "allergens": [],
+      "dietary": [],
+      "price_range": "budget"
+    }
+  },
+  {
+    "id": 35,
+    "slug": "tam-khanun",
+    "name": {
+      "en": "Tam Khanun",
+      "nl": "Tam Khanun",
+      "thai": "ตำขนุน"
+    },
+    "category": "salade",
+    "region": "noordelijk",
+    "spice_level": "pittig",
+    "description": {
+      "en": "Spicy young jackfruit salad",
+      "nl": "Pittige jonge jackfruit salade"
+    },
+    "ingredients": [
+      "jonge jackfruit",
+      "chili",
+      "knoflook",
+      "limoensap",
+      "vissaus",
+      "tomaten"
+    ],
+    "allergens": [],
+    "dietary": [
+      "vegetarische optie"
+    ],
+    "image": "/images/food/tam-khanun.webp",
+    "preparation_time": "20 minuten",
+    "difficulty": "medium",
+    "price_range": "budget",
+    "seo": {
+      "metaTitle": {
+        "en": "Tam Khanun Recipe | Authentic Thai salad",
+        "nl": "Tam Khanun Recept | Authentieke Thaise salad"
+      },
+      "metaDescription": {
+        "en": "Learn about Tam Khanun (ตำขนุน) - Spicy young jackfruit salad...",
+        "nl": "Leer over Tam Khanun (ตำขนุน) - Pittige jonge jackfruit salade..."
+      }
+    },
+    "tags": [
+      "thais eten",
+      "Thailand",
+      "salade",
+      "noordelijk",
+      "heet",
+      "medium",
+      "budget",
+      "jonge jakfruit",
+      "chili",
+      "knoflook"
+    ],
+    "cooking": {
+      "preparation_time": "20 minuten",
+      "difficulty": "medium",
+      "spice_level": "heet",
+      "serves": "2-4 personen"
+    },
+    "nutrition": {
+      "allergens": [],
+      "dietary": [
+        "vegetarische optie"
+      ],
+      "price_range": "budget"
+    }
+  }
+]

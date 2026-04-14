@@ -1,0 +1,55 @@
+{
+  "id": 17,
+  "slug": "thai-milk-tea",
+  "name": {
+    "en": "Thai Milk Tea",
+    "nl": "Thaise Melkthee",
+    "thai": "ชานม"
+  },
+  "category": "thee",
+  "type": "heet",
+  "description": {
+    "en": "Hot version of Thai tea with milk",
+    "nl": "Warme versie van Thaise thee met melk"
+  },
+  "ingredients": [
+    "zwarte thee",
+    "gecondenseerde melk",
+    "suiker"
+  ],
+  "allergens": [
+    "zuivel"
+  ],
+  "dietary": [
+    "vegetarisch"
+  ],
+  "image": "/images/drinks/thai-milk-tea.webp",
+  "temperature": "heet",
+  "alcohol_content": "geen",
+  "caffeine": "hoog",
+  "price_range": "budget",
+  "region": "centraal",
+  "occasions": [
+    "ontbijt",
+    "middag"
+  ],
+  "seo": {
+    "metaTitle": {
+      "en": "Thai Milk Tea Recipe | Authentic Thai tea",
+      "nl": "Thaise Melkthee Recept | Authentieke Thaise tea"
+    },
+    "metaDescription": {
+      "en": "Learn about Thai Milk Tea (ชานม) - Hot version of Thai tea with milk",
+      "nl": "Leer over Thaise Melkthee (ชานม) - Warme versie van Thaise thee met melk"
+    }
+  },
+  "tags": [
+    "Thaise dranken",
+    "Thailand",
+    "thee",
+    "heet",
+    "heet",
+    "ontbijt",
+    "middag"
+  ]
+}

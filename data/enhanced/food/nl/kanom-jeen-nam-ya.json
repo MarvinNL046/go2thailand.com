@@ -1,0 +1,977 @@
+{
+  "id": 21,
+  "slug": "kanom-jeen-nam-ya",
+  "name": {
+    "en": "Kanom Jeen Nam Ya",
+    "nl": "Kanom Jeen Nam Ya",
+    "thai": "ขนมจีนน้ำยา"
+  },
+  "category": "hoofdgerecht",
+  "region": "zuidelijk",
+  "spice_level": "gemiddeld",
+  "description": {
+    "en": "Fermented rice noodles with fish curry sauce",
+    "nl": "Gefermenteerde rijstnoedels met viscurrysaus"
+  },
+  "ingredients": [
+    "gefermenteerde rijstnoedels",
+    "vis",
+    "citroengras",
+    "laos",
+    "chili",
+    "kokosmelk"
+  ],
+  "allergens": [
+    "zeevruchten"
+  ],
+  "dietary": [],
+  "image": "/images/food/kanom-jeen-nam-ya.webp",
+  "preparation_time": "45 minuten",
+  "difficulty": "moeilijk",
+  "price_range": "budget",
+  "seo": {
+    "metaTitle": {
+      "en": "Kanom Jeen Nam Ya Recipe | Authentic Thai main dish",
+      "nl": "Kanom Jeen Nam Ya Recept | Authentieke Thaise main dish"
+    },
+    "metaDescription": {
+      "en": "Learn about Kanom Jeen Nam Ya (ขนมจีนน้ำยา) - Fermented rice noodles with fish curry sauce...",
+      "nl": "Leer over Kanom Jeen Nam Ya (ขนมจีนน้ำยา) - Gefermenteerde rijstnoedels met viscurrysaus..."
+    }
+  },
+  "tags": [
+    "thais-eten",
+    "thailand",
+    "hoofdgerecht",
+    "zuidelijk",
+    "gemiddeld",
+    "moeilijk",
+    "budget",
+    "gefermenteerde rijstnoedels",
+    "vis",
+    "citroengras"
+  ],
+  "cooking": {
+    "preparation_time": "45 minuten",
+    "difficulty": "moeilijk",
+    "spice_level": "gemiddeld",
+    "serves": "2-4 personen"
+  },
+  "nutrition": {
+    "allergens": [
+      "zeevruchten"
+    ],
+    "dietary": [],
+    "price_range": "budget"
+  },
+  "enhanced_description": "Kanom Jeen Nam Ya is een geliefd stevig en smaakvol hoofdgerecht uit Zuid-Thailand met een aangename pittige kick. Gefermenteerde rijstnoedels met viscurrysaus. Dit moeilijke recept vergt ongeveer 45 minuten bereidingstijd en vertegenwoordigt de authentieke smaken van de Zuid-Thaise keuken, gekenmerkt door intense kruiden, zeevruchten en curry's op basis van kokos. De combinatie van gefermenteerde rijstnoedels, vis en citroengras creëert een harmonieuze mix die dit gerecht tot een favoriet heeft gemaakt onder zowel locals als bezoekers. Perfect voor wie op zoek is naar betaalbare authentieke Thaise keuken.",
+  "detailed_ingredients": [
+    {
+      "name": "Fermented rice noodles",
+      "purpose": "Essentieel voor authentieke Kanom Jeen Nam Ya smaak",
+      "substitutes": [
+        "Verse gefermenteerde rijstnoedels",
+        "Gedroogde gefermenteerde rijstnoedels",
+        "gefermenteerde rijstnoedels pasta"
+      ]
+    },
+    {
+      "name": "Fish",
+      "purpose": "Essentieel voor authentieke Kanom Jeen Nam Ya smaak",
+      "substitutes": [
+        "Verse vis",
+        "Gedroogde vis",
+        "vispasta"
+      ]
+    },
+    {
+      "name": "Lemongrass",
+      "purpose": "Essentieel voor authentieke Kanom Jeen Nam Ya smaak",
+      "substitutes": [
+        "Vers citroengras",
+        "Gedroogd citroengras",
+        "citroengras pasta"
+      ]
+    },
+    {
+      "name": "Galangal",
+      "purpose": "Essentieel voor authentieke Kanom Jeen Nam Ya smaak",
+      "substitutes": [
+        "Verse laos",
+        "Gedroogde laos",
+        "laos pasta"
+      ]
+    }
+  ],
+  "cooking_method": {
+    "technique": "Roerbakken of grillen",
+    "steps_overview": "Het bereiden van Kanom Jeen Nam Ya vereist aandacht voor detail en juiste timing. De sleutel is het balanceren van alle smaken terwijl de textuur van elk ingrediënt behouden blijft. Traditionele methoden die van generatie op generatie zijn doorgegeven zorgen voor een authentieke smaak.",
+    "cooking_tips": [
+      "Gebruik verse gefermenteerde rijstnoedels voor het beste resultaat",
+      "Pas het pittigheidsniveau aan naar voorkeur",
+      "Kook niet te lang om textuur te behouden",
+      "Proef en pas kruiding aan voor serveren"
+    ]
+  },
+  "cultural_significance": {
+    "origin_story": "Kanom Jeen Nam Ya is al generaties lang een basisgerecht in de Zuid-Thaise keuken en weerspiegelt de unieke culinaire tradities en lokale ingrediënten van de regio.",
+    "cultural_importance": "Dit gerecht vertegenwoordigt het hart van de Zuid-Thaise kookkunst en toont de balans en harmonie waarvoor de Thaise keuken wereldwijd beroemd is.",
+    "traditional_occasions": [
+      "Familiebijeenkomsten",
+      "Lokale festivals",
+      "Straatvoedselmarkten",
+      "Speciale vieringen"
+    ]
+  },
+  "variations": [
+    {
+      "name": "Kanom Jeen Nam Ya Classic",
+      "description": "De traditionele versie zoals geserveerd in lokale huizen"
+    },
+    {
+      "name": "Kanom Jeen Nam Ya Modern",
+      "description": "Moderne twist met premium ingrediënten"
+    },
+    {
+      "name": "Vegetarian Kanom Jeen Nam Ya",
+      "description": "Plantaardige versie met tofu of paddenstoelen"
+    }
+  ],
+  "serving_suggestions": {
+    "traditional_accompaniments": [
+      "Jasmijnrijst",
+      "Verse groenten",
+      "Thaise kruiden"
+    ],
+    "presentation": "Geserveerd op een bord in traditionele Thaise stijl",
+    "eating_etiquette": "Genoten met vork en lepel volgens Thais gebruik"
+  },
+  "nutritional_info": {
+    "calories_per_serving": "300-500 calorieën",
+    "health_benefits": [
+      "Rijk aan Thaise kruiden en specerijen",
+      "Bron van eiwitten en groenten",
+      "Gebalanceerde smaken en voedingsstoffen"
+    ],
+    "dietary_notes": []
+  },
+  "where_to_find": {
+    "best_restaurants": [
+      "Lokale Zuid-Thaise restaurants",
+      "Authentieke straatvoedselkraampjes",
+      "Traditionele markten",
+      "Familiegerunde eetgelegenheden"
+    ],
+    "street_food_areas": [
+      "Nachtmarkten",
+      "Ochtendverse markten",
+      "Lokale food courts"
+    ],
+    "price_ranges": {
+      "street_vendor": "30-50 THB",
+      "market_stall": "40-60 THB",
+      "restaurant": "60-100 THB"
+    }
+  },
+  "translations": {
+    "nl": {
+      "enhanced_description": "Kanom Jeen Nam Ya is een geliefd stevig en smaakvol hoofdgerecht uit Zuid-Thailand met een aangename pittige kick. Gefermenteerde rijstnoedels met viscurrysaus. Dit moeilijke recept vergt ongeveer 45 minuten bereidingstijd en vertegenwoordigt de authentieke smaken van de Zuid-Thaise keuken, gekenmerkt door intense kruiden, zeevruchten en curry's op basis van kokos. De combinatie van gefermenteerde rijstnoedels, vis en citroengras creëert een harmonieuze mix die dit gerecht tot een favoriet heeft gemaakt onder zowel locals als bezoekers. Perfect voor wie op zoek is naar betaalbare authentieke Thaise keuken.",
+      "detailed_ingredients": [
+        {
+          "name": "Gefermenteerde rijstnoedels",
+          "purpose": "Essentieel voor de authentieke Kanom Jeen Nam Ya smaak",
+          "substitutes": [
+            "Verse gefermenteerde rijstnoedels",
+            "Gedroogde gefermenteerde rijstnoedels",
+            "Gewone rijstnoedels"
+          ]
+        },
+        {
+          "name": "Vis",
+          "purpose": "Essentieel voor de authentieke Kanom Jeen Nam Ya smaak",
+          "substitutes": [
+            "Verse vis",
+            "Gedroogde vis",
+            "Vispasta"
+          ]
+        },
+        {
+          "name": "Citroengras",
+          "purpose": "Essentieel voor de authentieke Kanom Jeen Nam Ya smaak",
+          "substitutes": [
+            "Vers citroengras",
+            "Gedroogd citroengras",
+            "Citroengraspasta"
+          ]
+        },
+        {
+          "name": "Laos",
+          "purpose": "Essentieel voor de authentieke Kanom Jeen Nam Ya smaak",
+          "substitutes": [
+            "Verse laos",
+            "Gedroogde laos",
+            "Laospasta"
+          ]
+        }
+      ],
+      "cooking_method": {
+        "technique": "Koken en sudderen",
+        "steps_overview": "Het bereiden van Kanom Jeen Nam Ya vereist aandacht voor detail en goede timing. De sleutel is het balanceren van alle smaken terwijl de textuur van elk ingrediënt behouden blijft. Traditionele methoden die van generatie op generatie zijn doorgegeven, garanderen een authentieke smaak.",
+        "cooking_tips": [
+          "Gebruik verse gefermenteerde rijstnoedels voor het beste resultaat",
+          "Pas het pittigheidsgehalte aan naar je voorkeur",
+          "Kook niet te lang om de textuur te behouden",
+          "Proef en pas de kruiding aan voor het serveren"
+        ]
+      },
+      "cultural_significance": {
+        "origin_story": "Kanom Jeen Nam Ya is al generaties lang een vast onderdeel van de Zuid-Thaise keuken en weerspiegelt de unieke culinaire tradities en lokale ingrediënten van de regio.",
+        "cultural_importance": "Dit gerecht vertegenwoordigt het hart van de Zuid-Thaise kookkunst en toont de balans en harmonie waarmee de Thaise keuken wereldwijd beroemd is.",
+        "traditional_occasions": [
+          "Familiebijeenkomsten",
+          "Lokale festivals",
+          "Straatvoedselmarkten",
+          "Bijzondere vieringen"
+        ]
+      },
+      "variations": [
+        {
+          "name": "Kanom Jeen Nam Ya Klassiek",
+          "description": "De traditionele versie zoals geserveerd in lokale huishoudens"
+        },
+        {
+          "name": "Kanom Jeen Nam Ya Modern",
+          "description": "Hedendaagse variant met premium ingrediënten"
+        },
+        {
+          "name": "Vegetarische Kanom Jeen Nam Ya",
+          "description": "Plantaardige versie met tofu of paddenstoelen"
+        }
+      ],
+      "serving_suggestions": {
+        "traditional_accompaniments": [
+          "Verse groenten",
+          "Thaise kruiden",
+          "Bijgerechten zoals ingelegde groenten"
+        ],
+        "presentation": "Geserveerd op een bord in traditionele Zuid-Thaise stijl",
+        "eating_etiquette": "Gegeten met vork en lepel volgens Thais gebruik"
+      },
+      "where_to_find": {
+        "best_restaurants": [
+          "Lokale Zuid-Thaise restaurants",
+          "Authentieke straatvoedselkramen",
+          "Traditionele markten",
+          "Familiebedrijfjes"
+        ],
+        "street_food_areas": [
+          "Nachtmarkten",
+          "Ochtendverse markten",
+          "Lokale food courts"
+        ]
+      },
+      "translated_at": "2026-03-10T00:00:00.000Z"
+    },
+    "fr": {
+      "enhanced_description": "Kanom Jeen Nam Ya is een geliefd stevig en smaakvol hoofdgerecht uit Zuid-Thailand met een aangename pittige kick. Gefermenteerde rijstnoedels met viscurrysaus. Dit moeilijke recept vergt ongeveer 45 minuten bereidingstijd en vertegenwoordigt de authentieke smaken van de Zuid-Thaise keuken, gekenmerkt door intense kruiden, zeevruchten en curry's op basis van kokos. De combinatie van gefermenteerde rijstnoedels, vis en citroengras creëert een harmonieuze mix die dit gerecht tot een favoriet heeft gemaakt onder zowel locals als bezoekers. Perfect voor wie op zoek is naar betaalbare authentieke Thaise keuken.",
+      "detailed_ingredients": [
+        {
+          "name": "Nouilles de riz fermentées",
+          "purpose": "Essentieel voor de authentieke Kanom Jeen Nam Ya smaak",
+          "substitutes": [
+            "Verse gefermenteerde rijstnoedels",
+            "Gedroogde gefermenteerde rijstnoedels",
+            "Gewone rijstnoedels"
+          ]
+        },
+        {
+          "name": "Poisson",
+          "purpose": "Essentieel voor de authentieke Kanom Jeen Nam Ya smaak",
+          "substitutes": [
+            "Verse vis",
+            "Gedroogde vis",
+            "Vispasta"
+          ]
+        },
+        {
+          "name": "Citronnelle",
+          "purpose": "Essentieel voor de authentieke Kanom Jeen Nam Ya smaak",
+          "substitutes": [
+            "Vers citroengras",
+            "Gedroogd citroengras",
+            "Citroengraspasta"
+          ]
+        },
+        {
+          "name": "Galanga",
+          "purpose": "Essentieel voor de authentieke Kanom Jeen Nam Ya smaak",
+          "substitutes": [
+            "Verse galanga",
+            "Gedroogde galanga",
+            "Galangapasta"
+          ]
+        }
+      ],
+      "cooking_method": {
+        "technique": "Koken en sudderen",
+        "steps_overview": "Het bereiden van Kanom Jeen Nam Ya vereist aandacht voor detail en goede timing. De sleutel is het balanceren van alle smaken terwijl de textuur van elk ingrediënt behouden blijft. Traditionele methoden die van generatie op generatie zijn doorgegeven, garanderen een authentieke smaak.",
+        "cooking_tips": [
+          "Gebruik verse gefermenteerde rijstnoedels voor het beste resultaat",
+          "Pas het pittigheidsgehalte aan naar je voorkeur",
+          "Kook niet te lang om de textuur te behouden",
+          "Proef en pas de kruiding aan voor het serveren"
+        ]
+      },
+      "cultural_significance": {
+        "origin_story": "Kanom Jeen Nam Ya is al generaties lang een vast onderdeel van de Zuid-Thaise keuken en weerspiegelt de unieke culinaire tradities en lokale ingrediënten van de regio.",
+        "cultural_importance": "Dit gerecht vertegenwoordigt het hart van de Zuid-Thaise kookkunst en toont de balans en harmonie waarmee de Thaise keuken wereldwijd beroemd is.",
+        "traditional_occasions": [
+          "Familiebijeenkomsten",
+          "Lokale festivals",
+          "Straatvoedselmarkten",
+          "Bijzondere vieringen"
+        ]
+      },
+      "variations": [
+        {
+          "name": "Kanom Jeen Nam Ya Classique",
+          "description": "De traditionele versie zoals geserveerd in lokale huishoudens"
+        },
+        {
+          "name": "Kanom Jeen Nam Ya Moderne",
+          "description": "Moderne versie met premium ingrediënten"
+        },
+        {
+          "name": "Kanom Jeen Nam Ya Végétarien",
+          "description": "Plantaardige versie met tofu of champignons"
+        }
+      ],
+      "serving_suggestions": {
+        "traditional_accompaniments": [
+          "Verse groenten",
+          "Thaise kruiden",
+          "Bijgerechten zoals gepekelde groenten"
+        ],
+        "presentation": "Geserveerd op een bord in de traditionele stijl van Zuid-Thailand",
+        "eating_etiquette": "Genuttigd met vork en lepel volgens Thaise traditie"
+      },
+      "where_to_find": {
+        "best_restaurants": [
+          "Lokale restaurants in Zuid-Thailand",
+          "Authentieke straatkiosken",
+          "Traditionele markten",
+          "Familierestaurants"
+        ],
+        "street_food_areas": [
+          "Nachtmarkten",
+          "Ochtendverse markten",
+          "Lokale food courts"
+        ]
+      },
+      "translated_at": "2026-03-10T00:00:00.000Z"
+    },
+    "de": {
+      "enhanced_description": "Kanom Jeen Nam Ya is een populair stevig en smakelijk hoofdgerecht uit Zuid-Thailand met een aangename pittigheid. Gefermenteerde rijstnoedels met viscurrysaus. Dit veeleisende recept vereist ongeveer 45 minuten bereidingstijd en vertegenwoordigt de authentieke aroma's van de Zuid-Thaise keuken, die zich kenmerkt door intense kruiden, zeevruchten en kokosgebaseerde curries. De combinatie van gefermenteerde rijstnoedels, vis en citroengras creëert een harmonieuze mix die dit gerecht geliefd heeft gemaakt bij zowel locals als bezoekers. Perfect voor iedereen die betaalbare authentieke Thaise keuken zoekt.",
+      "detailed_ingredients": [
+        {
+          "name": "Fermentierte Reisnudeln",
+          "purpose": "Onmisbaar voor de authentieke Kanom Jeen Nam Ya smaak",
+          "substitutes": [
+            "Verse gefermenteerde rijstnoedels",
+            "Gedroogde rijstnoedels",
+            "Rijstnoedel pasta"
+          ]
+        },
+        {
+          "name": "Fisch",
+          "purpose": "Onmisbaar voor de authentieke Kanom Jeen Nam Ya smaak",
+          "substitutes": [
+            "Verse vis",
+            "Gedroogde vis",
+            "Vis pasta"
+          ]
+        },
+        {
+          "name": "Zitronengras",
+          "purpose": "Onmisbaar voor de authentieke Kanom Jeen Nam Ya smaak",
+          "substitutes": [
+            "Verse citroengras",
+            "Gedroogd citroengras",
+            "Citroengras pasta"
+          ]
+        },
+        {
+          "name": "Galgant",
+          "purpose": "Onmisbaar voor de authentieke Kanom Jeen Nam Ya smaak",
+          "substitutes": [
+            "Verse galanga",
+            "Gedroogde galanga",
+            "Galanga pasta"
+          ]
+        }
+      ],
+      "cooking_method": {
+        "technique": "Roerbakken en grillen",
+        "steps_overview": "De bereiding van Kanom Jeen Nam Ya vereist liefde voor detail en goed timing. De sleutel ligt in het balanceren van alle aroma's terwijl de textuur van elke ingrediënt behouden blijft. Traditionele methoden die van generatie op generatie zijn doorgegeven, garanderen authentieke smaak.",
+        "cooking_tips": [
+          "Gebruik verse gefermenteerde rijstnoedels voor het beste resultaat",
+          "Pas de pittigheid aan naar smaak",
+          "Niet te lang koken om de textuur te behouden",
+          "Proef en kruid af voor het serveren"
+        ]
+      },
+      "cultural_significance": {
+        "origin_story": "Kanom Jeen Nam Ya is al generaties lang een vast onderdeel van de Zuid-Thaise keuken en weerspiegelt de unieke culinaire tradities en lokale ingrediënten van de regio.",
+        "cultural_importance": "Dit gerecht vertegenwoordigt het hart van de Zuid-Thaise kookkunst en toont de balans en harmonie waarvoor de Thaise keuken wereldwijd beroemd is.",
+        "traditional_occasions": [
+          "Familiebijeenkomsten",
+          "Lokale festivals",
+          "Straatkeukens-markten",
+          "Speciale vieringen"
+        ]
+      },
+      "variations": [
+        {
+          "name": "Kanom Jeen Nam Ya Klassisch",
+          "description": "De traditionele versie zoals geserveerd in lokale huishoudens"
+        },
+        {
+          "name": "Kanom Jeen Nam Ya Modern",
+          "description": "Contemporaine variant met premium ingrediënten"
+        },
+        {
+          "name": "Vegetarisches Kanom Jeen Nam Ya",
+          "description": "Plantaardige versie met tofu of paddenstoelen"
+        }
+      ],
+      "serving_suggestions": {
+        "traditional_accompaniments": [
+          "Jasmijnrijst",
+          "Verse groenten",
+          "Thaise kruiden"
+        ],
+        "presentation": "Geserveerd op een bord in de traditionele Zuid-Thaise stijl",
+        "eating_etiquette": "Gegeten met vork en lepel volgens Thaise gewoonte"
+      },
+      "where_to_find": {
+        "best_restaurants": [
+          "Lokale Zuid-Thaise restaurants",
+          "Authentieke straatkiosken",
+          "Traditionele markten",
+          "Familiegerunde etablissementen"
+        ],
+        "street_food_areas": [
+          "Nachtmarkten",
+          "Ochtendfrisse markten",
+          "Lokale food courts"
+        ]
+      },
+      "translated_at": "2026-03-10T00:00:00.000Z"
+    },
+    "zh": {
+      "enhanced_description": "Kanom Jeen Nam Ya is een geliefd royaal hoofdgerecht uit Zuid-Thailand met een prettige pittigheid. Gefermenteerde rijstnoedels met viscurrysaus. Dit uitdagende recept duurt ongeveer 45 minuten bereiding en vertegenwoordigt de authentieke smaken van de Zuid-Thaise keuken, gekenmerkt door intense specerijen, zeevruchten en kokoscurries. De combinatie van gefermenteerde rijstnoedels, vis en citroengras creëert een harmonieuze smaakfusie die dit gerecht favoriet maakt bij zowel locals als toeristen. Ideaal voor wie betaalbare authentieke Thaise gerechten zoekt.",
+      "detailed_ingredients": [
+        {
+          "name": "发酵米线",
+          "purpose": "Sleutelingrediënt voor de authentieke Kanom Jeen Nam Ya smaak",
+          "substitutes": [
+            "Verse gefermenteerde rijstnoedels",
+            "Gedroogde gefermenteerde rijstnoedels",
+            "Gewone rijstnoedels"
+          ]
+        },
+        {
+          "name": "鱼",
+          "purpose": "Sleutelingrediënt voor de authentieke Kanom Jeen Nam Ya smaak",
+          "substitutes": [
+            "Verse vis",
+            "Visdroog",
+            "Vis saus"
+          ]
+        },
+        {
+          "name": "香茅",
+          "purpose": "Sleutelingrediënt voor de authentieke Kanom Jeen Nam Ya smaak",
+          "substitutes": [
+            "Verse citroengras",
+            "Gedroogde citroengras",
+            "Citroengras saus"
+          ]
+        },
+        {
+          "name": "南姜",
+          "purpose": "Sleutelingrediënt voor de authentieke Kanom Jeen Nam Ya smaak",
+          "substitutes": [
+            "Verse galanga",
+            "Gedroogde galanga",
+            "Galanga saus"
+          ]
+        }
+      ],
+      "cooking_method": {
+        "technique": "Koken en stoven",
+        "steps_overview": "Het maken van Kanom Jeen Nam Ya vereist aandacht voor details en goed tijdmanagement. De sleutel ligt in het balanceren van alle smaken terwijl de textuur van elk ingrediënt behouden blijft. Traditionele kookmethoden die van generatie op generatie zijn doorgegeven, zorgen voor authentieke smaak.",
+        "cooking_tips": [
+          "Gebruik verse gefermenteerde rijstnoedels voor het beste effect",
+          "Pas de pittigheid aan naar persoonlijke smaak",
+          "Vermijd overkoken om de textuur te behouden",
+          "Proef en pas de kruiden aan voor het serveren"
+        ]
+      },
+      "cultural_significance": {
+        "origin_story": "Kanom Jeen Nam Ya is al generaties lang een klassieker in de Zuid-Thaise keuken en belichaamt de unieke culinaire tradities en lokale ingrediënten van de regio.",
+        "cultural_importance": "Dit gerecht vertegenwoordigt de essentie van Zuid-Thaise kookkunst en toont de balans en harmonie die de Thaise keuken wereldwijd beroemd maken.",
+        "traditional_occasions": [
+          "Familiebijeenkomsten",
+          "Lokale feesten",
+          "Straatvoedselmarkten",
+          "Speciale vieringen"
+        ]
+      },
+      "variations": [
+        {
+          "name": "经典Kanom Jeen Nam Ya",
+          "description": "De klassieke versie van traditioneel koken in lokale families"
+        },
+        {
+          "name": "现代Kanom Jeen Nam Ya",
+          "description": "Moderne innovatieve versie met premium ingrediënten"
+        },
+        {
+          "name": "素食Kanom Jeen Nam Ya",
+          "description": "Plantaardige versie met tofu of paddenstoelen"
+        }
+      ],
+      "serving_suggestions": {
+        "traditional_accompaniments": [
+          "Verse groenten",
+          "Thaise kruiden",
+          "Gepekelde groenten en dergelijke bijgerechten"
+        ],
+        "presentation": "Geserveerd op een bord in traditionele Zuid-Thaise stijl",
+        "eating_etiquette": "Gegeten met vork en lepel volgens Thaise gewoonte"
+      },
+      "where_to_find": {
+        "best_restaurants": [
+          "Lokale Zuid-Thaise restaurants",
+          "Authentieke straatsnacks stalletjes",
+          "Traditionele markten",
+          "Familiegerunde kleine eettentjes"
+        ],
+        "street_food_areas": [
+          "Nachtmarkten",
+          "Ochtendmarkten",
+          "Lokale eetpleinen"
+        ]
+      },
+      "translated_at": "2026-03-11T00:00:00.000Z"
+    },
+    "ru": {
+      "enhanced_description": "Kanom Jeen Nam Ya is een geliefd vullend en smakelijk hoofdgerecht uit Zuid-Thailand met een prettige scherpte. Gefermenteerde rijstnoedels met viscurrysaus. Dit complexe recept duurt ongeveer 45 minuten bereiding en presenteert de authentieke smaken van de Zuid-Thaise keuken, gekenmerkt door intense specerijen, zeevruchten en kokoscurries. De combinatie van gefermenteerde rijstnoedels, vis en citroengras creëert een harmonieuze mix die dit gerecht favoriet maakt bij zowel inwoners als gasten. Ideaal voor wie betaalbare authentieke Thaise keuken zoekt.",
+      "detailed_ingredients": [
+        {
+          "name": "Ферментированная рисовая лапша",
+          "purpose": "Hoofdingrediënt voor de authentieke Kanom Jeen Nam Ya smaak",
+          "substitutes": [
+            "Verse gefermenteerde rijstnoedels",
+            "Gedroogde gefermenteerde rijstnoedels",
+            "Pasta van gefermenteerde rijstnoedels"
+          ]
+        },
+        {
+          "name": "Рыба",
+          "purpose": "Hoofdingrediënt voor de authentieke Kanom Jeen Nam Ya smaak",
+          "substitutes": [
+            "Verse vis",
+            "Gedroogde vis",
+            "Vis pasta"
+          ]
+        },
+        {
+          "name": "Лемонграсс",
+          "purpose": "Hoofdingrediënt voor de authentieke Kanom Jeen Nam Ya smaak",
+          "substitutes": [
+            "Verse citroengras",
+            "Gedroogd citroengras",
+            "Citroengras pasta"
+          ]
+        },
+        {
+          "name": "Галангал",
+          "purpose": "Hoofdingrediënt voor de authentieke Kanom Jeen Nam Ya smaak",
+          "substitutes": [
+            "Verse galanga",
+            "Gedroogde galanga",
+            "Galanga pasta"
+          ]
+        }
+      ],
+      "cooking_method": {
+        "technique": "Roerbakken in een wok of grillen",
+        "steps_overview": "Het bereiden van Kanom Jeen Nam Ya vereist aandacht voor details en correcte timing. De sleutel ligt in het balanceren van alle smaken terwijl de textuur van elk ingrediënt behouden blijft. Traditionele methoden die van generatie op generatie zijn doorgegeven, zorgen voor authentieke smaak.",
+        "cooking_tips": [
+          "Gebruik verse gefermenteerde rijstnoedels voor het beste resultaat",
+          "Pas de scherpte aan naar smaak",
+          "Kook niet te lang om de textuur te behouden",
+          "Proef en corrigeer de kruiden voor het serveren"
+        ]
+      },
+      "cultural_significance": {
+        "origin_story": "Kanom Jeen Nam Ya is al vele generaties de basis van de Zuid-Thaise keuken en weerspiegelt de unieke culinaire tradities van de regio en lokale ingrediënten.",
+        "cultural_importance": "Dit gerecht belichaamt het hart van de Zuid-Thaise culinaire kunst en demonstreert de balans en harmonie waarmee de Thaise keuken wereldwijd beroemd is.",
+        "traditional_occasions": [
+          "Familie maaltijden",
+          "Lokale festivals",
+          "Straatvoedselmarkten",
+          "Speciale gelegenheden"
+        ]
+      },
+      "variations": [
+        {
+          "name": "Kanom Jeen Nam Ya классический",
+          "description": "De traditionele versie zoals geserveerd in lokale huizen"
+        },
+        {
+          "name": "Kanom Jeen Nam Ya современный",
+          "description": "Moderne interpretatie met premium ingrediënten"
+        },
+        {
+          "name": "Вегетарианский Kanom Jeen Nam Ya",
+          "description": "Plantaardige versie met tofu of paddenstoelen"
+        }
+      ],
+      "serving_suggestions": {
+        "traditional_accompaniments": [
+          "Jasmijnrijst",
+          "Verse groenten",
+          "Thaise kruiden"
+        ],
+        "presentation": "Geserveerd op een bord in traditionele Thaise stijl",
+        "eating_etiquette": "Gegeten met vork en lepel volgens Thaise gewoonte"
+      },
+      "where_to_find": {
+        "best_restaurants": [
+          "Lokale Zuid-Thaise restaurants",
+          "Authentieke straatkraampjes",
+          "Traditionele markten",
+          "Familie snackbars"
+        ],
+        "street_food_areas": [
+          "Nachtmarkten",
+          "Ochtendverse markten",
+          "Lokale food courts"
+        ]
+      },
+      "translated_at": "2026-03-11T00:00:00.000Z"
+    },
+    "ko": {
+      "enhanced_description": "Kanom Jeen Nam Ya is een representatief noedelsgerecht uit Zuid-Thailand, een smaakvol gerecht van gefermenteerde rijstnoedels overgoten met dikke currysaus van visvlees. Dit recept dat enige zorg vereist duurt ongeveer 45 minuten, maar toont de essentie van de Zuid-Thaise keuken met intense specerijen, zeevruchten en kokoscurries. De chewy textuur van gefermenteerde rijstnoedels, gecombineerd met vis, citroengras en galanga, creëert een diepgaande en harmonieuze smaak die geliefd is bij zowel locals als toeristen. Geniet van authentieke Thaise keuken voor een redelijke prijs.",
+      "detailed_ingredients": [
+        {
+          "name": "카놈찐 (발효 쌀국수)",
+          "purpose": "De basis van dit gerecht: chewy gefermenteerde rijstnoedels met unieke textuur en subtiele fermentatiegeur",
+          "substitutes": [
+            "Verse Kanom Jeen",
+            "Gedroogde rijstnoedels",
+            "Gewone rijstnoedels (vervanging)"
+          ]
+        },
+        {
+          "name": "생선 (주로 민물 생선)",
+          "purpose": "Hoofdingrediënt voor de currysaus; de vis wordt gepureerd tot een rijke umami-basis",
+          "substitutes": [
+            "Verse vis",
+            "Gedroogde vis",
+            "Vispaste"
+          ]
+        },
+        {
+          "name": "레몬그라스",
+          "purpose": "Belangrijk kruid voor de currypasta, voegt een verfrissende citrusgeur toe",
+          "substitutes": [
+            "Verse citroengras",
+            "Gedroogd citroengras",
+            "Citroengras pasta"
+          ]
+        },
+        {
+          "name": "갈랑갈 (카)",
+          "purpose": "Kruid dat diepe aroma en warme smaak toevoegt aan de currypasta",
+          "substitutes": [
+            "Verse galanga",
+            "Gedroogde galanga",
+            "Gember (vervanging)"
+          ]
+        }
+      ],
+      "cooking_method": {
+        "technique": "Koken en sudderen (bereiding currysaus)",
+        "steps_overview": "Om Kanom Jeen Nam Ya te maken, kook je eerst de vis en verwijder je het vlees. Maal citroengras, galanga, chili, sjalotten enz. tot een currypasta. Los de pasta op in kokosmelk, voeg het visvlees toe en kook tot het dik is. Schep de gefermenteerde rijstnoedels op een bord en giet de hete currysaus erover voor een compleet gerecht.",
+        "cooking_tips": [
+          "Gebruik verse gefermenteerde rijstnoedels (Kanom Jeen) voor de beste textuur",
+          "Verwijder alle graten uit het visvlees voor een zachte saus",
+          "Rooster de currypasta goed voor een diepere smaak",
+          "Eet met bijgerechten van groenten voor een betere smaakbalans"
+        ]
+      },
+      "cultural_significance": {
+        "origin_story": "Kanom Jeen Nam Ya is een traditioneel gerecht uit Zuid-Thailand dat al generaties lang wordt doorgegeven en de rijke zeevruchten en unieke kruiden van de regio weerspiegelt. De naam 'Kanom Jeen' komt uit het Mon-taal en toont de multiculturele voedselgeschiedenis van Thailand.",
+        "cultural_importance": "Dit gerecht vertegenwoordigt de essentie van Zuid-Thaise keuken en wordt vooral tijdens festivals of tempelgebeurtenissen in grote hoeveelheden bereid en gedeeld als gemeenschapsmaal. Voor Thai roept Kanom Jeen Nam Ya herinneringen op aan de kookkunst van moeder en de smaak van thuis.",
+        "traditional_occasions": [
+          "Tempelfestival",
+          "Familiebijeenkomst",
+          "Lokale evenementen",
+          "Dagelijks maal"
+        ]
+      },
+      "variations": [
+        {
+          "name": "카놈찐남야 전통식",
+          "description": "De meest traditionele versie met een rijke currysaus op basis van rivier-vis."
+        },
+        {
+          "name": "카놈찐남야 따이 (남부식)",
+          "description": "Een pittigere versie met kenmerkende Zuid-Thaise kruiden en kurkuma."
+        },
+        {
+          "name": "채식 카놈찐남야",
+          "description": "Vegetarische versie met tofu en paddenstoelen in plaats van vis."
+        }
+      ],
+      "serving_suggestions": {
+        "traditional_accompaniments": [
+          "Verse groenten (tauge, perilla bladeren, bieslook)",
+          "Gekookte eieren",
+          "Augurk (ingelegde groenten)"
+        ],
+        "presentation": "Serveer de noedels op een bord met currysaus erover in Zuid-Thaise stijl",
+        "eating_etiquette": "Eet volgens Thaise traditie met vork en lepel de noedels en saus samen"
+      },
+      "where_to_find": {
+        "best_restaurants": [
+          "Lokale Zuid-Thaise restaurants",
+          "Restaurants bij tempels",
+          "Traditionele markten",
+          "Familiegerunde restaurants"
+        ],
+        "street_food_areas": [
+          "Ochtendmarkten",
+          "Nachtmarkten",
+          "Lokale foodcourts"
+        ],
+        "price_ranges": {
+          "street_vendor": "30-50 THB",
+          "market_stall": "40-60 THB",
+          "restaurant": "60-100 THB"
+        }
+      },
+      "translated_at": "2026-03-14T00:00:00.000Z"
+    },
+    "th": {
+      "enhanced_description": "Kanom Jeen Nam Ya is een oud Thais gerecht. Gefermenteerde Kanom Jeen-noedels overgoten met dikke kokoscurry van vis. Geserveerd met diverse verse groenten. Het is een populair gerecht tijdens verdienstelijke feesten en festivals in het zuiden.",
+      "detailed_ingredients": [
+        {
+          "name": "Fermented rice noodles",
+          "purpose": "Belangrijk voor de authentieke smaak van Kanom Jeen Nam Ya",
+          "substitutes": [
+            "Verse gefermenteerde rijstnoedels",
+            "Gedroogde gefermenteerde rijstnoedels",
+            "Gefermenteerde rijstnoedels pasta"
+          ]
+        },
+        {
+          "name": "Fish",
+          "purpose": "Belangrijk voor de authentieke smaak van Kanom Jeen Nam Ya",
+          "substitutes": [
+            "Verse vis",
+            "Gedroogde vis",
+            "Vis pasta"
+          ]
+        },
+        {
+          "name": "Lemongrass",
+          "purpose": "Belangrijk voor de authentieke smaak van Kanom Jeen Nam Ya",
+          "substitutes": [
+            "Verse citroengras",
+            "Gedroogd citroengras",
+            "Citroengras pasta"
+          ]
+        },
+        {
+          "name": "Galangal",
+          "purpose": "Belangrijk voor de authentieke smaak van Kanom Jeen Nam Ya",
+          "substitutes": [
+            "Verse galanga",
+            "Gedroogde galanga",
+            "Galanga pasta"
+          ]
+        }
+      ],
+      "cooking_method": {
+        "technique": "Roerbakken of grillen",
+        "steps_overview": "De bereiding van Kanom Jeen Nam Ya vereist aandacht voor details en de juiste timing. Het evenwicht van alle smaken behouden terwijl de textuur van elk ingrediënt intact blijft, is cruciaal. De traditionele methode, doorgegeven over generaties, garandeert een authentieke smaak.",
+        "cooking_tips": [
+          "Gebruik verse gefermenteerde rijstnoedels voor het beste resultaat",
+          "Pas de pittigheid aan naar smaak",
+          "Kook niet te lang om de textuur te behouden",
+          "Proef en breng op smaak voor het serveren"
+        ]
+      },
+      "cultural_significance": {
+        "origin_story": "Dit gerecht maakt al generaties deel uit van de Zuid-Thaise voedselcultuur en weerspiegelt de unieke kooktradities en lokale ingrediënten van de regio.",
+        "cultural_importance": "Dit gerecht vormt het hart van de Zuid-Thaise keuken en belichaamt de balans en harmonie waar Thaise gerechten wereldwijd om bekendstaan.",
+        "traditional_occasions": [
+          "Familiebijeenkomsten",
+          "Lokale festivals",
+          "Straatvoedselmarkten",
+          "Speciale vieringen"
+        ]
+      },
+      "variations": [
+        {
+          "name": "Kanom Jeen Nam Ya Classic",
+          "description": "Traditionele versie geserveerd in lokale huizen"
+        },
+        {
+          "name": "Kanom Jeen Nam Ya Modern",
+          "description": "Moderne versie met premium ingrediënten"
+        },
+        {
+          "name": "Vegetarian Kanom Jeen Nam Ya",
+          "description": "Vegetarische versie met tofu of paddenstoelen"
+        }
+      ],
+      "serving_suggestions": {
+        "traditional_accompaniments": [
+          "Jasmijnrijst",
+          "Verse groenten",
+          "Thaise kruiden"
+        ],
+        "presentation": "Geserveerd op traditionele Thaise borden",
+        "eating_etiquette": "Eet met lepel en vork volgens Thaise traditie"
+      },
+      "where_to_find": {
+        "best_restaurants": [
+          "Lokale Zuid-Thaise restaurants",
+          "Authentieke straatrestantaurants",
+          "Traditionele markten",
+          "Familiegerunde eetgelegenheden"
+        ],
+        "street_food_areas": [
+          "Nachtmarkten",
+          "Ochtendverse markten",
+          "Lokale voedselcentra"
+        ],
+        "price_ranges": {
+          "street_vendor": "30-50 THB",
+          "market_stall": "40-60 THB",
+          "restaurant": "60-100 THB"
+        }
+      },
+      "translated_at": "2026-03-14T00:00:00.000Z"
+    },
+    "ja": {
+      "enhanced_description": "Kanom Jeen Nam Ya is een geliefd, vullend hoofdgerecht uit Zuid-Thailand met een aangename pittigheid. Gefermenteerde rijstnoedels met viscurrysaus. Dit recept van gemiddelde moeilijkheid duurt ongeveer 45 minuten en belichaamt de authentieke smaak van Zuid-Thaise keuken met krachtige specerijen, zeevruchten en kokosbasis. De combinatie van gefermenteerde rijstnoedels, vis en citroengras creëert een harmonieuze smaak, geliefd bij locals en bezoekers. Perfect voor wie betaalbare, authentieke Thaise gerechten zoekt.",
+      "detailed_ingredients": [
+        {
+          "name": "発酵米麺",
+          "purpose": "Essentieel voor de authentieke smaak van Kanom Jeen Nam Ya",
+          "substitutes": [
+            "Verse gefermenteerde rijstnoedels",
+            "Gedroogde gefermenteerde rijstnoedels",
+            "Gefermenteerde rijstnoedels pasta"
+          ]
+        },
+        {
+          "name": "魚",
+          "purpose": "Essentieel voor de authentieke smaak van Kanom Jeen Nam Ya",
+          "substitutes": [
+            "Verse vis",
+            "Gedroogde vis",
+            "Vis pasta"
+          ]
+        },
+        {
+          "name": "レモングラス",
+          "purpose": "Essentieel voor de authentieke smaak van Kanom Jeen Nam Ya",
+          "substitutes": [
+            "Verse citroengras",
+            "Gedroogd citroengras",
+            "Citroengras pasta"
+          ]
+        },
+        {
+          "name": "ガランガル",
+          "purpose": "Essentieel voor de authentieke smaak van Kanom Jeen Nam Ya",
+          "substitutes": [
+            "Verse galanga",
+            "Gedroogde galanga",
+            "Galanga pasta"
+          ]
+        }
+      ],
+      "cooking_method": {
+        "technique": "Roerbakken of bakken",
+        "steps_overview": "Het maken van Kanom Jeen Nam Ya vereist aandacht voor details en de juiste timing. Het harmoniseren van alle smaken terwijl de textuur van de ingrediënten behouden blijft, is de sleutel. De traditionele techniek, doorgegeven over generaties, garandeert een authentieke smaak.",
+        "cooking_tips": [
+          "Gebruik verse gefermenteerde rijstnoedels voor het beste resultaat",
+          "Pas de pittigheid aan naar wens",
+          "Verhit niet te veel om de textuur te behouden",
+          "Proef en pas de kruiden aan voor het opdienen"
+        ]
+      },
+      "cultural_significance": {
+        "origin_story": "Kanom Jeen Nam Ya is al generaties lang een hoofdbestanddeel van de Zuid-Thaise keuken en weerspiegelt de unieke kooktradities en lokale ingrediënten van de regio.",
+        "cultural_importance": "Dit gerecht vormt het centrum van de Zuid-Thaise keuken en belichaamt de balans en harmonie waar Thaise gerechten wereldwijd beroemd om zijn.",
+        "traditional_occasions": [
+          "Familiebijeenkomsten",
+          "Lokale feesten",
+          "Stadserversmarkten",
+          "Speciale vieringen"
+        ]
+      },
+      "variations": [
+        {
+          "name": "Kanom Jeen Nam Ya クラシック版",
+          "description": "Traditionele versie zoals geserveerd in lokale huizen"
+        },
+        {
+          "name": "Kanom Jeen Nam Ya モダン版",
+          "description": "Moderne variant met premium ingrediënten"
+        },
+        {
+          "name": "ベジタリアン Kanom Jeen Nam Ya",
+          "description": "Plantaardige versie met tofu of paddenstoelen"
+        }
+      ],
+      "serving_suggestions": {
+        "traditional_accompaniments": [
+          "Jasmijnrijst",
+          "Verse groenten",
+          "Thaise kruiden"
+        ],
+        "presentation": "Geserveerd in traditionele Thaise stijl op borden",
+        "eating_etiquette": "Geniet volgens Thaise gewoonten met vork en lepel"
+      },
+      "where_to_find": {
+        "best_restaurants": [
+          "Lokale Zuid-Thaise restaurants",
+          "Authentieke straatrestantaurants",
+          "Traditionele markten",
+          "Familiegerunde eetgelegenheden"
+        ],
+        "street_food_areas": [
+          "Nachtmarkten",
+          "Ochtendverse markten",
+          "Lokale foodcourts"
+        ],
+        "price_ranges": {
+          "street_vendor": "30-50 THB",
+          "market_stall": "40-60 THB",
+          "restaurant": "60-100 THB"
+        }
+      },
+      "translated_at": "2026-03-14T00:00:00.000Z"
+    }
+  }
+}

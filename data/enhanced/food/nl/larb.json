@@ -1,0 +1,906 @@
+{
+  "id": 8,
+  "slug": "larb",
+  "name": {
+    "en": "Larb",
+    "nl": "Larb",
+    "thai": "ลาบ"
+  },
+  "category": "salade",
+  "region": "noordoostelijk",
+  "spice_level": "pittig",
+  "description": {
+    "en": "Spicy meat salad with herbs lime juice and toasted rice powder",
+    "nl": "Pittige vleessalade met kruiden limoensap en geroosterd rijstpoeder"
+  },
+  "ingredients": [
+    "gehakt varkensvlees",
+    "munt",
+    "koriander",
+    "limoensap",
+    "vissaus",
+    "chili",
+    "geroosterde rijst"
+  ],
+  "allergens": [],
+  "dietary": [],
+  "image": "/images/food/larb.webp",
+  "preparation_time": "15 minuten",
+  "difficulty": "makkelijk",
+  "price_range": "budget",
+  "seo": {
+    "metaTitle": {
+      "en": "Larb Recipe | Authentic Thai salad",
+      "nl": "Larb Recept | Authentieke Thaise salad"
+    },
+    "metaDescription": {
+      "en": "Learn about Larb (ลาบ) - Spicy meat salad with herbs lime juice and toasted rice powder...",
+      "nl": "Leer over Larb (ลาบ) - Pittige vleessalade met kruiden limoensap en geroosterd rijstpoeder..."
+    }
+  },
+  "tags": [
+    "thaise-keuken",
+    "Thailand",
+    "salade",
+    "noordoostelijk",
+    "pittig",
+    "makkelijk",
+    "budget",
+    "gehakt-varken",
+    "munt",
+    "koriander"
+  ],
+  "cooking": {
+    "preparation_time": "15 minuten",
+    "difficulty": "makkelijk",
+    "spice_level": "pittig",
+    "serves": "2-4 personen"
+  },
+  "nutrition": {
+    "allergens": [],
+    "dietary": [],
+    "price_range": "Larb is het nationale gerecht van Laos en Noordoost-Thailand — een vleessalade die eigenlijk meer lijkt op een gedeconstructeerde worst. Deze pittige, kruidenrijke 'salade' combineert geroosterd rijstpoeder, verse kruiden en limoensap met gehakt vlees, wat een explosie van texturen en smaken oplevert. Het wordt gegeten met kleefrijst en rauwe groenten, en belichaamt de Isaan-manier van eten: gemeenschappelijk, gebalanceerd en gedurfd gekruid."
+  },
+  "enhanced_description": "Voegt nootachtige smaak en unieke korrelige textuur toe — het kenmerkende element",
+  "detailed_ingredients": [
+    {
+      "name": "Toasted Rice Powder (Khao Khua)",
+      "purpose": "Rooster je eigen rijst",
+      "substitutes": [
+        "Gekneusde rijstwafels",
+        "Geroosterde quinoavlokken",
+        "Biedt verkoelend contrast aan het vlees en de specerijen"
+      ]
+    },
+    {
+      "name": "Fresh Mint",
+      "purpose": "Thaise basilicum",
+      "substitutes": [
+        "Koriander",
+        "Shisobladeren",
+        "Voegt scherpe, zoete crunch toe"
+      ]
+    },
+    {
+      "name": "Shallots",
+      "purpose": "Rode ui",
+      "substitutes": [
+        "Bosuitjes",
+        "Prei (fijngesneden)",
+        "Snelle bereiding en vers mengen"
+      ]
+    }
+  ],
+  "cooking_method": {
+    "technique": "Het vlees wordt snel gekookt (of rauw gelaten voor traditionele versies), en dan meteen warm gemengd met kruiden en smaakmakers. De restwarmte verwelkt de kruiden lichtjes, waardoor hun oliën vrijkomen. Alles wordt net voor het serveren door elkaar gehusseld.",
+    "steps_overview": "Kook het vlees niet te lang door — het gaart door bij het mengen",
+    "cooking_tips": [
+      "Rooster rijst tot goudbruin en geurig",
+      "Voeg kruiden op het laatste moment toe om versheid te behouden",
+      "Proef en pas aan — moet zuur, pittig en zout zijn",
+      "Serveer meteen — bewaart niet goed",
+      "Oeroude Laotiaanse schotel die ouder is dan de geschreven geschiedenis. Oorspronkelijk gemaakt met rauw vlees en bloed, was het een ceremonieel gerecht voor speciale gelegenheden. Het woord 'larb' betekent 'geluk' in het Laotiaans."
+    ]
+  },
+  "cultural_significance": {
+    "origin_story": "Larb wordt geserveerd bij elke belangrijke Isaan-ceremonie — geboorten, sterfgevallen, bruiloften en Nieuwjaar. Het symboliseert gemeenschap en delen, altijd gegeten met kleefrijst gerold tot balletjes.",
+    "cultural_importance": "Baci-ceremonies",
+    "traditional_occasions": [
+      "Tempelfestivals",
+      "Nieuwjaarsvieringen",
+      "Welkompartijen voor eregasten",
+      "Rauwe rundvleesversie met bloed — traditionele Isaan-stijl"
+    ]
+  },
+  "variations": [
+    {
+      "name": "Larb Dip",
+      "description": "Visversie populair langs de Mekong-rivier"
+    },
+    {
+      "name": "Larb Pla",
+      "description": "Gekookte varkensversie — meest voorkomend en veiligst"
+    },
+    {
+      "name": "Larb Moo",
+      "description": "Jasmijnrijst"
+    }
+  ],
+  "serving_suggestions": {
+    "traditional_accompaniments": [
+      "Verse groenten",
+      "Geserveerd warm in traditionele Thaise stijl"
+    ],
+    "presentation": "Geniet met vork en lepel",
+    "eating_etiquette": "Verschilt per bereiding"
+  },
+  "nutritional_info": {
+    "calories_per_serving": "Rijk aan Thaise kruiden en specerijen",
+    "health_benefits": [
+      "Gebalanceerde smaken",
+      "Bevat traditionele Thaise ingrediënten"
+    ],
+    "dietary_notes": [
+      "Som Tam Jay So (Bangkok) — Authentieke Isaan-smaken"
+    ]
+  },
+  "where_to_find": {
+    "best_restaurants": [
+      "Larb Loi (Bangkok) — Gespecialiseerd larb-restaurant",
+      "Elk Isaan-restaurant met mor lam-muziek",
+      "Huai Khwang Night Market"
+    ],
+    "street_food_areas": [
+      "JJ Green Night Market",
+      "Saphan Phut Night Market",
+      "40-70 THB (€1,10-€1,90)"
+    ],
+    "price_ranges": {
+      "street_food": "80-150 THB (€2,20-€4,10)",
+      "restaurant": "200-400 THB (€5,50-€11)",
+      "upscale": "Larb is het nationale gerecht van Laos en Noordoost-Thailand — een vleessalade die eigenlijk meer lijkt op een gedeconstructeerde worst. Deze pittige, kruidenrijke 'salade' combineert geroosterd rijstpoeder, verse kruiden en limoensap met gehakt vlees, wat een explosie van texturen en smaken oplevert. Het wordt gegeten met kleefrijst en rauwe groenten, en belichaamt de Isaan-manier van eten: gemeenschappelijk, gebalanceerd en gedurfd gekruid."
+    }
+  },
+  "enhanced_at": "2025-05-25T21:52:46.386Z",
+  "translations": {
+    "nl": {
+      "enhanced_description": "Voegt nootachtige smaak en unieke korrelige textuur toe — het kenmerkende element",
+      "detailed_ingredients": [
+        {
+          "name": "Geroosterd rijstpoeder (Khao Khua)",
+          "purpose": "Rooster je eigen rijst",
+          "substitutes": [
+            "Gekneusde rijstwafels",
+            "Geroosterde quinoavlokken",
+            "Biedt verkoelend contrast aan het vlees en de specerijen"
+          ]
+        },
+        {
+          "name": "Verse munt",
+          "purpose": "Thaise basilicum",
+          "substitutes": [
+            "Koriander",
+            "Shisobladeren",
+            "Voegt scherpe, zoete crunch toe"
+          ]
+        },
+        {
+          "name": "Sjalotten",
+          "purpose": "Rode ui",
+          "substitutes": [
+            "Bosuitjes",
+            "Prei (fijngesneden)",
+            "Snelle bereiding en vers mengen"
+          ]
+        }
+      ],
+      "cooking_method": {
+        "technique": "Het vlees wordt snel gekookt (of rauw gelaten voor traditionele versies), en dan meteen warm gemengd met kruiden en smaakmakers. De restwarmte verwelkt de kruiden lichtjes, waardoor hun oliën vrijkomen. Alles wordt net voor het serveren door elkaar gehusseld.",
+        "steps_overview": "Kook het vlees niet te lang door — het gaart door bij het mengen",
+        "cooking_tips": [
+          "Rooster rijst tot goudbruin en geurig",
+          "Voeg kruiden op het laatste moment toe om versheid te behouden",
+          "Proef en pas aan — moet zuur, pittig en zout zijn",
+          "Serveer meteen — bewaart niet goed",
+          "Oeroude Laotiaanse schotel die ouder is dan de geschreven geschiedenis. Oorspronkelijk gemaakt met rauw vlees en bloed, was het een ceremonieel gerecht voor speciale gelegenheden. Het woord 'larb' betekent 'geluk' in het Laotiaans."
+        ]
+      },
+      "cultural_significance": {
+        "origin_story": "Larb wordt geserveerd bij elke belangrijke Isaan-ceremonie — geboorten, sterfgevallen, bruiloften en Nieuwjaar. Het symboliseert gemeenschap en delen, altijd gegeten met kleefrijst gerold tot balletjes.",
+        "cultural_importance": "Baci-ceremonies",
+        "traditional_occasions": [
+          "Tempelfestivals",
+          "Nieuwjaarsvieringen",
+          "Welkompartijen voor eregasten",
+          "Rauwe rundvleesversie met bloed — traditionele Isaan-stijl"
+        ]
+      },
+      "variations": [
+        {
+          "name": "Larb Dip",
+          "description": "Visversie populair langs de Mekong-rivier"
+        },
+        {
+          "name": "Larb Pla",
+          "description": "Gekookte varkensversie — meest voorkomend en veiligst"
+        },
+        {
+          "name": "Larb Moo",
+          "description": "Kleefrijst"
+        }
+      ],
+      "serving_suggestions": {
+        "traditional_accompaniments": [
+          "Verse groenten",
+          "Geserveerd warm in traditionele Thaise stijl"
+        ],
+        "presentation": "Gegeten met kleefrijst gerold met de vingers tot balletjes",
+        "eating_etiquette": "Som Tam Jay So (Bangkok) — Authentieke Isaan-smaken"
+      },
+      "where_to_find": {
+        "best_restaurants": [
+          "Larb Loi (Bangkok) — Gespecialiseerd larb-restaurant",
+          "Elk Isaan-restaurant met mor lam-muziek",
+          "Huai Khwang Night Market"
+        ],
+        "street_food_areas": [
+          "JJ Green Night Market",
+          "Saphan Phut Night Market",
+          "Larb is het nationale gerecht van Laos en Noordoost-Thailand — een vleessalade die eigenlijk meer lijkt op een gedeconstructeerde worst. Deze pittige, kruidenrijke 'salade' combineert geroosterd rijstpoeder, verse kruiden en limoensap met gehakt vlees, wat een explosie van texturen en smaken oplevert. Het wordt gegeten met kleefrijst en rauwe groenten, en belichaamt de Isaan-manier van eten: gemeenschappelijk, gebalanceerd en gedurfd gekruid."
+        ]
+      },
+      "translated_at": "2026-03-10T00:00:00.000Z"
+    },
+    "fr": {
+      "enhanced_description": "Voegt nootachtige smaak en unieke korrelige textuur toe — het kenmerkende element",
+      "detailed_ingredients": [
+        {
+          "name": "Poudre de riz grillé (Khao Khua)",
+          "purpose": "Rooster je eigen rijst",
+          "substitutes": [
+            "Gekneusde rijstwafels",
+            "Geroosterde quinoavlokken",
+            "Biedt verkoelend contrast aan het vlees en de specerijen"
+          ]
+        },
+        {
+          "name": "Menthe fraîche",
+          "purpose": "Thaise basilicum",
+          "substitutes": [
+            "Koriander",
+            "Shisobladeren",
+            "Voegt scherpe, zoete crunch toe"
+          ]
+        },
+        {
+          "name": "Échalotes",
+          "purpose": "Rode ui",
+          "substitutes": [
+            "Bosuitjes",
+            "Prei (fijngesneden)",
+            "Snelle bereiding en vers mengen"
+          ]
+        }
+      ],
+      "cooking_method": {
+        "technique": "Het vlees wordt snel gekookt (of rauw gelaten voor traditionele versies), en dan meteen warm gemengd met kruiden en smaakmakers. De restwarmte verwelkt de kruiden lichtjes, waardoor hun oliën vrijkomen. Alles wordt net voor het serveren door elkaar gehusseld.",
+        "steps_overview": "Kook het vlees niet te lang door — het gaart door bij het mengen",
+        "cooking_tips": [
+          "Rooster rijst tot goudbruin en geurig",
+          "Voeg kruiden op het laatste moment toe om versheid te behouden",
+          "Proef en pas aan — moet zuur, pittig en zout zijn",
+          "Serveer meteen — bewaart niet goed",
+          "Oeroude Laotiaanse schotel die ouder is dan de geschreven geschiedenis. Oorspronkelijk gemaakt met rauw vlees en bloed, was het een ceremonieel gerecht voor speciale gelegenheden. Het woord 'larb' betekent 'geluk' in het Laotiaans."
+        ]
+      },
+      "cultural_significance": {
+        "origin_story": "Larb wordt geserveerd bij elke belangrijke Isaan-ceremonie — geboorten, sterfgevallen, bruiloften en Nieuwjaar. Het symboliseert gemeenschap en delen, altijd gegeten met kleefrijst gerold tot balletjes.",
+        "cultural_importance": "Baci-ceremonies",
+        "traditional_occasions": [
+          "Tempelfestivals",
+          "Nieuwjaarsvieringen",
+          "Welkompartijen voor eregasten",
+          "Rauwe rundvleesversie met bloed — traditionele Isaan-stijl"
+        ]
+      },
+      "variations": [
+        {
+          "name": "Larb Dip",
+          "description": "Visversie populair langs de Mekong-rivier"
+        },
+        {
+          "name": "Larb Pla",
+          "description": "Gekookte varkensversie — meest voorkomend en veiligst"
+        },
+        {
+          "name": "Larb Moo",
+          "description": "Kleefrijst"
+        }
+      ],
+      "serving_suggestions": {
+        "traditional_accompaniments": [
+          "Verse groenten",
+          "Geserveerd warm in traditionele Thaise stijl"
+        ],
+        "presentation": "Gegeten met kleefrijst gerold met de vingers tot balletjes",
+        "eating_etiquette": "Som Tam Jay So (Bangkok) — Authentieke Isaan-smaken"
+      },
+      "where_to_find": {
+        "best_restaurants": [
+          "Larb Loi (Bangkok) — Gespecialiseerd larb-restaurant",
+          "Elk Isaan-restaurant met mor lam-muziek",
+          "Huai Khwang Night Market"
+        ],
+        "street_food_areas": [
+          "JJ Green Night Market",
+          "JJ Green Nachtmarkt",
+          "Saphan Phut Nachtmarkt"
+        ]
+      },
+      "translated_at": "2026-03-10T00:00:00.000Z"
+    },
+    "de": {
+      "enhanced_description": "Larb is het nationale gerecht van Laos en Noord-Thailand — een vleessalade die eigenlijk meer lijkt op een gedekonstrueerde worst. Deze pittige, kruidenrijke 'salade' combineert geroosterd rijstpoeder, verse kruiden en limoensap met gehakt vlees en creëert een explosie van texturen en aroma's. Het wordt gegeten met kleefrijst en rauwe groenten en belichaamt de Isaan-manier van eten: gemeenschappelijk, gebalanceerd en gedurfd gekruid.",
+      "detailed_ingredients": [
+        {
+          "name": "Geröstetes Reispulver (Khao Khua)",
+          "purpose": "Geeft een nootachtige smaak en unieke korrelige textuur — het kenmerk van het gerecht",
+          "substitutes": [
+            "Rooster de rijst zelf",
+            "Gekruimelde rijstkoekjes",
+            "Geroosterde quinoa vlokken"
+          ]
+        },
+        {
+          "name": "Frische Minze",
+          "purpose": "Zorgt voor een verfrissend contrast met het vlees en de pittigheid",
+          "substitutes": [
+            "Thais basilicum",
+            "Koriander",
+            "Shiso-bladeren"
+          ]
+        },
+        {
+          "name": "Schalotten",
+          "purpose": "Geeft een scherpe, zoete beet",
+          "substitutes": [
+            "Rode ui",
+            "Bosui",
+            "Prei (fijn gesneden)"
+          ]
+        }
+      ],
+      "cooking_method": {
+        "technique": "Snelle bereiding en vers mengen",
+        "steps_overview": "Het vlees wordt snel gekookt (of rauw gelaten in traditionele versies) en dan meteen warm gemengd met kruiden en specerijen. De restwarmte laat de kruiden licht verwelken en bevrijdt hun etherische oliën. Alles wordt kort voor het serveren gemengd.",
+        "cooking_tips": [
+          "Kook het vlees niet te lang — het gaart verder tijdens het mengen",
+          "Rooster de rijst goudbruin en geurig",
+          "Voeg kruiden pas op het laatste moment toe om de versheid te behouden",
+          "Proef en pas aan — het moet zuur, pittig en zout zijn",
+          "Serveer onmiddellijk — het gerecht bewaart niet goed"
+        ]
+      },
+      "cultural_significance": {
+        "origin_story": "Een oeroud Laotiaans gerecht, ouder dan de geschreven geschiedenis. Oorspronkelijk bereid met rauw vlees en bloed, was het een ceremonieel gerecht voor speciale gelegenheden. Het woord 'Larb' betekent 'geluk' in het Laotiaans.",
+        "cultural_importance": "Larb wordt geserveerd bij elke belangrijke Isaan-ceremonie — geboorten, overlijdens, bruiloften en nieuwjaar. Het staat voor gemeenschap en delen en wordt altijd gegeten met kleefrijst die tot balletjes wordt gerold.",
+        "traditional_occasions": [
+          "Baci-ceremonies",
+          "Tempelfeesten",
+          "Nieuwjaarsvieringen",
+          "Welkomfeesten voor eregasten"
+        ]
+      },
+      "variations": [
+        {
+          "name": "Larb Dip",
+          "description": "Rauw rundvlees met bloed — traditionele Isaan-stijl"
+        },
+        {
+          "name": "Larb Pla",
+          "description": "Visversie, populair langs de Mekong"
+        },
+        {
+          "name": "Larb Moo",
+          "description": "Gekookte varkensvleesversie — het meest voorkomend en veiligst"
+        }
+      ],
+      "serving_suggestions": {
+        "traditional_accompaniments": [
+          "Kleefrijst",
+          "Verse groenten"
+        ],
+        "presentation": "Warm geserveerd in traditionele Thaise stijl",
+        "eating_etiquette": "Wordt gegeten met kleefrijst die met de vingers tot balletjes wordt gerold"
+      },
+      "where_to_find": {
+        "best_restaurants": [
+          "Som Tam Jay So (Bangkok) — Authentieke Isaan-smaken",
+          "Larb Loi (Bangkok) — Gespecialiseerd Larb-restaurant",
+          "Elk Isaan-restaurant waar Mor Lam-muziek speelt"
+        ],
+        "street_food_areas": [
+          "Huai Khwang Nachtmarkt",
+          "JJ Green Nachtmarkt",
+          "Saphan Phut Nachtmarkt"
+        ]
+      },
+      "translated_at": "2026-03-10T00:00:00.000Z"
+    },
+    "zh": {
+      "enhanced_description": "Larb is het nationale gerecht van Laos en Noord-Thailand — een vleessalade die eigenlijk meer lijkt op een gedekonstrueerde worst. Deze pittige, kruidenrijke 'salade' combineert geroosterd rijstpoeder, verse kruiden en limoensap met gehakt vlees en creëert een explosie van texturen en aroma's. Het wordt gegeten met kleefrijst en rauwe groenten en belichaamt de Isaan-manier van eten: gemeenschappelijk, gebalanceerd en gedurfd gekruid.",
+      "detailed_ingredients": [
+        {
+          "name": "烤米粉（Khao Khua）",
+          "purpose": "Geeft een nootachtige smaak en unieke korrelige textuur — het kenmerk van het gerecht",
+          "substitutes": [
+            "Rooster de rijst zelf",
+            "Gekruimelde rijstkoekjes",
+            "Geroosterde quinoa vlokken"
+          ]
+        },
+        {
+          "name": "新鲜薄荷",
+          "purpose": "Zorgt voor een verfrissend contrast met het vlees en de pittigheid",
+          "substitutes": [
+            "Thais basilicum",
+            "Koriander",
+            "Shiso-bladeren"
+          ]
+        },
+        {
+          "name": "红葱头",
+          "purpose": "Geeft een scherpe, zoete beet",
+          "substitutes": [
+            "Rode ui",
+            "Bosui",
+            "Prei (fijn gesneden)"
+          ]
+        }
+      ],
+      "cooking_method": {
+        "technique": "Snelle bereiding en vers mengen",
+        "steps_overview": "Het vlees wordt snel gekookt (of rauw gelaten in traditionele versies) en dan meteen warm gemengd met kruiden en specerijen. De restwarmte laat de kruiden licht verwelken en bevrijdt hun etherische oliën. Alles wordt kort voor het serveren gemengd.",
+        "cooking_tips": [
+          "Kook het vlees niet te lang — het gaart verder tijdens het mengen",
+          "Rooster de rijst goudbruin en geurig",
+          "Voeg kruiden pas op het laatste moment toe om de versheid te behouden",
+          "Proef en pas aan — het moet zuur, pittig en zout zijn",
+          "Serveer onmiddellijk — het gerecht bewaart niet goed"
+        ]
+      },
+      "cultural_significance": {
+        "origin_story": "Een oeroud Laotiaans gerecht, ouder dan de geschreven geschiedenis. Oorspronkelijk bereid met rauw vlees en bloed, was het een ceremonieel gerecht voor speciale gelegenheden. Het woord 'Larb' betekent 'geluk' in het Laotiaans.",
+        "cultural_importance": "Larb wordt geserveerd bij elke belangrijke Isaan-ceremonie — geboorten, overlijdens, bruiloften en nieuwjaar. Het staat voor gemeenschap en delen en wordt altijd gegeten met kleefrijst die tot balletjes wordt gerold.",
+        "traditional_occasions": [
+          "Baci-ceremonies",
+          "Tempelfeesten",
+          "Nieuwjaarsvieringen",
+          "Welkomfeesten voor eregasten"
+        ]
+      },
+      "variations": [
+        {
+          "name": "Larb Dip",
+          "description": "Rauw rundvlees met bloed — traditionele Isaan-stijl"
+        },
+        {
+          "name": "Larb Pla",
+          "description": "Visversie, populair langs de Mekong"
+        },
+        {
+          "name": "Larb Moo",
+          "description": "Gekookte varkensvleesversie — het meest voorkomend en veiligst"
+        }
+      ],
+      "serving_suggestions": {
+        "traditional_accompaniments": [
+          "Kleefrijst",
+          "Verse groenten"
+        ],
+        "presentation": "Warm geserveerd in traditionele Thaise stijl",
+        "eating_etiquette": "Wordt gegeten met kleefrijst die met de vingers tot balletjes wordt gerold"
+      },
+      "where_to_find": {
+        "best_restaurants": [
+          "Som Tam Jay So (Bangkok) — Authentieke Isaan-smaken",
+          "Larb Loi (Bangkok) — Gespecialiseerd Larb-restaurant",
+          "Elk Isaan-restaurant waar Mor Lam-muziek speelt"
+        ],
+        "street_food_areas": [
+          "Huai Khwang Nachtmarkt",
+          "JJ Green Nachtmarkt",
+          "Saphan Phut Nachtmarkt"
+        ]
+      },
+      "translated_at": "2026-03-11T00:00:00.000Z"
+    },
+    "ru": {
+      "enhanced_description": "Larb is het nationale gerecht van Laos en Noord-Thailand — een vleessalade die eigenlijk meer lijkt op een gedekonstrueerde worst. Deze pittige, kruidenrijke 'salade' combineert geroosterd rijstpoeder, verse kruiden en limoensap met gehakt vlees en creëert een explosie van texturen en aroma's. Het wordt gegeten met kleefrijst en rauwe groenten en belichaamt de Isaan-manier van eten: gemeenschappelijk, gebalanceerd en gedurfd gekruid.",
+      "detailed_ingredients": [
+        {
+          "name": "Обжаренная рисовая пудра (Кхао Кхуа)",
+          "purpose": "Geeft een nootachtige smaak en unieke korrelige textuur — het kenmerk van het gerecht",
+          "substitutes": [
+            "Rooster de rijst zelf",
+            "Gekruimelde rijstkoekjes",
+            "Geroosterde quinoa vlokken"
+          ]
+        },
+        {
+          "name": "Свежая мята",
+          "purpose": "Zorgt voor een verfrissend contrast met het vlees en de pittigheid",
+          "substitutes": [
+            "Thais basilicum",
+            "Koriander",
+            "Shiso-bladeren"
+          ]
+        },
+        {
+          "name": "Шалот",
+          "purpose": "Geeft een scherpe, zoete beet",
+          "substitutes": [
+            "Rode ui",
+            "Bosui",
+            "Prei (fijn gesneden)"
+          ]
+        }
+      ],
+      "cooking_method": {
+        "technique": "Snelle bereiding en vers mengen",
+        "steps_overview": "Het vlees wordt snel gekookt (of rauw gelaten in traditionele versies) en dan meteen warm gemengd met kruiden en specerijen. De restwarmte laat de kruiden licht verwelken en bevrijdt hun etherische oliën. Alles wordt kort voor het serveren gemengd.",
+        "cooking_tips": [
+          "Kook het vlees niet te lang — het gaart verder tijdens het mengen",
+          "Rooster de rijst goudbruin en geurig",
+          "Voeg kruiden pas op het laatste moment toe om de versheid te behouden",
+          "Proef en pas aan — het moet zuur, pittig en zout zijn",
+          "Serveer onmiddellijk — het gerecht bewaart niet goed"
+        ]
+      },
+      "cultural_significance": {
+        "origin_story": "Een oeroud Laotiaans gerecht, ouder dan de geschreven geschiedenis. Oorspronkelijk bereid met rauw vlees en bloed, was het een ceremonieel gerecht voor speciale gelegenheden. Het woord 'Larb' betekent 'geluk' in het Laotiaans.",
+        "cultural_importance": "Larb wordt geserveerd bij elke belangrijke Isaan-ceremonie — geboorten, overlijdens, bruiloften en nieuwjaar. Het staat voor gemeenschap en delen en wordt altijd gegeten met kleefrijst die tot balletjes wordt gerold.",
+        "traditional_occasions": [
+          "Baci-ceremonies",
+          "Tempelfeesten",
+          "Nieuwjaarsvieringen",
+          "Welkomfeesten voor eregasten"
+        ]
+      },
+      "variations": [
+        {
+          "name": "Larb Dip",
+          "description": "Rauw rundvlees met bloed — traditionele Isaan-stijl"
+        },
+        {
+          "name": "Larb Pla",
+          "description": "Visversie, populair langs de Mekong"
+        },
+        {
+          "name": "Larb Moo",
+          "description": "Gekookte varkensvleesversie — het meest voorkomend en veiligst"
+        }
+      ],
+      "serving_suggestions": {
+        "traditional_accompaniments": [
+          "Kleefrijst",
+          "Verse groenten"
+        ],
+        "presentation": "Warm geserveerd in traditionele Thaise stijl",
+        "eating_etiquette": "Wordt gegeten met kleefrijst die met de vingers tot balletjes wordt gerold"
+      },
+      "where_to_find": {
+        "best_restaurants": [
+          "Som Tam Jay So (Bangkok) — Authentieke Isaan-smaken",
+          "Larb Loi (Bangkok) — Gespecialiseerd Larb-restaurant",
+          "Elk Isaan-restaurant waar Mor Lam-muziek speelt"
+        ],
+        "street_food_areas": [
+          "Huai Khwang Nachtmarkt",
+          "JJ Green Nachtmarkt",
+          "Saphan Phut Nachtmarkt"
+        ]
+      },
+      "translated_at": "2026-03-11T00:00:00.000Z"
+    },
+    "ko": {
+      "enhanced_description": "Larb is het nationale gerecht van Laos en de noordoostelijke regio van Thailand (Isaan), en gaat verder dan een eenvoudige vleessalade; het is een explosie van smaken die lijkt op een gedekonstrueerde worst. Het combineert de nootachtige textuur van geroosterde rijstpoeder, de frisse geur van verse kruiden en de zuurheid van limoensap met gehakt vlees, wat een unieke en intense smaak creëert. Gegeten met kleefrijst en rauwe groenten, vat het de essentie van de Isaan-voedselcultuur samen — gemeenschappelijk, gebalanceerd en met gedurfde smaken. Dit eenvoudige recept is in ongeveer 15 minuten klaar, maar de diepte van de smaak is verbazingwekkend.",
+      "detailed_ingredients": [
+        {
+          "name": "볶은 쌀가루 (카오쿠아)",
+          "purpose": "De signatuur-ingrediënt van larb die nootachtige smaak en unieke korrelige textuur toevoegt",
+          "substitutes": [
+            "Zelf geroosterde rijstpoeder",
+            "Gekruimelde rijstkoekjes",
+            "Geroosterde quinoa vlokken"
+          ]
+        },
+        {
+          "name": "신선한 민트",
+          "purpose": "Essentiële kruiden die een verfrissend contrast bieden aan het vlees en de pittigheid",
+          "substitutes": [
+            "Thais basilicum",
+            "Koriander",
+            "Perilla-bladeren"
+          ]
+        },
+        {
+          "name": "샬롯",
+          "purpose": "Ingrediënt dat scherpe zoetheid en knapperige textuur toevoegt",
+          "substitutes": [
+            "Rode ui",
+            "Bosui",
+            "Prei (dun gesneden)"
+          ]
+        },
+        {
+          "name": "다진 돼지고기",
+          "purpose": "Het hoofdingrediënt van dit gerecht, snel gekookt en gemengd met andere ingrediënten",
+          "substitutes": [
+            "Gehakt kippenvlees",
+            "Gehakt rundvlees",
+            "Gehakte vis (larb pla)"
+          ]
+        }
+      ],
+      "cooking_method": {
+        "technique": "Snelle bereiding en vers mengen",
+        "steps_overview": "Kook het vlees snel (of laat het rauw in traditionele versies), en meng het dan meteen warm met kruiden en specerijen. De restwarmte laat de kruiden licht verwelken en bevrijdt hun aromatische oliën. Alle ingrediënten worden gemengd vlak voor het serveren.",
+        "cooking_tips": [
+          "Kook het vlees niet te lang — de restwarmte tijdens het mengen laat het verder garen",
+          "Rooster de rijst tot hij goudkleurig is en geurig",
+          "Voeg kruiden pas op het laatste moment toe om de versheid te behouden",
+          "Proef en pas aan — het moet een balans hebben van zuur, pittig en zout",
+          "Serveer onmiddellijk — de smaak verandert als het staat"
+        ]
+      },
+      "cultural_significance": {
+        "origin_story": "Een oud Laotiaans gerecht dat ouder is dan de geregistreerde geschiedenis. Oorspronkelijk gemaakt met rauw vlees en bloed als ritueel eten, en het woord 'larb' betekent 'geluk' in het Laotiaans.",
+        "cultural_importance": "Larb verschijnt bij alle belangrijke gelegenheden in de Isaan-regio — geboorten, begrafenissen, huwelijken en nieuwjaar. Het symboliseert gemeenschap en delen, en wordt altijd gegeten met kleefrijst die tot balletjes is gevormd. Het is een van de meest geliefde gerechten in Thailand en overal te vinden.",
+        "traditional_occasions": [
+          "Baci-rituelen",
+          "Tempelfestivals",
+          "Nieuwjaarsvieringen",
+          "Welkomfeesten voor eregasten"
+        ]
+      },
+      "variations": [
+        {
+          "name": "랍 딥 (생고기 랍)",
+          "description": "Versie met rauw rundvlees en bloed — traditionele Isaan-stijl."
+        },
+        {
+          "name": "랍 무 (돼지고기)",
+          "description": "De meest voorkomende en populaire versie met gehakt varkensvlees."
+        },
+        {
+          "name": "랍 가이 (닭고기)",
+          "description": "Een lichtere versie met gehakt kippenvlees, populair bij gezondheidsbewuste eters."
+        }
+      ],
+      "serving_suggestions": {
+        "traditional_accompaniments": [
+          "Plakkerige rijst (khao niaow)",
+          "Verse groenten (kool, perilla-bladeren, yardlong bonen)",
+          "Chilipepers"
+        ],
+        "presentation": "Opdienen op een bord met verse kruiden en groenten in Isaan-stijl",
+        "eating_etiquette": "Volgens Isaan-traditie de plakkerige rijst met de hand tot balletjes kneden en met larb eten"
+      },
+      "where_to_find": {
+        "best_restaurants": [
+          "Isaan-specialistenrestaurant",
+          "Som Tam-specialiteit (verkoopt ook larb)",
+          "Lokale marktrestaurantjes",
+          "Bierrestaurant"
+        ],
+        "street_food_areas": [
+          "Nachtmarkt",
+          "Ochtendmarkt",
+          "Lokale foodcourt"
+        ],
+        "price_ranges": {
+          "street_vendor": "40-60 THB",
+          "market_stall": "50-80 THB",
+          "restaurant": "80-150 THB"
+        }
+      },
+      "translated_at": "2026-03-14T00:00:00.000Z"
+    },
+    "th": {
+      "enhanced_description": "Larb is een nationaal gerecht van Laos en Isaan. Gehakt vlees op smaak gebracht met limoensap, vissaus, geroosterde rijst, chilipoeder en verse kruiden. Het is een yumsalade met zure, pittige en zoute smaken, compleet in alle tonen. Geserveerd bij elke belangrijke gelegenheid.",
+      "detailed_ingredients": [
+        {
+          "name": "Toasted Rice Powder (Khao Khua)",
+          "purpose": "Voegt nootachtige smaak en unieke korrelige textuur toe - het kenmerkende element",
+          "substitutes": [
+            "Rooster je eigen rijst",
+            "Gekneusde rijstcrackers",
+            "Geroosterde quinoa-vlokken"
+          ]
+        },
+        {
+          "name": "Fresh Mint",
+          "purpose": "Biedt een verkoelende tegenhanger voor het vlees en de specerijen",
+          "substitutes": [
+            "Thaise basilicum",
+            "Koriander",
+            "Shiso-bladeren"
+          ]
+        },
+        {
+          "name": "Shallots",
+          "purpose": "Voegt scherpe, zoete crunch toe",
+          "substitutes": [
+            "Rode ui",
+            "Bosuitjes",
+            "Prei (fijn gesneden)"
+          ]
+        }
+      ],
+      "cooking_method": {
+        "technique": "Snelle bereiding en vers mengen",
+        "steps_overview": "Gehakt vlees kort bakken (of rauw in traditionele stijl) en onmiddellijk mengen met limoensap, vissaus, geroosterde rijst, chilipoeder en verse kruiden",
+        "cooking_tips": [
+          "Kook het vlees niet te lang door - het gaart verder bij het mengen",
+          "Rooster rijst tot goudkleurig en geurig",
+          "Voeg kruiden op het laatste moment toe om versheid te behouden",
+          "Proef en pas aan - moet zuur, pittig en zout zijn",
+          "Direct serveren - het blijft niet lang goed"
+        ]
+      },
+      "cultural_significance": {
+        "origin_story": "Een oude Laotiaanse maaltijd die ouder is dan de opgenomen geschiedenis. Oorspronkelijk gemaakt van rauw vlees en wilde kruiden. Tegenwoordig een nationaal gerecht van Laos en Isaan.",
+        "cultural_importance": "Larb wordt geserveerd bij elke belangrijke ceremonie van de Isaan-mensen, van geboorten, begrafenissen, bruiloften tot inwijdingen",
+        "traditional_occasions": [
+          "Baci-ceremonies",
+          "Tempelfestivals",
+          "Nieuwjaarsvieringen",
+          "Welkompartijen voor eregasten"
+        ]
+      },
+      "variations": [
+        {
+          "name": "Larb Dip",
+          "description": "Rauwe rundvleesversie met bloed - traditionele Isaan-stijl"
+        },
+        {
+          "name": "Larb Pla",
+          "description": "Visversie populair langs de Mekong-rivier"
+        },
+        {
+          "name": "Larb Moo",
+          "description": "Gebakken varkensversie - meest voorkomend en veiligst"
+        }
+      ],
+      "serving_suggestions": {
+        "traditional_accompaniments": [
+          "Jasmijnrijst",
+          "Verse groenten"
+        ],
+        "presentation": "Serveren heet in traditionele Thaise stijl",
+        "eating_etiquette": "Eten met lepel en vork"
+      },
+      "where_to_find": {
+        "best_restaurants": [
+          "Som Tam Jay So (Bangkok) - Authentieke Isaan-smaken",
+          "Larb Loi (Bangkok) - Gespecialiseerd larb-restaurant",
+          "Elk Isaan-restaurant met mor lam-muziek"
+        ],
+        "street_food_areas": [
+          "Huai Khwang Night Market",
+          "JJ Green Night Market",
+          "Saphan Phut Night Market"
+        ],
+        "price_ranges": {
+          "street_food": "40-70 THB (€1,10-€1,90)",
+          "restaurant": "80-150 THB (€2,40-€4,50)",
+          "upscale": "200-400 THB (€6-€12)"
+        }
+      },
+      "translated_at": "2026-03-14T00:00:00.000Z"
+    },
+    "ja": {
+      "enhanced_description": "Larp is een nationaal gerecht van Laos en Noord-Oost-Thailand, een soort vlees salade die lijkt op een ontleedde worst. Deze stimulerende, kruidenrijke 'salade' combineert gehakt vlees met geroosterde rijstmeel, verse kruiden en limoensap, wat een explosie van textuur en smaak creëert. Gegeten met kleefrijst en rauwe groenten, belichaamt het de Isaan-manier van eten. Kenmerken: gemeenschapszin, balans en gedurfde smaken.",
+      "detailed_ingredients": [
+        {
+          "name": "Toasted Rice Powder (Khao Khua)",
+          "purpose": "Voegt geurige smaak en unieke korrelige textuur toe, het beslissende element van larp",
+          "substitutes": [
+            "Zelfgemaakte geroosterde rijst",
+            "Gekneusde rijstcrackers",
+            "Geroosterde quinoa-vlokken"
+          ]
+        },
+        {
+          "name": "Fresh Mint（ミント）",
+          "purpose": "Biedt een verkoelende tegenhanger voor de stimulans van vlees en specerijen",
+          "substitutes": [
+            "Thaise basilicum",
+            "Koriander (Chinese peterselie)",
+            "Shiso-bladeren"
+          ]
+        },
+        {
+          "name": "Shallots（シャロット）",
+          "purpose": "Voegt scherpe, zoete crunch toe",
+          "substitutes": [
+            "Rode ui",
+            "Bosui",
+            "Prei (dun gesneden)"
+          ]
+        }
+      ],
+      "cooking_method": {
+        "technique": "Snelle verhitting en vers mengen terwijl het warm is",
+        "steps_overview": "Vlees kort verhitten (traditioneel soms rauw). Mengen met kruiden en smaakmakers terwijl het warm is, zodat de restwarmte de kruiden zacht maakt en het aroma versterkt. Alles mengen vlak voor het opdienen.",
+        "cooking_tips": [
+          "Vlees niet te lang verhitten. Het gaart verder door de restwarmte bij het mengen.",
+          "Rijst roosteren tot goudkleurig en geurig.",
+          "Kruiden op het laatste moment toevoegen om versheid te behouden.",
+          "Proeven en aanpassen. Balans van zuur, pittig en zout.",
+          "Direct serveren. Het blijft niet lang goed."
+        ]
+      },
+      "cultural_significance": {
+        "origin_story": "Een oude Laotiaanse keuken uit de tijd vóór de opgenomen geschiedenis. Oorspronkelijk gemaakt met rauw vlees en bloed voor speciale rituelen. Het woord 'larp' betekent 'geluk' in het Laotiaans.",
+        "cultural_importance": "Larp wordt geserveerd bij alle belangrijke rituelen in Isaan: geboorten, sterfgevallen, bruiloften, nieuwjaar. Het symboliseert gemeenschap en delen, met de traditie om kleefrijst tot balletjes te kneden.",
+        "traditional_occasions": [
+          "Baci-rituelen",
+          "Tempelfestivals",
+          "Nieuwjaarsvieringen",
+          "Welkompartijen voor eregasten"
+        ]
+      },
+      "variations": [
+        {
+          "name": "Larb Dip",
+          "description": "Rauwe vleesdip met bloed - traditionele Isaan-stijl"
+        },
+        {
+          "name": "Larb Pla",
+          "description": "Visversie (Larb Pla) - populair in de Mekong-regio"
+        },
+        {
+          "name": "Larb Moo",
+          "description": "Gehakte varkensversie - meest voorkomend en veiligst"
+        }
+      ],
+      "serving_suggestions": {
+        "traditional_accompaniments": [
+          "Jasmijnrijst",
+          "Verse groenten"
+        ],
+        "presentation": "Serveren heet in traditionele Thaise stijl",
+        "eating_etiquette": "Meestal eten met vork en lepel"
+      },
+      "where_to_find": {
+        "best_restaurants": [
+          {
+            "name": "Som Tam Jay So (Bangkok)",
+            "description": "Restaurants die authentieke Isaan-smaken bieden"
+          },
+          {
+            "name": "Larb Loi (Bangkok)",
+            "description": "Restaurants gespecialiseerd in larp"
+          },
+          {
+            "name": "Any Isaan restaurant with mor lam music playing",
+            "description": "Geniet van larp in Isaan-restaurants met mor lam-muziek"
+          }
+        ],
+        "street_food_areas": [
+          "Huai Khwang Night Market",
+          "JJ Green Night Market",
+          "Saphan Phut Night Market"
+        ],
+        "price_ranges": {
+          "street_food": "Streetfood: 40-70 THB (€1,10-€1,90)",
+          "restaurant": "Restaurants: 80-150 THB (€2,40-€4,50)",
+          "upscale": "Luxe: 200-400 THB (€6-€12)"
+        }
+      },
+      "translated_at": "2026-03-14T00:00:00.000Z"
+    }
+  }
+}

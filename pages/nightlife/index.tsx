@@ -83,10 +83,10 @@ export default function NightlifeIndex() {
             <div className="text-center max-w-3xl mx-auto">
               <span className="section-label">{isNl ? 'Nachtleven Gidsen' : 'Nightlife Guides'}</span>
               <h1 className="text-4xl lg:text-5xl font-bold font-heading mb-6">
-                Thailand Nightlife Guide 2026
+                {t("s001_thailand_nightlife_guide_2026")}
               </h1>
               <p className="text-lg text-gray-300 leading-relaxed">
-                From Bangkok rooftop cocktails to Phuket beach parties — find the best bars, clubs, and late-night spots with verified drink prices across Thailand's top nightlife cities.
+                {t("s002_from_bangkok_rooftop_cocktails")}
               </p>
             </div>
           </div>
@@ -98,19 +98,19 @@ export default function NightlifeIndex() {
             <div className="max-w-3xl mx-auto prose prose-lg text-gray-700">
               <h2 className="text-3xl font-bold font-heading text-gray-900 mb-6">{t("s003_thailand_s_nightlife_culture")}</h2>
               <p className="mb-4">
-                Thailand's nightlife is one of the most diverse and misunderstood in the world. Most first-time visitors arrive with preconceptions shaped by films and sensational headlines — but the reality is a country with a rich, layered evening culture that spans everything from open-air night markets serving pad thai by candlelight, to world-class rooftop bars rivalling those in New York or Singapore, to internationally renowned beach festivals that draw electronic music fans from every continent.
+                {t("s003_thailand_s_nightlife_is")}
               </p>
               <p className="mb-4">
-                The country's most famous adult entertainment districts — Bangkok's Nana Plaza and Soi Cowboy, Phuket's Bangla Road, Pattaya's Walking Street — operate openly and are a well-documented part of the tourism economy. But they occupy only a small corner of the nightlife landscape. The vast majority of travellers to Thailand spend their evenings at night markets, live music bars, rooftop venues, beach clubs, and cocktail bars that have nothing to do with that scene at all.
+                {t("s004_the_country_s_most")}
               </p>
               <p className="mb-4">
-                What unifies Thai nightlife culture is hospitality, value, and accessibility. A beer at a local bar costs ฿60–80. A cocktail at a mid-range bar runs ฿180–250. Even at upscale rooftop venues, a round of drinks is cheaper than a single drink at a comparable bar in London or Sydney. Cover charges are rare outside of big clubs. Thai staff are famously welcoming. And the tropical backdrop — whether you're watching the Bangkok skyline from 60 floors up or sitting in the sand with your feet in the Andaman Sea — is hard to beat anywhere in the world.
+                {t("s005_what_unifies_thai_nightlife")}
               </p>
               <p className="mb-4">
-                The nightlife calendar also matters. High season (November–April) brings the biggest crowds, the best weather for outdoor venues, and the most international DJs and events — especially on the Andaman coast islands. The Gulf coast islands (Koh Samui, Koh Phangan, Koh Tao) have their own separate weather pattern, staying viable for beach events well into September. Bangkok and Chiang Mai run at full tilt year-round.
+                {t("s006_the_nightlife_calendar_also")}
               </p>
               <p>
-                Whether you want a bucket cocktail on a beach at sunset, a gin and tonic at a sky bar 50 floors above traffic, a front-row seat at a live jazz set, or to witness the Full Moon Party spectacle at least once in your life — Thailand has it. Our city guides below will help you find exactly what you're looking for.
+                {t("s007_whether_you_want_a")}
               </p>
             </div>
           </div>

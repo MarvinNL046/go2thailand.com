@@ -1,0 +1,978 @@
+{
+  "id": 19,
+  "slug": "nam-prik-goong-siap",
+  "name": {
+    "en": "Nam Prik Goong Siap",
+    "nl": "Nam Prik Goong Siap",
+    "thai": "น้ำพริกกุ้งเสียบ"
+  },
+  "category": "hoofdgerecht",
+  "region": "zuidelijk",
+  "spice_level": "pittig",
+  "description": {
+    "en": "Spicy dip with smoked dried shrimp",
+    "nl": "Pittige dipsaus met gerookte gedroogde garnalen"
+  },
+  "ingredients": [
+    "gedroogde garnalen",
+    "chili",
+    "knoflook",
+    "sjalotten",
+    "limoensap",
+    "palmsuiker"
+  ],
+  "allergens": [
+    "zeevruchten"
+  ],
+  "dietary": [],
+  "image": "/images/food/nam-prik-goong-siap.webp",
+  "preparation_time": "20 minuten",
+  "difficulty": "eenvoudig",
+  "price_range": "budget",
+  "seo": {
+    "metaTitle": {
+      "en": "Nam Prik Goong Siap Recipe | Authentic Thai main dish",
+      "nl": "Nam Prik Goong Siap Recept | Authentieke Thaise main dish"
+    },
+    "metaDescription": {
+      "en": "Learn about Nam Prik Goong Siap (น้ำพริกกุ้งเสียบ) - Spicy dip with smoked dried shrimp...",
+      "nl": "Leer over Nam Prik Goong Siap (น้ำพริกกุ้งเสียบ) - Pittige dipsaus met gerookte gedroogde garnalen..."
+    }
+  },
+  "tags": [
+    "thais-eten",
+    "Thailand",
+    "hoofdgerecht",
+    "zuidelijk",
+    "pittig",
+    "eenvoudig",
+    "budget",
+    "gedroogde garnalen",
+    "chili",
+    "knoflook"
+  ],
+  "cooking": {
+    "preparation_time": "20 minuten",
+    "difficulty": "eenvoudig",
+    "spice_level": "pittig",
+    "serves": "2-4 personen"
+  },
+  "nutrition": {
+    "allergens": [
+      "zeevruchten"
+    ],
+    "dietary": [],
+    "price_range": "budget"
+  },
+  "enhanced_description": "Nam Prik Goong Siap is een geliefd stevig en smaakvol hoofdgerecht uit Zuid-Thailand dat vurig en gedurfd is. Pittige dipsaus met gerookte gedroogde garnalen. Dit eenvoudige recept vergt ongeveer 20 minuten bereidingstijd en vertegenwoordigt de authentieke smaken van de Zuid-Thaise keuken, gekenmerkt door intense kruiden, zeevruchten en curry's op basis van kokos. De combinatie van gedroogde garnalen, chili en knoflook creëert een harmonieuze mix die dit gerecht tot een favoriet heeft gemaakt onder zowel locals als bezoekers. Perfect voor wie op zoek is naar betaalbare authentieke Thaise keuken.",
+  "detailed_ingredients": [
+    {
+      "name": "Dried shrimp",
+      "purpose": "Essentieel voor de authentieke Nam Prik Goong Siap smaak",
+      "substitutes": [
+        "Verse gedroogde garnalen",
+        "Gedroogde garnalen",
+        "gedroogde garnalenpasta"
+      ]
+    },
+    {
+      "name": "Chili",
+      "purpose": "Essentieel voor de authentieke Nam Prik Goong Siap smaak",
+      "substitutes": [
+        "Verse chili",
+        "Gedroogde chili",
+        "chili pasta"
+      ]
+    },
+    {
+      "name": "Garlic",
+      "purpose": "Essentieel voor de authentieke Nam Prik Goong Siap smaak",
+      "substitutes": [
+        "Verse knoflook",
+        "Gedroogde knoflook",
+        "knoflookpasta"
+      ]
+    },
+    {
+      "name": "Shallots",
+      "purpose": "Essentieel voor de authentieke Nam Prik Goong Siap smaak",
+      "substitutes": [
+        "Verse sjalotten",
+        "Gedroogde sjalotten",
+        "sjalottenpasta"
+      ]
+    }
+  ],
+  "cooking_method": {
+    "technique": "Roerbakken of grillen",
+    "steps_overview": "Het bereiden van Nam Prik Goong Siap vereist aandacht voor detail en goede timing. De sleutel is het balanceren van alle smaken terwijl de textuur van elk ingrediënt behouden blijft. Traditionele methoden die van generatie op generatie zijn doorgegeven, garanderen een authentieke smaak.",
+    "cooking_tips": [
+      "Gebruik verse gedroogde garnalen voor het beste resultaat",
+      "Pas het pittigheidsgehalte aan naar je voorkeur",
+      "Kook niet te lang om de textuur te behouden",
+      "Proef en pas de kruiding aan voor het serveren"
+    ]
+  },
+  "cultural_significance": {
+    "origin_story": "Nam Prik Goong Siap is al generaties lang een vast onderdeel van de Zuid-Thaise keuken en weerspiegelt de unieke culinaire tradities en lokale ingrediënten van de regio.",
+    "cultural_importance": "Dit gerecht vertegenwoordigt het hart van de Zuid-Thaise kookkunst en toont de balans en harmonie waarmee de Thaise keuken wereldwijd beroemd is.",
+    "traditional_occasions": [
+      "Familiebijeenkomsten",
+      "Lokale festivals",
+      "Straatvoedselmarkten",
+      "Bijzondere vieringen"
+    ]
+  },
+  "variations": [
+    {
+      "name": "Nam Prik Goong Siap Classic",
+      "description": "De traditionele versie zoals geserveerd in lokale huishoudens"
+    },
+    {
+      "name": "Nam Prik Goong Siap Modern",
+      "description": "Hedendaagse variant met premium ingrediënten"
+    },
+    {
+      "name": "Vegetarian Nam Prik Goong Siap",
+      "description": "Plantaardige versie met tofu of paddenstoelen"
+    }
+  ],
+  "serving_suggestions": {
+    "traditional_accompaniments": [
+      "Jasmijnrijst",
+      "Verse groenten",
+      "Thaise kruiden"
+    ],
+    "presentation": "Geserveerd op een bord in traditionele Thaise stijl",
+    "eating_etiquette": "Gegeten met vork en lepel volgens Thais gebruik"
+  },
+  "nutritional_info": {
+    "calories_per_serving": "300-500 calorieën",
+    "health_benefits": [
+      "Rijk aan Thaise kruiden en specerijen",
+      "Bron van eiwitten en groenten",
+      "Gebalanceerde smaken en voedingsstoffen"
+    ],
+    "dietary_notes": []
+  },
+  "where_to_find": {
+    "best_restaurants": [
+      "Lokale Zuid-Thaise restaurants",
+      "Authentieke straatvoedselkramen",
+      "Traditionele markten",
+      "Familiegerunde eetgelegenheden"
+    ],
+    "street_food_areas": [
+      "Nachtmarkten",
+      "Ochtendverse markten",
+      "Lokale food courts"
+    ],
+    "price_ranges": {
+      "street_vendor": "30-50 THB",
+      "market_stall": "40-60 THB",
+      "restaurant": "60-100 THB"
+    }
+  },
+  "translations": {
+    "nl": {
+      "enhanced_description": "Nam Prik Goong Siap is een geliefd stevig en smaakvol hoofdgerecht uit Zuid-Thailand dat vurig en gedurfd is. Pittige dipsaus met gerookte gedroogde garnalen. Dit eenvoudige recept vergt ongeveer 20 minuten bereidingstijd en vertegenwoordigt de authentieke smaken van de Zuid-Thaise keuken, gekenmerkt door intense kruiden, zeevruchten en curry's op basis van kokos. De combinatie van gedroogde garnalen, chili en knoflook creëert een harmonieuze mix die dit gerecht tot een favoriet heeft gemaakt onder zowel locals als bezoekers. Perfect voor wie op zoek is naar betaalbare authentieke Thaise keuken.",
+      "detailed_ingredients": [
+        {
+          "name": "Gedroogde garnalen",
+          "purpose": "Essentieel voor de authentieke Nam Prik Goong Siap smaak",
+          "substitutes": [
+            "Verse gedroogde garnalen",
+            "Garnalenpasta",
+            "Gedroogde vis"
+          ]
+        },
+        {
+          "name": "Chili",
+          "purpose": "Essentieel voor de authentieke Nam Prik Goong Siap smaak",
+          "substitutes": [
+            "Verse chili",
+            "Gedroogde chili",
+            "Chilipasta"
+          ]
+        },
+        {
+          "name": "Knoflook",
+          "purpose": "Essentieel voor de authentieke Nam Prik Goong Siap smaak",
+          "substitutes": [
+            "Verse knoflook",
+            "Gedroogde knoflook",
+            "Knoflookpasta"
+          ]
+        },
+        {
+          "name": "Sjalotten",
+          "purpose": "Essentieel voor de authentieke Nam Prik Goong Siap smaak",
+          "substitutes": [
+            "Verse sjalotten",
+            "Gedroogde sjalotten",
+            "Rode ui"
+          ]
+        }
+      ],
+      "cooking_method": {
+        "technique": "Stampen en mengen",
+        "steps_overview": "Het bereiden van Nam Prik Goong Siap vereist aandacht voor detail en goede timing. De sleutel is het balanceren van alle smaken terwijl de textuur van elk ingrediënt behouden blijft. Traditionele methoden die van generatie op generatie zijn doorgegeven, garanderen een authentieke smaak.",
+        "cooking_tips": [
+          "Gebruik verse gedroogde garnalen voor het beste resultaat",
+          "Pas het pittigheidsgehalte aan naar je voorkeur",
+          "Kook niet te lang om de textuur te behouden",
+          "Proef en pas de kruiding aan voor het serveren"
+        ]
+      },
+      "cultural_significance": {
+        "origin_story": "Nam Prik Goong Siap is al generaties lang een vast onderdeel van de Zuid-Thaise keuken en weerspiegelt de unieke culinaire tradities en lokale ingrediënten van de regio.",
+        "cultural_importance": "Dit gerecht vertegenwoordigt het hart van de Zuid-Thaise kookkunst en toont de balans en harmonie waarmee de Thaise keuken wereldwijd beroemd is.",
+        "traditional_occasions": [
+          "Familiebijeenkomsten",
+          "Lokale festivals",
+          "Straatvoedselmarkten",
+          "Bijzondere vieringen"
+        ]
+      },
+      "variations": [
+        {
+          "name": "Nam Prik Goong Siap Klassiek",
+          "description": "De traditionele versie zoals geserveerd in lokale huishoudens"
+        },
+        {
+          "name": "Nam Prik Goong Siap Modern",
+          "description": "Hedendaagse variant met premium ingrediënten"
+        },
+        {
+          "name": "Vegetarische Nam Prik Goong Siap",
+          "description": "Plantaardige versie met tofu of paddenstoelen"
+        }
+      ],
+      "serving_suggestions": {
+        "traditional_accompaniments": [
+          "Jasmijnrijst",
+          "Verse groenten",
+          "Thaise kruiden"
+        ],
+        "presentation": "Geserveerd op een bord in traditionele Zuid-Thaise stijl",
+        "eating_etiquette": "Gegeten met vork en lepel volgens Thais gebruik"
+      },
+      "where_to_find": {
+        "best_restaurants": [
+          "Lokale Zuid-Thaise restaurants",
+          "Authentieke straatvoedselkramen",
+          "Traditionele markten",
+          "Familiebedrijfjes"
+        ],
+        "street_food_areas": [
+          "Nachtmarkten",
+          "Ochtendverse markten",
+          "Lokale food courts"
+        ]
+      },
+      "translated_at": "2026-03-10T00:00:00.000Z"
+    },
+    "fr": {
+      "enhanced_description": "Nam Prik Goong Siap is een geliefd stevig en smaakvol hoofdgerecht uit Zuid-Thailand dat vurig en gedurfd is. Pittige dipsaus met gerookte gedroogde garnalen. Dit eenvoudige recept vergt ongeveer 20 minuten bereidingstijd en vertegenwoordigt de authentieke smaken van de Zuid-Thaise keuken, gekenmerkt door intense kruiden, zeevruchten en curry's op basis van kokos. De combinatie van gedroogde garnalen, chili en knoflook creëert een harmonieuze mix die dit gerecht tot een favoriet heeft gemaakt onder zowel locals als bezoekers. Perfect voor wie op zoek is naar betaalbare authentieke Thaise keuken.",
+      "detailed_ingredients": [
+        {
+          "name": "Crevettes séchées",
+          "purpose": "Essentieel voor de authentieke Nam Prik Goong Siap smaak",
+          "substitutes": [
+            "Verse gedroogde garnalen",
+            "Garnalenpasta",
+            "Gedroogde vis"
+          ]
+        },
+        {
+          "name": "Piment",
+          "purpose": "Essentieel voor de authentieke Nam Prik Goong Siap smaak",
+          "substitutes": [
+            "Verse chili",
+            "Gedroogde chili",
+            "Chilipasta"
+          ]
+        },
+        {
+          "name": "Ail",
+          "purpose": "Essentieel voor de authentieke Nam Prik Goong Siap smaak",
+          "substitutes": [
+            "Verse knoflook",
+            "Gedroogde knoflook",
+            "Knoflookpasta"
+          ]
+        },
+        {
+          "name": "Échalotes",
+          "purpose": "Essentieel voor de authentieke Nam Prik Goong Siap smaak",
+          "substitutes": [
+            "Verse sjalotten",
+            "Gedroogde sjalotten",
+            "Rode ui"
+          ]
+        }
+      ],
+      "cooking_method": {
+        "technique": "Stampen en mengen",
+        "steps_overview": "Het bereiden van Nam Prik Goong Siap vereist aandacht voor detail en goede timing. De sleutel is het balanceren van alle smaken terwijl de textuur van elk ingrediënt behouden blijft. Traditionele methoden die van generatie op generatie zijn doorgegeven, garanderen een authentieke smaak.",
+        "cooking_tips": [
+          "Gebruik verse gedroogde garnalen voor het beste resultaat",
+          "Pas het pittigheidsgehalte aan naar je voorkeur",
+          "Kook niet te lang om de textuur te behouden",
+          "Proef en pas de kruiding aan voor het serveren"
+        ]
+      },
+      "cultural_significance": {
+        "origin_story": "Nam Prik Goong Siap is al generaties lang een vast onderdeel van de Zuid-Thaise keuken en weerspiegelt de unieke culinaire tradities en lokale ingrediënten van de regio.",
+        "cultural_importance": "Dit gerecht vertegenwoordigt het hart van de Zuid-Thaise kookkunst en toont de balans en harmonie waarmee de Thaise keuken wereldwijd beroemd is.",
+        "traditional_occasions": [
+          "Familiebijeenkomsten",
+          "Lokale festivals",
+          "Straatvoedselmarkten",
+          "Bijzondere vieringen"
+        ]
+      },
+      "variations": [
+        {
+          "name": "Nam Prik Goong Siap Classique",
+          "description": "De traditionele versie zoals geserveerd in lokale huishoudens"
+        },
+        {
+          "name": "Nam Prik Goong Siap Moderne",
+          "description": "Moderne versie met premium ingrediënten"
+        },
+        {
+          "name": "Nam Prik Goong Siap Végétarien",
+          "description": "Vegetarische versie met tofu of champignons"
+        }
+      ],
+      "serving_suggestions": {
+        "traditional_accompaniments": [
+          "Jasmijnrijst",
+          "Verse groenten",
+          "Thaise kruiden"
+        ],
+        "presentation": "Geserveerd op een bord in de traditionele stijl van Zuid-Thailand",
+        "eating_etiquette": "Genuttigd met vork en lepel volgens Thaise traditie"
+      },
+      "where_to_find": {
+        "best_restaurants": [
+          "Lokale restaurants in Zuid-Thailand",
+          "Authentieke straatkraampjes",
+          "Traditionele markten",
+          "Familierestaurants"
+        ],
+        "street_food_areas": [
+          "Nachtmarkten",
+          "Verse ochtendmarkten",
+          "Lokale food courts"
+        ]
+      },
+      "translated_at": "2026-03-10T00:00:00.000Z"
+    },
+    "de": {
+      "enhanced_description": "Nam Prik Goong Siap is een geliefd stevig en smaakvol hoofdgerecht uit Zuid-Thailand, dat pittig en krachtig is. Een pittige dip met gerookte gedroogde garnalen. Dit eenvoudige recept vereist ongeveer 20 minuten bereidingstijd en vertegenwoordigt de authentieke smaken van de Zuid-Thaise keuken, die zich kenmerkt door intense kruiden, zeevruchten en kokosbasis curries. De combinatie van gedroogde garnalen, chili en knoflook geeft een harmonieuze mengeling die dit gerecht zowel bij locals als bezoekers favoriet heeft gemaakt. Perfect voor iedereen die betaalbare authentieke Thaise keuken zoekt.",
+      "detailed_ingredients": [
+        {
+          "name": "Getrocknete Garnelen",
+          "purpose": "Onmisbaar voor de authentieke Nam Prik Goong Siap-smaak",
+          "substitutes": [
+            "Verse gedroogde garnalen",
+            "Garnalenpasta",
+            "Gedroogde vis"
+          ]
+        },
+        {
+          "name": "Chili",
+          "purpose": "Onmisbaar voor de authentieke Nam Prik Goong Siap-smaak",
+          "substitutes": [
+            "Verse chili",
+            "Gedroogde chili",
+            "Chilipasta"
+          ]
+        },
+        {
+          "name": "Knoblauch",
+          "purpose": "Onmisbaar voor de authentieke Nam Prik Goong Siap-smaak",
+          "substitutes": [
+            "Verse knoflook",
+            "Gedroogde knoflook",
+            "Knoflookpasta"
+          ]
+        },
+        {
+          "name": "Schalotten",
+          "purpose": "Onmisbaar voor de authentieke Nam Prik Goong Siap-smaak",
+          "substitutes": [
+            "Verse sjalotten",
+            "Gedroogde sjalotten",
+            "Rode ui"
+          ]
+        }
+      ],
+      "cooking_method": {
+        "technique": "Stampen en mengen",
+        "steps_overview": "De bereiding van Nam Prik Goong Siap vereist liefde voor detail en goed timing. De sleutel ligt in het balanceren van alle smaken en tegelijkertijd het behouden van de textuur van elke ingrediënt. Traditionele methoden, die van generatie op generatie worden doorgegeven, garanderen een authentieke smaak.",
+        "cooking_tips": [
+          "Gebruik verse gedroogde garnalen voor het beste resultaat",
+          "Pas de pittigheid aan naar smaak",
+          "Niet te lang koken om de textuur te behouden",
+          "Proef en kruid af voor het serveren"
+        ]
+      },
+      "cultural_significance": {
+        "origin_story": "Nam Prik Goong Siap is al generaties lang een vast onderdeel van de Zuid-Thaise keuken en weerspiegelt de unieke culinaire tradities en lokale ingrediënten van de regio.",
+        "cultural_importance": "Dit gerecht vertegenwoordigt het hart van de Zuid-Thaise kookkunst en toont de balans en harmonie waarvoor de Thaise keuken wereldwijd beroemd is.",
+        "traditional_occasions": [
+          "Familiebijeenkomsten",
+          "Lokale feesten",
+          "Straatvoedselmarkten",
+          "Speciale vieringen"
+        ]
+      },
+      "variations": [
+        {
+          "name": "Nam Prik Goong Siap Klassisch",
+          "description": "De traditionele versie, zoals geserveerd in lokale huishoudens"
+        },
+        {
+          "name": "Nam Prik Goong Siap Modern",
+          "description": "Moderne variant met premium ingrediënten"
+        },
+        {
+          "name": "Vegetarisches Nam Prik Goong Siap",
+          "description": "Plantaardige versie met tofu of paddenstoelen"
+        }
+      ],
+      "serving_suggestions": {
+        "traditional_accompaniments": [
+          "Jasmijnrijst",
+          "Verse groenten",
+          "Thaise kruiden"
+        ],
+        "presentation": "Geserveerd op een bord in de traditionele Zuid-Thaise stijl",
+        "eating_etiquette": "Gegeten met vork en lepel volgens Thaise gewoonte"
+      },
+      "where_to_find": {
+        "best_restaurants": [
+          "Lokale Zuid-Thaise restaurants",
+          "Authentieke straatkraampjes",
+          "Traditionele markten",
+          "Familiebedrijven"
+        ],
+        "street_food_areas": [
+          "Nachtmarkten",
+          "Verse ochtendmarkten",
+          "Lokale food courts"
+        ]
+      },
+      "translated_at": "2026-03-10T00:00:00.000Z"
+    },
+    "zh": {
+      "enhanced_description": "Nam Prik Goong Siap is een geliefd royaal hoofdgerecht uit Zuid-Thailand, met een pittige en gedurfde smaak. Het is een pittige dipsaus op basis van gerookte gedroogde garnalen. Dit eenvoudige recept duurt ongeveer 20 minuten en belichaamt de authentieke smaken van de Zuid-Thaise keuken – gekenmerkt door intense specerijen, zeevruchten en kokosmelkcurries. De combinatie van gedroogde garnalen, chili en knoflook creëert een harmonieuze smaak die dit gerecht geliefd maakt bij zowel locals als toeristen. Ideaal voor wie betaalbare authentieke Thaise gerechten zoekt.",
+      "detailed_ingredients": [
+        {
+          "name": "干虾",
+          "purpose": "Sleutelingrediënten voor de authentieke Nam Prik Goong Siap-smaak",
+          "substitutes": [
+            "Verse gedroogde garnalen",
+            "Garnalensaus",
+            "Gedroogde vis"
+          ]
+        },
+        {
+          "name": "辣椒",
+          "purpose": "Sleutelingrediënten voor de authentieke Nam Prik Goong Siap-smaak",
+          "substitutes": [
+            "Verse peper",
+            "Gedroogde peper",
+            "Pepsaus"
+          ]
+        },
+        {
+          "name": "大蒜",
+          "purpose": "Sleutelingrediënten voor de authentieke Nam Prik Goong Siap-smaak",
+          "substitutes": [
+            "Verse knoflook",
+            "Knoflookpoeder",
+            "Knoflooksaus"
+          ]
+        },
+        {
+          "name": "红葱头",
+          "purpose": "Sleutelingrediënten voor de authentieke Nam Prik Goong Siap-smaak",
+          "substitutes": [
+            "Verse rode sjalotten",
+            "Gedroogde rode sjalotten",
+            "Rode ui"
+          ]
+        }
+      ],
+      "cooking_method": {
+        "technique": "Stampen en mengen",
+        "steps_overview": "Het maken van Nam Prik Goong Siap vereist aandacht voor details en goed tijdbeheer. De sleutel ligt in het balanceren van alle smaken, terwijl de textuur van elk ingrediënt behouden blijft. Traditionele methoden die van generatie op generatie worden doorgegeven, zorgen voor een authentieke smaak.",
+        "cooking_tips": [
+          "Gebruik verse gedroogde garnalen voor de beste smaak",
+          "Pas de pittigheid aan naar persoonlijke voorkeur",
+          "Kook niet te lang om de textuur te behouden",
+          "Proef en pas de kruiden aan voor het serveren"
+        ]
+      },
+      "cultural_significance": {
+        "origin_story": "Nam Prik Goong Siap is al generaties lang een basisgerecht in de Zuid-Thaise keuken en weerspiegelt de unieke culinaire tradities en lokale ingrediënten van de regio.",
+        "cultural_importance": "Dit gerecht belichaamt de essentie van de Zuid-Thaise keuken en toont de wereldberoemde balans en harmonie van de Thaise keuken.",
+        "traditional_occasions": [
+          "Familiebijeenkomsten",
+          "Lokale festivals",
+          "Straatvoedselmarkten",
+          "Speciale vieringen"
+        ]
+      },
+      "variations": [
+        {
+          "name": "经典Nam Prik Goong Siap",
+          "description": "De traditionele versie zoals bereid in lokale families"
+        },
+        {
+          "name": "现代Nam Prik Goong Siap",
+          "description": "Moderne innovatieve versie met hoogwaardige ingrediënten"
+        },
+        {
+          "name": "素食Nam Prik Goong Siap",
+          "description": "Vegetarische versie met tofu of paddenstoelen"
+        }
+      ],
+      "serving_suggestions": {
+        "traditional_accompaniments": [
+          "Jasmijnrijst",
+          "Verse groenten",
+          "Thaise kruiden"
+        ],
+        "presentation": "Geserveerd op een bord in traditionele Zuid-Thaise stijl",
+        "eating_etiquette": "Gegeten met vork en lepel volgens Thaise gewoonten"
+      },
+      "where_to_find": {
+        "best_restaurants": [
+          "Lokale Zuid-Thaise restaurants",
+          "Authentieke straatvoedselkraampjes",
+          "Traditionele markten",
+          "Familiegerunde eettentjes"
+        ],
+        "street_food_areas": [
+          "Nachtmarkten",
+          "Ochtendmarkten",
+          "Lokale eetpleinen"
+        ]
+      },
+      "translated_at": "2026-03-11T00:00:00.000Z"
+    },
+    "ru": {
+      "enhanced_description": "Nam Prik Goong Siap is een geliefd vullend en rijk hoofdgerecht uit Zuid-Thailand, pittig en levendig van smaak. Een pittige dipsaus met gerookte gedroogde garnalen. Dit eenvoudige recept vereist ongeveer 20 minuten bereiding en presenteert de authentieke smaken van de Zuid-Thaise keuken met haar intense specerijen, zeevruchten en kokosbasis curries. De combinatie van gedroogde garnalen, chili en knoflook creëert een harmonieuze smaak die dit gerecht favoriet maakt bij zowel bewoners als gasten. Ideaal voor wie betaalbare authentieke Thaise keuken zoekt.",
+      "detailed_ingredients": [
+        {
+          "name": "Сушёные креветки",
+          "purpose": "Noodzakelijk voor de authentieke Nam Prik Goong Siap-smaak",
+          "substitutes": [
+            "Verse gedroogde garnalen",
+            "Gedroogde garnalen",
+            "Garnalenpasta"
+          ]
+        },
+        {
+          "name": "Чили",
+          "purpose": "Noodzakelijk voor de authentieke Nam Prik Goong Siap-smaak",
+          "substitutes": [
+            "Verse chili",
+            "Gedroogde chili",
+            "Chilipasta"
+          ]
+        },
+        {
+          "name": "Чеснок",
+          "purpose": "Noodzakelijk voor de authentieke Nam Prik Goong Siap-smaak",
+          "substitutes": [
+            "Verse knoflook",
+            "Gedroogde knoflook",
+            "Knoflookpasta"
+          ]
+        },
+        {
+          "name": "Шалот",
+          "purpose": "Noodzakelijk voor de authentieke Nam Prik Goong Siap-smaak",
+          "substitutes": [
+            "Verse sjalot",
+            "Gedroogde sjalot",
+            "Sjalotpasta"
+          ]
+        }
+      ],
+      "cooking_method": {
+        "technique": "Bakken of grillen",
+        "steps_overview": "Het bereiden van Nam Prik Goong Siap vereist aandacht voor details en correcte tijdsberekening. Het belangrijkste is om alle smaken in balans te brengen en de textuur van elk ingrediënt te behouden. Traditionele methoden die van generatie op generatie worden doorgegeven, zorgen voor een authentieke smaak.",
+        "cooking_tips": [
+          "Gebruik verse gedroogde garnalen voor het beste resultaat",
+          "Regel de pittigheid naar smaak",
+          "Bak niet te lang om de textuur te behouden",
+          "Proef en corrigeer de kruiden voor het serveren"
+        ]
+      },
+      "cultural_significance": {
+        "origin_story": "Nam Prik Goong Siap is al generaties lang de basis van de Zuid-Thaise keuken en weerspiegelt de unieke culinaire tradities van de regio en lokale ingrediënten.",
+        "cultural_importance": "Dit gerecht belichaamt de essentie van de Zuid-Thaise culinaire kunst en demonstreert de balans en harmonie waarmee de Thaise keuken wereldwijd beroemd is.",
+        "traditional_occasions": [
+          "Familiebijeenkomsten",
+          "Lokale festivals",
+          "Markten met straatvoedsel",
+          "Speciale feesten"
+        ]
+      },
+      "variations": [
+        {
+          "name": "Классический Nam Prik Goong Siap",
+          "description": "De traditionele versie, zoals bereid in lokale huizen"
+        },
+        {
+          "name": "Современный Nam Prik Goong Siap",
+          "description": "Moderne interpretatie met premium ingrediënten"
+        },
+        {
+          "name": "Вегетарианский Nam Prik Goong Siap",
+          "description": "Plantaardige versie met tofu of paddenstoelen"
+        }
+      ],
+      "serving_suggestions": {
+        "traditional_accompaniments": [
+          "Jasmijnrijst",
+          "Verse groenten",
+          "Thaise kruiden"
+        ],
+        "presentation": "Geserveerd op een bord in traditionele Thaise stijl",
+        "eating_etiquette": "Gegeten met vork en lepel volgens Thaise gewoonte"
+      },
+      "where_to_find": {
+        "best_restaurants": [
+          "Lokale Zuid-Thaise restaurants",
+          "Authentieke straatkarren",
+          "Traditionele markten",
+          "Familie-eetgelegenheden"
+        ],
+        "street_food_areas": [
+          "Nachtmarkten",
+          "Ochtendproductmarkten",
+          "Lokale food courts"
+        ]
+      },
+      "translated_at": "2026-03-11T00:00:00.000Z"
+    },
+    "ko": {
+      "enhanced_description": "Nam Prik Goong Siap is een van de representatieve chili-dips (nam prik) uit Zuid-Thailand, een intense en pittige kruidenpasta gemaakt door gedroogde garnalen aan spiesjes te rijgen en te grillen boven houtskool en ze dan in een vijzel te stampen. Dit eenvoudige recept is in ongeveer 20 minuten klaar en combineert de diepe umami van garnalen met de vurige pittigheid van chili en de zure frisheid van limoen, wat een verslavende smaak geeft bij rijst en groenten. 'Goong Siap' betekent garnalen aan een spies rijgen en grillen, waardoor de bereidingswijze zelf de naam van het gerecht is geworden.",
+      "detailed_ingredients": [
+        {
+          "name": "건새우 (꿍행)",
+          "purpose": "Hoofdingrediënt dat een diepe umami en rooksmaak krijgt door grillen boven houtskool",
+          "substitutes": [
+            "Gedroogde garnalen",
+            "Garnalenpasta (kapi)",
+            "Gedroogde ansjovis (andere smaak)"
+          ]
+        },
+        {
+          "name": "고추 (프릭치파)",
+          "purpose": "Belangrijk ingrediënt dat pittige smaak en rode kleur geeft",
+          "substitutes": [
+            "Gedroogde chili",
+            "Verse chili",
+            "Chili pasta (Koreaanse vervanging)"
+          ]
+        },
+        {
+          "name": "마늘과 샬롯",
+          "purpose": "Aromatische ingrediënten die de basis voor geur en zoetheid vormen",
+          "substitutes": [
+            "Knoflook",
+            "Rode ui (sjalot vervanging)",
+            "Ui"
+          ]
+        },
+        {
+          "name": "라임즙과 야자 설탕",
+          "purpose": "Zoetzure kruiden die de pittigheid balanceren",
+          "substitutes": [
+            "Limoensap",
+            "Citroensap",
+            "Suiker + azijn"
+          ]
+        }
+      ],
+      "cooking_method": {
+        "technique": "Op houtskool grillen en in vijzel stampen",
+        "steps_overview": "Om Nam Prik Goong Siap te maken, spietst u gedroogde garnalen op bamboe stokjes en grilt ze goudbruin op houtskool voor aroma. Knoflook en sjalotten worden met schil op houtskool gegrild voor zoete geur. Doe chili, gegrilde knoflook en gegrilde sjalotten in een vijzel en stamp ze, voeg dan de gegrilde gedroogde garnalen toe en stamp grof. Breng op smaak met limoensap, vissaus en palmsuiker om af te maken.",
+        "cooking_tips": [
+          "Gedroogde garnalen moeten op houtskool gegrild worden voor authentieke rooksmaak — een pan werkt ook",
+          "Stamp niet te fijn in de vijzel — grove textuur is het kenmerk",
+          "Pas de pittigheid aan met de hoeveelheid chili",
+          "Laat het 30 minuten rusten voor een betere smaak dan direct na bereiding"
+        ]
+      },
+      "cultural_significance": {
+        "origin_story": "Nam Prik Goong Siap is een traditionele chili dip uit de zuidelijke kustregio's van Thailand, ontwikkeld met overvloedige zeevruchten. Het vindt zijn oorsprong in de methoden van vissers om garnalen te drogen en te roken voor bewaring, en weerspiegelt de voorkeur voor intense smaken in zuidelijk Thailand.",
+        "cultural_importance": "Nam Prik (chili dip) is het hart van de Thaise maaltijdcultuur en vormt het centrum van gemeenschappelijke maaltijden met rijst en groenten. Nam Prik Goong Siap is een alledaags bijgerecht in zuidelijk Thailand, eenvoudig maar vol diepe smaken.",
+        "traditional_occasions": [
+          "Dagelijkse huisgerechten",
+          "Gemeenschappelijke maaltijd",
+          "Markt bijgerecht",
+          "Kustdorp eten"
+        ]
+      },
+      "variations": [
+        {
+          "name": "남프릭꿍시압 전통식",
+          "description": "De meest traditionele zuidelijke stijl gemaakt met op houtskool gegrilde gedroogde garnalen."
+        },
+        {
+          "name": "남프릭꿍시압 매운맛",
+          "description": "Pittige versie met meer chili."
+        },
+        {
+          "name": "남프릭꿍행",
+          "description": "Eenvoudige variant waarbij de gedroogde garnalen niet gegrild worden."
+        }
+      ],
+      "serving_suggestions": {
+        "traditional_accompaniments": [
+          "Jasmijnrijst",
+          "Verse groenten (komkommer, aubergine, bonen)",
+          "Gekookte groenten",
+          "Gefrituurde varkenshuid"
+        ],
+        "presentation": "Serveer de Nam Prik in een klein schaaltje met rijst en groenten eromheen",
+        "eating_etiquette": "Schep de Nam Prik op de rijst en eet het met groenten"
+      },
+      "where_to_find": {
+        "best_restaurants": [
+          "Lokale zuidelijke Thaise restaurants",
+          "Kustdorp restaurants",
+          "Traditionele markt bijgerechtwinkels",
+          "Familiegerunde restaurants"
+        ],
+        "street_food_areas": [
+          "Ochtendmarkt",
+          "Nachtmarkt",
+          "Lokale foodcourts"
+        ],
+        "price_ranges": {
+          "street_vendor": "30-50 THB",
+          "market_stall": "40-60 THB",
+          "restaurant": "60-100 THB"
+        }
+      },
+      "translated_at": "2026-03-14T00:00:00.000Z"
+    },
+    "th": {
+      "enhanced_description": "Nam Prik Goong Siap is een pittige chili dip van gerookte gedroogde garnalen, op smaak gebracht met chili, knoflook en limoen. Geserveerd met verse groenten en hete witte rijst, is het een chili dip met een unieke aromatische geur.",
+      "detailed_ingredients": [
+        {
+          "name": "Dried shrimp",
+          "purpose": "Belangrijk voor de authentieke smaak van Nam Prik Goong Siap",
+          "substitutes": [
+            "Verse gedroogde garnalen",
+            "Gedroogde garnalen",
+            "Garnalenpasta"
+          ]
+        },
+        {
+          "name": "Chili",
+          "purpose": "Belangrijk voor de authentieke smaak van Nam Prik Goong Siap",
+          "substitutes": [
+            "Verse chili",
+            "Gedroogde chili",
+            "Chili pasta"
+          ]
+        },
+        {
+          "name": "Garlic",
+          "purpose": "Belangrijk voor de authentieke smaak van Nam Prik Goong Siap",
+          "substitutes": [
+            "Verse knoflook",
+            "Gedroogde knoflook",
+            "Knoflookpasta"
+          ]
+        },
+        {
+          "name": "Shallots",
+          "purpose": "Belangrijk voor de authentieke smaak van Nam Prik Goong Siap",
+          "substitutes": [
+            "Verse sjalotten",
+            "Gedroogde sjalotten",
+            "Sjalottenpasta"
+          ]
+        }
+      ],
+      "cooking_method": {
+        "technique": "Roerbakken of grillen",
+        "steps_overview": "De bereiding van Nam Prik Goong Siap vereist aandacht voor details en de juiste timing. Het is belangrijk om de smaken in balans te houden terwijl de textuur van elk ingrediënt behouden blijft. De traditionele methode, doorgegeven door generaties, garandeert authentieke smaak.",
+        "cooking_tips": [
+          "Gebruik verse gedroogde garnalen voor het beste resultaat",
+          "Pas de pittigheid aan naar smaak",
+          "Kook niet te lang om de textuur te behouden",
+          "Proef en breng op smaak voor het serveren"
+        ]
+      },
+      "cultural_significance": {
+        "origin_story": "Dit gerecht is al generaties lang deel van de zuidelijke Thaise voedselcultuur en weerspiegelt de unieke kooktradities en lokale ingrediënten van de regio.",
+        "cultural_importance": "Dit gerecht is het hart van de zuidelijke Thaise keuken en toont de balans en harmonie waar Thaise keuken wereldwijd beroemd om is.",
+        "traditional_occasions": [
+          "Familiebijeenkomsten",
+          "Lokale festivals",
+          "Straatvoedselmarkten",
+          "Speciale vieringen"
+        ]
+      },
+      "variations": [
+        {
+          "name": "Nam Prik Goong Siap Classic",
+          "description": "Traditionele versie geserveerd in lokale huizen"
+        },
+        {
+          "name": "Nam Prik Goong Siap Modern",
+          "description": "Moderne versie met premium ingrediënten"
+        },
+        {
+          "name": "Vegetarian Nam Prik Goong Siap",
+          "description": "Vegetarische versie met tofu of paddenstoelen"
+        }
+      ],
+      "serving_suggestions": {
+        "traditional_accompaniments": [
+          "Jasmijnrijst",
+          "Verse groenten",
+          "Thaise kruiden"
+        ],
+        "presentation": "Geserveerd in traditionele Thaise stijl",
+        "eating_etiquette": "Eet met lepel en vork volgens Thaise traditie"
+      },
+      "where_to_find": {
+        "best_restaurants": [
+          "Lokale zuidelijke restaurants",
+          "Authentieke straatrestantaurants",
+          "Traditionele markten",
+          "Familierestaurants"
+        ],
+        "street_food_areas": [
+          "Nachtmarkten",
+          "Ochtendmarkten",
+          "Lokale voedselcentra"
+        ],
+        "price_ranges": {
+          "street_vendor": "30-50 THB",
+          "market_stall": "40-60 THB",
+          "restaurant": "60-100 THB"
+        }
+      },
+      "translated_at": "2026-03-14T00:00:00.000Z"
+    },
+    "ja": {
+      "enhanced_description": "Nam Prik Goong Siap is een lang geliefd gerecht uit de zuidelijke Thaise keuken, een pittige en vullende hoofdgerecht. Het is een pittige dip gemaakt met gerookte gedroogde garnalen, bereidingstijd circa 20 minuten. Het drukt de authentieke smaken van zuidelijke Thaise keuken uit, met kenmerkende sterke specerijen, zeevruchten en kokosbasis kerrie. De combinatie van gedroogde garnalen, chili en knoflook creëert een harmonie van texturen en smaken, geliefd bij locals en toeristen. Perfect voor wie betaalbare authentieke Thaise keuken zoekt.",
+      "detailed_ingredients": [
+        {
+          "name": "乾燥えび",
+          "purpose": "Onmisbaar voor de authentieke smaak van Nam Prik Goong Siap",
+          "substitutes": [
+            "Verse garnalen",
+            "Gedroogde garnalen",
+            "Garnalenpasta"
+          ]
+        },
+        {
+          "name": "唐辛子",
+          "purpose": "Onmisbaar voor de authentieke smaak van Nam Prik Goong Siap",
+          "substitutes": [
+            "Verse chili",
+            "Gedroogde chili",
+            "Chili pasta"
+          ]
+        },
+        {
+          "name": "にんにく",
+          "purpose": "Onmisbaar voor de authentieke smaak van Nam Prik Goong Siap",
+          "substitutes": [
+            "Verse knoflook",
+            "Gedroogde knoflook",
+            "Knoflookpasta"
+          ]
+        },
+        {
+          "name": "エシャロット",
+          "purpose": "Onmisbaar voor de authentieke smaak van Nam Prik Goong Siap",
+          "substitutes": [
+            "Verse sjalotten",
+            "Gedroogde sjalotten",
+            "Sjalottenpasta"
+          ]
+        }
+      ],
+      "cooking_method": {
+        "technique": "Roerbakken of grillen",
+        "steps_overview": "De bereiding van Nam Prik Goong Siap vereist aandacht voor details en timing. Houd de smaken in balans terwijl je de textuur van de ingrediënten behoudt. De traditionele methode, doorgegeven door generaties, zorgt voor authentieke smaak.",
+        "cooking_tips": [
+          "Kies zo vers mogelijke gedroogde garnalen voor het beste resultaat.",
+          "Pas de pittigheid aan naar wens.",
+          "Verhit niet te veel om de textuur te behouden.",
+          "Proef en pas de smaak aan voor het serveren."
+        ]
+      },
+      "cultural_significance": {
+        "origin_story": "Nam Prik Goong Siap is al generaties lang een vast gerecht in de zuidelijke Thaise keuken en weerspiegelt de unieke kooktradities en lokale ingrediënten van de regio.",
+        "cultural_importance": "Dit gerecht belichaamt de harmonie en balans van de wereldberoemde Thaise keuken en vertegenwoordigt het hart van de zuidelijke Thaise gerechten.",
+        "traditional_occasions": [
+          "Familiebijeenkomsten",
+          "Regionale festivals",
+          "Straatmarkten",
+          "Speciale vieringen"
+        ]
+      },
+      "variations": [
+        {
+          "name": "Nam Prik Goong Siap Classic",
+          "description": "Traditionele versie geserveerd in lokale huizen"
+        },
+        {
+          "name": "Nam Prik Goong Siap Modern",
+          "description": "Moderne versie met premium ingrediënten"
+        },
+        {
+          "name": "Vegetarian Nam Prik Goong Siap",
+          "description": "Plantaardige versie met tofu of paddenstoelen"
+        }
+      ],
+      "serving_suggestions": {
+        "traditional_accompaniments": [
+          "Jasmijnrijst",
+          "Verse groenten",
+          "Thaise kruiden"
+        ],
+        "presentation": "Geserveerd in Thaise traditionele presentatiestijl",
+        "eating_etiquette": "Geniet volgens Thaise gewoonte met vork en lepel"
+      },
+      "where_to_find": {
+        "best_restaurants": [
+          "Lokale zuidelijke Thaise restaurants",
+          "Authentieke straatrestantaurants",
+          "Traditionele markten",
+          "Familiegerunde eetgelegenheden"
+        ],
+        "street_food_areas": [
+          "Nachtmarkten",
+          "Verse ochtendmarkten",
+          "Lokale foodcourts"
+        ],
+        "price_ranges": {
+          "street_vendor": "30-50 THB",
+          "market_stall": "40-60 THB",
+          "restaurant": "60-100 THB"
+        }
+      },
+      "translated_at": "2026-03-14T00:00:00.000Z"
+    }
+  }
+}

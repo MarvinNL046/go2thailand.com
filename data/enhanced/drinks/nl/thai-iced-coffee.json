@@ -1,0 +1,57 @@
+{
+  "id": 2,
+  "slug": "thai-iced-coffee",
+  "name": {
+    "en": "Thai Iced Coffee",
+    "nl": "Thaise IJskoffie",
+    "thai": "กาแฟเย็น"
+  },
+  "category": "koffie",
+  "type": "koud",
+  "description": {
+    "en": "Strong coffee with condensed milk served over ice",
+    "nl": "Sterke koffie met gecondenseerde melk geserveerd over ijs"
+  },
+  "ingredients": [
+    "koffie",
+    "gecondenseerde melk",
+    "geëvaporeerde melk",
+    "suiker",
+    "ijs"
+  ],
+  "allergens": [
+    "zuivel"
+  ],
+  "dietary": [
+    "vegetarisch"
+  ],
+  "image": "/images/drinks/thai-iced-coffee.webp",
+  "temperature": "koud",
+  "alcohol_content": "geen",
+  "caffeine": "hoog",
+  "price_range": "budget",
+  "region": "centraal",
+  "occasions": [
+    "ontbijt",
+    "middag"
+  ],
+  "seo": {
+    "metaTitle": {
+      "en": "Thai Iced Coffee Recipe | Authentic Thai coffee",
+      "nl": "Thaise IJskoffie Recept | Authentieke Thaise coffee"
+    },
+    "metaDescription": {
+      "en": "Learn about Thai Iced Coffee (กาแฟเย็น) - Strong coffee with condensed milk served over ice",
+      "nl": "Leer over Thaise IJskoffie (กาแฟเย็น) - Sterke koffie met gecondenseerde melk geserveerd over ijs"
+    }
+  },
+  "tags": [
+    "thaise-dranken",
+    "Thailand",
+    "koffie",
+    "koud",
+    "koud",
+    "ontbijt",
+    "middag"
+  ]
+}

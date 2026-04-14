@@ -1,0 +1,973 @@
+{
+  "id": 41,
+  "slug": "moo-palo",
+  "name": {
+    "en": "Moo Palo",
+    "nl": "Moo Palo",
+    "thai": "หมูพะโล้"
+  },
+  "category": "hoofdgerecht",
+  "region": "noordelijk",
+  "spice_level": "mild",
+  "description": {
+    "en": "Pork belly stewed in sweet soy sauce with eggs",
+    "nl": "Varkensbuik gestoofd in zoete sojasaus met eieren"
+  },
+  "ingredients": [
+    "varkensbuik",
+    "eieren",
+    "sojasaus",
+    "palmsuiker",
+    "Chinese vijfkruiden",
+    "korianderwortel"
+  ],
+  "allergens": [],
+  "dietary": [],
+  "image": "/images/food/moo-palo.webp",
+  "preparation_time": "90 minuten",
+  "difficulty": "gemiddeld",
+  "price_range": "budget",
+  "seo": {
+    "metaTitle": {
+      "en": "Moo Palo Recipe | Authentic Thai main dish",
+      "nl": "Moo Palo Recept | Authentieke Thaise main dish"
+    },
+    "metaDescription": {
+      "en": "Learn about Moo Palo (หมูพะโล้) - Pork belly stewed in sweet soy sauce with eggs...",
+      "nl": "Leer over Moo Palo (หมูพะโล้) - Varkensbuik gestoofd in zoete sojasaus met eieren..."
+    }
+  },
+  "tags": [
+    "thais-eten",
+    "Thailand",
+    "hoofdgerecht",
+    "noordelijk",
+    "mild",
+    "gemiddeld",
+    "budget",
+    "varkensbuik",
+    "eieren",
+    "sojasaus"
+  ],
+  "cooking": {
+    "preparation_time": "90 minuten",
+    "difficulty": "gemiddeld",
+    "spice_level": "mild",
+    "serves": "2-4 personen"
+  },
+  "nutrition": {
+    "allergens": [],
+    "dietary": [],
+    "price_range": "budget"
+  },
+  "enhanced_description": "Moo Palo is een geliefd stevig en smaakvol hoofdgerecht uit Noord-Thailand met een subtiele warmte. Varkensbuik gestoofd in zoete sojasaus met eieren. Dit recept met gemiddelde moeilijkheidsgraad vergt ongeveer 90 minuten bereidingstijd en vertegenwoordigt de authentieke smaken van de Noord-Thaise keuken, gekenmerkt door mildere smaken, kleefrijst en kruiden. De combinatie van varkensbuik, eieren en sojasaus creëert een harmonieuze mix die dit gerecht tot een favoriet heeft gemaakt onder zowel locals als bezoekers. Perfect voor wie op zoek is naar betaalbare authentieke Thaise keuken.",
+  "detailed_ingredients": [
+    {
+      "name": "Pork belly",
+      "purpose": "Essentieel voor authentieke Moo Palo smaak",
+      "substitutes": [
+        "Verse varkensbuik",
+        "Gedroogde varkensbuik",
+        "pasta van varkensbuik"
+      ]
+    },
+    {
+      "name": "Eggs",
+      "purpose": "Essentieel voor authentieke Moo Palo smaak",
+      "substitutes": [
+        "Verse eieren",
+        "Gedroogde eieren",
+        "eierpasta"
+      ]
+    },
+    {
+      "name": "Soy sauce",
+      "purpose": "Essentieel voor authentieke Moo Palo smaak",
+      "substitutes": [
+        "Verse sojasaus",
+        "Gedroogde sojasaus",
+        "sojasaus pasta"
+      ]
+    },
+    {
+      "name": "Palm sugar",
+      "purpose": "Essentieel voor authentieke Moo Palo smaak",
+      "substitutes": [
+        "Verse palmsuiker",
+        "Gedroogde palmsuiker",
+        "palmsuiker pasta"
+      ]
+    }
+  ],
+  "cooking_method": {
+    "technique": "Roerbakken of grillen",
+    "steps_overview": "Het bereiden van Moo Palo vereist aandacht voor detail en goede timing. De sleutel is het balanceren van alle smaken terwijl de textuur van elk ingrediënt behouden blijft. Traditionele methoden die van generatie op generatie zijn doorgegeven, garanderen een authentieke smaak.",
+    "cooking_tips": [
+      "Gebruik verse varkensbuik voor het beste resultaat",
+      "Pas het pittigheidsniveau aan naar voorkeur",
+      "Kook niet te lang om textuur te behouden",
+      "Proef en pas kruiding aan voor serveren"
+    ]
+  },
+  "cultural_significance": {
+    "origin_story": "Moo Palo is al generaties lang een vast onderdeel van de Noord-Thaise keuken en weerspiegelt de unieke culinaire tradities en lokale ingrediënten van de regio.",
+    "cultural_importance": "Dit gerecht vertegenwoordigt het hart van de Noord-Thaise kookkunst en toont de balans en harmonie waarmee de Thaise keuken wereldwijd beroemd is.",
+    "traditional_occasions": [
+      "Familiebijeenkomsten",
+      "Lokale festivals",
+      "Straatvoedselmarkten",
+      "Bijzondere vieringen"
+    ]
+  },
+  "variations": [
+    {
+      "name": "Moo Palo Classic",
+      "description": "De traditionele versie zoals geserveerd in lokale huishoudens"
+    },
+    {
+      "name": "Moo Palo Modern",
+      "description": "Hedendaagse variant met premium ingrediënten"
+    },
+    {
+      "name": "Vegetarian Moo Palo",
+      "description": "Plantaardige versie met tofu of paddenstoelen"
+    }
+  ],
+  "serving_suggestions": {
+    "traditional_accompaniments": [
+      "Jasmijnrijst",
+      "Verse groenten",
+      "Thaise kruiden"
+    ],
+    "presentation": "Geserveerd op een bord in traditionele Thaise stijl",
+    "eating_etiquette": "Genoten met vork en lepel volgens Thais gebruik"
+  },
+  "nutritional_info": {
+    "calories_per_serving": "300-500 calorieën",
+    "health_benefits": [
+      "Rijk aan Thaise kruiden en specerijen",
+      "Bron van eiwitten en groenten",
+      "Gebalanceerde smaken en voedingsstoffen"
+    ],
+    "dietary_notes": []
+  },
+  "where_to_find": {
+    "best_restaurants": [
+      "Lokale Noord-Thaise restaurants",
+      "Authentieke straatvoedselkramen",
+      "Traditionele markten",
+      "Familiegerunde eetgelegenheden"
+    ],
+    "street_food_areas": [
+      "Nachtmarkten",
+      "Ochtendverse markten",
+      "Lokale food courts"
+    ],
+    "price_ranges": {
+      "street_vendor": "30-50 THB",
+      "market_stall": "40-60 THB",
+      "restaurant": "60-100 THB"
+    }
+  },
+  "translations": {
+    "nl": {
+      "enhanced_description": "Moo Palo is een geliefd stevig en smaakvol hoofdgerecht uit Noord-Thailand met een subtiele warmte. Varkensbuik gestoofd in zoete sojasaus met eieren. Dit recept met gemiddelde moeilijkheidsgraad vergt ongeveer 90 minuten bereidingstijd en vertegenwoordigt de authentieke smaken van de Noord-Thaise keuken, gekenmerkt door mildere smaken, kleefrijst en kruiden. De combinatie van varkensbuik, eieren en sojasaus creëert een harmonieuze mix die dit gerecht tot een favoriet heeft gemaakt onder zowel locals als bezoekers. Perfect voor wie op zoek is naar betaalbare authentieke Thaise keuken.",
+      "detailed_ingredients": [
+        {
+          "name": "Varkensbuik",
+          "purpose": "Essentieel voor de authentieke Moo Palo smaak",
+          "substitutes": [
+            "Verse varkensbuik",
+            "Gedroogde varkensbuik",
+            "Varkensschouder"
+          ]
+        },
+        {
+          "name": "Eieren",
+          "purpose": "Essentieel voor de authentieke Moo Palo smaak",
+          "substitutes": [
+            "Verse eieren",
+            "Kwarteleitjes",
+            "Tofu (voor vegetarische versie)"
+          ]
+        },
+        {
+          "name": "Sojasaus",
+          "purpose": "Essentieel voor de authentieke Moo Palo smaak",
+          "substitutes": [
+            "Lichte sojasaus",
+            "Donkere sojasaus",
+            "Ketjap manis"
+          ]
+        },
+        {
+          "name": "Palmsuiker",
+          "purpose": "Essentieel voor de authentieke Moo Palo smaak",
+          "substitutes": [
+            "Verse palmsuiker",
+            "Kokossuiker",
+            "Bruine suiker"
+          ]
+        }
+      ],
+      "cooking_method": {
+        "technique": "Langzaam stoven",
+        "steps_overview": "Het bereiden van Moo Palo vereist aandacht voor detail en goede timing. De sleutel is het balanceren van alle smaken terwijl de textuur van elk ingrediënt behouden blijft. Traditionele methoden die van generatie op generatie zijn doorgegeven, garanderen een authentieke smaak.",
+        "cooking_tips": [
+          "Gebruik verse varkensbuik voor het beste resultaat",
+          "Pas het pittigheidsgehalte aan naar je voorkeur",
+          "Kook niet te lang om de textuur te behouden",
+          "Proef en pas de kruiding aan voor het serveren"
+        ]
+      },
+      "cultural_significance": {
+        "origin_story": "Moo Palo is al generaties lang een vast onderdeel van de Noord-Thaise keuken en weerspiegelt de unieke culinaire tradities en lokale ingrediënten van de regio.",
+        "cultural_importance": "Dit gerecht vertegenwoordigt het hart van de Noord-Thaise kookkunst en toont de balans en harmonie waarmee de Thaise keuken wereldwijd beroemd is.",
+        "traditional_occasions": [
+          "Familiebijeenkomsten",
+          "Lokale festivals",
+          "Straatvoedselmarkten",
+          "Bijzondere vieringen"
+        ]
+      },
+      "variations": [
+        {
+          "name": "Moo Palo Klassiek",
+          "description": "De traditionele versie zoals geserveerd in lokale huishoudens"
+        },
+        {
+          "name": "Moo Palo Modern",
+          "description": "Hedendaagse variant met premium ingrediënten"
+        },
+        {
+          "name": "Vegetarische Moo Palo",
+          "description": "Plantaardige versie met tofu of paddenstoelen"
+        }
+      ],
+      "serving_suggestions": {
+        "traditional_accompaniments": [
+          "Jasmijnrijst",
+          "Verse groenten",
+          "Thaise kruiden"
+        ],
+        "presentation": "Geserveerd op een bord in traditionele Noord-Thaise stijl",
+        "eating_etiquette": "Gegeten met vork en lepel volgens Thais gebruik"
+      },
+      "where_to_find": {
+        "best_restaurants": [
+          "Lokale Noord-Thaise restaurants",
+          "Authentieke straatvoedselkramen",
+          "Traditionele markten",
+          "Familiebedrijfjes"
+        ],
+        "street_food_areas": [
+          "Nachtmarkten",
+          "Ochtendverse markten",
+          "Lokale food courts"
+        ]
+      },
+      "translated_at": "2026-03-10T00:00:00.000Z"
+    },
+    "fr": {
+      "enhanced_description": "Moo Palo is een geliefd stevig en smaakvol hoofdgerecht uit Noord-Thailand met een subtiele warmte. Varkensbuik gestoofd in zoete sojasaus met eieren. Dit recept met gemiddelde moeilijkheidsgraad vergt ongeveer 90 minuten bereidingstijd en vertegenwoordigt de authentieke smaken van de Noord-Thaise keuken, gekenmerkt door mildere smaken, kleefrijst en kruiden. De combinatie van varkensbuik, eieren en sojasaus creëert een harmonieuze mix die dit gerecht tot een favoriet heeft gemaakt onder zowel locals als bezoekers. Perfect voor wie op zoek is naar betaalbare authentieke Thaise keuken.",
+      "detailed_ingredients": [
+        {
+          "name": "Poitrine de porc",
+          "purpose": "Essentieel voor de authentieke Moo Palo smaak",
+          "substitutes": [
+            "Verse varkensbuik",
+            "Gedroogde varkensbuik",
+            "Varkensschouder"
+          ]
+        },
+        {
+          "name": "Œufs",
+          "purpose": "Essentieel voor de authentieke Moo Palo smaak",
+          "substitutes": [
+            "Verse eieren",
+            "Kwarteleitjes",
+            "Tofu (voor de vegetarische versie)"
+          ]
+        },
+        {
+          "name": "Sauce soja",
+          "purpose": "Essentieel voor de authentieke Moo Palo smaak",
+          "substitutes": [
+            "Lichte sojasaus",
+            "Donkere sojasaus",
+            "Kecap manis"
+          ]
+        },
+        {
+          "name": "Sucre de palme",
+          "purpose": "Essentieel voor de authentieke Moo Palo smaak",
+          "substitutes": [
+            "Verse palmsuiker",
+            "Kokossuiker",
+            "Bruine suiker"
+          ]
+        }
+      ],
+      "cooking_method": {
+        "technique": "Langzaam stoven",
+        "steps_overview": "De bereiding van Moo Palo vereist aandacht voor details en goed tijdmanagement. De sleutel is het balanceren van alle smaken terwijl de textuur van elk ingrediënt behouden blijft. Traditionele methoden die van generatie op generatie zijn doorgegeven, garanderen een authentieke smaak.",
+        "cooking_tips": [
+          "Gebruik verse varkensbuik voor het beste resultaat",
+          "Pas het pittigheidsniveau aan volgens je voorkeuren",
+          "Kook niet te lang om de textuur te behouden",
+          "Proef en pas de kruiding aan voor het serveren"
+        ]
+      },
+      "cultural_significance": {
+        "origin_story": "Moo Palo is al generaties lang een pilaar van de Noord-Thaise keuken en weerspiegelt de unieke culinaire tradities en lokale ingrediënten van de regio.",
+        "cultural_importance": "Dit gerecht vertegenwoordigt het hart van de Noord-Thaise keuken en illustreert de balans en harmonie die de Thaise keuken wereldwijd beroemd hebben gemaakt.",
+        "traditional_occasions": [
+          "Familiebijeenkomsten",
+          "Lokale festivals",
+          "Straatvoedselmarkten",
+          "Bijzondere vieringen"
+        ]
+      },
+      "variations": [
+        {
+          "name": "Moo Palo Classique",
+          "description": "De traditionele versie zoals geserveerd in lokale huishoudens"
+        },
+        {
+          "name": "Moo Palo Moderne",
+          "description": "Hedendaagse versie met premium ingrediënten"
+        },
+        {
+          "name": "Moo Palo Végétarien",
+          "description": "Plantaardige versie met tofu of paddenstoelen"
+        }
+      ],
+      "serving_suggestions": {
+        "traditional_accompaniments": [
+          "Jasmijnrijst",
+          "Verse groenten",
+          "Thaise kruiden"
+        ],
+        "presentation": "Geserveerd op een bord in de traditionele stijl van Noord-Thailand",
+        "eating_etiquette": "Gegeten met vork en lepel volgens Thaise traditie"
+      },
+      "where_to_find": {
+        "best_restaurants": [
+          "Lokale restaurants in Noord-Thailand",
+          "Authentieke straatkraampjes",
+          "Traditionele markten",
+          "Familierestaurants"
+        ],
+        "street_food_areas": [
+          "Nachtmarkten",
+          "Verse ochtendmarkten",
+          "Lokale foodcourts"
+        ]
+      },
+      "translated_at": "2026-03-10T00:00:00.000Z"
+    },
+    "de": {
+      "enhanced_description": "Moo Palo is een geliefd stevig en vullend hoofdgerecht uit Noord-Thailand met een subtiele warmte. Varkensbuik gestoofd in zoete sojasaus met eieren. Dit recept van gemiddelde moeilijkheid vereist ongeveer 90 minuten bereidingstijd en vertegenwoordigt de authentieke smaken van de Noord-Thaise keuken, die zich kenmerkt door mildere smaken, kleefrijst en kruiden. De combinatie van varkensbuik, eieren en sojasaus creëert een harmonieuze mix die dit gerecht zowel bij locals als bij bezoekers favoriet heeft gemaakt. Perfect voor wie betaalbare authentieke Thaise keuken zoekt.",
+      "detailed_ingredients": [
+        {
+          "name": "Schweinebauch",
+          "purpose": "Onmisbaar voor de authentieke Moo Palo-smaak",
+          "substitutes": [
+            "Verse varkensbuik",
+            "Gedroogde varkensbuik",
+            "Varkensschouder"
+          ]
+        },
+        {
+          "name": "Eier",
+          "purpose": "Onmisbaar voor de authentieke Moo Palo-smaak",
+          "substitutes": [
+            "Verse eieren",
+            "Kwartel-eieren",
+            "Tofu (voor de vegetarische versie)"
+          ]
+        },
+        {
+          "name": "Sojasauce",
+          "purpose": "Onmisbaar voor de authentieke Moo Palo-smaak",
+          "substitutes": [
+            "Lichte sojasaus",
+            "Donkere sojasaus",
+            "Zoete sojasaus"
+          ]
+        },
+        {
+          "name": "Palmzucker",
+          "purpose": "Onmisbaar voor de authentieke Moo Palo-smaak",
+          "substitutes": [
+            "Verse palmsuiker",
+            "Koksusuiker",
+            "Bruine suiker"
+          ]
+        }
+      ],
+      "cooking_method": {
+        "technique": "Langzaam stoven",
+        "steps_overview": "De bereiding van Moo Palo vereist aandacht voor detail en goed timing. De sleutel ligt in het balanceren van alle smaken terwijl de textuur van elke ingrediënt behouden blijft. Traditionele methoden, doorgegeven van generatie op generatie, garanderen een authentieke smaak.",
+        "cooking_tips": [
+          "Gebruik verse varkensbuik voor het beste resultaat",
+          "Pas de pittigheid aan naar smaak",
+          "Niet te lang koken om de textuur te behouden",
+          "Proeven en op smaak brengen voor het serveren"
+        ]
+      },
+      "cultural_significance": {
+        "origin_story": "Moo Palo is al generaties lang een vast onderdeel van de Noord-Thaise keuken en weerspiegelt de unieke culinaire tradities en lokale ingrediënten van de regio.",
+        "cultural_importance": "Dit gerecht vertegenwoordigt het hart van de Noord-Thaise kookkunst en toont de balans en harmonie waarvoor de Thaise keuken wereldwijd beroemd is.",
+        "traditional_occasions": [
+          "Familiebijeenkomsten",
+          "Lokale feesten",
+          "Straatvoedselmarkten",
+          "Speciale vieringen"
+        ]
+      },
+      "variations": [
+        {
+          "name": "Moo Palo Klassisch",
+          "description": "De traditionele versie zoals geserveerd in lokale huishoudens"
+        },
+        {
+          "name": "Moo Palo Modern",
+          "description": "Moderne variant met premium ingrediënten"
+        },
+        {
+          "name": "Vegetarisches Moo Palo",
+          "description": "Plantaardige versie met tofu of paddenstoelen"
+        }
+      ],
+      "serving_suggestions": {
+        "traditional_accompaniments": [
+          "Jasmijnrijst",
+          "Verse groenten",
+          "Thaise kruiden"
+        ],
+        "presentation": "Geserveerd op een bord in de traditionele Noord-Thaise stijl",
+        "eating_etiquette": "Gegeten met vork en lepel volgens Thaise gewoonte"
+      },
+      "where_to_find": {
+        "best_restaurants": [
+          "Lokale Noord-Thaise restaurants",
+          "Authentieke straatkraampjes",
+          "Traditionele markten",
+          "Familiebedrijven"
+        ],
+        "street_food_areas": [
+          "Nachtmarkten",
+          "Verse ochtendmarkten",
+          "Lokale foodcourts"
+        ]
+      },
+      "translated_at": "2026-03-10T00:00:00.000Z"
+    },
+    "zh": {
+      "enhanced_description": "Moo Palo is een geliefd royaal hoofdgerecht uit Noord-Thailand met subtiele warme smaken. Zoete sojasaus gestoofde varkensbuik met gekookte eieren. Dit recept van gemiddelde moeilijkheid duurt ongeveer 90 minuten en vertegenwoordigt de authentieke smaken van de Noord-Thaise keuken – gekenmerkt door milde smaken, kleefrijst en kruiden. De combinatie van varkensbuik, eieren en sojasaus creëert een harmonieuze textuur die dit gerecht geliefd maakt bij zowel locals als toeristen. Ideaal voor wie betaalbare authentieke Thaise gerechten zoekt.",
+      "detailed_ingredients": [
+        {
+          "name": "五花肉",
+          "purpose": "Kern-ingrediënt voor de authentieke Moo Palo-smaak",
+          "substitutes": [
+            "Verse varkensbuik",
+            "Gedroogde varkensbuik",
+            "Varkensschouder"
+          ]
+        },
+        {
+          "name": "鸡蛋",
+          "purpose": "Kern-ingrediënt voor de authentieke Moo Palo-smaak",
+          "substitutes": [
+            "Verse eieren",
+            "Kwartel-eieren",
+            "Tofu (vegetarische versie)"
+          ]
+        },
+        {
+          "name": "酱油",
+          "purpose": "Kern-ingrediënt voor de authentieke Moo Palo-smaak",
+          "substitutes": [
+            "Lichte sojasaus",
+            "Donkere sojasaus",
+            "Zoete sojasaus"
+          ]
+        },
+        {
+          "name": "棕榈糖",
+          "purpose": "Kern-ingrediënt voor de authentieke Moo Palo-smaak",
+          "substitutes": [
+            "Verse palmsuiker",
+            "Koksusuiker",
+            "Bruine suiker"
+          ]
+        }
+      ],
+      "cooking_method": {
+        "technique": "Langzaam stoven",
+        "steps_overview": "Het maken van Moo Palo vereist aandacht voor details en goed tijdbeheer. De sleutel is het balanceren van alle smaken terwijl de textuur van elk ingrediënt behouden blijft. Traditionele kookmethoden, doorgegeven van generatie op generatie, zorgen voor een authentieke smaak.",
+        "cooking_tips": [
+          "Gebruik verse varkensbuik voor het beste resultaat",
+          "Pas de pittigheid aan naar persoonlijke voorkeur",
+          "Niet te lang koken om de textuur te behouden",
+          "Proeven en kruiden aanpassen voor het serveren"
+        ]
+      },
+      "cultural_significance": {
+        "origin_story": "Moo Palo is al generaties lang een klassieker in de Noord-Thaise keuken en belichaamt de unieke kooktradities en lokale ingrediënten van de regio.",
+        "cultural_importance": "Dit gerecht vertegenwoordigt de essentie van de Noord-Thaise keuken en toont de balans en harmonie waarvoor de Thaise keuken wereldwijd bekendstaat.",
+        "traditional_occasions": [
+          "Familiebijeenkomsten",
+          "Lokale festivals",
+          "Straatvoedselmarkten",
+          "Speciale vieringen"
+        ]
+      },
+      "variations": [
+        {
+          "name": "经典Moo Palo",
+          "description": "De traditionele bereiding in lokale huishoudens"
+        },
+        {
+          "name": "创新Moo Palo",
+          "description": "Moderne innovatieve versie met premium ingrediënten"
+        },
+        {
+          "name": "素食Moo Palo",
+          "description": "Vegetarische versie met tofu of paddenstoelen"
+        }
+      ],
+      "serving_suggestions": {
+        "traditional_accompaniments": [
+          "Jasmijnrijst",
+          "Verse groenten",
+          "Thaise kruiden"
+        ],
+        "presentation": "Geserveerd op een bord in de traditionele Noord-Thaise stijl",
+        "eating_etiquette": "Genoten met vork en lepel volgens Thaise traditie"
+      },
+      "where_to_find": {
+        "best_restaurants": [
+          "Lokale Noord-Thaise restaurants",
+          "Authentieke straatsnacks",
+          "Traditionele markten",
+          "Familiegerunde winkeltjes"
+        ],
+        "street_food_areas": [
+          "Nachtmarkten",
+          "Ochtendmarkten",
+          "Lokale eetpleinen"
+        ]
+      },
+      "translated_at": "2026-03-11T00:00:00.000Z"
+    },
+    "ru": {
+      "enhanced_description": "Moo Palo is een geliefd vullend en rijk hoofdgerecht uit Noord-Thailand met een delicate warmte. Varkensbuik gestoofd in zoete sojasaus met eieren. Dit gerecht van gemiddelde complexiteit duurt ongeveer 90 minuten en vertegenwoordigt de authentieke smaken van de Noord-Thaise keuken, gekenmerkt door mildere smaken, kleefrijst en kruiden. De combinatie van varkensbuik, eieren en sojasaus creëert een harmonieus smaakbalans, waardoor het gerecht geliefd is bij zowel locals als reizigers. Ideale keuze voor wie betaalbare en authentieke Thaise keuken zoekt.",
+      "detailed_ingredients": [
+        {
+          "name": "Свиная грудинка",
+          "purpose": "Onmisbaar ingrediënt voor de authentieke Moo Palo-smaak",
+          "substitutes": [
+            "Verse varkensbuik",
+            "Gedroogde varkensbuik",
+            "Varkensschouder"
+          ]
+        },
+        {
+          "name": "Яйца",
+          "purpose": "Onmisbaar ingrediënt voor de authentieke Moo Palo-smaak",
+          "substitutes": [
+            "Verse eieren",
+            "Kwartel-eieren",
+            "Tofu (voor de vegetarische versie)"
+          ]
+        },
+        {
+          "name": "Соевый соус",
+          "purpose": "Onmisbaar ingrediënt voor de authentieke Moo Palo-smaak",
+          "substitutes": [
+            "Lichte sojasaus",
+            "Donkere sojasaus",
+            "Zoete sojasaus"
+          ]
+        },
+        {
+          "name": "Пальмовый сахар",
+          "purpose": "Onmisbaar ingrediënt voor de authentieke Moo Palo-smaak",
+          "substitutes": [
+            "Verse palmsuiker",
+            "Koksusuiker",
+            "Bruine suiker"
+          ]
+        }
+      ],
+      "cooking_method": {
+        "technique": "Langzaam stoven",
+        "steps_overview": "De bereiding van Moo Palo vereist aandacht voor details en correcte tijdinschatting. Het belangrijkste is het balanceren van alle smaken terwijl de textuur van elk ingrediënt behouden blijft. Traditionele methoden, doorgegeven van generatie op generatie, zorgen voor een authentieke smaak.",
+        "cooking_tips": [
+          "Gebruik verse varkensbuik voor het beste resultaat",
+          "Pas de pittigheid aan naar smaak",
+          "Niet te lang koken om de textuur te behouden",
+          "Proeven en kruiden aanpassen voor het serveren"
+        ]
+      },
+      "cultural_significance": {
+        "origin_story": "Moo Palo is al vele generaties een klassieker in de Noord-Thaise keuken en weerspiegelt de unieke culinaire tradities en lokale ingrediënten van de regio.",
+        "cultural_importance": "Dit gerecht belichaamt het hart van de Noord-Thaise culinaire kunst en demonstreert de balans en harmonie waarvoor de Thaise keuken wereldwijd beroemd is.",
+        "traditional_occasions": [
+          "Familiebijeenkomsten",
+          "Lokale festivals",
+          "Straatvoedselmarkten",
+          "Speciale feesten"
+        ]
+      },
+      "variations": [
+        {
+          "name": "Классический Му Пало",
+          "description": "De traditionele versie zoals bereid in lokale huizen"
+        },
+        {
+          "name": "Современный Му Пало",
+          "description": "Moderne interpretatie met premium ingrediënten"
+        },
+        {
+          "name": "Вегетарианский Му Пало",
+          "description": "Plantaardige versie met tofu of paddenstoelen"
+        }
+      ],
+      "serving_suggestions": {
+        "traditional_accompaniments": [
+          "Jasmijnrijst",
+          "Verse groenten",
+          "Thaise kruiden"
+        ],
+        "presentation": "Geserveerd op een bord in de traditionele Noord-Thaise stijl",
+        "eating_etiquette": "Gegeten met vork en lepel volgens Thaise gewoonte"
+      },
+      "where_to_find": {
+        "best_restaurants": [
+          "Lokale Noord-Thaise restaurants",
+          "Authentieke straatkraampjes",
+          "Traditionele markten",
+          "Familiebedrijven"
+        ],
+        "street_food_areas": [
+          "Nachtmarkten",
+          "Verse ochtendmarkten",
+          "Lokale foodcourts"
+        ]
+      },
+      "translated_at": "2026-03-11T00:00:00.000Z"
+    },
+    "ko": {
+      "enhanced_description": "Moo Palo is een Thaise varkensstoofpot met Chinese vijfkruidenpoeder, waarbij varkensbuik en gekookte eieren langzaam worden gestoofd met sojasaus, palmsuiker, vijfkruidenpoeder en korianderwortel voor een diepe smaak. Dit recept van gemiddelde moeilijkheid duurt ongeveer 90 minuten en is een unieke Thaise ontwikkeling van de Chinese Luwei-stooftechniek. De warme specerijaroma's van vijfkruidenpoeder, de umami van sojasaus en de zoetheid van palmsuiker creëren een comfortabele smaak die perfect bij rijst past. Een geliefd huishoudgerecht in Thaise huishoudens overal.",
+      "detailed_ingredients": [
+        {
+          "name": "삼겹살",
+          "purpose": "Hoofdingrediënt dat bij lang koken een zachte, smeltende textuur in de mond krijgt",
+          "substitutes": [
+            "Varkensbuik (met vel)",
+            "Varkensnek",
+            "Voorpoten varkensvlees"
+          ]
+        },
+        {
+          "name": "삶은 달걀",
+          "purpose": "Essentieel ingrediënt dat de smaak van sojasaus opneemt en donkerbruin kleurt",
+          "substitutes": [
+            "Ei",
+            "Kwartel ei",
+            "Tofu (vegetarisch alternatief)"
+          ]
+        },
+        {
+          "name": "간장 (시유담 + 시유카오)",
+          "purpose": "Kernkruid dat een donkere kleur en zoute umami-smaak als basis geeft",
+          "substitutes": [
+            "Donkere sojasaus + lichte sojasaus",
+            "Chinese donkere sojasaus + lichte sojasaus",
+            "Kecap Manis"
+          ]
+        },
+        {
+          "name": "오향 가루와 고수 뿌리",
+          "purpose": "Specerijen die warme aroma’s en diepe smaken van kaneel, steranijs, kruidnagel en venkel toevoegen",
+          "substitutes": [
+            "Chinese vijfkruidenpoeder",
+            "Steranijs + kaneel (individuele specerijen)",
+            "Garam masala (alternatief)"
+          ]
+        }
+      ],
+      "cooking_method": {
+        "technique": "Lage temperatuur langdurig sudderen (braiseren)",
+        "steps_overview": "Om moo phalo te maken, snijd je eerst de varkensbuik in grote stukken en blancheer je deze in kokend water om de vieze geurtjes te verwijderen. Fruit in een pan knoflook, korianderwortel en witte peper tot pasta in olie om aroma te creëren, voeg de varkensbuik toe en bak de buitenkant bruin. Voeg sojasaus, palmsuiker, vijfkruidenpoeder en water toe, breng aan de kook en laat op laag vuur sudderen voor meer dan een uur. Voeg gekookte eieren toe en laat de laatste 20-30 minuten meesudderen voor een perfect resultaat.",
+        "cooking_tips": [
+          "Blancheer de varkensbuik om vieze geurtjes te verwijderen voor een schone smaak",
+          "Sudder langzaam op laag vuur voor mals vlees — hoog vuur maakt het taai",
+          "Prik na het pellen gaatjes in de eieren met een vork zodat de saus goed intrekt",
+          "Bewaar een nacht in de koelkast en warm op voor een diepere smaak"
+        ]
+      },
+      "cultural_significance": {
+        "origin_story": "Moo phalo is een lokaal aangepaste versie van de Chinese Chaozhou luwei-braaistechniek die naar Thailand is gebracht. De naam 'phalo' betekent in het Chaozhou-dialect 'lu' (braaien), en Chinese immigranten in Thailand hebben het ontwikkeld tot een unieke Thaise variant met palmsuiker en korianderwortel.",
+        "cultural_importance": "Moo phalo is een geliefd Thais huishoudgerecht dat symbool staat voor de hand van moeder. Het is een vast onderdeel in Chinees-Thaise families tijdens feesten, en een alledaags menu in straatkiosken en food courts.",
+        "traditional_occasions": [
+          "Familiebijeenkomsten",
+          "Feestmaaltijden",
+          "Dagelijks huishoudgerecht",
+          "Tempelofferingen"
+        ]
+      },
+      "variations": [
+        {
+          "name": "무빠로 전통식",
+          "description": "De meest traditionele versie met vijfkruidenpoeder en sojasaus, lang gesudderd."
+        },
+        {
+          "name": "무빠로 카이(달걀)",
+          "description": "Een eenvoudige versie waarin eieren de hoofdrol spelen in plaats van varkensbuik."
+        },
+        {
+          "name": "채식 무빠로",
+          "description": "Vegetarische versie met tofu en paddenstoelen."
+        }
+      ],
+      "serving_suggestions": {
+        "traditional_accompaniments": [
+          "Jasmijnrijst",
+          "Ingelegde gember",
+          "Verse groenten"
+        ],
+        "presentation": "Serveer in een kom met rijst en giet de saus eroverheen",
+        "eating_etiquette": "Eet volgens Thais gebruik met vork en lepel samen met rijst"
+      },
+      "where_to_find": {
+        "best_restaurants": [
+          "Chinees-Thaise restaurants",
+          "Lokale huishoudelijke eettentjes",
+          "Restaurants in traditionele markten",
+          "Food courts"
+        ],
+        "street_food_areas": [
+          "Nachtmarkten",
+          "Ochtendmarkten",
+          "Lokale food courts"
+        ],
+        "price_ranges": {
+          "street_vendor": "40-70 THB",
+          "market_stall": "50-80 THB",
+          "restaurant": "80-150 THB"
+        }
+      },
+      "translated_at": "2026-03-14T00:00:00.000Z"
+    },
+    "th": {
+      "enhanced_description": "Moo phalo is een populair Thais-Chinees gerecht door heel het land. Varkensbuik gestoofd in donkere phalo-sojasaus met gekookte eieren, geurig met Chinese specerijen zoals kaneel en steranijs, plus koriander. Smaak: zoet-zout, zacht en diep.",
+      "detailed_ingredients": [
+        {
+          "name": "Pork belly",
+          "purpose": "Belangrijk voor de authentieke smaak van Moo Palo",
+          "substitutes": [
+            "Verse varkensbuik",
+            "Gedroogde varkensbuik",
+            "Varkensbuikpasta"
+          ]
+        },
+        {
+          "name": "Eggs",
+          "purpose": "Belangrijk voor de authentieke smaak van Moo Palo",
+          "substitutes": [
+            "Verse eieren",
+            "Gedroogde eieren",
+            "Eierpasta"
+          ]
+        },
+        {
+          "name": "Soy sauce",
+          "purpose": "Belangrijk voor de authentieke smaak van Moo Palo",
+          "substitutes": [
+            "Verse sojasaus",
+            "Gedroogde sojasaus",
+            "Sojasauspasta"
+          ]
+        },
+        {
+          "name": "Palm sugar",
+          "purpose": "Belangrijk voor de authentieke smaak van Moo Palo",
+          "substitutes": [
+            "Verse palmsuiker",
+            "Gedroogde palmsuiker",
+            "Palmsuikerpasta"
+          ]
+        }
+      ],
+      "cooking_method": {
+        "technique": "Roerbakken of grillen",
+        "steps_overview": "De bereiding van Moo Palo vereist aandacht voor details en het juiste tijdstip. Het is cruciaal om alle smaken in balans te brengen terwijl de textuur van elk ingrediënt behouden blijft. De traditionele methode, doorgegeven door generaties, garandeert een authentieke smaak.",
+        "cooking_tips": [
+          "Gebruik verse varkensbuik voor het beste resultaat",
+          "Pas de pittigheid aan naar smaak",
+          "Kook niet te lang om de textuur te behouden",
+          "Proef en breng op smaak voor het serveren"
+        ]
+      },
+      "cultural_significance": {
+        "origin_story": "Dit gerecht is al generaties lang deel van de noordelijke Thaise voedselcultuur en weerspiegelt de unieke kooktradities en lokale ingrediënten van de regio.",
+        "cultural_importance": "Dit gerecht vormt het hart van de noordelijke Thaise keuken en toont de balans en harmonie waar Thaise gerechten wereldwijd om bekendstaan.",
+        "traditional_occasions": [
+          "Familiebijeenkomsten",
+          "Lokale festivals",
+          "Straatvoedselmarkten",
+          "Speciale vieringen"
+        ]
+      },
+      "variations": [
+        {
+          "name": "Moo Palo Classic",
+          "description": "Traditionele versie geserveerd in lokale huizen"
+        },
+        {
+          "name": "Moo Palo Modern",
+          "description": "Moderne versie met premium ingrediënten"
+        },
+        {
+          "name": "Vegetarian Moo Palo",
+          "description": "Vegetarische versie met tofu of paddenstoelen"
+        }
+      ],
+      "serving_suggestions": {
+        "traditional_accompaniments": [
+          "Jasmijnrijst",
+          "Verse groenten",
+          "Thaise kruiden"
+        ],
+        "presentation": "Serveer op een traditioneel Thais bord",
+        "eating_etiquette": "Eet met lepel en vork volgens Thaise traditie"
+      },
+      "where_to_find": {
+        "best_restaurants": [
+          "Lokale noordelijke Thaise restaurants",
+          "Authentieke straatkiosken",
+          "Traditionele markten",
+          "Familiegerunde eettentjes"
+        ],
+        "street_food_areas": [
+          "Nachtmarkten",
+          "Ochtendverse markten",
+          "Lokale food courts"
+        ],
+        "price_ranges": {
+          "street_vendor": "30-50 THB",
+          "market_stall": "40-60 THB",
+          "restaurant": "60-100 THB"
+        }
+      },
+      "translated_at": "2026-03-14T00:00:00.000Z"
+    },
+    "ja": {
+      "enhanced_description": "Moo Palo is een geliefd hoofdgerecht in noordelijke Thaise huishoudens, met een milde warmte. Varkensbuik gestoofd met eieren in zoete sojasaus. Recept van gemiddelde moeilijkheid, bereiding ca. 90 minuten. Authentieke noordelijke Thaise smaken met zachte tonen, kleefrijst en kruiden. De combinatie van varkensbuik, eieren en sojasaus creëert harmonie, favoriet bij locals en bezoekers. Ideaal voor wie betaalbare authentieke Thaise keuken zoekt.",
+      "detailed_ingredients": [
+        {
+          "name": "豚バラ肉",
+          "purpose": "Onmisbaar voor de authentieke Moo Palo-smaak",
+          "substitutes": [
+            "Verse varkensbuik",
+            "Gedroogde varkensbuik",
+            "Varkensbuikpasta"
+          ]
+        },
+        {
+          "name": "卵",
+          "purpose": "Onmisbaar voor de authentieke Moo Palo-smaak",
+          "substitutes": [
+            "Verse eieren",
+            "Gedroogde eieren",
+            "Eierpasta"
+          ]
+        },
+        {
+          "name": "醤油",
+          "purpose": "Onmisbaar voor de authentieke Moo Palo-smaak",
+          "substitutes": [
+            "Verse sojasaus",
+            "Gedroogde sojasaus",
+            "Sojasauspasta"
+          ]
+        },
+        {
+          "name": "パームシュガー",
+          "purpose": "Onmisbaar voor de authentieke Moo Palo-smaak",
+          "substitutes": [
+            "Verse palmsuiker",
+            "Gedroogde palmsuiker",
+            "Palmsuikerpasta"
+          ]
+        }
+      ],
+      "cooking_method": {
+        "technique": "Roerbakken of grillen",
+        "steps_overview": "De bereiding van Moo Palo vereist aandacht voor details en het juiste tijdstip. Breng alle smaken in balans terwijl de textuur van de ingrediënten behouden blijft. De traditionele methode, doorgegeven door generaties, garandeert authentieke smaak.",
+        "cooking_tips": [
+          "Gebruik verse varkensbuik voor het beste resultaat",
+          "Pas de pittigheid aan naar smaak",
+          "Kook niet te lang om textuur te behouden",
+          "Proef en breng op smaak voor het serveren"
+        ]
+      },
+      "cultural_significance": {
+        "origin_story": "Moo Palo is een traditioneel vast gerecht in de noordelijke Thaise keuken, dat generaties lang de unieke regionale kooktradities en lokale ingrediënten weerspiegelt.",
+        "cultural_importance": "Dit gerecht vormt de kern van de noordelijke Thaise keuken en belichaamt de harmonie en balans waar Thaise gerechten wereldwijd voor geprezen worden.",
+        "traditional_occasions": [
+          "Familiebijeenkomsten",
+          "Lokale festivals",
+          "Straatmarkten",
+          "Speciale vieringen"
+        ]
+      },
+      "variations": [
+        {
+          "name": "Moo Palo Classic",
+          "description": "Traditionele versie in lokale huizen"
+        },
+        {
+          "name": "Moo Palo Modern",
+          "description": "Moderne versie met premium ingrediënten"
+        },
+        {
+          "name": "Vegetarian Moo Palo",
+          "description": "Plantaardige versie met tofu of paddenstoelen"
+        }
+      ],
+      "serving_suggestions": {
+        "traditional_accompaniments": [
+          "Jasmijnrijst",
+          "Verse groenten",
+          "Thaise kruiden"
+        ],
+        "presentation": "Serveer op traditioneel Thais bord",
+        "eating_etiquette": "Eet met vork en lepel volgens Thaise gewoonte"
+      },
+      "where_to_find": {
+        "best_restaurants": [
+          "Lokale noordelijke Thaise restaurants",
+          "Authentieke straatkiosken",
+          "Traditionele markten",
+          "Familiegerunde eettentjes"
+        ],
+        "street_food_areas": [
+          "Nachtmarkten",
+          "Ochtendverse markten",
+          "Lokale food courts"
+        ],
+        "price_ranges": {
+          "street_vendor": "Straatkiosken 30-50 THB",
+          "market_stall": "Marktkramen 40-60 THB",
+          "restaurant": "Restaurants 60-100 THB"
+        }
+      },
+      "translated_at": "2026-03-14T00:00:00.000Z"
+    }
+  }
+}

@@ -1,0 +1,326 @@
+[
+  {
+    "id": 6,
+    "slug": "mango-sticky-rice",
+    "name": {
+      "en": "Mango Sticky Rice",
+      "nl": "Mango Sticky Rice",
+      "thai": "ข้าวเหนียวมะม่วง"
+    },
+    "category": "nagerecht",
+    "region": "centraal",
+    "spice_level": "geen",
+    "description": {
+      "en": "Sweet sticky rice served with fresh mango slices and coconut cream",
+      "nl": "Zoete kleefrijst geserveerd met verse mangoplakjes en kokosroom"
+    },
+    "ingredients": [
+      "kleefrijst",
+      "mango",
+      "kokosmelk",
+      "palmsuiker",
+      "zout"
+    ],
+    "allergens": [],
+    "dietary": [
+      "vegetarisch"
+    ],
+    "image": "/images/food/mango-sticky-rice.webp",
+    "preparation_time": "30 minuten",
+    "difficulty": "makkelijk",
+    "price_range": "budget",
+    "seo": {
+      "metaTitle": {
+        "en": "Mango Sticky Rice Recipe | Authentic Thai dessert",
+        "nl": "Mango Sticky Rice Recept | Authentieke Thaise dessert"
+      },
+      "metaDescription": {
+        "en": "Learn about Mango Sticky Rice (ข้าวเหนียวมะม่วง) - Sweet sticky rice served with fresh mango slices and coconut cream...",
+        "nl": "Leer over Mango Sticky Rice (ข้าวเหนียวมะม่วง) - Zoete kleefrijst geserveerd met verse mangoplakjes en kokosroom..."
+      }
+    },
+    "tags": [
+      "thais-eten",
+      "thailand",
+      "nagerecht",
+      "centraal",
+      "makkelijk",
+      "budget",
+      "kleefrijst",
+      "mango",
+      "kokosmelk"
+    ],
+    "cooking": {
+      "preparation_time": "30 minuten",
+      "difficulty": "makkelijk",
+      "spice_level": "geen",
+      "serves": "2-4 personen"
+    },
+    "nutrition": {
+      "allergens": [],
+      "dietary": [
+        "vegetarisch"
+      ],
+      "price_range": "budget"
+    }
+  },
+  {
+    "id": 18,
+    "slug": "oh-aew",
+    "name": {
+      "en": "Oh Aew",
+      "nl": "Oh Aew",
+      "thai": "โอ้เอ๋ว"
+    },
+    "category": "nagerecht",
+    "region": "zuidelijk",
+    "spice_level": "geen",
+    "description": {
+      "en": "Shaved ice dessert with jelly made from banana flour",
+      "nl": "IJsdessert met gelei van bananenmeel"
+    },
+    "ingredients": [
+      "banaanmeelgelei",
+      "geschaafd ijs",
+      "siroop",
+      "kokosmelk"
+    ],
+    "allergens": [],
+    "dietary": [
+      "vegetarisch"
+    ],
+    "image": "/images/food/oh-aew.webp",
+    "preparation_time": "15 minuten",
+    "difficulty": "makkelijk",
+    "price_range": "budget",
+    "seo": {
+      "metaTitle": {
+        "en": "Oh Aew Recipe | Authentic Thai dessert",
+        "nl": "Oh Aew Recept | Authentieke Thaise dessert"
+      },
+      "metaDescription": {
+        "en": "Learn about Oh Aew (โอ้เอ๋ว) - Shaved ice dessert with jelly made from banana flour...",
+        "nl": "Leer over Oh Aew (โอ้เอ๋ว) - IJsdessert met gelei van bananenmeel..."
+      }
+    },
+    "tags": [
+      "thais-eten",
+      "thailand",
+      "nagerecht",
+      "zuidelijk",
+      "makkelijk",
+      "budget",
+      "banaanmeelgelei",
+      "geschaafd ijs",
+      "siroop"
+    ],
+    "cooking": {
+      "preparation_time": "15 minuten",
+      "difficulty": "makkelijk",
+      "spice_level": "geen",
+      "serves": "2-4 personen"
+    },
+    "nutrition": {
+      "allergens": [],
+      "dietary": [
+        "vegetarisch"
+      ],
+      "price_range": "budget"
+    }
+  },
+  {
+    "id": 26,
+    "slug": "roti-sai-mai",
+    "name": {
+      "en": "Roti Sai Mai",
+      "nl": "Roti Sai Mai",
+      "thai": "โรตีสายไหม"
+    },
+    "category": "nagerecht",
+    "region": "centraal",
+    "spice_level": "geen",
+    "description": {
+      "en": "Thai cotton candy wrapped in thin roti from Ayutthaya",
+      "nl": "Thaise suikerspin gewikkeld in dunne roti uit Ayutthaya"
+    },
+    "ingredients": [
+      "bloem",
+      "suiker",
+      "voedselkleuring",
+      "water",
+      "zout"
+    ],
+    "allergens": [],
+    "dietary": [
+      "vegetarisch"
+    ],
+    "image": "/images/food/roti-sai-mai.webp",
+    "preparation_time": "30 minuten",
+    "difficulty": "moeilijk",
+    "price_range": "budget",
+    "seo": {
+      "metaTitle": {
+        "en": "Roti Sai Mai Recipe | Authentic Thai dessert",
+        "nl": "Roti Sai Mai Recept | Authentieke Thaise dessert"
+      },
+      "metaDescription": {
+        "en": "Learn about Roti Sai Mai (โรตีสายไหม) - Thai cotton candy wrapped in thin roti from Ayutthaya...",
+        "nl": "Leer over Roti Sai Mai (โรตีสายไหม) - Thaise suikerspin gewikkeld in dunne roti uit Ayutthaya..."
+      }
+    },
+    "tags": [
+      "thais-eten",
+      "thailand",
+      "nagerecht",
+      "centraal",
+      "moeilijk",
+      "budget",
+      "bloem",
+      "suiker",
+      "voedselkleuring"
+    ],
+    "cooking": {
+      "preparation_time": "30 minuten",
+      "difficulty": "moeilijk",
+      "spice_level": "geen",
+      "serves": "2-4 personen"
+    },
+    "nutrition": {
+      "allergens": [],
+      "dietary": [
+        "vegetarisch"
+      ],
+      "price_range": "budget"
+    }
+  },
+  {
+    "id": 38,
+    "slug": "bua-loy",
+    "name": {
+      "en": "Bua Loy",
+      "nl": "Bua Loy",
+      "thai": "บัวลอย"
+    },
+    "category": "nagerecht",
+    "region": "zuidelijk",
+    "spice_level": "geen",
+    "description": {
+      "en": "Rice flour balls in sweet coconut milk",
+      "nl": "Rijstmeelballetjes in zoete kokosmelk"
+    },
+    "ingredients": [
+      "rijstbloem",
+      "kokosmelk",
+      "palmsuiker",
+      "zout",
+      "pandan"
+    ],
+    "allergens": [],
+    "dietary": [
+      "vegetarisch"
+    ],
+    "image": "/images/food/bua-loy.webp",
+    "preparation_time": "30 minuten",
+    "difficulty": "makkelijk",
+    "price_range": "budget",
+    "seo": {
+      "metaTitle": {
+        "en": "Bua Loy Recipe | Authentic Thai dessert",
+        "nl": "Bua Loy Recept | Authentieke Thaise dessert"
+      },
+      "metaDescription": {
+        "en": "Learn about Bua Loy (บัวลอย) - Rice flour balls in sweet coconut milk...",
+        "nl": "Leer over Bua Loy (บัวลอย) - Rijstmeelballetjes in zoete kokosmelk..."
+      }
+    },
+    "tags": [
+      "thais-eten",
+      "thailand",
+      "nagerecht",
+      "zuidelijk",
+      "makkelijk",
+      "budget",
+      "rijstbloem",
+      "kokosmelk",
+      "palmsuiker"
+    ],
+    "cooking": {
+      "preparation_time": "30 minuten",
+      "difficulty": "makkelijk",
+      "spice_level": "geen",
+      "serves": "2-4 personen"
+    },
+    "nutrition": {
+      "allergens": [],
+      "dietary": [
+        "vegetarisch"
+      ],
+      "price_range": "budget"
+    }
+  },
+  {
+    "id": 46,
+    "slug": "lod-chong",
+    "name": {
+      "en": "Lod Chong",
+      "nl": "Lod Chong",
+      "thai": "ลอดช่อง"
+    },
+    "category": "nagerecht",
+    "region": "zuidelijk",
+    "spice_level": "geen",
+    "description": {
+      "en": "Pandan jelly noodles in coconut milk",
+      "nl": "Pandan gelei noedels in kokosmelk"
+    },
+    "ingredients": [
+      "rijstbloem",
+      "pandan sap",
+      "kokosmelk",
+      "palmsuiker",
+      "ijs"
+    ],
+    "allergens": [],
+    "dietary": [
+      "vegetarisch"
+    ],
+    "image": "/images/food/lod-chong.webp",
+    "preparation_time": "30 minuten",
+    "difficulty": "gemiddeld",
+    "price_range": "budget",
+    "seo": {
+      "metaTitle": {
+        "en": "Lod Chong Recipe | Authentic Thai dessert",
+        "nl": "Lod Chong Recept | Authentieke Thaise dessert"
+      },
+      "metaDescription": {
+        "en": "Learn about Lod Chong (ลอดช่อง) - Pandan jelly noodles in coconut milk...",
+        "nl": "Leer over Lod Chong (ลอดช่อง) - Pandan gelei noedels in kokosmelk..."
+      }
+    },
+    "tags": [
+      "thais-eten",
+      "thailand",
+      "nagerecht",
+      "zuidelijk",
+      "gemiddeld",
+      "budget",
+      "rijstbloem",
+      "pandan sap",
+      "kokosmelk"
+    ],
+    "cooking": {
+      "preparation_time": "30 minuten",
+      "difficulty": "gemiddeld",
+      "spice_level": "geen",
+      "serves": "2-4 personen"
+    },
+    "nutrition": {
+      "allergens": [],
+      "dietary": [
+        "vegetarisch"
+      ],
+      "price_range": "budget"
+    }
+  }
+]

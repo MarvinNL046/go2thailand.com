@@ -1,0 +1,50 @@
+{
+  "id": 11,
+  "slug": "mekong-whisky",
+  "name": {
+    "en": "Mekong Whisky",
+    "nl": "Mekong Whisky",
+    "thai": "แม่โขง"
+  },
+  "category": "alcohol",
+  "type": "puur",
+  "description": {
+    "en": "Traditional Thai rice whisky",
+    "nl": "Traditionele Thaise rijst whisky"
+  },
+  "ingredients": [
+    "rijst",
+    "suikerriet"
+  ],
+  "allergens": [],
+  "dietary": [],
+  "image": "/images/drinks/mekong-whisky.webp",
+  "temperature": "puur",
+  "alcohol_content": "35%",
+  "caffeine": "geen",
+  "price_range": "budget",
+  "region": "alle",
+  "occasions": [
+    "vieringen",
+    "sociaal"
+  ],
+  "seo": {
+    "metaTitle": {
+      "en": "Mekong Whisky Recipe | Authentic Thai alcohol",
+      "nl": "Mekong Whisky Recept | Authentieke Thaise alcohol"
+    },
+    "metaDescription": {
+      "en": "Learn about Mekong Whisky (แม่โขง) - Traditional Thai rice whisky",
+      "nl": "Leer over Mekong Whisky (แม่โขง) - Traditionele Thaise rijst whisky"
+    }
+  },
+  "tags": [
+    "thaise-dranken",
+    "thailand",
+    "alcohol",
+    "puur",
+    "puur",
+    "vieringen",
+    "sociaal"
+  ]
+}

@@ -1,0 +1,977 @@
+{
+  "id": 29,
+  "slug": "goong-pad-makham",
+  "name": {
+    "en": "Goong Pad Makham",
+    "nl": "Goong Pad Makham",
+    "thai": "กุ้งผัดมะขาม"
+  },
+  "category": "hoofdgerecht",
+  "region": "zuidelijk",
+  "spice_level": "mild",
+  "description": {
+    "en": "Prawns stir-fried in tangy tamarind sauce",
+    "nl": "Garnalen geroerbakt in pittige tamarindesaus"
+  },
+  "ingredients": [
+    "garnalen",
+    "tamarindepasta",
+    "palmsuiker",
+    "vissaus",
+    "sjalotten",
+    "gedroogde chili"
+  ],
+  "allergens": [
+    "zeevruchten"
+  ],
+  "dietary": [],
+  "image": "/images/food/goong-pad-makham.webp",
+  "preparation_time": "15 minuten",
+  "difficulty": "eenvoudig",
+  "price_range": "middenklasse",
+  "seo": {
+    "metaTitle": {
+      "en": "Goong Pad Makham Recipe | Authentic Thai main dish",
+      "nl": "Goong Pad Makham Recept | Authentieke Thaise main dish"
+    },
+    "metaDescription": {
+      "en": "Learn about Goong Pad Makham (กุ้งผัดมะขาม) - Prawns stir-fried in tangy tamarind sauce...",
+      "nl": "Leer over Goong Pad Makham (กุ้งผัดมะขาม) - Garnalen geroerbakt in pittige tamarindesaus..."
+    }
+  },
+  "tags": [
+    "thaise-keuken",
+    "Thailand",
+    "hoofdgerecht",
+    "zuidelijk",
+    "mild",
+    "eenvoudig",
+    "middenklasse",
+    "garnalen",
+    "tamarindepasta",
+    "palmsuiker"
+  ],
+  "cooking": {
+    "preparation_time": "15 minuten",
+    "difficulty": "eenvoudig",
+    "spice_level": "mild",
+    "serves": "2-4 personen"
+  },
+  "nutrition": {
+    "allergens": [
+      "zeevruchten"
+    ],
+    "dietary": [],
+    "price_range": "middenklasse"
+  },
+  "enhanced_description": "Goong Pad Makham is een geliefd stevig en bevredigend hoofdgerecht uit Zuid-Thailand met een subtiele warmte. Garnalen geroerbakt in pittige tamarindesaus. Dit eenvoudige recept duurt ongeveer 15 minuten om te bereiden en vertegenwoordigt de authentieke smaken van de Zuid-Thaise keuken met intense specerijen, zeevruchten en kokosgebaseerde curry's. De combinatie van garnalen, tamarindepasta en palmsuiker creëert een harmonieuze mengeling die dit gerecht tot een favoriet heeft gemaakt onder zowel locals als bezoekers. Perfect voor wie op zoek is naar betaalbare authentieke Thaise keuken.",
+  "detailed_ingredients": [
+    {
+      "name": "Prawns",
+      "purpose": "Essentieel voor de authentieke Goong Pad Makham-smaak",
+      "substitutes": [
+        "Verse garnalen",
+        "Gedroogde garnalen",
+        "garnalenpasta"
+      ]
+    },
+    {
+      "name": "Tamarind paste",
+      "purpose": "Essentieel voor de authentieke Goong Pad Makham-smaak",
+      "substitutes": [
+        "Verse tamarindepasta",
+        "Gedroogde tamarindepasta",
+        "tamarindepasta"
+      ]
+    },
+    {
+      "name": "Palm sugar",
+      "purpose": "Essentieel voor de authentieke Goong Pad Makham-smaak",
+      "substitutes": [
+        "Verse palmsuiker",
+        "Gedroogde palmsuiker",
+        "palmsuikerpasta"
+      ]
+    },
+    {
+      "name": "Fish sauce",
+      "purpose": "Essentieel voor de authentieke Goong Pad Makham-smaak",
+      "substitutes": [
+        "Verse vissaus",
+        "Gedroogde vissaus",
+        "vissauspasta"
+      ]
+    }
+  ],
+  "cooking_method": {
+    "technique": "Roerbakken of grillen",
+    "steps_overview": "Het bereiden van Goong Pad Makham vereist aandacht voor detail en juiste timing. De sleutel is om alle smaken in balans te brengen terwijl de textuur van elk ingrediënt behouden blijft. Traditionele methoden die van generatie op generatie zijn doorgegeven, zorgen voor een authentieke smaak.",
+    "cooking_tips": [
+      "Gebruik verse garnalen voor het beste resultaat",
+      "Pas het pittigheidsniveau aan naar je voorkeur",
+      "Kook niet te lang om de textuur te behouden",
+      "Proef en pas de kruiding aan voor het serveren"
+    ]
+  },
+  "cultural_significance": {
+    "origin_story": "Goong Pad Makham is al generaties lang een vast onderdeel van de Zuid-Thaise keuken en weerspiegelt de unieke culinaire tradities en lokale ingrediënten van de regio.",
+    "cultural_importance": "Dit gerecht vertegenwoordigt het hart van de Zuid-Thaise kookkunst en toont de balans en harmonie waarvoor de Thaise keuken wereldwijd beroemd is.",
+    "traditional_occasions": [
+      "Familiebijeenkomsten",
+      "Lokale festivals",
+      "Straatvoedselmarkten",
+      "Bijzondere vieringen"
+    ]
+  },
+  "variations": [
+    {
+      "name": "Goong Pad Makham Classic",
+      "description": "De traditionele versie zoals geserveerd in lokale huizen"
+    },
+    {
+      "name": "Goong Pad Makham Modern",
+      "description": "Hedendaagse twist met premium ingrediënten"
+    },
+    {
+      "name": "Vegetarian Goong Pad Makham",
+      "description": "Plantaardige versie met tofu of paddenstoelen"
+    }
+  ],
+  "serving_suggestions": {
+    "traditional_accompaniments": [
+      "Jasmijnrijst",
+      "Verse groenten",
+      "Thaise kruiden"
+    ],
+    "presentation": "Geserveerd op een bord in traditionele Thaise stijl",
+    "eating_etiquette": "Genoten met vork en lepel volgens Thais gebruik"
+  },
+  "nutritional_info": {
+    "calories_per_serving": "300-500 calorieën",
+    "health_benefits": [
+      "Rijk aan Thaise kruiden en specerijen",
+      "Bron van eiwitten en groenten",
+      "Gebalanceerde smaken en voedingsstoffen"
+    ],
+    "dietary_notes": []
+  },
+  "where_to_find": {
+    "best_restaurants": [
+      "Lokale Zuid-Thaise restaurants",
+      "Authentieke straatvoedselstalletjes",
+      "Traditionele markten",
+      "Familiegerunde eettentjes"
+    ],
+    "street_food_areas": [
+      "Nachtmarkten",
+      "Ochtendverse markten",
+      "Lokale food courts"
+    ],
+    "price_ranges": {
+      "street_vendor": "50-80 THB",
+      "market_stall": "60-100 THB",
+      "restaurant": "100-200 THB"
+    }
+  },
+  "translations": {
+    "nl": {
+      "enhanced_description": "Goong Pad Makham is een geliefd stevig en smaakvol hoofdgerecht uit Zuid-Thailand met een subtiele warmte. Garnalen geroerbakt in pittige tamarindesaus. Dit eenvoudige recept vergt ongeveer 15 minuten bereidingstijd en vertegenwoordigt de authentieke smaken van de Zuid-Thaise keuken, gekenmerkt door intense kruiden, zeevruchten en curry's op basis van kokos. De combinatie van garnalen, tamarindepasta en palmsuiker creëert een harmonieuze mix die dit gerecht tot een favoriet heeft gemaakt onder zowel locals als bezoekers. Perfect voor wie op zoek is naar betaalbare authentieke Thaise keuken.",
+      "detailed_ingredients": [
+        {
+          "name": "Garnalen",
+          "purpose": "Essentieel voor de authentieke Goong Pad Makham smaak",
+          "substitutes": [
+            "Verse garnalen",
+            "Gedroogde garnalen",
+            "Garnalenpasta"
+          ]
+        },
+        {
+          "name": "Tamarindepasta",
+          "purpose": "Essentieel voor de authentieke Goong Pad Makham smaak",
+          "substitutes": [
+            "Verse tamarindepasta",
+            "Gedroogde tamarinde",
+            "Tamarindeconcentraat"
+          ]
+        },
+        {
+          "name": "Palmsuiker",
+          "purpose": "Essentieel voor de authentieke Goong Pad Makham smaak",
+          "substitutes": [
+            "Verse palmsuiker",
+            "Kokossuiker",
+            "Bruine suiker"
+          ]
+        },
+        {
+          "name": "Vissaus",
+          "purpose": "Essentieel voor de authentieke Goong Pad Makham smaak",
+          "substitutes": [
+            "Verse vissaus",
+            "Sojasaus",
+            "Oestersaus"
+          ]
+        }
+      ],
+      "cooking_method": {
+        "technique": "Roerbakken",
+        "steps_overview": "Het bereiden van Goong Pad Makham vereist aandacht voor detail en goede timing. De sleutel is het balanceren van alle smaken terwijl de textuur van elk ingrediënt behouden blijft. Traditionele methoden die van generatie op generatie zijn doorgegeven, garanderen een authentieke smaak.",
+        "cooking_tips": [
+          "Gebruik verse garnalen voor het beste resultaat",
+          "Pas het pittigheidsgehalte aan naar je voorkeur",
+          "Kook niet te lang om de textuur te behouden",
+          "Proef en pas de kruiding aan voor het serveren"
+        ]
+      },
+      "cultural_significance": {
+        "origin_story": "Goong Pad Makham is al generaties lang een vast onderdeel van de Zuid-Thaise keuken en weerspiegelt de unieke culinaire tradities en lokale ingrediënten van de regio.",
+        "cultural_importance": "Dit gerecht vertegenwoordigt het hart van de Zuid-Thaise kookkunst en toont de balans en harmonie waarmee de Thaise keuken wereldwijd beroemd is.",
+        "traditional_occasions": [
+          "Familiebijeenkomsten",
+          "Lokale festivals",
+          "Straatvoedselmarkten",
+          "Bijzondere vieringen"
+        ]
+      },
+      "variations": [
+        {
+          "name": "Goong Pad Makham Klassiek",
+          "description": "De traditionele versie zoals geserveerd in lokale huishoudens"
+        },
+        {
+          "name": "Goong Pad Makham Modern",
+          "description": "Hedendaagse variant met premium ingrediënten"
+        },
+        {
+          "name": "Vegetarische Goong Pad Makham",
+          "description": "Plantaardige versie met tofu of paddenstoelen"
+        }
+      ],
+      "serving_suggestions": {
+        "traditional_accompaniments": [
+          "Jasmijnrijst",
+          "Verse groenten",
+          "Thaise kruiden"
+        ],
+        "presentation": "Geserveerd op een bord in traditionele Zuid-Thaise stijl",
+        "eating_etiquette": "Gegeten met vork en lepel volgens Thais gebruik"
+      },
+      "where_to_find": {
+        "best_restaurants": [
+          "Lokale Zuid-Thaise restaurants",
+          "Authentieke straatvoedselkramen",
+          "Traditionele markten",
+          "Familiebedrijfjes"
+        ],
+        "street_food_areas": [
+          "Nachtmarkten",
+          "Ochtendverse markten",
+          "Lokale food courts"
+        ]
+      },
+      "translated_at": "2026-03-10T00:00:00.000Z"
+    },
+    "fr": {
+      "enhanced_description": "Le Goong Pad Makham est un plat principal copieux et savoureux apprécié du sud de la Thaïlande, avec une chaleur subtile. Des crevettes sautées dans une sauce au tamarin acidulée. Cette recette facile nécessite environ 15 minutes de préparation et représente les saveurs authentiques de la cuisine du sud de la Thaïlande, caractérisée par des épices intenses, des fruits de mer et des currys à base de coco. La combinaison de crevettes, de pâte de tamarin et de sucre de palme crée un mélange harmonieux qui a fait de ce plat un favori tant auprès des locaux que des visiteurs. Parfait pour ceux qui recherchent une cuisine thaïlandaise authentique à prix raisonnable.",
+      "detailed_ingredients": [
+        {
+          "name": "Crevettes",
+          "purpose": "Essentiel pour la saveur authentique du Goong Pad Makham",
+          "substitutes": [
+            "Crevettes fraîches",
+            "Crevettes séchées",
+            "Pâte de crevettes"
+          ]
+        },
+        {
+          "name": "Pâte de tamarin",
+          "purpose": "Essentiel pour la saveur authentique du Goong Pad Makham",
+          "substitutes": [
+            "Pâte de tamarin fraîche",
+            "Tamarin séché",
+            "Concentré de tamarin"
+          ]
+        },
+        {
+          "name": "Sucre de palme",
+          "purpose": "Essentiel pour la saveur authentique du Goong Pad Makham",
+          "substitutes": [
+            "Sucre de palme frais",
+            "Sucre de coco",
+            "Sucre brun"
+          ]
+        },
+        {
+          "name": "Sauce de poisson",
+          "purpose": "Essentiel pour la saveur authentique du Goong Pad Makham",
+          "substitutes": [
+            "Sauce de poisson fraîche",
+            "Sauce soja",
+            "Sauce d'huître"
+          ]
+        }
+      ],
+      "cooking_method": {
+        "technique": "Sauté au wok",
+        "steps_overview": "La préparation du Goong Pad Makham nécessite de l'attention aux détails et un bon timing. La clé est d'équilibrer toutes les saveurs tout en préservant la texture de chaque ingrédient. Les méthodes traditionnelles transmises de génération en génération garantissent un goût authentique.",
+        "cooking_tips": [
+          "Utilisez des crevettes fraîches pour un meilleur résultat",
+          "Ajustez le niveau de piquant selon vos préférences",
+          "Ne faites pas trop cuire pour préserver la texture",
+          "Goûtez et ajustez l'assaisonnement avant de servir"
+        ]
+      },
+      "cultural_significance": {
+        "origin_story": "Le Goong Pad Makham est un pilier de la cuisine du sud de la Thaïlande depuis des générations, reflétant les traditions culinaires uniques et les ingrédients locaux de la région.",
+        "cultural_importance": "Ce plat représente le cœur de la cuisine du sud de la Thaïlande, illustrant l'équilibre et l'harmonie qui ont rendu la cuisine thaïlandaise célèbre dans le monde entier.",
+        "traditional_occasions": [
+          "Réunions de famille",
+          "Festivals locaux",
+          "Marchés de cuisine de rue",
+          "Célébrations spéciales"
+        ]
+      },
+      "variations": [
+        {
+          "name": "Goong Pad Makham Classique",
+          "description": "De traditionele versie zoals geserveerd in lokale huishoudens"
+        },
+        {
+          "name": "Goong Pad Makham Moderne",
+          "description": "Moderne versie met premium ingrediënten"
+        },
+        {
+          "name": "Goong Pad Makham Végétarien",
+          "description": "Vegetarische versie met tofu of paddenstoelen"
+        }
+      ],
+      "serving_suggestions": {
+        "traditional_accompaniments": [
+          "Jasmijnrijst",
+          "Verse groenten",
+          "Thaise kruiden"
+        ],
+        "presentation": "Geserveerd op een bord in de traditionele stijl van Zuid-Thailand",
+        "eating_etiquette": "Gegeten met vork en lepel volgens de Thaise gewoonte"
+      },
+      "where_to_find": {
+        "best_restaurants": [
+          "Lokale restaurants in Zuid-Thailand",
+          "Authentieke straatkraampjes",
+          "Traditionele markten",
+          "Familierestaurants"
+        ],
+        "street_food_areas": [
+          "Nachtmarkten",
+          "Verse ochtendmarkten",
+          "Lokale food courts"
+        ]
+      },
+      "translated_at": "2026-03-10T00:00:00.000Z"
+    },
+    "de": {
+      "enhanced_description": "Goong Pad Makham is een geliefd vullend en smaakvol hoofdgerecht uit Zuid-Thailand met een subtiele warmte. Garnalen gebakken in pittige tamarindesaus. Dit eenvoudige recept vereist ongeveer 15 minuten bereidingstijd en vertegenwoordigt de authentieke smaken van de Zuid-Thaise keuken, die zich kenmerkt door intense kruiden, zeevruchten en kokosgebaseerde curries. De combinatie van garnalen, tamarindepasta en palmsuiker creëert een harmonieuze mengeling die dit gerecht tot een favoriet heeft gemaakt bij zowel locals als bezoekers. Perfect voor wie betaalbare authentieke Thaise keuken zoekt.",
+      "detailed_ingredients": [
+        {
+          "name": "Garnelen",
+          "purpose": "Onmisbaar voor de authentieke Goong Pad Makham-smaak",
+          "substitutes": [
+            "Verse garnalen",
+            "Gedroogde garnalen",
+            "Garnalenpasta"
+          ]
+        },
+        {
+          "name": "Tamarindenpaste",
+          "purpose": "Onmisbaar voor de authentieke Goong Pad Makham-smaak",
+          "substitutes": [
+            "Verse tamarindepasta",
+            "Gedroogde tamarinde",
+            "Tamarindeconcentraat"
+          ]
+        },
+        {
+          "name": "Palmzucker",
+          "purpose": "Onmisbaar voor de authentieke Goong Pad Makham-smaak",
+          "substitutes": [
+            "Verse palmsuiker",
+            "Kokossuiker",
+            "Bruine suiker"
+          ]
+        },
+        {
+          "name": "Fischsauce",
+          "purpose": "Onmisbaar voor de authentieke Goong Pad Makham-smaak",
+          "substitutes": [
+            "Verse vissaus",
+            "Sojasaus",
+            "Oestersaus"
+          ]
+        }
+      ],
+      "cooking_method": {
+        "technique": "Roerbakken in de wok",
+        "steps_overview": "De bereiding van Goong Pad Makham vereist liefde voor detail en goed timing. De sleutel ligt in het balanceren van alle smaken terwijl de textuur van elke ingrediënt behouden blijft. Traditionele methoden, doorgegeven over generaties, garanderen authentieke smaak.",
+        "cooking_tips": [
+          "Gebruik verse garnalen voor het beste resultaat",
+          "Pas de pittigheid aan naar smaak",
+          "Niet te lang koken om de textuur te behouden",
+          "Proef en kruid af voor het serveren"
+        ]
+      },
+      "cultural_significance": {
+        "origin_story": "Goong Pad Makham is al generaties lang een vast onderdeel van de Zuid-Thaise keuken en weerspiegelt de unieke culinaire tradities en lokale ingrediënten van de regio.",
+        "cultural_importance": "Dit gerecht vertegenwoordigt het hart van de Zuid-Thaise kookkunst en toont de balans en harmonie waarvoor de Thaise keuken wereldwijd beroemd is.",
+        "traditional_occasions": [
+          "Familiebijeenkomsten",
+          "Lokale festivals",
+          "Straatkeukens-markten",
+          "Speciale vieringen"
+        ]
+      },
+      "variations": [
+        {
+          "name": "Goong Pad Makham Klassisch",
+          "description": "De traditionele versie zoals geserveerd in lokale huishoudens"
+        },
+        {
+          "name": "Goong Pad Makham Modern",
+          "description": "Contemporaine variant met premium ingrediënten"
+        },
+        {
+          "name": "Vegetarisches Goong Pad Makham",
+          "description": "Plantaardige versie met tofu of paddenstoelen"
+        }
+      ],
+      "serving_suggestions": {
+        "traditional_accompaniments": [
+          "Jasmijnrijst",
+          "Verse groenten",
+          "Thaise kruiden"
+        ],
+        "presentation": "Geserveerd op een bord in de traditionele Zuid-Thaise stijl",
+        "eating_etiquette": "Gegeten met vork en lepel volgens Thaise traditie"
+      },
+      "where_to_find": {
+        "best_restaurants": [
+          "Lokale Zuid-Thaise restaurants",
+          "Authentieke straatkraampjes",
+          "Traditionele markten",
+          "Familiegerunde restaurants"
+        ],
+        "street_food_areas": [
+          "Nachtmarkten",
+          "Ochtendverse markten",
+          "Lokale food courts"
+        ]
+      },
+      "translated_at": "2026-03-10T00:00:00.000Z"
+    },
+    "zh": {
+      "enhanced_description": "Goong Pad Makham is een geliefd vullend hoofdgerecht uit Zuid-Thailand met een subtiele warmte. Garnalen gebakken in pittige tamarindesaus. Dit eenvoudige recept vereist ongeveer 15 minuten bereidingstijd en vertegenwoordigt de authentieke smaken van de Zuid-Thaise keuken, die zich kenmerkt door intense kruiden, zeevruchten en kokosgebaseerde curries. De combinatie van garnalen, tamarindepasta en palmsuiker creëert een harmonieuze mengeling die dit gerecht tot een favoriet heeft gemaakt bij zowel locals als bezoekers. Perfect voor wie betaalbare authentieke Thaise keuken zoekt.",
+      "detailed_ingredients": [
+        {
+          "name": "鲜虾",
+          "purpose": "Sleutelingrediënt voor de authentieke Goong Pad Makham-smaak",
+          "substitutes": [
+            "Verse garnalen",
+            "Gedroogde garnalen",
+            "Garnalenpasta"
+          ]
+        },
+        {
+          "name": "罗望子酱",
+          "purpose": "Sleutelingrediënt voor de authentieke Goong Pad Makham-smaak",
+          "substitutes": [
+            "Verse tamarindepasta",
+            "Gedroogde tamarinde",
+            "Tamarindeconcentraat"
+          ]
+        },
+        {
+          "name": "棕榈糖",
+          "purpose": "Sleutelingrediënt voor de authentieke Goong Pad Makham-smaak",
+          "substitutes": [
+            "Verse palmsuiker",
+            "Kokossuiker",
+            "Bruine suiker"
+          ]
+        },
+        {
+          "name": "鱼露",
+          "purpose": "Sleutelingrediënt voor de authentieke Goong Pad Makham-smaak",
+          "substitutes": [
+            "Verse vissaus",
+            "Sojasaus",
+            "Oestersaus"
+          ]
+        }
+      ],
+      "cooking_method": {
+        "technique": "Roerbakken",
+        "steps_overview": "De bereiding van Goong Pad Makham vereist aandacht voor details en goed timing. De sleutel ligt in het balanceren van alle smaken terwijl de textuur van elke ingrediënt behouden blijft. Traditionele methoden, doorgegeven over generaties, garanderen authentieke smaak.",
+        "cooking_tips": [
+          "Gebruik verse garnalen voor het beste resultaat",
+          "Pas de pittigheid aan naar persoonlijke smaak",
+          "Vermijd overkoken om de textuur te behouden",
+          "Proef en pas de kruiden aan voor het serveren"
+        ]
+      },
+      "cultural_significance": {
+        "origin_story": "Goong Pad Makham is al generaties lang een klassieker in de Zuid-Thaise keuken en belichaamt de unieke culinaire tradities en lokale ingrediënten van de regio.",
+        "cultural_importance": "Dit gerecht vertegenwoordigt de essentie van de Zuid-Thaise kookkunst en toont de balans en harmonie waarvoor de Thaise keuken wereldwijd beroemd is.",
+        "traditional_occasions": [
+          "Familiebijeenkomsten",
+          "Lokale feesten",
+          "Straatvoedselmarkten",
+          "Speciale vieringen"
+        ]
+      },
+      "variations": [
+        {
+          "name": "经典Goong Pad Makham",
+          "description": "De klassieke versie van traditioneel koken in lokale huishoudens"
+        },
+        {
+          "name": "现代Goong Pad Makham",
+          "description": "Moderne innovatieve versie met premium ingrediënten"
+        },
+        {
+          "name": "素食Goong Pad Makham",
+          "description": "Plantaardige versie met tofu of paddenstoelen"
+        }
+      ],
+      "serving_suggestions": {
+        "traditional_accompaniments": [
+          "Jasmijnrijst",
+          "Verse groenten",
+          "Thaise kruiden"
+        ],
+        "presentation": "Geserveerd op een bord in de traditionele Zuid-Thaise stijl",
+        "eating_etiquette": "Gegeten met vork en lepel volgens Thaise gewoonte"
+      },
+      "where_to_find": {
+        "best_restaurants": [
+          "Lokale Zuid-Thaise restaurants",
+          "Authentieke straatsnackkraampjes",
+          "Traditionele markten",
+          "Familiegerunde eetgelegenheden"
+        ],
+        "street_food_areas": [
+          "Nachtmarkten",
+          "Ochtendmarkten",
+          "Lokale voedselpleinen"
+        ]
+      },
+      "translated_at": "2026-03-11T00:00:00.000Z"
+    },
+    "ru": {
+      "enhanced_description": "Goong Pad Makham is een geliefd vullend en smaakvol hoofdgerecht uit Zuid-Thailand met een zachte warmte. Garnalen gebakken in pittige tamarindesaus. Dit eenvoudige recept vereist ongeveer 15 minuten bereidingstijd en vertegenwoordigt de authentieke smaken van de Zuid-Thaise keuken, die zich kenmerkt door intense kruiden, zeevruchten en kokosgebaseerde curries. De combinatie van garnalen, tamarindepasta en palmsuiker creëert een harmonieuze mengeling die dit gerecht tot een favoriet heeft gemaakt bij zowel locals als gasten. Ideaal voor wie authentieke Thaise keuken zoekt voor een redelijke prijs.",
+      "detailed_ingredients": [
+        {
+          "name": "Креветки",
+          "purpose": "Hoofdingrediënt voor de authentieke Goong Pad Makham-smaak",
+          "substitutes": [
+            "Verse garnalen",
+            "Gedroogde garnalen",
+            "Garnalenpasta"
+          ]
+        },
+        {
+          "name": "Тамариндовая паста",
+          "purpose": "Hoofdingrediënt voor de authentieke Goong Pad Makham-smaak",
+          "substitutes": [
+            "Verse tamarindepasta",
+            "Gedroogde tamarindepasta",
+            "Tamarindeconcentraat"
+          ]
+        },
+        {
+          "name": "Пальмовый сахар",
+          "purpose": "Hoofdingrediënt voor de authentieke Goong Pad Makham-smaak",
+          "substitutes": [
+            "Verse palmsuiker",
+            "Gedroogde palmsuiker",
+            "Palmsuikerpasta"
+          ]
+        },
+        {
+          "name": "Рыбный соус",
+          "purpose": "Hoofdingrediënt voor de authentieke Goong Pad Makham-smaak",
+          "substitutes": [
+            "Verse vissaus",
+            "Gerijpte vissaus",
+            "Sojasaus (vervanging)"
+          ]
+        }
+      ],
+      "cooking_method": {
+        "technique": "Bakken in de wok of op de grill",
+        "steps_overview": "De bereiding van Goong Pad Makham vereist aandacht voor details en correcte timing. De sleutel ligt in het balanceren van alle smaken terwijl de textuur van elke ingrediënt behouden blijft. Traditionele methoden, doorgegeven over generaties, garanderen authentieke smaak.",
+        "cooking_tips": [
+          "Gebruik verse garnalen voor het beste resultaat",
+          "Pas de pittigheid aan naar smaak",
+          "Niet te lang koken om de textuur te behouden",
+          "Proef en corrigeer de kruiden voor het serveren"
+        ]
+      },
+      "cultural_significance": {
+        "origin_story": "Goong Pad Makham is al vele generaties de basis van de Zuid-Thaise keuken en weerspiegelt de unieke culinaire tradities van de regio en lokale ingrediënten.",
+        "cultural_importance": "Dit gerecht belichaamt het hart van de Zuid-Thaise culinaire kunst en toont de balans en harmonie waarvoor de Thaise keuken wereldwijd beroemd is.",
+        "traditional_occasions": [
+          "Familiediners",
+          "Lokale festivals",
+          "Straatvoedselmarkten",
+          "Speciale gelegenheden"
+        ]
+      },
+      "variations": [
+        {
+          "name": "Goong Pad Makham классический",
+          "description": "De traditionele versie zoals geserveerd in lokale huizen"
+        },
+        {
+          "name": "Goong Pad Makham современный",
+          "description": "Moderne interpretatie met premium ingrediënten"
+        },
+        {
+          "name": "Вегетарианский Goong Pad Makham",
+          "description": "Plantaardige versie met tofu of paddenstoelen"
+        }
+      ],
+      "serving_suggestions": {
+        "traditional_accompaniments": [
+          "Jasmijnrijst",
+          "Verse groenten",
+          "Thaise kruiden"
+        ],
+        "presentation": "Geserveerd op een bord in de traditionele Thaise stijl",
+        "eating_etiquette": "Gegeten met vork en lepel volgens Thaise gewoonte"
+      },
+      "where_to_find": {
+        "best_restaurants": [
+          "Lokale Zuid-Thaise restaurants",
+          "Authentieke straatkraampjes",
+          "Traditionele markten",
+          "Familie-eetgelegenheden"
+        ],
+        "street_food_areas": [
+          "Nachtmarkten",
+          "Ochtendverse markten",
+          "Lokale food courts"
+        ]
+      },
+      "translated_at": "2026-03-11T00:00:00.000Z"
+    },
+    "ko": {
+      "enhanced_description": "Goong Pad Makham is een populair hoofdgerecht uit Zuid-Thailand, een smaakvol zeevruchtengerecht met stevige garnalen gebakken in zoetzure tamarindesaus. Dit eenvoudige recept is in ongeveer 15 minuten klaar en vangt de authentieke smaken van de Zuid-Thaise keuken, met intense kruiden, zeevruchten en kokoscurries. De combinatie van garnalen, tamarindepasta en palmsuiker creëert een perfect gebalanceerde saus die zuur, zoet en zout is, met een subtiele pittigheid van gedroogde chili. Geniet van authentieke Thaise zeevruchtenkeuken voor een redelijke prijs.",
+      "detailed_ingredients": [
+        {
+          "name": "새우 (대하)",
+          "purpose": "Dit is het hoofdingrediënt; gebruik verse grote garnalen om de stevige textuur te behouden",
+          "substitutes": [
+            "Grote garnalen",
+            "중하",
+            "냉동 새우 (해동 후 사용)"
+          ]
+        },
+        {
+          "name": "타마린드 페이스트",
+          "purpose": "새콤한 맛의 핵심으로, 소스의 베이스가 됩니다",
+          "substitutes": [
+            "타마린드 농축액",
+            "생 타마린드",
+            "레몬즙 + 설탕 (대체용)"
+          ]
+        },
+        {
+          "name": "야자설탕",
+          "purpose": "타마린드의 신맛과 균형을 맞추는 천연 감미료",
+          "substitutes": [
+            "코코넛 설탕",
+            "흑설탕",
+            "황설탕"
+          ]
+        },
+        {
+          "name": "액젓 (남쁠라)",
+          "purpose": "감칠맛과 짭짤함을 더하는 태국 요리의 필수 조미료",
+          "substitutes": [
+            "간장",
+            "굴소스",
+            "멸치 액젓"
+          ]
+        }
+      ],
+      "cooking_method": {
+        "technique": "웍 볶음 (고온 단시간 조리)",
+        "steps_overview": "꿍팟마캄을 만들려면 먼저 타마린드 페이스트, 야자설탕, 액젓으로 소스를 만듭니다. 팬에 기름을 두르고 마늘과 샬롯을 볶은 후 새우를 넣어 색이 변할 때까지 볶습니다. 준비한 소스를 넣고 새우에 고루 코팅되도록 빠르게 볶아 완성합니다. 건고추를 함께 볶으면 은은한 매콤함이 더해집니다.",
+        "cooking_tips": [
+          "새우는 과하게 익히면 질겨지므로 색이 변하면 바로 소스를 넣으세요",
+          "타마린드와 야자설탕의 비율로 새콤달콤한 균형을 조절하세요",
+          "강한 불에서 빠르게 볶아야 새우의 식감이 살아납니다",
+          "접시에 담기 직전에 프라이드 샬롯을 올리면 바삭함이 유지됩니다"
+        ]
+      },
+      "cultural_significance": {
+        "origin_story": "꿍팟마캄은 태국 남부 해안 지역에서 유래한 요리로, 풍부한 해산물과 타마린드를 활용한 남부 태국의 새콤한 맛 문화를 반영합니다. 태국 전역의 레스토랑에서 인기 있는 메뉴가 되었습니다.",
+        "cultural_importance": "이 요리는 태국 남부 해산물 요리의 정수를 보여주며, 새콤-달콤-짭짤의 균형이라는 태국 요리의 핵심 철학을 잘 나타냅니다. 가족 모임이나 특별한 자리에서도 자주 등장합니다.",
+        "traditional_occasions": [
+          "가족 모임",
+          "특별한 저녁 식사",
+          "해산물 레스토랑",
+          "축하 자리"
+        ]
+      },
+      "variations": [
+        {
+          "name": "꿍팟마캄 전통식",
+          "description": "대하를 통째로 사용한 가장 전통적인 버전입니다."
+        },
+        {
+          "name": "꿍팟마캄 프리미엄",
+          "description": "킹프라운이나 로브스터를 사용한 고급 버전입니다."
+        },
+        {
+          "name": "채식 팟마캄",
+          "description": "두부와 버섯을 사용한 채식 버전입니다."
+        }
+      ],
+      "serving_suggestions": {
+        "traditional_accompaniments": [
+          "재스민 쌀밥",
+          "신선한 채소",
+          "프라이드 샬롯"
+        ],
+        "presentation": "접시에 담아 전통 태국 스타일로 제공합니다",
+        "eating_etiquette": "태국 관습에 따라 포크와 숟가락으로 밥과 함께 먹습니다"
+      },
+      "where_to_find": {
+        "best_restaurants": [
+          "현지 남부 태국 레스토랑",
+          "해산물 전문 레스토랑",
+          "전통 시장",
+          "가족 운영 식당"
+        ],
+        "street_food_areas": [
+          "야시장",
+          "아침 시장",
+          "현지 푸드코트"
+        ],
+        "price_ranges": {
+          "street_vendor": "50-80 THB",
+          "market_stall": "60-100 THB",
+          "restaurant": "100-200 THB"
+        }
+      },
+      "translated_at": "2026-03-14T00:00:00.000Z"
+    },
+    "th": {
+      "enhanced_description": "กุ้งผัดมะขามเป็นอาหารไทยที่ได้รับความนิยมทั้งในร้านอาหารและที่บ้าน กุ้งตัวโตผัดกับซอสมะขามเปรี้ยวหวาน รสชาติกลมกล่อม เป็นเมนูที่แสดงถึงความสมดุลของรสชาติอาหารไทยอย่างลงตัว",
+      "detailed_ingredients": [
+        {
+          "name": "Prawns",
+          "purpose": "สำคัญสำหรับรสชาติGoong Pad Makhamแท้",
+          "substitutes": [
+            "Verse garnalen",
+            "Gedroogde garnalen",
+            "Garnalenpasta"
+          ]
+        },
+        {
+          "name": "Tamarind paste",
+          "purpose": "สำคัญสำหรับรสชาติGoong Pad Makhamแท้",
+          "substitutes": [
+            "Verse tamarindepasta",
+            "Gedroogde tamarindepasta",
+            "Tamarindepasta"
+          ]
+        },
+        {
+          "name": "Palm sugar",
+          "purpose": "สำคัญสำหรับรสชาติGoong Pad Makhamแท้",
+          "substitutes": [
+            "Verse palmsuiker",
+            "Gedroogde palmsuiker",
+            "Palmsuikerpasta"
+          ]
+        },
+        {
+          "name": "Fish sauce",
+          "purpose": "สำคัญสำหรับรสชาติGoong Pad Makhamแท้",
+          "substitutes": [
+            "Verse vissaus",
+            "Gedroogde vissaus",
+            "Vissauspasta"
+          ]
+        }
+      ],
+      "cooking_method": {
+        "technique": "การผัดหรือย่าง",
+        "steps_overview": "การเตรียมGoong Pad Makhamต้องใส่ใจรายละเอียดและจังหวะเวลาที่เหมาะสม สิ่งสำคัญคือการสมดุลรสชาติทั้งหมดในขณะที่รักษาเนื้อสัมผัสของเครื่องปรุงแต่ละอย่าง วิธีดั้งเดิมที่สืบทอดมาหลายชั่วอายุคนรับประกันรสชาติแท้",
+        "cooking_tips": [
+          "ใช้prawnsสดเพื่อผลลัพธ์ที่ดีที่สุด",
+          "ปรับระดับความเผ็ดตามชอบ",
+          "อย่าปรุงนานเกินไปเพื่อรักษาเนื้อสัมผัส",
+          "ชิมและปรุงรสก่อนเสิร์ฟ"
+        ]
+      },
+      "cultural_significance": {
+        "origin_story": "อาหารจานนี้เป็นส่วนหนึ่งของวัฒนธรรมอาหารภาคใต้มาหลายชั่วอายุคน สะท้อนประเพณีการทำอาหารที่เป็นเอกลักษณ์และวัตถุดิบท้องถิ่นของภูมิภาค",
+        "cultural_importance": "อาหารจานนี้เป็นหัวใจของการทำอาหารภาคใต้ แสดงให้เห็นถึงความสมดุลและความกลมกล่อมที่อาหารไทยมีชื่อเสียงไปทั่วโลก",
+        "traditional_occasions": [
+          "งานรวมญาติ",
+          "เทศกาลท้องถิ่น",
+          "ตลาดอาหารริมทาง",
+          "งานฉลองพิเศษ"
+        ]
+      },
+      "variations": [
+        {
+          "name": "Goong Pad Makham Classic",
+          "description": "เวอร์ชันดั้งเดิมที่เสิร์ฟในบ้านท้องถิ่น"
+        },
+        {
+          "name": "Goong Pad Makham Modern",
+          "description": "เวอร์ชันร่วมสมัยกับวัตถุดิบพรีเมียม"
+        },
+        {
+          "name": "Vegetarian Goong Pad Makham",
+          "description": "เวอร์ชันมังสวิรัติใช้เต้าหู้หรือเห็ด"
+        }
+      ],
+      "serving_suggestions": {
+        "traditional_accompaniments": [
+          "ข้าวหอมมะลิ",
+          "ผักสด",
+          "สมุนไพรไทย"
+        ],
+        "presentation": "เสิร์ฟในจานแบบไทยดั้งเดิม",
+        "eating_etiquette": "ทานด้วยช้อนส้อมตามธรรมเนียมไทย"
+      },
+      "where_to_find": {
+        "best_restaurants": [
+          "ร้านอาหารใต้ท้องถิ่น",
+          "ร้านอาหารริมทางแท้",
+          "ตลาดดั้งเดิม",
+          "ร้านอาหารครอบครัว"
+        ],
+        "street_food_areas": [
+          "ตลาดนัดกลางคืน",
+          "ตลาดเช้า",
+          "ศูนย์อาหารท้องถิ่น"
+        ],
+        "price_ranges": {
+          "street_vendor": "50-80 THB",
+          "market_stall": "60-100 THB",
+          "restaurant": "100-200 THB"
+        }
+      },
+      "translated_at": "2026-03-14T00:00:00.000Z"
+    },
+    "ja": {
+      "enhanced_description": "Goong Pad Makhamは、南部タイの伝統的でボリューム感のある主菜として長く愛されており、ほのかな温かみを持っています。タマリンドの酸味ソースでエビを炒める料理です。この簡単なレシピは準備時間およそ15分で、南部タイ料理の本格的な風味を味わえる一品です。香り高いスパイスと海産物、ココナツをベースにしたカレーの特徴を併せ持ちます。エビ、タマリンドペースト、パームシュガーの組み合わせは調和のとれた風味を生み出し、地元の人々と観光客の双方にこの料理を愛される定番にしています。手頃な価格で本格的タイ料理を楽しみたい人に最適です。",
+      "detailed_ingredients": [
+        {
+          "name": "エビ",
+          "purpose": "本格的なGoong Pad Makhamの風味を引き出すために不可欠",
+          "substitutes": [
+            "新鮮なエビ",
+            "乾燥エビ",
+            "エビペースト"
+          ]
+        },
+        {
+          "name": "タマリンドペースト",
+          "purpose": "本格的なGoong Pad Makhamの風味を引き出すために不可欠",
+          "substitutes": [
+            "新鮮なタマリンドペースト",
+            "乾燥タマリンドペースト",
+            "タマリンドペースト"
+          ]
+        },
+        {
+          "name": "パームシュガー",
+          "purpose": "本格的なGoong Pad Makhamの風味を引き出すために不可欠",
+          "substitutes": [
+            "新鮮なパームシュガー",
+            "乾燥パームシュガー",
+            "パームシュガーペースト"
+          ]
+        },
+        {
+          "name": "ナンプラー",
+          "purpose": "本格的なGoong Pad Makhamの風味を引き出すために不可欠",
+          "substitutes": [
+            "新鮮なナンプラー",
+            "乾燥ナンプラー",
+            "ナンプラーペースト"
+          ]
+        }
+      ],
+      "cooking_method": {
+        "technique": "炒め物・焼き物",
+        "steps_overview": "Goong Pad Makhamの準備には、細部とタイミングに注意することが鍵です。全ての風味をバランス良く引き出しつつ、素材それぞれの食感を保つことが重要です。世代を超えて伝わる伝統的な手法が、本格的な味を確実にします。",
+        "cooking_tips": [
+          "最良の結果を得るには新鮮なエビを使用する",
+          "辛さはお好みに合わせて調整",
+          "食感を保つために長く火を通しすぎない",
+          "提供前に味を確かめ、調味を調整"
+        ]
+      },
+      "cultural_significance": {
+        "origin_story": "Goong Pad Makhamは、何世代にもわたり南部タイ料理の主力であり、地域独自の料理伝統と地元の食材を反映しています。",
+        "cultural_importance": "この料理は、世界的に有名なタイ料理の調和とバランスを体現する、南部タイ料理の中心を象徴しています。",
+        "traditional_occasions": [
+          "家族の集まり",
+          "地元の祭り",
+          "屋台市場",
+          "特別なお祝い"
+        ]
+      },
+      "variations": [
+        {
+          "name": "Goong Pad Makham Classic",
+          "description": "地元の家庭で提供される伝統的なスタイル"
+        },
+        {
+          "name": "Goong Pad Makham Modern",
+          "description": "高品質な食材を使った現代的なアレンジ"
+        },
+        {
+          "name": "Vegetarian Goong Pad Makham",
+          "description": "豆腐やきのこを使った植物性バージョン"
+        }
+      ],
+      "serving_suggestions": {
+        "traditional_accompaniments": [
+          "ジャスミンライス",
+          "生野菜",
+          "タイハーブ"
+        ],
+        "presentation": "タイの伝統的な盛り付けで皿に盛りつけ",
+        "eating_etiquette": "タイの習慣に従いフォークとスプーンで楽しむ"
+      },
+      "where_to_find": {
+        "best_restaurants": [
+          "Lokale zuidelijke Thaise restaurants",
+          "Authentieke straatreceptiestalletjes",
+          "Traditionele markten",
+          "Familiegerunde eetgelegenheden"
+        ],
+        "street_food_areas": [
+          "Nachtmarkten",
+          "Ochtendverse markten",
+          "Lokale foodcourts"
+        ],
+        "price_ranges": {
+          "street_vendor": "50-80 THB",
+          "market_stall": "60-100 THB",
+          "restaurant": "100-200 THB"
+        }
+      },
+      "translated_at": "2026-03-14T00:00:00.000Z"
+    }
+  }
+}

@@ -1,0 +1,53 @@
+{
+  "id": 5,
+  "slug": "nam-krajiab",
+  "name": {
+    "en": "Roselle Juice",
+    "nl": "Hibiscus Sap",
+    "thai": "น้ำกระเจี๊ยบ"
+  },
+  "category": "kruiden",
+  "type": "beide",
+  "description": {
+    "en": "Sweet and tart hibiscus flower tea",
+    "nl": "Zoete en zure hibiscus bloementhee"
+  },
+  "ingredients": [
+    "gedroogde rosellebloemen",
+    "suiker",
+    "water"
+  ],
+  "allergens": [],
+  "dietary": [
+    "vegan"
+  ],
+  "image": "/images/drinks/nam-krajiab.webp",
+  "temperature": "beide",
+  "alcohol_content": "geen",
+  "caffeine": "geen",
+  "price_range": "budget",
+  "region": "alle",
+  "occasions": [
+    "gezondheidsdrank",
+    "verfrissing"
+  ],
+  "seo": {
+    "metaTitle": {
+      "en": "Roselle Juice Recipe | Authentic Thai herbal",
+      "nl": "Hibiscus Sap Recept | Authentieke Thaise herbal"
+    },
+    "metaDescription": {
+      "en": "Learn about Roselle Juice (น้ำกระเจี๊ยบ) - Sweet and tart hibiscus flower tea",
+      "nl": "Leer over Hibiscus Sap (น้ำกระเจี๊ยบ) - Zoete en zure hibiscus bloementhee"
+    }
+  },
+  "tags": [
+    "thaise-dranken",
+    "Thailand",
+    "kruiden",
+    "beide",
+    "beide",
+    "gezondheidsdrank",
+    "verfrissing"
+  ]
+}

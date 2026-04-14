@@ -1,0 +1,979 @@
+{
+  "id": 42,
+  "slug": "nam-prik-noom",
+  "name": {
+    "en": "Nam Prik Noom",
+    "nl": "Nam Prik Noom",
+    "thai": "น้ำพริกหนุ่ม"
+  },
+  "category": "hoofdgerecht",
+  "region": "noordelijk",
+  "spice_level": "medium",
+  "description": {
+    "en": "Northern green chili dip with grilled vegetables",
+    "nl": "Noordelijke groene chili dip met gegrilde groenten"
+  },
+  "ingredients": [
+    "groene chili",
+    "knoflook",
+    "sjalotten",
+    "tomaten",
+    "koriander"
+  ],
+  "allergens": [],
+  "dietary": [
+    "vegetarisch"
+  ],
+  "image": "/images/food/nam-prik-noom.webp",
+  "preparation_time": "25 minuten",
+  "difficulty": "eenvoudig",
+  "price_range": "budget",
+  "seo": {
+    "metaTitle": {
+      "en": "Nam Prik Noom Recipe | Authentic Thai main dish",
+      "nl": "Nam Prik Noom Recept | Authentieke Thaise main dish"
+    },
+    "metaDescription": {
+      "en": "Learn about Nam Prik Noom (น้ำพริกหนุ่ม) - Northern green chili dip with grilled vegetables...",
+      "nl": "Leer over Nam Prik Noom (น้ำพริกหนุ่ม) - Noordelijke groene chili dip met gegrilde groenten..."
+    }
+  },
+  "tags": [
+    "thais-eten",
+    "thailand",
+    "hoofdgerecht",
+    "noordelijk",
+    "medium",
+    "eenvoudig",
+    "budget",
+    "groene-chili",
+    "knoflook",
+    "sjalotten"
+  ],
+  "cooking": {
+    "preparation_time": "25 minuten",
+    "difficulty": "eenvoudig",
+    "spice_level": "medium",
+    "serves": "2-4 personen"
+  },
+  "nutrition": {
+    "allergens": [],
+    "dietary": [
+      "vegetarisch"
+    ],
+    "price_range": "budget"
+  },
+  "enhanced_description": "Nam Prik Noom is een geliefd stevig en bevredigend hoofdgerecht uit Noord-Thailand met een aangename pittige kick. Noordelijke groene chili dip met gegrilde groenten. Dit eenvoudige recept duurt ongeveer 25 minuten om te bereiden en vertegenwoordigt de authentieke smaken van de Noord-Thaise keuken, gekenmerkt door mildere smaken, kleefrijst en kruiden. De combinatie van groene chili, knoflook en sjalotten creëert een harmonieuze mengeling die dit gerecht tot een favoriet heeft gemaakt onder zowel locals als bezoekers. Perfect voor wie op zoek is naar betaalbare authentieke Thaise keuken.",
+  "detailed_ingredients": [
+    {
+      "name": "Green chili",
+      "purpose": "Essentieel voor authentieke Nam Prik Noom smaak",
+      "substitutes": [
+        "Verse groene chili",
+        "Gedroogde groene chili",
+        "groene chili pasta"
+      ]
+    },
+    {
+      "name": "Garlic",
+      "purpose": "Essentieel voor authentieke Nam Prik Noom smaak",
+      "substitutes": [
+        "Verse knoflook",
+        "Gedroogde knoflook",
+        "knoflook pasta"
+      ]
+    },
+    {
+      "name": "Shallots",
+      "purpose": "Essentieel voor authentieke Nam Prik Noom smaak",
+      "substitutes": [
+        "Verse sjalotten",
+        "Gedroogde sjalotten",
+        "sjalotten pasta"
+      ]
+    },
+    {
+      "name": "Tomatoes",
+      "purpose": "Essentieel voor authentieke Nam Prik Noom smaak",
+      "substitutes": [
+        "Verse tomaten",
+        "Gedroogde tomaten",
+        "tomaten pasta"
+      ]
+    }
+  ],
+  "cooking_method": {
+    "technique": "Roerbakken of grillen",
+    "steps_overview": "Het bereiden van Nam Prik Noom vereist aandacht voor detail en juiste timing. De sleutel is om alle smaken in balans te brengen terwijl de textuur van elk ingrediënt behouden blijft. Traditionele methoden die van generatie op generatie zijn doorgegeven zorgen voor een authentieke smaak.",
+    "cooking_tips": [
+      "Gebruik verse groene chili voor het beste resultaat",
+      "Pas het pittigheidsniveau aan naar voorkeur",
+      "Kook niet te lang om textuur te behouden",
+      "Proef en pas kruiding aan voor serveren"
+    ]
+  },
+  "cultural_significance": {
+    "origin_story": "Nam Prik Noom is al generaties lang een basisgerecht in de Noord-Thaise keuken en weerspiegelt de unieke culinaire tradities en lokale ingrediënten van de regio.",
+    "cultural_importance": "Dit gerecht vertegenwoordigt het hart van de Noord-Thaise kookkunst en toont de balans en harmonie waarvoor de Thaise keuken wereldwijd beroemd is.",
+    "traditional_occasions": [
+      "Familiebijeenkomsten",
+      "Lokale festivals",
+      "Straatvoedselmarkten",
+      "Speciale vieringen"
+    ]
+  },
+  "variations": [
+    {
+      "name": "Nam Prik Noom Classic",
+      "description": "De traditionele versie zoals geserveerd in lokale huizen"
+    },
+    {
+      "name": "Nam Prik Noom Modern",
+      "description": "Moderne twist met premium ingrediënten"
+    },
+    {
+      "name": "Vegetarian Nam Prik Noom",
+      "description": "Plantaardige versie met tofu of paddenstoelen"
+    }
+  ],
+  "serving_suggestions": {
+    "traditional_accompaniments": [
+      "Jasmijnrijst",
+      "Verse groenten",
+      "Thaise kruiden"
+    ],
+    "presentation": "Geserveerd op een bord in traditionele Thaise stijl",
+    "eating_etiquette": "Genoten met vork en lepel volgens Thais gebruik"
+  },
+  "nutritional_info": {
+    "calories_per_serving": "300-500 calorieën",
+    "health_benefits": [
+      "Rijk aan Thaise kruiden en specerijen",
+      "Bron van eiwitten en groenten",
+      "Gebalanceerde smaken en voedingsstoffen"
+    ],
+    "dietary_notes": [
+      "vegetarisch"
+    ]
+  },
+  "where_to_find": {
+    "best_restaurants": [
+      "Lokale Noord-Thaise restaurants",
+      "Authentieke straatvoedselkraampjes",
+      "Traditionele markten",
+      "Familiegerunde eetgelegenheden"
+    ],
+    "street_food_areas": [
+      "Nachtmarkten",
+      "Ochtendverse markten",
+      "Lokale food courts"
+    ],
+    "price_ranges": {
+      "street_vendor": "30-50 THB",
+      "market_stall": "40-60 THB",
+      "restaurant": "60-100 THB"
+    }
+  },
+  "translations": {
+    "nl": {
+      "enhanced_description": "Nam Prik Noom is een geliefd stevig en smaakvol hoofdgerecht uit Noord-Thailand met een aangename pittige kick. Noordelijke groene chili dip met gegrilde groenten. Dit eenvoudige recept vergt ongeveer 25 minuten bereidingstijd en vertegenwoordigt de authentieke smaken van de Noord-Thaise keuken, gekenmerkt door mildere smaken, kleefrijst en kruiden. De combinatie van groene chili, knoflook en sjalotten creëert een harmonieuze mix die dit gerecht tot een favoriet heeft gemaakt onder zowel locals als bezoekers. Perfect voor wie op zoek is naar betaalbare authentieke Thaise keuken.",
+      "detailed_ingredients": [
+        {
+          "name": "Groene chili",
+          "purpose": "Essentieel voor de authentieke Nam Prik Noom smaak",
+          "substitutes": [
+            "Verse groene chili",
+            "Gedroogde groene chili",
+            "Groene chilipasta"
+          ]
+        },
+        {
+          "name": "Knoflook",
+          "purpose": "Essentieel voor de authentieke Nam Prik Noom smaak",
+          "substitutes": [
+            "Verse knoflook",
+            "Gedroogde knoflook",
+            "Knoflookpasta"
+          ]
+        },
+        {
+          "name": "Sjalotten",
+          "purpose": "Essentieel voor de authentieke Nam Prik Noom smaak",
+          "substitutes": [
+            "Verse sjalotten",
+            "Gedroogde sjalotten",
+            "Rode ui"
+          ]
+        },
+        {
+          "name": "Tomaten",
+          "purpose": "Essentieel voor de authentieke Nam Prik Noom smaak",
+          "substitutes": [
+            "Verse tomaten",
+            "Gedroogde tomaten",
+            "Tomatenpuree"
+          ]
+        }
+      ],
+      "cooking_method": {
+        "technique": "Grillen en stampen",
+        "steps_overview": "Het bereiden van Nam Prik Noom vereist aandacht voor detail en goede timing. De sleutel is het balanceren van alle smaken terwijl de textuur van elk ingrediënt behouden blijft. Traditionele methoden die van generatie op generatie zijn doorgegeven, garanderen een authentieke smaak.",
+        "cooking_tips": [
+          "Gebruik verse groene chili voor het beste resultaat",
+          "Pas het pittigheidsgehalte aan naar je voorkeur",
+          "Kook niet te lang om de textuur te behouden",
+          "Proef en pas de kruiding aan voor het serveren"
+        ]
+      },
+      "cultural_significance": {
+        "origin_story": "Nam Prik Noom is al generaties lang een vast onderdeel van de Noord-Thaise keuken en weerspiegelt de unieke culinaire tradities en lokale ingrediënten van de regio.",
+        "cultural_importance": "Dit gerecht vertegenwoordigt het hart van de Noord-Thaise kookkunst en toont de balans en harmonie waarmee de Thaise keuken wereldwijd beroemd is.",
+        "traditional_occasions": [
+          "Familiebijeenkomsten",
+          "Lokale festivals",
+          "Straatvoedselmarkten",
+          "Bijzondere vieringen"
+        ]
+      },
+      "variations": [
+        {
+          "name": "Nam Prik Noom Klassiek",
+          "description": "De traditionele versie zoals geserveerd in lokale huishoudens"
+        },
+        {
+          "name": "Nam Prik Noom Modern",
+          "description": "Hedendaagse variant met premium ingrediënten"
+        },
+        {
+          "name": "Vegetarische Nam Prik Noom",
+          "description": "Plantaardige versie met tofu of paddenstoelen"
+        }
+      ],
+      "serving_suggestions": {
+        "traditional_accompaniments": [
+          "Jasmijnrijst",
+          "Verse groenten",
+          "Thaise kruiden"
+        ],
+        "presentation": "Geserveerd op een bord in traditionele Noord-Thaise stijl",
+        "eating_etiquette": "Gegeten met vork en lepel volgens Thais gebruik"
+      },
+      "where_to_find": {
+        "best_restaurants": [
+          "Lokale Noord-Thaise restaurants",
+          "Authentieke straatvoedselkramen",
+          "Traditionele markten",
+          "Familiebedrijfjes"
+        ],
+        "street_food_areas": [
+          "Nachtmarkten",
+          "Ochtendverse markten",
+          "Lokale food courts"
+        ]
+      },
+      "translated_at": "2026-03-10T00:00:00.000Z"
+    },
+    "fr": {
+      "enhanced_description": "Nam Prik Noom is een geliefd stevig en smaakvol hoofdgerecht uit Noord-Thailand met een aangename pittige kick. Noordelijke groene chili dip met gegrilde groenten. Dit eenvoudige recept vergt ongeveer 25 minuten bereidingstijd en vertegenwoordigt de authentieke smaken van de Noord-Thaise keuken, gekenmerkt door mildere smaken, kleefrijst en kruiden. De combinatie van groene chili, knoflook en sjalotten creëert een harmonieuze mix die dit gerecht tot een favoriet heeft gemaakt onder zowel locals als bezoekers. Perfect voor wie op zoek is naar betaalbare authentieke Thaise keuken.",
+      "detailed_ingredients": [
+        {
+          "name": "Piment vert",
+          "purpose": "Essentieel voor de authentieke Nam Prik Noom smaak",
+          "substitutes": [
+            "Verse groene chili",
+            "Gedroogde groene chili",
+            "Groene chilipasta"
+          ]
+        },
+        {
+          "name": "Ail",
+          "purpose": "Essentieel voor de authentieke Nam Prik Noom smaak",
+          "substitutes": [
+            "Verse knoflook",
+            "Gedroogde knoflook",
+            "Knoflookpasta"
+          ]
+        },
+        {
+          "name": "Échalotes",
+          "purpose": "Essentieel voor de authentieke Nam Prik Noom smaak",
+          "substitutes": [
+            "Verse sjalotten",
+            "Gedroogde sjalotten",
+            "Rode ui"
+          ]
+        },
+        {
+          "name": "Tomates",
+          "purpose": "Essentieel voor de authentieke Nam Prik Noom smaak",
+          "substitutes": [
+            "Verse tomaten",
+            "Gedroogde tomaten",
+            "Tomatenpuree"
+          ]
+        }
+      ],
+      "cooking_method": {
+        "technique": "Grillen en stampen",
+        "steps_overview": "Het bereiden van Nam Prik Noom vereist aandacht voor detail en goede timing. De sleutel is het balanceren van alle smaken terwijl de textuur van elk ingrediënt behouden blijft. Traditionele methoden die van generatie op generatie zijn doorgegeven, garanderen een authentieke smaak.",
+        "cooking_tips": [
+          "Gebruik verse groene chili voor het beste resultaat",
+          "Pas het pittigheidsgehalte aan naar je voorkeur",
+          "Kook niet te lang om de textuur te behouden",
+          "Proef en pas de kruiding aan voor het serveren"
+        ]
+      },
+      "cultural_significance": {
+        "origin_story": "Nam Prik Noom is al generaties lang een vast onderdeel van de Noord-Thaise keuken en weerspiegelt de unieke culinaire tradities en lokale ingrediënten van de regio.",
+        "cultural_importance": "Dit gerecht vertegenwoordigt het hart van de Noord-Thaise kookkunst en toont de balans en harmonie waarmee de Thaise keuken wereldwijd beroemd is.",
+        "traditional_occasions": [
+          "Familiebijeenkomsten",
+          "Lokale festivals",
+          "Straatvoedselmarkten",
+          "Bijzondere vieringen"
+        ]
+      },
+      "variations": [
+        {
+          "name": "Nam Prik Noom Classique",
+          "description": "De traditionele versie zoals geserveerd in lokale huishoudens"
+        },
+        {
+          "name": "Nam Prik Noom Moderne",
+          "description": "Moderne versie met premium ingrediënten"
+        },
+        {
+          "name": "Nam Prik Noom Végétarien",
+          "description": "Vegetarische versie met tofu of paddenstoelen"
+        }
+      ],
+      "serving_suggestions": {
+        "traditional_accompaniments": [
+          "Jasmijnrijst",
+          "Verse groenten",
+          "Thaise kruiden"
+        ],
+        "presentation": "Geserveerd op een bord in de traditionele stijl van Noord-Thailand",
+        "eating_etiquette": "Gegeten met vork en lepel volgens de Thaise gewoonte"
+      },
+      "where_to_find": {
+        "best_restaurants": [
+          "Lokale restaurants in Noord-Thailand",
+          "Authentieke straatkraampjes",
+          "Traditionele markten",
+          "Familierestaurants"
+        ],
+        "street_food_areas": [
+          "Nachtmarkten",
+          "Verse ochtendmarkten",
+          "Lokale foodcourts"
+        ]
+      },
+      "translated_at": "2026-03-10T00:00:00.000Z"
+    },
+    "de": {
+      "enhanced_description": "Nam Prik Noom is een geliefd, hartig en vullend hoofdgerecht uit Noord-Thailand met een aangename pittigheid. Een noordelijk Thais groene chili-dip met gegrilde groenten. Dit eenvoudige recept vereist ongeveer 25 minuten bereidingstijd en belichaamt de authentieke smaken van de noordelijke Thaise keuken, gekenmerkt door mildere tonen, kleefrijst en kruiden. De combinatie van groene chili, knoflook en sjalotten creëert een harmonieuze mix die dit gerecht tot favoriet heeft gemaakt bij zowel locals als bezoekers. Perfect voor wie betaalbare authentieke Thaise keuken zoekt.",
+      "detailed_ingredients": [
+        {
+          "name": "Grüne Chili",
+          "purpose": "Onmisbaar voor de authentieke Nam Prik Noom-smaak",
+          "substitutes": [
+            "Verse groene chili",
+            "Gedroogde groene chili",
+            "Groene chili-pasta"
+          ]
+        },
+        {
+          "name": "Knoblauch",
+          "purpose": "Onmisbaar voor de authentieke Nam Prik Noom-smaak",
+          "substitutes": [
+            "Verse knoflook",
+            "Gedroogde knoflook",
+            "Knoflookpasta"
+          ]
+        },
+        {
+          "name": "Schalotten",
+          "purpose": "Onmisbaar voor de authentieke Nam Prik Noom-smaak",
+          "substitutes": [
+            "Verse sjalotten",
+            "Gedroogde sjalotten",
+            "Rode ui"
+          ]
+        },
+        {
+          "name": "Tomaten",
+          "purpose": "Onmisbaar voor de authentieke Nam Prik Noom-smaak",
+          "substitutes": [
+            "Verse tomaten",
+            "Gedroogde tomaten",
+            "Tomatencrème"
+          ]
+        }
+      ],
+      "cooking_method": {
+        "technique": "Grillen en stampen",
+        "steps_overview": "De bereiding van Nam Prik Noom vereist aandacht voor details en goed timing. De sleutel ligt in het balanceren van alle smaken terwijl de textuur van elke ingrediënt behouden blijft. Traditionele methoden, doorgegeven van generatie op generatie, garanderen een authentieke smaak.",
+        "cooking_tips": [
+          "Gebruik verse groene chili voor het beste resultaat",
+          "Pas de pittigheid aan naar smaak",
+          "Niet te lang koken om de textuur te behouden",
+          "Proef en kruid af voor het serveren"
+        ]
+      },
+      "cultural_significance": {
+        "origin_story": "Nam Prik Noom is al generaties lang een vast onderdeel van de noordelijke Thaise keuken en weerspiegelt de unieke culinaire tradities en lokale ingrediënten van de regio.",
+        "cultural_importance": "Dit gerecht belichaamt het hart van de noordelijke Thaise kookkunst en toont de balans en harmonie waarvoor de Thaise keuken wereldwijd beroemd is.",
+        "traditional_occasions": [
+          "Familiebijeenkomsten",
+          "Lokale feesten",
+          "Straatvoedingsmarkten",
+          "Speciale vieringen"
+        ]
+      },
+      "variations": [
+        {
+          "name": "Nam Prik Noom Klassisch",
+          "description": "De traditionele versie, zoals geserveerd in lokale huishoudens"
+        },
+        {
+          "name": "Nam Prik Noom Modern",
+          "description": "Contemporaine variant met hoogwaardige ingrediënten"
+        },
+        {
+          "name": "Vegetarische Nam Prik Noom",
+          "description": "Plantaardige versie met tofu of paddenstoelen"
+        }
+      ],
+      "serving_suggestions": {
+        "traditional_accompaniments": [
+          "Jasmijnrijst",
+          "Verse groenten",
+          "Thaise kruiden"
+        ],
+        "presentation": "Geserveerd op een bord in de traditionele noordelijke Thaise stijl",
+        "eating_etiquette": "Gegeten met vork en lepel volgens Thaise traditie"
+      },
+      "where_to_find": {
+        "best_restaurants": [
+          "Lokale noordelijke Thaise restaurants",
+          "Authentieke straatsnacksstalletjes",
+          "Traditionele markten",
+          "Familiegerunde etablissementen"
+        ],
+        "street_food_areas": [
+          "Nachtmarkten",
+          "Verse ochtendmarkten",
+          "Lokale foodcourts"
+        ]
+      },
+      "translated_at": "2026-03-10T00:00:00.000Z"
+    },
+    "zh": {
+      "enhanced_description": "Nam Prik Noom is een geliefd, overvloedig hoofdgerecht uit Noord-Thailand met een prettige pittigheid. Dit is een noordelijke gegrilde groene chili-dip met gegrilde groenten. Dit eenvoudige recept duurt ongeveer 25 minuten en vertegenwoordigt de authentieke smaken van de noordelijke Thaise keuken – gekenmerkt door milde smaken, kleefrijst en kruiden. De combinatie van groene chili, knoflook en sjalotten creëert een harmonieuze smaak die dit gerecht geliefd maakt bij zowel locals als toeristen. Ideaal voor wie betaalbare authentieke Thaise gerechten zoekt.",
+      "detailed_ingredients": [
+        {
+          "name": "青辣椒",
+          "purpose": "Sleutelingrediënt voor de authentieke Nam Prik Noom-smaak",
+          "substitutes": [
+            "Verse groene chili",
+            "Gedroogde groene chili",
+            "Groene chili-saus"
+          ]
+        },
+        {
+          "name": "大蒜",
+          "purpose": "Sleutelingrediënt voor de authentieke Nam Prik Noom-smaak",
+          "substitutes": [
+            "Verse knoflook",
+            "Knoflookpoeder",
+            "Knoflooksaus"
+          ]
+        },
+        {
+          "name": "红葱头",
+          "purpose": "Sleutelingrediënt voor de authentieke Nam Prik Noom-smaak",
+          "substitutes": [
+            "Verse sjalotten",
+            "Gedroogde sjalotten",
+            "Rode ui"
+          ]
+        },
+        {
+          "name": "番茄",
+          "purpose": "Sleutelingrediënt voor de authentieke Nam Prik Noom-smaak",
+          "substitutes": [
+            "Verse tomaten",
+            "Gedroogde tomaten",
+            "Tomatensaus"
+          ]
+        }
+      ],
+      "cooking_method": {
+        "technique": "Barbecuen en pletten",
+        "steps_overview": "Het maken van Nam Prik Noom vereist aandacht voor details en goed tijdbeheer. De sleutel is het balanceren van alle smaken terwijl de textuur van elk ingrediënt behouden blijft. Traditionele methoden, doorgegeven door generaties, zorgen voor een authentieke smaak.",
+        "cooking_tips": [
+          "Gebruik verse groene chili voor de beste smaak",
+          "Pas de pittigheid aan naar persoonlijke voorkeur",
+          "Kook niet te lang om de textuur te behouden",
+          "Proef en pas de kruiden aan voor het serveren"
+        ]
+      },
+      "cultural_significance": {
+        "origin_story": "Nam Prik Noom is al generaties lang een basis van de noordelijke Thaise keuken en weerspiegelt de unieke culinaire tradities en lokale ingrediënten van de regio.",
+        "cultural_importance": "Dit gerecht vertegenwoordigt de essentie van de noordelijke Thaise keuken en toont de wereldberoemde balans en harmonie van de Thaise keuken.",
+        "traditional_occasions": [
+          "Familiebijeenkomsten",
+          "Lokale festivals",
+          "Straatvoedingsmarkten",
+          "Speciale vieringen"
+        ]
+      },
+      "variations": [
+        {
+          "name": "经典Nam Prik Noom",
+          "description": "De traditionele versie zoals bereid in lokale families"
+        },
+        {
+          "name": "现代Nam Prik Noom",
+          "description": "Moderne innovatieve versie met premium ingrediënten"
+        },
+        {
+          "name": "素食Nam Prik Noom",
+          "description": "Vegetarische versie met tofu of paddenstoelen"
+        }
+      ],
+      "serving_suggestions": {
+        "traditional_accompaniments": [
+          "Jasmijnrijst",
+          "Verse groenten",
+          "Thaise kruiden"
+        ],
+        "presentation": "Geserveerd op een bord in de traditionele noordelijke Thaise stijl",
+        "eating_etiquette": "Gegeten met vork en lepel volgens Thaise gewoonten"
+      },
+      "where_to_find": {
+        "best_restaurants": [
+          "Lokale noordelijke Thaise restaurants",
+          "Authentieke straatsnackstalletjes",
+          "Traditionele markten",
+          "Familiegerunde kleine restaurants"
+        ],
+        "street_food_areas": [
+          "Nachtmarkten",
+          "Ochtendmarkten",
+          "Lokale eetpleinen"
+        ]
+      },
+      "translated_at": "2026-03-11T00:00:00.000Z"
+    },
+    "ru": {
+      "enhanced_description": "Nam Prik Noom is een geliefd, vullend en rijk hoofdgerecht uit Noord-Thailand met een prettige pittigheid. Een noordelijke dip van groene chili met gegrilde groenten. Dit eenvoudige recept vereist ongeveer 25 minuten bereiding en vertegenwoordigt de authentieke smaken van de noordelijke Thaise keuken, gekenmerkt door zachte smaken, kleefrijst en kruiden. De combinatie van groene chili, knoflook en sjalotten creëert een harmonieuze smaak die dit gerecht favoriet maakt bij zowel locals als gasten. Ideaal voor wie betaalbare authentieke Thaise keuken zoekt.",
+      "detailed_ingredients": [
+        {
+          "name": "Зелёный чили",
+          "purpose": "Noodzakelijk voor de authentieke Nam Prik Noom-smaak",
+          "substitutes": [
+            "Verse groene chili",
+            "Gedroogde groene chili",
+            "Pasta van groene chili"
+          ]
+        },
+        {
+          "name": "Чеснок",
+          "purpose": "Noodzakelijk voor de authentieke Nam Prik Noom-smaak",
+          "substitutes": [
+            "Verse knoflook",
+            "Gedroogde knoflook",
+            "Knoflookpasta"
+          ]
+        },
+        {
+          "name": "Шалот",
+          "purpose": "Noodzakelijk voor de authentieke Nam Prik Noom-smaak",
+          "substitutes": [
+            "Verse sjalotten",
+            "Gedroogde sjalotten",
+            "Rode ui"
+          ]
+        },
+        {
+          "name": "Помидоры",
+          "purpose": "Noodzakelijk voor de authentieke Nam Prik Noom-smaak",
+          "substitutes": [
+            "Verse tomaten",
+            "Gedroogde tomaten",
+            "Tomatencrème"
+          ]
+        }
+      ],
+      "cooking_method": {
+        "technique": "Grillen en wrijven",
+        "steps_overview": "Het bereiden van Nam Prik Noom vereist aandacht voor details en correcte tijdsberekening. Het belangrijkste is het balanceren van alle smaken terwijl de textuur van elk ingrediënt behouden blijft. Traditionele methoden, doorgegeven van generatie op generatie, zorgen voor een authentieke smaak.",
+        "cooking_tips": [
+          "Gebruik verse groene chili voor het beste resultaat",
+          "Pas de pittigheid aan naar smaak",
+          "Bak niet te lang om de textuur te behouden",
+          "Proef en corrigeer de kruiden voor het serveren"
+        ]
+      },
+      "cultural_significance": {
+        "origin_story": "Nam Prik Noom is al generaties lang de basis van de noordelijke Thaise keuken en weerspiegelt de unieke culinaire tradities van de regio en lokale ingrediënten.",
+        "cultural_importance": "Dit gerecht belichaamt de essentie van de noordelijke Thaise keuken en demonstreert de balans en harmonie waarvoor de Thaise keuken wereldwijd bekendstaat.",
+        "traditional_occasions": [
+          "Familiebijeenkomsten",
+          "Lokale festivals",
+          "Markten voor straeteet",
+          "Speciale feesten"
+        ]
+      },
+      "variations": [
+        {
+          "name": "Классический Nam Prik Noom",
+          "description": "De traditionele versie, zoals bereid in lokale huizen"
+        },
+        {
+          "name": "Современный Nam Prik Noom",
+          "description": "Moderne interpretatie met premium ingrediënten"
+        },
+        {
+          "name": "Вегетарианский Nam Prik Noom",
+          "description": "Plantaardige versie met tofu of paddenstoelen"
+        }
+      ],
+      "serving_suggestions": {
+        "traditional_accompaniments": [
+          "Jasmijnrijst",
+          "Verse groenten",
+          "Thaise kruiden"
+        ],
+        "presentation": "Geserveerd op een bord in de traditionele noordelijke Thaise stijl",
+        "eating_etiquette": "Gegeten met vork en lepel volgens Thaise gewoonte"
+      },
+      "where_to_find": {
+        "best_restaurants": [
+          "Lokale noordelijke Thaise restaurants",
+          "Authentieke straatkraampjes",
+          "Traditionele markten",
+          "Familie-snackbars"
+        ],
+        "street_food_areas": [
+          "Nachtmarkten",
+          "Ochtendvoedingsmarkten",
+          "Lokale foodcourts"
+        ]
+      },
+      "translated_at": "2026-03-11T00:00:00.000Z"
+    },
+    "ko": {
+      "enhanced_description": "Nam Prik Noom is een representatieve chili-dip uit de noordelijke Thaise Lanna-regio, gemaakt door grote groene pepers (prik noom) te grillen op houtskool en te pletten in een vijzel voor een geurig en pittig kruidenmengsel. Dit eenvoudige recept is in ongeveer 25 minuten klaar; 'noom' betekent in het noordelijke Thais dialect 'jong' en verwijst naar onrijpe groene pepers. De rokerige aroma van gegrilde groene pepers op houtskool, gecombineerd met de zoete geur van knoflook en sjalotten, en de frisheid van koriander, creëert een verslavende smaak wanneer gegeten met kleefrijst (khao niao). Het is een vegetarisch gerecht en wordt beschouwd als een van de drie essentiële elementen van een Lanna-maaltijd, samen met sai ua (noordelijke worst) en kap moo (gefrituurd varkensvel).",
+      "detailed_ingredients": [
+        {
+          "name": "프릭눔 (큰 청고추)",
+          "purpose": "Hoofdingrediënt voor rokerige aroma en medium pittigheid door grillen op houtskool",
+          "substitutes": [
+            "Anaheim peper",
+            "Jalapeño (pikanter)",
+            "Shishito-peper (minder pittig)"
+          ]
+        },
+        {
+          "name": "마늘과 샬롯",
+          "purpose": "Kruiden die een zoete en diepe basisgeur creëren door te roosteren op houtskool",
+          "substitutes": [
+            "Verse knoflook + rode ui",
+            "Geroosterde ui",
+            "Sjalottenpasta"
+          ]
+        },
+        {
+          "name": "토마토",
+          "purpose": "Ingrediënt dat natuurlijke zuurheid en vocht toevoegt om de dikte van de dip te reguleren",
+          "substitutes": [
+            "Verse tomaat",
+            "Kersentomaat",
+            "Snoeptomaat"
+          ]
+        },
+        {
+          "name": "고수 (팍치)",
+          "purpose": "Afwerkende kruiden die verse aroma en levendigheid toevoegen",
+          "substitutes": [
+            "Verse koriander",
+            "Thaise basilicum",
+            "Bosui (alternatief)"
+          ]
+        }
+      ],
+      "cooking_method": {
+        "technique": "Roosteren op houtskool en stampen in een vijzel",
+        "steps_overview": "Om nam prik noom te maken, rooster je eerst groene pepers, knoflook (met schil), sjalotten (met schil) en tomaat op houtskool of direct vuur tot de buitenkant zwartgeblakerd is voor een rokerige smaak. Pel de geroosterde ingrediënten en stamp ze grof in een vijzel. Breng op smaak met vissaus en limoensap, en meng gehakte koriander erdoor om af te maken.",
+        "cooking_tips": [
+          "Rooster de pepers tot de buitenkant zwartgeblakerd is voor een authentieke rokerige smaak",
+          "Stamp niet te fijn in de vijzel — de ruwe textuur is de charme",
+          "Je kunt de pittigheid verminderen door de peperzaadjes te verwijderen",
+          "Het traditionele noordelijke stijl is om het te eten met kleefrijst (khao niao)"
+        ]
+      },
+      "cultural_significance": {
+        "origin_story": "Nam prik noom is een traditioneel gerecht uit het noorden van Thailand, uit het Lanna-koninkrijk, dat al generaties lang geliefd is in de regio Chiang Mai en Chiang Rai. Het maakt gebruik van grote groene pepers (prik noom) die in Noord-Thailand worden geteeld en vertegenwoordigt de unieke Lanna-voedselcultuur.",
+        "cultural_importance": "Nam prik noom wordt samen met sai ua (noordelijke worst) en kap moo (gefrituurde varkenshuid) 'Lanna-drietal' genoemd en is een essentieel onderdeel van een noordelijke Thaise maaltijd. Het is een vegetarische nam prik die geschikt is voor offers in tempels, en een must-try voor reizigers die Chiang Mai bezoeken.",
+        "traditional_occasions": [
+          "Lanna-traditionele maaltijd (kan tok)",
+          "Dagelijkse huisgerechten",
+          "Tempeloffers",
+          "Festivalgerecht"
+        ]
+      },
+      "variations": [
+        {
+          "name": "남프릭눔 전통식",
+          "description": "De meest traditionele Lanna-stijl gemaakt met groene pepers geroosterd op houtskool."
+        },
+        {
+          "name": "남프릭눔 매운맛",
+          "description": "Een pittigere versie met toegevoegde prik ki nu (muispepertjes)."
+        },
+        {
+          "name": "남프릭눔 채식",
+          "description": "Een volledig vegetarische versie gemaakt met sojasaus in plaats van vissaus."
+        }
+      ],
+      "serving_suggestions": {
+        "traditional_accompaniments": [
+          "Kleefrijst (khao niao)",
+          "Kap moo (gefrituurde varkenshuid)",
+          "Verse groenten (komkommer, aubergine, lange bonen)",
+          "Gekookte groenten"
+        ],
+        "presentation": "Serveer de nam prik in een klein schaaltje met kleefrijst en groenten in kan tok-stijl",
+        "eating_etiquette": "Het traditionele noordelijke stijl is om de kleefrijst in je hand te kneden en in de nam prik te dopen"
+      },
+      "where_to_find": {
+        "best_restaurants": [
+          "Chiang Mai kan tok dinerrestaurant",
+          "Noord-Thais traditioneel restaurant",
+          "Warorot-markt bijgerechtwinkel",
+          "Familiebedrijf restaurant"
+        ],
+        "street_food_areas": [
+          "Chiang Mai ochtendmarkt",
+          "Chiang Rai nachtmarkt",
+          "Lokale foodcourt"
+        ],
+        "price_ranges": {
+          "street_vendor": "20-40 THB",
+          "market_stall": "30-50 THB",
+          "restaurant": "50-80 THB"
+        }
+      },
+      "translated_at": "2026-03-14T00:00:00.000Z"
+    },
+    "th": {
+      "enhanced_description": "Nam prik noom is een noordelijke nam prik gemaakt van geroosterde prik noom, gestampt met knoflook en sjalotten, met pittige en aromatische smaak, geserveerd met kap moo en gestoomde groenten. Het is de favoriete nam prik van de noorderlingen.",
+      "detailed_ingredients": [
+        {
+          "name": "Green chili",
+          "purpose": "Essentieel voor de authentieke smaak van Nam Prik Noom",
+          "substitutes": [
+            "Verse groene peper",
+            "Gedroogde groene peper",
+            "Groene peperpasta"
+          ]
+        },
+        {
+          "name": "Garlic",
+          "purpose": "Essentieel voor de authentieke smaak van Nam Prik Noom",
+          "substitutes": [
+            "Verse knoflook",
+            "Gedroogde knoflook",
+            "Knoflookpasta"
+          ]
+        },
+        {
+          "name": "Shallots",
+          "purpose": "Essentieel voor de authentieke smaak van Nam Prik Noom",
+          "substitutes": [
+            "Verse sjalotten",
+            "Gedroogde sjalotten",
+            "Sjalottenpasta"
+          ]
+        },
+        {
+          "name": "Tomatoes",
+          "purpose": "Essentieel voor de authentieke smaak van Nam Prik Noom",
+          "substitutes": [
+            "Verse tomaten",
+            "Gedroogde tomaten",
+            "Tomatenpasta"
+          ]
+        }
+      ],
+      "cooking_method": {
+        "technique": "Roerbakken of roosteren",
+        "steps_overview": "De bereiding van Nam Prik Noom vereist aandacht voor details en de juiste timing. Het is belangrijk om de smaken in balans te houden terwijl de textuur van elk ingrediënt behouden blijft. De traditionele methode, doorgegeven door generaties, garandeert de authentieke smaak.",
+        "cooking_tips": [
+          "Gebruik verse groene peper voor het beste resultaat",
+          "Pas de pittigheid aan naar smaak",
+          "Kook niet te lang om de textuur te behouden",
+          "Proef en breng op smaak voor het serveren"
+        ]
+      },
+      "cultural_significance": {
+        "origin_story": "Dit gerecht is al generaties lang deel van de noordelijke Thaise voedselcultuur en weerspiegelt de unieke kooktradities en lokale ingrediënten van de regio.",
+        "cultural_importance": "Dit gerecht is het hart van de noordelijke Thaise keuken en toont de balans en harmonie waar Thaise gerechten wereldwijd beroemd om zijn.",
+        "traditional_occasions": [
+          "Familiebijeenkomsten",
+          "Lokale festivals",
+          "Straatvoedingsmarkt",
+          "Speciale vieringen"
+        ]
+      },
+      "variations": [
+        {
+          "name": "Nam Prik Noom Classic",
+          "description": "Traditionele versie geserveerd in lokale huizen"
+        },
+        {
+          "name": "Nam Prik Noom Modern",
+          "description": "Moderne versie met premium ingrediënten"
+        },
+        {
+          "name": "Vegetarian Nam Prik Noom",
+          "description": "Vegetarische versie met tofu of paddenstoelen"
+        }
+      ],
+      "serving_suggestions": {
+        "traditional_accompaniments": [
+          "Jasmijnrijst",
+          "Verse groenten",
+          "Thaise kruiden"
+        ],
+        "presentation": "Geserveerd op een traditioneel Thais bord",
+        "eating_etiquette": "Eet met lepel en vork volgens Thaise traditie"
+      },
+      "where_to_find": {
+        "best_restaurants": [
+          "Lokale noordelijke Thaise restaurants",
+          "Authentieke straatrestantaurants",
+          "Traditionele markten",
+          "Familie-restaurants"
+        ],
+        "street_food_areas": [
+          "Nachtmarkten",
+          "Ochtendmarkten",
+          "Lokale voedselcentra"
+        ],
+        "price_ranges": {
+          "street_vendor": "30-50 THB",
+          "market_stall": "40-60 THB",
+          "restaurant": "60-100 THB"
+        }
+      },
+      "translated_at": "2026-03-14T00:00:00.000Z"
+    },
+    "ja": {
+      "enhanced_description": "Nam Prik Noom is een geliefd hoofdgerecht uit Noord-Thailand dat volume en voldoening biedt, met een prettige pittigheid als kenmerk. Het is een noordelijke groene peperdip geserveerd met gegrilde groenten. Dit recept is in ongeveer 25 minuten klaar en toont de authentieke smaak van Noord-Thaise keuken. Noordelijke gerechten kenmerken zich door milde smaken, kleefrijst en kruiden. De combinatie van groene peper, knoflook en sjalotten creëert een harmonieuze smaak, geliefd bij locals en bezoekers. Ideaal voor wie betaalbare authentieke Thaise gerechten zoekt.",
+      "detailed_ingredients": [
+        {
+          "name": "グリーンチリ（青唐辛子）",
+          "purpose": "Essentieel voor de authentieke smaak van Nam Prik Noom",
+          "substitutes": [
+            "Verse groene peper",
+            "Gedroogde groene peper",
+            "Groene peperpasta"
+          ]
+        },
+        {
+          "name": "にんにく",
+          "purpose": "Essentieel voor de authentieke smaak van Nam Prik Noom",
+          "substitutes": [
+            "Verse knoflook",
+            "Gedroogde knoflook",
+            "Knoflookpasta"
+          ]
+        },
+        {
+          "name": "シャロット",
+          "purpose": "Essentieel voor de authentieke smaak van Nam Prik Noom",
+          "substitutes": [
+            "Verse sjalotten",
+            "Gedroogde sjalotten",
+            "Sjalottenpasta"
+          ]
+        },
+        {
+          "name": "トマト",
+          "purpose": "Essentieel voor de authentieke smaak van Nam Prik Noom",
+          "substitutes": [
+            "Verse tomaten",
+            "Gedroogde tomaten",
+            "Tomatenpasta"
+          ]
+        }
+      ],
+      "cooking_method": {
+        "technique": "Roerbakken of roosteren",
+        "steps_overview": "De bereiding van Nam Prik Noom vereist aandacht voor details en de juiste timing. Het is belangrijk om de smaken in balans te houden terwijl de textuur van elk ingrediënt behouden blijft. De traditionele methode, doorgegeven door generaties, garandeert de authentieke smaak.",
+        "cooking_tips": [
+          "Gebruik verse groene peper voor het beste resultaat",
+          "Pas de pittigheid aan naar smaak",
+          "Kook niet te lang om de textuur te behouden",
+          "Proef en breng op smaak voor het serveren"
+        ]
+      },
+      "cultural_significance": {
+        "origin_story": "Nam Prik Noom is al generaties lang een vaste waarde in de Noord-Thaise keuken en weerspiegelt de unieke kooktradities en lokale ingrediënten van de regio.",
+        "cultural_importance": "Dit gerecht vertegenwoordigt de essentie van de Noord-Thaise keuken en belichaamt de harmonie en balans waar Thaise gerechten wereldwijd beroemd om zijn.",
+        "traditional_occasions": [
+          "Familiebijeenkomsten",
+          "Lokale festivals",
+          "Straatmarkten",
+          "Speciale vieringen"
+        ]
+      },
+      "variations": [
+        {
+          "name": "Nam Prik Noom クラシック",
+          "description": "Traditionele versie geserveerd in lokale huizen"
+        },
+        {
+          "name": "Nam Prik Noom モダン",
+          "description": "Moderne versie met premium ingrediënten"
+        },
+        {
+          "name": "Nam Prik Noom ベジタリアン",
+          "description": "Plantaardige versie met tofu of paddenstoelen"
+        }
+      ],
+      "serving_suggestions": {
+        "traditional_accompaniments": [
+          "Jasmijnrijst",
+          "Verse groenten",
+          "Thaise kruiden"
+        ],
+        "presentation": "Geserveerd op een traditioneel Thais bord",
+        "eating_etiquette": "Eet met lepel en vork volgens Thaise traditie"
+      },
+      "where_to_find": {
+        "best_restaurants": [
+          "Lokale noordelijke Thaise restaurants",
+          "Authentieke straatrestantaurants",
+          "Traditionele markten",
+          "Familie-restaurants"
+        ],
+        "street_food_areas": [
+          "Nachtmarkten",
+          "Ochtendmarkten",
+          "Lokale foodcourts"
+        ],
+        "price_ranges": {
+          "street_vendor": "30-50 THB",
+          "market_stall": "40-60 THB",
+          "restaurant": "60-100 THB"
+        }
+      },
+      "translated_at": "2026-03-14T00:00:00.000Z"
+    }
+  }
+}

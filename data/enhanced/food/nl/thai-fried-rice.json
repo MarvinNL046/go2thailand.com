@@ -1,0 +1,879 @@
+{
+  "id": 10,
+  "slug": "thai-fried-rice",
+  "name": {
+    "en": "Thai Fried Rice",
+    "nl": "Thaise Gebakken Rijst",
+    "thai": "ข้าวผัด"
+  },
+  "category": "hoofdgerecht",
+  "region": "centraal",
+  "spice_level": "mild",
+  "description": {
+    "en": "Fragrant fried rice with jasmine rice fish sauce and fresh vegetables",
+    "nl": "Geurige gebakken rijst met jasmijnrijst vissaus en verse groenten"
+  },
+  "ingredients": [
+    "jasmijnrijst",
+    "vissaus",
+    "knoflook",
+    "ui",
+    "tomaat",
+    "komkommer",
+    "limoen"
+  ],
+  "allergens": [],
+  "dietary": [
+    "vegetarische optie"
+  ],
+  "image": "/images/food/thai-fried-rice.webp",
+  "preparation_time": "12 minuten",
+  "difficulty": "makkelijk",
+  "price_range": "budget",
+  "seo": {
+    "metaTitle": {
+      "en": "Thai Fried Rice Recipe | Authentic Thai main dish",
+      "nl": "Thaise Gebakken Rijst Recept | Authentieke Thaise main dish"
+    },
+    "metaDescription": {
+      "en": "Learn about Thai Fried Rice (ข้าวผัด) - Fragrant fried rice with jasmine rice fish sauce and fresh vegetables...",
+      "nl": "Leer over Thaise Gebakken Rijst (ข้าวผัด) - Geurige gebakken rijst met jasmijnrijst vissaus en verse groenten..."
+    }
+  },
+  "tags": [
+    "thais-eten",
+    "Thailand",
+    "hoofdgerecht",
+    "centraal",
+    "mild",
+    "makkelijk",
+    "budget",
+    "jasmijnrijst",
+    "vissaus",
+    "knoflook"
+  ],
+  "cooking": {
+    "preparation_time": "12 minuten",
+    "difficulty": "makkelijk",
+    "spice_level": "mild",
+    "serves": "2-4 personen"
+  },
+  "nutrition": {
+    "allergens": [],
+    "dietary": [
+      "vegetarische optie"
+    ],
+    "price_range": "budget"
+  },
+  "enhanced_description": "Khao Pad (Thaise Gebakken Rijst) is het ultieme Thaise comfortfood — de rijst van gisteren omgetoverd tot de voldoening van vandaag. Anders dan Chinese gebakken rijst is de Thaise versie lichter, aromatischer en wordt vaak geserveerd met verse bijgerechten. Elke korrel moet los zijn en licht bedekt met saus, voor de perfecte balans van wok hei en verse smaken.",
+  "detailed_ingredients": [
+    {
+      "name": "Day-old Jasmine Rice",
+      "purpose": "Uitgedroogde rijst bakt beter en klontert niet",
+      "substitutes": [
+        "Verse rijst uitgespreid en afgekoeld",
+        "Elke langkorrelige rijst",
+        "Bloemkoolrijst voor koolhydraatarm"
+      ]
+    },
+    {
+      "name": "Thai Thin Soy Sauce",
+      "purpose": "Lichter dan Chinese sojasaus, voegt zout toe zonder kleur",
+      "substitutes": [
+        "Lichte sojasaus",
+        "Verdunde vissaus",
+        "Tamari voor glutenvrij"
+      ]
+    },
+    {
+      "name": "White Pepper",
+      "purpose": "Kenmerkende Thaise kruiding die hitte toevoegt zonder kleur",
+      "substitutes": [
+        "Zwarte peper (verandert het uiterlijk)",
+        "Gemalen Sichuanpeper"
+      ]
+    }
+  ],
+  "cooking_method": {
+    "technique": "Hoge hitte wokbakken met juiste rijstvoorbereiding",
+    "steps_overview": "Succes hangt af van voorbereiding — rijst moet droog zijn, wok heet en ingrediënten klaar. Alles gaat snel, rijst als laatste toegevoegd en constant tossed om plakken te voorkomen terwijl rokerige smaak ontwikkelt.",
+    "cooking_tips": [
+      "Breek rijstklonten uit elkaar voor het koken",
+      "Gebruik de hoogste hitte mogelijk",
+      "Houd rijst constant in beweging",
+      "Voeg sauzen toe rond de wokrand, niet direct op rijst",
+      "Afronden met verse komkommer en limoen"
+    ]
+  },
+  "cultural_significance": {
+    "origin_story": "Geëvolueerd uit gebakken rijst van Chinese immigranten maar aangepast aan Thaise smaken met lichtere kruiding en verse bijgerechten. Populair geworden als manier om restjes rijst te gebruiken in Thaise huishoudens.",
+    "cultural_importance": "Khao Pad is de alledaagse held van Thailand — overal te vinden van straatkarren tot hotelontbijtbuffetten. Het vertegenwoordigt Thaise praktischheid en het vermogen om iets lekkers te maken van simpele ingrediënten.",
+    "traditional_occasions": [
+      "Snel ontbijt",
+      "Late-night straatvoedsel",
+      "Restjes transformatie",
+      "Lievelingsmaaltijd van kinderen"
+    ]
+  },
+  "variations": [
+    {
+      "name": "Khao Pad Poo",
+      "description": "Krab gebakken rijst — de luxe versie"
+    },
+    {
+      "name": "Khao Pad American",
+      "description": "Met ketchup, hotdogs en rozijnen — Thaise interpretatie van 'Amerikaans' eten"
+    },
+    {
+      "name": "Khao Pad Sapparot",
+      "description": "Geserveerd in een ananas met cashewnoten — toeristenfavoriet"
+    }
+  ],
+  "serving_suggestions": {
+    "traditional_accompaniments": [
+      "Jasmijnrijst",
+      "Verse groenten"
+    ],
+    "presentation": "Geserveerd warm in traditionele Thaise stijl",
+    "eating_etiquette": "Geniet met vork en lepel"
+  },
+  "nutritional_info": {
+    "calories_per_serving": "Varieert per bereiding",
+    "health_benefits": [
+      "Rijk aan Thaise kruiden en specerijen",
+      "Gebalanceerde smaken"
+    ],
+    "dietary_notes": [
+      "vegetarische optie"
+    ]
+  },
+  "where_to_find": {
+    "best_restaurants": [
+      "Thip Samai (Bangkok) — Beroemd om pad thai maar geweldige gebakken rijst",
+      "Raan Jay Fai (Bangkok) — Krab gebakken rijst die het wachten waard is",
+      "Elke straatverkoper met een versleten wok"
+    ],
+    "street_food_areas": [
+      "Letterlijk elke straathoek in Thailand",
+      "Nachtmarkten overal",
+      "24-uursplekken bij ziekenhuizen en universiteiten"
+    ],
+    "price_ranges": {
+      "street_food": "40-60 THB (€1,10-€1,65)",
+      "restaurant": "80-150 THB (€2,20-€4,15)",
+      "upscale": "200-500 THB (€5,50-€13,80) voor krabversie"
+    }
+  },
+  "enhanced_at": "2025-05-25T21:53:24.213Z",
+  "translations": {
+    "nl": {
+      "enhanced_description": "Khao Pad (Thaise Gebakken Rijst) is het ultieme Thaise comfortfood — de rijst van gisteren omgetoverd tot de voldoening van vandaag. Anders dan Chinese gebakken rijst is de Thaise versie lichter, aromatischer en wordt vaak geserveerd met verse bijgerechten. Elke korrel moet los zijn en licht bedekt met saus, voor de perfecte balans van wok hei en verse smaken.",
+      "detailed_ingredients": [
+        {
+          "name": "Dag-oude jasmijnrijst",
+          "purpose": "Uitgedroogde rijst bakt beter en klontert niet",
+          "substitutes": [
+            "Verse rijst uitgespreid en afgekoeld",
+            "Elke langkorrelige rijst",
+            "Bloemkoolrijst voor koolhydraatarm"
+          ]
+        },
+        {
+          "name": "Thaise dunne sojasaus",
+          "purpose": "Lichter dan Chinese sojasaus, voegt zout toe zonder kleur",
+          "substitutes": [
+            "Lichte sojasaus",
+            "Verdunde vissaus",
+            "Tamari voor glutenvrij"
+          ]
+        },
+        {
+          "name": "Witte peper",
+          "purpose": "Kenmerkende Thaise kruiding die hitte toevoegt zonder kleur",
+          "substitutes": [
+            "Zwarte peper (verandert het uiterlijk)",
+            "Gemalen Sichuanpeper"
+          ]
+        }
+      ],
+      "cooking_method": {
+        "technique": "Bakken op hoog vuur in een wok met goede rijstvoorbereiding",
+        "steps_overview": "Succes hangt af van voorbereiding — de rijst moet droog zijn, de wok heet en de ingrediënten klaar. Alles gaat snel, de rijst wordt als laatste toegevoegd en constant opgegooid om aanbranden te voorkomen terwijl een rokerige smaak ontwikkelt.",
+        "cooking_tips": [
+          "Breek rijstklonten uit elkaar vóór het bakken",
+          "Gebruik de hoogst mogelijke hitte",
+          "Houd de rijst constant in beweging",
+          "Voeg sauzen toe langs de rand van de wok, niet direct op de rijst",
+          "Serveer af met verse komkommer en limoen"
+        ]
+      },
+      "cultural_significance": {
+        "origin_story": "Geëvolueerd uit de gebakken rijst van Chinese immigranten, maar aangepast aan de Thaise smaak met lichtere kruiding en verse bijgerechten. Werd populair als manier om overgebleven rijst te gebruiken in Thaise huishoudens.",
+        "cultural_importance": "Khao Pad is de alledaagse held van Thailand — overal te vinden van straatkarren tot hotelontbijtbuffetten. Het vertegenwoordigt Thaise praktischheid en het vermogen om iets heerlijks te maken van eenvoudige ingrediënten.",
+        "traditional_occasions": [
+          "Snel ontbijt",
+          "Laat-avond straatvoedsel",
+          "Kliekjestransformatie",
+          "Favoriete maaltijd van kinderen"
+        ]
+      },
+      "variations": [
+        {
+          "name": "Khao Pad Poo",
+          "description": "Gebakken rijst met krab — de luxeversie"
+        },
+        {
+          "name": "Khao Pad American",
+          "description": "Met ketchup, hotdogs en rozijnen — Thaise interpretatie van 'Amerikaans' eten"
+        },
+        {
+          "name": "Khao Pad Sapparot",
+          "description": "Geserveerd in een ananas met cashewnoten — toeristenfavoriet"
+        }
+      ],
+      "serving_suggestions": {
+        "traditional_accompaniments": [
+          "Jasmijnrijst",
+          "Verse groenten"
+        ],
+        "presentation": "Warm geserveerd in traditionele Thaise stijl",
+        "eating_etiquette": "Gegeten met vork en lepel"
+      },
+      "where_to_find": {
+        "best_restaurants": [
+          "Thip Samai (Bangkok) — Beroemd om pad thai maar ook geweldige gebakken rijst",
+          "Raan Jay Fai (Bangkok) — Krabgebakken rijst die het wachten waard is",
+          "Elke straatverkoper met een goed gebruikte wok"
+        ],
+        "street_food_areas": [
+          "Letterlijk elke straathoek in Thailand",
+          "Nachtmarkten overal",
+          "24-uurszaken bij ziekenhuizen en universiteiten"
+        ]
+      },
+      "translated_at": "2026-03-10T00:00:00.000Z"
+    },
+    "fr": {
+      "enhanced_description": "Khao Pad (Thaise Gebakken Rijst) is het ultieme Thaise comfortfood — de rijst van gisteren omgetoverd tot de voldoening van vandaag. Anders dan Chinese gebakken rijst is de Thaise versie lichter, aromatischer en wordt vaak geserveerd met verse bijgerechten. Elke korrel moet los zijn en licht bedekt met saus, voor de perfecte balans van wok hei en verse smaken.",
+      "detailed_ingredients": [
+        {
+          "name": "Riz au jasmin de la veille",
+          "purpose": "Uitgedroogde rijst bakt beter en klontert niet",
+          "substitutes": [
+            "Verse rijst uitgespreid en afgekoeld",
+            "Elke langkorrelige rijst",
+            "Bloemkoolrijst voor koolhydraatarm"
+          ]
+        },
+        {
+          "name": "Sauce soja légère thaïlandaise",
+          "purpose": "Lichter dan Chinese sojasaus, voegt zout toe zonder kleur",
+          "substitutes": [
+            "Lichte sojasaus",
+            "Verdunde vissaus",
+            "Tamari voor glutenvrij"
+          ]
+        },
+        {
+          "name": "Poivre blanc",
+          "purpose": "Kenmerkende Thaise kruiding die hitte toevoegt zonder kleur",
+          "substitutes": [
+            "Zwarte peper (verandert het uiterlijk)",
+            "Gemalen Sichuanpeper"
+          ]
+        }
+      ],
+      "cooking_method": {
+        "technique": "Bakken op hoog vuur in een wok met goede rijstvoorbereiding",
+        "steps_overview": "Succes hangt af van voorbereiding — de rijst moet droog zijn, de wok heet en de ingrediënten klaar. Alles gaat snel, de rijst wordt als laatste toegevoegd en constant opgegooid om aanbranden te voorkomen terwijl een rokerige smaak ontwikkelt.",
+        "cooking_tips": [
+          "Breek rijstklonten uit elkaar vóór het bakken",
+          "Gebruik de hoogst mogelijke hitte",
+          "Houd de rijst constant in beweging",
+          "Voeg sauzen toe langs de rand van de wok, niet direct op de rijst",
+          "Serveer af met verse komkommer en limoen"
+        ]
+      },
+      "cultural_significance": {
+        "origin_story": "Geëvolueerd uit de gebakken rijst van Chinese immigranten, maar aangepast aan de Thaise smaak met lichtere kruiding en verse bijgerechten. Werd populair als manier om overgebleven rijst te gebruiken in Thaise huishoudens.",
+        "cultural_importance": "Khao Pad is de alledaagse held van Thailand — overal te vinden van straatkarren tot hotelontbijtbuffetten. Het vertegenwoordigt Thaise praktischheid en het vermogen om iets heerlijks te maken van eenvoudige ingrediënten.",
+        "traditional_occasions": [
+          "Snel ontbijt",
+          "Laat-avond straatvoedsel",
+          "Kliekjestransformatie",
+          "Favoriete maaltijd van kinderen"
+        ]
+      },
+      "variations": [
+        {
+          "name": "Khao Pad Poo",
+          "description": "Gebakken rijst met krab — de luxeversie"
+        },
+        {
+          "name": "Khao Pad American",
+          "description": "Met ketchup, hotdogs en rozijnen — Thaise interpretatie van 'Amerikaans' eten"
+        },
+        {
+          "name": "Khao Pad Sapparot",
+          "description": "Geserveerd in een ananas met cashewnoten — toeristenfavoriet"
+        }
+      ],
+      "serving_suggestions": {
+        "traditional_accompaniments": [
+          "Jasmijnrijst",
+          "Verse groenten"
+        ],
+        "presentation": "Warm geserveerd in traditionele Thaise stijl",
+        "eating_etiquette": "Gegeten met vork en lepel"
+      },
+      "where_to_find": {
+        "best_restaurants": [
+          "Thip Samai (Bangkok) — Beroemd om pad thai maar ook geweldige gebakken rijst",
+          "Raan Jay Fai (Bangkok) — Krabgebakken rijst die het wachten waard is",
+          "Elke straatverkoper met een goed gebruikte wok"
+        ],
+        "street_food_areas": [
+          "Letterlijk elke straathoek in Thailand",
+          "Nachtmarkten overal",
+          "24-uurszaken nabij ziekenhuizen en universiteiten"
+        ]
+      },
+      "translated_at": "2026-03-10T00:00:00.000Z"
+    },
+    "de": {
+      "enhanced_description": "Khao Pad (Thaise gebakken rijst) is het ultieme Thaise comfortgerecht — de rijst van gisteren omgetoverd tot de voldoening van vandaag. In tegenstelling tot Chinese gebakken rijst is de Thaise versie lichter, aromatischer en wordt vaak geserveerd met verse bijgerechten. Elk korreltje moet apart liggen en licht bedekt zijn met saus — de perfecte balans tussen wok hei en verse aroma's.",
+      "detailed_ingredients": [
+        {
+          "name": "Einen Tag alter Jasminreis",
+          "purpose": "Gedroogde rijst bakt beter en klontert niet",
+          "substitutes": [
+            "Vers gekookte rijst, uitgespreid en afgekoeld",
+            "Elke langkorrelrijst",
+            "Bloemkoolrijst voor low-carb"
+          ]
+        },
+        {
+          "name": "Thailändische helle Sojasauce",
+          "purpose": "Lichter dan Chinese sojasaus, voegt zout toe zonder kleur toe te voegen",
+          "substitutes": [
+            "Lichte sojasaus",
+            "Aangelengde vissaus",
+            "Tamari voor glutenvrije variant"
+          ]
+        },
+        {
+          "name": "Weißer Pfeffer",
+          "purpose": "Typisch Thais kruid dat pittigheid toevoegt zonder kleur te veranderen",
+          "substitutes": [
+            "Zwarte peper (verandert het uiterlijk)",
+            "Gemalen Szechuan-peper"
+          ]
+        }
+      ],
+      "cooking_method": {
+        "technique": "Bakken op hoge hitte in de wok met juiste rijstbereiding",
+        "steps_overview": "Het succes hangt af van de voorbereiding — de rijst moet droog zijn, de wok heet en de ingrediënten klaar. Alles gaat snel, de rijst wordt als laatste toegevoegd en constant geroerd om aanbranden te voorkomen en tegelijk een rokerig aroma te ontwikkelen.",
+        "cooking_tips": [
+          "Rijstklontjes oplossen voor het bakken",
+          "De hoogste mogelijke hitte gebruiken",
+          "De rijst constant in beweging houden",
+          "Sausen langs de wokrand toevoegen, niet direct op de rijst",
+          "Afwerken met verse komkommer en limoen"
+        ]
+      },
+      "cultural_significance": {
+        "origin_story": "Ontstaan uit de gebakken rijst van Chinese immigranten, maar aangepast aan de Thaise smaak met lichtere kruiding en verse bijgerechten. Werd populair als manier om restjes rijst in Thaise huishoudens te gebruiken.",
+        "cultural_importance": "Khao Pad is de alledaagse held van Thailand — overal te vinden, van straatkarren tot hotelontbijtbuffetten. Het belichaamt de Thaise praktische instelling en het vermogen om uit eenvoudige ingrediënten iets lekkers te toveren.",
+        "traditional_occasions": [
+          "Snel ontbijt",
+          "Late straatmaaltijd",
+          "Restjes-transformatie",
+          "Lievelingsgerecht van kinderen"
+        ]
+      },
+      "variations": [
+        {
+          "name": "Khao Pad Poo",
+          "description": "Gebakken rijst met krab — de luxe variant"
+        },
+        {
+          "name": "Khao Pad American",
+          "description": "Met ketchup, hotdogs en rozijnen — de Thaise interpretatie van 'Amerikaans' eten"
+        },
+        {
+          "name": "Khao Pad Sapparot",
+          "description": "Geserveerd in een ananas met cashewnoten — toeristenfavoriet"
+        }
+      ],
+      "serving_suggestions": {
+        "traditional_accompaniments": [
+          "Jasmijnrijst",
+          "Verse groenten"
+        ],
+        "presentation": "Heet geserveerd in traditionele Thaise stijl",
+        "eating_etiquette": "Genieten met vork en lepel"
+      },
+      "where_to_find": {
+        "best_restaurants": [
+          "Thip Samai (Bangkok) — Beroemd om Pad Thai, maar ook geweldige gebakken rijst",
+          "Raan Jay Fai (Bangkok) — Krab-gebakken rijst die het wachten waard is",
+          "Elke straathandelaar met een goed ingebakken wok"
+        ],
+        "street_food_areas": [
+          "Letterlijk elke straathoek in Thailand",
+          "Nachtmarkten overal",
+          "24-uurszaken in de buurt van ziekenhuizen en universiteiten"
+        ]
+      },
+      "translated_at": "2026-03-10T00:00:00.000Z"
+    },
+    "zh": {
+      "enhanced_description": "Khao Pad (泰式炒饭) is het meest klassieke huishoudgerecht van Thailand — gisteren overgebleven rijst omgetoverd tot voldoening van vandaag. Anders dan Chinese gebakken rijst is de Thaise versie frisser, aromatischer en meestal met verse bijgerechten. Elke rijstkorrel moet apart liggen, licht bedekt met saus, voor de perfecte balans van wok hei en verse smaken.",
+      "detailed_ingredients": [
+        {
+          "name": "隔夜茉莉香米",
+          "purpose": "Gedroogde rijst bakt beter en klontert niet",
+          "substitutes": [
+            "Vers gekookte rijst uitgespreid en afgekoeld",
+            "Elke langkorrelrijst",
+            "Bloemkoolrijst (low-carb alternatief)"
+          ]
+        },
+        {
+          "name": "泰式淡酱油",
+          "purpose": "Lichter dan Chinese sojasaus, voegt zout toe zonder kleur te verdiepen",
+          "substitutes": [
+            "Lichte sojasaus",
+            "Aangelengde vissaus",
+            "Glutenvrije sojasaus"
+          ]
+        },
+        {
+          "name": "白胡椒",
+          "purpose": "Uniek Thais kruid dat pittigheid toevoegt zonder kleur te veranderen",
+          "substitutes": [
+            "Zwarte peper (verandert het uiterlijk)",
+            "Gemalen Szechuan-peper"
+          ]
+        }
+      ],
+      "cooking_method": {
+        "technique": "Bakken op hoge hitte in de wok met juiste rijstbereiding",
+        "steps_overview": "Succes hangt af van de voorbereiding — rijst moet droog zijn, wok heet, ingrediënten klaar. Alles gaat snel, rijst als laatste toevoegen en constant roeren om aanbranden te voorkomen en rokerig aroma te ontwikkelen.",
+        "cooking_tips": [
+          "Rijstklontjes oplossen voor het bakken",
+          "Maximale hitte gebruiken",
+          "Rijst constant in beweging houden",
+          "Sausen langs de wokrand toevoegen, niet direct op de rijst",
+          "Afwerken met verse komkommer en limoen"
+        ]
+      },
+      "cultural_significance": {
+        "origin_story": "Ontstaan uit gebakken rijst van Chinese immigranten, maar aangepast aan Thaise smaak met lichtere kruiding en verse bijgerechten. Populair geworden als manier om restjes rijst in Thaise huishoudens te gebruiken.",
+        "cultural_importance": "Khao Pad is de alledaagse held van Thailand — van straatkarren tot hotelontbijtbuffetten, overal te vinden. Het vertegenwoordigt de praktische Thaise geest en het vermogen om uit eenvoudige ingrediënten iets lekkers te maken.",
+        "traditional_occasions": [
+          "Snel ontbijt",
+          "Late straatmaaltijd",
+          "Restjes-transformatie",
+          "Lievelingsgerecht van kinderen"
+        ]
+      },
+      "variations": [
+        {
+          "name": "Khao Pad Poo",
+          "description": "Krab-gebakken rijst — luxe versie"
+        },
+        {
+          "name": "Khao Pad American",
+          "description": "Met ketchup, hotdogs en rozijnen — Thaise interpretatie van 'Amerikaans' eten"
+        },
+        {
+          "name": "Khao Pad Sapparot",
+          "description": "Geserveerd in een ananas met cashewnoten — toeristenfavoriet"
+        }
+      ],
+      "serving_suggestions": {
+        "traditional_accompaniments": [
+          "Jasmijnrijst",
+          "Verse groenten"
+        ],
+        "presentation": "Heet geserveerd in traditionele Thaise stijl",
+        "eating_etiquette": "Eten met vork en lepel"
+      },
+      "where_to_find": {
+        "best_restaurants": [
+          "Thip Samai (Bangkok) — Beroemd om Thaise gebakken noedels, maar gebakken rijst is ook geweldig",
+          "Raan Jay Fai (Bangkok) — Krab-gebakken rijst die het wachten waard is",
+          "Elke straathandelaar met een goed ingebakken wok"
+        ],
+        "street_food_areas": [
+          "Elke straathoek in Thailand",
+          "Nachtmarkten overal",
+          "24-uursrestaurants nabij ziekenhuizen en universiteiten"
+        ]
+      },
+      "translated_at": "2026-03-11T00:00:00.000Z"
+    },
+    "ru": {
+      "enhanced_description": "Khao Pad (тайский жареный рис) — это главное тайское comfortgerecht: вчерашний рис, превращённый в сегодняшнее удовольствие. В отличие от китайского жареного риса, тайская версия легче, ароматнее и часто подаётся со свежими гарнирами. Каждое зёрнышко должно быть отдельным и слегка покрытым соусом — идеальный баланс вок хей и свежих вкусов.",
+      "detailed_ingredients": [
+        {
+          "name": "Вчерашний жасминовый рис",
+          "purpose": "Gedroogde rijst bakt beter en plakt niet aan elkaar",
+          "substitutes": [
+            "Vers gekookte rijst, uitgespreid en afgekoeld",
+            "Elke langkorrelrijst",
+            "Rijst van bloemkool voor low-carb versie"
+          ]
+        },
+        {
+          "name": "Тайский светлый соевый соус",
+          "purpose": "Lichter dan Chinese sojasaus, voegt zout toe zonder kleur",
+          "substitutes": [
+            "Lichte sojasaus",
+            "Aangelengde vissaus",
+            "Tamari voor glutenvrije versie"
+          ]
+        },
+        {
+          "name": "Белый перец",
+          "purpose": "Kenmerkend Thais kruid dat pittigheid toevoegt zonder kleur te veranderen",
+          "substitutes": [
+            "Zwarte peper (verandert het uiterlijk)",
+            "Gemalen Szechuan-peper"
+          ]
+        }
+      ],
+      "cooking_method": {
+        "technique": "Bakken in wok op hoge hitte met juiste rijstbereiding",
+        "steps_overview": "Succes hangt af van voorbereiding — rijst droog, wok heet, ingrediënten klaar. Alles snel: rijst als laatste, constant roeren om plakken te voorkomen en rokerig aroma te krijgen.",
+        "cooking_tips": [
+          "Rijstklontjes breken voor het bakken",
+          "Maximale hitte gebruiken",
+          "Rijst constant roeren",
+          "Sausen langs wokrand toevoegen, niet direct op rijst",
+          "Afwerken met verse komkommer en limoen"
+        ]
+      },
+      "cultural_significance": {
+        "origin_story": "Ontstaan uit gebakken rijst van Chinese immigranten, aangepast aan Thaise smaken met lichtere kruiden en verse garnituren. Populair als manier om restjes rijst in Thaise families te gebruiken.",
+        "cultural_importance": "Khao Pad is de alledaagse held van Thailand: overal te vinden — van straatkarren tot hotelontbijten. Het belichaamt de Thaise praktische aanpak en het vermogen om uit eenvoudige ingrediënten iets lekkers te maken.",
+        "traditional_occasions": [
+          "Snel ontbijt",
+          "Late nachtsnack op straat",
+          "Restjes omtoveren tot meesterwerk",
+          "Lievelingsgerecht van kinderen"
+        ]
+      },
+      "variations": [
+        {
+          "name": "Khao Pad Poo",
+          "description": "Gebakken rijst met krab — luxe versie"
+        },
+        {
+          "name": "Khao Pad American",
+          "description": "Met ketchup, worstjes en rozijnen — Thaise interpretatie van 'Amerikaanse' eten"
+        },
+        {
+          "name": "Khao Pad Sapparot",
+          "description": "Geserveerd in ananas met cashewnoten — favoriet van toeristen"
+        }
+      ],
+      "serving_suggestions": {
+        "traditional_accompaniments": [
+          "Jasmijnrijst",
+          "Verse groenten"
+        ],
+        "presentation": "Heet geserveerd in traditionele Thaise stijl",
+        "eating_etiquette": "Eten met vork en lepel"
+      },
+      "where_to_find": {
+        "best_restaurants": [
+          "Thip Samai (Bangkok) — beroemd om pad thai, maar gebakken rijst is ook uitstekend",
+          "Raan Jay Fai (Bangkok) — gebakken rijst met krab, waard om te wachten",
+          "Elke straathandelaar met een goed ingebakken wok"
+        ],
+        "street_food_areas": [
+          "Letterlijk op elke hoek in Thailand",
+          "Nachtmarkten overal",
+          "24-uurszaken nabij ziekenhuizen en universiteiten"
+        ]
+      },
+      "translated_at": "2026-03-11T00:00:00.000Z"
+    },
+    "ko": {
+      "enhanced_description": "Khao Pad (태국 볶음밥)은 태국의 궁극적인 소울 푸드입니다 — 전날 남은 밥을 오늘의 만족으로 변신시키는 마법의 요리입니다. 중국식 볶음밥과 달리 태국 버전은 더 가볍고, 더 향긋하며, 신선한 곁들임과 함께 제공됩니다. 한 알 한 알이 분리되어 소스에 가볍게 코팅되어야 하며, 웍헤이(웍의 숨결)와 신선한 풍미의 완벽한 균형을 이루는 것이 핵심입니다.",
+      "detailed_ingredients": [
+        {
+          "name": "전날 남은 재스민 쌀밥",
+          "purpose": "Gedroogde rijst bakt beter en klontert niet — vers gekookte rijst wordt kleverig",
+          "substitutes": [
+            "Vers gekookte rijst uitgespreid en afgekoeld",
+            "Elke langkorrelrijst",
+            "Bloemkoolrijst (voor low-carb)"
+          ]
+        },
+        {
+          "name": "태국 연간장 (씨유카오)",
+          "purpose": "Lichter dan Chinese sojasaus, voegt zout toe zonder kleurverandering",
+          "substitutes": [
+            "Lichte sojasaus",
+            "Aangelengde vissaus",
+            "Tamari (voor glutenvrij)"
+          ]
+        },
+        {
+          "name": "흰후추",
+          "purpose": "Kenmerkend Thais kruid dat subtiele pittigheid toevoegt zonder kleurverandering",
+          "substitutes": [
+            "Zwarte peper (verandert de kleur)",
+            "Szechuan-peperpoeder"
+          ]
+        }
+      ],
+      "cooking_method": {
+        "technique": "Hoge hitte wok-bakken met juiste rijstbereiding",
+        "steps_overview": "Het succes ligt in de voorbereiding — rijst moet droog zijn, wok heet, ingrediënten klaar. Alles gaat snel. Rijst als laatste toevoegen en constant roeren om aanbranden te voorkomen en wok hei te creëren.",
+        "cooking_tips": [
+          "Rijstklontjes breken voor het bakken",
+          "Maximale hitte gebruiken",
+          "Rijst constant in beweging houden",
+          "Sausen langs de wokrand gieten, niet direct op de rijst",
+          "Afwerken met verse komkommer en limoen"
+        ]
+      },
+      "cultural_significance": {
+        "origin_story": "Ontstaan uit Chinese immigranten' gebakken rijst, maar aangepast aan Thaise stijl met lichtere kruiden en verse bijgerechten. Populair geworden als manier om restjes rijst in Thaise huishoudens te gebruiken.",
+        "cultural_importance": "Khao Pad is de alledaagse held van Thailand — van straatkarren tot hotelontbijtbuffetten, overal te vinden. Het vertegenwoordigt de praktische Thaise mentaliteit en het vermogen om uit eenvoudige ingrediënten iets lekkers te maken.",
+        "traditional_occasions": [
+          "Snel ontbijt",
+          "Nachtsnack op straat",
+          "Restjes-transformatie",
+          "Populair bij kinderen"
+        ]
+      },
+      "variations": [
+        {
+          "name": "카오팟 뿌 (꽃게 볶음밥)",
+          "description": "Met krabvlees — luxe versie, signatuur van Raan Jay Fai (Bangkok)."
+        },
+        {
+          "name": "카오팟 아메리칸",
+          "description": "Met ketchup, hotdogs en rozijnen — Thaise interpretatie van 'Amerikaans' eten, uniek Thais menu."
+        },
+        {
+          "name": "카오팟 쌉빠롯 (파인애플 볶음밥)",
+          "description": "In ananas met cashewnoten — populair bij toeristen."
+        }
+      ],
+      "serving_suggestions": {
+        "traditional_accompaniments": [
+          "Kommersnippers",
+          "Limoenpartjes",
+          "Gebakken ei (kai dao)",
+          "Chili-vissaus (prik nam pla)",
+          "Rauwe ui snippers"
+        ],
+        "presentation": "Gebakken rijst op bord serveren met komkommer, limoen en gebakken ei ernaast",
+        "eating_etiquette": "Eten met vork en lepel. Limoen uitknijpen en prik nam pla (chili-vissaus) voor smaakaanpassing."
+      },
+      "where_to_find": {
+        "best_restaurants": [
+          "Thip Samai (Bangkok) — Beroemd om Pad Thai, maar de fried rice is ook uitstekend",
+          "Raan Jay Fai (Bangkok) — Bloemkoolfried rice die het wachten waard is",
+          "Elke straatenkverkoper met een goed ingebroken wok"
+        ],
+        "street_food_areas": [
+          "Letterlijk elke straathoek in heel Thailand",
+          "Nachtmarkten overal",
+          "24-uurs eettentjes bij ziekenhuizen en universiteiten"
+        ]
+      },
+      "translated_at": "2026-03-14T00:00:00.000Z"
+    },
+    "th": {
+      "enhanced_description": "Khao Pad Thai is een eenvoudig maar heerlijk eenpersoonsgerecht. Jasmijnrijst gebakken met sojasaus, knoflook, ei en verse groenten. Het geurige aroma komt van de hoge hitte in de wok. Het is een gerecht dat in elk Thais huishouden wordt gemaakt.",
+      "detailed_ingredients": [
+        {
+          "name": "Day-old Jasmine Rice",
+          "purpose": "Gedroogde rijst bakt beter en klontert niet",
+          "substitutes": [
+            "Verse rijst uitgespreid en afgekoeld",
+            "Elke langkorrelige rijst",
+            "Bloemkoolrijst voor low-carb"
+          ]
+        },
+        {
+          "name": "Thai Thin Soy Sauce",
+          "purpose": "Lichter dan Chinese sojasaus, voegt zout toe zonder kleur",
+          "substitutes": [
+            "Lichte sojasaus",
+            "Vis sauce verdund",
+            "Tamari voor glutenvrij"
+          ]
+        },
+        {
+          "name": "White Pepper",
+          "purpose": "Kenmerkende Thaise smaakmaker die hitte toevoegt zonder kleur",
+          "substitutes": [
+            "Zwarte peper (verandert het uiterlijk)",
+            "Gemalen Szechuanpeper"
+          ]
+        }
+      ],
+      "cooking_method": {
+        "technique": "Hoge hitte wok bakken met juiste rijstbereiding",
+        "steps_overview": "Succes hangt af van de voorbereiding - rijst moet droog zijn, wok heet, en ingrediënten klaar. Alles gebeurt snel, met rijst als laatste toegevoegd en constant geroerd om plakken te voorkomen terwijl rokerige smaak ontstaat.",
+        "cooking_tips": [
+          "Rijstklontjes breken voor het koken",
+          "Gebruik de hoogste hitte mogelijk",
+          "Hou de rijst constant in beweging",
+          "Voeg sauzen toe langs de rand van de wok, niet direct op de rijst",
+          "Afwerken met verse komkommer en limoen"
+        ]
+      },
+      "cultural_significance": {
+        "origin_story": "Geëvolueerd uit fried rice van Chinese immigranten maar aangepast aan Thaise smaken met lichtere kruiden en verse bijgerechten. Populair geworden als manier om restrijst te gebruiken in Thaise huishoudens.",
+        "cultural_importance": "Khao Pad is de alledaagse held van Thailand - te vinden van straatkarren tot hotelontbijtbuffetten. Het vertegenwoordigt de Thaise praktische aanpak en het vermogen om iets lekkers te maken van eenvoudige ingrediënten.",
+        "traditional_occasions": [
+          "Snelle ontbijtoptie",
+          "Late-night street food",
+          "Transformatie van restjes",
+          "Lievelingsmaaltijd van kinderen"
+        ]
+      },
+      "variations": [
+        {
+          "name": "Khao Pad Poo",
+          "description": "Krab fried rice - de luxe versie"
+        },
+        {
+          "name": "Khao Pad American",
+          "description": "Met ketchup, hotdogs en rozijnen - Thaise interpretatie van 'Amerikaans' eten"
+        },
+        {
+          "name": "Khao Pad Sapparot",
+          "description": "Geserveerd in een ananas met cashewnoten - toeristenfavoriet"
+        }
+      ],
+      "serving_suggestions": {
+        "traditional_accompaniments": [
+          "Jasmijnrijst",
+          "Verse groenten"
+        ],
+        "presentation": "Geserveerd heet op de traditionele Thaise manier",
+        "eating_etiquette": "Eet met vork en lepel"
+      },
+      "where_to_find": {
+        "best_restaurants": [
+          "Thip Samai (Bangkok) - Beroemd om Pad Thai maar geweldige fried rice",
+          "Raan Jay Fai (Bangkok) - Krab fried rice die het wachten waard is",
+          "Elke straatenkverkoper met een goed ingebroken wok"
+        ],
+        "street_food_areas": [
+          "Letterlijk elke straathoek in Thailand",
+          "Nachtmarkten overal",
+          "24-uurs plekken bij ziekenhuizen en universiteiten"
+        ],
+        "price_ranges": {
+          "street_food": "40-60 THB (€1,10-€1,65)",
+          "restaurant": "80-150 THB (€2,20-€4,15)",
+          "upscale": "200-500 THB (€5,50-€13,80) voor de krabversie"
+        }
+      },
+      "translated_at": "2026-03-14T00:00:00.000Z"
+    },
+    "ja": {
+      "enhanced_description": "Khao Pad (Thaise Fried Rice) is het ultieme comfortfood van Thailand. Het verandert rijst van gisteren in voldoening van vandaag. Ontwikkeld uit fried rice van Chinese immigranten, maar aangepast aan Thaise smaken met lichtere aroma's en vaak geserveerd met verse bijgerechten. De rijstkorrels zijn los en licht gecoat met saus, wat een perfecte balans creëert van wokaroma en verse smaken.",
+      "detailed_ingredients": [
+        {
+          "name": "前日分のジャスミンライス",
+          "purpose": "Omdat het droog is, bakt het makkelijker en klontert het minder",
+          "substitutes": [
+            "Afgekoelde en uitgespreide rijst",
+            "Langkorrelige rijst (elke soort langkorrelige rijst)",
+            "Bloemkoolrijst voor laag-koolhydraat"
+          ]
+        },
+        {
+          "name": "タイ薄口しょうゆ",
+          "purpose": "Lichter van kleur dan Chinese sojasaus, voegt zout toe zonder te kleuren",
+          "substitutes": [
+            "Lichte sojasaus",
+            "Verdunde vis sauce",
+            "Tamari voor glutenvrij"
+          ]
+        },
+        {
+          "name": "白胡椒",
+          "purpose": "Unieke Thaise specerij die hitte toevoegt zonder kleur",
+          "substitutes": [
+            "Zwarte peper (verandert het uiterlijk)",
+            "Gemalen Szechuanpeper"
+          ]
+        }
+      ],
+      "cooking_method": {
+        "technique": "Fried rice in een hete wok op hoge temperatuur",
+        "steps_overview": "Voorbereiding is de sleutel tot succes. Rijst droog maken, wok heet maken, alle ingrediënten voorbereiden. Alles gaat snel, rijst als laatste toevoegen en constant roeren om plakken te voorkomen en wokaroma te ontwikkelen.",
+        "cooking_tips": [
+          "Rijstklontjes losmaken voor het bakken",
+          "Gebruik de hoogste mogelijke hitte",
+          "Hou de rijst constant in beweging",
+          "Sausen niet direct op de rijst gieten, maar langs de wokrand toevoegen",
+          "Afwerken met komkommer en limoen"
+        ]
+      },
+      "cultural_significance": {
+        "origin_story": "Ontwikkeld uit fried rice van Chinese immigranten, maar aangepast aan Thaise smaken met lichtere aroma's en verse bijgerechten. Populair geworden als manier om restrijst te gebruiken in Thaise huishoudens.",
+        "cultural_importance": "Khao Pad is de dagelijkse held van Thailand. Van straatkraampjes tot hotelontbijtbuffetten, overal te vinden, en het symboliseert de Thaise praktische manier om lekkers te maken van eenvoudige ingrediënten.",
+        "traditional_occasions": [
+          "Snelle ontbijtoptie",
+          "Late-night street food",
+          "Hergebruik van restrijst",
+          "Populair bij kinderen maaltijd"
+        ]
+      },
+      "variations": [
+        {
+          "name": "Khao Pad Poo（蟹炒飯）",
+          "description": "Krab fried rice - luxe versie"
+        },
+        {
+          "name": "Khao Pad American",
+          "description": "Met ketchup, hotdogs en rozijnen - Thaise interpretatie van 'Amerikaans' eten"
+        },
+        {
+          "name": "Khao Pad Sapparot",
+          "description": "Geserveerd in een ananas met cashewnoten - favoriet bij toeristen"
+        }
+      ],
+      "serving_suggestions": {
+        "traditional_accompaniments": [
+          "Jasmijnrijst",
+          "Verse groenten"
+        ],
+        "presentation": "Geserveerd heet in traditionele Thaise stijl",
+        "eating_etiquette": "Eten met vork en lepel"
+      },
+      "where_to_find": {
+        "best_restaurants": [
+          "Thip Samai (Bangkok) - Beroemd om Pad Thai, maar fried rice is ook geweldig",
+          "Raan Jay Fai (Bangkok) - Krab fried rice die het wachten waard is",
+          "Straatverkoper met een ingebroken wok"
+        ],
+        "street_food_areas": [
+          "Overal op de straten van Thailand",
+          "Nachtmarkten overal",
+          "24-uurs spots bij ziekenhuizen en universiteiten"
+        ],
+        "price_ranges": {
+          "street_food": "Straateten: 40-60 THB (€1,10-€1,65)",
+          "restaurant": "Restaurants: 80-150 THB (€2,20-€4,15)",
+          "upscale": "Krabversie: 200-500 THB (€5,50-€13,80)"
+        }
+      },
+      "translated_at": "2026-03-14T00:00:00.000Z"
+    }
+  }
+}

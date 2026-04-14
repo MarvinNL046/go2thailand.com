@@ -1,0 +1,975 @@
+{
+  "id": 13,
+  "slug": "khao-soi",
+  "name": {
+    "en": "Khao Soi",
+    "nl": "Khao Soi",
+    "thai": "ข้าวซอย"
+  },
+  "category": "soep",
+  "region": "noordelijk",
+  "spice_level": "gemiddeld",
+  "description": {
+    "en": "Creamy coconut curry noodle soup with crispy noodles on top",
+    "nl": "Romige kokoscurry-noedelsoep met krokante noedels bovenop"
+  },
+  "ingredients": [
+    "eiernoodles",
+    "kokosmelk",
+    "currypasta",
+    "kip",
+    "sjalotten",
+    "limoen",
+    "ingelegde mosterd"
+  ],
+  "allergens": [],
+  "dietary": [],
+  "image": "/images/food/khao-soi.webp",
+  "preparation_time": "35 minuten",
+  "difficulty": "gemiddeld",
+  "price_range": "budget",
+  "seo": {
+    "metaTitle": {
+      "en": "Khao Soi Recipe | Authentic Thai soup",
+      "nl": "Khao Soi Recept | Authentieke Thaise soup"
+    },
+    "metaDescription": {
+      "en": "Learn about Khao Soi (ข้าวซอย) - Creamy coconut curry noodle soup with crispy noodles on top...",
+      "nl": "Leer over Khao Soi (ข้าวซอย) - Romige kokoscurry-noedelsoep met krokante noedels bovenop..."
+    }
+  },
+  "tags": [
+    "thais-eten",
+    "Thailand",
+    "soep",
+    "noordelijk",
+    "gemiddeld",
+    "gemiddeld",
+    "budget",
+    "eier-noodles",
+    "kokos-melk",
+    "curry-pasta"
+  ],
+  "cooking": {
+    "preparation_time": "35 minuten",
+    "difficulty": "gemiddeld",
+    "spice_level": "gemiddeld",
+    "serves": "2-4 personen"
+  },
+  "nutrition": {
+    "allergens": [],
+    "dietary": [],
+    "price_range": "budget"
+  },
+  "enhanced_description": "Khao Soi is een geliefde zielsverwarmende soep uit Noord-Thailand met een aangename pittige kick. Romige kokoscurry-noedelsoep met krokante noedels bovenop. Dit recept met gemiddelde moeilijkheidsgraad vergt ongeveer 35 minuten bereidingstijd en vertegenwoordigt de authentieke smaken van de Noord-Thaise keuken, gekenmerkt door mildere smaken, kleefrijst en kruiden. De combinatie van eiernoodles, kokosmelk en currypasta creëert een harmonieuze mix die dit gerecht tot een favoriet heeft gemaakt onder zowel locals als bezoekers. Perfect voor wie op zoek is naar betaalbare authentieke Thaise keuken.",
+  "detailed_ingredients": [
+    {
+      "name": "Egg noodles",
+      "purpose": "Essentieel voor de authentieke Khao Soi smaak",
+      "substitutes": [
+        "Verse eiernoodles",
+        "Gedroogde eiernoodles",
+        "eiernoodles pasta"
+      ]
+    },
+    {
+      "name": "Coconut milk",
+      "purpose": "Essentieel voor de authentieke Khao Soi smaak",
+      "substitutes": [
+        "Verse kokosmelk",
+        "Gedroogde kokosmelk",
+        "kokosmelk pasta"
+      ]
+    },
+    {
+      "name": "Curry paste",
+      "purpose": "Essentieel voor de authentieke Khao Soi smaak",
+      "substitutes": [
+        "Verse currypasta",
+        "Gedroogde currypasta",
+        "currypasta pasta"
+      ]
+    },
+    {
+      "name": "Chicken",
+      "purpose": "Essentieel voor de authentieke Khao Soi smaak",
+      "substitutes": [
+        "Verse kip",
+        "Gedroogde kip",
+        "kip pasta"
+      ]
+    }
+  ],
+  "cooking_method": {
+    "technique": "Sudderen en smaken opbouwen",
+    "steps_overview": "Het bereiden van Khao Soi vereist aandacht voor detail en goede timing. De sleutel is het balanceren van alle smaken terwijl de textuur van elk ingrediënt behouden blijft. Traditionele methoden die van generatie op generatie zijn doorgegeven, garanderen een authentieke smaak.",
+    "cooking_tips": [
+      "Gebruik verse eiernoodles voor het beste resultaat",
+      "Pas het pittigheidsgehalte aan naar je voorkeur",
+      "Kook niet te lang om de textuur te behouden",
+      "Proef en pas de kruiding aan voor het serveren"
+    ]
+  },
+  "cultural_significance": {
+    "origin_story": "Khao Soi is al generaties lang een vast onderdeel van de Noord-Thaise keuken en weerspiegelt de unieke culinaire tradities en lokale ingrediënten van de regio.",
+    "cultural_importance": "Dit gerecht vertegenwoordigt het hart van de Noord-Thaise kookkunst en toont de balans en harmonie waarmee de Thaise keuken wereldwijd beroemd is.",
+    "traditional_occasions": [
+      "Familiebijeenkomsten",
+      "Lokale festivals",
+      "Straatvoedselmarkten",
+      "Bijzondere vieringen"
+    ]
+  },
+  "variations": [
+    {
+      "name": "Khao Soi Classic",
+      "description": "De traditionele versie zoals geserveerd in lokale huishoudens"
+    },
+    {
+      "name": "Khao Soi Modern",
+      "description": "Hedendaagse variant met premium ingrediënten"
+    },
+    {
+      "name": "Vegetarian Khao Soi",
+      "description": "Plantaardige versie met tofu of paddenstoelen"
+    }
+  ],
+  "serving_suggestions": {
+    "traditional_accompaniments": [
+      "Jasmijnrijst",
+      "Verse groenten",
+      "Thaise kruiden"
+    ],
+    "presentation": "Geserveerd in een kom in traditionele Thaise stijl",
+    "eating_etiquette": "Genoten met vork en lepel volgens Thais gebruik"
+  },
+  "nutritional_info": {
+    "calories_per_serving": "300-500 calorieën",
+    "health_benefits": [
+      "Rijk aan Thaise kruiden en specerijen",
+      "Bron van eiwitten en groenten",
+      "Gebalanceerde smaken en voedingsstoffen"
+    ],
+    "dietary_notes": []
+  },
+  "where_to_find": {
+    "best_restaurants": [
+      "Lokale Noord-Thaise restaurants",
+      "Authentieke straatvoedselkramen",
+      "Traditionele markten",
+      "Familiegerunde eetgelegenheden"
+    ],
+    "street_food_areas": [
+      "Nachtmarkten",
+      "Ochtendverse markten",
+      "Lokale food courts"
+    ],
+    "price_ranges": {
+      "street_vendor": "30-50 THB",
+      "market_stall": "40-60 THB",
+      "restaurant": "60-100 THB"
+    }
+  },
+  "translations": {
+    "nl": {
+      "enhanced_description": "Khao Soi is een geliefde zielsverwarmende soep uit Noord-Thailand met een aangename pittige kick. Romige kokoscurry-noedelsoep met krokante noedels bovenop. Dit recept met gemiddelde moeilijkheidsgraad vergt ongeveer 35 minuten bereidingstijd en vertegenwoordigt de authentieke smaken van de Noord-Thaise keuken, gekenmerkt door mildere smaken, kleefrijst en kruiden. De combinatie van eiernoodles, kokosmelk en currypasta creëert een harmonieuze mix die dit gerecht tot een favoriet heeft gemaakt onder zowel locals als bezoekers. Perfect voor wie op zoek is naar betaalbare authentieke Thaise keuken.",
+      "detailed_ingredients": [
+        {
+          "name": "Eiernoodles",
+          "purpose": "Essentieel voor de authentieke Khao Soi smaak",
+          "substitutes": [
+            "Verse eiernoodles",
+            "Gedroogde eiernoodles",
+            "Rijstnoedels"
+          ]
+        },
+        {
+          "name": "Kokosmelk",
+          "purpose": "Essentieel voor de authentieke Khao Soi smaak",
+          "substitutes": [
+            "Verse kokosmelk",
+            "Kokosmelkpoeder",
+            "Kokoscrème"
+          ]
+        },
+        {
+          "name": "Currypasta",
+          "purpose": "Essentieel voor de authentieke Khao Soi smaak",
+          "substitutes": [
+            "Verse currypasta",
+            "Kant-en-klare currypasta",
+            "Zelfgemaakte currypasta"
+          ]
+        },
+        {
+          "name": "Kip",
+          "purpose": "Essentieel voor de authentieke Khao Soi smaak",
+          "substitutes": [
+            "Verse kip",
+            "Kippendijen",
+            "Kipfilet"
+          ]
+        }
+      ],
+      "cooking_method": {
+        "technique": "Sudderen en smaken opbouwen",
+        "steps_overview": "Het bereiden van Khao Soi vereist aandacht voor detail en goede timing. De sleutel is het balanceren van alle smaken terwijl de textuur van elk ingrediënt behouden blijft. Traditionele methoden die van generatie op generatie zijn doorgegeven, garanderen een authentieke smaak.",
+        "cooking_tips": [
+          "Gebruik verse eiernoodles voor het beste resultaat",
+          "Pas het pittigheidsgehalte aan naar je voorkeur",
+          "Kook niet te lang om de textuur te behouden",
+          "Proef en pas de kruiding aan voor het serveren"
+        ]
+      },
+      "cultural_significance": {
+        "origin_story": "Khao Soi is al generaties lang een vast onderdeel van de Noord-Thaise keuken en weerspiegelt de unieke culinaire tradities en lokale ingrediënten van de regio.",
+        "cultural_importance": "Dit gerecht vertegenwoordigt het hart van de Noord-Thaise kookkunst en toont de balans en harmonie waarmee de Thaise keuken wereldwijd beroemd is.",
+        "traditional_occasions": [
+          "Familiebijeenkomsten",
+          "Lokale festivals",
+          "Straatvoedselmarkten",
+          "Bijzondere vieringen"
+        ]
+      },
+      "variations": [
+        {
+          "name": "Khao Soi Klassiek",
+          "description": "De traditionele versie zoals geserveerd in lokale huishoudens"
+        },
+        {
+          "name": "Khao Soi Modern",
+          "description": "Hedendaagse variant met premium ingrediënten"
+        },
+        {
+          "name": "Vegetarische Khao Soi",
+          "description": "Plantaardige versie met tofu of paddenstoelen"
+        }
+      ],
+      "serving_suggestions": {
+        "traditional_accompaniments": [
+          "Krokante noedels",
+          "Verse groenten",
+          "Thaise kruiden"
+        ],
+        "presentation": "Geserveerd in een kom in traditionele Noord-Thaise stijl",
+        "eating_etiquette": "Gegeten met vork en lepel volgens Thais gebruik"
+      },
+      "where_to_find": {
+        "best_restaurants": [
+          "Lokale Noord-Thaise restaurants",
+          "Authentieke straatvoedselkramen",
+          "Traditionele markten",
+          "Familiebedrijfjes"
+        ],
+        "street_food_areas": [
+          "Nachtmarkten",
+          "Ochtendverse markten",
+          "Lokale food courts"
+        ]
+      },
+      "translated_at": "2026-03-10T00:00:00.000Z"
+    },
+    "fr": {
+      "enhanced_description": "Khao Soi is een geliefde zielsverwarmende soep uit Noord-Thailand met een aangename pittige kick. Romige kokoscurry-noedelsoep met krokante noedels bovenop. Dit recept met gemiddelde moeilijkheidsgraad vergt ongeveer 35 minuten bereidingstijd en vertegenwoordigt de authentieke smaken van de Noord-Thaise keuken, gekenmerkt door mildere smaken, kleefrijst en kruiden. De combinatie van eiernoodles, kokosmelk en currypasta creëert een harmonieuze mix die dit gerecht tot een favoriet heeft gemaakt onder zowel locals als bezoekers. Perfect voor wie op zoek is naar betaalbare authentieke Thaise keuken.",
+      "detailed_ingredients": [
+        {
+          "name": "Nouilles aux œufs",
+          "purpose": "Essentieel voor de authentieke Khao Soi smaak",
+          "substitutes": [
+            "Verse eiernoodles",
+            "Gedroogde eiernoodles",
+            "Rijstnoedels"
+          ]
+        },
+        {
+          "name": "Lait de coco",
+          "purpose": "Essentieel voor de authentieke Khao Soi smaak",
+          "substitutes": [
+            "Verse kokosmelk",
+            "Kokosmelkpoeder",
+            "Kokoscrème"
+          ]
+        },
+        {
+          "name": "Pâte de curry",
+          "purpose": "Essentieel voor de authentieke Khao Soi smaak",
+          "substitutes": [
+            "Verse currypasta",
+            "Kant-en-klare currypasta",
+            "Zelfgemaakte currypasta"
+          ]
+        },
+        {
+          "name": "Poulet",
+          "purpose": "Essentieel voor de authentieke Khao Soi smaak",
+          "substitutes": [
+            "Verse kip",
+            "Kippendijen",
+            "Kipfilet"
+          ]
+        }
+      ],
+      "cooking_method": {
+        "technique": "Sudderen en smaken opbouwen",
+        "steps_overview": "Het bereiden van Khao Soi vereist aandacht voor detail en goede timing. De sleutel is het balanceren van alle smaken terwijl de textuur van elk ingrediënt behouden blijft. Traditionele methoden die van generatie op generatie zijn doorgegeven, garanderen een authentieke smaak.",
+        "cooking_tips": [
+          "Gebruik verse eiernoodles voor het beste resultaat",
+          "Pas het pittigheidsgehalte aan naar je voorkeur",
+          "Kook niet te lang om de textuur te behouden",
+          "Proef en pas de kruiding aan voor het serveren"
+        ]
+      },
+      "cultural_significance": {
+        "origin_story": "Khao Soi is al generaties lang een vast onderdeel van de Noord-Thaise keuken en weerspiegelt de unieke culinaire tradities en lokale ingrediënten van de regio.",
+        "cultural_importance": "Dit gerecht vertegenwoordigt het hart van de Noord-Thaise kookkunst en toont de balans en harmonie waarmee de Thaise keuken wereldwijd beroemd is.",
+        "traditional_occasions": [
+          "Familiebijeenkomsten",
+          "Lokale festivals",
+          "Straatvoedselmarkten",
+          "Bijzondere vieringen"
+        ]
+      },
+      "variations": [
+        {
+          "name": "Khao Soi Classique",
+          "description": "De traditionele versie zoals geserveerd in lokale huishoudens"
+        },
+        {
+          "name": "Khao Soi Moderne",
+          "description": "Moderne versie met premium ingrediënten"
+        },
+        {
+          "name": "Khao Soi Végétarien",
+          "description": "Vegetarische versie met tofu of paddenstoelen"
+        }
+      ],
+      "serving_suggestions": {
+        "traditional_accompaniments": [
+          "Krokante noedels",
+          "Verse groenten",
+          "Thaise kruiden"
+        ],
+        "presentation": "Geserveerd in een kom in de traditionele stijl van Noord-Thailand",
+        "eating_etiquette": "Gegeten met vork en lepel volgens Thaise gewoonte"
+      },
+      "where_to_find": {
+        "best_restaurants": [
+          "Lokale restaurants in Noord-Thailand",
+          "Authentieke straatkraampjes",
+          "Traditionele markten",
+          "Familierestaurants"
+        ],
+        "street_food_areas": [
+          "Nachtmarkten",
+          "Verse ochtendmarkten",
+          "Khao Soi is een populaire, hartverwarmende soep uit Noord-Thailand met een aangename pittigheid. Een romige kokos-curry-noedelssoep met knapperige noedels erbovenop. Dit recept van gemiddelde moeilijkheid vereist ongeveer 35 minuten bereidingstijd en vertegenwoordigt de authentieke smaken van de Noord-Thaise keuken, die zich kenmerkt door mildere smaken, kleefrijst en kruiden. De combinatie van eiernoedels, kokosmelk en currypasta creëert een harmonieuze mix die dit gerecht tot een favoriet heeft gemaakt bij zowel locals als bezoekers. Perfect voor wie betaalbare authentieke Thaise keuken zoekt."
+        ]
+      },
+      "translated_at": "2026-03-10T00:00:00.000Z"
+    },
+    "de": {
+      "enhanced_description": "Onmisbaar voor de authentieke Khao Soi-smaak",
+      "detailed_ingredients": [
+        {
+          "name": "Eiernudeln",
+          "purpose": "Verse eiernoedels",
+          "substitutes": [
+            "Gedroogde eiernoedels",
+            "Rijstnoedels",
+            "Onmisbaar voor de authentieke Khao Soi-smaak"
+          ]
+        },
+        {
+          "name": "Kokosmilch",
+          "purpose": "Verse kokosmelk",
+          "substitutes": [
+            "Kokosmelkpoeder",
+            "Kokoscrème",
+            "Onmisbaar voor de authentieke Khao Soi-smaak"
+          ]
+        },
+        {
+          "name": "Currypaste",
+          "purpose": "Verse currypasta",
+          "substitutes": [
+            "Kant-en-klare currypasta",
+            "Zelfgemaakte currypasta",
+            "Onmisbaar voor de authentieke Khao Soi-smaak"
+          ]
+        },
+        {
+          "name": "Hähnchen",
+          "purpose": "Vers kippenvlees",
+          "substitutes": [
+            "Kippendijen",
+            "Kipfilet",
+            "Laten sudderen en smaken opbouwen"
+          ]
+        }
+      ],
+      "cooking_method": {
+        "technique": "De bereiding van Khao Soi vereist aandacht voor detail en goed timen. De sleutel ligt in het balanceren van alle smaken terwijl de textuur van elke ingrediënt behouden blijft. Traditionele methoden, doorgegeven van generatie op generatie, garanderen een authentieke smaak.",
+        "steps_overview": "Gebruik verse eiernoedels voor het beste resultaat",
+        "cooking_tips": [
+          "Pas de pittigheid aan naar smaak",
+          "Niet te lang koken om de textuur te behouden",
+          "Proef en breng op smaak voor het serveren",
+          "Khao Soi is al generaties lang een vast onderdeel van de Noord-Thaise keuken en weerspiegelt de unieke culinaire tradities en lokale ingrediënten van de regio."
+        ]
+      },
+      "cultural_significance": {
+        "origin_story": "Dit gerecht vertegenwoordigt het hart van de Noord-Thaise kookkunst en toont de balans en harmonie waarvoor de Thaise keuken wereldwijd beroemd is.",
+        "cultural_importance": "Familiebijeenkomsten",
+        "traditional_occasions": [
+          "Lokale feesten",
+          "Straatvoedselmarkten",
+          "Speciale vieringen",
+          "De traditionele versie zoals geserveerd in lokale huishoudens"
+        ]
+      },
+      "variations": [
+        {
+          "name": "Khao Soi Klassisch",
+          "description": "Moderne variant met premium ingrediënten"
+        },
+        {
+          "name": "Khao Soi Modern",
+          "description": "Plantaardige versie met tofu of paddenstoelen"
+        },
+        {
+          "name": "Vegetarisches Khao Soi",
+          "description": "Knapperige noedels"
+        }
+      ],
+      "serving_suggestions": {
+        "traditional_accompaniments": [
+          "Verse groenten",
+          "Thaise kruiden",
+          "Geserveerd in een kom in de traditionele Noord-Thaise stijl"
+        ],
+        "presentation": "Gegeten met vork en lepel volgens Thaise traditie",
+        "eating_etiquette": "Lokale Noord-Thaise restaurants"
+      },
+      "where_to_find": {
+        "best_restaurants": [
+          "Authentieke straatkraampjes",
+          "Traditionele markten",
+          "Familiebedrijven",
+          "Nachtmarkten"
+        ],
+        "street_food_areas": [
+          "Verse ochtendmarkten",
+          "Lokale foodcourts",
+          "Khao Soi is een geliefde hartverwarmende soep uit Noord-Thailand met een aangename pittigheid. Een romige kokos-curry-noedelssoep met knapperige noedels erbovenop. Dit recept van gemiddelde moeilijkheid vereist ongeveer 35 minuten bereidingstijd en vertegenwoordigt de authentieke smaken van de Noord-Thaise keuken, die zich kenmerkt door mildere smaken, kleefrijst en kruiden. De combinatie van eiernoedels, kokosmelk en currypasta creëert een harmonieuze mix die dit gerecht tot een favoriet heeft gemaakt bij zowel locals als bezoekers. Perfect voor wie betaalbare authentieke Thaise keuken zoekt."
+        ]
+      },
+      "translated_at": "2026-03-10T00:00:00.000Z"
+    },
+    "zh": {
+      "enhanced_description": "Essentiële ingrediënt voor de authentieke Khao Soi-smaak",
+      "detailed_ingredients": [
+        {
+          "name": "鸡蛋面",
+          "purpose": "Verse eiernoedels",
+          "substitutes": [
+            "Gedroogde eiernoedels",
+            "Rijstnoedels",
+            "Essentiële ingrediënt voor de authentieke Khao Soi-smaak"
+          ]
+        },
+        {
+          "name": "椰奶",
+          "purpose": "Verse kokosmelk",
+          "substitutes": [
+            "Kokosmelkpoeder",
+            "Kokoscrème",
+            "Essentiële ingrediënt voor de authentieke Khao Soi-smaak"
+          ]
+        },
+        {
+          "name": "咖喱酱",
+          "purpose": "Verse currypasta",
+          "substitutes": [
+            "Kant-en-klare currypasta",
+            "Zelfgemaakte currypasta",
+            "Essentiële ingrediënt voor de authentieke Khao Soi-smaak"
+          ]
+        },
+        {
+          "name": "鸡肉",
+          "purpose": "Vers kippenvlees",
+          "substitutes": [
+            "Kippendijen",
+            "Kipfilet",
+            "Laten sudderen en smaken opbouwen"
+          ]
+        }
+      ],
+      "cooking_method": {
+        "technique": "De bereiding van Khao Soi vereist aandacht voor detail en goed timen. De sleutel ligt in het balanceren van alle smaken terwijl de textuur van elke ingrediënt behouden blijft. Traditionele methoden, doorgegeven van generatie op generatie, garanderen een authentieke smaak.",
+        "steps_overview": "Gebruik verse eiernoedels voor het beste resultaat",
+        "cooking_tips": [
+          "Pas de pittigheid aan naar smaak",
+          "Niet te lang koken om de textuur te behouden",
+          "Proef en breng op smaak voor het serveren",
+          "Khao Soi is al generaties lang een vast onderdeel van de Noord-Thaise keuken en weerspiegelt de unieke culinaire tradities en lokale ingrediënten van de regio."
+        ]
+      },
+      "cultural_significance": {
+        "origin_story": "Dit gerecht vertegenwoordigt het hart van de Noord-Thaise kookkunst en toont de balans en harmonie waarvoor de Thaise keuken wereldwijd beroemd is.",
+        "cultural_importance": "Familiebijeenkomsten",
+        "traditional_occasions": [
+          "Lokale feesten",
+          "Straatvoedselmarkten",
+          "Speciale vieringen",
+          "De traditionele versie zoals geserveerd in lokale huishoudens"
+        ]
+      },
+      "variations": [
+        {
+          "name": "经典Khao Soi",
+          "description": "Moderne variant met premium ingrediënten"
+        },
+        {
+          "name": "创新Khao Soi",
+          "description": "Plantaardige versie met tofu of paddenstoelen"
+        },
+        {
+          "name": "素食Khao Soi",
+          "description": "Knapperige noedels"
+        }
+      ],
+      "serving_suggestions": {
+        "traditional_accompaniments": [
+          "Verse groenten",
+          "Thaise kruiden",
+          "Geserveerd in een kom in de traditionele Noord-Thaise stijl"
+        ],
+        "presentation": "Gegeten met vork en lepel volgens Thaise traditie",
+        "eating_etiquette": "Lokale Noord-Thaise restaurants"
+      },
+      "where_to_find": {
+        "best_restaurants": [
+          "Authentieke straatkraampjes",
+          "Traditionele markten",
+          "Familiebedrijven",
+          "Nachtmarkten"
+        ],
+        "street_food_areas": [
+          "Verse ochtendmarkten",
+          "Lokale foodcourts",
+          "Khao Soi is een geliefde hartverwarmende soep uit Noord-Thailand met een aangename pittigheid. Een romige kokos-curry-noedelssoep met knapperige noedels erbovenop. Dit recept van gemiddelde moeilijkheid vereist ongeveer 35 minuten bereidingstijd en vertegenwoordigt de authentieke smaken van de Noord-Thaise keuken, die zich kenmerkt door mildere smaken, kleefrijst en kruiden. De combinatie van eiernoedels, kokosmelk en currypasta creëert een harmonieuze mix die dit gerecht tot een favoriet heeft gemaakt bij zowel locals als bezoekers. Perfect voor wie betaalbare authentieke Thaise keuken zoekt."
+        ]
+      },
+      "translated_at": "2026-03-11T00:00:00.000Z"
+    },
+    "ru": {
+      "enhanced_description": "Essentiële ingrediënt voor de authentieke Khao Soi-smaak",
+      "detailed_ingredients": [
+        {
+          "name": "Яичная лапша",
+          "purpose": "Verse eiernoedels",
+          "substitutes": [
+            "Gedroogde eiernoedels",
+            "Eiernoedelpasta",
+            "Essentiële ingrediënt voor de authentieke Khao Soi-smaak"
+          ]
+        },
+        {
+          "name": "Кокосовое молоко",
+          "purpose": "Verse kokosmelk",
+          "substitutes": [
+            "Gedroogde kokosmelk",
+            "Kokosmelkpasta",
+            "Essentiële ingrediënt voor de authentieke Khao Soi-smaak"
+          ]
+        },
+        {
+          "name": "Паста карри",
+          "purpose": "Verse currypasta",
+          "substitutes": [
+            "Gedroogde currypasta",
+            "Currypasta-concentraat",
+            "Essentiële ingrediënt voor de authentieke Khao Soi-smaak"
+          ]
+        },
+        {
+          "name": "Курица",
+          "purpose": "Verse kip",
+          "substitutes": [
+            "Gedroogde kip",
+            "Kippenpasta",
+            "Laten sudderen en smaken opbouwen"
+          ]
+        }
+      ],
+      "cooking_method": {
+        "technique": "De bereiding van Khao Soi vereist aandacht voor detail en goed timen. De sleutel ligt in het balanceren van alle smaken terwijl de textuur van elke ingrediënt behouden blijft. Traditionele methoden, doorgegeven van generatie op generatie, garanderen een authentieke smaak.",
+        "steps_overview": "Gebruik verse eiernoedels voor het beste resultaat",
+        "cooking_tips": [
+          "Pas de pittigheid aan naar smaak",
+          "Niet te lang koken om de textuur te behouden",
+          "Proef en breng op smaak voor het serveren",
+          "Khao Soi is al generaties lang een vast onderdeel van de Noord-Thaise keuken en weerspiegelt de unieke culinaire tradities en lokale ingrediënten van de regio."
+        ]
+      },
+      "cultural_significance": {
+        "origin_story": "Dit gerecht vertegenwoordigt het hart van de Noord-Thaise kookkunst en toont de balans en harmonie waarvoor de Thaise keuken wereldwijd beroemd is.",
+        "cultural_importance": "Familiebijeenkomsten",
+        "traditional_occasions": [
+          "Lokale festivals",
+          "Straatvoedselmarkten",
+          "Speciale vieringen",
+          "De traditionele versie zoals geserveerd in lokale huishoudens"
+        ]
+      },
+      "variations": [
+        {
+          "name": "Khao Soi классический",
+          "description": "Moderne interpretatie met premium ingrediënten"
+        },
+        {
+          "name": "Khao Soi современный",
+          "description": "Plantaardige versie met tofu of paddenstoelen"
+        },
+        {
+          "name": "Вегетарианский Khao Soi",
+          "description": "Jasmijnrijst"
+        }
+      ],
+      "serving_suggestions": {
+        "traditional_accompaniments": [
+          "Verse groenten",
+          "Thaise kruiden",
+          "Geserveerd in een kom in traditionele Thaise stijl"
+        ],
+        "presentation": "Gegeten met vork en lepel volgens Thaise gewoonte",
+        "eating_etiquette": "Lokale Noord-Thaise restaurants"
+      },
+      "where_to_find": {
+        "best_restaurants": [
+          "Authentieke straatkraampjes",
+          "Traditionele markten",
+          "Familie-eetgelegenheden",
+          "Nachtmarkten"
+        ],
+        "street_food_areas": [
+          "Verse ochtendmarkten",
+          "Lokale foodcourts",
+          "Khao Soi is een iconisch gerecht uit Chiang Mai in Noord-Thailand, een noedelssoep met romige kokoscurrybouillon, zachte eiernoedels en knapperig gefrituurde noedels erbovenop. Dit recept van gemiddelde moeilijkheid is in ongeveer 35 minuten klaar en biedt een contrast tussen zachte en knapperige texturen in één kom. De romigheid van kokosmelk, de diepe smaak van currypasta en mals gekookte kip worden in balans gebracht met de zure touch van limoen en ingelegde mosterdbladeren. Een must-try als je Chiang Mai bezoekt."
+        ]
+      },
+      "translated_at": "2026-03-11T00:00:00.000Z"
+    },
+    "ko": {
+      "enhanced_description": "Zachte noedels voor in de soep en knapperig gefrituurde toppingnoedels, twee soorten in gebruik",
+      "detailed_ingredients": [
+        {
+          "name": "달걀면 (바미)",
+          "purpose": "Verse eiernoedels",
+          "substitutes": [
+            "Gedroogde eiernoedels",
+            "Gedroogde eiernoedels",
+            "Pho (vervanging)"
+          ]
+        },
+        {
+          "name": "코코넛 밀크",
+          "purpose": "Belangrijk ingrediënt dat de basis vormt van de romige en rijke currybouillon",
+          "substitutes": [
+            "Volle kokosmelk",
+            "Kokoscrème",
+            "Lichte kokosmelk"
+          ]
+        },
+        {
+          "name": "카오소이 커리 페이스트",
+          "purpose": "Belangrijk kruidenmengsel dat de diepe curry-smaak van dit gerecht creëert",
+          "substitutes": [
+            "Kant-en-klare Khao Soi-pasta",
+            "Rode currypasta + kurkuma",
+            "Zelfgemaakte pasta"
+          ]
+        },
+        {
+          "name": "닭고기 (닭다리살)",
+          "purpose": "Hoofdingrediënt dat zachtjes gaart in de currybouillon en smaak toevoegt",
+          "substitutes": [
+            "Kippenbout",
+            "Kipfilet",
+            "Rundvlees (Khao Soi Nuea)"
+          ]
+        }
+      ],
+      "cooking_method": {
+        "technique": "Koken en lagen van smaak opbouwen",
+        "steps_overview": "Om Khao Soi te maken, verwarm je eerst de kokoscrème tot de olie scheidt, voeg dan de currypasta toe om de aroma's vrij te maken. Voeg de kip toe en bak mee, giet vervolgens de rest van de kokosmelk en bouillon erbij en laat sudderen. Kook een deel van de eiernoedels en leg ze in een kom, frituur een deel tot het knapperig is. Giet de currybouillon erover en garneer met gefrituurde noedels, sjalotten, limoen en ingelegde mosterdbladeren om af te maken.",
+        "cooking_tips": [
+          "Verwarm de kokoscrème voldoende tot de olie scheidt voor een diepere curry-smaak",
+          "Een deel van de noedels frituren tot knapperig is essentieel voor Khao Soi — vergeet dat niet",
+          "Gebruik kip met bot voor een diepere bouillon-smaak",
+          "Wees niet zuinig met de garnering (sjalotten, limoen, ingelegde mosterdbladeren) — het voltooit de smaakbalans"
+        ]
+      },
+      "cultural_significance": {
+        "origin_story": "Khao Soi vindt zijn oorsprong in de kooktradities van het noordelijke Lanna-koninkrijk in Thailand, beïnvloed door Myanmar en Laos. Oorspronkelijk een curry-noedelgerecht gebracht door islamitische handelaren, gecombineerd met kokosmelk en lokale specerijen, ontwikkelde het zich tot de unieke Khao Soi van vandaag.",
+        "cultural_importance": "Khao Soi is een representatief gerecht voor de culinaire identiteit van Chiang Mai en Noord-Thailand. Het staat op CNN's lijst van 's werelds beste soepen' en is een must-try voor reizigers in Chiang Mai. Overal in Chiang Mai vind je talloze Khao Soi-specialiteiten, en het zoeken naar de beste is zelf een plezier tijdens je reis.",
+        "traditional_occasions": [
+          "Dagelijkse lunch",
+          "Familiebijeenkomst",
+          "Must-try voor toeristen",
+          "Festivalgerecht"
+        ]
+      },
+      "variations": [
+        {
+          "name": "카오소이 가이 (닭고기)",
+          "description": "De meest traditionele en populaire versie met kip."
+        },
+        {
+          "name": "카오소이 느아 (소고기)",
+          "description": "Een smaakvolle variant met langzaam gegaard rundvlees."
+        },
+        {
+          "name": "채식 카오소이",
+          "description": "Vegetarische versie met tofu en groenten, met behoud van de kokoscurry-smaak."
+        }
+      ],
+      "serving_suggestions": {
+        "traditional_accompaniments": [
+          "Knapperige gefrituurde noedels",
+          "Sjalotsnippers",
+          "Limoenpartjes",
+          "Ingelegde mosterdbladeren (pak kath dong)"
+        ],
+        "presentation": "Serveer in een kom met noedels en currybouillon, topped met gefrituurde noedels en garnering",
+        "eating_etiquette": "Eet met lepel en vork volgens Thaise traditie"
+      },
+      "where_to_find": {
+        "best_restaurants": [
+          "Khao Soi Khun Yai (Chiang Mai) — de meest beroemde specialiteit",
+          "Khao Soi Lam Duan (Chiang Mai)",
+          "Khao Soi Sam Sae (Chiang Mai)",
+          "Lokale Noord-Thaise restaurants"
+        ],
+        "street_food_areas": [
+          "Chiang Mai Old City",
+          "Nimmanhaemin-gebied",
+          "Chang Khlan Night Market"
+        ],
+        "price_ranges": {
+          "street_vendor": "40-60 THB",
+          "market_stall": "50-70 THB",
+          "restaurant": "70-120 THB"
+        }
+      },
+      "translated_at": "2026-03-14T00:00:00.000Z"
+    },
+    "th": {
+      "enhanced_description": "Khao Soi is een beroemd gerecht uit Chiang Mai: eiernoedels in intense kokoscurry, getopt met knapperige noedels, geserveerd met ingelegde sjalotten, limoen en augurk. De smaak is pittig, zoet en romig in perfecte harmonie.",
+      "detailed_ingredients": [
+        {
+          "name": "Egg noodles",
+          "purpose": "Essentieel voor de authentieke Khao Soi-smaak",
+          "substitutes": [
+            "Verse eiernoedels",
+            "Gedroogde eiernoedels",
+            "Eiernoedelpasta"
+          ]
+        },
+        {
+          "name": "Coconut milk",
+          "purpose": "Essentieel voor de authentieke Khao Soi-smaak",
+          "substitutes": [
+            "Verse kokosmelk",
+            "Gedroogde kokosmelk",
+            "Kokosmelkpasta"
+          ]
+        },
+        {
+          "name": "Curry paste",
+          "purpose": "Essentieel voor de authentieke Khao Soi-smaak",
+          "substitutes": [
+            "Verse currypasta",
+            "Gedroogde currypasta",
+            "Currypastapasta"
+          ]
+        },
+        {
+          "name": "Chicken",
+          "purpose": "Essentieel voor de authentieke Khao Soi-smaak",
+          "substitutes": [
+            "Verse kip",
+            "Gedroogde kip",
+            "Kippasta"
+          ]
+        }
+      ],
+      "cooking_method": {
+        "technique": "Sudderen en lagen van smaak opbouwen",
+        "steps_overview": "De bereiding van Khao Soi vereist aandacht voor details en het juiste tijdstip. Het belangrijkste is om alle smaken in balans te brengen terwijl de textuur van elk ingrediënt behouden blijft. De traditionele methode, doorgegeven door generaties, garandeert authentieke smaak.",
+        "cooking_tips": [
+          "Gebruik verse eiernoedels voor het beste resultaat",
+          "Pas de pittigheid aan naar smaak",
+          "Kook niet te lang om de textuur te behouden",
+          "Proef en breng op smaak voor het serveren"
+        ]
+      },
+      "cultural_significance": {
+        "origin_story": "Dit gerecht is al generaties lang deel van de Noord-Thaise culinaire cultuur en weerspiegelt de unieke kooktradities en lokale ingrediënten van de regio.",
+        "cultural_importance": "Dit gerecht vormt het hart van de Noord-Thaise keuken en belichaamt de balans en harmonie waar Thaise gerechten wereldwijd beroemd om zijn.",
+        "traditional_occasions": [
+          "Familiebijeenkomst",
+          "Lokale festivals",
+          "Straatvoedselmarkten",
+          "Speciale vieringen"
+        ]
+      },
+      "variations": [
+        {
+          "name": "Khao Soi Classic",
+          "description": "Traditionele versie geserveerd in lokale huizen"
+        },
+        {
+          "name": "Khao Soi Modern",
+          "description": "Moderne versie met premium ingrediënten"
+        },
+        {
+          "name": "Vegetarian Khao Soi",
+          "description": "Vegetarische versie met tofu of paddenstoelen"
+        }
+      ],
+      "serving_suggestions": {
+        "traditional_accompaniments": [
+          "Jasmijnrijst",
+          "Verse groenten",
+          "Thaise kruiden"
+        ],
+        "presentation": "Serveer in traditionele Thaise kommen",
+        "eating_etiquette": "Eet met lepel en vork volgens Thaise gewoonten"
+      },
+      "where_to_find": {
+        "best_restaurants": [
+          "Lokale Noord-Thaise restaurants",
+          "Authentieke straatvoedselkraampjes",
+          "Traditionele markten",
+          "Familierestaurants"
+        ],
+        "street_food_areas": [
+          "Nachtmarkten",
+          "Ochtendverse markten",
+          "Lokale voedselhoven"
+        ],
+        "price_ranges": {
+          "street_vendor": "30-50 THB",
+          "market_stall": "40-60 THB",
+          "restaurant": "60-100 THB"
+        }
+      },
+      "translated_at": "2026-03-14T00:00:00.000Z"
+    },
+    "ja": {
+      "enhanced_description": "Khao Soi is een hartverwarmende soep uit Noord-Thailand met matige pittigheid. Een romige curry-noedelsoup met kokosmelk, getopt met knapperige gefrituurde noedels. Middelmatige recept, bereidingstijd circa 35 minuten. De authentieke Noord-Thaise smaak kenmerkt zich door milde tonen, kleefrijst en kruiden. De combinatie van eiernoedels, kokosmelk en currypasta creëert een harmonieuze smaak die zowel locals als bezoekers aanspreekt. Ideaal voor wie betaalbare authentieke Thaise keuken wil ervaren.",
+      "detailed_ingredients": [
+        {
+          "name": "卵麺",
+          "purpose": "Onmisbaar voor de authentieke Khao Soi-smaak",
+          "substitutes": [
+            "Verse eiernoedels",
+            "Gedroogde eiernoedels",
+            "Eiernoedelpasta"
+          ]
+        },
+        {
+          "name": "ココナッツミルク",
+          "purpose": "Onmisbaar voor de authentieke Khao Soi-smaak",
+          "substitutes": [
+            "Verse kokosmelk",
+            "Gedroogde kokosmelk",
+            "Kokosmelkpasta"
+          ]
+        },
+        {
+          "name": "カレーペースト",
+          "purpose": "Onmisbaar voor de authentieke Khao Soi-smaak",
+          "substitutes": [
+            "Verse currypasta",
+            "Gedroogde currypasta",
+            "Currypastapasta"
+          ]
+        },
+        {
+          "name": "鶏肉",
+          "purpose": "Onmisbaar voor de authentieke Khao Soi-smaak",
+          "substitutes": [
+            "Verse kip",
+            "Gedroogde kip",
+            "Kippasta"
+          ]
+        }
+      ],
+      "cooking_method": {
+        "technique": "Sudderen en lagen van smaak opbouwen",
+        "steps_overview": "De bereiding van Khao Soi vereist aandacht voor details en het juiste tijdstip. De sleutel is om alle smaken in balans te brengen terwijl de textuur van elk ingrediënt behouden blijft. De door generaties doorgegeven traditionele methode garandeert authentieke smaak.",
+        "cooking_tips": [
+          "Gebruik verse eiernoedels voor het beste resultaat",
+          "Pas de pittigheid aan naar smaak",
+          "Kook niet te lang om de textuur te behouden",
+          "Proef en breng op smaak voor het serveren"
+        ]
+      },
+      "cultural_significance": {
+        "origin_story": "Khao Soi is al generaties lang een vaste waarde in de Noord-Thaise keuken en weerspiegelt de regionale kooktradities en lokale ingrediënten.",
+        "cultural_importance": "Dit gerecht belichaamt de kern van de Noord-Thaise keuken en de wereldberoemde balans en harmonie van Thaise gerechten.",
+        "traditional_occasions": [
+          "Familiebijeenkomst",
+          "Regionale festivals",
+          "Straatmarkten",
+          "Speciale vieringen"
+        ]
+      },
+      "variations": [
+        {
+          "name": "Khao Soi Classic",
+          "description": "Traditionele versie geserveerd in lokale huizen"
+        },
+        {
+          "name": "Khao Soi Modern",
+          "description": "Moderne variant met hoogwaardige ingrediënten"
+        },
+        {
+          "name": "Vegetarian Khao Soi",
+          "description": "Plantaardige versie met tofu of paddenstoelen"
+        }
+      ],
+      "serving_suggestions": {
+        "traditional_accompaniments": [
+          "Jasmijnrijst",
+          "Verse groenten",
+          "Thaise kruiden"
+        ],
+        "presentation": "Serveer in traditionele Thaise kommen",
+        "eating_etiquette": "Eet met vork en lepel volgens Thaise traditie"
+      },
+      "where_to_find": {
+        "best_restaurants": [
+          "Lokale Noord-Thaise restaurants",
+          "Authentieke straatvoedselkraampjes",
+          "Traditionele markten",
+          "Familierestaurants"
+        ],
+        "street_food_areas": [
+          "Nachtmarkten",
+          "Ochtendverse markten",
+          "Lokale voedselhoven"
+        ],
+        "price_ranges": {
+          "street_vendor": "30-50 THB",
+          "market_stall": "40-60 THB",
+          "restaurant": "60-100 THB"
+        }
+      },
+      "translated_at": "2026-03-14T00:00:00.000Z"
+    }
+  }
+}

@@ -1,0 +1,1097 @@
+{
+  "id": 1,
+  "slug": "pad-krapow",
+  "name": {
+    "en": "Pad Krapow",
+    "nl": "Pad Krapow",
+    "thai": "ผัดกะเพรา"
+  },
+  "category": "hoofdgerecht",
+  "region": "centraal",
+  "spice_level": "pittig",
+  "description": {
+    "en": "Stir-fried Thai basil with minced pork or chicken served over rice with a fried egg",
+    "nl": "Roergebakken Thaise basilicum met gehakt varkensvlees of kip geserveerd over rijst met een gebakken ei"
+  },
+  "ingredients": [
+    "Thaise basilicum",
+    "gehakt varkensvlees",
+    "knoflook",
+    "chili",
+    "vissaus",
+    "sojasaus",
+    "rijst",
+    "ei"
+  ],
+  "allergens": [],
+  "dietary": [],
+  "image": "/images/food/pad-krapow.webp",
+  "preparation_time": "15 minuten",
+  "difficulty": "makkelijk",
+  "price_range": "budget",
+  "enhanced_description": "Pad Krapow is het ultieme comfortfood van Thailand - een vurige, aromatische roerbak die de peperachtige punch van heilige basilicum perfect in balans brengt met hartig gehakt vlees. Dit bliksemsnelle gerecht is een basis op straatstalletjes en in restaurants door heel Thailand, geliefd om zijn krachtige smaken en bevredigende eenvoud. De magie zit in de heilige basilicum (bai krapow), die zijn kenmerkende kruidnagelachtige aroma afgeeft als het de gloeiend hete wok raakt, en een gerecht creëert dat al herkenbaar is aan zijn betoverende geur.",
+  "detailed_ingredients": [
+    {
+      "name": "Holy Basil (Bai Krapow)",
+      "purpose": "Het ster-ingrediënt dat dit gerecht zijn naam en kenmerkende peperachtige, kruidnagelachtige smaak geeft",
+      "substitutes": [
+        "Thaise basilicum (minder authentiek maar acceptabel)",
+        "Italiaanse basilicum gemengd met munt (noodvervanging)"
+      ]
+    },
+    {
+      "name": "Thai Bird's Eye Chilies",
+      "purpose": "Biedt de essentiële hitte die dit gerecht authentiek pittig maakt",
+      "substitutes": [
+        "Serranopepers",
+        "Verse rode chili's",
+        "Chilivlokken (hoeveelheid aanpassen)"
+      ]
+    },
+    {
+      "name": "Minced Pork or Chicken",
+      "purpose": "Traditionele eiwitbasis die alle smaken opneemt",
+      "substitutes": [
+        "Rundergehakt",
+        "Verkruimelde tofu",
+        "Gehakte paddenstoelen voor vegetarisch"
+      ]
+    },
+    {
+      "name": "Fish Sauce",
+      "purpose": "Voegt umami-diepte en authentieke Thaise smaak toe",
+      "substitutes": [
+        "Lichte sojasaus met een snufje zout",
+        "Vegetarische paddenstoelensaus"
+      ]
+    },
+    {
+      "name": "Dark Soy Sauce",
+      "purpose": "Biedt kleur en een subtiele zoetheid om de hitte te balanceren",
+      "substitutes": [
+        "Gewone sojasaus met een vleugje melasse"
+      ]
+    }
+  ],
+  "cooking_method": {
+    "technique": "Roerbakken in een wok op hoge hitte",
+    "steps_overview": "De sleutel tot perfecte Pad Krapow is extreme hitte en snelheid. Alles gebeurt in minder dan 5 minuten zodra je begint te koken. De wok moet rokend heet zijn, wat de begeerde 'wok hei' (adem van de wok) creëert die het gerecht zijn kenmerkende rokerige smaak geeft.",
+    "cooking_tips": [
+      "Gebruik de hoogste hitte die je fornuis kan geven - dit gerecht heeft serieus vuur nodig",
+      "Zorg dat alle ingrediënten voorbereid en binnen handbereik zijn voordat je begint",
+      "Kook de heilige basilicum niet te lang - voeg het helemaal aan het eind toe om de smaak te behouden",
+      "Het vlees moet hevig sissen als het de wok raakt",
+      "Voor authentieke smaak, plet knoflook en chili's in een vijzel en stamper",
+      "Het gebakken ei moet krokante randen hebben maar een lopend eidooi"
+    ]
+  },
+  "cultural_significance": {
+    "origin_story": "Pad Krapow ontstond uit Thailands straatvoedselcultuur, waar snelle, betaalbare maaltijden nodig waren voor drukke arbeiders. Het gerecht werd populair in de jaren 1960 toen de verstedelijking toenam en straatverkopers gerechten nodig hadden die snel konden worden gekookt op draagbare gasbranders.",
+    "cultural_importance": "Dit is Thailands go-to comfortfood, vergelijkbaar met een tosti in Nederland. Het is het gerecht dat Thais verlangen als ze heimwee hebben, bestellen als ze katerig zijn, en als eerste aan hun kinderen leren koken. De frase 'pad krapow kai dao' (met gebakken ei) is zo Thais als het maar kan.",
+    "traditional_occasions": [
+      "Late-night straatvoedsel",
+      "Snelle lunch voor kantoorwerkers",
+      "Studentenbudgetmaaltijden",
+      "Comfortfood bij ziektegevoel"
+    ]
+  },
+  "variations": [
+    {
+      "name": "Pad Krapow Moo Krob",
+      "description": "Gemaakt met krokante varkensbuik in plaats van gehakt voor extra rijkdom en textuur"
+    },
+    {
+      "name": "Pad Krapow Talay",
+      "description": "Zeevruchtenversie met garnalen, inktvis en vis - populair in kustgebieden"
+    },
+    {
+      "name": "Pad Krapow Kai",
+      "description": "Kipversie, vaak gekozen door wie een lichtere optie zoekt"
+    },
+    {
+      "name": "Vegetarian Pad Krapow",
+      "description": "Gemaakt met tofu, paddenstoelen of gemengde groenten, met vegetarische roerbaksaus"
+    }
+  ],
+  "serving_suggestions": {
+    "traditional_accompaniments": [
+      "Jasmijnrijst (essentieel - nooit serveren zonder)",
+      "Gebakken ei met lopend eidooi (kai dao)",
+      "Verse komkommerschijfjes",
+      "Vissaus met chili's (prik nam pla)",
+      "Koude Thaise ijsthee om de hitte te bestrijden"
+    ],
+    "presentation": "Geserveerd op een bord met rijst aan één kant, de roerbak aan de andere, getopt met een gebakken ei. Het eidooi moet worden gebroken en gemengd met de rijst en het vlees.",
+    "eating_etiquette": "Gegeten met een lepel in de rechterhand en vork in de linker. De vork wordt gebruikt om eten op de lepel te schuiven. Het eidooi breken en de rijst ermee bedekken is deel van de ervaring."
+  },
+  "nutritional_info": {
+    "calories_per_serving": "450-550 calorieën (met rijst en ei)",
+    "health_benefits": [
+      "Heilige basilicum heeft ontstekingsremmende eigenschappen",
+      "Rijk aan eiwit van vlees en ei",
+      "Knoflook en chili's versterken het immuunsysteem",
+      "Snelle bereiding behoudt voedingsstoffen"
+    ],
+    "dietary_notes": [
+      "Rijk aan natrium - gebruik minder sojasaus indien nodig",
+      "Kan gezonder worden gemaakt met mager vlees",
+      "Voeg meer groenten toe voor extra voeding"
+    ]
+  },
+  "where_to_find": {
+    "best_restaurants": [
+      "Jay Fai (Bangkok) - Michelin-ster versie",
+      "Soei Restaurant (Bangkok) - Lokale favoriet",
+      "Elk straatkraampje met een rij locals"
+    ],
+    "street_food_areas": [
+      "Chinatown (Yaowarat), Bangkok",
+      "Victory Monument-gebied, Bangkok",
+      "Chiang Mai Night Bazaar",
+      "Phuket Weekend Market"
+    ],
+    "price_ranges": {
+      "street_food": "40-60 THB (€1,10-€1,65)",
+      "restaurant": "80-150 THB (€2,20-€4,15)",
+      "upscale": "200-400 THB (€5,50-€11)"
+    }
+  },
+  "seo": {
+    "metaTitle": {
+      "en": "Pad Krapow Recipe | Authentic Thai main dish",
+      "nl": "Pad Krapow Recept | Authentieke Thaise main dish"
+    },
+    "metaDescription": {
+      "en": "Learn about Pad Krapow (ผัดกะเพรา) - Stir-fried Thai basil with minced pork or chicken served over rice with a fried egg...",
+      "nl": "Leer over Pad Krapow (ผัดกะเพรา) - Roergebakken Thaise basilicum met gehakt varkensvlees of kip geserveerd over rijst met een gebakken ei..."
+    }
+  },
+  "tags": [
+    "thais-eten",
+    "thailand",
+    "hoofdgerecht",
+    "centraal",
+    "pittig",
+    "makkelijk",
+    "budget",
+    "thaise-basilicum",
+    "gehakt-varkensvlees",
+    "knoflook"
+  ],
+  "cooking": {
+    "preparation_time": "15 minuten",
+    "difficulty": "makkelijk",
+    "spice_level": "pittig",
+    "serves": "2-4 personen"
+  },
+  "nutrition": {
+    "allergens": [],
+    "dietary": [],
+    "price_range": "budget"
+  },
+  "translations": {
+    "nl": {
+      "enhanced_description": "Pad Krapow is het ultieme comfortfood van Thailand — een vurige, aromatische roerbak die de peperachtige kracht van heilige basilicum perfect in balans brengt met hartig gehakt. Dit bliksemsnelle gerecht is een vaste waarde bij straatkraampjes en restaurants door heel Thailand, geliefd om zijn uitgesproken smaken en bevredigende eenvoud. De magie schuilt in de heilige basilicum (bai krapow), die zijn kenmerkende kruidnagealachtige aroma afgeeft wanneer het de gloeiend hete wok raakt, waardoor een gerecht ontstaat dat direct herkenbaar is aan alleen al zijn bedwelmende geur.",
+      "detailed_ingredients": [
+        {
+          "name": "Heilige basilicum (Bai Krapow)",
+          "purpose": "Het sterredient dat dit gerecht zijn naam en kenmerkende peperachtige, kruidnagealachtige smaak geeft",
+          "substitutes": [
+            "Thaise basilicum (minder authentiek maar acceptabel)",
+            "Italiaanse basilicum gemengd met munt (noodvervanging)"
+          ]
+        },
+        {
+          "name": "Thaise vogelpepers",
+          "purpose": "Zorgt voor de essentiële hitte die dit gerecht authentiek pittig maakt",
+          "substitutes": [
+            "Serranopepers",
+            "Verse rode pepers",
+            "Chilivlokken (hoeveelheid aanpassen)"
+          ]
+        },
+        {
+          "name": "Varkens- of kipgehakt",
+          "purpose": "Traditionele eiwitbasis die alle smaken absorbeert",
+          "substitutes": [
+            "Rundergehakt",
+            "Verkruimelde tofu",
+            "Gehakte paddenstoelen voor vegetarische versie"
+          ]
+        },
+        {
+          "name": "Vissaus",
+          "purpose": "Voegt umami-diepte en authentieke Thaise smaak toe",
+          "substitutes": [
+            "Lichte sojasaus met een snufje zout",
+            "Vegetarische paddenstoelensaus"
+          ]
+        },
+        {
+          "name": "Donkere sojasaus",
+          "purpose": "Geeft kleur en een subtiele zoetheid om de hitte in balans te brengen",
+          "substitutes": [
+            "Gewone sojasaus met een vleugje melasse"
+          ]
+        }
+      ],
+      "cooking_method": {
+        "technique": "Roerbakken op hoog vuur in een wok",
+        "steps_overview": "De sleutel tot perfecte Pad Krapow is extreme hitte en snelheid. Alles gebeurt in minder dan 5 minuten zodra je begint met koken. De wok moet rokend heet zijn, waardoor de felbegeerde 'wok hei' (adem van de wok) ontstaat die het gerecht zijn kenmerkende rokerige smaak geeft.",
+        "cooking_tips": [
+          "Gebruik de hoogste hitte die je fornuis kan produceren — dit gerecht heeft serieus vuur nodig",
+          "Zorg dat alle ingrediënten voorbereid en binnen handbereik zijn voordat je begint",
+          "Kook de heilige basilicum niet te lang — voeg het op het allerlaatst toe om de smaak te behouden",
+          "Het vlees moet luid sissen wanneer het de wok raakt",
+          "Stamp voor een authentieke smaak knoflook en pepers in een vijzel",
+          "Het gebakken ei moet krokante randen maar een zacht eigeel hebben"
+        ]
+      },
+      "cultural_significance": {
+        "origin_story": "Pad Krapow is voortgekomen uit Thailands straatvoedselcultuur, waar snelle, betaalbare maaltijden nodig waren voor drukke arbeiders. Het gerecht werd populair in de jaren '60 toen de verstedelijking toenam en straatverkopers gerechten nodig hadden die snel konden worden bereid op draagbare gasbranders.",
+        "cultural_importance": "Dit is Thailands ultieme comfortfood, vergelijkbaar met een tosti in Nederland. Het is het gerecht waar Thais naar verlangen als ze heimwee hebben, bestellen als ze een kater hebben, en hun kinderen als eerste leren koken. De uitdrukking 'pad krapow kai dao' (met gebakken ei) is zo Thais als het maar kan.",
+        "traditional_occasions": [
+          "Laat-avond straatvoedsel",
+          "Snelle lunch voor kantoormedewerkers",
+          "Budgetmaaltijden voor studenten",
+          "Comfortfood wanneer je je niet lekker voelt"
+        ]
+      },
+      "variations": [
+        {
+          "name": "Pad Krapow Moo Krob",
+          "description": "Gemaakt met krokant varkensbuik in plaats van gehakt voor extra rijkheid en textuur"
+        },
+        {
+          "name": "Pad Krapow Talay",
+          "description": "Zeevruchtvariant met garnalen, inktvis en vis — populair in kustgebieden"
+        },
+        {
+          "name": "Pad Krapow Kai",
+          "description": "Kipversie, vaak de voorkeur voor wie een lichtere optie zoekt"
+        },
+        {
+          "name": "Vegetarische Pad Krapow",
+          "description": "Gemaakt met tofu, paddenstoelen of gemengde groenten, met vegetarische roerbaksaus"
+        }
+      ],
+      "serving_suggestions": {
+        "traditional_accompaniments": [
+          "Jasmijnrijst (essentieel — nooit serveren zonder)",
+          "Gebakken ei met zacht eigeel (kai dao)",
+          "Verse komkommerschijfjes",
+          "Vissaus met pepers (prik nam pla)",
+          "Koude Thaise ijsthee om de hitte te bestrijden"
+        ],
+        "presentation": "Geserveerd op een bord met rijst aan de ene kant, de roerbak aan de andere kant, afgetopt met een gebakken ei. Het eigeel wordt gebroken en gemengd met de rijst en het vlees.",
+        "eating_etiquette": "Gegeten met een lepel in de rechterhand en vork in de linkerhand. De vork wordt gebruikt om eten op de lepel te schuiven. Het eigeel breken en het de rijst laten bedekken is onderdeel van de ervaring."
+      },
+      "where_to_find": {
+        "best_restaurants": [
+          "Jay Fai (Bangkok) — Michelinster-versie",
+          "Soei Restaurant (Bangkok) — Lokale favoriet",
+          "Elk straatkraampje met een rij wachtende locals"
+        ],
+        "street_food_areas": [
+          "Chinatown (Yaowarat), Bangkok",
+          "Victory Monument-gebied, Bangkok",
+          "Chiang Mai Night Bazaar",
+          "Phuket Weekend Market"
+        ]
+      },
+      "translated_at": "2026-03-10T00:00:00.000Z"
+    },
+    "fr": {
+      "enhanced_description": "Pad Krapow is het ultieme comfortfood van Thailand — een vurige, aromatische roerbak die de peperachtige kracht van heilige basilicum perfect in balans brengt met hartig gehakt. Dit bliksemsnelle gerecht is een vaste waarde bij straatkraampjes en restaurants door heel Thailand, geliefd om zijn uitgesproken smaken en bevredigende eenvoud. De magie schuilt in de heilige basilicum (bai krapow), die zijn kenmerkende kruidnagelachtige aroma afgeeft wanneer het de gloeiend hete wok raakt, waardoor een gerecht ontstaat dat direct herkenbaar is aan alleen al zijn bedwelmende geur.",
+      "detailed_ingredients": [
+        {
+          "name": "Basilic sacré (Bai Krapow)",
+          "purpose": "Het ster-ingrediënt dat dit gerecht zijn naam en kenmerkende peperachtige, kruidnagelachtige smaak geeft",
+          "substitutes": [
+            "Thaise basilicum (minder authentiek maar acceptabel)",
+            "Italiaanse basilicum gemengd met munt (noodvervanging)"
+          ]
+        },
+        {
+          "name": "Piments thaï (Bird's Eye)",
+          "purpose": "Biedt de essentiële hitte die dit gerecht authentiek pittig maakt",
+          "substitutes": [
+            "Serranopepers",
+            "Verse rode pepers",
+            "Chilivlokken (hoeveelheid aanpassen)"
+          ]
+        },
+        {
+          "name": "Porc ou poulet haché",
+          "purpose": "Traditionele eiwitbasis die alle smaken absorbeert",
+          "substitutes": [
+            "Rundergehakt",
+            "Verkruimelde tofu",
+            "Gehakte paddenstoelen voor de vegetarische versie"
+          ]
+        },
+        {
+          "name": "Sauce de poisson",
+          "purpose": "Voegt umami-diepte toe en een authentieke Thaise smaak",
+          "substitutes": [
+            "Lichte sojasaus met een snufje zout",
+            "Vegetarische paddenstoelensaus"
+          ]
+        },
+        {
+          "name": "Sauce soja foncée",
+          "purpose": "Brengt kleur en een subtiele zoetheid om de pittigheid te balanceren",
+          "substitutes": [
+            "Gewone sojasaus met een vleugje melasse"
+          ]
+        }
+      ],
+      "cooking_method": {
+        "technique": "Op hoge hitte roerbakken in de wok",
+        "steps_overview": "De sleutel tot een perfect Pad Krapow is extreme hitte en snelheid. Alles gebeurt in minder dan 5 minuten zodra je begint te koken. De wok moet roken, wat het gewenste 'wok hei' (adem van de wok) creëert dat het gerecht zijn kenmerkende gerookte smaak geeft.",
+        "cooking_tips": [
+          "Gebruik de hoogste hitte die je fornuis kan produceren — dit gerecht heeft intense vuur nodig",
+          "Heb alle ingrediënten voorbereid en bij de hand voordat je begint",
+          "Kook de heilige basilicum niet te lang — voeg het allemaal toe aan het eind om de smaak te behouden",
+          "Het vlees moet heftig sissen wanneer het de wok raakt",
+          "Voor een authentieke smaak, plet knoflook en chili's in een vijzel",
+          "Het gebakken ei moet knapperige randen hebben maar een lopende dooier"
+        ]
+      },
+      "cultural_significance": {
+        "origin_story": "Pad Krapow is geboren uit de Thaise straatkookcultuur, waar snelle en betaalbare maaltijden nodig waren voor drukke arbeiders. Het gerecht won aan populariteit in de jaren 1960 met de groeiende verstedelijking en straathandelaren die gerechten nodig hadden die snel konden worden bereid op draagbare gasbranders.",
+        "cultural_importance": "Dit is het onmisbare Thaise troostgerecht, vergelijkbaar met een croque-monsieur in Frankrijk. Het is het gerecht waar Thai van dromen als ze heimwee hebben, dat ze bestellen bij een kater, en dat ze als eerste leren koken aan hun kinderen. De uitdrukking 'pad krapow kai dao' (met gebakken ei) is zo Thais als maar kan.",
+        "traditional_occasions": [
+          "Late nacht straeteet",
+          "Snelle lunch voor kantoorwerkers",
+          "Betaalbare maaltijden voor studenten",
+          "Troostgerecht als je je niet lekker voelt"
+        ]
+      },
+      "variations": [
+        {
+          "name": "Pad Krapow Moo Krob",
+          "description": "Gemaakt met knapperige varkensbuik in plaats van gehakt voor meer rijkdom en textuur"
+        },
+        {
+          "name": "Pad Krapow Talay",
+          "description": "Zeeverse versie met garnalen, inktvis en vis — populair in kustgebieden"
+        },
+        {
+          "name": "Pad Krapow Kai",
+          "description": "Kipversie, vaak preferred door wie een lichtere optie zoekt"
+        },
+        {
+          "name": "Pad Krapow Végétarien",
+          "description": "Gemaakt met tofu, paddenstoelen of gevarieerde groenten, met een vegetarische roerbaksaus"
+        }
+      ],
+      "serving_suggestions": {
+        "traditional_accompaniments": [
+          "Jasmijnrijst (essentieel — nooit serveren zonder)",
+          "Gebakken ei met lopende dooier (kai dao)",
+          "Verse komkommerschijfjes",
+          "Vis sauce met chili's (prik nam pla)",
+          "IJskoude Thaise ijsthee om de pittigheid te bestrijden"
+        ],
+        "presentation": "Geserveerd op een bord met rijst aan één kant, de roerbak aan de andere, getopt met een gebakken ei. De dooier moet worden doorgeprikt en gemengd met de rijst en het vlees.",
+        "eating_etiquette": "Gegeten met een lepel in de rechterhand en een vork in de linker. De vork dient om het eten op de lepel te schuiven. De dooier doorprikken en laten over de rijst druipen maakt deel uit van de ervaring."
+      },
+      "where_to_find": {
+        "best_restaurants": [
+          "Jay Fai (Bangkok) — Michelin-sterrenversie",
+          "Soei Restaurant (Bangkok) — lokaal favoriet",
+          "Elke straatkraam met een rij wachtende locals"
+        ],
+        "street_food_areas": [
+          "Chinatown (Yaowarat), Bangkok",
+          "Victory Monument buurt, Bangkok",
+          "Chiang Mai Night Bazaar",
+          "Phuket Weekend Market"
+        ]
+      },
+      "translated_at": "2026-03-10T00:00:00.000Z"
+    },
+    "de": {
+      "enhanced_description": "Pad Krapow is Thailands ultieme troosteten — een vurig, aromatisch roerbakgerecht dat de peperige kracht van heilige basilicum perfect balanceert met hartig gehakt vlees. Dit razendsnelle gerecht is een hoeksteen bij straatkramen en restaurants door heel Thailand, geliefd om zijn krachtige aroma's en bevredigende eenvoud. De magie ligt in de heilige basilicum (Bai Krapow), die zijn unieke kruidnagelachtige aroma vrijgeeft wanneer het de gloeiend hete wok raakt — een gerecht dat alleen al herkenbaar is aan zijn bedwelmende geur.",
+      "detailed_ingredients": [
+        {
+          "name": "Heiliges Basilikum (Bai Krapow)",
+          "purpose": "Het hoofdingrediënt dat dit gerecht zijn naam en unieke peperige, kruidnagelachtige smaak geeft",
+          "substitutes": [
+            "Thaise basilicum (minder authentiek, maar acceptabel)",
+            "Italiaanse basilicum gemengd met munt (noodvervanger)"
+          ]
+        },
+        {
+          "name": "Thai Bird's Eye Chilis",
+          "purpose": "Levert de essentiële scherpte die dit gerecht authentiek pittig maakt",
+          "substitutes": [
+            "Serrano-peper",
+            "Verse rode chili's",
+            "Chilivlokken (hoeveelheid aanpassen)"
+          ]
+        },
+        {
+          "name": "Schweine- oder Hähnchenhackfleisch",
+          "purpose": "Traditionele eiwitbasis die alle smaken opneemt",
+          "substitutes": [
+            "Rundergehakt",
+            "Verbrokkelde tofu",
+            "Gehakte paddenstoelen voor de vegetarische variant"
+          ]
+        },
+        {
+          "name": "Fischsauce",
+          "purpose": "Voegt umami-diepte toe en authentieke Thaise smaak",
+          "substitutes": [
+            "Lichte sojasaus met een snufje zout",
+            "Vegetarische paddenstoelensaus"
+          ]
+        },
+        {
+          "name": "Dunkle Sojasauce",
+          "purpose": "Geeft kleur en een subtiele zoetheid om de scherpte te balanceren",
+          "substitutes": [
+            "Gewone sojasaus met een vleugje melasse"
+          ]
+        }
+      ],
+      "cooking_method": {
+        "technique": "Roerbakken op hoge hitte in de wok",
+        "steps_overview": "De sleutel tot perfect Pad Krapow is extreme hitte en snelheid. Alles gebeurt in minder dan 5 minuten zodra je begint te koken. De wok moet roken en het gewenste 'Wok Hei' (adem van de wok) creëren, dat het gerecht zijn kenmerkende gerookte smaak geeft.",
+        "cooking_tips": [
+          "Gebruik de hoogste hitte die je fornuis kan produceren — dit gerecht heeft serieus vuur nodig",
+          "Heb alle ingrediënten voorbereid en bij de hand voordat je begint",
+          "Kook de heilige basilicum niet te lang — voeg het helemaal toe aan het eind om de smaak te behouden",
+          "Het vlees moet heftig sissen wanneer het de wok raakt",
+          "Voor authentieke smaak, plet knoflook en chili's in een vijzel",
+          "Het gebakken ei moet knapperige randen hebben maar een lopende dooier"
+        ]
+      },
+      "cultural_significance": {
+        "origin_story": "Pad Krapow ontstond uit Thailands straateetcultuur, waar snelle, betaalbare maaltijden nodig waren voor drukke arbeiders. Het gerecht won aan populariteit in de jaren 1960 met de toenemende verstedelijking en straathandelaren die gerechten nodig hadden die snel op draagbare gasbranders konden worden bereid.",
+        "cultural_importance": "Dit is Thailands ultieme troosteten, vergelijkbaar met een curryworst in Duitsland. Het is het gerecht waar Thai naar hunkeren als ze heimwee hebben, dat ze bestellen bij een kater, en dat ze als eerste leren koken aan hun kinderen. De uitdrukking 'Pad Krapow Kai Dao' (met gebakken ei) is zo Thais als het maar kan.",
+        "traditional_occasions": [
+          "Late nacht straateet",
+          "Snelle lunch voor kantoorpersoneel",
+          "Budgetmaaltijden voor studenten",
+          "Troosteten als je je niet lekker voelt"
+        ]
+      },
+      "variations": [
+        {
+          "name": "Pad Krapow Moo Krob",
+          "description": "Gemaakt met knapperige varkensbuik in plaats van gehakt voor extra rijkdom en textuur"
+        },
+        {
+          "name": "Pad Krapow Talay",
+          "description": "Zeeverse versie met garnalen, inktvis en vis — populair in kustregio's"
+        },
+        {
+          "name": "Pad Krapow Kai",
+          "description": "Kipversie, vaak verkozen door wie een lichtere optie zoekt"
+        },
+        {
+          "name": "Vegetarische Pad Krapow",
+          "description": "Gemaakt met tofu, paddenstoelen of gemengde groenten, met vegetarische woksaus"
+        }
+      ],
+      "serving_suggestions": {
+        "traditional_accompaniments": [
+          "Jasmijnrijst (onvervangbaar — nooit zonder serveren)",
+          "Gebakken ei met lopende dooier (Kai Dao)",
+          "Verse komkommerschijfjes",
+          "Vis sauce met chili's (Prik Nam Pla)",
+          "Koude Thaise ijsthee tegen de scherpte"
+        ],
+        "presentation": "Geserveerd op een bord met rijst aan de ene kant, het roerbakgerecht aan de andere, gekroond met een gebakken ei. De dooier wordt doorgeprikt en gemengd met de rijst en het vlees.",
+        "eating_etiquette": "Gegeten met een lepel in de rechterhand en een vork in de linker. De vork wordt gebruikt om het eten op de lepel te schuiven. De dooier doorprikken en de rijst ermee overgieten is deel van de ervaring."
+      },
+      "where_to_find": {
+        "best_restaurants": [
+          "Jay Fai (Bangkok) — Michelin-sterrenversie",
+          "Soei Restaurant (Bangkok) — lokaal favoriet",
+          "Elke straatkraam met een rij wachtende locals"
+        ],
+        "street_food_areas": [
+          "Chinatown (Yaowarat), Bangkok",
+          "Victory Monument buurt, Bangkok",
+          "Chiang Mai Night Bazaar",
+          "Phuket Weekend Market"
+        ]
+      },
+      "translated_at": "2026-03-10T00:00:00.000Z"
+    },
+    "zh": {
+      "enhanced_description": "Pad Krapow is Thailands meest ultieme troosteten — een pittig aromatisch roerbakgerecht dat de scherpe essentie van heilige basilicum (hitte van de basilicum) perfect combineert met smaakvol gehakt vlees. Dit razendsnelle gerecht is een hoofdattractie bij straatkramen en restaurants door heel Thailand, geliefd om zijn gedurfde smaken en bevredigende eenvoud. De magie ligt in de heilige basilicum (bai krapow), die bij aanraking met de gloeiend hete wok zijn unieke kruidnagelachtige aroma vrijgeeft — een gerecht dat meteen herkenbaar is aan zijn bedwelmende geur.",
+      "detailed_ingredients": [
+        {
+          "name": "打抛叶（Bai Krapow）",
+          "purpose": "Het kern-ingrediënt dat dit gerecht zijn naam en unieke pittige, kruidnagelachtige smaak geeft",
+          "substitutes": [
+            "Thaise basilicum (niet helemaal authentiek maar acceptabel)",
+            "Italiaanse basilicum gemengd met munt (noodvervanger)"
+          ]
+        },
+        {
+          "name": "泰国鸟眼辣椒",
+          "purpose": "Biedt de essentiële pittigheid die dit gerecht authentiek scherp maakt",
+          "substitutes": [
+            "Serrano-chili",
+            "Verse rode chili's",
+            "Chilivlokken (hoeveelheid aanpassen)"
+          ]
+        },
+        {
+          "name": "猪肉末或鸡肉末",
+          "purpose": "Traditionele eiwitbasis die alle smaken opneemt",
+          "substitutes": [
+            "Rundergehakt",
+            "Verbrokkelde tofu",
+            "Gehakte paddenstoelen (vegetarische versie)"
+          ]
+        },
+        {
+          "name": "鱼露",
+          "purpose": "Voegt umami-diepte toe en authentieke Thaise smaak",
+          "substitutes": [
+            "Lichte sojasaus met een snufje zout",
+            "Vegetarische paddenstoelensaus"
+          ]
+        },
+        {
+          "name": "老抽",
+          "purpose": "Biedt kleur en subtiele zoetheid om de pittigheid te balanceren",
+          "substitutes": [
+            "Gewone sojasaus met een vleugje melasse"
+          ]
+        }
+      ],
+      "cooking_method": {
+        "technique": "Op hoge hitte roerbakken",
+        "steps_overview": "De sleutel tot perfect Pad Krapow is extreem hoge temperatuur en snelheid. Alles is in 5 minuten klaar vanaf het begin van het koken. De pan moet roken, wat het gewenste 'wok hei' produceert, dat het gerecht zijn kenmerkende gerookte smaak geeft.",
+        "cooking_tips": [
+          "Gebruik de hoogste vlam die je fornuis kan bereiken — dit gerecht heeft hevig vuur nodig",
+          "Zorg ervoor dat alle ingrediënten voorbereid en binnen handbereik zijn voordat je begint te koken",
+          "Roer de heilige basilicum niet te veel — voeg het toe op het laatste moment om de smaak te behouden",
+          "Het gehakt moet sterk sissen wanneer het de pan raakt",
+          "Knoflook en chili's pletten in een vijzel geeft een authentiekere smaak",
+          "Het gebakken ei moet knapperige randen hebben en een lopende dooier"
+        ]
+      },
+      "cultural_significance": {
+        "origin_story": "Pad Krapow komt uit de Thaise straateetcultuur, die snelle en betaalbare maaltijden bood aan drukke arbeiders. Dit gerecht werd populair in de jaren 1960 met de versnelling van de verstedelijking, toen straathandelaren gerechten nodig hadden die snel op draagbare gasstellen konden worden bereid.",
+        "cultural_importance": "Dit is het ultieme troosteten voor Thai, net als gebakken rijst met ei voor Chinezen. Het is het gerecht dat Thai missen als ze heimwee hebben, bestellen bij een kater, en als eerste leren koken aan hun kinderen. 'pad krapow kai dao' (met gebakken ei) vat de Thaise levensstijl perfect samen.",
+        "traditional_occasions": [
+          "Middernacht straateet",
+          "Snelle lunch voor kantoorwerkers",
+          "Betaalbare maaltijd voor studenten",
+          "Troosteten bij onwel voelen"
+        ]
+      },
+      "variations": [
+        {
+          "name": "Pad Krapow Moo Krob",
+          "description": "Gemaakt met knapperige varkensbuik in plaats van gehakt voor rijkere textuur en diepte"
+        },
+        {
+          "name": "Pad Krapow Talay",
+          "description": "Zeeverse versie met garnalen, inktvis en vis — vooral populair in kustgebieden"
+        },
+        {
+          "name": "Pad Krapow Kai",
+          "description": "Kipversie, geschikt voor wie een lichtere keuze wil"
+        },
+        {
+          "name": "素食Pad Krapow",
+          "description": "Gemaakt met tofu, paddenstoelen of gemengde groenten, met vegetarische roerbaksaus"
+        }
+      ],
+      "serving_suggestions": {
+        "traditional_accompaniments": [
+          "Jasmijnrijst (essentieel — nooit weglaten)",
+          "Gebakken ei met lopende dooier (kai dao)",
+          "Verse komkommerschijfjes",
+          "Chili-vis sauce dip (prik nam pla)",
+          "IJs Thaise melktea — om de pittigheid te bestrijden"
+        ],
+        "presentation": "Geserveerd op een bord met rijst aan één kant en het roerbakgerecht aan de andere, bedekt met een gebakken ei. Prik de dooier door om het te laten stromen over de rijst en het gehakt.",
+        "eating_etiquette": "Eet met lepel in de rechterhand en vork in de linker. Gebruik de vork om eten op de lepel te scheppen. De dooier doorprikken en laten druipen over de rijst is de kern van de ervaring."
+      },
+      "where_to_find": {
+        "best_restaurants": [
+          "Jay Fai (Bangkok) — Michelin-sterrenversie",
+          "Soei Restaurant (Bangkok) — lokaal favoriet",
+          "Elke straatkraam met een lange rij locals"
+        ],
+        "street_food_areas": [
+          "Chinatown (Yaowarat), Bangkok",
+          "Victory Monument gebied, Bangkok",
+          "Chiang Mai Night Bazaar",
+          "Phuket Weekend Market"
+        ]
+      },
+      "translated_at": "2026-03-11T00:00:00.000Z"
+    },
+    "ru": {
+      "enhanced_description": "Pad Krapow is het ideale troosteten van Thailand: een vurig, aromatisch stir-fry gerecht dat de peperige scherpte van heilige basilicum perfect combineert met pittig gehakt vlees. Dit razendsnelle gerecht is een vaste hit bij straatkramen en restaurants door heel Thailand, geliefd om zijn levendige smaken en bevredigende eenvoud. De magie schuilt in de heilige basilicum (bai krapow), die bij het raken van de gloeiend hete wok zijn kenmerkende kruidnagelaroma vrijgeeft, waardoor het gerecht meteen herkenbaar is aan zijn bedwelmende geur.",
+      "detailed_ingredients": [
+        {
+          "name": "Священный базилик (Bai Krapow)",
+          "purpose": "Het hoofdingrediënt dat het gerecht zijn naam en kenmerkende peperige, kruidnagelachtige smaak gaf",
+          "substitutes": [
+            "Thaise basilicum (minder authentiek, maar acceptabel)",
+            "Italiaanse basilicum met munt (spoedvervanger)"
+          ]
+        },
+        {
+          "name": "Тайский перец чили «птичий глаз»",
+          "purpose": "Zorgt voor de scherpte die het gerecht authentiek pittig maakt",
+          "substitutes": [
+            "Serrano-peper",
+            "Verse rode chili",
+            "Chilivlokken (pas de hoeveelheid aan)"
+          ]
+        },
+        {
+          "name": "Свиной или куриный фарш",
+          "purpose": "Traditionele eiwitbasis die alle smaken opneemt",
+          "substitutes": [
+            "Rundergehakt",
+            "Verbrokkelde tofu",
+            "Gehakte paddenstoelen voor de vegetarische versie"
+          ]
+        },
+        {
+          "name": "Рыбный соус",
+          "purpose": "Voegt umami-diepte toe en authentieke Thaise smaak",
+          "substitutes": [
+            "Lichte sojasaus met een snufje zout",
+            "Vegetarische paddenstoelensaus"
+          ]
+        },
+        {
+          "name": "Тёмный соевый соус",
+          "purpose": "Geeft kleur en een lichte zoetheid voor balans met de pittigheid",
+          "substitutes": [
+            "Gewone sojasaus met een druppel melasse"
+          ]
+        }
+      ],
+      "cooking_method": {
+        "technique": "Roerbakken op maximale hitte in een wok",
+        "steps_overview": "De sleutel tot perfect Pad Krapow is extreme hitte en snelheid. Alles gebeurt in minder dan 5 minuten vanaf het begin van het koken. De wok moet gloeiend heet zijn tot er rook vanaf komt, wat de begeerde 'wok hei' creëert (adem van de wok), die het gerecht zijn kenmerkende rokerige smaak geeft.",
+        "cooking_tips": [
+          "Gebruik de maximale hitte die je fornuis kan geven — dit gerecht heeft serieuze hitte nodig",
+          "Bereid alle ingrediënten voor en houd ze bij de hand voordat je begint",
+          "Overkook de heilige basilicum niet — voeg hem toe aan het einde om de aroma te behouden",
+          "Het vlees moet woest sissen wanneer het in de wok belandt",
+          "Voor authentieke smaak, plet knoflook en chili in een vijzel",
+          "De gebakken eieren moeten knapperige randen hebben, maar een lopende dooier"
+        ]
+      },
+      "cultural_significance": {
+        "origin_story": "Pad Krapow is geboren uit de Thaise straatreceptuur, waar snelle en betaalbare gerechten nodig waren voor drukke arbeiders. Het gerecht won aan populariteit in de jaren 1960, toen verstedelijking toenam en straathandelaren recepten nodig hadden die in een paar minuten konden worden bereid op draagbare gasbranders.",
+        "cultural_importance": "Dit is het belangrijkste comfortfood van Thailand — hetzelfde als pelmeni voor een Rus. Dit is het gerecht dat Thai eten als ze heimwee hebben, bestellen na een kater en als eerste leren koken aan hun kinderen. De frase 'pad krapow kai dao' (met gebakken ei) is de essentie van het Thaise leven.",
+        "traditional_occasions": [
+          "Late nacht streetfood",
+          "Snelle lunch voor kantoorwerkers",
+          "Budgetlunches voor studenten",
+          "Comfortfood bij onwel voelen"
+        ]
+      },
+      "variations": [
+        {
+          "name": "Pad Krapow Moo Krob",
+          "description": "Gemaakt met knapperige varkensbuik in plaats van gehakt voor extra rijkdom en textuur"
+        },
+        {
+          "name": "Pad Krapow Talay",
+          "description": "Versie met zeevruchten — garnalen, inktvis en vis. Populair in kustgebieden"
+        },
+        {
+          "name": "Pad Krapow Kai",
+          "description": "Kipversie, vaak gekozen door wie een lichtere optie prefereert"
+        },
+        {
+          "name": "Вегетарианский Pad Krapow",
+          "description": "Gemaakt met tofu, paddenstoelen of gemengde groenten met vegetarische roerbaksaus"
+        }
+      ],
+      "serving_suggestions": {
+        "traditional_accompaniments": [
+          "Jasmijnrijst (essentieel — serveer nooit zonder)",
+          "Gebakken ei met lopende dooier (kai dao)",
+          "Verse komkommerschijfjes",
+          "Vis saus met chili (prik nam pla)",
+          "Koude Thaise ijsthee om de pittigheid te bestrijden"
+        ],
+        "presentation": "Geserveerd op een bord — rijst aan één kant, roerbak aan de andere, met erbovenop een gebakken ei. De dooier moet worden opengebroken en gemengd met de rijst en het vlees.",
+        "eating_etiquette": "Gegeten met een lepel in de rechterhand en een vork in de linker. De vork wordt gebruikt om eten op de lepel te schuiven. De dooier openbreken en de rijst laten doordrenken is deel van het ritueel."
+      },
+      "where_to_find": {
+        "best_restaurants": [
+          "Jay Fai (Bangkok) — versie met Michelin-ster",
+          "Soei Restaurant (Bangkok) — favoriet van de locals",
+          "Elke straatkar met een rij van locals"
+        ],
+        "street_food_areas": [
+          "Chinatown (Yaowarat), Bangkok",
+          "Gebied Victory Monument, Bangkok",
+          "Chiang Mai Night Bazaar",
+          "Phuket Weekend Market"
+        ]
+      },
+      "translated_at": "2026-03-11T00:00:00.000Z"
+    },
+    "ko": {
+      "enhanced_description": "Pad Krapow is het ultieme soulfood van Thailand, een pittige roerbak met de intense peperachtige aroma van holy basil (bai krapow) en de umami van gehakt die perfect in balans zijn. Dit gerecht dat in een flits klaar is, is een representatief alledaags eten dat je kunt vinden bij straatkramen en restaurants door heel Thailand, geliefd om zijn krachtige smaak en bevredigende eenvoud. De kern van de aantrekkingskracht ligt in de holy basil (bai krapow) — het moment dat het de hete wok raakt, verspreidt het een unieke kruidnagelachtige geur, waardoor een gerecht ontstaat dat herkenbaar is aan de geur alleen.",
+      "detailed_ingredients": [
+        {
+          "name": "홀리 바질 (바이 끄라파오)",
+          "purpose": "Het kern ingrediënt dat dit gerecht zijn naam en unieke peper+kruidnagel smaak geeft",
+          "substitutes": [
+            "Thaise basilicum (minder authentiek maar acceptabel)",
+            "Italiaanse basilicum + munt (noodvervanger)"
+          ]
+        },
+        {
+          "name": "쥐눈이 고추 (프릭키누)",
+          "purpose": "Het essentiële ingrediënt dat de authentieke pittigheid van dit gerecht maakt",
+          "substitutes": [
+            "Serrano peper",
+            "Verse rode chili",
+            "Cheongyang chili (Koreaanse vervanger)"
+          ]
+        },
+        {
+          "name": "다진 돼지고기 또는 닭고기",
+          "purpose": "Traditionele proteïne basis die alle smaken absorbeert",
+          "substitutes": [
+            "Gemalen rundvlees",
+            "Tofu kruimels",
+            "Gemalen paddenstoelen (vegetarisch)"
+          ]
+        },
+        {
+          "name": "피시소스",
+          "purpose": "Voegt diepte aan umami en authentieke Thaise smaak toe",
+          "substitutes": [
+            "Lichte sojasaus + snufje zout",
+            "Vegetarische paddenstoelensaus"
+          ]
+        },
+        {
+          "name": "진간장 (시유담)",
+          "purpose": "Donkere kleur en subtiele zoetheid om de pittigheid te balanceren",
+          "substitutes": [
+            "Gewone sojasaus + beetje melasse"
+          ]
+        }
+      ],
+      "cooking_method": {
+        "technique": "Hoge hitte wok roerbakken",
+        "steps_overview": "De kern van perfect Pad Krapow is extreme hitte en snelheid. Zodra je begint met koken, is alles in 5 minuten klaar. De wok moet zo heet zijn dat er rook vanaf komt, wat de unieke gerookte aroma creëert genaamd 'wok hei' (adem van de wok).",
+        "cooking_tips": [
+          "Gebruik de maximale vlam van je gasfornuis — dit gerecht heeft sterke hitte nodig",
+          "Bereid alle ingrediënten voor en houd ze binnen handbereik voordat je begint met koken",
+          "Holy basil moet aan het einde worden toegevoegd — als je het te lang roerbakt, verdwijnt de aroma",
+          "Het vlees moet hevig sissen wanneer het de wok raakt voor de juiste temperatuur",
+          "Voor authentieke smaak, maal knoflook en peper in een vijzel",
+          "Het gebakken ei moet knapperige randen hebben en een half gare dooier"
+        ]
+      },
+      "cultural_significance": {
+        "origin_story": "Pad Krapow is geboren uit de Thaise straateetcultuur, waar snelle en goedkope maaltijden nodig waren voor drukke arbeiders. Het won populariteit in de jaren 1960 toen verstedelijking toenam en straathandelaren gerechten nodig hadden die snel konden worden bereid op draagbare gasbranders.",
+        "cultural_importance": "Pad Krapow is het ultieme soulfood van de Thai — vergelijkbaar met kimchi jjigae in Korea of een gegrilde kaassandwich in Amerika. Het is het gerecht dat ze missen bij heimwee, bestellen bij een kater en als eerste leren aan hun kinderen. 'Pad Krapow kai dao' (met gebakken ei) is Thailand zelf.",
+        "traditional_occasions": [
+          "Nachtsnack",
+          "Lunch voor werkenden",
+          "Goedkope maaltijd voor studenten",
+          "Troostend eten bij ziekte"
+        ]
+      },
+      "variations": [
+        {
+          "name": "팟끄라파오 무끄롭",
+          "description": "Versie met knapperige varkensbuik in plaats van gehakt voor meer rijkdom en textuur."
+        },
+        {
+          "name": "팟끄라파오 탈레",
+          "description": "Versie met zeevruchten — garnalen, inktvis, vis — populair in kustgebieden."
+        },
+        {
+          "name": "팟끄라파오 가이",
+          "description": "Versie met kip, populair bij wie een lichtere smaak prefereert."
+        },
+        {
+          "name": "채식 팟끄라파오",
+          "description": "Vegetarische versie met tofu, paddenstoelen, gemengde groenten."
+        }
+      ],
+      "serving_suggestions": {
+        "traditional_accompaniments": [
+          "Jasmijnrijst (essentieel — nooit serveren zonder rijst)",
+          "Half gare gebakken ei (kai dao)",
+          "Verse komkommerschijven",
+          "Chili vissaus (prik nam pla)",
+          "Thaise ijsthee (om de pittigheid te bestrijden)"
+        ],
+        "presentation": "Op het bord rijst aan één kant, roerbak aan de andere, met erbovenop gebakken ei. De dooier openbreken en mengen met rijst en vlees is de juiste manier.",
+        "eating_etiquette": "Eet met lepel in rechterhand, vork in linker. Gebruik de vork om eten op de lepel te schuiven. De dooier openbreken en de rijst bedekken is deel van de ervaring."
+      },
+      "where_to_find": {
+        "best_restaurants": [
+          "Jay Fai (Bangkok) — Michelin ster versie",
+          "Soei Restaurant (Bangkok) — lokaal favoriet",
+          "Elke straatkar met rij van locals"
+        ],
+        "street_food_areas": [
+          "Chinatown (Yaowarat), Bangkok",
+          "Rond Victory Monument, Bangkok",
+          "Chiang Mai Night Bazaar",
+          "Phuket Weekend Market"
+        ],
+        "price_ranges": {
+          "street_food": "40-60 THB",
+          "restaurant": "80-150 THB",
+          "upscale": "200-400 THB"
+        }
+      },
+      "translated_at": "2026-03-14T00:00:00.000Z"
+    },
+    "th": {
+      "enhanced_description": "Pad Krapow is het populairste eenpersoonsgerecht onder Thai. Gehakt roergebakken met aromatische holy basil in een hete pan, geserveerd op hete witte rijst met een gebakken ei erbovenop. Het is een gemakkelijk te maken maar superlekker gerecht.",
+      "detailed_ingredients": [
+        {
+          "name": "Holy Basil (Bai Krapow)",
+          "purpose": "Het ster-ingrediënt dat dit gerecht zijn naam en kenmerkende peperachtige, kruidnagelachtige smaak geeft",
+          "substitutes": [
+            "Thaise basilicum (minder authentiek maar acceptabel)",
+            "Italiaanse basilicum gemengd met munt (noodvervanger)"
+          ]
+        },
+        {
+          "name": "Thai Bird's Eye Chilies",
+          "purpose": "Biedt de essentiële hitte die dit gerecht authentiek pittig maakt",
+          "substitutes": [
+            "Serrano pepers",
+            "Verse rode chilies",
+            "Chili vlokken (pas de hoeveelheid aan)"
+          ]
+        },
+        {
+          "name": "Minced Pork or Chicken",
+          "purpose": "Traditionele proteïne basis die alle smaken absorbeert",
+          "substitutes": [
+            "Gemalen rundvlees",
+            "Gekruimelde tofu",
+            "Gemalen paddenstoelen voor vegetarisch"
+          ]
+        },
+        {
+          "name": "Fish Sauce",
+          "purpose": "Voegt umami diepte en authentieke Thaise smaak toe",
+          "substitutes": [
+            "Lichte sojasaus met een snufje zout",
+            "Vegetarische paddenstoelensaus"
+          ]
+        },
+        {
+          "name": "Dark Soy Sauce",
+          "purpose": "Biedt kleur en een subtiele zoetheid om de hitte te balanceren",
+          "substitutes": [
+            "Gewone sojasaus met een vleugje melasse"
+          ]
+        }
+      ],
+      "cooking_method": {
+        "technique": "Hoge hitte wok roerbakken",
+        "steps_overview": "De sleutel tot perfect Pad Krapow is extreme hitte en snelheid. Alles gebeurt in minder dan 5 minuten zodra je begint met koken. De wok moet roken heet zijn, wat de begeerde 'wok hei' creëert (adem van de wok) die het gerecht zijn kenmerkende rokerige smaak geeft.",
+        "cooking_tips": [
+          "Gebruik de hoogste hitte die je fornuis kan produceren — dit gerecht heeft serieuze vuur nodig",
+          "Heb alle ingrediënten voorbereid en binnen handbereik voordat je begint",
+          "Kook de holy basil niet te lang — voeg hem toe aan het einde om de smaak te behouden",
+          "Het vlees moet woest sissen wanneer het de wok raakt",
+          "Voor authentieke smaak, plet knoflook en chilies in een vijzel en stamper",
+          "Het gebakken ei moet knapperige randen hebben maar een lopende dooier"
+        ]
+      },
+      "cultural_significance": {
+        "origin_story": "Pad Krapow ontstond uit de Thaise straateetcultuur, waar snelle, betaalbare maaltijden nodig waren voor drukke arbeiders. Het gerecht won populariteit in de jaren 1960 toen verstedelijking toenam en straathandelaren gerechten nodig hadden die snel konden worden gekookt op draagbare gasbranders.",
+        "cultural_importance": "Dit is het standaard comfortfood van Thailand, equivalent aan een gegrilde kaassandwich in Amerika. Het is het gerecht dat Thai verlangen bij heimwee, bestellen bij een kater, en als eerste leren koken aan hun kinderen. De frase 'pad krapow kai dao' (met gebakken ei) is zo Thais als het maar kan.",
+        "traditional_occasions": [
+          "Late nacht streetfood",
+          "Snelle lunch voor kantoorwerkers",
+          "Studenten budget maaltijden",
+          "Comfortfood bij onwel voelen"
+        ]
+      },
+      "variations": [
+        {
+          "name": "Pad Krapow Moo Krob",
+          "description": "Gemaakt met knapperige varkensbuik in plaats van gehakt voor extra rijkdom en textuur"
+        },
+        {
+          "name": "Pad Krapow Talay",
+          "description": "Zeevruchtenversie met garnalen, inktvis en vis — populair in kustgebieden"
+        },
+        {
+          "name": "Pad Krapow Kai",
+          "description": "Kipversie, vaak geprefereerd door wie een lichtere optie zoekt"
+        },
+        {
+          "name": "Vegetarian Pad Krapow",
+          "description": "Gemaakt met tofu, paddenstoelen of gemengde groenten, met vegetarische roerbaksaus"
+        }
+      ],
+      "serving_suggestions": {
+        "traditional_accompaniments": [
+          "Jasmijnrijst (essentieel — nooit serveren zonder)",
+          "Gebakken ei met lopende dooier (kai dao)",
+          "Verse komkommerschijven",
+          "Vis saus met chilies (prik nam pla)",
+          "Koude Thaise ijsthee om de hitte te bestrijden"
+        ],
+        "presentation": "Geserveerd op een bord met rijst aan één kant, de roerbak aan de andere, getopt met een gebakken ei. De dooier moet worden opengebroken en gemengd met de rijst en het vlees.",
+        "eating_etiquette": "Gegeten met een lepel in de rechterhand en vork in de linker. De vork wordt gebruikt om eten op de lepel te duwen. De eidooier openbreken en de rijst laten coaten is deel van de ervaring."
+      },
+      "where_to_find": {
+        "best_restaurants": [
+          "Jay Fai (Bangkok) - Michelin-ster versie",
+          "Soei Restaurant (Bangkok) - Lokaal favoriet",
+          "Elke streetfood kraam met een rij van locals"
+        ],
+        "street_food_areas": [
+          "Chinatown (Yaowarat), Bangkok",
+          "Victory Monument gebied, Bangkok",
+          "Chiang Mai Night Bazaar",
+          "Phuket Weekend Market"
+        ],
+        "price_ranges": {
+          "street_food": "40-60 THB (€1,10-€1,65)",
+          "restaurant": "80-150 THB (€2,20-€4,10)",
+          "upscale": "200-400 THB (€5,50-€11,00)"
+        }
+      },
+      "translated_at": "2026-03-14T00:00:00.000Z"
+    },
+    "ja": {
+      "enhanced_description": "Pad Krapow is het ultieme comfortfood van Thailand. De aromatische stimulans van holy basil en de umami van geurig gehakt zijn perfect in balans in deze pittige roerbak. Dit gerecht, dat veel geliefd is bij straatkramen en restaurants, heeft aantrekkingskracht door zijn krachtige aroma en bevredigende eenvoud. Het geheim ligt in de holy basil (Bai Krapow), die bij het roerbakken op hoge hitte een kenmerkend kruidnagelachtig aroma vrijgeeft, dat alleen al de eetlust opwekt.",
+      "detailed_ingredients": [
+        {
+          "name": "ホーリーバジル (Bai Krapow)",
+          "purpose": "Het hoofd ingrediënt dat dit gerecht zijn naam en kenmerkende peperachtige smaak geeft",
+          "substitutes": [
+            "Thaise basilicum (niet helemaal authentiek maar acceptabel alternatief)",
+            "Italiaanse basilicum gemengd met munt (nood alternatief)"
+          ]
+        },
+        {
+          "name": "タイ・バードアイ・チリ（Thai Bird's Eye Chilies）",
+          "purpose": "De belangrijkste pittigheid die dit gerecht authentiek pittig maakt",
+          "substitutes": [
+            "Serrano peper",
+            "Verse rode peper",
+            "Chili vlokken (pas de hoeveelheid aan)"
+          ]
+        },
+        {
+          "name": "挽き豚肉または鶏挽肉",
+          "purpose": "Traditionele proteïne bron die alle smaken absorbeert",
+          "substitutes": [
+            "Gemalen rundvlees",
+            "Gekruimelde tofu",
+            "Fijngehakte paddenstoelen voor vegetariërs"
+          ]
+        },
+        {
+          "name": "魚醤（Fish Sauce）",
+          "purpose": "Voegt umami diepte en authentieke Thaise smaak toe",
+          "substitutes": [
+            "Dunne sojasaus met een snufje zout",
+            "Vegetarische paddenstoelensaus"
+          ]
+        },
+        {
+          "name": "濃い醤油（Dark Soy Sauce）",
+          "purpose": "Biedt een subtiele zoetheid die kleur en pittigheid in balans brengt",
+          "substitutes": [
+            "Gewone sojasaus met een beetje molasses toegevoegd"
+          ]
+        }
+      ],
+      "cooking_method": {
+        "technique": "Roerbakken in een wok op hoge hitte",
+        "steps_overview": "De sleutel om Pad Krapow perfect te maken, is extreme hoge temperatuur en snelheid. Alles gebeurt binnen 5 minuten. De wok wordt rokend heet en creëert de kenmerkende rooksmaak van gerechten, 'Wok Hei (aroma)'.",
+        "cooking_tips": [
+          "Gebruik de maximale hitte van het fornuis - dit gerecht heeft een sterke vlam nodig",
+          "Bereid alle ingrediënten van tevoren voor en zet ze bij de hand",
+          "Voeg de heilige basilicum niet te lang toe - doe het aan het eind om de smaak te behouden",
+          "Het vlees moet sissen en spetteren als het in de wok gaat",
+          "Om een authentieke smaak te krijgen, plet knoflook en chili in een vijzel",
+          "Het gebakken ei moet knapperige randen hebben en een lopende dooier"
+        ]
+      },
+      "cultural_significance": {
+        "origin_story": "Pad Krapow is geboren uit de Thaise straatre foodcultuur. Voor drukke arbeiders was er behoefte aan snel te bereiden en goedkope maaltijden. Met de verstedelijking in de jaren 1960 werden straatkraampjes populair met gerechten die snel gekookt konden worden op draagbare gasbranders.",
+        "cultural_importance": "Dit is een Thais standaard troostgerecht, vergelijkbaar met een Amerikaanse gegrilde kaassandwich. Het is wat Thai eten als ze heimwee hebben, een kater, en het eerste gerecht dat ze kinderen leren koken. 'Pad Krapow kai dao' is een iconische Thaise uitdrukking.",
+        "traditional_occasions": [
+          "Straatgerecht voor late avonden",
+          "Snelle lunch voor kantoorwerkers",
+          "Budgetvriendelijke maaltijd voor studenten",
+          "Standaard troostgerecht als je je niet lekker voelt"
+        ]
+      },
+      "variations": [
+        {
+          "name": "Pad Krapow Moo Krob",
+          "description": "Variatie met knapperig varkensbuikvlees in plaats van gehakt voor extra textuur en rijkdom"
+        },
+        {
+          "name": "Pad Krapow Talay",
+          "description": "Zeefoodversie met garnalen, inktvis en vis. Populair aan de kust"
+        },
+        {
+          "name": "Pad Krapow Kai",
+          "description": "Kipversie. Favoriet bij wie een lichtere keuze wil"
+        },
+        {
+          "name": "Vegetarian Pad Krapow",
+          "description": "Gemaakt met tofu, paddenstoelen en groenten, afgewerkt met vegetarische roerbaksaus"
+        }
+      ],
+      "serving_suggestions": {
+        "traditional_accompaniments": [
+          "Jasmijnrijst (essentieel - zonder dit wordt het niet geserveerd)",
+          "Gebakken ei met lopende dooier (kai dao)",
+          "Verse komkommerschijfjes",
+          "Chili-vis sauce (prik nam pla)",
+          "Koude Thaise ijsthee tegen de hitte"
+        ],
+        "presentation": "Schep de rijst aan één kant, de roerbak aan de andere, en leg het ei erbovenop. Breek de dooier open en meng met rijst en vlees voor een explosie van aroma en smaak.",
+        "eating_etiquette": "Eet met lepel in de rechterhand en vork in de linker. De vork dient om eten op de lepel te scheppen. Het breken van de dooier en mengen met rijst en vlees is deel van de eetervaring."
+      },
+      "where_to_find": {
+        "best_restaurants": [
+          "Jay Fai (Bangkok) - Michelin-ster versie",
+          "Soei Restaurant (Bangkok) - Lokaal favoriet",
+          "Straatkraampjes waar locals aanschuiven"
+        ],
+        "street_food_areas": [
+          "Chinatown (Yaowarat), Bangkok",
+          "Victory Monument area, Bangkok",
+          "Chiang Mai Night Bazaar",
+          "Phuket Weekend Market"
+        ],
+        "price_ranges": {
+          "street_food": "Straatfood 40-60 THB (€1,10-€1,65)",
+          "restaurant": "Restaurants 80-150 THB (€2,20-€4,15)",
+          "upscale": "Luxe 200-400 THB (€6,00-€12,00)"
+        }
+      },
+      "translated_at": "2026-03-14T00:00:00.000Z"
+    }
+  }
+}

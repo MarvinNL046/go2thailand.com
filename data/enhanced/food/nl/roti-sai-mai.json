@@ -1,0 +1,973 @@
+{
+  "id": 26,
+  "slug": "roti-sai-mai",
+  "name": {
+    "en": "Roti Sai Mai",
+    "nl": "Roti Sai Mai",
+    "thai": "โรตีสายไหม"
+  },
+  "category": "nagerecht",
+  "region": "centraal",
+  "spice_level": "geen",
+  "description": {
+    "en": "Thai cotton candy wrapped in thin roti from Ayutthaya",
+    "nl": "Thaise suikerspin gewikkeld in dunne roti uit Ayutthaya"
+  },
+  "ingredients": [
+    "bloem",
+    "suiker",
+    "kleurstof",
+    "water",
+    "zout"
+  ],
+  "allergens": [],
+  "dietary": [
+    "vegetarisch"
+  ],
+  "image": "/images/food/roti-sai-mai.webp",
+  "preparation_time": "30 minuten",
+  "difficulty": "moeilijk",
+  "price_range": "budget",
+  "seo": {
+    "metaTitle": {
+      "en": "Roti Sai Mai Recipe | Authentic Thai dessert",
+      "nl": "Roti Sai Mai Recept | Authentieke Thaise dessert"
+    },
+    "metaDescription": {
+      "en": "Learn about Roti Sai Mai (โรตีสายไหม) - Thai cotton candy wrapped in thin roti from Ayutthaya...",
+      "nl": "Leer over Roti Sai Mai (โรตีสายไหม) - Thaise suikerspin gewikkeld in dunne roti uit Ayutthaya..."
+    }
+  },
+  "tags": [
+    "thaise-keuken",
+    "Thailand",
+    "nagerecht",
+    "centraal",
+    "moeilijk",
+    "budget",
+    "bloem",
+    "suiker",
+    "kleurstof"
+  ],
+  "cooking": {
+    "preparation_time": "30 minuten",
+    "difficulty": "moeilijk",
+    "spice_level": "geen",
+    "serves": "2-4 personen"
+  },
+  "nutrition": {
+    "allergens": [],
+    "dietary": [
+      "vegetarisch"
+    ],
+    "price_range": "budget"
+  },
+  "enhanced_description": "Roti Sai Mai is een geliefd heerlijk zoet gerecht uit Centraal-Thailand dat mild is voor de smaakpapillen. Thaise suikerspin gewikkeld in dunne roti uit Ayutthaya. Dit uitdagende recept duurt ongeveer 30 minuten om te bereiden en belichaamt de authentieke smaken van de Centraal-Thaise keuken die zoet, zuur, zout en pittig perfect in balans brengt. De combinatie van bloem, suiker en kleurstof creëert een harmonieuze mengeling die dit gerecht tot een favoriet heeft gemaakt bij zowel locals als bezoekers. Perfect voor wie op zoek is naar betaalbare authentieke Thaise keuken.",
+  "detailed_ingredients": [
+    {
+      "name": "Flour",
+      "purpose": "Essentieel voor de authentieke Roti Sai Mai smaak",
+      "substitutes": [
+        "Verse bloem",
+        "Gedroogde bloem",
+        "bloempasta"
+      ]
+    },
+    {
+      "name": "Sugar",
+      "purpose": "Essentieel voor de authentieke Roti Sai Mai smaak",
+      "substitutes": [
+        "Verse suiker",
+        "Gedroogde suiker",
+        "suikerpasta"
+      ]
+    },
+    {
+      "name": "Food coloring",
+      "purpose": "Essentieel voor de authentieke Roti Sai Mai smaak",
+      "substitutes": [
+        "Verse kleurstof",
+        "Gedroogde kleurstof",
+        "kleurstofpasta"
+      ]
+    },
+    {
+      "name": "Water",
+      "purpose": "Essentieel voor de authentieke Roti Sai Mai smaak",
+      "substitutes": [
+        "Vers water",
+        "Gedroogd water",
+        "waterpasta"
+      ]
+    }
+  ],
+  "cooking_method": {
+    "technique": "Traditionele bereiding",
+    "steps_overview": "Het bereiden van Roti Sai Mai vereist aandacht voor detail en juiste timing. De sleutel is om alle smaken in balans te brengen terwijl de textuur van elk ingrediënt behouden blijft. Traditionele methoden die van generatie op generatie zijn doorgegeven, zorgen voor een authentieke smaak.",
+    "cooking_tips": [
+      "Gebruik verse bloem voor het beste resultaat",
+      "Pas de zoetheid aan naar je voorkeur",
+      "Kook niet te lang om de textuur te behouden",
+      "Proef en pas de kruiding aan voor het serveren"
+    ]
+  },
+  "cultural_significance": {
+    "origin_story": "Roti Sai Mai is al generaties lang een vast onderdeel van de Centraal-Thaise keuken en weerspiegelt de unieke culinaire tradities en lokale ingrediënten van de regio.",
+    "cultural_importance": "Dit gerecht vertegenwoordigt het hart van de Centraal-Thaise kookkunst en toont de balans en harmonie waarvoor de Thaise keuken wereldwijd beroemd is.",
+    "traditional_occasions": [
+      "Familiebijeenkomsten",
+      "Lokale festivals",
+      "Straatvoedselmarkten",
+      "Bijzondere vieringen"
+    ]
+  },
+  "variations": [
+    {
+      "name": "Roti Sai Mai Classic",
+      "description": "De traditionele versie zoals geserveerd in lokale huizen"
+    },
+    {
+      "name": "Roti Sai Mai Modern",
+      "description": "Hedendaagse twist met premium ingrediënten"
+    },
+    {
+      "name": "Vegetarian Roti Sai Mai",
+      "description": "Plantaardige versie met tofu of paddenstoelen"
+    }
+  ],
+  "serving_suggestions": {
+    "traditional_accompaniments": [
+      "Jasmijnrijst",
+      "Verse groenten",
+      "Thaise kruiden"
+    ],
+    "presentation": "Geserveerd op een bord in traditionele Thaise stijl",
+    "eating_etiquette": "Genoten met vork en lepel volgens Thaise gewoonte"
+  },
+  "nutritional_info": {
+    "calories_per_serving": "200-300 calorieën",
+    "health_benefits": [
+      "Rijk aan Thaise kruiden en specerijen",
+      "Bron van eiwitten en groenten",
+      "Gebalanceerde smaken en voedingsstoffen"
+    ],
+    "dietary_notes": [
+      "vegetarisch"
+    ]
+  },
+  "where_to_find": {
+    "best_restaurants": [
+      "Lokale Centraal-Thaise restaurants",
+      "Authentieke straatvoedselkraampjes",
+      "Traditionele markten",
+      "Familiegerunde eettentjes"
+    ],
+    "street_food_areas": [
+      "Nachtmarkten",
+      "Ochtendverse markten",
+      "Roti Sai Mai is een geliefd heerlijk zoet traktatie uit Centraal-Thailand dat zacht is voor het gehemelte. Thaise suikerspin gewikkeld in dunne roti uit Ayutthaya. Dit uitdagende recept vergt ongeveer 30 minuten bereidingstijd en vertegenwoordigt de authentieke smaken van de Centraal-Thaise keuken die zoete, zure, zoute en pittige smaken perfect in balans brengt. De combinatie van bloem, suiker en kleurstof creëert een harmonieuze mix die dit gerecht tot een favoriet heeft gemaakt onder zowel locals als bezoekers. Perfect voor wie op zoek is naar betaalbare authentieke Thaise keuken."
+    ],
+    "price_ranges": {
+      "street_vendor": "30-50 THB",
+      "market_stall": "40-60 THB",
+      "restaurant": "60-100 THB"
+    }
+  },
+  "translations": {
+    "nl": {
+      "enhanced_description": "Essentieel voor de authentieke Roti Sai Mai smaak",
+      "detailed_ingredients": [
+        {
+          "name": "Bloem",
+          "purpose": "Tarwebloem",
+          "substitutes": [
+            "Rijstbloem",
+            "Speltbloem",
+            "Essentieel voor de authentieke Roti Sai Mai smaak"
+          ]
+        },
+        {
+          "name": "Suiker",
+          "purpose": "Palmsuiker",
+          "substitutes": [
+            "Kokossuiker",
+            "Kristalsuiker",
+            "Essentieel voor de authentieke Roti Sai Mai smaak"
+          ]
+        },
+        {
+          "name": "Kleurstof",
+          "purpose": "Natuurlijke kleurstof",
+          "substitutes": [
+            "Pandanextract (groen)",
+            "Vlinderbloem (blauw)",
+            "Essentieel voor de authentieke Roti Sai Mai smaak"
+          ]
+        },
+        {
+          "name": "Water",
+          "purpose": "Kokoswater",
+          "substitutes": [
+            "Pandanwater",
+            "Gewoon water",
+            "Traditionele bereiding"
+          ]
+        }
+      ],
+      "cooking_method": {
+        "technique": "Het bereiden van Roti Sai Mai vereist aandacht voor detail en goede timing. De sleutel is het balanceren van alle smaken terwijl de textuur van elk ingrediënt behouden blijft. Traditionele methoden die van generatie op generatie zijn doorgegeven, garanderen een authentieke smaak.",
+        "steps_overview": "Gebruik verse bloem voor het beste resultaat",
+        "cooking_tips": [
+          "Pas de zoetheid aan naar je voorkeur",
+          "Kook niet te lang om de textuur te behouden",
+          "Proef en pas de kruiding aan voor het serveren",
+          "Roti Sai Mai is al generaties lang een vast onderdeel van de Centraal-Thaise keuken en weerspiegelt de unieke culinaire tradities en lokale ingrediënten van de regio."
+        ]
+      },
+      "cultural_significance": {
+        "origin_story": "Dit gerecht vertegenwoordigt het hart van de Centraal-Thaise kookkunst en toont de balans en harmonie waarmee de Thaise keuken wereldwijd beroemd is.",
+        "cultural_importance": "Familiebijeenkomsten",
+        "traditional_occasions": [
+          "Lokale festivals",
+          "Straatvoedselmarkten",
+          "Bijzondere vieringen",
+          "De traditionele versie zoals geserveerd in lokale huishoudens"
+        ]
+      },
+      "variations": [
+        {
+          "name": "Roti Sai Mai Klassiek",
+          "description": "Hedendaagse variant met premium ingrediënten"
+        },
+        {
+          "name": "Roti Sai Mai Modern",
+          "description": "Plantaardige versie met tofu of paddenstoelen"
+        },
+        {
+          "name": "Vegetarische Roti Sai Mai",
+          "description": "Jasmijnrijst"
+        }
+      ],
+      "serving_suggestions": {
+        "traditional_accompaniments": [
+          "Verse groenten",
+          "Thaise kruiden",
+          "Geserveerd op een bord in traditionele Centraal-Thaise stijl"
+        ],
+        "presentation": "Gegeten met de handen, de suikerspin wordt in de roti gewikkeld",
+        "eating_etiquette": "Lokale Centraal-Thaise restaurants"
+      },
+      "where_to_find": {
+        "best_restaurants": [
+          "Authentieke straatvoedselkramen",
+          "Traditionele markten",
+          "Familiebedrijfjes",
+          "Nachtmarkten"
+        ],
+        "street_food_areas": [
+          "Ochtendverse markten",
+          "Lokale food courts",
+          "Le Roti Sai Mai est une délicieuse douceur appréciée de la Thaïlande centrale, douce pour le palais. De la barbe à papa thaïlandaise enveloppée dans un fin roti d'Ayutthaya. Cette recette difficile nécessite environ 30 minutes de préparation et représente les saveurs authentiques de la cuisine du centre de la Thaïlande qui équilibre parfaitement les saveurs sucrées, acides, salées et épicées. La combinaison de farine, de sucre et de colorant alimentaire crée un mélange harmonieux qui a fait de ce dessert un favori tant auprès des locaux que des visiteurs. Parfait pour ceux qui recherchent une cuisine thaïlandaise authentique à petit prix."
+        ]
+      },
+      "translated_at": "2026-03-10T00:00:00.000Z"
+    },
+    "fr": {
+      "enhanced_description": "Essentiel pour la saveur authentique du Roti Sai Mai",
+      "detailed_ingredients": [
+        {
+          "name": "Farine",
+          "purpose": "Farine de blé",
+          "substitutes": [
+            "Farine de riz",
+            "Farine d'épeautre",
+            "Essentiel pour la saveur authentique du Roti Sai Mai"
+          ]
+        },
+        {
+          "name": "Sucre",
+          "purpose": "Sucre de palme",
+          "substitutes": [
+            "Sucre de coco",
+            "Sucre cristallisé",
+            "Essentiel pour la saveur authentique du Roti Sai Mai"
+          ]
+        },
+        {
+          "name": "Colorant alimentaire",
+          "purpose": "Colorant naturel",
+          "substitutes": [
+            "Extrait de pandan (vert)",
+            "Fleur de pois papillon (bleu)",
+            "Essentiel pour la saveur authentique du Roti Sai Mai"
+          ]
+        },
+        {
+          "name": "Eau",
+          "purpose": "Eau de coco",
+          "substitutes": [
+            "Eau de pandan",
+            "Eau ordinaire",
+            "Préparation traditionnelle"
+          ]
+        }
+      ],
+      "cooking_method": {
+        "technique": "La préparation du Roti Sai Mai nécessite de l'attention aux détails et un bon timing. La clé est d'équilibrer toutes les saveurs tout en préservant la texture de chaque ingrédient. Les méthodes traditionnelles transmises de génération en génération garantissent un goût authentique.",
+        "steps_overview": "Utilisez de la farine fraîche pour un meilleur résultat",
+        "cooking_tips": [
+          "Ajustez le niveau de sucre selon vos préférences",
+          "Ne faites pas trop cuire pour préserver la texture",
+          "Goûtez et ajustez l'assaisonnement avant de servir",
+          "Le Roti Sai Mai est un pilier de la cuisine du centre de la Thaïlande depuis des générations, reflétant les traditions culinaires uniques et les ingrédients locaux de la région."
+        ]
+      },
+      "cultural_significance": {
+        "origin_story": "Ce dessert représente le cœur de la cuisine du centre de la Thaïlande, illustrant l'équilibre et l'harmonie qui ont rendu la cuisine thaïlandaise célèbre dans le monde entier.",
+        "cultural_importance": "Réunions de famille",
+        "traditional_occasions": [
+          "Festivals locaux",
+          "Marchés de cuisine de rue",
+          "Célébrations spéciales",
+          "La version traditionnelle telle que servie dans les foyers locaux"
+        ]
+      },
+      "variations": [
+        {
+          "name": "Roti Sai Mai Classique",
+          "description": "La version traditionnelle telle que servie dans les foyers locaux"
+        },
+        {
+          "name": "Roti Sai Mai Moderne",
+          "description": "Moderne versie met premium ingrediënten"
+        },
+        {
+          "name": "Roti Sai Mai Végétarien",
+          "description": "Plantaardige versie met tofu of champignons"
+        }
+      ],
+      "serving_suggestions": {
+        "traditional_accompaniments": [
+          "Jasmijnrijst",
+          "Verse groenten",
+          "Thaise kruiden"
+        ],
+        "presentation": "Geserveerd op een bord in de traditionele stijl van het centrum van Thailand",
+        "eating_etiquette": "Wordt met de handen gegeten, de suikerspin wordt in de roti gewikkeld"
+      },
+      "where_to_find": {
+        "best_restaurants": [
+          "Lokale restaurants in het centrum van Thailand",
+          "Authentieke straatkraampjes",
+          "Traditionele markten",
+          "Familierestaurants"
+        ],
+        "street_food_areas": [
+          "Nachtmarkten",
+          "Verse ochtendmarkten",
+          "Lokale foodcourts"
+        ]
+      },
+      "translated_at": "2026-03-10T00:00:00.000Z"
+    },
+    "de": {
+      "enhanced_description": "Roti Sai Mai is een populaire, heerlijke zoetigheid uit Midden-Thailand met een zachte smaak voor de tong. Thaise suikerspin, gewikkeld in dunne roti uit Ayutthaya. Dit uitdagende recept vereist ongeveer 30 minuten voorbereidingstijd en belichaamt de authentieke smaken van de Midden-Thaise keuken, die zoete, zure, zoute en pittige tonen perfect in balans brengt. De combinatie van meel, suiker en kleurstof creëert een harmonieuze mix die dit dessert tot een favoriet maakt bij zowel locals als bezoekers. Perfect voor wie betaalbare authentieke Thaise gerechten zoekt.",
+      "detailed_ingredients": [
+        {
+          "name": "Mehl",
+          "purpose": "Onmisbaar voor de authentieke Roti Sai Mai-smaak",
+          "substitutes": [
+            "Tarwemeel",
+            "Rijstmeel",
+            "Speltmeel"
+          ]
+        },
+        {
+          "name": "Zucker",
+          "purpose": "Onmisbaar voor de authentieke Roti Sai Mai-smaak",
+          "substitutes": [
+            "Palmsuiker",
+            "Koksusuiker",
+            "Kristalsuiker"
+          ]
+        },
+        {
+          "name": "Lebensmittelfarbe",
+          "purpose": "Onmisbaar voor de authentieke Roti Sai Mai-smaak",
+          "substitutes": [
+            "Natuurlijke kleurstof",
+            "Pandanextract (groen)",
+            "Klitonia-bloem (blauw)"
+          ]
+        },
+        {
+          "name": "Wasser",
+          "purpose": "Onmisbaar voor de authentieke Roti Sai Mai-smaak",
+          "substitutes": [
+            "Kokoswater",
+            "Pandanwater",
+            "Gewoon water"
+          ]
+        }
+      ],
+      "cooking_method": {
+        "technique": "Traditionele bereiding",
+        "steps_overview": "De bereiding van Roti Sai Mai vereist aandacht voor details en goed timing. De sleutel ligt in het balanceren van alle smaken terwijl de textuur van elke ingrediënt behouden blijft. Traditionele methoden, doorgegeven van generatie op generatie, garanderen een authentieke smaak.",
+        "cooking_tips": [
+          "Gebruik vers meel voor het beste resultaat",
+          "Pas de zoetheid aan naar smaak",
+          "Niet te lang bakken om de textuur te behouden",
+          "Proeven en aanpassen voor het serveren"
+        ]
+      },
+      "cultural_significance": {
+        "origin_story": "Roti Sai Mai is al generaties lang een vast onderdeel van de Midden-Thaise keuken en weerspiegelt de unieke culinaire tradities en lokale ingrediënten van de regio.",
+        "cultural_importance": "Dit dessert belichaamt het hart van de Midden-Thaise kookkunst en toont de balans en harmonie waarvoor de Thaise keuken wereldwijd beroemd is.",
+        "traditional_occasions": [
+          "Familiebijeenkomsten",
+          "Lokale feesten",
+          "Straatvoedselmarkten",
+          "Speciale vieringen"
+        ]
+      },
+      "variations": [
+        {
+          "name": "Roti Sai Mai Klassisch",
+          "description": "De traditionele versie zoals geserveerd in lokale huishoudens"
+        },
+        {
+          "name": "Roti Sai Mai Modern",
+          "description": "Moderne variant met hoogwaardige ingrediënten"
+        },
+        {
+          "name": "Vegetarische Roti Sai Mai",
+          "description": "Plantaardige versie met tofu of paddenstoelen"
+        }
+      ],
+      "serving_suggestions": {
+        "traditional_accompaniments": [
+          "Jasmijnrijst",
+          "Verse groenten",
+          "Thaise kruiden"
+        ],
+        "presentation": "Geserveerd op een bord in de traditionele Midden-Thaise stijl",
+        "eating_etiquette": "Wordt met de handen gegeten, de suikerspin wordt in de roti gewikkeld"
+      },
+      "where_to_find": {
+        "best_restaurants": [
+          "Lokale Midden-Thaise restaurants",
+          "Authentieke straatkraampjes",
+          "Traditionele markten",
+          "Familiegerunde etablissementen"
+        ],
+        "street_food_areas": [
+          "Nachtmarkten",
+          "Verse ochtendmarkten",
+          "Lokale foodcourts"
+        ]
+      },
+      "translated_at": "2026-03-10T00:00:00.000Z"
+    },
+    "zh": {
+      "enhanced_description": "Roti Sai Mai is een geliefd zoet gerecht uit Midden-Thailand met een zachte en verfijnde textuur. Dit is Thaise suikerspin uit Ayutthaya, gewikkeld in dunne roti. Dit uitdagende recept duurt ongeveer 30 minuten voorbereiding en vertegenwoordigt de authentieke smaken van de Midden-Thaise keuken – een perfecte balans van zoet, zuur, zout en pittig. De combinatie van meel, suiker en kleurstof creëert een harmonieuze smaak die dit dessert populair maakt bij zowel locals als toeristen. Ideaal voor wie betaalbare authentieke Thaise gerechten zoekt.",
+      "detailed_ingredients": [
+        {
+          "name": "面粉",
+          "purpose": "Sleutelingrediënt voor de authentieke Roti Sai Mai-smaak",
+          "substitutes": [
+            "Tarwemeel",
+            "Rijstmeel",
+            "Speltmeel"
+          ]
+        },
+        {
+          "name": "糖",
+          "purpose": "Sleutelingrediënt voor de authentieke Roti Sai Mai-smaak",
+          "substitutes": [
+            "Palmsuiker",
+            "Koksusuiker",
+            "Witte suiker"
+          ]
+        },
+        {
+          "name": "食用色素",
+          "purpose": "Sleutelingrediënt voor de authentieke Roti Sai Mai-smaak",
+          "substitutes": [
+            "Natuurlijke kleurstof",
+            "Pandanextract (groen)",
+            "Vlindererwtbloem (blauw)"
+          ]
+        },
+        {
+          "name": "水",
+          "purpose": "Sleutelingrediënt voor de authentieke Roti Sai Mai-smaak",
+          "substitutes": [
+            "Kokoswater",
+            "Pandanwater",
+            "Gewoon drinkwater"
+          ]
+        }
+      ],
+      "cooking_method": {
+        "technique": "Traditionele bereidingswijze",
+        "steps_overview": "De bereiding van Roti Sai Mai vereist aandacht voor details en goed tijdbeheer. De sleutel is het balanceren van alle smaken terwijl de textuur van elk ingrediënt behouden blijft. Traditionele methoden, doorgegeven van generatie op generatie, zorgen voor een authentieke smaak.",
+        "cooking_tips": [
+          "Gebruik vers meel voor het beste effect",
+          "Pas de zoetheid aan naar persoonlijke voorkeur",
+          "Niet te lang koken om de textuur te behouden",
+          "Proeven en smaak aanpassen voor het serveren"
+        ]
+      },
+      "cultural_significance": {
+        "origin_story": "Roti Sai Mai is al generaties lang een klassiek dessert in de Midden-Thaise keuken en weerspiegelt de unieke culinaire tradities en lokale ingrediënten van de regio.",
+        "cultural_importance": "Dit dessert vertegenwoordigt de essentie van de Midden-Thaise kookkunst en toont de wereldberoemde balans en harmonie van de Thaise keuken.",
+        "traditional_occasions": [
+          "Familiebijeenkomsten",
+          "Lokale festivals",
+          "Straatvoedselmarkten",
+          "Speciale vieringen"
+        ]
+      },
+      "variations": [
+        {
+          "name": "经典Roti Sai Mai",
+          "description": "De traditionele versie zoals gemaakt in lokale families"
+        },
+        {
+          "name": "现代Roti Sai Mai",
+          "description": "Moderne innovatieve versie met hoogwaardige ingrediënten"
+        },
+        {
+          "name": "素食Roti Sai Mai",
+          "description": "Vegetarische versie met tofu of paddenstoelen"
+        }
+      ],
+      "serving_suggestions": {
+        "traditional_accompaniments": [
+          "Jasmijnrijst",
+          "Verse groenten",
+          "Thaise kruiden"
+        ],
+        "presentation": "Geserveerd op een bord in de traditionele Midden-Thaise stijl",
+        "eating_etiquette": "Met de handen gegeten, suikerspin gewikkeld in roti"
+      },
+      "where_to_find": {
+        "best_restaurants": [
+          "Lokale Midden-Thaise restaurants",
+          "Authentieke straatvoedselkraampjes",
+          "Traditionele markten",
+          "Familiegerunde kleine restaurants"
+        ],
+        "street_food_areas": [
+          "Nachtmarkten",
+          "Ochtendmarkten",
+          "Lokale foodcourts"
+        ]
+      },
+      "translated_at": "2026-03-11T00:00:00.000Z"
+    },
+    "ru": {
+      "enhanced_description": "Roti Sai Mai is een geliefd zoet hapje uit Midden-Thailand met een zachte smaak. Thaise suikerspin, gewikkeld in dunne roti-pannenkoeken uit Ayutthaya. Dit complexe recept vereist ongeveer 30 minuten voorbereiding en belichaamt de authentieke smaken van de Midden-Thaise keuken, die zoete, zure, zoute en pittige tonen perfect combineert. De mix van meel, suiker en kleurstoffen creëert een harmonieuze smaak die dit dessert geliefd maakt bij zowel locals als toeristen. Een uitstekende keuze voor wie betaalbare en authentieke Thaise keuken zoekt.",
+      "detailed_ingredients": [
+        {
+          "name": "Мука",
+          "purpose": "Basis voor de authentieke Roti Sai Mai-smaak",
+          "substitutes": [
+            "Tarwemeel",
+            "Rijstmeel",
+            "Speltmeel"
+          ]
+        },
+        {
+          "name": "Сахар",
+          "purpose": "Basis voor de authentieke Roti Sai Mai-smaak",
+          "substitutes": [
+            "Palmsuiker",
+            "Koksusuiker",
+            "Kristalsuiker"
+          ]
+        },
+        {
+          "name": "Пищевой краситель",
+          "purpose": "Basis voor de authentieke Roti Sai Mai-smaak",
+          "substitutes": [
+            "Natuurlijke kleurstof",
+            "Pandanextract (groen)",
+            "Klitonia-bloem (blauw)"
+          ]
+        },
+        {
+          "name": "Вода",
+          "purpose": "Basis voor de authentieke Roti Sai Mai-smaak",
+          "substitutes": [
+            "Kokoswater",
+            "Pandanwater",
+            "Gewoon drinkwater"
+          ]
+        }
+      ],
+      "cooking_method": {
+        "technique": "Traditionele bereiding",
+        "steps_overview": "De bereiding van Roti Sai Mai vereist aandacht voor details en precieze tijdcontrole. De sleutel is het balanceren van alle smaken terwijl de textuur van elk ingrediënt behouden blijft. Traditionele methoden, doorgegeven van generatie op generatie, garanderen een authentieke smaak.",
+        "cooking_tips": [
+          "Gebruik vers meel voor het beste resultaat",
+          "Pas de zoetheid aan naar smaak",
+          "Niet te lang bakken om de textuur te behouden",
+          "Proeven en smaak aanpassen voor het serveren"
+        ]
+      },
+      "cultural_significance": {
+        "origin_story": "Roti Sai Mai is al vele generaties een klassiek dessert in de Midden-Thaise keuken en weerspiegelt de unieke culinaire tradities en lokale ingrediënten van de regio.",
+        "cultural_importance": "Dit dessert belichaamt de essentie van de Midden-Thaise kookkunst en toont de balans en harmonie waarvoor de Thaise keuken wereldwijd beroemd is.",
+        "traditional_occasions": [
+          "Familiebijeenkomsten",
+          "Lokale festivals",
+          "Straatvoedselmarkten",
+          "Speciale vieringen"
+        ]
+      },
+      "variations": [
+        {
+          "name": "Классический Роти Сай Май",
+          "description": "De traditionele versie zoals bereid in lokale families"
+        },
+        {
+          "name": "Современный Роти Сай Май",
+          "description": "Moderne variant met premium ingrediënten"
+        },
+        {
+          "name": "Вегетарианский Роти Сай Май",
+          "description": "Plantaardige versie met tofu of paddenstoelen"
+        }
+      ],
+      "serving_suggestions": {
+        "traditional_accompaniments": [
+          "Jasmijnrijst",
+          "Verse groenten",
+          "Thaise kruiden"
+        ],
+        "presentation": "Geserveerd op een bord in de traditionele stijl van Midden-Thailand",
+        "eating_etiquette": "Met de handen gegeten – suikerspin gewikkeld in roti"
+      },
+      "where_to_find": {
+        "best_restaurants": [
+          "Lokale restaurants met Midden-Thaise keuken",
+          "Authentieke straatkraampjes",
+          "Traditionele markten",
+          "Familiegerunde etablissementen"
+        ],
+        "street_food_areas": [
+          "Nachtmarkten",
+          "Verse ochtendmarkten",
+          "Lokale foodcourts"
+        ]
+      },
+      "translated_at": "2026-03-11T00:00:00.000Z"
+    },
+    "ko": {
+      "enhanced_description": "Roti Sai Mai is het meest iconische dessert van Ayutthaya, waarbij 'Sai Mai' in het Thais 'zijdedraad' betekent. Net als de naam wordt suiker gesmolten en tot dunne, haarachtige draden getrokken om suikerspin te maken, die op papierdun gebakken roti (platbrood) wordt gelegd en opgerold om te eten. De suikerspin wordt gemaakt in prachtige pasteltinten zoals roze, groen, paars en wit, wat het visueel aantrekkelijk maakt. Langs de wegen in Ayutthaya staan kraampjes met Roti Sai Mai, vooral rond U-Thong Road. Bij een bezoek aan Ayutthaya is het een must-try souvenir en snack, populair als cadeau in een zakje.",
+      "detailed_ingredients": [
+        {
+          "name": "밀가루",
+          "purpose": "Basis-ingrediënten voor papierdunne roti (crêpe)",
+          "substitutes": [
+            "Tarwemeel",
+            "Zachte bloem"
+          ]
+        },
+        {
+          "name": "설탕 (백설탕 또는 야자 설탕)",
+          "purpose": "Belangrijk ingrediënt om gesmolten dunne draadjes van katoensuiker (sai mai) te trekken",
+          "substitutes": [
+            "Palmsuiker",
+            "Witte suiker"
+          ]
+        },
+        {
+          "name": "식용 색소",
+          "purpose": "Ingrediënten om katoensuiker roze, groen, paars etc. pastelkleuren te geven",
+          "substitutes": [
+            "Pandanbladextract (groen)",
+            "Boterbloem (blauw)",
+            "Bietensap (roze)"
+          ]
+        },
+        {
+          "name": "물과 소금",
+          "purpose": "Basis-ingrediënt voor het deeg; zout helpt bij glutenformatie om het deeg dun uit te rekken",
+          "substitutes": []
+        }
+      ],
+      "cooking_method": {
+        "technique": "Suikerdraden trekken en crêpe bakken",
+        "steps_overview": "Roti sai mai vereist twee afzonderlijke werkzaamheden. Eerst maak je een bloemdeeg dat rijpt, en dat rol je daarna papierdun uit op een hete plaat om een crêpe te bakken. Apart maak je een siroop door suiker in water te smelten, en als de consistentie goed is, voeg je kleurstof toe en trek je het snel uit tot draadjes. Deze suikerdraadjes bundel je tot katoensuiker en leg je op de dunne roti, waarna je het oprolt om het af te maken.",
+        "cooking_tips": [
+          "De consistentie van de suikersiroop is cruciaal — te dun en de draadjes breken, te dik en het wordt hard",
+          "Trek de suikerdraadjes snel en met constante snelheid om dunne draadjes te krijgen",
+          "Bak de roti zo dun mogelijk — ideaal is doorschijnend dun",
+          "De afgewerkte katoensuiker is gevoelig voor vocht, dus bewaar het luchtdicht",
+          "Traditioneel kunnen alleen ervaren ambachtslieden perfecte suikerdraadjes trekken"
+        ]
+      },
+      "cultural_significance": {
+        "origin_story": "Roti sai mai is waarschijnlijk een traditioneel snoepje uit de Ayutthaya-dynastie (1351-1767). Het combineert roti-technieken van moslimhandelaren met Thaise suikerambacht. In de tijd dat Ayutthaya de hoofdstad was, was het een luxe snack voor koninklijk hof en adel, maar nu is het een betaalbare straatfood voor iedereen.",
+        "cultural_importance": "Roti sai mai vertegenwoordigt de culturele identiteit van Ayutthaya. Thaise bezoekers nemen het altijd mee als souvenir, en een bezoek aan het Ayutthaya Historisch Park gaat gepaard met het kopen van roti sai mai. De hele stad staat bekend om dit dessert, met veel familie-stalletjes die het generaties lang op dezelfde plek maken en verkopen.",
+        "traditional_occasions": [
+          "Ayutthaya toerisme souvenir",
+          "Snoepje voor cadeau",
+          "Festivals en evenementen",
+          "Middagsnack",
+          "Kindersnack"
+        ]
+      },
+      "variations": [
+        {
+          "name": "로띠 사이마이 전통식",
+          "description": "De meest traditionele stijl: roze, groen en witte katoensuiker opgerold in dunne roti."
+        },
+        {
+          "name": "로띠 사이마이 판단",
+          "description": "Versie met natuurlijke groene kleur en aroma van pandanblad."
+        },
+        {
+          "name": "로띠 사이마이 선물 세트",
+          "description": "Souvenirset in een mooie verpakking, met roti en katoensuiker apart verpakt."
+        }
+      ],
+      "serving_suggestions": {
+        "traditional_accompaniments": [
+          "Katoensuiker in diverse kleuren (roze, groen, paars, wit)",
+          "Koude drank (omdat katoensuiker zoet is)"
+        ],
+        "presentation": "Rol de dunne roti uit, leg de gewenste kleur katoensuiker erop en rol op om te eten",
+        "eating_etiquette": "Het is traditie om het met de hand op te rollen. Leg een passende hoeveelheid katoensuiker erop zodat de roti niet scheurt. Eet het het lekkerst direct na het maken."
+      },
+      "where_to_find": {
+        "best_restaurants": [
+          "Ayutthaya U Thong Road (ถนนอู่ทอง) straatkraampjes — tientallen gespecialiseerde winkels bij elkaar",
+          "Straatstalletjes rond de ingang van Ayutthaya Historisch Park",
+          "Sommige stalletjes op Chatuchak Weekendmarkt in Bangkok",
+          "Ayutthaya Bang Raam Nachtmarkt"
+        ],
+        "street_food_areas": [
+          "Ayutthaya U Thong Road (roti sai mai-straat)",
+          "Rondom Ayutthaya treinstation",
+          "Sommige nachtmarkten in Bangkok",
+          "Ayutthaya drijvende markt"
+        ],
+        "price_ranges": {
+          "street_food": "20-40 THB (kleine portie)",
+          "gift_set": "50-100 THB (cadeauset)",
+          "premium": "100-200 THB (grote set)"
+        }
+      },
+      "translated_at": "2026-03-14T00:00:00.000Z"
+    },
+    "th": {
+      "enhanced_description": "Roti sai mai is een traditioneel Thais dessert uit Ayutthaya, met kleurrijke suikerdraadjes gewikkeld in knapperige dunne roti. Het is een beroemd souvenir dat de oude Thaise snoepwijsheid weerspiegelt.",
+      "detailed_ingredients": [
+        {
+          "name": "Flour",
+          "purpose": "Essentieel voor de authentieke smaak van roti sai mai",
+          "substitutes": [
+            "Verse bloem",
+            "Gedroogde bloem",
+            "Bloempasta"
+          ]
+        },
+        {
+          "name": "Sugar",
+          "purpose": "Essentieel voor de authentieke smaak van roti sai mai",
+          "substitutes": [
+            "Verse suiker",
+            "Gedroogde suiker",
+            "Suikerpasta"
+          ]
+        },
+        {
+          "name": "Food coloring",
+          "purpose": "Essentieel voor de authentieke smaak van roti sai mai",
+          "substitutes": [
+            "Verse kleurstof",
+            "Gedroogde kleurstof",
+            "Kleurstofpasta"
+          ]
+        },
+        {
+          "name": "Water",
+          "purpose": "Essentieel voor de authentieke smaak van roti sai mai",
+          "substitutes": [
+            "Vers water",
+            "Gedroogd water",
+            "Waterpasta"
+          ]
+        }
+      ],
+      "cooking_method": {
+        "technique": "Traditionele bereiding",
+        "steps_overview": "De bereiding van roti sai mai vereist aandacht voor details en de juiste timing. Het evenwicht van alle smaken behouden terwijl de textuur van elk ingrediënt intact blijft, is cruciaal. De traditionele methode, doorgegeven door generaties, garandeert de authentieke smaak.",
+        "cooking_tips": [
+          "Gebruik verse bloem voor het beste resultaat",
+          "Pas de pittigheid aan naar smaak",
+          "Kook niet te lang om de textuur te behouden",
+          "Proef en breng op smaak voor het serveren"
+        ]
+      },
+      "cultural_significance": {
+        "origin_story": "Dit gerecht is al generaties lang deel van de centrale Thaise voedselcultuur en weerspiegelt de unieke kooktradities en lokale ingrediënten van de regio.",
+        "cultural_importance": "Dit gerecht is het hart van de centrale Thaise keuken en toont de balans en harmonie waar Thaise gerechten wereldwijd om bekendstaan.",
+        "traditional_occasions": [
+          "Familiebijeenkomsten",
+          "Lokale festivals",
+          "Straatvoedselmarkten",
+          "Speciale vieringen"
+        ]
+      },
+      "variations": [
+        {
+          "name": "Roti Sai Mai Classic",
+          "description": "Traditionele versie geserveerd in lokale huizen"
+        },
+        {
+          "name": "Roti Sai Mai Modern",
+          "description": "Moderne versie met premium ingrediënten"
+        },
+        {
+          "name": "Vegetarian Roti Sai Mai",
+          "description": "Vegetarische versie met tofu of paddenstoelen"
+        }
+      ],
+      "serving_suggestions": {
+        "traditional_accompaniments": [
+          "Jasmijnrijst",
+          "Verse groenten",
+          "Thaise kruiden"
+        ],
+        "presentation": "Serveren op traditionele Thaise borden",
+        "eating_etiquette": "Eten met lepel en vork volgens Thaise traditie"
+      },
+      "where_to_find": {
+        "best_restaurants": [
+          "Centrale Thaise restaurants",
+          "Authentieke straatvoedselstalletjes",
+          "Traditionele markten",
+          "Familierestaurants"
+        ],
+        "street_food_areas": [
+          "Nachtmarkten",
+          "Ochtendverse markten",
+          "Lokale voedselhoven"
+        ],
+        "price_ranges": {
+          "street_vendor": "30-50 THB",
+          "market_stall": "40-60 THB",
+          "restaurant": "60-100 THB"
+        }
+      },
+      "translated_at": "2026-03-14T00:00:00.000Z"
+    },
+    "ja": {
+      "enhanced_description": "Roti sai mai is een geliefd zoet en verfijnd dessert in Centraal-Thailand, met een zachte textuur. Het is Thaise katoensuiker gewikkeld in dunne roti uit Ayutthaya. Dit authentieke recept duurt ongeveer 30 minuten voorbereiding en brengt de ware smaak van Centraal-Thaise keuken tot leven, met perfecte balans van zoet, zuur, zout en pittig. De combinatie van bloem, suiker en kleurstof creëert een harmonieuze smaak die geliefd is bij locals en bezoekers. Ideaal voor wie betaalbare authentieke Thaise gerechten zoekt.",
+      "detailed_ingredients": [
+        {
+          "name": "小麦粉",
+          "purpose": "Onmisbare ingrediënten voor de authentieke smaak van roti sai mai",
+          "substitutes": [
+            "Verse bloem",
+            "Gedroogde bloem",
+            "Bloempasta"
+          ]
+        },
+        {
+          "name": "砂糖",
+          "purpose": "Essentieel voor de authentieke smaak van roti sai mai",
+          "substitutes": [
+            "Verse suiker",
+            "Gedroogde suiker",
+            "Suikerpasta"
+          ]
+        },
+        {
+          "name": "食用着色料",
+          "purpose": "Onmisbaar voor authentieke look en smaak",
+          "substitutes": [
+            "Verse eetbare kleurstof",
+            "Gedroogde kleurstof",
+            "Kleurstofpasta"
+          ]
+        },
+        {
+          "name": "水",
+          "purpose": "Versterkt de authentieke smaak van roti sai mai",
+          "substitutes": [
+            "Vers water",
+            "Gedroogd water",
+            "Waterpasta"
+          ]
+        }
+      ],
+      "cooking_method": {
+        "technique": "Traditionele bereidingswijze",
+        "steps_overview": "Het maken van roti sai mai vraagt om aandacht voor details en juiste timing. Het balanceren van alle smaken terwijl de textuur van elk ingrediënt behouden blijft, is de sleutel. De door generaties doorgegeven traditionele methode zorgt voor de authentieke smaak.",
+        "cooking_tips": [
+          "Gebruik verse bloem voor het beste resultaat",
+          "Pas de smaaksterkte aan naar wens",
+          "Verhit niet te veel om de textuur te behouden",
+          "Proef en pas de kruiden aan voor het serveren"
+        ]
+      },
+      "cultural_significance": {
+        "origin_story": "Roti sai mai is al lang een vast onderdeel van de Centraal-Thaise keuken en weerspiegelt de unieke kooktradities en lokale ingrediënten van de regio.",
+        "cultural_importance": "Dit gerecht symboliseert het hart van de Centraal-Thaise keuken en belichaamt de balans en harmonie waar Thaise gerechten wereldwijd beroemd om zijn.",
+        "traditional_occasions": [
+          "Familiebijeenkomsten",
+          "Lokale festivals",
+          "Straatvoedselmarkten",
+          "Speciale vieringen"
+        ]
+      },
+      "variations": [
+        {
+          "name": "Roti Sai Mai Classic",
+          "description": "Traditionele versie geserveerd in lokale huizen"
+        },
+        {
+          "name": "Roti Sai Mai Modern",
+          "description": "Moderne versie met premium ingrediënten"
+        },
+        {
+          "name": "Vegetarian Roti Sai Mai",
+          "description": "Plantaardige versie met tofu of paddenstoelen"
+        }
+      ],
+      "serving_suggestions": {
+        "traditional_accompaniments": [
+          "Jasmijnrijst",
+          "Verse groenten",
+          "Thaise kruiden"
+        ],
+        "presentation": "Serveren op traditionele Thaise borden",
+        "eating_etiquette": "Eten met vork en lepel volgens Thaise gewoonten"
+      },
+      "where_to_find": {
+        "best_restaurants": [
+          "Lokale centrale Thaise restaurants",
+          "Authentieke straatvoedselstalletjes",
+          "Traditionele markten",
+          "Familiegerunde eetgelegenheden"
+        ],
+        "street_food_areas": [
+          "Nachtmarkten",
+          "Ochtendverse markten",
+          "Lokale voedselhoven"
+        ],
+        "price_ranges": {
+          "street_vendor": "30-50 THB",
+          "market_stall": "40-60 THB",
+          "restaurant": "60-100 THB"
+        }
+      },
+      "translated_at": "2026-03-14T00:00:00.000Z"
+    }
+  }
+}

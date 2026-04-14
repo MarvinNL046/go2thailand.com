@@ -558,16 +558,28 @@ export const getStaticPaths: GetStaticPaths = async () => {
   };
 };
 
-export const getStaticProps: GetStaticProps = async ({ params }) => {
+export const getStaticProps: GetStaticProps = async ({ params, locale }) => {
   const month = params?.month as string;
-  const guide = (monthlyGuides as any)[month];
-  
+  // Prefer locale-specific monthly guides (e.g. data/monthly-guides.nl.json)
+  // and fall back to the default English file.
+  let guides: any = monthlyGuides;
+  if (locale && locale !== 'en') {
+    try {
+      const fs = await import('fs');
+      const path = await import('path');
+      const localePath = path.join(process.cwd(), 'data', `monthly-guides.${locale}.json`);
+      if (fs.existsSync(localePath)) guides = JSON.parse(fs.readFileSync(localePath, 'utf8'));
+    } catch (_) { /* fallback to English */ }
+  }
+  const guide = (guides as any)[month];
+  const monthlyGuidesForNav = guides;
+
   if (!guide) {
     return { notFound: true };
   }
 
-  // Get month navigation
-  const months = Object.keys(monthlyGuides);
+  // Get month navigation (locale-aware)
+  const months = Object.keys(monthlyGuidesForNav);
   const currentIndex = months.indexOf(month);
   const previousMonth = currentIndex > 0 ? months[currentIndex - 1] : null;
   const nextMonth = currentIndex < months.length - 1 ? months[currentIndex + 1] : null;

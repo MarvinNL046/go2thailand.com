@@ -384,9 +384,9 @@ export const getStaticPaths: GetStaticPaths = async () => {
   return { paths: [], fallback: 'blocking' };
 };
 
-export const getStaticProps: GetStaticProps = async ({ params }) => {
+export const getStaticProps: GetStaticProps = async ({ params, locale }) => {
   const slug = params?.slug as string;
-  const drink = getDrink(slug);
+  const drink = getDrink(slug, locale);
 
   if (!drink) {
     return {

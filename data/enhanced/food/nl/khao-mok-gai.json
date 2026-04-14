@@ -1,0 +1,974 @@
+{
+  "id": 28,
+  "slug": "khao-mok-gai",
+  "name": {
+    "en": "Khao Mok Gai",
+    "nl": "Khao Mok Gai",
+    "thai": "ข้าวหมกไก่"
+  },
+  "category": "hoofdgerecht",
+  "region": "zuidelijk",
+  "spice_level": "mild",
+  "description": {
+    "en": "Thai-style biryani with chicken and fragrant yellow rice",
+    "nl": "Thaise biryani met kip en geurige gele rijst"
+  },
+  "ingredients": [
+    "kip",
+    "rijst",
+    "kurkuma",
+    "laurierbladeren",
+    "kaneel",
+    "kardemom",
+    "rozijnen"
+  ],
+  "allergens": [],
+  "dietary": [],
+  "image": "/images/food/khao-mok-gai.webp",
+  "preparation_time": "60 minuten",
+  "difficulty": "gemiddeld",
+  "price_range": "budget",
+  "seo": {
+    "metaTitle": {
+      "en": "Khao Mok Gai Recipe | Authentic Thai main dish",
+      "nl": "Khao Mok Gai Recept | Authentieke Thaise main dish"
+    },
+    "metaDescription": {
+      "en": "Learn about Khao Mok Gai (ข้าวหมกไก่) - Thai-style biryani with chicken and fragrant yellow rice...",
+      "nl": "Leer over Khao Mok Gai (ข้าวหมกไก่) - Thaise biryani met kip en geurige gele rijst..."
+    }
+  },
+  "tags": [
+    "thaise-keuken",
+    "Thailand",
+    "hoofdgerecht",
+    "zuidelijk",
+    "mild",
+    "gemiddeld",
+    "budget",
+    "kip",
+    "rijst",
+    "kurkuma"
+  ],
+  "cooking": {
+    "preparation_time": "60 minuten",
+    "difficulty": "gemiddeld",
+    "spice_level": "mild",
+    "serves": "2-4 personen"
+  },
+  "nutrition": {
+    "allergens": [],
+    "dietary": [],
+    "price_range": "budget"
+  },
+  "enhanced_description": "Khao Mok Gai is een geliefd stevig en smaakvol hoofdgerecht uit Zuid-Thailand met een subtiele warmte. Thaise biryani met kip en geurige gele rijst. Dit recept met gemiddelde moeilijkheidsgraad vergt ongeveer 60 minuten bereidingstijd en vertegenwoordigt de authentieke smaken van de Zuid-Thaise keuken, gekenmerkt door intense kruiden, zeevruchten en curry's op basis van kokos. De combinatie van kip, rijst en kurkuma creëert een harmonieuze mix die dit gerecht tot een favoriet heeft gemaakt onder zowel locals als bezoekers. Perfect voor wie op zoek is naar betaalbare authentieke Thaise keuken.",
+  "detailed_ingredients": [
+    {
+      "name": "Chicken",
+      "purpose": "Essentieel voor de authentieke Khao Mok Gai smaak",
+      "substitutes": [
+        "Verse kip",
+        "Kipfilet",
+        "Kippendijen"
+      ]
+    },
+    {
+      "name": "Rice",
+      "purpose": "Essentieel voor de authentieke Khao Mok Gai smaak",
+      "substitutes": [
+        "Jasmijnrijst",
+        "Basmatirijst",
+        "Langkorrelige rijst"
+      ]
+    },
+    {
+      "name": "Turmeric",
+      "purpose": "Essentieel voor de authentieke Khao Mok Gai smaak",
+      "substitutes": [
+        "Verse kurkuma",
+        "Gedroogde kurkuma",
+        "Kurkumapoeder"
+      ]
+    },
+    {
+      "name": "Bay leaves",
+      "purpose": "Essentieel voor de authentieke Khao Mok Gai smaak",
+      "substitutes": [
+        "Verse laurierbladeren",
+        "Gedroogde laurierbladeren",
+        "Pandanblad"
+      ]
+    }
+  ],
+  "cooking_method": {
+    "technique": "Roerbakken of grillen",
+    "steps_overview": "Het bereiden van Khao Mok Gai vereist aandacht voor detail en goede timing. De sleutel is het balanceren van alle smaken terwijl de textuur van elk ingrediënt behouden blijft. Traditionele methoden die van generatie op generatie zijn doorgegeven, garanderen een authentieke smaak.",
+    "cooking_tips": [
+      "Gebruik verse kip voor het beste resultaat",
+      "Pas het pittigheidsgehalte aan naar je voorkeur",
+      "Kook niet te lang om de textuur te behouden",
+      "Proef en pas de kruiding aan voor het serveren"
+    ]
+  },
+  "cultural_significance": {
+    "origin_story": "Khao Mok Gai is al generaties lang een vast onderdeel van de Zuid-Thaise keuken en weerspiegelt de unieke culinaire tradities en lokale ingrediënten van de regio.",
+    "cultural_importance": "Dit gerecht vertegenwoordigt het hart van de Zuid-Thaise kookkunst en toont de balans en harmonie waarmee de Thaise keuken wereldwijd beroemd is.",
+    "traditional_occasions": [
+      "Familiebijeenkomsten",
+      "Lokale festivals",
+      "Straatvoedselmarkten",
+      "Bijzondere vieringen"
+    ]
+  },
+  "variations": [
+    {
+      "name": "Khao Mok Gai Classic",
+      "description": "De traditionele versie zoals geserveerd in lokale huishoudens"
+    },
+    {
+      "name": "Khao Mok Gai Modern",
+      "description": "Hedendaagse variant met premium ingrediënten"
+    },
+    {
+      "name": "Vegetarian Khao Mok Gai",
+      "description": "Plantaardige versie met tofu of paddenstoelen"
+    }
+  ],
+  "serving_suggestions": {
+    "traditional_accompaniments": [
+      "Jasmijnrijst",
+      "Verse groenten",
+      "Thaise kruiden"
+    ],
+    "presentation": "Geserveerd op een bord in traditionele Thaise stijl",
+    "eating_etiquette": "Gegeten met vork en lepel volgens Thais gebruik"
+  },
+  "nutritional_info": {
+    "calories_per_serving": "300-500 calorieën",
+    "health_benefits": [
+      "Rijk aan Thaise kruiden en specerijen",
+      "Bron van eiwitten en groenten",
+      "Gebalanceerde smaken en voedingsstoffen"
+    ],
+    "dietary_notes": []
+  },
+  "where_to_find": {
+    "best_restaurants": [
+      "Lokale Zuid-Thaise restaurants",
+      "Authentieke straatvoedselkramen",
+      "Traditionele markten",
+      "Familiebedrijven"
+    ],
+    "street_food_areas": [
+      "Nachtmarkten",
+      "Ochtendverse markten",
+      "Lokale food courts"
+    ],
+    "price_ranges": {
+      "street_vendor": "30-50 THB",
+      "market_stall": "40-60 THB",
+      "restaurant": "60-100 THB"
+    }
+  },
+  "translations": {
+    "nl": {
+      "enhanced_description": "Khao Mok Gai is een geliefd stevig en smaakvol hoofdgerecht uit Zuid-Thailand met een subtiele warmte. Thaise biryani met kip en geurige gele rijst. Dit recept met gemiddelde moeilijkheidsgraad vergt ongeveer 60 minuten bereidingstijd en vertegenwoordigt de authentieke smaken van de Zuid-Thaise keuken, gekenmerkt door intense kruiden, zeevruchten en curry's op basis van kokos. De combinatie van kip, rijst en kurkuma creëert een harmonieuze mix die dit gerecht tot een favoriet heeft gemaakt onder zowel locals als bezoekers. Perfect voor wie op zoek is naar betaalbare authentieke Thaise keuken.",
+      "detailed_ingredients": [
+        {
+          "name": "Kip",
+          "purpose": "Essentieel voor de authentieke Khao Mok Gai smaak",
+          "substitutes": [
+            "Verse kip",
+            "Kipfilet",
+            "Kippendijen"
+          ]
+        },
+        {
+          "name": "Rijst",
+          "purpose": "Essentieel voor de authentieke Khao Mok Gai smaak",
+          "substitutes": [
+            "Jasmijnrijst",
+            "Basmatirijst",
+            "Langkorrelige rijst"
+          ]
+        },
+        {
+          "name": "Kurkuma",
+          "purpose": "Essentieel voor de authentieke Khao Mok Gai smaak",
+          "substitutes": [
+            "Verse kurkuma",
+            "Gedroogde kurkuma",
+            "Kurkumapoeder"
+          ]
+        },
+        {
+          "name": "Laurierbladeren",
+          "purpose": "Essentieel voor de authentieke Khao Mok Gai smaak",
+          "substitutes": [
+            "Verse laurierbladeren",
+            "Gedroogde laurierbladeren",
+            "Pandanblad"
+          ]
+        }
+      ],
+      "cooking_method": {
+        "technique": "Rijst koken met kruiden en stomen",
+        "steps_overview": "Het bereiden van Khao Mok Gai vereist aandacht voor detail en goede timing. De sleutel is het balanceren van alle smaken terwijl de textuur van elk ingrediënt behouden blijft. Traditionele methoden die van generatie op generatie zijn doorgegeven, garanderen een authentieke smaak.",
+        "cooking_tips": [
+          "Gebruik verse kip voor het beste resultaat",
+          "Pas het pittigheidsgehalte aan naar je voorkeur",
+          "Kook niet te lang om de textuur te behouden",
+          "Proef en pas de kruiding aan voor het serveren"
+        ]
+      },
+      "cultural_significance": {
+        "origin_story": "Khao Mok Gai is al generaties lang een vast onderdeel van de Zuid-Thaise keuken en weerspiegelt de unieke culinaire tradities en lokale ingrediënten van de regio.",
+        "cultural_importance": "Dit gerecht vertegenwoordigt het hart van de Zuid-Thaise kookkunst en toont de balans en harmonie waarmee de Thaise keuken wereldwijd beroemd is.",
+        "traditional_occasions": [
+          "Familiebijeenkomsten",
+          "Lokale festivals",
+          "Straatvoedselmarkten",
+          "Bijzondere vieringen"
+        ]
+      },
+      "variations": [
+        {
+          "name": "Khao Mok Gai Klassiek",
+          "description": "De traditionele versie zoals geserveerd in lokale huishoudens"
+        },
+        {
+          "name": "Khao Mok Gai Modern",
+          "description": "Hedendaagse variant met premium ingrediënten"
+        },
+        {
+          "name": "Vegetarische Khao Mok Gai",
+          "description": "Plantaardige versie met tofu of paddenstoelen"
+        }
+      ],
+      "serving_suggestions": {
+        "traditional_accompaniments": [
+          "Gele rijst",
+          "Verse groenten",
+          "Zoetzure saus"
+        ],
+        "presentation": "Geserveerd op een bord in traditionele Zuid-Thaise stijl",
+        "eating_etiquette": "Gegeten met vork en lepel volgens Thais gebruik"
+      },
+      "where_to_find": {
+        "best_restaurants": [
+          "Lokale Zuid-Thaise restaurants",
+          "Authentieke straatvoedselkramen",
+          "Traditionele markten",
+          "Familiebedrijfjes"
+        ],
+        "street_food_areas": [
+          "Nachtmarkten",
+          "Ochtendverse markten",
+          "Lokale food courts"
+        ]
+      },
+      "translated_at": "2026-03-10T00:00:00.000Z"
+    },
+    "fr": {
+      "enhanced_description": "Khao Mok Gai is een geliefd stevig en smaakvol hoofdgerecht uit Zuid-Thailand met een subtiele warmte. Thaise biryani met kip en geurige gele rijst. Dit recept met gemiddelde moeilijkheidsgraad vergt ongeveer 60 minuten bereidingstijd en vertegenwoordigt de authentieke smaken van de Zuid-Thaise keuken, gekenmerkt door intense kruiden, zeevruchten en curry's op basis van kokos. De combinatie van kip, rijst en kurkuma creëert een harmonieuze mix die dit gerecht tot een favoriet heeft gemaakt onder zowel locals als bezoekers. Perfect voor wie op zoek is naar betaalbare authentieke Thaise keuken.",
+      "detailed_ingredients": [
+        {
+          "name": "Poulet",
+          "purpose": "Essentieel voor de authentieke Khao Mok Gai smaak",
+          "substitutes": [
+            "Verse kip",
+            "Kipfilet",
+            "Kippendijen"
+          ]
+        },
+        {
+          "name": "Riz",
+          "purpose": "Essentieel voor de authentieke Khao Mok Gai smaak",
+          "substitutes": [
+            "Jasmijnrijst",
+            "Basmatirijst",
+            "Langkorrelige rijst"
+          ]
+        },
+        {
+          "name": "Curcuma",
+          "purpose": "Essentieel voor de authentieke Khao Mok Gai smaak",
+          "substitutes": [
+            "Verse kurkuma",
+            "Gedroogde kurkuma",
+            "Kurkumapoeder"
+          ]
+        },
+        {
+          "name": "Feuilles de laurier",
+          "purpose": "Essentieel voor de authentieke Khao Mok Gai smaak",
+          "substitutes": [
+            "Verse laurierbladeren",
+            "Gedroogde laurierbladeren",
+            "Pandanblad"
+          ]
+        }
+      ],
+      "cooking_method": {
+        "technique": "Rijst koken met specerijen en stomen",
+        "steps_overview": "Het bereiden van Khao Mok Gai vereist aandacht voor detail en goede timing. De sleutel is het balanceren van alle smaken terwijl de textuur van elk ingrediënt behouden blijft. Traditionele methoden die van generatie op generatie zijn doorgegeven, garanderen een authentieke smaak.",
+        "cooking_tips": [
+          "Gebruik verse kip voor het beste resultaat",
+          "Pas het pittigheidsgehalte aan naar je voorkeur",
+          "Kook niet te lang om de textuur te behouden",
+          "Proef en pas de kruiding aan voor het serveren"
+        ]
+      },
+      "cultural_significance": {
+        "origin_story": "Khao Mok Gai is al generaties lang een vast onderdeel van de Zuid-Thaise keuken en weerspiegelt de unieke culinaire tradities en lokale ingrediënten van de regio.",
+        "cultural_importance": "Dit gerecht vertegenwoordigt het hart van de Zuid-Thaise kookkunst en toont de balans en harmonie waarmee de Thaise keuken wereldwijd beroemd is.",
+        "traditional_occasions": [
+          "Familiebijeenkomsten",
+          "Lokale festivals",
+          "Straatvoedselmarkten",
+          "Bijzondere vieringen"
+        ]
+      },
+      "variations": [
+        {
+          "name": "Khao Mok Gai Classique",
+          "description": "De traditionele versie zoals geserveerd in lokale huishoudens"
+        },
+        {
+          "name": "Khao Mok Gai Moderne",
+          "description": "Hedendaagse versie met premium ingrediënten"
+        },
+        {
+          "name": "Khao Mok Gai Végétarien",
+          "description": "Vegetarische versie met tofu of champignons"
+        }
+      ],
+      "serving_suggestions": {
+        "traditional_accompaniments": [
+          "Gele rijst",
+          "Verse groenten",
+          "Zoetzure saus"
+        ],
+        "presentation": "Geserveerd op een bord in de traditionele stijl van Zuid-Thailand",
+        "eating_etiquette": "Genuttigd met vork en lepel volgens Thaise traditie"
+      },
+      "where_to_find": {
+        "best_restaurants": [
+          "Lokale restaurants in Zuid-Thailand",
+          "Authentieke straatkraampjes",
+          "Traditionele markten",
+          "Familierestaurants"
+        ],
+        "street_food_areas": [
+          "Nachtmarkten",
+          "Ochtendverse markten",
+          "Lokale foodcourts"
+        ]
+      },
+      "translated_at": "2026-03-10T00:00:00.000Z"
+    },
+    "de": {
+      "enhanced_description": "Khao Mok Gai is een geliefd stevig en smakelijk hoofdgerecht uit Zuid-Thailand met een subtiele warmte. Thaise biryani met kip en geurige gele rijst. Dit recept van gemiddelde moeilijkheid vereist ongeveer 60 minuten bereidingstijd en vertegenwoordigt de authentieke smaken van de Zuid-Thaise keuken, die zich kenmerkt door intense kruiden, zeevruchten en kokosgebaseerde curries. De combinatie van kip, rijst en kurkuma creëert een harmonieuze mengeling die dit gerecht tot een favoriet heeft gemaakt bij zowel locals als bezoekers. Perfect voor wie betaalbare authentieke Thaise keuken zoekt.",
+      "detailed_ingredients": [
+        {
+          "name": "Hähnchen",
+          "purpose": "Onmisbaar voor de authentieke Khao Mok Gai-smaak",
+          "substitutes": [
+            "Verse kip",
+            "Gedroogde kip",
+            "Kipgehakt"
+          ]
+        },
+        {
+          "name": "Reis",
+          "purpose": "Onmisbaar voor de authentieke Khao Mok Gai-smaak",
+          "substitutes": [
+            "Verse rijst",
+            "Gedroogde rijst",
+            "Rijstpuree"
+          ]
+        },
+        {
+          "name": "Kurkuma",
+          "purpose": "Onmisbaar voor de authentieke Khao Mok Gai-smaak",
+          "substitutes": [
+            "Verse kurkuma",
+            "Gedroogde kurkuma",
+            "Kurkumapuree"
+          ]
+        },
+        {
+          "name": "Lorbeerblätter",
+          "purpose": "Onmisbaar voor de authentieke Khao Mok Gai-smaak",
+          "substitutes": [
+            "Verse laurierbladeren",
+            "Gedroogde laurierbladeren",
+            "Laurierpuree"
+          ]
+        }
+      ],
+      "cooking_method": {
+        "technique": "Koken en stomen",
+        "steps_overview": "De bereiding van Khao Mok Gai vereist liefde voor detail en goed timing. De sleutel ligt in het balanceren van alle smaken terwijl de textuur van elke ingrediënt behouden blijft. Traditionele methoden, doorgegeven over generaties, garanderen authentieke smaak.",
+        "cooking_tips": [
+          "Gebruik verse kip voor het beste resultaat",
+          "Pas de pittigheid aan naar smaak",
+          "Niet te lang koken om de textuur te behouden",
+          "Proef en kruid af voor het serveren"
+        ]
+      },
+      "cultural_significance": {
+        "origin_story": "Khao Mok Gai is al generaties lang een vast onderdeel van de Zuid-Thaise keuken en weerspiegelt de unieke culinaire tradities en lokale ingrediënten van de regio.",
+        "cultural_importance": "Dit gerecht vertegenwoordigt het hart van de Zuid-Thaise kookkunst en toont de balans en harmonie waarvoor de Thaise keuken wereldwijd beroemd is.",
+        "traditional_occasions": [
+          "Familiebijeenkomsten",
+          "Lokale festivals",
+          "Straatvoedselmarkten",
+          "Speciale vieringen"
+        ]
+      },
+      "variations": [
+        {
+          "name": "Khao Mok Gai Klassisch",
+          "description": "De traditionele versie zoals geserveerd in lokale huishoudens"
+        },
+        {
+          "name": "Khao Mok Gai Modern",
+          "description": "Contemporaine variant met premium ingrediënten"
+        },
+        {
+          "name": "Vegetarisches Khao Mok Gai",
+          "description": "Plantaardige versie met tofu of paddenstoelen"
+        }
+      ],
+      "serving_suggestions": {
+        "traditional_accompaniments": [
+          "Jasmijnrijst",
+          "Verse groenten",
+          "Thaise kruiden"
+        ],
+        "presentation": "Geserveerd op een bord in de traditionele Zuid-Thaise stijl",
+        "eating_etiquette": "Gegeten met vork en lepel volgens Thaise gewoonte"
+      },
+      "where_to_find": {
+        "best_restaurants": [
+          "Lokale Zuid-Thaise restaurants",
+          "Authentieke straatkraampjes",
+          "Traditionele markten",
+          "Familiegerunde etablissementen"
+        ],
+        "street_food_areas": [
+          "Nachtmarkten",
+          "Ochtendverse markten",
+          "Lokale foodcourts"
+        ]
+      },
+      "translated_at": "2026-03-10T00:00:00.000Z"
+    },
+    "zh": {
+      "enhanced_description": "Khao Mok Gai is een geliefd royaal hoofdgerecht uit Zuid-Thailand met een subtiele warmte. Thaise kip met gele gemberrijst (Thaise biryani). Dit gerecht van gemiddelde moeilijkheid duurt ongeveer 60 minuten bereiding en vertegenwoordigt de authentieke smaken van de Zuid-Thaise keuken, gekenmerkt door rijke specerijen, zeevruchten en kokosgebaseerde curries. De combinatie van kip, rijst en gember creëert een harmonieuze smaakfusie die dit gerecht favoriet maakt bij zowel locals als toeristen. Ideaal voor wie betaalbare authentieke Thaise gerechten zoekt.",
+      "detailed_ingredients": [
+        {
+          "name": "鸡肉",
+          "purpose": "Sleutelingrediënt voor de authentieke Khao Mok Gai-smaak",
+          "substitutes": [
+            "Verse kip",
+            "Kipfilet",
+            "Kippendij"
+          ]
+        },
+        {
+          "name": "米饭",
+          "purpose": "Sleutelingrediënt voor de authentieke Khao Mok Gai-smaak",
+          "substitutes": [
+            "Jasmijnrijst",
+            "Basmati rijst",
+            "Langkorrelige rijst"
+          ]
+        },
+        {
+          "name": "姜黄",
+          "purpose": "Sleutelingrediënt voor de authentieke Khao Mok Gai-smaak",
+          "substitutes": [
+            "Verse gember",
+            "Gedroogde gember",
+            "Gemberpoeder"
+          ]
+        },
+        {
+          "name": "月桂叶",
+          "purpose": "Sleutelingrediënt voor de authentieke Khao Mok Gai-smaak",
+          "substitutes": [
+            "Verse laurierbladeren",
+            "Gedroogde laurierbladeren",
+            "Pandansblad"
+          ]
+        }
+      ],
+      "cooking_method": {
+        "technique": "Specerijen stomen en koken",
+        "steps_overview": "Het maken van Khao Mok Gai vereist aandacht voor details en goed timing. De sleutel ligt in het balanceren van alle smaken terwijl de textuur van elk ingrediënt behouden blijft. Traditionele kookmethoden, doorgegeven van generatie op generatie, zorgen voor authentieke smaak.",
+        "cooking_tips": [
+          "Gebruik verse kip voor het beste effect",
+          "Pas de pittigheid aan naar persoonlijke smaak",
+          "Vermijd overkoken om textuur te behouden",
+          "Proef en pas kruiden aan voor het serveren"
+        ]
+      },
+      "cultural_significance": {
+        "origin_story": "Khao Mok Gai is al generaties lang een klassieker in de Zuid-Thaise keuken en belichaamt de unieke kooktradities en lokale ingrediënten van de regio.",
+        "cultural_importance": "Dit gerecht vertegenwoordigt de essentie van Zuid-Thaise kookkunst en toont de balans en harmonie die de Thaise keuken wereldwijd beroemd maken.",
+        "traditional_occasions": [
+          "Familiebijeenkomsten",
+          "Lokale feesten",
+          "Straatvoedselmarkten",
+          "Speciale vieringen"
+        ]
+      },
+      "variations": [
+        {
+          "name": "经典Khao Mok Gai",
+          "description": "De klassieke versie van traditioneel koken in lokale families"
+        },
+        {
+          "name": "现代Khao Mok Gai",
+          "description": "Moderne innovatieve versie met premium ingrediënten"
+        },
+        {
+          "name": "素食Khao Mok Gai",
+          "description": "Plantaardige versie met tofu of paddenstoelen"
+        }
+      ],
+      "serving_suggestions": {
+        "traditional_accompaniments": [
+          "Gele gemberrijst",
+          "Verse groenten",
+          "Zoetzure saus"
+        ],
+        "presentation": "Geserveerd op een bord in traditionele Zuid-Thaise stijl",
+        "eating_etiquette": "Gegeten met vork en lepel volgens Thaise gewoonte"
+      },
+      "where_to_find": {
+        "best_restaurants": [
+          "Lokale Zuid-Thaise restaurants",
+          "Authentieke straatsnacks",
+          "Traditionele markten",
+          "Familiegerunde eettentjes"
+        ],
+        "street_food_areas": [
+          "Nachtmarkten",
+          "Ochtendmarkten",
+          "Lokale eetpleinen"
+        ]
+      },
+      "translated_at": "2026-03-11T00:00:00.000Z"
+    },
+    "ru": {
+      "enhanced_description": "Khao Mok Gai is een geliefd vullend en smakelijk hoofdgerecht uit Zuid-Thailand met een milde warmte. Thaise biryani met kip en geurige gele rijst. Dit recept van gemiddelde complexiteit duurt ongeveer 60 minuten bereiding en presenteert de authentieke smaken van de Zuid-Thaise keuken, die zich onderscheidt door intense specerijen, zeevruchten en kokosgebaseerde curries. De combinatie van kip, rijst en kurkuma creëert een harmonieuze mengeling die dit gerecht favoriet maakt bij zowel inwoners als gasten. Ideaal voor wie betaalbare authentieke Thaise keuken zoekt.",
+      "detailed_ingredients": [
+        {
+          "name": "Курица",
+          "purpose": "Hoofdingrediënt voor de authentieke Khao Mok Gai-smaak",
+          "substitutes": [
+            "Verse kip",
+            "Gedroogde kip",
+            "Kipgehakt"
+          ]
+        },
+        {
+          "name": "Рис",
+          "purpose": "Hoofdingrediënt voor de authentieke Khao Mok Gai-smaak",
+          "substitutes": [
+            "Verse rijst",
+            "Gedroogde rijst",
+            "Rijstpuree"
+          ]
+        },
+        {
+          "name": "Куркума",
+          "purpose": "Hoofdingrediënt voor de authentieke Khao Mok Gai-smaak",
+          "substitutes": [
+            "Verse kurkuma",
+            "Gedroogde kurkuma",
+            "Kurkumapuree"
+          ]
+        },
+        {
+          "name": "Лавровый лист",
+          "purpose": "Hoofdingrediënt voor de authentieke Khao Mok Gai-smaak",
+          "substitutes": [
+            "Verse laurierblad",
+            "Gedroogd laurierblad",
+            "Laurierpuree"
+          ]
+        }
+      ],
+      "cooking_method": {
+        "technique": "Roosteren in wok of op grill",
+        "steps_overview": "Het bereiden van Khao Mok Gai vereist aandacht voor details en correcte timing. De sleutel ligt in het balanceren van alle smaken terwijl de textuur van elk ingrediënt behouden blijft. Traditionele methoden, doorgegeven van generatie op generatie, zorgen voor authentieke smaak.",
+        "cooking_tips": [
+          "Gebruik verse kip voor het beste resultaat",
+          "Pas de pittigheid aan naar smaak",
+          "Niet doorkoken om textuur te behouden",
+          "Proef en corrigeer kruiden voor het serveren"
+        ]
+      },
+      "cultural_significance": {
+        "origin_story": "Khao Mok Gai is al vele generaties de basis van de Zuid-Thaise keuken en weerspiegelt de unieke culinaire tradities van de regio en lokale ingrediënten.",
+        "cultural_importance": "Dit gerecht belichaamt het hart van de Zuid-Thaise culinaire kunst en demonstreert de balans en harmonie waarmee de Thaise keuken wereldwijd beroemd is.",
+        "traditional_occasions": [
+          "Familiediners",
+          "Lokale festivals",
+          "Straatvoedselmarkten",
+          "Speciale gelegenheden"
+        ]
+      },
+      "variations": [
+        {
+          "name": "Khao Mok Gai классический",
+          "description": "Traditionele versie zoals geserveerd in lokale huizen"
+        },
+        {
+          "name": "Khao Mok Gai современный",
+          "description": "Moderne interpretatie met premium ingrediënten"
+        },
+        {
+          "name": "Вегетарианский Khao Mok Gai",
+          "description": "Plantaardige versie met tofu of paddenstoelen"
+        }
+      ],
+      "serving_suggestions": {
+        "traditional_accompaniments": [
+          "Jasmijnrijst",
+          "Verse groenten",
+          "Thaise kruiden"
+        ],
+        "presentation": "Geserveerd op een bord in traditionele Thaise stijl",
+        "eating_etiquette": "Gegeten met vork en lepel volgens Thaise traditie"
+      },
+      "where_to_find": {
+        "best_restaurants": [
+          "Lokale Zuid-Thaise restaurants",
+          "Authentieke straatkraampjes",
+          "Traditionele markten",
+          "Familie-eettentjes"
+        ],
+        "street_food_areas": [
+          "Nachtmarkten",
+          "Ochtendverse markten",
+          "Lokale foodcourts"
+        ]
+      },
+      "translated_at": "2026-03-11T00:00:00.000Z"
+    },
+    "ko": {
+      "enhanced_description": "Khao Mok Gai is een Thais biryani-gericht dat afkomstig is uit de moslimgemeenschap in Zuid-Thailand, met geurige gele rijst gekookt met kurkuma en diverse specerijen, geserveerd met mals gekookte kip. Dit recept van gemiddelde moeilijkheid duurt ongeveer 60 minuten en toont hoe de Indiase en Midden-Oosterse biryani is geëvolueerd tot een uniek Thais stijl. De combinatie van specerijen zoals kurkuma, kaneel, kardemom en laurierbladeren geeft de rijst diepe, aromatische smaken, en samen met een zoetzure dipsaus creëert het een perfecte harmonie van smaken.",
+      "detailed_ingredients": [
+        {
+          "name": "닭고기 (닭다리살 또는 통닭)",
+          "purpose": "Hoofdingrediënt dat gekookt met specerijen een malse en smaakvolle diepte geeft",
+          "substitutes": [
+            "Kippendij",
+            "Kipfilet",
+            "Lam (Khao Mok-variant)"
+          ]
+        },
+        {
+          "name": "쌀 (재스민 또는 바스마티)",
+          "purpose": "Basis voor het koken van geurige gele rijst met specerijen en kurkuma",
+          "substitutes": [
+            "Jasmijnrijst",
+            "Basmati rijst",
+            "Langkorrelige rijst"
+          ]
+        },
+        {
+          "name": "강황 (카민)",
+          "purpose": "Belangrijkste specerij die de rijst een mooie gele kleur en subtiele geur geeft",
+          "substitutes": [
+            "Verse kurkuma",
+            "Kurkuma poeder",
+            "Saffraan (luxe alternatief)"
+          ]
+        },
+        {
+          "name": "향신료 (계피, 카다멈, 월계수잎)",
+          "purpose": "Essentiële specerijen voor biryani die diepe en warme aroma's toevoegen",
+          "substitutes": [
+            "Set hele specerijen",
+            "Garam masala (handig alternatief)",
+            "Chinese vijfkruidenpoeder (alternatief)"
+          ]
+        }
+      ],
+      "cooking_method": {
+        "technique": "Specerijenrijst koken en kip stoven",
+        "steps_overview": "Om Khao Mok Gai te maken, marineer je eerst de kip met kurkuma, knoflook en korianderwortel. Verhit olie in een pan en rooster kaneel, kardemom, laurierblaadjes en andere hele specerijen om aroma te creëren, voeg dan ui en knoflook toe en bak ze. Voeg de gemarineerde kip toe en bak de buitenkant, voeg geweekte rijst en water toe en kook de rijst. Op laag vuur laten sudderen tot de rijst en kip gaar zijn, en top af met rozijnen om af te maken.",
+        "cooking_tips": [
+          "Marineer de kip van tevoren voor diepere smaak",
+          "Rooster hele specerijen eerst om vol aroma te krijgen",
+          "Belangrijk om het vuur te regelen bij het koken van rijst — kook langzaam op laag vuur",
+          "Serveer met zoetzure dipsaus (nam chim) voor de volledige smaak"
+        ]
+      },
+      "cultural_significance": {
+        "origin_story": "Khao Mok Gai is een gerecht uit de moslimgemeenschap in Zuid-Thailand, afgeleid van Indiase en Midden-Oosterse biryani die via Zuidoost-Azië in Thailand aankwam. Door generaties heen zijn Thaise specerijen en kookmethoden toegevoegd, wat leidde tot de unieke Thaise biryani van vandaag.",
+        "cultural_importance": "Dit gerecht vertegenwoordigt de multiculturele voedselcultuur van Thailand en wordt dagelijks genoten in Zuid-Thailand en moslimwijken in Bangkok. Als halal-gerecht is het een veilige en aanbevolen keuze voor moslimreizigers.",
+        "traditional_occasions": [
+          "Dagelijkse maaltijd",
+          "Maaltijd na vrijdaggebed",
+          "Ramadan iftar",
+          "Familiebijeenkomst"
+        ]
+      },
+      "variations": [
+        {
+          "name": "카오목가이 전통식",
+          "description": "De meest traditionele versie met gekookte kip op kurkuma rijst."
+        },
+        {
+          "name": "카오목 양고기 (카오목 깨)",
+          "description": "Een smaakvollere variant met lam in plaats van kip."
+        },
+        {
+          "name": "카오목 채식",
+          "description": "Vegetarische versie met tofu en groenten in plaats van kip."
+        }
+      ],
+      "serving_suggestions": {
+        "traditional_accompaniments": [
+          "Zoetzure dipsaus (nam chim)",
+          "Kommersnippers",
+          "Gebakken sjalotten"
+        ],
+        "presentation": "Schep gele rijst op een bord en leg kip erop voor een Zuid-Thaise stijl presentatie",
+        "eating_etiquette": "Volgens Thaise gewoonten eet je de rijst en kip met vork en lepel, gedoopt in saus"
+      },
+      "where_to_find": {
+        "best_restaurants": [
+          "Lokale Zuid-Thaise moslimrestaurantjes",
+          "Bangkok Bang Kruai-gebied",
+          "Traditionele markten",
+          "Halal-restaurants"
+        ],
+        "street_food_areas": [
+          "Ochtendmarkten",
+          "Nachtmarkten",
+          "Foodcourts in moslimwijken"
+        ],
+        "price_ranges": {
+          "street_vendor": "40-60 THB",
+          "market_stall": "50-70 THB",
+          "restaurant": "70-120 THB"
+        }
+      },
+      "translated_at": "2026-03-14T00:00:00.000Z"
+    },
+    "th": {
+      "enhanced_description": "Khao Mok Gai is gele jasmijnrijst in Thaise biryani-stijl, gekookt met geurige specerijen, geserveerd met malse kip en zoetzure dipsaus. Beïnvloed door moslimkeuken uit Zuid-Thailand.",
+      "detailed_ingredients": [
+        {
+          "name": "Chicken",
+          "purpose": "Belangrijk voor de authentieke smaak van Khao Mok Gai",
+          "substitutes": [
+            "Verse kip",
+            "Gedroogde kip",
+            "Kip pasta"
+          ]
+        },
+        {
+          "name": "Rice",
+          "purpose": "Belangrijk voor de authentieke smaak van Khao Mok Gai",
+          "substitutes": [
+            "Verse rijst",
+            "Gedroogde rijst",
+            "Rijst pasta"
+          ]
+        },
+        {
+          "name": "Turmeric",
+          "purpose": "Belangrijk voor de authentieke smaak van Khao Mok Gai",
+          "substitutes": [
+            "Verse kurkuma",
+            "Gedroogde kurkuma",
+            "Kurkuma pasta"
+          ]
+        },
+        {
+          "name": "Bay leaves",
+          "purpose": "Belangrijk voor de authentieke smaak van Khao Mok Gai",
+          "substitutes": [
+            "Verse laurierblaadjes",
+            "Gedroogde laurierblaadjes",
+            "Laurierblaadjes pasta"
+          ]
+        }
+      ],
+      "cooking_method": {
+        "technique": "Bakken of grillen",
+        "steps_overview": "De bereiding van Khao Mok Gai vereist aandacht voor details en juiste timing. Het is cruciaal om de smaken in balans te houden terwijl de textuur van elke specerij behouden blijft. De traditionele methode, doorgegeven door generaties, garandeert authentieke smaak.",
+        "cooking_tips": [
+          "Gebruik verse kip voor het beste resultaat",
+          "Pas de pittigheid aan naar smaak",
+          "Kook niet te lang om textuur te behouden",
+          "Proef en breng op smaak voor het serveren"
+        ]
+      },
+      "cultural_significance": {
+        "origin_story": "Dit gerecht is al generaties lang deel van de Zuid-Thaise voedselcultuur en weerspiegelt de unieke kooktradities en lokale ingrediënten van de regio.",
+        "cultural_importance": "Dit gerecht is het hart van de Zuid-Thaise keuken en toont de balans en harmonie waar Thaise gerechten wereldwijd om bekendstaan.",
+        "traditional_occasions": [
+          "Familiebijeenkomst",
+          "Lokale festivals",
+          "Straatvoedselmarkten",
+          "Speciale vieringen"
+        ]
+      },
+      "variations": [
+        {
+          "name": "Khao Mok Gai Classic",
+          "description": "Traditionele versie geserveerd in lokale huizen"
+        },
+        {
+          "name": "Khao Mok Gai Modern",
+          "description": "Moderne versie met premium ingrediënten"
+        },
+        {
+          "name": "Vegetarian Khao Mok Gai",
+          "description": "Vegetarische versie met tofu of paddenstoelen"
+        }
+      ],
+      "serving_suggestions": {
+        "traditional_accompaniments": [
+          "Jasmijnrijst",
+          "Verse groenten",
+          "Thaise kruiden"
+        ],
+        "presentation": "Geserveerd op traditionele Thaise borden",
+        "eating_etiquette": "Eet met lepel en vork volgens Thaise traditie"
+      },
+      "where_to_find": {
+        "best_restaurants": [
+          "Lokale Zuid-Thaise restaurants",
+          "Authentieke straatkraampjes",
+          "Traditionele markten",
+          "Familierestaurants"
+        ],
+        "street_food_areas": [
+          "Nachtmarkten",
+          "Ochtendmarkten",
+          "Lokale foodcourts"
+        ],
+        "price_ranges": {
+          "street_vendor": "30-50 THB",
+          "market_stall": "40-60 THB",
+          "restaurant": "60-100 THB"
+        }
+      },
+      "translated_at": "2026-03-14T00:00:00.000Z"
+    },
+    "ja": {
+      "enhanced_description": "Khao Mok Gai is een Zuid-Thais standaardgerecht met milde warmte en hartverwarmende voldoening. Het is een Thaise biryani met kip en geurige gele rijst. Deze recept van gemiddelde moeilijkheid duurt ongeveer 60 minuten en vangt de authentieke smaken van Zuid-Thaise keuken met zeevruchten of kokoscurry's. De combinatie van kip, rijst en kurkuma creëert harmonieuze smaken die geliefd zijn bij locals en bezoekers. Ideaal voor wie betaalbare, authentieke Thaise gerechten zoekt.",
+      "detailed_ingredients": [
+        {
+          "name": "Chicken",
+          "purpose": "Belangrijke ingrediënten essentieel voor authentieke Khao Mok Gai smaak",
+          "substitutes": [
+            "Verse kip",
+            "Gedroogde kip",
+            "Kip pasta"
+          ]
+        },
+        {
+          "name": "Rice",
+          "purpose": "Belangrijke basis essentieel voor authentieke Khao Mok Gai smaak",
+          "substitutes": [
+            "Verse rijst",
+            "Gedroogde rijst",
+            "Rijst pasta"
+          ]
+        },
+        {
+          "name": "Turmeric",
+          "purpose": "Belangrijke specerijen essentieel voor authentieke Khao Mok Gai smaak",
+          "substitutes": [
+            "Verse kurkuma",
+            "Gedroogde kurkuma",
+            "Kurkuma pasta"
+          ]
+        },
+        {
+          "name": "Bay leaves",
+          "purpose": "Belangrijke aromatische bladeren essentieel voor authentieke Khao Mok Gai smaak",
+          "substitutes": [
+            "Verse laurierblaadjes",
+            "Gedroogde laurierblaadjes",
+            "Laurierblaadjes pasta"
+          ]
+        }
+      ],
+      "cooking_method": {
+        "technique": "Bakken of grillen",
+        "steps_overview": "De bereiding van Khao Mok Gai vereist zorg voor details en juiste timing. Het evenwicht van alle smaken behouden terwijl de textuur van elk ingrediënt intact blijft, is key. De traditionele methode, doorgegeven door generaties, garandeert authentieke smaak.",
+        "cooking_tips": [
+          "Gebruik verse kip voor het beste resultaat",
+          "Pas de pittigheid aan naar wens",
+          "Oververhit niet om textuur te behouden",
+          "Proef en pas smaak aan voor het opdienen"
+        ]
+      },
+      "cultural_significance": {
+        "origin_story": "Khao Mok Gai is al generaties lang een belangrijk standaardgerecht in Zuid-Thaise keuken en weerspiegelt de unieke kooktradities en lokale ingrediënten van de regio.",
+        "cultural_importance": "Dit gerecht toont de kern van harmonie en balans waar Thaise keuken wereldwijd om beroemd is, en speelt een centrale rol in de Zuid-Thaise keuken.",
+        "traditional_occasions": [
+          "Familiebijeenkomst",
+          "Lokale festivals",
+          "Straatmarkten",
+          "Speciale vieringen"
+        ]
+      },
+      "variations": [
+        {
+          "name": "Khao Mok Gai Classic",
+          "description": "Traditionele versie geserveerd in lokale huizen"
+        },
+        {
+          "name": "Khao Mok Gai Modern",
+          "description": "Moderne versie met hoogwaardige ingrediënten"
+        },
+        {
+          "name": "Vegetarian Khao Mok Gai",
+          "description": "Plantaardige versie met tofu of paddenstoelen"
+        }
+      ],
+      "serving_suggestions": {
+        "traditional_accompaniments": [
+          "Jasmijnrijst",
+          "Verse groenten",
+          "Thaise kruiden"
+        ],
+        "presentation": "Geserveerd in traditionele Thaise stijl op borden",
+        "eating_etiquette": "Geniet volgens Thaise gewoonten met vork en lepel"
+      },
+      "where_to_find": {
+        "best_restaurants": [
+          "Lokale Zuid-Thaise restaurants",
+          "Authentieke straatkraampjes",
+          "Traditionele markten",
+          "Familiegerunde eettentjes"
+        ],
+        "street_food_areas": [
+          "Nachtmarkten",
+          "Ochtendverse markten",
+          "Lokale foodcourts"
+        ],
+        "price_ranges": {
+          "street_vendor": "30-50 THB",
+          "market_stall": "40-60 THB",
+          "restaurant": "60-100 THB"
+        }
+      },
+      "translated_at": "2026-03-14T00:00:00.000Z"
+    }
+  }
+}

@@ -1,0 +1,55 @@
+{
+  "id": 3,
+  "slug": "nam-manao",
+  "name": {
+    "en": "Fresh Lime Juice",
+    "nl": "Verse Limoensap",
+    "thai": "น้ำมะนาว"
+  },
+  "category": "sap",
+  "type": "koud",
+  "description": {
+    "en": "Fresh squeezed lime juice with sugar and salt",
+    "nl": "Vers geperst limoensap met suiker en zout"
+  },
+  "ingredients": [
+    "verse limoen",
+    "suiker",
+    "zout",
+    "water",
+    "ijs"
+  ],
+  "allergens": [],
+  "dietary": [
+    "vegan"
+  ],
+  "image": "/images/drinks/nam-manao.webp",
+  "temperature": "koud",
+  "alcohol_content": "geen",
+  "caffeine": "geen",
+  "price_range": "budget",
+  "region": "alle",
+  "occasions": [
+    "warm weer",
+    "maaltijden"
+  ],
+  "seo": {
+    "metaTitle": {
+      "en": "Fresh Lime Juice Recipe | Authentic Thai juice",
+      "nl": "Verse Limoensap Recept | Authentieke Thaise juice"
+    },
+    "metaDescription": {
+      "en": "Learn about Fresh Lime Juice (น้ำมะนาว) - Fresh squeezed lime juice with sugar and salt",
+      "nl": "Leer over Verse Limoensap (น้ำมะนาว) - Vers geperst limoensap met suiker en zout"
+    }
+  },
+  "tags": [
+    "thaise-dranken",
+    "Thailand",
+    "sap",
+    "koud",
+    "koud",
+    "warm-weer",
+    "maaltijden"
+  ]
+}

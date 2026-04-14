@@ -1,0 +1,978 @@
+{
+  "id": 43,
+  "slug": "nam-prik-kapi",
+  "name": {
+    "en": "Nam Prik Kapi",
+    "nl": "Nam Prik Kapi",
+    "thai": "น้ำพริกกะปิ"
+  },
+  "category": "hoofdgerecht",
+  "region": "zuidelijk",
+  "spice_level": "pittig",
+  "description": {
+    "en": "Shrimp paste chili dip with fresh vegetables",
+    "nl": "Garnalenpasta chili dip met verse groenten"
+  },
+  "ingredients": [
+    "garnalenpasta",
+    "chili",
+    "knoflook",
+    "limoensap",
+    "palmsuiker"
+  ],
+  "allergens": [
+    "zeevruchten"
+  ],
+  "dietary": [],
+  "image": "/images/food/nam-prik-kapi.webp",
+  "preparation_time": "15 minuten",
+  "difficulty": "eenvoudig",
+  "price_range": "betaalbaar",
+  "seo": {
+    "metaTitle": {
+      "en": "Nam Prik Kapi Recipe | Authentic Thai main dish",
+      "nl": "Nam Prik Kapi Recept | Authentieke Thaise main dish"
+    },
+    "metaDescription": {
+      "en": "Learn about Nam Prik Kapi (น้ำพริกกะปิ) - Shrimp paste chili dip with fresh vegetables...",
+      "nl": "Leer over Nam Prik Kapi (น้ำพริกกะปิ) - Garnalenpasta chili dip met verse groenten..."
+    }
+  },
+  "tags": [
+    "thais-eten",
+    "thailand",
+    "hoofdgerecht",
+    "zuidelijk",
+    "pittig",
+    "eenvoudig",
+    "betaalbaar",
+    "garnalenpasta",
+    "chili",
+    "knoflook"
+  ],
+  "cooking": {
+    "preparation_time": "15 minuten",
+    "difficulty": "eenvoudig",
+    "spice_level": "pittig",
+    "serves": "2-4 personen"
+  },
+  "nutrition": {
+    "allergens": [
+      "zeevruchten"
+    ],
+    "dietary": [],
+    "price_range": "betaalbaar"
+  },
+  "enhanced_description": "Nam Prik Kapi is een geliefd stevig en smaakvol hoofdgerecht uit Zuid-Thailand dat vurig en gedurfd is. Garnalenpasta chili dip met verse groenten. Dit eenvoudige recept vergt ongeveer 15 minuten bereidingstijd en vertegenwoordigt de authentieke smaken van de Zuid-Thaise keuken, gekenmerkt door intense kruiden, zeevruchten en curry's op basis van kokos. De combinatie van garnalenpasta, chili en knoflook creëert een harmonieuze mix die dit gerecht tot een favoriet heeft gemaakt onder zowel locals als bezoekers. Perfect voor wie op zoek is naar betaalbare authentieke Thaise keuken.",
+  "detailed_ingredients": [
+    {
+      "name": "Shrimp paste",
+      "purpose": "Essentieel voor authentieke Nam Prik Kapi smaak",
+      "substitutes": [
+        "Verse garnalenpasta",
+        "Gedroogde garnalenpasta",
+        "garnalenpasta"
+      ]
+    },
+    {
+      "name": "Chili",
+      "purpose": "Essentieel voor authentieke Nam Prik Kapi smaak",
+      "substitutes": [
+        "Verse chili",
+        "Gedroogde chili",
+        "chilipasta"
+      ]
+    },
+    {
+      "name": "Garlic",
+      "purpose": "Essentieel voor authentieke Nam Prik Kapi smaak",
+      "substitutes": [
+        "Verse knoflook",
+        "Gedroogde knoflook",
+        "knoflookpasta"
+      ]
+    },
+    {
+      "name": "Lime juice",
+      "purpose": "Essentieel voor authentieke Nam Prik Kapi smaak",
+      "substitutes": [
+        "Vers limoensap",
+        "Gedroogd limoensap",
+        "limoensappasta"
+      ]
+    }
+  ],
+  "cooking_method": {
+    "technique": "Roerbakken of grillen",
+    "steps_overview": "Het bereiden van Nam Prik Kapi vereist aandacht voor detail en goede timing. De sleutel is het balanceren van alle smaken terwijl de textuur van elk ingrediënt behouden blijft. Traditionele methoden die van generatie op generatie zijn doorgegeven, garanderen een authentieke smaak.",
+    "cooking_tips": [
+      "Gebruik verse garnalenpasta voor het beste resultaat",
+      "Pas het pittigheidsgehalte aan naar je voorkeur",
+      "Kook niet te lang om de textuur te behouden",
+      "Proef en pas de kruiding aan voor het serveren"
+    ]
+  },
+  "cultural_significance": {
+    "origin_story": "Nam Prik Kapi is al generaties lang een vast onderdeel van de Zuid-Thaise keuken en weerspiegelt de unieke culinaire tradities en lokale ingrediënten van de regio.",
+    "cultural_importance": "Dit gerecht vertegenwoordigt het hart van de Zuid-Thaise kookkunst en toont de balans en harmonie waarmee de Thaise keuken wereldwijd beroemd is.",
+    "traditional_occasions": [
+      "Familiebijeenkomsten",
+      "Lokale festivals",
+      "Straatvoedselmarkten",
+      "Bijzondere vieringen"
+    ]
+  },
+  "variations": [
+    {
+      "name": "Nam Prik Kapi Classic",
+      "description": "De traditionele versie zoals geserveerd in lokale huishoudens"
+    },
+    {
+      "name": "Nam Prik Kapi Modern",
+      "description": "Hedendaagse variant met premium ingrediënten"
+    },
+    {
+      "name": "Vegetarian Nam Prik Kapi",
+      "description": "Plantaardige versie met tofu of paddenstoelen"
+    }
+  ],
+  "serving_suggestions": {
+    "traditional_accompaniments": [
+      "Jasmijnrijst",
+      "Verse groenten",
+      "Thaise kruiden"
+    ],
+    "presentation": "Geserveerd op een bord in traditionele Thaise stijl",
+    "eating_etiquette": "Gegeten met vork en lepel volgens Thais gebruik"
+  },
+  "nutritional_info": {
+    "calories_per_serving": "300-500 calorieën",
+    "health_benefits": [
+      "Rijk aan Thaise kruiden en specerijen",
+      "Bron van eiwitten en groenten",
+      "Gebalanceerde smaken en voedingsstoffen"
+    ],
+    "dietary_notes": []
+  },
+  "where_to_find": {
+    "best_restaurants": [
+      "Lokale Zuid-Thaise restaurants",
+      "Authentieke straatvoedselkramen",
+      "Traditionele markten",
+      "Familiegerunde eetgelegenheden"
+    ],
+    "street_food_areas": [
+      "Nachtmarkten",
+      "Ochtendverse markten",
+      "Nam Prik Kapi is een geliefd stevig en smaakvol hoofdgerecht uit Zuid-Thailand dat vurig en gedurfd is. Garnalenpasta chili dip met verse groenten. Dit eenvoudige recept vergt ongeveer 15 minuten bereidingstijd en vertegenwoordigt de authentieke smaken van de Zuid-Thaise keuken, gekenmerkt door intense kruiden, zeevruchten en curry's op basis van kokos. De combinatie van garnalenpasta, chili en knoflook creëert een harmonieuze mix die dit gerecht tot een favoriet heeft gemaakt onder zowel locals als bezoekers. Perfect voor wie op zoek is naar betaalbare authentieke Thaise keuken."
+    ],
+    "price_ranges": {
+      "street_vendor": "30-50 THB",
+      "market_stall": "40-60 THB",
+      "restaurant": "60-100 THB"
+    }
+  },
+  "translations": {
+    "nl": {
+      "enhanced_description": "Essentieel voor de authentieke Nam Prik Kapi smaak",
+      "detailed_ingredients": [
+        {
+          "name": "Garnalenpasta",
+          "purpose": "Verse garnalenpasta",
+          "substitutes": [
+            "Gedroogde garnalenpasta",
+            "Vissaus",
+            "Essentieel voor de authentieke Nam Prik Kapi smaak"
+          ]
+        },
+        {
+          "name": "Chili",
+          "purpose": "Verse chili",
+          "substitutes": [
+            "Gedroogde chili",
+            "Chilipasta",
+            "Essentieel voor de authentieke Nam Prik Kapi smaak"
+          ]
+        },
+        {
+          "name": "Knoflook",
+          "purpose": "Verse knoflook",
+          "substitutes": [
+            "Gedroogde knoflook",
+            "Knoflookpasta",
+            "Essentieel voor de authentieke Nam Prik Kapi smaak"
+          ]
+        },
+        {
+          "name": "Limoensap",
+          "purpose": "Vers limoensap",
+          "substitutes": [
+            "Citroensap",
+            "Tamarindesap",
+            "Stampen en mengen"
+          ]
+        }
+      ],
+      "cooking_method": {
+        "technique": "Het bereiden van Nam Prik Kapi vereist aandacht voor detail en goede timing. De sleutel is het balanceren van alle smaken terwijl de textuur van elk ingrediënt behouden blijft. Traditionele methoden die van generatie op generatie zijn doorgegeven, garanderen een authentieke smaak.",
+        "steps_overview": "Gebruik verse garnalenpasta voor het beste resultaat",
+        "cooking_tips": [
+          "Pas het pittigheidsgehalte aan naar je voorkeur",
+          "Kook niet te lang om de textuur te behouden",
+          "Proef en pas de kruiding aan voor het serveren",
+          "Nam Prik Kapi is al generaties lang een vast onderdeel van de Zuid-Thaise keuken en weerspiegelt de unieke culinaire tradities en lokale ingrediënten van de regio."
+        ]
+      },
+      "cultural_significance": {
+        "origin_story": "Dit gerecht vertegenwoordigt het hart van de Zuid-Thaise kookkunst en toont de balans en harmonie waarmee de Thaise keuken wereldwijd beroemd is.",
+        "cultural_importance": "Familiebijeenkomsten",
+        "traditional_occasions": [
+          "Lokale festivals",
+          "Straatvoedselmarkten",
+          "Bijzondere vieringen",
+          "De traditionele versie zoals geserveerd in lokale huishoudens"
+        ]
+      },
+      "variations": [
+        {
+          "name": "Nam Prik Kapi Klassiek",
+          "description": "Hedendaagse variant met premium ingrediënten"
+        },
+        {
+          "name": "Nam Prik Kapi Modern",
+          "description": "Plantaardige versie met tofu of paddenstoelen"
+        },
+        {
+          "name": "Vegetarische Nam Prik Kapi",
+          "description": "Jasmijnrijst"
+        }
+      ],
+      "serving_suggestions": {
+        "traditional_accompaniments": [
+          "Verse groenten",
+          "Thaise kruiden",
+          "Geserveerd op een bord in traditionele Zuid-Thaise stijl"
+        ],
+        "presentation": "Gegeten met vork en lepel volgens Thais gebruik",
+        "eating_etiquette": "Lokale Zuid-Thaise restaurants"
+      },
+      "where_to_find": {
+        "best_restaurants": [
+          "Authentieke straatvoedselkramen",
+          "Traditionele markten",
+          "Familiebedrijfjes",
+          "Nachtmarkten"
+        ],
+        "street_food_areas": [
+          "Ochtendverse markten",
+          "Lokale food courts",
+          "Le Nam Prik Kapi est un plat principal copieux et savoureux apprécié du sud de la Thaïlande, ardent et audacieux. Une sauce piquante à la pâte de crevettes accompagnée de légumes frais. Cette recette facile nécessite environ 15 minutes de préparation et représente les saveurs authentiques de la cuisine du sud de la Thaïlande, caractérisée par des épices intenses, des fruits de mer et des currys à base de coco. La combinaison de pâte de crevettes, de piment et d'ail crée un mélange harmonieux qui a fait de ce plat un favori tant auprès des locaux que des visiteurs. Parfait pour ceux qui recherchent une cuisine thaïlandaise authentique à petit prix."
+        ]
+      },
+      "translated_at": "2026-03-10T00:00:00.000Z"
+    },
+    "fr": {
+      "enhanced_description": "Essentiel pour la saveur authentique du Nam Prik Kapi",
+      "detailed_ingredients": [
+        {
+          "name": "Pâte de crevettes",
+          "purpose": "Pâte de crevettes fraîche",
+          "substitutes": [
+            "Pâte de crevettes séchée",
+            "Sauce de poisson",
+            "Essentiel pour la saveur authentique du Nam Prik Kapi"
+          ]
+        },
+        {
+          "name": "Piment",
+          "purpose": "Piment frais",
+          "substitutes": [
+            "Piment séché",
+            "Pâte de piment",
+            "Essentiel pour la saveur authentique du Nam Prik Kapi"
+          ]
+        },
+        {
+          "name": "Ail",
+          "purpose": "Ail frais",
+          "substitutes": [
+            "Ail séché",
+            "Pâte d'ail",
+            "Essentiel pour la saveur authentique du Nam Prik Kapi"
+          ]
+        },
+        {
+          "name": "Jus de citron vert",
+          "purpose": "Jus de citron vert frais",
+          "substitutes": [
+            "Jus de citron",
+            "Jus de tamarin",
+            "Pilonnage et mélange"
+          ]
+        }
+      ],
+      "cooking_method": {
+        "technique": "La préparation du Nam Prik Kapi nécessite de l'attention aux détails et un bon timing. La clé est d'équilibrer toutes les saveurs tout en préservant la texture de chaque ingrédient. Les méthodes traditionnelles transmises de génération en génération garantissent un goût authentique.",
+        "steps_overview": "Utilisez de la pâte de crevettes fraîche pour un meilleur résultat",
+        "cooking_tips": [
+          "Ajustez le niveau de piquant selon vos préférences",
+          "Ne faites pas trop cuire pour préserver la texture",
+          "Goûtez et ajustez l'assaisonnement avant de servir",
+          "Le Nam Prik Kapi est un pilier de la cuisine du sud de la Thaïlande depuis des générations, reflétant les traditions culinaires uniques et les ingrédients locaux de la région."
+        ]
+      },
+      "cultural_significance": {
+        "origin_story": "Ce plat représente le cœur de la cuisine du sud de la Thaïlande, illustrant l'équilibre et l'harmonie qui ont rendu la cuisine thaïlandaise célèbre dans le monde entier.",
+        "cultural_importance": "Réunions de famille",
+        "traditional_occasions": [
+          "Festivals locaux",
+          "Marchés de cuisine de rue",
+          "Célébrations spéciales",
+          "La version traditionnelle telle que servie dans les foyers locaux"
+        ]
+      },
+      "variations": [
+        {
+          "name": "Nam Prik Kapi Classique",
+          "description": "La version traditionnelle telle que servie dans les foyers locaux"
+        },
+        {
+          "name": "Nam Prik Kapi Moderne",
+          "description": "Moderne versie met premium ingrediënten"
+        },
+        {
+          "name": "Nam Prik Kapi Végétarien",
+          "description": "Vegetarische versie met tofu of paddenstoelen"
+        }
+      ],
+      "serving_suggestions": {
+        "traditional_accompaniments": [
+          "Jasmijnrijst",
+          "Verse groenten",
+          "Thaise kruiden"
+        ],
+        "presentation": "Geserveerd op een bord in de traditionele stijl van Zuid-Thailand",
+        "eating_etiquette": "Gegeten met vork en lepel volgens Thaise gewoonte"
+      },
+      "where_to_find": {
+        "best_restaurants": [
+          "Lokale restaurants in Zuid-Thailand",
+          "Authentieke straatkraampjes",
+          "Traditionele markten",
+          "Familierestaurants"
+        ],
+        "street_food_areas": [
+          "Nachtmarkten",
+          "Verse ochtendmarkten",
+          "Nam Prik Kapi is een geliefd, hartig en smaakvol hoofdgerecht uit Zuid-Thailand, dat pittig en gedurfd is. Een pittige dip van garnalenpasta met verse groenten. Dit eenvoudige recept vereist ongeveer 15 minuten bereidingstijd en belichaamt de authentieke smaken van de Zuid-Thaise keuken, gekenmerkt door intense specerijen, zeevruchten en kokosbasis curries. De combinatie van garnalenpasta, chili en knoflook creëert een harmonieuze mix die dit gerecht zowel bij locals als bij bezoekers favoriet heeft gemaakt. Perfect voor iedereen die betaalbare authentieke Thaise keuken zoekt."
+        ]
+      },
+      "translated_at": "2026-03-10T00:00:00.000Z"
+    },
+    "de": {
+      "enhanced_description": "Onmisbaar voor de authentieke Nam Prik Kapi-smaak",
+      "detailed_ingredients": [
+        {
+          "name": "Garnelenpaste",
+          "purpose": "Verse garnalenpasta",
+          "substitutes": [
+            "Gedroogde garnalenpasta",
+            "Vis sauce",
+            "Onmisbaar voor de authentieke Nam Prik Kapi-smaak"
+          ]
+        },
+        {
+          "name": "Chili",
+          "purpose": "Verse chili",
+          "substitutes": [
+            "Gedroogde chili",
+            "Chili pasta",
+            "Onmisbaar voor de authentieke Nam Prik Kapi-smaak"
+          ]
+        },
+        {
+          "name": "Knoblauch",
+          "purpose": "Verse knoflook",
+          "substitutes": [
+            "Gedroogde knoflook",
+            "Knoflookpasta",
+            "Onmisbaar voor de authentieke Nam Prik Kapi-smaak"
+          ]
+        },
+        {
+          "name": "Limettensaft",
+          "purpose": "Verse limoensap",
+          "substitutes": [
+            "Citroensap",
+            "Tamarindesap",
+            "Stampen en mengen"
+          ]
+        }
+      ],
+      "cooking_method": {
+        "technique": "De bereiding van Nam Prik Kapi vereist aandacht voor details en goed timen. De sleutel ligt in het balanceren van alle smaken en tegelijkertijd het behouden van de textuur van elke ingrediënt. Traditionele methoden, doorgegeven van generatie op generatie, garanderen een authentieke smaak.",
+        "steps_overview": "Gebruik verse garnalenpasta voor het beste resultaat",
+        "cooking_tips": [
+          "Pas de pittigheid aan naar smaak",
+          "Niet te lang koken om de textuur te behouden",
+          "Proeven en op smaak brengen voor het serveren",
+          "Nam Prik Kapi is al generaties lang een vast onderdeel van de Zuid-Thaise keuken en weerspiegelt de unieke culinaire tradities en lokale ingrediënten van de regio."
+        ]
+      },
+      "cultural_significance": {
+        "origin_story": "Dit gerecht belichaamt het hart van de Zuid-Thaise kookkunst en toont de balans en harmonie waarvoor de Thaise keuken wereldwijd beroemd is.",
+        "cultural_importance": "Familiebijeenkomsten",
+        "traditional_occasions": [
+          "Lokale feesten",
+          "Straatvoedselmarkten",
+          "Speciale vieringen",
+          "De traditionele versie, zoals geserveerd in lokale huishoudens"
+        ]
+      },
+      "variations": [
+        {
+          "name": "Nam Prik Kapi Klassisch",
+          "description": "Contemporaine variant met hoogwaardige ingrediënten"
+        },
+        {
+          "name": "Nam Prik Kapi Modern",
+          "description": "Plantaardige versie met tofu of paddenstoelen"
+        },
+        {
+          "name": "Vegetarische Nam Prik Kapi",
+          "description": "Jasmijnrijst"
+        }
+      ],
+      "serving_suggestions": {
+        "traditional_accompaniments": [
+          "Verse groenten",
+          "Thaise kruiden",
+          "Geserveerd op een bord in de traditionele Zuid-Thaise stijl"
+        ],
+        "presentation": "Gegeten met vork en lepel volgens Thaise traditie",
+        "eating_etiquette": "Lokale Zuid-Thaise restaurants"
+      },
+      "where_to_find": {
+        "best_restaurants": [
+          "Authentieke straatkraampjes",
+          "Traditionele markten",
+          "Familiegerunde restaurants",
+          "Nachtmarkten"
+        ],
+        "street_food_areas": [
+          "Verse ochtendmarkten",
+          "Lokale food courts",
+          "Nam Prik Kapi is een geliefd, overvloedig hoofdgerecht uit Zuid-Thailand, pittig en gedurfd van smaak. Het is een pittige dipsaus op basis van garnalenpasta, geserveerd met verse groenten. Dit eenvoudige recept duurt ongeveer 15 minuten bereiding en vertegenwoordigt de authentieke smaken van de Zuid-Thaise keuken – gekenmerkt door intense specerijen, zeevruchten en kokosmelk curries. De combinatie van garnalenpasta, chili en knoflook creëert een harmonieuze smaak die dit gerecht geliefd maakt bij zowel locals als toeristen. Ideaal voor wie betaalbare authentieke Thaise gerechten zoekt."
+        ]
+      },
+      "translated_at": "2026-03-10T00:00:00.000Z"
+    },
+    "zh": {
+      "enhanced_description": "Sleutelingrediënten voor de authentieke Nam Prik Kapi-smaak",
+      "detailed_ingredients": [
+        {
+          "name": "虾酱",
+          "purpose": "Verse garnalenpasta",
+          "substitutes": [
+            "Gedroogde garnalenpasta",
+            "Vis sauce",
+            "Sleutelingrediënten voor de authentieke Nam Prik Kapi-smaak"
+          ]
+        },
+        {
+          "name": "辣椒",
+          "purpose": "Verse chili",
+          "substitutes": [
+            "Gedroogde chili",
+            "Chili pasta",
+            "Sleutelingrediënten voor de authentieke Nam Prik Kapi-smaak"
+          ]
+        },
+        {
+          "name": "大蒜",
+          "purpose": "Verse knoflook",
+          "substitutes": [
+            "Knoflookpoeder",
+            "Knoflookpasta",
+            "Sleutelingrediënten voor de authentieke Nam Prik Kapi-smaak"
+          ]
+        },
+        {
+          "name": "青柠汁",
+          "purpose": "Verse limoensap",
+          "substitutes": [
+            "Citroensap",
+            "Tamarindesap",
+            "Stampen en mengen"
+          ]
+        }
+      ],
+      "cooking_method": {
+        "technique": "Het maken van Nam Prik Kapi vereist aandacht voor details en goed timen. De sleutel is het balanceren van alle smaken terwijl de textuur van elk ingrediënt behouden blijft. Traditionele methoden, doorgegeven van generatie op generatie, zorgen voor een authentieke smaak.",
+        "steps_overview": "Gebruik verse garnalenpasta voor de beste smaak",
+        "cooking_tips": [
+          "Pas de pittigheid aan naar persoonlijke voorkeur",
+          "Niet te lang koken om de textuur te behouden",
+          "Proeven en op smaak brengen voor het serveren",
+          "Nam Prik Kapi is al generaties lang een hoofdbestanddeel van de Zuid-Thaise keuken en weerspiegelt de unieke culinaire tradities en lokale ingrediënten van de regio."
+        ]
+      },
+      "cultural_significance": {
+        "origin_story": "Dit gerecht vertegenwoordigt de essentie van de Zuid-Thaise keuken en toont de wereldberoemde balans en harmonie van de Thaise keuken.",
+        "cultural_importance": "Familiebijeenkomsten",
+        "traditional_occasions": [
+          "Lokale festivals",
+          "Straatvoedselmarkten",
+          "Speciale vieringen",
+          "De traditionele versie zoals bereid in lokale families"
+        ]
+      },
+      "variations": [
+        {
+          "name": "经典Nam Prik Kapi",
+          "description": "Moderne innovatieve versie met premium ingrediënten"
+        },
+        {
+          "name": "现代Nam Prik Kapi",
+          "description": "Vegetarische versie met tofu of paddenstoelen"
+        },
+        {
+          "name": "素食Nam Prik Kapi",
+          "description": "Jasmijnrijst"
+        }
+      ],
+      "serving_suggestions": {
+        "traditional_accompaniments": [
+          "Verse groenten",
+          "Thaise kruiden",
+          "Geserveerd op een bord in de traditionele Zuid-Thaise stijl"
+        ],
+        "presentation": "Gegeten met vork en lepel volgens Thaise gewoonte",
+        "eating_etiquette": "Lokale Zuid-Thaise restaurants"
+      },
+      "where_to_find": {
+        "best_restaurants": [
+          "Authentieke straatkraampjes",
+          "Traditionele markten",
+          "Familiegerunde eettentjes",
+          "Nachtmarkten"
+        ],
+        "street_food_areas": [
+          "Ochtendmarkten",
+          "Lokale food courts",
+          "Nam Prik Kapi is een geliefd, vullend en smaakvol hoofdgerecht uit Zuid-Thailand, pittig en levendig van smaak. Een pittige dipsaus van garnalenpasta met verse groenten. Dit eenvoudige recept vereist ongeveer 15 minuten bereiding en presenteert de authentieke smaken van de Zuid-Thaise keuken met haar intense specerijen, zeevruchten en kokosbasis curries. De combinatie van garnalenpasta, chili en knoflook creëert een harmonieuze smaak die dit gerecht favoriet maakt bij zowel locals als gasten. Ideaal voor wie betaalbare authentieke Thaise keuken zoekt."
+        ]
+      },
+      "translated_at": "2026-03-11T00:00:00.000Z"
+    },
+    "ru": {
+      "enhanced_description": "Noodzakelijk voor de authentieke Nam Prik Kapi-smaak",
+      "detailed_ingredients": [
+        {
+          "name": "Креветочная паста",
+          "purpose": "Verse garnalenpasta",
+          "substitutes": [
+            "Gedroogde garnalenpasta",
+            "Vis sauce",
+            "Noodzakelijk voor de authentieke Nam Prik Kapi-smaak"
+          ]
+        },
+        {
+          "name": "Чили",
+          "purpose": "Verse chili",
+          "substitutes": [
+            "Gedroogde chili",
+            "Chili pasta",
+            "Noodzakelijk voor de authentieke Nam Prik Kapi-smaak"
+          ]
+        },
+        {
+          "name": "Чеснок",
+          "purpose": "Verse knoflook",
+          "substitutes": [
+            "Gedroogde knoflook",
+            "Knoflookpasta",
+            "Noodzakelijk voor de authentieke Nam Prik Kapi-smaak"
+          ]
+        },
+        {
+          "name": "Сок лайма",
+          "purpose": "Verse limoensap",
+          "substitutes": [
+            "Citroensap",
+            "Tamarindesap",
+            "Wrijven en mengen"
+          ]
+        }
+      ],
+      "cooking_method": {
+        "technique": "Het bereiden van Nam Prik Kapi vereist aandacht voor details en correct timen. Het belangrijkste is het balanceren van alle smaken terwijl de textuur van elk ingrediënt behouden blijft. Traditionele methoden, doorgegeven van generatie op generatie, zorgen voor een authentieke smaak.",
+        "steps_overview": "Gebruik verse garnalenpasta voor het beste resultaat",
+        "cooking_tips": [
+          "Pas de pittigheid aan naar smaak",
+          "Niet te lang bakken om de textuur te behouden",
+          "Proeven en kruiden aanpassen voor het serveren",
+          "Nam Prik Kapi is al generaties lang de basis van de Zuid-Thaise keuken en weerspiegelt de unieke culinaire tradities van de regio en lokale ingrediënten."
+        ]
+      },
+      "cultural_significance": {
+        "origin_story": "Dit gerecht belichaamt de essentie van de Zuid-Thaise culinaire kunst en demonstreert de balans en harmonie waarmee de Thaise keuken wereldwijd beroemd is.",
+        "cultural_importance": "Familiebijeenkomsten",
+        "traditional_occasions": [
+          "Lokale festivals",
+          "Straatvoedselmarkten",
+          "Speciale vieringen",
+          "De traditionele versie, zoals bereid in lokale huizen"
+        ]
+      },
+      "variations": [
+        {
+          "name": "Классический Nam Prik Kapi",
+          "description": "Moderne interpretatie met premium ingrediënten"
+        },
+        {
+          "name": "Современный Nam Prik Kapi",
+          "description": "Plantaardige versie met tofu of paddenstoelen"
+        },
+        {
+          "name": "Вегетарианский Nam Prik Kapi",
+          "description": "Jasmijnrijst"
+        }
+      ],
+      "serving_suggestions": {
+        "traditional_accompaniments": [
+          "Verse groenten",
+          "Thaise kruiden",
+          "Geserveerd op een bord in de traditionele Zuid-Thaise stijl"
+        ],
+        "presentation": "Gegeten met vork en lepel volgens Thaise gewoonte",
+        "eating_etiquette": "Lokale Zuid-Thaise restaurants"
+      },
+      "where_to_find": {
+        "best_restaurants": [
+          "Authentieke straatloketjes",
+          "Traditionele markten",
+          "Familie-eetgelegenheden",
+          "Nachtmarkten"
+        ],
+        "street_food_areas": [
+          "Ochtendvoedselmarkten",
+          "Lokale food courts",
+          "Nam Prik Kapi is de meest basale en geliefde chili dip in Thailand, gemaakt door gefermenteerde garnalenpasta (kapi) te stampen met chili, knoflook, limoensap in een vijzel voor een intense smaak. Een eenvoudige recept dat in ongeveer 15 minuten klaar is, waarbij de diepe umami van kapi perfect samengaat met de pittigheid van chili, de aroma van knoflook en de zuurheid van limoen. Het is het hart van Thaise thuismaaltijden, traditioneel gegeten met rijst, verse groenten, gekookte groenten en gebakken ei (kai dao). Ondanks de eenvoudige uitstraling vertegenwoordigt het de 'moeders smaak' die Thai het meest missen."
+        ]
+      },
+      "translated_at": "2026-03-11T00:00:00.000Z"
+    },
+    "ko": {
+      "enhanced_description": "Het hart van dit gerecht – gefermenteerde specerij die diepe umami en unieke smaak creëert",
+      "detailed_ingredients": [
+        {
+          "name": "까삐 (발효 새우 페이스트)",
+          "purpose": "Thaise kapi",
+          "substitutes": [
+            "Maleisische belacan",
+            "Maleisische belacan",
+            "Vis sauce (verschillende smaak)"
+          ]
+        },
+        {
+          "name": "고추 (프릭키누)",
+          "purpose": "Belangrijk ingrediënt dat een vurige pittige smaak toevoegt",
+          "substitutes": [
+            "Thaise muispepertjes",
+            "Gedroogde pepers",
+            "Cheongyang-pepers (Koreaanse vervanging)"
+          ]
+        },
+        {
+          "name": "마늘",
+          "purpose": "Basis kruiden die diepte aan geur en smaak geven",
+          "substitutes": [
+            "Verse knoflook",
+            "Geroosterde knoflook (voor een mildere smaak)",
+            "Knoflookpasta"
+          ]
+        },
+        {
+          "name": "라임즙과 야자 설탕",
+          "purpose": "Kruiden die de scherpe smaak van kapi in balans brengen met een zoetzure touch",
+          "substitutes": [
+            "Limoensap",
+            "Citroensap",
+            "Tamarindesap"
+          ]
+        }
+      ],
+      "cooking_method": {
+        "technique": "Pesten in een vijzel (krok en saak)",
+        "steps_overview": "Om nam phrik kapi te maken, wikkel je de kapi eerst in folie en rooster je het licht om de aroma'S te ontwikkelen. Doe knoflook en pepers in een vijzel en plet grof, voeg dan de geroosterde kapi toe en maal alles samen. Breng op smaak met limoensap, vis sauce en palmsuiker, en pas de balans van pittig-zout-zuur-zoet aan tot het perfect is.",
+        "cooking_tips": [
+          "Rooster de kapi altijd voordat je het gebruikt — rauw heeft het een sterke visachtige smaak",
+          "Gebruik een vijzel (krok) voor malen om de authentieke textuur te krijgen — een blender maalt te fijn",
+          "De balans van pittig, zout, zuur en zoet is de kern",
+          "Met verse groenten en een gebakken ei erbij heb je een perfecte maaltijd"
+        ]
+      },
+      "cultural_significance": {
+        "origin_story": "Nam phrik kapi is een van de oudste tradities in de Thaise eetcultuur, waarbij gefermenteerde garnalenpasta wordt gebruikt als kruiden. Deze methode is al eeuwenlang doorgegeven in de kustregio's van Zuidoost-Azië. In heel Thailand bestaan regionale variaties, en elk gezin heeft zijn eigen recept.",
+        "cultural_importance": "Nam phrik kapi is het symbool van de Thaise thuismaaltijd. 'Nam phrik kap' (een eenvoudige maaltijd van rijst, nam phrik en groenten) is het eten dat Thai het meest missen, en het staat voor de smaak van moeders kookkunst en de warmte van thuis. Het feit dat zelfs het koningshuis dit volkse gerecht eet, toont de democratische aard van de Thaise keuken.",
+        "traditional_occasions": [
+          "Dagelijkse thuismaaltijd",
+          "Eenvoudige maaltijd",
+          "Gezamenlijke maaltijd",
+          "Ontbijt"
+        ]
+      },
+      "variations": [
+        {
+          "name": "남프릭까삐 전통식",
+          "description": "De meest basisversie gemaakt met geroosterde kapi en verse pepers."
+        },
+        {
+          "name": "남프릭까삐 꿍생",
+          "description": "Een royale versie met toegevoegde verse garnalen."
+        },
+        {
+          "name": "남프릭까삐 마나오",
+          "description": "Een versie met extra limoen voor een sterkere zure smaak."
+        }
+      ],
+      "serving_suggestions": {
+        "traditional_accompaniments": [
+          "Jasmijnrijst",
+          "Gebakken ei (kai dao)",
+          "Verse groenten (komkommer, aubergine, bonen, kool)",
+          "Gekookte groenten",
+          "Gebakken makreel (pla thu)"
+        ],
+        "presentation": "Serveer de nam phrik in een klein kommetje met rijst, groenten en gebakken ei eromheen",
+        "eating_etiquette": "Schep de nam phrik op de rijst en eet het met groenten"
+      },
+      "where_to_find": {
+        "best_restaurants": [
+          "Thaise huiskamerrestaurants overal in het land",
+          "Gespecialiseerde bijgerechtenwinkels (ran khao khaeng)",
+          "Traditionele markten",
+          "Food courts"
+        ],
+        "street_food_areas": [
+          "Ochtendmarkten",
+          "Nachtmarkten",
+          "Lokale food courts"
+        ],
+        "price_ranges": {
+          "street_vendor": "25-40 THB",
+          "market_stall": "30-50 THB",
+          "restaurant": "50-80 THB"
+        }
+      },
+      "translated_at": "2026-03-14T00:00:00.000Z"
+    },
+    "th": {
+      "enhanced_description": "Nam phrik kapi is een basis nam phrik in de Thaise keuken, gemaakt van kapi, pepers, knoflook en limoensap. Het wordt geserveerd met makreel, verse groenten en gekookte eieren. Het is al sinds oudsher een dagelijkse maaltijd voor Thai.",
+      "detailed_ingredients": [
+        {
+          "name": "Shrimp paste",
+          "purpose": "Essentieel voor de authentieke smaak van Nam Prik Kapi",
+          "substitutes": [
+            "Verse garnalenpasta",
+            "Gedroogde garnalenpasta",
+            "Garnalenpasta"
+          ]
+        },
+        {
+          "name": "Chili",
+          "purpose": "Essentieel voor de authentieke smaak van Nam Prik Kapi",
+          "substitutes": [
+            "Verse chili",
+            "Gedroogde chili",
+            "Chili pasta"
+          ]
+        },
+        {
+          "name": "Garlic",
+          "purpose": "Essentieel voor de authentieke smaak van Nam Prik Kapi",
+          "substitutes": [
+            "Verse knoflook",
+            "Gedroogde knoflook",
+            "Knoflookpasta"
+          ]
+        },
+        {
+          "name": "Lime juice",
+          "purpose": "Essentieel voor de authentieke smaak van Nam Prik Kapi",
+          "substitutes": [
+            "Vers limoensap",
+            "Gedroogd limoensap",
+            "Limoensap pasta"
+          ]
+        }
+      ],
+      "cooking_method": {
+        "technique": "Roerbakken of roosteren",
+        "steps_overview": "De bereiding van Nam Prik Kapi vereist aandacht voor details en de juiste timing. Het belangrijkste is om de balans van alle smaken te behouden terwijl de textuur van elk ingrediënt intact blijft. De traditionele methode, doorgegeven door generaties, garandeert de authentieke smaak.",
+        "cooking_tips": [
+          "Gebruik verse garnalenpasta voor het beste resultaat",
+          "Pas de pittigheid aan naar smaak",
+          "Kook niet te lang om de textuur te behouden",
+          "Proef en breng op smaak voor het serveren"
+        ]
+      },
+      "cultural_significance": {
+        "origin_story": "Dit gerecht is al generaties lang deel van de zuidelijke Thaise eetcultuur en weerspiegelt de unieke kooktradities en lokale ingrediënten van de regio.",
+        "cultural_importance": "Dit gerecht is het hart van de zuidelijke Thaise keuken en toont de balans en harmonie waarvoor de Thaise keuken wereldwijd beroemd is.",
+        "traditional_occasions": [
+          "Familiebijeenkomsten",
+          "Lokale festivals",
+          "Straatvoedingsmarkten",
+          "Speciale vieringen"
+        ]
+      },
+      "variations": [
+        {
+          "name": "Nam Prik Kapi Classic",
+          "description": "Traditionele versie geserveerd in lokale huizen"
+        },
+        {
+          "name": "Nam Prik Kapi Modern",
+          "description": "Moderne versie met premium ingrediënten"
+        },
+        {
+          "name": "Vegetarian Nam Prik Kapi",
+          "description": "Vegetarische versie met tofu of paddenstoelen"
+        }
+      ],
+      "serving_suggestions": {
+        "traditional_accompaniments": [
+          "Jasmijnrijst",
+          "Verse groenten",
+          "Thaise kruiden"
+        ],
+        "presentation": "Geserveerd op traditionele Thaise borden",
+        "eating_etiquette": "Eet met lepel en vork volgens Thaise traditie"
+      },
+      "where_to_find": {
+        "best_restaurants": [
+          "Lokale zuidelijke Thaise restaurants",
+          "Authentieke straatrestantaurants",
+          "Traditionele markten",
+          "Familierestaurants"
+        ],
+        "street_food_areas": [
+          "Nachtmarkten",
+          "Ochtendmarkten",
+          "Lokale voedselcentra"
+        ],
+        "price_ranges": {
+          "street_vendor": "30-50 THB",
+          "market_stall": "40-60 THB",
+          "restaurant": "60-100 THB"
+        }
+      },
+      "translated_at": "2026-03-14T00:00:00.000Z"
+    },
+    "ja": {
+      "enhanced_description": "Nam Prik Kapi is een geliefd, hartverwarmend en bevredigend hoofdgerecht uit Zuid-Thailand, met een vurige pittigheid en robuuste smaak. Het is een chilidip met garnalenpasta, geserveerd met verse groenten. Dit eenvoudige recept is in ongeveer 15 minuten klaar en belichaamt de authentieke smaken van de zuidelijke Thaise keuken. Het kenmerkt zich door sterke specerijen, zeevruchten en kokosbasis curry's. De combinatie van garnalenpasta, chili en knoflook creëert een harmonieuze smaak die geliefd is bij locals en bezoekers. Perfect voor wie betaalbare authentieke Thaise gerechten zoekt.",
+      "detailed_ingredients": [
+        {
+          "name": "Shrimp paste（カピ）",
+          "purpose": "Onmisbaar voor de authentieke smaak van Nam Prik Kapi",
+          "substitutes": [
+            "Verse garnalenpasta",
+            "Gedroogde garnalenpasta",
+            "Garnalenpasta-achtige pasta"
+          ]
+        },
+        {
+          "name": "Chili（チリ）",
+          "purpose": "Onmisbaar voor de authentieke smaak van Nam Prik Kapi",
+          "substitutes": [
+            "Verse chili",
+            "Gedroogde chili",
+            "Chili pasta"
+          ]
+        },
+        {
+          "name": "Garlic（ニンニク）",
+          "purpose": "Onmisbaar voor de authentieke smaak van Nam Prik Kapi",
+          "substitutes": [
+            "Verse knoflook",
+            "Gedroogde knoflook",
+            "Knoflookpasta"
+          ]
+        },
+        {
+          "name": "Lime juice（ライムジュース）",
+          "purpose": "Onmisbaar voor de authentieke smaak van Nam Prik Kapi",
+          "substitutes": [
+            "Vers limoensap",
+            "Gedroogd limoensap",
+            "Limoensap pasta"
+          ]
+        }
+      ],
+      "cooking_method": {
+        "technique": "Techniek: roerbakken of roosteren",
+        "steps_overview": "De bereiding van Nam Prik Kapi vereist aandacht voor details en de juiste timing. Het belangrijkste is om de balans van alle smaken te behouden terwijl de textuur van elk ingrediënt intact blijft. De traditionele methode, doorgegeven door generaties, garandeert de authentieke smaak.",
+        "cooking_tips": [
+          "Gebruik verse garnalenpasta voor het beste resultaat",
+          "Pas de pittigheid aan naar smaak",
+          "Verhit niet te veel om de textuur te behouden",
+          "Proef en breng op smaak voor het serveren"
+        ]
+      },
+      "cultural_significance": {
+        "origin_story": "Nam Prik Kapi is al generaties lang een vaste waarde in de zuidelijke Thaise keuken en weerspiegelt de unieke kooktradities en lokale ingrediënten van de regio.",
+        "cultural_importance": "Dit gerecht symboliseert het hart van de zuidelijke Thaise keuken en toont de balans en harmonie waarvoor de Thaise keuken wereldwijd beroemd is.",
+        "traditional_occasions": [
+          "Familiebijeenkomsten",
+          "Lokale festivals",
+          "Straatmarkten",
+          "Speciale vieringen"
+        ]
+      },
+      "variations": [
+        {
+          "name": "Nam Prik Kapi Classic",
+          "description": "Traditionele versie geserveerd in lokale huizen"
+        },
+        {
+          "name": "Nam Prik Kapi Modern",
+          "description": "Moderne versie met premium ingrediënten"
+        },
+        {
+          "name": "Vegetarian Nam Prik Kapi",
+          "description": "Plantaardige versie met tofu of paddenstoelen"
+        }
+      ],
+      "serving_suggestions": {
+        "traditional_accompaniments": [
+          "Jasmijnrijst",
+          "Verse groenten",
+          "Thaise kruiden"
+        ],
+        "presentation": "Geserveerd in traditionele Thaise stijl op borden",
+        "eating_etiquette": "Eet met vork en lepel volgens Thaise gewoonten"
+      },
+      "where_to_find": {
+        "best_restaurants": [
+          "Lokale zuidelijke Thaise restaurants",
+          "Authentieke straatrestantaurants",
+          "Traditionele markten",
+          "Familierestaurants"
+        ],
+        "street_food_areas": [
+          "Nachtmarkten",
+          "Verse ochtendmarkten",
+          "Lokale food courts"
+        ],
+        "price_ranges": {
+          "street_vendor": "30-50 THB",
+          "market_stall": "40-60 THB",
+          "restaurant": "60-100 THB"
+        }
+      },
+      "translated_at": "2026-03-14T00:00:00.000Z"
+    }
+  }
+}

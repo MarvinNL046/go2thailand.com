@@ -1,0 +1,976 @@
+{
+  "id": 39,
+  "slug": "sukhothai-noodles",
+  "name": {
+    "en": "Sukhothai Noodles",
+    "nl": "Sukhothai Noedels",
+    "thai": "ก๋วยเตี๋ยวสุโขทัย"
+  },
+  "category": "soep",
+  "region": "noordelijk",
+  "spice_level": "mild",
+  "description": {
+    "en": "Sukhothai style noodles with ground peanuts",
+    "nl": "Sukhothai stijl noedels met gemalen pinda's"
+  },
+  "ingredients": [
+    "rijstnoedels",
+    "varkensvlees",
+    "gemalen pinda's",
+    "groene bonen",
+    "limoen",
+    "vissaus"
+  ],
+  "allergens": [
+    "noten"
+  ],
+  "dietary": [],
+  "image": "/images/food/sukhothai-noodles.webp",
+  "preparation_time": "20 minuten",
+  "difficulty": "eenvoudig",
+  "price_range": "budget",
+  "seo": {
+    "metaTitle": {
+      "en": "Sukhothai Noodles Recipe | Authentic Thai soup",
+      "nl": "Sukhothai Noedels Recept | Authentieke Thaise soup"
+    },
+    "metaDescription": {
+      "en": "Learn about Sukhothai Noodles (ก๋วยเตี๋ยวสุโขทัย) - Sukhothai style noodles with ground peanuts...",
+      "nl": "Leer over Sukhothai Noedels (ก๋วยเตี๋ยวสุโขทัย) - Sukhothai stijl noedels met gemalen pinda's..."
+    }
+  },
+  "tags": [
+    "thais-eten",
+    "thailand",
+    "soep",
+    "noordelijk",
+    "mild",
+    "eenvoudig",
+    "budget",
+    "rijstnoedels",
+    "varkensvlees",
+    "gemalen-pinda's"
+  ],
+  "cooking": {
+    "preparation_time": "20 minuten",
+    "difficulty": "eenvoudig",
+    "spice_level": "mild",
+    "serves": "2-4 personen"
+  },
+  "nutrition": {
+    "allergens": [
+      "noten"
+    ],
+    "dietary": [],
+    "price_range": "budget"
+  },
+  "enhanced_description": "Sukhothai Noedels is een geliefde zielsverwarmende soep uit Noord-Thailand met een subtiele warmte. Sukhothai-stijl noedels met gemalen pinda's. Dit eenvoudige recept vergt ongeveer 20 minuten bereidingstijd en vertegenwoordigt de authentieke smaken van de Noord-Thaise keuken, gekenmerkt door mildere smaken, kleefrijst en kruiden. De combinatie van rijstnoedels, varkensvlees en gemalen pinda's creëert een harmonieuze mix die dit gerecht tot een favoriet heeft gemaakt onder zowel locals als bezoekers. Perfect voor wie op zoek is naar betaalbare authentieke Thaise keuken.",
+  "detailed_ingredients": [
+    {
+      "name": "Rice noodles",
+      "purpose": "Essentieel voor authentieke Sukhothai Noedels smaak",
+      "substitutes": [
+        "Verse rijstnoedels",
+        "Gedroogde rijstnoedels",
+        "rijstnoedels pasta"
+      ]
+    },
+    {
+      "name": "Pork",
+      "purpose": "Essentieel voor authentieke Sukhothai Noedels smaak",
+      "substitutes": [
+        "Vers varkensvlees",
+        "Gedroogd varkensvlees",
+        "varkensvlees pasta"
+      ]
+    },
+    {
+      "name": "Ground peanuts",
+      "purpose": "Essentieel voor authentieke Sukhothai Noedels smaak",
+      "substitutes": [
+        "Verse gemalen pinda's",
+        "Gedroogde gemalen pinda's",
+        "gemalen pinda's pasta"
+      ]
+    },
+    {
+      "name": "Green beans",
+      "purpose": "Essentieel voor authentieke Sukhothai Noedels smaak",
+      "substitutes": [
+        "Verse groene bonen",
+        "Gedroogde groene bonen",
+        "groene bonen pasta"
+      ]
+    }
+  ],
+  "cooking_method": {
+    "technique": "Sudderen en smaken opbouwen",
+    "steps_overview": "Het bereiden van Sukhothai Noedels vereist aandacht voor detail en juiste timing. De sleutel is om alle smaken in balans te brengen terwijl de textuur van elk ingrediënt behouden blijft. Traditionele methoden die van generatie op generatie zijn doorgegeven, zorgen voor een authentieke smaak.",
+    "cooking_tips": [
+      "Gebruik verse rijstnoedels voor het beste resultaat",
+      "Pas het pittigheidsniveau aan naar voorkeur",
+      "Kook niet te lang om textuur te behouden",
+      "Proef en pas kruiding aan voor serveren"
+    ]
+  },
+  "cultural_significance": {
+    "origin_story": "Sukhothai Noedels is al generaties lang een basisgerecht in de Noord-Thaise keuken en weerspiegelt de unieke culinaire tradities en lokale ingrediënten van de regio.",
+    "cultural_importance": "Dit gerecht vertegenwoordigt het hart van de Noord-Thaise kookkunst en toont de balans en harmonie waarvoor de Thaise keuken wereldwijd beroemd is.",
+    "traditional_occasions": [
+      "Familiebijeenkomsten",
+      "Lokale festivals",
+      "Straatvoedselmarkten",
+      "Speciale vieringen"
+    ]
+  },
+  "variations": [
+    {
+      "name": "Sukhothai Noodles Classic",
+      "description": "De traditionele versie zoals geserveerd in lokale huizen"
+    },
+    {
+      "name": "Sukhothai Noodles Modern",
+      "description": "Moderne twist met premium ingrediënten"
+    },
+    {
+      "name": "Vegetarian Sukhothai Noodles",
+      "description": "Plantaardige versie met tofu of paddenstoelen"
+    }
+  ],
+  "serving_suggestions": {
+    "traditional_accompaniments": [
+      "Jasmijnrijst",
+      "Verse groenten",
+      "Thaise kruiden"
+    ],
+    "presentation": "Geserveerd in een kom in traditionele Thaise stijl",
+    "eating_etiquette": "Genoten met vork en lepel volgens Thais gebruik"
+  },
+  "nutritional_info": {
+    "calories_per_serving": "300-500 calorieën",
+    "health_benefits": [
+      "Rijk aan Thaise kruiden en specerijen",
+      "Bron van eiwitten en groenten",
+      "Gebalanceerde smaken en voedingsstoffen"
+    ],
+    "dietary_notes": []
+  },
+  "where_to_find": {
+    "best_restaurants": [
+      "Lokale Noord-Thaise restaurants",
+      "Authentieke straatvoedselkraampjes",
+      "Traditionele markten",
+      "Familiegerunde eetgelegenheden"
+    ],
+    "street_food_areas": [
+      "Nachtmarkten",
+      "Ochtendverse markten",
+      "Lokale food courts"
+    ],
+    "price_ranges": {
+      "street_vendor": "30-50 THB",
+      "market_stall": "40-60 THB",
+      "restaurant": "60-100 THB"
+    }
+  },
+  "translations": {
+    "nl": {
+      "enhanced_description": "Sukhothai Noedels is een geliefde zielsverwarmende soep uit Noord-Thailand met een subtiele warmte. Sukhothai-stijl noedels met gemalen pinda's. Dit eenvoudige recept vergt ongeveer 20 minuten bereidingstijd en vertegenwoordigt de authentieke smaken van de Noord-Thaise keuken, gekenmerkt door mildere smaken, kleefrijst en kruiden. De combinatie van rijstnoedels, varkensvlees en gemalen pinda's creëert een harmonieuze mix die dit gerecht tot een favoriet heeft gemaakt onder zowel locals als bezoekers. Perfect voor wie op zoek is naar betaalbare authentieke Thaise keuken.",
+      "detailed_ingredients": [
+        {
+          "name": "Rijstnoedels",
+          "purpose": "Essentieel voor de authentieke Sukhothai Noedels smaak",
+          "substitutes": [
+            "Verse rijstnoedels",
+            "Gedroogde rijstnoedels",
+            "Eiernoedels"
+          ]
+        },
+        {
+          "name": "Varkensvlees",
+          "purpose": "Essentieel voor de authentieke Sukhothai Noedels smaak",
+          "substitutes": [
+            "Vers varkensvlees",
+            "Kipfilet",
+            "Tofu"
+          ]
+        },
+        {
+          "name": "Gemalen pinda's",
+          "purpose": "Essentieel voor de authentieke Sukhothai Noedels smaak",
+          "substitutes": [
+            "Verse gemalen pinda's",
+            "Geroosterde pinda's",
+            "Cashewnoten"
+          ]
+        },
+        {
+          "name": "Sperziebonen",
+          "purpose": "Essentieel voor de authentieke Sukhothai Noedels smaak",
+          "substitutes": [
+            "Verse sperziebonen",
+            "Kousenband",
+            "Snijbonen"
+          ]
+        }
+      ],
+      "cooking_method": {
+        "technique": "Sudderen en smaken opbouwen",
+        "steps_overview": "Het bereiden van Sukhothai Noedels vereist aandacht voor detail en goede timing. De sleutel is het balanceren van alle smaken terwijl de textuur van elk ingrediënt behouden blijft. Traditionele methoden die van generatie op generatie zijn doorgegeven, garanderen een authentieke smaak.",
+        "cooking_tips": [
+          "Gebruik verse rijstnoedels voor het beste resultaat",
+          "Pas het pittigheidsgehalte aan naar je voorkeur",
+          "Kook niet te lang om de textuur te behouden",
+          "Proef en pas de kruiding aan voor het serveren"
+        ]
+      },
+      "cultural_significance": {
+        "origin_story": "Sukhothai Noedels is al generaties lang een vast onderdeel van de Noord-Thaise keuken en weerspiegelt de unieke culinaire tradities en lokale ingrediënten van de regio.",
+        "cultural_importance": "Dit gerecht vertegenwoordigt het hart van de Noord-Thaise kookkunst en toont de balans en harmonie waarmee de Thaise keuken wereldwijd beroemd is.",
+        "traditional_occasions": [
+          "Familiebijeenkomsten",
+          "Lokale festivals",
+          "Straatvoedselmarkten",
+          "Bijzondere vieringen"
+        ]
+      },
+      "variations": [
+        {
+          "name": "Sukhothai Noedels Klassiek",
+          "description": "De traditionele versie zoals geserveerd in lokale huishoudens"
+        },
+        {
+          "name": "Sukhothai Noedels Modern",
+          "description": "Hedendaagse variant met premium ingrediënten"
+        },
+        {
+          "name": "Vegetarische Sukhothai Noedels",
+          "description": "Plantaardige versie met tofu of paddenstoelen"
+        }
+      ],
+      "serving_suggestions": {
+        "traditional_accompaniments": [
+          "Jasmijnrijst",
+          "Verse groenten",
+          "Thaise kruiden"
+        ],
+        "presentation": "Geserveerd in een kom in traditionele Noord-Thaise stijl",
+        "eating_etiquette": "Gegeten met vork en lepel volgens Thais gebruik"
+      },
+      "where_to_find": {
+        "best_restaurants": [
+          "Lokale Noord-Thaise restaurants",
+          "Authentieke straatvoedselkramen",
+          "Traditionele markten",
+          "Familiebedrijfjes"
+        ],
+        "street_food_areas": [
+          "Nachtmarkten",
+          "Ochtendverse markten",
+          "Lokale food courts"
+        ]
+      },
+      "translated_at": "2026-03-10T00:00:00.000Z"
+    },
+    "fr": {
+      "enhanced_description": "Sukhothai Noedels zijn een geliefde hartverwarmende soep uit Noord-Thailand, met een subtiele warmte. Noedels in Sukhothai-stijl met gemalen pinda's. Dit eenvoudige recept vereist ongeveer 20 minuten voorbereiding en vertegenwoordigt de authentieke smaken van de Noord-Thaise keuken, gekenmerkt door mildere smaken, kleefrijst en kruiden. De combinatie van rijstnoedels, varkensvlees en gemalen pinda's creëert een harmonieuze mengeling die dit gerecht een favoriet heeft gemaakt bij zowel locals als bezoekers. Perfect voor wie op zoek is naar authentieke Thaise keuken voor een schappelijke prijs.",
+      "detailed_ingredients": [
+        {
+          "name": "Nouilles de riz",
+          "purpose": "Essentieel voor de authentieke smaak van Sukhothai Noedels",
+          "substitutes": [
+            "Verse rijstnoedels",
+            "Gedroogde rijstnoedels",
+            "Eiernoedels"
+          ]
+        },
+        {
+          "name": "Porc",
+          "purpose": "Essentieel voor de authentieke smaak van Sukhothai Noedels",
+          "substitutes": [
+            "Vers varkensvlees",
+            "Kipfilet",
+            "Tofu"
+          ]
+        },
+        {
+          "name": "Cacahuètes moulues",
+          "purpose": "Essentieel voor de authentieke smaak van Sukhothai Noedels",
+          "substitutes": [
+            "Vers gemalen pinda's",
+            "Geroosterde pinda's",
+            "Cashewnoten"
+          ]
+        },
+        {
+          "name": "Haricots verts",
+          "purpose": "Essentieel voor de authentieke smaak van Sukhothai Noedels",
+          "substitutes": [
+            "Verse haricots verts",
+            "Kousenband",
+            "Platte bonen"
+          ]
+        }
+      ],
+      "cooking_method": {
+        "technique": "Sudderen en smaken opbouwen",
+        "steps_overview": "De bereiding van Sukhothai Noedels vereist aandacht voor details en goed tijdmanagement. De sleutel is om alle smaken in evenwicht te brengen terwijl de textuur van elk ingrediënt behouden blijft. Traditionele methoden die van generatie op generatie zijn doorgegeven, garanderen een authentieke smaak.",
+        "cooking_tips": [
+          "Gebruik verse rijstnoedels voor het beste resultaat",
+          "Pas het pittigheidsniveau aan volgens je voorkeur",
+          "Kook niet te lang om de textuur te behouden",
+          "Proef en pas de kruiding aan voor het serveren"
+        ]
+      },
+      "cultural_significance": {
+        "origin_story": "Sukhothai Noedels zijn al generaties lang een hoeksteen van de Noord-Thaise keuken en weerspiegelen de unieke culinaire tradities en lokale ingrediënten van de regio.",
+        "cultural_importance": "Dit gerecht vertegenwoordigt het hart van de Noord-Thaise keuken en illustreert de balans en harmonie die de Thaise keuken wereldwijd beroemd maken.",
+        "traditional_occasions": [
+          "Familiebijeenkomsten",
+          "Lokale festivals",
+          "Straatvoedselmarkten",
+          "Speciale vieringen"
+        ]
+      },
+      "variations": [
+        {
+          "name": "Nouilles de Sukhothai Classiques",
+          "description": "De traditionele versie zoals geserveerd in lokale huishoudens"
+        },
+        {
+          "name": "Nouilles de Sukhothai Modernes",
+          "description": "Moderne versie met premium ingrediënten"
+        },
+        {
+          "name": "Nouilles de Sukhothai Végétariennes",
+          "description": "Vegetarische versie met tofu of champignons"
+        }
+      ],
+      "serving_suggestions": {
+        "traditional_accompaniments": [
+          "Jasmijnrijst",
+          "Verse groenten",
+          "Thaise kruiden"
+        ],
+        "presentation": "Geserveerd in een kom in de traditionele stijl van Noord-Thailand",
+        "eating_etiquette": "Genuttigd met vork en lepel volgens Thaise traditie"
+      },
+      "where_to_find": {
+        "best_restaurants": [
+          "Lokale restaurants in Noord-Thailand",
+          "Authentieke straatkraampjes",
+          "Traditionele markten",
+          "Familierestaurants"
+        ],
+        "street_food_areas": [
+          "Nachtmarkten",
+          "Verse ochtendmarkten",
+          "Lokale food courts"
+        ]
+      },
+      "translated_at": "2026-03-10T00:00:00.000Z"
+    },
+    "de": {
+      "enhanced_description": "Sukhothai-noedels zijn een populaire, hartverwarmende soep uit Noord-Thailand met een subtiele pittigheid. Noedels in Sukhothai-stijl met gemalen pinda's. Dit eenvoudige recept vereist ongeveer 20 minuten bereidingstijd en vertegenwoordigt de authentieke smaken van de noordelijke Thaise keuken, die zich kenmerkt door mildere smaken, kleefrijst en kruiden. De combinatie van rijstnoedels, varkensvlees en gemalen pinda's creëert een harmonieuze mix die dit gerecht even geliefd heeft gemaakt bij locals als bij bezoekers. Perfect voor iedereen die betaalbare authentieke Thaise keuken zoekt.",
+      "detailed_ingredients": [
+        {
+          "name": "Reisnudeln",
+          "purpose": "Onmisbaar voor de authentieke Sukhothai-noedelsmaak",
+          "substitutes": [
+            "Verse rijstnoedels",
+            "Gedroogde rijstnoedels",
+            "Eiernoedels"
+          ]
+        },
+        {
+          "name": "Schweinefleisch",
+          "purpose": "Onmisbaar voor de authentieke Sukhothai-noedelsmaak",
+          "substitutes": [
+            "Vers varkensvlees",
+            "Kipfilet",
+            "Tofu"
+          ]
+        },
+        {
+          "name": "Gemahlene Erdnüsse",
+          "purpose": "Onmisbaar voor de authentieke Sukhothai-noedelsmaak",
+          "substitutes": [
+            "Vers gemalen pinda's",
+            "Geroosterde pinda's",
+            "Cashewnoten"
+          ]
+        },
+        {
+          "name": "Grüne Bohnen",
+          "purpose": "Onmisbaar voor de authentieke Sukhothai-noedelsmaak",
+          "substitutes": [
+            "Verse sperziebonen",
+            "Slangenbonen",
+            "Stokbonen"
+          ]
+        }
+      ],
+      "cooking_method": {
+        "technique": "Laten sudderen en smaken opbouwen",
+        "steps_overview": "Het bereiden van Sukhothai-noedels vereist aandacht voor detail en goed timen. De sleutel ligt in het balanceren van alle smaken terwijl de textuur van elke ingrediënt behouden blijft. Traditionele methoden, doorgegeven van generatie op generatie, garanderen een authentieke smaak.",
+        "cooking_tips": [
+          "Gebruik verse rijstnoedels voor het beste resultaat",
+          "Pas de pittigheid aan naar smaak",
+          "Niet te lang koken om de textuur te behouden",
+          "Proef en kruid af voor het serveren"
+        ]
+      },
+      "cultural_significance": {
+        "origin_story": "Sukhothai-noedels zijn al generaties lang een vast onderdeel van de noordelijke Thaise keuken en weerspiegelen de unieke culinaire tradities en lokale ingrediënten van de regio.",
+        "cultural_importance": "Dit gerecht vertegenwoordigt het hart van de noordelijke Thaise kookkunst en toont de balans en harmonie waarvoor de Thaise keuken wereldwijd beroemd is.",
+        "traditional_occasions": [
+          "Familiebijeenkomsten",
+          "Lokale feesten",
+          "Straatvoedselmarkten",
+          "Speciale vieringen"
+        ]
+      },
+      "variations": [
+        {
+          "name": "Sukhothai Nudeln Klassisch",
+          "description": "De traditionele versie, zoals geserveerd in lokale huishoudens"
+        },
+        {
+          "name": "Sukhothai Nudeln Modern",
+          "description": "Moderne variant met premium ingrediënten"
+        },
+        {
+          "name": "Vegetarische Sukhothai Nudeln",
+          "description": "Plantaardige versie met tofu of paddenstoelen"
+        }
+      ],
+      "serving_suggestions": {
+        "traditional_accompaniments": [
+          "Jasmijnrijst",
+          "Verse groenten",
+          "Thaise kruiden"
+        ],
+        "presentation": "Geserveerd in een kom in de traditionele noordelijke Thaise stijl",
+        "eating_etiquette": "Genuttigd met vork en lepel volgens Thaise gewoonte"
+      },
+      "where_to_find": {
+        "best_restaurants": [
+          "Lokale noordelijke Thaise restaurants",
+          "Authentieke straatsnacksstalletjes",
+          "Traditionele markten",
+          "Familiegerunde etablissementen"
+        ],
+        "street_food_areas": [
+          "Nachtmarkten",
+          "Verse ochtendmarkten",
+          "Lokale food courts"
+        ]
+      },
+      "translated_at": "2026-03-10T00:00:00.000Z"
+    },
+    "zh": {
+      "enhanced_description": "Sukhothai-noedels zijn een geliefde, hartverwarmende soep uit Noord-Thailand met een subtiele warmte. Noedels in Sukhothai-stijl met gemalen pinda's. Dit eenvoudige recept duurt ongeveer 20 minuten en belichaamt de authentieke smaken van de noordelijke Thaise keuken, gekenmerkt door milde tonen, kleefrijst en kruiden. De combinatie van rijstnoedels, varkensvlees en gemalen pinda's creëert een harmonieuze smaak die dit gerecht geliefd maakt bij zowel locals als toeristen. Ideaal voor wie betaalbare authentieke Thaise gerechten zoekt.",
+      "detailed_ingredients": [
+        {
+          "name": "米粉",
+          "purpose": "Essentieel voor de authentieke Sukhothai-noedelsmaak",
+          "substitutes": [
+            "Verse rijstnoedels",
+            "Gedroogde rijstnoedels",
+            "Eiernoedels"
+          ]
+        },
+        {
+          "name": "猪肉",
+          "purpose": "Essentieel voor de authentieke Sukhothai-noedelsmaak",
+          "substitutes": [
+            "Vers varkensvlees",
+            "Kipfilet",
+            "Tofu"
+          ]
+        },
+        {
+          "name": "碎花生",
+          "purpose": "Essentieel voor de authentieke Sukhothai-noedelsmaak",
+          "substitutes": [
+            "Vers gemalen pinda's",
+            "Geroosterde pinda's",
+            "Cashewnoten"
+          ]
+        },
+        {
+          "name": "四季豆",
+          "purpose": "Essentieel voor de authentieke Sukhothai-noedelsmaak",
+          "substitutes": [
+            "Verse sperziebonen",
+            "Slangenbonen",
+            "Stokbonen"
+          ]
+        }
+      ],
+      "cooking_method": {
+        "technique": "Laten sudderen en smaken opbouwen",
+        "steps_overview": "Het maken van Sukhothai-noedels vereist aandacht voor details en goed timen. De sleutel is het balanceren van alle smaken terwijl de textuur van elk ingrediënt behouden blijft. Traditionele methoden, doorgegeven van generatie op generatie, zorgen voor een authentieke smaak.",
+        "cooking_tips": [
+          "Gebruik verse rijstnoedels voor het beste resultaat",
+          "Pas de pittigheid aan naar persoonlijke voorkeur",
+          "Niet te lang koken om de textuur te behouden",
+          "Proef en pas de kruiden aan voor het serveren"
+        ]
+      },
+      "cultural_significance": {
+        "origin_story": "Sukhothai-noedels zijn al generaties lang een pijler van de noordelijke Thaise keuken en weerspiegelen de unieke culinaire tradities en lokale ingrediënten van de regio.",
+        "cultural_importance": "Dit gerecht belichaamt de essentie van de noordelijke Thaise kookkunst en toont de balans en harmonie waarvoor de Thaise keuken wereldwijd bekendstaat.",
+        "traditional_occasions": [
+          "Familiebijeenkomsten",
+          "Lokale festivals",
+          "Straatvoedselmarkten",
+          "Speciale vieringen"
+        ]
+      },
+      "variations": [
+        {
+          "name": "经典素可泰面条",
+          "description": "De traditionele versie zoals geserveerd in lokale families"
+        },
+        {
+          "name": "现代素可泰面条",
+          "description": "Moderne innovatieve versie met premium ingrediënten"
+        },
+        {
+          "name": "素食素可泰面条",
+          "description": "Plantaardige versie met tofu of paddenstoelen"
+        }
+      ],
+      "serving_suggestions": {
+        "traditional_accompaniments": [
+          "Jasmijnrijst",
+          "Verse groenten",
+          "Thaise kruiden"
+        ],
+        "presentation": "Geserveerd in een kom in de traditionele noordelijke Thaise stijl",
+        "eating_etiquette": "Gegeten met vork en lepel volgens Thaise gewoonte"
+      },
+      "where_to_find": {
+        "best_restaurants": [
+          "Lokale noordelijke Thaise restaurants",
+          "Authentieke straatvoedselkraampjes",
+          "Traditionele markten",
+          "Familiegerunde kleine restaurants"
+        ],
+        "street_food_areas": [
+          "Nachtmarkten",
+          "Verse ochtendmarkten",
+          "Lokale food courts"
+        ]
+      },
+      "translated_at": "2026-03-11T00:00:00.000Z"
+    },
+    "ru": {
+      "enhanced_description": "Sukhothai-noedels zijn een geliefde, zielverwarmende soep uit Noord-Thailand met een delicate warmte. Noedels in Sukhothai-stijl met gemalen pinda's. Dit eenvoudige recept duurt ongeveer 20 minuten en belichaamt de authentieke smaken van de noordelijke Thaise keuken, die zich onderscheidt door zachte tonen, kleefrijst en aromatische kruiden. De combinatie van rijstnoedels, varkensvlees en gemalen pinda's creëert een harmonieuze smaak die dit gerecht geliefd maakt bij zowel bewoners als toeristen. Uitstekende keuze voor wie betaalbare authentieke Thaise keuken zoekt.",
+      "detailed_ingredients": [
+        {
+          "name": "Рисовая лапша",
+          "purpose": "Basis voor de authentieke Sukhothai-noedelsmaak",
+          "substitutes": [
+            "Verse rijstnoedels",
+            "Gedroogde rijstnoedels",
+            "Eiernoedels"
+          ]
+        },
+        {
+          "name": "Свинина",
+          "purpose": "Basis voor de authentieke Sukhothai-noedelsmaak",
+          "substitutes": [
+            "Vers varkensvlees",
+            "Kipfilet",
+            "Tofu"
+          ]
+        },
+        {
+          "name": "Молотый арахис",
+          "purpose": "Basis voor de authentieke Sukhothai-noedelsmaak",
+          "substitutes": [
+            "Vers gemalen pinda's",
+            "Geroosterde pinda's",
+            "Cashewnoten"
+          ]
+        },
+        {
+          "name": "Стручковая фасоль",
+          "purpose": "Basis voor de authentieke Sukhothai-noedelsmaak",
+          "substitutes": [
+            "Verse sperziebonen",
+            "Slangenbonen",
+            "Groene bonen"
+          ]
+        }
+      ],
+      "cooking_method": {
+        "technique": "Laten sudderen en smaken opbouwen",
+        "steps_overview": "Het bereiden van Sukhothai-noedels vereist aandacht voor details en precieze timing. De sleutel ligt in het balanceren van alle smaken terwijl de textuur van elk ingrediënt behouden blijft. Traditionele methoden, doorgegeven van generatie op generatie, garanderen een authentieke smaak.",
+        "cooking_tips": [
+          "Gebruik verse rijstnoedels voor het beste resultaat",
+          "Pas de pittigheid aan naar smaak",
+          "Niet te lang koken om de textuur te behouden",
+          "Proef en corrigeer de kruiden voor het serveren"
+        ]
+      },
+      "cultural_significance": {
+        "origin_story": "Sukhothai-noedels zijn al vele generaties een onvervangbaar onderdeel van de noordelijke Thaise keuken en weerspiegelen de unieke culinaire tradities en lokale ingrediënten van de regio.",
+        "cultural_importance": "Dit gerecht belichaamt de essentie van de noordelijke Thaise kookkunst en demonstreert de balans en harmonie waarvoor de Thaise keuken wereldwijd beroemd is.",
+        "traditional_occasions": [
+          "Familiebijeenkomsten",
+          "Lokale festivals",
+          "Markten met straatvoedsel",
+          "Speciale vieringen"
+        ]
+      },
+      "variations": [
+        {
+          "name": "Классическая лапша Сукхотай",
+          "description": "De traditionele versie, zoals bereid in lokale families"
+        },
+        {
+          "name": "Современная лапша Сукхотай",
+          "description": "Moderne variant met premium ingrediënten"
+        },
+        {
+          "name": "Вегетарианская лапша Сукхотай",
+          "description": "Plantaardige versie met tofu of paddenstoelen"
+        }
+      ],
+      "serving_suggestions": {
+        "traditional_accompaniments": [
+          "Jasmijnrijst",
+          "Verse groenten",
+          "Thaise kruiden"
+        ],
+        "presentation": "Geserveerd in een kom in de traditionele noordelijke Thaise stijl",
+        "eating_etiquette": "Gegeten met vork en lepel volgens Thaise traditie"
+      },
+      "where_to_find": {
+        "best_restaurants": [
+          "Lokale restaurants met noordelijke Thaise keuken",
+          "Authentieke straatstalletjes",
+          "Traditionele markten",
+          "Familiegerunde etablissementen"
+        ],
+        "street_food_areas": [
+          "Nachtmarkten",
+          "Ochtendmarkten met verse producten",
+          "Lokale food courts"
+        ]
+      },
+      "translated_at": "2026-03-11T00:00:00.000Z"
+    },
+    "ko": {
+      "enhanced_description": "Khao Soi Sukhothai is een uniek noedelgerecht uit Sukhothai, de eerste hoofdstad van Thailand, en onderscheidt zich duidelijk van noedels uit andere regio's door zijn unieke smaak. Het heeft een heldere, zoet-zure bouillon waarin rijstnoedels worden geserveerd, getopt met gemalen pinda's, in plakjes gesneden varkensvlees, sperziebonen en radijs. In tegenstelling tot gewone Thaise noedels combineert de bouillon de zoetheid van suiker met de zuurheid van limoen, terwijl gemalen pinda's een nootachtige textuur toevoegen. Bij een bezoek aan het Sukhothai Historisch Park is het proeven van deze noedels in nabijgelegen restaurants een must voor toeristen.",
+      "detailed_ingredients": [
+        {
+          "name": "쌀국수 (센렉 또는 센야이)",
+          "purpose": "Basis voor de noedels, Sukhothai-stijl gebruikt voornamelijk dunne rijstnoedels (sen lek)",
+          "substitutes": [
+            "Verse rijstnoedels",
+            "Gedroogde rijstnoedels",
+            "Eiernoedels"
+          ]
+        },
+        {
+          "name": "돼지고기 (슬라이스)",
+          "purpose": "Hoofdproteïne gebruikt in zowel bouillon als toppings",
+          "substitutes": [
+            "Kip",
+            "Tofu (vegetarisch)"
+          ]
+        },
+        {
+          "name": "갈은 땅콩",
+          "purpose": "Kern topping die Sukhothai-noedels onderscheidt van andere noedels — voegt nootachtige smaak en textuur toe",
+          "substitutes": [
+            "Geroosterde pinda's",
+            "Cashewnoten"
+          ]
+        },
+        {
+          "name": "풋콩 (투아팍야오)",
+          "purpose": "Groenten die knapperigheid en fris groen toevoegen",
+          "substitutes": [
+            "Gewone snijbonen",
+            "Chinese lange bonen"
+          ]
+        }
+      ],
+      "cooking_method": {
+        "technique": "Bouillon koken en toppings samenstellen",
+        "steps_overview": "Kook een heldere bouillon van varkensbotten, voeg vis sauce, palmsuiker en limoensap toe om een zoet-zure bouillon te maken. Kook de rijstnoedels, doe ze in een kom, giet hete bouillon erover en garneer met in plakjes gesneden varkensvlees, gemalen pinda's, groene bonen, radijs en koriander om af te maken.",
+        "cooking_tips": [
+          "Balans van zoet-zuur-zout in de bouillon is essentieel — de drie smaken moeten harmoniëren",
+          "Gemalen pinda's direct voor het eten toevoegen om knapperigheid te behouden",
+          "Rijstnoedels licht ondergaar uit de pan halen zodat ze in de bouillon verder garen",
+          "Verse limoensap persen — de zuurheid komt van limoen"
+        ]
+      },
+      "cultural_significance": {
+        "origin_story": "De Sukhothai-dynastie (1238-1438) was het eerste verenigde koninkrijk van Thailand, en dit noelgerecht is een lokaal specialiteit dat over generaties is ontwikkeld in de Sukhothai-regio. Samen met de historische betekenis van Sukhothai wordt deze noedel erkend als belangrijk erfgoed van de Thaise voedselcultuur.",
+        "cultural_importance": "Sukhothai-noedels vertegenwoordigen de identiteit van de stad Sukhothai en zijn een must-try voor toeristen die het Sukhothai Historisch Park (UNESCO-werelderfgoed) bezoeken. Het draagt bij aan de lokale economie, en in het centrum van Sukhothai zijn er tientallen gespecialiseerde noedelzaken.",
+        "traditional_occasions": [
+          "Essentiële maaltijd bij bezoek aan Sukhothai",
+          "Dagelijkse lunchmaaltijd",
+          "Markt snacks",
+          "Loy Krathong festival (oorsprong in Sukhothai)"
+        ]
+      },
+      "variations": [
+        {
+          "name": "꾸어이띠아오 수코타이 남 (국물)",
+          "description": "De meest traditionele stijl met noedels en toppings in heldere zoet-zure bouillon."
+        },
+        {
+          "name": "꾸어이띠아오 수코타이 행 (비빔)",
+          "description": "Droge stijl zonder bouillon, gemengd met kruiden voor een intensere smaak."
+        },
+        {
+          "name": "수코타이 누들 뿍 (스페셜)",
+          "description": "Ruimere versie met diverse toppings zoals varkensvlees, balletjes en orgaanvlees."
+        }
+      ],
+      "serving_suggestions": {
+        "traditional_accompaniments": [
+          "Limoenpartje",
+          "Chilipoeder",
+          "Suiker (Thaise tafelsaus)",
+          "Vis sauce",
+          "Ingehakte chili in azijn"
+        ],
+        "presentation": "Serveer in een kom met noedels en bouillon, toppings netjes gerangschikt",
+        "eating_etiquette": "Eet de noedels met stokjes en schep de bouillon met een lepel. Pas de smaak aan met tafelsausen naar smaak."
+      },
+      "where_to_find": {
+        "best_restaurants": [
+          "Noedelzaken rond Sukhothai Historisch Park",
+          "Markt in het nieuwe centrum van Sukhothai",
+          "Sukhothai-noedelzaken in Bangkok",
+          "Elke noedelzaak waar locals in de rij staan"
+        ],
+        "street_food_areas": [
+          "Rond de ingang van Sukhothai Historisch Park",
+          "Sukhothai nachtmarkt",
+          "Sommige foodcourts in Bangkok"
+        ],
+        "price_ranges": {
+          "street_food": "30-50 THB",
+          "restaurant": "50-80 THB",
+          "upscale": "80-150 THB"
+        }
+      },
+      "translated_at": "2026-03-14T00:00:00.000Z"
+    },
+    "th": {
+      "enhanced_description": "Kuay tiao Sukhothai is een unieke noedelstijl met dunne noedels in heldere zoet-zure soep, bestrooid met gemalen pinda's, gehakt varkensvlees en yardlong bonen. Het is een beroemd gerecht uit de provincie Sukhothai.",
+      "detailed_ingredients": [
+        {
+          "name": "Rice noodles",
+          "purpose": "Belangrijk voor de authentieke smaak van Sukhothai Noedels",
+          "substitutes": [
+            "Verse rijstnoedels",
+            "Gedroogde rijstnoedels",
+            "Rijstnoedel pasta"
+          ]
+        },
+        {
+          "name": "Pork",
+          "purpose": "Belangrijk voor de authentieke smaak van Sukhothai Noedels",
+          "substitutes": [
+            "Vers varkensvlees",
+            "Gedroogd varkensvlees",
+            "Varkensvlees pasta"
+          ]
+        },
+        {
+          "name": "Ground peanuts",
+          "purpose": "Belangrijk voor de authentieke smaak van Sukhothai Noedels",
+          "substitutes": [
+            "Verse gemalen pinda's",
+            "Gedroogde gemalen pinda's",
+            "Gemalen pinda's pasta"
+          ]
+        },
+        {
+          "name": "Green beans",
+          "purpose": "Belangrijk voor de authentieke smaak van Sukhothai Noedels",
+          "substitutes": [
+            "Verse groene bonen",
+            "Gedroogde groene bonen",
+            "Groene bonen pasta"
+          ]
+        }
+      ],
+      "cooking_method": {
+        "technique": "Koken en laag voor laag smaak toevoegen",
+        "steps_overview": "De bereiding van Sukhothai Noedels vereist aandacht voor details en het juiste tijdstip. Het belangrijkste is de balans van alle smaken terwijl de textuur van elke topping behouden blijft. De traditionele methode, doorgegeven over generaties, garandeert authentieke smaak.",
+        "cooking_tips": [
+          "Gebruik verse noedels voor het beste resultaat",
+          "Pas de pittigheid aan naar smaak",
+          "Kook niet te lang om textuur te behouden",
+          "Proef en breng op smaak voor het serveren"
+        ]
+      },
+      "cultural_significance": {
+        "origin_story": "Dit gerecht is al generaties lang deel van de noordelijke Thaise voedselcultuur en weerspiegelt de unieke kooktradities en lokale ingrediënten van de regio.",
+        "cultural_importance": "Dit gerecht is het hart van de noordelijke Thaise keuken en toont de balans en harmonie waar Thaise gerechten wereldwijd beroemd om zijn.",
+        "traditional_occasions": [
+          "Familiebijeenkomsten",
+          "Lokale festivals",
+          "Straatvoedselmarkten",
+          "Speciale vieringen"
+        ]
+      },
+      "variations": [
+        {
+          "name": "Sukhothai Noodles Classic",
+          "description": "Traditionele versie geserveerd in lokale huizen"
+        },
+        {
+          "name": "Sukhothai Noodles Modern",
+          "description": "Moderne versie met premium ingrediënten"
+        },
+        {
+          "name": "Vegetarian Sukhothai Noodles",
+          "description": "Vegetarische versie met tofu of paddenstoelen"
+        }
+      ],
+      "serving_suggestions": {
+        "traditional_accompaniments": [
+          "Jasmijnrijst",
+          "Verse groenten",
+          "Thaise kruiden"
+        ],
+        "presentation": "Geserveerd in traditionele Thaise kommen",
+        "eating_etiquette": "Eet met lepel en vork volgens Thaise traditie"
+      },
+      "where_to_find": {
+        "best_restaurants": [
+          "Lokale noordelijke Thaise restaurants",
+          "Authentieke straatkraampjes",
+          "Traditionele markten",
+          "Familie-restaurants"
+        ],
+        "street_food_areas": [
+          "Nachtmarkten",
+          "Ochtendverse markten",
+          "Lokale foodcourts"
+        ],
+        "price_ranges": {
+          "street_vendor": "30-50 THB",
+          "market_stall": "40-60 THB",
+          "restaurant": "60-100 THB"
+        }
+      },
+      "translated_at": "2026-03-14T00:00:00.000Z"
+    },
+    "ja": {
+      "enhanced_description": "Sukhothai-noedels zijn een hartverwarmende standaardsoep uit Noord-Thailand met een milde warmte. De Sukhothai-stijl noedels kenmerken zich door een saus met gemalen pinda's. Dit eenvoudige recept is in ongeveer 20 minuten klaar en belichaamt de authentieke smaak van Noord-Thaise keuken. Noord-Thaise gerechten hebben relatief milde smaken, kleefrijst en kruiden. De combinatie van rijstnoedels, varkensvlees en gemalen pinda's creëert een harmonieuze mix, waardoor dit gerecht populair is bij locals en bezoekers. Ideaal voor wie betaalbare en authentieke Thaise keuken zoekt.",
+      "detailed_ingredients": [
+        {
+          "name": "Rice noodles",
+          "purpose": "Onmisbaar voor de authentieke smaak van Sukhothai Noedels",
+          "substitutes": [
+            "Verse rijstnoedels",
+            "Gedroogde rijstnoedels",
+            "Rijstnoedel pasta"
+          ]
+        },
+        {
+          "name": "Pork",
+          "purpose": "Onmisbaar voor de authentieke smaak van Sukhothai Noedels",
+          "substitutes": [
+            "Vers varkensvlees",
+            "Gedroogd varkensvlees",
+            "Varkensvlees pasta"
+          ]
+        },
+        {
+          "name": "Ground peanuts",
+          "purpose": "Onmisbaar voor de authentieke smaak van Sukhothai Noedels",
+          "substitutes": [
+            "Vers gemalen pinda's",
+            "Gedroogde gemalen pinda's",
+            "Gemalen pinda's pasta"
+          ]
+        },
+        {
+          "name": "Green beans",
+          "purpose": "Onmisbaar voor de authentieke smaak van Sukhothai Noedels",
+          "substitutes": [
+            "Verse peulbonen",
+            "Gedroogde sperziebonen",
+            "Sperziebonen pasta"
+          ]
+        }
+      ],
+      "cooking_method": {
+        "technique": "Koken en laag voor laag smaak toevoegen",
+        "steps_overview": "De bereiding van Sukhothai Noedels vereist aandacht voor details en het juiste tijdstip. Het belangrijkste is de balans van alle smaken terwijl de textuur van elke topping behouden blijft. De traditionele methode, doorgegeven over generaties, garandeert authentieke smaak.",
+        "cooking_tips": [
+          "Gebruik verse rijstnoedels voor het beste resultaat",
+          "Pas de pittigheid aan naar smaak",
+          "Kook niet te lang om textuur te behouden",
+          "Proef en breng op smaak voor het serveren"
+        ]
+      },
+      "cultural_significance": {
+        "origin_story": "Sukhothai Noedels zijn al generaties lang een standaard in de Noord-Thaise keuken en weerspiegelen de unieke kooktradities en lokale ingrediënten van de regio.",
+        "cultural_importance": "Dit gerecht symboliseert de essentie van Noord-Thaise keuken en belichaamt de balans en harmonie waar Thaise gerechten wereldwijd beroemd om zijn.",
+        "traditional_occasions": [
+          "Familiebijeenkomsten",
+          "Lokale festivals",
+          "Straatmarkten",
+          "Speciale vieringen"
+        ]
+      },
+      "variations": [
+        {
+          "name": "Sukhothai Noodles Classic",
+          "description": "Traditionele versie geserveerd in lokale huizen"
+        },
+        {
+          "name": "Sukhothai Noodles Modern",
+          "description": "Moderne versie met premium ingrediënten"
+        },
+        {
+          "name": "Vegetarian Sukhothai Noodles",
+          "description": "Plantaardige versie met tofu of paddenstoelen"
+        }
+      ],
+      "serving_suggestions": {
+        "traditional_accompaniments": [
+          "Jasmijnrijst",
+          "Verse groenten",
+          "Thaise kruiden"
+        ],
+        "presentation": "Geserveerd in een traditionele Thaise kom",
+        "eating_etiquette": "Eet met vork en lepel volgens Thaise gewoonte"
+      },
+      "where_to_find": {
+        "best_restaurants": [
+          "Lokale noordelijke Thaise restaurants",
+          "Authentieke straatkraampjes",
+          "Traditionele markten",
+          "Familie-restaurants"
+        ],
+        "street_food_areas": [
+          "Nachtmarkten",
+          "Ochtendverse markten",
+          "Lokale foodcourts"
+        ],
+        "price_ranges": {
+          "street_vendor": "30-50 THB",
+          "market_stall": "40-60 THB",
+          "restaurant": "60-100 THB"
+        }
+      },
+      "translated_at": "2026-03-14T00:00:00.000Z"
+    }
+  }
+}

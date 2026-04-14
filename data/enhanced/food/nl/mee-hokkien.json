@@ -1,0 +1,978 @@
+{
+  "id": 17,
+  "slug": "mee-hokkien",
+  "name": {
+    "en": "Mee Hokkien",
+    "nl": "Mee Hokkien",
+    "thai": "หมี่ฮกเกี้ยน"
+  },
+  "category": "hoofdgerecht",
+  "region": "zuidelijk",
+  "spice_level": "mild",
+  "description": {
+    "en": "Stir-fried Hokkien noodles with seafood Phuket style",
+    "nl": "Gebakken Hokkien-noedels met zeevruchten Phuket stijl"
+  },
+  "ingredients": [
+    "gele noedels",
+    "garnalen",
+    "inktvis",
+    "varkensvlees",
+    "sojasaus",
+    "Chinese boerenkool",
+    "ei"
+  ],
+  "allergens": [
+    "zeevruchten"
+  ],
+  "dietary": [],
+  "image": "/images/food/mee-hokkien.webp",
+  "preparation_time": "20 minuten",
+  "difficulty": "gemiddeld",
+  "price_range": "middenklasse",
+  "seo": {
+    "metaTitle": {
+      "en": "Mee Hokkien Recipe | Authentic Thai main dish",
+      "nl": "Mee Hokkien Recept | Authentieke Thaise main dish"
+    },
+    "metaDescription": {
+      "en": "Learn about Mee Hokkien (หมี่ฮกเกี้ยน) - Stir-fried Hokkien noodles with seafood Phuket style...",
+      "nl": "Leer over Mee Hokkien (หมี่ฮกเกี้ยน) - Gebakken Hokkien-noedels met zeevruchten Phuket stijl..."
+    }
+  },
+  "tags": [
+    "Thais eten",
+    "Thailand",
+    "hoofdgerecht",
+    "zuidelijk",
+    "mild",
+    "gemiddeld",
+    "middenklasse",
+    "gele noedels",
+    "garnalen",
+    "inktvis"
+  ],
+  "cooking": {
+    "preparation_time": "20 minuten",
+    "difficulty": "gemiddeld",
+    "spice_level": "mild",
+    "serves": "2-4 personen"
+  },
+  "nutrition": {
+    "allergens": [
+      "zeevruchten"
+    ],
+    "dietary": [],
+    "price_range": "middenklasse"
+  },
+  "enhanced_description": "Mee Hokkien is een geliefd stevig en smaakvol hoofdgerecht uit Zuid-Thailand met een subtiele warmte. Roerbak Hokkien-noedels met zeevruchten op Phuket-manier. Dit gemiddelde recept duurt ongeveer 20 minuten om te bereiden en belichaamt de authentieke smaken van de Zuid-Thaise keuken met intense kruiden, zeevruchten en kokosgebaseerde curry's. De combinatie van gele noedels, garnalen en inktvis creëert een harmonieuze mengeling die dit gerecht geliefd heeft gemaakt bij zowel locals als bezoekers. Perfect voor wie betaalbare authentieke Thaise gerechten zoekt.",
+  "detailed_ingredients": [
+    {
+      "name": "Yellow noodles",
+      "purpose": "Essentieel voor authentieke Mee Hokkien-smaak",
+      "substitutes": [
+        "Verse gele noedels",
+        "Gedroogde gele noedels",
+        "pasta van gele noedels"
+      ]
+    },
+    {
+      "name": "Shrimp",
+      "purpose": "Essentieel voor authentieke Mee Hokkien-smaak",
+      "substitutes": [
+        "Verse garnalen",
+        "Gedroogde garnalen",
+        "garnalenpasta"
+      ]
+    },
+    {
+      "name": "Squid",
+      "purpose": "Essentieel voor authentieke Mee Hokkien-smaak",
+      "substitutes": [
+        "Verse inktvis",
+        "Gedroogde inktvis",
+        "inktvispasta"
+      ]
+    },
+    {
+      "name": "Pork",
+      "purpose": "Essentieel voor authentieke Mee Hokkien-smaak",
+      "substitutes": [
+        "Vers varkensvlees",
+        "Gedroogd varkensvlees",
+        "varkensvlees pasta"
+      ]
+    }
+  ],
+  "cooking_method": {
+    "technique": "Roerbakken of grillen",
+    "steps_overview": "Het bereiden van Mee Hokkien vereist aandacht voor detail en juiste timing. De sleutel is om alle smaken in balans te brengen terwijl de textuur van elk ingrediënt behouden blijft. Traditionele methoden die van generatie op generatie zijn doorgegeven, zorgen voor een authentieke smaak.",
+    "cooking_tips": [
+      "Gebruik verse gele noedels voor het beste resultaat",
+      "Pas het pittigheidsniveau aan naar voorkeur",
+      "Kook niet te lang door om textuur te behouden",
+      "Proef en pas de kruiding aan voor het serveren"
+    ]
+  },
+  "cultural_significance": {
+    "origin_story": "Mee Hokkien is al generaties lang een basisgerecht in de Zuid-Thaise keuken en weerspiegelt de unieke culinaire tradities en lokale ingrediënten van de regio.",
+    "cultural_importance": "Dit gerecht belichaamt het hart van de Zuid-Thaise kookkunst en toont de balans en harmonie waarvoor de Thaise keuken wereldwijd beroemd is.",
+    "traditional_occasions": [
+      "Familiebijeenkomsten",
+      "Lokale festivals",
+      "Straatvoedselmarkten",
+      "Speciale vieringen"
+    ]
+  },
+  "variations": [
+    {
+      "name": "Mee Hokkien Classic",
+      "description": "De traditionele versie zoals geserveerd in lokale huizen"
+    },
+    {
+      "name": "Mee Hokkien Modern",
+      "description": "Moderne twist met premium ingrediënten"
+    },
+    {
+      "name": "Vegetarian Mee Hokkien",
+      "description": "Plantaardige versie met tofu of paddenstoelen"
+    }
+  ],
+  "serving_suggestions": {
+    "traditional_accompaniments": [
+      "Jasmijnrijst",
+      "Verse groenten",
+      "Thaise kruiden"
+    ],
+    "presentation": "Geserveerd op een bord in traditionele Thaise stijl",
+    "eating_etiquette": "Genoten met vork en lepel volgens Thais gebruik"
+  },
+  "nutritional_info": {
+    "calories_per_serving": "300-500 calorieën",
+    "health_benefits": [
+      "Rijk aan Thaise kruiden en specerijen",
+      "Bron van eiwitten en groenten",
+      "Gebalanceerde smaken en voedingsstoffen"
+    ],
+    "dietary_notes": []
+  },
+  "where_to_find": {
+    "best_restaurants": [
+      "Lokale Zuid-Thaise restaurants",
+      "Authentieke straatvoedselkraampjes",
+      "Traditionele markten",
+      "Familiegerunde eettentjes"
+    ],
+    "street_food_areas": [
+      "Nachtmarkten",
+      "Ochtendverse markten",
+      "Mee Hokkien is een geliefd stevig en smaakvol hoofdgerecht uit Zuid-Thailand met een subtiele warmte. Gebakken Hokkien-noedels met zeevruchten Phuket stijl. Dit recept met gemiddelde moeilijkheidsgraad vergt ongeveer 20 minuten bereidingstijd en vertegenwoordigt de authentieke smaken van de Zuid-Thaise keuken, gekenmerkt door intense kruiden, zeevruchten en curry's op basis van kokos. De combinatie van gele noedels, garnalen en inktvis creëert een harmonieuze mix die dit gerecht tot een favoriet heeft gemaakt onder zowel locals als bezoekers. Perfect voor wie op zoek is naar betaalbare authentieke Thaise keuken."
+    ],
+    "price_ranges": {
+      "street_vendor": "50-80 THB",
+      "market_stall": "60-100 THB",
+      "restaurant": "100-200 THB"
+    }
+  },
+  "translations": {
+    "nl": {
+      "enhanced_description": "Essentieel voor de authentieke Mee Hokkien smaak",
+      "detailed_ingredients": [
+        {
+          "name": "Gele noedels",
+          "purpose": "Verse gele noedels",
+          "substitutes": [
+            "Gedroogde gele noedels",
+            "Eiernoodles",
+            "Essentieel voor de authentieke Mee Hokkien smaak"
+          ]
+        },
+        {
+          "name": "Garnalen",
+          "purpose": "Verse garnalen",
+          "substitutes": [
+            "Gedroogde garnalen",
+            "Garnalenpasta",
+            "Essentieel voor de authentieke Mee Hokkien smaak"
+          ]
+        },
+        {
+          "name": "Inktvis",
+          "purpose": "Verse inktvis",
+          "substitutes": [
+            "Gedroogde inktvis",
+            "Calamaris",
+            "Essentieel voor de authentieke Mee Hokkien smaak"
+          ]
+        },
+        {
+          "name": "Varkensvlees",
+          "purpose": "Vers varkensvlees",
+          "substitutes": [
+            "Kipfilet",
+            "Tofu",
+            "Roerbakken"
+          ]
+        }
+      ],
+      "cooking_method": {
+        "technique": "Het bereiden van Mee Hokkien vereist aandacht voor detail en goede timing. De sleutel is het balanceren van alle smaken terwijl de textuur van elk ingrediënt behouden blijft. Traditionele methoden die van generatie op generatie zijn doorgegeven, garanderen een authentieke smaak.",
+        "steps_overview": "Gebruik verse gele noedels voor het beste resultaat",
+        "cooking_tips": [
+          "Pas het pittigheidsgehalte aan naar je voorkeur",
+          "Kook niet te lang om de textuur te behouden",
+          "Proef en pas de kruiding aan voor het serveren",
+          "Mee Hokkien is al generaties lang een vast onderdeel van de Zuid-Thaise keuken en weerspiegelt de unieke culinaire tradities en lokale ingrediënten van de regio."
+        ]
+      },
+      "cultural_significance": {
+        "origin_story": "Dit gerecht vertegenwoordigt het hart van de Zuid-Thaise kookkunst en toont de balans en harmonie waarmee de Thaise keuken wereldwijd beroemd is.",
+        "cultural_importance": "Familiebijeenkomsten",
+        "traditional_occasions": [
+          "Lokale festivals",
+          "Straatvoedselmarkten",
+          "Bijzondere vieringen",
+          "De traditionele versie zoals geserveerd in lokale huishoudens"
+        ]
+      },
+      "variations": [
+        {
+          "name": "Mee Hokkien Klassiek",
+          "description": "Hedendaagse variant met premium ingrediënten"
+        },
+        {
+          "name": "Mee Hokkien Modern",
+          "description": "Plantaardige versie met tofu of paddenstoelen"
+        },
+        {
+          "name": "Vegetarische Mee Hokkien",
+          "description": "Jasmijnrijst"
+        }
+      ],
+      "serving_suggestions": {
+        "traditional_accompaniments": [
+          "Verse groenten",
+          "Thaise kruiden",
+          "Geserveerd op een bord in traditionele Zuid-Thaise stijl"
+        ],
+        "presentation": "Gegeten met vork en lepel volgens Thais gebruik",
+        "eating_etiquette": "Lokale Zuid-Thaise restaurants"
+      },
+      "where_to_find": {
+        "best_restaurants": [
+          "Authentieke straatvoedselkramen",
+          "Traditionele markten",
+          "Familiebedrijfjes",
+          "Nachtmarkten"
+        ],
+        "street_food_areas": [
+          "Ochtendverse markten",
+          "Lokale food courts",
+          "Mee Hokkien is een geliefd stevig en smaakvol hoofdgerecht uit Zuid-Thailand met een subtiele warmte. Roerbak Hokkien-noedels met zeevruchten op Phuket-manier. Dit gemiddelde recept duurt ongeveer 20 minuten om te bereiden en belichaamt de authentieke smaken van de Zuid-Thaise keuken met intense kruiden, zeevruchten en kokosgebaseerde curry's. De combinatie van gele noedels, garnalen en inktvis creëert een harmonieuze mengeling die dit gerecht geliefd heeft gemaakt bij zowel locals als bezoekers. Perfect voor wie betaalbare authentieke Thaise gerechten zoekt."
+        ]
+      },
+      "translated_at": "2026-03-10T00:00:00.000Z"
+    },
+    "fr": {
+      "enhanced_description": "Essentieel voor de authentieke Mee Hokkien smaak",
+      "detailed_ingredients": [
+        {
+          "name": "Nouilles jaunes",
+          "purpose": "Verse gele noedels",
+          "substitutes": [
+            "Gedroogde gele noedels",
+            "Eiernoedels",
+            "Essentieel voor de authentieke Mee Hokkien smaak"
+          ]
+        },
+        {
+          "name": "Crevettes",
+          "purpose": "Verse garnalen",
+          "substitutes": [
+            "Gedroogde garnalen",
+            "Garnalenpasta",
+            "Essentieel voor de authentieke Mee Hokkien smaak"
+          ]
+        },
+        {
+          "name": "Calamar",
+          "purpose": "Verse inktvis",
+          "substitutes": [
+            "Gedroogde inktvis",
+            "Inktvisringen",
+            "Essentieel voor de authentieke Mee Hokkien smaak"
+          ]
+        },
+        {
+          "name": "Porc",
+          "purpose": "Vers varkensvlees",
+          "substitutes": [
+            "Kipfilet",
+            "Tofu",
+            "Roerbakken in de wok"
+          ]
+        }
+      ],
+      "cooking_method": {
+        "technique": "Het bereiden van Mee Hokkien vereist aandacht voor details en een goede timing. De sleutel is om alle smaken in evenwicht te brengen terwijl de textuur van elk ingrediënt behouden blijft. Traditionele methoden die van generatie op generatie zijn doorgegeven, garanderen een authentieke smaak.",
+        "steps_overview": "Gebruik verse gele noedels voor het beste resultaat",
+        "cooking_tips": [
+          "Pas het pittigheidsniveau aan volgens je voorkeur",
+          "Kook niet te lang om de textuur te behouden",
+          "Proef en pas de kruiding aan voor het serveren",
+          "Mee Hokkien is al generaties lang een hoeksteen van de Zuid-Thaise keuken en weerspiegelt de unieke culinaire tradities en lokale ingrediënten van de regio."
+        ]
+      },
+      "cultural_significance": {
+        "origin_story": "Dit gerecht vertegenwoordigt het hart van de Zuid-Thaise kookkunst en illustreert de balans en harmonie die de Thaise keuken wereldwijd beroemd hebben gemaakt.",
+        "cultural_importance": "Familiebijeenkomsten",
+        "traditional_occasions": [
+          "Lokale festivals",
+          "Straatvoedselmarkten",
+          "Familiebijeenkomsten",
+          "Speciale vieringen"
+        ]
+      },
+      "variations": [
+        {
+          "name": "Mee Hokkien Classique",
+          "description": "De traditionele versie zoals geserveerd in lokale huishoudens"
+        },
+        {
+          "name": "Mee Hokkien Moderne",
+          "description": "Moderne versie met premium ingrediënten"
+        },
+        {
+          "name": "Mee Hokkien Végétarien",
+          "description": "Vegetarische versie met tofu of paddenstoelen"
+        }
+      ],
+      "serving_suggestions": {
+        "traditional_accompaniments": [
+          "Jasmijnrijst",
+          "Verse groenten",
+          "Thaise kruiden"
+        ],
+        "presentation": "Geserveerd op een bord in de traditionele stijl van Zuid-Thailand",
+        "eating_etiquette": "Gegeten met vork en lepel volgens Thaise traditie"
+      },
+      "where_to_find": {
+        "best_restaurants": [
+          "Lokale restaurants in Zuid-Thailand",
+          "Authentieke straatkraampjes",
+          "Traditionele markten",
+          "Familierestaurants"
+        ],
+        "street_food_areas": [
+          "Nachtmarkten",
+          "Verse ochtendmarkten",
+          "Lokale foodcourts"
+        ]
+      },
+      "translated_at": "2026-03-10T00:00:00.000Z"
+    },
+    "de": {
+      "enhanced_description": "Mee Hokkien is een geliefd stevig en vullend hoofdgerecht uit Zuid-Thailand met een subtiele warmte. Gefrituurde Hokkien-noedels met zeevruchten in Phuket-stijl. Dit recept van gemiddelde moeilijkheid vereist ongeveer 20 minuten bereidingstijd en vertegenwoordigt de authentieke smaken van de Zuid-Thaise keuken, die zich kenmerkt door intense kruiden, zeevruchten en kokosgebaseerde curries. De combinatie van gele noedels, garnalen en inktvis creëert een harmonieuze mix die dit gerecht zowel bij locals als bij bezoekers favoriet heeft gemaakt. Perfect voor wie betaalbare authentieke Thaise keuken zoekt.",
+      "detailed_ingredients": [
+        {
+          "name": "Gelbe Nudeln",
+          "purpose": "Onmisbaar voor de authentieke Mee Hokkien-smaak",
+          "substitutes": [
+            "Verse gele noedels",
+            "Gedroogde gele noedels",
+            "Eiernoedels"
+          ]
+        },
+        {
+          "name": "Garnelen",
+          "purpose": "Onmisbaar voor de authentieke Mee Hokkien-smaak",
+          "substitutes": [
+            "Verse garnalen",
+            "Gedroogde garnalen",
+            "Garnalenpasta"
+          ]
+        },
+        {
+          "name": "Tintenfisch",
+          "purpose": "Onmisbaar voor de authentieke Mee Hokkien-smaak",
+          "substitutes": [
+            "Verse inktvis",
+            "Gedroogde inktvis",
+            "Calamari"
+          ]
+        },
+        {
+          "name": "Schweinefleisch",
+          "purpose": "Onmisbaar voor de authentieke Mee Hokkien-smaak",
+          "substitutes": [
+            "Vers varkensvlees",
+            "Kipfilet",
+            "Tofu"
+          ]
+        }
+      ],
+      "cooking_method": {
+        "technique": "Roerbakken in de wok",
+        "steps_overview": "De bereiding van Mee Hokkien vereist liefde voor detail en goed timing. De sleutel ligt in het balanceren van alle smaken terwijl de textuur van elke ingrediënt behouden blijft. Traditionele methoden, doorgegeven van generatie op generatie, garanderen een authentieke smaak.",
+        "cooking_tips": [
+          "Gebruik verse gele noedels voor het beste resultaat",
+          "Pas de pittigheid aan naar smaak",
+          "Niet te lang koken om de textuur te behouden",
+          "Proef en kruid af voor het serveren"
+        ]
+      },
+      "cultural_significance": {
+        "origin_story": "Mee Hokkien is al generaties lang een vast onderdeel van de Zuid-Thaise keuken en weerspiegelt de unieke culinaire tradities en lokale ingrediënten van de regio.",
+        "cultural_importance": "Dit gerecht vertegenwoordigt het hart van de Zuid-Thaise kookkunst en toont de balans en harmonie waarvoor de Thaise keuken wereldwijd beroemd is.",
+        "traditional_occasions": [
+          "Familiebijeenkomsten",
+          "Lokale feesten",
+          "Straatvoedselmarkten",
+          "Speciale gelegenheden"
+        ]
+      },
+      "variations": [
+        {
+          "name": "Mee Hokkien Klassisch",
+          "description": "De traditionele versie, zoals geserveerd in lokale huishoudens"
+        },
+        {
+          "name": "Mee Hokkien Modern",
+          "description": "Moderne variant met premium ingrediënten"
+        },
+        {
+          "name": "Vegetarisches Mee Hokkien",
+          "description": "Plantaardige versie met tofu of paddenstoelen"
+        }
+      ],
+      "serving_suggestions": {
+        "traditional_accompaniments": [
+          "Jasmijnrijst",
+          "Verse groenten",
+          "Thaise kruiden"
+        ],
+        "presentation": "Geserveerd op een bord in de traditionele Zuid-Thaise stijl",
+        "eating_etiquette": "Gegeten met vork en lepel volgens Thaise gewoonte"
+      },
+      "where_to_find": {
+        "best_restaurants": [
+          "Lokale Zuid-Thaise restaurants",
+          "Authentieke straatkraampjes",
+          "Traditionele markten",
+          "Familiebedrijven"
+        ],
+        "street_food_areas": [
+          "Nachtmarkten",
+          "Verse ochtendmarkten",
+          "Lokale foodcourts"
+        ]
+      },
+      "translated_at": "2026-03-10T00:00:00.000Z"
+    },
+    "zh": {
+      "enhanced_description": "Mee Hokkien is een geliefd royaal hoofdgerecht uit Zuid-Thailand met een subtiele warme smaak. Phuket-stijl Hokkien-roerbaknoedels met zeevruchten. Dit gerecht van gemiddelde moeilijkheid vereist ongeveer 20 minuten bereiding en vertegenwoordigt de authentieke smaken van de Zuid-Thaise keuken – gekenmerkt door intense kruiden, zeevruchten en kokosgebaseerde curries. De combinatie van gele noedels, verse garnalen en inktvis creëert een harmonieuze textuur, waardoor dit gerecht een favoriet is bij zowel locals als toeristen. Ideaal voor wie betaalbare authentieke Thaise gerechten zoekt.",
+      "detailed_ingredients": [
+        {
+          "name": "黄面",
+          "purpose": "Kern-ingrediënt voor de authentieke Mee Hokkien-smaak",
+          "substitutes": [
+            "Verse gele noedels",
+            "Gedroogde gele noedels",
+            "Eiernoedels"
+          ]
+        },
+        {
+          "name": "鲜虾",
+          "purpose": "Kern-ingrediënt voor de authentieke Mee Hokkien-smaak",
+          "substitutes": [
+            "Verse garnalen",
+            "Gedroogde garnalen",
+            "Garnalensaus"
+          ]
+        },
+        {
+          "name": "鱿鱼",
+          "purpose": "Kern-ingrediënt voor de authentieke Mee Hokkien-smaak",
+          "substitutes": [
+            "Verse inktvis",
+            "Gedroogde inktvis",
+            "Inktvisringen"
+          ]
+        },
+        {
+          "name": "猪肉",
+          "purpose": "Kern-ingrediënt voor de authentieke Mee Hokkien-smaak",
+          "substitutes": [
+            "Vers varkensvlees",
+            "Kipfilet",
+            "Tofu"
+          ]
+        }
+      ],
+      "cooking_method": {
+        "technique": "Roerbakken",
+        "steps_overview": "Het maken van Mee Hokkien vereist aandacht voor details en juiste timing. De sleutel is het balanceren van alle smaken terwijl de textuur van elk ingrediënt behouden blijft. Traditionele kookmethoden, doorgegeven van generatie op generatie, zorgen voor een authentieke smaak.",
+        "cooking_tips": [
+          "Gebruik verse gele noedels voor het beste effect",
+          "Pas de pittigheid aan naar persoonlijke voorkeur",
+          "Niet te lang roerbakken om de textuur te behouden",
+          "Proef en pas de kruiden aan voor het serveren"
+        ]
+      },
+      "cultural_significance": {
+        "origin_story": "Mee Hokkien is al generaties lang een klassieker in de Zuid-Thaise keuken en belichaamt de unieke kooktradities en lokale ingrediënten van de regio.",
+        "cultural_importance": "Dit gerecht vertegenwoordigt de essentie van de Zuid-Thaise keuken en toont de balans en harmonie waarvoor de Thaise keuken wereldwijd bekendstaat.",
+        "traditional_occasions": [
+          "Familiebijeenkomsten",
+          "Lokale festivals",
+          "Straatvoedselmarkten",
+          "Speciale vieringen"
+        ]
+      },
+      "variations": [
+        {
+          "name": "经典Mee Hokkien",
+          "description": "De traditionele methode in lokale families"
+        },
+        {
+          "name": "创新Mee Hokkien",
+          "description": "Moderne innovatieve versie met premium ingrediënten"
+        },
+        {
+          "name": "素食Mee Hokkien",
+          "description": "Vegetarische versie met tofu of paddenstoelen"
+        }
+      ],
+      "serving_suggestions": {
+        "traditional_accompaniments": [
+          "Jasmijnrijst",
+          "Verse groenten",
+          "Thaise kruiden"
+        ],
+        "presentation": "Geserveerd op een bord in de traditionele Zuid-Thaise stijl",
+        "eating_etiquette": "Geniet volgens Thaise traditie met vork en lepel"
+      },
+      "where_to_find": {
+        "best_restaurants": [
+          "Lokale Zuid-Thaise restaurants",
+          "Authentieke straatsnacks",
+          "Traditionele markten",
+          "Familiegerunde winkeltjes"
+        ],
+        "street_food_areas": [
+          "Nachtmarkten",
+          "Ochtendmarkten",
+          "Lokale eetpleinen"
+        ]
+      },
+      "translated_at": "2026-03-11T00:00:00.000Z"
+    },
+    "ru": {
+      "enhanced_description": "Mee Hokkien is een geliefd vullend en rijk hoofdgerecht uit Zuid-Thailand met een delicate warmte. Gefrituurde Hokkien-noedels met zeevruchten in Phuket-stijl. Dit gerecht van gemiddelde complexiteit wordt in ongeveer 20 minuten bereid en vertegenwoordigt de authentieke smaken van de Zuid-Thaise keuken, gekenmerkt door intense kruiden, zeevruchten en kokosgebaseerde curries. De combinatie van gele noedels, garnalen en calamares creëert een harmonieuze balans van smaken, waardoor het gerecht geliefd is bij zowel inwoners als reizigers. Ideale keuze voor wie betaalbare en authentieke Thaise keuken zoekt.",
+      "detailed_ingredients": [
+        {
+          "name": "Жёлтая лапша",
+          "purpose": "Onmisbaar ingrediënt voor de authentieke Mee Hokkien-smaak",
+          "substitutes": [
+            "Verse gele noedels",
+            "Gedroogde gele noedels",
+            "Eiernoedels"
+          ]
+        },
+        {
+          "name": "Креветки",
+          "purpose": "Onmisbaar ingrediënt voor de authentieke Mee Hokkien-smaak",
+          "substitutes": [
+            "Verse garnalen",
+            "Gedroogde garnalen",
+            "Garnalenpasta"
+          ]
+        },
+        {
+          "name": "Кальмар",
+          "purpose": "Onmisbaar ingrediënt voor de authentieke Mee Hokkien-smaak",
+          "substitutes": [
+            "Verse calamares",
+            "Gedroogde calamares",
+            "Calamaresringen"
+          ]
+        },
+        {
+          "name": "Свинина",
+          "purpose": "Onmisbaar ingrediënt voor de authentieke Mee Hokkien-smaak",
+          "substitutes": [
+            "Vers varkensvlees",
+            "Kipfilet",
+            "Tofu"
+          ]
+        }
+      ],
+      "cooking_method": {
+        "technique": "Bakken in de wok",
+        "steps_overview": "Het bereiden van Mee Hokkien vereist aandacht voor details en correcte timing. Het belangrijkste is het balanceren van alle smaken terwijl de textuur van elk ingrediënt behouden blijft. Traditionele methoden, doorgegeven van generatie op generatie, zorgen voor een authentieke smaak.",
+        "cooking_tips": [
+          "Gebruik verse gele noedels voor het beste resultaat",
+          "Pas de pittigheid aan naar smaak",
+          "Niet te lang bakken om de textuur te behouden",
+          "Proef en corrigeer de kruiden voor het serveren"
+        ]
+      },
+      "cultural_significance": {
+        "origin_story": "Mee Hokkien is al vele generaties een klassieker in de Zuid-Thaise keuken en weerspiegelt de unieke culinaire tradities en lokale ingrediënten van de regio.",
+        "cultural_importance": "Dit gerecht belichaamt het hart van de Zuid-Thaise culinaire kunst en demonstreert de balans en harmonie waarvoor de Thaise keuken wereldwijd beroemd is.",
+        "traditional_occasions": [
+          "Familiebijeenkomsten",
+          "Lokale festivals",
+          "Markten met straatvoedsel",
+          "Speciale vieringen"
+        ]
+      },
+      "variations": [
+        {
+          "name": "Классический Ми Хоккиен",
+          "description": "De traditionele versie zoals bereid in lokale huizen"
+        },
+        {
+          "name": "Современный Ми Хоккиен",
+          "description": "Moderne interpretatie met premium ingrediënten"
+        },
+        {
+          "name": "Вегетарианский Ми Хоккиен",
+          "description": "Plantaardige versie met tofu of paddenstoelen"
+        }
+      ],
+      "serving_suggestions": {
+        "traditional_accompaniments": [
+          "Jasmijnrijst",
+          "Verse groenten",
+          "Thaise kruiden"
+        ],
+        "presentation": "Geserveerd op een bord in de traditionele Zuid-Thaise stijl",
+        "eating_etiquette": "Gegeten met vork en lepel volgens Thaise traditie"
+      },
+      "where_to_find": {
+        "best_restaurants": [
+          "Lokale Zuid-Thaise restaurants",
+          "Authentieke straatstalletjes",
+          "Traditionele markten",
+          "Familiebedrijven"
+        ],
+        "street_food_areas": [
+          "Nachtmarkten",
+          "Verse ochtendmarkten",
+          "Lokale foodcourts"
+        ]
+      },
+      "translated_at": "2026-03-11T00:00:00.000Z"
+    },
+    "ko": {
+      "enhanced_description": "Mee Hokkien is een representatief noedelig gerecht uit Zuid-Thailand, Phuket, dat is geëvolueerd uit een gerecht gebracht door immigranten uit de Chinese provincie Fujian (Hokkien). Het is een smaakvolle roerbaknoedel met dikke gele noedels, garnalen, inktvis, varkensvlees enzovoort, gebakken in sojasaus. Dit recept van gemiddelde moeilijkheid is in ongeveer 20 minuten klaar, met de chewy textuur van gele noedels, de umami van zeevruchten en de knapperigheid van Chinese kale (kai lan). Het vertegenwoordigt de unieke Chinees-Thaise fusion-voedselcultuur van Phuket.",
+      "detailed_ingredients": [
+        {
+          "name": "노란 면 (바미)",
+          "purpose": "De basis voor Hokkien-roerbaknoedels: dikke eiernoedels",
+          "substitutes": [
+            "Verse gele noedels",
+            "Gedroogde gele noedels",
+            "Udonnoedels (alternatief)"
+          ]
+        },
+        {
+          "name": "새우",
+          "purpose": "Hoofdingrediënt dat umami van zeevruchten en stevige textuur toevoegt",
+          "substitutes": [
+            "Verse garnalen",
+            "Diepvriesgarnalen",
+            "Gedroogde garnalen"
+          ]
+        },
+        {
+          "name": "오징어",
+          "purpose": "Ingrediënt dat chewy textuur en zeevruchtensmaak toevoegt",
+          "substitutes": [
+            "Verse inktvis",
+            "Diepvriesinktvis",
+            "Schelpen (alternatief)"
+          ]
+        },
+        {
+          "name": "돼지고기",
+          "purpose": "Vlees-ingrediënt dat umami en smaak toevoegt",
+          "substitutes": [
+            "Ingesneden varkensvlees",
+            "Kip (alternatief)",
+            "Tofu (vegetarisch alternatief)"
+          ]
+        }
+      ],
+      "cooking_method": {
+        "technique": "Wok-roerbakken (hoge temperatuur, korte kooktijd)",
+        "steps_overview": "Om Mee Hokkien te maken, verhit je olie in een hete wok en roerbak knoflook om geur los te maken. Voeg varkensvlees toe en kook het gaar, voeg dan garnalen en inktvis toe en roerbak snel. Voeg gele noedels toe en breng op smaak met sojasaus en oestersaus, kluts eieren erdoor en voeg Chinese boerenkool (kai lan) toe. Roerbak op hoog vuur zodat de noedels de rooksmaak (wok hei) absorberen en het gerecht is klaar.",
+        "cooking_tips": [
+          "Kook de noedels licht voor, dan plakken ze niet tijdens het roerbakken",
+          "De wok moet heet genoeg zijn om de rooksmaak (wok hei) te krijgen",
+          "Roerbak zeevruchten snel, anders worden ze taai",
+          "Meng twee soorten sojasaus (lichte sojasaus + donkere sojasaus) voor een diepere smaak"
+        ]
+      },
+      "cultural_significance": {
+        "origin_story": "Mee Hokkien is een gerecht dat immigranten uit de Chinese provincie Fujian (Hokkien) meebrachten toen ze zich in Phuket vestigden. Met de overvloedige zeevruchten van Phuket en specerijen uit Zuid-Thailand is het geëvolueerd tot een unieke Phuket-versie, anders dan de originele Hokkien-noedels.",
+        "cultural_importance": "Dit gerecht vertegenwoordigt de Baba-Peranakan (Chinees-Thaise mengcultuur) voedselcultuur van Phuket. Het meest authentiek genieten in Chinese shophouse-restaurants in Phuket Old Town, en het is een essentieel ervaringsgerecht voor reizigers die Phuket bezoeken.",
+        "traditional_occasions": [
+          "Familiebijeenkomst",
+          "Feestmaal",
+          "Dagelijks eten",
+          "Must-try voor toeristen"
+        ]
+      },
+      "variations": [
+        {
+          "name": "미 호끼엔 전통식",
+          "description": "De meest traditionele versie met garnalen, inktvis en varkensvlees."
+        },
+        {
+          "name": "미 호끼엔 해산물 스페셜",
+          "description": "Uitgebreide versie met extra zeevruchten zoals krab en mosselen."
+        },
+        {
+          "name": "채식 미 호끼엔",
+          "description": "Vegetarische versie met tofu en groenten in plaats van zeevruchten en vlees."
+        }
+      ],
+      "serving_suggestions": {
+        "traditional_accompaniments": [
+          "Limoenpartjes",
+          "Chilisaus",
+          "Azijn-gepekelde pepers"
+        ],
+        "presentation": "Serveer op een bord met limoen in Phuket-stijl",
+        "eating_etiquette": "Eet met vork en lepel of stokjes volgens Thaise gewoonten"
+      },
+      "where_to_find": {
+        "best_restaurants": [
+          "Chinees restaurant in Phuket Old Town",
+          "Mee Ton Po (Phuket) — beroemd specialistrestaurant",
+          "Lokale eetgelegenheid",
+          "Nachtmarkt"
+        ],
+        "street_food_areas": [
+          "Phuket Old Town",
+          "Nachtmarkt",
+          "Lokale foodcourt"
+        ],
+        "price_ranges": {
+          "street_vendor": "50-80 THB",
+          "market_stall": "60-100 THB",
+          "restaurant": "100-200 THB"
+        }
+      },
+      "translated_at": "2026-03-14T00:00:00.000Z"
+    },
+    "th": {
+      "enhanced_description": "Mee Hokkien is een Phuket-stijl noedelgerecht, gele noedels geroerbakt met verse zeevruchten in een intense bouillon. Het is beïnvloed door de Hokkien-Chinezen die zich in Phuket vestigden.",
+      "detailed_ingredients": [
+        {
+          "name": "Yellow noodles",
+          "purpose": "Essentieel voor de authentieke smaak van Mee Hokkien",
+          "substitutes": [
+            "Verse gele noedels",
+            "Gedroogde gele noedels",
+            "Gele noedelpasta"
+          ]
+        },
+        {
+          "name": "Shrimp",
+          "purpose": "Essentieel voor de authentieke smaak van Mee Hokkien",
+          "substitutes": [
+            "Verse garnalen",
+            "Gedroogde garnalen",
+            "Garnalenpasta"
+          ]
+        },
+        {
+          "name": "Squid",
+          "purpose": "Essentieel voor de authentieke smaak van Mee Hokkien",
+          "substitutes": [
+            "Verse inktvis",
+            "Gedroogde inktvis",
+            "Inktvispasta"
+          ]
+        },
+        {
+          "name": "Pork",
+          "purpose": "Essentieel voor de authentieke smaak van Mee Hokkien",
+          "substitutes": [
+            "Vers varkensvlees",
+            "Gedroogd varkensvlees",
+            "Varkenspasta"
+          ]
+        }
+      ],
+      "cooking_method": {
+        "technique": "Roerbakken of grillen",
+        "steps_overview": "De bereiding van Mee Hokkien vereist aandacht voor details en de juiste timing. Het belangrijkste is om alle smaken in balans te houden terwijl de textuur van elk ingrediënt behouden blijft. De traditionele methode, doorgegeven door generaties, garandeert de authentieke smaak.",
+        "cooking_tips": [
+          "Gebruik verse gele noedels voor het beste resultaat",
+          "Pas de pittigheid aan naar smaak",
+          "Kook niet te lang om de textuur te behouden",
+          "Proef en breng op smaak voor het serveren"
+        ]
+      },
+      "cultural_significance": {
+        "origin_story": "Dit gerecht is al generaties lang deel van de Zuid-Thaise voedselcultuur en weerspiegelt de unieke kooktradities en lokale ingrediënten van de regio.",
+        "cultural_importance": "Dit gerecht is het hart van de Zuid-Thaise keuken en toont de balans en harmonie waar Thaise gerechten wereldwijd beroemd om zijn.",
+        "traditional_occasions": [
+          "Familiebijeenkomst",
+          "Lokale festivals",
+          "Straatvoedselmarkt",
+          "Speciale vieringen"
+        ]
+      },
+      "variations": [
+        {
+          "name": "Mee Hokkien Classic",
+          "description": "Traditionele versie geserveerd in lokale huizen"
+        },
+        {
+          "name": "Mee Hokkien Modern",
+          "description": "Moderne versie met premium ingrediënten"
+        },
+        {
+          "name": "Vegetarian Mee Hokkien",
+          "description": "Vegetarische versie met tofu of paddenstoelen"
+        }
+      ],
+      "serving_suggestions": {
+        "traditional_accompaniments": [
+          "Jasmijnrijst",
+          "Verse groenten",
+          "Thaise kruiden"
+        ],
+        "presentation": "Serveer op traditionele Thaise borden",
+        "eating_etiquette": "Eet met lepel en vork volgens Thaise traditie"
+      },
+      "where_to_find": {
+        "best_restaurants": [
+          "Lokale Zuid-Thaise restaurants",
+          "Authentieke straatkraampjes",
+          "Traditionele markten",
+          "Familierestaurants"
+        ],
+        "street_food_areas": [
+          "Nachtmarkt",
+          "Ochtendmarkt",
+          "Lokale voedselcentrum"
+        ],
+        "price_ranges": {
+          "street_vendor": "50-80 THB",
+          "market_stall": "60-100 THB",
+          "restaurant": "100-200 THB"
+        }
+      },
+      "translated_at": "2026-03-14T00:00:00.000Z"
+    },
+    "ja": {
+      "enhanced_description": "Mee Hokkien is een geliefd, vullend hoofdgerecht uit Zuid-Thailand met een milde warmte. Phuket-stijl zeevruchten geroerbakte Fujian-noedels. Dit middeldikke recept is in ongeveer 20 minuten klaar en brengt de authentieke smaken van Zuid-Thaise keuken tot leven. Het kenmerkt zich door sterke specerijen, zeevruchten en kokosgebaseerde curry. De combinatie van gele noedels, garnalen en inktvis creëert een harmonieuze smaakfusie die geliefd is bij zowel locals als bezoekers. Perfect voor wie betaalbare, authentieke Thaise gerechten zoekt.",
+      "detailed_ingredients": [
+        {
+          "name": "Yellow noodles",
+          "purpose": "Essentieel om de authentieke smaak van Mee Hokkien te creëren",
+          "substitutes": [
+            "Verse gele noedels",
+            "Gedroogde gele noedels",
+            "Gele noedelpasta"
+          ]
+        },
+        {
+          "name": "Shrimp",
+          "purpose": "Essentieel om de authentieke smaak van Mee Hokkien te creëren",
+          "substitutes": [
+            "Verse garnalen",
+            "Gedroogde garnalen",
+            "Garnalenpasta"
+          ]
+        },
+        {
+          "name": "Squid",
+          "purpose": "Essentieel om de authentieke smaak van Mee Hokkien te creëren",
+          "substitutes": [
+            "Verse inktvis",
+            "Gedroogde inktvis",
+            "Inktvispasta"
+          ]
+        },
+        {
+          "name": "Pork",
+          "purpose": "Essentieel om de authentieke smaak van Mee Hokkien te creëren",
+          "substitutes": [
+            "Vers varkensvlees",
+            "Gedroogd varkensvlees",
+            "Varkenspasta"
+          ]
+        }
+      ],
+      "cooking_method": {
+        "technique": "Roerbakken of grillen",
+        "steps_overview": "De bereiding van Mee Hokkien vereist aandacht voor details en de juiste timing. De sleutel is om alle smaken in balans te houden terwijl de textuur van elk ingrediënt behouden blijft. De traditionele methode, doorgegeven door generaties, garandeert de authentieke smaak.",
+        "cooking_tips": [
+          "Gebruik verse gele noedels voor het beste resultaat",
+          "Pas de pittigheid aan naar smaak",
+          "Verhit niet te veel om de textuur te behouden",
+          "Proef en breng op smaak voor het serveren"
+        ]
+      },
+      "cultural_significance": {
+        "origin_story": "Mee Hokkien is opgegroeid in de lange geschiedenis van de traditionele voedselcultuur van Zuid-Thailand en weerspiegelt de regionale kookmethoden en lokale ingrediënten.",
+        "cultural_importance": "Dit gerecht symboliseert het hart van de Zuid-Thaise keuken en toont de harmonie en balans die Thaise gerechten wereldwijd beroemd maken.",
+        "traditional_occasions": [
+          "Familiebijeenkomst",
+          "Regionale festivals",
+          "Straatmarkt",
+          "Speciale vieringen"
+        ]
+      },
+      "variations": [
+        {
+          "name": "Mee Hokkien Classic",
+          "description": "Traditionele versie geserveerd in lokale huizen"
+        },
+        {
+          "name": "Mee Hokkien Modern",
+          "description": "Moderne versie met hoogwaardige ingrediënten"
+        },
+        {
+          "name": "Vegetarian Mee Hokkien",
+          "description": "Plantaardige versie met tofu of paddenstoelen"
+        }
+      ],
+      "serving_suggestions": {
+        "traditional_accompaniments": [
+          "Jasmijnrijst",
+          "Verse groenten",
+          "Thaise kruiden"
+        ],
+        "presentation": "Serveer op borden in traditionele Thaise stijl",
+        "eating_etiquette": "Eet met vork en lepel volgens Thaise gewoonten"
+      },
+      "where_to_find": {
+        "best_restaurants": [
+          "Lokale Zuid-Thaise restaurants",
+          "Authentieke straatkraampjes",
+          "Traditionele markten",
+          "Familiegerunde eetgelegenheden"
+        ],
+        "street_food_areas": [
+          "Nachtmarkt",
+          "Verse ochtendmarkt",
+          "Lokale foodcourt"
+        ],
+        "price_ranges": {
+          "street_vendor": "50-80 THB",
+          "market_stall": "60-100 THB",
+          "restaurant": "100-200 THB"
+        }
+      },
+      "translated_at": "2026-03-14T00:00:00.000Z"
+    }
+  }
+}

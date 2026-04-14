@@ -1,0 +1,978 @@
+{
+  "id": 16,
+  "slug": "gaeng-hang-lay",
+  "name": {
+    "en": "Gaeng Hang Lay",
+    "nl": "Gaeng Hang Lay",
+    "thai": "แกงฮังเล"
+  },
+  "category": "curry",
+  "region": "noordelijk",
+  "spice_level": "mild",
+  "description": {
+    "en": "Mild curry with pork belly and Burmese influences",
+    "nl": "Milde curry met varkensbuik en Birmese invloeden"
+  },
+  "ingredients": [
+    "varkensbuik",
+    "sjalotten",
+    "knoflook",
+    "gember",
+    "tamarinde",
+    "pinda's",
+    "palmsuiker"
+  ],
+  "allergens": [
+    "noten"
+  ],
+  "dietary": [],
+  "image": "/images/food/gaeng-hang-lay.webp",
+  "preparation_time": "90 minuten",
+  "difficulty": "gemiddeld",
+  "price_range": "betaalbaar",
+  "seo": {
+    "metaTitle": {
+      "en": "Gaeng Hang Lay Recipe | Authentic Thai curry",
+      "nl": "Gaeng Hang Lay Recept | Authentieke Thaise curry"
+    },
+    "metaDescription": {
+      "en": "Learn about Gaeng Hang Lay (แกงฮังเล) - Mild curry with pork belly and Burmese influences...",
+      "nl": "Leer over Gaeng Hang Lay (แกงฮังเล) - Milde curry met varkensbuik en Birmese invloeden..."
+    }
+  },
+  "tags": [
+    "thais-eten",
+    "Thailand",
+    "curry",
+    "noordelijk",
+    "mild",
+    "gemiddeld",
+    "betaalbaar",
+    "varkensbuik",
+    "sjalotten",
+    "knoflook"
+  ],
+  "cooking": {
+    "preparation_time": "90 minuten",
+    "difficulty": "gemiddeld",
+    "spice_level": "mild",
+    "serves": "2-4 personen"
+  },
+  "nutrition": {
+    "allergens": [
+      "noten"
+    ],
+    "dietary": [],
+    "price_range": "betaalbaar"
+  },
+  "enhanced_description": "Gaeng Hang Lay is een geliefde rijke en aromatische curry uit Noord-Thailand met een subtiele warmte. Milde curry met varkensbuik en Birmese invloeden. Dit gemiddelde recept duurt ongeveer 90 minuten om te bereiden en vertegenwoordigt de authentieke smaken van de Noord-Thaise keuken, gekenmerkt door mildere smaken, kleefrijst en kruiden. De combinatie van varkensbuik, sjalotten en knoflook creëert een harmonieuze mengeling die dit gerecht tot een favoriet heeft gemaakt bij zowel locals als bezoekers. Perfect voor wie op zoek is naar betaalbare authentieke Thaise keuken.",
+  "detailed_ingredients": [
+    {
+      "name": "Pork belly",
+      "purpose": "Essentieel voor authentieke Gaeng Hang Lay smaak",
+      "substitutes": [
+        "Verse varkensbuik",
+        "Gedroogde varkensbuik",
+        "varkensbuikpasta"
+      ]
+    },
+    {
+      "name": "Shallots",
+      "purpose": "Essentieel voor authentieke Gaeng Hang Lay smaak",
+      "substitutes": [
+        "Verse sjalotten",
+        "Gedroogde sjalotten",
+        "sjalottenpasta"
+      ]
+    },
+    {
+      "name": "Garlic",
+      "purpose": "Essentieel voor authentieke Gaeng Hang Lay smaak",
+      "substitutes": [
+        "Verse knoflook",
+        "Gedroogde knoflook",
+        "knoflookpasta"
+      ]
+    },
+    {
+      "name": "Ginger",
+      "purpose": "Essentieel voor authentieke Gaeng Hang Lay smaak",
+      "substitutes": [
+        "Verse gember",
+        "Gedroogde gember",
+        "gemberpasta"
+      ]
+    }
+  ],
+  "cooking_method": {
+    "technique": "Currypasta bakken en kokosmelkreductie",
+    "steps_overview": "Het bereiden van Gaeng Hang Lay vereist aandacht voor detail en juiste timing. De sleutel is om alle smaken in balans te brengen terwijl de textuur van elk ingrediënt behouden blijft. Traditionele methoden die van generatie op generatie zijn doorgegeven, zorgen voor een authentieke smaak.",
+    "cooking_tips": [
+      "Gebruik verse varkensbuik voor het beste resultaat",
+      "Pas het pittigheidsniveau aan naar voorkeur",
+      "Kook niet te lang door om textuur te behouden",
+      "Proef en pas de kruiding aan voor het serveren"
+    ]
+  },
+  "cultural_significance": {
+    "origin_story": "Gaeng Hang Lay is al generaties lang een hoeksteen van de Noord-Thaise keuken en weerspiegelt de unieke culinaire tradities en lokale ingrediënten van de regio.",
+    "cultural_importance": "Dit gerecht belichaamt het hart van de Noord-Thaise kookkunst en toont de balans en harmonie waarvoor de Thaise keuken wereldwijd beroemd is.",
+    "traditional_occasions": [
+      "Familiebijeenkomsten",
+      "Lokale festivals",
+      "Straatvoedselmarkten",
+      "Speciale vieringen"
+    ]
+  },
+  "variations": [
+    {
+      "name": "Gaeng Hang Lay Classic",
+      "description": "De traditionele versie zoals geserveerd in lokale huizen"
+    },
+    {
+      "name": "Gaeng Hang Lay Modern",
+      "description": "Moderne twist met premium ingrediënten"
+    },
+    {
+      "name": "Vegetarian Gaeng Hang Lay",
+      "description": "Plantaardige versie met tofu of paddenstoelen"
+    }
+  ],
+  "serving_suggestions": {
+    "traditional_accompaniments": [
+      "Jasmijnrijst",
+      "Verse groenten",
+      "Thaise kruiden"
+    ],
+    "presentation": "Geserveerd op een bord in traditionele Thaise stijl",
+    "eating_etiquette": "Genoten met vork en lepel volgens Thais gebruik"
+  },
+  "nutritional_info": {
+    "calories_per_serving": "300-500 calorieën",
+    "health_benefits": [
+      "Rijk aan Thaise kruiden en specerijen",
+      "Bron van eiwitten en groenten",
+      "Gebalanceerde smaken en voedingsstoffen"
+    ],
+    "dietary_notes": []
+  },
+  "where_to_find": {
+    "best_restaurants": [
+      "Lokale Noord-Thaise restaurants",
+      "Authentieke straatvoedselkraampjes",
+      "Traditionele markten",
+      "Familiegerunde eettentjes"
+    ],
+    "street_food_areas": [
+      "Nachtmarkten",
+      "Ochtendverse markten",
+      "Lokale food courts"
+    ],
+    "price_ranges": {
+      "street_vendor": "50-80 THB",
+      "market_stall": "60-100 THB",
+      "restaurant": "100-200 THB"
+    }
+  },
+  "translations": {
+    "nl": {
+      "enhanced_description": "Gaeng Hang Lay is een geliefde rijke en aromatische curry uit Noord-Thailand met een subtiele warmte. Milde curry met varkensbuik en Birmese invloeden. Dit recept met gemiddelde moeilijkheidsgraad vergt ongeveer 90 minuten bereidingstijd en vertegenwoordigt de authentieke smaken van de Noord-Thaise keuken, gekenmerkt door mildere smaken, kleefrijst en kruiden. De combinatie van varkensbuik, sjalotten en knoflook creëert een harmonieuze mix die dit gerecht tot een favoriet heeft gemaakt onder zowel locals als bezoekers. Perfect voor wie op zoek is naar betaalbare authentieke Thaise keuken.",
+      "detailed_ingredients": [
+        {
+          "name": "Varkensbuik",
+          "purpose": "Essentieel voor de authentieke Gaeng Hang Lay smaak",
+          "substitutes": [
+            "Verse varkensbuik",
+            "Gedroogde varkensbuik",
+            "Varkensbuikpasta"
+          ]
+        },
+        {
+          "name": "Sjalotten",
+          "purpose": "Essentieel voor de authentieke Gaeng Hang Lay smaak",
+          "substitutes": [
+            "Verse sjalotten",
+            "Gedroogde sjalotten",
+            "Sjalottenpasta"
+          ]
+        },
+        {
+          "name": "Knoflook",
+          "purpose": "Essentieel voor de authentieke Gaeng Hang Lay smaak",
+          "substitutes": [
+            "Verse knoflook",
+            "Gedroogde knoflook",
+            "Knoflookpasta"
+          ]
+        },
+        {
+          "name": "Gember",
+          "purpose": "Essentieel voor de authentieke Gaeng Hang Lay smaak",
+          "substitutes": [
+            "Verse gember",
+            "Gedroogde gember",
+            "Gemberpasta"
+          ]
+        }
+      ],
+      "cooking_method": {
+        "technique": "Currypasta bakken en kokosmelkreductie",
+        "steps_overview": "Het bereiden van Gaeng Hang Lay vereist aandacht voor detail en goede timing. De sleutel is het balanceren van alle smaken terwijl de textuur van elk ingrediënt behouden blijft. Traditionele methoden die van generatie op generatie zijn doorgegeven, garanderen een authentieke smaak.",
+        "cooking_tips": [
+          "Gebruik verse varkensbuik voor het beste resultaat",
+          "Pas het pittigheidsgehalte aan naar je voorkeur",
+          "Kook niet te lang om de textuur te behouden",
+          "Proef en pas de kruiding aan voor het serveren"
+        ]
+      },
+      "cultural_significance": {
+        "origin_story": "Gaeng Hang Lay is al generaties lang een vast onderdeel van de Noord-Thaise keuken en weerspiegelt de unieke culinaire tradities en lokale ingrediënten van de regio.",
+        "cultural_importance": "Dit gerecht vertegenwoordigt het hart van de Noord-Thaise kookkunst en toont de balans en harmonie waarmee de Thaise keuken wereldwijd beroemd is.",
+        "traditional_occasions": [
+          "Familiebijeenkomsten",
+          "Lokale festivals",
+          "Straatvoedselmarkten",
+          "Bijzondere vieringen"
+        ]
+      },
+      "variations": [
+        {
+          "name": "Gaeng Hang Lay Klassiek",
+          "description": "De traditionele versie zoals geserveerd in lokale huishoudens"
+        },
+        {
+          "name": "Gaeng Hang Lay Modern",
+          "description": "Hedendaagse variant met premium ingrediënten"
+        },
+        {
+          "name": "Vegetarische Gaeng Hang Lay",
+          "description": "Plantaardige versie met tofu of paddenstoelen"
+        }
+      ],
+      "serving_suggestions": {
+        "traditional_accompaniments": [
+          "Kleefrijst",
+          "Verse groenten",
+          "Thaise kruiden"
+        ],
+        "presentation": "Geserveerd in een kom in traditionele Noord-Thaise stijl",
+        "eating_etiquette": "Gegeten met kleefrijst die met de vingers wordt gegeten, volgens Noord-Thais gebruik"
+      },
+      "where_to_find": {
+        "best_restaurants": [
+          "Lokale Noord-Thaise restaurants",
+          "Authentieke straatvoedselkramen",
+          "Traditionele markten",
+          "Familiebedrijfjes"
+        ],
+        "street_food_areas": [
+          "Nachtmarkten",
+          "Ochtendverse markten",
+          "Lokale food courts"
+        ]
+      },
+      "translated_at": "2026-03-10T00:00:00.000Z"
+    },
+    "fr": {
+      "enhanced_description": "Le Gaeng Hang Lay est un curry riche et aromatique apprécié du nord de la Thaïlande, avec une chaleur subtile. Un curry doux à la poitrine de porc aux influences birmanes. Cette recette de difficulté moyenne nécessite environ 90 minutes de préparation et représente les saveurs authentiques de la cuisine du nord de la Thaïlande, caractérisée par des saveurs plus douces, du riz gluant et des herbes. La combinaison de poitrine de porc, d'échalotes et d'ail crée un mélange harmonieux qui a fait de ce plat un favori tant auprès des locaux que des visiteurs. Parfait pour ceux qui recherchent une cuisine thaïlandaise authentique à prix raisonnable.",
+      "detailed_ingredients": [
+        {
+          "name": "Poitrine de porc",
+          "purpose": "Essentiel pour la saveur authentique du Gaeng Hang Lay",
+          "substitutes": [
+            "Poitrine de porc fraîche",
+            "Poitrine de porc séchée",
+            "Pâte de poitrine de porc"
+          ]
+        },
+        {
+          "name": "Échalotes",
+          "purpose": "Essentiel pour la saveur authentique du Gaeng Hang Lay",
+          "substitutes": [
+            "Échalotes fraîches",
+            "Échalotes séchées",
+            "Pâte d'échalotes"
+          ]
+        },
+        {
+          "name": "Ail",
+          "purpose": "Essentiel pour la saveur authentique du Gaeng Hang Lay",
+          "substitutes": [
+            "Ail frais",
+            "Ail séché",
+            "Pâte d'ail"
+          ]
+        },
+        {
+          "name": "Gingembre",
+          "purpose": "Essentiel pour la saveur authentique du Gaeng Hang Lay",
+          "substitutes": [
+            "Gingembre frais",
+            "Gingembre séché",
+            "Pâte de gingembre"
+          ]
+        }
+      ],
+      "cooking_method": {
+        "technique": "Friture de pâte de curry et réduction de lait de coco",
+        "steps_overview": "La préparation du Gaeng Hang Lay nécessite de l'attention aux détails et un bon timing. La clé est d'équilibrer toutes les saveurs tout en préservant la texture de chaque ingrédient. Les méthodes traditionnelles transmises de génération en génération garantissent un goût authentique.",
+        "cooking_tips": [
+          "Utilisez de la poitrine de porc fraîche pour un meilleur résultat",
+          "Ajustez le niveau de piquant selon vos préférences",
+          "Ne faites pas trop cuire pour préserver la texture",
+          "Goûtez et ajustez l'assaisonnement avant de servir"
+        ]
+      },
+      "cultural_significance": {
+        "origin_story": "Le Gaeng Hang Lay est un pilier de la cuisine du nord de la Thaïlande depuis des générations, reflétant les traditions culinaires uniques et les ingrédients locaux de la région.",
+        "cultural_importance": "Ce plat représente le cœur de la cuisine du nord de la Thaïlande, illustrant l'équilibre et l'harmonie qui ont rendu la cuisine thaïlandaise célèbre dans le monde entier.",
+        "traditional_occasions": [
+          "Réunions de famille",
+          "Festivals locaux",
+          "Marchés de cuisine de rue",
+          "Speciale vieringen"
+        ]
+      },
+      "variations": [
+        {
+          "name": "Gaeng Hang Lay Classique",
+          "description": "De traditionele versie zoals geserveerd in lokale huishoudens"
+        },
+        {
+          "name": "Gaeng Hang Lay Moderne",
+          "description": "Contemporaine versie met premium ingrediënten"
+        },
+        {
+          "name": "Gaeng Hang Lay Végétarien",
+          "description": "Vegetarische versie met tofu of paddenstoelen"
+        }
+      ],
+      "serving_suggestions": {
+        "traditional_accompaniments": [
+          "Kleefrijst",
+          "Verse groenten",
+          "Thaise kruiden"
+        ],
+        "presentation": "Geserveerd in een kom in de traditionele stijl van Noord-Thailand",
+        "eating_etiquette": "Genuttigd met kleefrijst die met de vingers wordt gegeten, volgens de Noord-Thaise gewoonte"
+      },
+      "where_to_find": {
+        "best_restaurants": [
+          "Lokale restaurants in Noord-Thailand",
+          "Authentieke straatkiosken",
+          "Traditionele markten",
+          "Familierestaurants"
+        ],
+        "street_food_areas": [
+          "Nachtmarkten",
+          "Ochtendverse markten",
+          "Lokale foodcourts"
+        ]
+      },
+      "translated_at": "2026-03-10T00:00:00.000Z"
+    },
+    "de": {
+      "enhanced_description": "Gaeng Hang Lay is een populair rijk en aromatisch curry uit Noord-Thailand met een subtiele warmte. Mild curry met buikspek en Birmese invloeden. Dit recept van gemiddelde moeilijkheid vereist ongeveer 90 minuten bereidingstijd en vertegenwoordigt de authentieke smaken van de noordelijke Thaise keuken, die zich kenmerkt door mildere smaken, kleefrijst en kruiden. De combinatie van buikspek, sjalotten en knoflook geeft een harmonieuze mengeling die dit gerecht tot favoriet heeft gemaakt bij zowel locals als bezoekers. Perfect voor iedereen die betaalbare authentieke Thaise keuken zoekt.",
+      "detailed_ingredients": [
+        {
+          "name": "Schweinebauch",
+          "purpose": "Onmisbaar voor de authentieke Gaeng Hang Lay-smaak",
+          "substitutes": [
+            "Verse buikspek",
+            "Gedroogd buikspek",
+            "Buikspekpasta"
+          ]
+        },
+        {
+          "name": "Schalotten",
+          "purpose": "Onmisbaar voor de authentieke Gaeng Hang Lay-smaak",
+          "substitutes": [
+            "Verse sjalotten",
+            "Gedroogde sjalotten",
+            "Sjalottenpasta"
+          ]
+        },
+        {
+          "name": "Knoblauch",
+          "purpose": "Onmisbaar voor de authentieke Gaeng Hang Lay-smaak",
+          "substitutes": [
+            "Verse knoflook",
+            "Gedroogde knoflook",
+            "Knoflookpasta"
+          ]
+        },
+        {
+          "name": "Ingwer",
+          "purpose": "Onmisbaar voor de authentieke Gaeng Hang Lay-smaak",
+          "substitutes": [
+            "Verse gember",
+            "Gedroogde gember",
+            "Gemberpasta"
+          ]
+        }
+      ],
+      "cooking_method": {
+        "technique": "Currypasta aanbraden en kokosmelk reduceren",
+        "steps_overview": "De bereiding van Gaeng Hang Lay vereist liefde voor detail en goed timing. De sleutel ligt in het balanceren van alle smaken en tegelijkertijd het behouden van de textuur van elke ingrediënt. Traditionele methoden die van generatie op generatie zijn doorgegeven, garanderen authentieke smaak.",
+        "cooking_tips": [
+          "Gebruik verse buikspek voor het beste resultaat",
+          "Pas de pittigheid aan naar smaak",
+          "Niet te lang koken om de textuur te behouden",
+          "Proeven en op smaak brengen voor het serveren"
+        ]
+      },
+      "cultural_significance": {
+        "origin_story": "Gaeng Hang Lay is al generaties lang een vast onderdeel van de noordelijke Thaise keuken en weerspiegelt de unieke culinaire tradities en lokale ingrediënten van de regio.",
+        "cultural_importance": "Dit gerecht vertegenwoordigt het hart van de noordelijke Thaise kookkunst en toont de balans en harmonie waarvoor de Thaise keuken wereldwijd beroemd is.",
+        "traditional_occasions": [
+          "Familiebijeenkomsten",
+          "Lokale festivals",
+          "Straatkeukens-markten",
+          "Speciale vieringen"
+        ]
+      },
+      "variations": [
+        {
+          "name": "Gaeng Hang Lay Klassisch",
+          "description": "De traditionele versie zoals geserveerd in lokale huishoudens"
+        },
+        {
+          "name": "Gaeng Hang Lay Modern",
+          "description": "Contemporaine versie met premium ingrediënten"
+        },
+        {
+          "name": "Vegetarisches Gaeng Hang Lay",
+          "description": "Vegetarische versie met tofu of paddenstoelen"
+        }
+      ],
+      "serving_suggestions": {
+        "traditional_accompaniments": [
+          "Kleefrijst",
+          "Verse groenten",
+          "Thaise kruiden"
+        ],
+        "presentation": "Geserveerd in een kom in de traditionele stijl van Noord-Thailand",
+        "eating_etiquette": "Genuttigd met kleefrijst die met de vingers wordt gegeten, volgens de Noord-Thaise gewoonte"
+      },
+      "where_to_find": {
+        "best_restaurants": [
+          "Lokale restaurants in Noord-Thailand",
+          "Authentieke straatkiosken",
+          "Traditionele markten",
+          "Familierestaurants"
+        ],
+        "street_food_areas": [
+          "Nachtmarkten",
+          "Ochtendverse markten",
+          "Lokale foodcourts"
+        ]
+      },
+      "translated_at": "2026-03-10T00:00:00.000Z"
+    },
+    "zh": {
+      "enhanced_description": "Gaeng Hang Lay is een geliefd rijk en aromatisch curry uit Noord-Thailand met een milde warmte. Dit milde curry met buikspek en Birmese invloeden, van gemiddelde moeilijkheid, vereist ongeveer 90 minuten bereiding en belichaamt de authentieke smaken van de noordelijke Thaise keuken – gekenmerkt door mildere smaken, kleefrijst en kruiden. De combinatie van buikspek, sjalotten en knoflook creëert een harmonieuze textuur die dit gerecht geliefd maakt bij zowel locals als toeristen. Perfect voor wie betaalbare authentieke Thaise gerechten zoekt.",
+      "detailed_ingredients": [
+        {
+          "name": "五花肉",
+          "purpose": "Sleutelingrediënt voor de authentieke Gaeng Hang Lay-smaak",
+          "substitutes": [
+            "Verse buikspek",
+            "Gedroogd buikspek",
+            "Buikspekpasta"
+          ]
+        },
+        {
+          "name": "红葱头",
+          "purpose": "Sleutelingrediënt voor de authentieke Gaeng Hang Lay-smaak",
+          "substitutes": [
+            "Verse sjalotten",
+            "Gedroogde sjalotten",
+            "Sjalottenpasta"
+          ]
+        },
+        {
+          "name": "大蒜",
+          "purpose": "Sleutelingrediënt voor de authentieke Gaeng Hang Lay-smaak",
+          "substitutes": [
+            "Verse knoflook",
+            "Gedroogde knoflook",
+            "Knoflookpasta"
+          ]
+        },
+        {
+          "name": "姜",
+          "purpose": "Sleutelingrediënt voor de authentieke Gaeng Hang Lay-smaak",
+          "substitutes": [
+            "Verse gember",
+            "Gedroogde gember",
+            "Gemberpasta"
+          ]
+        }
+      ],
+      "cooking_method": {
+        "technique": "Currypasta aanbraden en kokosmelk reduceren",
+        "steps_overview": "Het bereiden van Gaeng Hang Lay vereist aandacht voor details en goed tijdmanagement. De sleutel ligt in het balanceren van alle smaken terwijl de textuur van elk ingrediënt behouden blijft. Traditionele methoden die van generatie op generatie zijn doorgegeven, zorgen voor authentieke smaak.",
+        "cooking_tips": [
+          "Gebruik verse buikspek voor het beste resultaat",
+          "Pas de pittigheid aan naar persoonlijke voorkeur",
+          "Niet te lang koken om de textuur te behouden",
+          "Proeven en op smaak brengen voor het serveren"
+        ]
+      },
+      "cultural_significance": {
+        "origin_story": "Gaeng Hang Lay is al generaties lang een klassieker in de noordelijke Thaise keuken en weerspiegelt de unieke culinaire tradities en lokale ingrediënten van de regio.",
+        "cultural_importance": "Dit gerecht vertegenwoordigt de essentie van de noordelijke Thaise keuken en toont de balans en harmonie waarvoor de Thaise keuken wereldwijd bekendstaat.",
+        "traditional_occasions": [
+          "Familiebijeenkomsten",
+          "Lokale feesten",
+          "Straatvoedselmarkten",
+          "Speciale vieringen"
+        ]
+      },
+      "variations": [
+        {
+          "name": "经典Gaeng Hang Lay",
+          "description": "De traditionele versie zoals geserveerd in lokale huishoudens"
+        },
+        {
+          "name": "现代Gaeng Hang Lay",
+          "description": "Moderne versie met premium ingrediënten"
+        },
+        {
+          "name": "素食Gaeng Hang Lay",
+          "description": "Vegetarische versie met tofu of paddenstoelen"
+        }
+      ],
+      "serving_suggestions": {
+        "traditional_accompaniments": [
+          "Kleefrijst",
+          "Verse groenten",
+          "Thaise kruiden"
+        ],
+        "presentation": "Geserveerd in een kom in de traditionele Noord-Thaise stijl",
+        "eating_etiquette": "Genuttigd met kleefrijst die met de vingers wordt gegeten, volgens Noord-Thaise gewoonte"
+      },
+      "where_to_find": {
+        "best_restaurants": [
+          "Lokale Noord-Thaise restaurants",
+          "Authentieke straatsnacksstalletjes",
+          "Traditionele markten",
+          "Familiegerunde eettentjes"
+        ],
+        "street_food_areas": [
+          "Nachtmarkten",
+          "Ochtendmarkten",
+          "Lokale voedselpleinen"
+        ]
+      },
+      "translated_at": "2026-03-11T00:00:00.000Z"
+    },
+    "ru": {
+      "enhanced_description": "Gaeng Hang Lay is een geliefd rijk en aromatisch curry uit Noord-Thailand met een zachte warmte. Mild curry met buikspek en Birmese invloeden. Dit recept van gemiddelde complexiteit duurt ongeveer 90 minuten bereiding en presenteert de authentieke smaken van de noordelijke Thaise keuken, die zich onderscheidt door mildere smaken, kleefrijst en kruiden. De combinatie van buikspek, sjalotten en knoflook creëert een harmonieuze mengeling die dit gerecht favoriet maakt bij zowel locals als gasten. Ideaal voor wie betaalbare authentieke Thaise keuken zoekt.",
+      "detailed_ingredients": [
+        {
+          "name": "Свиная грудинка",
+          "purpose": "Belangrijk ingrediënt voor de authentieke Gaeng Hang Lay-smaak",
+          "substitutes": [
+            "Verse buikspek",
+            "Gedroogde buikspek",
+            "Buikspekpasta"
+          ]
+        },
+        {
+          "name": "Лук-шалот",
+          "purpose": "Belangrijk ingrediënt voor de authentieke Gaeng Hang Lay-smaak",
+          "substitutes": [
+            "Verse sjalotten",
+            "Gedroogde sjalotten",
+            "Sjalottenpasta"
+          ]
+        },
+        {
+          "name": "Чеснок",
+          "purpose": "Belangrijk ingrediënt voor de authentieke Gaeng Hang Lay-smaak",
+          "substitutes": [
+            "Verse knoflook",
+            "Gedroogde knoflook",
+            "Knoflookpasta"
+          ]
+        },
+        {
+          "name": "Имбирь",
+          "purpose": "Belangrijk ingrediënt voor de authentieke Gaeng Hang Lay-smaak",
+          "substitutes": [
+            "Verse gember",
+            "Gedroogde gember",
+            "Gemberpasta"
+          ]
+        }
+      ],
+      "cooking_method": {
+        "technique": "Currypasta aanbraden en kokosmelk inkoken",
+        "steps_overview": "Het bereiden van Gaeng Hang Lay vereist aandacht voor details en correcte timing. De sleutel ligt in het balanceren van alle smaken terwijl de textuur van elk ingrediënt behouden blijft. Traditionele methoden die van generatie op generatie zijn doorgegeven, garanderen authentieke smaak.",
+        "cooking_tips": [
+          "Gebruik verse buikspek voor het beste resultaat",
+          "Pas de pittigheid aan naar smaak",
+          "Niet te lang koken om de textuur te behouden",
+          "Proeven en kruiden aanpassen voor het serveren"
+        ]
+      },
+      "cultural_significance": {
+        "origin_story": "Gaeng Hang Lay is al vele generaties een basis van de noordelijke Thaise keuken en weerspiegelt de unieke culinaire tradities van de regio en lokale ingrediënten.",
+        "cultural_importance": "Dit gerecht belichaamt het hart van de noordelijke Thaise culinaire kunst en demonstreert de balans en harmonie waarvoor de Thaise keuken wereldwijd beroemd is.",
+        "traditional_occasions": [
+          "Familiebijeenkomsten",
+          "Lokale festivals",
+          "Straatvoedselmarkten",
+          "Speciale gelegenheden"
+        ]
+      },
+      "variations": [
+        {
+          "name": "Gaeng Hang Lay классический",
+          "description": "De traditionele versie zoals geserveerd in lokale huizen"
+        },
+        {
+          "name": "Gaeng Hang Lay современный",
+          "description": "Moderne interpretatie met premium ingrediënten"
+        },
+        {
+          "name": "Вегетарианский Gaeng Hang Lay",
+          "description": "Plantaardige versie met tofu of paddenstoelen"
+        }
+      ],
+      "serving_suggestions": {
+        "traditional_accompaniments": [
+          "Kleefrijst",
+          "Verse groenten",
+          "Thaise kruiden"
+        ],
+        "presentation": "Geserveerd in een kom in de traditionele noordelijke Thaise stijl",
+        "eating_etiquette": "Genuttigd met kleefrijst die met de handen wordt gegeten, volgens noordelijke Thaise gewoonte"
+      },
+      "where_to_find": {
+        "best_restaurants": [
+          "Lokale noordelijke Thaise restaurants",
+          "Authentieke straatkraampjes",
+          "Traditionele markten",
+          "Familie-eetgelegenheden"
+        ],
+        "street_food_areas": [
+          "Nachtmarkten",
+          "Ochtendverse markten",
+          "Lokale foodcourts"
+        ]
+      },
+      "translated_at": "2026-03-11T00:00:00.000Z"
+    },
+    "ko": {
+      "enhanced_description": "Gaeng Hang Lay is een representatief curry uit Noord-Thailand, met unieke smaken beïnvloed door Myanmar (Birma). Rijk en geurig curry met buikspek, dat zich onderscheidt van andere Thaise curries door het niet gebruiken van kokosmelk. Vereist ongeveer 90 minuten bereidingstijd en bevat de authentieke smaken van de Noord-Thaise keuken. De combinatie van buikspek, sjalotten, knoflook en gember creëert harmonieuze smaken, met de zure tamarinde en zoete palmb sugar in balans. Geliefd bij zowel locals als toeristen, het is Noord-Thais soul food.",
+      "detailed_ingredients": [
+        {
+          "name": "삼겹살",
+          "purpose": "Kern ingrediënt dat de rijke smaak en zachte textuur van Gaeng Hang Lay creëert",
+          "substitutes": [
+            "Varkensschouder",
+            "Varkensnek",
+            "Kippendij (vervanging)"
+          ]
+        },
+        {
+          "name": "샬롯 (작은 양파)",
+          "purpose": "Basis voor de zoete smaak van de curry",
+          "substitutes": [
+            "Rode ui",
+            "Gewone ui",
+            "Lente-ui"
+          ]
+        },
+        {
+          "name": "마늘",
+          "purpose": "Essentiële specerij die diepe en rijke aroma toevoegt",
+          "substitutes": [
+            "Gehakte knoflook",
+            "Geroosterde knoflook",
+            "Knoflookpasta"
+          ]
+        },
+        {
+          "name": "생강",
+          "purpose": "Specerij die warme en tintelende smaak toevoegt",
+          "substitutes": [
+            "Galangal",
+            "Gemberpoeder",
+            "Gemberpasta"
+          ]
+        }
+      ],
+      "cooking_method": {
+        "technique": "Currypasta fruiten en langdurig stoven",
+        "steps_overview": "Om gaeng hang lay te maken, begin je met het bereiden en fruiten van de currypasta, voeg dan buikspek toe en kook het met tamarindewater, palmsuiker, gember en pinda's langzaam op laag vuur. Het is cruciaal om het vlees mals te laten worden en de smaken diep te laten intrekken.",
+        "cooking_tips": [
+          "Snijd het buikspek in grote stukken zodat het tijdens lang koken zijn vorm behoudt",
+          "Regel de zuurheid met de hoeveelheid tamarinde",
+          "Stoof langzaam op laag vuur voor mals vlees",
+          "Maak het een dag van tevoren voor een diepere smaak"
+        ]
+      },
+      "cultural_significance": {
+        "origin_story": "Gaeng hang lay is afgeleid van de Myanmarese hinle-curry en werd overgedragen aan Noord-Thailand tijdens de Lanna-koninkrijksperiode via uitwisselingen met Myanmar. Door de eeuwen heen is het geëvolueerd tot een uniek gerecht met lokale Noord-Thaise ingrediënten en bereidingsmethoden.",
+        "cultural_importance": "Deze curry is een kernrecept in de Noord-Thaise kan tok (traditionele maaltijd)-cultuur en mag niet ontbreken bij familiebijeenkomsten of feesten. Het vertegenwoordigt de identiteit van Noord-Thaise regio's zoals Chiang Mai.",
+        "traditional_occasions": [
+          "Kan tok traditionele maaltijd",
+          "Familiebijeenkomst",
+          "Songkran-festival",
+          "Tempelactiviteiten"
+        ]
+      },
+      "variations": [
+        {
+          "name": "깽항레 무 (돼지고기)",
+          "description": "De meest traditionele versie met buikspek."
+        },
+        {
+          "name": "깽항레 가이 (닭고기)",
+          "description": "Een lichtere variant met kip, met kortere bereidingstijd."
+        },
+        {
+          "name": "채식 깽항레",
+          "description": "Vegetarische versie met tofu en paddenstoelen."
+        }
+      ],
+      "serving_suggestions": {
+        "traditional_accompaniments": [
+          "Plakkerige rijst (khao niao)",
+          "Verse groenten",
+          "Gekookte eieren"
+        ],
+        "presentation": "Geserveerd in kommen op traditionele Noord-Thaise wijze",
+        "eating_etiquette": "Volgens Noord-Thaise traditie eet je de kleefrijst met de hand en combineert het met de curry"
+      },
+      "where_to_find": {
+        "best_restaurants": [
+          "Lokale Noord-Thaise restaurants",
+          "Restaurants in de oude stad van Chiang Mai",
+          "Traditionele markten",
+          "Familiegerunde restaurants"
+        ],
+        "street_food_areas": [
+          "Nachtmarkten",
+          "Ochtendmarkten",
+          "Gaeng hang lay is een Noord-Thaise curry met Burmese invloeden, hoofdzakelijk op basis van buikspek, bereid met geurige currypasta van gember, kurkuma en diverse specerijen. De smaak is mild en niet te pittig, met een gebalanceerde zoet-zoute harmonie. Het is een typisch gerecht uit de provincies Chiang Mai en Lamphun."
+        ],
+        "price_ranges": {
+          "street_vendor": "50-80 THB",
+          "market_stall": "60-100 THB",
+          "restaurant": "100-200 THB"
+        }
+      },
+      "translated_at": "2026-03-14T00:00:00.000Z"
+    },
+    "th": {
+      "enhanced_description": "Essentieel voor de authentieke smaak van Gaeng Hang Lay",
+      "detailed_ingredients": [
+        {
+          "name": "Pork belly",
+          "purpose": "Vers buikspek",
+          "substitutes": [
+            "Vers buikspek",
+            "Gedroogd buikspek",
+            "Buikspekpasta"
+          ]
+        },
+        {
+          "name": "Shallots",
+          "purpose": "Essentieel voor de authentieke smaak van Gaeng Hang Lay",
+          "substitutes": [
+            "Verse sjalotten",
+            "Gedroogde sjalotten",
+            "Sjalottenpasta"
+          ]
+        },
+        {
+          "name": "Garlic",
+          "purpose": "Essentieel voor de authentieke smaak van Gaeng Hang Lay",
+          "substitutes": [
+            "Verse knoflook",
+            "Gedroogde knoflook",
+            "Knoflookpasta"
+          ]
+        },
+        {
+          "name": "Ginger",
+          "purpose": "Essentieel voor de authentieke smaak van Gaeng Hang Lay",
+          "substitutes": [
+            "Verse gember",
+            "Gedroogde gember",
+            "Gemberpasta"
+          ]
+        }
+      ],
+      "cooking_method": {
+        "technique": "Currypasta fruiten en kokosmelk indikken",
+        "steps_overview": "De bereiding van Gaeng Hang Lay vereist aandacht voor details en de juiste timing. Het evenwicht van smaken behouden terwijl de textuur van elk ingrediënt intact blijft, is essentieel. De traditionele methode, doorgegeven door generaties, garandeert een authentieke smaak.",
+        "cooking_tips": [
+          "Gebruik vers buikspek voor het beste resultaat",
+          "Pas de pittigheid aan naar smaak",
+          "Kook niet te lang om de textuur te behouden",
+          "Proef en breng op smaak voor het serveren"
+        ]
+      },
+      "cultural_significance": {
+        "origin_story": "Dit gerecht is al generaties lang onderdeel van de Noord-Thaise culinaire cultuur en weerspiegelt de unieke kooktradities en lokale ingrediënten van de regio.",
+        "cultural_importance": "Dit gerecht vormt het hart van de Noord-Thaise keuken en toont de harmonie en balans waar Thaise gerechten wereldwijd om bekendstaan.",
+        "traditional_occasions": [
+          "Familiebijeenkomst",
+          "Lokale festivals",
+          "Straatvoedselmarkten",
+          "Speciale vieringen"
+        ]
+      },
+      "variations": [
+        {
+          "name": "Gaeng Hang Lay Classic",
+          "description": "Traditionele versie geserveerd in lokale huizen"
+        },
+        {
+          "name": "Gaeng Hang Lay Modern",
+          "description": "Moderne versie met premium ingrediënten"
+        },
+        {
+          "name": "Vegetarian Gaeng Hang Lay",
+          "description": "Vegetarische versie met tofu of paddenstoelen"
+        }
+      ],
+      "serving_suggestions": {
+        "traditional_accompaniments": [
+          "Jasmijnrijst",
+          "Verse groenten",
+          "Thaise kruiden"
+        ],
+        "presentation": "Geserveerd op traditionele Thaise borden",
+        "eating_etiquette": "Eet met lepel en vork volgens Thaise traditie"
+      },
+      "where_to_find": {
+        "best_restaurants": [
+          "Lokale Noord-Thaise restaurants",
+          "Authentieke straatkraampjes",
+          "Traditionele markten",
+          "Familiegerunde eetgelegenheden"
+        ],
+        "street_food_areas": [
+          "Nachtmarkten",
+          "Ochtendmarkten",
+          "Lokale foodcourts"
+        ],
+        "price_ranges": {
+          "street_vendor": "50-80 THB",
+          "market_stall": "60-100 THB",
+          "restaurant": "100-200 THB"
+        }
+      },
+      "translated_at": "2026-03-14T00:00:00.000Z"
+    },
+    "ja": {
+      "enhanced_description": "Gaeng hang lay is een rijk en geurig Noord-Thais currygerecht met een subtiele warmte. Het gebruikt buikspek en is een milde curry met Burmese invloeden. Dit recept duurt ongeveer 90 minuten en is van middelniveau, en brengt de authentieke smaken van Noord-Thaise keuken tot leven. Noord-Thaise gerechten kenmerken zich door milde smaken, kleefrijst en kruiden. De combinatie van buikspek, sjalotten en knoflook creëert een harmonieuze smaak die geliefd is bij locals en bezoekers. Perfect voor wie betaalbare authentieke Thaise keuken zoekt.",
+      "detailed_ingredients": [
+        {
+          "name": "Pork belly",
+          "purpose": "Essentieel voor de authentieke smaak van Gaeng Hang Lay",
+          "substitutes": [
+            "Vers buikspek",
+            "Gedroogd buikspek",
+            "Buikspekpasta"
+          ]
+        },
+        {
+          "name": "Shallots",
+          "purpose": "Essentieel voor de authentieke smaak van Gaeng Hang Lay",
+          "substitutes": [
+            "Verse sjalotten",
+            "Gedroogde sjalotten",
+            "Sjalottenpasta"
+          ]
+        },
+        {
+          "name": "Garlic",
+          "purpose": "Essentieel voor de authentieke smaak van Gaeng Hang Lay",
+          "substitutes": [
+            "Verse knoflook",
+            "Gedroogde knoflook",
+            "Knoflookpasta"
+          ]
+        },
+        {
+          "name": "Ginger",
+          "purpose": "Essentieel voor de authentieke smaak van Gaeng Hang Lay",
+          "substitutes": [
+            "Verse gember",
+            "Gedroogde gember",
+            "Gemberpasta"
+          ]
+        }
+      ],
+      "cooking_method": {
+        "technique": "Currypasta fruiten en kokosmelk indikken",
+        "steps_overview": "De bereiding van Gaeng Hang Lay vereist aandacht voor details en de juiste timing. Het evenwicht van smaken behouden terwijl de textuur van elk ingrediënt intact blijft, is essentieel. De traditionele methode, doorgegeven door generaties, garandeert een authentieke smaak.",
+        "cooking_tips": [
+          "Gebruik vers buikspek voor het beste resultaat",
+          "Pas de hoeveelheid specerijen aan naar gewenste pittigheid",
+          "Kook niet te lang om de textuur te behouden",
+          "Proef en breng op smaak voor het serveren"
+        ]
+      },
+      "cultural_significance": {
+        "origin_story": "Gaeng hang lay is al generaties lang een vast onderdeel van de Noord-Thaise keuken en weerspiegelt de unieke kooktradities en lokale ingrediënten van de regio.",
+        "cultural_importance": "Dit gerecht symboliseert het hart van de Noord-Thaise keuken en toont de harmonie en balans waar Thaise gerechten wereldwijd om bekendstaan.",
+        "traditional_occasions": [
+          "Familiebijeenkomst",
+          "Lokale festivals",
+          "Straatmarkten",
+          "Speciale vieringen"
+        ]
+      },
+      "variations": [
+        {
+          "name": "Gaeng Hang Lay Classic（ゲーン・ハン・レイ・クラシック）",
+          "description": "Traditionele versie geserveerd in lokale huizen"
+        },
+        {
+          "name": "Gaeng Hang Lay Modern（ゲーン・ハン・レイ・モダン）",
+          "description": "Moderne versie met premium ingrediënten"
+        },
+        {
+          "name": "Vegetarian Gaeng Hang Lay（ベジタリアン・ゲーン・ハン・レイ）",
+          "description": "Plantaardige versie met tofu of paddenstoelen"
+        }
+      ],
+      "serving_suggestions": {
+        "traditional_accompaniments": [
+          "Jasmijnrijst",
+          "Verse groenten",
+          "Thaise kruiden"
+        ],
+        "presentation": "Geserveerd op borden in traditionele Thaise stijl.",
+        "eating_etiquette": "Eet met vork en lepel volgens Thaise gewoonten."
+      },
+      "where_to_find": {
+        "best_restaurants": [
+          "Lokale Noord-Thaise restaurants",
+          "Authentieke straatkraampjes",
+          "Traditionele markten",
+          "Familiegerunde eetgelegenheden"
+        ],
+        "street_food_areas": [
+          "Nachtmarkten",
+          "Ochtendverse markten",
+          "Lokale foodcourts"
+        ],
+        "price_ranges": {
+          "street_vendor": "50-80 THB",
+          "market_stall": "60-100 THB",
+          "restaurant": "100-200 THB"
+        }
+      },
+      "translated_at": "2026-03-14T00:00:00.000Z"
+    }
+  }
+}

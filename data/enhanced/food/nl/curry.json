@@ -1,0 +1,271 @@
+[
+  {
+    "id": 5,
+    "slug": "green-curry",
+    "name": {
+      "en": "Green Curry",
+      "nl": "Groene Curry",
+      "thai": "แกงเขียวหวาน"
+    },
+    "category": "curry",
+    "region": "centraal",
+    "spice_level": "pittig",
+    "description": {
+      "en": "Spicy green curry with coconut milk Thai eggplant and basil",
+      "nl": "Pittige groene curry met kokosmelk Thaise aubergine en basilicum"
+    },
+    "ingredients": [
+      "groene currypasta",
+      "kokosmelk",
+      "Thaise aubergine",
+      "basilicum",
+      "vissaus",
+      "palmsuiker"
+    ],
+    "allergens": [],
+    "dietary": [
+      "vegetarische optie"
+    ],
+    "image": "/images/food/green-curry.webp",
+    "preparation_time": "25 minuten",
+    "difficulty": "middel",
+    "price_range": "middenklasse",
+    "seo": {
+      "metaTitle": {
+        "en": "Green Curry Recipe | Authentic Thai curry",
+        "nl": "Groene Curry Recept | Authentieke Thaise curry"
+      },
+      "metaDescription": {
+        "en": "Learn about Green Curry (แกงเขียวหวาน) - Spicy green curry with coconut milk Thai eggplant and basil...",
+        "nl": "Leer over Groene Curry (แกงเขียวหวาน) - Pittige groene curry met kokosmelk Thaise aubergine en basilicum..."
+      }
+    },
+    "tags": [
+      "Thaise keuken",
+      "Thailand",
+      "curry",
+      "centraal",
+      "pittig",
+      "middel",
+      "middenklasse",
+      "groene-currypasta",
+      "kokosmelk",
+      "Thaise-aubergine"
+    ],
+    "cooking": {
+      "preparation_time": "25 minuten",
+      "difficulty": "middel",
+      "spice_level": "pittig",
+      "serves": "2-4 personen"
+    },
+    "nutrition": {
+      "allergens": [],
+      "dietary": [
+        "vegetarische optie"
+      ],
+      "price_range": "middenklasse"
+    }
+  },
+  {
+    "id": 7,
+    "slug": "massaman-curry",
+    "name": {
+      "en": "Massaman Curry",
+      "nl": "Massaman Curry",
+      "thai": "แกงมัสมั่น"
+    },
+    "category": "curry",
+    "region": "zuidelijk",
+    "spice_level": "middel",
+    "description": {
+      "en": "Rich and mild curry with Persian influences containing potatoes and peanuts",
+      "nl": "Rijke en milde curry met Perzische invloeden met aardappelen en pinda's"
+    },
+    "ingredients": [
+      "massamanpasta",
+      "kokosmelk",
+      "rundvlees",
+      "aardappelen",
+      "pinda's",
+      "tamarinde"
+    ],
+    "allergens": [
+      "noten"
+    ],
+    "dietary": [],
+    "image": "/images/food/massaman-curry.webp",
+    "preparation_time": "45 minuten",
+    "difficulty": "middel",
+    "price_range": "middenklasse",
+    "seo": {
+      "metaTitle": {
+        "en": "Massaman Curry Recipe | Authentic Thai curry",
+        "nl": "Massaman Curry Recept | Authentieke Thaise curry"
+      },
+      "metaDescription": {
+        "en": "Learn about Massaman Curry (แกงมัสมั่น) - Rich and mild curry with Persian influences containing potatoes and peanuts...",
+        "nl": "Leer over Massaman Curry (แกงมัสมั่น) - Rijke en milde curry met Perzische invloeden met aardappelen en pinda's..."
+      }
+    },
+    "tags": [
+      "Thaise keuken",
+      "Thailand",
+      "curry",
+      "zuidelijk",
+      "middel",
+      "middel",
+      "middenklasse",
+      "massaman-pasta",
+      "kokosmelk",
+      "rundvlees"
+    ],
+    "cooking": {
+      "preparation_time": "45 minuten",
+      "difficulty": "middel",
+      "spice_level": "middel",
+      "serves": "2-4 personen"
+    },
+    "nutrition": {
+      "allergens": [
+        "noten"
+      ],
+      "dietary": [],
+      "price_range": "middenklasse"
+    }
+  },
+  {
+    "id": 16,
+    "slug": "gaeng-hang-lay",
+    "name": {
+      "en": "Gaeng Hang Lay",
+      "nl": "Gaeng Hang Lay",
+      "thai": "แกงฮังเล"
+    },
+    "category": "curry",
+    "region": "noordelijk",
+    "spice_level": "mild",
+    "description": {
+      "en": "Mild curry with pork belly and Burmese influences",
+      "nl": "Milde curry met varkensbuik en Birmese invloeden"
+    },
+    "ingredients": [
+      "buikspek",
+      "sjalotten",
+      "knoflook",
+      "gember",
+      "tamarinde",
+      "pinda's",
+      "palmsuiker"
+    ],
+    "allergens": [
+      "noten"
+    ],
+    "dietary": [],
+    "image": "/images/food/gaeng-hang-lay.webp",
+    "preparation_time": "90 minuten",
+    "difficulty": "middel",
+    "price_range": "middenklasse",
+    "seo": {
+      "metaTitle": {
+        "en": "Gaeng Hang Lay Recipe | Authentic Thai curry",
+        "nl": "Gaeng Hang Lay Recept | Authentieke Thaise curry"
+      },
+      "metaDescription": {
+        "en": "Learn about Gaeng Hang Lay (แกงฮังเล) - Mild curry with pork belly and Burmese influences...",
+        "nl": "Leer over Gaeng Hang Lay (แกงฮังเล) - Milde curry met varkensbuik en Birmese invloeden..."
+      }
+    },
+    "tags": [
+      "Thaise keuken",
+      "Thailand",
+      "curry",
+      "noordelijk",
+      "mild",
+      "middel",
+      "middenklasse",
+      "buikspek",
+      "sjalotten",
+      "knoflook"
+    ],
+    "cooking": {
+      "preparation_time": "90 minuten",
+      "difficulty": "middel",
+      "spice_level": "mild",
+      "serves": "2-4 personen"
+    },
+    "nutrition": {
+      "allergens": [
+        "noten"
+      ],
+      "dietary": [],
+      "price_range": "middenklasse"
+    }
+  },
+  {
+    "id": 44,
+    "slug": "gaeng-tai-pla",
+    "name": {
+      "en": "Gaeng Tai Pla",
+      "nl": "Gaeng Tai Pla",
+      "thai": "แกงไตปลา"
+    },
+    "category": "curry",
+    "region": "zuidelijk",
+    "spice_level": "zeer pittig",
+    "description": {
+      "en": "Intensely spicy southern fish organ curry",
+      "nl": "Intens pittige zuidelijke visorganen curry"
+    },
+    "ingredients": [
+      "visorganen",
+      "chili",
+      "citroengras",
+      "kurkuma",
+      "groenten",
+      "vissaus"
+    ],
+    "allergens": [
+      "zeevruchten"
+    ],
+    "dietary": [],
+    "image": "/images/food/gaeng-tai-pla.webp",
+    "preparation_time": "40 minuten",
+    "difficulty": "moeilijk",
+    "price_range": "budget",
+    "seo": {
+      "metaTitle": {
+        "en": "Gaeng Tai Pla Recipe | Authentic Thai curry",
+        "nl": "Gaeng Tai Pla Recept | Authentieke Thaise curry"
+      },
+      "metaDescription": {
+        "en": "Learn about Gaeng Tai Pla (แกงไตปลา) - Intensely spicy southern fish organ curry...",
+        "nl": "Leer over Gaeng Tai Pla (แกงไตปลา) - Intens pittige zuidelijke visorganen curry..."
+      }
+    },
+    "tags": [
+      "Thaise keuken",
+      "Thailand",
+      "curry",
+      "zuidelijk",
+      "zeer pittig",
+      "moeilijk",
+      "budget",
+      "vis-organen",
+      "chili",
+      "citroengras"
+    ],
+    "cooking": {
+      "preparation_time": "40 minuten",
+      "difficulty": "moeilijk",
+      "spice_level": "zeer pittig",
+      "serves": "2-4 personen"
+    },
+    "nutrition": {
+      "allergens": [
+        "zeevruchten"
+      ],
+      "dietary": [],
+      "price_range": "budget"
+    }
+  }
+]

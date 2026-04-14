@@ -1,0 +1,57 @@
+{
+  "id": 1,
+  "slug": "thai-iced-tea",
+  "name": {
+    "en": "Thai Iced Tea",
+    "nl": "Thaise IJsthee",
+    "thai": "ชาเย็น"
+  },
+  "category": "thee",
+  "type": "koud",
+  "description": {
+    "en": "Strong black tea with condensed milk and evaporated milk served over ice",
+    "nl": "Sterke zwarte thee met gecondenseerde melk en verdampte melk geserveerd over ijs"
+  },
+  "ingredients": [
+    "zwarte thee",
+    "gecondenseerde melk",
+    "verdampte melk",
+    "suiker",
+    "ijs"
+  ],
+  "allergens": [
+    "zuivel"
+  ],
+  "dietary": [
+    "vegetarisch"
+  ],
+  "image": "/images/drinks/thai-iced-tea.webp",
+  "temperature": "koud",
+  "alcohol_content": "geen",
+  "caffeine": "hoog",
+  "price_range": "budget",
+  "region": "centraal",
+  "occasions": [
+    "streetfood",
+    "restaurants"
+  ],
+  "seo": {
+    "metaTitle": {
+      "en": "Thai Iced Tea Recipe | Authentic Thai tea",
+      "nl": "Thaise IJsthee Recept | Authentieke Thaise tea"
+    },
+    "metaDescription": {
+      "en": "Learn about Thai Iced Tea (ชาเย็น) - Strong black tea with condensed milk and evaporated milk served over ice",
+      "nl": "Leer over Thaise IJsthee (ชาเย็น) - Sterke zwarte thee met gecondenseerde melk en verdampte melk geserveerd over ijs"
+    }
+  },
+  "tags": [
+    "thaise-dranken",
+    "Thailand",
+    "thee",
+    "koud",
+    "koud",
+    "streetfood",
+    "restaurants"
+  ]
+}

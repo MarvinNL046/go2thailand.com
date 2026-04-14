@@ -1,0 +1,992 @@
+{
+  "id": 14,
+  "slug": "sai-ua",
+  "name": {
+    "en": "Sai Ua",
+    "nl": "Sai Ua",
+    "thai": "ไส้อั่ว"
+  },
+  "category": "hoofdgerecht",
+  "region": "noordelijk",
+  "spice_level": "pittig",
+  "description": {
+    "en": "Spicy northern Thai sausage with herbs and spices",
+    "nl": "Pittige noordelijke Thaise worst met kruiden en specerijen"
+  },
+  "ingredients": [
+    "varkensvlees",
+    "citroengras",
+    "kaffir limoenbladeren",
+    "sjalotten",
+    "knoflook",
+    "chili",
+    "galanga"
+  ],
+  "allergens": [],
+  "dietary": [],
+  "image": "/images/food/sai-ua.webp",
+  "preparation_time": "60 minuten",
+  "difficulty": "moeilijk",
+  "price_range": "middenklasse",
+  "seo": {
+    "metaTitle": {
+      "en": "Sai Ua Recipe | Authentic Thai main dish",
+      "nl": "Sai Ua Recept | Authentieke Thaise main dish"
+    },
+    "metaDescription": {
+      "en": "Learn about Sai Ua (ไส้อั่ว) - Spicy northern Thai sausage with herbs and spices...",
+      "nl": "Leer over Sai Ua (ไส้อั่ว) - Pittige noordelijke Thaise worst met kruiden en specerijen..."
+    }
+  },
+  "tags": [
+    "thais-eten",
+    "thailand",
+    "hoofdgerecht",
+    "noordelijk",
+    "pittig",
+    "moeilijk",
+    "middenklasse",
+    "varkensvlees",
+    "citroengras",
+    "kaffir-limoenbladeren"
+  ],
+  "cooking": {
+    "preparation_time": "60 minuten",
+    "difficulty": "moeilijk",
+    "spice_level": "pittig",
+    "serves": "2-4 personen"
+  },
+  "nutrition": {
+    "allergens": [],
+    "dietary": [],
+    "price_range": "middenklasse"
+  },
+  "enhanced_description": "Sai Ua is een geliefd stevig en bevredigend hoofdgerecht uit Noord-Thailand dat vurig en gedurfd is. Pittige noordelijke Thaise worst met kruiden en specerijen. Dit moeilijke recept duurt ongeveer 60 minuten om te bereiden en vertegenwoordigt de authentieke smaken van de Noord-Thaise keuken, gekenmerkt door mildere smaken, kleefrijst en kruiden. De combinatie van varkensvlees, citroengras en kaffir limoenbladeren creëert een harmonieuze mengeling die dit gerecht tot een favoriet heeft gemaakt onder zowel locals als bezoekers. Perfect voor wie op zoek is naar betaalbare authentieke Thaise keuken.",
+  "detailed_ingredients": [
+    {
+      "name": "Pork",
+      "purpose": "Essentieel voor authentieke Sai Ua smaak",
+      "substitutes": [
+        "Vers varkensvlees",
+        "Gedroogd varkensvlees",
+        "varkensvlees pasta"
+      ]
+    },
+    {
+      "name": "Lemongrass",
+      "purpose": "Essentieel voor authentieke Sai Ua smaak",
+      "substitutes": [
+        "Vers citroengras",
+        "Gedroogd citroengras",
+        "citroengras pasta"
+      ]
+    },
+    {
+      "name": "Kaffir lime leaves",
+      "purpose": "Essentieel voor authentieke Sai Ua smaak",
+      "substitutes": [
+        "Verse kaffir limoenbladeren",
+        "Gedroogde kaffir limoenbladeren",
+        "kaffir limoenbladeren pasta"
+      ]
+    },
+    {
+      "name": "Shallots",
+      "purpose": "Essentieel voor authentieke Sai Ua smaak",
+      "substitutes": [
+        "Verse sjalotten",
+        "Gedroogde sjalotten",
+        "sjalotten pasta"
+      ]
+    }
+  ],
+  "cooking_method": {
+    "technique": "Roerbakken of grillen",
+    "steps_overview": "Het bereiden van Sai Ua vereist aandacht voor detail en juiste timing. De sleutel is om alle smaken in balans te brengen terwijl de textuur van elk ingrediënt behouden blijft. Traditionele methoden die van generatie op generatie zijn doorgegeven, zorgen voor een authentieke smaak.",
+    "cooking_tips": [
+      "Gebruik vers varkensvlees voor het beste resultaat",
+      "Pas het pittigheidsniveau aan naar voorkeur",
+      "Kook niet te lang om textuur te behouden",
+      "Proef en pas kruiding aan voor serveren"
+    ]
+  },
+  "cultural_significance": {
+    "origin_story": "Sai Ua is al generaties lang een vast onderdeel van de Noord-Thaise keuken en weerspiegelt de unieke culinaire tradities en lokale ingrediënten van de regio.",
+    "cultural_importance": "Dit gerecht vertegenwoordigt het hart van de Noord-Thaise kookkunst en toont de balans en harmonie waarvoor de Thaise keuken wereldwijd beroemd is.",
+    "traditional_occasions": [
+      "Familiebijeenkomsten",
+      "Lokale festivals",
+      "Streetfoodmarkten",
+      "Bijzondere vieringen"
+    ]
+  },
+  "variations": [
+    {
+      "name": "Sai Ua Classic",
+      "description": "De traditionele versie zoals geserveerd in lokale huizen"
+    },
+    {
+      "name": "Sai Ua Modern",
+      "description": "Moderne twist met premium ingrediënten"
+    },
+    {
+      "name": "Vegetarian Sai Ua",
+      "description": "Plantaardige versie met tofu of paddenstoelen"
+    }
+  ],
+  "serving_suggestions": {
+    "traditional_accompaniments": [
+      "Jasmijnrijst",
+      "Verse groenten",
+      "Thaise kruiden"
+    ],
+    "presentation": "Geserveerd op een bord in traditionele Thaise stijl",
+    "eating_etiquette": "Genoten met vork en lepel volgens Thais gebruik"
+  },
+  "nutritional_info": {
+    "calories_per_serving": "300-500 calorieën",
+    "health_benefits": [
+      "Rijk aan Thaise kruiden en specerijen",
+      "Bron van eiwitten en groenten",
+      "Gebalanceerde smaken en voedingsstoffen"
+    ],
+    "dietary_notes": []
+  },
+  "where_to_find": {
+    "best_restaurants": [
+      "Lokale Noord-Thaise restaurants",
+      "Authentieke straatvoedselkraampjes",
+      "Traditionele markten",
+      "Familiegerunde eettentjes"
+    ],
+    "street_food_areas": [
+      "Nachtmarkten",
+      "Ochtendverse markten",
+      "Lokale foodcourts"
+    ],
+    "price_ranges": {
+      "street_vendor": "50-80 THB",
+      "market_stall": "60-100 THB",
+      "restaurant": "100-200 THB"
+    }
+  },
+  "translations": {
+    "nl": {
+      "enhanced_description": "Sai Ua is een geliefd stevig en smaakvol hoofdgerecht uit Noord-Thailand dat vurig en gedurfd is. Pittige noordelijke Thaise worst met kruiden en specerijen. Dit uitdagende recept vergt ongeveer 60 minuten bereidingstijd en vertegenwoordigt de authentieke smaken van de Noord-Thaise keuken, gekenmerkt door mildere smaken, kleefrijst en kruiden. De combinatie van varkensvlees, citroengras en kaffir limoenbladeren creëert een harmonieuze mix die dit gerecht tot een favoriet heeft gemaakt onder zowel locals als bezoekers. Perfect voor wie op zoek is naar betaalbare authentieke Thaise keuken.",
+      "detailed_ingredients": [
+        {
+          "name": "Varkensvlees",
+          "purpose": "Essentieel voor de authentieke Sai Ua smaak",
+          "substitutes": [
+            "Vers varkensvlees",
+            "Kipgehakt",
+            "Tofu"
+          ]
+        },
+        {
+          "name": "Citroengras",
+          "purpose": "Essentieel voor de authentieke Sai Ua smaak",
+          "substitutes": [
+            "Vers citroengras",
+            "Gedroogd citroengras",
+            "Citroengras pasta"
+          ]
+        },
+        {
+          "name": "Kaffir limoenbladeren",
+          "purpose": "Essentieel voor de authentieke Sai Ua smaak",
+          "substitutes": [
+            "Verse kaffir limoenbladeren",
+            "Gedroogde kaffir limoenbladeren",
+            "Limoenrasp"
+          ]
+        },
+        {
+          "name": "Sjalotten",
+          "purpose": "Essentieel voor de authentieke Sai Ua smaak",
+          "substitutes": [
+            "Verse sjalotten",
+            "Gedroogde sjalotten",
+            "Rode ui"
+          ]
+        }
+      ],
+      "cooking_method": {
+        "technique": "Grillen of bakken",
+        "steps_overview": "Het bereiden van Sai Ua vereist aandacht voor detail en goede timing. De sleutel is het balanceren van alle smaken terwijl de textuur van elk ingrediënt behouden blijft. Traditionele methoden die van generatie op generatie zijn doorgegeven, garanderen een authentieke smaak.",
+        "cooking_tips": [
+          "Gebruik vers varkensvlees voor het beste resultaat",
+          "Pas het pittigheidsgehalte aan naar je voorkeur",
+          "Kook niet te lang om de textuur te behouden",
+          "Proef en pas de kruiding aan voor het serveren"
+        ]
+      },
+      "cultural_significance": {
+        "origin_story": "Sai Ua is al generaties lang een vast onderdeel van de Noord-Thaise keuken en weerspiegelt de unieke culinaire tradities en lokale ingrediënten van de regio.",
+        "cultural_importance": "Dit gerecht vertegenwoordigt het hart van de Noord-Thaise kookkunst en toont de balans en harmonie waarmee de Thaise keuken wereldwijd beroemd is.",
+        "traditional_occasions": [
+          "Familiebijeenkomsten",
+          "Lokale festivals",
+          "Straatvoedselmarkten",
+          "Bijzondere vieringen"
+        ]
+      },
+      "variations": [
+        {
+          "name": "Sai Ua Klassiek",
+          "description": "De traditionele versie zoals geserveerd in lokale huishoudens"
+        },
+        {
+          "name": "Sai Ua Modern",
+          "description": "Hedendaagse variant met premium ingrediënten"
+        },
+        {
+          "name": "Vegetarische Sai Ua",
+          "description": "Plantaardige versie met tofu of paddenstoelen"
+        }
+      ],
+      "serving_suggestions": {
+        "traditional_accompaniments": [
+          "Jasmijnrijst",
+          "Verse groenten",
+          "Thaise kruiden"
+        ],
+        "presentation": "Geserveerd op een bord in traditionele Noord-Thaise stijl",
+        "eating_etiquette": "Gegeten met vork en lepel volgens Thais gebruik"
+      },
+      "where_to_find": {
+        "best_restaurants": [
+          "Lokale Noord-Thaise restaurants",
+          "Authentieke straatvoedselkramen",
+          "Traditionele markten",
+          "Familiebedrijfjes"
+        ],
+        "street_food_areas": [
+          "Nachtmarkten",
+          "Ochtendverse markten",
+          "Lokale food courts"
+        ]
+      },
+      "translated_at": "2026-03-10T00:00:00.000Z"
+    },
+    "fr": {
+      "enhanced_description": "Sai Ua is een geliefd stevig en smaakvol hoofdgerecht uit het noorden van Thailand, vurig en gedurfd. Een pittige worst uit Noord-Thailand met kruiden en specerijen. Dit moeilijke recept vereist ongeveer 60 minuten bereiding en vertegenwoordigt de authentieke smaken van de Noord-Thaise keuken, gekenmerkt door mildere smaken, kleefrijst en kruiden. De combinatie van varkensvlees, citroengras en kaffir limoenbladeren creëert een harmonieuze mengeling die dit gerecht een favoriet heeft gemaakt bij zowel locals als bezoekers. Perfect voor wie op zoek is naar redelijk geprijsde authentieke Thaise keuken.",
+      "detailed_ingredients": [
+        {
+          "name": "Porc",
+          "purpose": "Essentieel voor de authentieke Sai Ua smaak",
+          "substitutes": [
+            "Vers varkensvlees",
+            "Kipgehakt",
+            "Tofu"
+          ]
+        },
+        {
+          "name": "Citronnelle",
+          "purpose": "Essentieel voor de authentieke Sai Ua smaak",
+          "substitutes": [
+            "Vers citroengras",
+            "Gedroogd citroengras",
+            "Citroengras pasta"
+          ]
+        },
+        {
+          "name": "Feuilles de combava",
+          "purpose": "Essentieel voor de authentieke Sai Ua smaak",
+          "substitutes": [
+            "Verse kaffir limoenbladeren",
+            "Gedroogde kaffir limoenbladeren",
+            "Limoenrasp"
+          ]
+        },
+        {
+          "name": "Échalotes",
+          "purpose": "Essentieel voor de authentieke Sai Ua smaak",
+          "substitutes": [
+            "Verse sjalotten",
+            "Gedroogde sjalotten",
+            "Rode ui"
+          ]
+        }
+      ],
+      "cooking_method": {
+        "technique": "Roosteren of bakken in de pan",
+        "steps_overview": "De bereiding van Sai Ua vereist aandacht voor details en goed timing. De sleutel is het in evenwicht brengen van alle smaken terwijl de textuur van elk ingrediënt behouden blijft. Traditionele methoden die van generatie op generatie worden doorgegeven, garanderen een authentieke smaak.",
+        "cooking_tips": [
+          "Gebruik vers varkensvlees voor een beter resultaat",
+          "Pas het pittigheidsniveau aan volgens je voorkeuren",
+          "Kook niet te lang door om de textuur te behouden",
+          "Proef en pas de kruiding aan voor het serveren"
+        ]
+      },
+      "cultural_significance": {
+        "origin_story": "Sai Ua is al generaties lang een pilaar van de Noord-Thaise keuken en weerspiegelt de unieke culinaire tradities en lokale ingrediënten van de regio.",
+        "cultural_importance": "Dit gerecht vertegenwoordigt het hart van de Noord-Thaise keuken en illustreert de balans en harmonie die de Thaise keuken wereldwijd beroemd hebben gemaakt.",
+        "traditional_occasions": [
+          "Familiebijeenkomsten",
+          "Lokale festivals",
+          "Straatkeukemarkten",
+          "Speciale vieringen"
+        ]
+      },
+      "variations": [
+        {
+          "name": "Sai Ua Classique",
+          "description": "De traditionele versie zoals geserveerd in lokale huishoudens"
+        },
+        {
+          "name": "Sai Ua Moderne",
+          "description": "Moderne versie met premium ingrediënten"
+        },
+        {
+          "name": "Sai Ua Végétarien",
+          "description": "Plantaardige versie met tofu of champignons"
+        }
+      ],
+      "serving_suggestions": {
+        "traditional_accompaniments": [
+          "Jasmijnrijst",
+          "Verse groenten",
+          "Thaise kruiden"
+        ],
+        "presentation": "Geserveerd op een bord in de traditionele stijl van Noord-Thailand",
+        "eating_etiquette": "Genuttigd met vork en lepel volgens Thaise traditie"
+      },
+      "where_to_find": {
+        "best_restaurants": [
+          "Lokale restaurants in Noord-Thailand",
+          "Authentieke straatkraampjes",
+          "Traditionele markten",
+          "Familierestaurants"
+        ],
+        "street_food_areas": [
+          "Nachtmarkten",
+          "Verse ochtendmarkten",
+          "Lokale foodcourts"
+        ]
+      },
+      "translated_at": "2026-03-10T00:00:00.000Z"
+    },
+    "de": {
+      "enhanced_description": "Sai Ua is een geliefd, hartig en vullend hoofdgerecht uit Noord-Thailand, dat pittig en gedurfd is. Een pittige noordelijke Thaise worst met kruiden en specerijen. Dit uitdagende recept vereist ongeveer 60 minuten bereidingstijd en belichaamt de authentieke smaken van de noordelijke Thaise keuken, gekenmerkt door mildere tonen, kleefrijst en kruiden. De combinatie van varkensvlees, citroengras en kaffirlimoenblaadjes creëert een harmonieuze mix die dit gerecht zowel bij locals als bezoekers favoriet heeft gemaakt. Perfect voor wie betaalbare authentieke Thaise keuken zoekt.",
+      "detailed_ingredients": [
+        {
+          "name": "Schweinefleisch",
+          "purpose": "Onmisbaar voor de authentieke Sai Ua-smaak",
+          "substitutes": [
+            "Vers varkensvlees",
+            "Kipgehakt",
+            "Tofu"
+          ]
+        },
+        {
+          "name": "Zitronengras",
+          "purpose": "Onmisbaar voor de authentieke Sai Ua-smaak",
+          "substitutes": [
+            "Vers citroengras",
+            "Gedroogd citroengras",
+            "Citroengras pasta"
+          ]
+        },
+        {
+          "name": "Kaffir-Limettenblätter",
+          "purpose": "Onmisbaar voor de authentieke Sai Ua-smaak",
+          "substitutes": [
+            "Verse kaffirlimoenblaadjes",
+            "Gedroogde kaffirlimoenblaadjes",
+            "Limoenschil"
+          ]
+        },
+        {
+          "name": "Schalotten",
+          "purpose": "Onmisbaar voor de authentieke Sai Ua-smaak",
+          "substitutes": [
+            "Verse sjalotten",
+            "Gedroogde sjalotten",
+            "Rode ui"
+          ]
+        }
+      ],
+      "cooking_method": {
+        "technique": "Grillen of bakken",
+        "steps_overview": "De bereiding van Sai Ua vereist aandacht voor details en goed timen. De sleutel ligt in het balanceren van alle aroma's terwijl de textuur van elke ingrediënt behouden blijft. Traditionele methoden, doorgegeven van generatie op generatie, garanderen een authentieke smaak.",
+        "cooking_tips": [
+          "Gebruik vers varkensvlees voor het beste resultaat",
+          "Pas de pittigheid aan naar smaak",
+          "Niet te lang grillen om de textuur te behouden",
+          "Proeven en op smaak brengen voor het serveren"
+        ]
+      },
+      "cultural_significance": {
+        "origin_story": "Sai Ua is al generaties lang een vast onderdeel van de noordelijke Thaise keuken en weerspiegelt de unieke culinaire tradities en lokale ingrediënten van de regio.",
+        "cultural_importance": "Dit gerecht belichaamt het hart van de noordelijke Thaise kookkunst en toont de balans en harmonie waarvoor de Thaise keuken wereldwijd beroemd is.",
+        "traditional_occasions": [
+          "Familiebijeenkomsten",
+          "Lokale feesten",
+          "Straatvoedingsmarkten",
+          "Speciale vieringen"
+        ]
+      },
+      "variations": [
+        {
+          "name": "Sai Ua Klassisch",
+          "description": "De traditionele versie zoals geserveerd in lokale huishoudens"
+        },
+        {
+          "name": "Sai Ua Modern",
+          "description": "Moderne variant met hoogwaardige ingrediënten"
+        },
+        {
+          "name": "Vegetarische Sai Ua",
+          "description": "Plantaardige versie met tofu of paddenstoelen"
+        }
+      ],
+      "serving_suggestions": {
+        "traditional_accompaniments": [
+          "Jasmijnrijst",
+          "Verse groenten",
+          "Thaise kruiden"
+        ],
+        "presentation": "Geserveerd op een bord in de traditionele noordelijke Thaise stijl",
+        "eating_etiquette": "Gegeten met vork en lepel volgens Thaise gewoonte"
+      },
+      "where_to_find": {
+        "best_restaurants": [
+          "Lokale noordelijke Thaise restaurants",
+          "Authentieke straatsnackkraampjes",
+          "Traditionele markten",
+          "Familiegerunde etablissementen"
+        ],
+        "street_food_areas": [
+          "Nachtmarkten",
+          "Verse ochtendmarkten",
+          "Lokale foodcourts"
+        ]
+      },
+      "translated_at": "2026-03-10T00:00:00.000Z"
+    },
+    "zh": {
+      "enhanced_description": "Sai Ua is een geliefd hoofdgerecht uit Noord-Thailand met een intense en gedurfde smaak. Het is een pittige noordelijke Thaise worst gemaakt met kruiden en specerijen. Dit uitdagende recept vereist ongeveer 60 minuten bereidingstijd en vertegenwoordigt de authentieke smaken van de noordelijke Thaise keuken, met milde tonen, kleefrijst en kruiden. De combinatie van varkensvlees, citroengras en kaffirlimoenblaadjes creëert een harmonieuze smaak die dit gerecht geliefd maakt bij zowel locals als toeristen. Ideaal voor wie betaalbare authentieke Thaise gerechten zoekt.",
+      "detailed_ingredients": [
+        {
+          "name": "猪肉",
+          "purpose": "Essentiële ingrediënten voor de authentieke Sai Ua-smaak",
+          "substitutes": [
+            "Vers varkensvlees",
+            "Kipgehakt",
+            "Tofu"
+          ]
+        },
+        {
+          "name": "香茅",
+          "purpose": "Essentiële ingrediënten voor de authentieke Sai Ua-smaak",
+          "substitutes": [
+            "Vers citroengras",
+            "Gedroogd citroengras",
+            "Citroengras pasta"
+          ]
+        },
+        {
+          "name": "青柠叶",
+          "purpose": "Essentiële ingrediënten voor de authentieke Sai Ua-smaak",
+          "substitutes": [
+            "Verse kaffirlimoenblaadjes",
+            "Gedroogde kaffirlimoenblaadjes",
+            "Limoenschil"
+          ]
+        },
+        {
+          "name": "红葱头",
+          "purpose": "Essentiële ingrediënten voor de authentieke Sai Ua-smaak",
+          "substitutes": [
+            "Verse sjalotten",
+            "Gedroogde sjalotten",
+            "Rode ui"
+          ]
+        }
+      ],
+      "cooking_method": {
+        "technique": "Barbecuen of frituren",
+        "steps_overview": "De bereiding van Sai Ua vereist aandacht voor details en goed timen. De sleutel is het balanceren van alle smaken terwijl de textuur van elk ingrediënt behouden blijft. Traditionele methoden, doorgegeven van generatie op generatie, zorgen voor een authentieke smaak.",
+        "cooking_tips": [
+          "Gebruik vers varkensvlees voor het beste resultaat",
+          "Pas de pittigheid aan naar persoonlijke voorkeur",
+          "Niet te lang bakken om de textuur te behouden",
+          "Proeven en kruiden aanpassen voor het serveren"
+        ]
+      },
+      "cultural_significance": {
+        "origin_story": "Sai Ua is al generaties lang een pijler van de noordelijke Thaise keuken en weerspiegelt de unieke culinaire tradities en lokale ingrediënten van de regio.",
+        "cultural_importance": "Dit gerecht vertegenwoordigt de essentie van de noordelijke Thaise kookkunst en toont de balans en harmonie waarvoor de Thaise keuken wereldwijd bekendstaat.",
+        "traditional_occasions": [
+          "Familiebijeenkomsten",
+          "Lokale festivals",
+          "Straatvoedingsmarkten",
+          "Speciale vieringen"
+        ]
+      },
+      "variations": [
+        {
+          "name": "经典Sai Ua",
+          "description": "De traditionele versie zoals bereid in lokale families"
+        },
+        {
+          "name": "现代Sai Ua",
+          "description": "Moderne innovatieve versie met premium ingrediënten"
+        },
+        {
+          "name": "素食Sai Ua",
+          "description": "Plantaardige versie met tofu of paddenstoelen"
+        }
+      ],
+      "serving_suggestions": {
+        "traditional_accompaniments": [
+          "Jasmijnrijst",
+          "Verse groenten",
+          "Thaise kruiden"
+        ],
+        "presentation": "Geserveerd op een bord in de traditionele noordelijke Thaise stijl",
+        "eating_etiquette": "Gegeten met vork en lepel volgens Thaise traditie"
+      },
+      "where_to_find": {
+        "best_restaurants": [
+          "Lokale noordelijke Thaise restaurants",
+          "Authentieke straatvoedingskraampjes",
+          "Traditionele markten",
+          "Familiegerunde kleine restaurants"
+        ],
+        "street_food_areas": [
+          "Nachtmarkten",
+          "Verse ochtendmarkten",
+          "Lokale foodcourts"
+        ]
+      },
+      "translated_at": "2026-03-11T00:00:00.000Z"
+    },
+    "ru": {
+      "enhanced_description": "Sai Ua is een geliefd, vullend en smakelijk hoofdgerecht uit Noord-Thailand met een vurig en brutaal karakter. Een pittige noordelijke Thaise worst met kruiden en specerijen. Dit complexe recept vereist ongeveer 60 minuten bereiding en belichaamt de authentieke smaken van de noordelijke Thaise keuken, die zich onderscheidt door zachte tonen, kleefrijst en aromatische kruiden. De combinatie van varkensvlees, citroengras en kaffirlimoenblaadjes creëert een harmonieuze smaak die dit gerecht geliefd maakt bij zowel locals als toeristen. Een uitstekende keuze voor wie betaalbare authentieke Thaise keuken zoekt.",
+      "detailed_ingredients": [
+        {
+          "name": "Свинина",
+          "purpose": "Basis voor de authentieke Sai Ua-smaak",
+          "substitutes": [
+            "Vers varkensvlees",
+            "Kipgehakt",
+            "Tofu"
+          ]
+        },
+        {
+          "name": "Лемонграсс",
+          "purpose": "Basis voor de authentieke Sai Ua-smaak",
+          "substitutes": [
+            "Vers citroengras",
+            "Gedroogd citroengras",
+            "Citroengras pasta"
+          ]
+        },
+        {
+          "name": "Листья каффир-лайма",
+          "purpose": "Basis voor de authentieke Sai Ua-smaak",
+          "substitutes": [
+            "Verse kaffirlimoenblaadjes",
+            "Gedroogde kaffirlimoenblaadjes",
+            "Limoenschil"
+          ]
+        },
+        {
+          "name": "Шалот",
+          "purpose": "Basis voor de authentieke Sai Ua-smaak",
+          "substitutes": [
+            "Verse sjalot",
+            "Gedroogde sjalot",
+            "Rode ui"
+          ]
+        }
+      ],
+      "cooking_method": {
+        "technique": "Grillen of bakken",
+        "steps_overview": "De bereiding van Sai Ua vereist aandacht voor details en precieze timing. De sleutel is het balanceren van alle smaken terwijl de textuur van elk ingrediënt behouden blijft. Traditionele methoden, doorgegeven van generatie op generatie, garanderen een authentieke smaak.",
+        "cooking_tips": [
+          "Gebruik vers varkensvlees voor het beste resultaat",
+          "Pas de pittigheid aan naar smaak",
+          "Niet te lang bakken om de textuur te behouden",
+          "Proeven en kruiden aanpassen voor het serveren"
+        ]
+      },
+      "cultural_significance": {
+        "origin_story": "Sai Ua is al vele generaties een onvervangbaar onderdeel van de noordelijke Thaise keuken en weerspiegelt de unieke culinaire tradities en lokale ingrediënten van de regio.",
+        "cultural_importance": "Dit gerecht belichaamt de essentie van de culinaire kunst van Noord-Thailand en demonstreert de balans en harmonie waarvoor de Thaise keuken wereldwijd beroemd is.",
+        "traditional_occasions": [
+          "Familiebijeenkomsten",
+          "Lokale festivals",
+          "Markten met straatvoedsel",
+          "Speciale feesten"
+        ]
+      },
+      "variations": [
+        {
+          "name": "Классический Сай Уа",
+          "description": "De traditionele versie zoals bereid in lokale families"
+        },
+        {
+          "name": "Современный Сай Уа",
+          "description": "Moderne variant met premium ingrediënten"
+        },
+        {
+          "name": "Вегетарианский Сай Уа",
+          "description": "Plantaardige versie met tofu of paddenstoelen"
+        }
+      ],
+      "serving_suggestions": {
+        "traditional_accompaniments": [
+          "Jasmijnrijst",
+          "Verse groenten",
+          "Thaise kruiden"
+        ],
+        "presentation": "Geserveerd op een bord in de traditionele noordelijke Thaise stijl",
+        "eating_etiquette": "Gegeten met vork en lepel volgens Thaise gewoonte"
+      },
+      "where_to_find": {
+        "best_restaurants": [
+          "Lokale restaurants met noordelijke Thaise keuken",
+          "Authentieke straatkraampjes",
+          "Traditionele markten",
+          "Familiegerunde etablissementen"
+        ],
+        "street_food_areas": [
+          "Nachtmarkten",
+          "Verse ochtendmarkten",
+          "Lokale foodcourts"
+        ]
+      },
+      "translated_at": "2026-03-11T00:00:00.000Z"
+    },
+    "ko": {
+      "enhanced_description": "Sai Ua is een representatieve kruidenworst uit de noordelijke Lanna-regio van Thailand en een must-try als je Chiang Mai bezoekt. Het wordt gemaakt door meer dan 10 kruiden en specerijen zoals citroengras, galanga, kaffirlimoenblaadjes, sjalotten, knoflook en chili te mengen met gehakt varkensvlees, in varkensdarmen te stoppen en te grillen op houtskool. Bij de eerste hap is de buitenkant knapperig en barst de geurige smaak van citroengras en galanga naar buiten. Het vormt samen met nam phrik num (groene chilidip) en nam phrik ong (tomaat-varkensvleesdip) de 'drie essentiële elementen' van een Lanna-maaltijd, en met kleefrijst is het een perfecte noordelijke Thaise maaltijd.",
+      "detailed_ingredients": [
+        {
+          "name": "다진 돼지고기 (지방 포함)",
+          "purpose": "Hoofdingrediënt voor de worst, met voldoende vet voor vochtigheid en smaak",
+          "substitutes": [
+            "Gehakt kippenvlees",
+            "Tofu kruimels (voor vegetarisch)"
+          ]
+        },
+        {
+          "name": "레몬그라스 (따크라이)",
+          "purpose": "De kern van de Sai Ua-smaak — essentieel kruid dat een verfrissende citrusgeur toevoegt",
+          "substitutes": [
+            "Citroengras pasta"
+          ]
+        },
+        {
+          "name": "카피르 라임잎 (바이 마끄룻)",
+          "purpose": "Uniek kruid dat citrus- en bloemige aroma’s toevoegt voor diepte aan de worst",
+          "substitutes": [
+            "Limoenschil"
+          ]
+        },
+        {
+          "name": "갈랑갈 (카)",
+          "purpose": "Wortelkruid vergelijkbaar met gember maar scherper en met dennengeur",
+          "substitutes": [
+            "Gember (verschillende smaak maar vervangbaar)"
+          ]
+        },
+        {
+          "name": "샬롯과 마늘",
+          "purpose": "Ingrediënt dat de basis vormt voor aroma en umami",
+          "substitutes": [
+            "Rode ui + knoflook"
+          ]
+        },
+        {
+          "name": "건고추 (프릭헹)",
+          "purpose": "Kruiden die pittigheid en diepe kleur toevoegen",
+          "substitutes": [
+            "Chilipoeder",
+            "Verse chili"
+          ]
+        }
+      ],
+      "cooking_method": {
+        "technique": "Kruidenpasta maken + worst vullen + op houtskool grillen",
+        "steps_overview": "Eerst lemon grass, galanga, kaffir limoenblaadjes, sjalotten, knoflook, chili etc. in een vijzel malen tot kruidenpasta. Toevoegen aan gehakt varkensvlees met vis sauce en garnalenpasta, goed mengen. Mengsel in varkensdarmen vullen en op lengte binden. Langzaam draaiend boven houtskool grillen tot krokante buitenkant en sappige binnenkant.",
+        "cooking_tips": [
+          "Varkensvlees met vetverhouding 70:30 is ideaal — te mager wordt taai",
+          "Kruidenpasta in vijzel malen geeft veel diepere aroma dan met mes hakken",
+          "Te strak vullen laat de worst barsten bij grillen, laat ruimte",
+          "Langzaam grillen op middelhoog houtskoolvuur voor krokante buiten- en gelijkmatig gare binnenkant",
+          "Na grillen 5 minuten laten rusten zodat sappen stabiliseren en niet uitlopen bij snijden"
+        ]
+      },
+      "cultural_significance": {
+        "origin_story": "Sai Ua is een oud traditioneel gerecht uit het Lanna-koninkrijk (nu Noord-Thailand), 'sai' betekent darm, 'ua' vullen. Ontwikkeld als vleesbehoudingsmethode zonder koeling, met wijs gebruik van lokale kruiden en specerijen.",
+        "cultural_importance": "Sai Ua is samen met nam prik noom en nam prik ong een van de 'drie essentiële elementen' van Lanna-maaltijden, onmisbaar bij kan tok (Lanna-traditionele diner). Het vertegenwoordigt de identiteit van Chiang Mai, de geur van worst op houtskool in markten en straten is een iconisch aroma van de stad.",
+        "traditional_occasions": [
+          "Kan tok diner",
+          "Lanna traditioneel festival",
+          "Markt straateten",
+          "Familiebijeenkomsten",
+          "Tempel evenementen eten"
+        ]
+      },
+      "variations": [
+        {
+          "name": "사이우아 치앙마이",
+          "description": "Meest traditionele Chiang Mai-stijl, rijk aan kruiden met medium pittigheid."
+        },
+        {
+          "name": "사이우아 치앙라이",
+          "description": "Chiang Rai-stijl, tendens om pittiger te zijn dan Chiang Mai-versie."
+        },
+        {
+          "name": "사이우아 프레시",
+          "description": "Gemakkelijke thuisversie met plastic wrap in plaats van darmen."
+        },
+        {
+          "name": "사이우아 무크롭",
+          "description": "Langdurig gegrild voor zeer krokante buitenkant, populair als bierhapje."
+        }
+      ],
+      "serving_suggestions": {
+        "traditional_accompaniments": [
+          "Plakkerige rijst (khao niao) — essentieel",
+          "Nam prik noom (groene chili dip)",
+          "Nam prik ong (tomaat varkensvlees dip)",
+          "Kap moo (gefrituurd varkensvel)",
+          "Verse groenten (komkommer, kool, yardlong bonen)",
+          "Gemberschijfjes"
+        ],
+        "presentation": "Lange gegrilde worst in hapklare stukken snijden, serveren met plakkerige rijst en nam prik dip",
+        "eating_etiquette": "Plakkerige rijst met handen kneden, dippen met worststukjes in nam prik. Of eten met vork en lepel."
+      },
+      "where_to_find": {
+        "best_restaurants": [
+          "Chiang Mai Warorot Market (Kad Warorot)",
+          "Chiang Mai Old City Kan Tok Diner Restaurants",
+          "Chiang Mai Ton Payom Market",
+          "Chiang Rai Night Market"
+        ],
+        "street_food_areas": [
+          "Chiang Mai San Kamphaeng Road Morning Market",
+          "Chiang Mai Night Bazaar",
+          "Chiang Mai Sunday Walking Street",
+          "Mae Hong Son Morning Market"
+        ],
+        "price_ranges": {
+          "street_food": "40-80 THB (1 lijn)",
+          "restaurant": "80-150 THB",
+          "upscale": "150-300 THB"
+        }
+      },
+      "translated_at": "2026-03-14T00:00:00.000Z"
+    },
+    "th": {
+      "enhanced_description": "Sai Ua is een noordelijke worst gevuld met diverse kruiden zoals citroengras, kaffir limoenblaadjes, chili, galanga, knoflook, sjalotten. Het is een typisch noordelijk Thais gerecht dat toeristen moeten proberen.",
+      "detailed_ingredients": [
+        {
+          "name": "Pork",
+          "purpose": "Essentieel voor de authentieke Sai Ua-smaak",
+          "substitutes": [
+            "Vers varkensvlees",
+            "Gedroogd varkensvlees",
+            "Varkenspasta"
+          ]
+        },
+        {
+          "name": "Lemongrass",
+          "purpose": "Essentieel voor de authentieke Sai Ua-smaak",
+          "substitutes": [
+            "Verse citroengras",
+            "Gedroogde citroengras",
+            "Citroengras pasta"
+          ]
+        },
+        {
+          "name": "Kaffir lime leaves",
+          "purpose": "Essentieel voor de authentieke Sai Ua-smaak",
+          "substitutes": [
+            "Verse kaffir limoenblaadjes",
+            "Gedroogde kaffir limoenblaadjes",
+            "Kaffir limoenblaadjes pasta"
+          ]
+        },
+        {
+          "name": "Shallots",
+          "purpose": "Essentieel voor de authentieke Sai Ua-smaak",
+          "substitutes": [
+            "Verse sjalotten",
+            "Gedroogde sjalotten",
+            "Sjalotten pasta"
+          ]
+        }
+      ],
+      "cooking_method": {
+        "technique": "Roerbakken of grillen",
+        "steps_overview": "De bereiding van Sai Ua vereist aandacht voor details en juiste timing. Belangrijk is de balans van alle smaken terwijl de textuur van elk kruid behouden blijft. De traditionele methode, doorgegeven over generaties, garandeert authentieke smaak.",
+        "cooking_tips": [
+          "Gebruik vers varkensvlees voor het beste resultaat",
+          "Pas pittigheid aan naar smaak",
+          "Kook niet te lang om textuur te behouden",
+          "Proef en kruid af voor serveren"
+        ]
+      },
+      "cultural_significance": {
+        "origin_story": "Dit gerecht is al generaties lang deel van de Noord-Thaise voedselcultuur, weerspiegelt unieke kooktradities en lokale ingrediënten van de regio.",
+        "cultural_importance": "Dit gerecht is het hart van de Noord-Thaise keuken, toont de balans en harmonie waar Thaise keuken wereldwijd beroemd om is.",
+        "traditional_occasions": [
+          "Familiebijeenkomsten",
+          "Lokale festivals",
+          "Straatmarkten eten",
+          "Speciale vieringen"
+        ]
+      },
+      "variations": [
+        {
+          "name": "Sai Ua Classic",
+          "description": "Traditionele versie geserveerd in lokale huizen"
+        },
+        {
+          "name": "Sai Ua Modern",
+          "description": "Moderne versie met premium ingrediënten"
+        },
+        {
+          "name": "Vegetarian Sai Ua",
+          "description": "Vegetarische versie met tofu of paddenstoelen"
+        }
+      ],
+      "serving_suggestions": {
+        "traditional_accompaniments": [
+          "Jasmijnrijst",
+          "Verse groenten",
+          "Thaise kruiden"
+        ],
+        "presentation": "Serveren op traditionele Thaise schaal",
+        "eating_etiquette": "Eten met lepel en vork volgens Thaise traditie"
+      },
+      "where_to_find": {
+        "best_restaurants": [
+          "Lokale Noord-Thaise restaurants",
+          "Authentieke straatvoedsel kraampjes",
+          "Traditionele markten",
+          "Familie-restaurants"
+        ],
+        "street_food_areas": [
+          "Nachtmarkten",
+          "Ochtendmarkten",
+          "Lokale voedselhoven"
+        ],
+        "price_ranges": {
+          "street_vendor": "50-80 THB",
+          "market_stall": "60-100 THB",
+          "restaurant": "100-200 THB"
+        }
+      },
+      "translated_at": "2026-03-14T00:00:00.000Z"
+    },
+    "ja": {
+      "enhanced_description": "Sai Ua is een Noord-Thais standaardgerecht, pittig en vullend als hoofdgerecht. Noord-Thaise worst met kruiden en specerijen, duurt ca. 60 minuten om te maken. De authentieke Noord-Thaise smaak kenmerkt zich door aromatische kruiden en de kleverigheid van kleefrijst voor unieke balans. Combinatie van varkensvlees, citroengras en kaffir limoenblaadjes creëert harmonieuze smaak, geliefd bij locals en bezoekers. Ideaal voor wie betaalbare authentieke Thaise keuken wil proeven.",
+      "detailed_ingredients": [
+        {
+          "name": "豚肉",
+          "purpose": "Essentieel voor authentieke Sai Ua-smaak",
+          "substitutes": [
+            "Vers varkensvlees",
+            "Gedroogd varkensvlees",
+            "Varkenspasta"
+          ]
+        },
+        {
+          "name": "レモングラス",
+          "purpose": "Essentieel voor authentieke Sai Ua-smaak",
+          "substitutes": [
+            "Verse citroengras",
+            "Gedroogde citroengras",
+            "Citroengras pasta"
+          ]
+        },
+        {
+          "name": "カフィアライムの葉",
+          "purpose": "Essentieel voor authentieke Sai Ua-smaak",
+          "substitutes": [
+            "Verse kaffir limoenblaadjes",
+            "Gedroogde kaffir limoenblaadjes",
+            "Kaffir limoenblaadjes pasta"
+          ]
+        },
+        {
+          "name": "シャロット",
+          "purpose": "Essentieel voor authentieke Sai Ua-smaak",
+          "substitutes": [
+            "Verse sjalotten",
+            "Gedroogde sjalotten",
+            "Sjalotten pasta"
+          ]
+        }
+      ],
+      "cooking_method": {
+        "technique": "Techniek: roerbakken of grillen",
+        "steps_overview": "Bereiding van Sai Ua vereist aandacht voor details en juiste timing. Sleutel is alle smaken in balans brengen terwijl textuur van ingrediënten behouden blijft. Traditionele methode, doorgegeven over generaties, garandeert authentieke smaak.",
+        "cooking_tips": [
+          "Gebruik vers varkensvlees voor beste resultaat",
+          "Pas pittigheid aan naar wens",
+          "Niet te veel verhitten om textuur te behouden",
+          "Proef en pas kruiden aan voor opdienen"
+        ]
+      },
+      "cultural_significance": {
+        "origin_story": "Sai Ua is al generaties lang een Noord-Thais standaardgerecht, weerspiegelt unieke kooktradities en lokale ingrediënten van de regio.",
+        "cultural_importance": "Dit gerecht belichaamt het hart van de Noord-Thaise keuken, met de harmonie en balans waar Thaise keuken wereldwijd om bekendstaat.",
+        "traditional_occasions": [
+          "Familiebijeenkomsten",
+          "Lokale festivals",
+          "Straat kraampjes markten",
+          "Speciale vieringen"
+        ]
+      },
+      "variations": [
+        {
+          "name": "Sai Ua Classic",
+          "description": "Traditionele versie in lokale huizen geserveerd"
+        },
+        {
+          "name": "Sai Ua Modern",
+          "description": "Moderne twist met premium ingrediënten"
+        },
+        {
+          "name": "Vegetarian Sai Ua",
+          "description": "Plantaardige versie met tofu of paddenstoelen"
+        }
+      ],
+      "serving_suggestions": {
+        "traditional_accompaniments": [
+          "Jasmijnrijst",
+          "Verse groenten",
+          "Thaise kruiden"
+        ],
+        "presentation": "Serveren op traditionele Thaise wijze op schaal",
+        "eating_etiquette": "Eten met vork en lepel volgens Thaise gewoonte"
+      },
+      "where_to_find": {
+        "best_restaurants": [
+          "Lokale Noord-Thaise restaurants",
+          "Authentieke straatvoedsel kraampjes",
+          "Traditionele markten",
+          "Familie-gerunde eetgelegenheden"
+        ],
+        "street_food_areas": [
+          "Nachtmarkten",
+          "Ochtend verse markten",
+          "Lokale voedselhoven"
+        ],
+        "price_ranges": {
+          "street_vendor": "50-80 THB",
+          "market_stall": "60-100 THB",
+          "restaurant": "100-200 THB"
+        }
+      },
+      "translated_at": "2026-03-14T00:00:00.000Z"
+    }
+  }
+}

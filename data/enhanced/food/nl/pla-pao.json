@@ -1,0 +1,977 @@
+{
+  "id": 23,
+  "slug": "pla-pao",
+  "name": {
+    "en": "Pla Pao",
+    "nl": "Pla Pao",
+    "thai": "ปลาเผา"
+  },
+  "category": "hoofdgerecht",
+  "region": "centraal",
+  "spice_level": "mild",
+  "description": {
+    "en": "Grilled fish in salt crust served with spicy seafood sauce",
+    "nl": "Gegrilde vis in zoutkorst geserveerd met pittige zeevruchtensaus"
+  },
+  "ingredients": [
+    "hele vis",
+    "grof zout",
+    "citroengras",
+    "limoenbladeren",
+    "zeevruchtensaus"
+  ],
+  "allergens": [
+    "zeevruchten"
+  ],
+  "dietary": [],
+  "image": "/images/food/pla-pao.webp",
+  "preparation_time": "40 minuten",
+  "difficulty": "gemiddeld",
+  "price_range": "middenklasse",
+  "seo": {
+    "metaTitle": {
+      "en": "Pla Pao Recipe | Authentic Thai main dish",
+      "nl": "Pla Pao Recept | Authentieke Thaise main dish"
+    },
+    "metaDescription": {
+      "en": "Learn about Pla Pao (ปลาเผา) - Grilled fish in salt crust served with spicy seafood sauce...",
+      "nl": "Leer over Pla Pao (ปลาเผา) - Gegrilde vis in zoutkorst geserveerd met pittige zeevruchtensaus..."
+    }
+  },
+  "tags": [
+    "thais-eten",
+    "thailand",
+    "hoofdgerecht",
+    "centraal",
+    "mild",
+    "gemiddeld",
+    "middenklasse",
+    "hele-vis",
+    "grof-zout",
+    "citroengras"
+  ],
+  "cooking": {
+    "preparation_time": "40 minuten",
+    "difficulty": "gemiddeld",
+    "spice_level": "mild",
+    "serves": "2-4 personen"
+  },
+  "nutrition": {
+    "allergens": [
+      "zeevruchten"
+    ],
+    "dietary": [],
+    "price_range": "middenklasse"
+  },
+  "enhanced_description": "Pla Pao is een geliefd stevig en smaakvol hoofdgerecht uit Centraal-Thailand met een subtiele warmte. Gegrilde vis in zoutkorst geserveerd met pittige zeevruchtensaus. Dit recept met gemiddelde moeilijkheidsgraad vergt ongeveer 40 minuten bereidingstijd en vertegenwoordigt de authentieke smaken van de Centraal-Thaise keuken die zoete, zure, zoute en pittige smaken perfect in balans brengt. De combinatie van hele vis, grof zout, citroengras creëert een harmonieuze mix die dit gerecht tot een favoriet heeft gemaakt onder zowel locals als bezoekers. Perfect voor wie op zoek is naar betaalbare authentieke Thaise keuken.",
+  "detailed_ingredients": [
+    {
+      "name": "Whole fish",
+      "purpose": "Essentieel voor authentieke Pla Pao smaak",
+      "substitutes": [
+        "Verse hele vis",
+        "Gedroogde hele vis",
+        "vispasta"
+      ]
+    },
+    {
+      "name": "Coarse salt",
+      "purpose": "Essentieel voor authentieke Pla Pao smaak",
+      "substitutes": [
+        "Vers grof zout",
+        "Gedroogd grof zout",
+        "grozoutpasta"
+      ]
+    },
+    {
+      "name": "Lemongrass",
+      "purpose": "Essentieel voor authentieke Pla Pao smaak",
+      "substitutes": [
+        "Vers citroengras",
+        "Gedroogd citroengras",
+        "citroengraspasta"
+      ]
+    },
+    {
+      "name": "Lime leaves",
+      "purpose": "Essentieel voor authentieke Pla Pao smaak",
+      "substitutes": [
+        "Verse limoenbladeren",
+        "Gedroogde limoenbladeren",
+        "limoenbladerenpasta"
+      ]
+    }
+  ],
+  "cooking_method": {
+    "technique": "Roerbakken of grillen",
+    "steps_overview": "Het bereiden van Pla Pao vereist aandacht voor detail en goede timing. De sleutel is het balanceren van alle smaken terwijl de textuur van elk ingrediënt behouden blijft. Traditionele methoden die van generatie op generatie zijn doorgegeven, garanderen een authentieke smaak.",
+    "cooking_tips": [
+      "Gebruik verse hele vis voor het beste resultaat",
+      "Pas het pittigheidsniveau aan naar voorkeur",
+      "Kook niet te lang door om textuur te behouden",
+      "Proef en pas kruiding aan voor serveren"
+    ]
+  },
+  "cultural_significance": {
+    "origin_story": "Pla Pao is al generaties lang een vast onderdeel van de Centraal-Thaise keuken en weerspiegelt de unieke culinaire tradities en lokale ingrediënten van de regio.",
+    "cultural_importance": "Dit gerecht vertegenwoordigt het hart van de Centraal-Thaise kookkunst en toont de balans en harmonie waarmee de Thaise keuken wereldwijd beroemd is.",
+    "traditional_occasions": [
+      "Familiebijeenkomsten",
+      "Lokale festivals",
+      "Straatvoedselmarkten",
+      "Bijzondere vieringen"
+    ]
+  },
+  "variations": [
+    {
+      "name": "Pla Pao Classic",
+      "description": "De traditionele versie zoals geserveerd in lokale huizen"
+    },
+    {
+      "name": "Pla Pao Modern",
+      "description": "Moderne twist met premium ingrediënten"
+    },
+    {
+      "name": "Vegetarian Pla Pao",
+      "description": "Plantaardige versie met tofu of paddenstoelen"
+    }
+  ],
+  "serving_suggestions": {
+    "traditional_accompaniments": [
+      "Jasmijnrijst",
+      "Verse groenten",
+      "Thaise kruiden"
+    ],
+    "presentation": "Geserveerd op een bord in traditionele Thaise stijl",
+    "eating_etiquette": "Genoten met vork en lepel volgens Thais gebruik"
+  },
+  "nutritional_info": {
+    "calories_per_serving": "300-500 calorieën",
+    "health_benefits": [
+      "Rijk aan Thaise kruiden en specerijen",
+      "Bron van eiwitten en groenten",
+      "Gebalanceerde smaken en voedingsstoffen"
+    ],
+    "dietary_notes": []
+  },
+  "where_to_find": {
+    "best_restaurants": [
+      "Lokale Centraal-Thaise restaurants",
+      "Authentieke straatvoedselkraampjes",
+      "Traditionele markten",
+      "Familiegerunde eetgelegenheden"
+    ],
+    "street_food_areas": [
+      "Nachtmarkten",
+      "Ochtendverse markten",
+      "Pla Pao is een geliefd stevig en smaakvol hoofdgerecht uit Centraal-Thailand met een subtiele warmte. Gegrilde vis in zoutkorst geserveerd met pittige zeevruchtensaus. Dit recept met gemiddelde moeilijkheidsgraad vergt ongeveer 40 minuten bereidingstijd en vertegenwoordigt de authentieke smaken van de Centraal-Thaise keuken die zoete, zure, zoute en pittige smaken perfect in balans brengt. De combinatie van hele vis, grof zout en citroengras creëert een harmonieuze mix die dit gerecht tot een favoriet heeft gemaakt onder zowel locals als bezoekers. Perfect voor wie op zoek is naar betaalbare authentieke Thaise keuken."
+    ],
+    "price_ranges": {
+      "street_vendor": "50-80 THB",
+      "market_stall": "60-100 THB",
+      "restaurant": "100-200 THB"
+    }
+  },
+  "translations": {
+    "nl": {
+      "enhanced_description": "Essentieel voor de authentieke Pla Pao smaak",
+      "detailed_ingredients": [
+        {
+          "name": "Hele vis",
+          "purpose": "Verse hele vis",
+          "substitutes": [
+            "Tilapia",
+            "Zeebaars",
+            "Essentieel voor de authentieke Pla Pao smaak"
+          ]
+        },
+        {
+          "name": "Grof zout",
+          "purpose": "Zeezout",
+          "substitutes": [
+            "Steenzout",
+            "Himalayazout",
+            "Essentieel voor de authentieke Pla Pao smaak"
+          ]
+        },
+        {
+          "name": "Citroengras",
+          "purpose": "Vers citroengras",
+          "substitutes": [
+            "Gedroogd citroengras",
+            "Citroengras pasta",
+            "Essentieel voor de authentieke Pla Pao smaak"
+          ]
+        },
+        {
+          "name": "Limoenbladeren",
+          "purpose": "Verse limoenbladeren",
+          "substitutes": [
+            "Gedroogde limoenbladeren",
+            "Limoenrasp",
+            "Grillen in zoutkorst"
+          ]
+        }
+      ],
+      "cooking_method": {
+        "technique": "Het bereiden van Pla Pao vereist aandacht voor detail en goede timing. De sleutel is het balanceren van alle smaken terwijl de textuur van elk ingrediënt behouden blijft. Traditionele methoden die van generatie op generatie zijn doorgegeven, garanderen een authentieke smaak.",
+        "steps_overview": "Gebruik verse hele vis voor het beste resultaat",
+        "cooking_tips": [
+          "Pas het pittigheidsgehalte aan naar je voorkeur",
+          "Kook niet te lang om de textuur te behouden",
+          "Proef en pas de kruiding aan voor het serveren",
+          "Pla Pao is al generaties lang een vast onderdeel van de Centraal-Thaise keuken en weerspiegelt de unieke culinaire tradities en lokale ingrediënten van de regio."
+        ]
+      },
+      "cultural_significance": {
+        "origin_story": "Dit gerecht vertegenwoordigt het hart van de Centraal-Thaise kookkunst en toont de balans en harmonie waarmee de Thaise keuken wereldwijd beroemd is.",
+        "cultural_importance": "Familiebijeenkomsten",
+        "traditional_occasions": [
+          "Lokale festivals",
+          "Straatvoedselmarkten",
+          "Bijzondere vieringen",
+          "De traditionele versie zoals geserveerd in lokale huishoudens"
+        ]
+      },
+      "variations": [
+        {
+          "name": "Pla Pao Klassiek",
+          "description": "Hedendaagse variant met premium ingrediënten"
+        },
+        {
+          "name": "Pla Pao Modern",
+          "description": "Plantaardige versie met tofu of paddenstoelen"
+        },
+        {
+          "name": "Vegetarische Pla Pao",
+          "description": "Jasmijnrijst"
+        }
+      ],
+      "serving_suggestions": {
+        "traditional_accompaniments": [
+          "Verse groenten",
+          "Thaise kruiden",
+          "Geserveerd op een bord in traditionele Centraal-Thaise stijl"
+        ],
+        "presentation": "Gegeten met vork en lepel volgens Thais gebruik",
+        "eating_etiquette": "Lokale Centraal-Thaise restaurants"
+      },
+      "where_to_find": {
+        "best_restaurants": [
+          "Authentieke straatvoedselkramen",
+          "Traditionele markten",
+          "Familiebedrijfjes",
+          "Nachtmarkten"
+        ],
+        "street_food_areas": [
+          "Ochtendverse markten",
+          "Lokale food courts",
+          "Pla Pao is een geliefd stevig en smaakvol hoofdgerecht uit Centraal-Thailand met een subtiele warmte. Gegrilde vis in zoutkorst geserveerd met pittige zeevruchtensaus. Dit recept met gemiddelde moeilijkheidsgraad vergt ongeveer 40 minuten bereidingstijd en vertegenwoordigt de authentieke smaken van de Centraal-Thaise keuken die zoete, zure, zoute en pittige smaken perfect in balans brengt. De combinatie van hele vis, grof zout en citroengras creëert een harmonieuze mix die dit gerecht tot een favoriet heeft gemaakt onder zowel locals als bezoekers. Perfect voor wie op zoek is naar betaalbare authentieke Thaise keuken."
+        ]
+      },
+      "translated_at": "2026-03-10T00:00:00.000Z"
+    },
+    "fr": {
+      "enhanced_description": "Essentieel voor de authentieke Pla Pao smaak",
+      "detailed_ingredients": [
+        {
+          "name": "Poisson entier",
+          "purpose": "Verse hele vis",
+          "substitutes": [
+            "Tilapia",
+            "Zeebaars",
+            "Essentieel voor de authentieke Pla Pao smaak"
+          ]
+        },
+        {
+          "name": "Gros sel",
+          "purpose": "Zeezout",
+          "substitutes": [
+            "Steenzout",
+            "Himalayazout",
+            "Essentieel voor de authentieke Pla Pao smaak"
+          ]
+        },
+        {
+          "name": "Citronnelle",
+          "purpose": "Vers citroengras",
+          "substitutes": [
+            "Gedroogd citroengras",
+            "Citroengras pasta",
+            "Essentieel voor de authentieke Pla Pao smaak"
+          ]
+        },
+        {
+          "name": "Feuilles de combava",
+          "purpose": "Verse limoenbladeren",
+          "substitutes": [
+            "Gedroogde limoenbladeren",
+            "Limoenrasp",
+            "Grillen in zoutkorst"
+          ]
+        }
+      ],
+      "cooking_method": {
+        "technique": "Het bereiden van Pla Pao vereist aandacht voor detail en goede timing. De sleutel is het balanceren van alle smaken terwijl de textuur van elk ingrediënt behouden blijft. Traditionele methoden die van generatie op generatie zijn doorgegeven, garanderen een authentieke smaak.",
+        "steps_overview": "Gebruik verse hele vis voor het beste resultaat",
+        "cooking_tips": [
+          "Pas het pittigheidsgehalte aan naar je voorkeur",
+          "Kook niet te lang om de textuur te behouden",
+          "Proef en pas de kruiding aan voor het serveren",
+          "Pla Pao is al generaties lang een vast onderdeel van de Centraal-Thaise keuken en weerspiegelt de unieke culinaire tradities en lokale ingrediënten van de regio."
+        ]
+      },
+      "cultural_significance": {
+        "origin_story": "Dit gerecht vertegenwoordigt het hart van de Centraal-Thaise kookkunst en toont de balans en harmonie waarmee de Thaise keuken wereldwijd beroemd is.",
+        "cultural_importance": "Familiebijeenkomsten",
+        "traditional_occasions": [
+          "Lokale festivals",
+          "Straatvoedselmarkten",
+          "Bijzondere vieringen",
+          "De traditionele versie zoals geserveerd in lokale huishoudens"
+        ]
+      },
+      "variations": [
+        {
+          "name": "Pla Pao Classique",
+          "description": "De traditionele versie zoals geserveerd in lokale huizen"
+        },
+        {
+          "name": "Pla Pao Moderne",
+          "description": "Moderne versie met premium ingrediënten"
+        },
+        {
+          "name": "Pla Pao Végétarien",
+          "description": "Vegetarische versie met tofu of paddenstoelen"
+        }
+      ],
+      "serving_suggestions": {
+        "traditional_accompaniments": [
+          "Jasmijnrijst",
+          "Verse groenten",
+          "Thaise kruiden"
+        ],
+        "presentation": "Geserveerd op een bord in de traditionele stijl van Midden-Thailand",
+        "eating_etiquette": "Gegeten met vork en lepel volgens Thaise gewoonte"
+      },
+      "where_to_find": {
+        "best_restaurants": [
+          "Lokale restaurants in Midden-Thailand",
+          "Authentieke straatkraampjes",
+          "Traditionele markten",
+          "Familierestaurants"
+        ],
+        "street_food_areas": [
+          "Nachtmarkten",
+          "Verse ochtendmarkten",
+          "Lokale foodcourts"
+        ]
+      },
+      "translated_at": "2026-03-10T00:00:00.000Z"
+    },
+    "de": {
+      "enhanced_description": "Pla Pao is een geliefd, hartig en vullend hoofdgerecht uit Midden-Thailand met een subtiele pittigheid. Gegrilde vis in zoutkorst, geserveerd met pittige zeevruchtensaus. Dit recept van gemiddelde moeilijkheid vereist ongeveer 40 minuten bereidingstijd en belichaamt de authentieke smaken van de Midden-Thaise keuken, die zoet, zuur, zout en pittig perfect in balans brengt. De combinatie van hele vis, grof zout en citroengras creëert een harmonieuze mix die dit gerecht zowel bij locals als bij bezoekers favoriet maakt. Perfect voor wie betaalbare authentieke Thaise keuken zoekt.",
+      "detailed_ingredients": [
+        {
+          "name": "Ganzer Fisch",
+          "purpose": "Onmisbaar voor de authentieke Pla Pao-smaak",
+          "substitutes": [
+            "Verse hele vis",
+            "Tilapia",
+            "Wolfsbaars"
+          ]
+        },
+        {
+          "name": "Grobes Salz",
+          "purpose": "Onmisbaar voor de authentieke Pla Pao-smaak",
+          "substitutes": [
+            "Zegezout",
+            "Steenzout",
+            "Himalayazout"
+          ]
+        },
+        {
+          "name": "Zitronengras",
+          "purpose": "Onmisbaar voor de authentieke Pla Pao-smaak",
+          "substitutes": [
+            "Vers citroengras",
+            "Gedroogd citroengras",
+            "Citroengras pasta"
+          ]
+        },
+        {
+          "name": "Limettenblätter",
+          "purpose": "Onmisbaar voor de authentieke Pla Pao-smaak",
+          "substitutes": [
+            "Verse limoenblaadjes",
+            "Gedroogde limoenblaadjes",
+            "Limoenschil"
+          ]
+        }
+      ],
+      "cooking_method": {
+        "technique": "Grillen in zoutkorst",
+        "steps_overview": "De bereiding van Pla Pao vereist aandacht voor details en goed timing. De sleutel ligt in het balanceren van alle smaken terwijl de textuur van elke ingrediënt behouden blijft. Traditionele methoden, doorgegeven van generatie op generatie, garanderen een authentieke smaak.",
+        "cooking_tips": [
+          "Gebruik verse hele vis voor het beste resultaat",
+          "Pas de pittigheid aan naar smaak",
+          "Niet te lang grillen om de textuur te behouden",
+          "Proef en kruid af voor het serveren"
+        ]
+      },
+      "cultural_significance": {
+        "origin_story": "Pla Pao is al generaties lang een vast onderdeel van de Midden-Thaise keuken en weerspiegelt de unieke culinaire tradities en lokale ingrediënten van de regio.",
+        "cultural_importance": "Dit gerecht belichaamt het hart van de Midden-Thaise kookkunst en toont de balans en harmonie waarvoor de Thaise keuken wereldwijd beroemd is.",
+        "traditional_occasions": [
+          "Familiebijeenkomsten",
+          "Lokale feesten",
+          "Straatvoedselmarkten",
+          "Speciale vieringen"
+        ]
+      },
+      "variations": [
+        {
+          "name": "Pla Pao Klassisch",
+          "description": "De traditionele versie, zoals geserveerd in lokale huishoudens"
+        },
+        {
+          "name": "Pla Pao Modern",
+          "description": "Moderne variant met hoogwaardige ingrediënten"
+        },
+        {
+          "name": "Vegetarische Pla Pao",
+          "description": "Plantaardige versie met tofu of paddenstoelen"
+        }
+      ],
+      "serving_suggestions": {
+        "traditional_accompaniments": [
+          "Jasmijnrijst",
+          "Verse groenten",
+          "Thaise kruiden"
+        ],
+        "presentation": "Geserveerd op een bord in de traditionele Midden-Thaise stijl",
+        "eating_etiquette": "Gegeten met vork en lepel volgens Thaise traditie"
+      },
+      "where_to_find": {
+        "best_restaurants": [
+          "Lokale Midden-Thaise restaurants",
+          "Authentieke straatkraampjes",
+          "Traditionele markten",
+          "Familiegerunde etablissementen"
+        ],
+        "street_food_areas": [
+          "Nachtmarkten",
+          "Verse ochtendmarkten",
+          "Lokale foodcourts"
+        ]
+      },
+      "translated_at": "2026-03-10T00:00:00.000Z"
+    },
+    "zh": {
+      "enhanced_description": "Pla Pao is een geliefd, hartig en vullend hoofdgerecht uit Midden-Thailand met een subtiele pittigheid. Gegrilde vis in zoutkorst, geserveerd met pittige zeevruchtensaus. Dit recept van gemiddelde moeilijkheid vereist ongeveer 40 minuten bereidingstijd en belichaamt de authentieke smaken van de Midden-Thaise keuken, die zoet, zuur, zout en pittig perfect in balans brengt. De combinatie van hele vis, grof zout en citroengras creëert een harmonieuze mix die dit gerecht zowel bij locals als bij bezoekers favoriet maakt. Perfect voor wie betaalbare authentieke Thaise keuken zoekt.",
+      "detailed_ingredients": [
+        {
+          "name": "全鱼",
+          "purpose": "Onmisbaar voor de authentieke Pla Pao-smaak",
+          "substitutes": [
+            "Verse hele vis",
+            "Tilapia",
+            "Barsch"
+          ]
+        },
+        {
+          "name": "粗盐",
+          "purpose": "Onmisbaar voor de authentieke Pla Pao-smaak",
+          "substitutes": [
+            "Zegezout",
+            "Rotszout",
+            "Himalayazout"
+          ]
+        },
+        {
+          "name": "香茅",
+          "purpose": "Onmisbaar voor de authentieke Pla Pao-smaak",
+          "substitutes": [
+            "Vers citroengras",
+            "Gedroogd citroengras",
+            "Citroengras pasta"
+          ]
+        },
+        {
+          "name": "青柠叶",
+          "purpose": "Onmisbaar voor de authentieke Pla Pao-smaak",
+          "substitutes": [
+            "Verse kaffirlimoenblaadjes",
+            "Gedroogde kaffirlimoenblaadjes",
+            "Kaffirlimoenschil"
+          ]
+        }
+      ],
+      "cooking_method": {
+        "technique": "Grillen in zoutkorst",
+        "steps_overview": "De bereiding van Pla Pao vereist aandacht voor details en goed timing. De sleutel ligt in het balanceren van alle smaken terwijl de textuur van elke ingrediënt behouden blijft. Traditionele methoden, doorgegeven van generatie op generatie, garanderen een authentieke smaak.",
+        "cooking_tips": [
+          "Gebruik verse hele vis voor het beste resultaat",
+          "Pas de pittigheid aan naar smaak",
+          "Niet te lang grillen om de textuur te behouden",
+          "Proef en kruid af voor het serveren"
+        ]
+      },
+      "cultural_significance": {
+        "origin_story": "Pla Pao is al generaties lang een vast onderdeel van de Midden-Thaise keuken en weerspiegelt de unieke culinaire tradities en lokale ingrediënten van de regio.",
+        "cultural_importance": "Dit gerecht belichaamt het hart van de Midden-Thaise kookkunst en toont de balans en harmonie waarvoor de Thaise keuken wereldwijd beroemd is.",
+        "traditional_occasions": [
+          "Familiebijeenkomsten",
+          "Lokale feesten",
+          "Straatvoedselmarkten",
+          "Speciale vieringen"
+        ]
+      },
+      "variations": [
+        {
+          "name": "经典Pla Pao",
+          "description": "De traditionele versie, zoals bereid in lokale huishoudens"
+        },
+        {
+          "name": "现代Pla Pao",
+          "description": "Moderne variant met premium ingrediënten"
+        },
+        {
+          "name": "素食Pla Pao",
+          "description": "Vegetarische versie met tofu of paddenstoelen"
+        }
+      ],
+      "serving_suggestions": {
+        "traditional_accompaniments": [
+          "Jasmijnrijst",
+          "Verse groenten",
+          "Thaise kruiden"
+        ],
+        "presentation": "Geserveerd op een bord in de traditionele Midden-Thaise stijl",
+        "eating_etiquette": "Gegeten met vork en lepel volgens Thaise traditie"
+      },
+      "where_to_find": {
+        "best_restaurants": [
+          "Lokale Midden-Thaise restaurants",
+          "Authentieke straatkraampjes",
+          "Traditionele markten",
+          "Familiegerunde eetgelegenheden"
+        ],
+        "street_food_areas": [
+          "Nachtmarkten",
+          "Ochtendmarkten",
+          "Lokale foodcourts"
+        ]
+      },
+      "translated_at": "2026-03-11T00:00:00.000Z"
+    },
+    "ru": {
+      "enhanced_description": "Pla Pao is een geliefd, hartig en vullend hoofdgerecht uit Midden-Thailand met een subtiele pittigheid. Gegrilde vis in zoutkorst, geserveerd met pittige zeevruchtensaus. Dit recept van gemiddelde moeilijkheid vereist ongeveer 40 minuten bereidingstijd en belichaamt de authentieke smaken van de Midden-Thaise keuken, die zoet, zuur, zout en pittig perfect in balans brengt. De combinatie van hele vis, grof zout en citroengras creëert een harmonieuze mix die dit gerecht zowel bij locals als bij bezoekers favoriet maakt. Perfect voor wie betaalbare authentieke Thaise keuken zoekt.",
+      "detailed_ingredients": [
+        {
+          "name": "Целая рыба",
+          "purpose": "Onmisbaar voor de authentieke Pla Pao-smaak",
+          "substitutes": [
+            "Verse hele vis",
+            "Tilapia",
+            "Zeebaars"
+          ]
+        },
+        {
+          "name": "Крупная соль",
+          "purpose": "Onmisbaar voor de authentieke Pla Pao-smaak",
+          "substitutes": [
+            "Zegezout",
+            "Steenzout",
+            "Himalayazout"
+          ]
+        },
+        {
+          "name": "Лемонграсс",
+          "purpose": "Onmisbaar voor de authentieke Pla Pao-smaak",
+          "substitutes": [
+            "Vers citroengras",
+            "Gedroogd citroengras",
+            "Citroengras pasta"
+          ]
+        },
+        {
+          "name": "Листья лайма",
+          "purpose": "Onmisbaar voor de authentieke Pla Pao-smaak",
+          "substitutes": [
+            "Verse limoenblaadjes",
+            "Gedroogde limoenblaadjes",
+            "Limoenschil"
+          ]
+        }
+      ],
+      "cooking_method": {
+        "technique": "Grillen in zoutkorst",
+        "steps_overview": "De bereiding van Pla Pao vereist aandacht voor details en goed timing. De sleutel ligt in het balanceren van alle smaken terwijl de textuur van elke ingrediënt behouden blijft. Traditionele methoden, doorgegeven van generatie op generatie, garanderen een authentieke smaak.",
+        "cooking_tips": [
+          "Gebruik verse hele vis voor het beste resultaat",
+          "Pas de pittigheid aan naar smaak",
+          "Niet te lang grillen om de textuur te behouden",
+          "Proef en kruid af voor het serveren"
+        ]
+      },
+      "cultural_significance": {
+        "origin_story": "Pla Pao is al generaties lang een vast onderdeel van de Midden-Thaise keuken en weerspiegelt de unieke culinaire tradities en lokale ingrediënten van de regio.",
+        "cultural_importance": "Dit gerecht belichaamt het hart van de Midden-Thaise kookkunst en toont de balans en harmonie waarvoor de Thaise keuken wereldwijd beroemd is.",
+        "traditional_occasions": [
+          "Familiebijeenkomsten",
+          "Lokale festivals",
+          "Straatvoedselmarkten",
+          "Speciale gelegenheden"
+        ]
+      },
+      "variations": [
+        {
+          "name": "Классический Pla Pao",
+          "description": "De traditionele versie, zoals bereid in lokale huizen"
+        },
+        {
+          "name": "Современный Pla Pao",
+          "description": "Moderne interpretatie met premium ingrediënten"
+        },
+        {
+          "name": "Вегетарианский Pla Pao",
+          "description": "Plantaardige versie met tofu of paddenstoelen"
+        }
+      ],
+      "serving_suggestions": {
+        "traditional_accompaniments": [
+          "Jasmijnrijst",
+          "Verse groenten",
+          "Thaise kruiden"
+        ],
+        "presentation": "Geserveerd op een bord in de traditionele Midden-Thaise stijl",
+        "eating_etiquette": "Gegeten met vork en lepel volgens Thaise gewoonte"
+      },
+      "where_to_find": {
+        "best_restaurants": [
+          "Lokale Midden-Thaise restaurants",
+          "Authentieke straatstalletjes",
+          "Traditionele markten",
+          "Familie-eetgelegenheden"
+        ],
+        "street_food_areas": [
+          "Nachtmarkten",
+          "Ochtendverse markten",
+          "Lokale foodcourts"
+        ]
+      },
+      "translated_at": "2026-03-11T00:00:00.000Z"
+    },
+    "ko": {
+      "enhanced_description": "Pla Pao is een van de meest geliefde gegrilde gerechten in Thailand, waarbij een hele vis dik wordt ingepakt in grof zout en langzaam wordt gegrild op houtskool. De zoutkorst fungeert als een oven die het vocht en de smaak van de vis vasthoudt, en bij het breken van de korst komt een verrassend sappige en aromatische vis tevoorschijn. In de buik van de vis worden Thaise kruiden zoals citroengras, kaffir limoenblaadjes en galanga gestopt voor extra aroma. Het zicht van vissen, wit ingepakt in zout en rijdend op houtskool bij straatkraampjes, is een vertrouwd tafereel overal in Thailand.",
+      "detailed_ingredients": [
+        {
+          "name": "통생선 (주로 틸라피아/쁠라닌)",
+          "purpose": "De meest gebruikte vis, met een geschikte grootte en stevig vlees dat perfect is voor zoutgrillen",
+          "substitutes": [
+            "Snapper (Pla Kapon)",
+            "Katvis (Pla Duk)",
+            "Domi"
+          ]
+        },
+        {
+          "name": "굵은 소금 (끌르아)",
+          "purpose": "Belangrijk ingrediënt dat de vis omhult om een oveneffect te creëren, vocht vasthoudt en gelijkmatig gaart",
+          "substitutes": [
+            "Zeezout",
+            "Rotszout"
+          ]
+        },
+        {
+          "name": "레몬그라스 (따크라이)",
+          "purpose": "Kruiden die in de buik van de vis worden gestopt om smaak toe te voegen en visgeur te verwijderen",
+          "substitutes": [
+            "Citroengras pasta",
+            "Citroenschil (reserve)"
+          ]
+        },
+        {
+          "name": "카피르 라임잎 (바이 마끄룻)",
+          "purpose": "Essentiële Thaise kruid die een unieke citrusgeur toevoegt",
+          "substitutes": [
+            "Limetschil",
+            "Citroenblad"
+          ]
+        }
+      ],
+      "cooking_method": {
+        "technique": "Zoutkorst gebakken op houtskool",
+        "steps_overview": "Verwijder de ingewanden van de vis en stop citroengras, kaffirlimoenblaadjes en galanga in de buik. Meng grof zout met een beetje water tot een deegachtige massa en wikkel de hele vis dik in. Leg op houtskool en bak 20-30 minuten, terwijl je de vis omdraait. Wanneer het zout hard is geworden, is het klaar. Voor het eten breek je de zoutkorst open en serveer met nam jim seafood saus (nam jim talay).",
+        "cooking_tips": [
+          "Meng het zout met een beetje water zodat het goed aan de vis plakt",
+          "De zoutlaag moet minstens 1 cm dik zijn voor een goed effect",
+          "Bak langzaam op middelhoog vuur van de houtskool zodat de binnenkant gelijkmatig gaart",
+          "Wanneer de ogen van de vis wit worden, is het een teken dat het gaar is",
+          "Zonder nam jim dipsaus is het niet compleet — serveer het er altijd bij"
+        ]
+      },
+      "cultural_significance": {
+        "origin_story": "Pla pao komt uit een oude Thaise traditie van koken op houtskool. In tijden zonder koeling was het inpakken en bakken van vis in zout een slimme manier om te bewaren en te koken tegelijk. Tegenwoordig is het een typisch straatgerecht dat je vindt bij stalletjes en markten overal in Thailand.",
+        "cultural_importance": "Pla pao vertegenwoordigt de Thaise outdoorkeuken. Het is een must tijdens familie-uitjes, strandtrips en markten, vooral in de Isan (noordoostelijke) regio waar het traditioneel met kleefrijst en som tam (papajasalade) wordt gegeten. De geur van houtskoolrook en het plezier van de zoutkorst breken zijn de charme van dit gerecht.",
+        "traditional_occasions": [
+          "Familie-uitje",
+          "Strandmaaltijd",
+          "Straatvoedsel",
+          "Markteten",
+          "Isan-set (som tam + kleefrijst + pla pao)"
+        ]
+      },
+      "variations": [
+        {
+          "name": "쁠라파오 끌르아 (소금 구이)",
+          "description": "De meest traditionele manier, gewikkeld in grof zout en gebakken op houtskool."
+        },
+        {
+          "name": "쁠라파오 쏨땀 세트",
+          "description": "Isan-stijl met papajasalade en kleefrijst als set."
+        },
+        {
+          "name": "쁠라까퐁파오",
+          "description": "Luxe versie met barramundi, populair in visrestaurants."
+        }
+      ],
+      "serving_suggestions": {
+        "traditional_accompaniments": [
+          "Nam jim talay (pittig-zure seafood dipsaus)",
+          "Kleefrijst of jasmijnrijst",
+          "Som tam (papajasalade)",
+          "Verse groenten (komkommer, kool, yardlong bonen)"
+        ],
+        "presentation": "Het traditionele manier is om de vis met zoutkorst op het bord te serveren en de korst voor de gast te breken",
+        "eating_etiquette": "Schep het visvlees met vork en lepel en dip in nam jim saus. Met kleefrijst eet je het soms met de hand door rijst te kneden en met vis te combineren."
+      },
+      "where_to_find": {
+        "best_restaurants": [
+          "Straat houtskoolgrill stalletjes (heel Thailand)",
+          "Isan-gerechtenspecialiteiten",
+          "Strand seafood restaurants",
+          "Markt grill-hoekjes"
+        ],
+        "street_food_areas": [
+          "Bangkok nachtmarkten",
+          "Isan-regio wegkant stalletjes",
+          "Strandstad markten (Pattaya, Hua Hin)",
+          "Chiang Mai Warorot markt"
+        ],
+        "price_ranges": {
+          "street_food": "80-120 THB",
+          "restaurant": "120-250 THB",
+          "upscale": "250-500 THB"
+        }
+      },
+      "translated_at": "2026-03-14T00:00:00.000Z"
+    },
+    "th": {
+      "enhanced_description": "Pla pao is een populair Thais gerecht in restaurants en feesten. Grote vis gebakken in zoutkorst tot hij geurig gaar is, met mals sappig vlees, geserveerd met pittig-zure seafood dipsaus.",
+      "detailed_ingredients": [
+        {
+          "name": "Whole fish",
+          "purpose": "Essentieel voor de authentieke smaak van Pla Pao",
+          "substitutes": [
+            "Verse hele vis",
+            "Gedroogde hele vis",
+            "Hele vis pasta"
+          ]
+        },
+        {
+          "name": "Coarse salt",
+          "purpose": "Essentieel voor de authentieke smaak van Pla Pao",
+          "substitutes": [
+            "Verse grof zout",
+            "Gedroogd grof zout",
+            "Grof zout pasta"
+          ]
+        },
+        {
+          "name": "Lemongrass",
+          "purpose": "Essentieel voor de authentieke smaak van Pla Pao",
+          "substitutes": [
+            "Verse citroengras",
+            "Gedroogde citroengras",
+            "Citroengras pasta"
+          ]
+        },
+        {
+          "name": "Lime leaves",
+          "purpose": "Essentieel voor de authentieke smaak van Pla Pao",
+          "substitutes": [
+            "Verse limoenblaadjes",
+            "Gedroogde limoenblaadjes",
+            "Limoenblaadjes pasta"
+          ]
+        }
+      ],
+      "cooking_method": {
+        "technique": "Roerbakken of grillen",
+        "steps_overview": "Het bereiden van Pla Pao vereist aandacht voor details en de juiste timing. Het belangrijkste is de balans van alle smaken te behouden terwijl de textuur van elke kruiden behouden blijft. De traditionele methode, doorgegeven door generaties, garandeert authentieke smaak.",
+        "cooking_tips": [
+          "Gebruik verse hele vis voor het beste resultaat",
+          "Pas de pittigheid aan naar smaak",
+          "Kook niet te lang om de textuur te behouden",
+          "Proef en breng op smaak voor het serveren"
+        ]
+      },
+      "cultural_significance": {
+        "origin_story": "Dit gerecht is al generaties lang deel van de centrale Thaise voedselcultuur en weerspiegelt de unieke kooktradities en lokale ingrediënten van de regio.",
+        "cultural_importance": "Dit gerecht is het hart van de centrale Thaise keuken en toont de balans en harmonie waar Thaise keuken wereldwijd beroemd om is.",
+        "traditional_occasions": [
+          "Familiebijeenkomst",
+          "Lokale festivals",
+          "Straatvoedselmarkten",
+          "Speciale vieringen"
+        ]
+      },
+      "variations": [
+        {
+          "name": "Pla Pao Classic",
+          "description": "Traditionele versie geserveerd in lokale huizen"
+        },
+        {
+          "name": "Pla Pao Modern",
+          "description": "Moderne versie met premium ingrediënten"
+        },
+        {
+          "name": "Vegetarian Pla Pao",
+          "description": "Vegetarische versie met tofu of paddenstoelen"
+        }
+      ],
+      "serving_suggestions": {
+        "traditional_accompaniments": [
+          "Jasmijnrijst",
+          "Verse groenten",
+          "Thaise kruiden"
+        ],
+        "presentation": "Serveren op traditionele Thaise borden",
+        "eating_etiquette": "Eten met lepel en vork volgens Thaise traditie"
+      },
+      "where_to_find": {
+        "best_restaurants": [
+          "Centrale Thaise restaurants",
+          "Authentieke straatrestaurants",
+          "Traditionele markten",
+          "Familierestaurants"
+        ],
+        "street_food_areas": [
+          "Nachtmarkten",
+          "Ochtendmarkten",
+          "Lokale food courts"
+        ],
+        "price_ranges": {
+          "street_vendor": "50-80 THB",
+          "market_stall": "60-100 THB",
+          "restaurant": "100-200 THB"
+        }
+      },
+      "translated_at": "2026-03-14T00:00:00.000Z"
+    },
+    "ja": {
+      "enhanced_description": "Pla Pao is een huiselijk en bevredigend hoofdgerecht uit Centraal-Thailand. Vis gebakken in zoutkorst geserveerd met pittige seafoodsaus. Recept van gemiddelde moeilijkheid, bereidingstijd circa 40 minuten. Het brengt de authentieke smaak van Centraal-Thaise keuken perfect in balans met zoet, zuur, zout en pittig. De combinatie van hele vis, grof zout en citroengras creëert harmonieuze smaken, geliefd bij locals en bezoekers. Ideaal voor wie betaalbare authentieke Thaise gerechten wil proeven.",
+      "detailed_ingredients": [
+        {
+          "name": "丸ごと魚",
+          "purpose": "Onmisbaar om de authentieke smaak van Pla Pao te verkrijgen",
+          "substitutes": [
+            "Verse hele vis",
+            "Gedroogde hele vis",
+            "Hele vis pasta"
+          ]
+        },
+        {
+          "name": "粗塩",
+          "purpose": "Onmisbaar om de authentieke smaak van Pla Pao te verkrijgen",
+          "substitutes": [
+            "Verse grof zout",
+            "Gedroogd grof zout",
+            "Grof zout pasta"
+          ]
+        },
+        {
+          "name": "レモングラス",
+          "purpose": "Onmisbaar om de authentieke smaak van Pla Pao te verkrijgen",
+          "substitutes": [
+            "Verse citroengras",
+            "Gedroogde citroengras",
+            "Citroengras pasta"
+          ]
+        },
+        {
+          "name": "ライムリーフ",
+          "purpose": "Onmisbaar om de authentieke smaak van Pla Pao te verkrijgen",
+          "substitutes": [
+            "Verse limoenblaadjes",
+            "Gedroogde limoenblaadjes",
+            "Limoenblaadjes pasta"
+          ]
+        }
+      ],
+      "cooking_method": {
+        "technique": "Techniek: roerbakken of bakken",
+        "steps_overview": "Het voorbereiden van Pla Pao vereist aandacht voor details en juiste timing. De sleutel is het balanceren van alle smaken terwijl de textuur van elk ingrediënt behouden blijft. De traditionele methode, doorgegeven door generaties, zorgt voor authentieke smaak.",
+        "cooking_tips": [
+          "Gebruik verse hele vis voor het beste resultaat",
+          "Pas de pittigheid aan naar smaak",
+          "Vermijd overkoken om textuur te behouden",
+          "Proef en pas smaak aan voor serveren"
+        ]
+      },
+      "cultural_significance": {
+        "origin_story": "Pla Pao is generaties lang een basis in de Centraal-Thaise keuken en weerspiegelt regionale tradities en lokale ingrediënten.",
+        "cultural_importance": "Dit gerecht vertegenwoordigt het centrum van harmonie en balans waar Thaise keuken wereldwijd bekend om staat.",
+        "traditional_occasions": [
+          "Familiebijeenkomst",
+          "Lokale festivals",
+          "Straatmarkten",
+          "Speciale vieringen"
+        ]
+      },
+      "variations": [
+        {
+          "name": "Pla Pao クラシック",
+          "description": "Traditionele versie in lokale huizen"
+        },
+        {
+          "name": "Pla Pao モダン",
+          "description": "Moderne twist met premium ingrediënten"
+        },
+        {
+          "name": "Pla Pao ベジタリアン",
+          "description": "Plantaardige versie met tofu of paddenstoelen"
+        }
+      ],
+      "serving_suggestions": {
+        "traditional_accompaniments": [
+          "Jasmijnrijst",
+          "Verse groenten",
+          "Thaise kruiden"
+        ],
+        "presentation": "Serveren op traditionele Thaise wijze op borden",
+        "eating_etiquette": "Genieten met vork en lepel volgens Thaise gewoonten"
+      },
+      "where_to_find": {
+        "best_restaurants": [
+          "Lokale Centraal-Thaise restaurants",
+          "Authentieke stalletjes",
+          "Traditionele markten",
+          "Familiegerunde eetgelegenheden"
+        ],
+        "street_food_areas": [
+          "Nachtmarkten",
+          "Ochtendverse markten",
+          "Lokale food courts"
+        ],
+        "price_ranges": {
+          "street_vendor": "Stalletjespijs 50-80 THB",
+          "market_stall": "Markt stalletjespijs 60-100 THB",
+          "restaurant": "Restaurantprijs 100-200 THB"
+        }
+      },
+      "translated_at": "2026-03-14T00:00:00.000Z"
+    }
+  }
+}

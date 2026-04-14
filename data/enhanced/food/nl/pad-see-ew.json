@@ -1,0 +1,876 @@
+{
+  "id": 9,
+  "slug": "pad-see-ew",
+  "name": {
+    "en": "Pad See Ew",
+    "nl": "Pad See Ew",
+    "thai": "ผัดซีอิ๊ว"
+  },
+  "category": "hoofdgerecht",
+  "region": "centraal",
+  "spice_level": "mild",
+  "description": {
+    "en": "Stir-fried wide rice noodles with dark soy sauce Chinese broccoli and egg",
+    "nl": "Roergebakken brede rijstnoedels met donkere sojasaus Chinese broccoli en ei"
+  },
+  "ingredients": [
+    "brede rijstnoedels",
+    "donkere sojasaus",
+    "chinese broccoli",
+    "ei",
+    "varkensvlees of kip"
+  ],
+  "allergens": [],
+  "dietary": [],
+  "image": "/images/food/pad-see-ew.webp",
+  "preparation_time": "15 minuten",
+  "difficulty": "makkelijk",
+  "price_range": "budget",
+  "seo": {
+    "metaTitle": {
+      "en": "Pad See Ew Recipe | Authentic Thai main dish",
+      "nl": "Pad See Ew Recept | Authentieke Thaise main dish"
+    },
+    "metaDescription": {
+      "en": "Learn about Pad See Ew (ผัดซีอิ๊ว) - Stir-fried wide rice noodles with dark soy sauce Chinese broccoli and egg...",
+      "nl": "Leer over Pad See Ew (ผัดซีอิ๊ว) - Roergebakken brede rijstnoedels met donkere sojasaus Chinese broccoli en ei..."
+    }
+  },
+  "tags": [
+    "thais-eten",
+    "thailand",
+    "hoofdgerecht",
+    "centraal",
+    "mild",
+    "makkelijk",
+    "budget",
+    "brede-rijstnoedels",
+    "donker-soja-saus",
+    "chinese-broccoli"
+  ],
+  "cooking": {
+    "preparation_time": "15 minuten",
+    "difficulty": "makkelijk",
+    "spice_level": "mild",
+    "serves": "2-4 personen"
+  },
+  "nutrition": {
+    "allergens": [],
+    "dietary": [],
+    "price_range": "budget"
+  },
+  "enhanced_description": "Pad See Ew is het donkerdere, rokerigere neefje van Pad Thai — een Chinees-beïnvloede roerbak die de kunst van wok hei (adem van de wok) laat zien. Deze zijdezachte rijstnoedels worden door vlammen gekust, waardoor licht verbrande randen ontstaan terwijl zoete donkere sojasaus tot perfectie karamelliseert. Het is comfortfood op zijn best — eenvoudige ingrediënten getransformeerd door techniek en verzengende hitte.",
+  "detailed_ingredients": [
+    {
+      "name": "Fresh Wide Rice Noodles",
+      "purpose": "Breed oppervlak om wok hei op te vangen en saus te absorberen",
+      "substitutes": [
+        "Gedroogde brede rijstnoedels",
+        "Verse ho fun noedels",
+        "Fettuccine (alleen in noodgevallen)"
+      ]
+    },
+    {
+      "name": "Dark Sweet Soy Sauce",
+      "purpose": "Creëert de kenmerkende donkere kleur en zoet-hartige smaak",
+      "substitutes": [
+        "Gewone sojasaus met palmsuiker",
+        "Kecap manis"
+      ]
+    },
+    {
+      "name": "Chinese Broccoli",
+      "purpose": "Voegt lichte bitterheid en knapperigheid toe om de rijkheid in balans te brengen",
+      "substitutes": [
+        "Gewone broccoli",
+        "Paksoi",
+        "Boerenkool"
+      ]
+    }
+  ],
+  "cooking_method": {
+    "technique": "Schroeien op hoog vuur in een wok",
+    "steps_overview": "De wok moet gloeiend heet zijn — zo heet dat het gevaarlijk lijkt. Noedels worden in kleine porties toegevoegd, licht laten schroeien voordat ze worden omgeschept. Het hele proces duurt minder dan 3 minuten maar vereist constante beweging en razendsnelle timing.",
+    "cooking_tips": [
+      "Als je wok niet rookt, is hij niet heet genoeg",
+      "Werk in kleine porties — te veel tegelijk doodt de wok hei",
+      "Laat noedels even liggen en schroeien voor eerste omwenteling",
+      "Houd ingrediënten in beweging met een scheppende beweging",
+      "Als het niet een beetje rookt, doe je het verkeerd"
+    ]
+  },
+  "cultural_significance": {
+    "origin_story": "Meegebracht door Teochew-Chinese immigranten naar Thailand. Het gerecht evolueerde uit Chinees chow fun, aangepast met Thaise ingrediënten en een zoeter smaakprofiel om bij de lokale smaak te passen.",
+    "cultural_importance": "Pad See Ew vertegenwoordigt de Thais-Chinese fusie die veel van Bangkoks voedselcultuur definieert. Het is brandstof voor de arbeidersklasse — goedkoop, vullend en 24/7 verkrijgbaar bij straatkarren.",
+    "traditional_occasions": [
+      "Laat-avond drinkvoedsel",
+      "Snelle lunch voor werknemers",
+      "Comfortfood voor Chinese-Thais met heimwee",
+      "Straatvoedselbasis"
+    ]
+  },
+  "variations": [
+    {
+      "name": "Pad See Ew Moo",
+      "description": "Varkensversie — de meest voorkomende en traditionele"
+    },
+    {
+      "name": "Pad See Ew Talay",
+      "description": "Zeevruchtenversie met inktvis en garnalen"
+    },
+    {
+      "name": "Pad See Ew Sen Yai",
+      "description": "Extra-brede noedels voor maximale wok hei"
+    }
+  ],
+  "serving_suggestions": {
+    "traditional_accompaniments": [
+      "Jasmijnrijst",
+      "Verse groenten"
+    ],
+    "presentation": "Warm geserveerd in traditionele Thaise stijl",
+    "eating_etiquette": "Gegeten met vork en lepel"
+  },
+  "nutritional_info": {
+    "calories_per_serving": "Verschilt per bereiding",
+    "health_benefits": [
+      "Rijk aan Thaise kruiden en specerijen",
+      "Gebalanceerde smaken"
+    ],
+    "dietary_notes": [
+      "Bevat traditionele Thaise ingrediënten"
+    ]
+  },
+  "where_to_find": {
+    "best_restaurants": [
+      "Jay Fai (Bangkok) — Michelinster-straatvoedsel",
+      "Soei Restaurant (Bangkok) — Ouderwetse perfectie",
+      "Elk shophouse met een straalmotor wokbrander"
+    ],
+    "street_food_areas": [
+      "Chinatown na donker",
+      "Silom Soi 20 eetkraampjes",
+      "Victory Monument straatverkopers"
+    ],
+    "price_ranges": {
+      "street_food": "40-60 THB (€1,10-€1,65)",
+      "restaurant": "80-150 THB (€2,20-€4,15)",
+      "upscale": "200-400 THB (€5,50-€11)"
+    }
+  },
+  "enhanced_at": "2025-05-25T21:53:04.374Z",
+  "translations": {
+    "nl": {
+      "enhanced_description": "Pad See Ew is het donkerdere, rokerigere neefje van Pad Thai — een Chinees-beïnvloede roerbak die de kunst van wok hei (adem van de wok) laat zien. Deze zijdezachte rijstnoedels worden door vlammen gekust, waardoor licht verbrande randen ontstaan terwijl zoete donkere sojasaus tot perfectie karamelliseert. Het is comfortfood op zijn best — eenvoudige ingrediënten getransformeerd door techniek en verzengende hitte.",
+      "detailed_ingredients": [
+        {
+          "name": "Verse brede rijstnoedels",
+          "purpose": "Breed oppervlak om wok hei op te vangen en saus te absorberen",
+          "substitutes": [
+            "Gedroogde brede rijstnoedels",
+            "Verse ho fun noedels",
+            "Fettuccine (alleen in noodgevallen)"
+          ]
+        },
+        {
+          "name": "Donkere zoete sojasaus",
+          "purpose": "Creëert de kenmerkende donkere kleur en zoet-hartige smaak",
+          "substitutes": [
+            "Gewone sojasaus met palmsuiker",
+            "Kecap manis"
+          ]
+        },
+        {
+          "name": "Chinese broccoli",
+          "purpose": "Voegt lichte bitterheid en knapperigheid toe om de rijkheid in balans te brengen",
+          "substitutes": [
+            "Gewone broccoli",
+            "Paksoi",
+            "Boerenkool"
+          ]
+        }
+      ],
+      "cooking_method": {
+        "technique": "Schroeien op hoog vuur in een wok",
+        "steps_overview": "De wok moet gloeiend heet zijn — zo heet dat het gevaarlijk lijkt. Noedels worden in kleine porties toegevoegd, licht laten schroeien voordat ze worden omgeschept. Het hele proces duurt minder dan 3 minuten maar vereist constante beweging en razendsnelle timing.",
+        "cooking_tips": [
+          "Als je wok niet rookt, is hij niet heet genoeg",
+          "Werk in kleine porties — te veel tegelijk doodt de wok hei",
+          "Laat de noedels even liggen en schroeien voor de eerste worp",
+          "Houd ingrediënten in beweging met een scheppende beweging",
+          "Als het niet een beetje rookt, doe je het verkeerd"
+        ]
+      },
+      "cultural_significance": {
+        "origin_story": "Meegebracht door Teochew-Chinese immigranten naar Thailand. Het gerecht evolueerde uit Chinees chow fun, aangepast met Thaise ingrediënten en een zoeter smaakprofiel om bij de lokale smaak te passen.",
+        "cultural_importance": "Pad See Ew vertegenwoordigt de Thais-Chinese fusie die veel van Bangkoks voedselcultuur definieert. Het is brandstof voor de arbeidersklasse — goedkoop, vullend en 24/7 verkrijgbaar bij straatkarren.",
+        "traditional_occasions": [
+          "Laat-avond drinkvoedsel",
+          "Snelle lunch voor werknemers",
+          "Comfortfood voor Chinese Thais met heimwee",
+          "Vaste waarde in het straatvoedsel"
+        ]
+      },
+      "variations": [
+        {
+          "name": "Pad See Ew Moo",
+          "description": "Varkensversie — de meest voorkomende en traditionele"
+        },
+        {
+          "name": "Pad See Ew Talay",
+          "description": "Zeevruchtversie met inktvis en garnalen"
+        },
+        {
+          "name": "Pad See Ew Sen Yai",
+          "description": "Extra brede noedels voor maximale wok hei"
+        }
+      ],
+      "serving_suggestions": {
+        "traditional_accompaniments": [
+          "Jasmijnrijst",
+          "Verse groenten"
+        ],
+        "presentation": "Warm geserveerd in traditionele Thaise stijl",
+        "eating_etiquette": "Gegeten met vork en lepel"
+      },
+      "where_to_find": {
+        "best_restaurants": [
+          "Jay Fai (Bangkok) — Michelinster-straatvoedsel",
+          "Soei Restaurant (Bangkok) — Ouderwetse perfectie",
+          "Elk winkelpand met een straalmotorwokbrander"
+        ],
+        "street_food_areas": [
+          "Chinatown na zonsondergang",
+          "Silom Soi 20 eetkraampjes",
+          "Victory Monument straatverkopers"
+        ]
+      },
+      "translated_at": "2026-03-10T00:00:00.000Z"
+    },
+    "fr": {
+      "enhanced_description": "Pad See Ew is het donkerdere, rokerigere neefje van Pad Thai — een Chinees-beïnvloede roerbak die de kunst van wok hei (adem van de wok) laat zien. Deze zijdezachte rijstnoedels worden door vlammen gekust, waardoor licht verbrande randen ontstaan terwijl zoete donkere sojasaus tot perfectie karamelliseert. Het is comfortfood op zijn best — eenvoudige ingrediënten getransformeerd door techniek en verzengende hitte.",
+      "detailed_ingredients": [
+        {
+          "name": "Nouilles de riz larges fraîches",
+          "purpose": "Breed oppervlak om wok hei op te vangen en saus te absorberen",
+          "substitutes": [
+            "Gedroogde brede rijstnoedels",
+            "Verse ho fun noedels",
+            "Fettuccine (alleen in noodgevallen)"
+          ]
+        },
+        {
+          "name": "Sauce soja foncée sucrée",
+          "purpose": "Creëert de kenmerkende donkere kleur en zoet-hartige smaak",
+          "substitutes": [
+            "Gewone sojasaus met palmsuiker",
+            "Kecap manis"
+          ]
+        },
+        {
+          "name": "Brocoli chinois",
+          "purpose": "Voegt lichte bitterheid en knapperigheid toe om de rijkheid in balans te brengen",
+          "substitutes": [
+            "Gewone broccoli",
+            "Paksoi",
+            "Boerenkool"
+          ]
+        }
+      ],
+      "cooking_method": {
+        "technique": "Schroeien op hoog vuur in een wok",
+        "steps_overview": "De wok moet gloeiend heet zijn — zo heet dat het gevaarlijk lijkt. Noedels worden in kleine porties toegevoegd, licht laten schroeien voordat ze worden omgeschept. Het hele proces duurt minder dan 3 minuten maar vereist constante beweging en razendsnelle timing.",
+        "cooking_tips": [
+          "Als je wok niet rookt, is hij niet heet genoeg",
+          "Werk in kleine porties — te veel tegelijk doodt de wok hei",
+          "Laat de noedels even liggen en schroeien voor de eerste worp",
+          "Houd ingrediënten in beweging met een scheppende beweging",
+          "Als het niet een beetje rookt, doe je het verkeerd"
+        ]
+      },
+      "cultural_significance": {
+        "origin_story": "Meegebracht door Teochew-Chinese immigranten naar Thailand. Het gerecht evolueerde uit Chinees chow fun, aangepast met Thaise ingrediënten en een zoeter smaakprofiel om bij de lokale smaak te passen.",
+        "cultural_importance": "Pad See Ew vertegenwoordigt de Thais-Chinese fusie die veel van Bangkoks voedselcultuur definieert. Het is brandstof voor de arbeidersklasse — goedkoop, vullend en 24/7 verkrijgbaar bij straatkarren.",
+        "traditional_occasions": [
+          "Laat-avond drinkvoedsel",
+          "Snelle lunch voor werknemers",
+          "Comfortfood voor Chinese-Thais met heimwee",
+          "Straatvoedselbasis"
+        ]
+      },
+      "variations": [
+        {
+          "name": "Pad See Ew Moo",
+          "description": "Varkensversie — de meest voorkomende en traditionele"
+        },
+        {
+          "name": "Pad See Ew Talay",
+          "description": "Zeevruchtenversie met inktvis en garnalen"
+        },
+        {
+          "name": "Pad See Ew Sen Yai",
+          "description": "Extra-brede noedels voor maximale wok hei"
+        }
+      ],
+      "serving_suggestions": {
+        "traditional_accompaniments": [
+          "Jasmijnrijst",
+          "Verse groenten"
+        ],
+        "presentation": "Warm geserveerd in traditionele Thaise stijl",
+        "eating_etiquette": "Gegeten met vork en lepel"
+      },
+      "where_to_find": {
+        "best_restaurants": [
+          "Jay Fai (Bangkok) — Michelinster-straatvoedsel",
+          "Soei Restaurant (Bangkok) — Ouderwetse perfectie",
+          "Elk shophouse met een straalmotor wokbrander"
+        ],
+        "street_food_areas": [
+          "Chinatown na donker",
+          "Silom Soi 20 eetkraampjes",
+          "Victory Monument straatverkopers"
+        ]
+      },
+      "translated_at": "2026-03-10T00:00:00.000Z"
+    },
+    "de": {
+      "enhanced_description": "Pad See Ew is het donkerdere, rokerigere neefje van Pad Thai — een Chinees-beïnvloede roerbak die de kunst van wok hei (adem van de wok) laat zien. Deze zijdezachte rijstnoedels worden door vlammen gekust, waardoor licht verbrande randen ontstaan terwijl zoete donkere sojasaus tot perfectie karamelliseert. Het is comfortfood op zijn best — eenvoudige ingrediënten getransformeerd door techniek en verzengende hitte.",
+      "detailed_ingredients": [
+        {
+          "name": "Frische breite Reisnudeln",
+          "purpose": "Breed oppervlak om wok hei op te vangen en saus te absorberen",
+          "substitutes": [
+            "Gedroogde brede rijstnoedels",
+            "Verse ho-fun-noedels",
+            "Fettuccine (alleen in noodgevallen)"
+          ]
+        },
+        {
+          "name": "Dunkle süße Sojasauce",
+          "purpose": "Creëert de kenmerkende donkere kleur en zoet-hartige smaak",
+          "substitutes": [
+            "Gewone sojasaus met palmsuiker",
+            "Kecap manis"
+          ]
+        },
+        {
+          "name": "Chinesischer Brokkoli",
+          "purpose": "Voegt lichte bitterheid en knapperigheid toe om de rijkdom in evenwicht te brengen",
+          "substitutes": [
+            "Gewone broccoli",
+            "Paksoi",
+            "Boerenkool"
+          ]
+        }
+      ],
+      "cooking_method": {
+        "technique": "Roosteren op hoge hitte in de wok",
+        "steps_overview": "De wok moet gloeiend heet zijn — zo heet dat het gevaarlijk lijkt. Noedels worden in kleine porties toegevoegd, licht laten roosteren voordat ze worden omgedraaid. Het hele proces duurt minder dan 3 minuten, maar vereist constante beweging en secondenprecisie.",
+        "cooking_tips": [
+          "Als je wok niet rookt, is hij niet heet genoeg",
+          "Werk in kleine porties — overbelasting doodt het wok hei",
+          "Laat de noedels liggen en roosteren voordat je voor het eerst omdraait",
+          "Houd de ingrediënten in beweging met een scheppende beweging",
+          "Als het niet licht rokerig is, doe je het verkeerd"
+        ]
+      },
+      "cultural_significance": {
+        "origin_story": "Door Teochew-Chinese immigranten naar Thailand gebracht. Het gerecht ontwikkelde zich uit de Chinese chow fun, aangepast met Thaise ingrediënten en een zoeter smaakprofiel om aan de lokale smaak te voldoen.",
+        "cultural_importance": "Pad See Ew staat voor de Thais-Chinese fusie die een groot deel van Bangkoks eetcultuur uitmaakt. Het is brandstof voor de arbeidersklasse — goedkoop, vullend en de klok rond verkrijgbaar bij straatkramen.",
+        "traditional_occasions": [
+          "Late nachtsnack na het drinken",
+          "Snelle lunch voor arbeiders",
+          "Troosteten voor Thais-Chinese immigranten met heimwee",
+          "Vaste grootte in straateet"
+        ]
+      },
+      "variations": [
+        {
+          "name": "Pad See Ew Moo",
+          "description": "Varkensversie — de meest voorkomende en traditionele"
+        },
+        {
+          "name": "Pad See Ew Talay",
+          "description": "Zeeverse versie met inktvis en garnalen"
+        },
+        {
+          "name": "Pad See Ew Sen Yai",
+          "description": "Extra brede noedels voor maximaal wok hei"
+        }
+      ],
+      "serving_suggestions": {
+        "traditional_accompaniments": [
+          "Jasmijnrijst",
+          "Vers groenten"
+        ],
+        "presentation": "Heet geserveerd in traditionele Thaise stijl",
+        "eating_etiquette": "Gegeten met vork en lepel"
+      },
+      "where_to_find": {
+        "best_restaurants": [
+          "Jay Fai (Bangkok) — Michelin-ster straateet",
+          "Soei Restaurant (Bangkok) — Bewaarde perfectie",
+          "Elke eetkraam met een straalvliegtuig-wokbrander"
+        ],
+        "street_food_areas": [
+          "Chinatown na zonsondergang",
+          "Silom Soi 20 eetkraampjes",
+          "Victory Monument straathandelaren"
+        ]
+      },
+      "translated_at": "2026-03-10T00:00:00.000Z"
+    },
+    "zh": {
+      "enhanced_description": "Pad See Ew is de diepere, gerookte neef van Pad Thai — een roerbakgerecht met Chinese invloeden dat de subtiele kunst van wok hei toont. Gladde brede rijstnoedels worden door vlammen gekust, randen licht krokant, zoete donkere sojasaus gekaramelliseerd tot perfectie. Dit is de top van comfort food — eenvoudige ingrediënten verheven door techniek en intense hitte.",
+      "detailed_ingredients": [
+        {
+          "name": "新鲜宽米粉",
+          "purpose": "Grote oppervlakte om wok hei te vangen en saus op te nemen",
+          "substitutes": [
+            "Gedroogde brede rijstnoedels",
+            "Verse ho fun-noedels",
+            "Italiaanse brede pasta (alleen in noodgevallen)"
+          ]
+        },
+        {
+          "name": "甜黑酱油（老抽）",
+          "purpose": "Geeft de iconische donkere kleur en zoet-zoute smaak",
+          "substitutes": [
+            "Gewone sojasaus met palmsuiker",
+            "Zoete sojasaus (kecap manis)"
+          ]
+        },
+        {
+          "name": "芥兰（中国芥蓝）",
+          "purpose": "Voegt milde bitterheid en krokantheid toe om de intense smaak in balans te brengen",
+          "substitutes": [
+            "Gewone broccoli",
+            "Paksoi",
+            "Boerenkool"
+          ]
+        }
+      ],
+      "cooking_method": {
+        "technique": "Op hoge hitte roosteren en karamelliseren in de wok",
+        "steps_overview": "De wok moet extreem heet zijn — zo heet dat het gevaarlijk lijkt. Noedels in kleine batches toevoegen, laten karamelliseren voordat je roert. Het hele proces duurt minder dan 3 minuten, maar vereist continue beweging en secondenprecisie.",
+        "cooking_tips": [
+          "Als je wok niet rookt, is hij niet heet genoeg",
+          "Roer in kleine batches — overbelasting doodt het wok hei",
+          "Laat de noedels even karamelliseren voordat je voor het eerst roert",
+          "Houd ingrediënten in beweging met scheppende bewegingen",
+          "Als er geen lichte rook is, doe je het verkeerd"
+        ]
+      },
+      "cultural_significance": {
+        "origin_story": "Door Chaozhou-Chinese immigranten naar Thailand gebracht. Het gerecht evolueerde uit de Chinese chow fun, aangepast met Thaise ingrediënten en een zoetere smaak om lokale voorkeuren te passen.",
+        "cultural_importance": "Pad See Ew belichaamt de Thais-Chinese culinaire fusie die een groot deel van Bangkoks eetcultuur definieert. Het is energie voor de arbeidersklasse — goedkoop, vullend en 24 uur beschikbaar bij straatkramen.",
+        "traditional_occasions": [
+          "Late nachteten na drinken",
+          "Snelle lunch voor arbeiders",
+          "Comfort food voor Thais-Chinese met heimwee",
+          "Klassieker in straateet"
+        ]
+      },
+      "variations": [
+        {
+          "name": "Pad See Ew Moo",
+          "description": "Varkensversie — de meest voorkomende en traditionele"
+        },
+        {
+          "name": "Pad See Ew Talay",
+          "description": "Zeeverse versie met inktvis en garnalen"
+        },
+        {
+          "name": "Pad See Ew Sen Yai",
+          "description": "Extra brede noedels voor maximaal wok hei"
+        }
+      ],
+      "serving_suggestions": {
+        "traditional_accompaniments": [
+          "Jasmijnrijst",
+          "Verse groenten"
+        ],
+        "presentation": "Heet geserveerd in traditionele Thaise stijl",
+        "eating_etiquette": "Eten met vork en lepel"
+      },
+      "where_to_find": {
+        "best_restaurants": [
+          "Jay Fai (Bangkok) — Michelin-ster straateet",
+          "Soei Restaurant (Bangkok) — Oude school perfectie",
+          "Elke kraam met een straalwokbrander"
+        ],
+        "street_food_areas": [
+          "Chinatown na invallen van de duisternis",
+          "Eetkraampjes op Silom Soi 20",
+          "Straathandelaren bij Victory Monument"
+        ]
+      },
+      "translated_at": "2026-03-11T00:00:00.000Z"
+    },
+    "ru": {
+      "enhanced_description": "Pad See Ew is de donkerdere, gerookte verwant van Pad Thai, een stir-fry met Chinese wortels die de kunst van 'wok hei' (adem van de wok) demonstreert. Zijdeachtige rijstnoedels worden door vuur geschroeid — randen licht verkoold, en zoete donkere sojasaus gekaramelliseerd tot perfectie. Dit is comfort food op zijn best — eenvoudige ingrediënten getransformeerd door techniek en bruisende hitte.",
+      "detailed_ingredients": [
+        {
+          "name": "Свежая широкая рисовая лапша",
+          "purpose": "Breed oppervlak om 'wok hei' te vangen en saus op te nemen",
+          "substitutes": [
+            "Gedroogde brede rijstnoedels",
+            "Verse ho-fun-noedels",
+            "Fettuccine (alleen in extreme gevallen)"
+          ]
+        },
+        {
+          "name": "Тёмный сладкий соевый соус",
+          "purpose": "Creëert de kenmerkende donkere kleur en zoet-zoute smaak",
+          "substitutes": [
+            "Gewone sojasaus met palmsuiker",
+            "Kecap manis"
+          ]
+        },
+        {
+          "name": "Китайская брокколи",
+          "purpose": "Voegt lichte bitterheid en knapperigheid toe voor balans met de verzadiging van het gerecht",
+          "substitutes": [
+            "Gewone broccoli",
+            "Paksoi",
+            "Boerenkool"
+          ]
+        }
+      ],
+      "cooking_method": {
+        "technique": "Roosteren met schroeien op maximaal vuur in de wok",
+        "steps_overview": "De wok moet tot het uiterste verhit zijn — zo dat het gevaarlijk lijkt. Noedels in kleine porties toevoegen, licht laten schroeien voor het mengen. Het hele proces duurt minder dan 3 minuten, maar vereist constante beweging en onmiddellijke reactie.",
+        "cooking_tips": [
+          "Als je wok niet rookt — is hij niet heet genoeg",
+          "Kook in kleine porties — overbelasting doodt de 'wok hei'",
+          "Laat de noedels liggen en schroeien voor de eerste omwenteling",
+          "Houd ingrediënten in beweging met scheppende gebaren",
+          "Als er geen lichte rokerigheid is — doe je iets verkeerd"
+        ]
+      },
+      "cultural_significance": {
+        "origin_story": "Naar Thailand gebracht door Teochew-immigranten uit China. Het gerecht evolueerde uit de Chinese chow fun, aangepast met Thaise ingrediënten en een zoetere smaakprofiel voor lokale voorkeuren.",
+        "cultural_importance": "Pad See Ew belichaamt de Thais-Chinese culinaire fusie die een groot deel van de gastronomische cultuur van Bangkok definieert. Het is brandstof voor de arbeidersklasse — goedkoop, vullend en rond de klok beschikbaar van straatkramen.",
+        "traditional_occasions": [
+          "Late nachtsnack na drinken",
+          "Snelle lunch voor arbeiders",
+          "Comfort food voor Thais-Chinezen met heimwee",
+          "Klassieker van straateet"
+        ]
+      },
+      "variations": [
+        {
+          "name": "Pad See Ew Moo",
+          "description": "Versie met varkensvlees — de meest voorkomende en traditionele"
+        },
+        {
+          "name": "Pad See Ew Talay",
+          "description": "Versie met zeevruchten — inktvis en garnalen"
+        },
+        {
+          "name": "Pad See Ew Sen Yai",
+          "description": "Superbrede noedels voor maximaal 'wok hei'"
+        }
+      ],
+      "serving_suggestions": {
+        "traditional_accompaniments": [
+          "Jasmijnrijst",
+          "Verse groenten"
+        ],
+        "presentation": "Geserveerd heet in traditionele Thaise stijl",
+        "eating_etiquette": "Gegeten met vork en lepel"
+      },
+      "where_to_find": {
+        "best_restaurants": [
+          "Jay Fai (Bangkok) — straateet met Michelin-ster",
+          "Soei Restaurant (Bangkok) — oude school tot perfectie gebracht",
+          "Elke kraam met een straalwokbrander"
+        ],
+        "street_food_areas": [
+          "Chinatown na het invallen van de duisternis",
+          "Kraampjes op Silom Soi 20",
+          "Straathandelaren bij Victory Monument"
+        ]
+      },
+      "translated_at": "2026-03-11T00:00:00.000Z"
+    },
+    "ko": {
+      "enhanced_description": "Pad See Ew is de diepere, gerookte neef van Pad Thai, een roerbaknoedel met Chinese invloeden die de techniek van wok hei (adem van de wok) toont. Gladde brede rijstnoedels worden licht geschroeid door vlammen, randen krokant, en zoete donkere sojasaus gekaramelliseerd tot perfectie. Dit is de ultieme soul food — eenvoudige ingrediënten getransformeerd door vaardigheid en intense vlammen.",
+      "detailed_ingredients": [
+        {
+          "name": "신선한 넓은 쌀국수 (센야이)",
+          "purpose": "Breed oppervlak om wok hei en saus op te nemen met de noedelbasis",
+          "substitutes": [
+            "Gedroogde brede rijstnoedels",
+            "Ho fun-noedels",
+            "Fettuccine (alleen voor noodgevallen)"
+          ]
+        },
+        {
+          "name": "진간장 (시유담)",
+          "purpose": "Kernkruiden die de donkere kleur en zoet-zoute smaak creëren",
+          "substitutes": [
+            "Gewone sojasaus + palmsuiker",
+            "Kecap manis"
+          ]
+        },
+        {
+          "name": "중국식 브로콜리 (카이란)",
+          "purpose": "Groenten die milde bitterheid en knapperige textuur toevoegen om de intense smaak in balans te brengen",
+          "substitutes": [
+            "Gewone broccoli",
+            "Paksoi",
+            "Boerenkool"
+          ]
+        }
+      ],
+      "cooking_method": {
+        "technique": "Hoge hitte wok schroeien (karamelliseren)",
+        "steps_overview": "De wok moet schreeuwen van hitte — zo heet dat het gevaarlijk lijkt. Noedels in kleine hoeveelheden toevoegen en licht schroeien voor het omdraaien. Het hele proces duurt minder dan 3 minuten, maar vereist constante beweging en split-second timing.",
+        "cooking_tips": [
+          "Als er geen rook uit de wok komt, is de temperatuur nog niet hoog genoeg",
+          "Roer in kleine porties — te veel toevoegen doodt het wok hei",
+          "Laat de noedels even schroeien voordat je voor het eerst omdraait",
+          "Houd ingrediënten in beweging met op scheppende bewegingen",
+          "Als er geen lichte gerookte aroma is, doe je het niet goed"
+        ]
+      },
+      "cultural_significance": {
+        "origin_story": "Pad See Ew is een gerecht dat door Chaozhou-Chinese immigranten naar Thailand is gebracht. Het ontwikkelde zich uit de Chinese chow fun, aangepast met Thaise ingrediënten en een zoetere smaak om aan lokale voorkeuren te voldoen.",
+        "cultural_importance": "Pad See Ew vertegenwoordigt de Thais-Chinese fusie die een groot deel van de eetcultuur van Bangkok definieert. Het is brandstof voor de arbeidersklasse: goedkoop, vullend en 24 uur verkrijgbaar bij straatkramen.",
+        "traditional_occasions": [
+          "Nachtsnack (na drinken)",
+          "Snelle lunch voor kantoormensen",
+          "Heimwee-eten voor Thais-Chinezen",
+          "Basis van straateet"
+        ]
+      },
+      "variations": [
+        {
+          "name": "팟씨유 무",
+          "description": "Varkensvleesversie — de meest voorkomende en traditionele stijl."
+        },
+        {
+          "name": "팟씨유 탈레",
+          "description": "Zeeverse versie met inktvis en garnalen."
+        },
+        {
+          "name": "팟씨유 센야이",
+          "description": "Versie met bredere noedels om wok hei te maximaliseren."
+        }
+      ],
+      "serving_suggestions": {
+        "traditional_accompaniments": [
+          "Chili-azijn (prik nam som)",
+          "Chili vlokken",
+          "Suiker (Thaise stijl)"
+        ],
+        "presentation": "Heet opdienen direct uit de pan",
+        "eating_etiquette": "Eten met vork en lepel of stokjes"
+      },
+      "where_to_find": {
+        "best_restaurants": [
+          "Jay Fai (Bangkok) — Michelin-ster straateet",
+          "Soei Restaurant (Bangkok) — perfectie in oude stijl",
+          "Elke eetkraam met een straalwokbrander"
+        ],
+        "street_food_areas": [
+          "Chinatown (Yaowarat) 's nachts",
+          "Silom Soi 20 kraampjes",
+          "Victory Monument straathandelaren"
+        ],
+        "price_ranges": {
+          "street_food": "40-60 THB",
+          "restaurant": "80-150 THB",
+          "upscale": "200-400 THB"
+        }
+      },
+      "translated_at": "2026-03-14T00:00:00.000Z"
+    },
+    "th": {
+      "enhanced_description": "ผัดซีอิ๊วเป็นอาหารเส้นยอดนิยมของไทย เส้นใหญ่ผัดกับซีอิ๊วดำ คะน้า และไข่ในกระทะร้อน รสหวานเค็มกลมกล่อมจากซีอิ๊วและน้ำตาล หาทานได้ทั่วไปตามร้านก๋วยเตี๋ยว",
+      "detailed_ingredients": [
+        {
+          "name": "Fresh Wide Rice Noodles",
+          "purpose": "Grote oppervlakte om wok hei op te vangen en saus te absorberen",
+          "substitutes": [
+            "Gedroogde brede rijstnoedels",
+            "Verse ho fun-noedels",
+            "Fettuccine (alleen in noodgeval)"
+          ]
+        },
+        {
+          "name": "Dark Sweet Soy Sauce",
+          "purpose": "Creëert de kenmerkende donkere kleur en zoet-zoute smaak",
+          "substitutes": [
+            "Gewone sojasaus met palmsuiker",
+            "Kecap manis"
+          ]
+        },
+        {
+          "name": "Chinese Broccoli",
+          "purpose": "Voegt lichte bitterheid en knapperigheid toe om de rijkdom te balanceren",
+          "substitutes": [
+            "Gewone broccoli",
+            "Bok choy",
+            "Boerenkool"
+          ]
+        }
+      ],
+      "cooking_method": {
+        "technique": "Charren op hoge hitte in de wok",
+        "steps_overview": "De wok moet loeiend heet zijn - zo heet dat het gevaarlijk lijkt. Noedels worden in kleine porties toegevoegd, licht laten charren voordat je ze omschept. Het hele proces duurt minder dan 3 minuten maar vereist constante beweging en secondentiming.",
+        "cooking_tips": [
+          "Als je wok niet rookt, is hij niet heet genoeg",
+          "Werk in kleine porties - overvolheid doodt wok hei",
+          "Laat noedels zitten en charren voor de eerste toss",
+          "Houd ingrediënten in beweging met een scheppende beweging",
+          "Als het niet licht rokerig is, doe je het verkeerd"
+        ]
+      },
+      "cultural_significance": {
+        "origin_story": "Geleverd door Teochew-Chinese immigranten naar Thailand. Het gerecht evolueerde van Chinese chow fun, aangepast met Thaise ingrediënten en een zoetere smaak om lokale smaken aan te spreken.",
+        "cultural_importance": "Pad See Ew belichaamt de Thais-Chinese fusie die veel van de voedselcultuur in Bangkok definieert. Het is brandstof voor de arbeidersklasse - goedkoop, vullend en 24/7 beschikbaar bij straatkramen.",
+        "traditional_occasions": [
+          "Eten voor late-night drinken",
+          "Snelle lunch voor arbeiders",
+          "Troosteten voor Chinese-Thai met heimwee",
+          "อาหารริมทางยอดนิยม"
+        ]
+      },
+      "variations": [
+        {
+          "name": "Pad See Ew Moo",
+          "description": "Varkensversie - de meest voorkomende en traditionele"
+        },
+        {
+          "name": "Pad See Ew Talay",
+          "description": "Zeëfoodversie met inktvis en garnalen"
+        },
+        {
+          "name": "Pad See Ew Sen Yai",
+          "description": "Extra-brede noedels voor maximale wok hei"
+        }
+      ],
+      "serving_suggestions": {
+        "traditional_accompaniments": [
+          "ข้าวหอมมะลิ",
+          "ผักสด"
+        ],
+        "presentation": "เสิร์ฟร้อนๆ แบบไทยดั้งเดิม",
+        "eating_etiquette": "Eet met vork en lepel"
+      },
+      "where_to_find": {
+        "best_restaurants": [
+          "Jay Fai (Bangkok) - Michelin-sterren straatmaaltijd",
+          "Soei Restaurant (Bangkok) - Oude-school perfectie",
+          "Elke shophouse met een straalmotor wokbrander"
+        ],
+        "street_food_areas": [
+          "Chinatown na donker",
+          "Silom Soi 20 voedselstalletjes",
+          "Victory Monument straathandelaars"
+        ],
+        "price_ranges": {
+          "street_food": "40-60 THB (€1,10-€1,65)",
+          "restaurant": "80-150 THB (€2,20-€4,15)",
+          "upscale": "200-400 THB (€5,50-€11,00)"
+        }
+      },
+      "translated_at": "2026-03-14T00:00:00.000Z"
+    },
+    "ja": {
+      "enhanced_description": "Pad See EwはPad Thaiの濃くて煙たい従兄弟のような存在です。中国風の炒め物で、鍋の香りを引き出す wok hei の技術を体現します。滑らかな幅広米麺は炎に包まれ、わずかに焦げ目の縁ができ、濃く甘い黒甘口醤油がキャラメルのようにとろりと絡みつきます。これは最高の家庭料理のひとつで、シンプルな材料が技術と激しい熱によって変化した一皿です。",
+      "detailed_ingredients": [
+        {
+          "name": "生の幅広米麺",
+          "purpose": "wok heiを捉え、ソースを吸収するための広い表面積",
+          "substitutes": [
+            "乾燥幅広米麺",
+            "生の河粉麺",
+            "フェットチーネ（緊急時のみ）"
+          ]
+        },
+        {
+          "name": "黒甘口醤油",
+          "purpose": "特有の濃い色と甘辛い風味を生み出す",
+          "substitutes": [
+            "パームシュガー入りの普通の醤油",
+            "ケチャップ・マニス"
+          ]
+        },
+        {
+          "name": "中国ブロッコリー",
+          "purpose": "風味のバランスを取るための軽い苦味と食感を加える",
+          "substitutes": [
+            "普通のブロッコリー",
+            "チンゲン菜",
+            "ケール"
+          ]
+        }
+      ],
+      "cooking_method": {
+        "technique": "高温の中華鍋による香りづけ（wok hei）",
+        "steps_overview": "鍋は炎のように熱く、危険に見えるほどでなければならない。麺は小分けに加え、わずかに焦げ目がつくまで焼いてから投げる。全工程は3分未満で完了するが、常に動かし続け、秒単位のタイミングが求められる。",
+        "cooking_tips": [
+          "鍋が煙を上げていないなら、熱さが足りない",
+          "小分けで作る—過密は wok hei を失わせる",
+          "最初の炒め前に麺を少し置いて焼き色をつける",
+          "すくい上げるような動きで、材料を常に動かす",
+          "わずかに煙が出ていないなら、作り方が間違っている"
+        ]
+      },
+      "cultural_significance": {
+        "origin_story": "潮州系華人移民がタイに持ち込み、中国のチャオフンに起源をもち、タイの食材とより甘い風味へと適応して地元の味に進化した。",
+        "cultural_importance": "Pad See Ewは、タイ-中華の融合を象徴し、バンコクの食文化の多くを定義する存在です。庶民の燃料源であり、安価で満腹感があり、24時間営業の屋台で手に入ります。",
+        "traditional_occasions": [
+          "深夜の飲酒後のつまみ",
+          "労働者の手早い昼食",
+          "中国系タイ人のホームシックを癒すコンフォートフード",
+          "屋台の定番料理"
+        ]
+      },
+      "variations": [
+        {
+          "name": "Pad See Ew Moo",
+          "description": "豚肉版 - 最も一般的で伝統的"
+        },
+        {
+          "name": "Pad See Ew Talay",
+          "description": "イカとエビのシーフード版"
+        },
+        {
+          "name": "Pad See Ew Sen Yai",
+          "description": "超幅広麺で最大の wok hei を狙う版"
+        }
+      ],
+      "serving_suggestions": {
+        "traditional_accompaniments": [
+          "ジャスミンライス",
+          "新鮮な野菜"
+        ],
+        "presentation": "熱々のまま伝統的なタイ式で提供",
+        "eating_etiquette": "フォークとスプーンで食べる"
+      },
+      "where_to_find": {
+        "best_restaurants": [
+          "Jay Fai (Bangkok) - ミシュラン星付きの屋台料理",
+          "Soei Restaurant (Bangkok) - 昔ながらの完璧さ",
+          "Any shophouse with a jet engine wok burner"
+        ],
+        "street_food_areas": [
+          "Chinatown after dark",
+          "Silom Soi 20 food stalls",
+          "Victory Monument street vendors"
+        ],
+        "price_ranges": {
+          "street_food": "屋台街 40-60 THB (€1,10-€1,65)",
+          "restaurant": "レストラン 80-150 THB (€2,20-€4,15)",
+          "upscale": "高級店 200-400 THB (€5,50-€11,00)"
+        }
+      },
+      "translated_at": "2026-03-14T00:00:00.000Z"
+    }
+  }
+}

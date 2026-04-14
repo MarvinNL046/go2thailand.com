@@ -1,0 +1,977 @@
+{
+  "id": 44,
+  "slug": "gaeng-tai-pla",
+  "name": {
+    "en": "Gaeng Tai Pla",
+    "nl": "Gaeng Tai Pla",
+    "thai": "แกงไตปลา"
+  },
+  "category": "curry",
+  "region": "zuidelijk",
+  "spice_level": "zeer pittig",
+  "description": {
+    "en": "Intensely spicy southern fish organ curry",
+    "nl": "Intens pittige zuidelijke visorganen curry"
+  },
+  "ingredients": [
+    "visorganen",
+    "chili",
+    "citroengras",
+    "kurkuma",
+    "groenten",
+    "vissaus"
+  ],
+  "allergens": [
+    "zeevruchten"
+  ],
+  "dietary": [],
+  "image": "/images/food/gaeng-tai-pla.webp",
+  "preparation_time": "40 minuten",
+  "difficulty": "moeilijk",
+  "price_range": "budget",
+  "seo": {
+    "metaTitle": {
+      "en": "Gaeng Tai Pla Recipe | Authentic Thai curry",
+      "nl": "Gaeng Tai Pla Recept | Authentieke Thaise curry"
+    },
+    "metaDescription": {
+      "en": "Learn about Gaeng Tai Pla (แกงไตปลา) - Intensely spicy southern fish organ curry...",
+      "nl": "Leer over Gaeng Tai Pla (แกงไตปลา) - Intens pittige zuidelijke visorganen curry..."
+    }
+  },
+  "tags": [
+    "Thais eten",
+    "Thailand",
+    "curry",
+    "zuidelijk",
+    "zeer pittig",
+    "moeilijk",
+    "budget",
+    "visorganen",
+    "chili",
+    "citroengras"
+  ],
+  "cooking": {
+    "preparation_time": "40 minuten",
+    "difficulty": "moeilijk",
+    "spice_level": "zeer pittig",
+    "serves": "2-4 personen"
+  },
+  "nutrition": {
+    "allergens": [
+      "zeevruchten"
+    ],
+    "dietary": [],
+    "price_range": "budget"
+  },
+  "enhanced_description": "Gaeng Tai Pla is een geliefde rijke en aromatische curry uit Zuid-Thailand die intens pittig is voor echte chili-liefhebbers. Intens pittige zuidelijke visorganen curry. Dit moeilijke recept vergt ongeveer 40 minuten bereidingstijd en vertegenwoordigt de authentieke smaken van de Zuid-Thaise keuken, gekenmerkt door intense kruiden, zeevruchten en curry's op basis van kokos. De combinatie van visorganen, chili en citroengras creëert een harmonieuze mix die dit gerecht tot een favoriet heeft gemaakt onder zowel locals als bezoekers. Perfect voor wie op zoek is naar betaalbare authentieke Thaise keuken.",
+  "detailed_ingredients": [
+    {
+      "name": "Fish organs",
+      "purpose": "Essentieel voor de authentieke Gaeng Tai Pla smaak",
+      "substitutes": [
+        "Verse visorganen",
+        "Gedroogde visorganen",
+        "visorganenpasta"
+      ]
+    },
+    {
+      "name": "Chili",
+      "purpose": "Essentieel voor de authentieke Gaeng Tai Pla smaak",
+      "substitutes": [
+        "Verse chili",
+        "Gedroogde chili",
+        "chilipasta"
+      ]
+    },
+    {
+      "name": "Lemongrass",
+      "purpose": "Essentieel voor de authentieke Gaeng Tai Pla smaak",
+      "substitutes": [
+        "Vers citroengras",
+        "Gedroogd citroengras",
+        "citroengraspasta"
+      ]
+    },
+    {
+      "name": "Turmeric",
+      "purpose": "Essentieel voor de authentieke Gaeng Tai Pla smaak",
+      "substitutes": [
+        "Verse kurkuma",
+        "Gedroogde kurkuma",
+        "kurkumapasta"
+      ]
+    }
+  ],
+  "cooking_method": {
+    "technique": "Currypasta bakken en kokosmelkreductie",
+    "steps_overview": "Het bereiden van Gaeng Tai Pla vereist aandacht voor detail en goede timing. De sleutel is het balanceren van alle smaken terwijl de textuur van elk ingrediënt behouden blijft. Traditionele methoden die van generatie op generatie zijn doorgegeven, garanderen een authentieke smaak.",
+    "cooking_tips": [
+      "Gebruik verse visorganen voor het beste resultaat",
+      "Pas het pittigheidsgehalte aan naar je voorkeur",
+      "Kook niet te lang om de textuur te behouden",
+      "Proef en pas de kruiding aan voor het serveren"
+    ]
+  },
+  "cultural_significance": {
+    "origin_story": "Gaeng Tai Pla is al generaties lang een vast onderdeel van de Zuid-Thaise keuken en weerspiegelt de unieke culinaire tradities en lokale ingrediënten van de regio.",
+    "cultural_importance": "Dit gerecht vertegenwoordigt het hart van de Zuid-Thaise kookkunst en toont de balans en harmonie waarmee de Thaise keuken wereldwijd beroemd is.",
+    "traditional_occasions": [
+      "Familiebijeenkomsten",
+      "Lokale festivals",
+      "Straatvoedselmarkten",
+      "Bijzondere vieringen"
+    ]
+  },
+  "variations": [
+    {
+      "name": "Gaeng Tai Pla Classic",
+      "description": "De traditionele versie zoals geserveerd in lokale huishoudens"
+    },
+    {
+      "name": "Gaeng Tai Pla Modern",
+      "description": "Hedendaagse variant met premium ingrediënten"
+    },
+    {
+      "name": "Vegetarian Gaeng Tai Pla",
+      "description": "Plantaardige versie met tofu of paddenstoelen"
+    }
+  ],
+  "serving_suggestions": {
+    "traditional_accompaniments": [
+      "Jasmijnrijst",
+      "Verse groenten",
+      "Thaise kruiden"
+    ],
+    "presentation": "Geserveerd op een bord in traditionele Thaise stijl",
+    "eating_etiquette": "Genoten met vork en lepel volgens Thais gebruik"
+  },
+  "nutritional_info": {
+    "calories_per_serving": "300-500 calorieën",
+    "health_benefits": [
+      "Rijk aan Thaise kruiden en specerijen",
+      "Bron van eiwitten en groenten",
+      "Gebalanceerde smaken en voedingsstoffen"
+    ],
+    "dietary_notes": []
+  },
+  "where_to_find": {
+    "best_restaurants": [
+      "Lokale Zuid-Thaise restaurants",
+      "Authentieke straatvoedselkramen",
+      "Traditionele markten",
+      "Familiegerunde eetgelegenheden"
+    ],
+    "street_food_areas": [
+      "Nachtmarkten",
+      "Ochtendverse markten",
+      "Lokale food courts"
+    ],
+    "price_ranges": {
+      "street_vendor": "30-50 THB",
+      "market_stall": "40-60 THB",
+      "restaurant": "60-100 THB"
+    }
+  },
+  "translations": {
+    "nl": {
+      "enhanced_description": "Gaeng Tai Pla is een geliefde rijke en aromatische curry uit Zuid-Thailand die intens pittig is voor echte chili-liefhebbers. Intens pittige zuidelijke visorganen curry. Dit moeilijke recept vergt ongeveer 40 minuten bereidingstijd en vertegenwoordigt de authentieke smaken van de Zuid-Thaise keuken, gekenmerkt door intense kruiden, zeevruchten en curry's op basis van kokos. De combinatie van visorganen, chili en citroengras creëert een harmonieuze mix die dit gerecht tot een favoriet heeft gemaakt onder zowel locals als bezoekers. Perfect voor wie op zoek is naar betaalbare authentieke Thaise keuken.",
+      "detailed_ingredients": [
+        {
+          "name": "Visorganen",
+          "purpose": "Essentieel voor de authentieke Gaeng Tai Pla smaak",
+          "substitutes": [
+            "Verse visorganen",
+            "Gedroogde visorganen",
+            "Visorganenpasta"
+          ]
+        },
+        {
+          "name": "Chili",
+          "purpose": "Essentieel voor de authentieke Gaeng Tai Pla smaak",
+          "substitutes": [
+            "Verse chili",
+            "Gedroogde chili",
+            "Chilipasta"
+          ]
+        },
+        {
+          "name": "Citroengras",
+          "purpose": "Essentieel voor de authentieke Gaeng Tai Pla smaak",
+          "substitutes": [
+            "Vers citroengras",
+            "Gedroogd citroengras",
+            "Citroengraspasta"
+          ]
+        },
+        {
+          "name": "Kurkuma",
+          "purpose": "Essentieel voor de authentieke Gaeng Tai Pla smaak",
+          "substitutes": [
+            "Verse kurkuma",
+            "Gedroogde kurkuma",
+            "Kurkumapasta"
+          ]
+        }
+      ],
+      "cooking_method": {
+        "technique": "Currypasta bakken en kokosmelkreductie",
+        "steps_overview": "Het bereiden van Gaeng Tai Pla vereist aandacht voor detail en goede timing. De sleutel is het balanceren van alle smaken terwijl de textuur van elk ingrediënt behouden blijft. Traditionele methoden die van generatie op generatie zijn doorgegeven, garanderen een authentieke smaak.",
+        "cooking_tips": [
+          "Gebruik verse visorganen voor het beste resultaat",
+          "Pas het pittigheidsgehalte aan naar je voorkeur",
+          "Kook niet te lang om de textuur te behouden",
+          "Proef en pas de kruiding aan voor het serveren"
+        ]
+      },
+      "cultural_significance": {
+        "origin_story": "Gaeng Tai Pla is al generaties lang een vast onderdeel van de Zuid-Thaise keuken en weerspiegelt de unieke culinaire tradities en lokale ingrediënten van de regio.",
+        "cultural_importance": "Dit gerecht vertegenwoordigt het hart van de Zuid-Thaise kookkunst en toont de balans en harmonie waarmee de Thaise keuken wereldwijd beroemd is.",
+        "traditional_occasions": [
+          "Familiebijeenkomsten",
+          "Lokale festivals",
+          "Straatvoedselmarkten",
+          "Bijzondere vieringen"
+        ]
+      },
+      "variations": [
+        {
+          "name": "Gaeng Tai Pla Klassiek",
+          "description": "De traditionele versie zoals geserveerd in lokale huishoudens"
+        },
+        {
+          "name": "Gaeng Tai Pla Modern",
+          "description": "Hedendaagse variant met premium ingrediënten"
+        },
+        {
+          "name": "Vegetarische Gaeng Tai Pla",
+          "description": "Plantaardige versie met tofu of paddenstoelen"
+        }
+      ],
+      "serving_suggestions": {
+        "traditional_accompaniments": [
+          "Jasmijnrijst",
+          "Verse groenten",
+          "Thaise kruiden"
+        ],
+        "presentation": "Geserveerd in een kom in traditionele Zuid-Thaise stijl",
+        "eating_etiquette": "Gegeten met vork en lepel volgens Thais gebruik"
+      },
+      "where_to_find": {
+        "best_restaurants": [
+          "Lokale Zuid-Thaise restaurants",
+          "Authentieke straatvoedselkramen",
+          "Traditionele markten",
+          "Familiebedrijfjes"
+        ],
+        "street_food_areas": [
+          "Nachtmarkten",
+          "Ochtendverse markten",
+          "Lokale food courts"
+        ]
+      },
+      "translated_at": "2026-03-10T00:00:00.000Z"
+    },
+    "fr": {
+      "enhanced_description": "Gaeng Tai Pla is een geliefde rijke en aromatische curry uit Zuid-Thailand die intens pittig is voor echte chili-liefhebbers. Intens pittige zuidelijke visorganen curry. Dit moeilijke recept vergt ongeveer 40 minuten bereidingstijd en vertegenwoordigt de authentieke smaken van de Zuid-Thaise keuken, gekenmerkt door intense kruiden, zeevruchten en curry's op basis van kokos. De combinatie van visorganen, chili en citroengras creëert een harmonieuze mix die dit gerecht tot een favoriet heeft gemaakt onder zowel locals als bezoekers. Perfect voor wie op zoek is naar betaalbare authentieke Thaise keuken.",
+      "detailed_ingredients": [
+        {
+          "name": "Organes de poisson",
+          "purpose": "Essentieel voor de authentieke Gaeng Tai Pla smaak",
+          "substitutes": [
+            "Verse visorganen",
+            "Gedroogde visorganen",
+            "Visorganenpasta"
+          ]
+        },
+        {
+          "name": "Piment",
+          "purpose": "Essentieel voor de authentieke Gaeng Tai Pla smaak",
+          "substitutes": [
+            "Verse chili",
+            "Gedroogde chili",
+            "Chilipasta"
+          ]
+        },
+        {
+          "name": "Citronnelle",
+          "purpose": "Essentieel voor de authentieke Gaeng Tai Pla smaak",
+          "substitutes": [
+            "Vers citroengras",
+            "Gedroogd citroengras",
+            "Citroengraspasta"
+          ]
+        },
+        {
+          "name": "Curcuma",
+          "purpose": "Essentieel voor de authentieke Gaeng Tai Pla smaak",
+          "substitutes": [
+            "Verse kurkuma",
+            "Gedroogde kurkuma",
+            "Kurkumapasta"
+          ]
+        }
+      ],
+      "cooking_method": {
+        "technique": "Currypasta bakken en kokosmelkreductie",
+        "steps_overview": "Het bereiden van Gaeng Tai Pla vereist aandacht voor detail en goede timing. De sleutel is het balanceren van alle smaken terwijl de textuur van elk ingrediënt behouden blijft. Traditionele methoden die van generatie op generatie zijn doorgegeven, garanderen een authentieke smaak.",
+        "cooking_tips": [
+          "Gebruik verse visorganen voor het beste resultaat",
+          "Pas het pittigheidsgehalte aan naar je voorkeur",
+          "Kook niet te lang om de textuur te behouden",
+          "Proef en pas de kruiding aan voor het serveren"
+        ]
+      },
+      "cultural_significance": {
+        "origin_story": "Gaeng Tai Pla is al generaties lang een vast onderdeel van de Zuid-Thaise keuken en weerspiegelt de unieke culinaire tradities en lokale ingrediënten van de regio.",
+        "cultural_importance": "Dit gerecht vertegenwoordigt het hart van de Zuid-Thaise kookkunst en toont de balans en harmonie waarmee de Thaise keuken wereldwijd beroemd is.",
+        "traditional_occasions": [
+          "Familiebijeenkomsten",
+          "Lokale festivals",
+          "Straatvoedselmarkten",
+          "Bijzondere vieringen"
+        ]
+      },
+      "variations": [
+        {
+          "name": "Gaeng Tai Pla Classique",
+          "description": "De traditionele versie zoals geserveerd in lokale huishoudens"
+        },
+        {
+          "name": "Gaeng Tai Pla Moderne",
+          "description": "Moderne versie met premium ingrediënten"
+        },
+        {
+          "name": "Gaeng Tai Pla Végétarien",
+          "description": "Vegetarische versie met tofu of paddenstoelen"
+        }
+      ],
+      "serving_suggestions": {
+        "traditional_accompaniments": [
+          "Jasmijnrijst",
+          "Verse groenten",
+          "Thaise kruiden"
+        ],
+        "presentation": "Geserveerd in een kom in de traditionele stijl van Zuid-Thailand",
+        "eating_etiquette": "Gegeten met vork en lepel volgens Thaise traditie"
+      },
+      "where_to_find": {
+        "best_restaurants": [
+          "Lokale restaurants in Zuid-Thailand",
+          "Authentieke straatkiosken",
+          "Traditionele markten",
+          "Familierestaurants"
+        ],
+        "street_food_areas": [
+          "Nachtmarkten",
+          "Verse ochtendmarkten",
+          "Lokale foodcourts"
+        ]
+      },
+      "translated_at": "2026-03-10T00:00:00.000Z"
+    },
+    "de": {
+      "enhanced_description": "Gaeng Tai Pla is een geliefd rijk en aromatisch curry uit Zuid-Thailand, intens pittig voor echte chili-liefhebbers. Intens pittig Zuid-Thais visinnards-curry. Dit uitdagende recept vereist ongeveer 40 minuten bereidingstijd en vertegenwoordigt de authentieke smaken van de Zuid-Thaise keuken, die zich kenmerkt door intense kruiden, zeevruchten en kokosgebaseerde curries. De combinatie van visinnards, chili en citroengras creëert een harmonieuze mix die dit gerecht tot favoriet heeft gemaakt bij zowel locals als bezoekers. Perfect voor wie betaalbare authentieke Thaise keuken zoekt.",
+      "detailed_ingredients": [
+        {
+          "name": "Fischinnereien",
+          "purpose": "Onmisbaar voor de authentieke Gaeng Tai Pla-smaak",
+          "substitutes": [
+            "Verse visinnards",
+            "Gedroogde visinnards",
+            "Visinnards-pasta"
+          ]
+        },
+        {
+          "name": "Chili",
+          "purpose": "Onmisbaar voor de authentieke Gaeng Tai Pla-smaak",
+          "substitutes": [
+            "Verse chili",
+            "Gedroogde chili",
+            "Chili-pasta"
+          ]
+        },
+        {
+          "name": "Zitronengras",
+          "purpose": "Onmisbaar voor de authentieke Gaeng Tai Pla-smaak",
+          "substitutes": [
+            "Vers citroengras",
+            "Gedroogd citroengras",
+            "Citroengras-pasta"
+          ]
+        },
+        {
+          "name": "Kurkuma",
+          "purpose": "Onmisbaar voor de authentieke Gaeng Tai Pla-smaak",
+          "substitutes": [
+            "Verse kurkuma",
+            "Gedroogde kurkuma",
+            "Kurkuma-pasta"
+          ]
+        }
+      ],
+      "cooking_method": {
+        "technique": "Currypasta aanbraden en kokosmelk reduceren",
+        "steps_overview": "De bereiding van Gaeng Tai Pla vereist liefde voor detail en goed timing. De sleutel ligt in het balanceren van alle smaken terwijl de textuur van elke ingrediënt behouden blijft. Traditionele methoden, doorgegeven over generaties, garanderen authentieke smaak.",
+        "cooking_tips": [
+          "Gebruik verse visinnards voor het beste resultaat",
+          "Pas de pittigheid aan naar smaak",
+          "Niet te lang koken om de textuur te behouden",
+          "Proeven en op smaak brengen voor het serveren"
+        ]
+      },
+      "cultural_significance": {
+        "origin_story": "Gaeng Tai Pla is al generaties lang een vast onderdeel van de Zuid-Thaise keuken en weerspiegelt de unieke culinaire tradities en lokale ingrediënten van de regio.",
+        "cultural_importance": "Dit gerecht vertegenwoordigt het hart van de Zuid-Thaise kookkunst en toont de balans en harmonie waarvoor de Thaise keuken wereldwijd beroemd is.",
+        "traditional_occasions": [
+          "Familiebijeenkomsten",
+          "Lokale festivals",
+          "Straatvoedselmarkten",
+          "Speciale vieringen"
+        ]
+      },
+      "variations": [
+        {
+          "name": "Gaeng Tai Pla Klassisch",
+          "description": "De traditionele versie zoals geserveerd in lokale huishoudens"
+        },
+        {
+          "name": "Gaeng Tai Pla Modern",
+          "description": "Contemporaine variant met premium ingrediënten"
+        },
+        {
+          "name": "Vegetarisches Gaeng Tai Pla",
+          "description": "Plantaardige versie met tofu of paddenstoelen"
+        }
+      ],
+      "serving_suggestions": {
+        "traditional_accompaniments": [
+          "Jasmijnrijst",
+          "Verse groenten",
+          "Thaise kruiden"
+        ],
+        "presentation": "Geserveerd in een kom in de traditionele Zuid-Thaise stijl",
+        "eating_etiquette": "Gegeten met vork en lepel volgens Thaise gewoonte"
+      },
+      "where_to_find": {
+        "best_restaurants": [
+          "Lokale Zuid-Thaise restaurants",
+          "Authentieke straatkiosken",
+          "Traditionele markten",
+          "Familiegerunde etablissementen"
+        ],
+        "street_food_areas": [
+          "Nachtmarkten",
+          "Ochtendverse markten",
+          "Lokale foodcourts"
+        ]
+      },
+      "translated_at": "2026-03-10T00:00:00.000Z"
+    },
+    "zh": {
+      "enhanced_description": "Gaeng Tai Pla is een geliefd rijk en aromatisch curry uit Zuid-Thailand, extreem pittig voor echte chili-liefhebbers. Dit extreem pittige Zuid-Thaise visinnards-curry is uitdagend, vereist ongeveer 40 minuten bereiding en belichaamt de authentieke smaken van de Zuid-Thaise keuken – bekend om intense kruiden, zeevruchten en kokosgebaseerde curries. De combinatie van visinnards, chili en citroengras creëert een harmonieuze smaak, geliefd bij locals en toeristen. Ideaal voor wie betaalbare authentieke Thaise gerechten zoekt.",
+      "detailed_ingredients": [
+        {
+          "name": "鱼内脏",
+          "purpose": "Sleutelingrediënt voor de authentieke Gaeng Tai Pla-smaak",
+          "substitutes": [
+            "Verse visinnards",
+            "Gedroogde visinnards",
+            "Visinnards-saus"
+          ]
+        },
+        {
+          "name": "辣椒",
+          "purpose": "Sleutelingrediënt voor de authentieke Gaeng Tai Pla-smaak",
+          "substitutes": [
+            "Verse chili",
+            "Gedroogde chili",
+            "Chili-saus"
+          ]
+        },
+        {
+          "name": "香茅",
+          "purpose": "Sleutelingrediënt voor de authentieke Gaeng Tai Pla-smaak",
+          "substitutes": [
+            "Vers citroengras",
+            "Gedroogd citroengras",
+            "Citroengras-saus"
+          ]
+        },
+        {
+          "name": "姜黄",
+          "purpose": "Sleutelingrediënt voor de authentieke Gaeng Tai Pla-smaak",
+          "substitutes": [
+            "Verse kurkuma",
+            "Gedroogd kurkumapoeder",
+            "Kurkuma-saus"
+          ]
+        }
+      ],
+      "cooking_method": {
+        "technique": "Currysaus bakken en kokosmelk inkoken",
+        "steps_overview": "Het maken van Gaeng Tai Pla vereist aandacht voor details en goed tijdbeheer. De sleutel is het balanceren van smaken terwijl de textuur van ingrediënten behouden blijft. Traditionele methoden, doorgegeven over generaties, zorgen voor authentieke smaak.",
+        "cooking_tips": [
+          "Gebruik verse visinnards voor het beste effect",
+          "Pas de pittigheid aan naar persoonlijke voorkeur",
+          "Niet te lang koken om textuur te behouden",
+          "Proeven en kruiden aanpassen voor het serveren"
+        ]
+      },
+      "cultural_significance": {
+        "origin_story": "Gaeng Tai Pla is al generaties een klassieker in de Zuid-Thaise keuken en weerspiegelt de unieke kooktradities en lokale ingrediënten van de regio.",
+        "cultural_importance": "Dit gerecht belichaamt de essentie van Zuid-Thaise kookkunst en toont de balans en harmonie waarvoor Thaise keuken wereldwijd bekendstaat.",
+        "traditional_occasions": [
+          "Familiebijeenkomsten",
+          "Lokale feesten",
+          "Straatvoedselmarkten",
+          "Speciale vieringen"
+        ]
+      },
+      "variations": [
+        {
+          "name": "经典Gaeng Tai Pla",
+          "description": "De traditionele versie zoals geserveerd in lokale families"
+        },
+        {
+          "name": "现代Gaeng Tai Pla",
+          "description": "Moderne interpretatie met hoogwaardige ingrediënten"
+        },
+        {
+          "name": "素食Gaeng Tai Pla",
+          "description": "Vegetarische versie met tofu of paddenstoelen"
+        }
+      ],
+      "serving_suggestions": {
+        "traditional_accompaniments": [
+          "Jasmijnrijst",
+          "Verse groenten",
+          "Thaise kruiden"
+        ],
+        "presentation": "Geserveerd in een kom in traditionele Zuid-Thaise stijl",
+        "eating_etiquette": "Gegeten met vork en lepel volgens Thaise gewoonte"
+      },
+      "where_to_find": {
+        "best_restaurants": [
+          "Lokale Zuid-Thaise restaurants",
+          "Authentieke straatsnacks-stalletjes",
+          "Traditionele markten",
+          "Familie-restaurants"
+        ],
+        "street_food_areas": [
+          "Nachtmarkten",
+          "Ochtendmarkten",
+          "Lokale eetpleinen"
+        ]
+      },
+      "translated_at": "2026-03-11T00:00:00.000Z"
+    },
+    "ru": {
+      "enhanced_description": "Gaeng Tai Pla is een geliefd rijk en aromatisch curry uit Zuid-Thailand, ongelooflijk pittig voor echte chili-liefhebbers. Dit ongelooflijk pittige Zuid-Thaise visinnards-curry is complex, duurt ongeveer 40 minuten bereiding en vertegenwoordigt de authentieke smaken van de Zuid-Thaise keuken, gekenmerkt door intense kruiden, zeevruchten en kokoscurries. De mix van visinnards, chili en citroengras creëert harmonie, favoriet bij locals en gasten. Perfect voor betaalbare authentieke Thaise keuken.",
+      "detailed_ingredients": [
+        {
+          "name": "Рыбные потроха",
+          "purpose": "Belangrijk ingrediënt voor de authentieke Gaeng Tai Pla-smaak",
+          "substitutes": [
+            "Verse visinnards",
+            "Gedroogde visinnards",
+            "Pasta van visinnards"
+          ]
+        },
+        {
+          "name": "Чили",
+          "purpose": "Belangrijk ingrediënt voor de authentieke Gaeng Tai Pla-smaak",
+          "substitutes": [
+            "Verse chili",
+            "Gedroogde chili",
+            "Chili-pasta"
+          ]
+        },
+        {
+          "name": "Лемонграсс",
+          "purpose": "Belangrijk ingrediënt voor de authentieke Gaeng Tai Pla-smaak",
+          "substitutes": [
+            "Vers citroengras",
+            "Gedroogd citroengras",
+            "Citroengras-pasta"
+          ]
+        },
+        {
+          "name": "Куркума",
+          "purpose": "Belangrijk ingrediënt voor de authentieke Gaeng Tai Pla-smaak",
+          "substitutes": [
+            "Verse kurkuma",
+            "Gedroogde kurkuma",
+            "Kurkuma-pasta"
+          ]
+        }
+      ],
+      "cooking_method": {
+        "technique": "Currypasta bakken en kokosmelk indikken",
+        "steps_overview": "Het bereiden van Gaeng Tai Pla vereist aandacht voor details en correcte timing. De sleutel is het balanceren van smaken terwijl de textuur van elk ingrediënt behouden blijft. Traditionele methoden, doorgegeven over generaties, zorgen voor authentieke smaak.",
+        "cooking_tips": [
+          "Gebruik verse visinnards voor het beste resultaat",
+          "Pas de pittigheid aan naar smaak",
+          "Niet doorkoken om textuur te behouden",
+          "Proeven en kruiden aanpassen voor het serveren"
+        ]
+      },
+      "cultural_significance": {
+        "origin_story": "Gaeng Tai Pla is al vele generaties een basis van de Zuid-Thaise keuken en weerspiegelt de unieke culinaire tradities en lokale ingrediënten van de regio.",
+        "cultural_importance": "Dit gerecht belichaamt het hart van de Zuid-Thaise culinaire kunst en toont de balans en harmonie waarvoor de Thaise keuken wereldwijd beroemd is.",
+        "traditional_occasions": [
+          "Familie-etentjes",
+          "Lokale festivals",
+          "Straatvoedselmarkten",
+          "Speciale gelegenheden"
+        ]
+      },
+      "variations": [
+        {
+          "name": "Gaeng Tai Pla классический",
+          "description": "De traditionele versie zoals geserveerd in lokale huizen"
+        },
+        {
+          "name": "Gaeng Tai Pla современный",
+          "description": "Moderne versie met premium ingrediënten"
+        },
+        {
+          "name": "Вегетарианский Gaeng Tai Pla",
+          "description": "Plantaardige versie met tofu of paddenstoelen"
+        }
+      ],
+      "serving_suggestions": {
+        "traditional_accompaniments": [
+          "Jasmijnrijst",
+          "Verse groenten",
+          "Thaise kruiden"
+        ],
+        "presentation": "Geserveerd in een kom in traditionele Zuid-Thaise stijl",
+        "eating_etiquette": "Gegeten met vork en lepel volgens Thaise traditie"
+      },
+      "where_to_find": {
+        "best_restaurants": [
+          "Lokale Zuid-Thaise restaurants",
+          "Authentieke straatkraampjes",
+          "Traditionele markten",
+          "Familie-snackbars"
+        ],
+        "street_food_areas": [
+          "Nachtmarkten",
+          "Ochtendverse markten",
+          "Lokale foodcourts"
+        ]
+      },
+      "translated_at": "2026-03-11T00:00:00.000Z"
+    },
+    "ko": {
+      "enhanced_description": "Gaeng Tai Pla is een iconisch intens curry uit Zuid-Thailand, perfect voor echte pittigheidsliefhebbers. 'Tai Pla' verwijst naar gefermenteerde visinnards, de bron van de unieke diepe umami. Het vereist ongeveer 40 minuten bereiding en toont de essentie van Zuid-Thaise keuken. De combinatie van visinnards, chili, citroengras en kurkuma creëert intense maar harmonieuze smaken. Een van de pittigste curries in Thailand, een standaard voor locals.",
+      "detailed_ingredients": [
+        {
+          "name": "따이쁠라 (발효 생선 내장)",
+          "purpose": "Kern-ingrediënt voor de unieke umami en diepe smaken van Gaeng Tai Pla",
+          "substitutes": [
+            "Visinnards",
+            "까삐 (새우 페이스트)",
+            "남쁠라 (액젓) 농축"
+          ]
+        },
+        {
+          "name": "고추 (프릭키누)",
+          "purpose": "강렬한 매운맛을 내는 필수 재료",
+          "substitutes": [
+            "건고추",
+            "고추 페이스트",
+            "프릭치파 (큰 고추)"
+          ]
+        },
+        {
+          "name": "레몬그라스",
+          "purpose": "상쾌한 시트러스 향을 더하는 향신료",
+          "substitutes": [
+            "레몬그라스 페이스트",
+            "레몬 제스트",
+            "건조 레몬그라스"
+          ]
+        },
+        {
+          "name": "강황",
+          "purpose": "노란색과 흙냄새 같은 풍미를 더하는 향신료",
+          "substitutes": [
+            "생 강황",
+            "강황 가루",
+            "강황 페이스트"
+          ]
+        }
+      ],
+      "cooking_method": {
+        "technique": "커리 페이스트 볶기와 장시간 끓이기",
+        "steps_overview": "깽따이쁠라를 만들려면 먼저 고추, 레몬그라스, 강황, 갈랑갈 등으로 커리 페이스트를 만듭니다. 페이스트를 볶은 후 따이쁠라(발효 생선 내장)를 넣고 잘 섞은 다음, 물과 채소를 넣어 끓입니다. 죽순, 긴 콩, 가지 등 다양한 채소가 들어갑니다.",
+        "cooking_tips": [
+          "따이쁠라의 양으로 감칠맛의 강도를 조절하세요",
+          "매운맛이 걱정되면 고추 씨를 제거하세요 (그래도 매울 수 있습니다)",
+          "채소는 마지막에 넣어 식감을 살리세요",
+          "밥과 함께 먹으면 매운맛이 완화됩니다"
+        ]
+      },
+      "cultural_significance": {
+        "origin_story": "깽따이쁠라는 태국 남부 어촌 지역에서 유래한 요리로, 생선을 잡은 후 내장을 버리지 않고 발효시켜 활용한 데서 시작되었습니다. 남부 태국의 자원 활용 정신과 풍부한 해산물 문화를 반영합니다.",
+        "cultural_importance": "이 커리는 남부 태국인의 정체성을 대표하는 요리로, '깽따이쁠라를 먹을 수 있으면 진정한 남부 사람'이라는 말이 있을 정도입니다. 매운맛에 대한 자부심의 상징이기도 합니다.",
+        "traditional_occasions": [
+          "가족 식사",
+          "어촌 마을 축제",
+          "전통 시장",
+          "남부 태국 명절"
+        ]
+      },
+      "variations": [
+        {
+          "name": "깽따이쁠라 전통식",
+          "description": "발효 생선 내장을 사용한 가장 정통적인 버전으로, 극강의 매운맛입니다."
+        },
+        {
+          "name": "깽따이쁠라 순한 맛",
+          "description": "고추의 양을 줄이고 코코넛 밀크를 추가한 순한 버전입니다."
+        },
+        {
+          "name": "깽따이쁠라 해산물",
+          "description": "새우와 오징어를 추가한 해산물 풍성한 변형입니다."
+        }
+      ],
+      "serving_suggestions": {
+        "traditional_accompaniments": [
+          "재스민 쌀밥",
+          "신선한 채소",
+          "삶은 달걀"
+        ],
+        "presentation": "전통 남부 태국 스타일로 그릇에 담아 밥과 함께 제공합니다",
+        "eating_etiquette": "태국 관습에 따라 포크와 숟가락으로 밥과 함께 먹습니다"
+      },
+      "where_to_find": {
+        "best_restaurants": [
+          "현지 남부 태국 레스토랑",
+          "남부 해안 어촌 식당",
+          "전통 시장",
+          "가족 운영 식당"
+        ],
+        "street_food_areas": [
+          "야시장",
+          "아침 시장",
+          "현지 푸드코트"
+        ],
+        "price_ranges": {
+          "street_vendor": "30-50 THB",
+          "market_stall": "40-60 THB",
+          "restaurant": "60-100 THB"
+        }
+      },
+      "translated_at": "2026-03-14T00:00:00.000Z"
+    },
+    "th": {
+      "enhanced_description": "แกงไตปลาเป็นแกงปักษ์ใต้ที่ขึ้นชื่อว่าเผ็ดที่สุดอย่างหนึ่งของอาหารไทย ทำจากไตปลา (เครื่องในปลา) ปรุงกับพริก ตะไคร้ ขมิ้น รสเผ็ดร้อนจัดจ้านถึงใจ เป็นอาหารที่แสดงถึงเอกลักษณ์ของอาหารใต้อย่างแท้จริง",
+      "detailed_ingredients": [
+        {
+          "name": "Fish organs",
+          "purpose": "สำคัญสำหรับรสชาติGaeng Tai Plaแท้",
+          "substitutes": [
+            "Verse visorganen",
+            "Gedroogde visorganen",
+            "visorganenpasta"
+          ]
+        },
+        {
+          "name": "Chili",
+          "purpose": "สำคัญสำหรับรสชาติGaeng Tai Plaแท้",
+          "substitutes": [
+            "Verse chili",
+            "Gedroogde chili",
+            "chili pasta"
+          ]
+        },
+        {
+          "name": "Lemongrass",
+          "purpose": "สำคัญสำหรับรสชาติGaeng Tai Plaแท้",
+          "substitutes": [
+            "Verse citroengras",
+            "Gedroogd citroengras",
+            "citroengras pasta"
+          ]
+        },
+        {
+          "name": "Turmeric",
+          "purpose": "สำคัญสำหรับรสชาติGaeng Tai Plaแท้",
+          "substitutes": [
+            "Verse kurkuma",
+            "Gedroogde kurkuma",
+            "kurkuma pasta"
+          ]
+        }
+      ],
+      "cooking_method": {
+        "technique": "การผัดพริกแกงและเคี่ยวกะทิ",
+        "steps_overview": "การเตรียมGaeng Tai Plaต้องใส่ใจรายละเอียดและจังหวะเวลาที่เหมาะสม สิ่งสำคัญคือการสมดุลรสชาติทั้งหมดในขณะที่รักษาเนื้อสัมผัสของเครื่องปรุงแต่ละอย่าง วิธีดั้งเดิมที่สืบทอดมาหลายชั่วอายุคนรับประกันรสชาติแท้",
+        "cooking_tips": [
+          "ใช้fish organsสดเพื่อผลลัพธ์ที่ดีที่สุด",
+          "ปรับระดับความเผ็ดตามชอบ",
+          "อย่าปรุงนานเกินไปเพื่อรักษาเนื้อสัมผัส",
+          "ชิมและปรุงรสก่อนเสิร์ฟ"
+        ]
+      },
+      "cultural_significance": {
+        "origin_story": "อาหารจานนี้เป็นส่วนหนึ่งของวัฒนธรรมอาหารภาคใต้มาหลายชั่วอายุคน สะท้อนประเพณีการทำอาหารที่เป็นเอกลักษณ์และวัตถุดิบท้องถิ่นของภูมิภาค",
+        "cultural_importance": "อาหารจานนี้เป็นหัวใจของการทำอาหารภาคใต้ แสดงให้เห็นถึงความสมดุลและความกลมกล่อมที่อาหารไทยมีชื่อเสียงไปทั่วโลก",
+        "traditional_occasions": [
+          "งานรวมญาติ",
+          "เทศกาลท้องถิ่น",
+          "ตลาดอาหารริมทาง",
+          "งานฉลองพิเศษ"
+        ]
+      },
+      "variations": [
+        {
+          "name": "Gaeng Tai Pla Classic",
+          "description": "เวอร์ชันดั้งเดิมที่เสิร์ฟในบ้านท้องถิ่น"
+        },
+        {
+          "name": "Gaeng Tai Pla Modern",
+          "description": "เวอร์ชันร่วมสมัยกับวัตถุดิบพรีเมียม"
+        },
+        {
+          "name": "Vegetarian Gaeng Tai Pla",
+          "description": "เวอร์ชันมังสวิรัติใช้เต้าหู้หรือเห็ด"
+        }
+      ],
+      "serving_suggestions": {
+        "traditional_accompaniments": [
+          "ข้าวหอมมะลิ",
+          "ผักสด",
+          "สมุนไพรไทย"
+        ],
+        "presentation": "เสิร์ฟในจานแบบไทยดั้งเดิม",
+        "eating_etiquette": "ทานด้วยช้อนส้อมตามธรรมเนียมไทย"
+      },
+      "where_to_find": {
+        "best_restaurants": [
+          "ร้านอาหารใต้ท้องถิ่น",
+          "ร้านอาหารริมทางแท้",
+          "ตลาดดั้งเดิม",
+          "ร้านอาหารครอบครัว"
+        ],
+        "street_food_areas": [
+          "ตลาดนัดกลางคืน",
+          "ตลาดเช้า",
+          "ศูนย์อาหารท้องถิ่น"
+        ],
+        "price_ranges": {
+          "street_vendor": "30-50 THB",
+          "market_stall": "40-60 THB",
+          "restaurant": "60-100 THB"
+        }
+      },
+      "translated_at": "2026-03-14T00:00:00.000Z"
+    },
+    "ja": {
+      "enhanced_description": "Gaeng Tai Pla は南部タイ王国の豊かで香り高いカレーで、真の辛党にはたまらない激辛の一皿です。南部の魚の内臓を使った強烈な辛さのカレー。難易度の高いこのレシピは約40分で準備でき、海鮮とココナツミルクをベースにした南部タイ料理の本格的な風味を体現します。魚の内臓、唐辛子、レモングラスの組み合わせが調和の取れた風味を生み出し、地元民にも訪問者にも人気の一皿となっています。手頃な価格で本格的なタイ料理を求める人に最適です。",
+      "detailed_ingredients": [
+        {
+          "name": "魚の内臓（Fish organs）",
+          "purpose": "本格的な Gaeng Tai Pla の風味に不可欠",
+          "substitutes": [
+            "新鮮な魚の内臓",
+            "乾燥魚の内臓",
+            "魚の内臓ペースト"
+          ]
+        },
+        {
+          "name": "唐辛子（Chili）",
+          "purpose": "本格的な Gaeng Tai Pla の風味に不可欠",
+          "substitutes": [
+            "新鮮な唐辛子",
+            "乾燥唐辛子",
+            "チリペースト"
+          ]
+        },
+        {
+          "name": "レモングラス（Lemongrass）",
+          "purpose": "本格的な Gaeng Tai Pla の風味に不可欠",
+          "substitutes": [
+            "新鮮なレモングラス",
+            "乾燥レモングラス",
+            "レモングラスペースト"
+          ]
+        },
+        {
+          "name": "ウコン（Turmeric）",
+          "purpose": "本格的な Gaeng Tai Pla の風味に不可欠",
+          "substitutes": [
+            "新鮮なウコン",
+            "乾燥ウコン",
+            "ウコンペースト"
+          ]
+        }
+      ],
+      "cooking_method": {
+        "technique": "カレーペーストの炒めとココナツミルクの煮詰め",
+        "steps_overview": "Gaeng Tai Pla の準備には細部への気配りと適切なタイミングが必要です。全ての風味のバランスを取りつつ、各具材の食感を保つことが鍵です。世代を超えて受け継がれる伝統的な方法が、本格的な味を保証します。",
+        "cooking_tips": [
+          "最良の結果のためには新鮮な魚の内臓を使用する",
+          "辛さはお好みに合わせて調整する",
+          "食感を保つために煮過ぎない",
+          "盛り付け前に味を確かめ、調味を調整する"
+        ]
+      },
+      "cultural_significance": {
+        "origin_story": "Gaeng Tai Pla は代々南部タイ料理の主食として親しまれており、この地域の独自の料理伝統と地元の食材を反映しています。",
+        "cultural_importance": "この料理は南部タイ料理の心臓部を代表し、タイ料理が世界的に有名な調和とバランスを体現しています。",
+        "traditional_occasions": [
+          "家族の集い",
+          "地元の祭り",
+          "路上食品市場",
+          "特別な祝宴"
+        ]
+      },
+      "variations": [
+        {
+          "name": "Gaeng Tai Pla Classic（ゲーン タイ プラー クラシック）",
+          "description": "地元の家庭で提供される伝統的なバージョン"
+        },
+        {
+          "name": "Gaeng Tai Pla Modern（ゲーン タイ プラー モダン）",
+          "description": "高級食材を使った現代風のアレンジ"
+        },
+        {
+          "name": "Vegetarian Gaeng Tai Pla（ベジタリアン ガーン タイ プラー）",
+          "description": "豆腐やきのこを使った植物性バージョン"
+        }
+      ],
+      "serving_suggestions": {
+        "traditional_accompaniments": [
+          "ジャスミンライス",
+          "生野菜",
+          "タイのハーブ"
+        ],
+        "presentation": "タイ風の伝統的な盛り付けで皿に盛る",
+        "eating_etiquette": "タイの習慣に従いフォークとスプーンを使って食べる"
+      },
+      "where_to_find": {
+        "best_restaurants": [
+          "Lokale zuidelijke Thaise restaurants",
+          "Authentieke straatrekstallen",
+          "Traditionele markten",
+          "Familiegerunde eettentjes"
+        ],
+        "street_food_areas": [
+          "Nachtmarkten",
+          "Ochtendverse markten",
+          "Lokale foodcourts"
+        ],
+        "price_ranges": {
+          "street_vendor": "30-50 THB",
+          "market_stall": "40-60 THB",
+          "restaurant": "60-100 THB"
+        }
+      },
+      "translated_at": "2026-03-14T00:00:00.000Z"
+    }
+  }
+}

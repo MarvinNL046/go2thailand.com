@@ -1,0 +1,974 @@
+{
+  "id": 34,
+  "slug": "laab-kua",
+  "name": {
+    "en": "Laab Kua",
+    "nl": "Laab Kua",
+    "thai": "ลาบคั่ว"
+  },
+  "category": "salade",
+  "region": "noordelijke",
+  "spice_level": "pittig",
+  "description": {
+    "en": "Northern style meat salad with spices and herbs",
+    "nl": "Noordelijke stijl vleessalade met specerijen en kruiden"
+  },
+  "ingredients": [
+    "gehakt varkens- of rundvlees",
+    "gedroogde specerijen",
+    "kruiden",
+    "limoensap",
+    "vis saus"
+  ],
+  "allergens": [],
+  "dietary": [],
+  "image": "/images/food/laab-kua.webp",
+  "preparation_time": "20 minuten",
+  "difficulty": "gemiddeld",
+  "price_range": "budget",
+  "seo": {
+    "metaTitle": {
+      "en": "Laab Kua Recipe | Authentic Thai salad",
+      "nl": "Laab Kua Recept | Authentieke Thaise salad"
+    },
+    "metaDescription": {
+      "en": "Learn about Laab Kua (ลาบคั่ว) - Northern style meat salad with spices and herbs...",
+      "nl": "Leer over Laab Kua (ลาบคั่ว) - Noordelijke stijl vleessalade met specerijen en kruiden..."
+    }
+  },
+  "tags": [
+    "thais-eten",
+    "thailand",
+    "salade",
+    "noordelijke",
+    "pittig",
+    "gemiddeld",
+    "budget",
+    "gehakt-varkens- of rundvlees",
+    "gedroogde-specerijen",
+    "kruiden"
+  ],
+  "cooking": {
+    "preparation_time": "20 minuten",
+    "difficulty": "gemiddeld",
+    "spice_level": "pittig",
+    "serves": "2-4 personen"
+  },
+  "nutrition": {
+    "allergens": [],
+    "dietary": [],
+    "price_range": "budget"
+  },
+  "enhanced_description": "Laab Kua is een geliefde frisse en levendige salade uit Noord-Thailand die pittig en gedurfd is. Noordelijke stijl vleessalade met specerijen en kruiden. Dit gemiddelde recept duurt ongeveer 20 minuten om te bereiden en belichaamt de authentieke smaken van de Noord-Thaise keuken, gekenmerkt door mildere smaken, kleefrijst en kruiden. De combinatie van gehakt varkens- of rundvlees, gedroogde specerijen en kruiden creëert een harmonieuze mengeling die dit gerecht tot een favoriet heeft gemaakt bij zowel locals als bezoekers. Perfect voor wie op zoek is naar betaalbare authentieke Thaise keuken.",
+  "detailed_ingredients": [
+    {
+      "name": "Minced pork or beef",
+      "purpose": "Essentieel voor authentieke Laab Kua-smaak",
+      "substitutes": [
+        "Vers gehakt varkens- of rundvlees",
+        "Gedroogd gehakt varkens- of rundvlees",
+        "gehakt varkens- of rundvlees pasta"
+      ]
+    },
+    {
+      "name": "Dried spices",
+      "purpose": "Essentieel voor authentieke Laab Kua-smaak",
+      "substitutes": [
+        "Verse gedroogde specerijen",
+        "Gedroogde gedroogde specerijen",
+        "gedroogde specerijen pasta"
+      ]
+    },
+    {
+      "name": "Herbs",
+      "purpose": "Essentieel voor authentieke Laab Kua-smaak",
+      "substitutes": [
+        "Verse kruiden",
+        "Gedroogde kruiden",
+        "kruiden pasta"
+      ]
+    },
+    {
+      "name": "Lime juice",
+      "purpose": "Essentieel voor authentieke Laab Kua-smaak",
+      "substitutes": [
+        "Vers limoensap",
+        "Gedroogd limoensap",
+        "limoensap pasta"
+      ]
+    }
+  ],
+  "cooking_method": {
+    "technique": "Verse bereiding en mengen",
+    "steps_overview": "Het bereiden van Laab Kua vereist aandacht voor detail en juiste timing. De sleutel is om alle smaken in balans te brengen terwijl de textuur van elk ingrediënt behouden blijft. Traditionele methoden die van generatie op generatie zijn doorgegeven, zorgen voor een authentieke smaak.",
+    "cooking_tips": [
+      "Gebruik vers gehakt varkens- of rundvlees voor het beste resultaat",
+      "Pas het pittigheidsniveau aan naar voorkeur",
+      "Kook niet te lang om textuur te behouden",
+      "Proef en pas kruiding aan voor serveren"
+    ]
+  },
+  "cultural_significance": {
+    "origin_story": "Laab Kua is al generaties lang een basisgerecht in de Noord-Thaise keuken en weerspiegelt de unieke culinaire tradities en lokale ingrediënten van de regio.",
+    "cultural_importance": "Dit gerecht vertegenwoordigt het hart van de Noord-Thaise kookkunst en toont de balans en harmonie waarvoor de Thaise keuken wereldwijd beroemd is.",
+    "traditional_occasions": [
+      "Familiebijeenkomsten",
+      "Lokale festivals",
+      "Straatvoedselmarkten",
+      "Speciale vieringen"
+    ]
+  },
+  "variations": [
+    {
+      "name": "Laab Kua Classic",
+      "description": "De traditionele versie zoals geserveerd in lokale huizen"
+    },
+    {
+      "name": "Laab Kua Modern",
+      "description": "Moderne twist met premium ingrediënten"
+    },
+    {
+      "name": "Vegetarian Laab Kua",
+      "description": "Plantaardige versie met tofu of paddenstoelen"
+    }
+  ],
+  "serving_suggestions": {
+    "traditional_accompaniments": [
+      "Jasmijnrijst",
+      "Verse groenten",
+      "Thaise kruiden"
+    ],
+    "presentation": "Geserveerd op een bord in traditionele Thaise stijl",
+    "eating_etiquette": "Genoten met vork en lepel volgens Thais gebruik"
+  },
+  "nutritional_info": {
+    "calories_per_serving": "300-500 calorieën",
+    "health_benefits": [
+      "Rijk aan Thaise kruiden en specerijen",
+      "Bron van eiwitten en groenten",
+      "Gebalanceerde smaken en voedingsstoffen"
+    ],
+    "dietary_notes": []
+  },
+  "where_to_find": {
+    "best_restaurants": [
+      "Lokale Noord-Thaise restaurants",
+      "Authentieke straatvoedselkraampjes",
+      "Traditionele markten",
+      "Familiegerunde eettentjes"
+    ],
+    "street_food_areas": [
+      "Nachtmarkten",
+      "Ochtendverse markten",
+      "Lokale food courts"
+    ],
+    "price_ranges": {
+      "street_vendor": "30-50 THB",
+      "market_stall": "40-60 THB",
+      "restaurant": "60-100 THB"
+    }
+  },
+  "translations": {
+    "nl": {
+      "enhanced_description": "Laab Kua is een geliefde frisse en levendige salade uit Noord-Thailand die vurig en gedurfd is. Noordelijke stijl vleessalade met specerijen en kruiden. Dit recept met gemiddelde moeilijkheidsgraad vergt ongeveer 20 minuten bereidingstijd en vertegenwoordigt de authentieke smaken van de Noord-Thaise keuken, gekenmerkt door mildere smaken, kleefrijst en kruiden. De combinatie van gehakt varkens- of rundvlees, gedroogde specerijen en kruiden creëert een harmonieuze mix die dit gerecht tot een favoriet heeft gemaakt onder zowel locals als bezoekers. Perfect voor wie op zoek is naar betaalbare authentieke Thaise keuken.",
+      "detailed_ingredients": [
+        {
+          "name": "Gehakt varkens- of rundvlees",
+          "purpose": "Essentieel voor de authentieke Laab Kua smaak",
+          "substitutes": [
+            "Vers gehakt varkens- of rundvlees",
+            "Kipgehakt",
+            "Tofu (voor vegetarische versie)"
+          ]
+        },
+        {
+          "name": "Gedroogde specerijen",
+          "purpose": "Essentieel voor de authentieke Laab Kua smaak",
+          "substitutes": [
+            "Verse specerijen",
+            "Gemalen specerijen",
+            "Specerijenpoeder"
+          ]
+        },
+        {
+          "name": "Kruiden",
+          "purpose": "Essentieel voor de authentieke Laab Kua smaak",
+          "substitutes": [
+            "Verse kruiden",
+            "Gedroogde kruiden",
+            "Kruidenpasta"
+          ]
+        },
+        {
+          "name": "Limoensap",
+          "purpose": "Essentieel voor de authentieke Laab Kua smaak",
+          "substitutes": [
+            "Vers limoensap",
+            "Citroensap",
+            "Azijn"
+          ]
+        }
+      ],
+      "cooking_method": {
+        "technique": "Verse bereiding en mengen",
+        "steps_overview": "Het bereiden van Laab Kua vereist aandacht voor detail en goede timing. De sleutel is het balanceren van alle smaken terwijl de textuur van elk ingrediënt behouden blijft. Traditionele methoden die van generatie op generatie zijn doorgegeven, garanderen een authentieke smaak.",
+        "cooking_tips": [
+          "Gebruik vers gehakt varkens- of rundvlees voor het beste resultaat",
+          "Pas het pittigheidsgehalte aan naar je voorkeur",
+          "Kook niet te lang om de textuur te behouden",
+          "Proef en pas de kruiding aan voor het serveren"
+        ]
+      },
+      "cultural_significance": {
+        "origin_story": "Laab Kua is al generaties lang een vast onderdeel van de Noord-Thaise keuken en weerspiegelt de unieke culinaire tradities en lokale ingrediënten van de regio.",
+        "cultural_importance": "Dit gerecht vertegenwoordigt het hart van de Noord-Thaise kookkunst en toont de balans en harmonie waarmee de Thaise keuken wereldwijd beroemd is.",
+        "traditional_occasions": [
+          "Familiebijeenkomsten",
+          "Lokale festivals",
+          "Straatvoedselmarkten",
+          "Bijzondere vieringen"
+        ]
+      },
+      "variations": [
+        {
+          "name": "Laab Kua Klassiek",
+          "description": "De traditionele versie zoals geserveerd in lokale huishoudens"
+        },
+        {
+          "name": "Laab Kua Modern",
+          "description": "Hedendaagse variant met premium ingrediënten"
+        },
+        {
+          "name": "Vegetarische Laab Kua",
+          "description": "Plantaardige versie met tofu of paddenstoelen"
+        }
+      ],
+      "serving_suggestions": {
+        "traditional_accompaniments": [
+          "Kleefrijst",
+          "Verse groenten",
+          "Thaise kruiden"
+        ],
+        "presentation": "Geserveerd op een bord in traditionele Noord-Thaise stijl",
+        "eating_etiquette": "Gegeten met kleefrijst en de vingers volgens Noord-Thais gebruik"
+      },
+      "where_to_find": {
+        "best_restaurants": [
+          "Lokale Noord-Thaise restaurants",
+          "Authentieke straatvoedselkramen",
+          "Traditionele markten",
+          "Familiebedrijfjes"
+        ],
+        "street_food_areas": [
+          "Nachtmarkten",
+          "Ochtendverse markten",
+          "Lokale food courts"
+        ]
+      },
+      "translated_at": "2026-03-10T00:00:00.000Z"
+    },
+    "fr": {
+      "enhanced_description": "Laab Kua is een geliefde frisse en levendige salade uit Noord-Thailand, vurig en gedurfd. Een Noord-Thaise vleessalade met specerijen en kruiden. Dit recept van gemiddelde moeilijkheidsgraad vereist ongeveer 20 minuten voorbereiding en vertegenwoordigt de authentieke smaken van de Noord-Thaise keuken, gekenmerkt door mildere smaken, kleefrijst en kruiden. De combinatie van gehakt varkens- of rundvlees, gedroogde specerijen en kruiden creëert een harmonieuze mix die dit gerecht favoriet maakt bij zowel locals als bezoekers. Perfect voor wie betaalbare authentieke Thaise keuken zoekt.",
+      "detailed_ingredients": [
+        {
+          "name": "Viande hachée de porc ou de bœuf",
+          "purpose": "Essentieel voor de authentieke Laab Kua-smaak",
+          "substitutes": [
+            "Vers gehakt varkens- of rundvlees",
+            "Kipgehakt",
+            "Tofu (voor de vegetarische versie)"
+          ]
+        },
+        {
+          "name": "Épices séchées",
+          "purpose": "Essentieel voor de authentieke Laab Kua-smaak",
+          "substitutes": [
+            "Verse specerijen",
+            "Gemalen specerijen",
+            "Specerijenpoeder"
+          ]
+        },
+        {
+          "name": "Herbes",
+          "purpose": "Essentieel voor de authentieke Laab Kua-smaak",
+          "substitutes": [
+            "Verse kruiden",
+            "Gedroogde kruiden",
+            "Kruidenpasta"
+          ]
+        },
+        {
+          "name": "Jus de citron vert",
+          "purpose": "Essentieel voor de authentieke Laab Kua-smaak",
+          "substitutes": [
+            "Vers limoensap",
+            "Citroensap",
+            "Azijn"
+          ]
+        }
+      ],
+      "cooking_method": {
+        "technique": "Verse bereiding en mengen",
+        "steps_overview": "De bereiding van Laab Kua vereist aandacht voor details en goede timing. De sleutel is het balanceren van alle smaken terwijl de textuur van elk ingrediënt behouden blijft. Traditionele methoden die van generatie op generatie zijn doorgegeven, garanderen een authentieke smaak.",
+        "cooking_tips": [
+          "Gebruik vers gehakt varkens- of rundvlees voor het beste resultaat",
+          "Pas het pittigheidsniveau aan volgens je voorkeur",
+          "Kook niet te lang om de textuur te behouden",
+          "Proef en pas de kruiding aan voor het serveren"
+        ]
+      },
+      "cultural_significance": {
+        "origin_story": "Laab Kua is al generaties lang een hoeksteen van de Noord-Thaise keuken en weerspiegelt de unieke culinaire tradities en lokale ingrediënten van de regio.",
+        "cultural_importance": "Dit gerecht vertegenwoordigt het hart van de Noord-Thaise keuken en illustreert de balans en harmonie die de Thaise keuken wereldwijd beroemd maken.",
+        "traditional_occasions": [
+          "Familiebijeenkomsten",
+          "Lokale festivals",
+          "Straatvoedselmarkten",
+          "Speciale vieringen"
+        ]
+      },
+      "variations": [
+        {
+          "name": "Laab Kua Classique",
+          "description": "De traditionele versie zoals geserveerd in lokale huizen"
+        },
+        {
+          "name": "Laab Kua Moderne",
+          "description": "Moderne versie met premium ingrediënten"
+        },
+        {
+          "name": "Laab Kua Végétarien",
+          "description": "Plantaardige versie met tofu of champignons"
+        }
+      ],
+      "serving_suggestions": {
+        "traditional_accompaniments": [
+          "Kleefrijst",
+          "Verse groenten",
+          "Thaise kruiden"
+        ],
+        "presentation": "Geserveerd op een bord in de traditionele stijl van Noord-Thailand",
+        "eating_etiquette": "Geniet ervan met kleefrijst en met de vingers volgens de Noord-Thaise traditie"
+      },
+      "where_to_find": {
+        "best_restaurants": [
+          "Lokale restaurants in Noord-Thailand",
+          "Authentieke straatkraampjes",
+          "Traditionele markten",
+          "Familierestaurants"
+        ],
+        "street_food_areas": [
+          "Nachtmarkten",
+          "Verse ochtendmarkten",
+          "Lokale foodcourts"
+        ]
+      },
+      "translated_at": "2026-03-10T00:00:00.000Z"
+    },
+    "de": {
+      "enhanced_description": "Laab Kua is een populaire frisse en levendige salade uit Noord-Thailand, pittig en krachtig. Een Noord-Thaise vleessalade met specerijen en kruiden. Dit recept van gemiddelde moeilijkheid vereist ongeveer 20 minuten bereidingstijd en vertegenwoordigt de authentieke smaken van de Noord-Thaise keuken, die zich kenmerkt door mildere smaken, kleefrijst en kruiden. De combinatie van gehakt varkens- of rundvlees, gedroogde specerijen en kruiden creëert een harmonieuze mix die dit gerecht zowel bij locals als bij bezoekers favoriet heeft gemaakt. Perfect voor iedereen die betaalbare authentieke Thaise keuken zoekt.",
+      "detailed_ingredients": [
+        {
+          "name": "Hackfleisch vom Schwein oder Rind",
+          "purpose": "Onmisbaar voor de authentieke Laab Kua-smaak",
+          "substitutes": [
+            "Vers varkens- of rundvlees gehakt",
+            "Kipgehakt",
+            "Tofu (voor de vegetarische versie)"
+          ]
+        },
+        {
+          "name": "Getrocknete Gewürze",
+          "purpose": "Onmisbaar voor de authentieke Laab Kua-smaak",
+          "substitutes": [
+            "Verse specerijen",
+            "Gemalen specerijen",
+            "Specerijenpoeder"
+          ]
+        },
+        {
+          "name": "Kräuter",
+          "purpose": "Onmisbaar voor de authentieke Laab Kua-smaak",
+          "substitutes": [
+            "Verse kruiden",
+            "Gedroogde kruiden",
+            "Kruidenpasta"
+          ]
+        },
+        {
+          "name": "Limettensaft",
+          "purpose": "Onmisbaar voor de authentieke Laab Kua-smaak",
+          "substitutes": [
+            "Vers limoensap",
+            "Citroensap",
+            "Azijn"
+          ]
+        }
+      ],
+      "cooking_method": {
+        "technique": "Verse bereiding en mengen",
+        "steps_overview": "De bereiding van Laab Kua vereist aandacht voor detail en goed timen. De sleutel ligt in het balanceren van alle smaken terwijl de textuur van elke ingrediënt behouden blijft. Traditionele methoden, doorgegeven van generatie op generatie, garanderen een authentieke smaak.",
+        "cooking_tips": [
+          "Gebruik vers varkens- of rundvlees gehakt voor het beste resultaat",
+          "Pas de pittigheid aan naar smaak",
+          "Niet te lang koken om de textuur te behouden",
+          "Proef en kruid af voor het serveren"
+        ]
+      },
+      "cultural_significance": {
+        "origin_story": "Laab Kua is al generaties lang een vast onderdeel van de Noord-Thaise keuken en weerspiegelt de unieke culinaire tradities en lokale ingrediënten van de regio.",
+        "cultural_importance": "Dit gerecht vertegenwoordigt het hart van de Noord-Thaise kookkunst en toont de balans en harmonie waarvoor de Thaise keuken wereldwijd beroemd is.",
+        "traditional_occasions": [
+          "Familiebijeenkomsten",
+          "Lokale feesten",
+          "Straatvoedselmarkten",
+          "Speciale vieringen"
+        ]
+      },
+      "variations": [
+        {
+          "name": "Laab Kua Klassisch",
+          "description": "De traditionele versie zoals geserveerd in lokale huishoudens"
+        },
+        {
+          "name": "Laab Kua Modern",
+          "description": "Moderne variant met premium ingrediënten"
+        },
+        {
+          "name": "Vegetarisches Laab Kua",
+          "description": "Plantaardige versie met tofu of paddenstoelen"
+        }
+      ],
+      "serving_suggestions": {
+        "traditional_accompaniments": [
+          "Kleefrijst",
+          "Verse groenten",
+          "Thaise kruiden"
+        ],
+        "presentation": "Geserveerd op een bord in de traditionele Noord-Thaise stijl",
+        "eating_etiquette": "Gegeten met kleefrijst en vingers volgens Noord-Thaise gewoonte"
+      },
+      "where_to_find": {
+        "best_restaurants": [
+          "Lokale Noord-Thaise restaurants",
+          "Authentieke straatkraampjes",
+          "Traditionele markten",
+          "Familiebedrijven"
+        ],
+        "street_food_areas": [
+          "Nachtmarkten",
+          "Verse ochtendmarkten",
+          "Lokale foodcourts"
+        ]
+      },
+      "translated_at": "2026-03-10T00:00:00.000Z"
+    },
+    "zh": {
+      "enhanced_description": "Laab Kua is een geliefde frisse salade uit Noord-Thailand, pittig en gedurfd. Een Noord-Thaise vleessalade met gedroogde specerijen en kruiden. Dit gerecht van gemiddelde moeilijkheid duurt ongeveer 20 minuten bereiding en vertegenwoordigt de authentieke smaken van de Noord-Thaise keuken – gekenmerkt door milde smaken, kleefrijst en kruiden. De combinatie van varkens- of rundvlees gehakt, gedroogde specerijen en kruiden creëert een harmonieuze textuur, waardoor dit gerecht een favoriet is bij locals en toeristen. Ideaal voor wie betaalbare authentieke Thaise gerechten zoekt.",
+      "detailed_ingredients": [
+        {
+          "name": "猪肉末或牛肉末",
+          "purpose": "Kern ingrediënt voor de authentieke Laab Kua-smaak",
+          "substitutes": [
+            "Vers varkensvlees gehakt of rundvlees gehakt",
+            "Kipgehakt",
+            "Tofu (vegetarische versie)"
+          ]
+        },
+        {
+          "name": "干香料",
+          "purpose": "Kern ingrediënt voor de authentieke Laab Kua-smaak",
+          "substitutes": [
+            "Verse specerijen",
+            "Gemalen specerijen",
+            "Specerijenpoeder"
+          ]
+        },
+        {
+          "name": "香草",
+          "purpose": "Kern ingrediënt voor de authentieke Laab Kua-smaak",
+          "substitutes": [
+            "Verse kruiden",
+            "Gedroogde kruiden",
+            "Kruidenpasta"
+          ]
+        },
+        {
+          "name": "青柠汁",
+          "purpose": "Kern ingrediënt voor de authentieke Laab Kua-smaak",
+          "substitutes": [
+            "Vers limoensap",
+            "Citroensap",
+            "醋"
+          ]
+        }
+      ],
+      "cooking_method": {
+        "technique": "Verse bereiding en mengen",
+        "steps_overview": "Het maken van Laab Kua vereist aandacht voor details en goed timen. De sleutel is het balanceren van alle smaken terwijl de textuur van elk ingrediënt behouden blijft. Traditionele kookmethoden, doorgegeven van generatie op generatie, zorgen voor een authentieke smaak.",
+        "cooking_tips": [
+          "Gebruik vers varkens- of rundvlees gehakt voor het beste effect",
+          "Pas de pittigheid aan naar persoonlijke voorkeur",
+          "Kook niet te lang om de textuur te behouden",
+          "Proef en pas de kruiden aan voor het serveren"
+        ]
+      },
+      "cultural_significance": {
+        "origin_story": "Laab Kua is al generaties een klassieker in de Noord-Thaise keuken en belichaamt de unieke kooktradities en lokale ingrediënten van de regio.",
+        "cultural_importance": "Dit gerecht vertegenwoordigt de essentie van Noord-Thaise koken en toont de balans en harmonie waarvoor de Thaise keuken wereldwijd bekendstaat.",
+        "traditional_occasions": [
+          "Familiebijeenkomsten",
+          "Lokale festivals",
+          "Straatvoedselmarkten",
+          "Speciale vieringen"
+        ]
+      },
+      "variations": [
+        {
+          "name": "经典Laab Kua",
+          "description": "De traditionele bereiding in lokale families"
+        },
+        {
+          "name": "创新Laab Kua",
+          "description": "Moderne innovatieve versie met premium ingrediënten"
+        },
+        {
+          "name": "素食Laab Kua",
+          "description": "Vegetarische versie met tofu of paddenstoelen"
+        }
+      ],
+      "serving_suggestions": {
+        "traditional_accompaniments": [
+          "Kleefrijst",
+          "Verse groenten",
+          "Thaise kruiden"
+        ],
+        "presentation": "Geserveerd op een bord in de traditionele Noord-Thaise stijl",
+        "eating_etiquette": "Geniet ervan met kleefrijst en vingers volgens Noord-Thaise traditie"
+      },
+      "where_to_find": {
+        "best_restaurants": [
+          "Lokale Noord-Thaise restaurants",
+          "Authentieke straatsnacks kraampjes",
+          "Traditionele markten",
+          "Familiegerunde winkeltjes"
+        ],
+        "street_food_areas": [
+          "Nachtmarkten",
+          "Ochtendmarkten",
+          "Lokale eetpleinen"
+        ]
+      },
+      "translated_at": "2026-03-11T00:00:00.000Z"
+    },
+    "ru": {
+      "enhanced_description": "Laab Kua is een geliefde frisse en levendige salade uit Noord-Thailand, pittig en intens. Een vleessalade in Noord-stijl met specerijen en kruiden. Dit gerecht van gemiddelde complexiteit bereidt zich in ongeveer 20 minuten en vertegenwoordigt de authentieke smaken van de Noord-Thaise keuken, gekenmerkt door mildere smaken, kleefrijst en kruiden. De combinatie van gehakt varken of rund, gedroogde specerijen en kruiden creëert een harmonieus smaakbalans, waardoor dit gerecht favoriet is bij zowel locals als reizigers. Ideale keuze voor wie betaalbare en authentieke Thaise keuken zoekt.",
+      "detailed_ingredients": [
+        {
+          "name": "Рубленая свинина или говядина",
+          "purpose": "Onmisbaar ingrediënt voor de authentieke Laab Kua-smaak",
+          "substitutes": [
+            "Vers gehakt varken of rund",
+            "Kipgehakt",
+            "Tofu (voor de vegetarische versie)"
+          ]
+        },
+        {
+          "name": "Сушёные специи",
+          "purpose": "Onmisbaar ingrediënt voor de authentieke Laab Kua-smaak",
+          "substitutes": [
+            "Verse specerijen",
+            "Gemalen specerijen",
+            "Specerijenpoeder"
+          ]
+        },
+        {
+          "name": "Травы",
+          "purpose": "Onmisbaar ingrediënt voor de authentieke Laab Kua-smaak",
+          "substitutes": [
+            "Verse kruiden",
+            "Gedroogde kruiden",
+            "Kruidenpasta"
+          ]
+        },
+        {
+          "name": "Сок лайма",
+          "purpose": "Onmisbaar ingrediënt voor de authentieke Laab Kua-smaak",
+          "substitutes": [
+            "Vers limoensap",
+            "Citroensap",
+            "Azijn"
+          ]
+        }
+      ],
+      "cooking_method": {
+        "technique": "Verse bereiding en mengen",
+        "steps_overview": "Het bereiden van Laab Kua vereist aandacht voor details en correcte tijdsberekening. Het belangrijkste is het balanceren van alle smaken terwijl de textuur van elk ingrediënt behouden blijft. Traditionele methoden, doorgegeven van generatie op generatie, zorgen voor een authentieke smaak.",
+        "cooking_tips": [
+          "Gebruik vers gehakt varken of rund voor het beste resultaat",
+          "Pas de pittigheid aan naar smaak",
+          "Kook niet te lang om de textuur te behouden",
+          "Proef en corrigeer de kruiden voor het serveren"
+        ]
+      },
+      "cultural_significance": {
+        "origin_story": "Laab Kua is al vele generaties een klassieker in de Noord-Thaise keuken en weerspiegelt de unieke culinaire tradities en lokale ingrediënten van de regio.",
+        "cultural_importance": "Dit gerecht belichaamt het hart van de Noord-Thaise culinaire kunst en demonstreert de balans en harmonie waarvoor de Thaise keuken wereldwijd beroemd is.",
+        "traditional_occasions": [
+          "Familiebijeenkomsten",
+          "Lokale festivals",
+          "Markten met straatvoedsel",
+          "Speciale feesten"
+        ]
+      },
+      "variations": [
+        {
+          "name": "Классический Лааб Куа",
+          "description": "De traditionele versie zoals bereid in lokale huizen"
+        },
+        {
+          "name": "Современный Лааб Куа",
+          "description": "Moderne interpretatie met premium ingrediënten"
+        },
+        {
+          "name": "Вегетарианский Лааб Куа",
+          "description": "Plantaardige versie met tofu of paddenstoelen"
+        }
+      ],
+      "serving_suggestions": {
+        "traditional_accompaniments": [
+          "Kleefrijst",
+          "Verse groenten",
+          "Thaise kruiden"
+        ],
+        "presentation": "Geserveerd op een bord in de traditionele Noord-Thaise stijl",
+        "eating_etiquette": "Gegeten met kleefrijst met de handen volgens Noord-Thaise gewoonte"
+      },
+      "where_to_find": {
+        "best_restaurants": [
+          "Lokale Noord-Thaise restaurants",
+          "Authentieke straatkarren",
+          "Traditionele markten",
+          "Familievestigingen"
+        ],
+        "street_food_areas": [
+          "Nachtmarkten",
+          "Verse ochtendmarkten",
+          "Lokale foodcourts"
+        ]
+      },
+      "translated_at": "2026-03-11T00:00:00.000Z"
+    },
+    "ko": {
+      "enhanced_description": "Laab Kua is een representatief vleesgerecht uit Noord-Thailand, Chiang Mai, en verschilt volledig van 'laab' uit de Isan (Noordoost)-regio. Het kenmerk is het roerbakken van gehakt varken of rundvlees met gedroogde specerijen in een wok, waarbij 'kua' in het Thais 'roerbakken' betekent. Het is in ongeveer 20 minuten klaar, en in tegenstelling tot rauwe laab wordt het vlees volledig gaar gemaakt. De intense en geurige smaken van gedroogde specerijen (zoals lange peper, mak ken, komijn etc.) en de frisheid van kruiden vormen een harmonieus pittig en verslavend Noord-Thais soul food.",
+      "detailed_ingredients": [
+        {
+          "name": "다진 돼지고기 또는 소고기",
+          "purpose": "Het hoofdingrediënt dat umami creëert door roerbakken in de wok",
+          "substitutes": [
+            "Gehakt varkensvlees",
+            "Gehakt rundvlees",
+            "Gehakt kip (als alternatief)"
+          ]
+        },
+        {
+          "name": "건조 향신료 (긴 후추, 마카엔, 커민 등)",
+          "purpose": "Het hart dat de identiteit van Laab Kua vormt – de unieke Noord-Thaise specerijenmix",
+          "substitutes": [
+            "Noord-Thaise Laab specerijenmix",
+            "geroosterde rijstmeel + gedroogde chili",
+            "vijfkruidenpoeder (eenvoudig alternatief)"
+          ]
+        },
+        {
+          "name": "신선한 허브 (민트, 고수, 쪽파 등)",
+          "purpose": "afwerkingsingrediënt dat verse aroma en knapperige textuur toevoegt aan gebakken vlees",
+          "substitutes": [
+            "munt",
+            "koriander",
+            "bieslook",
+            "perilla bladeren"
+          ]
+        },
+        {
+          "name": "라임즙과 액젓",
+          "purpose": "essentiële kruiden voor het balanceren van zure en zoute smaken",
+          "substitutes": [
+            "limoensap",
+            "citroensap (alternatief)",
+            "vis酱",
+            "sojasaus (alternatief)"
+          ]
+        }
+      ],
+      "cooking_method": {
+        "technique": "wok bakken (droge specerijen en hoge hitte bakken)",
+        "steps_overview": "Om laab kua te maken, rooster je eerst droge specerijen (lange peper, mak khen, komijn etc.) in een pan om aroma te krijgen en maal ze tot poeder. Doe gehakt vlees in een hete wok zonder olie en bak tot het vocht verdampt, voeg dan specerijenpoeder toe en bak mee. Breng op smaak met vis酱, haal van het vuur en meng met verse kruiden en bieslook om af te maken.",
+        "cooking_tips": [
+          "Droog specerijen zelf roosteren en malen geeft veel beter aroma dan kant-en-klare poeder",
+          "Bak het vlees zonder olie, gebruik het eigen vet van het vlees, dat is de traditionele manier",
+          "Bak tot al het vocht verdampt is voor een knapperige textuur",
+          "Voeg kruiden toe na het uitschakelen van het vuur om het verse aroma te behouden"
+        ]
+      },
+      "cultural_significance": {
+        "origin_story": "Laab kua is een traditioneel gerecht uit het noorden van Thailand, uit het Lanna-koninkrijk, en verschilt volledig van de rauwe laab isaan uit het noordoosten. Het weerspiegelt de droge specerijencultuur van Noord-Thailand (mak khen, lange peper etc.) en is beïnvloed door Myanmar en de Chinese provincie Yunnan.",
+        "cultural_importance": "Laab kua vertegenwoordigt de culinaire identiteit van Chiang Mai en Noord-Thailand. Hoewel laab isaan landelijk beroemd is, zijn de noorderlingen trots op hun 'kua'-stijl als de echte laab. Traditioneel gegeten met kleefrijst, en populair als borrelhapje bij bier.",
+        "traditional_occasions": [
+          "Familiebijeenkomsten",
+          "Borrelhapje bij bier",
+          "Festivalgerecht",
+          "Dagelijks maal"
+        ]
+      },
+      "variations": [
+        {
+          "name": "랍꾸아 무 (돼지고기)",
+          "description": "De meest traditionele en populaire versie met gehakt varkensvlees."
+        },
+        {
+          "name": "랍꾸아 느아 (소고기)",
+          "description": "Variatie met gehakt rundvlees, met een intensere umami-smaak."
+        },
+        {
+          "name": "랍꾸아 크루앙나이 (내장)",
+          "description": "Traditionele variatie met ingewanden zoals lever en longen."
+        }
+      ],
+      "serving_suggestions": {
+        "traditional_accompaniments": [
+          "Kleefrijst (khao niaow)",
+          "Verse groenten (kool, perilla bladeren, munt)",
+          "Chili"
+        ],
+        "presentation": "Serveren op een bord met verse kruiden in Noord-Thaise stijl",
+        "eating_etiquette": "Volgens Noord-Thaise gewoonten eet je kleefrijst met de hand en combineert met laab"
+      },
+      "where_to_find": {
+        "best_restaurants": [
+          "Lokale Noord-Thaise restaurants",
+          "Chiang Mai Old City restaurants",
+          "Lanna traditionele restaurants",
+          "Bierrestaurants"
+        ],
+        "street_food_areas": [
+          "Chiang Mai night markets",
+          "Ochtendmarkten",
+          "Lokale food courts"
+        ],
+        "price_ranges": {
+          "street_vendor": "40-60 THB",
+          "market_stall": "50-80 THB",
+          "restaurant": "80-150 THB"
+        }
+      },
+      "translated_at": "2026-03-14T00:00:00.000Z"
+    },
+    "th": {
+      "enhanced_description": "ลาบคั่วเป็นอาหารเหนือที่มีเอกลักษณ์เฉพาะ เนื้อสับคั่วในกระทะแห้งกับสมุนไพรและเครื่องเทศจนหอมกรุ่น รสเผ็ดจัดจ้านตามสไตล์คนเหนือ ต่างจากลาบอีสานที่เป็นแบบสด",
+      "detailed_ingredients": [
+        {
+          "name": "Minced pork or beef",
+          "purpose": "Essentieel voor de authentieke smaak van Laab Kua",
+          "substitutes": [
+            "Vers gehakt varkens- of rundvlees",
+            "Gedroogd gehakt varkens- of rundvlees",
+            "gehakt varkens- of rundvlees pasta"
+          ]
+        },
+        {
+          "name": "Dried spices",
+          "purpose": "Essentieel voor de authentieke smaak van Laab Kua",
+          "substitutes": [
+            "Verse gedroogde specerijen",
+            "Gedroogde gedroogde specerijen",
+            "gedroogde specerijen pasta"
+          ]
+        },
+        {
+          "name": "Herbs",
+          "purpose": "Essentieel voor de authentieke smaak van Laab Kua",
+          "substitutes": [
+            "Verse kruiden",
+            "Gedroogde kruiden",
+            "kruiden pasta"
+          ]
+        },
+        {
+          "name": "Lime juice",
+          "purpose": "Essentieel voor de authentieke smaak van Laab Kua",
+          "substitutes": [
+            "Vers limoensap",
+            "Gedroogd limoensap",
+            "limoen sap pasta"
+          ]
+        }
+      ],
+      "cooking_method": {
+        "technique": "Verse bereiding en mengen",
+        "steps_overview": "De bereiding van Laab Kua vereist aandacht voor details en het juiste tijdstip. Het is belangrijk om alle smaken in balans te brengen terwijl de textuur van elk ingrediënt behouden blijft. De traditionele methode, doorgegeven door generaties, garandeert authentieke smaak.",
+        "cooking_tips": [
+          "Gebruik vers gehakt varkens- of rundvlees voor het beste resultaat",
+          "Pas de pittigheid aan naar smaak",
+          "Kook niet te lang om de textuur te behouden",
+          "Proef en breng op smaak voor het serveren"
+        ]
+      },
+      "cultural_significance": {
+        "origin_story": "Dit gerecht is al generaties lang deel van de Noord-Thaise voedselcultuur en weerspiegelt de unieke kooktradities en lokale ingrediënten van de regio.",
+        "cultural_importance": "Dit gerecht is het hart van de Noord-Thaise keuken en toont de balans en harmonie waar Thaise keuken wereldwijd om geprezen wordt.",
+        "traditional_occasions": [
+          "Familiebijeenkomsten",
+          "Lokale festivals",
+          "Straatvoedselmarkten",
+          "Speciale vieringen"
+        ]
+      },
+      "variations": [
+        {
+          "name": "Laab Kua Classic",
+          "description": "Traditionele versie geserveerd in lokale huizen"
+        },
+        {
+          "name": "Laab Kua Modern",
+          "description": "Moderne versie met premium ingrediënten"
+        },
+        {
+          "name": "Vegetarian Laab Kua",
+          "description": "Vegetarische versie met tofu of paddenstoelen"
+        }
+      ],
+      "serving_suggestions": {
+        "traditional_accompaniments": [
+          "Jasmijnrijst",
+          "Verse groenten",
+          "Thaise kruiden"
+        ],
+        "presentation": "Geserveerd op een traditioneel Thais bord",
+        "eating_etiquette": "Eet met lepel en vork volgens Thaise traditie"
+      },
+      "where_to_find": {
+        "best_restaurants": [
+          "Lokale Noord-Thaise restaurants",
+          "Authentieke straatkraampjes",
+          "Traditionele markten",
+          "Familierestaurants"
+        ],
+        "street_food_areas": [
+          "Nachtmarkten",
+          "Ochtendmarkten",
+          "Lokale voedselcentra"
+        ],
+        "price_ranges": {
+          "street_vendor": "30-50 THB",
+          "market_stall": "40-60 THB",
+          "restaurant": "60-100 THB"
+        }
+      },
+      "translated_at": "2026-03-14T00:00:00.000Z"
+    },
+    "ja": {
+      "enhanced_description": "Laab kua is een geliefde, frisse en pittige salade uit Noord-Thailand. Een Noord-Thaise vleessalade met veel specerijen en kruiden, die in ongeveer 20 minuten voorbereid kan worden. Het brengt de smaken van authentieke Noord-Thaise keuken tot leven, met milde tonen gecombineerd met kleefrijst en kruiden. De combinatie van gehakt vlees (varkens- of rundvlees), gedroogde specerijen en kruiden creëert een harmonieuze smaak, populair bij locals en bezoekers. Ideaal voor wie betaalbare, authentieke Thaise gerechten zoekt.",
+      "detailed_ingredients": [
+        {
+          "name": "挽肉（豚肉または牛肉）",
+          "purpose": "Onmisbaar voor de authentieke smaak van Laab Kua",
+          "substitutes": [
+            "Vers gehakt vlees (varkens- of rundvlees)",
+            "Gedroogd gehakt vlees (varkens- of rundvlees)",
+            "gehakt vlees pasta"
+          ]
+        },
+        {
+          "name": "乾燥スパイス",
+          "purpose": "Onmisbaar voor de authentieke smaak van Laab Kua",
+          "substitutes": [
+            "Verse specerijen",
+            "Gedroogde specerijen",
+            "specerijen pasta"
+          ]
+        },
+        {
+          "name": "ハーブ",
+          "purpose": "Onmisbaar voor de authentieke smaak van Laab Kua",
+          "substitutes": [
+            "Verse kruiden",
+            "Gedroogde kruiden",
+            "kruiden pasta"
+          ]
+        },
+        {
+          "name": "ライムジュース",
+          "purpose": "Onmisbaar voor de authentieke smaak van Laab Kua",
+          "substitutes": [
+            "Vers limoensap",
+            "Gedroogd limoensap",
+            "limoen sap pasta"
+          ]
+        }
+      ],
+      "cooking_method": {
+        "technique": "Bereiding van verse ingrediënten en mengen",
+        "steps_overview": "De bereiding van Laab Kua vereist aandacht voor details en het juiste tijdstip. Het is essentieel om alle smaken in balans te brengen terwijl de textuur van elk ingrediënt behouden blijft. De traditionele methode, doorgegeven door generaties, garandeert authentieke smaak.",
+        "cooking_tips": [
+          "Gebruik vers gehakt vlees (varkens- of rundvlees) voor het beste resultaat",
+          "Pas de pittigheid aan naar smaak",
+          "Kook niet te lang om de textuur te behouden",
+          "Proef en pas de kruiden aan voor het serveren"
+        ]
+      },
+      "cultural_significance": {
+        "origin_story": "Laab Kua heeft een lange geschiedenis als traditioneel hoofdgerecht in de Noord-Thaise keuken en weerspiegelt de unieke kooktradities en lokale ingrediënten van de regio.",
+        "cultural_importance": "Dit gerecht vormt het hart van de Noord-Thaise keuken en belichaamt de harmonie en balans waar Thaise keuken wereldwijd voor geprezen wordt.",
+        "traditional_occasions": [
+          "Familiebijeenkomsten",
+          "Lokale festivals",
+          "Straatvoedselmarkten",
+          "Speciale vieringen"
+        ]
+      },
+      "variations": [
+        {
+          "name": "ラープ クア クラシック",
+          "description": "Traditionele versie geserveerd in lokale huizen"
+        },
+        {
+          "name": "ラープ クア モダン",
+          "description": "Moderne versie met hoogwaardige ingrediënten"
+        },
+        {
+          "name": "ベジタリアン・ラープ クア",
+          "description": "Plantaardige versie met tofu of paddenstoelen"
+        }
+      ],
+      "serving_suggestions": {
+        "traditional_accompaniments": [
+          "Jasmijnrijst",
+          "Verse groenten",
+          "Thaise kruiden"
+        ],
+        "presentation": "Geserveerd op een bord in traditionele Thaise stijl",
+        "eating_etiquette": "Eet met vork en lepel volgens Thaise gewoonten"
+      },
+      "where_to_find": {
+        "best_restaurants": [
+          "Lokale Noord-Thaise restaurants",
+          "Authentieke straatkraampjes",
+          "Traditionele markten",
+          "Familiebedrijven"
+        ],
+        "street_food_areas": [
+          "Nachtmarkten",
+          "Ochtendmarkten",
+          "Lokale food courts"
+        ],
+        "price_ranges": {
+          "street_vendor": "30-50 THB",
+          "market_stall": "40-60 THB",
+          "restaurant": "60-100 THB"
+        }
+      },
+      "translated_at": "2026-03-14T00:00:00.000Z"
+    }
+  }
+}

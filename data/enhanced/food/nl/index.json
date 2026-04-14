@@ -1,0 +1,968 @@
+[
+  {
+    "id": 1,
+    "slug": "pad-krapow",
+    "name": {
+      "en": "Pad Krapow",
+      "nl": "Pad Krapow",
+      "thai": "ผัดกะเพรา"
+    },
+    "category": "hoofdgerecht",
+    "region": "centraal",
+    "spice_level": "pittig",
+    "image": "/images/food/pad-krapow.webp",
+    "difficulty": "makkelijk",
+    "preparation_time": "15 minuten",
+    "price_range": "budget",
+    "ingredients": [
+      "Thaise basilicum",
+      "gehakt varkensvlees",
+      "knoflook"
+    ]
+  },
+  {
+    "id": 2,
+    "slug": "som-tam",
+    "name": {
+      "en": "Som Tam",
+      "nl": "Som Tam",
+      "thai": "ส้มตำ"
+    },
+    "category": "salade",
+    "region": "noordoostelijk",
+    "spice_level": "gemiddeld",
+    "image": "/images/food/som-tam.webp",
+    "difficulty": "makkelijk",
+    "preparation_time": "10 minuten",
+    "price_range": "budget",
+    "ingredients": [
+      "groene papaja",
+      "tomaten",
+      "limoensap"
+    ]
+  },
+  {
+    "id": 3,
+    "slug": "tom-yum-goong",
+    "name": {
+      "en": "Tom Yum Goong",
+      "nl": "Tom Yum Goong",
+      "thai": "ต้มยำกุ้ง"
+    },
+    "category": "soep",
+    "region": "centraal",
+    "spice_level": "pittig",
+    "image": "/images/food/tom-yum-goong.webp",
+    "difficulty": "gemiddeld",
+    "preparation_time": "20 minuten",
+    "price_range": "middenklasse",
+    "ingredients": [
+      "garnalen",
+      "citroengras",
+      "kaffir limoenblaadjes"
+    ]
+  },
+  {
+    "id": 4,
+    "slug": "pad-thai",
+    "name": {
+      "en": "Pad Thai",
+      "nl": "Pad Thai",
+      "thai": "ผัดไทย"
+    },
+    "category": "hoofdgerecht",
+    "region": "centraal",
+    "spice_level": "mild",
+    "image": "/images/food/pad-thai.webp",
+    "difficulty": "gemiddeld",
+    "preparation_time": "15 minuten",
+    "price_range": "budget",
+    "ingredients": [
+      "rijstnoedels",
+      "tofu",
+      "tauge"
+    ]
+  },
+  {
+    "id": 5,
+    "slug": "green-curry",
+    "name": {
+      "en": "Green Curry",
+      "nl": "Groene Curry",
+      "thai": "แกงเขียวหวาน"
+    },
+    "category": "curry",
+    "region": "centraal",
+    "spice_level": "pittig",
+    "image": "/images/food/green-curry.webp",
+    "difficulty": "gemiddeld",
+    "preparation_time": "25 minuten",
+    "price_range": "middenklasse",
+    "ingredients": [
+      "groene currypasta",
+      "kokosmelk",
+      "Thaise aubergine"
+    ]
+  },
+  {
+    "id": 6,
+    "slug": "mango-sticky-rice",
+    "name": {
+      "en": "Mango Sticky Rice",
+      "nl": "Mango Sticky Rice",
+      "thai": "ข้าวเหนียวมะม่วง"
+    },
+    "category": "dessert",
+    "region": "centraal",
+    "spice_level": "geen",
+    "image": "/images/food/mango-sticky-rice.webp",
+    "difficulty": "makkelijk",
+    "preparation_time": "30 minuten",
+    "price_range": "budget",
+    "ingredients": [
+      "kleefrijst",
+      "mango",
+      "kokosmelk"
+    ]
+  },
+  {
+    "id": 7,
+    "slug": "massaman-curry",
+    "name": {
+      "en": "Massaman Curry",
+      "nl": "Massaman Curry",
+      "thai": "แกงมัสมั่น"
+    },
+    "category": "curry",
+    "region": "zuidelijk",
+    "spice_level": "gemiddeld",
+    "image": "/images/food/massaman-curry.webp",
+    "difficulty": "gemiddeld",
+    "preparation_time": "45 minuten",
+    "price_range": "middenklasse",
+    "ingredients": [
+      "massamanpasta",
+      "kokosmelk",
+      "rundvlees"
+    ]
+  },
+  {
+    "id": 8,
+    "slug": "larb",
+    "name": {
+      "en": "Larb",
+      "nl": "Larb",
+      "thai": "ลาบ"
+    },
+    "category": "salade",
+    "region": "noordoostelijk",
+    "spice_level": "pittig",
+    "image": "/images/food/larb.webp",
+    "difficulty": "makkelijk",
+    "preparation_time": "15 minuten",
+    "price_range": "budget",
+    "ingredients": [
+      "gehakt varkensvlees",
+      "munt",
+      "koriander"
+    ]
+  },
+  {
+    "id": 9,
+    "slug": "pad-see-ew",
+    "name": {
+      "en": "Pad See Ew",
+      "nl": "Pad See Ew",
+      "thai": "ผัดซีอิ๊ว"
+    },
+    "category": "hoofdgerecht",
+    "region": "centraal",
+    "spice_level": "mild",
+    "image": "/images/food/pad-see-ew.webp",
+    "difficulty": "makkelijk",
+    "preparation_time": "15 minuten",
+    "price_range": "budget",
+    "ingredients": [
+      "brede rijstnoedels",
+      "donkere sojasaus",
+      "Chinese broccoli"
+    ]
+  },
+  {
+    "id": 10,
+    "slug": "thai-fried-rice",
+    "name": {
+      "en": "Thai Fried Rice",
+      "nl": "Thaise Gebakken Rijst",
+      "thai": "ข้าวผัด"
+    },
+    "category": "hoofdgerecht",
+    "region": "centraal",
+    "spice_level": "mild",
+    "image": "/images/food/thai-fried-rice.webp",
+    "difficulty": "makkelijk",
+    "preparation_time": "12 minuten",
+    "price_range": "budget",
+    "ingredients": [
+      "jasmijnrijst",
+      "vis saus",
+      "knoflook"
+    ]
+  },
+  {
+    "id": 11,
+    "slug": "khao-man-gai",
+    "name": {
+      "en": "Khao Man Gai",
+      "nl": "Khao Man Gai",
+      "thai": "ข้าวมันไก่"
+    },
+    "category": "hoofdgerecht",
+    "region": "centraal",
+    "spice_level": "mild",
+    "image": "/images/food/khao-man-gai.webp",
+    "difficulty": "gemiddeld",
+    "preparation_time": "45 minuten",
+    "price_range": "budget",
+    "ingredients": [
+      "kip",
+      "rijst",
+      "gember"
+    ]
+  },
+  {
+    "id": 12,
+    "slug": "boat-noodles",
+    "name": {
+      "en": "Boat Noodles",
+      "nl": "Boot Noedels",
+      "thai": "ก๋วยเตี๋ยวเรือ"
+    },
+    "category": "soep",
+    "region": "centraal",
+    "spice_level": "gemiddeld",
+    "image": "/images/food/boat-noodles.webp",
+    "difficulty": "gemiddeld",
+    "preparation_time": "30 minuten",
+    "price_range": "budget",
+    "ingredients": [
+      "rijstnoedels",
+      "varkens- of rundvlees",
+      "donkere sojasaus"
+    ]
+  },
+  {
+    "id": 13,
+    "slug": "khao-soi",
+    "name": {
+      "en": "Khao Soi",
+      "nl": "Khao Soi",
+      "thai": "ข้าวซอย"
+    },
+    "category": "soep",
+    "region": "noordelijk",
+    "spice_level": "gemiddeld",
+    "image": "/images/food/khao-soi.webp",
+    "difficulty": "gemiddeld",
+    "preparation_time": "35 minuten",
+    "price_range": "budget",
+    "ingredients": [
+      "eiernoedels",
+      "kokosmelk",
+      "currypasta"
+    ]
+  },
+  {
+    "id": 14,
+    "slug": "sai-ua",
+    "name": {
+      "en": "Sai Ua",
+      "nl": "Sai Ua",
+      "thai": "ไส้อั่ว"
+    },
+    "category": "hoofdgerecht",
+    "region": "noordelijk",
+    "spice_level": "pittig",
+    "image": "/images/food/sai-ua.webp",
+    "difficulty": "moeilijk",
+    "preparation_time": "60 minuten",
+    "price_range": "middenklasse",
+    "ingredients": [
+      "varkensvlees",
+      "citroengras",
+      "kaffir limoenblaadjes"
+    ]
+  },
+  {
+    "id": 15,
+    "slug": "nam-prik-ong",
+    "name": {
+      "en": "Nam Prik Ong",
+      "nl": "Nam Prik Ong",
+      "thai": "น้ำพริกอ่อง"
+    },
+    "category": "hoofdgerecht",
+    "region": "noordelijk",
+    "spice_level": "gemiddeld",
+    "image": "/images/food/nam-prik-ong.webp",
+    "difficulty": "makkelijk",
+    "preparation_time": "25 minuten",
+    "price_range": "budget",
+    "ingredients": [
+      "tomaten",
+      "gehakt varkensvlees",
+      "sjalotten"
+    ]
+  },
+  {
+    "id": 16,
+    "slug": "gaeng-hang-lay",
+    "name": {
+      "en": "Gaeng Hang Lay",
+      "nl": "Gaeng Hang Lay",
+      "thai": "แกงฮังเล"
+    },
+    "category": "curry",
+    "region": "noordelijk",
+    "spice_level": "mild",
+    "image": "/images/food/gaeng-hang-lay.webp",
+    "difficulty": "gemiddeld",
+    "preparation_time": "90 minuten",
+    "price_range": "middenklasse",
+    "ingredients": [
+      "varkensbuik",
+      "sjalotten",
+      "knoflook"
+    ]
+  },
+  {
+    "id": 17,
+    "slug": "mee-hokkien",
+    "name": {
+      "en": "Mee Hokkien",
+      "nl": "Mee Hokkien",
+      "thai": "หมี่ฮกเกี้ยน"
+    },
+    "category": "hoofdgerecht",
+    "region": "zuidelijk",
+    "spice_level": "mild",
+    "image": "/images/food/mee-hokkien.webp",
+    "difficulty": "gemiddeld",
+    "preparation_time": "20 minuten",
+    "price_range": "middenklasse",
+    "ingredients": [
+      "gele noedels",
+      "garnalen",
+      "inktvis"
+    ]
+  },
+  {
+    "id": 18,
+    "slug": "oh-aew",
+    "name": {
+      "en": "Oh Aew",
+      "nl": "Oh Aew",
+      "thai": "โอ้เอ๋ว"
+    },
+    "category": "nagerecht",
+    "region": "zuidelijk",
+    "spice_level": "geen",
+    "image": "/images/food/oh-aew.webp",
+    "difficulty": "makkelijk",
+    "preparation_time": "15 minuten",
+    "price_range": "budget",
+    "ingredients": [
+      "bananenmeelgelei",
+      "geschaafd ijs",
+      "siroop"
+    ]
+  },
+  {
+    "id": 19,
+    "slug": "nam-prik-goong-siap",
+    "name": {
+      "en": "Nam Prik Goong Siap",
+      "nl": "Nam Prik Goong Siap",
+      "thai": "น้ำพริกกุ้งเสียบ"
+    },
+    "category": "hoofdgerecht",
+    "region": "zuidelijk",
+    "spice_level": "pittig",
+    "image": "/images/food/nam-prik-goong-siap.webp",
+    "difficulty": "makkelijk",
+    "preparation_time": "20 minuten",
+    "price_range": "budget",
+    "ingredients": [
+      "gedroogde garnalen",
+      "chilipeper",
+      "knoflook"
+    ]
+  },
+  {
+    "id": 20,
+    "slug": "moo-hong",
+    "name": {
+      "en": "Moo Hong",
+      "nl": "Moo Hong",
+      "thai": "หมูฮ้อง"
+    },
+    "category": "hoofdgerecht",
+    "region": "zuidelijk",
+    "spice_level": "mild",
+    "image": "/images/food/moo-hong.webp",
+    "difficulty": "medium",
+    "preparation_time": "90 minuten",
+    "price_range": "middenklasse",
+    "ingredients": [
+      "buikspek",
+      "sojasaus",
+      "palmsuiker"
+    ]
+  },
+  {
+    "id": 21,
+    "slug": "kanom-jeen-nam-ya",
+    "name": {
+      "en": "Kanom Jeen Nam Ya",
+      "nl": "Kanom Jeen Nam Ya",
+      "thai": "ขนมจีนน้ำยา"
+    },
+    "category": "hoofdgerecht",
+    "region": "zuidelijk",
+    "spice_level": "medium",
+    "image": "/images/food/kanom-jeen-nam-ya.webp",
+    "difficulty": "moeilijk",
+    "preparation_time": "45 minuten",
+    "price_range": "budget",
+    "ingredients": [
+      "gefermenteerde rijstnoedels",
+      "vis",
+      "citroengras"
+    ]
+  },
+  {
+    "id": 22,
+    "slug": "hoy-tod",
+    "name": {
+      "en": "Hoy Tod",
+      "nl": "Hoy Tod",
+      "thai": "หอยทอด"
+    },
+    "category": "hoofdgerecht",
+    "region": "centraal",
+    "spice_level": "mild",
+    "image": "/images/food/hoy-tod.webp",
+    "difficulty": "medium",
+    "preparation_time": "15 minuten",
+    "price_range": "budget",
+    "ingredients": [
+      "mosselen of oesters",
+      "bloem",
+      "ei"
+    ]
+  },
+  {
+    "id": 23,
+    "slug": "pla-pao",
+    "name": {
+      "en": "Pla Pao",
+      "nl": "Pla Pao",
+      "thai": "ปลาเผา"
+    },
+    "category": "hoofdgerecht",
+    "region": "centraal",
+    "spice_level": "mild",
+    "image": "/images/food/pla-pao.webp",
+    "difficulty": "medium",
+    "preparation_time": "40 minuten",
+    "price_range": "middenklasse",
+    "ingredients": [
+      "gehele vis",
+      "grof zout",
+      "citroengras"
+    ]
+  },
+  {
+    "id": 24,
+    "slug": "yam-woon-sen",
+    "name": {
+      "en": "Yam Woon Sen",
+      "nl": "Yam Woon Sen",
+      "thai": "ยำวุ้นเส้น"
+    },
+    "category": "salade",
+    "region": "centraal",
+    "spice_level": "medium",
+    "image": "/images/food/yam-woon-sen.webp",
+    "difficulty": "makkelijk",
+    "preparation_time": "20 minuten",
+    "price_range": "budget",
+    "ingredients": [
+      "glasnoedels",
+      "garnalen",
+      "gemalen varkensvlees"
+    ]
+  },
+  {
+    "id": 25,
+    "slug": "khao-pad-sapparot",
+    "name": {
+      "en": "Khao Pad Sapparot",
+      "nl": "Khao Pad Sapparot",
+      "thai": "ข้าวผัดสับปะรด"
+    },
+    "category": "hoofdgerecht",
+    "region": "centraal",
+    "spice_level": "mild",
+    "image": "/images/food/khao-pad-sapparot.webp",
+    "difficulty": "medium",
+    "preparation_time": "20 minuten",
+    "price_range": "middenklasse",
+    "ingredients": [
+      "rijst",
+      "ananas",
+      "garnalen"
+    ]
+  },
+  {
+    "id": 26,
+    "slug": "roti-sai-mai",
+    "name": {
+      "en": "Roti Sai Mai",
+      "nl": "Roti Sai Mai",
+      "thai": "โรตีสายไหม"
+    },
+    "category": "nagerecht",
+    "region": "centraal",
+    "spice_level": "geen",
+    "image": "/images/food/roti-sai-mai.webp",
+    "difficulty": "moeilijk",
+    "preparation_time": "30 minuten",
+    "price_range": "budget",
+    "ingredients": [
+      "bloem",
+      "suiker",
+      "voedselkleuring"
+    ]
+  },
+  {
+    "id": 27,
+    "slug": "tom-yum-noodles",
+    "name": {
+      "en": "Tom Yum Noodles",
+      "nl": "Tom Yum Noedels",
+      "thai": "ก๋วยเตี๋ยวต้มยำ"
+    },
+    "category": "soep",
+    "region": "centraal",
+    "spice_level": "pittig",
+    "image": "/images/food/tom-yum-noodles.webp",
+    "difficulty": "makkelijk",
+    "preparation_time": "15 minuten",
+    "price_range": "budget",
+    "ingredients": [
+      "rijstnoedels",
+      "visballetjes",
+      "limoensap"
+    ]
+  },
+  {
+    "id": 28,
+    "slug": "khao-mok-gai",
+    "name": {
+      "en": "Khao Mok Gai",
+      "nl": "Khao Mok Gai",
+      "thai": "ข้าวหมกไก่"
+    },
+    "category": "hoofdgerecht",
+    "region": "zuidelijk",
+    "spice_level": "mild",
+    "image": "/images/food/khao-mok-gai.webp",
+    "difficulty": "medium",
+    "preparation_time": "60 minuten",
+    "price_range": "budget",
+    "ingredients": [
+      "kip",
+      "rijst",
+      "kurkuma"
+    ]
+  },
+  {
+    "id": 29,
+    "slug": "goong-pad-makham",
+    "name": {
+      "en": "Goong Pad Makham",
+      "nl": "Goong Pad Makham",
+      "thai": "กุ้งผัดมะขาม"
+    },
+    "category": "hoofdgerecht",
+    "region": "zuidelijk",
+    "spice_level": "mild",
+    "image": "/images/food/goong-pad-makham.webp",
+    "difficulty": "makkelijk",
+    "preparation_time": "15 minuten",
+    "price_range": "middenklasse",
+    "ingredients": [
+      "garnalen",
+      "tamarindepasta",
+      "palmsuiker"
+    ]
+  },
+  {
+    "id": 30,
+    "slug": "tom-som-pla",
+    "name": {
+      "en": "Tom Som Pla",
+      "nl": "Tom Som Pla",
+      "thai": "ต้มส้มปลา"
+    },
+    "category": "soep",
+    "region": "zuidelijk",
+    "spice_level": "medium",
+    "image": "/images/food/tom-som-pla.webp",
+    "difficulty": "medium",
+    "preparation_time": "25 minuten",
+    "price_range": "budget",
+    "ingredients": [
+      "vis",
+      "kurkuma",
+      "tamarinde"
+    ]
+  },
+  {
+    "id": 31,
+    "slug": "gai-tod-hat-yai",
+    "name": {
+      "en": "Gai Tod Hat Yai",
+      "nl": "Gai Tod Hat Yai",
+      "thai": "ไก่ทอดหาดใหญ่"
+    },
+    "category": "hoofdgerecht",
+    "region": "zuidelijk",
+    "spice_level": "mild",
+    "image": "/images/food/gai-tod-hat-yai.webp",
+    "difficulty": "medium",
+    "preparation_time": "40 minuten",
+    "price_range": "budget",
+    "ingredients": [
+      "kip",
+      "sjalotten",
+      "knoflook"
+    ]
+  },
+  {
+    "id": 32,
+    "slug": "khao-yam",
+    "name": {
+      "en": "Khao Yam",
+      "nl": "Khao Yam",
+      "thai": "ข้าวยำ"
+    },
+    "category": "salade",
+    "region": "zuidelijk",
+    "spice_level": "mild",
+    "image": "/images/food/khao-yam.webp",
+    "difficulty": "medium",
+    "preparation_time": "30 minuten",
+    "price_range": "budget",
+    "ingredients": [
+      "rijst",
+      "kokos",
+      "kruiden"
+    ]
+  },
+  {
+    "id": 33,
+    "slug": "nam-ngiao",
+    "name": {
+      "en": "Nam Ngiao",
+      "nl": "Nam Ngiao",
+      "thai": "น้ำเงี้ยว"
+    },
+    "category": "soep",
+    "region": "noordelijk",
+    "spice_level": "medium",
+    "image": "/images/food/nam-ngiao.webp",
+    "difficulty": "moeilijk",
+    "preparation_time": "45 minuten",
+    "price_range": "budget",
+    "ingredients": [
+      "rijstnoedels",
+      "varkensribbetjes",
+      "tomaten"
+    ]
+  },
+  {
+    "id": 34,
+    "slug": "laab-kua",
+    "name": {
+      "en": "Laab Kua",
+      "nl": "Laab Kua",
+      "thai": "ลาบคั่ว"
+    },
+    "category": "salade",
+    "region": "noordelijk",
+    "spice_level": "pittig",
+    "image": "/images/food/laab-kua.webp",
+    "difficulty": "medium",
+    "preparation_time": "20 minuten",
+    "price_range": "budget",
+    "ingredients": [
+      "gehakt varkensvlees of rundvlees",
+      "gedroogde specerijen",
+      "kruiden"
+    ]
+  },
+  {
+    "id": 35,
+    "slug": "tam-khanun",
+    "name": {
+      "en": "Tam Khanun",
+      "nl": "Tam Khanun",
+      "thai": "ตำขนุน"
+    },
+    "category": "salade",
+    "region": "noordelijk",
+    "spice_level": "heet",
+    "image": "/images/food/tam-khanun.webp",
+    "difficulty": "medium",
+    "preparation_time": "20 minuten",
+    "price_range": "budget",
+    "ingredients": [
+      "jonge jackfruit",
+      "chili",
+      "knoflook"
+    ]
+  },
+  {
+    "id": 36,
+    "slug": "khao-kan-jin",
+    "name": {
+      "en": "Khao Kan Jin",
+      "nl": "Khao Kan Jin",
+      "thai": "ข้าวกั้นจิ๊น"
+    },
+    "category": "hoofdgerecht",
+    "region": "noordelijk",
+    "spice_level": "mild",
+    "image": "/images/food/khao-kan-jin.webp",
+    "difficulty": "moeilijk",
+    "preparation_time": "60 minuten",
+    "price_range": "budget",
+    "ingredients": [
+      "rijst",
+      "varkensbloed",
+      "knoflook"
+    ]
+  },
+  {
+    "id": 37,
+    "slug": "roti-canai",
+    "name": {
+      "en": "Roti Canai",
+      "nl": "Roti Canai",
+      "thai": "โรตีกะหรี่"
+    },
+    "category": "hoofdgerecht",
+    "region": "zuidelijk",
+    "spice_level": "mild",
+    "image": "/images/food/roti-canai.webp",
+    "difficulty": "medium",
+    "preparation_time": "20 minuten",
+    "price_range": "budget",
+    "ingredients": [
+      "bloem",
+      "ghee",
+      "ei"
+    ]
+  },
+  {
+    "id": 38,
+    "slug": "bua-loy",
+    "name": {
+      "en": "Bua Loy",
+      "nl": "Bua Loy",
+      "thai": "บัวลอย"
+    },
+    "category": "nagerecht",
+    "region": "zuidelijk",
+    "spice_level": "geen",
+    "image": "/images/food/bua-loy.webp",
+    "difficulty": "makkelijk",
+    "preparation_time": "30 minuten",
+    "price_range": "budget",
+    "ingredients": [
+      "rijstbloem",
+      "kokosmelk",
+      "palmsuiker"
+    ]
+  },
+  {
+    "id": 39,
+    "slug": "sukhothai-noodles",
+    "name": {
+      "en": "Sukhothai Noodles",
+      "nl": "Sukhothai Noedels",
+      "thai": "ก๋วยเตี๋ยวสุโขทัย"
+    },
+    "category": "soep",
+    "region": "noordelijk",
+    "spice_level": "mild",
+    "image": "/images/food/sukhothai-noodles.webp",
+    "difficulty": "makkelijk",
+    "preparation_time": "20 minuten",
+    "price_range": "budget",
+    "ingredients": [
+      "rijstnoedels",
+      "varkensvlees",
+      "gemalen pinda's"
+    ]
+  },
+  {
+    "id": 40,
+    "slug": "kaeng-liang",
+    "name": {
+      "en": "Kaeng Liang",
+      "nl": "Kaeng Liang",
+      "thai": "แกงเลียง"
+    },
+    "category": "soep",
+    "region": "noordelijk",
+    "spice_level": "medium",
+    "image": "/images/food/kaeng-liang.webp",
+    "difficulty": "makkelijk",
+    "preparation_time": "25 minuten",
+    "price_range": "budget",
+    "ingredients": [
+      "gemengde groenten",
+      "garnalen",
+      "garnalenpasta"
+    ]
+  },
+  {
+    "id": 41,
+    "slug": "moo-palo",
+    "name": {
+      "en": "Moo Palo",
+      "nl": "Moo Palo",
+      "thai": "หมูพะโล้"
+    },
+    "category": "hoofdgerecht",
+    "region": "noordelijk",
+    "spice_level": "mild",
+    "image": "/images/food/moo-palo.webp",
+    "difficulty": "medium",
+    "preparation_time": "90 minuten",
+    "price_range": "budget",
+    "ingredients": [
+      "varkensbuik",
+      "eieren",
+      "sojasaus"
+    ]
+  },
+  {
+    "id": 42,
+    "slug": "nam-prik-noom",
+    "name": {
+      "en": "Nam Prik Noom",
+      "nl": "Nam Prik Noom",
+      "thai": "น้ำพริกหนุ่ม"
+    },
+    "category": "hoofdgerecht",
+    "region": "noordelijk",
+    "spice_level": "medium",
+    "image": "/images/food/nam-prik-noom.webp",
+    "difficulty": "makkelijk",
+    "preparation_time": "25 minuten",
+    "price_range": "budget",
+    "ingredients": [
+      "groene chili",
+      "knoflook",
+      "sjalotten"
+    ]
+  },
+  {
+    "id": 43,
+    "slug": "nam-prik-kapi",
+    "name": {
+      "en": "Nam Prik Kapi",
+      "nl": "Nam Prik Kapi",
+      "thai": "น้ำพริกกะปิ"
+    },
+    "category": "hoofdgerecht",
+    "region": "zuidelijk",
+    "spice_level": "heet",
+    "image": "/images/food/nam-prik-kapi.webp",
+    "difficulty": "makkelijk",
+    "preparation_time": "15 minuten",
+    "price_range": "budget",
+    "ingredients": [
+      "garnalenpasta",
+      "chili",
+      "knoflook"
+    ]
+  },
+  {
+    "id": 44,
+    "slug": "gaeng-tai-pla",
+    "name": {
+      "en": "Gaeng Tai Pla",
+      "nl": "Gaeng Tai Pla",
+      "thai": "แกงไตปลา"
+    },
+    "category": "curry",
+    "region": "zuidelijk",
+    "spice_level": "zeer heet",
+    "image": "/images/food/gaeng-tai-pla.webp",
+    "difficulty": "moeilijk",
+    "preparation_time": "40 minuten",
+    "price_range": "budget",
+    "ingredients": [
+      "visorganen",
+      "chili",
+      "citroengras"
+    ]
+  },
+  {
+    "id": 45,
+    "slug": "goong-pad-sator",
+    "name": {
+      "en": "Goong Pad Sator",
+      "nl": "Goong Pad Sator",
+      "thai": "กุ้งผัดสะตอ"
+    },
+    "category": "hoofdgerecht",
+    "region": "zuidelijk",
+    "spice_level": "medium",
+    "image": "/images/food/goong-pad-sator.webp",
+    "difficulty": "makkelijk",
+    "preparation_time": "15 minuten",
+    "price_range": "middenklasse",
+    "ingredients": [
+      "garnalen",
+      "stinkbonen",
+      "garnalenpasta"
+    ]
+  },
+  {
+    "id": 46,
+    "slug": "lod-chong",
+    "name": {
+      "en": "Lod Chong",
+      "nl": "Lod Chong",
+      "thai": "ลอดช่อง"
+    },
+    "category": "nagerecht",
+    "region": "zuidelijk",
+    "spice_level": "geen",
+    "image": "/images/food/lod-chong.webp",
+    "difficulty": "medium",
+    "preparation_time": "30 minuten",
+    "price_range": "budget",
+    "ingredients": [
+      "rijstbloem",
+      "pandan sap",
+      "kokosmelk"
+    ]
+  }
+]

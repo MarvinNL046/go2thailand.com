@@ -1,0 +1,973 @@
+{
+  "id": 20,
+  "slug": "moo-hong",
+  "name": {
+    "en": "Moo Hong",
+    "nl": "Moo Hong",
+    "thai": "หมูฮ้อง"
+  },
+  "category": "hoofdgerecht",
+  "region": "zuidelijk",
+  "spice_level": "mild",
+  "description": {
+    "en": "Braised pork belly in sweet soy sauce Phuket style",
+    "nl": "Gestoofd varkensbuik in zoete sojasaus Phuket stijl"
+  },
+  "ingredients": [
+    "varkensbuik",
+    "sojasaus",
+    "palmsuiker",
+    "knoflook",
+    "witte peper",
+    "korianderwortel"
+  ],
+  "allergens": [],
+  "dietary": [],
+  "image": "/images/food/moo-hong.webp",
+  "preparation_time": "90 minuten",
+  "difficulty": "gemiddeld",
+  "price_range": "middenklasse",
+  "seo": {
+    "metaTitle": {
+      "en": "Moo Hong Recipe | Authentic Thai main dish",
+      "nl": "Moo Hong Recept | Authentieke Thaise main dish"
+    },
+    "metaDescription": {
+      "en": "Learn about Moo Hong (หมูฮ้อง) - Braised pork belly in sweet soy sauce Phuket style...",
+      "nl": "Leer over Moo Hong (หมูฮ้อง) - Gestoofd varkensbuik in zoete sojasaus Phuket stijl..."
+    }
+  },
+  "tags": [
+    "thais-eten",
+    "Thailand",
+    "hoofdgerecht",
+    "zuidelijk",
+    "mild",
+    "gemiddeld",
+    "middenklasse",
+    "varkensbuik",
+    "sojasaus",
+    "palmsuiker"
+  ],
+  "cooking": {
+    "preparation_time": "90 minuten",
+    "difficulty": "gemiddeld",
+    "spice_level": "mild",
+    "serves": "2-4 personen"
+  },
+  "nutrition": {
+    "allergens": [],
+    "dietary": [],
+    "price_range": "middenklasse"
+  },
+  "enhanced_description": "Moo Hong is een geliefd stevig en smaakvol hoofdgerecht uit Zuid-Thailand met een subtiele warmte. Gestoofd varkensbuik in zoete sojasaus Phuket-stijl. Dit recept met gemiddelde moeilijkheidsgraad vergt ongeveer 90 minuten bereidingstijd en vertegenwoordigt de authentieke smaken van de Zuid-Thaise keuken, gekenmerkt door intense kruiden, zeevruchten en curry's op basis van kokos. De combinatie van varkensbuik, sojasaus en palmsuiker creëert een harmonieuze mix die dit gerecht tot een favoriet heeft gemaakt onder zowel locals als bezoekers. Perfect voor wie op zoek is naar betaalbare authentieke Thaise keuken.",
+  "detailed_ingredients": [
+    {
+      "name": "Pork belly",
+      "purpose": "Essentieel voor de authentieke Moo Hong smaak",
+      "substitutes": [
+        "Verse varkensbuik",
+        "Gedroogde varkensbuik",
+        "varkensbuikpasta"
+      ]
+    },
+    {
+      "name": "Soy sauce",
+      "purpose": "Essentieel voor de authentieke Moo Hong smaak",
+      "substitutes": [
+        "Verse sojasaus",
+        "Gedroogde sojasaus",
+        "sojasaus pasta"
+      ]
+    },
+    {
+      "name": "Palm sugar",
+      "purpose": "Essentieel voor de authentieke Moo Hong smaak",
+      "substitutes": [
+        "Verse palmsuiker",
+        "Gedroogde palmsuiker",
+        "palmsuiker pasta"
+      ]
+    },
+    {
+      "name": "Garlic",
+      "purpose": "Essentieel voor de authentieke Moo Hong smaak",
+      "substitutes": [
+        "Verse knoflook",
+        "Gedroogde knoflook",
+        "knoflookpasta"
+      ]
+    }
+  ],
+  "cooking_method": {
+    "technique": "Roerbakken of grillen",
+    "steps_overview": "Het bereiden van Moo Hong vereist aandacht voor detail en goede timing. De sleutel is het balanceren van alle smaken terwijl de textuur van elk ingrediënt behouden blijft. Traditionele methoden die van generatie op generatie zijn doorgegeven, garanderen een authentieke smaak.",
+    "cooking_tips": [
+      "Gebruik verse varkensbuik voor het beste resultaat",
+      "Pas het pittigheidsgehalte aan naar je voorkeur",
+      "Kook niet te lang om de textuur te behouden",
+      "Proef en pas de kruiding aan voor het serveren"
+    ]
+  },
+  "cultural_significance": {
+    "origin_story": "Moo Hong is al generaties lang een vast onderdeel van de Zuid-Thaise keuken en weerspiegelt de unieke culinaire tradities en lokale ingrediënten van de regio.",
+    "cultural_importance": "Dit gerecht vertegenwoordigt het hart van de Zuid-Thaise kookkunst en toont de balans en harmonie waarmee de Thaise keuken wereldwijd beroemd is.",
+    "traditional_occasions": [
+      "Familiebijeenkomsten",
+      "Lokale festivals",
+      "Straatvoedselmarkten",
+      "Bijzondere vieringen"
+    ]
+  },
+  "variations": [
+    {
+      "name": "Moo Hong Classic",
+      "description": "De traditionele versie zoals geserveerd in lokale huishoudens"
+    },
+    {
+      "name": "Moo Hong Modern",
+      "description": "Hedendaagse variant met premium ingrediënten"
+    },
+    {
+      "name": "Vegetarian Moo Hong",
+      "description": "Plantaardige versie met tofu of paddenstoelen"
+    }
+  ],
+  "serving_suggestions": {
+    "traditional_accompaniments": [
+      "Jasmijnrijst",
+      "Verse groenten",
+      "Thaise kruiden"
+    ],
+    "presentation": "Geserveerd op een bord in traditionele Thaise stijl",
+    "eating_etiquette": "Gegeten met vork en lepel volgens Thais gebruik"
+  },
+  "nutritional_info": {
+    "calories_per_serving": "300-500 calorieën",
+    "health_benefits": [
+      "Rijk aan Thaise kruiden en specerijen",
+      "Bron van eiwitten en groenten",
+      "Gebalanceerde smaken en voedingsstoffen"
+    ],
+    "dietary_notes": []
+  },
+  "where_to_find": {
+    "best_restaurants": [
+      "Lokale Zuid-Thaise restaurants",
+      "Authentieke straatvoedselkramen",
+      "Traditionele markten",
+      "Familiegerunde eetgelegenheden"
+    ],
+    "street_food_areas": [
+      "Nachtmarkten",
+      "Ochtendverse markten",
+      "Lokale food courts"
+    ],
+    "price_ranges": {
+      "street_vendor": "50-80 THB",
+      "market_stall": "60-100 THB",
+      "restaurant": "100-200 THB"
+    }
+  },
+  "translations": {
+    "nl": {
+      "enhanced_description": "Moo Hong is een geliefd stevig en smaakvol hoofdgerecht uit Zuid-Thailand met een subtiele warmte. Gestoofd varkensbuik in zoete sojasaus Phuket-stijl. Dit recept met gemiddelde moeilijkheidsgraad vergt ongeveer 90 minuten bereidingstijd en vertegenwoordigt de authentieke smaken van de Zuid-Thaise keuken, gekenmerkt door intense kruiden, zeevruchten en curry's op basis van kokos. De combinatie van varkensbuik, sojasaus en palmsuiker creëert een harmonieuze mix die dit gerecht tot een favoriet heeft gemaakt onder zowel locals als bezoekers. Perfect voor wie op zoek is naar betaalbare authentieke Thaise keuken.",
+      "detailed_ingredients": [
+        {
+          "name": "Varkensbuik",
+          "purpose": "Essentieel voor de authentieke Moo Hong smaak",
+          "substitutes": [
+            "Verse varkensbuik",
+            "Gedroogde varkensbuik",
+            "Varkensschouder"
+          ]
+        },
+        {
+          "name": "Sojasaus",
+          "purpose": "Essentieel voor de authentieke Moo Hong smaak",
+          "substitutes": [
+            "Lichte sojasaus",
+            "Donkere sojasaus",
+            "Ketjap manis"
+          ]
+        },
+        {
+          "name": "Palmsuiker",
+          "purpose": "Essentieel voor de authentieke Moo Hong smaak",
+          "substitutes": [
+            "Verse palmsuiker",
+            "Kokossuiker",
+            "Bruine suiker"
+          ]
+        },
+        {
+          "name": "Knoflook",
+          "purpose": "Essentieel voor de authentieke Moo Hong smaak",
+          "substitutes": [
+            "Verse knoflook",
+            "Gedroogde knoflook",
+            "Knoflookpasta"
+          ]
+        }
+      ],
+      "cooking_method": {
+        "technique": "Langzaam stoven",
+        "steps_overview": "Het bereiden van Moo Hong vereist aandacht voor detail en goede timing. De sleutel is het balanceren van alle smaken terwijl de textuur van elk ingrediënt behouden blijft. Traditionele methoden die van generatie op generatie zijn doorgegeven, garanderen een authentieke smaak.",
+        "cooking_tips": [
+          "Gebruik verse varkensbuik voor het beste resultaat",
+          "Pas het pittigheidsgehalte aan naar je voorkeur",
+          "Kook niet te lang om de textuur te behouden",
+          "Proef en pas de kruiding aan voor het serveren"
+        ]
+      },
+      "cultural_significance": {
+        "origin_story": "Moo Hong is al generaties lang een vast onderdeel van de Zuid-Thaise keuken en weerspiegelt de unieke culinaire tradities en lokale ingrediënten van de regio.",
+        "cultural_importance": "Dit gerecht vertegenwoordigt het hart van de Zuid-Thaise kookkunst en toont de balans en harmonie waarmee de Thaise keuken wereldwijd beroemd is.",
+        "traditional_occasions": [
+          "Familiebijeenkomsten",
+          "Lokale festivals",
+          "Straatvoedselmarkten",
+          "Bijzondere vieringen"
+        ]
+      },
+      "variations": [
+        {
+          "name": "Moo Hong Klassiek",
+          "description": "De traditionele versie zoals geserveerd in lokale huishoudens"
+        },
+        {
+          "name": "Moo Hong Modern",
+          "description": "Hedendaagse variant met premium ingrediënten"
+        },
+        {
+          "name": "Vegetarische Moo Hong",
+          "description": "Plantaardige versie met tofu of paddenstoelen"
+        }
+      ],
+      "serving_suggestions": {
+        "traditional_accompaniments": [
+          "Jasmijnrijst",
+          "Verse groenten",
+          "Thaise kruiden"
+        ],
+        "presentation": "Geserveerd op een bord in traditionele Zuid-Thaise stijl",
+        "eating_etiquette": "Gegeten met vork en lepel volgens Thais gebruik"
+      },
+      "where_to_find": {
+        "best_restaurants": [
+          "Lokale Zuid-Thaise restaurants",
+          "Authentieke straatvoedselkramen",
+          "Traditionele markten",
+          "Familiebedrijfjes"
+        ],
+        "street_food_areas": [
+          "Nachtmarkten",
+          "Ochtendverse markten",
+          "Lokale food courts"
+        ]
+      },
+      "translated_at": "2026-03-10T00:00:00.000Z"
+    },
+    "fr": {
+      "enhanced_description": "Moo Hong is een geliefd stevig en smaakvol hoofdgerecht uit Zuid-Thailand met een subtiele warmte. Gestoofd varkensbuik in zoete sojasaus Phuket-stijl. Dit recept met gemiddelde moeilijkheidsgraad vergt ongeveer 90 minuten bereidingstijd en vertegenwoordigt de authentieke smaken van de Zuid-Thaise keuken, gekenmerkt door intense kruiden, zeevruchten en curry's op basis van kokos. De combinatie van varkensbuik, sojasaus en palmsuiker creëert een harmonieuze mix die dit gerecht tot een favoriet heeft gemaakt onder zowel locals als bezoekers. Perfect voor wie op zoek is naar betaalbare authentieke Thaise keuken.",
+      "detailed_ingredients": [
+        {
+          "name": "Poitrine de porc",
+          "purpose": "Essentieel voor de authentieke Moo Hong smaak",
+          "substitutes": [
+            "Verse varkensbuik",
+            "Gedroogde varkensbuik",
+            "Varkensschouder"
+          ]
+        },
+        {
+          "name": "Sauce soja",
+          "purpose": "Essentieel voor de authentieke Moo Hong smaak",
+          "substitutes": [
+            "Lichte sojasaus",
+            "Donkere sojasaus",
+            "Ketjap manis"
+          ]
+        },
+        {
+          "name": "Sucre de palme",
+          "purpose": "Essentieel voor de authentieke Moo Hong smaak",
+          "substitutes": [
+            "Verse palmsuiker",
+            "Kokossuiker",
+            "Bruine suiker"
+          ]
+        },
+        {
+          "name": "Ail",
+          "purpose": "Essentieel voor de authentieke Moo Hong smaak",
+          "substitutes": [
+            "Verse knoflook",
+            "Gedroogde knoflook",
+            "Knoflookpasta"
+          ]
+        }
+      ],
+      "cooking_method": {
+        "technique": "Langzaam stoven",
+        "steps_overview": "Het bereiden van Moo Hong vereist aandacht voor detail en goede timing. De sleutel is het balanceren van alle smaken terwijl de textuur van elk ingrediënt behouden blijft. Traditionele methoden die van generatie op generatie zijn doorgegeven, garanderen een authentieke smaak.",
+        "cooking_tips": [
+          "Gebruik verse varkensbuik voor het beste resultaat",
+          "Pas het pittigheidsgehalte aan naar je voorkeur",
+          "Kook niet te lang om de textuur te behouden",
+          "Proef en pas de kruiding aan voor het serveren"
+        ]
+      },
+      "cultural_significance": {
+        "origin_story": "Moo Hong is al generaties lang een vast onderdeel van de Zuid-Thaise keuken en weerspiegelt de unieke culinaire tradities en lokale ingrediënten van de regio.",
+        "cultural_importance": "Dit gerecht vertegenwoordigt het hart van de Zuid-Thaise kookkunst en toont de balans en harmonie waarmee de Thaise keuken wereldwijd beroemd is.",
+        "traditional_occasions": [
+          "Familiebijeenkomsten",
+          "Lokale festivals",
+          "Straatvoedselmarkten",
+          "Bijzondere vieringen"
+        ]
+      },
+      "variations": [
+        {
+          "name": "Moo Hong Classique",
+          "description": "De traditionele versie zoals geserveerd in lokale huishoudens"
+        },
+        {
+          "name": "Moo Hong Moderne",
+          "description": "Hedendaagse variant met premium ingrediënten"
+        },
+        {
+          "name": "Moo Hong Végétarien",
+          "description": "Plantaardige versie met tofu of paddenstoelen"
+        }
+      ],
+      "serving_suggestions": {
+        "traditional_accompaniments": [
+          "Jasmijnrijst",
+          "Verse groenten",
+          "Thaise kruiden"
+        ],
+        "presentation": "Geserveerd op een bord in de traditionele stijl van Zuid-Thailand",
+        "eating_etiquette": "Genuttigd met vork en lepel volgens Thaise traditie"
+      },
+      "where_to_find": {
+        "best_restaurants": [
+          "Lokale restaurants in Zuid-Thailand",
+          "Authentieke straatkiosken",
+          "Traditionele markten",
+          "Familierestaurants"
+        ],
+        "street_food_areas": [
+          "Nachtmarkten",
+          "Verse ochtendmarkten",
+          "Lokale food courts"
+        ]
+      },
+      "translated_at": "2026-03-10T00:00:00.000Z"
+    },
+    "de": {
+      "enhanced_description": "Moo Hong is een populair stevig en verzadigend hoofdgerecht uit Zuid-Thailand met een subtiele warmte. Gestoofde varkensbuik in zoete sojasaus in Phuket-stijl. Dit recept van gemiddelde moeilijkheid vereist ongeveer 90 minuten bereidingstijd en vertegenwoordigt de authentieke smaken van de Zuid-Thaise keuken, die zich kenmerkt door intense kruiden, zeevruchten en kokosgebaseerde curries. De combinatie van varkensbuik, sojasaus en palmsuiker geeft een harmonieuze mix die dit gerecht zowel bij locals als bij bezoekers favoriet heeft gemaakt. Perfect voor iedereen die betaalbare authentieke Thaise keuken zoekt.",
+      "detailed_ingredients": [
+        {
+          "name": "Schweinebauch",
+          "purpose": "Onmisbaar voor de authentieke Moo Hong-smaak",
+          "substitutes": [
+            "Verse varkensbuik",
+            "Gedroogde varkensbuik",
+            "Varkensschouder"
+          ]
+        },
+        {
+          "name": "Sojasauce",
+          "purpose": "Onmisbaar voor de authentieke Moo Hong-smaak",
+          "substitutes": [
+            "Lichte sojasaus",
+            "Donkere sojasaus",
+            "Zoete sojasaus"
+          ]
+        },
+        {
+          "name": "Palmzucker",
+          "purpose": "Onmisbaar voor de authentieke Moo Hong-smaak",
+          "substitutes": [
+            "Verse palmsuiker",
+            "Kokossuiker",
+            "Bruine suiker"
+          ]
+        },
+        {
+          "name": "Knoblauch",
+          "purpose": "Onmisbaar voor de authentieke Moo Hong-smaak",
+          "substitutes": [
+            "Verse knoflook",
+            "Gedroogde knoflook",
+            "Knoflookpasta"
+          ]
+        }
+      ],
+      "cooking_method": {
+        "technique": "Langzaam stoven",
+        "steps_overview": "De bereiding van Moo Hong vereist liefde voor detail en goed timing. De sleutel ligt in het balanceren van alle smaken en tegelijkertijd het behouden van de textuur van elke ingrediënt. Traditionele methoden, die van generatie op generatie worden doorgegeven, garanderen een authentieke smaak.",
+        "cooking_tips": [
+          "Gebruik verse varkensbuik voor het beste resultaat",
+          "Pas de pittigheid aan naar smaak",
+          "Niet te lang koken om de textuur te behouden",
+          "Proef en breng op smaak voor het serveren"
+        ]
+      },
+      "cultural_significance": {
+        "origin_story": "Moo Hong is sinds generaties een vast onderdeel van de Zuid-Thaise keuken en weerspiegelt de unieke culinaire tradities en lokale ingrediënten van de regio.",
+        "cultural_importance": "Dit gerecht vertegenwoordigt het hart van de Zuid-Thaise kookkunst en toont de balans en harmonie waarvoor de Thaise keuken wereldwijd beroemd is.",
+        "traditional_occasions": [
+          "Familiebijeenkomsten",
+          "Lokale feesten",
+          "Straatvoedselmarkten",
+          "Speciale vieringen"
+        ]
+      },
+      "variations": [
+        {
+          "name": "Moo Hong Klassisch",
+          "description": "De traditionele versie zoals geserveerd in lokale huishoudens"
+        },
+        {
+          "name": "Moo Hong Modern",
+          "description": "Moderne variant met premium ingrediënten"
+        },
+        {
+          "name": "Vegetarisches Moo Hong",
+          "description": "Plantaardige versie met tofu of paddenstoelen"
+        }
+      ],
+      "serving_suggestions": {
+        "traditional_accompaniments": [
+          "Jasmijnrijst",
+          "Verse groenten",
+          "Thaise kruiden"
+        ],
+        "presentation": "Geserveerd op een bord in de traditionele Zuid-Thaise stijl",
+        "eating_etiquette": "Gegeten met vork en lepel volgens Thaise gewoonte"
+      },
+      "where_to_find": {
+        "best_restaurants": [
+          "Lokale Zuid-Thaise restaurants",
+          "Authentieke straatkiosken",
+          "Traditionele markten",
+          "Familiebedrijven"
+        ],
+        "street_food_areas": [
+          "Nachtmarkten",
+          "Verse ochtendmarkten",
+          "Lokale food courts"
+        ]
+      },
+      "translated_at": "2026-03-10T00:00:00.000Z"
+    },
+    "zh": {
+      "enhanced_description": "Moo Hong is een geliefd royaal hoofdgerecht uit Zuid-Thailand met subtiele warme smaken. Phuket-stijl langzaam gestoofde varkensbuik in zoete sojasaus. Dit gerecht van gemiddelde moeilijkheid vereist ongeveer 90 minuten bereiding en vertegenwoordigt de authentieke smaken van de Zuid-Thaise keuken – gekenmerkt door intense kruiden, zeevruchten en kokosgebaseerde curries. De combinatie van varkensbuik, sojasaus en palmsuiker creëert een harmonieuze smaak, waardoor dit gerecht een favoriet is bij zowel locals als toeristen. Ideaal voor wie betaalbare authentieke Thaise gerechten zoekt.",
+      "detailed_ingredients": [
+        {
+          "name": "五花肉",
+          "purpose": "Kern-ingrediënt voor de authentieke Moo Hong-smaak",
+          "substitutes": [
+            "Verse varkensbuik",
+            "Gedroogde varkensbuik",
+            "Varkensschouder"
+          ]
+        },
+        {
+          "name": "酱油",
+          "purpose": "Kern-ingrediënt voor de authentieke Moo Hong-smaak",
+          "substitutes": [
+            "Lichte sojasaus",
+            "Donkere sojasaus",
+            "Zoete sojasaus"
+          ]
+        },
+        {
+          "name": "棕榈糖",
+          "purpose": "Kern-ingrediënt voor de authentieke Moo Hong-smaak",
+          "substitutes": [
+            "Verse palmsuiker",
+            "Kokossuiker",
+            "Bruine suiker"
+          ]
+        },
+        {
+          "name": "大蒜",
+          "purpose": "Kern-ingrediënt voor de authentieke Moo Hong-smaak",
+          "substitutes": [
+            "Verse knoflook",
+            "Gedroogde knoflook",
+            "Knoflookpasta"
+          ]
+        }
+      ],
+      "cooking_method": {
+        "technique": "Langzaam stoven",
+        "steps_overview": "Het bereiden van Moo Hong vereist aandacht voor details en goed tijdbeheer. De sleutel ligt in het balanceren van alle smaken terwijl de textuur van elk ingrediënt behouden blijft. Traditionele kookmethoden, doorgegeven van generatie op generatie, zorgen voor een authentieke smaak.",
+        "cooking_tips": [
+          "Gebruik verse varkensbuik voor het beste effect",
+          "Pas de pittigheid aan naar persoonlijke voorkeur",
+          "Kook niet te lang om de textuur te behouden",
+          "Proef en pas de kruiden aan voor het serveren"
+        ]
+      },
+      "cultural_significance": {
+        "origin_story": "Moo Hong is al generaties lang een klassieker in de Zuid-Thaise keuken en belichaamt de unieke kooktradities en lokale ingrediënten van de regio.",
+        "cultural_importance": "Dit gerecht vertegenwoordigt de essentie van de Zuid-Thaise keuken en toont de balans en harmonie waarvoor de Thaise keuken wereldwijd bekendstaat.",
+        "traditional_occasions": [
+          "Familiebijeenkomsten",
+          "Lokale festivals",
+          "Straatvoedselmarkten",
+          "Speciale vieringen"
+        ]
+      },
+      "variations": [
+        {
+          "name": "经典Moo Hong",
+          "description": "De traditionele bereiding in lokale huishoudens"
+        },
+        {
+          "name": "创新Moo Hong",
+          "description": "Moderne innovatieve versie met premium ingrediënten"
+        },
+        {
+          "name": "素食Moo Hong",
+          "description": "Vegetarische versie met tofu of paddenstoelen"
+        }
+      ],
+      "serving_suggestions": {
+        "traditional_accompaniments": [
+          "Jasmijnrijst",
+          "Verse groenten",
+          "Thaise kruiden"
+        ],
+        "presentation": "Geserveerd op een bord in de traditionele Zuid-Thaise stijl",
+        "eating_etiquette": "Genuttigd met vork en lepel volgens Thaise gewoonte"
+      },
+      "where_to_find": {
+        "best_restaurants": [
+          "Lokale Zuid-Thaise restaurants",
+          "Authentieke straatsnacksstalletjes",
+          "Traditionele markten",
+          "Familiegerunde winkeltjes"
+        ],
+        "street_food_areas": [
+          "Nachtmarkten",
+          "Ochtendmarkten",
+          "Lokale eetpleinen"
+        ]
+      },
+      "translated_at": "2026-03-11T00:00:00.000Z"
+    },
+    "ru": {
+      "enhanced_description": "Moo Hong is een geliefd vullend en rijk hoofdgerecht uit Zuid-Thailand met delicate warmte. Gestoofde varkensbuik in zoete sojasaus in Phuket-stijl. Dit gerecht van gemiddelde complexiteit wordt in ongeveer 90 minuten bereid en vertegenwoordigt de authentieke smaken van de Zuid-Thaise keuken, gekenmerkt door intense kruiden, zeevruchten en kokosgebaseerde curries. De combinatie van varkensbuik, sojasaus en palmsuiker creëert een harmonieus smaakbalans, waardoor het gerecht geliefd is bij zowel locals als reizigers. Ideale keuze voor wie betaalbare en authentieke Thaise keuken zoekt.",
+      "detailed_ingredients": [
+        {
+          "name": "Свиная грудинка",
+          "purpose": "Onmisbaar ingrediënt voor de authentieke Moo Hong-smaak",
+          "substitutes": [
+            "Verse varkensbuik",
+            "Gedroogde varkensbuik",
+            "Varkensschouder"
+          ]
+        },
+        {
+          "name": "Соевый соус",
+          "purpose": "Onmisbaar ingrediënt voor de authentieke Moo Hong-smaak",
+          "substitutes": [
+            "Lichte sojasaus",
+            "Donkere sojasaus",
+            "Zoete sojasaus"
+          ]
+        },
+        {
+          "name": "Пальмовый сахар",
+          "purpose": "Onmisbaar ingrediënt voor de authentieke Moo Hong-smaak",
+          "substitutes": [
+            "Verse palmsuiker",
+            "Kokossuiker",
+            "Bruine suiker"
+          ]
+        },
+        {
+          "name": "Чеснок",
+          "purpose": "Onmisbaar ingrediënt voor de authentieke Moo Hong-smaak",
+          "substitutes": [
+            "Verse knoflook",
+            "Gedroogde knoflook",
+            "Knoflookpasta"
+          ]
+        }
+      ],
+      "cooking_method": {
+        "technique": "Langzaam stoven",
+        "steps_overview": "Het bereiden van Moo Hong vereist aandacht voor details en correcte tijdcalculatie. Het belangrijkste is om alle smaken in balans te brengen terwijl de textuur van elk ingrediënt behouden blijft. Traditionele methoden, doorgegeven van generatie op generatie, zorgen voor een authentieke smaak.",
+        "cooking_tips": [
+          "Gebruik verse varkensbuik voor het beste resultaat",
+          "Pas de pittigheid aan naar smaak",
+          "Kook niet te lang om de textuur te behouden",
+          "Proef en corrigeer de kruiden voor het serveren"
+        ]
+      },
+      "cultural_significance": {
+        "origin_story": "Moo Hong is al vele generaties een klassieker in de Zuid-Thaise keuken en weerspiegelt de unieke culinaire tradities en lokale ingrediënten van de regio.",
+        "cultural_importance": "Dit gerecht belichaamt het hart van de Zuid-Thaise culinaire kunst en demonstreert de balans en harmonie waarvoor de Thaise keuken wereldwijd beroemd is.",
+        "traditional_occasions": [
+          "Familiebijeenkomsten",
+          "Lokale festivals",
+          "Markten met straatvoedsel",
+          "Speciale feesten"
+        ]
+      },
+      "variations": [
+        {
+          "name": "Классический Му Хонг",
+          "description": "De traditionele versie zoals bereid in lokale huizen"
+        },
+        {
+          "name": "Современный Му Хонг",
+          "description": "Moderne interpretatie met premium ingrediënten"
+        },
+        {
+          "name": "Вегетарианский Му Хонг",
+          "description": "Plantaardige versie met tofu of paddenstoelen"
+        }
+      ],
+      "serving_suggestions": {
+        "traditional_accompaniments": [
+          "Jasmijnrijst",
+          "Verse groenten",
+          "Thaise kruiden"
+        ],
+        "presentation": "Geserveerd op een bord in de traditionele Zuid-Thaise stijl",
+        "eating_etiquette": "Gegeten met vork en lepel volgens Thaise traditie"
+      },
+      "where_to_find": {
+        "best_restaurants": [
+          "Lokale Zuid-Thaise restaurants",
+          "Authentieke straatstalletjes",
+          "Traditionele markten",
+          "Familiebedrijven"
+        ],
+        "street_food_areas": [
+          "Nachtmarkten",
+          "Verse ochtendmarkten",
+          "Lokale food courts"
+        ]
+      },
+      "translated_at": "2026-03-11T00:00:00.000Z"
+    },
+    "ko": {
+      "enhanced_description": "Moo Hong is een representatief stoofgerecht uit het zuiden van Thailand, Phuket, waarbij varkensbuik langzaam wordt gestoofd met sojasaus, palmsuiker, knoflook, witte peper en korianderwortel om een zoet-zout varkensgerecht te maken. Dit recept van gemiddelde moeilijkheid duurt ongeveer 90 minuten en is een eigen ontwikkeling in Phuket van het Chinese Fujian-varkensstoofgerecht. De lang gestoofde varkensbuik is zo mals dat het in de mond smelt, en de zoet-zoute saus van sojasaus en palmsuiker geeft diepe umami. Het is een soulfood dat de Peranakan-voedselcultuur van Phuket vertegenwoordigt.",
+      "detailed_ingredients": [
+        {
+          "name": "삼겹살 (껍질 포함)",
+          "purpose": "Het hoofdingrediënt van dit gerecht dat mals vlees en knapperige huid krijgt bij lang koken",
+          "substitutes": [
+            "Varkensbuik",
+            "Varkensnek",
+            "Voorpootvlees (minder vet alternatief)"
+          ]
+        },
+        {
+          "name": "간장 (시유담 + 시유카오)",
+          "purpose": "Kernkruiden die de basis vormen voor de donkere kleur en zoet-zoute smaak",
+          "substitutes": [
+            "Donkere sojasaus + lichte sojasaus",
+            "Chinese donkere sojasaus + lichte sojasaus",
+            "Tamari-saus"
+          ]
+        },
+        {
+          "name": "야자 설탕 (남딴삡)",
+          "purpose": "Traditionele zoetstof die een unieke karamelachtige zoetheid toevoegt",
+          "substitutes": [
+            "Kokosnootsuiker",
+            "Bruine suiker",
+            "Gele suiker"
+          ]
+        },
+        {
+          "name": "마늘과 고수 뿌리",
+          "purpose": "Aromatische ingrediënten die de basis vormen voor diepe aroma en smaak",
+          "substitutes": [
+            "Knoflookpasta",
+            "Korianderstengels (wortels als alternatief)",
+            "Witte peper"
+          ]
+        }
+      ],
+      "cooking_method": {
+        "technique": "Langzaam sudderen op laag vuur (braiseren)",
+        "steps_overview": "Om Moo Hong te maken, snijd je eerst de varkensbuik in grote stukken en blancheer je ze in kokend water. Fruit in een aparte pan de geplette knoflook, korianderwortels en witte peper om aroma te creëren, voeg de varkensbuik toe en bak de buitenkant gaar. Voeg sojasaus, palmsuiker en water toe, dek af en laat minstens 1 uur zachtjes sudderen op laag vuur. Het is klaar als de saus dik is en het vlees mals.",
+        "cooking_tips": [
+          "Gebruik varkensbuik met vel voor de authentieke textuur",
+          "Sudder langzaam op laag vuur voor mals vlees — haast je niet, anders wordt het taai",
+          "Draai tussendoor om voor een gelijkmatige kleur en smaak",
+          "Laat een nacht marineren voor een diepere smaak"
+        ]
+      },
+      "cultural_significance": {
+        "origin_story": "Moo Hong is een varkensstoofpot die Chinese immigranten uit Fujian (Hokkien) naar Phuket brachten en die lokaal is aangepast. Door generaties heen zijn zuid-Thaise ingrediënten (zoals palmsuiker, korianderwortels) toegevoegd, wat resulteerde in een unieke Phuket-stijl stoofpot.",
+        "cultural_importance": "Dit gerecht is het hart van de Baba-Peranakan (Chinees-Thaise mix) voedselcultuur in Phuket. Het is een must tijdens feesten of familiebijeenkomsten en symboliseert voor Phuket-bewoners de smaak van moeders kookkunst en familiale warmte. Proef het in traditionele restaurants in Phuket Old Town.",
+        "traditional_occasions": [
+          "Familiebijeenkomsten",
+          "Feestmaaltijden",
+          "Festivalgerechten",
+          "Dagelijkse thuismaaltijden"
+        ]
+      },
+      "variations": [
+        {
+          "name": "무홍 전통식",
+          "description": "De meest traditionele Phuket-versie, lang gestoofd met palmsuiker en sojasaus."
+        },
+        {
+          "name": "무홍 오향식",
+          "description": "Een variant met meer Chinese smaak door toevoeging van vijfkruidenpoeder en steranijs."
+        },
+        {
+          "name": "무홍 계란 추가",
+          "description": "Een populaire variant met gekookte eieren erbij gestoofd voor extra eiwit."
+        }
+      ],
+      "serving_suggestions": {
+        "traditional_accompaniments": [
+          "Jasmijnrijst",
+          "Ingelegde mosterdbladeren",
+          "Gekookte groenten"
+        ],
+        "presentation": "Serveer op een bord met rijst en giet de saus erover voor Phuket-stijl",
+        "eating_etiquette": "Eet volgens Thaise traditie met vork en lepel samen met rijst"
+      },
+      "where_to_find": {
+        "best_restaurants": [
+          "Phuket Old Town Peranakan-restaurants",
+          "Lokale huiskamerrestaurants",
+          "Traditionele markten",
+          "Familiegerunde restaurants"
+        ],
+        "street_food_areas": [
+          "Phuket Old Town",
+          "Ochtendmarkten",
+          "Lokale foodcourts"
+        ],
+        "price_ranges": {
+          "street_vendor": "50-80 THB",
+          "market_stall": "60-100 THB",
+          "restaurant": "100-200 THB"
+        }
+      },
+      "translated_at": "2026-03-14T00:00:00.000Z"
+    },
+    "th": {
+      "enhanced_description": "Moo Hong is een oud Phuket-gerecht: varkensbuik gestoofd in zoete sojasaus tot het vlees mals is, met een gebalanceerde zoet-zoute smaak. Het weerspiegelt de Chinees-Thaise cultuur van Phuket.",
+      "detailed_ingredients": [
+        {
+          "name": "Pork belly",
+          "purpose": "Essentieel voor de authentieke smaak van Moo Hong",
+          "substitutes": [
+            "Verse varkensbuik",
+            "Gedroogde varkensbuik",
+            "Varkensbuikpasta"
+          ]
+        },
+        {
+          "name": "Soy sauce",
+          "purpose": "Essentieel voor de authentieke smaak van Moo Hong",
+          "substitutes": [
+            "Verse sojasaus",
+            "Gedroogde sojasaus",
+            "Sojasauspasta"
+          ]
+        },
+        {
+          "name": "Palm sugar",
+          "purpose": "Essentieel voor de authentieke smaak van Moo Hong",
+          "substitutes": [
+            "Verse palmsuiker",
+            "Gedroogde palmsuiker",
+            "Palmsuikerpasta"
+          ]
+        },
+        {
+          "name": "Garlic",
+          "purpose": "Essentieel voor de authentieke smaak van Moo Hong",
+          "substitutes": [
+            "Verse knoflook",
+            "Gedroogde knoflook",
+            "Knoflookpasta"
+          ]
+        }
+      ],
+      "cooking_method": {
+        "technique": "Bakken of grillen",
+        "steps_overview": "Het bereiden van Moo Hong vereist aandacht voor details en het juiste tijdstip. Het is belangrijk om de smaken in balans te houden terwijl de textuur van elk ingrediënt behouden blijft. De traditionele methode, doorgegeven door generaties, garandeert de authentieke smaak.",
+        "cooking_tips": [
+          "Gebruik verse varkensbuik voor het beste resultaat",
+          "Pas de pittigheid aan naar smaak",
+          "Kook niet te lang om de textuur te behouden",
+          "Proef en breng op smaak voor het serveren"
+        ]
+      },
+      "cultural_significance": {
+        "origin_story": "Dit gerecht is al generaties lang deel van de zuidelijke Thaise voedselcultuur en weerspiegelt de unieke kooktradities en lokale ingrediënten van de regio.",
+        "cultural_importance": "Dit gerecht is het hart van de zuidelijke Thaise keuken en toont de balans en harmonie waar Thaise gerechten wereldwijd om bekendstaan.",
+        "traditional_occasions": [
+          "Familiebijeenkomsten",
+          "Lokale festivals",
+          "Straatvoedselmarkten",
+          "Speciale vieringen"
+        ]
+      },
+      "variations": [
+        {
+          "name": "Moo Hong Classic",
+          "description": "De traditionele versie geserveerd in lokale huizen"
+        },
+        {
+          "name": "Moo Hong Modern",
+          "description": "Een moderne versie met premium ingrediënten"
+        },
+        {
+          "name": "Vegetarian Moo Hong",
+          "description": "Vegetarische versie met tofu of paddenstoelen"
+        }
+      ],
+      "serving_suggestions": {
+        "traditional_accompaniments": [
+          "Jasmijnrijst",
+          "Verse groenten",
+          "Thaise kruiden"
+        ],
+        "presentation": "Serveer in traditionele Thaise stijl op een bord",
+        "eating_etiquette": "Eet met lepel en vork volgens Thaise traditie"
+      },
+      "where_to_find": {
+        "best_restaurants": [
+          "Lokale zuidelijke Thaise restaurants",
+          "Authentieke straatrestantaurants",
+          "Traditionele markten",
+          "Familiegerunde eetgelegenheden"
+        ],
+        "street_food_areas": [
+          "Nachtmarkten",
+          "Ochtendverse markten",
+          "Lokale foodcourts"
+        ],
+        "price_ranges": {
+          "street_vendor": "50-80 THB",
+          "market_stall": "60-100 THB",
+          "restaurant": "100-200 THB"
+        }
+      },
+      "translated_at": "2026-03-14T00:00:00.000Z"
+    },
+    "ja": {
+      "enhanced_description": "Moo Hong is een warm, vullend hoofdgerecht dat geliefd is in zuidelijke Thaise huishoudens. Phuket-stijl varkensbuik gestoofd in zoete sojasaus. Recept van gemiddelde moeilijkheid, bereidingstijd circa 90 minuten. Het belichaamt de authentieke smaken van zuid-Thaise keuken met sterke specerijen, zeevruchten en kokosbasis curries. De combinatie van varkensbuik, sojasaus en palmsuiker creëert een harmonieuze smaak, populair bij locals en bezoekers. Ideaal voor wie betaalbare authentieke Thaise gerechten zoekt.",
+      "detailed_ingredients": [
+        {
+          "name": "豚バラ肉",
+          "purpose": "Essentieel voor de authentieke smaak van Moo Hong",
+          "substitutes": [
+            "Verse varkensbuik",
+            "Gedroogde varkensbuik",
+            "Varkensbuikpasta"
+          ]
+        },
+        {
+          "name": "醤油",
+          "purpose": "Essentieel voor de authentieke smaak van Moo Hong",
+          "substitutes": [
+            "Verse sojasaus",
+            "Gedroogde sojasaus",
+            "Sojasauspasta"
+          ]
+        },
+        {
+          "name": "パームシュガー",
+          "purpose": "Essentieel voor de authentieke smaak van Moo Hong",
+          "substitutes": [
+            "Verse palmsuiker",
+            "Gedroogde palmsuiker",
+            "Palmsuikerpasta"
+          ]
+        },
+        {
+          "name": "にんにく",
+          "purpose": "Essentieel voor de authentieke smaak van Moo Hong",
+          "substitutes": [
+            "Verse knoflook",
+            "Gedroogde knoflook",
+            "Knoflookpasta"
+          ]
+        }
+      ],
+      "cooking_method": {
+        "technique": "Roerbakken of grillen",
+        "steps_overview": "Het maken van Moo Hong vereist aandacht voor details en het juiste tijdstip. Het balanceren van de smaken terwijl de textuur van elk ingrediënt behouden blijft, is de sleutel. De traditionele methode, doorgegeven door generaties, garandeert de authentieke smaak.",
+        "cooking_tips": [
+          "Gebruik verse varkensbuik voor het beste resultaat",
+          "Pas de pittigheid van specerijen aan naar smaak",
+          "Kook niet te lang om de textuur te behouden",
+          "Proef en pas de smaak aan voor het serveren"
+        ]
+      },
+      "cultural_significance": {
+        "origin_story": "Moo Hong is al generaties lang een hoeksteen van de zuidelijke Thaise keuken en weerspiegelt de unieke kooktradities en lokale ingrediënten van de regio.",
+        "cultural_importance": "Dit gerecht vormt de kern van de zuidelijke Thaise keuken en belichaamt de 'harmonie en balans' waar Thaise gerechten wereldwijd om beroemd zijn.",
+        "traditional_occasions": [
+          "Familiebijeenkomsten",
+          "Regionale festivals",
+          "Straatvoedselmarkten",
+          "Speciale vieringen"
+        ]
+      },
+      "variations": [
+        {
+          "name": "Moo Hong Classic",
+          "description": "De orthodoxe versie traditioneel geserveerd in lokale huizen"
+        },
+        {
+          "name": "Moo Hong Modern",
+          "description": "Moderne versie met premium ingrediënten"
+        },
+        {
+          "name": "Vegetarian Moo Hong",
+          "description": "Vegetarische versie met tofu of paddenstoelen"
+        }
+      ],
+      "serving_suggestions": {
+        "traditional_accompaniments": [
+          "Jasmijnrijst",
+          "Verse groenten",
+          "Thaise kruiden"
+        ],
+        "presentation": "Serveer op een bord in traditionele Thaise stijl",
+        "eating_etiquette": "Eet met vork en lepel volgens Thaise gewoonten"
+      },
+      "where_to_find": {
+        "best_restaurants": [
+          "Lokale zuidelijke Thaise restaurants",
+          "Authentieke straatrestantaurants",
+          "Traditionele markten",
+          "Familiegerunde eetgelegenheden"
+        ],
+        "street_food_areas": [
+          "Nachtmarkten",
+          "Ochtendverse markten",
+          "Lokale foodcourts"
+        ],
+        "price_ranges": {
+          "street_vendor": "50-80 THB",
+          "market_stall": "60-100 THB",
+          "restaurant": "100-200 THB"
+        }
+      },
+      "translated_at": "2026-03-14T00:00:00.000Z"
+    }
+  }
+}

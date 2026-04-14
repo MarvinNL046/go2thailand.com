@@ -1,0 +1,986 @@
+{
+  "id": 27,
+  "slug": "tom-yum-noodles",
+  "name": {
+    "en": "Tom Yum Noodles",
+    "nl": "Tom Yum Noedels",
+    "thai": "ก๋วยเตี๋ยวต้มยำ"
+  },
+  "category": "soep",
+  "region": "centraal",
+  "spice_level": "heet",
+  "description": {
+    "en": "Spicy and sour noodle soup with fish balls",
+    "nl": "Pittige en zure noedelsoep met visballen"
+  },
+  "ingredients": [
+    "rijstnoedels",
+    "visballen",
+    "limoensap",
+    "chili",
+    "citroengras",
+    "paddenstoelen"
+  ],
+  "allergens": [
+    "zeevruchten"
+  ],
+  "dietary": [],
+  "image": "/images/food/tom-yum-noodles.webp",
+  "preparation_time": "15 minuten",
+  "difficulty": "eenvoudig",
+  "price_range": "budget",
+  "seo": {
+    "metaTitle": {
+      "en": "Tom Yum Noodles Recipe | Authentic Thai soup",
+      "nl": "Tom Yum Noedels Recept | Authentieke Thaise soup"
+    },
+    "metaDescription": {
+      "en": "Learn about Tom Yum Noodles (ก๋วยเตี๋ยวต้มยำ) - Spicy and sour noodle soup with fish balls...",
+      "nl": "Leer over Tom Yum Noedels (ก๋วยเตี๋ยวต้มยำ) - Pittige en zure noedelsoep met visballen..."
+    }
+  },
+  "tags": [
+    "thaise-keuken",
+    "Thailand",
+    "soep",
+    "centraal",
+    "heet",
+    "eenvoudig",
+    "budget",
+    "rijstnoedels",
+    "visballen",
+    "limoensap"
+  ],
+  "cooking": {
+    "preparation_time": "15 minuten",
+    "difficulty": "eenvoudig",
+    "spice_level": "heet",
+    "serves": "2-4 personen"
+  },
+  "nutrition": {
+    "allergens": [
+      "zeevruchten"
+    ],
+    "dietary": [],
+    "price_range": "budget"
+  },
+  "enhanced_description": "Tom Yum Noedels is een geliefde zielsverwarmende soep uit Centraal-Thailand die vurig en gedurfd is. Pittige en zure noedelsoep met visballen. Dit eenvoudige recept vergt ongeveer 15 minuten bereidingstijd en vertegenwoordigt de authentieke smaken van de Centraal-Thaise keuken die zoet, zuur, zout en pittig perfect in balans brengt. De combinatie van rijstnoedels, visballen, limoensap creëert een harmonieuze mix die dit gerecht tot een favoriet heeft gemaakt onder zowel locals als bezoekers. Perfect voor wie op zoek is naar betaalbare authentieke Thaise keuken.",
+  "detailed_ingredients": [
+    {
+      "name": "Rice noodles",
+      "purpose": "Essentieel voor authentieke Tom Yum Noedels smaak",
+      "substitutes": [
+        "Verse rijstnoedels",
+        "Gedroogde rijstnoedels",
+        "rijstnoedels pasta"
+      ]
+    },
+    {
+      "name": "Fish balls",
+      "purpose": "Essentieel voor authentieke Tom Yum Noedels smaak",
+      "substitutes": [
+        "Verse visballen",
+        "Gedroogde visballen",
+        "visballen pasta"
+      ]
+    },
+    {
+      "name": "Lime juice",
+      "purpose": "Essentieel voor authentieke Tom Yum Noedels smaak",
+      "substitutes": [
+        "Vers limoensap",
+        "Gedroogd limoensap",
+        "limoensap pasta"
+      ]
+    },
+    {
+      "name": "Chili",
+      "purpose": "Essentieel voor authentieke Tom Yum Noedels smaak",
+      "substitutes": [
+        "Verse chili",
+        "Gedroogde chili",
+        "chili pasta"
+      ]
+    }
+  ],
+  "cooking_method": {
+    "technique": "Sudderen en smaken opbouwen",
+    "steps_overview": "Het bereiden van Tom Yum Noedels vereist aandacht voor detail en goede timing. De sleutel is het balanceren van alle smaken terwijl de textuur van elk ingrediënt behouden blijft. Traditionele methoden die van generatie op generatie zijn doorgegeven, garanderen een authentieke smaak.",
+    "cooking_tips": [
+      "Gebruik verse rijstnoedels voor het beste resultaat",
+      "Pas het pittigheidsniveau aan naar voorkeur",
+      "Kook niet te lang om textuur te behouden",
+      "Proef en pas kruiding aan voor serveren"
+    ]
+  },
+  "cultural_significance": {
+    "origin_story": "Tom Yum Noedels is al generaties lang een vast onderdeel van de Centraal-Thaise keuken en weerspiegelt de unieke culinaire tradities en lokale ingrediënten van de regio.",
+    "cultural_importance": "Dit gerecht vertegenwoordigt het hart van de Centraal-Thaise kookkunst en toont de balans en harmonie waarmee de Thaise keuken wereldwijd beroemd is.",
+    "traditional_occasions": [
+      "Familiebijeenkomsten",
+      "Lokale festivals",
+      "Straatvoedselmarkten",
+      "Bijzondere vieringen"
+    ]
+  },
+  "variations": [
+    {
+      "name": "Tom Yum Noodles Classic",
+      "description": "De traditionele versie zoals geserveerd in lokale huizen"
+    },
+    {
+      "name": "Tom Yum Noodles Modern",
+      "description": "Hedendaagse twist met premium ingrediënten"
+    },
+    {
+      "name": "Vegetarian Tom Yum Noodles",
+      "description": "Plantaardige versie met tofu of paddenstoelen"
+    }
+  ],
+  "serving_suggestions": {
+    "traditional_accompaniments": [
+      "Jasmijnrijst",
+      "Verse groenten",
+      "Thaise kruiden"
+    ],
+    "presentation": "Geserveerd in een kom in traditionele Thaise stijl",
+    "eating_etiquette": "Genoten met vork en lepel volgens Thais gebruik"
+  },
+  "nutritional_info": {
+    "calories_per_serving": "300-500 calorieën",
+    "health_benefits": [
+      "Rijk aan Thaise kruiden en specerijen",
+      "Bron van eiwitten en groenten",
+      "Gebalanceerde smaken en voedingsstoffen"
+    ],
+    "dietary_notes": []
+  },
+  "where_to_find": {
+    "best_restaurants": [
+      "Lokale Centraal-Thaise restaurants",
+      "Authentieke straatvoedselstalletjes",
+      "Traditionele markten",
+      "Familiegerunde eetgelegenheden"
+    ],
+    "street_food_areas": [
+      "Nachtmarkten",
+      "Ochtendverse markten",
+      "Lokale food courts"
+    ],
+    "price_ranges": {
+      "street_vendor": "30-50 THB",
+      "market_stall": "40-60 THB",
+      "restaurant": "60-100 THB"
+    }
+  },
+  "translations": {
+    "nl": {
+      "enhanced_description": "Tom Yum Noedels is een geliefde zielsverwarmende soep uit Centraal-Thailand die vurig en gedurfd is. Pittige en zure noedelsoep met visballen. Dit eenvoudige recept vergt ongeveer 15 minuten bereidingstijd en vertegenwoordigt de authentieke smaken van de Centraal-Thaise keuken die zoet, zuur, zout en pittig perfect in balans brengt. De combinatie van rijstnoedels, visballen en limoensap creëert een harmonieuze mix die dit gerecht tot een favoriet heeft gemaakt onder zowel locals als bezoekers. Perfect voor wie op zoek is naar betaalbare authentieke Thaise keuken.",
+      "detailed_ingredients": [
+        {
+          "name": "Rijstnoedels",
+          "purpose": "Essentieel voor de authentieke Tom Yum Noedels smaak",
+          "substitutes": [
+            "Verse rijstnoedels",
+            "Gedroogde rijstnoedels",
+            "Eiernoedels"
+          ]
+        },
+        {
+          "name": "Visballen",
+          "purpose": "Essentieel voor de authentieke Tom Yum Noedels smaak",
+          "substitutes": [
+            "Verse visballen",
+            "Garnalenballen",
+            "Tofu"
+          ]
+        },
+        {
+          "name": "Limoensap",
+          "purpose": "Essentieel voor de authentieke Tom Yum Noedels smaak",
+          "substitutes": [
+            "Vers limoensap",
+            "Citroensap",
+            "Tamarindesap"
+          ]
+        },
+        {
+          "name": "Chili",
+          "purpose": "Essentieel voor de authentieke Tom Yum Noedels smaak",
+          "substitutes": [
+            "Verse chili",
+            "Gedroogde chili",
+            "Chilipasta"
+          ]
+        }
+      ],
+      "cooking_method": {
+        "technique": "Sudderen en smaken opbouwen",
+        "steps_overview": "Het bereiden van Tom Yum Noedels vereist aandacht voor detail en goede timing. De sleutel is het balanceren van alle smaken terwijl de textuur van elk ingrediënt behouden blijft. Traditionele methoden die van generatie op generatie zijn doorgegeven, garanderen een authentieke smaak.",
+        "cooking_tips": [
+          "Gebruik verse rijstnoedels voor het beste resultaat",
+          "Pas het pittigheidsgehalte aan naar je voorkeur",
+          "Kook niet te lang om de textuur te behouden",
+          "Proef en pas de kruiding aan voor het serveren"
+        ]
+      },
+      "cultural_significance": {
+        "origin_story": "Tom Yum Noedels is al generaties lang een vast onderdeel van de Centraal-Thaise keuken en weerspiegelt de unieke culinaire tradities en lokale ingrediënten van de regio.",
+        "cultural_importance": "Dit gerecht vertegenwoordigt het hart van de Centraal-Thaise kookkunst en toont de balans en harmonie waarmee de Thaise keuken wereldwijd beroemd is.",
+        "traditional_occasions": [
+          "Familiebijeenkomsten",
+          "Lokale festivals",
+          "Straatvoedselmarkten",
+          "Bijzondere vieringen"
+        ]
+      },
+      "variations": [
+        {
+          "name": "Tom Yum Noedels Klassiek",
+          "description": "De traditionele versie zoals geserveerd in lokale huishoudens"
+        },
+        {
+          "name": "Tom Yum Noedels Modern",
+          "description": "Hedendaagse variant met premium ingrediënten"
+        },
+        {
+          "name": "Vegetarische Tom Yum Noedels",
+          "description": "Plantaardige versie met tofu of paddenstoelen"
+        }
+      ],
+      "serving_suggestions": {
+        "traditional_accompaniments": [
+          "Jasmijnrijst",
+          "Verse groenten",
+          "Thaise kruiden"
+        ],
+        "presentation": "Geserveerd in een kom in traditionele Thaise stijl",
+        "eating_etiquette": "Gegeten met vork en lepel volgens Thais gebruik"
+      },
+      "where_to_find": {
+        "best_restaurants": [
+          "Lokale Centraal-Thaise restaurants",
+          "Authentieke straatvoedselkramen",
+          "Traditionele markten",
+          "Familiebedrijfjes"
+        ],
+        "street_food_areas": [
+          "Nachtmarkten",
+          "Ochtendverse markten",
+          "Lokale food courts"
+        ]
+      },
+      "translated_at": "2026-03-10T00:00:00.000Z"
+    },
+    "fr": {
+      "enhanced_description": "Tom Yum Noedels is een geliefde zielsverwarmende soep uit Centraal-Thailand, vurig en gedurfd. Een pittige en zure noedelsoep met visballen. Dit eenvoudige recept vereist ongeveer 15 minuten voorbereiding en vertegenwoordigt de authentieke smaken van de centrale Thaise keuken die zoete, zure, zoute en pittige smaken perfect in balans brengt. De combinatie van rijstnoedels, visballen en limoensap creëert een harmonieuze blend die dit gerecht een favoriet heeft gemaakt bij zowel locals als bezoekers. Perfect voor wie op zoek is naar authentieke Thaise keuken tegen een betaalbare prijs.",
+      "detailed_ingredients": [
+        {
+          "name": "Nouilles de riz",
+          "purpose": "Essentieel voor de authentieke smaak van Tom Yum Noedels",
+          "substitutes": [
+            "Verse rijstnoedels",
+            "Gedroogde rijstnoedels",
+            "Eiernoedels"
+          ]
+        },
+        {
+          "name": "Boulettes de poisson",
+          "purpose": "Essentieel voor de authentieke smaak van Tom Yum Noedels",
+          "substitutes": [
+            "Verse visballen",
+            "Garnalenballen",
+            "Tofu"
+          ]
+        },
+        {
+          "name": "Jus de citron vert",
+          "purpose": "Essentieel voor de authentieke smaak van Tom Yum Noedels",
+          "substitutes": [
+            "Vers limoensap",
+            "Citroensap",
+            "Tamarindesap"
+          ]
+        },
+        {
+          "name": "Piment",
+          "purpose": "Essentieel voor de authentieke smaak van Tom Yum Noedels",
+          "substitutes": [
+            "Verse chili",
+            "Gedroogde chili",
+            "Chilipasta"
+          ]
+        }
+      ],
+      "cooking_method": {
+        "technique": "Sudderen en smaken opbouwen",
+        "steps_overview": "Het bereiden van Tom Yum Noedels vereist aandacht voor details en goed tijdmanagement. De sleutel is het balanceren van alle smaken terwijl de textuur van elk ingrediënt behouden blijft. Traditionele methoden die van generatie op generatie zijn doorgegeven, garanderen een authentieke smaak.",
+        "cooking_tips": [
+          "Gebruik verse rijstnoedels voor het beste resultaat",
+          "Pas het pittigheidsniveau aan volgens je voorkeuren",
+          "Kook niet te lang om de textuur te behouden",
+          "Proef en pas de kruiding aan voor het serveren"
+        ]
+      },
+      "cultural_significance": {
+        "origin_story": "Tom Yum Noedels is al generaties lang een hoeksteen van de centrale Thaise keuken en weerspiegelt de unieke culinaire tradities en lokale ingrediënten van de regio.",
+        "cultural_importance": "Dit gerecht vertegenwoordigt het hart van de centrale Thaise keuken en illustreert de balans en harmonie die de Thaise keuken wereldwijd beroemd hebben gemaakt.",
+        "traditional_occasions": [
+          "Familiebijeenkomsten",
+          "Lokale festivals",
+          "Straatvoedselmarkten",
+          "Bijzondere vieringen"
+        ]
+      },
+      "variations": [
+        {
+          "name": "Nouilles Tom Yum Classiques",
+          "description": "De traditionele versie zoals geserveerd in lokale huishoudens"
+        },
+        {
+          "name": "Nouilles Tom Yum Modernes",
+          "description": "Moderne versie met premium ingrediënten"
+        },
+        {
+          "name": "Nouilles Tom Yum Végétariennes",
+          "description": "Vegetarische versie met tofu of champignons"
+        }
+      ],
+      "serving_suggestions": {
+        "traditional_accompaniments": [
+          "Jasmijnrijst",
+          "Verse groenten",
+          "Thaise kruiden"
+        ],
+        "presentation": "Geserveerd in een kom in de traditionele Thaise stijl",
+        "eating_etiquette": "Genoten met vork en lepel volgens Thaise traditie"
+      },
+      "where_to_find": {
+        "best_restaurants": [
+          "Lokale restaurants in het centrum van Thailand",
+          "Authentieke straatkiosken",
+          "Traditionele markten",
+          "Familierestaurants"
+        ],
+        "street_food_areas": [
+          "Nachtmarkten",
+          "Verse ochtendmarkten",
+          "Lokale food courts"
+        ]
+      },
+      "translated_at": "2026-03-10T00:00:00.000Z"
+    },
+    "de": {
+      "enhanced_description": "Tom Yum-noedels zijn een populaire hartverwarmende soep uit Centraal-Thailand, pittig en krachtig. Pittige en zure noedelssoep met visballetjes. Dit eenvoudige recept vereist ongeveer 15 minuten bereidingstijd en vertegenwoordigt de authentieke smaken van de Centraal-Thaise keuken, die zoete, zure, zoute en pittige smaken perfect in balans brengt. De combinatie van rijstnoedels, visballetjes en limoensap creëert een harmonieuze mix die dit gerecht even geliefd heeft gemaakt bij locals en bezoekers. Perfect voor iedereen die betaalbare authentieke Thaise keuken zoekt.",
+      "detailed_ingredients": [
+        {
+          "name": "Reisnudeln",
+          "purpose": "Onmisbaar voor de authentieke Tom Yum-noedelsmaak",
+          "substitutes": [
+            "Verse rijstnoedels",
+            "Gedroogde rijstnoedels",
+            "Eiernoedels"
+          ]
+        },
+        {
+          "name": "Fischbällchen",
+          "purpose": "Onmisbaar voor de authentieke Tom Yum-noedelsmaak",
+          "substitutes": [
+            "Verse visballetjes",
+            "Garnalenballetjes",
+            "Tofu"
+          ]
+        },
+        {
+          "name": "Limettensaft",
+          "purpose": "Onmisbaar voor de authentieke Tom Yum-noedelsmaak",
+          "substitutes": [
+            "Vers limoensap",
+            "Citroensap",
+            "Tamarindesap"
+          ]
+        },
+        {
+          "name": "Chili",
+          "purpose": "Onmisbaar voor de authentieke Tom Yum-noedelsmaak",
+          "substitutes": [
+            "Verse chili",
+            "Gedroogde chili",
+            "Chili-pasta"
+          ]
+        }
+      ],
+      "cooking_method": {
+        "technique": "Laten sudderen en smaken opbouwen",
+        "steps_overview": "De bereiding van Tom Yum-noedels vereist aandacht voor detail en goed timing. De sleutel ligt in het balanceren van alle smaken terwijl de textuur van elke ingrediënt behouden blijft. Traditionele methoden, doorgegeven van generatie op generatie, garanderen een authentieke smaak.",
+        "cooking_tips": [
+          "Gebruik verse rijstnoedels voor het beste resultaat",
+          "Pas de pittigheid aan naar smaak",
+          "Niet te lang koken om de textuur te behouden",
+          "Proeven en op smaak brengen voor het serveren"
+        ]
+      },
+      "cultural_significance": {
+        "origin_story": "Tom Yum-noedels zijn al generaties lang een vast onderdeel van de Centraal-Thaise keuken en weerspiegelen de unieke culinaire tradities en lokale ingrediënten van de regio.",
+        "cultural_importance": "Dit gerecht vertegenwoordigt het hart van de Centraal-Thaise kookkunst en toont de balans en harmonie waarvoor de Thaise keuken wereldwijd beroemd is.",
+        "traditional_occasions": [
+          "Familiebijeenkomsten",
+          "Lokale feesten",
+          "Straatvoedselmarkten",
+          "Speciale vieringen"
+        ]
+      },
+      "variations": [
+        {
+          "name": "Tom Yum Nudeln Klassisch",
+          "description": "De traditionele versie zoals geserveerd in lokale huishoudens"
+        },
+        {
+          "name": "Tom Yum Nudeln Modern",
+          "description": "Moderne variant met premium ingrediënten"
+        },
+        {
+          "name": "Vegetarische Tom Yum Nudeln",
+          "description": "Plantaardige versie met tofu of paddenstoelen"
+        }
+      ],
+      "serving_suggestions": {
+        "traditional_accompaniments": [
+          "Jasmijnrijst",
+          "Verse groenten",
+          "Thaise kruiden"
+        ],
+        "presentation": "Geserveerd in een kom in de traditionele Thaise stijl",
+        "eating_etiquette": "Genoten met vork en lepel volgens Thaise gewoonte"
+      },
+      "where_to_find": {
+        "best_restaurants": [
+          "Lokale Centraal-Thaise restaurants",
+          "Authentieke straatvoedselkraampjes",
+          "Traditionele markten",
+          "Familiegerunde eetgelegenheden"
+        ],
+        "street_food_areas": [
+          "Nachtmarkten",
+          "Verse ochtendmarkten",
+          "Lokale food courts"
+        ]
+      },
+      "translated_at": "2026-03-10T00:00:00.000Z"
+    },
+    "zh": {
+      "enhanced_description": "Tom Yum-noedels zijn een geliefde hartverwarmende soep uit Centraal-Thailand, pittig en intens. Dit is een pittige en zure noedelssoep met visballetjes. Dit eenvoudige recept duurt slechts ongeveer 15 minuten en belichaamt de authentieke smaken van de Centraal-Thaise keuken, die zoet, zuur, zout en pittig perfect in balans brengt. De combinatie van rijstnoedels, visballetjes en limoensap creëert een harmonieuze smaak die dit gerecht even populair maakt bij locals als bij toeristen. Ideaal voor wie betaalbare authentieke Thaise gerechten zoekt.",
+      "detailed_ingredients": [
+        {
+          "name": "米粉",
+          "purpose": "Essentieel voor de authentieke Tom Yum-noedelsmaak",
+          "substitutes": [
+            "Verse rijstnoedels",
+            "Gedroogde rijstnoedels",
+            "Eiernoedels"
+          ]
+        },
+        {
+          "name": "鱼丸",
+          "purpose": "Essentieel voor de authentieke Tom Yum-noedelsmaak",
+          "substitutes": [
+            "Verse visballetjes",
+            "Garnalenballetjes",
+            "Tofu"
+          ]
+        },
+        {
+          "name": "青柠汁",
+          "purpose": "Essentieel voor de authentieke Tom Yum-noedelsmaak",
+          "substitutes": [
+            "Vers limoensap",
+            "Citroensap",
+            "Tamarindesap"
+          ]
+        },
+        {
+          "name": "辣椒",
+          "purpose": "Essentieel voor de authentieke Tom Yum-noedelsmaak",
+          "substitutes": [
+            "Verse chili",
+            "Gedroogde chili",
+            "Chili-pasta"
+          ]
+        }
+      ],
+      "cooking_method": {
+        "technique": "Laten sudderen en smaken laag voor laag opbouwen",
+        "steps_overview": "Het bereiden van Tom Yum-noedels vereist aandacht voor details en goed tijdmanagement. De sleutel is het balanceren van alle smaken terwijl de textuur van elk ingrediënt behouden blijft. Traditionele methoden, doorgegeven van generatie op generatie, zorgen voor een authentieke smaak.",
+        "cooking_tips": [
+          "Gebruik verse rijstnoedels voor het beste effect",
+          "Pas de pittigheid aan naar persoonlijke voorkeur",
+          "Niet te lang koken om de textuur te behouden",
+          "Proeven en kruiden aanpassen voor het serveren"
+        ]
+      },
+      "cultural_significance": {
+        "origin_story": "Tom Yum-noedels zijn al generaties lang een pijler van de Centraal-Thaise keuken en weerspiegelen de unieke kooktradities en lokale ingrediënten van de regio.",
+        "cultural_importance": "Dit gerecht belichaamt de essentie van de Centraal-Thaise kookkunst en toont de balans en harmonie waarvoor de Thaise keuken wereldwijd bekendstaat.",
+        "traditional_occasions": [
+          "Familiebijeenkomsten",
+          "Lokale festivals",
+          "Straatvoedselmarkten",
+          "Speciale vieringen"
+        ]
+      },
+      "variations": [
+        {
+          "name": "经典冬阴功面条",
+          "description": "De traditionele versie zoals geserveerd in lokale families"
+        },
+        {
+          "name": "现代冬阴功面条",
+          "description": "Moderne innovatieve versie met premium ingrediënten"
+        },
+        {
+          "name": "素食冬阴功面条",
+          "description": "Plantaardige versie met tofu of paddenstoelen"
+        }
+      ],
+      "serving_suggestions": {
+        "traditional_accompaniments": [
+          "Jasmijnrijst",
+          "Verse groenten",
+          "Thaise kruiden"
+        ],
+        "presentation": "Geserveerd in een kom in traditionele Thaise stijl",
+        "eating_etiquette": "Gegeten met vork en lepel volgens Thaise gewoonten"
+      },
+      "where_to_find": {
+        "best_restaurants": [
+          "Lokale Centraal-Thaise restaurants",
+          "Authentieke straatvoedselkraampjes",
+          "Traditionele markten",
+          "Familiegerunde kleine eettentjes"
+        ],
+        "street_food_areas": [
+          "Nachtmarkten",
+          "Ochtendverse markten",
+          "Lokale eetpleinen"
+        ]
+      },
+      "translated_at": "2026-03-11T00:00:00.000Z"
+    },
+    "ru": {
+      "enhanced_description": "Tom Yum-noedels zijn een geliefde hartverwarmende soep uit Centraal-Thailand, vurig en rijk van smaak. Pittige en zure soep met noedels en visballetjes. Dit eenvoudige recept duurt slechts ongeveer 15 minuten en belichaamt de authentieke smaken van de Centraal-Thaise keuken, die zoet, zuur, zout en pittig perfect combineert. De mix van rijstnoedels, visballetjes en limoensap creëert een harmonieus boeket dat dit gerecht geliefd maakt bij zowel locals als gasten. Ideaal voor wie betaalbare authentieke Thaise keuken zoekt.",
+      "detailed_ingredients": [
+        {
+          "name": "Рисовая лапша",
+          "purpose": "Onmisbaar voor de authentieke Tom Yum-noedelsmaak",
+          "substitutes": [
+            "Verse rijstnoedels",
+            "Gedroogde rijstnoedels",
+            "Eiernoedels"
+          ]
+        },
+        {
+          "name": "Рыбные шарики",
+          "purpose": "Onmisbaar voor de authentieke Tom Yum-noedelsmaak",
+          "substitutes": [
+            "Verse visballetjes",
+            "Garnalenballetjes",
+            "Tofu"
+          ]
+        },
+        {
+          "name": "Сок лайма",
+          "purpose": "Onmisbaar voor de authentieke Tom Yum-noedelsmaak",
+          "substitutes": [
+            "Vers limoensap",
+            "Citroensap",
+            "Tamarindesap"
+          ]
+        },
+        {
+          "name": "Чили",
+          "purpose": "Onmisbaar voor de authentieke Tom Yum-noedelsmaak",
+          "substitutes": [
+            "Verse chili",
+            "Gedroogde chili",
+            "Chili-pasta"
+          ]
+        }
+      ],
+      "cooking_method": {
+        "technique": "Laten sudderen en smaken laag voor laag opbouwen",
+        "steps_overview": "Het bereiden van Tom Yum-noedels vereist aandacht voor details en correcte timing. De sleutel is het balanceren van alle smaken terwijl de textuur van elk ingrediënt behouden blijft. Traditionele methoden, doorgegeven van generatie op generatie, zorgen voor een authentieke smaak.",
+        "cooking_tips": [
+          "Gebruik verse rijstnoedels voor het beste resultaat",
+          "Pas de pittigheid aan naar smaak",
+          "Niet doorkoken om de textuur te behouden",
+          "Proeven en kruiden aanpassen voor het serveren"
+        ]
+      },
+      "cultural_significance": {
+        "origin_story": "Tom Yum-noedels zijn al generaties lang de basis van de Centraal-Thaise keuken en weerspiegelen de unieke culinaire tradities en lokale ingrediënten van de regio.",
+        "cultural_importance": "Dit gerecht belichaamt het hart van de Centraal-Thaise culinaire kunst en toont de balans en harmonie waarvoor de Thaise keuken wereldwijd beroemd is.",
+        "traditional_occasions": [
+          "Familiebijeenkomsten",
+          "Lokale festivals",
+          "Straatvoedselmarkten",
+          "Speciale feesten"
+        ]
+      },
+      "variations": [
+        {
+          "name": "Классическая лапша Том Ям",
+          "description": "De traditionele versie zoals geserveerd in lokale huizen"
+        },
+        {
+          "name": "Современная лапша Том Ям",
+          "description": "Moderne interpretatie met premium ingrediënten"
+        },
+        {
+          "name": "Вегетарианская лапша Том Ям",
+          "description": "Plantaardige versie met tofu of paddenstoelen"
+        }
+      ],
+      "serving_suggestions": {
+        "traditional_accompaniments": [
+          "Jasmijnrijst",
+          "Verse groenten",
+          "Thaise kruiden"
+        ],
+        "presentation": "Geserveerd in een kom in traditionele Thaise stijl",
+        "eating_etiquette": "Gegeten met vork en lepel volgens Thaise traditie"
+      },
+      "where_to_find": {
+        "best_restaurants": [
+          "Lokale restaurants van de Centraal-Thaise keuken",
+          "Authentieke straatvoedselkarren",
+          "Traditionele markten",
+          "Familie-snackbars"
+        ],
+        "street_food_areas": [
+          "Nachtmarkten",
+          "Ochtendverse markten",
+          "Lokale food courts"
+        ]
+      },
+      "translated_at": "2026-03-11T00:00:00.000Z"
+    },
+    "ko": {
+      "enhanced_description": "Kuay Tiao Tom Yum is een pittig-zure noedelgerecht dat de smaak van de nationale Thaise soep Tom Yum combineert met noedels, een straatvoedselklassieker. Terwijl Tom Yum Kung als soep met rijst wordt gegeten, is Kuay Tiao Tom Yum een complete maaltijd in één kom. Pittige bouillon met rijstnoedels, stevige visballetjes, geplette pinda's en citroengras, afgewerkt met limoensap en chilipoeder. Overal in de steegjes van Bangkok voor 30-50 baht, een volkse maaltijd die snel, lekker en goedkoop is – de essentie van Thais straatvoedsel.",
+      "detailed_ingredients": [
+        {
+          "name": "쌀국수 (센렉 또는 센미)",
+          "purpose": "Basis voor de noedels – voornamelijk dunne noedels (sen mi) of middeldikke noedels (sen lek)",
+          "substitutes": [
+            "Eiernoedels",
+            "Glasnoedels (wunsen)",
+            "Brede rijstnoedels (sen yai)"
+          ]
+        },
+        {
+          "name": "어묵 (룩친쁠라)",
+          "purpose": "Hoofdproteïne met een stevige, springerige textuur die contrasteert met de pittige bouillon",
+          "substitutes": [
+            "Garnalenballetjes",
+            "Varkensballetjes (look chin mu)",
+            "Tofu"
+          ]
+        },
+        {
+          "name": "라임즙",
+          "purpose": "Essentiële kruiden voor de kenmerkende zure smaak van Tom Yum — voeg toe na het verwijderen van het vuur om het aroma te behouden",
+          "substitutes": [
+            "Limoensap",
+            "Tamarindewater"
+          ]
+        },
+        {
+          "name": "고추와 남프릭파오 (고추기름)",
+          "purpose": "Kruiden dat pittigheid en umami tegelijk toevoegt — nam prik pao geeft diepte aan de bouillon",
+          "substitutes": [
+            "Chilipoeder",
+            "Sambal oelek"
+          ]
+        },
+        {
+          "name": "으깬 땅콩",
+          "purpose": "Topping die nootachtige smaak en knapperige textuur toevoegt",
+          "substitutes": [
+            "Roosterde pinda's",
+            "Cashewnoten"
+          ]
+        }
+      ],
+      "cooking_method": {
+        "technique": "Tom Yum gekruide bouillon maken en noedels assembleren",
+        "steps_overview": "Eerst de bouillon trekken met citroengras, kaffir limoenblaadjes en galanga. Kruiden met nam prik pao, vissaus en suiker, dan gekookte rijstnoedels in een kom doen en hete bouillon erover gieten. Beleg met visballetjes, taugé en geplette pinda's, en tot slot limoensap en chilipoeder strooien om af te maken.",
+        "cooking_tips": [
+          "Nam prik pao (chiliolie) is de kern van deze noedels — zonder is het geen Tom Yum smaak",
+          "Rijstnoedels apart koken en in de kom doen om te voorkomen dat ze papperig worden",
+          "Limoensap altijd als laatste toevoegen — koken maakt het bitter",
+          "Pittigheid aanpassen met de hoeveelheid chili — Thai eten behoorlijk pittig",
+          "Verse visballetjes gebruiken voor een veel betere textuur"
+        ]
+      },
+      "cultural_significance": {
+        "origin_story": "Kuay Tiew Tom Yum is een creatief straatgerecht dat twee nationale gerechten combineert — Tom Yum soep en kuay tiew (rijstnoedels) — in Bangkok's noedelstalletjes natuurlijk ontwikkeld. Een praktische maaltijd met alles in één kom, zonder aparte soep te bestellen.",
+        "cultural_importance": "Een van de meest populaire gerechten in noedelwinkels en straatstalletjes door heel Thailand. Vertegenwoordigd eten voor kantoormedewerkers tijdens de lunchtijd, hoge prijs-kwaliteitverhouding, vooral geliefd bij studenten en gewone mensen.",
+        "traditional_occasions": [
+          "Snelle lunchmaaltijd",
+          "Late night straateten",
+          "Populair menu bij studenten",
+          "Eten tegen kater"
+        ]
+      },
+      "variations": [
+        {
+          "name": "꾸어이띠아오 똠얌 남콘",
+          "description": "Versie met gecondenseerde melk voor romigheid, harmonie van pittig en nootachtig."
+        },
+        {
+          "name": "꾸어이띠아오 똠얌 행 (비빔)",
+          "description": "Droge stijl gemengd met kruiden, intensere en stimulerende smaak."
+        },
+        {
+          "name": "꾸어이띠아오 똠얌 탈레",
+          "description": "Zeefruitsversie met garnalen, inktvis in plaats van visballetjes."
+        }
+      ],
+      "serving_suggestions": {
+        "traditional_accompaniments": [
+          "Chilipoeder",
+          "Vissaus",
+          "Suiker",
+          "Azijn ingelegde chili's (prik nam som)",
+          "Verse taugé"
+        ],
+        "presentation": "Bouillon en toppings op de noedelkom serveren",
+        "eating_etiquette": "Noedels eten met stokjes en bouillon scheppen met lepel. Smaak aanpassen met de 4 tafelkruiden (suiker, vissaus, chilipoeder, azijnchili)."
+      },
+      "where_to_find": {
+        "best_restaurants": [
+          "Pee Aor (Bangkok) — Legende van Tom Yum noedels, Michelin Bib Gourmand",
+          "Pee Aor (Bangkok) — Zelfde naam andere winkel, ook beroemd",
+          "Noedelstalletjes door heel Bangkok (kuay tiew winkels)"
+        ],
+        "street_food_areas": [
+          "Chatuchak weekendmarkt in Bangkok",
+          "Wang Lang markt (bij Sirirat ziekenhuis)",
+          "Chinatown (Yaowarat) avondstalletjes",
+          "Stalletjes in kantoorwijken tijdens lunchtijd"
+        ],
+        "price_ranges": {
+          "street_vendor": "30-50 THB",
+          "market_stall": "40-60 THB",
+          "restaurant": "60-100 THB"
+        }
+      },
+      "translated_at": "2026-03-14T00:00:00.000Z"
+    },
+    "th": {
+      "enhanced_description": "Kuay teow tom yam zijn noedels in pittige zure tom yam bouillon met visballetjes, geplette pinda's en koriander. Een pittig verfrissend straatgerecht dat overal te vinden is.",
+      "detailed_ingredients": [
+        {
+          "name": "Rice noodles",
+          "purpose": "Belangrijk voor authentieke Tom Yum noedels smaak",
+          "substitutes": [
+            "Verse rijstnoedels",
+            "Gedroogde rijstnoedels",
+            "Rijstnoedel pasta"
+          ]
+        },
+        {
+          "name": "Fish balls",
+          "purpose": "Belangrijk voor authentieke Tom Yum noedels smaak",
+          "substitutes": [
+            "Verse visballetjes",
+            "Gedroogde visballetjes",
+            "Visballetjes pasta"
+          ]
+        },
+        {
+          "name": "Lime juice",
+          "purpose": "Belangrijk voor authentieke Tom Yum noedels smaak",
+          "substitutes": [
+            "Vers limoensap",
+            "Gedroogd limoensap",
+            "Limoensap pasta"
+          ]
+        },
+        {
+          "name": "Chili",
+          "purpose": "Belangrijk voor authentieke Tom Yum noedels smaak",
+          "substitutes": [
+            "Verse chili",
+            "Gedroogde chili",
+            "Chili pasta"
+          ]
+        }
+      ],
+      "cooking_method": {
+        "technique": "Het sudderen en laag voor laag smaak toevoegen",
+        "steps_overview": "De bereiding van Tom Yum noedels vereist aandacht voor details en juiste timing. Belangrijk is de balans van alle smaken terwijl de textuur van elk ingrediënt behouden blijft. De traditionele methode, doorgegeven over generaties, garandeert authentieke smaak.",
+        "cooking_tips": [
+          "Gebruik verse rijstnoedels voor het beste resultaat",
+          "Pittigheid aanpassen naar smaak",
+          "Niet te lang koken om textuur te behouden",
+          "Proeven en kruiden voor het serveren"
+        ]
+      },
+      "cultural_significance": {
+        "origin_story": "Dit gerecht is al generaties lang deel van de Midden-Thaise voedselcultuur en weerspiegelt de unieke kooktradities en lokale ingrediënten van de regio.",
+        "cultural_importance": "Dit gerecht is het hart van de Midden-Thaise keuken en toont de balans en harmonie waar Thaise keuken wereldwijd beroemd om is.",
+        "traditional_occasions": [
+          "Familiebijeenkomsten",
+          "Lokale festivals",
+          "Strandvoedselmarkten",
+          "Speciale vieringen"
+        ]
+      },
+      "variations": [
+        {
+          "name": "Tom Yum Noodles Classic",
+          "description": "Traditionele versie geserveerd in lokale huizen"
+        },
+        {
+          "name": "Tom Yum Noodles Modern",
+          "description": "Moderne versie met premium ingrediënten"
+        },
+        {
+          "name": "Vegetarian Tom Yum Noodles",
+          "description": "Vegetarische versie met tofu of paddenstoelen"
+        }
+      ],
+      "serving_suggestions": {
+        "traditional_accompaniments": [
+          "Jasmijnrijst",
+          "Verse groenten",
+          "Thaise kruiden"
+        ],
+        "presentation": "Serveren in traditionele Thaise kommen",
+        "eating_etiquette": "Eten met lepel en vork volgens Thaise traditie"
+      },
+      "where_to_find": {
+        "best_restaurants": [
+          "Midden-Thaise restaurants",
+          "Authentieke straatstalletjes",
+          "Traditionele markten",
+          "Familierestaurants"
+        ],
+        "street_food_areas": [
+          "Nachtmarkten",
+          "Ochtendverse markten",
+          "Lokale voedselhoven"
+        ],
+        "price_ranges": {
+          "street_vendor": "30-50 THB",
+          "market_stall": "40-60 THB",
+          "restaurant": "60-100 THB"
+        }
+      },
+      "translated_at": "2026-03-14T00:00:00.000Z"
+    },
+    "ja": {
+      "enhanced_description": "Tom Yum noedels zijn een passionele en robuuste soep die het hart van Midden-Thailand verwarmt. Pittige zure noedelssoep met visballetjes. Dit eenvoudige recept kan in ongeveer 15 minuten worden voorbereid en drukt de authentieke smaak van Midden-Thaise keuken perfect uit. Gebalanceerde smaken van zoet, zuur, zout en pittig. De combinatie van rijstnoedels, visballetjes en limoensap creëert een harmonieuze melodie, de reden waarom het populair is bij locals en toeristen. Perfect voor wie betaalbare authentieke Thaise gerechten zoekt.",
+      "detailed_ingredients": [
+        {
+          "name": "Rice noodles（ライスヌードル）",
+          "purpose": "Essentieel voor authentieke Tom Yum noedels smaak",
+          "substitutes": [
+            "Verse rijstnoedels",
+            "Gedroogde rijstnoedels",
+            "Rijstnoedel pasta"
+          ]
+        },
+        {
+          "name": "魚団子（フィッシュボール）",
+          "purpose": "Essentieel voor authentieke Tom Yum noedels smaak",
+          "substitutes": [
+            "Verse visballetjes",
+            "Gedroogde visballetjes",
+            "Visballetjes pasta"
+          ]
+        },
+        {
+          "name": "ライムジュース（Lime juice）",
+          "purpose": "Essentieel voor authentieke Tom Yum noedels smaak",
+          "substitutes": [
+            "Vers limoensap",
+            "Gedroogd limoensap",
+            "Limoensap pasta"
+          ]
+        },
+        {
+          "name": "唐辛子（チリ）",
+          "purpose": "Essentieel voor authentieke Tom Yum noedels smaak",
+          "substitutes": [
+            "Verse chili",
+            "Gedroogde chili",
+            "Chili pasta"
+          ]
+        }
+      ],
+      "cooking_method": {
+        "technique": "Techniek: smaken sudderen en laag voor laag opbouwen",
+        "steps_overview": "De bereiding van Tom Yum noedels vereist aandacht voor details en juiste timing. De sleutel is het balanceren van alle smaken terwijl de textuur van elk ingrediënt behouden blijft. De traditionele methode, doorgegeven over generaties, garandeert authentieke smaak.",
+        "cooking_tips": [
+          "Gebruik verse rijstnoedels voor het beste resultaat",
+          "Pittigheid aanpassen naar smaak",
+          "Niet te veel verhitten om textuur te behouden",
+          "Proeven en kruiden voor het serveren"
+        ]
+      },
+      "cultural_significance": {
+        "origin_story": "Tom Yum noedels zijn al generaties lang een hoofdgerecht in de Midden-Thaise keuken en weerspiegelen de unieke kooktradities en lokale ingrediënten van de regio.",
+        "cultural_importance": "Dit gerecht symboliseert het hart van de Midden-Thaise keuken, beroemd wereldwijd om balans en harmonie.",
+        "traditional_occasions": [
+          "Familiebijeenkomsten",
+          "Lokale festivals",
+          "Strandvoedselmarkten",
+          "Speciale vieringen"
+        ]
+      },
+      "variations": [
+        {
+          "name": "Tom Yum Noodles Classic（トムヤムヌードルクラシック）",
+          "description": "Traditionele versie geserveerd in lokale huizen"
+        },
+        {
+          "name": "Tom Yum Noodles Modern（トムヤムヌードル・モダン）",
+          "description": "Moderne versie met premium ingrediënten"
+        },
+        {
+          "name": "Vegetarian Tom Yum Noodles（ベジタリアン・トムヤムヌードル）",
+          "description": "Plantaardige versie met tofu of paddenstoelen"
+        }
+      ],
+      "serving_suggestions": {
+        "traditional_accompaniments": [
+          "Jasmijnrijst",
+          "Verse groenten",
+          "Thaise kruiden"
+        ],
+        "presentation": "Serveren in traditionele Thaise kommen",
+        "eating_etiquette": "Eten met vork en lepel volgens Thaise gewoonte"
+      },
+      "where_to_find": {
+        "best_restaurants": [
+          "Lokale Midden-Thaise restaurants",
+          "Authentieke straatstalletjes",
+          "Traditionele markten",
+          "Familiegerunde eettentjes"
+        ],
+        "street_food_areas": [
+          "Nachtmarkten",
+          "Ochtendverse markten",
+          "Lokale voedselhoven"
+        ],
+        "price_ranges": {
+          "street_vendor": "30-50 THB",
+          "market_stall": "40-60 THB",
+          "restaurant": "60-100 THB"
+        }
+      },
+      "translated_at": "2026-03-14T00:00:00.000Z"
+    }
+  }
+}

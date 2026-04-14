@@ -1,0 +1,937 @@
+{
+  "id": 3,
+  "slug": "tom-yum-goong",
+  "name": {
+    "en": "Tom Yum Goong",
+    "nl": "Tom Yum Goong",
+    "thai": "ต้มยำกุ้ง"
+  },
+  "category": "soep",
+  "region": "centraal",
+  "spice_level": "heet",
+  "description": {
+    "en": "Spicy and sour Thai soup with shrimp lemongrass and lime leaves",
+    "nl": "Pittige en zure Thaise soep met garnalen citroengras en limoenbladeren"
+  },
+  "ingredients": [
+    "garnalen",
+    "citroengras",
+    "limoenblaadjes",
+    "chili",
+    "limoensap",
+    "vis sauce",
+    "paddenstoelen"
+  ],
+  "allergens": [
+    "zeevruchten"
+  ],
+  "dietary": [],
+  "image": "/images/food/tom-yum-goong.webp",
+  "preparation_time": "20 minuten",
+  "difficulty": "medium",
+  "price_range": "middenklasse",
+  "seo": {
+    "metaTitle": {
+      "en": "Tom Yum Goong Recipe | Authentic Thai soup",
+      "nl": "Tom Yum Goong Recept | Authentieke Thaise soup"
+    },
+    "metaDescription": {
+      "en": "Learn about Tom Yum Goong (ต้มยำกุ้ง) - Spicy and sour Thai soup with shrimp lemongrass and lime leaves...",
+      "nl": "Leer over Tom Yum Goong (ต้มยำกุ้ง) - Pittige en zure Thaise soep met garnalen citroengras en limoenbladeren..."
+    }
+  },
+  "tags": [
+    "thais-eten",
+    "thailand",
+    "soep",
+    "centraal",
+    "heet",
+    "medium",
+    "middenklasse",
+    "garnalen",
+    "citroengras",
+    "limoenblaadjes"
+  ],
+  "cooking": {
+    "preparation_time": "20 minuten",
+    "difficulty": "medium",
+    "spice_level": "heet",
+    "serves": "2-4 personen"
+  },
+  "nutrition": {
+    "allergens": [
+      "zeevruchten"
+    ],
+    "dietary": [],
+    "price_range": "middenklasse"
+  },
+  "enhanced_description": "Tom Yum Goong is Thailand in een kom — een felle en geurige soep die de Thaise filosofie van gebalanceerde extremen belichaamt. Deze hete en zure garnalensoep is een meesterles in het opbouwen van smaken: de citrusachtige punch van citroengras, de bloemige tonen van laos, de hitte van pepers, allemaal zwemmend in een bouillon die tegelijkertijd troostend en verkwikkend is. Het is medicinaal, magisch en absoluut onmiskenbaar.",
+  "detailed_ingredients": [
+    {
+      "name": "Lemongrass",
+      "purpose": "Geeft het kenmerkende citrusaroma en antibacteriële eigenschappen",
+      "substitutes": [
+        "Citroenrasp (wordt niet hetzelfde)",
+        "Ingeblikte citroengras pasta"
+      ]
+    },
+    {
+      "name": "Galangal",
+      "purpose": "Voegt scherpe, peperige tonen toe die verschillen van gember",
+      "substitutes": [
+        "Verse gember (ander smaakprofiel)",
+        "Diepvries laos"
+      ]
+    },
+    {
+      "name": "Kaffir Lime Leaves",
+      "purpose": "Bijdraagt aan bloemige citrustonen en aromatische oliën",
+      "substitutes": [
+        "Limoenrasp",
+        "Laurierblaadjes met limoensap"
+      ]
+    },
+    {
+      "name": "Nam Prik Pao (Chili Oil)",
+      "purpose": "Voegt diepte, kleur en umami toe aan de heldere versie",
+      "substitutes": [
+        "Chili pasta",
+        "Sambal oelek met suiker"
+      ]
+    }
+  ],
+  "cooking_method": {
+    "technique": "Aromatische infusie en snel koken",
+    "steps_overview": "Tom Yum gaat om het opbouwen van smaaklagen. Aromaten worden gekneusd en getrokken, eiwitten snel gekookt, en afwerkingen toegevoegd buiten de hitte. De sleutel is om de kruiden niet te lang te koken, wat ze bitter zou maken.",
+    "cooking_tips": [
+      "Kneus citroengras en laos om oliën vrij te maken",
+      "Kook de kruiden nooit te lang — trek en verwijder",
+      "Voeg limoensap toe buiten de hitte om vitamine C te behouden",
+      "Gebruik garnalen met schil voor meer smaak",
+      "De bouillon moet je licht laten hoesten — dat is de perfecte hitte"
+    ]
+  },
+  "cultural_significance": {
+    "origin_story": "Oorsprong in Centraal-Thailand langs de Chao Phraya-rivier waar garnalen overvloedig waren. De soep ontwikkelde zich uit oude Thaise medicinale bouillons bedoeld om ziekte af te weren.",
+    "cultural_importance": "Tom Yum is de Thaise kippensoep — gegeten bij ziekte, verdriet of viering. Tijdens de Aziatische Financiële Crisis van 1997 werd 'Tom Yum Goong Crisis' de bijnaam, wat aantoont hoe diep het geworteld is in de Thaise cultuur.",
+    "traditional_occasions": [
+      "Middel tegen verkoudheid en griep",
+      "Katermiddel",
+      "Welkomgerecht voor gasten",
+      "Troostvoedsel tijdens het moessonseizoen"
+    ]
+  },
+  "variations": [
+    {
+      "name": "Tom Yum Nam Khon",
+      "description": "Romige versie met geëvaporeerde melk — moderne Bangkok-stijl"
+    },
+    {
+      "name": "Tom Yum Nam Sai",
+      "description": "Heldere bouillonversie — het origineel en keuze van puristen"
+    },
+    {
+      "name": "Tom Yum Talay",
+      "description": "Gemengde zeevruchtenversie — populair in kustgebieden"
+    }
+  ],
+  "serving_suggestions": {
+    "traditional_accompaniments": [
+      "Jasmijnrijst",
+      "Verse groenten"
+    ],
+    "presentation": "Geserveerd heet in traditionele Thaise stijl",
+    "eating_etiquette": "Genoten met vork en lepel"
+  },
+  "nutritional_info": {
+    "calories_per_serving": "Verschilt per bereiding",
+    "health_benefits": [
+      "Rijk aan Thaise kruiden en specerijen",
+      "Gebalanceerde smaken"
+    ],
+    "dietary_notes": [
+      "Bevat traditionele Thaise ingrediënten"
+    ]
+  },
+  "where_to_find": {
+    "best_restaurants": [
+      "Pe Aor (Bangkok) - Beroemd om tom yum noedels",
+      "Pee Aor (Bangkok) - Andere plek, even beroemd",
+      "Elk restaurant aan de rivier voor authentieke versies"
+    ],
+    "street_food_areas": [
+      "Chatuchak Weekend Market",
+      "Wang Lang Market bij Siriraj Hospital",
+      "Chinatown avondkraampjes"
+    ],
+    "price_ranges": {
+      "street_food": "60-100 THB (€1,65-€2,75)",
+      "restaurant": "150-300 THB (€4,15-€8,30)",
+      "upscale": "400-800 THB (€11-€22)"
+    }
+  },
+  "enhanced_at": "2025-05-25T21:51:23.818Z",
+  "translations": {
+    "nl": {
+      "enhanced_description": "Tom Yum Goong is Thailand in een kom — een felle en geurige soep die de Thaise filosofie van gebalanceerde extremen belichaamt. Deze hete en zure garnalensoep is een meesterles in het opbouwen van smaken: de citrusachtige punch van citroengras, de bloemige tonen van laos, de hitte van pepers, allemaal zwemmend in een bouillon die tegelijkertijd troostend en verkwikkend is. Het is medicinaal, magisch en absoluut onmiskenbaar.",
+      "detailed_ingredients": [
+        {
+          "name": "Citroengras",
+          "purpose": "Geeft het kenmerkende citrusaroma en heeft antibacteriële eigenschappen",
+          "substitutes": [
+            "Citroenrasp (wordt niet hetzelfde)",
+            "Citroengras pasta uit pot"
+          ]
+        },
+        {
+          "name": "Laos (galangal)",
+          "purpose": "Voegt scherpe, peperige tonen toe die anders zijn dan gember",
+          "substitutes": [
+            "Verse gember (ander smaakprofiel)",
+            "Bevroren laos"
+          ]
+        },
+        {
+          "name": "Kaffir limoenbladeren",
+          "purpose": "Draagt bloemige citrustonen en aromatische oliën bij",
+          "substitutes": [
+            "Limoenrasp",
+            "Laurierbladeren met limoensap"
+          ]
+        },
+        {
+          "name": "Nam Prik Pao (chiliolie)",
+          "purpose": "Voegt diepte, kleur en umami toe aan de heldere versie",
+          "substitutes": [
+            "Chilipasta",
+            "Sambal oelek met suiker"
+          ]
+        }
+      ],
+      "cooking_method": {
+        "technique": "Aromatische infusie en snel koken",
+        "steps_overview": "Tom Yum draait om het opbouwen van smaaklagen. Aromatische ingrediënten worden gekneusd en getrokken, eiwitten snel gegaard en de finishing touch wordt buiten het vuur toegevoegd. De sleutel is de kruiden niet te lang te koken, want dat maakt ze bitter.",
+        "cooking_tips": [
+          "Kneus citroengras en laos om oliën vrij te maken",
+          "Kook de kruiden nooit te lang — laat trekken en verwijder ze",
+          "Voeg limoensap toe buiten het vuur om vitamine C te behouden",
+          "Gebruik garnalen met schaal voor meer smaak",
+          "De bouillon moet je net een beetje laten hoesten — dat is de perfecte hitte"
+        ]
+      },
+      "cultural_significance": {
+        "origin_story": "Ontstaan in Centraal-Thailand langs de Chao Phraya-rivier waar garnalen in overvloed aanwezig waren. De soep evolueerde uit oude Thaise medicinale bouillons die bedoeld waren om ziekte af te weren.",
+        "cultural_importance": "Tom Yum is Thailands kippensoep — gegeten als je ziek, verdrietig of aan het vieren bent. Tijdens de Aziatische financiële crisis van 1997 werd 'Tom Yum Goong Crisis' de bijnaam, wat laat zien hoe diep verankerd het is in de Thaise cultuur.",
+        "traditional_occasions": [
+          "Middel tegen verkoudheid en griep",
+          "Katerkuur",
+          "Verwelkomingsgerecht voor gasten",
+          "Comfortfood tijdens het moessonseizoen"
+        ]
+      },
+      "variations": [
+        {
+          "name": "Tom Yum Nam Khon",
+          "description": "Romige versie met gecondenseerde melk — moderne Bangkok-stijl"
+        },
+        {
+          "name": "Tom Yum Nam Sai",
+          "description": "Heldere bouillonversie — het origineel en de keuze van de purist"
+        },
+        {
+          "name": "Tom Yum Talay",
+          "description": "Gemengde zeevruchtversie — populair in kustgebieden"
+        }
+      ],
+      "serving_suggestions": {
+        "traditional_accompaniments": [
+          "Jasmijnrijst",
+          "Verse groenten"
+        ],
+        "presentation": "Warm geserveerd in traditionele Thaise stijl",
+        "eating_etiquette": "Gegeten met vork en lepel"
+      },
+      "where_to_find": {
+        "best_restaurants": [
+          "Pe Aor (Bangkok) — Beroemd om tom yum noedels",
+          "Pee Aor (Bangkok) — Andere plek, even beroemd",
+          "Elk rivierrestaurant voor authentieke versies"
+        ],
+        "street_food_areas": [
+          "Chatuchak Weekend Market",
+          "Wang Lang Market bij Siriraj Hospital",
+          "Chinatown avondkramen"
+        ]
+      },
+      "translated_at": "2026-03-10T00:00:00.000Z"
+    },
+    "fr": {
+      "enhanced_description": "Tom Yum Goong is Thailand in een kom — een felle en geurige soep die de Thaise filosofie van gebalanceerde extremen belichaamt. Deze hete en zure garnalensoep is een meesterles in het opbouwen van smaken: de citrusachtige punch van citroengras, de bloemige tonen van galanga, de hitte van chili's, allemaal zwemmend in een bouillon die tegelijkertijd troostend en verkwikkend is. Het is medicinaal, magisch en absoluut onmiskenbaar.",
+      "detailed_ingredients": [
+        {
+          "name": "Citronnelle",
+          "purpose": "Biedt het kenmerkende citrusaroma en antibacteriële eigenschappen",
+          "substitutes": [
+            "Citroenrasp (zal niet hetzelfde zijn)",
+            "Citroengras pasta in pot"
+          ]
+        },
+        {
+          "name": "Galanga",
+          "purpose": "Voegt scherpe, peperige tonen toe die verschillen van gember",
+          "substitutes": [
+            "Verse gember (verschillend smaakprofiel)",
+            "Diepvries galanga"
+          ]
+        },
+        {
+          "name": "Feuilles de combava",
+          "purpose": "Bijdraagt aan bloemige citrusnoten en aromatische oliën",
+          "substitutes": [
+            "Limoenrasp",
+            "Laurierblaadjes met limoensap"
+          ]
+        },
+        {
+          "name": "Nam Prik Pao (huile de piment)",
+          "purpose": "Voegt diepte, kleur en umami toe aan de heldere versie",
+          "substitutes": [
+            "Chili pasta",
+            "Sambal oelek met suiker"
+          ]
+        }
+      ],
+      "cooking_method": {
+        "technique": "Aromatische infusie en snelle bereiding",
+        "steps_overview": "Tom Yum gaat om het opbouwen van lagen van smaak. Aromaten worden gekneusd en getrokken, proteïnen snel gekookt en afwerkingen toegevoegd buiten de hitte. Het belangrijkste is om de kruiden niet te lang te koken, wat ze bitter zou maken.",
+        "cooking_tips": [
+          "Kneus citroengras en galanga om de oliën vrij te maken",
+          "Kook de kruiden nooit te lang — trek en verwijder",
+          "Voeg limoensap toe buiten de hitte om vitamine C te behouden",
+          "Gebruik garnalen met schaal voor meer smaak",
+          "De bouillon zou je licht moeten laten hoesten — dat is de perfecte pittigheid"
+        ]
+      },
+      "cultural_significance": {
+        "origin_story": "Oorsprong in het centrum van Thailand langs de Chao Phraya-rivier waar garnalen overvloedig waren. De soep ontwikkelde zich uit oude Thaise medicinale bouillons ontworpen om ziekte af te weren.",
+        "cultural_importance": "Tom Yum is de kippensoep van Thailand — geconsumeerd als je ziek, verdrietig of feestend bent. Tijdens de Aziatische financiële crisis van 1997 werd de 'Tom Yum Goong Crisis' de bijnaam, wat laat zien hoe diep dit gerecht verankerd is in de Thaise cultuur.",
+        "traditional_occasions": [
+          "Middel tegen verkoudheid en griep",
+          "Katermiddel",
+          "Welkomgerecht voor gasten",
+          "Troostgerecht tijdens het moessonseizoen"
+        ]
+      },
+      "variations": [
+        {
+          "name": "Tom Yum Nam Khon",
+          "description": "Romige versie met gecondenseerde melk — moderne stijl van Bangkok"
+        },
+        {
+          "name": "Tom Yum Nam Sai",
+          "description": "Versie met heldere bouillon — het origineel en keuze van puristen"
+        },
+        {
+          "name": "Tom Yum Talay",
+          "description": "Versie met gemengde zeevruchten — populair in kustgebieden"
+        }
+      ],
+      "serving_suggestions": {
+        "traditional_accompaniments": [
+          "Jasmijnrijst",
+          "Verse groenten"
+        ],
+        "presentation": "Geserveerd warm in de traditionele Thaise stijl",
+        "eating_etiquette": "Genoten met vork en lepel"
+      },
+      "where_to_find": {
+        "best_restaurants": [
+          "Pe Aor (Bangkok) — Beroemd om tom yum noedels",
+          "Pee Aor (Bangkok) — Andere zaak, even beroemd",
+          "Elk restaurant aan de rivier voor authentieke versies"
+        ],
+        "street_food_areas": [
+          "Chatuchak Weekend Market",
+          "Wang Lang Market bij Siriraj Hospital",
+          "Avondstands in Chinatown"
+        ]
+      },
+      "translated_at": "2026-03-10T00:00:00.000Z"
+    },
+    "de": {
+      "enhanced_description": "Tom Yum Goong is Thailand in één kom — een wilde en geurende soep die de Thaise filosofie van gebalanceerde extremen belichaamt. Deze pittige en zure garnalensoep is een meesterklas in het opbouwen van aroma's: de citruspunch van citroengras, de bloemige tonen van galanga, de scherpte van chilipepers — alles drijft in een bouillon die tegelijk troostend en verkwikkend is. Het is helend, magisch en absoluut uniek.",
+      "detailed_ingredients": [
+        {
+          "name": "Zitronengras",
+          "purpose": "Geeft het kenmerkende citrusaroma en heeft antibacteriële eigenschappen",
+          "substitutes": [
+            "Citroenschil (het zal niet hetzelfde smaken)",
+            "Citroengraspasta uit een potje"
+          ]
+        },
+        {
+          "name": "Galgant",
+          "purpose": "Voegt scherpe, peperachtige tonen toe die verschillen van gember",
+          "substitutes": [
+            "Verse gember (ander smaakprofiel)",
+            "Diepvries galanga"
+          ]
+        },
+        {
+          "name": "Kaffir-Limettenblätter",
+          "purpose": "Brengt bloemige citrusnoten en etherische oliën",
+          "substitutes": [
+            "Limeschil",
+            "Laurierblaadjes met limoensap"
+          ]
+        },
+        {
+          "name": "Nam Prik Pao (Chiliöl)",
+          "purpose": "Geeft diepte, kleur en umami aan de heldere versie",
+          "substitutes": [
+            "Chilipasta",
+            "Sambal oelek met suiker"
+          ]
+        }
+      ],
+      "cooking_method": {
+        "technique": "Aromatische infusie en snel koken",
+        "steps_overview": "Bij Tom Yum draait het om het opbouwen van smaaklagen. Aromatische ingrediënten worden gekneusd en opgegoten, eiwitten snel gekookt en de laatste touch off the heat toegevoegd. De sleutel is om de kruiden niet te lang te koken — dat zou ze bitter maken.",
+        "cooking_tips": [
+          "Citroengras en galanga knarsen om de oliën vrij te maken",
+          "Kook de kruiden nooit te lang — laat trekken en verwijder",
+          "Voeg limoensap toe buiten de hitte om vitamine C te behouden",
+          "Gebruik garnalen met schil voor meer smaak",
+          "De bouillon moet je licht hoesten laten — dat is de perfecte pittigheid"
+        ]
+      },
+      "cultural_significance": {
+        "origin_story": "Ontstaan in Centraal-Thailand langs de Chao Phraya-rivier, waar garnalen in overvloed waren. De soep ontwikkelde zich uit oude Thaise geneeskrachtige bouillons die ziektes moesten afweren.",
+        "cultural_importance": "Tom Yum is Thailands kippensoep — gegeten bij ziekte, verdriet of om te vieren. Tijdens de Aziatische financiële crisis van 1997 werd de 'Tom Yum Goong-crisis' een bijnaam, wat laat zien hoe diep dit gerecht geworteld is in de Thaise cultuur.",
+        "traditional_occasions": [
+          "Huisremedie tegen verkoudheid en griep",
+          "Katermiddel",
+          "Welkomgerecht voor gasten",
+          "Troosteten in het regenseizoen"
+        ]
+      },
+      "variations": [
+        {
+          "name": "Tom Yum Nam Khon",
+          "description": "Romige versie met gecondenseerde melk — moderne Bangkok-stijl"
+        },
+        {
+          "name": "Tom Yum Nam Sai",
+          "description": "Heldere bouillonversie — het origineel en de keuze van puristen"
+        },
+        {
+          "name": "Tom Yum Talay",
+          "description": "Gemengde zeevruchtenversie — populair in kustgebieden"
+        }
+      ],
+      "serving_suggestions": {
+        "traditional_accompaniments": [
+          "Jasmijnrijst",
+          "Verse groenten"
+        ],
+        "presentation": "Heet geserveerd in traditionele Thaise stijl",
+        "eating_etiquette": "Genieten met vork en lepel"
+      },
+      "where_to_find": {
+        "best_restaurants": [
+          "Pe Aor (Bangkok) — Beroemd om Tom Yum-noedels",
+          "Pee Aor (Bangkok) — Ander lokaal, even beroemd",
+          "Elk rivierrestaurant voor authentieke versies"
+        ],
+        "street_food_areas": [
+          "Chatuchak Weekend Market",
+          "Wang Lang Market bij Siriraj Hospital",
+          "Chinatown avondstands"
+        ]
+      },
+      "translated_at": "2026-03-10T00:00:00.000Z"
+    },
+    "zh": {
+      "enhanced_description": "Tom Yum Goong is Thailand in één kom — een wilde en geurende soep die de Thaise filosofie van gebalanceerde extremen belichaamt. Deze pittige en zure garnalensoep is een meesterklas in het opbouwen van aroma's: de citruspunch van citroengras, de bloemige tonen van galanga, de scherpte van chilipepers — alles drijft in een bouillon die tegelijk troostend en verkwikkend is. Het is helend, magisch en absoluut uniek.",
+      "detailed_ingredients": [
+        {
+          "name": "香茅",
+          "purpose": "Geeft het kenmerkende citrusaroma en heeft antibacteriële eigenschappen",
+          "substitutes": [
+            "Citroenschil (het zal niet hetzelfde smaken)",
+            "Gepasteuriseerde citroengraspasta"
+          ]
+        },
+        {
+          "name": "南姜",
+          "purpose": "Voegt scherpe, peperachtige tonen toe die verschillen van gember",
+          "substitutes": [
+            "Verse gember (ander smaakprofiel)",
+            "Diepvries galanga"
+          ]
+        },
+        {
+          "name": "青柠叶",
+          "purpose": "Brengt bloemige citrusnoten en etherische oliën",
+          "substitutes": [
+            "Limeschilvlokken",
+            "Laurierblaadjes met limoensap"
+          ]
+        },
+        {
+          "name": "Nam Prik Pao（辣椒油）",
+          "purpose": "Geeft diepte, kleur en umami aan de heldere versie",
+          "substitutes": [
+            "Chili-pasta",
+            "Sambal oelek met suiker"
+          ]
+        }
+      ],
+      "cooking_method": {
+        "technique": "Aromatische infusie en snel koken",
+        "steps_overview": "De sleutel van Tom Yum is het opbouwen van smaaklagen. Aromaten worden gekneusd en geweekt, eiwitten snel gekookt, en de laatste smaakstoffen buiten de hitte toegevoegd. Belangrijk: kook de kruiden niet te lang, anders worden ze bitter.",
+        "cooking_tips": [
+          "Knars citroengras en galanga om de oliën vrij te maken",
+          "Kook de kruiden nooit te lang — laat trekken en verwijder",
+          "Voeg limoensap toe buiten de hitte om vitamine C te behouden",
+          "Gebruik garnalen met schil voor meer smaak",
+          "De bouillon moet je licht hoesten laten — dat is de perfecte pittigheid"
+        ]
+      },
+      "cultural_significance": {
+        "origin_story": "Ontstaan in Centraal-Thailand langs de Chao Phraya-rivier, waar garnalen in overvloed waren. De soep ontwikkelde zich uit oude Thaise geneeskrachtige bouillons die ziektes moesten afweren.",
+        "cultural_importance": "Tom Yum is Thailands kippensoep — gegeten bij ziekte, verdriet of om te vieren. Tijdens de Aziatische financiële crisis van 1997 werd de 'Tom Yum Goong-crisis' een bijnaam, wat laat zien hoe diep dit gerecht geworteld is in de Thaise cultuur.",
+        "traditional_occasions": [
+          "Remedie tegen verkoudheid en griep",
+          "Katermiddel",
+          "Welkomgerecht voor gasten",
+          "Troosteten in het regenseizoen"
+        ]
+      },
+      "variations": [
+        {
+          "name": "Tom Yum Nam Khon",
+          "description": "Romige versie met gecondenseerde melk — moderne Bangkok-stijl"
+        },
+        {
+          "name": "Tom Yum Nam Sai",
+          "description": "Heldere bouillonversie — het origineel en de keuze van puristen"
+        },
+        {
+          "name": "Tom Yum Talay",
+          "description": "Gemengde zeevruchtenversie — populair in kustgebieden"
+        }
+      ],
+      "serving_suggestions": {
+        "traditional_accompaniments": [
+          "Jasmijnrijst",
+          "Verse groenten"
+        ],
+        "presentation": "Heet geserveerd in traditionele Thaise stijl",
+        "eating_etiquette": "Genieten met vork en lepel"
+      },
+      "where_to_find": {
+        "best_restaurants": [
+          "Pe Aor (Bangkok) — Beroemd om Tom Yum-noedels",
+          "Pee Aor (Bangkok) — Ander lokaal, even beroemd",
+          "Elk rivierrestaurant voor authentieke versies"
+        ],
+        "street_food_areas": [
+          "Chatuchak Weekend Market",
+          "Wang Lang Market (bij Siriraj Hospital)",
+          "Chinatown avondstands"
+        ]
+      },
+      "translated_at": "2026-03-11T00:00:00.000Z"
+    },
+    "ru": {
+      "enhanced_description": "Tom Yum Goong is Thailand in één kom: een wilde en geurende soep die de Thaise filosofie van gebalanceerde extremen belichaamt. Deze pittige en zure garnalensoep is een meesterklas in het opbouwen van smaken: de citruspunch van citroengras, de bloemige tonen van galanga, de hitte van chili — alles drijft in een bouillon die tegelijk verwarmt en verkwikt. Het is helend, magisch en absoluut uniek.",
+      "detailed_ingredients": [
+        {
+          "name": "Лемонграсс",
+          "purpose": "Geeft het kenmerkende citrusaroma en heeft antibacteriële eigenschappen",
+          "substitutes": [
+            "Citroenschil (de smaak zal anders zijn)",
+            "Citroengraspasta"
+          ]
+        },
+        {
+          "name": "Галангал",
+          "purpose": "Voegt scherpe, peperachtige tonen toe die verschillen van gember",
+          "substitutes": [
+            "Verse gember (ander smaakprofiel)",
+            "Diepvries galanga"
+          ]
+        },
+        {
+          "name": "Листья каффир-лайма",
+          "purpose": "Brengt bloemige citrusnoten en aromatische oliën",
+          "substitutes": [
+            "Limeschil",
+            "Laurierblad met limoensap"
+          ]
+        },
+        {
+          "name": "Nam Prik Pao (чили-масло)",
+          "purpose": "Geeft diepte, kleur en umami aan de heldere versie",
+          "substitutes": [
+            "Chilipasta",
+            "Sambal oelek met suiker"
+          ]
+        }
+      ],
+      "cooking_method": {
+        "technique": "Aromatische infusie en snel koken",
+        "steps_overview": "Tom Yum is de kunst van het opbouwen van smaken. Aromatische ingrediënten worden gekneusd en geweekt, eiwitten snel gekookt, en de laatste accenten buiten het vuur toegevoegd. Het belangrijkste: kook de kruiden niet te lang, anders worden ze bitter.",
+        "cooking_tips": [
+          "Knars citroengras en galanga om de oliën vrij te maken",
+          "Kook de kruiden nooit te lang — laat trekken en verwijder",
+          "Voeg limoensap toe buiten het vuur om vitamine C te behouden",
+          "Gebruik garnalen met schil voor intensere smaak",
+          "De bouillon moet je licht hoesten laten — dat is de ideale pittigheid"
+        ]
+      },
+      "cultural_significance": {
+        "origin_story": "Ontstaan in Centraal-Thailand langs de Chao Phraya-rivier, waar garnalen in overvloed waren. De soep komt uit oude Thaise geneeskrachtige bouillons bedoeld om ziektes af te weren.",
+        "cultural_importance": "Tom Yum is de Thaise kippensoep: gegeten bij ziekte, verdriet of viering. Tijdens de Aziatische financiële crisis van 1997 kreeg het de bijnaam 'Tom Yum Goong-crisis', wat de diepe wortels in de Thaise cultuur toont.",
+        "traditional_occasions": [
+          "Middel tegen verkoudheid en griep",
+          "Remedie tegen kater",
+          "Gerecht om gasten te verwelkomen",
+          "Verwarmend eten in het moessonseizoen"
+        ]
+      },
+      "variations": [
+        {
+          "name": "Tom Yum Nam Khon",
+          "description": "Romige versie met gecondenseerde melk — moderne Bangkok-stijl"
+        },
+        {
+          "name": "Tom Yum Nam Sai",
+          "description": "Versie met heldere bouillon — het origineel en keuze van puristen"
+        },
+        {
+          "name": "Tom Yum Talay",
+          "description": "Versie met gemengde zeevruchten — populair in kustgebieden"
+        }
+      ],
+      "serving_suggestions": {
+        "traditional_accompaniments": [
+          "Jasmijnrijst",
+          "Verse groenten"
+        ],
+        "presentation": "Heet geserveerd in traditionele Thaise stijl",
+        "eating_etiquette": "Eten met vork en lepel"
+      },
+      "where_to_find": {
+        "best_restaurants": [
+          "Pe Aor (Bangkok) — beroemd om Tom Yum-noedels",
+          "Pee Aor (Bangkok) — ander etablissement, even beroemd",
+          "Elk restaurant aan de rivier voor authentieke versies"
+        ],
+        "street_food_areas": [
+          "Chatuchak Weekend Market",
+          "Wang Lang Market bij Siriraj Hospital",
+          "Avondkraampjes in Chinatown"
+        ]
+      },
+      "translated_at": "2026-03-11T00:00:00.000Z"
+    },
+    "ko": {
+      "enhanced_description": "Tom Yum Goong is Thailand in één kom — een intense en geurende soep die de Thaise filosofie van gebalanceerde extremen belichaamt. Deze pittig-zure garnalensoep is een meesterklas in het opstapelen van smaken: de citruspunch van citroengras, de bloemige aroma van galanga, de vurige hitte van pepers — alles zwemt in een bouillon die troost en energie geeft. Het is medicijn, magie en absoluut uniek.",
+      "detailed_ingredients": [
+        {
+          "name": "레몬그라스 (따크라이)",
+          "purpose": "De kernkruid die het kenmerkende citrusaroma en antibacteriële werking van Tom Yum geeft",
+          "substitutes": [
+            " Citroenschil (het smaakt niet hetzelfde)",
+            "Citroengraspasta"
+          ]
+        },
+        {
+          "name": "갈랑갈 (카)",
+          "purpose": "Wortelkruid dat scherpe, peperachtige tonen toevoegt, anders dan gember",
+          "substitutes": [
+            "Gember (andere smaak)",
+            "Diepvries galanga"
+          ]
+        },
+        {
+          "name": "카피르 라임잎 (바이마크룻)",
+          "purpose": "Kruiden die bloemige citrusnoten en etherische oliën geven",
+          "substitutes": [
+            "Limeschil",
+            "Laurierblad + limoensap"
+          ]
+        },
+        {
+          "name": "남프릭파오 (고추기름)",
+          "purpose": "Krent die diepte, kleur en umami toevoegt aan de heldere bouillon",
+          "substitutes": [
+            "Chili-pasta",
+            "Sambal oelek + suiker"
+          ]
+        }
+      ],
+      "cooking_method": {
+        "technique": "Aroma-extractie en snel koken",
+        "steps_overview": "Het kern van Tom Yum is het opbouwen van smaaklagen. Kruiden worden gekneusd om aroma te extraheren, eiwitten snel gekookt, en laatste kruiden na het vuur toegevoegd. Wees voorzichtig: te lang koken maakt kruiden bitter.",
+        "cooking_tips": [
+          "Knars citroengras en galanga om de oliën vrij te maken",
+          "Kook kruiden niet te lang — laat trekken en verwijder",
+          "Voeg limoensap toe na het vuur om vitamine C te behouden",
+          "Gebruik garnalen met schil voor diepere bouillon smaak",
+          "De bouillon moet een lichte hoest opwekken — dat is perfecte pittigheid"
+        ]
+      },
+      "cultural_significance": {
+        "origin_story": "Oorsprong in Centraal-Thailand langs de Chao Phraya-rivier, waar garnalen overvloedig waren. Ontwikkeld uit oude Thaise medicinale bouillons om ziektes te verdrijven, met eeuwen geschiedenis.",
+        "cultural_importance": "Tom Yum is Thailands 'kippenbouillon' — eten bij ziekte, verdriet of feest. Tijdens de Aziatische financiële crisis van 1997 kreeg het de bijnaam 'Tom Yum Goong-crisis', zo diep geworteld in Thaise cultuur. In 2023 erkend als UNESCO immaterieel cultureel erfgoed.",
+        "traditional_occasions": [
+          "Behandeling voor verkoudheid en griep",
+          "Katerverlichting",
+          "Welkomgerecht voor gasten",
+          "Voedingsrijk eten in het moessonseizoen"
+        ]
+      },
+      "variations": [
+        {
+          "name": "똠얌 남콘 (크리미 버전)",
+          "description": "Moderne Bangkok-stijl met gecondenseerde melk voor een romige, troebele versie — de meest populaire variant."
+        },
+        {
+          "name": "똠얌 남사이 (맑은 국물)",
+          "description": "Heldere bouillon originele stijl — keuze van puristen, met scherpere kruidensmaak."
+        },
+        {
+          "name": "똠얌 탈레 (해물 모듬)",
+          "description": "Versie met garnalen plus inktvis, mosselen, vis etc. — populair aan de kust."
+        }
+      ],
+      "serving_suggestions": {
+        "traditional_accompaniments": [
+          "Jasmijnrijst",
+          "Verse groenten",
+          "Vissaus (voor extra zout)",
+          "Chili (om de pittigheid te regelen)"
+        ],
+        "presentation": "Serveren heet in een steenpot of diepe kom",
+        "eating_etiquette": "Schep de bouillon met een lepel op en eet het met rijst. Citroengras, galanga en limoenblaadjes zijn geurige ingrediënten, dus eet ze niet maar zet ze apart."
+      },
+      "where_to_find": {
+        "best_restaurants": [
+          "Pee Aor (Bangkok) — Beroemd om tom yum-noedels, Michelin Bib Gourmand",
+          "Pee Aor (Bangkok) — Andere zaak, maar even beroemd",
+          "Elk riverside restaurant langs de Chao Phraya-rivier"
+        ],
+        "street_food_areas": [
+          "Chatuchak Weekendmarkt",
+          "Wang Lang Markt (bij Siriraj Ziekenhuis)",
+          "Chinatown (Yaowarat) avondkraampjes"
+        ],
+        "price_ranges": {
+          "street_food": "60-100 THB",
+          "restaurant": "150-300 THB",
+          "upscale": "400-800 THB"
+        }
+      },
+      "translated_at": "2026-03-14T00:00:00.000Z"
+    },
+    "th": {
+      "enhanced_description": "ต้มยำกุ้ง is de beroemdste Thaise soep ter wereld. De pittig-zure bouillon van citroengras, kaffirlimeblaadjes, limoensap en grote verse garnalen heeft een intense, hartverwarmende smaak. Het is geregistreerd als immaterieel cultureel erfgoed door UNESCO.",
+      "detailed_ingredients": [
+        {
+          "name": "Lemongrass",
+          "purpose": "Biedt de kenmerkende citrusgeur en antibacteriële eigenschappen",
+          "substitutes": [
+            "Citroenschil (zal niet hetzelfde smaken)",
+            "Geconserveerde citroengras pasta"
+          ]
+        },
+        {
+          "name": "Galangal",
+          "purpose": "Voegt scherpe, peperachtige tonen toe die verschillen van gember",
+          "substitutes": [
+            "Verse gember (ander smaakprofiel)",
+            "Bevroren galanga"
+          ]
+        },
+        {
+          "name": "Kaffir Lime Leaves",
+          "purpose": "Bijdraagt bloemige citrusnoten en aromatische oliën",
+          "substitutes": [
+            "Limeschil",
+            "Lauwerblaadjes met limoensap"
+          ]
+        },
+        {
+          "name": "Nam Prik Pao (Chili Oil)",
+          "purpose": "Voegt diepte, kleur en umami toe aan de heldere versie",
+          "substitutes": [
+            "Chili pasta",
+            "Sambal oelek met suiker"
+          ]
+        }
+      ],
+      "cooking_method": {
+        "technique": "Aromatische infusie en snelle bereiding",
+        "steps_overview": "Tom yum draait om het opbouwen van smaaklagen. Aromaten worden gekneusd en getrokken, eiwitten snel gekookt en afwerking toegevoegd buiten het vuur. De truc is de kruiden niet te lang te koken, anders worden ze bitter.",
+        "cooking_tips": [
+          "Kneus citroengras en galanga om de oliën vrij te maken",
+          "Kook de kruiden nooit te lang — trek en verwijder ze",
+          "Voeg limoensap toe buiten het vuur om vitamine C te behouden",
+          "Gebruik garnalen met schil voor meer smaak",
+          "De bouillon moet je licht laten hoesten — dat is de perfecte pittigheid"
+        ]
+      },
+      "cultural_significance": {
+        "origin_story": "ต้มยำกุ้ง is een oude Thaise soep die al eeuwen wordt doorgegeven. Geregistreerd als immaterieel cultureel erfgoed door UNESCO, weerspiegelt het de wijsheid van het Thaise gebruik van kruiden.",
+        "cultural_importance": "ต้มยำกุ้ง is een symbool van de Thaise keuken op het wereldtoneel en weerspiegelt de filosofie van vers kruiden als zowel medicijn als voedsel.",
+        "traditional_occasions": [
+          "Middel tegen verkoudheid en griep",
+          "Katerremedie",
+          "Welkomstdish voor gasten",
+          "Troostvoedsel tijdens het moessonseizoen"
+        ]
+      },
+      "variations": [
+        {
+          "name": "Tom Yum Nam Khon",
+          "description": "Romige versie met gecondenseerde melk — moderne Bangkok-stijl"
+        },
+        {
+          "name": "Tom Yum Nam Sai",
+          "description": "Heldere bouillonversie — de originele keuze voor puristen"
+        },
+        {
+          "name": "Tom Yum Talay",
+          "description": "Gemengde zeevruchtenversie — populair in kustgebieden"
+        }
+      ],
+      "serving_suggestions": {
+        "traditional_accompaniments": [
+          "Jasmijnrijst",
+          "Verse groenten"
+        ],
+        "presentation": "Serveren heet in traditionele Thaise stijl",
+        "eating_etiquette": "Eten met lepel en vork"
+      },
+      "where_to_find": {
+        "best_restaurants": [
+          "Pe Aor (Bangkok) — Beroemd om tom yum-noedels",
+          "Pee Aor (Bangkok) — Andere plek, even beroemd",
+          "Elk riverside restaurant voor authentieke versies"
+        ],
+        "street_food_areas": [
+          "Chatuchak Weekendmarkt",
+          "Wang Lang Markt bij Siriraj Ziekenhuis",
+          "Chinatown avondkraampjes"
+        ],
+        "price_ranges": {
+          "street_food": "60-100 THB (€1,65-€2,75)",
+          "restaurant": "150-300 THB (€4,15-€8,30)",
+          "upscale": "400-800 THB (€11-€22)"
+        }
+      },
+      "translated_at": "2026-03-14T00:00:00.000Z"
+    },
+    "ja": {
+      "enhanced_description": "Tom yum kung is Thailand in een kom — een krachtige, geurige soep die de filosofie belichaamt van het balanceren van Thaise extremen. De pittig-zure garnalensoep is een meesterstuk van gelaagde smaken. De citruskick van citroengras, de bloemige geur van galanga en de hitte van chili zwemmen in een verkwikkende, tegelijkertijd comfortabele en vitaliserende bouillon. Medicinale, magisch en onmiskenbaar uniek.",
+      "detailed_ingredients": [
+        {
+          "name": "レモングラス（Lemongrass）",
+          "purpose": "Biedt kenmerkende citrusgeur en antibacteriële eigenschappen",
+          "substitutes": [
+            "Citroenschil (geeft niet dezelfde geur)",
+            "Geconserveerde citroengras pasta"
+          ]
+        },
+        {
+          "name": "ガランガル",
+          "purpose": "Voegt scherpe, pittige tonen toe die verschillen van gember",
+          "substitutes": [
+            "Verse gember (ander smaakprofiel)",
+            "Bevroren galanga"
+          ]
+        },
+        {
+          "name": "カフィアライムリーフ（Kaffir Lime Leaves）",
+          "purpose": "Voegt bloemige citrusnoten en aromatische oliën toe",
+          "substitutes": [
+            "Limeschil",
+            "Lauwerblaadjes met limoensap"
+          ]
+        },
+        {
+          "name": "Nam Prik Pao（Nam Prik Pao／ナムプリックパオ）",
+          "purpose": "Voegt diepte, kleur en umami toe aan de heldere versie",
+          "substitutes": [
+            "Chili pasta",
+            "Sambal oelek met suiker"
+          ]
+        }
+      ],
+      "cooking_method": {
+        "technique": "Aromatische infusie en korte kooktijd",
+        "steps_overview": "Bij tom yum kung is het opbouwen van smaaklagen essentieel. Kneus de aromaten en laat ze trekken, kook eiwitten snel en voeg afwerking toe na het vuur. Vermijd te lang koken van kruiden om bitterheid te voorkomen.",
+        "cooking_tips": [
+          "Kneus citroengras en galanga licht om de oliën te extraheren",
+          "Kook kruiden niet te lang — laat trekken en verwijder",
+          "Voeg limoensap toe na het vuur om vitamine C te behouden",
+          "Gebruik garnalen met schil voor meer smaak",
+          "De bouillon moet licht hoestend maken — dat is ideaal pittig"
+        ]
+      },
+      "cultural_significance": {
+        "origin_story": "Oorsprong in het centrale Thailand langs de Chao Phraya, waar garnalen overvloedig waren. Afstammeling van oude Thaise medicinale soepen, gemaakt om ziekten te voorkomen.",
+        "cultural_importance": "Tom yum is de Thaise versie van kippensoep: gegeten bij verkoudheid, verdriet, vieringen en meer. Tijdens de Aziatische financiële crisis van 1997 werd het de 'Tom Yum Kung-crisis' genoemd, wat de diepe verankering in de Thaise cultuur toont.",
+        "traditional_occasions": [
+          "Als medicijn bij verkoudheid en griep",
+          "Tegen kater",
+          "Gastvrijheidsgerecht om gasten te verwelkomen",
+          "Troostmaaltijd tijdens het regenseizoen"
+        ]
+      },
+      "variations": [
+        {
+          "name": "Tom Yum Nam Khon（トムヤム・ナムコン）",
+          "description": "Romige versie met gecondenseerde melk — moderne Bangkok-stijl"
+        },
+        {
+          "name": "Tom Yum Nam Sai（トムヤム・ナムサイ）",
+          "description": "Heldere soepversie — origineel en keuze voor puristen"
+        },
+        {
+          "name": "Tom Yum Talay（トムヤム・タレイ）",
+          "description": "Gemengde zeevruchtenversie — populair aan de kust"
+        }
+      ],
+      "serving_suggestions": {
+        "traditional_accompaniments": [
+          "Jasmijnrijst",
+          "Verse groenten"
+        ],
+        "presentation": "Serveren heet in traditionele Thaise stijl",
+        "eating_etiquette": "Eten met vork en lepel"
+      },
+      "where_to_find": {
+        "best_restaurants": [
+          "Pe Aor (Bangkok) — Beroemd om tom yum-noedels",
+          "Pee Aor (Bangkok) — Andere zaak, maar even beroemd",
+          "Elk riverside restaurant voor authentieke versies"
+        ],
+        "street_food_areas": [
+          "Chatuchak Weekendmarkt",
+          "Wang Lang Markt bij Siriraj Ziekenhuis",
+          "Chinatown avondkraampjes"
+        ],
+        "price_ranges": {
+          "street_food": "Straatvoedsel: 60-100 THB (€1,65-€2,75)",
+          "restaurant": "Restaurant: 150-300 THB (€4,15-€8,30)",
+          "upscale": "Luxe zaak: 400-800 THB (€11-€22)"
+        }
+      },
+      "translated_at": "2026-03-14T00:00:00.000Z"
+    }
+  }
+}

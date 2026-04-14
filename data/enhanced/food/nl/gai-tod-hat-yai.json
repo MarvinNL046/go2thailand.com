@@ -1,0 +1,973 @@
+{
+  "id": 31,
+  "slug": "gai-tod-hat-yai",
+  "name": {
+    "en": "Gai Tod Hat Yai",
+    "nl": "Gai Tod Hat Yai",
+    "thai": "ไก่ทอดหาดใหญ่"
+  },
+  "category": "hoofdgerecht",
+  "region": "zuidelijk",
+  "spice_level": "mild",
+  "description": {
+    "en": "Hat Yai style fried chicken with crispy shallots",
+    "nl": "Hat Yai stijl gefrituurde kip met krokante sjalotten"
+  },
+  "ingredients": [
+    "kip",
+    "sjalotten",
+    "knoflook",
+    "witte peper",
+    "vissaus",
+    "rijstmeel"
+  ],
+  "allergens": [],
+  "dietary": [],
+  "image": "/images/food/gai-tod-hat-yai.webp",
+  "preparation_time": "40 minuten",
+  "difficulty": "gemiddeld",
+  "price_range": "budget",
+  "seo": {
+    "metaTitle": {
+      "en": "Gai Tod Hat Yai Recipe | Authentic Thai main dish",
+      "nl": "Gai Tod Hat Yai Recept | Authentieke Thaise main dish"
+    },
+    "metaDescription": {
+      "en": "Learn about Gai Tod Hat Yai (ไก่ทอดหาดใหญ่) - Hat Yai style fried chicken with crispy shallots...",
+      "nl": "Leer over Gai Tod Hat Yai (ไก่ทอดหาดใหญ่) - Hat Yai stijl gefrituurde kip met krokante sjalotten..."
+    }
+  },
+  "tags": [
+    "Thaise keuken",
+    "Thailand",
+    "hoofdgerecht",
+    "zuidelijk",
+    "mild",
+    "gemiddeld",
+    "budget",
+    "kip",
+    "sjalotten",
+    "knoflook"
+  ],
+  "cooking": {
+    "preparation_time": "40 minuten",
+    "difficulty": "gemiddeld",
+    "spice_level": "mild",
+    "serves": "2-4 personen"
+  },
+  "nutrition": {
+    "allergens": [],
+    "dietary": [],
+    "price_range": "budget"
+  },
+  "enhanced_description": "Gai Tod Hat Yai is een geliefd stevig en smaakvol hoofdgerecht uit Zuid-Thailand met een subtiele warmte. Hat Yai stijl gefrituurde kip met krokante sjalotten. Dit gemiddelde recept vereist ongeveer 40 minuten bereidingstijd en vertegenwoordigt de authentieke smaken van de Zuid-Thaise keuken met intense kruiden, zeevruchten en kokosgebaseerde curries. De combinatie van kip, sjalotten en knoflook creëert een harmonieuze mix die dit gerecht een favoriet heeft gemaakt onder locals en bezoekers. Perfect voor wie betaalbare authentieke Thaise keuken zoekt.",
+  "detailed_ingredients": [
+    {
+      "name": "Chicken",
+      "purpose": "Essentieel voor authentieke Gai Tod Hat Yai smaak",
+      "substitutes": [
+        "Verse kip",
+        "Gedroogde kip",
+        "kippasta"
+      ]
+    },
+    {
+      "name": "Shallots",
+      "purpose": "Essentieel voor authentieke Gai Tod Hat Yai smaak",
+      "substitutes": [
+        "Verse sjalotten",
+        "Gedroogde sjalotten",
+        "sjalottenpasta"
+      ]
+    },
+    {
+      "name": "Garlic",
+      "purpose": "Essentieel voor authentieke Gai Tod Hat Yai smaak",
+      "substitutes": [
+        "Verse knoflook",
+        "Gedroogde knoflook",
+        "knoflookpasta"
+      ]
+    },
+    {
+      "name": "White pepper",
+      "purpose": "Essentieel voor authentieke Gai Tod Hat Yai smaak",
+      "substitutes": [
+        "Verse witte peper",
+        "Gedroogde witte peper",
+        "witte peperpasta"
+      ]
+    }
+  ],
+  "cooking_method": {
+    "technique": "Roerbakken of grillen",
+    "steps_overview": "Het bereiden van Gai Tod Hat Yai vereist aandacht voor detail en juiste timing. De sleutel is het balanceren van alle smaken terwijl de textuur van elk ingrediënt behouden blijft. Traditionele methoden doorgegeven via generaties zorgen voor authentieke smaak.",
+    "cooking_tips": [
+      "Gebruik verse kip voor beste resultaten",
+      "Pas pittigheidsniveau aan naar voorkeur",
+      "Kook niet te lang om textuur te behouden",
+      "Proef en pas kruiding aan voor serveren"
+    ]
+  },
+  "cultural_significance": {
+    "origin_story": "Gai Tod Hat Yai is al generaties lang een vast onderdeel van de Zuid-Thaise keuken en weerspiegelt de unieke culinaire tradities en lokale ingrediënten van de regio.",
+    "cultural_importance": "Dit gerecht vertegenwoordigt het hart van de Zuid-Thaise kookkunst en toont de balans en harmonie waar de Thaise keuken wereldwijd om bekendstaat.",
+    "traditional_occasions": [
+      "Familiebijeenkomsten",
+      "Lokale festivals",
+      "Straatvoedselmarkten",
+      "Bijzondere vieringen"
+    ]
+  },
+  "variations": [
+    {
+      "name": "Gai Tod Hat Yai Classic",
+      "description": "De traditionele versie zoals geserveerd in lokale huizen"
+    },
+    {
+      "name": "Gai Tod Hat Yai Modern",
+      "description": "Hedendaagse twist met premium ingrediënten"
+    },
+    {
+      "name": "Vegetarian Gai Tod Hat Yai",
+      "description": "Plantaardige versie met tofu of paddenstoelen"
+    }
+  ],
+  "serving_suggestions": {
+    "traditional_accompaniments": [
+      "Jasmijnrijst",
+      "Verse groenten",
+      "Thaise kruiden"
+    ],
+    "presentation": "Geserveerd op een bord in traditionele Thaise stijl",
+    "eating_etiquette": "Genoten met vork en lepel volgens Thais gebruik"
+  },
+  "nutritional_info": {
+    "calories_per_serving": "300-500 calorieën",
+    "health_benefits": [
+      "Rijk aan Thaise kruiden en specerijen",
+      "Bron van eiwitten en groenten",
+      "Gebalanceerde smaken en voedingsstoffen"
+    ],
+    "dietary_notes": []
+  },
+  "where_to_find": {
+    "best_restaurants": [
+      "Lokale Zuid-Thaise restaurants",
+      "Authentieke straatvoedselstalletjes",
+      "Traditionele markten",
+      "Familiegerunde eettentjes"
+    ],
+    "street_food_areas": [
+      "Nachtmarkten",
+      "Ochtendverse markten",
+      "Lokale foodcourts"
+    ],
+    "price_ranges": {
+      "street_vendor": "30-50 THB",
+      "market_stall": "40-60 THB",
+      "restaurant": "60-100 THB"
+    }
+  },
+  "translations": {
+    "nl": {
+      "enhanced_description": "Gai Tod Hat Yai is een geliefd stevig en smaakvol hoofdgerecht uit Zuid-Thailand met een subtiele warmte. Hat Yai stijl gefrituurde kip met krokante sjalotten. Dit recept met gemiddelde moeilijkheidsgraad vergt ongeveer 40 minuten bereidingstijd en vertegenwoordigt de authentieke smaken van de Zuid-Thaise keuken, gekenmerkt door intense kruiden, zeevruchten en curry's op basis van kokos. De combinatie van kip, sjalotten en knoflook creëert een harmonieuze mix die dit gerecht tot een favoriet heeft gemaakt onder zowel locals als bezoekers. Perfect voor wie op zoek is naar betaalbare authentieke Thaise keuken.",
+      "detailed_ingredients": [
+        {
+          "name": "Kip",
+          "purpose": "Essentieel voor de authentieke Gai Tod Hat Yai smaak",
+          "substitutes": [
+            "Verse kip",
+            "Gedroogde kip",
+            "Kippasta"
+          ]
+        },
+        {
+          "name": "Sjalotten",
+          "purpose": "Essentieel voor de authentieke Gai Tod Hat Yai smaak",
+          "substitutes": [
+            "Verse sjalotten",
+            "Gedroogde sjalotten",
+            "Sjalottenpasta"
+          ]
+        },
+        {
+          "name": "Knoflook",
+          "purpose": "Essentieel voor de authentieke Gai Tod Hat Yai smaak",
+          "substitutes": [
+            "Verse knoflook",
+            "Gedroogde knoflook",
+            "Knoflookpasta"
+          ]
+        },
+        {
+          "name": "Witte peper",
+          "purpose": "Essentieel voor de authentieke Gai Tod Hat Yai smaak",
+          "substitutes": [
+            "Verse witte peper",
+            "Gemalen witte peper",
+            "Witte peperkorrels"
+          ]
+        }
+      ],
+      "cooking_method": {
+        "technique": "Frituren en bakken",
+        "steps_overview": "Het bereiden van Gai Tod Hat Yai vereist aandacht voor detail en goede timing. De sleutel is het balanceren van alle smaken terwijl de textuur van elk ingrediënt behouden blijft. Traditionele methoden die van generatie op generatie zijn doorgegeven, garanderen een authentieke smaak.",
+        "cooking_tips": [
+          "Gebruik verse kip voor het beste resultaat",
+          "Pas het pittigheidsgehalte aan naar je voorkeur",
+          "Kook niet te lang om de textuur te behouden",
+          "Proef en pas de kruiding aan voor het serveren"
+        ]
+      },
+      "cultural_significance": {
+        "origin_story": "Gai Tod Hat Yai is al generaties lang een vast onderdeel van de Zuid-Thaise keuken en weerspiegelt de unieke culinaire tradities en lokale ingrediënten van de regio.",
+        "cultural_importance": "Dit gerecht vertegenwoordigt het hart van de Zuid-Thaise kookkunst en toont de balans en harmonie waarmee de Thaise keuken wereldwijd beroemd is.",
+        "traditional_occasions": [
+          "Familiebijeenkomsten",
+          "Lokale festivals",
+          "Straatvoedselmarkten",
+          "Bijzondere vieringen"
+        ]
+      },
+      "variations": [
+        {
+          "name": "Gai Tod Hat Yai Klassiek",
+          "description": "De traditionele versie zoals geserveerd in lokale huishoudens"
+        },
+        {
+          "name": "Gai Tod Hat Yai Modern",
+          "description": "Hedendaagse variant met premium ingrediënten"
+        },
+        {
+          "name": "Vegetarische Gai Tod Hat Yai",
+          "description": "Plantaardige versie met tofu of paddenstoelen"
+        }
+      ],
+      "serving_suggestions": {
+        "traditional_accompaniments": [
+          "Jasmijnrijst",
+          "Verse groenten",
+          "Thaise kruiden"
+        ],
+        "presentation": "Geserveerd op een bord in traditionele Zuid-Thaise stijl",
+        "eating_etiquette": "Gegeten met vork en lepel volgens Thais gebruik"
+      },
+      "where_to_find": {
+        "best_restaurants": [
+          "Lokale Zuid-Thaise restaurants",
+          "Authentieke straatvoedselkramen",
+          "Traditionele markten",
+          "Familiebedrijfjes"
+        ],
+        "street_food_areas": [
+          "Nachtmarkten",
+          "Ochtendverse markten",
+          "Lokale food courts"
+        ]
+      },
+      "translated_at": "2026-03-10T00:00:00.000Z"
+    },
+    "fr": {
+      "enhanced_description": "Gai Tod Hat Yai is een geliefd stevig en smaakvol hoofdgerecht uit Zuid-Thailand met een subtiele warmte. Hat Yai stijl gefrituurde kip met krokante sjalotten. Dit recept van gemiddelde moeilijkheid vereist ongeveer 40 minuten bereiding en vertegenwoordigt de authentieke smaken van de Zuid-Thaise keuken, gekenmerkt door intense specerijen, zeevruchten en curries op basis van kokos. De combinatie van kip, sjalotten en knoflook creëert een harmonieuze mix die dit gerecht een favoriet heeft gemaakt bij zowel locals als bezoekers. Perfect voor wie authentieke Thaise keuken zoekt tegen een betaalbare prijs.",
+      "detailed_ingredients": [
+        {
+          "name": "Poulet",
+          "purpose": "Essentieel voor de authentieke Gai Tod Hat Yai smaak",
+          "substitutes": [
+            "Verse kip",
+            "Gedroogde kip",
+            "Kippasta"
+          ]
+        },
+        {
+          "name": "Échalotes",
+          "purpose": "Essentieel voor de authentieke Gai Tod Hat Yai smaak",
+          "substitutes": [
+            "Verse sjalotten",
+            "Gedroogde sjalotten",
+            "Sjalottenpasta"
+          ]
+        },
+        {
+          "name": "Ail",
+          "purpose": "Essentieel voor de authentieke Gai Tod Hat Yai smaak",
+          "substitutes": [
+            "Verse knoflook",
+            "Gedroogde knoflook",
+            "Knoflookpasta"
+          ]
+        },
+        {
+          "name": "Poivre blanc",
+          "purpose": "Essentieel voor de authentieke Gai Tod Hat Yai smaak",
+          "substitutes": [
+            "Verse witte peper",
+            "Gemalen witte peper",
+            "Witte peperkorrels"
+          ]
+        }
+      ],
+      "cooking_method": {
+        "technique": "Frituren",
+        "steps_overview": "Het bereiden van Gai Tod Hat Yai vereist aandacht voor details en goed timing. De sleutel is het in evenwicht brengen van alle smaken terwijl de textuur van elk ingrediënt behouden blijft. Traditionele methoden doorgegeven van generatie op generatie garanderen authentieke smaak.",
+        "cooking_tips": [
+          "Gebruik verse kip voor het beste resultaat",
+          "Pas het pittigheidsniveau aan volgens voorkeur",
+          "Kook niet te lang om de textuur te behouden",
+          "Proef en pas de kruiding aan voor het serveren"
+        ]
+      },
+      "cultural_significance": {
+        "origin_story": "Gai Tod Hat Yai is al generaties lang een pilaar van de Zuid-Thaise keuken en weerspiegelt de unieke culinaire tradities en lokale ingrediënten van de regio.",
+        "cultural_importance": "Dit gerecht vertegenwoordigt het hart van de Zuid-Thaise keuken en illustreert de balans en harmonie die de Thaise keuken wereldwijd beroemd hebben gemaakt.",
+        "traditional_occasions": [
+          "Familiebijeenkomsten",
+          "Lokale festivals",
+          "Straatvoedselmarkten",
+          "Bijzondere vieringen"
+        ]
+      },
+      "variations": [
+        {
+          "name": "Gai Tod Hat Yai Classique",
+          "description": "De traditionele versie zoals geserveerd in lokale huizen"
+        },
+        {
+          "name": "Gai Tod Hat Yai Moderne",
+          "description": "Hedendaagse versie met premium ingrediënten"
+        },
+        {
+          "name": "Gai Tod Hat Yai Végétarien",
+          "description": "Plantaardige versie met tofu of champignons"
+        }
+      ],
+      "serving_suggestions": {
+        "traditional_accompaniments": [
+          "Jasmijnrijst",
+          "Verse groenten",
+          "Thaise kruiden"
+        ],
+        "presentation": "Geserveerd op een bord in de traditionele stijl van Zuid-Thailand",
+        "eating_etiquette": "Genuttigd met vork en lepel volgens Thaise traditie"
+      },
+      "where_to_find": {
+        "best_restaurants": [
+          "Lokale restaurants in Zuid-Thailand",
+          "Authentieke straatkiosken",
+          "Traditionele markten",
+          "Familierestaurants"
+        ],
+        "street_food_areas": [
+          "Nachtmarkten",
+          "Ochtendverse markten",
+          "Lokale food courts"
+        ]
+      },
+      "translated_at": "2026-03-10T00:00:00.000Z"
+    },
+    "de": {
+      "enhanced_description": "Gai Tod Hat Yai is een populair stevig en smakelijk hoofdgerecht uit Zuid-Thailand met een subtiele warmte. Gebakken kip in Hat Yai-stijl met knapperige sjalotten. Dit recept van gemiddelde moeilijkheid vereist ongeveer 40 minuten bereidingstijd en vertegenwoordigt de authentieke smaken van de Zuid-Thaise keuken, die zich kenmerkt door intense kruiden, zeevruchten en kokosgebaseerde curries. De combinatie van kip, sjalotten en knoflook geeft een harmonieuze mix die dit gerecht geliefd heeft gemaakt bij zowel locals als bezoekers. Perfect voor iedereen die betaalbare authentieke Thaise keuken zoekt.",
+      "detailed_ingredients": [
+        {
+          "name": "Hähnchen",
+          "purpose": "Onmisbaar voor de authentieke Gai Tod Hat Yai smaak",
+          "substitutes": [
+            "Verse kip",
+            "Gedroogde kip",
+            "Kipgehakt"
+          ]
+        },
+        {
+          "name": "Schalotten",
+          "purpose": "Onmisbaar voor de authentieke Gai Tod Hat Yai smaak",
+          "substitutes": [
+            "Verse sjalotten",
+            "Gedroogde sjalotten",
+            "Sjalottenpasta"
+          ]
+        },
+        {
+          "name": "Knoblauch",
+          "purpose": "Onmisbaar voor de authentieke Gai Tod Hat Yai smaak",
+          "substitutes": [
+            "Verse knoflook",
+            "Gedroogde knoflook",
+            "Knoflookpasta"
+          ]
+        },
+        {
+          "name": "Weißer Pfeffer",
+          "purpose": "Onmisbaar voor de authentieke Gai Tod Hat Yai smaak",
+          "substitutes": [
+            "Verse witte peper",
+            "Gemalen witte peper",
+            "Witte peperkorrels"
+          ]
+        }
+      ],
+      "cooking_method": {
+        "technique": "Frituren en bakken",
+        "steps_overview": "De bereiding van Gai Tod Hat Yai vereist aandacht voor detail en goed timen. De sleutel ligt in het balanceren van alle smaken terwijl de textuur van elke ingrediënt behouden blijft. Traditionele methoden die van generatie op generatie zijn doorgegeven, garanderen authentieke smaak.",
+        "cooking_tips": [
+          "Gebruik verse kip voor het beste resultaat",
+          "Pas de pittigheid aan naar smaak",
+          "Niet te lang koken om de textuur te behouden",
+          "Proef en kruid af voor het serveren"
+        ]
+      },
+      "cultural_significance": {
+        "origin_story": "Gai Tod Hat Yai is al generaties lang een vast onderdeel van de Zuid-Thaise keuken en weerspiegelt de unieke culinaire tradities en lokale ingrediënten van de regio.",
+        "cultural_importance": "Dit gerecht vertegenwoordigt het hart van de Zuid-Thaise kookkunst en toont de balans en harmonie waarvoor de Thaise keuken wereldwijd beroemd is.",
+        "traditional_occasions": [
+          "Familiebijeenkomsten",
+          "Lokale festivals",
+          "Straatkeukens-markten",
+          "Speciale vieringen"
+        ]
+      },
+      "variations": [
+        {
+          "name": "Gai Tod Hat Yai Klassisch",
+          "description": "De traditionele versie zoals geserveerd in lokale huishoudens"
+        },
+        {
+          "name": "Gai Tod Hat Yai Modern",
+          "description": "Moderne variant met premium ingrediënten"
+        },
+        {
+          "name": "Vegetarisches Gai Tod Hat Yai",
+          "description": "Plantaardige versie met tofu of paddenstoelen"
+        }
+      ],
+      "serving_suggestions": {
+        "traditional_accompaniments": [
+          "Jasmijnrijst",
+          "Verse groenten",
+          "Thaise kruiden"
+        ],
+        "presentation": "Geserveerd op een bord in de traditionele Zuid-Thaise stijl",
+        "eating_etiquette": "Gegeten met vork en lepel volgens Thaise gewoonte"
+      },
+      "where_to_find": {
+        "best_restaurants": [
+          "Lokale Zuid-Thaise restaurants",
+          "Authentieke straatkiosken",
+          "Traditionele markten",
+          "Familiegerunde restaurants"
+        ],
+        "street_food_areas": [
+          "Nachtmarkten",
+          "Ochtendfrisse markten",
+          "Lokale food courts"
+        ]
+      },
+      "translated_at": "2026-03-10T00:00:00.000Z"
+    },
+    "zh": {
+      "enhanced_description": "Gai Tod Hat Yai is een geliefd royaal hoofdgerecht uit Zuid-Thailand met een subtiele warmte. Gefrituurde kip in Hat Yai-stijl met knapperige sjalotten. Dit recept van gemiddelde moeilijkheid vereist ongeveer 40 minuten bereidingstijd en belichaamt de authentieke smaken van de Zuid-Thaise keuken, beroemd om intense kruiden, zeevruchten en kokosgebaseerde curries. De combinatie van kip, sjalotten en knoflook creëert een harmonieuze smaak die dit gerecht geliefd maakt bij zowel locals als toeristen. Ideaal voor wie betaalbare authentieke Thaise gerechten zoekt.",
+      "detailed_ingredients": [
+        {
+          "name": "鸡肉",
+          "purpose": "Belangrijk ingrediënt voor de authentieke Gai Tod Hat Yai smaak",
+          "substitutes": [
+            "Verse kip",
+            "Gedroogde kip",
+            "Kipgehakt"
+          ]
+        },
+        {
+          "name": "红葱头",
+          "purpose": "Belangrijk ingrediënt voor de authentieke Gai Tod Hat Yai smaak",
+          "substitutes": [
+            "Verse sjalotten",
+            "Gedroogde sjalotten",
+            "Sjalottenpasta"
+          ]
+        },
+        {
+          "name": "大蒜",
+          "purpose": "Belangrijk ingrediënt voor de authentieke Gai Tod Hat Yai smaak",
+          "substitutes": [
+            "Verse knoflook",
+            "Gedroogde knoflook",
+            "Knoflookpasta"
+          ]
+        },
+        {
+          "name": "白胡椒",
+          "purpose": "Belangrijk ingrediënt voor de authentieke Gai Tod Hat Yai smaak",
+          "substitutes": [
+            "Verse witte peper",
+            "Witte peperpoeder",
+            "Witte peperkorrels"
+          ]
+        }
+      ],
+      "cooking_method": {
+        "technique": "Frituren",
+        "steps_overview": "Het bereiden van Gai Tod Hat Yai vereist aandacht voor details en goed timen. De sleutel is het balanceren van alle smaken terwijl de textuur van elk ingrediënt behouden blijft. Traditionele methoden die van generatie op generatie zijn doorgegeven, zorgen voor authentieke smaak.",
+        "cooking_tips": [
+          "Gebruik verse kip voor het beste resultaat",
+          "Pas de pittigheid aan naar persoonlijke voorkeur",
+          "Niet te lang koken om de textuur te behouden",
+          "Proef en pas de kruiden aan voor het serveren"
+        ]
+      },
+      "cultural_significance": {
+        "origin_story": "Gai Tod Hat Yai is al generaties lang een klassieker in de Zuid-Thaise keuken en weerspiegelt de unieke culinaire tradities en lokale ingrediënten van de regio.",
+        "cultural_importance": "Dit gerecht vertegenwoordigt de essentie van de Zuid-Thaise keuken en toont de balans en harmonie waarvoor de Thaise keuken wereldwijd bekendstaat.",
+        "traditional_occasions": [
+          "Familiebijeenkomsten",
+          "Lokale feesten",
+          "Straatvoedselmarkten",
+          "Speciale vieringen"
+        ]
+      },
+      "variations": [
+        {
+          "name": "经典Gai Tod Hat Yai",
+          "description": "De traditionele versie zoals geserveerd in lokale families"
+        },
+        {
+          "name": "现代Gai Tod Hat Yai",
+          "description": "Moderne interpretatie met premium ingrediënten"
+        },
+        {
+          "name": "素食Gai Tod Hat Yai",
+          "description": "Vegetarische versie met tofu of paddenstoelen"
+        }
+      ],
+      "serving_suggestions": {
+        "traditional_accompaniments": [
+          "Jasmijnrijst",
+          "Verse groenten",
+          "Thaise kruiden"
+        ],
+        "presentation": "Geserveerd op een bord in de traditionele Zuid-Thaise stijl",
+        "eating_etiquette": "Gegeten met vork en lepel volgens Thaise gewoonte"
+      },
+      "where_to_find": {
+        "best_restaurants": [
+          "Lokale Zuid-Thaise restaurants",
+          "Authentieke straatsnacks",
+          "Traditionele markten",
+          "Familiegerunde eettentjes"
+        ],
+        "street_food_areas": [
+          "Nachtmarkten",
+          "Ochtendmarkten",
+          "Lokale food courts"
+        ]
+      },
+      "translated_at": "2026-03-11T00:00:00.000Z"
+    },
+    "ru": {
+      "enhanced_description": "Gai Tod Hat Yai is een geliefd vullend en smakelijk hoofdgerecht uit Zuid-Thailand met een milde warmte. Gefrituurde kip in Hat Yai-stijl met knapperige sjalotten. Dit recept van gemiddelde complexiteit duurt ongeveer 40 minuten bereiding en vertegenwoordigt de authentieke smaken van de Zuid-Thaise keuken, gekenmerkt door intense kruiden, zeevruchten en kokosgebaseerde curries. De combinatie van kip, sjalotten en knoflook creëert een harmonieuze mix die dit gerecht favoriet maakt bij zowel locals als gasten. Ideaal voor wie betaalbare authentieke Thaise keuken zoekt.",
+      "detailed_ingredients": [
+        {
+          "name": "Курица",
+          "purpose": "Belangrijk ingrediënt voor de authentieke Gai Tod Hat Yai smaak",
+          "substitutes": [
+            "Verse kip",
+            "Gedroogde kip",
+            "Kipgehakt"
+          ]
+        },
+        {
+          "name": "Лук-шалот",
+          "purpose": "Belangrijk ingrediënt voor de authentieke Gai Tod Hat Yai smaak",
+          "substitutes": [
+            "Verse sjalotten",
+            "Gedroogde sjalotten",
+            "Sjalottenpasta"
+          ]
+        },
+        {
+          "name": "Чеснок",
+          "purpose": "Belangrijk ingrediënt voor de authentieke Gai Tod Hat Yai smaak",
+          "substitutes": [
+            "Verse knoflook",
+            "Gedroogde knoflook",
+            "Knoflookpasta"
+          ]
+        },
+        {
+          "name": "Белый перец",
+          "purpose": "Belangrijk ingrediënt voor de authentieke Gai Tod Hat Yai smaak",
+          "substitutes": [
+            "Verse witte peper",
+            "Gemalen witte peper",
+            "Witte peperkorrels"
+          ]
+        }
+      ],
+      "cooking_method": {
+        "technique": "Frituren",
+        "steps_overview": "Het bereiden van Gai Tod Hat Yai vereist aandacht voor details en correct timen. De sleutel is het balanceren van alle smaken terwijl de textuur van elk ingrediënt behouden blijft. Traditionele methoden die van generatie op generatie zijn doorgegeven, garanderen authentieke smaak.",
+        "cooking_tips": [
+          "Gebruik verse kip voor het beste resultaat",
+          "Pas de pittigheid aan naar smaak",
+          "Niet te lang bakken om de textuur te behouden",
+          "Proef en corrigeer de kruiden voor het serveren"
+        ]
+      },
+      "cultural_significance": {
+        "origin_story": "Gai Tod Hat Yai is al vele generaties de basis van de Zuid-Thaise keuken en weerspiegelt de unieke culinaire tradities van de regio en lokale ingrediënten.",
+        "cultural_importance": "Dit gerecht belichaamt het hart van de Zuid-Thaise culinaire kunst en toont de balans en harmonie waarvoor de Thaise keuken wereldwijd beroemd is.",
+        "traditional_occasions": [
+          "Familiediners",
+          "Lokale festivals",
+          "Straatvoedselmarkten",
+          "Speciale gelegenheden"
+        ]
+      },
+      "variations": [
+        {
+          "name": "Gai Tod Hat Yai классический",
+          "description": "De traditionele versie zoals geserveerd in lokale huizen"
+        },
+        {
+          "name": "Gai Tod Hat Yai современный",
+          "description": "Moderne interpretatie met premium ingrediënten"
+        },
+        {
+          "name": "Вегетарианский Gai Tod Hat Yai",
+          "description": "Plantaardige versie met tofu of paddenstoelen"
+        }
+      ],
+      "serving_suggestions": {
+        "traditional_accompaniments": [
+          "Jasmijnrijst",
+          "Verse groenten",
+          "Thaise kruiden"
+        ],
+        "presentation": "Geserveerd op een bord in de traditionele Zuid-Thaise stijl",
+        "eating_etiquette": "Gegeten met vork en lepel volgens Thaise traditie"
+      },
+      "where_to_find": {
+        "best_restaurants": [
+          "Lokale Zuid-Thaise restaurants",
+          "Authentieke straatstalletjes",
+          "Traditionele markten",
+          "Familie-eettentjes"
+        ],
+        "street_food_areas": [
+          "Nachtmarkten",
+          "Ochtendverse markten",
+          "Lokale food courts"
+        ]
+      },
+      "translated_at": "2026-03-11T00:00:00.000Z"
+    },
+    "ko": {
+      "enhanced_description": "Gai Tod Hat Yai is een beroemd gefrituurd kipgerecht uit de Hat Yai-regio in Zuid-Thailand, gekenmerkt door knapperige gefrituurde sjalotten. Het vereist ongeveer 40 minuten bereidingstijd en vangt de authentieke smaak van de Zuid-Thaise keuken. De kip wordt gemarineerd met knoflook, witte peper en vissaus, dan bedekt met rijstmeel en knapperig gefrituurd. De knapperige gefrituurde sjalotten erbovenop voegen een unieke smaak en textuur toe. Het is een betaalbaar authentiek Thais gerecht dat geliefd is bij zowel locals als toeristen.",
+      "detailed_ingredients": [
+        {
+          "name": "닭고기 (닭다리 또는 닭날개)",
+          "purpose": "Hoofdingrediënt voor gefrituurde kip, botdelen geven meer smaak",
+          "substitutes": [
+            "Kippendij",
+            "Kipfilet",
+            "Kipvleugels"
+          ]
+        },
+        {
+          "name": "샬롯 (작은 양파)",
+          "purpose": "Belangrijk ingrediënt dat knapperig wordt gefrituurd en als topping erop gaat",
+          "substitutes": [
+            "Rode ui (dun gesneden)",
+            "Gewone ui",
+            "Gefrituurde ui"
+          ]
+        },
+        {
+          "name": "마늘",
+          "purpose": "Essentieel ingrediënt dat diepe smaak toevoegt aan de marinade",
+          "substitutes": [
+            "Hakselui",
+            "Ui poeder",
+            "Uipasta"
+          ]
+        },
+        {
+          "name": "백후추",
+          "purpose": "Kernkruid dat een subtiele, warme pittigheid toevoegt",
+          "substitutes": [
+            "Witte peper poeder",
+            "Witte peper korrels",
+            "Zwarte peper (als alternatief)"
+          ]
+        }
+      ],
+      "cooking_method": {
+        "technique": "Diep frituren",
+        "steps_overview": "Om Gai Tod Hat Yai te maken, marineer je eerst de kip met knoflook, witte peper, vissaus en sojasaus gedurende minstens 30 minuten. Bestrooi met rijstmeel en frituur knapperig in olie van 180 graden tot hij goudbruin is. Snijd sjalotten dun en frituur apart tot goudbruin, en schep er royaal overheen om af te maken.",
+        "cooking_tips": [
+          "Kip moet minstens 30 minuten marineren zodat de smaak intrekt",
+          "Houd de olie op 180 graden voor een knapperig resultaat",
+          "Sjalotten branden snel, dus frituur langzaam op middelhoog vuur",
+          "Dubbel frituren geeft een nog knapperiger textuur"
+        ]
+      },
+      "cultural_significance": {
+        "origin_story": "Gai Tod Hat Yai is een gerecht uit de zuidelijke Thaise stad Hat Yai, beïnvloed door de Chinees-Thaise gemeenschap in de regio. Hat Yai is een commerciële stad nabij de Maleisische grens en een hub voor kruisende voedselculturen.",
+        "cultural_importance": "Deze gefrituurde kip is iconisch in Hat Yai en beroemd als meeneemgerecht rond treinstations en bus terminals voor reizigers. Over heel Thailand geliefd als 'Hat Yai kip'.",
+        "traditional_occasions": [
+          "Tussendoortje",
+          "Reis picknick",
+          "Familiebijeenkomst",
+          "Straateten op de nachtmarkt"
+        ]
+      },
+      "variations": [
+        {
+          "name": "가이똣 핫야이 전통식",
+          "description": "De meest traditionele versie met een hele kippenpoot met bot gefrituurd."
+        },
+        {
+          "name": "가이똣 핫야이 순살",
+          "description": "Moderne variant met kipfilet zonder bot."
+        },
+        {
+          "name": "채식 가이똣 핫야이",
+          "description": "Vegetarische versie met tofu of paddenstoelen."
+        }
+      ],
+      "serving_suggestions": {
+        "traditional_accompaniments": [
+          "Jasmijnrijst",
+          "Plakkerige rijst",
+          "Zoete chilisaus"
+        ],
+        "presentation": "Serveer op een bord met royale knapperige gefrituurde sjalotten erop",
+        "eating_etiquette": "Volgens Thaise gewoonten eet je het met vork en lepel bij rijst, of met de hand"
+      },
+      "where_to_find": {
+        "best_restaurants": [
+          "Lokale Hat Yai restaurants",
+          "Zuidelijke Thaise restaurants",
+          "Traditionele markten",
+          "Familiegerunde eettentjes"
+        ],
+        "street_food_areas": [
+          "Nachtmarkten",
+          "Ochtendmarkten",
+          "Lokale food courts"
+        ],
+        "price_ranges": {
+          "street_vendor": "30-50 THB",
+          "market_stall": "40-60 THB",
+          "restaurant": "60-100 THB"
+        }
+      },
+      "translated_at": "2026-03-14T00:00:00.000Z"
+    },
+    "th": {
+      "enhanced_description": "Gai Tod Hat Yai is een beroemd zuidelijk Thais gerecht uit het district Hat Yai, provincie Songkhla. Gefrituurde kip met knapperige huid en mals, sappig vlees, bestrooid met krokante gefrituurde sjalotten, op smaak gebracht met knoflook, peper en kruiden. Een populair straatgerecht.",
+      "detailed_ingredients": [
+        {
+          "name": "Chicken",
+          "purpose": "Belangrijk voor de authentieke smaak van Gai Tod Hat Yai",
+          "substitutes": [
+            "Verse kip",
+            "Gedroogde kip",
+            "Kip pasta"
+          ]
+        },
+        {
+          "name": "Shallots",
+          "purpose": "Belangrijk voor de authentieke smaak van Gai Tod Hat Yai",
+          "substitutes": [
+            "Verse sjalotten",
+            "Gedroogde sjalotten",
+            "Sjalotten pasta"
+          ]
+        },
+        {
+          "name": "Garlic",
+          "purpose": "Belangrijk voor de authentieke smaak van Gai Tod Hat Yai",
+          "substitutes": [
+            "Verse knoflook",
+            "Gedroogde knoflook",
+            "Knoflook pasta"
+          ]
+        },
+        {
+          "name": "White pepper",
+          "purpose": "Belangrijk voor de authentieke smaak van Gai Tod Hat Yai",
+          "substitutes": [
+            "Verse witte peper",
+            "Gedroogde witte peper",
+            "Witte peper pasta"
+          ]
+        }
+      ],
+      "cooking_method": {
+        "technique": "Roerbakken of grillen",
+        "steps_overview": "De bereiding van Gai Tod Hat Yai vereist aandacht voor details en het juiste tijdstip. Het belangrijkste is de balans van alle smaken te behouden terwijl de textuur van elk ingrediënt intact blijft. De traditionele methode, doorgegeven door generaties, garandeert authentieke smaak.",
+        "cooking_tips": [
+          "Gebruik verse kip voor het beste resultaat",
+          "Pas de pittigheid aan naar smaak",
+          "Kook niet te lang om de textuur te behouden",
+          "Proef en breng op smaak voor het serveren"
+        ]
+      },
+      "cultural_significance": {
+        "origin_story": "Dit gerecht is al generaties lang deel van de zuidelijke Thaise voedselcultuur en weerspiegelt de unieke kooktradities en lokale ingrediënten van de regio.",
+        "cultural_importance": "Dit gerecht is het hart van de zuidelijke Thaise keuken en toont de balans en harmonie waar Thaise gerechten wereldwijd om geprezen worden.",
+        "traditional_occasions": [
+          "Familiebijeenkomst",
+          "Lokale festivals",
+          "Straatvoedselmarkten",
+          "Speciale vieringen"
+        ]
+      },
+      "variations": [
+        {
+          "name": "Gai Tod Hat Yai Classic",
+          "description": "Traditionele versie geserveerd in lokale huizen"
+        },
+        {
+          "name": "Gai Tod Hat Yai Modern",
+          "description": "Moderne versie met premium ingrediënten"
+        },
+        {
+          "name": "Vegetarian Gai Tod Hat Yai",
+          "description": "Vegetarische versie met tofu of paddenstoelen"
+        }
+      ],
+      "serving_suggestions": {
+        "traditional_accompaniments": [
+          "Jasmijnrijst",
+          "Verse groenten",
+          "Thaise kruiden"
+        ],
+        "presentation": "Serveer op een traditioneel Thais bord",
+        "eating_etiquette": "Eet met vork en lepel volgens Thaise traditie"
+      },
+      "where_to_find": {
+        "best_restaurants": [
+          "Lokale zuidelijke Thaise restaurants",
+          "Authentieke straateettentjes",
+          "Traditionele markten",
+          "Familiegerunde restaurants"
+        ],
+        "street_food_areas": [
+          "Nachtmarkten",
+          "Ochtendmarkten",
+          "Lokale voedselcentra"
+        ],
+        "price_ranges": {
+          "street_vendor": "30-50 THB",
+          "market_stall": "40-60 THB",
+          "restaurant": "60-100 THB"
+        }
+      },
+      "translated_at": "2026-03-14T00:00:00.000Z"
+    },
+    "ja": {
+      "enhanced_description": "Gai Tod Hat Yai is al lang een geliefd traditioneel en hartverwarmend hoofdgerecht in de zuidelijke Thaise keuken. De Hat Yai-stijl gefrituurde kip is aromatisch afgewerkt met knapperige sjalotten. Deze recept van gemiddelde moeilijkheid, dat ongeveer 40 minuten voorbereidingstijd vereist, belichaamt de authentieke smaken van de zuidelijke Thaise keuken, met kenmerkende sterke kruiden, zeevruchten en kokosnootgebaseerde curry's. De combinatie van kip, sjalotten en knoflook creëert een harmonieuze smaakbalans, en dit gerecht is al lang geliefd bij locals en bezoekers. Perfect voor wie betaalbare, authentieke Thaise gerechten zoekt.",
+      "detailed_ingredients": [
+        {
+          "name": "鶏肉",
+          "purpose": "Onmisbare ingrediënten voor de authentieke smaak van Gai Tod Hat Yai",
+          "substitutes": [
+            "Verse kip",
+            "Gedroogde kip",
+            "Kip pasta"
+          ]
+        },
+        {
+          "name": "シャロット",
+          "purpose": "Onmisbaar voor de authentieke smaak van Gai Tod Hat Yai",
+          "substitutes": [
+            "Verse sjalotten",
+            "Gedroogde sjalotten",
+            "Sjalotten pasta"
+          ]
+        },
+        {
+          "name": "ニンニク",
+          "purpose": "Onmisbaar voor de authentieke smaak van Gai Tod Hat Yai",
+          "substitutes": [
+            "Verse knoflook",
+            "Gedroogde knoflook",
+            "Knoflook pasta"
+          ]
+        },
+        {
+          "name": "白胡椒",
+          "purpose": "Onmisbaar voor de authentieke smaak van Gai Tod Hat Yai",
+          "substitutes": [
+            "Verse witte peper",
+            "Gedroogde witte peper",
+            "Witte peper pasta"
+          ]
+        }
+      ],
+      "cooking_method": {
+        "technique": "Roerbakken of grillen",
+        "steps_overview": "De bereiding van Gai Tod Hat Yai vereist aandacht voor details en het juiste tijdstip. De sleutel is alle smaken in balans te brengen terwijl de textuur van elk ingrediënt behouden blijft. De generaties doorgegeven traditionele methode garandeert authentieke smaak.",
+        "cooking_tips": [
+          "Gebruik verse kip voor het beste resultaat",
+          "Pas de hoeveelheid specerijen aan naar smaak",
+          "Verhit niet te veel om de textuur te behouden",
+          "Proef en pas de smaak aan voor het serveren"
+        ]
+      },
+      "cultural_significance": {
+        "origin_story": "Gai Tod Hat Yai is een klassieker van generatie op generatie in de zuidelijke Thaise keuken en weerspiegelt de regionale kooktradities en lokale ingrediënten.",
+        "cultural_importance": "Dit gerecht belichaamt het hart van de zuidelijke Thaise keuken en de wereldberoemde balans en harmonie van Thaise gerechten.",
+        "traditional_occasions": [
+          "Familiebijeenkomst",
+          "Regionale festivals",
+          "Straatmarkten",
+          "Speciale vieringen"
+        ]
+      },
+      "variations": [
+        {
+          "name": "ガイ・トード・ハットヤイ・クラシック",
+          "description": "Traditionele versie geserveerd in lokale huizen"
+        },
+        {
+          "name": "ガイ・トード・ハットヤイ・モダン",
+          "description": "Moderne versie met premium ingrediënten"
+        },
+        {
+          "name": "ベジタリアン版 ガイ・トード・ハットヤイ",
+          "description": "Plantaardige versie met tofu of paddenstoelen"
+        }
+      ],
+      "serving_suggestions": {
+        "traditional_accompaniments": [
+          "Jasmijnrijst",
+          "Verse groenten",
+          "Thaise kruiden"
+        ],
+        "presentation": "Serveer op een traditioneel Thais bord",
+        "eating_etiquette": "Eet met vork en lepel volgens Thaise gewoonten"
+      },
+      "where_to_find": {
+        "best_restaurants": [
+          "Lokale zuidelijke Thaise restaurants",
+          "Authentieke straateettentjes",
+          "Traditionele markten",
+          "Familiegerunde eettentjes"
+        ],
+        "street_food_areas": [
+          "Nachtmarkten",
+          "Verse ochtendmarkten",
+          "Lokale food courts"
+        ],
+        "price_ranges": {
+          "street_vendor": "30-50 THB",
+          "market_stall": "40-60 THB",
+          "restaurant": "60-100 THB"
+        }
+      },
+      "translated_at": "2026-03-14T00:00:00.000Z"
+    }
+  }
+}

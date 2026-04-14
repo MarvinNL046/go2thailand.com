@@ -1,0 +1,977 @@
+{
+  "id": 38,
+  "slug": "bua-loy",
+  "name": {
+    "en": "Bua Loy",
+    "nl": "Bua Loy",
+    "thai": "บัวลอย"
+  },
+  "category": "nagerecht",
+  "region": "zuidelijk",
+  "spice_level": "geen",
+  "description": {
+    "en": "Rice flour balls in sweet coconut milk",
+    "nl": "Rijstmeelballetjes in zoete kokosmelk"
+  },
+  "ingredients": [
+    "rijstmeel",
+    "kokosmelk",
+    "palmsuiker",
+    "zout",
+    "pandan"
+  ],
+  "allergens": [],
+  "dietary": [
+    "vegetarisch"
+  ],
+  "image": "/images/food/bua-loy.webp",
+  "preparation_time": "30 minuten",
+  "difficulty": "eenvoudig",
+  "price_range": "budget",
+  "seo": {
+    "metaTitle": {
+      "en": "Bua Loy Recipe | Authentic Thai dessert",
+      "nl": "Bua Loy Recept | Authentieke Thaise dessert"
+    },
+    "metaDescription": {
+      "en": "Learn about Bua Loy (บัวลอย) - Rice flour balls in sweet coconut milk...",
+      "nl": "Leer over Bua Loy (บัวลอย) - Rijstmeelballetjes in zoete kokosmelk..."
+    }
+  },
+  "tags": [
+    "thais-eten",
+    "thailand",
+    "nagerecht",
+    "zuidelijk",
+    "eenvoudig",
+    "budget",
+    "rijstmeel",
+    "kokosmelk",
+    "palmsuiker"
+  ],
+  "cooking": {
+    "preparation_time": "30 minuten",
+    "difficulty": "eenvoudig",
+    "spice_level": "geen",
+    "serves": "2-4 personen"
+  },
+  "nutrition": {
+    "allergens": [],
+    "dietary": [
+      "vegetarisch"
+    ],
+    "price_range": "budget"
+  },
+  "enhanced_description": "Bua Loy is een geliefd heerlijk zoet gerecht uit Zuid-Thailand dat mild is voor het gehemelte. Rijstmeelballetjes in zoete kokosmelk. Dit eenvoudige recept vergt ongeveer 30 minuten bereidingstijd en vertegenwoordigt de authentieke smaken van de Zuid-Thaise keuken met intense kruiden, zeevruchten en curry's op basis van kokos. De combinatie van rijstmeel, kokosmelk en palmsuiker creëert een harmonieuze mix die dit gerecht tot een favoriet heeft gemaakt onder zowel locals als bezoekers. Perfect voor wie op zoek is naar betaalbare authentieke Thaise keuken.",
+  "detailed_ingredients": [
+    {
+      "name": "Rice flour",
+      "purpose": "Essentieel voor de authentieke Bua Loy smaak",
+      "substitutes": [
+        "Vers rijstmeel",
+        "Gedroogd rijstmeel",
+        "rijstmeelpasta"
+      ]
+    },
+    {
+      "name": "Coconut milk",
+      "purpose": "Essentieel voor de authentieke Bua Loy smaak",
+      "substitutes": [
+        "Verse kokosmelk",
+        "Gedroogde kokosmelk",
+        "kokosmelkpasta"
+      ]
+    },
+    {
+      "name": "Palm sugar",
+      "purpose": "Essentieel voor de authentieke Bua Loy smaak",
+      "substitutes": [
+        "Verse palmsuiker",
+        "Gedroogde palmsuiker",
+        "palmsuikerpasta"
+      ]
+    },
+    {
+      "name": "Salt",
+      "purpose": "Essentieel voor de authentieke Bua Loy smaak",
+      "substitutes": [
+        "Vers zout",
+        "Gedroogd zout",
+        "zoutpasta"
+      ]
+    }
+  ],
+  "cooking_method": {
+    "technique": "Traditionele bereiding",
+    "steps_overview": "Het bereiden van Bua Loy vereist aandacht voor detail en goede timing. De sleutel is het balanceren van alle smaken terwijl de textuur van elk ingrediënt behouden blijft. Traditionele methoden die van generatie op generatie zijn doorgegeven, garanderen een authentieke smaak.",
+    "cooking_tips": [
+      "Gebruik vers rijstmeel voor het beste resultaat",
+      "Pas het kruidniveau aan naar voorkeur",
+      "Kook niet te lang om de textuur te behouden",
+      "Proef en pas de kruiding aan voor het serveren"
+    ]
+  },
+  "cultural_significance": {
+    "origin_story": "Bua Loy is al generaties lang een vast onderdeel van de Zuid-Thaise keuken en weerspiegelt de unieke culinaire tradities en lokale ingrediënten van de regio.",
+    "cultural_importance": "Dit gerecht vertegenwoordigt het hart van de Zuid-Thaise kookkunst en toont de balans en harmonie waarmee de Thaise keuken wereldwijd beroemd is.",
+    "traditional_occasions": [
+      "Familiebijeenkomsten",
+      "Lokale festivals",
+      "Straatvoedselmarkten",
+      "Bijzondere vieringen"
+    ]
+  },
+  "variations": [
+    {
+      "name": "Bua Loy Classic",
+      "description": "De traditionele versie zoals geserveerd in lokale huishoudens"
+    },
+    {
+      "name": "Bua Loy Modern",
+      "description": "Hedendaagse variant met premium ingrediënten"
+    },
+    {
+      "name": "Vegetarian Bua Loy",
+      "description": "Plantaardige versie met tofu of paddenstoelen"
+    }
+  ],
+  "serving_suggestions": {
+    "traditional_accompaniments": [
+      "Jasmijnrijst",
+      "Verse groenten",
+      "Thaise kruiden"
+    ],
+    "presentation": "Geserveerd op een bord in traditionele Thaise stijl",
+    "eating_etiquette": "Genoten met vork en lepel volgens Thais gebruik"
+  },
+  "nutritional_info": {
+    "calories_per_serving": "200-300 calorieën",
+    "health_benefits": [
+      "Rijk aan Thaise kruiden en specerijen",
+      "Bron van eiwitten en groenten",
+      "Gebalanceerde smaken en voedingsstoffen"
+    ],
+    "dietary_notes": [
+      "vegetarisch"
+    ]
+  },
+  "where_to_find": {
+    "best_restaurants": [
+      "Lokale Zuid-Thaise restaurants",
+      "Authentieke straatvoedselkramen",
+      "Traditionele markten",
+      "Familiegerunde eetgelegenheden"
+    ],
+    "street_food_areas": [
+      "Nachtmarkten",
+      "Ochtendverse markten",
+      "Lokale food courts"
+    ],
+    "price_ranges": {
+      "street_vendor": "30-50 THB",
+      "market_stall": "40-60 THB",
+      "restaurant": "60-100 THB"
+    }
+  },
+  "translations": {
+    "nl": {
+      "enhanced_description": "Bua Loy is een geliefd heerlijk zoet gerecht uit Zuid-Thailand dat mild is voor het gehemelte. Rijstmeelballetjes in zoete kokosmelk. Dit eenvoudige recept vergt ongeveer 30 minuten bereidingstijd en vertegenwoordigt de authentieke smaken van de Zuid-Thaise keuken met intense kruiden, zeevruchten en curry's op basis van kokos. De combinatie van rijstmeel, kokosmelk en palmsuiker creëert een harmonieuze mix die dit gerecht tot een favoriet heeft gemaakt onder zowel locals als bezoekers. Perfect voor wie op zoek is naar betaalbare authentieke Thaise keuken.",
+      "detailed_ingredients": [
+        {
+          "name": "Rijstmeel",
+          "purpose": "Essentieel voor de authentieke Bua Loy smaak",
+          "substitutes": [
+            "Vers rijstmeel",
+            "Gedroogd rijstmeel",
+            "Rijstmeelpasta"
+          ]
+        },
+        {
+          "name": "Kokosmelk",
+          "purpose": "Essentieel voor de authentieke Bua Loy smaak",
+          "substitutes": [
+            "Verse kokosmelk",
+            "Kokosmelkpoeder",
+            "Kokoscrème"
+          ]
+        },
+        {
+          "name": "Palmsuiker",
+          "purpose": "Essentieel voor de authentieke Bua Loy smaak",
+          "substitutes": [
+            "Verse palmsuiker",
+            "Kokossuiker",
+            "Bruine suiker"
+          ]
+        },
+        {
+          "name": "Zout",
+          "purpose": "Essentieel voor de authentieke Bua Loy smaak",
+          "substitutes": [
+            "Zeezout",
+            "Fijn zout",
+            "Himalayazout"
+          ]
+        }
+      ],
+      "cooking_method": {
+        "technique": "Traditionele bereiding",
+        "steps_overview": "Het bereiden van Bua Loy vereist aandacht voor detail en goede timing. De sleutel is het balanceren van alle smaken terwijl de textuur van elk ingrediënt behouden blijft. Traditionele methoden die van generatie op generatie zijn doorgegeven, garanderen een authentieke smaak.",
+        "cooking_tips": [
+          "Gebruik vers rijstmeel voor het beste resultaat",
+          "Pas de zoetheid aan naar je voorkeur",
+          "Kook niet te lang om de textuur te behouden",
+          "Proef en pas de kruiding aan voor het serveren"
+        ]
+      },
+      "cultural_significance": {
+        "origin_story": "Bua Loy is al generaties lang een vast onderdeel van de Zuid-Thaise keuken en weerspiegelt de unieke culinaire tradities en lokale ingrediënten van de regio.",
+        "cultural_importance": "Dit gerecht vertegenwoordigt het hart van de Zuid-Thaise kookkunst en toont de balans en harmonie waarmee de Thaise keuken wereldwijd beroemd is.",
+        "traditional_occasions": [
+          "Familiebijeenkomsten",
+          "Lokale festivals",
+          "Straatvoedselmarkten",
+          "Bijzondere vieringen"
+        ]
+      },
+      "variations": [
+        {
+          "name": "Bua Loy Klassiek",
+          "description": "De traditionele versie zoals geserveerd in lokale huishoudens"
+        },
+        {
+          "name": "Bua Loy Modern",
+          "description": "Hedendaagse variant met premium ingrediënten"
+        },
+        {
+          "name": "Vegetarische Bua Loy",
+          "description": "Plantaardige versie, al van nature vegetarisch"
+        }
+      ],
+      "serving_suggestions": {
+        "traditional_accompaniments": [
+          "Warm geserveerd",
+          "Verse kokosmelk",
+          "Pandanblad als garnering"
+        ],
+        "presentation": "Geserveerd in een kom in traditionele Thaise stijl",
+        "eating_etiquette": "Gegeten met een lepel als warm dessert volgens Thais gebruik"
+      },
+      "where_to_find": {
+        "best_restaurants": [
+          "Lokale Zuid-Thaise restaurants",
+          "Authentieke straatvoedselkramen",
+          "Traditionele markten",
+          "Familiebedrijfjes"
+        ],
+        "street_food_areas": [
+          "Nachtmarkten",
+          "Ochtendverse markten",
+          "Lokale food courts"
+        ]
+      },
+      "translated_at": "2026-03-10T00:00:00.000Z"
+    },
+    "fr": {
+      "enhanced_description": "Bua Loy is een geliefd heerlijk zoet gerecht uit Zuid-Thailand dat mild is voor het gehemelte. Rijstmeelballetjes in zoete kokosmelk. Dit eenvoudige recept vergt ongeveer 30 minuten bereidingstijd en vertegenwoordigt de authentieke smaken van de Zuid-Thaise keuken met intense kruiden, zeevruchten en curry's op basis van kokos. De combinatie van rijstmeel, kokosmelk en palmsuiker creëert een harmonieuze mix die dit gerecht tot een favoriet heeft gemaakt onder zowel locals als bezoekers. Perfect voor wie op zoek is naar betaalbare authentieke Thaise keuken.",
+      "detailed_ingredients": [
+        {
+          "name": "Farine de riz",
+          "purpose": "Essentieel voor de authentieke Bua Loy smaak",
+          "substitutes": [
+            "Vers rijstmeel",
+            "Gedroogd rijstmeel",
+            "Rijstmeelpasta"
+          ]
+        },
+        {
+          "name": "Lait de coco",
+          "purpose": "Essentieel voor de authentieke Bua Loy smaak",
+          "substitutes": [
+            "Verse kokosmelk",
+            "Kokosmelkpoeder",
+            "Kokoscrème"
+          ]
+        },
+        {
+          "name": "Sucre de palme",
+          "purpose": "Essentieel voor de authentieke Bua Loy smaak",
+          "substitutes": [
+            "Verse palmsuiker",
+            "Kokossuiker",
+            "Bruine suiker"
+          ]
+        },
+        {
+          "name": "Sel",
+          "purpose": "Essentieel voor de authentieke Bua Loy smaak",
+          "substitutes": [
+            "Zeezout",
+            "Fijn zout",
+            "Himalayazout"
+          ]
+        }
+      ],
+      "cooking_method": {
+        "technique": "Traditionele bereiding",
+        "steps_overview": "Het bereiden van Bua Loy vereist aandacht voor detail en goede timing. De sleutel is het balanceren van alle smaken terwijl de textuur van elk ingrediënt behouden blijft. Traditionele methoden die van generatie op generatie zijn doorgegeven, garanderen een authentieke smaak.",
+        "cooking_tips": [
+          "Gebruik vers rijstmeel voor het beste resultaat",
+          "Pas de zoetheid aan naar voorkeur",
+          "Kook niet te lang om de textuur te behouden",
+          "Proef en pas de kruiding aan voor het serveren"
+        ]
+      },
+      "cultural_significance": {
+        "origin_story": "Bua Loy is al generaties lang een vast onderdeel van de Zuid-Thaise keuken en weerspiegelt de unieke culinaire tradities en lokale ingrediënten van de regio.",
+        "cultural_importance": "Dit gerecht vertegenwoordigt het hart van de Zuid-Thaise kookkunst en toont de balans en harmonie waarmee de Thaise keuken wereldwijd beroemd is.",
+        "traditional_occasions": [
+          "Familiebijeenkomsten",
+          "Lokale festivals",
+          "Straatvoedselmarkten",
+          "Bijzondere vieringen"
+        ]
+      },
+      "variations": [
+        {
+          "name": "Bua Loy Classique",
+          "description": "De traditionele versie zoals geserveerd in lokale huishoudens"
+        },
+        {
+          "name": "Bua Loy Moderne",
+          "description": "Moderne versie met premium ingrediënten"
+        },
+        {
+          "name": "Bua Loy Végétarien",
+          "description": "Plantaardige versie, natuurlijk vegetarisch"
+        }
+      ],
+      "serving_suggestions": {
+        "traditional_accompaniments": [
+          "Warm geserveerd",
+          "Verse kokosmelk",
+          "Pandanblad als garnering"
+        ],
+        "presentation": "Geserveerd in een kom in de traditionele Thaise stijl",
+        "eating_etiquette": "Geniet ervan met een lepel als warm dessert volgens Thaise traditie"
+      },
+      "where_to_find": {
+        "best_restaurants": [
+          "Lokale restaurants in Zuid-Thailand",
+          "Authentieke straatkiosken",
+          "Traditionele markten",
+          "Familierestaurants"
+        ],
+        "street_food_areas": [
+          "Nachtmarkten",
+          "Verse ochtendmarkten",
+          "Lokale foodcourts"
+        ]
+      },
+      "translated_at": "2026-03-10T00:00:00.000Z"
+    },
+    "de": {
+      "enhanced_description": "Bua Loy is een geliefd, heerlijk zoet dessert uit Zuid-Thailand dat mild voor de smaakpapillen is. Rijstmeelballetjes in zoete kokosmelk. Dit eenvoudige recept vereist ongeveer 30 minuten bereidingstijd en belichaamt de authentieke smaken van de Zuid-Thaise keuken met haar intense kruiden, zeevruchten en kokosgebaseerde curries. De combinatie van rijstmeel, kokosmelk en palmsuiker creëert een harmonieuze mengeling die dit dessert tot een favoriet heeft gemaakt bij zowel locals als bezoekers. Perfect voor wie betaalbare authentieke Thaise keuken zoekt.",
+      "detailed_ingredients": [
+        {
+          "name": "Reismehl",
+          "purpose": "Onmisbaar voor de authentieke Bua Loy-smaak",
+          "substitutes": [
+            "Verse rijstmeel",
+            "Gedroogd rijstmeel",
+            "Rijstmeelpasta"
+          ]
+        },
+        {
+          "name": "Kokosmilch",
+          "purpose": "Onmisbaar voor de authentieke Bua Loy-smaak",
+          "substitutes": [
+            "Verse kokosmelk",
+            "Kokosmelkpoeder",
+            "Kokoscrème"
+          ]
+        },
+        {
+          "name": "Palmzucker",
+          "purpose": "Onmisbaar voor de authentieke Bua Loy-smaak",
+          "substitutes": [
+            "Verse palmsuiker",
+            "Kokossuiker",
+            "Bruine suiker"
+          ]
+        },
+        {
+          "name": "Salz",
+          "purpose": "Onmisbaar voor de authentieke Bua Loy-smaak",
+          "substitutes": [
+            "Zegezout",
+            "Fijn zout",
+            "Himalayazout"
+          ]
+        }
+      ],
+      "cooking_method": {
+        "technique": "Traditionele bereiding",
+        "steps_overview": "De bereiding van Bua Loy vereist liefde voor detail en goed timing. De sleutel ligt in het balanceren van alle smaken terwijl de textuur van elke ingrediënt behouden blijft. Traditionele methoden, doorgegeven over generaties, zorgen voor authentieke smaak.",
+        "cooking_tips": [
+          "Gebruik verse rijstmeel voor het beste resultaat",
+          "Pas de zoetheid aan naar smaak",
+          "Niet te lang koken om de textuur te behouden",
+          "Proef en kruid af voor het serveren"
+        ]
+      },
+      "cultural_significance": {
+        "origin_story": "Bua Loy is al generaties lang een vast onderdeel van de Zuid-Thaise keuken en weerspiegelt de unieke culinaire tradities en lokale ingrediënten van de regio.",
+        "cultural_importance": "Dit dessert belichaamt het hart van de Zuid-Thaise kookkunst en toont de balans en harmonie waarvoor de Thaise keuken wereldwijd beroemd is.",
+        "traditional_occasions": [
+          "Familiebijeenkomsten",
+          "Lokale feesten",
+          "Straatvoedselmarkten",
+          "Speciale vieringen"
+        ]
+      },
+      "variations": [
+        {
+          "name": "Bua Loy Klassisch",
+          "description": "De traditionele versie, zoals geserveerd in lokale huishoudens"
+        },
+        {
+          "name": "Bua Loy Modern",
+          "description": "Moderne variant met premium ingrediënten"
+        },
+        {
+          "name": "Vegetarisches Bua Loy",
+          "description": "Plantaardige versie, van nature vegetarisch"
+        }
+      ],
+      "serving_suggestions": {
+        "traditional_accompaniments": [
+          "Warm geserveerd",
+          "Verse kokosmelk",
+          "Pandanblad als garnering"
+        ],
+        "presentation": "Geserveerd in een kom in de traditionele Thaise stijl",
+        "eating_etiquette": "Geniet ervan met een lepel als warm dessert volgens Thaise traditie"
+      },
+      "where_to_find": {
+        "best_restaurants": [
+          "Lokale Zuid-Thaise restaurants",
+          "Authentieke straatkiosken",
+          "Traditionele markten",
+          "Familiegerunde restaurants"
+        ],
+        "street_food_areas": [
+          "Nachtmarkten",
+          "Verse ochtendmarkten",
+          "Lokale foodcourts"
+        ]
+      },
+      "translated_at": "2026-03-10T00:00:00.000Z"
+    },
+    "zh": {
+      "enhanced_description": "Bua Loy is een geliefd dessert uit Zuid-Thailand met een milde, delicate textuur. Kleine balletjes van kleefrijstmeel in zoete kokosmelk. Dit eenvoudige recept duurt ongeveer 30 minuten en vangt de authentieke smaken van de Zuid-Thaise keuken – bekend om intense kruiden, zeevruchten en kokoscurries. De mix van kleefrijstmeel, kokosmelk en palmsuiker creëert harmonie, geliefd bij locals en toeristen. Ideaal voor wie betaalbare authentieke Thaise gerechten zoekt.",
+      "detailed_ingredients": [
+        {
+          "name": "糯米粉",
+          "purpose": "Sleutelingrediënt voor authentieke Bua Loy-smaak",
+          "substitutes": [
+            "Verse kleefrijstmeel",
+            "Gedroogd kleefrijstmeel",
+            "Kleefrijstmeelpasta"
+          ]
+        },
+        {
+          "name": "椰奶",
+          "purpose": "Sleutelingrediënt voor authentieke Bua Loy-smaak",
+          "substitutes": [
+            "Verse kokosmelk",
+            "Kokosmelkpoeder",
+            "Kokoscrème"
+          ]
+        },
+        {
+          "name": "棕榈糖",
+          "purpose": "Sleutelingrediënt voor authentieke Bua Loy-smaak",
+          "substitutes": [
+            "Verse palmsuiker",
+            "Kokossuiker",
+            "Bruine suiker"
+          ]
+        },
+        {
+          "name": "盐",
+          "purpose": "Sleutelingrediënt voor authentieke Bua Loy-smaak",
+          "substitutes": [
+            "Zegezout",
+            "Fijn zout",
+            "Himalayazout"
+          ]
+        }
+      ],
+      "cooking_method": {
+        "technique": "Traditionele bereidingswijze",
+        "steps_overview": "Het maken van Bua Loy vereist aandacht voor details en goed tijdmanagement. De kern is het balanceren van smaken terwijl de textuur van ingrediënten behouden blijft. Traditionele methoden, doorgegeven via generaties, garanderen authentieke smaak.",
+        "cooking_tips": [
+          "Gebruik verse kleefrijstmeel voor het beste resultaat",
+          "Pas de zoetheid aan naar persoonlijke voorkeur",
+          "Kook niet te lang om textuur te behouden",
+          "Proef en pas kruiden aan voor serveren"
+        ]
+      },
+      "cultural_significance": {
+        "origin_story": "Bua Loy is al generaties een klassieker in de Zuid-Thaise keuken en weerspiegelt de unieke culinaire tradities en lokale ingrediënten van de regio.",
+        "cultural_importance": "Dit dessert vertegenwoordigt de essentie van Zuid-Thaise kookkunst en toont de balans en harmonie waarvoor Thaise keuken wereldwijd bekendstaat.",
+        "traditional_occasions": [
+          "Familiebijeenkomsten",
+          "Lokale festivals",
+          "Straatvoedselmarkten",
+          "Speciale gelegenheden"
+        ]
+      },
+      "variations": [
+        {
+          "name": "经典Bua Loy",
+          "description": "De traditionele versie zoals geserveerd in lokale families"
+        },
+        {
+          "name": "现代Bua Loy",
+          "description": "Moderne interpretatie met premium ingrediënten"
+        },
+        {
+          "name": "素食Bua Loy",
+          "description": "Plantaardige versie, inherent vegetarisch"
+        }
+      ],
+      "serving_suggestions": {
+        "traditional_accompaniments": [
+          "Warm genuttigd",
+          "Verse kokosmelk",
+          "Pandanblad als versiering"
+        ],
+        "presentation": "Geserveerd in een kom in traditionele Thaise stijl",
+        "eating_etiquette": "Genuttigd met een lepel als warm dessert volgens Thaise gewoonte"
+      },
+      "where_to_find": {
+        "best_restaurants": [
+          "Lokale Zuid-Thaise restaurants",
+          "Authentieke straatsnacks",
+          "Traditionele markten",
+          "Familiegerunde eetgelegenheden"
+        ],
+        "street_food_areas": [
+          "Nachtmarkten",
+          "Ochtendmarkten",
+          "Lokale foodcourts"
+        ]
+      },
+      "translated_at": "2026-03-11T00:00:00.000Z"
+    },
+    "ru": {
+      "enhanced_description": "Bua Loy is een geliefd, verrukkelijk zoet gerecht uit Zuid-Thailand, mild voor de smaakpapillen. Balletjes van rijstmeel in zoete kokosmelk. Dit eenvoudige recept duurt circa 30 minuten en belichaamt de authentieke smaken van de Zuid-Thaise keuken met rijke kruiden, zeevruchten en kokoscurries. De combinatie van rijstmeel, kokosmelk en palmsuiker creëert harmonie, favoriet bij locals en gasten. Perfect voor betaalbare authentieke Thaise keuken.",
+      "detailed_ingredients": [
+        {
+          "name": "Рисовая мука",
+          "purpose": "Belangrijk ingrediënt voor authentieke Bua Loy-smaak",
+          "substitutes": [
+            "Verse rijstmeel",
+            "Gedroogde rijstmeel",
+            "Rijstmeelpasta"
+          ]
+        },
+        {
+          "name": "Кокосовое молоко",
+          "purpose": "Belangrijk ingrediënt voor authentieke Bua Loy-smaak",
+          "substitutes": [
+            "Verse kokosmelk",
+            "Gedroogde kokosmelk",
+            "Kokosmelkpasta"
+          ]
+        },
+        {
+          "name": "Пальмовый сахар",
+          "purpose": "Belangrijk ingrediënt voor authentieke Bua Loy-smaak",
+          "substitutes": [
+            "Verse palmsuiker",
+            "Gedroogde palmsuiker",
+            "Palmsuikerpasta"
+          ]
+        },
+        {
+          "name": "Соль",
+          "purpose": "Belangrijk ingrediënt voor authentieke Bua Loy-smaak",
+          "substitutes": [
+            "Verse zout",
+            "Gedroogd zout",
+            "Zoutpasta"
+          ]
+        }
+      ],
+      "cooking_method": {
+        "technique": "Traditionele bereiding",
+        "steps_overview": "Het bereiden van Bua Loy vereist aandacht voor details en juiste timing. De sleutel is het balanceren van smaken terwijl de textuur van elk ingrediënt behouden blijft. Traditionele methoden, doorgegeven over generaties, zorgen voor authentieke smaak.",
+        "cooking_tips": [
+          "Gebruik verse rijstmeel voor het beste resultaat",
+          "Pas de zoetheid aan naar smaak",
+          "Niet te lang koken om textuur te behouden",
+          "Proef en corrigeer kruiden voor serveren"
+        ]
+      },
+      "cultural_significance": {
+        "origin_story": "Bua Loy is al generaties een basis van de Zuid-Thaise keuken en weerspiegelt de unieke culinaire tradities en lokale ingrediënten van de regio.",
+        "cultural_importance": "Dit gerecht belichaamt het hart van de Zuid-Thaise culinaire kunst en toont de balans en harmonie waarvoor de Thaise keuken wereldwijd beroemd is.",
+        "traditional_occasions": [
+          "Familiediners",
+          "Lokale festivals",
+          "Straatvoedselmarkten",
+          "Speciale vieringen"
+        ]
+      },
+      "variations": [
+        {
+          "name": "Буа Лой классический",
+          "description": "Traditionele versie zoals geserveerd in lokale huizen"
+        },
+        {
+          "name": "Буа Лой современный",
+          "description": "Moderne interpretatie met premium ingrediënten"
+        },
+        {
+          "name": "Вегетарианский Буа Лой",
+          "description": "Plantaardige versie met tofu of paddenstoelen"
+        }
+      ],
+      "serving_suggestions": {
+        "traditional_accompaniments": [
+          "Jasmijnrijst",
+          "Verse groenten",
+          "Thaise kruiden"
+        ],
+        "presentation": "Geserveerd in een kom in traditionele Thaise stijl",
+        "eating_etiquette": "Genuttigd met een lepel als warm dessert volgens Thaise traditie"
+      },
+      "where_to_find": {
+        "best_restaurants": [
+          "Lokale Zuid-Thaise restaurants",
+          "Authentieke straatkraampjes",
+          "Traditionele markten",
+          "Familie-eetcafés"
+        ],
+        "street_food_areas": [
+          "Nachtmarkten",
+          "Verse ochtendmarkten",
+          "Lokale foodcourts"
+        ]
+      },
+      "translated_at": "2026-03-11T00:00:00.000Z"
+    },
+    "ko": {
+      "enhanced_description": "Bua Loy is een populair dessert uit Zuid-Thailand met een zachte, zoete smaak. Kleurrijke balletjes van rijstmeel gekookt in zoete kokosmelk, een warm dessert. Dit eenvoudige recept is in ongeveer 30 minuten klaar en vangt de authentieke smaken van de Zuid-Thaise keuken. De mix van rijstmeel, kokosmelk en palmsuiker creëert harmonie, geliefd bij locals en toeristen. Perfect voor betaalbare authentieke Thaise desserts.",
+      "detailed_ingredients": [
+        {
+          "name": "쌀가루 (찹쌀가루)",
+          "purpose": "Kern-ingrediënt voor de chewy textuur van de balletjes",
+          "substitutes": [
+            "Kleefrijstmeel",
+            "Gewone rijstmeel",
+            "Tapiocazetmeel mengsel"
+          ]
+        },
+        {
+          "name": "코코넛 밀크",
+          "purpose": "Zoete en nootachtige basisbouillon",
+          "substitutes": [
+            "Verse kokosmelk",
+            "Kokoscrème",
+            "Kokosmelkpoeder"
+          ]
+        },
+        {
+          "name": "야자설탕",
+          "purpose": "Natuurlijke zoetstof die diepe en subtiele zoetheid toevoegt",
+          "substitutes": [
+            "Kokossuiker",
+            "Bruine suiker",
+            "Gele suiker"
+          ]
+        },
+        {
+          "name": "소금",
+          "purpose": "Rol die de zoetheid in balans houdt",
+          "substitutes": [
+            "Zegezout",
+            "Zegezout",
+            "Himalayazout"
+          ]
+        }
+      ],
+      "cooking_method": {
+        "technique": "Traditioneel recept",
+        "steps_overview": "Om bua loy te maken is zorgvuldige aandacht en de juiste timing nodig. Meng rijstmeel met natuurlijke kleurstoffen (pandanbladeren, vlindererwtenbloemen, pompoen enz.) om kleurrijke balletjes te vormen, kook ze in kokend water tot ze drijven en schep ze eruit. Kook kokosmelk op smaak met palmsuiker en zout, voeg de balletjes toe en het is klaar.",
+        "cooking_tips": [
+          "Gebruik kleefrijstmeel voor een chewier textuur",
+          "Schep de balletjes eruit zodra ze drijven, want dan zijn ze gaar",
+          "Kook de kokosmelk niet te lang, anders scheidt hij",
+          "Pandanbladeren voegen een heerlijk aroma toe"
+        ]
+      },
+      "cultural_significance": {
+        "origin_story": "Bua loy is een traditioneel dessert uit de Thaise zuidkust dat de culinaire tradities voortzet; 'bua' betekent lotusbloem en 'loy' betekent drijven, een naam die verwijst naar de balletjes die als lotussen op de kokosmelk drijven.",
+        "cultural_importance": "Dit dessert vertegenwoordigt de huiselijke smaken van de Thaise keuken en is vooral in de winter en tijdens feesten een warme snack die families samenbrengt. Het symboliseert de balans en harmonie van de Thaise keuken.",
+        "traditional_occasions": [
+          "Familiebijeenkomsten",
+          "Loy Krathong-festival",
+          "Oud en Nieuw",
+          "Tempelactiviteiten"
+        ]
+      },
+      "variations": [
+        {
+          "name": "부아로이 팍쪽 (호박 부아로이)",
+          "description": "Traditionele variant met pompoen voor gele balletjes, met een natuurlijke zoetheid als kenmerk."
+        },
+        {
+          "name": "부아로이 카이완 (메추리알 부아로이)",
+          "description": "Variant met gekookte kwartel-eieren in plaats van balletjes, voor een unieke zoet-zoute combinatie."
+        },
+        {
+          "name": "부아로이 타로",
+          "description": "Moderne variant met taro (taro-wortel) voor paarse balletjes."
+        }
+      ],
+      "serving_suggestions": {
+        "traditional_accompaniments": [
+          "Warm serveren",
+          "Extra kokoscrème",
+          "Pandanblad garnering"
+        ],
+        "presentation": "Serveren in traditionele Thaise kommen, warm",
+        "eating_etiquette": "Volgens Thaise gewoonten genieten met een lepel als warm dessert"
+      },
+      "where_to_find": {
+        "best_restaurants": [
+          "Lokale zuidelijke Thaise restaurants",
+          "Traditionele dessertwinkels",
+          "Nachtmarkt dessertkraampjes",
+          "Kraampjes rond tempels"
+        ],
+        "street_food_areas": [
+          "Nachtmarkten",
+          "Ochtendmarkten",
+          "Lokale foodcourts"
+        ],
+        "price_ranges": {
+          "street_vendor": "30-50 THB",
+          "market_stall": "40-60 THB",
+          "restaurant": "60-100 THB"
+        }
+      },
+      "translated_at": "2026-03-14T00:00:00.000Z"
+    },
+    "th": {
+      "enhanced_description": "Bua loy is een oud Thais dessert gemaakt van kleefrijstmeel dat tot kleurrijke ronde balletjes wordt gevormd en drijft in warme zoete kokosmelk. De smaak is zacht zoet en romig, en het is een populair dessert bij Thaise vieringen en festivals.",
+      "detailed_ingredients": [
+        {
+          "name": "Rice flour",
+          "purpose": "Essentieel voor de authentieke smaak van Bua Loy",
+          "substitutes": [
+            "Verse rijstmeel",
+            "Gedroogd rijstmeel",
+            "Rijstmeelpasta"
+          ]
+        },
+        {
+          "name": "Coconut milk",
+          "purpose": "Essentieel voor de authentieke smaak van Bua Loy",
+          "substitutes": [
+            "Verse kokosmelk",
+            "Gedroogde kokosmelk",
+            "Kokosmelkpasta"
+          ]
+        },
+        {
+          "name": "Palm sugar",
+          "purpose": "Essentieel voor de authentieke smaak van Bua Loy",
+          "substitutes": [
+            "Verse palmsuiker",
+            "Gedroogde palmsuiker",
+            "Palmsuikerpasta"
+          ]
+        },
+        {
+          "name": "Salt",
+          "purpose": "Essentieel voor de authentieke smaak van Bua Loy",
+          "substitutes": [
+            "Vers zout",
+            "Gedroogd zout",
+            "Zoutpasta"
+          ]
+        }
+      ],
+      "cooking_method": {
+        "technique": "Traditionele bereiding",
+        "steps_overview": "De bereiding van Bua Loy vereist aandacht voor details en de juiste timing. Het is belangrijk om alle smaken in balans te houden terwijl de textuur van elke ingrediënt behouden blijft. De traditionele methode, doorgegeven door generaties, garandeert de authentieke smaak.",
+        "cooking_tips": [
+          "Gebruik verse rijstmeel voor het beste resultaat",
+          "Pas de pittigheid aan naar smaak",
+          "Kook niet te lang om de textuur te behouden",
+          "Proef en breng op smaak voor het serveren"
+        ]
+      },
+      "cultural_significance": {
+        "origin_story": "Dit gerecht is al generaties lang deel van de zuidelijke Thaise voedselcultuur en weerspiegelt de unieke kooktradities en lokale ingrediënten van de regio.",
+        "cultural_importance": "Dit gerecht is het hart van de zuidelijke Thaise keuken en toont de balans en harmonie waar de Thaise keuken wereldwijd om bekendstaat.",
+        "traditional_occasions": [
+          "Familiebijeenkomsten",
+          "Lokale festivals",
+          "Straatvoedselmarkten",
+          "Speciale vieringen"
+        ]
+      },
+      "variations": [
+        {
+          "name": "Bua Loy Classic",
+          "description": "Traditionele versie geserveerd in lokale huizen"
+        },
+        {
+          "name": "Bua Loy Modern",
+          "description": "Moderne versie met premium ingrediënten"
+        },
+        {
+          "name": "Vegetarian Bua Loy",
+          "description": "Vegetarische versie met tofu of paddenstoelen"
+        }
+      ],
+      "serving_suggestions": {
+        "traditional_accompaniments": [
+          "Jasmijnrijst",
+          "Verse groenten",
+          "Thaise kruiden"
+        ],
+        "presentation": "Serveren op traditionele Thaise borden",
+        "eating_etiquette": "Eten met lepel en vork volgens Thaise traditie"
+      },
+      "where_to_find": {
+        "best_restaurants": [
+          "Lokale zuidelijke restaurants",
+          "Authentieke straatkraampjes",
+          "Traditionele markten",
+          "Familierestaurants"
+        ],
+        "street_food_areas": [
+          "Nachtmarkten",
+          "Ochtendmarkten",
+          "Lokale foodcourts"
+        ],
+        "price_ranges": {
+          "street_vendor": "30-50 THB",
+          "market_stall": "40-60 THB",
+          "restaurant": "60-100 THB"
+        }
+      },
+      "translated_at": "2026-03-14T00:00:00.000Z"
+    },
+    "ja": {
+      "enhanced_description": "Bua Loy is een geliefd dessert uit Zuid-Thailand, met een zachte textuur en perfect als afsluiter. Rijstmeelballetjes drijven in zoete kokosmelk. Bereiding duurt ongeveer 30 minuten en belichaamt de authentieke smaken van Zuid-Thaise keuken. Zuidelijke gerechten staan bekend om kruiden, zeevruchten en kokos in curries, maar dit dessert biedt milde zoetheid en unieke textuur. De combinatie van rijstmeel, kokosmelk en palmsuiker creëert harmonie, geliefd bij locals en toeristen. Ideaal voor wie betaalbare authentieke Thaise gerechten zoekt.",
+      "detailed_ingredients": [
+        {
+          "name": "米粉",
+          "purpose": "Onmisbaar voor de authentieke smaak van Bua Loy",
+          "substitutes": [
+            "Verse rijstmeel",
+            "Gedroogde rijstmeel",
+            "Rijstmeelpasta"
+          ]
+        },
+        {
+          "name": "ココナッツミルク",
+          "purpose": "Onmisbaar voor de authentieke smaak van Bua Loy",
+          "substitutes": [
+            "Verse kokosmelk",
+            "Gedroogde kokosmelk",
+            "Kokosmelkpasta"
+          ]
+        },
+        {
+          "name": "パームシュガー",
+          "purpose": "Onmisbaar voor de authentieke smaak van Bua Loy",
+          "substitutes": [
+            "Verse palmsuiker",
+            "Gedroogde palmsuiker",
+            "Palmsuikerpasta"
+          ]
+        },
+        {
+          "name": "塩",
+          "purpose": "Onmisbaar voor de authentieke smaak van Bua Loy",
+          "substitutes": [
+            "Vers zout",
+            "Gedroogd zout",
+            "Zoutpasta"
+          ]
+        }
+      ],
+      "cooking_method": {
+        "technique": "Traditionele kookmethode",
+        "steps_overview": "De bereiding van Bua Loy vereist aandacht voor details en juiste timing. Het in balans brengen van alle smaken terwijl de textuur van elk ingrediënt behouden blijft, is de sleutel. De traditionele methode, doorgegeven door generaties, garandeert de authentieke smaak.",
+        "cooking_tips": [
+          "Gebruik verse rijstmeel voor het beste resultaat",
+          "Pas de hoeveelheid kruiden aan naar smaak",
+          "Kook niet te lang om de textuur te behouden",
+          "Proef en pas de smaak aan voor het serveren"
+        ]
+      },
+      "cultural_significance": {
+        "origin_story": "Bua Loy is al lang een vast gerecht in de Zuid-Thaise keuken en weerspiegelt de unieke kooktradities en lokale ingrediënten van de regio.",
+        "cultural_importance": "Dit gerecht vertegenwoordigt het hart van de Thaise keuken en toont de wereldberoemde balans en harmonie.",
+        "traditional_occasions": [
+          "Familiebijeenkomsten",
+          "Lokale festivals",
+          "Kraampjesmarkten",
+          "Speciale banketten"
+        ]
+      },
+      "variations": [
+        {
+          "name": "Bua Loy Classic",
+          "description": "Traditionele versie geserveerd in lokale huizen"
+        },
+        {
+          "name": "Bua Loy Modern",
+          "description": "Moderne versie met premium ingrediënten"
+        },
+        {
+          "name": "Vegetarian Bua Loy",
+          "description": "Plantaardige versie met tofu of paddenstoelen"
+        }
+      ],
+      "serving_suggestions": {
+        "traditional_accompaniments": [
+          "Jasmijnrijst",
+          "Verse groenten",
+          "Thaise kruiden"
+        ],
+        "presentation": "Serveren op traditionele Thaise wijze in borden",
+        "eating_etiquette": "Eten met vork en lepel volgens Thaise gewoonten"
+      },
+      "where_to_find": {
+        "best_restaurants": [
+          "Lokale Zuid-Thaise restaurants",
+          "Authentieke kraampjes",
+          "Traditionele markten",
+          "Familiegerunde eetgelegenheden"
+        ],
+        "street_food_areas": [
+          "Nachtmarkten",
+          "Ochtendmarkten",
+          "Lokale foodcourts"
+        ],
+        "price_ranges": {
+          "street_vendor": "30-50 THB",
+          "market_stall": "40-60 THB",
+          "restaurant": "60-100 THB"
+        }
+      },
+      "translated_at": "2026-03-14T00:00:00.000Z"
+    }
+  }
+}
