@@ -98,7 +98,7 @@ export default async function handler(
         for (const locale of localesToTranslate) {
           try {
             console.log(`[cron/translate] Translating to ${locale}...`);
-            const result = await translatePost(post, locale, "claude-haiku");
+            const result = await translatePost(post, locale, "grok-translator");
 
             filesToCommit.push({
               path: `content/blog/${locale}/${slug}.md`,

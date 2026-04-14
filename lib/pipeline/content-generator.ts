@@ -310,7 +310,7 @@ export async function selectTopic(
 export async function generateBlogPost(
   options: BlogPostOptions = {}
 ): Promise<GeneratedPost> {
-  const model = options.model || "claude-haiku";
+  const model = options.model || "grok-writer";
   const doScrape = options.scrapeContext !== false;
   const doImage = options.generateImage !== false;
 
