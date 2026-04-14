@@ -17,6 +17,10 @@
       "schedule": "0 7 * * 5"
     },
     {
+      "path": "/api/cron/generate-news/",
+      "schedule": "30 7 * * *"
+    },
+    {
       "path": "/api/cron/generate-food-blog/",
       "schedule": "0 9 * * 1"
     },
