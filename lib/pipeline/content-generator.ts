@@ -1,6 +1,7 @@
 import { generateContent, type AiModel } from "./ai-provider";
 import { generateBlogImage } from "./image-generator";
 import { scrapeTopicContext } from "./scraper";
+import { getSeasonalHook } from "./seasonal-context";
 import fs from "fs";
 import path from "path";
 
@@ -631,6 +632,15 @@ function buildPrompt(
       "Write a comprehensive island guide or comparison. Cover beaches, activities, accommodation options, how to get there, and who each island suits best.",
   };
 
+  const seasonal = getSeasonalHook();
+  const seasonalContext = `\nSEASONAL CONTEXT (use this to ground the article in the actual current moment — but never force a seasonal hook into a topic where it doesn't belong):
+- Current month: ${seasonal.monthEn}
+- Season in Thailand: ${seasonal.seasonEn}
+- Weather in plain English: ${seasonal.weatherSummary.replace('Het is nu', 'It is now').replace(/\b(maart|april|mei|juni|juli|augustus|september|oktober|november|december|januari|februari)\b/g, seasonal.monthEn)}
+- Relevant events / hooks for the next ~60 days:
+${seasonal.upcomingEvents.replace(/\(volgende maand\)/g, '(next month)').replace(/\(([a-z]+)\)/g, `(${seasonal.monthEn})`)}
+\n`;
+
   const contextSection: string = scrapeData
     ? `\nREFERENCE DATA — THIS IS YOUR PRIMARY SOURCE OF TRUTH:
 Use ONLY the facts, prices, statistics, and details from the data below. If a fact is NOT in this reference data, do NOT include it — leave it out rather than guess.
@@ -838,7 +848,7 @@ STATISTICS & NUMBERS FACT-CHECK (MANDATORY — apply to EVERY number you write):
 
 TARGET LENGTH: 2500-3500 words of body content (excluding frontmatter). Longer posts rank better — aim for comprehensive coverage.
 TONE: Knowledgeable, warm, practical — like advice from a well-traveled friend who knows Thailand deeply. Avoid generic AI-sounding phrases like "Whether you're a budget backpacker or luxury traveler" or "Thailand has something for everyone". Be specific and opinionated.
-${contextSection}
+${seasonalContext}${contextSection}
 
 RESPOND WITH THE COMPLETE BLOG POST — frontmatter + Markdown body only. No preamble, no explanation.`;
 }
