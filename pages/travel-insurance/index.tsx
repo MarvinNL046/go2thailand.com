@@ -301,9 +301,14 @@ export default function TravelInsurancePage() {
                   {isNl ? 'Ga naar Vergelijking' : 'Jump to Comparison'}
                 </a>
                 <AffiliateButton href={EKTA_LINK}>{isNl ? 'Vraag een Offerte Aan bij Ekta' : 'Get a Quote from Ekta'}</AffiliateButton>
-                <AffiliateButton href={SAFETYWING_LINK} variant="secondary">
+                <a
+                  href={SAFETYWING_LINK}
+                  target="_blank"
+                  rel="noopener noreferrer nofollow sponsored"
+                  className="inline-flex items-center justify-center rounded-full border-2 border-white bg-transparent px-6 py-3 text-sm font-semibold text-white transition-colors hover:bg-white hover:text-thailand-blue"
+                >
                   {isNl ? 'Vraag een Offerte Aan bij SafetyWing' : 'Get a Quote from SafetyWing'}
-                </AffiliateButton>
+                </a>
               </div>
               <p className="mt-5 text-sm text-blue-100">
                 {isNl
