@@ -22,6 +22,7 @@ import fs from 'fs';
 import path from 'path';
 import { generateContent } from './ai-provider';
 import { scrapeUrl, scrapeTravelNews } from './scraper';
+import { getGoogleNews } from './serpapi';
 
 // -------------------------------------------------------------------
 // Sources we poll for fresh Thailand news.
@@ -198,6 +199,34 @@ export async function harvestCandidates(): Promise<NewsCandidate[]> {
   const existing = existingNewsTitles();
   const candidates: NewsCandidate[] = [];
 
+  // PRIMARY: Google News via SerpAPI (one query, ~20 fresh headlines from
+  // many sources — much higher signal than scraping HTML pages and
+  // counts as 1 SerpAPI call against our 250/month budget).
+  if (process.env.SERPAPI_KEY) {
+    try {
+      const articles = await getGoogleNews('Thailand', { hl: 'en', gl: 'us' });
+      for (const a of articles.slice(0, 12)) {
+        if (!a.title || !a.link) continue;
+        if (fuzzyMatchExisting(a.title, existing)) continue;
+        // We still scrape the actual story page to give Grok a reference
+        // body — Google News only returns title + snippet.
+        let body = '';
+        try { body = await scrapeUrl(a.link); } catch { /* fall back to snippet only */ }
+        candidates.push({
+          rawTitle: a.title,
+          sourceUrl: a.link,
+          sourceName: a.source?.name || new URL(a.link).hostname,
+          sourceContent: (body || a.snippet || '').slice(0, 6000),
+        });
+      }
+    } catch (err) {
+      console.warn('[news-generator] Google News (SerpAPI) failed, falling back to HTML scrape:', err);
+    }
+  }
+
+  if (candidates.length > 0) return candidates;
+
+  // FALLBACK: scrape source pages directly when SerpAPI is unavailable.
   for (const sourceUrl of NEWS_SOURCES) {
     try {
       const content = await scrapeUrl(sourceUrl);
