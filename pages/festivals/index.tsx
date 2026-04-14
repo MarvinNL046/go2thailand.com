@@ -3,6 +3,8 @@ import { useRouter } from 'next/router';
 import Link from 'next/link';
 import SEOHead from '../../components/SEOHead';
 import Breadcrumbs from '../../components/Breadcrumbs';
+import { useT } from '../../lib/i18n';
+import { strings as i18nStrings } from '../../lib/i18n/festivals-index';
 
 interface Festival {
   name: string;
@@ -147,6 +149,7 @@ const typeColors: Record<Festival['type'], string> = {
 };
 
 export default function FestivalsPage() {
+  const t = useT(i18nStrings);
   const { locale } = useRouter();
   const isNl = locale === 'nl';
 
@@ -163,7 +166,7 @@ export default function FestivalsPage() {
   return (
     <>
       <SEOHead
-        title="Thailand Festivals 2026: Complete Calendar & Guide to Every Major Celebration"
+        title={t("s001_thailand_festivals_2026_complete")}
         description="Plan your trip around Thailand's best festivals in 2026 — Songkran, Loi Krathong, Yi Peng, Phi Ta Khon, Vegetarian Festival, and more. Dates, locations, and insider tips."
       />
 
@@ -223,7 +226,7 @@ export default function FestivalsPage() {
 
         {/* The Big Three */}
         <section className="mb-16">
-          <h2 className="text-3xl font-bold font-heading mb-2">The Big Three: Festivals Every Visitor Should See</h2>
+          <h2 className="text-3xl font-bold font-heading mb-2">{t("s002_the_big_three_festivals")}</h2>
           <p className="text-gray-600 mb-8 max-w-2xl">
             If you can only plan your trip around one festival, make it one of these. They're the most
             visually spectacular, most accessible, and most culturally significant celebrations in the country.
@@ -260,7 +263,7 @@ export default function FestivalsPage() {
 
         {/* Month by month */}
         <section className="mb-16">
-          <h2 className="text-3xl font-bold font-heading mb-2">Month-by-Month Festival Calendar</h2>
+          <h2 className="text-3xl font-bold font-heading mb-2">{t("s003_month_by_month_festival")}</h2>
           <p className="text-gray-600 mb-8 max-w-2xl">
             Plan your Thailand trip around the festivals that interest you most.
             Each month has something worth seeing.
@@ -310,10 +313,10 @@ export default function FestivalsPage() {
 
         {/* Practical tips */}
         <section className="bg-white rounded-2xl shadow-md p-6 sm:p-8 mb-12">
-          <h2 className="text-2xl font-bold font-heading mb-4">Practical Tips for Festival Travel</h2>
+          <h2 className="text-2xl font-bold font-heading mb-4">{t("s004_practical_tips_for_festival")}</h2>
           <div className="grid gap-6 md:grid-cols-2">
             <div>
-              <h3 className="font-bold text-gray-900 mb-2">Book Early</h3>
+              <h3 className="font-bold text-gray-900 mb-2">{t("s005_book_early")}</h3>
               <p className="text-sm text-gray-600 leading-relaxed">
                 Accommodation near major festivals books out weeks in advance. Songkran in Chiang Mai,
                 Yi Peng, and Vegetarian Festival in Phuket are especially competitive. Book at least
@@ -321,14 +324,14 @@ export default function FestivalsPage() {
               </p>
             </div>
             <div>
-              <h3 className="font-bold text-gray-900 mb-2">Alcohol Bans</h3>
+              <h3 className="font-bold text-gray-900 mb-2">{t("s006_alcohol_bans")}</h3>
               <p className="text-sm text-gray-600 leading-relaxed">
                 Buddhist holy days (Makha Bucha, Visakha Bucha, Asanha Bucha) have nationwide
                 alcohol sales bans. Bars and restaurants won't serve alcohol. Stock up the day before if needed.
               </p>
             </div>
             <div>
-              <h3 className="font-bold text-gray-900 mb-2">Temple Etiquette</h3>
+              <h3 className="font-bold text-gray-900 mb-2">{t("s007_temple_etiquette")}</h3>
               <p className="text-sm text-gray-600 leading-relaxed">
                 Cover shoulders and knees at temples. Remove shoes before entering buildings.
                 Don't point your feet at Buddha images. Dress respectfully — this is especially
@@ -336,7 +339,7 @@ export default function FestivalsPage() {
               </p>
             </div>
             <div>
-              <h3 className="font-bold text-gray-900 mb-2">Transport Chaos</h3>
+              <h3 className="font-bold text-gray-900 mb-2">{t("s008_transport_chaos")}</h3>
               <p className="text-sm text-gray-600 leading-relaxed">
                 Major festivals cause massive traffic. Songkran week sees millions travel between
                 Bangkok and their home provinces. Book <Link href="/transport" className="text-blue-600 hover:underline">buses and trains</Link> early,
@@ -348,7 +351,7 @@ export default function FestivalsPage() {
 
         {/* Related reading */}
         <section className="bg-gray-50 rounded-2xl p-6 sm:p-8 mb-12">
-          <h2 className="text-2xl font-bold font-heading mb-4">Related Reading</h2>
+          <h2 className="text-2xl font-bold font-heading mb-4">{t("s009_related_reading")}</h2>
           <div className="grid gap-3 sm:grid-cols-2">
             {[
               { title: 'Songkran 2026 Survival Guide', slug: 'songkran-2026-survival-guide-what-to-know' },

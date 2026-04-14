@@ -1,3 +1,5 @@
+import { useT } from '../lib/i18n';
+import { strings as i18nStrings } from '../lib/i18n/components-sharebuttons';
 import { useCallback } from 'react';
 import { useRouter } from 'next/router';
 import { useToast } from './Toast';
@@ -10,6 +12,7 @@ interface ShareButtonsProps {
 }
 
 export default function ShareButtons({ url, title, description, image }: ShareButtonsProps) {
+  const t = useT(i18nStrings);
   const toast = useToast();
 
   const encodedUrl = encodeURIComponent(url);
@@ -57,7 +60,7 @@ export default function ShareButtons({ url, title, description, image }: ShareBu
           target="_blank"
           rel="noopener noreferrer"
           className={`${buttonBase} bg-[#E60023] text-white hover:bg-[#c7001f]`}
-          aria-label="Share on Pinterest"
+          aria-label={t("s001_share_on_pinterest")}
         >
           <PinterestIcon />
           <span>Pin it</span>
@@ -69,7 +72,7 @@ export default function ShareButtons({ url, title, description, image }: ShareBu
           target="_blank"
           rel="noopener noreferrer"
           className={`${buttonBase} bg-[#1877F2] text-white hover:bg-[#1466d6]`}
-          aria-label="Share on Facebook"
+          aria-label={t("s002_share_on_facebook")}
         >
           <FacebookIcon />
           <span>Share</span>
@@ -81,7 +84,7 @@ export default function ShareButtons({ url, title, description, image }: ShareBu
           target="_blank"
           rel="noopener noreferrer"
           className={`${buttonBase} bg-black text-white hover:bg-gray-800`}
-          aria-label="Share on X"
+          aria-label={t("s003_share_on_x")}
         >
           <XIcon />
           <span>Post</span>
@@ -93,7 +96,7 @@ export default function ShareButtons({ url, title, description, image }: ShareBu
           target="_blank"
           rel="noopener noreferrer"
           className={`${buttonBase} bg-[#25D366] text-white hover:bg-[#1fba59]`}
-          aria-label="Share on WhatsApp"
+          aria-label={t("s004_share_on_whatsapp")}
         >
           <WhatsAppIcon />
           <span>Send</span>
@@ -103,10 +106,10 @@ export default function ShareButtons({ url, title, description, image }: ShareBu
         <button
           onClick={handleCopyLink}
           className={`${buttonBase} bg-gray-100 text-gray-700 border border-gray-200 hover:bg-gray-200`}
-          aria-label="Copy link"
+          aria-label={t("s005_copy_link")}
         >
           <LinkIcon />
-          <span>Copy link</span>
+          <span>{t("s005_copy_link")}</span>
         </button>
       </div>
 
@@ -118,7 +121,7 @@ export default function ShareButtons({ url, title, description, image }: ShareBu
             target="_blank"
             rel="noopener noreferrer"
             className="flex-1 flex flex-col items-center justify-center gap-1 py-3 text-[#E60023] active:bg-red-50 transition-colors"
-            aria-label="Share on Pinterest"
+            aria-label={t("s001_share_on_pinterest")}
           >
             <PinterestIcon />
             <span className="text-[10px] font-medium">Pin</span>
@@ -129,7 +132,7 @@ export default function ShareButtons({ url, title, description, image }: ShareBu
             target="_blank"
             rel="noopener noreferrer"
             className="flex-1 flex flex-col items-center justify-center gap-1 py-3 text-[#1877F2] active:bg-blue-50 transition-colors"
-            aria-label="Share on Facebook"
+            aria-label={t("s002_share_on_facebook")}
           >
             <FacebookIcon />
             <span className="text-[10px] font-medium">Share</span>
@@ -140,7 +143,7 @@ export default function ShareButtons({ url, title, description, image }: ShareBu
             target="_blank"
             rel="noopener noreferrer"
             className="flex-1 flex flex-col items-center justify-center gap-1 py-3 text-black active:bg-gray-100 transition-colors"
-            aria-label="Share on X"
+            aria-label={t("s003_share_on_x")}
           >
             <XIcon />
             <span className="text-[10px] font-medium">Post</span>
@@ -151,7 +154,7 @@ export default function ShareButtons({ url, title, description, image }: ShareBu
             target="_blank"
             rel="noopener noreferrer"
             className="flex-1 flex flex-col items-center justify-center gap-1 py-3 text-[#25D366] active:bg-green-50 transition-colors"
-            aria-label="Share on WhatsApp"
+            aria-label={t("s004_share_on_whatsapp")}
           >
             <WhatsAppIcon />
             <span className="text-[10px] font-medium">Send</span>
@@ -160,7 +163,7 @@ export default function ShareButtons({ url, title, description, image }: ShareBu
           <button
             onClick={handleCopyLink}
             className="flex-1 flex flex-col items-center justify-center gap-1 py-3 text-gray-600 active:bg-gray-100 transition-colors"
-            aria-label="Copy link"
+            aria-label={t("s005_copy_link")}
           >
             <LinkIcon />
             <span className="text-[10px] font-medium">Link</span>

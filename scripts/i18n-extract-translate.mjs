@@ -65,14 +65,23 @@ if (/useTranslation\s*\(/.test(preCheck)
   process.exit(0);
 }
 
-// Derive slug (for lib/i18n/<slug>.ts)
-const relToPages = path.relative(path.join(ROOT, 'pages'), filePath);
-const slug = SLUG_OVERRIDE || relToPages
-  .replace(/\.(tsx|jsx|ts|js)$/, '')
-  .replace(/\[|\]/g, '')
-  .replace(/\//g, '-')
-  .replace(/^-+|-+$/g, '')
-  .toLowerCase() || path.basename(filePath, path.extname(filePath));
+// Derive slug (for lib/i18n/<slug>.ts).
+// For pages/: strip the pages/ prefix.
+// For components/: prefix slug with "components-" for readability.
+const relFromRoot = path.relative(ROOT, filePath);
+let slug;
+if (SLUG_OVERRIDE) {
+  slug = SLUG_OVERRIDE;
+} else {
+  slug = relFromRoot
+    .replace(/\.(tsx|jsx|ts|js)$/, '')
+    .replace(/\[|\]/g, '')
+    .replace(/\//g, '-')
+    .replace(/^-+|-+$/g, '')
+    .toLowerCase();
+  if (slug.startsWith('pages-')) slug = slug.slice('pages-'.length);
+}
+slug = slug || path.basename(filePath, path.extname(filePath));
 
 const i18nFile = path.join(ROOT, 'lib/i18n', `${slug}.ts`);
 

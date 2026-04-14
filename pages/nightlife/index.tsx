@@ -2,6 +2,8 @@ import Link from 'next/link';
 import { useRouter } from 'next/router';
 import SEOHead from '../../components/SEOHead';
 import Breadcrumbs from '../../components/Breadcrumbs';
+import { useT } from '../../lib/i18n';
+import { strings as i18nStrings } from '../../lib/i18n/nightlife-index';
 
 const CITIES = [
   { slug: 'bangkok', name: 'Bangkok', tagline: 'Rooftop bars, mega-clubs, and Khao San Road', desc: 'Thailand\'s capital is the undisputed nightlife capital of Southeast Asia. From sky-high rooftop cocktails above the city skyline to the legendary neon corridors of Nana Plaza, Soi Cowboy, and Patpong, Bangkok offers every style of night out imaginable. Sukhumvit hosts international-standard clubs while Silom draws a mixed crowd of locals and travellers. Expect bar entry from 9pm and clubs running until 2am (or later on weekends).' },
@@ -57,6 +59,7 @@ const SAFETY_TIPS = [
 ];
 
 export default function NightlifeIndex() {
+  const t = useT(i18nStrings);
   const { locale } = useRouter();
   const isNl = locale === 'nl';
 
@@ -68,8 +71,8 @@ export default function NightlifeIndex() {
   return (
     <>
       <SEOHead
-        title="Thailand Nightlife Guide 2026 — Best Bars & Clubs by City"
-        description="Explore the best nightlife in Thailand. City-by-city guides covering bars, clubs, rooftop lounges, and late-night spots with real drink prices for 2026."
+        title={t("s001_thailand_nightlife_guide_2026")}
+        description={t("s002_explore_the_best_nightlife")}
       />
 
       <div className="bg-surface-cream min-h-screen">
@@ -93,7 +96,7 @@ export default function NightlifeIndex() {
         <section className="section-padding bg-white">
           <div className="container-custom">
             <div className="max-w-3xl mx-auto prose prose-lg text-gray-700">
-              <h2 className="text-3xl font-bold font-heading text-gray-900 mb-6">Thailand's Nightlife Culture: What to Expect</h2>
+              <h2 className="text-3xl font-bold font-heading text-gray-900 mb-6">{t("s003_thailand_s_nightlife_culture")}</h2>
               <p className="mb-4">
                 Thailand's nightlife is one of the most diverse and misunderstood in the world. Most first-time visitors arrive with preconceptions shaped by films and sensational headlines — but the reality is a country with a rich, layered evening culture that spans everything from open-air night markets serving pad thai by candlelight, to world-class rooftop bars rivalling those in New York or Singapore, to internationally renowned beach festivals that draw electronic music fans from every continent.
               </p>

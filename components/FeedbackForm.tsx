@@ -3,6 +3,8 @@ import { Star, Send } from 'lucide-react';
 import { Button } from './ui/button';
 import { Card, CardContent, CardDescription, CardHeader, CardTitle } from './ui/card';
 import { Input } from './ui/input';
+import { useT } from '../lib/i18n';
+import { strings as i18nStrings } from '../lib/i18n/components-feedbackform';
 
 interface FeedbackFormProps {
   pageTitle: string;
@@ -10,6 +12,7 @@ interface FeedbackFormProps {
 }
 
 const FeedbackForm: React.FC<FeedbackFormProps> = ({ pageTitle, pageUrl }) => {
+  const t = useT(i18nStrings);
   const [rating, setRating] = useState(0);
   const [message, setMessage] = useState('');
   const [email, setEmail] = useState('');
@@ -60,8 +63,8 @@ const FeedbackForm: React.FC<FeedbackFormProps> = ({ pageTitle, pageUrl }) => {
           <div className="w-16 h-16 bg-green-100 rounded-full flex items-center justify-center mx-auto mb-4">
             <Star className="w-8 h-8 text-green-600" />
           </div>
-          <h3 className="text-lg font-semibold mb-2">Thank You for Your Feedback!</h3>
-          <p className="text-gray-600">Your input helps us improve Go2 Thailand.</p>
+          <h3 className="text-lg font-semibold mb-2">{t("s001_thank_you_for_your")}</h3>
+          <p className="text-gray-600">{t("s002_your_input_helps_us")}</p>
         </CardContent>
       </Card>
     );
@@ -70,7 +73,7 @@ const FeedbackForm: React.FC<FeedbackFormProps> = ({ pageTitle, pageUrl }) => {
   return (
     <Card className="my-8">
       <CardHeader>
-        <CardTitle>Was this page helpful?</CardTitle>
+        <CardTitle>{t("s003_was_this_page_helpful")}</CardTitle>
         <CardDescription>
           Let us know how we can improve this travel guide
         </CardDescription>

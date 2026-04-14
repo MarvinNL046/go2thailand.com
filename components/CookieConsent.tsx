@@ -1,8 +1,11 @@
 import React, { useState, useEffect } from 'react';
 import { Cookie, X } from 'lucide-react';
 import { Button } from './ui/button';
+import { useT } from '../lib/i18n';
+import { strings as i18nStrings } from '../lib/i18n/components-cookieconsent';
 
 const CookieConsent = () => {
+  const t = useT(i18nStrings);
   const [showBanner, setShowBanner] = useState(false);
   const [showDetails, setShowDetails] = useState(false);
 
@@ -74,13 +77,13 @@ const CookieConsent = () => {
               {showDetails && (
                 <div className="mt-3 text-sm text-gray-600 space-y-2">
                   <p>
-                    <strong>Necessary cookies:</strong> Required for the website to function properly (authentication, security, preferences).
+                    <strong>{t("s001_necessary_cookies")}</strong> {t("s002_required_for_the_website")}
                   </p>
                   <p>
-                    <strong>Analytics cookies:</strong> Help us understand how visitors use our website through Google Analytics.
+                    <strong>{t("s003_analytics_cookies")}</strong> {t("s004_help_us_understand_how")}
                   </p>
                   <p>
-                    <strong>Marketing cookies:</strong> Used to show relevant ads and measure their effectiveness.
+                    <strong>{t("s005_marketing_cookies")}</strong> {t("s006_used_to_show_relevant")}
                   </p>
                   <button
                     onClick={() => setShowDetails(false)}
