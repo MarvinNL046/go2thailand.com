@@ -4,8 +4,11 @@ import Link from 'next/link';
 import SEOHead from '../components/SEOHead';
 import Breadcrumbs from '../components/Breadcrumbs';
 import EmailCapture from '../components/EmailCapture';
+import { useT } from '../lib/i18n';
+import { strings as i18nStrings } from '../lib/i18n/best-time-to-visit';
 
 export default function BestTimeToVisitPage() {
+  const t = useT(i18nStrings);
   const { locale } = useRouter();
   const isNl = locale === 'nl';
 
@@ -45,11 +48,10 @@ export default function BestTimeToVisitPage() {
       },
     })),
   };
-
   return (
     <>
       <SEOHead
-        title="Best Time to Visit Thailand: Season Guide by Region (2026) | Go2Thailand"
+        title={t("s001_best_time_to_visit")}
         description="When is the best time to visit Thailand? Complete 2026 guide to Thailand's three seasons, regional weather differences, best months for beaches, trekking, and festivals, plus packing tips."
       >
         <script type="application/ld+json" dangerouslySetInnerHTML={{ __html: JSON.stringify(faqJsonLd) }} />
@@ -90,10 +92,10 @@ export default function BestTimeToVisitPage() {
 
             {/* Intro paragraph */}
             <p className="text-gray-700 text-lg mb-6 leading-relaxed">
-              &quot;When is the best time to visit Thailand?&quot; is one of the most common questions travelers ask, and the honest answer is: it depends. Thailand stretches over 1,600 kilometers from north to south, and the weather in <Link href="/city/chiang-mai/" className="text-thailand-blue hover:underline">Chiang Mai</Link> can be completely different from the weather in <Link href="/city/phuket/" className="text-thailand-blue hover:underline">Phuket</Link> on any given day. The country also has two separate monsoon systems, which means one coast can be drenched in rain while the other enjoys perfect sunshine.
+              &quot;When is the best time to visit Thailand?&quot; is one of the most common questions travelers ask, and the honest answer is: it depends. Thailand stretches over 1,600 kilometers from north to south, and the weather in <Link href="/city/chiang-mai/" className="text-thailand-blue hover:underline">{t("s002_chiang_mai")}</Link> can be completely different from the weather in <Link href="/city/phuket/" className="text-thailand-blue hover:underline">Phuket</Link> on any given day. The country also has two separate monsoon systems, which means one coast can be drenched in rain while the other enjoys perfect sunshine.
             </p>
             <p className="text-gray-700 text-lg mb-10 leading-relaxed">
-              This guide breaks down Thailand&apos;s weather by season, by region, and month by month, so you can plan your trip around the conditions that matter most to you &mdash; whether that is dry beach days, cool trekking weather, festival dates, or the lowest possible prices. For detailed weather data on all 33 cities, check our interactive <Link href="/thailand-index/best-time/" className="text-thailand-blue hover:underline">Thailand Weather Index</Link>.
+              This guide breaks down Thailand&apos;s weather by season, by region, and month by month, so you can plan your trip around the conditions that matter most to you &mdash; whether that is dry beach days, cool trekking weather, festival dates, or the lowest possible prices. For detailed weather data on all 33 cities, check our interactive <Link href="/thailand-index/best-time/" className="text-thailand-blue hover:underline">{t("s003_thailand_weather_index")}</Link>.
             </p>
 
             {/* ============================================ */}
@@ -112,18 +114,18 @@ export default function BestTimeToVisitPage() {
                     *
                   </span>
                   <div>
-                    <h3 className="text-xl font-bold font-heading text-gray-900 mb-2">Cool Season (November &ndash; February)</h3>
+                    <h3 className="text-xl font-bold font-heading text-gray-900 mb-2">{t("s004_cool_season_november_ndash")}</h3>
                     <p className="text-gray-700 leading-relaxed mb-3">
-                      The cool season is the most popular time to visit Thailand, and for good reason. Average temperatures range from 26 to 30&deg;C across most of the country, humidity drops noticeably, and rainfall is at its lowest. Skies are generally clear, making it ideal for beach holidays, temple visits, and outdoor activities. The north gets genuinely cool during this period &mdash; morning temperatures in <Link href="/city/chiang-mai/" className="text-thailand-blue hover:underline">Chiang Mai</Link>, <Link href="/city/chiang-rai/" className="text-thailand-blue hover:underline">Chiang Rai</Link>, and <Link href="/city/pai/" className="text-thailand-blue hover:underline">Pai</Link> can drop to 8&ndash;12&deg;C, which feels downright cold if you packed only shorts and tank tops. Bangkok and the southern islands stay warm and comfortable.
+                      The cool season is the most popular time to visit Thailand, and for good reason. Average temperatures range from 26 to 30&deg;C across most of the country, humidity drops noticeably, and rainfall is at its lowest. Skies are generally clear, making it ideal for beach holidays, temple visits, and outdoor activities. The north gets genuinely cool during this period &mdash; morning temperatures in <Link href="/city/chiang-mai/" className="text-thailand-blue hover:underline">{t("s002_chiang_mai")}</Link>, <Link href="/city/chiang-rai/" className="text-thailand-blue hover:underline">{t("s006_chiang_rai")}</Link>, and <Link href="/city/pai/" className="text-thailand-blue hover:underline">Pai</Link> can drop to 8&ndash;12&deg;C, which feels downright cold if you packed only shorts and tank tops. Bangkok and the southern islands stay warm and comfortable.
                     </p>
                     <p className="text-gray-700 leading-relaxed mb-3">
                       The trade-off is that this is peak tourist season. Popular destinations are at their busiest, hotel prices are at their highest (particularly around Christmas, New Year, and Chinese New Year), and popular attractions can feel crowded. Book accommodation and internal flights well in advance if you plan to visit during December or January. Despite the crowds, the weather is so consistently excellent that most first-time visitors should aim for November through February if their schedule allows.
                     </p>
                     <div className="bg-blue-50 rounded-xl p-4 text-sm text-gray-700 space-y-1">
                       <p><strong>Temperature:</strong> 26&ndash;30&deg;C average (north: mornings can drop to 8&ndash;12&deg;C)</p>
-                      <p><strong>Rainfall:</strong> Minimal across most of the country</p>
-                      <p><strong>Crowds:</strong> Peak season &mdash; busiest and most expensive</p>
-                      <p><strong>Best for:</strong> First-time visitors, beach holidays, trekking in the north, photography</p>
+                      <p><strong>Rainfall:</strong> {t("s007_minimal_across_most_of")}</p>
+                      <p><strong>Crowds:</strong> {t("s008_peak_season_mdash_busiest")}</p>
+                      <p><strong>{t("s009_best_for")}</strong> {t("s010_first_time_visitors_beach")}</p>
                     </div>
                   </div>
                 </div>
@@ -136,7 +138,7 @@ export default function BestTimeToVisitPage() {
                     *
                   </span>
                   <div>
-                    <h3 className="text-xl font-bold font-heading text-gray-900 mb-2">Hot Season (March &ndash; May)</h3>
+                    <h3 className="text-xl font-bold font-heading text-gray-900 mb-2">{t("s011_hot_season_march_ndash")}</h3>
                     <p className="text-gray-700 leading-relaxed mb-3">
                       The hot season lives up to its name. Temperatures climb to 35&ndash;40&deg;C and beyond, with April consistently being the hottest month of the year. In <Link href="/city/bangkok/" className="text-thailand-blue hover:underline">Bangkok</Link> and central Thailand, the combination of heat and humidity can make sightseeing genuinely exhausting, particularly between 11am and 3pm. Northern Thailand, especially the Isaan region in the northeast, also bakes under intense heat in April and May.
                     </p>
@@ -145,9 +147,9 @@ export default function BestTimeToVisitPage() {
                     </p>
                     <div className="bg-orange-50 rounded-xl p-4 text-sm text-gray-700 space-y-1">
                       <p><strong>Temperature:</strong> 35&ndash;40&deg;C+ (April is the hottest month)</p>
-                      <p><strong>Rainfall:</strong> Increasing toward May, but mostly dry in March and April</p>
-                      <p><strong>Crowds:</strong> Moderate &mdash; shoulder season pricing in most areas</p>
-                      <p><strong>Best for:</strong> Songkran (April 13&ndash;15), budget travel, beach holidays (early season)</p>
+                      <p><strong>Rainfall:</strong> {t("s012_increasing_toward_may_but")}</p>
+                      <p><strong>Crowds:</strong> {t("s013_moderate_mdash_shoulder_season")}</p>
+                      <p><strong>{t("s009_best_for")}</strong> {t("s015_songkran_april_13_ndash")}</p>
                     </div>
                   </div>
                 </div>
@@ -160,18 +162,18 @@ export default function BestTimeToVisitPage() {
                     *
                   </span>
                   <div>
-                    <h3 className="text-xl font-bold font-heading text-gray-900 mb-2">Rainy Season (June &ndash; October)</h3>
+                    <h3 className="text-xl font-bold font-heading text-gray-900 mb-2">{t("s016_rainy_season_june_ndash")}</h3>
                     <p className="text-gray-700 leading-relaxed mb-3">
                       The rainy season scares away many travelers, but it should not. Temperatures settle around 29&deg;C with humidity reaching approximately 90%, and while it does rain, the pattern is typically short, intense bursts lasting 1 to 2 hours &mdash; usually in the afternoon &mdash; followed by clear skies. You can absolutely fill a day with activities; you just need a compact umbrella and some flexibility in your schedule.
                     </p>
                     <p className="text-gray-700 leading-relaxed mb-3">
-                      The rainy season is when Thailand is at its greenest and most lush. Waterfalls are at full flow, rice paddies glow in vivid emerald, and national parks look their most spectacular. It is also the cheapest time to visit, with hotels discounting rates by 30&ndash;50% compared to peak season. The biggest caveat is the Andaman coast (Phuket, Krabi, Phi Phi): rough seas can make boat trips unsafe, and some smaller islands close entirely from May to October. However, the Gulf coast &mdash; <Link href="/city/koh-samui/" className="text-thailand-blue hover:underline">Koh Samui</Link>, <Link href="/city/koh-phangan/" className="text-thailand-blue hover:underline">Koh Phangan</Link>, <Link href="/city/koh-tao/" className="text-thailand-blue hover:underline">Koh Tao</Link> &mdash; operates on a different monsoon system and remains largely dry from May through September, making it the perfect alternative for beach time during the Andaman rainy season.
+                      The rainy season is when Thailand is at its greenest and most lush. Waterfalls are at full flow, rice paddies glow in vivid emerald, and national parks look their most spectacular. It is also the cheapest time to visit, with hotels discounting rates by 30&ndash;50% compared to peak season. The biggest caveat is the Andaman coast (Phuket, Krabi, Phi Phi): rough seas can make boat trips unsafe, and some smaller islands close entirely from May to October. However, the Gulf coast &mdash; <Link href="/city/koh-samui/" className="text-thailand-blue hover:underline">{t("s017_koh_samui")}</Link>, <Link href="/city/koh-phangan/" className="text-thailand-blue hover:underline">{t("s018_koh_phangan")}</Link>, <Link href="/city/koh-tao/" className="text-thailand-blue hover:underline">Koh Tao</Link> &mdash; operates on a different monsoon system and remains largely dry from May through September, making it the perfect alternative for beach time during the Andaman rainy season.
                     </p>
                     <div className="bg-green-50 rounded-xl p-4 text-sm text-gray-700 space-y-1">
                       <p><strong>Temperature:</strong> ~29&deg;C with high humidity (~90%)</p>
-                      <p><strong>Rainfall:</strong> Short bursts (1&ndash;2 hours), usually afternoon. Wettest months: September&ndash;October</p>
-                      <p><strong>Crowds:</strong> Low season &mdash; prices drop 30&ndash;50%</p>
-                      <p><strong>Best for:</strong> Budget travel, nature photography, Gulf coast beaches, whale shark season at Koh Tao</p>
+                      <p><strong>Rainfall:</strong> {t("s019_short_bursts_1_ndash")}</p>
+                      <p><strong>Crowds:</strong> {t("s020_low_season_mdash_prices")}</p>
+                      <p><strong>{t("s009_best_for")}</strong> {t("s022_budget_travel_nature_photography")}</p>
                     </div>
                   </div>
                 </div>
@@ -190,11 +192,11 @@ export default function BestTimeToVisitPage() {
               {/* Bangkok & Central */}
               <div className="mb-10">
                 <div className="bg-white rounded-2xl shadow-md p-6">
-                  <h3 className="text-xl font-bold font-heading text-gray-900 mb-3">Bangkok &amp; Central Thailand</h3>
+                  <h3 className="text-xl font-bold font-heading text-gray-900 mb-3">{t("s023_bangkok_amp_central_thailand")}</h3>
                   <div className="flex flex-wrap gap-2 mb-3">
-                    <span className="bg-blue-100 text-blue-800 text-xs font-semibold px-3 py-1 rounded-full">Best: Nov &ndash; Feb</span>
-                    <span className="bg-orange-100 text-orange-800 text-xs font-semibold px-3 py-1 rounded-full">Hot: Mar &ndash; May</span>
-                    <span className="bg-green-100 text-green-800 text-xs font-semibold px-3 py-1 rounded-full">Wet: Jun &ndash; Oct</span>
+                    <span className="bg-blue-100 text-blue-800 text-xs font-semibold px-3 py-1 rounded-full">{t("s024_best_nov_ndash_feb")}</span>
+                    <span className="bg-orange-100 text-orange-800 text-xs font-semibold px-3 py-1 rounded-full">{t("s025_hot_mar_ndash_may")}</span>
+                    <span className="bg-green-100 text-green-800 text-xs font-semibold px-3 py-1 rounded-full">{t("s026_wet_jun_ndash_oct")}</span>
                   </div>
                   <p className="text-gray-700 leading-relaxed mb-3">
                     <Link href="/city/bangkok/" className="text-thailand-blue hover:underline">Bangkok</Link> is hot year-round, but the cool season from November to February is the most comfortable time for sightseeing. Temperatures ease into the high 20s, humidity drops, and rainfall is rare. The wettest months are September and October, when heavy afternoon downpours can briefly flood streets in low-lying areas. That said, Bangkok is a city built for all weather &mdash; its shopping malls, covered markets like <Link href="/blog/chatuchak-market-bangkok-guide/" className="text-thailand-blue hover:underline">Chatuchak</Link>, air-conditioned temples, and excellent public transport mean you can visit productively any time of year.
@@ -208,13 +210,13 @@ export default function BestTimeToVisitPage() {
               {/* Northern Thailand */}
               <div className="mb-10">
                 <div className="bg-white rounded-2xl shadow-md p-6">
-                  <h3 className="text-xl font-bold font-heading text-gray-900 mb-3">Northern Thailand (Chiang Mai, Chiang Rai, Pai)</h3>
+                  <h3 className="text-xl font-bold font-heading text-gray-900 mb-3">{t("s027_northern_thailand_chiang_mai")}</h3>
                   <div className="flex flex-wrap gap-2 mb-3">
-                    <span className="bg-blue-100 text-blue-800 text-xs font-semibold px-3 py-1 rounded-full">Best: Nov &ndash; Feb</span>
-                    <span className="bg-red-100 text-red-800 text-xs font-semibold px-3 py-1 rounded-full">Avoid: Feb &ndash; Apr (haze)</span>
+                    <span className="bg-blue-100 text-blue-800 text-xs font-semibold px-3 py-1 rounded-full">{t("s024_best_nov_ndash_feb")}</span>
+                    <span className="bg-red-100 text-red-800 text-xs font-semibold px-3 py-1 rounded-full">{t("s029_avoid_feb_ndash_apr")}</span>
                   </div>
                   <p className="text-gray-700 leading-relaxed mb-3">
-                    Northern Thailand has the most pronounced seasonal variation in the country. The cool season from November to February is spectacular &mdash; crisp mornings with temperatures dropping to 8&ndash;12&deg;C in <Link href="/city/chiang-mai/" className="text-thailand-blue hover:underline">Chiang Mai</Link>, <Link href="/city/chiang-rai/" className="text-thailand-blue hover:underline">Chiang Rai</Link>, and <Link href="/city/pai/" className="text-thailand-blue hover:underline">Pai</Link>, warming to comfortable mid-20s by afternoon. This is perfect weather for trekking, temple visits, and exploring night markets without breaking a sweat. Pack a light jacket or sweater for early mornings and evenings.
+                    Northern Thailand has the most pronounced seasonal variation in the country. The cool season from November to February is spectacular &mdash; crisp mornings with temperatures dropping to 8&ndash;12&deg;C in <Link href="/city/chiang-mai/" className="text-thailand-blue hover:underline">{t("s002_chiang_mai")}</Link>, <Link href="/city/chiang-rai/" className="text-thailand-blue hover:underline">{t("s006_chiang_rai")}</Link>, and <Link href="/city/pai/" className="text-thailand-blue hover:underline">Pai</Link>, warming to comfortable mid-20s by afternoon. This is perfect weather for trekking, temple visits, and exploring night markets without breaking a sweat. Pack a light jacket or sweater for early mornings and evenings.
                   </p>
                   <p className="text-gray-700 leading-relaxed mb-3">
                     The one thing to be aware of in the north is the burning season. From roughly February to April, agricultural burning and forest fires create a thick haze that blankets the valleys. Air quality deteriorates significantly, visibility drops, and it can aggravate respiratory conditions. During the worst periods, the AQI in Chiang Mai regularly exceeds unhealthy levels. If you are sensitive to air quality or want clear mountain views, avoid the north from late February through April. The haze typically clears once the rains begin in May.
@@ -228,13 +230,13 @@ export default function BestTimeToVisitPage() {
               {/* Andaman Coast */}
               <div className="mb-10">
                 <div className="bg-white rounded-2xl shadow-md p-6">
-                  <h3 className="text-xl font-bold font-heading text-gray-900 mb-3">Andaman Coast (Phuket, Krabi, Phi Phi, Koh Lanta)</h3>
+                  <h3 className="text-xl font-bold font-heading text-gray-900 mb-3">{t("s032_andaman_coast_phuket_krabi")}</h3>
                   <div className="flex flex-wrap gap-2 mb-3">
-                    <span className="bg-blue-100 text-blue-800 text-xs font-semibold px-3 py-1 rounded-full">Best: Dec &ndash; Mar</span>
-                    <span className="bg-red-100 text-red-800 text-xs font-semibold px-3 py-1 rounded-full">Rainy: Apr &ndash; Oct</span>
+                    <span className="bg-blue-100 text-blue-800 text-xs font-semibold px-3 py-1 rounded-full">{t("s033_best_dec_ndash_mar")}</span>
+                    <span className="bg-red-100 text-red-800 text-xs font-semibold px-3 py-1 rounded-full">{t("s034_rainy_apr_ndash_oct")}</span>
                   </div>
                   <p className="text-gray-700 leading-relaxed mb-3">
-                    The Andaman coast &mdash; Thailand&apos;s western shoreline facing the Indian Ocean &mdash; has the most dramatic seasonal difference for beach travelers. From December to March, conditions are close to perfect: calm turquoise seas, clear skies, and warm temperatures ideal for swimming, snorkeling, and island hopping. <Link href="/city/phuket/" className="text-thailand-blue hover:underline">Phuket</Link>, <Link href="/city/krabi/" className="text-thailand-blue hover:underline">Krabi</Link>, and <Link href="/city/koh-lanta/" className="text-thailand-blue hover:underline">Koh Lanta</Link> are at their best during these months.
+                    The Andaman coast &mdash; Thailand&apos;s western shoreline facing the Indian Ocean &mdash; has the most dramatic seasonal difference for beach travelers. From December to March, conditions are close to perfect: calm turquoise seas, clear skies, and warm temperatures ideal for swimming, snorkeling, and island hopping. <Link href="/city/phuket/" className="text-thailand-blue hover:underline">Phuket</Link>, <Link href="/city/krabi/" className="text-thailand-blue hover:underline">Krabi</Link>, and <Link href="/city/koh-lanta/" className="text-thailand-blue hover:underline">{t("s035_koh_lanta")}</Link> are at their best during these months.
                   </p>
                   <p className="text-gray-700 leading-relaxed mb-3">
                     The southwest monsoon brings heavy rains from approximately April to October, with September and October being the wettest months. Seas can be rough, and strong currents make swimming dangerous on exposed west-facing beaches. Some smaller islands close entirely during this period, and ferry services are reduced or suspended. The Similan Islands and Surin Islands, two of Thailand&apos;s best <Link href="/best-diving-snorkeling-in-thailand/" className="text-thailand-blue hover:underline">dive sites</Link>, close from mid-May to mid-October.
@@ -251,13 +253,13 @@ export default function BestTimeToVisitPage() {
                   <div className="bg-blue-50 rounded-lg p-3 mb-4 text-sm text-blue-800 font-semibold">
                     Key insight: The Gulf coast operates on a different monsoon pattern than the Andaman coast. When one side is rainy, the other is often dry.
                   </div>
-                  <h3 className="text-xl font-bold font-heading text-gray-900 mb-3">Gulf Coast (Koh Samui, Koh Phangan, Koh Tao)</h3>
+                  <h3 className="text-xl font-bold font-heading text-gray-900 mb-3">{t("s036_gulf_coast_koh_samui")}</h3>
                   <div className="flex flex-wrap gap-2 mb-3">
-                    <span className="bg-blue-100 text-blue-800 text-xs font-semibold px-3 py-1 rounded-full">Best: May &ndash; Sep (dry)</span>
-                    <span className="bg-red-100 text-red-800 text-xs font-semibold px-3 py-1 rounded-full">Wettest: Oct &ndash; Dec</span>
+                    <span className="bg-blue-100 text-blue-800 text-xs font-semibold px-3 py-1 rounded-full">{t("s037_best_may_ndash_sep")}</span>
+                    <span className="bg-red-100 text-red-800 text-xs font-semibold px-3 py-1 rounded-full">{t("s038_wettest_oct_ndash_dec")}</span>
                   </div>
                   <p className="text-gray-700 leading-relaxed mb-3">
-                    This is the most important piece of weather information for Thailand trip planning, and the one most travelers get wrong. The Gulf coast &mdash; <Link href="/city/koh-samui/" className="text-thailand-blue hover:underline">Koh Samui</Link>, <Link href="/city/koh-phangan/" className="text-thailand-blue hover:underline">Koh Phangan</Link>, and <Link href="/city/koh-tao/" className="text-thailand-blue hover:underline">Koh Tao</Link> &mdash; operates on the northeast monsoon, which is the opposite pattern to the Andaman coast. The Gulf islands are driest from May to September, precisely when the Andaman coast is wettest.
+                    This is the most important piece of weather information for Thailand trip planning, and the one most travelers get wrong. The Gulf coast &mdash; <Link href="/city/koh-samui/" className="text-thailand-blue hover:underline">{t("s017_koh_samui")}</Link>, <Link href="/city/koh-phangan/" className="text-thailand-blue hover:underline">{t("s018_koh_phangan")}</Link>, and <Link href="/city/koh-tao/" className="text-thailand-blue hover:underline">Koh Tao</Link> &mdash; operates on the northeast monsoon, which is the opposite pattern to the Andaman coast. The Gulf islands are driest from May to September, precisely when the Andaman coast is wettest.
                   </p>
                   <p className="text-gray-700 leading-relaxed mb-3">
                     The Gulf coast&apos;s wettest period runs from October to December, with November often seeing the heaviest rainfall. This means that if you are visiting Thailand during the Andaman rainy season (June to September), you can simply head to the Gulf coast instead and enjoy excellent beach weather. Koh Tao in particular is a popular choice during these months for its calm seas and good diving visibility &mdash; it is also whale shark season, with sightings most common from March to October.
@@ -271,10 +273,10 @@ export default function BestTimeToVisitPage() {
               {/* Isaan */}
               <div className="mb-10">
                 <div className="bg-white rounded-2xl shadow-md p-6">
-                  <h3 className="text-xl font-bold font-heading text-gray-900 mb-3">Isaan (Northeast Thailand)</h3>
+                  <h3 className="text-xl font-bold font-heading text-gray-900 mb-3">{t("s041_isaan_northeast_thailand")}</h3>
                   <div className="flex flex-wrap gap-2 mb-3">
-                    <span className="bg-blue-100 text-blue-800 text-xs font-semibold px-3 py-1 rounded-full">Best: Nov &ndash; Feb</span>
-                    <span className="bg-orange-100 text-orange-800 text-xs font-semibold px-3 py-1 rounded-full">Extreme heat: Apr &ndash; May</span>
+                    <span className="bg-blue-100 text-blue-800 text-xs font-semibold px-3 py-1 rounded-full">{t("s024_best_nov_ndash_feb")}</span>
+                    <span className="bg-orange-100 text-orange-800 text-xs font-semibold px-3 py-1 rounded-full">{t("s043_extreme_heat_apr_ndash")}</span>
                   </div>
                   <p className="text-gray-700 leading-relaxed mb-3">
                     Isaan, Thailand&apos;s vast northeastern plateau, is the least touristy region and has the most extreme temperature swings. April and May bring blistering heat, while December and January can feel genuinely cold, especially at night. The cool season from November to February is the most comfortable time to explore this fascinating region, which is home to Khmer temple ruins, vibrant local food culture, and an authenticity you will not find in more touristed areas.
@@ -287,46 +289,46 @@ export default function BestTimeToVisitPage() {
 
               {/* Quick Reference Table */}
               <div className="bg-white rounded-2xl shadow-md p-6 overflow-x-auto">
-                <h3 className="text-lg font-bold font-heading text-gray-900 mb-4">Quick Reference: Best Months by Region</h3>
+                <h3 className="text-lg font-bold font-heading text-gray-900 mb-4">{t("s044_quick_reference_best_months")}</h3>
                 <table className="w-full text-sm text-left">
                   <thead>
                     <tr className="border-b-2 border-gray-200">
                       <th className="py-3 pr-4 font-semibold text-gray-900">Region</th>
-                      <th className="py-3 px-2 font-semibold text-gray-900">Best Months</th>
+                      <th className="py-3 px-2 font-semibold text-gray-900">{t("s045_best_months")}</th>
                       <th className="py-3 px-2 font-semibold text-gray-900">Avoid</th>
-                      <th className="py-3 pl-2 font-semibold text-gray-900">Key Note</th>
+                      <th className="py-3 pl-2 font-semibold text-gray-900">{t("s046_key_note")}</th>
                     </tr>
                   </thead>
                   <tbody className="text-gray-700">
                     <tr className="border-b border-gray-100">
-                      <td className="py-3 pr-4 font-medium">Bangkok &amp; Central</td>
-                      <td className="py-3 px-2">Nov &ndash; Feb</td>
-                      <td className="py-3 px-2">Sep &ndash; Oct (wettest)</td>
-                      <td className="py-3 pl-2">Visitable year-round</td>
+                      <td className="py-3 pr-4 font-medium">{t("s047_bangkok_amp_central")}</td>
+                      <td className="py-3 px-2">{t("s048_nov_ndash_feb")}</td>
+                      <td className="py-3 px-2">{t("s049_sep_ndash_oct_wettest")}</td>
+                      <td className="py-3 pl-2">{t("s050_visitable_year_round")}</td>
                     </tr>
                     <tr className="border-b border-gray-100">
-                      <td className="py-3 pr-4 font-medium">Northern Thailand</td>
-                      <td className="py-3 px-2">Nov &ndash; Feb</td>
-                      <td className="py-3 px-2">Feb &ndash; Apr (haze)</td>
-                      <td className="py-3 pl-2">Pack layers for cool mornings</td>
+                      <td className="py-3 pr-4 font-medium">{t("s051_northern_thailand")}</td>
+                      <td className="py-3 px-2">{t("s048_nov_ndash_feb")}</td>
+                      <td className="py-3 px-2">{t("s053_feb_ndash_apr_haze")}</td>
+                      <td className="py-3 pl-2">{t("s054_pack_layers_for_cool")}</td>
                     </tr>
                     <tr className="border-b border-gray-100">
-                      <td className="py-3 pr-4 font-medium">Andaman Coast</td>
-                      <td className="py-3 px-2">Dec &ndash; Mar</td>
-                      <td className="py-3 px-2">Sep &ndash; Oct (rough seas)</td>
-                      <td className="py-3 pl-2">Some islands close May &ndash; Oct</td>
+                      <td className="py-3 pr-4 font-medium">{t("s055_andaman_coast")}</td>
+                      <td className="py-3 px-2">{t("s056_dec_ndash_mar")}</td>
+                      <td className="py-3 px-2">{t("s057_sep_ndash_oct_rough")}</td>
+                      <td className="py-3 pl-2">{t("s058_some_islands_close_may")}</td>
                     </tr>
                     <tr className="border-b border-gray-100">
-                      <td className="py-3 pr-4 font-medium">Gulf Coast</td>
-                      <td className="py-3 px-2">May &ndash; Sep</td>
-                      <td className="py-3 px-2">Oct &ndash; Dec (wettest)</td>
-                      <td className="py-3 pl-2">Opposite monsoon to Andaman</td>
+                      <td className="py-3 pr-4 font-medium">{t("s059_gulf_coast")}</td>
+                      <td className="py-3 px-2">{t("s060_may_ndash_sep")}</td>
+                      <td className="py-3 px-2">{t("s061_oct_ndash_dec_wettest")}</td>
+                      <td className="py-3 pl-2">{t("s062_opposite_monsoon_to_andaman")}</td>
                     </tr>
                     <tr>
-                      <td className="py-3 pr-4 font-medium">Isaan (Northeast)</td>
-                      <td className="py-3 px-2">Nov &ndash; Feb</td>
-                      <td className="py-3 px-2">Apr &ndash; May (extreme heat)</td>
-                      <td className="py-3 pl-2">Least touristy region</td>
+                      <td className="py-3 pr-4 font-medium">{t("s063_isaan_northeast")}</td>
+                      <td className="py-3 px-2">{t("s048_nov_ndash_feb")}</td>
+                      <td className="py-3 px-2">{t("s065_apr_ndash_may_extreme")}</td>
+                      <td className="py-3 pl-2">{t("s066_least_touristy_region")}</td>
                     </tr>
                   </tbody>
                 </table>
@@ -352,7 +354,7 @@ export default function BestTimeToVisitPage() {
                     Jan/Feb
                   </span>
                   <div>
-                    <h3 className="text-xl font-bold font-heading text-gray-900 mb-2">January &amp; February: Peak Season Perfection</h3>
+                    <h3 className="text-xl font-bold font-heading text-gray-900 mb-2">{t("s067_january_amp_february_peak")}</h3>
                     <p className="text-gray-700 leading-relaxed mb-3">
                       These are arguably the two best months to visit Thailand. The weather is dry and comfortable virtually everywhere: warm days, cooler evenings, low humidity, and almost no rain. The Andaman coast is in its prime with calm, crystal-clear seas perfect for diving and snorkeling. Northern Thailand is at its most pleasant with cool mornings and sunny afternoons (though the burning season haze can start to appear in late February around Chiang Mai).
                     </p>
@@ -360,10 +362,10 @@ export default function BestTimeToVisitPage() {
                       The downside is price. January and February are peak season across the country, and accommodation prices reflect it. Popular <Link href="/thailand-islands/" className="text-thailand-blue hover:underline">islands</Link> and <Link href="/best-beaches-in-thailand/" className="text-thailand-blue hover:underline">beaches</Link> book up well in advance, especially over Chinese New Year. If you can travel in the first half of January (after the New Year rush) or the second half of February, you will find slightly more availability and potentially better rates.
                     </p>
                     <div className="bg-gray-50 rounded-xl p-4 text-sm text-gray-600 space-y-1">
-                      <p><strong>Weather:</strong> Dry and comfortable everywhere. Cool mornings in the north.</p>
-                      <p><strong>Prices:</strong> Highest of the year (peak season)</p>
-                      <p><strong>Best for:</strong> Beach holidays, island hopping, trekking, temple visits</p>
-                      <p><strong>Watch out for:</strong> Crowds and inflated prices, especially around Chinese New Year</p>
+                      <p><strong>Weather:</strong> {t("s068_dry_and_comfortable_everywhere")}</p>
+                      <p><strong>Prices:</strong> {t("s069_highest_of_the_year")}</p>
+                      <p><strong>{t("s009_best_for")}</strong> {t("s071_beach_holidays_island_hopping")}</p>
+                      <p><strong>{t("s072_watch_out_for")}</strong> {t("s073_crowds_and_inflated_prices")}</p>
                     </div>
                   </div>
                 </div>
@@ -376,7 +378,7 @@ export default function BestTimeToVisitPage() {
                     Mar/Apr
                   </span>
                   <div>
-                    <h3 className="text-xl font-bold font-heading text-gray-900 mb-2">March &amp; April: Scorching Heat, Songkran, and Shoulder Pricing</h3>
+                    <h3 className="text-xl font-bold font-heading text-gray-900 mb-2">{t("s074_march_amp_april_scorching")}</h3>
                     <p className="text-gray-700 leading-relaxed mb-3">
                       These are the hottest months in Thailand, with April regularly hitting 40&deg;C+ in Bangkok and central Thailand. Sightseeing in the middle of the day becomes a genuine endurance test. In northern Thailand, the burning season haze peaks in March and early April, making it the worst time to visit Chiang Mai for air quality and mountain views.
                     </p>
@@ -388,9 +390,9 @@ export default function BestTimeToVisitPage() {
                     </p>
                     <div className="bg-gray-50 rounded-xl p-4 text-sm text-gray-600 space-y-1">
                       <p><strong>Weather:</strong> 35&ndash;40&deg;C+. Oppressively hot, especially inland.</p>
-                      <p><strong>Prices:</strong> Shoulder season &mdash; lower than peak</p>
-                      <p><strong>Best for:</strong> Songkran (April 13&ndash;15), budget beach holidays</p>
-                      <p><strong>Watch out for:</strong> Northern Thailand haze (Feb&ndash;Apr), extreme heat in Bangkok and Isaan</p>
+                      <p><strong>Prices:</strong> {t("s075_shoulder_season_mdash_lower")}</p>
+                      <p><strong>{t("s009_best_for")}</strong> {t("s077_songkran_april_13_ndash")}</p>
+                      <p><strong>{t("s072_watch_out_for")}</strong> {t("s079_northern_thailand_haze_feb")}</p>
                     </div>
                   </div>
                 </div>
@@ -403,21 +405,21 @@ export default function BestTimeToVisitPage() {
                     May/Jun
                   </span>
                   <div>
-                    <h3 className="text-xl font-bold font-heading text-gray-900 mb-2">May &amp; June: Rains Begin, Prices Drop</h3>
+                    <h3 className="text-xl font-bold font-heading text-gray-900 mb-2">{t("s080_may_amp_june_rains")}</h3>
                     <p className="text-gray-700 leading-relaxed mb-3">
                       The southwest monsoon arrives on the Andaman coast in May, bringing the first sustained rains of the year to Phuket, Krabi, and the western islands. Seas grow rougher, and some smaller islands begin to close. However, the rain is rarely constant &mdash; mornings are often sunny, with showers arriving in the afternoon.
                     </p>
                     <p className="text-gray-700 leading-relaxed mb-3">
-                      Meanwhile, the Gulf coast (<Link href="/city/koh-samui/" className="text-thailand-blue hover:underline">Koh Samui</Link>, <Link href="/city/koh-phangan/" className="text-thailand-blue hover:underline">Koh Phangan</Link>, <Link href="/city/koh-tao/" className="text-thailand-blue hover:underline">Koh Tao</Link>) remains in good shape. May and June are among the driest months on the Gulf side, making these islands an excellent alternative if you want a beach holiday without peak-season crowds or prices. Prices drop 30&ndash;50% compared to December-February, and you will have beaches that are noticeably less crowded.
+                      Meanwhile, the Gulf coast (<Link href="/city/koh-samui/" className="text-thailand-blue hover:underline">{t("s017_koh_samui")}</Link>, <Link href="/city/koh-phangan/" className="text-thailand-blue hover:underline">{t("s018_koh_phangan")}</Link>, <Link href="/city/koh-tao/" className="text-thailand-blue hover:underline">Koh Tao</Link>) remains in good shape. May and June are among the driest months on the Gulf side, making these islands an excellent alternative if you want a beach holiday without peak-season crowds or prices. Prices drop 30&ndash;50% compared to December-February, and you will have beaches that are noticeably less crowded.
                     </p>
                     <p className="text-gray-700 leading-relaxed">
-                      In northern Thailand, the rains wash away the burning season haze and everything turns green again. <Link href="/city/chiang-mai/" className="text-thailand-blue hover:underline">Chiang Mai</Link> in June is pleasant if you do not mind occasional showers, and the surrounding countryside is beautiful with fresh foliage and flowing waterfalls.
+                      In northern Thailand, the rains wash away the burning season haze and everything turns green again. <Link href="/city/chiang-mai/" className="text-thailand-blue hover:underline">{t("s002_chiang_mai")}</Link> in June is pleasant if you do not mind occasional showers, and the surrounding countryside is beautiful with fresh foliage and flowing waterfalls.
                     </p>
                     <div className="bg-gray-50 rounded-xl p-4 text-sm text-gray-600 space-y-1">
-                      <p><strong>Weather:</strong> Rains start on Andaman coast. Gulf coast still dry. North clears.</p>
-                      <p><strong>Prices:</strong> Low season begins &mdash; 30&ndash;50% cheaper</p>
-                      <p><strong>Best for:</strong> Gulf coast beaches, budget travel, lush northern landscapes</p>
-                      <p><strong>Watch out for:</strong> Andaman coast rougher seas, some island closures</p>
+                      <p><strong>Weather:</strong> {t("s084_rains_start_on_andaman")}</p>
+                      <p><strong>Prices:</strong> {t("s085_low_season_begins_mdash")}</p>
+                      <p><strong>{t("s009_best_for")}</strong> {t("s087_gulf_coast_beaches_budget")}</p>
+                      <p><strong>{t("s072_watch_out_for")}</strong> {t("s089_andaman_coast_rougher_seas")}</p>
                     </div>
                   </div>
                 </div>
@@ -430,21 +432,21 @@ export default function BestTimeToVisitPage() {
                     Jul/Aug
                   </span>
                   <div>
-                    <h3 className="text-xl font-bold font-heading text-gray-900 mb-2">July &amp; August: European Summer, Green Thailand</h3>
+                    <h3 className="text-xl font-bold font-heading text-gray-900 mb-2">{t("s090_july_amp_august_european")}</h3>
                     <p className="text-gray-700 leading-relaxed mb-3">
                       Despite being firmly in the rainy season, July and August are popular with European travelers during their summer holidays. The rain, while present, remains manageable &mdash; typically afternoon downpours that clear quickly. The landscape is at its most spectacular, with vivid green rice paddies, rushing waterfalls, and lush jungle canopy across the north and central regions.
                     </p>
                     <p className="text-gray-700 leading-relaxed mb-3">
-                      The Gulf coast continues to enjoy relatively dry conditions, and <Link href="/city/koh-tao/" className="text-thailand-blue hover:underline">Koh Tao</Link> is particularly appealing during these months. Diving conditions are often excellent, with calm seas and good visibility. This is also peak whale shark season at Koh Tao &mdash; while sightings are never guaranteed, your odds are highest between March and October, with many encounters reported in July and August. The Full Moon Party on <Link href="/city/koh-phangan/" className="text-thailand-blue hover:underline">Koh Phangan</Link> continues monthly year-round.
+                      The Gulf coast continues to enjoy relatively dry conditions, and <Link href="/city/koh-tao/" className="text-thailand-blue hover:underline">Koh Tao</Link> is particularly appealing during these months. Diving conditions are often excellent, with calm seas and good visibility. This is also peak whale shark season at Koh Tao &mdash; while sightings are never guaranteed, your odds are highest between March and October, with many encounters reported in July and August. The Full Moon Party on <Link href="/city/koh-phangan/" className="text-thailand-blue hover:underline">{t("s018_koh_phangan")}</Link> continues monthly year-round.
                     </p>
                     <p className="text-gray-700 leading-relaxed">
                       Bangkok remains functional as always, though the humidity is intense. Air-conditioned malls, rooftop restaurants, and indoor attractions keep the city enjoyable. Northern Thailand sees regular rain but remains beautiful and far less crowded than the cool season.
                     </p>
                     <div className="bg-gray-50 rounded-xl p-4 text-sm text-gray-600 space-y-1">
-                      <p><strong>Weather:</strong> Rainy but manageable. Gulf coast mostly dry. Lush green everywhere.</p>
-                      <p><strong>Prices:</strong> Low season &mdash; excellent deals</p>
-                      <p><strong>Best for:</strong> Gulf coast diving (whale shark season), budget travel, nature photography</p>
-                      <p><strong>Watch out for:</strong> Higher humidity, Andaman coast rough seas continue</p>
+                      <p><strong>Weather:</strong> {t("s092_rainy_but_manageable_gulf")}</p>
+                      <p><strong>Prices:</strong> {t("s093_low_season_mdash_excellent")}</p>
+                      <p><strong>{t("s009_best_for")}</strong> {t("s095_gulf_coast_diving_whale")}</p>
+                      <p><strong>{t("s072_watch_out_for")}</strong> {t("s097_higher_humidity_andaman_coast")}</p>
                     </div>
                   </div>
                 </div>
@@ -457,7 +459,7 @@ export default function BestTimeToVisitPage() {
                     Sep/Oct
                   </span>
                   <div>
-                    <h3 className="text-xl font-bold font-heading text-gray-900 mb-2">September &amp; October: Wettest Months, Lowest Prices</h3>
+                    <h3 className="text-xl font-bold font-heading text-gray-900 mb-2">{t("s098_september_amp_october_wettest")}</h3>
                     <p className="text-gray-700 leading-relaxed mb-3">
                       September and October are the wettest months across most of Thailand. Rainfall reaches its peak on the Andaman coast, with rough seas and potential flooding in some areas. These are the months when Phuket&apos;s west coast beaches fly red warning flags due to dangerous currents, and most Andaman island day trips and ferry services are limited or suspended.
                     </p>
@@ -468,10 +470,10 @@ export default function BestTimeToVisitPage() {
                       For more on making the most of a <Link href="/blog/thailand-budget-2026-daily-costs/" className="text-thailand-blue hover:underline">budget Thailand trip</Link>, including daily cost breakdowns by season, see our dedicated budget guide.
                     </p>
                     <div className="bg-gray-50 rounded-xl p-4 text-sm text-gray-600 space-y-1">
-                      <p><strong>Weather:</strong> Heaviest rainfall nationwide. Andaman coast at its roughest.</p>
-                      <p><strong>Prices:</strong> Absolute lowest of the year</p>
-                      <p><strong>Best for:</strong> Extreme budget travel, Bangkok city exploration</p>
-                      <p><strong>Watch out for:</strong> Island closures, rough seas, occasional flooding</p>
+                      <p><strong>Weather:</strong> {t("s099_heaviest_rainfall_nationwide_andaman")}</p>
+                      <p><strong>Prices:</strong> {t("s100_absolute_lowest_of_the")}</p>
+                      <p><strong>{t("s009_best_for")}</strong> {t("s102_extreme_budget_travel_bangkok")}</p>
+                      <p><strong>{t("s072_watch_out_for")}</strong> {t("s104_island_closures_rough_seas")}</p>
                     </div>
                   </div>
                 </div>
@@ -484,21 +486,21 @@ export default function BestTimeToVisitPage() {
                     Nov/Dec
                   </span>
                   <div>
-                    <h3 className="text-xl font-bold font-heading text-gray-900 mb-2">November &amp; December: Cool Season Returns, Festival Season</h3>
+                    <h3 className="text-xl font-bold font-heading text-gray-900 mb-2">{t("s105_november_amp_december_cool")}</h3>
                     <p className="text-gray-700 leading-relaxed mb-3">
                       November marks the transition back into the cool season, and it is a wonderful time to be in Thailand. The rains taper off across most of the country (though the Gulf coast enters its wettest period from October to December &mdash; keep this in mind when planning). Temperatures begin to drop, particularly in the north, and the air feels fresher after months of monsoon rains.
                     </p>
                     <p className="text-gray-700 leading-relaxed mb-3">
-                      November 2026 brings two of Thailand&apos;s most beautiful festivals. Loy Krathong (November 25, 2026) is celebrated nationwide: people release small decorated floats (krathong) onto rivers, canals, and lakes to pay respect to the water goddess and symbolically let go of negativity. In Chiang Mai, the Yi Peng festival (November 24&ndash;25, 2026) adds the magical spectacle of thousands of sky lanterns released simultaneously into the night sky. Witnessing Yi Peng in <Link href="/city/chiang-mai/" className="text-thailand-blue hover:underline">Chiang Mai</Link> is one of the most memorable experiences Thailand offers.
+                      November 2026 brings two of Thailand&apos;s most beautiful festivals. Loy Krathong (November 25, 2026) is celebrated nationwide: people release small decorated floats (krathong) onto rivers, canals, and lakes to pay respect to the water goddess and symbolically let go of negativity. In Chiang Mai, the Yi Peng festival (November 24&ndash;25, 2026) adds the magical spectacle of thousands of sky lanterns released simultaneously into the night sky. Witnessing Yi Peng in <Link href="/city/chiang-mai/" className="text-thailand-blue hover:underline">{t("s002_chiang_mai")}</Link> is one of the most memorable experiences Thailand offers.
                     </p>
                     <p className="text-gray-700 leading-relaxed">
                       December is the start of high season, and prices climb accordingly. The Andaman coast reopens in full swing: islands resume ferry services, dive sites open, and the beaches are at their most beautiful. Christmas and New Year&apos;s are the most expensive period &mdash; book well in advance if you plan to visit over the holidays. Early November, before peak season pricing kicks in, can be a sweet spot for good weather and reasonable rates.
                     </p>
                     <div className="bg-gray-50 rounded-xl p-4 text-sm text-gray-600 space-y-1">
-                      <p><strong>Weather:</strong> Cool season begins. Dry across most regions (Gulf coast still wet).</p>
-                      <p><strong>Prices:</strong> November is still shoulder season; December is peak</p>
-                      <p><strong>Best for:</strong> Loy Krathong &amp; Yi Peng festivals, Andaman coast beaches</p>
-                      <p><strong>Watch out for:</strong> Gulf coast rain (Oct&ndash;Dec), Christmas/New Year premium pricing</p>
+                      <p><strong>Weather:</strong> {t("s107_cool_season_begins_dry")}</p>
+                      <p><strong>Prices:</strong> {t("s108_november_is_still_shoulder")}</p>
+                      <p><strong>{t("s009_best_for")}</strong> {t("s110_loy_krathong_amp_yi")}</p>
+                      <p><strong>{t("s072_watch_out_for")}</strong> {t("s112_gulf_coast_rain_oct")}</p>
                     </div>
                   </div>
                 </div>
@@ -518,25 +520,25 @@ export default function BestTimeToVisitPage() {
                 {/* Songkran */}
                 <div className="bg-white rounded-2xl shadow-md p-6">
                   <div className="flex items-center gap-3 mb-3">
-                    <span className="bg-orange-100 text-orange-800 text-xs font-semibold px-3 py-1 rounded-full">April 13&ndash;15, 2026</span>
+                    <span className="bg-orange-100 text-orange-800 text-xs font-semibold px-3 py-1 rounded-full">{t("s113_april_13_ndash_15")}</span>
                   </div>
-                  <h3 className="text-lg font-bold font-heading text-gray-900 mb-2">Songkran (Thai New Year)</h3>
+                  <h3 className="text-lg font-bold font-heading text-gray-900 mb-2">{t("s114_songkran_thai_new_year")}</h3>
                   <p className="text-gray-700 text-sm leading-relaxed">
                     Thailand&apos;s biggest holiday and the world&apos;s largest water fight. The entire country celebrates with water throwing, temple visits, and family gatherings. Bangkok&apos;s Khao San Road and Silom Road host the wildest street parties. Chiang Mai is famous for its multi-day moat-side celebrations. Expect everything to be soaking wet for three days straight.
                   </p>
                   <p className="mt-3 text-sm">
-                    <Link href="/city/bangkok/" className="text-thailand-blue hover:underline font-semibold">Bangkok Songkran guide &rarr;</Link>
+                    <Link href="/city/bangkok/" className="text-thailand-blue hover:underline font-semibold">{t("s115_bangkok_songkran_guide_rarr")}</Link>
                     {' '}<span className="text-gray-400">|</span>{' '}
-                    <Link href="/city/chiang-mai/" className="text-thailand-blue hover:underline font-semibold">Chiang Mai Songkran &rarr;</Link>
+                    <Link href="/city/chiang-mai/" className="text-thailand-blue hover:underline font-semibold">{t("s116_chiang_mai_songkran_rarr")}</Link>
                   </p>
                 </div>
 
                 {/* Loy Krathong */}
                 <div className="bg-white rounded-2xl shadow-md p-6">
                   <div className="flex items-center gap-3 mb-3">
-                    <span className="bg-blue-100 text-blue-800 text-xs font-semibold px-3 py-1 rounded-full">November 25, 2026</span>
+                    <span className="bg-blue-100 text-blue-800 text-xs font-semibold px-3 py-1 rounded-full">{t("s117_november_25_2026")}</span>
                   </div>
-                  <h3 className="text-lg font-bold font-heading text-gray-900 mb-2">Loy Krathong (Water Lantern Festival)</h3>
+                  <h3 className="text-lg font-bold font-heading text-gray-900 mb-2">{t("s118_loy_krathong_water_lantern")}</h3>
                   <p className="text-gray-700 text-sm leading-relaxed">
                     On the evening of the full moon in the twelfth month of the Thai lunar calendar, people across Thailand release small decorated floats (krathong) onto rivers and waterways. Each krathong carries a candle, incense, and flowers as an offering to the water goddess. It is one of the most photogenic and atmospheric evenings you will experience in Thailand. Best experienced near water: Bangkok&apos;s Chao Phraya River, Sukhothai Historical Park (the historical birthplace of the festival), or anywhere along Chiang Mai&apos;s Ping River.
                   </p>
@@ -545,11 +547,11 @@ export default function BestTimeToVisitPage() {
                 {/* Yi Peng */}
                 <div className="bg-white rounded-2xl shadow-md p-6">
                   <div className="flex items-center gap-3 mb-3">
-                    <span className="bg-blue-100 text-blue-800 text-xs font-semibold px-3 py-1 rounded-full">November 24&ndash;25, 2026</span>
+                    <span className="bg-blue-100 text-blue-800 text-xs font-semibold px-3 py-1 rounded-full">{t("s119_november_24_ndash_25")}</span>
                   </div>
-                  <h3 className="text-lg font-bold font-heading text-gray-900 mb-2">Yi Peng (Sky Lantern Festival, Chiang Mai)</h3>
+                  <h3 className="text-lg font-bold font-heading text-gray-900 mb-2">{t("s120_yi_peng_sky_lantern")}</h3>
                   <p className="text-gray-700 text-sm leading-relaxed">
-                    Unique to northern Thailand and centered on <Link href="/city/chiang-mai/" className="text-thailand-blue hover:underline">Chiang Mai</Link>, Yi Peng coincides with Loy Krathong and adds thousands of paper sky lanterns (khom loi) released into the night sky. The sight of the dark sky filling with glowing lanterns is genuinely magical and widely considered one of the most beautiful festival moments in the world. The main mass release events require tickets (often &#3647;3,000&ndash;5,000 including dinner) and sell out months in advance. Smaller spontaneous releases happen throughout the city.
+                    Unique to northern Thailand and centered on <Link href="/city/chiang-mai/" className="text-thailand-blue hover:underline">{t("s002_chiang_mai")}</Link>, Yi Peng coincides with Loy Krathong and adds thousands of paper sky lanterns (khom loi) released into the night sky. The sight of the dark sky filling with glowing lanterns is genuinely magical and widely considered one of the most beautiful festival moments in the world. The main mass release events require tickets (often &#3647;3,000&ndash;5,000 including dinner) and sell out months in advance. Smaller spontaneous releases happen throughout the city.
                   </p>
                 </div>
 
@@ -558,9 +560,9 @@ export default function BestTimeToVisitPage() {
                   <div className="flex items-center gap-3 mb-3">
                     <span className="bg-purple-100 text-purple-800 text-xs font-semibold px-3 py-1 rounded-full">Monthly</span>
                   </div>
-                  <h3 className="text-lg font-bold font-heading text-gray-900 mb-2">Full Moon Party (Koh Phangan)</h3>
+                  <h3 className="text-lg font-bold font-heading text-gray-900 mb-2">{t("s122_full_moon_party_koh")}</h3>
                   <p className="text-gray-700 text-sm leading-relaxed">
-                    The legendary all-night beach party on Haad Rin, <Link href="/city/koh-phangan/" className="text-thailand-blue hover:underline">Koh Phangan</Link>, happens monthly around the full moon. Expect fire dancers, neon body paint, booming music, and bucket cocktails on the sand. The entrance fee is &#3647;200. The party runs year-round regardless of season, though the biggest crowds come during high season months (December&ndash;February). Check exact dates before booking, as they sometimes shift to avoid Buddhist holidays.
+                    The legendary all-night beach party on Haad Rin, <Link href="/city/koh-phangan/" className="text-thailand-blue hover:underline">{t("s018_koh_phangan")}</Link>, happens monthly around the full moon. Expect fire dancers, neon body paint, booming music, and bucket cocktails on the sand. The entrance fee is &#3647;200. The party runs year-round regardless of season, though the biggest crowds come during high season months (December&ndash;February). Check exact dates before booking, as they sometimes shift to avoid Buddhist holidays.
                   </p>
                 </div>
               </div>
@@ -578,29 +580,29 @@ export default function BestTimeToVisitPage() {
               {/* All Seasons */}
               <div className="mb-8">
                 <div className="bg-white rounded-2xl shadow-md p-6">
-                  <h3 className="text-lg font-bold font-heading text-gray-900 mb-3">Every Season: The Essentials</h3>
+                  <h3 className="text-lg font-bold font-heading text-gray-900 mb-3">{t("s124_every_season_the_essentials")}</h3>
                   <div className="grid grid-cols-1 md:grid-cols-2 gap-4 text-gray-700 text-sm">
                     <div>
                       <p className="font-semibold mb-1">Clothing</p>
                       <ul className="space-y-1 list-disc list-inside">
-                        <li>Light cotton or linen clothing (breathable fabrics)</li>
-                        <li>Comfortable walking sandals or shoes</li>
-                        <li>Clothes that cover shoulders and knees for temples</li>
+                        <li>{t("s125_light_cotton_or_linen")}</li>
+                        <li>{t("s126_comfortable_walking_sandals_or")}</li>
+                        <li>{t("s127_clothes_that_cover_shoulders")}</li>
                         <li>Swimwear</li>
                       </ul>
                     </div>
                     <div>
                       <p className="font-semibold mb-1">Essentials</p>
                       <ul className="space-y-1 list-disc list-inside">
-                        <li>High-SPF sunscreen (tropical sun is intense)</li>
-                        <li>Mosquito repellent (DEET-based recommended)</li>
-                        <li>Reusable water bottle</li>
-                        <li>Universal power adapter (Thailand uses Type A, B, C, and O plugs)</li>
+                        <li>{t("s128_high_spf_sunscreen_tropical")}</li>
+                        <li>{t("s129_mosquito_repellent_deet_based")}</li>
+                        <li>{t("s130_reusable_water_bottle")}</li>
+                        <li>{t("s131_universal_power_adapter_thailand")}</li>
                       </ul>
                     </div>
                   </div>
                   <div className="mt-4 bg-amber-50 rounded-lg p-3 text-sm text-amber-800">
-                    <strong>Temple dress code:</strong> You must cover your shoulders and knees when visiting temples. No see-through clothing. Sarongs are available to borrow or buy cheaply (&#3647;50&ndash;100) at most major temples, but having your own is more convenient.
+                    <strong>{t("s132_temple_dress_code")}</strong> {t("s133_you_must_cover_your")}
                   </div>
                 </div>
               </div>
@@ -608,33 +610,33 @@ export default function BestTimeToVisitPage() {
               {/* Season-specific */}
               <div className="grid grid-cols-1 md:grid-cols-3 gap-6">
                 <div className="bg-blue-50 rounded-2xl p-5">
-                  <h4 className="font-bold font-heading text-gray-900 mb-2 text-sm">Cool Season (Nov&ndash;Feb)</h4>
+                  <h4 className="font-bold font-heading text-gray-900 mb-2 text-sm">{t("s134_cool_season_nov_ndash")}</h4>
                   <ul className="text-gray-700 text-sm space-y-1 list-disc list-inside">
-                    <li>Light jacket or sweater (essential for the north)</li>
-                    <li>Long trousers for cool evenings</li>
-                    <li>Layers you can add and remove</li>
+                    <li>{t("s135_light_jacket_or_sweater")}</li>
+                    <li>{t("s136_long_trousers_for_cool")}</li>
+                    <li>{t("s137_layers_you_can_add")}</li>
                   </ul>
-                  <p className="text-xs text-gray-500 mt-2">Mornings in Chiang Mai/Pai can drop to 8&ndash;12&deg;C</p>
+                  <p className="text-xs text-gray-500 mt-2">{t("s138_mornings_in_chiang_mai")}</p>
                 </div>
                 <div className="bg-orange-50 rounded-2xl p-5">
-                  <h4 className="font-bold font-heading text-gray-900 mb-2 text-sm">Hot Season (Mar&ndash;May)</h4>
+                  <h4 className="font-bold font-heading text-gray-900 mb-2 text-sm">{t("s139_hot_season_mar_ndash")}</h4>
                   <ul className="text-gray-700 text-sm space-y-1 list-disc list-inside">
-                    <li>Lightest possible clothing</li>
-                    <li>Wide-brim hat or cap</li>
-                    <li>Extra sunscreen (you will reapply often)</li>
-                    <li>Electrolyte packets for hydration</li>
+                    <li>{t("s140_lightest_possible_clothing")}</li>
+                    <li>{t("s141_wide_brim_hat_or")}</li>
+                    <li>{t("s142_extra_sunscreen_you_will")}</li>
+                    <li>{t("s143_electrolyte_packets_for_hydration")}</li>
                   </ul>
-                  <p className="text-xs text-gray-500 mt-2">Temperatures regularly exceed 40&deg;C in April</p>
+                  <p className="text-xs text-gray-500 mt-2">{t("s144_temperatures_regularly_exceed_40")}</p>
                 </div>
                 <div className="bg-green-50 rounded-2xl p-5">
-                  <h4 className="font-bold font-heading text-gray-900 mb-2 text-sm">Rainy Season (Jun&ndash;Oct)</h4>
+                  <h4 className="font-bold font-heading text-gray-900 mb-2 text-sm">{t("s145_rainy_season_jun_ndash")}</h4>
                   <ul className="text-gray-700 text-sm space-y-1 list-disc list-inside">
-                    <li>Compact travel umbrella</li>
-                    <li>Waterproof phone case</li>
-                    <li>Quick-dry clothes</li>
-                    <li>Waterproof bag or dry bag for electronics</li>
+                    <li>{t("s146_compact_travel_umbrella")}</li>
+                    <li>{t("s147_waterproof_phone_case")}</li>
+                    <li>{t("s148_quick_dry_clothes")}</li>
+                    <li>{t("s149_waterproof_bag_or_dry")}</li>
                   </ul>
-                  <p className="text-xs text-gray-500 mt-2">Rain is intense but short (1&ndash;2 hours)</p>
+                  <p className="text-xs text-gray-500 mt-2">{t("s150_rain_is_intense_but")}</p>
                 </div>
               </div>
             </section>
@@ -656,7 +658,7 @@ export default function BestTimeToVisitPage() {
                       <p className="text-gray-700 leading-relaxed">{item.answer}</p>
                       {item.question === 'When is the cheapest time to visit Thailand?' && (
                         <p className="mt-2 text-sm">
-                          <Link href="/blog/thailand-budget-2026-daily-costs/" className="text-thailand-blue hover:underline font-semibold">Full Thailand budget breakdown 2026 &rarr;</Link>
+                          <Link href="/blog/thailand-budget-2026-daily-costs/" className="text-thailand-blue hover:underline font-semibold">{t("s151_full_thailand_budget_breakdown")}</Link>
                         </p>
                       )}
                     </div>

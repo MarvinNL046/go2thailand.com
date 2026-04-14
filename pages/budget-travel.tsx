@@ -4,8 +4,11 @@ import Link from 'next/link';
 import SEOHead from '../components/SEOHead';
 import Breadcrumbs from '../components/Breadcrumbs';
 import EmailCapture from '../components/EmailCapture';
+import { useT } from '../lib/i18n';
+import { strings as i18nStrings } from '../lib/i18n/budget-travel';
 
 export default function BudgetTravelPage() {
+  const t = useT(i18nStrings);
   const { locale } = useRouter();
   const isNl = locale === 'nl';
 
@@ -62,12 +65,11 @@ export default function BudgetTravelPage() {
       },
     })),
   };
-
   return (
     <>
       <SEOHead
-        title="Thailand on a Budget: Daily Costs, Tips & Money-Saving Hacks (2026) | Go2Thailand"
-        description="Complete Thailand budget guide for 2026. Daily costs from ฿1,000-7,000+ ($30-200+), cheapest cities, budget accommodation, street food tips, and transport hacks. Real prices, not guesses."
+        title={t("s001_thailand_on_a_budget")}
+        description={t("s002_complete_thailand_budget_guide")}
       >
         <script type="application/ld+json" dangerouslySetInnerHTML={{ __html: JSON.stringify(faqJsonLd) }} />
       </SEOHead>
@@ -158,7 +160,7 @@ export default function BudgetTravelPage() {
                       <tr className="hover:bg-gray-50">
                         <td className="p-4 font-medium text-gray-900">{isNl ? 'Vervoer' : 'Transport'}</td>
                         <td className="p-4 text-center text-gray-700">฿50-150<br /><span className="text-xs text-gray-500">songthaew, bus, BTS</span></td>
-                        <td className="p-4 text-center text-gray-700">฿150-400<br /><span className="text-xs text-gray-500">Grab, BTS, occasional taxi</span></td>
+                        <td className="p-4 text-center text-gray-700">฿150-400<br /><span className="text-xs text-gray-500">{t("s003_grab_bts_occasional_taxi")}</span></td>
                         <td className="p-4 text-center text-gray-700">฿500-2,000<br /><span className="text-xs text-gray-500">private car, domestic flights</span></td>
                       </tr>
                       <tr className="hover:bg-gray-50">
@@ -194,12 +196,12 @@ export default function BudgetTravelPage() {
                   <div className="bg-white rounded-xl shadow-sm p-5 border-l-4 border-green-500">
                     <h4 className="font-bold text-gray-900 mb-1">1 Week Backpacking</h4>
                     <p className="text-2xl font-bold text-green-600 mb-2">~฿10,000 <span className="text-sm font-normal text-gray-500">($300)</span></p>
-                    <p className="text-sm text-gray-600">Hostels, street food, buses, free activities. Bangkok + Chiang Mai or one island.</p>
+                    <p className="text-sm text-gray-600">{t("s004_hostels_street_food_buses")}</p>
                   </div>
                   <div className="bg-white rounded-xl shadow-sm p-5 border-l-4 border-thailand-blue">
                     <h4 className="font-bold text-gray-900 mb-1">2 Weeks Mid-Range</h4>
                     <p className="text-2xl font-bold text-thailand-blue mb-2">~฿50,000 <span className="text-sm font-normal text-gray-500">($1,500)</span></p>
-                    <p className="text-sm text-gray-600">Hotels, restaurants, Grab, tours, cooking classes. Bangkok + north + islands.</p>
+                    <p className="text-sm text-gray-600">{t("s005_hotels_restaurants_grab_tours")}</p>
                   </div>
                   <div className="bg-white rounded-xl shadow-sm p-5 border-l-4 border-purple-500">
                     <h4 className="font-bold text-gray-900 mb-1">2 Weeks Luxury</h4>
@@ -214,7 +216,7 @@ export default function BudgetTravelPage() {
 
               {/* SE Asia comparison */}
               <div className="mb-6">
-                <h3 className="text-xl font-bold font-heading text-gray-900 mb-4">Thailand vs Other Southeast Asian Countries</h3>
+                <h3 className="text-xl font-bold font-heading text-gray-900 mb-4">{t("s006_thailand_vs_other_southeast")}</h3>
                 <p className="text-gray-700 leading-relaxed mb-4">
                   How does Thailand compare to its neighbors for budget travel? Thailand sits in the middle of the Southeast Asian price spectrum. It is more expensive than Cambodia and Vietnam for basic costs, but cheaper than Malaysia and Singapore. Compared to Bali, Thailand offers better street food value and cheaper transport, while Bali edges ahead on accommodation prices for private villas and guesthouses. Here is a rough comparison for mid-range daily spending:
                 </p>
@@ -234,25 +236,25 @@ export default function BudgetTravelPage() {
                           <td className="p-4 font-medium text-gray-900">Thailand</td>
                           <td className="p-4 text-center text-gray-700">$30-50</td>
                           <td className="p-4 text-center text-gray-700">$60-100</td>
-                          <td className="p-4 text-gray-600">Best street food, good transport</td>
+                          <td className="p-4 text-gray-600">{t("s007_best_street_food_good")}</td>
                         </tr>
                         <tr className="hover:bg-gray-50">
                           <td className="p-4 font-medium text-gray-900">Vietnam</td>
                           <td className="p-4 text-center text-gray-700">$20-35</td>
                           <td className="p-4 text-center text-gray-700">$40-70</td>
-                          <td className="p-4 text-gray-600">Cheapest in region, great food</td>
+                          <td className="p-4 text-gray-600">{t("s008_cheapest_in_region_great")}</td>
                         </tr>
                         <tr className="hover:bg-gray-50">
                           <td className="p-4 font-medium text-gray-900">Cambodia</td>
                           <td className="p-4 text-center text-gray-700">$20-30</td>
                           <td className="p-4 text-center text-gray-700">$40-60</td>
-                          <td className="p-4 text-gray-600">Very cheap, less infrastructure</td>
+                          <td className="p-4 text-gray-600">{t("s009_very_cheap_less_infrastructure")}</td>
                         </tr>
                         <tr className="hover:bg-gray-50">
                           <td className="p-4 font-medium text-gray-900">Bali</td>
                           <td className="p-4 text-center text-gray-700">$25-45</td>
                           <td className="p-4 text-center text-gray-700">$50-90</td>
-                          <td className="p-4 text-gray-600">Cheap villas, pricier food</td>
+                          <td className="p-4 text-gray-600">{t("s010_cheap_villas_pricier_food")}</td>
                         </tr>
                       </tbody>
                     </table>
@@ -279,19 +281,19 @@ export default function BudgetTravelPage() {
 
               {/* Cheapest cities */}
               <div className="mb-10">
-                <h3 className="text-xl font-bold font-heading text-gray-900 mb-4">Best Budget Destinations</h3>
+                <h3 className="text-xl font-bold font-heading text-gray-900 mb-4">{t("s011_best_budget_destinations")}</h3>
 
                 <div className="space-y-6">
                   <div className="bg-white rounded-xl shadow-sm p-5">
                     <div className="flex items-start gap-4">
                       <span className="flex-shrink-0 w-10 h-10 rounded-full bg-green-500 text-white flex items-center justify-center font-bold text-sm">฿</span>
                       <div>
-                        <h4 className="font-bold text-gray-900 mb-1">Chiang Mai — The Budget Traveler&apos;s Capital</h4>
+                        <h4 className="font-bold text-gray-900 mb-1">{t("s012_chiang_mai_the_budget")}</h4>
                         <p className="text-gray-700 leading-relaxed mb-2">
                           Chiang Mai is where budget travel and quality of life intersect perfectly. You can live well here on ฿800-1,200 per day — and many digital nomads do exactly that for months at a time. Hostels start at ฿150 per night, a bowl of khao soi (the city&apos;s signature curry noodle soup) costs ฿40-60, and songthaews (shared red trucks) take you anywhere in the old city for ฿20-30. The city has hundreds of temples to explore for free, night markets with ฿40-60 street food, and some of Thailand&apos;s best cooking classes at ฿800-1,200. The old city and Nimmanhaemin area have excellent cafes where a coffee costs ฿50-80, and co-working spaces run ฿150-300 per day. Chiang Mai&apos;s lower costs compared to Bangkok extend to everything: massages are ฿200-300 per hour (versus ฿300-500 in Bangkok), Grab rides are 30-40% cheaper, and accommodation offers considerably more space for the same price.
                         </p>
                         <p className="text-sm">
-                          <Link href="/city/chiang-mai/" className="text-thailand-blue hover:underline font-semibold">Explore our Chiang Mai guide →</Link>
+                          <Link href="/city/chiang-mai/" className="text-thailand-blue hover:underline font-semibold">{t("s013_explore_our_chiang_mai")}</Link>
                         </p>
                       </div>
                     </div>
@@ -301,12 +303,12 @@ export default function BudgetTravelPage() {
                     <div className="flex items-start gap-4">
                       <span className="flex-shrink-0 w-10 h-10 rounded-full bg-green-500 text-white flex items-center justify-center font-bold text-sm">฿</span>
                       <div>
-                        <h4 className="font-bold text-gray-900 mb-1">Pai — Backpacker Paradise in the Mountains</h4>
+                        <h4 className="font-bold text-gray-900 mb-1">{t("s014_pai_backpacker_paradise_in")}</h4>
                         <p className="text-gray-700 leading-relaxed mb-2">
                           Pai is even cheaper than Chiang Mai and has a magical laid-back atmosphere that makes travelers extend their stay again and again. This tiny mountain town three hours north of Chiang Mai (via a winding road with 762 curves) offers bamboo bungalows for ฿200-400 per night, enormous plates of pad thai for ฿40-50, fresh fruit smoothies for ฿30, and free hot springs and viewpoints in the surrounding hills. The town is small enough to walk everywhere, and scooter rental costs just ฿150-200 per day for exploring the waterfalls, canyons, and rice paddies outside town. Pai is especially popular with backpackers during the cool season (November-February) when misty mornings and comfortable temperatures make it one of the most pleasant places in Thailand. The trade-off is fewer luxury options and limited nightlife beyond a few bars on the walking street.
                         </p>
                         <p className="text-sm">
-                          <Link href="/city/pai/" className="text-thailand-blue hover:underline font-semibold">Explore our Pai guide →</Link>
+                          <Link href="/city/pai/" className="text-thailand-blue hover:underline font-semibold">{t("s015_explore_our_pai_guide")}</Link>
                         </p>
                       </div>
                     </div>
@@ -316,7 +318,7 @@ export default function BudgetTravelPage() {
                     <div className="flex items-start gap-4">
                       <span className="flex-shrink-0 w-10 h-10 rounded-full bg-green-500 text-white flex items-center justify-center font-bold text-sm">฿</span>
                       <div>
-                        <h4 className="font-bold text-gray-900 mb-1">Isaan Cities — Local Prices, Zero Tourists</h4>
+                        <h4 className="font-bold text-gray-900 mb-1">{t("s016_isaan_cities_local_prices")}</h4>
                         <p className="text-gray-700 leading-relaxed mb-2">
                           If you want to experience Thailand at genuinely local prices, head to the Isaan (northeast) region. Cities like Khon Kaen and Udon Thani see very few foreign tourists, which means prices are set for Thai locals rather than international visitors. Hotel rooms in modern properties start at ฿400-600 per night, meals at local restaurants cost ฿30-50, and you will find enormous night markets with dishes for ฿25-40. Isaan is the heartland of Thai cuisine — som tam (papaya salad), larb (minced meat salad), and sticky rice all originate here, and the local versions are fiercely flavorful. The region also offers interesting cultural experiences including Khmer ruins at Phimai and Phanom Rung, dinosaur museums, and the unique rock formations at Pha Taem National Park. The downside is that English is less widely spoken and tourist infrastructure is more limited, but that is part of the authentic appeal.
                         </p>
@@ -328,27 +330,27 @@ export default function BudgetTravelPage() {
 
               {/* Budget islands */}
               <div className="mb-10">
-                <h3 className="text-xl font-bold font-heading text-gray-900 mb-4">Budget-Friendly Islands</h3>
+                <h3 className="text-xl font-bold font-heading text-gray-900 mb-4">{t("s017_budget_friendly_islands")}</h3>
                 <p className="text-gray-700 leading-relaxed mb-4">
                   Islands are inherently more expensive than the mainland because everything needs to be shipped in by ferry. But some islands are significantly cheaper than the resort-heavy options:
                 </p>
                 <div className="grid grid-cols-1 md:grid-cols-2 gap-4 mb-6">
                   <div className="bg-white rounded-xl shadow-sm p-5">
-                    <h4 className="font-bold text-gray-900 mb-2">Koh Phangan (Beyond the Full Moon Party)</h4>
+                    <h4 className="font-bold text-gray-900 mb-2">{t("s018_koh_phangan_beyond_the")}</h4>
                     <p className="text-sm text-gray-700 leading-relaxed">
                       Most travelers associate Koh Phangan with the Full Moon Party, but the island&apos;s northern and western coasts are a haven for budget travelers and yoga enthusiasts. Away from Haad Rin, you will find basic bungalows for ฿300-600 per night, beachside restaurants with ฿50-80 meals, and yoga retreats offering drop-in classes for ฿200-300. The island has a slower, more relaxed energy than Koh Samui next door, with a fraction of the cost. Bottle Beach on the north coast is one of the most beautiful and affordable beaches in the Gulf of Thailand.
                     </p>
                     <p className="mt-2 text-sm">
-                      <Link href="/city/koh-phangan/" className="text-thailand-blue hover:underline font-semibold">Explore Koh Phangan →</Link>
+                      <Link href="/city/koh-phangan/" className="text-thailand-blue hover:underline font-semibold">{t("s019_explore_koh_phangan")}</Link>
                     </p>
                   </div>
                   <div className="bg-white rounded-xl shadow-sm p-5">
-                    <h4 className="font-bold text-gray-900 mb-2">Koh Chang — The Cheaper Phuket Alternative</h4>
+                    <h4 className="font-bold text-gray-900 mb-2">{t("s020_koh_chang_the_cheaper")}</h4>
                     <p className="text-sm text-gray-700 leading-relaxed">
                       Koh Chang in eastern Thailand near the Cambodian border is Thailand&apos;s third-largest island and offers a similar experience to Phuket — beautiful beaches, jungle interior, waterfalls, snorkeling — at roughly half the price. Guesthouses on the quieter southern beaches start at ฿400-700 per night, and restaurants are noticeably cheaper than Phuket or Koh Samui. The island is also less developed and less crowded, especially outside the main strip of White Sand Beach. Getting there is easy via a short flight or bus from Bangkok to Trat, then a 30-minute ferry crossing.
                     </p>
                     <p className="mt-2 text-sm">
-                      <Link href="/city/koh-chang/" className="text-thailand-blue hover:underline font-semibold">Explore Koh Chang →</Link>
+                      <Link href="/city/koh-chang/" className="text-thailand-blue hover:underline font-semibold">{t("s021_explore_koh_chang")}</Link>
                     </p>
                   </div>
                 </div>
@@ -356,7 +358,7 @@ export default function BudgetTravelPage() {
 
               {/* Most expensive - avoid on budget */}
               <div className="mb-6">
-                <h3 className="text-xl font-bold font-heading text-gray-900 mb-4">Most Expensive (Avoid on a Strict Budget)</h3>
+                <h3 className="text-xl font-bold font-heading text-gray-900 mb-4">{t("s022_most_expensive_avoid_on")}</h3>
                 <p className="text-gray-700 leading-relaxed mb-4">
                   Not every part of Thailand is budget-friendly. If you are watching every baht, be aware that these areas will eat through your money fastest:
                 </p>
@@ -364,7 +366,7 @@ export default function BudgetTravelPage() {
                   <ul className="space-y-3 text-gray-700">
                     <li className="flex items-start gap-2">
                       <span className="text-red-500 font-bold mt-0.5">!</span>
-                      <span><strong>Phuket in peak season (December-February):</strong> Thailand&apos;s most expensive island by a wide margin. Budget accommodation is limited, and restaurant prices in tourist areas like Patong rival European cities. A basic meal that costs ฿50 in Chiang Mai might cost ฿150-200 here. If you must visit Phuket on a budget, stay in Phuket Town rather than the beaches — it is significantly cheaper and has authentic local food markets.</span>
+                      <span><strong>{t("s023_phuket_in_peak_season")}</strong> {t("s024_thailand_apos_s_most")}</span>
                     </li>
                     <li className="flex items-start gap-2">
                       <span className="text-red-500 font-bold mt-0.5">!</span>
@@ -398,7 +400,7 @@ export default function BudgetTravelPage() {
                   <div className="flex items-start gap-4">
                     <span className="flex-shrink-0 w-10 h-10 rounded-full bg-green-500 text-white flex items-center justify-center font-bold text-lg">1</span>
                     <div>
-                      <h3 className="text-xl font-bold font-heading text-gray-900 mb-2">Hostels (฿150-500/night)</h3>
+                      <h3 className="text-xl font-bold font-heading text-gray-900 mb-2">{t("s025_hostels_150_500_night")}</h3>
                       <p className="text-gray-700 leading-relaxed mb-3">
                         Thailand&apos;s hostel scene has evolved far beyond basic backpacker dorms. In Bangkok, cities like <Link href="/city/bangkok/" className="text-thailand-blue hover:underline">Bangkok</Link> have hostels that rival boutique hotels in design — capsule pods with privacy curtains, individual reading lights, USB charging ports, and lockers large enough for a full backpack. A bed in an air-conditioned 6-8 bed dorm typically costs ฿200-400 per night in Bangkok, and ฿150-300 in Chiang Mai and smaller cities. The Khao San Road area and Silom in Bangkok have the highest concentration of quality hostels.
                       </p>
@@ -406,7 +408,7 @@ export default function BudgetTravelPage() {
                         Private rooms in hostels are available for ฿500-1,000 per night — often better value than budget hotels because you get the social atmosphere, common areas, and often breakfast included. Hostelworld and Booking.com are the best platforms for comparing options. Many hostels also organize free walking tours, bar crawls, and day trips, which helps you save on activities while meeting other travelers.
                       </p>
                       <div className="bg-gray-50 rounded-xl p-4 text-sm text-gray-600">
-                        <p><strong>Pro tip:</strong> Book hostels with a free breakfast included. Even a basic spread of toast, eggs, fruit, and coffee saves you ฿80-150 per morning, which adds up quickly over a multi-week trip.</p>
+                        <p><strong>{t("s026_pro_tip")}</strong> {t("s027_book_hostels_with_a")}</p>
                       </div>
                     </div>
                   </div>
@@ -417,7 +419,7 @@ export default function BudgetTravelPage() {
                   <div className="flex items-start gap-4">
                     <span className="flex-shrink-0 w-10 h-10 rounded-full bg-green-500 text-white flex items-center justify-center font-bold text-lg">2</span>
                     <div>
-                      <h3 className="text-xl font-bold font-heading text-gray-900 mb-2">Budget Hotels (฿500-1,500/night)</h3>
+                      <h3 className="text-xl font-bold font-heading text-gray-900 mb-2">{t("s028_budget_hotels_500_1")}</h3>
                       <p className="text-gray-700 leading-relaxed mb-3">
                         The ฿500-1,500 range gets you a clean private room with air conditioning, hot water, and wifi in most parts of Thailand. In Chiang Mai, ฿500-700 gets you a well-reviewed hotel with a pool. In Bangkok, expect to pay ฿800-1,200 for a similar standard, and on the islands ฿1,000-1,500. This is the sweet spot for couples and travelers who want privacy without luxury pricing.
                       </p>
@@ -425,7 +427,7 @@ export default function BudgetTravelPage() {
                         The best platform for budget hotels in Thailand is Agoda. As a Southeast Asian company (now part of Booking Holdings), Agoda consistently offers the lowest prices for Thai hotels — often 10-20% cheaper than the same property on Booking.com or Expedia. The platform also runs frequent flash sales, and its &quot;Insider Deals&quot; for logged-in users can knock another 5-15% off. Filter by guest review score (8.0+) and sort by price to find the best value properties.
                       </p>
                       <div className="bg-gray-50 rounded-xl p-4 text-sm text-gray-600">
-                        <p><strong>Pro tip:</strong> Use Agoda for hotels and Booking.com for hostels. Each platform tends to have better inventory and prices in its respective category for Thailand properties.</p>
+                        <p><strong>{t("s026_pro_tip")}</strong> {t("s030_use_agoda_for_hotels")}</p>
                       </div>
                     </div>
                   </div>
@@ -436,7 +438,7 @@ export default function BudgetTravelPage() {
                   <div className="flex items-start gap-4">
                     <span className="flex-shrink-0 w-10 h-10 rounded-full bg-green-500 text-white flex items-center justify-center font-bold text-lg">3</span>
                     <div>
-                      <h3 className="text-xl font-bold font-heading text-gray-900 mb-2">Airbnb and Apartments (฿800-2,000/night)</h3>
+                      <h3 className="text-xl font-bold font-heading text-gray-900 mb-2">{t("s031_airbnb_and_apartments_800")}</h3>
                       <p className="text-gray-700 leading-relaxed mb-3">
                         Renting a full apartment or condo is the best value for couples, families, or small groups. A one-bedroom apartment with a kitchen, washing machine, pool access, and gym in Chiang Mai costs ฿800-1,200 per night on a short-term basis, or ฿8,000-15,000 per month if you stay longer. In Bangkok, similar apartments near a BTS station run ฿1,200-2,000 per night. Having a kitchen saves money on meals — buying ingredients at a local market and cooking even one meal a day can cut your food budget by 30%.
                       </p>
@@ -444,7 +446,7 @@ export default function BudgetTravelPage() {
                         For stays of a week or more, try negotiating directly with guesthouse and small hotel owners. Many Thai-owned properties offer significant discounts for extended stays that are not listed on booking platforms. Walk in, ask for the weekly or monthly rate, and you will often find it is 20-40% less than the per-night price shown online. This works especially well in Chiang Mai, Pai, and the quieter islands.
                       </p>
                       <div className="bg-gray-50 rounded-xl p-4 text-sm text-gray-600">
-                        <p><strong>Pro tip:</strong> Book direct for small guesthouses (saves them the 15-20% booking platform commission, and they often pass part of that saving to you). Use Agoda for hotels where the platform&apos;s bulk negotiated rates beat walk-in prices.</p>
+                        <p><strong>{t("s026_pro_tip")}</strong> {t("s033_book_direct_for_small")}</p>
                       </div>
                     </div>
                   </div>
@@ -471,7 +473,7 @@ export default function BudgetTravelPage() {
               <div className="space-y-8">
                 {/* Street food */}
                 <div className="mb-8">
-                  <h3 className="text-xl font-bold font-heading text-gray-900 mb-3">Street Food (฿30-80 per dish)</h3>
+                  <h3 className="text-xl font-bold font-heading text-gray-900 mb-3">{t("s034_street_food_30_80")}</h3>
                   <p className="text-gray-700 leading-relaxed mb-3">
                     Thai street food is not just cheap — it is some of the best food on the planet, period. Bangkok alone has over 100,000 street food vendors, and several have earned Michelin stars while still charging under ฿100 per plate. A typical street meal costs ฿40-60 for a generous portion of pad thai, basil pork rice (khao pad krapao), or a bowl of boat noodles. Som tam (papaya salad) runs ฿30-50. Grilled pork skewers on sticky rice cost ฿10-20 each — perfect for snacking while exploring.
                   </p>
@@ -496,7 +498,7 @@ export default function BudgetTravelPage() {
 
                 {/* Mall food courts */}
                 <div className="mb-8">
-                  <h3 className="text-xl font-bold font-heading text-gray-900 mb-3">Shopping Mall Food Courts (฿40-80)</h3>
+                  <h3 className="text-xl font-bold font-heading text-gray-900 mb-3">{t("s035_shopping_mall_food_courts")}</h3>
                   <p className="text-gray-700 leading-relaxed mb-3">
                     Thai shopping mall food courts are a budget traveler&apos;s best-kept secret. Unlike food courts in Western malls, Thai versions serve authentic local food at prices that are only slightly above street food — typically ฿40-80 per dish. The key difference is air conditioning, clean seating, and proper hygiene standards, which makes them a welcome retreat on Bangkok&apos;s hottest days.
                   </p>
@@ -507,7 +509,7 @@ export default function BudgetTravelPage() {
 
                 {/* Cooking classes */}
                 <div className="mb-8">
-                  <h3 className="text-xl font-bold font-heading text-gray-900 mb-3">Cooking Classes (฿800-1,500 — Equals Two Meals)</h3>
+                  <h3 className="text-xl font-bold font-heading text-gray-900 mb-3">{t("s036_cooking_classes_800_1")}</h3>
                   <p className="text-gray-700 leading-relaxed mb-3">
                     A Thai cooking class might seem like a splurge on a tight budget, but consider what you get: a guided market tour where you learn about Thai ingredients, 4-5 hours of hands-on cooking instruction, and you make and eat 4-5 full dishes. That is effectively lunch and an early dinner, plus a cultural experience and skills you will use for years. At ฿800-1,500, it works out to roughly ฿200-375 per meal — not much more than a restaurant — plus you get the market tour and the cooking education for free.
                   </p>
@@ -515,13 +517,13 @@ export default function BudgetTravelPage() {
                     Chiang Mai has the best concentration of cooking schools at the lowest prices. Farm-based classes outside the city (where you pick ingredients from the garden) cost ฿1,000-1,500 and include hotel pickup. Bangkok classes tend to be slightly more expensive at ฿1,200-2,000 but offer the added experience of shopping at a bustling Thai market. Even on a strict backpacker budget, this is one activity worth the spend — you will learn to cook dishes at home that would cost ฿200-300 each in Thai restaurants back in your home country.
                   </p>
                   <p className="text-sm mt-3">
-                    <Link href="/best-cooking-classes-in-thailand/" className="text-thailand-blue hover:underline font-semibold">Best cooking classes in Thailand →</Link>
+                    <Link href="/best-cooking-classes-in-thailand/" className="text-thailand-blue hover:underline font-semibold">{t("s037_best_cooking_classes_in")}</Link>
                   </p>
                 </div>
 
                 {/* Bangkok hawker centres */}
                 <div className="mb-6">
-                  <h3 className="text-xl font-bold font-heading text-gray-900 mb-3">Bangkok&apos;s Hawker Centres and Night Markets</h3>
+                  <h3 className="text-xl font-bold font-heading text-gray-900 mb-3">{t("s038_bangkok_apos_s_hawker")}</h3>
                   <p className="text-gray-700 leading-relaxed mb-3">
                     For the ultimate budget food experience in Bangkok, seek out the city&apos;s hawker centres and night markets where locals eat. Yaowarat (Chinatown) comes alive after dark with grilled seafood stalls, noodle shops, and dessert vendors stretching for blocks. The Lumpini area hawker stalls near Sala Daeng serve excellent lunchtime meals to office workers at ฿40-60 per dish. Rot Fai Market (Train Market) at Ratchada is a massive night market with vintage shops and dozens of food stalls offering everything from barbecued ribs to Japanese-style crepe desserts.
                   </p>
@@ -529,9 +531,9 @@ export default function BudgetTravelPage() {
                     The strategy is simple: go where Thai people eat, eat what they eat, and pay what they pay. Tourist-oriented restaurants near the Grand Palace or Khao San Road charge 2-4 times more for the same dishes you can get around the corner. Walk two blocks away from any major tourist attraction and prices drop immediately. Night markets are particularly good value because competition between stalls keeps prices low, and the food is cooked fresh to order right in front of you.
                   </p>
                   <p className="text-sm mt-3">
-                    <Link href="/blog/bangkok-lumpini-hawker-centre-street-food-2026/" className="text-thailand-blue hover:underline font-semibold">Bangkok Lumpini hawker centre guide →</Link>
+                    <Link href="/blog/bangkok-lumpini-hawker-centre-street-food-2026/" className="text-thailand-blue hover:underline font-semibold">{t("s039_bangkok_lumpini_hawker_centre")}</Link>
                     {' '}<span className="text-gray-400">|</span>{' '}
-                    <Link href="/blog/eat-like-local-thailand-under-5-dollars/" className="text-thailand-blue hover:underline font-semibold">Eat like a local for under $5 →</Link>
+                    <Link href="/blog/eat-like-local-thailand-under-5-dollars/" className="text-thailand-blue hover:underline font-semibold">{t("s040_eat_like_a_local")}</Link>
                   </p>
                 </div>
               </div>
@@ -553,7 +555,7 @@ export default function BudgetTravelPage() {
               <div className="space-y-8">
                 {/* Budget flights */}
                 <div className="bg-white rounded-xl shadow-sm p-5">
-                  <h3 className="text-xl font-bold font-heading text-gray-900 mb-3">Budget Flights (from ฿800 one-way)</h3>
+                  <h3 className="text-xl font-bold font-heading text-gray-900 mb-3">{t("s041_budget_flights_from_800")}</h3>
                   <p className="text-gray-700 leading-relaxed mb-3">
                     Thailand&apos;s domestic airline market is fiercely competitive, with AirAsia, Nok Air, Thai Lion Air, and Thai VietJet all fighting for budget travelers. The result is astonishingly cheap flights: Bangkok to Chiang Mai starts from ฿800 one-way (about $23), Bangkok to Phuket from ฿900, and Bangkok to Krabi from ฿1,000. These prices are for hand luggage only — add ฿200-400 for a checked bag.
                   </p>
@@ -567,7 +569,7 @@ export default function BudgetTravelPage() {
 
                 {/* Overnight trains */}
                 <div className="bg-white rounded-xl shadow-sm p-5">
-                  <h3 className="text-xl font-bold font-heading text-gray-900 mb-3">Overnight Trains (from ฿500)</h3>
+                  <h3 className="text-xl font-bold font-heading text-gray-900 mb-3">{t("s042_overnight_trains_from_500")}</h3>
                   <p className="text-gray-700 leading-relaxed mb-3">
                     Thailand&apos;s overnight trains are a budget traveler&apos;s dream because they double as transport and accommodation — you save a night&apos;s hotel cost while covering ground. The most popular route is Bangkok to Chiang Mai (12-14 hours overnight), with second-class fan sleeper berths starting at ฿500 and air-conditioned sleepers at ฿800-1,000. You get a padded bunk with a curtain for privacy, sheets and a pillow, and the gentle rocking of the train to lull you to sleep.
                   </p>
@@ -581,7 +583,7 @@ export default function BudgetTravelPage() {
 
                 {/* Local transport */}
                 <div className="bg-white rounded-xl shadow-sm p-5">
-                  <h3 className="text-xl font-bold font-heading text-gray-900 mb-3">Songthaews and Local Transport (฿20-40)</h3>
+                  <h3 className="text-xl font-bold font-heading text-gray-900 mb-3">{t("s043_songthaews_and_local_transport")}</h3>
                   <p className="text-gray-700 leading-relaxed mb-3">
                     Songthaews (shared pickup trucks with bench seats in the back) are the cheapest way to get around most Thai cities. In Chiang Mai, the red songthaews operate as shared taxis on loosely defined routes for ฿20-30 per person. In smaller cities like Pai and Sukhothai, similar shared vehicles cost even less. They are not the fastest or most comfortable option, but they are dirt cheap and go everywhere.
                   </p>
@@ -592,7 +594,7 @@ export default function BudgetTravelPage() {
 
                 {/* Grab */}
                 <div className="bg-white rounded-xl shadow-sm p-5">
-                  <h3 className="text-xl font-bold font-heading text-gray-900 mb-3">Grab — Cheaper Than Tuk-Tuks, Every Time</h3>
+                  <h3 className="text-xl font-bold font-heading text-gray-900 mb-3">{t("s044_grab_cheaper_than_tuk")}</h3>
                   <p className="text-gray-700 leading-relaxed mb-3">
                     Download the Grab app before you arrive in Thailand. It is Southeast Asia&apos;s equivalent of Uber and is available in all major Thai cities. Grab shows you the fare upfront before you book, which eliminates the negotiation hassle with tuk-tuk and taxi drivers who may try to overcharge tourists. In Bangkok, a Grab ride across town typically costs ฿80-200 — often 30-50% less than what a tuk-tuk driver would quote for the same journey.
                   </p>
@@ -603,7 +605,7 @@ export default function BudgetTravelPage() {
 
                 {/* BTS/MRT */}
                 <div className="bg-white rounded-xl shadow-sm p-5">
-                  <h3 className="text-xl font-bold font-heading text-gray-900 mb-3">BTS/MRT in Bangkok (฿16-62 per trip)</h3>
+                  <h3 className="text-xl font-bold font-heading text-gray-900 mb-3">{t("s045_bts_mrt_in_bangkok")}</h3>
                   <p className="text-gray-700 leading-relaxed mb-3">
                     Bangkok&apos;s BTS Skytrain and MRT subway are fast, air-conditioned, and remarkably cheap. Single-journey fares range from ฿16 to ฿62 depending on distance. A day pass costs ฿140 for unlimited BTS rides, which pays for itself after 3-4 trips. The Rabbit card (BTS) and MRT card are reloadable stored-value cards that save you time queuing for tokens — get one at any station for a ฿100-200 refundable deposit.
                   </p>
@@ -611,13 +613,13 @@ export default function BudgetTravelPage() {
                     The BTS and MRT cover most of the areas tourists visit in Bangkok: Siam (shopping), Sukhumvit (hotels and restaurants), Silom (business district and nightlife), Chatuchak (weekend market), and the river area (temples and Grand Palace). For destinations not on the train lines, take the train as far as you can and then switch to a Grab or motorcycle taxi for the last mile — this is almost always faster and cheaper than a taxi or Grab for the entire journey.
                   </p>
                   <p className="text-sm mt-3">
-                    <Link href="/transport/" className="text-thailand-blue hover:underline font-semibold">Full Thailand transport guide →</Link>
+                    <Link href="/transport/" className="text-thailand-blue hover:underline font-semibold">{t("s046_full_thailand_transport_guide")}</Link>
                   </p>
                 </div>
 
                 {/* Ferries */}
                 <div className="bg-white rounded-xl shadow-sm p-5">
-                  <h3 className="text-xl font-bold font-heading text-gray-900 mb-3">Ferries Between Islands</h3>
+                  <h3 className="text-xl font-bold font-heading text-gray-900 mb-3">{t("s047_ferries_between_islands")}</h3>
                   <p className="text-gray-700 leading-relaxed mb-3">
                     Getting between Thailand&apos;s islands requires ferries, and prices vary significantly between operators and booking channels. The main ferry operators for the Gulf islands (Koh Samui, Koh Phangan, Koh Tao) are Lomprayah and Seatran, with prices ranging from ฿400-700 per journey. On the Andaman coast, ferries to Koh Lanta, Koh Phi Phi, and Koh Lipe run during the November-April season with similar pricing.
                   </p>
@@ -625,7 +627,7 @@ export default function BudgetTravelPage() {
                     The most convenient way to book ferries, combined bus-ferry tickets, and train-ferry packages is through 12Go, which aggregates all operators and lets you compare times and prices. Booking through 12Go is particularly useful for combined tickets (for example, a single ticket that covers the bus from Bangkok to Chumphon plus the catamaran to Koh Tao), which saves you from buying separate tickets and coordinating connections yourself.
                   </p>
                   <p className="text-sm mt-3">
-                    <a href="https://12go.tpo.lv/tNA80urD?subid=budget-transport" target="_blank" rel="noopener noreferrer" className="text-thailand-blue hover:underline font-semibold">Book ferries and transport on 12Go →</a>
+                    <a href="https://12go.tpo.lv/tNA80urD?subid=budget-transport" target="_blank" rel="noopener noreferrer" className="text-thailand-blue hover:underline font-semibold">{t("s048_book_ferries_and_transport")}</a>
                   </p>
                 </div>
               </div>
@@ -648,22 +650,22 @@ export default function BudgetTravelPage() {
                       <p className="text-gray-700 leading-relaxed">{item.answer}</p>
                       {item.question === 'Is $50 a day enough in Thailand?' && (
                         <p className="mt-2 text-sm">
-                          <Link href="/blog/thailand-budget-2026-daily-costs/" className="text-thailand-blue hover:underline font-semibold">Full daily cost breakdown for 2026 →</Link>
+                          <Link href="/blog/thailand-budget-2026-daily-costs/" className="text-thailand-blue hover:underline font-semibold">{t("s049_full_daily_cost_breakdown")}</Link>
                         </p>
                       )}
                       {item.question === 'Is Thailand cheaper than Bali?' && (
                         <p className="mt-2 text-sm">
-                          <Link href="/things-to-do-in-thailand/" className="text-thailand-blue hover:underline font-semibold">Best things to do in Thailand →</Link>
+                          <Link href="/things-to-do-in-thailand/" className="text-thailand-blue hover:underline font-semibold">{t("s050_best_things_to_do")}</Link>
                         </p>
                       )}
                       {item.question === "What's the cheapest month to visit Thailand?" && (
                         <p className="mt-2 text-sm">
-                          <Link href="/best-time-to-visit/" className="text-thailand-blue hover:underline font-semibold">Full month-by-month guide →</Link>
+                          <Link href="/best-time-to-visit/" className="text-thailand-blue hover:underline font-semibold">{t("s051_full_month_by_month")}</Link>
                         </p>
                       )}
                       {item.question === 'Can I use credit cards in Thailand?' && (
                         <p className="mt-2 text-sm">
-                          <Link href="/thailand-travel-guide/" className="text-thailand-blue hover:underline font-semibold">Complete Thailand travel guide →</Link>
+                          <Link href="/thailand-travel-guide/" className="text-thailand-blue hover:underline font-semibold">{t("s052_complete_thailand_travel_guide")}</Link>
                         </p>
                       )}
                     </div>

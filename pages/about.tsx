@@ -3,8 +3,11 @@ import Link from 'next/link';
 import Image from 'next/image';
 import { useRouter } from 'next/router';
 import Breadcrumbs from '../components/Breadcrumbs';
+import { useT } from '../lib/i18n';
+import { strings as i18nStrings } from '../lib/i18n/about';
 
 export default function AboutPage() {
+  const t = useT(i18nStrings);
   const siteLogoUrl = 'https://go2-thailand.com/images/brand/go2thailand-logo-2026.png';
   const { locale } = useRouter();
   const isNl = locale === 'nl';
@@ -39,7 +42,6 @@ export default function AboutPage() {
       },
     },
   };
-
   return (
     <>
       <Head>
@@ -82,7 +84,7 @@ export default function AboutPage() {
               <p className="text-gray-700">
                 {isNl
                   ? <>We behandelen <strong>33 steden</strong>, <strong>11 eilanden</strong>, <strong>295 attracties</strong>,{' '}<strong>46 Thaise gerechten</strong> en <strong>245 transportroutes</strong> in elke regio van Thailand. Onze gidsen zijn onderzocht, op feiten gecontroleerd en regelmatig bijgewerkt.</>
-                  : <>We cover <strong>33 cities</strong>, <strong>11 islands</strong>, <strong>295 attractions</strong>,{' '}<strong>46 Thai dishes</strong>, and <strong>245 transport routes</strong> across every region of Thailand. Our guides are researched, fact-checked, and regularly updated.</>}
+                  : <>{t("s001_we_cover")} <strong>33 cities</strong>, <strong>11 islands</strong>, <strong>295 attractions</strong>,{' '}<strong>46 Thai dishes</strong>, and <strong>245 transport routes</strong> across every region of Thailand. Our guides are researched, fact-checked, and regularly updated.</>}
               </p>
             </div>
 
@@ -151,8 +153,8 @@ export default function AboutPage() {
                   </p>
                   <p className="text-gray-700">
                     {isNl
-                      ? <>Marvin runt ook het{' '}<strong>Go2 Travel Network</strong> — een familie van bestemmingsgidsen waaronder{' '}<a href="https://go2-vietnam.com" target="_blank" rel="noopener noreferrer" className="text-thailand-blue hover:underline">Go2Vietnam</a>,{' '}<a href="https://go2-bali.com" target="_blank" rel="noopener noreferrer" className="text-thailand-blue hover:underline">Go2Bali</a>,{' '}<a href="https://go2-japan.com" target="_blank" rel="noopener noreferrer" className="text-thailand-blue hover:underline">Go2Japan</a> en meer.</>
-                      : <>Marvin also runs the{' '}<strong>Go2 Travel Network</strong> — a family of destination guides including{' '}<a href="https://go2-vietnam.com" target="_blank" rel="noopener noreferrer" className="text-thailand-blue hover:underline">Go2Vietnam</a>,{' '}<a href="https://go2-bali.com" target="_blank" rel="noopener noreferrer" className="text-thailand-blue hover:underline">Go2Bali</a>,{' '}<a href="https://go2-japan.com" target="_blank" rel="noopener noreferrer" className="text-thailand-blue hover:underline">Go2Japan</a>, and more.</>}
+                      ? <>Marvin runt ook het{' '}<strong>{t("s002_go2_travel_network")}</strong> — een familie van bestemmingsgidsen waaronder{' '}<a href="https://go2-vietnam.com" target="_blank" rel="noopener noreferrer" className="text-thailand-blue hover:underline">Go2Vietnam</a>,{' '}<a href="https://go2-bali.com" target="_blank" rel="noopener noreferrer" className="text-thailand-blue hover:underline">Go2Bali</a>,{' '}<a href="https://go2-japan.com" target="_blank" rel="noopener noreferrer" className="text-thailand-blue hover:underline">Go2Japan</a> en meer.</>
+                      : <>Marvin also runs the{' '}<strong>{t("s002_go2_travel_network")}</strong> — a family of destination guides including{' '}<a href="https://go2-vietnam.com" target="_blank" rel="noopener noreferrer" className="text-thailand-blue hover:underline">Go2Vietnam</a>,{' '}<a href="https://go2-bali.com" target="_blank" rel="noopener noreferrer" className="text-thailand-blue hover:underline">Go2Bali</a>,{' '}<a href="https://go2-japan.com" target="_blank" rel="noopener noreferrer" className="text-thailand-blue hover:underline">Go2Japan</a>, and more.</>}
                   </p>
                 </div>
               </div>
@@ -183,7 +185,7 @@ export default function AboutPage() {
                   <span className="text-green-500 mt-1 flex-shrink-0">&#10003;</span>
                   <span>{isNl
                     ? <><strong>Transparante affiliates</strong> — We verdienen commissies via sommige links, duidelijk vermeld. Dit beïnvloedt nooit onze aanbevelingen. Zie onze <Link href="/affiliate-disclosure/" className="text-thailand-blue hover:underline">affiliate verklaring</Link>.</>
-                    : <><strong>Transparent affiliates</strong> — We earn commissions from some links, clearly disclosed. This never influences our recommendations. See our <Link href="/affiliate-disclosure/" className="text-thailand-blue hover:underline">affiliate disclosure</Link>.</>}</span>
+                    : <><strong>{t("s004_transparent_affiliates")}</strong> — We earn commissions from some links, clearly disclosed. This never influences our recommendations. See our <Link href="/affiliate-disclosure/" className="text-thailand-blue hover:underline">affiliate disclosure</Link>.</>}</span>
                 </li>
                 <li className="flex items-start gap-3">
                   <span className="text-green-500 mt-1 flex-shrink-0">&#10003;</span>
@@ -210,12 +212,12 @@ export default function AboutPage() {
               <p className="text-gray-700 mb-4">
                 {isNl
                   ? <><strong>AI-ondersteund, door mensen geverifieerd:</strong> We gebruiken AI-tools om te helpen bij onderzoek, het schrijven en data-analyse. Alle inhoud wordt beoordeeld, op feiten gecontroleerd en geverifieerd door ons redactieteam voor publicatie. Statistieken komen van officiële organisaties (Tourism Authority of Thailand, UNESCO, overheidsinstanties) en worden direct naar hun bron gelinkt.</>
-                  : <><strong>AI-assisted, human-verified:</strong> We use AI tools to assist with research, drafting, and data analysis. All content is reviewed, fact-checked, and verified by our editorial team before publication. Statistics are sourced from official organizations (Tourism Authority of Thailand, UNESCO, government agencies) and linked directly to their origin.</>}
+                  : <><strong>{t("s005_ai_assisted_human_verified")}</strong> {t("s006_we_use_ai_tools")}</>}
               </p>
               <p className="text-gray-700">
                 {isNl
                   ? <><strong>Correctiebeleid:</strong> Als je een fout vindt in onze inhoud, <Link href="/contact/" className="text-thailand-blue hover:underline">neem dan contact met ons op</Link>. We nemen nauwkeurigheid serieus en zullen geverifieerde fouten binnen 24 uur corrigeren.</>
-                  : <><strong>Correction policy:</strong> If you find an error in our content, please{' '}<Link href="/contact/" className="text-thailand-blue hover:underline">contact us</Link>. We take accuracy seriously and will correct verified errors within 24 hours.</>}
+                  : <><strong>{t("s007_correction_policy")}</strong> If you find an error in our content, please{' '}<Link href="/contact/" className="text-thailand-blue hover:underline">contact us</Link>. We take accuracy seriously and will correct verified errors within 24 hours.</>}
               </p>
             </div>
 
@@ -230,8 +232,8 @@ export default function AboutPage() {
                 </p>
                 <p>
                   {isNl
-                    ? <>We bieden ook tools die grote sites niet hebben: een{' '}<Link href="/thailand-index/" className="text-thailand-blue hover:underline">Thailand Travel Index</Link>{' '}die alle 33 steden vergelijkt op budget, weer en vervoersconnectiviteit, en een{' '}<Link href="/compare/" className="text-thailand-blue hover:underline">bestemmingsvergelijkingstool</Link>{' '}om je te helpen kiezen tussen vergelijkbare steden.</>
-                    : <>We also provide tools that big sites don&apos;t: a{' '}<Link href="/thailand-index/" className="text-thailand-blue hover:underline">Thailand Travel Index</Link>{' '}comparing all 33 cities by budget, weather, and transport connectivity, and a{' '}<Link href="/compare/" className="text-thailand-blue hover:underline">destination comparison tool</Link>{' '}to help you choose between similar cities.</>}
+                    ? <>We bieden ook tools die grote sites niet hebben: een{' '}<Link href="/thailand-index/" className="text-thailand-blue hover:underline">{t("s008_thailand_travel_index")}</Link>{' '}die alle 33 steden vergelijkt op budget, weer en vervoersconnectiviteit, en een{' '}<Link href="/compare/" className="text-thailand-blue hover:underline">bestemmingsvergelijkingstool</Link>{' '}om je te helpen kiezen tussen vergelijkbare steden.</>
+                    : <>We also provide tools that big sites don&apos;t: a{' '}<Link href="/thailand-index/" className="text-thailand-blue hover:underline">{t("s008_thailand_travel_index")}</Link>{' '}comparing all 33 cities by budget, weather, and transport connectivity, and a{' '}<Link href="/compare/" className="text-thailand-blue hover:underline">destination comparison tool</Link>{' '}to help you choose between similar cities.</>}
                 </p>
               </div>
             </div>

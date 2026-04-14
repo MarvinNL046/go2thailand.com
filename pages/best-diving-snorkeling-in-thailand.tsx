@@ -5,6 +5,8 @@ import { getDivingSnorkelingIndex, getDivingSnorkelingByCity } from '../lib/divi
 import { formatPrice } from '../lib/price';
 import Breadcrumbs from '../components/Breadcrumbs';
 import SEOHead from '../components/SEOHead';
+import { useT } from '../lib/i18n';
+import { strings as i18nStrings } from '../lib/i18n/best-diving-snorkeling-in-thailand';
 
 interface Activity {
   name: string;
@@ -283,6 +285,7 @@ const seasonTable = [
 ];
 
 export default function BestDivingSnorkelingPage({ cities, topActivities }: Props) {
+  const t = useT(i18nStrings);
   const { locale } = useRouter();
   const loc = locale || 'en';
   const isNl = locale === 'nl';
@@ -408,10 +411,10 @@ export default function BestDivingSnorkelingPage({ cities, topActivities }: Prop
             <div className="bg-white rounded-2xl shadow-md p-8 mb-10">
               <h2 className="text-2xl font-bold font-heading text-gray-900 mb-4">{isNl ? 'Overzicht' : 'Overview'}</h2>
               <p className="text-gray-700 mb-4">
-                Thailand has two geographically distinct dive regions: the <strong>Andaman Sea</strong> on the west coast and the <strong>Gulf of Thailand</strong> on the east. They run on opposite monsoon cycles, which means the best diving in each region falls in different months — and planning around this is the single most important factor in choosing where and when to go.
+                Thailand has two geographically distinct dive regions: the <strong>{t("s001_andaman_sea")}</strong> on the west coast and the <strong>{t("s002_gulf_of_thailand")}</strong> on the east. They run on opposite monsoon cycles, which means the best diving in each region falls in different months — and planning around this is the single most important factor in choosing where and when to go.
               </p>
               <p className="text-gray-700 mb-4">
-                The Andaman season runs from <strong>November to April</strong>. The Similan Islands national park is legally closed between May 16 and November 14 every year under a closure enforced by the Department of National Parks (DNP) to allow reef recovery. The Gulf of Thailand season runs from <strong>March to October</strong>, making Koh Tao and the surrounding area a practical destination during Andaman monsoon months.
+                The Andaman season runs from <strong>{t("s003_november_to_april")}</strong>. The Similan Islands national park is legally closed between May 16 and November 14 every year under a closure enforced by the Department of National Parks (DNP) to allow reef recovery. The Gulf of Thailand season runs from <strong>{t("s004_march_to_october")}</strong>, making Koh Tao and the surrounding area a practical destination during Andaman monsoon months.
               </p>
               <p className="text-gray-700">
                 Koh Tao produces more PADI Open Water certifications than almost anywhere else on the planet, according to PADI&apos;s own destination profiles. Intense competition among roughly 100+ dive operators on the island keeps certification prices at 9,900–12,000 THB all-inclusive — among the lowest in the world. The Andaman sites generally cost more due to boat transfer distances, with liveaboards being the most common format for the Similan and Surin Islands.
@@ -423,7 +426,7 @@ export default function BestDivingSnorkelingPage({ cities, topActivities }: Prop
               <div className="px-8 pt-8 pb-4">
                 <p className="section-label">{isNl ? 'Seizoenen' : 'Seasons'}</p>
                 <h2 className="text-2xl font-bold font-heading text-gray-900 mb-2">{isNl ? 'Duikseizoen per Regio' : 'Diving Season by Region'}</h2>
-                <p className="text-gray-600 text-sm mb-4">Thailand&apos;s two coasts operate on opposite monsoon cycles. Plan your trip around this before booking anything.</p>
+                <p className="text-gray-600 text-sm mb-4">{t("s005_thailand_apos_s_two")}</p>
               </div>
               <div className="overflow-x-auto">
                 <table className="w-full text-left text-sm">
@@ -455,7 +458,7 @@ export default function BestDivingSnorkelingPage({ cities, topActivities }: Prop
             <div className="mb-4">
               <p className="section-label">{isNl ? 'Duiklocaties' : 'Dive Sites'}</p>
               <h2 className="text-2xl font-bold font-heading text-gray-900 mb-2">{isNl ? 'Top 10 Duiklocaties in Thailand' : 'Top 10 Dive Sites in Thailand'}</h2>
-              <p className="text-gray-600 text-sm mb-8">Each profile includes verifiable location data, seasonal windows, depth ranges, and conservation context sourced from PADI dive site records, the DNP, and DMCR publications.</p>
+              <p className="text-gray-600 text-sm mb-8">{t("s006_each_profile_includes_verifiable")}</p>
             </div>
 
             <div className="space-y-8 mb-12">
@@ -531,47 +534,47 @@ export default function BestDivingSnorkelingPage({ cities, topActivities }: Prop
                   <thead className="bg-surface-cream">
                     <tr>
                       <th className="px-4 py-3 font-semibold text-gray-700">{isNl ? 'Cursus' : 'Course'}</th>
-                      <th className="px-4 py-3 font-semibold text-gray-700">Koh Tao (THB)</th>
-                      <th className="px-4 py-3 font-semibold text-gray-700">Phuket (THB)</th>
+                      <th className="px-4 py-3 font-semibold text-gray-700">{t("s007_koh_tao_thb")}</th>
+                      <th className="px-4 py-3 font-semibold text-gray-700">{t("s008_phuket_thb")}</th>
                       <th className="px-4 py-3 font-semibold text-gray-700">{isNl ? 'Duur' : 'Duration'}</th>
                       <th className="px-4 py-3 font-semibold text-gray-700">{isNl ? 'Vereiste' : 'Prerequisite'}</th>
                     </tr>
                   </thead>
                   <tbody className="divide-y divide-gray-100">
                     <tr className="hover:bg-gray-50">
-                      <td className="px-4 py-3 font-medium text-gray-900">Discover Scuba Diving</td>
+                      <td className="px-4 py-3 font-medium text-gray-900">{t("s009_discover_scuba_diving")}</td>
                       <td className="px-4 py-3 text-gray-700">~2,500</td>
                       <td className="px-4 py-3 text-gray-700">3,000–5,000</td>
-                      <td className="px-4 py-3 text-gray-600">Half day</td>
-                      <td className="px-4 py-3 text-gray-600">None (max 12 m with instructor)</td>
+                      <td className="px-4 py-3 text-gray-600">{t("s010_half_day")}</td>
+                      <td className="px-4 py-3 text-gray-600">{t("s011_none_max_12_m")}</td>
                     </tr>
                     <tr className="hover:bg-gray-50">
-                      <td className="px-4 py-3 font-medium text-gray-900">PADI Open Water</td>
+                      <td className="px-4 py-3 font-medium text-gray-900">{t("s012_padi_open_water")}</td>
                       <td className="px-4 py-3 text-gray-700">9,900–12,000*</td>
                       <td className="px-4 py-3 text-gray-700">15,000–20,000</td>
                       <td className="px-4 py-3 text-gray-600">3–4 days</td>
-                      <td className="px-4 py-3 text-gray-600">None (qualifies to 18 m)</td>
+                      <td className="px-4 py-3 text-gray-600">{t("s013_none_qualifies_to_18")}</td>
                     </tr>
                     <tr className="hover:bg-gray-50">
-                      <td className="px-4 py-3 font-medium text-gray-900">PADI Advanced Open Water</td>
+                      <td className="px-4 py-3 font-medium text-gray-900">{t("s014_padi_advanced_open_water")}</td>
                       <td className="px-4 py-3 text-gray-700">~11,000</td>
                       <td className="px-4 py-3 text-gray-700">14,000–18,000</td>
                       <td className="px-4 py-3 text-gray-600">2 days</td>
-                      <td className="px-4 py-3 text-gray-600">Open Water (qualifies to 30 m)</td>
+                      <td className="px-4 py-3 text-gray-600">{t("s015_open_water_qualifies_to")}</td>
                     </tr>
                     <tr className="hover:bg-gray-50">
-                      <td className="px-4 py-3 font-medium text-gray-900">PADI Rescue Diver</td>
+                      <td className="px-4 py-3 font-medium text-gray-900">{t("s016_padi_rescue_diver")}</td>
                       <td className="px-4 py-3 text-gray-700">12,000–16,000</td>
                       <td className="px-4 py-3 text-gray-700">16,000–22,000</td>
                       <td className="px-4 py-3 text-gray-600">3 days</td>
-                      <td className="px-4 py-3 text-gray-600">Advanced OW + EFR</td>
+                      <td className="px-4 py-3 text-gray-600">{t("s017_advanced_ow_efr")}</td>
                     </tr>
                     <tr className="hover:bg-gray-50">
-                      <td className="px-4 py-3 font-medium text-gray-900">Divemaster (DM)</td>
+                      <td className="px-4 py-3 font-medium text-gray-900">{t("s018_divemaster_dm")}</td>
                       <td className="px-4 py-3 text-gray-700">35,000–55,000</td>
                       <td className="px-4 py-3 text-gray-700">50,000–80,000</td>
                       <td className="px-4 py-3 text-gray-600">4–8 weeks</td>
-                      <td className="px-4 py-3 text-gray-600">Rescue Diver + 40 logged dives</td>
+                      <td className="px-4 py-3 text-gray-600">{t("s019_rescue_diver_40_logged")}</td>
                     </tr>
                   </tbody>
                 </table>
@@ -587,7 +590,7 @@ export default function BestDivingSnorkelingPage({ cities, topActivities }: Prop
                 <div className="px-8 pt-8 pb-4">
                   <p className="section-label">{isNl ? 'Per Bestemming' : 'By Destination'}</p>
                   <h2 className="text-2xl font-bold font-heading text-gray-900 mb-2">{isNl ? 'Bekijk Activiteiten per Stad' : 'Browse Activities by City'}</h2>
-                  <p className="text-gray-600 text-sm mb-4">Compare dive operators, trip prices, and available activities across Thailand&apos;s main dive destinations.</p>
+                  <p className="text-gray-600 text-sm mb-4">{t("s020_compare_dive_operators_trip")}</p>
                 </div>
                 <div className="overflow-x-auto">
                   <table className="w-full text-left text-sm">
@@ -694,17 +697,17 @@ export default function BestDivingSnorkelingPage({ cities, topActivities }: Prop
                 <div className="bg-surface-cream rounded-xl p-5">
                   <h3 className="font-semibold text-gray-900 mb-3">{isNl ? 'Overheidsinstanties' : 'Government Bodies'}</h3>
                   <ul className="space-y-2 text-sm text-gray-700">
-                    <li><strong>Department of National Parks (DNP)</strong> — manages all national marine parks including the Similan and Surin Islands; enforces seasonal closures and anchoring bans</li>
-                    <li><strong>Department of Marine and Coastal Resources (DMCR)</strong> — responsible for coral reef monitoring, rehabilitation, and the &quot;Reduce, Refrain, Rescue&quot; policy framework across Thai waters</li>
-                    <li><strong>Marine and Coastal Research and Development Institute</strong> — operates under DMCR; conducts biological surveys of coral, seagrass, and mangrove habitats</li>
+                    <li><strong>{t("s021_department_of_national_parks")}</strong> — manages all national marine parks including the Similan and Surin Islands; enforces seasonal closures and anchoring bans</li>
+                    <li><strong>{t("s022_department_of_marine_and")}</strong> — responsible for coral reef monitoring, rehabilitation, and the &quot;Reduce, Refrain, Rescue&quot; policy framework across Thai waters</li>
+                    <li><strong>{t("s023_marine_and_coastal_research")}</strong> — operates under DMCR; conducts biological surveys of coral, seagrass, and mangrove habitats</li>
                   </ul>
                 </div>
                 <div className="bg-surface-cream rounded-xl p-5">
                   <h3 className="font-semibold text-gray-900 mb-3">{isNl ? 'Actieve NGO Programma\'s' : 'Active NGO Programs'}</h3>
                   <ul className="space-y-2 text-sm text-gray-700">
-                    <li><strong>New Heaven Reef Conservation (Koh Tao)</strong> — {isNl ? 'langlopend rifmonitoring- en koraaltuinierprogramma, actief sinds 2011; leidt duikprofessionals op in mariene onderzoeksmethodologie' : 'long-running reef monitoring and coral gardening, operating since 2011; trains dive professionals in marine survey methodology'}</li>
-                    <li><strong>COREsea (Koh Phangan / Samui Archipelago)</strong> — {isNl ? 'mariene natuurbeschermingsonderzoek en educatie; beheert koraalkwekerijen en vispopulatie-inventarisaties' : 'marine conservation research and education; runs coral nurseries and fish population surveys'}</li>
-                    <li><strong>Big Blue Conservation (Koh Tao)</strong> — {isNl ? 'rifonderzoekstraining en citizen science-programma\'s, geïntegreerd met het opleidingscentrum voor duikinstructeurs' : 'reef survey training and citizen science programs integrated with the dive instructor development centre'}</li>
+                    <li><strong>{t("s024_new_heaven_reef_conservation")}</strong> — {isNl ? 'langlopend rifmonitoring- en koraaltuinierprogramma, actief sinds 2011; leidt duikprofessionals op in mariene onderzoeksmethodologie' : 'long-running reef monitoring and coral gardening, operating since 2011; trains dive professionals in marine survey methodology'}</li>
+                    <li><strong>{t("s025_coresea_koh_phangan_samui")}</strong> — {isNl ? 'mariene natuurbeschermingsonderzoek en educatie; beheert koraalkwekerijen en vispopulatie-inventarisaties' : 'marine conservation research and education; runs coral nurseries and fish population surveys'}</li>
+                    <li><strong>{t("s026_big_blue_conservation_koh")}</strong> — {isNl ? 'rifonderzoekstraining en citizen science-programma\'s, geïntegreerd met het opleidingscentrum voor duikinstructeurs' : 'reef survey training and citizen science programs integrated with the dive instructor development centre'}</li>
                   </ul>
                 </div>
               </div>
@@ -750,19 +753,19 @@ export default function BestDivingSnorkelingPage({ cities, topActivities }: Prop
             <div className="bg-surface-cream rounded-2xl p-6 mb-12 border border-gray-200">
               <h3 className="font-semibold text-gray-700 mb-3 text-sm uppercase tracking-wide">{isNl ? 'Bronnen & Referenties' : 'Sources & References'}</h3>
               <ul className="space-y-1 text-sm text-gray-600">
-                <li>PADI Dive Site: Similan Islands National Marine Park — <a href="https://www.padi.com/dive-site/thailand/similan-islands-national-marine-park/" target="_blank" rel="noopener noreferrer" className="text-thailand-blue hover:underline">padi.com</a></li>
-                <li>PADI Dive Site: Hin Daeng / Hin Muang — <a href="https://www.padi.com/dive-site/thailand/hin-daeng-hin-muang/" target="_blank" rel="noopener noreferrer" className="text-thailand-blue hover:underline">padi.com</a></li>
-                <li>PADI Diving in Koh Tao — <a href="https://www.padi.com/diving-in/koh-tao/" target="_blank" rel="noopener noreferrer" className="text-thailand-blue hover:underline">padi.com</a></li>
-                <li>PADI Dive Site: Sail Rock — <a href="https://www.padi.com/dive-site/thailand/sail-rock-3/" target="_blank" rel="noopener noreferrer" className="text-thailand-blue hover:underline">padi.com</a></li>
-                <li>Similan Dive Center — Similan Islands Diving Season — <a href="https://similandivecenter.com/news/similan-islands-diving-season/" target="_blank" rel="noopener noreferrer" className="text-thailand-blue hover:underline">similandivecenter.com</a></li>
-                <li>Richelieu Rock — Wikipedia — <a href="https://en.wikipedia.org/wiki/Richelieu_Rock" target="_blank" rel="noopener noreferrer" className="text-thailand-blue hover:underline">wikipedia.org</a></li>
-                <li>Surin Islands — Wikipedia (Mu Koh Surin National Park) — <a href="https://en.wikipedia.org/wiki/Surin_Islands" target="_blank" rel="noopener noreferrer" className="text-thailand-blue hover:underline">wikipedia.org</a></li>
-                <li>Tarutao National Marine Park — Trat Province — <a href="https://www.zubludiving.com/destination/thailand/andaman-sea/koh-lipe-and-tarutao" target="_blank" rel="noopener noreferrer" className="text-thailand-blue hover:underline">zubludiving.com</a></li>
-                <li>Department of Marine and Coastal Resources (DMCR) — <a href="https://responsiblethailand.com/protecting-thailands-coral-reefs/" target="_blank" rel="noopener noreferrer" className="text-thailand-blue hover:underline">responsiblethailand.com</a></li>
-                <li>New Heaven Reef Conservation, Koh Tao — <a href="https://newheavenreefconservation.org/" target="_blank" rel="noopener noreferrer" className="text-thailand-blue hover:underline">newheavenreefconservation.org</a></li>
-                <li>Chumphon Pinnacle dive site — <a href="https://divehappy.com/thailand/koh-tao-dive-sites-chumphon-pinnacle/" target="_blank" rel="noopener noreferrer" className="text-thailand-blue hover:underline">divehappy.com</a></li>
-                <li>Racha Islands diving — <a href="https://www.aussiediversphuket.com/day-trip-3-dives-racha-yai-racha-noi/" target="_blank" rel="noopener noreferrer" className="text-thailand-blue hover:underline">aussiediversphuket.com</a></li>
-                <li>Koh Chang / HTMS Chang wreck — <a href="https://diving-kohchang.com/divesites-koh-chang/koh-rang-national-park/" target="_blank" rel="noopener noreferrer" className="text-thailand-blue hover:underline">diving-kohchang.com</a></li>
+                <li>{t("s027_padi_dive_site_similan")} <a href="https://www.padi.com/dive-site/thailand/similan-islands-national-marine-park/" target="_blank" rel="noopener noreferrer" className="text-thailand-blue hover:underline">padi.com</a></li>
+                <li>{t("s028_padi_dive_site_hin")} <a href="https://www.padi.com/dive-site/thailand/hin-daeng-hin-muang/" target="_blank" rel="noopener noreferrer" className="text-thailand-blue hover:underline">padi.com</a></li>
+                <li>{t("s029_padi_diving_in_koh")} <a href="https://www.padi.com/diving-in/koh-tao/" target="_blank" rel="noopener noreferrer" className="text-thailand-blue hover:underline">padi.com</a></li>
+                <li>{t("s030_padi_dive_site_sail")} <a href="https://www.padi.com/dive-site/thailand/sail-rock-3/" target="_blank" rel="noopener noreferrer" className="text-thailand-blue hover:underline">padi.com</a></li>
+                <li>{t("s031_similan_dive_center_similan")} <a href="https://similandivecenter.com/news/similan-islands-diving-season/" target="_blank" rel="noopener noreferrer" className="text-thailand-blue hover:underline">similandivecenter.com</a></li>
+                <li>{t("s032_richelieu_rock_wikipedia")} <a href="https://en.wikipedia.org/wiki/Richelieu_Rock" target="_blank" rel="noopener noreferrer" className="text-thailand-blue hover:underline">wikipedia.org</a></li>
+                <li>{t("s033_surin_islands_wikipedia_mu")} <a href="https://en.wikipedia.org/wiki/Surin_Islands" target="_blank" rel="noopener noreferrer" className="text-thailand-blue hover:underline">wikipedia.org</a></li>
+                <li>{t("s034_tarutao_national_marine_park")} <a href="https://www.zubludiving.com/destination/thailand/andaman-sea/koh-lipe-and-tarutao" target="_blank" rel="noopener noreferrer" className="text-thailand-blue hover:underline">zubludiving.com</a></li>
+                <li>{t("s035_department_of_marine_and")} <a href="https://responsiblethailand.com/protecting-thailands-coral-reefs/" target="_blank" rel="noopener noreferrer" className="text-thailand-blue hover:underline">responsiblethailand.com</a></li>
+                <li>{t("s036_new_heaven_reef_conservation")} <a href="https://newheavenreefconservation.org/" target="_blank" rel="noopener noreferrer" className="text-thailand-blue hover:underline">newheavenreefconservation.org</a></li>
+                <li>{t("s037_chumphon_pinnacle_dive_site")} <a href="https://divehappy.com/thailand/koh-tao-dive-sites-chumphon-pinnacle/" target="_blank" rel="noopener noreferrer" className="text-thailand-blue hover:underline">divehappy.com</a></li>
+                <li>{t("s038_racha_islands_diving")} <a href="https://www.aussiediversphuket.com/day-trip-3-dives-racha-yai-racha-noi/" target="_blank" rel="noopener noreferrer" className="text-thailand-blue hover:underline">aussiediversphuket.com</a></li>
+                <li>{t("s039_koh_chang_htms_chang")} <a href="https://diving-kohchang.com/divesites-koh-chang/koh-rang-national-park/" target="_blank" rel="noopener noreferrer" className="text-thailand-blue hover:underline">diving-kohchang.com</a></li>
               </ul>
             </div>
 

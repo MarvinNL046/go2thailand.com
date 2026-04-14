@@ -7,6 +7,8 @@ import { getAllDishes } from '../../lib/food';
 import Breadcrumbs from '../../components/Breadcrumbs';
 import SEOHead from '../../components/SEOHead';
 import EmailCapture from '../../components/EmailCapture';
+import { useT } from '../../lib/i18n';
+import { strings as i18nStrings } from '../../lib/i18n/food-index';
 
 interface Dish {
   id: number;
@@ -28,6 +30,7 @@ interface FoodIndexPageProps {
 }
 
 export default function FoodIndexPage({ dishes, categories }: FoodIndexPageProps) {
+  const t = useT(i18nStrings);
   const { locale } = useRouter();
   const isNl = locale === 'nl';
   const lang = isNl ? 'nl' : 'en';
@@ -239,8 +242,8 @@ export default function FoodIndexPage({ dishes, categories }: FoodIndexPageProps
             {/* ============================================ */}
             <section id="essential-dishes" className="mb-16">
               <div className="border-t-2 border-thailand-blue/20 pt-8 mb-8">
-                <h2 className="text-3xl font-bold font-heading text-gray-900">Essential Thai Dishes Every Traveler Must Try</h2>
-                <p className="text-gray-600 mt-2">These seven dishes represent the breadth and brilliance of Thai cooking. Each one is widely available across the country, affordable, and genuinely delicious.</p>
+                <h2 className="text-3xl font-bold font-heading text-gray-900">{t("s001_essential_thai_dishes_every")}</h2>
+                <p className="text-gray-600 mt-2">{t("s002_these_seven_dishes_represent")}</p>
               </div>
 
               {/* Dish 1: Pad Thai */}
@@ -248,19 +251,19 @@ export default function FoodIndexPage({ dishes, categories }: FoodIndexPageProps
                 <div className="flex items-start gap-4">
                   <span className="flex-shrink-0 w-10 h-10 rounded-full bg-thailand-blue text-white flex items-center justify-center font-bold text-lg">1</span>
                   <div>
-                    <h3 className="text-xl font-bold font-heading text-gray-900 mb-2">Pad Thai (ผัดไทย)</h3>
+                    <h3 className="text-xl font-bold font-heading text-gray-900 mb-2">{t("s003_pad_thai")}</h3>
                     <p className="text-gray-700 leading-relaxed mb-3">
                       Pad thai is Thailand&apos;s most internationally famous dish, and for good reason. Thin rice noodles are stir-fried in a searingly hot wok with egg, tofu, dried shrimp, bean sprouts, and your choice of protein — usually shrimp, chicken, or pork. The sauce is a carefully balanced blend of tamarind paste, fish sauce, and palm sugar that gives pad thai its signature sweet-tangy flavor. A squeeze of fresh lime, a sprinkle of crushed peanuts, and a pinch of chili flakes complete the dish. The best pad thai is cooked over charcoal for a subtle smoky flavor the Thais call <em>wok hei</em>. Street food versions cost as little as 40-60 baht, while sit-down restaurants charge 120-200 baht. Bangkok&apos;s Thip Samai on Maha Chai Road has been serving what many consider the best pad thai in the country since 1966 — their signature version wrapped in a thin egg omelet is worth the queue.
                     </p>
                     <div className="bg-gray-50 rounded-xl p-4 text-sm text-gray-600 space-y-1">
                       <p><strong>{isNl ? 'Prijs:' : 'Price:'}</strong> 40-80 baht ({isNl ? 'straatvoedsel' : 'street food'}) | 150-250 baht ({isNl ? 'restaurant' : 'restaurant'})</p>
                       <p><strong>{isNl ? 'Pittigheid:' : 'Spice level:'}</strong> {isNl ? 'Mild — pittigheid is aanpasbaar met kruiden' : 'Mild — heat is adjustable with condiments'}</p>
-                      <p><strong>{isNl ? 'Best in:' : 'Best in:'}</strong> Bangkok (Thip Samai, Yaowarat stalls)</p>
+                      <p><strong>{isNl ? 'Best in:' : 'Best in:'}</strong> {t("s004_bangkok_thip_samai_yaowarat")}</p>
                     </div>
                     <p className="mt-3 text-sm">
-                      <Link href="/food/pad-thai/" className="text-thailand-blue hover:underline font-semibold">Full pad thai guide →</Link>
+                      <Link href="/food/pad-thai/" className="text-thailand-blue hover:underline font-semibold">{t("s005_full_pad_thai_guide")}</Link>
                       {' '}<span className="text-gray-400">|</span>{' '}
-                      <Link href="/blog/pad-thai-street-food-vs-restaurant-homemade/" className="text-thailand-blue hover:underline font-semibold">Street food vs. restaurant vs. homemade →</Link>
+                      <Link href="/blog/pad-thai-street-food-vs-restaurant-homemade/" className="text-thailand-blue hover:underline font-semibold">{t("s006_street_food_vs_restaurant")}</Link>
                     </p>
                   </div>
                 </div>
@@ -271,19 +274,19 @@ export default function FoodIndexPage({ dishes, categories }: FoodIndexPageProps
                 <div className="flex items-start gap-4">
                   <span className="flex-shrink-0 w-10 h-10 rounded-full bg-thailand-blue text-white flex items-center justify-center font-bold text-lg">2</span>
                   <div>
-                    <h3 className="text-xl font-bold font-heading text-gray-900 mb-2">Som Tam (ส้มตำ) — Green Papaya Salad</h3>
+                    <h3 className="text-xl font-bold font-heading text-gray-900 mb-2">{t("s007_som_tam_green_papaya")}</h3>
                     <p className="text-gray-700 leading-relaxed mb-3">
                       Som tam is arguably the most eaten dish in Thailand — Thais consume it at every meal, from breakfast to late-night snacking. Shredded unripe papaya is pounded in a clay mortar with garlic, chilies, long beans, tomatoes, dried shrimp, peanuts, lime juice, fish sauce, and palm sugar. The result is an explosive combination of crunchy, spicy, sour, sweet, and salty in every bite. Originating from Isaan (northeastern Thailand), som tam has countless regional variations: som tam thai is the milder, tourist-friendly version with peanuts and dried shrimp; som tam poo adds salted black crab for a funky, intensely savory kick; and som tam pla ra includes fermented fish sauce that locals love but can challenge uninitiated palates. Street vendors across the country pound it fresh to order, typically for 40-60 baht. Watch them adjust the chilies — four or more is standard for Thais, but asking for one or two is perfectly fine.
                     </p>
                     <div className="bg-gray-50 rounded-xl p-4 text-sm text-gray-600 space-y-1">
                       <p><strong>{isNl ? 'Prijs:' : 'Price:'}</strong> 40-60 baht ({isNl ? 'straatvoedsel' : 'street food'}) | 100-180 baht ({isNl ? 'restaurant' : 'restaurant'})</p>
                       <p><strong>{isNl ? 'Pittigheid:' : 'Spice level:'}</strong> {isNl ? 'Gemiddeld tot zeer pittig — altijd aanpasbaar' : 'Medium to very hot — always adjustable'}</p>
-                      <p><strong>{isNl ? 'Best in:' : 'Best in:'}</strong> Isaan region, Bangkok (any som tam cart), Chiang Mai</p>
+                      <p><strong>{isNl ? 'Best in:' : 'Best in:'}</strong> {t("s008_isaan_region_bangkok_any")}</p>
                     </div>
                     <p className="mt-3 text-sm">
-                      <Link href="/food/som-tam/" className="text-thailand-blue hover:underline font-semibold">Full som tam guide →</Link>
+                      <Link href="/food/som-tam/" className="text-thailand-blue hover:underline font-semibold">{t("s009_full_som_tam_guide")}</Link>
                       {' '}<span className="text-gray-400">|</span>{' '}
-                      <Link href="/blog/som-tam-regional-variations-thailand/" className="text-thailand-blue hover:underline font-semibold">Regional som tam variations →</Link>
+                      <Link href="/blog/som-tam-regional-variations-thailand/" className="text-thailand-blue hover:underline font-semibold">{t("s010_regional_som_tam_variations")}</Link>
                     </p>
                   </div>
                 </div>
@@ -294,17 +297,17 @@ export default function FoodIndexPage({ dishes, categories }: FoodIndexPageProps
                 <div className="flex items-start gap-4">
                   <span className="flex-shrink-0 w-10 h-10 rounded-full bg-thailand-blue text-white flex items-center justify-center font-bold text-lg">3</span>
                   <div>
-                    <h3 className="text-xl font-bold font-heading text-gray-900 mb-2">Tom Yum Goong (ต้มยำกุ้ง) — Spicy Prawn Soup</h3>
+                    <h3 className="text-xl font-bold font-heading text-gray-900 mb-2">{t("s011_tom_yum_goong_spicy")}</h3>
                     <p className="text-gray-700 leading-relaxed mb-3">
                       Tom yum goong is the quintessential Thai soup — a fragrant, sour, spicy broth loaded with plump river prawns, mushrooms, and a holy trinity of Thai aromatics: lemongrass, galangal, and kaffir lime leaves. These ingredients are bruised and simmered to release their essential oils, then the broth is sharpened with fresh lime juice and fish sauce and ignited with bird&apos;s eye chilies. Two versions exist: tom yum nam sai (clear broth) and tom yum nam khon (creamy, with roasted chili paste and evaporated milk). The creamy version is richer and more popular in Bangkok restaurants. A steaming bowl of tom yum goong is the perfect remedy for a rainy evening or a mild cold — the galangal and lemongrass have genuine medicinal properties that Thai traditional medicine has recognized for centuries. Street food stalls serve it for 60-80 baht; restaurants charge 150-300 baht depending on the size of the prawns.
                     </p>
                     <div className="bg-gray-50 rounded-xl p-4 text-sm text-gray-600 space-y-1">
                       <p><strong>{isNl ? 'Prijs:' : 'Price:'}</strong> 60-80 baht ({isNl ? 'straatvoedsel' : 'street food'}) | 150-300 baht ({isNl ? 'restaurant' : 'restaurant'})</p>
                       <p><strong>{isNl ? 'Pittigheid:' : 'Spice level:'}</strong> {isNl ? 'Gemiddeld tot pittig — vraag om "mai pet" voor mild' : 'Medium to hot — ask for "mai pet" for mild'}</p>
-                      <p><strong>{isNl ? 'Best in:' : 'Best in:'}</strong> Bangkok (Pe Aor on Rangnam Road is legendary), coastal cities</p>
+                      <p><strong>{isNl ? 'Best in:' : 'Best in:'}</strong> {t("s012_bangkok_pe_aor_on")}</p>
                     </div>
                     <p className="mt-3 text-sm">
-                      <Link href="/food/tom-yum-goong/" className="text-thailand-blue hover:underline font-semibold">Full tom yum goong guide →</Link>
+                      <Link href="/food/tom-yum-goong/" className="text-thailand-blue hover:underline font-semibold">{t("s013_full_tom_yum_goong")}</Link>
                     </p>
                   </div>
                 </div>
@@ -315,17 +318,17 @@ export default function FoodIndexPage({ dishes, categories }: FoodIndexPageProps
                 <div className="flex items-start gap-4">
                   <span className="flex-shrink-0 w-10 h-10 rounded-full bg-thailand-blue text-white flex items-center justify-center font-bold text-lg">4</span>
                   <div>
-                    <h3 className="text-xl font-bold font-heading text-gray-900 mb-2">Massaman Curry (แกงมัสมั่น)</h3>
+                    <h3 className="text-xl font-bold font-heading text-gray-900 mb-2">{t("s014_massaman_curry")}</h3>
                     <p className="text-gray-700 leading-relaxed mb-3">
                       Massaman curry is Thai cuisine&apos;s most globally acclaimed dish — CNN once named it the best food in the world. This rich, mild curry reflects centuries of cultural exchange with Muslim traders from India, Persia, and the Malay Peninsula. The curry paste combines dried spices rarely found in other Thai curries: cinnamon, cardamom, cloves, star anise, and cumin, along with lemongrass, galangal, and shallots. These are simmered in thick coconut milk with tender chunks of beef or chicken, potatoes, and roasted peanuts. The result is warming, slightly sweet, and deeply aromatic — closer to an Indian-style curry than anything else in Thai cooking, yet unmistakably Thai in its use of fish sauce, tamarind, and palm sugar. Massaman is one of the least spicy Thai curries, making it an excellent choice for travelers who are sensitive to heat. It is most commonly served over steamed jasmine rice.
                     </p>
                     <div className="bg-gray-50 rounded-xl p-4 text-sm text-gray-600 space-y-1">
                       <p><strong>{isNl ? 'Prijs:' : 'Price:'}</strong> 50-70 baht ({isNl ? 'straatvoedsel/food court' : 'street food/food court'}) | 150-280 baht ({isNl ? 'restaurant' : 'restaurant'})</p>
                       <p><strong>{isNl ? 'Pittigheid:' : 'Spice level:'}</strong> {isNl ? 'Mild — een van de minst pittige Thaise curry\'s' : 'Mild — one of the least spicy Thai curries'}</p>
-                      <p><strong>{isNl ? 'Best in:' : 'Best in:'}</strong> Southern Thailand (Phuket, Krabi), Bangkok</p>
+                      <p><strong>{isNl ? 'Best in:' : 'Best in:'}</strong> {t("s015_southern_thailand_phuket_krabi")}</p>
                     </div>
                     <p className="mt-3 text-sm">
-                      <Link href="/food/massaman-curry/" className="text-thailand-blue hover:underline font-semibold">Full massaman curry guide →</Link>
+                      <Link href="/food/massaman-curry/" className="text-thailand-blue hover:underline font-semibold">{t("s016_full_massaman_curry_guide")}</Link>
                     </p>
                   </div>
                 </div>
@@ -336,7 +339,7 @@ export default function FoodIndexPage({ dishes, categories }: FoodIndexPageProps
                 <div className="flex items-start gap-4">
                   <span className="flex-shrink-0 w-10 h-10 rounded-full bg-thailand-blue text-white flex items-center justify-center font-bold text-lg">5</span>
                   <div>
-                    <h3 className="text-xl font-bold font-heading text-gray-900 mb-2">Mango Sticky Rice (ข้าวเหนียวมะม่วง)</h3>
+                    <h3 className="text-xl font-bold font-heading text-gray-900 mb-2">{t("s017_mango_sticky_rice")}</h3>
                     <p className="text-gray-700 leading-relaxed mb-3">
                       Mango sticky rice is Thailand&apos;s most beloved dessert, and once you try it, you will understand why. Warm glutinous rice is soaked in sweetened coconut cream until each grain is rich and fragrant, then served alongside slices of perfectly ripe nam dok mai mango — a golden, fiberless variety that is intensely sweet and creamy. A drizzle of additional coconut cream and a sprinkle of crispy mung beans or toasted sesame seeds finish the dish. The combination of warm, salty-sweet sticky rice against cool, juicy mango is simple genius. Peak mango season runs from April through June, when the fruit is at its sweetest and most abundant — prices drop and quality soars during these months. Outside of season, vendors still serve it year-round using different mango varieties, but the experience during peak season is unmatched. Street vendors sell portions for 60-100 baht; restaurants charge 120-200 baht.
                     </p>
@@ -346,9 +349,9 @@ export default function FoodIndexPage({ dishes, categories }: FoodIndexPageProps
                       <p><strong>{isNl ? 'Best in:' : 'Best in:'}</strong> {isNl ? 'Overal verkrijgbaar, maar Bangkok\'s Yaowarat en nachtmarkten blinken uit' : 'Available everywhere, but Bangkok\'s Yaowarat and night markets excel'}</p>
                     </div>
                     <p className="mt-3 text-sm">
-                      <Link href="/food/mango-sticky-rice/" className="text-thailand-blue hover:underline font-semibold">Full mango sticky rice guide →</Link>
+                      <Link href="/food/mango-sticky-rice/" className="text-thailand-blue hover:underline font-semibold">{t("s018_full_mango_sticky_rice")}</Link>
                       {' '}<span className="text-gray-400">|</span>{' '}
-                      <Link href="/blog/mango-sticky-rice-season-thailand/" className="text-thailand-blue hover:underline font-semibold">When is mango season? →</Link>
+                      <Link href="/blog/mango-sticky-rice-season-thailand/" className="text-thailand-blue hover:underline font-semibold">{t("s019_when_is_mango_season")}</Link>
                     </p>
                   </div>
                 </div>
@@ -359,7 +362,7 @@ export default function FoodIndexPage({ dishes, categories }: FoodIndexPageProps
                 <div className="flex items-start gap-4">
                   <span className="flex-shrink-0 w-10 h-10 rounded-full bg-thailand-blue text-white flex items-center justify-center font-bold text-lg">6</span>
                   <div>
-                    <h3 className="text-xl font-bold font-heading text-gray-900 mb-2">Pad Krapow Moo Sap (ผัดกระเพราหมูสับ) — Basil Stir-Fry</h3>
+                    <h3 className="text-xl font-bold font-heading text-gray-900 mb-2">{t("s020_pad_krapow_moo_sap")}</h3>
                     <p className="text-gray-700 leading-relaxed mb-3">
                       If pad thai is Thailand&apos;s most famous dish abroad, pad krapow is the dish Thais actually eat every day. Minced pork (or chicken, beef, or seafood) is stir-fried with a heavy hand of garlic, fresh chilies, and holy basil — a peppery, slightly anise-flavored herb that is distinctly different from the sweet basil used in Western cooking. The dish is served over steamed jasmine rice and almost always topped with a crispy fried egg (kai dao) with lacy, golden edges. The combination of savory, spicy meat against the fragrant rice and rich egg yolk is deeply satisfying. It is the ultimate Thai comfort food — quick, cheap, and available at every food stall, food court, and canteen in the country. A plate costs 40-60 baht at street stalls and 80-150 baht in restaurants. Ordering it is simple: &quot;pad krapow moo sap kai dao&quot; means basil stir-fry with minced pork and a fried egg.
                     </p>
@@ -369,7 +372,7 @@ export default function FoodIndexPage({ dishes, categories }: FoodIndexPageProps
                       <p><strong>{isNl ? 'Tip:' : 'Tip:'}</strong> {isNl ? 'Voeg altijd "kai dao" (gebakken ei) toe — het maakt het gerecht' : 'Always add "kai dao" (fried egg) — it makes the dish'}</p>
                     </div>
                     <p className="mt-3 text-sm">
-                      <Link href="/food/pad-krapow/" className="text-thailand-blue hover:underline font-semibold">Full pad krapow guide →</Link>
+                      <Link href="/food/pad-krapow/" className="text-thailand-blue hover:underline font-semibold">{t("s021_full_pad_krapow_guide")}</Link>
                     </p>
                   </div>
                 </div>
@@ -380,19 +383,19 @@ export default function FoodIndexPage({ dishes, categories }: FoodIndexPageProps
                 <div className="flex items-start gap-4">
                   <span className="flex-shrink-0 w-10 h-10 rounded-full bg-thailand-blue text-white flex items-center justify-center font-bold text-lg">7</span>
                   <div>
-                    <h3 className="text-xl font-bold font-heading text-gray-900 mb-2">Khao Soi (ข้าวซอย) — Northern Curry Noodle Soup</h3>
+                    <h3 className="text-xl font-bold font-heading text-gray-900 mb-2">{t("s022_khao_soi_northern_curry")}</h3>
                     <p className="text-gray-700 leading-relaxed mb-3">
                       Khao soi is Chiang Mai&apos;s signature dish and one of the most compelling reasons to visit northern Thailand. This Burmese-influenced curry noodle soup combines tender egg noodles in a rich, mildly spiced coconut-curry broth with a chicken drumstick (or beef), topped with a tangle of crispy deep-fried noodles that add crunch to every spoonful. Served alongside are pickled mustard greens, shallots, and lime — each condiment adding a different dimension when stirred in. The curry paste uses dried spices like turmeric, coriander, and cumin alongside fresh ingredients, giving it warmth rather than sharp heat. Khao soi is most commonly found in Chiang Mai, Chiang Rai, and other northern provinces, though its popularity has spread to Bangkok in recent years. In Chiang Mai, legendary spots like Khao Soi Khun Yai serve bowls for 40-60 baht. The dish is so beloved in the north that entire food trails and competitions are dedicated to finding the city&apos;s best version.
                     </p>
                     <div className="bg-gray-50 rounded-xl p-4 text-sm text-gray-600 space-y-1">
                       <p><strong>{isNl ? 'Prijs:' : 'Price:'}</strong> 40-60 baht (Chiang Mai {isNl ? 'straatvoedsel' : 'street stalls'}) | 120-200 baht (Bangkok {isNl ? 'restaurants' : 'restaurants'})</p>
                       <p><strong>{isNl ? 'Pittigheid:' : 'Spice level:'}</strong> {isNl ? 'Mild tot gemiddeld — warme specerijen, geen vurige hitte' : 'Mild to medium — warm spices, not fiery heat'}</p>
-                      <p><strong>{isNl ? 'Best in:' : 'Best in:'}</strong> Chiang Mai (Khao Soi Khun Yai, Khao Soi Mae Sai)</p>
+                      <p><strong>{isNl ? 'Best in:' : 'Best in:'}</strong> {t("s023_chiang_mai_khao_soi")}</p>
                     </div>
                     <p className="mt-3 text-sm">
-                      <Link href="/food/khao-soi/" className="text-thailand-blue hover:underline font-semibold">Full khao soi guide →</Link>
+                      <Link href="/food/khao-soi/" className="text-thailand-blue hover:underline font-semibold">{t("s024_full_khao_soi_guide")}</Link>
                       {' '}<span className="text-gray-400">|</span>{' '}
-                      <Link href="/blog/khao-soi-chiang-mai-guide/" className="text-thailand-blue hover:underline font-semibold">Where to eat khao soi in Chiang Mai →</Link>
+                      <Link href="/blog/khao-soi-chiang-mai-guide/" className="text-thailand-blue hover:underline font-semibold">{t("s025_where_to_eat_khao")}</Link>
                     </p>
                   </div>
                 </div>
@@ -404,16 +407,16 @@ export default function FoodIndexPage({ dishes, categories }: FoodIndexPageProps
             {/* ============================================ */}
             <section id="street-food" className="mb-16">
               <div className="border-t-2 border-thailand-blue/20 pt-8 mb-8">
-                <h2 className="text-3xl font-bold font-heading text-gray-900">Thai Street Food Guide</h2>
-                <p className="text-gray-600 mt-2">Street food is not a sideshow in Thailand — it is the main event. Here is how to navigate it like a local.</p>
+                <h2 className="text-3xl font-bold font-heading text-gray-900">{t("s026_thai_street_food_guide")}</h2>
+                <p className="text-gray-600 mt-2">{t("s027_street_food_is_not")}</p>
               </div>
 
-              <h3 className="text-xl font-bold font-heading text-gray-900 mb-3">Best Cities for Street Food</h3>
+              <h3 className="text-xl font-bold font-heading text-gray-900 mb-3">{t("s028_best_cities_for_street")}</h3>
               <p className="text-gray-700 leading-relaxed mb-4">
                 <strong><Link href="/city/bangkok/" className="text-thailand-blue hover:underline">Bangkok</Link></strong> is the undisputed street food capital of the world. From the neon-lit food stalls of Yaowarat (Chinatown) to the sprawling Victory Monument boat noodle alley, the city offers an almost overwhelming variety of dishes at prices that rarely exceed 80 baht. The Lumpini area around Sala Daeng is a lunchtime favorite, with vendors serving pad krapow, som tam, and grilled pork neck to the office crowd. Food courts in malls like Terminal 21 and MBK Center offer the same street food quality in air-conditioned comfort for 50-80 baht per dish.
               </p>
               <p className="text-gray-700 leading-relaxed mb-4">
-                <strong><Link href="/city/chiang-mai/" className="text-thailand-blue hover:underline">Chiang Mai</Link></strong> is the khao soi capital, but its food scene goes far beyond a single dish. The Sunday Walking Street market along Ratchadamnoen Road transforms the old city into a kilometer-long food festival every week. Sai oua (northern herb sausage), khao kha moo (braised pork leg over rice), and nam prik noom (roasted green chili dip with vegetables) are northern specialties you will find at every market stall. Warorot Market is the locals&apos; choice for everyday eating.
+                <strong><Link href="/city/chiang-mai/" className="text-thailand-blue hover:underline">{t("s029_chiang_mai")}</Link></strong> is the khao soi capital, but its food scene goes far beyond a single dish. The Sunday Walking Street market along Ratchadamnoen Road transforms the old city into a kilometer-long food festival every week. Sai oua (northern herb sausage), khao kha moo (braised pork leg over rice), and nam prik noom (roasted green chili dip with vegetables) are northern specialties you will find at every market stall. Warorot Market is the locals&apos; choice for everyday eating.
               </p>
               <p className="text-gray-700 leading-relaxed mb-6">
                 {isNl
@@ -421,41 +424,41 @@ export default function FoodIndexPage({ dishes, categories }: FoodIndexPageProps
                   : <><strong>Hat Yai</strong> in the deep south is Thailand&apos;s most underrated food city. The southern Thai-Malay fusion cuisine here is unlike anything you will find in Bangkok or the islands. Gai tod Hat Yai (Hat Yai fried chicken with crispy shallots), roti canai, and fiery curries made with turmeric and fresh seafood define the local food culture. The night market scene is vibrant and almost entirely local.</>}
               </p>
 
-              <h3 className="text-xl font-bold font-heading text-gray-900 mb-3">Famous Night Markets Worth Visiting</h3>
+              <h3 className="text-xl font-bold font-heading text-gray-900 mb-3">{t("s030_famous_night_markets_worth")}</h3>
               <p className="text-gray-700 leading-relaxed mb-4">
-                Night markets are the beating heart of Thai street food culture. Bangkok&apos;s <Link href="/blog/jodd-fairs-bangkok-night-market-guide/" className="text-thailand-blue hover:underline">Jodd Fairs</Link> has become one of the most popular night markets in the city, with a curated mix of food stalls, craft vendors, and live music. The enormous <Link href="/blog/chatuchak-market-bangkok-guide/" className="text-thailand-blue hover:underline">Chatuchak Weekend Market</Link> is legendary for both shopping and eating, with over 15,000 stalls spread across 35 acres. For a more local experience, look for <Link href="/blog/best-night-markets-bangkok-2026/" className="text-thailand-blue hover:underline">Bangkok&apos;s neighborhood night markets</Link> where prices are lower and the crowds are mostly Thai.
+                Night markets are the beating heart of Thai street food culture. Bangkok&apos;s <Link href="/blog/jodd-fairs-bangkok-night-market-guide/" className="text-thailand-blue hover:underline">{t("s031_jodd_fairs")}</Link> has become one of the most popular night markets in the city, with a curated mix of food stalls, craft vendors, and live music. The enormous <Link href="/blog/chatuchak-market-bangkok-guide/" className="text-thailand-blue hover:underline">{t("s032_chatuchak_weekend_market")}</Link> is legendary for both shopping and eating, with over 15,000 stalls spread across 35 acres. For a more local experience, look for <Link href="/blog/best-night-markets-bangkok-2026/" className="text-thailand-blue hover:underline">{t("s033_bangkok_apos_s_neighborhood")}</Link> where prices are lower and the crowds are mostly Thai.
               </p>
 
-              <h3 className="text-xl font-bold font-heading text-gray-900 mb-3">Street Food Safety Tips</h3>
+              <h3 className="text-xl font-bold font-heading text-gray-900 mb-3">{t("s034_street_food_safety_tips")}</h3>
               <div className="bg-white rounded-2xl shadow-md p-6 mb-6">
                 <ul className="space-y-3 text-gray-700">
                   <li className="flex items-start gap-3">
                     <span className="text-green-600 font-bold mt-0.5">&#10003;</span>
-                    <span><strong>Follow the crowds.</strong> A long line of local customers is the best food safety indicator. High turnover means fresh ingredients and nothing sits around for long.</span>
+                    <span><strong>{t("s035_follow_the_crowds")}</strong> {t("s036_a_long_line_of")}</span>
                   </li>
                   <li className="flex items-start gap-3">
                     <span className="text-green-600 font-bold mt-0.5">&#10003;</span>
-                    <span><strong>Choose cooked-to-order.</strong> Dishes stir-fried or grilled in front of you are the safest option. The high heat kills bacteria, and you can see the cooking process firsthand.</span>
+                    <span><strong>{t("s037_choose_cooked_to_order")}</strong> {t("s038_dishes_stir_fried_or")}</span>
                   </li>
                   <li className="flex items-start gap-3">
                     <span className="text-red-600 font-bold mt-0.5">&#10007;</span>
-                    <span><strong>Avoid pre-made food in the sun.</strong> Dishes that have been sitting in trays for hours without refrigeration or heat are the most common cause of stomach trouble. Stick to stalls with active cooking.</span>
+                    <span><strong>{t("s039_avoid_pre_made_food")}</strong> {t("s040_dishes_that_have_been")}</span>
                   </li>
                   <li className="flex items-start gap-3">
                     <span className="text-green-600 font-bold mt-0.5">&#10003;</span>
-                    <span><strong>Ice is generally safe.</strong> Most ice in Thailand is commercially produced and safe to consume. Tubular or cylindrical ice (with a hole in the middle) is factory-made. Crushed ice at reputable stalls is fine too.</span>
+                    <span><strong>{t("s041_ice_is_generally_safe")}</strong> {t("s042_most_ice_in_thailand")}</span>
                   </li>
                   <li className="flex items-start gap-3">
                     <span className="text-green-600 font-bold mt-0.5">&#10003;</span>
-                    <span><strong>Start mild, build up.</strong> Give your stomach a day or two to adjust before diving into the spiciest dishes or unfamiliar fermented ingredients.</span>
+                    <span><strong>{t("s043_start_mild_build_up")}</strong> {t("s044_give_your_stomach_a")}</span>
                   </li>
                 </ul>
               </div>
               <p className="text-gray-700 leading-relaxed mb-4">
-                For a deeper introduction, read our <Link href="/blog/bangkok-street-food-beginners/" className="text-thailand-blue hover:underline font-semibold">Bangkok street food guide for beginners</Link> and our guide to <Link href="/blog/eat-like-local-thailand-under-5-dollars/" className="text-thailand-blue hover:underline font-semibold">eating like a local for under $5 a day</Link>.
+                For a deeper introduction, read our <Link href="/blog/bangkok-street-food-beginners/" className="text-thailand-blue hover:underline font-semibold">{t("s045_bangkok_street_food_guide")}</Link> and our guide to <Link href="/blog/eat-like-local-thailand-under-5-dollars/" className="text-thailand-blue hover:underline font-semibold">eating like a local for under $5 a day</Link>.
               </p>
 
-              <h3 className="text-xl font-bold font-heading text-gray-900 mb-3">How to Order in Thai</h3>
+              <h3 className="text-xl font-bold font-heading text-gray-900 mb-3">{t("s046_how_to_order_in")}</h3>
               <div className="bg-gray-50 rounded-xl p-5 text-gray-700 space-y-2 mb-4">
                 <p><strong>&quot;Ao nee&quot;</strong> (เอาอันนี้) — &quot;I want this one.&quot; Point at whatever looks good and say this. Works everywhere.</p>
                 <p><strong>&quot;Pet nit noi&quot;</strong> (เผ็ดนิดหน่อย) — &quot;A little spicy.&quot; Most vendors will dial back the chilies for you.</p>
@@ -477,75 +480,75 @@ export default function FoodIndexPage({ dishes, categories }: FoodIndexPageProps
             {/* ============================================ */}
             <section id="regional-cuisines" className="mb-16">
               <div className="border-t-2 border-thailand-blue/20 pt-8 mb-8">
-                <h2 className="text-3xl font-bold font-heading text-gray-900">Regional Thai Cuisines</h2>
-                <p className="text-gray-600 mt-2">Thailand has four distinct culinary regions, each with its own signature ingredients, flavors, and cooking techniques. Understanding these differences will transform how you eat across the country.</p>
+                <h2 className="text-3xl font-bold font-heading text-gray-900">{t("s047_regional_thai_cuisines")}</h2>
+                <p className="text-gray-600 mt-2">{t("s048_thailand_has_four_distinct")}</p>
               </div>
 
               {/* Central */}
               <div className="bg-white rounded-2xl shadow-md p-6 mb-6">
-                <h3 className="text-xl font-bold font-heading text-gray-900 mb-2">Central Thailand (Bangkok)</h3>
-                <p className="text-gray-500 text-sm mb-3">Mild, balanced, coconut milk-based | Served with jasmine rice</p>
+                <h3 className="text-xl font-bold font-heading text-gray-900 mb-2">{t("s049_central_thailand_bangkok")}</h3>
+                <p className="text-gray-500 text-sm mb-3">{t("s050_mild_balanced_coconut_milk")}</p>
                 <p className="text-gray-700 leading-relaxed mb-3">
                   Central Thai cuisine — centered on Bangkok and the surrounding plains — is what most of the world thinks of as &quot;Thai food.&quot; It is characterized by a careful balance of all five flavors, with coconut milk as a key ingredient in curries and soups. The royal court cuisine tradition of central Thailand emphasizes presentation and refinement. Dishes tend to be milder than southern or northeastern food, with sweetness from palm sugar and coconut cream balancing the heat. Jasmine rice is the staple grain, served alongside curries, stir-fries, and soups at every meal.
                 </p>
                 <p className="text-gray-700 leading-relaxed mb-2">
-                  <strong>Signature dishes:</strong>{' '}
-                  <Link href="/food/pad-thai/" className="text-thailand-blue hover:underline">Pad Thai</Link>,{' '}
-                  <Link href="/food/tom-yum-goong/" className="text-thailand-blue hover:underline">Tom Yum Goong</Link>,{' '}
-                  <Link href="/food/green-curry/" className="text-thailand-blue hover:underline">Green Curry</Link>,{' '}
-                  <Link href="/food/pad-krapow/" className="text-thailand-blue hover:underline">Pad Krapow</Link>,{' '}
-                  <Link href="/food/mango-sticky-rice/" className="text-thailand-blue hover:underline">Mango Sticky Rice</Link>
+                  <strong>{t("s051_signature_dishes")}</strong>{' '}
+                  <Link href="/food/pad-thai/" className="text-thailand-blue hover:underline">{t("s052_pad_thai")}</Link>,{' '}
+                  <Link href="/food/tom-yum-goong/" className="text-thailand-blue hover:underline">{t("s053_tom_yum_goong")}</Link>,{' '}
+                  <Link href="/food/green-curry/" className="text-thailand-blue hover:underline">{t("s054_green_curry")}</Link>,{' '}
+                  <Link href="/food/pad-krapow/" className="text-thailand-blue hover:underline">{t("s055_pad_krapow")}</Link>,{' '}
+                  <Link href="/food/mango-sticky-rice/" className="text-thailand-blue hover:underline">{t("s056_mango_sticky_rice")}</Link>
                 </p>
               </div>
 
               {/* Northern */}
               <div className="bg-white rounded-2xl shadow-md p-6 mb-6">
-                <h3 className="text-xl font-bold font-heading text-gray-900 mb-2">Northern Thailand (Chiang Mai, Chiang Rai)</h3>
-                <p className="text-gray-500 text-sm mb-3">Burmese &amp; Lanna influence, warm spices | Served with sticky rice</p>
+                <h3 className="text-xl font-bold font-heading text-gray-900 mb-2">{t("s057_northern_thailand_chiang_mai")}</h3>
+                <p className="text-gray-500 text-sm mb-3">{t("s058_burmese_amp_lanna_influence")}</p>
                 <p className="text-gray-700 leading-relaxed mb-3">
                   Northern Thai (Lanna) cuisine is influenced by neighboring Myanmar and southern China. The food is generally milder than central or southern Thai cooking, favoring warm, earthy spices like turmeric, ginger, and dried spices over sharp chili heat. Sticky rice — eaten by hand in small clumps — is the staple grain rather than jasmine rice. Coconut milk is used less frequently than in central cuisine, and many dishes feature preserved and fermented ingredients. The cooler mountain climate supports herbs and vegetables that do not grow in the tropical south. Northern food is hearty and comforting, suited to the cooler evenings of Chiang Mai and the surrounding highlands.
                 </p>
                 <p className="text-gray-700 leading-relaxed mb-2">
-                  <strong>Signature dishes:</strong>{' '}
-                  <Link href="/food/khao-soi/" className="text-thailand-blue hover:underline">Khao Soi</Link>,{' '}
-                  <Link href="/food/sai-ua/" className="text-thailand-blue hover:underline">Sai Oua (herb sausage)</Link>,{' '}
-                  <Link href="/food/nam-prik-ong/" className="text-thailand-blue hover:underline">Nam Prik Ong</Link>,{' '}
-                  <Link href="/food/gaeng-hang-lay/" className="text-thailand-blue hover:underline">Gaeng Hang Lay</Link>,{' '}
-                  <Link href="/food/nam-ngiao/" className="text-thailand-blue hover:underline">Nam Ngiao</Link>
+                  <strong>{t("s051_signature_dishes")}</strong>{' '}
+                  <Link href="/food/khao-soi/" className="text-thailand-blue hover:underline">{t("s060_khao_soi")}</Link>,{' '}
+                  <Link href="/food/sai-ua/" className="text-thailand-blue hover:underline">{t("s061_sai_oua_herb_sausage")}</Link>,{' '}
+                  <Link href="/food/nam-prik-ong/" className="text-thailand-blue hover:underline">{t("s062_nam_prik_ong")}</Link>,{' '}
+                  <Link href="/food/gaeng-hang-lay/" className="text-thailand-blue hover:underline">{t("s063_gaeng_hang_lay")}</Link>,{' '}
+                  <Link href="/food/nam-ngiao/" className="text-thailand-blue hover:underline">{t("s064_nam_ngiao")}</Link>
                 </p>
               </div>
 
               {/* Southern */}
               <div className="bg-white rounded-2xl shadow-md p-6 mb-6">
-                <h3 className="text-xl font-bold font-heading text-gray-900 mb-2">Southern Thailand (Phuket, Krabi, Hat Yai)</h3>
-                <p className="text-gray-500 text-sm mb-3">Spiciest region, turmeric &amp; seafood heavy | Malay-Muslim influence</p>
+                <h3 className="text-xl font-bold font-heading text-gray-900 mb-2">{t("s065_southern_thailand_phuket_krabi")}</h3>
+                <p className="text-gray-500 text-sm mb-3">{t("s066_spiciest_region_turmeric_amp")}</p>
                 <p className="text-gray-700 leading-relaxed mb-3">
                   Southern Thai cuisine is the boldest and spiciest in the country. The abundance of fresh seafood from both the Andaman Sea and Gulf of Thailand defines the coastal kitchen, while turmeric, black pepper, and large quantities of fresh chilies provide the distinctive yellow-orange color and intense heat. Malay and Muslim influences are strong in the deep south, visible in dishes like roti canai, biryani-style rice (khao mok gai), and massaman curry. Southern curries tend to be thinner and more intensely flavored than their central Thai counterparts, with less coconut cream sweetness and more shrimp paste funk. Fresh seafood — grilled fish, stir-fried crab, prawns in tamarind sauce — is plentiful, excellent, and remarkably affordable in coastal towns.
                 </p>
                 <p className="text-gray-700 leading-relaxed mb-2">
-                  <strong>Signature dishes:</strong>{' '}
-                  <Link href="/food/massaman-curry/" className="text-thailand-blue hover:underline">Massaman Curry</Link>,{' '}
-                  <Link href="/food/gaeng-tai-pla/" className="text-thailand-blue hover:underline">Gaeng Tai Pla</Link>,{' '}
-                  <Link href="/food/roti-canai/" className="text-thailand-blue hover:underline">Roti Canai</Link>,{' '}
-                  <Link href="/food/gai-tod-hat-yai/" className="text-thailand-blue hover:underline">Gai Tod Hat Yai</Link>,{' '}
-                  <Link href="/food/khao-mok-gai/" className="text-thailand-blue hover:underline">Khao Mok Gai</Link>
+                  <strong>{t("s051_signature_dishes")}</strong>{' '}
+                  <Link href="/food/massaman-curry/" className="text-thailand-blue hover:underline">{t("s068_massaman_curry")}</Link>,{' '}
+                  <Link href="/food/gaeng-tai-pla/" className="text-thailand-blue hover:underline">{t("s069_gaeng_tai_pla")}</Link>,{' '}
+                  <Link href="/food/roti-canai/" className="text-thailand-blue hover:underline">{t("s070_roti_canai")}</Link>,{' '}
+                  <Link href="/food/gai-tod-hat-yai/" className="text-thailand-blue hover:underline">{t("s071_gai_tod_hat_yai")}</Link>,{' '}
+                  <Link href="/food/khao-mok-gai/" className="text-thailand-blue hover:underline">{t("s072_khao_mok_gai")}</Link>
                 </p>
               </div>
 
               {/* Isaan */}
               <div className="bg-white rounded-2xl shadow-md p-6 mb-6">
-                <h3 className="text-xl font-bold font-heading text-gray-900 mb-2">Isaan (Northeast Thailand)</h3>
-                <p className="text-gray-500 text-sm mb-3">Laotian influence, fermented fish, grilled meats | Served with sticky rice</p>
+                <h3 className="text-xl font-bold font-heading text-gray-900 mb-2">{t("s073_isaan_northeast_thailand")}</h3>
+                <p className="text-gray-500 text-sm mb-3">{t("s074_laotian_influence_fermented_fish")}</p>
                 <p className="text-gray-700 leading-relaxed mb-3">
                   Isaan cuisine comes from Thailand&apos;s largest and poorest region, bordering Laos and Cambodia. Despite — or perhaps because of — its humble origins, Isaan food has become the most popular regional cuisine across all of Thailand. Bangkok&apos;s office workers eat som tam and gai yang (grilled chicken) for lunch daily, and every neighborhood in every Thai city has at least one Isaan food stall. The food is bold, punchy, and unapologetic: fermented fish sauce (pla ra), raw chilies, lime, and fresh herbs dominate. Sticky rice — rolled into balls and dipped into chili pastes, grilled meats, and salads — is the essential accompaniment. Grilled meats, especially gai yang (marinated grilled chicken) and moo ping (grilled pork skewers), are staples that pair perfectly with spicy salads and papaya dishes.
                 </p>
                 <p className="text-gray-700 leading-relaxed mb-2">
-                  <strong>Signature dishes:</strong>{' '}
+                  <strong>{t("s051_signature_dishes")}</strong>{' '}
                   <Link href="/food/som-tam/" className="text-thailand-blue hover:underline">Som Tam</Link>,{' '}
-                  <Link href="/food/larb/" className="text-thailand-blue hover:underline">Larb (minced meat salad)</Link>,{' '}
-                  <Link href="/food/laab-kua/" className="text-thailand-blue hover:underline">Laab Kua</Link>,{' '}
-                  <Link href="/food/khao-man-gai/" className="text-thailand-blue hover:underline">Khao Man Gai</Link>,{' '}
-                  <Link href="/food/tam-khanun/" className="text-thailand-blue hover:underline">Tam Khanun</Link>
+                  <Link href="/food/larb/" className="text-thailand-blue hover:underline">{t("s076_larb_minced_meat_salad")}</Link>,{' '}
+                  <Link href="/food/laab-kua/" className="text-thailand-blue hover:underline">{t("s077_laab_kua")}</Link>,{' '}
+                  <Link href="/food/khao-man-gai/" className="text-thailand-blue hover:underline">{t("s078_khao_man_gai")}</Link>,{' '}
+                  <Link href="/food/tam-khanun/" className="text-thailand-blue hover:underline">{t("s079_tam_khanun")}</Link>
                 </p>
               </div>
             </section>
@@ -555,38 +558,38 @@ export default function FoodIndexPage({ dishes, categories }: FoodIndexPageProps
             {/* ============================================ */}
             <section id="cultural-guide" className="mb-16">
               <div className="border-t-2 border-thailand-blue/20 pt-8 mb-8">
-                <h2 className="text-3xl font-bold font-heading text-gray-900">What Is Thai Food? A Cultural Guide</h2>
-                <p className="text-gray-600 mt-2">Understanding how Thais think about food will deepen your appreciation of every meal.</p>
+                <h2 className="text-3xl font-bold font-heading text-gray-900">{t("s080_what_is_thai_food")}</h2>
+                <p className="text-gray-600 mt-2">{t("s081_understanding_how_thais_think")}</p>
               </div>
 
-              <h3 className="text-xl font-bold font-heading text-gray-900 mb-3">The Five Flavors</h3>
+              <h3 className="text-xl font-bold font-heading text-gray-900 mb-3">{t("s082_the_five_flavors")}</h3>
               <p className="text-gray-700 leading-relaxed mb-4">
                 The foundation of Thai cooking is balance among five fundamental flavors: sweet, sour, salty, bitter, and spicy. No single flavor should dominate — instead, each dish aims for a harmony where the flavors play off one another. Palm sugar provides sweetness; lime juice and tamarind deliver sourness; fish sauce and shrimp paste bring saltiness; bitter melon and certain herbs add bitterness; and fresh chilies supply heat. This is why Thai food tastes so complex with seemingly simple ingredients. A good som tam balances all five flavors in a single mortar. A well-made green curry starts sweet and creamy before the chili heat arrives, followed by the fragrant lift of basil and kaffir lime. This balance-first philosophy is what separates Thai cuisine from other Southeast Asian traditions that may lean harder into one dominant flavor.
               </p>
 
-              <h3 className="text-xl font-bold font-heading text-gray-900 mb-3">Thai Dining Etiquette</h3>
+              <h3 className="text-xl font-bold font-heading text-gray-900 mb-3">{t("s083_thai_dining_etiquette")}</h3>
               <div className="bg-white rounded-2xl shadow-md p-6 mb-6">
                 <ul className="space-y-3 text-gray-700">
                   <li className="flex items-start gap-3">
                     <span className="text-thailand-blue font-bold mt-0.5">&#8226;</span>
-                    <span><strong>Fork and spoon, not chopsticks.</strong> Thais eat most dishes with a spoon (right hand, scoops food into the mouth) and a fork (left hand, pushes food onto the spoon). Chopsticks are only used for noodle soups and Chinese-style dishes. Using chopsticks for rice dishes marks you as unfamiliar with the culture.</span>
+                    <span><strong>{t("s084_fork_and_spoon_not")}</strong> {t("s085_thais_eat_most_dishes")}</span>
                   </li>
                   <li className="flex items-start gap-3">
                     <span className="text-thailand-blue font-bold mt-0.5">&#8226;</span>
-                    <span><strong>Rice is the center of the meal.</strong> In Thai, the phrase for &quot;eating a meal&quot; is &quot;gin khao&quot; — literally &quot;eat rice.&quot; Every other dish on the table is considered a &quot;side&quot; to the rice, regardless of how elaborate it is. Order one dish per person plus one extra to share, and take small portions of each onto your rice plate.</span>
+                    <span><strong>{t("s086_rice_is_the_center")}</strong> {t("s087_in_thai_the_phrase")}</span>
                   </li>
                   <li className="flex items-start gap-3">
                     <span className="text-thailand-blue font-bold mt-0.5">&#8226;</span>
-                    <span><strong>Shared plates, communal eating.</strong> Thai meals are almost always shared. Everyone orders different dishes and eats from the communal plates in the center of the table. Taking a large portion of one dish for yourself is considered impolite — take a little at a time.</span>
+                    <span><strong>{t("s088_shared_plates_communal_eating")}</strong> {t("s089_thai_meals_are_almost")}</span>
                   </li>
                   <li className="flex items-start gap-3">
                     <span className="text-thailand-blue font-bold mt-0.5">&#8226;</span>
-                    <span><strong>Condiment trays.</strong> Nearly every Thai restaurant places a condiment tray on the table with four items: dried chili flakes, sugar, fish sauce, and vinegar with sliced chilies. These are for fine-tuning the dish to your personal taste — using them is expected, not an insult to the cook.</span>
+                    <span><strong>{t("s090_condiment_trays")}</strong> {t("s091_nearly_every_thai_restaurant")}</span>
                   </li>
                 </ul>
               </div>
 
-              <h3 className="text-xl font-bold font-heading text-gray-900 mb-3">Vegetarian and Vegan in Thailand</h3>
+              <h3 className="text-xl font-bold font-heading text-gray-900 mb-3">{t("s092_vegetarian_and_vegan_in")}</h3>
               <p className="text-gray-700 leading-relaxed mb-4">
                 Thailand is surprisingly accommodating for plant-based travelers once you know the right words. Look for restaurants flying a yellow flag with red Chinese characters — these are <strong>&quot;jay&quot; (เจ)</strong> restaurants, serving strict vegan food without meat, fish sauce, garlic, or onions. Jay food is rooted in Chinese-Buddhist tradition and is especially abundant during the annual Vegetarian Festival (October). The food is inexpensive and often very good, with mock meats made from soy and mushroom protein. For vegetarians who eat eggs and dairy, the term is <strong>&quot;mang sa wirat&quot; (มังสวิรัติ)</strong>. At regular restaurants and street stalls, you can request <strong>&quot;mai sai neua sat&quot;</strong> (no meat) or <strong>&quot;jay&quot;</strong> — but be aware that many Thai sauces contain fish sauce or shrimp paste by default. Dishes like pad thai, fried rice, and stir-fried morning glory can usually be made vegetarian on request. Our guide to <Link href="/blog/is-thai-food-healthy/" className="text-thailand-blue hover:underline">whether Thai food is healthy</Link> covers nutrition and dietary considerations in more detail.
               </p>
@@ -779,8 +782,8 @@ export default function FoodIndexPage({ dishes, categories }: FoodIndexPageProps
         <section id="food-faqs" className="section-padding">
           <div className="container-custom max-w-4xl">
             <div className="border-t-2 border-thailand-blue/20 pt-8 mb-8">
-              <h2 className="text-3xl font-bold font-heading text-gray-900">Food FAQs</h2>
-              <p className="text-gray-600 mt-2">Answers to the most common questions about eating in Thailand.</p>
+              <h2 className="text-3xl font-bold font-heading text-gray-900">{t("s093_food_faqs")}</h2>
+              <p className="text-gray-600 mt-2">{t("s094_answers_to_the_most")}</p>
             </div>
 
             <div className="bg-white rounded-2xl shadow-md p-6">
@@ -791,21 +794,21 @@ export default function FoodIndexPage({ dishes, categories }: FoodIndexPageProps
                     <p className="text-gray-700 leading-relaxed">{item.answer}</p>
                     {item.question === 'What is the most popular Thai food?' && (
                       <p className="mt-2 text-sm">
-                        <Link href="/food/pad-krapow/" className="text-thailand-blue hover:underline font-semibold">Read our pad krapow guide →</Link>
+                        <Link href="/food/pad-krapow/" className="text-thailand-blue hover:underline font-semibold">{t("s095_read_our_pad_krapow")}</Link>
                         {' '}<span className="text-gray-400">|</span>{' '}
-                        <Link href="/food/pad-thai/" className="text-thailand-blue hover:underline font-semibold">Read our pad thai guide →</Link>
+                        <Link href="/food/pad-thai/" className="text-thailand-blue hover:underline font-semibold">{t("s096_read_our_pad_thai")}</Link>
                       </p>
                     )}
                     {item.question === 'Is street food safe in Thailand?' && (
                       <p className="mt-2 text-sm">
-                        <Link href="/blog/bangkok-street-food-beginners/" className="text-thailand-blue hover:underline font-semibold">Bangkok street food guide for beginners →</Link>
+                        <Link href="/blog/bangkok-street-food-beginners/" className="text-thailand-blue hover:underline font-semibold">{t("s097_bangkok_street_food_guide")}</Link>
                         {' '}<span className="text-gray-400">|</span>{' '}
-                        <Link href="/blog/bangkok-lumpini-hawker-centre-street-food-2026/" className="text-thailand-blue hover:underline font-semibold">Lumpini hawker centre guide →</Link>
+                        <Link href="/blog/bangkok-lumpini-hawker-centre-street-food-2026/" className="text-thailand-blue hover:underline font-semibold">{t("s098_lumpini_hawker_centre_guide")}</Link>
                       </p>
                     )}
                     {item.question === 'What should I eat first in Thailand?' && (
                       <p className="mt-2 text-sm">
-                        <Link href="/blog/eat-like-local-thailand-under-5-dollars/" className="text-thailand-blue hover:underline font-semibold">Eat like a local for under $5 →</Link>
+                        <Link href="/blog/eat-like-local-thailand-under-5-dollars/" className="text-thailand-blue hover:underline font-semibold">{t("s099_eat_like_a_local")}</Link>
                       </p>
                     )}
                   </div>
@@ -855,36 +858,36 @@ export default function FoodIndexPage({ dishes, categories }: FoodIndexPageProps
             <h2 className="text-xl font-bold font-heading text-gray-900 mb-4">{isNl ? 'Ontdek Meer Thailand Gidsen' : 'Explore More Thailand Guides'}</h2>
             <div className="grid grid-cols-2 md:grid-cols-4 gap-3">
               <Link href="/thailand-travel-guide/" className="p-4 bg-surface-cream rounded-xl hover:shadow-md transition-all text-center">
-                <div className="font-semibold text-gray-900 text-sm">Travel Guide</div>
-                <div className="text-xs text-gray-600">Everything you need</div>
+                <div className="font-semibold text-gray-900 text-sm">{t("s100_travel_guide")}</div>
+                <div className="text-xs text-gray-600">{t("s101_everything_you_need")}</div>
               </Link>
               <Link href="/best-places-to-visit-thailand/" className="p-4 bg-surface-cream rounded-xl hover:shadow-md transition-all text-center">
-                <div className="font-semibold text-gray-900 text-sm">Best Places</div>
+                <div className="font-semibold text-gray-900 text-sm">{t("s102_best_places")}</div>
                 <div className="text-xs text-gray-600">33 destinations</div>
               </Link>
               <Link href="/things-to-do-in-thailand/" className="p-4 bg-surface-cream rounded-xl hover:shadow-md transition-all text-center">
-                <div className="font-semibold text-gray-900 text-sm">Things to Do</div>
+                <div className="font-semibold text-gray-900 text-sm">{t("s103_things_to_do")}</div>
                 <div className="text-xs text-gray-600">25 top activities</div>
               </Link>
               <Link href="/thailand-for-first-timers/" className="p-4 bg-surface-cream rounded-xl hover:shadow-md transition-all text-center">
-                <div className="font-semibold text-gray-900 text-sm">First Timers</div>
-                <div className="text-xs text-gray-600">Start here</div>
+                <div className="font-semibold text-gray-900 text-sm">{t("s104_first_timers")}</div>
+                <div className="text-xs text-gray-600">{t("s105_start_here")}</div>
               </Link>
               <Link href="/thailand-itinerary/" className="p-4 bg-surface-cream rounded-xl hover:shadow-md transition-all text-center">
                 <div className="font-semibold text-gray-900 text-sm">Itineraries</div>
-                <div className="text-xs text-gray-600">Ready-made routes</div>
+                <div className="text-xs text-gray-600">{t("s106_ready_made_routes")}</div>
               </Link>
               <Link href="/islands/" className="p-4 bg-surface-cream rounded-xl hover:shadow-md transition-all text-center">
-                <div className="font-semibold text-gray-900 text-sm">Thai Islands</div>
-                <div className="text-xs text-gray-600">Beach paradise</div>
+                <div className="font-semibold text-gray-900 text-sm">{t("s107_thai_islands")}</div>
+                <div className="text-xs text-gray-600">{t("s108_beach_paradise")}</div>
               </Link>
               <Link href="/is-thailand-safe/" className="p-4 bg-surface-cream rounded-xl hover:shadow-md transition-all text-center">
-                <div className="font-semibold text-gray-900 text-sm">Safety Guide</div>
-                <div className="text-xs text-gray-600">Stay safe</div>
+                <div className="font-semibold text-gray-900 text-sm">{t("s109_safety_guide")}</div>
+                <div className="text-xs text-gray-600">{t("s110_stay_safe")}</div>
               </Link>
               <Link href="/transport/" className="p-4 bg-surface-cream rounded-xl hover:shadow-md transition-all text-center">
                 <div className="font-semibold text-gray-900 text-sm">Transport</div>
-                <div className="text-xs text-gray-600">Buses, trains, flights</div>
+                <div className="text-xs text-gray-600">{t("s111_buses_trains_flights")}</div>
               </Link>
             </div>
           </div>

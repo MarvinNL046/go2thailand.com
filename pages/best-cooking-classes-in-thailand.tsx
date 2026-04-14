@@ -5,6 +5,8 @@ import { getCookingClassesIndex, getCookingClassesByCity } from '../lib/cooking-
 import { formatPrice } from '../lib/price';
 import Breadcrumbs from '../components/Breadcrumbs';
 import SEOHead from '../components/SEOHead';
+import { useT } from '../lib/i18n';
+import { strings as i18nStrings } from '../lib/i18n/best-cooking-classes-in-thailand';
 
 interface CookingClass {
   name: string;
@@ -56,6 +58,7 @@ function StarRating({ rating }: { rating: number }) {
 }
 
 export default function BestCookingClassesPage({ cities, topClasses }: Props) {
+  const t = useT(i18nStrings);
   const { locale } = useRouter();
   const loc = locale || 'en';
   const isNl = locale === 'nl';
@@ -293,7 +296,7 @@ export default function BestCookingClassesPage({ cities, topClasses }: Props) {
                   </Link>
                 </h2>
               </div>
-              <p className="text-gray-500 text-sm mb-4">Best for: urban convenience, luxury experiences, Michelin-recognised schools</p>
+              <p className="text-gray-500 text-sm mb-4">{t("s001_best_for_urban_convenience")}</p>
 
               <p className="text-gray-700 mb-6">
                 Bangkok is not where you go for the cheapest class — it is where you go for the most polished one. The city&apos;s cooking schools benefit from Bangkok&apos;s extraordinary street food culture and wholesale markets. A morning market visit here can involve sampling seven different varieties of banana or watching a vendor press fresh coconut milk to order. Two schools stand out for very different reasons.
@@ -302,8 +305,8 @@ export default function BestCookingClassesPage({ cities, topClasses }: Props) {
               {/* Silom Thai Cooking School */}
               <div className="border border-gray-200 rounded-xl p-6 mb-6">
                 <div className="flex flex-wrap items-start justify-between gap-2 mb-3">
-                  <h3 className="text-xl font-bold font-heading text-gray-900">Silom Thai Cooking School</h3>
-                  <span className="bg-green-100 text-green-800 text-xs font-semibold px-3 py-1 rounded-full">Market tour included</span>
+                  <h3 className="text-xl font-bold font-heading text-gray-900">{t("s002_silom_thai_cooking_school")}</h3>
+                  <span className="bg-green-100 text-green-800 text-xs font-semibold px-3 py-1 rounded-full">{t("s003_market_tour_included")}</span>
                 </div>
                 <p className="text-sm text-gray-500 mb-3">
                   6/14 Decho Road, Bang Rak, Bangkok &mdash; near Chong Nonsi BTS &mdash;{' '}
@@ -321,16 +324,16 @@ export default function BestCookingClassesPage({ cities, topClasses }: Props) {
                     <div className="text-sm font-semibold text-gray-800">3 hours</div>
                   </div>
                   <div className="bg-surface-cream rounded-lg p-3">
-                    <div className="text-xs text-gray-500 mb-1">Group size</div>
+                    <div className="text-xs text-gray-500 mb-1">{t("s004_group_size")}</div>
                     <div className="text-sm font-semibold text-gray-800">~9–10 people</div>
                   </div>
                   <div className="bg-surface-cream rounded-lg p-3">
-                    <div className="text-xs text-gray-500 mb-1">Market visit</div>
-                    <div className="text-sm font-semibold text-green-700">Yes (morning)</div>
+                    <div className="text-xs text-gray-500 mb-1">{t("s005_market_visit")}</div>
+                    <div className="text-sm font-semibold text-green-700">{t("s006_yes_morning")}</div>
                   </div>
                   <div className="bg-surface-cream rounded-lg p-3">
                     <div className="text-xs text-gray-500 mb-1">Vegetarian</div>
-                    <div className="text-sm font-semibold text-green-700">Yes, on request</div>
+                    <div className="text-sm font-semibold text-green-700">{t("s007_yes_on_request")}</div>
                   </div>
                 </div>
               </div>
@@ -338,8 +341,8 @@ export default function BestCookingClassesPage({ cities, topClasses }: Props) {
               {/* Blue Elephant */}
               <div className="border border-gray-200 rounded-xl p-6 mb-6">
                 <div className="flex flex-wrap items-start justify-between gap-2 mb-3">
-                  <h3 className="text-xl font-bold font-heading text-gray-900">Blue Elephant Cooking School Bangkok</h3>
-                  <span className="bg-purple-100 text-purple-800 text-xs font-semibold px-3 py-1 rounded-full">Michelin recognised</span>
+                  <h3 className="text-xl font-bold font-heading text-gray-900">{t("s008_blue_elephant_cooking_school")}</h3>
+                  <span className="bg-purple-100 text-purple-800 text-xs font-semibold px-3 py-1 rounded-full">{t("s009_michelin_recognised")}</span>
                 </div>
                 <p className="text-sm text-gray-500 mb-3">
                   233 South Sathorn Road, Yan Nawa, Sathorn, Bangkok &mdash;{' '}
@@ -358,11 +361,11 @@ export default function BestCookingClassesPage({ cities, topClasses }: Props) {
                   </div>
                   <div className="bg-surface-cream rounded-lg p-3">
                     <div className="text-xs text-gray-500 mb-1">Setting</div>
-                    <div className="text-sm font-semibold text-gray-800">Heritage mansion</div>
+                    <div className="text-sm font-semibold text-gray-800">{t("s010_heritage_mansion")}</div>
                   </div>
                   <div className="bg-surface-cream rounded-lg p-3">
-                    <div className="text-xs text-gray-500 mb-1">Market visit</div>
-                    <div className="text-sm font-semibold text-green-700">Yes (morning class)</div>
+                    <div className="text-xs text-gray-500 mb-1">{t("s005_market_visit")}</div>
+                    <div className="text-sm font-semibold text-green-700">{t("s012_yes_morning_class")}</div>
                   </div>
                   <div className="bg-surface-cream rounded-lg p-3">
                     <div className="text-xs text-gray-500 mb-1">Languages</div>
@@ -397,7 +400,7 @@ export default function BestCookingClassesPage({ cities, topClasses }: Props) {
                   </Link>
                 </h2>
               </div>
-              <p className="text-gray-500 text-sm mb-4">Best for: farm-to-table experience, best value, widest choice, northern Thai cuisine</p>
+              <p className="text-gray-500 text-sm mb-4">{t("s013_best_for_farm_to")}</p>
 
               <p className="text-gray-700 mb-6">
                 Chiang Mai is the undisputed capital of Thai cooking classes for travelling food lovers. The city&apos;s cooler climate, fertile surrounding countryside and deeply rooted culinary traditions — northern Thai cuisine (khao soi, larb, naem sausage) differs significantly from central Thai cooking — give Chiang Mai schools a distinctive character. Several operate on working organic farms in the hills outside the city, which means you are not just buying ingredients from a market but picking them from the ground yourself. Three schools are worth highlighting.
@@ -406,8 +409,8 @@ export default function BestCookingClassesPage({ cities, topClasses }: Props) {
               {/* Thai Farm Cooking School */}
               <div className="border border-gray-200 rounded-xl p-6 mb-6">
                 <div className="flex flex-wrap items-start justify-between gap-2 mb-3">
-                  <h3 className="text-xl font-bold font-heading text-gray-900">Thai Farm Cooking School</h3>
-                  <span className="bg-green-100 text-green-800 text-xs font-semibold px-3 py-1 rounded-full">Established 2001 — first organic farm school</span>
+                  <h3 className="text-xl font-bold font-heading text-gray-900">{t("s014_thai_farm_cooking_school")}</h3>
+                  <span className="bg-green-100 text-green-800 text-xs font-semibold px-3 py-1 rounded-full">{t("s015_established_2001_first_organic")}</span>
                 </div>
                 <p className="text-sm text-gray-500 mb-3">
                   Organic farm approx. 17 km from Chiang Mai city &mdash;{' '}
@@ -422,19 +425,19 @@ export default function BestCookingClassesPage({ cities, topClasses }: Props) {
                 <div className="grid grid-cols-2 md:grid-cols-4 gap-3 mb-2">
                   <div className="bg-surface-cream rounded-lg p-3">
                     <div className="text-xs text-gray-500 mb-1">Options</div>
-                    <div className="text-sm font-semibold text-gray-800">Half-day / Full-day</div>
+                    <div className="text-sm font-semibold text-gray-800">{t("s016_half_day_full_day")}</div>
                   </div>
                   <div className="bg-surface-cream rounded-lg p-3">
                     <div className="text-xs text-gray-500 mb-1">Setting</div>
-                    <div className="text-sm font-semibold text-gray-800">Organic farm</div>
+                    <div className="text-sm font-semibold text-gray-800">{t("s017_organic_farm")}</div>
                   </div>
                   <div className="bg-surface-cream rounded-lg p-3">
-                    <div className="text-xs text-gray-500 mb-1">Market visit</div>
-                    <div className="text-sm font-semibold text-green-700">Yes, en route</div>
+                    <div className="text-xs text-gray-500 mb-1">{t("s005_market_visit")}</div>
+                    <div className="text-sm font-semibold text-green-700">{t("s019_yes_en_route")}</div>
                   </div>
                   <div className="bg-surface-cream rounded-lg p-3">
                     <div className="text-xs text-gray-500 mb-1">Vegetarian</div>
-                    <div className="text-sm font-semibold text-green-700">Yes, on request</div>
+                    <div className="text-sm font-semibold text-green-700">{t("s007_yes_on_request")}</div>
                   </div>
                 </div>
               </div>
@@ -442,8 +445,8 @@ export default function BestCookingClassesPage({ cities, topClasses }: Props) {
               {/* Asia Scenic */}
               <div className="border border-gray-200 rounded-xl p-6 mb-6">
                 <div className="flex flex-wrap items-start justify-between gap-2 mb-3">
-                  <h3 className="text-xl font-bold font-heading text-gray-900">Asia Scenic Thai Cooking School</h3>
-                  <span className="bg-blue-100 text-blue-800 text-xs font-semibold px-3 py-1 rounded-full">Old City + Farm options</span>
+                  <h3 className="text-xl font-bold font-heading text-gray-900">{t("s021_asia_scenic_thai_cooking")}</h3>
+                  <span className="bg-blue-100 text-blue-800 text-xs font-semibold px-3 py-1 rounded-full">{t("s022_old_city_farm_options")}</span>
                 </div>
                 <p className="text-sm text-gray-500 mb-3">
                   31 Rachadumneon Soi 5, Chiang Mai Old City (near Thapae Gate) &mdash;{' '}
@@ -457,15 +460,15 @@ export default function BestCookingClassesPage({ cities, topClasses }: Props) {
                 </p>
                 <div className="grid grid-cols-2 md:grid-cols-4 gap-3 mb-2">
                   <div className="bg-surface-cream rounded-lg p-3">
-                    <div className="text-xs text-gray-500 mb-1">Price from</div>
+                    <div className="text-xs text-gray-500 mb-1">{t("s023_price_from")}</div>
                     <div className="text-sm font-semibold text-gray-800">1,000 THB</div>
                   </div>
                   <div className="bg-surface-cream rounded-lg p-3">
                     <div className="text-xs text-gray-500 mb-1">Sessions</div>
-                    <div className="text-sm font-semibold text-gray-800">Morning &amp; Evening</div>
+                    <div className="text-sm font-semibold text-gray-800">{t("s024_morning_amp_evening")}</div>
                   </div>
                   <div className="bg-surface-cream rounded-lg p-3">
-                    <div className="text-xs text-gray-500 mb-1">Market visit</div>
+                    <div className="text-xs text-gray-500 mb-1">{t("s005_market_visit")}</div>
                     <div className="text-sm font-semibold text-green-700">Yes</div>
                   </div>
                   <div className="bg-surface-cream rounded-lg p-3">
@@ -478,8 +481,8 @@ export default function BestCookingClassesPage({ cities, topClasses }: Props) {
               {/* Mama Noi */}
               <div className="border border-gray-200 rounded-xl p-6 mb-6">
                 <div className="flex flex-wrap items-start justify-between gap-2 mb-3">
-                  <h3 className="text-xl font-bold font-heading text-gray-900">Mama Noi Thai Cooking School</h3>
-                  <span className="bg-yellow-100 text-yellow-800 text-xs font-semibold px-3 py-1 rounded-full">Air-conditioned kitchen option</span>
+                  <h3 className="text-xl font-bold font-heading text-gray-900">{t("s026_mama_noi_thai_cooking")}</h3>
+                  <span className="bg-yellow-100 text-yellow-800 text-xs font-semibold px-3 py-1 rounded-full">{t("s027_air_conditioned_kitchen_option")}</span>
                 </div>
                 <p className="text-sm text-gray-500 mb-3">
                   Chiang Mai, with free pickup within 5 km of the Old City &mdash;{' '}
@@ -493,20 +496,20 @@ export default function BestCookingClassesPage({ cities, topClasses }: Props) {
                 </p>
                 <div className="grid grid-cols-2 md:grid-cols-4 gap-3 mb-2">
                   <div className="bg-surface-cream rounded-lg p-3">
-                    <div className="text-xs text-gray-500 mb-1">Price from</div>
+                    <div className="text-xs text-gray-500 mb-1">{t("s023_price_from")}</div>
                     <div className="text-sm font-semibold text-gray-800">1,000 THB</div>
                   </div>
                   <div className="bg-surface-cream rounded-lg p-3">
                     <div className="text-xs text-gray-500 mb-1">Kitchen</div>
-                    <div className="text-sm font-semibold text-gray-800">Outdoor + AC option</div>
+                    <div className="text-sm font-semibold text-gray-800">{t("s029_outdoor_ac_option")}</div>
                   </div>
                   <div className="bg-surface-cream rounded-lg p-3">
-                    <div className="text-xs text-gray-500 mb-1">Individual station</div>
+                    <div className="text-xs text-gray-500 mb-1">{t("s030_individual_station")}</div>
                     <div className="text-sm font-semibold text-green-700">Yes</div>
                   </div>
                   <div className="bg-surface-cream rounded-lg p-3">
-                    <div className="text-xs text-gray-500 mb-1">Vegetarian class</div>
-                    <div className="text-sm font-semibold text-green-700">Dedicated menu</div>
+                    <div className="text-xs text-gray-500 mb-1">{t("s031_vegetarian_class")}</div>
+                    <div className="text-sm font-semibold text-green-700">{t("s032_dedicated_menu")}</div>
                   </div>
                 </div>
               </div>
@@ -537,7 +540,7 @@ export default function BestCookingClassesPage({ cities, topClasses }: Props) {
                   </Link>
                 </h2>
               </div>
-              <p className="text-gray-500 text-sm mb-4">Best for: combining a beach holiday with culinary learning, dedicated vegetarian courses, Blue Elephant second branch</p>
+              <p className="text-gray-500 text-sm mb-4">{t("s033_best_for_combining_a")}</p>
 
               <p className="text-gray-700 mb-6">
                 Phuket&apos;s cooking class scene benefits from the island&apos;s Peranakan food heritage — a fusion of Thai and Chinese-Malay influences that produced dishes like mee hokkien and massaman curry (via southern trade routes). Classes here tend to cover southern Thai dishes alongside the national repertoire. Two schools offer consistently strong programmes.
@@ -546,8 +549,8 @@ export default function BestCookingClassesPage({ cities, topClasses }: Props) {
               {/* Phuket Thai Cooking Academy */}
               <div className="border border-gray-200 rounded-xl p-6 mb-6">
                 <div className="flex flex-wrap items-start justify-between gap-2 mb-3">
-                  <h3 className="text-xl font-bold font-heading text-gray-900">Phuket Thai Cooking Academy</h3>
-                  <span className="bg-green-100 text-green-800 text-xs font-semibold px-3 py-1 rounded-full">Dedicated vegan programme</span>
+                  <h3 className="text-xl font-bold font-heading text-gray-900">{t("s034_phuket_thai_cooking_academy")}</h3>
+                  <span className="bg-green-100 text-green-800 text-xs font-semibold px-3 py-1 rounded-full">{t("s035_dedicated_vegan_programme")}</span>
                 </div>
                 <p className="text-sm text-gray-500 mb-3">
                   Kathu, near Patong Beach &mdash;{' '}
@@ -561,20 +564,20 @@ export default function BestCookingClassesPage({ cities, topClasses }: Props) {
                 </p>
                 <div className="grid grid-cols-2 md:grid-cols-4 gap-3 mb-2">
                   <div className="bg-surface-cream rounded-lg p-3">
-                    <div className="text-xs text-gray-500 mb-1">Menu style</div>
-                    <div className="text-sm font-semibold text-gray-800">Choose your dishes</div>
+                    <div className="text-xs text-gray-500 mb-1">{t("s036_menu_style")}</div>
+                    <div className="text-sm font-semibold text-gray-800">{t("s037_choose_your_dishes")}</div>
                   </div>
                   <div className="bg-surface-cream rounded-lg p-3">
                     <div className="text-xs text-gray-500 mb-1">Kitchen</div>
                     <div className="text-sm font-semibold text-gray-800">Air-conditioned</div>
                   </div>
                   <div className="bg-surface-cream rounded-lg p-3">
-                    <div className="text-xs text-gray-500 mb-1">Market visit</div>
-                    <div className="text-sm font-semibold text-green-700">Yes (Kathu market)</div>
+                    <div className="text-xs text-gray-500 mb-1">{t("s005_market_visit")}</div>
+                    <div className="text-sm font-semibold text-green-700">{t("s039_yes_kathu_market")}</div>
                   </div>
                   <div className="bg-surface-cream rounded-lg p-3">
                     <div className="text-xs text-gray-500 mb-1">Vegetarian/Vegan</div>
-                    <div className="text-sm font-semibold text-green-700">Dedicated programme</div>
+                    <div className="text-sm font-semibold text-green-700">{t("s040_dedicated_programme")}</div>
                   </div>
                 </div>
               </div>
@@ -582,8 +585,8 @@ export default function BestCookingClassesPage({ cities, topClasses }: Props) {
               {/* Blue Elephant Phuket */}
               <div className="border border-gray-200 rounded-xl p-6 mb-6">
                 <div className="flex flex-wrap items-start justify-between gap-2 mb-3">
-                  <h3 className="text-xl font-bold font-heading text-gray-900">Blue Elephant Cooking School Phuket</h3>
-                  <span className="bg-purple-100 text-purple-800 text-xs font-semibold px-3 py-1 rounded-full">Premium / Royal Thai cuisine</span>
+                  <h3 className="text-xl font-bold font-heading text-gray-900">{t("s041_blue_elephant_cooking_school")}</h3>
+                  <span className="bg-purple-100 text-purple-800 text-xs font-semibold px-3 py-1 rounded-full">{t("s042_premium_royal_thai_cuisine")}</span>
                 </div>
                 <p className="text-sm text-gray-500 mb-3">
                   Phuket &mdash;{' '}
@@ -594,20 +597,20 @@ export default function BestCookingClassesPage({ cities, topClasses }: Props) {
                 </p>
                 <div className="grid grid-cols-2 md:grid-cols-4 gap-3 mb-2">
                   <div className="bg-surface-cream rounded-lg p-3">
-                    <div className="text-xs text-gray-500 mb-1">Cuisine focus</div>
-                    <div className="text-sm font-semibold text-gray-800">Royal Thai</div>
+                    <div className="text-xs text-gray-500 mb-1">{t("s043_cuisine_focus")}</div>
+                    <div className="text-sm font-semibold text-gray-800">{t("s044_royal_thai")}</div>
                   </div>
                   <div className="bg-surface-cream rounded-lg p-3">
                     <div className="text-xs text-gray-500 mb-1">Duration</div>
                     <div className="text-sm font-semibold text-gray-800">Half-day</div>
                   </div>
                   <div className="bg-surface-cream rounded-lg p-3">
-                    <div className="text-xs text-gray-500 mb-1">Market visit</div>
-                    <div className="text-sm font-semibold text-green-700">Yes (morning class)</div>
+                    <div className="text-xs text-gray-500 mb-1">{t("s005_market_visit")}</div>
+                    <div className="text-sm font-semibold text-green-700">{t("s012_yes_morning_class")}</div>
                   </div>
                   <div className="bg-surface-cream rounded-lg p-3">
                     <div className="text-xs text-gray-500 mb-1">Level</div>
-                    <div className="text-sm font-semibold text-gray-800">Beginner to advanced</div>
+                    <div className="text-sm font-semibold text-gray-800">{t("s047_beginner_to_advanced")}</div>
                   </div>
                 </div>
               </div>
@@ -638,7 +641,7 @@ export default function BestCookingClassesPage({ cities, topClasses }: Props) {
                   </Link>
                 </h2>
               </div>
-              <p className="text-gray-500 text-sm mb-4">Best for: small-group intimacy, sunset cooking, traditional charcoal technique</p>
+              <p className="text-gray-500 text-sm mb-4">{t("s048_best_for_small_group")}</p>
 
               <p className="text-gray-700 mb-6">
                 Koh Samui&apos;s cooking school scene is smaller than Bangkok or Chiang Mai, but the island compensates with atmosphere. Several classes take place in open-air garden kitchens where you cook surrounded by coconut palms and sea breezes. The island also has a strong southern Thai culinary identity — coconut milk appears in almost everything, and fresh turmeric (rather than dried) colours many dishes yellow.
@@ -647,8 +650,8 @@ export default function BestCookingClassesPage({ cities, topClasses }: Props) {
               {/* Jungle Kitchen */}
               <div className="border border-gray-200 rounded-xl p-6 mb-6">
                 <div className="flex flex-wrap items-start justify-between gap-2 mb-3">
-                  <h3 className="text-xl font-bold font-heading text-gray-900">Jungle Kitchen Koh Samui</h3>
-                  <span className="bg-orange-100 text-orange-800 text-xs font-semibold px-3 py-1 rounded-full">Traditional charcoal stoves — max 8 guests</span>
+                  <h3 className="text-xl font-bold font-heading text-gray-900">{t("s049_jungle_kitchen_koh_samui")}</h3>
+                  <span className="bg-orange-100 text-orange-800 text-xs font-semibold px-3 py-1 rounded-full">{t("s050_traditional_charcoal_stoves_max")}</span>
                 </div>
                 <p className="text-sm text-gray-500 mb-3">
                   151/68 Moo 1, Soi Khao Phra, Bo Phut (near Fisherman&apos;s Village), Koh Samui &mdash;{' '}
@@ -663,19 +666,19 @@ export default function BestCookingClassesPage({ cities, topClasses }: Props) {
                 <div className="grid grid-cols-2 md:grid-cols-4 gap-3 mb-2">
                   <div className="bg-surface-cream rounded-lg p-3">
                     <div className="text-xs text-gray-500 mb-1">Time</div>
-                    <div className="text-sm font-semibold text-gray-800">Evening only (5–9 pm)</div>
+                    <div className="text-sm font-semibold text-gray-800">{t("s051_evening_only_5_9")}</div>
                   </div>
                   <div className="bg-surface-cream rounded-lg p-3">
-                    <div className="text-xs text-gray-500 mb-1">Group size</div>
-                    <div className="text-sm font-semibold text-gray-800">Max 8 guests</div>
+                    <div className="text-xs text-gray-500 mb-1">{t("s004_group_size")}</div>
+                    <div className="text-sm font-semibold text-gray-800">{t("s053_max_8_guests")}</div>
                   </div>
                   <div className="bg-surface-cream rounded-lg p-3">
-                    <div className="text-xs text-gray-500 mb-1">Herb garden</div>
-                    <div className="text-sm font-semibold text-green-700">Yes, pick your own</div>
+                    <div className="text-xs text-gray-500 mb-1">{t("s054_herb_garden")}</div>
+                    <div className="text-sm font-semibold text-green-700">{t("s055_yes_pick_your_own")}</div>
                   </div>
                   <div className="bg-surface-cream rounded-lg p-3">
-                    <div className="text-xs text-gray-500 mb-1">Cooking method</div>
-                    <div className="text-sm font-semibold text-gray-800">Charcoal stoves</div>
+                    <div className="text-xs text-gray-500 mb-1">{t("s056_cooking_method")}</div>
+                    <div className="text-sm font-semibold text-gray-800">{t("s057_charcoal_stoves")}</div>
                   </div>
                 </div>
               </div>
@@ -683,8 +686,8 @@ export default function BestCookingClassesPage({ cities, topClasses }: Props) {
               {/* Island Organics Samui */}
               <div className="border border-gray-200 rounded-xl p-6 mb-6">
                 <div className="flex flex-wrap items-start justify-between gap-2 mb-3">
-                  <h3 className="text-xl font-bold font-heading text-gray-900">Island Organics Samui</h3>
-                  <span className="bg-green-100 text-green-800 text-xs font-semibold px-3 py-1 rounded-full">TV-featured, established 2015</span>
+                  <h3 className="text-xl font-bold font-heading text-gray-900">{t("s058_island_organics_samui")}</h3>
+                  <span className="bg-green-100 text-green-800 text-xs font-semibold px-3 py-1 rounded-full">{t("s059_tv_featured_established_2015")}</span>
                 </div>
                 <p className="text-sm text-gray-500 mb-3">
                   Koh Samui &mdash;{' '}
@@ -696,7 +699,7 @@ export default function BestCookingClassesPage({ cities, topClasses }: Props) {
                 <div className="grid grid-cols-2 md:grid-cols-4 gap-3 mb-2">
                   <div className="bg-surface-cream rounded-lg p-3">
                     <div className="text-xs text-gray-500 mb-1">Focus</div>
-                    <div className="text-sm font-semibold text-gray-800">Organic ingredients</div>
+                    <div className="text-sm font-semibold text-gray-800">{t("s060_organic_ingredients")}</div>
                   </div>
                   <div className="bg-surface-cream rounded-lg p-3">
                     <div className="text-xs text-gray-500 mb-1">Established</div>
@@ -704,7 +707,7 @@ export default function BestCookingClassesPage({ cities, topClasses }: Props) {
                   </div>
                   <div className="bg-surface-cream rounded-lg p-3">
                     <div className="text-xs text-gray-500 mb-1">Vegetarian</div>
-                    <div className="text-sm font-semibold text-green-700">Yes, on request</div>
+                    <div className="text-sm font-semibold text-green-700">{t("s007_yes_on_request")}</div>
                   </div>
                   <div className="bg-surface-cream rounded-lg p-3">
                     <div className="text-xs text-gray-500 mb-1">TV-featured</div>
@@ -739,7 +742,7 @@ export default function BestCookingClassesPage({ cities, topClasses }: Props) {
                   </Link>
                 </h2>
               </div>
-              <p className="text-gray-500 text-sm mb-4">Best for: relaxed pace, Ao Nang convenience, morning market visits, southern Thai flavours</p>
+              <p className="text-gray-500 text-sm mb-4">{t("s062_best_for_relaxed_pace")}</p>
 
               <p className="text-gray-700 mb-6">
                 Krabi is a lower-pressure choice: fewer options than Chiang Mai, but the classes that exist are unhurried and run by local families with deep roots in southern Thai cooking. Ao Nang, the main tourist hub, is where most schools operate — meaning a class is easy to slot into an island-hopping itinerary. Southern Thai food skews spicier and more coconut-heavy than the central Thai dishes most visitors know, making Krabi classes a genuine education rather than a repeat of what you learned in Bangkok.
@@ -748,8 +751,8 @@ export default function BestCookingClassesPage({ cities, topClasses }: Props) {
               {/* Ya's Cookery School */}
               <div className="border border-gray-200 rounded-xl p-6 mb-6">
                 <div className="flex flex-wrap items-start justify-between gap-2 mb-3">
-                  <h3 className="text-xl font-bold font-heading text-gray-900">Ya&apos;s Cookery School</h3>
-                  <span className="bg-green-100 text-green-800 text-xs font-semibold px-3 py-1 rounded-full">Market tour + 5 dishes</span>
+                  <h3 className="text-xl font-bold font-heading text-gray-900">{t("s063_ya_apos_s_cookery")}</h3>
+                  <span className="bg-green-100 text-green-800 text-xs font-semibold px-3 py-1 rounded-full">{t("s064_market_tour_5_dishes")}</span>
                 </div>
                 <p className="text-sm text-gray-500 mb-3">
                   Ao Nang, Krabi Province &mdash;{' '}
@@ -771,12 +774,12 @@ export default function BestCookingClassesPage({ cities, topClasses }: Props) {
                     <div className="text-sm font-semibold text-gray-800">5 per session</div>
                   </div>
                   <div className="bg-surface-cream rounded-lg p-3">
-                    <div className="text-xs text-gray-500 mb-1">Market visit</div>
-                    <div className="text-sm font-semibold text-green-700">Yes (Krabi market)</div>
+                    <div className="text-xs text-gray-500 mb-1">{t("s005_market_visit")}</div>
+                    <div className="text-sm font-semibold text-green-700">{t("s066_yes_krabi_market")}</div>
                   </div>
                   <div className="bg-surface-cream rounded-lg p-3">
                     <div className="text-xs text-gray-500 mb-1">Vegetarian</div>
-                    <div className="text-sm font-semibold text-green-700">Yes, on request</div>
+                    <div className="text-sm font-semibold text-green-700">{t("s007_yes_on_request")}</div>
                   </div>
                 </div>
               </div>
@@ -784,8 +787,8 @@ export default function BestCookingClassesPage({ cities, topClasses }: Props) {
               {/* Thai Charm */}
               <div className="border border-gray-200 rounded-xl p-6 mb-6">
                 <div className="flex flex-wrap items-start justify-between gap-2 mb-3">
-                  <h3 className="text-xl font-bold font-heading text-gray-900">Thai Charm Cooking School</h3>
-                  <span className="bg-blue-100 text-blue-800 text-xs font-semibold px-3 py-1 rounded-full">Ao Nang, open-air garden kitchen</span>
+                  <h3 className="text-xl font-bold font-heading text-gray-900">{t("s068_thai_charm_cooking_school")}</h3>
+                  <span className="bg-blue-100 text-blue-800 text-xs font-semibold px-3 py-1 rounded-full">{t("s069_ao_nang_open_air")}</span>
                 </div>
                 <p className="text-sm text-gray-500 mb-3">
                   Soi Khlong Jilad, Sai Thai, Mueang Krabi &mdash;{' '}
@@ -797,19 +800,19 @@ export default function BestCookingClassesPage({ cities, topClasses }: Props) {
                 <div className="grid grid-cols-2 md:grid-cols-4 gap-3 mb-2">
                   <div className="bg-surface-cream rounded-lg p-3">
                     <div className="text-xs text-gray-500 mb-1">Style</div>
-                    <div className="text-sm font-semibold text-gray-800">Family-run, small group</div>
+                    <div className="text-sm font-semibold text-gray-800">{t("s070_family_run_small_group")}</div>
                   </div>
                   <div className="bg-surface-cream rounded-lg p-3">
                     <div className="text-xs text-gray-500 mb-1">Kitchen</div>
-                    <div className="text-sm font-semibold text-gray-800">Open-air garden</div>
+                    <div className="text-sm font-semibold text-gray-800">{t("s071_open_air_garden")}</div>
                   </div>
                   <div className="bg-surface-cream rounded-lg p-3">
                     <div className="text-xs text-gray-500 mb-1">Vegetarian</div>
-                    <div className="text-sm font-semibold text-green-700">Yes, on request</div>
+                    <div className="text-sm font-semibold text-green-700">{t("s007_yes_on_request")}</div>
                   </div>
                   <div className="bg-surface-cream rounded-lg p-3">
                     <div className="text-xs text-gray-500 mb-1">Setting</div>
-                    <div className="text-sm font-semibold text-gray-800">Garden, Ao Nang area</div>
+                    <div className="text-sm font-semibold text-gray-800">{t("s073_garden_ao_nang_area")}</div>
                   </div>
                 </div>
               </div>
@@ -862,9 +865,9 @@ export default function BestCookingClassesPage({ cities, topClasses }: Props) {
               </div>
               <p className="text-sm text-gray-600">
                 Tom yum kung was inscribed on the UNESCO Intangible Cultural Heritage list in December 2024, reflecting the dish&apos;s deep cultural significance in Thai society. Source:{' '}
-                <a href="https://ich.unesco.org/en/state/thailand-TH" target="_blank" rel="noopener noreferrer" className="text-thailand-blue hover:underline">UNESCO ICH Thailand</a>.
+                <a href="https://ich.unesco.org/en/state/thailand-TH" target="_blank" rel="noopener noreferrer" className="text-thailand-blue hover:underline">{t("s074_unesco_ich_thailand")}</a>.
                 Explore the full{' '}
-                <Link href="/food/" className="text-thailand-blue hover:underline">Thai food guide</Link>.
+                <Link href="/food/" className="text-thailand-blue hover:underline">{t("s075_thai_food_guide")}</Link>.
               </p>
             </div>
 
@@ -916,7 +919,7 @@ export default function BestCookingClassesPage({ cities, topClasses }: Props) {
 
             {/* Source note */}
             <div className="bg-surface-cream rounded-xl p-6 mb-8">
-              <p className="text-sm text-gray-600 font-semibold mb-2">Sources &amp; Verification</p>
+              <p className="text-sm text-gray-600 font-semibold mb-2">{t("s076_sources_amp_verification")}</p>
               <p className="text-sm text-gray-600">
                 School details on this page were verified against official school websites and established booking platforms in early 2026.
                 Websites cited: <a href="https://www.silomthaicooking.com" target="_blank" rel="noopener noreferrer" className="text-thailand-blue hover:underline">silomthaicooking.com</a>,{' '}

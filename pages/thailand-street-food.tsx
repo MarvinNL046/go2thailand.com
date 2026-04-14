@@ -5,6 +5,8 @@ import { useRouter } from 'next/router';
 import Breadcrumbs from '../components/Breadcrumbs';
 import TripcomWidget from '../components/TripcomWidget';
 import { useState } from 'react';
+import { useT } from '../lib/i18n';
+import { strings as i18nStrings } from '../lib/i18n/thailand-street-food';
 
 interface DishData {
   rank: number;
@@ -131,6 +133,7 @@ function spiceIndicator(level: string): { label: string; color: string; dots: nu
 }
 
 export default function ThailandStreetFood({ data }: StreetFoodProps) {
+  const t = useT(i18nStrings);
   const { locale } = useRouter();
   const isNl = locale === 'nl';
   const [typeFilter, setTypeFilter] = useState<TypeFilter>('all');
@@ -211,7 +214,6 @@ export default function ThailandStreetFood({ data }: StreetFoodProps) {
     { key: 'medium', label: isNl ? 'Gemiddeld' : 'Medium' },
     { key: 'hot', label: isNl ? 'Pittig' : 'Hot' }
   ];
-
   return (
     <>
       <SEOHead
@@ -238,7 +240,7 @@ export default function ThailandStreetFood({ data }: StreetFoodProps) {
                 {data.title}
               </h1>
               <p className="text-xl lg:text-2xl mb-6 max-w-3xl mx-auto opacity-90">
-                Yaowarat, Chiang Mai Night Bazaar, Chatuchak — with MICHELIN Bib Gourmand picks and UNESCO heritage context
+                {t("s001_yaowarat_chiang_mai_night")}
               </p>
               <div className="flex flex-wrap justify-center gap-4 text-sm font-medium opacity-80">
                 <span className="bg-white/20 px-4 py-2 rounded-full">{isNl ? '25 gerechten' : '25 dishes'}</span>
@@ -275,8 +277,8 @@ export default function ThailandStreetFood({ data }: StreetFoodProps) {
                   </svg>
                 </div>
                 <div>
-                  <p className="font-semibold text-gray-900 text-sm">UNESCO Heritage Dish</p>
-                  <p className="text-gray-600 text-xs mt-0.5">Tom Yum Kung was inscribed on UNESCO&apos;s Intangible Cultural Heritage list in December 2024 — Thailand&apos;s first dish to receive the designation. Source: <a href="https://ich.unesco.org/en/RL/tomyum-kung-01879" target="_blank" rel="noopener noreferrer" className="underline">ich.unesco.org</a></p>
+                  <p className="font-semibold text-gray-900 text-sm">{t("s002_unesco_heritage_dish")}</p>
+                  <p className="text-gray-600 text-xs mt-0.5">{t("s003_tom_yum_kung_was")} <a href="https://ich.unesco.org/en/RL/tomyum-kung-01879" target="_blank" rel="noopener noreferrer" className="underline">ich.unesco.org</a></p>
                 </div>
               </div>
               <div className="flex items-start gap-3">
@@ -286,8 +288,8 @@ export default function ThailandStreetFood({ data }: StreetFoodProps) {
                   </svg>
                 </div>
                 <div>
-                  <p className="font-semibold text-gray-900 text-sm">MICHELIN Bib Gourmand: 137 venues</p>
-                  <p className="text-gray-600 text-xs mt-0.5">The 2026 MICHELIN Guide Thailand Bib Gourmand selection covers 137 dining venues across Bangkok, Chiang Mai, Phuket, and beyond. Several are 50–90-year-old street stalls. Source: <a href="https://guide.michelin.com/en/th/bangkok-region/bangkok/restaurants/bib-gourmand" target="_blank" rel="noopener noreferrer" className="underline">guide.michelin.com</a></p>
+                  <p className="font-semibold text-gray-900 text-sm">{t("s004_michelin_bib_gourmand_137")}</p>
+                  <p className="text-gray-600 text-xs mt-0.5">{t("s005_the_2026_michelin_guide")} <a href="https://guide.michelin.com/en/th/bangkok-region/bangkok/restaurants/bib-gourmand" target="_blank" rel="noopener noreferrer" className="underline">guide.michelin.com</a></p>
                 </div>
               </div>
             </div>
@@ -307,8 +309,8 @@ export default function ThailandStreetFood({ data }: StreetFoodProps) {
               <div className="bg-white rounded-2xl shadow-md overflow-hidden">
                 <div className="bg-gradient-to-r from-red-800 to-red-900 px-6 py-5">
                   <p className="text-red-200 text-xs font-semibold uppercase tracking-wider mb-1">Bangkok</p>
-                  <h3 className="text-xl font-bold text-white font-heading">Yaowarat Road</h3>
-                  <p className="text-red-200 text-sm mt-1">Chinatown — Bangkok&apos;s best food street</p>
+                  <h3 className="text-xl font-bold text-white font-heading">{t("s006_yaowarat_road")}</h3>
+                  <p className="text-red-200 text-sm mt-1">{t("s007_chinatown_bangkok_apos_s")}</p>
                 </div>
                 <div className="p-6 space-y-4">
                   <p className="text-gray-700 text-sm leading-relaxed">
@@ -317,36 +319,36 @@ export default function ThailandStreetFood({ data }: StreetFoodProps) {
                       : 'Yaowarat Road anchors Bangkok\'s Chinatown, the largest in Southeast Asia. From 5 PM each evening, vendors close traffic lanes and extend their stalls along both sides of the road. Seafood grills, oyster omelettes, pad thai over charcoal, and guay jub noodle soup operate side by side until well past midnight.'}
                   </p>
                   <div className="space-y-2">
-                    <p className="text-xs font-semibold text-gray-500 uppercase tracking-wide">Notable Addresses</p>
+                    <p className="text-xs font-semibold text-gray-500 uppercase tracking-wide">{t("s008_notable_addresses")}</p>
                     <ul className="space-y-1.5 text-sm text-gray-700">
                       <li className="flex items-start gap-2">
                         <span className="text-red-600 font-bold flex-shrink-0">&#9679;</span>
-                        <span><strong>Guay Jub Ouan Pochana</strong> — No. 408 Yaowarat Rd. {isNl ? '50+ jaar, MICHELIN Bib Gourmand. Peperige opgerolde noedelsoep.' : '50+ years, MICHELIN Bib Gourmand. Peppery rolled noodle soup.'}</span>
+                        <span><strong>{t("s009_guay_jub_ouan_pochana")}</strong> — No. 408 Yaowarat Rd. {isNl ? '50+ jaar, MICHELIN Bib Gourmand. Peperige opgerolde noedelsoep.' : '50+ years, MICHELIN Bib Gourmand. Peppery rolled noodle soup.'}</span>
                       </li>
                       <li className="flex items-start gap-2">
                         <span className="text-red-600 font-bold flex-shrink-0">&#9679;</span>
-                        <span><strong>Nai Mong Hoy Tod</strong> — {isNl ? '30+ jaar, de maatstaf voor oesteromelet. Vraag om \'tod krop\'.' : '30+ years, the benchmark oyster omelette. Ask for \'tod krop\'.'}</span>
+                        <span><strong>{t("s010_nai_mong_hoy_tod")}</strong> — {isNl ? '30+ jaar, de maatstaf voor oesteromelet. Vraag om \'tod krop\'.' : '30+ years, the benchmark oyster omelette. Ask for \'tod krop\'.'}</span>
                       </li>
                       <li className="flex items-start gap-2">
                         <span className="text-red-600 font-bold flex-shrink-0">&#9679;</span>
-                        <span><strong>T&amp;K Seafood</strong> — {isNl ? 'Al jarenlang een zeevruchtengrill en tom yum goong specialist op Yaowarat.' : 'Long-running seafood grill and tom yum goong specialist on Yaowarat.'}</span>
+                        <span><strong>{t("s011_t_amp_k_seafood")}</strong> — {isNl ? 'Al jarenlang een zeevruchtengrill en tom yum goong specialist op Yaowarat.' : 'Long-running seafood grill and tom yum goong specialist on Yaowarat.'}</span>
                       </li>
                       <li className="flex items-start gap-2">
                         <span className="text-red-600 font-bold flex-shrink-0">&#9679;</span>
-                        <span><strong>Pa Tong Go Savoey</strong> — {isNl ? 'MICHELIN Bib Gourmand voor Chinese donuts (pa tong go) met pandan custard.' : 'MICHELIN Bib Gourmand for Chinese doughnuts (pa tong go) with pandan custard.'}</span>
+                        <span><strong>{t("s012_pa_tong_go_savoey")}</strong> — {isNl ? 'MICHELIN Bib Gourmand voor Chinese donuts (pa tong go) met pandan custard.' : 'MICHELIN Bib Gourmand for Chinese doughnuts (pa tong go) with pandan custard.'}</span>
                       </li>
                     </ul>
                   </div>
-                  <p className="text-xs text-gray-400 mt-2">Source: <a href="https://www.tourismthailand.org/Articles/top-5-street-food-restaurants-in-yaowarat-to-turn-your-hunger-into-happiness" target="_blank" rel="noopener noreferrer" className="underline hover:text-gray-600">Tourism Authority of Thailand</a>, <a href="https://guide.michelin.com/en/th/bangkok-region/bangkok/restaurants/bib-gourmand" target="_blank" rel="noopener noreferrer" className="underline hover:text-gray-600">MICHELIN Guide Thailand</a></p>
+                  <p className="text-xs text-gray-400 mt-2">Source: <a href="https://www.tourismthailand.org/Articles/top-5-street-food-restaurants-in-yaowarat-to-turn-your-hunger-into-happiness" target="_blank" rel="noopener noreferrer" className="underline hover:text-gray-600">{t("s013_tourism_authority_of_thailand")}</a>, <a href="https://guide.michelin.com/en/th/bangkok-region/bangkok/restaurants/bib-gourmand" target="_blank" rel="noopener noreferrer" className="underline hover:text-gray-600">{t("s014_michelin_guide_thailand")}</a></p>
                 </div>
               </div>
 
               {/* Chiang Mai Night Bazaar */}
               <div className="bg-white rounded-2xl shadow-md overflow-hidden">
                 <div className="bg-gradient-to-r from-amber-700 to-amber-800 px-6 py-5">
-                  <p className="text-amber-200 text-xs font-semibold uppercase tracking-wider mb-1">Chiang Mai</p>
-                  <h3 className="text-xl font-bold text-white font-heading">Night Bazaar</h3>
-                  <p className="text-amber-200 text-sm mt-1">Chang Klan Road — Northern Thai specialties</p>
+                  <p className="text-amber-200 text-xs font-semibold uppercase tracking-wider mb-1">{t("s015_chiang_mai")}</p>
+                  <h3 className="text-xl font-bold text-white font-heading">{t("s016_night_bazaar")}</h3>
+                  <p className="text-amber-200 text-sm mt-1">{t("s017_chang_klan_road_northern")}</p>
                 </div>
                 <div className="p-6 space-y-4">
                   <p className="text-gray-700 text-sm leading-relaxed">
@@ -355,11 +357,11 @@ export default function ThailandStreetFood({ data }: StreetFoodProps) {
                       : 'The Night Bazaar on Chang Klan Road began as a gathering point for Chinese merchants and local traders. Today it runs 5 PM to 11 PM along several blocks, combining craft stalls with street food vendors focused on Northern Thai specialties unavailable in Bangkok. It is the most accessible single location for Northern cuisine.'}
                   </p>
                   <div className="space-y-2">
-                    <p className="text-xs font-semibold text-gray-500 uppercase tracking-wide">What to Order</p>
+                    <p className="text-xs font-semibold text-gray-500 uppercase tracking-wide">{t("s018_what_to_order")}</p>
                     <ul className="space-y-1.5 text-sm text-gray-700">
                       <li className="flex items-start gap-2">
                         <span className="text-amber-600 font-bold flex-shrink-0">&#9679;</span>
-                        <span><strong>Khao Soi</strong> — {isNl ? 'Kokoscurry-eiernoedelsoep; het Noord-Thaise signatuurgerecht. Khao Soi Lung Prakit Kad Kom in de buurt heeft een MICHELIN Bib Gourmand.' : 'Coconut curry egg noodle soup; the Northern Thai signature dish. Khao Soi Lung Prakit Kad Kom nearby holds a MICHELIN Bib Gourmand.'}</span>
+                        <span><strong>{t("s019_khao_soi")}</strong> — {isNl ? 'Kokoscurry-eiernoedelsoep; het Noord-Thaise signatuurgerecht. Khao Soi Lung Prakit Kad Kom in de buurt heeft een MICHELIN Bib Gourmand.' : 'Coconut curry egg noodle soup; the Northern Thai signature dish. Khao Soi Lung Prakit Kad Kom nearby holds a MICHELIN Bib Gourmand.'}</span>
                       </li>
                       <li className="flex items-start gap-2">
                         <span className="text-amber-600 font-bold flex-shrink-0">&#9679;</span>
@@ -367,15 +369,15 @@ export default function ThailandStreetFood({ data }: StreetFoodProps) {
                       </li>
                       <li className="flex items-start gap-2">
                         <span className="text-amber-600 font-bold flex-shrink-0">&#9679;</span>
-                        <span><strong>Nam Ngiew</strong> — {isNl ? 'Noord-Thaise varkens- en tomatennoedelsoep met Shan-Birmese invloeden.' : 'Northern pork and tomato noodle soup with Shan-Burmese influence.'}</span>
+                        <span><strong>{t("s020_nam_ngiew")}</strong> — {isNl ? 'Noord-Thaise varkens- en tomatennoedelsoep met Shan-Birmese invloeden.' : 'Northern pork and tomato noodle soup with Shan-Burmese influence.'}</span>
                       </li>
                       <li className="flex items-start gap-2">
                         <span className="text-amber-600 font-bold flex-shrink-0">&#9679;</span>
-                        <span><strong>Mango Sticky Rice &amp; Satay</strong> — {isNl ? 'Overal verkrijgbaar; de kwaliteit is betrouwbaar in de food zone van de bazaar.' : 'Available throughout; quality is reliable in the bazaar food zone.'}</span>
+                        <span><strong>{t("s021_mango_sticky_rice_amp")}</strong> — {isNl ? 'Overal verkrijgbaar; de kwaliteit is betrouwbaar in de food zone van de bazaar.' : 'Available throughout; quality is reliable in the bazaar food zone.'}</span>
                       </li>
                     </ul>
                   </div>
-                  <p className="text-xs text-gray-400 mt-2">Hours: approx. 5 PM–11 PM daily. Source: <a href="https://chiangmaihub.com/chiang-mai-night-bazaar/" target="_blank" rel="noopener noreferrer" className="underline hover:text-gray-600">chiangmaihub.com</a></p>
+                  <p className="text-xs text-gray-400 mt-2">{t("s022_hours_approx_5_pm")} <a href="https://chiangmaihub.com/chiang-mai-night-bazaar/" target="_blank" rel="noopener noreferrer" className="underline hover:text-gray-600">chiangmaihub.com</a></p>
                 </div>
               </div>
 
@@ -383,7 +385,7 @@ export default function ThailandStreetFood({ data }: StreetFoodProps) {
               <div className="bg-white rounded-2xl shadow-md overflow-hidden">
                 <div className="bg-gradient-to-r from-green-700 to-green-800 px-6 py-5">
                   <p className="text-green-200 text-xs font-semibold uppercase tracking-wider mb-1">Bangkok</p>
-                  <h3 className="text-xl font-bold text-white font-heading">Chatuchak Weekend Market</h3>
+                  <h3 className="text-xl font-bold text-white font-heading">{t("s023_chatuchak_weekend_market")}</h3>
                   <p className="text-green-200 text-sm mt-1">35 acres, 15,000+ stalls, Sat–Sun 9 AM–6 PM</p>
                 </div>
                 <div className="p-6 space-y-4">
@@ -393,7 +395,7 @@ export default function ThailandStreetFood({ data }: StreetFoodProps) {
                       : 'Chatuchak is the largest weekend market in Thailand — 35 acres, over 15,000 stalls, and more than 200,000 weekly visitors (Tourism Authority of Thailand). For street food, concentrate on the interior food lanes and the perimeter. Arrive by 9 AM; by noon the heat and crowds are significant. MRT to Chatuchak Park (Exit 1) or Kamphaeng Phet (Exit 2).'}
                   </p>
                   <div className="space-y-2">
-                    <p className="text-xs font-semibold text-gray-500 uppercase tracking-wide">Key Food Stops</p>
+                    <p className="text-xs font-semibold text-gray-500 uppercase tracking-wide">{t("s024_key_food_stops")}</p>
                     <ul className="space-y-1.5 text-sm text-gray-700">
                       <li className="flex items-start gap-2">
                         <span className="text-green-600 font-bold flex-shrink-0">&#9679;</span>
@@ -401,15 +403,15 @@ export default function ThailandStreetFood({ data }: StreetFoodProps) {
                       </li>
                       <li className="flex items-start gap-2">
                         <span className="text-green-600 font-bold flex-shrink-0">&#9679;</span>
-                        <span><strong>Mango Sticky Rice carts</strong> — {isNl ? 'Meerdere verkopers door de hele foodsectie; kwaliteit is seizoensgebonden (beste april-juni).' : 'Multiple vendors throughout the food section; quality is seasonal (best April\u2013June).'}</span>
+                        <span><strong>{t("s025_mango_sticky_rice_carts")}</strong> — {isNl ? 'Meerdere verkopers door de hele foodsectie; kwaliteit is seizoensgebonden (beste april-juni).' : 'Multiple vendors throughout the food section; quality is seasonal (best April\u2013June).'}</span>
                       </li>
                       <li className="flex items-start gap-2">
                         <span className="text-green-600 font-bold flex-shrink-0">&#9679;</span>
-                        <span><strong>Grilled pork &amp; fried chicken</strong> — {isNl ? 'Moo ping en gai tod kraampjes zijn verspreid over de hele marktrand.' : 'Moo ping and gai tod stalls are scattered throughout the market perimeter.'}</span>
+                        <span><strong>{t("s026_grilled_pork_amp_fried")}</strong> — {isNl ? 'Moo ping en gai tod kraampjes zijn verspreid over de hele marktrand.' : 'Moo ping and gai tod stalls are scattered throughout the market perimeter.'}</span>
                       </li>
                     </ul>
                   </div>
-                  <p className="text-xs text-gray-400 mt-2">Source: <a href="https://www.tourismthailand.org/Attraction/chatuchak-weekend-market" target="_blank" rel="noopener noreferrer" className="underline hover:text-gray-600">Tourism Authority of Thailand</a></p>
+                  <p className="text-xs text-gray-400 mt-2">Source: <a href="https://www.tourismthailand.org/Attraction/chatuchak-weekend-market" target="_blank" rel="noopener noreferrer" className="underline hover:text-gray-600">{t("s013_tourism_authority_of_thailand")}</a></p>
                 </div>
               </div>
 
@@ -659,36 +661,36 @@ export default function ThailandStreetFood({ data }: StreetFoodProps) {
             <h2 className="text-xl font-bold font-heading text-gray-900 mb-4">{isNl ? 'Bronnen & Referenties' : 'Sources & References'}</h2>
             <ul className="space-y-2 text-sm text-gray-600">
               <li>
-                <a href="https://ich.unesco.org/en/RL/tomyum-kung-01879" target="_blank" rel="noopener noreferrer" className="text-thailand-blue hover:underline font-medium">UNESCO — Tom Yum Kung Intangible Cultural Heritage inscription (ich.unesco.org)</a>
+                <a href="https://ich.unesco.org/en/RL/tomyum-kung-01879" target="_blank" rel="noopener noreferrer" className="text-thailand-blue hover:underline font-medium">{t("s028_unesco_tom_yum_kung")}</a>
                 <span className="text-gray-400 ml-2">— December 2024</span>
               </li>
               <li>
-                <a href="https://guide.michelin.com/en/th/bangkok-region/bangkok/restaurants/bib-gourmand" target="_blank" rel="noopener noreferrer" className="text-thailand-blue hover:underline font-medium">MICHELIN Guide Thailand — Bangkok Bib Gourmand listings (guide.michelin.com)</a>
+                <a href="https://guide.michelin.com/en/th/bangkok-region/bangkok/restaurants/bib-gourmand" target="_blank" rel="noopener noreferrer" className="text-thailand-blue hover:underline font-medium">{t("s029_michelin_guide_thailand_bangkok")}</a>
                 <span className="text-gray-400 ml-2">— 2026 selection, 137 venues</span>
               </li>
               <li>
-                <a href="https://www.tourismthailand.org/Articles/top-5-street-food-restaurants-in-yaowarat-to-turn-your-hunger-into-happiness" target="_blank" rel="noopener noreferrer" className="text-thailand-blue hover:underline font-medium">Tourism Authority of Thailand — Top street food in Yaowarat (tourismthailand.org)</a>
+                <a href="https://www.tourismthailand.org/Articles/top-5-street-food-restaurants-in-yaowarat-to-turn-your-hunger-into-happiness" target="_blank" rel="noopener noreferrer" className="text-thailand-blue hover:underline font-medium">{t("s030_tourism_authority_of_thailand")}</a>
               </li>
               <li>
-                <a href="https://www.tourismthailand.org/Attraction/chatuchak-weekend-market" target="_blank" rel="noopener noreferrer" className="text-thailand-blue hover:underline font-medium">Tourism Authority of Thailand — Chatuchak Weekend Market (tourismthailand.org)</a>
+                <a href="https://www.tourismthailand.org/Attraction/chatuchak-weekend-market" target="_blank" rel="noopener noreferrer" className="text-thailand-blue hover:underline font-medium">{t("s031_tourism_authority_of_thailand")}</a>
               </li>
               <li>
-                <a href="https://www.smithsonianmag.com/travel/the-surprising-history-of-pad-thai-180984625/" target="_blank" rel="noopener noreferrer" className="text-thailand-blue hover:underline font-medium">Smithsonian Magazine — The Surprising History of Pad Thai (smithsonianmag.com)</a>
+                <a href="https://www.smithsonianmag.com/travel/the-surprising-history-of-pad-thai-180984625/" target="_blank" rel="noopener noreferrer" className="text-thailand-blue hover:underline font-medium">{t("s032_smithsonian_magazine_the_surprising")}</a>
               </li>
               <li>
-                <a href="https://en.wikipedia.org/wiki/Green_papaya_salad" target="_blank" rel="noopener noreferrer" className="text-thailand-blue hover:underline font-medium">Wikipedia — Green papaya salad / Som Tam origin and spread</a>
+                <a href="https://en.wikipedia.org/wiki/Green_papaya_salad" target="_blank" rel="noopener noreferrer" className="text-thailand-blue hover:underline font-medium">{t("s033_wikipedia_green_papaya_salad")}</a>
               </li>
               <li>
-                <a href="https://en.wikipedia.org/wiki/Satay" target="_blank" rel="noopener noreferrer" className="text-thailand-blue hover:underline font-medium">Wikipedia — Satay origin and Southeast Asian culinary history</a>
+                <a href="https://en.wikipedia.org/wiki/Satay" target="_blank" rel="noopener noreferrer" className="text-thailand-blue hover:underline font-medium">{t("s034_wikipedia_satay_origin_and")}</a>
               </li>
               <li>
-                <a href="https://guide.michelin.com/en/article/features/decoding-the-delicious-som-tam" target="_blank" rel="noopener noreferrer" className="text-thailand-blue hover:underline font-medium">MICHELIN Guide — Decoding Som Tam: Thailand&apos;s papaya salad (guide.michelin.com)</a>
+                <a href="https://guide.michelin.com/en/article/features/decoding-the-delicious-som-tam" target="_blank" rel="noopener noreferrer" className="text-thailand-blue hover:underline font-medium">{t("s035_michelin_guide_decoding_som")}</a>
               </li>
               <li>
-                <a href="https://www.khaosodenglish.com/life/food/2024/12/05/tom-yum-kung-thailands-iconic-soup-achieves-unesco-heritage-status/" target="_blank" rel="noopener noreferrer" className="text-thailand-blue hover:underline font-medium">Khaosod English — Tom Yum Kung achieves UNESCO Heritage Status (khaosodenglish.com)</a>
+                <a href="https://www.khaosodenglish.com/life/food/2024/12/05/tom-yum-kung-thailands-iconic-soup-achieves-unesco-heritage-status/" target="_blank" rel="noopener noreferrer" className="text-thailand-blue hover:underline font-medium">{t("s036_khaosod_english_tom_yum")}</a>
               </li>
               <li>
-                <a href="https://chiangmaihub.com/chiang-mai-night-bazaar/" target="_blank" rel="noopener noreferrer" className="text-thailand-blue hover:underline font-medium">Chiang Mai Hub — Night Bazaar guide (chiangmaihub.com)</a>
+                <a href="https://chiangmaihub.com/chiang-mai-night-bazaar/" target="_blank" rel="noopener noreferrer" className="text-thailand-blue hover:underline font-medium">{t("s037_chiang_mai_hub_night")}</a>
               </li>
             </ul>
           </div>
@@ -760,7 +762,7 @@ export default function ThailandStreetFood({ data }: StreetFoodProps) {
               </div>
             </div>
             <p className="text-white/70 text-xs text-center mt-6">
-              Some links are affiliate links. We may earn a commission at no extra cost to you.
+              {t("s038_some_links_are_affiliate")}
             </p>
           </div>
         </section>

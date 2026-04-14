@@ -4,8 +4,11 @@ import { useRouter } from 'next/router';
 import SEOHead from '../components/SEOHead';
 import Breadcrumbs from '../components/Breadcrumbs';
 import EmailCapture from '../components/EmailCapture';
+import { useT } from '../lib/i18n';
+import { strings as i18nStrings } from '../lib/i18n/itinerary';
 
 export default function ItineraryPillarPage() {
+  const t = useT(i18nStrings);
   const { locale } = useRouter();
   const isNl = locale === 'nl';
 
@@ -45,11 +48,10 @@ export default function ItineraryPillarPage() {
       },
     })),
   };
-
   return (
     <>
       <SEOHead
-        title="Thailand Itinerary: 1, 2, 3 & 4-Week Travel Plans (2026) | Go2Thailand"
+        title={t("s001_thailand_itinerary_1_2")}
         description="Complete Thailand itinerary guide for 2026. Day-by-day travel plans for 7 days, 10 days, 2 weeks, and 3-4 weeks — with costs, transport tips, and routes for every travel style."
       >
         <script type="application/ld+json" dangerouslySetInnerHTML={{ __html: JSON.stringify(faqJsonLd) }} />
@@ -105,7 +107,7 @@ export default function ItineraryPillarPage() {
             <section id="7-day" className="mb-16">
               <div className="border-t-2 border-thailand-blue/20 pt-8 mb-8">
                 <h2 className="text-3xl font-bold font-heading text-gray-900">7-Day Thailand Itinerary (Bangkok + Islands)</h2>
-                <p className="text-gray-600 mt-2">The best route when you only have one week. Focuses on two highlights: Bangkok&apos;s cultural energy and a southern island escape.</p>
+                <p className="text-gray-600 mt-2">{t("s002_the_best_route_when")}</p>
               </div>
 
               <p className="text-gray-700 leading-relaxed mb-6">
@@ -118,8 +120,8 @@ export default function ItineraryPillarPage() {
               <div className="mb-8">
                 <div className="bg-white rounded-2xl shadow-md p-6">
                   <div className="flex items-center gap-3 mb-4">
-                    <span className="bg-thailand-blue text-white text-sm font-bold px-3 py-1 rounded-full">Days 1-2</span>
-                    <h3 className="text-xl font-bold font-heading text-gray-900">Bangkok — Temples, Street Food, and Markets</h3>
+                    <span className="bg-thailand-blue text-white text-sm font-bold px-3 py-1 rounded-full">{t("s003_days_1_2")}</span>
+                    <h3 className="text-xl font-bold font-heading text-gray-900">{t("s004_bangkok_temples_street_food")}</h3>
                   </div>
                   <p className="text-gray-700 leading-relaxed mb-4">
                     Start your Thailand trip in Bangkok, the chaotic, beautiful capital that hits you with sensory overload from the moment you step outside the airport. On your first day, head straight to the Grand Palace and Wat Phra Kaew (entrance fee: ฿500), the most important religious site in Thailand. The complex is enormous — allow 2-3 hours to explore the glittering spires, intricate murals, and the sacred Emerald Buddha. From there, walk five minutes south to Wat Pho, home to the famous 46-meter reclining Buddha covered in gold leaf (entrance fee: ฿300). Wat Pho is also the birthplace of traditional Thai massage, and you can get a one-hour massage on the temple grounds for around ฿500 — the perfect way to recover from jet lag.
@@ -128,9 +130,9 @@ export default function ItineraryPillarPage() {
                     In the evening, head to <Link href="/city/bangkok/" className="text-thailand-blue hover:underline font-semibold">Bangkok&apos;s</Link> legendary street food scene. Yaowarat (Chinatown) comes alive after dark with hundreds of food stalls serving grilled seafood, kuay jab (rolled noodle soup), roasted duck, and mango sticky rice. Budget around ฿200-400 for an incredibly satisfying dinner. For your second day, explore either Chatuchak Weekend Market (Saturday or Sunday only — over 15,000 stalls spanning 35 acres) or one of Bangkok&apos;s famous night markets like Jodd Fairs or Rod Fai. Chatuchak is overwhelming in the best possible way: vintage clothing, handmade jewelry, Thai silk, ceramics, and some of the best market food in the city. If your second day falls on a weekday, spend the morning at Wat Arun (Temple of Dawn, ฿100) and the afternoon exploring the creative neighborhood of Charoen Krung or the rooftop bars along the riverside.
                   </p>
                   <div className="bg-gray-50 rounded-xl p-4 text-sm text-gray-600 space-y-1">
-                    <p><strong>Budget estimate:</strong> ฿3,000-5,000/day (mid-range hotel, food, transport, entrance fees)</p>
-                    <p><strong>Where to stay:</strong> Silom, Sukhumvit (near BTS), or Khao San Road area for budget options</p>
-                    <p><strong>Transport tip:</strong> Use the BTS Skytrain and MRT metro to avoid Bangkok&apos;s notorious traffic jams</p>
+                    <p><strong>{t("s005_budget_estimate")}</strong> ฿3,000-5,000/day (mid-range hotel, food, transport, entrance fees)</p>
+                    <p><strong>{t("s006_where_to_stay")}</strong> {t("s007_silom_sukhumvit_near_bts")}</p>
+                    <p><strong>{t("s008_transport_tip")}</strong> {t("s009_use_the_bts_skytrain")}</p>
                   </div>
                 </div>
               </div>
@@ -139,16 +141,16 @@ export default function ItineraryPillarPage() {
               <div className="mb-8">
                 <div className="bg-white rounded-2xl shadow-md p-6">
                   <div className="flex items-center gap-3 mb-4">
-                    <span className="bg-thailand-blue text-white text-sm font-bold px-3 py-1 rounded-full">Days 3-5</span>
-                    <h3 className="text-xl font-bold font-heading text-gray-900">Island Escape — Koh Samui or Phuket</h3>
+                    <span className="bg-thailand-blue text-white text-sm font-bold px-3 py-1 rounded-full">{t("s010_days_3_5")}</span>
+                    <h3 className="text-xl font-bold font-heading text-gray-900">{t("s011_island_escape_koh_samui")}</h3>
                   </div>
                   <p className="text-gray-700 leading-relaxed mb-4">
-                    On the morning of day 3, fly from Bangkok to either <Link href="/city/koh-samui/" className="text-thailand-blue hover:underline font-semibold">Koh Samui</Link> (1 hour flight, approximately ฿2,000-4,000 one-way) or <Link href="/city/phuket/" className="text-thailand-blue hover:underline font-semibold">Phuket</Link> (1.5 hour flight, approximately ฿1,500-3,000 one-way). Both islands offer stunning beaches, excellent food, and enough activities to fill three days without feeling rushed. Book domestic flights 2-4 weeks in advance on AirAsia, Nok Air, or Thai Lion Air for the best prices — last-minute fares can be double or triple.
+                    On the morning of day 3, fly from Bangkok to either <Link href="/city/koh-samui/" className="text-thailand-blue hover:underline font-semibold">{t("s012_koh_samui")}</Link> (1 hour flight, approximately ฿2,000-4,000 one-way) or <Link href="/city/phuket/" className="text-thailand-blue hover:underline font-semibold">Phuket</Link> (1.5 hour flight, approximately ฿1,500-3,000 one-way). Both islands offer stunning beaches, excellent food, and enough activities to fill three days without feeling rushed. Book domestic flights 2-4 weeks in advance on AirAsia, Nok Air, or Thai Lion Air for the best prices — last-minute fares can be double or triple.
                   </p>
                   <p className="text-gray-700 leading-relaxed mb-4">
                     {isNl
                       ? <><strong>Koh Samui</strong>: verblijf op Chaweng Beach voor het gemak of Lamai Beach voor een iets rustigere sfeer. Besteed dag 3 aan aankomst en het strand. Op dag 4 maak je een dagtocht naar Ang Thong National Marine Park (฿1.500-2.500 inclusief boot, lunch en kajakken) — een prachtige archipel van 42 eilanden met smaragdgroene lagunes, verborgen grotten en panoramische uitkijkpunten. Dag 5 is voor de Big Buddha tempel (gratis entree, donaties welkom), een Thaise kookles, of gewoon ontspannen met een massage op het strand.</>
-                      : <>On <strong>Koh Samui</strong>, base yourself on Chaweng Beach for convenience or Lamai Beach for a slightly quieter vibe. Spend day 3 settling in and hitting the beach. On day 4, take a day trip to Ang Thong National Marine Park (฿1,500-2,500 including boat, lunch, and kayaking) — a stunning archipelago of 42 islands with emerald lagoons, hidden caves, and panoramic viewpoints. Day 5 is for the Big Buddha temple (free entry, donations welcome), a Thai cooking class, or simply relaxing with a beachside massage.</>}
+                      : <>On <strong>{t("s012_koh_samui")}</strong>, base yourself on Chaweng Beach for convenience or Lamai Beach for a slightly quieter vibe. Spend day 3 settling in and hitting the beach. On day 4, take a day trip to Ang Thong National Marine Park (฿1,500-2,500 including boat, lunch, and kayaking) — a stunning archipelago of 42 islands with emerald lagoons, hidden caves, and panoramic viewpoints. Day 5 is for the Big Buddha temple (free entry, donations welcome), a Thai cooking class, or simply relaxing with a beachside massage.</>}
                   </p>
                   <p className="text-gray-700 leading-relaxed mb-4">
                     {isNl
@@ -156,9 +158,9 @@ export default function ItineraryPillarPage() {
                       : <>On <strong>Phuket</strong>, the west coast beaches are the main draw. Kata and Karon are ideal for families and swimmers, while Patong is the nightlife hub. Spend day 4 on a boat trip to the Phi Phi Islands (฿1,500-3,000 for a day tour including snorkeling and lunch) or explore Phang Nga Bay&apos;s dramatic limestone karsts by kayak. Day 5 is for Old Phuket Town&apos;s Sino-Portuguese architecture and street art, or a sunset dinner at one of the west coast beach clubs.</>}
                   </p>
                   <div className="bg-gray-50 rounded-xl p-4 text-sm text-gray-600 space-y-1">
-                    <p><strong>Flights:</strong> Bangkok to Koh Samui: ~1hr, ฿2,000-4,000 | Bangkok to Phuket: ~1.5hr, ฿1,500-3,000</p>
-                    <p><strong>Budget estimate:</strong> ฿2,500-4,500/day on islands (accommodation is pricier than Bangkok)</p>
-                    <p><strong>Tip:</strong> Koh Samui is more compact and relaxed; Phuket offers more variety and nightlife</p>
+                    <p><strong>Flights:</strong> {t("s014_bangkok_to_koh_samui")}</p>
+                    <p><strong>{t("s005_budget_estimate")}</strong> ฿2,500-4,500/day on islands (accommodation is pricier than Bangkok)</p>
+                    <p><strong>Tip:</strong> {t("s016_koh_samui_is_more")}</p>
                   </div>
                 </div>
               </div>
@@ -167,8 +169,8 @@ export default function ItineraryPillarPage() {
               <div className="mb-8">
                 <div className="bg-white rounded-2xl shadow-md p-6">
                   <div className="flex items-center gap-3 mb-4">
-                    <span className="bg-thailand-blue text-white text-sm font-bold px-3 py-1 rounded-full">Days 6-7</span>
-                    <h3 className="text-xl font-bold font-heading text-gray-900">Return to Bangkok and Departure</h3>
+                    <span className="bg-thailand-blue text-white text-sm font-bold px-3 py-1 rounded-full">{t("s017_days_6_7")}</span>
+                    <h3 className="text-xl font-bold font-heading text-gray-900">{t("s018_return_to_bangkok_and")}</h3>
                   </div>
                   <p className="text-gray-700 leading-relaxed mb-4">
                     Fly back to Bangkok on the morning of day 6 (or the evening before if you want to maximize your last full day). Use your remaining time for the things you missed on days 1-2: the sprawling MBK Center or Siam Paragon for shopping, the trendy cafes and galleries of Ari neighborhood, or a traditional Thai massage at Wat Pho&apos;s massage school. If you are departing from Suvarnabhumi Airport (BKK), the Airport Rail Link from central Bangkok takes just 30 minutes and costs ฿45. From Don Mueang Airport (DMK), take the A1 or A2 bus from Mo Chit BTS station (฿30, 30-45 minutes depending on traffic).
@@ -177,9 +179,9 @@ export default function ItineraryPillarPage() {
                     For a memorable final evening, book a dinner cruise on the Chao Phraya River (฿1,200-2,500 depending on the operator) or head to one of Bangkok&apos;s famous rooftop bars — Sky Bar at Lebua, Octave at Marriott Sukhumvit, or the more affordable Attitude rooftop at Hotel Indigo. Watch the sun set over the city skyline with a cocktail in hand as a fitting end to your week in Thailand.
                   </p>
                   <div className="bg-gray-50 rounded-xl p-4 text-sm text-gray-600 space-y-1">
-                    <p><strong>Total 7-day budget (mid-range):</strong> ฿20,000-30,000 ($570-860 USD) excluding international flights</p>
-                    <p><strong>Shopping tip:</strong> MBK Center has better deals than Siam Paragon. Bargaining is expected at MBK.</p>
-                    <p><strong>Airport tip:</strong> Allow 2 hours before domestic flights, 3 hours before international departures</p>
+                    <p><strong>{t("s019_total_7_day_budget")}</strong> ฿20,000-30,000 ($570-860 USD) excluding international flights</p>
+                    <p><strong>{t("s020_shopping_tip")}</strong> {t("s021_mbk_center_has_better")}</p>
+                    <p><strong>{t("s022_airport_tip")}</strong> {t("s023_allow_2_hours_before")}</p>
                   </div>
                 </div>
               </div>
@@ -191,7 +193,7 @@ export default function ItineraryPillarPage() {
             <section id="10-day" className="mb-16">
               <div className="border-t-2 border-thailand-blue/20 pt-8 mb-8">
                 <h2 className="text-3xl font-bold font-heading text-gray-900">10-Day Thailand Itinerary (North + South)</h2>
-                <p className="text-gray-600 mt-2">The sweet spot for most first-time visitors. Covers Bangkok, Chiang Mai, and one island destination.</p>
+                <p className="text-gray-600 mt-2">{t("s024_the_sweet_spot_for")}</p>
               </div>
 
               <p className="text-gray-700 leading-relaxed mb-6">
@@ -202,8 +204,8 @@ export default function ItineraryPillarPage() {
               <div className="mb-8">
                 <div className="bg-white rounded-2xl shadow-md p-6">
                   <div className="flex items-center gap-3 mb-4">
-                    <span className="bg-thailand-blue text-white text-sm font-bold px-3 py-1 rounded-full">Days 1-3</span>
-                    <h3 className="text-xl font-bold font-heading text-gray-900">Bangkok — Temples, Food Tours, and Rooftop Bars</h3>
+                    <span className="bg-thailand-blue text-white text-sm font-bold px-3 py-1 rounded-full">{t("s025_days_1_3")}</span>
+                    <h3 className="text-xl font-bold font-heading text-gray-900">{t("s026_bangkok_temples_food_tours")}</h3>
                   </div>
                   <p className="text-gray-700 leading-relaxed mb-4">
                     With three days in <Link href="/city/bangkok/" className="text-thailand-blue hover:underline font-semibold">Bangkok</Link>, you can explore at a comfortable pace without the breathless rush of a two-day stopover. Day 1 follows the classic temple circuit: Grand Palace and Wat Phra Kaew (฿500), then a walk to Wat Pho (฿300) for the reclining Buddha and an optional Thai massage. Cross the Chao Phraya River by ferry (฿4) to catch sunset at Wat Arun (฿100), whose ceramic-encrusted spire glows golden in the evening light.
@@ -215,9 +217,9 @@ export default function ItineraryPillarPage() {
                     Day 3 is your food day. Join a morning <Link href="/things-to-do-in-thailand/" className="text-thailand-blue hover:underline font-semibold">street food tour</Link> through Yaowarat (Chinatown) or Bang Rak — guided tours cost ฿800-1,500 and introduce you to dishes you would never find on your own, from boat noodles ladled from a tiny sidewalk pot to charcoal-grilled pork satay at stalls that have been family-run for three generations. In the afternoon, head to a rooftop bar for sundowners with views over the city. For a budget-friendly option, try Roof at Siam@Siam (cocktails around ฿250-350) rather than the tourist-priced Sky Bar (฿400+ per drink).
                   </p>
                   <div className="bg-gray-50 rounded-xl p-4 text-sm text-gray-600 space-y-1">
-                    <p><strong>Budget estimate:</strong> ฿3,000-5,000/day (mid-range)</p>
-                    <p><strong>Must-eat:</strong> Kuay jab (rolled noodle soup) in Chinatown, pad kra pao (basil stir-fry) at any street stall</p>
-                    <p><strong>Transport:</strong> Grab app for taxis, BTS/MRT for fixed-price rides, Chao Phraya Express Boat for riverside sights</p>
+                    <p><strong>{t("s005_budget_estimate")}</strong> ฿3,000-5,000/day (mid-range)</p>
+                    <p><strong>Must-eat:</strong> {t("s028_kuay_jab_rolled_noodle")}</p>
+                    <p><strong>Transport:</strong> {t("s029_grab_app_for_taxis")}</p>
                   </div>
                 </div>
               </div>
@@ -226,11 +228,11 @@ export default function ItineraryPillarPage() {
               <div className="mb-8">
                 <div className="bg-white rounded-2xl shadow-md p-6">
                   <div className="flex items-center gap-3 mb-4">
-                    <span className="bg-thailand-blue text-white text-sm font-bold px-3 py-1 rounded-full">Days 4-6</span>
-                    <h3 className="text-xl font-bold font-heading text-gray-900">Chiang Mai — Doi Suthep, Cooking Class, and Elephants</h3>
+                    <span className="bg-thailand-blue text-white text-sm font-bold px-3 py-1 rounded-full">{t("s030_days_4_6")}</span>
+                    <h3 className="text-xl font-bold font-heading text-gray-900">{t("s031_chiang_mai_doi_suthep")}</h3>
                   </div>
                   <p className="text-gray-700 leading-relaxed mb-4">
-                    Fly from Bangkok to <Link href="/city/chiang-mai/" className="text-thailand-blue hover:underline font-semibold">Chiang Mai</Link> on the morning of day 4 (1 hour flight, ฿1,200-2,500 on budget airlines). Chiang Mai is the cultural heart of northern Thailand — a city of over 300 temples within a moated old town, surrounded by misty mountains and lush countryside. The pace here is noticeably slower than Bangkok, and the air feels cleaner.
+                    Fly from Bangkok to <Link href="/city/chiang-mai/" className="text-thailand-blue hover:underline font-semibold">{t("s032_chiang_mai")}</Link> on the morning of day 4 (1 hour flight, ฿1,200-2,500 on budget airlines). Chiang Mai is the cultural heart of northern Thailand — a city of over 300 temples within a moated old town, surrounded by misty mountains and lush countryside. The pace here is noticeably slower than Bangkok, and the air feels cleaner.
                   </p>
                   <p className="text-gray-700 leading-relaxed mb-4">
                     On day 4, head up to Wat Phra That Doi Suthep (entrance fee: ฿30), the golden hilltop temple that overlooks the city from 1,070 meters above sea level. Climb the 309 steps of the Naga staircase or take the funicular for ฿20. The panoramic views of Chiang Mai and the surrounding valley are spectacular on a clear day. Back in the old town, explore Wat Chedi Luang (a massive 14th-century temple with a half-ruined chedi) and Wat Phra Singh (home to one of Thailand&apos;s most revered Buddha images). In the evening, browse the Night Bazaar along Chang Klan Road for handicrafts, art, and food stalls.
@@ -242,9 +244,9 @@ export default function ItineraryPillarPage() {
                     Day 6 is your elephant day. Visit an ethical elephant sanctuary where rescued elephants roam freely and you observe, feed, and walk alongside them rather than riding. Reputable sanctuaries include Elephant Nature Park and Elephant Jungle Sanctuary (฿2,000-3,500 for a half-day visit including transport and lunch). Avoid any operation that offers elephant riding, painting, or circus-style performances — these are signs of animal exploitation. Spend the evening at the Sunday Walking Street Market (Ratchadamnoen Road) if timing aligns, or the Saturday Night Market on Wua Lai Road, both of which are far more atmospheric than the daily Night Bazaar.
                   </p>
                   <div className="bg-gray-50 rounded-xl p-4 text-sm text-gray-600 space-y-1">
-                    <p><strong>Flight:</strong> Bangkok to Chiang Mai: ~1 hour, ฿1,200-2,500 on AirAsia/Nok Air/Thai Lion</p>
-                    <p><strong>Budget estimate:</strong> ฿2,000-3,500/day (Chiang Mai is cheaper than Bangkok)</p>
-                    <p><strong>Ethical elephant tip:</strong> Look for sanctuaries that are &quot;no-ride&quot; and let elephants roam freely in natural habitat</p>
+                    <p><strong>Flight:</strong> {t("s033_bangkok_to_chiang_mai")}</p>
+                    <p><strong>{t("s005_budget_estimate")}</strong> ฿2,000-3,500/day (Chiang Mai is cheaper than Bangkok)</p>
+                    <p><strong>{t("s035_ethical_elephant_tip")}</strong> {t("s036_look_for_sanctuaries_that")}</p>
                   </div>
                 </div>
               </div>
@@ -253,19 +255,19 @@ export default function ItineraryPillarPage() {
               <div className="mb-8">
                 <div className="bg-white rounded-2xl shadow-md p-6">
                   <div className="flex items-center gap-3 mb-4">
-                    <span className="bg-thailand-blue text-white text-sm font-bold px-3 py-1 rounded-full">Days 7-9</span>
-                    <h3 className="text-xl font-bold font-heading text-gray-900">Islands — Beach, Diving, and Island Hopping</h3>
+                    <span className="bg-thailand-blue text-white text-sm font-bold px-3 py-1 rounded-full">{t("s037_days_7_9")}</span>
+                    <h3 className="text-xl font-bold font-heading text-gray-900">{t("s038_islands_beach_diving_and")}</h3>
                   </div>
                   <p className="text-gray-700 leading-relaxed mb-4">
-                    Fly from Chiang Mai directly to <Link href="/city/phuket/" className="text-thailand-blue hover:underline font-semibold">Phuket</Link> (2 hours, ฿1,500-3,500) or <Link href="/city/koh-samui/" className="text-thailand-blue hover:underline font-semibold">Koh Samui</Link> (1.5 hours with a stop, ฿2,500-5,000). Direct flights from Chiang Mai to the south are available daily, saving you the backtrack through Bangkok. These three island days are your reward for the cultural deep-dive of the first week — unstructured beach time, snorkeling excursions, and long dinners watching the sunset.
+                    Fly from Chiang Mai directly to <Link href="/city/phuket/" className="text-thailand-blue hover:underline font-semibold">Phuket</Link> (2 hours, ฿1,500-3,500) or <Link href="/city/koh-samui/" className="text-thailand-blue hover:underline font-semibold">{t("s012_koh_samui")}</Link> (1.5 hours with a stop, ฿2,500-5,000). Direct flights from Chiang Mai to the south are available daily, saving you the backtrack through Bangkok. These three island days are your reward for the cultural deep-dive of the first week — unstructured beach time, snorkeling excursions, and long dinners watching the sunset.
                   </p>
                   <p className="text-gray-700 leading-relaxed mb-4">
-                    If you choose the Andaman coast (Phuket, <Link href="/city/krabi/" className="text-thailand-blue hover:underline font-semibold">Krabi</Link>), take a day trip to the <Link href="/thailand-islands/" className="text-thailand-blue hover:underline font-semibold">Phi Phi Islands</Link> for snorkeling among tropical fish in crystal-clear water (฿1,500-3,000 for a full-day tour including lunch). The second island day is for relaxing on the beach, getting a ฿300 beachside massage, and exploring local restaurants. If you are on the Gulf coast (Koh Samui, <Link href="/city/koh-phangan/" className="text-thailand-blue hover:underline font-semibold">Koh Phangan</Link>, <Link href="/city/koh-tao/" className="text-thailand-blue hover:underline font-semibold">Koh Tao</Link>), the snorkeling and diving are world-class. A fun-dive for certified divers costs around ฿2,500-3,500 for two dives.
+                    If you choose the Andaman coast (Phuket, <Link href="/city/krabi/" className="text-thailand-blue hover:underline font-semibold">Krabi</Link>), take a day trip to the <Link href="/thailand-islands/" className="text-thailand-blue hover:underline font-semibold">{t("s040_phi_phi_islands")}</Link> for snorkeling among tropical fish in crystal-clear water (฿1,500-3,000 for a full-day tour including lunch). The second island day is for relaxing on the beach, getting a ฿300 beachside massage, and exploring local restaurants. If you are on the Gulf coast (Koh Samui, <Link href="/city/koh-phangan/" className="text-thailand-blue hover:underline font-semibold">{t("s041_koh_phangan")}</Link>, <Link href="/city/koh-tao/" className="text-thailand-blue hover:underline font-semibold">Koh Tao</Link>), the snorkeling and diving are world-class. A fun-dive for certified divers costs around ฿2,500-3,500 for two dives.
                   </p>
                   <div className="bg-gray-50 rounded-xl p-4 text-sm text-gray-600 space-y-1">
-                    <p><strong>Flight:</strong> Chiang Mai to Phuket/Krabi: ~2hr, ฿1,500-3,500 | to Koh Samui: ~1.5hr (via Bangkok), ฿2,500-5,000</p>
-                    <p><strong>Island season:</strong> Andaman (Nov-Apr best) | Gulf (year-round, wettest Oct-Dec)</p>
-                    <p><strong>Tip:</strong> If you want both Phuket and an island, fly into Phuket, then ferry to Koh Phi Phi or Koh Lanta</p>
+                    <p><strong>Flight:</strong> {t("s042_chiang_mai_to_phuket")}</p>
+                    <p><strong>{t("s043_island_season")}</strong> {t("s044_andaman_nov_apr_best")}</p>
+                    <p><strong>Tip:</strong> {t("s045_if_you_want_both")}</p>
                   </div>
                 </div>
               </div>
@@ -275,14 +277,14 @@ export default function ItineraryPillarPage() {
                 <div className="bg-white rounded-2xl shadow-md p-6">
                   <div className="flex items-center gap-3 mb-4">
                     <span className="bg-thailand-blue text-white text-sm font-bold px-3 py-1 rounded-full">Day 10</span>
-                    <h3 className="text-xl font-bold font-heading text-gray-900">Return to Bangkok for Departure</h3>
+                    <h3 className="text-xl font-bold font-heading text-gray-900">{t("s046_return_to_bangkok_for")}</h3>
                   </div>
                   <p className="text-gray-700 leading-relaxed mb-4">
                     Fly back to Bangkok for your international departure. If your flight is in the evening, you have time for a final temple visit, a last round of street food, or some souvenir shopping at Terminal 21 (a quirky mall where each floor is themed after a different city). Phuket also has direct international flights to many Asian and European cities, so you may be able to skip the return to Bangkok entirely — check routes before booking.
                   </p>
                   <div className="bg-gray-50 rounded-xl p-4 text-sm text-gray-600 space-y-1">
-                    <p><strong>Total 10-day budget (mid-range):</strong> ฿28,000-42,000 ($800-1,200 USD) excluding international flights</p>
-                    <p><strong>Pro tip:</strong> Check if Phuket has direct international flights to your home city — saves time and often money</p>
+                    <p><strong>{t("s047_total_10_day_budget")}</strong> ฿28,000-42,000 ($800-1,200 USD) excluding international flights</p>
+                    <p><strong>{t("s048_pro_tip")}</strong> {t("s049_check_if_phuket_has")}</p>
                   </div>
                 </div>
               </div>
@@ -297,7 +299,7 @@ export default function ItineraryPillarPage() {
             <section id="2-week" className="mb-16">
               <div className="border-t-2 border-thailand-blue/20 pt-8 mb-8">
                 <h2 className="text-3xl font-bold font-heading text-gray-900">2-Week Thailand Itinerary (The Classic Route)</h2>
-                <p className="text-gray-600 mt-2">The gold standard for first-timers. Two weeks lets you slow down, take overnight trains, and add off-beat destinations like Pai.</p>
+                <p className="text-gray-600 mt-2">{t("s050_the_gold_standard_for")}</p>
               </div>
 
               <p className="text-gray-700 leading-relaxed mb-6">
@@ -309,24 +311,24 @@ export default function ItineraryPillarPage() {
                 <div className="bg-white rounded-2xl shadow-md p-6">
                   <div className="flex items-center gap-3 mb-4">
                     <span className="bg-thailand-blue text-white text-sm font-bold px-3 py-1 rounded-full">Week 1</span>
-                    <h3 className="text-xl font-bold font-heading text-gray-900">Bangkok, Overnight Train to Chiang Mai, and Pai</h3>
+                    <h3 className="text-xl font-bold font-heading text-gray-900">{t("s051_bangkok_overnight_train_to")}</h3>
                   </div>
                   <p className="text-gray-700 leading-relaxed mb-4">
-                    <strong>Days 1-2: Bangkok.</strong> Follow the Bangkok itinerary above: Grand Palace, Wat Pho, street food in Chinatown, markets, and rooftop bars. Two days is enough to hit the highlights and still leave some neighborhoods for your return at the end of the trip.
+                    <strong>{t("s052_days_1_2_bangkok")}</strong> {t("s053_follow_the_bangkok_itinerary")}
                   </p>
                   <p className="text-gray-700 leading-relaxed mb-4">
-                    <strong>Day 2 evening: Overnight train to Chiang Mai.</strong> This is one of Thailand&apos;s iconic travel experiences. The sleeper train departs Bangkok&apos;s Hua Lamphong station (or the newer Bang Sue Grand Station) in the evening and arrives in <Link href="/city/chiang-mai/" className="text-thailand-blue hover:underline font-semibold">Chiang Mai</Link> the next morning after 11-13 hours. Second-class sleeper berths (฿800-1,000) have fold-down beds with clean sheets and curtains for privacy. First-class private cabins (฿1,100-1,300) come with a lockable door and a small washbasin. The gentle rocking of the train through the Thai countryside at night is unforgettable, and you wake up in an entirely different world — misty mountains instead of concrete towers. Book tickets at the station 2-3 days in advance or through <Link href="/transport/" className="text-thailand-blue hover:underline font-semibold">12Go</Link> online.
+                    <strong>{t("s054_day_2_evening_overnight")}</strong> {t("s055_this_is_one_of")} <Link href="/city/chiang-mai/" className="text-thailand-blue hover:underline font-semibold">{t("s032_chiang_mai")}</Link> the next morning after 11-13 hours. Second-class sleeper berths (฿800-1,000) have fold-down beds with clean sheets and curtains for privacy. First-class private cabins (฿1,100-1,300) come with a lockable door and a small washbasin. The gentle rocking of the train through the Thai countryside at night is unforgettable, and you wake up in an entirely different world — misty mountains instead of concrete towers. Book tickets at the station 2-3 days in advance or through <Link href="/transport/" className="text-thailand-blue hover:underline font-semibold">12Go</Link> online.
                   </p>
                   <p className="text-gray-700 leading-relaxed mb-4">
-                    <strong>Days 3-5: Chiang Mai.</strong> Three full days in Chiang Mai gives you time for Doi Suthep, a cooking class, an elephant sanctuary, and unhurried exploration of the old town&apos;s temples and cafes. Chiang Mai&apos;s coffee scene is excellent — the northern hills produce Thailand&apos;s best arabica beans, and specialty cafes in the Nimmanhaemin neighborhood serve single-origin Thai coffee that rivals anything you would find in Melbourne or Portland.
+                    <strong>{t("s057_days_3_5_chiang")}</strong> {t("s058_three_full_days_in")}
                   </p>
                   <p className="text-gray-700 leading-relaxed mb-4">
-                    <strong>Days 6-7: <Link href="/city/pai/" className="text-thailand-blue hover:underline font-semibold">Pai</Link>.</strong> Take the minibus from Chiang Mai to Pai (3 hours, ฿150-200, 762 curves through mountain roads — take motion sickness medicine if needed). Pai is a tiny town in a mountain valley that has become a backpacker favorite for its laid-back atmosphere, hot springs, waterfalls, and some of the most photogenic scenery in Thailand. Rent a scooter (฿150-200/day) and spend two days exploring Pai Canyon (a dramatic narrow ridge walk at sunset), Pam Bok Waterfall, the Pai hot springs (฿300 entry for the national park hot springs, or free at the natural riverside ones), and the White Buddha on the hill overlooking town. At night, Pai&apos;s Walking Street comes alive with food stalls, live music, and a bohemian market selling handmade goods.
+                    <strong>{t("s059_days_6_7")} <Link href="/city/pai/" className="text-thailand-blue hover:underline font-semibold">Pai</Link>.</strong> {t("s060_take_the_minibus_from")}
                   </p>
                   <div className="bg-gray-50 rounded-xl p-4 text-sm text-gray-600 space-y-1">
-                    <p><strong>Overnight train:</strong> Bangkok-Chiang Mai, 11-13 hours. 2nd class sleeper from ฿800, 1st class from ฿1,100</p>
-                    <p><strong>Pai minibus:</strong> Chiang Mai-Pai, 3 hours, ฿150-200. Book at Arcade Bus Station or any travel agent.</p>
-                    <p><strong>Pai tip:</strong> Take motion sickness medication before the minibus ride — it is 762 curves through mountains</p>
+                    <p><strong>{t("s061_overnight_train")}</strong> {t("s062_bangkok_chiang_mai_11")}</p>
+                    <p><strong>{t("s063_pai_minibus")}</strong> {t("s064_chiang_mai_pai_3")}</p>
+                    <p><strong>{t("s065_pai_tip")}</strong> {t("s066_take_motion_sickness_medication")}</p>
                   </div>
                 </div>
               </div>
@@ -336,24 +338,24 @@ export default function ItineraryPillarPage() {
                 <div className="bg-white rounded-2xl shadow-md p-6">
                   <div className="flex items-center gap-3 mb-4">
                     <span className="bg-thailand-blue text-white text-sm font-bold px-3 py-1 rounded-full">Week 2</span>
-                    <h3 className="text-xl font-bold font-heading text-gray-900">Fly South: Krabi, Koh Phi Phi or Koh Lanta, and Bangkok</h3>
+                    <h3 className="text-xl font-bold font-heading text-gray-900">{t("s067_fly_south_krabi_koh")}</h3>
                   </div>
                   <p className="text-gray-700 leading-relaxed mb-4">
-                    <strong>Day 8: Return to Chiang Mai, fly south.</strong> Take the morning minibus back from Pai to Chiang Mai (3 hours), then catch an afternoon flight to <Link href="/city/krabi/" className="text-thailand-blue hover:underline font-semibold">Krabi</Link> (2 hours, ฿1,500-3,000). Arrive in Krabi by evening and check into your hotel in Ao Nang or Krabi Town.
+                    <strong>{t("s068_day_8_return_to")}</strong> {t("s069_take_the_morning_minibus")} <Link href="/city/krabi/" className="text-thailand-blue hover:underline font-semibold">Krabi</Link> (2 hours, ฿1,500-3,000). Arrive in Krabi by evening and check into your hotel in Ao Nang or Krabi Town.
                   </p>
                   <p className="text-gray-700 leading-relaxed mb-4">
-                    <strong>Days 9-10: Krabi.</strong> Krabi province is the gateway to some of Thailand&apos;s most stunning coastal scenery. On day 9, take a Four Islands tour by longtail boat (฿800-1,500 per person including lunch and snorkeling gear). You will visit Tup Island (where a sandbar connects two islands at low tide), Chicken Island, Poda Island, and Phra Nang Cave Beach — one of the most beautiful beaches in the world, backed by a towering limestone cliff with a cave shrine. Day 10 is for Railay Beach, accessible only by longtail boat from Ao Nang (฿100-200, 15 minutes). Railay is a rock-climbing mecca with world-class routes on limestone cliffs, but it is equally enjoyable for non-climbers who simply want to swim, kayak, or hike to the lagoon viewpoint.
+                    <strong>{t("s070_days_9_10_krabi")}</strong> {t("s071_krabi_province_is_the")}
                   </p>
                   <p className="text-gray-700 leading-relaxed mb-4">
-                    <strong>Days 11-13: <Link href="/city/koh-lanta/" className="text-thailand-blue hover:underline font-semibold">Koh Lanta</Link> or Koh Phi Phi.</strong> From Krabi, take a ferry to your island of choice. Koh Phi Phi (1.5 hours, ฿450-600) is stunning but busy — dramatic cliffs, excellent snorkeling, and a lively party scene. <Link href="/city/koh-lanta/" className="text-thailand-blue hover:underline font-semibold">Koh Lanta</Link> (1.5 hours by ferry, ฿400, or 2 hours by minivan plus car ferry) is the laid-back alternative with long empty beaches, a charming Old Town, and some of the best snorkeling day trips in Thailand to Koh Rok and Koh Haa. Spend three days island-hopping, snorkeling, eating fresh seafood at beachfront restaurants, and watching sunsets from the west coast.
+                    <strong>{t("s072_days_11_13")} <Link href="/city/koh-lanta/" className="text-thailand-blue hover:underline font-semibold">{t("s073_koh_lanta")}</Link> or Koh Phi Phi.</strong> {t("s074_from_krabi_take_a")} <Link href="/city/koh-lanta/" className="text-thailand-blue hover:underline font-semibold">{t("s073_koh_lanta")}</Link> (1.5 hours by ferry, ฿400, or 2 hours by minivan plus car ferry) is the laid-back alternative with long empty beaches, a charming Old Town, and some of the best snorkeling day trips in Thailand to Koh Rok and Koh Haa. Spend three days island-hopping, snorkeling, eating fresh seafood at beachfront restaurants, and watching sunsets from the west coast.
                   </p>
                   <p className="text-gray-700 leading-relaxed mb-4">
-                    <strong>Day 14: Return to Bangkok.</strong> Ferry back to Krabi, then fly to Bangkok (or directly from Phuket if you can get there by minivan). Use any remaining time for last-minute shopping, a final massage, or a farewell pad thai from your favorite street stall.
+                    <strong>{t("s076_day_14_return_to")}</strong> {t("s077_ferry_back_to_krabi")}
                   </p>
                   <div className="bg-gray-50 rounded-xl p-4 text-sm text-gray-600 space-y-1">
-                    <p><strong>Ferries:</strong> Krabi to Koh Phi Phi: 1.5hr, ฿450-600 | Krabi to Koh Lanta: 1.5hr, ฿400</p>
-                    <p><strong>Total 2-week budget (mid-range):</strong> ฿38,000-55,000 ($1,100-1,600 USD) excluding international flights</p>
-                    <p><strong>Island choice tip:</strong> Phi Phi for energy and snorkeling, Koh Lanta for peace and relaxation</p>
+                    <p><strong>Ferries:</strong> {t("s078_krabi_to_koh_phi")}</p>
+                    <p><strong>{t("s079_total_2_week_budget")}</strong> ฿38,000-55,000 ($1,100-1,600 USD) excluding international flights</p>
+                    <p><strong>{t("s080_island_choice_tip")}</strong> {t("s081_phi_phi_for_energy")}</p>
                   </div>
                 </div>
               </div>
@@ -365,7 +367,7 @@ export default function ItineraryPillarPage() {
             <section id="3-4-week" className="mb-16">
               <div className="border-t-2 border-thailand-blue/20 pt-8 mb-8">
                 <h2 className="text-3xl font-bold font-heading text-gray-900">3-4 Week Thailand Itinerary (Deep Dive)</h2>
-                <p className="text-gray-600 mt-2">The complete north-to-south journey for travelers with time to spare. Adds historical cities, national parks, and off-the-beaten-path gems.</p>
+                <p className="text-gray-600 mt-2">{t("s082_the_complete_north_to")}</p>
               </div>
 
               <p className="text-gray-700 leading-relaxed mb-6">
@@ -373,37 +375,37 @@ export default function ItineraryPillarPage() {
               </p>
 
               <div className="bg-white rounded-2xl shadow-md p-6 mb-8">
-                <h3 className="text-xl font-bold font-heading text-gray-900 mb-4">The Complete Route</h3>
+                <h3 className="text-xl font-bold font-heading text-gray-900 mb-4">{t("s083_the_complete_route")}</h3>
                 <div className="space-y-4">
                   <p className="text-gray-700 leading-relaxed">
-                    <strong>Days 1-3: Bangkok.</strong> Three days for temples, food, markets, and canal tours. With more time ahead, you can explore beyond the tourist center — visit the Jim Thompson House (฿200), the Museum of Contemporary Art (MOCA, ฿250), or take a day trip to the Maeklong Railway Market where a functioning train passes through a narrow alley of market stalls eight times a day.
+                    <strong>{t("s084_days_1_3_bangkok")}</strong> {t("s085_three_days_for_temples")}
                   </p>
                   <p className="text-gray-700 leading-relaxed">
-                    <strong>Days 4-5: <Link href="/city/ayutthaya/" className="text-thailand-blue hover:underline font-semibold">Ayutthaya</Link>.</strong> Take the train from Bangkok (2 hours, ฿20-245 depending on class). Spend two days cycling through the UNESCO-listed ruins of Thailand&apos;s former capital. Highlights include Wat Mahathat (with the Buddha head in the tree roots), Wat Phra Si Sanphet (three iconic chedis), and the Ayutthaya Floating Market. Stay overnight to see the temples lit up after dark — a magical experience that day-trippers miss entirely.
+                    <strong>{t("s086_days_4_5")} <Link href="/city/ayutthaya/" className="text-thailand-blue hover:underline font-semibold">Ayutthaya</Link>.</strong> {t("s087_take_the_train_from")}
                   </p>
                   <p className="text-gray-700 leading-relaxed">
-                    <strong>Days 6-7: <Link href="/city/sukhothai/" className="text-thailand-blue hover:underline font-semibold">Sukhothai</Link>.</strong> Bus from Ayutthaya to Sukhothai (5-6 hours, ฿250-400). Sukhothai was the first capital of the Thai kingdom, and its historical park feels more contemplative and less crowded than Ayutthaya. Rent a bicycle (฿30/day) and explore the central zone&apos;s 21 temples and four lotus ponds at your own pace. The centrepiece is Wat Mahathat with its iconic seated Buddha reflected in still water. If you have an extra day, visit Si Satchanalai Historical Park, 60 km north — even quieter and equally beautiful.
+                    <strong>{t("s059_days_6_7")} <Link href="/city/sukhothai/" className="text-thailand-blue hover:underline font-semibold">Sukhothai</Link>.</strong> {t("s089_bus_from_ayutthaya_to")}
                   </p>
                   <p className="text-gray-700 leading-relaxed">
-                    <strong>Days 8-11: Chiang Mai and Pai.</strong> Bus or fly from Sukhothai to Chiang Mai (6 hours by bus, ฿250-350; or fly via Bangkok). Follow the Chiang Mai and Pai itinerary from the 2-week plan above: temples, cooking class, elephants, coffee culture, and two days exploring Pai&apos;s mountain scenery.
+                    <strong>{t("s090_days_8_11_chiang")}</strong> {t("s091_bus_or_fly_from")}
                   </p>
                   <p className="text-gray-700 leading-relaxed">
-                    <strong>Days 12-13: <Link href="/city/chiang-rai/" className="text-thailand-blue hover:underline font-semibold">Chiang Rai</Link>.</strong> Bus from Chiang Mai to Chiang Rai (3 hours, ฿150-250). Visit the White Temple (Wat Rong Khun, ฿200), the Blue Temple (Wat Rong Suea Ten, free), and the Black House (Baan Dam Museum, ฿80) — three of the most artistically striking sites in Thailand, all created by contemporary Thai artists. Take a boat trip on the Mekong River at Chiang Saen for views into Laos and Myanmar from the Golden Triangle viewpoint.
+                    <strong>{t("s092_days_12_13")} <Link href="/city/chiang-rai/" className="text-thailand-blue hover:underline font-semibold">{t("s093_chiang_rai")}</Link>.</strong> {t("s094_bus_from_chiang_mai")}
                   </p>
                   <p className="text-gray-700 leading-relaxed">
-                    <strong>Days 14-15: Fly south to Krabi or Phuket.</strong> Fly from Chiang Rai (via Bangkok or Chiang Mai) to the southern coast. Spend two days exploring Krabi&apos;s islands, Railay Beach, or the Tiger Cave Temple (1,256 steps to a panoramic viewpoint — start early to avoid the heat).
+                    <strong>{t("s095_days_14_15_fly")}</strong> {t("s096_fly_from_chiang_rai")}
                   </p>
                   <p className="text-gray-700 leading-relaxed">
-                    <strong>Days 16-19: Island hopping.</strong> Ferry to the islands for four days of beach life. With this much time, you can island-hop between multiple destinations: Koh Phi Phi for one night, then Koh Lanta for two nights, or Phuket to Koh Yao Noi to Koh Yao Yai. On the Gulf side, do three nights on <Link href="/city/koh-phangan/" className="text-thailand-blue hover:underline font-semibold">Koh Phangan</Link> (yoga, beaches, optional Full Moon Party) and two nights on <Link href="/city/koh-tao/" className="text-thailand-blue hover:underline font-semibold">Koh Tao</Link> (diving and snorkeling).
+                    <strong>{t("s097_days_16_19_island")}</strong> {t("s098_ferry_to_the_islands")} <Link href="/city/koh-phangan/" className="text-thailand-blue hover:underline font-semibold">{t("s041_koh_phangan")}</Link> (yoga, beaches, optional Full Moon Party) and two nights on <Link href="/city/koh-tao/" className="text-thailand-blue hover:underline font-semibold">Koh Tao</Link> (diving and snorkeling).
                   </p>
                   <p className="text-gray-700 leading-relaxed">
-                    <strong>Days 20-21: Bangkok and departure.</strong> Return to Bangkok for any final exploration, shopping at MBK or Terminal 21, and departure.
+                    <strong>{t("s100_days_20_21_bangkok")}</strong> {t("s101_return_to_bangkok_for")}
                   </p>
                 </div>
               </div>
 
               <div className="bg-white rounded-2xl shadow-md p-6 mb-8">
-                <h3 className="text-xl font-bold font-heading text-gray-900 mb-4">Off-Beat Additions for a 4th Week</h3>
+                <h3 className="text-xl font-bold font-heading text-gray-900 mb-4">{t("s102_off_beat_additions_for")}</h3>
                 <p className="text-gray-700 leading-relaxed mb-4">
                   If you have a full four weeks, consider adding some of these less-visited destinations that offer experiences you will not find on the standard tourist trail:
                 </p>
@@ -413,7 +415,7 @@ export default function ItineraryPillarPage() {
                     <p className="text-gray-700 text-sm">2-3 days. The Bridge over the River Kwai, the JEATH War Museum, Erawan National Park (7-tiered waterfall with natural swimming pools), and the Hellfire Pass Memorial Walk. A sobering historical experience combined with stunning nature. 2.5 hours west of Bangkok by bus (฿120).</p>
                   </div>
                   <div className="flex gap-3">
-                    <span className="text-thailand-blue font-bold shrink-0">Khao Sok</span>
+                    <span className="text-thailand-blue font-bold shrink-0">{t("s103_khao_sok")}</span>
                     <p className="text-gray-700 text-sm">2-3 days. Thailand&apos;s oldest evergreen rainforest, 160 million years old. Sleep in floating bungalows on Cheow Lan Lake, kayak through limestone gorges, and trek through jungle where you might spot gibbons, hornbills, and the world&apos;s largest flower (Rafflesia). Located between Krabi and Surat Thani.</p>
                   </div>
                   <div className="flex gap-3">
@@ -426,8 +428,8 @@ export default function ItineraryPillarPage() {
                   </div>
                 </div>
                 <div className="bg-gray-50 rounded-xl p-4 text-sm text-gray-600 space-y-1 mt-4">
-                  <p><strong>Total 3-week budget (mid-range):</strong> ฿50,000-75,000 ($1,430-2,150 USD) excluding international flights</p>
-                  <p><strong>Total 4-week budget (mid-range):</strong> ฿65,000-95,000 ($1,860-2,720 USD) excluding international flights</p>
+                  <p><strong>{t("s104_total_3_week_budget")}</strong> ฿50,000-75,000 ($1,430-2,150 USD) excluding international flights</p>
+                  <p><strong>{t("s105_total_4_week_budget")}</strong> ฿65,000-95,000 ($1,860-2,720 USD) excluding international flights</p>
                 </div>
               </div>
             </section>
@@ -437,26 +439,26 @@ export default function ItineraryPillarPage() {
             {/* ============================================ */}
             <section id="by-interest" className="mb-16">
               <div className="border-t-2 border-thailand-blue/20 pt-8 mb-8">
-                <h2 className="text-3xl font-bold font-heading text-gray-900">Thailand Itinerary by Interest</h2>
-                <p className="text-gray-600 mt-2">Not everyone travels the same way. Here are tailored 10-day routes for foodies, adventurers, couples, and families.</p>
+                <h2 className="text-3xl font-bold font-heading text-gray-900">{t("s106_thailand_itinerary_by_interest")}</h2>
+                <p className="text-gray-600 mt-2">{t("s107_not_everyone_travels_the")}</p>
               </div>
 
               {/* Foodies */}
               <div className="mb-8">
                 <div className="bg-white rounded-2xl shadow-md p-6">
-                  <h3 className="text-xl font-bold font-heading text-gray-900 mb-3">The Foodie Itinerary (10 Days)</h3>
+                  <h3 className="text-xl font-bold font-heading text-gray-900 mb-3">{t("s108_the_foodie_itinerary_10")}</h3>
                   <p className="text-gray-700 leading-relaxed mb-4">
                     {isNl
                       ? <>Thailand is een van &apos;s werelds beste culinaire bestemmingen, en deze reisroute draait om je een weg eten van noord naar zuid. Begin met <strong>3 dagen in Bangkok</strong> volledig gericht op eten: een begeleide straatvoedsel-tour door Yaowarat (Chinatown), lunch bij een van de Michelin-bekroonde straatetentjes zoals Jay Fai (krabomelet, ฿1.000) of Raan Jay Fai noedelwinkels, en diner bij een lokaal restaurant in de Ari-buurt waar Bangkokers daadwerkelijk eten. Bezoek Or Tor Kor Market (consequent gerangschikt als een van &apos;s werelds beste versmarkten) voor tropische vruchten die je nog nooit eerder hebt gezien.</>
-                      : <>Thailand is one of the world&apos;s great food destinations, and this itinerary is built around eating your way from north to south. Start with <strong>3 days in Bangkok</strong> focused entirely on food: a guided street food tour through Yaowarat (Chinatown), lunch at one of the city&apos;s Michelin-starred street stalls like Jay Fai (crab omelette, ฿1,000) or Raan Jay Fai noodle shops, and dinner at a local restaurant in the Ari neighborhood where Bangkok residents actually eat. Visit Or Tor Kor Market (consistently ranked among the world&apos;s best fresh markets) for tropical fruits you have never seen before.</>}
+                      : <>{t("s109_thailand_is_one_of")} <strong>3 days in Bangkok</strong> focused entirely on food: a guided street food tour through Yaowarat (Chinatown), lunch at one of the city&apos;s Michelin-starred street stalls like Jay Fai (crab omelette, ฿1,000) or Raan Jay Fai noodle shops, and dinner at a local restaurant in the Ari neighborhood where Bangkok residents actually eat. Visit Or Tor Kor Market (consistently ranked among the world&apos;s best fresh markets) for tropical fruits you have never seen before.</>}
                   </p>
                   <p className="text-gray-700 leading-relaxed mb-4">
                     {isNl
                       ? <>Vlieg naar <strong>Chiang Mai voor 2 dagen</strong> Noord-Thaise keuken — volg een kookles gericht op khao soi (de kokoscurry-noedelsoep die de Noord-Thaise keuken definieert), sai ua (kruiden-noordelijke worst), en nam prik (chili-dips geserveerd met verse groenten). De zaterdag- en zondagse walking street markten hebben de beste diversiteit aan eetkraampjes van het hele land. Ga verder naar het zuiden voor <strong>2 dagen in Hat Yai</strong> voor vurige Zuid-Thaise gerechten — gaeng som (zure curry), massaman curry met Maleisische invloeden, en roti canai bij islamitische kraampjes. Eindig met <strong>3 dagen op de eilanden</strong> voor vers gevangen zeevruchten gegrild op het strand.</>
-                      : <>Fly to <strong>Chiang Mai for 2 days</strong> of northern Thai cuisine — take a cooking class focusing on khao soi (the coconut curry noodle soup that defines northern Thai food), sai ua (herbal northern sausage), and nam prik (chili dips served with fresh vegetables). The Saturday and Sunday walking street markets have the best food stall diversity in the country. Continue south for <strong>2 days in Hat Yai</strong> for fiery southern Thai food — gaeng som (sour curry), massaman curry with its Malay influences, and roti canai at Muslim-owned stalls. Finish with <strong>3 days on the islands</strong> for fresh-caught seafood barbecued on the beach.</>}
+                      : <>Fly to <strong>{t("s110_chiang_mai_for_2")}</strong> of northern Thai cuisine — take a cooking class focusing on khao soi (the coconut curry noodle soup that defines northern Thai food), sai ua (herbal northern sausage), and nam prik (chili dips served with fresh vegetables). The Saturday and Sunday walking street markets have the best food stall diversity in the country. Continue south for <strong>2 days in Hat Yai</strong> for fiery southern Thai food — gaeng som (sour curry), massaman curry with its Malay influences, and roti canai at Muslim-owned stalls. Finish with <strong>3 days on the islands</strong> for fresh-caught seafood barbecued on the beach.</>}
                   </p>
                   <div className="bg-gray-50 rounded-xl p-4 text-sm text-gray-600">
-                    <p><strong>Route:</strong> Bangkok (3d) → Chiang Mai (2d) → Hat Yai (2d) → Koh Samui or Koh Lanta (3d)</p>
+                    <p><strong>Route:</strong> {t("s111_bangkok_3d_chiang_mai")}</p>
                   </div>
                 </div>
               </div>
@@ -464,19 +466,19 @@ export default function ItineraryPillarPage() {
               {/* Adventure */}
               <div className="mb-8">
                 <div className="bg-white rounded-2xl shadow-md p-6">
-                  <h3 className="text-xl font-bold font-heading text-gray-900 mb-3">The Adventure Itinerary (10 Days)</h3>
+                  <h3 className="text-xl font-bold font-heading text-gray-900 mb-3">{t("s112_the_adventure_itinerary_10")}</h3>
                   <p className="text-gray-700 leading-relaxed mb-4">
                     {isNl
-                      ? <>Voor adrenaliejunkies en natuurliefhebbers biedt Thailand veel meer dan alleen stranden. Begin met <strong>2 dagen in Bangkok</strong> voor Muay Thai — kijk naar een live gevecht in Rajadamnern Stadium (฿1.000-2.000) of probeer een beginnerles in een trainingsgym (฿500-800 voor een sessie van 2 uur). Ga vervolgens naar <strong>Khao Sok National Park voor 2 dagen</strong> jungletrekking, kajakken door kalksteenkloven op Cheow Lan Lake, en slapen in drijvende bungalows omringd door 160 miljoen jaar oud regenwoud.</>
-                      : <>For adrenaline seekers and nature lovers, Thailand delivers far beyond its beach reputation. Start with <strong>2 days in Bangkok</strong> for Muay Thai — either watch a live fight at Rajadamnern Stadium (฿1,000-2,000) or try a beginner class at a training gym (฿500-800 for a 2-hour session). Then head to <strong>Khao Sok National Park for 2 days</strong> of jungle trekking, kayaking through limestone canyons on Cheow Lan Lake, and sleeping in floating bungalows surrounded by 160-million-year-old rainforest.</>}
+                      ? <>Voor adrenaliejunkies en natuurliefhebbers biedt Thailand veel meer dan alleen stranden. Begin met <strong>2 dagen in Bangkok</strong> voor Muay Thai — kijk naar een live gevecht in Rajadamnern Stadium (฿1.000-2.000) of probeer een beginnerles in een trainingsgym (฿500-800 voor een sessie van 2 uur). Ga vervolgens naar <strong>{t("s113_khao_sok_national_park")}</strong> jungletrekking, kajakken door kalksteenkloven op Cheow Lan Lake, en slapen in drijvende bungalows omringd door 160 miljoen jaar oud regenwoud.</>
+                      : <>{t("s114_for_adrenaline_seekers_and")} <strong>2 days in Bangkok</strong> for Muay Thai — either watch a live fight at Rajadamnern Stadium (฿1,000-2,000) or try a beginner class at a training gym (฿500-800 for a 2-hour session). Then head to <strong>{t("s115_khao_sok_national_park")}</strong> of jungle trekking, kayaking through limestone canyons on Cheow Lan Lake, and sleeping in floating bungalows surrounded by 160-million-year-old rainforest.</>}
                   </p>
                   <p className="text-gray-700 leading-relaxed mb-4">
                     {isNl
-                      ? <>Neem de veerboot naar <strong><Link href="/city/koh-tao/" className="text-thailand-blue hover:underline font-semibold">Koh Tao</Link> voor 3 dagen</strong> duiken — haal je PADI-certificaat (฿9.000-11.000 voor de 3-4 daagse Open Water cursus) of maak fun dives bij locaties zoals Sail Rock en Chumphon Pinnacle waar af en toe walvishaaien worden gespot. Eindig met <strong>3 dagen in <Link href="/city/chiang-mai/" className="text-thailand-blue hover:underline font-semibold">Chiang Mai</Link></strong> voor Muay Thai training bij een van de beroemde kampen van de stad, mountainbiken op de trails van Doi Suthep, of wildwatervaren op de Mae Taeng rivier (฿1.500-2.500 voor een halvedagtocht).</>
-                      : <>Ferry to <strong><Link href="/city/koh-tao/" className="text-thailand-blue hover:underline font-semibold">Koh Tao</Link> for 3 days</strong> of diving — either get PADI certified (฿9,000-11,000 for the 3-4 day Open Water course) or do fun dives at sites like Sail Rock and Chumphon Pinnacle where whale sharks are occasionally spotted. Finish with <strong>3 days in <Link href="/city/chiang-mai/" className="text-thailand-blue hover:underline font-semibold">Chiang Mai</Link></strong> for Muay Thai training at one of the city&apos;s renowned camps, mountain biking on Doi Suthep&apos;s trails, or white-water rafting on the Mae Taeng River (฿1,500-2,500 for a half-day trip).</>}
+                      ? <>Neem de veerboot naar <strong><Link href="/city/koh-tao/" className="text-thailand-blue hover:underline font-semibold">Koh Tao</Link> voor 3 dagen</strong> duiken — haal je PADI-certificaat (฿9.000-11.000 voor de 3-4 daagse Open Water cursus) of maak fun dives bij locaties zoals Sail Rock en Chumphon Pinnacle waar af en toe walvishaaien worden gespot. Eindig met <strong>3 dagen in <Link href="/city/chiang-mai/" className="text-thailand-blue hover:underline font-semibold">{t("s032_chiang_mai")}</Link></strong> voor Muay Thai training bij een van de beroemde kampen van de stad, mountainbiken op de trails van Doi Suthep, of wildwatervaren op de Mae Taeng rivier (฿1.500-2.500 voor een halvedagtocht).</>
+                      : <>{t("s117_ferry_to")} <strong><Link href="/city/koh-tao/" className="text-thailand-blue hover:underline font-semibold">Koh Tao</Link> for 3 days</strong> of diving — either get PADI certified (฿9,000-11,000 for the 3-4 day Open Water course) or do fun dives at sites like Sail Rock and Chumphon Pinnacle where whale sharks are occasionally spotted. Finish with <strong>3 days in <Link href="/city/chiang-mai/" className="text-thailand-blue hover:underline font-semibold">{t("s032_chiang_mai")}</Link></strong> for Muay Thai training at one of the city&apos;s renowned camps, mountain biking on Doi Suthep&apos;s trails, or white-water rafting on the Mae Taeng River (฿1,500-2,500 for a half-day trip).</>}
                   </p>
                   <div className="bg-gray-50 rounded-xl p-4 text-sm text-gray-600">
-                    <p><strong>Route:</strong> Bangkok (2d) → Khao Sok (2d) → Koh Tao (3d) → Chiang Mai (3d)</p>
+                    <p><strong>Route:</strong> {t("s119_bangkok_2d_khao_sok")}</p>
                   </div>
                 </div>
               </div>
@@ -484,19 +486,19 @@ export default function ItineraryPillarPage() {
               {/* Couples */}
               <div className="mb-8">
                 <div className="bg-white rounded-2xl shadow-md p-6">
-                  <h3 className="text-xl font-bold font-heading text-gray-900 mb-3">The Couples Itinerary (10 Days)</h3>
+                  <h3 className="text-xl font-bold font-heading text-gray-900 mb-3">{t("s120_the_couples_itinerary_10")}</h3>
                   <p className="text-gray-700 leading-relaxed mb-4">
                     {isNl
                       ? <>Thailand is een van de meest romantische bestemmingen in Zuidoost-Azië, met alles van kaarslichtdiners op het strand tot spa-behandelingen voor koppels en zonsondergangcruises. Begin met <strong>2 dagen in Bangkok</strong> gericht op romantiek: een zonsondergangdiner-cruise op de Chao Phraya rivier (฿1.200-2.500), cocktails bij een rooftopbar met uitzicht over de glinsterende skyline, en een Thaise koppelsmassage bij een luxe spa (฿3.000-5.000 voor 2 uur voor twee personen). De spa van het Mandarin Oriental is legendarisch, maar uitstekende opties bestaan voor een fractie van de prijs.</>
-                      : <>Thailand is one of the most romantic destinations in Southeast Asia, offering everything from candlelit dinners on the beach to couples&apos; spa treatments and sunset cruises. Start with <strong>2 days in Bangkok</strong> focused on romance: a sunset dinner cruise on the Chao Phraya River (฿1,200-2,500), cocktails at a rooftop bar overlooking the glittering skyline, and a couples&apos; Thai massage at a luxury spa (฿3,000-5,000 for 2 hours for two people). The Mandarin Oriental&apos;s spa is legendary, but excellent options exist at a fraction of the price.</>}
+                      : <>{t("s121_thailand_is_one_of")} <strong>2 days in Bangkok</strong> focused on romance: a sunset dinner cruise on the Chao Phraya River (฿1,200-2,500), cocktails at a rooftop bar overlooking the glittering skyline, and a couples&apos; Thai massage at a luxury spa (฿3,000-5,000 for 2 hours for two people). The Mandarin Oriental&apos;s spa is legendary, but excellent options exist at a fraction of the price.</>}
                   </p>
                   <p className="text-gray-700 leading-relaxed mb-4">
                     {isNl
-                      ? <>Vlieg naar <strong><Link href="/city/chiang-mai/" className="text-thailand-blue hover:underline font-semibold">Chiang Mai</Link> voor 2 dagen</strong> culturele verkenning samen — een privé kookles (฿2.500-3.500 voor twee), een bezoek aan Doi Suthep bij zonsondergang, en diner bij een van de sfeervolle binnenplaatsrestaurants in de oude stad. Vlieg vervolgens naar het zuiden voor <strong>4 dagen op <Link href="/city/koh-lanta/" className="text-thailand-blue hover:underline font-semibold">Koh Lanta</Link> of Koh Lipe</strong> — twee van Thailands meest vredige eilanden met lange stukken rustig strand, prachtige zonsondergangen en boutique strandresorts. Het kristalheldere water van Koh Lipe is perfect om direct vanaf het strand te snorkelen, en de Walking Street van het eiland biedt romantisch dineren aan het strand met lichtjes en verse zeevruchten. Eindig met <strong>2 laatste dagen</strong> ontspannen voor vertrek.</>
-                      : <>Fly to <strong><Link href="/city/chiang-mai/" className="text-thailand-blue hover:underline font-semibold">Chiang Mai</Link> for 2 days</strong> of cultural exploration together — a private cooking class (฿2,500-3,500 for two), a visit to Doi Suthep at sunset, and dinner at one of the old town&apos;s atmospheric courtyard restaurants. Then fly south for <strong>4 days on <Link href="/city/koh-lanta/" className="text-thailand-blue hover:underline font-semibold">Koh Lanta</Link> or Koh Lipe</strong> — two of Thailand&apos;s most peaceful islands with long stretches of uncrowded beach, stunning sunsets, and boutique beachfront resorts. Koh Lipe&apos;s crystal-clear water is perfect for snorkeling right from the shore, and the island&apos;s Walking Street has romantic beachfront dining with fairy lights and fresh seafood. End with <strong>2 final days</strong> relaxing before departure.</>}
+                      ? <>Vlieg naar <strong><Link href="/city/chiang-mai/" className="text-thailand-blue hover:underline font-semibold">Chiang Mai</Link> voor 2 dagen</strong> culturele verkenning samen — een privé kookles (฿2.500-3.500 voor twee), een bezoek aan Doi Suthep bij zonsondergang, en diner bij een van de sfeervolle binnenplaatsrestaurants in de oude stad. Vlieg vervolgens naar het zuiden voor <strong>4 dagen op <Link href="/city/koh-lanta/" className="text-thailand-blue hover:underline font-semibold">{t("s073_koh_lanta")}</Link> of Koh Lipe</strong> — twee van Thailands meest vredige eilanden met lange stukken rustig strand, prachtige zonsondergangen en boutique strandresorts. Het kristalheldere water van Koh Lipe is perfect om direct vanaf het strand te snorkelen, en de Walking Street van het eiland biedt romantisch dineren aan het strand met lichtjes en verse zeevruchten. Eindig met <strong>2 laatste dagen</strong> ontspannen voor vertrek.</>
+                      : <>Fly to <strong><Link href="/city/chiang-mai/" className="text-thailand-blue hover:underline font-semibold">{t("s032_chiang_mai")}</Link> for 2 days</strong> of cultural exploration together — a private cooking class (฿2,500-3,500 for two), a visit to Doi Suthep at sunset, and dinner at one of the old town&apos;s atmospheric courtyard restaurants. Then fly south for <strong>4 days on <Link href="/city/koh-lanta/" className="text-thailand-blue hover:underline font-semibold">{t("s073_koh_lanta")}</Link> or Koh Lipe</strong> — two of Thailand&apos;s most peaceful islands with long stretches of uncrowded beach, stunning sunsets, and boutique beachfront resorts. Koh Lipe&apos;s crystal-clear water is perfect for snorkeling right from the shore, and the island&apos;s Walking Street has romantic beachfront dining with fairy lights and fresh seafood. End with <strong>2 final days</strong> relaxing before departure.</>}
                   </p>
                   <div className="bg-gray-50 rounded-xl p-4 text-sm text-gray-600">
-                    <p><strong>Route:</strong> Bangkok (2d) → Chiang Mai (2d) → Koh Lanta or Koh Lipe (4d) → Bangkok (2d)</p>
+                    <p><strong>Route:</strong> {t("s125_bangkok_2d_chiang_mai")}</p>
                   </div>
                 </div>
               </div>
@@ -504,19 +506,19 @@ export default function ItineraryPillarPage() {
               {/* Families */}
               <div className="mb-8">
                 <div className="bg-white rounded-2xl shadow-md p-6">
-                  <h3 className="text-xl font-bold font-heading text-gray-900 mb-3">The Family Itinerary (10 Days)</h3>
+                  <h3 className="text-xl font-bold font-heading text-gray-900 mb-3">{t("s126_the_family_itinerary_10")}</h3>
                   <p className="text-gray-700 leading-relaxed mb-4">
                     {isNl
                       ? <>Thailand is uitzonderlijk gezinsvriendelijk — de Thaise cultuur is dol op kinderen, en kids zijn overal welkom, van tempelterreinen tot straatvoedselkraampjes. Begin met <strong>3 dagen in <Link href="/city/bangkok/" className="text-thailand-blue hover:underline font-semibold">Bangkok</Link></strong> met kindvriendelijke activiteiten: het SEA LIFE Bangkok Ocean World aquarium (฿990 volwassenen, ฿790 kinderen), een longtailboottocht door de grachten (kinderen vinden het geweldig), het Grand Palace (gratis voor kinderen onder 120cm), en de interactieve tentoonstellingen in het Bangkok National Museum. Wat betreft eten: laat kinderen geleidelijk kennismaken met de Thaise keuken — kipsaté, pad thai, mango sticky rice en kokosijs worden universeel goedgekeurd door kids.</>
-                      : <>Thailand is exceptionally family-friendly — Thai culture adores children, and kids are welcomed everywhere from temple grounds to street food stalls. Start with <strong>3 days in <Link href="/city/bangkok/" className="text-thailand-blue hover:underline font-semibold">Bangkok</Link></strong> with kid-friendly activities: the SEA LIFE Bangkok Ocean World aquarium (฿990 adults, ฿790 children), a longtail boat ride through the canals (kids love it), the Grand Palace (free for children under 120cm), and the interactive exhibits at the Bangkok National Museum. For food, introduce kids to Thai cuisine gently — chicken satay, pad thai, mango sticky rice, and coconut ice cream are universally kid-approved.</>}
+                      : <>{t("s127_thailand_is_exceptionally_family")} <strong>3 days in <Link href="/city/bangkok/" className="text-thailand-blue hover:underline font-semibold">Bangkok</Link></strong> with kid-friendly activities: the SEA LIFE Bangkok Ocean World aquarium (฿990 adults, ฿790 children), a longtail boat ride through the canals (kids love it), the Grand Palace (free for children under 120cm), and the interactive exhibits at the Bangkok National Museum. For food, introduce kids to Thai cuisine gently — chicken satay, pad thai, mango sticky rice, and coconut ice cream are universally kid-approved.</>}
                   </p>
                   <p className="text-gray-700 leading-relaxed mb-4">
                     {isNl
-                      ? <>Vlieg naar <strong><Link href="/city/koh-samui/" className="text-thailand-blue hover:underline font-semibold">Koh Samui</Link> voor 4 dagen</strong> — het meest gezinsvriendelijke eiland van Thailand met rustige, ondiepe stranden (vooral Lamai en Maenam), familieresort-zwembaden, en activiteiten zoals het Samui Aquarium en Tiger Zoo (฿700), Namuang Waterfall (gratis, natuurlijk zwembad aan de voet), en de Na Thon Day Market. Veel resorts bieden kinderclubs en familiekamers. Eindig met <strong>3 dagen in <Link href="/city/chiang-mai/" className="text-thailand-blue hover:underline font-semibold">Chiang Mai</Link></strong> voor de ethische olifantenervaring (kinderen vanaf 4 jaar zijn welkom bij de meeste sanctuaries), een gezins-kookles, en de Chiang Mai Night Safari dierentuin (฿800 volwassenen, ฿400 kinderen).</>
-                      : <>Fly to <strong><Link href="/city/koh-samui/" className="text-thailand-blue hover:underline font-semibold">Koh Samui</Link> for 4 days</strong> — the most family-friendly island in Thailand with calm, shallow beaches (especially Lamai and Maenam), family resort pools, and activities like the Samui Aquarium and Tiger Zoo (฿700), Namuang Waterfall (free, natural swimming pool at the base), and the Na Thon Day Market. Many resorts offer kids&apos; clubs and family suites. Finish with <strong>3 days in <Link href="/city/chiang-mai/" className="text-thailand-blue hover:underline font-semibold">Chiang Mai</Link></strong> for the ethical elephant experience (kids aged 4+ are welcome at most sanctuaries), a family cooking class, and the Chiang Mai Night Safari zoo (฿800 adults, ฿400 children).</>}
+                      ? <>Vlieg naar <strong><Link href="/city/koh-samui/" className="text-thailand-blue hover:underline font-semibold">Koh Samui</Link> voor 4 dagen</strong> — het meest gezinsvriendelijke eiland van Thailand met rustige, ondiepe stranden (vooral Lamai en Maenam), familieresort-zwembaden, en activiteiten zoals het Samui Aquarium en Tiger Zoo (฿700), Namuang Waterfall (gratis, natuurlijk zwembad aan de voet), en de Na Thon Day Market. Veel resorts bieden kinderclubs en familiekamers. Eindig met <strong>3 dagen in <Link href="/city/chiang-mai/" className="text-thailand-blue hover:underline font-semibold">{t("s032_chiang_mai")}</Link></strong> voor de ethische olifantenervaring (kinderen vanaf 4 jaar zijn welkom bij de meeste sanctuaries), een gezins-kookles, en de Chiang Mai Night Safari dierentuin (฿800 volwassenen, ฿400 kinderen).</>
+                      : <>Fly to <strong><Link href="/city/koh-samui/" className="text-thailand-blue hover:underline font-semibold">{t("s012_koh_samui")}</Link> for 4 days</strong> — the most family-friendly island in Thailand with calm, shallow beaches (especially Lamai and Maenam), family resort pools, and activities like the Samui Aquarium and Tiger Zoo (฿700), Namuang Waterfall (free, natural swimming pool at the base), and the Na Thon Day Market. Many resorts offer kids&apos; clubs and family suites. Finish with <strong>3 days in <Link href="/city/chiang-mai/" className="text-thailand-blue hover:underline font-semibold">{t("s032_chiang_mai")}</Link></strong> for the ethical elephant experience (kids aged 4+ are welcome at most sanctuaries), a family cooking class, and the Chiang Mai Night Safari zoo (฿800 adults, ฿400 children).</>}
                   </p>
                   <div className="bg-gray-50 rounded-xl p-4 text-sm text-gray-600">
-                    <p><strong>Route:</strong> Bangkok (3d) → Koh Samui (4d) → Chiang Mai (3d)</p>
+                    <p><strong>Route:</strong> {t("s131_bangkok_3d_koh_samui")}</p>
                   </div>
                 </div>
               </div>
@@ -527,44 +529,44 @@ export default function ItineraryPillarPage() {
             {/* ============================================ */}
             <section id="transport" className="mb-16">
               <div className="border-t-2 border-thailand-blue/20 pt-8 mb-8">
-                <h2 className="text-3xl font-bold font-heading text-gray-900">Getting Between Destinations</h2>
-                <p className="text-gray-600 mt-2">Thailand&apos;s domestic transport network is excellent and affordable. Here is how to move between the cities and islands in each itinerary.</p>
+                <h2 className="text-3xl font-bold font-heading text-gray-900">{t("s132_getting_between_destinations")}</h2>
+                <p className="text-gray-600 mt-2">{t("s133_thailand_apos_s_domestic")}</p>
               </div>
 
               <div className="space-y-6">
                 {/* Domestic Flights */}
                 <div className="bg-white rounded-2xl shadow-md p-6">
-                  <h3 className="text-xl font-bold font-heading text-gray-900 mb-3">Domestic Flights</h3>
+                  <h3 className="text-xl font-bold font-heading text-gray-900 mb-3">{t("s134_domestic_flights")}</h3>
                   <p className="text-gray-700 leading-relaxed mb-3">
                     Thailand&apos;s budget airlines — AirAsia, Nok Air, and Thai Lion Air — connect Bangkok to every major destination for ฿1,500-4,000 one-way when booked 2-4 weeks in advance. Last-minute fares can spike to ฿5,000-8,000, so planning ahead saves real money. Bangkok has two airports: Suvarnabhumi (BKK) handles most international and full-service domestic flights, while Don Mueang (DMK) serves the budget carriers. Double-check which airport your flight departs from — they are 30 km apart, and switching between them in Bangkok traffic can take over an hour. Direct flights between Chiang Mai and the southern islands (Phuket, Krabi, Surat Thani) run daily, so you do not have to backtrack through Bangkok for the north-to-south traverse.
                   </p>
                   <div className="bg-gray-50 rounded-xl p-4 text-sm text-gray-600 space-y-1">
-                    <p><strong>Typical fares (booked 2-4 weeks ahead):</strong> Bangkok-Chiang Mai ฿1,200-2,500 | Bangkok-Phuket ฿1,500-3,000 | Bangkok-Koh Samui ฿2,000-4,000 | Chiang Mai-Krabi ฿1,500-3,500</p>
-                    <p><strong>Tip:</strong> AirAsia and Nok Air charge for checked bags. Carry-on only (7kg) keeps costs down.</p>
+                    <p><strong>{t("s135_typical_fares_booked_2")}</strong> {t("s136_bangkok_chiang_mai_1")}</p>
+                    <p><strong>Tip:</strong> {t("s137_airasia_and_nok_air")}</p>
                   </div>
                 </div>
 
                 {/* Overnight Trains */}
                 <div className="bg-white rounded-2xl shadow-md p-6">
-                  <h3 className="text-xl font-bold font-heading text-gray-900 mb-3">Overnight Trains</h3>
+                  <h3 className="text-xl font-bold font-heading text-gray-900 mb-3">{t("s138_overnight_trains")}</h3>
                   <p className="text-gray-700 leading-relaxed mb-3">
                     The Bangkok-Chiang Mai overnight sleeper train is one of Thailand&apos;s classic travel experiences and a practical way to save a night&apos;s accommodation. The journey takes 11-13 hours, departing in the evening and arriving the next morning. Second-class sleeper berths (฿800-1,000) have fold-down beds with clean sheets, a pillow, and curtains for privacy — lower berths are wider and slightly more expensive than upper berths. First-class private cabins (฿1,100-1,300) come with a lockable door, a small sink, and two beds (ideal for couples). The trains have a dining car serving Thai dishes and cold beer, and vendors pass through selling snacks and coffee. Overnight trains also run to Surat Thani (gateway to Koh Samui, Koh Phangan, and Koh Tao), Nakhon Si Thammarat, and Hat Yai in the south.
                   </p>
                   <div className="bg-gray-50 rounded-xl p-4 text-sm text-gray-600 space-y-1">
-                    <p><strong>Bangkok-Chiang Mai:</strong> 11-13 hours | 2nd class sleeper from ฿500 (seat) to ฿1,000 (lower berth) | 1st class from ฿1,300</p>
+                    <p><strong>{t("s139_bangkok_chiang_mai")}</strong> 11-13 hours | 2nd class sleeper from ฿500 (seat) to ฿1,000 (lower berth) | 1st class from ฿1,300</p>
                     <p><strong>Booking:</strong> 12Go.co (online, English), or at train station ticket windows. Book 3-7 days ahead for sleeper berths.</p>
                   </div>
                 </div>
 
                 {/* Buses and Minivans */}
                 <div className="bg-white rounded-2xl shadow-md p-6">
-                  <h3 className="text-xl font-bold font-heading text-gray-900 mb-3">Buses and Minivans</h3>
+                  <h3 className="text-xl font-bold font-heading text-gray-900 mb-3">{t("s140_buses_and_minivans")}</h3>
                   <p className="text-gray-700 leading-relaxed mb-3">
                     Buses and minivans are the cheapest way to travel between Thai cities and the only option for reaching smaller destinations like Pai, Kanchanaburi, and Sukhothai that do not have airports. Government-run buses are comfortable, air-conditioned, and remarkably affordable — Bangkok to Chiang Mai by VIP bus (12 hours overnight) costs just ฿500-800 with reclining seats, blankets, and onboard meals. Minivans are faster than buses for shorter routes (Bangkok to Hua Hin in 3 hours for ฿200, Chiang Mai to Pai in 3 hours for ฿150) but less comfortable for long journeys. Book bus and minivan tickets through <Link href="/transport/" className="text-thailand-blue hover:underline font-semibold">12Go</Link> for English-language booking and e-tickets, or purchase directly at bus stations for slightly lower prices.
                   </p>
                   <div className="bg-gray-50 rounded-xl p-4 text-sm text-gray-600 space-y-1">
-                    <p><strong>Useful routes:</strong> Bangkok-Ayutthaya: 1.5hr, ฿70 minivan | Bangkok-Kanchanaburi: 2.5hr, ฿120 bus | Chiang Mai-Pai: 3hr, ฿150 minivan</p>
-                    <p><strong>Tip:</strong> VIP buses are significantly better than 2nd class. The extra ฿100-200 is worth it for overnight journeys.</p>
+                    <p><strong>{t("s141_useful_routes")}</strong> {t("s142_bangkok_ayutthaya_1_5hr")}</p>
+                    <p><strong>Tip:</strong> {t("s143_vip_buses_are_significantly")}</p>
                   </div>
                 </div>
               </div>
@@ -575,8 +577,8 @@ export default function ItineraryPillarPage() {
             {/* ============================================ */}
             <section id="faq" className="mb-12">
               <div className="border-t-2 border-thailand-blue/20 pt-8 mb-8">
-                <h2 className="text-3xl font-bold font-heading text-gray-900">Itinerary FAQs</h2>
-                <p className="text-gray-600 mt-2">Quick answers to the most common Thailand itinerary planning questions.</p>
+                <h2 className="text-3xl font-bold font-heading text-gray-900">{t("s144_itinerary_faqs")}</h2>
+                <p className="text-gray-600 mt-2">{t("s145_quick_answers_to_the")}</p>
               </div>
 
               <div className="bg-white rounded-2xl shadow-md p-6">
@@ -587,17 +589,17 @@ export default function ItineraryPillarPage() {
                       <p className="text-gray-700 leading-relaxed">{item.answer}</p>
                       {item.question === 'Is 7 days enough for Thailand?' && (
                         <p className="mt-2 text-sm">
-                          <Link href="/thailand-itinerary/" className="text-thailand-blue hover:underline font-semibold">Browse our ready-made itineraries →</Link>
+                          <Link href="/thailand-itinerary/" className="text-thailand-blue hover:underline font-semibold">{t("s146_browse_our_ready_made")}</Link>
                         </p>
                       )}
                       {item.question === 'Can I do Thailand on a budget in 2 weeks?' && (
                         <p className="mt-2 text-sm">
-                          <Link href="/blog/thailand-budget-2026-daily-costs/" className="text-thailand-blue hover:underline font-semibold">Full Thailand budget breakdown 2026 →</Link>
+                          <Link href="/blog/thailand-budget-2026-daily-costs/" className="text-thailand-blue hover:underline font-semibold">{t("s147_full_thailand_budget_breakdown")}</Link>
                         </p>
                       )}
                       {item.question === 'What is the best month for a Thailand trip?' && (
                         <p className="mt-2 text-sm">
-                          <Link href="/best-time-to-visit/" className="text-thailand-blue hover:underline font-semibold">Month-by-month weather guide →</Link>
+                          <Link href="/best-time-to-visit/" className="text-thailand-blue hover:underline font-semibold">{t("s148_month_by_month_weather")}</Link>
                         </p>
                       )}
                     </div>
@@ -614,36 +616,36 @@ export default function ItineraryPillarPage() {
               <h2 className="text-xl font-bold font-heading text-gray-900 mb-4">{isNl ? 'Ontdek Meer Thailand Gidsen' : 'Explore More Thailand Guides'}</h2>
               <div className="grid grid-cols-2 md:grid-cols-4 gap-3">
                 <Link href="/thailand-travel-guide/" className="p-4 bg-surface-cream rounded-xl hover:shadow-md transition-all text-center">
-                  <div className="font-semibold text-gray-900 text-sm">Travel Guide</div>
-                  <div className="text-xs text-gray-600">Everything you need</div>
+                  <div className="font-semibold text-gray-900 text-sm">{t("s149_travel_guide")}</div>
+                  <div className="text-xs text-gray-600">{t("s150_everything_you_need")}</div>
                 </Link>
                 <Link href="/best-places-to-visit-thailand/" className="p-4 bg-surface-cream rounded-xl hover:shadow-md transition-all text-center">
-                  <div className="font-semibold text-gray-900 text-sm">Best Places</div>
+                  <div className="font-semibold text-gray-900 text-sm">{t("s151_best_places")}</div>
                   <div className="text-xs text-gray-600">33 destinations</div>
                 </Link>
                 <Link href="/things-to-do-in-thailand/" className="p-4 bg-surface-cream rounded-xl hover:shadow-md transition-all text-center">
-                  <div className="font-semibold text-gray-900 text-sm">Things to Do</div>
+                  <div className="font-semibold text-gray-900 text-sm">{t("s152_things_to_do")}</div>
                   <div className="text-xs text-gray-600">25 top experiences</div>
                 </Link>
                 <Link href="/thailand-for-first-timers/" className="p-4 bg-surface-cream rounded-xl hover:shadow-md transition-all text-center">
-                  <div className="font-semibold text-gray-900 text-sm">First Timers</div>
-                  <div className="text-xs text-gray-600">Start here</div>
+                  <div className="font-semibold text-gray-900 text-sm">{t("s153_first_timers")}</div>
+                  <div className="text-xs text-gray-600">{t("s154_start_here")}</div>
                 </Link>
                 <Link href="/thailand-islands/" className="p-4 bg-surface-cream rounded-xl hover:shadow-md transition-all text-center">
-                  <div className="font-semibold text-gray-900 text-sm">Thai Islands</div>
-                  <div className="text-xs text-gray-600">Beach paradise</div>
+                  <div className="font-semibold text-gray-900 text-sm">{t("s155_thai_islands")}</div>
+                  <div className="text-xs text-gray-600">{t("s156_beach_paradise")}</div>
                 </Link>
                 <Link href="/food/" className="p-4 bg-surface-cream rounded-xl hover:shadow-md transition-all text-center">
-                  <div className="font-semibold text-gray-900 text-sm">Thai Food</div>
-                  <div className="text-xs text-gray-600">Cuisine guide</div>
+                  <div className="font-semibold text-gray-900 text-sm">{t("s157_thai_food")}</div>
+                  <div className="text-xs text-gray-600">{t("s158_cuisine_guide")}</div>
                 </Link>
                 <Link href="/is-thailand-safe/" className="p-4 bg-surface-cream rounded-xl hover:shadow-md transition-all text-center">
-                  <div className="font-semibold text-gray-900 text-sm">Safety Guide</div>
-                  <div className="text-xs text-gray-600">Stay safe</div>
+                  <div className="font-semibold text-gray-900 text-sm">{t("s159_safety_guide")}</div>
+                  <div className="text-xs text-gray-600">{t("s160_stay_safe")}</div>
                 </Link>
                 <Link href="/transport/" className="p-4 bg-surface-cream rounded-xl hover:shadow-md transition-all text-center">
                   <div className="font-semibold text-gray-900 text-sm">Transport</div>
-                  <div className="text-xs text-gray-600">Buses, trains, flights</div>
+                  <div className="text-xs text-gray-600">{t("s161_buses_trains_flights")}</div>
                 </Link>
               </div>
             </section>
