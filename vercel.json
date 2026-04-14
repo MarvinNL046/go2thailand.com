@@ -6,7 +6,15 @@
     },
     {
       "path": "/api/cron/generate-blog/",
+      "schedule": "0 6 * * 3"
+    },
+    {
+      "path": "/api/cron/generate-blog/",
       "schedule": "0 6 * * 4"
+    },
+    {
+      "path": "/api/cron/generate-blog/",
+      "schedule": "0 6 * * 6"
     },
     {
       "path": "/api/cron/generate-blog-nl/",
