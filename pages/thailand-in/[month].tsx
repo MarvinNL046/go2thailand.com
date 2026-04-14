@@ -565,10 +565,14 @@ export const getStaticProps: GetStaticProps = async ({ params, locale }) => {
   let guides: any = monthlyGuides;
   if (locale && locale !== 'en') {
     try {
-      const fs = await import('fs');
-      const path = await import('path');
+      // eslint-disable-next-line @typescript-eslint/no-var-requires
+      const fs = require('fs') as typeof import('fs');
+      // eslint-disable-next-line @typescript-eslint/no-var-requires
+      const path = require('path') as typeof import('path');
       const localePath = path.join(process.cwd(), 'data', `monthly-guides.${locale}.json`);
-      if (fs.existsSync(localePath)) guides = JSON.parse(fs.readFileSync(localePath, 'utf8'));
+      if (fs.existsSync(localePath)) {
+        guides = JSON.parse(fs.readFileSync(localePath, 'utf8'));
+      }
     } catch (_) { /* fallback to English */ }
   }
   const guide = (guides as any)[month];
