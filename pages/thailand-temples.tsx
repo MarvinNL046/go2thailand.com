@@ -5,6 +5,8 @@ import { useRouter } from 'next/router';
 import { useState } from 'react';
 import Breadcrumbs from '../components/Breadcrumbs';
 import TripcomWidget from '../components/TripcomWidget';
+import { useT } from '../lib/i18n';
+import { strings as i18nStrings } from '../lib/i18n/thailand-temples';
 
 // ─────────────────────────────────────────────────────────────────────────────
 // TYPE DEFINITIONS
@@ -649,6 +651,7 @@ const etiquetteTips = [
 // ─────────────────────────────────────────────────────────────────────────────
 
 export default function ThailandTemples({ data }: ThailandTemplesProps) {
+  const t = useT(i18nStrings);
   const { locale } = useRouter();
   const isNl = locale === 'nl';
   const [activeFilter, setActiveFilter] = useState<CityFilter>('all');
@@ -730,12 +733,12 @@ export default function ThailandTemples({ data }: ThailandTemplesProps) {
   return (
     <>
       <SEOHead
-        title="Thailand Temples — 10 Sacred Sites with Verified History (2026 Guide)"
+        title={t("s001_thailand_temples_10_sacred")}
         description="Source-backed guide to Thailand's 10 most important temples: Wat Phra Kaew, Wat Pho, Wat Arun, Doi Suthep, White Temple, and more. Official names, real founding dates, architectural details, and practical visitor information."
       >
         <meta
           name="keywords"
-          content="Thailand temples, Wat Phra Kaew, Wat Pho, Wat Arun, Doi Suthep, White Temple Chiang Rai, Ayutthaya temples, UNESCO Thailand, Thai temple etiquette, Buddhist temples Thailand"
+          content={t("s002_thailand_temples_wat_phra")}
         />
         <script
           type="application/ld+json"
@@ -1038,25 +1041,25 @@ export default function ThailandTemples({ data }: ThailandTemplesProps) {
             </h2>
             <div className="space-y-6">
               <div className="bg-white rounded-xl p-6 shadow-sm">
-                <h3 className="text-lg font-bold font-heading text-gray-900 mb-2">Bangkok — The Rattanakosin Core</h3>
+                <h3 className="text-lg font-bold font-heading text-gray-900 mb-2">{t("s003_bangkok_the_rattanakosin_core")}</h3>
                 <p className="text-gray-700 text-sm leading-relaxed">
                   Bangkok&#39;s most historically significant temples cluster on Ko Ratanakosin, the original island settled by Rama I in 1782. Wat Phra Kaew, Wat Pho, and Wat Arun — all within 1.5 km of each other — represent the foundational sacred architecture of the Chakri dynasty. The Grand Palace area is the most visited tourist zone in Thailand; arrive before 8:30am to experience it without crowds.
                 </p>
               </div>
               <div className="bg-white rounded-xl p-6 shadow-sm">
-                <h3 className="text-lg font-bold font-heading text-gray-900 mb-2">Chiang Mai — Capital of the Lanna Kingdom</h3>
+                <h3 className="text-lg font-bold font-heading text-gray-900 mb-2">{t("s004_chiang_mai_capital_of")}</h3>
                 <p className="text-gray-700 text-sm leading-relaxed">
                   Chiang Mai was founded in 1296 CE as the capital of the Lanna Kingdom and served that role for nearly 300 years before Burmese conquest in 1558. The city&#39;s old town (within the square moat) still contains over 30 temples, the most architecturally important of which is Wat Chedi Luang. Doi Suthep, visible above the city, has been its defining sacred mountain since 1383 CE. Lanna Buddhist architecture is distinct from Bangkok&#39;s Rattanakosin style — characterised by low, wide wooden viharns with multi-tiered roofs.
                 </p>
               </div>
               <div className="bg-white rounded-xl p-6 shadow-sm">
-                <h3 className="text-lg font-bold font-heading text-gray-900 mb-2">Ayutthaya — The Destroyed Royal Capital</h3>
+                <h3 className="text-lg font-bold font-heading text-gray-900 mb-2">{t("s005_ayutthaya_the_destroyed_royal")}</h3>
                 <p className="text-gray-700 text-sm leading-relaxed">
                   Ayutthaya was the capital of the Kingdom of Siam from 1350 to 1767 CE — a period of 417 years. At its height in the 17th century, it was one of the largest cities in the world and a major international trading port. The Burmese destruction of April 1767 was total and deliberate; the city was never reoccupied as a capital. The ruins that remain are managed as the Ayutthaya Historical Park, designated a UNESCO World Heritage Site in 1991. The distinctive prang towers (Khmer-influenced) and the scattered headless Buddha images are the defining visual legacy of this era.
                 </p>
               </div>
               <div className="bg-white rounded-xl p-6 shadow-sm">
-                <h3 className="text-lg font-bold font-heading text-gray-900 mb-2">Isan and the South — Beyond the Tourist Trail</h3>
+                <h3 className="text-lg font-bold font-heading text-gray-900 mb-2">{t("s006_isan_and_the_south")}</h3>
                 <p className="text-gray-700 text-sm leading-relaxed">
                   Northeastern Thailand (Isan) and the south hold temples of profound importance that receive far fewer foreign visitors. Wat Phra That Phanom in Nakhon Phanom — on the Mekong River near the Lao border — is arguably the most spiritually significant Buddhist site in all of Isan, with structural evidence dating to the 7th century CE. The Tiger Cave Temple in Krabi represents the forest monastery (arannavasi) tradition of southern Thai Buddhism, emphasising meditation practice in natural settings rather than architectural spectacle.
                 </p>

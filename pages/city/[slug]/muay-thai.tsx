@@ -6,6 +6,8 @@ import Breadcrumbs from '../../../components/Breadcrumbs';
 import SEOHead from '../../../components/SEOHead';
 import CityExploreMore from '../../../components/CityExploreMore';
 import CitySupportSources from '../../../components/CitySupportSources';
+import { useT } from '../../../lib/i18n';
+import { strings as i18nStrings } from '../../../lib/i18n/city-slug-muay-thai';
 
 interface MuayThaiActivity {
   name: string;
@@ -67,7 +69,8 @@ function TypeBadge({ type }: { type: string }) {
 }
 
 export default function MuayThaiPage({ city, muayThaiData }: Props) {
-  if (!city) return <div>Not found</div>;
+  const t = useT(i18nStrings);
+  if (!city) return <div>{t("s001_not_found")}</div>;
 
   const breadcrumbs = [
     ...generateBreadcrumbs(city),
@@ -193,15 +196,15 @@ export default function MuayThaiPage({ city, muayThaiData }: Props) {
               </div>
               <div className="bg-white rounded-2xl p-4 text-center shadow-md">
                 <div className="text-3xl font-bold text-thailand-red">{new Set(muayThaiActivities.map(c => c.type)).size}</div>
-                <div className="text-sm text-gray-600">Experience Types</div>
+                <div className="text-sm text-gray-600">{t("s002_experience_types")}</div>
               </div>
               <div className="bg-white rounded-2xl p-4 text-center shadow-md">
                 <div className="text-3xl font-bold text-thailand-red">{watchActivities.length}</div>
-                <div className="text-sm text-gray-600">Fight Venues</div>
+                <div className="text-sm text-gray-600">{t("s003_fight_venues")}</div>
               </div>
               <div className="bg-white rounded-2xl p-4 text-center shadow-md">
                 <div className="text-3xl font-bold text-thailand-red">{trainActivities.length}</div>
-                <div className="text-sm text-gray-600">Training Gyms</div>
+                <div className="text-sm text-gray-600">{t("s004_training_gyms")}</div>
               </div>
             </div>
 
@@ -213,7 +216,7 @@ export default function MuayThaiPage({ city, muayThaiData }: Props) {
               <p className="text-gray-700 leading-relaxed">{introText}</p>
               {!hasLocalOptions && (
                 <div className="mt-6 rounded-2xl bg-amber-50 p-5 text-amber-900">
-                  <h3 className="text-lg font-bold font-heading mb-2">Limited local fit</h3>
+                  <h3 className="text-lg font-bold font-heading mb-2">{t("s005_limited_local_fit")}</h3>
                   <p className="text-sm leading-6">{editorialPositioning}</p>
                 </div>
               )}
@@ -252,7 +255,7 @@ export default function MuayThaiPage({ city, muayThaiData }: Props) {
                             </div>
                           </div>
                           <div className="text-right">
-                            <div className="text-sm text-gray-500">Planning fit</div>
+                            <div className="text-sm text-gray-500">{t("s006_planning_fit")}</div>
                             <div className="text-lg font-bold text-gray-900">{cls.priceTier || 'General'}</div>
                           </div>
                         </div>
@@ -306,7 +309,7 @@ export default function MuayThaiPage({ city, muayThaiData }: Props) {
                             </div>
                           </div>
                           <div className="text-right">
-                            <div className="text-sm text-gray-500">Planning fit</div>
+                            <div className="text-sm text-gray-500">{t("s006_planning_fit")}</div>
                             <div className="text-lg font-bold text-gray-900">{cls.priceTier || 'General'}</div>
                           </div>
                         </div>
@@ -351,7 +354,7 @@ export default function MuayThaiPage({ city, muayThaiData }: Props) {
                             </div>
                           </div>
                           <div className="text-right">
-                            <div className="text-sm text-gray-500">Planning fit</div>
+                            <div className="text-sm text-gray-500">{t("s006_planning_fit")}</div>
                             <div className="text-lg font-bold text-gray-900">{cls.priceTier || 'General'}</div>
                           </div>
                         </div>
@@ -449,25 +452,25 @@ export default function MuayThaiPage({ city, muayThaiData }: Props) {
                 <Link href={`/city/${city.slug}/attractions/`} className="flex items-center p-4 border-0 bg-surface-cream rounded-2xl hover:shadow-md transition-all duration-300">
                   <div>
                     <h4 className="font-semibold text-gray-900">Attractions</h4>
-                    <p className="text-gray-600 text-sm">Top things to see</p>
+                    <p className="text-gray-600 text-sm">{t("s009_top_things_to_see")}</p>
                   </div>
                 </Link>
                 <Link href={`/city/${city.slug}/cooking-classes/`} className="flex items-center p-4 border-0 bg-surface-cream rounded-2xl hover:shadow-md transition-all duration-300">
                   <div>
-                    <h4 className="font-semibold text-gray-900">Cooking Classes</h4>
-                    <p className="text-gray-600 text-sm">Learn Thai cuisine</p>
+                    <h4 className="font-semibold text-gray-900">{t("s010_cooking_classes")}</h4>
+                    <p className="text-gray-600 text-sm">{t("s011_learn_thai_cuisine")}</p>
                   </div>
                 </Link>
                 <Link href={`/city/${city.slug}/hotels/`} className="flex items-center p-4 border-0 bg-surface-cream rounded-2xl hover:shadow-md transition-all duration-300">
                   <div>
                     <h4 className="font-semibold text-gray-900">Hotels</h4>
-                    <p className="text-gray-600 text-sm">Where to stay</p>
+                    <p className="text-gray-600 text-sm">{t("s012_where_to_stay")}</p>
                   </div>
                 </Link>
               </div>
               {!hasLocalOptions && (
                 <div className="mt-8 rounded-2xl border border-gray-100 bg-surface-cream p-5">
-                  <h4 className="font-semibold text-gray-900 mb-3">Better Muay Thai alternatives</h4>
+                  <h4 className="font-semibold text-gray-900 mb-3">{t("s013_better_muay_thai_alternatives")}</h4>
                   <div className="grid grid-cols-1 md:grid-cols-3 gap-3">
                     {recommendedAlternatives.map((item) => (
                       <Link key={item.href} href={item.href} className="rounded-xl bg-white p-4 hover:shadow-md transition-all duration-300">

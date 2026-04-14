@@ -1,3 +1,5 @@
+import { useT } from '../../lib/i18n';
+import { strings as i18nStrings } from '../../lib/i18n/temples-slug';
 import { GetStaticPaths, GetStaticProps } from 'next';
 import Link from 'next/link';
 import { useRouter } from 'next/router';
@@ -46,6 +48,7 @@ const visitorTips: { en: string; nl: string }[] = [
 ];
 
 export default function TempleDetailPage({ temple, nearbyTemples }: TempleDetailPageProps) {
+  const t = useT(i18nStrings);
   const { locale } = useRouter();
   const isNl = locale === 'nl';
   const lang = isNl ? 'nl' : 'en';
@@ -216,7 +219,7 @@ export default function TempleDetailPage({ temple, nearbyTemples }: TempleDetail
                       rel="noopener noreferrer nofollow"
                       className="bg-white text-thailand-blue px-5 py-2.5 rounded-full font-semibold text-sm hover:bg-gray-100 transition-colors"
                     >
-                      Booking.com Hotels
+                      {t("s001_booking_com_hotels")}
                     </a>
                   </div>
                   <p className="text-white/50 text-xs mt-4">
@@ -260,10 +263,10 @@ export default function TempleDetailPage({ temple, nearbyTemples }: TempleDetail
                   <p className="text-gray-700 leading-relaxed mb-5">
                     {isNl
                       ? <>Van plan om tussen steden te reizen? Bekijk onze{' '}
-                          <Link href="/transport/" className="text-thailand-blue hover:underline font-medium">Thailand transportgids</Link>
+                          <Link href="/transport/" className="text-thailand-blue hover:underline font-medium">{t("s002_thailand_transportgids")}</Link>
                           {' '}voor treinen, bussen en binnenlandse vluchten van en naar {temple.city}.</>
                       : <>Planning to travel between cities? Check our{' '}
-                          <Link href="/transport/" className="text-thailand-blue hover:underline font-medium">Thailand transport guide</Link>
+                          <Link href="/transport/" className="text-thailand-blue hover:underline font-medium">{t("s003_thailand_transport_guide")}</Link>
                           {' '}for trains, buses, and domestic flights to and from {temple.city}.</>
                     }
                   </p>

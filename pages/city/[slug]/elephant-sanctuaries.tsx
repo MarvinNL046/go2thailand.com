@@ -6,6 +6,8 @@ import Breadcrumbs from '../../../components/Breadcrumbs';
 import SEOHead from '../../../components/SEOHead';
 import CityExploreMore from '../../../components/CityExploreMore';
 import CitySupportSources from '../../../components/CitySupportSources';
+import { useT } from '../../../lib/i18n';
+import { strings as i18nStrings } from '../../../lib/i18n/city-slug-elephant-sanctuaries';
 
 interface Sanctuary {
   name: string;
@@ -46,7 +48,8 @@ interface Props {
 }
 
 export default function ElephantSanctuariesPage({ city, sanctuaryData }: Props) {
-  if (!city) return <div>Not found</div>;
+  const t = useT(i18nStrings);
+  if (!city) return <div>{t("s001_not_found")}</div>;
 
   const breadcrumbs = [
     ...generateBreadcrumbs(city),
@@ -169,15 +172,15 @@ export default function ElephantSanctuariesPage({ city, sanctuaryData }: Props) 
               </div>
               <div className="bg-white rounded-2xl p-4 text-center shadow-md">
                 <div className="text-3xl font-bold text-thailand-blue">{new Set(sanctuaryClasses.map(c => c.duration)).size}</div>
-                <div className="text-sm text-gray-600">Visit Formats</div>
+                <div className="text-sm text-gray-600">{t("s002_visit_formats")}</div>
               </div>
               <div className="bg-white rounded-2xl p-4 text-center shadow-md">
                 <div className="text-3xl font-bold text-thailand-blue">{new Set(sanctuaryClasses.map(c => c.groupSize)).size}</div>
-                <div className="text-sm text-gray-600">Group Styles</div>
+                <div className="text-sm text-gray-600">{t("s003_group_styles")}</div>
               </div>
               <div className="bg-white rounded-2xl p-4 text-center shadow-md">
                 <div className="text-3xl font-bold text-thailand-blue">{hasLocalOptions ? 'Strong' : 'Limited'}</div>
-                <div className="text-sm text-gray-600">Local Fit</div>
+                <div className="text-sm text-gray-600">{t("s004_local_fit")}</div>
               </div>
             </div>
 
@@ -189,7 +192,7 @@ export default function ElephantSanctuariesPage({ city, sanctuaryData }: Props) 
               <p className="text-gray-700 leading-relaxed">{introText}</p>
               {!hasLocalOptions && (
                 <div className="mt-6 rounded-2xl bg-amber-50 p-5 text-amber-900">
-                  <h3 className="text-lg font-bold font-heading mb-2">Limited local fit</h3>
+                  <h3 className="text-lg font-bold font-heading mb-2">{t("s005_limited_local_fit")}</h3>
                   <p className="text-sm leading-6">{editorialPositioning}</p>
                 </div>
               )}
@@ -231,7 +234,7 @@ export default function ElephantSanctuariesPage({ city, sanctuaryData }: Props) 
                             </div>
                           </div>
                           <div className="text-right">
-                            <div className="text-sm text-gray-500">Planning fit</div>
+                            <div className="text-sm text-gray-500">{t("s006_planning_fit")}</div>
                             <div className="text-lg font-bold text-gray-900">{sanctuary.priceTier || 'General'}</div>
                           </div>
                         </div>
@@ -293,15 +296,15 @@ export default function ElephantSanctuariesPage({ city, sanctuaryData }: Props) 
                 <div className="grid grid-cols-1 md:grid-cols-3 gap-4">
                   <Link href={`/city/${city.slug}/attractions/`} className="rounded-2xl border border-gray-100 bg-surface-cream p-4 hover:shadow-md transition-all duration-300">
                     <h3 className="font-semibold text-gray-900 mb-1">Attractions</h3>
-                    <p className="text-sm text-gray-600">A better local fit than sanctuary search.</p>
+                    <p className="text-sm text-gray-600">{t("s007_a_better_local_fit")}</p>
                   </Link>
                   <Link href="/city/chiang-mai/elephant-sanctuaries/" className="rounded-2xl border border-gray-100 bg-surface-cream p-4 hover:shadow-md transition-all duration-300">
-                    <h3 className="font-semibold text-gray-900 mb-1">Chiang Mai sanctuaries</h3>
-                    <p className="text-sm text-gray-600">Thailand's strongest sanctuary market.</p>
+                    <h3 className="font-semibold text-gray-900 mb-1">{t("s008_chiang_mai_sanctuaries")}</h3>
+                    <p className="text-sm text-gray-600">{t("s009_thailand_s_strongest_sanctuary")}</p>
                   </Link>
                   <Link href="/city/phuket/elephant-sanctuaries/" className="rounded-2xl border border-gray-100 bg-surface-cream p-4 hover:shadow-md transition-all duration-300">
-                    <h3 className="font-semibold text-gray-900 mb-1">Phuket sanctuaries</h3>
-                    <p className="text-sm text-gray-600">Another stronger fit for this activity.</p>
+                    <h3 className="font-semibold text-gray-900 mb-1">{t("s010_phuket_sanctuaries")}</h3>
+                    <p className="text-sm text-gray-600">{t("s011_another_stronger_fit_for")}</p>
                   </Link>
                 </div>
               </div>
@@ -348,19 +351,19 @@ export default function ElephantSanctuariesPage({ city, sanctuaryData }: Props) 
                 <Link href={`/city/${city.slug}/attractions/`} className="flex items-center p-4 border-0 bg-surface-cream rounded-2xl hover:shadow-md transition-all duration-300">
                   <div>
                     <h4 className="font-semibold text-gray-900">Attractions</h4>
-                    <p className="text-gray-600 text-sm">Top things to see</p>
+                    <p className="text-gray-600 text-sm">{t("s012_top_things_to_see")}</p>
                   </div>
                 </Link>
                 <Link href={`/city/${city.slug}/cooking-classes/`} className="flex items-center p-4 border-0 bg-surface-cream rounded-2xl hover:shadow-md transition-all duration-300">
                   <div>
-                    <h4 className="font-semibold text-gray-900">Cooking Classes</h4>
-                    <p className="text-gray-600 text-sm">Learn Thai cooking</p>
+                    <h4 className="font-semibold text-gray-900">{t("s013_cooking_classes")}</h4>
+                    <p className="text-gray-600 text-sm">{t("s014_learn_thai_cooking")}</p>
                   </div>
                 </Link>
                 <Link href={`/city/${city.slug}/hotels/`} className="flex items-center p-4 border-0 bg-surface-cream rounded-2xl hover:shadow-md transition-all duration-300">
                   <div>
                     <h4 className="font-semibold text-gray-900">Hotels</h4>
-                    <p className="text-gray-600 text-sm">Where to stay</p>
+                    <p className="text-gray-600 text-sm">{t("s015_where_to_stay")}</p>
                   </div>
                 </Link>
               </div>

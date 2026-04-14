@@ -58,8 +58,10 @@ if (!fs.existsSync(filePath)) { console.error(`File not found: ${filePath}`); pr
 // Abort early if file already binds `t` via its own i18n framework (e.g. useTranslation).
 // Our replacement would redeclare `t` and break compilation.
 const preCheck = fs.readFileSync(filePath, 'utf8');
-if (/useTranslation\s*\(/.test(preCheck) || /const\s*\{\s*t\s*[,}]/.test(preCheck)) {
-  console.log(`Skipping ${FILE} — already uses a foreign \`t\` (useTranslation). Translate its strings via that framework instead.`);
+if (/useTranslation\s*\(/.test(preCheck)
+  || /const\s*\{\s*t\s*[,}]/.test(preCheck)
+  || /const\s+t\s*=\s*(?!useT\(i18nStrings\))/.test(preCheck)) {
+  console.log(`Skipping ${FILE} — already declares \`t\` locally (or via useTranslation).`);
   process.exit(0);
 }
 
@@ -324,24 +326,25 @@ ${nlEntries.join('\n')}
 // JSX text: replace `raw` (including whitespace) with `${leading}{t('key')}${trailing}`.
 // Attr: replace `"value"` with `{t('key')}` (i.e. remove quotes too — keep attr name + = unchanged).
 
-// Patch from end to start so offsets stay valid.
-const patched = [...source];
+// Patch from end to start so earlier offsets stay valid. Work on the string
+// directly (not an array) so multi-byte characters like emoji do not shift
+// indices between the regex (UTF-16) and an iterable split.
+let patchedSource = source;
 const sortedFromEnd = [...final].sort((a, b) => b.start - a.start);
 for (const c of sortedFromEnd) {
   let replacement;
+  let rangeStart = c.start;
+  let rangeEnd = c.end;
   if (c.kind === 'jsx-text') {
     replacement = `${c.leadingWs}{t(${JSON.stringify(c.key)})}${c.trailingWs}`;
   } else if (c.kind === 'attr') {
-    // Replace the value AND the quotes. We need to include the quote chars in the slice.
-    // candidate.start points to inside the quote, end to the char before closing quote.
-    // Expand range to include both quote characters:
-    c.start -= 1;
-    c.end += 1;
+    // Expand range to include the surrounding quote characters.
+    rangeStart -= 1;
+    rangeEnd += 1;
     replacement = `{t(${JSON.stringify(c.key)})}`;
   }
-  patched.splice(c.start, c.end - c.start, replacement);
+  patchedSource = patchedSource.slice(0, rangeStart) + replacement + patchedSource.slice(rangeEnd);
 }
-let patchedSource = patched.join('');
 
 // Insert imports + hook call if not present.
 // Determine the relative import path from the file to lib/i18n and lib/i18n/<slug>.
@@ -361,15 +364,16 @@ if (!stringsImportRegex.test(patchedSource)) {
   importsToAdd.push(`import { strings as i18nStrings } from '${relStringsPath}';`);
 }
 
-// Add imports after the last existing import line
+// Add imports AFTER the last existing import — handle both single-line and
+// multi-line (`import {\n  A,\n  B,\n} from '...';`) forms. We scan for all
+// import statement matches and take the end of the last one.
 if (importsToAdd.length) {
-  const importBlockMatch = patchedSource.match(/^(?:import[^\n]*\n)+/);
-  if (importBlockMatch) {
-    const insertAt = importBlockMatch[0].length;
-    patchedSource = patchedSource.slice(0, insertAt) + importsToAdd.join('\n') + '\n' + patchedSource.slice(insertAt);
-  } else {
-    patchedSource = importsToAdd.join('\n') + '\n' + patchedSource;
+  const importStmtRegex = /^import\s+[^;]+?;[ \t]*\n/gm;
+  let insertAt = 0;
+  for (const m of patchedSource.matchAll(importStmtRegex)) {
+    insertAt = m.index + m[0].length;
   }
+  patchedSource = patchedSource.slice(0, insertAt) + importsToAdd.join('\n') + '\n' + patchedSource.slice(insertAt);
 }
 
 // Add `const t = useT(i18nStrings);` at the top of the default-export

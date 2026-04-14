@@ -1,3 +1,5 @@
+import { useT } from '../../lib/i18n';
+import { strings as i18nStrings } from '../../lib/i18n/temples-index';
 import { GetStaticProps } from 'next';
 import Link from 'next/link';
 import { useState } from 'react';
@@ -47,6 +49,7 @@ export default function TemplesIndexPage({
   uniqueCitiesCount,
   freeCount,
 }: TemplesIndexProps) {
+  const t = useT(i18nStrings);
   const { locale } = useRouter();
   const isNl = locale === 'nl';
   const lang = isNl ? 'nl' : 'en';
@@ -92,12 +95,12 @@ export default function TemplesIndexPage({
   return (
     <>
       <SEOHead
-        title="Thailand Temples — Complete Hub Guide to 16 Sacred Sites (2026)"
+        title={t("s001_thailand_temples_complete_hub")}
         description={meta.meta_description}
       >
         <meta
           name="keywords"
-          content="Thailand temples, Wat Pho, Wat Arun, White Temple, Blue Temple, Doi Suthep, Bangkok temples, Chiang Mai temples, Thai temple guide 2026"
+          content={t("s002_thailand_temples_wat_pho")}
         />
         <script
           type="application/ld+json"
@@ -120,7 +123,7 @@ export default function TemplesIndexPage({
                 {isNl ? 'Thailand Tempels' : 'Thailand Temples'}
               </h1>
               <p className="text-xl lg:text-2xl mb-8 max-w-3xl mx-auto opacity-90">
-                Your complete hub to Thailand&#39;s most impressive temples — ancient ruins, gilded chedis, and contemporary masterpieces
+                {t("s003_your_complete_hub_to")}
               </p>
               <div className="flex flex-wrap justify-center gap-4 text-sm font-medium">
                 <span className="bg-white/20 px-4 py-2 rounded-full">
@@ -350,7 +353,7 @@ export default function TemplesIndexPage({
                 rel="noopener noreferrer nofollow"
                 className="flex items-center justify-between bg-white text-gray-900 px-5 py-4 rounded-xl font-semibold hover:bg-gray-50 transition-colors shadow-sm"
               >
-                <span>Klook — Temple Tours &amp; Day Trips</span>
+                <span>{t("s004_klook_temple_tours_amp")}</span>
                 <svg
                   className="w-5 h-5 text-gray-400 flex-shrink-0 ml-3"
                   fill="none"
@@ -371,7 +374,7 @@ export default function TemplesIndexPage({
                 rel="noopener noreferrer nofollow"
                 className="flex items-center justify-between bg-white text-gray-900 px-5 py-4 rounded-xl font-semibold hover:bg-gray-50 transition-colors shadow-sm"
               >
-                <span>GetYourGuide — Cultural Experiences</span>
+                <span>{t("s005_getyourguide_cultural_experiences")}</span>
                 <svg
                   className="w-5 h-5 text-gray-400 flex-shrink-0 ml-3"
                   fill="none"
@@ -408,13 +411,13 @@ export default function TemplesIndexPage({
               >
                 <div className="text-3xl mb-3">&#9965;</div>
                 <h3 className="text-base font-bold font-heading text-gray-900 group-hover:text-thailand-blue transition-colors mb-2">
-                  Thailand Temples List
+                  {t("s006_thailand_temples_list")}
                 </h3>
                 <p className="text-gray-600 text-sm">
-                  Ranked list of all 16 temples with entry fees, hours, and key facts on a single page.
+                  {t("s007_ranked_list_of_all")}
                 </p>
                 <span className="inline-block mt-3 text-thailand-blue text-sm font-medium group-hover:underline">
-                  See the list &#8594;
+                  {t("s008_see_the_list_8594")}
                 </span>
               </Link>
 
@@ -424,13 +427,13 @@ export default function TemplesIndexPage({
               >
                 <div className="text-3xl mb-3">&#127751;</div>
                 <h3 className="text-base font-bold font-heading text-gray-900 group-hover:text-thailand-blue transition-colors mb-2">
-                  Bangkok City Guide
+                  {t("s009_bangkok_city_guide")}
                 </h3>
                 <p className="text-gray-600 text-sm">
-                  Home to Wat Pho, Wat Arun, and the Grand Palace — Bangkok has the highest concentration of must-see temples.
+                  {t("s010_home_to_wat_pho")}
                 </p>
                 <span className="inline-block mt-3 text-thailand-blue text-sm font-medium group-hover:underline">
-                  Explore Bangkok &#8594;
+                  {t("s011_explore_bangkok_8594")}
                 </span>
               </Link>
 
@@ -440,13 +443,13 @@ export default function TemplesIndexPage({
               >
                 <div className="text-3xl mb-3">&#9968;</div>
                 <h3 className="text-base font-bold font-heading text-gray-900 group-hover:text-thailand-blue transition-colors mb-2">
-                  Chiang Mai City Guide
+                  {t("s012_chiang_mai_city_guide")}
                 </h3>
                 <p className="text-gray-600 text-sm">
-                  The temple capital of Northern Thailand — Doi Suthep, Wat Chedi Luang, and over 300 temples in the old city.
+                  {t("s013_the_temple_capital_of")}
                 </p>
                 <span className="inline-block mt-3 text-thailand-blue text-sm font-medium group-hover:underline">
-                  Explore Chiang Mai &#8594;
+                  {t("s014_explore_chiang_mai_8594")}
                 </span>
               </Link>
 
@@ -456,13 +459,13 @@ export default function TemplesIndexPage({
               >
                 <div className="text-3xl mb-3">&#127988;</div>
                 <h3 className="text-base font-bold font-heading text-gray-900 group-hover:text-thailand-blue transition-colors mb-2">
-                  Thailand Travel Guide
+                  {t("s015_thailand_travel_guide")}
                 </h3>
                 <p className="text-gray-600 text-sm">
-                  Everything you need before your first trip — visas, costs, transport, and cultural tips.
+                  {t("s016_everything_you_need_before")}
                 </p>
                 <span className="inline-block mt-3 text-thailand-blue text-sm font-medium group-hover:underline">
-                  Read the guide &#8594;
+                  {t("s017_read_the_guide_8594")}
                 </span>
               </Link>
 
@@ -472,13 +475,13 @@ export default function TemplesIndexPage({
               >
                 <div className="text-3xl mb-3">&#127759;</div>
                 <h3 className="text-base font-bold font-heading text-gray-900 group-hover:text-thailand-blue transition-colors mb-2">
-                  Best Places to Visit
+                  {t("s018_best_places_to_visit")}
                 </h3>
                 <p className="text-gray-600 text-sm">
                   33 destinations ranked by popularity, budget, and season — find the right fit for your trip.
                 </p>
                 <span className="inline-block mt-3 text-thailand-blue text-sm font-medium group-hover:underline">
-                  Browse destinations &#8594;
+                  {t("s019_browse_destinations_8594")}
                 </span>
               </Link>
 
@@ -488,13 +491,13 @@ export default function TemplesIndexPage({
               >
                 <div className="text-3xl mb-3">&#127836;</div>
                 <h3 className="text-base font-bold font-heading text-gray-900 group-hover:text-thailand-blue transition-colors mb-2">
-                  Thai Food Guide
+                  {t("s020_thai_food_guide")}
                 </h3>
                 <p className="text-gray-600 text-sm">
-                  Discover Thailand&#39;s street food culture — must-try dishes, food markets, and where to eat near temple districts.
+                  {t("s021_discover_thailand_39_s")}
                 </p>
                 <span className="inline-block mt-3 text-thailand-blue text-sm font-medium group-hover:underline">
-                  Explore Thai food &#8594;
+                  {t("s022_explore_thai_food_8594")}
                 </span>
               </Link>
 
@@ -504,13 +507,13 @@ export default function TemplesIndexPage({
               >
                 <div className="text-3xl mb-3">&#128652;</div>
                 <h3 className="text-base font-bold font-heading text-gray-900 group-hover:text-thailand-blue transition-colors mb-2">
-                  Getting Around Thailand
+                  {t("s023_getting_around_thailand")}
                 </h3>
                 <p className="text-gray-600 text-sm">
-                  Buses, trains, and flights between temple cities — plan your route from Bangkok to Chiang Mai to Chiang Rai.
+                  {t("s024_buses_trains_and_flights")}
                 </p>
                 <span className="inline-block mt-3 text-thailand-blue text-sm font-medium group-hover:underline">
-                  See transport options &#8594;
+                  {t("s025_see_transport_options_8594")}
                 </span>
               </Link>
 

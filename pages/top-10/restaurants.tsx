@@ -8,6 +8,8 @@ import { getAllCities } from '../../lib/cities';
 import { restaurantsHubContent } from '../../lib/top10-hub-content';
 import fs from 'fs';
 import path from 'path';
+import { useT } from '../../lib/i18n';
+import { strings as i18nStrings } from '../../lib/i18n/top-10-restaurants';
 
 interface City {
   id: number;
@@ -30,6 +32,7 @@ interface Top10RestaurantsIndexProps {
 }
 
 export default function Top10RestaurantsIndex({ availableGuides }: Top10RestaurantsIndexProps) {
+  const t = useT(i18nStrings);
   const { locale } = useRouter();
   const isNl = locale === 'nl';
   const lang = isNl ? 'nl' : 'en';
@@ -58,7 +61,7 @@ export default function Top10RestaurantsIndex({ availableGuides }: Top10Restaura
       >
         <meta
           name="keywords"
-          content="Thailand restaurants, top 10 restaurants, Thai food, restaurant guides, Bangkok restaurants, Phuket dining, Chiang Mai food"
+          content={t("s001_thailand_restaurants_top_10")}
         />
         <meta property="og:type" content="website" />
         <script
@@ -105,11 +108,11 @@ export default function Top10RestaurantsIndex({ availableGuides }: Top10Restaura
               <div className="mt-8 grid grid-cols-1 sm:grid-cols-2 gap-4 max-w-2xl mx-auto text-left">
                 <div className="rounded-2xl bg-white/10 backdrop-blur px-5 py-4">
                   <div className="text-xs uppercase tracking-[0.2em] text-white/60 mb-1">Focus</div>
-                  <div className="text-base font-semibold">City-level restaurant shortlists</div>
+                  <div className="text-base font-semibold">{t("s002_city_level_restaurant_shortlists")}</div>
                 </div>
                 <div className="rounded-2xl bg-white/10 backdrop-blur px-5 py-4">
                   <div className="text-xs uppercase tracking-[0.2em] text-white/60 mb-1">References</div>
-                  <div className="text-base font-semibold">Visible source links below</div>
+                  <div className="text-base font-semibold">{t("s003_visible_source_links_below")}</div>
                 </div>
               </div>
             </div>
@@ -229,7 +232,7 @@ export default function Top10RestaurantsIndex({ availableGuides }: Top10Restaura
             <section className="bg-white rounded-2xl shadow-md p-8 mb-12">
               <div className="flex items-end justify-between gap-6 mb-6">
                 <div>
-                  <span className="section-label">Browse Index</span>
+                  <span className="section-label">{t("s004_browse_index")}</span>
                   <h2 className="text-3xl font-bold font-heading text-gray-900 mt-2">
                     {isNl ? 'Alle Restaurantgidsen' : 'All Restaurant Guides'}
                   </h2>

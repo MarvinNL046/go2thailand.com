@@ -6,6 +6,8 @@ import Breadcrumbs from '../../../components/Breadcrumbs';
 import SEOHead from '../../../components/SEOHead';
 import CityExploreMore from '../../../components/CityExploreMore';
 import CitySupportSources from '../../../components/CitySupportSources';
+import { useT } from '../../../lib/i18n';
+import { strings as i18nStrings } from '../../../lib/i18n/city-slug-diving-snorkeling';
 
 interface Activity {
   name: string;
@@ -56,7 +58,8 @@ function TypeBadge({ type }: { type: string }) {
 }
 
 export default function DivingSnorkelingPage({ city, divingData }: Props) {
-  if (!city) return <div>Not found</div>;
+  const t = useT(i18nStrings);
+  if (!city) return <div>{t("s001_not_found")}</div>;
 
   const breadcrumbs = [
     ...generateBreadcrumbs(city),
@@ -164,7 +167,7 @@ export default function DivingSnorkelingPage({ city, divingData }: Props) {
                     </div>
                   </div>
                   <div className="text-right">
-                    <div className="text-sm text-gray-500">Planning fit</div>
+                    <div className="text-sm text-gray-500">{t("s002_planning_fit")}</div>
                     <div className="text-lg font-bold text-gray-900">{activity.priceTier || 'General'}</div>
                   </div>
                 </div>
@@ -228,15 +231,15 @@ export default function DivingSnorkelingPage({ city, divingData }: Props) {
               </div>
               <div className="bg-white rounded-2xl p-4 text-center shadow-md">
                 <div className="text-3xl font-bold text-thailand-blue">{new Set((divingData?.classes || []).map(c => c.type)).size}</div>
-                <div className="text-sm text-gray-600">Experience Types</div>
+                <div className="text-sm text-gray-600">{t("s003_experience_types")}</div>
               </div>
               <div className="bg-white rounded-2xl p-4 text-center shadow-md">
                 <div className="text-3xl font-bold text-thailand-blue">{new Set((divingData?.classes || []).map(c => c.duration)).size}</div>
-                <div className="text-sm text-gray-600">Trip Formats</div>
+                <div className="text-sm text-gray-600">{t("s004_trip_formats")}</div>
               </div>
               <div className="bg-white rounded-2xl p-4 text-center shadow-md">
                 <div className="text-3xl font-bold text-thailand-blue">{hasLocalOptions ? 'Strong' : 'Limited'}</div>
-                <div className="text-sm text-gray-600">Local Fit</div>
+                <div className="text-sm text-gray-600">{t("s005_local_fit")}</div>
               </div>
             </div>
 
@@ -248,7 +251,7 @@ export default function DivingSnorkelingPage({ city, divingData }: Props) {
               <p className="text-gray-700 leading-relaxed">{introText}</p>
               {!hasLocalOptions && (
                 <div className="mt-6 rounded-2xl bg-amber-50 p-5 text-amber-900">
-                  <h3 className="text-lg font-bold font-heading mb-2">Limited local fit</h3>
+                  <h3 className="text-lg font-bold font-heading mb-2">{t("s006_limited_local_fit")}</h3>
                   <p className="text-sm leading-6">{editorialPositioning}</p>
                 </div>
               )}
@@ -317,15 +320,15 @@ export default function DivingSnorkelingPage({ city, divingData }: Props) {
                 <div className="grid grid-cols-1 md:grid-cols-3 gap-4">
                   <Link href={`/city/${city.slug}/attractions/`} className="rounded-2xl border border-gray-100 bg-surface-cream p-4 hover:shadow-md transition-all duration-300">
                     <h3 className="font-semibold text-gray-900 mb-1">Attractions</h3>
-                    <p className="text-sm text-gray-600">Better context for an inland city.</p>
+                    <p className="text-sm text-gray-600">{t("s007_better_context_for_an")}</p>
                   </Link>
                   <Link href="/city/phuket/diving-snorkeling/" className="rounded-2xl border border-gray-100 bg-surface-cream p-4 hover:shadow-md transition-all duration-300">
-                    <h3 className="font-semibold text-gray-900 mb-1">Phuket marine trips</h3>
-                    <p className="text-sm text-gray-600">A much stronger water-activity base.</p>
+                    <h3 className="font-semibold text-gray-900 mb-1">{t("s008_phuket_marine_trips")}</h3>
+                    <p className="text-sm text-gray-600">{t("s009_a_much_stronger_water")}</p>
                   </Link>
                   <Link href="/city/krabi/diving-snorkeling/" className="rounded-2xl border border-gray-100 bg-surface-cream p-4 hover:shadow-md transition-all duration-300">
-                    <h3 className="font-semibold text-gray-900 mb-1">Krabi marine trips</h3>
-                    <p className="text-sm text-gray-600">Another strong coastal alternative.</p>
+                    <h3 className="font-semibold text-gray-900 mb-1">{t("s010_krabi_marine_trips")}</h3>
+                    <p className="text-sm text-gray-600">{t("s011_another_strong_coastal_alternative")}</p>
                   </Link>
                 </div>
               </div>
@@ -350,7 +353,7 @@ export default function DivingSnorkelingPage({ city, divingData }: Props) {
 
             {/* FAQ */}
             <div className="bg-white rounded-2xl shadow-md p-8 mb-12">
-              <h2 className="text-2xl font-bold font-heading text-gray-900 mb-6">Frequently Asked Questions</h2>
+              <h2 className="text-2xl font-bold font-heading text-gray-900 mb-6">{t("s012_frequently_asked_questions")}</h2>
               <div className="space-y-6">
                 {faqItems.map((item, i) => (
                   <div key={i}>
@@ -370,19 +373,19 @@ export default function DivingSnorkelingPage({ city, divingData }: Props) {
                 <Link href={`/city/${city.slug}/attractions/`} className="flex items-center p-4 border-0 bg-surface-cream rounded-2xl hover:shadow-md transition-all duration-300">
                   <div>
                     <h4 className="font-semibold text-gray-900">Attractions</h4>
-                    <p className="text-gray-600 text-sm">Top things to see</p>
+                    <p className="text-gray-600 text-sm">{t("s013_top_things_to_see")}</p>
                   </div>
                 </Link>
                 <Link href={`/city/${city.slug}/elephant-sanctuaries/`} className="flex items-center p-4 border-0 bg-surface-cream rounded-2xl hover:shadow-md transition-all duration-300">
                   <div>
-                    <h4 className="font-semibold text-gray-900">Elephant Sanctuaries</h4>
-                    <p className="text-gray-600 text-sm">Ethical elephant experiences</p>
+                    <h4 className="font-semibold text-gray-900">{t("s014_elephant_sanctuaries")}</h4>
+                    <p className="text-gray-600 text-sm">{t("s015_ethical_elephant_experiences")}</p>
                   </div>
                 </Link>
                 <Link href={`/city/${city.slug}/hotels/`} className="flex items-center p-4 border-0 bg-surface-cream rounded-2xl hover:shadow-md transition-all duration-300">
                   <div>
                     <h4 className="font-semibold text-gray-900">Hotels</h4>
-                    <p className="text-gray-600 text-sm">Where to stay</p>
+                    <p className="text-gray-600 text-sm">{t("s016_where_to_stay")}</p>
                   </div>
                 </Link>
               </div>

@@ -1,3 +1,5 @@
+import { useT } from '../../lib/i18n';
+import { strings as i18nStrings } from '../../lib/i18n/thailand-in-month';
 import { GetStaticProps, GetStaticPaths } from 'next';
 import { useRouter } from 'next/router';
 import SEOHead from '../../components/SEOHead';
@@ -45,6 +47,7 @@ interface MonthlyPageProps {
 }
 
 export default function ThailandMonthlyPage({ guide, previousMonth, nextMonth, popularCities }: MonthlyPageProps) {
+  const t = useT(i18nStrings);
   const { locale } = useRouter();
   const isNl = locale === 'nl';
 
@@ -205,17 +208,17 @@ export default function ThailandMonthlyPage({ guide, previousMonth, nextMonth, p
                     <div className="text-center">
                       <h3 className="font-semibold font-heading text-gray-900 mb-2">{isNl ? 'Noord-Thailand' : 'Northern Thailand'}</h3>
                       <div className="text-2xl font-bold text-thailand-blue">{guide.weather.temperature.north}</div>
-                      <p className="text-sm text-gray-600 mt-1">Chiang Mai, Chiang Rai</p>
+                      <p className="text-sm text-gray-600 mt-1">{t("s001_chiang_mai_chiang_rai")}</p>
                     </div>
                     <div className="text-center">
                       <h3 className="font-semibold font-heading text-gray-900 mb-2">{isNl ? 'Centraal-Thailand' : 'Central Thailand'}</h3>
                       <div className="text-2xl font-bold text-thailand-blue">{guide.weather.temperature.central}</div>
-                      <p className="text-sm text-gray-600 mt-1">Bangkok, Ayutthaya</p>
+                      <p className="text-sm text-gray-600 mt-1">{t("s002_bangkok_ayutthaya")}</p>
                     </div>
                     <div className="text-center">
                       <h3 className="font-semibold font-heading text-gray-900 mb-2">{isNl ? 'Zuid-Thailand' : 'Southern Thailand'}</h3>
                       <div className="text-2xl font-bold text-thailand-blue">{guide.weather.temperature.south}</div>
-                      <p className="text-sm text-gray-600 mt-1">Phuket, Krabi, Koh Samui</p>
+                      <p className="text-sm text-gray-600 mt-1">{t("s003_phuket_krabi_koh_samui")}</p>
                     </div>
                   </div>
                   

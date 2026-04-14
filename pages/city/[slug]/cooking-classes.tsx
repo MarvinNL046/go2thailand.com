@@ -6,6 +6,8 @@ import Breadcrumbs from '../../../components/Breadcrumbs';
 import SEOHead from '../../../components/SEOHead';
 import CityExploreMore from '../../../components/CityExploreMore';
 import CitySupportSources from '../../../components/CitySupportSources';
+import { useT } from '../../../lib/i18n';
+import { strings as i18nStrings } from '../../../lib/i18n/city-slug-cooking-classes';
 
 interface CookingClass {
   name: string;
@@ -46,7 +48,8 @@ interface Props {
 }
 
 export default function CookingClassesPage({ city, cookingData }: Props) {
-  if (!city) return <div>Not found</div>;
+  const t = useT(i18nStrings);
+  if (!city) return <div>{t("s001_not_found")}</div>;
 
   const breadcrumbs = [
     ...generateBreadcrumbs(city),
@@ -213,19 +216,19 @@ export default function CookingClassesPage({ city, cookingData }: Props) {
             <div className="grid grid-cols-2 md:grid-cols-4 gap-4 mb-12">
               <div className="bg-white rounded-2xl p-4 text-center shadow-md">
                 <div className="text-3xl font-bold text-thailand-blue">{cookingClasses.length}</div>
-                <div className="text-sm text-gray-600">Classes Available</div>
+                <div className="text-sm text-gray-600">{t("s002_classes_available")}</div>
               </div>
               <div className="bg-white rounded-2xl p-4 text-center shadow-md">
                 <div className="text-3xl font-bold text-thailand-blue">{new Set(cookingClasses.map(c => c.duration)).size}</div>
-                <div className="text-sm text-gray-600">Duration Formats</div>
+                <div className="text-sm text-gray-600">{t("s003_duration_formats")}</div>
               </div>
               <div className="bg-white rounded-2xl p-4 text-center shadow-md">
                 <div className="text-3xl font-bold text-thailand-blue">{new Set(cookingClasses.map(c => c.groupSize)).size}</div>
-                <div className="text-sm text-gray-600">Group Styles</div>
+                <div className="text-sm text-gray-600">{t("s004_group_styles")}</div>
               </div>
               <div className="bg-white rounded-2xl p-4 text-center shadow-md">
                 <div className="text-3xl font-bold text-thailand-blue">{hasLocalOptions ? 'Strong' : 'Limited'}</div>
-                <div className="text-sm text-gray-600">Local Fit</div>
+                <div className="text-sm text-gray-600">{t("s005_local_fit")}</div>
               </div>
             </div>
 
@@ -237,7 +240,7 @@ export default function CookingClassesPage({ city, cookingData }: Props) {
               <p className="text-gray-700 leading-relaxed">{introText}</p>
               {!hasLocalOptions && (
                 <div className="mt-6 rounded-2xl bg-amber-50 p-5 text-amber-900">
-                  <h3 className="text-lg font-bold font-heading mb-2">Limited local fit</h3>
+                  <h3 className="text-lg font-bold font-heading mb-2">{t("s006_limited_local_fit")}</h3>
                   <p className="text-sm leading-6">{editorialPositioning}</p>
                 </div>
               )}
@@ -279,7 +282,7 @@ export default function CookingClassesPage({ city, cookingData }: Props) {
                           </div>
                         </div>
                           <div className="text-right">
-                            <div className="text-sm text-gray-500">Planning fit</div>
+                            <div className="text-sm text-gray-500">{t("s007_planning_fit")}</div>
                             <div className="text-lg font-bold text-gray-900">{cls.priceTier || 'General'}</div>
                           </div>
                         </div>
@@ -340,16 +343,16 @@ export default function CookingClassesPage({ city, cookingData }: Props) {
                 </p>
                 <div className="grid grid-cols-1 md:grid-cols-3 gap-4">
                   <Link href={`/city/${city.slug}/food/`} className="rounded-2xl border border-gray-100 bg-surface-cream p-4 hover:shadow-md transition-all duration-300">
-                    <h3 className="font-semibold text-gray-900 mb-1">Food & Dining</h3>
-                    <p className="text-sm text-gray-600">Pair a class with better local eating context.</p>
+                    <h3 className="font-semibold text-gray-900 mb-1">{t("s008_food_dining")}</h3>
+                    <p className="text-sm text-gray-600">{t("s009_pair_a_class_with")}</p>
                   </Link>
                   <Link href={`/city/${city.slug}/hotels/`} className="rounded-2xl border border-gray-100 bg-surface-cream p-4 hover:shadow-md transition-all duration-300">
                     <h3 className="font-semibold text-gray-900 mb-1">Hotels</h3>
-                    <p className="text-sm text-gray-600">Choose a base that fits your class schedule.</p>
+                    <p className="text-sm text-gray-600">{t("s010_choose_a_base_that")}</p>
                   </Link>
                   <Link href={`/city/${city.slug}/attractions/`} className="rounded-2xl border border-gray-100 bg-surface-cream p-4 hover:shadow-md transition-all duration-300">
                     <h3 className="font-semibold text-gray-900 mb-1">Attractions</h3>
-                    <p className="text-sm text-gray-600">Round out the day with a Bangkok sightseeing plan.</p>
+                    <p className="text-sm text-gray-600">{t("s011_round_out_the_day")}</p>
                   </Link>
                 </div>
               </div>
@@ -364,11 +367,11 @@ export default function CookingClassesPage({ city, cookingData }: Props) {
                 <div className="grid grid-cols-1 md:grid-cols-2 gap-4">
                   <Link href={`/city/${city.slug}/food/`} className="rounded-2xl border border-gray-100 bg-surface-cream p-4 hover:shadow-md transition-all duration-300">
                     <h3 className="font-semibold text-gray-900 mb-1">Food & Dining in {city.name.en}</h3>
-                    <p className="text-sm text-gray-600">Stronger local fit than cooking classes.</p>
+                    <p className="text-sm text-gray-600">{t("s012_stronger_local_fit_than")}</p>
                   </Link>
                   <Link href={`/city/${city.slug}/attractions/`} className="rounded-2xl border border-gray-100 bg-surface-cream p-4 hover:shadow-md transition-all duration-300">
                     <h3 className="font-semibold text-gray-900 mb-1">Attractions in {city.name.en}</h3>
-                    <p className="text-sm text-gray-600">Heritage planning with the highest local payoff.</p>
+                    <p className="text-sm text-gray-600">{t("s013_heritage_planning_with_the")}</p>
                   </Link>
                 </div>
               </div>
@@ -440,19 +443,19 @@ export default function CookingClassesPage({ city, cookingData }: Props) {
                 <Link href={`/city/${city.slug}/attractions/`} className="flex items-center p-4 border-0 bg-surface-cream rounded-2xl hover:shadow-md transition-all duration-300">
                   <div>
                     <h4 className="font-semibold text-gray-900">Attractions</h4>
-                    <p className="text-gray-600 text-sm">Top things to see</p>
+                    <p className="text-gray-600 text-sm">{t("s014_top_things_to_see")}</p>
                   </div>
                 </Link>
                 <Link href={`/city/${city.slug}/food/`} className="flex items-center p-4 border-0 bg-surface-cream rounded-2xl hover:shadow-md transition-all duration-300">
                   <div>
-                    <h4 className="font-semibold text-gray-900">Food & Dining</h4>
-                    <p className="text-gray-600 text-sm">Local cuisine guide</p>
+                    <h4 className="font-semibold text-gray-900">{t("s008_food_dining")}</h4>
+                    <p className="text-gray-600 text-sm">{t("s016_local_cuisine_guide")}</p>
                   </div>
                 </Link>
                 <Link href={`/city/${city.slug}/hotels/`} className="flex items-center p-4 border-0 bg-surface-cream rounded-2xl hover:shadow-md transition-all duration-300">
                   <div>
                     <h4 className="font-semibold text-gray-900">Hotels</h4>
-                    <p className="text-gray-600 text-sm">Where to stay</p>
+                    <p className="text-gray-600 text-sm">{t("s017_where_to_stay")}</p>
                   </div>
                 </Link>
               </div>

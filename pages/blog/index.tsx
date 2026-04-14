@@ -21,6 +21,8 @@ import {
 } from '../../lib/affiliates';
 import { getAllPosts, getAllCategories } from '../../lib/blog';
 import { useSubId } from '../../lib/useSubId';
+import { useT } from '../../lib/i18n';
+import { strings as i18nStrings } from '../../lib/i18n/blog-index';
 
 interface BlogPost {
   slug: string;
@@ -41,6 +43,7 @@ interface BlogPageProps {
 }
 
 export default function BlogPage({ posts, categories }: BlogPageProps) {
+  const t = useT(i18nStrings);
   const [selectedCategory, setSelectedCategory] = useState<string>('all');
   const [searchQuery, setSearchQuery] = useState('');
   const [currentPage, setCurrentPage] = useState(1);
@@ -103,10 +106,10 @@ export default function BlogPage({ posts, categories }: BlogPageProps) {
   return (
     <>
       <SEOHead
-        title="Thailand Travel Blog | Tips, Guides & Stories | Go2Thailand"
-        description="Explore Thailand through our travel blog. Get insider tips, destination guides, food recommendations, and travel stories from the Land of Smiles."
+        title={t("s001_thailand_travel_blog_tips")}
+        description={t("s002_explore_thailand_through_our")}
       >
-        <meta name="keywords" content="Thailand travel blog, Thailand tips, Thailand guides, Thai culture, Thailand stories" />
+        <meta name="keywords" content={t("s003_thailand_travel_blog_thailand")} />
         <script
           type="application/ld+json"
           dangerouslySetInnerHTML={{ __html: JSON.stringify(jsonLd) }}
@@ -281,7 +284,7 @@ export default function BlogPage({ posts, categories }: BlogPageProps) {
 
                 {/* Pagination */}
                 {totalPages > 1 && (
-                  <nav aria-label="Blog pagination" className="flex items-center justify-center gap-2 mt-10">
+                  <nav aria-label={t("s004_blog_pagination")} className="flex items-center justify-center gap-2 mt-10">
                     <button
                       onClick={() => { setCurrentPage(p => Math.max(1, p - 1)); window.scrollTo({ top: 0, behavior: 'smooth' }); }}
                       disabled={currentPage === 1}
@@ -403,7 +406,7 @@ export default function BlogPage({ posts, categories }: BlogPageProps) {
                       Trip.com
                     </a>
                   </div>
-                  <p className="text-xs text-gray-500 mt-3 text-center">Affiliate links</p>
+                  <p className="text-xs text-gray-500 mt-3 text-center">{t("s005_affiliate_links")}</p>
                 </div>
 
                 {/* Tours & Activities */}
@@ -416,7 +419,7 @@ export default function BlogPage({ posts, categories }: BlogPageProps) {
                       rel="noopener noreferrer"
                       className="block bg-thailand-red text-white text-center px-4 py-2 rounded-xl font-semibold hover:bg-thailand-red/90 transition-colors text-sm"
                     >
-                      Klook Activities
+                      {t("s006_klook_activities")}
                     </a>
                     <a
                       href={trackAffiliate(GYG_GENERIC, 'sidebar-tours-secondary')}
@@ -424,15 +427,15 @@ export default function BlogPage({ posts, categories }: BlogPageProps) {
                       rel="noopener noreferrer"
                       className="block bg-thailand-red text-white text-center px-4 py-2 rounded-xl font-semibold hover:bg-thailand-red/90 transition-colors text-sm"
                     >
-                      GetYourGuide Tours
+                      {t("s007_getyourguide_tours")}
                     </a>
                   </div>
-                  <p className="text-xs text-gray-500 mt-3 text-center">Affiliate links</p>
+                  <p className="text-xs text-gray-500 mt-3 text-center">{t("s005_affiliate_links")}</p>
                 </div>
 
                 {/* eSIM */}
                 <div className="bg-white rounded-2xl shadow-md p-6">
-                  <h3 className="text-xl font-bold font-heading mb-2">Thailand eSIM</h3>
+                  <h3 className="text-xl font-bold font-heading mb-2">{t("s009_thailand_esim")}</h3>
                   <p className="text-sm text-gray-600 mb-4">
                     {locale === 'nl' ? 'Blijf verbonden in Thailand. Bestel je eSIM voordat je gaat.' : 'Stay connected in Thailand. Order your eSIM before you go.'}
                   </p>
@@ -442,7 +445,7 @@ export default function BlogPage({ posts, categories }: BlogPageProps) {
                     rel="noopener noreferrer"
                     className="block bg-thailand-blue text-white text-center px-4 py-2 rounded-xl font-semibold hover:bg-thailand-blue/90 transition-colors mb-2"
                   >
-                    Saily eSIM
+                    {t("s010_saily_esim")}
                   </a>
                   <Link href="/esim/" className="block text-thailand-blue text-center text-sm hover:underline">
                     {locale === 'nl' ? 'Meer eSIM opties' : 'More eSIM options'} →

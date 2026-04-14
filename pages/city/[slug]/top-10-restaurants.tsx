@@ -1,3 +1,5 @@
+import { useT } from '../../../lib/i18n';
+import { strings as i18nStrings } from '../../../lib/i18n/city-slug-top-10-restaurants';
 import { GetStaticProps, GetStaticPaths } from 'next';
 import { useRouter } from 'next/router';
 import Link from 'next/link';
@@ -75,10 +77,11 @@ interface Top10RestaurantsPageProps {
 }
 
 export default function Top10RestaurantsPage({ city, restaurantsData, editorial }: Top10RestaurantsPageProps) {
+  const t = useT(i18nStrings);
   const { locale } = useRouter();
   const isNl = locale === 'nl';
 
-  if (!city) return <div>City not found</div>;
+  if (!city) return <div>{t("s001_city_not_found")}</div>;
 
   const breadcrumbs = [
     ...generateBreadcrumbs(city),
@@ -178,7 +181,7 @@ export default function Top10RestaurantsPage({ city, restaurantsData, editorial 
             <Breadcrumbs items={breadcrumbs} />
 
             <div className="text-center max-w-4xl mx-auto">
-              <span className="section-label">Top 10 Guide</span>
+              <span className="section-label">{t("s002_top_10_guide")}</span>
               <h1 className="text-4xl lg:text-5xl font-bold font-heading text-gray-900 mb-6">
                 {restaurantsData.title}
               </h1>
@@ -192,7 +195,7 @@ export default function Top10RestaurantsPage({ city, restaurantsData, editorial 
                 <div className="flex flex-wrap justify-center items-center gap-2 text-sm text-gray-500 mb-6">
                   {hasSources && (
                     <span className="bg-green-100 text-green-700 px-3 py-1 rounded-full">
-                      Primary sources linked below
+                      {t("s003_primary_sources_linked_below")}
                     </span>
                   )}
                   {reviewedLabel && (
@@ -229,7 +232,7 @@ export default function Top10RestaurantsPage({ city, restaurantsData, editorial 
 
                   {/* Quick Navigation */}
                   <div className="bg-white rounded-2xl shadow-md p-6">
-                    <h3 className="text-lg font-semibold font-heading text-gray-900 mb-4">Quick Jump</h3>
+                    <h3 className="text-lg font-semibold font-heading text-gray-900 mb-4">{t("s004_quick_jump")}</h3>
                     <div className="space-y-2">
                       {restaurantsData.items.slice(0, 5).map((item) => (
                         <a
@@ -245,32 +248,32 @@ export default function Top10RestaurantsPage({ city, restaurantsData, editorial 
 
                   {/* City Info */}
                   <div className="bg-white rounded-2xl shadow-md p-6">
-                    <h3 className="text-lg font-semibold font-heading text-gray-900 mb-4">Explore More</h3>
+                    <h3 className="text-lg font-semibold font-heading text-gray-900 mb-4">{t("s005_explore_more")}</h3>
                     <div className="space-y-3">
                       <Link href={`/city/${city.slug}/`} className="block text-thailand-blue hover:underline">
                         {city.name.en} Guide
                       </Link>
                       <Link href={`/city/${city.slug}/top-10-hotels/`} className="block text-thailand-blue hover:underline">
-                        Top 10 Hotels
+                        {t("s006_top_10_hotels")}
                       </Link>
                       <Link href={`/city/${city.slug}/top-10-attractions/`} className="block text-thailand-blue hover:underline">
-                        Top 10 Attractions
+                        {t("s007_top_10_attractions")}
                       </Link>
                     </div>
                   </div>
 
                   {/* Related Guides */}
                   <div className="bg-white rounded-2xl shadow-md p-6">
-                    <h3 className="text-lg font-semibold font-heading text-gray-900 mb-4">Related Guides</h3>
+                    <h3 className="text-lg font-semibold font-heading text-gray-900 mb-4">{t("s008_related_guides")}</h3>
                     <div className="space-y-3">
                       <Link href="/food/" className="block text-thailand-blue hover:underline">
-                        Thai Food Guide
+                        {t("s009_thai_food_guide")}
                       </Link>
                       <Link href="/best-cooking-classes-in-thailand/" className="block text-thailand-blue hover:underline">
-                        Cooking Classes
+                        {t("s010_cooking_classes")}
                       </Link>
                       <Link href="/drinks/" className="block text-thailand-blue hover:underline">
-                        Thai Drinks Guide
+                        {t("s011_thai_drinks_guide")}
                       </Link>
                     </div>
                   </div>
@@ -313,7 +316,7 @@ export default function Top10RestaurantsPage({ city, restaurantsData, editorial 
                                   target="_blank"
                                   rel="noopener noreferrer"
                                   className="inline-flex items-center text-sm text-gray-500 hover:text-thailand-blue transition-colors"
-                                  title="View on Google Maps"
+                                  title={t("s012_view_on_google_maps")}
                                 >
                                   <svg className="w-4 h-4 mr-1" viewBox="0 0 24 24" fill="currentColor">
                                     <path d="M12 2C8.13 2 5 5.13 5 9c0 5.25 7 13 7 13s7-7.75 7-13c0-3.87-3.13-7-7-7zm0 9.5c-1.38 0-2.5-1.12-2.5-2.5s1.12-2.5 2.5-2.5 2.5 1.12 2.5 2.5-1.12 2.5-2.5 2.5z"/>
@@ -378,14 +381,14 @@ export default function Top10RestaurantsPage({ city, restaurantsData, editorial 
                       Planning Your Trip to {city.name.en}?
                     </h3>
                     <p className="text-gray-600 mb-6">
-                      Get the complete guide with attractions, hotels, and more insider tips.
+                      {t("s013_get_the_complete_guide")}
                     </p>
                     <div className="flex flex-col sm:flex-row gap-4 justify-center">
                       <Link href={`/city/${city.slug}/`} className="btn-primary">
                         Complete {city.name.en} Guide
                       </Link>
                       <Link href={`/city/${city.slug}/top-10-hotels/`} className="btn-secondary">
-                        Top 10 Hotels
+                        {t("s006_top_10_hotels")}
                       </Link>
                     </div>
                   </div>
@@ -393,7 +396,7 @@ export default function Top10RestaurantsPage({ city, restaurantsData, editorial 
                   {/* Related Guides */}
                   <div className="bg-white rounded-2xl shadow-md p-8">
                     <h3 className="text-xl font-bold font-heading text-gray-900 mb-4">
-                      Explore Thai Food &amp; Drink
+                      {t("s015_explore_thai_food_amp")}
                     </h3>
                     <div className="grid sm:grid-cols-3 gap-4">
                       <Link
@@ -401,27 +404,27 @@ export default function Top10RestaurantsPage({ city, restaurantsData, editorial 
                         className="bg-surface-cream rounded-xl p-4 hover:shadow-md transition-shadow group"
                       >
                         <h4 className="font-semibold text-gray-900 group-hover:text-thailand-blue transition-colors mb-1">
-                          Thai Food Guide
+                          {t("s009_thai_food_guide")}
                         </h4>
-                        <p className="text-sm text-gray-500">Dishes, flavours &amp; where to eat →</p>
+                        <p className="text-sm text-gray-500">{t("s017_dishes_flavours_amp_where")}</p>
                       </Link>
                       <Link
                         href="/best-cooking-classes-in-thailand/"
                         className="bg-surface-cream rounded-xl p-4 hover:shadow-md transition-shadow group"
                       >
                         <h4 className="font-semibold text-gray-900 group-hover:text-thailand-blue transition-colors mb-1">
-                          Cooking Classes
+                          {t("s010_cooking_classes")}
                         </h4>
-                        <p className="text-sm text-gray-500">Learn to cook Thai food →</p>
+                        <p className="text-sm text-gray-500">{t("s019_learn_to_cook_thai")}</p>
                       </Link>
                       <Link
                         href="/drinks/"
                         className="bg-surface-cream rounded-xl p-4 hover:shadow-md transition-shadow group"
                       >
                         <h4 className="font-semibold text-gray-900 group-hover:text-thailand-blue transition-colors mb-1">
-                          Thai Drinks Guide
+                          {t("s011_thai_drinks_guide")}
                         </h4>
-                        <p className="text-sm text-gray-500">What to drink in Thailand →</p>
+                        <p className="text-sm text-gray-500">{t("s021_what_to_drink_in")}</p>
                       </Link>
                     </div>
                   </div>
@@ -429,7 +432,7 @@ export default function Top10RestaurantsPage({ city, restaurantsData, editorial 
                   {restaurantsData.content_sources && restaurantsData.content_sources.length > 0 && (
                     <div className="bg-white rounded-2xl shadow-md p-8">
                       <h3 className="text-xl font-bold font-heading text-gray-900 mb-4">
-                        Sources &amp; References
+                        {t("s022_sources_amp_references")}
                       </h3>
                       <div className="space-y-3">
                         {restaurantsData.content_sources.map((source, index) => (

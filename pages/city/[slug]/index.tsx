@@ -20,6 +20,8 @@ import TravelpayoutsRecoveryPanel from '../../../components/TravelpayoutsRecover
 import { TWELVEGO_GENERIC, withPlacementSubId } from '../../../lib/affiliates';
 import { useSubId } from '../../../lib/useSubId';
 import transportRoutes from '../../../data/transport-routes.json';
+import { useT } from '../../../lib/i18n';
+import { strings as i18nStrings } from '../../../lib/i18n/city-slug-index';
 
 interface City {
   id: number;
@@ -233,6 +235,7 @@ interface CityPageProps {
 }
 
 export default function CityPage({ city, relatedCities, comparisons, transportLinks, editorial }: CityPageProps) {
+  const t = useT(i18nStrings);
   const router = useRouter();
   const { locale = 'en' } = router;
   const subId = useSubId();
@@ -248,7 +251,7 @@ export default function CityPage({ city, relatedCities, comparisons, transportLi
   const { content: translatedContent, loading: translationLoading } = useTranslatedContent('city', city?.slug);
   
   if (!city) {
-    return <div>City not found</div>;
+    return <div>{t("s001_city_not_found")}</div>;
   }
 
   // Merge translated content with base city data
@@ -456,7 +459,7 @@ export default function CityPage({ city, relatedCities, comparisons, transportLi
                     {city.province} Province
                   </span>
                 </div>
-                <span className="font-script text-thailand-gold text-lg mb-2 block">Travel Guide</span>
+                <span className="font-script text-thailand-gold text-lg mb-2 block">{t("s002_travel_guide")}</span>
                 <h1 className="font-heading text-4xl lg:text-6xl font-bold mb-4">
                   {cityName}
                 </h1>
@@ -584,7 +587,7 @@ export default function CityPage({ city, relatedCities, comparisons, transportLi
                             {gem.how_to_find && (
                               <div className="bg-slate-50 rounded-2xl p-4 border border-slate-100">
                                 <p className="text-sm text-gray-600">
-                                  <span className="font-medium">How to find:</span> {gem.how_to_find}
+                                  <span className="font-medium">{t("s003_how_to_find")}</span> {gem.how_to_find}
                                 </p>
                               </div>
                             )}
@@ -592,7 +595,7 @@ export default function CityPage({ city, relatedCities, comparisons, transportLi
                             {gem.best_time && (
                               <div className="bg-slate-50 rounded-2xl p-4 border border-slate-100">
                                 <p className="text-sm text-gray-600">
-                                  <span className="font-medium">Best time:</span> {gem.best_time}
+                                  <span className="font-medium">{t("s004_best_time")}</span> {gem.best_time}
                                 </p>
                               </div>
                             )}
@@ -717,14 +720,14 @@ export default function CityPage({ city, relatedCities, comparisons, transportLi
                               <div className="grid grid-cols-1 md:grid-cols-2 gap-4">
                                 {experience.cultural_significance && (
                                   <div className="bg-slate-50 rounded-2xl p-4 border border-slate-100">
-                                    <h4 className="font-semibold text-gray-900 mb-2">Cultural Significance</h4>
+                                    <h4 className="font-semibold text-gray-900 mb-2">{t("s005_cultural_significance")}</h4>
                                     <p className="text-sm text-gray-600">{experience.cultural_significance}</p>
                                   </div>
                                 )}
 
                                 {experience.how_to_participate && (
                                   <div className="bg-slate-50 rounded-2xl p-4 border border-slate-100">
-                                    <h4 className="font-semibold text-gray-900 mb-2">How to Participate</h4>
+                                    <h4 className="font-semibold text-gray-900 mb-2">{t("s006_how_to_participate")}</h4>
                                     <p className="text-sm text-gray-600">{experience.how_to_participate}</p>
                                   </div>
                                 )}
@@ -732,7 +735,7 @@ export default function CityPage({ city, relatedCities, comparisons, transportLi
                               
                               {experience.insights && experience.insights.length > 0 && (
                                 <div className="mt-4">
-                                  <h4 className="font-semibold text-gray-900 mb-2">Insider Tips</h4>
+                                  <h4 className="font-semibold text-gray-900 mb-2">{t("s007_insider_tips")}</h4>
                                   <div className="flex flex-wrap gap-2">
                                     {experience.insights.map((insight, i) => (
                                       <span key={i} className="rounded-full border border-gray-200 bg-white px-3 py-1 text-sm font-medium text-gray-700">
@@ -814,7 +817,7 @@ export default function CityPage({ city, relatedCities, comparisons, transportLi
 
                                   {attraction.entrance_fee && (
                                     <div className="bg-slate-50 rounded-2xl p-4 border border-slate-100">
-                                      <h4 className="text-xs font-semibold uppercase tracking-wide text-gray-500 mb-1">Typical Entry</h4>
+                                      <h4 className="text-xs font-semibold uppercase tracking-wide text-gray-500 mb-1">{t("s008_typical_entry")}</h4>
                                       <p className="text-sm text-gray-700">{attraction.entrance_fee}</p>
                                     </div>
                                   )}
@@ -888,7 +891,7 @@ export default function CityPage({ city, relatedCities, comparisons, transportLi
                         </div>
                         <div>
                           <div className="text-xs font-semibold uppercase tracking-[0.18em] text-thailand-red/70 mb-1">Food</div>
-                          <span className="font-medium text-gray-800 text-sm">Top 10 Restaurants</span>
+                          <span className="font-medium text-gray-800 text-sm">{t("s009_top_10_restaurants")}</span>
                         </div>
                       </div>
                     </Link>
@@ -904,7 +907,7 @@ export default function CityPage({ city, relatedCities, comparisons, transportLi
                         </div>
                         <div>
                           <div className="text-xs font-semibold uppercase tracking-[0.18em] text-thailand-blue/70 mb-1">Stay</div>
-                          <span className="font-medium text-gray-800 text-sm">Top 10 Hotels</span>
+                          <span className="font-medium text-gray-800 text-sm">{t("s010_top_10_hotels")}</span>
                         </div>
                       </div>
                     </Link>
@@ -920,7 +923,7 @@ export default function CityPage({ city, relatedCities, comparisons, transportLi
                         </div>
                         <div>
                           <div className="text-xs font-semibold uppercase tracking-[0.18em] text-amber-700/80 mb-1">See</div>
-                          <span className="font-medium text-gray-800 text-sm">Top 10 Attractions</span>
+                          <span className="font-medium text-gray-800 text-sm">{t("s011_top_10_attractions")}</span>
                         </div>
                       </div>
                     </Link>
@@ -942,25 +945,25 @@ export default function CityPage({ city, relatedCities, comparisons, transportLi
                       href={`/city/${city.slug}/best-time-to-visit/`}
                       className="flex items-center gap-3 rounded-[24px] border border-gray-100 bg-slate-50/70 p-4 hover:-translate-y-1 hover:bg-white hover:shadow-md transition-all text-sm font-medium text-gray-800"
                     >
-                      <span className="text-lg">🗓️</span><span>Best Time</span>
+                      <span className="text-lg">🗓️</span><span>{t("s012_best_time")}</span>
                     </Link>
                     <Link
                       href={`/city/${city.slug}/budget/`}
                       className="flex items-center gap-3 rounded-[24px] border border-gray-100 bg-slate-50/70 p-4 hover:-translate-y-1 hover:bg-white hover:shadow-md transition-all text-sm font-medium text-gray-800"
                     >
-                      <span className="text-lg">💸</span><span>Budget Guide</span>
+                      <span className="text-lg">💸</span><span>{t("s013_budget_guide")}</span>
                     </Link>
                     <Link
                       href={`/city/${city.slug}/food/`}
                       className="flex items-center gap-3 rounded-[24px] border border-gray-100 bg-slate-50/70 p-4 hover:-translate-y-1 hover:bg-white hover:shadow-md transition-all text-sm font-medium text-gray-800"
                     >
-                      <span className="text-lg">🍽️</span><span>Where to Eat</span>
+                      <span className="text-lg">🍽️</span><span>{t("s014_where_to_eat")}</span>
                     </Link>
                     <Link
                       href={`/city/${city.slug}/hotels/`}
                       className="flex items-center gap-3 rounded-[24px] border border-gray-100 bg-slate-50/70 p-4 hover:-translate-y-1 hover:bg-white hover:shadow-md transition-all text-sm font-medium text-gray-800"
                     >
-                      <span className="text-lg">🛏️</span><span>Where to Stay</span>
+                      <span className="text-lg">🛏️</span><span>{t("s015_where_to_stay")}</span>
                     </Link>
                   </div>
                 </div>
@@ -983,8 +986,8 @@ export default function CityPage({ city, relatedCities, comparisons, transportLi
                     <div className={featureCardClass}>
                       <div className="absolute inset-x-0 top-0 h-1.5 bg-gradient-to-r from-thailand-red to-orange-400" />
                       <div className="relative text-left">
-                        <h3 className="font-semibold text-gray-900 mb-2">Flight + Hotel</h3>
-                        <p className="text-sm text-gray-600 leading-6 mb-4">Save time and often money by bundling the trip basics instead of booking each part separately.</p>
+                        <h3 className="font-semibold text-gray-900 mb-2">{t("s016_flight_hotel")}</h3>
+                        <p className="text-sm text-gray-600 leading-6 mb-4">{t("s017_save_time_and_often")}</p>
                         <a
                           href={trackAffiliate('https://trip.tpo.lv/iP1HSint', 'service-bundle')}
                           target="_blank"
@@ -1000,8 +1003,8 @@ export default function CityPage({ city, relatedCities, comparisons, transportLi
                     <div className={featureCardClass}>
                       <div className="absolute inset-x-0 top-0 h-1.5 bg-gradient-to-r from-thailand-blue to-cyan-400" />
                       <div className="relative text-left">
-                        <h3 className="font-semibold text-gray-900 mb-2">Airport Transfers</h3>
-                        <p className="text-sm text-gray-600 leading-6 mb-4">Useful if you want the easiest arrival flow instead of figuring out transport after a long flight.</p>
+                        <h3 className="font-semibold text-gray-900 mb-2">{t("s018_airport_transfers")}</h3>
+                        <p className="text-sm text-gray-600 leading-6 mb-4">{t("s019_useful_if_you_want")}</p>
                         <a
                           href={trackAffiliate('https://trip.tpo.lv/iP1HSint', 'service-transfer')}
                           target="_blank"
@@ -1017,7 +1020,7 @@ export default function CityPage({ city, relatedCities, comparisons, transportLi
                     <div className={featureCardClass}>
                       <div className="absolute inset-x-0 top-0 h-1.5 bg-gradient-to-r from-emerald-500 to-teal-400" />
                       <div className="relative text-left">
-                        <h3 className="font-semibold text-gray-900 mb-2">Car Rental</h3>
+                        <h3 className="font-semibold text-gray-900 mb-2">{t("s020_car_rental")}</h3>
                         <p className="text-sm text-gray-600 leading-6 mb-4">Mostly useful for arrival logistics, day trips, or onward travel beyond {city.name.en} itself.</p>
                         <a
                           href={trackAffiliate('https://trip.tpo.lv/fzIWyBhW', 'service-car-rental')}
@@ -1034,7 +1037,7 @@ export default function CityPage({ city, relatedCities, comparisons, transportLi
                     <div className={featureCardClass}>
                       <div className="absolute inset-x-0 top-0 h-1.5 bg-gradient-to-r from-violet-500 to-indigo-400" />
                       <div className="relative text-left">
-                        <h3 className="font-semibold text-gray-900 mb-2">Bus, Train & Ferry</h3>
+                        <h3 className="font-semibold text-gray-900 mb-2">{t("s021_bus_train_ferry")}</h3>
                         <p className="text-sm text-gray-600 leading-6 mb-4">Best when {city.name.en} is one stop in a broader Thailand route rather than the whole trip.</p>
                         <a
                           href={trackAffiliate(TWELVEGO_GENERIC, 'service-transport')}
@@ -1115,7 +1118,7 @@ export default function CityPage({ city, relatedCities, comparisons, transportLi
                       <div className="absolute inset-x-0 top-0 h-1.5 bg-gradient-to-r from-thailand-red to-orange-400" />
                       <div className="relative">
                         <div className="mb-2 text-xs font-semibold uppercase tracking-[0.18em] text-thailand-red/70">Marketplace</div>
-                        <h3 className="font-bold text-gray-900 mb-3">Klook Activities</h3>
+                        <h3 className="font-bold text-gray-900 mb-3">{t("s022_klook_activities")}</h3>
                       </div>
                       <div>
                         <p className="text-sm text-gray-600 leading-6 mb-4">
@@ -1144,7 +1147,7 @@ export default function CityPage({ city, relatedCities, comparisons, transportLi
                       <div className="absolute inset-x-0 top-0 h-1.5 bg-gradient-to-r from-thailand-blue to-cyan-400" />
                       <div className="relative">
                         <div className="mb-2 text-xs font-semibold uppercase tracking-[0.18em] text-thailand-blue/70">Marketplace</div>
-                        <h3 className="font-bold text-gray-900 mb-3">GetYourGuide Tours</h3>
+                        <h3 className="font-bold text-gray-900 mb-3">{t("s023_getyourguide_tours")}</h3>
                       </div>
                       <div>
                         <p className="text-sm text-gray-600 leading-6 mb-4">
@@ -1212,7 +1215,7 @@ export default function CityPage({ city, relatedCities, comparisons, transportLi
                                 {(food.where_to_find || food.location) && (
                                   <div className="bg-slate-50 rounded-2xl p-4 border border-slate-100">
                                     <p className="text-sm text-gray-600">
-                                      <span className="font-medium">Where to find:</span> {food.where_to_find || food.location}
+                                      <span className="font-medium">{t("s024_where_to_find")}</span> {food.where_to_find || food.location}
                                     </p>
                                   </div>
                                 )}
@@ -1220,7 +1223,7 @@ export default function CityPage({ city, relatedCities, comparisons, transportLi
                               
                               {food.ordering_tips && food.ordering_tips.length > 0 && (
                                 <div>
-                                  <h4 className="font-semibold text-gray-900 mb-2">Ordering Tips</h4>
+                                  <h4 className="font-semibold text-gray-900 mb-2">{t("s025_ordering_tips")}</h4>
                                   <div className="flex flex-wrap gap-2">
                                     {food.ordering_tips.map((tip, i) => (
                                       <span key={i} className="rounded-full border border-gray-200 bg-white px-3 py-1 text-sm text-gray-700">
@@ -1514,8 +1517,8 @@ export default function CityPage({ city, relatedCities, comparisons, transportLi
                           </svg>
                         </div>
                         <div>
-                          <div className="text-xs font-semibold uppercase tracking-[0.18em] text-thailand-blue/70">Read the city better</div>
-                          <h3 className="text-lg font-semibold text-gray-900">What Locals Want You to Know</h3>
+                          <div className="text-xs font-semibold uppercase tracking-[0.18em] text-thailand-blue/70">{t("s026_read_the_city_better")}</div>
+                          <h3 className="text-lg font-semibold text-gray-900">{t("s027_what_locals_want_you")}</h3>
                         </div>
                       </div>
                       <div className="grid grid-cols-1 md:grid-cols-2 gap-5">
@@ -1663,7 +1666,7 @@ export default function CityPage({ city, relatedCities, comparisons, transportLi
                             </svg>
                           </div>
                           <div className="mb-2 text-xs font-semibold uppercase tracking-[0.18em] text-thailand-blue/70">Taste</div>
-                          <h3 className="font-heading text-xl font-bold text-gray-900 mb-2">Food & Dining</h3>
+                          <h3 className="font-heading text-xl font-bold text-gray-900 mb-2">{t("s028_food_dining")}</h3>
                           <p className="text-gray-600 text-sm leading-6 mb-5 min-h-[72px]">
                             {city.categories.food.en}
                           </p>
@@ -1685,7 +1688,7 @@ export default function CityPage({ city, relatedCities, comparisons, transportLi
                             </svg>
                           </div>
                           <div className="mb-2 text-xs font-semibold uppercase tracking-[0.18em] text-emerald-700/80">Stay</div>
-                          <h3 className="font-heading text-xl font-bold text-gray-900 mb-2">Hotels & Stay</h3>
+                          <h3 className="font-heading text-xl font-bold text-gray-900 mb-2">{t("s029_hotels_stay")}</h3>
                           <p className="text-gray-600 text-sm leading-6 mb-5 min-h-[72px]">
                             {city.categories.hotels.en}
                           </p>
@@ -1730,7 +1733,7 @@ export default function CityPage({ city, relatedCities, comparisons, transportLi
                             </svg>
                           </div>
                           <div className="mb-2 text-xs font-semibold uppercase tracking-[0.18em] text-violet-700/80">Timing</div>
-                          <h3 className="font-heading text-xl font-bold text-gray-900 mb-2">Best Time to Visit</h3>
+                          <h3 className="font-heading text-xl font-bold text-gray-900 mb-2">{t("s030_best_time_to_visit")}</h3>
                           <p className="text-gray-600 text-sm leading-6 mb-5 min-h-[72px]">
                             Weather, seasons & festivals
                           </p>
@@ -1752,7 +1755,7 @@ export default function CityPage({ city, relatedCities, comparisons, transportLi
                             </svg>
                           </div>
                           <div className="mb-2 text-xs font-semibold uppercase tracking-[0.18em] text-amber-700/80">Costs</div>
-                          <h3 className="font-heading text-xl font-bold text-gray-900 mb-2">Budget Guide</h3>
+                          <h3 className="font-heading text-xl font-bold text-gray-900 mb-2">{t("s013_budget_guide")}</h3>
                           <p className="text-gray-600 text-sm leading-6 mb-5 min-h-[72px]">
                             Daily costs & money tips
                           </p>
@@ -1834,7 +1837,7 @@ export default function CityPage({ city, relatedCities, comparisons, transportLi
                       <span className="inline-flex items-center rounded-full bg-slate-100 px-3 py-1 text-xs font-semibold uppercase tracking-[0.18em] text-slate-700">
                         Transparency
                       </span>
-                      <h3 className="mt-3 text-2xl font-heading font-bold text-gray-900">Sources & References</h3>
+                      <h3 className="mt-3 text-2xl font-heading font-bold text-gray-900">{t("s032_sources_references")}</h3>
                       <p className="mt-2 max-w-3xl text-sm leading-6 text-gray-600">
                         This page is curated from official venue pages, museum and attraction sources, hotel and restaurant references, and direct planning resources. We use source-backed details for opening hours, entry notes, neighborhood fit, and practical trip planning.
                       </p>
@@ -1842,7 +1845,7 @@ export default function CityPage({ city, relatedCities, comparisons, transportLi
                     <div className="mb-5 rounded-[26px] border border-slate-100 bg-slate-50 px-5 py-5">
                       <div className="grid gap-4 md:grid-cols-4">
                         <div>
-                          <div className="text-xs font-semibold uppercase tracking-[0.18em] text-slate-500">Reviewed By</div>
+                          <div className="text-xs font-semibold uppercase tracking-[0.18em] text-slate-500">{t("s033_reviewed_by")}</div>
                           <div className="mt-1 text-sm font-semibold text-gray-900">{city.reviewed_by || 'Go2Thailand Editorial Team'}</div>
                         </div>
                         <div>
@@ -1850,12 +1853,12 @@ export default function CityPage({ city, relatedCities, comparisons, transportLi
                           <div className="mt-1 text-sm font-semibold text-gray-900">{reviewedDate || 'Editorial review in progress'}</div>
                         </div>
                         <div>
-                          <div className="text-xs font-semibold uppercase tracking-[0.18em] text-slate-500">Sources Used</div>
+                          <div className="text-xs font-semibold uppercase tracking-[0.18em] text-slate-500">{t("s034_sources_used")}</div>
                           <div className="mt-1 text-sm font-semibold text-gray-900">{city.contentSources.length} references on-page</div>
                         </div>
                         <div>
                           <div className="text-xs font-semibold uppercase tracking-[0.18em] text-slate-500">Method</div>
-                          <div className="mt-1 text-sm font-semibold text-gray-900">Curated manually, then checked against linked sources</div>
+                          <div className="mt-1 text-sm font-semibold text-gray-900">{t("s035_curated_manually_then_checked")}</div>
                         </div>
                       </div>
                     </div>
@@ -1899,7 +1902,7 @@ export default function CityPage({ city, relatedCities, comparisons, transportLi
                     </div>
                     <div>
                       <div className="text-xs font-semibold uppercase tracking-[0.18em] text-thailand-blue/70">Snapshot</div>
-                      <h3 className="font-heading text-xl font-bold text-gray-900">Quick Facts</h3>
+                      <h3 className="font-heading text-xl font-bold text-gray-900">{t("s036_quick_facts")}</h3>
                     </div>
                   </div>
                   <div className="space-y-3">
@@ -1941,7 +1944,7 @@ export default function CityPage({ city, relatedCities, comparisons, transportLi
                   <div className={`${sidebarPanelClass} mt-4`}>
                     <div className="mb-4">
                       <div className="text-xs font-semibold uppercase tracking-[0.18em] text-emerald-700">Booking</div>
-                      <h4 className="mt-1 text-base font-bold text-gray-900">Why Book with Trip.com?</h4>
+                      <h4 className="mt-1 text-base font-bold text-gray-900">{t("s037_why_book_with_trip")}</h4>
                     </div>
                     <div className="space-y-3 text-sm text-gray-600">
                       <div className="flex items-start rounded-2xl bg-emerald-50 px-3 py-2.5">
@@ -1985,7 +1988,7 @@ export default function CityPage({ city, relatedCities, comparisons, transportLi
                       </div>
                       <div>
                         <div className="text-xs font-semibold uppercase tracking-[0.18em] text-blue-600">Seasonality</div>
-                        <h3 className="font-heading text-xl font-bold text-gray-900">Best Time to Visit</h3>
+                        <h3 className="font-heading text-xl font-bold text-gray-900">{t("s030_best_time_to_visit")}</h3>
                       </div>
                     </div>
                     
@@ -2046,7 +2049,7 @@ export default function CityPage({ city, relatedCities, comparisons, transportLi
                   </div>
                 ) : city.best_time_to_visit ? (
                   <div className={sidebarPanelClass + " mb-8"}>
-                    <h3 className="font-heading text-xl font-bold text-gray-900 mb-4">Best Time to Visit</h3>
+                    <h3 className="font-heading text-xl font-bold text-gray-900 mb-4">{t("s030_best_time_to_visit")}</h3>
                     <div className="space-y-3">
                       <div>
                         <span className="font-medium text-thailand-blue">{city.best_time_to_visit.season}</span>
@@ -2068,7 +2071,7 @@ export default function CityPage({ city, relatedCities, comparisons, transportLi
                       </div>
                       <div>
                         <div className="text-xs font-semibold uppercase tracking-[0.18em] text-green-600">Costs</div>
-                        <h3 className="font-heading text-xl font-bold text-gray-900">Budget Reality</h3>
+                        <h3 className="font-heading text-xl font-bold text-gray-900">{t("s040_budget_reality")}</h3>
                       </div>
                     </div>
                     
@@ -2137,7 +2140,7 @@ export default function CityPage({ city, relatedCities, comparisons, transportLi
                   </div>
                 ) : city.budget_info?.daily_budget ? (
                   <div className={sidebarPanelClass + " mb-8"}>
-                    <h3 className="font-heading text-xl font-bold text-gray-900 mb-4">Daily Budget</h3>
+                    <h3 className="font-heading text-xl font-bold text-gray-900 mb-4">{t("s041_daily_budget")}</h3>
                     <div className="space-y-3">
                       <div className="flex justify-between">
                         <span className="text-gray-600">Budget:</span>
