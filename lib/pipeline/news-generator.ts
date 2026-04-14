@@ -23,6 +23,7 @@ import path from 'path';
 import { generateContent } from './ai-provider';
 import { scrapeUrl, scrapeTravelNews } from './scraper';
 import { getGoogleNews } from './serpapi';
+import { loadPipelineConfig } from './pipeline-config';
 
 // -------------------------------------------------------------------
 // Sources we poll for fresh Thailand news.
@@ -199,12 +200,13 @@ export async function harvestCandidates(): Promise<NewsCandidate[]> {
   const existing = existingNewsTitles();
   const candidates: NewsCandidate[] = [];
 
+  const cfg = loadPipelineConfig();
   // PRIMARY: Google News via SerpAPI (one query, ~20 fresh headlines from
   // many sources — much higher signal than scraping HTML pages and
   // counts as 1 SerpAPI call against our 250/month budget).
   if (process.env.SERPAPI_KEY) {
     try {
-      const articles = await getGoogleNews('Thailand', { hl: 'en', gl: 'us' });
+      const articles = await getGoogleNews(cfg.newsQuery, { hl: 'en', gl: 'us' });
       for (const a of articles.slice(0, 12)) {
         if (!a.title || !a.link) continue;
         if (fuzzyMatchExisting(a.title, existing)) continue;
@@ -227,7 +229,8 @@ export async function harvestCandidates(): Promise<NewsCandidate[]> {
   if (candidates.length > 0) return candidates;
 
   // FALLBACK: scrape source pages directly when SerpAPI is unavailable.
-  for (const sourceUrl of NEWS_SOURCES) {
+  const fallbackSources = cfg.scrapeNewsSources?.length ? cfg.scrapeNewsSources : NEWS_SOURCES;
+  for (const sourceUrl of fallbackSources) {
     try {
       const content = await scrapeUrl(sourceUrl);
       const headlines = extractHeadlinesFromContent(content, sourceUrl);

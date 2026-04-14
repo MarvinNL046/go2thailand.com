@@ -12,21 +12,7 @@
 import fs from 'fs';
 import path from 'path';
 import { getAutocompleteSuggestions } from './serpapi';
-
-const NL_SEEDS = [
-  'Thailand vakantie',
-  'Bangkok tips',
-  'Phuket',
-  'Chiang Mai',
-  'Thailand visa',
-];
-
-const EN_SEEDS = [
-  'Thailand travel',
-  'Bangkok',
-  'Thailand backpacker',
-  'Thailand digital nomad',
-];
+import { loadPipelineConfig } from './pipeline-config';
 
 export interface TopicSuggestion {
   seed: string;
@@ -43,8 +29,12 @@ export interface TopicSuggestionsFile {
 }
 
 export async function runTopicDiscovery(): Promise<TopicSuggestionsFile> {
+  const cfg = loadPipelineConfig();
   const collectedAt = new Date().toISOString();
   const suggestions: TopicSuggestion[] = [];
+
+  const NL_SEEDS = cfg.locales.includes('nl') ? (cfg.autocompleteSeeds.nl ?? []) : [];
+  const EN_SEEDS = cfg.autocompleteSeeds.en ?? [];
 
   // NL seeds
   for (const seed of NL_SEEDS) {
