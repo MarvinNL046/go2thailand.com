@@ -167,12 +167,23 @@ export interface Ga4Report {
 // Main entrypoint
 // -------------------------------------------------------------------
 
-export async function runGa4Monitor(opts: { days?: number } = {}): Promise<Ga4Report> {
+export async function runGa4Monitor(opts: { days?: number; hostname?: string } = {}): Promise<Ga4Report> {
   const propertyId = process.env.GA4_PROPERTY_ID;
   if (!propertyId) throw new Error('Missing GA4_PROPERTY_ID');
 
   const days = opts.days ?? 28;
+  const hostname = opts.hostname ?? process.env.GA4_HOSTNAME ?? 'go2-thailand.com';
   const period = { start: dateStr(days), end: dateStr(1), days };
+
+  // The GA4 property is shared across multiple sites. We filter every report
+  // by hostName so go2-thailand.com numbers are not polluted by other sites'
+  // /about and /contact pages.
+  const hostnameFilter = {
+    filter: {
+      fieldName: 'hostName',
+      stringFilter: { matchType: 'EXACT', value: hostname },
+    },
+  };
 
   // 1. Totals
   const totalsRes = await runReport(propertyId, {
@@ -183,6 +194,7 @@ export async function runGa4Monitor(opts: { days?: number } = {}): Promise<Ga4Re
       { name: 'userEngagementDuration' },
       { name: 'screenPageViews' },
     ],
+    dimensionFilter: hostnameFilter,
   });
   const tRow = totalsRes.rows?.[0];
   const totalSessions = num(tRow?.metricValues?.[0]);
@@ -203,6 +215,7 @@ export async function runGa4Monitor(opts: { days?: number } = {}): Promise<Ga4Re
     ],
     orderBys: [{ metric: { metricName: 'sessions' }, desc: true }],
     limit: '200',
+    dimensionFilter: hostnameFilter,
   });
 
   const pages: PageInsight[] = (pagesRes.rows || []).map(r => {

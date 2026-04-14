@@ -22,6 +22,7 @@ import { generateContent } from './ai-provider';
 import { generateBlogImage } from './image-generator';
 import { scrapeTopicContext } from './scraper';
 import { getSeasonalHook, renderSeasonalContextForPrompt } from './seasonal-context';
+import { pickFreshSuggestions } from './topic-discovery';
 
 // -------------------------------------------------------------------
 // Types
@@ -195,7 +196,18 @@ export function selectNlTopic(
     category = cats[0];
   }
 
-  // First unpublished topic in category, fallback to first overall unpublished.
+  // 1. Try Google Autocomplete suggestions first — these are real searches
+  //    Dutch travelers are doing right now. If we have any unpublished, use
+  //    one before falling back to the editorial topic bank.
+  const fresh = pickFreshSuggestions('nl', titles, 5);
+  if (fresh.length > 0) {
+    // Prepend a category-aware framing so the writer treats it as a topic,
+    // not just a bare search query.
+    const seed = fresh[0];
+    return { topic: capitalizeAsTitle(seed), category };
+  }
+
+  // 2. Fallback: first unpublished topic in category, fallback to first overall.
   const candidates = NL_TOPIC_BANK[category].filter(
     t => !titles.some(existing => existing === t.toLowerCase()),
   );
@@ -235,6 +247,13 @@ function loadNlSitemapLinks(maxLinks = 60): string {
 // -------------------------------------------------------------------
 // Slug generation
 // -------------------------------------------------------------------
+
+function capitalizeAsTitle(s: string): string {
+  // Autocomplete strings are usually lowercase; bump first letter and treat
+  // the rest as the article topic verbatim.
+  if (!s) return s;
+  return s.charAt(0).toUpperCase() + s.slice(1);
+}
 
 function slugify(title: string): string {
   return title
