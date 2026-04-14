@@ -3,8 +3,11 @@ import Link from 'next/link';
 import { useEffect } from 'react';
 import { useRouter } from 'next/router';
 import Breadcrumbs from '../components/Breadcrumbs';
+import { useT } from '../lib/i18n';
+import { strings as i18nStrings } from '../lib/i18n/privacy';
 
 export default function PrivacyPolicy() {
+  const t = useT(i18nStrings);
   const { locale } = useRouter();
   const isNl = locale === 'nl';
 
@@ -110,8 +113,8 @@ export default function PrivacyPolicy() {
                 </p>
                 <p className="mb-4">
                   {isNl
-                    ? <>U kunt meer leren over de praktijken van Google op{' '}<a href="https://policies.google.com/privacy" target="_blank" rel="noopener noreferrer" className="text-thailand-blue hover:underline">Google Privacybeleid</a>.</>
-                    : <>You can learn more about Google&apos;s practices at{' '}<a href="https://policies.google.com/privacy" target="_blank" rel="noopener noreferrer" className="text-thailand-blue hover:underline">Google Privacy Policy</a>.</>}
+                    ? <>U kunt meer leren over de praktijken van Google op{' '}<a href="https://policies.google.com/privacy" target="_blank" rel="noopener noreferrer" className="text-thailand-blue hover:underline">{t("s001_google_privacybeleid")}</a>.</>
+                    : <>You can learn more about Google&apos;s practices at{' '}<a href="https://policies.google.com/privacy" target="_blank" rel="noopener noreferrer" className="text-thailand-blue hover:underline">{t("s002_google_privacy_policy")}</a>.</>}
                 </p>
 
                 {/* Ezoic Privacy Policy Embed */}
@@ -121,8 +124,8 @@ export default function PrivacyPolicy() {
                   <div className="mt-3 text-sm text-gray-600">
                     <p>
                       {isNl
-                        ? <>Voor gedetailleerde informatie over hoe Ezoic en haar partners gegevens gebruiken, bezoek:{' '}<a href="http://g.ezoic.net/privacy/go2-thailand.com" target="_blank" rel="noopener noreferrer" className="text-thailand-blue hover:underline">Ezoic Privacy Verklaringen voor Go2Thailand.com</a></>
-                        : <>For detailed information about how Ezoic and its partners use data, please visit:{' '}<a href="http://g.ezoic.net/privacy/go2-thailand.com" target="_blank" rel="noopener noreferrer" className="text-thailand-blue hover:underline">Ezoic Privacy Disclosures for Go2Thailand.com</a></>}
+                        ? <>Voor gedetailleerde informatie over hoe Ezoic en haar partners gegevens gebruiken, bezoek:{' '}<a href="http://g.ezoic.net/privacy/go2-thailand.com" target="_blank" rel="noopener noreferrer" className="text-thailand-blue hover:underline">{t("s003_ezoic_privacy_verklaringen_voor")}</a></>
+                        : <>For detailed information about how Ezoic and its partners use data, please visit:{' '}<a href="http://g.ezoic.net/privacy/go2-thailand.com" target="_blank" rel="noopener noreferrer" className="text-thailand-blue hover:underline">{t("s004_ezoic_privacy_disclosures_for")}</a></>}
                     </p>
                   </div>
                 </div>

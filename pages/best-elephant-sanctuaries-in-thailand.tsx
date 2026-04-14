@@ -5,6 +5,8 @@ import { getElephantSanctuariesIndex, getElephantSanctuariesByCity } from '../li
 import { formatPrice } from '../lib/price';
 import Breadcrumbs from '../components/Breadcrumbs';
 import SEOHead from '../components/SEOHead';
+import { useT } from '../lib/i18n';
+import { strings as i18nStrings } from '../lib/i18n/best-elephant-sanctuaries-in-thailand';
 
 interface Sanctuary {
   name: string;
@@ -56,6 +58,7 @@ function StarRating({ rating }: { rating: number }) {
 }
 
 export default function BestElephantSanctuariesPage({ cities, topSanctuaries }: Props) {
+  const t = useT(i18nStrings);
   const { locale } = useRouter();
   const loc = locale || 'en';
   const isNl = locale === 'nl';
@@ -281,7 +284,7 @@ export default function BestElephantSanctuariesPage({ cities, topSanctuaries }: 
               </h2>
               <div className="prose prose-gray max-w-none text-gray-700 space-y-4">
                 <p>
-                  Asian elephants (<em>Elephas maximus</em>) are listed as <strong>Endangered</strong> on the IUCN Red List — a classification held since 1986. The global population stands at an estimated 48,000–52,000 individuals. In Thailand, a 2025 survey by the Department of National Parks, Wildlife and Plant Conservation (DNP) counted <strong>4,013–4,422 elephants</strong> nationwide, with 3,084–4,422 living wild across 91 protected areas.
+                  Asian elephants (<em>{t("s001_elephas_maximus")}</em>) are listed as <strong>Endangered</strong> on the IUCN Red List — a classification held since 1986. The global population stands at an estimated 48,000–52,000 individuals. In Thailand, a 2025 survey by the Department of National Parks, Wildlife and Plant Conservation (DNP) counted <strong>4,013–4,422 elephants</strong> nationwide, with 3,084–4,422 living wild across 91 protected areas.
                 </p>
                 <p>
                   The threats are severe: habitat destruction driven by agricultural expansion, human-elephant conflict at forest boundaries, and ongoing poaching for ivory. Captive elephants face a separate set of problems — historically exploited for logging until Thailand banned commercial logging in 1989, many elephants moved into tourism, where bull hooks, chains, and riding saddles caused lasting physical and psychological damage.
@@ -292,7 +295,7 @@ export default function BestElephantSanctuariesPage({ cities, topSanctuaries }: 
                 <p>
                   {isNl
                     ? <>De <strong>Save Elephant Foundation</strong>, geleid door Saengduean &quot;Lek&quot; Chailert, speelt een centrale rol in deze verschuiving sinds de oprichting van Elephant Nature Park in 1995. Lek heeft meerdere internationale natuurbeschermingsprijzen ontvangen voor haar werk met het rehabiliteren van olifanten die decennialang zijn mishandeld.</>
-                    : <>The <strong>Save Elephant Foundation</strong>, run by Saengduean &quot;Lek&quot; Chailert, has been central to this shift since founding Elephant Nature Park in 1995. Lek has received multiple international conservation awards for her work rehabilitating elephants traumatised by decades of abuse.</>}
+                    : <>The <strong>{t("s002_save_elephant_foundation")}</strong>, run by Saengduean &quot;Lek&quot; Chailert, has been central to this shift since founding Elephant Nature Park in 1995. Lek has received multiple international conservation awards for her work rehabilitating elephants traumatised by decades of abuse.</>}
                 </p>
               </div>
               <div className="mt-6 grid grid-cols-2 md:grid-cols-4 gap-4">
@@ -379,7 +382,7 @@ export default function BestElephantSanctuariesPage({ cities, topSanctuaries }: 
               </div>
               <div className="mt-6 p-4 bg-amber-50 rounded-xl border border-amber-200">
                 <p className="text-sm text-gray-700">
-                  <strong>Red flag checklist:</strong> Avoid any venue that offers elephant riding, bull hooks, shows where elephants perform tricks (painting, football), or chains visible in guest photos. World Animal Protection and Wildlife Friends Foundation Thailand are reliable sources for identifying abusive operations.
+                  <strong>{t("s003_red_flag_checklist")}</strong> {t("s004_avoid_any_venue_that")}
                 </p>
               </div>
             </div>
@@ -438,32 +441,32 @@ export default function BestElephantSanctuariesPage({ cities, topSanctuaries }: 
               </h2>
               <div className="grid grid-cols-2 md:grid-cols-4 gap-3">
                 <Link href="/travel-insurance-thailand/" className="p-4 bg-surface-cream rounded-xl hover:shadow-md transition-all">
-                  <div className="font-semibold text-gray-900">Travel Insurance</div>
-                  <div className="text-xs text-gray-600">Essential for activities</div>
+                  <div className="font-semibold text-gray-900">{t("s005_travel_insurance")}</div>
+                  <div className="text-xs text-gray-600">{t("s006_essential_for_activities")}</div>
                 </Link>
                 <Link href="/food/" className="p-4 bg-surface-cream rounded-xl hover:shadow-md transition-all">
-                  <div className="font-semibold text-gray-900">Thai Food Guide</div>
-                  <div className="text-xs text-gray-600">Cuisine & street food</div>
+                  <div className="font-semibold text-gray-900">{t("s007_thai_food_guide")}</div>
+                  <div className="text-xs text-gray-600">{t("s008_cuisine_street_food")}</div>
                 </Link>
                 <Link href="/best-places-to-visit-thailand/" className="p-4 bg-surface-cream rounded-xl hover:shadow-md transition-all">
-                  <div className="font-semibold text-gray-900">Best Places to Visit</div>
-                  <div className="text-xs text-gray-600">Top destinations</div>
+                  <div className="font-semibold text-gray-900">{t("s009_best_places_to_visit")}</div>
+                  <div className="text-xs text-gray-600">{t("s010_top_destinations")}</div>
                 </Link>
                 <Link href="/islands/" className="p-4 bg-surface-cream rounded-xl hover:shadow-md transition-all">
-                  <div className="font-semibold text-gray-900">Thai Islands</div>
-                  <div className="text-xs text-gray-600">Beaches & island life</div>
+                  <div className="font-semibold text-gray-900">{t("s011_thai_islands")}</div>
+                  <div className="text-xs text-gray-600">{t("s012_beaches_island_life")}</div>
                 </Link>
                 <Link href="/thailand-for-first-timers/" className="p-4 bg-surface-cream rounded-xl hover:shadow-md transition-all">
-                  <div className="font-semibold text-gray-900">First Timer&apos;s Guide</div>
-                  <div className="text-xs text-gray-600">Everything you need to know</div>
+                  <div className="font-semibold text-gray-900">{t("s013_first_timer_apos_s")}</div>
+                  <div className="text-xs text-gray-600">{t("s014_everything_you_need_to")}</div>
                 </Link>
                 <Link href="/best-diving-snorkeling-in-thailand/" className="p-4 bg-surface-cream rounded-xl hover:shadow-md transition-all">
-                  <div className="font-semibold text-gray-900">Diving &amp; Snorkeling</div>
-                  <div className="text-xs text-gray-600">Reefs & underwater life</div>
+                  <div className="font-semibold text-gray-900">{t("s015_diving_amp_snorkeling")}</div>
+                  <div className="text-xs text-gray-600">{t("s016_reefs_underwater_life")}</div>
                 </Link>
                 <Link href="/best-muay-thai-in-thailand/" className="p-4 bg-surface-cream rounded-xl hover:shadow-md transition-all">
-                  <div className="font-semibold text-gray-900">Muay Thai</div>
-                  <div className="text-xs text-gray-600">Training & fight nights</div>
+                  <div className="font-semibold text-gray-900">{t("s017_muay_thai")}</div>
+                  <div className="text-xs text-gray-600">{t("s018_training_fight_nights")}</div>
                 </Link>
               </div>
             </div>

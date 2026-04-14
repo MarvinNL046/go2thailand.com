@@ -2,8 +2,11 @@ import Head from 'next/head';
 import Link from 'next/link';
 import { useRouter } from 'next/router';
 import Breadcrumbs from '../components/Breadcrumbs';
+import { useT } from '../lib/i18n';
+import { strings as i18nStrings } from '../lib/i18n/editorial-policy';
 
 export default function EditorialPolicy() {
+  const t = useT(i18nStrings);
   const siteLogoUrl = 'https://go2-thailand.com/images/brand/go2thailand-logo-2026.png';
   const { locale } = useRouter();
   const isNl = locale === 'nl';
@@ -83,7 +86,7 @@ export default function EditorialPolicy() {
                   <span>
                     {isNl
                       ? <><strong>Nauwkeurigheid Eerst</strong> — Alle feiten, prijzen, visumvereisten, vervoersschema&apos;s en operationele details worden geverifieerd aan de hand van officiële en primaire bronnen voor publicatie. We herpubliceren geen ongeverifieerde claims.</>
-                      : <><strong>Accuracy First</strong> — All facts, prices, visa requirements, transport schedules, and operational details are verified against official and primary sources before publication. We do not republish unverified claims.</>}
+                      : <><strong>{t("s001_accuracy_first")}</strong> — All facts, prices, visa requirements, transport schedules, and operational details are verified against official and primary sources before publication. We do not republish unverified claims.</>}
                   </span>
                 </li>
                 <li className="flex items-start gap-3">
@@ -91,7 +94,7 @@ export default function EditorialPolicy() {
                   <span>
                     {isNl
                       ? <><strong>Regelmatige Updates</strong> — Thailand verandert snel. Inhoud wordt regelmatig beoordeeld en bijgewerkt om actuele prijzen, toegangsvereisten en omstandigheden ter plaatse weer te geven. Verouderde informatie wordt snel verwijderd of gecorrigeerd.</>
-                      : <><strong>Regular Updates</strong> — Thailand changes fast. Content is reviewed and updated regularly to reflect current prices, entry requirements, and on-the-ground conditions. Outdated information is removed or corrected promptly.</>}
+                      : <><strong>{t("s002_regular_updates")}</strong> — Thailand changes fast. Content is reviewed and updated regularly to reflect current prices, entry requirements, and on-the-ground conditions. Outdated information is removed or corrected promptly.</>}
                   </span>
                 </li>
                 <li className="flex items-start gap-3">
@@ -191,7 +194,7 @@ export default function EditorialPolicy() {
                   <span>
                     {isNl
                       ? <><strong>We bevelen producten en diensten aan waarvan we oprecht geloven dat ze waarde bieden</strong> aan reizigers. Als een hotel of tour in onze gidsen verschijnt, is dat omdat het aan onze kwaliteitsstandaard voldoet — niet vanwege een commerciële afspraak.</>
-                      : <><strong>We recommend products and services we genuinely believe provide value</strong> to travelers. If a hotel or tour appears in our guides, it is because it meets our quality bar — not because of a commercial arrangement.</>}
+                      : <><strong>{t("s003_we_recommend_products_and")}</strong> to travelers. If a hotel or tour appears in our guides, it is because it meets our quality bar — not because of a commercial arrangement.</>}
                   </span>
                 </li>
                 <li className="flex items-start gap-3">
@@ -205,8 +208,8 @@ export default function EditorialPolicy() {
               </ul>
               <p className="text-gray-700 mt-4">
                 {isNl
-                  ? <>Voor de volledige lijst van affiliate partners en hoe ze werken, lees onze{' '}<Link href="/affiliate-disclosure/" className="text-thailand-blue hover:underline">Affiliate Verklaring</Link>.</>
-                  : <>For the complete list of affiliate partners and how they work, read our{' '}<Link href="/affiliate-disclosure/" className="text-thailand-blue hover:underline">Affiliate Disclosure</Link>.</>}
+                  ? <>Voor de volledige lijst van affiliate partners en hoe ze werken, lees onze{' '}<Link href="/affiliate-disclosure/" className="text-thailand-blue hover:underline">{t("s004_affiliate_verklaring")}</Link>.</>
+                  : <>For the complete list of affiliate partners and how they work, read our{' '}<Link href="/affiliate-disclosure/" className="text-thailand-blue hover:underline">{t("s005_affiliate_disclosure")}</Link>.</>}
               </p>
             </div>
 
@@ -224,7 +227,7 @@ export default function EditorialPolicy() {
                   <span>
                     {isNl
                       ? <><strong>We verwelkomen correcties.</strong> Als u een fout ontdekt in prijs, feit of detail, laat het ons weten. E-mail ons op{' '}<a href="mailto:hello@go2-thailand.com" className="text-thailand-blue hover:underline">hello@go2-thailand.com</a>{' '}of gebruik onze{' '}<Link href="/contact/" className="text-thailand-blue hover:underline">contactpagina</Link>.</>
-                      : <><strong>We welcome corrections.</strong> If you spot an error in price, fact, or detail, please let us know. Email us at{' '}<a href="mailto:hello@go2-thailand.com" className="text-thailand-blue hover:underline">hello@go2-thailand.com</a>{' '}or use our{' '}<Link href="/contact/" className="text-thailand-blue hover:underline">contact page</Link>.</>}
+                      : <><strong>{t("s006_we_welcome_corrections")}</strong> If you spot an error in price, fact, or detail, please let us know. Email us at{' '}<a href="mailto:hello@go2-thailand.com" className="text-thailand-blue hover:underline">hello@go2-thailand.com</a>{' '}or use our{' '}<Link href="/contact/" className="text-thailand-blue hover:underline">contact page</Link>.</>}
                   </span>
                 </li>
                 <li className="flex items-start gap-3">
@@ -240,7 +243,7 @@ export default function EditorialPolicy() {
                   <span>
                     {isNl
                       ? <><strong>Correcties worden transparant aangebracht.</strong> Significante feitelijke correcties worden waar passend vermeld in de bijgewerkte inhoud, zodat lezers weten dat de informatie is beoordeeld.</>
-                      : <><strong>Corrections are made with transparency.</strong> Significant factual corrections are noted in the updated content where appropriate, so readers know the information has been reviewed.</>}
+                      : <><strong>Corrections are made with transparency.</strong> {t("s007_significant_factual_corrections_are")}</>}
                   </span>
                 </li>
               </ul>

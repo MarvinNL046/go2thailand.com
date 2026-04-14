@@ -2,8 +2,11 @@ import Head from 'next/head';
 import Link from 'next/link';
 import { useRouter } from 'next/router';
 import Breadcrumbs from '../components/Breadcrumbs';
+import { useT } from '../lib/i18n';
+import { strings as i18nStrings } from '../lib/i18n/affiliate-disclosure';
 
 export default function AffiliateDisclosure() {
+  const t = useT(i18nStrings);
   const { locale } = useRouter();
   const isNl = locale === 'nl';
 
@@ -139,7 +142,7 @@ export default function AffiliateDisclosure() {
                   <span>
                     {isNl
                       ? <><strong>Commissies beïnvloeden nooit onze aanbevelingen.</strong> We bevelen hotels, tours en diensten aan op basis van kwaliteit en relevantie voor de lezer, niet op basis van commissietarieven.</>
-                      : <><strong>Commissions never influence our recommendations.</strong> We recommend hotels, tours, and services based on quality and relevance to the reader, not commission rates.</>}
+                      : <><strong>Commissions never influence our recommendations.</strong> {t("s001_we_recommend_hotels_tours")}</>}
                   </span>
                 </li>
                 <li className="flex items-start gap-3">
@@ -155,7 +158,7 @@ export default function AffiliateDisclosure() {
                   <span>
                     {isNl
                       ? <><strong>Negatieve bevindingen worden eerlijk gepubliceerd.</strong> Als een bestemming, hotel of dienst echte nadelen heeft, zeggen we dat — ongeacht of we een affiliate relatie hebben.</>
-                      : <><strong>Negative findings are published honestly.</strong> If a destination, hotel, or service has real drawbacks, we say so — regardless of whether we have an affiliate relationship.</>}
+                      : <><strong>Negative findings are published honestly.</strong> {t("s002_if_a_destination_hotel")}</>}
                   </span>
                 </li>
                 <li className="flex items-start gap-3">
@@ -171,7 +174,7 @@ export default function AffiliateDisclosure() {
                   <span>
                     {isNl
                       ? <><strong>We onderzoeken en beoordelen voor we aanbevelen.</strong> Affiliate partners worden geselecteerd op basis van feedback van reizigers, reputatie in de branche en onze eigen beoordeling van hun servicekwaliteit.</>
-                      : <><strong>We research and vet before recommending.</strong> Affiliate partners are selected based on traveller feedback, industry reputation, and our own assessment of their service quality.</>}
+                      : <><strong>We research and vet before recommending.</strong> {t("s003_affiliate_partners_are_selected")}</>}
                   </span>
                 </li>
               </ul>

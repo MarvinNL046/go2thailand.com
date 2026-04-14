@@ -55,6 +55,14 @@ if (!FILE) { console.error('Pass --file <path/to/file.tsx>'); process.exit(1); }
 const filePath = path.resolve(ROOT, FILE);
 if (!fs.existsSync(filePath)) { console.error(`File not found: ${filePath}`); process.exit(1); }
 
+// Abort early if file already binds `t` via its own i18n framework (e.g. useTranslation).
+// Our replacement would redeclare `t` and break compilation.
+const preCheck = fs.readFileSync(filePath, 'utf8');
+if (/useTranslation\s*\(/.test(preCheck) || /const\s*\{\s*t\s*[,}]/.test(preCheck)) {
+  console.log(`Skipping ${FILE} — already uses a foreign \`t\` (useTranslation). Translate its strings via that framework instead.`);
+  process.exit(0);
+}
+
 // Derive slug (for lib/i18n/<slug>.ts)
 const relToPages = path.relative(path.join(ROOT, 'pages'), filePath);
 const slug = SLUG_OVERRIDE || relToPages

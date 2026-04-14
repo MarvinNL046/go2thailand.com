@@ -5,6 +5,8 @@ import { getMuayThaiIndex, getMuayThaiByCity } from '../lib/muay-thai';
 import { formatPrice } from '../lib/price';
 import Breadcrumbs from '../components/Breadcrumbs';
 import SEOHead from '../components/SEOHead';
+import { useT } from '../lib/i18n';
+import { strings as i18nStrings } from '../lib/i18n/best-muay-thai-in-thailand';
 
 interface MuayThaiActivity {
   name: string;
@@ -67,6 +69,7 @@ function TypeBadge({ type }: { type: string }) {
 }
 
 export default function BestMuayThaiPage({ cities, topActivities }: Props) {
+  const t = useT(i18nStrings);
   const { locale } = useRouter();
   const loc = locale || 'en';
   const isNl = locale === 'nl';
@@ -297,20 +300,20 @@ export default function BestMuayThaiPage({ cities, topActivities }: Props) {
                 <p>
                   {isNl
                     ? <>Muay Thai — de &quot;Kunst van Acht Ledematen&quot; — is ontstaan uit <strong>Muay Boran</strong>, een close-combatsysteem dat werd gebruikt door Siamese legers vanaf ten minste het 13e-eeuwse Sukhothai-koninkrijk. Soldaten die hun wapens verloren in de strijd vielen terug op hun vuisten, ellebogen, knieën en schenen. Dit overlevingssysteem werd verfijnd gedurende eeuwen van conflict met Birmese, Cambodjaanse en Laotiaanse koninkrijken.</>
-                    : <>Muay Thai — the &quot;Art of Eight Limbs&quot; — evolved from <strong>Muay Boran</strong>, a close-combat system used by Siamese armies from at least the 13th century Sukhothai Kingdom. Soldiers who lost their weapons in battle fell back on their fists, elbows, knees, and shins. This survival system was refined over centuries of conflict with Burmese, Cambodian, and Lao kingdoms.</>}
+                    : <>{t("s001_muay_thai_the_quot")} <strong>{t("s002_muay_boran")}</strong>, a close-combat system used by Siamese armies from at least the 13th century Sukhothai Kingdom. Soldiers who lost their weapons in battle fell back on their fists, elbows, knees, and shins. This survival system was refined over centuries of conflict with Burmese, Cambodian, and Lao kingdoms.</>}
                 </p>
                 <p>
                   {isNl
                     ? <>De meest gevierde figuur in de Muay Thai-folklore is <strong>Nai Khanom Tom</strong>, een vechter die gevangen werd genomen door Birmese troepen na de val van Ayutthaya in 1767. In 1774, tijdens een koninklijke viering in Rangoon, werd hij bevolen om tegen Birmese boksers te vechten. Naar verluidt versloeg hij negen of tien vechters achter elkaar zonder pauze — een prestatie die hem zijn vrijheid opleverde. Elk jaar op <strong>17 maart</strong> viert Thailand Nai Khanom Tom Day ter ere van hem. Hij blijft de symbolische &quot;Vader van Muay Thai.&quot;</>
-                    : <>The most celebrated figure in Muay Thai folklore is <strong>Nai Khanom Tom</strong>, a fighter captured by Burmese forces after the fall of Ayutthaya in 1767. In 1774, at a royal celebration in Rangoon, he was ordered to fight Burmese boxers. He reportedly defeated nine or ten fighters in succession without pause — a feat that earned him his freedom. Every year on <strong>March 17</strong>, Thailand observes Nai Khanom Tom Day in his honour. He remains the symbolic &quot;Father of Muay Thai.&quot;</>}
+                    : <>{t("s003_the_most_celebrated_figure")} <strong>{t("s004_nai_khanom_tom")}</strong>, a fighter captured by Burmese forces after the fall of Ayutthaya in 1767. In 1774, at a royal celebration in Rangoon, he was ordered to fight Burmese boxers. He reportedly defeated nine or ten fighters in succession without pause — a feat that earned him his freedom. Every year on <strong>{t("s005_march_17")}</strong>, Thailand observes Nai Khanom Tom Day in his honour. He remains the symbolic &quot;Father of Muay Thai.&quot;</>}
                 </p>
                 <p>
                   {isNl
                     ? <>Muay Thai in zijn moderne, gecodificeerde vorm — met handschoenen, rondes en een scheidsrechter — ontstond onder <strong>Koning Rama VII</strong> in de jaren 1920 en 1930. Rajadamnern Stadium opende in <strong>1945</strong> als Thailand&apos;s eerste permanente Muay Thai-arena. Lumpinee Stadium volgde in <strong>1956</strong> en werd al snel de meest prestigieuze locatie van de sport. Beide zijn tot op de dag van vandaag in gebruik.</>
-                    : <>Muay Thai in its modern codified form — with gloves, rounds, and a referee — emerged under <strong>King Rama VII</strong> in the 1920s and 1930s. Rajadamnern Stadium opened in <strong>1945</strong> as Thailand&apos;s first permanent Muay Thai arena. Lumpinee Stadium followed in <strong>1956</strong> and quickly became the sport&apos;s most prestigious venue. Both operate to this day.</>}
+                    : <>{t("s006_muay_thai_in_its")} <strong>{t("s007_king_rama_vii")}</strong> in the 1920s and 1930s. Rajadamnern Stadium opened in <strong>1945</strong> as Thailand&apos;s first permanent Muay Thai arena. Lumpinee Stadium followed in <strong>1956</strong> and quickly became the sport&apos;s most prestigious venue. Both operate to this day.</>}
                 </p>
                 <p>
-                  In 2024, Thailand formally proposed Muay Thai for <strong>UNESCO&apos;s Representative List of the Intangible Cultural Heritage of Humanity</strong> — recognition that would place it alongside Songkran (already inscribed in 2023) as a protected piece of Thai cultural identity.
+                  In 2024, Thailand formally proposed Muay Thai for <strong>{t("s008_unesco_apos_s_representative")}</strong> — recognition that would place it alongside Songkran (already inscribed in 2023) as a protected piece of Thai cultural identity.
                 </p>
               </div>
             </div>
@@ -503,7 +506,7 @@ export default function BestMuayThaiPage({ cities, topActivities }: Props) {
               </div>
               <div className="mt-6 p-4 bg-yellow-50 rounded-xl border-0">
                 <p className="text-sm text-gray-700">
-                  <strong>DTV Visa tip:</strong> If you&apos;re planning a longer training stay, check if your chosen gym can sponsor a 6 or 12 month DTV (Destination Thailand Visa) for Muay Thai training. Lamay Muay Thai and Diamond Muay Thai are known to offer this.
+                  <strong>{t("s009_dtv_visa_tip")}</strong> {t("s010_if_you_apos_re")}
                 </p>
               </div>
             </div>

@@ -2,8 +2,11 @@ import Head from 'next/head';
 import Link from 'next/link';
 import { useRouter } from 'next/router';
 import Breadcrumbs from '../components/Breadcrumbs';
+import { useT } from '../lib/i18n';
+import { strings as i18nStrings } from '../lib/i18n/cookie-policy';
 
 export default function CookiePolicy() {
+  const t = useT(i18nStrings);
   const { locale } = useRouter();
   const isNl = locale === 'nl';
 
@@ -100,8 +103,8 @@ export default function CookiePolicy() {
                 <ul className="list-disc pl-6 mb-4">
                   <li>
                     {isNl
-                      ? <><strong>Google Analytics:</strong> We gebruiken Google Analytics om bezoekersgedrag te begrijpen — welke pagina&apos;s het populairst zijn, hoe lang bezoekers blijven en waar ze vandaan komen. Dit helpt ons onze Thailand reisinhoud te verbeteren. Google Analytics plaatst cookies zoals <code>_ga</code>, <code>_gid</code> en <code>_gat</code>. U kunt zich afmelden via{' '}<a href="https://tools.google.com/dlpage/gaoptout" target="_blank" rel="noopener noreferrer" className="text-thailand-blue hover:underline">Google Analytics Opt-out</a>.</>
-                      : <><strong>Google Analytics:</strong> We use Google Analytics to understand visitor behavior — which pages are most popular, how long visitors stay, and where they come from. This helps us improve our Thailand travel content. Google Analytics sets cookies such as <code>_ga</code>, <code>_gid</code>, and <code>_gat</code>. You can opt out via{' '}<a href="https://tools.google.com/dlpage/gaoptout" target="_blank" rel="noopener noreferrer" className="text-thailand-blue hover:underline">Google Analytics Opt-out</a>.</>}
+                      ? <><strong>Google Analytics:</strong> We gebruiken Google Analytics om bezoekersgedrag te begrijpen — welke pagina&apos;s het populairst zijn, hoe lang bezoekers blijven en waar ze vandaan komen. Dit helpt ons onze Thailand reisinhoud te verbeteren. Google Analytics plaatst cookies zoals <code>_ga</code>, <code>_gid</code> en <code>_gat</code>. U kunt zich afmelden via{' '}<a href="https://tools.google.com/dlpage/gaoptout" target="_blank" rel="noopener noreferrer" className="text-thailand-blue hover:underline">{t("s001_google_analytics_opt_out")}</a>.</>
+                      : <><strong>{t("s002_google_analytics")}</strong> {t("s003_we_use_google_analytics")} <code>_ga</code>, <code>_gid</code>, and <code>_gat</code>. You can opt out via{' '}<a href="https://tools.google.com/dlpage/gaoptout" target="_blank" rel="noopener noreferrer" className="text-thailand-blue hover:underline">{t("s001_google_analytics_opt_out")}</a>.</>}
                   </li>
                 </ul>
 
@@ -114,13 +117,13 @@ export default function CookiePolicy() {
                 <ul className="list-disc pl-6 mb-4">
                   <li>
                     {isNl
-                      ? <><strong>Google AdSense:</strong> Toont contextuele en gepersonaliseerde advertenties. Google kan cookies zoals <code>IDE</code> en <code>DSID</code> gebruiken om advertenties weer te geven op basis van uw eerdere bezoeken. Meer informatie op{' '}<a href="https://policies.google.com/technologies/ads" target="_blank" rel="noopener noreferrer" className="text-thailand-blue hover:underline">Google Ads beleid</a>.</>
-                      : <><strong>Google AdSense:</strong> Displays contextual and personalized ads. Google may use cookies such as <code>IDE</code> and <code>DSID</code> to serve ads based on your prior visits. Learn more at{' '}<a href="https://policies.google.com/technologies/ads" target="_blank" rel="noopener noreferrer" className="text-thailand-blue hover:underline">Google Ads policies</a>.</>}
+                      ? <><strong>Google AdSense:</strong> Toont contextuele en gepersonaliseerde advertenties. Google kan cookies zoals <code>IDE</code> en <code>DSID</code> gebruiken om advertenties weer te geven op basis van uw eerdere bezoeken. Meer informatie op{' '}<a href="https://policies.google.com/technologies/ads" target="_blank" rel="noopener noreferrer" className="text-thailand-blue hover:underline">{t("s005_google_ads_beleid")}</a>.</>
+                      : <><strong>{t("s006_google_adsense")}</strong> {t("s007_displays_contextual_and_personalized")} <code>IDE</code> and <code>DSID</code> to serve ads based on your prior visits. Learn more at{' '}<a href="https://policies.google.com/technologies/ads" target="_blank" rel="noopener noreferrer" className="text-thailand-blue hover:underline">{t("s008_google_ads_policies")}</a>.</>}
                   </li>
                   <li>
                     {isNl
-                      ? <><strong>Ezoic:</strong> We gebruiken Ezoic om advertentielevering en siteprestaties te optimaliseren. Ezoic en haar technologiepartners kunnen cookies plaatsen om advertenties te personaliseren en advertentieprestaties te meten. Zie{' '}<a href="http://g.ezoic.net/privacy/go2-thailand.com" target="_blank" rel="noopener noreferrer" className="text-thailand-blue hover:underline">Ezoic&apos;s privacyverklaringen voor Go2Thailand.com</a>.</>
-                      : <><strong>Ezoic:</strong> We use Ezoic to optimize ad delivery and site performance. Ezoic and its technology partners may set cookies to personalize ads and measure ad performance. See{' '}<a href="http://g.ezoic.net/privacy/go2-thailand.com" target="_blank" rel="noopener noreferrer" className="text-thailand-blue hover:underline">Ezoic&apos;s privacy disclosures for Go2Thailand.com</a>.</>}
+                      ? <><strong>Ezoic:</strong> We gebruiken Ezoic om advertentielevering en siteprestaties te optimaliseren. Ezoic en haar technologiepartners kunnen cookies plaatsen om advertenties te personaliseren en advertentieprestaties te meten. Zie{' '}<a href="http://g.ezoic.net/privacy/go2-thailand.com" target="_blank" rel="noopener noreferrer" className="text-thailand-blue hover:underline">{t("s009_ezoic_apos_s_privacyverklaringen")}</a>.</>
+                      : <><strong>Ezoic:</strong> We use Ezoic to optimize ad delivery and site performance. Ezoic and its technology partners may set cookies to personalize ads and measure ad performance. See{' '}<a href="http://g.ezoic.net/privacy/go2-thailand.com" target="_blank" rel="noopener noreferrer" className="text-thailand-blue hover:underline">{t("s010_ezoic_apos_s_privacy")}</a>.</>}
                   </li>
                 </ul>
 
@@ -175,7 +178,7 @@ export default function CookiePolicy() {
                       : 'When you click on an affiliate link, the respective partner may set tracking cookies on your device to attribute any resulting purchase to our referral. These cookies are typically named after the partner and expire within 30\u201390 days.'}
                   </li>
                   <li>
-                    <strong>Saily / NordVPN / SafetyWing</strong> &mdash; {isNl
+                    <strong>{t("s011_saily_nordvpn_safetywing")}</strong> &mdash; {isNl
                       ? 'Affiliate trackingcookies kunnen worden geplaatst wanneer u via onze site naar deze partners doorklikt.'
                       : 'Affiliate tracking cookies may be set when you click through to these partners from our site.'}
                   </li>
@@ -202,16 +205,16 @@ export default function CookiePolicy() {
                 </p>
                 <ul className="list-disc pl-6 mb-4">
                   <li>
-                    <a href="https://support.google.com/chrome/answer/95647" target="_blank" rel="noopener noreferrer" className="text-thailand-blue hover:underline">Google Chrome</a>
+                    <a href="https://support.google.com/chrome/answer/95647" target="_blank" rel="noopener noreferrer" className="text-thailand-blue hover:underline">{t("s012_google_chrome")}</a>
                   </li>
                   <li>
-                    <a href="https://support.mozilla.org/en-US/kb/clear-cookies-and-site-data-firefox" target="_blank" rel="noopener noreferrer" className="text-thailand-blue hover:underline">Mozilla Firefox</a>
+                    <a href="https://support.mozilla.org/en-US/kb/clear-cookies-and-site-data-firefox" target="_blank" rel="noopener noreferrer" className="text-thailand-blue hover:underline">{t("s013_mozilla_firefox")}</a>
                   </li>
                   <li>
-                    <a href="https://support.apple.com/guide/safari/manage-cookies-sfri11471/mac" target="_blank" rel="noopener noreferrer" className="text-thailand-blue hover:underline">Apple Safari</a>
+                    <a href="https://support.apple.com/guide/safari/manage-cookies-sfri11471/mac" target="_blank" rel="noopener noreferrer" className="text-thailand-blue hover:underline">{t("s014_apple_safari")}</a>
                   </li>
                   <li>
-                    <a href="https://support.microsoft.com/en-us/microsoft-edge/delete-cookies-in-microsoft-edge-63947406-40ac-c3b8-57b9-2a946a29ae09" target="_blank" rel="noopener noreferrer" className="text-thailand-blue hover:underline">Microsoft Edge</a>
+                    <a href="https://support.microsoft.com/en-us/microsoft-edge/delete-cookies-in-microsoft-edge-63947406-40ac-c3b8-57b9-2a946a29ae09" target="_blank" rel="noopener noreferrer" className="text-thailand-blue hover:underline">{t("s015_microsoft_edge")}</a>
                   </li>
                 </ul>
                 <p className="mb-4">

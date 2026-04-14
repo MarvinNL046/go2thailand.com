@@ -4,6 +4,8 @@ import { useRouter } from 'next/router';
 import { useState } from 'react';
 import SEOHead from '../components/SEOHead';
 import Breadcrumbs from '../components/Breadcrumbs';
+import { useT } from '../lib/i18n';
+import { strings as i18nStrings } from '../lib/i18n/best-beaches-in-thailand';
 
 interface BeachData {
   rank: number;
@@ -219,6 +221,7 @@ function getSelectionReason(beach: BeachData, lang: Lang): string {
 }
 
 export default function BestBeachesInThailand({ data }: BestBeachesProps) {
+  const t = useT(i18nStrings);
   const siteLogoUrl = 'https://go2-thailand.com/images/brand/go2thailand-logo-2026.png';
   const { locale } = useRouter();
   const lang: Lang = locale === 'nl' ? 'nl' : 'en';
@@ -341,8 +344,8 @@ export default function BestBeachesInThailand({ data }: BestBeachesProps) {
               <div className="flex flex-wrap gap-3 mt-8 text-sm">
                 <span className="bg-white/15 rounded-full px-4 py-2">25 beaches</span>
                 <span className="bg-white/15 rounded-full px-4 py-2">2 coastlines</span>
-                <span className="bg-white/15 rounded-full px-4 py-2">Sources: TAT, Thailand DNP</span>
-                <span className="bg-white/15 rounded-full px-4 py-2">Updated March 28, 2026</span>
+                <span className="bg-white/15 rounded-full px-4 py-2">{t("s001_sources_tat_thailand_dnp")}</span>
+                <span className="bg-white/15 rounded-full px-4 py-2">{t("s002_updated_march_28_2026")}</span>
               </div>
             </div>
           </div>
