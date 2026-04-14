@@ -1,7 +1,10 @@
+import { useT } from '../lib/i18n';
+import { strings as i18nStrings } from '../lib/i18n/components-exitintentpopup';
 import { useState, useEffect, useCallback } from 'react';
 import { useRouter } from 'next/router';
 
 const ExitIntentPopup = () => {
+  const t = useT(i18nStrings);
   const { locale } = useRouter();
   const [visible, setVisible] = useState(false);
   const [email, setEmail] = useState('');
@@ -80,8 +83,8 @@ const ExitIntentPopup = () => {
                 <path strokeLinecap="round" strokeLinejoin="round" strokeWidth="2" d="M5 13l4 4L19 7" />
               </svg>
             </div>
-            <h3 className="font-heading text-xl font-bold text-gray-900 mb-2">You&apos;re in!</h3>
-            <p className="text-gray-600 text-sm">Check your inbox for Thailand travel tips.</p>
+            <h3 className="font-heading text-xl font-bold text-gray-900 mb-2">{t("s001_you_apos_re_in")}</h3>
+            <p className="text-gray-600 text-sm">{t("s002_check_your_inbox_for")}</p>
           </div>
         ) : (
           <>
@@ -93,10 +96,10 @@ const ExitIntentPopup = () => {
             </div>
 
             <h3 className="font-heading text-xl font-bold text-gray-900 text-center mb-2">
-              Wait — don&apos;t miss out!
+              {t("s003_wait_don_apos_t")}
             </h3>
             <p className="text-gray-600 text-sm text-center mb-6">
-              Get free Thailand travel tips, hidden gems, and budget hacks straight to your inbox. No spam, unsubscribe anytime.
+              {t("s004_get_free_thailand_travel")}
             </p>
 
             <form onSubmit={handleSubscribe} className="space-y-3">
@@ -117,12 +120,12 @@ const ExitIntentPopup = () => {
                 {status === 'loading' ? 'Subscribing...' : 'Get Free Travel Tips'}
               </button>
               {status === 'error' && (
-                <p className="text-red-500 text-xs text-center">Something went wrong. Please try again.</p>
+                <p className="text-red-500 text-xs text-center">{t("s005_something_went_wrong_please")}</p>
               )}
             </form>
 
             <p className="text-gray-400 text-xs text-center mt-4">
-              Join 1,000+ Thailand travelers. Unsubscribe anytime.
+              {t("s006_join_1_000_thailand")}
             </p>
           </>
         )}

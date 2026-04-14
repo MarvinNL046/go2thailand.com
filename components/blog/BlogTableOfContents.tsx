@@ -1,4 +1,6 @@
 import { useState, useEffect, useRef, useCallback } from 'react';
+import { useT } from '../../lib/i18n';
+import { strings as i18nStrings } from '../../lib/i18n/components-blog-blogtableofcontents';
 
 interface TocItem {
   id: string;
@@ -13,8 +15,9 @@ interface NavListProps {
 }
 
 function NavList({ items, activeId, scrollTo, onClick }: NavListProps) {
+  const t = useT(i18nStrings);
   return (
-    <nav aria-label="Table of contents">
+    <nav aria-label={t("s001_table_of_contents")}>
       <ul className="space-y-1">
         {items.map((item) => (
           <li key={item.id}>
@@ -37,6 +40,7 @@ function NavList({ items, activeId, scrollTo, onClick }: NavListProps) {
 }
 
 export default function BlogTableOfContents() {
+  const t = useT(i18nStrings);
   const [items, setItems] = useState<TocItem[]>([]);
   const [activeId, setActiveId] = useState('');
   const [drawerOpen, setDrawerOpen] = useState(false);
@@ -106,7 +110,7 @@ export default function BlogTableOfContents() {
     <>
       <div className="hidden lg:block bg-white rounded-2xl shadow-md p-6">
         <p className="text-xs font-semibold text-gray-400 uppercase tracking-wider mb-3 px-3">
-          On this page
+          {t("s002_on_this_page")}
         </p>
         <NavList items={items} activeId={activeId} scrollTo={scrollTo} />
       </div>
@@ -116,7 +120,7 @@ export default function BlogTableOfContents() {
           type="button"
           onClick={() => setDrawerOpen(true)}
           className="flex items-center justify-center w-12 h-12 rounded-full bg-thailand-blue text-white shadow-lg hover:bg-thailand-blue/90 transition-colors"
-          aria-label="Table of contents"
+          aria-label={t("s001_table_of_contents")}
         >
           <svg className="w-5 h-5" fill="none" viewBox="0 0 24 24" stroke="currentColor" strokeWidth={2}>
             <path strokeLinecap="round" strokeLinejoin="round" d="M4 6h16M4 12h16M4 18h16" />
@@ -132,7 +136,7 @@ export default function BlogTableOfContents() {
             onClick={(e) => e.stopPropagation()}
           >
             <div className="flex items-center justify-between mb-4">
-              <p className="text-sm font-semibold text-gray-700">On this page</p>
+              <p className="text-sm font-semibold text-gray-700">{t("s002_on_this_page")}</p>
               <button type="button" onClick={closeDrawer} className="text-gray-400 hover:text-gray-600" aria-label="Close">
                 <svg className="w-5 h-5" fill="none" viewBox="0 0 24 24" stroke="currentColor" strokeWidth={2}>
                   <path strokeLinecap="round" strokeLinejoin="round" d="M6 18L18 6M6 6l12 12" />

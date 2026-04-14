@@ -6,6 +6,8 @@ import Breadcrumbs from '../../../components/Breadcrumbs';
 import PreFooterAffiliateBanner from '../../../components/PreFooterAffiliateBanner';
 import TravelpayoutsRecoveryPanel from '../../../components/TravelpayoutsRecoveryPanel';
 import { getAllCategories, getPostsByCategory } from '../../../lib/blog';
+import { useT } from '../../../lib/i18n';
+import { strings as i18nStrings } from '../../../lib/i18n/blog-category-category';
 
 interface BlogPost {
   slug: string;
@@ -25,6 +27,7 @@ interface CategoryPageProps {
 }
 
 export default function BlogCategoryPage({ category, posts }: CategoryPageProps) {
+  const t = useT(i18nStrings);
   const breadcrumbs = [
     { name: 'Home', href: '/' },
     { name: 'Blog', href: '/blog/' },
@@ -96,7 +99,7 @@ export default function BlogCategoryPage({ category, posts }: CategoryPageProps)
 
             {posts.length === 0 && (
               <div className="text-center py-12">
-                <p className="text-gray-600">No posts found in this category.</p>
+                <p className="text-gray-600">{t("s001_no_posts_found_in")}</p>
                 <Link href="/blog/" className="text-thailand-blue hover:underline mt-4 inline-block">← Back to blog</Link>
               </div>
             )}
@@ -104,8 +107,8 @@ export default function BlogCategoryPage({ category, posts }: CategoryPageProps)
         </section>
 
         <PreFooterAffiliateBanner
-          title="Plan Your Thailand Trip"
-          description="Book hotels, transport, activities, and get connected with an eSIM"
+          title={t("s002_plan_your_thailand_trip")}
+          description={t("s003_book_hotels_transport_activities")}
           placement="blog-category-prefooter"
           links={[
             { label: 'Booking.com', href: 'https://booking.tpo.lv/2PT1kR82' },
