@@ -57,6 +57,8 @@ echo "  Country: $COUNTRY  Site: $SITE_NAME  Host: $HOSTNAME"
 mkdir -p "$TARGET/lib/pipeline"
 cp -v \
   "$SRC/lib/pipeline/ai-provider.ts" \
+  "$SRC/lib/pipeline/brightdata-serp.ts" \
+  "$SRC/lib/pipeline/serp.ts" \
   "$SRC/lib/pipeline/content-generator.ts" \
   "$SRC/lib/pipeline/news-generator.ts" \
   "$SRC/lib/pipeline/topic-discovery.ts" \
@@ -94,6 +96,21 @@ for cron in generate-blog generate-news topic-discovery ga4-monitor gsc-monitor 
   fi
 done
 
+# --- Remove deprecated translate-blog cron (we no longer translate; each
+#     locale has its own native writer). Old sister copies often had
+#     site-specific locale lists ('hi', 'es') that don't match our type.
+[ -f "$TARGET/pages/api/cron/translate-blog.ts" ] && rm -v "$TARGET/pages/api/cron/translate-blog.ts" || true
+
+# --- scraper.ts: only copy if target doesn't already export scrapeTopicContext
+#     (some sister sites have an older scraper.ts that lacks helpers
+#     content-generator depends on). When the helper is missing, replace
+#     with our version. We try to detect by grepping for the export.
+if [ -f "$TARGET/lib/pipeline/scraper.ts" ] && grep -q "export.*scrapeTopicContext" "$TARGET/lib/pipeline/scraper.ts"; then
+  echo "(target scraper has scrapeTopicContext — keeping site-specific version)"
+else
+  cp -v "$SRC/lib/pipeline/scraper.ts" "$TARGET/lib/pipeline/"
+fi
+
 # --- NL-only crons: only copy if target has NL locale configured ---
 if [ -f "$TARGET/pipeline.config.json" ] && grep -q '"nl"' "$TARGET/pipeline.config.json"; then
   cp -v "$SRC/lib/pipeline/content-generator-nl.ts" "$TARGET/lib/pipeline/"
@@ -127,6 +144,10 @@ for f in "$TARGET/pages/news/index.tsx" "$TARGET/pages/news/[slug].tsx" "$TARGET
 done
 
 # Generate / update pipeline.config.json with the country + site name.
+# repoOwner/repoName are REQUIRED — without them pipeline commits land in
+# the wrong repo. Derive repoName from hostname (e.g. go2-bali.com).
+REPO_NAME="$HOSTNAME"
+REPO_OWNER="${PIPELINE_REPO_OWNER:-MarvinNL046}"
 if [ ! -f "$TARGET/pipeline.config.json" ]; then
   cat > "$TARGET/pipeline.config.json" <<JSON
 {
@@ -138,10 +159,20 @@ if [ ! -f "$TARGET/pipeline.config.json" ]; then
     "en": ["$COUNTRY travel", "$COUNTRY backpacker", "$COUNTRY digital nomad", "$COUNTRY visa"]
   },
   "newsQuery": "$COUNTRY",
-  "scrapeNewsSources": []
+  "scrapeNewsSources": [],
+  "repoOwner": "$REPO_OWNER",
+  "repoName": "$REPO_NAME"
 }
 JSON
   echo "wrote $TARGET/pipeline.config.json"
+else
+  # Backfill repoOwner/repoName if missing (fixes sister sites that were
+  # synced before this field existed — they were committing to the wrong repo).
+  if ! grep -q '"repoName"' "$TARGET/pipeline.config.json"; then
+    # Insert the two fields just before the closing brace.
+    sed -i "s|^}$|,\n  \"repoOwner\": \"$REPO_OWNER\",\n  \"repoName\": \"$REPO_NAME\"\n}|" "$TARGET/pipeline.config.json"
+    echo "backfilled repoOwner/repoName in $TARGET/pipeline.config.json"
+  fi
 fi
 
 echo ""
