@@ -70,9 +70,18 @@ const nextConfig = {
         destination: '/city/:slug/attractions/',
         permanent: true,
       },
+      // PSEO canonical: /best-hotels/[city] is THE hotels-per-city page.
+      // The cluster-based template at /best-hotels/[slug] (data/clusters/<city>/hotels.json)
+      // gives a deeper review than the city subpage, so we point the city
+      // hotel routes at it instead of the other way around.
       {
-        source: '/best-hotels/:slug/',
-        destination: '/city/:slug/hotels/',
+        source: '/city/:slug/hotels/',
+        destination: '/best-hotels/:slug/',
+        permanent: true,
+      },
+      {
+        source: '/city/:slug/top-10-hotels/',
+        destination: '/best-hotels/:slug/',
         permanent: true,
       },
       // Travel insurance duplicate URL → canonical page
