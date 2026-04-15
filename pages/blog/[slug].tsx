@@ -30,6 +30,7 @@ import {
 import { getAllPosts, getPostBySlug, getRelatedPosts, getAdjacentPosts } from '../../lib/blog';
 import BlogTableOfContents from '../../components/blog/BlogTableOfContents';
 import InlineEngagementCTAs from '../../components/blog/InlineEngagementCTAs';
+import BuyerIntentNextStep from '../../components/blog/BuyerIntentNextStep';
 import BookingHeroCTA from '../../components/BookingHeroCTA';
 import { useSubId } from '../../lib/useSubId';
 
@@ -320,6 +321,10 @@ export default function BlogPostPage({ post, relatedPosts, prevPost, nextPost }:
                     category={post.category}
                     tags={post.tags}
                     className="mb-8"
+                  />
+                  <BuyerIntentNextStep
+                    post={{ slug: post.slug, title: post.title, tags: post.tags }}
+                    locale={locale}
                   />
                   {post.contentHtml ? (
                     <div
