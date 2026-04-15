@@ -89,8 +89,11 @@ export default function NewsPage({ articles }: NewsPageProps) {
 }
 
 export const getStaticProps: GetStaticProps<NewsPageProps> = async ({ locale }) => {
-  const articles = getAllNews(locale);
-
+  const raw = getAllNews(locale);
+  // Normalise via JSON round-trip: strips any Date instances, undefined values,
+  // functions, etc. that Next.js' getStaticProps serializer rejects. Cheaper
+  // than chasing which specific article field broke.
+  const articles = JSON.parse(JSON.stringify(raw));
   return {
     props: { articles },
     revalidate: 604800,
